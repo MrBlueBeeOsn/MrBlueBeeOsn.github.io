@@ -11,6 +11,9 @@ header {
   padding: 15px;
   text-align: right;
 }
+header h1 {
+  color: #ffffff; /* Tiêu đề trắng */
+}
 /* Đặt màu của liên kết */
         header a {
             color: #FFFFFF; /* Màu ban đầu của liên kết (trùng với màu nền) */
