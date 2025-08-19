@@ -59,3 +59,49 @@ a:active {
   background-color: transparent;
   text-decoration: underline;
 }
+
+.search-container {
+            display: flex;
+            gap: 10px;
+        }
+
+        .search-input {
+            padding: 12px 15px;
+            border: 1px solid #ddd;
+            border-radius: 50px;
+            width: 300px;
+            font-size: 16px;
+            transition: all 0.3s ease;
+        }
+
+        .search-input:focus {
+            outline: none;
+            border-color: #007bff;
+            box-shadow: 0 0 5px rgba(0, 123, 255, 0.25);
+        }
+
+        .search-button {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            padding: 12px 20px;
+            font-size: 16px;
+            color: #333;
+            background-color: #fff;
+            border: 1px solid #ddd;
+            border-radius: 50px;
+            cursor: pointer;
+            transition: all 0.3s ease;
+        }
+
+        .search-button:hover {
+            background-color: #e9ecef;
+            border-color: #ccc;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        }
+
+        .search-button i {
+            margin-right: 8px;
+            font-size: 18px;
+            color: #555;
+        }
