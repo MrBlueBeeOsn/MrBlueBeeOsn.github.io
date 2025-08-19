@@ -24,6 +24,24 @@
     <p>Đây là website HTML + CSS nhiều trang nội bộ đầu tiên của bạn 🚀.</p>
   </main>
 
+    <script>
+        const searchButton = document.querySelector('.search-button');
+        const searchInput = document.querySelector('.search-input');
+
+        searchButton.addEventListener('click', function() {
+            const query = searchInput.value;
+            if (query) {
+                window.location.href = `https://www.google.com/search?q=${query}`;
+            }
+        });
+
+        searchInput.addEventListener('keypress', function(e) {
+            if (e.key === 'Enter') {
+                searchButton.click();
+            }
+        });
+    </script>
+  
   <footer>
     <p>© 2025 - 🐝 Mr. ßee - 🅾ng siêng năng📘g</p>
     <a href="/about/index.html"><ins>๏</ins></a>
