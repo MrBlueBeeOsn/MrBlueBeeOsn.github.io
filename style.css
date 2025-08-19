@@ -37,19 +37,19 @@ footer {
 }
 
 a:link {
-  color: green;
+  color: #19D3DA;
   background-color: transparent;
   text-decoration: none;
 }
 
 a:visited {
-  color: pink;
+  color: #800080;
   background-color: transparent;
   text-decoration: none;
 }
 
 a:hover {
-  color: red;
+  color: #19D3DA;
   background-color: transparent;
   text-decoration: underline;
 }
