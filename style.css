@@ -11,6 +11,18 @@ header {
   padding: 15px;
   text-align: right;
 }
+/* Đặt màu của liên kết */
+        header a {
+            color: #FFFFFF; /* Màu ban đầu của liên kết (trùng với màu nền) */
+            text-decoration: none; /* Bỏ gạch chân mặc định */
+            font-weight: bold;
+        }
+
+        /* Hiệu ứng khi di chuột vào */
+        header a:hover {
+            color: #FFFFFF; /* Đổi màu liên kết thành trắng */
+            text-decoration: underline; /* Thêm gạch chân */
+        }
 nav {
   margin: 10px 0;
 }
