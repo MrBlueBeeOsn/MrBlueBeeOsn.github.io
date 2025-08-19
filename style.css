@@ -43,3 +43,8 @@ a:link {
   background-color: transparent;
   text-decoration: none;
 }
+
+a:visited {
+  color: #01ACC1;
+  background-color: transparent;
+  text-decoration: none;
