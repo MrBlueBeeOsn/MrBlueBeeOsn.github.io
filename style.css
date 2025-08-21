@@ -109,3 +109,9 @@ a:visited {
   background-repeat: no-repeat;
 }
 
+mark {
+    background-color: #66E2E6; /* Màu nhạt hơn */
+    color: #f3f3f3; /* Chữ xám rất nhạt, gần với màu trắng */
+    padding: 2px 4px;
+    border-radius: 3px;
+}
