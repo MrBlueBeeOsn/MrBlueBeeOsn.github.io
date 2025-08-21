@@ -52,32 +52,60 @@ a:visited {
 /* Quy tắc riêng cho trang chính */
 .bee-page {
   background-image: url("/images/flower2.11.png");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  min-height: 100vh;
 }
 
 /* Quy tắc riêng cho trang bài viết 1 */
 .bookkeeping-page {
   background-image: url("/images/flower2.2.png");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  min-height: 100vh;
 }
 
 /* Quy tắc riêng cho trang giới thiệu */
 .english-page {
   background-image: url("/images/flower2.2.png");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  min-height: 100vh;
 }
 
 /* Quy tắc riêng cho trang giới thiệu */
 .vocabulary-page {
   background-image: url("/images/flower2.2.png");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  min-height: 100vh;
 }
 
 .about-page {
   background-image: url("/images/flower2.3.png");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  min-height: 100vh;
 }
 
 .indiv-page {
   background-image: url("/images/flower2.41.png");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  min-height: 100vh;
 }
 
 .page {
   background-image: url("/images/flower2.5.png");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  min-height: 100vh;
 }
 
