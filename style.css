@@ -111,7 +111,7 @@ a:visited {
 
 mark {
     background-color: #66E2E6; /* Màu nhạt hơn */
-    color: #f3f3f3; /* Chữ xám rất nhạt, gần với màu trắng */
+    color: #ffffff; /* Chữ trắng */
     padding: 2px 4px;
     border-radius: 3px;
 }
