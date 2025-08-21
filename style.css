@@ -7,6 +7,7 @@ body {
   flex-direction: column;
   min-height: 100vh;
   margin: 0; /* Xóa margin mặc định của body */
+  padding-bottom: 60px; /* Tránh footer che nội dung */
 }
 header {
   background: #19D3DA;
