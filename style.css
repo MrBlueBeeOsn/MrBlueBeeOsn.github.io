@@ -60,6 +60,7 @@ a:visited {
   background-size: cover;
   background-position: right bottom;
   background-repeat: no-repeat;
+  flex: 1;
 }
 
 /* Quy tắc riêng cho trang bài viết 1 */
@@ -69,6 +70,7 @@ a:visited {
   background-size: cover;
   background-position: right bottom;
   background-repeat: no-repeat;
+  flex: 1;
 }
 
 /* Quy tắc riêng cho trang giới thiệu */
@@ -78,6 +80,7 @@ a:visited {
   background-size: cover;
   background-position: right bottom;
   background-repeat: no-repeat;
+  flex: 1;
 }
 
 /* Quy tắc riêng cho trang giới thiệu */
@@ -87,6 +90,7 @@ a:visited {
   background-size: cover;
   background-position: right bottom;
   background-repeat: no-repeat;
+  flex: 1;
 }
 
 .about-flower {
@@ -95,6 +99,7 @@ a:visited {
   background-size: cover;
   background-position: right bottom;
   background-repeat: no-repeat;
+  flex: 1;
 }
 
 .term-flower {
@@ -103,6 +108,7 @@ a:visited {
   background-size: cover;
   background-position: right bottom;
   background-repeat: no-repeat;
+  flex: 1;
 }
 
 /*contents-flower {
