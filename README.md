@@ -21,3 +21,22 @@ my_website/
 │
 └── images/
     └── logo.png
+
+Dựa trên việc tăng độ sáng (Lightness) và giữ sắc độ gần giống, đây là một số màu nhạt hơn của #19D3DA:
+
+Màu nhạt hơn (Lightness ~70%):
+
+Hex: #66E2E6
+RGB: (102, 226, 230)
+HSL: (182, 76%, 70%)
+Mô tả: Màu xanh lam nhạt hơn, sáng hơn nhưng vẫn giữ tông tươi.
+
+
+Màu rất nhạt (Lightness ~85%):
+
+Hex: #A6EFF1
+RGB: (166, 239, 241)
+HSL: (182, 76%, 85%)
+Mô tả: Màu xanh lam rất nhạt, gần pastel, nhẹ nhàng hơn.
+
+Mã màu #f3f3f3 là một màu xám rất nhạt, gần với màu trắng.
