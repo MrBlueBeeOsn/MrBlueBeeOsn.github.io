@@ -159,7 +159,7 @@ a:visited {
     border-radius: 3px;
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 800px) {
     main {
         width: 100%;
         overflow-x: hidden; /* Ngăn trượt ngang */
