@@ -58,7 +58,7 @@ a:visited {
 .bee-flower {
   background: url("/images/flower2.11.png") #f9f9f9;
   flex: 1;
-  width: 100%;
+  width: auto;
   height: auto;
   min-height: 100vh;
   background-size: cover;
@@ -71,7 +71,7 @@ a:visited {
 .bookkeeping-flower {
   background: url("/images/flower2.2.png") #f9f9f9;
   flex: 1;
-  width: 100%;
+  width: auto;
   height: auto;
   min-height: 100vh;
   background-size: cover;
@@ -84,7 +84,7 @@ a:visited {
 .english-flower {
   background: url("/images/flower2.2.png") #f9f9f9;
   flex: 1;
-  width: 100%;
+  width: auto;
   height: auto;
   min-height: 100vh;
   background-size: cover;
@@ -97,7 +97,7 @@ a:visited {
 .vocabulary-flower {
   background: url("/images/flower2.2.png") #f9f9f9;
   flex: 1;
-  width: 100%;
+  width: auto;
   height: auto;
   min-height: 100vh;
   background-size: cover;
@@ -120,7 +120,7 @@ a:visited {
 .term-flower {
   background: url("/images/flower2.41.png") #f9f9f9;
   flex: 1;
-  width: 100%;
+  width: auto;
   height: auto;
   min-height: 100vh;
   background-size: cover;
