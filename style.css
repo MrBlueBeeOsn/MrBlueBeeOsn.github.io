@@ -7,7 +7,6 @@ body {
   flex-direction: column;
   min-height: 100vh;
   margin: 0px;
-  overflow-x: hidden
 }
 header {
   background: #19D3DA;
