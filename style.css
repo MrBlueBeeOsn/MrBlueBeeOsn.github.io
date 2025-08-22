@@ -130,9 +130,23 @@ a:visited {
   background-repeat: no-repeat;
 }*/
   
-mark {
-    background-color: #66E2E6; /* Màu nhạt hơn */
-    color: #333; /* Chữ xám rất đậm, gần với màu đen. */
+.highlight1 {
+    background-color: #66E2E6; /* Blue nhạt hơn*/
+    color: #333;
+    padding: 2px 4px;
+    border-radius: 3px;
+}
+
+.highlight2 {
+    background-color: #A6EFF1; /* Blue rất nhạt*/
+    color: #333;
+    padding: 2px 4px;
+    border-radius: 3px;
+}
+
+.highlight3 {
+    background-color: #eeeeee; /* Xám rất nhạt*/
+    color: #333;
     padding: 2px 4px;
     border-radius: 3px;
 }
