@@ -29,9 +29,9 @@ nav a:hover {
   text-decoration: underline;
 }
 main {
-  max-width: 800px;
-  margin: 20px auto;
-  padding: 0 20px;
+  max-width: 800px;   /* giới hạn độ rộng, dễ đọc */
+  margin: 20px auto;  /* cách lề trên dưới 20px, căn giữa ngang */
+  padding: 0 20px;    /* tạo khoảng thở hai bên trái/phải */
 }
 footer {
   text-align: center;
