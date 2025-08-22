@@ -40,7 +40,7 @@ footer {
 }
 
 a:link {
-  color: #19D3DA /*#01ACC1;*/
+  color: #19D3DA; /*#01ACC1;*/
   background-color: transparent;
   text-decoration: none;
 }
