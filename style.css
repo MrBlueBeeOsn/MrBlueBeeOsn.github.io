@@ -32,8 +32,6 @@ main {
   max-width: 800px;
   margin: 20px auto;
   padding: 0 20px;
-  display: block; /* Loại bỏ khoảng trống dưới hình ảnh */
-  object-fit: contain; /* Đảm bảo hình ảnh vừa với container */
 }
 footer {
   text-align: center;
@@ -58,8 +56,8 @@ a:visited {
 /* Quy tắc riêng cho trang chính */
 .bee-flower {
   background: url("/images/flower2.11.png") #f9f9f9;
-  flex: 1;
-  width: 100%;
+  max-width: 100%;
+  display: block;
   height: auto;
   min-height: 100vh;
   background-size: cover;
@@ -71,8 +69,8 @@ a:visited {
 /* Quy tắc riêng cho trang bài viết 1 */
 .bookkeeping-flower {
   background: url("/images/flower2.2.png") #f9f9f9;
-  flex: 1;
-  width: 100%;
+  max-width: 100%;
+  display: block;
   height: auto;
   min-height: 100vh;
   background-size: cover;
@@ -84,8 +82,8 @@ a:visited {
 /* Quy tắc riêng cho trang giới thiệu */
 .english-flower {
   background: url("/images/flower2.2.png") #f9f9f9;
-  flex: 1;
-  width: 100%;
+  max-width: 100%;
+  display: block;
   height: auto;
   min-height: 100vh;
   background-size: cover;
@@ -97,8 +95,8 @@ a:visited {
 /* Quy tắc riêng cho trang giới thiệu */
 .vocabulary-flower {
   background: url("/images/flower2.2.png") #f9f9f9;
-  flex: 1;
-  width: 100%;
+  max-width: 100%;
+  display: block;
   height: auto;
   min-height: 100vh;
   background-size: cover;
@@ -109,7 +107,8 @@ a:visited {
 
 .about-flower {
   background: url("/images/flower2.3.png") #f9f9f9;
-  width: 100%;
+  max-width: 100%;
+  display: block;
   height: auto;
   min-height: 100vh;
   background-size: cover;
@@ -120,8 +119,8 @@ a:visited {
 
 .term-flower {
   background: url("/images/flower2.41.png") #f9f9f9;
-  flex: 1;
-  width: 100%;
+  max-width: 100%;
+  display: block;
   height: auto;
   min-height: 100vh;
   background-size: cover;
@@ -157,21 +156,4 @@ a:visited {
     color: #333;
     padding: 2px 4px;
     border-radius: 3px;
-}
-
-@media screen and (max-width: 800px) {
-    main {
-        width: 100%;
-        overflow-x: hidden; /* Ngăn trượt ngang */
-    }
-    main img {
-        width: 100%;
-        max-width: 100%;
-        height: auto;
-    }
-}
-
-body, html {
-    overflow-x: hidden;
-    width: 100%;
 }
