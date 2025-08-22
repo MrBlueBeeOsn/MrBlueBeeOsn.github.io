@@ -5,6 +5,7 @@ body {
   color: #333;
   display: flex;
   flex-direction: column;
+  margin: 0px;
 }
 header {
   background: #19D3DA;
@@ -40,13 +41,13 @@ footer {
 }
 
 a:link {
-  color: #19D3DA; /*#01ACC1;*/
+  color: #01ACC1;
   background-color: transparent;
   text-decoration: none;
 }
 
 a:visited {
-  color: #19D3DA;
+  color: #01ACC1;
   background-color: transparent;
   text-decoration: none;
 }
