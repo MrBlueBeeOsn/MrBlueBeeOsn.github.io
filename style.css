@@ -131,14 +131,14 @@ a:visited {
 }*/
   
 .highlight1 {
-    background-color: #66E2E6; /* Blue nhạt hơn*/
+    background-color: #66E2E6; /* Teal nhạt hơn*/
     color: #333;
     padding: 2px 4px;
     border-radius: 3px;
 }
 
 .highlight2 {
-    background-color: #A6EFF1; /* Blue rất nhạt*/
+    background-color: #A6EFF1; /* Teal rất nhạt*/
     color: #333;
     padding: 2px 4px;
     border-radius: 3px;
