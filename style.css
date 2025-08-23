@@ -177,5 +177,5 @@ nav ul {
 
 nav ul li {
     display: inline; /* Đặt các mục nằm trên cùng một dòng */
-    margin: 0 0px; /* Thêm khoảng cách giữa các mục */
+    margin: 0 10px; /* Thêm khoảng cách giữa các mục */
 }
