@@ -157,3 +157,21 @@ a:visited {
     padding: 2px 4px;
     border-radius: 3px;
 }
+
+.logo-container img {
+    height: 50px; /* Điều chỉnh kích thước logo */
+    width: auto; /* Chiều rộng sẽ tự động điều chỉnh để giữ tỷ lệ */
+    border-radius: 100%;
+    /* Các thuộc tính khác như border-radius */
+}
+
+nav ul {
+    list-style: none; /* Xóa các dấu chấm */
+    padding: 0;
+    margin: 0;
+}
+
+nav ul li {
+    display: inline; /* Đặt các mục nằm trên cùng một dòng */
+    margin: 0 0px; /* Thêm khoảng cách giữa các mục */
+}
