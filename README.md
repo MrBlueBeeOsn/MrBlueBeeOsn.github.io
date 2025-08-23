@@ -54,3 +54,7 @@ body {
   background-color: #212121; /* Xám đậm */
   color: #E0E0E0; /* Văn bản xám nhạt */
 }
+
+&#127803; sunflower 🌻
+&#127806; 🌾 "Ear of Rice"
+&#9752; ☘️ Shamrock <span style="color:#86d731;;">&#9752;</span>
