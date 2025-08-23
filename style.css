@@ -179,3 +179,10 @@ nav ul li {
     display: inline; /* Đặt các mục nằm trên cùng một dòng */
     margin: 0 0px; /* Thêm khoảng cách giữa các mục margin: 0 10px; */
 }
+
+.quote {
+  border-left: 6px solid #19D3DA;
+  background-color: #f3f3f3;
+  padding: 15px;
+  margin: 20px 0;
+}
