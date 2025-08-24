@@ -39,6 +39,7 @@ main {
   max-width: 700px;   /* giới hạn độ rộng, dễ đọc */
   margin: 20px auto;  /* cách lề trên dưới 20px, căn giữa ngang */
   padding: 0 20px;    /* tạo khoảng thở hai bên trái/phải */
+  overflow-x: hidden;
 }
 footer {
   text-align: center;
