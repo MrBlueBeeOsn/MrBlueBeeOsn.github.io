@@ -192,3 +192,14 @@ nav ul li {
   padding: 15px;
   margin: 20px 0;
 }
+
+main p {
+    width: 100%;
+    max-width: 100%;
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+    white-space: normal;
+    font-size: 18px;
+    /*line-height: 1.6;*/
+
+}
