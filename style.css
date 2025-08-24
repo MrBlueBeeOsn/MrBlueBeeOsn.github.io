@@ -40,7 +40,6 @@ main {
   margin: 20px auto;  /* cách lề trên dưới 20px, căn giữa ngang */
   padding: 0 20px;    /* tạo khoảng thở hai bên trái/phải */
   overflow-x: hidden;
-  font-family: "Bellota Text", sans-serif;
 }
 footer {
   text-align: center;
