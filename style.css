@@ -187,13 +187,43 @@ nav ul li {
   margin: 20px 0;
 }
 
-main p {
-    width: 100%;
-    max-width: 100%;
-    word-wrap: break-word;
-    overflow-wrap: break-word;
-    white-space: normal;
-    font-size: 18px;
-    /*line-height: 1.6;*/
+@media screen and (max-width: 768px) {
+    header {
+        padding: 10px;
+    }
 
+    header img {
+        max-width: 80px;
+    }
+
+    header h1 {
+        font-size: 20px;
+    }
+
+    nav {
+        flex-direction: column;
+        gap: 10px;
+    }
+
+    nav a {
+        font-size: 14px;
+    }
+
+    main {
+        width: 100%; /* Co giãn trên điện thoại */
+        max-width: 100vw;
+        padding: 15px;
+        box-shadow: none;
+        border: none;
+    }
+
+    main img {
+        max-width: 100%;
+        margin-bottom: 15px;
+    }
+
+    main p {
+        font-size: 16px;
+        line-height: 1.5;
+    }
 }
