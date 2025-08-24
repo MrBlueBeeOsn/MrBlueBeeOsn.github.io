@@ -191,3 +191,18 @@ nav ul li {
   padding: 15px;
   margin: 20px 0;
 }
+
+@media screen and (max-width: 768px) {
+    main {
+        width: 100%; /* Co giãn trên điện thoại */
+        max-width: 100vw;
+        padding: 15px;
+        box-shadow: none;
+        border: none;
+    }
+    main img {
+        max-width: 100%;
+        margin-bottom: 15px;
+    }
+}
+
