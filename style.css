@@ -139,10 +139,10 @@ footer {
         font-size: 20px;
     }
 
-    nav {
+    /*nav {
         flex-direction: column;
         gap: 10px;
-    }
+    }*/
 
     nav a {
         font-size: 14px;
