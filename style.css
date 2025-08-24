@@ -59,7 +59,7 @@ main.image {
     background-color: #f5f5f5;
     background-image: url('https://mrbluebeeosn.github.io//images/flower2.11.png'); /* Hình nền giống giấy */
     background-size: cover;
-    background-position: center;
+    background-position: bottom right;
     background-repeat: no-repeat;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
     border: 2px solid #eee;
@@ -159,7 +159,7 @@ footer {
         overflow-x: hidden;
         background-image: url('https://mrbluebeeosn.github.io//images/flower2.11.png');
         background-size: cover;
-        background-position: center;
+        background-position: bottom right;
         background-repeat: no-repeat;
     }
 
