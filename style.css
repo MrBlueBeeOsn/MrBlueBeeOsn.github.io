@@ -60,9 +60,8 @@ a:visited {
 /* Quy tắc riêng cho trang chính */
 .bee-flower {
   background: url("/images/flower2.11.png") #f9f9f9;
-  max-width: 100%;
   display: block;
-  width: auto;
+  width: 100%;
   height: auto;
   min-height: 100vh;
   background-size: cover;
@@ -74,9 +73,8 @@ a:visited {
 /* Quy tắc riêng cho trang bài viết 1 */
 .bookkeeping-flower {
   background: url("/images/flower2.2.png") #f9f9f9;
-  max-width: 100%;
   display: block;
-  width: auto;
+  width: 100%;
   height: auto;
   min-height: 100vh;
   background-size: cover;
@@ -88,9 +86,8 @@ a:visited {
 /* Quy tắc riêng cho trang giới thiệu */
 .english-flower {
   background: url("/images/flower2.2.png") #f9f9f9;
-  max-width: 100%;
   display: block;
-  width: auto;
+  width: 100%;
   height: auto;
   min-height: 100vh;
   background-size: cover;
@@ -102,9 +99,8 @@ a:visited {
 /* Quy tắc riêng cho trang giới thiệu */
 .vocabulary-flower {
   background: url("/images/flower2.2.png") #f9f9f9;
-  max-width: 100%;
   display: block;
-  width: auto;
+  width: 100%;
   height: auto;
   min-height: 100vh;
   background-size: cover;
@@ -115,9 +111,8 @@ a:visited {
 
 .about-flower {
   background: url("/images/flower2.3.png") #f9f9f9;
-  max-width: 100%;
   display: block;
-  width: auto;
+  width: 100%;
   height: auto;
   min-height: 100vh;
   background-size: cover;
@@ -128,9 +123,8 @@ a:visited {
 
 .term-flower {
   background: url("/images/flower2.41.png") #f9f9f9;
-  max-width: 100%;
   display: block;
-  width: auto;
+  width: 100%;
   height: auto;
   min-height: 100vh;
   background-size: cover;
