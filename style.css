@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Bellota:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bellota&family=Bellota+Text:wght@300;400&display=swap');
 * {
     box-sizing: border-box;
 }
@@ -349,4 +349,12 @@ p.last-of-type, h2.last-of-type {
 
 p.first-of-type, h2.last-of-type {
     margin-top: 50px; /* hoặc một giá trị khác phù hợp hơn */
+}
+
+p {
+  font-family: 'Bellota Text', sans-serif;
+}
+
+ul {
+  font-family: 'Bellota Text', sans-serif;
 }
