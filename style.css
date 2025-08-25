@@ -127,6 +127,11 @@ main p {
     text-align: justify;
     font-size: 18px;
     margin-bottom: 15px;
+    padding-left: 10px; /* Lề trái 50px */
+}
+
+h3 {
+    padding-left: 10px; /* Lề trái 50px */
 }
 
 footer {
@@ -215,6 +220,7 @@ footer {
         font-size: 18px;
         line-height: 1.5;
         text-align: justify;
+        padding-left: 10px; /* Lề trái 50px */
     }
 
     nav ul li {
@@ -225,6 +231,10 @@ footer {
     ul li {
         padding-bottom: 10px; /* Thêm khoảng đệm 10px bên dưới */
     }
+
+    ul {
+    padding-left: 50px; /* Thêm khoảng đệm 20px ở lề trái */
+    } 
 }
 
 a:link {
@@ -310,6 +320,10 @@ nav ul li {
 
 ul li {
     padding-bottom: 10px; /* Thêm khoảng đệm 10px bên dưới */
+}
+
+ul {
+    padding-left: 50px; /* Thêm khoảng đệm 20px ở lề trái */
 }
 
 header {
