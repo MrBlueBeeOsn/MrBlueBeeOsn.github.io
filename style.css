@@ -358,3 +358,7 @@ p {
 ul {
   font-family: 'Bellota Text', sans-serif;
 }
+
+.font-normal {
+  font-weight: normal;
+}
