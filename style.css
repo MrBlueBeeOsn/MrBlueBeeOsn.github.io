@@ -294,19 +294,19 @@ footer {
 }
 
 nav {
-  align-items: center; /* Căn giữa theo chiều dọc */
-  padding: 10px 20px;
-  justify-content: center; /* Căn giữa theo chiều ngang */
+    align-items: center; /* Căn giữa theo chiều dọc */
+    padding: 10px 20px;
+    justify-content: center; /* Căn giữa theo chiều ngang */
 }
 nav a {
-  margin: 0 10px;
-  text-decoration: none;
-  color: white;
-  font-weight: bold;
-  transition: color 0.3s ease;
+    margin: 0 10px;
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    transition: color 0.3s ease;
 }
 nav a:hover {
-  text-decoration: underline;
+    text-decoration: underline;
 }
 
 nav ul {
