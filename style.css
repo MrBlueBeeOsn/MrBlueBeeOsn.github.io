@@ -234,9 +234,15 @@ footer {
 }
 
 a:link {
-  color: #01ACC1;
-  background-color: transparent;
-  text-decoration: none;
+    color: #01ACC1;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #01ACC1; /* Màu sẽ thay đổi thành đỏ khi di chuột */
+    text-decoration: underline; /* Sẽ gạch chân khi di chuột */
+    transition: color 0.3s ease; /* Áp dụng hiệu ứng chuyển tiếp */
 }
 
 a:visited {
