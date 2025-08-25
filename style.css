@@ -220,9 +220,11 @@ footer {
     nav ul li {
         display: inline; /* Đặt các mục nằm trên cùng một dòng */
         margin: 0 0px; /* Thêm khoảng cách giữa các mục margin: 0 10px; */
-        padding-bottom: 10px; /* Thêm khoảng đệm 10px bên dưới */
     }
 
+    ul li {
+        padding-bottom: 10px; /* Thêm khoảng đệm 10px bên dưới */
+    }
 }
 
 a:link {
@@ -304,6 +306,9 @@ nav ul {
 nav ul li {
     display: inline; /* Đặt các mục nằm trên cùng một dòng */
     margin: 0 0px; /* Thêm khoảng cách giữa các mục margin: 0 10px; */
+}
+
+ul li {
     padding-bottom: 10px; /* Thêm khoảng đệm 10px bên dưới */
 }
 
