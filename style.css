@@ -337,10 +337,10 @@ main {
     flex: 1; /* Cho phép main tự động co giãn để chiếm không gian trống */
 }
 
-p.last-of-type {
+p.last-of-type, h2.last-of-type {
   margin-bottom: 50px; /* hoặc một giá trị khác phù hợp hơn */
 }
 
-p.first-of-type {
+p.first-of-type, h2.last-of-type {
   margin-top: 50px; /* hoặc một giá trị khác phù hợp hơn */
 }
