@@ -425,8 +425,9 @@ p.first-of-type {
     margin-top: 50px; /* hoặc một giá trị khác phù hợp hơn */
 }
 
-h2.last-of-type {
+h2.last-first-of-type {
     margin-bottom: 50px;
+    margin-top: 50px;
 }
 
 p.color {
