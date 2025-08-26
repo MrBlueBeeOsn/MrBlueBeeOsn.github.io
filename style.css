@@ -420,6 +420,7 @@ h2.last-of-type {
 
 p.text-align {
     font-size: 14px;
+    text-align: right;
     font-weight: normal;
     margin-bottom: 50px; /* hoặc một giá trị khác phù hợp hơn */
 }
