@@ -421,17 +421,24 @@ p.text-indent {
     text-indent: 2em;
 }
 
+p.last-text-indent {
+    margin-bottom: 50px;
+    text-indent: 2em;
+}
+
 p.first-of-type {
     margin-top: 50px; /* hoặc một giá trị khác phù hợp hơn */
+}
+
+p.last-first-of-type {
+    margin-bottom: 50px;
+    margin-top: 50px;
+    color: #01ACC1;
 }
 
 h2.last-first-of-type {
     margin-bottom: 50px;
     margin-top: 50px;
-}
-
-p.color {
-    color: #01ACC1;
 }
 
 p.text-align {
