@@ -340,6 +340,8 @@ a:visited {
     height: 50px; /* Điều chỉnh kích thước logo */
     width: auto; /* Chiều rộng sẽ tự động điều chỉnh để giữ tỷ lệ */
     border-radius: 100%;
+    background-color: transparent;
+    border: none;
     outline: none;
 }
 
