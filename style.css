@@ -539,6 +539,7 @@ ul {
             opacity: 0.3; /* Làm nút mờ đi một chút */
             /*visibility: hidden;*/
             transition: opacity 0.3s ease-in-out; /*visibility 0.3s;*/
+            transition: transform 0.1s ease-in-out; /* mượt khi nhấn */
             background-size: cover;
             z-index: 99;
         }
@@ -555,8 +556,8 @@ ul {
         .back-to-top:active {
             background-color: transparent;
             outline: none; /* Xóa bỏ đường viền nổi bật (outline) */
+            transform: scale(0.92); /* chữ + nền nhỏ lại */
         }
-            /* Ẩn đường viền nổi bật khi dùng phím Tab */
     
         .back-to-top:focus {
             outline: none;
@@ -583,6 +584,8 @@ ul {
                 -webkit-focus-ring-color: transparent;    /* Safari */
                 border: none;
                 outline: none;
+                transition: opacity 0.3s ease-in-out; /*visibility 0.3s;*/
+                transition: transform 0.1s ease-in-out; /* mượt khi nhấn */
             }
             .back-to-top.show {
                 opacity: 0.3;
@@ -594,6 +597,7 @@ ul {
             .back-to-top:active {
                 background-color: transparent;
                 outline: none; /* Xóa bỏ đường viền nổi bật (outline) */
+                transform: scale(0.92); /* chữ + nền nhỏ lại */
             }
             /* Ẩn đường viền nổi bật khi dùng phím Tab */
             .back-to-top:focus {
