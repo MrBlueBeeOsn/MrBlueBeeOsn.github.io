@@ -468,7 +468,8 @@ ul {
         .back-to-top {
             position: fixed;
             bottom: 20px;
-            right: 20px;
+            right: calc(50% - 350px); /* mép phải của container */
+            margin-bottom: 120px; /* cách footer 20px */
             background-image: url('/images/bee2.png');
             background-color: transparent;
             /* background-color: #01ACC1; Màu xanh dương nhạt*/
@@ -484,7 +485,7 @@ ul {
             cursor: pointer;
             opacity: 0.3; /* Làm nút mờ đi một chút */
             /*visibility: hidden;*/
-            transition: opacity 0.3s, visibility 0.3s;
+            transition: opacity 0.3s ease-in-out; /*visibility 0.3s;*/
             background-size: cover;
             z-index: 99;
         }
@@ -495,7 +496,7 @@ ul {
         }
 
         .back-to-top:hover {
-            /*background-color: #01ACC1;  Màu tối hơn khi hover */
+            opacity: 1;
         }
 
         /* Responsive */
