@@ -468,7 +468,7 @@ ul {
         .back-to-top {
             position: fixed;
             bottom: 20px;
-            right: calc(50% - 350px); /* mép phải của container */
+            left: calc(50% - 350px - 15px); /* thò ra ngoài 15px */
             margin-bottom: 120px; /* cách footer 20px */
             background-image: url('/images/bee2.png');
             background-color: transparent;
