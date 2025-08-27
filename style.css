@@ -486,6 +486,12 @@ p.last-first-of-type {
     color: #01ACC1;
 }
 
+h1.last-first-of-type {
+    margin-bottom: 50px;
+    margin-top: 50px;
+    text-align: center;
+}
+
 h2.last-first-of-type {
     margin-bottom: 50px;
     margin-top: 50px;
