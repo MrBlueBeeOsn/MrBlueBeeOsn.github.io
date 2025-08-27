@@ -340,6 +340,7 @@ a:visited {
     height: 50px; /* Điều chỉnh kích thước logo */
     width: auto; /* Chiều rộng sẽ tự động điều chỉnh để giữ tỷ lệ */
     border-radius: 100%;
+    outline: none;
 }
 
 footer {
@@ -475,6 +476,7 @@ ul {
             /* background-color: #01ACC1; Màu xanh dương nhạt*/
             color: white;
             border: none;
+            outline: none;
             border-radius: 50%;
             width: 50px;
             height: 50px;
@@ -497,6 +499,13 @@ ul {
 
         .back-to-top:hover {
             opacity: 1;
+        }
+
+        .back-to-top:focus,
+        .back-to-top:active {
+            background-color: transparent;
+            outline: none;
+            box-shadow: none; /* nếu có */
         }
 
         /* Responsive */
@@ -522,5 +531,11 @@ ul {
             }
             .back-to-top:hover {
                 opacity: 1;
+            }
+            .back-to-top:focus,
+            .back-to-top:active {
+                background-color: transparent;
+                outline: none;
+                box-shadow: none; /* nếu có */
             }
         }
