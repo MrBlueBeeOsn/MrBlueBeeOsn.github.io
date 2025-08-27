@@ -464,6 +464,11 @@ p.first-of-type {
     margin-top: 50px; /* hoặc một giá trị khác phù hợp hơn */
 }
 
+p.first-of-type-center {
+    margin-top: 50px; /* hoặc một giá trị khác phù hợp hơn */
+    text-align: center;
+}
+
 p.last-first-of-type {
     margin-bottom: 50px;
     margin-top: 50px;
