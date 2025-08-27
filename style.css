@@ -296,6 +296,19 @@ a:visited {
     text-decoration: none;
 }
 
+a img {
+  border-radius: 50%; /* hoặc 10px tuỳ bạn */
+  display: block;     /* tránh inline-gap */
+}
+
+a {
+  -webkit-tap-highlight-color: transparent; /* bỏ highlight khi chạm trên mobile */
+}
+
+a:active img {
+  opacity: 0.7;  /* hiệu ứng nhấn giữ lại cảm giác click, không bị nền vuông */
+}
+
 /* =============================
    Highlight
 ============================= */
