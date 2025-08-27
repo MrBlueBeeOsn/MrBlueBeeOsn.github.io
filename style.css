@@ -482,8 +482,8 @@ ul {
             align-items: center;
             justify-content: center;
             cursor: pointer;
-            opacity: 0.7;  /* Làm nút mờ đi một chút */
-            visibility: hidden; 
+            opacity: 0.3; /* Làm nút mờ đi một chút */
+            /*visibility: hidden;*/
             transition: opacity 0.3s, visibility 0.3s;
             background-size: cover;
             z-index: 99;
