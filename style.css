@@ -52,20 +52,59 @@ header h1 {
 
 nav {
     display: flex;
-    justify-content: center;
     gap: 20px;
-    /*margin-top: 10px;*/
+    align-items: center; /* Căn giữa theo chiều dọc */
+    padding: 10px 20px;
+    justify-content: center; /* Căn giữa theo chiều ngang */
+}
+
+nav a {
+    margin: 0 10px;
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    transition: color 0.3s ease;
+}
+nav a:hover {
+    text-decoration: underline;
+}
+
+nav ul {
+    list-style: none; /* Xóa các dấu chấm */
+    padding: 0;
+    margin: 0;
+}
+
+nav ul li {
+    display: inline; /* Đặt các mục nằm trên cùng một dòng */
+    margin: 0 0px; /* Thêm khoảng cách giữa các mục margin: 0 10px; */
 }
 
 nav a {
     text-decoration: none;
-    color: #333;
     font-size: 18px; /*16px;*/
+}
+
+.nav-link {
+    display: inline-block;
+    position: relative;
+    text-decoration: none;
+    border-radius: 10px; /* bo tròn */
+    transition: transform 0.15s ease, background-color 0.3s ease;
+}
+
+    /* hiệu ứng khi nhấn */
+.nav-link:active {
+    transform: scale(0.92); /* chữ + nền nhỏ lại */
 }
 
 /* =============================
    Main
 ============================= */
+
+main {
+    flex: 1; /* Cho phép main tự động co giãn để chiếm không gian trống */
+}
 
 main.image {
     width: 700px; /* Chiều rộng cố định, tối ưu cho blog */
@@ -360,39 +399,16 @@ a:active img {
     outline: none;
 }
 
+.branding:active {
+    transform: scale(0.92); /* chữ + nền nhỏ lại */
+}
+
 footer {
     padding: 10px;
     margin-top: 20px;
     background: #333;
     color: white;
     margin-top: auto;
-}
-
-nav {
-    align-items: center; /* Căn giữa theo chiều dọc */
-    padding: 10px 20px;
-    justify-content: center; /* Căn giữa theo chiều ngang */
-}
-nav a {
-    margin: 0 10px;
-    text-decoration: none;
-    color: white;
-    font-weight: bold;
-    transition: color 0.3s ease;
-}
-nav a:hover {
-    text-decoration: underline;
-}
-
-nav ul {
-    list-style: none; /* Xóa các dấu chấm */
-    padding: 0;
-    margin: 0;
-}
-
-nav ul li {
-    display: inline; /* Đặt các mục nằm trên cùng một dòng */
-    margin: 0 0px; /* Thêm khoảng cách giữa các mục margin: 0 10px; */
 }
 
 /* =============================
@@ -412,14 +428,14 @@ header {
     color: white;
 }
 
+header nav a.nav-link {
+  color: #ffff;
+}
+
 body {
     display: flex;
     flex-direction: column; /* Sắp xếp các phần tử theo cột */
     min-height: 100vh;      /* Đảm bảo body có chiều cao tối thiểu bằng màn hình */
-}
-
-main {
-    flex: 1; /* Cho phép main tự động co giãn để chiếm không gian trống */
 }
 
 /* =============================
@@ -474,7 +490,7 @@ ul {
   font-family: 'Bellota Text', sans-serif;
 }
 
-.list-styles {
+.list-square {
     list-style-type:square;
 }
 
