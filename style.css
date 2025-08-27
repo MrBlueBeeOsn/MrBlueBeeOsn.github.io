@@ -90,7 +90,7 @@ nav a {
     position: relative;
     text-decoration: none;
     border-radius: 10px; /* bo tròn */
-    transition: transform 0.15s ease, background-color 0.3s ease;
+    transition: transform 0.15s ease; /* mượt khi nhấn */
 }
 
     /* hiệu ứng khi nhấn */
@@ -317,6 +317,16 @@ footer {
    a
 ============================= */
 
+a {
+    display: inline-block; /* cho transform hoạt động */
+    transition: transform 0.1s ease-in-out; /* mượt khi nhấn */
+    -webkit-tap-highlight-color: transparent; /* bỏ highlight khi chạm trên mobile */
+}
+
+a:active {
+    transform: scale(0.92); /* co chữ + nền */
+}
+
 a:link {
     color: #01ACC1;
     background-color: transparent;
@@ -338,10 +348,6 @@ a:visited {
 a img {
   border-radius: 50%; /* hoặc 10px tuỳ bạn */
   display: block;     /* tránh inline-gap */
-}
-
-a {
-  -webkit-tap-highlight-color: transparent; /* bỏ highlight khi chạm trên mobile */
 }
 
 a:active img {
@@ -387,6 +393,11 @@ a:active img {
 /* =============================
    Branding (Logo)
 ============================= */
+
+.branding {
+    display: inline-block; /* cho transform hoạt động */
+    transition: transform 0.1s ease-in-out; /* mượt khi nhấn */
+}
 
 .branding img {
     height: 50px; /* Điều chỉnh kích thước logo */
