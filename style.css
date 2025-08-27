@@ -514,7 +514,7 @@ ul {
                 height: 40px;
                 font-size: 20px;
                 bottom: 20px;
-                right: 0px;
+                left: -12px;  /* lấn ra ngoài màn hình 12px */
             }
             .back-to-top.show {
                 opacity: 0.3;
