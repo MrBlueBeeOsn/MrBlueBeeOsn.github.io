@@ -368,7 +368,8 @@ p.last-first-of-type {
    h1, h2
 ============================= */
 
-h1.last-first-of-type {
+h1.last-first-of-type,
+h3.last-first-of-type {
     margin-bottom: 50px;
     margin-top: 50px;
     text-align: center;
