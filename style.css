@@ -324,11 +324,11 @@ p.text-indent {
     text-indent: 2em; /* Chỉ thụt lề dòng đầu tiên của đoạn văn. */
 }
 
-.indent-me {
+p.indent-me {
     margin-left: 1em; /* Thụt lề toàn bộ khối của phần tử */
 }
 
-.last-indent-me {
+p.last-indent-me {
     margin-bottom: 50px;
     margin-left: 1em; /* Thụt lề 30px từ lề trái */
 }
