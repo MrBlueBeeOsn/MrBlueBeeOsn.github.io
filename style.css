@@ -324,6 +324,10 @@ p.text-indent {
     text-indent: 2em;
 }
 
+.indent-me {
+  margin-left: 1em; /* Thụt lề 30px từ lề trái */
+}
+
 p.last-text-indent {
     margin-bottom: 50px;
     text-indent: 2em;
@@ -385,6 +389,10 @@ ul {
 
 ul li {
     padding-bottom: 10px; /* Thêm khoảng đệm 10px bên dưới */
+}
+
+.nested-ul {
+    padding-top: 10px;
 }
 
 li.last-of-type {
