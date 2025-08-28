@@ -384,6 +384,14 @@ h2.last-first-of-type {
     margin-top: 50px;
 }
 
+.custom-hr {
+  border: none;            /* bỏ viền mặc định */
+  height: 3px;             /* độ dày đường */
+  background-color: #01ACC1; /* màu bạn muốn, ở đây là xanh */
+  margin: 20px 0;          /* khoảng cách trên dưới */
+  border-radius: 2px;      /* bo tròn nhẹ nếu muốn */
+}
+
 /* =============================
    ul
 ============================= */
@@ -611,6 +619,10 @@ li.last-of-type {
             ul {
                 padding-left: 50px; /* Thêm khoảng đệm 20px ở lề trái */
             } 
+            hr {
+                height: 1px; /* Giảm độ dày trên mobile */
+                margin: 15px 0; /* Giảm khoảng cách */
+            }
         }
 
         /* =============================
