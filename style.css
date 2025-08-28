@@ -324,6 +324,11 @@ p.text-indent {
     text-indent: 2em;
 }
 
+p.last-text-indent {
+    margin-bottom: 50px;
+    text-indent: 2em;
+}
+
 p.text-align {
     font-size: 14px;
     /*text-align: right;*/
@@ -333,11 +338,6 @@ p.text-align {
 
 p.last-of-type {
     margin-bottom: 50px; /* hoặc một giá trị khác phù hợp hơn */
-}
-
-p.last-text-indent {
-    margin-bottom: 50px;
-    text-indent: 2em;
 }
 
 p.first-of-type {
@@ -397,6 +397,14 @@ li.last-of-type {
 
 .list-square {
     list-style-type:square;
+}
+
+.list-disc {
+    list-style-type:disc;
+}
+
+.list-circle {
+    list-style-type:circle;
 }
 
 .font-normal {
