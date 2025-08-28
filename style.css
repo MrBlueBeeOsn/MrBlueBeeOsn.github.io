@@ -397,7 +397,7 @@ hr.short-hr {
   height: 3px;             /* độ dày đường */
   background-color: #A6EFF1; /* màu bạn muốn, ở đây là xanh */
   margin: 20px auto;         /* căn giữa theo chiều ngang */
-  width: 400px;             /* chiều dài mong muốn */
+  width: 50%;               /* Giảm chiều rộng xuống còn 50% */
   border-radius: 2px;      /* bo tròn nhẹ nếu muốn */
 }
 
@@ -634,7 +634,7 @@ li.last-of-type {
             }
             hr.short-hr {
                 height: 2px; /* Giảm độ dày trên mobile */
-                width: 250px;       /* chiều dài mong muốn */
+                width: 50%; /* Giảm chiều rộng xuống còn 50% */
                 margin: 15px auto; /* Giảm khoảng cách căn giữa theo chiều ngang */
             }
         }
