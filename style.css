@@ -466,6 +466,27 @@ li.last-of-type {
   font-weight: normal;
 }
 
+.mrbeeosn {
+    list-style-type: none;
+    padding-left: 0;
+    margin-top: 1rem;
+    text-align: center;
+}
+
+.mrbeeosn li {
+    padding: 0.8rem 0;
+    border-bottom: 1px dashed #A6EFF1;
+    transition: background-color 0.2s ease;
+}
+
+.mrbeeosn li:hover {
+    /*background-color: #A6EFF1;*/
+}
+
+.mrbeeosn li:last-child {
+    border-bottom: none;
+}
+
 /* =============================
    Back to Top Button
 ============================= */
