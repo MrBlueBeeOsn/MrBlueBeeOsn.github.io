@@ -555,6 +555,7 @@ li.last-of-type {
         align-items: center;
         font-size:  18px;
         font-weight: 400;
+        font-weight: bold;
     }
 
     /* Thêm dấu "+" hoặc "-" bên cạnh năm */
