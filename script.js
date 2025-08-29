@@ -1,5 +1,5 @@
 /* =============================
-   Back to Top Button
+   Back to Top Button - by GRK
 ============================= */
 
 const backToTopButton = document.querySelector('.back-to-top');
@@ -34,7 +34,7 @@ const backToTopButton = document.querySelector('.back-to-top');
         });
 
 /* =============================
-   My Blog Journey
+   My Blog Journey - by DPSK
 ============================= */
 
         // Chờ cho trang web tải xong
