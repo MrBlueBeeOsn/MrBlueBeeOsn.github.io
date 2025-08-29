@@ -57,4 +57,4 @@ body {
 
 &#127803; sunflower 🌻
 &#127806; 🌾 "Ear of Rice"
-&#9752; ☘️ Shamrock <span style="color:#86d731;;">&#9752;</span>
+&#9752; ☘️ Shamrock <span style="color:#86d731;;">&#9752;</span>🌱
