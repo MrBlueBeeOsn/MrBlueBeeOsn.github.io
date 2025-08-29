@@ -426,6 +426,10 @@ li.last-of-type {
    Utilities
 ============================= */
 
+.list-none {
+    list-style-type: none; /* Hình vuông đầy */
+}
+
 .list-square {
     list-style-type: square; /* Hình vuông đầy */
 }
