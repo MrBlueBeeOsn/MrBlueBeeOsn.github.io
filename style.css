@@ -470,53 +470,115 @@ li.last-of-type {
    Back to Top Button
 ============================= */
 
-.back-to-top {
-    position: fixed;
-    bottom: 20px;
-    left: calc(50% - 350px - 14px); /* thò ra ngoài 15px */
-    margin-bottom: 120px; /* cách footer 20px */
-    background-image: url('/images/bee2.png');
-    background-color: transparent;
-    /* background-color: #01ACC1; Màu xanh dương nhạt*/
-    -webkit-tap-highlight-color: transparent; /* iOS Safari & Chrome */
-    -webkit-focus-ring-color: transparent;    /* Safari */
-    color: white;
-    border: none;
-    outline: none;
-    border-radius: 50%;
-    width: 50px;
-    height: 50px;
-    font-size: 24px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    cursor: pointer;
-    opacity: 0.3; /* Làm nút mờ đi một chút */
-    /*visibility: hidden;*/
-    transition: opacity 0.3s ease-in-out; /*visibility 0.3s;*/
-    transition: transform 0.1s ease-in-out; /* mượt khi nhấn */
-    background-size: cover;
-    z-index: 99;
-}
+    .back-to-top {
+        position: fixed;
+        bottom: 20px;
+        left: calc(50% - 350px - 14px); /* thò ra ngoài 15px */
+        margin-bottom: 120px; /* cách footer 20px */
+        background-image: url('/images/bee2.png');
+        background-color: transparent;
+        /* background-color: #01ACC1; Màu xanh dương nhạt*/
+        -webkit-tap-highlight-color: transparent; /* iOS Safari & Chrome */
+        -webkit-focus-ring-color: transparent;    /* Safari */
+        color: white;
+        border: none;
+        outline: none;
+        border-radius: 50%;
+        width: 50px;
+        height: 50px;
+        font-size: 24px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        cursor: pointer;
+        opacity: 0.3; /* Làm nút mờ đi một chút */
+        /*visibility: hidden;*/
+        transition: opacity 0.3s ease-in-out; /*visibility 0.3s;*/
+        transition: transform 0.1s ease-in-out; /* mượt khi nhấn */
+        background-size: cover;
+        z-index: 99;
+    }
 
-.back-to-top.show {
-    opacity: 0.3;
-    visibility: 0.3s;
-}
+    .back-to-top.show {
+        opacity: 0.3;
+        visibility: 0.3s;
+    }
 
-.back-to-top:hover {
-    opacity: 1;
-}
+    .back-to-top:hover {
+        opacity: 1;
+    }
 
-.back-to-top:active {
-    background-color: transparent;
-    outline: none; /* Xóa bỏ đường viền nổi bật (outline) */
-    transform: scale(0.92); /* chữ + nền nhỏ lại */
-}
+    .back-to-top:active {
+        background-color: transparent;
+        outline: none; /* Xóa bỏ đường viền nổi bật (outline) */
+        transform: scale(0.92); /* chữ + nền nhỏ lại */
+    }
 
-.back-to-top:focus {
-    outline: none;
-}
+    .back-to-top:focus {
+        outline: none;
+    }
+
+/* =============================
+   My Blog Journey
+============================= */
+
+    /* Style cho tiêu đề năm - Có thể click được */
+    .year {
+        color: #01ACC1;
+        border-bottom: 2px solid #A6EFF1;
+        padding-bottom: 0.75rem;
+        margin-top: 2rem;
+        cursor: pointer; /* Biến con trỏ thành bàn tay */
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        font-size:  18px;
+        font-weight: 400;
+    }
+
+    /* Thêm dấu "+" hoặc "-" bên cạnh năm */
+    .year::after {
+        content: "−"; /* Dấu "trừ" mặc định (nội dung đang hiển thị) */
+        font-size: 1.8rem;
+        color: #A6EFF1;
+    }
+
+    /* Khi năm bị thu gọn, đổi thành dấu "+" */
+    .year.collapsed::after {
+        content: "+";
+    }
+
+    /* Ẩn danh sách tháng của các năm bị thu gọn */
+    .year.collapsed + .month-list {
+        display: none;
+    }
+
+    .month-list {
+        list-style-type: none;
+        padding-left: 0;
+        margin-top: 1rem;
+    }
+
+    .month-list li {
+        padding: 0.8rem 0;
+        border-bottom: 1px dashed #A6EFF1;
+        transition: background-color 0.2s ease;
+    }
+
+    .month-list li:hover {
+        /*background-color: #A6EFF1;*/
+    }
+
+    .month-list li:last-child {
+        border-bottom: none;
+    }
+
+    .month {
+        font-weight: 600;
+        color: black;
+        display: inline-block;
+        min-width: 85px;
+    }
 
 /* =============================
     Mobile (Responsive)
