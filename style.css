@@ -284,7 +284,7 @@ mark.bold {
 
 span.bold {
     font-weight: bold;
-  }
+}
 
 /* =============================
    Quote
@@ -434,7 +434,7 @@ ol li {
 .nested-ul,
 .nested-ol {
     padding-top: 10px;
-
+}
 
 li.last-of-type {
     margin-bottom: 50px; /* hoặc một giá trị khác phù hợp hơn */
