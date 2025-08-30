@@ -274,6 +274,19 @@ a:active img {
 }
 
 /* =============================
+   Bold
+============================= */
+
+mark.bold {
+      background-color: transparent;
+      font-weight: bold;
+    }
+
+span.bold {
+    font-weight: bold;
+  }
+
+/* =============================
    Quote
 ============================= */
 
