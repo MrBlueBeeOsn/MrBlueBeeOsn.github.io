@@ -408,18 +408,20 @@ hr.short-hr {
    ul
 ============================= */
 
-ul {
+ul, ol {
   font-family: 'Bellota Text', sans-serif;
   padding-left: 50px; /* Thêm khoảng đệm 20px ở lề trái */
 }
 
-ul li {
+ul li,
+ol li {
     padding-bottom: 10px; /* Thêm khoảng đệm 10px bên dưới */
 }
 
-.nested-ul {
+.nested-ul,
+.nested-ol {
     padding-top: 10px;
-}
+
 
 li.last-of-type {
     margin-bottom: 50px; /* hoặc một giá trị khác phù hợp hơn */
