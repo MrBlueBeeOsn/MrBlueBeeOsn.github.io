@@ -325,12 +325,14 @@ p.text-indent {
 }
 
 p.indent-whole {
-    margin-left: 1em; /* Thụt lề toàn bộ khối của phần tử */
+    padding-left: 30px;
+    /*margin-left: 1em; /* Thụt lề toàn bộ khối của phần tử */
 }
 
 p.last-indent-whole {
     margin-bottom: 50px;
-    margin-left: 1em; /* Thụt lề 30px từ lề trái */
+    padding-left: 30px;
+    /*margin-left: 1em;  Thụt lề 30px từ lề trái */
 }
 
 p.last-text-indent {
