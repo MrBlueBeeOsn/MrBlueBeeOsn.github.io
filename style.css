@@ -506,16 +506,23 @@ li.last-of-type {
 }
 
 .mrbeeosn1 {
-    list-style-type: disc;
+    list-style-type: square;
     padding-left: 50px;
     text-align: left;
 }
 
-.mrbeeosn1 li {
+.mrbeeosn1 li,
+.mrbeeosn2 li {
     padding: 0.1rem 0;
     border-bottom: 1px dashed #A6EFF1;
     transition: background-color 0.2s ease;
     
+}
+
+.mrbeeosn2 {
+    list-style-type: disc;
+    padding-left: 50px;
+    text-align: left;
 }
 
 /* =============================
