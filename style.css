@@ -497,9 +497,9 @@ li.last-of-type {
     transition: background-color 0.2s ease;
 }
 
-.mrbeeosn li:hover {
-    /*background-color: #A6EFF1;*/
-}
+/*.mrbeeosn li:hover {
+    background-color: #A6EFF1;
+}*/
 
 .mrbeeosn li:last-child {
     border-bottom: none;
@@ -625,9 +625,9 @@ li.last-of-type {
         transition: background-color 0.2s ease;
     }
 
-    .month-list li:hover {
-        /*background-color: #A6EFF1;*/
-    }
+    /*.month-list li:hover {
+        background-color: #A6EFF1;
+    }*/
 
     .month-list li:last-child {
         border-bottom: none;
