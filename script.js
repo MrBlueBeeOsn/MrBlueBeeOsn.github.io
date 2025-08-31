@@ -56,3 +56,18 @@ const backToTopButton = document.querySelector('.back-to-top');
             // hãy bỏ comment dòng dưới đây và thêm class "collapsed" vào thẻ <h2> của năm đó.
             // document.getElementById('2025').classList.add('collapsed');
         });
+
+/* =============================
+   Scroll Into View - by GRK
+============================= */
+
+        document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+            anchor.addEventListener('click', function (e) {
+                e.preventDefault();
+                const targetId = this.getAttribute('href').substring(1);
+                const targetElement = document.getElementById(targetId);
+                if (targetElement) {
+                    targetElement.scrollIntoView({ behavior: 'smooth' });
+                }
+            });
+        });
