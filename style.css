@@ -525,6 +525,10 @@ li.last-of-type {
     text-align: left;
 }
 
+html {
+    scroll-behavior: smooth;
+}
+
 /* =============================
    Back to Top Button - by GRK
 ============================= */
