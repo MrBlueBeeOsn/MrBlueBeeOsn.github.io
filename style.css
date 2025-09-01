@@ -484,42 +484,42 @@ li.last-of-type {
   font-weight: normal;
 }
 
-.mrbeeosn {
+.list-border {
     list-style-type: none;
     padding-left: 0;
     margin-top: 1rem;
     text-align: center;
 }
 
-.mrbeeosn li {
+.list-border li {
     padding: 0.8rem 0;
     border-bottom: 1px dashed #A6EFF1;
     transition: background-color 0.2s ease;
 }
 
-/* .mrbeeosn li:hover {
+/* .list-border li:hover {
     background-color: #A6EFF1;
 } */
 
-.mrbeeosn li:last-child {
+.list-border li:last-child {
     border-bottom: none;
 }
 
-.mrbeeosn1 {
+.list-border1 {
     list-style-type: square;
     padding-left: 50px;
     text-align: left;
 }
 
-.mrbeeosn1 li,
-.mrbeeosn2 li {
+.list-border1 li,
+.list-border2 li {
     padding: 0.1rem 0;
     border-bottom: 1px dashed #A6EFF1;
     transition: background-color 0.2s ease;
     
 }
 
-.mrbeeosn2 {
+.list-border2 {
     list-style-type: disc;
     padding-left: 50px;
     text-align: left;
