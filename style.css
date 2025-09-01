@@ -168,8 +168,6 @@ main.image > * {
 main h2 {
     font-size: 24px;
     margin: 0 0 15px;
-    text-align: center;
-    font-weight: bold;
 }
 
 main img {
@@ -333,6 +331,18 @@ p {
   font-family: 'Bellota Text', sans-serif;
 }
 
+p.text-left {
+    text-align: left;
+}
+
+p.text-center {
+    text-align: center;
+}
+
+p.text-right {
+    text-align: right;
+}
+
 p.text-indent {
     text-indent: 2em; /* Chỉ thụt lề dòng đầu tiên của đoạn văn. */
 }
@@ -353,51 +363,71 @@ p.last-text-indent {
     text-indent: 2em;
 }
 
-p.small-text {
+p.text-small {
     font-size: 14px;
-
-}
-
-p.last-of-type {
-    margin-bottom: 50px; /* hoặc một giá trị khác phù hợp hơn */
-}
-
-p.first-of-type {
-    margin-top: 50px; /* hoặc một giá trị khác phù hợp hơn */
-}
-
-p.first-of-type-center {
-    margin-top: 50px; /* hoặc một giá trị khác phù hợp hơn */
-    text-align: center;
-}
-
-p.last-first-of-type {
-    margin-bottom: 50px;
-    margin-top: 50px;
-    text-align: center;
 }
 
 /* =============================
-   h1, h2
+   p, h1, h2
 ============================= */
 
-h1.last-first-of-type,
-h3.last-first-of-type,
-h4.last-first-of-type {
-    margin-bottom: 50px;
-    margin-top: 50px;
+p.text-left,
+h1.text-left,
+h2.text-left,
+h3.text-left,
+h4.text-left,
+h5.text-left,
+h6.text-left {
+    text-align: left;
+}
+
+p.text-center,
+h1.text-center,
+h2.text-center,
+h3.text-center,
+h4.text-center,
+h5.text-center,
+h6.text-center {
     text-align: center;
 }
 
-h2 {
+p.text-right,
+h1.text-right,
+h2.text-right,
+h3.text-right,
+h4.text-right,
+h5.text-right,
+h6.text-right {
+    text-align: right;
+}
+
+p.margin-top-50,
+h1.margin-top-50,
+h2.margin-top-50,
+h3.margin-top-50,
+h4.margin-top-50,
+h5.margin-top-50,
+h6.margin-top-50 {
     margin-top: 50px;
 }
 
-h2.last-of-type {
-    margin-bottom: 50px; /* hoặc một giá trị khác phù hợp hơn */
+p.margin-bottom-50,
+h1.margin-bottom-50,
+h2.margin-bottom-50,
+h3.margin-bottom-50,
+h4.margin-bottom-50,
+h5.margin-bottom-50,
+h6.margin-bottom-50 {
+    margin-bottom: 50px;
 }
 
-h2.last-first-of-type {
+p.margin-y-50,
+h1.margin-y-50,
+h2.margin-y-50,
+h3.margin-y-50,
+h4.margin-y-50,
+h5.margin-y-50,
+h6.margin-y-50 {
     margin-bottom: 50px;
     margin-top: 50px;
 }
@@ -442,7 +472,7 @@ ol li {
     padding-top: 10px;
 }
 
-li.last-of-type {
+li.margin-bottom-50 {
     margin-bottom: 50px; /* hoặc một giá trị khác phù hợp hơn */
 }
 
