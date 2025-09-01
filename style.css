@@ -408,6 +408,8 @@ hr.long-hr {
     background-color: #A6EFF1; /* màu bạn muốn, ở đây là xanh */
     margin: 20px 0;          /* khoảng cách trên dưới */
     border-radius: 2px;      /* bo tròn nhẹ nếu muốn */
+    margin-top: 50px;
+    margin-bottom: 50px;
 }
 
 hr.short-hr {
@@ -417,6 +419,8 @@ hr.short-hr {
     margin: 20px auto;         /* căn giữa theo chiều ngang */
     width: 50%;               /* Giảm chiều rộng xuống còn 50% */
     border-radius: 2px;      /* bo tròn nhẹ nếu muốn */
+    margin-top: 50px;
+    margin-bottom: 50px;
 }
 
 /* =============================
