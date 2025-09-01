@@ -353,11 +353,9 @@ p.last-text-indent {
     text-indent: 2em;
 }
 
-p.text-align {
+p.small-text {
     font-size: 14px;
-    /*text-align: right;*/
-    font-weight: normal;
-    margin-bottom: 50px; /* hoặc một giá trị khác phù hợp hơn */
+
 }
 
 p.last-of-type {
