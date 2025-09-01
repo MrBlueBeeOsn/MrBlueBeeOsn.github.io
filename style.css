@@ -391,6 +391,10 @@ h4.last-first-of-type {
     text-align: center;
 }
 
+h2 {
+    margin-top: 50px;
+}
+
 h2.last-of-type {
     margin-bottom: 50px; /* hoặc một giá trị khác phù hợp hơn */
 }
@@ -480,10 +484,6 @@ li.last-of-type {
     list-style-type: upper-roman; /* I, II, III, ... */
 }
 
-.font-normal {
-  font-weight: normal;
-}
-
 .list-border {
     list-style-type: none;
     padding-left: 0;
@@ -527,6 +527,10 @@ li.last-of-type {
 
 html {
     scroll-behavior: smooth;
+}
+
+.font-normal {
+  font-weight: normal;
 }
 
 /* =============================
