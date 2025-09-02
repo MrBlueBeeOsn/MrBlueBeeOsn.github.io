@@ -432,7 +432,7 @@ h6.margin-y-50 {
     margin-top: 50px;
 }
 
-hr.long-hr {
+hr.hr-long {
     border: none;            /* bỏ viền mặc định */
     height: 3px;             /* độ dày đường */
     background-color: #A6EFF1; /* màu bạn muốn, ở đây là xanh */
@@ -442,7 +442,7 @@ hr.long-hr {
     margin-bottom: 50px;
 }
 
-hr.short-hr {
+hr.hr-short {
     border: none;            /* bỏ viền mặc định */
     height: 3px;             /* độ dày đường */
     background-color: #A6EFF1; /* màu bạn muốn, ở đây là xanh */
@@ -792,11 +792,11 @@ html {
             ul {
                 padding-left: 50px; /* Thêm khoảng đệm 20px ở lề trái */
             } 
-            hr.long-hr {
+            hr.hr-long {
                 height: 3px; /* Giảm độ dày trên mobile */
                 margin: 15px 0; /* Giảm khoảng cách căn giữa theo chiều ngang */
             }
-            hr.short-hr {
+            hr.hr-short {
                 height: 3px; /* Giảm độ dày trên mobile */
                 width: 50%; /* Giảm chiều rộng xuống còn 50% */
                 margin: 15px auto; /* Giảm khoảng cách căn giữa theo chiều ngang */
