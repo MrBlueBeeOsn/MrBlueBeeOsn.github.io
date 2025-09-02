@@ -120,7 +120,7 @@ main.image {
     margin: 20px auto;  /* cách lề trên dưới 20px, căn giữa ngang */
     padding: 20px;
     background-color: #f5f5f5;
-    background-image: url('/images/flower2.11.png'); /* Hoa 8 cánh - Nhọn - Có nụ */
+    background-image: url('/assets/images/flower2.11.png'); /* Hoa 8 cánh - Nhọn - Có nụ */
     background-size: cover;
     background-position: bottom right;
     background-repeat: no-repeat;
@@ -150,19 +150,19 @@ main.image > * {
 }
 
     main.image1 {
-        background-image: url('/images/flower2.2.png'); /* Hoa 8 cánh - Tròn - Không nụ */
+        background-image: url('/assets/images/flower2.2.png'); /* Hoa 8 cánh - Tròn - Không nụ */
     }
         
     main.image2 {
-        background-image: url('/images/flower2.41.png'); /* Hoa 8 cánh - Tròn - Có nụ */
+        background-image: url('/assets/images/flower2.41.png'); /* Hoa 8 cánh - Tròn - Có nụ */
     }
         
     main.image3 {
-        background-image: url('/images/flower2.5.png'); /* Hoa 8 cánh - Nhọn - Có nụ */
+        background-image: url('/assets/images/flower2.5.png'); /* Hoa 8 cánh - Nhọn - Có nụ */
     }
         
     main.image4 {
-        background-image: url('/images/flower2.3.png'); /* Hoa 5 cánh - Tròn - Không nụ */
+        background-image: url('/assets/images/flower2.3.png'); /* Hoa 5 cánh - Tròn - Không nụ */
     }
 
 main h2 {
@@ -572,7 +572,7 @@ html {
         bottom: 20px;
         left: calc(50% - 350px - 14px); /* thò ra ngoài 15px */
         margin-bottom: 120px; /* cách footer 20px */
-        background-image: url('/images/bee2.png');
+        background-image: url('/assets/images/bee2.png');
         background-color: transparent;
         /* background-color: #01ACC1; Màu xanh dương nhạt*/
         -webkit-tap-highlight-color: transparent; /* iOS Safari & Chrome */
@@ -731,7 +731,7 @@ html {
                 box-shadow: none;
                 border: none;
                 overflow-x: hidden;
-                background-image: url('/images/flower2.11.png'); /* Hoa 8 cánh - Nhọn - Có nụ */
+                background-image: url('/assets/images/flower2.11.png'); /* Hoa 8 cánh - Nhọn - Có nụ */
                 background-size: cover;
                 background-position: bottom right;
                 background-repeat: no-repeat;
@@ -742,19 +742,19 @@ html {
             }
 
                 main.image1 {
-                    background-image: url('/images/flower2.2.png'); /* Hoa 8 cánh - Tròn - Không nụ */
+                    background-image: url('/assets/images/flower2.2.png'); /* Hoa 8 cánh - Tròn - Không nụ */
                 }
                 
                 main.image2 {
-                    background-image: url('/images/flower2.41.png'); /* Hoa 8 cánh - Tròn - Có nụ */
+                    background-image: url('/assets/images/flower2.41.png'); /* Hoa 8 cánh - Tròn - Có nụ */
                 }
                 
                 main.image3 {
-                    background-image: url('/images/flower2.5.png'); /* Hoa 8 cánh - Nhọn - Có nụ */
+                    background-image: url('/assets/images/flower2.5.png'); /* Hoa 8 cánh - Nhọn - Có nụ */
                 }
                 
                 main.image4 {
-                    background-image: url('/images/flower2.3.png'); /* Hoa 5 cánh - Tròn - Không nụ */
+                    background-image: url('/assets/images/flower2.3.png'); /* Hoa 5 cánh - Tròn - Không nụ */
                 }
             
             main h2 {
