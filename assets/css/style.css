@@ -792,14 +792,19 @@ html {
             ul {
                 padding-left: 50px; /* Thêm khoảng đệm 20px ở lề trái */
             } 
+        
             hr.hr-long {
                 height: 3px; /* Giảm độ dày trên mobile */
                 margin: 15px 0; /* Giảm khoảng cách căn giữa theo chiều ngang */
+                margin-top: 50px;
+                margin-bottom: 50px;
             }
             hr.hr-short {
                 height: 3px; /* Giảm độ dày trên mobile */
                 width: 50%; /* Giảm chiều rộng xuống còn 50% */
                 margin: 15px auto; /* Giảm khoảng cách căn giữa theo chiều ngang */
+                margin-top: 50px;
+                margin-bottom: 50px;
             }
         }
 
