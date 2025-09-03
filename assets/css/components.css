@@ -28,9 +28,10 @@ button:hover {
 .grid { 
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(10px, 1fr));
-    gap: 1rem;
+    gap: 0rem;
     justify-items: center;
     align-items: center;
+    justify-content: space-evenly;
 }
 
 .card { 
@@ -40,6 +41,7 @@ button:hover {
     justify-items: center;
     align-items: center;
     font-weight: bold;
+    width: 60px;
 }
 
 .text-big { 
