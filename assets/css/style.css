@@ -371,6 +371,7 @@ p.text-small {
    p, h1, h2
 ============================= */
 
+.text-left,
 p.text-left,
 h1.text-left,
 h2.text-left,
@@ -381,6 +382,7 @@ h6.text-left {
     text-align: left;
 }
 
+.text-center,
 p.text-center,
 h1.text-center,
 h2.text-center,
@@ -391,6 +393,7 @@ h6.text-center {
     text-align: center;
 }
 
+.text-right,
 p.text-right,
 h1.text-right,
 h2.text-right,
@@ -401,6 +404,7 @@ h6.text-right {
     text-align: right;
 }
 
+.margin-top-50,
 p.margin-top-50,
 h1.margin-top-50,
 h2.margin-top-50,
@@ -411,6 +415,7 @@ h6.margin-top-50 {
     margin-top: 50px;
 }
 
+.margin-bottom-50,
 p.margin-bottom-50,
 h1.margin-bottom-50,
 h2.margin-bottom-50,
@@ -421,6 +426,7 @@ h6.margin-bottom-50 {
     margin-bottom: 50px;
 }
 
+.margin-y-50,
 p.margin-y-50,
 h1.margin-y-50,
 h2.margin-y-50,
