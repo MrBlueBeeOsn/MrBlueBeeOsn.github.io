@@ -1,0 +1,24 @@
+/* =============================
+   Reset margin, padding
+============================= */
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* =============================
+   Biến global
+============================= */
+
+:root {
+  --primary-color: #4a90e2;
+  --font-main: "Segoe UI", sans-serif;
+}
+
+body {
+  font-family: var(--font-main);
+  background-color: #f9f9f9;
+  color: #333;
+}
