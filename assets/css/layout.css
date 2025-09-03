@@ -2,7 +2,7 @@
    Layout
 ============================= */
 
-header, footer {
+/* header, footer {
   background: var(--primary-color);
   color: white;
   text-align: center;
@@ -13,4 +13,4 @@ main {
   max-width: 800px;
   margin: 2rem auto;
   padding: 1rem;
-}
+} */
