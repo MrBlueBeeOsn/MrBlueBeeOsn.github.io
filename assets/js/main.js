@@ -95,15 +95,15 @@ const backToTopButton = document.querySelector('.back-to-top');
     function randomFly(bee, config) {
       const x = Math.random() * config.rangeX;
       const y = Math.random() * config.rangeY;
-      const rotate = Math.random() * 1 - 5;
+      const rotate = Math.random() * 10 - 10;
       bee.style.transform = `translate(${x}px, ${y}px) rotate(${rotate}deg)`;
     }
 
     function startFlying(bee) {
       const isMobile = window.innerWidth <= 600;
       const config = isMobile
-        ? { rangeX: 5, rangeY: 5, interval: 2000 }
-        : { rangeX: 5, rangeY: 5, interval: 1000 };
+        ? { rangeX: 10, rangeY: 0, interval: 2000 }
+        : { rangeX: 10, rangeY: -5, interval: 1000 };
 
       setInterval(() => randomFly(bee, config), config.interval);
     }
