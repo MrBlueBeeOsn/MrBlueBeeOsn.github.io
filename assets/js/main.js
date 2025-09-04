@@ -90,29 +90,22 @@ const backToTopButton = document.querySelector('.back-to-top');
    Bee - by GPT
 ============================= */     
 
-    const bee = document.querySelector('.bee');
-    let config = { rangeX: 20, rangeY: 100, interval: 1000 };
-    let timer;
+    const bees = document.querySelectorAll('.bee');
 
-    function randomFly() {
+    function randomFly(bee, config) {
       const x = Math.random() * config.rangeX;
       const y = Math.random() * config.rangeY;
       const rotate = Math.random() * 1 - 5;
       bee.style.transform = `translate(${x}px, ${y}px) rotate(${rotate}deg)`;
     }
 
-    function updateConfig() {
+    function startFlying(bee) {
       const isMobile = window.innerWidth <= 600;
+      const config = isMobile
+        ? { rangeX: 5, rangeY: 5, interval: 2000 }
+        : { rangeX: 5, rangeY: 5, interval: 1000 };
 
-      if (isMobile) {
-        config = { rangeX: 5, rangeY: 5, interval: 2000 }; // mobile: bay hẹp và chậm
-      } else {
-        config = { rangeX: 5, rangeY: 5, interval: 2000 }; // desktop: bay rộng và nhanh
-      }
-
-      clearInterval(timer);
-      timer = setInterval(randomFly, config.interval);
+      setInterval(() => randomFly(bee, config), config.interval);
     }
 
-    updateConfig(); // chạy ngay khi load
-    window.addEventListener("resize", updateConfig);
+    bees.forEach(startFlying);
