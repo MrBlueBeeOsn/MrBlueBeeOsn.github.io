@@ -346,6 +346,10 @@ p.text-center {
     text-align: center;
 }
 
+p.text-justify {
+    text-align: justify;
+}
+
 p.text-right {
     text-align: right;
 }
