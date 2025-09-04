@@ -325,7 +325,7 @@ span.bold {
 
 .bee {
       position: absolute;
-      font-size: 14px;
+      font-size: 15px;
       transition: transform 1s ease-in-out;
       z-index: 2;
 }
@@ -860,7 +860,7 @@ html {
 
             .bee {
                 position: absolute;
-                font-size: 14px;
+                font-size: 15px;
                 transition: transform 1s ease-in-out;
                 z-index: 2;
             }
