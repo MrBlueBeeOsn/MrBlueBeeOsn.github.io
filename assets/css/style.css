@@ -323,6 +323,13 @@ span.bold {
     transform: scale(0.92); /* chữ + nền nhỏ lại */
 }
 
+.bee {
+      position: absolute;
+      font-size: 14px;
+      transition: transform 1s ease-in-out;
+      z-index: 2;
+}
+
 /* =============================
    Paragraph
 ============================= */
@@ -845,5 +852,12 @@ html {
             /* Ẩn đường viền nổi bật khi dùng phím Tab */
             .back-to-top:focus {
                 outline: none;
+            }
+
+            .bee {
+                position: absolute;
+                font-size: 14px;
+                transition: transform 1s ease-in-out;
+                z-index: 2;
             }
         }
