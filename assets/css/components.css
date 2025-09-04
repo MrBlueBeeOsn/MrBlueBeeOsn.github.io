@@ -22,27 +22,55 @@ button:hover {
 } */
 
 /* =============================
-   aeiou
+   aeiou - DPSK
 ============================= */
 
-.grid { 
+.grid {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(10px, 1fr));
     gap: 0rem;
     justify-items: center;
     align-items: center;
     justify-content: space-evenly;
-    
+    padding: 20px; /* Thêm padding để tránh card bị cắt khi xoay */
+    overflow: visible; /* Đảm bảo card xoay không bị ẩn */
 }
 
-.card { 
+.card {
     padding: 1rem;
     border: 2px solid #A6EFF1;
     border-radius: 20px;
-    justify-items: center;
-    align-items: center;
     font-weight: bold;
     width: 60px;
+    text-align: center;
+    background: white;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    transform-origin: center bottom; /* Điểm xoay tại đáy card */
+}
+
+/* Tạo góc xoay ngẫu nhiên cho các card */
+.card:nth-child(odd) {
+    transform: rotate(-3deg);
+}
+
+.card:nth-child(even) {
+    transform: rotate(2deg);
+}
+
+.card:nth-child(3n) {
+    transform: rotate(4deg);
+}
+
+.card:nth-child(5n) {
+    transform: rotate(-5deg);
+}
+
+/* Hiệu ứng khi hover */
+.card:hover {
+    transform: rotate(0deg) scale(1.1);
+    box-shadow: 0 8px 15px rgba(0, 0, 0, 0.2);
+    z-index: 10; /* Đảm bảo card hover nổi lên trên */
 }
 
 .text-big { 
