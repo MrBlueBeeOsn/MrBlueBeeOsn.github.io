@@ -594,6 +594,18 @@ code {
     padding: 3px; /* Thêm khoảng đệm bên trong  */
 }
 
+.code-border1 {
+    border: 2px, solid #A6EFF1;
+    border-radius: 5px; /* Bo tròn các góc */
+    padding: 10px; /* Thêm khoảng đệm bên trong  */
+}
+
+.code-border2 {
+    border: 3px, solid #A6EFF1;
+    border-radius: 5px; /* Bo tròn các góc */
+    padding: 10px; /* Thêm khoảng đệm bên trong  */
+}
+
 .code-background {
     background-color: #eeeeee; /* #f4f4f4Màu nền xám nhạt */
 }
