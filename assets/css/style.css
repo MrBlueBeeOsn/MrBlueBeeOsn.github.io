@@ -506,7 +506,6 @@ ul.padding-left-30,
 ol.padding-left-30 {
   font-family: 'Bellota Text', sans-serif;
   padding-left: 30px; /* Thêm khoảng đệm 10px ở lề trái */
-  /* margin-left: 30px; */
 }
 
 ul li,
@@ -521,6 +520,10 @@ ol li {
 
 li.margin-bottom-50 {
     margin-bottom: 50px; /* hoặc một giá trị khác phù hợp hơn */
+}
+
+.no-number {
+  list-style: none;   /* bỏ số */
 }
 
 /* =============================
