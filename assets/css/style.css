@@ -522,10 +522,6 @@ li.margin-bottom-50 {
     margin-bottom: 50px; /* hoặc một giá trị khác phù hợp hơn */
 }
 
-.no-number {
-  list-style: none;   /* bỏ số */
-}
-
 /* =============================
    Utilities
 ============================= */
