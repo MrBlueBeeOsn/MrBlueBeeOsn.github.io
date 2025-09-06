@@ -474,7 +474,7 @@ h6.margin-y-20 {
 
 hr.hr-long {
     border: none;            /* bỏ viền mặc định */
-    height: 3px;             /* độ dày đường */
+    height: 2px;             /* độ dày đường */
     background-color: #A6EFF1; /* màu bạn muốn, ở đây là xanh */
     margin: 20px 0;          /* khoảng cách trên dưới */
     border-radius: 2px;      /* bo tròn nhẹ nếu muốn */
@@ -484,7 +484,7 @@ hr.hr-long {
 
 hr.hr-short {
     border: none;            /* bỏ viền mặc định */
-    height: 3px;             /* độ dày đường */
+    height: 2px;             /* độ dày đường */
     background-color: #A6EFF1; /* màu bạn muốn, ở đây là xanh */
     margin: 20px auto;         /* căn giữa theo chiều ngang */
     width: 50%;               /* Giảm chiều rộng xuống còn 50% */
@@ -881,13 +881,13 @@ code {
             } 
         
             hr.hr-long {
-                height: 3px; /* Giảm độ dày trên mobile */
+                height: 2px; /* Giảm độ dày trên mobile */
                 margin: 15px 0; /* Giảm khoảng cách căn giữa theo chiều ngang */
                 margin-top: 50px;
                 margin-bottom: 50px;
             }
             hr.hr-short {
-                height: 3px; /* Giảm độ dày trên mobile */
+                height: 2px; /* Giảm độ dày trên mobile */
                 width: 50%; /* Giảm chiều rộng xuống còn 50% */
                 margin: 15px auto; /* Giảm khoảng cách căn giữa theo chiều ngang */
                 margin-top: 50px;
