@@ -830,6 +830,13 @@ code {
                 margin-bottom: 40px;
                 margin-top: 40px;
             }
+
+            h1 { font-size: 32px; line-height: 1.4; }
+            h2 { font-size: 26px; line-height: 1.4; }
+            h3 { font-size: 22px; line-height: 1.4; }
+            h4 { font-size: 18px; line-height: 1.4; }
+            h5 { font-size: 16px; line-height: 1.4; }
+            h6 { font-size: 14px; line-height: 1.4; }
             
             header {
                 padding: 10px;
