@@ -675,7 +675,7 @@ code {
 .text-border {
     border: 1px, solid #A6EFF1;
     border-radius: 5px; /* Bo tròn các góc */
-    padding: 3px; /* Thêm khoảng đệm bên trong  */
+    padding: 1px; /* Thêm khoảng đệm bên trong  */
 }
 
 .text-border1 {
