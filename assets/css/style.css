@@ -809,6 +809,18 @@ code {
             Header (Mobile)
             ============================= */
             
+            .margin-y-50,
+            p.margin-y-50,
+            h1.margin-y-50,
+            h2.margin-y-50,
+            h3.margin-y-50,
+            h4.margin-y-50,
+            h5.margin-y-50,
+            h6.margin-y-50 {
+                margin-bottom: 40px;
+                margin-top: 40px;
+            }
+            
             header {
                 padding: 10px;
             }
@@ -891,7 +903,7 @@ code {
             }
 
             main p {
-                font-size: 18px;
+                font-size: 17px;
                 line-height: 1.4;
                 text-align: justify;
                 padding-left: 10px; /* Lề trái 50px */
@@ -979,4 +991,40 @@ code {
                 transition: transform 1s ease-in-out;
                 z-index: 2;
             }
+        }
+
+
+/* =============================
+    Mobile (Responsive) - by GRK
+============================= */
+
+         @media screen and (max-width: 375px) {
+
+            .margin-y-50,
+            p.margin-y-50,
+            h1.margin-y-50,
+            h2.margin-y-50,
+            h3.margin-y-50,
+            h4.margin-y-50,
+            h5.margin-y-50,
+            h6.margin-y-50 {
+                margin-bottom: 30px;
+                margin-top: 30px;
+            }
+            
+            nav a {
+                font-size: 14px;
+            }
+
+            ul, li {
+                font-size: 16px;
+            }
+
+            main p {
+                font-size: 16px;
+                line-height: 1.3;
+                text-align: justify;
+                padding-left: 10px; /* Lề trái 50px */
+            }
+
         }
