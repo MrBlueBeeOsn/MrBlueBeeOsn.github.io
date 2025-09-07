@@ -102,7 +102,7 @@ const backToTopButton = document.querySelector('.back-to-top');
     function startFlying(bee) {
       const isMobile = window.innerWidth <= 600;
       const config = isMobile
-        ? { rangeX: 10, rangeY: 0, interval: 2000 }
+        ? { rangeX: 10, rangeY: -10, interval: 2000 }
         : { rangeX: 10, rangeY: -10, interval: 1000 };
 
       setInterval(() => randomFly(bee, config), config.interval);
