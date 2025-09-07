@@ -903,7 +903,7 @@ code {
             }
 
             main p {
-                font-size: 17px;
+                font-size: 18px;
                 line-height: 1.4;
                 text-align: justify;
                 padding-left: 10px; /* Lề trái 50px */
@@ -920,25 +920,25 @@ code {
             
             ul li {
                 padding-bottom: 10px; /* Thêm khoảng đệm 10px bên dưới */
-                font-size: 17px;
+                font-size: 18px;
             }
 
             ul {
-                padding-left: 50px; /* Thêm khoảng đệm 20px ở lề trái */
+                padding-left: 40px; /* Thêm khoảng đệm 20px ở lề trái */
             } 
         
             hr.hr-long {
                 height: 2px; /* Giảm độ dày trên mobile */
                 margin: 15px 0; /* Giảm khoảng cách căn giữa theo chiều ngang */
-                margin-top: 50px;
-                margin-bottom: 50px;
+                margin-top: 40px;
+                margin-bottom: 40px;
             }
             hr.hr-short {
                 height: 2px; /* Giảm độ dày trên mobile */
                 width: 50%; /* Giảm chiều rộng xuống còn 50% */
                 margin: 15px auto; /* Giảm khoảng cách căn giữa theo chiều ngang */
-                margin-top: 50px;
-                margin-bottom: 50px;
+                margin-top: 40px;
+                margin-bottom: 40px;
             }
         }
 
@@ -1026,6 +1026,15 @@ code {
                 line-height: 1.3;
                 text-align: justify;
                 padding-left: 10px; /* Lề trái 50px */
+            }
+
+            hr.hr-long {
+                margin-top: 30px;
+                margin-bottom: 30px;
+            }
+            hr.hr-short {
+                margin-top: 30px;
+                margin-bottom: 30px;
             }
 
         }
