@@ -281,6 +281,13 @@ a:active img {
     border-radius: 3px;
 }
 
+.highlight4 {
+    background-color: white; /* Grey rất nhạt*/
+    color: #333;
+    padding: 2px 4px;
+    border-radius: 3px;
+}
+
 /* =============================
    Bold
 ============================= */
