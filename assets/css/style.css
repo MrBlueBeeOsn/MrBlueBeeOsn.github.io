@@ -1,6 +1,13 @@
+/* =============================
+   Mr. ßee - 🅾ng siêng năng📘
+============================= */
+
 @import url('https://fonts.googleapis.com/css2?family=Bellota&family=Bellota+Text:wght@300;400&display=swap');
+
 * {
     box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
 }
 
 /* =============================
@@ -22,6 +29,14 @@ body {
     flex-direction: column; /* Sắp xếp các phần tử theo cột */
     min-height: 100vh;      /* Đảm bảo body có chiều cao tối thiểu bằng màn hình */
 }
+
+/* Tại 768px */
+h1 { font-size: 36px; line-height: 1.5; }
+h2 { font-size: 30px; line-height: 1.5; }
+h3 { font-size: 24px; line-height: 1.5; }
+h4 { font-size: 20px; line-height: 1.5; }
+h5 { font-size: 18px; line-height: 1.5; }
+h6 { font-size: 16px; line-height: 1.5; }
 
 /* =============================
    Header
@@ -164,11 +179,6 @@ main.image > * {
     main.image4 {
         background-image: url('/assets/images/flower2.3.png'); /* Hoa 5 cánh - Tròn - Không nụ */
     }
-
-main h2 {
-    font-size: 24px;
-    margin: 0 0 15px;
-}
 
 main img {
     width: 100%;
@@ -889,10 +899,6 @@ code {
                 main.image4 {
                     background-image: url('/assets/images/flower2.3.png'); /* Hoa 5 cánh - Tròn - Không nụ */
                 }
-            
-            main h2 {
-                font-size: 24px;
-            }
 
             main img {
                 width: 100%;
@@ -1012,11 +1018,22 @@ code {
                 margin-bottom: 30px;
                 margin-top: 30px;
             }
+
+            h1 { font-size: 28px; line-height: 1.3; }
+            h2 { font-size: 24px; line-height: 1.3; }
+            h3 { font-size: 20px; line-height: 1.3; }
+            h4 { font-size: 17px; line-height: 1.3; }
+            h5 { font-size: 15px; line-height: 1.3; }
+            h6 { font-size: 14px; line-height: 1.3; }
             
             nav a {
                 font-size: 16px;
             }
 
+            .nav-link {
+                margin: 0px 10px; /* Thêm khoảng cách giữa các mục margin: 0 10px; */
+            }
+            
             ul, li {
                 font-size: 16px;
             }
