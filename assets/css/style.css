@@ -126,7 +126,11 @@ nav a {
 ============================= */
 
 main {
-    flex: 1; /* Cho phép main tự động co giãn để chiếm không gian trống */
+    flex: 1; /* Cho phép main tự động co giãn để chiếm không gian trống */  
+}
+
+main.content {
+  padding-bottom: 50px; /* điều chỉnh theo nhu cầu */
 }
 
 main.image {
@@ -542,6 +546,32 @@ h5.margin-y-20,
 h6.margin-y-20 {
     margin-bottom: 20px;
     margin-top: 20px;
+}
+
+.padding-top-50 {
+    padding-top: 50px;
+}
+
+.padding-bottom-50 {
+    padding-bottom: 50px;
+}
+
+.padding-y-50 {
+    padding-bottom: 50px;
+    padding-top: 50px;
+}
+
+.padding-top-20 {
+    padding-top: 20px;
+}
+
+.padding-bottom-20 {
+    padding-bottom: 20px;
+}
+
+.padding-y-20 {
+    padding-bottom: 20px;
+    padding-top: 20px;
 }
 
 hr.hr-long {
