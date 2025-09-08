@@ -323,6 +323,7 @@ span.bold {
     align-items: center;
     gap: 10px;
     transition: transform 0.1s ease-in-out; /* mượt khi nhấn */
+    position: relative;
 }
 
 .branding img {
@@ -338,6 +339,26 @@ span.bold {
 
 .branding:active {
     transform: scale(0.92); /* chữ + nền nhỏ lại */
+}
+
+.logo-text {
+    position: absolute;
+    top: -10px;    /* Điều chỉnh khoảng cách phía trên */
+    left: 100%;  /* Điều chỉnh khoảng cách phía bên phải */
+    transform: translateX(-50%); /* căn giữa chuẩn */
+    font-size: 8px;
+    color: #01ACC1;
+    font-weight: bold;
+    padding: 5px;
+    border-radius: 2px;
+    border: 1px solid #66E2E6;
+    border-radius: 50px;
+    font-weight: normal;
+    line-height: 1;
+    text-align: center;
+    background: #212121;
+    white-space: nowrap; /* không cho xuống dòng */
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
 }
 
 .bee {
