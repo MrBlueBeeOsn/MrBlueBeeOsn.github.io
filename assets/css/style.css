@@ -343,10 +343,10 @@ span.bold {
 
 .logo-text {
     position: absolute;
-    top: -14px;    /* Điều chỉnh khoảng cách phía trên */
-    left: 275%;  /* Điều chỉnh khoảng cách phía bên phải */
-    transform: translateX(-50%); /* căn giữa chuẩn */
-    font-size: 12px;
+    top: -16px;    /* Điều chỉnh khoảng cách phía trên */
+    left: 50%;  /* Điều chỉnh khoảng cách phía bên phải */
+    transform: translateX(-20%); /* căn giữa chuẩn */
+    font-size: 14px;
     color: #01ACC1;
     font-weight: bold;
     padding: 5px;
@@ -1027,6 +1027,13 @@ code {
                 outline: none;
             }
 
+            .logo-text {
+                top: -14px;    /* Điều chỉnh khoảng cách phía trên */
+                left: 50%;  /* Điều chỉnh khoảng cách phía bên phải */
+                transform: translateX(-20%); /* căn giữa chuẩn */
+                font-size: 12px;
+            }
+            
             .bee {
                 position: absolute;
                 font-size: 18px;
@@ -1087,6 +1094,13 @@ code {
             hr.hr-short {
                 margin-top: 30px;
                 margin-bottom: 30px;
+            }
+
+            .logo-text {
+                top: -14px;    /* Điều chỉnh khoảng cách phía trên */
+                left: 50%;  /* Điều chỉnh khoảng cách phía bên phải */
+                transform: translateX(-20%); /* căn giữa chuẩn */
+                font-size: 12px;
             }
 
         }
