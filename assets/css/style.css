@@ -1076,7 +1076,7 @@ code {
                 margin: 0px 10px; /* Thêm khoảng cách giữa các mục margin: 0 10px; */
             }
             
-            ul, li {
+            ul li {
                 font-size: 16px;
             }
 
