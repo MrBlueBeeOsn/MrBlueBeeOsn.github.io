@@ -53,12 +53,12 @@ body {
 }
 
 /* Tại 768px */
-h1 { font-size: 36px; line-height: 1.5; }
-h2 { font-size: 30px; line-height: 1.5; }
-h3 { font-size: 24px; line-height: 1.5; }
-h4 { font-size: 20px; line-height: 1.5; }
-h5 { font-size: 18px; line-height: 1.5; }
-h6 { font-size: 16px; line-height: 1.5; }
+h1 { font-size: 3.6rem; line-height: 1.5; }
+h2 { font-size: 3.0rem; line-height: 1.5; }
+h3 { font-size: 2.4rem; line-height: 1.5; }
+h4 { font-size: 2.0rem; line-height: 1.5; }
+h5 { font-size: 1.8rem; line-height: 1.5; }
+h6 { font-size: 1.6rem; line-height: 1.5; }
 
 /* =============================
    Header
@@ -152,7 +152,7 @@ main {
 }
 
 main.content {
-  padding-bottom: 50px; /* điều chỉnh theo nhu cầu */
+  padding-bottom: 5.0rem; /* 50px */ /* điều chỉnh theo nhu cầu */
 }
 
 main.image {
@@ -187,7 +187,7 @@ main.image::before {
 main.image > * {
     position: relative;
     z-index: 2;
-    margin-bottom: 20px;
+    margin-bottom: 2.0rem;  /* 20px */
 }
 
     main.image1 {
@@ -224,7 +224,7 @@ main p {
     text-align: justify;
     font-size: 1.8rem; /* 18px; */
     margin-bottom: 15px;
-    padding-left: 10px; /* Lề trái 50px */
+    padding-left: 1.0rem;           /* 10px */ /* Lề trái 50px */
 }
 
 /* =============================
@@ -423,7 +423,7 @@ p.text-indent {
 }
 
 p.text-indent-whole {
-    padding-left: 30px;
+    padding-left: 3.0rem;           /* 30px */
     /*margin-left: 1em; /* Thụt lề toàn bộ khối của phần tử */
 }
 
@@ -476,7 +476,7 @@ h3.margin-top-50,
 h4.margin-top-50,
 h5.margin-top-50,
 h6.margin-top-50 {
-    margin-top: 50px;
+    margin-top: 5.0rem;     /* 50px */
 }
 
 .margin-bottom-50,
@@ -487,7 +487,7 @@ h3.margin-bottom-50,
 h4.margin-bottom-50,
 h5.margin-bottom-50,
 h6.margin-bottom-50 {
-    margin-bottom: 50px;
+    margin-bottom: 5.0rem;  /* 50px */
 }
 
 .margin-y-50,
@@ -498,8 +498,8 @@ h3.margin-y-50,
 h4.margin-y-50,
 h5.margin-y-50,
 h6.margin-y-50 {
-    margin-bottom: 50px;
-    margin-top: 50px;
+    margin-bottom: 5.0rem;  /* 50px */
+    margin-top: 5.0rem;     /* 50px */
 }
 
 .margin-top-30,
@@ -510,7 +510,7 @@ h3.margin-top-30,
 h4.margin-top-30,
 h5.margin-top-30,
 h6.margin-top-30 {
-    margin-top: 30px;
+    margin-top: 3.0rem;     /* 30px */
 }
 
 .margin-bottom-30,
@@ -521,7 +521,7 @@ h3.margin-bottom-30,
 h4.margin-bottom-30,
 h5.margin-bottom-30,
 h6.margin-bottom-30 {
-    margin-bottom: 30px;
+    margin-bottom: 3.0rem;  /* 30px */
 }
 
 .margin-y-30,
@@ -532,8 +532,8 @@ h3.margin-y-30,
 h4.margin-y-30,
 h5.margin-y-30,
 h6.margin-y-30 {
-    margin-bottom: 30px;
-    margin-top: 30px;
+    margin-bottom: 3.0rem;  /* 30px */
+    margin-top: 3.0rem;     /* 30px */
 }
 
 .margin-top-20,
@@ -544,7 +544,7 @@ h3.margin-top-20,
 h4.margin-top-20,
 h5.margin-top-20,
 h6.margin-top-20 {
-    margin-top: 20px;
+    margin-top: 2.0rem;     /* 20px */
 }
 
 .margin-bottom-20,
@@ -555,7 +555,7 @@ h3.margin-bottom-20,
 h4.margin-bottom-20,
 h5.margin-bottom-20,
 h6.margin-bottom-20 {
-    margin-bottom: 20px;
+    margin-bottom: 2.0rem;  /* 20px */
 }
 
 .margin-y-20,
@@ -566,34 +566,34 @@ h3.margin-y-20,
 h4.margin-y-20,
 h5.margin-y-20,
 h6.margin-y-20 {
-    margin-bottom: 20px;
-    margin-top: 20px;
+    margin-bottom: 2.0rem;  /* 20px */
+    margin-top: 2.0rem;     /* 20px */
 }
 
 .padding-top-50 {
-    padding-top: 50px;
+    padding-top: 5.0rem;    /* 50px */
 }
 
 .padding-bottom-50 {
-    padding-bottom: 50px;
+    padding-bottom: 5.0rem; /* 50px */
 }
 
 .padding-y-50 {
-    padding-bottom: 50px;
-    padding-top: 50px;
+    padding-bottom: 5.0rem; /* 50px */
+    padding-top: 5.0rem;    /* 50px */
 }
 
 .padding-top-20 {
-    padding-top: 20px;
+    padding-top: 2.0rem;    /* 20px */
 }
 
 .padding-bottom-20 {
-    padding-bottom: 20px;
+    padding-bottom: 2.0rem; /* 20px */
 }
 
 .padding-y-20 {
-    padding-bottom: 20px;
-    padding-top: 20px;
+    padding-bottom: 2.0rem; /* 20px */
+    padding-top: 2.0rem;    /* 20px */
 }
 
 hr.hr-long {
@@ -602,8 +602,8 @@ hr.hr-long {
     background-color: #A6EFF1; /* màu bạn muốn, ở đây là xanh */
     margin: 20px 0;          /* khoảng cách trên dưới */
     border-radius: 2px;      /* bo tròn nhẹ nếu muốn */
-    margin-top: 50px;
-    margin-bottom: 50px;
+    margin-top: 5.0rem;     /* 50px */
+    margin-bottom: 5.0rem;  /* 50px */
 }
 
 hr.hr-short {
@@ -613,8 +613,8 @@ hr.hr-short {
     margin: 20px auto;         /* căn giữa theo chiều ngang */
     width: 50%;               /* Giảm chiều rộng xuống còn 50% */
     border-radius: 2px;      /* bo tròn nhẹ nếu muốn */
-    margin-top: 50px;
-    margin-bottom: 50px;
+    margin-top: 5.0rem;     /* 50px */
+    margin-bottom: 5.0rem;  /* 50px */
 }
 
 /* =============================
@@ -623,27 +623,27 @@ hr.hr-short {
 
 ul, ol {
   font-family: 'Bellota Text', sans-serif;
-  padding-left: 50px; /* Thêm khoảng đệm 20px ở lề trái */
+  padding-left: 5.0rem;           /* 50px */ /* Thêm khoảng đệm 20px ở lề trái */
 }
 
 ul.padding-left-30,
 ol.padding-left-30 {
   font-family: 'Bellota Text', sans-serif;
-  padding-left: 30px; /* Thêm khoảng đệm 10px ở lề trái */
+  padding-left: 3.0rem;           /* 30px */ /* Thêm khoảng đệm 10px ở lề trái */
 }
 
 ul li,
 ol li {
-    padding-bottom: 10px; /* Thêm khoảng đệm 10px bên dưới */
+    padding-bottom: 1.0rem; /* 10px */ /* Thêm khoảng đệm 10px bên dưới */
 }
 
 .nested-ul,
 .nested-ol {
-    padding-top: 10px;
+    padding-top: 1.0rem;    /* 10px */
 }
 
 li.margin-bottom-50 {
-    margin-bottom: 50px; /* hoặc một giá trị khác phù hợp hơn */
+    margin-bottom: 5.0rem;     /* 50px */ /* hoặc một giá trị khác phù hợp hơn */
 }
 
 /* =============================
@@ -694,13 +694,13 @@ li.margin-bottom-50 {
 
 .list-border1 {
     list-style-type: square;
-    padding-left: 50px;
+    padding-left: 5.0rem;           /* 50px */
     text-align: left;
 }
 
 .list-border2 {
     list-style-type: disc;
-    padding-left: 50px;
+    padding-left: 5.0rem;           /* 50px */
     text-align: left;
 }
 
@@ -907,16 +907,16 @@ code {
             h4.margin-y-50,
             h5.margin-y-50,
             h6.margin-y-50 {
-                margin-bottom: 40px;
-                margin-top: 40px;
+                margin-bottom: 4.0rem;  /* 40px */
+                margin-top: 4.0rem;     /* 40px */
             }
 
-            h1 { font-size: 32px; line-height: 1.4; }
-            h2 { font-size: 26px; line-height: 1.4; }
-            h3 { font-size: 22px; line-height: 1.4; }
-            h4 { font-size: 18px; line-height: 1.4; }
-            h5 { font-size: 16px; line-height: 1.4; }
-            h6 { font-size: 14px; line-height: 1.4; }
+            h1 { font-size: 3.2rem; line-height: 1.4; }
+            h2 { font-size: 2.6rem; line-height: 1.4; }
+            h3 { font-size: 2.2rem; line-height: 1.4; }
+            h4 { font-size: 1.8rem; line-height: 1.4; }
+            h5 { font-size: 1.6rem; line-height: 1.4; }
+            h6 { font-size: 1.4rem; line-height: 1.4; }
             
             header {
                 padding: 10px;
@@ -999,7 +999,7 @@ code {
                 font-size: 1.8rem; /* 18px; */
                 line-height: 1.4;
                 text-align: justify;
-                padding-left: 10px; /* Lề trái 50px */
+                padding-left: 1.0rem;           /* 10px */ /* Lề trái 50px */
             }
 
             nav ul li {
@@ -1012,26 +1012,26 @@ code {
             ============================= */
             
             ul li {
-                padding-bottom: 10px; /* Thêm khoảng đệm 10px bên dưới */
+                padding-bottom: 1.0rem; /* 10px */ /* Thêm khoảng đệm 10px bên dưới */
                 font-size: 18px;
             }
 
             ul {
-                padding-left: 40px; /* Thêm khoảng đệm 20px ở lề trái */
+                padding-left: 5.0rem;           /* 50px */ /* Thêm khoảng đệm 20px ở lề trái */
             } 
         
             hr.hr-long {
                 height: 2px; /* Giảm độ dày trên mobile */
                 margin: 15px 0; /* Giảm khoảng cách căn giữa theo chiều ngang */
-                margin-top: 40px;
-                margin-bottom: 40px;
+                margin-top: 4.0rem;     /* 40px */
+                margin-bottom: 4.0rem;  /* 40px */
             }
             hr.hr-short {
                 height: 2px; /* Giảm độ dày trên mobile */
                 width: 50%; /* Giảm chiều rộng xuống còn 50% */
                 margin: 15px auto; /* Giảm khoảng cách căn giữa theo chiều ngang */
-                margin-top: 40px;
-                margin-bottom: 40px;
+                margin-top: 4.0rem;     /* 40px */
+                margin-bottom: 4.0rem;  /* 40px */
             }
         }
 
@@ -1109,16 +1109,16 @@ code {
             h4.margin-y-50,
             h5.margin-y-50,
             h6.margin-y-50 {
-                margin-bottom: 30px;
-                margin-top: 30px;
+                margin-bottom: 3.0rem;  /* 30px */
+                margin-top: 3.0rem;     /* 30px */
             }
 
-            h1 { font-size: 28px; line-height: 1.3; }
-            h2 { font-size: 24px; line-height: 1.3; }
-            h3 { font-size: 20px; line-height: 1.3; }
-            h4 { font-size: 17px; line-height: 1.3; }
-            h5 { font-size: 15px; line-height: 1.3; }
-            h6 { font-size: 14px; line-height: 1.3; }
+            h1 { font-size: 2.8rem; line-height: 1.3; }
+            h2 { font-size: 2.4rem; line-height: 1.3; }
+            h3 { font-size: 2.0rem; line-height: 1.3; }
+            h4 { font-size: 1.7rem; line-height: 1.3; }
+            h5 { font-size: 1.5rem; line-height: 1.3; }
+            h6 { font-size: 1.4rem; line-height: 1.3; }
             
             nav a {
                 font-size: 16px;
@@ -1136,16 +1136,16 @@ code {
                 font-size: 1.6rem; /* 18px; */
                 line-height: 1.3;
                 text-align: justify;
-                padding-left: 10px; /* Lề trái 50px */
+                padding-left: 1.0rem;           /* 10px */ /* Lề trái 50px */
             }
 
             hr.hr-long {
-                margin-top: 30px;
-                margin-bottom: 30px;
+                margin-top: 3.0rem;     /* 30px */
+                margin-bottom: 3.0rem;  /* 30px */
             }
             hr.hr-short {
-                margin-top: 30px;
-                margin-bottom: 30px;
+                margin-top: 3.0rem;     /* 30px */
+                margin-bottom: 3.0rem;  /* 30px */
             }
 
             .logo-text {
