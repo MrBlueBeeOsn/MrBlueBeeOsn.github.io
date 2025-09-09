@@ -43,7 +43,7 @@ body, html {
     overflow-x: hidden;
     background: #212121;
     font-family: Bellota, sans-serif;
-    font-size: 18px;
+    font-size: 1.8rem;           /* 18px */
 }
 
 body {
@@ -87,7 +87,7 @@ header img {
 }
 
 header h1 {
-    font-size: 24px;
+    font-size: 2.4rem;           /* 24px */
     margin: 0;
 }
 
@@ -127,7 +127,7 @@ nav ul li {
 
 nav a {
     text-decoration: none;
-    font-size: 18px; /*16px;*/
+    font-size: 1.8rem;           /* 18px */ /*16px;*/
 }
 
 .nav-link {
@@ -372,7 +372,7 @@ span.bold {
     top: -16px;    /* Điều chỉnh khoảng cách phía trên */
     left: 50%;  /* Điều chỉnh khoảng cách phía bên phải */
     transform: translateX(-20%); /* căn giữa chuẩn */
-    font-size: 14px;
+    font-size: 1.4rem;           /* 14px */
     color: #19D3DA;
     font-weight: bold;
     padding: 5px;
@@ -389,7 +389,7 @@ span.bold {
 
 .bee {
       position: absolute;
-      font-size: 18px;
+      font-size: 1.8rem;           /* 18px */
       transition: transform 1s ease-in-out;
       z-index: 2;
 }
@@ -428,7 +428,7 @@ p.text-indent-whole {
 }
 
 p.text-small {
-    font-size: 14px;
+    font-size: 1.4rem;           /* 14px */
 }
 
 /* =============================
@@ -794,7 +794,7 @@ code {
         border-radius: 50%;
         width: 50px;
         height: 50px;
-        font-size: 24px;
+        font-size: 2.4rem;           /* 24px */
         display: flex;
         align-items: center;
         justify-content: center;
@@ -932,7 +932,7 @@ code {
             }
 
             header h1 {
-                font-size: 20px;
+                font-size: 2.0rem;           /* 20px */
             }
 
             /* =============================
@@ -945,7 +945,7 @@ code {
             }*/
 
             nav a {
-                font-size: 18px; /*14px;*/
+                font-size: 1.8rem;           /* 18px */ /*14px;*/
             }
 
             /* =============================
@@ -1013,7 +1013,7 @@ code {
             
             ul li {
                 padding-bottom: 1.0rem; /* 10px */ /* Thêm khoảng đệm 10px bên dưới */
-                font-size: 18px;
+                font-size: 1.8rem;           /* 18px */
             }
 
             ul {
@@ -1051,7 +1051,7 @@ code {
             .back-to-top {
                 width: 40px;
                 height: 40px;
-                font-size: 20px;
+                font-size: 2.0rem;           /* 20px */
                 bottom: 20px;
                 left: -12px;  /* lấn ra ngoài màn hình 12px */
                 background-color: transparent;
@@ -1083,12 +1083,12 @@ code {
                 top: -14px;    /* Điều chỉnh khoảng cách phía trên */
                 left: 50%;  /* Điều chỉnh khoảng cách phía bên phải */
                 transform: translateX(-20%); /* căn giữa chuẩn */
-                font-size: 12px;
+                font-size: 1.2rem;           /* 12px */
             }
             
             .bee {
                 position: absolute;
-                font-size: 18px;
+                font-size: 1.8rem;           /* 18px */
                 transition: transform 1s ease-in-out;
                 z-index: 2;
             }
@@ -1121,7 +1121,7 @@ code {
             h6 { font-size: 1.4rem; line-height: 1.3; }
             
             nav a {
-                font-size: 16px;
+                font-size: 1.6rem;           /* 16px */
             }
 
             .nav-link {
@@ -1129,7 +1129,7 @@ code {
             }
             
             ul li {
-                font-size: 16px;
+                font-size: 1.6rem;           /* 16px */
             }
 
             main p {
@@ -1152,7 +1152,7 @@ code {
                 top: -14px;    /* Điều chỉnh khoảng cách phía trên */
                 left: 50%;  /* Điều chỉnh khoảng cách phía bên phải */
                 transform: translateX(-20%); /* căn giữa chuẩn */
-                font-size: 12px;
+                font-size: 1.2rem;           /* 12px */
             }
 
         }
