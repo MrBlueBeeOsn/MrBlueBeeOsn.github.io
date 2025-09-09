@@ -21,7 +21,7 @@ font-size: 62.5%; /* 1rem = 10px */
 --tertiary-color: #A6EFF1; /* Màu cấp ba - Màu xanh lam rất nhạt, dùng để bổ sung hoặc nhấn nhẹ */
 --accent-color:	#01ACC1; /* Màu nhấn - Xanh dương nhạt, thường dùng cho nút, link */
 --background-color:#212121; /* Màu nền tổng thể */
---background-color-main:#fff; /* Màu nền tổng thể */
+--background-color-main:#f5f5f5; /* Màu nền tổng thể */
 --text-color: black; /* Màu chữ chính */
 --border-color: #66E2E6; /* Màu viền - Màu xanh lam nhạt hơn */
 }
