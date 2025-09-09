@@ -67,7 +67,7 @@ h6 { font-size: 1.6rem; line-height: 1.5; }
 header {
     width: 100%;
     max-width: 100vw;
-    padding: 10px;
+    padding: 1.0rem;              /* 10px */
     text-align: center;
 }
 
@@ -104,7 +104,7 @@ nav {
 }
 
 nav a {
-    margin: 0 10px;
+    margin: 0 1.0rem;              /* 10px */
     text-decoration: none;
     color: white;
     font-weight: bold;
@@ -122,7 +122,7 @@ nav ul {
 
 nav ul li {
     display: inline; /* Đặt các mục nằm trên cùng một dòng */
-    margin: 0 0px; /* Thêm khoảng cách giữa các mục margin: 0 10px; */
+    margin: 0 0px; /* Thêm khoảng cách giữa các mục margin: 0 1.0rem;              /* 10px */
 }
 
 nav a {
@@ -134,7 +134,7 @@ nav a {
     display: inline-block;
     position: relative;
     text-decoration: none;
-    border-radius: 10px; /* bo tròn */
+    border-radius: 1.0rem;              /* 10px */ /* bo tròn */
     transition: transform 0.15s ease; /* mượt khi nhấn */
 }
 
@@ -223,7 +223,7 @@ main p {
     white-space: normal;
     text-align: justify;
     font-size: 1.8rem; /* 18px; */
-    margin-bottom: 15px;
+    margin-bottom: 1.5rem;              /* 15px */
     padding-left: 1.0rem;           /* 10px */ /* Lề trái 50px */
 }
 
@@ -237,7 +237,7 @@ footer {
     width: 100%;
     max-width: 100vw;
     text-align: center;
-    padding: 10px;
+    padding: 1.0rem;              /* 10px */
     margin-top: auto;
 }
 
@@ -334,7 +334,7 @@ span.bold {
 .quote {
     border-left: 6px solid #19D3DA;
     /*background-color: #f3f3f3;*/
-    padding: 15px;
+    padding: 1.5rem;              /* 15px */
     margin: 20px 0;
 }
 
@@ -347,7 +347,7 @@ span.bold {
     display: inline-block; /* cho transform hoạt động */
     justify-content: center;
     align-items: center;
-    gap: 10px;
+    gap: 1.0rem;              /* 10px */
     transition: transform 0.1s ease-in-out; /* mượt khi nhấn */
     position: relative;
 }
@@ -761,13 +761,13 @@ code {
 .text-border1 {
     border: 2px, solid #A6EFF1;
     border-radius: 5px; /* Bo tròn các góc */
-    padding: 10px; /* Thêm khoảng đệm bên trong  */
+    padding: 1.0rem;              /* 10px */ /* Thêm khoảng đệm bên trong  */
 }
 
 .text-border2 {
     border: 3px, solid #A6EFF1;
     border-radius: 5px; /* Bo tròn các góc */
-    padding: 10px; /* Thêm khoảng đệm bên trong  */
+    padding: 1.0rem;              /* 10px */ /* Thêm khoảng đệm bên trong  */
 }
 
 .code-background {
@@ -919,7 +919,7 @@ code {
             h6 { font-size: 1.4rem; line-height: 1.4; }
             
             header {
-                padding: 10px;
+                padding: 1.0rem;              /* 10px */
             }
 
             .branding {
@@ -939,13 +939,13 @@ code {
             Nav (Mobile)
             ============================= */
             
-            /*nav {
+            nav {
                 flex-direction: column;
-                gap: 10px;
-            }*/
+                gap: 1.0rem;              /* 10px */
+            }
 
             nav a {
-                font-size: 1.8rem;           /* 18px */ /*14px;*/
+                font-size: 1.8rem;           /* 18px */ /*1.4rem;              /* 14px */
             }
 
             /* =============================
@@ -957,7 +957,7 @@ code {
                 max-width: 100vw;
                 /*margin: 0;*/
                 margin: 20px auto;  /* cách lề trên dưới 20px, căn giữa ngang */
-                padding: 15px;
+                padding: 1.5rem;              /* 15px */
                 box-shadow: none;
                 border: none;
                 overflow-x: hidden;
@@ -991,7 +991,7 @@ code {
                 width: 100%;
                 max-width: 100%;
                 height: auto;
-                /*margin: 0 auto 15px;*/
+                /*margin: 0 auto 1.5rem;              /* 15px */
                 object-fit: contain;
             }
 
@@ -1004,7 +1004,7 @@ code {
 
             nav ul li {
                 display: inline; /* Đặt các mục nằm trên cùng một dòng */
-                margin: 0 0px; /* Thêm khoảng cách giữa các mục margin: 0 10px; */
+                margin: 0 0px; /* Thêm khoảng cách giữa các mục margin: 0 1.0rem;              /* 10px */
             }
 
             /* =============================
@@ -1053,7 +1053,7 @@ code {
                 height: 40px;
                 font-size: 2.0rem;           /* 20px */
                 bottom: 20px;
-                left: -12px;  /* lấn ra ngoài màn hình 12px */
+                left: -1.2rem;              /* 12px */  /* lấn ra ngoài màn hình 12px */
                 background-color: transparent;
                 -webkit-tap-highlight-color: transparent; /* iOS Safari & Chrome */
                 -webkit-focus-ring-color: transparent;    /* Safari */
@@ -1080,7 +1080,7 @@ code {
             }
 
             .logo-text {
-                top: -14px;    /* Điều chỉnh khoảng cách phía trên */
+                top: -1.4rem;              /* 14px */    /* Điều chỉnh khoảng cách phía trên */
                 left: 50%;  /* Điều chỉnh khoảng cách phía bên phải */
                 transform: translateX(-20%); /* căn giữa chuẩn */
                 font-size: 1.2rem;           /* 12px */
@@ -1125,7 +1125,7 @@ code {
             }
 
             .nav-link {
-                margin: 0px 10px; /* Thêm khoảng cách giữa các mục margin: 0 10px; */
+                margin: 0px 1.0rem;              /* 10px */
             }
             
             ul li {
@@ -1149,7 +1149,7 @@ code {
             }
 
             .logo-text {
-                top: -14px;    /* Điều chỉnh khoảng cách phía trên */
+                top: -1.4rem;              /* 14px */    /* Điều chỉnh khoảng cách phía trên */
                 left: 50%;  /* Điều chỉnh khoảng cách phía bên phải */
                 transform: translateX(-20%); /* căn giữa chuẩn */
                 font-size: 1.2rem;           /* 12px */
