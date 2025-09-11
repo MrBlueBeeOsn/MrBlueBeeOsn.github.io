@@ -431,6 +431,19 @@ span.bold {
     z-index: 10; /* Đảm bảo ảnh hiển thị trên các phần tử khác */
 }
 
+.bee-wrapper2 {
+    position: absolute; /* Định vị tuyệt đối */
+    bottom: -110px; /* 15px; Gắn sát góc trên */
+    right: -30px;
+    width: 100px; /* Kích thước hình ảnh */
+    height: auto;
+    transform: translateY(-50%); /* Căn giữa theo chiều dọc */
+    object-fit: cover; /* Để hình ảnh không bị méo */
+    opacity: 30%;
+    overflow: visible;
+    z-index: 10; /* Đảm bảo ảnh hiển thị trên các phần tử khác */
+}
+
 /* =============================
    Paragraph
 ============================= */
@@ -1370,6 +1383,14 @@ code {
                 height: auto;
                 opacity: 27%;
             }
+
+            .bee-wrapper2 {
+                position: absolute; /* Định vị tuyệt đối */
+                bottom: -95px; /* 15px; Gắn sát góc trên */
+                right: -25px;
+                width: 80px; /* Kích thước hình ảnh */
+                opacity: 27%;
+            }
         }
 
 /* =============================
@@ -1442,6 +1463,14 @@ code {
                 right: -40px;
                 width: 120px; /* Kích thước hình ảnh */
                 height: auto;
+                opacity: 25%;
+            }
+
+            .bee-wrapper2 {
+                position: absolute; /* Định vị tuyệt đối */
+                bottom: -85px; /* 15px; Gắn sát góc trên */
+                right: -20px;
+                width: 70px; /* Kích thước hình ảnh */
                 opacity: 25%;
             }
 
