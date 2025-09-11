@@ -410,6 +410,27 @@ span.bold {
       z-index: 2;
 }
 
+.bee-container {
+    display: flex;
+    justify-content: space-between; /* Đẩy chữ và ảnh về hai phía */
+    overflow: visible;
+    position: relative; /* Thẻ cha cần có position: relative */
+    align-items: flex-start; /* Căn trên cùng */
+}
+
+.bee-wrapper {
+    position: absolute; /* Định vị tuyệt đối */
+    top: 15px; /* Gắn sát góc trên */
+    right: -50px;
+    width: 150px; /* Kích thước hình ảnh */
+    height: auto;
+    transform: translateY(-50%); /* Căn giữa theo chiều dọc */
+    object-fit: cover; /* Để hình ảnh không bị méo */
+    opacity: 40%;
+    overflow: visible;
+    z-index: 10; /* Đảm bảo ảnh hiển thị trên các phần tử khác */
+}
+
 /* =============================
    Paragraph
 ============================= */
@@ -1340,8 +1361,15 @@ code {
                 transition: transform 1s ease-in-out;
                 z-index: 2;
             }
-        }
 
+            .bee-wrapper {
+                position: absolute; /* Định vị tuyệt đối */
+                top: 15px; /* Gắn sát góc trên */
+                right: -45px;
+                width: 130px; /* Kích thước hình ảnh */
+                height: auto;
+            }
+        }
 
 /* =============================
     Mobile (Responsive) - by GRK
@@ -1405,6 +1433,14 @@ code {
                 left: 50%;  /* Điều chỉnh khoảng cách phía bên phải */
                 transform: translateX(-20%); /* căn giữa chuẩn */
                 font-size: 1.2rem;           /* 12px */
+            }
+
+            .bee-wrapper {
+                position: absolute; /* Định vị tuyệt đối */
+                top: 14px; /* Gắn sát góc trên */
+                right: -40px;
+                width: 120px; /* Kích thước hình ảnh */
+                height: auto;
             }
 
         }
