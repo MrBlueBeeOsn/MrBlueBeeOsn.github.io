@@ -420,7 +420,7 @@ span.bold {
 
 .bee-wrapper {
     position: absolute; /* Định vị tuyệt đối */
-    top: 15px; /* Gắn sát góc trên */
+    top: 40px; /* 15px; Gắn sát góc trên */
     right: -50px;
     width: 150px; /* Kích thước hình ảnh */
     height: auto;
@@ -1364,7 +1364,7 @@ code {
 
             .bee-wrapper {
                 position: absolute; /* Định vị tuyệt đối */
-                top: 15px; /* Gắn sát góc trên */
+                top: 35px; /* 15px Gắn sát góc trên */
                 right: -45px;
                 width: 130px; /* Kích thước hình ảnh */
                 height: auto;
@@ -1437,7 +1437,7 @@ code {
 
             .bee-wrapper {
                 position: absolute; /* Định vị tuyệt đối */
-                top: 14px; /* Gắn sát góc trên */
+                top: 34px; /* 14px Gắn sát góc trên */
                 right: -40px;
                 width: 120px; /* Kích thước hình ảnh */
                 height: auto;
