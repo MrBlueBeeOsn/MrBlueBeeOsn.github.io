@@ -426,7 +426,7 @@ span.bold {
     height: auto;
     transform: translateY(-50%); /* Căn giữa theo chiều dọc */
     object-fit: cover; /* Để hình ảnh không bị méo */
-    opacity: 40%;
+    opacity: 30%;
     overflow: visible;
     z-index: 10; /* Đảm bảo ảnh hiển thị trên các phần tử khác */
 }
@@ -1368,6 +1368,7 @@ code {
                 right: -45px;
                 width: 130px; /* Kích thước hình ảnh */
                 height: auto;
+                opacity: 27%;
             }
         }
 
@@ -1441,6 +1442,7 @@ code {
                 right: -40px;
                 width: 120px; /* Kích thước hình ảnh */
                 height: auto;
+                opacity: 25%;
             }
 
         }
