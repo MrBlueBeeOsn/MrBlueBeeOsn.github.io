@@ -327,14 +327,14 @@ a:active img {
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
 }
 
-p.highlight1 {
+.highlight5 {
     background-color: var(--secondary-color); /* Teal nhạt hơn*/
     color: #333;
     padding: 2px 8px;
     border-radius: 3px;
 }
 
-p.highlight2 {
+.highlight6 {
     background-color: var(--tertiary-color); /* Teal rất nhạt*/
     color: #333;
     padding: 2px 8px;
