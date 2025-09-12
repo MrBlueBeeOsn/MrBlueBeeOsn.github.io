@@ -5,4 +5,14 @@
 - Color (màu chữ)
 - Line height (khoảng cách giữa các dòng chữ)
 - Letter spacing (khoảng cách giữa các chữ)
+
+File này chuyên biệt hơn, tập trung hoàn toàn vào định dạng chữ. Nó đặt style chi tiết cho từng loại tiêu đề, đoạn văn, và các phần tử liên quan đến chữ viết khác. Ví dụ:
+
+Style riêng cho các thẻ từ <h1> đến <h6> (kích thước, font-weight, margin).
+
+Style cho thẻ <p> (khoảng cách giữa các đoạn).
+
+Style cho <blockquote>, <em>, <strong>.
+
+Nó đảm bảo rằng tất cả các yếu tố chữ viết trên trang đều có style nhất quán, dễ đọc và đẹp mắt.
 ============================= */

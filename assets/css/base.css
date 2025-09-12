@@ -1,5 +1,11 @@
 /* =============================
-   Reset margin, padding
+  Base: font-family, box-sizing (Dành cho các style chung của trang)
+
+  File này chứa các quy tắc CSS nền tảng và chung nhất cho toàn bộ dự án. Nó thiết lập các yếu tố cơ bản nhất của trang web, bao gồm:
+    Các style chung cho thẻ <body> (như font-family, line-height).
+    Các quy tắc về box-sizing.
+    Style cho các phần tử cơ bản khác như <ul>, <ol>, <a> (ví dụ: text-decoration: none;).
+    Nói chung, nó đặt ra những "nguyên tắc chung" cho dự án của bạn.
 ============================= */
 
 /* * {

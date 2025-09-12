@@ -2,6 +2,10 @@
   Utilities: margin, padding (Dành cho các class tiện ích)
 ============================= */
 
+/* =============================
+  margin
+============================= */
+
 .margin-top-50,
 p.margin-top-50,
 h1.margin-top-50,
@@ -171,6 +175,10 @@ h6.margin-y-10 {
     margin-bottom: 1.0rem;  /* 10px */
     margin-top: 1.0rem;     /* 10px */
 }
+
+/* =============================
+  padding
+============================= */
 
 .padding-top-50,
 p.padding-top-50,

@@ -7,6 +7,7 @@
 ============================= */
 
 @import url('https://fonts.googleapis.com/css2?family=Bellota&family=Bellota+Text:wght@300;400&display=swap');
+@import "/assets/css/normalize.css";
 @import "/assets/css/base.css";
 @import "/assets/css/typography.css";
 @import "/assets/css/layout.css";
@@ -16,12 +17,6 @@
 /* =============================
    Thiết lập ban đầu
 ============================= */
-
-* {
-    box-sizing: border-box;
-    margin: 0px;
-    padding: 0px;
-}
 
 :root {
 font-size: 62.5%; /* 1rem = 10px */
