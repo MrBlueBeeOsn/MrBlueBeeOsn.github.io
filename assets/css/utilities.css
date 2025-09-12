@@ -2,3 +2,342 @@
   Utilities: margin, padding (Dành cho các class tiện ích)
 ============================= */
 
+.margin-top-50,
+p.margin-top-50,
+h1.margin-top-50,
+h2.margin-top-50,
+h3.margin-top-50,
+h4.margin-top-50,
+h5.margin-top-50,
+h6.margin-top-50 {
+    margin-top: 5.0rem;     /* 50px */
+}
+
+.margin-bottom-50,
+p.margin-bottom-50,
+h1.margin-bottom-50,
+h2.margin-bottom-50,
+h3.margin-bottom-50,
+h4.margin-bottom-50,
+h5.margin-bottom-50,
+h6.margin-bottom-50 {
+    margin-bottom: 5.0rem;  /* 50px */
+}
+
+.margin-y-50,
+p.margin-y-50,
+h1.margin-y-50,
+h2.margin-y-50,
+h3.margin-y-50,
+h4.margin-y-50,
+h5.margin-y-50,
+h6.margin-y-50 {
+    margin-bottom: 5.0rem;  /* 50px */
+    margin-top: 5.0rem;     /* 50px */
+}
+
+.margin-top-40,
+p.margin-top-40,
+h1.margin-top-40,
+h2.margin-top-40,
+h3.margin-top-40,
+h4.margin-top-40,
+h5.margin-top-40,
+h6.margin-top-40 {
+    margin-top: 4.0rem;     /* 40px */
+}
+
+.margin-bottom-40,
+p.margin-bottom-40,
+h1.margin-bottom-40,
+h2.margin-bottom-40,
+h3.margin-bottom-40,
+h4.margin-bottom-40,
+h5.margin-bottom-40,
+h6.margin-bottom-40 {
+    margin-bottom: 4.0rem;  /* 40px */
+}
+
+.margin-y-40,
+p.margin-y-40,
+h1.margin-y-40,
+h2.margin-y-40,
+h3.margin-y-40,
+h4.margin-y-40,
+h5.margin-y-40,
+h6.margin-y-40 {
+    margin-bottom: 4.0rem;  /* 40px */
+    margin-top: 4.0rem;     /* 40px */
+}
+
+.margin-top-30,
+p.margin-top-30,
+h1.margin-top-30,
+h2.margin-top-30,
+h3.margin-top-30,
+h4.margin-top-30,
+h5.margin-top-30,
+h6.margin-top-30 {
+    margin-top: 3.0rem;     /* 30px */
+}
+
+.margin-bottom-30,
+p.margin-bottom-30,
+h1.margin-bottom-30,
+h2.margin-bottom-30,
+h3.margin-bottom-30,
+h4.margin-bottom-30,
+h5.margin-bottom-30,
+h6.margin-bottom-30 {
+    margin-bottom: 3.0rem;  /* 30px */
+}
+
+.margin-y-30,
+p.margin-y-30,
+h1.margin-y-30,
+h2.margin-y-30,
+h3.margin-y-30,
+h4.margin-y-30,
+h5.margin-y-30,
+h6.margin-y-30 {
+    margin-bottom: 3.0rem;  /* 30px */
+    margin-top: 3.0rem;     /* 30px */
+}
+
+.margin-top-20,
+p.margin-top-20,
+h1.margin-top-20,
+h2.margin-top-20,
+h3.margin-top-20,
+h4.margin-top-20,
+h5.margin-top-20,
+h6.margin-top-20 {
+    margin-top: 2.0rem;     /* 20px */
+}
+
+.margin-bottom-20,
+p.margin-bottom-20,
+h1.margin-bottom-20,
+h2.margin-bottom-20,
+h3.margin-bottom-20,
+h4.margin-bottom-20,
+h5.margin-bottom-20,
+h6.margin-bottom-20 {
+    margin-bottom: 2.0rem;  /* 20px */
+}
+
+.margin-y-20,
+p.margin-y-20,
+h1.margin-y-20,
+h2.margin-y-20,
+h3.margin-y-20,
+h4.margin-y-20,
+h5.margin-y-20,
+h6.margin-y-20 {
+    margin-bottom: 2.0rem;  /* 20px */
+    margin-top: 2.0rem;     /* 20px */
+}
+
+.margin-top-10,
+p.margin-top-10,
+h1.margin-top-10,
+h2.margin-top-10,
+h3.margin-top-10,
+h4.margin-top-10,
+h5.margin-top-10,
+h6.margin-top-10 {
+    margin-top: 1.0rem;     /* 10px */
+}
+
+.margin-bottom-10,
+p.margin-bottom-10,
+h1.margin-bottom-10,
+h2.margin-bottom-10,
+h3.margin-bottom-10,
+h4.margin-bottom-10,
+h5.margin-bottom-10,
+h6.margin-bottom-10 {
+    margin-bottom: 1.0rem;  /* 10px */
+}
+
+.margin-y-10,
+p.margin-y-10,
+h1.margin-y-10,
+h2.margin-y-10,
+h3.margin-y-10,
+h4.margin-y-10,
+h5.margin-y-10,
+h6.margin-y-10 {
+    margin-bottom: 1.0rem;  /* 10px */
+    margin-top: 1.0rem;     /* 10px */
+}
+
+.padding-top-50,
+p.padding-top-50,
+h1.padding-top-50,
+h2.padding-top-50,
+h3.padding-top-50,
+h4.padding-top-50,
+h5.padding-top-50,
+h6.padding-top-50 {
+    padding-top: 5.0rem;     /* 50px */
+}
+
+.padding-bottom-50,
+p.padding-bottom-50,
+h1.padding-bottom-50,
+h2.padding-bottom-50,
+h3.padding-bottom-50,
+h4.padding-bottom-50,
+h5.padding-bottom-50,
+h6.padding-bottom-50 {
+    padding-bottom: 5.0rem;  /* 50px */
+}
+
+.padding-y-50,
+p.padding-y-50,
+h1.padding-y-50,
+h2.padding-y-50,
+h3.padding-y-50,
+h4.padding-y-50,
+h5.padding-y-50,
+h6.padding-y-50 {
+    padding-bottom: 5.0rem;  /* 50px */
+    padding-top: 5.0rem;     /* 50px */
+}
+
+.padding-top-40,
+p.padding-top-40,
+h1.padding-top-40,
+h2.padding-top-40,
+h3.padding-top-40,
+h4.padding-top-40,
+h5.padding-top-40,
+h6.padding-top-40 {
+    padding-top: 4.0rem;     /* 40px */
+}
+
+.padding-bottom-40,
+p.padding-bottom-40,
+h1.padding-bottom-40,
+h2.padding-bottom-40,
+h3.padding-bottom-40,
+h4.padding-bottom-40,
+h5.padding-bottom-40,
+h6.padding-bottom-40 {
+    padding-bottom: 4.0rem;  /* 40px */
+}
+
+.padding-y-40,
+p.padding-y-40,
+h1.padding-y-40,
+h2.padding-y-40,
+h3.padding-y-40,
+h4.padding-y-40,
+h5.padding-y-40,
+h6.padding-y-40 {
+    padding-bottom: 4.0rem;  /* 40px */
+    padding-top: 4.0rem;     /* 40px */
+}
+
+.padding-top-30,
+p.padding-top-30,
+h1.padding-top-30,
+h2.padding-top-30,
+h3.padding-top-30,
+h4.padding-top-30,
+h5.padding-top-30,
+h6.padding-top-30 {
+    padding-top: 3.0rem;     /* 30px */
+}
+
+.padding-bottom-30,
+p.padding-bottom-30,
+h1.padding-bottom-30,
+h2.padding-bottom-30,
+h3.padding-bottom-30,
+h4.padding-bottom-30,
+h5.padding-bottom-30,
+h6.padding-bottom-30 {
+    padding-bottom: 3.0rem;  /* 30px */
+}
+
+.padding-y-30,
+p.padding-y-30,
+h1.padding-y-30,
+h2.padding-y-30,
+h3.padding-y-30,
+h4.padding-y-30,
+h5.padding-y-30,
+h6.padding-y-30 {
+    padding-bottom: 3.0rem;  /* 30px */
+    padding-top: 3.0rem;     /* 30px */
+}
+
+.padding-top-20,
+p.padding-top-20,
+h1.padding-top-20,
+h2.padding-top-20,
+h3.padding-top-20,
+h4.padding-top-20,
+h5.padding-top-20,
+h6.padding-top-20 {
+    padding-top: 2.0rem;     /* 20px */
+}
+
+.padding-bottom-20,
+p.padding-bottom-20,
+h1.padding-bottom-20,
+h2.padding-bottom-20,
+h3.padding-bottom-20,
+h4.padding-bottom-20,
+h5.padding-bottom-20,
+h6.padding-bottom-20 {
+    padding-bottom: 2.0rem;  /* 20px */
+}
+
+.padding-y-20,
+p.padding-y-20,
+h1.padding-y-20,
+h2.padding-y-20,
+h3.padding-y-20,
+h4.padding-y-20,
+h5.padding-y-20,
+h6.padding-y-20 {
+    padding-bottom: 2.0rem;  /* 20px */
+    padding-top: 2.0rem;     /* 20px */
+}
+
+.padding-top-10,
+p.padding-top-10,
+h1.padding-top-10,
+h2.padding-top-10,
+h3.padding-top-10,
+h4.padding-top-10,
+h5.padding-top-10,
+h6.padding-top-10 {
+    padding-top: 1.0rem;     /* 10px */
+}
+
+.padding-bottom-10,
+p.padding-bottom-10,
+h1.padding-bottom-10,
+h2.padding-bottom-10,
+h3.padding-bottom-10,
+h4.padding-bottom-10,
+h5.padding-bottom-10,
+h6.padding-bottom-10 {
+    padding-bottom: 1.0rem;  /* 10px */
+}
+
+.padding-y-10,
+p.padding-y-10,
+h1.padding-y-10,
+h2.padding-y-10,
+h3.padding-y-10,
+h4.padding-y-10,
+h5.padding-y-10,
+h6.padding-y-10 {
+    padding-bottom: 1.0rem;  /* 10px */
+    padding-top: 1.0rem;     /* 10px */
+}
