@@ -3,10 +3,17 @@
 ============================= */
 
 /* =============================
-   Thiết lập ban đầu
+   @import
 ============================= */
 
 @import url('https://fonts.googleapis.com/css2?family=Bellota&family=Bellota+Text:wght@300;400&display=swap');
+@import "/assets/css/base.css";
+@import "/assets/css/layout.css";
+@import "/assets/css/components.css";
+
+/* =============================
+   Thiết lập ban đầu
+============================= */
 
 * {
     box-sizing: border-box;
