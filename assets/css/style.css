@@ -1210,12 +1210,12 @@ th {
     text-align: center;
 }
 
-th:nth-child(3) {
+th:nth-child(2) {
     background-color: var(--accent-color); /* Màu xanh lá cho tiêu đề cột giá tiền */
 }
 
 /* Tô màu cho toàn bộ cột thứ 3 */
-td:nth-child(3) {
+td:nth-child(2) {
     background-color: white;
     font-weight: 600;
     color: var(--accent-color);
