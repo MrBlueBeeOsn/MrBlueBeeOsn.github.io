@@ -8,23 +8,22 @@
     Nói chung, nó đặt ra những "nguyên tắc chung" cho dự án của bạn.
 ============================= */
 
-/* * {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-}
-
 /* =============================
-   Biến global
+   Body
 ============================= */
 
-/* :root {
-  --primary-color: #4a90e2;
-  --font-main: "Segoe UI", sans-serif;
+body, html {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    overflow-x: hidden;
+    background: var(--background-color);
+    font-family: Bellota, sans-serif;
+    font-size: 1.8rem;           /* 18px */
 }
 
 body {
-  font-family: var(--font-main);
-  background-color: #f9f9f9;
-  color: #333;
-} */
+    display: flex;
+    flex-direction: column; /* Sắp xếp các phần tử theo cột */
+    min-height: 100vh;      /* Đảm bảo body có chiều cao tối thiểu bằng màn hình */
+}
