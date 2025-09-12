@@ -1355,7 +1355,8 @@ td:nth-child(3):hover {
             ul (Mobile)
             ============================= */
             
-            ul li {
+            ul li,
+            ol li {
                 padding-bottom: 1.0rem; /* 10px */ /* Thêm khoảng đệm 10px bên dưới */
                 font-size: 1.8rem;           /* 18px */
             }
@@ -1510,7 +1511,8 @@ td:nth-child(3):hover {
                 margin: 0px 1.0rem;              /* 10px */
             }
             
-            ul li {
+            ul li,
+            ol li {
                 font-size: 1.6rem;           /* 16px */
             }
 
