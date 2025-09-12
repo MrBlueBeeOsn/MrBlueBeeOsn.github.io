@@ -1177,7 +1177,69 @@ code {
     }
 
 /* =============================
-    Mobile (Responsive) - by GRK
+    Table - by DPSK
+============================= */
+
+.table-container {
+    max-width: 1000px;
+    /* background-color: white; */
+    border-radius: 15px;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.15);
+    padding: 3.0rem;
+    overflow: hidden;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 2.0rem 0;
+    font-size: 1.6rem;
+    /* box-shadow: 0 5px 15px rgba(0, 0, 0, 0.05); */
+}
+
+th, td {
+    padding: 1.6rem 2.0rem;
+    text-align: center;
+    border-bottom: 1px dashed var(--tertiary-color);
+}
+
+th {
+    /* background-color: var(--primary-color); */
+    /* color: white; */
+    font-weight: 600;
+    text-align: center;
+}
+
+th:nth-child(3) {
+    background-color: var(--accent-color); /* Màu xanh lá cho tiêu đề cột giá tiền */
+}
+
+/* Tô màu cho toàn bộ cột thứ 3 */
+td:nth-child(3) {
+    background-color: white;
+    font-weight: 600;
+    color: var(--accent-color);
+    text-align: center;
+}
+
+/* tr:nth-child(even) {
+    background-color: #f9f9f9;
+} */
+
+tr:hover {
+    background-color: var(--tertiary-color);
+    transition: background-color 0.3s ease;
+}
+
+/* Hiệu ứng khi di chuột vào ô ở cột thứ 3 */
+td:nth-child(3):hover {
+    background-color: var(--secondary-color);
+    transform: scale(1.02);
+    transition: all 0.2s ease;
+}
+
+/* =============================
+    Mobile (Responsive 768px) - by GRK
 ============================= */
 
          @media screen and (max-width: 768px) {
@@ -1391,10 +1453,28 @@ code {
                 width: 80px; /* Kích thước hình ảnh */
                 opacity: 27%;
             }
+
+            /* =============================
+                Table 768px - by DPSK
+            ============================= */
+
+            .table-container {
+                border-radius: 10px;
+            }
+            
+            th, td {
+                padding: 1.2rem 0.8rem;
+                font-size: 1.6rem;
+            }
+            
+            .mobile-message {
+                display: block;
+            }
+
         }
 
 /* =============================
-    Mobile (Responsive) - by GRK
+    Mobile (Responsive 375px) - by GRK
 ============================= */
 
          @media screen and (max-width: 375px) {
@@ -1472,6 +1552,23 @@ code {
                 right: -20px;
                 width: 70px; /* Kích thước hình ảnh */
                 opacity: 25%;
+            }
+
+            /* =============================
+                Table 375px - by DPSK
+            ============================= */
+
+            .table-container {
+                border-radius: 10px;
+            }
+            
+            th, td {
+                padding: 1.2rem 0.8rem;
+                font-size: 1.2rem;
+            }
+            
+            .mobile-message {
+                display: block;
             }
 
         }
