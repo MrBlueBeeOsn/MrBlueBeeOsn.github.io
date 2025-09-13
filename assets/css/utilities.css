@@ -1,6 +1,211 @@
 /* =============================
-  Utilities: margin, padding (Dành cho các class tiện ích)
+  Utilities.css (Tiện ích)
+    Mục đích: utilities.css chứa các class nhỏ, có thể tái sử dụng và chỉ làm một việc duy nhất. Chúng được dùng để thêm các style nhanh chóng mà không cần viết CSS mới cho mỗi lần sử dụng.
+
+    Nội dung: Các class có tên ngắn gọn, dễ nhớ, thường chỉ chứa một hoặc hai thuộc tính.
+
+    Ví dụ:
+
+        Class cho khoảng cách: .mt-10 (margin-top: 10px;).
+        Class cho màu sắc: .text-red, .bg-primary.
+        Class cho định dạng: .text-center, .float-left.
 ============================= */
+
+/* =============================
+   Quote
+============================= */
+
+.quote {
+    border-left: 6px solid var(--primary-color);
+    /*background-color: #f3f3f3;*/
+    padding: 1.2rem 1.6rem;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+/* =============================
+   Highlight
+============================= */
+
+.highlight1 {
+    background-color: var(--secondary-color); /* Teal nhạt hơn*/
+    color: #333;
+    padding: 4px 8px;
+    border-radius: 3px;
+}
+
+.highlight2 {
+    background-color: var(--tertiary-color); /* Teal rất nhạt*/
+    color: #333;
+    padding: 4px 8px;
+    border-radius: 3px;
+}
+
+.highlight3 {
+    background-color: #eeeeee; /* Grey rất nhạt*/
+    color: #333;
+    padding: 4px 8px;
+    border-radius: 3px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.highlight4 {
+    background-color: white; /* Grey rất nhạt*/
+    color: #333;
+    padding: 4px 8px;
+    border-radius: 3px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.highlight5 {
+    background-color: var(--secondary-color); /* Teal nhạt hơn*/
+    color: #333;
+    padding: 2px 8px;
+    border-radius: 3px;
+}
+
+.highlight6 {
+    background-color: var(--tertiary-color); /* Teal rất nhạt*/
+    color: #333;
+    padding: 2px 8px;
+    border-radius: 3px;
+}
+
+/* =============================
+   Bold
+============================= */
+
+mark.bold {
+    background-color: transparent;
+    font-weight: bold;
+}
+
+span.bold {
+    font-weight: bold;
+}
+
+/* =============================
+   Utilities
+============================= */
+
+.list-none {
+    list-style-type: none; /* Hình vuông đầy */
+}
+
+.list-square {
+    list-style-type: square; /* Hình vuông đầy */
+}
+
+.list-disc {
+    list-style-type: disc; /* Chấm tròn đầy */
+}
+
+.list-circle {
+    list-style-type: circle; /* Chấm tròn rỗng */
+}
+
+.list-decimal {
+    list-style-type: decimal; /* 1, 2, 3, ... */
+}
+
+.list-lower-alpha {
+    list-style-type: lower-alpha; /* a, b, c, ... */
+}
+
+.list-upper-alpha {
+    list-style-type: upper-alpha; /* A, B, C, ... */
+}
+
+.list-lower-roman {
+    list-style-type: lower-roman; /* i, ii, iii, ... */
+}
+
+.list-upper-roman {
+    list-style-type: upper-roman; /* I, II, III, ... */
+}
+
+.list-border {
+    list-style-type: none;
+    padding-left: 0;
+    text-align: left;
+}
+
+.list-border1 {
+    list-style-type: square;
+    padding-left: 5.0rem;           /* 50px */
+    text-align: left;
+}
+
+.list-border2 {
+    list-style-type: disc;
+    padding-left: 5.0rem;           /* 50px */
+    text-align: left;
+}
+
+.list-border li {
+    padding: 0.8rem 0rem 0rem 0rem;
+    border-bottom: 1px dashed var(--tertiary-color);
+    transition: background-color 0.2s ease;
+}
+
+.list-border1 li,
+.list-border2 li {
+    padding: 0.1rem 0rem 0rem 0rem;
+    border-bottom: 1px dashed var(--tertiary-color);
+    transition: background-color 0.2s ease;
+}
+
+/* .list-border li:last-child {
+    border-bottom: none;
+}
+
+/.list-border li:hover {
+    background-color: var(--tertiary-color);
+} */
+
+.font-normal {
+  font-weight: normal;
+}
+
+pre {
+    overflow-x: auto; /* Thêm thanh cuộn ngang nếu nội dung quá dài */
+}
+
+.pre-border {
+    border: 2px, solid var(--tertiary-color);
+    border-radius: 8px; /* Bo tròn các góc */
+    padding: 0px;
+}
+
+.pre-background {
+    background-color: #eeeeee; /* #f4f4f4Màu nền xám nhạt */
+}
+
+code {
+    font-family: monospace; /* Đảm bảo font chữ đơn cách */
+    color: #333; /* Màu chữ */
+}
+
+.text-border {
+    border: 1px, solid var(--tertiary-color);
+    border-radius: 5px; /* Bo tròn các góc */
+    padding: 1px; /* Thêm khoảng đệm bên trong  */
+}
+
+.text-border1 {
+    border: 2px, solid var(--tertiary-color);
+    border-radius: 5px; /* Bo tròn các góc */
+    padding: 1.0rem;              /* 10px */ /* Thêm khoảng đệm bên trong  */
+}
+
+.text-border2 {
+    border: 3px, solid var(--tertiary-color);
+    border-radius: 5px; /* Bo tròn các góc */
+    padding: 1.0rem;              /* 10px */ /* Thêm khoảng đệm bên trong  */
+}
+
+.code-background {
+    background-color: #eeeeee; /* #f4f4f4Màu nền xám nhạt */
+}
 
 /* =============================
   margin

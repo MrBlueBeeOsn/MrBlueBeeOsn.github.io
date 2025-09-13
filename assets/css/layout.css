@@ -2,15 +2,182 @@
   Layout: header, footer, main content, sidebar (Dành cho các bố cục chính của trang)
 ============================= */
 
-/* header, footer {
-  background: var(--primary-color);
-  color: white;
-  text-align: center;
-  padding: 1rem;
+/* =============================
+   Header
+============================= */
+
+header {
+    width: 100%;
+    max-width: 100vw;
+    padding: 1.0rem;              /* 10px */
+    text-align: center;
 }
 
+header {
+    background: var(--primary-color);
+    color: white;
+}
+
+header nav a.nav-link {
+  color: #ffff;
+}
+
+header img {
+    max-width: 100px;
+    height: auto;
+    display: block;
+}
+
+header h1 {
+    font-size: 2.4rem;           /* 24px */
+    margin: 0;
+}
+
+/* =============================
+   Nav
+============================= */
+
+nav {
+    display: flex;
+    gap: 20px;
+    align-items: center; /* Căn giữa theo chiều dọc */
+    padding: 10px 20px;
+    justify-content: center; /* Căn giữa theo chiều ngang */
+}
+
+nav a {
+    margin: 0 1.0rem;              /* 10px */
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    transition: color 0.3s ease;
+}
+nav a:hover {
+    text-decoration: underline;
+}
+
+nav ul {
+    list-style: none; /* Xóa các dấu chấm */
+    padding: 0;
+    margin: 0;
+}
+
+nav ul li {
+    display: inline; /* Đặt các mục nằm trên cùng một dòng */
+    margin: 0 0px; /* Thêm khoảng cách giữa các mục margin: 0 1.0rem;              /* 10px */
+}
+
+nav a {
+    text-decoration: none;
+    font-size: 1.8rem;           /* 18px */ /*16px;*/
+}
+
+.nav-link {
+    display: inline-block;
+    position: relative;
+    text-decoration: none;
+    border-radius: 1.0rem;              /* 10px */ /* bo tròn */
+    transition: transform 0.15s ease; /* mượt khi nhấn */
+}
+
+    /* hiệu ứng khi nhấn */
+.nav-link:active {
+    transform: scale(0.92); /* chữ + nền nhỏ lại */
+}
+
+/* =============================
+   Main
+============================= */
+
 main {
-  max-width: 800px;
-  margin: 2rem auto;
-  padding: 1rem;
-} */
+    flex: 1; /* Cho phép main tự động co giãn để chiếm không gian trống */  
+}
+
+main.content {
+  padding-bottom: 5.0rem; /* 50px */ /* điều chỉnh theo nhu cầu */
+}
+
+main.image {
+    width: 700px; /* Chiều rộng cố định, tối ưu cho blog */
+    /*margin: 0 auto;*/
+    margin: 20px auto;  /* cách lề trên dưới 20px, căn giữa ngang */
+    padding: 20px;
+    background-color: var(--background-color-main);
+    background-image: url('/assets/images/flower2.11.png'); /* Hoa 8 cánh - Nhọn - Có nụ */
+    background-size: cover;
+    background-position: bottom right;
+    background-repeat: no-repeat;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border: 2px solid #eee;
+    font-family: Bellota, sans-serif;
+    line-height: 1.6;
+    overflow-x: hidden;
+    position: relative;
+}
+
+main.image::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(255, 255, 255, 0.2); /* Lớp trắng bán trong suốt */
+    z-index: 1;
+}
+
+main.image > * {
+    position: relative;
+    z-index: 2;
+}
+
+    main.image1 {
+        background-image: url('/assets/images/flower2.2.png'); /* Hoa 8 cánh - Tròn - Không nụ */
+    }
+        
+    main.image2 {
+        background-image: url('/assets/images/flower2.41.png'); /* Hoa 8 cánh - Tròn - Có nụ */
+    }
+        
+    main.image3 {
+        background-image: url('/assets/images/flower2.5.png'); /* Hoa 8 cánh - Nhọn - Có nụ */
+    }
+        
+    main.image4 {
+        background-image: url('/assets/images/flower2.3.png'); /* Hoa 5 cánh - Tròn - Không nụ */
+    }
+
+main img {
+    width: 100%;
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto 20px;
+    object-fit: contain;
+}
+
+main p {
+    width: 100%;
+    max-width: 100%;
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+    white-space: normal;
+    text-align: justify;
+    font-size: 1.8rem; /* 18px; */
+    margin-bottom: 1.5rem;              /* 15px */
+    padding-left: 1.0rem;           /* 10px */ /* Lề trái 50px */
+}
+
+/* =============================
+   Footer
+============================= */
+
+footer {
+    background: #333;
+    color: white;
+    width: 100%;
+    max-width: 100vw;
+    text-align: center;
+    padding: 1.0rem;              /* 10px */
+    margin-top: auto;
+}
