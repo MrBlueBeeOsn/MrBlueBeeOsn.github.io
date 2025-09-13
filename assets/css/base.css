@@ -80,7 +80,7 @@ a:active img {
    hr
 ============================= */
 
-hr.hr-long {
+main hr.hr-long {
     border: none;            /* bỏ viền mặc định */
     height: 2px;             /* độ dày đường */
     background-color: var(--tertiary-color); /* màu bạn muốn, ở đây là xanh */
@@ -90,7 +90,7 @@ hr.hr-long {
     margin-bottom: 5.0rem;  /* 50px */
 }
 
-hr.hr-short {
+main hr.hr-short {
     border: none;            /* bỏ viền mặc định */
     height: 2px;             /* độ dày đường */
     background-color: var(--tertiary-color); /* màu bạn muốn, ở đây là xanh */

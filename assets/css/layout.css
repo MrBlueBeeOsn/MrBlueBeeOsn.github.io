@@ -129,6 +129,7 @@ main.image::before {
 main.image > * {
     position: relative;
     z-index: 2;
+    margin-bottom: 5rem;
 }
 
     main.image1 {
