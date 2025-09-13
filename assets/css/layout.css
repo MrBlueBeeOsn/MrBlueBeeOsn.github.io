@@ -90,11 +90,8 @@ nav a {
 ============================= */
 
 main {
-    flex: 1; /* Cho phép main tự động co giãn để chiếm không gian trống */  
-}
-
-main.content {
-  padding-bottom: 5.0rem; /* 50px */ /* điều chỉnh theo nhu cầu */
+    flex: 1; /* Cho phép main tự động co giãn để chiếm không gian trống */
+    padding-bottom: 5.0rem;
 }
 
 main.image {
@@ -129,7 +126,6 @@ main.image::before {
 main.image > * {
     position: relative;
     z-index: 2;
-    margin-bottom: 5rem;
 }
 
     main.image1 {
