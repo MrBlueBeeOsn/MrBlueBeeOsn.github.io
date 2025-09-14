@@ -63,12 +63,17 @@
             Main (Mobile)
             ============================= */
             
+            main p {
+                margin-bottom: 1.5rem;              /* 15px */
+                padding-left: 1rem;           /* 10px Lề trái 50px */
+            }
+            
             main.image {
                 width: 100%;
                 max-width: 100vw;
                 /*margin: 0;*/
-                margin: 20px auto;  /* cách lề trên dưới 20px, căn giữa ngang */
-                padding: 1.5rem;              /* 15px */
+                margin: 2.0rem auto;  /* cách lề trên dưới 20px, căn giữa ngang */
+                padding: 1.5rem 1.0rem 5.0rem 1.5rem;
                 box-shadow: none;
                 border: none;
                 overflow-x: hidden;
@@ -266,6 +271,21 @@
             h5 { font-size: 1.5rem; line-height: 1.3; }
             h6 { font-size: 1.4rem; line-height: 1.3; }
             
+            main p {
+                font-size: 1.6rem; /* 18px; */
+                line-height: 1.3;
+                text-align: justify;
+                padding-left: 1.0rem;           /* 10px */ /* Lề trái 50px */
+            }
+
+            main.image {
+                width: 100%;
+                max-width: 100vw;
+                /*margin: 0;*/
+                margin: 2.0rem auto;  /* cách lề trên dưới 20px, căn giữa ngang */
+                padding: 1.5rem 1.0rem 5.0rem 1.5rem;
+            }
+            
             nav {
                 gap: 0px;
             }
@@ -281,13 +301,6 @@
             ul li,
             ol li {
                 font-size: 1.6rem;           /* 16px */
-            }
-
-            main p {
-                font-size: 1.6rem; /* 18px; */
-                line-height: 1.3;
-                text-align: justify;
-                padding-left: 1.0rem;           /* 10px */ /* Lề trái 50px */
             }
 
             hr.hr-long {
