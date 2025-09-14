@@ -102,7 +102,7 @@ main p {
     text-align: justify;
     font-size: 1.8rem; /* 18px; */
     margin-bottom: 1.5rem;              /* 15px */
-    padding-left: 1rem;           /* 10px Lề trái 50px */
+    padding-left: 0rem;           /* 10px Lề trái 50px */
 }
 
 main img {
@@ -118,7 +118,7 @@ main.image {
     width: 700px; /* Chiều rộng cố định, tối ưu cho blog */
     /*margin: 0 auto;*/
     margin: 2.0rem auto;  /* cách lề trên dưới 20px, căn giữa ngang */
-    padding: 2.1rem 1.0rem 5.0rem 2.1rem;
+    padding: 2.1rem 2.1rem 5.0rem;
     background-color: var(--background-color-main);
     background-image: url('/assets/images/flower2.11.png'); /* Hoa 8 cánh - Nhọn - Có nụ */
     background-size: cover;
