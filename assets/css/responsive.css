@@ -1,0 +1,362 @@
+/*-- ========================================
+ 
+  © 2025 - 🐝 Mr. ßee - 🅾ng siêng năng📘
+
+      https://mrbluebeeosn.github.io
+
+          ☕ Happy reading today!
+
+========================================= --*/
+
+/* =============================
+  Responsive: 
+  @media screen and (max-width: 768px) Màn hình máy tính bảng (nhỏ hơn hoặc bằng 768px)
+  @media screen and (max-width: 480px) Màn hình điện thoại (nhỏ hơn hoặc bằng 480px)
+  @media screen and (max-width: 375px) Màn hình điện thoại (nhỏ hơn hoặc bằng 375px)
+============================= */
+
+/* =============================
+    Mobile (Responsive 768px) - by GRK
+============================= */
+
+         @media screen and (max-width: 768px) {
+            
+            /* =============================
+            Header (Mobile)
+            ============================= */
+            
+            .margin-y-50,
+            p.margin-y-50,
+            h1.margin-y-50,
+            h2.margin-y-50,
+            h3.margin-y-50,
+            h4.margin-y-50,
+            h5.margin-y-50,
+            h6.margin-y-50 {
+                margin-bottom: 4.0rem;  /* 40px */
+                margin-top: 4.0rem;     /* 40px */
+            }
+
+            h1 { font-size: 3.2rem; line-height: 1.4; }
+            h2 { font-size: 2.6rem; line-height: 1.4; }
+            h3 { font-size: 2.2rem; line-height: 1.4; }
+            h4 { font-size: 1.8rem; line-height: 1.4; }
+            h5 { font-size: 1.6rem; line-height: 1.4; }
+            h6 { font-size: 1.4rem; line-height: 1.4; }
+            
+            header {
+                padding: 1.0rem;              /* 10px */
+            }
+
+            .branding {
+                flex-direction: column;
+                gap: 5px;
+            }
+
+            header img {
+                max-width: 80px;
+            }
+
+            header h1 {
+                font-size: 2.0rem;           /* 20px */
+            }
+
+            /* =============================
+            Nav (Mobile)
+            ============================= */
+
+            nav a {
+                font-size: 1.8rem;           /* 18px */ /*1.4rem;              /* 14px */
+            }
+
+            /* =============================
+            Main (Mobile)
+            ============================= */
+            
+            main p {
+                font-size: 1.8rem; /* 18px; */
+                line-height: 1.4;
+                text-align: justify;
+                margin-bottom: 1.5rem;              /* 15px */
+                padding-left: 0.5rem;           /* 10px Lề trái 50px */
+            }
+            
+            main.image {
+                width: 100%;
+                max-width: 100vw;
+                /*margin: 0;*/
+                margin: 2.0rem auto;  /* cách lề trên dưới 20px, căn giữa ngang */
+                padding: 1.5rem 1.5rem 4.0rem;
+                box-shadow: none;
+                border: none;
+                overflow-x: hidden;
+                background-image: url('/assets/images/flower2.11.png'); /* Hoa 8 cánh - Nhọn - Có nụ */
+                background-size: cover;
+                background-position: bottom right;
+                background-repeat: no-repeat;
+            }
+
+            main.image::before {
+                background: rgba(255, 255, 255, 0.2);
+            }
+
+                main.image1 {
+                    background-image: url('/assets/images/flower2.2.png'); /* Hoa 8 cánh - Tròn - Không nụ */
+                }
+                
+                main.image2 {
+                    background-image: url('/assets/images/flower2.41.png'); /* Hoa 8 cánh - Tròn - Có nụ */
+                }
+                
+                main.image3 {
+                    background-image: url('/assets/images/flower2.5.png'); /* Hoa 8 cánh - Nhọn - Có nụ */
+                }
+                
+                main.image4 {
+                    background-image: url('/assets/images/flower2.3.png'); /* Hoa 5 cánh - Tròn - Không nụ */
+                }
+
+            main img {
+                width: 100%;
+                max-width: 100%;
+                height: auto;
+                /*margin: 0 auto 1.5rem;              /* 15px */
+                object-fit: contain;
+            }
+
+            nav ul li {
+                display: inline; /* Đặt các mục nằm trên cùng một dòng */
+                margin: 0 0px; /* Thêm khoảng cách giữa các mục margin: 0 1.0rem;              /* 10px */
+            }
+
+            /* =============================
+            ul (Mobile)
+            ============================= */
+            
+            ul li,
+            ol li {
+                padding-bottom: 1.0rem; /* 10px */ /* Thêm khoảng đệm 10px bên dưới */
+                font-size: 1.8rem;           /* 18px */
+            }
+
+            ul {
+                padding-left: 5.0rem;           /* 50px */ /* Thêm khoảng đệm 20px ở lề trái */
+            } 
+        
+            hr.hr-long {
+                height: 2px; /* Giảm độ dày trên mobile */
+                margin: 15px 0; /* Giảm khoảng cách căn giữa theo chiều ngang */
+                margin-top: 4.0rem;     /* 40px */
+                margin-bottom: 4.0rem;  /* 40px */
+            }
+            hr.hr-short {
+                height: 2px; /* Giảm độ dày trên mobile */
+                width: 50%; /* Giảm chiều rộng xuống còn 50% */
+                margin: 15px auto; /* Giảm khoảng cách căn giữa theo chiều ngang */
+                margin-top: 4.0rem;     /* 40px */
+                margin-bottom: 4.0rem;  /* 40px */
+            }
+        }
+
+        /* =============================
+            Mobile (Back to Top Button) - by GRK
+        ============================= */
+
+        @media screen and (max-width: 768px) {
+            header {
+                flex-direction: column;
+                justify-content: center;
+                text-align: center;
+            }
+            .logo-container {
+                justify-content: center;
+            }
+            .back-to-top {
+                width: 40px;
+                height: 40px;
+                font-size: 2.0rem;           /* 20px */
+                bottom: 20px;
+                left: -1.2rem;              /* 12px */  /* lấn ra ngoài màn hình 12px */
+                background-color: transparent;
+                -webkit-tap-highlight-color: transparent; /* iOS Safari & Chrome */
+                -webkit-focus-ring-color: transparent;    /* Safari */
+                border: none;
+                outline: none;
+                transition: opacity 0.3s ease-in-out; /*visibility 0.3s;*/
+                transition: transform 0.1s ease-in-out; /* mượt khi nhấn */
+            }
+            .back-to-top.show {
+                opacity: 0.3;
+                visibility: visible;
+            }
+            .back-to-top:hover {
+                opacity: 1;
+            }
+            .back-to-top:active {
+                background-color: transparent;
+                outline: none; /* Xóa bỏ đường viền nổi bật (outline) */
+                transform: scale(0.92); /* chữ + nền nhỏ lại */
+            }
+            /* Ẩn đường viền nổi bật khi dùng phím Tab */
+            .back-to-top:focus {
+                outline: none;
+            }
+
+            .logo-text {
+                top: -1.4rem;              /* 14px */    /* Điều chỉnh khoảng cách phía trên */
+                left: 50%;  /* Điều chỉnh khoảng cách phía bên phải */
+                transform: translateX(-20%); /* căn giữa chuẩn */
+                font-size: 1.2rem;           /* 12px */
+            }
+            
+            .bee {
+                position: absolute;
+                font-size: 1.8rem;           /* 18px */
+                transition: transform 1s ease-in-out;
+                z-index: 2;
+            }
+
+            .bee-wrapper {
+                position: absolute; /* Định vị tuyệt đối */
+                top: 35px; /* 15px Gắn sát góc trên */
+                right: -45px;
+                width: 130px; /* Kích thước hình ảnh */
+                height: auto;
+                opacity: 27%;
+            }
+
+            .bee-wrapper2 {
+                position: absolute; /* Định vị tuyệt đối */
+                bottom: -95px; /* 15px; Gắn sát góc trên */
+                right: -25px;
+                width: 80px; /* Kích thước hình ảnh */
+                opacity: 27%;
+            }
+
+            /* =============================
+                Table 768px - by DPSK
+            ============================= */
+
+            .table-container {
+                border-radius: 10px;
+            }
+            
+            th, td {
+                padding: 1.2rem 0.8rem;
+                font-size: 1.6rem;
+            }
+            
+            .mobile-message {
+                display: block;
+            }
+
+        }
+
+/* =============================
+    Mobile (Responsive 375px) - by GRK
+============================= */
+
+         @media screen and (max-width: 375px) {
+
+            .margin-y-50,
+            p.margin-y-50,
+            h1.margin-y-50,
+            h2.margin-y-50,
+            h3.margin-y-50,
+            h4.margin-y-50,
+            h5.margin-y-50,
+            h6.margin-y-50 {
+                margin-bottom: 3.0rem;  /* 30px */
+                margin-top: 3.0rem;     /* 30px */
+            }
+
+            h1 { font-size: 2.8rem; line-height: 1.3; }
+            h2 { font-size: 2.4rem; line-height: 1.3; }
+            h3 { font-size: 2.0rem; line-height: 1.3; }
+            h4 { font-size: 1.7rem; line-height: 1.3; }
+            h5 { font-size: 1.5rem; line-height: 1.3; }
+            h6 { font-size: 1.4rem; line-height: 1.3; }
+            
+            main p {
+                font-size: 1.6rem; /* 18px; */
+                line-height: 1.3;
+                text-align: justify;
+                padding-left: 0.5rem;           /* 10px */ /* Lề trái 50px */
+            }
+
+            main.image {
+                width: 100%;
+                max-width: 100vw;
+                /*margin: 0;*/
+                margin: 2.0rem auto;  /* cách lề trên dưới 20px, căn giữa ngang */
+                padding: 1.5rem 1.5rem 4.0rem;
+            }
+            
+            nav {
+                gap: 0px;
+            }
+            
+            nav a {
+                font-size: 1.6rem;           /* 16px */
+            }
+
+            .nav-link {
+                margin: 0px 1.0rem;              /* 10px */
+            }
+            
+            ul li,
+            ol li {
+                font-size: 1.6rem;           /* 16px */
+            }
+
+            hr.hr-long {
+                margin-top: 3.0rem;     /* 30px */
+                margin-bottom: 3.0rem;  /* 30px */
+            }
+            hr.hr-short {
+                margin-top: 3.0rem;     /* 30px */
+                margin-bottom: 3.0rem;  /* 30px */
+            }
+
+            .logo-text {
+                top: -1.4rem;              /* 14px */    /* Điều chỉnh khoảng cách phía trên */
+                left: 50%;  /* Điều chỉnh khoảng cách phía bên phải */
+                transform: translateX(-20%); /* căn giữa chuẩn */
+                font-size: 1.2rem;           /* 12px */
+            }
+
+            .bee-wrapper {
+                position: absolute; /* Định vị tuyệt đối */
+                top: 34px; /* 14px Gắn sát góc trên */
+                right: -40px;
+                width: 120px; /* Kích thước hình ảnh */
+                height: auto;
+                opacity: 25%;
+            }
+
+            .bee-wrapper2 {
+                position: absolute; /* Định vị tuyệt đối */
+                bottom: -85px; /* 15px; Gắn sát góc trên */
+                right: -20px;
+                width: 70px; /* Kích thước hình ảnh */
+                opacity: 25%;
+            }
+
+            /* =============================
+                Table 375px - by DPSK
+            ============================= */
+
+            .table-container {
+                border-radius: 10px;
+            }
+            
+            th, td {
+                padding: 1.2rem 0.8rem;
+                font-size: 1.2rem;
+            }
+            
+            .mobile-message {
+                display: block;
+            }
+
+        }

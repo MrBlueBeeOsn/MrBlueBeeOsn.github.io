@@ -1,0 +1,112 @@
+/*-- ========================================
+ 
+  © 2025 - 🐝 Mr. ßee - 🅾ng siêng năng📘
+
+      https://mrbluebeeosn.github.io
+
+          ☕ Happy reading today!
+
+========================================= --*/
+
+/* =============================
+  Base.css (Nền tảng)
+    Mục đích: base.css là file chứa các quy tắc CSS nền tảng, cơ bản nhất áp dụng cho toàn bộ trang web. Nó thiết lập một "nền" sạch và nhất quán cho mọi thứ.
+
+    Nội dung: Thường chứa các style cho các thẻ HTML gốc mà không có class hoặc ID, như <body>, <html>, <h1>, <p>, <a>, v.v.
+
+    Ví dụ: 
+
+    Đặt font-family và line-height mặc định cho body.
+    Đặt lại margin và padding cho các thẻ cơ bản.
+    Đặt box-sizing: border-box; cho tất cả các phần tử.
+============================= */
+
+/* =============================
+   Body
+============================= */
+
+html {
+    scroll-behavior: smooth;
+}
+
+body, html {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    overflow-x: hidden;
+    background: var(--background-color);
+    font-family: Bellota, sans-serif;
+    font-size: 1.8rem;           /* 18px */
+}
+
+body {
+    display: flex;
+    flex-direction: column; /* Sắp xếp các phần tử theo cột */
+    min-height: 100vh;      /* Đảm bảo body có chiều cao tối thiểu bằng màn hình */
+}
+
+/* =============================
+   a
+============================= */
+
+a {
+    display: inline-block; /* cho transform hoạt động */
+    transition: transform 0.1s ease-in-out; /* mượt khi nhấn */
+    -webkit-tap-highlight-color: transparent; /* bỏ highlight khi chạm trên mobile */
+}
+
+a:active {
+    transform: scale(0.92); /* co chữ + nền */
+}
+
+a:link {
+    color: var(--accent-color);
+    background-color: transparent;
+    text-decoration: none;
+}
+
+a:hover {
+    color: var(--accent-color); /* Màu sẽ thay đổi thành đỏ khi di chuột */
+    text-decoration: underline; /* Sẽ gạch chân khi di chuột */
+    transition: color 0.3s ease; /* Áp dụng hiệu ứng chuyển tiếp */
+}
+
+a:visited {
+    color: var(--accent-color);
+    background-color: transparent;
+    text-decoration: none;
+}
+
+a img {
+  border-radius: 50%; /* hoặc 10px tuỳ bạn */
+  display: block;     /* tránh inline-gap */
+}
+
+a:active img {
+  opacity: 0.7;  /* hiệu ứng nhấn giữ lại cảm giác click, không bị nền vuông */
+}
+
+/* =============================
+   hr
+============================= */
+
+main hr.hr-long {
+    border: none;            /* bỏ viền mặc định */
+    height: 2px;             /* độ dày đường */
+    background-color: var(--tertiary-color); /* màu bạn muốn, ở đây là xanh */
+    margin: 20px 0;          /* khoảng cách trên dưới */
+    border-radius: 2px;      /* bo tròn nhẹ nếu muốn */
+    margin-top: 5.0rem;     /* 50px */
+    margin-bottom: 5.0rem;  /* 50px */
+}
+
+main hr.hr-short {
+    border: none;            /* bỏ viền mặc định */
+    height: 2px;             /* độ dày đường */
+    background-color: var(--tertiary-color); /* màu bạn muốn, ở đây là xanh */
+    margin: 20px auto;         /* căn giữa theo chiều ngang */
+    width: 50%;               /* Giảm chiều rộng xuống còn 50% */
+    border-radius: 2px;      /* bo tròn nhẹ nếu muốn */
+    margin-top: 5.0rem;     /* 50px */
+    margin-bottom: 5.0rem;  /* 50px */
+}

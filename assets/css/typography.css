@@ -1,0 +1,175 @@
+/*-- ========================================
+ 
+  © 2025 - 🐝 Mr. ßee - 🅾ng siêng năng📘
+
+      https://mrbluebeeosn.github.io
+
+          ☕ Happy reading today!
+
+========================================= --*/
+
+/* =============================
+  Typography.css (Chữ viết)
+  Mục đích: typography.css là file chuyên biệt, tập trung hoàn toàn vào các quy tắc liên quan đến chữ viết. Nó xây dựng trên nền tảng của base.css để tạo ra một hệ thống chữ viết mạch lạc.
+
+  Nội dung: Bao gồm các style chi tiết cho các thẻ tiêu đề (h1 - h6), đoạn văn (p), trích dẫn (blockquote), danh sách (ul, ol), v.v.
+
+  Ví dụ:
+
+    Đặt font-size, font-weight và margin riêng cho từng cấp độ tiêu đề.
+    Định dạng line-height và text-indent cho các đoạn văn bản.
+============================= */
+
+:root {
+font-size: 62.5%; /* 1rem = 10px */
+--primary-color: #19D3DA; /* Màu màu chính - Teal */
+--secondary-color: #66E2E6; /* Màu màu phụ - Màu xanh lam nhạt hơn */
+--tertiary-color: #A6EFF1; /* Màu cấp ba - Màu xanh lam rất nhạt, dùng để bổ sung hoặc nhấn nhẹ */
+--accent-color:	#01ACC1; /* Màu nhấn - Xanh dương nhạt, thường dùng cho nút, link */
+--background-color: #212121; /* Màu nền tổng thể */
+--background-color-main: #f5f5f5; /* Màu nền tổng thể */
+--text-color: black; /* Màu chữ chính */
+--border-color: #66E2E6; /* Màu viền - Màu xanh lam nhạt hơn */
+}
+        
+/* Hoặc có thể dùng:
+html {
+    font-size: 62.5%;
+}
+*/
+
+/* =============================
+   Thiết lập ban đầu
+============================= */
+
+/* Tại 768px */
+h1 { font-size: 3.6rem; line-height: 1.5; }
+h2 { font-size: 3.0rem; line-height: 1.5; }
+h3 { font-size: 2.4rem; line-height: 1.5; }
+h4 { font-size: 2.0rem; line-height: 1.5; }
+h5 { font-size: 1.8rem; line-height: 1.5; }
+h6 { font-size: 1.6rem; line-height: 1.5; }
+
+/* =============================
+   Paragraph
+============================= */
+
+p {
+  font-family: 'Bellota Text', sans-serif;
+}
+
+.text-left,
+p.text-left {
+    text-align: left;
+}
+
+.text-center,
+p.text-center {
+    text-align: center;
+}
+
+.text-justify,
+p.text-justify {
+    text-align: justify;
+}
+
+.text-right,
+p.text-right {
+    text-align: right;
+}
+
+.text-indent,
+p.text-indent {
+    text-indent: 2em; /* Chỉ thụt lề dòng đầu tiên của đoạn văn. */
+}
+.text-indent-whole,
+p.text-indent-whole {
+    padding-left: 3.0rem;           /* 30px */
+    /*margin-left: 1em; /* Thụt lề toàn bộ khối của phần tử */
+}
+
+.text-small,
+p.text-small {
+    font-size: 1.4rem;           /* 14px */
+}
+
+.text-letter-spacing-1,
+p.text-letter-spacing-1 {
+    display: flex;
+    letter-spacing: 1rem;
+    text-align: center;
+}
+
+.text-word-spacing-1,
+p.text-word-spacing-1 {
+    display: flex;
+    word-spacing: 1rem;
+    text-align: center;
+    display: block;
+}
+
+/* =============================
+   p, h1, h2
+============================= */
+
+.text-left,
+p.text-left,
+h1.text-left,
+h2.text-left,
+h3.text-left,
+h4.text-left,
+h5.text-left,
+h6.text-left {
+    text-align: left;
+}
+
+.text-center,
+p.text-center,
+h1.text-center,
+h2.text-center,
+h3.text-center,
+h4.text-center,
+h5.text-center,
+h6.text-center {
+    text-align: center;
+}
+
+.text-right,
+p.text-right,
+h1.text-right,
+h2.text-right,
+h3.text-right,
+h4.text-right,
+h5.text-right,
+h6.text-right {
+    text-align: right;
+}
+
+/* =============================
+   ul
+============================= */
+
+ul, ol {
+  font-family: 'Bellota Text', sans-serif;
+  padding-left: 5.0rem;           /* 50px */ /* Thêm khoảng đệm 20px ở lề trái */
+}
+
+ul.padding-left-30,
+ol.padding-left-30 {
+  font-family: 'Bellota Text', sans-serif;
+  padding-left: 3.0rem;           /* 30px */ /* Thêm khoảng đệm 10px ở lề trái */
+}
+
+ul li,
+ol li {
+    padding-bottom: 1.0rem; /* 10px */ /* Thêm khoảng đệm 10px bên dưới */
+}
+
+.nested-ul,
+.nested-ol {
+    padding-top: 1.0rem;    /* 10px */
+}
+
+li.margin-bottom-50 {
+    margin-bottom: 5.0rem;     /* 50px */ /* hoặc một giá trị khác phù hợp hơn */
+}
