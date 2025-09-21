@@ -10,11 +10,7 @@ export default function Layout() {
     <div className="layout">
       <Header />
       <main>
-        <div className="content-wrapper">
-          <div className="page-content">
-            <Outlet />
-          </div>
-        </div>
+        <Outlet />
       </main>
       <BackToTop />
       <Footer />
