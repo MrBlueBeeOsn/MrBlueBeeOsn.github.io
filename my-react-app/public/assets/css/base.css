@@ -39,7 +39,7 @@ body, html {
     font-size: 1.8rem;           /* 18px */
 }
 
-body {
+body #root {
     display: flex;
     flex-direction: column; /* Sắp xếp các phần tử theo cột */
     min-height: 100vh;      /* Đảm bảo body có chiều cao tối thiểu bằng màn hình */

@@ -1,13 +1,11 @@
 import { Routes, Route } from 'react-router-dom';
-import { Link } from "react-router-dom";
 
-import Header from "./components/Header";
-import Footer from "./components/Footer";
+import Layout from './components/Layout';
 
 import Home from "./pages/Home";
-import Bookkeeping from "./Bookkeeping";
-import English from "./English";
-import MrBeeOsn from "./MrBeeOsn";
+import Bookkeeping from "./pages/Bookkeeping";
+import English from "./pages/English";
+import MrBeeOsn from "./pages/MrBeeOsn";
 
 
 
@@ -16,22 +14,14 @@ export default function AppRoutes() {
 
     <Routes>
 
-      <div className="app">
+      <Route path="/" element={<Layout />}>
 
-        <Header />
+        <Route path="/" element={<Home />} />
+        <Route path="/Bookkeeping" element={<Bookkeeping />} />
+        <Route path="/English" element={<English />} />
+        <Route path="/mrbeeosn" element={<MrBeeOsn />} />
 
-        <main>
-
-            <Route path="/" element={<Home />} />
-            <Route path="/Bookkeeping" element={<Bookkeeping />} />
-            <Route path="/English" element={<English />} />
-            <Route path="/mrbeeosn" element={<MrBeeOsn />} />
-
-        </main>
-
-        <Footer />
-
-      </div>
+      </Route>
 
     </Routes>
 

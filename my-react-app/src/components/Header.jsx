@@ -1,4 +1,5 @@
 import { Link } from "react-router-dom";
+import logo from '/public/assets/images/bee-teal2.png';
 
 export default function Header() {
   return (
@@ -8,7 +9,7 @@ export default function Header() {
       <nav>
 
         <div className="branding">
-          <Link to="/" className="nav-link">Home</Link>
+          <Link to="/"><img src={logo} alt="Mr. Bee - Ong siêng năng"></img></Link>
         </div>
 
         <div>
