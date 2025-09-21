@@ -7,17 +7,17 @@ import BackToTop from './BackToTop';
 
 export default function Layout() {
   return (
-    <>
+    <div className="layout">
       <Header />
       <main>
-        <Outlet /> {/* nơi render các route con */}
+        <div className="content-wrapper">
+          <div className="page-content">
+            <Outlet />
+          </div>
+        </div>
       </main>
-
-        <button className="back-to-top" title="Back to top"></button>
-
-        <BackToTop />
-
+      <BackToTop />
       <Footer />
-    </>
+    </div>
   );
 }
