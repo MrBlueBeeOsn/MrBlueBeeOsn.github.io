@@ -56,6 +56,7 @@ h6 { font-size: 1.6rem; line-height: 1.5; }
 
 p {
   font-family: 'Bellota Text', sans-serif;
+  font-size: 1.8rem; /* 18px; */
 }
 
 .text-left,
