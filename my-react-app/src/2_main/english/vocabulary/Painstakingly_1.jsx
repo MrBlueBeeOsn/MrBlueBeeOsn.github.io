@@ -1,6 +1,6 @@
 import { Link } from "react-router-dom";
 
-export default function () {
+export default function Painstakingly_1() {
   return (<>
 
   <main className="image image2">

@@ -6,7 +6,7 @@ export default function Home_English() {
   <main className="image image1 content">
 
     {/* =============================
-          English Learning Terms
+        1. English Learning Terms
     ============================= */}
     
     <h3 className="margin-y-50 text-center" id="english-learning-terms">English Learning Terms</h3>
@@ -21,7 +21,7 @@ export default function Home_English() {
     </ul>
 
     {/* =============================
-          Grammar Terms
+        2. Grammar Terms
     ============================= */}
 
     <h3 className="margin-y-50 text-center" id="grammar-terms">Grammar Terms</h3>
@@ -39,7 +39,7 @@ export default function Home_English() {
     </ul> */}
 
     {/* =============================
-          Pronunciation Terms
+        3. Pronunciation Terms
     ============================= */}
 
     <h3 className="margin-y-50 text-center" id="pronunciation-terms">Pronunciation Terms</h3>
@@ -53,7 +53,7 @@ export default function Home_English() {
     </ul> */}
 
     {/* =============================
-          Mr. Bee's Articles
+        4. Mr. Bee's Articles
     ============================= */}
 
     <h3 className="margin-y-50 text-center" id="mr-bee-osn-english-terms">Mr. Bee Osn English Terms</h3>
@@ -65,7 +65,7 @@ export default function Home_English() {
     </ul> */}
 
     {/* =============================
-          Tiếng Anh Terms
+        5. Tiếng Anh Terms
     ============================= */}
 
     <h3 className="margin-y-50 text-center" id="tieng-anh-terms">Tiếng Anh Terms</h3>
@@ -88,7 +88,7 @@ export default function Home_English() {
     </ul> */}
 
     {/* =============================
-        Vocabulary Terms
+        6. Vocabulary Terms
     ============================= */}
 
     <h3 className="margin-y-50 text-center" id="vocabulary-terms">Vocabulary Terms</h3>

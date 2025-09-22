@@ -2,7 +2,7 @@ import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 
 import { Link } from "react-router-dom";
 
-export default function MrBeeOsn() {
+export default function Mr_Bee_Osn() {
   return (<>
      
       <main className="image image3">
