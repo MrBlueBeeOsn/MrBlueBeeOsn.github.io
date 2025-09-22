@@ -13,21 +13,21 @@ export default function Home_Bookkeeping() {
     
     <ul className="list-border1 margin-bottom-50">
 
-      <li><Link to="what-is-bookkeeping?">Bookkeeping</Link></li>
+      <li><Link to="/bookkeeping/what-is-bookkeeping?">Bookkeeping</Link></li>
 
-      {/* <li><Link to="bookkeeper?">Bookkeeper</Link></li>
+      <li><Link to="/bookkeeping/what-is-a-bookkeeper?">Bookkeeper</Link></li>
 
-      <li><Link to="accounts-receivable?">Accounts receivable</Link> (AR)</li>
+      <li><Link to="/bookkeeping/what-is-accounts-receivable?">Accounts receivable</Link> (AR)</li>
 
-      <li><Link to="accounts-payable?">Accounts payable</Link> (AP)</li>
+      <li><Link to="/bookkeeping/what-is-accounts-payable?">Accounts payable</Link> (AP)</li>
 
-      <li><Link to="journal-entry?">Journal entry</Link></li>
+      <li><Link to="/bookkeeping/what-is-a-journal-entry?">Journal entry</Link></li>
 
-      <li><Link to="general-ledger?">General ledger</Link> (GL)</li>
+      <li><Link to="/bookkeeping/what-is-a-general-ledger?">General ledger</Link> (GL)</li>
 
-      <li><Link to="trial-balance?">Trial balance</Link></li>
+      <li><Link to="/bookkeeping/what-is-a-trial-balance?">Trial balance</Link></li>
 
-      <li><Link to="account-reconciliation?">Account reconciliation</Link></li> */}
+      <li><Link to="/bookkeeping/what-is-account-reconciliation?">Account reconciliation</Link></li>
       
     </ul>
     
