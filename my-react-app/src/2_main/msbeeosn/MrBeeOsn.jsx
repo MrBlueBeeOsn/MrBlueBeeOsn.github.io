@@ -3,9 +3,7 @@ import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import { Link } from "react-router-dom";
 
 export default function MrBeeOsn() {
-  return (
-
-    <div>
+  return (<>
      
       <main className="image image3">
     
@@ -33,6 +31,5 @@ export default function MrBeeOsn() {
 
       </main>
 
-    </div>
-  );
+  </>);
 }

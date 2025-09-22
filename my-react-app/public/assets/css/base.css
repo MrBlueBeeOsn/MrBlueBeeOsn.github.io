@@ -36,7 +36,7 @@ body, html {
     overflow-x: hidden;
     background: var(--background-color);
     font-family: Bellota, sans-serif;
-    font-size: 1.8rem;           /* 18px */
+    font-size: 1.8rem; /* 18px; */
 }
 
 body {
