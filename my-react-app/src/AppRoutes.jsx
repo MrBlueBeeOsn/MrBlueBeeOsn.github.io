@@ -25,9 +25,29 @@ import Mr_Bee_Osn from "./2_main/msbeeosn/Mr_Bee_Osn";
 // 2_main import các chức năng và đường dẫn
 
   // 1. English
+  import English from "./2_main/english/English";
   import The_English_Language from "./2_main/english/The_English_Language";
 
-  // 3. Vocabulary - Tính chính xác
+  // 2. Grammar
+  import Adverb from "./2_main/english/grammar/Adverb";
+  import Verb from "./2_main/english/grammar/Verb";
+  import Adjective from "./2_main/english/grammar/Adjective";
+  import Noun from "./2_main/english/grammar/Noun";
+  
+  // 3. Pronunciation
+  import Pronunciation from "./2_main/english/pronunciation/Pronunciation";
+  import IPA from "./2_main/english/pronunciation/IPA";
+  
+  // 4. Mr.Bee Osn English Terms
+  import Searching_And_Clickable_Dictionary from "./2_main/english/mrbeeenglish/Searching_And_Clickable_Dictionary";
+
+  // 5. Tiếng Anh
+  import Bay_Dau_Phu_Phien_Am_Tieng_Anh_1 from "./2_main/english/tienganh/Bay_Dau_Phu_Phien_Am_Tieng_Anh_1";
+  import Bay_Dau_Phu_Phien_Am_Tieng_Anh_2 from "./2_main/english/tienganh/Bay_Dau_Phu_Phien_Am_Tieng_Anh_2";
+  import Nguyen_Am_Don from "./2_main/english/tienganh/Nguyen_Am_Don";
+  import Nguyen_Am_Doi from "./2_main/english/tienganh/Nguyen_Am_Doi";
+  
+  // 6. Vocabulary - Tính chính xác
   import Accurately_1 from "./2_main/english/vocabulary/Accurately_1";
   import Accurately_2 from "./2_main/english/vocabulary/Accurately_2";
   import Precisely_1 from "./2_main/english/vocabulary/Precisely_1";
@@ -37,7 +57,7 @@ import Mr_Bee_Osn from "./2_main/msbeeosn/Mr_Bee_Osn";
   import Exactly_1 from "./2_main/english/vocabulary/Exactly_1";
   import Exactly_2 from "./2_main/english/vocabulary/Exactly_2";
 
-  // 3. Vocabulary - Tính tỉ mỉ
+  // 6. Vocabulary - Tính tỉ mỉ
   import Painstakingly_1 from "./2_main/english/vocabulary/Painstakingly_1";
   import Painstakingly_2 from "./2_main/english/vocabulary/Painstakingly_2";
   import Thoroughly_1 from "./2_main/english/vocabulary/Thoroughly_1";
@@ -80,9 +100,29 @@ export default function AppRoutes() {
         {/* 2_main Khai báo đường dẫn path cho English */}
 
           {/* 1. English */}
+          <Route path="/english/what-is-english?" element={<English />} />
           <Route path="/english/what-is-the-english-language?" element={<The_English_Language />} />
 
-          {/* 3. Vocabulary - Tính chính xác */}
+          {/* 2. Grammar */}
+          <Route path="/english/grammar/what-is-an-adverb?" element={<Adverb />} />
+          <Route path="/english/grammar/what-is-a-verb?" element={<Verb />} />
+          <Route path="/english/grammar/what-is-an-adjective?" element={<Adjective />} />
+          <Route path="/english/grammar/what-is-a-noun?" element={<Noun />} />
+          
+          {/* 3. Pronunciation */}
+          <Route path="/english/pronunciation/what-is-pronunciation?" element={<Pronunciation />} />
+          <Route path="/english/pronunciation/what-is-IPA?" element={<IPA />} />
+          
+          {/* 4. Mr.Bee Osn English Terms */}
+          <Route path="/english/mrbeeenglish/searching-and-clickable-dictionary?" element={<Searching_And_Clickable_Dictionary />} />
+          
+          {/* 5. Tiếng Anh */}
+          <Route path="/english/tienganh/he-thong-7-dau-phu-phien-am-tieng-anh-1?" element={<Bay_Dau_Phu_Phien_Am_Tieng_Anh_1 />} />
+          <Route path="/english/tienganh/he-thong-7-dau-phu-phien-am-tieng-anh-2" element={<Bay_Dau_Phu_Phien_Am_Tieng_Anh_2 />} />
+          <Route path="/english/tienganh/nguyen-am-don?" element={<Nguyen_Am_Don />} />
+          <Route path="/english/tienganh/nguyen-am-doi?" element={<Nguyen_Am_Doi />} />
+
+          {/* 6. Vocabulary - Tính chính xác */}
           <Route path="/english/vocabulary/accurately-1?" element={<Accurately_1 />} />
           <Route path="/english/vocabulary/accurately-2?" element={<Accurately_2 />} />
           <Route path="/english/vocabulary/precisely-1?" element={<Precisely_1 />} />
@@ -92,7 +132,7 @@ export default function AppRoutes() {
           <Route path="/english/vocabulary/exactly-1?" element={<Exactly_1 />} />
           <Route path="/english/vocabulary/exactly-2?" element={<Exactly_2 />} />
 
-          {/* 3. Vocabulary - Tính tỉ mỉ */}
+          {/* 6. Vocabulary - Tính tỉ mỉ */}
           <Route path="/english/vocabulary/painstakingly-1?" element={<Painstakingly_1 />} />
           <Route path="/english/vocabulary/painstakingly-2?" element={<Painstakingly_2 />} />
           <Route path="/english/vocabulary/thoroughly-1?" element={<Thoroughly_1 />} />
