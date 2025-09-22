@@ -4,9 +4,135 @@ export default function Journal_Entry() {
   return (<>
 
   <main className="image image2">
-  
     
+    <h4><a href="#bookkeeping#bookkeeping-terms"><mark className="highlight2">Bookkeeping</mark></a></h4>
+    
+    <h2 className="margin-y-50 text-center">What is a journal entry?</h2>
 
+    {/* This is the content of Bookkeeping Term. */}
+
+    <p>A <strong>journal entry</strong>  is the fundamental record of a financial transaction in accounting. It  tracks the financial impact of a transaction by debiting one account and crediting another account with equal amounts. This ensures that the accounting equation (Assets = Liabilities + Equity) remains balanced.</p>
+
+    <p className="margin-bottom-50">Here's a breakdown of journal entries and their key components:</p>
+
+    <h4 className="margin-y-50 text-center">Recording Transactions:</h4>
+    
+    <p>Every financial transaction that affects a company's financial position needs to be documented with a <strong>journal entry</strong>. This includes transactions like sales, purchases, expenses, payments, and receipts.</p>
+
+    <h4 className="margin-y-50 text-center">Double-Entry System:</h4>
+
+    <p>Accounting follows a double-entry system, which means every transaction has two opposing entries. One account is debited (increased), and another account is credited (decreased) with the same amount. This maintains the balance in the accounting equation.</p>
+
+    <h4 className="margin-y-50 text-center">Parts of a Journal Entry:</h4>
+
+    <p>A typical <strong>journal entry</strong> includes the following elements:</p>
+
+      <ul className="list-square">
+
+        <li><strong>Date</strong>: The date of the transaction.</li>
+
+        <li><strong>Account Titles</strong>: The names of the accounts being debited and credited.</li>
+
+        <li><strong>Debit Amount</strong>: The monetary value being debited to a specific account.</li>
+
+        <li><strong>Credit Amount</strong>: The monetary value being credited to a specific account.</li>
+
+        <li><strong>Description</strong>: A brief explanation of the transaction.</li>
+
+      </ul>
+
+    <h4 className="margin-y-50 text-center">Here's an example of a journal entry:</h4>
+
+    <p>Let's say a company purchases office supplies for $100 cash. The <strong>journal entry</strong> would be:</p>
+
+      <ul className="list-square">
+
+        <li><strong>Date</strong>: 2024-04-16</li>
+
+        <li><strong>Account Titles</strong>: Office Supplies (debit) Cash (credit)</li>
+
+        <li><strong>Debit Amount</strong>: $100</li>
+
+        <li><strong>Credit Amount</strong>: $100</li>
+
+        <li><strong>Description</strong>: Purchased office supplies for cash</li>
+
+      </ul>
+
+    <p className="margin-top-20">In this example, the Office Supplies account (an asset) is increased by $100 (debit), and the Cash account (another asset) is decreased by $100 (credit) to reflect the outflow of cash.</p>
+
+    <h4 className="margin-y-50 text-center">Importance of Journal Entries:</h4>
+
+      <ul className="list-square">
+
+        <li><strong>Accurate Financial Records</strong>: Journal entries form the basis for a company's accounting records. They provide a chronological record of all financial transactions, ensuring the accuracy and completeness of financial statements.</li>
+
+        <li><strong>Understanding Financial Impact</strong>: Journal entries help understand how transactions affect different accounts and the overall financial health of the company.</li>
+
+        <li><strong>Audit Trail</strong>: Journal entries create an audit trail, which allows auditors to trace transactions and verify the accuracy of financial statements.</li>
+
+      </ul>
+    
+    <p className="margin-top-20">Journal entries are the building blocks of accounting. By understanding how to record transactions using journal entries, you can gain a deeper understanding of a company's financial activities and performance.</p>
+
+    {/* =============================
+          🌻 Think simply!
+    ============================= */}
+
+    <hr className="hr-short"/>
+
+    <h3 className="margin-bottom-50 text-center">🌻 Think simply!</h3>
+
+    <p>Imagine you have a special notebook where you keep track of all the fun things you do at the playground. Every time something happens, you write it down. A <strong>journal entry</strong> is like a grown-up version of your playground notebook!</p>
+  
+    <p className="margin-top-20">Here's how it works:</p>
+
+    <h4 className="margin-y-50 text-center">Playground = Business:</h4>
+
+    <p>A business is like a big playground where grown-ups work and make money.</p>
+
+    <h4 className="margin-y-50 text-center">Notebook = Journal entry:</h4>
+
+    <p> Every time something important happens at the business, they write it down in a fancy notebook, like you do at the playground. They write things like:</p>
+
+      <ul className="list-square">
+
+        <li><strong>Shared a swing</strong>: If the business sold a toy to a customer.</li>
+
+        <li><strong>Bought a slide</strong>: If the business got a new machine for making things.</li>
+
+        <li><strong>Paid for snacks</strong>: If the business paid its workers for helping them.</li>
+
+      </ul>
+
+    <h4 className="margin-y-50 text-center">Why are journal entries important?</h4>
+
+      <ul className="list-square">
+
+        <li><strong>Remembering everything</strong>: Just like you want to remember everything that happens at the playground, businesses need to remember important money stuff.</li>
+
+        <li><strong>Telling the story</strong>: Your notebook tells the story of your day at the playground, a <strong>journal entry</strong> tells the story of what happened with the business's money.</li>
+
+        <li><strong>Making choices</strong>: When you know what happened at the playground, you decide what to do next - businesses use their fancy notebook to decide what to do with their money!</li>
+
+      </ul>
+
+    <p className="margin-top-20">Things to remember about journal entries:</p>
+
+      <ul className="list-square">
+
+        <li><strong>For grown-ups</strong>: Mostly grown-ups with businesses use them, but even you can make a notebook for your lemonade stand!</li>
+
+        <li><strong>Special rules</strong>: They have to write their entries in a special way to keep everything organized, like you write the date and what happened.</li>
+
+        <li><strong>Super important</strong>: Knowing about how a business spends money helps us understand how the world works!</li>
+
+      </ul>
+
+    <p className="margin-top-20">So, a <strong>journal entry</strong> is like a fancy notebook where businesses write down all the important things that happen with their money.  It's like their secret diary, but it helps them understand their own story and make smart decisions, just like your playground notebook helps you!</p>
+
+    <p className="margin-top-50 text-small">February 27, 2024 - by 💎Gem</p>
+    
   </main>
 
   </>);

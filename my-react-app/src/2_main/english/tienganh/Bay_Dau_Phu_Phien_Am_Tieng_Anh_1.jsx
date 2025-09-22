@@ -4,8 +4,298 @@ export default function Bay_Dau_Phu_Phien_Am_Tieng_Anh_1() {
   return (<>
 
   <main className="image image2">
+    
+    <h4><a href="#english#tieng-anh-terms"><mark className="highlight2">Tiếng Anh</mark></a></h4>
 
+    <h2 className="margin-y-50 text-center">📖 HỆ THỐNG 7 DẤU PHỤ + 1 MẶC ĐỊNH = 8 MỤC PHIÊN ÂM TIẾNG ANH (BẢN HOÀN CHỈNH)
+      <sup><a href="7-dau-phu-phien-am-tieng-Anh-1.html">&nbsp;1&nbsp;</a>
+      </sup>
+      <sup><a href="7-dau-phu-phien-am-tieng-Anh-2.html">&nbsp;2&nbsp;</a>
+      </sup>
+    </h2>
 
+    {/* This is the content of English Learning Term. */}
+
+    <p>Học phát âm tiếng Anh bằng <strong>IPA quốc tế</strong> đôi khi khó nhớ và xa lạ với người Việt. Vì vậy, ta có thể tạo một hệ thống dựa trên <strong>7 loại dấu phụ quen thuộc trong tiếng Việt</strong> để thay thế IPA, giúp dễ học, dễ liên tưởng và ghi nhớ lâu.</p>
+    
+    <p>Hệ thống ký hiệu nguyên âm này giúp đơn giản hóa việc học phát âm tiếng Anh.</p>
+
+    <h4 className="margin-y-50 text-center">Giới thiệu hệ thống</h4>
+
+    <p>Hệ thống này gồm:</p>
+
+      <ul className="list-square">
+
+        <li>1 nhóm <a href="#mac-dinh">mặc định</a> (không dấu) – các nguyên âm cơ bản.</li>
+
+        <li>7 loại dấu phụ: <a href="#macron">Macron</a>, <a href="#circumflex">Circumflex</a>, <a href="#dot-above">Dot Above</a>, <a href="#hook">Hook</a>, <a href="#umlaut">Umlaut</a>, <a href="#tilde">Tilde</a>, <a href="#ring">Ring</a>.</li>
+
+        <li>Bảng tổng hợp <a href="nguyen-am-don.html">nguyên âm đơn</a></li>
+
+        <li>Bảng tổng hợp <a href="nguyen-am-doi.html">nguyên âm đôi</a></li>
+
+      </ul>
+      
+    <p className="margin-top-20">👉 Tổng cộng: 8 mục (7 dấu phụ + 1 mặc định).</p>
+
+    <p>👉 Mục “mặc định” không phải là dấu thật sự, nhưng vẫn tính như một phần của hệ thống.</p>
+
+    {/* =============================
+      1. Mặc định (không dấu) — Nguyên âm ngắn (short vowels)
+    ============================= */}
+
+    <h4 className="margin-y-50 text-center" id="mac-dinh">1. Mặc định (không dấu) — Nguyên âm ngắn (short vowels)</h4>
+
+    <p>Giữ a, e, i/y, o, u/oo làm mặc định cho short vowels để đơn giản:</p>
+
+      <ul className="list-square">
+
+        <li><strong>a</strong> = /æ/ — cat</li>
+
+        <li><strong>e</strong> = /ɛ/ — bed</li>
+
+        <li><strong>i</strong> = /ɪ/ — sit</li>
+
+        <li><strong>y</strong> = /ɪ/ — myth</li>
+
+        <li><strong>o</strong> = /ɒ/ (Anh), /ɑː/ (Mỹ) - hot</li>
+
+        <li><strong>u</strong> = /ʊ/ — put</li>
+
+        <li><strong>oo</strong> = /ʊ/ — book, good</li>
+
+      </ul>
+
+      <p className="margin-top-20">Giữ ee làm mặc định cho long vowels để đơn giản:</p>
+
+      <ul className="list-square">
+
+        <li><strong>ee</strong> = /iː/ — bee</li>
+
+      </ul>
+    
+    {/* =============================
+         2. Macron (¯) — Nguyên âm dài / diphthongs
+    ============================= */}
+
+    <h4 className="margin-y-50 text-center" id="macron">2. Macron (¯) — Nguyên âm dài / diphthongs</h4>
+  
+    <p>Dấu ngang trên đầu = âm kéo dài / nguyên âm đôi chính.</p>
+
+      <ul className="list-square">
+
+        <li><strong>ā</strong> = /eɪ/ — cake</li>
+
+        <li><strong>ē</strong> = /iː/ — he</li>
+
+        <li><strong>ī</strong> = /aɪ/ — time</li>
+
+        <li><strong>ȳ</strong> = /aɪ/ — why (phân biệt hình thức viết)</li>
+
+        <li><strong>ō</strong> = /oʊ/ — go</li>
+
+        <li><strong>ū</strong> = /juː/ — cute (âm bắt đầu bằng /j/)</li>
+
+        <li><strong>o͞o</strong> = /uː/ — food, school (ký hiệu “oo” với macron)</li>
+
+      </ul>
+
+    {/* =============================
+        3. Circumflex (ˆ) — Caret vowel /ʌ/
+    ============================= */}
+    
+    <h4 className="margin-y-50 text-center" id="circumflex">3. Circumflex (ˆ) — Caret vowel /ʌ/</h4>
+
+    <p>Dùng dấu mũ cho âm caret /ʌ/ (âm giữa, miệng mở vừa).</p>
+
+      <ul className="list-square">
+
+        <li><strong>â</strong> = /ʌ/ — because</li>
+
+        <li><strong>ô</strong> = /ʌ/ — other</li>
+
+        <li><strong>û</strong> = /ʌ/ — sun</li>
+
+      </ul>
+    
+      {/* =============================
+        4. Dot above (˙) — Âm /ɪ/ biến thể & /jə/
+    ============================= */}
+
+    <h4 className="margin-y-50 text-center" id="dot-above">4. Dot above (˙) — Âm /ɪ/ biến thể & /jə/</h4>
+
+    <p>Dấu chấm trên để biểu thị các trường hợp chữ viết khác nhưng phát âm là /ɪ/ (hoặc /jə/)</p>
+
+      <ul className="list-square">
+
+        <li><strong>ȧ</strong> = /ɪ/ — image</li>
+
+        <li><strong>ė</strong> = /ɪ/ — expense</li>
+
+        <li><strong>i̇</strong> = /ɪ/ — fit (i có dấu chấm trong fit)</li>
+
+        <li><strong>ȯ</strong> = /ɪ/ — women</li>
+
+        <li><strong>u̇</strong> = /ɪ/ — business</li>
+
+        <li><strong>ư̇</strong> = /jə/ — accurate (âm /jə/ ở âm tiết không nhấn)</li>
+
+        <li className="list-none">ư̇ = (ư = support + u̇ = business)</li>
+
+      </ul>
+
+    {/* =============================
+        5. Hook (̛ ) — Âm schwa và schwa + r
+    ============================= */}
+
+    <h4 className="margin-y-50 text-center" id="hook">5. Hook (̛ ) — Âm schwa và schwa + r</h4>
+
+    <p>Dấu móc (như “ơ”) cho âm trung tính schwa và schwa +r.</p>
+
+      <ul className="list-square">
+
+        <li><strong>ȧ</strong> = /ɪ/ — image</li>
+
+        <li><strong>a̛</strong> = /ə/ — about</li>
+
+        <li><strong>e̛</strong> = /ə/ — taken</li>
+
+        <li><strong>i̛</strong> = /ə/ — pencil</li>
+
+        <li><strong>ơ</strong> = /ə/ — lemon</li>
+
+        <li><strong>ư</strong> = /ə/ — support</li>
+
+      </ul>
+
+      <p>Khi kết hợp với r → âm /ɜːr/:</p>
+
+      <ul className="list-square">
+        
+        <li><strong>ȧ</strong> = /ɪ/ — image</li>
+
+        <li><strong>ė</strong> = /ɪ/ — expense</li>
+
+        <li><strong>e̛r</strong> = /ɜːr/ — her</li>
+
+        <li><strong>i̛r</strong> = /ɜːr/ — bird</li>
+
+        <li><strong>ơr</strong> = /ɜːr/ — word</li>
+
+        <li><strong>ưr</strong> = /ɜːr/ — nurse</li>
+
+      </ul>
+
+    {/* =============================
+        6. Umlaut (¨) — Nguyên âm biến đổi
+    ============================= */}
+
+    <h4 className="margin-y-50 text-center" id="umlaut">6. Umlaut / Diaeresis (¨) — Nguyên âm biến đổi</h4>
+
+    <p>Dùng khi nguyên âm “đặc biệt” (thường là âm dài / vị trí môi/lưỡi khác).</p>
+
+      <ul className="list-square">
+
+        <li><strong>ä</strong> = /ɑː/ — car, autumn</li>
+
+        <li><strong>ï</strong> = /iː/ — pizza (trường hợp mượn/từ có i kéo dài)</li>
+
+        <li><strong>ö</strong> = /ɔː/ — shore</li>
+
+        <li><strong>ü</strong> = /uː/ — Tuesday (trường hợp /juː/ hoặc /uː/ tuỳ từ)</li>
+
+      </ul>
+
+    {/* =============================
+        7. Tilde (˜) — Nguyên âm đặc biệt
+    ============================= */}
+    
+    <h4 className="margin-y-50 text-center" id="tilde">7. Tilde (˜) — Nguyên âm đặc biệt</h4>
+
+    <p>Gần giống Macron (¯), biểu thị âm /uː/, /e/</p>
+
+      <ul className="list-square">
+
+        <li><strong>õ</strong> = /uː/ — do, whose</li>
+
+        <li><strong>ã</strong> = /eə/ (<a href="#rp">RP</a>), /e/ (<a href="#ga">GA</a>) — square</li>
+
+      </ul>
+
+    {/* =============================
+        8. Ring (˚) — Âm tròn /ɔː/
+    ============================= */}
+    
+    <h4 className="margin-y-50 text-center" id="ring">8. Ring (˚) — Âm tròn /ɔː/</h4>
+
+    <p>Biểu thị một số trường hợp âm /ɔː/ đặc biệt.</p>
+
+      <ul className="list-square">
+
+        <li><strong>å</strong> = /ɔː/ — war</li>
+
+      </ul>
+
+    <hr className="hr-short"/>
+
+    <h3 className="margin-bottom-50 text-center">🔔 GHI CHÚ & NGUYÊN TẮC THỰC DỤNG</h3>
+
+    <h4 className="margin-top-30">🔹 Ta giữ giản lược:</h4>
+
+    <p className="margin-top-20 text-indent-whole">Short vowels mặc định viết không dấu (a, e, i/y, o, u/oo) và long vowels (ee). Dấu chỉ dùng khi cần phân biệt hoặc cho âm dài/đặc biệt.</p>
+
+    <h4 className="margin-top-30">🔹 /uː/ và /juː/ được tách rõ:</h4>
+
+    <ul className="list-square">
+
+        <li className="margin-top-20">/uː/ → o͞o, õ, ü (food, do, Tuesday)</li>
+
+        <li>/juː/ → ū (cute)</li>
+
+      </ul>
+
+    <h4 className="margin-top-30">🔹 o mặc định có hai giá trị theo giọng:</h4>
+
+    <p className="margin-top-20 text-indent-whole">/ɒ/ (UK) và /ɑː/ (US).</p>
+
+    <h4 className="margin-top-30">🔹 Dot above (˙)</h4>
+
+    <p className="margin-top-20 text-indent-whole">Là nơi đặt nhiều biến thể “chữ viết khác → phát âm /ɪ/” (image, women, business, fit, expense...), và ư̇ cho /jə/ (accurate).</p>
+
+    <h4 className="margin-top-30">🔹 Hook (dấu móc)</h4>
+
+    <p className="margin-top-20 text-indent-whole">Gom cả schwa /ə/ và schwa + r (ví dụ her, bird).</p>
+
+    <p className="margin-top-50">📌 Chú thích:</p>
+
+      <ul className="list-square">
+
+        <li id="rp">Trong RP (Received Pronunciation – Anh–Anh): square phát âm là /eə/.</li>
+
+        <li className="margin-bottom-50" id="ga">Trong GA (General American – Anh–Mỹ): square thường rút ngắn thành /e/.</li>
+
+      </ul>
+
+    <div className="text-border2">
+
+      <h4 className="margin-top-30 text-center">✅ Kết luận</h4>
+
+      <p className="margin-top-30">Hệ thống 8 dấu phụ này:</p>
+
+      <ul className="list-square">
+
+        <li>Bao phủ toàn bộ <a href="nguyen-am-don.html">nguyên âm đơn</a> + <a href="nguyen-am-doi.html">nguyên âm đôi</a>.</li>
+
+        <li>Các âm khó (schwa /ə/, caret /ʌ/, weak /ɪ/) đều có ký hiệu riêng.</li>
+
+        <li className="margin-bottom-30">Dựa trên dấu tiếng Việt → dễ nhớ, dễ gõ, dễ học hơn IPA, AHD gốc.</li>
+
+      </ul>
+
+    </div>
+
+    <p className="margin-top-50 text-small">September 12, 2025 - by 🐝Mr. Bee Osn and GPT</p>
+    
   </main>
 
   </>);
