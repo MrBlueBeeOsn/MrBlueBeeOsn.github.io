@@ -40,9 +40,9 @@ button:hover {
     display: inline-block; /* cho transform hoạt động */
     justify-content: center;
     align-items: center;
-    gap: 1.0rem;              /* 10px */
     transition: transform 0.1s ease-in-out; /* mượt khi nhấn */
     position: relative;
+    padding-top: 5px;
 }
 
 .branding img {
@@ -60,9 +60,28 @@ button:hover {
     transform: scale(0.92); /* chữ + nền nhỏ lại */
 }
 
+.logo:hover {
+  filter: drop-shadow(0 0 2em var(--tertiary-color));
+}
+
+@keyframes logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  a:nth-of-type(2) .logo {
+    animation: logo-spin infinite 20s linear;
+  }
+}
+
 .logo-text {
     position: absolute;
-    top: -16px;    /* Điều chỉnh khoảng cách phía trên */
+    top: -6px;    /* Điều chỉnh khoảng cách phía trên */
     left: 50%;  /* Điều chỉnh khoảng cách phía bên phải */
     transform: translateX(-20%); /* căn giữa chuẩn */
     font-size: 1.4rem;           /* 14px */

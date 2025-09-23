@@ -9,7 +9,8 @@ export default function Header() {
       <nav>
 
         <div className="branding">
-          <Link to="/"><img src={logo} alt="Mr. Bee - Ong siêng năng"></img></Link>
+          <Link to="/"><img src={logo} className="logo" alt="Mr. Bee - Ong siêng năng"></img></Link>
+          <span class="logo-text">👋&nbsp;Hello!&nbsp;</span>
         </div>
 
         <div>
