@@ -189,6 +189,7 @@ pre {
     white-Space: pre-wrap;
     overflow-x: auto;
     word-break: break-word;
+    text-align: left;
 }
 
 .pre-background {
