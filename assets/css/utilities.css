@@ -181,9 +181,13 @@ pre {
 }
 
 .pre-border {
-    border: 2px, solid var(--tertiary-color);
-    border-radius: 8px; /* Bo tròn các góc */
+    border: 1px, solid var(--tertiary-color);
+    border-radius: 5px; /* Bo tròn các góc */
     padding: 0px;
+    font-family: monospace;
+    white-Space: pre-wrap;
+    overflow-x: auto;
+    word-break: break-word;
 }
 
 .pre-background {
