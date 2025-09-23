@@ -1,16 +1,17 @@
 import { Link } from "react-router-dom";
+import { HashLink } from 'react-router-hash-link';
 
 export default function Painstakingly_1() {
   return (<>
 
   <main className="image image2">
     
-    <h4><a href="#english#tinh-ti-mi-terms"><mark className="highlight2">Tính tỉ mỉ</mark></a></h4>
+    <h4><HashLink smooth to="/english#tinh-ti-mi-terms"><mark className="highlight2">Tính tỉ mỉ</mark></HashLink></h4>
     
     <h2 className="margin-y-50 text-center">painstakingly
-      <sup><a href="painstakingly-1.html">&nbsp;1&nbsp;</a>
+      <sup><Link to="/english/vocabulary/painstakingly-1">&nbsp;1&nbsp;</Link>
       </sup>
-      <sup><a href="painstakingly-2.html">&nbsp;2&nbsp;</a>
+      <sup><Link to="/english/vocabulary/painstakingly-2">&nbsp;2&nbsp;</Link>
       </sup>
     </h2>
 
@@ -28,12 +29,12 @@ export default function Painstakingly_1() {
             
           <li>
             <span className="highlight4">
-              /ˈpeɪnzˌteɪ.kɪŋ.li/ + /<a href="7-dau-phu-phien-am-tieng-Anh-1.html">pāinstākingly</a>/
+              /ˈpeɪnzˌteɪ.kɪŋ.li/ + /<Link to="/english/tienganh/he-thong-7-dau-phu-phien-am-tieng-anh-1">pāinstākingly</Link>/
               <sup>⬤••• (4x)</sup>
             </span>
           </li>
           
-          <li>Trạng từ (<a href="adverb.html">adverb</a>)</li>
+          <li>Trạng từ (<Link to="/english/grammar/what-is-an-adverb?">adverb</Link>)</li>
 
           <li>Một cách cẩn thận, tỉ mỉ, chu đáo</li>
 
@@ -101,7 +102,7 @@ export default function Painstakingly_1() {
 
         <li className="margin-bottom-20 list-none">He examined the document carefully. (Anh ấy xem xét tài liệu một cách cẩn thận.)</li>
 
-        <li><a href="thoroughly-1.html">Thoroughly</a>: Một cách kỹ lưỡng, hoàn toàn /ˈθʌr.ə.li/</li>
+        <li><Link to="/english/vocabulary/thoroughly-1">Thoroughly</Link>: Một cách kỹ lưỡng, hoàn toàn /ˈθʌr.ə.li/</li>
 
         <li className="list-none">They searched the house thoroughly. (Họ tìm kiếm căn nhà một cách kỹ lưỡng.)</li>
 

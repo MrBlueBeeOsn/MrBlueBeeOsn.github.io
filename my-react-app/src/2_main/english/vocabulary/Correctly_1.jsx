@@ -1,16 +1,17 @@
 import { Link } from "react-router-dom";
+import { HashLink } from 'react-router-hash-link';
 
 export default function Correctly_1() {
   return (<>
 
   <main className="image image2">
     
-    <h4><a href="#english#tinh-chinh-xac-terms"><mark className="highlight2">Tính chính xác </mark></a></h4>
+    <h4><HashLink smooth to="/english#tinh-chinh-xac-terms"><mark className="highlight2">Tính chính xác </mark></HashLink></h4>
     
     <h2 className="margin-y-50 text-center">correctly
-      <sup><a href="correctly-1.html">&nbsp;1&nbsp;</a>
+      <sup><Link to="/english/vocabulary/correctly-1">&nbsp;1&nbsp;</Link>
       </sup>
-      <sup><a href="correctly-2.html">&nbsp;2&nbsp;</a>
+      <sup><Link to="/english/vocabulary/correctly-2">&nbsp;2&nbsp;</Link>
       </sup>
     </h2>
 
@@ -28,12 +29,12 @@ export default function Correctly_1() {
 
           <li>
             <span className="highlight4">
-              /kəˈrektli/ + /<a href="7-dau-phu-phien-am-tieng-Anh-1.html">cơrrectly</a>/
+              /kəˈrektli/ + /<Link to="/english/tienganh/he-thong-7-dau-phu-phien-am-tieng-anh-1">cơrrectly</Link>/
               <sup>•⬤• (3x)</sup>
             </span>
           </li>
 
-          <li>Trạng từ (<a href="adverb.html">adverb</a>)</li>
+          <li>Trạng từ (<Link to="/english/grammar/what-is-an-adverb?">adverb</Link>)</li>
 
           <li>Một cách chính xác, đúng đắn</li>
 
@@ -93,11 +94,11 @@ export default function Correctly_1() {
 
       <ul className="list-square">
 
-        <li><a href="accurately-1.html">Accurately</a>: Một cách chính xác /ˈækjərətli/</li>
+        <li><Link to="/english/vocabulary/accurately-1">Accurately</Link>: Một cách chính xác /ˈækjərətli/</li>
 
         <li className="margin-bottom-20 list-none">The data was recorded accurately. (Dữ liệu đã được ghi lại một cách chính xác.)</li>
 
-        <li><a href="precisely-1.html">Precisely</a>: Một cách chính xác /prɪˈsaɪsli/</li>
+        <li><Link to="/english/vocabulary/precisely-1">Precisely</Link>: Một cách chính xác /prɪˈsaɪsli/</li>
 
         <li className="list-none">He explained the situation precisely. (Anh ấy đã giải thích tình hình một cách chính xác.)</li>
 

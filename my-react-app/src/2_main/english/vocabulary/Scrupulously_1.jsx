@@ -1,16 +1,17 @@
 import { Link } from "react-router-dom";
+import { HashLink } from 'react-router-hash-link';
 
 export default function Scrupulously_1() {
   return (<>
 
   <main className="image image2">
 
-    <h4><a href="#english#tinh-ti-mi-terms"><mark className="highlight2">Tính tỉ mỉ</mark></a></h4>
+    <h4><HashLink smooth to="/english#tinh-ti-mi-terms"><mark className="highlight2">Tính tỉ mỉ</mark></HashLink></h4>
     
     <h2 className="margin-y-50 text-center">scrupulously
-      <sup><a href="scrupulously-1.html">&nbsp;1&nbsp;</a>
+      <sup><Link to="/english/vocabulary/scrupulously-1">&nbsp;1&nbsp;</Link>
       </sup>
-      <sup><a href="scrupulously-2.html">&nbsp;2&nbsp;</a>
+      <sup><Link to="/english/vocabulary/scrupulously-2">&nbsp;2&nbsp;</Link>
       </sup>
     </h2>
 
@@ -28,12 +29,12 @@ export default function Scrupulously_1() {
             
           <li>
             <span className="highlight4">
-              /ˈskruː.pjə.ləs.li/ + /<a href="7-dau-phu-phien-am-tieng-Anh-1.html">scrüpư̇lơusly</a>/
+              /ˈskruː.pjə.ləs.li/ + /<Link to="/english/tienganh/he-thong-7-dau-phu-phien-am-tieng-anh-1">scrüpư̇lơusly</Link>/
               <sup>⬤••• (4x)</sup>
             </span>
           </li>
           
-          <li>Trạng từ (<a href="adverb.html">adverb</a>)</li>
+          <li>Trạng từ (<Link to="/english/grammar/what-is-an-adverb?">adverb</Link>)</li>
 
           <li>Một cách tỉ mỉ, cẩn trọng, chu đáo</li>
 
@@ -101,7 +102,7 @@ export default function Scrupulously_1() {
 
         <li className="margin-bottom-20 list-none">He handled the glass carefully. (Anh ấy xử lý cái ly một cách cẩn thận.)</li>
 
-        <li><a href="thoroughly-1.html">Thoroughly</a>: Một cách kỹ lưỡng, hoàn toàn /ˈθɜːr.ə.li/</li>
+        <li><Link to="/english/vocabulary/thoroughly-1">Thoroughly</Link>: Một cách kỹ lưỡng, hoàn toàn /ˈθɜːr.ə.li/</li>
 
         <li className="list-none">He checked the documents thoroughly. (Anh ấy kiểm tra các tài liệu một cách kỹ lưỡng.)</li>
 

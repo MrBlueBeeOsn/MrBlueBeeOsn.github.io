@@ -1,11 +1,12 @@
 import { Link } from "react-router-dom";
+import { HashLink } from 'react-router-hash-link';
 
 export default function Searching_And_Clickable_Dictionary() {
   return (<>
 
   <main className="image image2">
     
-    <h4>by <a href="#english#mr-bee-osn-english-terms"><mark className="highlight2">Mr. Bee Osn</mark></a></h4>
+    <h4>by <HashLink smooth to="/english#mr-bee-osn-english-terms"><mark className="highlight2">Mr. Bee Osn</mark></HashLink></h4>
     
     <h2 className="margin-y-50 text-center">Searching and clickable dictionary</h2>
 

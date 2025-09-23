@@ -28,6 +28,21 @@ export default function () {
 
     4/  Thẻ thuộc tính trong React: class=""
         Thẻ thuộc tính trong HTML: className=""
+
+    5/ Trong React (JSX), bạn phải viết:
+      <pre className="pre-border"><code>{`
+
+      Trong HTML, bạn có thể viết:
+      <pre className="pre-border"><code>
+
+    6/ Trong React (JSX), bạn phải viết:
+      < >
+
+      Trong HTML, bạn có thể viết:
+      &lt; &gt;
+
+    7/ Trong React (JSX), bạn phải viết: <hr />
+      Trong HTML, bạn có thể viết: <hr>
     
     import { Link } from "react-router-dom";
 

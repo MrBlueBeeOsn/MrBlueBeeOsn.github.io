@@ -1,16 +1,17 @@
 import { Link } from "react-router-dom";
+import { HashLink } from 'react-router-hash-link';
 
 export default function Accurately_1() {
   return (<>
 
   <main className="image image2">
     
-    <h4><a href="#english#tinh-chinh-xac-terms"><mark className="highlight2">Tính chính xác</mark></a></h4>
+    <h4><HashLink smooth to="/english#tinh-chinh-xac-terms"><mark className="highlight2">Tính chính xác</mark></HashLink></h4>
     
     <h2 className="margin-y-50 text-center">accurately
-      <sup><a href="accurately-1.html">&nbsp;1&nbsp;</a>
+      <sup><Link to="/english/vocabulary/accurately-1">&nbsp;1&nbsp;</Link>
       </sup>
-      <sup><a href="accurately-2.html">&nbsp;2&nbsp;</a>
+      <sup><Link to="/english/vocabulary/accurately-2">&nbsp;2&nbsp;</Link>
       </sup>
     </h2>
 
@@ -28,12 +29,12 @@ export default function Accurately_1() {
 
           <li>
             <span className="highlight4">
-              /ˈækjərətli/ + /<a href="7-dau-phu-phien-am-tieng-Anh-1.html">accư̇ra̛tely</a>/
+              /ˈækjərətli/ + /<Link to="/english/tienganh/he-thong-7-dau-phu-phien-am-tieng-anh-1">accư̇ra̛tely</Link>/
               <sup>⬤••• (4x)</sup>
             </span>
           </li>
 
-          <li>Trạng từ (<a href="adverb.html">adverb</a>)</li>
+          <li>Trạng từ (<Link to="/english/grammar/what-is-an-adverb?">adverb</Link>)</li>
 
           <li>Một cách chính xác</li>
 
@@ -93,11 +94,11 @@ export default function Accurately_1() {
 
       <ul className="list-square">
 
-        <li><a href="exactly-1.html">Exactly</a>: Chính xác /ɪɡˈzæktli/</li>
+        <li><Link to="/english/vocabulary/exactly-1">Exactly</Link>: Chính xác /ɪɡˈzæktli/</li>
 
         <li className="margin-bottom-20 list-none">I know exactly what you mean. (Tôi hiểu chính xác ý của bạn.)</li>
 
-        <li><a href="precisely-1.html">Precisely</a>: Chính xác /prɪˈsaɪsli/</li>
+        <li><Link to="/english/vocabulary/precisely-1">Precisely</Link>: Chính xác /prɪˈsaɪsli/</li>
 
         <li className="list-none">The time was precisely 3:00 pm. (Thời gian chính xác là 3 giờ chiều.)</li>
 

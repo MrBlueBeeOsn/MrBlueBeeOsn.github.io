@@ -1,16 +1,17 @@
 import { Link } from "react-router-dom";
+import { HashLink } from 'react-router-hash-link';
 
 export default function Exactly_2() {
   return (<>
 
   <main className="image image2">
     
-    <h4><a href="#english#tinh-chinh-xac-terms"><mark className="highlight2">Tính chính xác</mark></a></h4>
+    <h4><HashLink smooth to="/english#tinh-chinh-xac-terms"><mark className="highlight2">Tính chính xác</mark></HashLink></h4>
     
     <h2 className="margin-y-50 text-center">exactly
-      <sup><a href="exactly-1.html">&nbsp;1&nbsp;</a>
+      <sup><Link to="/english/vocabulary/exactly-1">&nbsp;1&nbsp;</Link>
       </sup>
-      <sup><a href="exactly-2.html">&nbsp;2&nbsp;</a>
+      <sup><Link to="/english/vocabulary/exactly-2">&nbsp;2&nbsp;</Link>
       </sup>
     </h2>
 
@@ -25,7 +26,7 @@ export default function Exactly_2() {
         <p className="margin-y-20">
           <strong>Exactly</strong>
           <span className="highlight4">
-            /ɪɡˈzæktli/ + /<a href="7-dau-phu-phien-am-tieng-Anh-1.html">ėxactly</a>/
+            /ɪɡˈzæktli/ + /<Link to="/english/tienganh/he-thong-7-dau-phu-phien-am-tieng-anh-1">ėxactly</Link>/
             <sup>•⬤• (3x)</sup></span> 
             trong tiếng Anh có nghĩa là "chính xác", "đúng như vậy", thường được dùng để nhấn mạnh sự chính xác, cụ thể hoặc sự đồng tình hoàn toàn với một ý kiến nào đó.
         </p>

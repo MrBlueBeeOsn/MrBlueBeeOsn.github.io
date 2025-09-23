@@ -1,16 +1,17 @@
 import { Link } from "react-router-dom";
+import { HashLink } from 'react-router-hash-link';
 
 export default function Thoroughly_2() {
   return (<>
 
   <main className="image image2">
     
-    <h4><a href="#english#tinh-ti-mi-terms"><mark className="highlight2">Tính tỉ mỉ</mark></a></h4>
+    <h4><HashLink smooth to="/english#tinh-ti-mi-terms"><mark className="highlight2">Tính tỉ mỉ</mark></HashLink></h4>
     
     <h2 className="margin-y-50 text-center">thoroughly
-      <sup><a href="thoroughly-1.html">&nbsp;1&nbsp;</a>
+      <sup><Link to="/english/vocabulary/thoroughly-1">&nbsp;1&nbsp;</Link>
       </sup>
-      <sup><a href="thoroughly-2.html">&nbsp;2&nbsp;</a>
+      <sup><Link to="/english/vocabulary/thoroughly-2">&nbsp;2&nbsp;</Link>
       </sup>
     </h2>
 
@@ -25,7 +26,7 @@ export default function Thoroughly_2() {
         <p className="margin-y-20">
           <strong>Thoroughly</strong>
           <span className="highlight4">
-            /ˈθʌrəli/ + /<a href="7-dau-phu-phien-am-tieng-Anh-1.html">thôrơughly</a>/
+            /ˈθʌrəli/ + /<Link to="/english/tienganh/he-thong-7-dau-phu-phien-am-tieng-anh-1">thôrơughly</Link>/
             <sup>⬤•• (3x)</sup></span> 
             thường được sử dụng để nhấn mạnh tính kỹ lưỡng, hoàn toàn, triệt để của một hành động hoặc quá trình nào đó.
         </p>
@@ -38,9 +39,7 @@ export default function Thoroughly_2() {
 
     </div>
 
-    <p className="margin-top-30 text-indent-whole"></p>
-
-    <ol className="padding-left-30">
+    <ol className="margin-top-30 padding-left-30">
 
       <li value="1"><strong>Thoroughly</strong> enjoy: Thưởng thức một cách trọn vẹn /ˈθʌrəli ɪnˈdʒɔɪ/</li>
 

@@ -1,16 +1,17 @@
 import { Link } from "react-router-dom";
+import { HashLink } from 'react-router-hash-link';
 
 export default function Bay_Dau_Phu_Phien_Am_Tieng_Anh_1() {
   return (<>
 
   <main className="image image2">
     
-    <h4><a href="#english#tieng-anh-terms"><mark className="highlight2">Tiếng Anh</mark></a></h4>
+    <h4><HashLink smooth to="/english#tieng-anh-terms"><mark className="highlight2">Tiếng Anh</mark></HashLink></h4>
 
     <h2 className="margin-y-50 text-center">📖 HỆ THỐNG 7 DẤU PHỤ + 1 MẶC ĐỊNH = 8 MỤC PHIÊN ÂM TIẾNG ANH (BẢN HOÀN CHỈNH)
-      <sup><a href="7-dau-phu-phien-am-tieng-Anh-1.html">&nbsp;1&nbsp;</a>
+      <sup><Link to="/english/tienganh/he-thong-7-dau-phu-phien-am-tieng-anh-1">&nbsp;1&nbsp;</Link>
       </sup>
-      <sup><a href="7-dau-phu-phien-am-tieng-Anh-2.html">&nbsp;2&nbsp;</a>
+      <sup><Link to="/english/tienganh/he-thong-7-dau-phu-phien-am-tieng-anh-2">&nbsp;2&nbsp;</Link>
       </sup>
     </h2>
 
@@ -26,13 +27,13 @@ export default function Bay_Dau_Phu_Phien_Am_Tieng_Anh_1() {
 
       <ul className="list-square">
 
-        <li>1 nhóm <a href="#mac-dinh">mặc định</a> (không dấu) – các nguyên âm cơ bản.</li>
+        <li>1 nhóm <HashLink smooth to="#mac-dinh">mặc định</HashLink> (không dấu) – các nguyên âm cơ bản.</li>
 
-        <li>7 loại dấu phụ: <a href="#macron">Macron</a>, <a href="#circumflex">Circumflex</a>, <a href="#dot-above">Dot Above</a>, <a href="#hook">Hook</a>, <a href="#umlaut">Umlaut</a>, <a href="#tilde">Tilde</a>, <a href="#ring">Ring</a>.</li>
+        <li>7 loại dấu phụ: <HashLink smooth to="#macron">Macron</HashLink>, <HashLink smooth to="#circumflex">Circumflex</HashLink>, <HashLink smooth to="#dot-above">Dot Above</HashLink>, <HashLink smooth to="#hook">Hook</HashLink>, <HashLink smooth to="#umlaut">Umlaut</HashLink>, <HashLink smooth to="#tilde">Tilde</HashLink>, <HashLink smooth to="#ring">Ring</HashLink>.</li>
 
-        <li>Bảng tổng hợp <a href="nguyen-am-don.html">nguyên âm đơn</a></li>
+        <li>Bảng tổng hợp <Link to="/english/tienganh/nguyen-am-don">nguyên âm đơn</Link></li>
 
-        <li>Bảng tổng hợp <a href="nguyen-am-doi.html">nguyên âm đôi</a></li>
+        <li>Bảng tổng hợp <Link to="/english/tienganh/nguyen-am-doi">nguyên âm đôi</Link></li>
 
       </ul>
       
@@ -218,7 +219,7 @@ export default function Bay_Dau_Phu_Phien_Am_Tieng_Anh_1() {
 
         <li><strong>õ</strong> = /uː/ — do, whose</li>
 
-        <li><strong>ã</strong> = /eə/ (<a href="#rp">RP</a>), /e/ (<a href="#ga">GA</a>) — square</li>
+        <li><strong>ã</strong> = /eə/ (<HashLink smooth to="#rp">RP</HashLink>), /e/ (<HashLink smooth to="#ga">GA</HashLink>) — square</li>
 
       </ul>
 
@@ -284,7 +285,7 @@ export default function Bay_Dau_Phu_Phien_Am_Tieng_Anh_1() {
 
       <ul className="list-square">
 
-        <li>Bao phủ toàn bộ <a href="nguyen-am-don.html">nguyên âm đơn</a> + <a href="nguyen-am-doi.html">nguyên âm đôi</a>.</li>
+        <li>Bao phủ toàn bộ <Link to="/english/tienganh/nguyen-am-don">nguyên âm đơn</Link> + <Link to="/english/tienganh/nguyen-am-doi">nguyên âm đôi</Link>.</li>
 
         <li>Các âm khó (schwa /ə/, caret /ʌ/, weak /ɪ/) đều có ký hiệu riêng.</li>
 

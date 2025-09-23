@@ -1,16 +1,17 @@
 import { Link } from "react-router-dom";
+import { HashLink } from 'react-router-hash-link';
 
 export default function Nguyen_Am_Don() {
   return (<>
 
   <main className="image image2">
     
-    <h4><a href="#english#tieng-anh-terms"><mark className="highlight2">Tiếng Anh</mark></a></h4>
+    <h4><HashLink smooth to="/english#tieng-anh-terms"><mark className="highlight2">Tiếng Anh</mark></HashLink></h4>
 
     <h2 className="margin-y-50 text-center">Nguyên âm đơn
-      <sup><a href="nguyen-am-don.html">&nbsp;1&nbsp;</a>
+      <sup><Link to="/english/tienganh/nguyen-am-don">&nbsp;1&nbsp;</Link>
       </sup>
-      <sup><a href="nguyen-am-doi.html">&nbsp;2&nbsp;</a>
+      <sup><Link to="/english/tienganh/nguyen-am-doi">&nbsp;2&nbsp;</Link>
       </sup>
       <p className="text-center">(gọn, để tra cứu)</p>
     </h2>
@@ -39,7 +40,7 @@ export default function Nguyen_Am_Don() {
 
           <tr>
             <td>e, ã</td>
-            <td>/e/ (<a href="#ga">GA</a>), /eə/ (<a href="#rp">RP</a>)</td>
+            <td>/e/ (<Link to="#ga">GA</Link>), /eə/ (<Link to="#rp">RP</Link>)</td>
             <td>e = bed; ã = square</td>
           </tr>
 

@@ -1,16 +1,17 @@
 import { Link } from "react-router-dom";
+import { HashLink } from 'react-router-hash-link';
 
 export default function Scrupulously_2() {
   return (<>
 
   <main className="image image2">
 
-    <h4><a href="#english#tinh-ti-mi-terms"><mark className="highlight2">Tính tỉ mỉ</mark></a></h4>
+    <h4><HashLink smooth to="/english#tinh-ti-mi-terms"><mark className="highlight2">Tính tỉ mỉ</mark></HashLink></h4>
     
     <h2 className="margin-y-50 text-center">scrupulously
-      <sup><a href="scrupulously-1.html">&nbsp;1&nbsp;</a>
+      <sup><Link to="/english/vocabulary/scrupulously-1">&nbsp;1&nbsp;</Link>
       </sup>
-      <sup><a href="scrupulously-2.html">&nbsp;2&nbsp;</a>
+      <sup><Link to="/english/vocabulary/scrupulously-2">&nbsp;2&nbsp;</Link>
       </sup>
     </h2>
 
@@ -25,7 +26,7 @@ export default function Scrupulously_2() {
         <p className="margin-y-20">
           <strong>Scrupulously</strong>
           <span className="highlight4">
-            /ˈskruː.pjə.ləs.li/ + /<a href="7-dau-phu-phien-am-tieng-Anh-1.html">scrüpư̇lơusly</a>/
+            /ˈskruː.pjə.ləs.li/ + /<Link to="/english/tienganh/he-thong-7-dau-phu-phien-am-tieng-anh-1">scrüpư̇lơusly</Link>/
             <sup>⬤••• (4x)</sup></span> 
             thường được dùng để mô tả một hành động hoặc trạng thái được thực hiện một cách tỉ mỉ, cẩn thận, chú ý đến từng chi tiết nhỏ nhất.
         </p>
@@ -38,9 +39,7 @@ export default function Scrupulously_2() {
 
     </div>
 
-    <p className="margin-top-30 text-indent-whole"></p>
-
-    <ol className="padding-left-30">
+    <ol className="margin-top-30 padding-left-30">
 
       <li value="1"><strong>Scrupulously</strong> clean: Làm sạch một cách tỉ mỉ /ˈskruːpjələsli kliːn/</li>
 

@@ -1,11 +1,12 @@
 import { Link } from "react-router-dom";
+import { HashLink } from 'react-router-hash-link';
 
 export default function Noun() {
   return (<>
 
   <main className="image image2">
   
-    <h4><a href="#english#grammar-terms"><mark className="highlight2">Grammar</mark></a></h4>
+    <h4><HashLink smooth to="/english#grammar-terms"><mark className="highlight2">Grammar</mark></HashLink></h4>
     
     <h2 className="margin-y-50 text-center">What is a noun?</h2>
 

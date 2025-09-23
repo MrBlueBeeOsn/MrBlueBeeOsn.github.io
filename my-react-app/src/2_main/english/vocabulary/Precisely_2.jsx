@@ -1,16 +1,17 @@
 import { Link } from "react-router-dom";
+import { HashLink } from 'react-router-hash-link';
 
 export default function Precisely_2() {
   return (<>
 
   <main className="image image2">
     
-    <h4><a href="#english#tinh-chinh-xac-terms"><mark className="highlight2">Tính chính xác</mark></a></h4>
+    <h4><HashLink smooth to="/english#tinh-chinh-xac-terms"><mark className="highlight2">Tính chính xác</mark></HashLink></h4>
     
     <h2 className="margin-y-50 text-center">precisely
-      <sup><a href="precisely-1.html">&nbsp;1&nbsp;</a>
+      <sup><Link to="/english/vocabulary/precisely-1">&nbsp;1&nbsp;</Link>
       </sup>
-      <sup><a href="precisely-2.html">&nbsp;2&nbsp;</a>
+      <sup><Link to="/english/vocabulary/precisely-2">&nbsp;2&nbsp;</Link>
       </sup>
     </h2>
 
@@ -26,7 +27,7 @@ export default function Precisely_2() {
 
           <strong>Precisely</strong>
           <span className="highlight4">
-            /prɪˈsaɪs.li/ + /<a href="7-dau-phu-phien-am-tieng-Anh-1.html">prėcīsely</a>/
+            /prɪˈsaɪs.li/ + /<Link to="/english/tienganh/he-thong-7-dau-phu-phien-am-tieng-anh-1">prėcīsely</Link>/
             <sup>•⬤• (3x)</sup></span> 
             thường được dùng để mô tả một hành động hoặc trạng thái được thực hiện một cách chính xác, đúng đắn, không có sai sót.
         </p>
