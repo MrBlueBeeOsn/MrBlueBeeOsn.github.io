@@ -46,10 +46,10 @@ header h1 {
 
 nav {
     display: flex;
-    gap: 20px;
-    align-items: center; /* Căn giữa theo chiều dọc */
-    padding: 10px 20px;
     justify-content: center; /* Căn giữa theo chiều ngang */
+    align-items: center; /* Căn giữa theo chiều dọc */
+    gap: 20px;
+    /* padding: 10px 20px; */
 }
 
 nav a {
@@ -186,6 +186,7 @@ footer {
     background: #333;
     color: white;
     width: 100%;
+    height: 8rem;
     max-width: 100vw;
     text-align: center;
     padding: 1.0rem;              /* 10px */

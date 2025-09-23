@@ -203,7 +203,7 @@
             }
 
             .logo-text {
-                top: -1.4rem;              /* 14px */    /* Điều chỉnh khoảng cách phía trên */
+                top: -0.5rem;              /* 14px */    /* Điều chỉnh khoảng cách phía trên */
                 left: 50%;  /* Điều chỉnh khoảng cách phía bên phải */
                 transform: translateX(-20%); /* căn giữa chuẩn */
                 font-size: 1.2rem;           /* 12px */
@@ -319,7 +319,7 @@
             }
 
             .logo-text {
-                top: -1.4rem;              /* 14px */    /* Điều chỉnh khoảng cách phía trên */
+                top: -0.5rem;              /* 14px */    /* Điều chỉnh khoảng cách phía trên */
                 left: 50%;  /* Điều chỉnh khoảng cách phía bên phải */
                 transform: translateX(-20%); /* căn giữa chuẩn */
                 font-size: 1.2rem;           /* 12px */
