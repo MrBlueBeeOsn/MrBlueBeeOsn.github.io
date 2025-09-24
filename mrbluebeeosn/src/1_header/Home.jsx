@@ -5,7 +5,7 @@ export default function Home() {
      
       <main className="image">
 
-        <h1 className="margin-y-50 text-center">🌾 Welcome!</h1>
+        <h1 className="margin-y-50 text-center">🌻 Welcome!</h1>
 
         <p className="quote">
 

@@ -384,7 +384,7 @@ code {
     .month {
         font-weight: 600;
         color: black;
-        display: inline-block;
+        /* display: inline-block; */
         min-width: 85px;
     }
 
@@ -394,7 +394,7 @@ code {
 
 .table-container {
     max-width: 1000px;
-    /* background-color: white; */
+    background-color: #f5f5f5;
     border-radius: 15px;
     box-shadow: 0 10px 30px rgba(0, 0, 0, 0.15);
     padding: 3.0rem;
@@ -404,14 +404,13 @@ code {
 table {
     width: 100%;
     border-collapse: collapse;
-    margin: 2.0rem 0;
     font-size: 1.6rem;
     /* box-shadow: 0 5px 15px rgba(0, 0, 0, 0.05); */
 }
 
 th, td {
     padding: 1.6rem 2.0rem;
-    text-align: center;
+    text-align: left;
     border-bottom: 1px dashed var(--tertiary-color);
 }
 
@@ -423,7 +422,23 @@ th {
 }
 
 th:nth-child(1) {
-    background-color: var(--accent-color); /* Màu xanh lá cho tiêu đề cột giá tiền */
+    background-color: var(--tertiary-color); /* Màu cho tiêu đề cột giá tiền */
+}
+
+th:nth-child(2) {
+    background-color: var(--tertiary-color); /* Màu cho tiêu đề cột giá tiền */
+}
+
+th:nth-child(3) {
+    background-color: var(--tertiary-color); /* Màu cho tiêu đề cột giá tiền */
+}
+
+th:nth-child(4) {
+    background-color: var(--tertiary-color); /* Màu cho tiêu đề cột giá tiền */
+}
+
+th:nth-child(5) {
+    background-color: var(--tertiary-color); /* Màu cho tiêu đề cột giá tiền */
 }
 
 /* Tô màu cho toàn bộ cột thứ 3 */
@@ -444,8 +459,8 @@ tr:hover {
 }
 
 /* Hiệu ứng khi di chuột vào ô ở cột thứ 3 */
-td:nth-child(3):hover {
-    background-color: var(--secondary-color);
+td:nth-child(1):hover {
+    background-color: var(--tertiary-color);
     transform: scale(1.02);
     transition: all 0.2s ease;
 }
