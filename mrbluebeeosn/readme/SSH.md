@@ -98,6 +98,8 @@ ReactJS:
 cd /d/GitHub/personal/personal.github.io/personal
 cd /d/GitHub/work/work.github.io/work
 cd /d/GitHub/company/company.github.io/company
+npm install
+npm run dev
 npm run build
 npm run deploy
 
