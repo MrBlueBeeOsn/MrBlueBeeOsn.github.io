@@ -26,7 +26,7 @@ export default function Mr_Bee_Osn() {
 
       <ul className="month-list">
 
-        <li><span className="month">Mr.Bee - Ong siêng năng</span></li>
+        <li><span className="month">Mr. Bee - Ong siêng năng</span></li>
 
         <li><span className="month"></span>🚀 What is <Link to="https://mrgreenbeeosn.github.io/#/accounting/what-is-accounting">accounting</Link>?</li>
 
