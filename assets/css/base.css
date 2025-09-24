@@ -28,8 +28,6 @@
 #root {
   max-width: 700px;       /* Giới hạn chiều rộng tối đa là 1280px */
   margin: 0 auto;           /* Canh giữa phần tử theo chiều ngang */
-  /* padding: 2rem;            Tạo khoảng cách bên trong phần tử (padding) là 2rem */
-  text-align: center;       /* Căn giữa nội dung văn bản bên trong phần tử */
 }
 
 html {
