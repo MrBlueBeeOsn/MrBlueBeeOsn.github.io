@@ -19,7 +19,7 @@ export default function Correctly_1() {
     
     <p>Tuyệt vời! Chúng ta cùng đi sâu vào từ "<strong>correctly</strong>" nhé.</p>
 
-    <div className="padding-y-20 highlight3 bee-container">
+    <div className="padding-y-20 text-border1 highlight3 bee-container">
 
       <div>
 
@@ -140,7 +140,7 @@ export default function Correctly_1() {
       <strong>
         <mark className="highlight4"><strong>1. Liên kết</strong></mark> 
       </strong>
-      <strong>với hình ảnh</strong>:
+      <strong> với hình ảnh</strong>:
     </p>
 
     <p className="text-indent-whole">Hình dung một học sinh đang làm bài kiểm tra và đánh dấu đúng vào đáp án.</p>
@@ -161,7 +161,7 @@ export default function Correctly_1() {
       <strong>
         <mark className="highlight4"><strong>2. Tạo câu</strong></mark> 
       </strong>
-      <strong>ví dụ</strong>:
+      <strong> ví dụ</strong>:
     </p>
 
     <p className="text-indent-whole">Tạo các câu ví dụ khác nhau với từ "<strong>correctly</strong>" trong nhiều ngữ cảnh.</p>
@@ -182,7 +182,7 @@ export default function Correctly_1() {
       <strong>
           <mark className="highlight4"><strong>3. Luyện tập</strong></mark>
       </strong>
-      <strong>thường xuyên</strong>:
+      <strong> thường xuyên</strong>:
     </p>
 
     <p className="text-indent-whole">Thường xuyên sử dụng từ này trong các cuộc hội thoại và bài viết.</p>

@@ -19,16 +19,15 @@ export default function Thoroughly_2() {
 
     <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>thoroughly</strong>" (một cách kỹ lưỡng, hoàn toàn) và các cụm từ hay đi kèm nhé.</p>
 
-    <div className="highlight3 bee-container">
+    <div className="text-border1 highlight3 bee-container">
 
       <div>
 
         <p className="margin-y-20">
-          <strong>Thoroughly</strong>
+          <strong>Thoroughly </strong>
           <span className="highlight4">
             /ˈθʌrəli/ + /<Link to="/english/tienganh/he-thong-7-dau-phu-phien-am-tieng-anh-1">thôrơughly</Link>/
-            <sup>⬤•• (3x)</sup></span> 
-            thường được sử dụng để nhấn mạnh tính kỹ lưỡng, hoàn toàn, triệt để của một hành động hoặc quá trình nào đó.
+            <sup>⬤•• (3x)</sup></span> thường được sử dụng để nhấn mạnh tính kỹ lưỡng, hoàn toàn, triệt để của một hành động hoặc quá trình nào đó.
         </p>
 
       </div>

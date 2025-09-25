@@ -19,7 +19,7 @@ export default function Precisely_2() {
 
     <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>precisely</strong>" (một cách chính xác) và các cụm từ hay đi kèm nhé.</p>
 
-    <div className="highlight3">
+    <div className="text-border1 highlight3 bee-container">
 
       <div>
     

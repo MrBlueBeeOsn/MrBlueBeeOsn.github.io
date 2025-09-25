@@ -19,7 +19,7 @@ export default function Diligently_1() {
     
     <p>Tuyệt vời! Chúng ta cùng khám phá từ "<strong>diligently</strong>" nhé.</p>
 
-    <div className="padding-y-20 highlight3 bee-container">
+    <div className="padding-y-20 text-border1 highlight3 bee-container">
 
       <div>
 
@@ -140,7 +140,7 @@ export default function Diligently_1() {
       <strong>
         <mark className="highlight4"><strong>1. Liên kết</strong></mark> 
       </strong>
-      <strong>với hình ảnh</strong>:
+      <strong> với hình ảnh</strong>:
     </p>
 
     <p className="text-indent-whole">Hình dung một người đang học bài với cuốn sách và bút, hoặc một công nhân đang làm việc chăm chỉ.</p>
@@ -161,7 +161,7 @@ export default function Diligently_1() {
       <strong>
         <mark className="highlight4"><strong>2. Tạo câu</strong></mark> 
       </strong>
-      <strong>ví dụ</strong>:
+      <strong> ví dụ</strong>:
     </p>
 
     <p className="text-indent-whole">Tạo các câu liên quan đến những hoạt động đòi hỏi sự chăm chỉ.</p>
@@ -182,7 +182,7 @@ export default function Diligently_1() {
       <strong>
           <mark className="highlight4"><strong>3. Luyện tập</strong></mark>
       </strong>
-      <strong>thường xuyên</strong>:
+      <strong> thường xuyên</strong>:
     </p>
 
     <p className="text-indent-whole">Thường xuyên sử dụng từ này trong các bài viết hoặc cuộc trò chuyện.</p>

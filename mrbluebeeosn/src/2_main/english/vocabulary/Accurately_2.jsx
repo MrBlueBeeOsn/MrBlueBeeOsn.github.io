@@ -19,7 +19,7 @@ export default function Accurately_2() {
 
     <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>Accurately</strong>" và các cụm từ thường đi kèm nhé.</p>
 
-    <div className="highlight3 bee-container">
+    <div className="text-border1 highlight3 bee-container">
 
       <div>
 
