@@ -3,7 +3,7 @@ import { Link } from "react-router-dom";
 export default function () {
   return (<>
 
-  <main class="image image2">
+  <main className="image image2">
   
     <h4><Link to="/bookkeeping#bookkeeping-terms"><mark className="highlight2">Bookkeeping</mark></Link></h4>
 
@@ -26,7 +26,7 @@ export default function () {
     3/  Link trong React: <Link to=""></Link>
         Link trong HTML: <a href="url">link text</a>
 
-    4/  Thẻ thuộc tính trong React: class=""
+    4/  Thẻ thuộc tính trong React: className=""
         Thẻ thuộc tính trong HTML: className=""
 
     5/ Trong React (JSX), bạn phải viết:
@@ -61,11 +61,11 @@ export default function () {
     
     /* &lt; &gt;
     
-    <pre class="pre-border"><code>
+    <pre className="pre-border"><code>
 
     </code></pre>
 
-    <div class="table-container">
+    <div className="table-container">
       <table>
 
         <thead>
@@ -90,10 +90,10 @@ export default function () {
         
       </table>
   
-      <div class="margin-y-30">
+      <div className="margin-y-30">
 
         <p>
-          <span class="highlight4"></span>
+          <span className="highlight4"></span>
         </p>
 
       </div>
@@ -106,15 +106,15 @@ export default function () {
 
     <img src="url" alt="alternatetext">
 
-    class="margin-top-20"
+    className="margin-top-20"
   
     </strong>
 
-    <h4 class="margin-y-50 text-center"></h4>
+    <h4 className="margin-y-50 text-center"></h4>
     
     <p></p>
 
-      <ul class="list-square">
+      <ul className="list-square">
 
         <li></li>
 
@@ -124,8 +124,8 @@ export default function () {
 
       </ul>
 
-      <ul class="list-disc">
-      <ul class="list-circle"> 
+      <ul className="list-disc">
+      <ul className="list-circle"> 
       
     */}
 
@@ -133,19 +133,19 @@ export default function () {
           ☘️ Think simply!
     ============================= */}
 
-    <hr class="hr-short"/>
+    <hr className="hr-short"/>
 
-    <h3 class="margin-bottom-50 text-center">☘️ Think simply!</h3>
+    <h3 className="margin-bottom-50 text-center">☘️ Think simply!</h3>
     
     {/* 
     
-    <p class="text-indent"></p>   Chỉ thụt lề dòng đầu tiên của đoạn văn.
+    <p className="text-indent"></p>   Chỉ thụt lề dòng đầu tiên của đoạn văn.
 
-    <p class="text-indent-whole"></p>     Thụt lề toàn bộ khối của phần tử 
+    <p className="text-indent-whole"></p>     Thụt lề toàn bộ khối của phần tử 
     
     */}
 
-    <p class="margin-top-50 text-small"> - by 💎Gem</p> 
+    <p className="margin-top-50 text-small"> - by 💎Gem</p> 
 
   </main>
 
