@@ -19,7 +19,7 @@ export default function Scrupulously_1() {
     
     <p>Tuyệt vời! Chúng ta cùng khám phá từ "<strong>scrupulously</strong>" nhé.</p>
 
-    <div className="padding-top-20 padding-bottom-10 text-border1 highlight-grey-padding-4-8 bee-container">
+    <div className="text-border1 padding-top-20 padding-bottom-10 highlight-grey-padding-4-8 bee-container">
 
       <div>
 
@@ -209,9 +209,9 @@ export default function Scrupulously_1() {
 
         </ol>
 
-    <div className="margin-bottom-50 padding-top-20 text-border1 highlight-grey-padding-4-8 bee-container">
+    <div className="margin-bottom-50 padding-top-20 text-border1 padding-10 highlight-grey-padding-4-8 bee-container">
 
-      <p>Sự khác biệt: Câu thứ hai <span className="highlight-white-padding-0-4">nhấn mạnh sự tỉ mỉ và cẩn trọng trong</span> anh ấy <span className="highlight-white-padding-0-4">tuân theo</span> các hướng dẫn.</p>
+      <p className="margin-y-10">Sự khác biệt: Câu thứ hai <span className="highlight-white-padding-0-4">nhấn mạnh sự tỉ mỉ và cẩn trọng trong</span> anh ấy <span className="highlight-white-padding-0-4">tuân theo</span> các hướng dẫn.</p>
 
     </div>
 
@@ -219,7 +219,7 @@ export default function Scrupulously_1() {
           Lưu ý:
     ============================= */}
 
-    <div className="text-border1">
+    <div className="text-border1 padding-10">
 
       <h4 className="margin-y-30 text-center">Lưu ý:</h4>
 

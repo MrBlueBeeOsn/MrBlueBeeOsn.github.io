@@ -19,7 +19,7 @@ export default function Thoroughly_1() {
     
     <p>Tuyệt vời! Chúng ta cùng khám phá từ "<strong>thoroughly</strong>" nhé.</p>
 
-    <div className="padding-top-20 padding-bottom-10 text-border1 highlight-grey-padding-4-8 bee-container">
+    <div className="text-border1 padding-top-20 padding-bottom-10 highlight-grey-padding-4-8 bee-container">
 
       <div>
 
@@ -195,9 +195,9 @@ export default function Thoroughly_1() {
 
         </ol>
 
-    <div className="margin-bottom-50 padding-top-20 text-border1 highlight-grey-padding-4-8 bee-container">
+    <div className="margin-bottom-50 padding-top-20 text-border1 padding-10 highlight-grey-padding-4-8 bee-container">
 
-      <p>Sự khác biệt: Câu thứ hai <span className="highlight-white-padding-0-4">nhấn mạnh rằng</span> anh ấy <span className="highlight-white-padding-0-4">đã đọc</span> cuốn sách <span className="highlight-white-padding-0-4">một cách kỹ lưỡng và hiểu rõ</span> nội dung, không chỉ đọc qua một cách hời hợt.</p>
+      <p className="margin-y-10">Sự khác biệt: Câu thứ hai <span className="highlight-white-padding-0-4">nhấn mạnh rằng</span> anh ấy <span className="highlight-white-padding-0-4">đã đọc</span> cuốn sách <span className="highlight-white-padding-0-4">một cách kỹ lưỡng và hiểu rõ</span> nội dung, không chỉ đọc qua một cách hời hợt.</p>
 
     </div>
 
@@ -205,7 +205,7 @@ export default function Thoroughly_1() {
           Lưu ý:
     ============================= */}
 
-    <div className="text-border1">
+    <div className="text-border1 padding-10">
 
       <h4 className="margin-y-30 text-center">Lưu ý:</h4>
 

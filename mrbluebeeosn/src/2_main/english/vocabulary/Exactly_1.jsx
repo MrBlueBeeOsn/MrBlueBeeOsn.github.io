@@ -19,7 +19,7 @@ export default function Exactly_1() {
     
     <p>Tuyệt vời! Chúng ta cùng tìm hiểu về từ "<strong>exactly</strong>" nhé.</p>
 
-    <div className="padding-top-20 padding-bottom-10 text-border1 highlight-grey-padding-4-8 bee-container">
+    <div className="text-border1 padding-top-20 padding-bottom-10 highlight-grey-padding-4-8 bee-container">
 
       <div>
 
@@ -193,9 +193,9 @@ export default function Exactly_1() {
 
         </ol>
 
-    <div className="margin-bottom-50 padding-top-20 text-border1 highlight-grey-padding-4-8 bee-container">
+    <div className="margin-bottom-50 padding-top-20 text-border1 padding-10 highlight-grey-padding-4-8 bee-container">
 
-      <p>Sự khác biệt: Câu thứ hai sử dụng "<strong>exactly</strong>" để <span className="highlight-white-padding-0-4">nhấn mạnh</span> thời gian đến <span className="highlight-white-padding-0-4">một cách chính xác,</span> không muộn hơn hoặc sớm hơn.</p>
+      <p className="margin-y-10">Sự khác biệt: Câu thứ hai sử dụng "<strong>exactly</strong>" để <span className="highlight-white-padding-0-4">nhấn mạnh</span> thời gian đến <span className="highlight-white-padding-0-4">một cách chính xác,</span> không muộn hơn hoặc sớm hơn.</p>
 
     </div>
 
@@ -203,7 +203,7 @@ export default function Exactly_1() {
           Lưu ý:
     ============================= */}
 
-    <div className="text-border1">
+    <div className="text-border1 padding-10">
 
       <h4 className="margin-y-30 text-center">Lưu ý:</h4>
 

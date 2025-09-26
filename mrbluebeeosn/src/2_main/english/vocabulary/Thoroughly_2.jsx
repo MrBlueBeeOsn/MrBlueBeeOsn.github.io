@@ -19,7 +19,7 @@ export default function Thoroughly_2() {
 
     <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>thoroughly</strong>" (một cách kỹ lưỡng, hoàn toàn) và các cụm từ hay đi kèm nhé.</p>
 
-    <div className="text-border1 highlight-grey-padding-4-8 bee-container">
+    <div className="text-border1 padding-10 highlight-grey-padding-4-8 bee-container">
 
       <div>
 
@@ -88,7 +88,7 @@ export default function Thoroughly_2() {
           Lưu ý:
     ============================= */}
 
-    <div className="text-border1">
+    <div className="text-border1 padding-10">
 
       <h4 className="margin-y-30 text-center">Lưu ý:</h4>
 

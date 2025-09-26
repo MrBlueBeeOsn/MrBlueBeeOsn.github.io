@@ -19,7 +19,7 @@ export default function Correctly_1() {
     
     <p>Tuyệt vời! Chúng ta cùng đi sâu vào từ "<strong>correctly</strong>" nhé.</p>
 
-    <div className="padding-top-20 padding-bottom-10 text-border1 highlight-grey-padding-4-8 bee-container">
+    <div className="text-border1 padding-top-20 padding-bottom-10 highlight-grey-padding-4-8 bee-container">
 
       <div>
 
@@ -197,9 +197,9 @@ export default function Correctly_1() {
 
         </ol>
 
-    <div className="margin-bottom-50 padding-top-20 text-border1 highlight-grey-padding-4-8 bee-container">
+    <div className="margin-bottom-50 padding-top-20 text-border1 padding-10 highlight-grey-padding-4-8 bee-container">
 
-      <p>Sự khác biệt: Câu thứ hai <span className="highlight-white-padding-0-4">nhấn mạnh rằng câu trả lời</span> của anh ấy không chỉ là một câu trả lời mà còn <span className="highlight-white-padding-0-4">là một câu trả lời đúng.</span></p>
+      <p className="margin-y-10">Sự khác biệt: Câu thứ hai <span className="highlight-white-padding-0-4">nhấn mạnh rằng câu trả lời</span> của anh ấy không chỉ là một câu trả lời mà còn <span className="highlight-white-padding-0-4">là một câu trả lời đúng.</span></p>
 
     </div>
 
@@ -207,7 +207,7 @@ export default function Correctly_1() {
           Lưu ý:
     ============================= */}
 
-    <div className="text-border1">
+    <div className="text-border1 padding-10">
 
       <h4 className="margin-y-30 text-center">Lưu ý:</h4>
 
