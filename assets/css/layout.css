@@ -117,7 +117,7 @@ main p {
     text-align: justify;
     font-size: 1.8rem; /* 18px; */
     margin-bottom: 1.5rem;              /* 15px */
-    padding-left: 0.5rem;           /* 10px Lề trái 50px */
+    /* padding-left: 0.5rem; */
 }
 
 main img {
