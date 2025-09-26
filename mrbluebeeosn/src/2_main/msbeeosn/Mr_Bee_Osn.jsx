@@ -12,9 +12,9 @@ export default function Mr_Bee_Osn() {
 
         <li>Welcome everyone!</li>
 
-        <li>Đây là website <mark className="highlight2">Bookkeeping + English</mark> nhiều trang nội bộ đầu tiên của mình!</li>
+        <li>Đây là website <mark className="highlight-tertiary-padding-4-8">Bookkeeping + English</mark> nhiều trang nội bộ đầu tiên của mình!</li>
         
-        <li>Trang web này được xây dựng để học <mark className="highlight2">Bookkeeping & English</mark> cơ bản.</li>
+        <li>Trang web này được xây dựng để học <mark className="highlight-tertiary-padding-4-8">Bookkeeping & English</mark> cơ bản.</li>
 
       </ul>
 

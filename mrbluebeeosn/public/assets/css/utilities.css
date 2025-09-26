@@ -37,56 +37,67 @@
    Highlight
 ============================= */
 
-.highlight {
-    background-color: var(--tertiary-color); /* Sage nhạt hơn*/
-    color: #333;
-    padding: 2px 4px;
-    border-radius: 3px;
-}
-
-.highlight1 {
+.highlight-secondary-padding-4-8 {
     background-color: var(--secondary-color); /* Teal nhạt hơn*/
     color: #333;
     padding: 4px 8px;
     border-radius: 3px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
 }
 
-.highlight2 {
+.highlight-tertiary-padding-0-4 {
+    background-color: var(--tertiary-color); /* Sage nhạt hơn*/
+    color: #333;
+    padding: 0px 4px;
+    border-radius: 2px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.highlight-tertiary-padding-2-4 {
+    background-color: var(--tertiary-color); /* Sage nhạt hơn*/
+    color: #333;
+    padding: 2px 4px;
+    border-radius: 3px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.highlight-tertiary-padding-4-8 {
     background-color: var(--tertiary-color); /* Teal rất nhạt*/
     color: #333;
     padding: 4px 8px;
     border-radius: 3px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
 }
 
-.highlight3 {
-    background-color: #eeeeee; /* Grey rất nhạt*/
+.highlight-grey-padding-4-8 {
+    background-color: #eee; /* Grey rất nhạt*/
     color: #333;
     padding: 4px 8px;
     border-radius: 3px;
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
 }
 
-.highlight4 {
-    background-color: white; /* Grey rất nhạt*/
-    color: #333;
-    padding: 4px 8px;
-    border-radius: 3px;
-    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-}
-
-.highlight5 {
-    background-color: #eeeeee; /* Grey rất nhạt*/
+.highlight-grey-padding-top-15 {
+    background-color: #eee; /* Grey rất nhạt*/
     color: #333;
     padding-top: 15px;
     border-radius: 3px;
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
 }
 
-.highlight6 {
+.highlight-white-padding-0-4 {
     background-color: white; /* Grey rất nhạt*/
     color: #333;
     padding: 0px 4px;
     border-radius: 2px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.highlight-white-padding-4-8 {
+    background-color: white; /* Grey rất nhạt*/
+    color: #333;
+    padding: 4px 8px;
+    border-radius: 3px;
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
 }
 

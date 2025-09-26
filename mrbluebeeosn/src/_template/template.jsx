@@ -5,7 +5,7 @@ export default function () {
 
   <main className="image image2">
   
-    <h4><Link to="/bookkeeping#bookkeeping-terms"><mark className="highlight2">Bookkeeping</mark></Link></h4>
+    <h4><Link to="/bookkeeping#bookkeeping-terms"><mark className="highlight-tertiary-padding-4-8">Bookkeeping</mark></Link></h4>
 
     <h2 className="margin-y-50 text-center">What is bookkeeping?</h2>
 
@@ -65,9 +65,9 @@ export default function () {
 
     </code></pre>
 
-    <div className="text-border1 highlight5">
+    <div className="text-border1 .highlight-grey-padding-top-15">
 
-      <p className="margin-y-30 text-center"><span className="highlight6"></span></p>
+      <p className="margin-y-30 text-center"><span className="highlight-white-padding-0-4"></span></p>
 
     </div>
 
@@ -99,7 +99,7 @@ export default function () {
       <div className="margin-y-30">
 
         <p>
-          <span className="highlight4"></span>
+          <span className="highlight-white-padding-4-8"></span>
         </p>
 
       </div>

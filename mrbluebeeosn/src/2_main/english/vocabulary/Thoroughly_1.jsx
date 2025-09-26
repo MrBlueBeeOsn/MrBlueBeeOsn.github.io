@@ -6,7 +6,7 @@ export default function Thoroughly_1() {
 
   <main className="image image2">
     
-    <h4><HashLink smooth to="/english#tinh-ti-mi-terms"><mark className="highlight2">Tính tỉ mỉ</mark></HashLink></h4>
+    <h4><HashLink smooth to="/english#tinh-ti-mi-terms"><mark className="highlight-tertiary-padding-4-8">Tính tỉ mỉ</mark></HashLink></h4>
     
     <h2 className="margin-y-50 text-center">thoroughly
       <sup><Link to="/english/vocabulary/thoroughly-1">&nbsp;1&nbsp;</Link>
@@ -19,7 +19,7 @@ export default function Thoroughly_1() {
     
     <p>Tuyệt vời! Chúng ta cùng khám phá từ "<strong>thoroughly</strong>" nhé.</p>
 
-    <div className="padding-y-20 text-border1 highlight3 bee-container">
+    <div className="padding-y-20 text-border1 highlight-grey-padding-4-8 bee-container">
 
       <div>
 
@@ -28,7 +28,7 @@ export default function Thoroughly_1() {
         <ul className="list-square">
             
           <li>
-            <span className="highlight4">
+            <span className="highlight-white-padding-4-8">
               /ˈθʌrəli/ + /<Link to="/english/tienganh/he-thong-7-dau-phu-phien-am-tieng-anh-1">thôrơughly</Link>/
               <sup>⬤•• (3x)</sup>
             </span>
@@ -67,7 +67,7 @@ export default function Thoroughly_1() {
     ============================= */}
 
     <p className="margin-top-20">
-      <mark className="highlight3">
+      <mark className="highlight-grey-padding-4-8">
         <strong>Gia đình từ</strong>:
       </mark>
     </p>
@@ -85,7 +85,7 @@ export default function Thoroughly_1() {
     ============================= */}
 
     <p className="margin-top-20">
-      <mark className="highlight3">
+      <mark className="highlight-grey-padding-4-8">
         <strong>Từ đồng nghĩa</strong>:
       </mark>
     </p>
@@ -107,7 +107,7 @@ export default function Thoroughly_1() {
     ============================= */}
 
     <p className="margin-top-20">
-      <mark className="highlight3">
+      <mark className="highlight-grey-padding-4-8">
         <strong>Từ trái nghĩa</strong>:
       </mark>
     </p>
@@ -136,7 +136,7 @@ export default function Thoroughly_1() {
 
     <p className="margin-top-20">
       <strong>
-        <mark className="highlight4"><strong>1. Liên kết</strong></mark> 
+        <mark className="highlight-white-padding-4-8"><strong>1. Liên kết</strong></mark> 
       </strong>
       <strong> với hình ảnh</strong>:
     </p>
@@ -157,7 +157,7 @@ export default function Thoroughly_1() {
 
     <p className="margin-top-20">
       <strong>
-        <mark className="highlight4"><strong>2. Tạo câu</strong></mark> 
+        <mark className="highlight-white-padding-4-8"><strong>2. Tạo câu</strong></mark> 
       </strong>
       <strong> ví dụ</strong>:
     </p>
@@ -178,7 +178,7 @@ export default function Thoroughly_1() {
 
     <p className="margin-top-20">
       <strong>
-          <mark className="highlight4"><strong>3. Luyện tập</strong></mark>
+          <mark className="highlight-white-padding-4-8"><strong>3. Luyện tập</strong></mark>
       </strong>
       <strong> thường xuyên</strong>:
     </p>
@@ -195,7 +195,11 @@ export default function Thoroughly_1() {
 
         </ol>
 
-      <p className="margin-bottom-50 text-indent-whole">Sự khác biệt: Câu thứ hai nhấn mạnh rằng anh ấy đã đọc cuốn sách một cách kỹ lưỡng và hiểu rõ nội dung, không chỉ đọc qua một cách hời hợt.</p>
+    <div className="margin-bottom-50 padding-top-20 text-border1 highlight-grey-padding-4-8 bee-container">
+
+      <p>Sự khác biệt: Câu thứ hai <span className="highlight-white-padding-0-4">nhấn mạnh rằng</span> anh ấy <span className="highlight-white-padding-0-4">đã đọc</span> cuốn sách <span className="highlight-white-padding-0-4">một cách kỹ lưỡng và hiểu rõ</span> nội dung, không chỉ đọc qua một cách hời hợt.</p>
+
+    </div>
 
     {/* =============================
           Lưu ý:

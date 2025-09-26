@@ -6,7 +6,7 @@ export default function Thoroughly_2() {
 
   <main className="image image2">
     
-    <h4><HashLink smooth to="/english#tinh-ti-mi-terms"><mark className="highlight2">Tính tỉ mỉ</mark></HashLink></h4>
+    <h4><HashLink smooth to="/english#tinh-ti-mi-terms"><mark className="highlight-tertiary-padding-4-8">Tính tỉ mỉ</mark></HashLink></h4>
     
     <h2 className="margin-y-50 text-center">thoroughly
       <sup><Link to="/english/vocabulary/thoroughly-1">&nbsp;1&nbsp;</Link>
@@ -19,13 +19,13 @@ export default function Thoroughly_2() {
 
     <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>thoroughly</strong>" (một cách kỹ lưỡng, hoàn toàn) và các cụm từ hay đi kèm nhé.</p>
 
-    <div className="text-border1 highlight3 bee-container">
+    <div className="text-border1 highlight-grey-padding-4-8 bee-container">
 
       <div>
 
         <p className="margin-y-20">
           <strong>Thoroughly </strong>
-          <span className="highlight4">
+          <span className="highlight-white-padding-4-8">
             /ˈθʌrəli/ + /<Link to="/english/tienganh/he-thong-7-dau-phu-phien-am-tieng-anh-1">thôrơughly</Link>/
             <sup>⬤•• (3x)</sup></span> thường được sử dụng để nhấn mạnh tính kỹ lưỡng, hoàn toàn, triệt để của một hành động hoặc quá trình nào đó.
         </p>

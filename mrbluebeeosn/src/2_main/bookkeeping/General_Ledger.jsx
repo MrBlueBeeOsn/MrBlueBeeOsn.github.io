@@ -6,7 +6,7 @@ export default function General_Ledger() {
 
   <main className="image image2">
     
-    <h4><HashLink smooth to="/bookkeeping#bookkeeping-terms"><mark className="highlight2">Bookkeeping</mark></HashLink></h4>
+    <h4><HashLink smooth to="/bookkeeping#bookkeeping-terms"><mark className="highlight-tertiary-padding-4-8">Bookkeeping</mark></HashLink></h4>
     
     <h2 className="margin-y-50 text-center">What is a general ledger?</h2>
 

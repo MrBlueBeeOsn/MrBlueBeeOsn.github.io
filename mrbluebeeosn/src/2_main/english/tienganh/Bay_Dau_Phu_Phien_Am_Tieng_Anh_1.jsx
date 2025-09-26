@@ -6,7 +6,7 @@ export default function Bay_Dau_Phu_Phien_Am_Tieng_Anh_1() {
 
   <main className="image image2">
     
-    <h4><HashLink smooth to="/english#tieng-anh-terms"><mark className="highlight2">Tiếng Anh</mark></HashLink></h4>
+    <h4><HashLink smooth to="/english#tieng-anh-terms"><mark className="highlight-tertiary-padding-4-8">Tiếng Anh</mark></HashLink></h4>
 
     <h2 className="margin-y-50 text-center">📖 HỆ THỐNG 7 DẤU PHỤ + 1 MẶC ĐỊNH = 8 MỤC PHIÊN ÂM TIẾNG ANH (BẢN HOÀN CHỈNH)
       <sup><Link to="/english/tienganh/he-thong-7-dau-phu-phien-am-tieng-anh-1">&nbsp;1&nbsp;</Link>

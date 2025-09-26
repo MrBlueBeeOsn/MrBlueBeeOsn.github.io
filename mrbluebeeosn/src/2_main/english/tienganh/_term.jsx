@@ -6,7 +6,7 @@ export default function () {
 
   <main className="image image2">
     
-    <h4><HashLink smooth to="/english#tieng-anh-terms"><mark className="highlight2">Tiếng Anh</mark></HashLink></h4>
+    <h4><HashLink smooth to="/english#tieng-anh-terms"><mark className="highlight-tertiary-padding-4-8">Tiếng Anh</mark></HashLink></h4>
     
     <h2 className="margin-y-50 text-center">What is pronunciation?</h2>
 

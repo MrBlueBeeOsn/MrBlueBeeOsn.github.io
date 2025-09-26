@@ -9,13 +9,13 @@ export default function Home() {
 
         <p className="quote">
 
-          🐝 <Link to="/bookkeeping/what-is-bookkeeping?">Bookkeeping</Link> is the process of <mark className="highlight6">recording, classifying, and organizing</mark> a company's <mark className="highlight6">financial transactions.</mark>
+          🐝 <Link to="/bookkeeping/what-is-bookkeeping?">Bookkeeping</Link> is the process of <mark className="highlight-white-padding-0-4">recording, classifying, and organizing</mark> a company's <mark className="highlight-white-padding-0-4">financial transactions.</mark>
 
         </p>
         
         <p className="quote">
 
-          🐝 <Link to="/english/what-is-the-english-language?">The English language</Link> is like a giant toolbox filled with <mark className="highlight6">words</mark> and <mark className="highlight6">grammar rules</mark> that you can use to <mark className="highlight6">communicate with people all over the world!</mark> 🌍
+          🐝 <Link to="/english/what-is-the-english-language?">The English language</Link> is like a giant toolbox filled with <mark className="highlight-white-padding-0-4">words</mark> and <mark className="highlight-white-padding-0-4">grammar rules</mark> that you can use to <mark className="highlight-white-padding-0-4">communicate with people all over the world!</mark> 🌍
           
         </p>
 
@@ -23,7 +23,7 @@ export default function Home() {
           <div className="card2">
             <p className="text-small">
           
-              ☕ Happy <mark className="highlight">reading</mark> today!
+              ☕ Happy <mark className="highlight-tertiary-padding-2-4">reading</mark> today!
         
             </p>
           </div>

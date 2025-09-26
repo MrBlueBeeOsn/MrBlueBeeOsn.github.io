@@ -6,7 +6,7 @@ export default function Diligently_2() {
 
   <main className="image image2">
     
-    <h4><HashLink smooth to="/english#tinh-ti-mi-terms"><mark className="highlight2">Tính tỉ mỉ</mark></HashLink></h4>
+    <h4><HashLink smooth to="/english#tinh-ti-mi-terms"><mark className="highlight-tertiary-padding-4-8">Tính tỉ mỉ</mark></HashLink></h4>
     
     <h2 className="margin-y-50 text-center">diligently
       <sup><Link to="/english/vocabulary/diligently-1">&nbsp;1&nbsp;</Link>
@@ -19,13 +19,13 @@ export default function Diligently_2() {
 
     <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>diligently</strong>" (một cách chăm chỉ) và các cụm từ hay đi kèm nhé.</p>
 
-    <div className="text-border1 highlight3 bee-container">
+    <div className="text-border1 highlight-grey-padding-4-8 bee-container">
 
       <div>
 
         <p className="margin-y-20">
           <strong>Diligently</strong>
-          <span className="highlight4">
+          <span className="highlight-white-padding-4-8">
             /ˈdɪl.ə.dʒənt.li/ + /<Link to="/english/tienganh/he-thong-7-dau-phu-phien-am-tieng-anh-1">dili̛ge̛ntly</Link>/
             <sup>⬤••• (4x)</sup></span> 
             thường được dùng để mô tả một hành động được thực hiện với sự chăm chỉ, cẩn thận và kiên trì.

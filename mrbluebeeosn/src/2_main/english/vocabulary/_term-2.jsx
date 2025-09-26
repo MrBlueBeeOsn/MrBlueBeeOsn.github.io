@@ -6,7 +6,7 @@ export default function Accurately_2() {
 
   <main className="image image2">
     
-    <h4><HashLink smooth to="/english#tinh-chinh-xac-terms"><mark className="highlight2">Tính chính xác</mark></HashLink></h4>
+    <h4><HashLink smooth to="/english#tinh-chinh-xac-terms"><mark className="highlight-tertiary-padding-4-8">Tính chính xác</mark></HashLink></h4>
     
     <h2 className="margin-y-50 text-center">ly
       <sup><Link to="/english/vocabulary/accurately-1">&nbsp;1&nbsp;</Link>
@@ -19,13 +19,13 @@ export default function Accurately_2() {
 
     <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>ly</strong>" và các cụm từ thường đi kèm nhé.</p>
 
-    <div className="text-border1 highlight3 bee-container">
+    <div className="text-border1 highlight-grey-padding-4-8 bee-container">
 
       <div>
 
         <p className="margin-y-20">
           <strong>ly</strong>
-          <span className="highlight4">
+          <span className="highlight-white-padding-4-8">
             /li/ + /<Link to="/english/tienganh/he-thong-7-dau-phu-phien-am-tieng-anh-1">ly</Link>/ 
             <sup>⬤</sup></span> 
             trong tiếng Anh 

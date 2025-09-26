@@ -5,7 +5,7 @@ export default function The_English_Language() {
   return (<>
 
   <main className="image image2">
-    <h4><HashLink smooth to="/english#english-learning-terms"><mark className="highlight2">English</mark></HashLink></h4>
+    <h4><HashLink smooth to="/english#english-learning-terms"><mark className="highlight-tertiary-padding-4-8">English</mark></HashLink></h4>
     
     <h2 className="margin-y-50 text-center">What is the English Language?</h2>
 
