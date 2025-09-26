@@ -23,8 +23,7 @@ export default function Precisely_2() {
 
       <div>
     
-        <p className="margin-y-20">
-
+        <p className="margin-y-10">
           <strong>Precisely</strong>
           <span className="highlight-white-padding-4-8">
             /prɪˈsaɪs.li/ + /<Link to="/english/tienganh/he-thong-7-dau-phu-phien-am-tieng-anh-1">prėcīsely</Link>/

@@ -19,7 +19,7 @@ export default function Exactly_1() {
     
     <p>Tuyệt vời! Chúng ta cùng tìm hiểu về từ "<strong>exactly</strong>" nhé.</p>
 
-    <div className="padding-y-20 text-border1 highlight-grey-padding-4-8 bee-container">
+    <div className="padding-top-20 padding-bottom-10 text-border1 highlight-grey-padding-4-8 bee-container">
 
       <div>
 

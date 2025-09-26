@@ -23,7 +23,7 @@ export default function Scrupulously_2() {
 
       <div>
 
-        <p className="margin-y-20">
+        <p className="margin-y-10">
           <strong>Scrupulously</strong>
           <span className="highlight-white-padding-4-8">
             /ˈskruː.pjə.ləs.li/ + /<Link to="/english/tienganh/he-thong-7-dau-phu-phien-am-tieng-anh-1">scrüpư̇lơusly</Link>/
