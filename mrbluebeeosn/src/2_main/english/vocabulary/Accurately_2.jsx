@@ -24,7 +24,7 @@ export default function Accurately_2() {
       <div>
 
         <p className="margin-y-10">
-          <strong>Accurately</strong>
+          <strong>Accurately </strong>
           <span className="highlight-white-padding-4-8">
             /ˈækjərətli/ + /<Link to="/english/tienganh/he-thong-7-dau-phu-phien-am-tieng-anh-1">accư̇ra̛tely</Link>/ 
             <sup> ⬤••• (4x)</sup></span> 

@@ -24,7 +24,7 @@ export default function Exactly_2() {
       <div>
 
         <p className="margin-y-10">
-          <strong>Exactly</strong>
+          <strong>Exactly </strong>
           <span className="highlight-white-padding-4-8">
             /ɪɡˈzæktli/ + /<Link to="/english/tienganh/he-thong-7-dau-phu-phien-am-tieng-anh-1">ėxactly</Link>/
             <sup> •⬤• (3x)</sup></span> 
