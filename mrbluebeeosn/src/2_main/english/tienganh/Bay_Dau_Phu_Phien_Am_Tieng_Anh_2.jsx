@@ -45,16 +45,16 @@ export default function Bay_Dau_Phu_Phien_Am_Tieng_Anh_2() {
 
       <h4 className="margin-y-50 text-center" id="mac-dinh">1. Mặc định (không dấu) — Nguyên âm ngắn (short vowels)</h4>
 
-    <p className="margin-top-20 text-indent-whole">Giữ aeiou (oo y) làm mặc định cho short vowels để đơn giản:</p>
+    <p className="margin-top-20 text-indent-whole">📌 Giữ aeiou — oo y làm mặc định (short vowels) và ee (long vowel) để đơn giản:</p>
 
     <p className="margin-y-20 text-word-spacing-1">
-      <span className="highlight4">a e i o u (oo y)</span>
+      <span className="highlight4">a e i o u — oo y — ee</span>
     </p>
 
     <p className="text-center">↓</p>
 
     <p className="margin-y-20 text-word-spacing-1">
-      <span className="highlight4">æ e ɪ ɒ/ɑː ʊ (ʊ ɪ)</span>
+      <span className="highlight4">æ e ɪ ɒ/ɑː ʊ — ʊ ɪ — iː</span>
     </p>
 
     <ul className="list-square">
@@ -66,21 +66,7 @@ export default function Bay_Dau_Phu_Phien_Am_Tieng_Anh_2() {
 
       <li>book = book = /bʊk/</li>
       <li>myth = myth = /mɪθ/</li>
-    </ul>
 
-    <p className="margin-top-20 text-indent-whole">Giữ ee làm mặc định cho long vowels để đơn giản:</p>
-
-    <p className="margin-y-20 text-word-spacing-1">
-      <span className="highlight4">ee</span>
-    </p>
-
-    <p className="text-center">↓</p>
-
-    <p className="margin-y-20 text-word-spacing-1">
-      <span className="highlight4">iː</span>
-    </p>
-
-    <ul className="list-square">
       <li>bee = bee = /biː/</li>
     </ul>
 
@@ -94,7 +80,7 @@ export default function Bay_Dau_Phu_Phien_Am_Tieng_Anh_2() {
 
       <h4 className="margin-y-50 text-center" id="macron">2. Macron <mark className="highlight2">¯</mark> — Nguyên âm dài / diphthongs</h4>
 
-      <p className="margin-top-20 text-indent-whole">Dấu ngang trên đầu = âm kéo dài / nguyên âm đôi chính.</p>
+      <p className="margin-top-20 text-indent-whole">📌 Dấu ngang trên đầu = âm kéo dài / nguyên âm đôi chính.</p>
 
       <p className="margin-y-20 text-word-spacing-1">
         <span className="highlight4">ā ē ī ȳ ō ū o͞o</span>
@@ -127,7 +113,7 @@ export default function Bay_Dau_Phu_Phien_Am_Tieng_Anh_2() {
 
       <h4 className="margin-y-50 text-center" id="circumflex">3. Circumflex <mark className="highlight2">ˆ</mark> — Caret vowel /ʌ/</h4>
 
-      <p className="margin-top-20 text-indent-whole">Dùng dấu mũ cho âm caret /ʌ/ (âm giữa, miệng mở vừa).</p>
+      <p className="margin-top-20 text-indent-whole">📌 Dùng dấu mũ cho âm caret /ʌ/ (âm giữa, miệng mở vừa).</p>
 
       <p className="margin-y-20 text-word-spacing-1">
         <span className="highlight4">â ô û</span>
@@ -155,7 +141,7 @@ export default function Bay_Dau_Phu_Phien_Am_Tieng_Anh_2() {
 
       <h4 className="margin-y-50 text-center" id="dot-above">4. Dot above <mark className="highlight2">˙</mark> — Âm /ɪ/ biến thể</h4>
 
-      <p className="margin-top-20 text-indent-whole">Dấu chấm trên để biểu thị các trường hợp chữ viết khác nhưng phát âm là /ɪ/</p>
+      <p className="margin-top-20 text-indent-whole">📌 Dấu chấm trên để biểu thị các trường hợp chữ viết khác nhưng phát âm là /ɪ/</p>
 
       <p className="margin-y-20 text-word-spacing-1">
         <span className="highlight4">ȧ ė i̇ ȯ u̇ ư̇</span>
@@ -187,7 +173,7 @@ export default function Bay_Dau_Phu_Phien_Am_Tieng_Anh_2() {
 
       <h4 className="margin-y-50 text-center" id="hook">5. Hook <mark className="highlight2"> ̛  </mark>&nbsp;— Schwa /ə/ và schwa và schwa + r</h4>
 
-      <p className="margin-top-20 text-indent-whole">Dấu móc (như “ơ”) cho âm trung tính schwa và dạng +r.</p>
+      <p className="margin-top-20 text-indent-whole">📌 Dấu móc (như “ơ”) cho âm trung tính schwa và dạng +r.</p>
 
       <p className="margin-y-20 text-word-spacing-1">
         <span className="highlight4">a̛ e̛ i̛ ơ ư</span>
@@ -234,7 +220,7 @@ export default function Bay_Dau_Phu_Phien_Am_Tieng_Anh_2() {
 
       <h4 className="margin-y-50 text-center" id="umlaut">6. Umlaut / Diaeresis <mark className="highlight2">¨</mark> — Nguyên âm biến đổi</h4>
 
-      <p className="margin-top-20 text-indent-whole">Dùng khi nguyên âm “đặc biệt” (thường là âm dài / vị trí môi/lưỡi khác).</p>
+      <p className="margin-top-20 text-indent-whole">📌 Dùng khi nguyên âm “đặc biệt” (thường là âm dài / vị trí môi/lưỡi khác).</p>
       
       <p className="margin-y-20 text-word-spacing-1">
         <span className="highlight4">ä ë ï ö ü</span>
@@ -264,7 +250,7 @@ export default function Bay_Dau_Phu_Phien_Am_Tieng_Anh_2() {
 
       <h4 className="margin-y-50 text-center" id="double-macron">7. Double Macron <mark className="highlight2">&nbsp; ̄ ̄</mark> — Âm dài đặc biệt và biến thể mở rộng</h4>
 
-      <p className="margin-top-20 text-indent-whole">Biểu thị âm /uː/, /e/</p>
+      <p className="margin-top-20 text-indent-whole">📌 Biểu thị âm /uː/, /e/</p>
 
       <p className="margin-y-20 text-word-spacing-1">
         <span className="highlight4">ō̄ ā̄</span>
@@ -302,7 +288,7 @@ export default function Bay_Dau_Phu_Phien_Am_Tieng_Anh_2() {
 
         <h4 className="margin-y-50 text-center" id="ring">8. Ring <mark className="highlight2">˚</mark> — Âm tròn /ɔː/</h4>
 
-        <p className="margin-top-20 text-indent-whole">Biểu thị một số trường hợp âm /ɔː/ đặc biệt.</p>
+        <p className="margin-top-20 text-indent-whole">📌 Biểu thị một số trường hợp âm /ɔː/ đặc biệt.</p>
 
         <p className="margin-y-20 text-word-spacing-1">
           <span className="highlight4">å</span>
@@ -324,7 +310,7 @@ export default function Bay_Dau_Phu_Phien_Am_Tieng_Anh_2() {
           Notes!
     ============================= */}
 
-    <p>📌 Chú thích:</p>
+    <p>❗Chú thích:</p>
 
       <ul className="list-square">
 

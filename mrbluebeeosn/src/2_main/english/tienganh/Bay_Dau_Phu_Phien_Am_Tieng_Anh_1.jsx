@@ -49,7 +49,7 @@ export default function Bay_Dau_Phu_Phien_Am_Tieng_Anh_1() {
 
       <h4 className="margin-y-50 text-center" id="mac-dinh">1. Mặc định (không dấu) — Nguyên âm ngắn (short vowels)</h4>
 
-      <p>📌 Giữ aeiou (oo y) làm mặc định cho short vowels để đơn giản:</p>
+      <p>📌 Giữ aeiou — oo y làm mặc định (short vowels) và ee (long vowel) để đơn giản:</p>
 
       <table className="margin-y-50">
         <thead>
@@ -93,10 +93,6 @@ export default function Bay_Dau_Phu_Phien_Am_Tieng_Anh_1() {
           <tr>
               <td><strong>y</strong> = /ɪ/</td>
               <td>myth = /mɪθ/</td>
-          </tr>
-
-          <tr>
-              <td colspan="2">Giữ ee làm mặc định cho long vowels để đơn giản:</td>
           </tr>
 
           <tr>
@@ -473,7 +469,7 @@ export default function Bay_Dau_Phu_Phien_Am_Tieng_Anh_1() {
 
     <p className="margin-top-20 text-indent-whole">Gom cả schwa /ə/ và schwa + r (ví dụ he̛r, bi̛rd).</p>
 
-    <p className="margin-top-50">📌 Chú thích:</p>
+    <p className="margin-top-50">❗Chú thích:</p>
 
       <ul className="list-square">
 
