@@ -232,7 +232,7 @@ export default function Bay_Dau_Phu_Phien_Am_Tieng_Anh_1() {
 
           <tr>
               <td><strong>i̇</strong> = /ɪ/</td>
-              <td>fit = /fɪt/</td>
+              <td>fit = /fɪt/ (i có dấu chấm trong fit)</td>
           </tr>
 
           <tr>
@@ -445,15 +445,19 @@ export default function Bay_Dau_Phu_Phien_Am_Tieng_Anh_1() {
 
     <h4 className="margin-top-30">🔹 Ta giữ giản lược:</h4>
 
-    <p className="margin-top-20 text-indent-whole">Short vowels mặc định viết không dấu (a, e, i/y, o, u/oo) và long vowels (ee). Dấu chỉ dùng khi cần phân biệt hoặc cho âm dài/đặc biệt.</p>
+    <p className="margin-top-20 text-indent-whole">Short vowels mặc định viết không dấu (aeiou, oo y) và long vowels (ee). Dấu chỉ dùng khi cần phân biệt hoặc cho âm dài/đặc biệt.</p>
 
-    <h4 className="margin-top-30">🔹 /uː/ và /juː/ được tách rō̄:</h4>
+    <h4 className="margin-top-30">🔹 /uː/ và /juː/ được tách rõ:</h4>
 
     <ul className="list-square">
 
-        <li className="margin-top-20">/uː/ → o͞o, ō̄, ü (food, do, Tuesday)</li>
+        <li className="margin-top-20">o͞o = /uː/ → fo͞od = /fuːd/</li>
 
-        <li>/juː/ → ū (cute)</li>
+        <li>ō̄ = /uː/ → dō̄ = /duː/</li>
+
+        <li>ü = /uː/ → Tüesday = /ˈtuːz.deɪ/</li>
+
+        <li>ū = /juː/ → cūte /kjuːt/</li>
 
       </ul>
 
@@ -491,7 +495,7 @@ export default function Bay_Dau_Phu_Phien_Am_Tieng_Anh_1() {
 
         <li>Các âm khó (schwa /ə/, caret /ʌ/, weak /ɪ/) đều có ký hiệu riêng.</li>
 
-        <li className="margin-bottom-30">Dựa trên dấu tiếng Việt → dễ nhớ, dễ gō̄, dễ học hơn IPA, AHD gốc.</li>
+        <li className="margin-bottom-30">Dựa trên dấu tiếng Việt → dễ nhớ, dễ gõ, dễ học hơn IPA, AHD gốc.</li>
 
       </ul>
 

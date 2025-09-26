@@ -58,14 +58,14 @@ export default function Bay_Dau_Phu_Phien_Am_Tieng_Anh_2() {
     </p>
 
     <ul className="list-square">
-      <li>cat — /cat/ — /kæt/</li>
-      <li>get — /get/ — /get/</li>
-      <li>sit — /sit/ — /sɪt/</li>
-      <li>hot — /hot/ — /hɒt/ (Anh), /hɑːt/ (Mỹ)</li>
-      <li>put — /put/ — /pʊt/</li>
+      <li>cat = cat = /kæt/</li>
+      <li>get = get = /get/</li>
+      <li>sit = sit = /sɪt/</li>
+      <li>hot = hot = /hɒt/ (Anh), /hɑːt/ (Mỹ)</li>
+      <li>put = put = /pʊt/</li>
 
-      <li>book — /book/ — /bʊk/</li>
-      <li>myth — /myth/ — /mɪθ/</li>
+      <li>book = book = /bʊk/</li>
+      <li>myth = myth = /mɪθ/</li>
     </ul>
 
     <p className="margin-top-20 text-indent-whole">Giữ ee làm mặc định cho long vowels để đơn giản:</p>
@@ -81,7 +81,7 @@ export default function Bay_Dau_Phu_Phien_Am_Tieng_Anh_2() {
     </p>
 
     <ul className="list-square">
-      <li>bee — /bee/ — /biː/</li>
+      <li>bee = bee = /biː/</li>
     </ul>
 
     </div>
@@ -103,17 +103,18 @@ export default function Bay_Dau_Phu_Phien_Am_Tieng_Anh_2() {
       <p className="text-center">↓</p>
 
       <p className="margin-y-20 text-word-spacing-1">
-        <span className="highlight4">eɪ iː aɪ aɪ oʊ juː uː</span>
+        <span className="highlight4">eɪ iː aɪ oʊ juː (uː aɪ)</span>
       </p>
 
       <ul className="list-square">
-        <li>cake — /cāke/ — /keɪk/</li>
-        <li>bee — /bēe/ — /bi:/</li>
-        <li>time — /tīme/ — /taɪm/</li>
-        <li>why — /whȳ/ — /waɪ/</li>
-        <li>go — /gō/ — /goʊ/</li>
-        <li>cute — /cūte/ — /kjuːt/</li>
-        <li>food — fo͞od — /fuːd/</li>
+        <li>cake = cāke = /keɪk/</li>
+        <li>he = hē = /hi:/</li>
+        <li>time = tīme = /taɪm/</li>
+        <li>go = gō = /goʊ/</li>
+        <li>cute = cūte = /kjuːt/</li>
+
+        <li>food — fo͞od = /fuːd/</li>
+        <li>why = whȳ = /waɪ/</li>
       </ul>
 
     </div>
@@ -139,9 +140,9 @@ export default function Bay_Dau_Phu_Phien_Am_Tieng_Anh_2() {
       </p>
 
       <ul className="list-square">
-        <li>because — /bėcâuse/ — /bɪˈkʌz/</li>
-        <li>other — /ôther/ — /ˈʌð.ɚ/</li>
-        <li>button — /bûttơn/ — /ˈbʌt.ən/</li>
+        <li>because = bėcâuse = /bɪˈkʌz/</li>
+        <li>other = ôther = /ˈʌð.ɚ/</li>
+        <li>button = bûttơn = /ˈbʌt.ən/</li>
       </ul>
 
     </div>
@@ -152,9 +153,9 @@ export default function Bay_Dau_Phu_Phien_Am_Tieng_Anh_2() {
 
     <div className="margin-y-50 text-border1">
 
-      <h4 className="margin-y-50 text-center" id="dot-above">4. Dot above <mark className="highlight2">˙</mark> — Âm /ɪ/ biến thể & /jə/</h4>
+      <h4 className="margin-y-50 text-center" id="dot-above">4. Dot above <mark className="highlight2">˙</mark> — Âm /ɪ/ biến thể</h4>
 
-      <p className="margin-top-20 text-indent-whole">Dấu chấm trên để biểu thị các trường hợp chữ viết khác nhưng phát âm là /ɪ/ (hoặc /jə/)</p>
+      <p className="margin-top-20 text-indent-whole">Dấu chấm trên để biểu thị các trường hợp chữ viết khác nhưng phát âm là /ɪ/</p>
 
       <p className="margin-y-20 text-word-spacing-1">
         <span className="highlight4">ȧ ė i̇ ȯ u̇ ư̇</span>
@@ -167,13 +168,13 @@ export default function Bay_Dau_Phu_Phien_Am_Tieng_Anh_2() {
       </p>
 
       <ul className="list-square">
-        <li>image — /imȧge/ — /ˈɪm.ɪdʒ/</li>
-        <li>expense — /ėxpense/ — /ɪkˈspens/</li>
-        <li>fit — /fit/ — /fɪt/ (i có dấu chấm trong fit)</li>
-        <li>women — /wȯmėn/ — /ˈwɪm.ɪn/</li>
-        <li>business — /bu̇sinėss/ — /ˈbɪz.nɪs/</li>
-        <li>accurate — /accư̇ra̛te/ — /ˈæk.jɚ.ət/ (âm /jə/ ở âm tiết không nhấn)</li>
-        <li className="list-none">ư̇ = (ư = support + u̇ = business)</li>
+        <li>image = imȧge = /ˈɪm.ɪdʒ/</li>
+        <li>expense = ėxpense = /ɪkˈspens/</li>
+        <li>fit = fit = /fɪt/ (i có dấu chấm trong fit)</li>
+        <li>women = wȯmėn = /ˈwɪm.ɪn/</li>
+        <li>business = bu̇sinėss = /ˈbɪz.nɪs/</li>
+        <li>accurate = accư̇ra̛te = /ˈæk.jɚ.ət/</li>
+        <li className="list-none">u̇+ư = /j+ə/</li>
       </ul>
 
     </div>
@@ -199,11 +200,11 @@ export default function Bay_Dau_Phu_Phien_Am_Tieng_Anh_2() {
       </p>
 
       <ul className="list-square">
-        <li>about — /a̛bout/ — /əˈbaʊt/</li>
-        <li>taken — /tāke̛n/ — /ˈteɪ.kən/</li>
-        <li>pencil — /penci̛l/ — /əˈbaʊt/</li>
-        <li>lemon — /lemơn/ — /ˈlem.ən/</li>
-        <li>support — /sưppört/ — /səˈpɔːrt/</li>
+        <li>about = a̛bout = /əˈbaʊt/</li>
+        <li>taken = tāke̛n = /ˈteɪ.kən/</li>
+        <li>pencil = penci̛l = /əˈbaʊt/</li>
+        <li>lemon = lemơn = /ˈlem.ən/</li>
+        <li>support = sưppört = /səˈpɔːrt/</li>
       </ul>
 
       <p className="margin-y-20 text-word-spacing-1">
@@ -217,10 +218,10 @@ export default function Bay_Dau_Phu_Phien_Am_Tieng_Anh_2() {
       </p>
 
       <ul className="list-square">
-        <li>her — /he̛r/ — /hɝː/</li>
-        <li>bird — /bi̛rd/ — /bɝːd/</li>
-        <li>word — /wơrd/ — /wɝːd/</li>
-        <li>nurse — /nưrse/ — /nɝːs/</li>
+        <li>her = he̛r = /hɝː/</li>
+        <li>bird = bi̛rd = /bɝːd/</li>
+        <li>word = wơrd = /wɝːd/</li>
+        <li>nurse = nưrse = /nɝːs/</li>
       </ul>
 
     </div>
@@ -246,11 +247,11 @@ export default function Bay_Dau_Phu_Phien_Am_Tieng_Anh_2() {
       </p>
 
       <ul className="list-square">
-        <li>car — /cär/ — /kɑːr/</li>
-        <li>autumn — /äutưmn/ — /ˈɑː.t̬əm/</li>
-        <li>pizza — /pïzza̛/ — /ˈpiːt.sə/</li>
-        <li>shore — /shöre/ — /ʃɔːr/</li>
-        <li>Tuesday — /Tüesday — /ˈtuːz.deɪ/ (trường hợp /juː/ hoặc /uː/ tuỳ từ)</li>
+        <li>car = cär = /kɑːr/</li>
+        <li>autumn = äutưmn = /ˈɑː.t̬əm/</li>
+        <li>pizza = pïzza̛ = /ˈpiːt.sə/</li>
+        <li>shore = shöre = /ʃɔːr/</li>
+        <li>Tuesday = Tüesday = /ˈtuːz.deɪ/ (trường hợp /juː/ hoặc /uː/ tuỳ từ)</li>
       </ul>
 
     </div>
@@ -276,15 +277,18 @@ export default function Bay_Dau_Phu_Phien_Am_Tieng_Anh_2() {
       </p>
 
         <ul className="list-square">
-          <li>do — /dō̄/ — /duː/</li>
-          <li className="margin-bottom-20">who — /whō̄/ — /huː/</li>
 
-          <li>square — /skwer/ (<HashLink smooth to="#ga">GA</HashLink>) — /squā̄re/</li>
-          <li className="margin-bottom-50">square — /skwer/ (GA) — /squā̄re/</li>
+          <li>do = dō̄ = /duː/</li>
 
-          <li>genre — /gē̄nre/ — /ˈʒɑːn.rə/</li>
+          <li className="margin-bottom-20">who = /whō̄/ = /huː/</li>
 
-          <li className="margin-bottom-20">bury — /bū̄ry/ — /ˈber.i/</li>
+          <li>square = squā̄re /skweər/ (<HashLink smooth to="#rp">RP</HashLink>) = </li>
+
+          <li className="margin-bottom-50">square =  squā̄re = /skwer/ (<HashLink smooth to="#ga">GA</HashLink>)</li>
+
+          <li>genre = gē̄nre = /ˈʒɑːn.rə/</li>
+
+          <li className="margin-bottom-20">bury = bū̄ry = /ˈber.i/</li>
 
         </ul>
 
@@ -311,7 +315,7 @@ export default function Bay_Dau_Phu_Phien_Am_Tieng_Anh_2() {
         </p>
 
           <ul className="list-square">
-            <li className="margin-bottom-50">war — /wɔːr/ — /war/ (RP)</li>
+            <li className="margin-bottom-50">war = wår = /wɔːr/ (RP)</li>
           </ul>
 
     </div>
@@ -340,9 +344,9 @@ export default function Bay_Dau_Phu_Phien_Am_Tieng_Anh_2() {
 
         <li>Bao phủ toàn bộ <Link to="/english/tienganh/nguyen-am-don#nguyen-am-don">nguyên âm đơn</Link> + <Link to="/english/tienganh/nguyen-am-doi#nguyen-am-doi">nguyên âm đôi</Link>.</li>
 
-        <li>Phân biệt rō̄ /uː/ (o͞o, ō̄, ü) và /juː/ (ū).</li>
+        <li>Phân biệt rõ o͞o, ō̄, ü = /uː/ và ū =/juː/</li>
 
-        <li className="margin-bottom-30">Dựa trên dấu tiếng Việt — dễ nhớ, dễ gō̄, dễ học hơn IPA, AHD gốc.</li>
+        <li className="margin-bottom-30">Dựa trên dấu tiếng Việt — dễ nhớ, dễ gõ, dễ học hơn IPA, AHD gốc.</li>
 
       </ul>
 
