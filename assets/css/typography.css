@@ -62,24 +62,9 @@ p {
   font-size: 1.8rem; /* 18px; */
 }
 
-.text-left,
-p.text-left {
-    text-align: left;
-}
-
-.text-center,
-p.text-center {
-    text-align: center;
-}
-
 .text-justify,
 p.text-justify {
     text-align: justify;
-}
-
-.text-right,
-p.text-right {
-    text-align: right;
 }
 
 .text-indent,
@@ -106,10 +91,14 @@ p.text-letter-spacing-1 {
 
 .text-word-spacing-1,
 p.text-word-spacing-1 {
-    display: flex;
+    display: block;
     word-spacing: 1rem;
     text-align: center;
+}
+
+.text-center-block {
     display: block;
+    text-align: center;
 }
 
 /* =============================
