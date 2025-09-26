@@ -76,8 +76,8 @@ export default function Bay_Dau_Phu_Phien_Am_Tieng_Anh_1() {
           </tr>
 
           <tr>
-              <td><strong>o</strong> = /ɒ/ (Anh), /ɑː/ (Mỹ)</td>
-              <td>hot = /hɒt/ = /hɑːt/</td>
+              <td><strong>o</strong> = /ɑː/ (<HashLink smooth to="#ga">GA</HashLink>) = /ɒ/ (<HashLink smooth to="#rp">RP</HashLink>)</td>
+              <td>hot = /hɑːt/ (<HashLink smooth to="#ga">GA</HashLink>) = /hɒt/ (<HashLink smooth to="#rp">RP</HashLink>)</td>
           </tr>
 
           <tr>
@@ -139,7 +139,7 @@ export default function Bay_Dau_Phu_Phien_Am_Tieng_Anh_1() {
 
           <tr>
               <td><strong>ō</strong> = /oʊ/</td>
-              <td>gō = /ɡoʊ/</td>
+              <td>gō = /ɡoʊ/ (<HashLink smooth to="#ga">GA</HashLink>) = /ɡəʊ/ (<HashLink smooth to="#rp">RP</HashLink>)</td>
           </tr>
 
           <tr>
@@ -242,12 +242,11 @@ export default function Bay_Dau_Phu_Phien_Am_Tieng_Anh_1() {
           </tr>
 
           <tr>
-              <td colspan="2">Phát âm <strong>u̇ + ư + </strong> = /j + ə/</td>
-          </tr>
+              <td><strong>ư̇</strong> = /jə/ <br>
+              </br> 
+              <strong>u̇+ư</strong> = /j+ə/</td>
 
-          <tr>
-              <td><strong>ư̇</strong> = /jə/</td>
-              <td>accư̇ra̛te = /ˈæk.jɚ.ət/</td>
+              <td>accư̇ra̛te = /ˈæk.jɚ.ət/ </td>
           </tr>
         </tbody>
       </table>
@@ -350,7 +349,7 @@ export default function Bay_Dau_Phu_Phien_Am_Tieng_Anh_1() {
 
           <tr>
             <td><strong>ï</strong> = /iː/</td>
-            <td>pïzza = /ˈpiːt.sə/</td>
+            <td>pïzza̛ = /ˈpiːt.sə/</td>
           </tr>
 
           <tr>
@@ -392,7 +391,7 @@ export default function Bay_Dau_Phu_Phien_Am_Tieng_Anh_1() {
 
           <tr>
               <td><strong>ā̄</strong> = /eə/ (<HashLink smooth to="#rp">RP</HashLink>), /e/ (<HashLink smooth to="#ga">GA</HashLink>)</td>
-              <td>squā̄re = /skwer/ (Anh Mỹ), /skweər/ (Anh Anh)</td>
+              <td>squā̄re = /skwer/ (<HashLink smooth to="#ga">GA</HashLink>) = /skweər/ (<HashLink smooth to="#rp">RP</HashLink>)</td>
           </tr>
 
           <tr>
@@ -447,19 +446,15 @@ export default function Bay_Dau_Phu_Phien_Am_Tieng_Anh_1() {
 
     <ul className="list-square">
 
-        <li className="margin-top-20">o͞o = /uː/ → fo͞od = /fuːd/</li>
+        <li className="margin-top-20">fo͞od = /fuːd/, dō̄ = /duː/, Tüesday = /ˈtuːz.deɪ/</li>
 
-        <li>ō̄ = /uː/ → dō̄ = /duː/</li>
+        <li>cūte = /kjuːt/</li>
 
-        <li>ü = /uː/ → Tüesday = /ˈtuːz.deɪ/</li>
-
-        <li>ū = /juː/ → cūte /kjuːt/</li>
-
-      </ul>
+    </ul>
 
     <h4 className="margin-top-30">🔹 o mặc định có hai giá trị theo giọng:</h4>
 
-    <p className="margin-top-20 text-indent-whole">o = /ɒ/ (UK) và /ɑː/ (US).</p>
+    <p className="margin-top-20 text-indent-whole">o = /ɑː/ (US) và /ɒ/ (UK).</p>
 
     <h4 className="margin-top-30">🔹 Dot above (˙)</h4>
 
@@ -473,9 +468,9 @@ export default function Bay_Dau_Phu_Phien_Am_Tieng_Anh_1() {
 
       <ul className="list-square">
 
-        <li id="rp">Trong RP (Received Pronunciation – Anh–Anh): squā̄re phát âm là /eə/.</li>
-
-        <li className="margin-bottom-50" id="ga">Trong GA (General American – Anh–Mỹ): squā̄re thường rút ngắn thành /e/.</li>
+        <li id="ga">Trong GA (General American – Anh–Mỹ)</li>
+        
+        <li className="margin-bottom-50" id="rp">Trong RP (Received Pronunciation – Anh–Anh)</li>
 
       </ul>
 

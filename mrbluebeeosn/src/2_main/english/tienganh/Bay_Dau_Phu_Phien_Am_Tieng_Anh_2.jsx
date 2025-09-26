@@ -58,16 +58,16 @@ export default function Bay_Dau_Phu_Phien_Am_Tieng_Anh_2() {
     </p>
 
     <ul className="list-square">
-      <li>cat = cat = /kæt/</li>
-      <li>get = get = /get/</li>
-      <li>sit = sit = /sɪt/</li>
-      <li>hot = hot = /hɒt/ (Anh), /hɑːt/ (Mỹ)</li>
-      <li>put = put = /pʊt/</li>
+      <li>cat = /kæt/</li>
+      <li>get = /get/</li>
+      <li>sit = /sɪt/</li>
+      <li>hot = /hɑːt/ (<HashLink smooth to="#ga">GA</HashLink>) = /hɒt/ (<HashLink smooth to="#rp">RP</HashLink>)</li>
+      <li>put = /pʊt/</li>
 
-      <li>book = book = /bʊk/</li>
-      <li>myth = myth = /mɪθ/</li>
+      <li>book = /bʊk/</li>
+      <li>myth = /mɪθ/</li>
 
-      <li>bee = bee = /biː/</li>
+      <li>bee = /biː/</li>
     </ul>
 
     </div>
@@ -93,14 +93,14 @@ export default function Bay_Dau_Phu_Phien_Am_Tieng_Anh_2() {
       </p>
 
       <ul className="list-square">
-        <li>cake = cāke = /keɪk/</li>
-        <li>he = hē = /hi:/</li>
-        <li>time = tīme = /taɪm/</li>
-        <li>go = gō = /goʊ/</li>
+        <li>cāke = /keɪk/</li>
+        <li>hē = /hi:/</li>
+        <li>tīme = /taɪm/</li>
+        <li>gō = /ɡoʊ/ (<HashLink smooth to="#ga">GA</HashLink>) = /ɡəʊ/ (<HashLink smooth to="#rp">RP</HashLink>)</li>
         <li>cute = cūte = /kjuːt/</li>
 
-        <li>food — fo͞od = /fuːd/</li>
-        <li>why = whȳ = /waɪ/</li>
+        <li>fo͞od = /fuːd/</li>
+        <li>whȳ = /waɪ/</li>
       </ul>
 
     </div>
@@ -126,9 +126,9 @@ export default function Bay_Dau_Phu_Phien_Am_Tieng_Anh_2() {
       </p>
 
       <ul className="list-square">
-        <li>because = bėcâuse = /bɪˈkʌz/</li>
-        <li>other = ôther = /ˈʌð.ɚ/</li>
-        <li>button = bûttơn = /ˈbʌt.ən/</li>
+        <li>bėcâuse = /bɪˈkʌz/</li>
+        <li>ôther = /ˈʌð.ɚ/</li>
+        <li>bûttơn = /ˈbʌt.ən/</li>
       </ul>
 
     </div>
@@ -154,12 +154,12 @@ export default function Bay_Dau_Phu_Phien_Am_Tieng_Anh_2() {
       </p>
 
       <ul className="list-square">
-        <li>image = imȧge = /ˈɪm.ɪdʒ/</li>
-        <li>expense = ėxpense = /ɪkˈspens/</li>
-        <li>fit = fit = /fɪt/ (i có dấu chấm trong fit)</li>
-        <li>women = wȯmėn = /ˈwɪm.ɪn/</li>
-        <li>business = bu̇sinėss = /ˈbɪz.nɪs/</li>
-        <li>accurate = accư̇ra̛te = /ˈæk.jɚ.ət/</li>
+        <li>imȧge = /ˈɪm.ɪdʒ/</li>
+        <li>ėxpense = /ɪkˈspens/</li>
+        <li>fit = /fɪt/ (i có dấu chấm trong fit)</li>
+        <li>wȯmėn = /ˈwɪm.ɪn/</li>
+        <li>bu̇sinėss = /ˈbɪz.nɪs/</li>
+        <li>accư̇ra̛te = /ˈæk.jɚ.ət/</li>
         <li className="list-none">u̇+ư = /j+ə/</li>
       </ul>
 
@@ -186,11 +186,11 @@ export default function Bay_Dau_Phu_Phien_Am_Tieng_Anh_2() {
       </p>
 
       <ul className="list-square">
-        <li>about = a̛bout = /əˈbaʊt/</li>
-        <li>taken = tāke̛n = /ˈteɪ.kən/</li>
-        <li>pencil = penci̛l = /əˈbaʊt/</li>
-        <li>lemon = lemơn = /ˈlem.ən/</li>
-        <li>support = sưppört = /səˈpɔːrt/</li>
+        <li>a̛bout = /əˈbaʊt/</li>
+        <li>tāke̛n = /ˈteɪ.kən/</li>
+        <li>penci̛l = /əˈbaʊt/</li>
+        <li>lemơn = /ˈlem.ən/</li>
+        <li>sưppört = /səˈpɔːrt/</li>
       </ul>
 
       <p className="margin-y-20 text-word-spacing-1">
@@ -204,10 +204,10 @@ export default function Bay_Dau_Phu_Phien_Am_Tieng_Anh_2() {
       </p>
 
       <ul className="list-square">
-        <li>her = he̛r = /hɝː/</li>
-        <li>bird = bi̛rd = /bɝːd/</li>
-        <li>word = wơrd = /wɝːd/</li>
-        <li>nurse = nưrse = /nɝːs/</li>
+        <li>he̛r = /hɝː/</li>
+        <li>bi̛rd = /bɝːd/</li>
+        <li>wơrd = /wɝːd/</li>
+        <li>nưrse = /nɝːs/</li>
       </ul>
 
     </div>
@@ -233,11 +233,11 @@ export default function Bay_Dau_Phu_Phien_Am_Tieng_Anh_2() {
       </p>
 
       <ul className="list-square">
-        <li>car = cär = /kɑːr/</li>
-        <li>autumn = äutưmn = /ˈɑː.t̬əm/</li>
-        <li>pizza = pïzza̛ = /ˈpiːt.sə/</li>
-        <li>shore = shöre = /ʃɔːr/</li>
-        <li>Tuesday = Tüesday = /ˈtuːz.deɪ/ (trường hợp /juː/ hoặc /uː/ tuỳ từ)</li>
+        <li>cär = /kɑːr/</li>
+        <li>äutưmn = /ˈɑː.t̬əm/</li>
+        <li>pïzza̛ = /ˈpiːt.sə/</li>
+        <li>shöre = /ʃɔːr/</li>
+        <li>Tüesday = /ˈtuːz.deɪ/ (trường hợp /juː/ hoặc /uː/ tuỳ từ)</li>
       </ul>
 
     </div>
@@ -264,17 +264,17 @@ export default function Bay_Dau_Phu_Phien_Am_Tieng_Anh_2() {
 
         <ul className="list-square">
 
-          <li>do = dō̄ = /duː/</li>
+          <li>dō̄ = /duː/</li>
 
           <li className="margin-bottom-20">who = /whō̄/ = /huː/</li>
 
-          <li>square = squā̄re /skweər/ (<HashLink smooth to="#rp">RP</HashLink>) = </li>
+          <li>squā̄re /skweər/ (<HashLink smooth to="#rp">RP</HashLink>) = </li>
 
-          <li className="margin-bottom-50">square =  squā̄re = /skwer/ (<HashLink smooth to="#ga">GA</HashLink>)</li>
+          <li className="margin-bottom-50">squā̄re = /skwer/ (<HashLink smooth to="#ga">GA</HashLink>)</li>
 
-          <li>genre = gē̄nre = /ˈʒɑːn.rə/</li>
+          <li>gē̄nre = /ˈʒɑːn.rə/</li>
 
-          <li className="margin-bottom-20">bury = bū̄ry = /ˈber.i/</li>
+          <li className="margin-bottom-20">bū̄ry = /ˈber.i/</li>
 
         </ul>
 
@@ -301,7 +301,7 @@ export default function Bay_Dau_Phu_Phien_Am_Tieng_Anh_2() {
         </p>
 
           <ul className="list-square">
-            <li className="margin-bottom-50">war = wår = /wɔːr/ (RP)</li>
+            <li className="margin-bottom-50">wår = /wɔːr/ (RP)</li>
           </ul>
 
     </div>
@@ -314,9 +314,9 @@ export default function Bay_Dau_Phu_Phien_Am_Tieng_Anh_2() {
 
       <ul className="list-square">
 
-        <li id="rp">Trong RP (Received Pronunciation – Anh–Anh): square phát âm là /eə/.</li>
-
-        <li className="margin-bottom-50" id="ga">Trong GA (General American – Anh–Mỹ): square thường rút ngắn thành /e/.</li>
+        <li id="ga">Trong GA (General American – Anh–Mỹ)</li>
+        
+        <li className="margin-bottom-50" id="rp">Trong RP (Received Pronunciation – Anh–Anh)</li>
 
       </ul>
 
@@ -330,7 +330,7 @@ export default function Bay_Dau_Phu_Phien_Am_Tieng_Anh_2() {
 
         <li>Bao phủ toàn bộ <Link to="/english/tienganh/nguyen-am-don#nguyen-am-don">nguyên âm đơn</Link> + <Link to="/english/tienganh/nguyen-am-doi#nguyen-am-doi">nguyên âm đôi</Link>.</li>
 
-        <li>Phân biệt rõ o͞o, ō̄, ü = /uː/ và ū =/juː/</li>
+        <li>Phân biệt rõ fo͞od = /fuːd/, dō̄ = /duː/, Tüesday = /ˈtuːz.deɪ/ và cūte = /kjuːt/</li>
 
         <li className="margin-bottom-30">Dựa trên dấu tiếng Việt — dễ nhớ, dễ gõ, dễ học hơn IPA, AHD gốc.</li>
 

@@ -9,9 +9,9 @@ export default function Nguyen_Am_Don() {
     <h4><HashLink smooth to="/english#tieng-anh-terms"><mark className="highlight-tertiary-padding-4-8">Tiếng Anh</mark></HashLink></h4>
 
     <h2 className="margin-y-50 text-center">📌 BẢNG TỔNG HỢP NGUYÊN ÂM ĐƠN
-      <sup><Link to="/english/tienganh/nguyen-am-don">&nbsp;1&nbsp;</Link>
+      <sup><HashLink smooth to="/english/tienganh/nguyen-am-don">&nbsp;1&nbsp;</HashLink>
       </sup>
-      <sup><Link to="/english/tienganh/nguyen-am-doi">&nbsp;2&nbsp;</Link>
+      <sup><HashLink smooth to="/english/tienganh/nguyen-am-doi">&nbsp;2&nbsp;</HashLink>
       </sup>
       <p className="text-center">(gọn, để tra cứu)</p>
     </h2>
@@ -33,62 +33,62 @@ export default function Nguyen_Am_Don() {
 
           <tr>
             <td>/æ/</td>
-            <td>a = cat</td>
+            <td>cat = /kæt/</td>
           </tr>
 
           <tr>
-            <td>/e/ (<Link to="#ga">GA</Link>), /eə/ (<Link to="#rp">RP</Link>)</td>
-            <td>e = bed; ā̄ = square; ū̄ = bury</td>
+            <td>/e/ (<HashLink smooth to="#ga">GA</HashLink>), /eə/ (<HashLink smooth to="#rp">RP</HashLink>)</td>
+            <td>bed = /bed/; squā̄re = /skwer/ (<HashLink smooth to="#ga">GA</HashLink>) = /skweər/ (<HashLink smooth to="#rp">RP</HashLink>)= ; bū̄ry = /ˈber.i/</td>
           </tr>
 
           <tr>
             <td>/ɪ/</td>
-            <td>i = sit; y = myth; ȧ = image; i̇ = fit; ȯ = women; u̇ = business</td>
+            <td>sit = /sɪt/; myth = /mɪθ/; imȧge = /ˈɪm.ɪdʒ/; fit = fɪt/; wȯmėn = /ˈwɪm.ɪn/; bu̇sinėss = /ˈbɪz.nɪs/</td>
           </tr>
      
           <tr>
             <td>/iː/</td>
-            <td>ee = bee; ē = he; ï = pizza</td>
+            <td>bee = /biː/; hē = /hiː/; pïzza̛ = /ˈpiːt.sə/</td>
           </tr>
 
           <tr>
-            <td>/ɒ/ (RP), /ɑː/ (GA)</td>
-            <td>o = hot</td>
+            <td>/ɑː/ (<HashLink smooth to="#ga">GA</HashLink>) = /ɒ/ (<HashLink smooth to="#rp">RP</HashLink>)</td>
+            <td>hot = /hɑːt/ (<HashLink smooth to="#ga">GA</HashLink>) = /hɒt/ (<HashLink smooth to="#rp">RP</HashLink>)</td>
           </tr>
 
           <tr>
             <td>/ʌ/</td>
-            <td>â = because; ô = other; û = sun</td>
+            <td>bėcâuse = /bɪˈkʌz/; ôthe̛r = /ˈʌð.ɚ/; sûn = /sʌn/</td>
           </tr>
 
           <tr>
             <td>/ʊ/</td>
-            <td>u = put; oo = book</td>
+            <td>put = /pʊt/; book = /bʊk/</td>
           </tr>
 
           <tr>
             <td>/uː/</td>
-            <td>o͞o = food; ō̄ = do; ü = Tuesday</td>
+            <td>fo͞od = /fuːd/; dō̄ = /duː/; Tüesday = /ˈtuːz.deɪ/</td>
           </tr>
 
           <tr>
             <td>/ɔː/</td>
-            <td>ö = shore; å = war</td>
+            <td>shöre = /ʃɔːr/; wår = /wɔːr/</td>
           </tr>
 
           <tr>
             <td>/ɑː/</td>
-            <td>ä = car; ē̄ = genre</td>
+            <td>cär = /kɑːr/; gē̄nre = /ˈʒɑːn.rə/</td>
           </tr>
 
           <tr>
             <td>/ə/</td>
-            <td>a̛ = about, e̛ = taken, i̛ = pencil, ơ = lemon, ư = support</td>
+            <td>a̛bout = /əˈbaʊt/, tāke̛n = /ˈteɪ.kən/, penci̛l = /ˈpen.səl/, lemơn = /ˈlem.ən/, sưppört = /səˈpɔːrt/</td>
           </tr>
 
           <tr>
             <td>/ɜːr/</td>
-            <td>e̛r = her, i̛r = bird, ơr = word, ưr =nurse</td>
+            <td>he̛r = /hɝː/, bi̛rd = /bɝːd/, wơrd = /wɝːd/, nưrse = /nɝːs/</td>
           </tr>
 
         </tbody>
@@ -100,9 +100,9 @@ export default function Nguyen_Am_Don() {
 
         <ul className="list-square">
 
-          <li>Trong RP (Received Pronunciation – Anh–Anh): square phát âm là /eə/.</li>
-
-          <li className="margin-bottom-50" id="ga">Trong GA (General American – Anh–Mỹ): square thường rút ngắn thành /e/.</li>
+          <li id="ga">Trong GA (General American – Anh–Mỹ)</li>
+          
+          <li className="margin-bottom-50" id="rp">Trong RP (Received Pronunciation – Anh–Anh)</li>
 
         </ul>
 
