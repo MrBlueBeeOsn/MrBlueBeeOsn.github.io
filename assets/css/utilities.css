@@ -238,13 +238,11 @@ code {
 .text-border1 {
     border: 2px, solid var(--tertiary-color);
     border-radius: 5px; /* Bo tròn các góc */
-    padding: 1.0rem;              /* 10px */ /* Thêm khoảng đệm bên trong  */
 }
 
 .text-border2 {
     border: 3px, solid var(--tertiary-color);
     border-radius: 5px; /* Bo tròn các góc */
-    padding: 1.0rem;              /* 10px */ /* Thêm khoảng đệm bên trong  */
 }
 
 .code-background {
@@ -425,6 +423,40 @@ h6.margin-y-10 {
     margin-top: 1.0rem;     /* 10px */
 }
 
+.margin-top-5,
+p.margin-top-5,
+h1.margin-top-5,
+h2.margin-top-5,
+h3.margin-top-5,
+h4.margin-top-5,
+h5.margin-top-5,
+h6.margin-top-5 {
+    margin-top: 0.5rem;     /* 5px */
+}
+
+.margin-bottom-5,
+p.margin-bottom-5,
+h1.margin-bottom-5,
+h2.margin-bottom-5,
+h3.margin-bottom-5,
+h4.margin-bottom-5,
+h5.margin-bottom-5,
+h6.margin-bottom-5 {
+    margin-bottom: 0.5rem;     /* 5px */
+}
+
+.margin-y-5,
+p.margin-y-5,
+h1.margin-y-5,
+h2.margin-y-5,
+h3.margin-y-5,
+h4.margin-y-5,
+h5.margin-y-5,
+h6.margin-y-5 {
+    margin-bottom: 0.5rem;     /* 5px */
+    margin-top: 0.5rem;     /* 5px */
+}
+
 /* =============================
   padding
 ============================= */
@@ -599,6 +631,44 @@ h6.padding-y-10 {
     padding-top: 1.0rem;     /* 10px */
 }
 
+.padding-top-5,
+p.padding-top-5,
+h1.padding-top-5,
+h2.padding-top-5,
+h3.padding-top-5,
+h4.padding-top-5,
+h5.padding-top-5,
+h6.padding-top-5 {
+    padding-top: 0.5rem;     /* 5px */
+}
+
+.padding-bottom-5,
+p.padding-bottom-5,
+h1.padding-bottom-5,
+h2.padding-bottom-5,
+h3.padding-bottom-5,
+h4.padding-bottom-5,
+h5.padding-bottom-5,
+h6.padding-bottom-5 {
+    padding-bottom: 0.5rem;     /* 5px */
+}
+
+.padding-y-5,
+p.padding-y-5,
+h1.padding-y-5,
+h2.padding-y-5,
+h3.padding-y-5,
+h4.padding-y-5,
+h5.padding-y-5,
+h6.padding-y-5 {
+    padding-bottom: 0.5rem;     /* 5px */
+    padding-top: 0.5rem;     /* 5px */
+}
+
 .padding-left-40 {
     padding-left: 4.0rem;     /* 10px */
+}
+
+.padding-10 {
+    padding: 1.0rem;     /* 10px */
 }
