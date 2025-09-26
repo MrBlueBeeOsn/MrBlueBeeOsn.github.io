@@ -463,23 +463,23 @@ export default function Bay_Dau_Phu_Phien_Am_Tieng_Anh_1() {
 
     <h4 className="margin-top-30">🔹 o mặc định có hai giá trị theo giọng:</h4>
 
-    <p className="margin-top-20 text-indent-whole">/ɒ/ (UK) và /ɑː/ (US).</p>
+    <p className="margin-top-20 text-indent-whole">o = /ɒ/ (UK) và /ɑː/ (US).</p>
 
     <h4 className="margin-top-30">🔹 Dot above (˙)</h4>
 
-    <p className="margin-top-20 text-indent-whole">Là nơi đặt nhiều biến thể “chữ viết khác → phát âm /ɪ/” (image, women, business, fit, expense...), và ư̇ cho /jə/ (accurate).</p>
+    <p className="margin-top-20 text-indent-whole">Là nơi đặt nhiều biến thể “chữ viết khác → phát âm /ɪ/” (imȧge, wȯmėn, bu̇sinėss, fit, ėxpense...), và ư̇ cho /jə/ (accư̇ra̛te).</p>
 
     <h4 className="margin-top-30">🔹 Hook (dấu móc)</h4>
 
-    <p className="margin-top-20 text-indent-whole">Gom cả schwa /ə/ và schwa + r (ví dụ her, bird).</p>
+    <p className="margin-top-20 text-indent-whole">Gom cả schwa /ə/ và schwa + r (ví dụ he̛r, bi̛rd).</p>
 
     <p className="margin-top-50">📌 Chú thích:</p>
 
       <ul className="list-square">
 
-        <li id="rp">Trong RP (Received Pronunciation – Anh–Anh): square phát âm là /eə/.</li>
+        <li id="rp">Trong RP (Received Pronunciation – Anh–Anh): squā̄re phát âm là /eə/.</li>
 
-        <li className="margin-bottom-50" id="ga">Trong GA (General American – Anh–Mỹ): square thường rút ngắn thành /e/.</li>
+        <li className="margin-bottom-50" id="ga">Trong GA (General American – Anh–Mỹ): squā̄re thường rút ngắn thành /e/.</li>
 
       </ul>
 
