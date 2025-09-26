@@ -117,7 +117,7 @@ button:hover {
 .bee-wrapper {
     position: absolute; /* Định vị tuyệt đối */
     top: 40px; /* 15px; Gắn sát góc trên */
-    right: -50px;
+    right: -45px;
     width: 150px; /* Kích thước hình ảnh */
     height: auto;
     transform: translateY(-50%); /* Căn giữa theo chiều dọc */
