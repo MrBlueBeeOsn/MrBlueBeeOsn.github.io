@@ -219,7 +219,7 @@
             .bee-wrapper {
                 position: absolute; /* Định vị tuyệt đối */
                 top: 35px; /* 15px Gắn sát góc trên */
-                right: -45px;
+                right: -40px;
                 width: 130px; /* Kích thước hình ảnh */
                 height: auto;
                 opacity: 27%;
@@ -328,7 +328,7 @@
             .bee-wrapper {
                 position: absolute; /* Định vị tuyệt đối */
                 top: 34px; /* 14px Gắn sát góc trên */
-                right: -40px;
+                right: -35px;
                 width: 120px; /* Kích thước hình ảnh */
                 height: auto;
                 opacity: 25%;
