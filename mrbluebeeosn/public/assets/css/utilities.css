@@ -40,7 +40,7 @@
 .highlight {
     background-color: var(--tertiary-color); /* Sage nhạt hơn*/
     color: #333;
-    padding: 4px 8px;
+    padding: 2px 4px;
     border-radius: 3px;
 }
 
@@ -85,8 +85,8 @@
 .highlight6 {
     background-color: white; /* Grey rất nhạt*/
     color: #333;
-    padding: 4px 4px;
-    border-radius: 3px;
+    padding: 0px 4px;
+    border-radius: 2px;
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
 }
 
