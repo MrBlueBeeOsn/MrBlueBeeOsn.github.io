@@ -21,7 +21,7 @@ export default function Bay_Dau_Phu_Phien_Am_Tieng_Anh_1() {
     
     <p>Hệ thống ký hiệu nguyên âm này giúp đơn giản hóa việc học phát âm tiếng Anh.</p>
 
-    <h4 className="margin-y-50 text-center">Giới thiệu hệ thống</h4>
+    <h4 className="margin-y-50 text-center">Giới thiệu</h4>
 
     <p>Hệ thống này gồm:</p>
 
