@@ -25,10 +25,9 @@ export default function Painstakingly_2() {
 
         <p className="margin-y-10">
           <strong>Painstakingly </strong>
-          <span className="highlight-white-padding-4-8">
+          <span className="highlight-white-padding-3-6">
             /ˈpeɪnzˌteɪ.kɪŋ.li/ + /<Link to="/english/tienganh/he-thong-7-dau-phu-phien-am-tieng-anh-1">pāinstākingly</Link>/
-            <sup> ⬤••• (4x)</sup></span> 
-            thường được dùng để mô tả một hành động hoặc quá trình được thực hiện một cách tỉ mỉ, cẩn thận, đòi hỏi nhiều công sức và sự chú ý đến từng chi tiết.
+            <sup> ⬤••• (4x)</sup></span> thường được dùng để mô tả một hành động hoặc quá trình được thực hiện một cách tỉ mỉ, cẩn thận, đòi hỏi nhiều công sức và sự chú ý đến từng chi tiết.
         </p>
 
       </div>

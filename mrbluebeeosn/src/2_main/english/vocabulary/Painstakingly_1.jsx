@@ -28,7 +28,7 @@ export default function Painstakingly_1() {
         <ul className="list-square padding-left-40">
             
           <li>
-            <span className="highlight-white-padding-4-8">
+            <span className="highlight-white-padding-3-6">
               /ˈpeɪnzˌteɪ.kɪŋ.li/ + /<Link to="/english/tienganh/he-thong-7-dau-phu-phien-am-tieng-anh-1">pāinstākingly</Link>/
               <sup> ⬤••• (4x)</sup>
             </span>

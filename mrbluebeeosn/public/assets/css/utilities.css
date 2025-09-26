@@ -93,6 +93,14 @@
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
 }
 
+.highlight-white-padding-3-6 {
+    background-color: white; /* Grey rất nhạt*/
+    color: #333;
+    padding: 3px 6px;
+    border-radius: 2px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
 .highlight-white-padding-4-8 {
     background-color: white; /* Grey rất nhạt*/
     color: #333;

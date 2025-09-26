@@ -25,10 +25,9 @@ export default function Exactly_2() {
 
         <p className="margin-y-10">
           <strong>Exactly </strong>
-          <span className="highlight-white-padding-4-8">
+          <span className="highlight-white-padding-3-6">
             /ɪɡˈzæktli/ + /<Link to="/english/tienganh/he-thong-7-dau-phu-phien-am-tieng-anh-1">ėxactly</Link>/
-            <sup> •⬤• (3x)</sup></span> 
-            trong tiếng Anh có nghĩa là "chính xác", "đúng như vậy", thường được dùng để nhấn mạnh sự chính xác, cụ thể hoặc sự đồng tình hoàn toàn với một ý kiến nào đó.
+            <sup> •⬤• (3x)</sup></span> trong tiếng Anh có nghĩa là "chính xác", "đúng như vậy", thường được dùng để nhấn mạnh sự chính xác, cụ thể hoặc sự đồng tình hoàn toàn với một ý kiến nào đó.
         </p>
 
       </div>

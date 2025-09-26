@@ -25,10 +25,9 @@ export default function Accurately_2() {
 
         <p className="margin-y-10">
           <strong>ly </strong>
-          <span className="highlight-white-padding-4-8">
+          <span className="highlight-white-padding-3-6">
             /li/ + /<Link to="/english/tienganh/he-thong-7-dau-phu-phien-am-tieng-anh-1">ly</Link>/ 
-            <sup> ⬤</sup></span> 
-            trong tiếng Anh 
+            <sup> ⬤</sup></span> trong tiếng Anh 
         </p>
 
       </div>

@@ -25,7 +25,7 @@ export default function Thoroughly_2() {
 
         <p className="margin-y-10">
           <strong>Thoroughly </strong>
-          <span className="highlight-white-padding-4-8">
+          <span className="highlight-white-padding-3-6">
             /ˈθʌrəli/ + /<Link to="/english/tienganh/he-thong-7-dau-phu-phien-am-tieng-anh-1">thôrơughly</Link>/
             <sup> ⬤•• (3x)</sup></span> thường được sử dụng để nhấn mạnh tính kỹ lưỡng, hoàn toàn, triệt để của một hành động hoặc quá trình nào đó.
         </p>

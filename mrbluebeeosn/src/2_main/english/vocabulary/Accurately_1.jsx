@@ -28,7 +28,7 @@ export default function Accurately_1() {
         <ul className="list-square padding-left-40">
 
           <li>
-            <span className="highlight-white-padding-4-8">
+            <span className="highlight-white-padding-3-6">
               /ˈækjərətli/ + /<Link to="/english/tienganh/he-thong-7-dau-phu-phien-am-tieng-anh-1">accư̇ra̛tely</Link>/
               <sup> ⬤••• (4x)</sup>
             </span>
