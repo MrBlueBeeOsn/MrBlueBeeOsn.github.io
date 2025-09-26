@@ -88,7 +88,7 @@ export default function Thoroughly_2() {
           Lưu ý:
     ============================= */}
 
-    <div className="text-border2">
+    <div className="text-border1">
 
       <h4 className="margin-y-30 text-center">Lưu ý:</h4>
 

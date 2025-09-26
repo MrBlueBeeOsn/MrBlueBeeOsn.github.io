@@ -29,7 +29,7 @@ export default function Bay_Dau_Phu_Phien_Am_Tieng_Anh_1() {
 
         <li>1 nhóm <HashLink smooth to="#mac-dinh">mặc định</HashLink> (không dấu) – các nguyên âm cơ bản.</li>
 
-        <li>7 loại dấu phụ: <HashLink smooth to="#macron">Macron</HashLink>, <HashLink smooth to="#circumflex">Circumflex</HashLink>, <HashLink smooth to="#dot-above">Dot Above</HashLink>, <HashLink smooth to="#hook">Hook</HashLink>, <HashLink smooth to="#umlaut">Umlaut</HashLink>, <HashLink smooth to="#tilde">Tilde</HashLink>, <HashLink smooth to="#ring">Ring</HashLink>.</li>
+        <li>7 loại dấu phụ: <HashLink smooth to="#macron">Macron</HashLink>, <HashLink smooth to="#circumflex">Circumflex</HashLink>, <HashLink smooth to="#dot-above">Dot Above</HashLink>, <HashLink smooth to="#hook">Hook</HashLink>, <HashLink smooth to="#umlaut">Umlaut</HashLink>, <HashLink smooth to="#double-macron">Double Macron</HashLink>, <HashLink smooth to="#ring">Ring</HashLink>.</li>
 
         <li>Bảng tổng hợp <Link to="/english/tienganh/nguyen-am-don">nguyên âm đơn</Link></li>
 
@@ -45,197 +45,399 @@ export default function Bay_Dau_Phu_Phien_Am_Tieng_Anh_1() {
       1. Mặc định (không dấu) — Nguyên âm ngắn (short vowels)
     ============================= */}
 
-    <h4 className="margin-y-50 text-center" id="mac-dinh">1. Mặc định (không dấu) — Nguyên âm ngắn (short vowels)</h4>
+    <div className="margin-y-50 table-container">
 
-    <p>Giữ a, e, i/y, o, u/oo làm mặc định cho short vowels để đơn giản:</p>
+      <h4 className="margin-y-50 text-center" id="mac-dinh">1. Mặc định (không dấu) — Nguyên âm ngắn (short vowels)</h4>
 
-      <ul className="list-square">
+      <p>📌 Giữ aeiou (oo y) làm mặc định cho short vowels để đơn giản:</p>
 
-        <li><strong>a</strong> = /æ/ — cat</li>
+      <table className="margin-y-50">
+        <thead>
+          <tr>
+            <th>Ký hiệu = /IPA/</th>
+            <th>Ví dụ</th>
+          </tr>
+        </thead>
 
-        <li><strong>e</strong> = /ɛ/ — bed</li>
+        <tbody>
+          <tr>
+              <td><strong>a</strong> = /æ/</td>
+              <td>cat = /kæt/</td>
+          </tr>
+          
+          <tr>
+              <td><strong>e</strong> = /e/</td>
+              <td>bed = /bed/</td>
+          </tr>
 
-        <li><strong>i</strong> = /ɪ/ — sit</li>
+          <tr>
+              <td><strong>i</strong> = /ɪ/</td>
+              <td>sit = /sɪt/</td>
+          </tr>
 
-        <li><strong>y</strong> = /ɪ/ — myth</li>
+          <tr>
+              <td><strong>o</strong> = /ɒ/ (Anh), /ɑː/ (Mỹ)</td>
+              <td>hot = /hɒt/ = /hɑːt/</td>
+          </tr>
 
-        <li><strong>o</strong> = /ɒ/ (Anh), /ɑː/ (Mỹ) - hot</li>
+          <tr>
+              <td><strong>u</strong> = /ʊ/</td>
+              <td>put = /pʊt/</td>
+          </tr>
 
-        <li><strong>u</strong> = /ʊ/ — put</li>
+          <tr>
+              <td><strong>oo</strong> = /ʊ/</td>
+              <td>book = /bʊk/, good = /ɡʊd/</td>
+          </tr>
 
-        <li><strong>oo</strong> = /ʊ/ — book, good</li>
+          <tr>
+              <td><strong>y</strong> = /ɪ/</td>
+              <td>myth = /mɪθ/</td>
+          </tr>
 
-      </ul>
+          <tr>
+              <td colspan="2">Giữ ee làm mặc định cho long vowels để đơn giản:</td>
+          </tr>
 
-      <p className="margin-top-20">Giữ ee làm mặc định cho long vowels để đơn giản:</p>
-
-      <ul className="list-square">
-
-        <li><strong>ee</strong> = /iː/ — bee</li>
-
-      </ul>
+          <tr>
+              <td><strong>ee</strong> = /iː/</td>
+              <td>bee = /biː/</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
     
     {/* =============================
          2. Macron (¯) — Nguyên âm dài / diphthongs
     ============================= */}
 
-    <h4 className="margin-y-50 text-center" id="macron">2. Macron (¯) — Nguyên âm dài / diphthongs</h4>
-  
-    <p>Dấu ngang trên đầu = âm kéo dài / nguyên âm đôi chính.</p>
+    <div className="margin-y-50 table-container">
 
-      <ul className="list-square">
+      <h4 className="margin-y-50 text-center" id="macron">2. Macron (¯) — Nguyên âm dài / diphthongs</h4>
 
-        <li><strong>ā</strong> = /eɪ/ — cake</li>
+      <p>📌 Dấu ngang trên đầu = âm kéo dài / nguyên âm đôi chính.</p>
 
-        <li><strong>ē</strong> = /iː/ — he</li>
+      <table className="margin-y-50">
+        <thead>
+          <tr>
+            <th>Ký hiệu = /IPA/</th>
+            <th>Ví dụ</th>
+          </tr>
+        </thead>
 
-        <li><strong>ī</strong> = /aɪ/ — time</li>
+        <tbody>
+          <tr>
+              <td><strong>ā</strong> = /eɪ/</td>
+              <td>cāke = /keɪk/</td>
+          </tr>
+          
+          <tr>
+              <td><strong>ē</strong> = /iː/</td>
+              <td>hē = /hiː/</td>
+          </tr>
 
-        <li><strong>ȳ</strong> = /aɪ/ — why (phân biệt hình thức viết)</li>
+          <tr>
+              <td><strong>ī</strong> = /aɪ/</td>
+              <td>tīme = /taɪm/</td>
+          </tr>
 
-        <li><strong>ō</strong> = /oʊ/ — go</li>
+          <tr>
+              <td><strong>ō</strong> = /oʊ/</td>
+              <td>gō = /ɡoʊ/</td>
+          </tr>
 
-        <li><strong>ū</strong> = /juː/ — cute (âm bắt đầu bằng /j/)</li>
+          <tr>
+              <td><strong>ū</strong> = /juː/</td>
+              <td>cūte = /kjuːt/</td>
+          </tr>
 
-        <li><strong>o͞o</strong> = /uː/ — food, school (ký hiệu “oo” với macron)</li>
+          <tr>
+              <td><strong>o͞o</strong> = /uː/</td>
+              <td>fo͞od = /fuːd/, scho͞ol = /skuːl/</td>
+          </tr>
 
-      </ul>
+          <tr>
+              <td><strong>ȳ</strong> = /aɪ/</td>
+              <td>whȳ = /waɪ/</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
 
     {/* =============================
         3. Circumflex (ˆ) — Caret vowel /ʌ/
     ============================= */}
-    
-    <h4 className="margin-y-50 text-center" id="circumflex">3. Circumflex (ˆ) — Caret vowel /ʌ/</h4>
 
-    <p>Dùng dấu mũ cho âm caret /ʌ/ (âm giữa, miệng mở vừa).</p>
+    <div className="margin-y-50 table-container">
 
-      <ul className="list-square">
+      <h4 className="margin-y-50 text-center" id="circumflex">3. Circumflex (ˆ) — Caret vowel /ʌ/</h4>
 
-        <li><strong>â</strong> = /ʌ/ — because</li>
+      <p>📌 Dùng dấu mũ cho âm caret /ʌ/ (âm giữa, miệng mở vừa).</p>
 
-        <li><strong>ô</strong> = /ʌ/ — other</li>
+      <table className="margin-y-50">
+        <thead>
+          <tr>
+            <th>Ký hiệu = /IPA/</th>
+            <th>Ví dụ</th>
+          </tr>
+        </thead>
 
-        <li><strong>û</strong> = /ʌ/ — sun</li>
+        <tbody>
+          <tr>
+              <td><strong>â</strong> = /ʌ/</td>
+              <td>bėcâuse = /bɪˈkʌz/</td>
+          </tr>
 
-      </ul>
-    
-      {/* =============================
+          <tr>
+              <td><strong>ô</strong> = /ʌ/</td>
+              <td>ôthe̛r = /ˈʌð.ɚ/</td>
+          </tr>
+
+          <tr>
+              <td><strong>û</strong> = /ʌ/</td>
+              <td>sûn = /sʌn/</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+
+    {/* =============================
         4. Dot above (˙) — Âm /ɪ/ biến thể & /jə/
     ============================= */}
+    
+    <div className="margin-y-50 table-container">
 
-    <h4 className="margin-y-50 text-center" id="dot-above">4. Dot above (˙) — Âm /ɪ/ biến thể & /jə/</h4>
+      <h4 className="margin-y-50 text-center" id="dot-above">4. Dot above (˙) — Âm /ɪ/ biến thể</h4>
 
-    <p>Dấu chấm trên để biểu thị các trường hợp chữ viết khác nhưng phát âm là /ɪ/ (hoặc /jə/)</p>
+      <p>📌 Dấu chấm trên để biểu thị các trường hợp chữ viết khác nhưng phát âm là /ɪ/</p>
 
-      <ul className="list-square">
+      <table className="margin-y-50">
+        <thead>
+          <tr>
+            <th>Ký hiệu = /IPA/</th>
+            <th>Ví dụ</th>
+          </tr>
+        </thead>
 
-        <li><strong>ȧ</strong> = /ɪ/ — image</li>
+        <tbody>
+          <tr>
+              <td><strong>ȧ</strong> = /ɪ/</td>
+              <td>imȧge = /ˈɪm.ɪdʒ/</td>
+          </tr>
 
-        <li><strong>ė</strong> = /ɪ/ — expense</li>
+          <tr>
+              <td><strong>ė</strong> = /ɪ/</td>
+              <td>ėxpense = /ɪkˈspens/</td>
+          </tr>
 
-        <li><strong>i̇</strong> = /ɪ/ — fit (i có dấu chấm trong fit)</li>
+          <tr>
+              <td><strong>i̇</strong> = /ɪ/</td>
+              <td>fit = /fɪt/</td>
+          </tr>
 
-        <li><strong>ȯ</strong> = /ɪ/ — women</li>
+          <tr>
+              <td><strong>ȯ</strong></td>
+              <td>wȯmėn = /ˈwɪm.ɪn/</td>
+          </tr>
 
-        <li><strong>u̇</strong> = /ɪ/ — business</li>
+          <tr>
+              <td><strong>u̇</strong> = /ɪ/</td>
+              <td>bu̇sinėss = /ˈbɪz.nɪs/</td>
+          </tr>
 
-        <li><strong>ư̇</strong> = /jə/ — accurate (âm /jə/ ở âm tiết không nhấn)</li>
+          <tr>
+              <td colspan="2">Phát âm <strong>u̇ + ư + </strong> = /j + ə/</td>
+          </tr>
 
-        <li className="list-none">ư̇ = (ư = support + u̇ = business)</li>
-
-      </ul>
+          <tr>
+              <td><strong>ư̇</strong> = /jə/</td>
+              <td>accư̇ra̛te = /ˈæk.jɚ.ət/</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
 
     {/* =============================
         5. Hook (̛ ) — Âm schwa và schwa + r
     ============================= */}
 
-    <h4 className="margin-y-50 text-center" id="hook">5. Hook (̛ ) — Âm schwa và schwa + r</h4>
+    <div className="margin-y-50 table-container">
 
-    <p>Dấu móc (như “ơ”) cho âm trung tính schwa và schwa +r.</p>
+      <h4 className="margin-y-50 text-center" id="hook">5. Hook (̛ ) — Âm schwa và schwa + r</h4>
 
-      <ul className="list-square">
+      <p>📌 Dấu móc (như “ơ”) cho âm trung tính schwa và schwa +r.</p>
 
-        <li><strong>ȧ</strong> = /ɪ/ — image</li>
+      <table className="margin-y-50">
+        <thead>
+          <tr>
+            <th>Ký hiệu = /IPA/</th>
+            <th>Ví dụ</th>
+          </tr>
+        </thead>
 
-        <li><strong>a̛</strong> = /ə/ — about</li>
+        <tbody>
+          <tr>
+            <td><strong>a̛</strong> = /ə/</td>
+            <td>a̛bout =  /əˈbaʊt/</td>
+          </tr>
 
-        <li><strong>e̛</strong> = /ə/ — taken</li>
+          <tr>
+            <td><strong>e̛</strong> = /ə/</td>
+            <td>tāke̛n = /ˈteɪ.kən/</td>
+          </tr>
 
-        <li><strong>i̛</strong> = /ə/ — pencil</li>
+          <tr>
+            <td><strong>i̛</strong> = /ə/</td>
+            <td>penci̛l = /ˈpen.səl/</td>
+          </tr>
 
-        <li><strong>ơ</strong> = /ə/ — lemon</li>
+          <tr>
+            <td><strong>ơ</strong> = /ə/</td>
+            <td>lemơn = /ˈlem.ən/</td>
+          </tr>
 
-        <li><strong>ư</strong> = /ə/ — support</li>
+          <tr>
+            <td><strong>ư</strong> = /ə/</td>
+            <td>sưppört = /səˈpɔːrt/</td>
+          </tr>
 
-      </ul>
+          <tr>
+            <td colspan="2">Khi kết hợp với r → âm /ɜːr/:</td>
+          </tr>
 
-      <p>Khi kết hợp với r → âm /ɜːr/:</p>
+          <tr>
+            <td><strong>e̛r</strong> = /ɜːr/</td>
+            <td>he̛r = /hɝː/</td>
+          </tr>
 
-      <ul className="list-square">
-        
-        <li><strong>ȧ</strong> = /ɪ/ — image</li>
+          <tr>
+            <td><strong>i̛r</strong> = /ɜːr/</td>
+            <td>bi̛rd = /bɝːd/</td>
+          </tr>
 
-        <li><strong>ė</strong> = /ɪ/ — expense</li>
+          <tr>
+            <td><strong>ơr</strong> = /ɜːr/</td>
+            <td>wơrd = /wɝːd/</td>
+          </tr>
 
-        <li><strong>e̛r</strong> = /ɜːr/ — her</li>
-
-        <li><strong>i̛r</strong> = /ɜːr/ — bird</li>
-
-        <li><strong>ơr</strong> = /ɜːr/ — word</li>
-
-        <li><strong>ưr</strong> = /ɜːr/ — nurse</li>
-
-      </ul>
+          <tr>
+            <td><strong>ưr</strong> = /ɜːr/</td>
+            <td>nưrse = /nɝːs/</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
 
     {/* =============================
         6. Umlaut (¨) — Nguyên âm biến đổi
     ============================= */}
 
-    <h4 className="margin-y-50 text-center" id="umlaut">6. Umlaut / Diaeresis (¨) — Nguyên âm biến đổi</h4>
+    <div className="margin-y-50 table-container">
 
-    <p>Dùng khi nguyên âm “đặc biệt” (thường là âm dài / vị trí môi/lưỡi khác).</p>
+      <h4 className="margin-y-50 text-center" id="umlaut">6. Umlaut / Diaeresis (¨) — Nguyên âm biến đổi</h4>
 
-      <ul className="list-square">
+      <p>📌 Dùng khi nguyên âm “đặc biệt” (thường là âm dài / vị trí môi/lưỡi khác).</p>
 
-        <li><strong>ä</strong> = /ɑː/ — car, autumn</li>
+      <table className="margin-y-50">
+        <thead>
+          <tr>
+            <th>Ký hiệu = /IPA/</th>
+            <th>Ví dụ</th>
+          </tr>
+        </thead>
 
-        <li><strong>ï</strong> = /iː/ — pizza (trường hợp mượn/từ có i kéo dài)</li>
+        <tbody>
+          <tr>
+            <td><strong>ä</strong> = /ɑː/</td>
+            <td>cär = /kɑːr/, äutưmn = /ˈɑː.t̬əm/</td>
+          </tr>
 
-        <li><strong>ö</strong> = /ɔː/ — shore</li>
+          <tr>
+            <td><strong>ï</strong> = /iː/</td>
+            <td>pïzza = /ˈpiːt.sə/</td>
+          </tr>
 
-        <li><strong>ü</strong> = /uː/ — Tuesday (trường hợp /juː/ hoặc /uː/ tuỳ từ)</li>
+          <tr>
+            <td><strong>ö</strong> = /ɔː/</td>
+            <td>shöre = /ʃɔːr/</td>
+          </tr>
 
-      </ul>
+          <tr>
+            <td><strong>ü</strong> = /uː/</td>
+            <td>Tüesday = /ˈtuːz.deɪ/</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
 
     {/* =============================
-        7. Tilde (˜) — Nguyên âm đặc biệt
+        7. Double Macron ( ̄ ̄ ) — Âm dài đặc biệt và biến thể mở rộng
     ============================= */}
-    
-    <h4 className="margin-y-50 text-center" id="tilde">7. Tilde (˜) — Nguyên âm đặc biệt</h4>
 
-    <p>Gần giống Macron (¯), biểu thị âm /uː/, /e/</p>
+    <div className="margin-y-50 table-container">
 
-      <ul className="list-square">
+      <h4 className="margin-y-50 text-center" id="double-macron">7. Double Macron (&nbsp; ̄ ̄ ) — Âm dài đặc biệt và biến thể mở rộng</h4>
 
-        <li><strong>õ</strong> = /uː/ — do, whose</li>
+      <p>📌 Biểu thị âm /uː/, /e/ /ɑː/</p>
 
-        <li><strong>ã</strong> = /eə/ (<HashLink smooth to="#rp">RP</HashLink>), /e/ (<HashLink smooth to="#ga">GA</HashLink>) — square</li>
+      <table className="margin-y-50">
+        <thead>
+          <tr>
+            <th>Ký hiệu = /IPA/</th>
+            <th>Ví dụ</th>
+          </tr>
+        </thead>
+        
+        <tbody>
+          <tr>
+              <td><strong>ō̄</strong> = /uː/</td>
+              <td>dō̄ = /duː/, whō̄se = /huːz/</td>
+          </tr>
 
-      </ul>
+          <tr>
+              <td><strong>ā̄</strong> = /eə/ (<HashLink smooth to="#rp">RP</HashLink>), /e/ (<HashLink smooth to="#ga">GA</HashLink>)</td>
+              <td>squā̄re = /skwer/ (Anh Mỹ), /skweər/ (Anh Anh)</td>
+          </tr>
+
+          <tr>
+              <td><strong>ē̄</strong> = /ɑː/</td>
+              <td>gē̄nre = /ˈʒɑːn.rə/</td>
+          </tr>
+
+          <tr>
+              <td><strong>ū̄</strong> = /e/</td>
+              <td>bū̄ry = /ˈber.i/</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
 
     {/* =============================
         8. Ring (˚) — Âm tròn /ɔː/
     ============================= */}
-    
-    <h4 className="margin-y-50 text-center" id="ring">8. Ring (˚) — Âm tròn /ɔː/</h4>
 
-    <p>Biểu thị một số trường hợp âm /ɔː/ đặc biệt.</p>
+    <div className="margin-y-50 table-container">
 
-      <ul className="list-square">
+      <h4 className="margin-y-50 text-center" id="ring">8. Ring (˚) — Âm tròn /ɔː/</h4>
 
-        <li><strong>å</strong> = /ɔː/ — war</li>
+      <p>📌 Biểu thị một số trường hợp âm /ɔː/ đặc biệt.</p>
 
-      </ul>
+      <table className="margin-y-50">
+        <thead>
+          <tr>
+            <th>Ký hiệu = /IPA/</th>
+            <th>Ví dụ</th>
+          </tr>
+        </thead>
+
+        <tbody>
+          <tr>
+              <td><strong>å</strong> = /ɔː/</td>
+              <td>wår /wɔːr/</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
 
     <hr className="hr-short"/>
 
@@ -245,11 +447,11 @@ export default function Bay_Dau_Phu_Phien_Am_Tieng_Anh_1() {
 
     <p className="margin-top-20 text-indent-whole">Short vowels mặc định viết không dấu (a, e, i/y, o, u/oo) và long vowels (ee). Dấu chỉ dùng khi cần phân biệt hoặc cho âm dài/đặc biệt.</p>
 
-    <h4 className="margin-top-30">🔹 /uː/ và /juː/ được tách rõ:</h4>
+    <h4 className="margin-top-30">🔹 /uː/ và /juː/ được tách rō̄:</h4>
 
     <ul className="list-square">
 
-        <li className="margin-top-20">/uː/ → o͞o, õ, ü (food, do, Tuesday)</li>
+        <li className="margin-top-20">/uː/ → o͞o, ō̄, ü (food, do, Tuesday)</li>
 
         <li>/juː/ → ū (cute)</li>
 
@@ -277,7 +479,7 @@ export default function Bay_Dau_Phu_Phien_Am_Tieng_Anh_1() {
 
       </ul>
 
-    <div className="text-border2">
+    <div className="text-border1">
 
       <h4 className="margin-top-30 text-center">✅ Kết luận</h4>
 
@@ -289,7 +491,7 @@ export default function Bay_Dau_Phu_Phien_Am_Tieng_Anh_1() {
 
         <li>Các âm khó (schwa /ə/, caret /ʌ/, weak /ɪ/) đều có ký hiệu riêng.</li>
 
-        <li className="margin-bottom-30">Dựa trên dấu tiếng Việt → dễ nhớ, dễ gõ, dễ học hơn IPA, AHD gốc.</li>
+        <li className="margin-bottom-30">Dựa trên dấu tiếng Việt → dễ nhớ, dễ gō̄, dễ học hơn IPA, AHD gốc.</li>
 
       </ul>
 

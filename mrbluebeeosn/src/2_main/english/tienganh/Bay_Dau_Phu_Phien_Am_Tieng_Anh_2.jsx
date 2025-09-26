@@ -18,254 +18,303 @@ export default function Bay_Dau_Phu_Phien_Am_Tieng_Anh_2() {
     {/* This is the content of Mr. Bee Osn English Term. */}
 
     {/* =============================
-        🔹 Giới thiệu
+         Giới thiệu
     ============================= */}
 
-    <h4 className="margin-top-50">🔹 Giới thiệu</h4>
-
-    <p className="margin-top-20 text-indent-whole">Tiếng Anh có nhiều nguyên âm mà chữ cái thông thường (a, e, i, o, u) không thể hiện hết.</p>
+    <p>Tiếng Anh có nhiều nguyên âm mà chữ cái thông thường (a, e, i, o, u) không thể hiện hết.</p>
     
-    <p className="text-indent-whole">Để học nhanh và dễ nhớ, ta dùng 7 dấu phụ kết hợp với 1 dạng mặc định (không dấu) để biểu thị cách phát âm.</p>
+    <p>Để học nhanh và dễ nhớ, ta dùng 7 dấu phụ kết hợp với 1 dạng mặc định (không dấu) để biểu thị cách phát âm.</p>
+
+    <h4 className="margin-y-50 text-center"> Giới thiệu</h4>
+
+    <p>👉 Tổng cộng: 8 nhóm ký hiệu → bao quát hầu hết nguyên âm tiếng Anh.</p>
 
       <ul className="list-square">
 
         <li>1 <HashLink smooth to="#mac-dinh">Mặc định</HashLink> (không dấu) = nguyên âm cơ bản, ngắn.</li>
 
-        <li>7 dấu phụ = <HashLink smooth to="#macron">macron</HashLink>, <HashLink smooth to="#circumflex">circumflex</HashLink>, <HashLink smooth to="#dot-above">dot above</HashLink>, <HashLink smooth to="#hook">hook</HashLink>, <HashLink smooth to="#umlaut">umlaut</HashLink>, <HashLink smooth to="#tilde">tilde</HashLink>, <HashLink smooth to="#ring">ring</HashLink>.</li>
+        <li>7 dấu phụ = <HashLink smooth to="#macron">macron</HashLink>, <HashLink smooth to="#circumflex">circumflex</HashLink>, <HashLink smooth to="#dot-above">dot above</HashLink>, <HashLink smooth to="#hook">hook</HashLink>, <HashLink smooth to="#umlaut">umlaut</HashLink>, <HashLink smooth to="#double-macron">double macron</HashLink>, <HashLink smooth to="#ring">ring</HashLink>.</li>
 
       </ul>
-
-    <p className="margin-top-20 text-indent-whole">Tổng cộng: 8 nhóm ký hiệu → bao quát hầu hết nguyên âm tiếng Anh.</p>
 
     {/* =============================
         1. Mặc định (không dấu) — Nguyên âm ngắn (short vowels)
     ============================= */}
+  
+    <div className="margin-y-50 text-border1">
 
-    <h4 className="margin-top-50" id="mac-dinh">🔹1. Mặc định (không dấu) — Nguyên âm ngắn (short vowels)</h4>
+      <h4 className="margin-y-50 text-center" id="mac-dinh">1. Mặc định (không dấu) — Nguyên âm ngắn (short vowels)</h4>
 
-    <p className="margin-top-20 text-indent-whole">Giữ a, e, i/y, o, u/oo, ee làm mặc định cho short vowels để đơn giản:</p>
+    <p className="margin-top-20 text-indent-whole">Giữ aeiou (oo y) làm mặc định cho short vowels để đơn giản:</p>
 
     <p className="margin-y-20 text-word-spacing-1">
-      <span className="highlight4">a e i/y o u/oo ee</span>
+      <span className="highlight4">a e i o u (oo y)</span>
     </p>
 
     <p className="text-center">↓</p>
 
     <p className="margin-y-20 text-word-spacing-1">
-      <span className="highlight4">æ e ɪ ɒ/ɑː ʊ iː</span>
+      <span className="highlight4">æ e ɪ ɒ/ɑː ʊ (ʊ ɪ)</span>
     </p>
 
     <ul className="list-square">
       <li>cat — /cat/ — /kæt/</li>
       <li>get — /get/ — /get/</li>
       <li>sit — /sit/ — /sɪt/</li>
-      <li>myth — /myth/ — /mɪθ/</li>
       <li>hot — /hot/ — /hɒt/ (Anh), /hɑːt/ (Mỹ)</li>
       <li>put — /put/ — /pʊt/</li>
+
       <li>book — /book/ — /bʊk/</li>
+      <li>myth — /myth/ — /mɪθ/</li>
+    </ul>
+
+    <p className="margin-top-20 text-indent-whole">Giữ ee làm mặc định cho long vowels để đơn giản:</p>
+
+    <p className="margin-y-20 text-word-spacing-1">
+      <span className="highlight4">ee</span>
+    </p>
+
+    <p className="text-center">↓</p>
+
+    <p className="margin-y-20 text-word-spacing-1">
+      <span className="highlight4">iː</span>
+    </p>
+
+    <ul className="list-square">
       <li>bee — /bee/ — /biː/</li>
     </ul>
 
+    </div>
+
     {/* =============================
-         2. Macron (¯) — Nguyên âm dài
+          2. Macron (¯) — Nguyên âm dài
     ============================= */}
 
-    <h4 className="margin-top-50" id="macron">🔹2. Macron <mark className="highlight2">¯</mark> — Nguyên âm dài / diphthongs</h4>
+    <div className="margin-y-50 text-border1">
 
-    <p className="margin-top-20 text-indent-whole">Dấu ngang trên đầu = âm kéo dài / nguyên âm đôi chính.</p>
+      <h4 className="margin-y-50 text-center" id="macron">2. Macron <mark className="highlight2">¯</mark> — Nguyên âm dài / diphthongs</h4>
 
-    <p className="margin-y-20 text-word-spacing-1">
-      <span className="highlight4">ā ē ī ȳ ō ū o͞o</span>
-    </p>
+      <p className="margin-top-20 text-indent-whole">Dấu ngang trên đầu = âm kéo dài / nguyên âm đôi chính.</p>
 
-    <p className="text-center">↓</p>
+      <p className="margin-y-20 text-word-spacing-1">
+        <span className="highlight4">ā ē ī ȳ ō ū o͞o</span>
+      </p>
 
-    <p className="margin-y-20 text-word-spacing-1">
-      <span className="highlight4">eɪ iː aɪ aɪ oʊ juː uː</span>
-    </p>
+      <p className="text-center">↓</p>
 
-    <ul className="list-square">
-      <li>cake — /cāke/ — /keɪk/</li>
-      <li>bee — /bēe/ — /bi:/</li>
-      <li>time — /tīme/ — /taɪm/</li>
-      <li>why — /whȳ/ — /waɪ/</li>
-      <li>go — /gō/ — /goʊ/</li>
-      <li>cute — /cūte/ — /kjuːt/</li>
-      <li>food — fo͞od — /fuːd/</li>
-    </ul>
-
-  {/* =============================
-      3. Circumflex (ˆ) — Caret vowel /ʌ/
-  ============================= */}
-
-    <h4 className="margin-top-50" id="circumflex">🔹3. Circumflex <mark className="highlight2">ˆ</mark> — Caret vowel /ʌ/</h4>
-
-    <p className="margin-top-20 text-indent-whole">Dùng dấu mũ cho âm caret /ʌ/ (âm giữa, miệng mở vừa).</p>
-
-    <p className="margin-y-20 text-word-spacing-1">
-      <span className="highlight4">â ô û</span>
-    </p>
-
-    <p className="text-center">↓</p>
-
-    <p className="margin-y-20 text-word-spacing-1">
-      <span className="highlight4">ʌ</span>
-    </p>
-
-    <ul className="list-square">
-      <li>because — /bėcâuse/ — /bɪˈkʌz/</li>
-      <li>other — /ôther/ — /ˈʌð.ɚ/</li>
-      <li>button — /bûttơn/ — /ˈbʌt.ən/</li>
-    </ul>
-  
-  {/* =============================
-      4. Dot above (˙) — Âm /ɪ/ biến thể & /jə/
-  ============================= */}
-
-    <h4 className="margin-top-50" id="dot-above">🔹4. Dot above <mark className="highlight2">˙</mark> — Âm /ɪ/ biến thể & /jə/</h4>
-
-    <p className="margin-top-20 text-indent-whole">Dấu chấm trên để biểu thị các trường hợp chữ viết khác nhưng phát âm là /ɪ/ (hoặc /jə/)</p>
-
-    <p className="margin-y-20 text-word-spacing-1">
-      <span className="highlight4">ȧ ė i̇ ȯ u̇ ư̇</span>
-    </p>
-
-    <p className="text-center">↓</p>
-
-    <p className="margin-y-20 text-word-spacing-1">
-      <span className="highlight4">ɪ</span>
-    </p>
-
-    <ul className="list-square">
-      <li>image — /imȧge/ — /ˈɪm.ɪdʒ/</li>
-      <li>expense — /ėxpense/ — /ɪkˈspens/</li>
-      <li>fit — /fit/ — /fɪt/ (i có dấu chấm trong fit)</li>
-      <li>women — /wȯmėn/ — /ˈwɪm.ɪn/</li>
-      <li>business — /bu̇sinėss/ — /ˈbɪz.nɪs/</li>
-      <li>accurate — /accư̇ra̛te/ — /ˈæk.jɚ.ət/ (âm /jə/ ở âm tiết không nhấn)</li>
-      <li className="list-none">ư̇ = (ư = support + u̇ = business)</li>
-    </ul>
-
-  {/* =============================
-        5. Hook (̛ ) — Schwa /ə/ và schwa và schwa + r
-  ============================= */}
-  
-    <h4 className="margin-top-50" id="hook">🔹5. Hook <mark className="highlight2"> ̛  </mark>&nbsp;— Schwa /ə/ và schwa và schwa + r</h4>
-
-    <p className="margin-top-20 text-indent-whole">Dấu móc (như “ơ”) cho âm trung tính schwa và dạng +r.</p>
-
-    <p className="margin-y-20 text-word-spacing-1">
-      <span className="highlight4">a̛ e̛ i̛ ơ ư</span>
-    </p>
-
-    <p className="text-center">↓</p>
-
-    <p className="margin-y-20 text-word-spacing-1">
-      <span className="highlight4">ə</span>
-    </p>
-
-    <ul className="list-square">
-      <li>about — /a̛bout/ — /əˈbaʊt/</li>
-      <li>taken — /tāke̛n/ — /ˈteɪ.kən/</li>
-      <li>pencil — /penci̛l/ — /əˈbaʊt/</li>
-      <li>lemon — /lemơn/ — /ˈlem.ən/</li>
-      <li>support — /sưppört/ — /səˈpɔːrt/</li>
-    </ul>
-
-    <p className="margin-y-20 text-word-spacing-1">
-      <span className="highlight4">e̛r, i̛r, ơr, ưr</span>
-    </p>
-
-    <p className="text-center">↓</p>
-
-    <p className="margin-y-20 text-word-spacing-1">
-      <span className="highlight4">ɜː</span>
-    </p>
-
-    <ul className="list-square">
-      <li>her — /he̛r/ — /hɝː/</li>
-      <li>bird — /bi̛rd/ — /bɝːd/</li>
-      <li>word — /wơrd/ — /wɝːd/</li>
-      <li>nurse — /nưrse/ — /nɝːs/</li>
-    </ul>
-
-  {/* =============================
-        6. Umlaut (¨) — Nguyên âm biến đổi
-  ============================= */}
-    
-    <h4 className="margin-top-50" id="umlaut">🔹6. Umlaut / Diaeresis <mark className="highlight2">¨</mark> — Nguyên âm biến đổi</h4>
-
-    <p className="margin-top-20 text-indent-whole">Dùng khi nguyên âm “đặc biệt” (thường là âm dài / vị trí môi/lưỡi khác).</p>
-    
-    <p className="margin-y-20 text-word-spacing-1">
-      <span className="highlight4">ä ë ï ö ü</span>
-    </p>
-
-    <p className="text-center">↓</p>
-
-    <p className="margin-y-20 text-word-spacing-1">
-      <span className="highlight4">ɑː eː i: o: uː</span>
-    </p>
-
-    <ul className="list-square">
-      <li>car — /cär/ — /kɑːr/</li>
-      <li>autumn — /äutưmn/ — /ˈɑː.t̬əm/</li>
-      <li>pizza — /pïzza̛/ — /ˈpiːt.sə/</li>
-      <li>shore — /shöre/ — /ʃɔːr/</li>
-      <li>Tuesday — /Tüesday — /ˈtuːz.deɪ/ (trường hợp /juː/ hoặc /uː/ tuỳ từ)</li>
-    </ul>
-  
-  {/* =============================
-      7. Tilde (˜) — Nguyên âm đặc biệt
-  ============================= */}
-
-    <h4 className="margin-top-50" id="tilde">🔹7. Tilde <mark className="highlight2">˜</mark> — Nguyên âm đặc biệt</h4>
-
-    <p className="margin-top-20 text-indent-whole">Gần giống Macron (¯), biểu thị âm /uː/, /e/</p>
-
-    <p className="margin-y-20 text-word-spacing-1">
-      <span className="highlight4">õ ã</span>
-    </p>
-
-    <p className="text-center">↓</p>
-
-    <p className="margin-y-20 text-word-spacing-1">
-      <span className="highlight4">u: e</span>
-    </p>
+      <p className="margin-y-20 text-word-spacing-1">
+        <span className="highlight4">eɪ iː aɪ aɪ oʊ juː uː</span>
+      </p>
 
       <ul className="list-square">
-        <li>do — /dõ/ — /duː/</li>
-        <li className="margin-bottom-20">who — /whõ/ — /huː/</li>
-
-        <li>square — /skwer/ (<HashLink smooth to="#ga">GA</HashLink>) — /squãre/</li>
-        <li className="margin-bottom-50">square — /skwer/ (GA) — /squãre/</li>
-
-        <li>care — /ker/ (<HashLink smooth to="#rp">RP</HashLink>) — /cãre/</li>
-        <li className="margin-bottom-50">care — /keər/ (RP) — /cãre/</li>
-
+        <li>cake — /cāke/ — /keɪk/</li>
+        <li>bee — /bēe/ — /bi:/</li>
+        <li>time — /tīme/ — /taɪm/</li>
+        <li>why — /whȳ/ — /waɪ/</li>
+        <li>go — /gō/ — /goʊ/</li>
+        <li>cute — /cūte/ — /kjuːt/</li>
+        <li>food — fo͞od — /fuːd/</li>
       </ul>
+
+    </div>
 
     {/* =============================
-      8. Ring (˚) — Âm tròn /ɔː/
-  ============================= */}
+        3. Circumflex (ˆ) — Caret vowel /ʌ/
+    ============================= */}
 
-    <h4 className="margin-top-50" id="ring">🔹8. Ring <mark className="highlight2">˚</mark> — Âm tròn /ɔː/</h4>
+    <div className="margin-y-50 text-border1">
 
-    <p className="margin-top-20 text-indent-whole">Biểu thị một số trường hợp âm /ɔː/ đặc biệt.</p>
+      <h4 className="margin-y-50 text-center" id="circumflex">3. Circumflex <mark className="highlight2">ˆ</mark> — Caret vowel /ʌ/</h4>
 
-    <p className="margin-y-20 text-word-spacing-1">
-      <span className="highlight4">å</span>
-    </p>
+      <p className="margin-top-20 text-indent-whole">Dùng dấu mũ cho âm caret /ʌ/ (âm giữa, miệng mở vừa).</p>
 
-    <p className="text-center">↓</p>
+      <p className="margin-y-20 text-word-spacing-1">
+        <span className="highlight4">â ô û</span>
+      </p>
 
-    <p className="margin-y-20 text-word-spacing-1">
-      <span className="highlight4">ɔː</span>
-    </p>
+      <p className="text-center">↓</p>
+
+      <p className="margin-y-20 text-word-spacing-1">
+        <span className="highlight4">ʌ</span>
+      </p>
 
       <ul className="list-square">
-        <li className="margin-bottom-50">war — /wɔːr/ — /war/ (RP)</li>
+        <li>because — /bėcâuse/ — /bɪˈkʌz/</li>
+        <li>other — /ôther/ — /ˈʌð.ɚ/</li>
+        <li>button — /bûttơn/ — /ˈbʌt.ən/</li>
       </ul>
+
+    </div>
+    
+    {/* =============================
+        4. Dot above (˙) — Âm /ɪ/ biến thể & /jə/
+    ============================= */}
+
+    <div className="margin-y-50 text-border1">
+
+      <h4 className="margin-y-50 text-center" id="dot-above">4. Dot above <mark className="highlight2">˙</mark> — Âm /ɪ/ biến thể & /jə/</h4>
+
+      <p className="margin-top-20 text-indent-whole">Dấu chấm trên để biểu thị các trường hợp chữ viết khác nhưng phát âm là /ɪ/ (hoặc /jə/)</p>
+
+      <p className="margin-y-20 text-word-spacing-1">
+        <span className="highlight4">ȧ ė i̇ ȯ u̇ ư̇</span>
+      </p>
+
+      <p className="text-center">↓</p>
+
+      <p className="margin-y-20 text-word-spacing-1">
+        <span className="highlight4">ɪ</span>
+      </p>
+
+      <ul className="list-square">
+        <li>image — /imȧge/ — /ˈɪm.ɪdʒ/</li>
+        <li>expense — /ėxpense/ — /ɪkˈspens/</li>
+        <li>fit — /fit/ — /fɪt/ (i có dấu chấm trong fit)</li>
+        <li>women — /wȯmėn/ — /ˈwɪm.ɪn/</li>
+        <li>business — /bu̇sinėss/ — /ˈbɪz.nɪs/</li>
+        <li>accurate — /accư̇ra̛te/ — /ˈæk.jɚ.ət/ (âm /jə/ ở âm tiết không nhấn)</li>
+        <li className="list-none">ư̇ = (ư = support + u̇ = business)</li>
+      </ul>
+
+    </div>
+
+    {/* =============================
+          5. Hook (̛ ) — Schwa /ə/ và schwa và schwa + r
+    ============================= */}
+
+    <div className="margin-y-50 text-border1">
+
+      <h4 className="margin-y-50 text-center" id="hook">5. Hook <mark className="highlight2"> ̛  </mark>&nbsp;— Schwa /ə/ và schwa và schwa + r</h4>
+
+      <p className="margin-top-20 text-indent-whole">Dấu móc (như “ơ”) cho âm trung tính schwa và dạng +r.</p>
+
+      <p className="margin-y-20 text-word-spacing-1">
+        <span className="highlight4">a̛ e̛ i̛ ơ ư</span>
+      </p>
+
+      <p className="text-center">↓</p>
+
+      <p className="margin-y-20 text-word-spacing-1">
+        <span className="highlight4">ə</span>
+      </p>
+
+      <ul className="list-square">
+        <li>about — /a̛bout/ — /əˈbaʊt/</li>
+        <li>taken — /tāke̛n/ — /ˈteɪ.kən/</li>
+        <li>pencil — /penci̛l/ — /əˈbaʊt/</li>
+        <li>lemon — /lemơn/ — /ˈlem.ən/</li>
+        <li>support — /sưppört/ — /səˈpɔːrt/</li>
+      </ul>
+
+      <p className="margin-y-20 text-word-spacing-1">
+        <span className="highlight4">e̛r, i̛r, ơr, ưr</span>
+      </p>
+
+      <p className="text-center">↓</p>
+
+      <p className="margin-y-20 text-word-spacing-1">
+        <span className="highlight4">ɜː</span>
+      </p>
+
+      <ul className="list-square">
+        <li>her — /he̛r/ — /hɝː/</li>
+        <li>bird — /bi̛rd/ — /bɝːd/</li>
+        <li>word — /wơrd/ — /wɝːd/</li>
+        <li>nurse — /nưrse/ — /nɝːs/</li>
+      </ul>
+
+    </div>
+
+    {/* =============================
+          6. Umlaut (¨) — Nguyên âm biến đổi
+    ============================= */}
+
+    <div className="margin-y-50 text-border1">
+
+      <h4 className="margin-y-50 text-center" id="umlaut">6. Umlaut / Diaeresis <mark className="highlight2">¨</mark> — Nguyên âm biến đổi</h4>
+
+      <p className="margin-top-20 text-indent-whole">Dùng khi nguyên âm “đặc biệt” (thường là âm dài / vị trí môi/lưỡi khác).</p>
+      
+      <p className="margin-y-20 text-word-spacing-1">
+        <span className="highlight4">ä ë ï ö ü</span>
+      </p>
+
+      <p className="text-center">↓</p>
+
+      <p className="margin-y-20 text-word-spacing-1">
+        <span className="highlight4">ɑː eː i: o: uː</span>
+      </p>
+
+      <ul className="list-square">
+        <li>car — /cär/ — /kɑːr/</li>
+        <li>autumn — /äutưmn/ — /ˈɑː.t̬əm/</li>
+        <li>pizza — /pïzza̛/ — /ˈpiːt.sə/</li>
+        <li>shore — /shöre/ — /ʃɔːr/</li>
+        <li>Tuesday — /Tüesday — /ˈtuːz.deɪ/ (trường hợp /juː/ hoặc /uː/ tuỳ từ)</li>
+      </ul>
+
+    </div>
+    
+    {/* =============================
+        7. Double Macron ( ̄ ̄ ) Âm dài đặc biệt và biến thể mở rộng
+    ============================= */}
+
+    <div className="margin-y-50 text-border1">
+
+      <h4 className="margin-y-50 text-center" id="double-macron">7. Double Macron <mark className="highlight2">&nbsp; ̄ ̄</mark> — Âm dài đặc biệt và biến thể mở rộng</h4>
+
+      <p className="margin-top-20 text-indent-whole">Biểu thị âm /uː/, /e/</p>
+
+      <p className="margin-y-20 text-word-spacing-1">
+        <span className="highlight4">ō̄ ā̄</span>
+      </p>
+
+      <p className="text-center">↓</p>
+
+      <p className="margin-y-20 text-word-spacing-1">
+        <span className="highlight4">u: e ɑː</span>
+      </p>
+
+        <ul className="list-square">
+          <li>do — /dō̄/ — /duː/</li>
+          <li className="margin-bottom-20">who — /whō̄/ — /huː/</li>
+
+          <li>square — /skwer/ (<HashLink smooth to="#ga">GA</HashLink>) — /squā̄re/</li>
+          <li className="margin-bottom-50">square — /skwer/ (GA) — /squā̄re/</li>
+
+          <li>genre — /gē̄nre/ — /ˈʒɑːn.rə/</li>
+
+          <li className="margin-bottom-20">bury — /bū̄ry/ — /ˈber.i/</li>
+
+        </ul>
+
+    </div>
+
+      {/* =============================
+        8. Ring (˚) — Âm tròn /ɔː/
+    ============================= */}
+
+      <div className="margin-y-50 text-border1">
+
+        <h4 className="margin-y-50 text-center" id="ring">8. Ring <mark className="highlight2">˚</mark> — Âm tròn /ɔː/</h4>
+
+        <p className="margin-top-20 text-indent-whole">Biểu thị một số trường hợp âm /ɔː/ đặc biệt.</p>
+
+        <p className="margin-y-20 text-word-spacing-1">
+          <span className="highlight4">å</span>
+        </p>
+
+        <p className="text-center">↓</p>
+
+        <p className="margin-y-20 text-word-spacing-1">
+          <span className="highlight4">ɔː</span>
+        </p>
+
+          <ul className="list-square">
+            <li className="margin-bottom-50">war — /wɔːr/ — /war/ (RP)</li>
+          </ul>
+
+    </div>
 
      {/* =============================
           Notes!
@@ -281,7 +330,7 @@ export default function Bay_Dau_Phu_Phien_Am_Tieng_Anh_2() {
 
       </ul>
 
-    <div className="text-border2">
+    <div className="margin-y-50 text-border1">
 
       <h4 className="margin-y-30 text-center">✅ Kết luận</h4>
 
@@ -291,9 +340,9 @@ export default function Bay_Dau_Phu_Phien_Am_Tieng_Anh_2() {
 
         <li>Bao phủ toàn bộ <Link to="/english/tienganh/nguyen-am-don#nguyen-am-don">nguyên âm đơn</Link> + <Link to="/english/tienganh/nguyen-am-doi#nguyen-am-doi">nguyên âm đôi</Link>.</li>
 
-        <li>Phân biệt rõ /uː/ (o͞o, õ, ü) và /juː/ (ū).</li>
+        <li>Phân biệt rō̄ /uː/ (o͞o, ō̄, ü) và /juː/ (ū).</li>
 
-        <li className="margin-bottom-30">Dựa trên dấu tiếng Việt — dễ nhớ, dễ gõ, dễ học hơn IPA, AHD gốc.</li>
+        <li className="margin-bottom-30">Dựa trên dấu tiếng Việt — dễ nhớ, dễ gō̄, dễ học hơn IPA, AHD gốc.</li>
 
       </ul>
 

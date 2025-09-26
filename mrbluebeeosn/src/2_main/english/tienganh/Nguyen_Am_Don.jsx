@@ -8,7 +8,7 @@ export default function Nguyen_Am_Don() {
     
     <h4><HashLink smooth to="/english#tieng-anh-terms"><mark className="highlight2">Tiếng Anh</mark></HashLink></h4>
 
-    <h2 className="margin-y-50 text-center">Nguyên âm đơn
+    <h2 className="margin-y-50 text-center">📌 BẢNG TỔNG HỢP NGUYÊN ÂM ĐƠN
       <sup><Link to="/english/tienganh/nguyen-am-don">&nbsp;1&nbsp;</Link>
       </sup>
       <sup><Link to="/english/tienganh/nguyen-am-doi">&nbsp;2&nbsp;</Link>
@@ -23,7 +23,6 @@ export default function Nguyen_Am_Don() {
         <thead>
 
           <tr>
-            <th>Ký hiệu</th>
             <th>IPA</th>
             <th>Ví dụ</th>
           </tr>
@@ -33,73 +32,61 @@ export default function Nguyen_Am_Don() {
         <tbody>
 
           <tr>
-            <td>a</td>
             <td>/æ/</td>
-            <td>cat</td>
+            <td>a = cat</td>
           </tr>
 
           <tr>
-            <td>e, ã</td>
             <td>/e/ (<Link to="#ga">GA</Link>), /eə/ (<Link to="#rp">RP</Link>)</td>
-            <td>e = bed; ã = square</td>
+            <td>e = bed; ā̄ = square; ū̄ = bury</td>
           </tr>
 
           <tr>
-            <td>i, y (dot above biến thể: ȧ, ė, i̇, ȯ, u̇)</td>
             <td>/ɪ/</td>
             <td>i = sit; y = myth; ȧ = image; i̇ = fit; ȯ = women; u̇ = business</td>
           </tr>
      
           <tr>
-            <td>ee, ï, ē</td>
             <td>/iː/</td>
             <td>ee = bee; ē = he; ï = pizza</td>
           </tr>
 
           <tr>
-            <td>o (mặc định)</td>
             <td>/ɒ/ (RP), /ɑː/ (GA)</td>
             <td>o = hot</td>
           </tr>
 
           <tr>
-            <td>â, ô, û</td>
             <td>/ʌ/</td>
             <td>â = because; ô = other; û = sun</td>
           </tr>
 
           <tr>
-            <td>u, oo (mặc định)</td>
             <td>/ʊ/</td>
             <td>u = put; oo = book</td>
           </tr>
 
           <tr>
-            <td>o͞o, õ, ü</td>
             <td>/uː/</td>
-            <td>o͞o = food; õ = do; ü = Tuesday</td>
+            <td>o͞o = food; ō̄ = do; ü = Tuesday</td>
           </tr>
 
           <tr>
-            <td>ö, å</td>
             <td>/ɔː/</td>
             <td>ö = shore; å = war</td>
           </tr>
 
           <tr>
-            <td>ä, ẽ</td>
             <td>/ɑː/</td>
-            <td>ä = car; ẽ = genre</td>
+            <td>ä = car; ē̄ = genre</td>
           </tr>
 
           <tr>
-            <td>a̛ e̛ i̛ ơ ư</td>
             <td>/ə/</td>
             <td>a̛ = about, e̛ = taken, i̛ = pencil, ơ = lemon, ư = support</td>
           </tr>
 
           <tr>
-            <td>e̛r, i̛r, ơr, ưr</td>
             <td>/ɜːr/</td>
             <td>e̛r = her, i̛r = bird, ơr = word, ưr =nurse</td>
           </tr>

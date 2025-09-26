@@ -37,6 +37,13 @@
    Highlight
 ============================= */
 
+.highlight {
+    background-color: var(--tertiary-color); /* Sage nhạt hơn*/
+    color: #333;
+    padding: 4px 8px;
+    border-radius: 3px;
+}
+
 .highlight1 {
     background-color: var(--secondary-color); /* Teal nhạt hơn*/
     color: #333;
@@ -219,10 +226,6 @@ code {
     border: 3px, solid var(--tertiary-color);
     border-radius: 5px; /* Bo tròn các góc */
     padding: 1.0rem;              /* 10px */ /* Thêm khoảng đệm bên trong  */
-}
-
-.text-center {
-    text-align: center;
 }
 
 .code-background {

@@ -23,7 +23,7 @@ export default function Home() {
           <div className="card2">
             <p className="text-small">
           
-              ☕ Happy <mark className="highlight5">reading</mark> today!
+              ☕ Happy <mark className="highlight">reading</mark> today!
         
             </p>
           </div>

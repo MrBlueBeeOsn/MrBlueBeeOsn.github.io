@@ -8,7 +8,7 @@ export default function Nguyen_Am_Doi() {
     
     <h4><HashLink smooth to="/english#tieng-anh-terms"><mark className="highlight2">Tiếng Anh</mark></HashLink></h4>
 
-    <h2 className="margin-y-50 text-center">Nguyên âm đôi
+    <h2 className="margin-y-50 text-center">📌 BẢNG TỔNG HỢP NGUYÊN ÂM ĐÔI
       <sup><Link to="/english/tienganh/nguyen-am-don">&nbsp;1&nbsp;</Link>
       </sup>
       <sup><Link to="/english/tienganh/nguyen-am-doi">&nbsp;2&nbsp;</Link>
@@ -23,7 +23,6 @@ export default function Nguyen_Am_Doi() {
         <thead>
 
           <tr>
-            <th>Ký hiệu</th>
             <th>IPA</th>
             <th>Ví dụ</th>
           </tr>
@@ -33,51 +32,43 @@ export default function Nguyen_Am_Doi() {
         <tbody>
 
           <tr>
-              <td>ī, ȳ</td>
               <td>/aɪ/</td>
               <td>ī = time; ȳ = why</td>
           </tr>
           
           <tr>
-              <td>ā</td>
               <td>/eɪ/</td>
               <td>ā = cake</td>
           </tr>
 
           <tr>
-              <td>ō</td>
               <td>/oʊ/</td>
               <td>ō = go</td>
           </tr>
 
           <tr>
-              <td>ou, ow</td>
               <td>/aʊ/</td>
               <td>ou = house, ow = now</td>
           </tr>
 
           <tr>
-              <td>oi</td>
               <td>/ɔɪ/</td>
               <td>oi = boy</td>
           </tr>
 
           <tr>
-              <td>ū</td>
               <td>/juː/</td>
               <td>ū = cute</td>
           </tr>
 
           <tr>
-              <td>ư̇</td>
               <td>/jə/</td>
               <td>ư̇ = accurate (ư = support + u̇ = business)</td>
           </tr>
 
           <tr>
-              <td>ã (<Link to="#rp">RP</Link>)</td>
-              <td>/eə/ (RP), /e/ (GA)</td>
-              <td>ã = square</td>
+              <td>/eə/ (<Link to="#rp">RP</Link>), /e/ (<Link to="#ga">GA</Link>)</td>
+              <td>ā̄ = square</td>
           </tr>
 
         </tbody>
