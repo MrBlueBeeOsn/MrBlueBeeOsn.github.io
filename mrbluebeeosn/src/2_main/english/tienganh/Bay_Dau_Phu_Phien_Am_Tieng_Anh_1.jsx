@@ -468,9 +468,9 @@ export default function Bay_Dau_Phu_Phien_Am_Tieng_Anh_1() {
 
       <ul className="list-square">
 
-        <li id="ga">Trong GA (General American – Anh–Mỹ)</li>
+        <li id="ga">Trong GA (General American: Anh–Mỹ)</li>
         
-        <li className="margin-bottom-50" id="rp">Trong RP (Received Pronunciation – Anh–Anh)</li>
+        <li className="margin-bottom-50" id="rp">Trong RP (Received Pronunciation: Anh–Anh)</li>
 
       </ul>
 

@@ -76,9 +76,9 @@ export default function Nguyen_Am_Doi() {
 
         <ul className="list-square">
 
-          <li id="ga">Trong GA (General American – Anh–Mỹ)</li>
+          <li id="ga">Trong GA (General American: Anh–Mỹ)</li>
           
-          <li className="margin-bottom-50" id="rp">Trong RP (Received Pronunciation – Anh–Anh)</li>
+          <li className="margin-bottom-50" id="rp">Trong RP (Received Pronunciation: Anh–Anh)</li>
 
         </ul>
         
