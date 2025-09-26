@@ -590,3 +590,7 @@ h6.padding-y-10 {
     padding-bottom: 1.0rem;  /* 10px */
     padding-top: 1.0rem;     /* 10px */
 }
+
+.padding-left-40 {
+    padding-left: 4.0rem;     /* 10px */
+}

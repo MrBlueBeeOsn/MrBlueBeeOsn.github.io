@@ -27,7 +27,7 @@ export default function Accurately_2() {
           <strong>Accurately</strong>
           <span className="highlight-white-padding-4-8">
             /ˈækjərətli/ + /<Link to="/english/tienganh/he-thong-7-dau-phu-phien-am-tieng-anh-1">accư̇ra̛tely</Link>/ 
-            <sup>⬤••• (4x)</sup></span> 
+            <sup> ⬤••• (4x)</sup></span> 
             trong tiếng Anh có nghĩa là "một cách chính xác", "một cách đúng đắn". Từ này thường được dùng để mô tả việc làm gì đó một cách tỉ mỉ, không sai sót, trùng khớp với thực tế.
         </p>
 

@@ -27,7 +27,7 @@ export default function Accurately_2() {
           <strong>ly</strong>
           <span className="highlight-white-padding-4-8">
             /li/ + /<Link to="/english/tienganh/he-thong-7-dau-phu-phien-am-tieng-anh-1">ly</Link>/ 
-            <sup>⬤</sup></span> 
+            <sup> ⬤</sup></span> 
             trong tiếng Anh 
         </p>
 

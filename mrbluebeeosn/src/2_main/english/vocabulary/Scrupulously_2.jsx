@@ -27,7 +27,7 @@ export default function Scrupulously_2() {
           <strong>Scrupulously</strong>
           <span className="highlight-white-padding-4-8">
             /ˈskruː.pjə.ləs.li/ + /<Link to="/english/tienganh/he-thong-7-dau-phu-phien-am-tieng-anh-1">scrüpư̇lơusly</Link>/
-            <sup>⬤••• (4x)</sup></span> 
+            <sup> ⬤••• (4x)</sup></span> 
             thường được dùng để mô tả một hành động hoặc trạng thái được thực hiện một cách tỉ mỉ, cẩn thận, chú ý đến từng chi tiết nhỏ nhất.
         </p>
 

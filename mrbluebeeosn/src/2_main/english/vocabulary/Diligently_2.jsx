@@ -27,7 +27,7 @@ export default function Diligently_2() {
           <strong>Diligently</strong>
           <span className="highlight-white-padding-4-8">
             /ˈdɪl.ə.dʒənt.li/ + /<Link to="/english/tienganh/he-thong-7-dau-phu-phien-am-tieng-anh-1">dili̛ge̛ntly</Link>/
-            <sup>⬤••• (4x)</sup></span> 
+            <sup> ⬤••• (4x)</sup></span> 
             thường được dùng để mô tả một hành động được thực hiện với sự chăm chỉ, cẩn thận và kiên trì.
         </p>
 

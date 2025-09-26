@@ -28,7 +28,7 @@ export default function Precisely_2() {
           <strong>Precisely</strong>
           <span className="highlight-white-padding-4-8">
             /prɪˈsaɪs.li/ + /<Link to="/english/tienganh/he-thong-7-dau-phu-phien-am-tieng-anh-1">prėcīsely</Link>/
-            <sup>•⬤• (3x)</sup></span> 
+            <sup> •⬤• (3x)</sup></span> 
             thường được dùng để mô tả một hành động hoặc trạng thái được thực hiện một cách chính xác, đúng đắn, không có sai sót.
         </p>
 

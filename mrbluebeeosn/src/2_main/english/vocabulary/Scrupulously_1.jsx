@@ -25,12 +25,12 @@ export default function Scrupulously_1() {
 
         <p className="margin-bottom-20"><strong>Scrupulously</strong></p>
 
-        <ul className="list-square">
+        <ul className="list-square padding-left-40">
             
           <li>
             <span className="highlight-white-padding-4-8">
               /ˈskruː.pjə.ləs.li/ + /<Link to="/english/tienganh/he-thong-7-dau-phu-phien-am-tieng-anh-1">scrüpư̇lơusly</Link>/
-              <sup>⬤••• (4x)</sup>
+              <sup> ⬤••• (4x)</sup>
             </span>
           </li>
           

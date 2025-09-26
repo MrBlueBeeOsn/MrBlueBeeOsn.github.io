@@ -25,12 +25,12 @@ export default function Accurately_1() {
 
         <p className="margin-bottom-20"><strong>ly</strong></p>
 
-        <ul className="list-square">
+        <ul className="list-square padding-left-40">
 
           <li>
             <span className="highlight-white-padding-4-8">
               /i/ + /<Link to="/english/tienganh/he-thong-7-dau-phu-phien-am-tieng-anh-1">ly</Link>/
-              <sup>⬤</sup>
+              <sup> ⬤</sup>
             </span>
           </li>
 

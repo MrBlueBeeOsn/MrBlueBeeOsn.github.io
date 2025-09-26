@@ -27,7 +27,7 @@ export default function Correctly_2() {
           <strong>Correctly </strong>
           <span className="highlight-white-padding-4-8">
             /kəˈrektli/ + /<Link to="/english/tienganh/he-thong-7-dau-phu-phien-am-tieng-anh-1">cơrrectly</Link>/
-            <sup>•⬤• (3x)</sup></span> 
+            <sup> •⬤• (3x)</sup></span> 
             trong tiếng Anh có nghĩa là "một cách chính xác", "đúng đắn", thường được dùng để mô tả một hành động, câu trả lời, hoặc thông tin hoàn toàn đúng và không có sai sót.
         </p>
 
