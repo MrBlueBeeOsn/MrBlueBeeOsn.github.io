@@ -457,6 +457,17 @@ h6.margin-y-5 {
     margin-top: 0.5rem;     /* 5px */
 }
 
+.no-margin,
+p.no-margin,
+h1.no-margin,
+h2.no-margin,
+h3.no-margin,
+h4.no-margin,
+h5.no-margin,
+h6.no-margin {
+    margin: 0;
+}
+
 /* =============================
   padding
 ============================= */
@@ -663,6 +674,17 @@ h5.padding-y-5,
 h6.padding-y-5 {
     padding-bottom: 0.5rem;     /* 5px */
     padding-top: 0.5rem;     /* 5px */
+}
+
+.no-padding,
+p.no-padding,
+h1.no-padding,
+h2.no-padding,
+h3.no-padding,
+h4.no-padding,
+h5.no-padding,
+h6.no-padding {
+    padding: 0;
 }
 
 .padding-left-40 {
