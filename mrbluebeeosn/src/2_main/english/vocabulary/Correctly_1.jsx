@@ -30,7 +30,7 @@ export default function Correctly_1() {
           <li>
             <span className="highlight-white-padding-3-6">
               /kəˈrektli/ + /<Link to="/english/tienganh/he-thong-7-dau-phu-phien-am-tieng-anh-1">cơrrectly</Link>/
-              <sup> •⬤• (3x)</sup>
+              <sup>&nbsp;•⬤• (3x)</sup>
             </span>
           </li>
 
@@ -140,7 +140,7 @@ export default function Correctly_1() {
       <strong>
         <mark className="highlight-white-padding-4-8"><strong>1. Liên kết</strong></mark> 
       </strong>
-      <strong> với hình ảnh</strong>:
+      <strong>&nbsp;với hình ảnh</strong>:
     </p>
 
     <p className="text-indent-whole">Hình dung một học sinh đang làm bài kiểm tra và đánh dấu đúng vào đáp án.</p>
@@ -161,7 +161,7 @@ export default function Correctly_1() {
       <strong>
         <mark className="highlight-white-padding-4-8"><strong>2. Tạo câu</strong></mark> 
       </strong>
-      <strong> ví dụ</strong>:
+      <strong>&nbsp;ví dụ</strong>:
     </p>
 
     <p className="text-indent-whole">Tạo các câu ví dụ khác nhau với từ "<strong>correctly</strong>" trong nhiều ngữ cảnh.</p>
@@ -182,7 +182,7 @@ export default function Correctly_1() {
       <strong>
           <mark className="highlight-white-padding-4-8"><strong>3. Luyện tập</strong></mark>
       </strong>
-      <strong> thường xuyên</strong>:
+      <strong>&nbsp;thường xuyên</strong>:
     </p>
 
     <p className="text-indent-whole">Thường xuyên sử dụng từ này trong các cuộc hội thoại và bài viết.</p>

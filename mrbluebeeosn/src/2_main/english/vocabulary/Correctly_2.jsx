@@ -9,9 +9,11 @@ export default function Correctly_2() {
     <h4><HashLink smooth to="/english#tinh-chinh-xac-terms"><mark className="highlight-tertiary-padding-4-8">Tính chính xác</mark></HashLink></h4>
     
     <h2 className="margin-y-50 text-center">correctly
-      <sup><Link to="/english/vocabulary/correctly-1">&nbsp;1&nbsp;</Link>
+      <sup>
+        <Link to="/english/vocabulary/correctly-1">&nbsp;1&nbsp;</Link>
       </sup>
-      <sup><Link to="/english/vocabulary/correctly-2">&nbsp;2&nbsp;</Link>
+      <sup>
+        <Link to="/english/vocabulary/correctly-2">&nbsp;2&nbsp;</Link>
       </sup>
     </h2>
 
@@ -24,10 +26,21 @@ export default function Correctly_2() {
       <div>
 
         <p className="margin-y-10">
-          <strong>Correctly </strong>
+          
+          <strong>Correctly&nbsp;</strong>
+          
           <span className="highlight-white-padding-3-6">
-            /kəˈrektli/ + /<Link to="/english/tienganh/he-thong-7-dau-phu-phien-am-tieng-anh-1">cơrrectly</Link>/
-            <sup> •⬤• (3x)</sup></span> trong tiếng Anh có nghĩa là "một cách chính xác", "đúng đắn", thường được dùng để mô tả một hành động, câu trả lời, hoặc thông tin hoàn toàn đúng và không có sai sót.
+            
+            /kəˈrektli/ + /
+            
+            <Link to="/english/tienganh/he-thong-7-dau-phu-phien-am-tieng-anh-1">cơrrectly</Link>/
+            
+            <sup>&nbsp;•⬤• (3x)</sup>
+            
+          </span>
+            
+            &nbsp;trong tiếng Anh có nghĩa là "một cách chính xác", "đúng đắn", thường được dùng để mô tả một hành động, câu trả lời, hoặc thông tin hoàn toàn đúng và không có sai sót.
+
         </p>
 
       </div>

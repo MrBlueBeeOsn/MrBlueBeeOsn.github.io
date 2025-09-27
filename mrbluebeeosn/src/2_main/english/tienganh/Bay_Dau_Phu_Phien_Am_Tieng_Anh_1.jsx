@@ -258,7 +258,7 @@ export default function Bay_Dau_Phu_Phien_Am_Tieng_Anh_1() {
 
     <div className="margin-y-50 table-container">
 
-      <h4 className="margin-y-50 text-center" id="hook">5. Hook (̛ ) — Âm schwa và schwa + r</h4>
+      <h4 className="margin-y-50 text-center" id="hook">5. Hook ( ̛ ) — Âm schwa và schwa + r</h4>
 
       <p>📌 Dấu móc (như “ơ”) cho âm trung tính schwa và schwa +r.</p>
 
@@ -385,18 +385,18 @@ export default function Bay_Dau_Phu_Phien_Am_Tieng_Anh_1() {
         
         <tbody>
           <tr>
-              <td><strong>ō̄</strong> = /uː/</td>
-              <td>dō̄ = /duː/, whō̄se = /huːz/</td>
-          </tr>
-
-          <tr>
-              <td><strong>ā̄</strong> = /eə/ (<HashLink smooth to="#rp">RP</HashLink>), /e/ (<HashLink smooth to="#ga">GA</HashLink>)</td>
+              <td><strong>ā̄</strong> = /e/ (<HashLink smooth to="#ga">GA</HashLink>) <br/> = /eə/ (<HashLink smooth to="#rp">RP</HashLink>)</td>
               <td>squā̄re = /skwer/ (<HashLink smooth to="#ga">GA</HashLink>) = /skweər/ (<HashLink smooth to="#rp">RP</HashLink>)</td>
           </tr>
 
           <tr>
               <td><strong>ē̄</strong> = /ɑː/</td>
               <td>gē̄nre = /ˈʒɑːn.rə/</td>
+          </tr>
+
+          <tr>
+              <td><strong>ō̄</strong> = /uː/</td>
+              <td>dō̄ = /duː/, whō̄se = /huːz/</td>
           </tr>
 
           <tr>
@@ -434,9 +434,7 @@ export default function Bay_Dau_Phu_Phien_Am_Tieng_Anh_1() {
       </table>
     </div>
 
-    <hr className="hr-short"/>
-
-    <h3 className="margin-bottom-50 text-center">🔔 GHI CHÚ & NGUYÊN TẮC THỰC DỤNG</h3>
+    <h3 className="margin-y-50 text-center">🔔 GHI CHÚ & NGUYÊN TẮC THỰC DỤNG</h3>
 
     <h4 className="margin-top-30">🔹 Ta giữ giản lược:</h4>
 

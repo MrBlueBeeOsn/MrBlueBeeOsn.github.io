@@ -3,39 +3,39 @@ import { Link } from "react-router-dom";
 export default function Home() {
   return (<>
      
-      <main className="image">
+    <main className="image">
 
-        <h1 className="margin-y-50 text-center">🌻 Welcome!</h1>
+      <h1 className="margin-y-50 text-center">🌻 Welcome!</h1>
 
-        <p className="quote">
+      <p className="quote">
 
-          🐝 <Link to="/bookkeeping/what-is-bookkeeping?">Bookkeeping</Link> is the process of <mark className="highlight-white-padding-0-4">recording, classifying, and organizing</mark> a company's <mark className="highlight-white-padding-0-4">financial transactions.</mark>
+        🐝 <Link to="/bookkeeping/what-is-bookkeeping?">Bookkeeping</Link> is the process of <mark className="highlight-white-padding-0-4">recording, classifying, and organizing</mark> a company's <mark className="highlight-white-padding-0-4">financial transactions.</mark>
 
-        </p>
+      </p>
+      
+      <p className="quote">
+
+        🐝 <Link to="/english/what-is-the-english-language?">The English language</Link> is like a giant toolbox filled with <mark className="highlight-white-padding-0-4">words</mark> and <mark className="highlight-white-padding-0-4">grammar rules</mark> that you can use to <mark className="highlight-white-padding-0-4">communicate with people all over the world!</mark> 🌍
         
-        <p className="quote">
+      </p>
 
-          🐝 <Link to="/english/what-is-the-english-language?">The English language</Link> is like a giant toolbox filled with <mark className="highlight-white-padding-0-4">words</mark> and <mark className="highlight-white-padding-0-4">grammar rules</mark> that you can use to <mark className="highlight-white-padding-0-4">communicate with people all over the world!</mark> 🌍
-          
-        </p>
-
-        <div className="grid">
-          <div className="card2">
-            <p className="text-small">
-          
-              ☕ Happy <mark className="highlight-tertiary-padding-2-4">reading</mark> today!
+      <div className="grid">
+        <div className="card2">
+          <p className="text-small no-margin">
         
-            </p>
-          </div>
+            ☕ Happy <mark className="highlight-tertiary-padding-2-4">reading</mark> today!
+      
+          </p>
         </div>
+      </div>
 
-        <p className="margin-bottom-50 text-center text-small">
-            
-          __Summer, 2025 - by <Link to="/mrbeeosn">Mr. Bee Osn</Link>--
+      <p className="margin-bottom-50 text-center text-small">
           
-        </p>
+        __Summer, 2025 - by <Link to="/mrbeeosn">Mr. Bee Osn</Link>--
+        
+      </p>
 
-      </main>
+    </main>
 
   </>);
 }

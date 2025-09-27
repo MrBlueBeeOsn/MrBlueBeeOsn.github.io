@@ -9,9 +9,11 @@ export default function Thoroughly_2() {
     <h4><HashLink smooth to="/english#tinh-ti-mi-terms"><mark className="highlight-tertiary-padding-4-8">Tính tỉ mỉ</mark></HashLink></h4>
     
     <h2 className="margin-y-50 text-center">thoroughly
-      <sup><Link to="/english/vocabulary/thoroughly-1">&nbsp;1&nbsp;</Link>
+      <sup>
+        <Link to="/english/vocabulary/thoroughly-1">&nbsp;1&nbsp;</Link>
       </sup>
-      <sup><Link to="/english/vocabulary/thoroughly-2">&nbsp;2&nbsp;</Link>
+      <sup>
+        <Link to="/english/vocabulary/thoroughly-2">&nbsp;2&nbsp;</Link>
       </sup>
     </h2>
 
@@ -24,10 +26,21 @@ export default function Thoroughly_2() {
       <div>
 
         <p className="margin-y-10">
-          <strong>Thoroughly </strong>
+
+          <strong>Thoroughly&nbsp;</strong>
+
           <span className="highlight-white-padding-3-6">
-            /ˈθʌrəli/ + /<Link to="/english/tienganh/he-thong-7-dau-phu-phien-am-tieng-anh-1">thôrơughly</Link>/
-            <sup> ⬤•• (3x)</sup></span> thường được sử dụng để nhấn mạnh tính kỹ lưỡng, hoàn toàn, triệt để của một hành động hoặc quá trình nào đó.
+
+            /ˈθʌrəli/ + /
+            
+            <Link to="/english/tienganh/he-thong-7-dau-phu-phien-am-tieng-anh-1">thôrơughly</Link>/
+
+            <sup>&nbsp;⬤•• (3x)</sup>
+
+          </span>
+
+          &nbsp;thường được sử dụng để nhấn mạnh tính kỹ lưỡng, hoàn toàn, triệt để của một hành động hoặc quá trình nào đó.
+        
         </p>
 
       </div>

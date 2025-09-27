@@ -30,7 +30,7 @@ export default function Scrupulously_1() {
           <li>
             <span className="highlight-white-padding-3-6">
               /ˈskruː.pjə.ləs.li/ + /<Link to="/english/tienganh/he-thong-7-dau-phu-phien-am-tieng-anh-1">scrüpư̇lơusly</Link>/
-              <sup> ⬤••• (4x)</sup>
+              <sup>&nbsp;⬤••• (4x)</sup>
             </span>
           </li>
           
@@ -148,7 +148,7 @@ export default function Scrupulously_1() {
       <strong>
         <mark className="highlight-white-padding-4-8"><strong>1. Liên kết</strong></mark> 
       </strong>
-      <strong> với hình ảnh</strong>:
+      <strong>&nbsp;với hình ảnh</strong>:
     </p>
 
     <p className="text-indent-whole">Hình dung một người đang kiểm tra kỹ lưỡng một tài liệu hoặc một người đang lau dọn nhà cửa một cách tỉ mỉ.</p>
@@ -173,7 +173,7 @@ export default function Scrupulously_1() {
       <strong>
         <mark className="highlight-white-padding-4-8"><strong>2. Tạo câu</strong></mark> 
       </strong>
-      <strong> ví dụ</strong>:
+      <strong>&nbsp;ví dụ</strong>:
     </p>
 
     <p className="text-indent-whole">Tạo các câu liên quan đến các tình huống thể hiện sự tỉ mỉ và cẩn trọng.</p>
@@ -194,7 +194,7 @@ export default function Scrupulously_1() {
       <strong>
           <mark className="highlight-white-padding-4-8"><strong>3. Luyện tập</strong></mark>
       </strong>
-      <strong> thường xuyên</strong>:
+      <strong>&nbsp;thường xuyên</strong>:
     </p>
 
     <p className="text-indent-whole">Thường xuyên sử dụng từ này trong các bài viết hoặc cuộc trò chuyện.</p>

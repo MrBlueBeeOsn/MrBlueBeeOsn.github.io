@@ -30,7 +30,7 @@ export default function Diligently_1() {
           <li>
             <span className="highlight-white-padding-3-6">
               /ˈdɪl.ə.dʒənt.li/ + /<Link to="/english/tienganh/he-thong-7-dau-phu-phien-am-tieng-anh-1">dili̛ge̛ntly</Link>/
-              <sup> ⬤••• (4x)</sup>
+              <sup>&nbsp;⬤••• (4x)</sup>
             </span>
           </li>
           
@@ -140,7 +140,7 @@ export default function Diligently_1() {
       <strong>
         <mark className="highlight-white-padding-4-8"><strong>1. Liên kết</strong></mark> 
       </strong>
-      <strong> với hình ảnh</strong>:
+      <strong>&nbsp;với hình ảnh</strong>:
     </p>
 
     <p className="text-indent-whole">Hình dung một người đang học bài với cuốn sách và bút, hoặc một công nhân đang làm việc chăm chỉ.</p>
@@ -161,7 +161,7 @@ export default function Diligently_1() {
       <strong>
         <mark className="highlight-white-padding-4-8"><strong>2. Tạo câu</strong></mark> 
       </strong>
-      <strong> ví dụ</strong>:
+      <strong>&nbsp;ví dụ</strong>:
     </p>
 
     <p className="text-indent-whole">Tạo các câu liên quan đến những hoạt động đòi hỏi sự chăm chỉ.</p>
@@ -182,7 +182,7 @@ export default function Diligently_1() {
       <strong>
           <mark className="highlight-white-padding-4-8"><strong>3. Luyện tập</strong></mark>
       </strong>
-      <strong> thường xuyên</strong>:
+      <strong>&nbsp;thường xuyên</strong>:
     </p>
 
     <p className="text-indent-whole">Thường xuyên sử dụng từ này trong các bài viết hoặc cuộc trò chuyện.</p>

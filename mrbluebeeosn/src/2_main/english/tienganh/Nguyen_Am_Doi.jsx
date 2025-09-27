@@ -22,7 +22,7 @@ export default function Nguyen_Am_Doi() {
       <table>
         <thead>
           <tr>
-            <th>IPA</th>
+            <th>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;IPA&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</th>
             <th>Ví dụ</th>
           </tr>
         </thead>
@@ -59,13 +59,13 @@ export default function Nguyen_Am_Doi() {
           </tr>
 
           <tr>
-              <td>/jə/</td>
-              <td>accư̇ra̛te = /ˈæk.jɚ.ət/ (u̇ + ư = jə)</td>
+              <td>/jə/ (u̇+ư)</td>
+              <td>accư̇ra̛te = /ˈæk.jɚ.ət/ </td>
           </tr>
 
           <tr>
-              <td>/eə/ (<HashLink smooth to="#rp">RP</HashLink>), /e/ (<HashLink smooth to="#ga">GA</HashLink>)</td>
-              <td>squā̄re = /skwer/ (<HashLink smooth to="#ga">GA</HashLink>) = /skweər/ (<HashLink smooth to="#rp">RP</HashLink>)</td>
+              <td>/eə/ (<HashLink smooth to="#rp">RP</HashLink>)</td>
+              <td>squā̄re = /skweər/ (<HashLink smooth to="#rp">RP</HashLink>) = /skwer/ (<HashLink smooth to="#ga">GA</HashLink>)</td>
           </tr>
         </tbody>
       </table>

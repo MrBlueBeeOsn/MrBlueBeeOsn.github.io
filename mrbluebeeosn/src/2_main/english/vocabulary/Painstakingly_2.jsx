@@ -9,9 +9,11 @@ export default function Painstakingly_2() {
     <h4><HashLink smooth to="/english#tinh-ti-mi-terms"><mark className="highlight-tertiary-padding-4-8">Tính tỉ mỉ</mark></HashLink></h4>
     
     <h2 className="margin-y-50 text-center">painstakingly
-      <sup><Link to="/english/vocabulary/painstakingly-1">&nbsp;1&nbsp;</Link>
+      <sup>
+        <Link to="/english/vocabulary/painstakingly-1">&nbsp;1&nbsp;</Link>
       </sup>
-      <sup><Link to="/english/vocabulary/painstakingly-2">&nbsp;2&nbsp;</Link>
+      <sup>
+        <Link to="/english/vocabulary/painstakingly-2">&nbsp;2&nbsp;</Link>
       </sup>
     </h2>
 
@@ -24,10 +26,21 @@ export default function Painstakingly_2() {
       <div>
 
         <p className="margin-y-10">
-          <strong>Painstakingly </strong>
+          
+          <strong>Painstakingly&nbsp;</strong>
+          
           <span className="highlight-white-padding-3-6">
-            /ˈpeɪnzˌteɪ.kɪŋ.li/ + /<Link to="/english/tienganh/he-thong-7-dau-phu-phien-am-tieng-anh-1">pāinstākingly</Link>/
-            <sup> ⬤••• (4x)</sup></span> thường được dùng để mô tả một hành động hoặc quá trình được thực hiện một cách tỉ mỉ, cẩn thận, đòi hỏi nhiều công sức và sự chú ý đến từng chi tiết.
+            
+            /ˈpeɪnzˌteɪ.kɪŋ.li/ + /
+            
+            <Link to="/english/tienganh/he-thong-7-dau-phu-phien-am-tieng-anh-1">pāinstākingly</Link>/
+            
+            <sup>&nbsp;⬤••• (4x)</sup>
+          
+          </span>
+          
+          &nbsp;thường được dùng để mô tả một hành động hoặc quá trình được thực hiện một cách tỉ mỉ, cẩn thận, đòi hỏi nhiều công sức và sự chú ý đến từng chi tiết.
+
         </p>
 
       </div>

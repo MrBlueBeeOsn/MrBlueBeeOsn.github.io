@@ -30,7 +30,7 @@ export default function Precisely_1() {
           <li>
             <span className="highlight-white-padding-3-6">
               /prɪˈsaɪs.li/ + /<Link to="/english/tienganh/he-thong-7-dau-phu-phien-am-tieng-anh-1">prėcīsely</Link>/
-              <sup> •⬤• (3x)</sup>
+              <sup>&nbsp;•⬤• (3x)</sup>
             </span>
           </li>
 
@@ -148,7 +148,7 @@ export default function Precisely_1() {
       <strong>
         <mark className="highlight-white-padding-4-8"><strong>1. Liên kết</strong></mark> 
       </strong>
-      <strong> với hình ảnh</strong>:
+      <strong>&nbsp;với hình ảnh</strong>:
     </p>
 
     <p className="text-indent-whole">Hình dung một người thợ kim hoàn đang chế tác một món đồ trang sức tinh xảo hoặc một nhà khoa học đang thực hiện một thí nghiệm với các phép đo chính xác.</p>
@@ -173,7 +173,7 @@ export default function Precisely_1() {
       <strong>
         <mark className="highlight-white-padding-4-8"><strong>2. Tạo câu</strong></mark> 
       </strong>
-      <strong> ví dụ</strong>:
+      <strong>&nbsp;ví dụ</strong>:
     </p>
 
     <p className="text-indent-whole">Tạo các câu liên quan đến các tình huống thể hiện sự chính xác và tỉ mỉ.</p>
@@ -194,7 +194,7 @@ export default function Precisely_1() {
       <strong>
           <mark className="highlight-white-padding-4-8"><strong>3. Luyện tập</strong></mark>
       </strong>
-      <strong> thường xuyên</strong>:
+      <strong>&nbsp;thường xuyên</strong>:
     </p>
 
     <p className="text-indent-whole">Thường xuyên sử dụng từ này trong các bài viết hoặc cuộc trò chuyện.</p>

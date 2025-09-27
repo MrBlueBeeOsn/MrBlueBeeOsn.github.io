@@ -9,9 +9,11 @@ export default function Accurately_2() {
     <h4><HashLink smooth to="/english#tinh-chinh-xac-terms"><mark className="highlight-tertiary-padding-4-8">Tính chính xác</mark></HashLink></h4>
     
     <h2 className="margin-y-50 text-center">accurately
-      <sup><Link to="/english/vocabulary/accurately-1">&nbsp;1&nbsp;</Link>
+      <sup>
+        <Link to="/english/vocabulary/accurately-1">&nbsp;1&nbsp;</Link>
       </sup>
-      <sup><Link to="/english/vocabulary/accurately-2">&nbsp;2&nbsp;</Link>
+      <sup>
+        <Link to="/english/vocabulary/accurately-2">&nbsp;2&nbsp;</Link>
       </sup>
     </h2>
 
@@ -24,10 +26,21 @@ export default function Accurately_2() {
       <div>
 
         <p className="margin-y-10">
-          <strong>Accurately </strong>
+          
+          <strong>Accurately&nbsp;</strong>
+          
           <span className="highlight-white-padding-3-6">
-            /ˈækjərətli/ + /<Link to="/english/tienganh/he-thong-7-dau-phu-phien-am-tieng-anh-1">accư̇ra̛tely</Link>/ 
-            <sup> ⬤••• (4x)</sup></span> trong tiếng Anh có nghĩa là "một cách chính xác", "một cách đúng đắn". Từ này thường được dùng để mô tả việc làm gì đó một cách tỉ mỉ, không sai sót, trùng khớp với thực tế.
+            
+            /ˈækjərətli/ + /
+            
+            <Link to="/english/tienganh/he-thong-7-dau-phu-phien-am-tieng-anh-1">accư̇ra̛tely</Link>/ 
+            
+            <sup>&nbsp;⬤••• (4x)</sup>
+            
+          </span>
+            
+          &nbsp;trong tiếng Anh có nghĩa là "một cách chính xác", "một cách đúng đắn". Từ này thường được dùng để mô tả việc làm gì đó một cách tỉ mỉ, không sai sót, trùng khớp với thực tế.
+
         </p>
 
       </div>

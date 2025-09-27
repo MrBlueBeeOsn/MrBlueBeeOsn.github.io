@@ -250,29 +250,29 @@ export default function Bay_Dau_Phu_Phien_Am_Tieng_Anh_2() {
 
       <h4 className="margin-y-50 text-center" id="double-macron">7. Double Macron <mark className="highlight-tertiary-padding-4-8">&nbsp; ̄ ̄</mark> — Âm dài đặc biệt và biến thể mở rộng</h4>
 
-      <p className="margin-top-20 text-indent-whole">📌 Biểu thị âm /uː/, /e/</p>
+      <p className="margin-top-20 text-indent-whole">📌 Biểu thị âm /e/ /ɑː/ /uː/ /e/</p>
 
       <p className="margin-y-20 text-word-spacing-1">
-        <span className="highlight-white-padding-4-8">ō̄ ā̄</span>
+        <span className="highlight-white-padding-4-8">ā̄ ē̄ ō̄ ū̄</span>
       </p>
 
       <p className="text-center">↓</p>
 
       <p className="margin-y-20 text-word-spacing-1">
-        <span className="highlight-white-padding-4-8">u: e ɑː</span>
+        <span className="highlight-white-padding-4-8">e ɑː u: e</span>
       </p>
 
         <ul className="list-square">
 
+          <li>mā̄ny = /ˈmen.i/</li>
+          <li>lībrā̄ry = /ˈlaɪ.brer.i/</li>
+          <li className="margin-bottom-50">squā̄re = /skwer/ (<HashLink smooth to="#ga">GA</HashLink>) = /skweər/ (<HashLink smooth to="#rp">RP</HashLink>)</li>
+
+          <li className="margin-bottom-50">gē̄nre = /ˈʒɑːn.rə/</li>
+
           <li>dō̄ = /duː/</li>
-
-          <li className="margin-bottom-20">who = /whō̄/ = /huː/</li>
-
-          <li>squā̄re /skweər/ (<HashLink smooth to="#rp">RP</HashLink>) = </li>
-
-          <li className="margin-bottom-50">squā̄re = /skwer/ (<HashLink smooth to="#ga">GA</HashLink>)</li>
-
-          <li>gē̄nre = /ˈʒɑːn.rə/</li>
+          <li>mō̄ve =  /muːv/</li>
+          <li className="margin-bottom-20">whō̄ = /huː/</li>
 
           <li className="margin-bottom-20">bū̄ry = /ˈber.i/</li>
 

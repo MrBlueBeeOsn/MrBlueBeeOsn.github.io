@@ -105,10 +105,14 @@ export default function () {
       </div>
       
     </div>
+
+    &nbsp;
     
     id=""
 
     <a href="url">link text</a>
+
+    <HashLink smooth to="#url">link text</HashLink>
 
     <img src="url" alt="alternatetext">
 

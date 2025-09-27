@@ -23,7 +23,7 @@ export default function Nguyen_Am_Don() {
         <thead>
 
           <tr>
-            <th>IPA</th>
+            <th>&nbsp;IPA&nbsp;</th>
             <th>Ví dụ</th>
           </tr>
 
@@ -37,7 +37,7 @@ export default function Nguyen_Am_Don() {
           </tr>
 
           <tr>
-            <td>/e/ (<HashLink smooth to="#ga">GA</HashLink>), /eə/ (<HashLink smooth to="#rp">RP</HashLink>)</td>
+            <td>/e/</td>
             <td>bed = /bed/; squā̄re = /skwer/ (<HashLink smooth to="#ga">GA</HashLink>) = /skweər/ (<HashLink smooth to="#rp">RP</HashLink>)= ; bū̄ry = /ˈber.i/</td>
           </tr>
 
@@ -52,7 +52,7 @@ export default function Nguyen_Am_Don() {
           </tr>
 
           <tr>
-            <td>/ɑː/ (<HashLink smooth to="#ga">GA</HashLink>) = /ɒ/ (<HashLink smooth to="#rp">RP</HashLink>)</td>
+            <td>/ɑː/</td>
             <td>hot = /hɑːt/ (<HashLink smooth to="#ga">GA</HashLink>) = /hɒt/ (<HashLink smooth to="#rp">RP</HashLink>)</td>
           </tr>
 

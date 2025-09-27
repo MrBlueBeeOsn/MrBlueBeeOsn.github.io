@@ -30,7 +30,7 @@ export default function Accurately_1() {
           <li>
             <span className="highlight-white-padding-3-6">
               /i/ + /<Link to="/english/tienganh/he-thong-7-dau-phu-phien-am-tieng-anh-1">ly</Link>/
-              <sup> ⬤</sup>
+              <sup>&nbsp;⬤</sup>
             </span>
           </li>
 
@@ -152,7 +152,7 @@ export default function Accurately_1() {
       <strong>
         <mark className="highlight-white-padding-4-8"><strong>1. Liên kết</strong></mark> 
       </strong>
-      <strong> với hình ảnh</strong>:
+      <strong>&nbsp;với hình ảnh</strong>:
     </p>
 
     <p className="text-indent-whole"></p>
@@ -173,7 +173,7 @@ export default function Accurately_1() {
       <strong>
         <mark className="highlight-white-padding-4-8"><strong>2. Tạo câu</strong></mark> 
       </strong>
-      <strong> ví dụ</strong>:
+      <strong>&nbsp;ví dụ</strong>:
     </p>
 
     <p className="text-indent-whole"></p>
@@ -194,7 +194,7 @@ export default function Accurately_1() {
       <strong>
           <mark className="highlight-white-padding-4-8"><strong>3. Luyện tập</strong></mark>
       </strong>
-      <strong> thường xuyên</strong>:
+      <strong>&nbsp;thường xuyên</strong>:
     </p>
 
     <p className="text-indent-whole"></p>
