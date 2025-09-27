@@ -43,7 +43,7 @@ export default function Nguyen_Am_Don() {
 
           <tr>
             <td>/ɪ/</td>
-            <td>sit = /sɪt/; myth = /mɪθ/; imȧge = /ˈɪm.ɪdʒ/; fit = fɪt/; wȯmėn = /ˈwɪm.ɪn/; bu̇sinėss = /ˈbɪz.nɪs/</td>
+            <td>imȧge = /ˈɪm.ɪdʒ/; ėxpense = /ɪkˈspens/, sit = /sɪt/; wȯmėn = /ˈwɪm.ɪn/; bu̇sinėss = /ˈbɪz.nɪs/, myth = /mɪθ/;</td>
           </tr>
      
           <tr>
