@@ -54,7 +54,7 @@ export default function Bay_Dau_Phu_Phien_Am_Tieng_Anh_1() {
       <table className="margin-y-50">
         <thead>
           <tr>
-            <th>Ký hiệu = /IPA/</th>
+            <th>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ký hiệu = /IPA/&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</th>
             <th>Ví dụ</th>
           </tr>
         </thead>
@@ -76,8 +76,8 @@ export default function Bay_Dau_Phu_Phien_Am_Tieng_Anh_1() {
           </tr>
 
           <tr>
-              <td><strong>o</strong> = /ɑː/ (<HashLink smooth to="#ga">GA</HashLink>) = /ɒ/ (<HashLink smooth to="#rp">RP</HashLink>)</td>
-              <td>hot = /hɑːt/ (<HashLink smooth to="#ga">GA</HashLink>) = /hɒt/ (<HashLink smooth to="#rp">RP</HashLink>)</td>
+              <td><strong>o</strong> = /ɑː/ (<HashLink smooth to="#ga">GA</HashLink>) <br/>&nbsp; = /ɒ/ (<HashLink smooth to="#rp">RP</HashLink>)</td>
+              <td>hot = /hɑːt/ (<HashLink smooth to="#ga">GA</HashLink>) <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; = /hɒt/ (<HashLink smooth to="#rp">RP</HashLink>)</td>
           </tr>
 
           <tr>
@@ -116,7 +116,7 @@ export default function Bay_Dau_Phu_Phien_Am_Tieng_Anh_1() {
       <table className="margin-y-50">
         <thead>
           <tr>
-            <th>Ký hiệu = /IPA/</th>
+            <th>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ký hiệu = /IPA/&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</th>
             <th>Ví dụ</th>
           </tr>
         </thead>
@@ -138,8 +138,8 @@ export default function Bay_Dau_Phu_Phien_Am_Tieng_Anh_1() {
           </tr>
 
           <tr>
-              <td><strong>ō</strong> = /oʊ/</td>
-              <td>gō = /ɡoʊ/ (<HashLink smooth to="#ga">GA</HashLink>) = /ɡəʊ/ (<HashLink smooth to="#rp">RP</HashLink>)</td>
+              <td><strong>ō</strong> = /oʊ/ (<HashLink smooth to="#ga">GA</HashLink>) <br/>&nbsp; = /əʊ/ (<HashLink smooth to="#rp">RP</HashLink>)</td>
+              <td>gō = /ɡoʊ/ (<HashLink smooth to="#ga">GA</HashLink>) <br/>&nbsp;&nbsp;&nbsp;&nbsp; = /ɡəʊ/ (<HashLink smooth to="#rp">RP</HashLink>)</td>
           </tr>
 
           <tr>
@@ -173,7 +173,7 @@ export default function Bay_Dau_Phu_Phien_Am_Tieng_Anh_1() {
       <table className="margin-y-50">
         <thead>
           <tr>
-            <th>Ký hiệu = /IPA/</th>
+            <th>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ký hiệu = /IPA/&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</th>
             <th>Ví dụ</th>
           </tr>
         </thead>
@@ -210,7 +210,7 @@ export default function Bay_Dau_Phu_Phien_Am_Tieng_Anh_1() {
       <table className="margin-y-50">
         <thead>
           <tr>
-            <th>Ký hiệu = /IPA/</th>
+            <th>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ký hiệu = /IPA/&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</th>
             <th>Ví dụ</th>
           </tr>
         </thead>
@@ -265,7 +265,7 @@ export default function Bay_Dau_Phu_Phien_Am_Tieng_Anh_1() {
       <table className="margin-y-50">
         <thead>
           <tr>
-            <th>Ký hiệu = /IPA/</th>
+            <th>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ký hiệu = /IPA/&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</th>
             <th>Ví dụ</th>
           </tr>
         </thead>
@@ -336,7 +336,7 @@ export default function Bay_Dau_Phu_Phien_Am_Tieng_Anh_1() {
       <table className="margin-y-50">
         <thead>
           <tr>
-            <th>Ký hiệu = /IPA/</th>
+            <th>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ký hiệu = /IPA/&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</th>
             <th>Ví dụ</th>
           </tr>
         </thead>
@@ -378,15 +378,15 @@ export default function Bay_Dau_Phu_Phien_Am_Tieng_Anh_1() {
       <table className="margin-y-50">
         <thead>
           <tr>
-            <th>Ký hiệu = /IPA/</th>
+            <th>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ký hiệu = /IPA/&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</th>
             <th>Ví dụ</th>
           </tr>
         </thead>
         
         <tbody>
           <tr>
-              <td><strong>ā̄</strong> = /e/ (<HashLink smooth to="#ga">GA</HashLink>) <br/> = /eə/ (<HashLink smooth to="#rp">RP</HashLink>)</td>
-              <td>squā̄re = /skwer/ (<HashLink smooth to="#ga">GA</HashLink>) = /skweər/ (<HashLink smooth to="#rp">RP</HashLink>)</td>
+              <td><strong>ā̄</strong> = /e/ (<HashLink smooth to="#ga">GA</HashLink>) <br/>&nbsp;&nbsp;&nbsp; = /eə/ (<HashLink smooth to="#rp">RP</HashLink>)</td>
+              <td>squā̄re = /skwer/ (<HashLink smooth to="#ga">GA</HashLink>) <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; = /skweər/ (<HashLink smooth to="#rp">RP</HashLink>)</td>
           </tr>
 
           <tr>
@@ -420,7 +420,7 @@ export default function Bay_Dau_Phu_Phien_Am_Tieng_Anh_1() {
       <table className="margin-y-50">
         <thead>
           <tr>
-            <th>Ký hiệu = /IPA/</th>
+            <th>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ký hiệu = /IPA/&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</th>
             <th>Ví dụ</th>
           </tr>
         </thead>
