@@ -1,4 +1,5 @@
 import React, { useState, useEffect } from 'react';
+import { Link } from 'react-router-dom';
 import SearchBar from './SearchBar';
 import Posts from '../Posts';
 
@@ -10,6 +11,7 @@ export default function Blog() {
   useEffect(() => {
     // Gọi hàm Posts() để lấy dữ liệu
     setAllPosts(Posts());
+
   }, []);
 
   const handleSearchResults = (results) => {
@@ -34,10 +36,17 @@ export default function Blog() {
                 </p>
                 {displayedPosts.map(post => (
                   <article key={post.id} className="post-card">
+
+                    <span className="post-category"><Link to={`/${post.category}`}>{post.category}</Link></span>
+
                     <h2>{post.title}</h2>
+
                     <p className="post-date">Date: {post.date}</p>
+
                     <p>{post.content}</p>
-                    <a href={`#/${post.slug}`}>Read more</a>
+
+                    <Link to={`/${post.slug}`}>Read more</Link>
+
                   </article>
                 ))}
 
@@ -48,10 +57,17 @@ export default function Blog() {
                 </p>
                 {displayedPosts.map(post => (
                   <article key={post.id} className="post-card">
+
+                    <p className="post-category"><Link to={`/${post.category}`}>{post.category}</Link></p>
+
                     <h2>{post.title}</h2>
+
                     <p className="post-date">Date: {post.date}</p>
+
                     <p>{post.content}</p>
-                    <a href={`#/${post.slug}`}>Read more</a>
+
+                    <Link to={`/${post.slug}`}>Read more</Link>
+
                   </article>
                 ))}
               

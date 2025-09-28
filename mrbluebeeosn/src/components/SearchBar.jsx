@@ -16,10 +16,14 @@ export default function SearchBar({ posts, onSearchResults }) {
     setHasSearched(true);
     
     // Chỉ tìm kiếm khi có từ khóa
-    const filteredPosts = (posts || []).filter(post => 
-      post.title.toLowerCase().includes(searchTerm.toLowerCase()) ||
-      (post.content && post.content.toLowerCase().includes(searchTerm.toLowerCase()))
-    );
+    const filteredPosts = (posts || []).filter(post => {
+      const searchLower = searchTerm.toLowerCase();
+      return (
+        post.title.toLowerCase().includes(searchLower) ||
+        (post.content && post.content.toLowerCase().includes(searchLower)) ||
+        (post.category && post.category.toLowerCase().includes(searchLower))
+      );
+    });
     onSearchResults(filteredPosts);
   };
 
@@ -43,7 +47,7 @@ export default function SearchBar({ posts, onSearchResults }) {
         <svg xmlns="http://www.w3.org/2000/svg" className="icon" width="24" height="24" fill="currentColor" stroke="var(--secondary-color)" strokeWidth="2" viewBox="0 0 24 24">
 
             <circle cx="11" cy="11" r="8" />
-            
+
             <line x1="21" y1="21" x2="16.65" y2="16.65" />
             
         </svg>

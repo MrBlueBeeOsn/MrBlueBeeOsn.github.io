@@ -598,6 +598,18 @@ td:nth-child(1):hover {
 
 .post-date {
     color: #666;
-    font-size: 14px;
-    font-style: italic;
+    font-size: 1.8rem;
+    margin-top: 0.5rem;
+}
+
+.post-category {
+    font-size: 1.8rem;
+    text-align: left;
+    background-color: var(--tertiary-color); /* Teal rất nhạt*/
+    color: #333;
+    padding: 2px 6px;
+    margin-bottom: 1.5rem;
+    border-radius: 3px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    width: fit-content;
 }
