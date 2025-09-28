@@ -79,9 +79,17 @@ nav a {
     font-size: 1.8rem;           /* 18px */ /*16px;*/
 }
 
-.nav-link {
-    display: inline-block;
+.nav-bar {
+    display: flex;
+    justify-content: center;
+    align-items: center;
     position: relative;
+}
+
+.nav-link {
+    display: flex;
+    justify-content: center;
+    align-items: center;
     text-decoration: none;
     border-radius: 1.0rem;              /* 10px */ /* bo tròn */
     transition: transform 0.15s ease; /* mượt khi nhấn */

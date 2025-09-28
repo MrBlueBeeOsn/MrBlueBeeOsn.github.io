@@ -389,7 +389,7 @@ code {
 
 .table-container {
     max-width: 1000px;
-    background-color: #f5f5f5;
+    background-color: rgba(245, 245, 245, 0.5);
     border-radius: 15px;
     box-shadow: 0 10px 30px rgba(0, 0, 0, 0.15);
     padding: 3.0rem;
@@ -438,7 +438,7 @@ th:nth-child(5) {
 
 /* Tô màu cho toàn bộ cột thứ 3 */
 td:nth-child(1) {
-    background-color: white;
+    background-color: rgba(255, 255, 255, 0.5);
     font-weight: 600;
     color: var(--accent-color);
     text-align: center;
@@ -458,4 +458,158 @@ td:nth-child(1):hover {
     background-color: var(--tertiary-color);
     transform: scale(1.02);
     transition: all 0.2s ease;
+}
+
+/* =============================
+    Searchbar - by DPSK
+============================= */
+
+.blog-container {
+    max-width: 700px;
+    margin: 50px 0px;
+    width: 100%;
+}
+
+.search-bar input,
+.search-btn,
+.clear-btn {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-sizing: border-box;
+    height: 60px; /* hoặc giá trị cố định bạn muốn */
+    line-height: 1;
+    vertical-align: middle;
+    background-color: transparent;
+    -webkit-tap-highlight-color: transparent; /* iOS Safari & Chrome */
+    -webkit-focus-ring-color: transparent;    /* Safari */
+}
+
+.search-bar {
+    display: flex;
+    margin-top: 3rem;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    border-radius: 0px;
+}
+
+.search-bar input {
+    flex: 1;
+    padding: 1.0rem;
+    border: none;
+    border-bottom: 1px solid var(--secondary-color);
+    border-radius: 0px;
+    background-color: transparent;
+    font-size: 1.8rem;
+    font-family: Bellota Text, sans-serif;
+}
+
+.search-bar input:focus {
+    outline: none;
+    border-bottom: 1px solid var(--secondary-color);
+    border-radius: 0px;
+}
+
+.search-btn, .clear-btn {
+    padding: 2.0rem 0rem 2.0rem;
+    border: none;
+    border-bottom: 1px solid var(--secondary-color);
+    cursor: pointer;
+    transition: background-color 0.3s;
+    font-size: 1.8rem;
+    font-family: Bellota Text, sans-serif;
+    
+}
+
+.search-btn {
+    /* background: #007bff; */
+    /* color: white; */
+    background-color: transparent;
+}
+
+.icon {
+    color: var(--tertiary-color); /* ảnh hưởng đến fill/stroke nếu dùng currentColor */
+    font-size: 1.8rem;
+    font-family: Bellota Text, sans-serif;
+    padding: 0px;
+}
+
+/* .search-btn:hover {
+    background: #0056b3;
+} */
+
+/* .clear-btn.visible {
+  opacity: 1;
+  pointer-events: auto;
+} */
+
+
+.clear-btn {
+    opacity: 1;
+    pointer-events: auto;
+    background-color: transparent;
+    color: var(--secondary-color);
+    border-bottom: 1px solid var(--secondary-color);
+}
+
+
+/* .clear-btn:hover {
+    background: #545b62;
+} */
+
+.welcome-message {
+    text-align: center;
+    padding: 40px;
+    color: #666;
+    font-size: 18px;
+    background: #f8f9fa;
+    border-radius: 8px;
+}
+
+.no-results {
+    text-align: center;
+    padding: 40px;
+    color: #999;
+    font-size: 16px;
+    background: #fff3cd;
+    border-radius: 8px;
+}
+
+.results-count {
+    color: var(--secondary-color);
+    margin-top: 1rem;
+    margin-bottom: 5.0rem;
+}
+
+.post-card {
+    background-color: rgba(255, 255, 255, 0.5); /* #f8f9fa; */
+    padding: 2.0rem;
+    margin: 2.0rem 0;
+    border-radius: 3px;
+    border-left: 4px solid var(--secondary-color);
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.post-card h2 {
+    margin-top: 0;
+    color: #333;
+}
+
+.post-date {
+    color: #666;
+    font-size: 1.8rem;
+    margin-top: 0.5rem;
+}
+
+.post-category {
+    font-size: 1.8rem;
+    text-align: left;
+    background-color: var(--tertiary-color); /* Teal rất nhạt*/
+    color: #333;
+    padding: 2px 6px;
+    margin-bottom: 1.5rem;
+    border-radius: 3px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    width: fit-content;
 }
