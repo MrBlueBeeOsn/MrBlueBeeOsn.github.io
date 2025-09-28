@@ -260,6 +260,23 @@
                 margin-bottom: 4.0rem;
             }
 
+            /* =============================
+                Search 768px
+            ============================= */
+
+            .search-bar {
+                flex: 1;
+            }
+
+            .search-bar input {
+                min-width: 1.0rem;
+                font-size: 1.8rem;
+            }
+            
+            .search-bar input {
+                width: 100%;
+            }
+
         }
 
 /* =============================
@@ -377,6 +394,23 @@
                 padding: 0.7rem 0px;
                 margin-top: 3.0rem;
                 margin-bottom: 3.0rem;
+            }
+
+            /* =============================
+                Search 375px
+            ============================= */
+
+            .search-bar {
+                flex: 1;
+            }
+
+            .search-bar input {
+                min-width: 4.0rem;
+                font-size: 1.8rem;
+            }
+        
+            .search-bar input {
+                width: 100%;
             }
 
         }
