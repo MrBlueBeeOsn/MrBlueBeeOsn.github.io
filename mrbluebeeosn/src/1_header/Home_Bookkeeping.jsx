@@ -1,4 +1,6 @@
 import { Link } from "react-router-dom";
+import { HashLink } from 'react-router-hash-link';
+import ExternalLink from '../components/ExternalLink';
 
 export default function Home_Bookkeeping() {
   return (<>
@@ -28,7 +30,9 @@ export default function Home_Bookkeeping() {
       <li><Link to="/bookkeeping/what-is-a-trial-balance?">Trial balance</Link></li>
 
       <li><Link to="/bookkeeping/what-is-account-reconciliation?">Account reconciliation</Link></li>
-      
+
+      <li><Link to="https://mrgreenbeeosn.github.io/#/accounting/what-is-accounting">Accounting  <sup><ExternalLink /></sup></Link></li>
+
     </ul>
     
   </main>

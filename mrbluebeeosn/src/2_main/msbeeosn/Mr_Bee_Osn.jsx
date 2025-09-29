@@ -1,5 +1,6 @@
 import { Link } from "react-router-dom";
 import { HashLink } from 'react-router-hash-link';
+import ExternalLink from '/src/components/ExternalLink';
 
 export default function Mr_Bee_Osn() {
   return (<>
@@ -12,9 +13,9 @@ export default function Mr_Bee_Osn() {
 
         <li>Welcome everyone!</li>
 
-        <li>Đây là website <mark className="highlight-tertiary-padding-4-8">Bookkeeping + English</mark> nhiều trang nội bộ đầu tiên của mình!</li>
+        <li>Đây là website <mark className="highlight-tertiary-padding-0-4">Bookkeeping + English</mark> nhiều trang nội bộ đầu tiên của mình!</li>
         
-        <li>Trang web này được xây dựng để học <mark className="highlight-tertiary-padding-4-8">Bookkeeping & English</mark> cơ bản.</li>
+        <li>Trang web này được xây dựng để học <mark className="highlight-tertiary-padding-0-4">Bookkeeping & English</mark> cơ bản.</li>
 
       </ul>
 
@@ -28,12 +29,13 @@ export default function Mr_Bee_Osn() {
 
         <li><span className="month">Mr. Bee - Ong siêng năng</span></li>
 
-        <li><span className="month"></span>🚀 What is <Link to="https://mrgreenbeeosn.github.io/#/accounting/what-is-accounting">accounting</Link>?</li>
+        <li><span className="month"></span>🚀 What is <Link to="https://mrgreenbeeosn.github.io/#/accounting/what-is-accounting">accounting <sup><ExternalLink /></sup></Link>?</li>
 
         <li><span className="month"></span>🚀 What is <Link to="/bookkeeping/what-is-bookkeeping?">bookkeeping</Link>?</li>
 
-        <li><span className="month"></span>🚀 What is <Link to="https://mrblackbeeosn.github.io/#/programming/what-is-programming">programming</Link>?</li>
+        <li><span className="month"></span>🚀 What is <Link to="https://mrblackbeeosn.github.io/#/programming/what-is-programming">programming <sup><ExternalLink /></sup></Link>?</li>
       
+        
       </ul>
 
     {/* =============================

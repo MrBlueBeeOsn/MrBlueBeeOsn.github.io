@@ -34,7 +34,7 @@ export default function Bookkeeper() {
 
     <h4 className="margin-y-50 text-center">The Importance of Bookkeepers:</h4>
     
-    <p className="text-indent-whole"><strong>Bookkeepers</strong> play a crucial role in ensuring the smooth financial operation of a business. Their accurate record-keeping and financial management contribute to:</p>
+    <p><strong>Bookkeepers</strong> play a crucial role in ensuring the smooth financial operation of a business. Their accurate record-keeping and financial management contribute to:</p>
 
       <ul className="list-square">
 
@@ -50,7 +50,7 @@ export default function Bookkeeper() {
 
     <h4 className="margin-y-50 text-center">Who needs a bookkeeper?</h4>
     
-    <p className="text-indent-whole">While many small businesses might choose to handle bookkeeping tasks themselves initially,  as a business grows and financial transactions become more complex, hiring a <strong>bookkeeper</strong> becomes increasingly important.  Here are some signs a business might need a <strong>bookkeeper</strong>:</p>
+    <p>While many small businesses might choose to handle bookkeeping tasks themselves initially,  as a business grows and financial transactions become more complex, hiring a <strong>bookkeeper</strong> becomes increasingly important.  Here are some signs a business might need a <strong>bookkeeper</strong>:</p>
 
       <ul className="list-square">
 
