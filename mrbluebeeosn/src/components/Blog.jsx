@@ -37,7 +37,7 @@ export default function Blog() {
                 {displayedPosts.map(post => (
                   <article key={post.id} className="post-card">
 
-                    <span className="post-category"><Link to={`/${post.category}`}>{post.category}</Link></span>
+                    <p className="post-category"><Link to={`/${post.category}`}>{post.category}</Link></p>
 
                     <h2>{post.title}</h2>
 
