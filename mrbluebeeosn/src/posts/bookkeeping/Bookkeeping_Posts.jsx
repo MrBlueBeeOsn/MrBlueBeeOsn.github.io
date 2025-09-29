@@ -1,8 +1,8 @@
 // Posts.jsx
-export default function Posts() {
+export default function Bookkeeping_Posts() {
   return [
     { 
-      id: 1.1,
+      id: 1.1001,
       category: "Bookkeeping",
       title: "Bookkeeping", 
       content: "Bookkeeping is the process of recording, classNameifying, and organizing a company's financial transactions.",
@@ -10,7 +10,7 @@ export default function Posts() {
       date: "2024-04-12"
     },
     { 
-      id: 1.2,
+      id: 1.1002,
       category: "Bookkeeping",
       title: "Bookkeeper",
       content: "A bookkeeper is a financial professional who plays a vital role in maintaining the accuracy and organization of a company's financial records.",
@@ -18,7 +18,7 @@ export default function Posts() {
       date: "2024-02-27"
     },
     { 
-      id: 1.3,
+      id: 1.1003,
       category: "Bookkeeping",
       title: "Accounts Receivable",
       content: "Accounts receivable (AR), abbreviated as A/R sometimes, represent the money owed to a business by its customers for goods or services that have been delivered but not yet paid for.",

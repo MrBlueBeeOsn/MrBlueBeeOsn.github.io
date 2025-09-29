@@ -1,6 +1,6 @@
 import { Routes, Route } from 'react-router-dom';
 import Layout from './components/Layout';
-import Posts from './Posts';
+import Posts from './posts/Posts';
 
 // 1_header import các chức năng và đường dẫn
 import Home from "./1_header/Home";

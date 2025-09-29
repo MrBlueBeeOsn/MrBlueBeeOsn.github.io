@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import { Link } from 'react-router-dom';
 import SearchBar from './SearchBar';
-import Posts from '../Posts';
+import Posts from '../posts/Posts';
 
 export default function Blog() {
   const [allPosts, setAllPosts] = useState([]);
