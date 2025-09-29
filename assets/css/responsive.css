@@ -427,4 +427,14 @@
                 width: 100%;
             }
 
+            .post-date {
+                color: #666;
+                font-size: 1.6rem;
+                margin-top: 0.4rem;
+            }
+
+            .post-category {
+                font-size: 1.6rem;
+            }
+
         }
