@@ -114,6 +114,15 @@ button:hover {
     align-items: flex-start; /* Căn trên cùng */
 }
 
+.bee-container-column {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between; /* Đẩy chữ và ảnh về hai phía */
+    overflow: visible;
+    position: relative; /* Thẻ cha cần có position: relative */
+    align-items: flex-start; /* Căn trên cùng */
+}
+
 .bee-wrapper {
     position: absolute; /* Định vị tuyệt đối */
     top: 40px; /* 15px; Gắn sát góc trên */
@@ -466,7 +475,8 @@ td:nth-child(1):hover {
 
 .blog-container {
     max-width: 700px;
-    margin: 50px 0px;
+    margin-top: 1.0rem;
+    margin-bottom: 5.0rem;
     width: 100%;
 }
 

@@ -255,7 +255,7 @@
             ============================= */
 
             .card2 {
-                padding: 0.8rem 0px;
+                padding: 0.8rem 0.8rem;
                 margin-top: 4.0rem;
                 margin-bottom: 4.0rem;
             }
@@ -264,6 +264,13 @@
                 Search 768px
             ============================= */
 
+            .blog-container {
+                max-width: 700px;
+                margin-top: 0rem;
+                margin-bottom: 3.0rem;
+                width: 100%;
+            }
+            
             .search-bar {
                 flex: 1;
             }
@@ -390,8 +397,15 @@
                 Card 375px
             ============================= */
 
+            .blog-container {
+                max-width: 700px;
+                margin-top: 0rem;
+                margin-bottom: 3.0rem;
+                width: 100%;
+            }
+            
             .card2 {
-                padding: 0.7rem 0px;
+                padding: 0.8rem 0.7rem;
                 margin-top: 3.0rem;
                 margin-bottom: 3.0rem;
             }
