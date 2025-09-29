@@ -587,7 +587,7 @@ td:nth-child(1):hover {
 }
 
 .results-count {
-    color: var(--secondary-color);
+    color: #666;
     margin-top: 1rem;
     margin-bottom: 5.0rem;
 }
