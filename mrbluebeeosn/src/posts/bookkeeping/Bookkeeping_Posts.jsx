@@ -2,7 +2,7 @@
 export default function Bookkeeping_Posts() {
   return [
     { 
-      id: 1.1001,
+      id: 1.1_001,
       category: "Bookkeeping",
       title: "Bookkeeping", 
       content: "Bookkeeping is the process of recording, classNameifying, and organizing a company's financial transactions.",
@@ -10,7 +10,7 @@ export default function Bookkeeping_Posts() {
       date: "2024-04-12"
     },
     { 
-      id: 1.1002,
+      id: 1.1_002,
       category: "Bookkeeping",
       title: "Bookkeeper",
       content: "A bookkeeper is a financial professional who plays a vital role in maintaining the accuracy and organization of a company's financial records.",
@@ -18,7 +18,7 @@ export default function Bookkeeping_Posts() {
       date: "2024-02-27"
     },
     { 
-      id: 1.1003,
+      id: 1.1_003,
       category: "Bookkeeping",
       title: "Accounts Receivable",
       content: "Accounts receivable (AR), abbreviated as A/R sometimes, represent the money owed to a business by its customers for goods or services that have been delivered but not yet paid for.",
@@ -26,7 +26,7 @@ export default function Bookkeeping_Posts() {
       date: "2024-02-22"
     },
     { 
-      id: 1.1004,
+      id: 1.1_004,
       category: "Bookkeeping",
       title: "Accounts Payable", 
       content: "Accounts payable (AP), sometimes abbreviated as A/P, refers to the short-term debt a business owes to its suppliers for goods or services that have been received but not yet paid for.",
@@ -34,7 +34,7 @@ export default function Bookkeeping_Posts() {
       date: "2024-02-22"
     },
     { 
-      id: 1.1005,
+      id: 1.1_005,
       category: "Bookkeeping",
       title: "Journal entry", 
       content: "A journal entry is the fundamental record of a financial transaction in accounting.",
@@ -42,7 +42,7 @@ export default function Bookkeeping_Posts() {
       date: "2024-02-27"
     },
     { 
-      id: 1.1006,
+      id: 1.1_006,
       category: "Bookkeeping",
       title: "General ledger", 
       content: "A general ledger is a comprehensive record of all the financial transactions of a company.",
@@ -50,7 +50,7 @@ export default function Bookkeeping_Posts() {
       date: "2024-03-18"
     },
     { 
-      id: 1.1007,
+      id: 1.1_007,
       category: "Bookkeeping",
       title: "Trial balance", 
       content: "A trial balance in accounting is like a giant checklist to ensure everything is balanced in the company's books.",
@@ -58,7 +58,7 @@ export default function Bookkeeping_Posts() {
       date: "2024-02-28"
     },
     { 
-      id: 1.1008,
+      id: 1.1_008,
       category: "Bookkeeping",
       title: "Account reconciliation", 
       content: "Account reconciliation in accounting is like double-checking your piggy bank to make sure everything adds up.",

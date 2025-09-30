@@ -6,8 +6,8 @@ export default function Bee_Posts() {
       category: "",
       title: "",
       content: "",
-      slug: "english/",
-      date: "2024-09-07"
+      slug: "",
+      date: ""
     },
     { 
       id: 1002,
@@ -17,6 +17,5 @@ export default function Bee_Posts() {
       slug: "",
       date: ""
     }
-
   ];
 }
