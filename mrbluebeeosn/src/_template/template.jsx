@@ -110,8 +110,12 @@ export default function () {
     
     id=""
 
-    <a href="url">link text</a>
+    <a href="url">link text</a> HTML
 
+    import { Link } from "react-router-dom";
+    <Link to="url">link text</Link>
+
+    import { HashLink } from 'react-router-hash-link';
     <HashLink smooth to="#url">link text</HashLink>
 
     <img src="url" alt="alternatetext">

@@ -49,35 +49,40 @@ export default function Bay_Dau_Phu_Phien_Am_Tieng_Anh_2() {
     {/* =============================
         1. Mặc định (không dấu) — Nguyên âm ngắn (short vowels)
     ============================= */}
-  
-    <div className="margin-y-50 text-border1 padding-10">
 
-      <h4 className="margin-y-50 text-center" id="mac-dinh">1. Mặc định (không dấu) — Nguyên âm ngắn (short vowels)</h4>
+    <div className="margin-y-50 table-container">
 
-    <p className="margin-top-20 text-indent-whole">📌 Giữ aeiou — oo y làm mặc định (short vowels) và ee (long vowel) để đơn giản:</p>
+      <div className="margin-y-30 text-border1 padding-10">
 
-    <p className="margin-y-20 text-word-spacing-1">
-      <span className="highlight-white-padding-4-8">a e i o u — oo y — ee</span>
-    </p>
+        <h4 className="margin-y-50 text-center" id="mac-dinh">1. Mặc định (không dấu) — Nguyên âm ngắn (short vowels)</h4>
 
-    <p className="text-center">↓</p>
+        <p className="margin-top-20 text-indent-whole">📌 Giữ aeiou — oo y làm mặc định (short vowels) và ee (long vowel) để đơn giản:</p>
 
-    <p className="margin-y-20 text-word-spacing-1">
-      <span className="highlight-white-padding-4-8">æ e ɪ ɒ/ɑː ʊ — ʊ ɪ — iː</span>
-    </p>
+        <p className="margin-y-20 text-word-spacing-1">
+          <span className="highlight-white-padding-4-8">a e i o u — oo y — ee</span>
+        </p>
 
-    <ul className="list-square">
-      <li>cat = /kæt/</li>
-      <li>get = /get/</li>
-      <li>sit = /sɪt/</li>
-      <li>hot = /hɑːt/ (<HashLink smooth to="#ga">GA</HashLink>) = /hɒt/ (<HashLink smooth to="#rp">RP</HashLink>)</li>
-      <li>put = /pʊt/</li>
+        <p className="text-center">↓</p>
 
-      <li>book = /bʊk/</li>
-      <li>myth = /mɪθ/</li>
+        <p className="margin-y-20 text-word-spacing-1">
+          <span className="highlight-white-padding-4-8">æ e ɪ ɒ/ɑː ʊ — ʊ ɪ — iː</span>
+        </p>
 
-      <li>bee = /biː/</li>
-    </ul>
+        <ul className="list-square">
+          <li>cat = /kæt/</li>
+          <li>get = /get/</li>
+          <li>sit = /sɪt/</li>
+          <li>hot = /hɑːt/ (<HashLink smooth to="#ga">GA</HashLink>) = /hɒt/ (<HashLink smooth to="#rp">RP</HashLink>)</li>
+          <li>put = /pʊt/</li>
+
+          <li>book = /bʊk/</li>
+          <li>myth = /mɪθ/</li>
+
+          <li>bee = /biː/</li>
+          
+        </ul>
+
+      </div>
 
     </div>
 
@@ -85,32 +90,36 @@ export default function Bay_Dau_Phu_Phien_Am_Tieng_Anh_2() {
           2. Macron (¯) — Nguyên âm dài
     ============================= */}
 
-    <div className="margin-y-50 text-border1 padding-10">
+    <div className="margin-y-50 table-container">
 
-      <h4 className="margin-y-50 text-center" id="macron">2. Macron <mark className="highlight-tertiary-padding-4-8">¯</mark> — Nguyên âm dài / diphthongs</h4>
+      <div className="margin-y-30 text-border1 padding-10">
 
-      <p className="margin-top-20 text-indent-whole">📌 Dấu ngang trên đầu = âm kéo dài / nguyên âm đôi chính.</p>
+        <h4 className="margin-y-50 text-center" id="macron">2. Macron <mark className="highlight-tertiary-padding-4-8">¯</mark> — Nguyên âm dài / diphthongs</h4>
 
-      <p className="margin-y-20 text-word-spacing-1">
-        <span className="highlight-white-padding-4-8">ā ē ī ȳ ō ū o͞o</span>
-      </p>
+        <p className="margin-top-20 text-indent-whole">📌 Dấu ngang trên đầu = âm kéo dài / nguyên âm đôi chính.</p>
 
-      <p className="text-center">↓</p>
+        <p className="margin-y-20 text-word-spacing-1">
+          <span className="highlight-white-padding-4-8">ā ē ī ȳ ō ū o͞o</span>
+        </p>
 
-      <p className="margin-y-20 text-word-spacing-1">
-        <span className="highlight-white-padding-4-8">eɪ iː aɪ oʊ juː (uː aɪ)</span>
-      </p>
+        <p className="text-center">↓</p>
 
-      <ul className="list-square">
-        <li>cāke = /keɪk/</li>
-        <li>hē = /hi:/</li>
-        <li>tīme = /taɪm/</li>
-        <li>gō = /ɡoʊ/ (<HashLink smooth to="#ga">GA</HashLink>) = /ɡəʊ/ (<HashLink smooth to="#rp">RP</HashLink>)</li>
-        <li>cute = cūte = /kjuːt/</li>
+        <p className="margin-y-20 text-word-spacing-1">
+          <span className="highlight-white-padding-4-8">eɪ iː aɪ oʊ juː (uː aɪ)</span>
+        </p>
 
-        <li>fo͞od = /fuːd/</li>
-        <li>whȳ = /waɪ/</li>
-      </ul>
+        <ul className="list-square">
+          <li>cāke = /keɪk/</li>
+          <li>hē = /hi:/</li>
+          <li>tīme = /taɪm/</li>
+          <li>gō = /ɡoʊ/ (<HashLink smooth to="#ga">GA</HashLink>) = /ɡəʊ/ (<HashLink smooth to="#rp">RP</HashLink>)</li>
+          <li>cute = cūte = /kjuːt/</li>
+
+          <li>fo͞od = /fuːd/</li>
+          <li>whȳ = /waɪ/</li>
+        </ul>
+
+      </div>
 
     </div>
 
@@ -118,27 +127,31 @@ export default function Bay_Dau_Phu_Phien_Am_Tieng_Anh_2() {
         3. Circumflex (ˆ) — Caret vowel /ʌ/
     ============================= */}
 
-    <div className="margin-y-50 text-border1 padding-10">
+    <div className="margin-y-50 table-container">
 
-      <h4 className="margin-y-50 text-center" id="circumflex">3. Circumflex <mark className="highlight-tertiary-padding-4-8">ˆ</mark> — Caret vowel /ʌ/</h4>
+      <div className="margin-y-30 text-border1 padding-10">
 
-      <p className="margin-top-20 text-indent-whole">📌 Dùng dấu mũ cho âm caret /ʌ/ (âm giữa, miệng mở vừa).</p>
+        <h4 className="margin-y-50 text-center" id="circumflex">3. Circumflex <mark className="highlight-tertiary-padding-4-8">ˆ</mark> — Caret vowel /ʌ/</h4>
 
-      <p className="margin-y-20 text-word-spacing-1">
-        <span className="highlight-white-padding-4-8">â ô û</span>
-      </p>
+        <p className="margin-top-20 text-indent-whole">📌 Dùng dấu mũ cho âm caret /ʌ/ (âm giữa, miệng mở vừa).</p>
 
-      <p className="text-center">↓</p>
+        <p className="margin-y-20 text-word-spacing-1">
+          <span className="highlight-white-padding-4-8">â ô û</span>
+        </p>
 
-      <p className="margin-y-20 text-word-spacing-1">
-        <span className="highlight-white-padding-4-8">ʌ</span>
-      </p>
+        <p className="text-center">↓</p>
 
-      <ul className="list-square">
-        <li>bėcâuse = /bɪˈkʌz/</li>
-        <li>ôther = /ˈʌð.ɚ/</li>
-        <li>bûttơn = /ˈbʌt.ən/</li>
-      </ul>
+        <p className="margin-y-20 text-word-spacing-1">
+          <span className="highlight-white-padding-4-8">ʌ</span>
+        </p>
+
+        <ul className="list-square">
+          <li>bėcâuse = /bɪˈkʌz/</li>
+          <li>ôther = /ˈʌð.ɚ/</li>
+          <li>bûttơn = /ˈbʌt.ən/</li>
+        </ul>
+
+      </div>
 
     </div>
     
@@ -146,31 +159,35 @@ export default function Bay_Dau_Phu_Phien_Am_Tieng_Anh_2() {
         4. Dot above (˙) — Âm /ɪ/ biến thể & /jə/
     ============================= */}
 
-    <div className="margin-y-50 text-border1 padding-10">
+    <div className="margin-y-50 table-container">
 
-      <h4 className="margin-y-50 text-center" id="dot-above">4. Dot above <mark className="highlight-tertiary-padding-4-8">˙</mark> — Âm /ɪ/ biến thể</h4>
+      <div className="margin-y-30 text-border1 padding-10">
 
-      <p className="margin-top-20 text-indent-whole">📌 Dấu chấm trên để biểu thị các trường hợp chữ viết khác nhưng phát âm là /ɪ/</p>
+        <h4 className="margin-y-50 text-center" id="dot-above">4. Dot above <mark className="highlight-tertiary-padding-4-8">˙</mark> — Âm /ɪ/ biến thể</h4>
 
-      <p className="margin-y-20 text-word-spacing-1">
-        <span className="highlight-white-padding-4-8">ȧ ė i̇ ȯ u̇ ư̇</span>
-      </p>
+        <p className="margin-top-20 text-indent-whole">📌 Dấu chấm trên để biểu thị các trường hợp chữ viết khác nhưng phát âm là /ɪ/</p>
 
-      <p className="text-center">↓</p>
+        <p className="margin-y-20 text-word-spacing-1">
+          <span className="highlight-white-padding-4-8">ȧ ė i̇ ȯ u̇ ư̇</span>
+        </p>
 
-      <p className="margin-y-20 text-word-spacing-1">
-        <span className="highlight-white-padding-4-8">ɪ</span>
-      </p>
+        <p className="text-center">↓</p>
 
-      <ul className="list-square">
-        <li>imȧge = /ˈɪm.ɪdʒ/</li>
-        <li>ėxpense = /ɪkˈspens/</li>
-        <li>fit = /fɪt/ (i có dấu chấm trong fit)</li>
-        <li>wȯmėn = /ˈwɪm.ɪn/</li>
-        <li>bu̇sinėss = /ˈbɪz.nɪs/</li>
-        <li>accư̇ra̛te = /ˈæk.jɚ.ət/</li>
-        <li className="list-none">u̇+ư = /j+ə/</li>
-      </ul>
+        <p className="margin-y-20 text-word-spacing-1">
+          <span className="highlight-white-padding-4-8">ɪ</span>
+        </p>
+
+        <ul className="list-square">
+          <li>imȧge = /ˈɪm.ɪdʒ/</li>
+          <li>ėxpense = /ɪkˈspens/</li>
+          <li>fit = /fɪt/ (i có dấu chấm trong fit)</li>
+          <li>wȯmėn = /ˈwɪm.ɪn/</li>
+          <li>bu̇sinėss = /ˈbɪz.nɪs/</li>
+          <li>accư̇ra̛te = /ˈæk.jɚ.ət/</li>
+          <li className="list-none">u̇+ư = /j+ə/</li>
+        </ul>
+
+      </div>
 
     </div>
 
@@ -178,46 +195,50 @@ export default function Bay_Dau_Phu_Phien_Am_Tieng_Anh_2() {
           5. Hook (̛ ) — Schwa /ə/ và schwa và schwa + r
     ============================= */}
 
-    <div className="margin-y-50 text-border1 padding-10">
+    <div className="margin-y-50 table-container">
 
-      <h4 className="margin-y-50 text-center" id="hook">5. Hook <mark className="highlight-tertiary-padding-4-8"> ̛  </mark>&nbsp;— Schwa /ə/ và schwa và schwa + r</h4>
+      <div className="margin-y-30 text-border1 padding-10">
 
-      <p className="margin-top-20 text-indent-whole">📌 Dấu móc (như “ơ”) cho âm trung tính schwa và dạng +r.</p>
+        <h4 className="margin-y-50 text-center" id="hook">5. Hook <mark className="highlight-tertiary-padding-4-8"> ̛  </mark>&nbsp;— Schwa /ə/ và schwa và schwa + r</h4>
 
-      <p className="margin-y-20 text-word-spacing-1">
-        <span className="highlight-white-padding-4-8">a̛ e̛ i̛ ơ ư</span>
-      </p>
+        <p className="margin-top-20 text-indent-whole">📌 Dấu móc (như “ơ”) cho âm trung tính schwa và dạng +r.</p>
 
-      <p className="text-center">↓</p>
+        <p className="margin-y-20 text-word-spacing-1">
+          <span className="highlight-white-padding-4-8">a̛ e̛ i̛ ơ ư</span>
+        </p>
 
-      <p className="margin-y-20 text-word-spacing-1">
-        <span className="highlight-white-padding-4-8">ə</span>
-      </p>
+        <p className="text-center">↓</p>
 
-      <ul className="list-square">
-        <li>a̛bout = /əˈbaʊt/</li>
-        <li>tāke̛n = /ˈteɪ.kən/</li>
-        <li>penci̛l = /əˈbaʊt/</li>
-        <li>lemơn = /ˈlem.ən/</li>
-        <li>sưppört = /səˈpɔːrt/</li>
-      </ul>
+        <p className="margin-y-20 text-word-spacing-1">
+          <span className="highlight-white-padding-4-8">ə</span>
+        </p>
 
-      <p className="margin-y-20 text-word-spacing-1">
-        <span className="highlight-white-padding-4-8">e̛r, i̛r, ơr, ưr</span>
-      </p>
+        <ul className="list-square">
+          <li>a̛bout = /əˈbaʊt/</li>
+          <li>tāke̛n = /ˈteɪ.kən/</li>
+          <li>penci̛l = /əˈbaʊt/</li>
+          <li>lemơn = /ˈlem.ən/</li>
+          <li>sưppört = /səˈpɔːrt/</li>
+        </ul>
 
-      <p className="text-center">↓</p>
+        <p className="margin-y-20 text-word-spacing-1">
+          <span className="highlight-white-padding-4-8">e̛r, i̛r, ơr, ưr</span>
+        </p>
 
-      <p className="margin-y-20 text-word-spacing-1">
-        <span className="highlight-white-padding-4-8">ɜː</span>
-      </p>
+        <p className="text-center">↓</p>
 
-      <ul className="list-square">
-        <li>he̛r = /hɝː/</li>
-        <li>bi̛rd = /bɝːd/</li>
-        <li>wơrd = /wɝːd/</li>
-        <li>nưrse = /nɝːs/</li>
-      </ul>
+        <p className="margin-y-20 text-word-spacing-1">
+          <span className="highlight-white-padding-4-8">ɜː</span>
+        </p>
+
+        <ul className="list-square">
+          <li>he̛r = /hɝː/</li>
+          <li>bi̛rd = /bɝːd/</li>
+          <li>wơrd = /wɝːd/</li>
+          <li>nưrse = /nɝːs/</li>
+        </ul>
+
+      </div>
 
     </div>
 
@@ -225,29 +246,33 @@ export default function Bay_Dau_Phu_Phien_Am_Tieng_Anh_2() {
           6. Umlaut (¨) — Nguyên âm biến đổi
     ============================= */}
 
-    <div className="margin-y-50 text-border1 padding-10">
+    <div className="margin-y-50 table-container">
 
-      <h4 className="margin-y-50 text-center" id="umlaut">6. Umlaut / Diaeresis <mark className="highlight-tertiary-padding-4-8">¨</mark> — Nguyên âm biến đổi</h4>
+      <div className="margin-y-30 text-border1 padding-10">
 
-      <p className="margin-top-20 text-indent-whole">📌 Dùng khi nguyên âm “đặc biệt” (thường là âm dài / vị trí môi/lưỡi khác).</p>
-      
-      <p className="margin-y-20 text-word-spacing-1">
-        <span className="highlight-white-padding-4-8">ä ë ï ö ü</span>
-      </p>
+        <h4 className="margin-y-50 text-center" id="umlaut">6. Umlaut / Diaeresis <mark className="highlight-tertiary-padding-4-8">¨</mark> — Nguyên âm biến đổi</h4>
 
-      <p className="text-center">↓</p>
+        <p className="margin-top-20 text-indent-whole">📌 Dùng khi nguyên âm “đặc biệt” (thường là âm dài / vị trí môi/lưỡi khác).</p>
+        
+        <p className="margin-y-20 text-word-spacing-1">
+          <span className="highlight-white-padding-4-8">ä ë ï ö ü</span>
+        </p>
 
-      <p className="margin-y-20 text-word-spacing-1">
-        <span className="highlight-white-padding-4-8">ɑː eː i: o: uː</span>
-      </p>
+        <p className="text-center">↓</p>
 
-      <ul className="list-square">
-        <li>cär = /kɑːr/</li>
-        <li>äutưmn = /ˈɑː.t̬əm/</li>
-        <li>pïzza̛ = /ˈpiːt.sə/</li>
-        <li>shöre = /ʃɔːr/</li>
-        <li>Tüesday = /ˈtuːz.deɪ/ (trường hợp /juː/ hoặc /uː/ tuỳ từ)</li>
-      </ul>
+        <p className="margin-y-20 text-word-spacing-1">
+          <span className="highlight-white-padding-4-8">ɑː eː i: o: uː</span>
+        </p>
+
+        <ul className="list-square">
+          <li>cär = /kɑːr/</li>
+          <li>äutưmn = /ˈɑː.t̬əm/</li>
+          <li>pïzza̛ = /ˈpiːt.sə/</li>
+          <li>shöre = /ʃɔːr/</li>
+          <li>Tüesday = /ˈtuːz.deɪ/ (trường hợp /juː/ hoặc /uː/ tuỳ từ)</li>
+        </ul>
+
+      </div>
 
     </div>
     
@@ -255,37 +280,41 @@ export default function Bay_Dau_Phu_Phien_Am_Tieng_Anh_2() {
         7. Double Macron ( ̄ ̄ ) Âm dài đặc biệt và biến thể mở rộng
     ============================= */}
 
-    <div className="margin-y-50 text-border1 padding-10">
+    <div className="margin-y-50 table-container">
 
-      <h4 className="margin-y-50 text-center" id="double-macron">7. Double Macron <mark className="highlight-tertiary-padding-4-8">&nbsp; ̄ ̄</mark> — Âm dài đặc biệt và biến thể mở rộng</h4>
+      <div className="margin-y-30 text-border1 padding-10">
 
-      <p className="margin-top-20 text-indent-whole">📌 Biểu thị âm /e/ /ɑː/ /uː/ /e/</p>
+        <h4 className="margin-y-50 text-center" id="double-macron">7. Double Macron <mark className="highlight-tertiary-padding-4-8">&nbsp; ̄ ̄</mark> — Âm dài đặc biệt và biến thể mở rộng</h4>
 
-      <p className="margin-y-20 text-word-spacing-1">
-        <span className="highlight-white-padding-4-8">ā̄ ē̄ ō̄ ū̄</span>
-      </p>
+        <p className="margin-top-20 text-indent-whole">📌 Biểu thị âm /e/ /ɑː/ /uː/ /e/</p>
 
-      <p className="text-center">↓</p>
+        <p className="margin-y-20 text-word-spacing-1">
+          <span className="highlight-white-padding-4-8">ā̄ ē̄ ō̄ ū̄</span>
+        </p>
 
-      <p className="margin-y-20 text-word-spacing-1">
-        <span className="highlight-white-padding-4-8">e ɑː u: e</span>
-      </p>
+        <p className="text-center">↓</p>
 
-        <ul className="list-square">
+        <p className="margin-y-20 text-word-spacing-1">
+          <span className="highlight-white-padding-4-8">e ɑː u: e</span>
+        </p>
 
-          <li>mā̄ny = /ˈmen.i/</li>
-          <li>lībrā̄ry = /ˈlaɪ.brer.i/</li>
-          <li className="margin-bottom-50">squā̄re = /skwer/ (<HashLink smooth to="#ga">GA</HashLink>) = /skweər/ (<HashLink smooth to="#rp">RP</HashLink>)</li>
+          <ul className="list-square">
 
-          <li className="margin-bottom-50">gē̄nre = /ˈʒɑːn.rə/</li>
+            <li>mā̄ny = /ˈmen.i/</li>
+            <li>lībrā̄ry = /ˈlaɪ.brer.i/</li>
+            <li className="margin-bottom-50">squā̄re = /skwer/ (<HashLink smooth to="#ga">GA</HashLink>) = /skweər/ (<HashLink smooth to="#rp">RP</HashLink>)</li>
 
-          <li>dō̄ = /duː/</li>
-          <li>mō̄ve =  /muːv/</li>
-          <li className="margin-bottom-20">whō̄ = /huː/</li>
+            <li className="margin-bottom-50">gē̄nre = /ˈʒɑːn.rə/</li>
 
-          <li className="margin-bottom-20">bū̄ry = /ˈber.i/</li>
+            <li>dō̄ = /duː/</li>
+            <li>mō̄ve =  /muːv/</li>
+            <li className="margin-bottom-20">whō̄ = /huː/</li>
 
-        </ul>
+            <li className="margin-bottom-20">bū̄ry = /ˈber.i/</li>
+
+          </ul>
+
+      </div>
 
     </div>
 
@@ -293,7 +322,9 @@ export default function Bay_Dau_Phu_Phien_Am_Tieng_Anh_2() {
         8. Ring (˚) — Âm tròn /ɔː/
     ============================= */}
 
-      <div className="margin-y-50 text-border1 padding-10">
+    <div className="margin-y-50 table-container">
+
+      <div className="margin-y-30 text-border1 padding-10">
 
         <h4 className="margin-y-50 text-center" id="ring">8. Ring <mark className="highlight-tertiary-padding-4-8">˚</mark> — Âm tròn /ɔː/</h4>
 
@@ -312,6 +343,8 @@ export default function Bay_Dau_Phu_Phien_Am_Tieng_Anh_2() {
           <ul className="list-square">
             <li className="margin-bottom-50">wår = /wɔːr/</li>
           </ul>
+
+      </div>
 
     </div>
 

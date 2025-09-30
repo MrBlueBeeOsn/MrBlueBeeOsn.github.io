@@ -622,3 +622,13 @@ td:nth-child(1):hover {
     width: fit-content;
     margin-bottom: 1.5rem;
 }
+
+.flex-container {
+	display: flex;
+	gap: 1.5rem;
+	justify-items: center;
+	align-items: center;
+	flex-wrap: wrap;
+	margin-top: 1.5rem;
+	margin-bottom: 1.5rem;
+}

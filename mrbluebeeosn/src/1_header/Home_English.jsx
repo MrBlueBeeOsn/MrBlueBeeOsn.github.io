@@ -57,13 +57,13 @@ export default function Home_English() {
         4. Mr. Bee's Articles
     ============================= */}
 
-    <h3 className="margin-y-50 text-center" id="mr-bee-osn-english-terms">Mr. Bee Osn English Terms</h3>
+    {/* <h3 className="margin-y-50 text-center" id="mr-bee-osn-english-terms">Mr. Bee Osn English Terms</h3>
     
     <ul className="list-border1">
 
       <li><Link to="/english/mrbeeenglish/searching-and-clickable-dictionary">Searching and clickable dictionary</Link></li>
       
-    </ul>
+    </ul> */}
 
     {/* =============================
         5. Tiếng Anh Terms
@@ -92,7 +92,7 @@ export default function Home_English() {
         6. Vocabulary Terms
     ============================= */}
 
-    <h3 className="margin-y-50 text-center" id="vocabulary-terms">Vocabulary Terms</h3>
+    <h3 className="margin-y-50 text-center" id="vocabulary-terms">Từ vựng Terms</h3>
 
     {/* =============================
         Tính chính xác

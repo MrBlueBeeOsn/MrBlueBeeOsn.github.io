@@ -63,7 +63,7 @@ export default function Bay_Dau_Phu_Phien_Am_Tieng_Anh_1() {
       <table className="margin-y-50">
         <thead>
           <tr>
-            <th>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ký hiệu = /IPA/&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</th>
+            <th>Ký hiệu</th>
             <th>Ví dụ</th>
           </tr>
         </thead>
@@ -125,7 +125,7 @@ export default function Bay_Dau_Phu_Phien_Am_Tieng_Anh_1() {
       <table className="margin-y-50">
         <thead>
           <tr>
-            <th>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ký hiệu = /IPA/&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</th>
+            <th>Ký hiệu</th>
             <th>Ví dụ</th>
           </tr>
         </thead>
@@ -182,7 +182,7 @@ export default function Bay_Dau_Phu_Phien_Am_Tieng_Anh_1() {
       <table className="margin-y-50">
         <thead>
           <tr>
-            <th>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ký hiệu = /IPA/&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</th>
+            <th>Ký hiệu</th>
             <th>Ví dụ</th>
           </tr>
         </thead>
@@ -219,7 +219,7 @@ export default function Bay_Dau_Phu_Phien_Am_Tieng_Anh_1() {
       <table className="margin-y-50">
         <thead>
           <tr>
-            <th>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ký hiệu = /IPA/&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</th>
+            <th>Ký hiệu</th>
             <th>Ví dụ</th>
           </tr>
         </thead>
@@ -274,7 +274,7 @@ export default function Bay_Dau_Phu_Phien_Am_Tieng_Anh_1() {
       <table className="margin-y-50">
         <thead>
           <tr>
-            <th>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ký hiệu = /IPA/&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</th>
+            <th>Ký hiệu</th>
             <th>Ví dụ</th>
           </tr>
         </thead>
@@ -345,7 +345,7 @@ export default function Bay_Dau_Phu_Phien_Am_Tieng_Anh_1() {
       <table className="margin-y-50">
         <thead>
           <tr>
-            <th>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ký hiệu = /IPA/&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</th>
+            <th>Ký hiệu</th>
             <th>Ví dụ</th>
           </tr>
         </thead>
@@ -387,7 +387,7 @@ export default function Bay_Dau_Phu_Phien_Am_Tieng_Anh_1() {
       <table className="margin-y-50">
         <thead>
           <tr>
-            <th>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ký hiệu = /IPA/&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</th>
+            <th>Ký hiệu</th>
             <th>Ví dụ</th>
           </tr>
         </thead>
@@ -429,7 +429,7 @@ export default function Bay_Dau_Phu_Phien_Am_Tieng_Anh_1() {
       <table className="margin-y-50">
         <thead>
           <tr>
-            <th>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ký hiệu = /IPA/&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</th>
+            <th>Ký hiệu</th>
             <th>Ví dụ</th>
           </tr>
         </thead>

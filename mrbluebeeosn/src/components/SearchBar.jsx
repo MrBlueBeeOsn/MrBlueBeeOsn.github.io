@@ -5,6 +5,16 @@ export default function SearchBar({ posts, onSearchResults }) {
   const [searchTerm, setSearchTerm] = useState('');
   const [hasSearched, setHasSearched] = useState(false);
 
+  // Hàm chuẩn hóa chuỗi tiếng Việt (bỏ dấu)
+  const normalizeString = (str) => {
+    return str
+      .normalize('NFD')
+      .replace(/[\u0300-\u036f]/g, '')
+      .replace(/đ/g, 'd')
+      .replace(/Đ/g, 'D')
+      .toLowerCase();
+  };
+
   const handleSearch = () => {
     // Nếu search trống, không làm gì cả (giữ trạng thái ban đầu)
     if (searchTerm.trim() === '') {
@@ -15,13 +25,20 @@ export default function SearchBar({ posts, onSearchResults }) {
     
     setHasSearched(true);
     
+    // Chuẩn hóa search term (bỏ dấu)
+    const normalizedSearchTerm = normalizeString(searchTerm);
+    
     // Chỉ tìm kiếm khi có từ khóa
     const filteredPosts = (posts || []).filter(post => {
-      const searchLower = searchTerm.toLowerCase();
+      // Chuẩn hóa tất cả các trường cần tìm kiếm
+      const normalizedTitle = normalizeString(post.title || '');
+      const normalizedContent = normalizeString(post.content || '');
+      const normalizedCategory = normalizeString(post.category || '');
+
       return (
-        post.title.toLowerCase().includes(searchLower) ||
-        (post.content && post.content.toLowerCase().includes(searchLower)) ||
-        (post.category && post.category.toLowerCase().includes(searchLower))
+        normalizedTitle.includes(normalizedSearchTerm) ||
+        normalizedContent.includes(normalizedSearchTerm) ||
+        normalizedCategory.includes(normalizedSearchTerm)
       );
     });
     onSearchResults(filteredPosts);
