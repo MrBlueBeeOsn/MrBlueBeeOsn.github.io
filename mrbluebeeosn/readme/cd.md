@@ -10,6 +10,10 @@ Ctrl + Shift + P (Windows/Linux)
 Cmd + Shift + P (macOS)
 Gõ >Terminal: Select Default Profile
 
+git add .
+git commit -m "Nội dung commit"
+git push origin main
+
 Bash
 cd /D/Github/Black/MrBlackBeeOsn.github.io/mrblackbeeosn
 cd /D/Github/Blue/MrBlueBeeOsn.github.io/mrbluebeeosn
