@@ -64,7 +64,7 @@ export default function SearchBar({ posts, onSearchResults }) {
         <SearchIcon 
           size={24} 
           fill="var(--tertiary-color)" 
-          stroke="var(--tertiary-color)"
+          stroke="var(--secondary-color)"
         />
 
       </button>

@@ -24,7 +24,7 @@ export default function Header() {
             <SearchIcon 
               size={24} 
               fill="var(--secondary-color)" 
-              stroke="var(--secondary-color)"
+              stroke="var(--tertiary-color)"
             />
 
           </Link>
