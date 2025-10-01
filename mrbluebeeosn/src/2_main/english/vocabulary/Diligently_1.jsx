@@ -19,7 +19,7 @@ export default function Diligently_1() {
     
     <p>Tuyệt vời! Chúng ta cùng khám phá từ "<strong>diligently</strong>" nhé.</p>
 
-    <div className="text-border1 padding-top-20 padding-bottom-10 highlight-grey-padding-4-8 bee-container">
+    <div className="text-border1 padding-top-20 padding-bottom-10 highlight-238-padding-4-8 bee-container">
 
       <div>
 
@@ -28,7 +28,7 @@ export default function Diligently_1() {
         <ul className="list-square padding-left-40">
             
           <li>
-            <span className="highlight-white-padding-3-6">
+            <span className="highlight-255-padding-3-6">
               /ˈdɪl.ə.dʒənt.li/ + /<Link to="/english/tienganh/he-thong-7-dau-phu-phien-am-tieng-anh-1">dili̛ge̛ntly</Link>/
               <sup>&nbsp;⬤••• (4x)</sup>
             </span>
@@ -65,7 +65,7 @@ export default function Diligently_1() {
     ============================= */}
 
     <p className="margin-top-20">
-      <mark className="highlight-grey-padding-4-8">
+      <mark className="highlight-238-padding-4-8">
         <strong>Gia đình từ</strong>:
       </mark>
     </p>
@@ -87,7 +87,7 @@ export default function Diligently_1() {
     ============================= */}
 
     <p className="margin-top-20">
-      <mark className="highlight-grey-padding-4-8">
+      <mark className="highlight-238-padding-4-8">
         <strong>Từ đồng nghĩa</strong>:
       </mark>
     </p>
@@ -109,7 +109,7 @@ export default function Diligently_1() {
     ============================= */}
 
     <p className="margin-top-20">
-      <mark className="highlight-grey-padding-4-8">
+      <mark className="highlight-238-padding-4-8">
         <strong>Từ trái nghĩa</strong>:
       </mark>
     </p>
@@ -138,7 +138,7 @@ export default function Diligently_1() {
 
     <p className="margin-top-20">
       <strong>
-        <mark className="highlight-white-padding-4-8"><strong>1. Liên kết</strong></mark> 
+        <mark className="highlight-255-padding-4-8"><strong>1. Liên kết</strong></mark> 
       </strong>
       <strong>&nbsp;với hình ảnh</strong>:
     </p>
@@ -159,7 +159,7 @@ export default function Diligently_1() {
 
     <p className="margin-top-20">
       <strong>
-        <mark className="highlight-white-padding-4-8"><strong>2. Tạo câu</strong></mark> 
+        <mark className="highlight-255-padding-4-8"><strong>2. Tạo câu</strong></mark> 
       </strong>
       <strong>&nbsp;ví dụ</strong>:
     </p>
@@ -180,7 +180,7 @@ export default function Diligently_1() {
 
     <p className="margin-top-20">
       <strong>
-          <mark className="highlight-white-padding-4-8"><strong>3. Luyện tập</strong></mark>
+          <mark className="highlight-255-padding-4-8"><strong>3. Luyện tập</strong></mark>
       </strong>
       <strong>&nbsp;thường xuyên</strong>:
     </p>
@@ -197,9 +197,9 @@ export default function Diligently_1() {
 
         </ol>
 
-    <div className="margin-bottom-50 padding-top-20 text-border1 padding-10 highlight-grey-padding-4-8 bee-container">
+    <div className="margin-bottom-20 padding-top-20 text-border1 padding-10 highlight-238-padding-4-8 bee-container">
 
-      <p className="margin-y-10">Sự khác biệt: Câu thứ hai <span className="highlight-white-padding-0-4">nhấn mạnh sự chăm chỉ và nỗ lực</span> của anh ấy <span className="highlight-white-padding-0-4">trong việc hoàn thành</span> dự án.</p>
+      <p className="margin-y-10">Sự khác biệt: Câu thứ hai <span className="highlight-255-padding-0-4">nhấn mạnh sự chăm chỉ và nỗ lực</span> của anh ấy <span className="highlight-255-padding-0-4">trong việc hoàn thành</span> dự án.</p>
 
     </div>
 
@@ -207,7 +207,7 @@ export default function Diligently_1() {
           Lưu ý:
     ============================= */}
 
-    <div className="text-border1 padding-10">
+    <div className="margin-y-30 text-border1 table-container">
 
       <h4 className="margin-y-30 text-center">Lưu ý:</h4>
 

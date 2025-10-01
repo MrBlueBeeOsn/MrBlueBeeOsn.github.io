@@ -21,7 +21,7 @@ export default function Diligently_2() {
 
     <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>diligently</strong>" (một cách chăm chỉ) và các cụm từ hay đi kèm nhé.</p>
 
-    <div className="text-border1 padding-10 highlight-grey-padding-4-8 bee-container">
+    <div className="text-border1 padding-10 highlight-238-padding-4-8 bee-container">
 
       <div>
 
@@ -29,7 +29,7 @@ export default function Diligently_2() {
           
           <strong>Diligently&nbsp;</strong>
           
-          <span className="highlight-white-padding-3-6">
+          <span className="highlight-255-padding-3-6">
             
             /ˈdɪl.ə.dʒənt.li/ + /
             
@@ -95,13 +95,13 @@ export default function Diligently_2() {
 
     </ol>
 
-    <p className="margin-bottom-50">** Các cụm từ trên đều nhấn mạnh sự chăm chỉ, cẩn thận và kiên trì trong việc thực hiện một hành động nào đó. Chúng thường được sử dụng để mô tả những người có thái độ làm việc nghiêm túc, có trách nhiệm.</p>
+    <p>** Các cụm từ trên đều nhấn mạnh sự chăm chỉ, cẩn thận và kiên trì trong việc thực hiện một hành động nào đó. Chúng thường được sử dụng để mô tả những người có thái độ làm việc nghiêm túc, có trách nhiệm.</p>
 
     {/* =============================
           Lưu ý:
     ============================= */}
 
-    <div className="text-border1 padding-10">
+    <div className="margin-y-30 text-border1 table-container">
 
       <h4 className="margin-y-30 text-center">Lưu ý:</h4>
 

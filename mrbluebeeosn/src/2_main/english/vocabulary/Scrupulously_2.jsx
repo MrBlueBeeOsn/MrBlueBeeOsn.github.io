@@ -21,7 +21,7 @@ export default function Scrupulously_2() {
 
     <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>scrupulously</strong>" (một cách tỉ mỉ) và các cụm từ hay đi kèm nhé.</p>
 
-    <div className="text-border1 padding-10 highlight-grey-padding-4-8 bee-container">
+    <div className="text-border1 padding-10 highlight-238-padding-4-8 bee-container">
 
       <div>
 
@@ -29,7 +29,7 @@ export default function Scrupulously_2() {
 
           <strong>Scrupulously&nbsp;</strong>
 
-          <span className="highlight-white-padding-3-6">
+          <span className="highlight-255-padding-3-6">
 
             /ˈskruː.pjə.ləs.li/ + /
 
@@ -95,13 +95,13 @@ export default function Scrupulously_2() {
 
     </ol>
 
-    <p className="margin-bottom-50">** Các cụm từ trên đều nhấn mạnh tính tỉ mỉ, cẩn thận, chú ý đến từng chi tiết nhỏ. Chúng thường được sử dụng để miêu tả những hành động hoặc trạng thái được thực hiện một cách kỹ lưỡng.</p>
+    <p>** Các cụm từ trên đều nhấn mạnh tính tỉ mỉ, cẩn thận, chú ý đến từng chi tiết nhỏ. Chúng thường được sử dụng để miêu tả những hành động hoặc trạng thái được thực hiện một cách kỹ lưỡng.</p>
 
     {/* =============================
           Lưu ý:
     ============================= */}
 
-    <div className="text-border1 padding-10">
+    <div className="margin-y-30 text-border1 table-container">
 
       <h4 className="margin-y-30 text-center">Lưu ý:</h4>
 

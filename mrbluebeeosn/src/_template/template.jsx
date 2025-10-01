@@ -65,9 +65,9 @@ export default function () {
 
     </code></pre>
 
-    <div className="text-border1 padding-10 .highlight-grey-padding-top-15">
+    <div className="text-border1 padding-10 .highlight-238-padding-top-15">
 
-      <p className="margin-y-30 text-center"><span className="highlight-white-padding-0-4"></span></p>
+      <p className="margin-y-30 text-center"><span className="highlight-255-padding-0-4"></span></p>
 
     </div>
 
@@ -99,7 +99,7 @@ export default function () {
       <div className="margin-y-30">
 
         <p>
-          <span className="highlight-white-padding-4-8"></span>
+          <span className="highlight-255-padding-4-8"></span>
         </p>
 
       </div>

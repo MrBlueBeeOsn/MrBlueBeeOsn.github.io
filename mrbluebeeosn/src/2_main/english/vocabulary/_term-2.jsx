@@ -21,7 +21,7 @@ export default function Accurately_2() {
 
     <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>ly</strong>" và các cụm từ thường đi kèm nhé.</p>
 
-    <div className="text-border1 padding-10 highlight-grey-padding-4-8 bee-container">
+    <div className="text-border1 padding-10 highlight-238-padding-4-8 bee-container">
 
       <div>
 
@@ -29,7 +29,7 @@ export default function Accurately_2() {
           
           <strong>ly&nbsp;</strong>
           
-          <span className="highlight-white-padding-3-6">
+          <span className="highlight-255-padding-3-6">
             
             /li/ + /
             
@@ -95,13 +95,13 @@ export default function Accurately_2() {
 
     </ol>
 
-    <p className="margin-bottom-50">** </p>
+    <p>** </p>
 
     {/* =============================
           Lưu ý:
     ============================= */}
 
-    <div className="text-border1 padding-10">
+    <div className="margin-y-30 text-border1 table-container">
 
       <h4 className="margin-y-30 text-center">Lưu ý:</h4>
 

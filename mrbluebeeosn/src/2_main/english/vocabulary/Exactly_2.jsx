@@ -21,7 +21,7 @@ export default function Exactly_2() {
 
     <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>exactly</strong>" (chính xác) và các cụm từ hay đi kèm nhé.</p>
 
-    <div className="text-border1 padding-10 highlight-grey-padding-4-8 bee-container">
+    <div className="text-border1 padding-10 highlight-238-padding-4-8 bee-container">
 
       <div>
 
@@ -29,7 +29,7 @@ export default function Exactly_2() {
           
           <strong>Exactly&nbsp;</strong>
 
-          <span className="highlight-white-padding-3-6">
+          <span className="highlight-255-padding-3-6">
 
             /ɪɡˈzæktli/ + /
             
@@ -95,13 +95,13 @@ export default function Exactly_2() {
 
     </ol>
 
-    <p className="margin-bottom-50">** Các cụm từ trên đều nhấn mạnh sự chính xác, cụ thể và hoàn toàn trùng khớp. Chúng thường được sử dụng để khẳng định một ý kiến, một thông tin hoặc một sự việc nào đó.</p>
+    <p>** Các cụm từ trên đều nhấn mạnh sự chính xác, cụ thể và hoàn toàn trùng khớp. Chúng thường được sử dụng để khẳng định một ý kiến, một thông tin hoặc một sự việc nào đó.</p>
 
     {/* =============================
           Lưu ý:
     ============================= */}
 
-    <div className="text-border1 padding-10">
+    <div className="margin-y-30 text-border1 table-container">
 
       <h4 className="margin-y-30 text-center">Lưu ý:</h4>
 

@@ -21,7 +21,7 @@ export default function Thoroughly_2() {
 
     <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>thoroughly</strong>" (một cách kỹ lưỡng, hoàn toàn) và các cụm từ hay đi kèm nhé.</p>
 
-    <div className="text-border1 padding-10 highlight-grey-padding-4-8 bee-container">
+    <div className="text-border1 padding-10 highlight-238-padding-4-8 bee-container">
 
       <div>
 
@@ -29,7 +29,7 @@ export default function Thoroughly_2() {
 
           <strong>Thoroughly&nbsp;</strong>
 
-          <span className="highlight-white-padding-3-6">
+          <span className="highlight-255-padding-3-6">
 
             /ˈθʌrəli/ + /
             
@@ -95,13 +95,13 @@ export default function Thoroughly_2() {
 
     </ol>
 
-    <p className="margin-bottom-50">** Các cụm từ trên đều nhấn mạnh tính kỹ lưỡng, hoàn toàn, triệt để trong việc thực hiện một hành động hoặc quá trình nào đó. Chúng thường được sử dụng để tạo ấn tượng mạnh về sự tỉ mỉ, chu đáo và kỹ lưỡng.</p>
+    <p>** Các cụm từ trên đều nhấn mạnh tính kỹ lưỡng, hoàn toàn, triệt để trong việc thực hiện một hành động hoặc quá trình nào đó. Chúng thường được sử dụng để tạo ấn tượng mạnh về sự tỉ mỉ, chu đáo và kỹ lưỡng.</p>
 
     {/* =============================
           Lưu ý:
     ============================= */}
 
-    <div className="text-border1 padding-10">
+    <div className="margin-y-30 text-border1 table-container">
 
       <h4 className="margin-y-30 text-center">Lưu ý:</h4>
 
