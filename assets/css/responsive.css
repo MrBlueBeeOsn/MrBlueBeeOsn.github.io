@@ -185,7 +185,7 @@
                 right: -40px;
                 width: 130px; /* Kích thước hình ảnh */
                 height: auto;
-                opacity: 27%;
+                opacity: 20%;
             }
 
             .bee-wrapper2 {
@@ -193,7 +193,7 @@
                 bottom: -95px; /* 15px; Gắn sát góc trên */
                 right: -25px;
                 width: 80px; /* Kích thước hình ảnh */
-                opacity: 27%;
+                opacity: 20%;
             }
 
             /* =============================
@@ -328,7 +328,7 @@
                 right: -35px;
                 width: 120px; /* Kích thước hình ảnh */
                 height: auto;
-                opacity: 25%;
+                opacity: 20%;
             }
 
             .bee-wrapper2 {
@@ -336,7 +336,7 @@
                 bottom: -85px; /* 15px; Gắn sát góc trên */
                 right: -20px;
                 width: 70px; /* Kích thước hình ảnh */
-                opacity: 25%;
+                opacity: 20%;
             }
 
             /* =============================
