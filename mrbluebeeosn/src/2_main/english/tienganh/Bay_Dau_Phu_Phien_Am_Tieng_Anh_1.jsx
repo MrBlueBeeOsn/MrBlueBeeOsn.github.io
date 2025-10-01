@@ -445,7 +445,7 @@ export default function Bay_Dau_Phu_Phien_Am_Tieng_Anh_1() {
 
     <h3 className="margin-y-50 text-center">🔔 GHI CHÚ & NGUYÊN TẮC THỰC DỤNG</h3>
 
-    <h4 className="margin-top-30">🔹 Ta giữ giản lược:</h4>
+    <h4>🔹 Ta giữ giản lược:</h4>
 
     <p className="margin-top-20 text-indent-whole">Short vowels mặc định viết không dấu (aeiou, oo y) và long vowels (ee). Dấu chỉ dùng khi cần phân biệt hoặc cho âm dài/đặc biệt.</p>
 
@@ -471,7 +471,7 @@ export default function Bay_Dau_Phu_Phien_Am_Tieng_Anh_1() {
 
     <p className="margin-top-20 text-indent-whole">Gom cả schwa /ə/ và schwa + r (ví dụ he̛r, bi̛rd).</p>
 
-    <p className="margin-top-50">❗Chú thích:</p>
+    <p className="margin-top-30">❗Chú thích:</p>
 
       <ul className="list-square">
 

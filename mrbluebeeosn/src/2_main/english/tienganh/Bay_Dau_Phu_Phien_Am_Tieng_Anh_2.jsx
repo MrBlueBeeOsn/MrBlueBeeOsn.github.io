@@ -352,13 +352,13 @@ export default function Bay_Dau_Phu_Phien_Am_Tieng_Anh_2() {
           Notes!
     ============================= */}
 
-    <p>❗Chú thích:</p>
+    <p className="margin-top-20">❗Chú thích:</p>
 
       <ul className="list-square">
 
         <li id="ga">Trong GA (General American: Anh–Mỹ)</li>
         
-        <li className="margin-bottom-50" id="rp">Trong RP (Received Pronunciation: Anh–Anh)</li>
+        <li id="rp">Trong RP (Received Pronunciation: Anh–Anh)</li>
 
       </ul>
 
