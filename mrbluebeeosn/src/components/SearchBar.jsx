@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-
+import SearchIcon from './SearchIcon';
 
 export default function SearchBar({ posts, onSearchResults }) {
   const [searchTerm, setSearchTerm] = useState('');
@@ -61,13 +61,11 @@ export default function SearchBar({ posts, onSearchResults }) {
 
       <button onClick={handleSearch} className="search-btn">
 
-        <svg xmlns="http://www.w3.org/2000/svg" className="icon" width="24" height="24" fill="currentColor" stroke="var(--secondary-color)" strokeWidth="2" viewBox="0 0 24 24">
-
-            <circle cx="11" cy="11" r="8" />
-
-            <line x1="21" y1="21" x2="16.65" y2="16.65" />
-            
-        </svg>
+        <SearchIcon 
+          size={24} 
+          fill="var(--tertiary-color)" 
+          stroke="var(--tertiary-color)"
+        />
 
       </button>
 
