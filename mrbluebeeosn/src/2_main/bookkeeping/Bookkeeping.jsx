@@ -12,7 +12,7 @@ export default function Bookkeeping() {
 
     {/* This is the content of Bookkeeping Term. */}
     
-    <p><strong>Bookkeeping</strong> is the process of recording, classNameifying, and organizing a company's financial transactions. It's the foundation for a business's financial system, ensuring all the monetary activities are documented accurately and systematically.</p>
+    <p><strong>Bookkeeping</strong> is the process of recording, classififying, and organizing a company's financial transactions. It's the foundation for a business's financial system, ensuring all the monetary activities are documented accurately and systematically.</p>
 
     <p className="margin-top-20">Here's a breakdown of what <strong>bookkeeping</strong> entails:</p>
 
@@ -20,7 +20,7 @@ export default function Bookkeeping() {
 
     <p>Bookkeepers meticulously record every financial transaction a company makes. This includes income from sales, expenses incurred, purchases made, and payments received. Nowadays, accounting software is often used to streamline this process.</p>
 
-    <h4 className="margin-y-50 text-center">classNameification and Organization:</h4>
+    <h4 className="margin-y-50 text-center">Classification and Organization:</h4>
 
     <p>Not all transactions are created equal. Bookkeepers categorize these transactions according to their nature (e.g., salary expense, equipment purchase). This organization makes financial information easier to understand and analyze.</p>
 

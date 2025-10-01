@@ -5,7 +5,7 @@ export default function Bookkeeping_Posts() {
       id: 1.1_001,
       category: "Bookkeeping",
       title: "Bookkeeping", 
-      content: "Bookkeeping is the process of recording, classNameifying, and organizing a company's financial transactions.",
+      content: "Bookkeeping is the process of recording, classififying, and organizing a company's financial transactions.",
       slug: "bookkeeping/what-is-bookkeeping?",
       date: "2024-04-12"
     },
