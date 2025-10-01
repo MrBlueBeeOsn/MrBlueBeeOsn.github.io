@@ -538,13 +538,6 @@ td:nth-child(1):hover {
     background-color: transparent;
 }
 
-.icon {
-    color: var(--tertiary-color); /* ảnh hưởng đến fill/stroke nếu dùng currentColor */
-    font-size: 1.8rem;
-    font-family: Bellota Text, sans-serif;
-    padding: 0px;
-}
-
 /* .search-btn:hover {
     background: #0056b3;
 } */
