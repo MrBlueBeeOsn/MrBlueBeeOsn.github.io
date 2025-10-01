@@ -8,15 +8,15 @@ return (<>
      
 <main className="image image3">
             
-  <h2 className="margin-y-50 text-center">Concept Hub</h2>
+  <h3 className="margin-top-50 margin-bottom-20 text-center">Concept Hub</h3>
 
       {/* This is the content of Mr. Bee Osn English Term. */}
 
-      <div className="margin-bottom-50 margin-top-30 table-container">
+      <div className="table-container">
 
         <Blog />
 
-        <div className="text-border1 padding-20">
+        <div className="post-card">
 
           <div  className="flex-container">
               

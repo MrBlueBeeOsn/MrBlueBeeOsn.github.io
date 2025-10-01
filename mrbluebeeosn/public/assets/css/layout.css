@@ -138,20 +138,16 @@ main img {
 }
 
 main.image {
+    position: relative;
     width: 700px; /* Chiều rộng cố định, tối ưu cho blog */
-    /*margin: 0 auto;*/
     margin: 2.0rem auto;  /* cách lề trên dưới 20px, căn giữa ngang */
     padding: 2.0rem 2.0rem 5.0rem;
     background-color: var(--background-color-main);
-    background-image: url('/assets/images/flower2.11.png'); /* Hoa 8 cánh - Nhọn - Có nụ */
-    /* background-size: cover; */
-    background-position: top right;
-    background-repeat: no-repeat;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-    /* border-left: 2.1rem solid rgba(238, 238, 238, 0.5); */
     line-height: 1.6;
     overflow-x: hidden;
     position: relative;
+    z-index: 0;
 }
 
 main.image::before {
@@ -161,28 +157,31 @@ main.image::before {
     left: 0;
     width: 100%;
     height: 100%;
-    background: rgba(255, 255, 255, 0.2); /* Lớp trắng bán trong suốt */
-    z-index: 1;
+    background: rgba(255, 255, 255, 1); /* Lớp trắng bán trong suốt */
+    background-size: cover;
+    background-position: top right;
+    background-repeat: no-repeat;
+    opacity: 0.5;
+    z-index: -1; /* Đảm bảo lớp nền nằm sau nội dung */
 }
 
-main.image > * {
-    position: relative;
-    z-index: 2;
-}
+    main.image::before {
+		background-image: url('/assets/images/flower2.11.png'); /* Hoa 8 cánh - Nhọn - Có nụ */
+	}
 
-    main.image1 {
+    main.image1::before {
         background-image: url('/assets/images/flower2.2.png'); /* Hoa 8 cánh - Tròn - Không nụ */
     }
         
-    main.image2 {
+    main.image2::before {
         background-image: url('/assets/images/flower2.41.png'); /* Hoa 8 cánh - Tròn - Có nụ */
     }
         
-    main.image3 {
+    main.image3::before {
         background-image: url('/assets/images/flower2.5.png'); /* Hoa 8 cánh - Nhọn - Có nụ */
     }
         
-    main.image4 {
+    main.image4::before {
         background-image: url('/assets/images/flower2.3.png'); /* Hoa 5 cánh - Tròn - Không nụ */
     }
 

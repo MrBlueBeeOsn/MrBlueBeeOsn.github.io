@@ -54,7 +54,7 @@ export default function Bay_Dau_Phu_Phien_Am_Tieng_Anh_1() {
       1. Mặc định (không dấu) — Nguyên âm ngắn (short vowels)
     ============================= */}
 
-    <div className="margin-y-50 table-container">
+    <div className="margin-y-15 table-container">
 
       <h4 className="margin-y-50 text-center" id="mac-dinh">1. Mặc định (không dấu) — Nguyên âm ngắn (short vowels)</h4>
 
@@ -116,7 +116,7 @@ export default function Bay_Dau_Phu_Phien_Am_Tieng_Anh_1() {
          2. Macron (¯) — Nguyên âm dài / diphthongs
     ============================= */}
 
-    <div className="margin-y-50 table-container">
+    <div className="margin-y-15 table-container">
 
       <h4 className="margin-y-50 text-center" id="macron">2. Macron (¯) — Nguyên âm dài / diphthongs</h4>
 
@@ -173,7 +173,7 @@ export default function Bay_Dau_Phu_Phien_Am_Tieng_Anh_1() {
         3. Circumflex (ˆ) — Caret vowel /ʌ/
     ============================= */}
 
-    <div className="margin-y-50 table-container">
+    <div className="margin-y-15 table-container">
 
       <h4 className="margin-y-50 text-center" id="circumflex">3. Circumflex (ˆ) — Caret vowel /ʌ/</h4>
 
@@ -210,7 +210,7 @@ export default function Bay_Dau_Phu_Phien_Am_Tieng_Anh_1() {
         4. Dot above (˙) — Âm /ɪ/ biến thể & /jə/
     ============================= */}
     
-    <div className="margin-y-50 table-container">
+    <div className="margin-y-15 table-container">
 
       <h4 className="margin-y-50 text-center" id="dot-above">4. Dot above (˙) — Âm /ɪ/ biến thể</h4>
 
@@ -265,7 +265,7 @@ export default function Bay_Dau_Phu_Phien_Am_Tieng_Anh_1() {
         5. Hook (̛ ) — Âm schwa và schwa + r
     ============================= */}
 
-    <div className="margin-y-50 table-container">
+    <div className="margin-y-15 table-container">
 
       <h4 className="margin-y-50 text-center" id="hook">5. Hook ( ̛ ) — Âm schwa và schwa + r</h4>
 
@@ -336,7 +336,7 @@ export default function Bay_Dau_Phu_Phien_Am_Tieng_Anh_1() {
         6. Umlaut (¨) — Nguyên âm biến đổi
     ============================= */}
 
-    <div className="margin-y-50 table-container">
+    <div className="margin-y-15 table-container">
 
       <h4 className="margin-y-50 text-center" id="umlaut">6. Umlaut / Diaeresis (¨) — Nguyên âm biến đổi</h4>
 
@@ -378,7 +378,7 @@ export default function Bay_Dau_Phu_Phien_Am_Tieng_Anh_1() {
         7. Double Macron ( ̄ ̄ ) — Âm dài đặc biệt và biến thể mở rộng
     ============================= */}
 
-    <div className="margin-y-50 table-container">
+    <div className="margin-y-15 table-container">
 
       <h4 className="margin-y-50 text-center" id="double-macron">7. Double Macron (&nbsp; ̄ ̄ ) — Âm dài đặc biệt và biến thể mở rộng</h4>
 
@@ -420,7 +420,7 @@ export default function Bay_Dau_Phu_Phien_Am_Tieng_Anh_1() {
         8. Ring (˚) — Âm tròn /ɔː/
     ============================= */}
 
-    <div className="margin-y-50 table-container">
+    <div className="margin-y-15 table-container">
 
       <h4 className="margin-y-50 text-center" id="ring">8. Ring (˚) — Âm tròn /ɔː/</h4>
 
