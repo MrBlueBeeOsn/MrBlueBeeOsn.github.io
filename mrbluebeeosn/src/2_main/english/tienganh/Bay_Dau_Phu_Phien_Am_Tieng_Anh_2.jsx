@@ -13,11 +13,11 @@ export default function Bay_Dau_Phu_Phien_Am_Tieng_Anh_2() {
       <p className="text-center">(BẢN HOÀN CHỈNH
 
         <sup>
-          <Link to="/english/tienganh/he-thong-7-dau-phu-phien-am-tieng-anh-1">&nbsp;1&nbsp;</Link>
+          <Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">&nbsp;1&nbsp;</Link>
         </sup>
 
         <sup>
-          <Link to="/english/tienganh/he-thong-7-dau-phu-phien-am-tieng-anh-2">&nbsp;2&nbsp;</Link>
+          <Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-2">&nbsp;2&nbsp;</Link>
         </sup>)
         
       </p>
@@ -370,7 +370,7 @@ export default function Bay_Dau_Phu_Phien_Am_Tieng_Anh_2() {
 
       <ul className="list-square">
 
-        <li>Bao phủ toàn bộ <Link to="/english/tienganh/nguyen-am-don#nguyen-am-don">nguyên âm đơn</Link> + <Link to="/english/tienganh/nguyen-am-doi#nguyen-am-doi">nguyên âm đôi</Link>.</li>
+        <li>Bao phủ toàn bộ <Link to="/tieng-anh/nguyen-am-don#nguyen-am-don">nguyên âm đơn</Link> + <Link to="/tieng-anh/nguyen-am-doi#nguyen-am-doi">nguyên âm đôi</Link>.</li>
 
         <li>Phân biệt rõ fo͞od = /fuːd/, dō̄ = /duː/, Tüesday = /ˈtuːz.deɪ/ và cūte = /kjuːt/</li>
 

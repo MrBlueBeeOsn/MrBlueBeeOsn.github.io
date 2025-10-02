@@ -9,9 +9,9 @@ export default function Nguyen_Am_Doi() {
     <h4><HashLink smooth to="/tieng-anh#tieng-anh-terms"><mark className="highlight-tertiary-padding-4-8">Tiếng Anh</mark></HashLink></h4>
 
     <h2 className="margin-y-50 text-center">📌 BẢNG TỔNG HỢP NGUYÊN ÂM ĐÔI
-      <sup><HashLink smooth to="/english/tienganh/nguyen-am-don">&nbsp;1&nbsp;</HashLink>
+      <sup><HashLink smooth to="/tieng-anh/nguyen-am-don">&nbsp;1&nbsp;</HashLink>
       </sup>
-      <sup><HashLink smooth to="/english/tienganh/nguyen-am-doi">&nbsp;2&nbsp;</HashLink>
+      <sup><HashLink smooth to="/tieng-anh/nguyen-am-doi">&nbsp;2&nbsp;</HashLink>
       </sup>
       <p className="text-center">(DIPHTHONGS)</p>
     </h2>

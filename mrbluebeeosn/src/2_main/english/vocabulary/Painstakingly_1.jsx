@@ -9,9 +9,9 @@ export default function Painstakingly_1() {
     <h4><HashLink smooth to="/vocabulary#tinh-ti-mi-terms"><mark className="highlight-tertiary-padding-4-8">Tính tỉ mỉ</mark></HashLink></h4>
     
     <h2 className="margin-y-50 text-center">painstakingly
-      <sup><Link to="/english/vocabulary/painstakingly-1">&nbsp;1&nbsp;</Link>
+      <sup><Link to="/vocabulary/painstakingly-1">&nbsp;1&nbsp;</Link>
       </sup>
-      <sup><Link to="/english/vocabulary/painstakingly-2">&nbsp;2&nbsp;</Link>
+      <sup><Link to="/vocabulary/painstakingly-2">&nbsp;2&nbsp;</Link>
       </sup>
     </h2>
 
@@ -102,7 +102,7 @@ export default function Painstakingly_1() {
 
         <li className="margin-bottom-20 list-none">He examined the document carefully. (Anh ấy xem xét tài liệu một cách cẩn thận.)</li>
 
-        <li><Link to="/english/vocabulary/thoroughly-1">Thoroughly</Link>: Một cách kỹ lưỡng, hoàn toàn /ˈθʌr.ə.li/</li>
+        <li><Link to="/vocabulary/thoroughly-1">Thoroughly</Link>: Một cách kỹ lưỡng, hoàn toàn /ˈθʌr.ə.li/</li>
 
         <li className="list-none">They searched the house thoroughly. (Họ tìm kiếm căn nhà một cách kỹ lưỡng.)</li>
 

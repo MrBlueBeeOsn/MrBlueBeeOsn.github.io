@@ -10,10 +10,10 @@ export default function Precisely_2() {
     
     <h2 className="margin-y-50 text-center">precisely
       <sup>
-        <Link to="/english/vocabulary/precisely-1">&nbsp;1&nbsp;</Link>
+        <Link to="/vocabulary/precisely-1">&nbsp;1&nbsp;</Link>
       </sup>
       <sup>
-        <Link to="/english/vocabulary/precisely-2">&nbsp;2&nbsp;</Link>
+        <Link to="/vocabulary/precisely-2">&nbsp;2&nbsp;</Link>
       </sup>
     </h2>
 

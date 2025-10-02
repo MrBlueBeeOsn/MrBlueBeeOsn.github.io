@@ -10,10 +10,10 @@ export default function Diligently_2() {
     
     <h2 className="margin-y-50 text-center">diligently
       <sup>
-        <Link to="/english/vocabulary/diligently-1">&nbsp;1&nbsp;</Link>
+        <Link to="/vocabulary/diligently-1">&nbsp;1&nbsp;</Link>
       </sup>
       <sup>
-        <Link to="/english/vocabulary/diligently-2">&nbsp;2&nbsp;</Link>
+        <Link to="/vocabulary/diligently-2">&nbsp;2&nbsp;</Link>
       </sup>
     </h2>
 

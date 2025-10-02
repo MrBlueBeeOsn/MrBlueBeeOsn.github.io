@@ -10,10 +10,10 @@ export default function Scrupulously_2() {
     
     <h2 className="margin-y-50 text-center">scrupulously
       <sup>
-        <Link to="/english/vocabulary/scrupulously-1">&nbsp;1&nbsp;</Link>
+        <Link to="/vocabulary/scrupulously-1">&nbsp;1&nbsp;</Link>
       </sup>
       <sup>
-        <Link to="/english/vocabulary/scrupulously-2">&nbsp;2&nbsp;</Link>
+        <Link to="/vocabulary/scrupulously-2">&nbsp;2&nbsp;</Link>
       </sup>
     </h2>
 

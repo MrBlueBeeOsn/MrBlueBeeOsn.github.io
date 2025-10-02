@@ -37,7 +37,7 @@ export default function Blog() {
                 {displayedPosts.map(post => (
                   <article key={post.id} className="post-card">
 
-                    <p className="post-category"><Link to={`/${post.category}`}>{post.category}</Link></p>
+                    <p className="post-category"><Link to={`/${post.categorySlug}`}>{post.categoryDisplay}</Link></p>
 
                     <h2>{post.title}</h2>
 
@@ -58,7 +58,7 @@ export default function Blog() {
                 {displayedPosts.map(post => (
                   <article key={post.id} className="post-card">
 
-                    <p className="post-category"><Link to={`/${post.category}`}>{post.category}</Link></p>
+                    <p className="post-category"><Link to={`/${post.categorySlug}`}>{post.categoryDisplay}</Link></p>
 
                     <h2>{post.title}</h2>
 

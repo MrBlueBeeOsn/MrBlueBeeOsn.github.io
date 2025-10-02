@@ -10,10 +10,10 @@ export default function Thoroughly_2() {
     
     <h2 className="margin-y-50 text-center">thoroughly
       <sup>
-        <Link to="/english/vocabulary/thoroughly-1">&nbsp;1&nbsp;</Link>
+        <Link to="/vocabulary/thoroughly-1">&nbsp;1&nbsp;</Link>
       </sup>
       <sup>
-        <Link to="/english/vocabulary/thoroughly-2">&nbsp;2&nbsp;</Link>
+        <Link to="/vocabulary/thoroughly-2">&nbsp;2&nbsp;</Link>
       </sup>
     </h2>
 

@@ -9,9 +9,9 @@ export default function Scrupulously_1() {
     <h4><HashLink smooth to="/vocabulary#tinh-ti-mi-terms"><mark className="highlight-tertiary-padding-4-8">Tính tỉ mỉ</mark></HashLink></h4>
     
     <h2 className="margin-y-50 text-center">scrupulously
-      <sup><Link to="/english/vocabulary/scrupulously-1">&nbsp;1&nbsp;</Link>
+      <sup><Link to="/vocabulary/scrupulously-1">&nbsp;1&nbsp;</Link>
       </sup>
-      <sup><Link to="/english/vocabulary/scrupulously-2">&nbsp;2&nbsp;</Link>
+      <sup><Link to="/vocabulary/scrupulously-2">&nbsp;2&nbsp;</Link>
       </sup>
     </h2>
 
@@ -102,7 +102,7 @@ export default function Scrupulously_1() {
 
         <li className="margin-bottom-20 list-none">He handled the glass carefully. (Anh ấy xử lý cái ly một cách cẩn thận.)</li>
 
-        <li><Link to="/english/vocabulary/thoroughly-1">Thoroughly</Link>: Một cách kỹ lưỡng, hoàn toàn /ˈθɜːr.ə.li/</li>
+        <li><Link to="/vocabulary/thoroughly-1">Thoroughly</Link>: Một cách kỹ lưỡng, hoàn toàn /ˈθɜːr.ə.li/</li>
 
         <li className="list-none">He checked the documents thoroughly. (Anh ấy kiểm tra các tài liệu một cách kỹ lưỡng.)</li>
 

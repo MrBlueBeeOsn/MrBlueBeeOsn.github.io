@@ -53,37 +53,37 @@ export default function VocabularyIndex() {
     <ul className="list-border1">
       
       <li>
-        <Link to="/english/vocabulary/accurately-1">accurately
+        <Link to="/vocabulary/accurately-1">accurately
           <sup>&nbsp;1&nbsp;</sup>
             </Link> 
-            <Link to="/english/vocabulary/accurately-2">
+            <Link to="/vocabulary/accurately-2">
           <sup>&nbsp;2&nbsp;</sup>
         </Link>
       </li>
 
       <li>
-        <Link to="/english/vocabulary/precisely-1">precisely
+        <Link to="/vocabulary/precisely-1">precisely
           <sup>&nbsp;1&nbsp;</sup>
         </Link>
-        <Link to="/english/vocabulary/precisely-2">
+        <Link to="/vocabulary/precisely-2">
           <sup>&nbsp;2&nbsp;</sup>
         </Link>
       </li>
       
       <li>
-        <Link to="/english/vocabulary/correctly-1">correctly
+        <Link to="/vocabulary/correctly-1">correctly
           <sup>&nbsp;1&nbsp;</sup>
         </Link>
-        <Link to="/english/vocabulary/correctly-2">
+        <Link to="/vocabulary/correctly-2">
           <sup>&nbsp;2&nbsp;</sup>
         </Link>
       </li>
 
       <li>
-        <Link to="/english/vocabulary/exactly-1">exactly
+        <Link to="/vocabulary/exactly-1">exactly
           <sup>&nbsp;1&nbsp;</sup>
         </Link>
-        <Link to="/english/vocabulary/exactly-2">
+        <Link to="/vocabulary/exactly-2">
           <sup>&nbsp;2&nbsp;</sup>
         </Link>
       </li>
@@ -99,37 +99,37 @@ export default function VocabularyIndex() {
     <ul className="list-border1">
 
       <li>
-        <Link to="/english/vocabulary/painstakingly-1">painstakingly
+        <Link to="/vocabulary/painstakingly-1">painstakingly
           <sup>&nbsp;1&nbsp;</sup>
             </Link> 
-            <Link to="/english/vocabulary/painstakingly-2">
+            <Link to="/vocabulary/painstakingly-2">
           <sup>&nbsp;2&nbsp;</sup>
         </Link>
       </li>
 
       <li>
-        <Link to="/english/vocabulary/thoroughly-1">thoroughly
+        <Link to="/vocabulary/thoroughly-1">thoroughly
           <sup>&nbsp;1&nbsp;</sup>
             </Link> 
-            <Link to="/english/vocabulary/thoroughly-2">
+            <Link to="/vocabulary/thoroughly-2">
           <sup>&nbsp;2&nbsp;</sup>
         </Link>
       </li>
       
       <li>
-        <Link to="/english/vocabulary/diligently-1">diligently
+        <Link to="/vocabulary/diligently-1">diligently
           <sup>&nbsp;1&nbsp;</sup>
             </Link> 
-            <Link to="/english/vocabulary/diligently-2">
+            <Link to="/vocabulary/diligently-2">
           <sup>&nbsp;2&nbsp;</sup>
         </Link>
       </li>
 
       <li>
-        <Link to="/english/vocabulary/scrupulously-1">scrupulously
+        <Link to="/vocabulary/scrupulously-1">scrupulously
           <sup>&nbsp;1&nbsp;</sup>
             </Link> 
-            <Link to="/english/vocabulary/scrupulously-2">
+            <Link to="/vocabulary/scrupulously-2">
           <sup>&nbsp;2&nbsp;</sup>
         </Link>
       </li>

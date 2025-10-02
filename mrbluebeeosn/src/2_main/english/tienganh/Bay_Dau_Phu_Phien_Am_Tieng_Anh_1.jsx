@@ -13,11 +13,11 @@ export default function Bay_Dau_Phu_Phien_Am_Tieng_Anh_1() {
       <p className="text-center">(BẢN HOÀN CHỈNH
 
         <sup>
-          <Link to="/english/tienganh/he-thong-7-dau-phu-phien-am-tieng-anh-1">&nbsp;1&nbsp;</Link>
+          <Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">&nbsp;1&nbsp;</Link>
         </sup>
 
         <sup>
-          <Link to="/english/tienganh/he-thong-7-dau-phu-phien-am-tieng-anh-2">&nbsp;2&nbsp;</Link>
+          <Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-2">&nbsp;2&nbsp;</Link>
         </sup>)
         
       </p>
@@ -40,9 +40,9 @@ export default function Bay_Dau_Phu_Phien_Am_Tieng_Anh_1() {
 
         <li>7 loại dấu phụ: <HashLink smooth to="#macron">Macron</HashLink>, <HashLink smooth to="#circumflex">Circumflex</HashLink>, <HashLink smooth to="#dot-above">Dot Above</HashLink>, <HashLink smooth to="#hook">Hook</HashLink>, <HashLink smooth to="#umlaut">Umlaut</HashLink>, <HashLink smooth to="#double-macron">Double Macron</HashLink>, <HashLink smooth to="#ring">Ring</HashLink>.</li>
 
-        <li>Bảng tổng hợp <Link to="/english/tienganh/nguyen-am-don">nguyên âm đơn</Link></li>
+        <li>Bảng tổng hợp <Link to="/tieng-anh/nguyen-am-don">nguyên âm đơn</Link></li>
 
-        <li>Bảng tổng hợp <Link to="/english/tienganh/nguyen-am-doi">nguyên âm đôi</Link></li>
+        <li>Bảng tổng hợp <Link to="/tieng-anh/nguyen-am-doi">nguyên âm đôi</Link></li>
 
       </ul>
       
@@ -489,7 +489,7 @@ export default function Bay_Dau_Phu_Phien_Am_Tieng_Anh_1() {
 
       <ul className="list-square">
 
-        <li>Bao phủ toàn bộ <Link to="/english/tienganh/nguyen-am-don">nguyên âm đơn</Link> + <Link to="/english/tienganh/nguyen-am-doi">nguyên âm đôi</Link>.</li>
+        <li>Bao phủ toàn bộ <Link to="/tieng-anh/nguyen-am-don">nguyên âm đơn</Link> + <Link to="/tieng-anh/nguyen-am-doi">nguyên âm đôi</Link>.</li>
 
         <li>Các âm khó (schwa /ə/, caret /ʌ/, weak /ɪ/) đều có ký hiệu riêng.</li>
 

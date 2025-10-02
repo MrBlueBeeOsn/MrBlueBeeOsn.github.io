@@ -47,17 +47,17 @@ export default function TiengAnhIndex() {
     <ul className="list-border1">
 
       <li>
-        <Link to="/english/tienganh/he-thong-7-dau-phu-phien-am-tieng-anh-1">7 dấu phụ phiên âm tiếng Anh
+        <Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">7 dấu phụ phiên âm tiếng Anh
           <sup>&nbsp;1&nbsp;</sup>
         </Link>
-        <Link to="/english/tienganh/he-thong-7-dau-phu-phien-am-tieng-anh-2">
+        <Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-2">
           <sup>&nbsp;2&nbsp;</sup>
         </Link>
       </li>
 
-      <li><Link to="/english/tienganh/nguyen-am-don">Nguyên âm đơn</Link></li>
+      <li><Link to="/tieng-anh/nguyen-am-don">Nguyên âm đơn</Link></li>
 
-      <li><Link to="/english/tienganh/nguyen-am-doi">Nguyên âm đôi</Link></li>
+      <li><Link to="/tieng-anh/nguyen-am-doi">Nguyên âm đôi</Link></li>
       
     </ul>
     

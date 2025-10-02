@@ -3,7 +3,8 @@ export default function Bookkeeping_Posts() {
   return [
     { 
       id: 1.1_001,
-      category: "Bookkeeping",
+      categoryDisplay: "Bookkeeping",
+      categorySlug: "bookkeeping",
       title: "Bookkeeping", 
       content: "Bookkeeping is the process of recording, classififying, and organizing a company's financial transactions.",
       slug: "bookkeeping/what-is-bookkeeping?",
@@ -11,7 +12,8 @@ export default function Bookkeeping_Posts() {
     },
     { 
       id: 1.1_002,
-      category: "Bookkeeping",
+      categoryDisplay: "Bookkeeping",
+      categorySlug: "bookkeeping",
       title: "Bookkeeper",
       content: "A bookkeeper is a financial professional who plays a vital role in maintaining the accuracy and organization of a company's financial records.",
       slug: "bookkeeping/what-is-a-bookkeeper?",
@@ -19,7 +21,8 @@ export default function Bookkeeping_Posts() {
     },
     { 
       id: 1.1_003,
-      category: "Bookkeeping",
+      categoryDisplay: "Bookkeeping",
+      categorySlug: "bookkeeping",
       title: "Accounts Receivable",
       content: "Accounts receivable (AR), abbreviated as A/R sometimes, represent the money owed to a business by its customers for goods or services that have been delivered but not yet paid for.",
       slug: "bookkeeping/what-is-accounts-receivable?",
@@ -27,7 +30,8 @@ export default function Bookkeeping_Posts() {
     },
     { 
       id: 1.1_004,
-      category: "Bookkeeping",
+      categoryDisplay: "Bookkeeping",
+      categorySlug: "bookkeeping",
       title: "Accounts Payable", 
       content: "Accounts payable (AP), sometimes abbreviated as A/P, refers to the short-term debt a business owes to its suppliers for goods or services that have been received but not yet paid for.",
       slug: "bookkeeping/what-is-accounts-payable",
@@ -35,7 +39,8 @@ export default function Bookkeeping_Posts() {
     },
     { 
       id: 1.1_005,
-      category: "Bookkeeping",
+      categoryDisplay: "Bookkeeping",
+      categorySlug: "bookkeeping",
       title: "Journal entry", 
       content: "A journal entry is the fundamental record of a financial transaction in accounting.",
       slug: "bookkeeping/what-is-a-journal-entry",
@@ -43,7 +48,8 @@ export default function Bookkeeping_Posts() {
     },
     { 
       id: 1.1_006,
-      category: "Bookkeeping",
+      categoryDisplay: "Bookkeeping",
+      categorySlug: "bookkeeping",
       title: "General ledger", 
       content: "A general ledger is a comprehensive record of all the financial transactions of a company.",
       slug: "bookkeeping/what-is-a-general-ledger",
@@ -51,7 +57,8 @@ export default function Bookkeeping_Posts() {
     },
     { 
       id: 1.1_007,
-      category: "Bookkeeping",
+      categoryDisplay: "Bookkeeping",
+      categorySlug: "bookkeeping",
       title: "Trial balance", 
       content: "A trial balance in accounting is like a giant checklist to ensure everything is balanced in the company's books.",
       slug: "bookkeeping/what-is-a-trial-balance",
@@ -59,7 +66,8 @@ export default function Bookkeeping_Posts() {
     },
     { 
       id: 1.1_008,
-      category: "Bookkeeping",
+      categoryDisplay: "Bookkeeping",
+      categorySlug: "bookkeeping",
       title: "Account reconciliation", 
       content: "Account reconciliation in accounting is like double-checking your piggy bank to make sure everything adds up.",
       slug: "bookkeeping/what-is-account-reconciliation",

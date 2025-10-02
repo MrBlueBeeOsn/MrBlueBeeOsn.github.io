@@ -46,9 +46,9 @@ export default function PronunciationIndex() {
     
     <ul className="list-border1">
 
-      <li><Link to="/english/pronunciation/what-is-pronunciation?">Pronunciation</Link></li>
+      <li><Link to="/pronunciation/what-is-pronunciation?">Pronunciation</Link></li>
 
-      <li><Link to="/english/pronunciation/what-is-IPA?">IPA</Link></li>
+      <li><Link to="/pronunciation/what-is-IPA?">IPA</Link></li>
       
     </ul>
     

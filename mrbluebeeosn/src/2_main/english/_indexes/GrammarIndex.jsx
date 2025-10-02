@@ -46,13 +46,13 @@ export default function GrammarIndex() {
 
     <ul className="list-border1">
 
-      <li><Link to="/english/grammar/what-is-an-adverb?">Adverb</Link></li>
+      <li><Link to="/grammar/what-is-an-adverb?">Adverb</Link></li>
 
-      <li><Link to="/english/grammar/what-is-a-verb?">Verb</Link></li>
+      <li><Link to="/grammar/what-is-a-verb?">Verb</Link></li>
 
-      <li><Link to="/english/grammar/what-is-an-adjective?">Adjective</Link></li>
+      <li><Link to="/grammar/what-is-an-adjective?">Adjective</Link></li>
 
-      <li><Link to="/english/grammar/what-is-a-noun?">Noun</Link></li>
+      <li><Link to="/grammar/what-is-a-noun?">Noun</Link></li>
 
     </ul>
     

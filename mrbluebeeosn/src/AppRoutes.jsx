@@ -108,7 +108,7 @@ export default function AppRoutes() {
         {/* 2_main Khai báo đường dẫn path cho English */}
 
           {/* Mr.Bee Osn English Terms */}
-          <Route path="/english/mrbeeenglish/searching-and-clickable-dictionary" element={<Searching_And_Clickable_Dictionary />} />
+          <Route path="/mrbeeenglish/searching-and-clickable-dictionary" element={<Searching_And_Clickable_Dictionary />} />
           
           {/* 1. English */}
           <Route path="/english" element={<EnglishIndex />} />
@@ -116,44 +116,44 @@ export default function AppRoutes() {
           <Route path="/english/what-is-the-english-language?" element={<The_English_Language />} />
 
           {/* 2. Grammar */}
-          <Route path="grammar/" element={<GrammarIndex />} />
-          <Route path="/english/grammar/what-is-an-adverb?" element={<Adverb />} />
-          <Route path="/english/grammar/what-is-a-verb?" element={<Verb />} />
-          <Route path="/english/grammar/what-is-an-adjective?" element={<Adjective />} />
-          <Route path="/english/grammar/what-is-a-noun?" element={<Noun />} />
+          <Route path="/grammar" element={<GrammarIndex />} />
+          <Route path="/grammar/what-is-an-adverb?" element={<Adverb />} />
+          <Route path="/grammar/what-is-a-verb?" element={<Verb />} />
+          <Route path="/grammar/what-is-an-adjective?" element={<Adjective />} />
+          <Route path="/grammar/what-is-a-noun?" element={<Noun />} />
           
           {/* 3. Pronunciation */}
           <Route path="/pronunciation" element={<PronunciationIndex />} />
-          <Route path="/english/pronunciation/what-is-pronunciation?" element={<Pronunciation />} />
-          <Route path="/english/pronunciation/what-is-IPA?" element={<IPA />} />
+          <Route path="/pronunciation/what-is-pronunciation?" element={<Pronunciation />} />
+          <Route path="/pronunciation/what-is-IPA?" element={<IPA />} />
           
           {/* 4. Tiếng Anh */}
-          <Route path="tieng-anh" element={<TiengAnhIndex />} />
-          <Route path="/english/tienganh/he-thong-7-dau-phu-phien-am-tieng-anh-1" element={<Bay_Dau_Phu_Phien_Am_Tieng_Anh_1 />} />
-          <Route path="/english/tienganh/he-thong-7-dau-phu-phien-am-tieng-anh-2" element={<Bay_Dau_Phu_Phien_Am_Tieng_Anh_2 />} />
-          <Route path="/english/tienganh/nguyen-am-don" element={<Nguyen_Am_Don />} />
-          <Route path="/english/tienganh/nguyen-am-doi" element={<Nguyen_Am_Doi />} />
+          <Route path="/tieng-anh" element={<TiengAnhIndex />} />
+          <Route path="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1" element={<Bay_Dau_Phu_Phien_Am_Tieng_Anh_1 />} />
+          <Route path="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-2" element={<Bay_Dau_Phu_Phien_Am_Tieng_Anh_2 />} />
+          <Route path="/tieng-anh/nguyen-am-don" element={<Nguyen_Am_Don />} />
+          <Route path="/tieng-anh/nguyen-am-doi" element={<Nguyen_Am_Doi />} />
 
           {/* 5. Vocabulary - Tính chính xác */}
-          <Route path="vocabulary" element={<VocabularyIndex />} />
-          <Route path="/english/vocabulary/accurately-1" element={<Accurately_1 />} />
-          <Route path="/english/vocabulary/accurately-2" element={<Accurately_2 />} />
-          <Route path="/english/vocabulary/precisely-1" element={<Precisely_1 />} />
-          <Route path="/english/vocabulary/precisely-2" element={<Precisely_2 />} />
-          <Route path="/english/vocabulary/correctly-1" element={<Correctly_1 />} />
-          <Route path="/english/vocabulary/correctly-2" element={<Correctly_2 />} />
-          <Route path="/english/vocabulary/exactly-1" element={<Exactly_1 />} />
-          <Route path="/english/vocabulary/exactly-2" element={<Exactly_2 />} />
+          <Route path="/vocabulary" element={<VocabularyIndex />} />
+          <Route path="/vocabulary/accurately-1" element={<Accurately_1 />} />
+          <Route path="/vocabulary/accurately-2" element={<Accurately_2 />} />
+          <Route path="/vocabulary/precisely-1" element={<Precisely_1 />} />
+          <Route path="/vocabulary/precisely-2" element={<Precisely_2 />} />
+          <Route path="/vocabulary/correctly-1" element={<Correctly_1 />} />
+          <Route path="/vocabulary/correctly-2" element={<Correctly_2 />} />
+          <Route path="/vocabulary/exactly-1" element={<Exactly_1 />} />
+          <Route path="/vocabulary/exactly-2" element={<Exactly_2 />} />
 
           {/* 6. Vocabulary - Tính tỉ mỉ */}
-          <Route path="/english/vocabulary/painstakingly-1" element={<Painstakingly_1 />} />
-          <Route path="/english/vocabulary/painstakingly-2" element={<Painstakingly_2 />} />
-          <Route path="/english/vocabulary/thoroughly-1" element={<Thoroughly_1 />} />
-          <Route path="/english/vocabulary/thoroughly-2" element={<Thoroughly_2 />} />
-          <Route path="/english/vocabulary/diligently-1" element={<Diligently_1 />} />
-          <Route path="/english/vocabulary/diligently-2" element={<Diligently_2 />} />
-          <Route path="/english/vocabulary/scrupulously-1" element={<Scrupulously_1 />} />
-          <Route path="/english/vocabulary/scrupulously-2" element={<Scrupulously_2 />} />
+          <Route path="/vocabulary/painstakingly-1" element={<Painstakingly_1 />} />
+          <Route path="/vocabulary/painstakingly-2" element={<Painstakingly_2 />} />
+          <Route path="/vocabulary/thoroughly-1" element={<Thoroughly_1 />} />
+          <Route path="/vocabulary/thoroughly-2" element={<Thoroughly_2 />} />
+          <Route path="/vocabulary/diligently-1" element={<Diligently_1 />} />
+          <Route path="/vocabulary/diligently-2" element={<Diligently_2 />} />
+          <Route path="/vocabulary/scrupulously-1" element={<Scrupulously_1 />} />
+          <Route path="/vocabulary/scrupulously-2" element={<Scrupulously_2 />} />
 
       </Route>
 

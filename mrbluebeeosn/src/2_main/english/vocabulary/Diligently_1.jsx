@@ -9,9 +9,9 @@ export default function Diligently_1() {
     <h4><HashLink smooth to="/vocabulary#tinh-ti-mi-terms"><mark className="highlight-tertiary-padding-4-8">Tính tỉ mỉ</mark></HashLink></h4>
     
     <h2 className="margin-y-50 text-center">diligently
-      <sup><Link to="/english/vocabulary/diligently-1">&nbsp;1&nbsp;</Link>
+      <sup><Link to="/vocabulary/diligently-1">&nbsp;1&nbsp;</Link>
       </sup>
-      <sup><Link to="/english/vocabulary/diligently-2">&nbsp;2&nbsp;</Link>
+      <sup><Link to="/vocabulary/diligently-2">&nbsp;2&nbsp;</Link>
       </sup>
     </h2>
 

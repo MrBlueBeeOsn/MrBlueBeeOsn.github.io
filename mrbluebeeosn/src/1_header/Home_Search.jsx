@@ -6,17 +6,15 @@ import Blog from '../components/Blog';
 export default function Home_Search() {
 return (<>
      
-<main className="image image3">
+    <main className="image image3">
             
-  <h3 className="margin-top-50 margin-bottom-20 text-center">Concept Hub</h3>
+    {/* <h3 className="margin-top-50 margin-bottom-20 text-center">Concept Hub</h3> */}
 
-      {/* This is the content of Mr. Bee Osn English Term. */}
+    {/* This is the content of Mr. Bee Osn English Term. */}
 
-      <div className="table-container">
+      {/* <div className="topic-container">
 
-        <Blog />
-
-        <div className="post-card">
+        <div  className="flex-topic">
 
           <div  className="flex-container">
               
@@ -48,13 +46,19 @@ return (<>
               <mark className="highlight-tertiary-padding-2-4">Tiếng Anh</mark>
             </HashLink>
 
-            <HashLink smooth to="/english#vocabulary-terms">
+            <HashLink smooth to="/vocabulary#vocabulary-terms">
               <mark className="highlight-tertiary-padding-2-4">Từ vựng</mark>
             </HashLink>
 
           </div>
 
         </div>
+
+      </div> */}
+
+      <div className="table-search">
+
+        <Blog />
       
       </div>
 

@@ -3,7 +3,8 @@ export default function Bee_Posts() {
   return [
     { 
       id: 1001,
-      category: "",
+      categoryDisplay: "",
+      categorySlug: "",
       title: "",
       content: "",
       slug: "",
@@ -11,7 +12,8 @@ export default function Bee_Posts() {
     },
     { 
       id: 1002,
-      category: "",
+      categoryDisplay: "",
+      categorySlug: "",
       title: "",
       content: "",
       slug: "",

@@ -33,7 +33,7 @@ export default function SearchBar({ posts, onSearchResults }) {
       // Chuẩn hóa tất cả các trường cần tìm kiếm
       const normalizedTitle = normalizeString(post.title || '');
       const normalizedContent = normalizeString(post.content || '');
-      const normalizedCategory = normalizeString(post.category || '');
+      const normalizedCategory = normalizeString(post.categoryDisplay || '');
 
       return (
         normalizedTitle.includes(normalizedSearchTerm) ||
@@ -71,7 +71,7 @@ export default function SearchBar({ posts, onSearchResults }) {
 
       <input
         type="text"
-        placeholder="Search..."
+        placeholder="Bee Search"
         value={searchTerm}
         onChange={(e) => setSearchTerm(e.target.value)}
         onKeyPress={handleKeyPress}
