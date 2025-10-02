@@ -6,7 +6,7 @@ export default function Thoroughly_2() {
 
   <main className="image image2">
     
-    <h4><HashLink smooth to="/english#tinh-ti-mi-terms"><mark className="highlight-tertiary-padding-4-8">Tính tỉ mỉ</mark></HashLink></h4>
+    <h4><HashLink smooth to="/vocabulary#tinh-ti-mi-terms"><mark className="highlight-tertiary-padding-4-8">Tính tỉ mỉ</mark></HashLink></h4>
     
     <h2 className="margin-y-50 text-center">thoroughly
       <sup>

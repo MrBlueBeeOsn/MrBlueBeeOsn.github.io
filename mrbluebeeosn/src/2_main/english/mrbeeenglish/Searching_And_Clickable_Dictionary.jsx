@@ -25,11 +25,11 @@ export default function Searching_And_Clickable_Dictionary() {
           <mark className="highlight-tertiary-padding-2-4">English</mark>
           </HashLink>
 
-          <HashLink smooth to="/english#grammar-terms">
+          <HashLink smooth to="/grammar#grammar-terms">
             <mark className="highlight-tertiary-padding-2-4">Grammar</mark>
           </HashLink>
 
-          <HashLink smooth to="/english#pronunciation-terms">
+          <HashLink smooth to="/pronunciation#pronunciation-terms">
             <mark className="highlight-tertiary-padding-2-4">Pronunciation</mark>
           </HashLink>
 
@@ -37,7 +37,7 @@ export default function Searching_And_Clickable_Dictionary() {
 
         <div  className="flex-container">
             
-          <HashLink smooth to="/english#tieng-anh-terms">
+          <HashLink smooth to="/tieng-anh#tieng-anh-terms">
             <mark className="highlight-tertiary-padding-2-4">Tiếng Anh</mark>
           </HashLink>
 

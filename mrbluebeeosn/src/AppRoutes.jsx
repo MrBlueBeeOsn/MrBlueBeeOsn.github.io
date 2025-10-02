@@ -4,8 +4,6 @@ import Posts from './posts/Posts';
 
 // 1_header import các chức năng và đường dẫn
 import Home from "./1_header/Home";
-import Home_Bookkeeping from "./1_header/Home_Bookkeeping";
-import Home_English from "./1_header/Home_English";
 import Home_Search from "./1_header/Home_Search";
 
 // 2_main import các chức năng và đường dẫn
@@ -14,6 +12,7 @@ import Mr_Bee_Osn from "./2_main/msbeeosn/Mr_Bee_Osn";
 // 2_main import các chức năng và đường dẫn Bookkeeping
 
   // 1. Bookkeeping
+  import BookkeepingIndex from "./2_main/bookkeeping/_indexes/BookkeepingIndex";
   import Bookkeeping from "./2_main/bookkeeping/Bookkeeping";
   import Bookkeeper from "./2_main/bookkeeping/Bookkeeper";
   import Accounts_Receivable from "./2_main/bookkeeping/Accounts_Receivable";
@@ -26,30 +25,35 @@ import Mr_Bee_Osn from "./2_main/msbeeosn/Mr_Bee_Osn";
 
 // 2_main import các chức năng và đường dẫn
 
+  // Mr.Bee Osn English Terms
+  import Searching_And_Clickable_Dictionary from "./2_main/english/mrbeeenglish/Searching_And_Clickable_Dictionary";
+
   // 1. English
+  import EnglishIndex from "./2_main/english/_indexes/EnglishIndex";
   import English from "./2_main/english/English";
   import The_English_Language from "./2_main/english/The_English_Language";
 
   // 2. Grammar
+  import GrammarIndex from "./2_main/english/_indexes/GrammarIndex";
   import Adverb from "./2_main/english/grammar/Adverb";
   import Verb from "./2_main/english/grammar/Verb";
   import Adjective from "./2_main/english/grammar/Adjective";
   import Noun from "./2_main/english/grammar/Noun";
   
   // 3. Pronunciation
+  import PronunciationIndex from "./2_main/english/_indexes/PronunciationIndex";
   import Pronunciation from "./2_main/english/pronunciation/Pronunciation";
   import IPA from "./2_main/english/pronunciation/IPA";
-  
-  // 4. Mr.Bee Osn English Terms
-  import Searching_And_Clickable_Dictionary from "./2_main/english/mrbeeenglish/Searching_And_Clickable_Dictionary";
 
-  // 5. Tiếng Anh
+  // 4. Tiếng Anh
+  import TiengAnhIndex from "./2_main/english/_indexes/TiengAnhIndex";
   import Bay_Dau_Phu_Phien_Am_Tieng_Anh_1 from "./2_main/english/tienganh/Bay_Dau_Phu_Phien_Am_Tieng_Anh_1";
   import Bay_Dau_Phu_Phien_Am_Tieng_Anh_2 from "./2_main/english/tienganh/Bay_Dau_Phu_Phien_Am_Tieng_Anh_2";
   import Nguyen_Am_Don from "./2_main/english/tienganh/Nguyen_Am_Don";
   import Nguyen_Am_Doi from "./2_main/english/tienganh/Nguyen_Am_Doi";
   
-  // 6. Vocabulary - Tính chính xác
+  // 5. Vocabulary - Tính chính xác
+  import VocabularyIndex from "./2_main/english/_indexes/VocabularyIndex";
   import Accurately_1 from "./2_main/english/vocabulary/Accurately_1";
   import Accurately_2 from "./2_main/english/vocabulary/Accurately_2";
   import Precisely_1 from "./2_main/english/vocabulary/Precisely_1";
@@ -82,8 +86,6 @@ export default function AppRoutes() {
 
         {/* 2_main Khai báo đường dẫn path cho Home */}
         <Route path="/" element={<Home />} />
-        <Route path="/Bookkeeping" element={<Home_Bookkeeping />} />
-        <Route path="/English" element={<Home_English />} />
         <Route path="/search" element={<Home_Search />} />
 
         {/* 2_main Khai báo đường dẫn path cho Mr. Bee Osn */}
@@ -92,6 +94,7 @@ export default function AppRoutes() {
         {/* 2_main Khai báo đường dẫn path cho Bookkeeping */}
 
           {/* 1. Bookkeeping */}
+          <Route path="/bookkeeping" element={<BookkeepingIndex />} />
           <Route path="/bookkeeping/what-is-bookkeeping?" element={<Bookkeeping />} />
           <Route path="/bookkeeping/what-is-a-bookkeeper?" element={<Bookkeeper />} />
           <Route path="/bookkeeping/what-is-accounts-receivable?" element={<Accounts_Receivable />} />
@@ -104,30 +107,35 @@ export default function AppRoutes() {
 
         {/* 2_main Khai báo đường dẫn path cho English */}
 
+          {/* Mr.Bee Osn English Terms */}
+          <Route path="/english/mrbeeenglish/searching-and-clickable-dictionary" element={<Searching_And_Clickable_Dictionary />} />
+          
           {/* 1. English */}
+          <Route path="/english" element={<EnglishIndex />} />
           <Route path="/english/what-is-english?" element={<English />} />
           <Route path="/english/what-is-the-english-language?" element={<The_English_Language />} />
 
           {/* 2. Grammar */}
+          <Route path="grammar/" element={<GrammarIndex />} />
           <Route path="/english/grammar/what-is-an-adverb?" element={<Adverb />} />
           <Route path="/english/grammar/what-is-a-verb?" element={<Verb />} />
           <Route path="/english/grammar/what-is-an-adjective?" element={<Adjective />} />
           <Route path="/english/grammar/what-is-a-noun?" element={<Noun />} />
           
           {/* 3. Pronunciation */}
+          <Route path="/pronunciation" element={<PronunciationIndex />} />
           <Route path="/english/pronunciation/what-is-pronunciation?" element={<Pronunciation />} />
           <Route path="/english/pronunciation/what-is-IPA?" element={<IPA />} />
           
-          {/* 4. Mr.Bee Osn English Terms */}
-          <Route path="/english/mrbeeenglish/searching-and-clickable-dictionary" element={<Searching_And_Clickable_Dictionary />} />
-          
-          {/* 5. Tiếng Anh */}
+          {/* 4. Tiếng Anh */}
+          <Route path="tieng-anh" element={<TiengAnhIndex />} />
           <Route path="/english/tienganh/he-thong-7-dau-phu-phien-am-tieng-anh-1" element={<Bay_Dau_Phu_Phien_Am_Tieng_Anh_1 />} />
           <Route path="/english/tienganh/he-thong-7-dau-phu-phien-am-tieng-anh-2" element={<Bay_Dau_Phu_Phien_Am_Tieng_Anh_2 />} />
           <Route path="/english/tienganh/nguyen-am-don" element={<Nguyen_Am_Don />} />
           <Route path="/english/tienganh/nguyen-am-doi" element={<Nguyen_Am_Doi />} />
 
-          {/* 6. Vocabulary - Tính chính xác */}
+          {/* 5. Vocabulary - Tính chính xác */}
+          <Route path="vocabulary" element={<VocabularyIndex />} />
           <Route path="/english/vocabulary/accurately-1" element={<Accurately_1 />} />
           <Route path="/english/vocabulary/accurately-2" element={<Accurately_2 />} />
           <Route path="/english/vocabulary/precisely-1" element={<Precisely_1 />} />

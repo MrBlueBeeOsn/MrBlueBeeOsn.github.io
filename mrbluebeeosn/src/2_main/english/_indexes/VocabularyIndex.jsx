@@ -1,7 +1,7 @@
 import { Link } from "react-router-dom";
 import { HashLink } from 'react-router-hash-link';
 
-export default function Home_English() {
+export default function VocabularyIndex() {
   return (<>
      
   <main className="image image1 content">
@@ -9,84 +9,34 @@ export default function Home_English() {
     {/* =============================
         1. English Learning Terms
     ============================= */}
-    
-    <h3 className="margin-y-50 text-center" id="english-learning-terms">English Learning Terms</h3>
-    
-    <ul className="list-border1">
-      
-      <li><Link to="/english/what-is-english?">English</Link></li>
-      
-      <li><Link to="/english/what-is-the-english-language?">The English language</Link></li>
-      
-      
-    </ul>
 
-    {/* =============================
-        2. Grammar Terms
-    ============================= */}
+    <div className="topic-container">
 
-    <h3 className="margin-y-50 text-center" id="grammar-terms">Grammar Terms</h3>
+      <div  className="flex-topic">
 
-    <ul className="list-border1">
+        <HashLink smooth to="/english">
+        <mark className="highlight-tertiary-padding-2-4">English</mark>
+        </HashLink>
 
-      <li><Link to="/english/grammar/what-is-an-adverb?">Adverb</Link></li>
+        <HashLink smooth to="/grammar">
+          <mark className="highlight-tertiary-padding-2-4">Grammar</mark>
+        </HashLink>
 
-      <li><Link to="/english/grammar/what-is-a-verb?">Verb</Link></li>
+        <HashLink smooth to="/pronunciation">
+          <mark className="highlight-tertiary-padding-2-4">Pronunciation</mark>
+        </HashLink>
 
-      <li><Link to="/english/grammar/what-is-an-adjective?">Adjective</Link></li>
+        <HashLink smooth to="/tieng-anh">
+          <mark className="highlight-tertiary-padding-2-4">Tiếng Anh</mark>
+        </HashLink>
 
-      <li><Link to="/english/grammar/what-is-a-noun?">Noun</Link></li>
+        <HashLink smooth to="/vocabulary">
+          <mark className="highlight-tertiary-padding-2-4">Từ vựng</mark>
+        </HashLink>
 
-    </ul>
+      </div>
 
-    {/* =============================
-        3. Pronunciation Terms
-    ============================= */}
-
-    <h3 className="margin-y-50 text-center" id="pronunciation-terms">Pronunciation Terms</h3>
-    
-    <ul className="list-border1">
-
-      <li><Link to="/english/pronunciation/what-is-pronunciation?">Pronunciation</Link></li>
-
-      <li><Link to="/english/pronunciation/what-is-IPA?">IPA</Link></li>
-      
-    </ul>
-
-    {/* =============================
-        4. Mr. Bee's Articles
-    ============================= */}
-
-    {/* <h3 className="margin-y-50 text-center" id="mr-bee-osn-english-terms">Mr. Bee Osn English Terms</h3>
-    
-    <ul className="list-border1">
-
-      <li><Link to="/english/mrbeeenglish/searching-and-clickable-dictionary">Searching and clickable dictionary</Link></li>
-      
-    </ul> */}
-
-    {/* =============================
-        5. Tiếng Anh Terms
-    ============================= */}
-
-    <h3 className="margin-y-50 text-center" id="tieng-anh-terms">Tiếng Anh Terms</h3>
-    
-    <ul className="list-border1">
-
-      <li>
-        <Link to="/english/tienganh/he-thong-7-dau-phu-phien-am-tieng-anh-1">7 dấu phụ phiên âm tiếng Anh
-          <sup>&nbsp;1&nbsp;</sup>
-        </Link>
-        <Link to="/english/tienganh/he-thong-7-dau-phu-phien-am-tieng-anh-2">
-          <sup>&nbsp;2&nbsp;</sup>
-        </Link>
-      </li>
-
-      <li><Link to="/english/tienganh/nguyen-am-don">Nguyên âm đơn</Link></li>
-
-      <li><Link to="/english/tienganh/nguyen-am-doi">Nguyên âm đôi</Link></li>
-      
-    </ul>
+    </div>
 
     {/* =============================
         6. Vocabulary Terms

@@ -624,3 +624,24 @@ td:nth-child(1):hover {
 	margin-top: 1.5rem;
 	margin-bottom: 1.5rem;
 }
+
+/* =============================
+   Topic
+============================= */
+
+.topic-container {
+    background-color: rgba(245, 245, 245, 0.5);
+    border-radius: 2px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.15);
+    padding: 0.5rem;
+    overflow: hidden;
+}
+
+.flex-topic {
+	display: flex;
+	gap: 0.5rem;
+	justify-items: center;
+	align-items: center;
+	flex-wrap: wrap;
+    justify-content: space-evenly;
+}

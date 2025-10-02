@@ -1,8 +1,8 @@
 import { Link } from "react-router-dom";
 import { HashLink } from 'react-router-hash-link';
-import ExternalLink from '../components/ExternalLink';
+import ExternalLink from '../../../components/ExternalLink';
 
-export default function Home_Bookkeeping() {
+export default function BookkeepingIndex() {
   return (<>
      
   <main className="image image1 content">

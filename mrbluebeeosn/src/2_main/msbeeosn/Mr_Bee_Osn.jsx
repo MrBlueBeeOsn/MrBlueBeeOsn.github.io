@@ -62,7 +62,7 @@ export default function Mr_Bee_Osn() {
 
           <tr>
               <td>Sept.20</td>
-              <td>Successfully migrated to ReactJS.</td>
+              <td>Successfully migrated to React.</td>
           </tr>
 
           <tr>
@@ -88,7 +88,7 @@ export default function Mr_Bee_Osn() {
         </tbody>
       </table>
   
-      <div className="margin-y-30">
+      <div className="margin-top-30">
 
         <p>📌 Technology:</p>
 
@@ -96,7 +96,7 @@ export default function Mr_Bee_Osn() {
 
           <li className="list-none">⏱️ Seamless user experience with SPA — no page reloads.</li>
 
-          <li className="margin-bottom-50 list-none">🔧 Reusable components like header, footer, sidebar, and forms make the code cleaner and easier to maintain.</li>
+          <li className="list-none">🔧 Reusable components like header, footer, sidebar, and forms make the code cleaner and easier to maintain.</li>
 
         </ul>
         

@@ -6,7 +6,7 @@ export default function () {
 
   <main className="image image2">
     
-    <h4><HashLink smooth to="/english#pronunciation-terms"><mark className="highlight-tertiary-padding-4-8">Pronunciation</mark></HashLink></h4>
+    <h4><HashLink smooth to="/pronunciation#pronunciation-terms"><mark className="highlight-tertiary-padding-4-8">Pronunciation</mark></HashLink></h4>
     
     <h2 className="margin-y-50 text-center">What is pronunciation?</h2>
 
