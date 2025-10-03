@@ -37,6 +37,22 @@
    Highlight
 ============================= */
 
+.highlight-secondary-padding-0-4 {
+    background-color: var(--secondary-color); /* Teal nhạt hơn*/
+    color: #333;
+    padding: 0px 4px;
+    border-radius: 3px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.highlight-secondary-padding-2-4 {
+    background-color: var(--secondary-color); /* Teal nhạt hơn*/
+    color: #333;
+    padding: 2px 4px;
+    border-radius: 3px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
 .highlight-secondary-padding-4-8 {
     background-color: var(--secondary-color); /* Teal nhạt hơn*/
     color: #333;

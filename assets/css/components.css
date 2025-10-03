@@ -655,3 +655,24 @@ td:nth-child(1):hover {
 	flex-wrap: wrap;
     justify-content: space-evenly;
 }
+
+/* =============================
+   Vocabulary
+============================= */
+
+.flex-vocabulary {
+	display: flex;
+	gap: 2rem;
+	justify-items: center;
+	align-items: center;
+	flex-wrap: wrap;
+    /* justify-content: space-between; */
+}
+
+.vocabulary-container {
+    background-color: rgba(255, 255, 255, 0.5);
+    border-radius: 2px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.15);
+    padding: 0.5rem;
+    overflow: hidden;
+}
