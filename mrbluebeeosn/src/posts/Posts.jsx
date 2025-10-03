@@ -1,19 +1,19 @@
-import Bookkeeping_Posts from './bookkeeping/Bookkeeping_Posts';
+import BookkeepingPosts from './bookkeeping/BookkeepingPosts';
 
-import English_Posts from './english_/English_Posts';
-import Grammar_Posts from './english_/Grammar_Posts';
-import Pronunciation_Posts from './english_/Pronunciation_Posts';
+import EnglishPosts from './english_/EnglishPosts';
+import GrammarPosts from './english_/GrammarPosts';
+import PronunciationPosts from './english_/PronunciationPosts';
 
-import Tienganh_Posts from './tienganh/Tienganh_Posts';
-import Vocabulary_Posts from './tienganh/Vocabulary_Posts';
+import TiengAnhPosts from './tienganh/TiengAnhPosts';
+import VocabularyPosts from './tienganh/VocabularyPosts';
 
 export default function Posts() {
   return [
-    ...Bookkeeping_Posts (),
-    ...English_Posts (),
-    ...Grammar_Posts (),
-    ...Pronunciation_Posts (),
-    ...Tienganh_Posts (),
-    ...Vocabulary_Posts ()
+    ...BookkeepingPosts (),
+    ...EnglishPosts (),
+    ...GrammarPosts (),
+    ...PronunciationPosts (),
+    ...TiengAnhPosts (),
+    ...VocabularyPosts ()
   ];
 }

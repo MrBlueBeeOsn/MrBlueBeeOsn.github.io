@@ -4,10 +4,10 @@ import Posts from './posts/Posts';
 
 // 1_header import các chức năng và đường dẫn
 import Home from "./1_header/Home";
-import Home_Search from "./1_header/Home_Search";
+import SearchIndex from "./1_header/SearchIndex";
 
 // 2_main import các chức năng và đường dẫn
-import Mr_Bee_Osn from "./2_main/msbeeosn/Mr_Bee_Osn";
+import MrBeeOsn from "./2_main/msbeeosn/MrBeeOsn";
 
 // 2_main import các chức năng và đường dẫn Bookkeeping
 
@@ -15,23 +15,23 @@ import Mr_Bee_Osn from "./2_main/msbeeosn/Mr_Bee_Osn";
   import BookkeepingIndex from "./2_main/bookkeeping/_indexes/BookkeepingIndex";
   import Bookkeeping from "./2_main/bookkeeping/Bookkeeping";
   import Bookkeeper from "./2_main/bookkeeping/Bookkeeper";
-  import Accounts_Receivable from "./2_main/bookkeeping/Accounts_Receivable";
-  import Accounts_Payable from "./2_main/bookkeeping/Accounts_Payable";
-  import Journal_Entry from "./2_main/bookkeeping/Journal_Entry";
-  import General_Ledger from "./2_main/bookkeeping/General_Ledger";
-  import Trial_Balance from "./2_main/bookkeeping/Trial_Balance";
-  import Account_Reconciliation from "./2_main/bookkeeping/Account_Reconciliation";
+  import AccountsReceivable from "./2_main/bookkeeping/AccountsReceivable";
+  import AccountsPayable from "./2_main/bookkeeping/AccountsPayable";
+  import JournalEntry from "./2_main/bookkeeping/JournalEntry";
+  import GeneralLedger from "./2_main/bookkeeping/GeneralLedger";
+  import TrialBalance from "./2_main/bookkeeping/TrialBalance";
+  import AccountReconciliation from "./2_main/bookkeeping/AccountReconciliation";
   
 
 // 2_main import các chức năng và đường dẫn
 
   // Mr.Bee Osn English Terms
-  import Searching_And_Clickable_Dictionary from "./2_main/english/mrbeeenglish/Searching_And_Clickable_Dictionary";
+  import SearchingAndClickableDictionary from "./2_main/english/mrbeeenglish/SearchingAndClickableDictionary";
 
   // 1. English
   import EnglishIndex from "./2_main/english/_indexes/EnglishIndex";
   import English from "./2_main/english/English";
-  import The_English_Language from "./2_main/english/The_English_Language";
+  import TheEnglishLanguage from "./2_main/english/TheEnglishLanguage";
 
   // 2. Grammar
   import GrammarIndex from "./2_main/english/_indexes/GrammarIndex";
@@ -47,31 +47,31 @@ import Mr_Bee_Osn from "./2_main/msbeeosn/Mr_Bee_Osn";
 
   // 4. Tiếng Anh
   import TiengAnhIndex from "./2_main/english/_indexes/TiengAnhIndex";
-  import Bay_Dau_Phu_Phien_Am_Tieng_Anh_1 from "./2_main/english/tienganh/Bay_Dau_Phu_Phien_Am_Tieng_Anh_1";
-  import Bay_Dau_Phu_Phien_Am_Tieng_Anh_2 from "./2_main/english/tienganh/Bay_Dau_Phu_Phien_Am_Tieng_Anh_2";
-  import Nguyen_Am_Don from "./2_main/english/tienganh/Nguyen_Am_Don";
-  import Nguyen_Am_Doi from "./2_main/english/tienganh/Nguyen_Am_Doi";
+  import BayDauPhuPhienAmTiengAnh1 from "./2_main/english/tienganh/BayDauPhuPhienAmTiengAnh1";
+  import BayDauPhuPhienAmTiengAnh2 from "./2_main/english/tienganh/BayDauPhuPhienAmTiengAnh2";
+  import NguyenAmDon from "./2_main/english/tienganh/NguyenAmDon";
+  import NguyenAmDoi from "./2_main/english/tienganh/NguyenAmDoi";
   
   // 5. Vocabulary - Tính chính xác
   import VocabularyIndex from "./2_main/english/_indexes/VocabularyIndex";
-  import Accurately_1 from "./2_main/english/vocabulary/Accurately_1";
-  import Accurately_2 from "./2_main/english/vocabulary/Accurately_2";
-  import Precisely_1 from "./2_main/english/vocabulary/Precisely_1";
-  import Precisely_2 from "./2_main/english/vocabulary/Precisely_2";
-  import Correctly_1 from "./2_main/english/vocabulary/Correctly_1";
-  import Correctly_2 from "./2_main/english/vocabulary/Correctly_2";
-  import Exactly_1 from "./2_main/english/vocabulary/Exactly_1";
-  import Exactly_2 from "./2_main/english/vocabulary/Exactly_2";
+  import Accurately1 from "./2_main/english/vocabulary/Accurately1";
+  import Accurately2 from "./2_main/english/vocabulary/Accurately2";
+  import Precisely1 from "./2_main/english/vocabulary/Precisely1";
+  import Precisely2 from "./2_main/english/vocabulary/Precisely2";
+  import Correctly1 from "./2_main/english/vocabulary/Correctly1";
+  import Correctly2 from "./2_main/english/vocabulary/Correctly2";
+  import Exactly1 from "./2_main/english/vocabulary/Exactly1";
+  import Exactly2 from "./2_main/english/vocabulary/Exactly2";
 
   // 6. Vocabulary - Tính tỉ mỉ
-  import Painstakingly_1 from "./2_main/english/vocabulary/Painstakingly_1";
-  import Painstakingly_2 from "./2_main/english/vocabulary/Painstakingly_2";
-  import Thoroughly_1 from "./2_main/english/vocabulary/Thoroughly_1";
-  import Thoroughly_2 from "./2_main/english/vocabulary/Thoroughly_2";
-  import Diligently_1 from "./2_main/english/vocabulary/Diligently_1";
-  import Diligently_2 from "./2_main/english/vocabulary/Diligently_2";
-  import Scrupulously_1 from "./2_main/english/vocabulary/Scrupulously_1";
-  import Scrupulously_2 from "./2_main/english/vocabulary/Scrupulously_2";
+  import Painstakingly1 from "./2_main/english/vocabulary/Painstakingly1";
+  import Painstakingly2 from "./2_main/english/vocabulary/Painstakingly2";
+  import Thoroughly1 from "./2_main/english/vocabulary/Thoroughly1";
+  import Thoroughly2 from "./2_main/english/vocabulary/Thoroughly2";
+  import Diligently1 from "./2_main/english/vocabulary/Diligently1";
+  import Diligently2 from "./2_main/english/vocabulary/Diligently2";
+  import Scrupulously1 from "./2_main/english/vocabulary/Scrupulously1";
+  import Scrupulously2 from "./2_main/english/vocabulary/Scrupulously2";
 
 
 // Xuất khẩu chức năng
@@ -86,10 +86,10 @@ export default function AppRoutes() {
 
         {/* 2_main Khai báo đường dẫn path cho Home */}
         <Route path="/" element={<Home />} />
-        <Route path="/search" element={<Home_Search />} />
+        <Route path="/search" element={<SearchIndex />} />
 
         {/* 2_main Khai báo đường dẫn path cho Mr. Bee Osn */}
-        <Route path="/mrbeeosn" element={<Mr_Bee_Osn />} />
+        <Route path="/mrbeeosn" element={<MrBeeOsn />} />
 
         {/* 2_main Khai báo đường dẫn path cho Bookkeeping */}
 
@@ -97,23 +97,23 @@ export default function AppRoutes() {
           <Route path="/bookkeeping" element={<BookkeepingIndex />} />
           <Route path="/bookkeeping/what-is-bookkeeping?" element={<Bookkeeping />} />
           <Route path="/bookkeeping/what-is-a-bookkeeper?" element={<Bookkeeper />} />
-          <Route path="/bookkeeping/what-is-accounts-receivable?" element={<Accounts_Receivable />} />
-          <Route path="/bookkeeping/what-is-accounts-payable?" element={<Accounts_Payable />} />
-          <Route path="/bookkeeping/what-is-a-journal-entry?" element={<Journal_Entry />} />
-          <Route path="/bookkeeping/what-is-a-general-ledger?" element={<General_Ledger />} />
-          <Route path="/bookkeeping/what-is-a-trial-balance?" element={<Trial_Balance />} />
-          <Route path="/bookkeeping/what-is-account-reconciliation?" element={<Account_Reconciliation />} />
+          <Route path="/bookkeeping/what-is-accounts-receivable?" element={<AccountsReceivable />} />
+          <Route path="/bookkeeping/what-is-accounts-payable?" element={<AccountsPayable />} />
+          <Route path="/bookkeeping/what-is-a-journal-entry?" element={<JournalEntry />} />
+          <Route path="/bookkeeping/what-is-a-general-ledger?" element={<GeneralLedger />} />
+          <Route path="/bookkeeping/what-is-a-trial-balance?" element={<TrialBalance />} />
+          <Route path="/bookkeeping/what-is-account-reconciliation?" element={<AccountReconciliation />} />
 
 
         {/* 2_main Khai báo đường dẫn path cho English */}
 
           {/* Mr.Bee Osn English Terms */}
-          <Route path="/mrbeeenglish/searching-and-clickable-dictionary" element={<Searching_And_Clickable_Dictionary />} />
+          <Route path="/mrbeeenglish/searching-and-clickable-dictionary" element={<SearchingAndClickableDictionary />} />
           
           {/* 1. English */}
           <Route path="/english" element={<EnglishIndex />} />
           <Route path="/english/what-is-english?" element={<English />} />
-          <Route path="/english/what-is-the-english-language?" element={<The_English_Language />} />
+          <Route path="/english/what-is-the-english-language?" element={<TheEnglishLanguage />} />
 
           {/* 2. Grammar */}
           <Route path="/grammar" element={<GrammarIndex />} />
@@ -129,31 +129,31 @@ export default function AppRoutes() {
           
           {/* 4. Tiếng Anh */}
           <Route path="/tieng-anh" element={<TiengAnhIndex />} />
-          <Route path="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1" element={<Bay_Dau_Phu_Phien_Am_Tieng_Anh_1 />} />
-          <Route path="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-2" element={<Bay_Dau_Phu_Phien_Am_Tieng_Anh_2 />} />
-          <Route path="/tieng-anh/nguyen-am-don" element={<Nguyen_Am_Don />} />
-          <Route path="/tieng-anh/nguyen-am-doi" element={<Nguyen_Am_Doi />} />
+          <Route path="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1" element={<BayDauPhuPhienAmTiengAnh1 />} />
+          <Route path="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-2" element={<BayDauPhuPhienAmTiengAnh2 />} />
+          <Route path="/tieng-anh/nguyen-am-don" element={<NguyenAmDon />} />
+          <Route path="/tieng-anh/nguyen-am-doi" element={<NguyenAmDoi />} />
 
           {/* 5. Vocabulary - Tính chính xác */}
           <Route path="/vocabulary" element={<VocabularyIndex />} />
-          <Route path="/vocabulary/accurately-1" element={<Accurately_1 />} />
-          <Route path="/vocabulary/accurately-2" element={<Accurately_2 />} />
-          <Route path="/vocabulary/precisely-1" element={<Precisely_1 />} />
-          <Route path="/vocabulary/precisely-2" element={<Precisely_2 />} />
-          <Route path="/vocabulary/correctly-1" element={<Correctly_1 />} />
-          <Route path="/vocabulary/correctly-2" element={<Correctly_2 />} />
-          <Route path="/vocabulary/exactly-1" element={<Exactly_1 />} />
-          <Route path="/vocabulary/exactly-2" element={<Exactly_2 />} />
+          <Route path="/vocabulary/accurately-1" element={<Accurately1 />} />
+          <Route path="/vocabulary/accurately-2" element={<Accurately2 />} />
+          <Route path="/vocabulary/precisely-1" element={<Precisely1 />} />
+          <Route path="/vocabulary/precisely-2" element={<Precisely2 />} />
+          <Route path="/vocabulary/correctly-1" element={<Correctly1 />} />
+          <Route path="/vocabulary/correctly-2" element={<Correctly2 />} />
+          <Route path="/vocabulary/exactly-1" element={<Exactly1 />} />
+          <Route path="/vocabulary/exactly-2" element={<Exactly2 />} />
 
           {/* 6. Vocabulary - Tính tỉ mỉ */}
-          <Route path="/vocabulary/painstakingly-1" element={<Painstakingly_1 />} />
-          <Route path="/vocabulary/painstakingly-2" element={<Painstakingly_2 />} />
-          <Route path="/vocabulary/thoroughly-1" element={<Thoroughly_1 />} />
-          <Route path="/vocabulary/thoroughly-2" element={<Thoroughly_2 />} />
-          <Route path="/vocabulary/diligently-1" element={<Diligently_1 />} />
-          <Route path="/vocabulary/diligently-2" element={<Diligently_2 />} />
-          <Route path="/vocabulary/scrupulously-1" element={<Scrupulously_1 />} />
-          <Route path="/vocabulary/scrupulously-2" element={<Scrupulously_2 />} />
+          <Route path="/vocabulary/painstakingly-1" element={<Painstakingly1 />} />
+          <Route path="/vocabulary/painstakingly-2" element={<Painstakingly2 />} />
+          <Route path="/vocabulary/thoroughly-1" element={<Thoroughly1 />} />
+          <Route path="/vocabulary/thoroughly-2" element={<Thoroughly2 />} />
+          <Route path="/vocabulary/diligently-1" element={<Diligently1 />} />
+          <Route path="/vocabulary/diligently-2" element={<Diligently2 />} />
+          <Route path="/vocabulary/scrupulously-1" element={<Scrupulously1 />} />
+          <Route path="/vocabulary/scrupulously-2" element={<Scrupulously2 />} />
 
       </Route>
 

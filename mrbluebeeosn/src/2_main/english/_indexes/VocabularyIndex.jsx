@@ -10,7 +10,7 @@ export default function VocabularyIndex() {
         1. English Learning Terms
     ============================= */}
 
-    <div className="topic-container">
+    <div className="topic-container"> 
 
       <div  className="flex-topic">
 
@@ -44,97 +44,109 @@ export default function VocabularyIndex() {
 
     <h3 className="margin-y-50 text-center" id="vocabulary-terms">Từ vựng Terms</h3>
 
-    {/* =============================
+    <div className="flex-vocabulary">
+
+      <div className="vocabulary-container">
+
+        {/* =============================
         Tính chính xác
-    ============================= */}
+        ============================= */}
     
-    <p id="tinh-chinh-xac-terms">Tính chính xác</p>
+        <p id="tinh-chinh-xac-terms"><mark className="highlight-secondary-padding-2-4">Tính chính xác</mark></p>
 
-    <ul className="list-border1">
-      
-      <li>
-        <Link to="/vocabulary/accurately-1">accurately
-          <sup>&nbsp;1&nbsp;</sup>
-            </Link> 
-            <Link to="/vocabulary/accurately-2">
-          <sup>&nbsp;2&nbsp;</sup>
-        </Link>
-      </li>
+        <ul className="list-border1">
+          
+          <li>
+            <Link to="/vocabulary/accurately-1">accurately
+              <sup>&nbsp;1&nbsp;</sup>
+                </Link> 
+                <Link to="/vocabulary/accurately-2">
+              <sup>&nbsp;2&nbsp;</sup>
+            </Link>
+          </li>
 
-      <li>
-        <Link to="/vocabulary/precisely-1">precisely
-          <sup>&nbsp;1&nbsp;</sup>
-        </Link>
-        <Link to="/vocabulary/precisely-2">
-          <sup>&nbsp;2&nbsp;</sup>
-        </Link>
-      </li>
-      
-      <li>
-        <Link to="/vocabulary/correctly-1">correctly
-          <sup>&nbsp;1&nbsp;</sup>
-        </Link>
-        <Link to="/vocabulary/correctly-2">
-          <sup>&nbsp;2&nbsp;</sup>
-        </Link>
-      </li>
+          <li>
+            <Link to="/vocabulary/precisely-1">precisely
+              <sup>&nbsp;1&nbsp;</sup>
+            </Link>
+            <Link to="/vocabulary/precisely-2">
+              <sup>&nbsp;2&nbsp;</sup>
+            </Link>
+          </li>
+          
+          <li>
+            <Link to="/vocabulary/correctly-1">correctly
+              <sup>&nbsp;1&nbsp;</sup>
+            </Link>
+            <Link to="/vocabulary/correctly-2">
+              <sup>&nbsp;2&nbsp;</sup>
+            </Link>
+          </li>
 
-      <li>
-        <Link to="/vocabulary/exactly-1">exactly
-          <sup>&nbsp;1&nbsp;</sup>
-        </Link>
-        <Link to="/vocabulary/exactly-2">
-          <sup>&nbsp;2&nbsp;</sup>
-        </Link>
-      </li>
-      
-    </ul>
+          <li>
+            <Link to="/vocabulary/exactly-1">exactly
+              <sup>&nbsp;1&nbsp;</sup>
+            </Link>
+            <Link to="/vocabulary/exactly-2">
+              <sup>&nbsp;2&nbsp;</sup>
+            </Link>
+          </li>
+          
+        </ul>
 
-    {/* =============================
+      </div>
+
+      <div className="vocabulary-container">
+
+        {/* =============================
         Tính tỉ mỉ
-    ============================= */}
+        ============================= */}
     
-    <p className="margin-top-30" id="tinh-ti-mi-terms">Tính tỉ mỉ</p>
+        <p id="tinh-ti-mi-terms"><mark className="highlight-secondary-padding-2-4">Tính tỉ mỉ</mark></p>
 
-    <ul className="list-border1">
+        <ul className="list-border1">
 
-      <li>
-        <Link to="/vocabulary/painstakingly-1">painstakingly
-          <sup>&nbsp;1&nbsp;</sup>
-            </Link> 
-            <Link to="/vocabulary/painstakingly-2">
-          <sup>&nbsp;2&nbsp;</sup>
-        </Link>
-      </li>
+          <li>
+            <Link to="/vocabulary/painstakingly-1">painstakingly
+              <sup>&nbsp;1&nbsp;</sup>
+                </Link> 
+                <Link to="/vocabulary/painstakingly-2">
+              <sup>&nbsp;2&nbsp;</sup>
+            </Link>
+          </li>
 
-      <li>
-        <Link to="/vocabulary/thoroughly-1">thoroughly
-          <sup>&nbsp;1&nbsp;</sup>
-            </Link> 
-            <Link to="/vocabulary/thoroughly-2">
-          <sup>&nbsp;2&nbsp;</sup>
-        </Link>
-      </li>
-      
-      <li>
-        <Link to="/vocabulary/diligently-1">diligently
-          <sup>&nbsp;1&nbsp;</sup>
-            </Link> 
-            <Link to="/vocabulary/diligently-2">
-          <sup>&nbsp;2&nbsp;</sup>
-        </Link>
-      </li>
+          <li>
+            <Link to="/vocabulary/thoroughly-1">thoroughly
+              <sup>&nbsp;1&nbsp;</sup>
+                </Link> 
+                <Link to="/vocabulary/thoroughly-2">
+              <sup>&nbsp;2&nbsp;</sup>
+            </Link>
+          </li>
+          
+          <li>
+            <Link to="/vocabulary/diligently-1">diligently
+              <sup>&nbsp;1&nbsp;</sup>
+                </Link> 
+                <Link to="/vocabulary/diligently-2">
+              <sup>&nbsp;2&nbsp;</sup>
+            </Link>
+          </li>
 
-      <li>
-        <Link to="/vocabulary/scrupulously-1">scrupulously
-          <sup>&nbsp;1&nbsp;</sup>
-            </Link> 
-            <Link to="/vocabulary/scrupulously-2">
-          <sup>&nbsp;2&nbsp;</sup>
-        </Link>
-      </li>
-      
-    </ul>
+          <li>
+            <Link to="/vocabulary/scrupulously-1">scrupulously
+              <sup>&nbsp;1&nbsp;</sup>
+                </Link> 
+                <Link to="/vocabulary/scrupulously-2">
+              <sup>&nbsp;2&nbsp;</sup>
+            </Link>
+          </li>
+          
+        </ul>
+
+      </div>
+
+    </div>
     
   </main>
 
