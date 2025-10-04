@@ -1,83 +1,88 @@
+// import  from "";
+// const  = lazy(() => import(''))
+
+import { lazy, Suspense } from 'react'
 import { Routes, Route } from 'react-router-dom';
-import Layout from './components/Layout';
-import Posts from './posts/Posts';
+const Layout = lazy(() => import('./components/Layout'))
+const Posts = lazy(() => import('./posts/Posts'))
 
 // 1_header import các chức năng và đường dẫn
-import Home from "./1_header/Home";
-import SearchIndex from "./1_header/SearchIndex";
+  const Home = lazy(() => import('./1_header/Home'))
+  const SearchIndex = lazy(() => import('./1_header/SearchIndex'))
 
 // 2_main import các chức năng và đường dẫn
-import MrBeeOsn from "./2_main/msbeeosn/MrBeeOsn";
+  const MrBeeOsn = lazy(() => import('./2_main/msbeeosn/MrBeeOsn'))
 
 // 2_main import các chức năng và đường dẫn Bookkeeping
 
   // 1. Bookkeeping
-  import BookkeepingIndex from "./2_main/bookkeeping/_indexes/BookkeepingIndex";
-  import Bookkeeping from "./2_main/bookkeeping/Bookkeeping";
-  import Bookkeeper from "./2_main/bookkeeping/Bookkeeper";
-  import AccountsReceivable from "./2_main/bookkeeping/AccountsReceivable";
-  import AccountsPayable from "./2_main/bookkeeping/AccountsPayable";
-  import JournalEntry from "./2_main/bookkeeping/JournalEntry";
-  import GeneralLedger from "./2_main/bookkeeping/GeneralLedger";
-  import TrialBalance from "./2_main/bookkeeping/TrialBalance";
-  import AccountReconciliation from "./2_main/bookkeeping/AccountReconciliation";
-  
+  const BookkeepingIndex = lazy(() => import('./2_main/bookkeeping/_indexes/BookkeepingIndex'))
+  const Bookkeeping = lazy(() => import('./2_main/bookkeeping/Bookkeeping'))
+  const Bookkeeper = lazy(() => import('./2_main/bookkeeping/Bookkeeper'))
+  const AccountsReceivable = lazy(() => import('./2_main/bookkeeping/AccountsReceivable'))
+  const AccountsPayable = lazy(() => import('./2_main/bookkeeping/AccountsPayable'))
+  const JournalEntry = lazy(() => import('./2_main/bookkeeping/JournalEntry'))
+  const GeneralLedger = lazy(() => import('./2_main/bookkeeping/GeneralLedger'))
+  const TrialBalance = lazy(() => import('./2_main/bookkeeping/TrialBalance'))
+  const AccountReconciliation = lazy(() => import('./2_main/bookkeeping/AccountReconciliation'))
 
 // 2_main import các chức năng và đường dẫn
 
   // Mr.Bee Osn English Terms
-  import SearchingAndClickableDictionary from "./2_main/english/mrbeeenglish/SearchingAndClickableDictionary";
+  const SearchingAndClickableDictionary = lazy(() => import('./2_main/english/mrbeeenglish/SearchingAndClickableDictionary'))
 
   // 1. English
-  import EnglishIndex from "./2_main/english/_indexes/EnglishIndex";
-  import English from "./2_main/english/English";
-  import TheEnglishLanguage from "./2_main/english/TheEnglishLanguage";
+  const EnglishIndex = lazy(() => import('./2_main/english/_indexes/EnglishIndex'))
+  const English = lazy(() => import('./2_main/english/English'))
+  const TheEnglishLanguage = lazy(() => import('./2_main/english/TheEnglishLanguage'))
 
   // 2. Grammar
-  import GrammarIndex from "./2_main/english/_indexes/GrammarIndex";
-  import Adverb from "./2_main/english/grammar/Adverb";
-  import Verb from "./2_main/english/grammar/Verb";
-  import Adjective from "./2_main/english/grammar/Adjective";
-  import Noun from "./2_main/english/grammar/Noun";
+  const GrammarIndex = lazy(() => import('./2_main/english/_indexes/GrammarIndex'))
+  const Adverb = lazy(() => import('./2_main/english/grammar/Adverb'))
+  const Verb = lazy(() => import('./2_main/english/grammar/Verb'))
+  const Adjective = lazy(() => import('./2_main/english/grammar/Adjective'))
+  const Noun = lazy(() => import('./2_main/english/grammar/Noun'))
   
   // 3. Pronunciation
-  import PronunciationIndex from "./2_main/english/_indexes/PronunciationIndex";
-  import Pronunciation from "./2_main/english/pronunciation/Pronunciation";
-  import IPA from "./2_main/english/pronunciation/IPA";
+  const PronunciationIndex = lazy(() => import('./2_main/english/_indexes/PronunciationIndex'))
+  const Pronunciation = lazy(() => import('./2_main/english/pronunciation/Pronunciation'))
+  const IPA = lazy(() => import('./2_main/english/pronunciation/IPA'))
 
   // 4. Tiếng Anh
-  import TiengAnhIndex from "./2_main/english/_indexes/TiengAnhIndex";
-  import BayDauPhuPhienAmTiengAnh1 from "./2_main/english/tienganh/BayDauPhuPhienAmTiengAnh1";
-  import BayDauPhuPhienAmTiengAnh2 from "./2_main/english/tienganh/BayDauPhuPhienAmTiengAnh2";
-  import NguyenAmDon from "./2_main/english/tienganh/NguyenAmDon";
-  import NguyenAmDoi from "./2_main/english/tienganh/NguyenAmDoi";
-  import DichCumDanhTuTiengAnh from "./2_main/english/tienganh/DichCumDanhTuTiengAnh";
+  const TiengAnhIndex = lazy(() => import('./2_main/english/_indexes/TiengAnhIndex'))
+  const BayDauPhuPhienAmTiengAnh1 = lazy(() => import('./2_main/english/tienganh/BayDauPhuPhienAmTiengAnh1'))
+  const BayDauPhuPhienAmTiengAnh2 = lazy(() => import('./2_main/english/tienganh/BayDauPhuPhienAmTiengAnh2'))
+  const NguyenAmDon = lazy(() => import('./2_main/english/tienganh/NguyenAmDon'))
+  const NguyenAmDoi = lazy(() => import('./2_main/english/tienganh/NguyenAmDoi'))
+  const DichCumDanhTuTiengAnh = lazy(() => import('./2_main/english/tienganh/DichCumDanhTuTiengAnh'))
   
   // 5. Vocabulary - Tính chính xác
-  import VocabularyIndex from "./2_main/english/_indexes/VocabularyIndex";
-  import Accurately1 from "./2_main/english/vocabulary/Accurately1";
-  import Accurately2 from "./2_main/english/vocabulary/Accurately2";
-  import Precisely1 from "./2_main/english/vocabulary/Precisely1";
-  import Precisely2 from "./2_main/english/vocabulary/Precisely2";
-  import Correctly1 from "./2_main/english/vocabulary/Correctly1";
-  import Correctly2 from "./2_main/english/vocabulary/Correctly2";
-  import Exactly1 from "./2_main/english/vocabulary/Exactly1";
-  import Exactly2 from "./2_main/english/vocabulary/Exactly2";
+  const VocabularyIndex = lazy(() => import('./2_main/english/_indexes/VocabularyIndex'))
+  const Accurately1 = lazy(() => import('./2_main/english/vocabulary/Accurately1'))
+  const Accurately2 = lazy(() => import('./2_main/english/vocabulary/Accurately2'))
+  const Precisely1 = lazy(() => import('./2_main/english/vocabulary/Precisely1'))
+  const Precisely2 = lazy(() => import('./2_main/english/vocabulary/Precisely2'))
+  const Correctly1 = lazy(() => import('./2_main/english/vocabulary/Correctly1'))
+  const Correctly2 = lazy(() => import('./2_main/english/vocabulary/Correctly2'))
+  const Exactly1 = lazy(() => import('./2_main/english/vocabulary/Exactly1'))
+  const Exactly2 = lazy(() => import('./2_main/english/vocabulary/Exactly2'))
 
   // 6. Vocabulary - Tính tỉ mỉ
-  import Painstakingly1 from "./2_main/english/vocabulary/Painstakingly1";
-  import Painstakingly2 from "./2_main/english/vocabulary/Painstakingly2";
-  import Thoroughly1 from "./2_main/english/vocabulary/Thoroughly1";
-  import Thoroughly2 from "./2_main/english/vocabulary/Thoroughly2";
-  import Diligently1 from "./2_main/english/vocabulary/Diligently1";
-  import Diligently2 from "./2_main/english/vocabulary/Diligently2";
-  import Scrupulously1 from "./2_main/english/vocabulary/Scrupulously1";
-  import Scrupulously2 from "./2_main/english/vocabulary/Scrupulously2";
+  const Painstakingly1 = lazy(() => import('./2_main/english/vocabulary/Painstakingly1'))
+  const Painstakingly2 = lazy(() => import('./2_main/english/vocabulary/Painstakingly2'))
+  const Thoroughly1 = lazy(() => import('./2_main/english/vocabulary/Thoroughly1'))
+  const Thoroughly2 = lazy(() => import('./2_main/english/vocabulary/Thoroughly2'))
+  const Diligently1 = lazy(() => import('./2_main/english/vocabulary/Diligently1'))
+  const Diligently2 = lazy(() => import('./2_main/english/vocabulary/Diligently2'))
+  const Scrupulously1 = lazy(() => import('./2_main/english/vocabulary/Scrupulously1'))
+  const Scrupulously2 = lazy(() => import('./2_main/english/vocabulary/Scrupulously2'))
 
 
 // Xuất khẩu chức năng
 export default function AppRoutes() {
   return (
+
+  <Suspense fallback={<div>Đang tải...</div>}>
 
     <Routes>
 
@@ -160,6 +165,8 @@ export default function AppRoutes() {
       </Route>
 
     </Routes>
+
+  </Suspense>
 
   );
 }
