@@ -82,7 +82,7 @@ const Posts = lazy(() => import('./posts/Posts'))
 export default function AppRoutes() {
   return (
 
-  <Suspense fallback={<div>Đang tải...</div>}>
+  <Suspense fallback={<></>}>
 
     <Routes>
 
