@@ -46,7 +46,7 @@ export default function VocabularyIndex() {
 
     <div className="flex-container">
 
-      <div className="sub-box">
+      <div className="sub-box-fix">
 
         {/* =============================
         Tính chính xác
@@ -96,7 +96,7 @@ export default function VocabularyIndex() {
 
       </div>
 
-      <div className="sub-box">
+      <div className="sub-box-fix">
 
         {/* =============================
         Tính tỉ mỉ
