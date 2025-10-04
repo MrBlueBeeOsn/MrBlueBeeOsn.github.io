@@ -701,6 +701,4 @@ td:nth-child(1):hover {
 
 .li-content {
   	display: flex;
-  	flex-direction: column;
-	
 }
