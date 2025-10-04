@@ -672,7 +672,8 @@ td:nth-child(1):hover {
 	flex-shrink: 1;
 }
 
-.sub-box {
+.sub-box,
+.sub-box-fix {
 	background-color: rgba(255, 255, 255, 0.5);
 	border-radius: 2px;
 	box-shadow: 0 2px 4px rgba(0, 0, 0, 0.15);
@@ -686,12 +687,14 @@ td:nth-child(1):hover {
   	flex-direction: column;
 }
 
-.sub-box ul {
+.sub-box ul,
+.sub-box-fix ul {
   list-style-position: outside;
   padding-left: 30px;
 }
 
-.sub-box li {
+.sub-box li,
+.sub-box-fix li {
   display: list-item; /* giữ kiểu danh sách */
   
 }
