@@ -44,9 +44,9 @@ export default function VocabularyIndex() {
 
     <h3 className="margin-y-50 text-center" id="vocabulary-terms">Từ vựng Terms</h3>
 
-    <div className="flex-vocabulary">
+    <div className="flex-container">
 
-      <div className="vocabulary-container">
+      <div className="sub-box">
 
         {/* =============================
         Tính chính xác
@@ -96,7 +96,7 @@ export default function VocabularyIndex() {
 
       </div>
 
-      <div className="vocabulary-container">
+      <div className="sub-box">
 
         {/* =============================
         Tính tỉ mỉ

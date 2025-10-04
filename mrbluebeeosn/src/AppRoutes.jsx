@@ -51,6 +51,7 @@ import MrBeeOsn from "./2_main/msbeeosn/MrBeeOsn";
   import BayDauPhuPhienAmTiengAnh2 from "./2_main/english/tienganh/BayDauPhuPhienAmTiengAnh2";
   import NguyenAmDon from "./2_main/english/tienganh/NguyenAmDon";
   import NguyenAmDoi from "./2_main/english/tienganh/NguyenAmDoi";
+  import DichCumDanhTuTiengAnh from "./2_main/english/tienganh/DichCumDanhTuTiengAnh";
   
   // 5. Vocabulary - Tính chính xác
   import VocabularyIndex from "./2_main/english/_indexes/VocabularyIndex";
@@ -133,6 +134,7 @@ export default function AppRoutes() {
           <Route path="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-2" element={<BayDauPhuPhienAmTiengAnh2 />} />
           <Route path="/tieng-anh/nguyen-am-don" element={<NguyenAmDon />} />
           <Route path="/tieng-anh/nguyen-am-doi" element={<NguyenAmDoi />} />
+          <Route path="/tieng-anh/huong-dan-dich-cum-danh-tu-tieng-anh" element={<DichCumDanhTuTiengAnh />} />
 
           {/* 5. Vocabulary - Tính chính xác */}
           <Route path="/vocabulary" element={<VocabularyIndex />} />
