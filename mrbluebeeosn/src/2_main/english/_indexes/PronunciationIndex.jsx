@@ -18,14 +18,22 @@ export default function PronunciationIndex() {
     ============================= */}
 
     <h3 className="margin-y-50 text-center" id="pronunciation-terms">Pronunciation Terms</h3>
-    
-    <ul className="list-border1">
 
-      <li><Link to="/pronunciation/what-is-pronunciation?">Pronunciation</Link></li>
+    <div className="flex-container">
 
-      <li><Link to="/pronunciation/what-is-IPA?">IPA</Link></li>
-      
-    </ul>
+      <div className="sub-box">
+
+        <ul className="list-border1">
+
+          <li><Link to="/pronunciation/what-is-pronunciation?">Pronunciation</Link></li>
+
+          <li><Link to="/pronunciation/what-is-IPA?">IPA</Link></li>
+          
+        </ul>
+
+      </div>
+
+    </div>
     
   </main>
 

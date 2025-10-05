@@ -18,15 +18,22 @@ export default function EnglishIndex() {
     ============================= */}
     
     <h3 className="margin-y-50 text-center" id="english-learning-terms">English Learning Terms</h3>
-    
-    <ul className="list-border1">
+
+    <div className="flex-container">
+
+      <div className="sub-box">
+
+        <ul className="list-border1">
       
-      <li><Link to="/english/what-is-english?">English</Link></li>
-      
-      <li><Link to="/english/what-is-the-english-language?">The English language</Link></li>
-      
-      
-    </ul>
+        <li><Link to="/english/what-is-english?">English</Link></li>
+        
+        <li><Link to="/english/what-is-the-english-language?">The English language</Link></li>
+        
+      </ul>
+
+      </div>
+
+    </div>
     
   </main>
 

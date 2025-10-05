@@ -19,17 +19,25 @@ export default function GrammarIndex() {
 
     <h3 className="margin-y-50 text-center" id="grammar-terms">Grammar Terms</h3>
 
-    <ul className="list-border1">
+    <div className="flex-container">
 
-      <li><Link to="/grammar/what-is-an-adverb?">Adverb</Link></li>
+      <div className="sub-box">
 
-      <li><Link to="/grammar/what-is-a-verb?">Verb</Link></li>
+         <ul className="list-border1">
 
-      <li><Link to="/grammar/what-is-an-adjective?">Adjective</Link></li>
+          <li><Link to="/grammar/what-is-an-adverb?">Adverb</Link></li>
 
-      <li><Link to="/grammar/what-is-a-noun?">Noun</Link></li>
+          <li><Link to="/grammar/what-is-a-verb?">Verb</Link></li>
 
-    </ul>
+          <li><Link to="/grammar/what-is-an-adjective?">Adjective</Link></li>
+
+          <li><Link to="/grammar/what-is-a-noun?">Noun</Link></li>
+
+        </ul>
+
+      </div>
+
+    </div>
     
   </main>
 
