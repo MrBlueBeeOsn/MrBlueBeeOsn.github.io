@@ -50,7 +50,7 @@ body, html {
 
 a {
     display: inline-block; /* cho transform hoạt động */
-    transition: transform 0.1s ease-in-out; /* mượt khi nhấn */
+    transition: transform 0.15s ease-in-out; /* mượt khi nhấn */
     -webkit-tap-highlight-color: transparent; /* bỏ highlight khi chạm trên mobile */
 }
 
