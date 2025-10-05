@@ -245,6 +245,11 @@
                 font-size: 2.2rem;
             }
 
+            .flex-container > div:only-child {
+                flex: 0 0 100%;
+                margin-left: 0%; /* đẩy ra giữa bên trái */
+            }
+
             .sub-box {
                 flex: 1 1 100%;
             }
@@ -398,6 +403,11 @@
 
             .post-category {
                 font-size: 1.6rem;
+            }
+
+            .flex-container > div:only-child {
+                flex: 0 0 100%;
+                margin-left: 0%; /* đẩy ra giữa bên trái */
             }
 
             .sub-box {
