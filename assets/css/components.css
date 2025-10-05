@@ -40,7 +40,7 @@ button:hover {
 	display: inline-block; /* cho transform hoạt động */
 	justify-content: center;
 	align-items: center;
-	transition: transform 0.1s ease-in-out; /* mượt khi nhấn */
+	transition: transform 0.15s ease-in-out; /* mượt khi nhấn */
 	position: relative;
 	padding-top: 5px;
 }
@@ -302,17 +302,14 @@ code {
 		align-items: center;
 		justify-content: center;
 		cursor: pointer;
-		opacity: 0.3; /* Làm nút mờ đi một chút */
-		/*visibility: hidden;*/
-		transition: opacity 0.3s ease-in-out; /*visibility 0.3s;*/
-		transition: transform 0.1s ease-in-out; /* mượt khi nhấn */
+  		opacity: 0.3;
+  		transition: opacity 0.15s ease-in-out, transform 0.15s ease-in-out;
 		background-size: cover;
 		z-index: 99;
 	}
 
 	.back-to-top.show {
 		opacity: 0.3;
-		visibility: 0.3s;
 	}
 
 	.back-to-top:hover {

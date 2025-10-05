@@ -146,7 +146,7 @@
                 border: none;
                 outline: none;
                 transition: opacity 0.3s ease-in-out; /*visibility 0.3s;*/
-                transition: transform 0.1s ease-in-out; /* mượt khi nhấn */
+                transition: transform 0.15s ease-in-out; /* mượt khi nhấn */
             }
             .back-to-top.show {
                 opacity: 0.3;

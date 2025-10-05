@@ -50,7 +50,7 @@ body, html {
 
 a {
     display: inline-block; /* cho transform hoạt động */
-    transition: transform 0.1s ease-in-out; /* mượt khi nhấn */
+    transition: transform 0.15s ease-in-out; /* mượt khi nhấn */
     -webkit-tap-highlight-color: transparent; /* bỏ highlight khi chạm trên mobile */
 }
 
@@ -59,7 +59,7 @@ a:active {
 }
 
 a:link {
-    color: var(--accent-color);
+    color: var(--accent-color); /*#8756A9;*/
     background-color: transparent;
     text-decoration: none;
 }
@@ -67,7 +67,6 @@ a:link {
 a:hover {
     color: var(--accent-color); /* Màu sẽ thay đổi thành đỏ khi di chuột */
     text-decoration: underline; /* Sẽ gạch chân khi di chuột */
-    transition: color 0.3s ease; /* Áp dụng hiệu ứng chuyển tiếp */
 }
 
 a:visited {

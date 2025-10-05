@@ -1,0 +1,1 @@
+import{j as e}from"./index-Dk6t0oes.js";import{B as r}from"./Blog-0MlMjbtp.js";import"./SearchIcon-Vo2-3f1j.js";import"./Posts-uBj2izLp.js";function t(){return e.jsx(e.Fragment,{children:e.jsx("main",{className:"image image3",children:e.jsx("div",{className:"table-search",children:e.jsx(r,{})})})})}export{t as default};
