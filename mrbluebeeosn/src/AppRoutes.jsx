@@ -1,8 +1,10 @@
 // import  from "";
 // const  = lazy(() => import(''))
+// <Suspense fallback={<></>}></Suspense>
 
 import { lazy, Suspense } from 'react'
 import { Routes, Route } from 'react-router-dom';
+
 const Layout = lazy(() => import('./components/Layout'))
 const Posts = lazy(() => import('./posts/Posts'))
 
@@ -87,8 +89,9 @@ export default function AppRoutes() {
     <Routes>
 
       <Route path="/" element={<Layout />}>
-      <Route path="/:slug" element={<Posts />} />
-      <Route path="/:category" element={<Posts />} />
+      
+        <Route path="/:slug" element={<Posts />} />
+        <Route path="/:category" element={<Posts />} />
 
         {/* 2_main Khai báo đường dẫn path cho Home */}
         <Route path="/" element={<Home />} />
