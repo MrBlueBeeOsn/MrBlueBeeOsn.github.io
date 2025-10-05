@@ -665,7 +665,11 @@ td:nth-child(1):hover {
 	gap: 2rem;
 	flex-wrap: wrap;
 	justify-content: space-evenly;
-	flex-shrink: 1;
+}
+
+.flex-container > div:only-child {
+  	flex: 0 0 50%;
+  	margin-left: -50%; /* đẩy ra giữa bên trái */
 }
 
 .sub-box,
@@ -678,20 +682,20 @@ td:nth-child(1):hover {
 	flex: 1; /* Makes both columns take up equal available space */
 	width: 50rem;
 	flex-wrap: wrap;
-  	word-break: break-word;
+	word-break: break-word;
 	display: flex;
-  	flex-direction: column;
+	flex-direction: column;
 }
 
 .sub-box ul,
 .sub-box-fix ul {
-  list-style-position: outside;
-  padding-left: 30px;
+	list-style-position: outside;
+	padding-left: 30px;
 }
 
 .sub-box li,
 .sub-box-fix li {
-  display: list-item; /* giữ kiểu danh sách */
+  	display: list-item; /* giữ kiểu danh sách */
   
 }
 
