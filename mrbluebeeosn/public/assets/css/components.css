@@ -37,7 +37,6 @@ button:hover {
 
 .branding {
 	display: flex;
-	display: inline-block; /* cho transform hoạt động */
 	justify-content: center;
 	align-items: center;
 	transition: transform 0.15s ease-in-out; /* mượt khi nhấn */
