@@ -28,9 +28,6 @@ const Posts = lazy(() => import('./posts/Posts'))
   const TrialBalance = lazy(() => import('./2_main/bookkeeping/TrialBalance'))
   const AccountReconciliation = lazy(() => import('./2_main/bookkeeping/AccountReconciliation'))
 
-  // Accounting
-  const AccountingIndex = lazy(() => import('./2_main/bookkeeping/_indexes/AccountingIndex'))
-
 // 2_main import các chức năng và đường dẫn
 
   // Mr.Bee Osn English Terms
@@ -115,9 +112,6 @@ export default function AppRoutes() {
           <Route path="/bookkeeping/what-is-a-general-ledger?" element={<GeneralLedger />} />
           <Route path="/bookkeeping/what-is-a-trial-balance?" element={<TrialBalance />} />
           <Route path="/bookkeeping/what-is-account-reconciliation?" element={<AccountReconciliation />} />
-
-          {/* 1. Accounting */}
-          <Route path="/accounting" element={<AccountingIndex />} />
 
         {/* 2_main Khai báo đường dẫn path cho English */}
 
