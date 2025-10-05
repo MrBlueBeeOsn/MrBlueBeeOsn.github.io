@@ -29,12 +29,12 @@ export default function Exactly1() {
 
           <li>
             <span className="highlight-255-padding-3-6">
-              /ɪɡˈzæktli/ + /<Link to="/english/tienganh/he-thong-7-dau-phu-phien-am-tieng-anh-1">ėxactly</Link>/
+              /ɪɡˈzæktli/ + /<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">ėxactly</Link>/
               <sup>&nbsp;•⬤• (3x)</sup>
             </span>
           </li>
 
-          <li>Trạng từ (<Link to="/english/grammar/what-is-an-adverb?">adverb</Link>)</li>
+          <li>Trạng từ (<Link to="/grammar/what-is-an-adverb?">adverb</Link>)</li>
 
           <li>Chính xác, đúng đắn</li>
 

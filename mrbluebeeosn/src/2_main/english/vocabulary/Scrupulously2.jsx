@@ -33,7 +33,7 @@ export default function Scrupulously2() {
 
             /ˈskruː.pjə.ləs.li/ + /
 
-            <Link to="/english/tienganh/he-thong-7-dau-phu-phien-am-tieng-anh-1">scrüpư̇lơusly</Link>/
+            <Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">scrüpư̇lơusly</Link>/
 
             <sup>&nbsp;⬤••• (4x)</sup>
 

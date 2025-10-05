@@ -33,7 +33,7 @@ export default function Accurately2() {
             
             /li/ + /
             
-            <Link to="/english/tienganh/he-thong-7-dau-phu-phien-am-tieng-anh-1">ly</Link>/ 
+            <Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">ly</Link>/ 
             
             <sup>&nbsp;⬤</sup>
             

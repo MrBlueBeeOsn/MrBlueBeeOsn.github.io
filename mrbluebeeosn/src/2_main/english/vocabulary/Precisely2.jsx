@@ -33,7 +33,7 @@ export default function Precisely2() {
 
             /prɪˈsaɪs.li/ + /
 
-            <Link to="/english/tienganh/he-thong-7-dau-phu-phien-am-tieng-anh-1">prėcīsely</Link>/
+            <Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">prėcīsely</Link>/
 
             <sup>&nbsp;•⬤• (3x)</sup>
 

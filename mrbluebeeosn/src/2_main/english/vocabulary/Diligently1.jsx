@@ -29,12 +29,12 @@ export default function Diligently1() {
             
           <li>
             <span className="highlight-255-padding-3-6">
-              /ˈdɪl.ə.dʒənt.li/ + /<Link to="/english/tienganh/he-thong-7-dau-phu-phien-am-tieng-anh-1">dili̛ge̛ntly</Link>/
+              /ˈdɪl.ə.dʒənt.li/ + /<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">dili̛ge̛ntly</Link>/
               <sup>&nbsp;⬤••• (4x)</sup>
             </span>
           </li>
           
-          <li>Trạng từ (<Link to="/english/grammar/what-is-an-adverb?">adverb</Link>)</li>
+          <li>Trạng từ (<Link to="/grammar/what-is-an-adverb?">adverb</Link>)</li>
 
           <li>Một cách chăm chỉ, cần mẫn, siêng năng</li>
 

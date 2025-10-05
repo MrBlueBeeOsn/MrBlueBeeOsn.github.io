@@ -33,7 +33,7 @@ export default function Thoroughly2() {
 
             /ˈθʌrəli/ + /
             
-            <Link to="/english/tienganh/he-thong-7-dau-phu-phien-am-tieng-anh-1">thôrơughly</Link>/
+            <Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">thôrơughly</Link>/
 
             <sup>&nbsp;⬤•• (3x)</sup>
 

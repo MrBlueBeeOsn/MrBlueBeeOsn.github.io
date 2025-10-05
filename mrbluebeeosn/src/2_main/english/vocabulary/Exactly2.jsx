@@ -33,7 +33,7 @@ export default function Exactly2() {
 
             /ɪɡˈzæktli/ + /
             
-            <Link to="/english/tienganh/he-thong-7-dau-phu-phien-am-tieng-anh-1">ėxactly</Link>/
+            <Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">ėxactly</Link>/
             
             <sup>&nbsp;•⬤• (3x)</sup>
             

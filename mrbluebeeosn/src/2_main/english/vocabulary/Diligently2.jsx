@@ -33,7 +33,7 @@ export default function Diligently2() {
             
             /ˈdɪl.ə.dʒənt.li/ + /
             
-            <Link to="/english/tienganh/he-thong-7-dau-phu-phien-am-tieng-anh-1">dili̛ge̛ntly</Link>/
+            <Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">dili̛ge̛ntly</Link>/
             
             <sup>&nbsp;⬤••• (4x)</sup>
             

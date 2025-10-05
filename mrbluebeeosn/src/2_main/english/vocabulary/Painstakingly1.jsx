@@ -29,12 +29,12 @@ export default function Painstakingly1() {
             
           <li>
             <span className="highlight-255-padding-3-6">
-              /ˈpeɪnzˌteɪ.kɪŋ.li/ + /<Link to="/english/tienganh/he-thong-7-dau-phu-phien-am-tieng-anh-1">pāinstākingly</Link>/
+              /ˈpeɪnzˌteɪ.kɪŋ.li/ + /<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">pāinstākingly</Link>/
               <sup>&nbsp;⬤••• (4x)</sup>
             </span>
           </li>
           
-          <li>Trạng từ (<Link to="/english/grammar/what-is-an-adverb?">adverb</Link>)</li>
+          <li>Trạng từ (<Link to="/grammar/what-is-an-adverb?">adverb</Link>)</li>
 
           <li>Một cách cẩn thận, tỉ mỉ, chu đáo</li>
 

@@ -33,7 +33,7 @@ export default function Painstakingly2() {
             
             /ˈpeɪnzˌteɪ.kɪŋ.li/ + /
             
-            <Link to="/english/tienganh/he-thong-7-dau-phu-phien-am-tieng-anh-1">pāinstākingly</Link>/
+            <Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">pāinstākingly</Link>/
             
             <sup>&nbsp;⬤••• (4x)</sup>
           

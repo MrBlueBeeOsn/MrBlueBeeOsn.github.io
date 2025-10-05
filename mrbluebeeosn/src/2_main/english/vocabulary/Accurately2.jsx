@@ -33,7 +33,7 @@ export default function Accurately2() {
             
             /ˈækjərətli/ + /
             
-            <Link to="/english/tienganh/he-thong-7-dau-phu-phien-am-tieng-anh-1">accư̇ra̛tely</Link>/ 
+            <Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">accư̇ra̛tely</Link>/ 
             
             <sup>&nbsp;⬤••• (4x)</sup>
             
