@@ -8,27 +8,29 @@ export default function DichCumDanhTuTiengAnh() {
 		
 		<h4><HashLink smooth to="/tieng-anh#tieng-anh-terms"><mark className="highlight-tertiary-padding-4-8">Tiếng Anh</mark></HashLink></h4>
 		
-		<h2 className="margin-y-50 text-center">Hướng Dẫn Dịch Cụm Danh Từ Tiếng Anh</h2>
+		<h2 className="margin-y-50 text-center">Hướng Dẫn Dịch Cụm Danh Từ Tiếng Anh
+
+			<sup><HashLink smooth to="/tieng-anh/huong-dan-dich-cum-danh-tu-tieng-anh">&nbsp;1&nbsp;</HashLink>
+      </sup>
+			
+      <sup><HashLink smooth to="/tieng-anh/huong-dan-dich-cum-dong-tu-tieng-anh">&nbsp;2&nbsp;</HashLink>
+      </sup>
+
+		</h2>
 
 		{/* This is the content of English Learning Term. */}
 
 		<p>Trong quá trình học tiếng Anh, việc dịch các cụm danh từ (noun phrases) sang tiếng Việt một cách tự nhiên và đúng ngữ pháp là một thách thức lớn đối với người học. Trong tiếng Anh, tính từ và các bổ ngữ thường đứng trước danh từ chính, ngược lại với tiếng Việt, nơi danh từ đứng trước, còn tính từ và bổ ngữ đứng sau. Để dịch chính xác và tự nhiên, bạn có thể áp dụng nguyên tắc "<strong>danh từ dịch trước</strong>, <strong>tính từ dịch sau</strong>", đồng thời đặt các tính từ hoặc danh từ ghép vào dấu ngoặc đơn trong cấu trúc cụm danh từ để dễ nhớ và xử lý. Bài viết này sẽ hướng dẫn chi tiết cách thực hiện phương pháp này.</p>
 
-		<div className="grid">
-
 			<p className="margin-y-50 text-center">
 
-				<span className="highlight-238-padding-4-8">
+				<span className="highlight-238-padding-4-8 text-border1">
 
 					<span className="highlight-255-padding-0-4">Danh Từ</span> Dịch Trước, <span className="highlight-255-padding-0-4">Tính Từ</span> Dịch Sau
-					
+
 				</span>
 
 			</p>
-
-		</div>
-
-			
 
 		<h4 className="margin-y-30">1. Cấu trúc của cụm danh từ trong tiếng Anh</h4>
 		
@@ -60,7 +62,7 @@ export default function DichCumDanhTuTiengAnh() {
 
 			<p>Danh từ chính là từ cuối cùng trong cụm danh từ, đóng vai trò cốt lõi. Đây là từ bạn sẽ dịch đầu tiên.</p>
 			
-			<p className="margin-top-20">Ví dụ: <strong>A large wooden table</strong></p>
+			<p className="margin-top-20">Ví dụ: A large wooden table</p>
 
 				<ul className="list-square">
 
@@ -186,7 +188,7 @@ export default function DichCumDanhTuTiengAnh() {
 
 			<ul className="list-square">
 
-				<li><strong>Thứ tự tính từ trong tiếng Anh</strong>: Tiếng Anh có quy tắc sắp xếp tính từ (ví dụ: <strong>opinion</strong> → <strong>size</strong> → <strong>age</strong> → <strong>material</strong>). Khi đặt vào dấu ngoặc đơn, bạn giữ nguyên thứ tự này trong cấu trúc như <strong>a</strong> (<strong>tính từ</strong>) <strong>danh từ</strong>, nhưng khi dịch, bạn đảo ngược từ phải sang trái để phù hợp với ngữ cảm tiếng Việt.</li>
+				<li><strong>Thứ tự tính từ trong tiếng Anh</strong>: Tiếng Anh có quy tắc sắp xếp tính từ (ví dụ: opinion → size → age → material). Khi đặt vào dấu ngoặc đơn, bạn giữ nguyên thứ tự này trong cấu trúc như <strong>a</strong> (<strong>tính từ</strong>) <strong>danh từ</strong>, nhưng khi dịch, bạn đảo ngược từ phải sang trái để phù hợp với ngữ cảm tiếng Việt.</li>
 
 				<li><strong>Ngữ cảm tự nhiên</strong>: Trong một số trường hợp, bạn có thể cần điều chỉnh thứ tự tính từ để câu văn tiếng Việt nghe mượt mà hơn. Ví dụ: <strong>a</strong> (<strong>beautiful old stone</strong>) <strong>house</strong> được dịch là nhà đá cũ đẹp, nhưng có thể điều chỉnh thành ngôi nhà đá đẹp cổ kính để tăng tính tự nhiên.</li>
 

@@ -9,11 +9,15 @@ export default function NguyenAmDon() {
     <h4><HashLink smooth to="/tieng-anh#tieng-anh-terms"><mark className="highlight-tertiary-padding-4-8">Tiếng Anh</mark></HashLink></h4>
 
     <h2 className="margin-y-50 text-center">📌 BẢNG TỔNG HỢP NGUYÊN ÂM ĐƠN
+
       <sup><HashLink smooth to="/tieng-anh/nguyen-am-don">&nbsp;1&nbsp;</HashLink>
       </sup>
+      
       <sup><HashLink smooth to="/tieng-anh/nguyen-am-doi">&nbsp;2&nbsp;</HashLink>
       </sup>
+
       <p className="text-center">(gọn, để tra cứu)</p>
+
     </h2>
 
     {/* This is the content of English Learning Term. */}

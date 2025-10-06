@@ -77,6 +77,16 @@ export default function TiengAnhIndex() {
             </div>
             
           </li>
+
+          <li>
+
+            <div class="li-content">
+
+              <Link to="/tieng-anh/huong-dan-dich-cum-dong-tu-tieng-anh">Hướng Dẫn Dịch Cụm Động Từ Tiếng Anh</Link>
+
+            </div>
+            
+          </li>
       
         </ul>
 
