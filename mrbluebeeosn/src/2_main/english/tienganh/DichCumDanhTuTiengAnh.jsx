@@ -8,101 +8,145 @@ export default function DichCumDanhTuTiengAnh() {
 		
 		<h4><HashLink smooth to="/tieng-anh#tieng-anh-terms"><mark className="highlight-tertiary-padding-4-8">Tiếng Anh</mark></HashLink></h4>
 		
-		<h2 className="margin-y-50 text-center">Hướng Dẫn Dịch Cụm Danh Từ Tiếng Anh: Suy Nghĩ Từ Phải Sang Trái</h2>
+		<h2 className="margin-y-50 text-center">Hướng Dẫn Dịch Cụm Danh Từ Tiếng Anh</h2>
 
 		{/* This is the content of English Learning Term. */}
 
-		<p>Trong quá trình học tiếng Anh, một trong những thách thức lớn đối với người học tiếng Việt là cách dịch các cụm danh từ (<strong>noun phrases</strong>) sang tiếng Việt sao cho tự nhiên và đúng ngữ pháp. Khác với tiếng Việt, nơi tính từ thường đứng trước danh từ (ví dụ: "ngôi nhà đẹp"), trong tiếng Anh, tính từ và các bổ ngữ thường đứng trước danh từ chính, tạo ra cấu trúc ngược lại. Để dịch chính xác và tự nhiên, bạn có thể áp dụng nguyên tắc "<strong>danh từ dịch trước</strong>, <strong>tính từ dịch sau</strong>", tức là <strong>suy nghĩ từ phải sang trái</strong> khi phân tích cụm danh từ tiếng Anh. Bài viết này sẽ hướng dẫn chi tiết cách thực hiện phương pháp này.</p>
+		<p>Trong quá trình học tiếng Anh, việc dịch các cụm danh từ (noun phrases) sang tiếng Việt một cách tự nhiên và đúng ngữ pháp là một thách thức lớn đối với người học. Trong tiếng Anh, tính từ và các bổ ngữ thường đứng trước danh từ chính, ngược lại với tiếng Việt, nơi danh từ đứng trước, còn tính từ và bổ ngữ đứng sau. Để dịch chính xác và tự nhiên, bạn có thể áp dụng nguyên tắc "<strong>danh từ dịch trước</strong>, <strong>tính từ dịch sau</strong>", đồng thời đặt các tính từ hoặc danh từ ghép vào dấu ngoặc đơn trong cấu trúc cụm danh từ để dễ nhớ và xử lý. Bài viết này sẽ hướng dẫn chi tiết cách thực hiện phương pháp này.</p>
+
+		<div className="grid">
+
+			<p className="margin-y-50 text-center">
+
+				<span className="highlight-238-padding-4-8">
+
+					<span className="highlight-255-padding-0-4">Danh Từ</span> Dịch Trước, <span className="highlight-255-padding-0-4">Tính Từ</span> Dịch Sau
+					
+				</span>
+
+			</p>
+
+		</div>
+
+			
 
 		<h4 className="margin-y-30">1. Cấu trúc của cụm danh từ trong tiếng Anh</h4>
 		
-		<p>Trong tiếng Anh, một cụm danh từ thường bao gồm:</p>
+		<p>Một cụm danh từ tiếng Anh thường bao gồm:</p>
 
 			<ul className="list-square">
 
-				<li><strong>Danh từ chính</strong> (<strong>head noun</strong>): Là từ cốt lõi, mang ý nghĩa chính của cụm, thường nằm ở vị trí cuối cùng (bên phải).</li>
+				<li><strong>Danh từ chính</strong> (<strong>head noun</strong>): Là từ cốt lõi, mang ý nghĩa chính, thường nằm ở vị trí cuối cùng của cụm.</li>
 
-				<li><strong>Các thành phần bổ nghĩa</strong>: Bao gồm tính từ (<strong>adjectives</strong>), cụm giới từ (<strong>prepositional phrases</strong>), hoặc mệnh đề quan hệ (<strong>relative clauses</strong>), thường đứng trước danh từ chính.</li>
+				<li><strong>Các thành phần bổ nghĩa</strong>: Bao gồm tính từ (adjectives), danh từ ghép (compound nouns), cụm giới từ (prepositional phrases), hoặc mệnh đề quan hệ (relative clauses), thường đứng trước danh từ chính.</li>
 
 			</ul>
 		
-		<p className="margin-top-20">Ví dụ: Trong cụm <strong>a beautiful old stone house</strong>, danh từ chính là <strong>house</strong>, còn <strong>beautiful</strong>, <strong>old</strong>, <strong>stone</strong> là các tính từ bổ nghĩa.</p>
+		<p className="margin-top-20">Ví dụ: Trong cụm <strong>a beautiful old stone house</strong>, danh từ chính là <strong>house</strong>, còn <strong>beautiful</strong>, <strong>old</strong>, <strong>stone</strong> là các tính từ bổ nghĩa. Khi đặt vào ngoặc đơn, ta có: <strong>a</strong> (<strong>beautiful old stone</strong>) <strong>house</strong>.</p>
 
-		<p>Tuy nhiên, khi dịch sang tiếng Việt, cấu trúc này cần được đảo ngược để phù hợp với ngữ pháp tiếng Việt, nơi danh từ đứng trước, còn tính từ và bổ ngữ đứng sau.</p>
+		<p>Khi dịch sang tiếng Việt, cấu trúc này cần được đảo ngược để danh từ đứng trước, còn các tính từ và bổ ngữ đứng sau, với các tính từ hoặc danh từ ghép được nhận diện từ dấu ngoặc đơn.</p>
 
-		<h4 className="margin-y-30">2. Nguyên tắc dịch:</h4>
+		<h4 className="margin-y-30">2. Các bước dịch cụm danh từ</h4>
 
-		<p className="margin-bottom-50 text-center">
-			<span className="highlight-255-padding-4-8 text-border">Suy nghĩ từ phải sang trái</span>
-		</p>
+		<p>Để dịch cụm danh từ tiếng Anh sang tiếng Việt, bạn có thể thực hiện theo các bước sau:</p>
 
-		<p>Để dịch cụm danh từ tiếng Anh sang tiếng Việt một cách tự nhiên, bạn cần phân tích cụm từ theo thứ tự từ phải sang trái. Các bước cụ thể bao gồm:</p>
+		{/* =============================
+				Bước 1: Xác định danh từ chính
+		============================= */}
 
-		<h4 className="margin-y-50 text-center">Bước 1: Xác định danh từ chính</h4>
+		<div className="margin-y-15 text-border1 table-container">
 
-		<p>Danh từ chính là từ cuối cùng trong cụm danh từ, đóng vai trò cốt lõi. Đây là từ bạn sẽ dịch đầu tiên.</p>
-		
-		<p className="margin-top-20">Ví dụ: <strong>A large wooden table</strong></p>
+			<h4 className="margin-y-50 text-center">Bước 1: Xác định danh từ chính</h4>
 
-			<ul className="list-square">
+			<p>Danh từ chính là từ cuối cùng trong cụm danh từ, đóng vai trò cốt lõi. Đây là từ bạn sẽ dịch đầu tiên.</p>
+			
+			<p className="margin-top-20">Ví dụ: <strong>A large wooden table</strong></p>
 
-				<li>Danh từ chính: <strong>table</strong> (bàn).</li>
+				<ul className="list-square">
 
-			</ul>
+					<li>Danh từ chính: <strong>table</strong> (bàn).</li>
 
-		<h4 className="margin-y-50 text-center">Bước 2: Liệt kê các tính từ hoặc bổ ngữ</h4>
+				</ul>
 
-		<p>Các tính từ hoặc cụm bổ nghĩa đứng trước danh từ chính. Trong tiếng Anh, thứ tự tính từ thường tuân theo quy tắc: <strong>ý kiến</strong> (opinion) + <strong>kích thước</strong> (size) + <strong>tuổi</strong> (age) + <strong>chất liệu</strong> (material). Khi dịch, bạn cần xác định các tính từ này và sắp xếp chúng theo thứ tự ngược lại.</p>
-		
-		<p className="margin-top-20">Ví dụ: Trong <strong>a beautiful old stone house</strong></p>
+		</div>
 
-			<ul className="list-square">
+		{/* =============================
+				Bước 2: Đặt các tính từ hoặc danh từ ghép vào dấu ngoặc đơn
+		============================= */}
 
-				<li>Các tính từ là <strong>beautiful</strong> (đẹp), <strong>old</strong> (cũ), <strong>stone</strong> (đá).</li>
+		<div className="margin-y-15 text-border1 table-container">
 
-			</ul>
+			<h4 className="margin-y-50 text-center">Bước 2: Đặt các tính từ hoặc danh từ ghép vào dấu ngoặc đơn</h4>
 
-		<h4 className="margin-y-50 text-center">Bước 3: Dịch danh từ trước</h4>
+			<p>Liệt kê các tính từ hoặc danh từ ghép đứng trước danh từ chính và đặt chúng vào dấu ngoặc đơn trong cấu trúc cụm danh từ. Cụ thể, các thành phần bổ nghĩa đứng trước danh từ chính sẽ được giữ nguyên thứ tự trong ngoặc.</p>
 
-		<p>Bắt đầu bằng cách dịch danh từ chính sang tiếng Việt.</p>
-		
-		<p className="margin-top-20">Ví dụ: <strong>house</strong> → nhà.</p>
+				<ul className="list-square">
 
-		<h4 className="margin-y-50 text-center">Bước 4: Dịch các tính từ từ phải sang trái</h4>
+					<li>Ví dụ: Trong a beautiful old stone house, ta có: a (<strong>beautiful old stone</strong>) house.</li>
 
-		<p>Sau khi dịch danh từ chính, bạn dịch các tính từ hoặc bổ ngữ theo thứ tự từ phải sang trái để phù hợp với cách diễn đạt tự nhiên trong tiếng Việt.</p>
+					<li>Ví dụ khác: Trong a large wooden table, ta có: a (<strong>large wooden</strong>) table.</li>
 
-		<p className="margin-top-20">Ví dụ: <strong>beautiful old stone house</strong></p>
+				</ul>
 
-			<ul className="list-square">
+		</div>
 
-				<li>Danh từ chính: <strong>house</strong> → nhà.</li>
+		{/* =============================
+				Bước 3: Dịch danh từ trước
+		============================= */}
 
-				<li>Tính từ (từ phải sang trái): <strong>stone</strong> (đá), <strong>old</strong> (cũ), <strong>beautiful</strong> (đẹp).</li>
+		<div className="margin-y-15 text-border1 table-container">
 
-				<li>Kết quả: nhà đá cũ đẹp.</li>
+			<h4 className="margin-y-50 text-center">Bước 3: Dịch danh từ trước</h4>
 
-			</ul>
+			<p>Dịch danh từ chính sang tiếng Việt trước tiên.</p>
+			
+			<p className="margin-top-20">Ví dụ: <strong>house</strong> → nhà.</p>
 
-		<p className="margin-top-20">Ví dụ khác:</p>
-		
-		<p className="text-indent">Cụm danh từ: <strong>A large wooden table</strong></p>
+		</div>
 
-			<ul className="list-square">
+		{/* =============================
+				Bước 4: Dịch các tính từ hoặc danh từ ghép từ phải sang trái
+		============================= */}
 
-				<li>Danh từ chính: <strong>table</strong> → bàn.</li>
+		<div className="margin-y-15 text-border1 table-container">
 
-				<li>Tính từ (phải sang trái): <strong>wooden</strong> (gỗ), <strong>large</strong> (lớn).</li>
+			<h4 className="margin-y-50 text-center">Bước 4: Dịch các tính từ hoặc danh từ ghép từ phải sang trái</h4>
 
-				<li>Kết quả: bàn gỗ lớn.</li>
+			<p>Dịch các tính từ hoặc danh từ ghép trong dấu ngoặc đơn theo thứ tự từ phải sang trái để phù hợp với ngữ pháp tiếng Việt.</p>
 
-			</ul>
+			<p className="margin-top-20">Ví dụ: <strong>a</strong> (<strong>beautiful old stone</strong>) <strong>house</strong></p>
+
+				<ul className="list-square">
+
+					<li>Danh từ chính: <strong>house</strong> → nhà.</li>
+
+					<li>Tính từ (từ phải sang trái): <strong>stone</strong> (đá), <strong>old</strong> (cũ), <strong>beautiful</strong> (đẹp).</li>
+
+					<li>Kết quả: nhà đá cũ đẹp.</li>
+
+				</ul>
+
+			<p className="margin-top-20">Ví dụ khác:</p>
+			
+			<p className="text-indent">Cụm danh từ: Cụm danh từ: <strong>a</strong> (<strong>large wooden</strong>) <strong>table</strong></p>
+
+				<ul className="list-square">
+
+					<li>Danh từ chính: <strong>table</strong> → bàn.</li>
+
+					<li>Tính từ trong ngoặc (từ phải sang trái): <strong>wooden</strong> (gỗ), <strong>large</strong> (lớn).</li>
+
+					<li>Kết quả: bàn gỗ lớn.</li>
+
+				</ul>
+
+		</div>
 
 		<h4 className="margin-y-50 text-center">3. Xử lý các cụm danh từ phức tạp</h4>
 
-		<p>Khi cụm danh từ có bổ ngữ phức tạp hơn, như cụm giới từ hoặc mệnh đề quan hệ, bạn vẫn áp dụng nguyên tắc tương tự:</p>
+		<p>Khi cụm danh từ có bổ ngữ phức tạp hơn, như cụm giới từ hoặc mệnh đề quan hệ, bạn vẫn áp dụng nguyên tắc tương tự, nhưng chỉ đặt tính từ hoặc danh từ ghép vào dấu ngoặc đơn, còn các bổ ngữ khác được xử lý riêng.</p>
 
-		<p className="margin-top-20">Ví dụ 1: <strong>A book on the table</strong></p>
+		<p className="margin-top-20">Ví dụ 1: <strong>a book on the table</strong></p>
 
 			<ul className="list-square">
 
@@ -110,11 +154,11 @@ export default function DichCumDanhTuTiengAnh() {
 
 				<li>Bổ ngữ: <strong>on the table</strong> (trên bàn).</li>
 
-				<li>Kết quả: sách trên bàn.</li>
+				<li>Kết quả: sách trên bàn (không có tính từ nên không cần ngoặc đơn).</li>
 
 			</ul>
 		
-		<p className="margin-top-20">Ví dụ 2: <strong>A car that is parked outside</strong></p>
+		<p className="margin-top-20">Ví dụ 2: <strong>a car that is parked outside</strong></p>
 
 			<ul className="list-square">
 
@@ -122,7 +166,19 @@ export default function DichCumDanhTuTiengAnh() {
 
 				<li>Mệnh đề quan hệ: <strong>that is parked outside</strong> (được đỗ ngoài trời).</li>
 
-				<li>Kết quả: xe hơi được đỗ ngoài trời.</li>
+				<li>Kết quả: xe hơi được đỗ ngoài trời (không có tính từ nên không cần ngoặc đơn).</li>
+
+			</ul>
+
+		<p className="margin-top-20">Ví dụ 3: <strong>a</strong> (<strong>small red sports</strong>) <strong>car</strong></p>
+
+			<ul className="list-square">
+
+				<li>Danh từ chính: <strong>car</strong> → xe hơi.</li>
+
+				<li>Tính từ và danh từ ghép trong ngoặc (từ phải sang trái): <strong>sports</strong> (thể thao), <strong>red</strong> (đỏ), <strong>small</strong> (nhỏ).</li>
+
+				<li>Kết quả: xe hơi thể thao đỏ nhỏ.</li>
 
 			</ul>
 
@@ -130,17 +186,19 @@ export default function DichCumDanhTuTiengAnh() {
 
 			<ul className="list-square">
 
-				<li><strong>Thứ tự tính từ trong tiếng Anh</strong>: Tiếng Anh có quy tắc sắp xếp tính từ (ví dụ: <strong>opinion</strong> → <strong>size</strong> → <strong>age</strong> → <strong>material</strong>). Khi dịch, bạn cần đảo ngược thứ tự này để phù hợp với ngữ cảm tiếng Việt. Tuy nhiên, hãy linh hoạt điều chỉnh để câu văn tự nhiên hơn.</li>
+				<li><strong>Thứ tự tính từ trong tiếng Anh</strong>: Tiếng Anh có quy tắc sắp xếp tính từ (ví dụ: <strong>opinion</strong> → <strong>size</strong> → <strong>age</strong> → <strong>material</strong>). Khi đặt vào dấu ngoặc đơn, bạn giữ nguyên thứ tự này trong cấu trúc như <strong>a</strong> (<strong>tính từ</strong>) <strong>danh từ</strong>, nhưng khi dịch, bạn đảo ngược từ phải sang trái để phù hợp với ngữ cảm tiếng Việt.</li>
 
-				<li><strong>Ngữ cảm tự nhiên</strong>: Trong một số trường hợp, bạn có thể cần sắp xếp lại thứ tự tính từ để câu văn tiếng Việt nghe mượt mà hơn. Ví dụ: <strong>a beautiful old stone house</strong> có thể được dịch là ngôi nhà đá cũ đẹp, nhưng trong ngữ cảnh cụ thể, bạn có thể điều chỉnh thành ngôi nhà đá đẹp cổ kính để tăng tính tự nhiên.</li>
+				<li><strong>Ngữ cảm tự nhiên</strong>: Trong một số trường hợp, bạn có thể cần điều chỉnh thứ tự tính từ để câu văn tiếng Việt nghe mượt mà hơn. Ví dụ: <strong>a</strong> (<strong>beautiful old stone</strong>) <strong>house</strong> được dịch là nhà đá cũ đẹp, nhưng có thể điều chỉnh thành ngôi nhà đá đẹp cổ kính để tăng tính tự nhiên.</li>
 
-				<li><strong>Bổ ngữ phức tạp</strong>: Với các cụm có bổ ngữ dài (như mệnh đề quan hệ), hãy dịch bổ ngữ này sau danh từ chính và giữ nguyên ý nghĩa.</li>
+				<li><strong>Bổ ngữ phức tạp</strong>: Với các cụm có bổ ngữ dài (như mệnh đề quan hệ), chỉ đặt tính từ hoặc danh từ ghép vào ngoặc đơn, còn các bổ ngữ khác được dịch sau danh từ chính theo cách thông thường.</li>
+
+				<li><strong>Danh từ ghép</strong>: Các danh từ ghép (như <strong>sports</strong> trong <strong>sports car</strong>) được xử lý tương tự tính từ, đặt trong ngoặc đơn và dịch sau danh từ chính.</li>
 
 			</ul>
 
 		<h4 className="margin-y-50 text-center">5. Kết luận</h4>
 		
-		<p>Phương pháp dịch cụm danh từ tiếng Anh theo nguyên tắc "<strong>danh từ dịch trước</strong>, <strong>tính từ dịch sau</strong>" đòi hỏi người học phải suy nghĩ ngược từ phải sang trái. Bằng cách xác định danh từ chính trước, sau đó dịch các tính từ và bổ ngữ theo thứ tự ngược lại, bạn có thể tạo ra câu văn tiếng Việt tự nhiên và đúng ngữ pháp. Thực hành thường xuyên với các ví dụ cụ thể sẽ giúp bạn nắm vững kỹ năng này.</p>
+		<p>Phương pháp dịch cụm danh từ tiếng Anh theo nguyên tắc "<strong>danh từ dịch trước</strong>, <strong>tính từ dịch sau</strong>", kết hợp với việc đặt các tính từ và danh từ ghép vào dấu ngoặc đơn trong cấu trúc <strong>a</strong> (<strong>tính từ</strong>) <strong>danh từ</strong>, giúp người học dễ dàng nhận diện và sắp xếp các thành phần bổ nghĩa. Bằng cách xác định danh từ chính trước, đặt các tính từ/danh từ ghép vào ngoặc, và dịch chúng từ phải sang trái, bạn có thể tạo ra câu văn tiếng Việt tự nhiên và đúng ngữ pháp. Thực hành thường xuyên với các ví dụ cụ thể sẽ giúp bạn nắm vững kỹ năng này.</p>
 
 		<p className="margin-top-50 text-small">October 04, 2025 - by Grok</p>
 		
