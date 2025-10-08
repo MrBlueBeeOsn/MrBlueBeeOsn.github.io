@@ -2,10 +2,15 @@ import React, { useState, useEffect } from 'react';
 import HeartIconColor from './HeartIconColor';
 import HeartIcon from './HeartIcon';
 
-const LikeButton = ({ postId }) => {
+export default function LikeButton({ postId }) {
   const [likes, setLikes] = useState(0);
   const [isLiked, setIsLiked] = useState(false);
   const [isAnimating, setIsAnimating] = useState(false);
+
+  // Format số lượng hearts theo ngữ pháp tiếng Anh
+  const formatLikesText = (count) => {
+    return count === 1 ? `${count} heart` : `${count} hearts`;
+  };
 
   useEffect(() => {
     const savedLikes = localStorage.getItem(`post-${postId}-likes`);
@@ -36,20 +41,22 @@ const LikeButton = ({ postId }) => {
         onClick={handleLike}
         aria-label={isLiked ? 'Bỏ thích' : 'Thích'}
       >
-        <span className="heart">{isLiked ? <HeartIconColor /> : <HeartIcon />}</span>
-        <span className="likes-count">{likes} hearts</span>
+        <span className="heart">
+          {isLiked ? <HeartIconColor /> : <HeartIcon />}
+        </span>
+        <span className="likes-count">{formatLikesText(likes)}</span>
       </button>
       
       {/* Hiệu ứng particles */}
       {isAnimating && (
         <div className="particles">
           {[...Array(6)].map((_, i) => (
-            <div key={i} className="particle"><HeartIcon /></div>
+            <div key={i} className="particle">
+              {isLiked ? <HeartIconColor /> : <HeartIcon />}
+            </div>
           ))}
         </div>
       )}
     </div>
   );
-};
-
-export default LikeButton;
+}

@@ -27,9 +27,12 @@ export default function ViewCounter({ postId }) {
     }
   }, [postId]);
 
+  // Thêm logic để hiển thị đúng số nhiều/số ít
+  const displayText = views === 1 ? "view" : "views";
+
   return (
     <div className="view-counter">
-      {views.toLocaleString()} views ·
+      {views.toLocaleString()} {displayText} ·
     </div>
   );
 }
