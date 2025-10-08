@@ -14,7 +14,7 @@ export default function SearchComponent() {
   const [postsPerPage] = useState(5); // 5 bài mỗi trang
 
   useEffect(() => {
-    fetch('http://localhost:3001/posts')
+    fetch('/posts')
       .then(response => response.json())
       .then(posts => {
         setAllPosts(posts);

@@ -1,23 +1,27 @@
 {
   "name": "my-react-app",
   "private": true,
+  "proxy": "http://localhost:3003",
   "version": "0.0.0",
   "type": "module",
   "homepage": "https://mrbluebeeosn.github.io/MrBlueBeeOsn.github.io",
  "scripts": {
+    "start": "react-scripts start",
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist",
     "build:db": "node generate-db.js",
-    "dev:db": "json-server --watch src/data/db.json --port 3001",
     "db:generate": "node generate-db.js",
     "db:update-likes": "node update-likes-only.js",
     "db:update-views": "node update-views-only.js",
     "db:update-all": "npm run db:update-views && npm run db:update-likes",
-    "db:server": "json-server --watch src/data/db.json --port 3001",
-    "db": "npm run db:generate && npm run db:server"
+    "db:server": "json-server --watch src/data/db.json --port 3003",
+    "db": "npm run db:generate && npm run db:server",
+    "db:add-views": "node update-views-only.js",
+    "db:add-likes": "node update-likes-only.js",
+    "db:setup": "npm run db:generate && npm run db:add-views && npm run db:add-likes"
   },
   "dependencies": {
     "react": "^19.1.1",

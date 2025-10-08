@@ -6,7 +6,7 @@ export default function ViewCounter({ postId }) {
 
   useEffect(() => {
     // Lấy views từ API
-    fetch(`http://localhost:3001/posts/${postId}`)
+    fetch(`/posts/${postId}`)
       .then(res => res.json())
       .then(post => setViews(post.views || 0));
 
@@ -17,7 +17,7 @@ export default function ViewCounter({ postId }) {
     const thirtyMinutes = 30 * 60 * 1000;
 
     if (!lastView || (now - parseInt(lastView)) > thirtyMinutes) {
-      fetch(`http://localhost:3001/posts/${postId}`, {
+      fetch(`/posts/${postId}`, {
         method: 'PATCH',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({ views: (views || 0) + 1 })
