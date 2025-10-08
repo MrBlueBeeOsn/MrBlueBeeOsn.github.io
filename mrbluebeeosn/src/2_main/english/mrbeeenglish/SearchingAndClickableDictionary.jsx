@@ -1,8 +1,14 @@
 import { Link } from "react-router-dom";
 import { HashLink } from 'react-router-hash-link';
 import Blog from '/src/components/Blog';
+import EyeIcon from '/src/components/EyeIcon';
+import ViewCounter from '/src/components/ViewCounter';
+import LikeButton from '/src/components/LikeButton';
 
 export default function SearchingAndClickableDictionary() {
+
+  const postId = "";
+
   return (<>
 
   <main className="image image2">
@@ -52,6 +58,26 @@ export default function SearchingAndClickableDictionary() {
     </div>
 
     <p className="margin-top-50 text-small">by 🐝Mr. Bee Osn</p>
+
+<div className="viewcounter">
+    
+      <div className="post-date no-margin">
+        <span> · by 💎Gem ·</span>
+      </div>
+
+      <div className="eye-icon no-margin">
+        <EyeIcon />
+      </div>
+
+      <div className="post-date no-margin">
+        <ViewCounter postId={postId} />
+      </div>
+
+      <div className="like-button no-margin">
+        <LikeButton postId={postId} />
+      </div>
+
+    </div>
     
   </main>
 

@@ -1,7 +1,13 @@
 import { Link } from "react-router-dom";
 import { HashLink } from 'react-router-hash-link';
+import EyeIcon from '/src/components/EyeIcon';
+import ViewCounter from '/src/components/ViewCounter';
+import LikeButton from '/src/components/LikeButton';
 
 export default function DichCumDanhTuTiengAnh() {
+
+	const postId = "";
+
 	return (<>
 
 	<main className="image image2">
@@ -203,6 +209,26 @@ export default function DichCumDanhTuTiengAnh() {
 		<p>Phương pháp dịch cụm danh từ tiếng Anh theo nguyên tắc "<strong>danh từ dịch trước</strong>, <strong>tính từ dịch sau</strong>", kết hợp với việc đặt các tính từ và danh từ ghép vào dấu ngoặc đơn trong cấu trúc <strong>a</strong> (<strong>tính từ</strong>) <strong>danh từ</strong>, giúp người học dễ dàng nhận diện và sắp xếp các thành phần bổ nghĩa. Bằng cách xác định danh từ chính trước, đặt các tính từ/danh từ ghép vào ngoặc, và dịch chúng từ phải sang trái, bạn có thể tạo ra câu văn tiếng Việt tự nhiên và đúng ngữ pháp. Thực hành thường xuyên với các ví dụ cụ thể sẽ giúp bạn nắm vững kỹ năng này.</p>
 
 		<p className="margin-top-50 text-small">October 04, 2025 · by Grok</p>
+
+<div className="viewcounter">
+		
+			<div className="post-date no-margin">
+				<span> · by 💎Gem ·</span>
+			</div>
+
+			<div className="eye-icon no-margin">
+				<EyeIcon />
+			</div>
+
+			<div className="post-date no-margin">
+				<ViewCounter postId={postId} />
+			</div>
+
+			<div className="like-button no-margin">
+				<LikeButton postId={postId} />
+			</div>
+
+		</div>
 		
 	</main>
 

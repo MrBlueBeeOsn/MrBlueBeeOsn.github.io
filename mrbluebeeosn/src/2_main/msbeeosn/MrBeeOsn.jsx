@@ -1,8 +1,14 @@
 import { Link } from "react-router-dom";
 import { HashLink } from 'react-router-hash-link';
 import ExternalLink from '/src/components/ExternalLink';
+import EyeIcon from '/src/components/EyeIcon';
+import ViewCounter from '/src/components/ViewCounter';
+import LikeButton from '/src/components/LikeButton';
 
 export default function MrBeeOsn() {
+
+  const postId = "";
+
   return (<>
      
   <main className="image image4">
@@ -103,6 +109,26 @@ export default function MrBeeOsn() {
       </div>
 
     </div>
+
+    <div className="viewcounter">
+
+			<div className="post-date no-margin">
+				<span>by Mr. Bee Osn ·</span>
+			</div>
+
+			<div className="eye-icon no-margin">
+     	 	<EyeIcon />
+    	</div>
+
+			<div className="post-date no-margin">
+				<ViewCounter postId={postId} />
+			</div>
+
+			<div className="like-button no-margin">
+				<LikeButton postId={postId} />
+			</div>
+
+		</div>
 
   </main>
 

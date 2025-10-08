@@ -1,7 +1,13 @@
 import { Link } from "react-router-dom";
 import { HashLink } from 'react-router-hash-link';
+import EyeIcon from '/src/components/EyeIcon';
+import ViewCounter from '/src/components/ViewCounter';
+import LikeButton from '/src/components/LikeButton';
 
 export default function Bookkeeping() {
+
+  const postId = "";
+
   return (<>
 
   <main className="image image2">
@@ -127,6 +133,26 @@ export default function Bookkeeping() {
     <p className="margin-top-20">So, <strong>bookkeeping</strong> is like the super organizer for your lemonade stand! It keeps track of all your money coming in and going out, so you can have the best lemonade stand ever!</p>
 
     <p className="margin-top-50 text-small">April 12, 2024 · by 💎Gem ·</p>
+
+<div className="viewcounter">
+    
+      <div className="post-date no-margin">
+        <span> · by 💎Gem ·</span>
+      </div>
+
+      <div className="eye-icon no-margin">
+        <EyeIcon />
+      </div>
+
+      <div className="post-date no-margin">
+        <ViewCounter postId={postId} />
+      </div>
+
+      <div className="like-button no-margin">
+        <LikeButton postId={postId} />
+      </div>
+
+    </div>
     
   </main>
 
