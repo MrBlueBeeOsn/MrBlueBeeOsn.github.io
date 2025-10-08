@@ -3,8 +3,8 @@ import React from 'react';
 
 export default function EyeIcon({ 
   size = 14, 
-  stroke = "var(--tertiary-color)",  // Màu cho đường viền (stroke)
-  fill = "var(--secondary-color)",
+  stroke = "var(--secondary-color)",  // Màu cho đường viền (stroke)
+  fill = "var(--tertiary-color)",
   className = '' 
   
 }) {

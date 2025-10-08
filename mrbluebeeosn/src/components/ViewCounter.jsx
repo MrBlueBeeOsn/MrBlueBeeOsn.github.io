@@ -29,7 +29,7 @@ export default function ViewCounter({ postId }) {
 
   return (
     <div className="view-counter">
-      {views.toLocaleString()} views
+      {views.toLocaleString()} views ·
     </div>
   );
 }
