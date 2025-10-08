@@ -19,6 +19,9 @@ cd /D/Github/Black/MrBlackBeeOsn.github.io/mrblackbeeosn
 cd /D/Github/Blue/MrBlueBeeOsn.github.io/mrbluebeeosn
 cd /D/Github/Green/MrGreenBeeOsn.github.io/mrgreenbeeosn
 
+node generate-db.js
+json-server --watch src/data/db.json --port 3001
+
 npm run install
 npm run dev
 npm run build
