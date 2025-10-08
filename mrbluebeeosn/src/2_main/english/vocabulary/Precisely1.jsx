@@ -6,7 +6,7 @@ import LikeButton from '/src/components/LikeButton';
 
 export default function Precisely1() {
 
-  const postId = "";
+  const postId = "Precisely1";
 
   return (<>
 

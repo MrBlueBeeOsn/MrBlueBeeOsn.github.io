@@ -6,7 +6,7 @@ import LikeButton from '/src/components/LikeButton';
 
 export default function Pronunciation() {
 
-  const postId = "";
+  const postId = "Pronunciation";
 
   return (<>
 

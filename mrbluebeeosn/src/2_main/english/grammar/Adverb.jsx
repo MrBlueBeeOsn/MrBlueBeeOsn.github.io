@@ -6,7 +6,7 @@ import LikeButton from '/src/components/LikeButton';
 
 export default function Adverb() {
 
-  const postId = "";
+  const postId = "Adverb";
 
   return (<>
 

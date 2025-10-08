@@ -6,7 +6,7 @@ import LikeButton from '/src/components/LikeButton';
 
 export default function AccountsPayable() {
 
-  const postId = "";
+  const postId = "AccountsPayable";
 
   return (<>
 

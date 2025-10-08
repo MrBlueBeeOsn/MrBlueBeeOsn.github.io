@@ -6,7 +6,7 @@ import LikeButton from '/src/components/LikeButton';
 
 export default function Verb() {
 
-  const postId = "";
+  const postId = "Verb";
 
   return (<>
 

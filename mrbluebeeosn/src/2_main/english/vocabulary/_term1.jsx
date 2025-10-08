@@ -4,7 +4,7 @@ import EyeIcon from '/src/components/EyeIcon';
 import ViewCounter from '/src/components/ViewCounter';
 import LikeButton from '/src/components/LikeButton';
 
-export default function Accurately1() {
+export default function () {
 
   const postId = "";
 

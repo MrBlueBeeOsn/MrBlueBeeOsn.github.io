@@ -6,7 +6,7 @@ import LikeButton from '/src/components/LikeButton';
 
 export default function GeneralLedger() {
 
-  const postId = "";
+  const postId = "GeneralLedger";
 
   return (<>
 

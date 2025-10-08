@@ -6,7 +6,7 @@ import LikeButton from '/src/components/LikeButton';
 
 export default function IPA() {
 
-  const postId = "";
+  const postId = "IPA";
 
   return (<>
 

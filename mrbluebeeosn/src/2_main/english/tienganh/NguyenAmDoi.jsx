@@ -6,7 +6,7 @@ import LikeButton from '/src/components/LikeButton';
 
 export default function NguyenAmDoi() {
 
-  const postId = "";
+  const postId = "NguyenAmDoi";
 
   return (<>
 

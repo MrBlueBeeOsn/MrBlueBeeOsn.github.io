@@ -6,7 +6,7 @@ import LikeButton from '/src/components/LikeButton';
 
 export default function Diligently2() {
 
-  const postId = "";
+  const postId = "Diligently2";
 
   return (<>
 

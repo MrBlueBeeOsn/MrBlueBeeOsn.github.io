@@ -7,7 +7,7 @@ import LikeButton from '/src/components/LikeButton';
 
 export default function SearchingAndClickableDictionary() {
 
-  const postId = "";
+  const postId = "SearchingAndClickableDictionary";
 
   return (<>
 

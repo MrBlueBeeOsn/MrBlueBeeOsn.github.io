@@ -6,7 +6,7 @@ import LikeButton from '/src/components/LikeButton';
 
 export default function Adjective() {
 
-  const postId = "";
+  const postId = "Adjective";
 
   return (<>
 
