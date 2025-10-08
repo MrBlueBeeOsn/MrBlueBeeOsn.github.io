@@ -6,7 +6,7 @@ import { lazy, Suspense } from 'react'
 import { Routes, Route } from 'react-router-dom';
 
 const Layout = lazy(() => import('./components/Layout'))
-const Posts = lazy(() => import('./posts/Posts'))
+const Posts = lazy(() => import('./data/Posts'))
 
 // 1_header import các chức năng và đường dẫn
   const Home = lazy(() => import('./1_header/Home'))

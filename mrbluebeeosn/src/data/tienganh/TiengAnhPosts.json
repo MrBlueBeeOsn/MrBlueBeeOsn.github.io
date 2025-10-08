@@ -1,0 +1,40 @@
+{
+	"posts": [
+		{ 
+			"id": "BayDauPhuPhienAmTiengAnh1",
+			"categoryDisplay": "Tiếng Anh",
+			"categorySlug": "tieng-anh",
+			"title": "7 dấu phụ phiên âm tiếng Anh 1", 
+			"content": "Học phát âm tiếng Anh bằng IPA quốc tế đôi khi khó nhớ và xa lạ với người Việt. Vì vậy, ta có thể tạo một hệ thống dựa trên 7 loại dấu phụ quen thuộc trong tiếng Việt để thay thế IPA, giúp dễ học, dễ liên tưởng và ghi nhớ lâu.",
+			"slug": "tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1",
+			"date": "2025-09-12"
+		},
+		{ 
+			"id": "BayDauPhuPhienAmTiengAnh2",
+			"categoryDisplay": "Tiếng Anh",
+			"categorySlug": "tieng-anh",
+			"title": "7 dấu phụ phiên âm tiếng Anh 2", 
+			"content": "Tiếng Anh có nhiều nguyên âm mà chữ cái thông thường (a, e, i, o, u) không thể hiện hết. Để học nhanh và dễ nhớ, ta dùng 7 dấu phụ kết hợp với 1 dạng mặc định (không dấu) để biểu thị cách phát âm.",
+			"slug": "tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-2",
+			"date": "2025-09-12"
+		},
+		{ 
+			"id": "NguyenAmDon",
+			"categoryDisplay": "Tiếng Anh",
+			"categorySlug": "tieng-anh",
+			"title": "Nguyên âm đơn",
+			"content": "📌 BẢNG TỔNG HỢP NGUYÊN ÂM ĐƠN",
+			"slug": "tieng-anh/nguyen-am-don",
+			"date": "2025-09-12"
+		},
+		{ 
+			"id": "NguyenAmDoi",
+			"categoryDisplay": "Tiếng Anh",
+			"categorySlug": "tieng-anh",
+			"title": "Nguyên âm đôi",
+			"content": "📌 BẢNG TỔNG HỢP NGUYÊN ÂM ĐÔI",
+			"slug": "tieng-anh/nguyen-am-doi",
+			"date": "2025-09-12"
+		}
+	]
+}
