@@ -9,7 +9,7 @@
 ========================================= --*/
 
 /* =============================
-   Back to Top Button - by GRK
+   Back to Top Button · by GRK
 ============================= */
 
 const backToTopButton = document.querySelector('.back-to-top');
@@ -44,7 +44,7 @@ const backToTopButton = document.querySelector('.back-to-top');
         });
 
 /* =============================
-   My Blog Journey - by DPSK
+   My Blog Journey · by DPSK
 ============================= */
 
         // Chờ cho trang web tải xong
@@ -68,7 +68,7 @@ const backToTopButton = document.querySelector('.back-to-top');
         });
 
 /* =============================
-   Scroll Into View - by GRK
+   Scroll Into View · by GRK
 ============================= */
 
         document.querySelectorAll('a[href^="#"]').forEach(anchor => {
@@ -83,7 +83,7 @@ const backToTopButton = document.querySelector('.back-to-top');
         });
 
 /* =============================
-   Scroll Into View (hash trong liên kết) - by GRK
+   Scroll Into View (hash trong liên kết) · by GRK
 ============================= */
 
         window.addEventListener('load', () => {
@@ -97,7 +97,7 @@ const backToTopButton = document.querySelector('.back-to-top');
         });
 
 /* =============================
-   Bee - by GPT
+   Bee · by GPT
 ============================= */     
 
     const bees = document.querySelectorAll('.bee');
