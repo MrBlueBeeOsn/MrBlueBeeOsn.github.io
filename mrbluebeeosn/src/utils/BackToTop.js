@@ -9,7 +9,7 @@
 ========================================= --*/
 
 /* =============================
-   Back to Top Button - by GRK
+   Back to Top Button · by GRK
 ============================= */
 
 const backToTopButton = document.querySelector('.back-to-top');

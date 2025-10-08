@@ -62,7 +62,7 @@ export default function Pronunciation() {
 
     <p className="margin-top-20">So, with a little practice and your super secret <strong>pronunciation</strong> skills, you'll be speaking English like a superhero in no time!</p>
 
-    <p className="margin-top-50 text-small">April 24, 2024 - by 💎Gem</p>
+    <p className="margin-top-50 text-small">April 24, 2024 · by 💎Gem ·</p>
     
   </main>
 

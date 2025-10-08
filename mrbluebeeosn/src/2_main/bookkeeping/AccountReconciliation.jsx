@@ -113,7 +113,7 @@ export default function AccountReconciliation() {
 
     <p className="margin-top-20">So, <strong>account reconciliation</strong> is like double-checking your financial records to make sure everything is accurate. It helps adults who manage money, like your mom, be sure they have the right information and catch any mistakes before they become a big problem!</p>
 
-    <p className="margin-top-50 text-small">April 22, 2024 - by 💎Gem</p>
+    <p className="margin-top-50 text-small">April 22, 2024 · by 💎Gem ·</p>
     
   </main>
 

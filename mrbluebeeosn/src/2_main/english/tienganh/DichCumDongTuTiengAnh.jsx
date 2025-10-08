@@ -206,7 +206,7 @@ export default function DichCumDongTuTiengAnh() {
 		
 		<p>Phương pháp dịch cụm động từ tiếng Anh theo nguyên tắc "<strong>động từ dịch trước</strong>, <strong>trạng từ dịch sau</strong>", kết hợp với việc đặt các trạng từ và bổ ngữ vào dấu ngoặc đơn trong cấu trúc <strong>động từ</strong> (<strong>trạng từ bổ ngữ</strong>), giúp người học dễ dàng nhận diện và sắp xếp các thành phần bổ nghĩa. Bằng cách xác định động từ chính trước, đặt các trạng từ/bổ ngữ vào ngoặc, và dịch chúng từ phải sang trái, bạn có thể tạo ra câu văn tiếng Việt tự nhiên và đúng ngữ pháp. Thực hành thường xuyên với các ví dụ cụ thể sẽ giúp bạn nắm vững kỹ năng này.</p>
 
-		<p className="margin-top-50 text-small">October 06, 2025 - by Grok</p>
+		<p className="margin-top-50 text-small">October 06, 2025 · by Grok</p>
 		
 	</main>
 

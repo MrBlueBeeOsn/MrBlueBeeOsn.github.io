@@ -117,7 +117,7 @@ export default function Accurately2() {
 
     <p className="margin-top-50">Hy vọng những thông tin này hữu ích cho bạn! 🐝</p>
 
-    <p className="margin-top-50 text-small"> - by 💎Gem</p>
+    <p className="margin-top-50 text-small"> · by 💎Gem ·</p>
     
   </main>
 

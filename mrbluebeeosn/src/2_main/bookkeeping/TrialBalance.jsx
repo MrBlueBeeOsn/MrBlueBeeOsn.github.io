@@ -116,7 +116,7 @@ export default function TrialBalance() {
 
       </ul>
 
-    <p className="margin-top-50 text-small">February 28, 2024 - by 💎Gem</p>
+    <p className="margin-top-50 text-small">February 28, 2024 · by 💎Gem ·</p>
     
   </main>
 

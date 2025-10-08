@@ -9,7 +9,7 @@ export default function NguyenAmDoi() {
     <h4><HashLink smooth to="/tieng-anh#tieng-anh-terms"><mark className="highlight-tertiary-padding-4-8">Tiếng Anh</mark></HashLink></h4>
 
     <h2 className="margin-y-50 text-center">📌 BẢNG TỔNG HỢP NGUYÊN ÂM ĐÔI
-      
+
       <sup><HashLink smooth to="/tieng-anh/nguyen-am-don">&nbsp;1&nbsp;</HashLink>
       </sup>
 
@@ -90,7 +90,7 @@ export default function NguyenAmDoi() {
 
     </div>
 
-    <p className="margin-top-50 text-small">September 12, 2025 - by 🐝Mr. Bee Osn and GPT</p>
+    <p className="margin-top-50 text-small">September 12, 2025 · by 🐝Mr. Bee Osn and GPT</p>
     
   </main>
 

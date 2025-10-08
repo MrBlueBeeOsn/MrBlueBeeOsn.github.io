@@ -72,7 +72,7 @@ export default function English() {
 
     <p className="margin-top-20">So, <strong>English</strong> is a very important language that helps people all around the world to be friends and learn new things together!</p>
 
-    <p className="margin-top-50 text-small">August 30, 2025 - by 💎Gem</p>
+    <p className="margin-top-50 text-small">August 30, 2025 · by 💎Gem ·</p>
     
   </main>
 

@@ -9,7 +9,7 @@
 ========================================= --*/
 
 /* =============================
-   Scroll Into View (hash trong liên kết) - by GRK
+   Scroll Into View (hash trong liên kết) · by GRK
 ============================= */
 
         window.addEventListener('load', () => {

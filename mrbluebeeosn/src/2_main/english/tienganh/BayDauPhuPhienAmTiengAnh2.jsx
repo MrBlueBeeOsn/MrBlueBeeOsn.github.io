@@ -380,7 +380,7 @@ export default function BayDauPhuPhienAmTiengAnh2() {
 
     </div>
   
-    <p className="margin-top-50 text-small">September 3, 2025 - by 🐝Mr. Bee Osn</p>
+    <p className="margin-top-50 text-small">September 3, 2025 · by 🐝Mr. Bee Osn</p>
     
   </main>
 

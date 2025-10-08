@@ -50,7 +50,7 @@ export default function IPA() {
 
     <p className="margin-top-20">So, while you probably won't see <strong>IPA</strong> symbols in your favorite books just yet, it's a super cool code that helps grown-ups learn more about languages and how people speak all over the world!</p>
 
-    <p className="margin-top-50 text-small">April 22, 2024 - by 💎Gem</p>
+    <p className="margin-top-50 text-small">April 22, 2024 · by 💎Gem ·</p>
     
   </main>
 

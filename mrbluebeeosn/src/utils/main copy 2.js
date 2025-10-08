@@ -9,7 +9,7 @@
 ========================================= --*/
 
 /* =============================
-   My Blog Journey - by DPSK
+   My Blog Journey · by DPSK
 ============================= */
 
         // Chờ cho trang web tải xong

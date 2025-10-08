@@ -120,7 +120,7 @@ export default function GeneralLedger() {
 
     <p className="margin-top-20">So, even though it might sound grown-up, a <strong>general ledger</strong> is just a super cool record book that helps you keep track of everything at your lemonade stand!</p>
 
-    <p className="margin-top-50 text-small">March 18, 2024 - by 💎Gem</p>
+    <p className="margin-top-50 text-small">March 18, 2024 · by 💎Gem ·</p>
     
   </main>
 

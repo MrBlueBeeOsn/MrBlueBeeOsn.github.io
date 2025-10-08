@@ -117,7 +117,7 @@ export default function Painstakingly2() {
 
     <p className="margin-top-50">Hy vọng những thông tin này hữu ích cho bạn! 🐝</p>
 
-    <p className="margin-top-50 text-small">April 8, 2025 - by 💎Gem</p>
+    <p className="margin-top-50 text-small">April 8, 2025 · by 💎Gem ·</p>
     
   </main>
 

@@ -116,7 +116,7 @@ export default function Verb() {
 
     <p>There are all sorts of <strong>verb</strong> super powers in English. The more you practice, the easier it will be to find them and use them to speak English like a superhero!</p>
 
-    <p className="margin-top-50 text-small">July 9, 2024 - by 💎Gem</p>
+    <p className="margin-top-50 text-small">July 9, 2024 · by 💎Gem ·</p>
 
   </main>
 

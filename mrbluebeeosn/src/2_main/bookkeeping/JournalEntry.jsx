@@ -132,7 +132,7 @@ export default function JournalEntry() {
 
     <p className="margin-top-20">So, a <strong>journal entry</strong> is like a fancy notebook where businesses write down all the important things that happen with their money.  It's like their secret diary, but it helps them understand their own story and make smart decisions, just like your playground notebook helps you!</p>
 
-    <p className="margin-top-50 text-small">February 27, 2024 - by 💎Gem</p>
+    <p className="margin-top-50 text-small">February 27, 2024 · by 💎Gem ·</p>
     
   </main>
 

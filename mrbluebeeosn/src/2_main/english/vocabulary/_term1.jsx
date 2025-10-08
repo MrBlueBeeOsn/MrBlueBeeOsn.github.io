@@ -235,7 +235,7 @@ export default function Accurately1() {
 
     <p className="margin-top-50">Chúc bạn học tiếng Anh thật tốt! 🐝</p>
 
-    <p className="margin-top-50 text-small"> - by 💎Gem</p>
+    <p className="margin-top-50 text-small"> · by 💎Gem ·</p>
     
   </main>
 

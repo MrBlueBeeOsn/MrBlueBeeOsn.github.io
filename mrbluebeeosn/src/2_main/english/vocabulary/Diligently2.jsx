@@ -117,7 +117,7 @@ export default function Diligently2() {
 
     <p className="margin-top-50">Hy vọng những thông tin này hữu ích cho bạn! 🐝</p>
 
-    <p className="margin-top-50 text-small">December 26, 2024 - by 💎Gem</p>
+    <p className="margin-top-50 text-small">December 26, 2024 · by 💎Gem ·</p>
     
   </main>
 

@@ -12,7 +12,7 @@ export default function NguyenAmDon() {
 
       <sup><HashLink smooth to="/tieng-anh/nguyen-am-don">&nbsp;1&nbsp;</HashLink>
       </sup>
-      
+
       <sup><HashLink smooth to="/tieng-anh/nguyen-am-doi">&nbsp;2&nbsp;</HashLink>
       </sup>
 
@@ -114,7 +114,7 @@ export default function NguyenAmDon() {
 
     </div>
 
-    <p className="margin-top-50 text-small">September 12, 2025 - by 🐝Mr. Bee Osn and GPT</p>
+    <p className="margin-top-50 text-small">September 12, 2025 · by 🐝Mr. Bee Osn and GPT</p>
     
   </main>
 

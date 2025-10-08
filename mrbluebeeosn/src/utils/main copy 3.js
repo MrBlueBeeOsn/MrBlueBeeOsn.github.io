@@ -9,7 +9,7 @@
 ========================================= --*/
 
 /* =============================
-   Scroll Into View - by GRK
+   Scroll Into View · by GRK
 ============================= */
 
         document.querySelectorAll('a[href^="#"]').forEach(anchor => {

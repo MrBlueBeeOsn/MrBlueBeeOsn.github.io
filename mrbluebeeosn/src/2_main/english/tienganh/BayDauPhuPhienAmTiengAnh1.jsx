@@ -499,7 +499,7 @@ export default function BayDauPhuPhienAmTiengAnh1() {
 
     </div>
 
-    <p className="margin-top-50 text-small">September 12, 2025 - by 🐝Mr. Bee Osn and GPT</p>
+    <p className="margin-top-50 text-small">September 12, 2025 · by 🐝Mr. Bee Osn and GPT</p>
     
   </main>
 

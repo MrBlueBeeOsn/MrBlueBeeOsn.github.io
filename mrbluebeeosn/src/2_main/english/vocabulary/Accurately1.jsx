@@ -223,7 +223,7 @@ export default function Accurately1() {
 
     <p className="margin-top-50">Chúc bạn học tiếng Anh thật tốt! 🐝</p>
 
-    <p className="margin-top-50 text-small">November 3, 2024 - by 💎Gem</p>
+    <p className="margin-top-50 text-small">November 3, 2024 · by 💎Gem ·</p>
     
   </main>
 

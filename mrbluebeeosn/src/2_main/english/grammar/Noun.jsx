@@ -118,7 +118,7 @@ export default function Noun() {
     
     <p className="margin-top-20"><strong>Nouns</strong> are everywhere in English, so keep practicing and have fun finding them! You'll be a <strong>noun</strong> tagging champion in no time!</p>
     
-    <p className="margin-top-50 text-small">July 9, 2024 - by 💎Gem</p>
+    <p className="margin-top-50 text-small">July 9, 2024 · by 💎Gem ·</p>
 
   </main>
 
