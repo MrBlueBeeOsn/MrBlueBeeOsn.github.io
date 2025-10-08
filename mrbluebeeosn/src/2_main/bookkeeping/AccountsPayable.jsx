@@ -110,12 +110,10 @@ export default function AccountsPayable() {
     
     <p className="margin-top-20">So, even though it might sound grown-up, <strong>accounts payable</strong> are just like keeping track of the money you owe for the things you buy for your lemonade stand (or any business). It helps you manage your money and be responsible!</p>
 
-    <p className="margin-top-50 text-small">February 22, 2024 · by 💎Gem ·</p>
-
-<div className="viewcounter">
+    <div className="viewcounter">
     
       <div className="post-date no-margin">
-        <span> · by 💎Gem ·</span>
+        <span>February 22, 2024 · by 💎Gem ·</span>
       </div>
 
       <div className="eye-icon no-margin">

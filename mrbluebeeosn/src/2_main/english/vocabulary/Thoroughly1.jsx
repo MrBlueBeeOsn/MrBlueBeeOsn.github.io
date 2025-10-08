@@ -227,12 +227,10 @@ export default function Thoroughly1() {
 
     <p className="margin-top-50">Chúc bạn học tiếng Anh thật tốt! 🐝</p>
 
-    <p className="margin-top-50 text-small">November 4, 2024 · by 💎Gem ·</p>
-
     <div className="viewcounter">
         
       <div className="post-date no-margin">
-        <span> · by 💎Gem ·</span>
+        <span>November 4, 2024 · by 💎Gem ·</span>
       </div>
 
       <div className="eye-icon no-margin">

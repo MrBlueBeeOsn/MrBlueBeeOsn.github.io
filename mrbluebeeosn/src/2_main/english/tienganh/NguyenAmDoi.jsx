@@ -96,12 +96,10 @@ export default function NguyenAmDoi() {
 
     </div>
 
-    <p className="margin-top-50 text-small">September 12, 2025 · by 🐝Mr. Bee Osn and GPT</p>
-
-<div className="viewcounter">
+    <div className="viewcounter">
     
       <div className="post-date no-margin">
-        <span> · by 💎Gem ·</span>
+        <span>September 12, 2025 · by 🐝Mr. Bee Osn and GPT ·</span>
       </div>
 
       <div className="eye-icon no-margin">

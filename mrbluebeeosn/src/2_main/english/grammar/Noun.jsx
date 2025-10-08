@@ -123,13 +123,11 @@ export default function Noun() {
       </ul>
     
     <p className="margin-top-20"><strong>Nouns</strong> are everywhere in English, so keep practicing and have fun finding them! You'll be a <strong>noun</strong> tagging champion in no time!</p>
-    
-    <p className="margin-top-50 text-small">July 9, 2024 · by 💎Gem ·</p>
 
-<div className="viewcounter">
+    <div className="viewcounter">
     
       <div className="post-date no-margin">
-        <span> · by 💎Gem ·</span>
+        <span>July 9, 2024 · by 💎Gem ·</span>
       </div>
 
       <div className="eye-icon no-margin">

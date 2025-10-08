@@ -68,12 +68,10 @@ export default function Pronunciation() {
 
     <p className="margin-top-20">So, with a little practice and your super secret <strong>pronunciation</strong> skills, you'll be speaking English like a superhero in no time!</p>
 
-    <p className="margin-top-50 text-small">April 24, 2024 · by 💎Gem ·</p>
-
-<div className="viewcounter">
+    <div className="viewcounter">
     
       <div className="post-date no-margin">
-        <span> · by 💎Gem ·</span>
+        <span>April 24, 2024 · by 💎Gem ·</span>
       </div>
 
       <div className="eye-icon no-margin">

@@ -56,12 +56,10 @@ export default function IPA() {
 
     <p className="margin-top-20">So, while you probably won't see <strong>IPA</strong> symbols in your favorite books just yet, it's a super cool code that helps grown-ups learn more about languages and how people speak all over the world!</p>
 
-    <p className="margin-top-50 text-small">April 22, 2024 · by 💎Gem ·</p>
-
-<div className="viewcounter">
+    <div className="viewcounter">
     
       <div className="post-date no-margin">
-        <span> · by 💎Gem ·</span>
+        <span>April 22, 2024 · by 💎Gem ·</span>
       </div>
 
       <div className="eye-icon no-margin">

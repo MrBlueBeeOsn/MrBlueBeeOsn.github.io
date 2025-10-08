@@ -122,12 +122,10 @@ export default function Adverb() {
     
     <p className="margin-top-20">Remember, there are all sorts of whispering words in English. The more you practice finding them, the more you can add exciting details to your English speaking and writing!</p>
 
-    <p className="margin-top-50 text-small">July 9, 2024 · by 💎Gem ·</p>
-
-<div className="viewcounter">
+    <div className="viewcounter">
     
       <div className="post-date no-margin">
-        <span> · by 💎Gem ·</span>
+        <span>July 9, 2024 · by 💎Gem ·</span>
       </div>
 
       <div className="eye-icon no-margin">

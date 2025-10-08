@@ -118,12 +118,10 @@ export default function Adjective() {
     
     <p className="margin-top-20">Remember, there are all sorts of glitter words in English. The more you practice, the easier it will be to find them and use them to make your English sparkle!</p>
 
-    <p className="margin-top-50 text-small">July 9, 2024 · by 💎Gem ·</p>
-
-<div className="viewcounter">
+    <div className="viewcounter">
     
       <div className="post-date no-margin">
-        <span> · by 💎Gem ·</span>
+        <span>July 9, 2024 · by 💎Gem ·</span>
       </div>
 
       <div className="eye-icon no-margin">

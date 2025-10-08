@@ -57,12 +57,10 @@ export default function SearchingAndClickableDictionary() {
     
     </div>
 
-    <p className="margin-top-50 text-small">by 🐝Mr. Bee Osn</p>
-
-<div className="viewcounter">
+    <div className="viewcounter">
     
       <div className="post-date no-margin">
-        <span> · by 💎Gem ·</span>
+        <span>by 🐝Mr. Bee Osn ·</span>
       </div>
 
       <div className="eye-icon no-margin">

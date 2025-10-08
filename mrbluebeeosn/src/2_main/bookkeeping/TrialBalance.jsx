@@ -122,12 +122,10 @@ export default function TrialBalance() {
 
       </ul>
 
-    <p className="margin-top-50 text-small">February 28, 2024 · by 💎Gem ·</p>
-
-<div className="viewcounter">
+    <div className="viewcounter">
     
       <div className="post-date no-margin">
-        <span> · by 💎Gem ·</span>
+        <span>February 28, 2024 · by 💎Gem ·</span>
       </div>
 
       <div className="eye-icon no-margin">

@@ -123,12 +123,10 @@ export default function Painstakingly2() {
 
     <p className="margin-top-50">Hy vọng những thông tin này hữu ích cho bạn! 🐝</p>
 
-    <p className="margin-top-50 text-small">April 8, 2025 · by 💎Gem ·</p>
-
-<div className="viewcounter">
+    <div className="viewcounter">
     
       <div className="post-date no-margin">
-        <span> · by 💎Gem ·</span>
+        <span>April 8, 2025 · by 💎Gem ·</span>
       </div>
 
       <div className="eye-icon no-margin">
