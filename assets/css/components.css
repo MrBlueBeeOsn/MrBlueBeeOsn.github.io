@@ -580,11 +580,12 @@ td:nth-child(1):hover {
 	padding: 40px;
 	color: #999;
 	font-size: 16px;
-	background: #fff3cd;
+	background: var(--secondary-color);
 	border-radius: 8px;
 }
 
-.results-count {
+.results-count,
+.default-message {
 	color: #666;
 	margin-top: 1rem;
 	margin-bottom: 5.0rem;
@@ -631,16 +632,47 @@ td:nth-child(1):hover {
 	margin-bottom: 1.5rem;
 }
 
+.pagination {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+  margin-top: 20px;
+}
+
+.pagination-btn {
+  padding: 8px 16px;
+  border: 1px solid var(--tertiary-color);
+  background: var(--tertiary-color);
+  cursor: pointer;
+  border-radius: 4px;
+	font-family: Bellota, sans-serif;
+}
+
+.pagination-btn:hover:not(:disabled) {
+  background: var(--tertiary-color);
+}
+
+.pagination-btn:disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+}
+
+.pagination-btn.active {
+  background: var(--tertiary-color);
+  color: white;
+  border-color: var(--tertiary-color);
+}
+
 /* =============================
    Topic
 ============================= */
 
 .topic-container {
-	background-color: rgba(245, 245, 245, 0.5);
-	border-radius: 2px;
-	box-shadow: 0 2px 4px rgba(0, 0, 0, 0.15);
-	padding: 0.5rem;
-	overflow: hidden;
+    background-color: rgba(245, 245, 245, 0.5);
+    border-radius: 2px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.15);
+    padding: 0.5rem;
+    overflow: hidden;
 }
 
 .flex-topic {
@@ -649,7 +681,7 @@ td:nth-child(1):hover {
 	justify-items: center;
 	align-items: center;
 	flex-wrap: wrap;
-	justify-content: space-evenly;
+    justify-content: space-evenly;
 }
 
 /* =============================
@@ -689,8 +721,8 @@ td:nth-child(1):hover {
 
 .sub-box ul,
 .sub-box-fix ul {
-	list-style-position: outside;
-	padding-left: 30px;
+		list-style-position: outside;
+		padding-left: 30px;
 }
 
 .sub-box li,
