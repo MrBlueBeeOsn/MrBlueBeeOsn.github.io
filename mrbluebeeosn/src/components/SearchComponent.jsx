@@ -1,36 +1,66 @@
 import React, { useState, useEffect } from 'react';
 import { Link } from 'react-router-dom';
 import SearchBar from './SearchBar';
+import dbData from '../data/db.json';
 
 export default function SearchComponent() {
   const [allPosts, setAllPosts] = useState([]);
   const [displayedPosts, setDisplayedPosts] = useState([]);
   const [hasSearched, setHasSearched] = useState(false);
-  const [loading, setLoading] = useState(true);
+  const [loading, setLoading] = useState(false); // ❌ ĐỔI THÀNH false
   const [error, setError] = useState(null);
   
   // State phân trang
   const [currentPage, setCurrentPage] = useState(1);
-  const [postsPerPage] = useState(5); // 5 bài mỗi trang
+  const [postsPerPage] = useState(5);
 
   useEffect(() => {
-    fetch('/posts')
-      .then(response => response.json())
-      .then(posts => {
-        setAllPosts(posts);
-        setLoading(false);
+    // ⚡ HIỂN THỊ NGAY với file local (không loading)
+    console.log('📁 Hiển thị ngay với file local...');
+    setAllPosts(dbData.posts || []);
+    
+    // 🔄 SYNC với API trong background
+    console.log('🔄 Đang sync với API...');
+    fetch('http://localhost:3003/posts')
+      .then(response => {
+        console.log('📡 Response status:', response.status);
+        
+        if (!response.ok) {
+          throw new Error(`HTTP ${response.status}`);
+        }
+        
+        const contentType = response.headers.get('content-type');
+        if (!contentType || !contentType.includes('application/json')) {
+          throw new Error(`Expected JSON but got: ${contentType}`);
+        }
+        
+        return response.text();
+      })
+      .then(text => {
+        console.log('📄 Raw response:', text.substring(0, 200));
+        
+        try {
+          const apiPosts = JSON.parse(text);
+          console.log('✅ Sync API thành công:', apiPosts.length, 'posts');
+          
+          // Chỉ update nếu data khác (tránh re-render không cần thiết)
+          if (JSON.stringify(apiPosts) !== JSON.stringify(dbData.posts)) {
+            setAllPosts(apiPosts);
+            console.log('🔄 Đã cập nhật data từ API');
+          }
+        } catch (parseError) {
+          console.error('❌ Lỗi parse JSON:', parseError);
+        }
       })
       .catch(error => {
-        console.error('Lỗi:', error);
-        setError('Không thể tải dữ liệu.');
-        setLoading(false);
+        console.log('❌ Sync API thất bại, giữ data local:', error.message);
       });
   }, []);
 
   const handleSearchResults = (results) => {
     setDisplayedPosts(results);
     setHasSearched(true);
-    setCurrentPage(1); // Reset về trang 1 khi search mới
+    setCurrentPage(1);
   };
 
   // Tính toán posts cho trang hiện tại
@@ -42,7 +72,7 @@ export default function SearchComponent() {
   // Chuyển trang
   const paginate = (pageNumber) => setCurrentPage(pageNumber);
 
-  if (loading) return <div className="loading">Đang tải dữ liệu...</div>;
+  // ❌ XOÁ loading check - luôn hiển thị content ngay
   if (error) return <div className="error">{error}</div>;
 
   return (
@@ -105,6 +135,7 @@ export default function SearchComponent() {
         ) : (
           <div className="default-message">
             <p>Nhập từ khoá để tìm kiếm bài viết...</p>
+            {/* <p><small>Đang hiển thị {allPosts.length} bài viết từ {dbData.posts === allPosts ? 'file local' : 'API'}</small></p> */}
           </div>
         )}
       </div>

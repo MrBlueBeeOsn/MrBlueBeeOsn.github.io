@@ -8,5 +8,13 @@ export default defineConfig({
   build: {
     outDir: 'dist',
     assetsDir: 'assets'
+  },
+  server: {
+    proxy: {
+      '/posts': {
+        target: 'http://localhost:3003',  // 👈 Port 3003
+        changeOrigin: true,
+      }
+    }
   }
 })

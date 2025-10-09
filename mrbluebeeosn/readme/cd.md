@@ -28,6 +28,7 @@ node update-likes.js
 npm install -g json-server
 npm run db:server
 json-server --watch src/data/db.json --port 3001
+npx json-server src/data/db.json --port 3001
 
 Bash
 cd /D/Github/Black/MrBlackBeeOsn.github.io/mrblackbeeosn

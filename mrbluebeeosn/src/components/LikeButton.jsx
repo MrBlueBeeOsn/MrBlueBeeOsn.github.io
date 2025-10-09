@@ -15,7 +15,7 @@ export default function LikeButton({ postId }) {
 
   useEffect(() => {
     // Lấy likes từ server
-    fetch(`http://localhost:3001/posts/${postId}`)
+    fetch(`http://localhost:3003/posts/${postId}`)
       .then(response => response.json())
       .then(post => {
         setLikes(post.likes || 0);
@@ -37,7 +37,7 @@ export default function LikeButton({ postId }) {
     const newIsLiked = !isLiked;
     
     // Update server
-    fetch(`http://localhost:3001/posts/${postId}`, {
+    fetch(`http://localhost:3003/posts/${postId}`, {
       method: 'PATCH',
       headers: { 'Content-Type': 'application/json' },
       body: JSON.stringify({ 
