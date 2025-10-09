@@ -1,6 +1,6 @@
 import { Link } from "react-router-dom";
 import { HashLink } from 'react-router-hash-link';
-import Blog from '/src/components/Blog';
+import SearchComponent from '/src/components/SearchComponent';
 import EyeIcon from '/src/components/EyeIcon';
 import ViewCounter from '/src/components/ViewCounter';
 import LikeButton from '/src/components/LikeButton';
@@ -23,7 +23,7 @@ export default function SearchingAndClickableDictionary() {
     
       <div className="text-border1 padding-20">
 
-        <Blog />
+        <SearchComponent />
 
         <div  className="flex-container">
 
