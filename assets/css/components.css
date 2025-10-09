@@ -788,6 +788,8 @@ td:nth-child(1):hover {
 	border: none;
 	background-color: transparent;
 	color: #666;
+	-webkit-tap-highlight-color: transparent; /* iOS Safari & Chrome */
+	-webkit-focus-ring-color: transparent;    /* Safari */
 }
 
 /* .like-button.animating {
@@ -818,7 +820,6 @@ td:nth-child(1):hover {
 		align-items: center;
 		font-family: 'Bellota Text', sans-serif;
 		font-size: 1.4rem;
-
 }
 
 @keyframes heartBeat {
