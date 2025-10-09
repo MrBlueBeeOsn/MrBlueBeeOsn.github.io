@@ -8,7 +8,6 @@ export default function LikeButton({ postId }) {
   const [isAnimating, setIsAnimating] = useState(false);
   const [loading, setLoading] = useState(true);
 
-  // Format số lượng hearts
   const formatLikesText = (count) => {
     return count === 1 ? `${count} heart` : `${count} hearts`;
   };
@@ -36,7 +35,16 @@ export default function LikeButton({ postId }) {
     const newLikes = isLiked ? likes - 1 : likes + 1;
     const newIsLiked = !isLiked;
     
-    // Update server
+    // ⚡ UPDATE UI NGAY LẬP TỨC (không chờ server)
+    setLikes(newLikes);
+    setIsLiked(newIsLiked);
+    setIsAnimating(true);
+    
+    // ✅ LUÔN lưu localStorage ngay
+    localStorage.setItem(`post-${postId}-likes`, newLikes.toString());
+    localStorage.setItem(`post-${postId}-isLiked`, JSON.stringify(newIsLiked));
+    
+    // 🔄 SYNC với server trong background (không block UI)
     fetch(`http://localhost:3003/posts/${postId}`, {
       method: 'PATCH',
       headers: { 'Content-Type': 'application/json' },
@@ -46,25 +54,15 @@ export default function LikeButton({ postId }) {
     })
     .then(response => response.json())
     .then(updatedPost => {
-      setLikes(updatedPost.likes);
-      setIsLiked(newIsLiked);
-      setIsAnimating(true);
-      
-      // Vẫn lưu localStorage để chống spam
-      localStorage.setItem(`post-${postId}-isLiked`, JSON.stringify(newIsLiked));
-      
-      setTimeout(() => setIsAnimating(false), 300);
+      console.log('✅ Đã sync likes với server:', updatedPost.likes);
+      // Có thể sync lại nếu cần: setLikes(updatedPost.likes);
     })
     .catch(error => {
-      console.error('Lỗi khi update likes:', error);
-      // Fallback: dùng localStorage
-      setLikes(newLikes);
-      setIsLiked(newIsLiked);
-      setIsAnimating(true);
-      localStorage.setItem(`post-${postId}-likes`, newLikes.toString());
-      localStorage.setItem(`post-${postId}-isLiked`, JSON.stringify(newIsLiked));
-      setTimeout(() => setIsAnimating(false), 300);
+      console.error('❌ Lỗi sync với server:', error);
+      // Không cần làm gì - UI đã update rồi
     });
+    
+    setTimeout(() => setIsAnimating(false), 300);
   };
 
   if (loading) {
