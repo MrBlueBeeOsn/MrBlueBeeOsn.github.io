@@ -317,7 +317,7 @@ export default function DichCauHoiTiengAnh() {
 
 				<li>Động từ chính (như  <strong>is </strong>,  <strong>are </strong>,  <strong>am </strong> trong vai trò động từ  <strong>to be </strong>, hoặc các động từ hành động như  <strong>run </strong>,  <strong>solve </strong>) mang ý nghĩa chính và được dịch rõ ràng.</li>
 
-				<li>Trong các câu hỏi như (What is) English?, is là động từ chính, không phải trợ động từ.</li>
+				<li>Trong các câu hỏi như (<strong>What is</strong>) <strong>English</strong>?, <strong>is</strong> là động từ chính, không phải trợ động từ.</li>
 
 			</ul>
 
