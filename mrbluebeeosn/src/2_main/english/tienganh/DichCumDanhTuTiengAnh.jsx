@@ -22,6 +22,9 @@ export default function DichCumDanhTuTiengAnh() {
       <sup><HashLink smooth to="/tieng-anh/huong-dan-dich-cum-dong-tu-tieng-anh">&nbsp;2&nbsp;</HashLink>
       </sup>
 
+			<sup><HashLink smooth to="/tieng-anh/huong-dan-dich-cau-hoi-tieng-anh">&nbsp;3&nbsp;</HashLink>
+      </sup>
+
 		</h2>
 
 		{/* This is the content of English Learning Term. */}

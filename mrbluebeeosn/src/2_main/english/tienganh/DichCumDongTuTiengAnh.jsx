@@ -17,10 +17,13 @@ export default function DichCumDongTuTiengAnh() {
 		<h2 className="margin-y-50 text-center">Hướng Dẫn Dịch Cụm Động Từ Tiếng Anh
 
 			<sup><HashLink smooth to="/tieng-anh/huong-dan-dich-cum-danh-tu-tieng-anh">&nbsp;1&nbsp;</HashLink>
-			</sup>
+      </sup>
+			
+      <sup><HashLink smooth to="/tieng-anh/huong-dan-dich-cum-dong-tu-tieng-anh">&nbsp;2&nbsp;</HashLink>
+      </sup>
 
-			<sup><HashLink smooth to="/tieng-anh/huong-dan-dich-cum-dong-tu-tieng-anh">&nbsp;2&nbsp;</HashLink>
-			</sup>
+			<sup><HashLink smooth to="/tieng-anh/huong-dan-dich-cau-hoi-tieng-anh">&nbsp;3&nbsp;</HashLink>
+      </sup>
 
 		</h2>
 
@@ -59,7 +62,7 @@ export default function DichCumDongTuTiengAnh() {
 		<p>Để dịch cụm động từ tiếng Anh sang tiếng Việt, bạn có thể thực hiện theo các bước sau:</p>
 
 		{/* =============================
-				Bước 1: Xác định danh từ chính
+				Bước 1: Xác định động từ chính
 		============================= */}
 
 		<div className="margin-y-15 text-border1 table-container">
@@ -79,7 +82,7 @@ export default function DichCumDongTuTiengAnh() {
 		</div>
 
 		{/* =============================
-				Bước 2: Đặt các tính từ hoặc danh từ ghép vào dấu ngoặc đơn
+				Bước 2: Đặt các trạng từ hoặc bổ ngữ vào dấu ngoặc đơn
 		============================= */}
 
 		<div className="margin-y-15 text-border1 table-container">
@@ -99,7 +102,7 @@ export default function DichCumDongTuTiengAnh() {
 		</div>
 
 		{/* =============================
-				Bước 3: Dịch danh từ trước
+				Bước 3: Dịch động từ trước
 		============================= */}
 
 		<div className="margin-y-15 text-border1 table-container">
@@ -113,7 +116,7 @@ export default function DichCumDongTuTiengAnh() {
 		</div>
 
 		{/* =============================
-				Bước 4: Dịch các tính từ hoặc danh từ ghép từ phải sang trái
+				Bước 4: Dịch các trạng từ hoặc bổ ngữ từ phải sang trái
 		============================= */}
 
 		<div className="margin-y-15 text-border1 table-container">

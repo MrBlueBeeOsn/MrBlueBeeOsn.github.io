@@ -58,6 +58,7 @@ const Posts = lazy(() => import('./data/Posts'))
   const NguyenAmDoi = lazy(() => import('./2_main/english/tienganh/NguyenAmDoi'))
   const DichCumDanhTuTiengAnh = lazy(() => import('./2_main/english/tienganh/DichCumDanhTuTiengAnh'))
   const DichCumDongTuTiengAnh = lazy(() => import('./2_main/english/tienganh/DichCumDongTuTiengAnh'))
+  const DichCauHoiTiengAnh = lazy(() => import('./2_main/english/tienganh/DichCauHoiTiengAnh'))
   
   // 5. Vocabulary - Tính chính xác
   const VocabularyIndex = lazy(() => import('./2_main/english/_indexes/VocabularyIndex'))
@@ -144,6 +145,7 @@ export default function AppRoutes() {
           <Route path="/tieng-anh/nguyen-am-doi" element={<NguyenAmDoi />} />
           <Route path="/tieng-anh/huong-dan-dich-cum-danh-tu-tieng-anh" element={<DichCumDanhTuTiengAnh />} />
           <Route path="/tieng-anh/huong-dan-dich-cum-dong-tu-tieng-anh" element={<DichCumDongTuTiengAnh />} />
+          <Route path="/tieng-anh/huong-dan-dich-cau-hoi-tieng-anh" element={<DichCauHoiTiengAnh />} />
 
           {/* 5. Vocabulary - Tính chính xác */}
           <Route path="/vocabulary" element={<VocabularyIndex />} />
