@@ -67,9 +67,9 @@ export default function DichCauHoiTiengAnh() {
 
 			<ul className="list-square">
 
-				<li><strong>Từ để hỏi</strong> (<strong>question word</strong>): Như what, who, where, when, why, how, đứng đầu câu để hỏi về thông tin cụ thể.</li>
+				<li><strong>Từ để hỏi</strong> (<strong>question word</strong>): Như <strong>what</strong>, <strong>who</strong>, <strong>where</strong>, <strong>when</strong>, <strong>why</strong>, <strong>how</strong>, đứng đầu câu để hỏi về thông tin cụ thể.</li>
 
-				<li><strong>Trợ động từ</strong> (<strong>auxiliary verb</strong>): Như do, does, did, will, can, hỗ trợ cấu trúc ngữ pháp của câu hỏi, thường xuất hiện trong các câu hỏi có động từ hành động. Trong một số trường hợp, như câu hỏi với động từ to be (is, are, am), không có trợ động từ mà to be đóng vai trò là động từ chính.</li>
+				<li><strong>Trợ động từ</strong> (<strong>auxiliary verb</strong>): Như <strong>do</strong>, <strong>does</strong>, <strong>did</strong>, <strong>will</strong>, <strong>can</strong>, hỗ trợ cấu trúc ngữ pháp của câu hỏi, thường xuất hiện trong các câu hỏi có động từ hành động. Trong một số trường hợp, như câu hỏi với động từ <strong>to be</strong> (is, are, am), không có trợ động từ mà <strong>to be</strong> đóng vai trò là động từ chính.</li>
 
 				<li><strong>Chủ ngữ</strong> (<strong>subject</strong>): Thành phần thực hiện hành động, đứng sau từ để hỏi và trợ động từ (hoặc động từ chính nếu không có trợ động từ).</li>
 
@@ -81,17 +81,17 @@ export default function DichCauHoiTiengAnh() {
 		
 		<h4 className="margin-y-50 text-center">Ví dụ:</h4>
 			
-			<p className="margin-top-20">Trong câu What is English?, ta có:</p>
+			<p className="margin-top-20">Trong câu <strong>What is English</strong>?, ta có:</p>
 
 				<ul className="list-square">
 
 					<li>Từ để hỏi: <strong>What</strong>.</li>
 
-					<li>Động từ chính: is (động từ to be, không có trợ động từ).</li>
+					<li>Động từ chính: <strong>is</strong> (động từ <strong>to be</strong>, không có trợ động từ).</li>
 					
 					<li>Chủ ngữ: <strong>English</strong>.</li>
 
-					<li>Khi đặt vào ngoặc đơn, ta có: (What is) English?</li>
+					<li>Khi đặt vào ngoặc đơn, ta có: (<strong>What is</strong>) <strong>English</strong>?</li>
 
 				</ul>
 
