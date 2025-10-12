@@ -218,7 +218,7 @@ export default function DichCumDongTuTiengAnh() {
 		<div className="viewcounter">
 		
 			<div className="post-date no-margin">
-				<span>October 06, 2025 · by Grok ·</span>
+				<span>October 06, 2025 · by 🐝Mr. Bee Osn and Grok ·</span>
 			</div>
 
 			<div className="eye-icon no-margin">
