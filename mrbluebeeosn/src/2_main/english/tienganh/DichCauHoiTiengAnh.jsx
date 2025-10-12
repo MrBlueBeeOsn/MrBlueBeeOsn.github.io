@@ -29,7 +29,7 @@ export default function DichCauHoiTiengAnh() {
 
 		{/* This is the content of English Learning Term. */}
 
-		<p>Trong tiếng Anh, câu hỏi (question sentences) thường có cấu trúc đặc biệt, với từ để hỏi (question word) và trợ động từ (nếu có) đứng đầu, theo sau là chủ ngữ, động từ chính, và các bổ ngữ hoặc trạng từ. Khác với tiếng Việt, nơi chủ ngữ thường đứng trước và từ để hỏi nằm ở cuối câu, việc dịch câu hỏi tiếng Anh sang tiếng Việt đòi hỏi sự sắp xếp lại các thành phần để đảm bảo câu văn tự nhiên và đúng ngữ pháp. Để dịch chính xác, bạn có thể áp dụng nguyên tắc "<strong>chủ ngữ dịch trước</strong>, <strong>trợ động từ</strong> (<strong>nếu có</strong>) và động từ chính <strong>dịch sau</strong>, <strong>tiếp đến là bổ nghĩa</strong>, <strong>cuối cùng là từ để hỏi</strong>", đồng thời đặt từ để hỏi và trợ động từ (hoặc động từ chính nếu không có trợ động từ) vào dấu ngoặc đơn để dễ nhận diện. Bài viết này sẽ hướng dẫn chi tiết cách thực hiện phương pháp này.</p>
+		<p>Trong tiếng Anh, câu hỏi (question sentences) thường có cấu trúc đặc biệt, với từ để hỏi (question word) và trợ động từ (nếu có) đứng đầu, theo sau là chủ ngữ, động từ chính, và các bổ ngữ hoặc trạng từ. Khác với tiếng Việt, nơi chủ ngữ thường đứng trước và từ để hỏi nằm ở cuối câu, việc dịch câu hỏi tiếng Anh sang tiếng Việt đòi hỏi sự sắp xếp lại các thành phần để đảm bảo câu văn tự nhiên và đúng ngữ pháp. Để dịch chính xác, bạn có thể áp dụng nguyên tắc "<strong>chủ ngữ dịch trước</strong>, <strong>trợ động từ</strong> (<strong>nếu có</strong>) <strong>và động từ chính dịch sau</strong>, <strong>tiếp đến là các bổ nghĩa hoặc trạng từ</strong>, <strong>cuối cùng là từ để hỏi</strong>", đồng thời đặt từ để hỏi và trợ động từ (hoặc động từ chính nếu không có trợ động từ) vào dấu ngoặc đơn để dễ nhận diện. Bài viết này sẽ hướng dẫn chi tiết cách thực hiện phương pháp này.</p>
 
 			<p className="margin-top-50 text-center">
 
@@ -45,7 +45,7 @@ export default function DichCauHoiTiengAnh() {
 
 				<span className="highlight-238-padding-4-8 text-border1">
 
-					<span className="highlight-255-padding-0-4">Trợ động từ - Động từ chính - Trạng từ/Bổ ngữ</span> Dịch Sau
+					<span className="highlight-255-padding-0-4">Trợ động từ - Động từ chính - Bổ ngữ/Trạng từ</span> Dịch Sau
 
 				</span>
 
@@ -61,7 +61,7 @@ export default function DichCauHoiTiengAnh() {
 
 			</p>
 
-		<h4 className="margin-y-30">1. Cấu trúc của câu hỏi trong tiếng Anh</h4>
+		<h4 className="margin-top-30 margin-bottom-50 text-center">1. Cấu trúc của câu hỏi trong tiếng Anh</h4>
 		
 		<p>Một câu hỏi tiếng Anh thường bao gồm:</p>
 
@@ -97,7 +97,7 @@ export default function DichCauHoiTiengAnh() {
 
 		<p className="margin-top-20">Khi dịch sang tiếng Việt, cấu trúc này được đảo ngược để chủ ngữ đứng trước, tiếp theo là động từ chính, các bổ ngữ hoặc trạng từ, và cuối cùng là từ để hỏi.</p>
 
-		<h4 className="margin-y-30">2. Các bước dịch câu hỏi</h4>
+		<h4 className="margin-y-50 text-center">2. Các bước dịch câu hỏi</h4>
 
 		<p>Để dịch câu hỏi tiếng Anh sang tiếng Việt, bạn có thể thực hiện theo các bước sau:</p>
 
@@ -110,8 +110,20 @@ export default function DichCauHoiTiengAnh() {
 			<h4 className="margin-y-50 text-center">Bước 1: Xác định các thành phần chính</h4>
 
 			<p>Xác định từ để hỏi, trợ động từ (nếu có), động từ chính, chủ ngữ, và các bổ ngữ hoặc trạng từ.</p>
+
+			<p className="margin-top-20">Ví dụ: <strong>What is English</strong>?</p>
+
+				<ul className="list-square">
+
+					<li>Từ để hỏi: <strong>What</strong>.</li>
+					
+					<li>Động từ chính: <strong>is</strong> (không có trợ động từ).</li>
+
+					<li>Chủ ngữ: <strong>English</strong>.</li>
+
+				</ul>
 			
-			<p className="margin-top-20">Ví dụ: <strong>Where does she live now</strong>?</p>
+			<p className="margin-top-20">Ví dụ khác: <strong>Where does she live now</strong>?</p>
 
 				<ul className="list-square">
 
@@ -124,18 +136,6 @@ export default function DichCauHoiTiengAnh() {
 					<li>Động từ chính: <strong>live</strong>.</li>
 
 					<li>Trạng từ: <strong>now</strong>.</li>
-
-				</ul>
-
-				<p className="margin-top-20">Ví dụ khác: <strong>What is English</strong>?</p>
-
-				<ul className="list-square">
-
-					<li>Từ để hỏi: <strong>What</strong>.</li>
-					
-					<li>Động từ chính: <strong>is</strong> (không có trợ động từ).</li>
-
-					<li>Chủ ngữ: <strong>English</strong>.</li>
 
 				</ul>
 
@@ -153,9 +153,9 @@ export default function DichCauHoiTiengAnh() {
 
 				<ul className="list-square">
 
-					<li>Ví dụ: Trong Where does she live now?, ta có: (<strong>Where does</strong>) <strong>she live now</strong>?</li>
+					<li>Ví dụ: Trong What is English?, ta có: (<strong>What is</strong>) <strong>English</strong>?</li>
 
-					<li>Ví dụ khác: Trong What is English?, ta có: (<strong>What is</strong>) <strong>English</strong>?</li>
+					<li>Ví dụ khác: Trong Where does she live now?, ta có: (<strong>Where does</strong>) <strong>she live now</strong>?</li>
 
 				</ul>
 
@@ -173,9 +173,9 @@ export default function DichCauHoiTiengAnh() {
 
 				<ul className="list-square">
 
-					<li>Ví dụ: <strong>she</strong> → cô ấy (trong ( <strong>Where does </strong>)  <strong>she live now </strong>?).</li>
+					<li>Ví dụ: <strong>English</strong> → tiếng Anh (trong (<strong>What is</strong>) <strong>English </strong>?).</li>
 
-					<li>Ví dụ: <strong>English</strong> → tiếng Anh (trong ( <strong>What is </strong>)  <strong>English </strong>?).</li>
+					<li>Ví dụ: <strong>she</strong> → cô ấy (trong (<strong>Where does</strong>) <strong>she live now </strong>?).</li>
 
 				</ul>
 
@@ -191,6 +191,16 @@ export default function DichCauHoiTiengAnh() {
 
 			<p>Dịch trợ động từ (nếu có), động từ chính, và các bổ ngữ hoặc trạng từ theo thứ tự từ trái sang phải, vì chúng thường giữ nguyên thứ tự trong tiếng Việt.</p>
 
+			<p className="margin-top-20">Ví dụ: Trong (<strong>What is</strong>) <strong>English </strong>?</p>
+
+				<ul className="list-square">
+
+					<li>Động từ chính: <strong>is</strong> → là.</li>
+
+					<li>Kết quả tạm thời: tiếng Anh là.</li>
+
+				</ul>
+
 			<p className="margin-top-20">Ví dụ: Trong (<strong>Where does</strong>) <strong>she live now </strong>?</p>
 
 				<ul className="list-square">
@@ -202,16 +212,6 @@ export default function DichCauHoiTiengAnh() {
 					<li>Trạng từ: <strong>now</strong> → bây giờ.</li>
 
 					<li>Kết quả tạm thời: cô ấy sống bây giờ.</li>
-
-				</ul>
-
-				<p className="margin-top-20">Ví dụ: Trong (<strong>What is</strong>) <strong>English </strong>?</p>
-
-				<ul className="list-square">
-
-					<li>Động từ chính: <strong>is</strong> → là.</li>
-
-					<li>Kết quả tạm thời: tiếng Anh là.</li>
 
 				</ul>
 
@@ -227,6 +227,16 @@ export default function DichCauHoiTiengAnh() {
 
 			<p>Dịch từ để hỏi từ trong ngoặc đơn và đặt nó ở cuối câu để phù hợp với cấu trúc tiếng Việt.</p>
 
+			<p className="margin-top-20">Ví dụ: Trong (<strong>What is</strong>) <strong>English </strong>?</p>
+
+				<ul className="list-square">
+
+					<li>Từ để hỏi: <strong>What</strong> → gì.</li>
+
+					<li>Kết quả hoàn chỉnh: Tiếng Anh là gì?</li>
+
+				</ul>
+
 			<p className="margin-top-20">Ví dụ: Trong (<strong>Where does</strong>) <strong>she live now</strong>?</p>
 
 				<ul className="list-square">
@@ -234,16 +244,6 @@ export default function DichCauHoiTiengAnh() {
 					<li>Từ để hỏi: <strong>Where</strong> → ở đâu.</li>
 
 					<li>Kết quả hoàn chỉnh: Cô ấy sống bây giờ ở đâu? (hoặc tự nhiên hơn: Cô ấy sống ở đâu bây giờ?).</li>
-
-				</ul>
-
-			<p className="margin-top-20">Ví dụ: Trong ( <strong>What is</strong>) <strong>English </strong>?</p>
-
-				<ul className="list-square">
-
-					<li>Từ để hỏi: <strong>What</strong> → gì.</li>
-
-					<li>Kết quả hoàn chỉnh: Tiếng Anh là gì?</li>
 
 				</ul>
 
@@ -331,7 +331,7 @@ export default function DichCauHoiTiengAnh() {
 
 		<h4 className="margin-y-50 text-center">5. Kết luận</h4>
 		
-		<p>Phương pháp dịch câu hỏi tiếng Anh theo nguyên tắc "<strong>chủ ngữ dịch trước</strong>, <strong>trợ động từ</strong> (<strong>nếu có</strong>) và động từ chính <strong>dịch sau</strong>, <strong>tiếp đến là bổ nghĩa</strong>, <strong>cuối cùng là từ để hỏi</strong>", kết hợp với việc đặt từ để hỏi và trợ động từ/động từ chính vào dấu ngoặc đơn trong cấu trúc (từ để hỏi trợ động từ/động từ chính) chủ ngữ động từ bổ ngữ, giúp người học dễ dàng nhận diện và sắp xếp các thành phần. Bằng cách xác định chủ ngữ trước, dịch động từ chính và bổ ngữ, rồi đặt từ để hỏi ở cuối, bạn có thể tạo ra câu văn tiếng Việt tự nhiên và đúng ngữ pháp. Thực hành thường xuyên với các ví dụ cụ thể sẽ giúp bạn nắm vững kỹ năng này.</p>
+		<p>Phương pháp dịch câu hỏi tiếng Anh theo nguyên tắc "<strong>chủ ngữ dịch trước</strong>, <strong>trợ động từ</strong> (<strong>nếu có</strong>) <strong>và động từ chính dịch sau</strong>, <strong>tiếp đến là các bổ nghĩa hoặc trạng từ</strong>, <strong>cuối cùng là từ để hỏi</strong>", kết hợp với việc đặt từ để hỏi và trợ động từ/động từ chính vào dấu ngoặc đơn giúp người học dễ dàng nhận diện và sắp xếp các thành phần. Bằng cách xác định đó, bạn có thể tạo ra câu văn tiếng Việt tự nhiên và đúng ngữ pháp. Thực hành thường xuyên với các ví dụ cụ thể sẽ giúp bạn nắm vững kỹ năng này.</p>
 
 		<div className="viewcounter">
 		

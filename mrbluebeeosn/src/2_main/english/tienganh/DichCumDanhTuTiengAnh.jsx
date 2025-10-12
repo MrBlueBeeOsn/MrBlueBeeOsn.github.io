@@ -41,7 +41,7 @@ export default function DichCumDanhTuTiengAnh() {
 
 			</p>
 
-		<h4 className="margin-y-30">1. Cấu trúc của cụm danh từ trong tiếng Anh</h4>
+		<h4 className="margin-top-30 margin-bottom-50 text-center">1. Cấu trúc của cụm danh từ trong tiếng Anh</h4>
 		
 		<p>Một cụm danh từ tiếng Anh thường bao gồm:</p>
 
@@ -57,7 +57,7 @@ export default function DichCumDanhTuTiengAnh() {
 
 		<p>Khi dịch sang tiếng Việt, cấu trúc này cần được đảo ngược để danh từ đứng trước, còn các tính từ và bổ ngữ đứng sau, với các tính từ hoặc danh từ ghép được nhận diện từ dấu ngoặc đơn.</p>
 
-		<h4 className="margin-y-30">2. Các bước dịch cụm danh từ</h4>
+		<h4 className="margin-y-50 text-center">2. Các bước dịch cụm danh từ</h4>
 
 		<p>Để dịch cụm danh từ tiếng Anh sang tiếng Việt, bạn có thể thực hiện theo các bước sau:</p>
 

@@ -41,7 +41,7 @@ export default function DichCumDongTuTiengAnh() {
 
 			</p>
 
-		<h4 className="margin-y-30">1. Cấu trúc của cụm động từ trong tiếng Anh</h4>
+		<h4 className="margin-top-30 margin-bottom-50 text-center">1. Cấu trúc của cụm động từ trong tiếng Anh</h4>
 		
 		<p>Một cụm động từ tiếng Anh thường bao gồm:</p>
 
@@ -57,7 +57,7 @@ export default function DichCumDongTuTiengAnh() {
 
 		<p>Khi dịch sang tiếng Việt, cấu trúc này cần được đảo ngược để động từ đứng trước, còn các trạng từ và bổ ngữ đứng sau, với các trạng từ hoặc bổ ngữ được nhận diện từ dấu ngoặc đơn.</p>
 
-		<h4 className="margin-y-30">2. Các bước dịch cụm động từ</h4>
+		<h4 className="margin-y-50 text-center">2. Các bước dịch cụm động từ</h4>
 
 		<p>Để dịch cụm động từ tiếng Anh sang tiếng Việt, bạn có thể thực hiện theo các bước sau:</p>
 
