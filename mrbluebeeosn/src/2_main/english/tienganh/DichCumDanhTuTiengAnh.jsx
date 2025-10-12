@@ -29,7 +29,7 @@ export default function DichCumDanhTuTiengAnh() {
 
 		{/* This is the content of English Learning Term. */}
 
-		<p>Trong quá trình học tiếng Anh, việc dịch các cụm danh từ (noun phrases) sang tiếng Việt một cách tự nhiên và đúng ngữ pháp là một thách thức lớn đối với người học. Trong tiếng Anh, tính từ và các bổ ngữ thường đứng trước danh từ chính, ngược lại với tiếng Việt, nơi danh từ đứng trước, còn tính từ và bổ ngữ đứng sau. Để dịch chính xác và tự nhiên, bạn có thể áp dụng nguyên tắc "<strong>danh từ dịch trước</strong>, <strong>tính từ dịch sau</strong>", đồng thời đặt các tính từ hoặc danh từ ghép vào dấu ngoặc đơn trong cấu trúc cụm danh từ để dễ nhớ và xử lý. Bài viết này sẽ hướng dẫn chi tiết cách thực hiện phương pháp này.</p>
+		<p>Trong quá trình học tiếng Anh, việc dịch các cụm danh từ (noun phrases) sang tiếng Việt một cách tự nhiên và đúng ngữ pháp là một thách thức lớn đối với người học. Trong tiếng Anh, tính từ và các bổ ngữ thường đứng trước danh từ chính, ngược lại với tiếng Việt, nơi danh từ đứng trước, còn tính từ và bổ ngữ đứng sau. Để dịch chính xác và tự nhiên, bạn có thể áp dụng nguyên tắc "<strong>Danh Từ dịch trước</strong>, <strong>Tính Từ dịch sau</strong>", đồng thời đặt các tính từ hoặc danh từ ghép vào dấu ngoặc đơn trong cấu trúc cụm danh từ để dễ nhớ và xử lý. Bài viết này sẽ hướng dẫn chi tiết cách thực hiện phương pháp này.</p>
 
 			<p className="margin-y-50 text-center">
 
@@ -209,7 +209,7 @@ export default function DichCumDanhTuTiengAnh() {
 
 		<h4 className="margin-y-50 text-center">5. Kết luận</h4>
 		
-		<p>Phương pháp dịch cụm danh từ tiếng Anh theo nguyên tắc "<strong>danh từ dịch trước</strong>, <strong>tính từ dịch sau</strong>", kết hợp với việc đặt các tính từ và danh từ ghép vào dấu ngoặc đơn trong cấu trúc <strong>a</strong> (<strong>tính từ</strong>) <strong>danh từ</strong>, giúp người học dễ dàng nhận diện và sắp xếp các thành phần bổ nghĩa. Bằng cách xác định danh từ chính trước, đặt các tính từ/danh từ ghép vào ngoặc, và dịch chúng từ phải sang trái, bạn có thể tạo ra câu văn tiếng Việt tự nhiên và đúng ngữ pháp. Thực hành thường xuyên với các ví dụ cụ thể sẽ giúp bạn nắm vững kỹ năng này.</p>
+		<p>Phương pháp dịch cụm danh từ tiếng Anh theo nguyên tắc "<strong>Danh Từ dịch trước</strong>, <strong>Tính Từ dịch sau</strong>", kết hợp với việc đặt các tính từ và danh từ ghép vào dấu ngoặc đơn trong cấu trúc <strong>a</strong> (<strong>tính từ</strong>) <strong>danh từ</strong>, giúp người học dễ dàng nhận diện và sắp xếp các thành phần bổ nghĩa. Bằng cách xác định danh từ chính trước, đặt các tính từ/danh từ ghép vào ngoặc, và dịch chúng từ phải sang trái, bạn có thể tạo ra câu văn tiếng Việt tự nhiên và đúng ngữ pháp. Thực hành thường xuyên với các ví dụ cụ thể sẽ giúp bạn nắm vững kỹ năng này.</p>
 
 		<div className="viewcounter">
 		

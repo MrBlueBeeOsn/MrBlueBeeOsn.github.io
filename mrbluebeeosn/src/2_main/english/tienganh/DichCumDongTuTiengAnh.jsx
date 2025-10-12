@@ -29,7 +29,7 @@ export default function DichCumDongTuTiengAnh() {
 
 		{/* This is the content of English Learning Term. */}
 
-		<p>Trong tiếng Anh, cụm động từ (verb phrases) thường bao gồm động từ chính kết hợp với các trạng từ hoặc bổ ngữ, tạo nên ý nghĩa hoàn chỉnh. Khác với tiếng Việt, nơi trạng từ thường đứng trước động từ, trong tiếng Anh, trạng từ hoặc các bổ ngữ thường đứng sau động từ chính. Để dịch cụm động từ sang tiếng Việt một cách tự nhiên và đúng ngữ pháp, bạn có thể áp dụng nguyên tắc "<strong>động từ dịch trước</strong>, <strong>trạng từ dịch sau</strong>", đồng thời đặt các trạng từ hoặc bổ ngữ vào dấu ngoặc đơn trong cấu trúc cụm động từ để dễ nhận diện và xử lý. Bài viết này sẽ hướng dẫn chi tiết cách thực hiện phương pháp này.</p>
+		<p>Trong tiếng Anh, cụm động từ (verb phrases) thường bao gồm động từ chính kết hợp với các trạng từ hoặc bổ ngữ, tạo nên ý nghĩa hoàn chỉnh. Khác với tiếng Việt, nơi trạng từ thường đứng trước động từ, trong tiếng Anh, trạng từ hoặc các bổ ngữ thường đứng sau động từ chính. Để dịch cụm động từ sang tiếng Việt một cách tự nhiên và đúng ngữ pháp, bạn có thể áp dụng nguyên tắc "<strong>Động Từ dịch trước</strong>, <strong>Trạng Từ dịch sau</strong>", đồng thời đặt các trạng từ hoặc bổ ngữ vào dấu ngoặc đơn trong cấu trúc cụm động từ để dễ nhận diện và xử lý. Bài viết này sẽ hướng dẫn chi tiết cách thực hiện phương pháp này.</p>
 
 			<p className="margin-y-50 text-center">
 
@@ -213,7 +213,7 @@ export default function DichCumDongTuTiengAnh() {
 		
 		<h4 className="margin-y-50 text-center">5. Kết luận</h4>
 		
-		<p>Phương pháp dịch cụm động từ tiếng Anh theo nguyên tắc "<strong>động từ dịch trước</strong>, <strong>trạng từ dịch sau</strong>", kết hợp với việc đặt các trạng từ và bổ ngữ vào dấu ngoặc đơn trong cấu trúc <strong>động từ</strong> (<strong>trạng từ bổ ngữ</strong>), giúp người học dễ dàng nhận diện và sắp xếp các thành phần bổ nghĩa. Bằng cách xác định động từ chính trước, đặt các trạng từ/bổ ngữ vào ngoặc, và dịch chúng từ phải sang trái, bạn có thể tạo ra câu văn tiếng Việt tự nhiên và đúng ngữ pháp. Thực hành thường xuyên với các ví dụ cụ thể sẽ giúp bạn nắm vững kỹ năng này.</p>
+		<p>Phương pháp dịch cụm động từ tiếng Anh theo nguyên tắc "<strong>Động Từ dịch trước</strong>, <strong>Trạng Từ dịch sau</strong>", kết hợp với việc đặt các trạng từ và bổ ngữ vào dấu ngoặc đơn trong cấu trúc <strong>động từ</strong> (<strong>trạng từ bổ ngữ</strong>), giúp người học dễ dàng nhận diện và sắp xếp các thành phần bổ nghĩa. Bằng cách xác định động từ chính trước, đặt các trạng từ/bổ ngữ vào ngoặc, và dịch chúng từ phải sang trái, bạn có thể tạo ra câu văn tiếng Việt tự nhiên và đúng ngữ pháp. Thực hành thường xuyên với các ví dụ cụ thể sẽ giúp bạn nắm vững kỹ năng này.</p>
 
 		<div className="viewcounter">
 		
