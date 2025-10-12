@@ -56,7 +56,7 @@ export default function DichCauHoiTiengAnh() {
 
 			<ul className="list-square">
 
-				<li><strong>hỏi từ</strong> (<strong>question word</strong>): Như <strong>what</strong>, <strong>who</strong>, <strong>where</strong>, <strong>when</strong>, <strong>why</strong>, <strong>how</strong>, đứng đầu câu để hỏi về thông tin cụ thể.</li>
+				<li><strong>Hỏi từ</strong> (<strong>question word</strong>): Như <strong>what</strong>, <strong>who</strong>, <strong>where</strong>, <strong>when</strong>, <strong>why</strong>, <strong>how</strong>, đứng đầu câu để hỏi về thông tin cụ thể.</li>
 
 				<li><strong>Trợ động từ</strong> (<strong>auxiliary verb</strong>): Như <strong>do</strong>, <strong>does</strong>, <strong>did</strong>, <strong>will</strong>, <strong>can</strong>, hỗ trợ cấu trúc ngữ pháp của câu hỏi, thường xuất hiện trong các câu hỏi có động từ hành động. Trong một số trường hợp, như câu hỏi với động từ <strong>to be</strong> (is, are, am), không có trợ động từ mà <strong>to be</strong> đóng vai trò là động từ chính.</li>
 
