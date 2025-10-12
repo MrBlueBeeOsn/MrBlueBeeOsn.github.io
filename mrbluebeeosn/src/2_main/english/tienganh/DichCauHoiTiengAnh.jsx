@@ -98,17 +98,17 @@ export default function DichCauHoiTiengAnh() {
 
 			<h4 className="margin-y-50 text-center">Bước 1: Xác định các thành phần chính</h4>
 
-			<p>Xác định từ để hỏi, trợ động từ (nếu có), động từ chính, chủ ngữ, và các bổ ngữ hoặc trạng từ.</p>
+			<p>Xác định chủ ngữ, trợ động từ (nếu có), động từ chính, các bổ ngữ hoặc trạng từ và từ để hỏi.</p>
 
 			<p className="margin-top-20">Ví dụ: <strong>What is English</strong>?</p>
 
 				<ul className="list-square">
 
-					<li>Từ để hỏi: <strong>What</strong>.</li>
-					
+					<li>Chủ ngữ: <strong>English</strong>.</li>
+
 					<li>Động từ chính: <strong>is</strong> (không có trợ động từ).</li>
 
-					<li>Chủ ngữ: <strong>English</strong>.</li>
+					<li>Từ để hỏi: <strong>What</strong>.</li>
 
 				</ul>
 			
@@ -116,15 +116,15 @@ export default function DichCauHoiTiengAnh() {
 
 				<ul className="list-square">
 
-					<li>Từ để hỏi: <strong>Where</strong>.</li>
+					<li>Chủ ngữ: <strong>she</strong>.</li>
 
 					<li>Trợ động từ: <strong>does</strong>.</li>
-
-					<li>Chủ ngữ: <strong>she</strong>.</li>
 					
 					<li>Động từ chính: <strong>live</strong>.</li>
 
 					<li>Trạng từ: <strong>now</strong>.</li>
+
+					<li>Từ để hỏi: <strong>Where</strong>.</li>
 
 				</ul>
 
