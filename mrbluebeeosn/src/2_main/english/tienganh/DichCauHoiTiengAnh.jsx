@@ -95,7 +95,7 @@ export default function DichCauHoiTiengAnh() {
 
 				</ul>
 
-		<p className="margin-top-20">Khi dịch sang tiếng Việt, cấu trúc này được đảo ngược để chủ ngữ đứng trước, tiếp theo là động từ chính, các bổ ngữ hoặc trạng từ, và cuối cùng là từ để hỏi.</p>
+		<p className="margin-top-20">Khi dịch sang tiếng Việt, cấu trúc này được đảo ngược để chủ ngữ đứng trước, tiếp theo là trợ động từ (nếu có), động từ chính, các bổ ngữ hoặc trạng từ, và cuối cùng là từ để hỏi.</p>
 
 		<h4 className="margin-y-50 text-center">2. Các bước dịch câu hỏi</h4>
 
@@ -243,7 +243,7 @@ export default function DichCauHoiTiengAnh() {
 
 					<li>Từ để hỏi: <strong>Where</strong> → ở đâu.</li>
 
-					<li>Kết quả hoàn chỉnh: Cô ấy sống bây giờ ở đâu? (hoặc tự nhiên hơn: Cô ấy sống ở đâu bây giờ?).</li>
+					<li>Kết quả hoàn chỉnh: Cô ấy sống bây giờ ở đâu?</li>
 
 				</ul>
 
@@ -267,7 +267,7 @@ export default function DichCauHoiTiengAnh() {
 
 				<li>Từ để hỏi: <strong>Why</strong> → tại sao.</li>
 
-				<li>Kết quả: Anh ấy chạy nhanh chóng đến nhà ga tại sao? (tự nhiên hơn: Tại sao anh ấy chạy nhanh đến nhà ga?).</li>
+				<li>Kết quả: Anh ấy chạy nhanh chóng đến nhà ga tại sao?</li>
 
 			</ul>
 		
@@ -303,7 +303,7 @@ export default function DichCauHoiTiengAnh() {
 
 				<li>Từ để hỏi: <strong>When</strong> → khi nào.</li>
 
-				<li>Kết quả: Cô ấy sẽ đến tại sân bay khi nào? (tự nhiên hơn: Cô ấy sẽ đến sân bay khi nào?).</li>
+				<li>Kết quả: Cô ấy sẽ đến tại sân bay khi nào?</li>
 
 			</ul>
 
@@ -313,7 +313,7 @@ export default function DichCauHoiTiengAnh() {
 
 			<ul className="list-square">
 
-				<li>Trợ động từ (như <strong>do</strong>, <strong>does</strong>, <strong>did</strong>, <strong>will</strong>, <strong>can</strong>) hỗ trợ cấu trúc ngữ pháp và thường không dịch trực tiếp mà được thể hiện qua thì hoặc ngữ cảnh.</li>
+				<li>Trợ động từ (như <strong>do</strong>, <strong>does</strong>, <strong>did</strong> hỗ trợ cấu trúc ngữ pháp và thường không dịch trực tiếp mà được thể hiện qua thì hoặc ngữ cảnh.</li>
 
 				<li>Động từ chính (như <strong>is</strong>, <strong>are</strong>, <strong>am</strong> trong vai trò động từ <strong>to be</strong>, hoặc các động từ hành động như <strong>run</strong>, <strong>solve</strong>) mang ý nghĩa chính và được dịch rõ ràng.</li>
 
@@ -321,9 +321,7 @@ export default function DichCauHoiTiengAnh() {
 
 			</ul>
 
-			<p className="margin-top-20"><strong>Cấu trúc câu hỏi</strong>: Câu hỏi tiếng Anh thường có dạng  <strong>từ để hỏi </strong> + <strong>trợ động từ </strong>/ <strong>động từ chính </strong> +  <strong>chủ ngữ </strong> + <strong>bổ ngữ </strong>/ <strong>trạng từ </strong>. Khi đặt vào ngoặc đơn, bạn giữ nguyên từ để hỏi và trợ động từ (hoặc động từ chính) trong (từ để hỏi trợ động từ/động từ chính), nhưng khi dịch, bạn đặt từ để hỏi ở cuối câu.</p>
-
-			<p><strong>Ngữ cảm tự nhiên</strong>: Trong tiếng Việt, thứ tự các thành phần có thể được điều chỉnh để câu văn nghe mượt mà hơn. Ví dụ: (<strong>Where does</strong>) <strong>she live now</strong>? có thể được dịch thành Cô ấy sống ở đâu bây giờ? thay vì Cô ấy sống bây giờ ở đâu? để tự nhiên hơn.</p>
+			<p className="margin-top-20"><strong>Cấu trúc câu hỏi</strong>: Câu hỏi tiếng Anh thường có dạng  <strong>từ để hỏi </strong> + <strong>trợ động từ </strong>/ <strong>động từ chính </strong> +  <strong>chủ ngữ </strong> + <strong>bổ ngữ </strong>/ <strong>trạng từ </strong>. Khi đặt vào ngoặc đơn, bạn giữ nguyên từ để hỏi và trợ động từ (hoặc động từ chính) nhưng khi dịch, bạn đặt từ để hỏi ở cuối câu.</p>
 
 			<p><strong>Bổ ngữ phức tạp</strong>: Với các câu hỏi có bổ ngữ dài (như cụm giới từ hoặc mệnh đề), chỉ đặt từ để hỏi và trợ động từ/động từ chính vào ngoặc đơn, còn các bổ ngữ được dịch sau chủ ngữ và động từ chính theo cách thông thường.</p>
 
