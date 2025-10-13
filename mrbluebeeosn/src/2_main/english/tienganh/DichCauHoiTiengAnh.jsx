@@ -29,7 +29,7 @@ export default function DichCauHoiTiengAnh() {
 
 		{/* This is the content of English Learning Term. */}
 
-		<p>Trong tiếng Anh, câu hỏi (question sentences) thường có cấu trúc đặc biệt, với hỏi từ (question word) và trợ động từ (nếu có) đứng đầu, theo sau là Chủ từ, động từ chính, và các bổ ngữ hoặc trạng từ. Khác với tiếng Việt, nơi Chủ từ thường đứng trước và hỏi từ nằm ở cuối câu, việc dịch câu hỏi tiếng Anh sang tiếng Việt đòi hỏi sự sắp xếp lại các thành phần để đảm bảo câu văn tự nhiên và đúng ngữ pháp. Để dịch chính xác, bạn có thể áp dụng nguyên tắc "<strong>Chủ Từ dịch trước</strong>, <strong>Trợ Động Từ</strong> <strong>dịch sau</strong>, <strong>Hỏi Từ dịch cuối cùng</strong> (<strong>nếu có</strong>)", đồng thời đặt hỏi từ và trợ động từ (hoặc động từ chính nếu không có trợ động từ) vào dấu ngoặc đơn để dễ nhận diện. Bài viết này sẽ hướng dẫn chi tiết cách thực hiện phương pháp này.</p>
+		<p>Trong tiếng Anh, câu hỏi (question sentences) có cấu trúc đặc biệt, với hỏi từ (question word) và trợ động từ (nếu có) đứng đầu, theo sau là chủ từ, động từ chính, và các bổ ngữ hoặc trạng từ. Khác với tiếng Việt, nơi chủ từ thường đứng trước và hỏi từ nằm ở cuối câu, việc dịch câu hỏi tiếng Anh sang tiếng Việt đòi hỏi sắp xếp lại các thành phần để đảm bảo câu văn tự nhiên và đúng ngữ pháp. Để dịch chính xác, bạn có thể áp dụng nguyên tắc "<strong>chủ từ dịch trước</strong>, <strong>trợ động từ dịch sau</strong>, <strong>tiếp đến là động từ chính và các bổ nghĩa</strong>, <strong>cuối cùng mới dịch hỏi từ</strong>", đồng thời đặt hỏi từ trong dấu ngoặc vuông [] để dịch cuối cùng và đặt trợ động từ cùng chủ từ trong dấu ngoặc đơn () để dịch từ phải sang trái. Bài viết này sẽ hướng dẫn chi tiết cách thực hiện phương pháp này.</p>
 
 			<p className="margin-top-50 text-center">
 
@@ -70,21 +70,21 @@ export default function DichCauHoiTiengAnh() {
 		
 		<h4 className="margin-y-50 text-center">Ví dụ:</h4>
 			
-			<p className="margin-top-20">Trong câu <strong>What is English</strong>?, ta có:</p>
+			<p className="margin-top-20">Trong câu [<strong>What</strong>] (<strong>is English</strong>)?, ta có:</p>
 
 				<ul className="list-square">
 
+					<li>Hỏi từ: <strong>What</strong> (trong dấu []).</li>
+
+					<li>Động từ chính: <strong>is</strong> (không có trợ động từ).</li>
+					
 					<li>Chủ từ: <strong>English</strong>.</li>
 
-					<li>Động từ chính: <strong>is</strong> (động từ <strong>to be</strong>, không có trợ động từ).</li>
-					
-					<li>Hỏi từ: <strong>What</strong>.</li>
-
-					<li>Khi đặt vào ngoặc đơn, ta có: (<strong>What is</strong>) <strong>English</strong>?</li>
+					<li>Khi đặt vào dấu ngoặc, ta có: [<strong>What</strong>] (<strong>is English</strong>)?</li>
 
 				</ul>
 
-		<p className="margin-top-20">Khi dịch sang tiếng Việt, cấu trúc này được đảo ngược để Chủ Từ đứng trước, tiếp theo là Trợ Động Từ (nếu có), Động Từ Chính, các Bổ Ngữ hoặc Trạng Từ, và cuối cùng là Hỏi Từ.</p>
+		<p className="margin-top-20">Khi dịch sang tiếng Việt, cấu trúc này được đảo ngược để chủ từ đứng trước, tiếp theo là trợ động từ (nếu có), động từ chính, các bổ ngữ hoặc trạng từ, và cuối cùng là hỏi từ.</p>
 
 		<h4 className="margin-y-50 text-center">2. Các bước dịch câu hỏi</h4>
 
@@ -98,83 +98,83 @@ export default function DichCauHoiTiengAnh() {
 
 			<h4 className="margin-y-50 text-center">Bước 1: Xác định các thành phần chính</h4>
 
-			<p>Xác định chủ từ, trợ động từ (nếu có), động từ chính, các bổ ngữ hoặc trạng từ và hỏi từ.</p>
+			<p>Xác định hỏi từ, trợ động từ (nếu có), động từ chính, chủ từ, và các bổ ngữ hoặc trạng từ.</p>
 
 			<p className="margin-top-20">Ví dụ: <strong>What is English</strong>?</p>
 
 				<ul className="list-square">
 
-					<li>Chủ từ: <strong>English</strong>.</li>
+					<li>Hỏi từ: <strong>What</strong>.</li>
 
 					<li>Động từ chính: <strong>is</strong> (không có trợ động từ).</li>
 
-					<li>Hỏi từ: <strong>What</strong>.</li>
+					<li>Chủ từ: <strong>English</strong>.</li>
 
 				</ul>
 			
-			<p className="margin-top-20">Ví dụ khác: <strong>Where does she live now</strong>?</p>
+			<p className="margin-top-20">Ví dụ khác: [<strong>Where</strong>] (<strong>does she</strong>) <strong>live now</strong>?</p>
 
 				<ul className="list-square">
 
-					<li>Chủ từ: <strong>she</strong>.</li>
+					<li>Hỏi từ: <strong>Where</strong>.</li>
 
 					<li>Trợ động từ: <strong>does</strong>.</li>
 					
+					<li>Chủ từ: <strong>she</strong>.</li>
+
 					<li>Động từ chính: <strong>live</strong>.</li>
 
 					<li>Trạng từ: <strong>now</strong>.</li>
 
-					<li>Hỏi từ: <strong>Where</strong>.</li>
+				</ul>
+
+		</div>
+
+		{/* =============================
+				Bước 2: Đặt hỏi từ trong dấu ngoặc vuông [] và trợ động từ cùng chủ từ trong dấu ngoặc đơn ()
+		============================= */}
+
+		<div className="margin-y-15 text-border1 table-container">
+
+			<h4 className="margin-y-50 text-center">Bước 2: Đặt hỏi từ trong dấu ngoặc vuông [] và trợ động từ cùng chủ từ trong dấu ngoặc đơn ()</h4>
+
+			<p>Đặt hỏi từ trong dấu ngoặc vuông [] để đánh dấu nó sẽ được dịch cuối cùng. Đặt trợ động từ (hoặc động từ chính nếu không có trợ động từ) và chủ từ trong dấu ngoặc đơn () để dịch từ phải sang trái.</p>
+
+				<ul className="list-square">
+
+					<li>Trong What is English?, ta có: [<strong>What</strong>] (<strong>is English</strong>)?</li>
+
+					<li>Trong Where does she live now?, ta có: [<strong>Where</strong>] (<strong>does she</strong>) <strong>live now</strong>?</li>
 
 				</ul>
 
 		</div>
 
 		{/* =============================
-				Bước 2: Đặt hỏi từ và trợ động từ (hoặc động từ chính) vào dấu ngoặc đơn
+				Bước 3: Dịch chủ từ trước
 		============================= */}
 
 		<div className="margin-y-15 text-border1 table-container">
 
-			<h4 className="margin-y-50 text-center">Bước 2: Đặt hỏi từ và trợ động từ (hoặc động từ chính) vào dấu ngoặc đơn</h4>
+			<h4 className="margin-y-50 text-center">Bước 3: Dịch chủ từ trước</h4>
 
-			<p>Đặt hỏi từ và trợ động từ (hoặc động từ chính nếu không có trợ động từ) vào dấu ngoặc đơn trong cấu trúc câu hỏi để dễ nhận diện. Các thành phần này sẽ được dịch sau cùng.</p>
+			<p className="margin-top-20">Dịch chủ từ sang tiếng Việt trước tiên, vì trong tiếng Việt, chủ từ thường đứng đầu câu.</p>
 
-				<ul className="list-square">
-
-					<li>Trong What is English?, ta có: (<strong>What is</strong>) <strong>English</strong>?</li>
-
-					<li>Trong Where does she live now?, ta có: (<strong>Where does</strong>) <strong>she live now</strong>?</li>
-
-				</ul>
-
-		</div>
-
-		{/* =============================
-				Bước 3: Dịch Chủ từ trước
-		============================= */}
-
-		<div className="margin-y-15 text-border1 table-container">
-
-			<h4 className="margin-y-50 text-center">Bước 3: Dịch Chủ từ trước</h4>
-
-			<p className="margin-top-20">Dịch Chủ từ sang tiếng Việt trước tiên, vì trong tiếng Việt, Chủ từ thường đứng đầu câu.</p>
-
-			<p className="margin-top-20">Ví dụ: Trong (<strong>What is</strong>) <strong>English </strong>?</p>
+			<p className="margin-top-20">Ví dụ: Trong [<strong>What</strong>] (<strong>is English</strong>)?</p>
 
 				<ul className="list-square">
 
-					<li>Chủ từ chính: <strong>English</strong> → tiếng Anh</li>
+					<li>Trong dấu ngoặc đơn: <strong>English</strong> → tiếng Anh.</li>
 
 					<li>Kết quả tạm thời: tiếng Anh.</li>
 
 				</ul>
 
-			<p className="margin-top-20">Ví dụ: Trong (<strong>Where does</strong>) <strong>she live now </strong>?</p>
+			<p className="margin-top-20">Ví dụ: Trong [<strong>Where</strong>] (<strong>does she</strong>) <strong>live now</strong>?</p>
 
 				<ul className="list-square">
 
-					<li>Chủ từ chính: <strong>she</strong> → cô ấy</li>
+					<li>Trong dấu ngoặc đơn: <strong>she</strong> → cô ấy.</li>
 
 					<li>Kết quả tạm thời: cô ấy.</li>
 
@@ -190,23 +190,23 @@ export default function DichCauHoiTiengAnh() {
 
 			<h4 className="margin-y-50 text-center">Bước 4: Dịch trợ động từ (nếu có), động từ chính, và các bổ ngữ hoặc trạng từ</h4>
 
-			<p>Dịch trợ động từ (nếu có), động từ chính, và các bổ ngữ hoặc trạng từ theo thứ tự từ trái sang phải, vì chúng thường giữ nguyên thứ tự trong tiếng Việt.</p>
+			<p>Dịch các thành phần trong dấu ngoặc đơn () từ phải sang trái (bắt đầu từ chủ từ, sau đó là trợ động từ hoặc động từ chính), rồi tiếp tục với động từ chính (nếu chưa được dịch) và các bổ ngữ hoặc trạng từ theo thứ tự tự nhiên trong tiếng Việt.</p>
 
-			<p className="margin-top-20">Ví dụ: Trong (<strong>What is</strong>) <strong>English </strong>?</p>
+			<p className="margin-top-20">Ví dụ: Trong [<strong>What</strong>] (<strong>is English</strong>)?</p>
 
 				<ul className="list-square">
 
-					<li>Động từ chính: <strong>is</strong> → là.</li>
+					<li>Trong dấu ngoặc đơn: <strong>English</strong> (tiếng Anh, đã dịch), is → là.</li>
 
 					<li>Kết quả tạm thời: tiếng Anh là.</li>
 
 				</ul>
 
-			<p className="margin-top-20">Ví dụ: Trong (<strong>Where does</strong>) <strong>she live now </strong>?</p>
+			<p className="margin-top-20">Ví dụ: Trong [<strong>Where</strong>] (<strong>does she</strong>) <strong>live now</strong>?</p>
 
 				<ul className="list-square">
 
-					<li>Trợ động từ: <strong>does</strong> (thường không dịch trực tiếp, mà được thể hiện qua ngữ pháp).</li>
+					<li>Trong dấu ngoặc đơn: <strong>she</strong> (cô ấy, đã dịch), does (thường không dịch trực tiếp, thể hiện qua ngữ pháp).</li>
 
 					<li>Động từ chính: <strong>live</strong> → sống.</li>
 
@@ -226,9 +226,9 @@ export default function DichCauHoiTiengAnh() {
 
 			<h4 className="margin-y-50 text-center">Bước 5: Dịch hỏi từ cuối cùng</h4>
 
-			<p>Dịch hỏi từ trong ngoặc đơn và đặt nó ở cuối câu để phù hợp với cấu trúc tiếng Việt.</p>
+			<p>Dịch hỏi từ trong dấu ngoặc vuông [] và đặt nó ở cuối câu để phù hợp với cấu trúc tiếng Việt.</p>
 
-			<p className="margin-top-20">Ví dụ: Trong (<strong>What is</strong>) <strong>English </strong>?</p>
+			<p className="margin-top-20">Ví dụ: Trong [<strong>What</strong>] (<strong>is English</strong>)?</p>
 
 				<ul className="list-square">
 
@@ -244,7 +244,7 @@ export default function DichCauHoiTiengAnh() {
 
 					<li>Hỏi từ: <strong>Where</strong> → ở đâu.</li>
 
-					<li>Kết quả hoàn chỉnh: Cô ấy sống bây giờ ở đâu?</li>
+					<li>Kết quả hoàn chỉnh: Cô ấy sống bây giờ ở đâu? (tự nhiên hơn: Cô ấy sống ở đâu bây giờ?).</li>
 
 				</ul>
 
@@ -252,9 +252,9 @@ export default function DichCauHoiTiengAnh() {
 
 		<h4 className="margin-y-50 text-center">3. Xử lý các câu hỏi phức tạp</h4>
 
-		<p>Khi câu hỏi có bổ ngữ hoặc trạng từ phức tạp hơn, bạn vẫn áp dụng nguyên tắc tương tự, chỉ đặt hỏi từ và trợ động từ (hoặc động từ chính nếu không có trợ động từ) vào dấu ngoặc đơn, còn các thành phần khác được dịch theo thứ tự tự nhiên trong tiếng Việt.</p>
+		<p>Khi câu hỏi có bổ ngữ hoặc trạng từ phức tạp hơn, bạn vẫn áp dụng nguyên tắc tương tự, chỉ đặt hỏi từ trong dấu ngoặc vuông [] và trợ động từ (hoặc động từ chính) cùng chủ từ trong dấu ngoặc đơn (), còn các thành phần khác được dịch theo thứ tự tự nhiên trong tiếng Việt.</p>
 
-		<p className="margin-top-20">Ví dụ 1: (<strong>Why did</strong>) <strong>he run quickly to the station </strong>?</p>
+		<p className="margin-top-20">Ví dụ 1: [<strong>Why</strong>] (<strong>did he</strong>) <strong>run quickly to the station</strong>?</p>
 
 			<ul className="list-square">
 
@@ -268,11 +268,11 @@ export default function DichCauHoiTiengAnh() {
 
 				<li>Hỏi từ: <strong>Why</strong> → tại sao.</li>
 
-				<li>Kết quả: Anh ấy chạy nhanh chóng đến nhà ga tại sao?</li>
+				<li>Kết quả: Anh ấy chạy nhanh chóng đến nhà ga tại sao? (tự nhiên hơn: Tại sao anh ấy chạy nhanh đến nhà ga?).</li>
 
 			</ul>
 		
-		<p className="margin-top-20">Ví dụ 2: (<strong>How can</strong>) <strong>they solve the problem effectively </strong>?</p>
+		<p className="margin-top-20">Ví dụ 2: [<strong>How</strong>] (<strong>can they</strong>) <strong>solve the problem effectively</strong>?</p>
 
 			<ul className="list-square">
 
@@ -290,7 +290,7 @@ export default function DichCauHoiTiengAnh() {
 
 			</ul>
 
-		<p className="margin-top-20">Ví dụ 3: (<strong>When will</strong>) <strong>she arrive at the airport </strong>?</p>
+		<p className="margin-top-20">Ví dụ 3: [<strong>When</strong>] (<strong>will she</strong>) <strong>arrive at the airport</strong>?</p>
 
 			<ul className="list-square">
 
@@ -304,7 +304,7 @@ export default function DichCauHoiTiengAnh() {
 
 				<li>Hỏi từ: <strong>When</strong> → khi nào.</li>
 
-				<li>Kết quả: Cô ấy sẽ đến tại sân bay khi nào?</li>
+				<li>Kết quả: Cô ấy sẽ đến tại sân bay khi nào? (tự nhiên hơn: Cô ấy sẽ đến sân bay khi nào?).</li>
 
 			</ul>
 
@@ -314,23 +314,25 @@ export default function DichCauHoiTiengAnh() {
 
 			<ul className="list-square">
 
-				<li>Trợ động từ (như <strong>do</strong>, <strong>does</strong>, <strong>did</strong> hỗ trợ cấu trúc ngữ pháp và thường không dịch trực tiếp mà được thể hiện qua thì hoặc ngữ cảnh.</li>
+				<li>Trợ động từ (như <strong>do</strong>, <strong>does</strong>, <strong>did</strong>) hỗ trợ cấu trúc ngữ pháp và thường không dịch trực tiếp mà được thể hiện qua thì hoặc ngữ cảnh.</li>
 
 				<li>Động từ chính (như <strong>is</strong>, <strong>are</strong>, <strong>am</strong> trong vai trò động từ <strong>to be</strong>, hoặc các động từ hành động như <strong>run</strong>, <strong>solve</strong>) mang ý nghĩa chính và được dịch rõ ràng.</li>
 
-				<li>Trong các câu hỏi như (<strong>What is</strong>) <strong>English</strong>?, <strong>is</strong> là động từ chính, không phải trợ động từ.</li>
+				<li>Trong các câu hỏi như [<strong>What</strong>] (<strong>is English</strong>)?, <strong>is</strong> là động từ chính, không phải trợ động từ.</li>
 
 			</ul>
 
-			<p className="margin-top-20"><strong>Cấu trúc câu hỏi</strong>: Câu hỏi tiếng Anh thường có dạng  (<strong>Hỏi từ </strong> + <strong>Trợ động từ </strong>) + <strong>Chủ từ </strong> + <strong>Động từ chính </strong> + <strong>Bổ ngữ </strong>/<strong>Trạng từ </strong>. Khi đặt vào dấu ngoặc đơn để dễ nhận diện, khi đó Trợ Động Từ dịch sau và Hỏi Từ dịch ở cuối cùng.</p>
+			<p className="margin-top-20"><strong>Cấu trúc câu hỏi</strong>: Câu hỏi tiếng Anh thường có dạng <strong>hỏi từ</strong> + <strong>trợ động từ</strong>/<strong>động từ chính</strong> + <strong>chủ từ</strong> + <strong>động từ chính</strong> (nếu có) + <strong>bổ ngữ</strong>/<strong>trạng từ</strong>. Khi đặt vào dấu ngoặc, hỏi từ nằm trong dấu [] và trợ động từ cùng chủ từ trong dấu (), nhưng khi dịch, hỏi từ được đặt ở cuối câu.</p>
 
-			<p><strong>Bổ ngữ phức tạp</strong>: Với các câu hỏi có bổ ngữ dài (như cụm giới từ hoặc mệnh đề), chỉ đặt Hỏi Từ và Trợ Động Từ/Động Từ Chính vào ngoặc đơn, còn các bổ ngữ được dịch sau chủ từ và động từ chính theo cách thông thường.</p>
+			<p><strong>Ngữ cảm tự nhiên</strong>: Trong tiếng Việt, thứ tự các thành phần có thể được điều chỉnh để câu văn nghe mượt mà hơn. Ví dụ: [<strong>Where</strong>] (<strong>does she</strong>) <strong>live now</strong>? có thể được dịch thành Cô ấy sống ở đâu bây giờ? thay vì Cô ấy sống bây giờ ở đâu? để tự nhiên hơn.</p>
 
-			<p><strong>Hỏi từ</strong>: Các từ như <strong>what</strong>, <strong>where</strong>, <strong>when</strong>, <strong>why</strong>, <strong>how</strong> thường được dịch cuối cùng và đặt ở vị trí cuối câu để phù hợp với cấu trúc tiếng Việt.</p>
+			<p><strong>Bổ ngữ phức tạp</strong>: Với các câu hỏi có bổ ngữ dài (như cụm giới từ hoặc mệnh đề), chỉ đặt hỏi từ trong [] và trợ động từ/chủ từ trong (), còn các bổ ngữ được dịch sau chủ từ và động từ chính theo cách thông thường.</p>
+
+			<p><strong>Hỏi từ</strong>: Các từ như <strong>what</strong>, <strong>where</strong>, <strong>when</strong>, <strong>why</strong>, <strong>how</strong> được đặt trong dấu [] và dịch cuối cùng, nằm ở vị trí cuối câu để phù hợp với cấu trúc tiếng Việt.</p>
 
 		<h4 className="margin-y-50 text-center">5. Kết luận</h4>
 		
-		<p>Phương pháp dịch câu hỏi tiếng Anh theo nguyên tắc "<strong>Chủ Từ dịch trước</strong>, <strong>Trợ Động Từ</strong> <strong>dịch sau</strong>, <strong>Hỏi Từ dịch cuối cùng</strong> (<strong>nếu có</strong>)", kết hợp với việc đặt Hỏi Từ và Trợ Động Từ/Động Từ Chính vào dấu ngoặc đơn giúp người học dễ dàng nhận diện và sắp xếp các thành phần. Bằng cách xác định đó, bạn có thể tạo ra câu văn tiếng Việt tự nhiên và đúng ngữ pháp. Thực hành thường xuyên với các ví dụ cụ thể sẽ giúp bạn nắm vững kỹ năng này.</p>
+		<p>Phương pháp dịch câu hỏi tiếng Anh theo nguyên tắc "<strong>chủ từ dịch trước</strong>, <strong>trợ động từ hoặc động từ chính dịch sau</strong>, <strong>tiếp đến là bổ nghĩa</strong>, <strong>cuối cùng là hỏi từ</strong>", kết hợp với việc đặt hỏi từ trong dấu ngoặc vuông [] và trợ động từ/động từ chính cùng chủ từ trong dấu ngoặc đơn (), giúp người học dễ dàng nhận diện và sắp xếp các thành phần. Bằng cách dịch chủ từ trước, xử lý các thành phần trong dấu () từ phải sang trái, tiếp tục với động từ chính và bổ ngữ, rồi đặt hỏi từ ở cuối, bạn có thể tạo ra câu văn tiếng Việt tự nhiên và đúng ngữ pháp. Thực hành thường xuyên với các ví dụ cụ thể sẽ giúp bạn nắm vững kỹ năng này.</p>
 
 		<div className="viewcounter">
 		
