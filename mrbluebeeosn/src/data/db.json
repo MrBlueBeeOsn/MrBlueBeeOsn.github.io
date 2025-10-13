@@ -12,6 +12,39 @@
       "likes": 0
     },
     {
+      "id": "About",
+      "categoryDisplay": "",
+      "categorySlug": "",
+      "title": "About",
+      "content": "",
+      "slug": "/about",
+      "date": "",
+      "views": 0,
+      "likes": 0
+    },
+    {
+      "id": "Project",
+      "categoryDisplay": "",
+      "categorySlug": "",
+      "title": "Project",
+      "content": "",
+      "slug": "/project",
+      "date": "",
+      "views": 0,
+      "likes": 0
+    },
+    {
+      "id": "Journey",
+      "categoryDisplay": "",
+      "categorySlug": "",
+      "title": "Journey",
+      "content": "",
+      "slug": "/journey",
+      "date": "",
+      "views": 0,
+      "likes": 0
+    },
+    {
       "id": "Bookkeeping",
       "categoryDisplay": "Bookkeeping",
       "categorySlug": "bookkeeping",

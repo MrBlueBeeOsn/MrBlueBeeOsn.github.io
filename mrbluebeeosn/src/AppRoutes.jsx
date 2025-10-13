@@ -14,6 +14,9 @@ const Posts = lazy(() => import('./data/Posts'))
 
 // 2_main import các chức năng và đường dẫn
   const MrBeeOsn = lazy(() => import('./2_main/msbeeosn/MrBeeOsn'))
+  const AboutIndex = lazy(() => import('./2_main/msbeeosn/_indexes/AboutIndex'))
+  const ProjectIndex = lazy(() => import('./2_main/msbeeosn/_indexes/ProjectIndex'))
+  const JourneyIndex = lazy(() => import('./2_main/msbeeosn/_indexes/JourneyIndex'))
 
 // 2_main import các chức năng và đường dẫn Bookkeeping
 
@@ -101,6 +104,9 @@ export default function AppRoutes() {
 
         {/* 2_main Khai báo đường dẫn path cho Mr. Bee Osn */}
         <Route path="/mrbeeosn" element={<MrBeeOsn />} />
+        <Route path="/about" element={<AboutIndex />} />
+        <Route path="/project" element={<ProjectIndex />} />
+        <Route path="/journey" element={<JourneyIndex />} />
 
         {/* 2_main Khai báo đường dẫn path cho Bookkeeping */}
 
