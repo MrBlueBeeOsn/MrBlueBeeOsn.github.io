@@ -100,7 +100,7 @@ export default function DichCauHoiTiengAnh() {
 
 			<p>Xác định hỏi từ, trợ động từ (nếu có), động từ chính, chủ từ, và các bổ ngữ hoặc trạng từ.</p>
 
-			<p className="margin-top-20">Ví dụ: <strong>What is English</strong>?</p>
+			<p className="margin-top-20">Ví dụ: [<strong>What</strong>] (<strong>is English</strong>)?</p>
 
 				<ul className="list-square">
 
