@@ -1,12 +1,23 @@
-import React, { useState } from 'react';
+import React, { useState, ChangeEvent, KeyboardEvent } from 'react';
 import SearchIcon from './SearchIcon';
 
-export default function SearchBar({ posts, onSearchResults }) {
-  const [searchTerm, setSearchTerm] = useState('');
-  const [hasSearched, setHasSearched] = useState(false);
+interface Post {
+  title?: string;
+  content?: string;
+  categoryDisplay?: string;
+}
+
+interface SearchBarProps {
+  posts: Post[];
+  onSearchResults: (results: Post[]) => void;
+}
+
+export default function SearchBar({ posts, onSearchResults }: SearchBarProps): React.JSX.Element {
+  const [searchTerm, setSearchTerm] = useState<string>('');
+  const [hasSearched, setHasSearched] = useState<boolean>(false);
 
   // Hàm chuẩn hóa chuỗi tiếng Việt (bỏ dấu)
-  const normalizeString = (str) => {
+  const normalizeString = (str: string): string => {
     return str
       .normalize('NFD')
       .replace(/[\u0300-\u036f]/g, '')
@@ -15,7 +26,7 @@ export default function SearchBar({ posts, onSearchResults }) {
       .toLowerCase();
   };
 
-  const handleSearch = () => {
+  const handleSearch = (): void => {
     // Nếu search trống, không làm gì cả (giữ trạng thái ban đầu)
     if (searchTerm.trim() === '') {
       setHasSearched(false);
@@ -44,36 +55,37 @@ export default function SearchBar({ posts, onSearchResults }) {
     onSearchResults(filteredPosts);
   };
 
-  const handleKeyPress = (e) => {
+  const handleKeyPress = (e: KeyboardEvent<HTMLInputElement>): void => {
     if (e.key === 'Enter') {
       handleSearch();
     }
   };
 
-  const handleClear = () => {
+  const handleClear = (): void => {
     setSearchTerm('');
     setHasSearched(false);
     onSearchResults([]);
   };
 
+  const handleInputChange = (e: ChangeEvent<HTMLInputElement>): void => {
+    setSearchTerm(e.target.value);
+  };
+
   return (
     <div className="search-bar">
-
       <button onClick={handleSearch} className="search-btn">
-
         <SearchIcon 
           size={24} 
           fill="var(--tertiary-color)" 
           stroke="var(--secondary-color)"
         />
-
       </button>
 
       <input
         type="text"
         placeholder="Bee Search"
         value={searchTerm}
-        onChange={(e) => setSearchTerm(e.target.value)}
+        onChange={handleInputChange}
         onKeyPress={handleKeyPress}
       />
 
@@ -82,7 +94,6 @@ export default function SearchBar({ posts, onSearchResults }) {
           ✕
         </button>
       )}
-      
     </div>
   );
 }

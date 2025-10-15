@@ -2,13 +2,21 @@ import React, { useState, useEffect } from 'react';
 import HeartIconColor from './HeartIconColor';
 import HeartIcon from './HeartIcon';
 
-export default function LikeButton({ postId }) {
-  const [likes, setLikes] = useState(0);
-  const [isLiked, setIsLiked] = useState(false);
-  const [isAnimating, setIsAnimating] = useState(false);
-  const [loading, setLoading] = useState(true);
+interface Post {
+  likes?: number;
+}
 
-  const formatLikesText = (count) => {
+interface LikeButtonProps {
+  postId: string | number;
+}
+
+export default function LikeButton({ postId }: LikeButtonProps): React.JSX.Element {
+  const [likes, setLikes] = useState<number>(0);
+  const [isLiked, setIsLiked] = useState<boolean>(false);
+  const [isAnimating, setIsAnimating] = useState<boolean>(false);
+  const [loading, setLoading] = useState<boolean>(true);
+
+  const formatLikesText = (count: number): string => {
     return count === 1 ? `${count} heart` : `${count} hearts`;
   };
 
@@ -16,7 +24,7 @@ export default function LikeButton({ postId }) {
     // Lấy likes từ server
     fetch(`http://localhost:3003/posts/${postId}`)
       .then(response => response.json())
-      .then(post => {
+      .then((post: Post) => {
         setLikes(post.likes || 0);
         setLoading(false);
       })
@@ -31,7 +39,7 @@ export default function LikeButton({ postId }) {
       });
   }, [postId]);
 
-  const handleLike = () => {
+  const handleLike = (): void => {
     const newLikes = isLiked ? likes - 1 : likes + 1;
     const newIsLiked = !isLiked;
     
@@ -53,7 +61,7 @@ export default function LikeButton({ postId }) {
       })
     })
     .then(response => response.json())
-    .then(updatedPost => {
+    .then((updatedPost: Post) => {
       console.log('✅ Đã sync likes với server:', updatedPost.likes);
       // Có thể sync lại nếu cần: setLikes(updatedPost.likes);
     })

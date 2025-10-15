@@ -1,8 +1,12 @@
-// ViewCounter.jsx
+import React from 'react';
 import { useState, useEffect } from 'react';
 
-export default function ViewCounter({ postId }) {
-  const [views, setViews] = useState(0);
+interface ViewCounterProps {
+  postId: string | number;
+}
+
+export default function ViewCounter({ postId }: ViewCounterProps): React.JSX.Element {
+  const [views, setViews] = useState<number>(0);
 
   useEffect(() => {
     console.log('🎯 ViewCounter mounted for post:', postId);
@@ -14,7 +18,7 @@ export default function ViewCounter({ postId }) {
         if (!response.ok) throw new Error('GET failed');
         return response.json();
       })
-      .then(post => {
+      .then((post: { views?: number }) => {
         console.log('✅ Nhận được views:', post.views);
         setViews(post.views || 0);
       })
@@ -34,14 +38,14 @@ export default function ViewCounter({ postId }) {
       fetch(`http://localhost:3003/posts/${postId}`, {
         method: 'PATCH',
         headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({ views: (views + 1) }) // 👈 Sửa thành views + 1
+        body: JSON.stringify({ views: (views + 1) })
       })
       .then(response => {
         console.log('📡 PATCH Response status:', response.status);
         if (!response.ok) throw new Error('PATCH failed');
         return response.json();
       })
-      .then(updatedPost => {
+      .then((updatedPost: { views: number }) => {
         console.log('✅ Đã tăng views lên:', updatedPost.views);
         setViews(updatedPost.views);
         localStorage.setItem(viewKey, now.toString());
@@ -49,7 +53,7 @@ export default function ViewCounter({ postId }) {
       .catch(error => {
         console.error('❌ Lỗi khi tăng views:', error);
         // Fallback: dùng localStorage
-        const storedViews = localStorage.getItem(`post_${postId}_views`) || 0;
+        const storedViews = localStorage.getItem(`post_${postId}_views`) || '0';
         const newViews = parseInt(storedViews) + 1;
         setViews(newViews);
         localStorage.setItem(`post_${postId}_views`, newViews.toString());
@@ -58,7 +62,7 @@ export default function ViewCounter({ postId }) {
     } else {
       console.log('⏰ Chưa đủ 30 phút để tăng view');
     }
-  }, [postId]);
+  }, [postId, views]); // Thêm views vào dependencies
 
   return <div className="view-counter">{views} views</div>;
 }

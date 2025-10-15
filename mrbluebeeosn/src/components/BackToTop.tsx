@@ -1,10 +1,12 @@
 import { useEffect } from 'react';
 
-export default function BackToTop() {
+export default function BackToTop(): React.JSX.Element {
   useEffect(() => {
-    const backToTopButton = document.querySelector('.back-to-top');
+    const backToTopButton = document.querySelector('.back-to-top') as HTMLButtonElement | null;
 
-    const handleScroll = () => {
+    if (!backToTopButton) return;
+
+    const handleScroll = (): void => {
       if (window.scrollY > 300) {
         backToTopButton.classList.add('show');
       } else {
@@ -12,15 +14,15 @@ export default function BackToTop() {
       }
     };
 
-    const handleClick = () => {
+    const handleClick = (): void => {
       window.scrollTo({ top: 0, behavior: 'smooth' });
     };
 
-    const handleTouchStart = () => {
+    const handleTouchStart = (): void => {
       backToTopButton.style.opacity = '1';
     };
 
-    const handleTouchEnd = () => {
+    const handleTouchEnd = (): void => {
       setTimeout(() => {
         backToTopButton.style.opacity = '0.3';
       }, 300);
@@ -40,8 +42,6 @@ export default function BackToTop() {
   }, []);
 
   return (
-
     <button className="back-to-top" title="Back to top"></button>
-    
   );
 }
