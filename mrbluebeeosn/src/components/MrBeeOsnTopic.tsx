@@ -1,7 +1,8 @@
+import React from 'react';
 import { Link } from "react-router-dom";
 import { HashLink } from 'react-router-hash-link';
 
-export default function MrBeeOsnTopic() {
+export default function MrBeeOsnTopic(): React.JSX.Element {
   return (
 
     <div className="topic-container">
