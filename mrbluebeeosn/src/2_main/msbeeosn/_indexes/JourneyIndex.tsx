@@ -1,12 +1,13 @@
+import React from 'react';
 import { Link } from "react-router-dom";
 import { HashLink } from 'react-router-hash-link';
-import MrBeeOsnTopic from '/src/components/MrBeeOsnTopic';
-import ExternalLink from '/src/components/ExternalLink';
-import EyeIcon from '/src/components/EyeIcon';
-import ViewCounter from '/src/components/ViewCounter';
-import LikeButton from '/src/components/LikeButton';
+import MrBeeOsnTopic from '@/components/MrBeeOsnTopic';
+import ExternalLink from '@/components/ExternalLink';
+import EyeIcon from '@/components/EyeIcon';
+import ViewCounter from '@/components/ViewCounter';
+import LikeButton from '@/components/LikeButton';
 
-export default function JourneyIndex() {
+export default function JourneyIndex(): React.JSX.Element {
 
   const postId = "JourneyIndex";
 
@@ -44,12 +45,12 @@ export default function JourneyIndex() {
         <tbody>
 
           <tr>
-              <td>Aug.17</td>
+              <td>Aug. 17</td>
               <td>Diligently building valuable Accounting & English blogs.</td>
           </tr>
 
           <tr>
-              <td>Sept.20</td>
+              <td>Sept. 20</td>
               <td>Successfully migrated to React.</td>
           </tr>
 
@@ -71,6 +72,11 @@ export default function JourneyIndex() {
           <tr>
               <td>24</td>
               <td>Consistently sharing insights through blog posts.</td>
+          </tr>
+
+          <tr>
+              <td>Oct. 15</td>
+              <td>Successfully migrated to TypeScript.</td>
           </tr>
 
         </tbody>
