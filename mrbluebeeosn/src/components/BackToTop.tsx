@@ -1,9 +1,11 @@
-import { useEffect } from 'react';
+import { useEffect, useRef } from 'react';
 
 export default function BackToTop(): React.JSX.Element {
-  useEffect(() => {
-    const backToTopButton = document.querySelector('.back-to-top') as HTMLButtonElement | null;
+  const backToTopRef = useRef<HTMLButtonElement>(null);
 
+  useEffect(() => {
+    const backToTopButton = backToTopRef.current;
+    
     if (!backToTopButton) return;
 
     const handleScroll = (): void => {
@@ -42,6 +44,10 @@ export default function BackToTop(): React.JSX.Element {
   }, []);
 
   return (
-    <button className="back-to-top" title="Back to top"></button>
+    <button 
+      ref={backToTopRef} 
+      className="back-to-top" 
+      title="Back to top"
+    ></button>
   );
 }
