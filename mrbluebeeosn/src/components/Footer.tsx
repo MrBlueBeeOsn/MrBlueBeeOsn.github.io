@@ -1,7 +1,8 @@
+import React from 'react';
 import { Link } from "react-router-dom";
 import BeeSwarm from './BeeSwarm';
 
-export default function Footer() {
+export default function Footer(): React.JSX.Element {
   return (
 
     <footer>

@@ -1,8 +1,9 @@
+import React from 'react';
 import { Link } from "react-router-dom";
 import logo from '/public/assets/images/bee-teal2.png';
 import SearchIcon from './SearchIcon';
 
-export default function Header() {
+export default function Header(): React.JSX.Element {
   return (
 
     <header>
@@ -11,7 +12,7 @@ export default function Header() {
 
         <div className="branding">
           <Link to="/"><img src={logo} className="logo" alt="Mr. Bee - Ong siêng năng"></img></Link>
-          <span class="logo-text">👋&nbsp;Hello!&nbsp;</span>
+          <span className="logo-text">👋&nbsp;Hello!&nbsp;</span>
         </div>
 
         <div className="nav-bar">
