@@ -1,12 +1,13 @@
+import React from 'react';
 import { Link } from "react-router-dom";
 import { HashLink } from 'react-router-hash-link';
-import MrBeeOsnTopic from '/src/components/MrBeeOsnTopic';
-import ExternalLink from '/src/components/ExternalLink';
-import EyeIcon from '/src/components/EyeIcon';
-import ViewCounter from '/src/components/ViewCounter';
-import LikeButton from '/src/components/LikeButton';
+import MrBeeOsnTopic from '@/components/MrBeeOsnTopic';
+import ExternalLink from '@/components/ExternalLink';
+import EyeIcon from '@/components/EyeIcon';
+import ViewCounter from '@/components/ViewCounter';
+import LikeButton from '@/components/LikeButton';
 
-export default function AboutIndex() {
+export default function AboutIndex(): React.JSX.Element {
 
   const postId = "AboutIndex";
 
