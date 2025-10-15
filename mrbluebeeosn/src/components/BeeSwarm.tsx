@@ -2,7 +2,7 @@
 import { useEffect } from 'react';
 import { startBeeFlying } from '../utils/beeMotion';
 
-export default function BeeSwarm() {
+export default function BeeSwarm(): React.JSX.Element {
   useEffect(() => {
     startBeeFlying(); // gọi hiệu ứng sau khi render
   }, []);

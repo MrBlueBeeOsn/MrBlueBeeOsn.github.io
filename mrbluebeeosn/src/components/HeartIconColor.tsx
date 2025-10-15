@@ -1,13 +1,13 @@
 import React from 'react';
 
-export default function HeartIcon({ 
+export default function HeartIconColor({ 
 
   width = 14, 
   height = 14, 
   stroke = "var(--secondary-color)",  // Màu cho đường viền (stroke)
-  fill = "none",
-  
-}) {
+  fill = "var(--tertiary-color)",
+
+}): React.JSX.Element {
 
   return (
     <svg

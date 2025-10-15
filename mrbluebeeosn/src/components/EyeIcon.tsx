@@ -7,7 +7,7 @@ export default function EyeIcon({
   fill = "var(--tertiary-color)",
   className = '' 
   
-}) {
+}): React.JSX.Element {
 
   return (
     <svg

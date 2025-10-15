@@ -4,7 +4,9 @@ export default function SearchIcon({
   fill = "none",            // Màu cho nền bên trong (fill)
   strokeWidth = 2,
   className = "" 
-}) {
+
+}): React.JSX.Element {
+
   return (
     <svg 
       xmlns="http://www.w3.org/2000/svg" 

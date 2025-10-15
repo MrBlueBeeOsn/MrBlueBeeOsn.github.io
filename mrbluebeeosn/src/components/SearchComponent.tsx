@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom';
 import SearchBar from './SearchBar';
 import dbData from '../data/db.json';
 
-export default function SearchComponent() {
+export default function SearchComponent(): React.JSX.Element {
   const [allPosts, setAllPosts] = useState([]);
   const [displayedPosts, setDisplayedPosts] = useState([]);
   const [hasSearched, setHasSearched] = useState(false);

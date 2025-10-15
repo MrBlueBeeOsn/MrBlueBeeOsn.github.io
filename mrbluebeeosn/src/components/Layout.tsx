@@ -5,7 +5,7 @@ import Footer from './Footer';
 import { Outlet } from 'react-router-dom';
 import BackToTop from './BackToTop';
 
-export default function Layout() {
+export default function Layout(): React.JSX.Element {
   return (
     <div className="layout">
       <Header />
