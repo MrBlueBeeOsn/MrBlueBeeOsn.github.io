@@ -79,6 +79,11 @@ export default function JourneyIndex(): React.JSX.Element {
               <td>Successfully migrated to TypeScript.</td>
           </tr>
 
+          <tr>
+              <td>Oct. 16</td>
+              <td>Successfully add Tailwind CSS.</td>
+          </tr>
+
         </tbody>
       </table>
   

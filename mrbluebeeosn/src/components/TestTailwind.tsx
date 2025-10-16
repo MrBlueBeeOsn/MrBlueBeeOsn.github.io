@@ -7,6 +7,24 @@ export default function TestTailwind(): React.JSX.Element {
 
   <main className="image image2">
 
+    <p className="text-xl">Text XL</p>
+    <p className="text-[2.4rem]">Text 2.4rem</p>
+
+    // Tạm thời dùng
+    <p className="text-[2.4rem]">24px</p>
+    <p className="text-[1.8rem]">18px</p>
+
+    // Thay vì
+    <p className="text-xl">24px</p>
+    <p className="text-base">16px</p>
+
+    <div className="p-6">
+      <p className="text-sm">text-sm = 12px</p>
+      <p className="text-base">text-base = 16px</p>
+      <p className="text-lg">text-lg = 18px</p>
+      <p className="text-xl">text-xl = 24px (đã fix!)</p>
+    </div>
+
     <div className="p-6 bg-red-500 text-white text-xl font-bold">
       🎯 Nếu thấy nền đỏ + padding là Tailwind hoạt động!
     </div>
