@@ -1,0 +1,15 @@
+/* Thêm Tailwind directives */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Thêm các custom components sử dụng Tailwind */
+@layer components {
+  .btn-primary {
+    @apply px-4 py-2 bg-primary text-white rounded-lg hover:bg-opacity-90 transition-all;
+  }
+  
+  .card {
+    @apply bg-white rounded-lg shadow-md p-6 border border-gray-200;
+  }
+}
