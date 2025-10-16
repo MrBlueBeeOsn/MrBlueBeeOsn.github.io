@@ -84,6 +84,9 @@ const Posts = lazy(() => import('./data/Posts'))
   const Scrupulously1 = lazy(() => import('./2_main/english/vocabulary/Scrupulously1'))
   const Scrupulously2 = lazy(() => import('./2_main/english/vocabulary/Scrupulously2'))
 
+// 3. Test Tailwind
+	const TestTailwind = lazy(() => import('./components/TestTailwind'))
+
 
 // Xuất khẩu chức năng
 export default function AppRoutes() {
@@ -173,6 +176,9 @@ export default function AppRoutes() {
           <Route path="/vocabulary/diligently-2" element={<Diligently2 />} />
           <Route path="/vocabulary/scrupulously-1" element={<Scrupulously1 />} />
           <Route path="/vocabulary/scrupulously-2" element={<Scrupulously2 />} />
+
+          {/* 3. Test Tailwind */}
+					<Route path="/tailwindcss/test-tailwind" element={<TestTailwind />} />
 
       </Route>
 
