@@ -85,6 +85,22 @@
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 }
 
+.highlight-238-padding-0-4 {
+    background-color: rgba(238, 238, 238, 0.5); /* Grey rất nhạt*/
+    color: #333;
+    padding: 0px 4px;
+    border-radius: 3px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.highlight-238-padding-3-6 {
+    background-color: rgba(238, 238, 238, 0.5); /* Grey rất nhạt*/
+    color: #333;
+    padding: 3px 6px;
+    border-radius: 3px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
 .highlight-238-padding-4-8 {
     background-color: rgba(238, 238, 238, 0.5); /* Grey rất nhạt*/
     color: #333;

@@ -1,3 +1,4 @@
+import React from 'react';
 import { useEffect, useRef } from 'react';
 
 export default function BackToTop(): React.JSX.Element {
