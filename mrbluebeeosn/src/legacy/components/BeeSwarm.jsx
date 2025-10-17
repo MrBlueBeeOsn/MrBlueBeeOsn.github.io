@@ -1,6 +1,6 @@
 // src/components/BeeSwarm.jsx
 import { useEffect } from 'react';
-import { startBeeFlying } from '../../utils/beeMotion';
+import { startBeeFlying } from '../utils/beeMotion';
 
 export default function BeeSwarm() {
   useEffect(() => {

@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import { Link } from 'react-router-dom';
-import SearchBar from './SearchBar';
-import dbData from '../data/db.json';
+import SearchBar from '@/components/SearchBar';
+import dbData from '@/data/db.json';
 
 export default function SearchComponent(): React.JSX.Element {
   const [allPosts, setAllPosts] = useState([]);

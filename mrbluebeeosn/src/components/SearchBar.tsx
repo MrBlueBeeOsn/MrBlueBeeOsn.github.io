@@ -1,5 +1,5 @@
 import React, { useState, ChangeEvent, KeyboardEvent } from 'react';
-import SearchIcon from './SearchIcon';
+import SearchIcon from '@/components/SearchIcon';
 
 interface Post {
   title?: string;

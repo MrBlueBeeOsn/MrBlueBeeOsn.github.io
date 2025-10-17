@@ -1,7 +1,7 @@
 import React from 'react';
 import { Link } from "react-router-dom";
 import logo from '/public/assets/images/bee-teal2.png';
-import SearchIcon from './SearchIcon';
+import SearchIcon from '@/components/SearchIcon';
 
 export default function Header(): React.JSX.Element {
   return (

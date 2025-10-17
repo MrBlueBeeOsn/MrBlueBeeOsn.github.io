@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
-import HeartIconColor from './HeartIconColor';
-import HeartIcon from './HeartIcon';
+import HeartIconColor from '@/components/HeartIconColor';
+import HeartIcon from '@/components/HeartIcon';
 
 interface Post {
   likes?: number;
