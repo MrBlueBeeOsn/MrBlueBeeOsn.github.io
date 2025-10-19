@@ -1,11 +1,11 @@
-import BookkeepingPosts from './bookkeeping/BookkeepingPosts.json';
+import BookkeepingPosts from './bookkeeping/BookkeepingPosts';
 
-import EnglishPosts from './english/EnglishPosts.json';
-import GrammarPosts from './english/GrammarPosts.json';
-import PronunciationPosts from './english/PronunciationPosts.json';
+import EnglishPosts from './english/EnglishPosts';
+import GrammarPosts from './english/GrammarPosts';
+import PronunciationPosts from './english/PronunciationPosts';
 
-import TiengAnhPosts from './tienganh/TiengAnhPosts.json';
-import VocabularyPosts from './tienganh/VocabularyPosts.json';
+import TiengAnhPosts from './tienganh/TiengAnhPosts';
+import VocabularyPosts from './tienganh/VocabularyPosts';
 
 export default function Posts() {
   return [
