@@ -31,9 +31,7 @@ export default function (): React.JSX.Element {
 
     
 
-    <p className="margin-top-50 text-small"> · by 💎Gem ·</p>
-
-<div className="viewcounter">
+    <div className="viewcounter">
     
       <div className="post-date no-margin">
         <span> · by 💎Gem ·</span>

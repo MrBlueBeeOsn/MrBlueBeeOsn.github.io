@@ -62,6 +62,15 @@
 			"content": "Để dịch chính xác, bạn có thể áp dụng nguyên tắc \"chủ ngữ dịch trước, động từ chính và trợ động từ (nếu có) dịch sau, tiếp đến là các bổ nghĩa, cuối cùng mới dịch từ để hỏi\", đồng thời đặt từ để hỏi và trợ động từ (hoặc động từ chính nếu không có trợ động từ) vào dấu ngoặc đơn để dễ nhận diện.",
 			"slug": "tieng-anh/huong-dan-dich-cau-hoi-tieng-anh",
 			"date": "2025-10-11"
+		},
+		{ 
+			"id": "GiaoVienTiengAnh",
+			"categoryDisplay": "Tiếng Anh",
+			"categorySlug": "tieng-anh",
+			"title": "Giáo viên tiếng Anh",
+			"content": "Giáo viên tiếng Anh là người có chuyên môn và kỹ năng để truyền đạt kiến thức và kỹ năng sử dụng tiếng Anh cho học sinh. Họ đóng vai trò quan trọng trong việc giúp học sinh học tập và phát triển khả năng ngôn ngữ của mình.",
+			"slug": "tieng-anh/giao-vien-tieng-anh-la-gi",
+			"date": "2024-04-22"
 		}
 	]
 }

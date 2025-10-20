@@ -26,11 +26,21 @@ export default function EnglishIndex(): React.JSX.Element {
 
         <ul className="list-border1">
       
-        <li><Link to="/english/what-is-english?">English</Link></li>
+          <li><Link to="/english/what-is-english?">English</Link></li>
+          
+          <li><Link to="/english/what-is-the-english-language?">The English language</Link></li>
         
-        <li><Link to="/english/what-is-the-english-language?">The English language</Link></li>
+        </ul>
+
+      </div>
+
+      <div className="sub-box">
+
+        <ul className="list-border1">
+
+          <li><Link to="/english/what-is-an-english-teacher?">English Teacher</Link></li>
         
-      </ul>
+        </ul>
 
       </div>
 

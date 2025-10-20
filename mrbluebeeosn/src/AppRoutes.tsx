@@ -41,6 +41,7 @@ const Posts = lazy(() => import('@/data/Posts'));
   const EnglishIndex = lazy(() => import('@/2_main/english/_indexes/EnglishIndex'));
   const English = lazy(() => import('@/2_main/english/English'));
   const TheEnglishLanguage = lazy(() => import('@/2_main/english/TheEnglishLanguage'));
+  const EnglishTeacher = lazy(() => import('@/2_main/english/EnglishTeacher'));
 
   // 2. Grammar
   const GrammarIndex = lazy(() => import('@/2_main/english/_indexes/GrammarIndex'));
@@ -63,6 +64,7 @@ const Posts = lazy(() => import('@/data/Posts'));
   const DichCumDanhTuTiengAnh = lazy(() => import('@/2_main/english/tienganh/DichCumDanhTuTiengAnh'));
   const DichCumDongTuTiengAnh = lazy(() => import('@/2_main/english/tienganh/DichCumDongTuTiengAnh'));
   const DichCauHoiTiengAnh = lazy(() => import('@/2_main/english/tienganh/DichCauHoiTiengAnh'));
+  const GiaoVienTiengAnh = lazy(() => import('@/2_main/english/tienganh/GiaoVienTiengAnh'));
   
   // 5. Vocabulary - Tính chính xác
   const VocabularyIndex = lazy(() => import('@/2_main/english/_indexes/VocabularyIndex'));
@@ -134,6 +136,7 @@ export default function AppRoutes(): React.JSX.Element {
           <Route path="/english" element={<EnglishIndex />} />
           <Route path="/english/what-is-english?" element={<English />} />
           <Route path="/english/what-is-the-english-language?" element={<TheEnglishLanguage />} />
+          <Route path="/english/what-is-an-english-teacher?" element={<EnglishTeacher />} />
 
           {/* 2. Grammar */}
           <Route path="/grammar" element={<GrammarIndex />} />
@@ -156,6 +159,7 @@ export default function AppRoutes(): React.JSX.Element {
           <Route path="/tieng-anh/huong-dan-dich-cum-danh-tu-tieng-anh" element={<DichCumDanhTuTiengAnh />} />
           <Route path="/tieng-anh/huong-dan-dich-cum-dong-tu-tieng-anh" element={<DichCumDongTuTiengAnh />} />
           <Route path="/tieng-anh/huong-dan-dich-cau-hoi-tieng-anh" element={<DichCauHoiTiengAnh />} />
+          <Route path="/tieng-anh/giao-vien-tieng-anh-la-gi?" element={<GiaoVienTiengAnh />} />
 
           {/* 5. Vocabulary - Tính chính xác */}
           <Route path="/vocabulary" element={<VocabularyIndex />} />

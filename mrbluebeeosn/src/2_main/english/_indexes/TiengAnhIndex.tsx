@@ -70,35 +70,37 @@ export default function TiengAnhIndex(): React.JSX.Element {
         <ul className="list-border1">
 
           <li>
-
             <div className="li-content">
-
               <Link to="/tieng-anh/huong-dan-dich-cum-danh-tu-tieng-anh">Hướng Dẫn Dịch Cụm Danh Từ Tiếng Anh</Link>
-
             </div>
-            
           </li>
 
           <li>
-
             <div className="li-content">
-
               <Link to="/tieng-anh/huong-dan-dich-cum-dong-tu-tieng-anh">Hướng Dẫn Dịch Cụm Động Từ Tiếng Anh</Link>
-
             </div>
-            
           </li>
 
           <li>
-
             <div className="li-content">
-
               <Link to="/tieng-anh/huong-dan-dich-cau-hoi-tieng-anh">Hướng Dẫn Dịch Câu Hỏi Tiếng Anh</Link>
-
             </div>
-            
           </li>
       
+        </ul>
+
+      </div>
+
+    </div>
+
+    <div className="flex-container">
+    
+      <div className="sub-box">
+
+        <ul className="list-border1">
+
+          <li><Link to="/tieng-anh/giao-vien-tieng-anh-la-gi?">Giáo viên tiếng Anh</Link></li>
+          
         </ul>
 
       </div>
