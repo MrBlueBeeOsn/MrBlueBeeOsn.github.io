@@ -22,8 +22,6 @@ export default function BookkeepingIndex(): React.JSX.Element {
 
           <li><Link to="/bookkeeping/what-is-bookkeeping?">Bookkeeping</Link></li>
 
-          <li><Link to="/bookkeeping/what-is-a-bookkeeper?">Bookkeeper</Link></li>
-
           <li><Link to="/bookkeeping/what-is-accounts-receivable?">Accounts receivable</Link> (AR)</li>
 
           <li><Link to="/bookkeeping/what-is-accounts-payable?">Accounts payable</Link> (AP)</li>
@@ -39,6 +37,20 @@ export default function BookkeepingIndex(): React.JSX.Element {
         </ul>
 
       </div>
+
+      <div className="sub-box">
+
+        <ul className="list-border1">
+
+          <li><Link to="/bookkeeping/what-is-a-bookkeeper?">Bookkeeper</Link></li>
+
+        </ul>
+
+      </div>
+
+    </div>
+
+    <div className="flex-container">
 
       <div className="sub-box">
 
