@@ -5,5 +5,10 @@
     "scss.validate": false,
     "editor.quickSuggestions": {
     "strings": true
-    }
+    },
+    "emmet.includeLanguages": {
+    "typescript": "typescriptreact",
+    "typescriptreact": "html"
+    },
+    "emmet.triggerExpansionOnTab": true
 }
