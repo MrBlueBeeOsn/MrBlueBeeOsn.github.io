@@ -1,6 +1,11 @@
 // generate-db.js
 import fs from 'fs';
 import path from 'path';
+import { fileURLToPath } from 'url';
+
+// Để thay thế __dirname trong ES modules
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = path.dirname(__filename);
 
 function readJSONFile(filePath) {
   const absolutePath = path.join(process.cwd(), filePath);
@@ -10,13 +15,12 @@ function readJSONFile(filePath) {
   if (parsed.posts && Array.isArray(parsed.posts)) {
     return parsed.posts;
   }
-  else if (Array.isArray(parsed)) {
+  if (Array.isArray(parsed)) {
     return parsed;
   }
-  else {
-    console.log('⚠️  Cấu trúc không xác định trong:', filePath);
-    return [];
-  }
+  
+  console.log('⚠️  Cấu trúc không xác định trong:', filePath);
+  return [];
 }
 
 function generateDB() {
@@ -26,7 +30,8 @@ function generateDB() {
     existingDB = JSON.parse(fs.readFileSync('./src/data/db.json', 'utf8'));
     console.log('📊 Đã tìm thấy db.json cũ với', existingDB.posts.length, 'bài viết');
   } catch (error) {
-    console.log('🆕 Tạo db.json mới');
+    // Sử dụng biến error thay vì bỏ qua
+    console.log('🆕 Tạo db.json mới do:', error.message);
   }
 
   // Đọc files mới
@@ -60,14 +65,14 @@ function generateDB() {
         views: existingPost.views || 0,
         likes: existingPost.likes || 0
       };
-    } else {
-      // Post mới - thêm views/likes mặc định
-      return {
-        ...newPost,
-        views: 0,
-        likes: 0
-      };
     }
+    
+    // Post mới - thêm views/likes mặc định
+    return {
+      ...newPost,
+      views: 0,
+      likes: 0
+    };
   });
 
   // Create db.json
