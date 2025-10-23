@@ -259,8 +259,7 @@
 			}
 
 			.sub-box-fix {
-				flex: 0 0 calc(50% - 1rem);
-				min-width: calc(50% - 1rem);
+				flex: 0 0 calc((100% - 2rem) / 2); /* Tổng khoảng cách giữa 2 hộp là 2rem × 1 = 2rem */
 			}
 
 		}

@@ -146,6 +146,8 @@ export default function VocabularyIndex(): React.JSX.Element {
 
 			</div>
 
+			
+
 		</div>
 		
 	</main>
