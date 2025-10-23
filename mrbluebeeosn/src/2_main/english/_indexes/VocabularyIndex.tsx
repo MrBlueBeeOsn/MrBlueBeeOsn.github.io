@@ -25,7 +25,7 @@ export default function VocabularyIndex(): React.JSX.Element {
 			<div className="sub-box-fix">
 
 				{/* =============================
-				Tính chính xác
+						Tính chính xác
 				============================= */}
 		
 				<p id="tinh-chinh-xac-terms"><mark className="highlight-secondary-padding-2-4">Tính chính xác</mark></p>
@@ -75,7 +75,7 @@ export default function VocabularyIndex(): React.JSX.Element {
 			<div className="sub-box-fix">
 
 				{/* =============================
-				Tính tỉ mỉ
+						Tính tỉ mỉ
 				============================= */}
 		
 				<p id="tinh-ti-mi-terms"><mark className="highlight-secondary-padding-2-4">Tính tỉ mỉ</mark></p>
@@ -117,6 +117,30 @@ export default function VocabularyIndex(): React.JSX.Element {
 							<sup>&nbsp;2&nbsp;</sup>
 						</Link>
 					</li>
+					
+				</ul>
+
+			</div>
+
+			<div className="sub-box-fix">
+
+				{/* =============================
+						Tính rõ ràng
+				============================= */}
+		
+				<p id="tinh-ro-rang-terms"><mark className="highlight-secondary-padding-2-4">Tính rõ ràng</mark></p>
+
+				<ul className="list-border1">
+
+					<li>
+						<Link to="/vocabulary/obviously-1">obviously
+							<sup>&nbsp;1&nbsp;</sup>
+								</Link> 
+								<Link to="/vocabulary/obviously-2">
+							<sup>&nbsp;2&nbsp;</sup>
+						</Link>
+					</li>
+					
 					
 				</ul>
 

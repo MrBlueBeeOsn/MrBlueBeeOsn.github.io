@@ -77,7 +77,7 @@ const Posts = lazy(() => import('@/data/Posts'));
   const Exactly1 = lazy(() => import('@/2_main/english/vocabulary/Exactly1'));
   const Exactly2 = lazy(() => import('@/2_main/english/vocabulary/Exactly2'));
 
-  // 6. Vocabulary - Tính tỉ mỉ
+  // 5. Vocabulary - Tính tỉ mỉ
   const Painstakingly1 = lazy(() => import('@/2_main/english/vocabulary/Painstakingly1'));
   const Painstakingly2 = lazy(() => import('@/2_main/english/vocabulary/Painstakingly2'));
   const Thoroughly1 = lazy(() => import('@/2_main/english/vocabulary/Thoroughly1'));
@@ -86,6 +86,10 @@ const Posts = lazy(() => import('@/data/Posts'));
   const Diligently2 = lazy(() => import('@/2_main/english/vocabulary/Diligently2'));
   const Scrupulously1 = lazy(() => import('@/2_main/english/vocabulary/Scrupulously1'));
   const Scrupulously2 = lazy(() => import('@/2_main/english/vocabulary/Scrupulously2'));
+
+  // 5. Vocabulary - Tính tỉ mỉ
+  const Obviously1 = lazy(() => import('@/2_main/english/vocabulary/Obviously1'));
+  const Obviously2 = lazy(() => import('@/2_main/english/vocabulary/Obviously2'));
 
 // 3. Test Tailwind
 	const TestTailwind = lazy(() => import('@/components/TestTailwind'));
@@ -172,7 +176,7 @@ export default function AppRoutes(): React.JSX.Element {
           <Route path="/vocabulary/exactly-1" element={<Exactly1 />} />
           <Route path="/vocabulary/exactly-2" element={<Exactly2 />} />
 
-          {/* 6. Vocabulary - Tính tỉ mỉ */}
+          {/* 5. Vocabulary - Tính tỉ mỉ */}
           <Route path="/vocabulary/painstakingly-1" element={<Painstakingly1 />} />
           <Route path="/vocabulary/painstakingly-2" element={<Painstakingly2 />} />
           <Route path="/vocabulary/thoroughly-1" element={<Thoroughly1 />} />
@@ -181,6 +185,10 @@ export default function AppRoutes(): React.JSX.Element {
           <Route path="/vocabulary/diligently-2" element={<Diligently2 />} />
           <Route path="/vocabulary/scrupulously-1" element={<Scrupulously1 />} />
           <Route path="/vocabulary/scrupulously-2" element={<Scrupulously2 />} />
+
+          {/* 5. Vocabulary - Tính rõ ràng */}
+          <Route path="/vocabulary/obviously-1" element={<Obviously1 />} />
+          <Route path="/vocabulary/obviously-2" element={<Obviously2 />} />
 
           {/* 3. Test Tailwind */}
 					<Route path="/tailwindcss/test-tailwind" element={<TestTailwind />} />

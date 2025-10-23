@@ -17,10 +17,10 @@ export default function (): React.JSX.Element {
     
     <h2 className="margin-y-50 text-center">ly
       <sup>
-        <Link to="/vocabulary/accurately-1">&nbsp;1&nbsp;</Link>
+        <Link to="/vocabulary/ly-1">&nbsp;1&nbsp;</Link>
       </sup>
       <sup>
-        <Link to="/vocabulary/accurately-2">&nbsp;2&nbsp;</Link>
+        <Link to="/vocabulary/ly-2">&nbsp;2&nbsp;</Link>
       </sup>
     </h2>
 
@@ -123,8 +123,6 @@ export default function (): React.JSX.Element {
     </div>
 
     <p className="margin-top-50">Hy vọng những thông tin này hữu ích cho bạn! 🐝</p>
-
-    <p className="margin-top-50 text-small"> · by 💎Gem ·</p>
 
     <div className="viewcounter">
     
