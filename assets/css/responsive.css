@@ -255,7 +255,7 @@
 			}
 
 			.sub-box {
-				flex: 1 1 100%;
+				flex: 0 0 calc((100% - 0rem) / 1); /* Tổng khoảng cách giữa 2 hộp là 2rem × 0 = 0rem */
 			}
 
 			.sub-box-fix {

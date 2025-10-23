@@ -704,7 +704,20 @@ td:nth-child(1):hover {
   	margin-left: -50%; /* đẩy ra giữa bên trái */
 }
 
-.sub-box,
+.sub-box {
+	background-color: rgba(255, 255, 255, 0.5);
+	border-radius: 2px;
+	box-shadow: 0 2px 4px rgba(0, 0, 0, 0.15);
+	padding: 0.5rem;
+	overflow: hidden;
+	flex: 1; /* Makes both columns take up equal available space */
+	width: 50rem;
+	flex-wrap: wrap;
+	word-break: break-word;
+	flex: 0 0 calc((100% - 2rem) / 2); /* Tổng khoảng cách giữa 3 hộp là 2rem × 1 = 2rem */
+	flex-direction: column;
+}
+
 .sub-box-fix {
 	background-color: rgba(255, 255, 255, 0.5);
 	border-radius: 2px;
