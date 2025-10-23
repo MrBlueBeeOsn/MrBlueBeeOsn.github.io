@@ -715,7 +715,7 @@ td:nth-child(1):hover {
 	width: 50rem;
 	flex-wrap: wrap;
 	word-break: break-word;
-	display: flex;
+	flex: 0 0 calc((100% - 4rem) / 3); /* Tổng khoảng cách giữa 3 hộp là 2rem × 2 = 4rem */
 	flex-direction: column;
 }
 
