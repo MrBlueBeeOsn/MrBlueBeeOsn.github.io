@@ -1,38 +1,38 @@
 /*-- ========================================
  
-  © 2025 - 🐝 Mr. ßee - 🅾ng siêng năng📘
+	© 2025 - 🐝 Mr. ßee - 🅾ng siêng năng📘
 
-	  https://mrbluebeeosn.github.io
+		https://mrbluebeeosn.github.io
 
-		  ☕ Happy reading today!
+			☕ Happy reading today!
 
 ========================================= --*/
 
 /* =============================
-   Components: buttons, cards, forms (Dành cho các thành phần UI có thể tái sử dụng.)
+	 Components: buttons, cards, forms (Dành cho các thành phần UI có thể tái sử dụng.)
 ============================= */
 
 /* h1 {
-  font-size: 2rem;
-  margin-bottom: 1rem;
+	font-size: 2rem;
+	margin-bottom: 1rem;
 }
 
 button {
-  background: var(--primary-color);
-  color: rgba(255, 255, 255, 0.5);
-  border: none;
-  padding: 0.6rem 1.2rem;
-  border-radius: 6px;
-  cursor: pointer;
-  transition: background 0.2s ease-in-out;
+	background: var(--primary-color);
+	color: rgba(255, 255, 255, 0.5);
+	border: none;
+	padding: 0.6rem 1.2rem;
+	border-radius: 6px;
+	cursor: pointer;
+	transition: background 0.2s ease-in-out;
 }
 
 button:hover {
-  background: #357abd;
+	background: #357abd;
 } */
 
 /* =============================
-   Branding (Logo)
+	 Branding (Logo)
 ============================= */
 
 .branding {
@@ -60,22 +60,22 @@ button:hover {
 }
 
 .logo:hover {
-  filter: drop-shadow(0 0 2em var(--tertiary-color));
+	filter: drop-shadow(0 0 2em var(--tertiary-color));
 }
 
 @keyframes logo-spin {
-  from {
+	from {
 	transform: rotate(0deg);
-  }
-  to {
+	}
+	to {
 	transform: rotate(360deg);
-  }
+	}
 }
 
 @media (prefers-reduced-motion: no-preference) {
-  a:nth-of-type(2) .logo {
+	a:nth-of-type(2) .logo {
 	animation: logo-spin infinite 20s linear;
-  }
+	}
 }
 
 .logo-text {
@@ -99,10 +99,10 @@ button:hover {
 }
 
 .bee {
-	  position: absolute;
-	  font-size: 1.8rem;           /* 18px */
-	  transition: transform 1s ease-in-out;
-	  z-index: 2;
+		position: absolute;
+		font-size: 1.8rem;           /* 18px */
+		transition: transform 1s ease-in-out;
+		z-index: 2;
 }
 
 .bee-container {
@@ -149,7 +149,7 @@ button:hover {
 }
 
 /* =============================
-   aeiou - DPSK
+	 aeiou - DPSK
 ============================= */
 
 .grid {
@@ -217,7 +217,7 @@ code {
 }
 
 /* =============================
-   Mr. Bee OSn
+	 Mr. Bee OSn
 ============================= */
 
 .card2 {
@@ -263,21 +263,21 @@ code {
 ============================= */
 
 	@media screen and (max-width: 768px) {
-	  
-	  /* =============================
-	  Header (Mobile)
-	  ============================= */
-	  
-	  .card2 {
+		
+		/* =============================
+		Header (Mobile)
+		============================= */
+		
+		.card2 {
 		padding-left: 0;
 		padding-right: 12px;
 		padding-top: 15px;
 		padding-bottom: 0;
-	  }
+		}
 	}
 
 /* =============================
-   Back to Top Button · by GRK
+	 Back to Top Button · by GRK
 ============================= */
 
 	.back-to-top {
@@ -301,8 +301,8 @@ code {
 		align-items: center;
 		justify-content: center;
 		cursor: pointer;
-  		opacity: 0.3;
-  		transition: opacity 0.15s ease-in-out, transform 0.15s ease-in-out;
+			opacity: 0.3;
+			transition: opacity 0.15s ease-in-out, transform 0.15s ease-in-out;
 		background-size: cover;
 		z-index: 99;
 	}
@@ -326,7 +326,7 @@ code {
 	}
 
 /* =============================
-   My Blog Journey · by DPSK
+	 My Blog Journey · by DPSK
 ============================= */
 
 	/* Style cho tiêu đề năm - Có thể click được */
@@ -548,8 +548,8 @@ td:nth-child(1):hover {
 } */
 
 /* .clear-btn.visible {
-  opacity: 1;
-  pointer-events: auto;
+	opacity: 1;
+	pointer-events: auto;
 } */
 
 
@@ -633,46 +633,46 @@ td:nth-child(1):hover {
 }
 
 .pagination {
-  display: flex;
-  justify-content: center;
-  gap: 10px;
-  margin-top: 20px;
+	display: flex;
+	justify-content: center;
+	gap: 10px;
+	margin-top: 20px;
 }
 
 .pagination-btn {
-  padding: 8px 16px;
-  border: 1px solid var(--tertiary-color);
-  background: var(--tertiary-color);
-  cursor: pointer;
-  border-radius: 4px;
+	padding: 8px 16px;
+	border: 1px solid var(--tertiary-color);
+	background: var(--tertiary-color);
+	cursor: pointer;
+	border-radius: 4px;
 	font-family: Bellota, sans-serif;
 }
 
 .pagination-btn:hover:not(:disabled) {
-  background: var(--tertiary-color);
+	background: var(--tertiary-color);
 }
 
 .pagination-btn:disabled {
-  opacity: 0.5;
-  cursor: not-allowed;
+	opacity: 0.5;
+	cursor: not-allowed;
 }
 
 .pagination-btn.active {
-  background: var(--tertiary-color);
-  color: white;
-  border-color: var(--tertiary-color);
+	background: var(--tertiary-color);
+	color: white;
+	border-color: var(--tertiary-color);
 }
 
 /* =============================
-   Topic
+	 Topic
 ============================= */
 
 .topic-container {
-    background-color: rgba(245, 245, 245, 0.5);
-    border-radius: 2px;
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.15);
-    padding: 0.5rem;
-    overflow: hidden;
+		background-color: rgba(245, 245, 245, 0.5);
+		border-radius: 2px;
+		box-shadow: 0 2px 4px rgba(0, 0, 0, 0.15);
+		padding: 0.5rem;
+		overflow: hidden;
 }
 
 .flex-topic {
@@ -681,11 +681,11 @@ td:nth-child(1):hover {
 	justify-items: center;
 	align-items: center;
 	flex-wrap: wrap;
-    justify-content: space-evenly;
+		justify-content: space-evenly;
 }
 
 /* =============================
-   Vocabulary
+	 Vocabulary
 ============================= */
 
 .flex-container {
@@ -700,8 +700,8 @@ td:nth-child(1):hover {
 }
 
 .flex-container > div:only-child {
-  	flex: 0 0 50%;
-  	margin-left: -50%; /* đẩy ra giữa bên trái */
+		flex: 0 0 50%;
+		margin-left: -50%; /* đẩy ra giữa bên trái */
 }
 
 .sub-box {
@@ -740,16 +740,16 @@ td:nth-child(1):hover {
 
 .sub-box li,
 .sub-box-fix li {
-  	display: list-item; /* giữ kiểu danh sách */
-  
+		display: list-item; /* giữ kiểu danh sách */
+	
 }
 
 .li-content {
-  	display: flex;
+		display: flex;
 }
 
 /* =============================
-   Viewcount
+	 Viewcount
 ============================= */
 
 .viewcounter {
@@ -780,7 +780,7 @@ td:nth-child(1):hover {
 }
 
 /* =============================
-   Like Button
+	 Like Button
 ============================= */
 
 .like-container {
@@ -790,14 +790,14 @@ td:nth-child(1):hover {
 }
 
 .like-button {
-  display: flex;
+	display: flex;
 	justify-items: center;
 	align-items: center;
 	font-size: 1.4rem;
-  cursor: pointer;
-  transition: all 0.3s ease;
-  font-size: 16px;
-  z-index: 1;
+	cursor: pointer;
+	transition: all 0.3s ease;
+	font-size: 16px;
+	z-index: 1;
 	border: none;
 	background-color: transparent;
 	color: #666;
@@ -806,25 +806,25 @@ td:nth-child(1):hover {
 }
 
 /* .like-button.animating {
-  transform: scale(1.1);
+	transform: scale(1.1);
 } */
 
 .heart {
-  display: flex;
+	display: flex;
 	justify-items: center;
 	align-items: center;
 	font-size: 13px;
 	padding-left: 5px;
 	padding-right: 3px;
-  transition: transform 0.15s ease-in-out; /* mượt khi nhấn */
+	transition: transform 0.15s ease-in-out; /* mượt khi nhấn */
 }
 
 .heart:active {
-    transform: scale(0.92); /* co chữ + nền */
+		transform: scale(0.92); /* co chữ + nền */
 }
 
 .like-button.animating .heart {
-  animation: heartBeat 0.3s ease-in-out;
+	animation: heartBeat 0.3s ease-in-out;
 }
 
 .likes-count {
@@ -836,38 +836,118 @@ td:nth-child(1):hover {
 }
 
 @keyframes heartBeat {
-  0% { transform: scale(1); }
-  50% { transform: scale(1.3); }
-  100% { transform: scale(1); }
+	0% { transform: scale(1); }
+	50% { transform: scale(1.3); }
+	100% { transform: scale(1); }
 }
 
 /* Particles animation */
 .particles {
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-  pointer-events: none;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	pointer-events: none;
 }
 
 .particle {
-  position: absolute;
-  font-size: 12px;
-  animation: particleFloat 1s ease-out forwards;
+	position: absolute;
+	font-size: 12px;
+	animation: particleFloat 1s ease-out forwards;
 }
 
 @keyframes particleFloat {
-  0% {
-    opacity: 1;
-    transform: translate(0, 0) scale(1);
-  }
-  100% {
-    opacity: 0;
+	0% {
+		opacity: 1;
+		transform: translate(0, 0) scale(1);
+	}
+	100% {
+		opacity: 0;
 	transform: 
-	  translate(
+		translate(
 		0px,
 		-100px
-	  )
-	  scale(0);
-  }
+		)
+		scale(0);
+	}
+}
+
+/* =============================
+	 Details / summary
+============================= */
+
+details {
+	/* margin-bottom: 1rem; */
+	/* border: 1px solid #e2e8f0; */
+	/* border-radius: var(--radius); */
+	overflow: hidden;
+	transition: var(--transition);
+	/* background: white; */
+	line-height: normal;
+	font-family: Bellota Text, sans-serif;
+}
+
+/* details:hover {
+	border-color: var(--primary);
+	box-shadow: 0 4px 12px rgba(37, 99, 235, 0.1);
+} */
+
+/* details[open] {
+	border-color: var(--primary);
+	box-shadow: var(--shadow);
+} */
+
+/* details[open] summary::after {
+	content: '▲';
+	color: var(--primary);
+} */
+
+/* details[open] summary {
+	background: var(--primary);
+	color: white;
+} */
+
+/* details[open] summary:hover {
+	background: var(--primary-dark);
+} */
+
+.details-content {
+	/* padding: 1.5rem; */
+	/* background: white; */
+	/* border-top: 1px solid #e2e8f0; */
+	animation: fadeIn 0.4s ease-out;
+}
+
+summary {
+	padding-bottom: 1.5rem;
+	cursor: pointer;
+	/* font-weight: 600; */
+	/* color: var(--dark); */
+	/* background: linear-gradient(to right, #f8fafc, #f1f5f9); */
+	transition: var(--transition);
+	list-style: none;
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	user-select: none;
+	-webkit-tap-highlight-color: transparent; /* iOS Safari & Chrome */
+	-webkit-focus-ring-color: transparent;    /* Safari */
+}
+
+/* summary:hover {
+	background: linear-gradient(to right, #f1f5f9, #e2e8f0);
+	color: var(--primary);
+} */
+
+summary::after {
+	/* content: '▼';
+	font-size: 1rem; */
+	/* color: var(--secondary-color); */
+	transition: var(--transition);
+	/* margin-left: 1rem; */
+}
+
+@keyframes fadeIn {
+	from { opacity: 0; transform: translateY(-10px); }
+	to { opacity: 1; transform: translateY(0); }
 }
