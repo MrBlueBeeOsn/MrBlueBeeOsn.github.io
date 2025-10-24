@@ -33,7 +33,7 @@ export default function Home(): React.JSX.Element {
 
       <p className="margin-bottom-50 text-center text-small">
           
-        __Summer, 2025 · by <Link to="/about">Mr. Bee - A diligent bee</Link>--
+        __Summer, 2025 · by <Link to="/about">Mr. ßee - a Diligent Bee</Link>--
         
       </p>
 
