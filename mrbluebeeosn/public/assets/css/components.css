@@ -52,7 +52,7 @@ button:hover {
 	-webkit-tap-highlight-color: transparent; /* iOS Safari & Chrome */
 	-webkit-focus-ring-color: transparent;    /* Safari */
 	border: none;
-	outline: none;
+	outline: 1.5px solid var(--tertiary-color);
 }
 
 .branding:active {
