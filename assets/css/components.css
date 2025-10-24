@@ -95,7 +95,7 @@ button:hover {
 	font-weight: normal;
 	line-height: 1;
 	text-align: center;
-	background: var(--background-color);
+	background: var(--logo-text-color);
 	white-space: nowrap; /* không cho xuống dòng */
 	box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
 }
