@@ -46,14 +46,14 @@ button:hover {
 }
 
 .branding img {
-	height: 45px; /* Điều chỉnh kích thước logo */
+	height: 48px; /* Điều chỉnh kích thước logo */
 	width: auto; /* Chiều rộng sẽ tự động điều chỉnh để giữ tỷ lệ */
 	border-radius: 100%;
 	background-color: transparent;
 	-webkit-tap-highlight-color: transparent; /* iOS Safari & Chrome */
 	-webkit-focus-ring-color: transparent;    /* Safari */
 	border: none;
-	outline: 5px solid var(--secondary-color);
+	outline: 2px solid var(--tertiary-color);
 }
 
 .branding:active {
