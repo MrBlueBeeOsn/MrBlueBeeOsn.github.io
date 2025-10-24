@@ -197,7 +197,7 @@ export default function DichCauHoiTiengAnh(): React.JSX.Element {
 
 				<ul className="list-square">
 
-					<li>Trong dấu ngoặc đơn: <strong>English</strong> (tiếng Anh, đã dịch), is → là.</li>
+					<li>Trong dấu ngoặc đơn: <strong>English</strong> (tiếng Anh, đã dịch), <strong>is</strong> → là.</li>
 
 					<li>Kết quả tạm thời: tiếng Anh là.</li>
 
@@ -207,7 +207,7 @@ export default function DichCauHoiTiengAnh(): React.JSX.Element {
 
 				<ul className="list-square">
 
-					<li>Trong dấu ngoặc đơn: <strong>she</strong> (cô ấy, đã dịch), does (thường không dịch trực tiếp, thể hiện qua ngữ pháp).</li>
+					<li>Trong dấu ngoặc đơn: <strong>she</strong> (cô ấy, đã dịch), <strong>does</strong> (thường không dịch trực tiếp, thể hiện qua ngữ pháp).</li>
 
 					<li>Động từ chính: <strong>live</strong> → sống.</li>
 
@@ -323,7 +323,9 @@ export default function DichCauHoiTiengAnh(): React.JSX.Element {
 
 			</ul>
 
-			<p className="margin-top-20"><strong>Cấu trúc câu hỏi</strong>: Câu hỏi tiếng Anh thường có dạng <strong>hỏi từ</strong> + <strong>trợ động từ</strong>/<strong>động từ chính</strong> + <strong>chủ từ</strong> + <strong>động từ chính</strong> (nếu có) + <strong>bổ ngữ</strong>/<strong>trạng từ</strong>. Khi đặt vào dấu ngoặc, hỏi từ nằm trong dấu [] và trợ động từ cùng chủ từ trong dấu (), nhưng khi dịch, hỏi từ được đặt ở cuối câu.</p>
+			<p className="margin-top-20"><strong>So sánh với cách khác</strong>: Một cách tiếp cận khác là đặt cả hỏi từ và trợ động từ/động từ chính vào cùng dấu ngoặc đơn, ví dụ: (<strong>What is</strong>) <strong>English</strong>?. Cách này đơn giản hơn nhưng ít rõ ràng trong việc tách hỏi từ để dịch cuối cùng, đặc biệt với các câu hỏi phức tạp. Cách [<strong>What</strong>] (<strong>is English</strong>)? được khuyến nghị vì nó tách biệt hỏi từ, giúp dễ dàng áp dụng nguyên tắc dịch hỏi từ ở cuối câu.</p>
+
+			<p><strong>Cấu trúc câu hỏi</strong>: Câu hỏi tiếng Anh thường có dạng <strong>hỏi từ</strong> + <strong>trợ động từ</strong>/<strong>động từ chính</strong> + <strong>chủ từ</strong> + <strong>động từ chính</strong> (nếu có) + <strong>bổ ngữ</strong>/<strong>trạng từ</strong>. Khi đặt vào dấu ngoặc, hỏi từ nằm trong dấu [] và trợ động từ cùng chủ từ trong dấu (), nhưng khi dịch, hỏi từ được đặt ở cuối câu.</p>
 
 			<p><strong>Ngữ cảm tự nhiên</strong>: Trong tiếng Việt, thứ tự các thành phần có thể được điều chỉnh để câu văn nghe mượt mà hơn. Ví dụ: [<strong>Where</strong>] (<strong>does she</strong>) <strong>live now</strong>? có thể được dịch thành Cô ấy sống ở đâu bây giờ? thay vì Cô ấy sống bây giờ ở đâu? để tự nhiên hơn.</p>
 
