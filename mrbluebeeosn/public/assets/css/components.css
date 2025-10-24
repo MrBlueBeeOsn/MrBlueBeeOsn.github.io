@@ -42,17 +42,18 @@ button:hover {
 	transition: transform 0.15s ease-in-out; /* mượt khi nhấn */
 	position: relative;
 	padding-top: 5px;
+	height: 50px;
 }
 
 .branding img {
-	height: 50px; /* Điều chỉnh kích thước logo */
+	height: 45px; /* Điều chỉnh kích thước logo */
 	width: auto; /* Chiều rộng sẽ tự động điều chỉnh để giữ tỷ lệ */
 	border-radius: 100%;
 	background-color: transparent;
 	-webkit-tap-highlight-color: transparent; /* iOS Safari & Chrome */
 	-webkit-focus-ring-color: transparent;    /* Safari */
 	border: none;
-	outline: 1.5px solid var(--tertiary-color);
+	outline: 5px solid var(--secondary-color);
 }
 
 .branding:active {
