@@ -22,13 +22,13 @@ export default function VocabularyIndex(): React.JSX.Element {
 
 		<div className="flex-container">
 
-			<div className="sub-box-fix">
+			<details className="sub-box-fix">
 
 				{/* =============================
 						Tính chính xác
 				============================= */}
 		
-				<p id="tinh-chinh-xac-terms"><mark className="highlight-secondary-padding-2-4">Tính chính xác</mark></p>
+				<summary id="tinh-chinh-xac-terms"><mark className="highlight-secondary-padding-2-4">Tính chính xác</mark></summary>
 
 				<ul className="list-border1">
 					
@@ -70,15 +70,15 @@ export default function VocabularyIndex(): React.JSX.Element {
 					
 				</ul>
 
-			</div>
+			</details>
 
-			<div className="sub-box-fix">
+			<details className="sub-box-fix">
 
 				{/* =============================
 						Tính tỉ mỉ
 				============================= */}
 		
-				<p id="tinh-ti-mi-terms"><mark className="highlight-secondary-padding-2-4">Tính tỉ mỉ</mark></p>
+				<summary id="tinh-ti-mi-terms"><mark className="highlight-secondary-padding-2-4">Tính tỉ mỉ</mark></summary>
 
 				<ul className="list-border1">
 
@@ -120,15 +120,15 @@ export default function VocabularyIndex(): React.JSX.Element {
 					
 				</ul>
 
-			</div>
+			</details>
 
-			<div className="sub-box-fix">
+			<details className="sub-box-fix">
 
 				{/* =============================
 						Tính rõ ràng
 				============================= */}
 		
-				<p id="tinh-ro-rang-terms"><mark className="highlight-secondary-padding-2-4">Tính rõ ràng</mark></p>
+				<summary id="tinh-ro-rang-terms"><mark className="highlight-secondary-padding-2-4">Tính rõ ràng</mark></summary>
 
 				<ul className="list-border1">
 
@@ -144,7 +144,7 @@ export default function VocabularyIndex(): React.JSX.Element {
 					
 				</ul>
 
-			</div>
+			</details>
 
 			
 
