@@ -25,7 +25,7 @@ export default function Home(): React.JSX.Element {
         <div className="card2">
           <p className="text-small no-margin">
         
-            ☕ Happy <mark className="highlight-tertiary-padding-2-4">reading</mark> today!
+            ☕ Happy <mark className="highlight-tertiary-padding-2-4">reading</mark> today! 🎧📖
       
           </p>
         </div>
