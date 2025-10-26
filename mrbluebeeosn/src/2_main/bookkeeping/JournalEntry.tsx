@@ -25,15 +25,15 @@ export default function JournalEntry(): React.JSX.Element {
 
       <p className="margin-bottom-50">Here's a breakdown of journal entries and their key components:</p>
 
-      <h4 className="margin-y-50 text-center">Recording Transactions:</h4>
+      <h3 className="margin-y-50 text-center">Recording Transactions:</h3>
       
       <p>Every financial transaction that affects a company's financial position needs to be documented with a <strong>journal entry</strong>. This includes transactions like sales, purchases, expenses, payments, and receipts.</p>
 
-      <h4 className="margin-y-50 text-center">Double-Entry System:</h4>
+      <h3 className="margin-y-50 text-center">Double-Entry System:</h3>
 
       <p>Accounting follows a double-entry system, which means every transaction has two opposing entries. One account is debited (increased), and another account is credited (decreased) with the same amount. This maintains the balance in the accounting equation.</p>
 
-      <h4 className="margin-y-50 text-center">Parts of a Journal Entry:</h4>
+      <h3 className="margin-y-50 text-center">Parts of a Journal Entry:</h3>
 
       <p>A typical <strong>journal entry</strong> includes the following elements:</p>
 
@@ -51,7 +51,7 @@ export default function JournalEntry(): React.JSX.Element {
 
         </ul>
 
-      <h4 className="margin-y-50 text-center">Here's an example of a journal entry:</h4>
+      <h3 className="margin-y-50 text-center">Here's an example of a journal entry:</h3>
 
       <p>Let's say a company purchases office supplies for $100 cash. The <strong>journal entry</strong> would be:</p>
 
@@ -71,7 +71,7 @@ export default function JournalEntry(): React.JSX.Element {
 
       <p className="margin-top-20">In this example, the Office Supplies account (an asset) is increased by $100 (debit), and the Cash account (another asset) is decreased by $100 (credit) to reflect the outflow of cash.</p>
 
-      <h4 className="margin-y-50 text-center">Importance of Journal Entries:</h4>
+      <h3 className="margin-y-50 text-center">Importance of Journal Entries:</h3>
 
         <ul className="list-square">
 
@@ -97,11 +97,11 @@ export default function JournalEntry(): React.JSX.Element {
     
       <p className="margin-top-20">Here's how it works:</p>
 
-      <h4 className="margin-y-50 text-center">Playground = Business:</h4>
+      <h3 className="margin-y-50 text-center">Playground = Business:</h3>
 
       <p>A business is like a big playground where grown-ups work and make money.</p>
 
-      <h4 className="margin-y-50 text-center">Notebook = Journal entry:</h4>
+      <h3 className="margin-y-50 text-center">Notebook = Journal entry:</h3>
 
       <p> Every time something important happens at the business, they write it down in a fancy notebook, like you do at the playground. They write things like:</p>
 
@@ -115,7 +115,7 @@ export default function JournalEntry(): React.JSX.Element {
 
         </ul>
 
-      <h4 className="margin-y-50 text-center">Why are journal entries important?</h4>
+      <h3 className="margin-y-50 text-center">Why are journal entries important?</h3>
 
         <ul className="list-square">
 

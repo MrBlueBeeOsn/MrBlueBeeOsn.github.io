@@ -43,7 +43,7 @@ export default function BayDauPhuPhienAmTiengAnh2(): React.JSX.Element {
       
       <p>Để học nhanh và dễ nhớ, ta dùng 7 dấu phụ kết hợp với 1 dạng mặc định (không dấu) để biểu thị cách phát âm.</p>
 
-      <h4 className="margin-y-50 text-center"> Giới thiệu</h4>
+      <h3 className="margin-y-50 text-center"> Giới thiệu</h3>
 
       <p>👉 Tổng cộng: 8 nhóm ký hiệu → bao quát hầu hết nguyên âm tiếng Anh.</p>
 
@@ -63,7 +63,7 @@ export default function BayDauPhuPhienAmTiengAnh2(): React.JSX.Element {
 
         <div className="margin-y-30">
 
-          <h4 className="margin-y-50 text-center" id="mac-dinh">1. Mặc định (không dấu) — Nguyên âm ngắn (short vowels)</h4>
+          <h3 className="margin-y-50 text-center" id="mac-dinh">1. Mặc định (không dấu) — Nguyên âm ngắn (short vowels)</h3>
 
           <p className="margin-top-20 text-indent-whole">📌 Giữ aeiou — oo y làm mặc định (short vowels) và ee (long vowel) để đơn giản:</p>
 
@@ -103,7 +103,7 @@ export default function BayDauPhuPhienAmTiengAnh2(): React.JSX.Element {
 
         <div className="margin-y-30">
 
-          <h4 className="margin-y-50 text-center" id="macron">2. Macron <mark className="highlight-tertiary-padding-4-8">¯</mark> — Nguyên âm dài / diphthongs</h4>
+          <h3 className="margin-y-50 text-center" id="macron">2. Macron <mark className="highlight-tertiary-padding-4-8">¯</mark> — Nguyên âm dài / diphthongs</h3>
 
           <p className="margin-top-20 text-indent-whole">📌 Dấu ngang trên đầu = âm kéo dài / nguyên âm đôi chính.</p>
 
@@ -140,7 +140,7 @@ export default function BayDauPhuPhienAmTiengAnh2(): React.JSX.Element {
 
         <div className="margin-y-30">
 
-          <h4 className="margin-y-50 text-center" id="circumflex">3. Circumflex <mark className="highlight-tertiary-padding-4-8">ˆ</mark> — Caret vowel /ʌ/</h4>
+          <h3 className="margin-y-50 text-center" id="circumflex">3. Circumflex <mark className="highlight-tertiary-padding-4-8">ˆ</mark> — Caret vowel /ʌ/</h3>
 
           <p className="margin-top-20 text-indent-whole">📌 Dùng dấu mũ cho âm caret /ʌ/ (âm giữa, miệng mở vừa).</p>
 
@@ -172,7 +172,7 @@ export default function BayDauPhuPhienAmTiengAnh2(): React.JSX.Element {
 
         <div className="margin-y-30">
 
-          <h4 className="margin-y-50 text-center" id="dot-above">4. Dot above <mark className="highlight-tertiary-padding-4-8">˙</mark> — Âm /ɪ/ biến thể</h4>
+          <h3 className="margin-y-50 text-center" id="dot-above">4. Dot above <mark className="highlight-tertiary-padding-4-8">˙</mark> — Âm /ɪ/ biến thể</h3>
 
           <p className="margin-top-20 text-indent-whole">📌 Dấu chấm trên để biểu thị các trường hợp chữ viết khác nhưng phát âm là /ɪ/</p>
 
@@ -208,7 +208,7 @@ export default function BayDauPhuPhienAmTiengAnh2(): React.JSX.Element {
 
         <div className="margin-y-30">
 
-          <h4 className="margin-y-50 text-center" id="hook">5. Hook <mark className="highlight-tertiary-padding-4-8"> ̛  </mark>&nbsp;— Schwa /ə/ và schwa và schwa + r</h4>
+          <h3 className="margin-y-50 text-center" id="hook">5. Hook <mark className="highlight-tertiary-padding-4-8"> ̛  </mark>&nbsp;— Schwa /ə/ và schwa và schwa + r</h3>
 
           <p className="margin-top-20 text-indent-whole">📌 Dấu móc (như “ơ”) cho âm trung tính schwa và dạng +r.</p>
 
@@ -259,7 +259,7 @@ export default function BayDauPhuPhienAmTiengAnh2(): React.JSX.Element {
 
         <div className="margin-y-30">
 
-          <h4 className="margin-y-50 text-center" id="umlaut">6. Umlaut / Diaeresis <mark className="highlight-tertiary-padding-4-8">¨</mark> — Nguyên âm biến đổi</h4>
+          <h3 className="margin-y-50 text-center" id="umlaut">6. Umlaut / Diaeresis <mark className="highlight-tertiary-padding-4-8">¨</mark> — Nguyên âm biến đổi</h3>
 
           <p className="margin-top-20 text-indent-whole">📌 Dùng khi nguyên âm “đặc biệt” (thường là âm dài / vị trí môi/lưỡi khác).</p>
           
@@ -293,7 +293,7 @@ export default function BayDauPhuPhienAmTiengAnh2(): React.JSX.Element {
 
         <div className="margin-y-30">
 
-          <h4 className="margin-y-50 text-center" id="double-macron">7. Double Macron <mark className="highlight-tertiary-padding-4-8">&nbsp; ̄ ̄</mark> — Âm dài đặc biệt và biến thể mở rộng</h4>
+          <h3 className="margin-y-50 text-center" id="double-macron">7. Double Macron <mark className="highlight-tertiary-padding-4-8">&nbsp; ̄ ̄</mark> — Âm dài đặc biệt và biến thể mở rộng</h3>
 
           <p className="margin-top-20 text-indent-whole">📌 Biểu thị âm /e/ /ɑː/ /uː/ /e/</p>
 
@@ -335,7 +335,7 @@ export default function BayDauPhuPhienAmTiengAnh2(): React.JSX.Element {
 
         <div className="margin-y-30">
 
-          <h4 className="margin-y-50 text-center" id="ring">8. Ring <mark className="highlight-tertiary-padding-4-8">˚</mark> — Âm tròn /ɔː/</h4>
+          <h3 className="margin-y-50 text-center" id="ring">8. Ring <mark className="highlight-tertiary-padding-4-8">˚</mark> — Âm tròn /ɔː/</h3>
 
           <p className="margin-top-20 text-indent-whole">📌 Biểu thị một số trường hợp âm /ɔː/ đặc biệt.</p>
 
@@ -373,7 +373,7 @@ export default function BayDauPhuPhienAmTiengAnh2(): React.JSX.Element {
 
       <div className="margin-y-30 text-border1 table-container">
 
-        <h4 className="margin-y-30 text-center">✅ Kết luận</h4>
+        <h3 className="margin-y-30 text-center">✅ Kết luận</h3>
 
         <p className="margin-y-30">Hệ thống 8 dấu phụ này:</p>
 

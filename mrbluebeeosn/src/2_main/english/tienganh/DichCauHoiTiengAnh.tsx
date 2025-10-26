@@ -53,7 +53,7 @@ export default function DichCauHoiTiengAnh(): React.JSX.Element {
 
 				</p>
 
-			<h4 className="margin-top-30 margin-bottom-50 text-center">1. Cấu trúc của câu hỏi trong tiếng Anh</h4>
+			<h3 className="margin-top-30 margin-bottom-50 text-center">1. Cấu trúc của câu hỏi trong tiếng Anh</h3>
 			
 			<p>Một câu hỏi tiếng Anh thường bao gồm:</p>
 
@@ -71,7 +71,7 @@ export default function DichCauHoiTiengAnh(): React.JSX.Element {
 
 				</ul>
 			
-			<h4 className="margin-y-50 text-center">Ví dụ:</h4>
+			<h3 className="margin-y-50 text-center">Ví dụ:</h3>
 				
 				<p className="margin-top-20">Trong câu [<strong>What</strong>] (<strong>is English</strong>)?, ta có:</p>
 
@@ -89,7 +89,7 @@ export default function DichCauHoiTiengAnh(): React.JSX.Element {
 
 			<p className="margin-top-20">Khi dịch sang tiếng Việt, cấu trúc này được đảo ngược để chủ từ đứng trước, tiếp theo là trợ động từ (nếu có), động từ chính, các bổ ngữ hoặc trạng từ, và cuối cùng là hỏi từ.</p>
 
-			<h4 className="margin-y-50 text-center">2. Các bước dịch câu hỏi</h4>
+			<h3 className="margin-y-50 text-center">2. Các bước dịch câu hỏi</h3>
 
 			<p>Để dịch câu hỏi tiếng Anh sang tiếng Việt, bạn có thể thực hiện theo các bước sau:</p>
 
@@ -99,7 +99,7 @@ export default function DichCauHoiTiengAnh(): React.JSX.Element {
 
 			<div className="margin-y-15 text-border1 table-container">
 
-				<h4 className="margin-y-50 text-center">Bước 1: Xác định các thành phần chính</h4>
+				<h3 className="margin-y-50 text-center">Bước 1: Xác định các thành phần chính</h3>
 
 				<p>Xác định hỏi từ, trợ động từ (nếu có), động từ chính, chủ từ, và các bổ ngữ hoặc trạng từ.</p>
 
@@ -139,7 +139,7 @@ export default function DichCauHoiTiengAnh(): React.JSX.Element {
 
 			<div className="margin-y-15 text-border1 table-container">
 
-				<h4 className="margin-y-50 text-center">Bước 2: Đặt hỏi từ trong dấu ngoặc vuông [] và trợ động từ cùng chủ từ trong dấu ngoặc đơn ()</h4>
+				<h3 className="margin-y-50 text-center">Bước 2: Đặt hỏi từ trong dấu ngoặc vuông [] và trợ động từ cùng chủ từ trong dấu ngoặc đơn ()</h3>
 
 				<p>Đặt hỏi từ trong dấu ngoặc vuông [] để đánh dấu nó sẽ được dịch cuối cùng. Đặt trợ động từ (hoặc động từ chính nếu không có trợ động từ) và chủ từ trong dấu ngoặc đơn () để dịch từ phải sang trái.</p>
 
@@ -159,7 +159,7 @@ export default function DichCauHoiTiengAnh(): React.JSX.Element {
 
 			<div className="margin-y-15 text-border1 table-container">
 
-				<h4 className="margin-y-50 text-center">Bước 3: Dịch chủ từ trước</h4>
+				<h3 className="margin-y-50 text-center">Bước 3: Dịch chủ từ trước</h3>
 
 				<p className="margin-top-20">Dịch chủ từ sang tiếng Việt trước tiên, vì trong tiếng Việt, chủ từ thường đứng đầu câu.</p>
 
@@ -191,7 +191,7 @@ export default function DichCauHoiTiengAnh(): React.JSX.Element {
 
 			<div className="margin-y-15 text-border1 table-container">
 
-				<h4 className="margin-y-50 text-center">Bước 4: Dịch trợ động từ (nếu có), động từ chính, và các bổ ngữ hoặc trạng từ</h4>
+				<h3 className="margin-y-50 text-center">Bước 4: Dịch trợ động từ (nếu có), động từ chính, và các bổ ngữ hoặc trạng từ</h3>
 
 				<p>Dịch các thành phần trong dấu ngoặc đơn () từ phải sang trái (bắt đầu từ chủ từ, sau đó là trợ động từ hoặc động từ chính), rồi tiếp tục với động từ chính (nếu chưa được dịch) và các bổ ngữ hoặc trạng từ theo thứ tự tự nhiên trong tiếng Việt.</p>
 
@@ -227,7 +227,7 @@ export default function DichCauHoiTiengAnh(): React.JSX.Element {
 
 			<div className="margin-y-15 text-border1 table-container">
 
-				<h4 className="margin-y-50 text-center">Bước 5: Dịch hỏi từ cuối cùng</h4>
+				<h3 className="margin-y-50 text-center">Bước 5: Dịch hỏi từ cuối cùng</h3>
 
 				<p>Dịch hỏi từ trong dấu ngoặc vuông [] và đặt nó ở cuối câu để phù hợp với cấu trúc tiếng Việt.</p>
 
@@ -253,7 +253,7 @@ export default function DichCauHoiTiengAnh(): React.JSX.Element {
 
 			</div>
 
-			<h4 className="margin-y-50 text-center">3. Xử lý các câu hỏi phức tạp</h4>
+			<h3 className="margin-y-50 text-center">3. Xử lý các câu hỏi phức tạp</h3>
 
 			<p>Khi câu hỏi có bổ ngữ hoặc trạng từ phức tạp hơn, bạn vẫn áp dụng nguyên tắc tương tự, chỉ đặt hỏi từ trong dấu ngoặc vuông [] và trợ động từ (hoặc động từ chính) cùng chủ từ trong dấu ngoặc đơn (), còn các thành phần khác được dịch theo thứ tự tự nhiên trong tiếng Việt.</p>
 
@@ -311,7 +311,7 @@ export default function DichCauHoiTiengAnh(): React.JSX.Element {
 
 				</ul>
 
-			<h4 className="margin-y-50 text-center">4. Lưu ý khi dịch</h4>
+			<h3 className="margin-y-50 text-center">4. Lưu ý khi dịch</h3>
 
 				<p> <strong>Phân biệt trợ động từ và động từ chính </strong>:</p>
 
@@ -335,7 +335,7 @@ export default function DichCauHoiTiengAnh(): React.JSX.Element {
 
 				<p><strong>Hỏi từ</strong>: Các từ như <strong>what</strong>, <strong>where</strong>, <strong>when</strong>, <strong>why</strong>, <strong>how</strong> được đặt trong dấu [] và dịch cuối cùng, nằm ở vị trí cuối câu để phù hợp với cấu trúc tiếng Việt.</p>
 
-			<h4 className="margin-y-50 text-center">5. Kết luận</h4>
+			<h3 className="margin-y-50 text-center">5. Kết luận</h3>
 			
 			<p>Phương pháp dịch câu hỏi tiếng Anh theo nguyên tắc "<strong>chủ từ dịch trước</strong>, <strong>trợ động từ hoặc động từ chính dịch sau</strong>, <strong>tiếp đến là bổ nghĩa</strong>, <strong>cuối cùng là hỏi từ</strong>", kết hợp với việc đặt hỏi từ trong dấu ngoặc vuông [] và trợ động từ/động từ chính cùng chủ từ trong dấu ngoặc đơn (), giúp người học dễ dàng nhận diện và sắp xếp các thành phần. Bằng cách dịch chủ từ trước, xử lý các thành phần trong dấu () từ phải sang trái, tiếp tục với động từ chính và bổ ngữ, rồi đặt hỏi từ ở cuối, bạn có thể tạo ra câu văn tiếng Việt tự nhiên và đúng ngữ pháp. Thực hành thường xuyên với các ví dụ cụ thể sẽ giúp bạn nắm vững kỹ năng này.</p>
 

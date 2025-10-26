@@ -81,7 +81,7 @@ export default function GiaoVienTiengAnh(): React.JSX.Element {
 
       <p>Con hãy tưởng tượng cô giáo tiếng Anh như một người bạn đặc biệt giúp con học một ngôn ngữ mới thú vị, giống như tiếng Anh. Cô giáo sẽ dạy con cách nghe, nói, đọc, viết và hiểu tiếng Anh một cách vui vẻ và dễ dàng.</p>
 
-      <h4 className="margin-y-50 text-center">Cô giáo tiếng Anh sẽ làm gì?</h4>
+      <h3 className="margin-y-50 text-center">Cô giáo tiếng Anh sẽ làm gì?</h3>
 
         <ul className="list-square">
 

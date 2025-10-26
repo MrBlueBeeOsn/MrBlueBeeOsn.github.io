@@ -25,11 +25,11 @@ export default function TrialBalance(): React.JSX.Element {
 
       <p className="margin-top-20">Here's a deeper look at <strong>trial balances</strong>:</p>
 
-      <h4 className="margin-y-50 text-center">Balancing the Books:</h4>
+      <h3 className="margin-y-50 text-center">Balancing the Books:</h3>
 
       <p>Imagine you have a scale with two sides. On one side, you place all the debits (like money spent), and on the other side, you put all the credits (like money received). In a perfect scenario, both sides should balance out. A <strong>trial balance</strong> helps ensure this by showing if the total debits match the total credits in the accounting system.</p>
 
-      <h4 className="margin-y-50 text-center">What it Includes:</h4>
+      <h3 className="margin-y-50 text-center">What it Includes:</h3>
 
       <p>A <strong>trial balance</strong> typically includes:</p>
 
@@ -43,11 +43,11 @@ export default function TrialBalance(): React.JSX.Element {
 
         </ul>
 
-      <h4 className="margin-y-50 text-center">Preparation Process:</h4>
+      <h3 className="margin-y-50 text-center">Preparation Process:</h3>
 
       <p>After recording all transactions for a specific period (usually a month or quarter), accountants calculate the ending balance for each account in the general ledger. These ending balances are then transferred to the <strong>trial balance</strong>.</p>
       
-      <h4 className="margin-y-50 text-center">Importance:</h4>
+      <h3 className="margin-y-50 text-center">Importance:</h3>
 
       <p>A <strong>trial balance</strong> serves several purposes:</p>
 
@@ -61,11 +61,11 @@ export default function TrialBalance(): React.JSX.Element {
 
         </ul>
 
-      <h4 className="margin-y-50 text-center">Limitations:</h4>
+      <h3 className="margin-y-50 text-center">Limitations:</h3>
 
       <p>While a balanced <strong>trial balance</strong> indicates no mathematical errors, it doesn't guarantee the complete absence of errors. For example, a transaction might be posted to the wrong account, even though the debits and credits balance.</p>
 
-      <h4 className="margin-y-50 text-center">Unadjusted vs. Adjusted Trial Balance: </h4>
+      <h3 className="margin-y-50 text-center">Unadjusted vs. Adjusted Trial Balance: </h3>
     
       <p>There are two main types of trial balances:</p>
 
@@ -101,7 +101,7 @@ export default function TrialBalance(): React.JSX.Element {
 
         </ul>
       
-      <h4 className="margin-y-50 text-center">Why is a trial balance important?</h4>
+      <h3 className="margin-y-50 text-center">Why is a trial balance important?</h3>
 
         <ul className="list-square">
 

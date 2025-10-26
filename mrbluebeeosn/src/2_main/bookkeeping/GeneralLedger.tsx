@@ -39,7 +39,7 @@ export default function GeneralLedger(): React.JSX.Element {
 
       <p className="margin-y-50">Structure of a <strong>General Ledger</strong>:</p>
 
-      <h4 className="margin-y-50 text-center">Accounts:</h4>
+      <h3 className="margin-y-50 text-center">Accounts:</h3>
 
       <p>The <strong>general ledger</strong> is made up of numerous accounts, each representing a specific category of financial activity. There are two main types of accounts:</p>
 
@@ -57,7 +57,7 @@ export default function GeneralLedger(): React.JSX.Element {
 
         </ul>
 
-      <h4 className="margin-y-50 text-center">Double-Entry System:</h4>
+      <h3 className="margin-y-50 text-center">Double-Entry System:</h3>
 
       <p>The <strong>general ledger</strong> follows the double-entry accounting system, which means every transaction is recorded in two accounts:</p>
 
@@ -75,7 +75,7 @@ export default function GeneralLedger(): React.JSX.Element {
 
       <p className="text-indent-whole">Accounting software typically manages the <strong>general ledger</strong> electronically. Accountants can enter transactions directly into the system, which automatically updates the relevant account balances. The <strong>general ledger</strong> also allows for easy generation of reports and exporting data for further analysis.</p>
 
-      <h4 className="margin-y-50 text-center">Importance of the General Ledger:</h4>
+      <h3 className="margin-y-50 text-center">Importance of the General Ledger:</h3>
 
       <p>The <strong>general ledger</strong> plays a critical role in accounting for several reasons:</p>
 

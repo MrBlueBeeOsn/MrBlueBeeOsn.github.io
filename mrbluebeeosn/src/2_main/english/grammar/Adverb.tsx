@@ -99,7 +99,7 @@ export default function Adverb(): React.JSX.Element {
 
         </ul>
 
-        <h4 className="margin-y-50 text-center">Why are adverbs important?</h4>
+        <h3 className="margin-y-50 text-center">Why are adverbs important?</h3>
         
         <p>Because:</p>
 

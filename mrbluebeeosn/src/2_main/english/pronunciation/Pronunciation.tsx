@@ -25,19 +25,19 @@ export default function Pronunciation(): React.JSX.Element {
 
       <p className="margin-top-20"> Here's the breakdown:</p>
 
-      <h4 className="margin-y-50 text-center">Letter Sounds:</h4>
+      <h3 className="margin-y-50 text-center">Letter Sounds:</h3>
 
       <p>Each letter in English has a special sound it can make, kind of like a button on a toy that makes a noise.  For instance, the letter "b" usually makes a "buh" sound and the letter "a" can make a short "ah" sound, like in "cat."</p>
 
-      <h4 className="margin-y-50 text-center">Secret Decoder Ring:</h4>
+      <h3 className="margin-y-50 text-center">Secret Decoder Ring:</h3>
 
       <p>But just like some toys have buttons that make different sounds depending on how you press them, letters in English can sometimes be tricky!  <strong>Pronunciation</strong> is like your secret decoder ring that helps you figure out the correct sound for each letter, depending on the word.  For example, the letter "e" can sometimes say "ee" like in "tree" and sometimes say "uh" like in "but."</p>
 
-      <h4 className="margin-y-50 text-center">Saying Words Out Loud:</h4>
+      <h3 className="margin-y-50 text-center">Saying Words Out Loud:</h3>
 
       <p>The main goal of <strong>pronunciation</strong> is to be able to say words out loud clearly, so people understand you.  Just like knowing the buttons on your toys helps you play fun sound effects, knowing <strong>pronunciation</strong> helps you string letter sounds together to create words that everyone can understand.</p>
 
-      <h4 className="margin-y-50 text-center">Practice Makes Perfect:</h4>
+      <h3 className="margin-y-50 text-center">Practice Makes Perfect:</h3>
 
       <p><strong>Pronunciation</strong> can take some practice, especially because English can be a bit sneaky with its letter sounds sometimes!  But the more you practice saying your favorite words and reading new ones, the better you'll become at cracking the <strong>pronunciation</strong> code.</p>
 
@@ -53,19 +53,19 @@ export default function Pronunciation(): React.JSX.Element {
 
       <p><strong>Pronunciation</strong> in English is like your super secret way of turning written words into sounds you can say out loud! It's like having a magic key that unlocks the secret sounds hidden inside those squiggly letters.</p>
 
-      <h4 className="margin-y-50 text-center">Letter Sounds:</h4>
+      <h3 className="margin-y-50 text-center">Letter Sounds:</h3>
 
       <p>Imagine your favorite stuffed animal. Maybe when you squeeze its tummy, it makes a squeaky sound!  Letters in English are kind of like that.  Each letter has a special sound it can make, like a button with a secret noise. The letter "b" usually makes a "buh" sound and the letter "a" can make a short "ah" sound, like in "cat."</p>
       
-      <h4 className="margin-y-50 text-center">Word Wizard:</h4>
+      <h3 className="margin-y-50 text-center">Word Wizard:</h3>
 
       <p>But wait!  English can be a bit tricky sometimes, like a mischievous friend who hides your toys.  Some letters can make different sounds depending on the word.  That's where <strong>pronunciation</strong> comes in!  It's like your special word wizard hat that helps you figure out the correct sound for each letter, depending on the whole word.  For instance, the letter "u" in "cup" says "uh" but in "jump" it says "uhuh."</p>
         
-      <h4 className="margin-y-50 text-center">Speak Like a Superhero:</h4>
+      <h3 className="margin-y-50 text-center">Speak Like a Superhero:</h3>
 
       <p>The most important thing about <strong>pronunciation</strong> is being able to speak clearly, just like your favorite superhero!  When you know how to say your words correctly, people can understand you and you can chat with them about all sorts of fun things.</p>
         
-      <h4 className="margin-y-50 text-center">Practice Makes Progress:</h4>
+      <h3 className="margin-y-50 text-center">Practice Makes Progress:</h3>
 
       <p>Learning <strong>pronunciation</strong> might take a little practice, like mastering a new bike trick.  But the more you say your favorite words and try out new ones, the better you'll become at using your secret decoder ring and unlocking all the cool sounds in English.</p>
 

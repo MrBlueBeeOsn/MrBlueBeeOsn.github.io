@@ -230,7 +230,7 @@ export default function Scrupulously1(): React.JSX.Element {
 
       <div className="margin-y-30 text-border1 table-container">
 
-        <h4 className="margin-y-30 text-center">Lưu ý:</h4>
+        <h3 className="margin-y-30 text-center">Lưu ý:</h3>
 
         <ul className="list-square">
 

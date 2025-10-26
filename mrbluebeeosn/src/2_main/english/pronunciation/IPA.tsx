@@ -47,7 +47,7 @@ export default function IPA(): React.JSX.Element {
 
       <p><strong>IPA</strong> is like a special alphabet with symbols that each have one specific sound, no matter what word they're in.  It's like having a toy box where every single toy has a unique noise!  For example, the letter "b" in English can sometimes sound like "buh" and sometimes like "buh-ruh."  But in <strong>IPA</strong>, there would be a special symbol that always means just "buh."</p>
 
-      <h4 className="margin-y-50 text-center">So, why do grown-ups love this secret code?</h4>
+      <h3 className="margin-y-50 text-center">So, why do grown-ups love this secret code?</h3>
 
         <ul className="list-square">
 

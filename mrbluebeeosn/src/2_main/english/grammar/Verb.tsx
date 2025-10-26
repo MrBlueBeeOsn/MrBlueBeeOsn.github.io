@@ -121,7 +121,7 @@ export default function Verb(): React.JSX.Element {
 
         </ul>
 
-      <h4 className="margin-y-50 text-center">Remember:</h4>
+      <h3 className="margin-y-50 text-center">Remember:</h3>
 
       <p>There are all sorts of <strong>verb</strong> super powers in English. The more you practice, the easier it will be to find them and use them to speak English like a superhero!</p>
 

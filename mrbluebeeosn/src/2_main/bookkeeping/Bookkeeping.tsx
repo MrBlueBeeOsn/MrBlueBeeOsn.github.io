@@ -25,27 +25,27 @@ export default function Bookkeeping(): React.JSX.Element {
 
       <p className="margin-top-20">Here's a breakdown of what <strong>bookkeeping</strong> entails:</p>
 
-      <h4 className="margin-y-50 text-center">Transaction Recording:</h4>
+      <h3 className="margin-y-50 text-center">Transaction Recording:</h3>
 
       <p>Bookkeepers meticulously record every financial transaction a company makes. This includes income from sales, expenses incurred, purchases made, and payments received. Nowadays, accounting software is often used to streamline this process.</p>
 
-      <h4 className="margin-y-50 text-center">Classification and Organization:</h4>
+      <h3 className="margin-y-50 text-center">Classification and Organization:</h3>
 
       <p>Not all transactions are created equal. Bookkeepers categorize these transactions according to their nature (e.g., salary expense, equipment purchase). This organization makes financial information easier to understand and analyze.</p>
 
-      <h4 className="margin-y-50 text-center">Reconciliation:</h4>
+      <h3 className="margin-y-50 text-center">Reconciliation:</h3>
 
       <p>Regularly, bookkeepers reconcile financial accounts, such as bank statements and credit card statements. This involves comparing the company's records with the records of their financial institutions to identify and rectify any discrepancies or errors.</p>
 
-      <h4 className="margin-y-50 text-center">General Ledger Maintenance:</h4>
+      <h3 className="margin-y-50 text-center">General Ledger Maintenance:</h3>
 
       <p>The general ledger is the core of a company's accounting system. It acts like a giant record book where all financial transactions are categorized and posted to their respective accounts. Bookkeepers are responsible for maintaining and updating this ledger.</p>
 
-      <h4 className="margin-y-50 text-center">Basic Financial Reports:</h4>
+      <h3 className="margin-y-50 text-center">Basic Financial Reports:</h3>
 
       <p>While accountants might handle more complex reports, bookkeepers may generate basic financial reports like income statements and balance sheets. These reports summarize the company's financial performance and position at a specific point in time.</p>
 
-      <h4 className="margin-y-50 text-center">Additional Tasks:</h4>
+      <h3 className="margin-y-50 text-center">Additional Tasks:</h3>
 
       <p>Depending on the company's size and needs, bookkeepers might handle additional tasks such as</p>
       
@@ -59,7 +59,7 @@ export default function Bookkeeping(): React.JSX.Element {
 
         </ul>
 
-      <h4 className="margin-y-50 text-center">Significance of Bookkeeping:</h4>
+      <h3 className="margin-y-50 text-center">Significance of Bookkeeping:</h3>
         
       <p>Accurate and organized <strong>bookkeeping</strong> practices are essential for a business's well-being. Here's why <strong>bookkeeping</strong> matters:</p>
 
@@ -75,7 +75,7 @@ export default function Bookkeeping(): React.JSX.Element {
 
         </ul>
 
-      <h4 className="margin-y-50 text-center">Who Needs a <Link to="bookkeeper.html">Bookkeeper</Link>?</h4>
+      <h3 className="margin-y-50 text-center">Who Needs a <Link to="bookkeeper.html">Bookkeeper</Link>?</h3>
       
       <p>Many small businesses might choose to handle <strong>bookkeeping</strong> tasks themselves when they're first starting. However, as a business grows and financial transactions become more complex,  hiring a bookkeeper becomes increasingly important. Here are some signs a business might need a bookkeeper:</p>
 

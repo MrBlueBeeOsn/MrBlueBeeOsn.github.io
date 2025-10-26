@@ -44,7 +44,7 @@ export default function DichCumDongTuTiengAnh(): React.JSX.Element {
 
 				</p>
 
-			<h4 className="margin-top-30 margin-bottom-50 text-center">1. Cấu trúc của cụm động từ trong tiếng Anh</h4>
+			<h3 className="margin-top-30 margin-bottom-50 text-center">1. Cấu trúc của cụm động từ trong tiếng Anh</h3>
 			
 			<p>Một cụm động từ tiếng Anh thường bao gồm:</p>
 
@@ -60,7 +60,7 @@ export default function DichCumDongTuTiengAnh(): React.JSX.Element {
 
 			<p>Khi dịch sang tiếng Việt, cấu trúc này cần được đảo ngược để động từ đứng trước, còn các trạng từ và bổ ngữ đứng sau, với các trạng từ hoặc bổ ngữ được nhận diện từ dấu ngoặc đơn.</p>
 
-			<h4 className="margin-y-50 text-center">2. Các bước dịch cụm động từ</h4>
+			<h3 className="margin-y-50 text-center">2. Các bước dịch cụm động từ</h3>
 
 			<p>Để dịch cụm động từ tiếng Anh sang tiếng Việt, bạn có thể thực hiện theo các bước sau:</p>
 
@@ -70,7 +70,7 @@ export default function DichCumDongTuTiengAnh(): React.JSX.Element {
 
 			<div className="margin-y-15 text-border1 table-container">
 
-				<h4 className="margin-y-50 text-center">Bước 1: Xác định động từ chính</h4>
+				<h3 className="margin-y-50 text-center">Bước 1: Xác định động từ chính</h3>
 
 				<p>Động từ chính là từ cốt lõi trong cụm động từ, thường nằm ở vị trí đầu tiên. Đây là từ bạn sẽ dịch đầu tiên.</p>
 				
@@ -90,7 +90,7 @@ export default function DichCumDongTuTiengAnh(): React.JSX.Element {
 
 			<div className="margin-y-15 text-border1 table-container">
 
-				<h4 className="margin-y-50 text-center">Bước 2: Đặt các trạng từ hoặc bổ ngữ vào dấu ngoặc đơn</h4>
+				<h3 className="margin-y-50 text-center">Bước 2: Đặt các trạng từ hoặc bổ ngữ vào dấu ngoặc đơn</h3>
 
 				<p>Liệt kê các trạng từ hoặc bổ ngữ đứng sau động từ chính và đặt chúng vào dấu ngoặc đơn trong cấu trúc cụm động từ. Các thành phần này sẽ được dịch sau động từ chính.</p>
 
@@ -110,7 +110,7 @@ export default function DichCumDongTuTiengAnh(): React.JSX.Element {
 
 			<div className="margin-y-15 text-border1 table-container">
 
-				<h4 className="margin-y-50 text-center">Bước 3: Dịch động từ trước</h4>
+				<h3 className="margin-y-50 text-center">Bước 3: Dịch động từ trước</h3>
 
 				<p>Dịch động từ chính sang tiếng Việt trước tiên.</p>
 				
@@ -124,7 +124,7 @@ export default function DichCumDongTuTiengAnh(): React.JSX.Element {
 
 			<div className="margin-y-15 text-border1 table-container">
 
-				<h4 className="margin-y-50 text-center">Bước 4: Dịch các trạng từ hoặc bổ ngữ từ phải sang trái</h4>
+				<h3 className="margin-y-50 text-center">Bước 4: Dịch các trạng từ hoặc bổ ngữ từ phải sang trái</h3>
 
 				<p>Dịch các trạng từ hoặc bổ ngữ trong dấu ngoặc đơn theo thứ tự từ phải sang trái để phù hợp với ngữ pháp tiếng Việt.</p>
 
@@ -156,7 +156,7 @@ export default function DichCumDongTuTiengAnh(): React.JSX.Element {
 
 			</div>
 
-			<h4 className="margin-y-50 text-center">3. Xử lý các cụm động từ phức tạp</h4>
+			<h3 className="margin-y-50 text-center">3. Xử lý các cụm động từ phức tạp</h3>
 
 			<p>Khi cụm động từ có bổ ngữ phức tạp hơn, như cụm giới từ hoặc mệnh đề bổ nghĩa, bạn vẫn áp dụng nguyên tắc tương tự, nhưng chỉ đặt trạng từ hoặc bổ ngữ trực tiếp liên quan đến cách thức, thời gian, hoặc địa điểm vào dấu ngoặc đơn, còn các thành phần khác được xử lý riêng.</p>
 
@@ -200,7 +200,7 @@ export default function DichCumDongTuTiengAnh(): React.JSX.Element {
 
 				</ul>
 
-			<h4 className="margin-y-50 text-center">4. Lưu ý khi dịch</h4>
+			<h3 className="margin-y-50 text-center">4. Lưu ý khi dịch</h3>
 
 				<ul className="list-square">
 
@@ -214,7 +214,7 @@ export default function DichCumDongTuTiengAnh(): React.JSX.Element {
 
 				</ul>
 			
-			<h4 className="margin-y-50 text-center">5. Kết luận</h4>
+			<h3 className="margin-y-50 text-center">5. Kết luận</h3>
 			
 			<p>Phương pháp dịch cụm động từ tiếng Anh theo nguyên tắc "<strong>Động Từ dịch trước</strong>, <strong>Trạng Từ dịch sau</strong>", kết hợp với việc đặt các trạng từ và bổ ngữ vào dấu ngoặc đơn trong cấu trúc <strong>động từ</strong> (<strong>trạng từ bổ ngữ</strong>), giúp người học dễ dàng nhận diện và sắp xếp các thành phần bổ nghĩa. Bằng cách xác định động từ chính trước, đặt các trạng từ/bổ ngữ vào ngoặc, và dịch chúng từ phải sang trái, bạn có thể tạo ra câu văn tiếng Việt tự nhiên và đúng ngữ pháp. Thực hành thường xuyên với các ví dụ cụ thể sẽ giúp bạn nắm vững kỹ năng này.</p>
 

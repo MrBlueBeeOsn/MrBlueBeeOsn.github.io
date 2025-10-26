@@ -39,7 +39,7 @@ export default function English(): React.JSX.Element {
 
         </ul>
 
-      <h4 className="margin-y-50 text-center">Why English is so widely used</h4>
+      <h3 className="margin-y-50 text-center">Why English is so widely used</h3>
 
         <ul className="list-square">
 

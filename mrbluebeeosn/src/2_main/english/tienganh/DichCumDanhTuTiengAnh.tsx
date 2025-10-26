@@ -44,7 +44,7 @@ export default function DichCumDanhTuTiengAnh(): React.JSX.Element {
 
 				</p>
 
-			<h4 className="margin-top-30 margin-bottom-50 text-center">1. Cấu trúc của cụm danh từ trong tiếng Anh</h4>
+			<h3 className="margin-top-30 margin-bottom-50 text-center">1. Cấu trúc của cụm danh từ trong tiếng Anh</h3>
 			
 			<p>Một cụm danh từ tiếng Anh thường bao gồm:</p>
 
@@ -60,7 +60,7 @@ export default function DichCumDanhTuTiengAnh(): React.JSX.Element {
 
 			<p>Khi dịch sang tiếng Việt, cấu trúc này cần được đảo ngược để danh từ đứng trước, còn các tính từ và bổ ngữ đứng sau, với các tính từ hoặc danh từ ghép được nhận diện từ dấu ngoặc đơn.</p>
 
-			<h4 className="margin-y-50 text-center">2. Các bước dịch cụm danh từ</h4>
+			<h3 className="margin-y-50 text-center">2. Các bước dịch cụm danh từ</h3>
 
 			<p>Để dịch cụm danh từ tiếng Anh sang tiếng Việt, bạn có thể thực hiện theo các bước sau:</p>
 
@@ -70,7 +70,7 @@ export default function DichCumDanhTuTiengAnh(): React.JSX.Element {
 
 			<div className="margin-y-15 text-border1 table-container">
 
-				<h4 className="margin-y-50 text-center">Bước 1: Xác định danh từ chính</h4>
+				<h3 className="margin-y-50 text-center">Bước 1: Xác định danh từ chính</h3>
 
 				<p>Danh từ chính là từ cuối cùng trong cụm danh từ, đóng vai trò cốt lõi. Đây là từ bạn sẽ dịch đầu tiên.</p>
 				
@@ -90,7 +90,7 @@ export default function DichCumDanhTuTiengAnh(): React.JSX.Element {
 
 			<div className="margin-y-15 text-border1 table-container">
 
-				<h4 className="margin-y-50 text-center">Bước 2: Đặt các tính từ hoặc danh từ ghép vào dấu ngoặc đơn</h4>
+				<h3 className="margin-y-50 text-center">Bước 2: Đặt các tính từ hoặc danh từ ghép vào dấu ngoặc đơn</h3>
 
 				<p>Liệt kê các tính từ hoặc danh từ ghép đứng trước danh từ chính và đặt chúng vào dấu ngoặc đơn trong cấu trúc cụm danh từ. Cụ thể, các thành phần bổ nghĩa đứng trước danh từ chính sẽ được giữ nguyên thứ tự trong ngoặc.</p>
 
@@ -110,7 +110,7 @@ export default function DichCumDanhTuTiengAnh(): React.JSX.Element {
 
 			<div className="margin-y-15 text-border1 table-container">
 
-				<h4 className="margin-y-50 text-center">Bước 3: Dịch danh từ trước</h4>
+				<h3 className="margin-y-50 text-center">Bước 3: Dịch danh từ trước</h3>
 
 				<p>Dịch danh từ chính sang tiếng Việt trước tiên.</p>
 				
@@ -124,7 +124,7 @@ export default function DichCumDanhTuTiengAnh(): React.JSX.Element {
 
 			<div className="margin-y-15 text-border1 table-container">
 
-				<h4 className="margin-y-50 text-center">Bước 4: Dịch các tính từ hoặc danh từ ghép từ phải sang trái</h4>
+				<h3 className="margin-y-50 text-center">Bước 4: Dịch các tính từ hoặc danh từ ghép từ phải sang trái</h3>
 
 				<p>Dịch các tính từ hoặc danh từ ghép trong dấu ngoặc đơn theo thứ tự từ phải sang trái để phù hợp với ngữ pháp tiếng Việt.</p>
 
@@ -156,7 +156,7 @@ export default function DichCumDanhTuTiengAnh(): React.JSX.Element {
 
 			</div>
 
-			<h4 className="margin-y-50 text-center">3. Xử lý các cụm danh từ phức tạp</h4>
+			<h3 className="margin-y-50 text-center">3. Xử lý các cụm danh từ phức tạp</h3>
 
 			<p>Khi cụm danh từ có bổ ngữ phức tạp hơn, như cụm giới từ hoặc mệnh đề quan hệ, bạn vẫn áp dụng nguyên tắc tương tự, nhưng chỉ đặt tính từ hoặc danh từ ghép vào dấu ngoặc đơn, còn các bổ ngữ khác được xử lý riêng.</p>
 
@@ -196,7 +196,7 @@ export default function DichCumDanhTuTiengAnh(): React.JSX.Element {
 
 				</ul>
 
-			<h4 className="margin-y-50 text-center">4. Lưu ý khi dịch</h4>
+			<h3 className="margin-y-50 text-center">4. Lưu ý khi dịch</h3>
 
 				<ul className="list-square">
 
@@ -210,7 +210,7 @@ export default function DichCumDanhTuTiengAnh(): React.JSX.Element {
 
 				</ul>
 
-			<h4 className="margin-y-50 text-center">5. Kết luận</h4>
+			<h3 className="margin-y-50 text-center">5. Kết luận</h3>
 			
 			<p>Phương pháp dịch cụm danh từ tiếng Anh theo nguyên tắc "<strong>Danh Từ dịch trước</strong>, <strong>Tính Từ dịch sau</strong>", kết hợp với việc đặt các tính từ và danh từ ghép vào dấu ngoặc đơn trong cấu trúc <strong>a</strong> (<strong>tính từ</strong>) <strong>danh từ</strong>, giúp người học dễ dàng nhận diện và sắp xếp các thành phần bổ nghĩa. Bằng cách xác định danh từ chính trước, đặt các tính từ/danh từ ghép vào ngoặc, và dịch chúng từ phải sang trái, bạn có thể tạo ra câu văn tiếng Việt tự nhiên và đúng ngữ pháp. Thực hành thường xuyên với các ví dụ cụ thể sẽ giúp bạn nắm vững kỹ năng này.</p>
 
