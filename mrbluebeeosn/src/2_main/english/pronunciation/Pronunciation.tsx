@@ -49,7 +49,7 @@ export default function Pronunciation(): React.JSX.Element {
 
       <hr className="hr-short"/>
 
-      <h3 className="margin-bottom-50 text-center">🌻 Think simply!</h3>
+      <h2 className="margin-bottom-50 text-center">🌻 Think simply!</h2>
 
       <p><strong>Pronunciation</strong> in English is like your super secret way of turning written words into sounds you can say out loud! It's like having a magic key that unlocks the secret sounds hidden inside those squiggly letters.</p>
 

@@ -73,7 +73,7 @@ export default function Adjective(): React.JSX.Element {
 
       <hr className="hr-short"/>
 
-      <h3 className="margin-bottom-50 text-center">🌻 Think simply!</h3>
+      <h2 className="margin-bottom-50 text-center">🌻 Think simply!</h2>
 
       <p>An <strong>adjective</strong> in English is like a glitter word! It adds sparkle and details to the things you talk about, like your toys, friends, or even the weather. Here's how glitter words work:</p>
 

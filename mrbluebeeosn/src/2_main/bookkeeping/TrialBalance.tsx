@@ -85,7 +85,7 @@ export default function TrialBalance(): React.JSX.Element {
 
       <hr className="hr-short"/>
 
-      <h3 className="margin-bottom-50 text-center">🌻 Think simply!</h3>
+      <h2 className="margin-bottom-50 text-center">🌻 Think simply!</h2>
 
       <p>Imagine you have a big jar of jellybeans! Some jellybeans are the ones you earned from doing chores, and some are ones you spent on treats. A <strong>trial balance</strong> is like counting all the "earned" jellybeans and all the "spent" jellybeans to make sure you have the same amount of each kind.</p>
 

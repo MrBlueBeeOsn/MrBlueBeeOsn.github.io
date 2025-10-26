@@ -59,7 +59,7 @@ export default function English(): React.JSX.Element {
 
       <hr className="hr-short"/>
 
-      <h3 className="margin-bottom-50 text-center">🌻 Think simply!</h3>
+      <h2 className="margin-bottom-50 text-center">🌻 Think simply!</h2>
 
       <p><strong>English</strong> is like a special language that people all over the world use to talk to each other.</p>
 

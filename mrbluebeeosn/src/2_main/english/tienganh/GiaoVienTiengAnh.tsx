@@ -77,7 +77,7 @@ export default function GiaoVienTiengAnh(): React.JSX.Element {
 
       <hr className="hr-short"/>
 
-      <h3 className="margin-bottom-50 text-center">🌻 Think simply!</h3>
+      <h2 className="margin-bottom-50 text-center">🌻 Think simply!</h2>
 
       <p>Con hãy tưởng tượng cô giáo tiếng Anh như một người bạn đặc biệt giúp con học một ngôn ngữ mới thú vị, giống như tiếng Anh. Cô giáo sẽ dạy con cách nghe, nói, đọc, viết và hiểu tiếng Anh một cách vui vẻ và dễ dàng.</p>
 

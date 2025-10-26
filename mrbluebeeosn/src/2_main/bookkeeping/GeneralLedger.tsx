@@ -97,7 +97,7 @@ export default function GeneralLedger(): React.JSX.Element {
 
       <hr className="hr-short"/>
 
-      <h3 className="margin-bottom-50 text-center">🌻 Think simply!</h3>
+      <h2 className="margin-bottom-50 text-center">🌻 Think simply!</h2>
 
       <p>Imagine you're running a lemonade stand! You're selling yummy lemonade to everyone on the street, and you're making a lot of money. But you also need to keep track of all your stuff: how many lemons you have left, how many cups you have, and of course, all the money you earn!</p>
 

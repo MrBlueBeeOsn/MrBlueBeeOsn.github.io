@@ -87,7 +87,7 @@ export default function AccountReconciliation(): React.JSX.Element {
 
       <hr className="hr-short"/>
 
-      <h3 className="margin-bottom-50 text-center">🌻 Think simply!</h3>
+      <h2 className="margin-bottom-50 text-center">🌻 Think simply!</h2>
 
       <p>Imagine you have a lemonade stand! You keep track of all your money in a notebook - how much you earn from selling lemonade, how much you spend on supplies like lemons and sugar, and how much money you have left over. That notebook is like a special book accountants use called a general ledger.</p>
 

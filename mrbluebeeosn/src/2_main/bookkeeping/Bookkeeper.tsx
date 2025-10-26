@@ -79,7 +79,7 @@ export default function Bookkeeper(): React.JSX.Element {
 
       <hr className="hr-short"/>
 
-      <h3 className="margin-bottom-50 text-center">🌻 Think simply!</h3>
+      <h2 className="margin-bottom-50 text-center">🌻 Think simply!</h2>
 
       <p>Imagine having a super tidy room where all your toys have a special place. A <strong>bookkeeper</strong> is like the person who helps keep your toy room organized, but instead of toys, they organize money!</p>
 

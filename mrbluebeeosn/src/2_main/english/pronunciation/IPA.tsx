@@ -41,7 +41,7 @@ export default function IPA(): React.JSX.Element {
 
       <hr className="hr-short"/>
 
-      <h3 className="margin-bottom-50 text-center">🌻 Think simply!</h3>
+      <h2 className="margin-bottom-50 text-center">🌻 Think simply!</h2>
 
       <p><strong>IPA</strong>! Think of it as a super secret code for grown-ups who love languages!  Regular English letters are cool, but sometimes they can be tricky because they can make different sounds depending on the word.</p>
 

@@ -73,7 +73,7 @@ export default function Verb(): React.JSX.Element {
 
       <hr className="hr-short"/>
 
-      <h3 className="margin-bottom-50 text-center">🌻 Think simply!</h3>
+      <h2 className="margin-bottom-50 text-center">🌻 Think simply!</h2>
 
       <p>A <strong>verb</strong> in English is like an action word super power! It tells you what someone or something is doing, like running, jumping, or playing. <strong>Verbs</strong> are the stars of a sentence because they show what's happening!</p>
 

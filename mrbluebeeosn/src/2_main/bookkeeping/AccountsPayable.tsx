@@ -67,7 +67,7 @@ export default function AccountsPayable(): React.JSX.Element {
 
       <hr className="hr-short"/>
 
-      <h3 className="margin-bottom-50 text-center">🌻 Think simply!</h3>
+      <h2 className="margin-bottom-50 text-center">🌻 Think simply!</h2>
 
       <p>Imagine you have a lemonade stand. You're busy selling delicious drinks on a hot summer day, but you can't make lemonade without lemons and sugar, right? You need to buy those from the store.</p>
 

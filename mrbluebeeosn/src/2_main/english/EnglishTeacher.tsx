@@ -51,7 +51,7 @@ export default function EnglishTeacher(): React.JSX.Element {
 
       <hr className="hr-short"/>
 
-      <h3 className="margin-bottom-50 text-center">🌻 Think simply!</h3>
+      <h2 className="margin-bottom-50 text-center">🌻 Think simply!</h2>
 
       <p>An <strong>English teacher</strong> is like a superhero for your words! They help you become strong in using English to talk, write, and understand others.</p>
 

@@ -75,7 +75,7 @@ export default function Adverb(): React.JSX.Element {
 
       <hr className="hr-short"/>
 
-      <h3 className="margin-bottom-50 text-center">🌻 Think simply!</h3>
+      <h2 className="margin-bottom-50 text-center">🌻 Think simply!</h2>
 
       <p>An <strong>adverb</strong> in English is like a tiny whisper word that helps your other words tell a clearer story. Here's how it works:</p>
 

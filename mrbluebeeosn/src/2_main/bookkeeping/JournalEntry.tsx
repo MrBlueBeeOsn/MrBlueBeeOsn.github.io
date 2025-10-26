@@ -91,7 +91,7 @@ export default function JournalEntry(): React.JSX.Element {
 
       <hr className="hr-short"/>
 
-      <h3 className="margin-bottom-50 text-center">🌻 Think simply!</h3>
+      <h2 className="margin-bottom-50 text-center">🌻 Think simply!</h2>
 
       <p>Imagine you have a special notebook where you keep track of all the fun things you do at the playground. Every time something happens, you write it down. A <strong>journal entry</strong> is like a grown-up version of your playground notebook!</p>
     

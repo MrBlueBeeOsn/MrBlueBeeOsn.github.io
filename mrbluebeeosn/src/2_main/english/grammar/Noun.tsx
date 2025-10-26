@@ -75,7 +75,7 @@ export default function Noun(): React.JSX.Element {
 
       <hr className="hr-short"/>
 
-      <h3 className="margin-bottom-50 text-center">🌻 Think simply!</h3>
+      <h2 className="margin-bottom-50 text-center">🌻 Think simply!</h2>
       
       <p>A <strong>noun</strong> in English is like a special word tag! It helps you name all sorts of things, like people, places, toys, and even feelings! Nouns are like the building blocks of sentences, and they help us understand what we're talking about.</p>
       

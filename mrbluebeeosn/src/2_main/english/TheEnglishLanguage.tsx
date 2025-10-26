@@ -45,7 +45,7 @@ export default function TheEnglishLanguage(): React.JSX.Element {
 
       <hr className="hr-short"/>
 
-      <h3 className="margin-bottom-50 text-center">🌻 Think simply!</h3>
+      <h2 className="margin-bottom-50 text-center">🌻 Think simply!</h2>
 
       <p><strong>English language</strong> is like your super secret decoder ring to the world! It's a special way of using words to talk, write, listen, and understand others, kind of like a secret code that lets you share fun adventures with your friends!</p>
 

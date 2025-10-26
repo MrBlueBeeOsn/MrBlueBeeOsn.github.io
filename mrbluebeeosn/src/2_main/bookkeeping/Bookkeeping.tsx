@@ -97,7 +97,7 @@ export default function Bookkeeping(): React.JSX.Element {
 
       <hr className="hr-short"/>
 
-      <h3 className="margin-bottom-50 text-center">🌻 Think simply!</h3>
+      <h2 className="margin-bottom-50 text-center">🌻 Think simply!</h2>
 
       <p className="text-indent">Imagine you and your friends have a super cool lemonade stand! You sell yummy lemonade to everyone on a hot day and earn money. <strong>Bookkeeping</strong> is like keeping super careful track of all the money coming in and going out of your lemonade stand.</p>
 
