@@ -17,7 +17,7 @@ export default function GiaoVienTiengAnh(): React.JSX.Element {
     
       <h4><HashLink smooth to="/tieng-anh#tieng-anh-terms"><mark className="highlight-tertiary-padding-4-8">Tiếng Anh</mark></HashLink></h4>
       
-      <h2 className="margin-y-50 text-center">Giáo viên tiếng Anh là gì?</h2>
+      <h1 className="margin-y-50 text-center">Giáo viên tiếng Anh là gì?</h1>
 
       {/* Đây là nội dung của Thuật ngữ Tiếng Anh. */}
 

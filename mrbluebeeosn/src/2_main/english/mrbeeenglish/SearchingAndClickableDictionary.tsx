@@ -18,7 +18,7 @@ export default function SearchingAndClickableDictionary(): React.JSX.Element {
     
       <h4>by <HashLink smooth to="/#mr-bee-osn-english-terms"><mark className="highlight-tertiary-padding-4-8">Mr. Bee Osn</mark></HashLink></h4>
       
-      <h2 className="margin-y-50 text-center">Search & Click Dictionary</h2>
+      <h1 className="margin-y-50 text-center">Search & Click Dictionary</h1>
 
       {/* This is the content of Mr. Bee Osn English Term. */}
 

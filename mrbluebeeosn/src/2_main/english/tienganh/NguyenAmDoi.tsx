@@ -17,7 +17,7 @@ export default function NguyenAmDoi(): React.JSX.Element {
     
       <h4><HashLink smooth to="/tieng-anh#tieng-anh-terms"><mark className="highlight-tertiary-padding-4-8">Tiếng Anh</mark></HashLink></h4>
 
-      <h2 className="margin-y-50 text-center">📌 BẢNG TỔNG HỢP NGUYÊN ÂM ĐÔI
+      <h1 className="margin-y-50 text-center">📌 BẢNG TỔNG HỢP NGUYÊN ÂM ĐÔI
 
         <sup><HashLink smooth to="/tieng-anh/nguyen-am-don">&nbsp;1&nbsp;</HashLink>
         </sup>
@@ -27,7 +27,7 @@ export default function NguyenAmDoi(): React.JSX.Element {
 
         <p className="text-center">(DIPHTHONGS)</p>
 
-      </h2>
+      </h1>
 
       {/* This is the content of English Learning Term. */}
 

@@ -27,7 +27,7 @@ export default function ContactIndex(): React.JSX.Element {
           Contact
       ============================= */}
 
-      <h2 className="margin-y-50 text-center">Contact</h2>
+      <h1 className="margin-y-50 text-center">Contact</h1>
       
         <ul className="list-border">
 

@@ -11,7 +11,7 @@ export default function (): React.JSX.Element {
   
       <h4><Link to="/bookkeeping#bookkeeping-terms"><mark className="highlight-tertiary-padding-4-8">Bookkeeping</mark></Link></h4>
 
-      <h2 className="margin-y-50 text-center">What is bookkeeping?</h2>
+      <h1 className="margin-y-50 text-center">What is bookkeeping?</h1>
 
       {/* This is the content of Bookkeeping Term. */}
 

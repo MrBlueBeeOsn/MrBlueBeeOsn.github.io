@@ -17,14 +17,14 @@ export default function Precisely2(): React.JSX.Element {
     
       <h4><HashLink smooth to="/vocabulary#tinh-chinh-xac-terms"><mark className="highlight-tertiary-padding-4-8">Tính chính xác</mark></HashLink></h4>
       
-      <h2 className="margin-y-50 text-center">precisely
+      <h1 className="margin-y-50 text-center">precisely
         <sup>
           <Link to="/vocabulary/precisely-1">&nbsp;1&nbsp;</Link>
         </sup>
         <sup>
           <Link to="/vocabulary/precisely-2">&nbsp;2&nbsp;</Link>
         </sup>
-      </h2>
+      </h1>
 
       {/* This is the content of Vocabulary Term. */}
 

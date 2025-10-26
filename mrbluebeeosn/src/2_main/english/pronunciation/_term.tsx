@@ -17,7 +17,7 @@ export default function (): React.JSX.Element {
     
       <h4><HashLink smooth to="/pronunciation#pronunciation-terms"><mark className="highlight-tertiary-padding-4-8">Pronunciation</mark></HashLink></h4>
       
-      <h2 className="margin-y-50 text-center">What is pronunciation?</h2>
+      <h1 className="margin-y-50 text-center">What is pronunciation?</h1>
 
       {/* This is the content of English Learning Term. */}
 

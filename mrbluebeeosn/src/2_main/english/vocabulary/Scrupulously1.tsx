@@ -17,12 +17,12 @@ export default function Scrupulously1(): React.JSX.Element {
 
       <h4><HashLink smooth to="/vocabulary#tinh-ti-mi-terms"><mark className="highlight-tertiary-padding-4-8">Tính tỉ mỉ</mark></HashLink></h4>
       
-      <h2 className="margin-y-50 text-center">scrupulously
+      <h1 className="margin-y-50 text-center">scrupulously
         <sup><Link to="/vocabulary/scrupulously-1">&nbsp;1&nbsp;</Link>
         </sup>
         <sup><Link to="/vocabulary/scrupulously-2">&nbsp;2&nbsp;</Link>
         </sup>
-      </h2>
+      </h1>
 
       {/* This is the content of Vocabulary Term. */}
       

@@ -17,7 +17,7 @@ export default function BayDauPhuPhienAmTiengAnh1(): React.JSX.Element {
     
       <h4><HashLink smooth to="/tieng-anh#tieng-anh-terms"><mark className="highlight-tertiary-padding-4-8">Tiếng Anh</mark></HashLink></h4>
 
-      <h2 className="margin-y-50 text-center">📖 HỆ THỐNG 7 DẤU PHỤ + 1 MẶC ĐỊNH = 8 MỤC PHIÊN ÂM TIẾNG ANH 
+      <h1 className="margin-y-50 text-center">📖 HỆ THỐNG 7 DẤU PHỤ + 1 MẶC ĐỊNH = 8 MỤC PHIÊN ÂM TIẾNG ANH 
 
         <p className="text-center">(BẢN HOÀN CHỈNH
 
@@ -31,7 +31,7 @@ export default function BayDauPhuPhienAmTiengAnh1(): React.JSX.Element {
           
         </p>
 
-      </h2>
+      </h1>
 
       {/* This is the content of English Learning Term. */}
 

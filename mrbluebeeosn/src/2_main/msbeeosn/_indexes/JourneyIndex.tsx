@@ -27,7 +27,7 @@ export default function JourneyIndex(): React.JSX.Element {
           About
       ============================= */}
 
-      <h2 className="margin-y-50 text-center">Journey</h2>
+      <h1 className="margin-y-50 text-center">Journey</h1>
 
       {/* =============================
             Tháng 8 + 9

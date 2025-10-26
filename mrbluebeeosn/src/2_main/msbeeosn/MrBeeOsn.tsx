@@ -16,7 +16,7 @@ export default function MrBeeOsn(): React.JSX.Element {
 
     <article>
 
-      <h2 className="margin-y-50 text-center">Mr. Bee Osn</h2>
+      <h1 className="margin-y-50 text-center">Mr. Bee Osn</h1>
 
         <ul className="list-border">
 

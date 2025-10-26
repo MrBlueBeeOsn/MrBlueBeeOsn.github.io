@@ -27,7 +27,7 @@ export default function AboutIndex(): React.JSX.Element {
           About
       ============================= */}
 
-      <h2 className="margin-y-50 text-center">About</h2>
+      <h1 className="margin-y-50 text-center">About</h1>
       
         <ul className="list-border">
 

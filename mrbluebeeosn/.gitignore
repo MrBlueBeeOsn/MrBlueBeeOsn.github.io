@@ -24,4 +24,4 @@ dist-ssr
 *.sw?
 
 # public/legacy/
-public/legacy/
+# public/legacy/

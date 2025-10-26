@@ -17,7 +17,7 @@ export default function AccountsReceivable(): React.JSX.Element {
     
       <h4><HashLink smooth to="/bookkeeping#bookkeeping-terms"><mark className="highlight-tertiary-padding-4-8">Bookkeeping</mark></HashLink></h4>
       
-      <h2 className="margin-y-50 text-center">What is Accounts Receivable?</h2>
+      <h1 className="margin-y-50 text-center">What is Accounts Receivable?</h1>
 
       {/* This is the content of Bookkeeping Term. */}
 

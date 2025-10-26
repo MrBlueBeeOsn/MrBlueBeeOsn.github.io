@@ -17,7 +17,7 @@ export default function TheEnglishLanguage(): React.JSX.Element {
 
       <h4><HashLink smooth to="/english#english-learning-terms"><mark className="highlight-tertiary-padding-4-8">English</mark></HashLink></h4>
       
-      <h2 className="margin-y-50 text-center">What is the English Language?</h2>
+      <h1 className="margin-y-50 text-center">What is the English Language?</h1>
 
       {/* This is the content of English Learning Term. */}
       

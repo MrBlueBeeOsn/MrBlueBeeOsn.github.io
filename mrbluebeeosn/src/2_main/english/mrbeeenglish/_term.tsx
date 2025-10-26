@@ -17,7 +17,7 @@ export default function (): React.JSX.Element {
     
       <h4>by <HashLink smooth to="/#mr-bee-osn-english-terms"><mark className="highlight-tertiary-padding-4-8">Mr. Bee Osn</mark></HashLink></h4>
       
-      <h2 className="margin-y-50 text-center">Searching and clickable dictionary</h2>
+      <h1 className="margin-y-50 text-center">Searching and clickable dictionary</h1>
 
       {/* This is the content of Mr.Bee English Term. */}
 
