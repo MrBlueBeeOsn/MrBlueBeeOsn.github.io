@@ -6,7 +6,7 @@ import SearchIcon from '@/components/SearchIcon';
 export default function Header(): React.JSX.Element {
   return (
 
-    <header>
+    <header className="site-header">
 
       <nav>
 

@@ -16,28 +16,39 @@
    Header
 ============================= */
 
-header {
-    width: 100%;
-    max-width: 100vw;
-    padding: 1.0rem;              /* 10px */
-    text-align: center;
-    background: var(--primary-color);
-    color: rgba(255, 255, 255, 0.5);
+/* Header toàn cục của site */
+.site-header {
+  width: 100%;
+  padding: 1rem;
+  background: var(--primary-color);
+  color: rgba(255,255,255,0.9);
 }
 
-header nav a.nav-link {
-  color: #ffff;
+/* Link trong header toàn cục */
+.site-header nav a.nav-link {
+  color: #fff;
 }
 
-header img {
-    max-width: 100px;
-    height: auto;
-    display: block;
+/* Logo trong header toàn cục */
+.site-header img {
+  max-width: 100px;
+  height: auto;
+  display: block;
 }
 
-header h1 {
-    font-size: 2.4rem;           /* 24px */
-    margin: 0;
+/* Header cho bài viết trong main/article */
+.article-header {
+  padding: 1.2rem 1rem;
+  background: transparent; /* hoặc nhẹ hơn so với site header */
+  color: inherit;
+  text-align: left; /* hoặc center tùy bố cục bài */
+}
+
+/* H1 trong article header */
+.article-header h1 {
+  font-size: 2rem;
+  margin: 0 0 0.5rem 0;
+  color: var(--heading-color);
 }
 
 /* =============================
