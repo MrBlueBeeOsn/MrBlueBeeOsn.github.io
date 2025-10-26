@@ -8,15 +8,19 @@ export default function SearchIndex(): React.JSX.Element {
 
   console.log('🎯 SearchIndex đang render...');
 
-return (<>
+  return (<>
      
     <main className="image image3">
 
-      <div className="table-search">
+      <article>
 
-        <SearchComponent />
-      
-      </div>
+        <div className="table-search">
+
+          <SearchComponent />
+        
+        </div>
+
+      </article>
 
     </main>
 

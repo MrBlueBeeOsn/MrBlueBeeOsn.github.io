@@ -8,147 +8,151 @@ export default function VocabularyIndex(): React.JSX.Element {
 		 
 	<main className="image image1 content">
 
-		{/* =============================
-				English Topic
-		============================= */}
+		<article>
 
-		<EnglishTopic/>
+			{/* =============================
+					English Topic
+			============================= */}
 
-		{/* =============================
-				6. Vocabulary Terms
-		============================= */}
+			<EnglishTopic/>
 
-		<h3 className="margin-y-50 text-center" id="vocabulary-terms">Từ vựng Terms</h3>
+			{/* =============================
+					6. Vocabulary Terms
+			============================= */}
 
-		<div className="flex-container">
+			<h3 className="margin-y-50 text-center" id="vocabulary-terms">Từ vựng Terms</h3>
 
-			<details className="sub-box-fix">
+			<div className="flex-container">
 
-				{/* =============================
-						Tính chính xác
-				============================= */}
-		
-				<summary id="tinh-chinh-xac-terms"><mark className="highlight-secondary-padding-2-4">Tính chính xác</mark></summary>
+				<details className="sub-box-fix">
 
-				<ul className="list-border1">
-					
-					<li>
-						<Link to="/vocabulary/accurately-1">accurately
-							<sup>&nbsp;1&nbsp;</sup>
-								</Link> 
-								<Link to="/vocabulary/accurately-2">
-							<sup>&nbsp;2&nbsp;</sup>
-						</Link>
-					</li>
-
-					<li>
-						<Link to="/vocabulary/precisely-1">precisely
-							<sup>&nbsp;1&nbsp;</sup>
-						</Link>
-						<Link to="/vocabulary/precisely-2">
-							<sup>&nbsp;2&nbsp;</sup>
-						</Link>
-					</li>
-					
-					<li>
-						<Link to="/vocabulary/correctly-1">correctly
-							<sup>&nbsp;1&nbsp;</sup>
-						</Link>
-						<Link to="/vocabulary/correctly-2">
-							<sup>&nbsp;2&nbsp;</sup>
-						</Link>
-					</li>
-
-					<li>
-						<Link to="/vocabulary/exactly-1">exactly
-							<sup>&nbsp;1&nbsp;</sup>
-						</Link>
-						<Link to="/vocabulary/exactly-2">
-							<sup>&nbsp;2&nbsp;</sup>
-						</Link>
-					</li>
-					
-				</ul>
-
-			</details>
-
-			<details className="sub-box-fix">
-
-				{/* =============================
-						Tính tỉ mỉ
-				============================= */}
-		
-				<summary id="tinh-ti-mi-terms"><mark className="highlight-secondary-padding-2-4">Tính tỉ mỉ</mark></summary>
-
-				<ul className="list-border1">
-
-					<li>
-						<Link to="/vocabulary/painstakingly-1">painstakingly
-							<sup>&nbsp;1&nbsp;</sup>
-								</Link> 
-								<Link to="/vocabulary/painstakingly-2">
-							<sup>&nbsp;2&nbsp;</sup>
-						</Link>
-					</li>
-
-					<li>
-						<Link to="/vocabulary/thoroughly-1">thoroughly
-							<sup>&nbsp;1&nbsp;</sup>
-								</Link> 
-								<Link to="/vocabulary/thoroughly-2">
-							<sup>&nbsp;2&nbsp;</sup>
-						</Link>
-					</li>
-					
-					<li>
-						<Link to="/vocabulary/diligently-1">diligently
-							<sup>&nbsp;1&nbsp;</sup>
-								</Link> 
-								<Link to="/vocabulary/diligently-2">
-							<sup>&nbsp;2&nbsp;</sup>
-						</Link>
-					</li>
-
-					<li>
-						<Link to="/vocabulary/scrupulously-1">scrupulously
-							<sup>&nbsp;1&nbsp;</sup>
-								</Link> 
-								<Link to="/vocabulary/scrupulously-2">
-							<sup>&nbsp;2&nbsp;</sup>
-						</Link>
-					</li>
-					
-				</ul>
-
-			</details>
-
-			<details className="sub-box-fix">
-
-				{/* =============================
-						Tính rõ ràng
-				============================= */}
-		
-				<summary id="tinh-ro-rang-terms"><mark className="highlight-secondary-padding-2-4">Tính rõ ràng</mark></summary>
-
-				<ul className="list-border1">
-
-					<li>
-						<Link to="/vocabulary/obviously-1">obviously
-							<sup>&nbsp;1&nbsp;</sup>
-								</Link> 
-								<Link to="/vocabulary/obviously-2">
-							<sup>&nbsp;2&nbsp;</sup>
-						</Link>
-					</li>
-					
-					
-				</ul>
-
-			</details>
-
+					{/* =============================
+							Tính chính xác
+					============================= */}
 			
+					<summary id="tinh-chinh-xac-terms"><mark className="highlight-secondary-padding-2-4">Tính chính xác</mark></summary>
 
-		</div>
+					<ul className="list-border1">
+						
+						<li>
+							<Link to="/vocabulary/accurately-1">accurately
+								<sup>&nbsp;1&nbsp;</sup>
+									</Link> 
+									<Link to="/vocabulary/accurately-2">
+								<sup>&nbsp;2&nbsp;</sup>
+							</Link>
+						</li>
+
+						<li>
+							<Link to="/vocabulary/precisely-1">precisely
+								<sup>&nbsp;1&nbsp;</sup>
+							</Link>
+							<Link to="/vocabulary/precisely-2">
+								<sup>&nbsp;2&nbsp;</sup>
+							</Link>
+						</li>
+						
+						<li>
+							<Link to="/vocabulary/correctly-1">correctly
+								<sup>&nbsp;1&nbsp;</sup>
+							</Link>
+							<Link to="/vocabulary/correctly-2">
+								<sup>&nbsp;2&nbsp;</sup>
+							</Link>
+						</li>
+
+						<li>
+							<Link to="/vocabulary/exactly-1">exactly
+								<sup>&nbsp;1&nbsp;</sup>
+							</Link>
+							<Link to="/vocabulary/exactly-2">
+								<sup>&nbsp;2&nbsp;</sup>
+							</Link>
+						</li>
+						
+					</ul>
+
+				</details>
+
+				<details className="sub-box-fix">
+
+					{/* =============================
+							Tính tỉ mỉ
+					============================= */}
+			
+					<summary id="tinh-ti-mi-terms"><mark className="highlight-secondary-padding-2-4">Tính tỉ mỉ</mark></summary>
+
+					<ul className="list-border1">
+
+						<li>
+							<Link to="/vocabulary/painstakingly-1">painstakingly
+								<sup>&nbsp;1&nbsp;</sup>
+									</Link> 
+									<Link to="/vocabulary/painstakingly-2">
+								<sup>&nbsp;2&nbsp;</sup>
+							</Link>
+						</li>
+
+						<li>
+							<Link to="/vocabulary/thoroughly-1">thoroughly
+								<sup>&nbsp;1&nbsp;</sup>
+									</Link> 
+									<Link to="/vocabulary/thoroughly-2">
+								<sup>&nbsp;2&nbsp;</sup>
+							</Link>
+						</li>
+						
+						<li>
+							<Link to="/vocabulary/diligently-1">diligently
+								<sup>&nbsp;1&nbsp;</sup>
+									</Link> 
+									<Link to="/vocabulary/diligently-2">
+								<sup>&nbsp;2&nbsp;</sup>
+							</Link>
+						</li>
+
+						<li>
+							<Link to="/vocabulary/scrupulously-1">scrupulously
+								<sup>&nbsp;1&nbsp;</sup>
+									</Link> 
+									<Link to="/vocabulary/scrupulously-2">
+								<sup>&nbsp;2&nbsp;</sup>
+							</Link>
+						</li>
+						
+					</ul>
+
+				</details>
+
+				<details className="sub-box-fix">
+
+					{/* =============================
+							Tính rõ ràng
+					============================= */}
+			
+					<summary id="tinh-ro-rang-terms"><mark className="highlight-secondary-padding-2-4">Tính rõ ràng</mark></summary>
+
+					<ul className="list-border1">
+
+						<li>
+							<Link to="/vocabulary/obviously-1">obviously
+								<sup>&nbsp;1&nbsp;</sup>
+									</Link> 
+									<Link to="/vocabulary/obviously-2">
+								<sup>&nbsp;2&nbsp;</sup>
+							</Link>
+						</li>
+						
+						
+					</ul>
+
+				</details>
+
+				
+
+			</div>
+
+		</article>
 		
 	</main>
 

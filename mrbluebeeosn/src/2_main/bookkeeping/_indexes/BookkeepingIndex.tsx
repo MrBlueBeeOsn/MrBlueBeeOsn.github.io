@@ -8,61 +8,65 @@ export default function BookkeepingIndex(): React.JSX.Element {
      
   <main className="image image1 content">
 
-    {/* =============================
-          Bookkeeping Terms
-    ============================= */}
-    
-    <h3 className="margin-y-50 text-center" id="bookkeeping-terms">Bookkeeping Terms</h3>
+    <article>
 
-    <div className="flex-container">
+      {/* =============================
+            Bookkeeping Terms
+      ============================= */}
+      
+      <h3 className="margin-y-50 text-center" id="bookkeeping-terms">Bookkeeping Terms</h3>
 
-      <div className="sub-box">
+      <div className="flex-container">
 
-        <ul className="list-border1">
+        <div className="sub-box">
 
-          <li><Link to="/bookkeeping/what-is-bookkeeping?">Bookkeeping</Link></li>
+          <ul className="list-border1">
 
-          <li><Link to="/bookkeeping/what-is-accounts-receivable?">Accounts receivable</Link> (AR)</li>
+            <li><Link to="/bookkeeping/what-is-bookkeeping?">Bookkeeping</Link></li>
 
-          <li><Link to="/bookkeeping/what-is-accounts-payable?">Accounts payable</Link> (AP)</li>
+            <li><Link to="/bookkeeping/what-is-accounts-receivable?">Accounts receivable</Link> (AR)</li>
 
-          <li><Link to="/bookkeeping/what-is-a-journal-entry?">Journal entry</Link></li>
+            <li><Link to="/bookkeeping/what-is-accounts-payable?">Accounts payable</Link> (AP)</li>
 
-          <li><Link to="/bookkeeping/what-is-a-general-ledger?">General ledger</Link> (GL)</li>
+            <li><Link to="/bookkeeping/what-is-a-journal-entry?">Journal entry</Link></li>
 
-          <li><Link to="/bookkeeping/what-is-a-trial-balance?">Trial balance</Link></li>
+            <li><Link to="/bookkeeping/what-is-a-general-ledger?">General ledger</Link> (GL)</li>
 
-          <li><Link to="/bookkeeping/what-is-account-reconciliation?">Account reconciliation</Link></li>
+            <li><Link to="/bookkeeping/what-is-a-trial-balance?">Trial balance</Link></li>
 
-        </ul>
+            <li><Link to="/bookkeeping/what-is-account-reconciliation?">Account reconciliation</Link></li>
 
-      </div>
+          </ul>
 
-      <div className="sub-box">
+        </div>
 
-        <ul className="list-border1">
+        <div className="sub-box">
 
-          <li><Link to="/bookkeeping/what-is-a-bookkeeper?">Bookkeeper</Link></li>
+          <ul className="list-border1">
 
-        </ul>
+            <li><Link to="/bookkeeping/what-is-a-bookkeeper?">Bookkeeper</Link></li>
 
-      </div>
+          </ul>
 
-    </div>
-
-    <div className="flex-container">
-
-      <div className="sub-box">
-
-        <ul className="list-border1">
-
-          <li><Link to="https://mrgreenbeeosn.github.io/#/accounting/what-is-accounting">Accounting  <sup><ExternalLink /></sup></Link></li>
-
-        </ul>
+        </div>
 
       </div>
 
-    </div>
+      <div className="flex-container">
+
+        <div className="sub-box">
+
+          <ul className="list-border1">
+
+            <li><Link to="https://mrgreenbeeosn.github.io/#/accounting/what-is-accounting">Accounting  <sup><ExternalLink /></sup></Link></li>
+
+          </ul>
+
+        </div>
+
+      </div>
+
+    </article>
     
   </main>
 

@@ -13,43 +13,47 @@ export default function (): React.JSX.Element {
 
   <main className="image image2">
 
-    <h4><HashLink smooth to="/english#english-learning-terms"><mark className="highlight-tertiary-padding-4-8">English</mark></HashLink></h4>
-    
-    <h2 className="margin-y-50 text-center">What is English?</h2>
+    <article>
 
-    {/* This is the content of English Learning Term. */}
-    
-    
+      <h4><HashLink smooth to="/english#english-learning-terms"><mark className="highlight-tertiary-padding-4-8">English</mark></HashLink></h4>
+      
+      <h2 className="margin-y-50 text-center">What is English?</h2>
 
-    {/* =============================
-          🌻 Think simply!
-    ============================= */}
+      {/* This is the content of English Learning Term. */}
+      
+      
 
-    <hr className="hr-short"/>
+      {/* =============================
+            🌻 Think simply!
+      ============================= */}
 
-    <h3 className="margin-bottom-50 text-center">🌻 Think simply!</h3>
+      <hr className="hr-short"/>
 
-    
+      <h3 className="margin-bottom-50 text-center">🌻 Think simply!</h3>
 
-    <div className="viewcounter">
-    
-      <div className="post-date no-margin">
-        <span> · by 💎Gem ·</span>
+      
+
+      <div className="viewcounter">
+      
+        <div className="post-date no-margin">
+          <span> · by 💎Gem ·</span>
+        </div>
+
+        <div className="eye-icon no-margin">
+          <EyeIcon />
+        </div>
+
+        <div className="post-date no-margin">
+          <ViewCounter postId={postId} />
+        </div>
+
+        <div className="like-button no-margin">
+          <LikeButton postId={postId} />
+        </div>
+
       </div>
 
-      <div className="eye-icon no-margin">
-        <EyeIcon />
-      </div>
-
-      <div className="post-date no-margin">
-        <ViewCounter postId={postId} />
-      </div>
-
-      <div className="like-button no-margin">
-        <LikeButton postId={postId} />
-      </div>
-
-    </div>
+    </article>
     
   </main>
 

@@ -8,37 +8,41 @@ export default function GrammarIndex(): React.JSX.Element {
      
   <main className="image image1 content">
 
-    {/* =============================
-        English Topic
-    ============================= */}
-        
-      <EnglishTopic/>
+    <article>
 
-    {/* =============================
-        2. Grammar Terms
-    ============================= */}
+      {/* =============================
+          English Topic
+      ============================= */}
+          
+        <EnglishTopic/>
 
-    <h3 className="margin-y-50 text-center" id="grammar-terms">Grammar Terms</h3>
+      {/* =============================
+          2. Grammar Terms
+      ============================= */}
 
-    <div className="flex-container">
+      <h3 className="margin-y-50 text-center" id="grammar-terms">Grammar Terms</h3>
 
-      <div className="sub-box">
+      <div className="flex-container">
 
-         <ul className="list-border1">
+        <div className="sub-box">
 
-          <li><Link to="/grammar/what-is-an-adverb?">Adverb</Link></li>
+          <ul className="list-border1">
 
-          <li><Link to="/grammar/what-is-a-verb?">Verb</Link></li>
+            <li><Link to="/grammar/what-is-an-adverb?">Adverb</Link></li>
 
-          <li><Link to="/grammar/what-is-an-adjective?">Adjective</Link></li>
+            <li><Link to="/grammar/what-is-a-verb?">Verb</Link></li>
 
-          <li><Link to="/grammar/what-is-a-noun?">Noun</Link></li>
+            <li><Link to="/grammar/what-is-an-adjective?">Adjective</Link></li>
 
-        </ul>
+            <li><Link to="/grammar/what-is-a-noun?">Noun</Link></li>
+
+          </ul>
+
+        </div>
 
       </div>
 
-    </div>
+    </article>
     
   </main>
 

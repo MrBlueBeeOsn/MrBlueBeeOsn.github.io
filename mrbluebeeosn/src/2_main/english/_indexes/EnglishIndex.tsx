@@ -8,43 +8,47 @@ export default function EnglishIndex(): React.JSX.Element {
      
   <main className="image image1 content">
 
-    {/* =============================
-        English Topic
-    ============================= */}
-            
-      <EnglishTopic/>
+    <article>
 
-    {/* =============================
-        1. English Learning Terms
-    ============================= */}
-    
-    <h3 className="margin-y-50 text-center" id="english-learning-terms">English Learning Terms</h3>
+      {/* =============================
+          English Topic
+      ============================= */}
+              
+        <EnglishTopic/>
 
-    <div className="flex-container">
-
-      <div className="sub-box">
-
-        <ul className="list-border1">
+      {/* =============================
+          1. English Learning Terms
+      ============================= */}
       
-          <li><Link to="/english/what-is-english?">English</Link></li>
+      <h3 className="margin-y-50 text-center" id="english-learning-terms">English Learning Terms</h3>
+
+      <div className="flex-container">
+
+        <div className="sub-box">
+
+          <ul className="list-border1">
+        
+            <li><Link to="/english/what-is-english?">English</Link></li>
+            
+            <li><Link to="/english/what-is-the-english-language?">The English language</Link></li>
           
-          <li><Link to="/english/what-is-the-english-language?">The English language</Link></li>
-        
-        </ul>
+          </ul>
+
+        </div>
+
+        <div className="sub-box">
+
+          <ul className="list-border1">
+
+            <li><Link to="/english/what-is-an-english-teacher?">English Teacher</Link></li>
+          
+          </ul>
+
+        </div>
 
       </div>
 
-      <div className="sub-box">
-
-        <ul className="list-border1">
-
-          <li><Link to="/english/what-is-an-english-teacher?">English Teacher</Link></li>
-        
-        </ul>
-
-      </div>
-
-    </div>
+    </article>
     
   </main>
 
