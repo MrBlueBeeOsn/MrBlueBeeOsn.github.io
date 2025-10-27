@@ -1,0 +1,203 @@
+/*-- ========================================
+
+	© 2025 - 🐝 Mr. ßee - 🅾ng siêng năng📗
+
+			https://mrgreenbeeosn.github.io
+
+					☕ Happy reading today!
+
+========================================= --*/
+
+/* =============================
+	 Portfolio
+============================= */
+
+/* Reset và font chữ */
+/* * {
+		margin: 0;
+		padding: 0;
+		box-sizing: border-box;
+		font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body {
+		background-color: #f5f5f5;
+		color: #333;
+		line-height: 1.6;
+} */
+
+.container {
+	/* max-width: 900px; */
+	margin: 30px auto;
+	box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+	border-radius: 8px;
+	overflow: hidden;
+}
+
+/* Header */
+header {
+	background: linear-gradient(135deg, var(--secondary-color), var(--primary-color));
+	color: white;
+	padding: 40px 30px;
+	text-align: center;
+}
+
+.name {
+	font-size: 32px;
+	font-weight: 600;
+	margin-bottom: 5px;
+}
+
+.title {
+	font-size: 20px;
+	margin-bottom: 20px;
+	opacity: 0.9;
+}
+
+.contact-info {
+	display: flex;
+	justify-content: center;
+	flex-wrap: wrap;
+	gap: 20px;
+	margin-top: 15px;
+}
+
+.contact-item {
+	display: flex;
+	align-items: center;
+	gap: 8px;
+}
+
+/* Sections */
+section {
+	padding: 25px 30px;
+	border-bottom: 1px solid #eee;
+}
+
+.portfolio-h2 {
+	color: var(--primary-color);
+	margin-bottom: 15px;
+	padding-bottom: 8px;
+	border-bottom: 2px solid var(--tertiary-color);
+	/* font-size: 22px; */
+}
+
+h3 {
+	margin-bottom: 10px;
+	color: #333;
+}
+
+/* Summary */
+.summary p {
+	margin-bottom: 15px;
+}
+
+.competencies, .skills-list {
+	display: grid;
+	grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+	gap: 15px;
+	margin-top: 15px;
+}
+
+.competency-item, .technical-item {
+	background: rgba(238, 238, 238, 0.5);
+	padding: 12px;
+	border-radius: 5px;
+	border-left: 4px solid var(--tertiary-color);
+}
+
+.skill-item {
+	background: rgba(255, 255, 255, 0.5); /* #f9f9f9 */
+	padding: 12px;
+	border-radius: 5px;
+	border-left: 4px solid var(--tertiary-color);
+}
+
+/* Experience & Education */
+.experience-item, .education-item, .certification-item {
+	margin-bottom: 20px;
+	padding-bottom: 20px;
+	border-bottom: 1px dashed var(--tertiary-color);
+}
+
+.experience-item:last-child, .education-item:last-child, .certification-item:last-child {
+	border-bottom: none;
+	margin-bottom: 0;
+	padding-bottom: 0;
+}
+
+.date {
+	color: #666;
+	font-style: italic;
+	margin-bottom: 5px;
+}
+
+ul {
+	padding-left: 20px;
+	margin-top: 10px;
+}
+
+li {
+	margin-bottom: 5px;
+}
+
+/* Skills */
+.skills-container {
+	display: grid;
+	grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+	gap: 15px;
+}
+
+.skill-category {
+	background: rgba(238, 238, 238, 0.5);
+	padding: 15px;
+	border-radius: 5px;
+}
+
+.skill-category h3 {
+	color: var(--primary-color);
+	margin-bottom: 10px;
+	font-size: 18px;
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+	/* .container {
+			margin: 15px;
+	} */
+	
+	/* header {
+			padding: 25px 20px;
+	} */
+	
+	.name {
+			font-size: 28px;
+	}
+	
+	.title {
+			font-size: 18px;
+	}
+	
+	.contact-info {
+			flex-direction: column;
+			gap: 10px;
+	}
+	
+	section {
+			padding: 20px;
+	}
+	
+	.competencies, .skills-list, .skills-container {
+			grid-template-columns: 1fr;
+	}
+}
+
+a.email-link {
+    color: white; /* Màu cam rực */
+    text-decoration: none;
+}
+
+a.email-link:hover {
+    color: var(--accent-color); /* Màu sẽ thay đổi thành đỏ khi di chuột */
+    text-decoration: underline; /* Sẽ gạch chân khi di chuột */
+}
