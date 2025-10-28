@@ -6,6 +6,8 @@ import ExternalLink from '@/components/ExternalLink';
 import EyeIcon from '@/components/EyeIcon';
 import ViewCounter from '@/components/ViewCounter';
 import LikeButton from '@/components/LikeButton';
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+import { faGithub } from '@fortawesome/free-brands-svg-icons';
 
 export default function ContactIndex(): React.JSX.Element {
 
@@ -16,7 +18,7 @@ export default function ContactIndex(): React.JSX.Element {
   <main className="image image4">
 
     <article>
-
+    
       {/* =============================
           Mr.Bee Osn Topic
       ============================= */}
@@ -24,35 +26,71 @@ export default function ContactIndex(): React.JSX.Element {
         <MrBeeOsnTopic />
 
       {/* =============================
-          Contact
+          Portfolio
       ============================= */}
 
       <h1 className="margin-y-50 text-center">Contact</h1>
       
-        <ul className="list-border">
+        <div className="container">
 
-          <li>
-            
-            📧👥 <strong>Teams</strong>:&nbsp;
+        <header>
 
-            <Link 
-              to="#" 
-              onClick={(e) => {
-                window.location.href = "mailto:HieuTrongKhau@outlook.com";
-                e.preventDefault();
-              }}
-            >
+          <h1 className="name">HIEU KHAU</h1>
+          <div className="title">General Accountant | VAS | Tax Compliance | Financial Reporting</div>
+          <div className="location">📍 Hoc Mon District, HCMC</div>
+          
+          <div className="contact-info">
 
-              Gửi email
+            <div className="contact-item">
+              📧
+              <a href="mailto:HieuKhau@outlook.com" className="email-link">
+                Outlook
+              </a>
+            </div>
 
-            </Link>
-            
-          </li>
+            <div className="contact-item">
+              💼 
+              <a href="https://www.linkedin.com/in/hieukhau/" className="email-link" target="_blank">
+                LinkedIn
+              </a>
+            </div>
 
-        </ul>
+            <div className="contact-item">
+              🌐
+              <Link to="/" className="email-link">
+                Accounting Bee
+              </Link>
+              🔊📖
+            </div>
+
+          </div>
+
+          <div className="contact-info">
+
+            <div className="contact-item">
+              📹
+              <a href="https://www.youtube.com/@Mr.GreenBee.Ongsiengnang" className="email-link">
+                GitHub
+              </a>
+            </div>
+
+           <FontAwesomeIcon icon={faGithub} />
+
+            <div className="contact-item">
+              💬
+              <a href="https://wa.me/84906920292?text=Hi!%20I'm%20available%20to%20talk%20about%20the%20Accounting%20opportunity." className="email-link">
+                WA Business
+              </a>
+            </div>
+
+          </div>
+
+        </header>
+
+    </div>
 
       <div className="viewcounter">
-
+      
         <div className="post-date no-margin">
           <span>by 🐝Mr. Bee Osn ·</span>
         </div>
