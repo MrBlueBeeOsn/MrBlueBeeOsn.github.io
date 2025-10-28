@@ -8,6 +8,14 @@ import ViewCounter from '@/components/ViewCounter';
 import LikeButton from '@/components/LikeButton';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faGithub } from '@fortawesome/free-brands-svg-icons';
+import { faInstagram } from '@fortawesome/free-brands-svg-icons';
+import { faFacebook } from '@fortawesome/free-brands-svg-icons';
+import { faLinkedin } from '@fortawesome/free-brands-svg-icons';
+import { faWhatsapp } from '@fortawesome/free-brands-svg-icons';
+import { faGlobe } from '@fortawesome/free-solid-svg-icons'
+import { faLocationDot } from '@fortawesome/free-solid-svg-icons'
+import { faBookOpenReader } from '@fortawesome/free-solid-svg-icons'
+import { faVolumeHigh } from '@fortawesome/free-solid-svg-icons'
 
 export default function ContactIndex(): React.JSX.Element {
 
@@ -31,36 +39,36 @@ export default function ContactIndex(): React.JSX.Element {
 
       <h1 className="margin-y-50 text-center">Contact</h1>
       
-        <div className="container">
+      <div className="container">
 
         <header>
 
-          <h1 className="name">HIEU KHAU</h1>
-          <div className="title">General Accountant | VAS | Tax Compliance | Financial Reporting</div>
-          <div className="location">📍 Hoc Mon District, HCMC</div>
+          <h1 className="name">HIEU TRONG KHAU</h1>
+          <div className="title">Bookkeeper | Daily Transactions | Invoicing | Reconciliation</div>
+          <div className="location"><FontAwesomeIcon icon={faLocationDot} /> Hoc Mon District, HCMC</div>
           
           <div className="contact-info">
 
             <div className="contact-item">
-              📧
-              <a href="mailto:HieuKhau@outlook.com" className="email-link">
-                Outlook
+              <FontAwesomeIcon icon={faInstagram} />
+              <a href="https://www.instagram.com/mr.bluebee.ongsiengnang/" className="email-link" target="_blank">
+                Instagram
               </a>
             </div>
 
             <div className="contact-item">
-              💼 
-              <a href="https://www.linkedin.com/in/hieukhau/" className="email-link" target="_blank">
-                LinkedIn
+              <FontAwesomeIcon icon={faFacebook} /> 
+              <a href="https://www.facebook.com/aBookkeepingBee" className="email-link" target="_blank">
+                Facebook
               </a>
             </div>
 
             <div className="contact-item">
-              🌐
+              <FontAwesomeIcon icon={faGlobe} />
               <Link to="/" className="email-link">
-                Accounting Bee
+                Bookkeeping Bee
               </Link>
-              🔊📖
+              <FontAwesomeIcon icon={faVolumeHigh} /><FontAwesomeIcon icon={faBookOpenReader} />
             </div>
 
           </div>
@@ -68,17 +76,22 @@ export default function ContactIndex(): React.JSX.Element {
           <div className="contact-info">
 
             <div className="contact-item">
-              📹
-              <a href="https://www.youtube.com/@Mr.GreenBee.Ongsiengnang" className="email-link">
+              <FontAwesomeIcon icon={faLinkedin} />  
+              <a href="https://www.linkedin.com/in/hieukhau/" className="email-link" target="_blank">
+                LinkedIn
+              </a>
+            </div>
+
+            <div className="contact-item">
+              <FontAwesomeIcon icon={faGithub} />
+              <a href="https://github.com/MrBlueBeeOsn" className="email-link" target="_blank">
                 GitHub
               </a>
             </div>
 
-           <FontAwesomeIcon icon={faGithub} />
-
             <div className="contact-item">
-              💬
-              <a href="https://wa.me/84906920292?text=Hi!%20I'm%20available%20to%20talk%20about%20the%20Accounting%20opportunity." className="email-link">
+              <FontAwesomeIcon icon={faWhatsapp} />
+              <a href="https://wa.me/84906920292?text=Hi!%20I'm%20available%20to%20talk%20about%20the%20Accounting%20opportunity." className="email-link" target="_blank">
                 WA Business
               </a>
             </div>
@@ -87,7 +100,11 @@ export default function ContactIndex(): React.JSX.Element {
 
         </header>
 
-    </div>
+        <div className="bee-wrapper1">
+          <img src="/assets/images/bee2.png" alt="Mr. Bee Osn"/>
+      	</div>
+
+      </div>
 
       <div className="viewcounter">
       

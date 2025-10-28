@@ -137,6 +137,19 @@ button:hover {
 	z-index: 10; /* Đảm bảo ảnh hiển thị trên các phần tử khác */
 }
 
+.bee-wrapper1 {
+	position: absolute; /* Định vị tuyệt đối */
+	top: 40px; /* 15px; Gắn sát góc trên */
+	left: -45px;
+	width: 150px; /* Kích thước hình ảnh */
+	height: auto;
+	transform: translateY(-50%); /* Căn giữa theo chiều dọc */
+	object-fit: cover; /* Để hình ảnh không bị méo */
+	opacity: 20%;
+	overflow: visible;
+	z-index: 10; /* Đảm bảo ảnh hiển thị trên các phần tử khác */
+}
+
 .bee-wrapper2 {
 	position: absolute; /* Định vị tuyệt đối */
 	bottom: -110px; /* 15px; Gắn sát góc trên */
