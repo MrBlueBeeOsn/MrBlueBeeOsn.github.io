@@ -32,7 +32,7 @@ export default function Home(): React.JSX.Element {
 
               <a href="https://www.microsoft.com/en-us/edge/features/read-aloud" className="speaker-link" target="_blank" data-title="Play read aloud">
 
-                <i className="fa-solid fa-volume-high" style={{fontSize: 14 }}>&nbsp;</i>
+                <i className="fa-solid fa-volume-high speaker-icon" style={{fontSize: 14 }}>&nbsp;</i>
 
               </a>
               
