@@ -1,10 +1,10 @@
 /*-- ========================================
- 
+
   © 2025 - 🐝 Mr. ßee - 🅾ng siêng năng📘
 
-      https://mrbluebeeosn.github.io
+        MrBlueBeeOsn.github.io 🔊📖
 
-          ☕ Happy reading today!
+        ☕ Happy reading today!
 
 ========================================= --*/
 
@@ -82,6 +82,61 @@ a img {
 
 a:active img {
   opacity: 0.7;  /* hiệu ứng nhấn giữ lại cảm giác click, không bị nền vuông */
+}
+
+/* a.speaker-link .fa-volume-high {
+  color: var(--secondary-color);
+  font-size: 14px;
+	transition: color 300ms ease, transform 200ms ease;
+}
+
+a.speaker-link:hover .fa-volume-high {
+  color: var(--accent-color);
+	transform: scale(1.08);
+} */
+
+.speaker-link {
+  position: relative;
+  text-decoration: none;
+  color: white;
+}
+
+/* icon */
+.speaker-icon {
+  color: var(--secondary-color);
+  font-size: 14px;
+  transition: color 300ms ease, transform 200ms ease;
+}
+
+/* hover đổi màu icon */
+.speaker-link:hover .speaker-icon {
+  color: var(--accent-color);
+  transform: scale(1.05);
+}
+
+/* tooltip cơ bản */
+.speaker-link::after {
+  content: attr(data-title);
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%) translateY(8px);
+  bottom: 100%;
+  background: var(--secondary-color);
+  color: var(--accent-color);
+  padding: 1px 5px;
+  border-radius: 2px;
+  font-size: 12px;
+  white-space: nowrap;
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity 200ms ease, transform 200ms ease;
+  z-index: 10;
+}
+
+/* hiện tooltip khi hover */
+.speaker-link:hover::after {
+  opacity: 1;
+  transform: translateX(-50%) translateY(0);
 }
 
 /* =============================

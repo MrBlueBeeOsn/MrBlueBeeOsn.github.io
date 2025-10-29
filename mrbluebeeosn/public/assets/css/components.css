@@ -1,10 +1,10 @@
 /*-- ========================================
- 
-	© 2025 - 🐝 Mr. ßee - 🅾ng siêng năng📘
 
-		https://mrbluebeeosn.github.io
+  © 2025 - 🐝 Mr. ßee - 🅾ng siêng năng📘
 
-			☕ Happy reading today!
+        MrBlueBeeOsn.github.io 🔊📖
+
+        ☕ Happy reading today!
 
 ========================================= --*/
 
@@ -140,12 +140,12 @@ button:hover {
 .bee-wrapper1 {
 	position: absolute; /* Định vị tuyệt đối */
 	top: 40px; /* 15px; Gắn sát góc trên */
-	left: -45px;
+	right: -45px;
 	width: 150px; /* Kích thước hình ảnh */
 	height: auto;
 	transform: translateY(-50%); /* Căn giữa theo chiều dọc */
 	object-fit: cover; /* Để hình ảnh không bị méo */
-	opacity: 20%;
+	opacity: 40%;
 	overflow: visible;
 	z-index: 10; /* Đảm bảo ảnh hiển thị trên các phần tử khác */
 }
