@@ -50,7 +50,7 @@ export default function AboutIndex(): React.JSX.Element {
         <div className="group-container">
 
           <h3 className="margin-top-50 text-center">Cộng đồng chính thức của Accounting Bee</h3>
-          <p className="margin-bottom-50 text-center">(WhatsApp của Facebook)</p>
+          <p className="margin-bottom-50 text-center">(WA Business của Facebook)</p>
 
           <div className="group-title">
             <h2>Group chính</h2>
