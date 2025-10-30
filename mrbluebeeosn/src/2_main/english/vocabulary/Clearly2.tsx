@@ -36,7 +36,7 @@ export default function Clearly2(): React.JSX.Element {
 
 					<p className="margin-y-10">
 						
-						<strong>Clearlyly&nbsp;</strong>
+						<strong>Clearly&nbsp;</strong>
 						
 						<span className="highlight-255-padding-3-6">
 							
