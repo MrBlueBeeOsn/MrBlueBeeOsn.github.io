@@ -5,9 +5,9 @@ import EyeIcon from '@/components/EyeIcon';
 import ViewCounter from '@/components/ViewCounter';
 import LikeButton from '@/components/LikeButton';
 
-export default function Exactly1(): React.JSX.Element {
+export default function Clearly1(): React.JSX.Element {
 
-  const postId = "Exactly1";
+  const postId = "Clearly1";
 
   return (<>
 
@@ -15,37 +15,37 @@ export default function Exactly1(): React.JSX.Element {
 
     <article>
     
-      <h4><HashLink smooth to="/vocabulary#tinh-chinh-xac-terms"><mark className="highlight-tertiary-padding-4-8">Tính chính xác</mark></HashLink></h4>
+      <h4><HashLink smooth to="/vocabulary#tinh-ro-rang-terms"><mark className="highlight-tertiary-padding-4-8">Tính rõ ràng</mark></HashLink></h4>
       
-      <h1 className="margin-y-50 text-center">exactly
-        <sup><Link to="/vocabulary/exactly-1">&nbsp;1&nbsp;</Link>
+      <h1 className="margin-y-50 text-center">clearly
+        <sup><Link to="/vocabulary/clearly-1">&nbsp;1&nbsp;</Link>
         </sup>
-        <sup><Link to="/vocabulary/exactly-2">&nbsp;2&nbsp;</Link>
+        <sup><Link to="/vocabulary/clearly-2">&nbsp;2&nbsp;</Link>
         </sup>
       </h1>
 
       {/* This is the content of Vocabulary Term. */}
       
-      <p>Tuyệt vời! Chúng ta cùng tìm hiểu về từ "<strong>exactly</strong>" nhé.</p>
+      <p>Tuyệt vời! Chúng ta cùng đi sâu vào từ "<strong>clearly</strong>" nhé.</p>
 
       <div className="text-border1 padding-top-20 padding-bottom-10 highlight-238-padding-4-8 bee-container">
 
         <div>
 
-          <p className="margin-bottom-20"><strong>Exactly</strong></p>
+          <p className="margin-bottom-20"><strong>Clearly</strong></p>
 
           <ul className="list-square padding-left-40">
 
             <li>
               <span className="highlight-255-padding-3-6">
-                /ɪɡˈzæktli/ + /<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">ėxactly</Link>/
-                <sup>&nbsp;•⬤• (3x)</sup>
+                /ˈklɪərli/ + /<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">Clėarly</Link>/
+                <sup>&nbsp;⬤• (2x)</sup>
               </span>
             </li>
 
             <li>Trạng từ (<Link to="/grammar/what-is-an-adverb?">adverb</Link>)</li>
 
-            <li>Chính xác, đúng đắn</li>
+            <li>Rõ ràng, một cách rõ ràng</li>
 
           </ul>
 
@@ -53,26 +53,26 @@ export default function Exactly1(): React.JSX.Element {
 
         <div className="bee-wrapper">
           <img src="/assets/images/bee2.png" alt="Mr. Bee Osn"/>
-        </div> 
+        </div>
 
       </div>
 
-      <p className="margin-top-30 text-indent-whole">Từ "<strong>exactly</strong>" dùng để nhấn mạnh sự chính xác, hoàn toàn trùng khớp với một điều gì đó. Nó có thể được sử dụng để xác nhận, đồng ý, hoặc để làm rõ một thông tin.</p>
+      <p className="margin-top-30 text-indent-whole">Từ "<strong>clearly</strong>" được dùng để nhấn mạnh rằng một điều gì đó rất dễ hiểu, dễ nhìn thấy, hoặc không có sự mơ hồ nào. Nó cũng có thể được dùng để chỉ một cách rõ ràng, không có sự nghi ngờ.</p>
 
       <p className="text-indent-whole">Ví dụ:</p>
 
         <ul className="list-square">
 
-          <li>That's <strong>exactly</strong> what I was thinking. (Đúng là điều tôi đang nghĩ.)</li>
-          
-          <li>She arrived at <strong>exactly</strong> 3 o'clock. (Cô ấy đến đúng 3 giờ.)</li>
+          <li>She <strong>clearly</strong> explained the rules. (Cô ấy đã giải thích rõ ràng các quy tắc.)</li>
+
+          <li>The answer is <strong>clearly</strong> no. (Câu trả lời rõ ràng là không.)</li>
 
         </ul>
 
       {/* =============================
             Gia đình từ:
       ============================= */}
-
+        
       <p className="margin-top-20">
         <mark className="highlight-238-padding-4-8">
           <strong>Gia đình từ</strong>:
@@ -81,15 +81,18 @@ export default function Exactly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Exact (adj): chính xác /ɪɡˈzækt/</li>
-          <li className="list-none">The exact time is 2:15 PM. (Thời gian chính xác là 2:15 chiều.)</li>
+          <li>Clear (adj): Rõ ràng, trong suốt /klɪər/</li>
+          <li className="margin-bottom-20 list-none">The sky is clear today. (Trời hôm nay trong xanh.)</li>
+
+          <li>Clarity (n): Sự rõ ràng /ˈklærəti/</li>
+          <li className="list-none">The clarity of her explanation was impressive. (Sự rõ ràng trong lời giải thích của cô ấy thật ấn tượng.)</li>
 
         </ul>
-      
+
       {/* =============================
             Từ đồng nghĩa:
       ============================= */}
-
+        
       <p className="margin-top-20">
         <mark className="highlight-238-padding-4-8">
           <strong>Từ đồng nghĩa</strong>:
@@ -98,11 +101,11 @@ export default function Exactly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li><Link to="/vocabulary/precisely-1">Precisely</Link>: Chính xác /prɪˈsaɪsli/</li>
-          <li className="margin-bottom-20 list-none">That's precisely what I meant. (Đó chính xác là điều tôi muốn nói.)</li>
+          <li><Link to="/vocabulary/obviously-1">Obviously</Link>: Rõ ràng /ˈɒbviəsli/</li>
+          <li className="margin-bottom-20 list-none">Obviously, he's lying. (Rõ ràng, anh ta đang nói dối.)</li>
 
-          <li><Link to="/vocabulary/accurately-1">Accurately</Link>: Chính xác /ˈækjərətli/</li>
-          <li className="list-none">The measurement was accurately taken. (Đo lường đã được thực hiện chính xác.)</li>
+          <li>Plainly: Một cách đơn giản, rõ ràng /ˈpleɪnli/</li>
+          <li className="list-none">The answer is plainly wrong. (Câu trả lời rõ ràng là sai.)</li>
 
         </ul>
 
@@ -118,14 +121,14 @@ export default function Exactly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Approximately: Xấp xỉ /əˈprɒksɪmətli/</li>
-          <li className="margin-bottom-20 list-none">There were approximately 100 people at the party. (Có khoảng 100 người tại bữa tiệc.)</li>
+          <li>Vaguely: Một cách mơ hồ /ˈveɪɡli/</li>
+          <li className="margin-bottom-20 list-none">I vaguely remember his name. (Tôi nhớ mang máng tên anh ấy.)</li>
 
-          <li>Roughly: Xấp xỉ /ˈrʌfli/</li>
-          <li className="list-none">It takes roughly 30 minutes to get there. (Mất khoảng 30 phút để đến đó.)</li>
+          <li>Unclearly: Một cách không rõ ràng /ʌnˈklɪərli/</li>
+          <li className="list-none">She spoke unclearly. (Cô ấy nói không rõ ràng.)</li>
 
         </ul>
-
+      
       {/* =============================
             🌻 Mẹo học từ vựng:
       ============================= */}
@@ -135,7 +138,7 @@ export default function Exactly1(): React.JSX.Element {
       {/* =============================
             1. Liên kết hình ảnh:
       ============================= */}
-
+      
       <p className="margin-top-20">
         <strong>
           <mark className="highlight-255-padding-4-8"><strong>1. Liên kết</strong></mark> 
@@ -143,12 +146,12 @@ export default function Exactly1(): React.JSX.Element {
         <strong>&nbsp;với hình ảnh</strong>:
       </p>
 
-      <p className="text-indent-whole">Hình dung một thước đo chính xác đến từng milimet.</p>
+      <p className="text-indent-whole">Hình dung một bức tranh rất rõ nét.</p>
 
         <ul className="list-square">
 
-          <li>This digital caliper can measure the length of this component <strong>exactly</strong> to the millimeter.</li>
-          <li className="list-none">(Thước kẹp kỹ thuật số này có thể đo độ dài của thành phần này chính xác đến từng milimet.)</li>
+          <li>You can <strong>clearly</strong> see every detail in the picture.</li>
+          <li className="list-none">(Bạn có thể nhìn thấy rõ ràng mọi chi tiết trong bức tranh.)</li>
 
         </ul>
 
@@ -163,12 +166,12 @@ export default function Exactly1(): React.JSX.Element {
         <strong>&nbsp;ví dụ</strong>:
       </p>
 
-      <p className="text-indent-whole"></p>
+      <p className="text-indent-whole">Tạo các câu ví dụ khác nhau với từ "<strong>clearly</strong>" trong nhiều ngữ cảnh.</p>
 
         <ul className="list-square">
 
-          <li>Can you repeat that, <strong>exactly</strong>?</li>
-          <li className="list-none">(Anh/chị có thể lặp lại điều đó, chính xác không?)</li>
+          <li>I can <strong>clearly</strong> see the difference between the two.</li>
+          <li className="list-none">(Tôi có thể thấy rõ sự khác biệt giữa hai cái.)</li>
 
         </ul>
 
@@ -183,37 +186,39 @@ export default function Exactly1(): React.JSX.Element {
         <strong>&nbsp;thường xuyên</strong>:
       </p>
 
-      <p className="text-indent-whole">Thường xuyên sử dụng từ này trong các cuộc hội thoại và bài viết.</p>
+      <p className="text-indent-whole">Thường xuyên sử dụng từ này khi bạn muốn nhấn mạnh sự rõ ràng của một ý kiến.</p>
 
         <p className="text-indent-whole">Ví dụ để so sánh (sự khác biệt):</p>
 
           <ol>
 
-            <li>I'll be there soon. (Tôi sẽ đến đó sớm.)</li>
+            <li>I understand. (Tôi hiểu.)</li>
 
-            <li className="margin-bottom-20">I'll be there at <strong>exactly</strong> 5 PM. (Tôi sẽ đến đó đúng 5 giờ.)</li>
+            <li className="margin-bottom-20">I understand <strong>clearly</strong>. (Tôi hiểu rõ.)</li>
 
           </ol>
 
       <div className="margin-bottom-20 padding-top-20 text-border1 padding-10 highlight-238-padding-4-8 bee-container">
 
-        <p className="margin-y-10">Sự khác biệt: Câu thứ hai sử dụng "<strong>exactly</strong>" để <span className="highlight-255-padding-0-4">nhấn mạnh</span> thời gian đến <span className="highlight-255-padding-0-4">một cách chính xác,</span> không muộn hơn hoặc sớm hơn.</p>
+        <p className="margin-y-10">Sự khác biệt: Câu thứ hai sử dụng "<strong>clearly</strong>" để <span className="highlight-255-padding-0-4">nhấn mạnh rằng sự hiểu biết là hoàn toàn</span> và không có bất kỳ sự mơ hồ nào.</p>
+
+        {/* <span className="highlight-255-padding-0-4"></span> */}
 
       </div>
 
       {/* =============================
             Lưu ý:
       ============================= */}
-
+      
       <div className="margin-y-30 text-border1 table-container">
 
         <h3 className="margin-y-30 text-center">Lưu ý:</h3>
 
         <ul className="list-square">
 
-          <li>Sự chính xác tuyệt đối: "<strong>Exactly</strong>" thường được sử dụng để nhấn mạnh sự chính xác tuyệt đối, không có sai lệch.</li>
+          <li>Nhấn mạnh: "<strong>Clearly</strong>" thường được dùng để nhấn mạnh một ý kiến hoặc một sự thật.</li>
 
-          <li className="margin-bottom-20">Xác nhận thông tin: Nó có thể được dùng để xác nhận một thông tin đã được đưa ra trước đó.</li>
+          <li className="margin-bottom-20">Không có nghi ngờ: Nó cho thấy rằng không có sự nghi ngờ nào về điều đang được nói đến.</li>
 
         </ul>
 
@@ -224,7 +229,7 @@ export default function Exactly1(): React.JSX.Element {
       <div className="viewcounter">
       
         <div className="post-date no-margin">
-          <span>November 5, 2024 · by 💎Gem ·</span>
+          <span>November 4, 2024 · by 💎Gem ·</span>
         </div>
 
         <div className="eye-icon no-margin">

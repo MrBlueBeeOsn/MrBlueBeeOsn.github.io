@@ -82,11 +82,9 @@ export default function Accurately1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>Accurate (adj): Chính xác /ˈækjərət/</li>
-
           <li className="margin-bottom-20 list-none">His information is always accurate. (Thông tin của anh ấy luôn chính xác.)</li>
 
           <li>Accuracy (n): Độ chính xác /ˈækjərəsi/</li>
-
           <li className="list-none">The accuracy of the test results is crucial. (Độ chính xác của kết quả kiểm tra là rất quan trọng.)</li>
 
         </ul>
@@ -104,11 +102,9 @@ export default function Accurately1(): React.JSX.Element {
         <ul className="list-square">
 
           <li><Link to="/vocabulary/exactly-1">Exactly</Link>: Chính xác /ɪɡˈzæktli/</li>
-
           <li className="margin-bottom-20 list-none">I know exactly what you mean. (Tôi hiểu chính xác ý của bạn.)</li>
 
           <li><Link to="/vocabulary/precisely-1">Precisely</Link>: Chính xác /prɪˈsaɪsli/</li>
-
           <li className="list-none">The time was precisely 3:00 pm. (Thời gian chính xác là 3 giờ chiều.)</li>
 
         </ul>
@@ -126,11 +122,9 @@ export default function Accurately1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>Inaccurately: Không chính xác /ɪnˈækjərətli/</li>
-
           <li className="margin-bottom-20 list-none">The information was inaccurately reported. (Thông tin đã được báo cáo không chính xác.)</li>
 
           <li>Approximately: Xấp xỉ /əˈprɒksɪmətli/</li>
-
           <li className="list-none">There were approximately 100 people at the party. (Có khoảng 100 người tại bữa tiệc.)</li>
 
         </ul>
@@ -157,7 +151,6 @@ export default function Accurately1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>The jeweler is <strong>accurately</strong> measuring the diamond with a precise tool.</li>
-
           <li className="list-none">(Người thợ kim hoàn đang đo viên kim cương một cách chính xác bằng một dụng cụ đo lường.)</li>
 
         </ul>
@@ -178,7 +171,6 @@ export default function Accurately1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>The scientist <strong>accurately</strong> predicted the outcome of the experiment.</li>
-
           <li className="list-none">(Nhà khoa học đã dự đoán chính xác kết quả của thí nghiệm.)</li>
 
         </ul>

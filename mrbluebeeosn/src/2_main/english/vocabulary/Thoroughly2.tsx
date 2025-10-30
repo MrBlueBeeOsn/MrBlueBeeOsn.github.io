@@ -63,43 +63,33 @@ export default function Thoroughly2(): React.JSX.Element {
       <ol className="margin-top-30 padding-left-30">
 
         <li value="1"><strong>Thoroughly</strong> enjoy: Thưởng thức một cách trọn vẹn /ˈθʌrəli ɪnˈdʒɔɪ/</li>
-
         <li className="list-none margin-bottom-20">I <strong>thoroughly</strong> enjoyed the concert last night. (Tôi đã thưởng thức buổi hòa nhạc tối qua một cách trọn vẹn.)</li>
 
         <li value="2"><strong>Thoroughly</strong> clean: Làm sạch kỹ lưỡng /ˈθʌrəli kliːn/</li>
-
         <li className="list-none margin-bottom-20">Before we move in, we need to <strong>thoroughly</strong> clean the house. (Trước khi chuyển vào, chúng ta cần dọn dẹp nhà cửa thật kỹ lưỡng.)</li>
 
         <li value="3"><strong>Thoroughly</strong> investigate: Điều tra kỹ lưỡng /ˈθʌrəli ɪnˈvɛstɪɡeɪt/</li>
-
         <li className="list-none margin-bottom-20">The police are <strong>thoroughly</strong> investigating the crime scene. (Cảnh sát đang điều tra hiện trường vụ án một cách kỹ lưỡng.)</li>
 
         <li value="4"><strong>Thoroughly</strong> convinced: Hoàn toàn tin chắc /ˈθʌrəli kənˈvɪnst/</li>
-
         <li className="list-none margin-bottom-20">I am <strong>thoroughly</strong> convinced of his innocence. (Tôi hoàn toàn tin chắc vào sự vô tội của anh ấy.)</li>
 
         <li value="5"><strong>Thoroughly</strong> mixed: Trộn đều /ˈθʌrəli mɪkst/</li>
-
         <li className="list-none margin-bottom-20">Make sure the ingredients are <strong>thoroughly</strong> mixed before baking. (Hãy chắc chắn trộn đều các nguyên liệu trước khi nướng.)</li>
 
         <li value="6"><strong>Thoroughly</strong> tested: Được kiểm tra kỹ lưỡng /ˈθʌrəli ˈtɛstɪd/</li>
-
         <li className="list-none margin-bottom-20">The new product has been <strong>thoroughly</strong> tested before being released. (Sản phẩm mới đã được kiểm tra kỹ lưỡng trước khi được tung ra thị trường.)</li>
 
         <li value="7"><strong>Thoroughly</strong> modern: Hiện đại một cách hoàn toàn /ˈθʌrəli ˈmɒdən/</li>
-
         <li className="list-none margin-bottom-20">The city's skyline is <strong>thoroughly</strong> modern. (Đường chân trời của thành phố rất hiện đại.)</li>
 
         <li value="8"><strong>Thoroughly</strong> disgusted: Cảm thấy ghê tởm tột độ /ˈθʌrəli dɪsˈɡʌstɪd/</li>
-        
         <li className="list-none margin-bottom-20">I was <strong>thoroughly</strong> disgusted by his behavior. (Tôi cảm thấy ghê tởm tột độ trước hành vi của anh ta.)</li>
 
         <li value="9"><strong>Thoroughly</strong> prepared: Chuẩn bị kỹ lưỡng /ˈθʌrəli prɪˈpeərd/</li>
-
         <li className="list-none margin-bottom-20">She was <strong>thoroughly</strong> prepared for the exam. (Cô ấy đã chuẩn bị rất kỹ cho kỳ thi.)</li>
 
         <li value="10"><strong>Thoroughly</strong> understand: Hiểu rõ /ˈθʌrəli ˌʌndərˈstænd/</li>
-
         <li className="list-none margin-bottom-20">I think I <strong>thoroughly</strong> understand the concept now. (Tôi nghĩ giờ thì tôi đã hiểu rõ khái niệm này rồi.)</li>
 
       </ol>

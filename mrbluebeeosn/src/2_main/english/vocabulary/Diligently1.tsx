@@ -82,11 +82,9 @@ export default function Diligently1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>Diligent (adj): Chăm chỉ, cần mẫn /ˈdɪl.ɪ.dʒənt/</li>
-
           <li className="margin-bottom-20 list-none">He is a diligent student. (Anh ấy là một học sinh chăm chỉ.)</li>
 
           <li>Diligence (n): Sự chăm chỉ, sự cần mẫn /ˈdɪl.ɪ.dʒəns/</li>
-
           <li className="list-none">Her diligence was rewarded. (Sự chăm chỉ của cô ấy đã được đền đáp.)</li>
 
         </ul>
@@ -104,11 +102,9 @@ export default function Diligently1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>Industriously: Một cách cần cù /ɪnˈdʌs.tri.əs.li/</li>
-
           <li className="margin-bottom-20 list-none">The bees industriously gathered pollen. (Những con ong cần cù thu thập phấn hoa.)</li>
 
           <li>Assiduously: Một cách siêng năng /əˈsɪd.ju.əs.li/</li>
-
           <li className="list-none">He assiduously worked on his project. (Anh ấy siêng năng làm việc trên dự án của mình.)</li>
 
         </ul>
@@ -126,11 +122,9 @@ export default function Diligently1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>Lazily: Một cách lười biếng /ˈleɪ.zɪ.li/</li>
-
           <li className="margin-bottom-20 list-none">He lazily sat on the couch. (Anh ấy lười biếng ngồi trên ghế sofa.)</li>
 
           <li>Carelessly: Một cách cẩu thả /ˈkeə.ləs.li/</li>
-
           <li className="list-none">She carelessly threw her papers on the floor. (Cô ấy vứt giấy tờ xuống sàn một cách cẩu thả.)</li>
 
         </ul>
@@ -157,7 +151,6 @@ export default function Diligently1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>She is putting in a lot of effort, studying <strong>diligently</strong> for the exam.</li>
-
           <li className="list-none">(Cô ấy đang nỗ lực rất nhiều, chăm chỉ học bài để chuẩn bị cho kỳ thi.)</li>
 
         </ul>
@@ -178,7 +171,6 @@ export default function Diligently1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>She <strong>diligently</strong> cleaned the house.</li>
-
           <li className="list-none">(Cô ấy đã chăm chỉ dọn dẹp nhà cửa.)</li>
 
         </ul>

@@ -64,7 +64,6 @@ export default function Scrupulously1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>He followed the instructions <strong>scrupulously</strong>. (Anh ấy tuân theo các hướng dẫn một cách tỉ mỉ.)</li>
-
           <li>She cleaned the house <strong>scrupulously</strong>. (Cô ấy lau nhà một cách chu đáo.)</li>
 
         </ul>
@@ -82,11 +81,9 @@ export default function Scrupulously1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>Scrupulous (adj): Tỉ mỉ, cẩn trọng, chu đáo /ˈskruː.pjə.ləs/</li>
-
           <li className="margin-bottom-20 list-none">He is a scrupulous person. (Anh ấy là một người chu đáo.)</li>
 
           <li>Scrupulousness (n): Sự tỉ mỉ, sự cẩn trọng, sự chu đáo /ˈskruː.pjə.ləs.nəs/</li>
-
           <li className="list-none">Her scrupulousness impressed everyone. (Sự chu đáo của cô ấy gây ấn tượng với mọi người.)</li>
 
         </ul>
@@ -104,15 +101,12 @@ export default function Scrupulously1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>Meticulously: Một cách tỉ mỉ, kỹ lưỡng /məˈtɪk.jə.ləs.li/</li>
-
           <li className="margin-bottom-20 list-none">He planned the event meticulously. (Anh ấy lên kế hoạch cho sự kiện một cách kỹ lưỡng.)</li>
 
           <li>Carefully: Một cách cẩn thận, thận trọng /ˈker.fə.li/</li>
-
           <li className="margin-bottom-20 list-none">He handled the glass carefully. (Anh ấy xử lý cái ly một cách cẩn thận.)</li>
 
           <li><Link to="/vocabulary/thoroughly-1">Thoroughly</Link>: Một cách kỹ lưỡng, hoàn toàn /ˈθɜːr.ə.li/</li>
-
           <li className="list-none">He checked the documents thoroughly. (Anh ấy kiểm tra các tài liệu một cách kỹ lưỡng.)</li>
 
         </ul>
@@ -130,15 +124,12 @@ export default function Scrupulously1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>Carelessly: Một cách bất cẩn, cẩu thả /ˈker.ləs.li/</li>
-
           <li className="margin-bottom-20 list-none">He handled the glass carelessly. (Anh ấy xử lý cái ly một cách bất cẩn.)</li>
 
           <li>Negligently: Một cách cẩu thả, lơ là /ˈneɡ.lɪ.dʒənt.li/</li>
-
           <li className="margin-bottom-20 list-none">He performed his duties negligently. (Anh ấy thực hiện nhiệm vụ của mình một cách cẩu thả.)</li>
 
           <li>Sloppily: Một cách cẩu thả, ẩu tả, luộm thuộm /ˈslɑː.pɪ.li/</li>
-
           <li className="list-none">The report was written sloppily, with many grammatical mistakes. (Báo cáo được viết một cách ẩu tả, với nhiều lỗi ngữ pháp.)</li>
 
         </ul>
@@ -165,11 +156,9 @@ export default function Scrupulously1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>He examined the document <strong>scrupulously</strong>.</li>
-
           <li className="margin-bottom-20 list-none">(Anh ấy kiểm tra tài liệu một cách tỉ mỉ.)</li>
 
           <li>She cleaned the house <strong>scrupulously</strong>.</li>
-
           <li className="list-none">(Cô ấy lau dọn nhà cửa một cách tỉ mỉ.)</li>
 
         </ul>
@@ -190,7 +179,6 @@ export default function Scrupulously1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>The accountant checked the figures <strong>scrupulously</strong>.</li>
-
           <li className="list-none">(Kế toán kiểm tra các số liệu một cách tỉ mỉ.)</li>
 
         </ul>

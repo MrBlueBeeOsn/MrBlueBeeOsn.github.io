@@ -82,11 +82,9 @@ export default function Painstakingly1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>Painstaking (adj): Cẩn thận, tỉ mỉ, chu đáo /ˈpeɪnz.teɪ.kɪŋ/</li>
-
           <li className="margin-bottom-20 list-none">He did a painstaking job. (Anh ấy làm một công việc tỉ mỉ.)</li>
 
           <li>Painstakingness (n): Sự cẩn thận, sự tỉ mỉ, sự chu đáo /ˈpeɪnz.teɪ.kɪŋ.nəs/</li>
-
           <li className="list-none">The painstakingness of her work was impressive. (Sự tỉ mỉ trong công việc của cô ấy rất ấn tượng.)</li>
 
         </ul>
@@ -104,15 +102,12 @@ export default function Painstakingly1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>Meticulously: Một cách tỉ mỉ, kỹ lưỡng /məˈtɪk.jʊ.ləs.li/</li>
-
           <li className="margin-bottom-20 list-none">She arranged the flowers meticulously. (Cô ấy sắp xếp hoa một cách tỉ mỉ.)</li>
 
           <li>Carefully: Một cách cẩn thận, chu đáo /ˈkeə.fə.li/</li>
-
           <li className="margin-bottom-20 list-none">He examined the document carefully. (Anh ấy xem xét tài liệu một cách cẩn thận.)</li>
 
           <li><Link to="/vocabulary/thoroughly-1">Thoroughly</Link>: Một cách kỹ lưỡng, hoàn toàn /ˈθʌr.ə.li/</li>
-
           <li className="list-none">They searched the house thoroughly. (Họ tìm kiếm căn nhà một cách kỹ lưỡng.)</li>
 
         </ul>
@@ -130,15 +125,12 @@ export default function Painstakingly1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>Carelessly: Một cách bất cẩn, cẩu thả /ˈkeə.ləs.li/</li>
-
           <li className="margin-bottom-20 list-none">He did the work carelessly. (Anh ấy làm việc một cách cẩu thả.)</li>
 
           <li>Negligently: Một cách cẩu thả, lơ là /ˈneɡ.lɪ.dʒənt.li/</li>
-
           <li className="margin-bottom-20 list-none">She handled the equipment negligently. (Cô ấy xử lý thiết bị một cách cẩu thả.)</li>
 
           <li>Hastily: Một cách vội vàng, hấp tấp /ˈheɪstɪ.li/</li>
-
           <li className="list-none">He made a decision hastily. (Anh ấy đưa ra quyết định một cách vội vàng.)</li>
 
         </ul>
@@ -165,11 +157,9 @@ export default function Painstakingly1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>He <strong>painstakingly</strong> repaired the antique clock.</li>
-
           <li className="margin-bottom-20 list-none">(Anh ấy tỉ mỉ sửa chữa chiếc đồng hồ cổ.)</li>
 
           <li>The scientist <strong>painstakingly</strong> examined the tiny specimen.</li>
-
           <li className="list-none">(Nhà khoa học tỉ mỉ kiểm tra mẫu vật nhỏ bé.)</li>
 
         </ul>
@@ -190,7 +180,6 @@ export default function Painstakingly1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>The artist <strong>painstakingly</strong> painted every detail of the portrait.</li>
-
           <li className="list-none">(Họa sĩ tỉ mỉ vẽ từng chi tiết của bức chân dung.)</li>
 
         </ul>

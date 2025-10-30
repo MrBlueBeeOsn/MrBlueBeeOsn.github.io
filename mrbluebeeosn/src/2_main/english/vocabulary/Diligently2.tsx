@@ -63,43 +63,33 @@ export default function Diligently2(): React.JSX.Element {
       <ol className="margin-top-30 padding-left-30">
 
         <li value="1"><strong>Diligently</strong> worked: Làm việc chăm chỉ /ˈdɪlədʒəntli wɜːkt/</li>
-
         <li className="list-none margin-bottom-20">She <strong>diligently</strong> worked on her project until late at night. (Cô ấy chăm chỉ làm dự án đến tận khuya.)</li>
 
         <li value="2"><strong>Diligently</strong> studied: Học hành chăm chỉ /ˈdɪlədʒəntli ˈstʌdid/</li>
-
         <li className="list-none margin-bottom-20">He <strong>diligently</strong> studied for his exams. (Anh ấy chăm chỉ ôn thi.)</li>
 
         <li value="3"><strong>Diligently</strong> searched: Tìm kiếm cẩn thận /ˈdɪlədʒəntli sɜːtʃt/</li>
-
         <li className="list-none margin-bottom-20">The detectives <strong>diligently</strong> searched for clues. (Các thám tử đã tìm kiếm manh mối một cách cẩn thận.)</li>
 
         <li value="4"><strong>Diligently</strong> applied: Áp dụng một cách nghiêm túc /ˈdɪlədʒəntli əˈplaɪd/</li>
-
         <li className="list-none margin-bottom-20">She <strong>diligently</strong> applied herself to her new job. (Cô ấy đã nghiêm túc làm việc với công việc mới của mình.)</li>
 
         <li value="5"><strong>Diligently</strong> recorded: Ghi chép cẩn thận /ˈdɪlədʒəntli rɪˈkɔːdɪd/</li>
-
         <li className="list-none margin-bottom-20">The scientist <strong>diligently</strong> recorded the data. (Nhà khoa học đã ghi chép dữ liệu một cách cẩn thận.)</li>
 
         <li value="6"><strong>Diligently</strong> maintained: Bảo trì cẩn thận /ˈdɪlədʒəntli meɪnˈteɪnd/</li>
-
         <li className="list-none margin-bottom-20">He <strong>diligently</strong> maintained his garden. (Anh ấy chăm sóc khu vườn của mình rất cẩn thận.)</li>
 
         <li value="7"><strong>Diligently</strong> followed: Làm theo một cách nghiêm túc /ˈdɪlədʒəntli ˈfɒləʊd/</li>
-
         <li className="list-none margin-bottom-20">She <strong>diligently</strong> followed the doctor's instructions. (Cô ấy đã làm theo chỉ dẫn của bác sĩ một cách nghiêm túc.)</li>
 
         <li value="8"><strong>Diligently</strong> prepared: Chuẩn bị kỹ lưỡng /ˈdɪlədʒəntli prɪˈpeərd/</li>
-        
         <li className="list-none margin-bottom-20">The students <strong>diligently</strong> prepared for the exam. (Học sinh đã chuẩn bị kỹ lưỡng cho kỳ thi.)</li>
 
         <li value="9"><strong>Diligently</strong> pursued: Theo đuổi một cách kiên trì /ˈdɪlədʒəntli pərˈsuːd/</li>
-
         <li className="list-none margin-bottom-20">He <strong>diligently</strong> pursued his dream of becoming a writer. (Anh ấy đã kiên trì theo đuổi ước mơ trở thành nhà văn.)</li>
 
         <li value="10"><strong>Diligently</strong> observed: Quan sát kỹ lưỡng /ˈdɪlədʒəntli əbˈzɜːvd/</li>
-
         <li className="list-none margin-bottom-20">The scientist <strong>diligently</strong> observed the behavior of the animals. (Nhà khoa học đã quan sát hành vi của động vật một cách kỹ lưỡng.)</li>
 
       </ol>

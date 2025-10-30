@@ -28,7 +28,7 @@ export default function (): React.JSX.Element {
 
       {/* This is the content of Vocabulary Term. */}
 
-      <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>ly</strong>" và các cụm từ thường đi kèm nhé.</p>
+      <p>Tuyệt vời! </p>
 
       <div className="text-border1 padding-10 highlight-238-padding-4-8 bee-container">
 
@@ -63,43 +63,33 @@ export default function (): React.JSX.Element {
       <ol className="margin-top-30 padding-left-30">
 
         <li value="1"></li>
-
         <li className="list-none margin-bottom-20"></li>
 
         <li value="2"></li>
-
         <li className="list-none margin-bottom-20"></li>
 
         <li value="3"></li>
-
         <li className="list-none margin-bottom-20"></li>
 
         <li value="4"></li>
-
         <li className="list-none margin-bottom-20"></li>
 
         <li value="5"></li>
-
         <li className="list-none margin-bottom-20"></li>
 
         <li value="6"></li>
-
         <li className="list-none margin-bottom-20"></li>
 
         <li value="7"></li>
-
         <li className="list-none margin-bottom-20"></li>
 
         <li value="8"></li>
-        
         <li className="list-none margin-bottom-20"></li>
 
         <li value="9"></li>
-
         <li className="list-none margin-bottom-20"></li>
 
         <li value="10"></li>
-
         <li className="list-none margin-bottom-20"></li>
 
       </ol>

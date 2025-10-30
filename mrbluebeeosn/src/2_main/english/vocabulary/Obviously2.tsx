@@ -63,43 +63,33 @@ export default function Obviously2(): React.JSX.Element {
 			<ol className="margin-top-30 padding-left-30">
 
 				<li value="1"><strong>Obviously</strong> wrong: Rõ ràng là sai /ˈɒbviəsli rɒŋ/</li>
-
 				<li className="list-none margin-bottom-20">His answer was <strong>obviously</strong> wrong. (Câu trả lời của anh ấy rõ ràng là sai.)</li>
 
 				<li value="2"><strong>Obviously</strong> correct: Rõ ràng là đúng /ˈɒbviəsli kəˈrekt/</li>
-
 				<li className="list-none margin-bottom-20">Her solution was <strong>obviously</strong> correct. (Giải pháp của cô ấy rõ ràng là đúng.)</li>
 
 				<li value="3"><strong>Obviously</strong> the best: Rõ ràng là tốt nhất /ˈɒbviəsli ðə best/</li>
-
 				<li className="list-none margin-bottom-20">This is <strong>obviously</strong> the best option. (Đây rõ ràng là lựa chọn tốt nhất.)</li>
 
 				<li value="4"><strong>Obviously</strong> upset: Rõ ràng là buồn /ˈɒbviəsli ʌpˈset/</li>
-
 				<li className="list-none margin-bottom-20">She was <strong>obviously</strong> upset about the news. (Cô ấy rõ ràng là buồn về tin tức đó.)</li>
 
 				<li value="5"><strong>Obviously</strong> excited: Rõ ràng là hào hứng /ˈɒbviəsli ɪkˈsaɪtɪd/</li>
-
 				<li className="list-none margin-bottom-20">He was <strong>obviously</strong> excited about the trip. (Anh ấy rõ ràng là rất hào hứng về chuyến đi.)</li>
 
 				<li value="6"><strong>Obviously</strong> tired: Rõ ràng là mệt mỏi /ˈɒbviəsli taɪərd/</li>
-
 				<li className="list-none margin-bottom-20">She was <strong>obviously</strong> tired after a long day. (Cô ấy rõ ràng là rất mệt sau một ngày dài.)</li>
 
 				<li value="7"><strong>Obviously</strong> planned: Rõ ràng là đã lên kế hoạch /ˈɒbviəsli plænd/</li>
-
 				<li className="list-none margin-bottom-20">The accident was <strong>obviously</strong> planned. (Vụ tai nạn rõ ràng là đã được lên kế hoạch.)</li>
 
 				<li value="8"><strong>Obviously</strong> careless: Rõ ràng là cẩu thả /ˈɒbviəsli ˈkeərləs/</li>
-				
 				<li className="list-none margin-bottom-20">He was <strong>obviously</strong> careless with his work. (Anh ấy rõ ràng là rất cẩu thả trong công việc.)</li>
 
 				<li value="9"><strong>Obviously</strong> intentional: Rõ ràng là cố ý /ˈɒbviəsli ɪnˈtenʃənl/</li>
-
 				<li className="list-none margin-bottom-20">The damage was <strong>obviously</strong> intentional. (Những hư hại này rõ ràng là cố ý gây ra.)</li>
 
 				<li value="10"><strong>Obviously</strong> mistaken: Rõ ràng là nhầm lẫn /ˈɒbviəsli mɪˈsteɪkən/</li>
-
 				<li className="list-none margin-bottom-20">You are <strong>obviously</strong> mistaken about the facts. (Bạn rõ ràng là đã nhầm lẫn về những sự thật.)</li>
 
 			</ol>

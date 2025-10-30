@@ -149,12 +149,12 @@ section {
 	margin-bottom: 5px;
 }
 
-ul {
+.experience-item ul {
 	padding-left: 20px;
 	margin-top: 10px;
 }
 
-li {
+.experience-item li {
 	margin-bottom: 5px;
 }
 

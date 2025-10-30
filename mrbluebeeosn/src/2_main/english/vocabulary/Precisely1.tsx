@@ -82,11 +82,9 @@ export default function Precisely1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>Precise (adj): Chính xác, đúng đắn, tỉ mỉ /prɪˈsaɪs/</li>
-
           <li className="margin-bottom-20 list-none">He gave precise instructions. (Anh ấy đưa ra những chỉ dẫn chính xác.)</li>
 
           <li>Precision (n): Sự chính xác, sự đúng đắn, độ chính xác /prɪˈsɪʒ.ən/</li>
-
           <li className="list-none">The machine operates with great precision. (Cỗ máy hoạt động với độ chính xác cao.)</li>
 
         </ul>
@@ -104,15 +102,12 @@ export default function Precisely1(): React.JSX.Element {
         <ul className="list-square">
 
           <li><Link to="/vocabulary/accurately-1">Accurately</Link>: Một cách chính xác, xác thực /ˈæk.jərət.li/</li>
-
           <li className="margin-bottom-20 list-none">He reported the facts accurately. (Anh ấy báo cáo sự thật một cách chính xác.)</li>
 
           <li><Link to="/vocabulary/exactly-1">Exactly</Link>: Một cách chính xác, hoàn toàn đúng /ɪɡˈzækt.li/</li>
-
           <li className="margin-bottom-20 list-none">That's exactly what I meant. (Đó chính xác là ý tôi.)</li>
 
           <li>Specifically: Một cách cụ thể, rõ ràng /spəˈsɪf.ɪ.kli/</li>
-
           <li className="list-none">He specified the details <strong>precisely</strong>. (Anh ấy chỉ rõ các chi tiết một cách chính xác.)</li>
 
         </ul>
@@ -130,15 +125,12 @@ export default function Precisely1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>Inaccurately: Một cách không chính xác, sai sót /ɪnˈæk.jərət.li/</li>
-
           <li className="margin-bottom-20 list-none">He reported the figures inaccurately. (Anh ấy báo cáo các số liệu không chính xác.)</li>
 
           <li>Vaguely: Một cách mơ hồ, không rõ ràng /veɪɡ.li/</li>
-
           <li className="margin-bottom-20 list-none">He remembered vaguely. (Anh ấy nhớ một cách mơ hồ.)</li>
 
           <li>Roughly: Một cách xấp xỉ, đại khái /ˈrʌf.li/</li>
-
           <li className="list-none">He estimated the cost roughly. (Anh ấy ước tính chi phí một cách đại khái.)</li>
 
         </ul>
@@ -165,11 +157,9 @@ export default function Precisely1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>The jeweler worked <strong>precisely</strong> on the intricate design.</li>
-
           <li className="margin-bottom-20 list-none">(Người thợ kim hoàn làm việc một cách chính xác trên thiết kế phức tạp.)</li>
 
           <li>The scientist measured the results <strong>precisely</strong>.</li>
-
           <li className="list-none">(Nhà khoa học đo lường kết quả một cách chính xác.)</li>
 
         </ul>
@@ -190,7 +180,6 @@ export default function Precisely1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>The surgeon made the incision <strong>precisely</strong>.</li>
-
           <li className="list-none">(Bác sĩ phẫu thuật rạch một đường chính xác.)</li>
 
         </ul>

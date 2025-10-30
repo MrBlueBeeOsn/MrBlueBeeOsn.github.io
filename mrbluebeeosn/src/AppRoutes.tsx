@@ -88,9 +88,11 @@ const Posts = lazy(() => import('@/data/Posts'));
   const Scrupulously1 = lazy(() => import('@/2_main/english/vocabulary/Scrupulously1'));
   const Scrupulously2 = lazy(() => import('@/2_main/english/vocabulary/Scrupulously2'));
 
-  // 5. Vocabulary - Tính tỉ mỉ
+  // 5. Vocabulary - Tính rõ ràng
   const Obviously1 = lazy(() => import('@/2_main/english/vocabulary/Obviously1'));
   const Obviously2 = lazy(() => import('@/2_main/english/vocabulary/Obviously2'));
+  const Clearly1 = lazy(() => import('@/2_main/english/vocabulary/Clearly1'));
+  const Clearly2 = lazy(() => import('@/2_main/english/vocabulary/Clearly2'));
 
 // 3. Test Tailwind
 	const TestTailwind = lazy(() => import('@/components/TestTailwind'));
@@ -191,6 +193,8 @@ export default function AppRoutes(): React.JSX.Element {
           {/* 5. Vocabulary - Tính rõ ràng */}
           <Route path="/vocabulary/obviously-1" element={<Obviously1 />} />
           <Route path="/vocabulary/obviously-2" element={<Obviously2 />} />
+          <Route path="/vocabulary/clearly-1" element={<Clearly1 />} />
+          <Route path="/vocabulary/clearly-2" element={<Clearly2 />} />
 
           {/* 3. Test Tailwind */}
 					<Route path="/tailwindcss/test-tailwind" element={<TestTailwind />} />

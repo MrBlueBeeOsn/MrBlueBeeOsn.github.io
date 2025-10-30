@@ -82,15 +82,12 @@ export default function (): React.JSX.Element {
         <ul className="list-square">
 
           <li></li>
-
           <li className="margin-bottom-20 list-none"></li>
 
           <li></li>
-
           <li className="margin-bottom-20 list-none"></li>
 
           <li></li>
-
           <li className="list-none"></li>
 
         </ul>
@@ -108,15 +105,12 @@ export default function (): React.JSX.Element {
         <ul className="list-square">
 
           <li></li>
-
           <li className="margin-bottom-20 list-none"></li>
 
           <li></li>
-
           <li className="margin-bottom-20 list-none"></li>
 
           <li></li>
-
           <li className="list-none"></li>
 
         </ul>
@@ -134,15 +128,12 @@ export default function (): React.JSX.Element {
         <ul className="list-square">
 
           <li></li>
-
           <li className="margin-bottom-20 list-none"></li>
 
           <li></li>
-
           <li className="margin-bottom-20 list-none"></li>
 
           <li></li>
-
           <li className="list-none"></li>
 
         </ul>
@@ -169,7 +160,6 @@ export default function (): React.JSX.Element {
         <ul className="list-square">
 
           <li></li>
-
           <li className="list-none"></li>
 
         </ul>
@@ -190,7 +180,6 @@ export default function (): React.JSX.Element {
         <ul className="list-square">
 
           <li></li>
-
           <li className="list-none"></li>
 
         </ul>
@@ -213,14 +202,16 @@ export default function (): React.JSX.Element {
           <ol>
 
             <li></li>
-
+            
             <li className="margin-bottom-20"></li>
 
           </ol>
 
       <div className="margin-bottom-20 padding-top-20 text-border1 padding-10 highlight-238-padding-4-8 bee-container">
 
-        <p className="margin-y-10">Sự khác biệt: Câu thứ hai sử dụng "<strong>ly</strong>" để <span className="highlight-255-padding-0-4">nhấn mạnh</span></p>
+        <p className="margin-y-10">Sự khác biệt: </p>
+
+        {/* <span className="highlight-255-padding-0-4"></span> */}
 
       </div>
 

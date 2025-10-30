@@ -63,43 +63,33 @@ export default function Painstakingly2(): React.JSX.Element {
       <ol className="margin-top-30 padding-left-30">
 
         <li value="1"><strong>Painstakingly</strong> research: Nghiên cứu một cách tỉ mỉ /ˈpeɪnzˌteɪkɪŋli rɪˈsɜːrtʃ/</li>
-
         <li className="list-none margin-bottom-20">The scientists <strong>painstakingly</strong> researched the effects of the new drug. (Các nhà khoa học nghiên cứu một cách tỉ mỉ tác dụng của loại thuốc mới.)</li>
 
         <li value="2"><strong>Painstakingly</strong> analyze: Phân tích một cách tỉ mỉ /ˈpeɪnzˌteɪkɪŋli ˈænəlaɪz/</li>
-
         <li className="list-none margin-bottom-20">The data was <strong>painstakingly</strong> analyzed to find any patterns. (Dữ liệu được phân tích một cách tỉ mỉ để tìm ra bất kỳ mẫu nào.)</li>
 
         <li value="3"><strong>Painstakingly</strong> create: Tạo ra một cách tỉ mỉ /ˈpeɪnzˌteɪkɪŋli kriːˈeɪt/</li>
-
         <li className="list-none margin-bottom-20">The artist <strong>painstakingly</strong> created the intricate sculpture. (Nghệ sĩ tạo ra tác phẩm điêu khắc phức tạp một cách tỉ mỉ.)</li>
 
         <li value="4"><strong>Painstakingly</strong> plan: Lên kế hoạch một cách tỉ mỉ /ˈpeɪnzˌteɪkɪŋli plæn/</li>
-
         <li className="list-none margin-bottom-20">The team <strong>painstakingly</strong> planned the event to ensure its success. (Nhóm lên kế hoạch cho sự kiện một cách tỉ mỉ để đảm bảo thành công.)</li>
 
         <li value="5"><strong>Painstakingly</strong> restore: Phục hồi một cách tỉ mỉ /ˈpeɪnzˌteɪkɪŋli rɪˈstɔːr/</li>
-
         <li className="list-none margin-bottom-20">The antique car was <strong>painstakingly</strong> restored to its original condition. (Chiếc xe cổ được phục hồi về tình trạng ban đầu một cách tỉ mỉ.)</li>
 
         <li value="6"><strong>Painstakingly</strong> document: Ghi chép một cách tỉ mỉ /ˈpeɪnzˌteɪkɪŋli ˈdɒkjʊment/</li>
-
         <li className="list-none margin-bottom-20">The historian <strong>painstakingly</strong> documented the events of the war. (Nhà sử học ghi chép các sự kiện của cuộc chiến một cách tỉ mỉ.)</li>
 
         <li value="7"><strong>Painstakingly</strong> examine: Kiểm tra một cách tỉ mỉ /ˈpeɪnzˌteɪkɪŋli ɪɡˈzæmɪn/</li>
-
         <li className="list-none margin-bottom-20">The detective <strong>painstakingly</strong> examined the crime scene. (Thám tử kiểm tra hiện trường vụ án một cách tỉ mỉ.)</li>
 
         <li value="8"><strong>Painstakingly</strong> review: Xem xét một cách tỉ mỉ /ˈpeɪnzˌteɪkɪŋli rɪˈvjuː/</li>
-        
         <li className="list-none margin-bottom-20">The lawyer <strong>painstakingly</strong> reviewed the contract. (Luật sư xem xét hợp đồng một cách tỉ mỉ.)</li>
 
         <li value="9"><strong>Painstakingly</strong> assemble: Lắp ráp một cách tỉ mỉ /ˈpeɪnzˌteɪkɪŋli əˈsɛmbl/</li>
-
         <li className="list-none margin-bottom-20">The model airplane was <strong>painstakingly</strong> assembled over several weeks. (Mô hình máy bay được lắp ráp một cách tỉ mỉ trong vài tuần.)</li>
 
         <li value="10"><strong>Painstakingly</strong> organize: Tổ chức một cách tỉ mỉ /ˈpeɪnzˌteɪkɪŋli ˈɔːrɡənaɪz/</li>
-
         <li className="list-none margin-bottom-20">The event was <strong>painstakingly</strong> organized to ensure a smooth experience. (Sự kiện được tổ chức một cách tỉ mỉ để đảm bảo trải nghiệm suôn sẻ.)</li>
 
       </ol>
