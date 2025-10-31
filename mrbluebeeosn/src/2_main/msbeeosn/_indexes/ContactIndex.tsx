@@ -51,16 +51,16 @@ export default function ContactIndex(): React.JSX.Element {
 
             <div className="contact-item">
               <FontAwesomeIcon icon={faInstagram} />
-              <a href="https://www.instagram.com/mr.bluebee.ongsiengnang/" className="email-link" target="_blank">
+              <Link to="https://www.instagram.com/mr.bluebee.ongsiengnang/" className="email-link" target="_blank">
                 Instagram
-              </a>
+              </Link>
             </div>
 
             <div className="contact-item">
               <FontAwesomeIcon icon={faFacebook} /> 
-              <a href="https://www.facebook.com/aBookkeepingBee" className="email-link" target="_blank">
+              <Link to="https://www.facebook.com/aBookkeepingBee" className="email-link" target="_blank">
                 Facebook
-              </a>
+              </Link>
             </div>
 
             <div className="contact-item">
@@ -77,23 +77,23 @@ export default function ContactIndex(): React.JSX.Element {
 
             <div className="contact-item">
               <FontAwesomeIcon icon={faLinkedin} />  
-              <a href="https://www.linkedin.com/in/hieukhau/" className="email-link" target="_blank">
+              <Link to="https://www.linkedin.com/in/hieukhau/" className="email-link" target="_blank">
                 LinkedIn
-              </a>
+              </Link>
             </div>
 
             <div className="contact-item">
               <FontAwesomeIcon icon={faGithub} />
-              <a href="https://github.com/MrBlueBeeOsn" className="email-link" target="_blank">
+              <Link to="https://github.com/MrBlueBeeOsn" className="email-link" target="_blank">
                 GitHub
-              </a>
+              </Link>
             </div>
 
             <div className="contact-item">
               <FontAwesomeIcon icon={faWhatsapp} />
-              <a href="https://wa.me/84906920292?text=Hi!%20I'm%20available%20to%20talk%20about%20the%20Accounting%20opportunity." className="email-link" target="_blank">
+              <Link to="https://wa.me/84906920292?text=Hi!%20I'm%20available%20to%20talk%20about%20the%20Accounting%20opportunity." className="email-link" target="_blank">
                 WA Business
-              </a>
+              </Link>
             </div>
 
           </div>

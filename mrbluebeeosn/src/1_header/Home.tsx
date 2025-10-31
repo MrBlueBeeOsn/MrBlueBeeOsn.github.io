@@ -30,11 +30,11 @@ export default function Home(): React.JSX.Element {
           
               ☕ Happy <mark className="highlight-tertiary-padding-2-4">reading</mark> today!&nbsp;
 
-              <a href="https://www.microsoft.com/en-us/edge/features/read-aloud" className="speaker-link" target="_blank" data-title="Play read aloud">
+              <Link to="https://www.microsoft.com/en-us/edge/features/read-aloud" className="speaker-link" target="_blank" data-title="Play read aloud">
 
                 <i className="fa-solid fa-volume-high speaker-icon" style={{fontSize: 14 }}>&nbsp;</i>
 
-              </a>
+              </Link>
               
               <i className="fa-solid fa-book-open-reader" style={{ color: 'var(--secondary-color)', fontSize: 14 }}></i>
         

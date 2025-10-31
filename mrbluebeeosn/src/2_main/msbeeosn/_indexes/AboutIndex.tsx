@@ -58,9 +58,9 @@ export default function AboutIndex(): React.JSX.Element {
           
           <div className="group-card">
             <h3>🐝 
-              <a href="https://chat.whatsapp.com/K5o1yD7XLtMGiOstKEKkEO" target="_blank">
+              <Link to="https://chat.whatsapp.com/K5o1yD7XLtMGiOstKEKkEO" target="_blank">
                 Accounting Bee📘 — Hub (thông báo chính)
-              </a>
+              </Link>
             </h3>
             <p>Thông báo Kế toán chính thức, quy định!</p>
           </div>
@@ -74,9 +74,9 @@ export default function AboutIndex(): React.JSX.Element {
               <div className="subgroup-icon">💬</div>
               <div className="subgroup-content">
                 <h4>
-                  <a href="https://chat.whatsapp.com/Gtzd16qVdJW3IzzlMijwqo" target="_blank">
+                  <Link to="https://chat.whatsapp.com/Gtzd16qVdJW3IzzlMijwqo" target="_blank">
                     Internal Chat — Kênh trao đổi nhanh!
-                  </a>
+                  </Link>
                 </h4>
                 <p>Kênh trao đổi nhanh chóng và tiện lợi!</p>
               </div>
@@ -86,9 +86,9 @@ export default function AboutIndex(): React.JSX.Element {
               <div className="subgroup-icon">🌻</div>
               <div className="subgroup-content">
                 <h4>
-                  <a href="https://chat.whatsapp.com/BzHtZaao2JU1KVBjHWu5cz" target="_blank">
+                  <Link to="https://chat.whatsapp.com/BzHtZaao2JU1KVBjHWu5cz" target="_blank">
                     VN — Kế Toán
-                  </a>
+                  </Link>
                 </h4>
                 <p>Thảo luận Kế toán, hướng dẫn nội bộ!</p>
               </div>
@@ -98,9 +98,9 @@ export default function AboutIndex(): React.JSX.Element {
               <div className="subgroup-icon">🌻</div>
               <div className="subgroup-content">
                 <h4>
-                  <a href="https://chat.whatsapp.com/LFrhkV7pvsM7UOCAYI99y0" target="_blank">
+                  <Link to="https://chat.whatsapp.com/LFrhkV7pvsM7UOCAYI99y0" target="_blank">
                     EN — Accounting
-                  </a>
+                  </Link>
                 </h4>
                 <p>Thảo luận Accounting, hướng dẫn quốc tế!</p>
               </div>
@@ -110,9 +110,9 @@ export default function AboutIndex(): React.JSX.Element {
               <div className="subgroup-icon">📁</div>
               <div className="subgroup-content">
                 <h4>
-                  <a href="https://chat.whatsapp.com/BTVn7TqIG1305LhHXzKcAd" target="_blank">
+                  <Link to="https://chat.whatsapp.com/BTVn7TqIG1305LhHXzKcAd" target="_blank">
                     Files — Nơi lưu tài liệu
-                  </a>
+                  </Link>
                 </h4>
                 <p>Chia sẻ tài liệu!</p>
               </div>
