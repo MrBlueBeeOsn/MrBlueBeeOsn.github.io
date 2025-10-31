@@ -1,1 +1,0 @@
-import{j as e}from"./index-Dz2VioY3.js";import{S as r}from"./SearchComponent-DmRsOcz6.js";import"./SearchIcon-cYXFdtlK.js";function i(){return console.log("🎯 SearchIndex đang render..."),e.jsx(e.Fragment,{children:e.jsx("main",{className:"image image3",children:e.jsx("article",{children:e.jsx("div",{className:"table-search",children:e.jsx(r,{})})})})})}export{i as default};
