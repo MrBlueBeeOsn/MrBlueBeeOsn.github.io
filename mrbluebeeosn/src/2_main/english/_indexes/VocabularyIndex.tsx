@@ -160,7 +160,15 @@ export default function VocabularyIndex(): React.JSX.Element {
 								<sup>&nbsp;2&nbsp;</sup>
 							</Link>
 						</li>
-						
+
+						<li>
+							<Link to="/vocabulary/visibly-1">visibly
+								<sup>&nbsp;1&nbsp;</sup>
+									</Link> 
+									<Link to="/vocabulary/visibly-2">
+								<sup>&nbsp;2&nbsp;</sup>
+							</Link>
+						</li>
 						
 					</ul>
 

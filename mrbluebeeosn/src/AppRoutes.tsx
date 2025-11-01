@@ -95,6 +95,8 @@ const Posts = lazy(() => import('@/data/Posts'));
   const Obviously2 = lazy(() => import('@/2_main/english/vocabulary/Obviously2'));
   const Evidently1 = lazy(() => import('@/2_main/english/vocabulary/Evidently1'));
   const Evidently2 = lazy(() => import('@/2_main/english/vocabulary/Evidently2'));
+  const Visibly1 = lazy(() => import('@/2_main/english/vocabulary/Visibly1'));
+  const Visibly2 = lazy(() => import('@/2_main/english/vocabulary/Visibly2'));
 
 // 3. Test Tailwind
 	const TestTailwind = lazy(() => import('@/components/TestTailwind'));
@@ -199,6 +201,8 @@ export default function AppRoutes(): React.JSX.Element {
           <Route path="/vocabulary/obviously-2" element={<Obviously2 />} />
           <Route path="/vocabulary/evidently-1" element={<Evidently1 />} />
           <Route path="/vocabulary/evidently-2" element={<Evidently2 />} />
+          <Route path="/vocabulary/visibly-1" element={<Visibly1 />} />
+          <Route path="/vocabulary/visibly-2" element={<Visibly2 />} />
 
           {/* 3. Test Tailwind */}
 					<Route path="/tailwindcss/test-tailwind" element={<TestTailwind />} />
