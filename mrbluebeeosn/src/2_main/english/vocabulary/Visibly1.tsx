@@ -38,7 +38,7 @@ export default function Visibly1(): React.JSX.Element {
 
             <li>
               <span className="highlight-255-padding-3-6">
-                /ˈvɪzəbli/ + /<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">Vise̛bly</Link>/
+                /ˈvɪzəbli/ + /<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">vise̛bly</Link>/
                 <sup>&nbsp;⬤•• (3x)</sup>
               </span>
             </li>
