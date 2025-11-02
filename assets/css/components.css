@@ -696,10 +696,11 @@ td:nth-child(1):hover {
 .flex-container {
 	display: flex;
 	flex-direction: row;
+	justify-items: center;
+	align-items: start;
 	gap: 2rem;
 	flex-wrap: wrap;
 	justify-content: left;
-	flex-wrap: wrap;
 }
 
 .flex-container > div:only-child {
