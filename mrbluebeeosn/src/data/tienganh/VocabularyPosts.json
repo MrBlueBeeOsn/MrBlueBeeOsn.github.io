@@ -215,6 +215,24 @@
 			"content": "Visibly /ˈvɪzəbli/ ⬤•• (3x) thường được dùng để mô tả một điều gì đó có thể nhìn thấy được bằng mắt thường, dễ nhận biết hoặc có sự thay đổi rõ rệt.",
 			"slug": "vocabulary/visibly-2",
 			"date": "2024-11-05"
+		},
+		{ 
+			"id": "Actually1",
+			"categoryDisplay": "Tính xác thực",
+			"categorySlug": "vocabulary#tinh-ro-rang-terms",
+			"title": "actually 1",
+			"content": "Từ \"actually\" được sử dụng để nhấn mạnh một sự thật hoặc một thông tin nào đó, thường là để sửa chữa hoặc bổ sung cho một thông tin đã được đưa ra trước đó. Nó cũng có thể được dùng để giới thiệu một thông tin mới hoặc bất ngờ.",
+			"slug": "vocabulary/actually-1",
+			"date": "2024-11-05"
+		},
+		{ 
+			"id": "Actually2",
+			"categoryDisplay": "Tính xác thực",
+			"categorySlug": "vocabulary#tinh-ro-rang-terms",
+			"title": "actually 2",
+			"content": "Actually /ˈækʃuəli/ ⬤•• (3x) trong tiếng Anh có nghĩa là \"thực ra\", \"thực tế là\", \"thật ra\". Từ này thường được dùng để nhấn mạnh một thông tin, một sự thật hoặc một quan điểm nào đó, thường trái ngược hoặc bổ sung cho những gì đã được nói trước đó.",
+			"slug": "vocabulary/actually-2",
+			"date": "2024-11-05"
 		}
 	]
 }

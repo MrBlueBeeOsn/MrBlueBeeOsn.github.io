@@ -174,8 +174,32 @@ export default function VocabularyIndex(): React.JSX.Element {
 
 				</details>
 
-				
+				<details className="sub-box-fix">
 
+					{/* =============================
+							Tính rõ ràng
+					============================= */}
+			
+					<summary id="tinh-xac-thuc-terms"><mark className="highlight-secondary-padding-2-4">Tính xác thực</mark></summary>
+
+					<ul className="list-border1">
+
+						<li>
+							<Link to="/vocabulary/actually-1">actually
+								<sup>&nbsp;1&nbsp;</sup>
+									</Link> 
+									<Link to="/vocabulary/actually-2">
+								<sup>&nbsp;2&nbsp;</sup>
+							</Link>
+						</li>
+
+						
+						
+					</ul>
+
+				</details>
+
+				
 			</div>
 
 		</article>

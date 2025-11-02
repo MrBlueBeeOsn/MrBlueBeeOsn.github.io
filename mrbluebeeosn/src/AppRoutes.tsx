@@ -98,6 +98,10 @@ const Posts = lazy(() => import('@/data/Posts'));
   const Visibly1 = lazy(() => import('@/2_main/english/vocabulary/Visibly1'));
   const Visibly2 = lazy(() => import('@/2_main/english/vocabulary/Visibly2'));
 
+  // 6. Vocabulary - Tính xác thực
+  const Actually1 = lazy(() => import('@/2_main/english/vocabulary/Actually1'));
+  const Actually2 = lazy(() => import('@/2_main/english/vocabulary/Actually2'));
+
 // 3. Test Tailwind
 	const TestTailwind = lazy(() => import('@/components/TestTailwind'));
 
@@ -203,6 +207,10 @@ export default function AppRoutes(): React.JSX.Element {
           <Route path="/vocabulary/evidently-2" element={<Evidently2 />} />
           <Route path="/vocabulary/visibly-1" element={<Visibly1 />} />
           <Route path="/vocabulary/visibly-2" element={<Visibly2 />} />
+
+          {/* 6. Vocabulary - Tính xác thực */}
+          <Route path="/vocabulary/actually-1" element={<Actually1 />} />
+          <Route path="/vocabulary/actually-2" element={<Actually2 />} />
 
           {/* 3. Test Tailwind */}
 					<Route path="/tailwindcss/test-tailwind" element={<TestTailwind />} />
