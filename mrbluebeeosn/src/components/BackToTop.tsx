@@ -1,3 +1,7 @@
+// =============================
+//    Back to Top Button · by GRK
+// =============================
+
 import React from 'react';
 import { useEffect, useRef } from 'react';
 

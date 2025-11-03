@@ -1,3 +1,7 @@
+// =============================
+//    SearchBar · by DPSK
+// =============================
+
 import React, { useState, ChangeEvent, KeyboardEvent } from 'react';
 import SearchIcon from '@/components/SearchIcon';
 

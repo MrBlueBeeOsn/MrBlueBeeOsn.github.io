@@ -1,3 +1,7 @@
+// =============================
+//    SearchIcon · by DPSK
+// =============================
+
 export default function SearchIcon({ 
   size = 24, 
   stroke = "currentColor",  // Màu cho đường viền (stroke)
