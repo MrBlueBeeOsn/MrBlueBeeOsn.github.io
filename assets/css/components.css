@@ -672,6 +672,21 @@ td:nth-child(1):hover {
 	 Topic
 ============================= */
 
+.flex-container {
+	display: flex;
+	flex-direction: row;
+	justify-items: center;
+	align-items: start;
+	gap: 2rem;
+	flex-wrap: wrap;
+	justify-content: space-around;
+}
+
+.flex-container > div:only-child {
+		flex: 0 0 50%;
+		margin-left: -50%; /* đẩy ra giữa bên trái */
+}
+
 .topic-container {
 		background-color: rgba(245, 245, 245, 0.5);
 		border-radius: 2px;
@@ -686,14 +701,14 @@ td:nth-child(1):hover {
 	justify-items: center;
 	align-items: center;
 	flex-wrap: wrap;
-		justify-content: space-evenly;
+	justify-content: space-evenly;
 }
 
 /* =============================
 	 Vocabulary
 ============================= */
 
-.flex-container {
+.vocabulary-container {
 	display: flex;
 	flex-direction: row;
 	justify-items: center;
@@ -703,7 +718,7 @@ td:nth-child(1):hover {
 	justify-content: left;
 }
 
-.flex-container > div:only-child {
+.vocabulary-container > div:only-child {
 		flex: 0 0 50%;
 		margin-left: -50%; /* đẩy ra giữa bên trái */
 }
