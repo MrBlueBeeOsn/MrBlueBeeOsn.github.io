@@ -22,7 +22,7 @@ export default function VocabularyIndex(): React.JSX.Element {
 
 			<h3 className="margin-y-50 text-center" id="vocabulary-terms">Từ vựng Terms</h3>
 
-			<div className="flex-container">
+			<div className="vocabulary-container">
 
 				<details className="sub-box-fix">
 
