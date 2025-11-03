@@ -27,7 +27,7 @@
   position: relative;
   transition: all 0.3s ease;
   width: 100%;
-  height: 7rem;
+  height: 8rem;
   padding: 1rem;
 }
 
@@ -229,7 +229,7 @@ main.image::before {
 	align-items: center;
 	color: rgba(255, 255, 255, 0.5);
 	width: 100%;
-	height: 7rem;
+	height: 8rem;
 	max-width: 100vw;
 	padding: 1.0rem;              /* 10px */
 	margin-top: auto;
