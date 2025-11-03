@@ -51,7 +51,7 @@ body {
 }
 
 /* Header */
-header {
+.portfolio-header {
 	background: linear-gradient(135deg, var(--tertiary-color), var(--primary-color));
 	color: white;
 	padding: 40px 30px;

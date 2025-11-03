@@ -5,7 +5,7 @@ import BeeSwarm from '@/components/BeeSwarm';
 export default function Footer(): React.JSX.Element {
   return (
 
-    <footer>
+    <footer className="site-footer">
       
       <h4 className="font-normal">© 2025 <span className="bee">🐝</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mr. ßee - a Diligent Bee📘</h4>
 

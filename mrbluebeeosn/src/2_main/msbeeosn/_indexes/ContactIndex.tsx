@@ -42,7 +42,7 @@ export default function ContactIndex(): React.JSX.Element {
       
       <div className="container">
 
-        <header className="title">
+        <header className="portfolio-header title">
 
           <h1 className="name">HIEU TRONG KHAU</h1>
           <div className="title">Bookkeeper | Daily Transactions | Invoicing | Reconciliation</div>
