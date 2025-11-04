@@ -13,8 +13,8 @@ interface ThemeContextType {
 const ThemeContext = createContext<ThemeContextType | undefined>(undefined);
 
 export const ThemeProvider: React.FC<{ children: ReactNode }> = ({ children }) => {
-  const [patternColor, setPatternColor] = useState('#D9D9D9'); // default WhatsApp
-  const [backgroundColor, setBackgroundColor] = useState('#F0F0F0'); // default WhatsApp
+  const [patternColor, setPatternColor] = useState('#19D3DA'); // default WhatsApp
+  const [backgroundColor, setBackgroundColor] = useState('#F5F5F5'); // default WhatsApp
 
   return (
     <ThemeContext.Provider
