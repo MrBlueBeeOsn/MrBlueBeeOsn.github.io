@@ -18,15 +18,11 @@ export default function Layout() {
 }
 
 const MainLayout: React.FC = () => {
-  const { themeConfig } = useTheme();
-
-  // Set CSS variable cho root
-  React.useEffect(() => {
-    document.documentElement.style.setProperty('--theme-bg-color', themeConfig.backgroundColor);
-  }, [themeConfig.backgroundColor]);
+  // Define a patternColor variable, you can set its value as needed
+  const patternColor = 'default-pattern-color';
 
   return (<>
-    <PatternBackground />
+    <PatternBackground key={patternColor} />
     <ThemeControls />
 
     <div className="layout">

@@ -1,17 +1,18 @@
 // components/ThemeControls.tsx
 import React from 'react';
 import { useTheme } from '@/components/ThemeContext';
+import type { Theme } from '@/components/ThemeContext'; // Import Theme type
 
 const ThemeControls: React.FC = () => {
-  const { currentTheme, changeTheme} = useTheme();
+  const { currentTheme, changeTheme } = useTheme();
 
-  const themeConfigs = {
-    whatsapp: { color: '#D9D9D9', backgroundColor: '#f0f2f5', name: 'WhatsApp' },
-    telegram: { color: '#1E2A38', backgroundColor: '#18222d', name: 'Telegram' },
-    pink: { color: '#FFB6C1', backgroundColor: '#fff5f7', name: 'Pink' },
-    mint: { color: '#20B2AA', backgroundColor: '#f0fffd', name: 'Mint' },
-    lavender: { color: '#9C27B0', backgroundColor: '#faf5ff', name: 'Lavender' },
-    peach: { color: '#FF9A76', backgroundColor: '#fff5f0', name: 'Peach' }
+  const themeConfigs: Record<Theme, { color: string; name: string }> = {
+    whatsapp: { color: '#D9D9D9', name: 'WhatsApp' },
+    telegram: { color: '#1E2A38', name: 'Telegram' },
+    pink: { color: '#FFB6C1', name: 'Pink' },
+    mint: { color: '#20B2AA', name: 'Mint' },
+    lavender: { color: '#9C27B0', name: 'Lavender' },
+    peach: { color: '#FF9A76', name: 'Peach' }
   };
 
   return (
@@ -19,7 +20,7 @@ const ThemeControls: React.FC = () => {
       position: 'fixed',
       top: '20px',
       right: '20px',
-      backgroundColor: 'rgba(33, 33, 33, 0.8)', // Màu nền phù hợp với background #212121
+      backgroundColor: 'rgba(33, 33, 33, 0.8)',
       padding: '20px',
       borderRadius: '15px',
       boxShadow: '0 4px 25px rgba(0, 0, 0, 0.3)',
@@ -31,28 +32,27 @@ const ThemeControls: React.FC = () => {
         Chọn Màu Pattern
       </h3>
       <div style={{ display: 'grid', gridTemplateColumns: 'repeat(3, 1fr)', gap: '10px' }}>
-        {Object.entries(themeConfigs).map(([theme, config]) => (
+        {(Object.entries(themeConfigs) as [Theme, { color: string; name: string }][]).map(([theme, config]) => (
           <button
             key={theme}
-            onClick={() => changeTheme(theme as any)}
+            onClick={() => changeTheme(theme)} // Sửa thành theme thay vì theme as Theme
             style={{
               width: '60px',
               height: '60px',
               backgroundColor: config.color,
               border: currentTheme === theme ? '3px solid white' : '3px solid transparent',
               borderRadius: '12px',
-              cursor: 'pointer'
+              cursor: 'pointer',
+              fontSize: '0.7rem',
+              color: 'white',
+              fontWeight: 'bold',
+              display: 'flex',
+              alignItems: 'center',
+              justifyContent: 'center'
             }}
             title={config.name}
           >
-            <span style={{ 
-              fontSize: '0.6rem', 
-              color: 'white', 
-              textShadow: '1px 1px 2px rgba(0,0,0,0.8)',
-              fontWeight: 'bold'
-            }}>
-              {config.name}
-            </span>
+            {config.name}
           </button>
         ))}
       </div>
