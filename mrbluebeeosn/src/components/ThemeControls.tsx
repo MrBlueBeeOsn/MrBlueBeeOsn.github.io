@@ -11,32 +11,49 @@ const ThemeControls: React.FC = () => {
     setBackgroundColor,
   } = useTheme();
 
-  const themes: Theme[] = ['whatsapp', 'telegram', 'pink', 'mint', 'lavender', 'peach'];
+  const themes: Theme[] = ['teal', 'xanhduongnhat', 'raisinblack', 'mint', 'secondary', 'tertiary'];
   const names = {
-    whatsapp: 'WhatsApp',
-    telegram: 'Telegram',
-    pink: 'Pink',
+    teal: 'Teal',
+    xanhduongnhat: 'Xanh dương nhạt',
+    raisinblack: 'Raisin Black',
     mint: 'Mint',
-    lavender: 'Lavender',
-    peach: 'Peach',
+    secondary: 'Secondary',
+    tertiary: 'Tertiary',
   };
 
   const patternMap = {
-    whatsapp: '#D9D9D9',
-    telegram: '#1E2A38',
-    pink: '#FFB6C1',
-    mint: '#20B2AA',
-    lavender: '#9C27B0',
-    peach: '#FF9A76',
+    teal: 'rgba(25, 211, 218, 1)',
+    xanhduongnhat: 'rgba(1, 172, 193, 1)',
+    raisinblack: 'rgba(33, 33, 33, 1)',
+    mint: 'rgba(32, 178, 170, 1)',
+    secondary: 'rgba(102, 226, 230, 1)',
+    tertiary: 'rgba(166, 239, 241, 1)',
   };
   const bgMap = {
-    whatsapp: '#F0F0F0',
-    telegram: '#17212B',
-    pink: '#FFE4E1',
-    mint: '#E0FFFF',
-    lavender: '#E6E6FA',
-    peach: '#FFDAB9',
+    teal: 'rgba(25, 211, 218, 0.1)',
+    xanhduongnhat: 'rgba(1, 172, 193, 0.1)',
+    raisinblack: 'rgba(33, 33, 33, 0.1)',
+    mint: 'rgba(32, 178, 170, 0.1)',
+    secondary: 'rgba(102, 226, 230, 0.1)',
+    tertiary: 'rgba(166, 239, 241, 0.1)',
   };
+
+  // const patternMap = {
+  //   whatsapp: '#D9D9D9',
+  //   telegram: '#1E2A38',
+  //   pink: '#FFB6C1',
+  //   mint: '#20B2AA',
+  //   lavender: '#9C27B0',
+  //   peach: '#FF9A76',
+  // };
+  // const bgMap = {
+  //   whatsapp: '#F0F0F0',
+  //   telegram: '#17212B',
+  //   pink: '#FFE4E1',
+  //   mint: '#E0FFFF',
+  //   lavender: '#E6E6FA',
+  //   peach: '#FFDAB9',
+  // };
 
   return (
     <div
