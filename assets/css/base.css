@@ -39,7 +39,8 @@ body, html {
     padding: 0;
     width: 100%;
     overflow-x: hidden;
-    background: var(--background-color);
+    /* background: var(--background-color); */
+    /* transition: background-color 0.5s ease-in-out; */
     font-family: Bellota, sans-serif;
     font-size: 1.8rem; /* 18px; */
 }
