@@ -16,7 +16,7 @@ const Background: React.FC = () => {
       width: '100vw',
       height: '100vh',
       backgroundColor,               // <-- màu thực tế
-      opacity: 0.2,
+      opacity: 1,
       zIndex: -1,
       pointerEvents: 'none' as const,
     }),

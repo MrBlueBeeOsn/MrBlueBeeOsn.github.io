@@ -16,48 +16,39 @@ export default function Layout() {
     <ThemeProvider>
       <MainLayout />
     </ThemeProvider>
-  );
+  );  
 }
 
 const MainLayout: React.FC = () => {
-  const [showPattern, setShowPattern] = useState(false);
+  const [showControls, setShowControls] = useState(false); // Chỉ control ThemeControls
 
-  console.log('🔘 ToggleButton state:', showPattern); // Debug
+  return (
+    <>
+      {/* Pattern LUÔN HIỆN - không phụ thuộc vào showControls */}
+      <Background />
+      <Pattern />
 
-  const handleToggle = () => {
-    console.log('🔘 Toggle button clicked'); // Debug
-    setShowPattern(!showPattern);
-  };
+      {/* Chỉ hiện ThemeControls khi showControls là true */}
+      {showControls && <ThemeControls />}
 
-  return (<>
-    
-    {/* Hiển thị Pattern và Controls chỉ khi showPattern là true */}
-    {showPattern && (
-      <>
-        <Background />
-        <Pattern />
-        <ThemeControls />
-      </>
-    )}
-
-    {/* Nút toggle - THÊM STYLE ĐẢM BẢO HIỂN THỊ */}
-    <div style={{
-      position: 'fixed',
-      bottom: '20px',
-      left: '20px',
-      zIndex: 1002,
-    }}>
-      <ToggleButton isVisible={showPattern} onToggle={handleToggle} />
-    </div>
+      {/* ToggleButton chỉ điều khiển ThemeControls */}
+      {/* <ToggleButton 
+        isVisible={showControls} 
+        onToggle={() => setShowControls(!showControls)}
+        variant="floating" // Hoặc không cần vì mặc định là floating
+      /> */}
 
     <div className="layout">
-      <Header />
+      <Header 
+          showControls={showControls}
+          onToggleControls={() => setShowControls(!showControls)}
+        />
       <main>
         <Outlet />
       </main>
       <BackToTop />
       <Footer />
     </div>
-    
+
   </>);
 };

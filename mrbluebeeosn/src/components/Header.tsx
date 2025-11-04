@@ -3,8 +3,14 @@ import { Link } from "react-router-dom";
 import logo from '/public/assets/images/bee-teal2.png';
 import SearchIcon from '@/components/SearchIcon';
 import Branding from '@/components/Branding';
+import ToggleButton from '@/components/ToggleButton';
 
-export default function Header(): React.JSX.Element {
+interface HeaderProps {
+  showControls: boolean;
+  onToggleControls: () => void;
+}
+
+export default function Header({ showControls, onToggleControls }: HeaderProps): React.JSX.Element {
   return (
 
     <header className="site-header">
@@ -30,6 +36,12 @@ export default function Header(): React.JSX.Element {
             />
 
           </Link>
+
+          <ToggleButton 
+            isVisible={showControls} 
+            onToggle={onToggleControls}
+            variant="header" // Quan trọng: thêm variant="header"
+          />
               
         </div>
 
