@@ -76,17 +76,18 @@ const ThemeControls: React.FC = () => {
     <div
       style={{
         position: 'fixed',
-        top: 20,
+        top: 120,
         right: 20,
-        background: 'rgba(33,33,33,0.9)',
+        background: 'rgba(33,33,33,0.8)',
         padding: 20,
         borderRadius: 15,
         boxShadow: '0 4px 25px rgba(0,0,0,0.4)',
-        backdropFilter: 'blur(12px)',
-        border: '1px solid rgba(255,255,255,0.15)',
+        backdropFilter: 'blur(0px)',
+        border: '5px solid var(--tertiary-color)',
+        // border: '5px solid rgba(255,255,255,0.15)',
         zIndex: 1000,
         width: 220,
-        color: 'white',
+        color: 'var(--primary-color)',
       }}
     >
       {/* Nút đóng */}
@@ -96,7 +97,8 @@ const ThemeControls: React.FC = () => {
           position: 'absolute',
           top: 8,
           right: 8,
-          background: 'rgba(255,255,255,0.1)',
+          background: 'var(--secondary-color)',
+          // background: 'rgba(255,255,255,0.1)',
           border: 'none',
           borderRadius: '50%',
           width: 24,
@@ -111,10 +113,10 @@ const ThemeControls: React.FC = () => {
           transition: 'all 0.2s',
         }}
         onMouseEnter={(e) => {
-          e.currentTarget.style.background = 'rgba(255,255,255,0.2)';
+          e.currentTarget.style.background = 'var(--secondary-color)';
         }}
         onMouseLeave={(e) => {
-          e.currentTarget.style.background = 'rgba(255,255,255,0.1)';
+          e.currentTarget.style.background = 'var(--tertiary-color)';
         }}
       >
         ×
