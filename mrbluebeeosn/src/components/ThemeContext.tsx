@@ -1,7 +1,7 @@
 // components/ThemeContext.tsx
 import React, { createContext, useContext, useState, ReactNode } from 'react';
 
-export type Theme = 'teal' | 'xanhduongnhat' | 'raisinblack' | 'mint' | 'secondary' | 'tertiary';
+export type Theme = 'teal' | 'blue' | 'charcoal' | 'secondary' | 'tertiary' | 'raisinblack';
 
 interface ThemeContextType {
   patternColor: string;
@@ -14,8 +14,8 @@ const ThemeContext = createContext<ThemeContextType | undefined>(undefined);
 
 export const ThemeProvider: React.FC<{ children: ReactNode }> = ({ children }) => {
   // Đặt màu mặc định là WhatsApp
-  const [patternColor, setPatternColor] = useState('rgba(1, 172, 193, 1)');     // Pattern mặc định
-  const [backgroundColor, setBackgroundColor] = useState('rgba(33, 33, 33, 0.1)'); // Background mặc định
+  const [patternColor, setPatternColor] = useState('rgba(102, 226, 230, 1)');     // Pattern mặc định
+  const [backgroundColor, setBackgroundColor] = useState('rgba(33, 33, 33, 1)'); // Background mặc định
 
   return (
     <ThemeContext.Provider

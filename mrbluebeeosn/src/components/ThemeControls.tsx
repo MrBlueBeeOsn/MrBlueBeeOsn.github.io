@@ -1,5 +1,5 @@
 // components/ThemeControls.tsx
-import React from 'react';
+import React, { useState } from 'react';
 import { useTheme } from '@/components/ThemeContext';
 import type { Theme } from '@/components/ThemeContext';
 
@@ -11,49 +11,56 @@ const ThemeControls: React.FC = () => {
     setBackgroundColor,
   } = useTheme();
 
-  const themes: Theme[] = ['teal', 'xanhduongnhat', 'raisinblack', 'mint', 'secondary', 'tertiary'];
+  const [isVisible, setIsVisible] = useState(true);
+
+  const themes: Theme[] = ['teal', 'blue', 'charcoal', 'secondary', 'tertiary', 'raisinblack'];
   const names = {
     teal: 'Teal',
-    xanhduongnhat: 'Xanh dương nhạt',
-    raisinblack: 'Raisin Black',
-    mint: 'Mint',
+    blue: 'Blue Dark',
+    charcoal: 'Charcoal Blue',
     secondary: 'Secondary',
     tertiary: 'Tertiary',
+    raisinblack: 'Raisin Black',
   };
 
   const patternMap = {
     teal: 'rgba(25, 211, 218, 1)',
-    xanhduongnhat: 'rgba(1, 172, 193, 1)',
-    raisinblack: 'rgba(33, 33, 33, 1)',
-    mint: 'rgba(32, 178, 170, 1)',
+    blue: 'rgba(1, 172, 193, 1)',
+    charcoal: 'rgba(23, 33, 43, 0.1)',
     secondary: 'rgba(102, 226, 230, 1)',
     tertiary: 'rgba(166, 239, 241, 1)',
+    raisinblack: 'rgba(33, 33, 33, 1)',
   };
   const bgMap = {
     teal: 'rgba(25, 211, 218, 0.1)',
-    xanhduongnhat: 'rgba(1, 172, 193, 0.1)',
-    raisinblack: 'rgba(33, 33, 33, 0.1)',
-    mint: 'rgba(32, 178, 170, 0.1)',
+    blue: 'rgba(1, 172, 193, 0.1)',
+    charcoal: 'rgba(23, 33, 43, 1)',
     secondary: 'rgba(102, 226, 230, 0.1)',
     tertiary: 'rgba(166, 239, 241, 0.1)',
+    raisinblack: 'rgba(33, 33, 33, 1)',
   };
 
   // const patternMap = {
-  //   whatsapp: '#D9D9D9',
-  //   telegram: '#1E2A38',
-  //   pink: '#FFB6C1',
-  //   mint: '#20B2AA',
-  //   lavender: '#9C27B0',
-  //   peach: '#FF9A76',
-  // };
-  // const bgMap = {
-  //   whatsapp: '#F0F0F0',
-  //   telegram: '#17212B',
-  //   pink: '#FFE4E1',
-  //   mint: '#E0FFFF',
-  //   lavender: '#E6E6FA',
-  //   peach: '#FFDAB9',
-  // };
+    //   whatsapp: '#D9D9D9',
+    //   telegram: '#1E2A38',
+    //   pink: '#FFB6C1',
+    //   mint: '#20B2AA',
+    //   lavender: '#9C27B0',
+    //   peach: '#FF9A76',
+    // };
+    // const bgMap = {
+    //   whatsapp: '#F0F0F0',
+    //   telegram: '#17212B',
+    //   pink: '#FFE4E1',
+    //   mint: '#E0FFFF',
+    //   lavender: '#E6E6FA',
+    //   peach: '#FFDAB9',
+    // };
+
+  // Nếu không hiển thị, trả về null
+  if (!isVisible) {
+    return null;
+  }
 
   return (
     <div
@@ -72,6 +79,37 @@ const ThemeControls: React.FC = () => {
         color: 'white',
       }}
     >
+      {/* Nút đóng */}
+      <button
+        onClick={() => setIsVisible(false)}
+        style={{
+          position: 'absolute',
+          top: 8,
+          right: 8,
+          background: 'rgba(255,255,255,0.1)',
+          border: 'none',
+          borderRadius: '50%',
+          width: 24,
+          height: 24,
+          color: 'white',
+          cursor: 'pointer',
+          display: 'flex',
+          alignItems: 'center',
+          justifyContent: 'center',
+          fontSize: '16px',
+          fontWeight: 'bold',
+          transition: 'all 0.2s',
+        }}
+        onMouseEnter={(e) => {
+          e.currentTarget.style.background = 'rgba(255,255,255,0.2)';
+        }}
+        onMouseLeave={(e) => {
+          e.currentTarget.style.background = 'rgba(255,255,255,0.1)';
+        }}
+      >
+        ×
+      </button>
+
       {/* PATTERN ROW */}
       <div style={{ marginBottom: 20 }}>
         <h3 style={{ margin: '0 0 10px', fontSize: '0.95rem', textAlign: 'center' }}>
@@ -82,7 +120,7 @@ const ThemeControls: React.FC = () => {
             <button
               key={`p-${t}`}
               onClick={() => {
-                console.log('SET PATTERN:', patternMap[t]);   // <-- LOG
+                console.log('SET PATTERN:', patternMap[t]);
                 setPatternColor(patternMap[t]);
               }}
               style={{
@@ -117,7 +155,7 @@ const ThemeControls: React.FC = () => {
             <button
               key={`b-${t}`}
               onClick={() => {
-                console.log('SET BACKGROUND:', bgMap[t]);     // <-- LOG
+                console.log('SET BACKGROUND:', bgMap[t]);
                 setBackgroundColor(bgMap[t]);
               }}
               style={{
