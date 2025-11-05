@@ -5,7 +5,7 @@ import Header from '@/components/Header';
 import Footer from '@/components/Footer';
 import { Outlet } from 'react-router-dom';
 import BackToTop from '@/components/BackToTop';
-import { ThemeProvider } from '@/components/ThemeContext';
+import { ThemeProvider, useTheme } from '@/components/ThemeContext';
 import Background from '@/components/Background';
 import BackgroundMain from '@/components/BackgroundMain';
 import Pattern from '@/components/Pattern';
@@ -22,11 +22,11 @@ export default function Layout() {
 
 const MainLayout: React.FC = () => {
   const [showControls, setShowControls] = useState(false); // Chỉ control ThemeControls
+  const { backgroundMainColor } = useTheme();
 
   return (
     <>
       {/* Pattern LUÔN HIỆN - không phụ thuộc vào showControls */}
-      <BackgroundMain />
       <Background />
       <Pattern />
 
@@ -45,7 +45,7 @@ const MainLayout: React.FC = () => {
           showControls={showControls}
           onToggleControls={() => setShowControls(!showControls)}
         />
-      <main>
+      <main style={{ backgroundColor: backgroundMainColor }}>
         <Outlet />
       </main>
       <BackToTop />
