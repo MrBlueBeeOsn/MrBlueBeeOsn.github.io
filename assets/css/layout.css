@@ -29,6 +29,7 @@
   width: 100%;
   height: 8rem;
   padding: 1rem;
+  margin-bottom: 2.0rem;
 }
 
 /* Hiệu ứng hover */
@@ -141,6 +142,7 @@ main {
   flex-direction: column;
 	border-radius: 3%;
 	transition: all 0.3s ease;
+  /* margin: 2.0rem auto; */
 }
 
 main:hover {
@@ -173,7 +175,6 @@ main img {
 main.image {
     position: relative;
     width: 700px; /* Chiều rộng cố định, tối ưu cho blog */
-    margin: 2.0rem auto;  /* cách lề trên dưới 20px, căn giữa ngang */
     padding: 2.0rem 2.0rem 5.0rem;
     background-color: var(--background-color-main);
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
@@ -190,7 +191,8 @@ main.image::before {
     left: 0;
     width: 100%;
     height: 100%;
-    background: rgba(255, 255, 255, 1); /* Lớp trắng bán trong suốt */
+    /* Lớp trắng bán trong suốt */
+    background: var(--background-color-main-before); 
     background-size: cover;
     background-position: top right;
     background-repeat: no-repeat;
@@ -241,6 +243,7 @@ main.image::before {
   position: relative;
 	transform-origin: bottom center;
   transition: all 0.3s ease;
+  margin-top: 2.0rem;
 }
 
 /* Hiệu ứng hover */
