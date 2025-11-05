@@ -8,6 +8,8 @@ interface ThemeContextType {
   setPatternColor: (color: string) => void;
   backgroundColor: string;
   setBackgroundColor: (color: string) => void;
+  backgroundMainColor: string;
+  setBackgroundMainColor: (color: string) => void;
 }
 
 const ThemeContext = createContext<ThemeContextType | undefined>(undefined);
@@ -16,6 +18,7 @@ export const ThemeProvider: React.FC<{ children: ReactNode }> = ({ children }) =
   // Đặt màu mặc định là WhatsApp
   const [patternColor, setPatternColor] = useState('rgba(102, 226, 230, 1)');     // Pattern mặc định
   const [backgroundColor, setBackgroundColor] = useState('rgba(33, 33, 33, 1)'); // Background mặc định
+  const [backgroundMainColor, setBackgroundMainColor] = useState('rgba(33, 33, 33, 1)'); // Background mặc định
 
   return (
     <ThemeContext.Provider
@@ -24,6 +27,8 @@ export const ThemeProvider: React.FC<{ children: ReactNode }> = ({ children }) =
         setPatternColor,
         backgroundColor,
         setBackgroundColor,
+        backgroundMainColor,
+        setBackgroundMainColor,
       }}
     >
       {children}

@@ -7,6 +7,7 @@ import { Outlet } from 'react-router-dom';
 import BackToTop from '@/components/BackToTop';
 import { ThemeProvider } from '@/components/ThemeContext';
 import Background from '@/components/Background';
+import BackgroundMain from '@/components/BackgroundMain';
 import Pattern from '@/components/Pattern';
 import ThemeControls from '@/components/ThemeControls';
 import ToggleButton from '@/components/ToggleButton';
@@ -25,6 +26,7 @@ const MainLayout: React.FC = () => {
   return (
     <>
       {/* Pattern LUÔN HIỆN - không phụ thuộc vào showControls */}
+      <BackgroundMain />
       <Background />
       <Pattern />
 
