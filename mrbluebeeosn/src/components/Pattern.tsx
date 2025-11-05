@@ -68,7 +68,7 @@ const Pattern: React.FC = () => {
       backgroundAttachment: 'fixed',
       backgroundSize: '200px 200px',
       opacity: 0.4,
-      zIndex: 1,
+      zIndex: -1,
       pointerEvents: 'none' as const,
       // Thêm key để ép re-render background
       backgroundColor: 'transparent',
