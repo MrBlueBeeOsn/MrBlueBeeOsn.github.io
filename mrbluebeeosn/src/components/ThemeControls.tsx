@@ -42,12 +42,12 @@ const ThemeControls: React.FC = () => {
       raisinblack: 'rgba(33, 33, 33, 1)',
     };
     const bgMainMap = {
-      teal: 'rgba(245, 245, 245, 1)',
-      blue: 'rgba(1, 172, 193, 1)',
-      charcoal: 'rgba(23, 33, 43, 1)',
-      secondary: 'rgba(102, 226, 230, 1)',
-      tertiary: 'rgba(166, 239, 241, 1)',
-      raisinblack: 'rgba(33, 33, 33, 1)',
+      teal: 'rgba(25, 211, 218, 0.1)',
+      blue: 'rgba(1, 172, 193, 0.1)',
+      charcoal: 'rgba(23, 33, 43, 0.1)',
+      secondary: 'rgba(102, 226, 230, 0.1)',
+      tertiary: 'rgba(166, 239, 241, 0.1)',
+      raisinblack: 'rgba(245, 245, 245, 1)',
     };
   
     // const patternMap = {
