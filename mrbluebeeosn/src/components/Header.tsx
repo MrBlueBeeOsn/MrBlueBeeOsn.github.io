@@ -1,5 +1,7 @@
 import React from 'react';
+import { useState } from "react";
 import { Link } from "react-router-dom";
+import { NavLink } from 'react-router-dom';
 import logo from '/public/assets/images/bee-teal2.png';
 import SearchIcon from '@/components/SearchIcon';
 import Branding from '@/components/Branding';
@@ -11,6 +13,7 @@ interface HeaderProps {
 }
 
 export default function Header({ showControls, onToggleControls }: HeaderProps): React.JSX.Element {
+  const [selected, setSelected] = useState(false);
   return (
 
     <header className="site-header">
@@ -18,16 +21,31 @@ export default function Header({ showControls, onToggleControls }: HeaderProps):
       <nav>
 
         <div className="branding">
-          <Link to="/"><Branding /></Link>
+          <NavLink to="/"><Branding /></NavLink>
           <span className="logo-text">👋&nbsp;Hello!&nbsp;</span>
         </div>
 
         <div className="nav-bar">
 
-          <Link to="/bookkeeping" className="nav-link">🅱️ookkeeping</Link>
-          <Link to="/english" className="nav-link">🅴nglish</Link>
+          <NavLink to="/bookkeeping"
+            className={`link-rounded ${selected ? 'selected' : ''}`}
+            style={({ isActive }) => ({
+              background: isActive ? 'var(--accent-color-50)' : '',
+            })}
+          >
+            🅱️ookkeeping
+          </NavLink>
 
-          <Link to="/search" className="nav-link">
+          <NavLink to="/english"
+            className={`link-rounded ${selected ? 'selected' : ''}`}
+            style={({ isActive }) => ({
+              background: isActive ? 'var(--accent-color-50)' : '',
+            })}
+          >
+            🅴nglish
+          </NavLink>
+
+          <NavLink to="/search" className="nav-link">
 
             <SearchIcon 
               size={24} 
@@ -35,7 +53,7 @@ export default function Header({ showControls, onToggleControls }: HeaderProps):
               stroke="var(--tertiary-color)"
             />
 
-          </Link>
+          </NavLink>
 
           <ToggleButton 
             isVisible={showControls} 
