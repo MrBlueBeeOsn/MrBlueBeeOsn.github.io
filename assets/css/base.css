@@ -60,7 +60,7 @@ a:active {
 }
 
 a:link {
-    color: var(--accent-color); /*#8756A9;*/
+    color: var(--accent-color);
     background-color: transparent;
     text-decoration: none;
 }
@@ -71,7 +71,7 @@ a:hover {
 }
 
 a:visited {
-    color: var(--accent-color);
+    color: var(--primary-color);
     background-color: transparent;
     text-decoration: none;
 }
@@ -112,17 +112,17 @@ a.speaker-link:hover .fa-volume-high {
 
 /* trạng thái hover/active/selected */
 .link-rounded:hover {
-  background: var(--tertiary-color);
+  background: var(--accent-color-50);
 }
 
 .link-rounded.selected {
-  background: var(--tertiary-color);
+  background: var(--accent-color-50);
 }
 
 /* nếu muốn hiệu ứng khi bấm */
-.link-rounded:active {
-  transform: translateY(1px);
-}
+/* .link-rounded:active {
+  transform: translateY(5px);
+} */
 
 /* =============================
    speaker

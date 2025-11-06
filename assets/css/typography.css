@@ -24,12 +24,13 @@
 
     font-size: 62.5%; /* 1rem = 10px */
 
-    --primary-color: rgba(25, 211, 218, 1); /* #19D3DA - Màu màu chính - Teal */
-    --primary-color-50: rgba(25, 211, 218, 0.5); /* #19D3DA - Màu màu chính - Teal */
+    --primary-color: rgba(1, 172, 193, 1); /* #20B2AA - Màu màu chính - Teal */
+    /* --primary-color: rgba(25, 211, 218, 1); #19D3DA - Màu màu chính - Teal */
+    --primary-color-50: rgba(1, 172, 193, 0.5); /* #19D3DA - Màu màu chính - Teal */
     --secondary-color: rgba(102, 226, 230, 0.5); /* #66E2E6 - Màu màu phụ - Màu xanh lam nhạt hơn */
     --tertiary-color: rgba(166, 239, 241, 0.5); /* #A6EFF1 - Màu cấp ba - Màu xanh lam rất nhạt, dùng để bổ sung hoặc nhấn nhẹ */
-    --accent-color:	rgba(1, 172, 193, 1); /* #01ACC1 - Màu nhấn - Xanh dương nhạt, thường dùng cho nút, link */
-    --accent-color-50:	rgba(1, 172, 193, 0.5); /* #01ACC1 - Màu nhấn - Xanh dương nhạt, thường dùng cho nút, link */
+    --accent-color:	rgba(32, 178, 170, 1); /* #01ACC1 - Màu nhấn - Xanh dương nhạt, thường dùng cho nút, link */
+    --accent-color-50:	rgba(32, 178, 170, 0.5); /* #01ACC1 - Màu nhấn - Xanh dương nhạt, thường dùng cho nút, link */
     --text-color: rgba(0, 0, 0, 1); /* #000 Màu chữ chính */
     --border-color: rgba(102, 226, 230, 0.3); /* #66E2E6 - Màu viền - Màu xanh lam nhạt hơn */
     --logo-text-color: rgba(33, 33, 33, 0.7); /* #212121 - Màu nền logo text */
