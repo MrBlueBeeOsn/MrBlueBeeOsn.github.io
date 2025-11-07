@@ -626,6 +626,28 @@
       "date": "2024-11-05",
       "views": 0,
       "likes": 0
+    },
+    {
+      "id": "Truly1",
+      "categoryDisplay": "Tính xác thực",
+      "categorySlug": "vocabulary#tinh-ro-rang-terms",
+      "title": "truly 1",
+      "content": "Từ \"truly\" được dùng để nhấn mạnh sự thật, tính xác thực của một thông tin, cảm xúc hoặc tình huống. Nó thể hiện sự chân thành, thẳng thắn và không giả dối.",
+      "slug": "vocabulary/truly-1",
+      "date": "2024-11-05",
+      "views": 0,
+      "likes": 0
+    },
+    {
+      "id": "Truly2",
+      "categoryDisplay": "Tính xác thực",
+      "categorySlug": "vocabulary#tinh-ro-rang-terms",
+      "title": "truly 2",
+      "content": "Truly /ˈtruːli/ ⬤• (2x) trong tiếng Anh có nghĩa là \"thật sự\", \"thực tế\", thường được dùng để nhấn mạnh tính xác thực, chân thật của một điều gì đó.",
+      "slug": "vocabulary/truly-2",
+      "date": "2024-11-05",
+      "views": 0,
+      "likes": 0
     }
   ]
 }

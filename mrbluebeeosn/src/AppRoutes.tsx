@@ -101,6 +101,8 @@ const Posts = lazy(() => import('@/data/Posts'));
   // 6. Vocabulary - Tính xác thực
   const Actually1 = lazy(() => import('@/2_main/english/vocabulary/Actually1'));
   const Actually2 = lazy(() => import('@/2_main/english/vocabulary/Actually2'));
+  const Truly1 = lazy(() => import('@/2_main/english/vocabulary/Truly1'));
+  const Truly2 = lazy(() => import('@/2_main/english/vocabulary/Truly2'));
   const Really1 = lazy(() => import('@/2_main/english/vocabulary/Really1'));
   const Really2 = lazy(() => import('@/2_main/english/vocabulary/Really2'));
 
@@ -213,6 +215,8 @@ export default function AppRoutes(): React.JSX.Element {
           {/* 6. Vocabulary - Tính xác thực */}
           <Route path="/vocabulary/actually-1" element={<Actually1 />} />
           <Route path="/vocabulary/actually-2" element={<Actually2 />} />
+          <Route path="/vocabulary/truly-1" element={<Truly1 />} />
+          <Route path="/vocabulary/truly-2" element={<Truly2 />} />
           <Route path="/vocabulary/really-1" element={<Really1 />} />
           <Route path="/vocabulary/really-2" element={<Really2 />} />
 

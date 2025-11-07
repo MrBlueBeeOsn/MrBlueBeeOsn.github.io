@@ -194,6 +194,15 @@ export default function VocabularyIndex(): React.JSX.Element {
 						</li>
 
 						<li>
+							<Link to="/vocabulary/truly-1">truly
+								<sup>&nbsp;1&nbsp;</sup>
+									</Link> 
+									<Link to="/vocabulary/truly-2">
+								<sup>&nbsp;2&nbsp;</sup>
+							</Link>
+						</li>
+
+						<li>
 							<Link to="/vocabulary/actually-1">actually
 								<sup>&nbsp;1&nbsp;</sup>
 									</Link> 
