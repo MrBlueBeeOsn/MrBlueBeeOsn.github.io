@@ -108,6 +108,10 @@ const Posts = lazy(() => import('@/data/Posts'));
   const Genuinely1 = lazy(() => import('@/2_main/english/vocabulary/Genuinely1'));
   const Genuinely2 = lazy(() => import('@/2_main/english/vocabulary/Genuinely2'));
 
+  // 6. Vocabulary - Tính chắc chắn
+  const Absolutely1 = lazy(() => import('@/2_main/english/vocabulary/Absolutely1'));
+  const Absolutely2 = lazy(() => import('@/2_main/english/vocabulary/Absolutely2'));
+
 // 3. Test Tailwind
 	const TestTailwind = lazy(() => import('@/components/TestTailwind'));
 
@@ -223,6 +227,10 @@ export default function AppRoutes(): React.JSX.Element {
           <Route path="/vocabulary/really-2" element={<Really2 />} />
           <Route path="/vocabulary/genuinely-1" element={<Genuinely1 />} />
           <Route path="/vocabulary/genuinely-2" element={<Genuinely2 />} />
+
+          {/* 7. Vocabulary - Tính chắc chắn */}
+          <Route path="/vocabulary/absolutely-1" element={<Absolutely1 />} />
+          <Route path="/vocabulary/absolutely-2" element={<Absolutely2 />} />
 
           {/* 3. Test Tailwind */}
 					<Route path="/tailwindcss/test-tailwind" element={<TestTailwind />} />
