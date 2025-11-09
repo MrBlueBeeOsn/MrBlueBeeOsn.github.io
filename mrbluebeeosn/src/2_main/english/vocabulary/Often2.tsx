@@ -94,7 +94,7 @@ export default function Often2(): React.JSX.Element {
 
       </ol>
 
-      <p>** </p>
+      {/* <p>** </p> */}
 
       {/* =============================
             Lưu ý:
