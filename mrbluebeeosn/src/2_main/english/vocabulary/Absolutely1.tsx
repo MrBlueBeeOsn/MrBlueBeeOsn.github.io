@@ -26,7 +26,7 @@ export default function Absolutely1(): React.JSX.Element {
 
       {/* This is the content of Vocabulary Term. */}
       
-      <p>Tuyệt vời! </p>
+      <p>Tuyệt vời! Chúng ta cùng đi sâu vào từ "<strong>absolutely</strong>" nhé.</p>
 
       <div className="text-border1 padding-top-20 padding-bottom-10 highlight-238-padding-4-8 bee-container">
 

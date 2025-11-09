@@ -30,6 +30,31 @@ export default function VocabularyIndex(): React.JSX.Element {
 
 				<details className="sub-box-fix">
 			
+					<summary id="thoi-gian-lap-lai-terms"><mark className="highlight-secondary-padding-2-4">Thời gian lặp lại</mark></summary>
+
+					<ul className="list-border1">
+						
+						<li>
+							<Link to="/vocabulary/often-1">often
+								<sup>&nbsp;1&nbsp;</sup>
+									</Link> 
+									<Link to="/vocabulary/often-2">
+								<sup>&nbsp;2&nbsp;</sup>
+							</Link>
+						</li>
+
+					
+						
+					</ul>
+
+				</details>
+
+				{/* =============================
+							Tính chính xác
+				============================= */}
+
+				<details className="sub-box-fix">
+			
 					<summary id="tinh-chinh-xac-terms"><mark className="highlight-secondary-padding-2-4">Tính chính xác</mark></summary>
 
 					<ul className="list-border1">
@@ -235,6 +260,24 @@ export default function VocabularyIndex(): React.JSX.Element {
 					<ul className="list-border1">
 
 						<li>
+							<Link to="/vocabulary/certainly-1">certainly
+								<sup>&nbsp;1&nbsp;</sup>
+									</Link> 
+									<Link to="/vocabulary/certainly-2">
+								<sup>&nbsp;2&nbsp;</sup>
+							</Link>
+						</li>
+
+						<li>
+							<Link to="/vocabulary/definitely-1">definitely
+								<sup>&nbsp;1&nbsp;</sup>
+									</Link> 
+									<Link to="/vocabulary/definitely-2">
+								<sup>&nbsp;2&nbsp;</sup>
+							</Link>
+						</li>
+
+						<li>
 							<Link to="/vocabulary/absolutely-1">absolutely
 								<sup>&nbsp;1&nbsp;</sup>
 									</Link> 
@@ -243,9 +286,16 @@ export default function VocabularyIndex(): React.JSX.Element {
 							</Link>
 						</li>
 
+						<li>
+							<Link to="/vocabulary/surely-1">surely
+								<sup>&nbsp;1&nbsp;</sup>
+									</Link> 
+									<Link to="/vocabulary/surely-2">
+								<sup>&nbsp;2&nbsp;</sup>
+							</Link>
+						</li>
 
 					</ul>
-
 					
 				</details>
 				

@@ -5,9 +5,9 @@ import EyeIcon from '@/components/EyeIcon';
 import ViewCounter from '@/components/ViewCounter';
 import LikeButton from '@/components/LikeButton';
 
-export default function (): React.JSX.Element {
+export default function Often1(): React.JSX.Element {
 
-  const postId = "";
+  const postId = "Often1";
 
   return (<>
 
@@ -17,35 +17,35 @@ export default function (): React.JSX.Element {
     
       <h4><HashLink smooth to="/vocabulary#thoi-gian-lap-lai-terms"><mark className="highlight-tertiary-padding-4-8">Thời gian lặp lại</mark></HashLink></h4>
       
-      <h1 className="margin-y-50 text-center">ly
-        <sup><Link to="/vocabulary/ly-1">&nbsp;1&nbsp;</Link>
+      <h1 className="margin-y-50 text-center">often
+        <sup><Link to="/vocabulary/often-1">&nbsp;1&nbsp;</Link>
         </sup>
-        <sup><Link to="/vocabulary/ly-2">&nbsp;2&nbsp;</Link>
+        <sup><Link to="/vocabulary/often-2">&nbsp;2&nbsp;</Link>
         </sup>
       </h1>
 
       {/* This is the content of Vocabulary Term. */}
       
-      <p>Tuyệt vời! </p>
+      <p>Tuyệt vời! Chúng ta cùng đi sâu vào phân tích từ "<strong>often</strong>" và các thành ngữ liên quan nhé.</p>
 
       <div className="text-border1 padding-top-20 padding-bottom-10 highlight-238-padding-4-8 bee-container">
 
         <div>
 
-          <p className="margin-bottom-20"><strong>ly</strong></p>
+          <p className="margin-bottom-20"><strong>Often</strong></p>
 
           <ul className="list-square padding-left-40">
 
             <li>
               <span className="highlight-255-padding-3-6">
-                /i/ + /<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">ly</Link>/
-                <sup>&nbsp;⬤</sup>
+                /ˈɒf.ən/ + /<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">ofte̛n</Link>/
+                <sup>&nbsp;⬤• (2x)</sup>
               </span>
             </li>
 
             <li>Trạng từ (<Link to="/grammar/what-is-an-adverb?">adverb</Link>)</li>
 
-            <li>Một cách </li>
+            <li>Thường xuyên</li>
 
           </ul>
 
@@ -57,15 +57,15 @@ export default function (): React.JSX.Element {
 
       </div>
 
-      <p className="margin-top-30 text-indent-whole">Từ "<strong>ly</strong>" </p>
+      <p className="margin-top-30 text-indent-whole">Chỉ sự lặp đi lặp lại của một hành động hoặc sự kiện trong một khoảng thời gian.</p>
 
       <p className="text-indent-whole">Ví dụ:</p>
 
         <ul className="list-square">
 
-          <li></li>
+          <li>I <strong>often</strong> go to the gym. (Tôi thường đi tập gym.)</li>
 
-          <li></li>
+          <li>She <strong>often</strong> forgets her keys. (Cô ấy thường quên chìa khóa.)</li>
 
         </ul>
 
@@ -81,14 +81,7 @@ export default function (): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li></li>
-          <li className="margin-bottom-20 list-none"></li>
-
-          <li></li>
-          <li className="margin-bottom-20 list-none"></li>
-
-          <li></li>
-          <li className="list-none"></li>
+          <li className="list-none">Không có gia đình từ trực tiếp cho "<strong>often</strong>" vì nó là một từ đơn lẻ.</li>
 
         </ul>
 
@@ -104,14 +97,11 @@ export default function (): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li></li>
-          <li className="margin-bottom-20 list-none"></li>
+          <li>Frequently: (adv) /ˈfriː.kwənt.li/ - Thường xuyên</li>
+          <li className="margin-bottom-20 list-none">She frequently visits her grandparents. (Cô ấy thường xuyên thăm ông bà.)</li>
 
-          <li></li>
-          <li className="margin-bottom-20 list-none"></li>
-
-          <li></li>
-          <li className="list-none"></li>
+          <li>Regularly: (adv) /ˈreg.jʊ.lər.li/ - Đều đặn</li>
+          <li className="list-none">They exercise regularly. (Họ tập thể dục đều đặn.)</li>
 
         </ul>
 
@@ -129,14 +119,11 @@ export default function (): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li></li>
-          <li className="margin-bottom-20 list-none"></li>
+          <li>Rarely: (adv) /ˈreər.li/ - Hiếm khi</li>
+          <li className="margin-bottom-20 list-none">I rarely eat fast food. (Tôi hiếm khi ăn đồ ăn nhanh.)</li>
 
-          <li></li>
-          <li className="margin-bottom-20 list-none"></li>
-
-          <li></li>
-          <li className="list-none"></li>
+          <li>Never: (adv) /ˈnev.ər/ - Không bao giờ</li>
+          <li className="list-none">She never lies. (Cô ấy không bao giờ nói dối.)</li>
 
         </ul>
       
@@ -157,12 +144,12 @@ export default function (): React.JSX.Element {
         <strong>&nbsp;với hình ảnh</strong>:
       </p>
 
-      <p className="text-indent-whole"></p>
+      <p className="text-indent-whole">Hình dung một đồng hồ để biểu thị sự lặp đi lặp lại của một hành động.</p>
 
         <ul className="list-square">
 
-          <li></li>
-          <li className="list-none"></li>
+          <li>Every time the clock strikes twelve, I <strong>often</strong> take a break from work.</li>
+          <li className="list-none">(Mỗi khi đồng hồ điểm 12 giờ, tôi thường nghỉ giải lao.)</li>
 
         </ul>
 
@@ -177,12 +164,12 @@ export default function (): React.JSX.Element {
         <strong>&nbsp;ví dụ</strong>:
       </p>
 
-      <p className="text-indent-whole"></p>
+      <p className="text-indent-whole">Tạo nhiều câu với "<strong>often</strong>" trong các ngữ cảnh khác nhau, liên quan đến các thói quen, hoạt động hàng ngày.</p>
 
         <ul className="list-square">
 
-          <li></li>
-          <li className="list-none"></li>
+          <li>She <strong>often</strong> reads books before going to bed.</li>
+          <li className="list-none">(Cô ấy thường đọc sách trước khi đi ngủ.)</li>
 
         </ul>
 
@@ -197,25 +184,29 @@ export default function (): React.JSX.Element {
         <strong>&nbsp;thường xuyên</strong>:
       </p>
 
-      <p className="text-indent-whole"></p>
+      <p className="text-indent-whole">Thường xuyên sử dụng từ "<strong>often</strong>" trong giao tiếp hoặc khi viết.</p>
 
-        <p className="text-indent-whole">Ví dụ để so sánh (sự khác biệt):</p>
+        <p className="text-indent-whole">Ví dụ để so sánh (sự khác biệt giữa frequently  và <strong>often</strong>):</p>
 
           <ol>
 
-            <li></li>
+            <li>Cách nói trang trọng hơn, nhấn mạnh tính thường xuyên.</li>
 
-            <li className="margin-bottom-20"></li>
+            <li className="list-none margin-bottom-20">She frequently attends conferences. (Cô ấy thường xuyên tham dự hội nghị.)</li>
+
+            <li value="2"><span className="highlight-255-padding-0-4">Cách nói thông thường</span>, dùng trong nhiều tình huống.</li>
+
+            <li className="list-none margin-bottom-20">I <strong>often</strong> go to the park. (Tôi thường đi công viên.)</li>
 
           </ol>
 
-      <div className="margin-bottom-20 padding-top-20 text-border1 padding-10 highlight-238-padding-4-8 bee-container">
+      {/* <div className="margin-bottom-20 padding-top-20 text-border1 padding-10 highlight-238-padding-4-8 bee-container"> */}
 
-        <p className="margin-y-10">Sự khác biệt: </p>
+        {/* <p className="margin-y-10">Sự khác biệt: </p> */}
 
         {/* <span className="highlight-255-padding-0-4"></span> */}
 
-      </div>
+      {/* </div> */}
 
       {/* =============================
             Lưu ý:
@@ -227,9 +218,9 @@ export default function (): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li></li>
+          <li>"<strong>Often</strong>" thường đứng trước động từ chính trong câu.</li>
 
-          <li className="margin-bottom-20"></li>
+          <li className="margin-bottom-20">Nó có thể được sử dụng để diễn tả mức độ thường xuyên của một hành động.</li>
 
         </ul>
 
@@ -240,7 +231,7 @@ export default function (): React.JSX.Element {
       <div className="viewcounter">
       
         <div className="post-date no-margin">
-          <span> · by 💎Gem ·</span>
+          <span>November 4, 2024 · by 💎Gem ·</span>
         </div>
 
         <div className="eye-icon no-margin">
