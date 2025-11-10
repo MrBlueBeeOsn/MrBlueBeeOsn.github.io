@@ -25,14 +25,23 @@ export default function VocabularyIndex(): React.JSX.Element {
 			<div className="vocabulary-container">
 
 				{/* =============================
-							Tính chính xác
+							Tính lặp lại
 				============================= */}
 
 				<details className="sub-box-fix">
 			
-					<summary id="thoi-gian-lap-lai-terms"><mark className="highlight-secondary-padding-2-4">Thời gian lặp lại</mark></summary>
+					<summary id="tinh-lap-lai-terms"><mark className="highlight-secondary-padding-2-4">Tính lặp lại</mark></summary>
 
 					<ul className="list-border1">
+
+						<li>
+							<Link to="/vocabulary/again-1">again
+								<sup>&nbsp;1&nbsp;</sup>
+									</Link> 
+									<Link to="/vocabulary/again-2">
+								<sup>&nbsp;2&nbsp;</sup>
+							</Link>
+						</li>
 						
 						<li>
 							<Link to="/vocabulary/often-1">often
@@ -43,7 +52,23 @@ export default function VocabularyIndex(): React.JSX.Element {
 							</Link>
 						</li>
 
-					
+						<li>
+							<Link to="/vocabulary/repeatedly-1">repeatedly
+								<sup>&nbsp;1&nbsp;</sup>
+									</Link> 
+									<Link to="/vocabulary/repeatedly-2">
+								<sup>&nbsp;2&nbsp;</sup>
+							</Link>
+						</li>
+
+						<li>
+							<Link to="/vocabulary/frequently-1">frequently
+								<sup>&nbsp;1&nbsp;</sup>
+									</Link> 
+									<Link to="/vocabulary/frequently-2">
+								<sup>&nbsp;2&nbsp;</sup>
+							</Link>
+						</li>
 						
 					</ul>
 

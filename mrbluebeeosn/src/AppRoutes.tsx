@@ -119,8 +119,14 @@ const Posts = lazy(() => import('@/data/Posts'));
   const Surely2 = lazy(() => import('@/2_main/english/vocabulary/Surely2'));
 
   // 7. Vocabulary - Thời gian lặp lại
+  const Again1 = lazy(() => import('@/2_main/english/vocabulary/Again1'));
+  const Again2 = lazy(() => import('@/2_main/english/vocabulary/Again2'));
   const Often1 = lazy(() => import('@/2_main/english/vocabulary/Often1'));
   const Often2 = lazy(() => import('@/2_main/english/vocabulary/Often2'));
+  const Repeatedly1 = lazy(() => import('@/2_main/english/vocabulary/Repeatedly1'));
+  const Repeatedly2 = lazy(() => import('@/2_main/english/vocabulary/Repeatedly2'));
+  const Frequently1 = lazy(() => import('@/2_main/english/vocabulary/Frequently1'));
+  const Frequently2 = lazy(() => import('@/2_main/english/vocabulary/Frequently2'));
 
 // 3. Test Tailwind
 	const TestTailwind = lazy(() => import('@/components/TestTailwind'));
@@ -249,8 +255,14 @@ export default function AppRoutes(): React.JSX.Element {
           <Route path="/vocabulary/surely-2" element={<Surely2 />} />
 
           {/* 8. Vocabulary - Thời gian lặp lại */}
+          <Route path="/vocabulary/again-1" element={<Again1 />} />
+          <Route path="/vocabulary/again-2" element={<Again2 />} />
           <Route path="/vocabulary/often-1" element={<Often1 />} />
           <Route path="/vocabulary/often-2" element={<Often2 />} />
+          <Route path="/vocabulary/repeatedly-1" element={<Repeatedly1 />} />
+          <Route path="/vocabulary/repeatedly-2" element={<Repeatedly2 />} />
+          <Route path="/vocabulary/frequently-1" element={<Frequently1 />} />
+          <Route path="/vocabulary/frequently-2" element={<Frequently2 />} />
 
           {/* 3. Test Tailwind */}
 					<Route path="/tailwindcss/test-tailwind" element={<TestTailwind />} />

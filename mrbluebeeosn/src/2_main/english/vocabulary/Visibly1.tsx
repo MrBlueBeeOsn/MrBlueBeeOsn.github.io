@@ -45,7 +45,7 @@ export default function Visibly1(): React.JSX.Element {
 
             <li>Trạng từ (<Link to="/grammar/what-is-an-adverb?">adverb</Link>)</li>
 
-            <li>Một cách rõ ràng, dễ thấy</li>
+            <li>Tính  rõ ràng, dễ thấy</li>
 
           </ul>
 

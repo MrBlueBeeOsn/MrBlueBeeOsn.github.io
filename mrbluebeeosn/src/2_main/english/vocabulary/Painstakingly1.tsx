@@ -45,7 +45,7 @@ export default function Painstakingly1(): React.JSX.Element {
             
             <li>Trạng từ (<Link to="/grammar/what-is-an-adverb?">adverb</Link>)</li>
 
-            <li>Một cách cẩn thận, tỉ mỉ, chu đáo</li>
+            <li>Tính  cẩn thận, tỉ mỉ, chu đáo</li>
 
           </ul>
 

@@ -47,7 +47,7 @@ export default function Definitely1(): React.JSX.Element {
 
             <li>Trạng từ (<Link to="/grammar/what-is-an-adverb?">adverb</Link>)</li>
 
-            <li>Chắc chắn, dứt khoát</li>
+            <li>Tính chắc chắn, dứt khoát</li>
 
           </ul>
 

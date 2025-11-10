@@ -45,7 +45,7 @@ export default function Scrupulously1(): React.JSX.Element {
             
             <li>Trạng từ (<Link to="/grammar/what-is-an-adverb?">adverb</Link>)</li>
 
-            <li>Một cách tỉ mỉ, cẩn trọng, chu đáo</li>
+            <li>Tính  tỉ mỉ, cẩn trọng, chu đáo</li>
 
           </ul>
 

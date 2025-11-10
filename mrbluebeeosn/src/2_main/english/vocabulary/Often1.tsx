@@ -15,7 +15,7 @@ export default function Often1(): React.JSX.Element {
 
     <article>
     
-      <h4><HashLink smooth to="/vocabulary#thoi-gian-lap-lai-terms"><mark className="highlight-tertiary-padding-4-8">Thời gian lặp lại</mark></HashLink></h4>
+      <h4><HashLink smooth to="/vocabulary#tinh-lap-lai-terms"><mark className="highlight-tertiary-padding-4-8">Tính lặp lại</mark></HashLink></h4>
       
       <h1 className="margin-y-50 text-center">often
         <sup><Link to="/vocabulary/often-1">&nbsp;1&nbsp;</Link>
@@ -45,7 +45,7 @@ export default function Often1(): React.JSX.Element {
 
             <li>Trạng từ (<Link to="/grammar/what-is-an-adverb?">adverb</Link>)</li>
 
-            <li>Thường xuyên</li>
+            <li>Tính thường xuyên</li>
 
           </ul>
 
@@ -97,7 +97,7 @@ export default function Often1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Frequently: (adv) /ˈfriː.kwənt.li/ - Thường xuyên</li>
+          <li><Link to="/vocabulary/frequently-1">Frequently</Link>: (adv) /ˈfriː.kwənt.li/ - Thường xuyên</li>
           <li className="margin-bottom-20 list-none">She frequently visits her grandparents. (Cô ấy thường xuyên thăm ông bà.)</li>
 
           <li>Regularly: (adv) /ˈreg.jʊ.lər.li/ - Đều đặn</li>
@@ -190,11 +190,11 @@ export default function Often1(): React.JSX.Element {
 
           <ol>
 
-            <li>Cách nói trang trọng hơn, nhấn mạnh tính thường xuyên.</li>
+            <li><Link to="/vocabulary/frequently-1">Frequently</Link>: Cách nói trang trọng hơn, nhấn mạnh tính thường xuyên.</li>
 
             <li className="list-none margin-bottom-20">She frequently attends conferences. (Cô ấy thường xuyên tham dự hội nghị.)</li>
 
-            <li value="2"><span className="highlight-255-padding-0-4">Cách nói thông thường</span>, dùng trong nhiều tình huống.</li>
+            <li value="2"><span className="highlight-255-padding-0-4"><strong>Often</strong>: Cách nói thông thường</span>, dùng trong nhiều tình huống.</li>
 
             <li className="list-none margin-bottom-20">I <strong>often</strong> go to the park. (Tôi thường đi công viên.)</li>
 

@@ -45,7 +45,7 @@ export default function Absolutely1(): React.JSX.Element {
 
             <li>Trạng từ (<Link to="/grammar/what-is-an-adverb?">adverb</Link>)</li>
 
-            <li>Hoàn toàn, tuyệt đối</li>
+            <li>Tính hoàn toàn, tuyệt đối</li>
 
           </ul>
 

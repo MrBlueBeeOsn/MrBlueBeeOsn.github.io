@@ -5,9 +5,9 @@ import EyeIcon from '@/components/EyeIcon';
 import ViewCounter from '@/components/ViewCounter';
 import LikeButton from '@/components/LikeButton';
 
-export default function Truly1(): React.JSX.Element {
+export default function Again1(): React.JSX.Element {
 
-  const postId = "Truly1";
+  const postId = "Again1";
 
   return (<>
 
@@ -15,37 +15,37 @@ export default function Truly1(): React.JSX.Element {
 
     <article>
     
-      <h4><HashLink smooth to="/vocabulary#tinh-xac-thuc-terms"><mark className="highlight-tertiary-padding-4-8">Tính xác thực</mark></HashLink></h4>
+      <h4><HashLink smooth to="/vocabulary#tinh-lap-lai-terms"><mark className="highlight-tertiary-padding-4-8">Tính lặp lại</mark></HashLink></h4>
       
-      <h1 className="margin-y-50 text-center">truly
-        <sup><Link to="/vocabulary/truly-1">&nbsp;1&nbsp;</Link>
+      <h1 className="margin-y-50 text-center">again
+        <sup><Link to="/vocabulary/again-1">&nbsp;1&nbsp;</Link>
         </sup>
-        <sup><Link to="/vocabulary/truly-2">&nbsp;2&nbsp;</Link>
+        <sup><Link to="/vocabulary/again-2">&nbsp;2&nbsp;</Link>
         </sup>
       </h1>
 
       {/* This is the content of Vocabulary Term. */}
       
-      <p>Tuyệt vời! Chúng ta cùng đi sâu vào từ "<strong>truly</strong>" nhé.</p>
+      <p>Tuyệt vời! Chúng ta cùng đi sâu vào phân tích từ "<strong>again</strong>" nhé.</p>
 
       <div className="text-border1 padding-top-20 padding-bottom-10 highlight-238-padding-4-8 bee-container">
 
         <div>
 
-          <p className="margin-bottom-20"><strong>Truly</strong></p>
+          <p className="margin-bottom-20"><strong>Again</strong></p>
 
           <ul className="list-square padding-left-40">
 
             <li>
               <span className="highlight-255-padding-3-6">
-                /ˈtruːli/ + /<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">trüly</Link>/
-                <sup>&nbsp;⬤• (2x)</sup>
+                /əˈɡen/ + /<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">a̛gā̄in</Link>/
+                <sup>&nbsp;•⬤ (2x)</sup>
               </span>
             </li>
 
             <li>Trạng từ (<Link to="/grammar/what-is-an-adverb?">adverb</Link>)</li>
 
-            <li>Tính thực sự, thật sự</li>
+            <li>Tính lặp lại, một lần nữa</li>
 
           </ul>
 
@@ -57,15 +57,15 @@ export default function Truly1(): React.JSX.Element {
 
       </div>
 
-      <p className="margin-top-30 text-indent-whole">Từ "<strong>truly</strong>" được dùng để nhấn mạnh sự thật, tính xác thực của một thông tin, cảm xúc hoặc tình huống. Nó thể hiện sự chân thành, thẳng thắn và không giả dối.</p>
+      <p className="margin-top-30 text-indent-whole">Chỉ việc lặp lại một hành động, sự việc hoặc trạng thái.</p>
 
       <p className="text-indent-whole">Ví dụ:</p>
 
         <ul className="list-square">
 
-          <li>She is <strong>truly</strong> a talented artist. (Cô ấy thực sự là một nghệ sĩ tài năng.)</li>
+          <li>Can you say that <strong>again</strong>? (Bạn có thể nói lại điều đó được không?)</li>
 
-          <li>I <strong>truly</strong> appreciate your help. (Tôi thực sự biết ơn sự giúp đỡ của bạn.)</li>
+          <li>I've seen this movie before, but I want to watch it <strong>again</strong>. (Tôi đã xem bộ phim này rồi, nhưng tôi muốn xem lại.)</li>
 
         </ul>
 
@@ -81,11 +81,8 @@ export default function Truly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>True (adj): Đúng, thật /truː/</li>
-          <li className="margin-bottom-20 list-none">That is a true story. (Đó là một câu chuyện có thật.)</li>
-
-          <li>Truth (n): Sự thật /truːθ/</li>
-          <li className="list-none">The truth will set you free. (Sự thật sẽ giải phóng bạn.)</li>
+          <li><strong>Again</strong> and <strong>again</strong>: Lặp đi lặp lại /əˈɡen ænd əˈɡen/ - cụm trạng từ</li>
+          <li className="list-none">He kept asking the same question <strong>again</strong> and <strong>again</strong>. (Anh ấy cứ hỏi đi hỏi lại cùng một câu hỏi.)</li>
 
         </ul>
 
@@ -101,11 +98,11 @@ export default function Truly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li><Link to="/vocabulary/really-1">Really</Link>: Thực sự /ˈriːəli/</li>
-          <li className="margin-bottom-20 list-none">I'm really tired. (Tôi thực sự mệt mỏi.)</li>
+          <li>Once more: Một lần nữa /wʌns mɔːr/</li>
+          <li className="margin-bottom-20 list-none">Let's try once more. (Chúng ta hãy thử thêm một lần nữa.)</li>
 
-          <li>Indeed: Thực vậy /ɪnˈdiːd/</li>
-          <li className="list-none">Indeed, it was a beautiful day. (Thực vậy, đó là một ngày đẹp trời.)</li>
+          <li><Link to="/vocabulary/repeatedly-1">Repeatedly</Link>: Lặp đi lặp lại /rɪˈpiː.tɪd.li/</li>
+          <li className="list-none">He repeatedly made the same mistake. (Anh ấy liên tục mắc cùng một lỗi lầm.)</li>
 
         </ul>
 
@@ -123,11 +120,11 @@ export default function Truly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Falsely: Một cách giả dối /ˈfɔːlsli/</li>
-          <li className="margin-bottom-20 list-none">He falsely accused her of stealing. (Anh ta đã vu khống cô ấy ăn trộm.)</li>
+          <li>Once: Một lần /wʌns/ (chỉ xảy ra một lần, ngược lại với nhiều lần)</li>
+          <li className="margin-bottom-20 list-none">I've only done it once. (Tôi mới chỉ làm điều đó một lần.)</li>
 
-          <li>Apparently: Có vẻ như /əˈpærəntli/</li>
-          <li className="list-none">Apparently, he is leaving the company. (Có vẻ như anh ấy sẽ rời khỏi công ty.)</li>
+          <li>For the first time: Lần đầu tiên /fɔːr ðə fɜːst taɪm/</li>
+          <li className="list-none">I'm seeing this movie for the first time. (Tôi đang xem bộ phim này lần đầu tiên.)</li>
 
         </ul>
       
@@ -148,12 +145,12 @@ export default function Truly1(): React.JSX.Element {
         <strong>&nbsp;với hình ảnh</strong>:
       </p>
 
-      <p className="text-indent-whole">Hình dung một người đang nói lời thật lòng với bạn.</p>
+      <p className="text-indent-whole">Hãy tưởng tượng một chiếc đồng hồ quay trở lại vị trí ban đầu.</p>
 
         <ul className="list-square">
 
-          <li>I'm <strong>truly</strong> happy for you.</li>
-          <li className="list-none">(Tôi thực sự vui mừng cho bạn.)</li>
+          <li>The clock stopped working, but now it's started <strong>again</strong>.</li>
+          <li className="list-none">(Chiếc đồng hồ đã ngừng hoạt động, nhưng bây giờ nó đã bắt đầu lại.)</li>
 
         </ul>
 
@@ -168,12 +165,12 @@ export default function Truly1(): React.JSX.Element {
         <strong>&nbsp;ví dụ</strong>:
       </p>
 
-      <p className="text-indent-whole">Tự tạo các câu ví dụ khác nhau với từ "<strong>truly</strong>" trong nhiều ngữ cảnh khác nhau.</p>
+      <p className="text-indent-whole">Thử tạo càng nhiều câu ví dụ càng tốt với "<strong>again</strong>" trong các ngữ cảnh khác nhau.</p>
 
         <ul className="list-square">
 
-          <li><strong>Truly</strong>, I appreciate your kindness.</li>
-          <li className="list-none">(Thật lòng, tôi rất trân trọng lòng tốt của bạn.)</li>
+          <li>The price of gas is going up <strong>again</strong>.</li>
+          <li className="list-none">(Giá xăng lại tăng lên rồi.)</li>
 
         </ul>
 
@@ -188,27 +185,23 @@ export default function Truly1(): React.JSX.Element {
         <strong>&nbsp;thường xuyên</strong>:
       </p>
 
-      <p className="text-indent-whole">Thường xuyên sử dụng từ này trong các cuộc hội thoại và bài viết để làm quen với cách sử dụng.</p>
+      <p className="text-indent-whole">Đọc và viết nhiều để củng cố vốn từ vựng và cách sử dụng của "<strong>again</strong>".</p>
 
-        <p className="text-indent-whole">Ví dụ để so sánh (sự khác biệt):</p>
+        <p className="text-indent-whole">Ví dụ để so sánh (sự khác biệt giữa once more và <strong>again</strong>):</p>
 
           <ol>
 
-            <li>I like pizza. (Tôi thích pizza.)</li>
+            <li>Once more: Thường được dùng để nhấn mạnh sự lặp lại cuối cùng hoặc một nỗ lực cuối cùng.</li>
 
-            <li className="margin-bottom-20">I <strong>truly</strong> love pizza. (Tôi thực sự yêu pizza.)</li>
+            <li className="list-none margin-bottom-20">Let's try once more. (Chúng ta hãy thử thêm một lần nữa.)</li>
+
+            <li value="2"><strong>Again</strong>: <span className="highlight-255-padding-0-4">Thường được dùng trong các tình huống thông thường</span>.</li>
+
+            <li className="list-none margin-bottom-20">Please repeat that <strong>again</strong>. (Làm ơn lặp lại điều đó.)</li>
 
           </ol>
 
-      <div className="margin-bottom-20 padding-top-20 text-border1 padding-10 highlight-238-padding-4-8 bee-container">
-
-        <p className="margin-y-10">Sự khác biệt: Câu thứ hai sử dụng "<strong>truly</strong>" để thể hiện một tình cảm sâu sắc hơn, <span className="highlight-255-padding-0-4">nhấn mạnh rằng tình yêu</span> dành cho pizza <span className="highlight-255-padding-0-4">là rất lớn</span>.
-
-</p>
-
-        {/* <span className="highlight-255-padding-0-4"></span> */}
-
-      </div>
+      {/* <span className="highlight-255-padding-0-4"></span> */}
 
       {/* =============================
             Lưu ý:
@@ -220,9 +213,9 @@ export default function Truly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Nhấn mạnh sự thật: "<strong>Truly</strong>" thường được dùng để nhấn mạnh tính xác thực của một thông tin hoặc cảm xúc.</li>
+          <li>"<strong>Again</strong>" thường đứng sau động từ.</li>
 
-          <li className="margin-bottom-20">Thể hiện sự chân thành: Nó cũng thể hiện sự chân thành và lòng thành kính của người nói.</li>
+          <li className="margin-bottom-20">"<strong>Again</strong>" có thể được dùng để nhấn mạnh một ý tưởng hoặc cảm xúc.</li>
 
         </ul>
 
@@ -233,7 +226,7 @@ export default function Truly1(): React.JSX.Element {
       <div className="viewcounter">
       
         <div className="post-date no-margin">
-          <span>November 2, 2024 · by 💎Gem ·</span>
+          <span>November 14, 2024 · by 💎Gem ·</span>
         </div>
 
         <div className="eye-icon no-margin">

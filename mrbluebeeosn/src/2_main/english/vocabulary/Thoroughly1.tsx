@@ -45,7 +45,7 @@ export default function Thoroughly1(): React.JSX.Element {
             
             <li>Trạng từ (<Link to="/grammar/what-is-an-adverb?">adverb</Link>)</li>
 
-            <li>Một cách kỹ lưỡng, hoàn toàn</li>
+            <li>Tính  kỹ lưỡng, hoàn toàn</li>
 
           </ul>
 

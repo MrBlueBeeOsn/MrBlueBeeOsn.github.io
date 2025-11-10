@@ -362,8 +362,8 @@
 		},
 		{ 
 			"id": "Often1",
-			"categoryDisplay": "Thời gian lặp lại",
-			"categorySlug": "vocabulary#thoi-gian-lap-lai-terms",
+			"categoryDisplay": "Tính lặp lại",
+			"categorySlug": "vocabulary#tinh-lap-lai-terms",
 			"title": "often 1",
 			"content": "Chỉ sự lặp đi lặp lại của một hành động hoặc sự kiện trong một khoảng thời gian.",
 			"slug": "vocabulary/often-1",
@@ -371,12 +371,66 @@
 		},
 		{ 
 			"id": "Often2",
-			"categoryDisplay": "Thời gian lặp lại",
-			"categorySlug": "vocabulary#thoi-gian-lap-lai-terms",
+			"categoryDisplay": "Tính lặp lại",
+			"categorySlug": "vocabulary#tinh-lap-lai-terms",
 			"title": "often 2",
 			"content": "Often /ˈɒf.ən/ ⬤• (2x) là một trạng từ chỉ tần suất, dùng để diễn tả một hành động hoặc sự việc xảy ra nhiều lần.",
 			"slug": "vocabulary/often-2",
 			"date": "2024-11-04"
+		},
+		{ 
+			"id": "Again1",
+			"categoryDisplay": "Tính lặp lại",
+			"categorySlug": "vocabulary#tinh-lap-lai-terms",
+			"title": "again 1",
+			"content": "Chỉ việc lặp lại một hành động, sự việc hoặc trạng thái.",
+			"slug": "vocabulary/again-1",
+			"date": "2024-11-14"
+		},
+		{ 
+			"id": "Again2",
+			"categoryDisplay": "Tính lặp lại",
+			"categorySlug": "vocabulary#tinh-lap-lai-terms",
+			"title": "again 2",
+			"content": "Again /əˈɡen/ •⬤ (2x) là một trạng từ chỉ tần suất, thường được dùng để diễn tả một hành động được lặp lại, hoặc một tình huống tương tự xảy ra một lần nữa.",
+			"slug": "vocabulary/again-2",
+			"date": "2024-11-14"
+		},
+		{ 
+			"id": "Frequently1",
+			"categoryDisplay": "Tính lặp lại",
+			"categorySlug": "vocabulary#tinh-lap-lai-terms",
+			"title": "frequently 1",
+			"content": "Từ \"frequently\" được dùng để miêu tả một hành động, sự việc xảy ra nhiều lần trong một khoảng thời gian nhất định. Nó cho thấy tính lặp đi lặp lại của một hành động hoặc sự kiện.",
+			"slug": "vocabulary/frequently-1",
+			"date": "2024-11-02"
+		},
+		{ 
+			"id": "Frequently2",
+			"categoryDisplay": "Tính lặp lại",
+			"categorySlug": "vocabulary#tinh-lap-lai-terms",
+			"title": "frequently 2",
+			"content": "Frequently /ˈfriːkwəntli/ ⬤•• (3x) thường được sử dụng để chỉ một hành động, sự việc xảy ra nhiều lần hoặc trong một khoảng thời gian ngắn.",
+			"slug": "vocabulary/frequently-2",
+			"date": "2024-11-02"
+		},
+		{ 
+			"id": "Repeatedly1",
+			"categoryDisplay": "Tính lặp lại",
+			"categorySlug": "vocabulary#tinh-lap-lai-terms",
+			"title": "repeatedly 1",
+			"content": "Từ \"repeatedly\" dùng để mô tả một hành động được thực hiện nhiều lần, liên tục. Nó nhấn mạnh tính thường xuyên và sự lặp đi lặp lại của một sự việc.",
+			"slug": "vocabulary/repeatedly-1",
+			"date": "2024-11-07"
+		},
+		{ 
+			"id": "Repeatedly2",
+			"categoryDisplay": "Tính lặp lại",
+			"categorySlug": "vocabulary#tinh-lap-lai-terms",
+			"title": "repeatedly 2",
+			"content": "Repeatedly /rɪˈpiːtɪdli/ •⬤•• (4x) là một trạng từ chỉ việc làm điều gì đó nhiều lần, liên tục.",
+			"slug": "vocabulary/repeatedly-2",
+			"date": "2024-11-07"
 		}
 	]
 }

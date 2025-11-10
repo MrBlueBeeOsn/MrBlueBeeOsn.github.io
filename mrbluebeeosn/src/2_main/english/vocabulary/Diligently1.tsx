@@ -45,7 +45,7 @@ export default function Diligently1(): React.JSX.Element {
             
             <li>Trạng từ (<Link to="/grammar/what-is-an-adverb?">adverb</Link>)</li>
 
-            <li>Một cách chăm chỉ, cần mẫn, siêng năng</li>
+            <li>Tính  chăm chỉ, cần mẫn, siêng năng</li>
 
           </ul>
 

@@ -5,9 +5,9 @@ import EyeIcon from '@/components/EyeIcon';
 import ViewCounter from '@/components/ViewCounter';
 import LikeButton from '@/components/LikeButton';
 
-export default function Truly1(): React.JSX.Element {
+export default function Frequently1(): React.JSX.Element {
 
-  const postId = "Truly1";
+  const postId = "Frequently1";
 
   return (<>
 
@@ -15,37 +15,37 @@ export default function Truly1(): React.JSX.Element {
 
     <article>
     
-      <h4><HashLink smooth to="/vocabulary#tinh-xac-thuc-terms"><mark className="highlight-tertiary-padding-4-8">Tính xác thực</mark></HashLink></h4>
+      <h4><HashLink smooth to="/vocabulary#tinh-lap-lai-terms"><mark className="highlight-tertiary-padding-4-8">Tính lặp lại</mark></HashLink></h4>
       
-      <h1 className="margin-y-50 text-center">truly
-        <sup><Link to="/vocabulary/truly-1">&nbsp;1&nbsp;</Link>
+      <h1 className="margin-y-50 text-center">frequently
+        <sup><Link to="/vocabulary/frequently-1">&nbsp;1&nbsp;</Link>
         </sup>
-        <sup><Link to="/vocabulary/truly-2">&nbsp;2&nbsp;</Link>
+        <sup><Link to="/vocabulary/frequently-2">&nbsp;2&nbsp;</Link>
         </sup>
       </h1>
 
       {/* This is the content of Vocabulary Term. */}
       
-      <p>Tuyệt vời! Chúng ta cùng đi sâu vào từ "<strong>truly</strong>" nhé.</p>
+      <p>Tuyệt vời! Chúng ta cùng đi sâu vào từ "<strong>frequently</strong>" nhé.</p>
 
       <div className="text-border1 padding-top-20 padding-bottom-10 highlight-238-padding-4-8 bee-container">
 
         <div>
 
-          <p className="margin-bottom-20"><strong>Truly</strong></p>
+          <p className="margin-bottom-20"><strong>Frequently</strong></p>
 
           <ul className="list-square padding-left-40">
 
             <li>
               <span className="highlight-255-padding-3-6">
-                /ˈtruːli/ + /<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">trüly</Link>/
-                <sup>&nbsp;⬤• (2x)</sup>
+                /ˈfriːkwəntli/ + /<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">frėque̛ntly</Link>/
+                <sup>&nbsp;⬤•• (3x)</sup>
               </span>
             </li>
 
             <li>Trạng từ (<Link to="/grammar/what-is-an-adverb?">adverb</Link>)</li>
 
-            <li>Tính thực sự, thật sự</li>
+            <li>Tính thường xuyên, liên tục</li>
 
           </ul>
 
@@ -57,15 +57,15 @@ export default function Truly1(): React.JSX.Element {
 
       </div>
 
-      <p className="margin-top-30 text-indent-whole">Từ "<strong>truly</strong>" được dùng để nhấn mạnh sự thật, tính xác thực của một thông tin, cảm xúc hoặc tình huống. Nó thể hiện sự chân thành, thẳng thắn và không giả dối.</p>
+      <p className="margin-top-30 text-indent-whole">Từ "<strong>frequently</strong>" được dùng để miêu tả một hành động, sự việc xảy ra nhiều lần trong một khoảng thời gian nhất định. Nó cho thấy tính lặp đi lặp lại của một hành động hoặc sự kiện.</p>
 
       <p className="text-indent-whole">Ví dụ:</p>
 
         <ul className="list-square">
 
-          <li>She is <strong>truly</strong> a talented artist. (Cô ấy thực sự là một nghệ sĩ tài năng.)</li>
+          <li>She <strong>frequently</strong> visits her grandparents. (Cô ấy thường xuyên đến thăm ông bà.)</li>
 
-          <li>I <strong>truly</strong> appreciate your help. (Tôi thực sự biết ơn sự giúp đỡ của bạn.)</li>
+          <li>It rains <strong>frequently</strong> in this region. (Ở vùng này thường xuyên mưa.)</li>
 
         </ul>
 
@@ -81,11 +81,11 @@ export default function Truly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>True (adj): Đúng, thật /truː/</li>
-          <li className="margin-bottom-20 list-none">That is a true story. (Đó là một câu chuyện có thật.)</li>
+          <li>Frequent (adj): thường xuyên /ˈfriːkwənt/</li>
+          <li className="margin-bottom-20 list-none">He is a frequent visitor to the library. (Anh ấy là một khách quen của thư viện.)</li>
 
-          <li>Truth (n): Sự thật /truːθ/</li>
-          <li className="list-none">The truth will set you free. (Sự thật sẽ giải phóng bạn.)</li>
+          <li>Frequency (n): tần suất /ˈfriːkwənsi/</li>
+          <li className="list-none">The frequency of accidents has increased. (Tần suất tai nạn đã tăng lên.)</li>
 
         </ul>
 
@@ -101,11 +101,11 @@ export default function Truly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li><Link to="/vocabulary/really-1">Really</Link>: Thực sự /ˈriːəli/</li>
-          <li className="margin-bottom-20 list-none">I'm really tired. (Tôi thực sự mệt mỏi.)</li>
+          <li><Link to="/vocabulary/often-1">Often</Link>: thường xuyên /ˈɔːfən/</li>
+          <li className="margin-bottom-20 list-none">I often go for a walk in the park. (Tôi thường đi dạo trong công viên.)</li>
 
-          <li>Indeed: Thực vậy /ɪnˈdiːd/</li>
-          <li className="list-none">Indeed, it was a beautiful day. (Thực vậy, đó là một ngày đẹp trời.)</li>
+          <li>Regularly: đều đặn /ˈreɡjələri/</li>
+          <li className="list-none">She regularly attends yoga classes. (Cô ấy thường xuyên tham gia các lớp yoga.)</li>
 
         </ul>
 
@@ -123,11 +123,11 @@ export default function Truly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Falsely: Một cách giả dối /ˈfɔːlsli/</li>
-          <li className="margin-bottom-20 list-none">He falsely accused her of stealing. (Anh ta đã vu khống cô ấy ăn trộm.)</li>
+          <li>Rarely: hiếm khi /ˈreərli/</li>
+          <li className="margin-bottom-20 list-none">I rarely eat meat. (Tôi hiếm khi ăn thịt.)</li>
 
-          <li>Apparently: Có vẻ như /əˈpærəntli/</li>
-          <li className="list-none">Apparently, he is leaving the company. (Có vẻ như anh ấy sẽ rời khỏi công ty.)</li>
+          <li>Seldom: ít khi /ˈsɛldəm/</li>
+          <li className="list-none">She seldom goes to the movies. (Cô ấy ít khi đi xem phim.)</li>
 
         </ul>
       
@@ -148,12 +148,12 @@ export default function Truly1(): React.JSX.Element {
         <strong>&nbsp;với hình ảnh</strong>:
       </p>
 
-      <p className="text-indent-whole">Hình dung một người đang nói lời thật lòng với bạn.</p>
+      <p className="text-indent-whole">Hình dung một chiếc đồng hồ đang chạy, biểu thị sự lặp đi lặp lại của thời gian.</p>
 
         <ul className="list-square">
 
-          <li>I'm <strong>truly</strong> happy for you.</li>
-          <li className="list-none">(Tôi thực sự vui mừng cho bạn.)</li>
+          <li>The clock is <strong>frequently</strong> ticking, reminding us of the constant passage of time.</li>
+          <li className="list-none">(Chiếc đồng hồ thường xuyên tích tắc, nhắc nhở chúng ta về sự trôi chảy không ngừng của thời gian.)</li>
 
         </ul>
 
@@ -168,12 +168,12 @@ export default function Truly1(): React.JSX.Element {
         <strong>&nbsp;ví dụ</strong>:
       </p>
 
-      <p className="text-indent-whole">Tự tạo các câu ví dụ khác nhau với từ "<strong>truly</strong>" trong nhiều ngữ cảnh khác nhau.</p>
+      <p className="text-indent-whole"></p>
 
         <ul className="list-square">
 
-          <li><strong>Truly</strong>, I appreciate your kindness.</li>
-          <li className="list-none">(Thật lòng, tôi rất trân trọng lòng tốt của bạn.)</li>
+          <li>I <strong>frequently</strong> drink coffee in the morning.</li>
+          <li className="list-none">(Tôi thường uống cà phê vào buổi sáng.)</li>
 
         </ul>
 
@@ -188,27 +188,37 @@ export default function Truly1(): React.JSX.Element {
         <strong>&nbsp;thường xuyên</strong>:
       </p>
 
-      <p className="text-indent-whole">Thường xuyên sử dụng từ này trong các cuộc hội thoại và bài viết để làm quen với cách sử dụng.</p>
+      <p className="text-indent-whole">Thường xuyên sử dụng từ này trong các cuộc hội thoại hoặc khi viết.</p>
 
         <p className="text-indent-whole">Ví dụ để so sánh (sự khác biệt):</p>
 
+          {/* <ol>
+
+            <li></li>
+
+            <li className="list-none margin-bottom-20"></li>
+
+            <li value="2"></li>
+
+            <li className="list-none margin-bottom-20"></li>
+
+          </ol> */}
+
           <ol>
 
-            <li>I like pizza. (Tôi thích pizza.)</li>
+            <li>I go to the gym. (Tôi đi đến phòng tập thể dục.)</li>
 
-            <li className="margin-bottom-20">I <strong>truly</strong> love pizza. (Tôi thực sự yêu pizza.)</li>
+            <li className="margin-bottom-20">I <strong>frequently</strong> go to the gym to exercise. (Tôi thường xuyên đến phòng tập thể dục để tập luyện.)</li>
 
           </ol>
 
       <div className="margin-bottom-20 padding-top-20 text-border1 padding-10 highlight-238-padding-4-8 bee-container">
 
-        <p className="margin-y-10">Sự khác biệt: Câu thứ hai sử dụng "<strong>truly</strong>" để thể hiện một tình cảm sâu sắc hơn, <span className="highlight-255-padding-0-4">nhấn mạnh rằng tình yêu</span> dành cho pizza <span className="highlight-255-padding-0-4">là rất lớn</span>.
-
-</p>
-
-        {/* <span className="highlight-255-padding-0-4"></span> */}
+        <p className="margin-y-10">Sự khác biệt: Câu thứ hai sử dụng "<strong>frequently</strong>" để <span className="highlight-255-padding-0-4">nhấn mạnh rằng việc đi đến</span> phòng tập thể dục <span className="highlight-255-padding-0-4">là một hoạt động thường xuyên</span> của người nói.</p>
 
       </div>
+
+      {/* <span className="highlight-255-padding-0-4"></span> */}
 
       {/* =============================
             Lưu ý:
@@ -220,9 +230,9 @@ export default function Truly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Nhấn mạnh sự thật: "<strong>Truly</strong>" thường được dùng để nhấn mạnh tính xác thực của một thông tin hoặc cảm xúc.</li>
+          <li>Mức độ thường xuyên: "<strong>requently</strong>" cho thấy một mức độ thường xuyên cao hơn so với "<Link to="/vocabulary/often-1">often</Link>".</li>
 
-          <li className="margin-bottom-20">Thể hiện sự chân thành: Nó cũng thể hiện sự chân thành và lòng thành kính của người nói.</li>
+          <li className="margin-bottom-20">Tính lặp lại: Nó nhấn mạnh tính lặp đi lặp lại của một hành động hoặc sự kiện.</li>
 
         </ul>
 
