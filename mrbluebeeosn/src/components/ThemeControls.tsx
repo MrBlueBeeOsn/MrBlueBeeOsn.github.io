@@ -193,7 +193,7 @@ const ThemeControls: React.FC = () => {
       </div>
 
       {/* BACKGROUND MAIN ROW */}
-      <div style={{ marginBottom: 20 }}>
+      {/* <div style={{ marginBottom: 20 }}>
         <h3 style={{ margin: '0 0 10px', fontSize: '0.95rem', textAlign: 'center' }}>
           Main
         </h3>
@@ -225,7 +225,7 @@ const ThemeControls: React.FC = () => {
             </button>
           ))}
         </div>
-      </div>
+      </div> */}
 
     </div>
   );

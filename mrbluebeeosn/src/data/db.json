@@ -846,6 +846,50 @@
       "date": "2024-11-07",
       "views": 0,
       "likes": 0
+    },
+    {
+      "id": "Sometimes1",
+      "categoryDisplay": "Tính hiếm",
+      "categorySlug": "vocabulary#tinh-hiem-terms",
+      "title": "sometimes 1",
+      "content": "Chỉ sự không thường xuyên, xảy ra một cách ngẫu nhiên.",
+      "slug": "vocabulary/sometimes-1",
+      "date": "2024-11-05",
+      "views": 0,
+      "likes": 0
+    },
+    {
+      "id": "Sometimes2",
+      "categoryDisplay": "Tính hiếm",
+      "categorySlug": "vocabulary#tinh-hiem-terms",
+      "title": "sometimes 2",
+      "content": "Sometimes /ˈsʌmtaɪmz/ ⬤• (2x) là một trạng từ chỉ tần suất, dùng để diễn tả một hành động hoặc sự việc xảy ra không thường xuyên, có thể xảy ra hoặc không xảy ra.",
+      "slug": "vocabulary/sometimes-2",
+      "date": "2024-11-05",
+      "views": 0,
+      "likes": 0
+    },
+    {
+      "id": "Occasionally1",
+      "categoryDisplay": "Tính hiếm",
+      "categorySlug": "vocabulary#tinh-hiem-terms",
+      "title": "occasionally 1",
+      "content": "Từ \"occasionally\" được dùng để diễn tả một hành động xảy ra không thường xuyên, mà chỉ xảy ra trong một vài trường hợp hoặc một vài lần. Nó thể hiện sự không đều đặn, không liên tục của một sự việc.",
+      "slug": "vocabulary/occasionally-1",
+      "date": "2024-11-04",
+      "views": 0,
+      "likes": 0
+    },
+    {
+      "id": "Occasionally2",
+      "categoryDisplay": "Tính hiếm",
+      "categorySlug": "vocabulary#tinh-hiem-terms",
+      "title": "occasionally 2",
+      "content": "Occasionally /əˈkeɪʒənəli/ •⬤••• (5x) trong tiếng Anh có nghĩa là \"thỉnh thoảng\", \"đôi khi\". Từ này được dùng để chỉ những việc xảy ra không thường xuyên, không đều đặn.",
+      "slug": "vocabulary/occasionally-2",
+      "date": "2024-11-04",
+      "views": 0,
+      "likes": 0
     }
   ]
 }

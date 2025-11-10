@@ -191,11 +191,9 @@ export default function Often1(): React.JSX.Element {
           <ol>
 
             <li><Link to="/vocabulary/frequently-1">Frequently</Link>: Cách nói trang trọng hơn, nhấn mạnh tính thường xuyên.</li>
-
             <li className="list-none margin-bottom-20">She frequently attends conferences. (Cô ấy thường xuyên tham dự hội nghị.)</li>
 
             <li value="2"><span className="highlight-255-padding-0-4"><strong>Often</strong>: Cách nói thông thường</span>, dùng trong nhiều tình huống.</li>
-
             <li className="list-none margin-bottom-20">I <strong>often</strong> go to the park. (Tôi thường đi công viên.)</li>
 
           </ol>

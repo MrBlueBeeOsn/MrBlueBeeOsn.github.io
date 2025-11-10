@@ -108,7 +108,7 @@ const Posts = lazy(() => import('@/data/Posts'));
   const Genuinely1 = lazy(() => import('@/2_main/english/vocabulary/Genuinely1'));
   const Genuinely2 = lazy(() => import('@/2_main/english/vocabulary/Genuinely2'));
 
-  // 6. Vocabulary - Tính chắc chắn
+  // 7. Vocabulary - Tính chắc chắn
   const Certainly1 = lazy(() => import('@/2_main/english/vocabulary/Certainly1'));
   const Certainly2 = lazy(() => import('@/2_main/english/vocabulary/Certainly2'));
   const Definitely1 = lazy(() => import('@/2_main/english/vocabulary/Definitely1'));
@@ -118,7 +118,7 @@ const Posts = lazy(() => import('@/data/Posts'));
   const Surely1 = lazy(() => import('@/2_main/english/vocabulary/Surely1'));
   const Surely2 = lazy(() => import('@/2_main/english/vocabulary/Surely2'));
 
-  // 7. Vocabulary - Thời gian lặp lại
+  // 8. Vocabulary - Tính lặp lại
   const Again1 = lazy(() => import('@/2_main/english/vocabulary/Again1'));
   const Again2 = lazy(() => import('@/2_main/english/vocabulary/Again2'));
   const Often1 = lazy(() => import('@/2_main/english/vocabulary/Often1'));
@@ -127,6 +127,12 @@ const Posts = lazy(() => import('@/data/Posts'));
   const Repeatedly2 = lazy(() => import('@/2_main/english/vocabulary/Repeatedly2'));
   const Frequently1 = lazy(() => import('@/2_main/english/vocabulary/Frequently1'));
   const Frequently2 = lazy(() => import('@/2_main/english/vocabulary/Frequently2'));
+
+  // 9. Vocabulary - Tính hiếm
+  const Sometimes1 = lazy(() => import('@/2_main/english/vocabulary/Sometimes1'));
+  const Sometimes2 = lazy(() => import('@/2_main/english/vocabulary/Sometimes2'));
+  const Occasionally1 = lazy(() => import('@/2_main/english/vocabulary/Occasionally1'));
+  const Occasionally2 = lazy(() => import('@/2_main/english/vocabulary/Occasionally2'));
 
 // 3. Test Tailwind
 	const TestTailwind = lazy(() => import('@/components/TestTailwind'));
@@ -254,7 +260,7 @@ export default function AppRoutes(): React.JSX.Element {
           <Route path="/vocabulary/surely-1" element={<Surely1 />} />
           <Route path="/vocabulary/surely-2" element={<Surely2 />} />
 
-          {/* 8. Vocabulary - Thời gian lặp lại */}
+          {/* 8. Vocabulary - Tính lặp lại */}
           <Route path="/vocabulary/again-1" element={<Again1 />} />
           <Route path="/vocabulary/again-2" element={<Again2 />} />
           <Route path="/vocabulary/often-1" element={<Often1 />} />
@@ -263,6 +269,12 @@ export default function AppRoutes(): React.JSX.Element {
           <Route path="/vocabulary/repeatedly-2" element={<Repeatedly2 />} />
           <Route path="/vocabulary/frequently-1" element={<Frequently1 />} />
           <Route path="/vocabulary/frequently-2" element={<Frequently2 />} />
+
+          {/* 9. Vocabulary - Tính hiếm */}
+          <Route path="/vocabulary/sometimes-1" element={<Sometimes1 />} />
+          <Route path="/vocabulary/sometimes-2" element={<Sometimes2 />} />
+          <Route path="/vocabulary/occasionally-1" element={<Occasionally1 />} />
+          <Route path="/vocabulary/occasionally-2" element={<Occasionally2 />} />
 
           {/* 3. Test Tailwind */}
 					<Route path="/tailwindcss/test-tailwind" element={<TestTailwind />} />

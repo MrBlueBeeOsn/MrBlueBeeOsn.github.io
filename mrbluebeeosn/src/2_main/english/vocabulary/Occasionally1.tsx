@@ -5,9 +5,9 @@ import EyeIcon from '@/components/EyeIcon';
 import ViewCounter from '@/components/ViewCounter';
 import LikeButton from '@/components/LikeButton';
 
-export default function Again1(): React.JSX.Element {
+export default function Occasionally1(): React.JSX.Element {
 
-  const postId = "Again1";
+  const postId = "Occasionally1";
 
   return (<>
 
@@ -15,37 +15,37 @@ export default function Again1(): React.JSX.Element {
 
     <article>
     
-      <h4><HashLink smooth to="/vocabulary#tinh-lap-lai-terms"><mark className="highlight-tertiary-padding-4-8">Tính lặp lại</mark></HashLink></h4>
+      <h4><HashLink smooth to="/vocabulary#tinh-hiem-terms"><mark className="highlight-tertiary-padding-4-8">Tính hiếm</mark></HashLink></h4>
       
-      <h1 className="margin-y-50 text-center">again
-        <sup><Link to="/vocabulary/again-1">&nbsp;1&nbsp;</Link>
+      <h1 className="margin-y-50 text-center">occasionally
+        <sup><Link to="/vocabulary/occasionally-1">&nbsp;1&nbsp;</Link>
         </sup>
-        <sup><Link to="/vocabulary/again-2">&nbsp;2&nbsp;</Link>
+        <sup><Link to="/vocabulary/occasionally-2">&nbsp;2&nbsp;</Link>
         </sup>
       </h1>
 
       {/* This is the content of Vocabulary Term. */}
       
-      <p>Tuyệt vời! Chúng ta cùng đi sâu vào phân tích từ "<strong>again</strong>" nhé.</p>
+      <p>Tuyệt vời! Chúng ta cùng khám phá từ "<strong>occasionally</strong>" nhé.</p>
 
       <div className="text-border1 padding-top-20 padding-bottom-10 highlight-238-padding-4-8 bee-container">
 
         <div>
 
-          <p className="margin-bottom-20"><strong>Again</strong></p>
+          <p className="margin-bottom-20"><strong>Occasionally</strong></p>
 
           <ul className="list-square padding-left-40">
 
             <li>
               <span className="highlight-255-padding-3-6">
-                /əˈɡen/ + /<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">a̛gā̄in</Link>/
-                <sup>&nbsp;•⬤ (2x)</sup>
+                /əˈkeɪʒənəli/ + /<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">ơccāsiơna̛lly</Link>/
+                <sup>&nbsp;•⬤••• (5x)</sup>
               </span>
             </li>
 
             <li>Trạng từ (<Link to="/grammar/what-is-an-adverb?">adverb</Link>)</li>
 
-            <li>Tính lặp lại, một lần nữa</li>
+            <li>Tính thỉnh thoảng, đôi khi</li>
 
           </ul>
 
@@ -57,15 +57,15 @@ export default function Again1(): React.JSX.Element {
 
       </div>
 
-      <p className="margin-top-30 text-indent-whole">Chỉ việc lặp lại một hành động, sự việc hoặc trạng thái.</p>
+      <p className="margin-top-30 text-indent-whole">Từ "<strong>occasionally</strong>" được dùng để diễn tả một hành động xảy ra không thường xuyên, mà chỉ xảy ra trong một vài trường hợp hoặc một vài lần. Nó thể hiện sự không đều đặn, không liên tục của một sự việc.</p>
 
       <p className="text-indent-whole">Ví dụ:</p>
 
         <ul className="list-square">
 
-          <li>Can you say that <strong>again</strong>? (Bạn có thể nói lại điều đó được không?)</li>
+          <li>I <strong>occasionally</strong> go to the gym. (Tôi thỉnh thoảng đi tập gym.)</li>
 
-          <li>I've seen this movie before, but I want to watch it <strong>again</strong>. (Tôi đã xem bộ phim này rồi, nhưng tôi muốn xem lại.)</li>
+          <li>It rains <strong>occasionally</strong> in the desert. (Ở sa mạc thỉnh thoảng cũng có mưa.)</li>
 
         </ul>
 
@@ -81,8 +81,8 @@ export default function Again1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li><strong>Again</strong> and <strong>again</strong>: Lặp đi lặp lại /əˈɡen ænd əˈɡen/ - cụm trạng từ</li>
-          <li className="list-none">He kept asking the same question <strong>again</strong> and <strong>again</strong>. (Anh ấy cứ hỏi đi hỏi lại cùng một câu hỏi.)</li>
+          <li>Occasion (n): Dịp, cơ hội /əˈkeɪʒn/</li>
+          <li className="list-none">On special occasions, we wear formal clothes. (Trong những dịp đặc biệt, chúng ta mặc quần áo trang trọng.)</li>
 
         </ul>
 
@@ -98,11 +98,11 @@ export default function Again1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Once more: Một lần nữa /wʌns mɔːr/</li>
-          <li className="margin-bottom-20 list-none">Let's try once more. (Chúng ta hãy thử thêm một lần nữa.)</li>
+          <li><Link to="/vocabulary/sometimes-1">Sometimes</Link>: Đôi khi /ˈsʌmtaɪmz/</li>
+          <li className="margin-bottom-20 list-none">Sometimes I feel lonely. (Đôi khi tôi cảm thấy cô đơn.)</li>
 
-          <li><Link to="/vocabulary/repeatedly-1">Repeatedly</Link>: Lặp đi lặp lại /rɪˈpiː.tɪd.li/</li>
-          <li className="list-none">He repeatedly made the same mistake. (Anh ấy liên tục mắc cùng một lỗi lầm.)</li>
+          <li>Now and then: Thỉnh thoảng /naʊ ænd ðen/</li>
+          <li className="list-none">We meet up for coffee now and then. (Chúng tôi gặp nhau uống cà phê thỉnh thoảng.)</li>
 
         </ul>
 
@@ -120,11 +120,11 @@ export default function Again1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Once: Một lần /wʌns/ (chỉ xảy ra một lần, ngược lại với nhiều lần)</li>
-          <li className="margin-bottom-20 list-none">I've only done it once. (Tôi mới chỉ làm điều đó một lần.)</li>
+          <li>Always: Luôn luôn /ˈɔːlweɪz/</li>
+          <li className="margin-bottom-20 list-none">She is always on time. (Cô ấy luôn đúng giờ.)</li>
 
-          <li>For the first time: Lần đầu tiên /fɔːr ðə fɜːst taɪm/</li>
-          <li className="list-none">I'm seeing this movie for the first time. (Tôi đang xem bộ phim này lần đầu tiên.)</li>
+          <li>Never: Không bao giờ /ˈnevər/</li>
+          <li className="list-none">I never eat fast food. (Tôi không bao giờ ăn đồ ăn nhanh.)</li>
 
         </ul>
       
@@ -145,12 +145,12 @@ export default function Again1(): React.JSX.Element {
         <strong>&nbsp;với hình ảnh</strong>:
       </p>
 
-      <p className="text-indent-whole">Hãy tưởng tượng một chiếc đồng hồ quay trở lại vị trí ban đầu.</p>
+      <p className="text-indent-whole">Hình dung một người chỉ thỉnh thoảng mới đọc sách báo.</p>
 
         <ul className="list-square">
 
-          <li>The clock stopped working, but now it's started <strong>again</strong>.</li>
-          <li className="list-none">(Chiếc đồng hồ đã ngừng hoạt động, nhưng bây giờ nó đã bắt đầu lại.)</li>
+          <li>She only reads books and newspapers <strong>occasionally</strong>.</li>
+          <li className="list-none">(Cô ấy chỉ thỉnh thoảng đọc sách báo.)</li>
 
         </ul>
 
@@ -165,12 +165,12 @@ export default function Again1(): React.JSX.Element {
         <strong>&nbsp;ví dụ</strong>:
       </p>
 
-      <p className="text-indent-whole">Thử tạo càng nhiều câu ví dụ càng tốt với "<strong>again</strong>" trong các ngữ cảnh khác nhau.</p>
+      <p className="text-indent-whole">Tạo các câu ví dụ khác nhau với từ "<strong>occasionally</strong>" trong nhiều ngữ cảnh khác nhau.</p>
 
         <ul className="list-square">
 
-          <li>The price of gas is going up <strong>again</strong>.</li>
-          <li className="list-none">(Giá xăng lại tăng lên rồi.)</li>
+          <li>I <strong>occasionally</strong> bake cookies on weekends.</li>
+          <li className="list-none">(Tôi thỉnh thoảng nướng bánh quy vào cuối tuần.)</li>
 
         </ul>
 
@@ -185,19 +185,33 @@ export default function Again1(): React.JSX.Element {
         <strong>&nbsp;thường xuyên</strong>:
       </p>
 
-      <p className="text-indent-whole">Đọc và viết nhiều để củng cố vốn từ vựng và cách sử dụng của "<strong>again</strong>".</p>
+      <p className="text-indent-whole">Thường xuyên sử dụng từ này trong các cuộc hội thoại và bài viết.</p>
 
-        <p className="text-indent-whole">Ví dụ để so sánh (sự khác biệt giữa once more và <strong>again</strong>):</p>
+        <p className="text-indent-whole">Ví dụ để so sánh (sự khác biệt):</p>
+
+          {/* <ol>
+
+            <li></li>
+            <li className="list-none margin-bottom-20"></li>
+
+            <li value="2"></li>
+            <li className="list-none margin-bottom-20"></li>
+
+          </ol> */}
 
           <ol>
 
-            <li>Once more: Thường được dùng để nhấn mạnh sự lặp lại cuối cùng hoặc một nỗ lực cuối cùng.</li>
-            <li className="list-none margin-bottom-20">Let's try once more. (Chúng ta hãy thử thêm một lần nữa.)</li>
+            <li>I go to the movies. (Tôi đi xem phim.)</li>
 
-            <li value="2"><strong>Again</strong>: <span className="highlight-255-padding-0-4">Thường được dùng trong các tình huống thông thường</span>.</li>
-            <li className="list-none margin-bottom-20">Please repeat that <strong>again</strong>. (Làm ơn lặp lại điều đó.)</li>
+            <li className="margin-bottom-20">I <strong>occasionally</strong> go to the movies. (Tôi thỉnh thoảng đi xem phim.)</li>
 
           </ol>
+
+      <div className="margin-bottom-20 padding-top-20 text-border1 padding-10 highlight-238-padding-4-8 bee-container">
+
+        <p className="margin-y-10">Sự khác biệt: Câu thứ hai sử dụng "<strong>occasionally</strong>" để <span className="highlight-255-padding-0-4">nhấn mạnh rằng việc đi xem</span> phim <span className="highlight-255-padding-0-4">không phải là một hoạt động thường xuyên</span> của người nói.</p>
+
+      </div>
 
       {/* <span className="highlight-255-padding-0-4"></span> */}
 
@@ -211,9 +225,9 @@ export default function Again1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>"<strong>Again</strong>" thường đứng sau động từ.</li>
+          <li>Tần suất: "<strong>Occasionally</strong>" chỉ ra một tần suất thấp của một hành động.</li>
 
-          <li className="margin-bottom-20">"<strong>Again</strong>" có thể được dùng để nhấn mạnh một ý tưởng hoặc cảm xúc.</li>
+          <li className="margin-bottom-20">Không thường xuyên: Nó nhấn mạnh sự không đều đặn, không liên tục.</li>
 
         </ul>
 
@@ -224,7 +238,7 @@ export default function Again1(): React.JSX.Element {
       <div className="viewcounter">
       
         <div className="post-date no-margin">
-          <span>November 14, 2024 · by 💎Gem ·</span>
+          <span>November 4, 2024 · by 💎Gem ·</span>
         </div>
 
         <div className="eye-icon no-margin">
