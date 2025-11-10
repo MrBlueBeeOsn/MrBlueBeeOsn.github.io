@@ -44,7 +44,7 @@ export default function Repeatedly2(): React.JSX.Element {
               
               /rɪˈpiːtɪdli/ + /
               
-              <Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">rėpėatėdly</Link>/ 
+              <Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">rėpēatėdly</Link>/ 
               
               <sup>&nbsp;•⬤•• (4x)</sup>
               
