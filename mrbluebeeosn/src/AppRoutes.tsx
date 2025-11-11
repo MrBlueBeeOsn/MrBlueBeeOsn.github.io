@@ -143,12 +143,22 @@ const Posts = lazy(() => import('@/data/Posts'));
   const Always2 = lazy(() => import('@/2_main/english/vocabulary/Always2'));
   const Yes1 = lazy(() => import('@/2_main/english/vocabulary/Yes1'));
   const Yes2 = lazy(() => import('@/2_main/english/vocabulary/Yes2'));
+  const Ever1 = lazy(() => import('@/2_main/english/vocabulary/Ever1'));
+  const Ever2 = lazy(() => import('@/2_main/english/vocabulary/Ever2'));
 
   // 11. Vocabulary - Tính không liên tục
   const No1 = lazy(() => import('@/2_main/english/vocabulary/No1'));
   const No2 = lazy(() => import('@/2_main/english/vocabulary/No2'));
   const Not1 = lazy(() => import('@/2_main/english/vocabulary/Not1'));
   const Not2 = lazy(() => import('@/2_main/english/vocabulary/Not2'));
+  const Never1 = lazy(() => import('@/2_main/english/vocabulary/Never1'));
+  const Never2 = lazy(() => import('@/2_main/english/vocabulary/Never2'));
+
+  // 12. Vocabulary - Tính mức độ
+  const So1 = lazy(() => import('@/2_main/english/vocabulary/So1'));
+  const So2 = lazy(() => import('@/2_main/english/vocabulary/So2'));
+  const Very1 = lazy(() => import('@/2_main/english/vocabulary/Very1'));
+  const Very2 = lazy(() => import('@/2_main/english/vocabulary/Very2'));
 
 // 3. Test Tailwind
 	const TestTailwind = lazy(() => import('@/components/TestTailwind'));
@@ -301,12 +311,22 @@ export default function AppRoutes(): React.JSX.Element {
           <Route path="/vocabulary/always-2" element={<Always2 />} />
           <Route path="/vocabulary/yes-1" element={<Yes1 />} />
           <Route path="/vocabulary/yes-2" element={<Yes2 />} />
+          <Route path="/vocabulary/ever-1" element={<Ever1 />} />
+          <Route path="/vocabulary/ever-2" element={<Ever2 />} />
 
           {/* 11. Vocabulary - Tính không liên tục */}
           <Route path="/vocabulary/no-1" element={<No1 />} />
           <Route path="/vocabulary/no-2" element={<No2 />} />
           <Route path="/vocabulary/not-1" element={<Not1 />} />
           <Route path="/vocabulary/not-2" element={<Not2 />} />
+          <Route path="/vocabulary/never-1" element={<Never1 />} />
+          <Route path="/vocabulary/never-2" element={<Never2 />} />
+
+          {/* 12. Vocabulary - Tính mức độ */}
+          <Route path="/vocabulary/so-1" element={<So1 />} />
+          <Route path="/vocabulary/so-2" element={<So2 />} />
+          <Route path="/vocabulary/very-1" element={<Very1 />} />
+          <Route path="/vocabulary/very-2" element={<Very2 />} />
 
           {/* 3. Test Tailwind */}
 					<Route path="/tailwindcss/test-tailwind" element={<TestTailwind />} />

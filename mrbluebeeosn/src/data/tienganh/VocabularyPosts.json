@@ -541,6 +541,24 @@
 			"date": "2024-12-28"
 		},
 		{ 
+			"id": "Ever1",
+			"categoryDisplay": "Tính liên tục",
+			"categorySlug": "vocabulary#tinh-lien-tuc-terms",
+			"title": "ever 1",
+			"content": "Sử dụng trong câu hỏi để hỏi về một trải nghiệm hoặc sự kiện đã xảy ra trong quá khứ. Sử dụng trong câu khẳng định để nhấn mạnh một trải nghiệm hoặc sự kiện đã xảy ra hoặc có thể xảy ra.",
+			"slug": "vocabulary/ever-1",
+			"date": "2024-11-12"
+		},
+		{ 
+			"id": "Ever2",
+			"categoryDisplay": "Tính liên tục",
+			"categorySlug": "vocabulary#tinh-lien-tuc-terms",
+			"title": "ever 2",
+			"content": "Ever /ˈev.ər/ ⬤• (2x) thường được dùng để nhấn mạnh tính chất bao quát, trải nghiệm, hoặc sự so sánh cao nhất.",
+			"slug": "vocabulary/ever-2",
+			"date": "2024-11-12"
+		},
+		{ 
 			"id": "No1",
 			"categoryDisplay": "Tính không liên tục",
 			"categorySlug": "vocabulary#tinh-khong-lien-tuc-terms",
@@ -575,6 +593,60 @@
 			"content": "Not /nɒt/ ⬤ (1x) là một từ phủ định rất quan trọng, được dùng để tạo ra câu phủ định.",
 			"slug": "vocabulary/not-2",
 			"date": "2024-11-08"
+		},
+		{ 
+			"id": "Never1",
+			"categoryDisplay": "Tính không liên tục",
+			"categorySlug": "vocabulary#tinh-khong-lien-tuc-terms",
+			"title": "never 1",
+			"content": "Chỉ sự phủ định hoàn toàn về một hành động, sự việc xảy ra ở bất kỳ thời điểm nào trong quá khứ, hiện tại hoặc tương lai.",
+			"slug": "vocabulary/never-1",
+			"date": "2024-11-12"
+		},
+		{ 
+			"id": "Never2",
+			"categoryDisplay": "Tính không liên tục",
+			"categorySlug": "vocabulary#tinh-khong-lien-tuc-terms",
+			"title": "never 2",
+			"content": "Never /ˈnevər/ ⬤• (2x) là một trạng từ chỉ tần suất, dùng để diễn tả một hành động hoặc sự việc không xảy ra bao giờ cả.",
+			"slug": "vocabulary/never-2",
+			"date": "2024-11-12"
+		},
+		{ 
+			"id": "So1",
+			"categoryDisplay": "Tính mức độ",
+			"categorySlug": "vocabulary#tinh-muc-do-terms",
+			"title": "so 1",
+			"content": "1. Rất, quá (trạng từ mức độ): Dùng để nhấn mạnh mức độ của một tính từ hoặc trạng từ. | 2. Như vậy, thế đó (trạng từ cách thức/mức độ): Dùng để thay thế cho một ý đã được đề cập trước, tránh lặp lại.",
+			"slug": "vocabulary/so-1",
+			"date": "2025-06-26"
+		},
+		{ 
+			"id": "So2",
+			"categoryDisplay": "Tính mức độ",
+			"categorySlug": "vocabulary#tinh-muc-do-terms",
+			"title": "so 2",
+			"content": "So /soʊ/ ⬤ (1x) là một trạng từ rất linh hoạt, có thể dùng để nhấn mạnh mức độ, chỉ kết quả hoặc đồng ý với một điều gì đó.",
+			"slug": "vocabulary/so-2",
+			"date": "2025-06-26"
+		},
+		{ 
+			"id": "Very1",
+			"categoryDisplay": "Tính mức độ",
+			"categorySlug": "vocabulary#tinh-muc-do-terms",
+			"title": "very 1",
+			"content": "Dùng để nhấn mạnh mức độ của một tính từ hoặc một trạng từ khác, cho thấy một đặc điểm nào đó ở mức độ cao.",
+			"slug": "vocabulary/very-1",
+			"date": "2024-11-12"
+		},
+		{ 
+			"id": "Very2",
+			"categoryDisplay": "Tính mức độ",
+			"categorySlug": "vocabulary#tinh-muc-do-terms",
+			"title": "very 2",
+			"content": "Very /ˈveri/ ⬤• (2x) thường được dùng để nhấn mạnh mức độ của một tính từ hoặc một trạng từ khác.",
+			"slug": "vocabulary/very-2",
+			"date": "2024-11-12"
 		}
 	]
 }
