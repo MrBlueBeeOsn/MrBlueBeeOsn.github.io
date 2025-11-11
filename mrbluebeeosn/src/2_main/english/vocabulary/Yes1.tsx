@@ -45,7 +45,7 @@ export default function Yes1(): React.JSX.Element {
 
             <li>Trạng từ (<Link to="/grammar/what-is-an-adverb?">adverb</Link>)</li>
 
-            <li>Có</li>
+            <li>Tính có</li>
 
           </ul>
 

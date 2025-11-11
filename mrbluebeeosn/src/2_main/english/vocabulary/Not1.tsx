@@ -47,7 +47,7 @@ export default function Not1(): React.JSX.Element {
 
             <li>Trạng từ phủ định(negative <Link to="/grammar/what-is-an-adverb?">adverb</Link>)</li>
 
-            <li>Không</li>
+            <li>Tính không</li>
 
           </ul>
 

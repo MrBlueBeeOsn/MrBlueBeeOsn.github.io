@@ -45,7 +45,7 @@ export default function No1(): React.JSX.Element {
 
             <li>Trạng từ (<Link to="/grammar/what-is-an-adverb?">adverb</Link>)</li>
 
-            <li>Không</li>
+            <li>Tính không</li>
 
           </ul>
 
