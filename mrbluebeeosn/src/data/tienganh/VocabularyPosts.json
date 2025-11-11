@@ -467,6 +467,60 @@
 			"content": "Occasionally /əˈkeɪʒənəli/ •⬤••• (5x) trong tiếng Anh có nghĩa là \"thỉnh thoảng\", \"đôi khi\". Từ này được dùng để chỉ những việc xảy ra không thường xuyên, không đều đặn.",
 			"slug": "vocabulary/occasionally-2",
 			"date": "2024-11-04"
+		},
+		{ 
+			"id": "Seldom1",
+			"categoryDisplay": "Tính hiếm",
+			"categorySlug": "vocabulary#tinh-hiem-terms",
+			"title": "seldom 1",
+			"content": "Chỉ một hành động hoặc sự việc xảy ra không thường xuyên, rất ít lần.",
+			"slug": "vocabulary/seldom-1",
+			"date": "2024-11-15"
+		},
+		{ 
+			"id": "Seldom2",
+			"categoryDisplay": "Tính hiếm",
+			"categorySlug": "vocabulary#tinh-hiem-terms",
+			"title": "seldom 2",
+			"content": "Seldom /ˈsɛldəm/ ⬤• (2x) là một trạng từ chỉ tần suất, dùng để diễn tả một hành động hoặc sự việc xảy ra rất ít lần.",
+			"slug": "vocabulary/seldom-2",
+			"date": "2024-11-15"
+		},
+		{ 
+			"id": "Rarely1",
+			"categoryDisplay": "Tính hiếm",
+			"categorySlug": "vocabulary#tinh-hiem-terms",
+			"title": "rarely 1",
+			"content": "Từ \"rarely\" dùng để diễn tả một hành động, sự việc xảy ra không thường xuyên, ít gặp. Nó cho thấy tần suất thấp của một sự kiện.",
+			"slug": "vocabulary/rarely-1",
+			"date": "2024-11-15"
+		},
+		{ 
+			"id": "Rarely2",
+			"categoryDisplay": "Tính hiếm",
+			"categorySlug": "vocabulary#tinh-hiem-terms",
+			"title": "rarely 2",
+			"content": "Rarely /ˈrerli/ ⬤• (2x) là một trạng từ dùng để diễn tả một hành động, sự việc hoặc tình huống xảy ra không thường xuyên, ít khi hoặc hiếm có.",
+			"slug": "vocabulary/rarely-2",
+			"date": "2024-11-15"
+		},
+		{ 
+			"id": "Always1",
+			"categoryDisplay": "Tính liên tục",
+			"categorySlug": "vocabulary#tinh-lien-tuc-terms",
+			"title": "always 1",
+			"content": "Diễn tả một hành động, sự việc xảy ra liên tục, không thay đổi trong mọi trường hợp và thời gian.",
+			"slug": "vocabulary/always-1",
+			"date": "2024-11-05"
+		},
+		{ 
+			"id": "Always2",
+			"categoryDisplay": "Tính liên tục",
+			"categorySlug": "vocabulary#tinh-lien-tuc-terms",
+			"title": "always 2",
+			"content": "Always /ˈɔːl.weɪz/ ⬤• (2x) là một trạng từ chỉ tần suất, dùng để diễn tả một hành động hoặc sự việc xảy ra mọi lúc, không có ngoại lệ.",
+			"slug": "vocabulary/always-2",
+			"date": "2024-11-05"
 		}
 	]
 }

@@ -129,10 +129,18 @@ const Posts = lazy(() => import('@/data/Posts'));
   const Frequently2 = lazy(() => import('@/2_main/english/vocabulary/Frequently2'));
 
   // 9. Vocabulary - Tính hiếm
+  const Seldom1 = lazy(() => import('@/2_main/english/vocabulary/Seldom1'));
+  const Seldom2 = lazy(() => import('@/2_main/english/vocabulary/Seldom2'));
   const Sometimes1 = lazy(() => import('@/2_main/english/vocabulary/Sometimes1'));
   const Sometimes2 = lazy(() => import('@/2_main/english/vocabulary/Sometimes2'));
+  const Rarely1 = lazy(() => import('@/2_main/english/vocabulary/Rarely1'));
+  const Rarely2 = lazy(() => import('@/2_main/english/vocabulary/Rarely2'));
   const Occasionally1 = lazy(() => import('@/2_main/english/vocabulary/Occasionally1'));
   const Occasionally2 = lazy(() => import('@/2_main/english/vocabulary/Occasionally2'));
+
+  // 10. Vocabulary - Tính liên tục
+  const Always1 = lazy(() => import('@/2_main/english/vocabulary/Always1'));
+  const Always2 = lazy(() => import('@/2_main/english/vocabulary/Always2'));
 
 // 3. Test Tailwind
 	const TestTailwind = lazy(() => import('@/components/TestTailwind'));
@@ -271,10 +279,18 @@ export default function AppRoutes(): React.JSX.Element {
           <Route path="/vocabulary/frequently-2" element={<Frequently2 />} />
 
           {/* 9. Vocabulary - Tính hiếm */}
+          <Route path="/vocabulary/seldom-1" element={<Seldom1 />} />
+          <Route path="/vocabulary/seldom-2" element={<Seldom2 />} />
           <Route path="/vocabulary/sometimes-1" element={<Sometimes1 />} />
           <Route path="/vocabulary/sometimes-2" element={<Sometimes2 />} />
+          <Route path="/vocabulary/rarely-1" element={<Rarely1 />} />
+          <Route path="/vocabulary/rarely-2" element={<Rarely2 />} />
           <Route path="/vocabulary/occasionally-1" element={<Occasionally1 />} />
           <Route path="/vocabulary/occasionally-2" element={<Occasionally2 />} />
+
+          {/* 10. Vocabulary - Tính liên tục */}
+          <Route path="/vocabulary/always-1" element={<Always1 />} />
+          <Route path="/vocabulary/always-2" element={<Always2 />} />
 
           {/* 3. Test Tailwind */}
 					<Route path="/tailwindcss/test-tailwind" element={<TestTailwind />} />

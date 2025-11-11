@@ -5,9 +5,9 @@ import EyeIcon from '@/components/EyeIcon';
 import ViewCounter from '@/components/ViewCounter';
 import LikeButton from '@/components/LikeButton';
 
-export default function (): React.JSX.Element {
+export default function Rarely1(): React.JSX.Element {
 
-  const postId = "";
+  const postId = "Rarely1";
 
   return (<>
 
@@ -15,37 +15,37 @@ export default function (): React.JSX.Element {
 
     <article>
     
-      <h4><HashLink smooth to="/vocabulary#tinh-lien-tuc-terms"><mark className="highlight-tertiary-padding-4-8">Tính liên tục</mark></HashLink></h4>
+      <h4><HashLink smooth to="/vocabulary#tinh-hiem-terms"><mark className="highlight-tertiary-padding-4-8">Tính hiếm</mark></HashLink></h4>
       
-      <h1 className="margin-y-50 text-center">ly
-        <sup><Link to="/vocabulary/ly-1">&nbsp;1&nbsp;</Link>
+      <h1 className="margin-y-50 text-center">rarely
+        <sup><Link to="/vocabulary/rarely-1">&nbsp;1&nbsp;</Link>
         </sup>
-        <sup><Link to="/vocabulary/ly-2">&nbsp;2&nbsp;</Link>
+        <sup><Link to="/vocabulary/rarely-2">&nbsp;2&nbsp;</Link>
         </sup>
       </h1>
 
       {/* This is the content of Vocabulary Term. */}
       
-      <p>Tuyệt vời! </p>
+      <p>Tuyệt vời! Chúng ta cùng khám phá từ "<strong>rarely</strong>" nhé.</p>
 
       <div className="text-border1 padding-top-20 padding-bottom-10 highlight-238-padding-4-8 bee-container">
 
         <div>
 
-          <p className="margin-bottom-20"><strong>ly</strong></p>
+          <p className="margin-bottom-20"><strong>Rarely</strong></p>
 
           <ul className="list-square padding-left-40">
 
             <li>
               <span className="highlight-255-padding-3-6">
-                /i/ + /<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">ly</Link>/
-                <sup>&nbsp;⬤</sup>
+                /ˈrerli/ + /<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">rā̄rely</Link>/
+                <sup>&nbsp;⬤• (2x)</sup>
               </span>
             </li>
 
             <li>Trạng từ (<Link to="/grammar/what-is-an-adverb?">adverb</Link>)</li>
 
-            <li>Tính </li>
+            <li>Tính hiếm khi, ít khi</li>
 
           </ul>
 
@@ -57,15 +57,15 @@ export default function (): React.JSX.Element {
 
       </div>
 
-      <p className="margin-top-30 text-indent-whole">Từ "<strong>ly</strong>" </p>
+      <p className="margin-top-30 text-indent-whole">Từ "<strong>rarely</strong>" dùng để diễn tả một hành động, sự việc xảy ra không thường xuyên, ít gặp. Nó cho thấy tần suất thấp của một sự kiện.</p>
 
       <p className="text-indent-whole">Ví dụ:</p>
 
         <ul className="list-square">
 
-          <li></li>
+          <li>I <strong>rarely</strong> eat meat. (Tôi hiếm khi ăn thịt.)</li>
 
-          <li></li>
+          <li>She <strong>rarely</strong> goes to the movies. (Cô ấy hiếm khi đi xem phim.)</li>
 
         </ul>
 
@@ -81,14 +81,8 @@ export default function (): React.JSX.Element {
 
         <ul className="list-square">
 
-          {/* <li></li>
-          <li className="margin-bottom-20 list-none"></li>
-
-          <li></li>
-          <li className="margin-bottom-20 list-none"></li> */}
-
-          <li></li>
-          <li className="list-none"></li>
+          <li>Rare (adj): Hiếm /reər/</li>
+          <li className="list-none">This is a rare book. (Đây là một cuốn sách hiếm.)</li>
 
         </ul>
 
@@ -104,14 +98,11 @@ export default function (): React.JSX.Element {
 
         <ul className="list-square">
 
-          {/* <li></li>
-          <li className="margin-bottom-20 list-none"></li> */}
+          <li><Link to="/vocabulary/seldom-1">Seldom</Link>: Hiếm khi /ˈseldəm/</li>
+          <li className="margin-bottom-20 list-none">I seldom see him these days. (Tôi hiếm khi gặp anh ấy những ngày này.)</li>
 
-          <li></li>
-          <li className="margin-bottom-20 list-none"></li>
-
-          <li></li>
-          <li className="list-none"></li>
+          <li>Infrequently: Không thường xuyên /ɪnˈfriːkwəntli/</li>
+          <li className="list-none">She infrequently visits her parents. (Cô ấy không thường xuyên đến thăm ba mẹ.)</li>
 
         </ul>
 
@@ -129,14 +120,11 @@ export default function (): React.JSX.Element {
 
         <ul className="list-square">
 
-          {/* <li></li>
-          <li className="margin-bottom-20 list-none"></li> */}
+          <li><Link to="/vocabulary/frequently-1">Frequently</Link>: Thường xuyên /ˈfriːkwəntli/</li>
+          <li className="margin-bottom-20 list-none">I frequently go to the gym. (Tôi thường xuyên đến phòng tập thể dục.)</li>
 
-          <li></li>
-          <li className="margin-bottom-20 list-none"></li>
-
-          <li></li>
-          <li className="list-none"></li>
+          <li><Link to="/vocabulary/often-1">Often</Link>: Thường xuyên /ˈɔːfən/</li>
+          <li className="list-none">She often cooks dinner. (Cô ấy thường nấu bữa tối.)</li>
 
         </ul>
       
@@ -157,15 +145,15 @@ export default function (): React.JSX.Element {
         <strong>&nbsp;với hình ảnh</strong>:
       </p>
 
-      <p className="text-indent-whole"></p>
+      <p className="text-indent-whole">Hình dung một chiếc đồng hồ hiếm khi chạy hoặc một loài động vật quý hiếm.</p>
 
         <ul className="list-square">
 
           {/* <li></li>
           <li className="margin-bottom-20 list-none"></li> */}
 
-          <li></li>
-          <li className="list-none"></li>
+          <li>This animal is <strong>rarely</strong> seen in the wild.</li>
+          <li className="list-none">(Loài động vật này hiếm khi được nhìn thấy trong tự nhiên.)</li>
 
         </ul>
 
@@ -180,15 +168,12 @@ export default function (): React.JSX.Element {
         <strong>&nbsp;ví dụ</strong>:
       </p>
 
-      <p className="text-indent-whole"></p>
+      <p className="text-indent-whole">Tự tạo các câu ví dụ khác nhau với từ "<strong>rarely</strong>" trong nhiều ngữ cảnh khác nhau.</p>
 
         <ul className="list-square">
 
-          {/* <li></li>
-          <li className="margin-bottom-20 list-none"></li> */}
-
-          <li></li>
-          <li className="list-none"></li>
+          <li>She <strong>rarely</strong> goes out on weekdays.</li>
+          <li className="list-none">(Cô ấy hiếm khi ra ngoài vào các ngày trong tuần.)</li>
 
         </ul>
 
@@ -203,7 +188,7 @@ export default function (): React.JSX.Element {
         <strong>&nbsp;thường xuyên</strong>:
       </p>
 
-      <p className="text-indent-whole"></p>
+      <p className="text-indent-whole">Thường xuyên sử dụng từ này trong các cuộc hội thoại để diễn tả sự hiếm hoi.</p>
 
         <p className="text-indent-whole">Ví dụ để so sánh (sự khác biệt):</p>
 
@@ -217,19 +202,19 @@ export default function (): React.JSX.Element {
 
           </ol> */}
 
-          {/* <ol>
+          <ol>
 
-            <li></li>
+            <li>I go to the library. (Tôi đi thư viện.)</li>
 
-            <li className="margin-bottom-20"></li>
+            <li className="margin-bottom-20">I <strong>rarely</strong> go to the library. (Tôi hiếm khi đi thư viện.)</li>
 
           </ol>
 
       <div className="margin-bottom-20 padding-top-20 text-border1 padding-10 highlight-238-padding-4-8 bee-container">
 
-        <p className="margin-y-10">Sự khác biệt: </p>
+        <p className="margin-y-10">Sự khác biệt: Câu thứ hai <span className="highlight-255-padding-0-4">nhấn mạnh rằng việc đi</span> thư viện <span className="highlight-255-padding-0-4">không</span> phải là một thói quen <span className="highlight-255-padding-0-4">thường xuyên</span> của người nói.</p>
 
-      </div> */}
+      </div>
 
       {/* <span className="highlight-255-padding-0-4"></span> */}
 
@@ -243,9 +228,9 @@ export default function (): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li></li>
+          <li>Tần suất: "<strong>Rarely</strong>" nhấn mạnh sự hiếm hoi của một hành động hoặc sự kiện.</li>
 
-          <li className="margin-bottom-20"></li>
+          <li className="margin-bottom-20">Phủ định: Đôi khi, "<strong>rarely</strong>" được dùng để nhấn mạnh ý nghĩa phủ định của một câu.</li>
 
         </ul>
 
@@ -256,7 +241,7 @@ export default function (): React.JSX.Element {
       <div className="viewcounter">
       
         <div className="post-date no-margin">
-          <span> · by 💎Gem ·</span>
+          <span>November 15, 2024 · by 💎Gem ·</span>
         </div>
 
         <div className="eye-icon no-margin">

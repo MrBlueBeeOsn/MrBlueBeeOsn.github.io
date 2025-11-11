@@ -30,9 +30,43 @@ export default function VocabularyIndex(): React.JSX.Element {
 
 				<details className="sub-box-fix">
 			
+					<summary id="tinh-lien-tuc-terms"><mark className="highlight-secondary-padding-2-4">Tính liên tục</mark></summary>
+
+					<ul className="list-border1">
+
+						<li>
+							<Link to="/vocabulary/always-1">always
+								<sup>&nbsp;1&nbsp;</sup>
+									</Link> 
+									<Link to="/vocabulary/always-2">
+								<sup>&nbsp;2&nbsp;</sup>
+							</Link>
+						</li>
+
+						
+						
+					</ul>
+
+				</details>
+
+				{/* =============================
+							Tính lặp lại
+				============================= */}
+
+				<details className="sub-box-fix">
+			
 					<summary id="tinh-hiem-terms"><mark className="highlight-secondary-padding-2-4">Tính hiếm</mark></summary>
 
 					<ul className="list-border1">
+
+						<li>
+							<Link to="/vocabulary/seldom-1">seldom
+								<sup>&nbsp;1&nbsp;</sup>
+									</Link> 
+									<Link to="/vocabulary/seldom-2">
+								<sup>&nbsp;2&nbsp;</sup>
+							</Link>
+						</li>
 
 						<li>
 							<Link to="/vocabulary/sometimes-1">sometimes
@@ -44,6 +78,15 @@ export default function VocabularyIndex(): React.JSX.Element {
 						</li>
 
 						<li>
+							<Link to="/vocabulary/rarely-1">rarely
+								<sup>&nbsp;1&nbsp;</sup>
+									</Link> 
+									<Link to="/vocabulary/rarely-2">
+								<sup>&nbsp;2&nbsp;</sup>
+							</Link>
+						</li>
+						
+						<li>
 							<Link to="/vocabulary/occasionally-1">occasionally
 								<sup>&nbsp;1&nbsp;</sup>
 									</Link> 
@@ -51,8 +94,6 @@ export default function VocabularyIndex(): React.JSX.Element {
 								<sup>&nbsp;2&nbsp;</sup>
 							</Link>
 						</li>
-						
-						
 						
 					</ul>
 

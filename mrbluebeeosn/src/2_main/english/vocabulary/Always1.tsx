@@ -5,9 +5,9 @@ import EyeIcon from '@/components/EyeIcon';
 import ViewCounter from '@/components/ViewCounter';
 import LikeButton from '@/components/LikeButton';
 
-export default function (): React.JSX.Element {
+export default function Always1(): React.JSX.Element {
 
-  const postId = "";
+  const postId = "Always1";
 
   return (<>
 
@@ -17,35 +17,35 @@ export default function (): React.JSX.Element {
     
       <h4><HashLink smooth to="/vocabulary#tinh-lien-tuc-terms"><mark className="highlight-tertiary-padding-4-8">Tính liên tục</mark></HashLink></h4>
       
-      <h1 className="margin-y-50 text-center">ly
-        <sup><Link to="/vocabulary/ly-1">&nbsp;1&nbsp;</Link>
+      <h1 className="margin-y-50 text-center">always
+        <sup><Link to="/vocabulary/always-1">&nbsp;1&nbsp;</Link>
         </sup>
-        <sup><Link to="/vocabulary/ly-2">&nbsp;2&nbsp;</Link>
+        <sup><Link to="/vocabulary/always-2">&nbsp;2&nbsp;</Link>
         </sup>
       </h1>
 
       {/* This is the content of Vocabulary Term. */}
       
-      <p>Tuyệt vời! </p>
+      <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>always</strong>" và các thành ngữ liên quan nhé.</p>
 
       <div className="text-border1 padding-top-20 padding-bottom-10 highlight-238-padding-4-8 bee-container">
 
         <div>
 
-          <p className="margin-bottom-20"><strong>ly</strong></p>
+          <p className="margin-bottom-20"><strong>Always</strong></p>
 
           <ul className="list-square padding-left-40">
 
             <li>
               <span className="highlight-255-padding-3-6">
-                /i/ + /<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">ly</Link>/
-                <sup>&nbsp;⬤</sup>
+                /ˈɔːl.weɪz/ + /<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">ålwāys</Link>/
+                <sup>&nbsp;⬤• (2x)</sup>
               </span>
             </li>
 
             <li>Trạng từ (<Link to="/grammar/what-is-an-adverb?">adverb</Link>)</li>
 
-            <li>Tính </li>
+            <li>Tính luôn luôn, mọi lúc</li>
 
           </ul>
 
@@ -57,15 +57,15 @@ export default function (): React.JSX.Element {
 
       </div>
 
-      <p className="margin-top-30 text-indent-whole">Từ "<strong>ly</strong>" </p>
+      <p className="margin-top-30 text-indent-whole">Diễn tả một hành động, sự việc xảy ra liên tục, không thay đổi trong mọi trường hợp và thời gian.</p>
 
       <p className="text-indent-whole">Ví dụ:</p>
 
         <ul className="list-square">
 
-          <li></li>
+          <li>She <strong>always</strong> arrives on time. (Cô ấy luôn đến đúng giờ.)</li>
 
-          <li></li>
+          <li>My mother <strong>always</strong> cooks breakfast for us. (Mẹ tôi luôn nấu bữa sáng cho chúng tôi.)</li>
 
         </ul>
 
@@ -81,14 +81,7 @@ export default function (): React.JSX.Element {
 
         <ul className="list-square">
 
-          {/* <li></li>
-          <li className="margin-bottom-20 list-none"></li>
-
-          <li></li>
-          <li className="margin-bottom-20 list-none"></li> */}
-
-          <li></li>
-          <li className="list-none"></li>
+          <li className="list-none">Không có gia đình từ trực tiếp cho "<strong>always</strong>".</li>
 
         </ul>
 
@@ -104,14 +97,11 @@ export default function (): React.JSX.Element {
 
         <ul className="list-square">
 
-          {/* <li></li>
-          <li className="margin-bottom-20 list-none"></li> */}
+          <li>Constantly: Liên tục /ˈkɒn.stənt.li/</li>
+          <li className="margin-bottom-20 list-none">He is constantly complaining. (Anh ấy liên tục phàn nàn.)</li>
 
-          <li></li>
-          <li className="margin-bottom-20 list-none"></li>
-
-          <li></li>
-          <li className="list-none"></li>
+          <li>Perpetually: Vĩnh viễn, liên tục /pəˈpet.ʃu.ə.li/</li>
+          <li className="list-none">She is perpetually late. (Cô ấy luôn luôn đến muộn.)</li>
 
         </ul>
 
@@ -129,14 +119,11 @@ export default function (): React.JSX.Element {
 
         <ul className="list-square">
 
-          {/* <li></li>
-          <li className="margin-bottom-20 list-none"></li> */}
+          <li>Never: (adv) Không bao giờ /ˈnev.ər/</li>
+          <li className="margin-bottom-20 list-none">I have never been to Paris. (Tôi chưa bao giờ đến Paris.)</li>
 
-          <li></li>
-          <li className="margin-bottom-20 list-none"></li>
-
-          <li></li>
-          <li className="list-none"></li>
+          <li><Link to="/vocabulary/seldom-1">Seldom</Link>: (adv) Hiếm khi /ˈsel.dəm/</li>
+          <li className="list-none">She seldom goes to the cinema. (Cô ấy hiếm khi đi xem phim.)</li>
 
         </ul>
       
@@ -157,15 +144,12 @@ export default function (): React.JSX.Element {
         <strong>&nbsp;với hình ảnh</strong>:
       </p>
 
-      <p className="text-indent-whole"></p>
+      <p className="text-indent-whole">Hình dung một đồng hồ luôn chỉ đúng giờ.</p>
 
         <ul className="list-square">
 
-          {/* <li></li>
-          <li className="margin-bottom-20 list-none"></li> */}
-
-          <li></li>
-          <li className="list-none"></li>
+          <li>This clock is <strong>always</strong> on time.</li>
+          <li className="list-none">(Đồng hồ này luôn đúng giờ.)</li>
 
         </ul>
 
@@ -180,15 +164,12 @@ export default function (): React.JSX.Element {
         <strong>&nbsp;ví dụ</strong>:
       </p>
 
-      <p className="text-indent-whole"></p>
+      <p className="text-indent-whole">Tạo nhiều câu với "<strong>always</strong>" trong các ngữ cảnh khác nhau, liên quan đến thói quen, đặc điểm, sự thật hiển nhiên.</p>
 
         <ul className="list-square">
 
-          {/* <li></li>
-          <li className="margin-bottom-20 list-none"></li> */}
-
-          <li></li>
-          <li className="list-none"></li>
+          <li>He <strong>always</strong> gets up at 6 AM.</li>
+          <li className="list-none">(Anh ấy luôn dậy lúc 6 giờ sáng.)</li>
 
         </ul>
 
@@ -203,19 +184,19 @@ export default function (): React.JSX.Element {
         <strong>&nbsp;thường xuyên</strong>:
       </p>
 
-      <p className="text-indent-whole"></p>
+      <p className="text-indent-whole">Thường xuyên sử dụng từ "<strong>always</strong>" trong giao tiếp hoặc khi viết.</p>
 
-        <p className="text-indent-whole">Ví dụ để so sánh (sự khác biệt):</p>
+        <p className="text-indent-whole">Ví dụ để so sánh (sự khác biệt giữa constantly và <strong>always</strong>):</p>
 
-          {/* <ol>
+          <ol>
 
-            <li></li>
-            <li className="list-none margin-bottom-20"></li>
+            <li>Constantly: Nhấn mạnh tính chất liên tục và lặp đi lặp lại của một hành động.</li>
+            <li className="list-none margin-bottom-20">She is constantly talking on the phone. (Cô ấy liên tục nói chuyện điện thoại.)</li>
 
-            <li value="2"></li>
-            <li className="list-none margin-bottom-20"></li>
+            <li value="2"><strong>Always</strong>: <span className="highlight-255-padding-0-4">Nhấn mạnh tính chất vĩnh cửu và tuyệt đối của một hành động</span>.</li>
+            <li className="list-none margin-bottom-20">The sun <strong>always</strong> rises in the east. (Mặt trời luôn mọc ở hướng đông.)</li>
 
-          </ol> */}
+          </ol>
 
           {/* <ol>
 
@@ -243,9 +224,9 @@ export default function (): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li></li>
+          <li>"<strong>Always</strong>" thường được đặt ở đầu câu hoặc trước động từ chính.</li>
 
-          <li className="margin-bottom-20"></li>
+          <li className="margin-bottom-20">Nó thể hiện một sự chắc chắn và tuyệt đối về tần suất xảy ra của một hành động.</li>
 
         </ul>
 
@@ -256,7 +237,7 @@ export default function (): React.JSX.Element {
       <div className="viewcounter">
       
         <div className="post-date no-margin">
-          <span> · by 💎Gem ·</span>
+          <span>November 5, 2024 · by 💎Gem ·</span>
         </div>
 
         <div className="eye-icon no-margin">
