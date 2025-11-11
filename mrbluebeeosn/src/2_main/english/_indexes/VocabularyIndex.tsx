@@ -25,7 +25,39 @@ export default function VocabularyIndex(): React.JSX.Element {
 			<div className="vocabulary-container">
 
 				{/* =============================
-							Tính lặp lại
+							Tính liên tục
+				============================= */}
+
+				<details className="sub-box-fix">
+			
+					<summary id="tinh-khong-lien-tuc-terms"><mark className="highlight-secondary-padding-2-4">Tính không liên tục</mark></summary>
+
+					<ul className="list-border1">
+
+						<li>
+							<Link to="/vocabulary/no-1">no
+								<sup>&nbsp;1&nbsp;</sup>
+									</Link> 
+									<Link to="/vocabulary/no-2">
+								<sup>&nbsp;2&nbsp;</sup>
+							</Link>
+						</li>
+
+						<li>
+							<Link to="/vocabulary/not-1">not
+								<sup>&nbsp;1&nbsp;</sup>
+									</Link> 
+									<Link to="/vocabulary/not-2">
+								<sup>&nbsp;2&nbsp;</sup>
+							</Link>
+						</li>
+						
+					</ul>
+
+				</details>
+
+				{/* =============================
+							Tính liên tục
 				============================= */}
 
 				<details className="sub-box-fix">
@@ -35,6 +67,15 @@ export default function VocabularyIndex(): React.JSX.Element {
 					<ul className="list-border1">
 
 						<li>
+							<Link to="/vocabulary/yes-1">yes
+								<sup>&nbsp;1&nbsp;</sup>
+									</Link> 
+									<Link to="/vocabulary/yes-2">
+								<sup>&nbsp;2&nbsp;</sup>
+							</Link>
+						</li>
+
+						<li>
 							<Link to="/vocabulary/always-1">always
 								<sup>&nbsp;1&nbsp;</sup>
 									</Link> 
@@ -42,8 +83,6 @@ export default function VocabularyIndex(): React.JSX.Element {
 								<sup>&nbsp;2&nbsp;</sup>
 							</Link>
 						</li>
-
-						
 						
 					</ul>
 

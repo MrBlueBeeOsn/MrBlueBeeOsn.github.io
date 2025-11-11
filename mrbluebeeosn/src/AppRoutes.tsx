@@ -141,6 +141,14 @@ const Posts = lazy(() => import('@/data/Posts'));
   // 10. Vocabulary - Tính liên tục
   const Always1 = lazy(() => import('@/2_main/english/vocabulary/Always1'));
   const Always2 = lazy(() => import('@/2_main/english/vocabulary/Always2'));
+  const Yes1 = lazy(() => import('@/2_main/english/vocabulary/Yes1'));
+  const Yes2 = lazy(() => import('@/2_main/english/vocabulary/Yes2'));
+
+  // 11. Vocabulary - Tính không liên tục
+  const No1 = lazy(() => import('@/2_main/english/vocabulary/No1'));
+  const No2 = lazy(() => import('@/2_main/english/vocabulary/No2'));
+  const Not1 = lazy(() => import('@/2_main/english/vocabulary/Not1'));
+  const Not2 = lazy(() => import('@/2_main/english/vocabulary/Not2'));
 
 // 3. Test Tailwind
 	const TestTailwind = lazy(() => import('@/components/TestTailwind'));
@@ -291,6 +299,14 @@ export default function AppRoutes(): React.JSX.Element {
           {/* 10. Vocabulary - Tính liên tục */}
           <Route path="/vocabulary/always-1" element={<Always1 />} />
           <Route path="/vocabulary/always-2" element={<Always2 />} />
+          <Route path="/vocabulary/yes-1" element={<Yes1 />} />
+          <Route path="/vocabulary/yes-2" element={<Yes2 />} />
+
+          {/* 11. Vocabulary - Tính không liên tục */}
+          <Route path="/vocabulary/no-1" element={<No1 />} />
+          <Route path="/vocabulary/no-2" element={<No2 />} />
+          <Route path="/vocabulary/not-1" element={<Not1 />} />
+          <Route path="/vocabulary/not-2" element={<Not2 />} />
 
           {/* 3. Test Tailwind */}
 					<Route path="/tailwindcss/test-tailwind" element={<TestTailwind />} />

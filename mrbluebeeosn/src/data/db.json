@@ -956,6 +956,72 @@
       "date": "2024-11-05",
       "views": 0,
       "likes": 0
+    },
+    {
+      "id": "Yes1",
+      "categoryDisplay": "Tính liên tục",
+      "categorySlug": "vocabulary#tinh-lien-tuc-terms",
+      "title": "yes 1",
+      "content": "Dùng để khẳng định một thông tin, đồng ý với một yêu cầu hoặc câu hỏi.",
+      "slug": "vocabulary/yes-1",
+      "date": "2024-12-28",
+      "views": 0,
+      "likes": 0
+    },
+    {
+      "id": "Yes2",
+      "categoryDisplay": "Tính liên tục",
+      "categorySlug": "vocabulary#tinh-lien-tuc-terms",
+      "title": "yes 2",
+      "content": "Yes /jɛs/ ⬤ (1x) thường được biết đến như một từ để trả lời đồng ý, nhưng khi kết hợp với các từ khác, nó có thể tạo ra nhiều sắc thái và ý nghĩa khác nhau.",
+      "slug": "vocabulary/yes-2",
+      "date": "2024-12-28",
+      "views": 0,
+      "likes": 0
+    },
+    {
+      "id": "No1",
+      "categoryDisplay": "Tính không liên tục",
+      "categorySlug": "vocabulary#tinh-khong-lien-tuc-terms",
+      "title": "no 1",
+      "content": "Thường được dùng như một từ đơn lập để trả lời câu hỏi hoặc từ chối một yêu cầu. Dùng để phủ định một thông tin, yêu cầu hoặc câu hỏi.",
+      "slug": "vocabulary/no-1",
+      "date": "2024-12-28",
+      "views": 0,
+      "likes": 0
+    },
+    {
+      "id": "No2",
+      "categoryDisplay": "Tính không liên tục",
+      "categorySlug": "vocabulary#tinh-khong-lien-tuc-terms",
+      "title": "no 2",
+      "content": "No /noʊ/ ⬤ (1x) thường được biết đến như một từ phủ định, nhưng khi kết hợp với các từ khác, nó có thể tạo ra nhiều ý nghĩa và sắc thái khác nhau.",
+      "slug": "vocabulary/no-2",
+      "date": "2024-12-28",
+      "views": 0,
+      "likes": 0
+    },
+    {
+      "id": "Not1",
+      "categoryDisplay": "Tính không liên tục",
+      "categorySlug": "vocabulary#tinh-khong-lien-tuc-terms",
+      "title": "not 1",
+      "content": "Dùng để phủ định một hành động, tính chất, hoặc sự kiện.",
+      "slug": "vocabulary/not-1",
+      "date": "2024-11-08",
+      "views": 0,
+      "likes": 0
+    },
+    {
+      "id": "Not2",
+      "categoryDisplay": "Tính không liên tục",
+      "categorySlug": "vocabulary#tinh-khong-lien-tuc-terms",
+      "title": "not 2",
+      "content": "Not /nɒt/ ⬤ (1x) là một từ phủ định rất quan trọng, được dùng để tạo ra câu phủ định.",
+      "slug": "vocabulary/not-2",
+      "date": "2024-11-08",
+      "views": 0,
+      "likes": 0
     }
   ]
 }
