@@ -5,9 +5,9 @@ import EyeIcon from '@/components/EyeIcon';
 import ViewCounter from '@/components/ViewCounter';
 import LikeButton from '@/components/LikeButton';
 
-export default function Seldom1(): React.JSX.Element {
+export default function Perhaps1(): React.JSX.Element {
 
-  const postId = "Seldom1";
+  const postId = "Perhaps1";
 
   return (<>
 
@@ -15,37 +15,37 @@ export default function Seldom1(): React.JSX.Element {
 
     <article>
     
-      <h4><HashLink smooth to="/vocabulary#thoi-gian-hiem-terms"><mark className="highlight-tertiary-padding-4-8">Thời gian hiếm</mark></HashLink></h4>
+      <h4><HashLink smooth to="/vocabulary#khong-chac-chan-terms"><mark className="highlight-tertiary-padding-4-8">Không chắc chắn</mark></HashLink></h4>
       
-      <h1 className="margin-y-50 text-center">seldom
-        <sup><Link to="/vocabulary/seldom-1">&nbsp;1&nbsp;</Link>
+      <h1 className="margin-y-50 text-center">perhaps
+        <sup><Link to="/vocabulary/perhaps-1">&nbsp;1&nbsp;</Link>
         </sup>
-        <sup><Link to="/vocabulary/seldom-2">&nbsp;2&nbsp;</Link>
+        <sup><Link to="/vocabulary/perhaps-2">&nbsp;2&nbsp;</Link>
         </sup>
       </h1>
 
       {/* This is the content of Vocabulary Term. */}
       
-      <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>seldom</strong>" nhé.</p>
+      <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>perhaps</strong>" nhé.</p>
 
       <div className="text-border1 padding-top-20 padding-bottom-10 highlight-238-padding-4-8 bee-container">
 
         <div>
 
-          <p className="margin-bottom-20"><strong>Seldom</strong></p>
+          <p className="margin-bottom-20"><strong>Perhaps</strong></p>
 
           <ul className="list-square padding-left-40">
 
             <li>
               <span className="highlight-255-padding-3-6">
-                /ˈsɛldəm/ + /<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">seldơm</Link>/
-                <sup>&nbsp;⬤• (2x)</sup>
+                /pəˈhæps/ + /<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">pe̛rhaps</Link>/
+                <sup>&nbsp;•⬤ (2x)</sup>
               </span>
             </li>
 
             <li>Trạng từ (<Link to="/grammar/what-is-an-adverb?">adverb</Link>)</li>
 
-            <li>Tính hiếm khi, ít khi</li>
+            <li>Có lẽ, có thể</li>
 
           </ul>
 
@@ -57,15 +57,15 @@ export default function Seldom1(): React.JSX.Element {
 
       </div>
 
-      <p className="margin-top-30 text-indent-whole">Chỉ một hành động hoặc sự việc xảy ra không thường xuyên, rất ít lần.</p>
+      <p className="margin-top-30 text-indent-whole">Diễn tả sự không chắc chắn, khả năng xảy ra một điều gì đó.</p>
 
       <p className="text-indent-whole">Ví dụ:</p>
 
         <ul className="list-square">
 
-          <li>I <strong>seldom</strong> go to the movies. (Tôi hiếm khi đi xem phim.)</li>
+          <li><strong>Perhaps</strong> it will rain tomorrow. (Có lẽ ngày mai trời sẽ mưa.)</li>
 
-          <li>She <strong>seldom</strong> makes mistakes. (Cô ấy hiếm khi mắc lỗi.)</li>
+          <li><strong>Perhaps</strong> you should call her. (Có lẽ bạn nên gọi cho cô ấy.)</li>
 
         </ul>
 
@@ -81,7 +81,8 @@ export default function Seldom1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li className="list-none">Không có gia đình từ trực tiếp.</li>
+          <li>Haphazard: ngẫu nhiên /ˈhæp.hæz.ərd/ - tính từ</li>
+          <li className="list-none">His work was haphazard and disorganized. (Công việc của anh ấy rất ngẫu nhiên và lộn xộn.)</li>
 
         </ul>
 
@@ -97,11 +98,11 @@ export default function Seldom1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li><Link to="/vocabulary/rarely-1">Rarely</Link>: hiếm khi /ˈreər.li/</li>
-          <li className="margin-bottom-20 list-none">I rarely eat meat. (Tôi hiếm khi ăn thịt.)</li>
+          <li><Link to="/vocabulary/maybe-1">Maybe</Link>: có lẽ /ˈmeɪ.bi/</li>
+          <li className="margin-bottom-20 list-none">Maybe we can go to the park later. (Có lẽ chúng ta có thể đi công viên sau.)</li>
 
-          <li>Infrequently: không thường xuyên /ɪnˈfriː.kwənt.li/</li>
-          <li className="list-none">She infrequently visits her parents. (Cô ấy ít khi đến thăm ba mẹ.)</li>
+          <li>Possibly: có thể /ˈpɒs.ə.bli/</li>
+          <li className="list-none">It is possibly the best book I've ever read. (Có thể đây là cuốn sách hay nhất mà tôi từng đọc.)</li>
 
         </ul>
 
@@ -119,11 +120,11 @@ export default function Seldom1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li><Link to="/vocabulary/often-1">Often</Link>: thường xuyên /ˈɒf.ən/</li>
-          <li className="margin-bottom-20 list-none">I often go for a walk in the park. (Tôi thường đi dạo trong công viên.)</li>
+          <li><Link to="/vocabulary/definitely-1">Definitely</Link>: chắc chắn /ˈdef.ɪ.nət.li/</li>
+          <li className="margin-bottom-20 list-none">I definitely want to go to the party. (Tôi chắc chắn muốn đi dự tiệc.)</li>
 
-          <li><Link to="/vocabulary/frequently-1">Frequently</Link>: thường xuyên /ˈfriː.kwənt.li/</li>
-          <li className="list-none">He frequently travels abroad. (Anh ấy thường xuyên đi du lịch nước ngoài.)</li>
+          <li>Certainly: chắc chắn /ˈsɜː.tən.li/</li>
+          <li className="list-none">Certainly, I will help you. (Chắc chắn rồi, tôi sẽ giúp bạn.)</li>
 
         </ul>
       
@@ -144,15 +145,12 @@ export default function Seldom1(): React.JSX.Element {
         <strong>&nbsp;với hình ảnh</strong>:
       </p>
 
-      <p className="text-indent-whole">Hình dung một chiếc đồng hồ hiếm khi chạy hoặc một bông hoa hiếm khi nở.</p>
+      <p className="text-indent-whole">Hãy tưởng tượng một đám mây mù bao phủ một sự kiện trong tương lai.</p>
 
         <ul className="list-square">
 
-          <li>The watch <strong>seldom</strong> keeps accurate time.</li>
-          <li className="margin-bottom-20 list-none">(Chiếc đồng hồ hiếm khi chạy đúng giờ.)</li>
-
-          <li>This type of flower <strong>seldom</strong> blooms.</li>
-          <li className="list-none">(Loại hoa này hiếm khi nở.)</li>
+          <li>It's hard to say for sure, but <strong>perhaps</strong> the project will be delayed.</li>
+          <li className="list-none">(Thật khó để nói chắc chắn, nhưng có lẽ dự án sẽ bị trì hoãn.)</li>
 
         </ul>
 
@@ -167,12 +165,12 @@ export default function Seldom1(): React.JSX.Element {
         <strong>&nbsp;ví dụ</strong>:
       </p>
 
-      <p className="text-indent-whole">Thử tạo càng nhiều câu với "<strong>seldom</strong>" trong các ngữ cảnh khác nhau.</p>
+      <p className="text-indent-whole">Thử tạo càng nhiều câu ví dụ càng tốt với "<strong>perhaps</strong>" trong các ngữ cảnh khác nhau.</p>
 
         <ul className="list-square">
 
-          <li>She <strong>seldom</strong> complains about her job.</li>
-          <li className="list-none">(Cô ấy hiếm khi phàn nàn về công việc.)</li>
+          <li><strong>Perhaps</strong> it will rain tomorrow.</li>
+          <li className="list-none">(Có lẽ trời sẽ mưa vào ngày mai.)</li>
 
         </ul>
 
@@ -187,33 +185,19 @@ export default function Seldom1(): React.JSX.Element {
         <strong>&nbsp;thường xuyên</strong>:
       </p>
 
-      <p className="text-indent-whole">Đọc và viết nhiều để làm quen với từ này.</p>
+      <p className="text-indent-whole">Đọc và viết nhiều để củng cố vốn từ vựng và cách sử dụng của "<strong>perhaps</strong>".</p>
 
-        <p className="text-indent-whole">Ví dụ để so sánh (sự khác biệt giữa rarely và <strong>seldom</strong>):</p>
+        <p className="text-indent-whole">Ví dụ để so sánh (sự khác biệt giữa maybe và <strong>perhaps</strong>):</p>
 
           <ol>
 
-            <li><Link to="/vocabulary/rarely-1">Rarely</Link>: Có thể có một vài lần xảy ra, nhưng không thường xuyên.</li>
-            <li className="list-none margin-bottom-20">I rarely eat spicy food. (Tôi hiếm khi ăn đồ ăn cay.)</li>
+            <li><Link to="/vocabulary/maybe-1">Maybe</Link>: Thông dụng hơn và thường được sử dụng trong giao tiếp hàng ngày.</li>
+            <li className="list-none margin-bottom-20">Maybe we can go out for dinner tonight. (Có lẽ tối nay chúng ta có thể đi ăn tối.)</li>
 
-            <li value="2"><strong>Seldom</strong>: <span className="highlight-255-padding-0-4">Nhấn mạnh sự hiếm hoi tuyệt đối</span>.</li>
-            <li className="list-none margin-bottom-20">I <strong>seldom</strong> see him anymore. (Tôi hầu như không bao giờ gặp anh ấy nữa.)</li>
-
-          </ol>
-
-          {/* <ol>
-
-            <li></li>
-
-            <li className="margin-bottom-20"></li>
+            <li value="2"><strong>Perhaps</strong>: <span className="highlight-255-padding-0-4">Mang tính trang trọng hơn một chút</span> so với "maybe".</li>
+            <li className="list-none margin-bottom-20"><strong>Perhaps</strong> we should reconsider our decision. (Có lẽ chúng ta nên xem xét lại quyết định của mình.)</li>
 
           </ol>
-
-      <div className="margin-bottom-20 padding-top-20 text-border1 padding-10 highlight-238-padding-4-8 bee-container">
-
-        <p className="margin-y-10">Sự khác biệt: </p>
-
-      </div> */}
 
       {/* <span className="highlight-255-padding-0-4"></span> */}
 
@@ -227,9 +211,9 @@ export default function Seldom1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>"<strong>Seldom</strong>" thường đứng trước động từ chính trong câu.</li>
+          <li>"<strong>Perhaps</strong>" thường đứng ở đầu câu hoặc trước động từ chính.</li>
 
-          <li className="margin-bottom-20">"<strong>Seldom</strong>" mang nghĩa phủ định, tức là một việc gì đó không xảy ra thường xuyên.</li>
+          <li className="margin-bottom-20">"<strong>Perhaps</strong>" thường được sử dụng để diễn tả sự suy đoán hoặc không chắc chắn.</li>
 
         </ul>
 
@@ -240,7 +224,7 @@ export default function Seldom1(): React.JSX.Element {
       <div className="viewcounter">
       
         <div className="post-date no-margin">
-          <span>November 15, 2024 · by 💎Gem ·</span>
+          <span>November 14, 2024 · by 💎Gem ·</span>
         </div>
 
         <div className="eye-icon no-margin">

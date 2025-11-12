@@ -30,6 +30,40 @@ export default function VocabularyIndex(): React.JSX.Element {
 
 				<details className="sub-box-fix">
 			
+					<summary id="khong-chac-chan-terms"><mark className="highlight-secondary-padding-2-4">Không chắc chắn</mark></summary>
+
+					<ul className="list-border1">
+
+						<li>
+							<Link to="/vocabulary/maybe-1">maybe
+								<sup>&nbsp;1&nbsp;</sup>
+									</Link> 
+									<Link to="/vocabulary/maybe-2">
+								<sup>&nbsp;2&nbsp;</sup>
+							</Link>
+						</li>
+
+						<li>
+							<Link to="/vocabulary/perhaps-1">perhaps
+								<sup>&nbsp;1&nbsp;</sup>
+									</Link> 
+									<Link to="/vocabulary/perhaps-2">
+								<sup>&nbsp;2&nbsp;</sup>
+							</Link>
+						</li>
+
+						
+						
+					</ul>
+
+				</details>
+
+				{/* =============================
+							Tính liên tục
+				============================= */}
+
+				<details className="sub-box-fix">
+			
 					<summary id="tinh-muc-do-terms"><mark className="highlight-secondary-padding-2-4">Tính mức độ</mark></summary>
 
 					<ul className="list-border1">
@@ -59,12 +93,12 @@ export default function VocabularyIndex(): React.JSX.Element {
 				</details>
 
 				{/* =============================
-							Tính liên tục
+							Không liên tục
 				============================= */}
 
 				<details className="sub-box-fix">
 			
-					<summary id="tinh-khong-lien-tuc-terms"><mark className="highlight-secondary-padding-2-4">Tính không liên tục</mark></summary>
+					<summary id="khong-lien-tuc-terms"><mark className="highlight-secondary-padding-2-4">Không liên tục</mark></summary>
 
 					<ul className="list-border1">
 
@@ -105,7 +139,7 @@ export default function VocabularyIndex(): React.JSX.Element {
 
 				<details className="sub-box-fix">
 			
-					<summary id="tinh-lien-tuc-terms"><mark className="highlight-secondary-padding-2-4">Tính liên tục</mark></summary>
+					<summary id="lien-tuc-terms"><mark className="highlight-secondary-padding-2-4">Liên tục</mark></summary>
 
 					<ul className="list-border1">
 
@@ -146,7 +180,7 @@ export default function VocabularyIndex(): React.JSX.Element {
 
 				<details className="sub-box-fix">
 			
-					<summary id="tinh-hiem-terms"><mark className="highlight-secondary-padding-2-4">Tính hiếm</mark></summary>
+					<summary id="thoi-gian-hiem-terms"><mark className="highlight-secondary-padding-2-4">Thời gian hiếm</mark></summary>
 
 					<ul className="list-border1">
 

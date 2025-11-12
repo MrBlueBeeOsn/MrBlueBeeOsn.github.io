@@ -15,7 +15,7 @@ export default function Yes1(): React.JSX.Element {
 
     <article>
     
-      <h4><HashLink smooth to="/vocabulary#tinh-lien-tuc-terms"><mark className="highlight-tertiary-padding-4-8">Tính liên tục</mark></HashLink></h4>
+      <h4><HashLink smooth to="/vocabulary#lien-tuc-terms"><mark className="highlight-tertiary-padding-4-8">Liên tục</mark></HashLink></h4>
       
       <h1 className="margin-y-50 text-center">yes
         <sup><Link to="/vocabulary/yes-1">&nbsp;1&nbsp;</Link>
@@ -45,7 +45,7 @@ export default function Yes1(): React.JSX.Element {
 
             <li>Trạng từ (<Link to="/grammar/what-is-an-adverb?">adverb</Link>)</li>
 
-            <li>Tính có</li>
+            <li>Có</li>
 
           </ul>
 

@@ -15,7 +15,7 @@ export default function No1(): React.JSX.Element {
 
     <article>
     
-      <h4><HashLink smooth to="/vocabulary#tinh-khong-lien-tuc-terms"><mark className="highlight-tertiary-padding-4-8">Tính không liên tục</mark></HashLink></h4>
+      <h4><HashLink smooth to="/vocabulary#khong-lien-tuc-terms"><mark className="highlight-tertiary-padding-4-8">Không liên tục</mark></HashLink></h4>
       
       <h1 className="margin-y-50 text-center">no
         <sup><Link to="/vocabulary/no-1">&nbsp;1&nbsp;</Link>
@@ -45,7 +45,7 @@ export default function No1(): React.JSX.Element {
 
             <li>Trạng từ (<Link to="/grammar/what-is-an-adverb?">adverb</Link>)</li>
 
-            <li>Tính không</li>
+            <li>Không</li>
 
           </ul>
 

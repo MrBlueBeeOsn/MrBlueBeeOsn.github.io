@@ -45,7 +45,7 @@ export default function Very1(): React.JSX.Element {
 
             <li>Trạng từ (<Link to="/grammar/what-is-an-adverb?">adverb</Link>)</li>
 
-            <li>Tính rất</li>
+            <li>Rất</li>
 
           </ul>
 

@@ -5,9 +5,9 @@ import EyeIcon from '@/components/EyeIcon';
 import ViewCounter from '@/components/ViewCounter';
 import LikeButton from '@/components/LikeButton';
 
-export default function Sometimes1(): React.JSX.Element {
+export default function Maybe1(): React.JSX.Element {
 
-  const postId = "Sometimes1";
+  const postId = "Maybe1";
 
   return (<>
 
@@ -15,37 +15,37 @@ export default function Sometimes1(): React.JSX.Element {
 
     <article>
     
-      <h4><HashLink smooth to="/vocabulary#thoi-gian-hiem-terms"><mark className="highlight-tertiary-padding-4-8">Thời gian hiếm</mark></HashLink></h4>
+      <h4><HashLink smooth to="/vocabulary#khong-chac-chan-terms"><mark className="highlight-tertiary-padding-4-8">Không chắc chắn</mark></HashLink></h4>
       
-      <h1 className="margin-y-50 text-center">sometimes
-        <sup><Link to="/vocabulary/sometimes-1">&nbsp;1&nbsp;</Link>
+      <h1 className="margin-y-50 text-center">maybe
+        <sup><Link to="/vocabulary/maybe-1">&nbsp;1&nbsp;</Link>
         </sup>
-        <sup><Link to="/vocabulary/sometimes-2">&nbsp;2&nbsp;</Link>
+        <sup><Link to="/vocabulary/maybe-2">&nbsp;2&nbsp;</Link>
         </sup>
       </h1>
 
       {/* This is the content of Vocabulary Term. */}
       
-      <p>Tuyệt vời! Chúng ta cùng đi sâu vào phân tích từ "<strong>sometimes</strong>" và các thành ngữ liên quan nhé.</p>
+      <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>maybe</strong>" nhé.</p>
 
       <div className="text-border1 padding-top-20 padding-bottom-10 highlight-238-padding-4-8 bee-container">
 
         <div>
 
-          <p className="margin-bottom-20"><strong>Sometimes</strong></p>
+          <p className="margin-bottom-20"><strong>Maybe</strong></p>
 
           <ul className="list-square padding-left-40">
 
             <li>
               <span className="highlight-255-padding-3-6">
-                /ˈsʌmtaɪmz/ + /<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">sômetīmes</Link>/
+                /ˈmeɪ.bi/ + /<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">māybē</Link>/
                 <sup>&nbsp;⬤• (2x)</sup>
               </span>
             </li>
 
             <li>Trạng từ (<Link to="/grammar/what-is-an-adverb?">adverb</Link>)</li>
 
-            <li>Tính thỉnh thoảng, đôi khi</li>
+            <li>Có lẽ, có thể</li>
 
           </ul>
 
@@ -57,15 +57,15 @@ export default function Sometimes1(): React.JSX.Element {
 
       </div>
 
-      <p className="margin-top-30 text-indent-whole">Chỉ sự không thường xuyên, xảy ra một cách ngẫu nhiên.</p>
+      <p className="margin-top-30 text-indent-whole">Diễn tả sự không chắc chắn, khả năng xảy ra một điều gì đó.</p>
 
       <p className="text-indent-whole">Ví dụ:</p>
 
         <ul className="list-square">
 
-          <li>I <strong>sometimes</strong> go to the gym after work. (Tôi thỉnh thoảng đi tập gym sau giờ làm.)</li>
+          <li><strong>Maybe</strong> it will rain tomorrow. (Có lẽ trời sẽ mưa vào ngày mai.)</li>
 
-          <li>It <strong>sometimes</strong> rains in the summer. (Mùa hè đôi khi cũng mưa.)</li>
+          <li><strong>Maybe</strong> you should call her. (Có lẽ bạn nên gọi cho cô ấy.)</li>
 
         </ul>
 
@@ -81,7 +81,7 @@ export default function Sometimes1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li className="list-none">Không có gia đình từ trực tiếp cho "<strong>sometimes</strong>" vì đây là một từ đơn.</li>
+          <li className="list-none">Không có gia đình từ trực tiếp cho "<strong>maybe</strong>" vì nó là một từ đơn lẻ.</li>
 
         </ul>
 
@@ -97,11 +97,11 @@ export default function Sometimes1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li><Link to="/vocabulary/occasionally-1">Occasionally</Link>: (adv) /əˈkeɪʒnəli/ - thỉnh thoảng</li>
-          <li className="margin-bottom-20 list-none">We occasionally meet for coffee. (Chúng tôi thỉnh thoảng gặp nhau để uống cà phê.)</li>
+          <li><Link to="/vocabulary/perhaps-1">Perhaps</Link>: (adv) /pərˈhæps/ - có lẽ</li>
+          <li className="margin-bottom-20 list-none">Perhaps we can meet later. (Có lẽ chúng ta có thể gặp nhau sau.)</li>
 
-          <li>From time to time: (adv) /frəm taɪm tə taɪm/ - thỉnh thoảng</li>
-          <li className="list-none">From time to time, I like to watch movies. (Thỉnh thoảng, tôi thích xem phim.)</li>
+          <li>Possibly: (adv) /ˈpɑː.sə.bli/ - có thể</li>
+          <li className="list-none">It's possibly the best day of my life. (Có thể đây là ngày tuyệt vời nhất trong đời tôi.)</li>
 
         </ul>
 
@@ -119,11 +119,11 @@ export default function Sometimes1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Always: (adv) /ˈɔːlweɪz/ - luôn luôn</li>
-          <li className="margin-bottom-20 list-none">She always comes to class on time. (Cô ấy luôn đến lớp đúng giờ.)</li>
+          <li><Link to="/vocabulary/definitely-1">Definitely</Link>: (adv) /ˈdef.ən.ət.li/ - chắc chắn</li>
+          <li className="margin-bottom-20 list-none">I definitely want to go. (Tôi chắc chắn muốn đi.)</li>
 
-          <li>Never: (adv) /ˈnɛvər/ - chưa bao giờ</li>
-          <li className="list-none">I have never been to Paris. (Tôi chưa bao giờ đến Paris.)</li>
+          <li>Certainly: (adv) /ˈsɜːr.tən.li/ - chắc chắn</li>
+          <li className="list-none">Certainly, you can borrow my book. (Chắc chắn rồi, bạn có thể mượn sách của tôi.)</li>
 
         </ul>
       
@@ -144,12 +144,12 @@ export default function Sometimes1(): React.JSX.Element {
         <strong>&nbsp;với hình ảnh</strong>:
       </p>
 
-      <p className="text-indent-whole">Hình dung một chiếc đồng hồ với kim giây quay liên tục để thể hiện sự không đều đặn.</p>
+      <p className="text-indent-whole">Hình dung một dấu hỏi lớn khi bạn không chắc chắn về điều gì đó.</p>
 
         <ul className="list-square">
 
-          <li>The watch is running erratically; the second hand <strong>sometimes</strong> jumps.</li>
-          <li className="list-none">(Đồng hồ chạy không đều; kim giây đôi khi nhảy.)</li>
+          <li><strong>Maybe</strong> you know the answer?</li>
+          <li className="list-none">(Có lẽ bạn biết câu trả lời?)</li>
 
         </ul>
 
@@ -164,12 +164,12 @@ export default function Sometimes1(): React.JSX.Element {
         <strong>&nbsp;ví dụ</strong>:
       </p>
 
-      <p className="text-indent-whole">Tạo nhiều câu với "<strong>sometimes</strong>" trong các ngữ cảnh khác nhau, liên quan đến tần suất.</p>
+      <p className="text-indent-whole">Tạo nhiều câu với "<strong>maybe</strong>" trong các tình huống khác nhau, ví dụ khi đưa ra quyết định hoặc dự đoán.</p>
 
         <ul className="list-square">
 
-          <li>I feel happy <strong>sometimes</strong>, but other times I feel sad.</li>
-          <li className="list-none">(Tôi cảm thấy hạnh phúc đôi khi, nhưng những lúc khác tôi lại cảm thấy buồn.)</li>
+          <li>I'm not sure, <strong>maybe</strong> I'll go to the party.</li>
+          <li className="list-none">(Tôi không chắc, có lẽ tôi sẽ đến bữa tiệc.)</li>
 
         </ul>
 
@@ -184,33 +184,19 @@ export default function Sometimes1(): React.JSX.Element {
         <strong>&nbsp;thường xuyên</strong>:
       </p>
 
-      <p className="text-indent-whole">Thường xuyên sử dụng từ "<strong>sometimes</strong>" trong giao tiếp hoặc khi viết.</p>
+      <p className="text-indent-whole">Thường xuyên sử dụng "<strong>maybe</strong>" trong giao tiếp hàng ngày.</p>
 
-        <p className="text-indent-whole">Ví dụ để so sánh (sự khác biệt giữa occasionally và <strong>sometimes</strong>):</p>
+        <p className="text-indent-whole">Ví dụ để so sánh (sự khác biệt giữa perhaps và <strong>maybe</strong>):</p>
 
           <ol>
 
-            <li><Link to="/vocabulary/occasionally-1">Occasionally</Link>: Mang ý nghĩa lịch sự hơn và nhấn mạnh tính ngẫu nhiên.</li>
-            <li className="list-none margin-bottom-20">We occasionally meet for lunch. (Chúng tôi thỉnh thoảng gặp nhau để ăn trưa.)</li>
+            <li><Link to="/vocabulary/perhaps-1">Perhaps</Link>: Cách nói lịch sự hơn, thường dùng trong văn viết hoặc các tình huống trang trọng.</li>
+            <li className="list-none margin-bottom-20">Perhaps you could help me with this problem. (Có lẽ anh/chị có thể giúp tôi giải quyết vấn đề này.)</li>
 
-            <li value="2"><strong>Sometimes</strong>: <span className="highlight-255-padding-0-4">Mang ý nghĩa chung chung về sự không thường xuyên</span>.</li>
-            <li className="list-none margin-bottom-20">I <strong>sometimes</strong> forget to bring my umbrella. (Tôi đôi khi quên mang ô.)</li>
-
-          </ol>
-
-          {/* <ol>
-
-            <li></li>
-
-            <li className="margin-bottom-20"></li>
+            <li value="2"><strong>Maybe</strong>: Cách nói thông thường, <span className="highlight-255-padding-0-4">thường dùng trong giao tiếp hàng ngày</span>.</li>
+            <li className="list-none margin-bottom-20"><strong>Maybe</strong> we can go to the movies tonight. (Có lẽ tối nay chúng ta có thể đi xem phim.)</li>
 
           </ol>
-
-      <div className="margin-bottom-20 padding-top-20 text-border1 padding-10 highlight-238-padding-4-8 bee-container">
-
-        <p className="margin-y-10">Sự khác biệt: </p>
-
-      </div> */}
 
       {/* <span className="highlight-255-padding-0-4"></span> */}
 
@@ -224,9 +210,9 @@ export default function Sometimes1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>"<strong>Sometimes</strong>" thường đứng trước động từ chính trong câu.</li>
+          <li>"<strong>Maybe</strong>" thường đứng ở đầu câu hoặc trước động từ chính.</li>
 
-          <li className="margin-bottom-20">Nó có thể được sử dụng để diễn tả sự không chắc chắn hoặc sự thay đổi về tần suất.</li>
+          <li className="margin-bottom-20">Nó thể hiện sự do dự hoặc không chắc chắn của người nói.</li>
 
         </ul>
 

@@ -160,6 +160,12 @@ const Posts = lazy(() => import('@/data/Posts'));
   const Very1 = lazy(() => import('@/2_main/english/vocabulary/Very1'));
   const Very2 = lazy(() => import('@/2_main/english/vocabulary/Very2'));
 
+  // 13. Vocabulary - Không chắc chắn
+  const Maybe1 = lazy(() => import('@/2_main/english/vocabulary/Maybe1'));
+  const Maybe2 = lazy(() => import('@/2_main/english/vocabulary/Maybe2'));
+  const Perhaps1 = lazy(() => import('@/2_main/english/vocabulary/Perhaps1'));
+  const Perhaps2 = lazy(() => import('@/2_main/english/vocabulary/Perhaps2'));
+
 // 3. Test Tailwind
 	const TestTailwind = lazy(() => import('@/components/TestTailwind'));
 
@@ -327,6 +333,12 @@ export default function AppRoutes(): React.JSX.Element {
           <Route path="/vocabulary/so-2" element={<So2 />} />
           <Route path="/vocabulary/very-1" element={<Very1 />} />
           <Route path="/vocabulary/very-2" element={<Very2 />} />
+
+          {/* 13. Vocabulary - Không chắc chắn */}
+          <Route path="/vocabulary/maybe-1" element={<Maybe1 />} />
+          <Route path="/vocabulary/maybe-2" element={<Maybe2 />} />
+          <Route path="/vocabulary/perhaps-1" element={<Perhaps1 />} />
+          <Route path="/vocabulary/perhaps-2" element={<Perhaps2 />} />
 
           {/* 3. Test Tailwind */}
 					<Route path="/tailwindcss/test-tailwind" element={<TestTailwind />} />

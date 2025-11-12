@@ -15,7 +15,7 @@ export default function Occasionally2(): React.JSX.Element {
 
     <article>
     
-      <h4><HashLink smooth to="/vocabulary#tinh-hiem-terms"><mark className="highlight-tertiary-padding-4-8">Tính hiếm</mark></HashLink></h4>
+      <h4><HashLink smooth to="/vocabulary#thoi-gian-hiem-terms"><mark className="highlight-tertiary-padding-4-8">Thời gian hiếm</mark></HashLink></h4>
       
       <h1 className="margin-y-50 text-center">occasionally
         <sup>
