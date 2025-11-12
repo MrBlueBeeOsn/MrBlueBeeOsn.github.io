@@ -5,9 +5,9 @@ import EyeIcon from '@/components/EyeIcon';
 import ViewCounter from '@/components/ViewCounter';
 import LikeButton from '@/components/LikeButton';
 
-export default function (): React.JSX.Element {
+export default function Greatly1(): React.JSX.Element {
 
-  const postId = "";
+  const postId = "Greatly1";
 
   return (<>
 
@@ -17,35 +17,35 @@ export default function (): React.JSX.Element {
     
       <h4><HashLink smooth to="/vocabulary#muc-do-cao-terms"><mark className="highlight-tertiary-padding-4-8">Mức độ cao</mark></HashLink></h4>
       
-      <h1 className="margin-y-50 text-center">ly
-        <sup><Link to="/vocabulary/ly-1">&nbsp;1&nbsp;</Link>
+      <h1 className="margin-y-50 text-center">greatly
+        <sup><Link to="/vocabulary/greatly-1">&nbsp;1&nbsp;</Link>
         </sup>
-        <sup><Link to="/vocabulary/ly-2">&nbsp;2&nbsp;</Link>
+        <sup><Link to="/vocabulary/greatly-2">&nbsp;2&nbsp;</Link>
         </sup>
       </h1>
 
       {/* This is the content of Vocabulary Term. */}
       
-      <p>Tuyệt vời! </p>
+      <p>Tuyệt vời! Chúng ta cùng đi sâu vào từ "<strong>greatly</strong>" nhé.</p>
 
       <div className="text-border1 padding-top-20 padding-bottom-10 highlight-238-padding-4-8 bee-container">
 
         <div>
 
-          <p className="margin-bottom-20"><strong>ly</strong></p>
+          <p className="margin-bottom-20"><strong>Greatly</strong></p>
 
           <ul className="list-square padding-left-40">
 
             <li>
               <span className="highlight-255-padding-3-6">
-                /i/ + /<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">ly</Link>/
-                <sup>&nbsp;⬤</sup>
+                /ˈɡreɪtli/ + /<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">greȧtly</Link>/
+                <sup>&nbsp;⬤• (2x)</sup>
               </span>
             </li>
 
             <li>Trạng từ (<Link to="/grammar/what-is-an-adverb?">adverb</Link>)</li>
 
-            <li>Tính </li>
+            <li>Rất, rất nhiều, đáng kể</li>
 
           </ul>
 
@@ -57,15 +57,15 @@ export default function (): React.JSX.Element {
 
       </div>
 
-      <p className="margin-top-30 text-indent-whole">Từ "<strong>ly</strong>" </p>
+      <p className="margin-top-30 text-indent-whole">Từ "<strong>greatly</strong>" được dùng để nhấn mạnh mức độ cao của một tính từ hoặc trạng từ đi kèm. Nó thể hiện sự tăng cường về mức độ, cường độ hoặc quy mô của một hành động, trạng thái hoặc sự vật.</p>
 
       <p className="text-indent-whole">Ví dụ:</p>
 
         <ul className="list-square">
 
-          <li></li>
+          <li>I <strong>greatly</strong> appreciate your help. (Tôi rất cảm ơn sự giúp đỡ của bạn.)</li>
 
-          <li></li>
+          <li>The price of housing has <strong>greatly</strong> increased. (Giá nhà đã tăng rất nhiều.)</li>
 
         </ul>
 
@@ -81,14 +81,8 @@ export default function (): React.JSX.Element {
 
         <ul className="list-square">
 
-          {/* <li></li>
-          <li className="margin-bottom-20 list-none"></li> */}
-
-          {/* <li></li>
-          <li className="margin-bottom-20 list-none"></li> */}
-
-          <li></li>
-          <li className="list-none"></li>
+          <li>Great (adj): Vĩ đại, tuyệt vời /ɡreɪt/</li>
+          <li className="list-none">She is a great singer. (Cô ấy là một ca sĩ tuyệt vời.)</li>
 
         </ul>
 
@@ -104,14 +98,11 @@ export default function (): React.JSX.Element {
 
         <ul className="list-square">
 
-          {/* <li></li>
-          <li className="margin-bottom-20 list-none"></li> */}
+          <li>Significantly: Một cách đáng kể /sɪɡˈnɪfɪkəntli/</li>
+          <li className="margin-bottom-20 list-none">The results were significantly different. (Kết quả khác biệt đáng kể.)</li>
 
-          <li></li>
-          <li className="margin-bottom-20 list-none"></li>
-
-          <li></li>
-          <li className="list-none"></li>
+          <li>Considerably: Một cách đáng kể /kənˈsɪdərəbli/</li>
+          <li className="list-none">The task was considerably more difficult than expected. (Nhiệm vụ khó hơn nhiều so với dự kiến.)</li>
 
         </ul>
 
@@ -129,14 +120,11 @@ export default function (): React.JSX.Element {
 
         <ul className="list-square">
 
-          {/* <li></li>
-          <li className="margin-bottom-20 list-none"></li> */}
+          <li>Slightly: Một chút /ˈslaɪtli/</li>
+          <li className="margin-bottom-20 list-none">The temperature has slightly increased. (Nhiệt độ đã tăng nhẹ.)</li>
 
-          <li></li>
-          <li className="margin-bottom-20 list-none"></li>
-
-          <li></li>
-          <li className="list-none"></li>
+          <li>Minimally: Một cách tối thiểu /ˈmɪnɪməli/</li>
+          <li className="list-none">The damage was minimally affected. (Thiệt hại bị ảnh hưởng tối thiểu.)</li>
 
         </ul>
       
@@ -157,15 +145,12 @@ export default function (): React.JSX.Element {
         <strong>&nbsp;với hình ảnh</strong>:
       </p>
 
-      <p className="text-indent-whole"></p>
+      <p className="text-indent-whole">Hình dung một cái gì đó rất lớn, rất nhiều hoặc rất đẹp.</p>
 
         <ul className="list-square">
 
-          {/* <li></li>
-          <li className="margin-bottom-20 list-none"></li> */}
-
-          <li></li>
-          <li className="list-none"></li>
+          <li>The whale was <strong>greatly</strong> bigger than any I had ever seen before.</li>
+          <li className="list-none">(Con cá voi đó lớn hơn bất kỳ con nào tôi từng thấy trước đây.)</li>
 
         </ul>
 
@@ -180,15 +165,12 @@ export default function (): React.JSX.Element {
         <strong>&nbsp;ví dụ</strong>:
       </p>
 
-      <p className="text-indent-whole"></p>
+      <p className="text-indent-whole">Tạo các câu liên quan đến những tình huống cần nhấn mạnh mức độ.</p>
 
         <ul className="list-square">
 
-          {/* <li></li>
-          <li className="margin-bottom-20 list-none"></li> */}
-
-          <li></li>
-          <li className="list-none"></li>
+          <li>I am <strong>greatly</strong> impressed by your work.</li>
+          <li className="list-none">(Tôi rất ấn tượng với công việc của bạn.)</li>
 
         </ul>
 
@@ -203,33 +185,23 @@ export default function (): React.JSX.Element {
         <strong>&nbsp;thường xuyên</strong>:
       </p>
 
-      <p className="text-indent-whole"></p>
+      <p className="text-indent-whole">Thường xuyên sử dụng từ này trong các bài viết hoặc cuộc trò chuyện.</p>
 
         <p className="text-indent-whole">Ví dụ để so sánh (sự khác biệt):</p>
 
-          {/* <ol>
+          <ol>
 
-            <li></li>
-            <li className="list-none margin-bottom-20"></li>
+            <li>The book is interesting. (Cuốn sách thú vị.)</li>
 
-            <li value="2"></li>
-            <li className="list-none margin-bottom-20"></li>
-
-          </ol> */}
-
-          {/* <ol>
-
-            <li></li>
-
-            <li className="margin-bottom-20"></li>
+            <li className="margin-bottom-20">The book is <strong>greatly</strong> interesting. (Cuốn sách thú vị một cách đặc biệt.)</li>
 
           </ol>
 
       <div className="margin-bottom-20 padding-top-20 text-border1 padding-10 highlight-238-padding-4-8 bee-container">
 
-        <p className="margin-y-10">Sự khác biệt: </p>
+        <p className="margin-y-10">Sự khác biệt: Câu thứ hai <span className="highlight-255-padding-0-4">nhấn mạnh</span> rằng cuốn sách không chỉ thú vị mà còn mang lại <span className="highlight-255-padding-0-4">cảm giác hứng thú rất lớn</span> cho người đọc.</p>
 
-      </div> */}
+      </div>
 
       {/* <span className="highlight-255-padding-0-4"></span> */}
 
@@ -243,9 +215,9 @@ export default function (): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li></li>
+          <li>Dùng để nhấn mạnh: Thường được sử dụng để nhấn mạnh mức độ của một tính từ hoặc trạng từ đi kèm.</li>
 
-          <li className="margin-bottom-20"></li>
+          <li className="margin-bottom-20">Có thể dùng với nhiều loại từ: Có thể kết hợp với nhiều loại từ khác nhau để tạo ra các câu có ý nghĩa khác nhau.</li>
 
         </ul>
 
@@ -256,7 +228,7 @@ export default function (): React.JSX.Element {
       <div className="viewcounter">
       
         <div className="post-date no-margin">
-          <span> · by 💎Gem ·</span>
+          <span>November 6, 2024 · by 💎Gem ·</span>
         </div>
 
         <div className="eye-icon no-margin">

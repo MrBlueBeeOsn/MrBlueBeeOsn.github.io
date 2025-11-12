@@ -97,10 +97,10 @@ export default function Very1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Extremely: (adv) Cực kỳ /ɪkˈstriːm.li/</li>
+          <li><Link to="/vocabulary/extremely-1">Extremely</Link>: (adv) Cực kỳ /ɪkˈstriːm.li/</li>
           <li className="margin-bottom-20 list-none">She is extremely intelligent. (Cô ấy cực kỳ thông minh.)</li>
 
-          <li>Highly: (adv) Rất, cao /ˈhaɪ.li/</li>
+          <li><Link to="/vocabulary/highly-1">Highly</Link>: (adv) Rất, cao /ˈhaɪ.li/</li>
           <li className="list-none">He is highly motivated. (Anh ấy có động lực rất cao.)</li>
 
         </ul>
@@ -190,7 +190,7 @@ export default function Very1(): React.JSX.Element {
 
           <ol>
 
-            <li>Extremely: Nhấn mạnh một mức độ cực kỳ cao.</li>
+            <li><Link to="/vocabulary/extremely-1">Extremely</Link>: Nhấn mạnh một mức độ cực kỳ cao.</li>
             <li className="list-none margin-bottom-20">She is extremely happy. (Cô ấy vui sướng vô cùng.)</li>
 
             <li value="2"><strong>Very</strong>: <span className="highlight-255-padding-0-4">Nhấn mạnh một mức độ cao</span>.</li>

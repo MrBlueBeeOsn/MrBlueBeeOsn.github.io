@@ -1,9 +1,6 @@
-PS
-
 cd D:\GitHub\Black\MrBlackBeeOsn.github.io\mrblackbeeosn
 cd D:\GitHub\Blue\MrBlueBeeOsn.github.io\mrbluebeeosn
 cd D:\GitHub\Black\MrBlackBeeOsn.github.io\mrblackbeeosn
-
 
 Mở Command Palette:
 Ctrl + Shift + P (Windows/Linux)

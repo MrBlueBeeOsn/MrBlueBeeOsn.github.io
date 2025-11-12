@@ -154,11 +154,17 @@ const Posts = lazy(() => import('@/data/Posts'));
   const Never1 = lazy(() => import('@/2_main/english/vocabulary/Never1'));
   const Never2 = lazy(() => import('@/2_main/english/vocabulary/Never2'));
 
-  // 12. Vocabulary - Tính mức độ
+  // 12. Vocabulary - Mức độ cao
   const So1 = lazy(() => import('@/2_main/english/vocabulary/So1'));
   const So2 = lazy(() => import('@/2_main/english/vocabulary/So2'));
   const Very1 = lazy(() => import('@/2_main/english/vocabulary/Very1'));
   const Very2 = lazy(() => import('@/2_main/english/vocabulary/Very2'));
+  const Extremely1 = lazy(() => import('@/2_main/english/vocabulary/Extremely1'));
+  const Extremely2 = lazy(() => import('@/2_main/english/vocabulary/Extremely2'));
+  const Highly1 = lazy(() => import('@/2_main/english/vocabulary/Highly1'));
+  const Highly2 = lazy(() => import('@/2_main/english/vocabulary/Highly2'));
+  const Greatly1 = lazy(() => import('@/2_main/english/vocabulary/Greatly1'));
+  const Greatly2 = lazy(() => import('@/2_main/english/vocabulary/Greatly2'));
 
   // 13. Vocabulary - Không chắc chắn
   const Maybe1 = lazy(() => import('@/2_main/english/vocabulary/Maybe1'));
@@ -328,11 +334,17 @@ export default function AppRoutes(): React.JSX.Element {
           <Route path="/vocabulary/never-1" element={<Never1 />} />
           <Route path="/vocabulary/never-2" element={<Never2 />} />
 
-          {/* 12. Vocabulary - Tính mức độ */}
+          {/* 12. Vocabulary - Mức độ cao */}
           <Route path="/vocabulary/so-1" element={<So1 />} />
           <Route path="/vocabulary/so-2" element={<So2 />} />
           <Route path="/vocabulary/very-1" element={<Very1 />} />
           <Route path="/vocabulary/very-2" element={<Very2 />} />
+          <Route path="/vocabulary/extremely-1" element={<Extremely1 />} />
+          <Route path="/vocabulary/extremely-2" element={<Extremely2 />} />
+          <Route path="/vocabulary/highly-1" element={<Highly1 />} />
+          <Route path="/vocabulary/highly-2" element={<Highly2 />} />
+          <Route path="/vocabulary/greatly-1" element={<Greatly1 />} />
+          <Route path="/vocabulary/greatly-2" element={<Greatly2 />} />
 
           {/* 13. Vocabulary - Không chắc chắn */}
           <Route path="/vocabulary/maybe-1" element={<Maybe1 />} />
