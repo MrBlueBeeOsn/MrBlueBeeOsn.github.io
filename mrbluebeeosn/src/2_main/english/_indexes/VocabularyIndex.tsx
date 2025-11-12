@@ -25,41 +25,7 @@ export default function VocabularyIndex(): React.JSX.Element {
 			<div className="vocabulary-container">
 
 				{/* =============================
-							Tính liên tục
-				============================= */}
-
-				<details className="sub-box-fix">
-			
-					<summary id="khong-chac-chan-terms"><mark className="highlight-secondary-padding-2-4">Không chắc chắn</mark></summary>
-
-					<ul className="list-border1">
-
-						<li>
-							<Link to="/vocabulary/maybe-1">maybe
-								<sup>&nbsp;1&nbsp;</sup>
-									</Link> 
-									<Link to="/vocabulary/maybe-2">
-								<sup>&nbsp;2&nbsp;</sup>
-							</Link>
-						</li>
-
-						<li>
-							<Link to="/vocabulary/perhaps-1">perhaps
-								<sup>&nbsp;1&nbsp;</sup>
-									</Link> 
-									<Link to="/vocabulary/perhaps-2">
-								<sup>&nbsp;2&nbsp;</sup>
-							</Link>
-						</li>
-
-						
-						
-					</ul>
-
-				</details>
-
-				{/* =============================
-							Tính liên tục
+							Mức độ cao
 				============================= */}
 
 				<details className="sub-box-fix">
@@ -82,6 +48,40 @@ export default function VocabularyIndex(): React.JSX.Element {
 								<sup>&nbsp;1&nbsp;</sup>
 									</Link> 
 									<Link to="/vocabulary/very-2">
+								<sup>&nbsp;2&nbsp;</sup>
+							</Link>
+						</li>
+
+						
+						
+					</ul>
+
+				</details>
+
+				{/* =============================
+							Không chắc chắn
+				============================= */}
+
+				<details className="sub-box-fix">
+			
+					<summary id="khong-chac-chan-terms"><mark className="highlight-secondary-padding-2-4">Không chắc chắn</mark></summary>
+
+					<ul className="list-border1">
+
+						<li>
+							<Link to="/vocabulary/maybe-1">maybe
+								<sup>&nbsp;1&nbsp;</sup>
+									</Link> 
+									<Link to="/vocabulary/maybe-2">
+								<sup>&nbsp;2&nbsp;</sup>
+							</Link>
+						</li>
+
+						<li>
+							<Link to="/vocabulary/perhaps-1">perhaps
+								<sup>&nbsp;1&nbsp;</sup>
+									</Link> 
+									<Link to="/vocabulary/perhaps-2">
 								<sup>&nbsp;2&nbsp;</sup>
 							</Link>
 						</li>
@@ -175,7 +175,7 @@ export default function VocabularyIndex(): React.JSX.Element {
 				</details>
 
 				{/* =============================
-							Tính lặp lại
+							Thời gian hiếm
 				============================= */}
 
 				<details className="sub-box-fix">
