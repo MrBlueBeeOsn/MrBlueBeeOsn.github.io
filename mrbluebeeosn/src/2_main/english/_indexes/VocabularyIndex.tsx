@@ -64,7 +64,7 @@ export default function VocabularyIndex(): React.JSX.Element {
 
 				<details className="sub-box-fix">
 			
-					<summary id="tinh-muc-do-terms"><mark className="highlight-secondary-padding-2-4">Tính mức độ</mark></summary>
+					<summary id="muc-do-cao-terms"><mark className="highlight-secondary-padding-2-4">Mức độ cao</mark></summary>
 
 					<ul className="list-border1">
 
@@ -93,12 +93,12 @@ export default function VocabularyIndex(): React.JSX.Element {
 				</details>
 
 				{/* =============================
-							Không liên tục
+							Không
 				============================= */}
 
 				<details className="sub-box-fix">
 			
-					<summary id="khong-lien-tuc-terms"><mark className="highlight-secondary-padding-2-4">Không liên tục</mark></summary>
+					<summary id="khong-terms"><mark className="highlight-secondary-padding-2-4">Không</mark></summary>
 
 					<ul className="list-border1">
 
@@ -134,12 +134,12 @@ export default function VocabularyIndex(): React.JSX.Element {
 				</details>
 
 				{/* =============================
-							Tính liên tục
+							Có
 				============================= */}
 
 				<details className="sub-box-fix">
 			
-					<summary id="lien-tuc-terms"><mark className="highlight-secondary-padding-2-4">Liên tục</mark></summary>
+					<summary id="co-terms"><mark className="highlight-secondary-padding-2-4">Có</mark></summary>
 
 					<ul className="list-border1">
 

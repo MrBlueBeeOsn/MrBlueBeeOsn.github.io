@@ -15,7 +15,7 @@ export default function Not2(): React.JSX.Element {
 
     <article>
     
-      <h4><HashLink smooth to="/vocabulary#khong-lien-tuc-terms"><mark className="highlight-tertiary-padding-4-8">Không liên tục</mark></HashLink></h4>
+      <h4><HashLink smooth to="/vocabulary#khong-terms"><mark className="highlight-tertiary-padding-4-8">Không</mark></HashLink></h4>
       
       <h1 className="margin-y-50 text-center">not
         <sup>
