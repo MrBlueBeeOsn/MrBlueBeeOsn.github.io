@@ -1,6 +1,9 @@
+npm install -g npm@11.6.2
+
 cd D:\GitHub\Black\MrBlackBeeOsn.github.io\mrblackbeeosn
 cd D:\GitHub\Blue\MrBlueBeeOsn.github.io\mrbluebeeosn
 cd D:\GitHub\Black\MrBlackBeeOsn.github.io\mrblackbeeosn
+
 
 Mở Command Palette:
 Ctrl + Shift + P (Windows/Linux)
@@ -20,7 +23,7 @@ Khi có bài mới: npm run db:generate (merge, giữ stats cũ)
 Khi cần thêm field: npm run db:update-views hoặc npm run db:update-likes
 
 node generate-db.js
-node update-likes.js  
+node update-likes.js
 
 npm install -g json-server
 npm run db:server
