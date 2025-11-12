@@ -2,6 +2,7 @@ import React from 'react';
 import { Link } from "react-router-dom";
 import { HashLink } from 'react-router-hash-link';
 import EnglishTopic from '@/components/EnglishTopic';
+import SearchComponent from '@/components/SearchComponent';
 
 export default function EnglishIndex(): React.JSX.Element {
   return (<>
@@ -21,6 +22,12 @@ export default function EnglishIndex(): React.JSX.Element {
       ============================= */}
       
       <h3 className="margin-y-50 text-center" id="english-learning-terms">English Learning Terms</h3>
+
+      <div className="table-search margin-bottom-50">
+                        
+        <SearchComponent />
+                          
+      </div>
 
       <div className="flex-container">
 

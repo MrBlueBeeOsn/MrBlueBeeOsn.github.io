@@ -1,6 +1,7 @@
 import React from 'react';
 import { Link } from "react-router-dom";
 import { HashLink } from 'react-router-hash-link';
+import SearchComponent from '@/components/SearchComponent';
 
 export default function Home(): React.JSX.Element {
   
@@ -11,6 +12,12 @@ export default function Home(): React.JSX.Element {
       <article>
 
         <h1 className="margin-y-50 text-center">🌻 Welcome!</h1>
+
+        <div className="table-search margin-bottom-50">
+			
+				  <SearchComponent />
+							
+			  </div>
 
         <p className="quote">
 
