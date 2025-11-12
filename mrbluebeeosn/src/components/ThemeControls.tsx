@@ -78,7 +78,7 @@ const ThemeControls: React.FC = () => {
         position: 'fixed',
         top: 120,
         right: 20,
-        background: 'rgba(33,33,33,0.8)',
+        background: 'rgba(33,33,33,0.9)',
         padding: 20,
         borderRadius: 15,
         boxShadow: '0 4px 25px rgba(0,0,0,0.4)',
