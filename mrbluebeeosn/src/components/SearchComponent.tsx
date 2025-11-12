@@ -138,7 +138,7 @@ export default function SearchComponent(): React.JSX.Element {
           </>
         ) : (
           <div className="default-message">
-            <p>Nhập từ khoá để tìm kiếm bài viết...</p>
+            <p>Enter keywords to search for articles</p>
             {/* <p><small>Đang hiển thị {allPosts.length} bài viết từ {dbData.posts === allPosts ? 'file local' : 'API'}</small></p> */}
           </div>
         )}
