@@ -1220,6 +1220,50 @@
       "date": "2024-11-06",
       "views": 0,
       "likes": 0
+    },
+    {
+      "id": "Today1",
+      "categoryDisplay": "Thời gian hiện tại",
+      "categorySlug": "vocabulary#thoi-gian-hien-tai-terms",
+      "title": "today 1",
+      "content": "Chỉ thời điểm hiện tại, ngày mà người nói hoặc người nghe đang trải qua.",
+      "slug": "vocabulary/today-1",
+      "date": "2024-11-04",
+      "views": 0,
+      "likes": 0
+    },
+    {
+      "id": "Today2",
+      "categoryDisplay": "Thời gian hiện tại",
+      "categorySlug": "vocabulary#thoi-gian-hien-tai-terms",
+      "title": "today 2",
+      "content": "Today /təˈdeɪ/ •⬤ (2x) là một trạng từ chỉ thời gian rất phổ biến, thường được dùng để chỉ thời điểm hiện tại.",
+      "slug": "vocabulary/today-2",
+      "date": "2024-11-04",
+      "views": 0,
+      "likes": 0
+    },
+    {
+      "id": "Now1",
+      "categoryDisplay": "Thời gian hiện tại",
+      "categorySlug": "vocabulary#thoi-gian-hien-tai-terms",
+      "title": "now 1",
+      "content": "Chỉ thời điểm hiện tại, ngay lúc này.",
+      "slug": "vocabulary/now-1",
+      "date": "2024-11-04",
+      "views": 0,
+      "likes": 0
+    },
+    {
+      "id": "Now2",
+      "categoryDisplay": "Thời gian hiện tại",
+      "categorySlug": "vocabulary#thoi-gian-hien-tai-terms",
+      "title": "now 2",
+      "content": "Now /naʊ/ ⬤ (1x) là một trạng từ chỉ thời gian rất linh hoạt, có thể được sử dụng trong nhiều ngữ cảnh khác nhau.",
+      "slug": "vocabulary/now-2",
+      "date": "2024-11-04",
+      "views": 0,
+      "likes": 0
     }
   ]
 }

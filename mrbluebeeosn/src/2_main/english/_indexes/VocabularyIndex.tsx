@@ -212,6 +212,40 @@ export default function VocabularyIndex(): React.JSX.Element {
 
 				<details className="sub-box-fix">
 			
+					<summary id="thoi-gian-hien-tai-terms"><mark className="highlight-secondary-padding-2-4">Thời gian hiện tại</mark></summary>
+
+					<ul className="list-border1">
+
+						<li>
+							<Link to="/vocabulary/now-1">now
+								<sup>&nbsp;1&nbsp;</sup>
+									</Link> 
+									<Link to="/vocabulary/now-2">
+								<sup>&nbsp;2&nbsp;</sup>
+							</Link>
+						</li>
+
+						<li>
+							<Link to="/vocabulary/today-1">today
+								<sup>&nbsp;1&nbsp;</sup>
+									</Link> 
+									<Link to="/vocabulary/today-2">
+								<sup>&nbsp;2&nbsp;</sup>
+							</Link>
+						</li>
+
+						
+						
+					</ul>
+
+				</details>
+
+				{/* =============================
+							Thời gian hiếm
+				============================= */}
+
+				<details className="sub-box-fix">
+			
 					<summary id="thoi-gian-hiem-terms"><mark className="highlight-secondary-padding-2-4">Thời gian hiếm</mark></summary>
 
 					<ul className="list-border1">

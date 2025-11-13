@@ -86,6 +86,15 @@ export default function JourneyIndex(): React.JSX.Element {
                 <td>Successfully add Tailwind CSS.</td>
             </tr>
 
+      {/* =============================
+            Tháng 11
+      ============================= */}
+
+            <tr>
+                <td>Nov. 05</td>
+                <td>Meticulously add pattern (flowers).</td>
+            </tr>
+
           </tbody>
         </table>
     

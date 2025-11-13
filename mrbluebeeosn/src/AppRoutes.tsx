@@ -172,6 +172,12 @@ const Posts = lazy(() => import('@/data/Posts'));
   const Perhaps1 = lazy(() => import('@/2_main/english/vocabulary/Perhaps1'));
   const Perhaps2 = lazy(() => import('@/2_main/english/vocabulary/Perhaps2'));
 
+  // 14. Vocabulary - Thời gian hiện tại
+  const Now1 = lazy(() => import('@/2_main/english/vocabulary/Now1'));
+  const Now2 = lazy(() => import('@/2_main/english/vocabulary/Now2'));
+  const Today1 = lazy(() => import('@/2_main/english/vocabulary/Today1'));
+  const Today2 = lazy(() => import('@/2_main/english/vocabulary/Today2'));
+
 // 3. Test Tailwind
 	const TestTailwind = lazy(() => import('@/components/TestTailwind'));
 
@@ -351,6 +357,12 @@ export default function AppRoutes(): React.JSX.Element {
           <Route path="/vocabulary/maybe-2" element={<Maybe2 />} />
           <Route path="/vocabulary/perhaps-1" element={<Perhaps1 />} />
           <Route path="/vocabulary/perhaps-2" element={<Perhaps2 />} />
+
+          {/* 14. Vocabulary - Thời gian hiện tại */}
+          <Route path="/vocabulary/now-1" element={<Now1 />} />
+          <Route path="/vocabulary/now-2" element={<Now2 />} />
+          <Route path="/vocabulary/today-1" element={<Today1 />} />
+          <Route path="/vocabulary/today-2" element={<Today2 />} />
 
           {/* 3. Test Tailwind */}
 					<Route path="/tailwindcss/test-tailwind" element={<TestTailwind />} />
