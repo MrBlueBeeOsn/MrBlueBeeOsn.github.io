@@ -226,6 +226,15 @@ export default function VocabularyIndex(): React.JSX.Element {
 						</li>
 
 						<li>
+							<Link to="/vocabulary/currently-1">currently
+								<sup>&nbsp;1&nbsp;</sup>
+									</Link> 
+									<Link to="/vocabulary/currently-2">
+								<sup>&nbsp;2&nbsp;</sup>
+							</Link>
+						</li>
+
+						<li>
 							<Link to="/vocabulary/today-1">today
 								<sup>&nbsp;1&nbsp;</sup>
 									</Link> 
@@ -234,7 +243,14 @@ export default function VocabularyIndex(): React.JSX.Element {
 							</Link>
 						</li>
 
-						
+						<li>
+							<Link to="/vocabulary/presently-1">presently
+								<sup>&nbsp;1&nbsp;</sup>
+									</Link> 
+									<Link to="/vocabulary/presently-2">
+								<sup>&nbsp;2&nbsp;</sup>
+							</Link>
+						</li>
 						
 					</ul>
 

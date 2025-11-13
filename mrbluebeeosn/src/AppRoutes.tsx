@@ -177,6 +177,10 @@ const Posts = lazy(() => import('@/data/Posts'));
   const Now2 = lazy(() => import('@/2_main/english/vocabulary/Now2'));
   const Today1 = lazy(() => import('@/2_main/english/vocabulary/Today1'));
   const Today2 = lazy(() => import('@/2_main/english/vocabulary/Today2'));
+  const Currently1 = lazy(() => import('@/2_main/english/vocabulary/Currently1'));
+  const Currently2 = lazy(() => import('@/2_main/english/vocabulary/Currently2'));
+  const Presently1 = lazy(() => import('@/2_main/english/vocabulary/Presently1'));
+  const Presently2 = lazy(() => import('@/2_main/english/vocabulary/Presently2'));
 
 // 3. Test Tailwind
 	const TestTailwind = lazy(() => import('@/components/TestTailwind'));
@@ -363,6 +367,10 @@ export default function AppRoutes(): React.JSX.Element {
           <Route path="/vocabulary/now-2" element={<Now2 />} />
           <Route path="/vocabulary/today-1" element={<Today1 />} />
           <Route path="/vocabulary/today-2" element={<Today2 />} />
+          <Route path="/vocabulary/currently-1" element={<Currently1 />} />
+          <Route path="/vocabulary/currently-2" element={<Currently2 />} />
+          <Route path="/vocabulary/presently-1" element={<Presently1 />} />
+          <Route path="/vocabulary/presently-2" element={<Presently2 />} />
 
           {/* 3. Test Tailwind */}
 					<Route path="/tailwindcss/test-tailwind" element={<TestTailwind />} />

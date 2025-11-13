@@ -1264,6 +1264,50 @@
       "date": "2024-11-04",
       "views": 0,
       "likes": 0
+    },
+    {
+      "id": "Currently1",
+      "categoryDisplay": "Thời gian hiện tại",
+      "categorySlug": "vocabulary#thoi-gian-hien-tai-terms",
+      "title": "currently 1",
+      "content": "Từ \"currently\" được dùng để chỉ một hành động, trạng thái hoặc sự kiện đang diễn ra tại thời điểm nói. Nó nhấn mạnh tính chất tạm thời của một tình huống.",
+      "slug": "vocabulary/currently-1",
+      "date": "2024-11-05",
+      "views": 0,
+      "likes": 0
+    },
+    {
+      "id": "Currently2",
+      "categoryDisplay": "Thời gian hiện tại",
+      "categorySlug": "vocabulary#thoi-gian-hien-tai-terms",
+      "title": "currently 2",
+      "content": "Currently /ˈkʌrəntli/ ⬤•• (3x) thường được sử dụng để chỉ một hành động, trạng thái hoặc tình huống đang diễn ra tại thời điểm nói.",
+      "slug": "vocabulary/currently-2",
+      "date": "2024-11-05",
+      "views": 0,
+      "likes": 0
+    },
+    {
+      "id": "Presently1",
+      "categoryDisplay": "Thời gian hiện tại",
+      "categorySlug": "vocabulary#thoi-gian-hien-tai-terms",
+      "title": "presently 1",
+      "content": "1. Hiện tại: Khi sử dụng \"presently\" với nghĩa hiện tại, nó đồng nghĩa với \"now\" (bây giờ). | 2. Sớm thôi: Khi sử dụng \"presently\" với nghĩa tương lai gần, nó có nghĩa là một việc gì đó sẽ xảy ra trong thời gian ngắn sắp tới.",
+      "slug": "vocabulary/presently-1",
+      "date": "2024-11-07",
+      "views": 0,
+      "likes": 0
+    },
+    {
+      "id": "Presently2",
+      "categoryDisplay": "Thời gian hiện tại",
+      "categorySlug": "vocabulary#thoi-gian-hien-tai-terms",
+      "title": "presently 2",
+      "content": "Presently /ˈprezəntli/ ⬤•• (3x) thường được dùng để chỉ một thời điểm xảy ra ngay bây giờ hoặc trong tương lai gần.",
+      "slug": "vocabulary/presently-2",
+      "date": "2024-11-07",
+      "views": 0,
+      "likes": 0
     }
   ]
 }
