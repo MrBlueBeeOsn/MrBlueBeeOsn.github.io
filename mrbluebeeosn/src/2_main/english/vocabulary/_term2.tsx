@@ -15,7 +15,7 @@ export default function (): React.JSX.Element {
 
     <article>
     
-      <h4><HashLink smooth to="/vocabulary#khong-chac-chan-terms"><mark className="highlight-tertiary-padding-4-8">Không chắc chắn</mark></HashLink></h4>
+      <h4><HashLink smooth to="/vocabulary#thoi-gian-tuong-lai-terms"><mark className="highlight-tertiary-padding-4-8">Thời gian tương lai</mark></HashLink></h4>
       
       <h1 className="margin-y-50 text-center">ly
         <sup>

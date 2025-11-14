@@ -1352,6 +1352,50 @@
       "date": "2024-11-07",
       "views": 0,
       "likes": 0
+    },
+    {
+      "id": "Tomorrow1",
+      "categoryDisplay": "Thời gian tương lai",
+      "categorySlug": "vocabulary#thoi-gian-tuong-lai-terms",
+      "title": "tomorrow 1",
+      "content": "Chỉ thời điểm sau thời điểm hiện tại 24 giờ, ngày tiếp theo sau ngày hôm nay.",
+      "slug": "vocabulary/tomorrow-1",
+      "date": "2024-11-04",
+      "views": 0,
+      "likes": 0
+    },
+    {
+      "id": "Tomorrow2",
+      "categoryDisplay": "Thời gian tương lai",
+      "categorySlug": "vocabulary#thoi-gian-tuong-lai-terms",
+      "title": "tomorrow 2",
+      "content": "Tomorrow /təˈmɔː.roʊ/ •⬤• (3x) là một trạng từ chỉ thời gian, thường được dùng để diễn tả một hành động hoặc sự việc sẽ xảy ra vào ngày mai.",
+      "slug": "vocabulary/tomorrow-2",
+      "date": "2024-11-04",
+      "views": 0,
+      "likes": 0
+    },
+    {
+      "id": "Soon1",
+      "categoryDisplay": "Thời gian tương lai",
+      "categorySlug": "vocabulary#thoi-gian-tuong-lai-terms",
+      "title": "soon 1",
+      "content": "Chỉ một khoảng thời gian ngắn trong tương lai, một sự kiện sẽ xảy ra trong thời gian gần.",
+      "slug": "vocabulary/soon-1",
+      "date": "2024-11-07",
+      "views": 0,
+      "likes": 0
+    },
+    {
+      "id": "Soon2",
+      "categoryDisplay": "Thời gian tương lai",
+      "categorySlug": "vocabulary#thoi-gian-tuong-lai-terms",
+      "title": "soon 2",
+      "content": "Soon /suːn/ ⬤ (1x) là một trạng từ chỉ thời gian, thường được dùng để diễn tả một sự kiện sẽ xảy ra trong tương lai gần.",
+      "slug": "vocabulary/soon-2",
+      "date": "2024-11-07",
+      "views": 0,
+      "likes": 0
     }
   ]
 }

@@ -186,6 +186,12 @@ const Posts = lazy(() => import('@/data/Posts'));
   const Presently1 = lazy(() => import('@/2_main/english/vocabulary/Presently1'));
   const Presently2 = lazy(() => import('@/2_main/english/vocabulary/Presently2'));
 
+  // 15. Vocabulary - Thời gian tương lai
+  const Soon1 = lazy(() => import('@/2_main/english/vocabulary/Soon1'));
+  const Soon2 = lazy(() => import('@/2_main/english/vocabulary/Soon2'));
+  const Tomorrow1 = lazy(() => import('@/2_main/english/vocabulary/Tomorrow1'));
+  const Tomorrow2 = lazy(() => import('@/2_main/english/vocabulary/Tomorrow2'));
+
 // 3. Test Tailwind
 	const TestTailwind = lazy(() => import('@/components/TestTailwind'));
 
@@ -379,6 +385,12 @@ export default function AppRoutes(): React.JSX.Element {
           <Route path="/vocabulary/currently-2" element={<Currently2 />} />
           <Route path="/vocabulary/presently-1" element={<Presently1 />} />
           <Route path="/vocabulary/presently-2" element={<Presently2 />} />
+
+          {/* 15. Vocabulary - Thời gian tương lai */}
+          <Route path="/vocabulary/soon-1" element={<Soon1 />} />
+          <Route path="/vocabulary/soon-2" element={<Soon2 />} />
+          <Route path="/vocabulary/tomorrow-1" element={<Tomorrow1 />} />
+          <Route path="/vocabulary/tomorrow-2" element={<Tomorrow2 />} />
 
           {/* 3. Test Tailwind */}
 					<Route path="/tailwindcss/test-tailwind" element={<TestTailwind />} />
