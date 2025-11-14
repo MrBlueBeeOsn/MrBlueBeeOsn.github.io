@@ -100,7 +100,7 @@ export default function Maybe1(): React.JSX.Element {
           <li><Link to="/vocabulary/perhaps-1">Perhaps</Link>: (adv) /pərˈhæps/ - có lẽ</li>
           <li className="margin-bottom-20 list-none">Perhaps we can meet later. (Có lẽ chúng ta có thể gặp nhau sau.)</li>
 
-          <li>Possibly: (adv) /ˈpɑː.sə.bli/ - có thể</li>
+          <li><Link to="/vocabulary/possibly-1">Possibly</Link>: (adv) /ˈpɑː.sə.bli/ - có thể</li>
           <li className="list-none">It's possibly the best day of my life. (Có thể đây là ngày tuyệt vời nhất trong đời tôi.)</li>
 
         </ul>

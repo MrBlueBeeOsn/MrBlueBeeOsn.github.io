@@ -171,6 +171,10 @@ const Posts = lazy(() => import('@/data/Posts'));
   const Maybe2 = lazy(() => import('@/2_main/english/vocabulary/Maybe2'));
   const Perhaps1 = lazy(() => import('@/2_main/english/vocabulary/Perhaps1'));
   const Perhaps2 = lazy(() => import('@/2_main/english/vocabulary/Perhaps2'));
+  const Possibly1 = lazy(() => import('@/2_main/english/vocabulary/Possibly1'));
+  const Possibly2 = lazy(() => import('@/2_main/english/vocabulary/Possibly2'));
+  const Questionably1 = lazy(() => import('@/2_main/english/vocabulary/Questionably1'));
+  const Questionably2 = lazy(() => import('@/2_main/english/vocabulary/Questionably2'));
 
   // 14. Vocabulary - Thời gian hiện tại
   const Now1 = lazy(() => import('@/2_main/english/vocabulary/Now1'));
@@ -361,6 +365,10 @@ export default function AppRoutes(): React.JSX.Element {
           <Route path="/vocabulary/maybe-2" element={<Maybe2 />} />
           <Route path="/vocabulary/perhaps-1" element={<Perhaps1 />} />
           <Route path="/vocabulary/perhaps-2" element={<Perhaps2 />} />
+          <Route path="/vocabulary/possibly-1" element={<Possibly1 />} />
+          <Route path="/vocabulary/possibly-2" element={<Possibly2 />} />
+          <Route path="/vocabulary/questionably-1" element={<Questionably1 />} />
+          <Route path="/vocabulary/questionably-2" element={<Questionably2 />} />
 
           {/* 14. Vocabulary - Thời gian hiện tại */}
           <Route path="/vocabulary/now-1" element={<Now1 />} />

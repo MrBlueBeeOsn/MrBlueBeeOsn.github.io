@@ -5,9 +5,9 @@ import EyeIcon from '@/components/EyeIcon';
 import ViewCounter from '@/components/ViewCounter';
 import LikeButton from '@/components/LikeButton';
 
-export default function Sometimes1(): React.JSX.Element {
+export default function Questionably1(): React.JSX.Element {
 
-  const postId = "Sometimes1";
+  const postId = "Questionably1";
 
   return (<>
 
@@ -15,37 +15,37 @@ export default function Sometimes1(): React.JSX.Element {
 
     <article>
     
-      <h4><HashLink smooth to="/vocabulary#thoi-gian-hiem-terms"><mark className="highlight-tertiary-padding-4-8">Thời gian hiếm</mark></HashLink></h4>
+      <h4><HashLink smooth to="/vocabulary#khong-chac-chan-terms"><mark className="highlight-tertiary-padding-4-8">Không chắc chắn</mark></HashLink></h4>
       
-      <h1 className="margin-y-50 text-center">sometimes
-        <sup><Link to="/vocabulary/sometimes-1">&nbsp;1&nbsp;</Link>
+      <h1 className="margin-y-50 text-center">questionably
+        <sup><Link to="/vocabulary/questionably-1">&nbsp;1&nbsp;</Link>
         </sup>
-        <sup><Link to="/vocabulary/sometimes-2">&nbsp;2&nbsp;</Link>
+        <sup><Link to="/vocabulary/questionably-2">&nbsp;2&nbsp;</Link>
         </sup>
       </h1>
 
       {/* This is the content of Vocabulary Term. */}
       
-      <p>Tuyệt vời! Chúng ta cùng đi sâu vào phân tích từ "<strong>sometimes</strong>" và các thành ngữ liên quan nhé.</p>
+      <p>Tuyệt vời! Chúng ta cùng đi sâu vào từ "<strong>questionably</strong>" nhé.</p>
 
       <div className="text-border1 padding-top-20 padding-bottom-10 highlight-238-padding-4-8 bee-container">
 
         <div>
 
-          <p className="margin-bottom-20"><strong>Sometimes</strong></p>
+          <p className="margin-bottom-20"><strong>Questionably</strong></p>
 
           <ul className="list-square padding-left-40">
 
             <li>
               <span className="highlight-255-padding-3-6">
-                /ˈsʌmtaɪmz/ + /<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">sômetīmes</Link>/
-                <sup>&nbsp;⬤• (2x)</sup>
+                /ˈkwɛstʃənəbli/ + /<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">questiơna̛bly</Link>/
+                <sup>&nbsp;⬤••• (4x)</sup>
               </span>
             </li>
 
             <li>Trạng từ (<Link to="/grammar/what-is-an-adverb?">adverb</Link>)</li>
 
-            <li>Tính thỉnh thoảng, đôi khi</li>
+            <li>Một cách đáng ngờ, không chắc chắn</li>
 
           </ul>
 
@@ -57,15 +57,15 @@ export default function Sometimes1(): React.JSX.Element {
 
       </div>
 
-      <p className="margin-top-30 text-indent-whole">Chỉ sự không thường xuyên, xảy ra một cách ngẫu nhiên.</p>
+      <p className="margin-top-30 text-indent-whole">Từ "<strong>questionably</strong>" được sử dụng để diễn tả một điều gì đó không chắc chắn, gây nghi ngờ hoặc có thể không đúng sự thật. Nó thường được dùng để thể hiện sự hoài nghi hoặc không đồng ý về một vấn đề nào đó.</p>
 
       <p className="text-indent-whole">Ví dụ:</p>
 
         <ul className="list-square">
 
-          <li>I <strong>sometimes</strong> go to the gym after work. (Tôi thỉnh thoảng đi tập gym sau giờ làm.)</li>
+          <li>His story sounds <strong>questionably</strong> true. (Câu chuyện của anh ta nghe có vẻ không chắc chắn là đúng.)</li>
 
-          <li>It <strong>sometimes</strong> rains in the summer. (Mùa hè đôi khi cũng mưa.)</li>
+          <li>The data is <strong>questionably</strong> accurate. (Dữ liệu này có vẻ không chính xác lắm.)</li>
 
         </ul>
 
@@ -81,7 +81,14 @@ export default function Sometimes1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li className="list-none">Không có gia đình từ trực tiếp cho "<strong>sometimes</strong>" vì đây là một từ đơn.</li>
+          <li>Question (v): Hỏi, đặt câu hỏi /ˈkwɛstʃən/</li>
+          <li className="margin-bottom-20 list-none">I question his motives. (Tôi nghi ngờ động cơ của anh ta.)</li>
+
+          <li>Question (n): Câu hỏi /ˈkwɛstʃən/</li>
+          <li className="margin-bottom-20 list-none">I have a question for you. (Tôi có một câu hỏi cho bạn.)</li>
+
+          <li>Questionable (adj): Đáng ngờ /ˈkwɛstʃənəbl/</li>
+          <li className="list-none">His actions are questionable. (Hành động của anh ta rất đáng ngờ.)</li>
 
         </ul>
 
@@ -97,11 +104,11 @@ export default function Sometimes1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li><Link to="/vocabulary/occasionally-1">Occasionally</Link>: (adv) /əˈkeɪʒnəli/ - thỉnh thoảng</li>
-          <li className="margin-bottom-20 list-none">We occasionally meet for coffee. (Chúng tôi thỉnh thoảng gặp nhau để uống cà phê.)</li>
+          <li>Doubtfully: Một cách nghi ngờ /ˈdaʊtfəli/</li>
+          <li className="margin-bottom-20 list-none">He looked at me doubtfully. (Anh ta nhìn tôi một cách nghi ngờ.)</li>
 
-          <li>From time to time: (adv) /frəm taɪm tə taɪm/ - thỉnh thoảng</li>
-          <li className="list-none">From time to time, I like to watch movies. (Thỉnh thoảng, tôi thích xem phim.)</li>
+          <li>Suspiciously: Một cách nghi ngờ /səˈspɪʃəsli/</li>
+          <li className="list-none">She glanced at him suspiciously. (Cô ấy liếc nhìn anh ta một cách nghi ngờ.)</li>
 
         </ul>
 
@@ -119,11 +126,11 @@ export default function Sometimes1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li><Link to="/vocabulary/always-1">Always</Link>: (adv) /ˈɔːlweɪz/ - luôn luôn</li>
-          <li className="margin-bottom-20 list-none">She always comes to class on time. (Cô ấy luôn đến lớp đúng giờ.)</li>
+          <li><Link to="/vocabulary/definitely-1">Definitely</Link>: Một cách chắc chắn /ˈdɛfɪnɪtli/</li>
+          <li className="margin-bottom-20 list-none">I definitely know the answer. (Tôi chắc chắn biết câu trả lời.)</li>
 
-          <li><Link to="/vocabulary/never-1">Never</Link>: (adv) /ˈnɛvər/ - chưa bao giờ</li>
-          <li className="list-none">I have never been to Paris. (Tôi chưa bao giờ đến Paris.)</li>
+          <li>Certainly: Một cách chắc chắn /ˈsɜːrtnli/</li>
+          <li className="list-none">Certainly, I will help you. (Chắc chắn rồi, tôi sẽ giúp bạn.)</li>
 
         </ul>
       
@@ -144,12 +151,12 @@ export default function Sometimes1(): React.JSX.Element {
         <strong>&nbsp;với hình ảnh</strong>:
       </p>
 
-      <p className="text-indent-whole">Hình dung một chiếc đồng hồ với kim giây quay liên tục để thể hiện sự không đều đặn.</p>
+      <p className="text-indent-whole">Hình dung một dấu chấm hỏi lớn hoặc một biểu tượng nghi ngờ.</p>
 
         <ul className="list-square">
 
-          <li>The watch is running erratically; the second hand <strong>sometimes</strong> jumps.</li>
-          <li className="list-none">(Đồng hồ chạy không đều; kim giây đôi khi nhảy.)</li>
+          <li>The quality of the product is <strong>questionably</strong> high.</li>
+          <li className="list-none">(Chất lượng của sản phẩm này đáng ngờ.)</li>
 
         </ul>
 
@@ -164,12 +171,12 @@ export default function Sometimes1(): React.JSX.Element {
         <strong>&nbsp;ví dụ</strong>:
       </p>
 
-      <p className="text-indent-whole">Tạo nhiều câu với "<strong>sometimes</strong>" trong các ngữ cảnh khác nhau, liên quan đến tần suất.</p>
+      <p className="text-indent-whole">Tạo các câu liên quan đến các tình huống gây nghi ngờ.</p>
 
         <ul className="list-square">
 
-          <li>I feel happy <strong>sometimes</strong>, but other times I feel sad.</li>
-          <li className="list-none">(Tôi cảm thấy hạnh phúc đôi khi, nhưng những lúc khác tôi lại cảm thấy buồn.)</li>
+          <li>The evidence is <strong>questionably</strong> reliable.</li>
+          <li className="list-none">(Bằng chứng này có vẻ không đáng tin cậy lắm.)</li>
 
         </ul>
 
@@ -184,33 +191,23 @@ export default function Sometimes1(): React.JSX.Element {
         <strong>&nbsp;thường xuyên</strong>:
       </p>
 
-      <p className="text-indent-whole">Thường xuyên sử dụng từ "<strong>sometimes</strong>" trong giao tiếp hoặc khi viết.</p>
+      <p className="text-indent-whole">Thường xuyên sử dụng từ này trong các bài viết hoặc cuộc trò chuyện.</p>
 
-        <p className="text-indent-whole">Ví dụ để so sánh (sự khác biệt giữa occasionally và <strong>sometimes</strong>):</p>
+        <p className="text-indent-whole">Ví dụ để so sánh (sự khác biệt):</p>
 
           <ol>
 
-            <li><Link to="/vocabulary/occasionally-1">Occasionally</Link>: Mang ý nghĩa lịch sự hơn và nhấn mạnh tính ngẫu nhiên.</li>
-            <li className="list-none margin-bottom-20">We occasionally meet for lunch. (Chúng tôi thỉnh thoảng gặp nhau để ăn trưa.)</li>
+            <li>He is a good person. (Anh ấy là một người tốt.)</li>
 
-            <li value="2"><strong>Sometimes</strong>: <span className="highlight-255-padding-0-4">Mang ý nghĩa chung chung về sự không thường xuyên</span>.</li>
-            <li className="list-none margin-bottom-20">I <strong>sometimes</strong> forget to bring my umbrella. (Tôi đôi khi quên mang ô.)</li>
-
-          </ol>
-
-          {/* <ol>
-
-            <li></li>
-
-            <li className="margin-bottom-20"></li>
+            <li className="margin-bottom-20">His motives are <strong>questionably</strong> good. (Động cơ của anh ấy có vẻ không tốt lắm.)</li>
 
           </ol>
 
       <div className="margin-bottom-20 padding-top-20 text-border1 padding-10 highlight-238-padding-4-8 bee-container">
 
-        <p className="margin-y-10">Sự khác biệt: </p>
+        <p className="margin-y-10">Sự khác biệt: Câu thứ hai <span className="highlight-255-padding-0-4">tạo ra sự nghi ngờ về động cơ</span> của người đó, trong khi câu đầu tiên khẳng định một cách chắc chắn.</p>
 
-      </div> */}
+      </div>
 
       {/* <span className="highlight-255-padding-0-4"></span> */}
 
@@ -224,9 +221,9 @@ export default function Sometimes1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>"<strong>Sometimes</strong>" thường đứng trước động từ chính trong câu.</li>
+          <li>Tạo sự hoài nghi: Tạo ra một cảm giác hoài nghi hoặc không tin tưởng.</li>
 
-          <li className="margin-bottom-20">Nó có thể được sử dụng để diễn tả sự không chắc chắn hoặc sự thay đổi về tần suất.</li>
+          <li className="margin-bottom-20">Không chắc chắn: Thể hiện sự không chắc chắn về tính xác thực hoặc độ tin cậy của một điều gì đó.</li>
 
         </ul>
 

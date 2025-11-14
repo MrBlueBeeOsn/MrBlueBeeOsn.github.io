@@ -120,10 +120,10 @@ export default function Occasionally1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Always: Luôn luôn /ˈɔːlweɪz/</li>
+          <li><Link to="/vocabulary/always-1">Always</Link>: Luôn luôn /ˈɔːlweɪz/</li>
           <li className="margin-bottom-20 list-none">She is always on time. (Cô ấy luôn đúng giờ.)</li>
 
-          <li>Never: Không bao giờ /ˈnevər/</li>
+          <li><Link to="/vocabulary/never-1">Never</Link>: Không bao giờ /ˈnevər/</li>
           <li className="list-none">I never eat fast food. (Tôi không bao giờ ăn đồ ăn nhanh.)</li>
 
         </ul>

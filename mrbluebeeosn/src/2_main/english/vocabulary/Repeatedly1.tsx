@@ -129,7 +129,7 @@ export default function Repeatedly1(): React.JSX.Element {
           <li>Once: Một lần /wʌns/</li>
           <li className="margin-bottom-20 list-none">I've only done it once. (Tôi chỉ làm điều đó một lần.)</li>
 
-          <li>Rarely: Hiếm khi /ˈreərli/</li>
+          <li><Link to="/vocabulary/rarely-1">Rarely</Link>: Hiếm khi /ˈreərli/</li>
           <li className="list-none">He rarely visits us. (Anh ấy hiếm khi đến thăm chúng tôi.)</li>
 
         </ul>

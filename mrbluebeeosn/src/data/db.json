@@ -1112,6 +1112,50 @@
       "likes": 0
     },
     {
+      "id": "Possibly1",
+      "categoryDisplay": "Không chắc chắn",
+      "categorySlug": "vocabulary#khong-chac-chan-terms",
+      "title": "possibly 1",
+      "content": "Từ \"possibly\" được dùng để diễn tả một sự việc có khả năng xảy ra, nhưng không chắc chắn hoàn toàn. Nó thường được sử dụng để thể hiện sự không chắc chắn hoặc để đưa ra một giả định.",
+      "slug": "vocabulary/possibly-1",
+      "date": "2024-11-07",
+      "views": 0,
+      "likes": 0
+    },
+    {
+      "id": "Possibly2",
+      "categoryDisplay": "Không chắc chắn",
+      "categorySlug": "vocabulary#khong-chac-chan-terms",
+      "title": "possibly 2",
+      "content": "Possibly /ˈpɒsəbli/ ⬤•• (3x) thường được dùng để thể hiện sự không chắc chắn, khả năng xảy ra của một sự việc hoặc tình huống.",
+      "slug": "vocabulary/possibly-2",
+      "date": "2024-11-07",
+      "views": 0,
+      "likes": 0
+    },
+    {
+      "id": "Questionably1",
+      "categoryDisplay": "Không chắc chắn",
+      "categorySlug": "vocabulary#khong-chac-chan-terms",
+      "title": "questionably 1",
+      "content": "Từ \"questionably\" được sử dụng để diễn tả một điều gì đó không chắc chắn, gây nghi ngờ hoặc có thể không đúng sự thật. Nó thường được dùng để thể hiện sự hoài nghi hoặc không đồng ý về một vấn đề nào đó.",
+      "slug": "vocabulary/questionably-1",
+      "date": "2024-11-05",
+      "views": 0,
+      "likes": 0
+    },
+    {
+      "id": "Questionably2",
+      "categoryDisplay": "Không chắc chắn",
+      "categorySlug": "vocabulary#khong-chac-chan-terms",
+      "title": "questionably 2",
+      "content": "Questionably /ˈkwɛstʃənəbli/ ⬤••• (4x) trong tiếng Anh có nghĩa là \"một cách đáng ngờ\", thường được dùng để mô tả những gì gây nghi ngờ, không chắc chắn hoặc không đáng tin cậy.",
+      "slug": "vocabulary/questionably-2",
+      "date": "2024-11-05",
+      "views": 0,
+      "likes": 0
+    },
+    {
       "id": "So1",
       "categoryDisplay": "Mức độ cao",
       "categorySlug": "vocabulary#muc-do-cao-terms",

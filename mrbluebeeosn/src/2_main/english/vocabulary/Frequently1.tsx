@@ -123,10 +123,10 @@ export default function Frequently1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Rarely: hiếm khi /ˈreərli/</li>
+          <li><Link to="/vocabulary/rarely-1">Rarely</Link>: hiếm khi /ˈreərli/</li>
           <li className="margin-bottom-20 list-none">I rarely eat meat. (Tôi hiếm khi ăn thịt.)</li>
 
-          <li>Seldom: ít khi /ˈsɛldəm/</li>
+          <li><Link to="/vocabulary/seldom-1">Seldom</Link>: ít khi /ˈsɛldəm/</li>
           <li className="list-none">She seldom goes to the movies. (Cô ấy ít khi đi xem phim.)</li>
 
         </ul>

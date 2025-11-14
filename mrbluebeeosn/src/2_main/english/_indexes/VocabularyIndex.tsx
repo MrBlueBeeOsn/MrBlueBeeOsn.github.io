@@ -118,7 +118,23 @@ export default function VocabularyIndex(): React.JSX.Element {
 							</Link>
 						</li>
 
-						
+						<li>
+							<Link to="/vocabulary/possibly-1">possibly
+								<sup>&nbsp;1&nbsp;</sup>
+									</Link> 
+									<Link to="/vocabulary/possibly-2">
+								<sup>&nbsp;2&nbsp;</sup>
+							</Link>
+						</li>
+
+						<li>
+							<Link to="/vocabulary/questionably-1">questionably
+								<sup>&nbsp;1&nbsp;</sup>
+									</Link> 
+									<Link to="/vocabulary/questionably-2">
+								<sup>&nbsp;2&nbsp;</sup>
+							</Link>
+						</li>
 						
 					</ul>
 

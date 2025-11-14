@@ -119,10 +119,10 @@ export default function Often1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Rarely: (adv) /ˈreər.li/ - Hiếm khi</li>
+          <li><Link to="/vocabulary/rarely-1">Rarely</Link>: (adv) /ˈreər.li/ - Hiếm khi</li>
           <li className="margin-bottom-20 list-none">I rarely eat fast food. (Tôi hiếm khi ăn đồ ăn nhanh.)</li>
 
-          <li>Never: (adv) /ˈnev.ər/ - Không bao giờ</li>
+          <li><Link to="/vocabulary/never-1">Never</Link>: (adv) /ˈnev.ər/ - Không bao giờ</li>
           <li className="list-none">She never lies. (Cô ấy không bao giờ nói dối.)</li>
 
         </ul>
