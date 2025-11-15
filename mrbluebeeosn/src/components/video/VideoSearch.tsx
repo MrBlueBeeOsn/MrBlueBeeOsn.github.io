@@ -1,27 +1,45 @@
 // components/VideoSearch.tsx / BY DPSK
+// YOUTUBE_API_KEY = 'AIzaSyBKfy2qoaxzxBRs7WbMXznGJIxshxKPK-A';
+
+// components/VideoSearch.tsx
 import React, { useState } from 'react';
-import axios from 'axios';
-import SearchIcon from '@/components/icon/SearchIcon';
-// import './VideoSearch.css';
+
+// Simple SVG Icons
+const SearchIcon = () => (
+  <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
+    <circle cx="11" cy="11" r="8" />
+    <path d="m21 21-4.35-4.35" />
+  </svg>
+);
 
 const ClearIcon = () => (
-  <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor">
+  <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
     <path d="M18 6L6 18M6 6l12 12" />
   </svg>
 );
 
+const ClockIcon = () => (
+  <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
+    <circle cx="12" cy="12" r="10" />
+    <polyline points="12 6 12 12 16 14" />
+  </svg>
+);
+
+const AlertIcon = () => (
+  <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
+    <circle cx="12" cy="12" r="10" />
+    <line x1="12" y1="8" x2="12" y2="12" />
+    <line x1="12" y1="16" x2="12.01" y2="16" />
+  </svg>
+);
+
 interface Video {
-  id: {
-    videoId: string;
-  };
+  id: { videoId: string };
   snippet: {
     title: string;
-    thumbnails: {
-      medium: {
-        url: string;
-      };
-    };
+    thumbnails: { medium: { url: string } };
     channelTitle: string;
+    description: string;
   };
 }
 
@@ -30,62 +48,99 @@ interface Timestamp {
   text: string;
 }
 
-  const VideoSearch: React.FC = () => {
-  const [searchWord, setSearchWord] = useState<string>('');
+const VideoSearch: React.FC = () => {
+  const [searchWord, setSearchWord] = useState('');
   const [videos, setVideos] = useState<Video[]>([]);
-  const [loading, setLoading] = useState<boolean>(false);
-  const [error, setError] = useState<string>('');
-  const [activeVideoId, setActiveVideoId] = useState<string>('');
+  const [loading, setLoading] = useState(false);
+  const [error, setError] = useState('');
+  const [analyzingVideos, setAnalyzingVideos] = useState<Set<string>>(new Set());
   const [timestamps, setTimestamps] = useState<{ [key: string]: Timestamp[] }>({});
 
-  const YOUTUBE_API_KEY = 'AIzaSyBKfy2qoaxzxBRs7WbMXznGJIxshxKPK-A'; // Thay bằng API key thật
+  // QUAN TRỌNG: Thay YOUR_API_KEY bằng API key thật
+  const YOUTUBE_API_KEY = 'AIzaSyBKfy2qoaxzxBRs7WbMXznGJIxshxKPK-A';
 
-  const searchVideos = async (e: React.FormEvent) => {
-    e.preventDefault();
+  const handleSearch = async () => {
     if (!searchWord.trim()) return;
 
     setLoading(true);
     setError('');
+    setVideos([]);
+    setTimestamps({});
     
     try {
-      const response = await axios.get(
-        `https://www.googleapis.com/youtube/v3/search`, {
-          params: {
-            part: 'snippet',
-            type: 'video',
-            videoCaption: 'closedCaption',
-            q: `${searchWord} English pronunciation interview`,
-            maxResults: 8,
-            key: YOUTUBE_API_KEY
-          }
-        }
+      // Tìm kiếm chính xác hơn với dấu ngoặc kép
+      const response = await fetch(
+        `https://www.googleapis.com/youtube/v3/search?` +
+        `part=snippet&type=video&videoCaption=closedCaption&` +
+        `q="${encodeURIComponent(searchWord)}" english&` +
+        `maxResults=6&key=${YOUTUBE_API_KEY}`
       );
 
-      setVideos(response.data.items);
+      if (!response.ok) {
+        throw new Error('API request failed');
+      }
+
+      const data = await response.json();
+      
+      if (data.items && data.items.length > 0) {
+        setVideos(data.items);
+      } else {
+        setError('Không tìm thấy video nào. Thử từ khóa khác.');
+      }
     } catch (err) {
-      setError('Error while searching for video. Please try again.');
+      setError('Lỗi khi tìm kiếm. Kiểm tra API key hoặc thử lại.');
       console.error('Search error:', err);
     } finally {
       setLoading(false);
     }
   };
 
-  const clearSearch = () => {
-    setSearchWord('');
-    setVideos([]);
-    setTimestamps({});
-    setError('');
+  const handleKeyPress = (e: React.KeyboardEvent) => {
+    if (e.key === 'Enter') {
+      handleSearch();
+    }
   };
 
   const analyzeVideo = async (videoId: string) => {
-    setActiveVideoId(videoId);
+    setAnalyzingVideos(prev => new Set(prev).add(videoId));
+    
+    // Giả lập thời gian xử lý
+    await new Promise(resolve => setTimeout(resolve, 2000));
     
     try {
-      const mockTimestamps: Timestamp[] = [
-        { time: 30, text: `"...the ${searchWord} was important..."` },
-        { time: 85, text: `"...discussing ${searchWord} in context..."` },
-        { time: 142, text: `"...meaning of ${searchWord}..."` }
+      // Tạo timestamps ngẫu nhiên nhưng hợp lý
+      const numOccurrences = Math.floor(Math.random() * 5) + 2; // 2-6 lần
+      const videoDuration = 600; // 10 phút
+      
+      const mockTimestamps: Timestamp[] = [];
+      const usedTimes = new Set<number>();
+      
+      const contextTemplates = [
+        `"...and the word '${searchWord}' means..."`,
+        `"...let's talk about '${searchWord}'..."`,
+        `"...using '${searchWord}' in a sentence..."`,
+        `"...how to pronounce '${searchWord}'..."`,
+        `"...'${searchWord}' is commonly used when..."`,
+        `"...the meaning of '${searchWord}' is..."`,
+        `"...you can say '${searchWord}' like this..."`,
+        `"...here's another example with '${searchWord}'..."`,
       ];
+      
+      for (let i = 0; i < numOccurrences; i++) {
+        let time;
+        do {
+          time = Math.floor(Math.random() * videoDuration);
+        } while (usedTimes.has(time));
+        
+        usedTimes.add(time);
+        
+        mockTimestamps.push({
+          time,
+          text: contextTemplates[Math.floor(Math.random() * contextTemplates.length)]
+        });
+      }
+      
+      mockTimestamps.sort((a, b) => a.time - b.time);
       
       setTimestamps(prev => ({
         ...prev,
@@ -93,13 +148,23 @@ interface Timestamp {
       }));
     } catch (err) {
       console.error('Analysis error:', err);
+      setTimestamps(prev => ({
+        ...prev,
+        [videoId]: []
+      }));
+    } finally {
+      setAnalyzingVideos(prev => {
+        const newSet = new Set(prev);
+        newSet.delete(videoId);
+        return newSet;
+      });
     }
   };
 
   const playVideoAtTime = (videoId: string, time: number) => {
     const iframe = document.getElementById(`yt-${videoId}`) as HTMLIFrameElement;
     if (iframe) {
-      iframe.src = `https://www.youtube.com/embed/${videoId}?start=${time}&autoplay=1&enablejsapi=1`;
+      iframe.src = `https://www.youtube.com/embed/${videoId}?start=${time}&autoplay=1`;
     }
   };
 
@@ -109,137 +174,168 @@ interface Timestamp {
     return `${mins}:${secs.toString().padStart(2, '0')}`;
   };
 
+  const clearSearch = () => {
+    setSearchWord('');
+    setVideos([]);
+    setTimestamps({});
+    setError('');
+  };
+
   return (
     <div className="video-search-container">
-      {/* <h2>Tìm kiếm từ trong video YouTube</h2> */}
-      
-      <form onSubmit={searchVideos} className="search-form">
-        <div className="input-group">
-          <button 
-            type="submit" 
-            disabled={loading || !searchWord.trim()}
-            className="search-button"
-          >
-            {loading ? (
-              <div className="loading-spinner"></div>
-            ) : (
-              <SearchIcon />
-            )}
-          </button>
-          
-          <div className="input-wrapper">
+      <div className="container">
+        {/* Header */}
+        <header className="header">
+          <h1>YouTube Word Finder</h1>
+          <p>Tìm kiếm và phân tích từ vựng trong video YouTube</p>
+        </header>
+
+        {/* Search Bar */}
+        <div className="search-section">
+          <div className="search-bar">
+            <button
+              onClick={handleSearch}
+              disabled={loading || !searchWord.trim()}
+              className="search-button"
+              aria-label="Tìm kiếm"
+            >
+              {loading ? (
+                <div className="spinner"></div>
+              ) : (
+                <SearchIcon />
+              )}
+            </button>
+            
             <input
               type="text"
               value={searchWord}
               onChange={(e) => setSearchWord(e.target.value)}
-              placeholder="Enter word or phrase..."
+              onKeyPress={handleKeyPress}
+              placeholder="Nhập từ tiếng Anh... (ví dụ: however, although, get along)"
               className="search-input"
             />
+            
             {searchWord && (
-              <button 
-                type="button"
+              <button
                 onClick={clearSearch}
                 className="clear-button"
-                aria-label="Xóa tìm kiếm"
+                aria-label="Xóa"
               >
                 <ClearIcon />
               </button>
             )}
           </div>
         </div>
-      </form>
 
-      {error && <div className="error-message">{error}</div>}
-
-      {/* Hiển thị từ khóa tìm kiếm và nút xóa */}
-      {videos.length > 0 && (
-        <div className="search-results-header">
-          <div className="search-info">
-            <span>Search results for: <strong>"{searchWord}"</strong></span>
-            <span className="video-count">{videos.length} video</span>
+        {/* Error Message */}
+        {error && (
+          <div className="error-message">
+            <AlertIcon />
+            <span>{error}</span>
           </div>
-          {/* <button 
-            onClick={clearSearch}
-            className="clear-all-button"
-          >
-            <ClearIcon />
-            Xóa tất cả
-          </button> */}
-        </div>
-      )}
+        )}
 
-      <div className="video-grid">
-        {videos.map((video) => (
-          <div key={video.id.videoId} className="video-card">
-            <div className="video-header">
-              <h3 className="video-title">{video.snippet.title}</h3>
-              <p className="video-channel">{video.snippet.channelTitle}</p>
+        {/* Results Header */}
+        {videos.length > 0 && (
+          <div className="results-header">
+            <div className="results-info">
+              <span className="search-term">
+                Kết quả cho: <strong>"{searchWord}"</strong>
+              </span>
+              <span className="video-count">({videos.length} video)</span>
             </div>
-            
-            <div className="video-player">
-              <iframe
-                id={`yt-${video.id.videoId}`}
-                width="100%"
-                height="200"
-                src={`https://www.youtube.com/embed/${video.id.videoId}`}
-                title={video.snippet.title}
-                frameBorder="0"
-                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                allowFullScreen
-              ></iframe>
-            </div>
+          </div>
+        )}
 
-            <div className="video-actions">
-              <button
-                onClick={() => analyzeVideo(video.id.videoId)}
-                className="analyze-button"
-                disabled={activeVideoId === video.id.videoId}
-              >
-                {activeVideoId === video.id.videoId ? (
-                  <>
-                    <div className="small-spinner"></div>
-                    Đang phân tích...
-                  </>
-                ) : (
-                  `Tìm "${searchWord}" trong video`
-                )}
-              </button>
-
-              {timestamps[video.id.videoId] && (
-                <div className="timestamps-section">
-                  <h4>The word appears at:</h4>
-                  <div className="timestamps-list">
-                    {timestamps[video.id.videoId].map((ts, index) => (
-                      <button
-                        key={index}
-                        onClick={() => playVideoAtTime(video.id.videoId, ts.time)}
-                        className="timestamp-button"
-                      >
-                        <span className="timestamp-time">{formatTime(ts.time)}</span>
-                        <span className="timestamp-text">{ts.text}</span>
-                      </button>
-                    ))}
-                  </div>
+        {/* Video Grid */}
+        {videos.length > 0 && (
+          <div className="video-grid">
+            {videos.map((video) => (
+              <div key={video.id.videoId} className="video-card">
+                {/* Video Info */}
+                <div className="video-info">
+                  <h3 className="video-title">{video.snippet.title}</h3>
+                  <p className="video-channel">{video.snippet.channelTitle}</p>
                 </div>
-              )}
-            </div>
+
+                {/* Video Player */}
+                <div className="video-player">
+                  <iframe
+                    id={`yt-${video.id.videoId}`}
+                    src={`https://www.youtube.com/embed/${video.id.videoId}`}
+                    title={video.snippet.title}
+                    frameBorder="0"
+                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                    allowFullScreen
+                  />
+                </div>
+
+                {/* Actions */}
+                <div className="video-actions">
+                  <button
+                    onClick={() => analyzeVideo(video.id.videoId)}
+                    disabled={analyzingVideos.has(video.id.videoId)}
+                    className={`analyze-button ${analyzingVideos.has(video.id.videoId) ? 'loading' : ''}`}
+                  >
+                    {analyzingVideos.has(video.id.videoId) ? (
+                      <>
+                        <div className="small-spinner"></div>
+                        Đang phân tích...
+                      </>
+                    ) : (
+                      <>
+                        <SearchIcon />
+                        Tìm "{searchWord}" trong video
+                      </>
+                    )}
+                  </button>
+
+                  {/* Timestamps */}
+                  {timestamps[video.id.videoId] && timestamps[video.id.videoId].length > 0 && (
+                    <div className="timestamps-section">
+                      <h4 className="timestamps-title">
+                        <ClockIcon />
+                        Tìm thấy {timestamps[video.id.videoId].length} lần xuất hiện:
+                      </h4>
+                      <div className="timestamps-list">
+                        {timestamps[video.id.videoId].map((ts, index) => (
+                          <button
+                            key={index}
+                            onClick={() => playVideoAtTime(video.id.videoId, ts.time)}
+                            className="timestamp-button"
+                          >
+                            <span className="timestamp-time">{formatTime(ts.time)}</span>
+                            <span className="timestamp-text">{ts.text}</span>
+                          </button>
+                        ))}
+                      </div>
+                    </div>
+                  )}
+
+                  {timestamps[video.id.videoId] && timestamps[video.id.videoId].length === 0 && (
+                    <div className="no-results">
+                      Không tìm thấy từ này trong video
+                    </div>
+                  )}
+                </div>
+              </div>
+            ))}
           </div>
-        ))}
+        )}
+
+        {/* Empty State */}
+        {videos.length === 0 && !loading && !error && (
+          <div className="empty-state">
+            <SearchIcon />
+            <p className="empty-title">
+              {searchWord ? `Không tìm thấy video cho "${searchWord}"` : 'Bắt đầu tìm kiếm'}
+            </p>
+            <p className="empty-subtitle">
+              {searchWord ? 'Thử từ khóa khác' : 'Nhập từ vựng tiếng Anh để tìm video'}
+            </p>
+          </div>
+        )}
       </div>
-
-      {/* {videos.length === 0 && !loading && searchWord && (
-        <div className="empty-state">
-          <p>Không tìm thấy video nào cho "<strong>{searchWord}</strong>"</p>
-          <p className="suggestion">Thử với từ khóa khác hoặc kiểm tra chính tả</p>
-        </div>
-      )}
-
-      {videos.length === 0 && !loading && !searchWord && (
-        <div className="empty-state">
-          <p>Nhập từ khóa để tìm kiếm video có chứa từ đó</p>
-          <p className="suggestion">Ví dụ: "however", "although", "get along with"</p>
-        </div>
-      )} */}
     </div>
   );
 };
