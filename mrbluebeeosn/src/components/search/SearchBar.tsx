@@ -3,7 +3,7 @@
 // =============================
 
 import React, { useState, ChangeEvent, KeyboardEvent } from 'react';
-import SearchIcon from '@/components/SearchIcon';
+import SearchIcon from '@/components/search/SearchIcon';
 
 interface Post {
   title?: string;

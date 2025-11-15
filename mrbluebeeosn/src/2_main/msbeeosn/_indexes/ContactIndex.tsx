@@ -1,11 +1,11 @@
 import React from 'react';
 import { Link } from "react-router-dom";
 import { HashLink } from 'react-router-hash-link';
-import MrBeeOsnTopic from '@/components/MrBeeOsnTopic';
-import ExternalLink from '@/components/ExternalLink';
-import EyeIcon from '@/components/EyeIcon';
-import ViewCounter from '@/components/ViewCounter';
-import LikeButton from '@/components/LikeButton';
+import MrBeeOsnTopic from '@/components/topic/MrBeeOsnTopic';
+import ExternalLink from '@/components/icon/ExternalLink';
+import EyeIcon from '@/components/view/EyeIcon';
+import ViewCounter from '@/components/view/ViewCounter';
+import LikeButton from '@/components/like/LikeButton';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faGithub } from '@fortawesome/free-brands-svg-icons';
 import { faInstagram } from '@fortawesome/free-brands-svg-icons';

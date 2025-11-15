@@ -1,7 +1,7 @@
 // components/ThemeControls.tsx
 import React, { useState } from 'react';
-import { useTheme } from '@/components/ThemeContext';
-import type { Theme } from '@/components/ThemeContext';
+import { useTheme } from '@/components/color/ThemeContext';
+import type { Theme } from '@/components/color/ThemeContext';
 
 const ThemeControls: React.FC = () => {
   const {

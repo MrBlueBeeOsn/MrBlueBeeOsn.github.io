@@ -1,7 +1,7 @@
 import React from 'react';
 import { Link } from "react-router-dom";
 import { HashLink } from 'react-router-hash-link';
-import SearchComponent from '@/components/SearchComponent';
+import SearchComponent from '@/components/search/SearchComponent';
 
 export default function Home(): React.JSX.Element {
   

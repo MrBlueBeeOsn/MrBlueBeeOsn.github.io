@@ -1,10 +1,10 @@
 import React from 'react';
 import { Link } from "react-router-dom";
 import { HashLink } from 'react-router-hash-link';
-import SearchComponent from '@/components/SearchComponent';
-import EyeIcon from '@/components/EyeIcon';
-import ViewCounter from '@/components/ViewCounter';
-import LikeButton from '@/components/LikeButton';
+import SearchComponent from '@/components/search/SearchComponent';
+import EyeIcon from '@/components/view/EyeIcon';
+import ViewCounter from '@/components/view/ViewCounter';
+import LikeButton from '@/components/like/LikeButton';
 
 export default function SearchingAndClickableDictionary(): React.JSX.Element {
 

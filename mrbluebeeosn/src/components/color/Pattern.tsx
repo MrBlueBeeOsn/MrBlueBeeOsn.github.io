@@ -1,6 +1,6 @@
 // components/Pattern.tsx
 import React, { useMemo } from 'react';
-import { useTheme } from '@/components/ThemeContext';
+import { useTheme } from '@/components/color/ThemeContext';
 
 const Pattern: React.FC = () => {
   const { patternColor } = useTheme();

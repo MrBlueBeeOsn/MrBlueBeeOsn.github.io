@@ -1,8 +1,8 @@
 import React from 'react';
 import { Link } from "react-router-dom";
 import { HashLink } from 'react-router-hash-link';
-import EnglishTopic from '@/components/EnglishTopic';
-import SearchComponent from '@/components/SearchComponent';
+import EnglishTopic from '@/components/topic/EnglishTopic';
+import SearchComponent from '@/components/search/SearchComponent';
 
 export default function PronunciationIndex(): React.JSX.Element {
   return (<>

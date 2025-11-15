@@ -1,6 +1,6 @@
 import React from 'react';
 import { Link } from "react-router-dom";
-import BeeSwarm from '@/components/BeeSwarm';
+import BeeSwarm from '@/components/beeflying/BeeSwarm';
 
 export default function Footer(): React.JSX.Element {
   return (

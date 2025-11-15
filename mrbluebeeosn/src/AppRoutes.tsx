@@ -6,7 +6,7 @@ import React from 'react';
 import { lazy, Suspense } from 'react';
 import { Routes, Route } from 'react-router-dom';
 
-const Layout = lazy(() => import('@/components/Layout'));
+const Layout = lazy(() => import('@/components/body/Layout'));
 const Posts = lazy(() => import('@/data/Posts'));
 
 // 1_header import các chức năng và đường dẫn
@@ -193,7 +193,7 @@ const Posts = lazy(() => import('@/data/Posts'));
   const Tomorrow2 = lazy(() => import('@/2_main/english/vocabulary/Tomorrow2'));
 
 // 3. Test Tailwind
-	const TestTailwind = lazy(() => import('@/components/TestTailwind'));
+	const TestTailwind = lazy(() => import('@/components/test/TestTailwind'));
 
 
 // Xuất khẩu chức năng

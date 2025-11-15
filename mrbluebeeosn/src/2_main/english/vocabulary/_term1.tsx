@@ -1,9 +1,9 @@
 import React from 'react';
 import { Link } from "react-router-dom";
 import { HashLink } from 'react-router-hash-link';
-import EyeIcon from '@/components/EyeIcon';
-import ViewCounter from '@/components/ViewCounter';
-import LikeButton from '@/components/LikeButton';
+import EyeIcon from '@/components/view/EyeIcon';
+import ViewCounter from '@/components/view/ViewCounter';
+import LikeButton from '@/components/like/LikeButton';
 
 export default function (): React.JSX.Element {
 

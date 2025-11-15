@@ -1,6 +1,6 @@
 // components/Background.tsx
 import React, { useMemo } from 'react';
-import { useTheme } from '@/components/ThemeContext';
+import { useTheme } from '@/components/color/ThemeContext';
 
 const BackgroundMain: React.FC = () => {
   const { backgroundMainColor } = useTheme();

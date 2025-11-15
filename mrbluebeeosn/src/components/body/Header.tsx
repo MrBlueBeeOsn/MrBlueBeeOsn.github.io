@@ -3,9 +3,9 @@ import { useState } from "react";
 import { Link } from "react-router-dom";
 import { NavLink } from 'react-router-dom';
 import logo from '/public/assets/images/bee-teal2.png';
-import SearchIcon from '@/components/SearchIcon';
-import Branding from '@/components/Branding';
-import ToggleButton from '@/components/ToggleButton';
+import SearchIcon from '@/components/search/SearchIcon';
+import Branding from '@/components/logo/Branding';
+import ToggleButton from '@/components/color/ToggleButton';
 
 interface HeaderProps {
   showControls: boolean;

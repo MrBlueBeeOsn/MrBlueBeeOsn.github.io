@@ -1,16 +1,16 @@
 import React, { useState } from 'react';
 import '/public/assets/css/style.css'
 
-import Header from '@/components/Header';
-import Footer from '@/components/Footer';
+import Header from '@/components/body/Header';
+import Footer from '@/components/body/Footer';
 import { Outlet } from 'react-router-dom';
-import BackToTop from '@/components/BackToTop';
-import { ThemeProvider, useTheme } from '@/components/ThemeContext';
-import Background from '@/components/Background';
-import BackgroundMain from '@/components/BackgroundMain';
-import Pattern from '@/components/Pattern';
-import ThemeControls from '@/components/ThemeControls';
-import ToggleButton from '@/components/ToggleButton';
+import BackToTop from '@/components/backtotop/BackToTop';
+import { ThemeProvider, useTheme } from '@/components/color/ThemeContext';
+import Background from '@/components/color/Background';
+import BackgroundMain from '@/components/color/BackgroundMain';
+import Pattern from '@/components/color/Pattern';
+import ThemeControls from '@/components/color/ThemeControls';
+import ToggleButton from '@/components/color/ToggleButton';
 
 export default function Layout() {
   return (
