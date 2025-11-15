@@ -1,7 +1,14 @@
 // components/VideoSearch.tsx / BY DPSK
 import React, { useState } from 'react';
 import axios from 'axios';
+import SearchIcon from '@/components/icon/SearchIcon';
 // import './VideoSearch.css';
+
+const ClearIcon = () => (
+  <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor">
+    <path d="M18 6L6 18M6 6l12 12" />
+  </svg>
+);
 
 interface Video {
   id: {
@@ -23,7 +30,7 @@ interface Timestamp {
   text: string;
 }
 
-const VideoSearch: React.FC = () => {
+  const VideoSearch: React.FC = () => {
   const [searchWord, setSearchWord] = useState<string>('');
   const [videos, setVideos] = useState<Video[]>([]);
   const [loading, setLoading] = useState<boolean>(false);
@@ -41,7 +48,6 @@ const VideoSearch: React.FC = () => {
     setError('');
     
     try {
-      // Tìm kiếm video có phụ đề
       const response = await axios.get(
         `https://www.googleapis.com/youtube/v3/search`, {
           params: {
@@ -57,18 +63,24 @@ const VideoSearch: React.FC = () => {
 
       setVideos(response.data.items);
     } catch (err) {
-      setError('Lỗi khi tìm kiếm video. Vui lòng thử lại.');
+      setError('Error while searching for video. Please try again.');
       console.error('Search error:', err);
     } finally {
       setLoading(false);
     }
   };
 
+  const clearSearch = () => {
+    setSearchWord('');
+    setVideos([]);
+    setTimestamps({});
+    setError('');
+  };
+
   const analyzeVideo = async (videoId: string) => {
     setActiveVideoId(videoId);
     
     try {
-      // Giả lập phân tích timestamp - Trong thực tế cần backend phức tạp
       const mockTimestamps: Timestamp[] = [
         { time: 30, text: `"...the ${searchWord} was important..."` },
         { time: 85, text: `"...discussing ${searchWord} in context..."` },
@@ -85,7 +97,6 @@ const VideoSearch: React.FC = () => {
   };
 
   const playVideoAtTime = (videoId: string, time: number) => {
-    // Cập nhật iframe để phát từ thời điểm cụ thể
     const iframe = document.getElementById(`yt-${videoId}`) as HTMLIFrameElement;
     if (iframe) {
       iframe.src = `https://www.youtube.com/embed/${videoId}?start=${time}&autoplay=1&enablejsapi=1`;
@@ -104,24 +115,58 @@ const VideoSearch: React.FC = () => {
       
       <form onSubmit={searchVideos} className="search-form">
         <div className="input-group">
-          <input
-            type="text"
-            value={searchWord}
-            onChange={(e) => setSearchWord(e.target.value)}
-            placeholder="Enter word or phrase..."
-            className="search-input"
-          />
           <button 
             type="submit" 
-            disabled={loading}
+            disabled={loading || !searchWord.trim()}
             className="search-button"
           >
-            {loading ? 'Searching...' : 'Search'}
+            {loading ? (
+              <div className="loading-spinner"></div>
+            ) : (
+              <SearchIcon />
+            )}
           </button>
+          
+          <div className="input-wrapper">
+            <input
+              type="text"
+              value={searchWord}
+              onChange={(e) => setSearchWord(e.target.value)}
+              placeholder="Enter word or phrase..."
+              className="search-input"
+            />
+            {searchWord && (
+              <button 
+                type="button"
+                onClick={clearSearch}
+                className="clear-button"
+                aria-label="Xóa tìm kiếm"
+              >
+                <ClearIcon />
+              </button>
+            )}
+          </div>
         </div>
       </form>
 
       {error && <div className="error-message">{error}</div>}
+
+      {/* Hiển thị từ khóa tìm kiếm và nút xóa */}
+      {videos.length > 0 && (
+        <div className="search-results-header">
+          <div className="search-info">
+            <span>Search results for: <strong>"{searchWord}"</strong></span>
+            <span className="video-count">{videos.length} video</span>
+          </div>
+          {/* <button 
+            onClick={clearSearch}
+            className="clear-all-button"
+          >
+            <ClearIcon />
+            Xóa tất cả
+          </button> */}
+        </div>
+      )}
 
       <div className="video-grid">
         {videos.map((video) => (
@@ -150,14 +195,19 @@ const VideoSearch: React.FC = () => {
                 className="analyze-button"
                 disabled={activeVideoId === video.id.videoId}
               >
-                {activeVideoId === video.id.videoId ? 
-                  'Đang phân tích...' : 
-                  `Find "${searchWord}" in the video`}
+                {activeVideoId === video.id.videoId ? (
+                  <>
+                    <div className="small-spinner"></div>
+                    Đang phân tích...
+                  </>
+                ) : (
+                  `Tìm "${searchWord}" trong video`
+                )}
               </button>
 
               {timestamps[video.id.videoId] && (
                 <div className="timestamps-section">
-                  <h4>Xuất hiện tại:</h4>
+                  <h4>The word appears at:</h4>
                   <div className="timestamps-list">
                     {timestamps[video.id.videoId].map((ts, index) => (
                       <button
@@ -165,7 +215,7 @@ const VideoSearch: React.FC = () => {
                         onClick={() => playVideoAtTime(video.id.videoId, ts.time)}
                         className="timestamp-button"
                       >
-                        {formatTime(ts.time)}
+                        <span className="timestamp-time">{formatTime(ts.time)}</span>
                         <span className="timestamp-text">{ts.text}</span>
                       </button>
                     ))}
@@ -177,11 +227,19 @@ const VideoSearch: React.FC = () => {
         ))}
       </div>
 
-      {videos.length === 0 && !loading && (
+      {/* {videos.length === 0 && !loading && searchWord && (
         <div className="empty-state">
-          {/* <p>Nhập từ khóa để tìm kiếm video có chứa từ đó</p> */}
+          <p>Không tìm thấy video nào cho "<strong>{searchWord}</strong>"</p>
+          <p className="suggestion">Thử với từ khóa khác hoặc kiểm tra chính tả</p>
         </div>
       )}
+
+      {videos.length === 0 && !loading && !searchWord && (
+        <div className="empty-state">
+          <p>Nhập từ khóa để tìm kiếm video có chứa từ đó</p>
+          <p className="suggestion">Ví dụ: "however", "although", "get along with"</p>
+        </div>
+      )} */}
     </div>
   );
 };

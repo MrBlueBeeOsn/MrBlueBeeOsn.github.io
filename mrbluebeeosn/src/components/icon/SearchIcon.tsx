@@ -4,8 +4,8 @@
 
 export default function SearchIcon({ 
   size = 24, 
-  stroke = "currentColor",  // Màu cho đường viền (stroke)
-  fill = "none",            // Màu cho nền bên trong (fill)
+  stroke = "var(--secondary-color)",  // Màu cho đường viền (stroke)
+  fill = "var(--tertiary-color)",     // Màu cho nền bên trong (fill)
   strokeWidth = 2,
   className = "" 
 
