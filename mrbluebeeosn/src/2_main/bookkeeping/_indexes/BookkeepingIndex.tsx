@@ -3,6 +3,7 @@ import { Link } from "react-router-dom";
 import { HashLink } from 'react-router-hash-link';
 import ExternalLink from '@/components/icon/ExternalLink';
 import SearchComponent from '@/components/search/SearchComponent';
+import VideoSearch from '@/components/video/VideoSearch';
 
 export default function BookkeepingIndex(): React.JSX.Element {
   return (<>
@@ -20,6 +21,8 @@ export default function BookkeepingIndex(): React.JSX.Element {
       <div className="table-search margin-bottom-50">
                         
         <SearchComponent />
+        
+        <VideoSearch />
                           
       </div>
 

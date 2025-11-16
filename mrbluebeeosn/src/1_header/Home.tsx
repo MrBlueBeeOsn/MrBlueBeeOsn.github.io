@@ -2,6 +2,7 @@ import React from 'react';
 import { Link } from "react-router-dom";
 import { HashLink } from 'react-router-hash-link';
 import SearchComponent from '@/components/search/SearchComponent';
+import VideoSearch from '@/components/video/VideoSearch';
 
 export default function Home(): React.JSX.Element {
   
@@ -15,7 +16,9 @@ export default function Home(): React.JSX.Element {
 
         <div className="table-search margin-bottom-50">
 			
-				  <SearchComponent />
+				  {/* <SearchComponent />
+        
+          <VideoSearch /> */}
 							
 			  </div>
 

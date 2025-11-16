@@ -238,10 +238,10 @@ const VideoSearch: React.FC = () => {
     {/* <div className="video-search-container">
       <div className="container"> */}
         {/* Header */}
-        <header>
+        {/* <header>
           <h1 className="margin-y-50 text-center">YouTube Video Search</h1>
           <p className="message-button-below">Find videos and browse the table of contents.</p>
-        </header>
+        </header> */}
 
         {/* Search Bar */}
         <div className="search-section">
@@ -264,7 +264,7 @@ const VideoSearch: React.FC = () => {
               value={searchWord}
               onChange={(e) => setSearchWord(e.target.value)}
               onKeyPress={handleKeyPress}
-              placeholder="Type words"
+              placeholder="Video Search"
               className="search-input"
             />
             
@@ -279,6 +279,12 @@ const VideoSearch: React.FC = () => {
             )}
           </div>
         </div>
+
+        {/* Header */}
+        <header>
+          {/* <h1 className="margin-y-50 text-center">YouTube Video Search</h1> */}
+          <p className="message-button-below">Find videos and browse the table of contents.</p>
+        </header>
 
         {/* Error Message */}
         {error && (

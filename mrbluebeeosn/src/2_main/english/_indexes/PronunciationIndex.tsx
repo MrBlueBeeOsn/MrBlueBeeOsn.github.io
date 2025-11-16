@@ -3,6 +3,7 @@ import { Link } from "react-router-dom";
 import { HashLink } from 'react-router-hash-link';
 import EnglishTopic from '@/components/topic/EnglishTopic';
 import SearchComponent from '@/components/search/SearchComponent';
+import VideoSearch from '@/components/video/VideoSearch';
 
 export default function PronunciationIndex(): React.JSX.Element {
   return (<>
@@ -26,6 +27,8 @@ export default function PronunciationIndex(): React.JSX.Element {
       <div className="table-search margin-bottom-50">
                   
         <SearchComponent />
+        
+        <VideoSearch />
                           
       </div>
 
