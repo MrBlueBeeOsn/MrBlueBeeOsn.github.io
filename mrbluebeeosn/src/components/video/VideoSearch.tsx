@@ -3,14 +3,15 @@
 
 // components/VideoSearch.tsx
 import React, { useState } from 'react';
+import SearchIcon from '@/components/icon/SearchIcon';
 
 // Simple SVG Icons
-const SearchIcon = () => (
-  <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
-    <circle cx="11" cy="11" r="8" />
-    <path d="m21 21-4.35-4.35" />
-  </svg>
-);
+// const SearchIcon = () => (
+//   <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
+//     <circle cx="11" cy="11" r="8" />
+//     <path d="m21 21-4.35-4.35" />
+//   </svg>
+// );
 
 const ClearIcon = () => (
   <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
@@ -68,7 +69,7 @@ const VideoSearch: React.FC = () => {
     setTimestamps({});
     
     try {
-      // Tìm kiếm chính xác hơn với dấu ngoặc kép
+      // Search chính xác hơn với dấu ngoặc kép
       const response = await fetch(
         `https://www.googleapis.com/youtube/v3/search?` +
         `part=snippet&type=video&videoCaption=closedCaption&` +
@@ -101,51 +102,101 @@ const VideoSearch: React.FC = () => {
     }
   };
 
+  const parseTimestamp = (timeStr: string): number | null => {
+    // Parse các format: "1:23", "01:23", "1:23:45"
+    const parts = timeStr.trim().split(':').map(p => parseInt(p, 10));
+    
+    if (parts.length === 2) {
+      // MM:SS
+      const [mins, secs] = parts;
+      if (!isNaN(mins) && !isNaN(secs)) {
+        return mins * 60 + secs;
+      }
+    } else if (parts.length === 3) {
+      // HH:MM:SS
+      const [hours, mins, secs] = parts;
+      if (!isNaN(hours) && !isNaN(mins) && !isNaN(secs)) {
+        return hours * 3600 + mins * 60 + secs;
+      }
+    }
+    
+    return null;
+  };
+
+  const extractChaptersFromDescription = (description: string): Timestamp[] => {
+    const chapters: Timestamp[] = [];
+    const lines = description.split('\n');
+    
+    // Regex patterns cho timestamps
+    // Matches: "0:00", "1:23", "01:23", "1:23:45" ở đầu dòng hoặc sau khoảng trắng
+    const timestampPatterns = [
+      /^(\d{1,2}:\d{2}(?::\d{2})?)\s*[-–—:]\s*(.+)$/,  // "0:00 - Title"
+      /^(\d{1,2}:\d{2}(?::\d{2})?)\s+(.+)$/,           // "0:00 Title"
+      /^\[(\d{1,2}:\d{2}(?::\d{2})?)\]\s*(.+)$/,       // "[0:00] Title"
+      /^(\d{1,2}:\d{2}(?::\d{2})?)\s*\|\s*(.+)$/,      // "0:00 | Title"
+    ];
+    
+    for (const line of lines) {
+      const trimmedLine = line.trim();
+      if (!trimmedLine) continue;
+      
+      for (const pattern of timestampPatterns) {
+        const match = trimmedLine.match(pattern);
+        if (match) {
+          const timeStr = match[1];
+          const title = match[2].trim();
+          
+          const seconds = parseTimestamp(timeStr);
+          
+          if (seconds !== null && title.length > 0 && title.length < 200) {
+            chapters.push({
+              time: seconds,
+              text: title
+            });
+          }
+          break;
+        }
+      }
+    }
+    
+    // Sắp xếp theo thời gian
+    chapters.sort((a, b) => a.time - b.time);
+    
+    return chapters;
+  };
+
   const analyzeVideo = async (videoId: string) => {
     setAnalyzingVideos(prev => new Set(prev).add(videoId));
     
-    // Giả lập thời gian xử lý
-    await new Promise(resolve => setTimeout(resolve, 2000));
-    
     try {
-      // Tạo timestamps ngẫu nhiên nhưng hợp lý
-      const numOccurrences = Math.floor(Math.random() * 5) + 2; // 2-6 lần
-      const videoDuration = 600; // 10 phút
-      
-      const mockTimestamps: Timestamp[] = [];
-      const usedTimes = new Set<number>();
-      
-      const contextTemplates = [
-        `"...and the word '${searchWord}' means..."`,
-        `"...let's talk about '${searchWord}'..."`,
-        `"...using '${searchWord}' in a sentence..."`,
-        `"...how to pronounce '${searchWord}'..."`,
-        `"...'${searchWord}' is commonly used when..."`,
-        `"...the meaning of '${searchWord}' is..."`,
-        `"...you can say '${searchWord}' like this..."`,
-        `"...here's another example with '${searchWord}'..."`,
-      ];
-      
-      for (let i = 0; i < numOccurrences; i++) {
-        let time;
-        do {
-          time = Math.floor(Math.random() * videoDuration);
-        } while (usedTimes.has(time));
-        
-        usedTimes.add(time);
-        
-        mockTimestamps.push({
-          time,
-          text: contextTemplates[Math.floor(Math.random() * contextTemplates.length)]
-        });
+      // Lấy thông tin chi tiết video để có description
+      const response = await fetch(
+        `https://www.googleapis.com/youtube/v3/videos?` +
+        `part=snippet&id=${videoId}&key=${YOUTUBE_API_KEY}`
+      );
+
+      if (!response.ok) {
+        throw new Error('Failed to fetch video details');
       }
+
+      const data = await response.json();
       
-      mockTimestamps.sort((a, b) => a.time - b.time);
-      
-      setTimestamps(prev => ({
-        ...prev,
-        [videoId]: mockTimestamps
-      }));
+      if (data.items && data.items.length > 0) {
+        const description = data.items[0].snippet.description || '';
+        
+        // Parse chapters từ description
+        const chapters = extractChaptersFromDescription(description);
+        
+        setTimestamps(prev => ({
+          ...prev,
+          [videoId]: chapters
+        }));
+      } else {
+        setTimestamps(prev => ({
+          ...prev,
+          [videoId]: []
+        }));
+      }
     } catch (err) {
       console.error('Analysis error:', err);
       setTimestamps(prev => ({
@@ -182,12 +233,14 @@ const VideoSearch: React.FC = () => {
   };
 
   return (
-    <div className="video-search-container">
-      <div className="container">
+    <div>
+      <div>
+    {/* <div className="video-search-container">
+      <div className="container"> */}
         {/* Header */}
-        <header className="header">
-          <h1>YouTube Word Finder</h1>
-          <p>Tìm kiếm và phân tích từ vựng trong video YouTube</p>
+        <header>
+          <h1 className="margin-y-50 text-center">YouTube Video Search</h1>
+          <p className="message-button-below">Find videos and browse the table of contents.</p>
         </header>
 
         {/* Search Bar */}
@@ -197,7 +250,7 @@ const VideoSearch: React.FC = () => {
               onClick={handleSearch}
               disabled={loading || !searchWord.trim()}
               className="search-button"
-              aria-label="Tìm kiếm"
+              aria-label="Search"
             >
               {loading ? (
                 <div className="spinner"></div>
@@ -211,7 +264,7 @@ const VideoSearch: React.FC = () => {
               value={searchWord}
               onChange={(e) => setSearchWord(e.target.value)}
               onKeyPress={handleKeyPress}
-              placeholder="Nhập từ tiếng Anh... (ví dụ: however, although, get along)"
+              placeholder="Type words"
               className="search-input"
             />
             
@@ -240,7 +293,7 @@ const VideoSearch: React.FC = () => {
           <div className="results-header">
             <div className="results-info">
               <span className="search-term">
-                Kết quả cho: <strong>"{searchWord}"</strong>
+                Search results for: <strong>"{searchWord}"</strong>
               </span>
               <span className="video-count">({videos.length} video)</span>
             </div>
@@ -280,22 +333,22 @@ const VideoSearch: React.FC = () => {
                     {analyzingVideos.has(video.id.videoId) ? (
                       <>
                         <div className="small-spinner"></div>
-                        Đang phân tích...
+                        Loading table of contents...
                       </>
                     ) : (
                       <>
                         <SearchIcon />
-                        Tìm "{searchWord}" trong video
+                        View the table of contents
                       </>
                     )}
                   </button>
 
-                  {/* Timestamps */}
+                  {/* Table of Contents */}
                   {timestamps[video.id.videoId] && timestamps[video.id.videoId].length > 0 && (
                     <div className="timestamps-section">
                       <h4 className="timestamps-title">
                         <ClockIcon />
-                        Tìm thấy {timestamps[video.id.videoId].length} lần xuất hiện:
+                        Table of Contents:
                       </h4>
                       <div className="timestamps-list">
                         {timestamps[video.id.videoId].map((ts, index) => (
@@ -314,7 +367,7 @@ const VideoSearch: React.FC = () => {
 
                   {timestamps[video.id.videoId] && timestamps[video.id.videoId].length === 0 && (
                     <div className="no-results">
-                      Không tìm thấy từ này trong video
+                      This video doesn’t have chapters in its description
                     </div>
                   )}
                 </div>
@@ -324,7 +377,7 @@ const VideoSearch: React.FC = () => {
         )}
 
         {/* Empty State */}
-        {videos.length === 0 && !loading && !error && (
+        {/* {videos.length === 0 && !loading && !error && (
           <div className="empty-state">
             <SearchIcon />
             <p className="empty-title">
@@ -334,7 +387,7 @@ const VideoSearch: React.FC = () => {
               {searchWord ? 'Thử từ khóa khác' : 'Nhập từ vựng tiếng Anh để tìm video'}
             </p>
           </div>
-        )}
+        )} */}
       </div>
     </div>
   );

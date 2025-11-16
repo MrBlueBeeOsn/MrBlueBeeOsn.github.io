@@ -91,6 +91,7 @@ export default function SearchBar({ posts, onSearchResults }: SearchBarProps): R
         value={searchTerm}
         onChange={handleInputChange}
         onKeyPress={handleKeyPress}
+        className="search-input"
       />
 
       {hasSearched && ( 
