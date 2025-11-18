@@ -658,6 +658,56 @@ export default function VocabularyIndex(): React.JSX.Element {
 					</ul>
 					
 				</details>
+
+				{/* =============================
+							Tính chân thành
+				============================= */}
+
+				<details className="sub-box-fix">
+			
+					<summary id="tinh-chan-thanh-terms"><mark className="highlight-secondary-padding-2-4">Tính chân thành</mark></summary>
+
+					<ul className="list-border1">
+
+						<li>
+							<Link to="/vocabulary/sincerely-1">sincerely
+								<sup>&nbsp;1&nbsp;</sup>
+									</Link> 
+									<Link to="/vocabulary/sincerely-2">
+								<sup>&nbsp;2&nbsp;</sup>
+							</Link>
+						</li>
+
+						<li>
+							<Link to="/vocabulary/honestly-1">honestly
+								<sup>&nbsp;1&nbsp;</sup>
+									</Link> 
+									<Link to="/vocabulary/honestly-2">
+								<sup>&nbsp;2&nbsp;</sup>
+							</Link>
+						</li>
+
+						<li>
+							<Link to="/vocabulary/faithfully-1">faithfully
+								<sup>&nbsp;1&nbsp;</sup>
+									</Link> 
+									<Link to="/vocabulary/faithfully-2">
+								<sup>&nbsp;2&nbsp;</sup>
+							</Link>
+						</li>
+
+						<li>
+							<Link to="/vocabulary/openly-1">openly
+								<sup>&nbsp;1&nbsp;</sup>
+									</Link> 
+									<Link to="/vocabulary/openly-2">
+								<sup>&nbsp;2&nbsp;</sup>
+							</Link>
+						</li>
+
+					</ul>
+					
+				</details>
 				
 			</div>
 

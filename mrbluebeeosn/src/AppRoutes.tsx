@@ -192,6 +192,16 @@ const Posts = lazy(() => import('@/data/Posts'));
   const Tomorrow1 = lazy(() => import('@/2_main/english/vocabulary/Tomorrow1'));
   const Tomorrow2 = lazy(() => import('@/2_main/english/vocabulary/Tomorrow2'));
 
+  // 16. Vocabulary - Tính chân thành
+  const Sincerely1 = lazy(() => import('@/2_main/english/vocabulary/Sincerely1'));
+  const Sincerely2 = lazy(() => import('@/2_main/english/vocabulary/Sincerely2'));
+  const Honestly1 = lazy(() => import('@/2_main/english/vocabulary/Honestly1'));
+  const Honestly2 = lazy(() => import('@/2_main/english/vocabulary/Honestly2'));
+  const Faithfully1 = lazy(() => import('@/2_main/english/vocabulary/Faithfully1'));
+  const Faithfully2 = lazy(() => import('@/2_main/english/vocabulary/Faithfully2'));
+  const Openly1 = lazy(() => import('@/2_main/english/vocabulary/Openly1'));
+  const Openly2 = lazy(() => import('@/2_main/english/vocabulary/Openly2'));
+
 // 3. Test Tailwind
 	const TestTailwind = lazy(() => import('@/components/test/TestTailwind'));
 
@@ -391,6 +401,16 @@ export default function AppRoutes(): React.JSX.Element {
           <Route path="/vocabulary/soon-2" element={<Soon2 />} />
           <Route path="/vocabulary/tomorrow-1" element={<Tomorrow1 />} />
           <Route path="/vocabulary/tomorrow-2" element={<Tomorrow2 />} />
+
+          {/* 16. Vocabulary - Tính chân thành */}
+          <Route path="/vocabulary/sincerely-1" element={<Sincerely1 />} />
+          <Route path="/vocabulary/sincerely-2" element={<Sincerely2 />} />
+          <Route path="/vocabulary/honestly-1" element={<Honestly1 />} />
+          <Route path="/vocabulary/honestly-2" element={<Honestly2 />} />
+          <Route path="/vocabulary/faithfully-1" element={<Faithfully1 />} />
+          <Route path="/vocabulary/faithfully-2" element={<Faithfully2 />} />
+          <Route path="/vocabulary/openly-1" element={<Openly1 />} />
+          <Route path="/vocabulary/openly-2" element={<Openly2 />} />
 
           {/* 3. Test Tailwind */}
 					<Route path="/tailwindcss/test-tailwind" element={<TestTailwind />} />

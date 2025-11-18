@@ -5,9 +5,9 @@ import EyeIcon from '@/components/view/EyeIcon';
 import ViewCounter from '@/components/view/ViewCounter';
 import LikeButton from '@/components/like/LikeButton';
 
-export default function (): React.JSX.Element {
+export default function Openly1(): React.JSX.Element {
 
-  const postId = "";
+  const postId = "Openly1";
 
   return (<>
 
@@ -17,35 +17,35 @@ export default function (): React.JSX.Element {
     
       <h4><HashLink smooth to="/vocabulary#tinh-chan-thanh-terms"><mark className="highlight-tertiary-padding-4-8">Tính chân thành</mark></HashLink></h4>
       
-      <h1 className="margin-y-50 text-center">ly
-        <sup><Link to="/vocabulary/ly-1">&nbsp;1&nbsp;</Link>
+      <h1 className="margin-y-50 text-center">openly
+        <sup><Link to="/vocabulary/openly-1">&nbsp;1&nbsp;</Link>
         </sup>
-        <sup><Link to="/vocabulary/ly-2">&nbsp;2&nbsp;</Link>
+        <sup><Link to="/vocabulary/openly-2">&nbsp;2&nbsp;</Link>
         </sup>
       </h1>
 
       {/* This is the content of Vocabulary Term. */}
       
-      <p>Tuyệt vời! </p>
+      <p>Tuyệt vời! Chúng ta cùng khám phá từ "<strong>openly</strong>" nhé.</p>
 
       <div className="text-border1 padding-top-20 padding-bottom-10 highlight-238-padding-4-8 bee-container">
 
         <div>
 
-          <p className="margin-bottom-20"><strong>ly</strong></p>
+          <p className="margin-bottom-20"><strong>Openly</strong></p>
 
           <ul className="list-square padding-left-40">
 
             <li>
               <span className="highlight-255-padding-3-6">
-                /i/ + /<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">ly</Link>/
-                <sup>&nbsp;⬤</sup>
+                /ˈoʊpənli/ + /<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">ōpe̛nly</Link>/
+                <sup>&nbsp;⬤•• (3x)</sup>
               </span>
             </li>
 
             <li>Trạng từ (<Link to="/grammar/what-is-an-adverb?">adverb</Link>)</li>
 
-            <li>Tính </li>
+            <li>Một cách công khai, rõ ràng</li>
 
           </ul>
 
@@ -57,15 +57,15 @@ export default function (): React.JSX.Element {
 
       </div>
 
-      <p className="margin-top-30 text-indent-whole">Từ "<strong>ly</strong>" </p>
+      <p className="margin-top-30 text-indent-whole">Từ "<strong>openly</strong>" được dùng để miêu tả một hành động được thực hiện một cách công khai, không che giấu, không kín đáo. Nó thể hiện sự thẳng thắn, rõ ràng và không có ý định giấu diếm.</p>
 
       <p className="text-indent-whole">Ví dụ:</p>
 
         <ul className="list-square">
 
-          <li></li>
+          <li>He <strong>openly</strong> expressed his opinions. (Anh ấy công khai bày tỏ quan điểm của mình.)</li>
 
-          <li></li>
+          <li>They <strong>openly</strong> supported the new policy. (Họ công khai ủng hộ chính sách mới.)</li>
 
         </ul>
 
@@ -81,14 +81,14 @@ export default function (): React.JSX.Element {
 
         <ul className="list-square">
 
-          {/* <li></li>
-          <li className="margin-bottom-20 list-none"></li> */}
+          <li>Open (adj): Mở, công khai /ˈoʊpən/</li>
+          <li className="margin-bottom-20 list-none">The door is open. (Cửa đang mở.)</li>
 
-          {/* <li></li>
-          <li className="margin-bottom-20 list-none"></li> */}
+          <li>Open (v): Mở /ˈoʊpən/</li>
+          <li className="margin-bottom-20 list-none">Please open the window. (Làm ơn mở cửa sổ.)</li>
 
-          <li></li>
-          <li className="list-none"></li>
+          <li>Openness (n): Sự cởi mở /ˈoʊpənnəs/</li>
+          <li className="list-none">Her openness made her many friends. (Sự cởi mở của cô ấy đã giúp cô ấy có nhiều bạn bè.)</li>
 
         </ul>
 
@@ -104,14 +104,11 @@ export default function (): React.JSX.Element {
 
         <ul className="list-square">
 
-          {/* <li></li>
-          <li className="margin-bottom-20 list-none"></li> */}
+          <li>Publicly: Một cách công khai /ˈpʌblɪkli/</li>
+          <li className="margin-bottom-20 list-none">She publicly apologized for her mistake. (Cô ấy đã công khai xin lỗi vì sai lầm của mình.)</li>
 
-          <li></li>
-          <li className="margin-bottom-20 list-none"></li>
-
-          <li></li>
-          <li className="list-none"></li>
+          <li>Frankly: Một cách thẳng thắn /ˈfræŋkli/</li>
+          <li className="list-none">To be frankly, I don't agree with you. (Thành thật mà nói, tôi không đồng ý với bạn.)</li>
 
         </ul>
 
@@ -129,14 +126,11 @@ export default function (): React.JSX.Element {
 
         <ul className="list-square">
 
-          {/* <li></li>
-          <li className="margin-bottom-20 list-none"></li> */}
+          <li>Secretly: Một cách bí mật /ˈsiːkrətli/</li>
+          <li className="margin-bottom-20 list-none">They secretly met at night. (Họ bí mật gặp nhau vào ban đêm.)</li>
 
-          <li></li>
-          <li className="margin-bottom-20 list-none"></li>
-
-          <li></li>
-          <li className="list-none"></li>
+          <li>Privately: Một cách riêng tư /ˈpraɪvətli/</li>
+          <li className="list-none">We talked privately about the matter. (Chúng tôi đã nói chuyện riêng về vấn đề này.)</li>
 
         </ul>
       
@@ -157,15 +151,12 @@ export default function (): React.JSX.Element {
         <strong>&nbsp;với hình ảnh</strong>:
       </p>
 
-      <p className="text-indent-whole"></p>
+      <p className="text-indent-whole">Hình dung một người đang phát biểu trên sân khấu hoặc một cuộc họp công khai.</p>
 
         <ul className="list-square">
 
-          {/* <li></li>
-          <li className="margin-bottom-20 list-none"></li> */}
-
-          <li></li>
-          <li className="list-none"></li>
+          <li>He is <strong>openly</strong> speaking about his experiences.</li>
+          <li className="list-none">(Anh ấy đang công khai chia sẻ về những trải nghiệm của mình.)</li>
 
         </ul>
 
@@ -180,15 +171,12 @@ export default function (): React.JSX.Element {
         <strong>&nbsp;ví dụ</strong>:
       </p>
 
-      <p className="text-indent-whole"></p>
+      <p className="text-indent-whole">Tạo các câu liên quan đến các tình huống đòi hỏi sự thẳng thắn và công khai.</p>
 
         <ul className="list-square">
 
-          {/* <li></li>
-          <li className="margin-bottom-20 list-none"></li> */}
-
-          <li></li>
-          <li className="list-none"></li>
+          <li>She <strong>openly</strong> criticized the government's policy.</li>
+          <li className="list-none">(Cô ấy công khai chỉ trích chính sách của chính phủ.)</li>
 
         </ul>
 
@@ -203,33 +191,23 @@ export default function (): React.JSX.Element {
         <strong>&nbsp;thường xuyên</strong>:
       </p>
 
-      <p className="text-indent-whole"></p>
+      <p className="text-indent-whole">Thường xuyên sử dụng từ này trong các bài viết hoặc cuộc trò chuyện.</p>
 
         <p className="text-indent-whole">Ví dụ để so sánh (sự khác biệt):</p>
 
-          {/* <ol>
+          <ol>
 
-            <li></li>
-            <li className="list-none margin-bottom-20"></li>
+            <li>He supported the team. (Anh ấy ủng hộ đội.)</li>
 
-            <li value="2"></li>
-            <li className="list-none margin-bottom-20"></li>
-
-          </ol> */}
-
-          {/* <ol>
-
-            <li></li>
-
-            <li className="margin-bottom-20"></li>
+            <li className="margin-bottom-20">He <strong>openly</strong> supported the team. (Anh ấy công khai ủng hộ đội.)</li>
 
           </ol>
 
       <div className="margin-bottom-20 padding-top-20 text-border1 padding-10 highlight-238-padding-4-8 bee-container">
 
-        <p className="margin-y-10">Sự khác biệt: </p>
+        <p className="margin-y-10">Sự khác biệt: Câu thứ hai <span className="highlight-255-padding-0-4">nhấn mạnh rằng sự ủng hộ</span> của anh ấy <span className="highlight-255-padding-0-4">được thể hiện một cách công khai</span>, không hề giấu giếm.</p>
 
-      </div> */}
+      </div>
 
       {/* <span className="highlight-255-padding-0-4"></span> */}
 
@@ -243,9 +221,9 @@ export default function (): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li></li>
+          <li>Đối lập với sự kín đáo: Thể hiện sự đối lập với việc giấu giếm, kín đáo.</li>
 
-          <li className="margin-bottom-20"></li>
+          <li className="margin-bottom-20">Minh bạch: Cho thấy sự rõ ràng, minh bạch trong hành động.</li>
 
         </ul>
 
@@ -256,7 +234,7 @@ export default function (): React.JSX.Element {
       <div className="viewcounter">
       
         <div className="post-date no-margin">
-          <span> · by 💎Gem ·</span>
+          <span>November 5, 2024 · by 💎Gem ·</span>
         </div>
 
         <div className="eye-icon no-margin">

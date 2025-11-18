@@ -5,9 +5,9 @@ import EyeIcon from '@/components/view/EyeIcon';
 import ViewCounter from '@/components/view/ViewCounter';
 import LikeButton from '@/components/like/LikeButton';
 
-export default function (): React.JSX.Element {
+export default function Faithfully1(): React.JSX.Element {
 
-  const postId = "";
+  const postId = "Faithfully1";
 
   return (<>
 
@@ -17,35 +17,35 @@ export default function (): React.JSX.Element {
     
       <h4><HashLink smooth to="/vocabulary#tinh-chan-thanh-terms"><mark className="highlight-tertiary-padding-4-8">Tính chân thành</mark></HashLink></h4>
       
-      <h1 className="margin-y-50 text-center">ly
-        <sup><Link to="/vocabulary/ly-1">&nbsp;1&nbsp;</Link>
+      <h1 className="margin-y-50 text-center">faithfully
+        <sup><Link to="/vocabulary/faithfully-1">&nbsp;1&nbsp;</Link>
         </sup>
-        <sup><Link to="/vocabulary/ly-2">&nbsp;2&nbsp;</Link>
+        <sup><Link to="/vocabulary/faithfully-2">&nbsp;2&nbsp;</Link>
         </sup>
       </h1>
 
       {/* This is the content of Vocabulary Term. */}
       
-      <p>Tuyệt vời! </p>
+      <p>Tuyệt vời! Chúng ta cùng đi sâu vào từ "<strong>faithfully</strong>" nhé.</p>
 
       <div className="text-border1 padding-top-20 padding-bottom-10 highlight-238-padding-4-8 bee-container">
 
         <div>
 
-          <p className="margin-bottom-20"><strong>ly</strong></p>
+          <p className="margin-bottom-20"><strong>Faithfully</strong></p>
 
           <ul className="list-square padding-left-40">
 
             <li>
               <span className="highlight-255-padding-3-6">
-                /i/ + /<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">ly</Link>/
-                <sup>&nbsp;⬤</sup>
+                /ˈfeɪθfəli/ + /<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">fāithfưlly</Link>/
+                <sup>&nbsp;⬤•• (3x)</sup>
               </span>
             </li>
 
             <li>Trạng từ (<Link to="/grammar/what-is-an-adverb?">adverb</Link>)</li>
 
-            <li>Tính </li>
+            <li>Một cách trung thành, một cách tin cậy</li>
 
           </ul>
 
@@ -57,15 +57,15 @@ export default function (): React.JSX.Element {
 
       </div>
 
-      <p className="margin-top-30 text-indent-whole">Từ "<strong>ly</strong>" </p>
+      <p className="margin-top-30 text-indent-whole">Từ "<strong>faithfully</strong>" được dùng để mô tả một hành động được thực hiện một cách trung thành, tin cậy và đáng tin cường. Nó thường liên quan đến việc giữ lời hứa, thực hiện nhiệm vụ một cách tận tâm và trung thực.</p>
 
       <p className="text-indent-whole">Ví dụ:</p>
 
         <ul className="list-square">
 
-          <li></li>
+          <li>She <strong>faithfully</strong> served her company for many years. (Cô ấy đã phục vụ công ty một cách trung thành trong nhiều năm.)</li>
 
-          <li></li>
+          <li>He followed the instructions <strong>faithfully</strong>. (Anh ấy đã làm theo hướng dẫn một cách chính xác.)</li>
 
         </ul>
 
@@ -81,14 +81,11 @@ export default function (): React.JSX.Element {
 
         <ul className="list-square">
 
-          {/* <li></li>
-          <li className="margin-bottom-20 list-none"></li> */}
+          <li>Faithful (adj): Trung thành /ˈfeɪθfəl/</li>
+          <li className="margin-bottom-20 list-none">He is a faithful friend. (Anh ấy là một người bạn trung thành.)</li>
 
-          {/* <li></li>
-          <li className="margin-bottom-20 list-none"></li> */}
-
-          <li></li>
-          <li className="list-none"></li>
+          <li>Faith (n): Niềm tin /feɪθ/</li>
+          <li className="list-none">He has great faith in his team. (Anh ấy có niềm tin lớn vào đội của mình.)</li>
 
         </ul>
 
@@ -104,14 +101,11 @@ export default function (): React.JSX.Element {
 
         <ul className="list-square">
 
-          {/* <li></li>
-          <li className="margin-bottom-20 list-none"></li> */}
+          <li>Loyally: Một cách trung thành /ˈlɔɪəli/</li>
+          <li className="margin-bottom-20 list-none">He served his country loyally. (Anh ấy đã phục vụ đất nước một cách trung thành.)</li>
 
-          <li></li>
-          <li className="margin-bottom-20 list-none"></li>
-
-          <li></li>
-          <li className="list-none"></li>
+          <li>Devotedly: Một cách tận tâm /dɪˈvəʊtɪdli/</li>
+          <li className="list-none">She devotedly cared for her sick mother. (Cô ấy đã chăm sóc mẹ mình một cách tận tâm.)</li>
 
         </ul>
 
@@ -129,14 +123,11 @@ export default function (): React.JSX.Element {
 
         <ul className="list-square">
 
-          {/* <li></li>
-          <li className="margin-bottom-20 list-none"></li> */}
+          <li>Treacherously: Một cách phản bội /ˈtʃiːtʃərəsli/</li>
+          <li className="margin-bottom-20 list-none">He betrayed his friends treacherously. (Anh ta đã phản bội bạn bè một cách hèn hạ.)</li>
 
-          <li></li>
-          <li className="margin-bottom-20 list-none"></li>
-
-          <li></li>
-          <li className="list-none"></li>
+          <li>Unfaithfully: Một cách không trung thành /ʌnˈfeɪθfəli/</li>
+          <li className="list-none">She acted unfaithfully towards her husband. (Cô ấy đã hành động không chung thủy với chồng.)</li>
 
         </ul>
       
@@ -157,15 +148,12 @@ export default function (): React.JSX.Element {
         <strong>&nbsp;với hình ảnh</strong>:
       </p>
 
-      <p className="text-indent-whole"></p>
+      <p className="text-indent-whole">Hình dung một con chó trung thành bên cạnh chủ nhân.</p>
 
         <ul className="list-square">
 
-          {/* <li></li>
-          <li className="margin-bottom-20 list-none"></li> */}
-
-          <li></li>
-          <li className="list-none"></li>
+          <li>The dog <strong>faithfully</strong> followed its owner.</li>
+          <li className="list-none">(Con chó trung thành đi theo chủ nhân.)</li>
 
         </ul>
 
@@ -180,15 +168,12 @@ export default function (): React.JSX.Element {
         <strong>&nbsp;ví dụ</strong>:
       </p>
 
-      <p className="text-indent-whole"></p>
+      <p className="text-indent-whole">Tạo các câu miêu tả những hành động thể hiện sự trung thành.</p>
 
         <ul className="list-square">
 
-          {/* <li></li>
-          <li className="margin-bottom-20 list-none"></li> */}
-
-          <li></li>
-          <li className="list-none"></li>
+          <li>She <strong>faithfully</strong> kept her promise.</li>
+          <li className="list-none">(Cô ấy đã giữ lời hứa một cách trung thành.)</li>
 
         </ul>
 
@@ -203,33 +188,23 @@ export default function (): React.JSX.Element {
         <strong>&nbsp;thường xuyên</strong>:
       </p>
 
-      <p className="text-indent-whole"></p>
+      <p className="text-indent-whole">Thường xuyên sử dụng từ này trong các bài viết hoặc cuộc trò chuyện.</p>
 
         <p className="text-indent-whole">Ví dụ để so sánh (sự khác biệt):</p>
 
-          {/* <ol>
+          <ol>
 
-            <li></li>
-            <li className="list-none margin-bottom-20"></li>
+            <li>He finished the project. (Anh ấy đã hoàn thành dự án.)</li>
 
-            <li value="2"></li>
-            <li className="list-none margin-bottom-20"></li>
-
-          </ol> */}
-
-          {/* <ol>
-
-            <li></li>
-
-            <li className="margin-bottom-20"></li>
+            <li className="margin-bottom-20">He <strong>faithfully</strong> finished the project on time. (Anh ấy đã hoàn thành dự án đúng hạn một cách trung thành.)</li>
 
           </ol>
 
       <div className="margin-bottom-20 padding-top-20 text-border1 padding-10 highlight-238-padding-4-8 bee-container">
 
-        <p className="margin-y-10">Sự khác biệt: </p>
+        <p className="margin-y-10">Sự khác biệt: Câu thứ hai <span className="highlight-255-padding-0-4">nhấn mạnh</span> rằng anh ấy không chỉ hoàn thành dự án mà còn <span className="highlight-255-padding-0-4">làm việc một cách tận tâm và đúng hẹn</span>.</p>
 
-      </div> */}
+      </div>
 
       {/* <span className="highlight-255-padding-0-4"></span> */}
 
@@ -243,9 +218,9 @@ export default function (): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li></li>
+          <li>Sự trung thành: "<strong>Faithfully</strong>" luôn nhấn mạnh sự trung thành và đáng tin cậy.</li>
 
-          <li className="margin-bottom-20"></li>
+          <li className="margin-bottom-20">Thường dùng trong ngữ cảnh tích cực: Nó thường được sử dụng để miêu tả những hành động tích cực, đáng khen ngợi.</li>
 
         </ul>
 
@@ -256,7 +231,7 @@ export default function (): React.JSX.Element {
       <div className="viewcounter">
       
         <div className="post-date no-margin">
-          <span> · by 💎Gem ·</span>
+          <span>November 5, 2024 · by 💎Gem ·</span>
         </div>
 
         <div className="eye-icon no-margin">

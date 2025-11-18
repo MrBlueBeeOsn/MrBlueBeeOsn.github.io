@@ -5,9 +5,9 @@ import EyeIcon from '@/components/view/EyeIcon';
 import ViewCounter from '@/components/view/ViewCounter';
 import LikeButton from '@/components/like/LikeButton';
 
-export default function (): React.JSX.Element {
+export default function Sincerely1(): React.JSX.Element {
 
-  const postId = "";
+  const postId = "Sincerely1";
 
   return (<>
 
@@ -17,35 +17,35 @@ export default function (): React.JSX.Element {
     
       <h4><HashLink smooth to="/vocabulary#tinh-chan-thanh-terms"><mark className="highlight-tertiary-padding-4-8">Tính chân thành</mark></HashLink></h4>
       
-      <h1 className="margin-y-50 text-center">ly
-        <sup><Link to="/vocabulary/ly-1">&nbsp;1&nbsp;</Link>
+      <h1 className="margin-y-50 text-center">sincerely
+        <sup><Link to="/vocabulary/sincerely-1">&nbsp;1&nbsp;</Link>
         </sup>
-        <sup><Link to="/vocabulary/ly-2">&nbsp;2&nbsp;</Link>
+        <sup><Link to="/vocabulary/sincerely-2">&nbsp;2&nbsp;</Link>
         </sup>
       </h1>
 
       {/* This is the content of Vocabulary Term. */}
       
-      <p>Tuyệt vời! </p>
+      <p>Tuyệt vời! Chúng ta cùng tìm hiểu sâu hơn về từ "<strong>sincerely</strong>" nhé.</p>
 
       <div className="text-border1 padding-top-20 padding-bottom-10 highlight-238-padding-4-8 bee-container">
 
         <div>
 
-          <p className="margin-bottom-20"><strong>ly</strong></p>
+          <p className="margin-bottom-20"><strong>Sincerely</strong></p>
 
           <ul className="list-square padding-left-40">
 
             <li>
               <span className="highlight-255-padding-3-6">
-                /i/ + /<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">ly</Link>/
-                <sup>&nbsp;⬤</sup>
+                /sɪnˈsɪrlɪ/ + /<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">sincėrely</Link>/
+                <sup>&nbsp;•⬤• (3x)</sup>
               </span>
             </li>
 
             <li>Trạng từ (<Link to="/grammar/what-is-an-adverb?">adverb</Link>)</li>
 
-            <li>Tính </li>
+            <li>Một cách chân thành, thật lòng</li>
 
           </ul>
 
@@ -57,15 +57,15 @@ export default function (): React.JSX.Element {
 
       </div>
 
-      <p className="margin-top-30 text-indent-whole">Từ "<strong>ly</strong>" </p>
+      <p className="margin-top-30 text-indent-whole">Từ "<strong>sincerely</strong>" được sử dụng để nhấn mạnh sự chân thành, thật lòng trong một hành động, cảm xúc hoặc lời nói. Nó thường được đặt ở cuối một bức thư, email hoặc một lời nhắn để thể hiện sự tôn trọng và chân thành của người gửi.</p>
 
       <p className="text-indent-whole">Ví dụ:</p>
 
         <ul className="list-square">
 
-          <li></li>
+          <li><strong>Sincerely</strong>, I appreciate your help. (Thật lòng, tôi rất cảm ơn sự giúp đỡ của bạn.)</li>
 
-          <li></li>
+          <li>I hope you have a <strong>sincerely</strong> enjoyable trip. (Tôi hy vọng bạn có một chuyến đi thật vui vẻ.)</li>
 
         </ul>
 
@@ -81,14 +81,11 @@ export default function (): React.JSX.Element {
 
         <ul className="list-square">
 
-          {/* <li></li>
-          <li className="margin-bottom-20 list-none"></li> */}
+          <li>Sincere (adj): Chân thành, thật lòng /sɪnˈsɪər/</li>
+          <li className="margin-bottom-20 list-none">She gave me a sincere apology. (Cô ấy đã xin lỗi tôi một cách chân thành.)</li>
 
-          {/* <li></li>
-          <li className="margin-bottom-20 list-none"></li> */}
-
-          <li></li>
-          <li className="list-none"></li>
+          <li>Sincerity (n): Sự chân thành /sɪnˈserəti/</li>
+          <li className="list-none">His sincerity touched me. (Sự chân thành của anh ấy đã chạm đến trái tim tôi.)</li>
 
         </ul>
 
@@ -104,14 +101,11 @@ export default function (): React.JSX.Element {
 
         <ul className="list-square">
 
-          {/* <li></li>
-          <li className="margin-bottom-20 list-none"></li> */}
+          <li><Link to="/vocabulary/truly-1">Truly</Link>: Thật sự /ˈtruːli/</li>
+          <li className="margin-bottom-20 list-none">I truly believe in you. (Tôi thật sự tin tưởng bạn.)</li>
 
-          <li></li>
-          <li className="margin-bottom-20 list-none"></li>
-
-          <li></li>
-          <li className="list-none"></li>
+          <li><Link to="/vocabulary/honestly-1">Honestly</Link>: Một cách trung thực /ˈɒnɪstli/</li>
+          <li className="list-none">Honestly, I don't know the answer. (Thật lòng, tôi không biết câu trả lời.)</li>
 
         </ul>
 
@@ -129,14 +123,11 @@ export default function (): React.JSX.Element {
 
         <ul className="list-square">
 
-          {/* <li></li>
-          <li className="margin-bottom-20 list-none"></li> */}
+          <li>Insincerely: Một cách không chân thành /ɪnˈsɪnsiərli/</li>
+          <li className="margin-bottom-20 list-none">He complimented her insincerely. (Anh ta khen ngợi cô ấy một cách không chân thành.)</li>
 
-          <li></li>
-          <li className="margin-bottom-20 list-none"></li>
-
-          <li></li>
-          <li className="list-none"></li>
+          <li>Hypocritically: Một cách đạo đức giả /ˌhɪpəˈkrɪtɪkli/</li>
+          <li className="list-none">He acted hypocritically. (Anh ta hành động một cách đạo đức giả.)</li>
 
         </ul>
       
@@ -157,15 +148,12 @@ export default function (): React.JSX.Element {
         <strong>&nbsp;với hình ảnh</strong>:
       </p>
 
-      <p className="text-indent-whole"></p>
+      <p className="text-indent-whole">Hình dung một người đang nói với bạn một cách chân thành và nhìn thẳng vào mắt bạn.</p>
 
         <ul className="list-square">
 
-          {/* <li></li>
-          <li className="margin-bottom-20 list-none"></li> */}
-
-          <li></li>
-          <li className="list-none"></li>
+          <li>He is speaking to me <strong>sincerely</strong>.</li>
+          <li className="list-none">(Anh ấy đang nói với tôi một cách chân thành.)</li>
 
         </ul>
 
@@ -180,15 +168,12 @@ export default function (): React.JSX.Element {
         <strong>&nbsp;ví dụ</strong>:
       </p>
 
-      <p className="text-indent-whole"></p>
+      <p className="text-indent-whole">Tạo các câu ví dụ khác nhau với từ "<strong>sincerely</strong>" trong nhiều ngữ cảnh.</p>
 
         <ul className="list-square">
 
-          {/* <li></li>
-          <li className="margin-bottom-20 list-none"></li> */}
-
-          <li></li>
-          <li className="list-none"></li>
+          <li>I <strong>sincerely</strong> hope you recover soon.</li>
+          <li className="list-none">(Tôi thật lòng hy vọng bạn mau khỏe lại.)</li>
 
         </ul>
 
@@ -203,33 +188,23 @@ export default function (): React.JSX.Element {
         <strong>&nbsp;thường xuyên</strong>:
       </p>
 
-      <p className="text-indent-whole"></p>
+      <p className="text-indent-whole">Thường xuyên sử dụng từ này khi bạn muốn thể hiện sự chân thành trong giao tiếp.</p>
 
         <p className="text-indent-whole">Ví dụ để so sánh (sự khác biệt):</p>
 
-          {/* <ol>
+          <ol>
 
-            <li></li>
-            <li className="list-none margin-bottom-20"></li>
+            <li>Thank you. (Cảm ơn bạn.)</li>
 
-            <li value="2"></li>
-            <li className="list-none margin-bottom-20"></li>
-
-          </ol> */}
-
-          {/* <ol>
-
-            <li></li>
-
-            <li className="margin-bottom-20"></li>
+            <li className="margin-bottom-20">Thank you <strong>sincerely</strong>. (Cảm ơn bạn rất nhiều.)</li>
 
           </ol>
 
       <div className="margin-bottom-20 padding-top-20 text-border1 padding-10 highlight-238-padding-4-8 bee-container">
 
-        <p className="margin-y-10">Sự khác biệt: </p>
+        <p className="margin-y-10">Sự khác biệt: Câu thứ hai sử dụng "<strong>sincerely</strong>" để <span className="highlight-255-padding-0-4">nhấn mạnh sự biết ơn sâu sắc hơn</span>.</p>
 
-      </div> */}
+      </div>
 
       {/* <span className="highlight-255-padding-0-4"></span> */}
 
@@ -243,9 +218,9 @@ export default function (): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li></li>
+          <li>Kết thúc thư: "<strong>Sincerely</strong>" thường được sử dụng ở cuối thư hoặc email để thể hiện sự tôn trọng.</li>
 
-          <li className="margin-bottom-20"></li>
+          <li className="margin-bottom-20">Cảm xúc: Nó cũng có thể được dùng để nhấn mạnh sự chân thành của một cảm xúc hoặc một lời hứa.</li>
 
         </ul>
 
@@ -256,7 +231,7 @@ export default function (): React.JSX.Element {
       <div className="viewcounter">
       
         <div className="post-date no-margin">
-          <span> · by 💎Gem ·</span>
+          <span>November 5, 2024 · by 💎Gem ·</span>
         </div>
 
         <div className="eye-icon no-margin">
