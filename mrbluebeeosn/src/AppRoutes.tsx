@@ -202,6 +202,12 @@ const Posts = lazy(() => import('@/data/Posts'));
   const Openly1 = lazy(() => import('@/2_main/english/vocabulary/tinhchanthanh/Openly1'));
   const Openly2 = lazy(() => import('@/2_main/english/vocabulary/tinhchanthanh/Openly2'));
 
+  // 16. Vocabulary - Điểm nhấn đặc biệt
+  const Especially1 = lazy(() => import('@/2_main/english/vocabulary/diemnhandacbiet/Especially1'));
+  const Especially2 = lazy(() => import('@/2_main/english/vocabulary/diemnhandacbiet/Especially2'));
+  const Particularly1 = lazy(() => import('@/2_main/english/vocabulary/diemnhandacbiet/Particularly1'));
+  const Particularly2 = lazy(() => import('@/2_main/english/vocabulary/diemnhandacbiet/Particularly2'));
+
 // 3. Test Tailwind
 	const TestTailwind = lazy(() => import('@/components/test/TestTailwind'));
 
@@ -411,6 +417,12 @@ export default function AppRoutes(): React.JSX.Element {
           <Route path="/vocabulary/faithfully-2" element={<Faithfully2 />} />
           <Route path="/vocabulary/openly-1" element={<Openly1 />} />
           <Route path="/vocabulary/openly-2" element={<Openly2 />} />
+
+          {/* 17. Vocabulary - Điểm nhấn đặc biệt */}
+          <Route path="/vocabulary/especially-1" element={<Especially1 />} />
+          <Route path="/vocabulary/especially-2" element={<Especially2 />} />
+          <Route path="/vocabulary/particularly-1" element={<Particularly1 />} />
+          <Route path="/vocabulary/particularly-2" element={<Particularly2 />} />
 
           {/* 3. Test Tailwind */}
 					<Route path="/tailwindcss/test-tailwind" element={<TestTailwind />} />

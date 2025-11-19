@@ -310,6 +310,40 @@ export default function VocabularyIndex(): React.JSX.Element {
 				</details>
 
 				{/* =============================
+							Điểm nhấn đặc biệt
+				============================= */}
+
+				<details className="sub-box-fix">
+			
+					<summary id="diem-nhan-dac-biet-terms"><mark className="highlight-secondary-padding-2-4">Điểm nhấn đặc biệt</mark></summary>
+
+					<ul className="list-border1">
+
+						<li>
+							<Link to="/vocabulary/especially-1">especially
+								<sup>&nbsp;1&nbsp;</sup>
+									</Link> 
+									<Link to="/vocabulary/especially-2">
+								<sup>&nbsp;2&nbsp;</sup>
+							</Link>
+						</li>
+
+						<li>
+							<Link to="/vocabulary/particularly-1">particularly
+								<sup>&nbsp;1&nbsp;</sup>
+									</Link> 
+									<Link to="/vocabulary/particularly-2">
+								<sup>&nbsp;2&nbsp;</sup>
+							</Link>
+						</li>
+
+						
+						
+					</ul>
+
+				</details>
+
+				{/* =============================
 							Thời gian hiếm
 				============================= */}
 
