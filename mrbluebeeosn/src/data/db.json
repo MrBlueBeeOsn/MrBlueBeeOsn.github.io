@@ -276,10 +276,32 @@
       "likes": 0
     },
     {
+      "id": "VietCumDanhTuTiengAnh",
+      "categoryDisplay": "Tiếng Anh",
+      "categorySlug": "tieng-anh",
+      "title": "Hướng Dẫn Viết Cụm Danh Từ",
+      "content": "Để viết cụm danh từ tiếng Anh một cách tự nhiên và đúng ngữ pháp, bạn có thể áp dụng nguyên tắc “danh từ viết trước, tính từ viết sau” — nghĩa là suy nghĩ và viết theo thứ tự từ phải sang trái.",
+      "slug": "tieng-anh/huong-dan-viet-cum-danh-tu-tieng-anh",
+      "date": "2025-11-19",
+      "views": 0,
+      "likes": 0
+    },
+    {
+      "id": "VietCumDongTuTiengAnh",
+      "categoryDisplay": "Tiếng Anh",
+      "categorySlug": "tieng-anh",
+      "title": "Hướng Dẫn Viết Cụm Động Từ",
+      "content": "Để viết cụm động từ tiếng Anh một cách tự nhiên và đúng ngữ pháp, bạn có thể áp dụng nguyên tắc \"Động Từ viết trước, Trợ Động Từ viết sau\" — nghĩa là suy nghĩ và viết theo thứ tự từ phải sang trái.",
+      "slug": "tieng-anh/huong-dan-viet-cum-dong-tu-tieng-anh",
+      "date": "2025-11-19",
+      "views": 0,
+      "likes": 0
+    },
+    {
       "id": "DichCumDanhTuTiengAnh",
       "categoryDisplay": "Tiếng Anh",
       "categorySlug": "tieng-anh",
-      "title": "Nguyên âm đôi",
+      "title": "Hướng Dẫn Dịch Cụm Danh Từ Tiếng Anh",
       "content": "Để dịch chính xác và tự nhiên, bạn có thể áp dụng nguyên tắc \"danh từ dịch trước, tính từ dịch sau\", đồng thời đặt các tính từ hoặc danh từ ghép vào dấu ngoặc đơn trong cấu trúc cụm danh từ để dễ nhớ và xử lý.",
       "slug": "tieng-anh/huong-dan-dich-cum-danh-tu-tieng-anh",
       "date": "2025-10-04",
@@ -290,7 +312,7 @@
       "id": "DichCumDongTuTiengAnh",
       "categoryDisplay": "Tiếng Anh",
       "categorySlug": "tieng-anh",
-      "title": "Nguyên âm đôi",
+      "title": "Hướng Dẫn Dịch Cụm Động Từ Tiếng Anh",
       "content": "Để dịch cụm động từ sang tiếng Việt một cách tự nhiên và đúng ngữ pháp, bạn có thể áp dụng nguyên tắc \"động từ dịch trước, trạng từ dịch sau\", đồng thời đặt các trạng từ hoặc bổ ngữ vào dấu ngoặc đơn trong cấu trúc cụm động từ để dễ nhận diện và xử lý.",
       "slug": "tieng-anh/huong-dan-dich-cum-dong-tu-tieng-anh",
       "date": "2025-10-06",

@@ -19,13 +19,10 @@ export default function DichCumDanhTuTiengAnh(): React.JSX.Element {
 			
 			<h1 className="margin-y-50 text-center">Hướng Dẫn Dịch Cụm Danh Từ Tiếng Anh
 
-				<sup><HashLink smooth to="/tieng-anh/huong-dan-dich-cum-danh-tu-tieng-anh">&nbsp;1&nbsp;</HashLink>
+				<sup><HashLink smooth to="/tieng-anh/huong-dan-viet-cum-danh-tu-tieng-anh">&nbsp;1&nbsp;</HashLink>
 				</sup>
-				
-				<sup><HashLink smooth to="/tieng-anh/huong-dan-dich-cum-dong-tu-tieng-anh">&nbsp;2&nbsp;</HashLink>
-				</sup>
-
-				<sup><HashLink smooth to="/tieng-anh/huong-dan-dich-cau-hoi-tieng-anh">&nbsp;3&nbsp;</HashLink>
+								
+				<sup><HashLink smooth to="/tieng-anh/huong-dan-dich-cum-danh-tu-tieng-anh">&nbsp;2&nbsp;</HashLink>
 				</sup>
 
 			</h1>

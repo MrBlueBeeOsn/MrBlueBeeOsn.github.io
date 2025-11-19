@@ -83,21 +83,36 @@ export default function TiengAnhIndex(): React.JSX.Element {
 
             <li>
               <div className="li-content">
-                <Link to="/tieng-anh/huong-dan-dich-cum-danh-tu-tieng-anh">Hướng Dẫn Dịch Cụm Danh Từ Tiếng Anh</Link>
+                <Link to="/tieng-anh/huong-dan-viet-cum-danh-tu-tieng-anh">Hướng Dẫn Viết Cụm Danh Từ</Link>
               </div>
             </li>
 
             <li>
+              <div className="li-content">
+                <Link to="/tieng-anh/huong-dan-viet-cum-dong-tu-tieng-anh">Hướng Dẫn Viết Cụm Động Từ</Link>
+              </div>
+            </li>
+
+            {/* <li>
+              <Link to="/tieng-anh/huong-dan-viet-cum-danh-tu-tieng-anh">Cụm Danh Từ
+                <sup>&nbsp;1&nbsp;</sup>
+                  </Link> 
+                  <Link to="/tieng-anh/huong-dan-dich-cum-danh-tu-tieng-anh">
+                <sup>&nbsp;2&nbsp;</sup>
+              </Link>
+            </li> */}
+
+            {/* <li>
               <div className="li-content">
                 <Link to="/tieng-anh/huong-dan-dich-cum-dong-tu-tieng-anh">Hướng Dẫn Dịch Cụm Động Từ Tiếng Anh</Link>
               </div>
-            </li>
+            </li> */}
 
-            <li>
+            {/* <li>
               <div className="li-content">
                 <Link to="/tieng-anh/huong-dan-dich-cau-hoi-tieng-anh">Hướng Dẫn Dịch Câu Hỏi Tiếng Anh</Link>
               </div>
-            </li>
+            </li> */}
         
           </ul>
 
