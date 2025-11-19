@@ -157,21 +157,21 @@ export default function VietCumDanhTuTiengAnh(): React.JSX.Element {
 
 				<ol>
 
-					<li>Opinion (ý kiến): beautiful, ugly, cute, lovely…</li>
+					<li><strong>Opinion</strong> (ý kiến): beautiful, ugly, cute, lovely…</li>
 
-					<li>Size (kích thước): big, small, large, tiny…</li>
+					<li><strong>Size</strong> (kích thước): big, small, large, tiny…</li>
 
-					<li>Age (tuổi): old, young, new…</li>
+					<li><strong>Age</strong> (tuổi): old, young, new…</li>
 
-					<li>Shape (hình dạng): round, square…</li>
+					<li><strong>Shape</strong> (hình dạng): round, square…</li>
 
-					<li>Color (màu sắc): red, blue, black…</li>
+					<li><strong>Color</strong> (màu sắc): red, blue, black…</li>
 
-					<li>Origin (nguồn gốc): Vietnamese, French…</li>
+					<li><strong>Origin</strong> (nguồn gốc): Vietnamese, French…</li>
 
-					<li>Material (chất liệu): wooden, golden, silk…</li>
+					<li><strong>Material</strong> (chất liệu): wooden, golden, silk…</li>
 
-					<li>Purpose (mục đích): cooking (pan), racing (car)…</li>
+					<li><strong>Purpose</strong> (mục đích): cooking (pan), racing (car)…</li>
 
 				</ol>
 
