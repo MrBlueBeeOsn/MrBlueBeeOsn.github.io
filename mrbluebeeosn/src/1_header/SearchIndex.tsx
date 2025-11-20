@@ -4,6 +4,7 @@ import { HashLink } from 'react-router-hash-link';
 import SearchBar from "../components/search/SearchBar";
 import SearchComponent from '@/components/search/SearchComponent';
 import VideoSearch from '@/components/video/VideoSearch';
+import PronunciationSearch from '@/components/video/PronunciationSearch';
 
 export default function SearchIndex(): React.JSX.Element {
 
@@ -17,9 +18,7 @@ export default function SearchIndex(): React.JSX.Element {
 
         <div className="table-search">
 
-          <SearchComponent />
-        
-          <VideoSearch />
+          <PronunciationSearch />
         
         </div>
 
