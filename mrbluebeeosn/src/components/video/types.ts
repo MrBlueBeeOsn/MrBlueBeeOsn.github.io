@@ -5,6 +5,8 @@ export interface Video {
   thumbnail: string;
   duration: string;
   publishedAt: string;
+  start: number; // Thời gian bắt đầu tính bằng giây
+  viewCount: number; // Thêm viewCount để sắp xếp
 }
 
 export interface YouTubeSearchResponse {
@@ -31,24 +33,26 @@ export interface YouTubeSearchResponse {
 
 export interface YouTubeVideoDetailsResponse {
   items: Array<{
+    id: string;
+    snippet: {
+      title: string;
+      channelTitle: string;
+      thumbnails: {
+        medium: {
+          url: string;
+        };
+      };
+      publishedAt: string;
+    };
     contentDetails: {
       duration: string;
+    };
+    statistics?: {
+      viewCount: string;
     };
   }>;
   error?: {
     code: number;
     message: string;
-  };
-}
-
-export interface YouTubeApiError {
-  error: {
-    code: number;
-    message: string;
-    errors: Array<{
-      message: string;
-      domain: string;
-      reason: string;
-    }>;
   };
 }

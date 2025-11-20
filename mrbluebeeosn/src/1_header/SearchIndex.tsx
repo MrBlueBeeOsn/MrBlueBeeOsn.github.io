@@ -5,6 +5,7 @@ import SearchBar from "../components/search/SearchBar";
 import SearchComponent from '@/components/search/SearchComponent';
 import VideoSearch from '@/components/video/VideoSearch';
 import PronunciationSearch from '@/components/video/PronunciationSearch';
+import YouGlishWidget from '@/components/video/YouGlishWidget';
 
 export default function SearchIndex(): React.JSX.Element {
 
@@ -18,7 +19,7 @@ export default function SearchIndex(): React.JSX.Element {
 
         <div className="table-search">
 
-          <PronunciationSearch />
+          <YouGlishWidget />
         
         </div>
 
