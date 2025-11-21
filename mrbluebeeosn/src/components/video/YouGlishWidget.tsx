@@ -32,9 +32,12 @@ const YouGlishWidget = () => {
         // data-query="bookkeeping"
         data-lang="english"
         data-accent="us"
-        data-zones="all"
-        data-components="8415"
-        // data-components="19343"
+        data-zones="us"
+        // data-components="33113"
+        data-components="33115"
+        // data-components="33117"
+        // data-title="%25i%25%2F%25total%25"
+        // data-components="8415"
         data-video-quality="highres"
         
         // Sử dụng format màu đúng cho YouGlish
