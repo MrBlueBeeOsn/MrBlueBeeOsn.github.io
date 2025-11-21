@@ -1,0 +1,57 @@
+.youglish-container {
+  width: 100%;
+  max-width: 800px;
+  margin: 0 auto;
+  border-radius: 16px;
+  overflow: hidden;
+  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.1);
+  border: 1px solid rgba(255, 255, 255, 0.5);
+  background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%);
+  padding: 20px;
+}
+
+.youglish-widget-element {
+  display: block;
+  width: 100%;
+  min-height: 500px;
+  border: none;
+}
+
+.youglish-container.loading {
+  position: relative;
+}
+
+.youglish-container.loading::after {
+  content: "Loading YouGlish...";
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: #7971EA;
+  font-weight: bold;
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+  .youglish-container {
+    padding: 15px;
+    margin: 10px;
+    border-radius: 12px;
+  }
+  
+  .youglish-widget-element {
+    min-height: 400px;
+  }
+}
+
+@media (max-width: 480px) {
+  .youglish-container {
+    padding: 10px;
+    margin: 5px;
+    border-radius: 8px;
+  }
+  
+  .youglish-widget-element {
+    min-height: 350px;
+  }
+}

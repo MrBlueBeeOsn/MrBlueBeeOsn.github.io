@@ -4,16 +4,12 @@ const YouGlishWidget = () => {
   const widgetRef = useRef<HTMLDivElement>(null);
 
   useEffect(() => {
-    // Tạo script element
     const script = document.createElement('script');
     script.src = 'https://youglish.com/public/emb/widget.js';
     script.async = true;
     script.charset = 'utf-8';
-
-    // Thêm script vào document
     document.body.appendChild(script);
 
-    // Dọn dẹp khi component unmount
     return () => {
       if (document.body.contains(script)) {
         document.body.removeChild(script);
@@ -22,26 +18,40 @@ const YouGlishWidget = () => {
   }, []);
 
   return (
-    <div ref={widgetRef}>
+    <div ref={widgetRef} style={{ 
+      width: '100%', 
+      maxWidth: '800px', 
+      margin: '0 auto',
+      borderRadius: '12px',
+      overflow: 'hidden',
+      boxShadow: '0 4px 20px rgba(0,0,0,0.1)'
+    }}>
       <a
         id="yg-widget-0"
         className="youglish-widget"
-        data-query="bookkeeping"
+        data-query="programming"
         data-lang="english"
         data-accent="us"
-        data-zones="us"
+        data-zones="all"
         data-components="8415"
+        // data-components="19343"
         data-video-quality="highres"
-        data-bkg-color="#ffffff80"
-        data-link-color="#01ACC1" 
-        data-ttl-color="#01ACC1" 
-        data-cap-color="#01ACC1" 
-        data-marker-color="#66E2E6" 
-        data-panels-bkg-color="#66E2E6" 
-        data-text-color="#20B2AA" 
-        data-keyword-color="#20B2AA"
+        
+        // Sử dụng format màu đúng cho YouGlish
+        data-bkg-color="theme_light"  // hoặc "theme_dark"
+        data-link-color="rgba(32, 178, 170, 1)"    // Màu dạng decimal (#FF5732 = 16744782)
+        data-ttl-color="rgba(1, 172, 193, 1)"       // Hex không có #
+        data-cap-color="rgba(1, 172, 193, 1)"       // Hex không có #
+        data-marker-color="rgba(102, 226, 230, 0.5)"    // Hex không có #
+        data-panels-bkg-color="rgba(248, 249, 250, 0.5)" // Màu nền panel
+        data-text-color="rgba(42, 21, 48, 1)"      // Màu chữ
+        data-keyword-color="rgba(1, 172, 193, 1)"   // Màu keyword
+        data-search-bkg-color="rgba(255, 255, 255, 0.5)" // Màu nền search
+        data-search-text-color="rgba(32, 178, 170, 1)" // Màu chữ search
+        
         rel="nofollow"
         href="https://youglish.com"
+        style={{ display: 'block', width: '100%', height: '400px' }}
       >
         Visit YouGlish.com
       </a>
