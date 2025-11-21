@@ -82,12 +82,12 @@ export default function JourneyIndex(): React.JSX.Element {
             </tr>
 
             <tr>
-                <td>Oct. 16</td>
+                <td>16</td>
                 <td>Successfully add Tailwind CSS.</td>
             </tr>
 
             <tr>
-                <td>Oct. 25</td>
+                <td>25</td>
                 <td>Successfully add Bee Search.</td>
             </tr>
 
@@ -101,13 +101,18 @@ export default function JourneyIndex(): React.JSX.Element {
             </tr>
 
             <tr>
-                <td>Nov. 05</td>
+                <td>05</td>
                 <td>Meticulously add pattern (flowers).</td>
             </tr>
 
             <tr>
-                <td>Nov. 16</td>
+                <td>15</td>
                 <td>Successfully add Video Search.</td>
+            </tr>
+
+            <tr>
+                <td>20</td>
+                <td>Successfully add YouGlish Widget1.</td>
             </tr>
 
           </tbody>
