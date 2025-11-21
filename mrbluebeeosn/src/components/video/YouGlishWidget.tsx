@@ -29,7 +29,7 @@ const YouGlishWidget = () => {
       <a
         id="yg-widget-0"
         className="youglish-widget"
-        data-query="programming"
+        // data-query="bookkeeping"
         data-lang="english"
         data-accent="us"
         data-zones="all"
