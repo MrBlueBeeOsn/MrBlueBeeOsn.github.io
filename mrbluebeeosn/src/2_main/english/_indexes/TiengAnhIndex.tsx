@@ -3,7 +3,7 @@ import { Link } from "react-router-dom";
 import { HashLink } from 'react-router-hash-link';
 import EnglishTopic from '@/components/topic/EnglishTopic';
 import SearchComponent from '@/components/search/SearchComponent';
-import VideoSearch from '@/components/video/VideoSearch';
+import VideoSearch2 from '@/components/video/VideoSearch2';
 
 export default function TiengAnhIndex(): React.JSX.Element {
   return (<>
@@ -28,7 +28,7 @@ export default function TiengAnhIndex(): React.JSX.Element {
             
         <SearchComponent />
         
-        <VideoSearch />
+        <VideoSearch2 />
                     
       </div>
 
