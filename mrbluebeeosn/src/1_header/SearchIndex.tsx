@@ -15,9 +15,11 @@ export default function SearchIndex(): React.JSX.Element {
      
     <main className="image image3">
 
+      <h3 className="margin-y-50 text-center">Dictionary + Listening practice</h3>
+
       <article>
 
-        <div className="margin-top-40 table-search">
+        <div className="table-search">
 
           <YouGlishWidget />
         
