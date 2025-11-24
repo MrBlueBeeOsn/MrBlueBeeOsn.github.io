@@ -3,7 +3,7 @@ import { Link } from "react-router-dom";
 import { HashLink } from 'react-router-hash-link';
 import SearchBar from "../components/search/SearchBar";
 import SearchComponent from '@/components/search/SearchComponent';
-import VideoSearch from '@/components/video/VideoSearch';
+import VideoSearch3 from '@/components/video/VideoSearch3';
 import PronunciationSearch from '@/components/video/PronunciationSearch';
 import YouGlishWidget from '@/components/video/YouGlishWidget';
 
@@ -15,14 +15,18 @@ export default function SearchIndex(): React.JSX.Element {
      
     <main className="image image3">
 
-      <h3 className="margin-y-50 text-center">Dictionary + Listening practice</h3>
+      <h3 className="margin-y-50 text-center">Articles + Tutorials</h3>
 
       <article>
 
         <div className="table-search">
 
-          <YouGlishWidget />
-        
+          <SearchComponent />
+
+          <VideoSearch3 />
+
+            {/* <YouGlishWidget /> */}
+            
         </div>
 
       </article>
