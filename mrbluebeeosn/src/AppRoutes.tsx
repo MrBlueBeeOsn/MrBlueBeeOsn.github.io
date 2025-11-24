@@ -177,6 +177,8 @@ const Posts = lazy(() => import('@/data/Posts'));
   const Possibly2 = lazy(() => import('@/2_main/english/vocabulary/khongchacchan/Possibly2'));
   const Questionably1 = lazy(() => import('@/2_main/english/vocabulary/khongchacchan/Questionably1'));
   const Questionably2 = lazy(() => import('@/2_main/english/vocabulary/khongchacchan/Questionably2'));
+  const Probably1 = lazy(() => import('@/2_main/english/vocabulary/khongchacchan/Probably1'));
+  const Probably2 = lazy(() => import('@/2_main/english/vocabulary/khongchacchan/Probably2'));
 
   // 14. Vocabulary - Thời gian hiện tại
   const Now1 = lazy(() => import('@/2_main/english/vocabulary/thoigianhientai/Now1'));
@@ -395,6 +397,8 @@ export default function AppRoutes(): React.JSX.Element {
           <Route path="/vocabulary/possibly-2" element={<Possibly2 />} />
           <Route path="/vocabulary/questionably-1" element={<Questionably1 />} />
           <Route path="/vocabulary/questionably-2" element={<Questionably2 />} />
+          <Route path="/vocabulary/probably-1" element={<Probably1 />} />
+          <Route path="/vocabulary/probably-2" element={<Probably2 />} />
 
           {/* 14. Vocabulary - Thời gian hiện tại */}
           <Route path="/vocabulary/now-1" element={<Now1 />} />
