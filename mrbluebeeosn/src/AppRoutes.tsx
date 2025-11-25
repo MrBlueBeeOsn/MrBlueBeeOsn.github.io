@@ -179,6 +179,8 @@ const Posts = lazy(() => import('@/data/Posts'));
   const Questionably2 = lazy(() => import('@/2_main/english/vocabulary/khongchacchan/Questionably2'));
   const Probably1 = lazy(() => import('@/2_main/english/vocabulary/khongchacchan/Probably1'));
   const Probably2 = lazy(() => import('@/2_main/english/vocabulary/khongchacchan/Probably2'));
+  const Apparently1 = lazy(() => import('@/2_main/english/vocabulary/khongchacchan/Apparently1'));
+  const Apparently2 = lazy(() => import('@/2_main/english/vocabulary/khongchacchan/Apparently2'));
 
   // 14. Vocabulary - Thời gian hiện tại
   const Now1 = lazy(() => import('@/2_main/english/vocabulary/thoigianhientai/Now1'));
@@ -211,6 +213,10 @@ const Posts = lazy(() => import('@/data/Posts'));
   const Especially2 = lazy(() => import('@/2_main/english/vocabulary/diemnhandacbiet/Especially2'));
   const Particularly1 = lazy(() => import('@/2_main/english/vocabulary/diemnhandacbiet/Particularly1'));
   const Particularly2 = lazy(() => import('@/2_main/english/vocabulary/diemnhandacbiet/Particularly2'));
+
+  // 17. Vocabulary - Về cơ bản
+  const Basically1 = lazy(() => import('@/2_main/english/vocabulary/vecoban/Basically1'));
+  const Basically2 = lazy(() => import('@/2_main/english/vocabulary/vecoban/Basically2'));
 
 // 3. Test Tailwind
 	const TestTailwind = lazy(() => import('@/components/test/TestTailwind'));
@@ -399,6 +405,8 @@ export default function AppRoutes(): React.JSX.Element {
           <Route path="/vocabulary/questionably-2" element={<Questionably2 />} />
           <Route path="/vocabulary/probably-1" element={<Probably1 />} />
           <Route path="/vocabulary/probably-2" element={<Probably2 />} />
+          <Route path="/vocabulary/apparently-1" element={<Apparently1 />} />
+          <Route path="/vocabulary/apparently-2" element={<Apparently2 />} />
 
           {/* 14. Vocabulary - Thời gian hiện tại */}
           <Route path="/vocabulary/now-1" element={<Now1 />} />
@@ -431,6 +439,10 @@ export default function AppRoutes(): React.JSX.Element {
           <Route path="/vocabulary/especially-2" element={<Especially2 />} />
           <Route path="/vocabulary/particularly-1" element={<Particularly1 />} />
           <Route path="/vocabulary/particularly-2" element={<Particularly2 />} />
+
+          {/* 18. Vocabulary - Về cơ bản */}
+          <Route path="/vocabulary/basically-1" element={<Basically1 />} />
+          <Route path="/vocabulary/basically-2" element={<Basically2 />} />
 
           {/* 3. Test Tailwind */}
 					<Route path="/tailwindcss/test-tailwind" element={<TestTailwind />} />

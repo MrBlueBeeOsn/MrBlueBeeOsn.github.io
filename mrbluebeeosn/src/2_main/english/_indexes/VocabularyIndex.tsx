@@ -147,6 +147,15 @@ export default function VocabularyIndex(): React.JSX.Element {
 								<sup>&nbsp;2&nbsp;</sup>
 							</Link>
 						</li>
+
+						<li>
+							<Link to="/vocabulary/apparently-1">apparently
+								<sup>&nbsp;1&nbsp;</sup>
+									</Link> 
+									<Link to="/vocabulary/apparently-2">
+								<sup>&nbsp;2&nbsp;</sup>
+							</Link>
+						</li>
 						
 					</ul>
 
@@ -747,6 +756,30 @@ export default function VocabularyIndex(): React.JSX.Element {
 								<sup>&nbsp;2&nbsp;</sup>
 							</Link>
 						</li>
+
+					</ul>
+					
+				</details>
+
+				{/* =============================
+							Tính chân thành
+				============================= */}
+
+				<details className="sub-box-fix">
+			
+					<summary id="ve-co-ban-terms"><mark className="highlight-secondary-padding-2-4">Về cơ bản</mark></summary>
+
+					<ul className="list-border1">
+
+						<li>
+							<Link to="/vocabulary/basically-1">basically
+								<sup>&nbsp;1&nbsp;</sup>
+									</Link> 
+									<Link to="/vocabulary/basically-2">
+								<sup>&nbsp;2&nbsp;</sup>
+							</Link>
+						</li>
+
 
 					</ul>
 					

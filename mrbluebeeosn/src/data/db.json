@@ -1167,12 +1167,12 @@
       "likes": 0
     },
     {
-      "id": "Probably2",
+      "id": "Questionably2",
       "categoryDisplay": "Không chắc chắn",
       "categorySlug": "vocabulary#khong-chac-chan-terms",
-      "title": "probably 2",
-      "content": "Từ \"probably\" được dùng để diễn tả sự không chắc chắn hoàn toàn nhưng có khả năng cao một sự việc nào đó sẽ xảy ra. Nó thể hiện một mức độ tin tưởng cao hơn \"maybe\" nhưng thấp hơn \"certainly\".",
-      "slug": "vocabulary/probably-2",
+      "title": "questionably 2",
+      "content": "Questionably /ˈkwɛstʃənəbli/ ⬤••• (4x) trong tiếng Anh có nghĩa là \"một cách đáng ngờ\", thường được dùng để mô tả những gì gây nghi ngờ, không chắc chắn hoặc không đáng tin cậy.",
+      "slug": "vocabulary/questionably-2",
       "date": "2024-11-05",
       "views": 0,
       "likes": 0
@@ -1189,13 +1189,35 @@
       "likes": 0
     },
     {
-      "id": "Questionably2",
+      "id": "Probably2",
       "categoryDisplay": "Không chắc chắn",
       "categorySlug": "vocabulary#khong-chac-chan-terms",
-      "title": "questionably 2",
-      "content": "Questionably /ˈkwɛstʃənəbli/ ⬤••• (4x) trong tiếng Anh có nghĩa là \"một cách đáng ngờ\", thường được dùng để mô tả những gì gây nghi ngờ, không chắc chắn hoặc không đáng tin cậy.",
-      "slug": "vocabulary/questionably-2",
+      "title": "probably 2",
+      "content": "Từ \"probably\" được dùng để diễn tả sự không chắc chắn hoàn toàn nhưng có khả năng cao một sự việc nào đó sẽ xảy ra. Nó thể hiện một mức độ tin tưởng cao hơn \"maybe\" nhưng thấp hơn \"certainly\".",
+      "slug": "vocabulary/probably-2",
       "date": "2024-11-05",
+      "views": 0,
+      "likes": 0
+    },
+    {
+      "id": "Apparently1",
+      "categoryDisplay": "Không chắc chắn",
+      "categorySlug": "vocabulary#khong-chac-chan-terms",
+      "title": "apparently 1",
+      "content": "Từ \"apparently\" được dùng để diễn tả một điều gì đó được cho là đúng hoặc có thật dựa trên thông tin hiện có, mặc dù người nói không hoàn toàn chắc chắn về điều đó. Nó thường được sử dụng khi người nói đang truyền đạt thông tin mà họ đã nghe được từ người khác hoặc dựa trên những gì họ quan sát được.",
+      "slug": "vocabulary/apparently-1",
+      "date": "2024-11-11",
+      "views": 0,
+      "likes": 0
+    },
+    {
+      "id": "Apparently2",
+      "categoryDisplay": "Không chắc chắn",
+      "categorySlug": "vocabulary#khong-chac-chan-terms",
+      "title": "apparently 2",
+      "content": "Apparently /əˈpærəntli/ •⬤•• (4x) là một trạng từ thường được dùng để thể hiện một thông tin mà người nói không chắc chắn hoàn toàn về tính xác thực của nó.",
+      "slug": "vocabulary/apparently-2",
+      "date": "2024-11-11",
       "views": 0,
       "likes": 0
     },
@@ -1570,6 +1592,28 @@
       "content": "Particularly /pəˈtɪkjələrli/ •⬤••• (5x) trong tiếng Anh có nghĩa là \"đặc biệt\", \"một cách đặc biệt\", thường được dùng để nhấn mạnh một điều gì đó hơn những thứ khác.",
       "slug": "vocabulary/particularly-2",
       "date": "2024-11-05",
+      "views": 0,
+      "likes": 0
+    },
+    {
+      "id": "Basically1",
+      "categoryDisplay": "Về cơ bản",
+      "categorySlug": "vocabulary#ve-co-ban-terms",
+      "title": "basically 1",
+      "content": "Từ \"basically\" được sử dụng để nhấn mạnh ý chính hoặc điểm quan trọng nhất của một vấn đề, một ý tưởng hoặc một tình huống. Nó có nghĩa là \"nói một cách đơn giản\" hoặc \"về cơ bản\".",
+      "slug": "vocabulary/basically-1",
+      "date": "2024-11-08",
+      "views": 0,
+      "likes": 0
+    },
+    {
+      "id": "Basically2",
+      "categoryDisplay": "Về cơ bản",
+      "categorySlug": "vocabulary#ve-co-ban-terms",
+      "title": "basically 2",
+      "content": "Basically /ˈbeɪsɪkli/ ⬤•• (3x) trong tiếng Anh có nghĩa là \"về cơ bản\", \"một cách đơn giản\", được dùng để nhấn mạnh ý chính hoặc ý tưởng cốt lõi của một vấn đề.",
+      "slug": "vocabulary/basically-2",
+      "date": "2024-11-08",
       "views": 0,
       "likes": 0
     }

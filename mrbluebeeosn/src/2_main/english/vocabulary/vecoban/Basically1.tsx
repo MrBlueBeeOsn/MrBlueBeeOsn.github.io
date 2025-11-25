@@ -5,9 +5,9 @@ import EyeIcon from '@/components/view/EyeIcon';
 import ViewCounter from '@/components/view/ViewCounter';
 import LikeButton from '@/components/like/LikeButton';
 
-export default function (): React.JSX.Element {
+export default function Basically1(): React.JSX.Element {
 
-  const postId = "";
+  const postId = "Basically1";
 
   return (<>
 
@@ -17,35 +17,35 @@ export default function (): React.JSX.Element {
     
       <h4><HashLink smooth to="/vocabulary#ve-co-ban-terms"><mark className="highlight-tertiary-padding-4-8">Về cơ bản</mark></HashLink></h4>
       
-      <h1 className="margin-y-50 text-center">ly
-        <sup><Link to="/vocabulary/ly-1">&nbsp;1&nbsp;</Link>
+      <h1 className="margin-y-50 text-center">basically
+        <sup><Link to="/vocabulary/basically-1">&nbsp;1&nbsp;</Link>
         </sup>
-        <sup><Link to="/vocabulary/ly-2">&nbsp;2&nbsp;</Link>
+        <sup><Link to="/vocabulary/basically-2">&nbsp;2&nbsp;</Link>
         </sup>
       </h1>
 
       {/* This is the content of Vocabulary Term. */}
       
-      <p>Tuyệt vời! </p>
+      <p>Tuyệt vời! Chúng ta cùng khám phá từ "<strong>basically</strong>" nhé.</p>
 
       <div className="text-border1 padding-top-20 padding-bottom-10 highlight-238-padding-4-8 bee-container">
 
         <div>
 
-          <p className="margin-bottom-20"><strong>ly</strong></p>
+          <p className="margin-bottom-20"><strong>Basically</strong></p>
 
           <ul className="list-square padding-left-40">
 
             <li>
               <span className="highlight-255-padding-3-6">
-                /i/ + /<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">ly</Link>/
-                <sup>&nbsp;⬤</sup>
+                /ˈbeɪsɪkli/ + /<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">bāsica̛lly</Link>/
+                <sup>&nbsp;⬤•• (3x)</sup>
               </span>
             </li>
 
             <li>Trạng từ (<Link to="/grammar/what-is-an-adverb?">adverb</Link>)</li>
 
-            <li>Tính </li>
+            <li>Về cơ bản, nói một cách đơn giản</li>
 
           </ul>
 
@@ -57,15 +57,15 @@ export default function (): React.JSX.Element {
 
       </div>
 
-      <p className="margin-top-30 text-indent-whole">Từ "<strong>ly</strong>" </p>
+      <p className="margin-top-30 text-indent-whole">Từ "<strong>basically</strong>" được sử dụng để nhấn mạnh ý chính hoặc điểm quan trọng nhất của một vấn đề, một ý tưởng hoặc một tình huống. Nó có nghĩa là "nói một cách đơn giản" hoặc "về cơ bản".</p>
 
       <p className="text-indent-whole">Ví dụ:</p>
 
         <ul className="list-square">
 
-          <li></li>
+          <li><strong>Basically</strong>, I just want to relax. (Về cơ bản, tôi chỉ muốn thư giãn.)</li>
 
-          <li></li>
+          <li><strong>Basically</strong>, the problem is that we don't have enough money. (Về cơ bản, vấn đề là chúng ta không đủ tiền.)</li>
 
         </ul>
 
@@ -81,14 +81,11 @@ export default function (): React.JSX.Element {
 
         <ul className="list-square">
 
-          {/* <li></li>
-          <li className="margin-bottom-20 list-none"></li> */}
+          <li>Basic (adj): cơ bản /ˈbeɪsɪk/</li>
+          <li className="margin-bottom-20 list-none">The basic idea is very simple. (Ý tưởng cơ bản rất đơn giản.)</li>
 
-          {/* <li></li>
-          <li className="margin-bottom-20 list-none"></li> */}
-
-          <li></li>
-          <li className="list-none"></li>
+          <li>Base (n): cơ sở, nền tảng /beɪs/</li>
+          <li className="list-none">The base of the pyramid is very wide. (Đáy của kim tự tháp rất rộng.)</li>
 
         </ul>
 
@@ -104,14 +101,11 @@ export default function (): React.JSX.Element {
 
         <ul className="list-square">
 
-          {/* <li></li>
-          <li className="margin-bottom-20 list-none"></li> */}
+          <li>Essentially: Về bản chất /ɪˈsenʃəli/</li>
+          <li className="margin-bottom-20 list-none">Essentially, it's a question of money. (Về bản chất, đó là một vấn đề về tiền bạc.)</li>
 
-          <li></li>
-          <li className="margin-bottom-20 list-none"></li>
-
-          <li></li>
-          <li className="list-none"></li>
+          <li>Fundamentally: Về cơ bản /ˌfʌndəˈmentəli/</li>
+          <li className="list-none">Fundamentally, I agree with you. (Về cơ bản, tôi đồng ý với bạn.)</li>
 
         </ul>
 
@@ -129,14 +123,11 @@ export default function (): React.JSX.Element {
 
         <ul className="list-square">
 
-          {/* <li></li>
-          <li className="margin-bottom-20 list-none"></li> */}
+          <li>Specifically: Một cách cụ thể /spəˈsɪfɪkli/</li>
+          <li className="margin-bottom-20 list-none">Specifically, I need you to finish this report by Friday. (Cụ thể, tôi cần bạn hoàn thành báo cáo này trước thứ Sáu.)</li>
 
-          <li></li>
-          <li className="margin-bottom-20 list-none"></li>
-
-          <li></li>
-          <li className="list-none"></li>
+          <li><Link to="/vocabulary/precisely-1">Precisely</Link>: Một cách chính xác /prɪˈsaɪsli/</li>
+          <li className="list-none">Precisely, that's what I mean. (Chính xác, đó là điều tôi muốn nói.)</li>
 
         </ul>
       
@@ -157,15 +148,12 @@ export default function (): React.JSX.Element {
         <strong>&nbsp;với hình ảnh</strong>:
       </p>
 
-      <p className="text-indent-whole"></p>
+      <p className="text-indent-whole">Hình dung một tòa nhà với một nền móng vững chắc.</p>
 
         <ul className="list-square">
 
-          {/* <li></li>
-          <li className="margin-bottom-20 list-none"></li> */}
-
-          <li></li>
-          <li className="list-none"></li>
+          <li>The building is <strong>basically</strong> built on a strong foundation.</li>
+          <li className="list-none">(Tòa nhà cơ bản được xây dựng trên một nền móng vững chắc.)</li>
 
         </ul>
 
@@ -180,15 +168,12 @@ export default function (): React.JSX.Element {
         <strong>&nbsp;ví dụ</strong>:
       </p>
 
-      <p className="text-indent-whole"></p>
+      <p className="text-indent-whole">Tạo các câu ví dụ liên quan đến các tình huống hàng ngày hoặc các cuộc trò chuyện.</p>
 
         <ul className="list-square">
 
-          {/* <li></li>
-          <li className="margin-bottom-20 list-none"></li> */}
-
-          <li></li>
-          <li className="list-none"></li>
+          <li><strong>Basically</strong>, I just need some time to think.</li>
+          <li className="list-none">(Về cơ bản, tôi chỉ cần một chút thời gian để suy nghĩ.)</li>
 
         </ul>
 
@@ -203,33 +188,23 @@ export default function (): React.JSX.Element {
         <strong>&nbsp;thường xuyên</strong>:
       </p>
 
-      <p className="text-indent-whole"></p>
+      <p className="text-indent-whole">Thường xuyên sử dụng từ này trong các cuộc hội thoại hoặc khi viết.</p>
 
         <p className="text-indent-whole">Ví dụ để so sánh (sự khác biệt):</p>
 
-          {/* <ol>
+          <ol>
 
-            <li></li>
-            <li className="list-none margin-bottom-20"></li>
+            <li>I like to eat vegetables. (Tôi thích ăn rau.)</li>
 
-            <li value="2"></li>
-            <li className="list-none margin-bottom-20"></li>
-
-          </ol> */}
-
-          {/* <ol>
-
-            <li></li>
-
-            <li className="margin-bottom-20"></li>
+            <li className="margin-bottom-20"><strong>Basically</strong>, I like to eat healthy food. (Về cơ bản, tôi thích ăn thức ăn lành mạnh.)</li>
 
           </ol>
 
       <div className="margin-bottom-20 padding-top-20 text-border1 padding-10 highlight-238-padding-4-8 bee-container">
 
-        <p className="margin-y-10">Sự khác biệt: </p>
+        <p className="margin-y-10">Sự khác biệt: Câu thứ hai sử dụng "<strong>basically</strong>" để tổng kết một cách rộng hơn về sở thích ăn uống của người nói.</p>
 
-      </div> */}
+      </div>
 
       {/* <span className="highlight-255-padding-0-4"></span> */}
 
@@ -243,9 +218,9 @@ export default function (): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li></li>
+          <li>Rút gọn: "<strong>Basically</strong>" thường được dùng để rút gọn một ý tưởng phức tạp thành một ý tưởng đơn giản hơn.</li>
 
-          <li className="margin-bottom-20"></li>
+          <li className="margin-bottom-20">Tập trung vào ý chính: Nó giúp người nghe hoặc người đọc dễ dàng nắm bắt được ý chính.</li>
 
         </ul>
 
@@ -256,7 +231,7 @@ export default function (): React.JSX.Element {
       <div className="viewcounter">
       
         <div className="post-date no-margin">
-          <span> · by 💎Gem ·</span>
+          <span>November 8, 2024 · by 💎Gem ·</span>
         </div>
 
         <div className="eye-icon no-margin">
