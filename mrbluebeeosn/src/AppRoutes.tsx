@@ -218,6 +218,12 @@ const Posts = lazy(() => import('@/data/Posts'));
   const Basically1 = lazy(() => import('@/2_main/english/vocabulary/vecoban/Basically1'));
   const Basically2 = lazy(() => import('@/2_main/english/vocabulary/vecoban/Basically2'));
 
+  // 18. Vocabulary - Tính hiệu quả
+  const Effectively1 = lazy(() => import('@/2_main/english/vocabulary/tinhhieuqua/Effectively1'));
+  const Effectively2 = lazy(() => import('@/2_main/english/vocabulary/tinhhieuqua/Effectively2'));
+  const Efficiently1 = lazy(() => import('@/2_main/english/vocabulary/tinhhieuqua/Efficiently1'));
+  const Efficiently2 = lazy(() => import('@/2_main/english/vocabulary/tinhhieuqua/Efficiently2'));
+
 // 3. Test Tailwind
 	const TestTailwind = lazy(() => import('@/components/test/TestTailwind'));
 
@@ -443,6 +449,12 @@ export default function AppRoutes(): React.JSX.Element {
           {/* 18. Vocabulary - Về cơ bản */}
           <Route path="/vocabulary/basically-1" element={<Basically1 />} />
           <Route path="/vocabulary/basically-2" element={<Basically2 />} />
+
+          {/* 19. Vocabulary - Tính hiệu quả */}
+          <Route path="/vocabulary/effectively-1" element={<Effectively1 />} />
+          <Route path="/vocabulary/effectively-2" element={<Effectively2 />} />
+          <Route path="/vocabulary/efficiently-1" element={<Efficiently1 />} />
+          <Route path="/vocabulary/efficiently-2" element={<Efficiently2 />} />
 
           {/* 3. Test Tailwind */}
 					<Route path="/tailwindcss/test-tailwind" element={<TestTailwind />} />
