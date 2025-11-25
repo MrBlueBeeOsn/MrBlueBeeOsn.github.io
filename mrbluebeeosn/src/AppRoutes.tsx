@@ -223,6 +223,10 @@ const Posts = lazy(() => import('@/data/Posts'));
   const Effectively2 = lazy(() => import('@/2_main/english/vocabulary/tinhhieuqua/Effectively2'));
   const Efficiently1 = lazy(() => import('@/2_main/english/vocabulary/tinhhieuqua/Efficiently1'));
   const Efficiently2 = lazy(() => import('@/2_main/english/vocabulary/tinhhieuqua/Efficiently2'));
+  const Successfully1 = lazy(() => import('@/2_main/english/vocabulary/tinhhieuqua/Successfully1'));
+  const Successfully2 = lazy(() => import('@/2_main/english/vocabulary/tinhhieuqua/Successfully2'));
+  const Productively1 = lazy(() => import('@/2_main/english/vocabulary/tinhhieuqua/Productively1'));
+  const Productively2 = lazy(() => import('@/2_main/english/vocabulary/tinhhieuqua/Productively2'));
 
 // 3. Test Tailwind
 	const TestTailwind = lazy(() => import('@/components/test/TestTailwind'));
@@ -455,6 +459,10 @@ export default function AppRoutes(): React.JSX.Element {
           <Route path="/vocabulary/effectively-2" element={<Effectively2 />} />
           <Route path="/vocabulary/efficiently-1" element={<Efficiently1 />} />
           <Route path="/vocabulary/efficiently-2" element={<Efficiently2 />} />
+          <Route path="/vocabulary/successfully-1" element={<Successfully1 />} />
+          <Route path="/vocabulary/successfully-2" element={<Successfully2 />} />
+          <Route path="/vocabulary/productively-1" element={<Productively1 />} />
+          <Route path="/vocabulary/productively-2" element={<Productively2 />} />
 
           {/* 3. Test Tailwind */}
 					<Route path="/tailwindcss/test-tailwind" element={<TestTailwind />} />

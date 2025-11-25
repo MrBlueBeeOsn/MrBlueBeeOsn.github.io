@@ -5,9 +5,9 @@ import EyeIcon from '@/components/view/EyeIcon';
 import ViewCounter from '@/components/view/ViewCounter';
 import LikeButton from '@/components/like/LikeButton';
 
-export default function Efficiently1(): React.JSX.Element {
+export default function Successfully1(): React.JSX.Element {
 
-  const postId = "Efficiently1";
+  const postId = "Successfully1";
 
   return (<>
 
@@ -17,35 +17,35 @@ export default function Efficiently1(): React.JSX.Element {
     
       <h4><HashLink smooth to="/vocabulary#tinh-hieu-qua-terms"><mark className="highlight-tertiary-padding-4-8">Tính hiệu quả</mark></HashLink></h4>
       
-      <h1 className="margin-y-50 text-center">efficiently
-        <sup><Link to="/vocabulary/efficiently-1">&nbsp;1&nbsp;</Link>
+      <h1 className="margin-y-50 text-center">successfully
+        <sup><Link to="/vocabulary/successfully-1">&nbsp;1&nbsp;</Link>
         </sup>
-        <sup><Link to="/vocabulary/efficiently-2">&nbsp;2&nbsp;</Link>
+        <sup><Link to="/vocabulary/successfully-2">&nbsp;2&nbsp;</Link>
         </sup>
       </h1>
 
       {/* This is the content of Vocabulary Term. */}
       
-      <p>Tuyệt vời! Chúng ta cùng đi sâu vào từ "<strong>efficiently</strong>" nhé.</p>
+      <p>Tuyệt vời! Chúng ta cùng đi sâu vào từ "<strong>successfully</strong>" nhé.</p>
 
       <div className="text-border1 padding-top-20 padding-bottom-10 highlight-238-padding-4-8 bee-container">
 
         <div>
 
-          <p className="margin-bottom-20"><strong>Efficiently</strong></p>
+          <p className="margin-bottom-20"><strong>Successfully</strong></p>
 
           <ul className="list-square padding-left-40">
 
             <li>
               <span className="highlight-255-padding-3-6">
-                /ɪˈfɪʃəntli/ + /<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">ėfficie̛ntly</Link>/
+                /səkˈsesfəli/ + /<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">sưccessfưlly</Link>/
                 <sup>&nbsp;•⬤•• (4x)</sup>
               </span>
             </li>
 
             <li>Trạng từ (<Link to="/grammar/what-is-an-adverb?">adverb</Link>)</li>
 
-            <li>Một cách hiệu quả</li>
+            <li>Một cách thành công</li>
 
           </ul>
 
@@ -57,15 +57,15 @@ export default function Efficiently1(): React.JSX.Element {
 
       </div>
 
-      <p className="margin-top-30 text-indent-whole">Từ "<strong>efficiently</strong>" được dùng để mô tả một hành động được thực hiện một cách nhanh chóng, tiết kiệm và đạt được kết quả tốt nhất với ít công sức và tài nguyên nhất. Nó thể hiện sự tối ưu hóa trong việc sử dụng thời gian, năng lượng và các nguồn lực khác.</p>
+      <p className="margin-top-30 text-indent-whole">Từ "<strong>successfully</strong>" được dùng để mô tả một hành động, một nhiệm vụ hoặc một mục tiêu đã được hoàn thành một cách tốt đẹp, đạt được kết quả mong muốn. Nó thể hiện sự thành công, thắng lợi hoặc đạt được mục tiêu.</p>
 
       <p className="text-indent-whole">Ví dụ:</p>
 
         <ul className="list-square">
 
-          <li>She completed the task <strong>efficiently</strong>. (Cô ấy hoàn thành công việc một cách hiệu quả.)</li>
+          <li>She <strong>successfully</strong> passed the exam. (Cô ấy đã vượt qua kỳ thi một cách thành công.)</li>
 
-          <li>This new software will help us work more <strong>efficiently</strong>. (Phần mềm mới này sẽ giúp chúng ta làm việc hiệu quả hơn.)</li>
+          <li>The project was <strong>successfully</strong> completed on time. (Dự án đã được hoàn thành đúng hạn.)</li>
 
         </ul>
 
@@ -81,11 +81,11 @@ export default function Efficiently1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Efficient (adj): Hiệu quả /ɪˈfɪʃənt/</li>
-          <li className="margin-bottom-20 list-none">He is a very efficient worker. (Anh ấy là một người lao động rất hiệu quả.)</li>
+          <li>Success (n): Sự thành công (/səkˈses/)</li>
+          <li className="margin-bottom-20 list-none">His success was due to hard work. (Sự thành công của anh ấy là nhờ làm việc chăm chỉ.)</li>
 
-          <li>Efficiency (n): Hiệu quả /ɪˈfɪʃənsi/</li>
-          <li className="list-none">The efficiency of this machine is remarkable. (Hiệu quả của máy này thật đáng chú ý.)</li>
+          <li>Successful (adj): Thành công (/səkˈsesfəl/)</li>
+          <li className="list-none">The party was a successful event. (Bữa tiệc là một sự kiện thành công.)</li>
 
         </ul>
 
@@ -101,11 +101,11 @@ export default function Efficiently1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li><Link to="/vocabulary/effectively-1">Effectively</Link>: Một cách hiệu quả /ɪˈfektɪvli/</li>
-          <li className="margin-bottom-20 list-none">The medicine worked effectively. (Thuốc có tác dụng hiệu quả.)</li>
+          <li>Triumphantly: Một cách chiến thắng (/traɪˈʌmfəntli/)</li>
+          <li className="margin-bottom-20 list-none">The team triumphantly won the championship. (Đội đã chiến thắng giải vô địch một cách vẻ vang.)</li>
 
-          <li><Link to="/vocabulary/productively-1">Productively</Link>: Một cách năng suất /prəˈdʌktɪvli/</li>
-          <li className="list-none">We need to work more productively to meet the deadline. (Chúng ta cần làm việc năng suất hơn để kịp tiến độ.)</li>
+          <li>Satisfactorily: Một cách thỏa đáng (/ˌsætɪsˈfæktərili/)</li>
+          <li className="list-none">The problem was satisfactorily resolved. (Vấn đề đã được giải quyết một cách thỏa đáng.)</li>
 
         </ul>
 
@@ -123,11 +123,11 @@ export default function Efficiently1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Inefficiently: Một cách không hiệu quả /ˌɪnɪˈfɪʃəntli/</li>
-          <li className="margin-bottom-20 list-none">The old system worked inefficiently. (Hệ thống cũ hoạt động không hiệu quả.)</li>
+          <li>Unsuccessfully: Một cách không thành công (/ʌnˌsəkˈsesfʊli/)</li>
+          <li className="margin-bottom-20 list-none">He unsuccessfully tried to open the door. (Anh ấy đã cố gắng mở cửa nhưng không thành công.)</li>
 
-          <li>Wastefully: Một cách lãng phí /ˈweɪstfəli/</li>
-          <li className="list-none">He spent his money wastefully. (Anh ta tiêu tiền một cách lãng phí.)</li>
+          <li>Unsatisfactorily: Một cách không thỏa đáng (/ʌnˌsætɪsˈfæktərili/)</li>
+          <li className="list-none">The task was completed unsatisfactorily. (Công việc đã được hoàn thành một cách không thỏa đáng.)</li>
 
         </ul>
       
@@ -148,12 +148,12 @@ export default function Efficiently1(): React.JSX.Element {
         <strong>&nbsp;với hình ảnh</strong>:
       </p>
 
-      <p className="text-indent-whole">Hình dung một người đang làm việc nhanh chóng và gọn gàng để hoàn thành công việc.</p>
+      <p className="text-indent-whole">Hình dung một người đang nhận giải thưởng hoặc một đội đang ăn mừng chiến thắng.</p>
 
         <ul className="list-square">
 
-          <li>He is working very <strong>efficiently</strong> to finish the task.</li>
-          <li className="list-none">(Anh ấy đang làm việc rất hiệu quả để hoàn thành công việc.)</li>
+          <li>She has <strong>successfully</strong> won the award.</li>
+          <li className="list-none">(Cô ấy đã giành được giải thưởng.)</li>
 
         </ul>
 
@@ -168,12 +168,12 @@ export default function Efficiently1(): React.JSX.Element {
         <strong>&nbsp;ví dụ</strong>:
       </p>
 
-      <p className="text-indent-whole">Tự tạo các câu ví dụ khác nhau với từ "<strong>efficiently</strong>" trong nhiều ngữ cảnh khác nhau.</p>
+      <p className="text-indent-whole">Tạo các câu liên quan đến những tình huống thành công.</p>
 
         <ul className="list-square">
 
-          <li>She <strong>efficiently</strong> managed her time to finish all her tasks.</li>
-          <li className="list-none">(Cô ấy đã quản lý thời gian một cách hiệu quả để hoàn thành tất cả công việc của mình.)</li>
+          <li>She <strong>successfully</strong> defended her thesis.</li>
+          <li className="list-none">(Cô ấy đã bảo vệ thành công luận văn của mình.)</li>
 
         </ul>
 
@@ -188,21 +188,21 @@ export default function Efficiently1(): React.JSX.Element {
         <strong>&nbsp;thường xuyên</strong>:
       </p>
 
-      <p className="text-indent-whole">Thường xuyên sử dụng từ này trong các cuộc hội thoại và bài viết.</p>
+      <p className="text-indent-whole">Thường xuyên sử dụng từ này trong các cuộc trò chuyện hoặc bài viết.</p>
 
         <p className="text-indent-whole">Ví dụ để so sánh (sự khác biệt):</p>
 
           <ol>
 
-            <li>He finished the report. (Anh ấy đã hoàn thành báo cáo.)</li>
+            <li>He tried to climb the mountain. (Anh ấy đã cố gắng leo lên núi.)</li>
 
-            <li className="margin-bottom-20">He finished the report <strong>efficiently</strong> in just one hour. (Anh ấy đã hoàn thành báo cáo một cách hiệu quả chỉ trong một giờ.)</li>
+            <li className="margin-bottom-20">He <strong>successfully</strong> climbed the mountain. (Anh ấy đã leo lên núi một cách thành công.)</li>
 
           </ol>
 
       <div className="margin-bottom-20 padding-top-20 text-border1 padding-10 highlight-238-padding-4-8 bee-container">
 
-        <p className="margin-y-10">Sự khác biệt: Câu thứ hai <span className="highlight-255-padding-0-4">nhấn mạnh</span> rằng anh ấy không chỉ <span className="highlight-255-padding-0-4">hoàn thành</span> báo cáo mà còn làm điều đó <span className="highlight-255-padding-0-4">một cách nhanh chóng và hiệu quả</span>.</p>
+        <p className="margin-y-10">Sự khác biệt: Câu thứ hai <span className="highlight-255-padding-0-4">nhấn mạnh</span> rằng anh ấy <span className="highlight-255-padding-0-4">đã đạt được mục tiêu</span> của mình.</p>
 
       </div>
 
@@ -218,9 +218,9 @@ export default function Efficiently1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Tối ưu hóa: "<strong>Efficiently</strong>" nhấn mạnh việc tối ưu hóa các nguồn lực để đạt được mục tiêu.</li>
+          <li>Kết quả: "<strong>Successfully</strong>" luôn liên quan đến một kết quả tích cực.</li>
 
-          <li className="margin-bottom-20">Kết quả: Nó thường được liên kết với việc đạt được kết quả mong muốn với ít nỗ lực nhất.</li>
+          <li className="margin-bottom-20">Ngữ cảnh: Ý nghĩa của "<strong>successfully</strong>" có thể thay đổi tùy thuộc vào ngữ cảnh câu.</li>
 
         </ul>
 
@@ -231,7 +231,7 @@ export default function Efficiently1(): React.JSX.Element {
       <div className="viewcounter">
       
         <div className="post-date no-margin">
-          <span>November 3, 2024 · by 💎Gem ·</span>
+          <span>November 4, 2024 · by 💎Gem ·</span>
         </div>
 
         <div className="eye-icon no-margin">

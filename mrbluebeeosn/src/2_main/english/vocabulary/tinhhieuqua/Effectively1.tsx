@@ -104,7 +104,7 @@ export default function Effectively1(): React.JSX.Element {
           <li><Link to="/vocabulary/efficiently-1">Efficiently</Link>: Một cách hiệu quả (/ɪˈfɪʃəntli/)</li>
           <li className="margin-bottom-20 list-none">She works very efficiently. (Cô ấy làm việc rất hiệu quả.)</li>
 
-          <li>Successfully: Một cách thành công (/səkˈsesfəli/)</li>
+          <li><Link to="/vocabulary/successfully-1">Successfully</Link>: Một cách thành công (/səkˈsesfəli/)</li>
           <li className="list-none">He successfully completed the task. (Anh ấy đã hoàn thành nhiệm vụ một cách thành công.)</li>
 
         </ul>
