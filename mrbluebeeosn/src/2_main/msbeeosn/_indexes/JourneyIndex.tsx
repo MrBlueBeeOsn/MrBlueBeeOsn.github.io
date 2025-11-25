@@ -110,10 +110,10 @@ export default function JourneyIndex(): React.JSX.Element {
                 <td>Successfully add Video Search.</td>
             </tr>
 
-            <tr>
+            {/* <tr>
                 <td>20</td>
                 <td>Successfully add YouGlish Widget1.</td>
-            </tr>
+            </tr> */}
 
           </tbody>
         </table>
