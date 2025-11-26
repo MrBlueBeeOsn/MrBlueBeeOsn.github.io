@@ -38,6 +38,9 @@ const Posts = lazy(() => import('@/data/Posts'));
   // Mr.Bee Osn English Terms
   const SearchingAndClickableDictionary = lazy(() => import('@/2_main/english/mrbeeenglish/SearchingAndClickableDictionary'));
 
+  // Test Tailwind
+	const TestTailwind = lazy(() => import('@/components/test/TestTailwind'));
+
   // 1. English
   const EnglishIndex = lazy(() => import('@/2_main/english/_indexes/EnglishIndex'));
   const English = lazy(() => import('@/2_main/english/English'));
@@ -208,17 +211,17 @@ const Posts = lazy(() => import('@/data/Posts'));
   const Openly1 = lazy(() => import('@/2_main/english/vocabulary/tinhchanthanh/Openly1'));
   const Openly2 = lazy(() => import('@/2_main/english/vocabulary/tinhchanthanh/Openly2'));
 
-  // 16. Vocabulary - Điểm nhấn đặc biệt
+  // 17. Vocabulary - Điểm nhấn đặc biệt
   const Especially1 = lazy(() => import('@/2_main/english/vocabulary/diemnhandacbiet/Especially1'));
   const Especially2 = lazy(() => import('@/2_main/english/vocabulary/diemnhandacbiet/Especially2'));
   const Particularly1 = lazy(() => import('@/2_main/english/vocabulary/diemnhandacbiet/Particularly1'));
   const Particularly2 = lazy(() => import('@/2_main/english/vocabulary/diemnhandacbiet/Particularly2'));
 
-  // 17. Vocabulary - Về cơ bản
+  // 18. Vocabulary - Về cơ bản
   const Basically1 = lazy(() => import('@/2_main/english/vocabulary/vecoban/Basically1'));
   const Basically2 = lazy(() => import('@/2_main/english/vocabulary/vecoban/Basically2'));
 
-  // 18. Vocabulary - Tính hiệu quả
+  // 19. Vocabulary - Tính hiệu quả
   const Effectively1 = lazy(() => import('@/2_main/english/vocabulary/tinhhieuqua/Effectively1'));
   const Effectively2 = lazy(() => import('@/2_main/english/vocabulary/tinhhieuqua/Effectively2'));
   const Efficiently1 = lazy(() => import('@/2_main/english/vocabulary/tinhhieuqua/Efficiently1'));
@@ -228,8 +231,12 @@ const Posts = lazy(() => import('@/data/Posts'));
   const Productively1 = lazy(() => import('@/2_main/english/vocabulary/tinhhieuqua/Productively1'));
   const Productively2 = lazy(() => import('@/2_main/english/vocabulary/tinhhieuqua/Productively2'));
 
-// 3. Test Tailwind
-	const TestTailwind = lazy(() => import('@/components/test/TestTailwind'));
+  // 19. Vocabulary - Tốc độ nhanh
+  const Quickly1 = lazy(() => import('@/2_main/english/vocabulary/tocdonhanh/Quickly1'));
+  const Quickly2 = lazy(() => import('@/2_main/english/vocabulary/tocdonhanh/Quickly2'));
+  const Rapidly1 = lazy(() => import('@/2_main/english/vocabulary/tocdonhanh/Rapidly1'));
+  const Rapidly2 = lazy(() => import('@/2_main/english/vocabulary/tocdonhanh/Rapidly2'));
+
 
 
 // Xuất khẩu chức năng
@@ -273,6 +280,9 @@ export default function AppRoutes(): React.JSX.Element {
 
           {/* Mr.Bee Osn English Terms */}
           <Route path="/mrbeeenglish/searching-and-clickable-dictionary" element={<SearchingAndClickableDictionary />} />
+
+          {/* Test Tailwind */}
+					<Route path="/tailwindcss/test-tailwind" element={<TestTailwind />} />
           
           {/* 1. English */}
           <Route path="/english" element={<EnglishIndex />} />
@@ -464,8 +474,11 @@ export default function AppRoutes(): React.JSX.Element {
           <Route path="/vocabulary/productively-1" element={<Productively1 />} />
           <Route path="/vocabulary/productively-2" element={<Productively2 />} />
 
-          {/* 3. Test Tailwind */}
-					<Route path="/tailwindcss/test-tailwind" element={<TestTailwind />} />
+          {/* 20. Vocabulary - Tốc độ nhanh */}
+          <Route path="/vocabulary/quickly-1" element={<Quickly1 />} />
+          <Route path="/vocabulary/quickly-2" element={<Quickly2 />} />
+          <Route path="/vocabulary/rapidly-1" element={<Rapidly1 />} />
+          <Route path="/vocabulary/rapidly-2" element={<Rapidly2 />} />
 
       </Route>
 

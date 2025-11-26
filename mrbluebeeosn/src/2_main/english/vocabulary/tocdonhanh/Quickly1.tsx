@@ -5,9 +5,9 @@ import EyeIcon from '@/components/view/EyeIcon';
 import ViewCounter from '@/components/view/ViewCounter';
 import LikeButton from '@/components/like/LikeButton';
 
-export default function (): React.JSX.Element {
+export default function Quickly1(): React.JSX.Element {
 
-  const postId = "";
+  const postId = "Quickly1";
 
   return (<>
 
@@ -17,35 +17,35 @@ export default function (): React.JSX.Element {
     
       <h4><HashLink smooth to="/vocabulary#toc-do-nhanh-terms"><mark className="highlight-tertiary-padding-4-8">Tốc độ nhanh</mark></HashLink></h4>
       
-      <h1 className="margin-y-50 text-center">ly
-        <sup><Link to="/vocabulary/ly-1">&nbsp;1&nbsp;</Link>
+      <h1 className="margin-y-50 text-center">quickly
+        <sup><Link to="/vocabulary/quickly-1">&nbsp;1&nbsp;</Link>
         </sup>
-        <sup><Link to="/vocabulary/ly-2">&nbsp;2&nbsp;</Link>
+        <sup><Link to="/vocabulary/quickly-2">&nbsp;2&nbsp;</Link>
         </sup>
       </h1>
 
       {/* This is the content of Vocabulary Term. */}
       
-      <p>Tuyệt vời! </p>
+      <p>Tuyệt vời! Chúng ta cùng đi sâu vào từ "<strong>quickly</strong>" nhé.</p>
 
       <div className="text-border1 padding-top-20 padding-bottom-10 highlight-238-padding-4-8 bee-container">
 
         <div>
 
-          <p className="margin-bottom-20"><strong>ly</strong></p>
+          <p className="margin-bottom-20"><strong>Quickly</strong></p>
 
           <ul className="list-square padding-left-40">
 
             <li>
               <span className="highlight-255-padding-3-6">
-                /i/ + /<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">ly</Link>/
-                <sup>&nbsp;⬤</sup>
+                /ˈkwɪkli/ + /<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">quickly</Link>/
+                <sup>&nbsp;⬤• (2x)</sup>
               </span>
             </li>
 
             <li>Trạng từ (<Link to="/grammar/what-is-an-adverb?">adverb</Link>)</li>
 
-            <li>Tính </li>
+            <li>Một cách nhanh chóng</li>
 
           </ul>
 
@@ -57,15 +57,15 @@ export default function (): React.JSX.Element {
 
       </div>
 
-      <p className="margin-top-30 text-indent-whole">Từ "<strong>ly</strong>" </p>
+      <p className="margin-top-30 text-indent-whole">Từ "<strong>quickly</strong>" được dùng để mô tả một hành động được thực hiện trong một khoảng thời gian ngắn, nhanh chóng. Nó thể hiện sự gấp rút, tốc độ và sự hiệu quả trong việc hoàn thành một việc gì đó.</p>
 
       <p className="text-indent-whole">Ví dụ:</p>
 
         <ul className="list-square">
 
-          <li></li>
+          <li>She ran <strong>quickly</strong> to catch the bus. (Cô ấy chạy nhanh để bắt xe buýt.)</li>
 
-          <li></li>
+          <li>Please reply to the email as <strong>quickly</strong> as possible. (Vui lòng trả lời email càng sớm càng tốt.)</li>
 
         </ul>
 
@@ -81,14 +81,11 @@ export default function (): React.JSX.Element {
 
         <ul className="list-square">
 
-          {/* <li></li>
-          <li className="margin-bottom-20 list-none"></li> */}
+          <li>Quick (adj): Nhanh /kwɪk/</li>
+          <li className="margin-bottom-20 list-none">He is a quick learner. (Anh ấy là một người học nhanh.)</li>
 
-          {/* <li></li>
-          <li className="margin-bottom-20 list-none"></li> */}
-
-          <li></li>
-          <li className="list-none"></li>
+          <li>Quickness (n): Sự nhanh nhẹn /ˈkwɪknəs/</li>
+          <li className="list-none">His quickness impressed everyone. (Sự nhanh nhẹn của anh ấy đã gây ấn tượng với mọi người.)</li>
 
         </ul>
 
@@ -104,14 +101,11 @@ export default function (): React.JSX.Element {
 
         <ul className="list-square">
 
-          {/* <li></li>
-          <li className="margin-bottom-20 list-none"></li> */}
+          <li><Link to="/vocabulary/rapidly-1">Rapidly</Link>: Nhanh chóng /ˈræpɪdli/</li>
+          <li className="margin-bottom-20 list-none">The disease spread rapidly. (Bệnh lây lan rất nhanh.)</li>
 
-          <li></li>
-          <li className="margin-bottom-20 list-none"></li>
-
-          <li></li>
-          <li className="list-none"></li>
+          <li>Swiftly: Nhanh chóng /ˈswɪftli/</li>
+          <li className="list-none">The bird flew swiftly through the air. (Con chim bay nhanh qua không trung.)</li>
 
         </ul>
 
@@ -129,14 +123,11 @@ export default function (): React.JSX.Element {
 
         <ul className="list-square">
 
-          {/* <li></li>
-          <li className="margin-bottom-20 list-none"></li> */}
+          <li>Slowly: Chậm chạp /ˈsləʊli/</li>
+          <li className="margin-bottom-20 list-none">She walked slowly down the street. (Cô ấy đi bộ chậm rãi trên đường phố.)</li>
 
-          <li></li>
-          <li className="margin-bottom-20 list-none"></li>
-
-          <li></li>
-          <li className="list-none"></li>
+          <li>Gradually: Từ từ /ˈɡrædʒuəli/</li>
+          <li className="list-none">The plant grew gradually taller. (Cây lớn dần lên.)</li>
 
         </ul>
       
@@ -157,15 +148,12 @@ export default function (): React.JSX.Element {
         <strong>&nbsp;với hình ảnh</strong>:
       </p>
 
-      <p className="text-indent-whole"></p>
+      <p className="text-indent-whole">Hình dung một con thỏ đang chạy rất nhanh.</p>
 
         <ul className="list-square">
 
-          {/* <li></li>
-          <li className="margin-bottom-20 list-none"></li> */}
-
-          <li></li>
-          <li className="list-none"></li>
+          <li>The rabbit is running very <strong>quickly</strong>.</li>
+          <li className="list-none">(Con thỏ đang chạy rất nhanh.)</li>
 
         </ul>
 
@@ -180,15 +168,12 @@ export default function (): React.JSX.Element {
         <strong>&nbsp;ví dụ</strong>:
       </p>
 
-      <p className="text-indent-whole"></p>
+      <p className="text-indent-whole">Tạo các câu ví dụ khác nhau với từ "<strong>quickly</strong>" trong nhiều ngữ cảnh khác nhau.</p>
 
         <ul className="list-square">
 
-          {/* <li></li>
-          <li className="margin-bottom-20 list-none"></li> */}
-
-          <li></li>
-          <li className="list-none"></li>
+          <li>Please respond to my message <strong>quickly</strong>.</li>
+          <li className="list-none">(Vui lòng trả lời tin nhắn của tôi nhanh nhé.)</li>
 
         </ul>
 
@@ -203,33 +188,23 @@ export default function (): React.JSX.Element {
         <strong>&nbsp;thường xuyên</strong>:
       </p>
 
-      <p className="text-indent-whole"></p>
+      <p className="text-indent-whole">Thường xuyên sử dụng từ này trong các cuộc hội thoại và bài viết.</p>
 
         <p className="text-indent-whole">Ví dụ để so sánh (sự khác biệt):</p>
 
-          {/* <ol>
+          <ol>
 
-            <li></li>
-            <li className="list-none margin-bottom-20"></li>
+            <li>He finished the task. (Anh ấy đã hoàn thành công việc.)</li>
 
-            <li value="2"></li>
-            <li className="list-none margin-bottom-20"></li>
-
-          </ol> */}
-
-          {/* <ol>
-
-            <li></li>
-
-            <li className="margin-bottom-20"></li>
+            <li className="margin-bottom-20">He <strong>quickly</strong> finished the task. (Anh ấy đã hoàn thành công việc rất nhanh.)</li>
 
           </ol>
 
       <div className="margin-bottom-20 padding-top-20 text-border1 padding-10 highlight-238-padding-4-8 bee-container">
 
-        <p className="margin-y-10">Sự khác biệt: </p>
+        <p className="margin-y-10">Sự khác biệt: Câu thứ hai sử dụng "<strong>quickly</strong>" để <span className="highlight-255-padding-0-4">nhấn mạnh</span> rằng việc <span className="highlight-255-padding-0-4">hoàn thành</span> công việc diễn ra <span className="highlight-255-padding-0-4">trong một khoảng thời gian ngắn</span>.</p>
 
-      </div> */}
+      </div>
 
       {/* <span className="highlight-255-padding-0-4"></span> */}
 
@@ -243,9 +218,9 @@ export default function (): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li></li>
+          <li>Tốc độ: "<strong>Quickly</strong>" nhấn mạnh tốc độ và sự nhanh chóng của một hành động.</li>
 
-          <li className="margin-bottom-20"></li>
+          <li className="margin-bottom-20">Đối lập với chậm: Nó thường được dùng để đối lập với các trạng thái chậm chạp, từ từ.</li>
 
         </ul>
 
@@ -256,7 +231,7 @@ export default function (): React.JSX.Element {
       <div className="viewcounter">
       
         <div className="post-date no-margin">
-          <span> · by 💎Gem ·</span>
+          <span>November 4, 2024 · by 💎Gem ·</span>
         </div>
 
         <div className="eye-icon no-margin">
