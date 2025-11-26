@@ -45,7 +45,7 @@ export default function Clearly1(): React.JSX.Element {
 
             <li>Trạng từ (<Link to="/grammar/what-is-an-adverb?">adverb</Link>)</li>
 
-            <li>Tính rõ ràng, một cách rõ ràng</li>
+            <li>Rõ ràng, một cách rõ ràng</li>
 
           </ul>
 

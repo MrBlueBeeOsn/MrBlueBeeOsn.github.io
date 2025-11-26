@@ -45,7 +45,7 @@ export default function Again1(): React.JSX.Element {
 
             <li>Trạng từ (<Link to="/grammar/what-is-an-adverb?">adverb</Link>)</li>
 
-            <li>Tính lặp lại, một lần nữa</li>
+            <li>Lại, một lần nữa</li>
 
           </ul>
 

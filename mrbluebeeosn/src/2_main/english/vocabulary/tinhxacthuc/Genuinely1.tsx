@@ -45,7 +45,7 @@ export default function (): React.JSX.Element {
 
             <li>Trạng từ (<Link to="/grammar/what-is-an-adverb?">adverb</Link>)</li>
 
-            <li>Tính  chân thành, thật lòng</li>
+            <li>Một cách chân thành, thật lòng</li>
 
           </ul>
 

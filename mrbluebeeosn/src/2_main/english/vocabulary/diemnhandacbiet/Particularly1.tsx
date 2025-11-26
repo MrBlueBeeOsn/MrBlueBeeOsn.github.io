@@ -45,7 +45,7 @@ export default function Particularly1(): React.JSX.Element {
 
             <li>Trạng từ (<Link to="/grammar/what-is-an-adverb?">adverb</Link>)</li>
 
-            <li>Tính đặc biệt, nhất là</li>
+            <li>Đặc biệt, nhất là</li>
 
           </ul>
 

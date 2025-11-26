@@ -45,7 +45,7 @@ export default function Evidently1(): React.JSX.Element {
 
             <li>Trạng từ (<Link to="/grammar/what-is-an-adverb?">adverb</Link>)</li>
 
-            <li>Tính rõ ràng, hiển nhiên</li>
+            <li>Rõ ràng, hiển nhiên</li>
 
           </ul>
 

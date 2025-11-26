@@ -121,14 +121,14 @@ const Posts = lazy(() => import('@/data/Posts'));
   const Surely2 = lazy(() => import('@/2_main/english/vocabulary/tinhchacchan/Surely2'));
 
   // 8. Vocabulary - Tính lặp lại
-  const Again1 = lazy(() => import('@/2_main/english/vocabulary/tinhlaplai/Again1'));
-  const Again2 = lazy(() => import('@/2_main/english/vocabulary/tinhlaplai/Again2'));
-  const Often1 = lazy(() => import('@/2_main/english/vocabulary/tinhlaplai/Often1'));
-  const Often2 = lazy(() => import('@/2_main/english/vocabulary/tinhlaplai/Often2'));
-  const Repeatedly1 = lazy(() => import('@/2_main/english/vocabulary/tinhlaplai/Repeatedly1'));
-  const Repeatedly2 = lazy(() => import('@/2_main/english/vocabulary/tinhlaplai/Repeatedly2'));
-  const Frequently1 = lazy(() => import('@/2_main/english/vocabulary/tinhlaplai/Frequently1'));
-  const Frequently2 = lazy(() => import('@/2_main/english/vocabulary/tinhlaplai/Frequently2'));
+  const Again1 = lazy(() => import('@/2_main/english/vocabulary/thoigianlaplai/Again1'));
+  const Again2 = lazy(() => import('@/2_main/english/vocabulary/thoigianlaplai/Again2'));
+  const Often1 = lazy(() => import('@/2_main/english/vocabulary/thoigianlaplai/Often1'));
+  const Often2 = lazy(() => import('@/2_main/english/vocabulary/thoigianlaplai/Often2'));
+  const Repeatedly1 = lazy(() => import('@/2_main/english/vocabulary/thoigianlaplai/Repeatedly1'));
+  const Repeatedly2 = lazy(() => import('@/2_main/english/vocabulary/thoigianlaplai/Repeatedly2'));
+  const Frequently1 = lazy(() => import('@/2_main/english/vocabulary/thoigianlaplai/Frequently1'));
+  const Frequently2 = lazy(() => import('@/2_main/english/vocabulary/thoigianlaplai/Frequently2'));
 
   // 9. Vocabulary - Tính hiếm
   const Seldom1 = lazy(() => import('@/2_main/english/vocabulary/thoigianhiem/Seldom1'));

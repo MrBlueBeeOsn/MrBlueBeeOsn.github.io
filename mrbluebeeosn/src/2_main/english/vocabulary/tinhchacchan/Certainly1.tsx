@@ -45,7 +45,7 @@ export default function Certainly1(): React.JSX.Element {
 
             <li>Trạng từ (<Link to="/grammar/what-is-an-adverb?">adverb</Link>)</li>
 
-            <li>Tính chắc chắn, hoàn toàn</li>
+            <li>Chắc chắn, hoàn toàn</li>
 
           </ul>
 

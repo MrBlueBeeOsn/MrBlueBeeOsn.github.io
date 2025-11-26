@@ -45,7 +45,7 @@ export default function Accurately1(): React.JSX.Element {
 
             <li>Trạng từ (<Link to="/grammar/what-is-an-adverb?">adverb</Link>)</li>
 
-            <li>Tính  chính xác</li>
+            <li>Một cách chính xác</li>
 
           </ul>
 

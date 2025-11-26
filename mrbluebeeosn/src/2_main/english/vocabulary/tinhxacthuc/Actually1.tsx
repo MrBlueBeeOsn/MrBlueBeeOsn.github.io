@@ -45,7 +45,7 @@ export default function Actually1(): React.JSX.Element {
 
             <li>Trạng từ (<Link to="/grammar/what-is-an-adverb?">adverb</Link>)</li>
 
-            <li>Tính thực tế, thực ra</li>
+            <li>Thực tế, thực ra</li>
 
           </ul>
 

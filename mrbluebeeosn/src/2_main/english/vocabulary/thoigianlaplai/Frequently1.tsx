@@ -45,7 +45,7 @@ export default function Frequently1(): React.JSX.Element {
 
             <li>Trạng từ (<Link to="/grammar/what-is-an-adverb?">adverb</Link>)</li>
 
-            <li>Tính thường xuyên, liên tục</li>
+            <li>Thường xuyên, liên tục</li>
 
           </ul>
 

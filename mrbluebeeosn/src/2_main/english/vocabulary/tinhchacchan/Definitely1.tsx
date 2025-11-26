@@ -47,7 +47,7 @@ export default function Definitely1(): React.JSX.Element {
 
             <li>Trạng từ (<Link to="/grammar/what-is-an-adverb?">adverb</Link>)</li>
 
-            <li>Tính chắc chắn, dứt khoát</li>
+            <li>Chắc chắn, dứt khoát</li>
 
           </ul>
 
@@ -103,7 +103,7 @@ export default function Definitely1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Certainly: Chắc chắn /ˈsɜːrtnli/</li>
+          <li><Link to="/vocabulary/certainly-1">Certainly</Link>: Chắc chắn /ˈsɜːrtnli/</li>
           <li className="margin-bottom-20 list-none">Certainly, I can help you. (Chắc chắn rồi, tôi có thể giúp bạn.)</li>
 
           <li><Link to="/vocabulary/absolutely-1">Absolutely</Link>: Hoàn toàn /ˈæbsəluːtli/</li>

@@ -45,7 +45,7 @@ export default function Repeatedly1(): React.JSX.Element {
 
             <li>Trạng từ (<Link to="/grammar/what-is-an-adverb?">adverb</Link>)</li>
 
-            <li>Tính lặp đi lặp lại, nhiều lần</li>
+            <li>Một cách lặp đi lặp lại, nhiều lần</li>
 
           </ul>
 
