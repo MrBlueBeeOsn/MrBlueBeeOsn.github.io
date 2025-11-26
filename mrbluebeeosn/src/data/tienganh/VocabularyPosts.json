@@ -433,6 +433,24 @@
 			"date": "2024-11-07"
 		},
 		{ 
+			"id": "Usually1",
+			"categoryDisplay": "Thời gian lặp lại",
+			"categorySlug": "vocabulary#thoi-gian-lap-lai-terms",
+			"title": "usually 1",
+			"content": "Từ \"usually\" được dùng để mô tả một hành động, sự kiện hoặc tình huống xảy ra một cách thông thường, quen thuộc và có thể dự đoán được. Nó diễn tả tần suất của một việc gì đó.",
+			"slug": "vocabulary/usually-1",
+			"date": "2024-11-04"
+		},
+		{ 
+			"id": "Usually2",
+			"categoryDisplay": "Thời gian lặp lại",
+			"categorySlug": "vocabulary#thoi-gian-lap-lai-terms",
+			"title": "usually 2",
+			"content": "Usually /ˈjuːʒuəli/ ⬤•• (3x) trong tiếng Anh có nghĩa là \"thường xuyên\", \"thông thường\". Từ này được dùng để chỉ những việc xảy ra một cách đều đặn hoặc theo thói quen.",
+			"slug": "vocabulary/usually-2",
+			"date": "2024-11-04"
+		},
+		{ 
 			"id": "Sometimes1",
 			"categoryDisplay": "Thời gian hiếm",
 			"categorySlug": "vocabulary#thoi-gian-hiem-terms",
@@ -1151,6 +1169,42 @@
 			"content": "Rapidly /ˈræpɪdli/ ⬤•• (3x) thường được sử dụng để mô tả một quá trình, sự thay đổi hoặc sự phát triển diễn ra một cách nhanh chóng.",
 			"slug": "vocabulary/rapidly-2",
 			"date": "2024-12-05"
+		},
+		{ 
+			"id": "Instantly1",
+			"categoryDisplay": "Tốc độ nhanh",
+			"categorySlug": "vocabulary#toc-do-nhanh-terms",
+			"title": "instantly 1",
+			"content": "Từ \"instantly\" được dùng để miêu tả một hành động, sự việc xảy ra một cách rất nhanh, không có sự trì hoãn. Nó diễn tả sự tức thời, ngay lập tức.",
+			"slug": "vocabulary/instantly-1",
+			"date": "2024-11-23"
+		},
+		{ 
+			"id": "Instantly2",
+			"categoryDisplay": "Tốc độ nhanh",
+			"categorySlug": "vocabulary#toc-do-nhanh-terms",
+			"title": "instantly 2",
+			"content": "Instantly /ˈɪnstəntli/ ⬤•• (3x) trong tiếng Anh có nghĩa là \"ngay lập tức\", \"tức thì\", thường được dùng để mô tả một hành động hoặc sự kiện xảy ra rất nhanh, không có sự trì hoãn.",
+			"slug": "vocabulary/instantly-2",
+			"date": "2024-11-23"
+		},
+		{ 
+			"id": "Suddenly1",
+			"categoryDisplay": "Tốc độ nhanh",
+			"categorySlug": "vocabulary#toc-do-nhanh-terms",
+			"title": "suddenly 1",
+			"content": "Từ \"suddenly\" dùng để miêu tả một sự kiện hoặc hành động xảy ra một cách nhanh chóng, không báo trước và thường gây ngạc nhiên.",
+			"slug": "vocabulary/suddenly-1",
+			"date": "2024-11-08"
+		},
+		{ 
+			"id": "Suddenly2",
+			"categoryDisplay": "Tốc độ nhanh",
+			"categorySlug": "vocabulary#toc-do-nhanh-terms",
+			"title": "suddenly 2",
+			"content": "Suddenly /ˈsʌdənli/ ⬤•• (3x) trong tiếng Anh thường được sử dụng để mô tả một sự kiện hoặc thay đổi xảy ra một cách bất ngờ, không báo trước.",
+			"slug": "vocabulary/suddenly-2",
+			"date": "2024-11-08"
 		}
 	]
 }

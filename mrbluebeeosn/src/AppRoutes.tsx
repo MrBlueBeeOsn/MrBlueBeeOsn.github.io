@@ -132,6 +132,8 @@ const Posts = lazy(() => import('@/data/Posts'));
   const Repeatedly2 = lazy(() => import('@/2_main/english/vocabulary/thoigianlaplai/Repeatedly2'));
   const Frequently1 = lazy(() => import('@/2_main/english/vocabulary/thoigianlaplai/Frequently1'));
   const Frequently2 = lazy(() => import('@/2_main/english/vocabulary/thoigianlaplai/Frequently2'));
+  const Usually1 = lazy(() => import('@/2_main/english/vocabulary/thoigianlaplai/Usually1'));
+  const Usually2 = lazy(() => import('@/2_main/english/vocabulary/thoigianlaplai/Usually2'));
 
   // 9. Vocabulary - Tính hiếm
   const Seldom1 = lazy(() => import('@/2_main/english/vocabulary/thoigianhiem/Seldom1'));
@@ -236,7 +238,10 @@ const Posts = lazy(() => import('@/data/Posts'));
   const Quickly2 = lazy(() => import('@/2_main/english/vocabulary/tocdonhanh/Quickly2'));
   const Rapidly1 = lazy(() => import('@/2_main/english/vocabulary/tocdonhanh/Rapidly1'));
   const Rapidly2 = lazy(() => import('@/2_main/english/vocabulary/tocdonhanh/Rapidly2'));
-
+  const Instantly1 = lazy(() => import('@/2_main/english/vocabulary/tocdonhanh/Instantly1'));
+  const Instantly2 = lazy(() => import('@/2_main/english/vocabulary/tocdonhanh/Instantly2'));
+  const Suddenly1 = lazy(() => import('@/2_main/english/vocabulary/tocdonhanh/Suddenly1'));
+  const Suddenly2 = lazy(() => import('@/2_main/english/vocabulary/tocdonhanh/Suddenly2'));
 
 
 // Xuất khẩu chức năng
@@ -366,7 +371,7 @@ export default function AppRoutes(): React.JSX.Element {
           <Route path="/vocabulary/surely-1" element={<Surely1 />} />
           <Route path="/vocabulary/surely-2" element={<Surely2 />} />
 
-          {/* 8. Vocabulary - Tính lặp lại */}
+          {/* 8. Vocabulary - Thời gian lặp lại */}
           <Route path="/vocabulary/again-1" element={<Again1 />} />
           <Route path="/vocabulary/again-2" element={<Again2 />} />
           <Route path="/vocabulary/often-1" element={<Often1 />} />
@@ -375,6 +380,8 @@ export default function AppRoutes(): React.JSX.Element {
           <Route path="/vocabulary/repeatedly-2" element={<Repeatedly2 />} />
           <Route path="/vocabulary/frequently-1" element={<Frequently1 />} />
           <Route path="/vocabulary/frequently-2" element={<Frequently2 />} />
+          <Route path="/vocabulary/usually-1" element={<Usually1 />} />
+          <Route path="/vocabulary/usually-2" element={<Usually2 />} />
 
           {/* 9. Vocabulary - Tính hiếm */}
           <Route path="/vocabulary/seldom-1" element={<Seldom1 />} />
@@ -479,6 +486,10 @@ export default function AppRoutes(): React.JSX.Element {
           <Route path="/vocabulary/quickly-2" element={<Quickly2 />} />
           <Route path="/vocabulary/rapidly-1" element={<Rapidly1 />} />
           <Route path="/vocabulary/rapidly-2" element={<Rapidly2 />} />
+          <Route path="/vocabulary/instantly-1" element={<Instantly1 />} />
+          <Route path="/vocabulary/instantly-2" element={<Instantly2 />} />
+          <Route path="/vocabulary/suddenly-1" element={<Suddenly1 />} />
+          <Route path="/vocabulary/suddenly-2" element={<Suddenly2 />} />
 
       </Route>
 

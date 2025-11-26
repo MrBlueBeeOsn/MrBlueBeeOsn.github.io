@@ -322,6 +322,15 @@ export default function VocabularyIndex(): React.JSX.Element {
 								<sup>&nbsp;2&nbsp;</sup>
 							</Link>
 						</li>
+
+						<li>
+							<Link to="/vocabulary/usually-1">usually
+								<sup>&nbsp;1&nbsp;</sup>
+									</Link> 
+									<Link to="/vocabulary/usually-2">
+								<sup>&nbsp;2&nbsp;</sup>
+							</Link>
+						</li>
 						
 					</ul>
 
@@ -513,7 +522,23 @@ export default function VocabularyIndex(): React.JSX.Element {
 							</Link>
 						</li>
 
+						<li>
+							<Link to="/vocabulary/instantly-1">instantly
+								<sup>&nbsp;1&nbsp;</sup>
+									</Link> 
+									<Link to="/vocabulary/instantly-2">
+								<sup>&nbsp;2&nbsp;</sup>
+							</Link>
+						</li>
 						
+						<li>
+							<Link to="/vocabulary/suddenly-1">suddenly
+								<sup>&nbsp;1&nbsp;</sup>
+									</Link> 
+									<Link to="/vocabulary/suddenly-2">
+								<sup>&nbsp;2&nbsp;</sup>
+							</Link>
+						</li>
 						
 					</ul>
 

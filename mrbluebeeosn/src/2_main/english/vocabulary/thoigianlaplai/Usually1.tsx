@@ -5,9 +5,9 @@ import EyeIcon from '@/components/view/EyeIcon';
 import ViewCounter from '@/components/view/ViewCounter';
 import LikeButton from '@/components/like/LikeButton';
 
-export default function Repeatedly1(): React.JSX.Element {
+export default function Usually1(): React.JSX.Element {
 
-  const postId = "Repeatedly1";
+  const postId = "Usually1";
 
   return (<>
 
@@ -17,35 +17,35 @@ export default function Repeatedly1(): React.JSX.Element {
     
       <h4><HashLink smooth to="/vocabulary#thoi-gian-lap-lai-terms"><mark className="highlight-tertiary-padding-4-8">Thời gian lặp lại</mark></HashLink></h4>
       
-      <h1 className="margin-y-50 text-center">repeatedly
-        <sup><Link to="/vocabulary/repeatedly-1">&nbsp;1&nbsp;</Link>
+      <h1 className="margin-y-50 text-center">usually
+        <sup><Link to="/vocabulary/usually-1">&nbsp;1&nbsp;</Link>
         </sup>
-        <sup><Link to="/vocabulary/repeatedly-2">&nbsp;2&nbsp;</Link>
+        <sup><Link to="/vocabulary/usually-2">&nbsp;2&nbsp;</Link>
         </sup>
       </h1>
 
       {/* This is the content of Vocabulary Term. */}
       
-      <p>Tuyệt vời! Chúng ta cùng đi sâu vào từ "<strong>repeatedly</strong>" nhé.</p>
+      <p>Tuyệt vời! Chúng ta cùng khám phá từ "<strong>usually</strong>" nhé.</p>
 
       <div className="text-border1 padding-top-20 padding-bottom-10 highlight-238-padding-4-8 bee-container">
 
         <div>
 
-          <p className="margin-bottom-20"><strong>Repeatedly</strong></p>
+          <p className="margin-bottom-20"><strong>Usually</strong></p>
 
           <ul className="list-square padding-left-40">
 
             <li>
               <span className="highlight-255-padding-3-6">
-                /rɪˈpiːtɪdli/ + /<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">rėpēatėdly</Link>/
-                <sup>&nbsp;•⬤•• (4x)</sup>
+                /ˈjuːʒuəli/ + /<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">ūsua̛lly</Link>/
+                <sup>&nbsp;⬤•• (3x)</sup>
               </span>
             </li>
 
             <li>Trạng từ (<Link to="/grammar/what-is-an-adverb?">adverb</Link>)</li>
 
-            <li>Một cách lặp đi lặp lại, nhiều lần</li>
+            <li>Thường thường, thường xuyên</li>
 
           </ul>
 
@@ -57,15 +57,15 @@ export default function Repeatedly1(): React.JSX.Element {
 
       </div>
 
-      <p className="margin-top-30 text-indent-whole">Từ "<strong>repeatedly</strong>" dùng để mô tả một hành động được thực hiện nhiều lần, liên tục. Nó nhấn mạnh tính thường xuyên và sự lặp đi lặp lại của một sự việc.</p>
+      <p className="margin-top-30 text-indent-whole">Từ "<strong>usually</strong>" được dùng để mô tả một hành động, sự kiện hoặc tình huống xảy ra một cách thông thường, quen thuộc và có thể dự đoán được. Nó diễn tả tần suất của một việc gì đó.</p>
 
       <p className="text-indent-whole">Ví dụ:</p>
 
         <ul className="list-square">
 
-          <li>She <strong>repeatedly</strong> asked him the same question. (Cô ấy liên tục hỏi anh ta cùng một câu hỏi.)</li>
+          <li>I <strong>usually</strong> get up at 7 am. (Tôi thường thức dậy lúc 7 giờ sáng.)</li>
 
-          <li>The experiment was <strong>repeatedly</strong> conducted to verify the results. (Thí nghiệm được thực hiện lặp đi lặp lại để xác minh kết quả.)</li>
+          <li>We <strong>usually</strong> go to the movies on weekends. (Chúng tôi thường đi xem phim vào cuối tuần.)</li>
 
         </ul>
 
@@ -81,14 +81,11 @@ export default function Repeatedly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Repeat (v): Lặp lại /rɪˈpiːt/</li>
-          <li className="margin-bottom-20 list-none">Please repeat that. (Làm ơn lặp lại điều đó.)</li>
+          <li>Usual (adj): Thông thường /ˈjuːʒuəl/</li>
+          <li className="margin-bottom-20 list-none">This is my usual routine. (Đây là thói quen thường ngày của tôi.)</li>
 
-          <li>Repetition (n): Sự lặp lại /ˌrepəˈtɪʃn/</li>
-          <li className="margin-bottom-20 list-none">The repetition of the same mistake is unacceptable. (Việc lặp lại cùng một sai lầm là không thể chấp nhận được.)</li>
-
-          <li>Repeated (adj): Được lặp lại /rɪˈpiːtɪd/</li>
-          <li className="list-none">The repeated failures discouraged him. (Những thất bại liên tiếp làm anh ta nản lòng.)</li>
+          <li>Use (v): Sử dụng /juːz/</li>
+          <li className="list-none">I use this pen every day. (Tôi dùng cây bút này mỗi ngày.)</li>
 
         </ul>
 
@@ -104,11 +101,11 @@ export default function Repeatedly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li><Link to="/vocabulary/again-1">Again</Link> and again: Lại và lại /əˈɡen ænd əˈɡen/</li>
-          <li className="margin-bottom-20 list-none">He tried again and again. (Anh ấy đã thử lại nhiều lần.)</li>
+          <li>Typically: Điển hình /ˈtɪpɪkli/</li>
+          <li className="margin-bottom-20 list-none">Typically, I eat breakfast at 8 am. (Điển hình là, tôi ăn sáng lúc 8 giờ.)</li>
 
-          <li>Over and over: Lặp đi lặp lại /ˈoʊvər ænd ˈoʊvər/</li>
-          <li className="list-none">She said it over and over. (Cô ấy nói đi nói lại điều đó.)</li>
+          <li>Normally: Bình thường /ˈnɔːrməli/</li>
+          <li className="list-none">Normally, I go to bed at 10 pm. (Bình thường, tôi đi ngủ lúc 10 giờ tối.)</li>
 
         </ul>
 
@@ -126,11 +123,11 @@ export default function Repeatedly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Once: Một lần /wʌns/</li>
-          <li className="margin-bottom-20 list-none">I've only done it once. (Tôi chỉ làm điều đó một lần.)</li>
-
           <li><Link to="/vocabulary/rarely-1">Rarely</Link>: Hiếm khi /ˈreərli/</li>
-          <li className="list-none">He rarely visits us. (Anh ấy hiếm khi đến thăm chúng tôi.)</li>
+          <li className="margin-bottom-20 list-none">I rarely eat spicy food. (Tôi hiếm khi ăn đồ ăn cay.)</li>
+
+          <li><Link to="/vocabulary/never-1">Never</Link>: Không bao giờ /ˈnevər/</li>
+          <li className="list-none">I never drink coffee. (Tôi không bao giờ uống cà phê.)</li>
 
         </ul>
       
@@ -151,12 +148,12 @@ export default function Repeatedly1(): React.JSX.Element {
         <strong>&nbsp;với hình ảnh</strong>:
       </p>
 
-      <p className="text-indent-whole">Hình dung một chiếc đồng hồ đang tích tắc hoặc một người đang tập luyện một bài thể dục nhiều lần.</p>
+      <p className="text-indent-whole">Hình dung một lịch trình hàng ngày, trong đó các hoạt động thường xuyên được đánh dấu.</p>
 
         <ul className="list-square">
 
-          <li>The clock is ticking steadily and <strong>repeatedly</strong>.</li>
-          <li className="list-none">(Chiếc đồng hồ đang tích tắc đều đặn và liên tục.)</li>
+          <li>I <strong>usually</strong> go for a run after breakfast, as marked on my schedule.</li>
+          <li className="list-none">(Tôi thường đi chạy bộ sau bữa sáng, như đã đánh dấu trên lịch trình của tôi.)</li>
 
         </ul>
 
@@ -171,12 +168,12 @@ export default function Repeatedly1(): React.JSX.Element {
         <strong>&nbsp;ví dụ</strong>:
       </p>
 
-      <p className="text-indent-whole">Tạo các câu liên quan đến các hoạt động hàng ngày hoặc các thói quen.</p>
+      <p className="text-indent-whole">Tự tạo các câu ví dụ khác nhau với từ "<strong>usually</strong>" để mô tả thói quen hàng ngày của bạn.</p>
 
         <ul className="list-square">
 
-          <li>She <strong>repeatedly</strong> checked her phone.</li>
-          <li className="list-none">(Cô ấy liên tục kiểm tra điện thoại của mình.)</li>
+          <li>I <strong>usually</strong> have coffee and toast for breakfast.</li>
+          <li className="list-none">(Tôi thường ăn sáng bằng cà phê và bánh mì nướng.)</li>
 
         </ul>
 
@@ -191,35 +188,21 @@ export default function Repeatedly1(): React.JSX.Element {
         <strong>&nbsp;thường xuyên</strong>:
       </p>
 
-      <p className="text-indent-whole">Thường xuyên sử dụng từ này trong các bài viết hoặc cuộc trò chuyện.
-
-</p>
+      <p className="text-indent-whole">Thường xuyên sử dụng từ này trong các cuộc hội thoại và bài viết.</p>
 
         <p className="text-indent-whole">Ví dụ để so sánh (sự khác biệt):</p>
 
-          {/* <ol>
-
-            <li></li>
-
-            <li className="list-none margin-bottom-20"></li>
-
-            <li value="2"></li>
-
-            <li className="list-none margin-bottom-20"></li>
-
-          </ol> */}
-
           <ol>
 
-            <li>He made a mistake. (Anh ấy mắc một lỗi.)</li>
+            <li>I go to the gym. (Tôi đi đến phòng tập thể dục.)</li>
 
-            <li className="margin-bottom-20">He <strong>repeatedly</strong> made the same mistake. (Anh ấy liên tục mắc cùng một lỗi.)</li>
+            <li className="margin-bottom-20">I <strong>usually</strong> go to the gym on Tuesdays and Thursdays. (Tôi thường đi đến phòng tập thể dục vào thứ Ba và thứ Năm.)</li>
 
           </ol>
 
       <div className="margin-bottom-20 padding-top-20 text-border1 padding-10 highlight-238-padding-4-8 bee-container">
 
-        <p className="margin-y-10">Sự khác biệt: Câu thứ hai <span className="highlight-255-padding-0-4">nhấn mạnh rằng</span> anh ấy <span className="highlight-255-padding-0-4">đã mắc lỗi nhiều lần</span>, cho thấy một sự thiếu cẩn trọng hoặc không rút ra được bài học.</p>
+        <p className="margin-y-10">Sự khác biệt: Câu thứ hai sử dụng "<strong>usually</strong>" để chỉ ra rằng <span className="highlight-255-padding-0-4">việc đi</span> đến phòng tập thể dục <span className="highlight-255-padding-0-4">là một phần của thói quen hàng ngày</span> của người nói, và không phải là một sự kiện ngẫu nhiên.</p>
 
       </div>
 
@@ -235,9 +218,9 @@ export default function Repeatedly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Tần suất: Nhấn mạnh đến việc thực hiện một hành động nhiều lần.</li>
+          <li>Tần suất: "<strong>Usually</strong>" nhấn mạnh tính thường xuyên của một hành động hoặc sự kiện.</li>
 
-          <li className="margin-bottom-20">Sự kiên trì: Có thể ngụ ý sự kiên trì hoặc cố gắng không ngừng.</li>
+          <li className="margin-bottom-20">Không phải luôn luôn: Nó không có nghĩa là một việc gì đó xảy ra 100% thời gian, mà chỉ đơn giản là thường xuyên xảy ra.</li>
 
         </ul>
 
@@ -248,7 +231,7 @@ export default function Repeatedly1(): React.JSX.Element {
       <div className="viewcounter">
       
         <div className="post-date no-margin">
-          <span>November 7, 2024 · by 💎Gem ·</span>
+          <span> · by 💎Gem ·</span>
         </div>
 
         <div className="eye-icon no-margin">

@@ -5,9 +5,9 @@ import EyeIcon from '@/components/view/EyeIcon';
 import ViewCounter from '@/components/view/ViewCounter';
 import LikeButton from '@/components/like/LikeButton';
 
-export default function Again1(): React.JSX.Element {
+export default function Suddenly1(): React.JSX.Element {
 
-  const postId = "Again1";
+  const postId = "Suddenly1";
 
   return (<>
 
@@ -15,37 +15,37 @@ export default function Again1(): React.JSX.Element {
 
     <article>
     
-      <h4><HashLink smooth to="/vocabulary#thoi-gian-lap-lai-terms"><mark className="highlight-tertiary-padding-4-8">Thời gian lặp lại</mark></HashLink></h4>
+      <h4><HashLink smooth to="/vocabulary#toc-do-nhanh-terms"><mark className="highlight-tertiary-padding-4-8">Tốc độ nhanh</mark></HashLink></h4>
       
-      <h1 className="margin-y-50 text-center">again
-        <sup><Link to="/vocabulary/again-1">&nbsp;1&nbsp;</Link>
+      <h1 className="margin-y-50 text-center">suddenly
+        <sup><Link to="/vocabulary/suddenly-1">&nbsp;1&nbsp;</Link>
         </sup>
-        <sup><Link to="/vocabulary/again-2">&nbsp;2&nbsp;</Link>
+        <sup><Link to="/vocabulary/suddenly-2">&nbsp;2&nbsp;</Link>
         </sup>
       </h1>
 
       {/* This is the content of Vocabulary Term. */}
       
-      <p>Tuyệt vời! Chúng ta cùng đi sâu vào phân tích từ "<strong>again</strong>" nhé.</p>
+      <p>Tuyệt vời! Chúng ta cùng khám phá từ "<strong>suddenly</strong>" nhé.</p>
 
       <div className="text-border1 padding-top-20 padding-bottom-10 highlight-238-padding-4-8 bee-container">
 
         <div>
 
-          <p className="margin-bottom-20"><strong>Again</strong></p>
+          <p className="margin-bottom-20"><strong>Suddenly</strong></p>
 
           <ul className="list-square padding-left-40">
 
             <li>
               <span className="highlight-255-padding-3-6">
-                /əˈɡen/ + /<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">a̛gā̄in</Link>/
-                <sup>&nbsp;•⬤ (2x)</sup>
+                /ˈsʌdənli/ + /<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">sûdde̛nly</Link>/
+                <sup>&nbsp;⬤•• (3x)</sup>
               </span>
             </li>
 
             <li>Trạng từ (<Link to="/grammar/what-is-an-adverb?">adverb</Link>)</li>
 
-            <li>Lại, một lần nữa</li>
+            <li>Đột ngột, bất ngờ</li>
 
           </ul>
 
@@ -57,15 +57,15 @@ export default function Again1(): React.JSX.Element {
 
       </div>
 
-      <p className="margin-top-30 text-indent-whole">Chỉ việc lặp lại một hành động, sự việc hoặc trạng thái.</p>
+      <p className="margin-top-30 text-indent-whole">Từ "<strong>suddenly</strong>" dùng để miêu tả một sự kiện hoặc hành động xảy ra một cách nhanh chóng, không báo trước và thường gây ngạc nhiên.</p>
 
       <p className="text-indent-whole">Ví dụ:</p>
 
         <ul className="list-square">
 
-          <li>Can you say that <strong>again</strong>? (Bạn có thể nói lại điều đó được không?)</li>
+          <li><strong>Suddenly</strong>, the lights went out. (Đột nhiên, đèn tắt.)</li>
 
-          <li>I've seen this movie before, but I want to watch it <strong>again</strong>. (Tôi đã xem bộ phim này rồi, nhưng tôi muốn xem lại.)</li>
+          <li>She <strong>suddenly</strong> realized she had left her phone at home. (Cô ấy đột nhiên nhận ra mình đã để quên điện thoại ở nhà.)</li>
 
         </ul>
 
@@ -81,8 +81,11 @@ export default function Again1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li><strong>Again</strong> and <strong>again</strong>: Lặp đi lặp lại /əˈɡen ænd əˈɡen/ - cụm trạng từ</li>
-          <li className="list-none">He kept asking the same question <strong>again</strong> and <strong>again</strong>. (Anh ấy cứ hỏi đi hỏi lại cùng một câu hỏi.)</li>
+          <li>Sudden (adj): Đột ngột /ˈsʌdən/</li>
+          <li className="margin-bottom-20 list-none">A sudden storm caused the power outage. (Một cơn bão đột ngột đã gây ra mất điện.)</li>
+
+          <li>Suddenness (n): Sự đột ngột /ˈsʌdən.nəs/</li>
+          <li className="list-none">The suddenness of the accident shocked everyone. (Sự đột ngột của tai nạn khiến mọi người sốc.)</li>
 
         </ul>
 
@@ -98,11 +101,11 @@ export default function Again1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Once more: Một lần nữa /wʌns mɔːr/</li>
-          <li className="margin-bottom-20 list-none">Let's try once more. (Chúng ta hãy thử thêm một lần nữa.)</li>
+          <li>Abruptly: Đột ngột, bất ngờ /əˈbrʌpt.li/</li>
+          <li className="margin-bottom-20 list-none">The music stopped abruptly. (Âm nhạc dừng lại đột ngột.)</li>
 
-          <li><Link to="/vocabulary/repeatedly-1">Repeatedly</Link>: Lặp đi lặp lại /rɪˈpiː.tɪd.li/</li>
-          <li className="list-none">He repeatedly made the same mistake. (Anh ấy liên tục mắc cùng một lỗi lầm.)</li>
+          <li>Unexpectedly: Bất ngờ /ʌn.ɪkˈspekt.ɪd.li/</li>
+          <li className="list-none">I unexpectedly ran into an old friend. (Tôi tình cờ gặp lại một người bạn cũ.)</li>
 
         </ul>
 
@@ -120,11 +123,11 @@ export default function Again1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Once: Một lần /wʌns/ (chỉ xảy ra một lần, ngược lại với nhiều lần)</li>
-          <li className="margin-bottom-20 list-none">I've only done it once. (Tôi mới chỉ làm điều đó một lần.)</li>
+          <li>Gradually: Dần dần /ˈɡrædʒ.u.ə.li/</li>
+          <li className="margin-bottom-20 list-none">The plant grew gradually taller. (Cây dần dần cao lên.)</li>
 
-          <li>For the first time: Lần đầu tiên /fɔːr ðə fɜːst taɪm/</li>
-          <li className="list-none">I'm seeing this movie for the first time. (Tôi đang xem bộ phim này lần đầu tiên.)</li>
+          <li>Expectedly: Dự kiến /ɪkˈspekt.ɪd.li/</li>
+          <li className="list-none">As expected, it started to rain. (Như dự kiến, trời bắt đầu mưa.)</li>
 
         </ul>
       
@@ -145,12 +148,12 @@ export default function Again1(): React.JSX.Element {
         <strong>&nbsp;với hình ảnh</strong>:
       </p>
 
-      <p className="text-indent-whole">Hãy tưởng tượng một chiếc đồng hồ quay trở lại vị trí ban đầu.</p>
+      <p className="text-indent-whole">Hình dung một quả bóng rơi đột ngột từ trên cao xuống.</p>
 
         <ul className="list-square">
 
-          <li>The clock stopped working, but now it's started <strong>again</strong>.</li>
-          <li className="list-none">(Chiếc đồng hồ đã ngừng hoạt động, nhưng bây giờ nó đã bắt đầu lại.)</li>
+          <li>The ball <strong>suddenly</strong> fell from the sky.</li>
+          <li className="list-none">(Quả bóng đột ngột rơi từ trên trời xuống.)</li>
 
         </ul>
 
@@ -165,12 +168,12 @@ export default function Again1(): React.JSX.Element {
         <strong>&nbsp;ví dụ</strong>:
       </p>
 
-      <p className="text-indent-whole">Thử tạo càng nhiều câu ví dụ càng tốt với "<strong>again</strong>" trong các ngữ cảnh khác nhau.</p>
+      <p className="text-indent-whole">Tạo các câu liên quan đến những sự kiện bất ngờ trong cuộc sống hàng ngày.</p>
 
         <ul className="list-square">
 
-          <li>The price of gas is going up <strong>again</strong>.</li>
-          <li className="list-none">(Giá xăng lại tăng lên rồi.)</li>
+          <li>While I was walking, I <strong>suddenly</strong> heard a loud noise.</li>
+          <li className="list-none">(Khi tôi đang đi, đột nhiên tôi nghe thấy một tiếng động lớn.)</li>
 
         </ul>
 
@@ -185,19 +188,23 @@ export default function Again1(): React.JSX.Element {
         <strong>&nbsp;thường xuyên</strong>:
       </p>
 
-      <p className="text-indent-whole">Đọc và viết nhiều để củng cố vốn từ vựng và cách sử dụng của "<strong>again</strong>".</p>
+      <p className="text-indent-whole">Thường xuyên sử dụng từ này trong các cuộc trò chuyện hoặc bài viết.</p>
 
-        <p className="text-indent-whole">Ví dụ để so sánh (sự khác biệt giữa once more và <strong>again</strong>):</p>
+        <p className="text-indent-whole">Ví dụ để so sánh (sự khác biệt):</p>
 
           <ol>
 
-            <li>Once more: Thường được dùng để nhấn mạnh sự lặp lại cuối cùng hoặc một nỗ lực cuối cùng.</li>
-            <li className="list-none margin-bottom-20">Let's try once more. (Chúng ta hãy thử thêm một lần nữa.)</li>
+            <li>The train arrived. (Tàu đến.)</li>
 
-            <li value="2"><strong>Again</strong>: <span className="highlight-255-padding-0-4">Thường được dùng trong các tình huống thông thường</span>.</li>
-            <li className="list-none margin-bottom-20">Please repeat that <strong>again</strong>. (Làm ơn lặp lại điều đó.)</li>
+            <li className="margin-bottom-20">The train <strong>suddenly</strong> arrived. (Tàu đột ngột đến.)</li>
 
           </ol>
+
+      <div className="margin-bottom-20 padding-top-20 text-border1 padding-10 highlight-238-padding-4-8 bee-container">
+
+        <p className="margin-y-10">Sự khác biệt: Câu thứ hai <span className="highlight-255-padding-0-4">nhấn mạnh</span> rằng việc tàu <span className="highlight-255-padding-0-4">đến là một sự kiện bất ngờ</span>, không theo lịch trình.</p>
+
+      </div>
 
       {/* <span className="highlight-255-padding-0-4"></span> */}
 
@@ -211,9 +218,9 @@ export default function Again1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>"<strong>Again</strong>" thường đứng sau động từ.</li>
+          <li>Tính chất bất ngờ: "<strong>Suddenly</strong>" nhấn mạnh tính chất bất ngờ, không thể dự đoán trước của một sự kiện.</li>
 
-          <li className="margin-bottom-20">"<strong>Again</strong>" có thể được dùng để nhấn mạnh một ý tưởng hoặc cảm xúc.</li>
+          <li className="margin-bottom-20">Tạo cảm giác hồi hộp: Từ này thường được sử dụng trong các câu chuyện để tạo ra cảm giác hồi hộp, bất ngờ cho người đọc hoặc người nghe.</li>
 
         </ul>
 
@@ -224,7 +231,7 @@ export default function Again1(): React.JSX.Element {
       <div className="viewcounter">
       
         <div className="post-date no-margin">
-          <span>November 14, 2024 · by 💎Gem ·</span>
+          <span>November 8, 2024 · by 💎Gem ·</span>
         </div>
 
         <div className="eye-icon no-margin">
