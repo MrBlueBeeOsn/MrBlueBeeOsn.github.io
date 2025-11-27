@@ -233,7 +233,7 @@ const Posts = lazy(() => import('@/data/Posts'));
   const Productively1 = lazy(() => import('@/2_main/english/vocabulary/tinhhieuqua/Productively1'));
   const Productively2 = lazy(() => import('@/2_main/english/vocabulary/tinhhieuqua/Productively2'));
 
-  // 19. Vocabulary - Tốc độ nhanh
+  // 20. Vocabulary - Tốc độ nhanh
   const Quickly1 = lazy(() => import('@/2_main/english/vocabulary/tocdonhanh/Quickly1'));
   const Quickly2 = lazy(() => import('@/2_main/english/vocabulary/tocdonhanh/Quickly2'));
   const Rapidly1 = lazy(() => import('@/2_main/english/vocabulary/tocdonhanh/Rapidly1'));
@@ -242,6 +242,12 @@ const Posts = lazy(() => import('@/data/Posts'));
   const Instantly2 = lazy(() => import('@/2_main/english/vocabulary/tocdonhanh/Instantly2'));
   const Suddenly1 = lazy(() => import('@/2_main/english/vocabulary/tocdonhanh/Suddenly1'));
   const Suddenly2 = lazy(() => import('@/2_main/english/vocabulary/tocdonhanh/Suddenly2'));
+
+  // 20. Vocabulary - Tốc độ nhanh
+  const Patiently1 = lazy(() => import('@/2_main/english/vocabulary/tinhkiennhan/Patiently1'));
+  const Patiently2 = lazy(() => import('@/2_main/english/vocabulary/tinhkiennhan/Patiently2'));
+  const Tirelessly1 = lazy(() => import('@/2_main/english/vocabulary/tinhkiennhan/Tirelessly1'));
+  const Tirelessly2 = lazy(() => import('@/2_main/english/vocabulary/tinhkiennhan/Tirelessly2'));
 
 
 // Xuất khẩu chức năng
@@ -490,6 +496,12 @@ export default function AppRoutes(): React.JSX.Element {
           <Route path="/vocabulary/instantly-2" element={<Instantly2 />} />
           <Route path="/vocabulary/suddenly-1" element={<Suddenly1 />} />
           <Route path="/vocabulary/suddenly-2" element={<Suddenly2 />} />
+
+          {/* 21. Vocabulary - Tính kiên nhẫn */}
+          <Route path="/vocabulary/patiently-1" element={<Patiently1 />} />
+          <Route path="/vocabulary/patiently-2" element={<Patiently2 />} />
+          <Route path="/vocabulary/tirelessly-1" element={<Tirelessly1 />} />
+          <Route path="/vocabulary/tirelessly-2" element={<Tirelessly2 />} />
 
       </Route>
 

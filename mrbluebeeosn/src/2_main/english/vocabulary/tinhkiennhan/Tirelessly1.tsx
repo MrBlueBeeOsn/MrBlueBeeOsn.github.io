@@ -5,9 +5,9 @@ import EyeIcon from '@/components/view/EyeIcon';
 import ViewCounter from '@/components/view/ViewCounter';
 import LikeButton from '@/components/like/LikeButton';
 
-export default function (): React.JSX.Element {
+export default function Tirelessly1(): React.JSX.Element {
 
-  const postId = "";
+  const postId = "Tirelessly1";
 
   return (<>
 
@@ -17,35 +17,35 @@ export default function (): React.JSX.Element {
     
       <h4><HashLink smooth to="/vocabulary#tinh-kien-nhan-terms"><mark className="highlight-tertiary-padding-4-8">Tính kiên nhẫn</mark></HashLink></h4>
       
-      <h1 className="margin-y-50 text-center">ly
-        <sup><Link to="/vocabulary/ly-1">&nbsp;1&nbsp;</Link>
+      <h1 className="margin-y-50 text-center">tirelessly
+        <sup><Link to="/vocabulary/tirelessly-1">&nbsp;1&nbsp;</Link>
         </sup>
-        <sup><Link to="/vocabulary/ly-2">&nbsp;2&nbsp;</Link>
+        <sup><Link to="/vocabulary/tirelessly-2">&nbsp;2&nbsp;</Link>
         </sup>
       </h1>
 
       {/* This is the content of Vocabulary Term. */}
       
-      <p>Tuyệt vời! </p>
+      <p>Tuyệt vời! Chúng ta cùng khám phá từ "<strong>tirelessly</strong>" nhé.</p>
 
       <div className="text-border1 padding-top-20 padding-bottom-10 highlight-238-padding-4-8 bee-container">
 
         <div>
 
-          <p className="margin-bottom-20"><strong>ly</strong></p>
+          <p className="margin-bottom-20"><strong>Tirelessly</strong></p>
 
           <ul className="list-square padding-left-40">
 
             <li>
               <span className="highlight-255-padding-3-6">
-                /i/ + /<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">ly</Link>/
-                <sup>&nbsp;⬤</sup>
+                /ˈtaɪrləsli/ + /<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">tīrele̛ssly</Link>/
+                <sup>&nbsp;⬤•• (3x)</sup>
               </span>
             </li>
 
             <li>Trạng từ (<Link to="/grammar/what-is-an-adverb?">adverb</Link>)</li>
 
-            <li>Tính </li>
+            <li>Một cách không biết mệt mỏi, kiên trì</li>
 
           </ul>
 
@@ -57,15 +57,15 @@ export default function (): React.JSX.Element {
 
       </div>
 
-      <p className="margin-top-30 text-indent-whole">Từ "<strong>ly</strong>" </p>
+      <p className="margin-top-30 text-indent-whole">Từ "<strong>tirelessly</strong>" được dùng để miêu tả một hành động được thực hiện một cách liên tục, không ngừng nghỉ, dù phải đối mặt với khó khăn. Nó thể hiện sự kiên trì, quyết tâm cao độ của người thực hiện.</p>
 
       <p className="text-indent-whole">Ví dụ:</p>
 
         <ul className="list-square">
 
-          <li></li>
+          <li>She worked <strong>irelessly</strong> to finish the project on time. (Cô ấy làm việc không biết mệt mỏi để hoàn thành dự án đúng hạn.)</li>
 
-          <li></li>
+          <li>The athletes trained <strong>tirelessly</strong> for the competition. (Các vận động viên tập luyện không ngừng nghỉ cho cuộc thi.)</li>
 
         </ul>
 
@@ -81,14 +81,11 @@ export default function (): React.JSX.Element {
 
         <ul className="list-square">
 
-          {/* <li></li>
-          <li className="margin-bottom-20 list-none"></li> */}
+          <li>Tire (v): Làm mệt mỏi /taɪər/</li>
+          <li className="margin-bottom-20 list-none">The long walk tired me out. (Cái đi bộ dài làm tôi mệt mỏi.)</li>
 
-          {/* <li></li>
-          <li className="margin-bottom-20 list-none"></li> */}
-
-          <li></li>
-          <li className="list-none"></li>
+          <li>Tired (adj): Mệt mỏi /taɪərd/</li>
+          <li className="list-none">I'm too tired to go out tonight. (Tôi quá mệt để đi ra ngoài tối nay.)</li>
 
         </ul>
 
@@ -104,14 +101,11 @@ export default function (): React.JSX.Element {
 
         <ul className="list-square">
 
-          {/* <li></li>
-          <li className="margin-bottom-20 list-none"></li> */}
+          <li>Incessantly: Không ngừng /ɪnˈsesəntli/</li>
+          <li className="margin-bottom-20 list-none">The rain fell incessantly. (Mưa rơi không ngừng.)</li>
 
-          <li></li>
-          <li className="margin-bottom-20 list-none"></li>
-
-          <li></li>
-          <li className="list-none"></li>
+          <li>Relentlessly: Không ngừng nghỉ /rɪˈlentləsli/</li>
+          <li className="list-none">She pursued her goal relentlessly. (Cô ấy theo đuổi mục tiêu của mình một cách không ngừng nghỉ.)</li>
 
         </ul>
 
@@ -129,14 +123,11 @@ export default function (): React.JSX.Element {
 
         <ul className="list-square">
 
-          {/* <li></li>
-          <li className="margin-bottom-20 list-none"></li> */}
+          <li>Lazily: Một cách lười biếng /ˈleɪzɪli/</li>
+          <li className="margin-bottom-20 list-none">He lazily sat on the couch. (Anh ta lười biếng ngồi trên ghế sofa.)</li>
 
-          <li></li>
-          <li className="margin-bottom-20 list-none"></li>
-
-          <li></li>
-          <li className="list-none"></li>
+          <li>Casually: Một cách tình cờ /ˈkæʒuəli/</li>
+          <li className="list-none">She casually mentioned her trip. (Cô ấy tình cờ đề cập đến chuyến đi của mình.)</li>
 
         </ul>
       
@@ -157,15 +148,12 @@ export default function (): React.JSX.Element {
         <strong>&nbsp;với hình ảnh</strong>:
       </p>
 
-      <p className="text-indent-whole"></p>
+      <p className="text-indent-whole">Hình dung một người đang chạy marathon, không ngừng nghỉ.</p>
 
         <ul className="list-square">
 
-          {/* <li></li>
-          <li className="margin-bottom-20 list-none"></li> */}
-
-          <li></li>
-          <li className="list-none"></li>
+          <li>He is <strong>tirelessly</strong> running the marathon, showing incredible endurance.</li>
+          <li className="list-none">(Anh ấy đang chạy marathon không ngừng nghỉ, thể hiện sức bền đáng kinh ngạc.)</li>
 
         </ul>
 
@@ -180,15 +168,12 @@ export default function (): React.JSX.Element {
         <strong>&nbsp;ví dụ</strong>:
       </p>
 
-      <p className="text-indent-whole"></p>
+      <p className="text-indent-whole">Tự tạo các câu ví dụ khác nhau với từ "<strong>tirelessly</strong>" trong nhiều ngữ cảnh khác nhau.</p>
 
         <ul className="list-square">
 
-          {/* <li></li>
-          <li className="margin-bottom-20 list-none"></li> */}
-
-          <li></li>
-          <li className="list-none"></li>
+          <li>The scientists worked <strong>tirelessly</strong> to find a cure for the disease.</li>
+          <li className="list-none">(Các nhà khoa học đã làm việc không mệt mỏi để tìm ra phương pháp chữa trị cho căn bệnh.)</li>
 
         </ul>
 
@@ -203,33 +188,23 @@ export default function (): React.JSX.Element {
         <strong>&nbsp;thường xuyên</strong>:
       </p>
 
-      <p className="text-indent-whole"></p>
+      <p className="text-indent-whole">Thường xuyên sử dụng từ này khi muốn diễn tả sự kiên trì, không biết mệt mỏi.</p>
 
         <p className="text-indent-whole">Ví dụ để so sánh (sự khác biệt):</p>
 
-          {/* <ol>
+          <ol>
 
-            <li></li>
-            <li className="list-none margin-bottom-20"></li>
+            <li>He tried to solve the problem. (Anh ấy đã cố gắng giải quyết vấn đề.)</li>
 
-            <li value="2"></li>
-            <li className="list-none margin-bottom-20"></li>
-
-          </ol> */}
-
-          {/* <ol>
-
-            <li></li>
-
-            <li className="margin-bottom-20"></li>
+            <li className="margin-bottom-20">He worked <strong>tirelessly</strong> to solve the problem. (Anh ấy đã làm việc không biết mệt mỏi để giải quyết vấn đề.)</li>
 
           </ol>
 
       <div className="margin-bottom-20 padding-top-20 text-border1 padding-10 highlight-238-padding-4-8 bee-container">
 
-        <p className="margin-y-10">Sự khác biệt: </p>
+        <p className="margin-y-10">Sự khác biệt: Câu thứ hai <span className="highlight-255-padding-0-4">nhấn mạnh sự nỗ lực không ngừng nghỉ</span> của anh ta <span className="highlight-255-padding-0-4">để giải quyết</span> vấn đề.</p>
 
-      </div> */}
+      </div>
 
       {/* <span className="highlight-255-padding-0-4"></span> */}
 
@@ -243,9 +218,9 @@ export default function (): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li></li>
+          <li>Kiên trì: "<strong>Tirelessly</strong>" thường được dùng để miêu tả một sự kiên trì đáng nể.</li>
 
-          <li className="margin-bottom-20"></li>
+          <li className="margin-bottom-20">Không ngừng nghỉ: Nó nhấn mạnh tính liên tục của một hành động.</li>
 
         </ul>
 
@@ -256,7 +231,7 @@ export default function (): React.JSX.Element {
       <div className="viewcounter">
       
         <div className="post-date no-margin">
-          <span> · by 💎Gem ·</span>
+          <span>November 14, 2024 · by 💎Gem ·</span>
         </div>
 
         <div className="eye-icon no-margin">

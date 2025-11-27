@@ -1814,6 +1814,50 @@
       "date": "2024-11-08",
       "views": 0,
       "likes": 0
+    },
+    {
+      "id": "Patiently1",
+      "categoryDisplay": "Tính kiên nhẫn",
+      "categorySlug": "vocabulary#tinh-kien-nhan-terms",
+      "title": "patiently 1",
+      "content": "Từ \"patiently\" miêu tả một hành động hoặc trạng thái được thực hiện một cách kiên nhẫn, không vội vàng, không dễ cáu kỉnh hoặc khó chịu.",
+      "slug": "vocabulary/patiently-1",
+      "date": "2025-04-05",
+      "views": 0,
+      "likes": 0
+    },
+    {
+      "id": "Patiently2",
+      "categoryDisplay": "Tính kiên nhẫn",
+      "categorySlug": "vocabulary#tinh-kien-nhan-terms",
+      "title": "patiently 2",
+      "content": "Patiently /ˈpeɪ.ʃənt.li/ ⬤•• (3x) thường được dùng để mô tả một hành động hoặc tình huống diễn ra một cách kiên nhẫn, không vội vã, không nôn nóng.",
+      "slug": "vocabulary/patiently-2",
+      "date": "2025-04-05",
+      "views": 0,
+      "likes": 0
+    },
+    {
+      "id": "Tirelessly1",
+      "categoryDisplay": "Tính kiên nhẫn",
+      "categorySlug": "vocabulary#tinh-kien-nhan-terms",
+      "title": "tirelessly 1",
+      "content": "Từ \"tirelessly\" được dùng để miêu tả một hành động được thực hiện một cách liên tục, không ngừng nghỉ, dù phải đối mặt với khó khăn. Nó thể hiện sự kiên trì, quyết tâm cao độ của người thực hiện.",
+      "slug": "vocabulary/tirelessly-1",
+      "date": "2024-11-14",
+      "views": 0,
+      "likes": 0
+    },
+    {
+      "id": "Tirelessly2",
+      "categoryDisplay": "Tính kiên nhẫn",
+      "categorySlug": "vocabulary#tinh-kien-nhan-terms",
+      "title": "tirelessly 2",
+      "content": "Tirelessly /ˈtaɪrləsli/ ⬤•• (3x) thường được dùng để mô tả hành động được thực hiện một cách không ngừng nghỉ, kiên trì, không biết mệt mỏi.",
+      "slug": "vocabulary/tirelessly-2",
+      "date": "2024-11-14",
+      "views": 0,
+      "likes": 0
     }
   ]
 }
