@@ -1241,6 +1241,42 @@
 			"content": "Tirelessly /ˈtaɪrləsli/ ⬤•• (3x) thường được dùng để mô tả hành động được thực hiện một cách không ngừng nghỉ, kiên trì, không biết mệt mỏi.",
 			"slug": "vocabulary/tirelessly-2",
 			"date": "2024-11-14"
+		},
+		{ 
+			"id": "Persistently1",
+			"categoryDisplay": "Tính kiên nhẫn",
+			"categorySlug": "vocabulary#tinh-kien-nhan-terms",
+			"title": "persistently 1",
+			"content": "Từ \"persistently\" dùng để miêu tả một hành động được thực hiện một cách kiên quyết, không dễ dàng từ bỏ, dù gặp phải khó khăn hoặc trở ngại. Nó thể hiện sự quyết tâm và bền bỉ của một người.",
+			"slug": "vocabulary/persistently-1",
+			"date": "2025-12-27"
+		},
+		{ 
+			"id": "Persistently2",
+			"categoryDisplay": "Tính kiên nhẫn",
+			"categorySlug": "vocabulary#tinh-kien-nhan-terms",
+			"title": "persistently 2",
+			"content": "Persistently /pəˈsɪs.tənt.li/ •⬤•• (4x) thường được dùng để mô tả một hành động hoặc một trạng thái được duy trì một cách kiên quyết, không ngừng nghỉ, mặc cho những khó khăn hoặc trở ngại.",
+			"slug": "vocabulary/persistently-2",
+			"date": "2025-12-27"
+		},
+		{ 
+			"id": "Steadily1",
+			"categoryDisplay": "Tính kiên nhẫn",
+			"categorySlug": "vocabulary#tinh-kien-nhan-terms",
+			"title": "steadily 1",
+			"content": "Từ \"steadily\" miêu tả cách một hành động, quá trình hoặc trạng thái diễn ra một cách liên tục, không có sự thay đổi đột ngột hoặc dao động lớn, thường cho thấy sự ổn định và chắc chắn.",
+			"slug": "vocabulary/steadily-1",
+			"date": "2025-04-28"
+		},
+		{ 
+			"id": "Steadily2",
+			"categoryDisplay": "Tính kiên nhẫn",
+			"categorySlug": "vocabulary#tinh-kien-nhan-terms",
+			"title": "steadily 2",
+			"content": "Steadily /ˈsted.ə.li/ ⬤•• (3x) thường được dùng để mô tả một hành động hoặc quá trình diễn ra một cách ổn định, liên tục và không có nhiều sự thay đổi đột ngột.",
+			"slug": "vocabulary/steadily-2",
+			"date": "2025-04-28"
 		}
 	]
 }
