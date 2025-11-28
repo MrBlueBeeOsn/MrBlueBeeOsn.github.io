@@ -264,7 +264,7 @@ const VideoSearch: React.FC = () => {
               value={searchWord}
               onChange={(e) => setSearchWord(e.target.value)}
               onKeyPress={handleKeyPress}
-              placeholder="Video Search"
+              placeholder="Video Course, Tutorial"
               className="search-input"
             />
             

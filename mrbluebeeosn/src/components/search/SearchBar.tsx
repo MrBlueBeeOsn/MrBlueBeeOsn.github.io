@@ -87,7 +87,7 @@ export default function SearchBar({ posts, onSearchResults }: SearchBarProps): R
 
       <input
         type="text"
-        placeholder="Bee Search"
+        placeholder="Bee Article"
         value={searchTerm}
         onChange={handleInputChange}
         onKeyPress={handleKeyPress}
