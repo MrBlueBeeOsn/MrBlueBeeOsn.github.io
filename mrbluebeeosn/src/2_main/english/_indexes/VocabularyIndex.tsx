@@ -550,6 +550,40 @@ export default function VocabularyIndex(): React.JSX.Element {
 
 				<details className="sub-box-fix">
 			
+					<summary id="tinh-can-than-terms"><mark className="highlight-secondary-padding-2-4">Tính cẩn thận</mark></summary>
+
+					<ul className="list-border1">
+
+						<li>
+							<Link to="/vocabulary/carefully-1">carefully
+								<sup>&nbsp;1&nbsp;</sup>
+									</Link> 
+									<Link to="/vocabulary/carefully-2">
+								<sup>&nbsp;2&nbsp;</sup>
+							</Link>
+						</li>
+
+						<li>
+							<Link to="/vocabulary/meticulously-1">meticulously
+								<sup>&nbsp;1&nbsp;</sup>
+									</Link> 
+									<Link to="/vocabulary/meticulously-2">
+								<sup>&nbsp;2&nbsp;</sup>
+							</Link>
+						</li>
+						
+						
+						
+					</ul>
+
+				</details>
+
+				{/* =============================
+							Tính kiên nhẫn
+				============================= */}
+
+				<details className="sub-box-fix">
+			
 					<summary id="tinh-kien-nhan-terms"><mark className="highlight-secondary-padding-2-4">Tính kiên nhẫn</mark></summary>
 
 					<ul className="list-border1">

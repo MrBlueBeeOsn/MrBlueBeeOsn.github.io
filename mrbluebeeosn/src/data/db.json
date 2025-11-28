@@ -1902,6 +1902,50 @@
       "date": "2025-04-28",
       "views": 0,
       "likes": 0
+    },
+    {
+      "id": "Carefully1",
+      "categoryDisplay": "Tính cẩn thận",
+      "categorySlug": "vocabulary#tinh-can-than-terms",
+      "title": "carefully 1",
+      "content": "Từ \"carefully\" được dùng để mô tả một hành động được thực hiện một cách tỉ mỉ, chu đáo, tránh sai sót hoặc tai nạn. Nó thể hiện sự cẩn trọng và thận trọng.",
+      "slug": "vocabulary/carefully-1",
+      "date": "2025-12-27",
+      "views": 0,
+      "likes": 0
+    },
+    {
+      "id": "Carefully2",
+      "categoryDisplay": "Tính cẩn thận",
+      "categorySlug": "vocabulary#tinh-can-than-terms",
+      "title": "carefully 2",
+      "content": "Carefully /ˈkerfəli/ ⬤•• (3x) trong tiếng Anh có nghĩa là \"một cách cẩn thận\", \"một cách chu đáo\", thường được dùng để mô tả một hành động được thực hiện một cách tỉ mỉ, tránh sai sót.",
+      "slug": "vocabulary/carefully-2",
+      "date": "2024-11-05",
+      "views": 0,
+      "likes": 0
+    },
+    {
+      "id": "Meticulously1",
+      "categoryDisplay": "Tính cẩn thận",
+      "categorySlug": "vocabulary#tinh-can-than-terms",
+      "title": "meticulously 1",
+      "content": "Từ \"meticulously\" được dùng để mô tả một hành động được thực hiện một cách rất cẩn thận, tỉ mỉ, chú ý đến từng chi tiết nhỏ nhất. Nó thể hiện sự chính xác, kỹ lưỡng và sự quan tâm đến chất lượng cao.",
+      "slug": "vocabulary/meticulously-1",
+      "date": "2024-11-05",
+      "views": 0,
+      "likes": 0
+    },
+    {
+      "id": "Meticulously2",
+      "categoryDisplay": "Tính cẩn thận",
+      "categorySlug": "vocabulary#tinh-can-than-terms",
+      "title": "meticulously 2",
+      "content": "Meticulously /məˈtɪkjələsli/ •⬤••• (5x) trong tiếng Anh có nghĩa là \"một cách tỉ mỉ\", \"một cách cẩn thận từng chi tiết nhỏ\". Từ này thường được dùng để mô tả một hành động được thực hiện với sự chăm chút và chính xác cao.",
+      "slug": "vocabulary/meticulously-2",
+      "date": "2024-11-03",
+      "views": 0,
+      "likes": 0
     }
   ]
 }
