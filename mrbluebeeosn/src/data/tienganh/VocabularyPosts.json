@@ -1349,6 +1349,42 @@
 			"content": "Attentively /əˈten.tɪv.li/ •⬤•• (4x) thường được dùng để mô tả một hành động được thực hiện một cách chăm chú, tập trung, chú ý đến từng chi tiết.",
 			"slug": "vocabulary/attentively-2",
 			"date": "2025-04-02"
+		},
+		{ 
+			"id": "Slowly1",
+			"categoryDisplay": "Tốc độ chậm",
+			"categorySlug": "vocabulary#toc-do-cham-terms",
+			"title": "slowly 1",
+			"content": "Từ \"slowly\" được dùng để miêu tả một hành động được thực hiện ở tốc độ chậm, không nhanh. Nó có thể diễn tả sự chậm chạp, từ tốn hoặc sự trì hoãn.",
+			"slug": "vocabulary/slowly-1",
+			"date": "2024-11-05"
+		},
+		{ 
+			"id": "Slowly2",
+			"categoryDisplay": "Tốc độ chậm",
+			"categorySlug": "vocabulary#toc-do-cham-terms",
+			"title": "slowly 2",
+			"content": "Slowly /ˈsləʊli/ ⬤• (2x) trong tiếng Anh có nghĩa là \"một cách chậm rãi\", thường được dùng để mô tả tốc độ của một hành động, quá trình hoặc sự thay đổi.",
+			"slug": "vocabulary/slowly-2",
+			"date": "2024-11-05"
+		},
+		{ 
+			"id": "Lazily1",
+			"categoryDisplay": "Tốc độ chậm",
+			"categorySlug": "vocabulary#toc-do-cham-terms",
+			"title": "lazily 1",
+			"content": "Từ \"lazily\" dùng để miêu tả một hành động được thực hiện một cách chậm chạp, không nhiệt tình, hoặc không muốn nỗ lực. Nó thể hiện sự thiếu động lực, sự lười biếng trong việc hoàn thành một công việc nào đó.",
+			"slug": "vocabulary/lazily-1",
+			"date": "2024-11-11"
+		},
+		{ 
+			"id": "Lazily2",
+			"categoryDisplay": "Tốc độ chậm",
+			"categorySlug": "vocabulary#toc-do-cham-terms",
+			"title": "lazily 2",
+			"content": "Lazily /ˈleɪzəli/ ⬤•• (3x)là một trạng từ dùng để miêu tả một hành động được thực hiện một cách chậm rãi, thiếu năng lượng và không có sự cố gắng.",
+			"slug": "vocabulary/lazily-2",
+			"date": "2024-11-11"
 		}
 	]
 }

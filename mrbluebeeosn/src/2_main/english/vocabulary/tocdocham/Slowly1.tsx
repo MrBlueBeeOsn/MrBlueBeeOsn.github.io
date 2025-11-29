@@ -5,9 +5,9 @@ import EyeIcon from '@/components/view/EyeIcon';
 import ViewCounter from '@/components/view/ViewCounter';
 import LikeButton from '@/components/like/LikeButton';
 
-export default function Instantly1(): React.JSX.Element {
+export default function Slowly1(): React.JSX.Element {
 
-  const postId = "Instantly1";
+  const postId = "Slowly1";
 
   return (<>
 
@@ -15,37 +15,37 @@ export default function Instantly1(): React.JSX.Element {
 
     <article>
     
-      <h4><HashLink smooth to="/vocabulary#toc-do-nhanh-terms"><mark className="highlight-tertiary-padding-4-8">Tốc độ nhanh</mark></HashLink></h4>
+      <h4><HashLink smooth to="/vocabulary#toc-do-cham-terms"><mark className="highlight-tertiary-padding-4-8">Tốc độ chậm</mark></HashLink></h4>
       
-      <h1 className="margin-y-50 text-center">instantly
-        <sup><Link to="/vocabulary/instantly-1">&nbsp;1&nbsp;</Link>
+      <h1 className="margin-y-50 text-center">slowly
+        <sup><Link to="/vocabulary/slowly-1">&nbsp;1&nbsp;</Link>
         </sup>
-        <sup><Link to="/vocabulary/instantly-2">&nbsp;2&nbsp;</Link>
+        <sup><Link to="/vocabulary/slowly-2">&nbsp;2&nbsp;</Link>
         </sup>
       </h1>
 
       {/* This is the content of Vocabulary Term. */}
       
-      <p>Tuyệt vời! Chúng ta cùng tìm hiểu về từ "<strong>instantly</strong>" nhé.</p>
+      <p>Tuyệt vời! Chúng ta cùng đi sâu vào từ "<strong>slowly</strong>" nhé.</p>
 
       <div className="text-border1 padding-top-20 padding-bottom-10 highlight-238-padding-4-8 bee-container">
 
         <div>
 
-          <p className="margin-bottom-20"><strong>Instantly</strong></p>
+          <p className="margin-bottom-20"><strong>Slowly</strong></p>
 
           <ul className="list-square padding-left-40">
 
             <li>
               <span className="highlight-255-padding-3-6">
-                /ˈɪnstəntli/ + /<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">insta̛ntly</Link>/
-                <sup>&nbsp;⬤•• (3x)</sup>
+                /ˈsləʊli/ + /<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">slōwly</Link>/
+                <sup>&nbsp;⬤• (2x)</sup>
               </span>
             </li>
 
             <li>Trạng từ (<Link to="/grammar/what-is-an-adverb?">adverb</Link>)</li>
 
-            <li>Ngay lập tức, tức thì</li>
+            <li>Chậm rãi</li>
 
           </ul>
 
@@ -57,15 +57,15 @@ export default function Instantly1(): React.JSX.Element {
 
       </div>
 
-      <p className="margin-top-30 text-indent-whole">Từ "<strong>instantly</strong>" được dùng để miêu tả một hành động, sự việc xảy ra một cách rất nhanh, không có sự trì hoãn. Nó diễn tả sự tức thời, ngay lập tức.</p>
+      <p className="margin-top-30 text-indent-whole">Từ "<strong>slowly</strong>" được dùng để miêu tả một hành động được thực hiện ở tốc độ chậm, không nhanh. Nó có thể diễn tả sự chậm chạp, từ tốn hoặc sự trì hoãn.</p>
 
       <p className="text-indent-whole">Ví dụ:</p>
 
         <ul className="list-square">
 
-          <li>When I turned on the light, the room became <strong>instantly</strong> brighter. (Khi tôi bật đèn lên, căn phòng sáng lên ngay lập tức.)</li>
+          <li>She walked <strong>slowly</strong> down the street. (Cô ấy đi bộ chậm rãi trên đường phố.)</li>
 
-          <li>She recognized him <strong>instantly</strong>. (Cô ấy nhận ra anh ta ngay lập tức.)</li>
+          <li>Time passed <strong>slowly</strong> as I waited. (Thời gian trôi qua chậm rãi khi tôi chờ đợi.)</li>
 
         </ul>
 
@@ -81,11 +81,11 @@ export default function Instantly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Instant (adj): Tức thì /ˈɪnstənt/</li>
-          <li className="margin-bottom-20 list-none">This is an instant coffee. (Đây là cà phê hòa tan.)</li>
+          <li>Slow (adj): Chậm /sləʊ/</li>
+          <li className="margin-bottom-20 list-none">He is a slow runner. (Anh ấy là một người chạy chậm.)</li>
 
-          <li>Instantaneous (adj): Tức thời /ˌɪnstənˈteɪniəs/</li>
-          <li className="list-none">The reaction was instantaneous. (Phản ứng diễn ra tức thì.)</li>
+          <li>Slowness (n): Sự chậm chạp /ˈsləʊnəs/</li>
+          <li className="list-none">The slowness of the traffic annoyed me. (Sự chậm chạp của giao thông làm tôi khó chịu.)</li>
 
         </ul>
 
@@ -101,11 +101,11 @@ export default function Instantly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Immediately: Ngay lập tức /ɪˈmiːdiətli/</li>
-          <li className="margin-bottom-20 list-none">I replied immediately. (Tôi trả lời ngay lập tức.)</li>
+          <li>Gradually: Dần dần /ˈɡrædʒuəli/</li>
+          <li className="margin-bottom-20 list-none">The plant grew gradually taller. (Cây dần dần cao lên.)</li>
 
-          <li>At once: Ngay lập tức (at wʌns)</li>
-          <li className="list-none">Come here at once! (Đến đây ngay!)</li>
+          <li><strong>Slowly</strong> but surely: Chậm mà chắc /ˈsləʊli bət ˈʃʊərli/</li>
+          <li className="list-none"><strong>Slowly</strong> but surely, she was making progress. (Chậm mà chắc, cô ấy đang tiến bộ.)</li>
 
         </ul>
 
@@ -123,11 +123,11 @@ export default function Instantly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Gradually: Dần dần /ˈɡrædʒuəli/</li>
-          <li className="margin-bottom-20 list-none">The plant grew gradually. (Cây lớn dần lên.)</li>
+          <li><Link to="/vocabulary/quickly-1">Quickly</Link>: Nhanh chóng /ˈkwɪkli/</li>
+          <li className="margin-bottom-20 list-none">He ran quickly to catch the bus. (Anh ấy chạy nhanh để bắt xe buýt.)</li>
 
-          <li><Link to="/vocabulary/slowly-1">Slowly</Link>: Chậm rãi /ˈsləʊli/</li>
-          <li className="list-none">She walked slowly. (Cô ấy đi chậm rãi.)</li>
+          <li><Link to="/vocabulary/rapidly-1">Rapidly</Link>: Một cách nhanh chóng /ˈræpɪdli/</li>
+          <li className="list-none">The disease spread rapidly. (Bệnh lây lan rất nhanh.)</li>
 
         </ul>
       
@@ -148,12 +148,12 @@ export default function Instantly1(): React.JSX.Element {
         <strong>&nbsp;với hình ảnh</strong>:
       </p>
 
-      <p className="text-indent-whole">Hình dung một bóng đèn sáng lên ngay lập tức khi bạn bật công tắc.</p>
+      <p className="text-indent-whole">Hình dung một con rùa đang bò chậm rãi.</p>
 
         <ul className="list-square">
 
-          <li>As soon as I turned on the switch, the light bulb came on <strong>instantly</strong>.</li>
-          <li className="list-none">(Ngay khi tôi bật công tắc, bóng đèn sáng lên ngay lập tức.)</li>
+          <li>The turtle moves as <strong>slowly</strong> as a snail.</li>
+          <li className="list-none">(Con rùa di chuyển chậm như ốc sên.)</li>
 
         </ul>
 
@@ -168,12 +168,12 @@ export default function Instantly1(): React.JSX.Element {
         <strong>&nbsp;ví dụ</strong>:
       </p>
 
-      <p className="text-indent-whole">Tạo các câu ví dụ liên quan đến các hành động xảy ra rất nhanh.</p>
+      <p className="text-indent-whole">Tạo các câu miêu tả các hành động chậm.</p>
 
         <ul className="list-square">
 
-          <li>She fell asleep <strong>instantly</strong> after she closed her eyes.</li>
-          <li className="list-none">(Cô ấy ngủ thiếp đi ngay lập tức sau khi nhắm mắt lại.)</li>
+          <li>The clock ticked <strong>slowly</strong>.</li>
+          <li className="list-none">(Đồng hồ tích tắc chậm rãi.)</li>
 
         </ul>
 
@@ -188,21 +188,21 @@ export default function Instantly1(): React.JSX.Element {
         <strong>&nbsp;thường xuyên</strong>:
       </p>
 
-      <p className="text-indent-whole">Thường xuyên sử dụng từ này trong các cuộc hội thoại hoặc khi viết.</p>
+      <p className="text-indent-whole">Thường xuyên sử dụng từ này trong các bài viết hoặc cuộc trò chuyện.</p>
 
         <p className="text-indent-whole">Ví dụ để so sánh (sự khác biệt):</p>
 
           <ol>
 
-            <li>The water boiled. (Nước sôi.)</li>
+            <li>He finished his work. (Anh ấy đã hoàn thành công việc.)</li>
 
-            <li className="margin-bottom-20">The water boiled <strong>instantly</strong>. (Nước sôi ngay lập tức.)</li>
+            <li className="margin-bottom-20">He <strong>slowly</strong> finished his work. (Anh ấy đã hoàn thành công việc một cách chậm rãi.)</li>
 
           </ol>
 
       <div className="margin-bottom-20 padding-top-20 text-border1 padding-10 highlight-238-padding-4-8 bee-container">
 
-        <p className="margin-y-10">Sự khác biệt: Câu thứ hai sử dụng "<strong>instantly</strong>" để <span className="highlight-255-padding-0-4">nhấn mạnh</span> rằng quá trình nước <span className="highlight-255-padding-0-4">sôi diễn ra rất nhanh</span>.</p>
+        <p className="margin-y-10">Sự khác biệt: Câu thứ hai <span className="highlight-255-padding-0-4">nhấn mạnh</span> rằng anh ấy <span className="highlight-255-padding-0-4">đã hoàn thành công việc với tốc độ chậm</span>.</p>
 
       </div>
 
@@ -218,9 +218,9 @@ export default function Instantly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Thời gian cực ngắn: "<strong>Instantly</strong>" nhấn mạnh vào sự xảy ra của một sự việc trong một khoảng thời gian cực kỳ ngắn.</li>
+          <li>Tốc độ: "<strong>Slowly</strong>" luôn liên quan đến tốc độ chậm.</li>
 
-          <li className="margin-bottom-20">Không có sự trì hoãn: Nó đối lập với các trạng từ như "gradually" hay "slowly".</li>
+          <li className="margin-bottom-20">Cảm giác: Nó có thể tạo ra cảm giác thư thái, bình tĩnh hoặc sốt ruột, tùy thuộc vào ngữ cảnh.</li>
 
         </ul>
 
@@ -231,7 +231,7 @@ export default function Instantly1(): React.JSX.Element {
       <div className="viewcounter">
       
         <div className="post-date no-margin">
-          <span>November 23, 2024 · by 💎Gem ·</span>
+          <span>November 5, 2024 · by 💎Gem ·</span>
         </div>
 
         <div className="eye-icon no-margin">

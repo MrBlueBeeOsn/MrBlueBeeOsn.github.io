@@ -545,6 +545,40 @@ export default function VocabularyIndex(): React.JSX.Element {
 				</details>
 
 				{/* =============================
+							Tốc độ chậm
+				============================= */}
+
+				<details className="sub-box-fix">
+			
+					<summary id="toc-do-cham-terms"><mark className="highlight-secondary-padding-2-4">Tốc độ chậm</mark></summary>
+
+					<ul className="list-border1">
+
+						<li>
+							<Link to="/vocabulary/slowly-1">slowly
+								<sup>&nbsp;1&nbsp;</sup>
+									</Link> 
+									<Link to="/vocabulary/slowly-2">
+								<sup>&nbsp;2&nbsp;</sup>
+							</Link>
+						</li>
+						
+						<li>
+							<Link to="/vocabulary/lazily-1">lazily
+								<sup>&nbsp;1&nbsp;</sup>
+									</Link> 
+									<Link to="/vocabulary/lazily-2">
+								<sup>&nbsp;2&nbsp;</sup>
+							</Link>
+						</li>
+
+						
+						
+					</ul>
+
+				</details>
+
+				{/* =============================
 							Tính kiên nhẫn
 				============================= */}
 

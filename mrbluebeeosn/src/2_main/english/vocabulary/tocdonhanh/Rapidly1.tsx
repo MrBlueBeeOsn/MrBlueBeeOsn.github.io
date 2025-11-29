@@ -123,7 +123,7 @@ export default function Rapidly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Slowly: Một cách chậm chạp /ˈsloʊli/</li>
+          <li><Link to="/vocabulary/slowly-1">Slowly</Link>: Một cách chậm chạp /ˈsloʊli/</li>
           <li className="margin-bottom-20 list-none">The snail moved slowly across the leaf. (Con ốc sên di chuyển chậm trên lá.)</li>
 
           <li>Gradually: Một cách dần dần /ˈɡrædʒuəli/</li>
