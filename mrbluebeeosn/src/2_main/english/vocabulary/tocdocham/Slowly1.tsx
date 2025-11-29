@@ -101,10 +101,10 @@ export default function Slowly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Gradually: Dần dần /ˈɡrædʒuəli/</li>
+          <li><Link to="/vocabulary/gradually-1">Gradually</Link>: Dần dần /ˈɡrædʒuəli/</li>
           <li className="margin-bottom-20 list-none">The plant grew gradually taller. (Cây dần dần cao lên.)</li>
 
-          <li><strong>Slowly</strong> but surely: Chậm mà chắc /ˈsləʊli bət ˈʃʊərli/</li>
+          <li><strong>Slowly</strong> but <Link to="/vocabulary/surely-1">surely</Link>: Chậm mà chắc /ˈsləʊli bət ˈʃʊərli/</li>
           <li className="list-none"><strong>Slowly</strong> but surely, she was making progress. (Chậm mà chắc, cô ấy đang tiến bộ.)</li>
 
         </ul>

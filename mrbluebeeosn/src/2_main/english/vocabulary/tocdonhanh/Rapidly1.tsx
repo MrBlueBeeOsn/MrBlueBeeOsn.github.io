@@ -126,7 +126,7 @@ export default function Rapidly1(): React.JSX.Element {
           <li><Link to="/vocabulary/slowly-1">Slowly</Link>: Một cách chậm chạp /ˈsloʊli/</li>
           <li className="margin-bottom-20 list-none">The snail moved slowly across the leaf. (Con ốc sên di chuyển chậm trên lá.)</li>
 
-          <li>Gradually: Một cách dần dần /ˈɡrædʒuəli/</li>
+          <li><Link to="/vocabulary/gradually-1">Gradually</Link>: Một cách dần dần /ˈɡrædʒuəli/</li>
           <li className="list-none">The plant grew gradually taller. (Cây dần dần cao lên.)</li>
 
         </ul>

@@ -1385,6 +1385,42 @@
 			"content": "Lazily /ˈleɪzəli/ ⬤•• (3x)là một trạng từ dùng để miêu tả một hành động được thực hiện một cách chậm rãi, thiếu năng lượng và không có sự cố gắng.",
 			"slug": "vocabulary/lazily-2",
 			"date": "2024-11-11"
+		},
+		{ 
+			"id": "Gradually1",
+			"categoryDisplay": "Tốc độ chậm",
+			"categorySlug": "vocabulary#toc-do-cham-terms",
+			"title": "gradually 1",
+			"content": "Từ \"gradually\" dùng để miêu tả một quá trình diễn ra chậm rãi, từng bước một, không đột ngột.",
+			"slug": "vocabulary/gradually-1",
+			"date": "2024-11-10"
+		},
+		{ 
+			"id": "Gradually2",
+			"categoryDisplay": "Tốc độ chậm",
+			"categorySlug": "vocabulary#toc-do-cham-terms",
+			"title": "gradually 2",
+			"content": "Gradually /ˈɡrædʒuəli/ ⬤••• (4x) trong tiếng Anh thường được sử dụng để mô tả một quá trình diễn ra chậm rãi, từng bước một, không đột ngột.",
+			"slug": "vocabulary/gradually-2",
+			"date": "2024-11-10"
+		},
+		{ 
+			"id": "Belatedly1",
+			"categoryDisplay": "Tốc độ chậm",
+			"categorySlug": "vocabulary#toc-do-cham-terms",
+			"title": "belatedly 1",
+			"content": "Từ \"belatedly\" miêu tả một hành động hoặc sự kiện xảy ra muộn hơn so với thời điểm dự kiến hoặc mong đợi. Nó thường gợi lên cảm giác hối tiếc hoặc nhận ra điều gì đó quá muộn.",
+			"slug": "vocabulary/belatedly-1",
+			"date": "2024-04-23"
+		},
+		{ 
+			"id": "Belatedly2",
+			"categoryDisplay": "Tốc độ chậm",
+			"categorySlug": "vocabulary#toc-do-cham-terms",
+			"title": "belatedly 2",
+			"content": "Belatedly /bɪˈleɪ.tɪd.li/ •⬤•• (4x) thường được dùng để mô tả một hành động hoặc sự kiện xảy ra muộn hơn so với thời điểm dự kiến hoặc mong đợi.",
+			"slug": "vocabulary/belatedly-2",
+			"date": "2024-04-23"
 		}
 	]
 }
