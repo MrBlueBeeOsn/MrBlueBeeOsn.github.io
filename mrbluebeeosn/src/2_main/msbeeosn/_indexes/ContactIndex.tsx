@@ -46,7 +46,7 @@ export default function ContactIndex(): React.JSX.Element {
 
         <header className="portfolio-header title">
 
-          <h1 className="name">HIEU TRONG KHAU</h1>
+          <h1 className="name">HIEU BEETER</h1>
           <div className="title">Bookkeeper | Daily Transactions | Invoicing | Reconciliation</div>
           <div className="location"><FontAwesomeIcon icon={faLocationDot} /> Hoc Mon District, HCMC</div>
           
