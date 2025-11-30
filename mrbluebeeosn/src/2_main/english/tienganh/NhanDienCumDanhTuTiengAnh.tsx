@@ -161,9 +161,7 @@ export default function NhanDienCumDanhTuTiengAnh(): React.JSX.Element {
 				
 						<li>Một chiếc bàn ăn gỗ tròn lớn</li>
 
-						<li className="list-none">→ mạo từ → kích thước → hình dạng → chất liệu</li>
-				
-						<li className="list-none">→ mục đích → danh từ chính.</li>
+						<li className="list-none">→ mạo từ → kích thước → hình dạng → chất liệu → mục đích → danh từ chính.</li>
 				
 					</ul>
 
