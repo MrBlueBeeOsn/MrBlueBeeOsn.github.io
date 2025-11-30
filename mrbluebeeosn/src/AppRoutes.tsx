@@ -282,7 +282,7 @@ const Posts = lazy(() => import('@/data/Posts'));
   const Belatedly1 = lazy(() => import('@/2_main/english/vocabulary/tocdocham/Belatedly1'));
   const Belatedly2 = lazy(() => import('@/2_main/english/vocabulary/tocdocham/Belatedly2'));
 
-  // 22. Vocabulary - Tính tích cực
+  // 23. Vocabulary - Tính tích cực
   const Happily1 = lazy(() => import('@/2_main/english/vocabulary/tinhtichcuc/Happily1'));
   const Happily2 = lazy(() => import('@/2_main/english/vocabulary/tinhtichcuc/Happily2'));
   const Positively1 = lazy(() => import('@/2_main/english/vocabulary/tinhtichcuc/Positively1'));
@@ -291,6 +291,12 @@ const Posts = lazy(() => import('@/data/Posts'));
   const Joyfully2 = lazy(() => import('@/2_main/english/vocabulary/tinhtichcuc/Joyfully2'));
   const Cheerfully1 = lazy(() => import('@/2_main/english/vocabulary/tinhtichcuc/Cheerfully1'));
   const Cheerfully2 = lazy(() => import('@/2_main/english/vocabulary/tinhtichcuc/Cheerfully2'));
+
+  // 24. Vocabulary - Tính nhẹ nhàng
+  const Gently1 = lazy(() => import('@/2_main/english/vocabulary/tinhnhenhang/Gently1'));
+  const Gently2 = lazy(() => import('@/2_main/english/vocabulary/tinhnhenhang/Gently2'));
+  const Delicately2 = lazy(() => import('@/2_main/english/vocabulary/tinhnhenhang/Delicately2'));
+  const Delicately1 = lazy(() => import('@/2_main/english/vocabulary/tinhnhenhang/Delicately1'));
 
 // Xuất khẩu chức năng
 export default function AppRoutes(): React.JSX.Element {
@@ -587,6 +593,12 @@ export default function AppRoutes(): React.JSX.Element {
           <Route path="/vocabulary/joyfully-2" element={<Joyfully2 />} />
           <Route path="/vocabulary/cheerfully-1" element={<Cheerfully1 />} />
           <Route path="/vocabulary/cheerfully-2" element={<Cheerfully2 />} />
+
+          {/* 24. Vocabulary - Tính nhẹ nhàng */}
+          <Route path="/vocabulary/gently-1" element={<Gently1 />} />
+          <Route path="/vocabulary/gently-2" element={<Gently2 />} />
+          <Route path="/vocabulary/delicately-1" element={<Delicately1 />} />
+          <Route path="/vocabulary/delicately-2" element={<Delicately2 />} />
 
 
       </Route>

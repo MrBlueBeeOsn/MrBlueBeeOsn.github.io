@@ -5,9 +5,9 @@ import EyeIcon from '@/components/view/EyeIcon';
 import ViewCounter from '@/components/view/ViewCounter';
 import LikeButton from '@/components/like/LikeButton';
 
-export default function (): React.JSX.Element {
+export default function Delicately1(): React.JSX.Element {
 
-  const postId = "";
+  const postId = "Delicately1";
 
   return (<>
 
@@ -17,35 +17,35 @@ export default function (): React.JSX.Element {
     
       <h4><HashLink smooth to="/vocabulary#tinh-nhe-nhang-terms"><mark className="highlight-tertiary-padding-4-8">Tính nhẹ nhàng</mark></HashLink></h4>
       
-      <h1 className="margin-y-50 text-center">ly
-        <sup><Link to="/vocabulary/ly-1">&nbsp;1&nbsp;</Link>
+      <h1 className="margin-y-50 text-center">delicately
+        <sup><Link to="/vocabulary/delicately-1">&nbsp;1&nbsp;</Link>
         </sup>
-        <sup><Link to="/vocabulary/ly-2">&nbsp;2&nbsp;</Link>
+        <sup><Link to="/vocabulary/delicately-2">&nbsp;2&nbsp;</Link>
         </sup>
       </h1>
 
       {/* This is the content of Vocabulary Term. */}
       
-      <p>Tuyệt vời! </p>
+      <p>Tuyệt vời! Chúng ta cùng khám phá từ "<strong>delicately</strong>" nhé.</p>
 
       <div className="text-border1 padding-top-20 padding-bottom-10 highlight-238-padding-4-8 bee-container">
 
         <div>
 
-          <p className="margin-bottom-20"><strong>ly</strong></p>
+          <p className="margin-bottom-20"><strong>Delicately</strong></p>
 
           <ul className="list-square padding-left-40">
 
             <li>
               <span className="highlight-255-padding-3-6">
-                /i/ + /<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">ly</Link>/
-                <sup>&nbsp;⬤</sup>
+                /ˈdɛlɪkətli/ + /<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">delica̛tely</Link>/
+                <sup>&nbsp;⬤••• (4x)</sup>
               </span>
             </li>
 
             <li>Trạng từ (<Link to="/grammar/what-is-an-adverb?">adverb</Link>)</li>
 
-            <li>Một cách </li>
+            <li>Một cách tinh tế, nhẹ nhàng</li>
 
           </ul>
 
@@ -57,15 +57,15 @@ export default function (): React.JSX.Element {
 
       </div>
 
-      <p className="margin-top-30 text-indent-whole">Từ "<strong>ly</strong>" </p>
+      <p className="margin-top-30 text-indent-whole">Từ "<strong>delicately</strong>" thường được dùng để mô tả một hành động được thực hiện một cách cẩn thận, nhẹ nhàng, tránh gây tổn hại hoặc làm phiền đến người khác hoặc vật khác. Nó cũng có thể ám chỉ sự tinh tế trong cách diễn đạt hoặc xử lý một vấn đề.</p>
 
       <p className="text-indent-whole">Ví dụ:</p>
 
         <ul className="list-square">
 
-          <li></li>
+          <li>She <strong>delicately</strong> picked up the fragile vase. (Cô ấy nhẹ nhàng nhặt chiếc bình thủy tinh dễ vỡ.)</li>
 
-          <li></li>
+          <li>He <strong>delicately</strong> broached the subject of money with his parents. (Anh ấy khéo léo đề cập đến vấn đề tiền bạc với ba mẹ.)</li>
 
         </ul>
 
@@ -81,14 +81,8 @@ export default function (): React.JSX.Element {
 
         <ul className="list-square">
 
-          {/* <li></li>
-          <li className="margin-bottom-20 list-none"></li> */}
-
-          {/* <li></li>
-          <li className="margin-bottom-20 list-none"></li> */}
-
-          <li></li>
-          <li className="list-none"></li>
+          <li>Delicate (adj): Tinh tế, dễ vỡ /ˈdɛlɪkət/</li>
+          <li className="list-none">The china is very delicate. (Đồ sứ rất dễ vỡ.)</li>
 
         </ul>
 
@@ -104,14 +98,11 @@ export default function (): React.JSX.Element {
 
         <ul className="list-square">
 
-          {/* <li></li>
-          <li className="margin-bottom-20 list-none"></li> */}
+          <li><Link to="/vocabulary/gently-1">Gently</Link>: Một cách nhẹ nhàng /ˈdʒɛntli/</li>
+          <li className="margin-bottom-20 list-none">She gently closed the door. (Cô ấy nhẹ nhàng đóng cửa.)</li>
 
-          <li></li>
-          <li className="margin-bottom-20 list-none"></li>
-
-          <li></li>
-          <li className="list-none"></li>
+          <li><Link to="/vocabulary/carefully-1">Carefully</Link>: Một cách cẩn thận /ˈkeərfəli/</li>
+          <li className="list-none">He carefully packed the box. (Anh ấy cẩn thận đóng gói hộp.)</li>
 
         </ul>
 
@@ -129,14 +120,11 @@ export default function (): React.JSX.Element {
 
         <ul className="list-square">
 
-          {/* <li></li>
-          <li className="margin-bottom-20 list-none"></li> */}
+          <li>Roughly: Một cách thô bạo /ˈrʌfli/</li>
+          <li className="margin-bottom-20 list-none">He handled the package roughly. (Anh ta xử lý gói hàng một cách thô bạo.)</li>
 
-          <li></li>
-          <li className="margin-bottom-20 list-none"></li>
-
-          <li></li>
-          <li className="list-none"></li>
+          <li>Violently: Một cách bạo lực /ˈvaɪələntli/</li>
+          <li className="list-none">The storm raged violently. (Bão nổi lên dữ dội.)</li>
 
         </ul>
       
@@ -157,15 +145,12 @@ export default function (): React.JSX.Element {
         <strong>&nbsp;với hình ảnh</strong>:
       </p>
 
-      <p className="text-indent-whole"></p>
+      <p className="text-indent-whole">Hình dung một người đang giữ một chiếc bánh kem rất đẹp một cách cẩn thận.</p>
 
         <ul className="list-square">
 
-          {/* <li></li>
-          <li className="margin-bottom-20 list-none"></li> */}
-
-          <li></li>
-          <li className="list-none"></li>
+          <li>She is <strong>delicately</strong> holding the beautiful cake.</li>
+          <li className="list-none">(Cô ấy đang nhẹ nhàng giữ chiếc bánh kem đẹp.)</li>
 
         </ul>
 
@@ -180,15 +165,12 @@ export default function (): React.JSX.Element {
         <strong>&nbsp;ví dụ</strong>:
       </p>
 
-      <p className="text-indent-whole"></p>
+      <p className="text-indent-whole">Tự tạo các câu ví dụ khác nhau với từ "<strong>delicately</strong>" trong nhiều ngữ cảnh khác nhau.</p>
 
         <ul className="list-square">
 
-          {/* <li></li>
-          <li className="margin-bottom-20 list-none"></li> */}
-
-          <li></li>
-          <li className="list-none"></li>
+          <li>He <strong>delicately</strong> suggested that she might want to reconsider her decision.</li>
+          <li className="list-none">(Anh ấy nhẹ nhàng gợi ý rằng cô ấy có thể muốn xem xét lại quyết định của mình.)</li>
 
         </ul>
 
@@ -203,33 +185,23 @@ export default function (): React.JSX.Element {
         <strong>&nbsp;thường xuyên</strong>:
       </p>
 
-      <p className="text-indent-whole"></p>
+      <p className="text-indent-whole">Thường xuyên sử dụng từ này khi muốn diễn tả sự nhẹ nhàng, tinh tế trong hành động.</p>
 
         <p className="text-indent-whole">Ví dụ để so sánh (sự khác biệt):</p>
 
-          {/* <ol>
+          <ol>
 
-            <li></li>
-            <li className="list-none margin-bottom-20"></li>
+            <li>He closed the door. (Anh ấy đóng cửa.)</li>
 
-            <li value="2"></li>
-            <li className="list-none margin-bottom-20"></li>
-
-          </ol> */}
-
-          {/* <ol>
-
-            <li></li>
-
-            <li className="margin-bottom-20"></li>
+            <li className="margin-bottom-20">He <strong>delicately</strong> closed the door so as not to wake the baby. (Anh ấy nhẹ nhàng đóng cửa để không đánh thức đứa bé.)</li>
 
           </ol>
 
       <div className="margin-bottom-20 padding-top-20 text-border1 padding-10 highlight-238-padding-4-8 bee-container">
 
-        <p className="margin-y-10">Sự khác biệt: </p>
+        <p className="margin-y-10">Sự khác biệt: Câu thứ hai sử dụng "<strong>delicately</strong>" để <span className="highlight-255-padding-0-4">nhấn mạnh sự cẩn thận</span>, tránh làm phiền đứa bé.</p>
 
-      </div> */}
+      </div>
 
       {/* <span className="highlight-255-padding-0-4"></span> */}
 
@@ -243,9 +215,9 @@ export default function (): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li></li>
+          <li>Sự nhẹ nhàng: "<strong>Delicately</strong>" nhấn mạnh sự nhẹ nhàng, cẩn thận trong hành động.</li>
 
-          <li className="margin-bottom-20"></li>
+          <li className="margin-bottom-20">Sự tinh tế: Nó cũng có thể ám chỉ sự tinh tế trong cách diễn đạt, xử lý vấn đề.</li>
 
         </ul>
 
@@ -256,7 +228,7 @@ export default function (): React.JSX.Element {
       <div className="viewcounter">
       
         <div className="post-date no-margin">
-          <span> · by 💎Gem ·</span>
+          <span>November 14, 2024 · by 💎Gem ·</span>
         </div>
 
         <div className="eye-icon no-margin">
