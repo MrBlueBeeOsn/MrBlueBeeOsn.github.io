@@ -279,6 +279,12 @@ const Posts = lazy(() => import('@/data/Posts'));
   const Belatedly1 = lazy(() => import('@/2_main/english/vocabulary/tocdocham/Belatedly1'));
   const Belatedly2 = lazy(() => import('@/2_main/english/vocabulary/tocdocham/Belatedly2'));
 
+  // 22. Vocabulary - Tính tích cực
+  const Happily1 = lazy(() => import('@/2_main/english/vocabulary/tinhtichcuc/Happily1'));
+  const Happily2 = lazy(() => import('@/2_main/english/vocabulary/tinhtichcuc/Happily2'));
+  const Positively1 = lazy(() => import('@/2_main/english/vocabulary/tinhtichcuc/Positively1'));
+  const Positively2 = lazy(() => import('@/2_main/english/vocabulary/tinhtichcuc/Positively2'));
+
 // Xuất khẩu chức năng
 export default function AppRoutes(): React.JSX.Element {
   return (
@@ -561,6 +567,12 @@ export default function AppRoutes(): React.JSX.Element {
           <Route path="/vocabulary/gradually-2" element={<Gradually2 />} />
           <Route path="/vocabulary/belatedly-1" element={<Belatedly1 />} />
           <Route path="/vocabulary/belatedly-2" element={<Belatedly2 />} />
+
+          {/* 23. Vocabulary - Tính tích cực */}
+          <Route path="/vocabulary/happily-1" element={<Happily1 />} />
+          <Route path="/vocabulary/happily-2" element={<Happily2 />} />
+          <Route path="/vocabulary/positively-1" element={<Positively1 />} />
+          <Route path="/vocabulary/positively-2" element={<Positively2 />} />
 
 
       </Route>

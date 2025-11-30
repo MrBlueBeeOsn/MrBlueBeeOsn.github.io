@@ -1421,6 +1421,42 @@
 			"content": "Belatedly /bɪˈleɪ.tɪd.li/ •⬤•• (4x) thường được dùng để mô tả một hành động hoặc sự kiện xảy ra muộn hơn so với thời điểm dự kiến hoặc mong đợi.",
 			"slug": "vocabulary/belatedly-2",
 			"date": "2024-04-23"
+		},
+		{ 
+			"id": "Happily1",
+			"categoryDisplay": "Tính tích cực",
+			"categorySlug": "vocabulary#tinh-tich-cuc-terms",
+			"title": "happily 1",
+			"content": "Từ \"happily\" được dùng để mô tả một hành động, trạng thái hoặc tình huống diễn ra trong niềm vui, sự hài lòng và mãn nguyện. Nó thể hiện cảm xúc tích cực của con người.",
+			"slug": "vocabulary/happily-1",
+			"date": "2024-11-04"
+		},
+		{ 
+			"id": "Happily2",
+			"categoryDisplay": "Tính tích cực",
+			"categorySlug": "vocabulary#tinh-tich-cuc-terms",
+			"title": "happily 2",
+			"content": "Happily /ˈhæpəli/ ⬤•• (3x) thường được sử dụng để diễn tả trạng thái vui vẻ, hạnh phúc hoặc sự hài lòng.",
+			"slug": "vocabulary/happily-2",
+			"date": "2024-11-04"
+		},
+		{ 
+			"id": "Positively1",
+			"categoryDisplay": "Tính tích cực",
+			"categorySlug": "vocabulary#tinh-tich-cuc-terms",
+			"title": "positively 1",
+			"content": "1. Một cách tích cực: Thể hiện sự lạc quan, hy vọng, hoặc hướng tới điều tốt đẹp. 2. Một cách khẳng định, quả quyết: Thể hiện sự chắc chắn, không nghi ngờ. 3. Một cách có lợi: Mang lại kết quả tốt.",
+			"slug": "vocabulary/positively-1",
+			"date": "2025-03-29"
+		},
+		{ 
+			"id": "Positively2",
+			"categoryDisplay": "Tính tích cực",
+			"categorySlug": "vocabulary#tinh-tich-cuc-terms",
+			"title": "positively 2",
+			"content": "Positively /ˈpɒz.ə.tɪv.li/ ⬤••• (4x) thường được dùng để mô tả một hành động, suy nghĩ hoặc kết quả mang tính tích cực, tốt đẹp.",
+			"slug": "vocabulary/positively-2",
+			"date": "2025-03-29"
 		}
 	]
 }

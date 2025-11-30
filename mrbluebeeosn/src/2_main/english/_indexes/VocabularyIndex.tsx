@@ -595,6 +595,40 @@ export default function VocabularyIndex(): React.JSX.Element {
 				</details>
 
 				{/* =============================
+							Tính tích cực
+				============================= */}
+
+				<details className="sub-box-fix">
+			
+					<summary id="tinh-tich-cuc-terms"><mark className="highlight-secondary-padding-2-4">Tính tích cực</mark></summary>
+
+					<ul className="list-border1">
+
+						<li>
+							<Link to="/vocabulary/happily-1">happily
+								<sup>&nbsp;1&nbsp;</sup>
+									</Link> 
+									<Link to="/vocabulary/happily-2">
+								<sup>&nbsp;2&nbsp;</sup>
+							</Link>
+						</li>
+
+						<li>
+							<Link to="/vocabulary/positively-1">positively
+								<sup>&nbsp;1&nbsp;</sup>
+									</Link> 
+									<Link to="/vocabulary/positively-2">
+								<sup>&nbsp;2&nbsp;</sup>
+							</Link>
+						</li>
+
+						
+						
+					</ul>
+
+				</details>
+
+				{/* =============================
 							Tính kiên nhẫn
 				============================= */}
 
