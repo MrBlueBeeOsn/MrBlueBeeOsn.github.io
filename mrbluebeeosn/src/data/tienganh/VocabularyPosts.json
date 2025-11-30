@@ -1529,6 +1529,42 @@
 			"content": "Delicately /ˈdɛlɪkətli/ ⬤••• (4x) thường được sử dụng để miêu tả một hành động được thực hiện một cách khéo léo, nhẹ nhàng, hoặc một tình huống đòi hỏi sự tinh tế và nhạy cảm.",
 			"slug": "vocabulary/delicately-2",
 			"date": "2024-11-14"
+		},
+		{ 
+			"id": "Softly1",
+			"categoryDisplay": "Tính nhẹ nhàng",
+			"categorySlug": "vocabulary#tinh-nhe-nhang-terms",
+			"title": "softly 1",
+			"content": "Từ \"softly\" được dùng để miêu tả một hành động được thực hiện một cách nhẹ nhàng, không mạnh mẽ, thường mang ý nghĩa êm dịu, thoải mái. Nó cũng có thể dùng để miêu tả âm thanh nhẹ nhàng, không ồn ào.",
+			"slug": "vocabulary/softly-1",
+			"date": "2024-11-12"
+		},
+		{ 
+			"id": "Softly2",
+			"categoryDisplay": "Tính nhẹ nhàng",
+			"categorySlug": "vocabulary#tinh-nhe-nhang-terms",
+			"title": "softly 2",
+			"content": "Softly /ˈsɒftli/ ⬤• (2x) là một trạng từ thường được sử dụng để miêu tả một hành động được thực hiện một cách nhẹ nhàng, dịu dàng, không mạnh mẽ.",
+			"slug": "vocabulary/softly-2",
+			"date": "2024-11-12"
+		},
+		{ 
+			"id": "Tenderly1",
+			"categoryDisplay": "Tính nhẹ nhàng",
+			"categorySlug": "vocabulary#tinh-nhe-nhang-terms",
+			"title": "tenderly 1",
+			"content": "Từ \"tenderly\" miêu tả một hành động hoặc lời nói được thực hiện một cách dịu dàng, trìu mến, thể hiện sự quan tâm, yêu thương và lòng trắc ẩn.",
+			"slug": "vocabulary/tenderly-1",
+			"date": "2025-04-01"
+		},
+		{ 
+			"id": "Tenderly2",
+			"categoryDisplay": "Tính nhẹ nhàng",
+			"categorySlug": "vocabulary#tinh-nhe-nhang-terms",
+			"title": "tenderly 2",
+			"content": "Tenderly /ˈten.dər.li/ ⬤•• (3x) thường được dùng để mô tả một hành động hoặc lời nói được thực hiện một cách dịu dàng, trìu mến, thể hiện sự quan tâm và yêu thương.",
+			"slug": "vocabulary/tenderly-2",
+			"date": "2025-04-01"
 		}
 	]
 }

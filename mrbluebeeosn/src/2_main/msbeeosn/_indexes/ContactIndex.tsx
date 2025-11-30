@@ -68,7 +68,7 @@ export default function ContactIndex(): React.JSX.Element {
 
             <div className="contact-item">
               <FontAwesomeIcon icon={faTelegram} />
-              <Link to="https://t.me/MrBeeOsn" className="email-link" target="_blank">
+              <Link to="https://t.me/AccountingBee" className="email-link" target="_blank">
                 Telegram
               </Link>
             </div>

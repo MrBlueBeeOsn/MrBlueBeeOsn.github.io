@@ -1114,6 +1114,24 @@ export default function VocabularyIndex(): React.JSX.Element {
 						</li>
 
 						<li>
+							<Link to="/vocabulary/softly-1">softly
+								<sup>&nbsp;1&nbsp;</sup>
+									</Link> 
+									<Link to="/vocabulary/softly-2">
+								<sup>&nbsp;2&nbsp;</sup>
+							</Link>
+						</li>
+
+						<li>
+							<Link to="/vocabulary/tenderly-1">tenderly
+								<sup>&nbsp;1&nbsp;</sup>
+									</Link> 
+									<Link to="/vocabulary/tenderly-2">
+								<sup>&nbsp;2&nbsp;</sup>
+							</Link>
+						</li>
+
+						<li>
 							<Link to="/vocabulary/delicately-1">delicately
 								<sup>&nbsp;1&nbsp;</sup>
 									</Link> 
@@ -1121,8 +1139,6 @@ export default function VocabularyIndex(): React.JSX.Element {
 								<sup>&nbsp;2&nbsp;</sup>
 							</Link>
 						</li>
-
-						
 
 					</ul>
 					
