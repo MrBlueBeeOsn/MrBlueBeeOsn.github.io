@@ -55,33 +55,6 @@
 			"date": "2025-11-30"
 		},
 		{ 
-			"id": "DichCumDanhTuTiengAnh",
-			"categoryDisplay": "Tiếng Anh",
-			"categorySlug": "tieng-anh",
-			"title": "Hướng Dẫn Dịch Cụm Danh Từ Tiếng Anh",
-			"content": "Để dịch chính xác và tự nhiên, bạn có thể áp dụng nguyên tắc \"danh từ dịch trước, tính từ dịch sau\", đồng thời đặt các tính từ hoặc danh từ ghép vào dấu ngoặc đơn trong cấu trúc cụm danh từ để dễ nhớ và xử lý.",
-			"slug": "tieng-anh/huong-dan-dich-cum-danh-tu-tieng-anh",
-			"date": "2025-10-04"
-		},
-		{ 
-			"id": "DichCumDongTuTiengAnh",
-			"categoryDisplay": "Tiếng Anh",
-			"categorySlug": "tieng-anh",
-			"title": "Hướng Dẫn Dịch Cụm Động Từ Tiếng Anh",
-			"content": "Để dịch cụm động từ sang tiếng Việt một cách tự nhiên và đúng ngữ pháp, bạn có thể áp dụng nguyên tắc \"động từ dịch trước, trạng từ dịch sau\", đồng thời đặt các trạng từ hoặc bổ ngữ vào dấu ngoặc đơn trong cấu trúc cụm động từ để dễ nhận diện và xử lý.",
-			"slug": "tieng-anh/huong-dan-dich-cum-dong-tu-tieng-anh",
-			"date": "2025-10-06"
-		},
-		{ 
-			"id": "DichCauHoiTiengAnh",
-			"categoryDisplay": "Tiếng Anh",
-			"categorySlug": "tieng-anh",
-			"title": "Hướng Dẫn Dịch Câu Hỏi Tiếng Anh",
-			"content": "Để dịch chính xác, bạn có thể áp dụng nguyên tắc \"chủ ngữ dịch trước, động từ chính và trợ động từ (nếu có) dịch sau, tiếp đến là các bổ nghĩa, cuối cùng mới dịch từ để hỏi\", đồng thời đặt từ để hỏi và trợ động từ (hoặc động từ chính nếu không có trợ động từ) vào dấu ngoặc đơn để dễ nhận diện.",
-			"slug": "tieng-anh/huong-dan-dich-cau-hoi-tieng-anh",
-			"date": "2025-10-11"
-		},
-		{ 
 			"id": "GiaoVienTiengAnh",
 			"categoryDisplay": "Tiếng Anh",
 			"categorySlug": "tieng-anh",

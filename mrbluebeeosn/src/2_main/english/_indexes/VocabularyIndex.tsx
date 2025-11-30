@@ -614,6 +614,24 @@ export default function VocabularyIndex(): React.JSX.Element {
 						</li>
 
 						<li>
+							<Link to="/vocabulary/joyfully-1">joyfully
+								<sup>&nbsp;1&nbsp;</sup>
+									</Link> 
+									<Link to="/vocabulary/joyfully-2">
+								<sup>&nbsp;2&nbsp;</sup>
+							</Link>
+						</li>
+
+						<li>
+							<Link to="/vocabulary/cheerfully-1">cheerfully
+								<sup>&nbsp;1&nbsp;</sup>
+									</Link> 
+									<Link to="/vocabulary/cheerfully-2">
+								<sup>&nbsp;2&nbsp;</sup>
+							</Link>
+						</li>
+
+						<li>
 							<Link to="/vocabulary/positively-1">positively
 								<sup>&nbsp;1&nbsp;</sup>
 									</Link> 
@@ -621,8 +639,6 @@ export default function VocabularyIndex(): React.JSX.Element {
 								<sup>&nbsp;2&nbsp;</sup>
 							</Link>
 						</li>
-
-						
 						
 					</ul>
 

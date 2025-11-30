@@ -1457,6 +1457,42 @@
 			"content": "Positively /ˈpɒz.ə.tɪv.li/ ⬤••• (4x) thường được dùng để mô tả một hành động, suy nghĩ hoặc kết quả mang tính tích cực, tốt đẹp.",
 			"slug": "vocabulary/positively-2",
 			"date": "2025-03-29"
+		},
+		{ 
+			"id": "Joyfully1",
+			"categoryDisplay": "Tính tích cực",
+			"categorySlug": "vocabulary#tinh-tich-cuc-terms",
+			"title": "joyfully 1",
+			"content": "Từ \"joyfully\" được sử dụng để miêu tả một hành động được thực hiện với niềm vui, sự thích thú và sự phấn khích. Nó thể hiện một trạng thái cảm xúc tích cực và vui vẻ.",
+			"slug": "vocabulary/joyfully-1",
+			"date": "2024-11-07"
+		},
+		{ 
+			"id": "Joyfully2",
+			"categoryDisplay": "Tính tích cực",
+			"categorySlug": "vocabulary#tinh-tich-cuc-terms",
+			"title": "joyfully 2",
+			"content": "Joyfully /ˈdʒɔɪfəli/ ⬤•• (3x) thường được dùng để mô tả một hành động, cảm xúc hoặc trạng thái được thực hiện hoặc trải nghiệm với niềm vui sướng, hạnh phúc.",
+			"slug": "vocabulary/joyfully-2",
+			"date": "2024-11-07"
+		},
+		{ 
+			"id": "Cheerfully1",
+			"categoryDisplay": "Tính tích cực",
+			"categorySlug": "vocabulary#tinh-tich-cuc-terms",
+			"title": "cheerfully 1",
+			"content": "Từ \"cheerfully\" được dùng để miêu tả một hành động hoặc thái độ được thực hiện một cách vui vẻ, lạc quan, thể hiện sự hài lòng hoặc hứng thú.",
+			"slug": "vocabulary/cheerfully-1",
+			"date": "2024-11-14"
+		},
+		{ 
+			"id": "Cheerfully2",
+			"categoryDisplay": "Tính tích cực",
+			"categorySlug": "vocabulary#tinh-tich-cuc-terms",
+			"title": "cheerfully 2",
+			"content": "Cheerfully /ˈtʃɪrfəli/ ⬤•• (3x) là một trạng từ dùng để miêu tả một hành động được thực hiện một cách vui vẻ, hồ hởi, tích cực.",
+			"slug": "vocabulary/cheerfully-2",
+			"date": "2024-11-14"
 		}
 	]
 }

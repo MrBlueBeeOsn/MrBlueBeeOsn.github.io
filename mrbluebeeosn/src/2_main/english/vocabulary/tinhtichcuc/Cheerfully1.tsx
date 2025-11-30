@@ -5,9 +5,9 @@ import EyeIcon from '@/components/view/EyeIcon';
 import ViewCounter from '@/components/view/ViewCounter';
 import LikeButton from '@/components/like/LikeButton';
 
-export default function Happily1(): React.JSX.Element {
+export default function Cheerfully1(): React.JSX.Element {
 
-  const postId = "Happily1";
+  const postId = "Cheerfully1";
 
   return (<>
 
@@ -17,35 +17,35 @@ export default function Happily1(): React.JSX.Element {
     
       <h4><HashLink smooth to="/vocabulary#tinh-tich-cuc-terms"><mark className="highlight-tertiary-padding-4-8">Tính tích cực</mark></HashLink></h4>
       
-      <h1 className="margin-y-50 text-center">happily
-        <sup><Link to="/vocabulary/happily-1">&nbsp;1&nbsp;</Link>
+      <h1 className="margin-y-50 text-center">cheerfully
+        <sup><Link to="/vocabulary/cheerfully-1">&nbsp;1&nbsp;</Link>
         </sup>
-        <sup><Link to="/vocabulary/happily-2">&nbsp;2&nbsp;</Link>
+        <sup><Link to="/vocabulary/cheerfully-2">&nbsp;2&nbsp;</Link>
         </sup>
       </h1>
 
       {/* This is the content of Vocabulary Term. */}
       
-      <p>Tuyệt vời! Chúng ta cùng khám phá từ "<strong>happily</strong>" nhé.</p>
+      <p>Tuyệt vời! Chúng ta cùng khám phá từ "<strong>cheerfully</strong>" nhé.</p>
 
       <div className="text-border1 padding-top-20 padding-bottom-10 highlight-238-padding-4-8 bee-container">
 
         <div>
 
-          <p className="margin-bottom-20"><strong>Happily</strong></p>
+          <p className="margin-bottom-20"><strong>Cheerfully</strong></p>
 
           <ul className="list-square padding-left-40">
 
             <li>
               <span className="highlight-255-padding-3-6">
-                /ˈhæpəli/ + /<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">happi̛ly</Link>/
+                /ˈtʃɪrfəli/ + /<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">cheerfưlly</Link>/
                 <sup>&nbsp;⬤•• (3x)</sup>
               </span>
             </li>
 
             <li>Trạng từ (<Link to="/grammar/what-is-an-adverb?">adverb</Link>)</li>
 
-            <li>Một cách hạnh phúc</li>
+            <li>Một cách vui vẻ, hồ hởi</li>
 
           </ul>
 
@@ -57,15 +57,15 @@ export default function Happily1(): React.JSX.Element {
 
       </div>
 
-      <p className="margin-top-30 text-indent-whole">Từ "<strong>happily</strong>" được dùng để mô tả một hành động, trạng thái hoặc tình huống diễn ra trong niềm vui, sự hài lòng và mãn nguyện. Nó thể hiện cảm xúc tích cực của con người.</p>
+      <p className="margin-top-30 text-indent-whole">Từ "<strong>cheerfully</strong>" được dùng để miêu tả một hành động hoặc thái độ được thực hiện một cách vui vẻ, lạc quan, thể hiện sự hài lòng hoặc hứng thú.</p>
 
       <p className="text-indent-whole">Ví dụ:</p>
 
         <ul className="list-square">
 
-          <li>They lived <strong>happily</strong> ever after. (Họ sống hạnh phúc mãi mãi.)</li>
+          <li>She greeted me <strong>cheerfully</strong> this morning. (Cô ấy chào tôi một cách vui vẻ vào sáng nay.)</li>
 
-          <li>She smiled <strong>happily</strong>. (Cô ấy cười một cách hạnh phúc.)</li>
+          <li>He whistled <strong>cheerfully</strong> as he worked. (Anh ấy huýt sáo vui vẻ khi làm việc.)</li>
 
         </ul>
 
@@ -81,11 +81,14 @@ export default function Happily1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Happy (adj): hạnh phúc /ˈhæpi/</li>
-          <li className="margin-bottom-20 list-none">I am very happy to see you. (Tôi rất vui khi gặp bạn.)</li>
+          <li>Cheer (v): Cổ vũ, làm vui lòng /tʃɪər/</li>
+          <li className="margin-bottom-20 list-none">The crowd cheered the team on. (C đám đông cổ vũ đội bóng.)</li>
 
-          <li>Happiness (n): hạnh phúc /ˈhæpinəs/</li>
-          <li className="list-none">Happiness is the key to a good life. (Hạnh phúc là chìa khóa cho một cuộc sống tốt đẹp.)</li>
+          <li>Cheer (n): Sự vui mừng, sự cổ vũ /tʃɪər/</li>
+          <li className="margin-bottom-20 list-none">Her cheer brightened up the room. (Sự vui vẻ của cô ấy làm căn phòng sáng bừng lên.)</li>
+
+          <li>Cheerful (adj): Vui vẻ, hồ hởi /ˈtʃɪərfəl/</li>
+          <li className="list-none">She has a cheerful personality. (Cô ấy có một tính cách vui vẻ.)</li>
 
         </ul>
 
@@ -101,11 +104,11 @@ export default function Happily1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li><Link to="/vocabulary/joyfully-1">Joyfully</Link>: Một cách vui mừng /ˈdʒɔɪfəli/</li>
-          <li className="margin-bottom-20 list-none">The children played joyfully. (Những đứa trẻ chơi một cách vui mừng.)</li>
+          <li><Link to="/vocabulary/happily-1">Happily</Link>: Một cách hạnh phúc /ˈhæpɪli/</li>
+          <li className="margin-bottom-20 list-none">They lived happily ever after. (Họ sống hạnh phúc mãi mãi.)</li>
 
-          <li>Gladly: Một cách vui vẻ /ˈɡlædli/</li>
-          <li className="list-none">I will gladly help you. (Tôi rất vui lòng giúp bạn.)</li>
+          <li><Link to="/vocabulary/joyfully-1">Joyfully</Link>: Một cách vui mừng /ˈdʒɔɪfəli/</li>
+          <li className="list-none">She danced joyfully. (Cô ấy nhảy múa một cách vui mừng.)</li>
 
         </ul>
 
@@ -124,10 +127,10 @@ export default function Happily1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>Sadly: Một cách buồn bã /ˈsædli/</li>
-          <li className="margin-bottom-20 list-none">Sadly, he lost his job. (Buồn thay, anh ấy mất việc.)</li>
+          <li className="margin-bottom-20 list-none">He shook his head sadly. (Anh ấy lắc đầu một cách buồn bã.)</li>
 
-          <li>Unhappily: Một cách bất hạnh /ʌnˈhæpɪli/</li>
-          <li className="list-none">She lived unhappily ever after. (Cô ấy sống bất hạnh mãi mãi.)</li>
+          <li>Grumpily: Một cách cáu kỉnh /ˈɡrʌmpɪli/</li>
+          <li className="list-none">He answered grumpily. (Anh ấy trả lời một cách cáu kỉnh.)</li>
 
         </ul>
       
@@ -148,12 +151,12 @@ export default function Happily1(): React.JSX.Element {
         <strong>&nbsp;với hình ảnh</strong>:
       </p>
 
-      <p className="text-indent-whole">Hình dung một người đang cười và ôm một chú chó con.</p>
+      <p className="text-indent-whole">Hình dung một người đang cười tươi rói.</p>
 
         <ul className="list-square">
 
-          <li>She is <strong>happily</strong> cuddling a puppy.</li>
-          <li className="list-none">(Cô ấy đang ôm một chú chó con một cách hạnh phúc.)</li>
+          <li>They are grinning <strong>cheerfully</strong>.</li>
+          <li className="list-none">(Họ đang cười toe toét.)</li>
 
         </ul>
 
@@ -168,12 +171,12 @@ export default function Happily1(): React.JSX.Element {
         <strong>&nbsp;ví dụ</strong>:
       </p>
 
-      <p className="text-indent-whole">Tự tạo các câu ví dụ khác nhau với từ "<strong>happily</strong>" để diễn tả những khoảnh khắc hạnh phúc trong cuộc sống.</p>
+      <p className="text-indent-whole">Tự tạo các câu ví dụ khác nhau với từ "<strong>cheerfully</strong>" trong nhiều ngữ cảnh khác nhau.</p>
 
         <ul className="list-square">
 
-          <li>She <strong>happily</strong> graduated from university.</li>
-          <li className="list-none">(Cô ấy đã tốt nghiệp đại học một cách vui vẻ.)</li>
+          <li>She <strong>cheerfully</strong> agreed to help me with the project.</li>
+          <li className="list-none">(Cô ấy vui vẻ đồng ý giúp tôi làm dự án.)</li>
 
         </ul>
 
@@ -188,21 +191,21 @@ export default function Happily1(): React.JSX.Element {
         <strong>&nbsp;thường xuyên</strong>:
       </p>
 
-      <p className="text-indent-whole">Thường xuyên sử dụng từ này trong các cuộc hội thoại và bài viết.</p>
+      <p className="text-indent-whole">Thường xuyên sử dụng từ này khi muốn diễn tả sự vui vẻ, hồ hởi.</p>
 
         <p className="text-indent-whole">Ví dụ để so sánh (sự khác biệt):</p>
 
           <ol>
 
-            <li>She went to work. (Cô ấy đi làm.)</li>
+            <li>He answered the question. (Anh ấy trả lời câu hỏi.)</li>
 
-            <li className="margin-bottom-20">She went to work <strong>happily</strong>. (Cô ấy đi làm một cách vui vẻ.)</li>
+            <li className="margin-bottom-20">He answered the question <strong>cheerfully</strong>. (Anh ấy trả lời câu hỏi một cách vui vẻ.)</li>
 
           </ol>
 
       <div className="margin-bottom-20 padding-top-20 text-border1 padding-10 highlight-238-padding-4-8 bee-container">
 
-        <p className="margin-y-10">Sự khác biệt: Câu thứ hai sử dụng "<strong>happily</strong>" để <span className="highlight-255-padding-0-4">nhấn mạnh</span> rằng cô ấy cảm thấy <span className="highlight-255-padding-0-4">vui vẻ khi đi làm</span>, không chỉ đơn thuần là đi làm.</p>
+        <p className="margin-y-10">Sự khác biệt: Câu thứ hai <span className="highlight-255-padding-0-4">nhấn mạnh thái độ tích cực</span> của người <span className="highlight-255-padding-0-4">trả lời</span>.</p>
 
       </div>
 
@@ -218,9 +221,9 @@ export default function Happily1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Cảm xúc tích cực: "<strong>Happily</strong>" luôn liên quan đến những cảm xúc tích cực như vui vẻ, hài lòng.</li>
+          <li>Cảm xúc: "<strong>Cheerfully</strong>" thường liên quan đến cảm xúc tích cực như vui mừng, hạnh phúc.</li>
 
-          <li className="margin-bottom-20">Trạng thái tâm lý: Nó thường được dùng để mô tả trạng thái tâm lý của một người trong một tình huống cụ thể.</li>
+          <li className="margin-bottom-20">Thái độ: Nó miêu tả một thái độ lạc quan, sẵn sàng đối mặt với mọi thứ.</li>
 
         </ul>
 
@@ -231,7 +234,7 @@ export default function Happily1(): React.JSX.Element {
       <div className="viewcounter">
       
         <div className="post-date no-margin">
-          <span>November 4, 2024 · by 💎Gem ·</span>
+          <span>November 14, 2024 · by 💎Gem ·</span>
         </div>
 
         <div className="eye-icon no-margin">
