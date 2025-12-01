@@ -35,19 +35,27 @@ export default function GrammarIndex(): React.JSX.Element {
       <div className="flex-container">
 
         <div className="sub-box">
+        
+          {/* =============================
+              Grammar Terms
+          ============================= */}
 
           <ul className="list-border1">
 
             <li>
-              <Link to="/grammar/what-is-an-adverb?">Adverb</Link>&nbsp;
-              <Link to="/grammar/what-is-a-verb?">Verb</Link>
+              <div className="li-content">
+                <Link to="/grammar/what-is-an-adverb?">Adverb</Link>&nbsp;
+                <Link to="/grammar/what-is-a-verb?">Verb</Link>
+              </div>
             </li>
 
             <li>
-              <Link to="/grammar/what-is-an-adjective?">Adjective</Link>&nbsp;
-              <Link to="/grammar/what-is-a-noun?">Noun</Link>
+              <div className="li-content">
+                <Link to="/grammar/what-is-an-adjective?">Adjective</Link>&nbsp;
+                <Link to="/grammar/what-is-a-noun?">Noun</Link>
+              </div>
             </li>
-
+            
           </ul>
 
         </div>

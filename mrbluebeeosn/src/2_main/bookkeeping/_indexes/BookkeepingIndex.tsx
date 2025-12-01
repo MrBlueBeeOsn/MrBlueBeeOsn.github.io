@@ -33,32 +33,72 @@ export default function BookkeepingIndex(): React.JSX.Element {
 
         <div className="sub-box">
 
+          {/* =============================
+              Người lập trình
+          ============================= */}
+
           <ul className="list-border1">
 
-            <li><Link to="/bookkeeping/what-is-bookkeeping?">Bookkeeping</Link></li>
+            <li>
+              <div className="li-content">
+                <Link to="/bookkeeping/what-is-bookkeeping?">Bookkeeping</Link>
+              </div>
+            </li>
 
-            <li><Link to="/bookkeeping/what-is-accounts-receivable?">Accounts receivable</Link> (AR)</li>
+            <li>
+              <div className="li-content">
+                <Link to="/bookkeeping/what-is-accounts-receivable?">Accounts receivable</Link>&nbsp;(AR)
+              </div>
+            </li>
 
-            <li><Link to="/bookkeeping/what-is-accounts-payable?">Accounts payable</Link> (AP)</li>
+            <li>
+              <div className="li-content">
+                <Link to="/bookkeeping/what-is-accounts-payable?">Accounts payable</Link>&nbsp;(AP)
+              </div>
+            </li>
 
-            <li><Link to="/bookkeeping/what-is-a-journal-entry?">Journal entry</Link></li>
+            <li>
+              <div className="li-content">
+                <Link to="/bookkeeping/what-is-a-journal-entry?">Journal entry</Link>
+              </div>
+            </li>
 
-            <li><Link to="/bookkeeping/what-is-a-general-ledger?">General ledger</Link> (GL)</li>
+            <li>
+              <div className="li-content">
+                <Link to="/bookkeeping/what-is-a-general-ledger?">General ledger</Link>&nbsp;(GL)
+              </div>
+            </li>
 
-            <li><Link to="/bookkeeping/what-is-a-trial-balance?">Trial balance</Link></li>
+            <li>
+              <div className="li-content">
+                <Link to="/bookkeeping/what-is-a-trial-balance?">Trial balance</Link>
+              </div>
+            </li>
 
-            <li><Link to="/bookkeeping/what-is-account-reconciliation?">Account reconciliation</Link></li>
-
+            <li>
+              <div className="li-content">
+                <Link to="/bookkeeping/what-is-account-reconciliation?">Account reconciliation</Link>
+              </div>
+            </li>
+            
           </ul>
 
         </div>
 
         <div className="sub-box">
 
+          {/* =============================
+              Bookkeeper
+          ============================= */}
+
           <ul className="list-border1">
 
-            <li><Link to="/bookkeeping/what-is-a-bookkeeper?">Bookkeeper</Link></li>
-
+            <li>
+              <div className="li-content">
+                <Link to="/bookkeeping/what-is-a-bookkeeper?">Bookkeeper</Link>
+              </div>
+            </li>
+            
           </ul>
 
         </div>
@@ -69,14 +109,21 @@ export default function BookkeepingIndex(): React.JSX.Element {
 
         <div className="sub-box">
 
+          {/* =============================
+              Accounting Links
+          ============================= */}
+
           <ul className="list-border1">
 
-            <li><Link to="https://mrgreenbeeosn.github.io/#/accounting/what-is-accounting">Accounting  <sup><ExternalLink /></sup></Link></li>
-
+            <li>
+              <div className="li-content">
+                <Link to="https://mrgreenbeeosn.github.io/#/accounting/what-is-accounting">Accounting  <sup><ExternalLink /></sup></Link>
+              </div>
+            </li>
+            
           </ul>
 
         </div>
-
 
       </div>
 

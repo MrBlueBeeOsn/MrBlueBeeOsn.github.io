@@ -36,11 +36,23 @@ export default function PronunciationIndex(): React.JSX.Element {
 
         <div className="sub-box">
 
+          {/* =============================
+              Pronunciation Terms
+          ============================= */}
+
           <ul className="list-border1">
 
-            <li><Link to="/pronunciation/what-is-pronunciation?">Pronunciation</Link></li>
+            <li>
+              <div className="li-content">
+                <Link to="/pronunciation/what-is-pronunciation?">Pronunciation</Link>
+              </div>
+            </li>
 
-            <li><Link to="/pronunciation/what-is-IPA?">IPA</Link></li>
+            <li>
+              <div className="li-content">
+                <Link to="/pronunciation/what-is-IPA?">IPA</Link>
+              </div>
+            </li>
             
           </ul>
 
