@@ -18,127 +18,127 @@ interface Question {
 }
 
 const EnglishQuiz0110: React.FC = () => {
-	// Danh sách câu hỏi về kế toán cơ bản
+	// Danh sách câu hỏi về tiếng Anh cơ bản
 	const questions: Question[] = [
 		{
 			id: 1,
-			question: "Which of the following is NOT a core financial statement?",
+			question: "Choose the sentence that is grammatically correct.",
 			options: [
-				"The Income Statement",
-				"The Balance Sheet",
-				"The Trial Balance",
-				"The Cash Flow Statement"
+				"She don't like coffee.",
+				"She doesn't likes coffee.",
+				"She doesn't like coffee.",
+				"She not like coffee."
 			],
 			correctAnswer: 2,
-			explanation: "The Trial Balance is an internal report used to ensure debits equal credits, but it's not one of the core financial statements presented to external users. The core statements are Income Statement, Balance Sheet, Cash Flow Statement, and Statement of Changes in Equity."
+			explanation: "Chủ ngữ \"She\" ngôi thứ ba số ít, nên cần trợ động từ \"does\" + động từ nguyên thể \"like\" trong câu phủ định. Các đáp án khác sai về sự hòa hợp chủ ngữ-động từ."
 		},
 		{
 			id: 2,
-			question: "What is the basic accounting equation?",
+			question: "Identify the correct preposition: He is very good ______ playing the guitar.",
 			options: [
-				"Assets = Liabilities + Owner's Equity",
-				"Assets + Liabilities = Owner's Equity",
-				"Assets = Liabilities - Owner's Equity",
-				"Assets + Owner's Equity = Liabilities"
+				"at",
+				"in",
+				"with",
+				"for"
 			],
 			correctAnswer: 0,
-			explanation: "The basic accounting equation is Assets = Liabilities + Owner's Equity. This equation must always balance and forms the foundation of double-entry bookkeeping."
+			explanation: "Cụm từ cố định \"good at (doing) something\" có nghĩa là giỏi về cái gì/làm gì."
 		},
 		{
 			id: 3,
-			question: "Which principle states that revenue should be recognized when it is earned, not necessarily when cash is received?",
+			question: "Choose the correct meaning of the phrasal verb \"call off\".",
 			options: [
-				"Matching Principle",
-				"Revenue Recognition Principle",
-				"Cost Principle",
-				"Consistency Principle"
+				"to visit someone",
+				"to cancel something",
+				"to shout loudly",
+				"to invite someone"
 			],
 			correctAnswer: 1,
-			explanation: "The Revenue Recognition Principle states that revenue should be recorded when it is earned, regardless of when payment is received. This is part of accrual accounting."
+			explanation: "\"Call off\" có nghĩa là hủy bỏ (một sự kiện, cuộc họp...). Ví dụ: \"The match was called off due to rain.\""
 		},
 		{
 			id: 4,
-			question: "Which of the following accounts is a permanent (real) account?",
+			question: "Which sentence uses the present perfect tense correctly?",
 			options: [
-				"Revenue",
-				"Expenses",
-				"Accounts Payable",
-				"Dividends"
+				"I have seen that movie yesterday.",
+				"I saw that movie yesterday.",
+				"I have seen that movie.",
+				"I see that movie."
 			],
 			correctAnswer: 2,
-			explanation: "Accounts Payable is a permanent (real) account because its balance carries forward to the next accounting period. Revenue, expenses, and dividends are temporary (nominal) accounts that are closed at the end of each period."
+			explanation: "Thì Hiện tại hoàn thành (have/has + past participle) diễn tả một hành động xảy ra ở một thời điểm không xác định trong quá khứ. Nó thường không dùng với các trạng từ chỉ thời gian cụ thể như \"yesterday\" (đáp án a sai). Đáp án b là thì Quá khứ đơn, đúng về ngữ pháp nhưng không phải là Present Perfect theo yêu cầu câu hỏi."
 		},
 		{
 			id: 5,
-			question: "What does GAAP stand for?",
+			question: "What is the synonym of \"benevolent\"?",
 			options: [
-				"Generally Accepted Accounting Principles",
-				"General Accounting Assessment Procedures",
-				"Governmental Accounting Auditing Practices",
-				"Global Accounting and Auditing Protocol"
+				"selfish",
+				"mean",
+				"kind-hearted",
+				"wealthy"
 			],
-			correctAnswer: 0,
-			explanation: "GAAP stands for Generally Accepted Accounting Principles, which are the standard framework of guidelines for financial accounting used in the United States."
+			correctAnswer: 2,
+			explanation: "\"Benevolent\" có nghĩa là nhân từ, hay làm việc thiện, từ đồng nghĩa gần nhất là \"kind-hearted\". Các từ còn lại: selfish (ích kỷ), mean (bần tiện/độc ác), wealthy (giàu có)."
 		},
 		{
 			id: 6,
-			question: "The process of transferring journal entries to ledger accounts is called:",
+			question: "Select the correctly punctuated sentence.",
 			options: [
-				"Journalizing",
-				"Posting",
-				"Balancing",
-				"Adjusting"
+				"Let's eat grandma!",
+				"Let's eat, grandma!",
+				"Lets eat grandma.",
+				"Lets eat, grandma."
 			],
 			correctAnswer: 1,
-			explanation: "Posting is the process of transferring information from journal entries to ledger accounts. Journalizing is the initial recording of transactions in the journal."
+			explanation: "Dấu phẩy (comma) trong câu này là rất quan trọng, nó ngăn cách phần gọi (vocative) \"grandma\". Không có dấu phẩy, câu sẽ thành \"Hãy ăn bà đi!\" thay vì \"Bà ơi, chúng ta ăn thôi!\". \"Let's\" là dạng viết tắt đúng của \"Let us\"."
 		},
 		{
 			id: 7,
-			question: "Which financial statement shows a company's financial position at a specific point in time?",
+			question: "Which option correctly completes this conditional sentence? If I had known, I __________________ you.",
 			options: [
-				"Income Statement",
-				"Statement of Cash Flows",
-				"Balance Sheet",
-				"Statement of Retained Earnings"
+				"will help",
+				"would help",
+				"would have helped",
+				"had helped"
 			],
 			correctAnswer: 2,
-			explanation: "The Balance Sheet (also called Statement of Financial Position) shows a company's assets, liabilities, and equity at a specific point in time (as of a certain date)."
+			explanation: "Đây là câu điều kiện loại 3, diễn tả một giả định không có thực trong quá khứ. Cấu trúc: If + past perfect (had known), would/could/might + have + past participle (would have helped)."
 		},
 		{
 			id: 8,
-			question: "The matching principle in accounting requires:",
+			question: "Find the sentence with the incorrect article usage.",
 			options: [
-				"Assets to be matched with liabilities",
-				"Expenses to be matched with the revenues they help generate",
-				"Cash inflows to be matched with cash outflows",
-				"Debits to be matched with credits"
+				"He is an honest man.",
+				"I need a umbrella.",
+				"She works for an international company.",
+				"The sun rises in the east."
 			],
 			correctAnswer: 1,
-			explanation: "The Matching Principle requires that expenses be recorded in the same accounting period as the revenues they helped generate, ensuring accurate profit measurement."
+			explanation: "Mặc dù \"umbrella\" bắt đầu bằng nguyên âm \"u\", cách phát âm là /ʌmˈbrelə/ (bắt đầu bằng âm /ʌ/ là nguyên âm), nên ta phải dùng \"an umbrella\". \"Honest\" bắt đầu bằng âm câm /ɒ/, nên dùng \"an honest\" là đúng."
 		},
 		{
 			id: 9,
-			question: "Which type of account normally has a credit balance?",
+			question: "Which of the following is an example of the passive voice?",
 			options: [
-				"Assets",
-				"Expenses",
-				"Liabilities",
-				"Dividends"
+				"The chef cooked a wonderful meal.",
+				"The children are playing in the park.",
+				"A wonderful meal was cooked by the chef.",
+				"Does she drive to work?"
 			],
 			correctAnswer: 2,
-			explanation: "Liabilities, equity, and revenue accounts normally have credit balances. Assets, expenses, and dividends normally have debit balances."
+			explanation: "Câu bị động (passive voice) có cấu trúc: Chủ ngữ + to be + Past Participle (V3/ed) (+ by agent). Ở đây, \"was cooked\" là dạng bị động thì quá khứ đơn. Các câu còn lại đều ở dạng chủ động."
 		},
 		{
 			id: 10,
-			question: "What is the purpose of the statement of cash flows?",
+			question: "Choose the option that best expresses the same meaning: \"It's a piece of cake.\"",
 			options: [
-				"To show the profitability of a company",
-				"To show changes in equity over a period",
-				"To show sources and uses of cash during a period",
-				"To show assets and liabilities at a point in time"
+				"It's very difficult.",
+				"It's a delicious dessert.",
+				"It's very easy.",
+				"It's a tricky situation."
 			],
 			correctAnswer: 2,
-			explanation: "The Statement of Cash Flows shows how changes in balance sheet accounts and income affect cash and cash equivalents, breaking down analysis to operating, investing, and financing activities."
+			explanation: "Thành ngữ (idiom) \"a piece of cake\" có nghĩa là việc gì đó rất dễ dàng, đơn giản."
 		}
 	];
 
@@ -148,7 +148,7 @@ const EnglishQuiz0110: React.FC = () => {
 		
 			<article>
 				
-				<h4><HashLink smooth to="/english#english-quiz-01-10"><mark className="highlight-tertiary-padding-4-8">English</mark></HashLink></h4>
+				<h4><HashLink smooth to="/english#english-quiz-01-10"><mark className="highlight-tertiary-padding-4-8">Quiz</mark></HashLink></h4>
 	
 				{/* This is the content of English Quiz. */}
 	
