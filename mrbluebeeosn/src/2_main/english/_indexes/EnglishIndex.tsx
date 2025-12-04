@@ -3,7 +3,7 @@ import { Link } from "react-router-dom";
 import { HashLink } from 'react-router-hash-link';
 import EnglishTopic from '@/components/topic/EnglishTopic';
 import SearchComponent from '@/components/search/SearchComponent';
-import VideoSearch2 from '@/components/video/VideoSearch2';
+import VideoSearch2 from '@/components/video/test/VideoSearch2';
 
 export default function EnglishIndex(): React.JSX.Element {
   return (<>
