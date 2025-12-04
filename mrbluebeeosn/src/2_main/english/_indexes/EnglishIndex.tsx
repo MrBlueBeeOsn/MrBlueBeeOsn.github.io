@@ -38,9 +38,9 @@ export default function EnglishIndex(): React.JSX.Element {
               English Quiz
         ============================= */}
 
-        <details className="sub-box-fix">
+        <details className="sub-box-fix margin-bottom-20">
       
-          <summary><mark className="highlight-secondary-padding-2-4">English Quiz</mark></summary>
+          <summary id="english-quiz-01-10"><mark className="highlight-secondary-padding-2-4">Quiz</mark></summary>
 
           <ul className="list-border1">
 

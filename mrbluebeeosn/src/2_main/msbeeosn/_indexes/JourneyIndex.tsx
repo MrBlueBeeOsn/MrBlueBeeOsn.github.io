@@ -38,7 +38,7 @@ export default function JourneyIndex(): React.JSX.Element {
           <thead>
 
             <tr>
-              <th>Date</th>
+              <th>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</th>
               <th>Updated</th>
             </tr>
 
@@ -110,10 +110,14 @@ export default function JourneyIndex(): React.JSX.Element {
                 <td>Successfully add Video Search.</td>
             </tr>
 
-            {/* <tr>
-                <td>20</td>
-                <td>Successfully add YouGlish Widget1.</td>
-            </tr> */}
+        {/* =============================
+            Tháng 12
+        ============================= */}
+
+            <tr>
+                <td>Dec. 20</td>
+                <td>Successfully add Quiz.</td>
+            </tr>
 
           </tbody>
         </table>
