@@ -47,6 +47,9 @@ const Posts = lazy(() => import('@/data/Posts'));
   const TheEnglishLanguage = lazy(() => import('@/2_main/english/TheEnglishLanguage'));
   const EnglishTeacher = lazy(() => import('@/2_main/english/EnglishTeacher'));
 
+  // EnglishQuiz0110
+  const EnglishQuiz0110 = lazy(() => import('@/2_main/english/quiz/EnglishQuiz0110'));
+
   // 2. Grammar
   const GrammarIndex = lazy(() => import('@/2_main/english/_indexes/GrammarIndex'));
   const Adverb = lazy(() => import('@/2_main/english/grammar/Adverb'));
@@ -353,6 +356,9 @@ export default function AppRoutes(): React.JSX.Element {
           <Route path="/english/what-is-english?" element={<English />} />
           <Route path="/english/what-is-the-english-language?" element={<TheEnglishLanguage />} />
           <Route path="/english/what-is-an-english-teacher?" element={<EnglishTeacher />} />
+
+          {/* Quiz */}
+          <Route path="/english/english-quiz-01-10" element={<EnglishQuiz0110 />} />
 
           {/* 2. Grammar */}
           <Route path="/grammar" element={<GrammarIndex />} />
