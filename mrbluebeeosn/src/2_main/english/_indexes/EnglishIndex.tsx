@@ -38,19 +38,23 @@ export default function EnglishIndex(): React.JSX.Element {
               English Quiz
         ============================= */}
 
-        <details className="sub-box-fix margin-bottom-20">
+        <details className="sub-box-fix-2 margin-bottom-20">
       
-          <summary id="english-quiz-01-10"><mark className="highlight-secondary-padding-2-4">Quiz</mark></summary>
+          <summary id="english-multiple-choice"><mark className="highlight-secondary-padding-2-4">Quiz</mark></summary>
 
           <ul className="list-border1">
 
             <li>
               <div className="li-content">
-                <Link to="/english/english-quiz-01-10">1-10</Link>
+                <Link to="/english/english-multiple-choice">English Multiple Choice</Link>
               </div>
             </li>
 
-
+            <li>
+              <div className="li-content">
+                <Link to="/english/mixed-english-grammar-&-vocabulary">Mixed English Grammar & Vocabulary</Link>
+              </div>
+            </li>
             
           </ul>
 

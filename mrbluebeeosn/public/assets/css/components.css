@@ -681,7 +681,6 @@ td:nth-child(1):hover {
 	gap: 2rem;
 	flex-wrap: wrap;
 	justify-content: space-around;
-	margin-bottom: 2rem;
 }
 
 .flex-container > div:only-child {
@@ -753,20 +752,36 @@ td:nth-child(1):hover {
 	flex-direction: column;
 }
 
+.sub-box-fix-2 {
+	background-color: rgba(255, 255, 255, 0.5);
+	border-radius: 2px;
+	box-shadow: 0 2px 4px rgba(0, 0, 0, 0.15);
+	padding: 0.5rem;
+	overflow: hidden;
+	flex: 1; /* Makes both columns take up equal available space */
+	width: 50rem;
+	flex-wrap: wrap;
+	word-break: break-word;
+	flex: 0 0 calc((100% - 2rem) / 2); /* Tổng khoảng cách giữa 2 hộp là 2rem × 1 = 2rem */
+	flex-direction: column;
+}
+
 .sub-box ul,
-.sub-box-fix ul {
+.sub-box-fix ul,
+.sub-box-fix-2 ul {
 		list-style-position: outside;
 		padding-left: 30px;
 }
 
 .sub-box li,
-.sub-box-fix li {
-		display: list-item; /* giữ kiểu danh sách */
-	
+.sub-box-fix li,
+.sub-box-fix-2 li {
+  	display: list-item; /* giữ kiểu danh sách */
+  
 }
 
 .li-content {
-		display: flex;
+  	display: flex;
 }
 
 /* =============================

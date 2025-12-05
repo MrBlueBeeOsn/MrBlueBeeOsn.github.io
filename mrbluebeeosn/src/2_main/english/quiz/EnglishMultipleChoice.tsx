@@ -17,7 +17,7 @@ interface Question {
 	explanation: string;
 }
 
-export default function EnglishQuiz0110(): React.JSX.Element {
+export default function EnglishMultipleChoice(): React.JSX.Element {
 	// Danh sách câu hỏi về English cơ bản
 	const questions: Question[] = [
 		{
@@ -148,7 +148,7 @@ export default function EnglishQuiz0110(): React.JSX.Element {
 		
 			<article>
 				
-				<h4><HashLink smooth to="/english#english-quiz-01-10"><mark className="highlight-tertiary-padding-4-8">Quiz</mark></HashLink></h4>
+				<h4><HashLink smooth to="/english#english-multiple-choice"><mark className="highlight-tertiary-padding-4-8">Quiz</mark></HashLink></h4>
 	
 				{/* This is the content of English Quiz. */}
 	
