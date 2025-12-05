@@ -17,8 +17,8 @@ interface Question {
 	explanation: string;
 }
 
-const EnglishQuiz0110: React.FC = () => {
-	// Danh sách câu hỏi về tiếng Anh cơ bản
+export default function EnglishQuiz0110(): React.JSX.Element {
+	// Danh sách câu hỏi về English cơ bản
 	const questions: Question[] = [
 		{
 			id: 1,
@@ -30,7 +30,7 @@ const EnglishQuiz0110: React.FC = () => {
 				"She not like coffee."
 			],
 			correctAnswer: 2,
-			explanation: "Chủ ngữ \"She\" ngôi thứ ba số ít, nên cần trợ động từ \"does\" + động từ nguyên thể \"like\" trong câu phủ định. Các đáp án khác sai về sự hòa hợp chủ ngữ-động từ."
+			explanation: "The subject \"She\" is a third-person singular pronoun. In the negative present simple tense, it requires the auxiliary verb \"does\" + the base form of the main verb \"like\". The other options demonstrate errors in subject-verb agreement."
 		},
 		{
 			id: 2,
@@ -42,7 +42,7 @@ const EnglishQuiz0110: React.FC = () => {
 				"for"
 			],
 			correctAnswer: 0,
-			explanation: "Cụm từ cố định \"good at (doing) something\" có nghĩa là giỏi về cái gì/làm gì."
+			explanation: "The fixed adjective preposition combination is \"good at (doing) something,\" which means to have talent or skill in a particular area."
 		},
 		{
 			id: 3,
@@ -54,7 +54,7 @@ const EnglishQuiz0110: React.FC = () => {
 				"to invite someone"
 			],
 			correctAnswer: 1,
-			explanation: "\"Call off\" có nghĩa là hủy bỏ (một sự kiện, cuộc họp...). Ví dụ: \"The match was called off due to rain.\""
+			explanation: "The phrasal verb \"to call off\" means to cancel an event or activity. Example: \"They called off the meeting due to illness.\""
 		},
 		{
 			id: 4,
@@ -66,7 +66,7 @@ const EnglishQuiz0110: React.FC = () => {
 				"I see that movie."
 			],
 			correctAnswer: 2,
-			explanation: "Thì Hiện tại hoàn thành (have/has + past participle) diễn tả một hành động xảy ra ở một thời điểm không xác định trong quá khứ. Nó thường không dùng với các trạng từ chỉ thời gian cụ thể như \"yesterday\" (đáp án a sai). Đáp án b là thì Quá khứ đơn, đúng về ngữ pháp nhưng không phải là Present Perfect theo yêu cầu câu hỏi."
+			explanation: "The present perfect tense (have/has + past participle) describes an action that occurred at an unspecified time in the past or has relevance to the present. It is generally not used with specific time adverbs like \"yesterday\" (making option a incorrect). Option b is grammatically correct but is in the simple past tense, not the present perfect as requested."
 		},
 		{
 			id: 5,
@@ -78,7 +78,7 @@ const EnglishQuiz0110: React.FC = () => {
 				"wealthy"
 			],
 			correctAnswer: 2,
-			explanation: "\"Benevolent\" có nghĩa là nhân từ, hay làm việc thiện, từ đồng nghĩa gần nhất là \"kind-hearted\". Các từ còn lại: selfish (ích kỷ), mean (bần tiện/độc ác), wealthy (giàu có)."
+			explanation: "\"Benevolent\" means well-meaning and kindly, so the closest synonym is \"kind-hearted.\" The other words are antonyms (selfish, mean) or unrelated (wealthy)."
 		},
 		{
 			id: 6,
@@ -90,7 +90,7 @@ const EnglishQuiz0110: React.FC = () => {
 				"Lets eat, grandma."
 			],
 			correctAnswer: 1,
-			explanation: "Dấu phẩy (comma) trong câu này là rất quan trọng, nó ngăn cách phần gọi (vocative) \"grandma\". Không có dấu phẩy, câu sẽ thành \"Hãy ăn bà đi!\" thay vì \"Bà ơi, chúng ta ăn thôi!\". \"Let's\" là dạng viết tắt đúng của \"Let us\"."
+			explanation: "The comma is crucial here as it separates the vocative (\"grandma\") from the main clause. Without it, the sentence suggests cannibalism (\"Let's eat grandma!\"). The correct meaning is an invitation: \"Grandma, let's eat.\" \"Let's\" is the correct contraction of \"Let us.\""
 		},
 		{
 			id: 7,
@@ -102,7 +102,7 @@ const EnglishQuiz0110: React.FC = () => {
 				"had helped"
 			],
 			correctAnswer: 2,
-			explanation: "Đây là câu điều kiện loại 3, diễn tả một giả định không có thực trong quá khứ. Cấu trúc: If + past perfect (had known), would/could/might + have + past participle (would have helped)."
+			explanation: "This is a third conditional sentence, used to talk about a hypothetical situation in the past and its impossible result. The structure is: If + past perfect (had known), would/could/might + have + past participle (would have helped)."
 		},
 		{
 			id: 8,
@@ -114,7 +114,7 @@ const EnglishQuiz0110: React.FC = () => {
 				"The sun rises in the east."
 			],
 			correctAnswer: 1,
-			explanation: "Mặc dù \"umbrella\" bắt đầu bằng nguyên âm \"u\", cách phát âm là /ʌmˈbrelə/ (bắt đầu bằng âm /ʌ/ là nguyên âm), nên ta phải dùng \"an umbrella\". \"Honest\" bắt đầu bằng âm câm /ɒ/, nên dùng \"an honest\" là đúng."
+			explanation: "The choice of the indefinite article depends on the sound that follows it. Although \"umbrella\" begins with the letter 'u', it is pronounced with an initial vowel sound /ʌ/. Therefore, it requires \"an umbrella.\" \"Honest\" begins with a silent 'h', so it correctly takes \"an.\""
 		},
 		{
 			id: 9,
@@ -126,7 +126,7 @@ const EnglishQuiz0110: React.FC = () => {
 				"Does she drive to work?"
 			],
 			correctAnswer: 2,
-			explanation: "Câu bị động (passive voice) có cấu trúc: Chủ ngữ + to be + Past Participle (V3/ed) (+ by agent). Ở đây, \"was cooked\" là dạng bị động thì quá khứ đơn. Các câu còn lại đều ở dạng chủ động."
+			explanation: "A passive voice construction places the object of an action as the subject of the sentence. The structure is: Subject + a form of 'to be' + past participle (+ by + agent). Here, \"was cooked\" is the passive form in the simple past tense. The other sentences are in the active voice."
 		},
 		{
 			id: 10,
@@ -138,7 +138,7 @@ const EnglishQuiz0110: React.FC = () => {
 				"It's a tricky situation."
 			],
 			correctAnswer: 2,
-			explanation: "Thành ngữ (idiom) \"a piece of cake\" có nghĩa là việc gì đó rất dễ dàng, đơn giản."
+			explanation: "This is an idiom. \"A piece of cake\" is a common metaphorical expression meaning something is very easy to do."
 		}
 	];
 
@@ -167,5 +167,3 @@ const EnglishQuiz0110: React.FC = () => {
 		</main>
 	);
 };
-
-export default EnglishQuiz0110;
