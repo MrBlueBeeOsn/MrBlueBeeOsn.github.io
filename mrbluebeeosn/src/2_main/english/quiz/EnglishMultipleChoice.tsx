@@ -1,7 +1,7 @@
-// EnglishQuizDPDK.tsx
+// EnglishPracticeQuizDPDK.tsx
 
 import React, { useState, useEffect } from 'react';
-import EnglishQuiz from '../../../components/quiz/EnglishPracticeQuiz';
+import EnglishPracticeQuiz from '../../../components/quiz/EnglishPracticeQuiz';
 
 import { Link } from "react-router-dom";
 import { HashLink } from 'react-router-hash-link';
@@ -157,7 +157,7 @@ export default function EnglishMultipleChoice(): React.JSX.Element {
 	
 				{/* This is the content of English Quiz. */}
 	
-				<EnglishQuiz questions={questions} />
+				<EnglishPracticeQuiz questions={questions} />
 	
 				<div className="viewcounter">
 	

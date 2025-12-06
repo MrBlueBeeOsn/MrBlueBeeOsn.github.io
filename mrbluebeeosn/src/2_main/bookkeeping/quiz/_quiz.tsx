@@ -1,7 +1,7 @@
-// EnglishPracticeQuizDPDK.tsx
+// BookkeepingPracticeQuizDPDK.tsx
 
 import React, { useState, useEffect } from 'react';
-import EnglishPracticeQuiz from '../../../components/quiz/EnglishPracticeQuiz';
+import BookkeepingPracticeQuiz from '../../../components/quiz/BookkeepingPracticeQuiz';
 
 import { Link } from "react-router-dom";
 import { HashLink } from 'react-router-hash-link';
@@ -152,7 +152,7 @@ export default function (): React.JSX.Element {
 	
 				{/* This is the content of English Quiz. */}
 	
-				<EnglishPracticeQuiz questions={questions} />
+				<BookkeepingPracticeQuiz questions={questions} />
 	
 				<div className="viewcounter">
 	
