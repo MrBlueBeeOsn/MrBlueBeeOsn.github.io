@@ -43,7 +43,7 @@ export default function BookkeepingIndex(): React.JSX.Element {
 
             <li>
               <div className="li-content">
-                <Link to="/english/english-multiple-choice">English Multiple Choice</Link>
+                <Link to="/bookkeeping/questions-&-answers">Questions & Answers</Link>
               </div>
             </li>
 
