@@ -1,5 +1,5 @@
 /* EnglishQuizDPSK */
-.english-quiz-container {
+.practice-quiz-container {
 	max-width: 900px;
 	margin: 0 auto;
 	/* padding: 20px; */
@@ -387,7 +387,7 @@
 
 /* Responsive adjustments */
 @media (max-width: 768px) {
-	.english-quiz-container {
+	.practice-quiz-container {
 		padding: 15px;
 	}
 	

@@ -1,4 +1,4 @@
-// EnglishQuizDPDK.tsx
+// EnglishPracticeQuizDPDK.tsx
 
 import React, { useState, useEffect } from 'react';
 
@@ -16,11 +16,11 @@ interface Question {
 	explanation: string;
 }
 
-interface EnglishQuizProps {
+interface EnglishPracticeQuizProps {
 	questions: Question[];
 }
 
-const EnglishQuiz: React.FC<EnglishQuizProps> = ({ questions }) => {
+const EnglishPracticeQuiz: React.FC<EnglishPracticeQuizProps> = ({ questions }) => {
 
 	// State management
 	const [currentQuestionIndex, setCurrentQuestionIndex] = useState(0);
@@ -103,12 +103,12 @@ const EnglishQuiz: React.FC<EnglishQuizProps> = ({ questions }) => {
 
 	return (<>
 	
-		<div className="english-quiz-container">
+		<div className="practice-quiz-container">
 
-			<header className="quiz-header">
+			{/* <header className="quiz-header">
 				<h1 className="margin-y-50 text-center">English Basic Practice</h1>
 				<p className="subtitle text-center">Test your knowledge of fundamental English concepts</p>
-			</header>
+			</header> */}
 
 			<div className="quiz-content">
 				{!quizCompleted ? (
@@ -268,4 +268,4 @@ const EnglishQuiz: React.FC<EnglishQuizProps> = ({ questions }) => {
 	</>);
 };
 
-export default EnglishQuiz;
+export default EnglishPracticeQuiz;

@@ -1,0 +1,271 @@
+// BookkeepingPracticeQuizDPDK.tsx
+
+import React, { useState, useEffect } from 'react';
+
+import { Link } from "react-router-dom";
+import { HashLink } from 'react-router-hash-link';
+import EyeIcon from '@/components/view/EyeIcon';
+import ViewCounter from '@/components/view/ViewCounter';
+import LikeButton from '@/components/like/LikeButton';
+
+interface Question {
+	id: number;
+	question: string;
+	options: string[];
+	correctAnswer: number;
+	explanation: string;
+}
+
+interface BookkeepingPracticeQuizProps {
+	questions: Question[];
+}
+
+const BookkeepingPracticeQuiz: React.FC<BookkeepingPracticeQuizProps> = ({ questions }) => {
+
+	// State management
+	const [currentQuestionIndex, setCurrentQuestionIndex] = useState(0);
+	const [score, setScore] = useState(0);
+	const [selectedOption, setSelectedOption] = useState<number | null>(null);
+	const [isAnswered, setIsAnswered] = useState(false);
+	const [quizCompleted, setQuizCompleted] = useState(false);
+	const [timePerQuestion, setTimePerQuestion] = useState<number[]>(Array(questions.length).fill(0));
+	const [startTime, setStartTime] = useState<number>(Date.now());
+
+	// Cập nhật thời gian cho câu hỏi hiện tại
+	useEffect(() => {
+		if (!quizCompleted && !isAnswered) {
+			const interval = setInterval(() => {
+				const updatedTimes = [...timePerQuestion];
+				updatedTimes[currentQuestionIndex] = Math.floor((Date.now() - startTime) / 1000);
+				setTimePerQuestion(updatedTimes);
+			}, 1000);
+			
+			return () => clearInterval(interval);
+		}
+	}, [currentQuestionIndex, isAnswered, quizCompleted, startTime, timePerQuestion]);
+
+	// Xử lý khi người dùng chọn đáp án
+	const handleOptionSelect = (optionIndex: number) => {
+		if (isAnswered) return;
+		
+		setSelectedOption(optionIndex);
+		setIsAnswered(true);
+		
+		const currentQuestion = questions[currentQuestionIndex];
+		if (optionIndex === currentQuestion.correctAnswer) {
+			setScore(score + 1);
+		}
+		
+		// Cập nhật thời gian cho câu hỏi này
+		const updatedTimes = [...timePerQuestion];
+		updatedTimes[currentQuestionIndex] = Math.floor((Date.now() - startTime) / 1000);
+		setTimePerQuestion(updatedTimes);
+	};
+
+	// Xử lý chuyển sang câu hỏi tiếp theo
+	const handleNextQuestion = () => {
+		if (currentQuestionIndex < questions.length - 1) {
+			setCurrentQuestionIndex(currentQuestionIndex + 1);
+			setSelectedOption(null);
+			setIsAnswered(false);
+			setStartTime(Date.now());
+		} else {
+			setQuizCompleted(true);
+		}
+	};
+
+	// Xử lý quay lại câu hỏi trước
+	const handlePreviousQuestion = () => {
+		if (currentQuestionIndex > 0) {
+			setCurrentQuestionIndex(currentQuestionIndex - 1);
+			setSelectedOption(null);
+			setIsAnswered(false);
+			// Không reset thời gian khi quay lại câu hỏi cũ
+		}
+	};
+
+	// Xử lý restart quiz
+	const handleRestartQuiz = () => {
+		setCurrentQuestionIndex(0);
+		setScore(0);
+		setSelectedOption(null);
+		setIsAnswered(false);
+		setQuizCompleted(false);
+		setTimePerQuestion(Array(questions.length).fill(0));
+		setStartTime(Date.now());
+	};
+
+	// Lấy câu hỏi hiện tại
+	const currentQuestion = questions[currentQuestionIndex];
+	
+	// Tính tổng thời gian
+	const totalTime = timePerQuestion.reduce((total, time) => total + time, 0);
+
+	return (<>
+	
+		<div className="practice-quiz-container">
+
+			{/* <header className="quiz-header">
+				<h1 className="margin-y-50 text-center">Bookkeeping Basic Practice</h1>
+				<p className="subtitle text-center">Test your knowledge of fundamental Bookkeeping concepts</p>
+			</header> */}
+
+			<div className="quiz-content">
+				{!quizCompleted ? (
+					<>
+						{/* <div className="quiz-info">
+							<div className="progress-section">
+								<div className="progress-bar">
+									<div 
+										className="progress-fill" 
+										style={{ width: `${((currentQuestionIndex + 1) / questions.length) * 100}%` }}
+									></div>
+								</div>
+								<div className="progress-text">
+									Question {currentQuestionIndex + 1} of {questions.length}
+								</div>
+							</div>
+							
+							<div className="stats">
+								<div className="score">Score: <span>{score}</span></div>
+								<div className="time">Time on this question: <span>{timePerQuestion[currentQuestionIndex]}s</span></div>
+							</div>
+						</div> */}
+
+						<div className="question-card">
+							<h2 className="question-text">{currentQuestion.question}</h2>
+							
+							<div className="options-container">
+								{currentQuestion.options.map((option, index) => {
+									let optionClass = "option";
+									
+									if (isAnswered) {
+										if (index === currentQuestion.correctAnswer) {
+											optionClass += " correct";
+										} else if (index === selectedOption && index !== currentQuestion.correctAnswer) {
+											optionClass += " incorrect";
+										}
+									} else if (index === selectedOption) {
+										optionClass += " selected";
+									}
+									
+									return (
+										<div 
+											key={index} 
+											className={optionClass}
+											onClick={() => handleOptionSelect(index)}
+										>
+											<span className="option-letter">{String.fromCharCode(65 + index)}</span>
+											<span className="option-text">{option}</span>
+										</div>
+									);
+								})}
+							</div>
+							
+							{isAnswered && (
+								<div className="explanation">
+									<h3>Explanation:</h3>
+									<p>{currentQuestion.explanation}</p>
+									
+									<div className="navigation">
+										<button 
+											onClick={handlePreviousQuestion}
+											disabled={currentQuestionIndex === 0}
+											className="nav-btn prev-btn"
+										>
+											Previous Question
+										</button>
+										
+										<button 
+											onClick={handleNextQuestion}
+											className="nav-btn next-btn"
+										>
+											{currentQuestionIndex < questions.length - 1 ? "Next Question" : "Finish Quiz"}
+										</button>
+									</div>
+								</div>
+							)}
+						</div>
+					</>
+				) : (
+					<div className="results-container">
+						<h2>Quiz Completed!</h2>
+						
+						<div className="results-card">
+							<div className="score-circle">
+								<div className="score-value">{score}/{questions.length}</div>
+								<div className="score-percent">
+									{Math.round((score / questions.length) * 100)}%
+								</div>
+							</div>
+							
+							<div className="results-details">
+								<h3>Your Results</h3>
+								<div className="result-item">
+									<span className="label">Correct Answers:</span>
+									<span className="value">{score}</span>
+								</div>
+								<div className="result-item">
+									<span className="label">Incorrect Answers:</span>
+									<span className="value">{questions.length - score}</span>
+								</div>
+								<div className="result-item">
+									<span className="label">Total Time:</span>
+									<span className="value">{totalTime} seconds</span>
+								</div>
+								<div className="result-item">
+									<span className="label">Average Time per Question:</span>
+									<span className="value">{Math.round(totalTime / questions.length)} seconds</span>
+								</div>
+							</div>
+							
+							<div className="performance-message">
+								{score === questions.length ? (
+									<p className="excellent">Excellent! You have mastered the basics of Bookkeeping!</p>
+								) : score >= questions.length * 0.7 ? (
+									<p className="good">Good job! You have a solid understanding of Bookkeeping fundamentals.</p>
+								) : score >= questions.length * 0.5 ? (
+									<p className="average">Not bad! Review the explanations to improve your understanding.</p>
+								) : (
+									<p className="needs-improvement">Keep practicing! Review basic Bookkeeping concepts and try again.</p>
+								)}
+							</div>
+							
+							<div className="results-actions">
+								<button onClick={handleRestartQuiz} className="restart-btn">
+									Restart Quiz
+								</button>
+							</div>
+						</div>
+					</div>
+				)}
+			</div>
+
+			<div className="quiz-info">
+				<div className="progress-section">
+					<div className="progress-bar">
+						<div 
+							className="progress-fill" 
+							style={{ width: `${((currentQuestionIndex + 1) / questions.length) * 100}%` }}
+						></div>
+					</div>
+					<div className="progress-text">
+						Question {currentQuestionIndex + 1} of {questions.length}
+					</div>
+				</div>
+				
+				<div className="stats">
+					<div className="score">Score: <span>{score}</span></div>
+					<div className="time">Time on this question: <span>{timePerQuestion[currentQuestionIndex]}s</span></div>
+				</div>
+			</div>
+			
+			<footer className="quiz-footer">
+				{/* <p>Interactive English Quiz • Designed for learning basic English concepts in English</p> */}
+			</footer>
+		</div>
+	
+	</>);
+};
+
+export default BookkeepingPracticeQuiz;

@@ -1,7 +1,7 @@
 // EnglishQuizDPDK.tsx
 
 import React, { useState, useEffect } from 'react';
-import EnglishQuiz from './EnglishQuiz';
+import EnglishQuiz from '../../../components/quiz/EnglishPracticeQuiz';
 
 import { Link } from "react-router-dom";
 import { HashLink } from 'react-router-hash-link';
@@ -149,6 +149,11 @@ export default function EnglishMultipleChoice(): React.JSX.Element {
 			<article>
 				
 				<h4><HashLink smooth to="/english#english-multiple-choice"><mark className="highlight-tertiary-padding-4-8">Quiz</mark></HashLink></h4>
+
+				<header className="quiz-header">
+					<h1 className="margin-y-50 text-center">English Multiple Choice</h1>
+					<p className="subtitle text-center">Test your knowledge of fundamental English concepts</p>
+				</header>
 	
 				{/* This is the content of English Quiz. */}
 	
