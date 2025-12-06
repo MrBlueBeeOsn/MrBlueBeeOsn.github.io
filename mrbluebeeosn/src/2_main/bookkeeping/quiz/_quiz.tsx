@@ -148,9 +148,9 @@ export default function (): React.JSX.Element {
 		
 			<article>
 				
-				<h4><HashLink smooth to="/english#english-quiz-01-10"><mark className="highlight-tertiary-padding-4-8">English</mark></HashLink></h4>
+				<h4><HashLink smooth to="/bookkeeping#bookkeeping-basic-practice"><mark className="highlight-tertiary-padding-4-8">Bookkeeping</mark></HashLink></h4>
 	
-				{/* This is the content of English Quiz. */}
+				{/* This is the content of Bookkeeping Quiz. */}
 	
 				<BookkeepingPracticeQuiz questions={questions} />
 	
