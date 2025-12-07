@@ -60,6 +60,9 @@ const Posts = lazy(() => import('@/data/Posts'));
   const Verb = lazy(() => import('@/2_main/english/grammar/Verb'));
   const Adjective = lazy(() => import('@/2_main/english/grammar/Adjective'));
   const Noun = lazy(() => import('@/2_main/english/grammar/Noun'));
+
+  // Quiz
+  const EnglishGrammarQuestions = lazy(() => import('@/2_main/english/grammar/quiz/EnglishGrammarQuestions'));
   
   // 3. Pronunciation
   const PronunciationIndex = lazy(() => import('@/2_main/english/_indexes/PronunciationIndex'));
@@ -374,6 +377,9 @@ export default function AppRoutes(): React.JSX.Element {
           <Route path="/grammar/what-is-a-verb?" element={<Verb />} />
           <Route path="/grammar/what-is-an-adjective?" element={<Adjective />} />
           <Route path="/grammar/what-is-a-noun?" element={<Noun />} />
+
+          {/* Quiz */}
+          <Route path="/gramma/english-grammar-questions" element={<EnglishGrammarQuestions />} />
           
           {/* 3. Pronunciation */}
           <Route path="/pronunciation" element={<PronunciationIndex />} />
