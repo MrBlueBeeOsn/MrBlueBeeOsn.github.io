@@ -46,7 +46,7 @@ export default function TiengAnhIndex(): React.JSX.Element {
 
             <li>
               <div className="li-content">
-                <Link to="/english/english-multiple-choice"></Link>
+                <Link to="/tieng-anh/tieng-anh-questions">Tiếng Anh questions</Link>
               </div>
             </li>
 

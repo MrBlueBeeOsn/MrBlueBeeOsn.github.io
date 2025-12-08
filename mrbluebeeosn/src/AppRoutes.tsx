@@ -92,6 +92,9 @@ const Posts = lazy(() => import('@/data/Posts'));
   const DichCauTiengVietSangTiengAnh = lazy(() => import('@/2_main/english/tienganh/DichCauTiengVietSangTiengAnh'))
   
   const GiaoVienTiengAnh = lazy(() => import('@/2_main/english/tienganh/GiaoVienTiengAnh'));
+
+  // Quiz
+  const TiengAnhQuestions = lazy(() => import('@/2_main/english/tienganh/quiz/TiengAnhQuestions'));
   
   // 5. Vocabulary - Tính chính xác
   const VocabularyIndex = lazy(() => import('@/2_main/english/_indexes/VocabularyIndex'));
@@ -411,6 +414,9 @@ export default function AppRoutes(): React.JSX.Element {
           <Route path="/tieng-anh/dich-cau-tieng-viet-sang-tieng-anh" element={<DichCauTiengVietSangTiengAnh />} />
           
           <Route path="/tieng-anh/giao-vien-tieng-anh-la-gi?" element={<GiaoVienTiengAnh />} />
+
+          {/* Quiz */}
+          <Route path="/tieng-anh/tieng-anh-questions" element={<TiengAnhQuestions />} />
 
           {/* 5. Vocabulary - Tính chính xác */}
           <Route path="/vocabulary" element={<VocabularyIndex />} />
