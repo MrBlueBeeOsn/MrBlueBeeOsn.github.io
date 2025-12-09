@@ -60,6 +60,28 @@ export default function EnglishIndex(): React.JSX.Element {
 
         </details>
 
+        {/* =============================
+              IELTS Quiz
+        ============================= */}
+
+        <details className="sub-box-fix-2 margin-bottom-20">
+      
+          <summary id="ielts-basic-practice"><mark className="highlight-secondary-padding-2-4">IELTS</mark></summary>
+
+          <ul className="list-border1">
+
+            <li>
+              <div className="li-content">
+                <Link to="/english/ielts-questions">IELTS Multiple-Choice Questions</Link>
+              </div>
+            </li>
+
+           
+            
+          </ul>
+
+        </details>
+
       </div>
 
       <div className="flex-container">

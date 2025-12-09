@@ -54,6 +54,9 @@ const Posts = lazy(() => import('@/data/Posts'));
   const EnglishMultipleChoice = lazy(() => import('@/2_main/english/quiz/EnglishMultipleChoice'));
   const MixedEnglishGrammarAndVocabulary = lazy(() => import('@/2_main/english/quiz/MixedEnglishGrammarAndVocabulary'));
 
+  // IELTS
+  const IELTSQuestions = lazy(() => import('@/2_main/english/quiz/ielts/IELTSQuestions'));
+
   // 2. Grammar
   const GrammarIndex = lazy(() => import('@/2_main/english/_indexes/GrammarIndex'));
   const Adverb = lazy(() => import('@/2_main/english/grammar/Adverb'));
@@ -375,6 +378,9 @@ export default function AppRoutes(): React.JSX.Element {
           {/* Quiz */}
           <Route path="/english/english-multiple-choice" element={<EnglishMultipleChoice />} />
           <Route path="/english/mixed-english-grammar-&-vocabulary" element={<MixedEnglishGrammarAndVocabulary />} />
+
+          {/* IELTS */}
+          <Route path="/english/ielts-questions" element={<IELTSQuestions />} />
 
           {/* 2. Grammar */}
           <Route path="/grammar" element={<GrammarIndex />} />
