@@ -38,7 +38,7 @@ export default function VocabularyIndex(): React.JSX.Element {
 							Vocabulary Quiz
 				============================= */}
 
-				<details className="sub-box-fix-2 margin-bottom-20">
+				<details className="sub-box-fix-2">
 			
 					<summary id="vocabulary-basic-practice"><mark className="highlight-secondary-padding-2-4">Quiz</mark></summary>
 
@@ -58,7 +58,7 @@ export default function VocabularyIndex(): React.JSX.Element {
 
 			</div>
 
-			<div className="vocabulary-container">
+			<div className="vocabulary-container margin-top-20">
 
 				{/* =============================
 							Mức độ cao

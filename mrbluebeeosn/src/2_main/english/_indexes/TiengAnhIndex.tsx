@@ -38,7 +38,7 @@ export default function TiengAnhIndex(): React.JSX.Element {
               Tiếng Anh Quiz
         ============================= */}
 
-        <details className="sub-box-fix-2 margin-bottom-20">
+        <details className="sub-box-fix-2">
       
           <summary id="tieng-anh-basic-practice"><mark className="highlight-secondary-padding-2-4">Quiz</mark></summary>
 
@@ -60,7 +60,7 @@ export default function TiengAnhIndex(): React.JSX.Element {
               Ngữ pháp Quiz
         ============================= */}
 
-        <details className="sub-box-fix-2 margin-bottom-20">
+        <details className="sub-box-fix-2">
       
           <summary id="ngu-phap-basic-practice"><mark className="highlight-secondary-padding-2-4">Ngữ pháp</mark></summary>
 
@@ -80,7 +80,7 @@ export default function TiengAnhIndex(): React.JSX.Element {
 
       </div>
 
-      <div className="flex-container">
+      <div className="flex-container margin-top-20">
 
         <div className="sub-box">
 
