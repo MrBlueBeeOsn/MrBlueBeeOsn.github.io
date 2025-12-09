@@ -56,6 +56,28 @@ export default function TiengAnhIndex(): React.JSX.Element {
 
         </details>
 
+        {/* =============================
+              Ngữ pháp Quiz
+        ============================= */}
+
+        <details className="sub-box-fix-2 margin-bottom-20">
+      
+          <summary id="ngu-phap-basic-practice"><mark className="highlight-secondary-padding-2-4">Ngữ pháp</mark></summary>
+
+          <ul className="list-border1">
+
+            <li>
+              <div className="li-content">
+                <Link to="/tieng-anh/trac-nghiem-ngu-phap-tieng-anh">Trắc Nghiệm Ngữ Pháp Tiếng Anh</Link>
+              </div>
+            </li>
+
+            
+            
+          </ul>
+
+        </details>
+
       </div>
 
       <div className="flex-container">
@@ -100,10 +122,10 @@ export default function TiengAnhIndex(): React.JSX.Element {
         <div className="sub-box">
 
           {/* =============================
-              Ngữ pháp
+              Nhận dạng
           ============================= */}
       
-          <p id="tinh-chinh-xac-terms"><mark className="highlight-secondary-padding-2-4">Ngữ pháp</mark></p>
+          <p id="tieng-anh-terms"><mark className="highlight-secondary-padding-2-4">Nhận dạng</mark></p>
 
           <ul className="list-border1">
 

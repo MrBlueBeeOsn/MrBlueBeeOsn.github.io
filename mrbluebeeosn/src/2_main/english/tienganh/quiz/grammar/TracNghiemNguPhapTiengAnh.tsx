@@ -1,0 +1,172 @@
+// TiengAnhPracticeQuizDPDK.tsx
+
+import React, { useState, useEffect } from 'react';
+import EnglishPracticeQuiz from '../../../../../components/quiz/EnglishPracticeQuiz';
+
+import { Link } from "react-router-dom";
+import { HashLink } from 'react-router-hash-link';
+import EyeIcon from '@/components/view/EyeIcon';
+import ViewCounter from '@/components/view/ViewCounter';
+import LikeButton from '@/components/like/LikeButton';
+
+interface Question {
+	id: number;
+	question: string;
+	options: string[];
+	correctAnswer: number;
+	explanation: string;
+}
+
+export default function TracNghiemNguPhapTiengAnh(): React.JSX.Element {
+	// Danh sách câu hỏi về Ngữ pháp Tiếng Anh cơ bản
+	const questions: Question[] = [
+		{
+			id: 1,
+			question: "I'm tired because I _________ all morning.",
+			options: [
+				"work",
+				"worked",
+				"have been working",
+				"am working"
+			],
+			correctAnswer: 2,
+			explanation: "Đây là thì Hiện tại Hoàn thành Tiếp diễn (Present Perfect Continuous), dùng để diễn tả một hành động bắt đầu trong quá khứ, kéo dài liên tục đến hiện tại và có kết quả rõ rệt (I'm tired) ở hiện tại. Cấu trúc là: S + have/has + been + V-ing."
+		},
+		{
+			id: 2,
+			question: "That man _________ be the new CEO; he looks too young.",
+			options: [
+				"must",
+				"can",
+				"can't",
+				"should"
+			],
+			correctAnswer: 2,
+			explanation: "Ta dùng động từ khuyết thiếu can't (không thể nào) để diễn tả sự suy luận mang tính phủ định mạnh mẽ, gần như chắc chắn rằng điều gì đó không đúng hoặc không thể xảy ra dựa trên bằng chứng hiện tại (vì anh ta trông quá trẻ)."
+		},
+		{
+			id: 3,
+			question: "If you had studied harder, you _________ the exam.",
+			options: [
+				"would pass",
+				"would have passed",
+				"passed",
+				"will pass"
+			],
+			correctAnswer: 1,
+			explanation: "Đây là câu điều kiện loại 3 (Third Conditional), dùng để diễn tả một điều kiện không có thật trong quá khứ. Cấu trúc là: If + S + had + V3/ed, mệnh đề chính dùng S + would/could/might + have + V3/ed."
+		},
+		{
+			id: 4,
+			question: "She denied _________ the secret to anyone.",
+			options: [
+				"to tell",
+				"telling",
+				"having told",
+				"told"
+			],
+			correctAnswer: 2,
+			explanation: "Động từ deny (phủ nhận) luôn theo sau bởi một Gerund (V-ing). Trong trường hợp này, dùng Gerund hoàn thành (having told) để nhấn mạnh rằng hành động kể bí mật xảy ra trước hành động phủ nhận."
+		},
+		{
+			id: 5,
+			question: "He said he would call me _________.",
+			options: [
+				"tomorrow",
+				"next day",
+				"the next day",
+				"the day before"
+			],
+			correctAnswer: 2,
+			explanation: "Khi chuyển từ câu trực tiếp sang câu gián tiếp (Reported Speech), trạng từ chỉ thời gian tomorrow (ngày mai) phải được đổi thành the next day hoặc the following day."
+		},
+		{
+			id: 6,
+			question: "English _________ by more than a billion people worldwide.",
+			options: [
+				"is speaking",
+				"speaks",
+				"is spoken",
+				"spoke"
+			],
+			correctAnswer: 2,
+			explanation: "Đây là câu Bị động (Passive Voice) ở thì Hiện tại Đơn (Present Simple). English là chủ ngữ chịu tác động, và việc nói tiếng Anh là một sự thật hoặc hành động thường xuyên. Cấu trúc bị động hiện tại đơn là: S + am/is/are + V3/ed."
+		},
+		{
+			id: 7,
+			question: "The student _________ handwriting is neat won the competition.",
+			options: [
+				"who",
+				"whom",
+				"which",
+				"whose"
+			],
+			correctAnswer: 3,
+			explanation: "Ta dùng đại từ quan hệ whose (của người mà/của cái mà) để chỉ mối quan hệ sở hữu. Cụm từ whose handwriting có nghĩa là \"chữ viết của học sinh đó\"."
+		},
+		{
+			id: 8,
+			question: "The meeting is scheduled to start _________ 2:30 PM.",
+			options: [
+				"in",
+				"on",
+				"at",
+				"for"
+			],
+			correctAnswer: 2,
+			explanation: "Giới từ at được dùng để chỉ thời điểm cụ thể, chính xác trong ngày (giờ, phút)."
+		},
+		{
+			id: 9,
+			question: "_________ you practice, _________ you will get.",
+			options: [
+				"The hard/the good",
+				"Harder/better",
+				"The harder/the better",
+				"Hard/good"
+			],
+			correctAnswer: 2,
+			explanation: "Đây là cấu trúc So sánh kép (Double Comparative) diễn tả hai hành động thay đổi đồng thời (càng... càng...). Cấu trúc là: The + so sánh hơn + S + V, The + so sánh hơn + S + V."
+		},
+		{
+			id: 10,
+			question: "The movie was so _________ that I fell asleep.",
+			options: [
+				"boring",
+				"bored",
+				"bore",
+				"bores"
+			],
+			correctAnswer: 0,
+			explanation: "Ta dùng tính từ tận cùng bằng -ing (boring) để mô tả bản chất của sự vật, sự việc (bộ phim mang tính chất buồn chán). Tính từ tận cùng bằng -ed (bored) dùng để mô tả cảm xúc của con người hoặc sinh vật."
+		}
+	];
+
+	return (
+
+		<main className="image image2">
+		
+			<article>
+				
+				<h4><HashLink smooth to="/tieng-anh#ngu-phap-basic-practice"><mark className="highlight-tertiary-padding-4-8">Ngữ pháp</mark></HashLink></h4>
+	
+				<header className="quiz-header">
+					<h1 className="margin-y-50 text-center">Trắc Nghiệm Ngữ Pháp Tiếng Anh</h1>
+					<p className="subtitle text-center">Test your knowledge of fundamental ngữ pháp tiếng Anh concepts</p>
+				</header>
+	
+				<EnglishPracticeQuiz questions={questions} />
+	
+				<div className="viewcounter">
+	
+					<div className="post-date no-margin">
+						<span>December 09, 2025 · by 💎Gem ·</span>
+					</div>
+	
+				</div>
+	
+			</article>
+	
+		</main>
+	);
+};
