@@ -104,6 +104,28 @@ export default function EnglishIndex(): React.JSX.Element {
 
         </details>
 
+        {/* =============================
+              TOEIC Quiz
+        ============================= */}
+
+        <details className="sub-box-fix-2">
+      
+          <summary id="phrasal-verbs-basic-practice"><mark className="highlight-secondary-padding-2-4">Phrasal Verbs</mark></summary>
+
+          <ul className="list-border1">
+
+            <li>
+              <div className="li-content">
+                <Link to="/english/phrasal-verbs-questions">Phrasal Verbs Questions</Link>
+              </div>
+            </li>
+
+           
+            
+          </ul>
+
+        </details>
+
       </div>
 
       <div className="flex-container margin-top-20">

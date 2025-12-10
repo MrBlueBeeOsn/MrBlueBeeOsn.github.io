@@ -60,6 +60,9 @@ const Posts = lazy(() => import('@/data/Posts'));
   // TOEIC
   const TOEICPractice = lazy(() => import('@/2_main/english/quiz/toeic/TOEICPractice'));
 
+  // Phrasal Verbs
+  const PhrasalVerbsQuestions = lazy(() => import('@/2_main/english/quiz/phrasalverbs/PhrasalVerbsQuestions'));
+
   // 2. Grammar
   const GrammarIndex = lazy(() => import('@/2_main/english/_indexes/GrammarIndex'));
   const Adverb = lazy(() => import('@/2_main/english/grammar/Adverb'));
@@ -105,6 +108,9 @@ const Posts = lazy(() => import('@/data/Posts'));
 
   // Ngữ pháp
   const TracNghiemNguPhapTiengAnh = lazy(() => import('@/2_main/english/tienganh/quiz/grammar/TracNghiemNguPhapTiengAnh'));
+
+  // Phrasal Verbs
+  const PhrasalVerbsQuiz = lazy(() => import('@/2_main/english/tienganh/quiz/phrasalverbs/PhrasalVerbsQuiz'));
   
   // 5. Vocabulary - Tính chính xác
   const VocabularyIndex = lazy(() => import('@/2_main/english/_indexes/VocabularyIndex'));
@@ -392,6 +398,9 @@ export default function AppRoutes(): React.JSX.Element {
           {/* TOEIC */}
           <Route path="/english/toeic-practice" element={<TOEICPractice />} />
 
+          {/* Phrasal Verbs */}
+          <Route path="/english/phrasal-verbs-questions" element={<PhrasalVerbsQuestions />} />
+
           {/* 2. Grammar */}
           <Route path="/grammar" element={<GrammarIndex />} />
           <Route path="/grammar/what-is-an-adverb?" element={<Adverb />} />
@@ -437,6 +446,9 @@ export default function AppRoutes(): React.JSX.Element {
 
           {/* Ngữ pháp */}
           <Route path="/tieng-anh/trac-nghiem-ngu-phap-tieng-anh" element={<TracNghiemNguPhapTiengAnh />} />
+
+          {/* Phrasal Verbs */}
+          <Route path="/tieng-anh/phrasal-verbs-quiz" element={<PhrasalVerbsQuiz />} />
 
           {/* 5. Vocabulary - Tính chính xác */}
           <Route path="/vocabulary" element={<VocabularyIndex />} />
