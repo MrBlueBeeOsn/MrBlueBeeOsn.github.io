@@ -50,7 +50,11 @@ export default function GrammarIndex(): React.JSX.Element {
               </div>
             </li>
 
-            
+            <li>
+              <div className="li-content">
+                <Link to="/gramma/english-grammar-questions-2">English Grammar Questions 2</Link>
+              </div>
+            </li>
             
           </ul>
 

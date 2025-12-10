@@ -66,6 +66,7 @@ const Posts = lazy(() => import('@/data/Posts'));
 
   // Quiz
   const EnglishGrammarQuestions = lazy(() => import('@/2_main/english/grammar/quiz/EnglishGrammarQuestions'));
+  const EnglishGrammarQuestions2 = lazy(() => import('@/2_main/english/grammar/quiz/EnglishGrammarQuestions2'));
   
   // 3. Pronunciation
   const PronunciationIndex = lazy(() => import('@/2_main/english/_indexes/PronunciationIndex'));
@@ -394,6 +395,7 @@ export default function AppRoutes(): React.JSX.Element {
 
           {/* Quiz */}
           <Route path="/gramma/english-grammar-questions" element={<EnglishGrammarQuestions />} />
+          <Route path="/gramma/english-grammar-questions-2" element={<EnglishGrammarQuestions2 />} />
           
           {/* 3. Pronunciation */}
           <Route path="/pronunciation" element={<PronunciationIndex />} />
