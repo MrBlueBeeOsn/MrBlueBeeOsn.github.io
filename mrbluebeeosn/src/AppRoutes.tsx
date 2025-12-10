@@ -57,6 +57,9 @@ const Posts = lazy(() => import('@/data/Posts'));
   // IELTS
   const IELTSQuestions = lazy(() => import('@/2_main/english/quiz/ielts/IELTSQuestions'));
 
+  // TOEIC
+  const TOEICPractice = lazy(() => import('@/2_main/english/quiz/toeic/TOEICPractice'));
+
   // 2. Grammar
   const GrammarIndex = lazy(() => import('@/2_main/english/_indexes/GrammarIndex'));
   const Adverb = lazy(() => import('@/2_main/english/grammar/Adverb'));
@@ -385,6 +388,9 @@ export default function AppRoutes(): React.JSX.Element {
 
           {/* IELTS */}
           <Route path="/english/ielts-questions" element={<IELTSQuestions />} />
+
+          {/* TOEIC */}
+          <Route path="/english/toeic-practice" element={<TOEICPractice />} />
 
           {/* 2. Grammar */}
           <Route path="/grammar" element={<GrammarIndex />} />
