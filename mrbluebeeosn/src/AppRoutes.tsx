@@ -63,6 +63,8 @@ const Posts = lazy(() => import('@/data/Posts'));
   // Phrasal Verbs
   const PhrasalVerbsQuestions = lazy(() => import('@/2_main/english/quiz/phrasalverbs/PhrasalVerbsQuestions'));
 
+  
+
   // 2. Grammar
   const GrammarIndex = lazy(() => import('@/2_main/english/_indexes/GrammarIndex'));
   const Adverb = lazy(() => import('@/2_main/english/grammar/Adverb'));
@@ -73,6 +75,9 @@ const Posts = lazy(() => import('@/data/Posts'));
   // Quiz
   const EnglishGrammarQuestions = lazy(() => import('@/2_main/english/grammar/quiz/EnglishGrammarQuestions'));
   const EnglishGrammarQuestions2 = lazy(() => import('@/2_main/english/grammar/quiz/EnglishGrammarQuestions2'));
+
+  // Tenses
+  const EnglishTensesQuiz = lazy(() => import('@/2_main/english/grammar/quiz/tenses/EnglishTensesQuiz'));
   
   // 3. Pronunciation
   const PronunciationIndex = lazy(() => import('@/2_main/english/_indexes/PronunciationIndex'));
@@ -109,8 +114,11 @@ const Posts = lazy(() => import('@/data/Posts'));
   // Ngữ pháp
   const TracNghiemNguPhapTiengAnh = lazy(() => import('@/2_main/english/tienganh/quiz/grammar/TracNghiemNguPhapTiengAnh'));
 
-  // Phrasal Verbs
-  const PhrasalVerbsQuiz = lazy(() => import('@/2_main/english/tienganh/quiz/phrasalverbs/PhrasalVerbsQuiz'));
+  // Cụm động từ
+  const PhrasalVerbsQuiz = lazy(() => import('@/2_main/english/tienganh/quiz/cumdongtu/PhrasalVerbsQuiz'));
+
+  // Thì
+  const TracNghiemThiTiengAnh = lazy(() => import('@/2_main/english/tienganh/quiz/grammar/thi/TracNghiemThiTiengAnh'));
   
   // 5. Vocabulary - Tính chính xác
   const VocabularyIndex = lazy(() => import('@/2_main/english/_indexes/VocabularyIndex'));
@@ -401,6 +409,8 @@ export default function AppRoutes(): React.JSX.Element {
           {/* Phrasal Verbs */}
           <Route path="/english/phrasal-verbs-questions" element={<PhrasalVerbsQuestions />} />
 
+          
+
           {/* 2. Grammar */}
           <Route path="/grammar" element={<GrammarIndex />} />
           <Route path="/grammar/what-is-an-adverb?" element={<Adverb />} />
@@ -409,8 +419,11 @@ export default function AppRoutes(): React.JSX.Element {
           <Route path="/grammar/what-is-a-noun?" element={<Noun />} />
 
           {/* Quiz */}
-          <Route path="/gramma/english-grammar-questions" element={<EnglishGrammarQuestions />} />
-          <Route path="/gramma/english-grammar-questions-2" element={<EnglishGrammarQuestions2 />} />
+          <Route path="/grammar/english-grammar-questions" element={<EnglishGrammarQuestions />} />
+          <Route path="/grammar/english-grammar-questions-2" element={<EnglishGrammarQuestions2 />} />
+
+          {/* Tenses */}
+          <Route path="/grammar/english-tenses-quiz" element={<EnglishTensesQuiz />} />
           
           {/* 3. Pronunciation */}
           <Route path="/pronunciation" element={<PronunciationIndex />} />
@@ -447,8 +460,11 @@ export default function AppRoutes(): React.JSX.Element {
           {/* Ngữ pháp */}
           <Route path="/tieng-anh/trac-nghiem-ngu-phap-tieng-anh" element={<TracNghiemNguPhapTiengAnh />} />
 
-          {/* Phrasal Verbs */}
+          {/* Cụm động từ */}
           <Route path="/tieng-anh/phrasal-verbs-quiz" element={<PhrasalVerbsQuiz />} />
+
+          {/* Thì tiếng Anh */}
+          <Route path="/tieng-anh/trac-nghiem-thi-tieng-anh" element={<TracNghiemThiTiengAnh />} />
 
           {/* 5. Vocabulary - Tính chính xác */}
           <Route path="/vocabulary" element={<VocabularyIndex />} />

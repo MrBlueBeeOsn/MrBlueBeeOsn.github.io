@@ -115,7 +115,7 @@ export default function JourneyIndex(): React.JSX.Element {
         ============================= */}
 
             <tr>
-                <td>Dec. 20</td>
+                <td>Dec. 02</td>
                 <td>Successfully add Quiz.</td>
             </tr>
 
