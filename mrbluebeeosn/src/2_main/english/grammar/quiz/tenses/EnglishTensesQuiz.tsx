@@ -29,7 +29,7 @@ export default function EnglishTensesQuiz(): React.JSX.Element {
 				"have done",
 				"did"
 			],
-			correctAnswer: 0,
+			correctAnswer: 1,
 			explanation: "This sentence uses the Present Continuous tense. The phrase \"I can't talk right now\" indicates an action that is happening at the moment of speaking."
 		},
 		{
@@ -101,7 +101,7 @@ export default function EnglishTensesQuiz(): React.JSX.Element {
 				"will build",
 				"have built"
 			],
-			correctAnswer: 0,
+			correctAnswer: 2,
 			explanation: "This sentence uses the Simple Future tense. The phrase \"next month\" indicates a future action or plan."
 		},
 		{
