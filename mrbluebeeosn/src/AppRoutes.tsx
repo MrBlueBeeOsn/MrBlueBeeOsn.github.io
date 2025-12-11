@@ -109,16 +109,16 @@ const Posts = lazy(() => import('@/data/Posts'));
   const GiaoVienTiengAnh = lazy(() => import('@/2_main/english/tienganh/GiaoVienTiengAnh'));
 
   // Quiz
-  const TiengAnhQuestions = lazy(() => import('@/2_main/english/tienganh/quiz/TiengAnhQuestions'));
+  const TiengAnhQuestions = lazy(() => import('@/2_main/english/tienganh/quiz/nguphap/TiengAnhQuestions'));
 
   // Ngữ pháp
-  const TracNghiemNguPhapTiengAnh = lazy(() => import('@/2_main/english/tienganh/quiz/grammar/TracNghiemNguPhapTiengAnh'));
+  const TracNghiemNguPhapTiengAnh = lazy(() => import('@/2_main/english/tienganh/quiz/nguphap/TracNghiemNguPhapTiengAnh'));
 
   // Cụm động từ
   const PhrasalVerbsQuiz = lazy(() => import('@/2_main/english/tienganh/quiz/cumdongtu/PhrasalVerbsQuiz'));
 
   // Thì
-  const TracNghiemThiTiengAnh = lazy(() => import('@/2_main/english/tienganh/quiz/grammar/thi/TracNghiemThiTiengAnh'));
+  const TracNghiemThiTiengAnh = lazy(() => import('@/2_main/english/tienganh/quiz/nguphap/thi/TracNghiemThiTiengAnh'));
   
   // 5. Vocabulary - Tính chính xác
   const VocabularyIndex = lazy(() => import('@/2_main/english/_indexes/VocabularyIndex'));
