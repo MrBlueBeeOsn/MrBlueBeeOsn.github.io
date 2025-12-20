@@ -55,6 +55,15 @@
 			"date": "2025-11-30"
 		},
 		{ 
+			"id": "PhanTichCauTiengAnh",
+			"categoryDisplay": "Tiếng Anh",
+			"categorySlug": "tieng-anh",
+			"title": "Hướng Dẫn Phân Tích Câu Tiếng Anh",
+			"content": "Phương Pháp 5W – Hiểu Chuẩn Nghĩa Câu Dài Bao Nhiêu Cũng Dễ!",
+			"slug": "tieng-anh/phan-tich-cau-tieng-anh",
+			"date": "2025-12-20"
+		},
+		{ 
 			"id": "GiaoVienTiengAnh",
 			"categoryDisplay": "Tiếng Anh",
 			"categorySlug": "tieng-anh",
