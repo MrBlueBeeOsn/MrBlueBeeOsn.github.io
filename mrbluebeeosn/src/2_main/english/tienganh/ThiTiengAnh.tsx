@@ -17,11 +17,11 @@ export default function ThiTiengAnh(): React.JSX.Element {
 		
 			<h4><HashLink smooth to="/tieng-anh#tieng-anh-terms"><mark className="highlight-tertiary-padding-4-8">Tiếng Anh</mark></HashLink></h4>
 			
-			<h1 className="margin-y-50 text-center">12 Thì Tiếng Anh – Cách Gọi Dễ Nhớ Với “Đơn”, “Đang”, “Đã”, “Sẽ”</h1>
+			<h1 className="margin-y-50 text-center">12 Thì Tiếng Anh – Cách Gọi Dễ Nhớ Với “Đang”, “Đã”, “Sẽ”</h1>
 
 			{/* This is the content of English Learning Term. */}
 
-			<p>Hệ thống thì trong tiếng Anh thường khiến người học cảm thấy phức tạp. Tuy nhiên, nếu ta dùng cách gọi gần gũi như “<strong>đơn</strong>”, “<strong>đang</strong>”, “<strong>đã</strong>”, và “<strong>sẽ</strong>”, việc ghi nhớ sẽ trở nên dễ dàng hơn. Bài viết này sẽ giúp bạn nắm chắc 12 thì cơ bản qua cách gọi thân thuộc.</p>
+			<p>Hệ thống thì trong tiếng Anh thường khiến người học cảm thấy phức tạp. Tuy nhiên, nếu ta dùng cách gọi gần gũi như “<strong>đang</strong>”, “<strong>đã</strong>”, và “<strong>sẽ</strong>”, việc ghi nhớ sẽ trở nên dễ dàng hơn. Bài viết này sẽ giúp bạn nắm chắc 12 thì cơ bản qua cách gọi thân thuộc.</p>
 
 			{/* 1. Nhóm Hiện Tại (Present). */}
 
@@ -31,7 +31,7 @@ export default function ThiTiengAnh(): React.JSX.Element {
 
 					<ul className="list-square">
 
-						<li><strong>Hiện tại đơn</strong> → S + V(s/es)</li>
+						<li><strong>Hiện tại</strong> → S + V(s/es)</li>
 						<li className="list-none">She plays piano every day.</li>
 
 						<li className="margin-top-20"><strong>Hiện tại đang</strong> → S + am/is/are + V-ing</li>
@@ -55,7 +55,7 @@ export default function ThiTiengAnh(): React.JSX.Element {
 
 					<ul className="list-square">
 
-						<li><strong>Quá khứ đơn</strong> → S + V2/ed</li>
+						<li><strong>Quá khứ</strong> → S + V2/ed</li>
 						<li className="list-none">She played piano yesterday.</li>
 
 						<li className="margin-top-20"><strong>Quá khứ đang</strong> → S + was/were + V-ing</li>
@@ -79,7 +79,7 @@ export default function ThiTiengAnh(): React.JSX.Element {
 
 					<ul className="list-square">
 
-						<li><strong>Tương lai sẽ đơn</strong> → S + will + V</li>
+						<li><strong>Tương lai sẽ</strong> → S + will + V</li>
 						<li className="list-none">She will play piano tomorrow.</li>
 
 						<li className="margin-top-20"><strong>Tương lai sẽ đang</strong> → S + will + be + V-ing</li>
@@ -103,7 +103,7 @@ export default function ThiTiengAnh(): React.JSX.Element {
 
 					<ul>
 
-						<li><strong>Đơn</strong> = động từ chính.</li>
+						<li><strong>hiện tại – quá khứ – tương lai sẽ</strong> = hành động chính</li>
 
 						<li><strong>Đang</strong> = be + V-ing.</li>
 
@@ -121,7 +121,7 @@ export default function ThiTiengAnh(): React.JSX.Element {
 
 			<h3 className="margin-y-50 text-center">Kết luận</h3>
 
-			<p>12 thì tiếng Anh sẽ không còn khó khăn nếu bạn biết cách gọi chúng bằng những cụm từ gần gũi như “<strong>hiện tại đã</strong>”, “<strong>quá khứ đang</strong>”, hay “<strong>tương lai sẽ đã</strong>”. Đây không phải là thuật ngữ chính thức, nhưng là một mẹo học tập hữu ích giúp bạn nhớ nhanh và dùng đúng trong thực tế.</p>
+			<p>12 thì tiếng Anh sẽ không còn khó khăn nếu bạn biết cách gọi chúng bằng những cụm từ gần gũi như “<strong>hiện tại</strong>”, “<strong>quá khứ</strong>”, hay “<strong>tương lai</strong>” kết hợp “<strong>đang</strong> / <strong>đã</strong> / <strong>đã và đang</strong>”, bạn sẽ nắm chắc 12 thì tiếng Anh mà không bị rối.  </p>
 
 			<div className="viewcounter">
 			
