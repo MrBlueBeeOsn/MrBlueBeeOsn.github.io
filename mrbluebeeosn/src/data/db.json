@@ -133,6 +133,17 @@
       "likes": 0
     },
     {
+      "id": "QuestionsandAnswers",
+      "categoryDisplay": "Bookkeeping",
+      "categorySlug": "bookkeeping",
+      "title": "Quiz",
+      "content": "Bookkeeping Questions & Answers",
+      "slug": "bookkeeping/questions-&-answers",
+      "date": "2025-12-06",
+      "views": 0,
+      "likes": 0
+    },
+    {
       "id": "English",
       "categoryDisplay": "English",
       "categorySlug": "english",
@@ -162,6 +173,61 @@
       "content": "An English teacher is your personal guide on the incredible journey of learning English! They're there to support you every step of the way as you develop your skills in all areas of the language.",
       "slug": "english/what-is-an-english-teacher",
       "date": "2024-04-14",
+      "views": 0,
+      "likes": 0
+    },
+    {
+      "id": "EnglishMultipleChoice",
+      "categoryDisplay": "English",
+      "categorySlug": "english",
+      "title": "Quiz",
+      "content": "English Multiple Choice",
+      "slug": "english/english-multiple-choice",
+      "date": "2025-12-04",
+      "views": 0,
+      "likes": 0
+    },
+    {
+      "id": "MixedEnglishGrammarAndVocabulary",
+      "categoryDisplay": "English",
+      "categorySlug": "english",
+      "title": "Quiz",
+      "content": "Mixed English Grammar & Vocabulary",
+      "slug": "english/mixed-english-grammar-&-vocabulary",
+      "date": "2025-12-05",
+      "views": 0,
+      "likes": 0
+    },
+    {
+      "id": "IELTSQuestions",
+      "categoryDisplay": "English",
+      "categorySlug": "english",
+      "title": "Quiz",
+      "content": "IELTS Multiple-Choice Questions",
+      "slug": "english/ielts-questions",
+      "date": "2025-12-09",
+      "views": 0,
+      "likes": 0
+    },
+    {
+      "id": "TOEICPractice",
+      "categoryDisplay": "English",
+      "categorySlug": "english",
+      "title": "Quiz",
+      "content": "TOEIC Practice",
+      "slug": "english/toeic-practice",
+      "date": "2025-12-10",
+      "views": 0,
+      "likes": 0
+    },
+    {
+      "id": "PhrasalVerbsQuestions",
+      "categoryDisplay": "English",
+      "categorySlug": "english",
+      "title": "Quiz",
+      "content": "Phrasal Verbs Questions",
+      "slug": "english/phrasal-verbs-questions",
+      "date": "2025-12-10",
       "views": 0,
       "likes": 0
     },

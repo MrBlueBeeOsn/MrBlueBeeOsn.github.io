@@ -71,6 +71,15 @@
       "content": "Account reconciliation in accounting is like double-checking your piggy bank to make sure everything adds up.",
       "slug": "bookkeeping/what-is-account-reconciliation",
       "date": "2024-04-22"
+    },
+    { 
+      "id": "QuestionsandAnswers",
+      "categoryDisplay": "Bookkeeping",
+      "categorySlug": "bookkeeping",
+      "title": "Quiz",
+      "content": "Bookkeeping Questions & Answers",
+      "slug": "bookkeeping/questions-&-answers",
+      "date": "2025-12-06"
     }
   ]
 }

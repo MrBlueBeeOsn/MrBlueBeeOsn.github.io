@@ -151,7 +151,7 @@ export default function QuestionsandAnswers(): React.JSX.Element {
 				<h4><HashLink smooth to="/bookkeeping#bookkeeping-basic-practice"><mark className="highlight-tertiary-padding-4-8">Quiz</mark></HashLink></h4>
 
 				<header className="quiz-header">
-					<h1 className="margin-y-50 text-center">Questions & Answers</h1>
+					<h1 className="margin-y-50 text-center">Bookkeeping Questions & Answers</h1>
 					<p className="subtitle text-center">Test your knowledge of fundamental bookkeeping concepts</p>
 				</header>
 	
