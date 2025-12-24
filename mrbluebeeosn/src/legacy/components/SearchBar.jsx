@@ -71,7 +71,7 @@ export default function SearchBar({ posts, onSearchResults }) {
 
       <input
         type="text"
-        placeholder="Bee Article"
+        placeholder="Bee Article, Quiz"
         value={searchTerm}
         onChange={(e) => setSearchTerm(e.target.value)}
         onKeyPress={handleKeyPress}
