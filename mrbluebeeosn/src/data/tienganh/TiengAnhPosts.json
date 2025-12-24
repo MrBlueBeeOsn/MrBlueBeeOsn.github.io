@@ -73,6 +73,15 @@
 			"date": "2025-12-23"
 		},
 		{ 
+			"id": "ThiTiengAnh",
+			"categoryDisplay": "Tiếng Anh",
+			"categorySlug": "tieng-anh",
+			"title": "12 Thì Tiếng Anh – Cách Gọi Dễ Nhớ Với “Đơn”, “Đang”, “Đã”, “Sẽ”",
+			"content": "Hệ thống thì trong tiếng Anh thường khiến người học cảm thấy phức tạp. Tuy nhiên, nếu ta dùng cách gọi gần gũi như “đơn”, “đang”, “đã”, và “sẽ”, việc ghi nhớ sẽ trở nên dễ dàng hơn. Bài viết này sẽ giúp bạn nắm chắc 12 thì cơ bản qua cách gọi thân thuộc.",
+			"slug": "tieng-anh/thi-tieng-anh",
+			"date": "2025-12-24"
+		},
+		{ 
 			"id": "GiaoVienTiengAnh",
 			"categoryDisplay": "Tiếng Anh",
 			"categorySlug": "tieng-anh",
