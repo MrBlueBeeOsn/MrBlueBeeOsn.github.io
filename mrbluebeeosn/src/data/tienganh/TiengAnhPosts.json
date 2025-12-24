@@ -89,6 +89,42 @@
 			"content": "Giáo viên tiếng Anh là người có chuyên môn và kỹ năng để truyền đạt kiến thức và kỹ năng sử dụng tiếng Anh cho học sinh. Họ đóng vai trò quan trọng trong việc giúp học sinh học tập và phát triển khả năng ngôn ngữ của mình.",
 			"slug": "tieng-anh/giao-vien-tieng-anh-la-gi",
 			"date": "2024-04-22"
+		},
+		{
+			"id": "TiengAnhQuestions",
+			"categoryDisplay": "Tiếng Anh",
+			"categorySlug": "tieng-anh",
+			"title": "Quiz",
+			"content": "Tiếng Anh Questions",
+			"slug": "tieng-anh/tieng-anh-questions",
+			"date": "2025-12-08"
+		},
+		{
+			"id": "TracNghiemNguPhapTiengAnh",
+			"categoryDisplay": "Tiếng Anh",
+			"categorySlug": "tieng-anh",
+			"title": "Quiz",
+			"content": "Trắc Nghiệm Ngữ Pháp Tiếng Anh",
+			"slug": "tieng-anh/trac-nghiem-ngu-phap-tieng-anh",
+			"date": "2025-12-09"
+		},
+		{
+			"id": "PhrasalVerbsQuiz",
+			"categoryDisplay": "Tiếng Anh",
+			"categorySlug": "tieng-anh",
+			"title": "Quiz",
+			"content": "Trắc Nghiệm Phrasal Verbs / Cụm Động Từ Tiếng Anh",
+			"slug": "tieng-anh/phrasal-verbs-quiz",
+			"date": "2025-12-10"
+		},
+		{
+			"id": "TracNghiemThiTiengAnh",
+			"categoryDisplay": "Tiếng Anh",
+			"categorySlug": "tieng-anh",
+			"title": "Quiz",
+			"content": "Trắc Nghiệm Thì Tiếng Anh",
+			"slug": "tieng-anh/trac-nghiem-thi-tieng-anh",
+			"date": "2025-12-11"
 		}
 	]
 }

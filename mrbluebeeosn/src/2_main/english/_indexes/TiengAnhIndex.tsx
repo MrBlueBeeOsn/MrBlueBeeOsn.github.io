@@ -84,7 +84,7 @@ export default function TiengAnhIndex(): React.JSX.Element {
 
         <details className="sub-box-fix-2">
       
-          <summary id="phrasal-verbs-basic-practice"><mark className="highlight-secondary-padding-2-4">Phrasal Verbs</mark></summary>
+          <summary id="phrasal-verbs-basic-practice"><mark className="highlight-secondary-padding-2-4">Cụm động từ</mark></summary>
 
           <ul className="list-border1">
 
@@ -106,7 +106,7 @@ export default function TiengAnhIndex(): React.JSX.Element {
 
         <details className="sub-box-fix-2">
       
-          <summary id="tense-basic-practice"><mark className="highlight-secondary-padding-2-4">Tense</mark></summary>
+          <summary id="tense-basic-practice"><mark className="highlight-secondary-padding-2-4">Thì</mark></summary>
 
           <ul className="list-border1">
 

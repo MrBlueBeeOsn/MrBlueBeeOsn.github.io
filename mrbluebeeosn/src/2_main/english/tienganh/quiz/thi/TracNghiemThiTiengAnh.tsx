@@ -1,7 +1,7 @@
 // TiengAnhPracticeQuizDPDK.tsx
 
 import React, { useState, useEffect } from 'react';
-import EnglishPracticeQuiz from '../../../../../../components/quiz/EnglishPracticeQuiz';
+import EnglishPracticeQuiz from '../../../../../components/quiz/EnglishPracticeQuiz';
 
 import { Link } from "react-router-dom";
 import { HashLink } from 'react-router-hash-link';
@@ -151,8 +151,8 @@ export default function TracNghiemThiTiengAnh(): React.JSX.Element {
 				<h4><HashLink smooth to="/tieng-anh#tenses-basic-practice"><mark className="highlight-tertiary-padding-4-8">Tenses</mark></HashLink></h4>
 	
 				<header className="quiz-header">
-					<h1 className="margin-y-50 text-center">English Tense Quiz</h1>
-					<p className="subtitle text-center">Test your knowledge of fundamental English Tenses</p>
+					<h1 className="margin-y-50 text-center">Trắc Nghiệm Thì Tiếng Anh</h1>
+					<p className="subtitle text-center">Test your knowledge of fundamental Thì Tiếng Anh</p>
 				</header>
 	
 				<EnglishPracticeQuiz questions={questions} />

@@ -35,6 +35,33 @@
       "content": "A noun in English is a word that names a person, place, thing, or idea.",
       "slug": "grammar/what-is-a-noun",
       "date": "2024-07-09"
+    },
+    { 
+      "id": "EnglishGrammarQuestions",
+      "categoryDisplay": "Grammar",
+      "categorySlug": "grammar",
+      "title": "Quiz",
+      "content": "English Grammar Questions 1",
+      "slug": "grammar/english-grammar-questions",
+      "date": "2025-12-07"
+    },
+    { 
+      "id": "EnglishGrammarQuestions2",
+      "categoryDisplay": "Grammar",
+      "categorySlug": "grammar",
+      "title": "Quiz",
+      "content": "English Grammar Questions 2",
+      "slug": "grammar/english-grammar-questions-2",
+      "date": "2025-12-10"
+    },
+    { 
+      "id": "EnglishTensesQuiz",
+      "categoryDisplay": "Grammar",
+      "categorySlug": "grammar",
+      "title": "Quiz",
+      "content": "English Tenses Quiz",
+      "slug": "grammar/english-tenses-quiz",
+      "date": "2025-12-11"
     }
   ]
 }
