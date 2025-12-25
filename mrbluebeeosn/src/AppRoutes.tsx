@@ -91,7 +91,6 @@ const Posts = lazy(() => import('@/data/Posts'));
 	const NguyenAmDon = lazy(() => import('@/2_main/english/tienganh/NguyenAmDon'));
 	const NguyenAmDoi = lazy(() => import('@/2_main/english/tienganh/NguyenAmDoi'));
 
-	const Bang12DongTuPhoBien = lazy(() => import('@/2_main/english/tienganh/Bang12DongTuPhoBien'));
 
 	const DichCumDanhTuTiengAnh = lazy(() => import('@/2_main/english/tienganh/DichCumDanhTuTiengAnh'));
 	const DichCumDongTuTiengAnh = lazy(() => import('@/2_main/english/tienganh/DichCumDongTuTiengAnh'));
@@ -111,6 +110,8 @@ const Posts = lazy(() => import('@/data/Posts'));
 	const PhanTichCauTiengAnh = lazy(() => import('@/2_main/english/tienganh/PhanTichCauTiengAnh'))
 	const Nho12ThiTiengAnh = lazy(() => import('@/2_main/english/tienganh/Nho12ThiTiengAnh'))
 	const ThiTiengAnh = lazy(() => import('@/2_main/english/tienganh/ThiTiengAnh'))
+	const Bang12DongTuPhoBien = lazy(() => import('@/2_main/english/tienganh/Bang12DongTuPhoBien'));
+	
 	const VietTiengAnhMuotMaHon = lazy(() => import('@/2_main/english/tienganh/VietTiengAnhMuotMaHon'))
 	
 	const GiaoVienTiengAnh = lazy(() => import('@/2_main/english/tienganh/GiaoVienTiengAnh'));
@@ -444,7 +445,7 @@ export default function AppRoutes(): React.JSX.Element {
 					<Route path="/tieng-anh/nguyen-am-don" element={<NguyenAmDon />} />
 					<Route path="/tieng-anh/nguyen-am-doi" element={<NguyenAmDoi />} />
 
-					<Route path="/tieng-anh/bang-12-dong-tu-pho-bien" element={<Bang12DongTuPhoBien />} />
+					
 
 					<Route path="/tieng-anh/huong-dan-dich-cum-danh-tu-tieng-anh" element={<DichCumDanhTuTiengAnh />} />
 					<Route path="/tieng-anh/huong-dan-dich-cum-dong-tu-tieng-anh" element={<DichCumDongTuTiengAnh />} />
@@ -465,6 +466,7 @@ export default function AppRoutes(): React.JSX.Element {
 					<Route path="/tieng-anh/nho-12-thi-tieng-anh" element={<Nho12ThiTiengAnh />} />
 					<Route path="/tieng-anh/thi-tieng-anh" element={<ThiTiengAnh />} />
 					<Route path="/tieng-anh/thi-tieng-anh" element={<ThiTiengAnh />} />
+					<Route path="/tieng-anh/bang-12-dong-tu-pho-bien" element={<Bang12DongTuPhoBien />} />
 					
 					<Route path="/tieng-anh/meo-hay-de-viet-tieng-anh-muot-ma-hon" element={<VietTiengAnhMuotMaHon />} />
 
