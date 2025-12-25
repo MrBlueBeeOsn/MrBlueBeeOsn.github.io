@@ -30,7 +30,7 @@ export default function Bang12DongTuPhoBien(): React.JSX.Element {
 				<table className="margin-y-50">
           <thead>
             <tr>
-              <th>Present (hiện tại)</th>
+              <th>Present (hiện tại)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</th>
               <th>Past (quá khứ đơn)</th>
 							<th>Present Perfect (hiện tại hoàn thành)</th>
             </tr>
@@ -38,73 +38,73 @@ export default function Bang12DongTuPhoBien(): React.JSX.Element {
 
           <tbody>
             <tr>
-                <td>do work</td>
+                <td>do/does work</td>
                 <td>worked</td>
                 <td>have/has worked</td>
             </tr>
 
             <tr>
-                <td>do play</td>
+                <td>do/does play</td>
                 <td>played</td>
                 <td>have/has played</td>
             </tr>
 
             <tr>
-                <td>do live</td>
+                <td>do/does live</td>
                 <td>lived</td>
                 <td>have/has lived</td>
             </tr>
 
 						<tr>
-                <td>do study</td>
+                <td>do/does study</td>
                 <td>studied</td>
                 <td>have/has studied</td>
             </tr>
 
 						<tr>
-                <td>do like</td>
+                <td>do/does like</td>
                 <td>liked</td>
                 <td>have/has liked</td>
             </tr>
 
 						<tr>
-                <td>do go</td>
+                <td>do/does go</td>
                 <td>went</td>
                 <td>have/has gone</td>
             </tr>
 
 						<tr>
-                <td>do come</td>
+                <td>do/does come</td>
                 <td>came</td>
                 <td>have/has come</td>
             </tr>
 
 						<tr>
-                <td>do see</td>
+                <td>do/does see</td>
                 <td>saw</td>
                 <td>have/has seen</td>
             </tr>
 
 						<tr>
-                <td>do eat</td>
+                <td>do/does eat</td>
                 <td>ate</td>
                 <td>have/has eaten</td>
             </tr>
 
 						<tr>
-                <td>do drink</td>
+                <td>do/does drink</td>
                 <td>drank</td>
                 <td>have/has drunk</td>
             </tr>
 
 						<tr>
-                <td>do take</td>
+                <td>do/does take</td>
                 <td>took</td>
                 <td>have/has taken</td>
             </tr>
 
 						<tr>
-                <td>do give</td>
+                <td>do/does give</td>
                 <td>gave</td>
                 <td>have/has given</td>
             </tr>
