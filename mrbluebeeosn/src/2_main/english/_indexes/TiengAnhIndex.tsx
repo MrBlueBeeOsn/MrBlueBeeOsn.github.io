@@ -166,36 +166,42 @@ export default function TiengAnhIndex(): React.JSX.Element {
         <div className="sub-box">
 
           {/* =============================
-              Nhận dạng
+              Mẹo hay
           ============================= */}
       
-          <p id="tieng-anh-terms"><mark className="highlight-secondary-padding-2-4">Nhận dạng</mark></p>
+          <p id="tieng-anh-terms"><mark className="highlight-secondary-padding-2-4">Mẹo hay</mark></p>
 
           <ul className="list-border1">
 
             <li>
               <div className="li-content">
-                <Link to="/tieng-anh/huong-dan-nhan-dien-cum-danh-tu-tieng-anh">Nhận Diện Cụm Danh Từ</Link>
+                <Link to="/tieng-anh/meo-hay-de-viet-tieng-anh-muot-ma-hon">Mẹo Hay Để Viết Tiếng Anh Mượt Mà Hơn</Link>
               </div>
             </li>
+            
+            {/* <li>
+              <div className="li-content">
+                <Link to="/tieng-anh/huong-dan-nhan-dien-cum-danh-tu-tieng-anh">Nhận Diện Cụm Danh Từ</Link>
+              </div>
+            </li> */}
 
-            <li>
+            {/* <li>
               <div className="li-content">
                 <Link to="/tieng-anh/huong-dan-nhan-dien-cum-dong-tu-tieng-anh">Nhận Diện Cụm Động Từ</Link>
               </div>
-            </li>
+            </li> */}
 
-            <li>
+            {/* <li>
               <div className="li-content">
                 <Link to="/tieng-anh/dich-cau-tieng-viet-sang-tieng-anh">Dịch Câu Sang Tiếng Anh</Link>
               </div>
-            </li>
+            </li> */}
 
-            <li>
+            {/* <li>
               <div className="li-content">
                 <Link to="/tieng-anh/phan-tich-cau-tieng-anh">Phân Tích Câu Tiếng Anh</Link>
               </div>
-            </li>
+            </li> */}
 
             {/* <li>
               <div className="li-content">

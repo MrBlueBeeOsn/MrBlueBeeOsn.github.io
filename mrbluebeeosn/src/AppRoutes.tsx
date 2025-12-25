@@ -109,6 +109,7 @@ const Posts = lazy(() => import('@/data/Posts'));
   const PhanTichCauTiengAnh = lazy(() => import('@/2_main/english/tienganh/PhanTichCauTiengAnh'))
   const Nho12ThiTiengAnh = lazy(() => import('@/2_main/english/tienganh/Nho12ThiTiengAnh'))
   const ThiTiengAnh = lazy(() => import('@/2_main/english/tienganh/ThiTiengAnh'))
+  const VietTiengAnhMuotMaHon = lazy(() => import('@/2_main/english/tienganh/VietTiengAnhMuotMaHon'))
   
   const GiaoVienTiengAnh = lazy(() => import('@/2_main/english/tienganh/GiaoVienTiengAnh'));
 
@@ -459,8 +460,9 @@ export default function AppRoutes(): React.JSX.Element {
           <Route path="/tieng-anh/phan-tich-cau-tieng-anh" element={<PhanTichCauTiengAnh />} />
           <Route path="/tieng-anh/nho-12-thi-tieng-anh" element={<Nho12ThiTiengAnh />} />
           <Route path="/tieng-anh/thi-tieng-anh" element={<ThiTiengAnh />} />
+          <Route path="/tieng-anh/thi-tieng-anh" element={<ThiTiengAnh />} />
           
-          <Route path="/tieng-anh/giao-vien-tieng-anh-la-gi?" element={<GiaoVienTiengAnh />} />
+          <Route path="/tieng-anh/meo-hay-de-viet-tieng-anh-muot-ma-hon" element={<VietTiengAnhMuotMaHon />} />
 
           {/* Quiz */}
           <Route path="/tieng-anh/tieng-anh-questions" element={<TiengAnhQuestions />} />

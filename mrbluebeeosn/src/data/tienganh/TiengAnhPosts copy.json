@@ -107,6 +107,51 @@
 			"content": "Giáo viên tiếng Anh là người có chuyên môn và kỹ năng để truyền đạt kiến thức và kỹ năng sử dụng tiếng Anh cho học sinh. Họ đóng vai trò quan trọng trong việc giúp học sinh học tập và phát triển khả năng ngôn ngữ của mình.",
 			"slug": "tieng-anh/giao-vien-tieng-anh-la-gi",
 			"date": "2024-04-22"
+		},
+		{ 
+			"id": "NhanDienCumDanhTuTiengAnh",
+			"categoryDisplay": "Tiếng Anh",
+			"categorySlug": "tieng-anh",
+			"title": "Hướng Dẫn Nhận Diện Cụm Danh Từ",
+			"content": "Tay trái = How (như thế nào): tính từ, trạng từ, mạo từ, số từ, danh từ ghép… Tay phải = What (cái gì): danh từ chính luôn nằm cuối cùng",
+			"slug": "tieng-anh/huong-dan-nhan-dien-cum-danh-tu-tieng-anh",
+			"date": "2025-11-30"
+		},
+		{ 
+			"id": "NhanDienCumDongTuTiengAnh",
+			"categoryDisplay": "Tiếng Anh",
+			"categorySlug": "tieng-anh",
+			"title": "Hướng Dẫn Nhận Diện Cụm Động Từ",
+			"content": "Tay trái = Hiện tại + Tương lai (has, is, will, am going to, can, should…). Tay phải = Quá khứ (đuôi -ed, studied, been, V3…)",
+			"slug": "tieng-anh/huong-dan-nhan-dien-cum-dong-tu-tieng-anh",
+			"date": "2025-11-30"
+		},
+		{ 
+			"id": "PhanTichCauTiengAnh",
+			"categoryDisplay": "Tiếng Anh",
+			"categorySlug": "tieng-anh",
+			"title": "Hướng Dẫn Phân Tích Câu Tiếng Anh",
+			"content": "Phương Pháp 5W – Hiểu Chuẩn Nghĩa Câu Dài Bao Nhiêu Cũng Dễ!",
+			"slug": "tieng-anh/phan-tich-cau-tieng-anh",
+			"date": "2025-12-20"
+		},
+		{ 
+			"id": "Nho12ThiTiengAnh",
+			"categoryDisplay": "Tiếng Anh",
+			"categorySlug": "tieng-anh",
+			"title": "Hướng Dẫn Nhớ 12 Thì Tiếng Anh Chỉ Với Mã A1 Đến C4",
+			"content": "Phương Pháp Siêu Dễ – Ghi Nhớ Vĩnh Viễn Không Quên! (Bao Gồm Cả Thể Bị Động)",
+			"slug": "tieng-anh/nho-12-thi-tieng-anh",
+			"date": "2025-12-23"
+		},
+		{ 
+			"id": "ThiTiengAnh",
+			"categoryDisplay": "Tiếng Anh",
+			"categorySlug": "tieng-anh",
+			"title": "12 Thì Tiếng Anh – Cách Gọi Dễ Nhớ Với “Đơn”, “Đang”, “Đã”, “Sẽ”",
+			"content": "Hệ thống thì trong tiếng Anh thường khiến người học cảm thấy phức tạp. Tuy nhiên, nếu ta dùng cách gọi gần gũi như “đơn”, “đang”, “đã”, và “sẽ”, việc ghi nhớ sẽ trở nên dễ dàng hơn. Bài viết này sẽ giúp bạn nắm chắc 12 thì cơ bản qua cách gọi thân thuộc.",
+			"slug": "tieng-anh/thi-tieng-anh",
+			"date": "2025-12-24"
 		}
 	]
 }
