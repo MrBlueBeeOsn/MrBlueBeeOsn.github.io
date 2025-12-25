@@ -98,7 +98,7 @@ export default function VietTiengAnhMuotMaHon(): React.JSX.Element {
 
 						<li>Viết “finish” trước → sau điền <strong>have not</strong> → Have they finished the project yet?</li>
 
-						<li>Bản nháp: Yesterday I _____ go to the cinema.</li>
+						<li className="margin-top-20">Bản nháp: Yesterday I _____ go to the cinema.</li>
 
 						<li>Viết “go” trước → sau điền <strong>did</strong> → Yesterday I did go to the cinema.</li>
 
