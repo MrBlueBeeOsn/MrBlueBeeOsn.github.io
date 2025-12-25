@@ -92,26 +92,26 @@ const Posts = lazy(() => import('@/data/Posts'));
 	const NguyenAmDoi = lazy(() => import('@/2_main/english/tienganh/NguyenAmDoi'));
 
 
-	const DichCumDanhTuTiengAnh = lazy(() => import('@/2_main/english/tienganh/DichCumDanhTuTiengAnh'));
-	const DichCumDongTuTiengAnh = lazy(() => import('@/2_main/english/tienganh/DichCumDongTuTiengAnh'));
-	const DichCauHoiTiengAnh = lazy(() => import('@/2_main/english/tienganh/DichCauHoiTiengAnh'));
+	const DichCumDanhTuTiengAnh = lazy(() => import('@/2_main/english/tienganh/folder/DichCumDanhTuTiengAnh'));
+	const DichCumDongTuTiengAnh = lazy(() => import('@/2_main/english/tienganh/folder/DichCumDongTuTiengAnh'));
+	const DichCauHoiTiengAnh = lazy(() => import('@/2_main/english/tienganh/folder/DichCauHoiTiengAnh'));
 
-	const VietCumDanhTuTiengAnh = lazy(() => import('@/2_main/english/tienganh/VietCumDanhTuTiengAnh'))
-	const VietCumDongTuTiengAnh = lazy(() => import('@/2_main/english/tienganh/VietCumDongTuTiengAnh'));
+	const VietCumDanhTuTiengAnh = lazy(() => import('@/2_main/english/tienganh/folder/VietCumDanhTuTiengAnh'))
+	const VietCumDongTuTiengAnh = lazy(() => import('@/2_main/english/tienganh/folder/VietCumDongTuTiengAnh'));
 
-	const SapXepCumDanhTuTiengAnh = lazy(() => import('@/2_main/english/tienganh/SapXepCumDanhTuTiengAnh'))
-	const SapXepCumDongTuTiengAnh = lazy(() => import('@/2_main/english/tienganh/SapXepCumDongTuTiengAnh'));
+	const SapXepCumDanhTuTiengAnh = lazy(() => import('@/2_main/english/tienganh/folder/SapXepCumDanhTuTiengAnh'))
+	const SapXepCumDongTuTiengAnh = lazy(() => import('@/2_main/english/tienganh/folder/SapXepCumDongTuTiengAnh'));
 
-	const NhanDienCumDanhTuTiengAnh = lazy(() => import('@/2_main/english/tienganh/NhanDienCumDanhTuTiengAnh'))
-	const NhanDienCumDongTuTiengAnh = lazy(() => import('@/2_main/english/tienganh/NhanDienCumDongTuTiengAnh'))
+	const NhanDienCumDanhTuTiengAnh = lazy(() => import('@/2_main/english/tienganh/folder/NhanDienCumDanhTuTiengAnh'))
+	const NhanDienCumDongTuTiengAnh = lazy(() => import('@/2_main/english/tienganh/folder/NhanDienCumDongTuTiengAnh'))
 
-	const DichCauTiengVietSangTiengAnh = lazy(() => import('@/2_main/english/tienganh/DichCauTiengVietSangTiengAnh'))
+	const DichCauTiengVietSangTiengAnh = lazy(() => import('@/2_main/english/tienganh/folder/DichCauTiengVietSangTiengAnh'))
 
-	const PhanTichCauTiengAnh = lazy(() => import('@/2_main/english/tienganh/PhanTichCauTiengAnh'))
+	const PhanTichCauTiengAnh = lazy(() => import('@/2_main/english/tienganh/folder/PhanTichCauTiengAnh'))
 	const Nho12ThiTiengAnh = lazy(() => import('@/2_main/english/tienganh/Nho12ThiTiengAnh'))
 	const ThiTiengAnh = lazy(() => import('@/2_main/english/tienganh/ThiTiengAnh'))
 	const Bang12DongTuPhoBien = lazy(() => import('@/2_main/english/tienganh/Bang12DongTuPhoBien'));
-	
+
 	const VietTiengAnhMuotMaHon = lazy(() => import('@/2_main/english/tienganh/VietTiengAnhMuotMaHon'))
 	
 	const GiaoVienTiengAnh = lazy(() => import('@/2_main/english/tienganh/GiaoVienTiengAnh'));

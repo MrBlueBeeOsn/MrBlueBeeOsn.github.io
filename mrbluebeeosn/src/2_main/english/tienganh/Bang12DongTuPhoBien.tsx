@@ -38,73 +38,73 @@ export default function Bang12DongTuPhoBien(): React.JSX.Element {
 
           <tbody>
             <tr>
-                <td>work</td>
+                <td>to work</td>
                 <td>worked</td>
                 <td>have/has worked</td>
             </tr>
 
             <tr>
-                <td>play</td>
+                <td>to play</td>
                 <td>played</td>
                 <td>have/has played</td>
             </tr>
 
             <tr>
-                <td>live</td>
+                <td>to live</td>
                 <td>lived</td>
                 <td>have/has lived</td>
             </tr>
 
 						<tr>
-                <td>study</td>
+                <td>to study</td>
                 <td>studied</td>
                 <td>have/has studied</td>
             </tr>
 
 						<tr>
-                <td>like</td>
+                <td>to like</td>
                 <td>liked</td>
                 <td>have/has liked</td>
             </tr>
 
 						<tr>
-                <td>go</td>
+                <td>to go</td>
                 <td>went</td>
                 <td>have/has gone</td>
             </tr>
 
 						<tr>
-                <td>come</td>
+                <td>to come</td>
                 <td>came</td>
                 <td>have/has come</td>
             </tr>
 
 						<tr>
-                <td>see</td>
+                <td>to see</td>
                 <td>saw</td>
                 <td>have/has seen</td>
             </tr>
 
 						<tr>
-                <td>eat</td>
+                <td>to eat</td>
                 <td>ate</td>
                 <td>have/has eaten</td>
             </tr>
 
 						<tr>
-                <td>drink</td>
+                <td>to drink</td>
                 <td>drank</td>
                 <td>have/has drunk</td>
             </tr>
 
 						<tr>
-                <td>take</td>
+                <td>to take</td>
                 <td>took</td>
                 <td>have/has taken</td>
             </tr>
 
 						<tr>
-                <td>give</td>
+                <td>to give</td>
                 <td>gave</td>
                 <td>have/has given</td>
             </tr>
