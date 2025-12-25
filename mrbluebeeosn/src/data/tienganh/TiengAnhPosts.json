@@ -37,6 +37,15 @@
 			"date": "2025-09-12"
 		},
 		{ 
+			"id": "Bang12DongTuPhoBien",
+			"categoryDisplay": "Tiếng Anh",
+			"categorySlug": "tieng-anh",
+			"title": "Bảng 12 động từ phổ biến nhất mọi thời đại",
+			"content": "Hãy cùng khám phá danh sách những động từ “quốc dân” này và cách chúng thay đổi qua các thì nhé!",
+			"slug": "tieng-anh/bang-12-dong-tu-pho-bien",
+			"date": "2025-12-25"
+		},
+		{ 
 			"id": "VietTiengAnhMuotMaHon",
 			"categoryDisplay": "Tiếng Anh",
 			"categorySlug": "tieng-anh",

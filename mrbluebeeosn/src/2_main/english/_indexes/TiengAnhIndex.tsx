@@ -158,6 +158,12 @@ export default function TiengAnhIndex(): React.JSX.Element {
                 <Link to="/tieng-anh/nguyen-am-doi">Nguyên âm đôi</Link>
               </div>
             </li>
+
+            <li>
+              <div className="li-content">
+              <Link to="/tieng-anh/bang-12-dong-tu-pho-bien">Bảng 12 động từ phổ biến nhất mọi thời đại</Link>
+              </div>
+            </li>
             
           </ul>
 
