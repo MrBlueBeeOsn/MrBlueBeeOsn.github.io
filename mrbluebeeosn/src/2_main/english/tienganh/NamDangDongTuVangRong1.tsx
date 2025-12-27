@@ -179,7 +179,7 @@ export default function NamDangDongTuVangRong1(): React.JSX.Element {
 
 				<p>→ Đặt cuối cùng vì:</p>
 
-				<p className="margin-top-20">→ Đặt ở vị trí số 5 tạo cảm giác “tích lũy”: từ cơ bản → nâng cao → cuối cùng là “động năng” (đang diễn ra).</p>
+				<p className="margin-top-20">→ Đặt ở vị trí số 5 tạo cảm giác “tích lũy”: từ <strong>cơ bản</strong> → <strong>nâng cao</strong> → cuối cùng là “<strong>động năng</strong>” (đang diễn ra).</p>
 
 			</div>
 
@@ -203,7 +203,7 @@ export default function NamDangDongTuVangRong1(): React.JSX.Element {
 
 			<p className="text-indent-whole">Đặt dạng đang diễn ra (-ing) ở vị trí số 5 là hợp lý nhất, logic nhất, và thân thiện nhất với người học.</p>
 
-			<p className="margin-top-20 text-indent-whole">Nó giúp bạn xây dựng nền tảng từ đơn giản → phức tạp dần, từ tĩnh → động, từ cơ bản → ứng dụng thực tế.</p>
+			<p className="margin-top-20 text-indent-whole">Nó giúp bạn xây dựng nền tảng từ đơn giản → phức tạp dần, từ <strong>tĩnh</strong> → <strong>động</strong>, từ cơ bản → ứng dụng thực tế.</p>
 
 			<h3 className="margin-y-50 text-center">Bộ 5 Dạng Này Kết Hợp Tạo Ra Hàng Ngàn Câu “Đời Thường” Siêu Hay</h3>
 
