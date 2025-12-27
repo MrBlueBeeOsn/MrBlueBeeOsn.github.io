@@ -35,117 +35,104 @@ export default function BangVang12DongTuVa5Dang(): React.JSX.Element {
               <th>3. Quá khứ đơn</th>
 							<th>4. Hiện tại hoàn thành</th>
 							<th>5. Đang… (-ing)</th>
-							<th>Do/Does + ? (câu hỏi)</th>
             </tr>
           </thead>
 
           <tbody>
             <tr>
-                <td>work</td>
+                <td>You work</td>
 								<td></td>
                 <td>worked</td>
                 <td>have worked</td>
 								<td>working</td>
-								<td>Do you work…?</td>
             </tr>
 
             <tr>
                 <td></td>
-								<td>plays</td>
+								<td>She plays</td>
                 <td>played</td>
                 <td>has played</td>
 								<td>playing</td>
-								<td>Does she play…?</td>
             </tr>
 
             <tr>
-                <td>live</td>
+                <td>They live</td>
 								<td></td>
                 <td>lived</td>
                 <td>have lived</td>
 								<td>living</td>
-								<td>Do they live…?</td>
             </tr>
 
 						<tr>
-                <td>study</td>
+                <td>You study</td>
 								<td></td>
                 <td>studied</td>
                 <td>have studied</td>
 								<td>studying</td>
-								<td>Do you study…?</td>
             </tr>
 
 						<tr>
                 <td></td>
-								<td>likes</td>
+								<td>He likes</td>
                 <td>liked</td>
                 <td>has liked</td>
 								<td>liking</td>
-								<td>Does he like…?</td>
             </tr>
 
 						<tr>
-                <td>go</td>
+                <td>We go</td>
 								<td></td>
                 <td>went</td>
                 <td>have gone</td>
 								<td>going</td>
-								<td>Do we go…?</td>
             </tr>
 
 						<tr>
                 <td></td>
-								<td>comes</td>
+								<td>It comes</td>
                 <td>came</td>
                 <td>has come</td>
 								<td>coming</td>
-								<td>Does it come…?</td>
             </tr>
 
 						<tr>
-                <td>see</td>
+                <td>You see</td>
 								<td></td>
                 <td>saw</td>
                 <td>have seen</td>
 								<td>seeing</td>
-								<td>Do you see…?</td>	
             </tr>
 
 						<tr>
                 <td></td>
-								<td>eats</td>
+								<td>She eats</td>
                 <td>ate</td>
                 <td>has eaten</td>
 								<td>eating</td>
-								<td>Does she eat…?</td>
             </tr>
 
 						<tr>
-                <td>drink</td>
+                <td>They drink</td>
 								<td></td>
                 <td>drank</td>
                 <td>have drunk</td>
 								<td>drinking</td>
-								<td>Do they drink…?</td>
             </tr>
 
 						<tr>
-                <td>take</td>
+                <td>I take</td>
 								<td></td>
                 <td>took</td>
                 <td>have taken</td>
 								<td>taking</td>
-								<td>Do I take…?</td>
             </tr>
 
 						<tr>
                 <td></td>
-								<td>gives</td>
+								<td>He gives</td>
                 <td>gave</td>
                 <td>has given</td>
 								<td>giving</td>
-								<td>Does he give…?</td>
             </tr>
           </tbody>
         </table>
