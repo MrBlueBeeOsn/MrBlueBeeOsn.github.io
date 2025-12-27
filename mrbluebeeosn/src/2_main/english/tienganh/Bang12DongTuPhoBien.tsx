@@ -146,7 +146,7 @@ export default function Bang12DongTuPhoBien(): React.JSX.Element {
 					<li value="1"><strong>Hiện tại đơn giản</strong> (thói quen, sự thật)</li>
 					<li className="list-none">I <strong>work</strong> from home. She <strong>likes</strong> spicy food.</li>
 
-					<li value="2" className="margin-top-20">Đang diễn ra ngay lúc này (Present Continuous)</li>
+					<li value="2" className="margin-top-20"><strong>Đang diễn ra ngay lúc này</strong> (Present Continuous)</li>
 					<li className="list-none">Right now I <strong>am studying</strong> English. They <strong>are playing</strong> games.</li>
 
 					<li value="3" className="margin-top-20"><strong>Quá khứ đã xong xuôi</strong> (Past Simple)</li>
