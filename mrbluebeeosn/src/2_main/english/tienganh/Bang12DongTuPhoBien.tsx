@@ -19,7 +19,7 @@ export default function Bang12DongTuPhoBien(): React.JSX.Element {
 			
 			<h1 className="margin-y-50 text-center">12 động từ thông dụng nhất cùng 4 dạng cơ bản</h1>
 
-			<h4 className="margin-y-50 text-center">Từ "Ngại Nói" Thành "Nói Đã Tai" Chỉ Với 12 Động Từ Siêu Phổ Biến! 🔥</h4>
+			<h4 className="margin-bottom-30 text-center">Từ "Ngại Nói" Thành "Nói Đã Tai" Chỉ Với 12 Động Từ Siêu Phổ Biến! 🔥</h4>
 
 			<p>Bạn có từng rơi vào tình huống: muốn nói tiếng Anh mà đầu óc cứ quay mòng mòng "dùng thì nào bây giờ?", "động từ này chia ra sao?"?</p>
 
