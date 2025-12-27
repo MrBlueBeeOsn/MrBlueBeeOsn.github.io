@@ -5,9 +5,9 @@ import EyeIcon from '@/components/view/EyeIcon';
 import ViewCounter from '@/components/view/ViewCounter';
 import LikeButton from '@/components/like/LikeButton';
 
-export default function Bang12DongTuPhoBien(): React.JSX.Element {
+export default function Bang12DongTuVa4Dang(): React.JSX.Element {
 
-	const postId = "Bang12DongTuPhoBien";
+	const postId = "Bang12DongTuVa4Dang";
 
 	return (<>
 
@@ -156,7 +156,7 @@ export default function Bang12DongTuPhoBien(): React.JSX.Element {
 					<li className="list-none">I <strong>have never seen</strong> the Northern Lights.</li>
 					<li className="list-none">She <strong>has lived</strong> in 3 countries so far.</li>
 
-					<li value="5" className="margin-top-20"><strong>Câu hỏi & phủ định siêu nhanh</strong> (với do/does/did)</li>
+					<li value="5" className="margin-top-20"><strong>Câu hỏi</strong> & <strong>phủ định siêu nhanh</strong> (với do/does/did)</li>
 					<li className="list-none"><strong>Do</strong> you <strong>like</strong> horror movies? → No, I <strong>don’t</strong>.</li>
 					<li className="list-none"><strong>Does</strong> he <strong>play</strong> soccer? → Yes, he <strong>does</strong> every weekend.</li>
 					<li className="list-none"><strong>Did</strong> you <strong>go</strong> out last night? → Yeah, we <strong>did</strong>!</li>

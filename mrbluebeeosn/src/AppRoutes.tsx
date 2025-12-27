@@ -110,7 +110,7 @@ const Posts = lazy(() => import('@/data/Posts'));
 	const PhanTichCauTiengAnh = lazy(() => import('@/2_main/english/tienganh/folder/PhanTichCauTiengAnh'))
 	const Nho12ThiTiengAnh = lazy(() => import('@/2_main/english/tienganh/Nho12ThiTiengAnh'))
 	const ThiTiengAnh = lazy(() => import('@/2_main/english/tienganh/ThiTiengAnh'))
-	const Bang12DongTuPhoBien = lazy(() => import('@/2_main/english/tienganh/Bang12DongTuPhoBien'));
+	const Bang12DongTuPhoBien = lazy(() => import('@/2_main/english/tienganh/Bang12DongTuVa4Dang'));
 
 	const VietTiengAnhMuotMaHon = lazy(() => import('@/2_main/english/tienganh/VietTiengAnhMuotMaHon'))
 	
