@@ -16,8 +16,16 @@ export default function NamDangDongTuVangRong(): React.JSX.Element {
 		<article>
 		
 			<h4><HashLink smooth to="/tieng-anh#tieng-anh-terms"><mark className="highlight-tertiary-padding-4-8">Tiếng Anh</mark></HashLink></h4>
-			
-			<h1 className="margin-y-50 text-center">5 Dạng Động Từ “Vàng Ròng</h1>
+
+			<h1 className="margin-y-50 text-center">5 Dạng Động Từ “Vàng Ròng
+						
+				<sup><HashLink smooth to="/tieng-anh/5-dang-dong-tu-vang-rong">&nbsp;1&nbsp;</HashLink>
+				</sup>
+
+				<sup><HashLink smooth to="/tieng-anh/bang-vang-12-dong-tu-va-5-dang">&nbsp;2&nbsp;</HashLink>
+				</sup>
+
+			</h1>
 
 			<h4 className="margin-bottom-30 text-center">Bí Quyết Để Nói Tiếng Anh Tự Nhiên Như Người Bản Xứ Chỉ Sau Vài Tuần! 🌟</h4>
 

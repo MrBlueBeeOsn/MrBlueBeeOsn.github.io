@@ -16,8 +16,16 @@ export default function BangVang12DongTuVa5Dang(): React.JSX.Element {
 		<article>
 		
 			<h4><HashLink smooth to="/tieng-anh#tieng-anh-terms"><mark className="highlight-tertiary-padding-4-8">Tiếng Anh</mark></HashLink></h4>
+
+			<h1 className="margin-y-50 text-center">Bảng "Vàng" 12 Động Từ
 			
-			<h1 className="margin-y-50 text-center">Bảng "Vàng" 12 Động Từ</h1>
+				<sup><HashLink smooth to="/tieng-anh/5-dang-dong-tu-vang-rong">&nbsp;1&nbsp;</HashLink>
+				</sup>
+				
+				<sup><HashLink smooth to="/tieng-anh/bang-vang-12-dong-tu-va-5-dang">&nbsp;2&nbsp;</HashLink>
+				</sup>
+
+			</h1>
 
 			<h4 className="margin-bottom-30 text-center">Từ "Ngại Nói" Thành "Nói Đã Tai" Chỉ Với 12 Động Từ Siêu Phổ Biến! 🔥</h4>
 
