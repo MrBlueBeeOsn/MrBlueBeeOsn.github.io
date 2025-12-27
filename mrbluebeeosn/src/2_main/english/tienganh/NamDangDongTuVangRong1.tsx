@@ -45,7 +45,7 @@ export default function NamDangDongTuVangRong1(): React.JSX.Element {
 
 				<h3 className="margin-y-50 text-center">1. Dạng gốc (work / play / eat / go)</h3>
 
-					<p>Đây là “phiên bản gốc rễ” – dùng khi chủ ngữ là I, you, we, they, hoặc trong câu hỏi/phủ định với do/does/did.</p>
+					<p>Đây là “<strong>phiên bản gốc rễ</strong>” – dùng khi chủ ngữ là I, you, we, they, hoặc trong câu hỏi/phủ định với do/does/did.</p>
 
 					<p>Nó xuất hiện ở mọi câu nói về thói quen, sự thật, kế hoạch.</p>
 
@@ -63,7 +63,7 @@ export default function NamDangDongTuVangRong1(): React.JSX.Element {
 
 				<p className="margin-top-20">→ Dạng này như “người bạn thân” – thân thiện, dễ dùng nhất.</p>
 
-				<p>→ Bắt đầu từ “gốc rễ”, đơn giản nhất, dùng nhiều nhất khi mới học (Do/Does/Did + I/you/we/they/he/she/it + dạng gốc ...?).</p>
+				<p>→ Bắt đầu từ “gốc rễ”, đơn giản nhất, dùng nhiều nhất khi mới học (<strong>Do</strong>/<strong>Does</strong>/<strong>Did</strong> + I/you/we/they/he/she/it + <strong>dạng gốc</strong> ...?).</p>
 
 				<p>→ Đây là “cửa ngõ” đầu tiên, ai cũng phải nắm.</p>
 
@@ -77,7 +77,7 @@ export default function NamDangDongTuVangRong1(): React.JSX.Element {
 
 					<p>Chỉ cần thêm -s (hoặc -es) khi nói về he, she, it ở hiện tại đơn.</p>
 
-					<p>Đây là “luật bất thành văn” mà ai cũng phải tuân theo.</p>
+					<p>Đây là “<strong>luật bất thành văn</strong>” mà ai cũng phải tuân theo.</p>
 
 					<p>Ví dụ:</p>
 
@@ -91,7 +91,7 @@ export default function NamDangDongTuVangRong1(): React.JSX.Element {
 
 					</ul>
 
-				<p className="margin-top-20">→ Mẹo nhỏ: “Một người, một vật → phải thêm s/es để câu nghe đúng điệu!”</p>
+				<p className="margin-top-20">→ Mẹo nhỏ: “<strong>Một người</strong>, <strong>một vật</strong> → phải thêm <strong>s</strong>/<strong>es</strong> để câu nghe đúng điệu!”</p>
 
 				<p>→ Chỉ thêm một quy tắc nhỏ: +s/es khi nói về he/she/it.</p>
 
@@ -105,7 +105,7 @@ export default function NamDangDongTuVangRong1(): React.JSX.Element {
 
 				<h3 className="margin-y-50 text-center">3. Dạng quá khứ đơn (worked / played / ate / went)</h3>
 
-					<p>Đây là “người kể chuyện xưa” – dùng để kể lại mọi thứ đã xảy ra và đã kết thúc.</p>
+					<p>Đây là “<strong>người kể chuyện xưa</strong>” – dùng để kể lại mọi thứ đã xảy ra và đã kết thúc.</p>
 
 					<p>Ví dụ:</p>
 
@@ -119,7 +119,7 @@ export default function NamDangDongTuVangRong1(): React.JSX.Element {
 
 					</ul>
 
-				<p className="margin-top-20">→ Khi bạn muốn “khoe” kỷ niệm, kể ngày hôm qua, hay than thở “hôm qua mệt quá” – đây là dạng cần dùng.</p>
+				<p className="margin-top-20">→ Khi bạn muốn “<strong>khoe</strong>” kỷ niệm, kể ngày hôm qua, hay than thở “<strong>hôm qua mệt quá</strong>” – đây là dạng cần dùng.</p>
 
 				<p>→ Chuyển sang quá khứ – bước tiếp theo tự nhiên khi kể chuyện.</p>
 
@@ -133,7 +133,7 @@ export default function NamDangDongTuVangRong1(): React.JSX.Element {
 
 				<h3 className="margin-y-50 text-center">4. Dạng hiện tại hoàn thành (have/has worked / have/has played / have/has eaten / have/has gone)</h3>
 
-					<p>Đây là “cầu nối thời gian” – nói về kinh nghiệm, kết quả từ quá khứ vẫn còn ảnh hưởng đến hiện tại, hoặc việc kéo dài đến tận bây giờ.</p>
+					<p>Đây là “<strong>cầu nối thời gian</strong>” – nói về kinh nghiệm, kết quả từ quá khứ vẫn còn ảnh hưởng đến hiện tại, hoặc việc kéo dài đến tận bây giờ.</p>
 
 					<p>Ví dụ:</p>
 
@@ -147,7 +147,7 @@ export default function NamDangDongTuVangRong1(): React.JSX.Element {
 
 					</ul>
 
-				<p className="margin-top-20">→ Cảm giác: “Tôi đã từng…”, “Tôi chưa bao giờ…”, “Tôi đã làm… bao lâu rồi?”</p>
+				<p className="margin-top-20">→ Cảm giác: “<strong>Tôi đã từng</strong>…”, “<strong>Tôi chưa bao giờ</strong>…”, “<strong>Tôi đã làm</strong>… <strong>bao lâu rồi</strong>?”</p>
 
 				<p>→ “Nâng cấp” từ quá khứ lên “quá khứ liên quan đến hiện tại”.</p>
 
@@ -161,7 +161,7 @@ export default function NamDangDongTuVangRong1(): React.JSX.Element {
 
 				<h3 className="margin-y-50 text-center">5. Dạng đang diễn ra (-ing: working / playing / eating / going)</h3>
 
-					<p>Đây là “ngôi sao năng động” – dùng với am/is/are để miêu tả việc đang xảy ra ngay lúc này, hoặc sau các động từ như enjoy, hate, keep, stop…</p>
+					<p>Đây là “<strong>ngôi sao năng động</strong>” – dùng với am/is/are để miêu tả việc đang xảy ra ngay lúc này, hoặc sau các động từ như enjoy, hate, keep, stop…</p>
 
 					<p>Ví dụ:</p>
 
@@ -175,7 +175,7 @@ export default function NamDangDongTuVangRong1(): React.JSX.Element {
 
 					</ul>
 
-				<p className="margin-top-20">→ Khi bạn muốn nói “đang làm gì đấy?”, “đang diễn ra gì?” – thêm -ing là xong!</p>
+				<p className="margin-top-20">→ Khi bạn muốn nói “<strong>đang làm gì đấy</strong>?”, “<strong>đang diễn ra gì</strong>?” – thêm -ing là xong!</p>
 
 				<p>→ Đặt cuối cùng vì:</p>
 
