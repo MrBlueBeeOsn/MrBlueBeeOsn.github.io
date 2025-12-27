@@ -5,9 +5,9 @@ import EyeIcon from '@/components/view/EyeIcon';
 import ViewCounter from '@/components/view/ViewCounter';
 import LikeButton from '@/components/like/LikeButton';
 
-export default function NamDangDongTuVangRong(): React.JSX.Element {
+export default function NamDangDongTuVangRong1(): React.JSX.Element {
 
-	const postId = "NamDangDongTuVangRong";
+	const postId = "NamDangDongTuVangRong1";
 
 	return (<>
 
@@ -19,10 +19,10 @@ export default function NamDangDongTuVangRong(): React.JSX.Element {
 
 			<h1 className="margin-y-50 text-center">5 Dạng Động Từ “Vàng Ròng
 						
-				<sup><HashLink smooth to="/tieng-anh/5-dang-dong-tu-vang-rong">&nbsp;1&nbsp;</HashLink>
+				<sup><HashLink smooth to="/tieng-anh/5-dang-dong-tu-vang-rong-1">&nbsp;1&nbsp;</HashLink>
 				</sup>
 
-				<sup><HashLink smooth to="/tieng-anh/bang-vang-12-dong-tu-va-5-dang">&nbsp;2&nbsp;</HashLink>
+				<sup><HashLink smooth to="/tieng-anh/5-dang-dong-tu-vang-rong-2">&nbsp;2&nbsp;</HashLink>
 				</sup>
 
 			</h1>
@@ -183,7 +183,7 @@ export default function NamDangDongTuVangRong(): React.JSX.Element {
 
 			</div>
 
-			<h4 className="margin-top-50 margin-bottom-30">Vậy bộ 5 dạng sắp xếp như thế này là “chuẩn gu”:</h4>
+			<h3 className="margin-y-50 text-center">Vậy bộ 5 dạng sắp xếp như thế này là “chuẩn gu”:</h3>
 			
 				<ol>
 			
@@ -205,8 +205,8 @@ export default function NamDangDongTuVangRong(): React.JSX.Element {
 
 			<p className="margin-top-20 text-indent-whole">Nó giúp bạn xây dựng nền tảng từ đơn giản → phức tạp dần, từ tĩnh → động, từ cơ bản → ứng dụng thực tế.</p>
 
-			<h4 className="margin-y-30">Bộ 5 Dạng Này Kết Hợp Tạo Ra Hàng Ngàn Câu “Đời Thường” Siêu Hay</h4>
-			
+			<h3 className="margin-y-50 text-center">Bộ 5 Dạng Này Kết Hợp Tạo Ra Hàng Ngàn Câu “Đời Thường” Siêu Hay</h3>
+
 				<ul className="list-square">
 			
 					<li>I <strong>work</strong> hard every day, but right now I <strong>am working</strong> even harder!</li>
@@ -221,7 +221,7 @@ export default function NamDangDongTuVangRong(): React.JSX.Element {
 			
 				</ul>
 
-			<h4 className="margin-y-30">Thử Thách 7 Ngày “Nói Tiếng Anh Mượt Hơn Hẳn” – Bắt Đầu Ngay Hôm Nay!</h4>
+			<h3 className="margin-y-50 text-center">Thử Thách 7 Ngày “Nói Tiếng Anh Mượt Hơn Hẳn” – Bắt Đầu Ngay Hôm Nay!</h3>
 			
 				<ul className="list-square">
 
@@ -241,19 +241,13 @@ export default function NamDangDongTuVangRong(): React.JSX.Element {
 			
 				</ul>
 
-			<p className="margin-top-20">Chỉ cần 10–15 phút mỗi ngày, sau 7 ngày bạn sẽ nhận ra:</p>
+			<p className="margin-top-20">Chỉ cần 10–15 phút mỗi ngày, sau 7 ngày bạn sẽ nhận ra: Tiếng Anh không còn là “những quy tắc khô khan” nữa, mà trở thành công cụ để kể chuyện đời mình một cách tự nhiên và thú vị.</p>
 
-			<p>Tiếng Anh không còn là “những quy tắc khô khan” nữa, mà trở thành công cụ để kể chuyện đời mình một cách tự nhiên và thú vị.</p>
+			<p>Bộ 5 dạng này chính là <strong>chìa khóa vạn năng</strong>. Khi bạn đã “thu phục” được chúng, mọi thì khác chỉ là “phụ kiện” mà thôi.</p>
 
-			<p>Bộ 5 dạng này chính là <strong>chìa khóa vạn năng</strong>.</p>
+			<p>Bạn chọn động từ nào để bắt đầu “level up” hôm nay? Work, eat, travel, love, sleep, dance…?</p>
 
-			<p>Khi bạn đã “thu phục” được chúng, mọi thì khác chỉ là “phụ kiện” mà thôi.</p>
-
-			<p>Bạn chọn động từ nào để bắt đầu “level up” hôm nay?</p>
-
-			<p>Work, eat, travel, love, sleep, dance…?</p>
-
-			<p><Link to="/tieng-anh/bang-vang-12-dong-tu-va-5-dang">Bảng "Vàng" 12 Động Từ</Link> – Nắm Là Dùng Ngay</p>
+			<p><HashLink smooth to="/tieng-anh/5-dang-dong-tu-vang-rong-2#bang-vang-12-dong-tu">Bảng "Vàng" 12 Động Từ</HashLink> – Nắm Là Dùng Ngay</p>
 
 			<p>Cứ chọn một cái và bắt đầu đi – mình tin bạn sẽ làm được! 💪✨</p>
 

@@ -5,9 +5,9 @@ import EyeIcon from '@/components/view/EyeIcon';
 import ViewCounter from '@/components/view/ViewCounter';
 import LikeButton from '@/components/like/LikeButton';
 
-export default function BangVang12DongTuVa5Dang(): React.JSX.Element {
+export default function NamDangDongTuVangRong2(): React.JSX.Element {
 
-	const postId = "BangVang12DongTuVa5Dang";
+	const postId = "NamDangDongTuVangRong2";
 
 	return (<>
 
@@ -17,12 +17,12 @@ export default function BangVang12DongTuVa5Dang(): React.JSX.Element {
 		
 			<h4><HashLink smooth to="/tieng-anh#tieng-anh-terms"><mark className="highlight-tertiary-padding-4-8">Tiếng Anh</mark></HashLink></h4>
 
-			<h1 className="margin-y-50 text-center">Bảng "Vàng" 12 Động Từ
+			<h1 className="margin-y-50 text-center">5 Dạng Động Từ “Vàng Ròng
 			
-				<sup><HashLink smooth to="/tieng-anh/5-dang-dong-tu-vang-rong">&nbsp;1&nbsp;</HashLink>
+				<sup><HashLink smooth to="/tieng-anh/5-dang-dong-tu-vang-rong-1">&nbsp;1&nbsp;</HashLink>
 				</sup>
 				
-				<sup><HashLink smooth to="/tieng-anh/bang-vang-12-dong-tu-va-5-dang">&nbsp;2&nbsp;</HashLink>
+				<sup><HashLink smooth to="/tieng-anh/5-dang-dong-tu-vang-rong-2">&nbsp;2&nbsp;</HashLink>
 				</sup>
 
 			</h1>
@@ -33,7 +33,7 @@ export default function BangVang12DongTuVa5Dang(): React.JSX.Element {
 
 			<p>Tin vui: Chỉ cần nắm chắc <strong>12 động từ thông dụng nhất</strong> cùng <strong>5 dạng cơ bản</strong> của chúng, bạn sẽ tự tin "bung lụa" trong hầu hết các cuộc trò chuyện đời thường – từ chat chit bạn bè, phỏng vấn xin việc, đến kể chuyện du lịch.</p>
 
-			<h3 className="margin-y-50 text-center">Bảng "Vàng" 12 Động Từ – Nắm Là Dùng Ngay</h3>
+			<h3 className="margin-y-50 text-center" id="bang-vang-12-dong-tu">Bảng "Vàng" 12 Động Từ – Nắm Là Dùng Ngay</h3>
 
 				<table className="margin-y-50">
           <thead>
@@ -173,7 +173,7 @@ export default function BangVang12DongTuVa5Dang(): React.JSX.Element {
 			
 				</ol>
 
-			<h4 className="margin-y-30">Một Ngày Của Bạn Bằng Tiếng Anh (Dùng Đủ 5 dạng)</h4>
+			<h3 className="margin-y-50 text-center">Một Ngày Của Bạn Bằng Tiếng Anh (Dùng Đủ 5 dạng)</h3>
 			
 				<ul className="list-square">
 			
@@ -189,7 +189,7 @@ export default function BangVang12DongTuVa5Dang(): React.JSX.Element {
 			
 				</ul>
 
-			<h4 className="margin-y-30">Thử Thách 7 Ngày "Nói Tiếng Anh Mượt Hơn" Ngay Hôm Nay</h4>
+			<h3 className="margin-y-50 text-center">Thử Thách 7 Ngày "Nói Tiếng Anh Mượt Hơn" Ngay Hôm Nay</h3>
 			
 				<ul className="list-square">
 

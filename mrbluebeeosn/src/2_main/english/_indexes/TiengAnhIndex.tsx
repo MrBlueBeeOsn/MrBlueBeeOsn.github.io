@@ -177,13 +177,12 @@ export default function TiengAnhIndex(): React.JSX.Element {
 
             <li>
               <div className="li-content">
-                <Link to="/tieng-anh/5-dang-dong-tu-vang-rong">5 Dạng Động Từ “Vàng Ròng”</Link>
-              </div>
-            </li>
-
-            <li>
-              <div className="li-content">
-              <Link to="/tieng-anh/bang-vang-12-dong-tu-va-5-dang">Bảng "Vàng" 12 Động Từ</Link>
+                <Link to="/tieng-anh/5-dang-dong-tu-vang-rong-1">5 Dạng Động Từ “Vàng Ròng”
+                <sup>&nbsp;1&nbsp;</sup>
+                </Link>
+                <Link to="/tieng-anh/5-dang-dong-tu-vang-rong-2">
+                  <sup>&nbsp;2&nbsp;</sup>
+                </Link>
               </div>
             </li>
 
