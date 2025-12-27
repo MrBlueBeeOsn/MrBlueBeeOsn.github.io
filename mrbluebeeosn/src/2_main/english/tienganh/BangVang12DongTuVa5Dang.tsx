@@ -197,11 +197,17 @@ export default function BangVang12DongTuVa5Dang(): React.JSX.Element {
 			
 				<ul className="list-square">
 
-					<li><strong>Ngày 1–2</strong>: Học thuộc 6 động từ đầu + viết 5 câu mỗi dạng.</li>
+					<li><strong>Ngày 1</strong>: Học thuộc 6 động từ đầu</li>
+
+					<li><strong>Ngày 2</strong>: Viết 5 câu mỗi dạng.</li>
 			
-					<li><strong>Ngày 3–4</strong>: Tập nói to 10 câu dùng Present Continuous + Present Perfect.</li>
+					<li><strong>Ngày 3</strong>: Tập nói to 10 câu dùng Present Simple + Past Simple.</li>
+
+					<li><strong>Ngày 4</strong>: Tập nói to 10 câu dùng Present Perfect + Present Continuous.</li>
 			
-					<li><strong>Ngày 5–6</strong>: Viết status hoặc chat với bạn bằng 3 thì khác nhau (dùng do/does nhiều nhất).</li>
+					<li><strong>Ngày 5</strong>: Viết status bằng 3 thì khác nhau (dùng do/does nhiều nhất).</li>
+
+					<li><strong>Ngày 6</strong>: Chat với bạn bằng 3 thì khác nhau (dùng do/does nhiều nhất).</li>
 			
 					<li><strong>Ngày 7</strong>: Kể lại một ngày của bạn hoàn toàn bằng tiếng Anh (ghi âm càng tốt).</li>
 			
