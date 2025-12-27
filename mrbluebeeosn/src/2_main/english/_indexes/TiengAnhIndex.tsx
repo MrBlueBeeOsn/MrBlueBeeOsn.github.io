@@ -180,6 +180,12 @@ export default function TiengAnhIndex(): React.JSX.Element {
                 <Link to="/tieng-anh/meo-hay-de-viet-tieng-anh-muot-ma-hon">Mẹo Hay Để Viết Tiếng Anh Mượt Mà Hơn</Link>
               </div>
             </li>
+
+            <li>
+              <div className="li-content">
+              <Link to="/tieng-anh/12-dong-tu-thong-dung-nhat-cung-4-dang-co-ban">12 động từ thông dụng nhất cùng 4 dạng cơ bản</Link>
+              </div>
+            </li>
             
             {/* <li>
               <div className="li-content">
@@ -250,6 +256,18 @@ export default function TiengAnhIndex(): React.JSX.Element {
               </div>
             </li> */}
         
+            {/* <li>
+              <div className="li-content">
+                <Link to="/tieng-anh/thi-tieng-anh">12 Thì Tiếng Anh</Link>
+              </div>
+            </li> */}
+
+            {/* <li>
+              <div className="li-content">
+                <Link to="/tieng-anh/nho-12-thi-tieng-anh">Nhớ 12 Thì Tiếng Anh</Link>
+              </div>
+            </li> */}
+
           </ul>
 
         </div>
@@ -257,38 +275,6 @@ export default function TiengAnhIndex(): React.JSX.Element {
       </div>
 
       <div className="flex-container margin-top-20">
-
-        <div className="sub-box">
-
-          {/* =============================
-              Thì
-          ============================= */}
-      
-          <p id="tieng-anh-terms"><mark className="highlight-secondary-padding-2-4">Thì</mark></p>
-
-          <ul className="list-border1">
-
-            <li>
-              <div className="li-content">
-                <Link to="/tieng-anh/thi-tieng-anh">12 Thì Tiếng Anh</Link>
-              </div>
-            </li>
-
-            <li>
-              <div className="li-content">
-                <Link to="/tieng-anh/nho-12-thi-tieng-anh">Nhớ 12 Thì Tiếng Anh</Link>
-              </div>
-            </li>
-
-           <li>
-              <div className="li-content">
-              <Link to="/tieng-anh/bang-12-dong-tu-pho-bien">12 động từ phổ biến nhất mọi thời đại</Link>
-              </div>
-            </li>
-        
-          </ul>
-
-        </div>
 
         <div className="sub-box">
 

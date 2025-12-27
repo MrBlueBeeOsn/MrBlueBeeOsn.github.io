@@ -17,187 +17,187 @@ export default function Bang12DongTuPhoBien(): React.JSX.Element {
 		
 			<h4><HashLink smooth to="/tieng-anh#tieng-anh-terms"><mark className="highlight-tertiary-padding-4-8">Tiếng Anh</mark></HashLink></h4>
 			
-			<h1 className="margin-y-50 text-center">Bảng 12 động từ phổ biến nhất mọi thời đại</h1>
+			<h1 className="margin-y-50 text-center">12 động từ thông dụng nhất cùng 4 dạng cơ bản</h1>
 
-			<h3 className="margin-y-50 text-center">Hành Trình 12 Thì Động Từ Tiếng Anh: Từ Present Đến Present Perfect</h3>
+			<h4 className="margin-y-50 text-center">Từ "Ngại Nói" Thành "Nói Đã Tai" Chỉ Với 12 Động Từ Siêu Phổ Biến! 🔥</h4>
 
-			<p>Học tiếng Anh, đặc biệt là hệ thống thì (tenses), thường khiến nhiều người cảm thấy “choáng ngợp”. Nhưng nếu bạn nắm vững được 12 động từ cơ bản nhất cùng 3 dạng quan trọng: hiện tại (Present), quá khứ đơn (Past) và hiện tại hoàn thành (Present Perfect), bạn đã xây được một nền tảng cực kỳ vững chắc để giao tiếp tự nhiên và đúng ngữ pháp.</p>
+			<p>Bạn có từng rơi vào tình huống: muốn nói tiếng Anh mà đầu óc cứ quay mòng mòng "dùng thì nào bây giờ?", "động từ này chia ra sao?"?</p>
 
-			<p>Hãy cùng khám phá danh sách những động từ “quốc dân” này và cách chúng thay đổi qua các thì nhé!</p>
+			<p>Tin vui: Chỉ cần nắm chắc <strong>12 động từ thông dụng nhất</strong> cùng <strong>4 dạng cơ bản</strong> của chúng, bạn sẽ tự tin "bung lụa" trong hầu hết các cuộc trò chuyện đời thường – từ chat chit bạn bè, phỏng vấn xin việc, đến kể chuyện du lịch.</p>
 
-			<h3 className="margin-y-50 text-center">Bảng 12 động từ phổ biến nhất mọi thời đại</h3>
+			<h3 className="margin-y-50 text-center">Bảng "Vàng" 12 Động Từ – Nắm Là Dùng Ngay</h3>
 
 				<table className="margin-y-50">
           <thead>
             <tr>
-              <th>Present (hiện tại)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</th>
-              <th>Past (quá khứ đơn)</th>
-							<th>Present Perfect (hiện tại hoàn thành)</th>
+              <th>Nguyên thể</th>
+              <th>Quá khứ đơn</th>
+							<th>Hiện tại hoàn thành</th>
+							<th>Đang… (-ing)</th>
+							<th>Do/Does + ? (câu hỏi)</th>
             </tr>
           </thead>
 
           <tbody>
             <tr>
-                <td>do/does work</td>
+                <td>work</td>
                 <td>worked</td>
                 <td>have/has worked</td>
+								<td>working</td>
+								<td>Do you work…?</td>
             </tr>
 
             <tr>
-                <td>do/does play</td>
+                <td>play</td>
                 <td>played</td>
                 <td>have/has played</td>
+								<td>playing</td>
+								<td>Does she play…?</td>
             </tr>
 
             <tr>
-                <td>do/does live</td>
+                <td>live</td>
                 <td>lived</td>
                 <td>have/has lived</td>
+								<td>living</td>
+								<td>Do they live…?</td>
             </tr>
 
 						<tr>
-                <td>do/does study</td>
+                <td>study</td>
                 <td>studied</td>
                 <td>have/has studied</td>
+								<td>studying</td>
+								<td>Do you study…?</td>
             </tr>
 
 						<tr>
-                <td>do/does like</td>
+                <td>like</td>
                 <td>liked</td>
                 <td>have/has liked</td>
+								<td>liking</td>
+								<td>Does he like…?</td>
             </tr>
 
 						<tr>
-                <td>do/does go</td>
+                <td>go</td>
                 <td>went</td>
                 <td>have/has gone</td>
+								<td>going</td>
+								<td>Do we go…?</td>
             </tr>
 
 						<tr>
-                <td>do/does come</td>
+                <td>come</td>
                 <td>came</td>
                 <td>have/has come</td>
+								<td>coming</td>
+								<td>Does it come…?</td>
             </tr>
 
 						<tr>
-                <td>do/does see</td>
+                <td>see</td>
                 <td>saw</td>
                 <td>have/has seen</td>
+								<td>seeing</td>
+								<td>Do you see…?</td>	
             </tr>
 
 						<tr>
-                <td>do/does eat</td>
+                <td>eat</td>
                 <td>ate</td>
                 <td>have/has eaten</td>
+								<td>eating</td>
+								<td>Does she eat…?</td>
             </tr>
 
 						<tr>
-                <td>do/does drink</td>
+                <td>drink</td>
                 <td>drank</td>
                 <td>have/has drunk</td>
+								<td>drinking</td>
+								<td>Do they drink…?</td>
             </tr>
 
 						<tr>
-                <td>do/does take</td>
+                <td>take</td>
                 <td>took</td>
                 <td>have/has taken</td>
+								<td>taking</td>
+								<td>Do I take…?</td>
             </tr>
 
 						<tr>
-                <td>do/does give</td>
+                <td>give</td>
                 <td>gave</td>
                 <td>have/has given</td>
+								<td>giving</td>
+								<td>Does he give…?</td>
             </tr>
           </tbody>
         </table>
 
-			<h3 className="margin-y-50 text-center">Tại sao 12 động từ này lại “đỉnh cao” đến vậy?</h3>
+			{/* 5 "Siêu Thì" Bạn Dùng Hàng Ngày Với 12 Động Từ Này */}
 
-			<h4 className="margin-y-30">1. Tần suất sử dụng cực cao</h4>
+			<h3 className="margin-y-50 text-center">5 "Siêu Thì" Bạn Dùng Hàng Ngày Với 12 Động Từ Này</h3>
 					
-			<p>Đây là những động từ xuất hiện nhiều nhất trong hội thoại hàng ngày, phim ảnh, bài hát, sách báo tiếng Anh. Nắm được chúng, bạn đã có thể hiểu và nói được khoảng 40–50% các câu giao tiếp cơ bản.</p>
+				<ol>
+			
+					<li value="1"><strong>Hiện tại đơn giản</strong> (thói quen, sự thật)</li>
+					<li className="list-none">I <strong>work</strong> from home. She <strong>likes</strong> spicy food.</li>
 
-			<h4 className="margin-y-30">2. Đại diện cho cả hai loại: Quy tắc & Bất quy tắc</h4>
+					<li value="2" className="margin-top-20">Đang diễn ra ngay lúc này (Present Continuous)</li>
+					<li className="list-none">Right now I <strong>am studying</strong> English. They <strong>are playing</strong> games.</li>
+
+					<li value="3" className="margin-top-20"><strong>Quá khứ đã xong xuôi</strong> (Past Simple)</li>
+					<li className="list-none">Yesterday we <strong>went</strong> to the beach. I <strong>ate</strong> bún chả for lunch.</li>
+
+					<li value="4" className="margin-top-20"><strong>Kinh nghiệm</strong> / <strong>kết quả đến hiện tại</strong> (Present Perfect)</li>
+					<li className="list-none">I <strong>have never seen</strong> the Northern Lights.</li>
+					<li className="list-none">She <strong>has lived</strong> in 3 countries so far.</li>
+
+					<li value="5" className="margin-top-20"><strong>Câu hỏi & phủ định siêu nhanh</strong> (với do/does/did)</li>
+					<li className="list-none"><strong>Do</strong> you <strong>like</strong> horror movies? → No, I <strong>don’t</strong>.</li>
+					<li className="list-none"><strong>Does</strong> he <strong>play</strong> soccer? → Yes, he <strong>does</strong> every weekend.</li>
+					<li className="list-none"><strong>Did</strong> you <strong>go</strong> out last night? → Yeah, we <strong>did</strong>!</li>
+			
+				</ol>
+
+			<h4 className="margin-y-30">Một Ngày Của Bạn Bằng Tiếng Anh (Dùng Đủ 4 Dạng)</h4>
 			
 				<ul className="list-square">
 			
-					<li>Động từ có quy tắc (regular): work → worked → worked</li>
+					<li>Every morning I <strong>wake</strong> up and <strong>drink</strong> coffee</li>
 			
-					<li>Động từ bất quy tắc (irregular): go → went → gone</li>
+					<li>Right now I <strong>am writing</strong> this article for you.</li>
+
+					<li>Last weekend I <strong>went</strong> hiking with friends.</li>
+			
+					<li>This year I <strong>have studied</strong> English more seriously than ever.</li>
+
+					<li><strong>Do</strong> you <strong>want</strong> to try? → Just start with these 12 verbs!</li>
 			
 				</ul>
 
-			<p className="margin-top-20">Học cả hai loại ngay từ đầu giúp bạn làm quen với “cảm giác” của ngôn ngữ.</p>
-
-			<h4 className="margin-y-30">3. Dễ áp dụng vào 3 thì quan trọng nhất khi mới bắt đầu</h4>
+			<h4 className="margin-y-30">Thử Thách 7 Ngày "Nói Tiếng Anh Mượt Hơn" Ngay Hôm Nay</h4>
 			
 				<ul className="list-square">
+
+					<li><strong>Ngày 1–2</strong>: Học thuộc 6 động từ đầu + viết 5 câu mỗi dạng.</li>
 			
-					<li><strong>Present Simple</strong>: I work every day.</li>
+					<li><strong>Ngày 3–4</strong>: Tập nói to 10 câu dùng Present Continuous + Present Perfect.</li>
 			
-					<li><strong>Past Simple</strong>: I worked yesterday.</li>
+					<li><strong>Ngày 5–6</strong>: Viết status hoặc chat với bạn bằng 3 thì khác nhau (dùng do/does nhiều nhất).</li>
 			
-					<li><strong>Present Perfect</strong>: I have worked here for 3 years.</li>
+					<li><strong>Ngày 7</strong>: Kể lại một ngày của bạn hoàn toàn bằng tiếng Anh (ghi âm càng tốt).</li>
 			
 				</ul>
 
-			<p className="margin-top-20">Khi bạn đã quen với 3 thì này, việc học các thì còn lại (Present Continuous, Past Perfect, Future…) sẽ trở nên dễ thở hơn rất nhiều.</p>
+			<p className="margin-top-20">Chỉ 10–15 phút mỗi ngày, sau 1 tuần bạn sẽ nhận ra: "Ơ, sao mình nói tự nhiên hơn hẳn vậy ta?"</p>
 
-			{/* Một số câu ví dụ */}
+			<p>12 động từ nhỏ xíu này chính là <strong>chìa khóa mở cửa</strong> để bạn bước vào thế giới tiếng Anh thoải mái, không còn sợ sai nữa.</p>
 
-			<h3 className="margin-y-50 text-center">Một số câu ví dụ “đời thường” để bạn luyện ngay hôm nay</h3>
-					
-				<ul className="list-square">
-			
-					<li>I <strong>have worked</strong> at this company since 2020.</li>
-			
-					<li>She <strong>went</strong> to Japan last summer, but she <strong>hasn’t gone</strong> anywhere this year.</li>
-			
-					<li>We <strong>have eaten</strong> sushi so many times, but yesterday we ate the best one ever!</li>
-
-					<li>He <strong>has lived</strong> in 5 different countries. That’s why he speaks English so well.</li>
-			
-					<li>They <strong>gave</strong> me a beautiful gift, but I <strong>haven’t given</strong> them anything yet.</li>
-			
-				</ul>
-
-			{/* Bí kíp */}
-
-			<h3 className="margin-y-50 text-center">Bí kíp học nhanh và nhớ lâu</h3>
-
-			<h4 className="margin-y-30">1. Học theo cụm:</h4>
-					
-			<p className="text-indent-whole">Không học riêng lẻ “go – went – gone”, mà học luôn câu hoàn chỉnh:</p>
-			
-				<ul className="list-square">
-			
-					<li>“I’ve never <strong>gone</strong> to Paris.”</li>
-			
-					<li>“She <strong>went</strong> there last month.”</li>
-			
-				</ul>
-
-			<h4 className="margin-y-30">2. Kể chuyện bằng 3 thì:</h4>
-					
-			<p className="text-indent-whole">Mỗi ngày thử kể lại một việc nhỏ trong ngày bằng cả 3 dạng. Ví dụ:</p>
-			
-				<ul className="list-square">
-			
-					<li>Today I <strong>work</strong> from home.</li>
-			
-					<li>Yesterday I <strong>worked</strong> until midnight.</li>
-			
-					<li>This month I <strong>have worked</strong> more than 200 hours!</li>
-			
-				</ul>
-
-			<h4 className="margin-y-30">3. Nghe và nhại theo phim/nhạc</h4>
-					
-			<p>Các bài hát như “I’ve Had The Time of My Life”, “I Will Always Love You”, “Shape of You”… đều chứa rất nhiều Present Perfect và Past Simple.</p>
-
-			<p className="margin-top-20">Hãy bắt đầu ngay hôm nay với 12 “chiến binh” này. Khi bạn đã nói được tự nhiên 3 thì trên với những động từ quen thuộc nhất, bạn sẽ thấy tiếng Anh không còn xa vời nữa – mà trở thành một người bạn đồng hành rất gần gũi.</p>
-
-			<p>Chúc bạn học vui và tiến bộ mỗi ngày! 🚀</p>
+			<p>Cứ bắt đầu đi, mình ở đây cổ vũ bạn! 💪✨</p>
 
 			<div className="viewcounter">
 			
