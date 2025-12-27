@@ -225,15 +225,15 @@ export default function NamDangDongTuVangRong1(): React.JSX.Element {
 			
 				<ul className="list-square">
 
-					<li><strong>Ngày 1</strong>: Chọn 3 động từ yêu thích (work, eat, go) – viết hoặc nói 5 câu cho mỗi dạng. (hiện tại đơn giản cơ bản)</li>
+					<li><strong>Ngày 1</strong>: Chọn 3 động từ yêu thích (work, eat, go) – viết hoặc nói 5 câu cho mỗi dạng (hiện tại đơn giản cơ bản).</li>
 
-					<li><strong>Ngày 2</strong>: Chọn 3 động từ yêu thích (work, eat, go) – viết hoặc nói 5 câu cho mỗi dạng. (hiện tại đơn giản cho he/she/it)</li>
+					<li><strong>Ngày 2</strong>: Chọn 3 động từ yêu thích (work, eat, go) – viết hoặc nói 5 câu cho mỗi dạng (hiện tại đơn giản cho he/she/it).</li>
 			
 					<li><strong>Ngày 3</strong>: Tập kể chuyện quá khứ: “Yesterday I…” (dùng dạng quá khứ).</li>
 
 					<li><strong>Ngày 4</strong>: Luyện hiện tại hoàn thành: “I have never…” + “I have … for/since…”.</li>
 			
-					<li><strong>Ngày 5</strong>: Nói về “đang làm”</li>
+					<li><strong>Ngày 5</strong>: Nói về “đang làm”.</li>
 
 					<li><strong>Ngày 6</strong>: Ghi âm “What am I doing right now?”.</li>
 			

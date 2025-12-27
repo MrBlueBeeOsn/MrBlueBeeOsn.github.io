@@ -193,7 +193,7 @@ export default function NamDangDongTuVangRong2(): React.JSX.Element {
 			
 				<ul className="list-square">
 
-					<li><strong>Ngày 1</strong>: Học thuộc 6 động từ đầu</li>
+					<li><strong>Ngày 1</strong>: Học thuộc 6 động từ đầu.</li>
 
 					<li><strong>Ngày 2</strong>: Viết 5 câu mỗi dạng.</li>
 			
