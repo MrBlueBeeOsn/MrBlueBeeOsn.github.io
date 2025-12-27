@@ -160,7 +160,8 @@ export default function BangVang12DongTuVa5Dang(): React.JSX.Element {
 					<li className="list-none">She <strong>has lived</strong> in 3 countries so far.</li>
 
 					<li value="5" className="margin-top-20"><strong>Đang diễn ra ngay lúc này</strong> (Present Continuous)</li>
-					<li className="list-none">Right now I <strong>am studying</strong> English. They <strong>are playing</strong> games.</li>
+					<li className="list-none">Right now I <strong>am studying</strong> English.</li>
+					<li className="list-none">They <strong>are playing</strong> games.</li>
 			
 				</ol>
 
