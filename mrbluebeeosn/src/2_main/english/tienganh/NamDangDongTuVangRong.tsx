@@ -55,7 +55,7 @@ export default function NamDangDongTuVangRong(): React.JSX.Element {
 
 				<p className="margin-top-20">→ Dạng này như “người bạn thân” – thân thiện, dễ dùng nhất.</p>
 
-				<p>→ Bắt đầu từ “gốc rễ”, đơn giản nhất, dùng nhiều nhất khi mới học (I/you/we/they + do/does/did).</p>
+				<p>→ Bắt đầu từ “gốc rễ”, đơn giản nhất, dùng nhiều nhất khi mới học (Do/Does/Did + I/you/we/they/he/she/it + dạng gốc ...?).</p>
 
 				<p>→ Đây là “cửa ngõ” đầu tiên, ai cũng phải nắm.</p>
 
