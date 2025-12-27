@@ -168,24 +168,31 @@ export default function TiengAnhIndex(): React.JSX.Element {
         <div className="sub-box">
 
           {/* =============================
-              Mẹo hay
+              Động từ
           ============================= */}
       
-          <p id="tieng-anh-terms"><mark className="highlight-secondary-padding-2-4">Mẹo hay</mark></p>
+          <p id="tieng-anh-terms"><mark className="highlight-secondary-padding-2-4">Động từ</mark></p>
 
           <ul className="list-border1">
+
+            <li>
+              <div className="li-content">
+                <Link to="/tieng-anh/5-dang-dong-tu-vang-rong">5 Dạng Động Từ “Vàng Ròng”</Link>
+              </div>
+            </li>
+
+            <li>
+              <div className="li-content">
+              <Link to="/tieng-anh/bang-vang-12-dong-tu-va-5-dang">Bảng "Vàng" 12 Động Từ</Link>
+              </div>
+            </li>
 
             <li>
               <div className="li-content">
                 <Link to="/tieng-anh/meo-hay-de-viet-tieng-anh-muot-ma-hon">Mẹo Hay Để Viết Tiếng Anh Mượt Mà Hơn</Link>
               </div>
             </li>
-
-            <li>
-              <div className="li-content">
-              <Link to="/tieng-anh/12-dong-tu-thong-dung-nhat-cung-4-dang-co-ban">12 động từ thông dụng nhất cùng 4 dạng cơ bản</Link>
-              </div>
-            </li>
+            
             
             {/* <li>
               <div className="li-content">

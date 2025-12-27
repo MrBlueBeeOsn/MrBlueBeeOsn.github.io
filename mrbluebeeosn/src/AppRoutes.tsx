@@ -91,6 +91,9 @@ const Posts = lazy(() => import('@/data/Posts'));
 	const NguyenAmDon = lazy(() => import('@/2_main/english/tienganh/NguyenAmDon'));
 	const NguyenAmDoi = lazy(() => import('@/2_main/english/tienganh/NguyenAmDoi'));
 
+	const BangVang12DongTuVa5Dang = lazy(() => import('@/2_main/english/tienganh/BangVang12DongTuVa5Dang'));
+	const NamDangDongTuVangRong = lazy(() => import('@/2_main/english/tienganh/NamDangDongTuVangRong'));
+
 
 	const DichCumDanhTuTiengAnh = lazy(() => import('@/2_main/english/tienganh/folder/DichCumDanhTuTiengAnh'));
 	const DichCumDongTuTiengAnh = lazy(() => import('@/2_main/english/tienganh/folder/DichCumDongTuTiengAnh'));
@@ -108,9 +111,9 @@ const Posts = lazy(() => import('@/data/Posts'));
 	const DichCauTiengVietSangTiengAnh = lazy(() => import('@/2_main/english/tienganh/folder/DichCauTiengVietSangTiengAnh'))
 
 	const PhanTichCauTiengAnh = lazy(() => import('@/2_main/english/tienganh/folder/PhanTichCauTiengAnh'))
-	const Nho12ThiTiengAnh = lazy(() => import('@/2_main/english/tienganh/Nho12ThiTiengAnh'))
-	const ThiTiengAnh = lazy(() => import('@/2_main/english/tienganh/ThiTiengAnh'))
-	const Bang12DongTuPhoBien = lazy(() => import('@/2_main/english/tienganh/Bang12DongTuVa4Dang'));
+	const Nho12ThiTiengAnh = lazy(() => import('@/2_main/english/tienganh/folder/Nho12ThiTiengAnh'))
+	const ThiTiengAnh = lazy(() => import('@/2_main/english/tienganh/folder/ThiTiengAnh'))
+	
 
 	const VietTiengAnhMuotMaHon = lazy(() => import('@/2_main/english/tienganh/VietTiengAnhMuotMaHon'))
 	
@@ -445,6 +448,9 @@ export default function AppRoutes(): React.JSX.Element {
 					<Route path="/tieng-anh/nguyen-am-don" element={<NguyenAmDon />} />
 					<Route path="/tieng-anh/nguyen-am-doi" element={<NguyenAmDoi />} />
 
+					<Route path="/tieng-anh/bang-vang-12-dong-tu-va-5-dang" element={<BangVang12DongTuVa5Dang />} />
+					<Route path="/tieng-anh/5-dang-dong-tu-vang-rong" element={<NamDangDongTuVangRong />} />
+
 					
 
 					<Route path="/tieng-anh/huong-dan-dich-cum-danh-tu-tieng-anh" element={<DichCumDanhTuTiengAnh />} />
@@ -466,7 +472,7 @@ export default function AppRoutes(): React.JSX.Element {
 					<Route path="/tieng-anh/nho-12-thi-tieng-anh" element={<Nho12ThiTiengAnh />} />
 					<Route path="/tieng-anh/thi-tieng-anh" element={<ThiTiengAnh />} />
 					<Route path="/tieng-anh/thi-tieng-anh" element={<ThiTiengAnh />} />
-					<Route path="/tieng-anh/12-dong-tu-thong-dung-nhat-cung-4-dang-co-ban" element={<Bang12DongTuPhoBien />} />
+					
 					
 					<Route path="/tieng-anh/meo-hay-de-viet-tieng-anh-muot-ma-hon" element={<VietTiengAnhMuotMaHon />} />
 

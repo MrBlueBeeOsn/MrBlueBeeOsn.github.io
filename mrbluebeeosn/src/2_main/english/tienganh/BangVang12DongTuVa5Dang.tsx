@@ -5,9 +5,9 @@ import EyeIcon from '@/components/view/EyeIcon';
 import ViewCounter from '@/components/view/ViewCounter';
 import LikeButton from '@/components/like/LikeButton';
 
-export default function Bang12DongTuVa4Dang(): React.JSX.Element {
+export default function BangVang12DongTuVa5Dang(): React.JSX.Element {
 
-	const postId = "Bang12DongTuVa4Dang";
+	const postId = "BangVang12DongTuVa5Dang";
 
 	return (<>
 
@@ -17,23 +17,24 @@ export default function Bang12DongTuVa4Dang(): React.JSX.Element {
 		
 			<h4><HashLink smooth to="/tieng-anh#tieng-anh-terms"><mark className="highlight-tertiary-padding-4-8">Tiếng Anh</mark></HashLink></h4>
 			
-			<h1 className="margin-y-50 text-center">12 động từ thông dụng nhất cùng 4 dạng cơ bản</h1>
+			<h1 className="margin-y-50 text-center">Bảng "Vàng" 12 Động Từ</h1>
 
 			<h4 className="margin-bottom-30 text-center">Từ "Ngại Nói" Thành "Nói Đã Tai" Chỉ Với 12 Động Từ Siêu Phổ Biến! 🔥</h4>
 
 			<p>Bạn có từng rơi vào tình huống: muốn nói tiếng Anh mà đầu óc cứ quay mòng mòng "dùng thì nào bây giờ?", "động từ này chia ra sao?"?</p>
 
-			<p>Tin vui: Chỉ cần nắm chắc <strong>12 động từ thông dụng nhất</strong> cùng <strong>4 dạng cơ bản</strong> của chúng, bạn sẽ tự tin "bung lụa" trong hầu hết các cuộc trò chuyện đời thường – từ chat chit bạn bè, phỏng vấn xin việc, đến kể chuyện du lịch.</p>
+			<p>Tin vui: Chỉ cần nắm chắc <strong>12 động từ thông dụng nhất</strong> cùng <strong>5 dạng cơ bản</strong> của chúng, bạn sẽ tự tin "bung lụa" trong hầu hết các cuộc trò chuyện đời thường – từ chat chit bạn bè, phỏng vấn xin việc, đến kể chuyện du lịch.</p>
 
 			<h3 className="margin-y-50 text-center">Bảng "Vàng" 12 Động Từ – Nắm Là Dùng Ngay</h3>
 
 				<table className="margin-y-50">
           <thead>
             <tr>
-              <th>Nguyên thể</th>
-              <th>Quá khứ đơn</th>
-							<th>Hiện tại hoàn thành</th>
-							<th>Đang… (-ing)</th>
+              <th>1. Nguyên thể</th>
+							<th>2. Ngôi 3 số ít</th>
+              <th>3. Quá khứ đơn</th>
+							<th>4. Hiện tại hoàn thành</th>
+							<th>5. Đang… (-ing)</th>
 							<th>Do/Does + ? (câu hỏi)</th>
             </tr>
           </thead>
@@ -41,96 +42,108 @@ export default function Bang12DongTuVa4Dang(): React.JSX.Element {
           <tbody>
             <tr>
                 <td>work</td>
+								<td>work</td>
                 <td>worked</td>
-                <td>have/has worked</td>
+                <td>have worked</td>
 								<td>working</td>
 								<td>Do you work…?</td>
             </tr>
 
             <tr>
                 <td>play</td>
+								<td>plays</td>
                 <td>played</td>
-                <td>have/has played</td>
+                <td>has played</td>
 								<td>playing</td>
 								<td>Does she play…?</td>
             </tr>
 
             <tr>
                 <td>live</td>
+								<td>live</td>
                 <td>lived</td>
-                <td>have/has lived</td>
+                <td>have lived</td>
 								<td>living</td>
 								<td>Do they live…?</td>
             </tr>
 
 						<tr>
                 <td>study</td>
+								<td>study</td>
                 <td>studied</td>
-                <td>have/has studied</td>
+                <td>have studied</td>
 								<td>studying</td>
 								<td>Do you study…?</td>
             </tr>
 
 						<tr>
                 <td>like</td>
+								<td>likes</td>
                 <td>liked</td>
-                <td>have/has liked</td>
+                <td>has liked</td>
 								<td>liking</td>
 								<td>Does he like…?</td>
             </tr>
 
 						<tr>
                 <td>go</td>
+								<td>go</td>
                 <td>went</td>
-                <td>have/has gone</td>
+                <td>have gone</td>
 								<td>going</td>
 								<td>Do we go…?</td>
             </tr>
 
 						<tr>
                 <td>come</td>
+								<td>comes</td>
                 <td>came</td>
-                <td>have/has come</td>
+                <td>has come</td>
 								<td>coming</td>
 								<td>Does it come…?</td>
             </tr>
 
 						<tr>
                 <td>see</td>
+								<td>see</td>
                 <td>saw</td>
-                <td>have/has seen</td>
+                <td>have seen</td>
 								<td>seeing</td>
 								<td>Do you see…?</td>	
             </tr>
 
 						<tr>
                 <td>eat</td>
+								<td>eats</td>
                 <td>ate</td>
-                <td>have/has eaten</td>
+                <td>has eaten</td>
 								<td>eating</td>
 								<td>Does she eat…?</td>
             </tr>
 
 						<tr>
                 <td>drink</td>
+								<td>drink</td>
                 <td>drank</td>
-                <td>have/has drunk</td>
+                <td>have drunk</td>
 								<td>drinking</td>
 								<td>Do they drink…?</td>
             </tr>
 
 						<tr>
                 <td>take</td>
+								<td>take</td>
                 <td>took</td>
-                <td>have/has taken</td>
+                <td>have taken</td>
 								<td>taking</td>
 								<td>Do I take…?</td>
             </tr>
 
 						<tr>
                 <td>give</td>
+								<td>gives</td>
                 <td>gave</td>
-                <td>have/has given</td>
+                <td>has given</td>
 								<td>giving</td>
 								<td>Does he give…?</td>
             </tr>
@@ -144,36 +157,37 @@ export default function Bang12DongTuVa4Dang(): React.JSX.Element {
 				<ol>
 			
 					<li value="1"><strong>Hiện tại đơn giản</strong> (thói quen, sự thật)</li>
-					<li className="list-none">I <strong>work</strong> from home. She <strong>likes</strong> spicy food.</li>
+					<li className="list-none">I <strong>work</strong> from home.</li>
+					<li className="list-none"><strong>Do</strong> you <strong>like</strong> horror movies? → No, I <strong>don’t</strong>.</li>
 
-					<li value="2" className="margin-top-20"><strong>Đang diễn ra ngay lúc này</strong> (Present Continuous)</li>
-					<li className="list-none">Right now I <strong>am studying</strong> English. They <strong>are playing</strong> games.</li>
+					<li value="2" className="margin-top-20"><strong>Hiện tại đơn giản</strong> (cho he/she/it)</li>
+					<li className="list-none">She <strong>likes</strong> spicy food.</li>
+					<li className="list-none"><strong>Does</strong> he <strong>play</strong> soccer? → Yes, he <strong>does</strong> every weekend.</li>
 
 					<li value="3" className="margin-top-20"><strong>Quá khứ đã xong xuôi</strong> (Past Simple)</li>
 					<li className="list-none">Yesterday we <strong>went</strong> to the beach. I <strong>ate</strong> bún chả for lunch.</li>
+					<li className="list-none"><strong>Did</strong> you <strong>go</strong> out last night? → Yeah, we <strong>did</strong>!</li>
 
 					<li value="4" className="margin-top-20"><strong>Kinh nghiệm</strong> / <strong>kết quả đến hiện tại</strong> (Present Perfect)</li>
 					<li className="list-none">I <strong>have never seen</strong> the Northern Lights.</li>
 					<li className="list-none">She <strong>has lived</strong> in 3 countries so far.</li>
 
-					<li value="5" className="margin-top-20"><strong>Câu hỏi</strong> & <strong>phủ định siêu nhanh</strong> (với do/does/did)</li>
-					<li className="list-none"><strong>Do</strong> you <strong>like</strong> horror movies? → No, I <strong>don’t</strong>.</li>
-					<li className="list-none"><strong>Does</strong> he <strong>play</strong> soccer? → Yes, he <strong>does</strong> every weekend.</li>
-					<li className="list-none"><strong>Did</strong> you <strong>go</strong> out last night? → Yeah, we <strong>did</strong>!</li>
+					<li value="5" className="margin-top-20"><strong>Đang diễn ra ngay lúc này</strong> (Present Continuous)</li>
+					<li className="list-none">Right now I <strong>am studying</strong> English. They <strong>are playing</strong> games.</li>
 			
 				</ol>
 
-			<h4 className="margin-y-30">Một Ngày Của Bạn Bằng Tiếng Anh (Dùng Đủ 4 Dạng)</h4>
+			<h4 className="margin-y-30">Một Ngày Của Bạn Bằng Tiếng Anh (Dùng Đủ 5 dạng)</h4>
 			
 				<ul className="list-square">
 			
 					<li>Every morning I <strong>wake</strong> up and <strong>drink</strong> coffee</li>
-			
-					<li>Right now I <strong>am writing</strong> this article for you.</li>
-
+					
 					<li>Last weekend I <strong>went</strong> hiking with friends.</li>
 			
 					<li>This year I <strong>have studied</strong> English more seriously than ever.</li>
+
+					<li>Right now I <strong>am writing</strong> this article for you.</li>
 
 					<li><strong>Do</strong> you <strong>want</strong> to try? → Just start with these 12 verbs!</li>
 			

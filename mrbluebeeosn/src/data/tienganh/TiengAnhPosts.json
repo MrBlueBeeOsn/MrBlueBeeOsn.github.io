@@ -37,13 +37,22 @@
 			"date": "2025-09-12"
 		},
 		{ 
-			"id": "Bang12DongTuVa4Dang",
+			"id": "BangVang12DongTuVa5Dang",
 			"categoryDisplay": "Tiếng Anh",
 			"categorySlug": "tieng-anh",
-			"title": "12 động từ thông dụng nhất cùng 4 dạng cơ bản",
-			"content": "Tin vui: Chỉ cần nắm chắc 12 động từ thông dụng nhất cùng 4 dạng cơ bản của chúng, bạn sẽ tự tin \"bung lụa\" trong hầu hết các cuộc trò chuyện đời thường – từ chat chit bạn bè, phỏng vấn xin việc, đến kể chuyện du lịch.",
-			"slug": "tieng-anh/12-dong-tu-thong-dung-nhat-cung-4-dang-co-ban",
+			"title": "Bảng \"Vàng\" 12 Động Từ – Nắm Là Dùng Ngay",
+			"content": "Tin vui: Chỉ cần nắm chắc 12 động từ thông dụng nhất cùng 5 dạng cơ bản của chúng, bạn sẽ tự tin \"bung lụa\" trong hầu hết các cuộc trò chuyện đời thường – từ chat chit bạn bè, phỏng vấn xin việc, đến kể chuyện du lịch.",
+			"slug": "tieng-anh/bang-vang-12-dong-tu-va-5-dang",
 			"date": "2025-12-25"
+		},
+		{ 
+			"id": "NamDangDongTuVangRong",
+			"categoryDisplay": "Tiếng Anh",
+			"categorySlug": "tieng-anh",
+			"title": "5 Dạng Động Từ “Vàng Ròng”",
+			"content": "Hôm nay, chúng ta sẽ “lột xác” hoàn toàn cách nhìn về động từ tiếng Anh với bộ 5 “siêu sao” quyền lực nhất – dễ hiểu, dễ nhớ, và cực kỳ thực chiến. Không cần bảng biểu khô khan, chỉ là những câu chuyện đời thường bạn có thể áp dụng ngay hôm nay!",
+			"slug": "tieng-anh/5-dang-dong-tu-vang-rong",
+			"date": "2025-12-27"
 		},
 		{ 
 			"id": "VietTiengAnhMuotMaHon",
