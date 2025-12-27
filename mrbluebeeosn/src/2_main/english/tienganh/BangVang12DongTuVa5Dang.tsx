@@ -42,7 +42,7 @@ export default function BangVang12DongTuVa5Dang(): React.JSX.Element {
           <tbody>
             <tr>
                 <td>work</td>
-								<td>work</td>
+								<td></td>
                 <td>worked</td>
                 <td>have worked</td>
 								<td>working</td>
@@ -50,7 +50,7 @@ export default function BangVang12DongTuVa5Dang(): React.JSX.Element {
             </tr>
 
             <tr>
-                <td>play</td>
+                <td></td>
 								<td>plays</td>
                 <td>played</td>
                 <td>has played</td>
@@ -60,7 +60,7 @@ export default function BangVang12DongTuVa5Dang(): React.JSX.Element {
 
             <tr>
                 <td>live</td>
-								<td>live</td>
+								<td></td>
                 <td>lived</td>
                 <td>have lived</td>
 								<td>living</td>
@@ -69,7 +69,7 @@ export default function BangVang12DongTuVa5Dang(): React.JSX.Element {
 
 						<tr>
                 <td>study</td>
-								<td>study</td>
+								<td></td>
                 <td>studied</td>
                 <td>have studied</td>
 								<td>studying</td>
@@ -77,7 +77,7 @@ export default function BangVang12DongTuVa5Dang(): React.JSX.Element {
             </tr>
 
 						<tr>
-                <td>like</td>
+                <td></td>
 								<td>likes</td>
                 <td>liked</td>
                 <td>has liked</td>
@@ -87,7 +87,7 @@ export default function BangVang12DongTuVa5Dang(): React.JSX.Element {
 
 						<tr>
                 <td>go</td>
-								<td>go</td>
+								<td></td>
                 <td>went</td>
                 <td>have gone</td>
 								<td>going</td>
@@ -95,7 +95,7 @@ export default function BangVang12DongTuVa5Dang(): React.JSX.Element {
             </tr>
 
 						<tr>
-                <td>come</td>
+                <td></td>
 								<td>comes</td>
                 <td>came</td>
                 <td>has come</td>
@@ -105,7 +105,7 @@ export default function BangVang12DongTuVa5Dang(): React.JSX.Element {
 
 						<tr>
                 <td>see</td>
-								<td>see</td>
+								<td></td>
                 <td>saw</td>
                 <td>have seen</td>
 								<td>seeing</td>
@@ -113,7 +113,7 @@ export default function BangVang12DongTuVa5Dang(): React.JSX.Element {
             </tr>
 
 						<tr>
-                <td>eat</td>
+                <td></td>
 								<td>eats</td>
                 <td>ate</td>
                 <td>has eaten</td>
@@ -123,7 +123,7 @@ export default function BangVang12DongTuVa5Dang(): React.JSX.Element {
 
 						<tr>
                 <td>drink</td>
-								<td>drink</td>
+								<td></td>
                 <td>drank</td>
                 <td>have drunk</td>
 								<td>drinking</td>
@@ -132,7 +132,7 @@ export default function BangVang12DongTuVa5Dang(): React.JSX.Element {
 
 						<tr>
                 <td>take</td>
-								<td>take</td>
+								<td></td>
                 <td>took</td>
                 <td>have taken</td>
 								<td>taking</td>
@@ -140,7 +140,7 @@ export default function BangVang12DongTuVa5Dang(): React.JSX.Element {
             </tr>
 
 						<tr>
-                <td>give</td>
+                <td></td>
 								<td>gives</td>
                 <td>gave</td>
                 <td>has given</td>
