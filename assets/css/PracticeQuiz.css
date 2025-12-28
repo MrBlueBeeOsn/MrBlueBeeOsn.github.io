@@ -43,7 +43,7 @@
 
 .progress-bar {
 	height: 10px;
-	background-color: #e2e8f0;
+	background-color: rgba(226, 232, 240, 0.5);
 	border-radius: 5px;
 	overflow: hidden;
 	margin-bottom: 8px;
@@ -301,7 +301,7 @@
 	justify-content: space-between;
 	margin-bottom: 12px;
 	padding-bottom: 12px;
-	border-bottom: 1px solid #e2e8f0;
+	border-bottom: 1px solid rgba(226, 232, 240, 0.5);
 }
 
 .result-item:last-child {
@@ -380,7 +380,7 @@
 	text-align: center;
 	margin-top: 40px;
 	padding-top: 20px;
-	/* border-top: 1px solid #e2e8f0; */
+	/* border-top: 1px solid rgba(226, 232, 240, 0.5); */
 	/* color: #718096; */
 	font-size: 0.9rem;
 }
