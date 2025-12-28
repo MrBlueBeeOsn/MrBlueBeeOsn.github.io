@@ -109,7 +109,7 @@ export default function No1(): React.JSX.Element {
           <li><Link to="/vocabulary/not-1">Not</Link>: (adv) /nɒt/ - Không</li>
           <li className="margin-bottom-20 list-none">I am not going. (Tôi không đi.)</li>
 
-          <li>Never: (adv) /ˈnevər/ - Không bao giờ</li>
+          <li><Link to="/vocabulary/never-1">Never</Link>: (adv) /ˈnevər/ - Không bao giờ</li>
           <li className="list-none">I will never forget you. (Tôi sẽ không bao giờ quên bạn.)</li>
 
         </ul>

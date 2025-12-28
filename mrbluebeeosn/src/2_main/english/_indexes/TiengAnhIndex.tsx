@@ -183,7 +183,7 @@ export default function TiengAnhIndex(): React.JSX.Element {
 
             <li>
               <div className="li-content">
-                <Link to="/tieng-anh/thi-hien-tai-hoan-thanh">Thì Hiện Tại Hoàn Thành</Link>
+                <Link to="/tieng-anh/hieu-dung-ve-thi-hien-tai-hoan-thanh">Hiểu Đúng Về Thì Hiện Tại Hoàn Thành</Link>
               </div>
             </li>
 
@@ -192,6 +192,12 @@ export default function TiengAnhIndex(): React.JSX.Element {
                 <Link to="/tieng-anh/meo-hay-de-viet-tieng-anh-muot-ma-hon">Mẹo Hay Để Viết Tiếng Anh Mượt Mà Hơn</Link>
               </div>
             </li>
+
+            {/* <li>
+              <div className="li-content">
+                <Link to="/tieng-anh/thi-hien-tai-hoan-thanh">Thì Hiện Tại Hoàn Thành</Link>
+              </div>
+            </li> */}
 
             {/* <li>
               <div className="li-content">
