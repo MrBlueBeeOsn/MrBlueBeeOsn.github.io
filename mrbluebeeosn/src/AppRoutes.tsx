@@ -63,6 +63,9 @@ const Posts = lazy(() => import('@/data/Posts'));
 	// Phrasal Verbs
 	const PhrasalVerbsQuestions = lazy(() => import('@/2_main/english/quiz/phrasalverbs/PhrasalVerbsQuestions'));
 
+	// Gerunds and Infinitives
+	const GerundsandInfinitivesQuiz = lazy(() => import('@/2_main/english/quiz/vingtov/GerundsandInfinitivesQuiz'));
+
 	
 
 	// 2. Grammar
@@ -135,6 +138,9 @@ const Posts = lazy(() => import('@/data/Posts'));
 
 	// Thì
 	const TracNghiemThiTiengAnh = lazy(() => import('@/2_main/english/tienganh/quiz/thi/TracNghiemThiTiengAnh'));
+
+	// Gerunds and Infinitives
+	const TracNghiemGerundsVaInfinitives = lazy(() => import('@/2_main/english/tienganh/quiz/vingtov/TracNghiemGerundsVaInfinitives'));
 	
 	// 5. Vocabulary - Tính chính xác
 	const VocabularyIndex = lazy(() => import('@/2_main/english/_indexes/VocabularyIndex'));
@@ -425,7 +431,8 @@ export default function AppRoutes(): React.JSX.Element {
 					{/* Phrasal Verbs */}
 					<Route path="/english/phrasal-verbs-questions" element={<PhrasalVerbsQuestions />} />
 
-					
+					{/* Gerunds and Infinitives */}
+					<Route path="/english/gerunds-and-infinitives-quiz" element={<GerundsandInfinitivesQuiz />} />
 
 					{/* 2. Grammar */}
 					<Route path="/grammar" element={<GrammarIndex />} />
@@ -497,6 +504,9 @@ export default function AppRoutes(): React.JSX.Element {
 
 					{/* Thì tiếng Anh */}
 					<Route path="/tieng-anh/trac-nghiem-thi-tieng-anh" element={<TracNghiemThiTiengAnh />} />
+
+					{/* Gerunds and Infinitives */}
+					<Route path="/tieng-anh/trac-nghiem-gerunds-va-infinitives" element={<TracNghiemGerundsVaInfinitives />} />
 
 					{/* 5. Vocabulary - Tính chính xác */}
 					<Route path="/vocabulary" element={<VocabularyIndex />} />

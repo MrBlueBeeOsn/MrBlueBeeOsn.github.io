@@ -71,6 +71,15 @@
       "content": "Phrasal Verbs Questions",
       "slug": "english/phrasal-verbs-questions",
       "date": "2025-12-10"
+    },
+    { 
+      "id": "GerundsandInfinitivesQuiz",
+      "categoryDisplay": "English",
+      "categorySlug": "english",
+      "title": "Quiz",
+      "content": "Gerunds and Infinitives Quiz",
+      "slug": "english/gerunds-and-infinitives-quiz",
+      "date": "2025-12-28"
     }
   ]
 }

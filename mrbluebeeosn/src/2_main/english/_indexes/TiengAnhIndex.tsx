@@ -110,9 +110,31 @@ export default function TiengAnhIndex(): React.JSX.Element {
 
           <ul className="list-border1">
 
+              <li>
+                <div className="li-content">
+                  <Link to="trac-nghiem-thi-tieng-anh">Trắc Nghiệm Thì Tiếng Anh</Link>
+                </div>
+              </li>
+
+            
+            
+          </ul>
+
+        </details>
+
+        {/* =============================
+              Gerunds và Infinitives Quiz
+        ============================= */}
+
+        <details className="sub-box-fix-2">
+      
+          <summary id="ving-tov-basic-practice"><mark className="highlight-secondary-padding-2-4">Gerunds và Infinitives</mark></summary>
+
+          <ul className="list-border1">
+
             <li>
               <div className="li-content">
-                <Link to="trac-nghiem-thi-tieng-anh">Trắc Nghiệm Thì Tiếng Anh</Link>
+                <Link to="/tieng-anh/trac-nghiem-gerunds-va-infinitives">Trắc Nghiệm Gerunds và Infinitives</Link>
               </div>
             </li>
 

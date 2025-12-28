@@ -116,6 +116,15 @@
 			"content": "Trắc Nghiệm Thì Tiếng Anh",
 			"slug": "tieng-anh/trac-nghiem-thi-tieng-anh",
 			"date": "2025-12-11"
+		},
+		{
+			"id": "TracNghiemGerundsVaInfinitives",
+			"categoryDisplay": "Tiếng Anh",
+			"categorySlug": "tieng-anh",
+			"title": "Quiz",
+			"content": "Trắc Nghiệm Gerunds và Infinitives",
+			"slug": "tieng-anh/trac-nghiem-gerunds-va-infinitives",
+			"date": "2025-12-28"
 		}
 	]
 }
