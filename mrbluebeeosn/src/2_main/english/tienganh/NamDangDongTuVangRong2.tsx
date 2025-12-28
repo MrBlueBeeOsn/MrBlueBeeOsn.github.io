@@ -189,12 +189,12 @@ export default function NamDangDongTuVangRong2(): React.JSX.Element {
 					<li className="list-none">I <strong>work</strong> from home.</li>
 					<li className="list-none"><strong>Do</strong> you <strong>like</strong> horror movies? → No, I <strong>don’t</strong>.</li>
 					<li className="list-none">I <strong>work</strong> at a tech company.</li>
-					<li className="list-none">She <strong>doesn’t like</strong> rainy days.</li>
 					<li className="list-none"><strong>Do</strong> you <strong>work</strong> on weekends?</li>
 
 					<li value="2" className="margin-top-20"><strong>Hiện tại đơn giản</strong> (cho he/she/it)</li>
 					<li className="list-none">She <strong>likes</strong> spicy food.</li>
 					<li className="list-none"><strong>Does</strong> he <strong>play</strong> soccer? → Yes, he <strong>does</strong> every weekend.</li>
+					<li className="list-none">She <strong>doesn’t like</strong> rainy days.</li>
 					<li className="list-none"><strong>Does</strong> he <strong>play</strong> games a lot?</li>
 
 					<li value="3" className="margin-top-20"><strong>Quá khứ đã xong xuôi</strong> (Past Simple)</li>
