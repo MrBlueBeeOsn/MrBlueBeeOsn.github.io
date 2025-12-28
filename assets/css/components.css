@@ -455,7 +455,11 @@ th:nth-child(5) {
 	background-color: var(--tertiary-color); /* Màu cho tiêu đề cột giá tiền */
 }
 
-/* Tô màu cho toàn bộ cột thứ 3 */
+th:nth-child(6) {
+	background-color: var(--tertiary-color); /* Màu cho tiêu đề cột giá tiền */
+}
+
+/* Tô màu cho toàn bộ cột thứ 1 */
 td:nth-child(1) {
 	background-color: rgba(255, 255, 255, 0.5);
 	font-weight: 600;
