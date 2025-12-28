@@ -69,7 +69,7 @@ export default function Currently2(): React.JSX.Element {
         <li className="list-none margin-bottom-20">She is <strong>currently</strong> studying for her exams. (Cô ấy đang ôn thi.)</li>
 
         <li value="3"><strong>Currently</strong> living: Đang sống /ˈkʌrəntli ˈlɪvɪŋ/</li>
-        <li className="list-none margin-bottom-20">They are <strong>currently</strong> living in Hanoi. (Họ đang sống ở Hà Nội.)</li>
+        <li className="list-none margin-bottom-20">They are <strong>currently</strong> living in Saigon. (Họ đang sống ở Sài Gòn.)</li>
 
         <li value="4"><strong>Currently</strong> unavailable: Hiện không có mặt /ˈkʌrəntli ʌnəˈveɪləbl/</li>
         <li className="list-none margin-bottom-20">The manager is <strong>currently</strong> unavailable. (Quản lý hiện không có mặt.)</li>

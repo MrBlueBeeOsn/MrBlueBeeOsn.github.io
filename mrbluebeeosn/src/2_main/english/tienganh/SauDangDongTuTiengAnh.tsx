@@ -19,143 +19,121 @@ export default function SauDangDongTuTiengAnh(): React.JSX.Element {
 
 			<h1 className="margin-y-50 text-center">6 Dạng Động Từ Tiếng Anh</h1>
 
-			<h4 className="margin-bottom-30 text-center">“Bộ Sưu Tập Hoàn Chỉnh” Giúp Bạn Nói & Viết Đúng, Mượt Như Người Bản Xứ! 🚀</h4>
+			<h4 className="margin-bottom-30 text-center">Nhớ Siêu Dễ Với 3 Cặp “Đối Thủ”! 💥</h4>
 
-			<p>Bạn vừa phát hiện ra một sự thật thú vị: động từ tiếng Anh không chỉ có 3 hay 4 dạng như nhiều người vẫn nghĩ… mà thực tế có tới <strong>6 dạng cơ bản</strong> mà ai học tiếng Anh nghiêm túc cũng nên nắm chắc!</p>
+			<p>Bạn có bao giờ thấy động từ tiếng Anh “lằng nhằng” với quá nhiều dạng?</p>
 
-			<p>Hôm nay, chúng ta sẽ cùng “mở kho báu” này một cách vui vẻ, dễ hiểu và cực kỳ thực tế. Khi bạn nắm được bộ 6 dạng này, bạn sẽ tự tin nói, viết, nghe, đọc mà không còn lo “sai chia động từ” nữa.</p>
+			<p>Tin vui: Chỉ cần nhớ <strong>6 dạng cơ bản</strong> theo <strong>3 cặp đối thủ</strong> cực kỳ dễ hình dung, bạn sẽ nắm chắc 95% cách dùng động từ trong giao tiếp hàng ngày.</p>
+			
+			<p>Cách nhớ này siêu đơn giản, giống như “đấu tay đôi” giữa các dạng, giúp não bạn lưu trữ lâu hơn.</p>
 
-			<h3 className="margin-y-50 text-center">Bộ 6 Dạng Động Từ “Hoàn Chỉnh” Của Tiếng Anh</h3>
+			<p className="margin-bottom-50">Hãy cùng “xem trận đấu” giữa 3 cặp này nhé!</p>
 
-			{/* 1. Dạng gốc */}
+			{/* Cặp 1: Work vs Works */}
 
 			<div className="margin-y-15 text-border1 table-container">
 
-				<h3 className="margin-y-50 text-center">1. To work – Infinitive with “to” (động từ nguyên mẫu có “to”)</h3>
+				<h3 className="margin-top-50 margin-bottom-20 text-center">Cặp 1: Work vs Works</h3>
 
-					<p>Đây là dạng “được đóng gói” – xuất hiện sau các động từ như want, need, decide, plan, hope, learn, promise, try…</p>
+				<p className="text-center margin-bottom-50">(Thói quen của “tôi/anh/em” vs “anh ấy/cô ấy/nó”)</p>
 
-					<p>Ví dụ:</p>
+				<p><strong>Work</strong> (dạng gốc – bare infinitive): Dùng cho I, you, we, they ở hiện tại đơn giản, hoặc sau do/does/did, can, will, must…</p>
+
+				<p className="text-indent-whole">Ví dụ:</p>
 
 					<ul className="list-square">
 
-						<li>I want <strong>to work</strong> from home.</li>
+						<li>I <strong>work</strong> from home.</li>
 
-						<li>She decided <strong>to study</strong> abroad next year.</li>
+						<li>Do you <strong>work</strong> on weekends?</li>
 
-						<li>It’s important <strong>to eat</strong> healthy food.</li>
+						<li>They <strong>don’t work</strong> very hard.</li>
 
 					</ul>
 
-				<p className="margin-top-20">→ Dạng này như “vé vào cửa” cho rất nhiều cấu trúc câu hay ho.</p>
+				<p className="margin-top-20"><strong>Works</strong> (ngôi thứ ba số ít – 3rd person singular): Chỉ dùng khi chủ ngữ là he, she, it.</p>
 
-			</div>
-
-			{/* 2. Dạng ngôi thứ ba số ít */}
-
-			<div className="margin-y-15 text-border1 table-container">
-
-				<h3 className="margin-y-50 text-center">2. Work – Bare infinitive / Base form (động từ nguyên mẫu không “to”)</h3>
-
-					<p>Dùng cho I/you/we/they ở hiện tại đơn, sau do/does/did, sau modal verbs (can, will, must, should, may…), và sau let/make/help…</p>
-
-					<p>Ví dụ:</p>
+				<p className="text-indent-whole">Ví dụ:</p>
 
 					<ul className="list-square">
 
-						<li>I <strong>work</strong> 8 hours a day.</li>
+						<li>She <strong>works</strong> in a big company.</li>
 
-						<li>Do you <strong>like</strong> coffee?</li>
-
-						<li>You can <strong>go</strong> now.</li>
-
-					</ul>
-
-				<p className="margin-top-20">→ Đây là dạng “thoải mái, tự do” nhất trong giao tiếp hàng ngày.</p>
-
-			</div>
-
-			{/* 3. Dạng quá khứ đơn */}
-
-			<div className="margin-y-15 text-border1 table-container">
-
-				<h3 className="margin-y-50 text-center">3. Works – 3rd person singular (ngôi thứ ba số ít ở hiện tại đơn)</h3>
-
-					<p>Chỉ thêm -s/-es khi chủ ngữ là he/she/it.</p>
-
-					<p>Ví dụ:</p>
-
-					<ul className="list-square">
-
-						<li>He <strong>works</strong> in marketing.</li>
-
-						<li>She <strong>goes</strong> jogging every morning.</li>
+						<li>He <strong>likes</strong> spicy food.</li>
 
 						<li>The phone <strong>rings</strong> a lot today.</li>
 
 					</ul>
 
-				<p className="margin-top-20">→ Quy tắc nhỏ nhưng cực kỳ quan trọng – quên -s là sai ngay!</p>
+				<p className="margin-top-20 text-indent-whole"><strong>Mẹo nhớ cặp 1</strong>: “Nói về mình hoặc nhóm → work bình thường. Nói về một người/vật → phải thêm s/es để ‘lịch sự’!”</p>
 
 			</div>
 
-			{/* 4. Worked – Past simple & Past participle */}
+			{/* Cặp 2: Worked vs Have/Has/Had Worked */}
 
 			<div className="margin-y-15 text-border1 table-container">
 
-				<h3 className="margin-y-50 text-center">4. Worked – Past simple & Past participle (quá khứ đơn & phân từ quá khứ)</h3>
+				<h3 className="margin-top-50 margin-bottom-20 text-center">Cặp 2: Worked vs Have/Has/Had Worked</h3>
 
-					<p>Dùng để kể chuyện quá khứ, hoặc trong thì hoàn thành.</p>
+				<p className="text-center margin-bottom-50">(Quá khứ “kết thúc hẳn” vs “quá khứ vẫn còn liên quan đến hiện tại”)</p>
 
-					<p>Ví dụ:</p>
+					<p><strong>Worked</strong> (quá khứ đơn – past simple): Dùng để kể chuyện đã xong xuôi, có thời gian cụ thể trong quá khứ.</p>
+
+					<p className="text-indent-whole">Ví dụ:</p>
 
 					<ul className="list-square">
 
-						<li>Yesterday I <strong>worked</strong> late.</li>
+						<li>Yesterday I <strong>worked</strong> until midnight.</li>
 
 						<li>We <strong>ate</strong> sushi last night.</li>
 
-						<li>She <strong>went</strong> home early.</li>
+						<li>She <strong>went</strong> to Japan two years ago.</li>
 
 					</ul>
 
-				<p className="margin-top-20">→ Với động từ bất quy tắc thì dạng này thay đổi (go → went, eat → ate, see → saw…).</p>
+				<p className="margin-top-20"><strong>Have</strong>/<strong>Has</strong>/<strong>Had Worked</strong> (phân từ quá khứ – past participle trong thì hoàn thành): Dùng để nói kinh nghiệm, kết quả kéo dài đến hiện tại (Present Perfect) hoặc trước một thời điểm trong quá khứ (Past Perfect).</p>
 
-			</div>
-
-			{/* 5. (have/has/had) worked */}
-
-			<div className="margin-y-15 text-border1 table-container">
-
-				<h3 className="margin-y-50 text-center">5. (have/has/had) worked – Past participle trong thì hoàn thành (Present Perfect, Past Perfect…)</h3>
-
-					<p>Đây là dạng “cầu nối thời gian” – kết hợp với have/has/had để tạo các thì hoàn thành.</p>
-
-					<p>Ví dụ:</p>
+					<p className="text-indent-whole">Ví dụ:</p>
 
 					<ul className="list-square">
 
-						<li>I <strong>have worked</strong> here for 5 years.</li>
+						<li>I <strong>have worked</strong> here for 5 years (vẫn đang làm).</li>
 
-						<li>She <strong>has never eaten</strong> phở before.</li>
+						<li>She <strong>has never eaten</strong> durian.</li>
 
-						<li>By the time you arrived, we <strong>had finished</strong> dinner.</li>
+						<li>By 5 p.m., we <strong>had finished</strong> all the tasks.</li>
 
 					</ul>
 
-				<p className="margin-top-20">→ Dạng này xuất hiện rất nhiều trong giao tiếp tự nhiên và bài thi.</p>
+				<p className="margin-top-20 text-indent-whole"><strong>Mẹo nhớ cặp 2</strong>: “Chuyện xưa đã xong, có ngày tháng rõ ràng → dùng worked. Chuyện xưa nhưng vẫn ‘ám ảnh’ hiện tại hoặc chưa kết thúc → dùng have/has/had worked!”</p>
 
 			</div>
 
-			{/* 6. (be) working */}
+			{/* Cặp 3: To Work vs (Be) Working */}
 
 			<div className="margin-y-15 text-border1 table-container">
 
-				<h3 className="margin-y-50 text-center">6. (be) working – Present participle / -ing form (dạng đang diễn ra)</h3>
+				<h3 className="margin-top-50 margin-bottom-20 text-center">Cặp 3: To Work vs (Be) Working</h3>
 
-					<p>Dùng với am/is/are (Present Continuous), was/were (Past Continuous), hoặc sau các động từ như enjoy, hate, keep, stop, mind…</p>
+				<p className="text-center margin-bottom-50">(“Muốn/làm được” vs “đang làm ngay lúc này”)</p>
 
-					<p>Ví dụ:</p>
+					<p><strong>To Work</strong> (động từ nguyên mẫu có “to” – to-infinitive): Dùng sau want, need, decide, plan, hope, learn, try, promise…</p>
+
+					<p className="text-indent-whole">Ví dụ:</p>
+
+					<ul className="list-square">
+
+						<li>I want <strong>to work</strong> abroad next year.</li>
+
+						<li>She decided <strong>to study</strong> English seriously.</li>
+
+						<li>It’s nice <strong>to eat</strong> healthy food.</li>
+
+					</ul>
+
+				<p className="margin-top-20">(<strong>Be</strong>) <strong>Working</strong> (dạng -ing – present participle): Dùng với am/is/are (đang diễn ra), was/were, hoặc sau enjoy, hate, keep, stop, mind…</p>
+
+				<p className="text-indent-whole">Ví dụ:</p>
 
 					<ul className="list-square">
 
@@ -167,75 +145,53 @@ export default function SauDangDongTuTiengAnh(): React.JSX.Element {
 
 					</ul>
 
-				<p className="margin-top-20">→ Đây là dạng “năng động, sống động” nhất – giúp câu chuyện của bạn trở nên “đang diễn ra” ngay trước mắt người nghe.</p>
+				<p className="margin-top-20 text-indent-whole"><strong>Mẹo nhớ cặp 3</strong>: “Muốn làm gì trong tương lai hoặc nói chung chung → dùng to work. Đang làm thật, ngay lúc này → thêm be + working để ‘bắt quả tang’!”</p>
 
 			</div>
 
-			<h3 className="margin-y-50 text-center">Tại Sao Bộ 6 Dạng Này Là “Vũ Khí Bí Mật”?</h3>
-
-				<p>Khi bạn nắm chắc 6 dạng này, bạn có thể tự tin tạo ra hầu hết các câu trong tiếng Anh giao tiếp:</p>
+			<h3 className="margin-y-50 text-center">Tóm tắt 3 cặp “đối thủ” siêu dễ nhớ</h3>
 			
 				<ol>
 
-					<li>Hiện tại đơn giản: work / works</li>
+					<li><strong>Work</strong> (tôi/anh/em) ↔ <strong>Works</strong> (anh ấy/cô ấy/nó)</li>
 			
-					<li>Quá khứ đơn: worked</li>
-			
-					<li>Hiện tại hoàn thành: have/has worked</li>
+					<li><strong>Worked</strong> (chuyện xưa kết thúc) ↔ <strong>Have</strong>/<strong>Has</strong>/<strong>Had Worked</strong> (chuyện xưa vẫn còn ảnh hưởng)</li>
 
-					<li>Đang diễn ra: am/is/are working</li>
-			
-					<li>Nguyên mẫu: want to work / can work</li>
-
-					<li>Sau modal: must work, should work…</li>
+					<li><strong>To Work</strong> (muốn/làm được) ↔ (<strong>Be</strong>) <strong>Working</strong> (đang làm thật)</li>
 			
 				</ol>
 
-			<p className="text-indent-whole">Chỉ cần thay “work” bằng bất kỳ động từ nào (eat, go, play, live, study, love, drink…), bạn đã có hàng nghìn câu đúng ngữ pháp!</p>
+			<p className="margin-top-20 text-indent-whole">Khi bạn đã quen 3 cặp này, chỉ cần thay work bằng bất kỳ động từ nào (eat, go, play, live, study, love, drink…) là bạn đã có thể nói đúng hầu hết các câu!</p>
 
-			<h3 className="margin-y-50 text-center">Thử Ngay Một Ngày Của Bạn Bằng Bộ 6 Dạng</h3>
+			<h3 className="margin-y-50 text-center">Thử ngay một ngày của bạn bằng 3 cặp đối thủ</h3>
 
 				<ul className="list-square">
 
-					<li>Every morning I <strong>wake</strong> up and <strong>drink</strong> coffee. (dạng gốc)</li>
+					<li>Every day I <strong>work</strong> hard, but right now I <strong>am working</strong> even harder! (cặp 1 & 3)</li>
 			
-					<li>Right now I <strong>am working</strong> on my English. (dạng -ing)</li>
+					<li>She <strong>works</strong> in Saigon, but I <strong>worked</strong> in Saigon last year. (cặp 1 & 2)</li>
 			
-					<li>Yesterday I <strong>worked</strong> until midnight. (quá khứ)</li>
-
-					<li>This year I <strong>have worked</strong> more than 2000 hours. (hiện tại hoàn thành)</li>
-			
-					<li>I want <strong>to travel</strong> more next year. (to + infinitive)</li>
-
-					<li>She <strong>works</strong> in a beautiful office downtown. (ngôi thứ ba)</li>
+					<li>I <strong>have worked</strong> from home for 3 years, and I want <strong>to work</strong> like this forever. (cặp 2 & 3)</li>
 			
 				</ul>
 
-			<h3 className="margin-y-50 text-center">Thử Thách 7 Ngày “Chinh Phục Bộ 6 Dạng”</h3>
+			<h3 className="margin-y-50 text-center">Thử thách 3 ngày “nhớ 3 cặp – nói mượt”</h3>
 			
 				<ul className="list-square">
 
-					<li><strong>Ngày 1-2</strong>: Học thuộc 5 động từ + viết 5 câu cho mỗi dạng.</li>
-			
-					<li><strong>Ngày 3</strong>: Tập nói về thói quen (work/works).</li>
+					<li><strong>Ngày 1</strong>: Tập cặp 1 – viết 10 câu work vs works.</li>
 
-					<li><strong>Ngày 4</strong>: Kể chuyện quá khứ (worked).</li>
+					<li><strong>Ngày 2</strong>: Tập cặp 2 – kể chuyện quá khứ (worked) và kinh nghiệm (have/has worked).</li>
 			
-					<li><strong>Ngày 5</strong>: Luyện hiện tại hoàn thành (have/has worked).</li>
-
-					<li><strong>Ngày 6</strong>: Nói về “đang làm gì” (am/is/are working).</li>
-			
-					<li><strong>Ngày 7</strong>: Kết hợp tất cả – kể một ngày hoàn chỉnh bằng tiếng Anh!</li>
+					<li><strong>Ngày 3</strong>: Tập cặp 3 – nói về “đang làm” (am/is/are working) và “muốn làm” (want to…).</li>
 			
 				</ul>
 
-			<p className="margin-top-20">Chỉ cần 10–15 phút mỗi ngày, bạn sẽ thấy tiếng Anh không còn là “những quy tắc khó nhằn”, mà trở thành <strong>cách để kể câu chuyện đời mình</strong> một cách tự nhiên, chân thật và hấp dẫn.</p>
+			<p className="margin-top-20">Chỉ 10 phút mỗi ngày, sau 3 ngày bạn sẽ thấy: Tiếng Anh không còn là “động từ lằng nhằng” nữa, mà chỉ còn 3 cặp đấu tay đôi vui vẻ và dễ nhớ!</p>
 
-			<p>Bạn đã sẵn sàng “thu phục” bộ 6 siêu sao này chưa?</p>
+			<p>Bạn chọn cặp nào để “xem trận đấu” đầu tiên hôm nay? Cặp 1, cặp 2 hay cặp 3?</p>
 
-			<p>Chọn một động từ yêu thích (work, eat, go, love, travel, sleep…) và bắt đầu ngay hôm nay nhé!</p>
-
-			<p>Mình tin bạn sẽ làm được – và làm rất tốt! 💪✨</p>
+			<p>Bắt đầu ngay đi – mình tin bạn sẽ “thắng” cả 3 cặp rất nhanh! 💪✨</p>
 
 			<div className="viewcounter">
 			
