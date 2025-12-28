@@ -61,7 +61,7 @@ export default function NamDangDongTuVangRong2(): React.JSX.Element {
 						</tr>
 
 						<tr>
-								<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+								<td></td>
 								<td>I, you, we, they</td>
 								<td>He, she, it</td>
 								<td></td>
