@@ -5,9 +5,9 @@ import EyeIcon from '@/components/view/EyeIcon';
 import ViewCounter from '@/components/view/ViewCounter';
 import LikeButton from '@/components/like/LikeButton';
 
-export default function SauDangDongTuTiengAnh(): React.JSX.Element {
+export default function SauDangDongTuTiengAnh1(): React.JSX.Element {
 
-	const postId = "SauDangDongTuTiengAnh";
+	const postId = "SauDangDongTuTiengAnh1";
 
 	return (<>
 
@@ -17,7 +17,15 @@ export default function SauDangDongTuTiengAnh(): React.JSX.Element {
 		
 			<h4><HashLink smooth to="/tieng-anh#tieng-anh-terms"><mark className="highlight-tertiary-padding-4-8">Tiếng Anh</mark></HashLink></h4>
 
-			<h1 className="margin-y-50 text-center">6 Dạng Động Từ Tiếng Anh</h1>
+			<h1 className="margin-y-50 text-center">6 Dạng Động Từ Tiếng Anh
+									
+				<sup><HashLink smooth to="/tieng-anh/6-dang-dong-tu-tieng-anh-1">&nbsp;1&nbsp;</HashLink>
+				</sup>
+
+				<sup><HashLink smooth to="/tieng-anh/6-dang-dong-tu-tieng-anh-2">&nbsp;2&nbsp;</HashLink>
+				</sup>
+
+			</h1>
 
 			<h4 className="margin-bottom-30 text-center">Nhớ Siêu Dễ Với 3 Cặp “Đối Thủ”! 💥</h4>
 
@@ -106,6 +114,8 @@ export default function SauDangDongTuTiengAnh(): React.JSX.Element {
 					</ul>
 
 				<p className="margin-top-20 text-indent-whole"><strong>Mẹo nhớ cặp 2</strong>: “Chuyện xưa đã xong, có ngày tháng rõ ràng → dùng worked. Chuyện xưa nhưng vẫn ‘ám ảnh’ hiện tại hoặc chưa kết thúc → dùng have/has/had worked!”</p>
+
+				<p><Link to="/tieng-anh/hieu-dung-ve-thi-hien-tai-hoan-thanh" className="text-indent-whole">Hiểu Đúng Về Thì Hiện Tại Hoàn Thành</Link></p>
 
 			</div>
 
@@ -196,7 +206,7 @@ export default function SauDangDongTuTiengAnh(): React.JSX.Element {
 			<div className="viewcounter">
 			
 				<div className="post-date no-margin">
-					<span>December 27, 2025 · by 🐝Mr. Bee Osn and Grok ·</span>
+					<span>December 28, 2025 · by 🐝Mr. Bee Osn and Grok ·</span>
 				</div>
 
 				<div className="eye-icon no-margin">

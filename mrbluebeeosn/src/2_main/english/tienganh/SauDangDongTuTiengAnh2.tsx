@@ -5,9 +5,9 @@ import EyeIcon from '@/components/view/EyeIcon';
 import ViewCounter from '@/components/view/ViewCounter';
 import LikeButton from '@/components/like/LikeButton';
 
-export default function SauDangDongTuTiengAnh(): React.JSX.Element {
+export default function SauDangDongTuTiengAnh2(): React.JSX.Element {
 
-	const postId = "SauDangDongTuTiengAnh";
+	const postId = "SauDangDongTuTiengAnh2";
 
 	return (<>
 
@@ -17,7 +17,15 @@ export default function SauDangDongTuTiengAnh(): React.JSX.Element {
 		
 			<h4><HashLink smooth to="/tieng-anh#tieng-anh-terms"><mark className="highlight-tertiary-padding-4-8">Tiếng Anh</mark></HashLink></h4>
 
-			<h1 className="margin-y-50 text-center">6 Dạng Động Từ Tiếng Anh</h1>
+			<h1 className="margin-y-50 text-center">6 Dạng Động Từ Tiếng Anh
+												
+				<sup><HashLink smooth to="/tieng-anh/6-dang-dong-tu-tieng-anh-1">&nbsp;1&nbsp;</HashLink>
+				</sup>
+
+				<sup><HashLink smooth to="/tieng-anh/6-dang-dong-tu-tieng-anh-2">&nbsp;2&nbsp;</HashLink>
+				</sup>
+
+			</h1>
 
 			<h4 className="margin-bottom-30 text-center">“Bộ Sưu Tập Hoàn Chỉnh” Giúp Bạn Nói & Viết Đúng, Mượt Như Người Bản Xứ! 🚀</h4>
 
@@ -27,39 +35,17 @@ export default function SauDangDongTuTiengAnh(): React.JSX.Element {
 
 			<h3 className="margin-y-50 text-center">Bộ 6 Dạng Động Từ “Hoàn Chỉnh” Của Tiếng Anh</h3>
 
-			{/* 1. Dạng gốc */}
+			{/* Cặp 1: Work vs Works */}
 
 			<div className="margin-y-15 text-border1 table-container">
 
-				<h3 className="margin-y-50 text-center">1. To work – Infinitive with “to” (động từ nguyên mẫu có “to”)</h3>
+				<h3 className="margin-top-50 margin-bottom-20 text-center">Cặp 1: Work vs Works</h3>
 
-					<p>Đây là dạng “được đóng gói” – xuất hiện sau các động từ như want, need, decide, plan, hope, learn, promise, try…</p>
+				<h4 className="margin-top-50 margin-bottom-30">Work – Bare infinitive / Base form (động từ nguyên mẫu không “to”)</h4>
 
-					<p>Ví dụ:</p>
+					<p className="text-indent-whole">Dùng cho I/you/we/they ở hiện tại đơn, sau do/does/did, sau modal verbs (can, will, must, should, may…), và sau let/make/help…</p>
 
-					<ul className="list-square">
-
-						<li>I want <strong>to work</strong> from home.</li>
-
-						<li>She decided <strong>to study</strong> abroad next year.</li>
-
-						<li>It’s important <strong>to eat</strong> healthy food.</li>
-
-					</ul>
-
-				<p className="margin-top-20">→ Dạng này như “vé vào cửa” cho rất nhiều cấu trúc câu hay ho.</p>
-
-			</div>
-
-			{/* 2. Dạng ngôi thứ ba số ít */}
-
-			<div className="margin-y-15 text-border1 table-container">
-
-				<h3 className="margin-y-50 text-center">2. Work – Bare infinitive / Base form (động từ nguyên mẫu không “to”)</h3>
-
-					<p>Dùng cho I/you/we/they ở hiện tại đơn, sau do/does/did, sau modal verbs (can, will, must, should, may…), và sau let/make/help…</p>
-
-					<p>Ví dụ:</p>
+					<p className="text-indent-whole">Ví dụ:</p>
 
 					<ul className="list-square">
 
@@ -71,19 +57,13 @@ export default function SauDangDongTuTiengAnh(): React.JSX.Element {
 
 					</ul>
 
-				<p className="margin-top-20">→ Đây là dạng “thoải mái, tự do” nhất trong giao tiếp hàng ngày.</p>
+				<p className="margin-top-20 text-indent-whole">→ Đây là dạng “thoải mái, tự do” nhất trong giao tiếp hàng ngày.</p>
 
-			</div>
+				<h4 className="margin-top-50 margin-bottom-30">Works – 3rd person singular (ngôi thứ ba số ít ở hiện tại đơn)</h4>
 
-			{/* 3. Dạng quá khứ đơn */}
+					<p className="text-indent-whole">Chỉ thêm -s/-es khi chủ ngữ là he/she/it.</p>
 
-			<div className="margin-y-15 text-border1 table-container">
-
-				<h3 className="margin-y-50 text-center">3. Works – 3rd person singular (ngôi thứ ba số ít ở hiện tại đơn)</h3>
-
-					<p>Chỉ thêm -s/-es khi chủ ngữ là he/she/it.</p>
-
-					<p>Ví dụ:</p>
+					<p className="text-indent-whole">Ví dụ:</p>
 
 					<ul className="list-square">
 
@@ -95,19 +75,21 @@ export default function SauDangDongTuTiengAnh(): React.JSX.Element {
 
 					</ul>
 
-				<p className="margin-top-20">→ Quy tắc nhỏ nhưng cực kỳ quan trọng – quên -s là sai ngay!</p>
+				<p className="margin-top-20 text-indent-whole">→ Quy tắc nhỏ nhưng cực kỳ quan trọng – quên -s là sai ngay!</p>
 
 			</div>
 
-			{/* 4. Worked – Past simple & Past participle */}
+			{/* 2. Worked – Past simple & Past participle */}
 
 			<div className="margin-y-15 text-border1 table-container">
 
-				<h3 className="margin-y-50 text-center">4. Worked – Past simple & Past participle (quá khứ đơn & phân từ quá khứ)</h3>
+				<h3 className="margin-top-50 margin-bottom-20 text-center">Cặp 2: Worked vs Have/Has/Had Worked</h3>
 
-					<p>Dùng để kể chuyện quá khứ, hoặc trong thì hoàn thành.</p>
+				<h4 className="margin-top-50 margin-bottom-30">Worked – Past simple & Past participle (quá khứ đơn & phân từ quá khứ)</h4>
 
-					<p>Ví dụ:</p>
+					<p className="text-indent-whole">Dùng để kể chuyện quá khứ, hoặc trong thì hoàn thành.</p>
+
+					<p className="text-indent-whole">Ví dụ:</p>
 
 					<ul className="list-square">
 
@@ -119,19 +101,13 @@ export default function SauDangDongTuTiengAnh(): React.JSX.Element {
 
 					</ul>
 
-				<p className="margin-top-20">→ Với động từ bất quy tắc thì dạng này thay đổi (go → went, eat → ate, see → saw…).</p>
+				<p className="margin-top-20 text-indent-whole">→ Với động từ bất quy tắc thì dạng này thay đổi (go → went, eat → ate, see → saw…).</p>
 
-			</div>
+				<h4 className="margin-top-50 margin-bottom-30">(have/has/had) worked – Past participle trong thì hoàn thành (Present Perfect, Past Perfect…)</h4>
 
-			{/* 5. (have/has/had) worked */}
+					<p className="text-indent-whole">Đây là dạng “cầu nối thời gian” – kết hợp với have/has/had để tạo các thì hoàn thành.</p>
 
-			<div className="margin-y-15 text-border1 table-container">
-
-				<h3 className="margin-y-50 text-center">5. (have/has/had) worked – Past participle trong thì hoàn thành (Present Perfect, Past Perfect…)</h3>
-
-					<p>Đây là dạng “cầu nối thời gian” – kết hợp với have/has/had để tạo các thì hoàn thành.</p>
-
-					<p>Ví dụ:</p>
+					<p className="text-indent-whole">Ví dụ:</p>
 
 					<ul className="list-square">
 
@@ -143,19 +119,41 @@ export default function SauDangDongTuTiengAnh(): React.JSX.Element {
 
 					</ul>
 
-				<p className="margin-top-20">→ Dạng này xuất hiện rất nhiều trong giao tiếp tự nhiên và bài thi.</p>
+				<p className="margin-top-20 text-indent-whole">→ Dạng này xuất hiện rất nhiều trong giao tiếp tự nhiên và bài thi.</p>
+
+				<p><Link to="/tieng-anh/hieu-dung-ve-thi-hien-tai-hoan-thanh" className="text-indent-whole">Hiểu Đúng Về Thì Hiện Tại Hoàn Thành</Link></p>
 
 			</div>
 
-			{/* 6. (be) working */}
+			{/* Cặp 3: To Work vs (Be) Working */}
 
 			<div className="margin-y-15 text-border1 table-container">
 
-				<h3 className="margin-y-50 text-center">6. (be) working – Present participle / -ing form (dạng đang diễn ra)</h3>
+				<h3 className="margin-top-50 margin-bottom-20 text-center">Cặp 3: To Work vs (Be) Working</h3>
 
-					<p>Dùng với am/is/are (Present Continuous), was/were (Past Continuous), hoặc sau các động từ như enjoy, hate, keep, stop, mind…</p>
+				<h4 className="margin-top-50 margin-bottom-30">To work – Infinitive with “to” (động từ nguyên mẫu có “to”)</h4>
 
-					<p>Ví dụ:</p>
+					<p className="text-indent-whole">Đây là dạng “được đóng gói” – xuất hiện sau các động từ như want, need, decide, plan, hope, learn, promise, try…</p>
+
+					<p className="text-indent-whole">Ví dụ:</p>
+
+					<ul className="list-square">
+
+						<li>I want <strong>to work</strong> from home.</li>
+
+						<li>She decided <strong>to study</strong> abroad next year.</li>
+
+						<li>It’s important <strong>to eat</strong> healthy food.</li>
+
+					</ul>
+
+				<p className="margin-top-20 text-indent-whole">→ Dạng này như “vé vào cửa” cho rất nhiều cấu trúc câu hay ho.</p>
+
+				<h4 className="margin-top-50 margin-bottom-30">(be) working – Present participle / -ing form (dạng đang diễn ra)</h4>
+
+					<p className="text-indent-whole">Dùng với am/is/are (Present Continuous), was/were (Past Continuous), hoặc sau các động từ như enjoy, hate, keep, stop, mind…</p>
+
+					<p className="text-indent-whole">Ví dụ:</p>
 
 					<ul className="list-square">
 
@@ -167,7 +165,7 @@ export default function SauDangDongTuTiengAnh(): React.JSX.Element {
 
 					</ul>
 
-				<p className="margin-top-20">→ Đây là dạng “năng động, sống động” nhất – giúp câu chuyện của bạn trở nên “đang diễn ra” ngay trước mắt người nghe.</p>
+				<p className="margin-top-20 text-indent-whole">→ Đây là dạng “năng động, sống động” nhất – giúp câu chuyện của bạn trở nên “đang diễn ra” ngay trước mắt người nghe.</p>
 
 			</div>
 
@@ -177,21 +175,17 @@ export default function SauDangDongTuTiengAnh(): React.JSX.Element {
 			
 				<ol>
 
-					<li>Hiện tại đơn giản: work / works</li>
-			
-					<li>Quá khứ đơn: worked</li>
-			
-					<li>Hiện tại hoàn thành: have/has worked</li>
+					<li value="1">Cặp 1 - Hiện tại đơn giản: <strong>work</strong> / <strong>works</strong></li>
 
-					<li>Đang diễn ra: am/is/are working</li>
+					<li className="list-none">Sau modal: can <strong>work</strong>, must <strong>work</strong>, should <strong>work</strong>…</li>
 			
-					<li>Nguyên mẫu: want to work / can work</li>
-
-					<li>Sau modal: must work, should work…</li>
+					<li value="2">Cặp 2 - Quá khứ đơn: <strong>worked</strong> / Hiện tại hoàn thành: <strong>have</strong>/<strong>has worked</strong></li>
+			
+					<li value="3">Cặp 3 - Nguyên mẫu: want <strong>to work</strong> / Đang diễn ra: <strong>am</strong>/<strong>is</strong>/<strong>are working</strong></li>
 			
 				</ol>
 
-			<p className="text-indent-whole">Chỉ cần thay “work” bằng bất kỳ động từ nào (eat, go, play, live, study, love, drink…), bạn đã có hàng nghìn câu đúng ngữ pháp!</p>
+			<p className="margin-y-20 text-indent-whole">Chỉ cần thay “work” bằng bất kỳ động từ nào (eat, go, play, live, study, love, drink…), bạn đã có hàng nghìn câu đúng ngữ pháp!</p>
 
 			<h3 className="margin-y-50 text-center">Thử Ngay Một Ngày Của Bạn Bằng Bộ 6 Dạng</h3>
 
