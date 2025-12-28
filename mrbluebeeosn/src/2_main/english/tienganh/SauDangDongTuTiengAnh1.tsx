@@ -123,25 +123,11 @@ export default function SauDangDongTuTiengAnh1(): React.JSX.Element {
 
 			<div className="margin-y-15 text-border1 table-container">
 
-				<h3 className="margin-top-50 margin-bottom-20 text-center">Cặp 3: To Work vs (Be) Working</h3>
+				<h3 className="margin-top-50 margin-bottom-20 text-center">Cặp 3: (Be) Working vs To Work</h3>
 
-				<p className="text-center margin-bottom-50">(“Muốn/làm được” vs “đang làm ngay lúc này”)</p>
+				<p className="text-center margin-bottom-50">(“đang làm ngay lúc này” vs “Muốn/làm được”)</p>
 
-					<p><strong>To Work</strong> (động từ nguyên mẫu có “to” – to-infinitive): Dùng sau want, need, decide, plan, hope, learn, try, promise…</p>
-
-					<p className="text-indent-whole">Ví dụ:</p>
-
-					<ul className="list-square">
-
-						<li>I want <strong>to work</strong> abroad next year.</li>
-
-						<li>She decided <strong>to study</strong> English seriously.</li>
-
-						<li>It’s nice <strong>to eat</strong> healthy food.</li>
-
-					</ul>
-
-				<p className="margin-top-20">(<strong>Be</strong>) <strong>Working</strong> (dạng -ing – present participle): Dùng với am/is/are (đang diễn ra), was/were, hoặc sau enjoy, hate, keep, stop, mind…</p>
+				<p>(<strong>Be</strong>) <strong>Working</strong> (dạng -ing – present participle): Dùng với am/is/are (đang diễn ra), was/were, hoặc sau enjoy, hate, keep, stop, mind…</p>
 
 				<p className="text-indent-whole">Ví dụ:</p>
 
@@ -155,7 +141,21 @@ export default function SauDangDongTuTiengAnh1(): React.JSX.Element {
 
 					</ul>
 
-				<p className="margin-top-20 text-indent-whole"><strong>Mẹo nhớ cặp 3</strong>: “Muốn làm gì trong tương lai hoặc nói chung chung → dùng to work. Đang làm thật, ngay lúc này → thêm be + working để ‘bắt quả tang’!”</p>
+					<p className="margin-top-20"><strong>To Work</strong> (động từ nguyên mẫu có “to” – to-infinitive): Dùng sau want, need, decide, plan, hope, learn, try, promise…</p>
+
+					<p className="text-indent-whole">Ví dụ:</p>
+
+					<ul className="list-square">
+
+						<li>I want <strong>to work</strong> abroad next year.</li>
+
+						<li>She decided <strong>to study</strong> English seriously.</li>
+
+						<li>It’s nice <strong>to eat</strong> healthy food.</li>
+
+					</ul>
+
+				<p className="margin-top-20 text-indent-whole"><strong>Mẹo nhớ cặp 3</strong>: Đang làm thật, ngay lúc này → thêm be + working để ‘bắt quả tang’! “Muốn làm gì trong tương lai hoặc nói chung chung → dùng to work.”</p>
 
 			</div>
 
@@ -167,7 +167,7 @@ export default function SauDangDongTuTiengAnh1(): React.JSX.Element {
 			
 					<li><strong>Worked</strong> (chuyện xưa kết thúc) ↔ <strong>Have</strong>/<strong>Has</strong>/<strong>Had Worked</strong> (chuyện xưa vẫn còn ảnh hưởng)</li>
 
-					<li><strong>To Work</strong> (muốn/làm được) ↔ (<strong>Be</strong>) <strong>Working</strong> (đang làm thật)</li>
+					<li>(<strong>Be</strong>) <strong>Working</strong> (đang làm thật) ↔ <strong>To Work</strong> (muốn/làm được)</li>
 			
 				</ol>
 

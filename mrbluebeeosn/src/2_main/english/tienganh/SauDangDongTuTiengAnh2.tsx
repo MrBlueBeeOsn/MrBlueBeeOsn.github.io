@@ -79,7 +79,7 @@ export default function SauDangDongTuTiengAnh2(): React.JSX.Element {
 
 			</div>
 
-			{/* 2. Worked – Past simple & Past participle */}
+			{/* Cặp 2: Worked vs Have/Has/Had Worked */}
 
 			<div className="margin-y-15 text-border1 table-container">
 
@@ -125,29 +125,11 @@ export default function SauDangDongTuTiengAnh2(): React.JSX.Element {
 
 			</div>
 
-			{/* Cặp 3: To Work vs (Be) Working */}
+			{/* Cặp 3: (Be) Working vs To Work */}
 
 			<div className="margin-y-15 text-border1 table-container">
 
-				<h3 className="margin-top-50 margin-bottom-20 text-center">Cặp 3: To Work vs (Be) Working</h3>
-
-				<h4 className="margin-top-50 margin-bottom-30">To work – Infinitive with “to” (động từ nguyên mẫu có “to”)</h4>
-
-					<p className="text-indent-whole">Đây là dạng “được đóng gói” – xuất hiện sau các động từ như want, need, decide, plan, hope, learn, promise, try…</p>
-
-					<p className="text-indent-whole">Ví dụ:</p>
-
-					<ul className="list-square">
-
-						<li>I want <strong>to work</strong> from home.</li>
-
-						<li>She decided <strong>to study</strong> abroad next year.</li>
-
-						<li>It’s important <strong>to eat</strong> healthy food.</li>
-
-					</ul>
-
-				<p className="margin-top-20 text-indent-whole">→ Dạng này như “vé vào cửa” cho rất nhiều cấu trúc câu hay ho.</p>
+				<h3 className="margin-top-50 margin-bottom-20 text-center">Cặp 3: (Be) Working vs To Work</h3>
 
 				<h4 className="margin-top-50 margin-bottom-30">(be) working – Present participle / -ing form (dạng đang diễn ra)</h4>
 
@@ -167,6 +149,24 @@ export default function SauDangDongTuTiengAnh2(): React.JSX.Element {
 
 				<p className="margin-top-20 text-indent-whole">→ Đây là dạng “năng động, sống động” nhất – giúp câu chuyện của bạn trở nên “đang diễn ra” ngay trước mắt người nghe.</p>
 
+				<h4 className="margin-top-50 margin-bottom-30">To work – Infinitive with “to” (động từ nguyên mẫu có “to”)</h4>
+
+					<p className="text-indent-whole">Đây là dạng “được đóng gói” – xuất hiện sau các động từ như want, need, decide, plan, hope, learn, promise, try…</p>
+
+					<p className="text-indent-whole">Ví dụ:</p>
+
+					<ul className="list-square">
+
+						<li>I want <strong>to work</strong> from home.</li>
+
+						<li>She decided <strong>to study</strong> abroad next year.</li>
+
+						<li>It’s important <strong>to eat</strong> healthy food.</li>
+
+					</ul>
+
+				<p className="margin-top-20 text-indent-whole">→ Dạng này như “vé vào cửa” cho rất nhiều cấu trúc câu hay ho.</p>
+
 			</div>
 
 			<h3 className="margin-y-50 text-center">Tại Sao Bộ 6 Dạng Này Là “Vũ Khí Bí Mật”?</h3>
@@ -175,13 +175,13 @@ export default function SauDangDongTuTiengAnh2(): React.JSX.Element {
 			
 				<ol>
 
-					<li value="1">Cặp 1 - Hiện tại đơn giản: <strong>work</strong> / <strong>works</strong></li>
+					<li value="1">Cặp 1: Work vs Works: <strong>work</strong> / <strong>works</strong></li>
 
 					<li className="list-none">Sau modal: can <strong>work</strong>, must <strong>work</strong>, should <strong>work</strong>…</li>
 			
-					<li value="2">Cặp 2 - Quá khứ đơn: <strong>worked</strong> / Hiện tại hoàn thành: <strong>have</strong>/<strong>has worked</strong></li>
+					<li value="2">Cặp 2: Worked vs Have/Has/Had Worked: <strong>worked</strong> / Hiện tại hoàn thành: <strong>have</strong>/<strong>has worked</strong></li>
 			
-					<li value="3">Cặp 3 - Nguyên mẫu: want <strong>to work</strong> / Đang diễn ra: <strong>am</strong>/<strong>is</strong>/<strong>are working</strong></li>
+					<li value="3">Cặp 3: (Be) Working vs To Work: <strong>am</strong>/<strong>is</strong>/<strong>are working</strong> / Nguyên mẫu: want <strong>to work</strong></li>
 			
 				</ol>
 
@@ -189,19 +189,33 @@ export default function SauDangDongTuTiengAnh2(): React.JSX.Element {
 
 			<h3 className="margin-y-50 text-center">Thử Ngay Một Ngày Của Bạn Bằng Bộ 6 Dạng</h3>
 
+				<p><strong>Cặp 1</strong>: Work vs Works</p>
+
 				<ul className="list-square">
 
 					<li>Every morning I <strong>wake</strong> up and <strong>drink</strong> coffee. (dạng gốc)</li>
+
+					<li>She <strong>works</strong> in a beautiful office downtown. (ngôi thứ ba)</li>
 			
-					<li>Right now I <strong>am working</strong> on my English. (dạng -ing)</li>
+				</ul>
+
+				<p className="margin-top-20"><strong>Cặp 2</strong>: Worked vs Have/Has/Had Worked</p>
+
+				<ul className="list-square">
 			
 					<li>Yesterday I <strong>worked</strong> until midnight. (quá khứ)</li>
 
 					<li>This year I <strong>have worked</strong> more than 2000 hours. (hiện tại hoàn thành)</li>
 			
-					<li>I want <strong>to travel</strong> more next year. (to + infinitive)</li>
+				</ul>
 
-					<li>She <strong>works</strong> in a beautiful office downtown. (ngôi thứ ba)</li>
+				<p className="margin-top-20"><strong>Cặp 3</strong>: (Be) Working vs To Work</p>
+
+				<ul className="list-square">
+
+					<li>Right now I <strong>am working</strong> on my English. (dạng -ing)</li>
+			
+					<li>I want <strong>to travel</strong> more next year. (to + infinitive)</li>
 			
 				</ul>
 
