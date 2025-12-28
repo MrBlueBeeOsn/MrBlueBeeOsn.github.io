@@ -49,6 +49,17 @@ export default function NamDangDongTuVangRong2(): React.JSX.Element {
 
 					<tbody>
 
+						
+
+						<tr>
+								<td>to verb</td>
+								<td>verb</td>
+								<td>verbs</td>
+								<td>verbed</td>
+								<td>have, has verbed</td>
+								<td>verbing</td>
+						</tr>
+
 						<tr>
 								<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
 								<td>I, you, we, they</td>
@@ -56,15 +67,6 @@ export default function NamDangDongTuVangRong2(): React.JSX.Element {
 								<td></td>
 								<td></td>
 								<td></td>
-						</tr>
-
-						<tr>
-								<td></td>
-								<td>V1</td>
-								<td>V2</td>
-								<td>V3</td>
-								<td>V4</td>
-								<td>V5</td>
 						</tr>
 						
 						<tr>
