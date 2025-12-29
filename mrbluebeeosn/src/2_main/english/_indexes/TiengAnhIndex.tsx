@@ -216,6 +216,12 @@ export default function TiengAnhIndex(): React.JSX.Element {
 
             <li>
               <div className="li-content">
+                <Link to="/tieng-anh/gerunds-va-infinitives">Gerunds và Infinitives</Link>
+              </div>
+            </li>
+
+            <li>
+              <div className="li-content">
                 <Link to="/tieng-anh/meo-hay-de-viet-tieng-anh-muot-ma-hon">Mẹo Hay Để Viết Tiếng Anh Mượt Mà Hơn</Link>
               </div>
             </li>

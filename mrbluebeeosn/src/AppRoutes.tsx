@@ -99,6 +99,8 @@ const Posts = lazy(() => import('@/data/Posts'));
 
 	const HieuDungVeThiHienTaiHoanThanh = lazy(() => import('@/2_main/english/tienganh/HieuDungVeThiHienTaiHoanThanh'));
 
+	const GerundsVaInfinitives = lazy(() => import('@/2_main/english/tienganh/GerundsVaInfinitives'));
+
 	const NamDangDongTuVangRong2 = lazy(() => import('@/2_main/english/tienganh/folder/NamDangDongTuVangRong2'));
 	const NamDangDongTuVangRong1 = lazy(() => import('@/2_main/english/tienganh/folder/NamDangDongTuVangRong1'));
 
@@ -464,6 +466,10 @@ export default function AppRoutes(): React.JSX.Element {
 					<Route path="/tieng-anh/6-dang-dong-tu-tieng-anh-2" element={<SauDangDongTuTiengAnh2 />} />
 
 					<Route path="/tieng-anh/hieu-dung-ve-thi-hien-tai-hoan-thanh" element={<HieuDungVeThiHienTaiHoanThanh />} />
+
+					<Route path="/tieng-anh/gerunds-va-infinitives" element={<GerundsVaInfinitives />} />
+
+
 
 					<Route path="/tieng-anh/5-dang-dong-tu-vang-rong-2" element={<NamDangDongTuVangRong2 />} />
 					<Route path="/tieng-anh/5-dang-dong-tu-vang-rong-1" element={<NamDangDongTuVangRong1 />} />
