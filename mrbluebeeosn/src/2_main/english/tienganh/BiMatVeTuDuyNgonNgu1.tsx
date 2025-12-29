@@ -34,17 +34,17 @@ export default function BiMatVeTuDuyNgonNgu1(): React.JSX.Element {
 
 			<p>Nếu coi tiếng Anh là một bức tranh, thì người Việt chúng ta thường vẽ hình trước rồi mới tô màu. Nhưng người bản xứ lại chọn màu sơn, nhúng cọ rồi mới đặt bút vẽ.</p>
 					
-			<p>Sự khác biệt về "thứ tự xuất hiện" trong câu nói chính là rào cản lớn nhất khiến chúng ta mãi bị kẹt trong vòng xoáy "dịch thầm". Hôm nay, hãy cùng giải mã Tấm bản đồ tư duy ngược – chìa khóa để bạn thực sự làm chủ ngôn ngữ này!</p>
+			<p>Sự khác biệt về "thứ tự xuất hiện" trong câu nói chính là rào cản lớn nhất khiến chúng ta mãi bị kẹt trong vòng xoáy "dịch thầm". Hôm nay, hãy cùng giải mã <strong>Tấm bản đồ tư duy ngược</strong> – chìa khóa để bạn thực sự làm chủ ngôn ngữ này!</p>
 
 			{/* 1. Nguyên lý "Phác thảo": Tính từ + Danh từ (Cái nhìn định tính) */}
 
 			<h3 className="margin-y-50 text-center">1. Nguyên lý "Phác thảo": Tính từ + Danh từ (Cái nhìn định tính)</h3>
 					
-			<p className="text-indent-whole">Hãy tưởng tượng bạn đang nhìn vào một "Blue sky" (Bầu trời xanh).</p>
+			<p>Hãy tưởng tượng bạn đang nhìn vào một "<strong>Blue sky</strong>" (Bầu trời xanh).</p>
 
-			<p className="text-indent-whole">Lối mòn cũ: Nhìn thấy vật thể (Bầu trời) -{'>'} Tìm tính chất (Xanh) -{'>'} Ghép lại. Đây là cách khiến bạn nói chậm và ngắt quãng.</p>
+			<p><strong>Lối mòn cũ</strong>: Nhìn thấy vật thể (Bầu trời) ➝ Tìm tính chất (Xanh) ➝ Ghép lại. Đây là cách khiến bạn nói chậm và ngắt quãng.</p>
 
-			<p className="text-indent-whole">Tư duy đột phá: Hãy để màu sắc/tính chất đập vào mắt bạn trước.</p>
+			<p><strong>Tư duy đột phá</strong>: Hãy để <strong>màu sắc</strong>/<strong>tính chất</strong> đập vào mắt bạn trước.</p>
 			
 				<ul className="list-square">
 			
@@ -54,17 +54,17 @@ export default function BiMatVeTuDuyNgonNgu1(): React.JSX.Element {
 			
 				</ul>
 
-			<p className="text-indent-whole">Ứng dụng: Hãy tập nhìn thế giới theo kiểu "Đặc điểm dẫn đường". Đừng thấy "Cô gái xinh", hãy thấy "Sự xinh đẹp (Beautiful)... của một cô gái (Girl)".</p>
+			<p className="margin-top-20"><strong>Ứng dụng</strong>: Hãy tập nhìn thế giới theo kiểu "Đặc điểm dẫn đường". Đừng thấy "Cô gái xinh", hãy thấy "<strong>Sự xinh đẹp</strong> (<strong>Beautiful</strong>)... <strong>của một cô gái</strong> (<strong>Girl</strong>)".</p>
 
 			{/* 2. Nguyên lý "Đạo diễn": Trạng từ + Động từ (Sắc thái hành động) */}
 
 			<h3 className="margin-y-50 text-center">2. Nguyên lý "Đạo diễn": Trạng từ + Động từ (Sắc thái hành động)</h3>
 
-			<p>Nếu Tính từ là màu sắc, thì Trạng từ chính là nhạc nền. Tại sao họ nói "He QUIETLY opened the door"?</p>
+			<p>Nếu Tính từ là màu sắc, thì Trạng từ chính là <strong>nhạc nền</strong>. Tại sao họ nói "<strong>He QUIETLY opened the door</strong>"?</p>
 					
-			<p className="text-indent-whole">Lối mòn cũ: Tập trung vào hành động (Mở cửa) rồi mới thêm chú thích (Lặng lẽ). Cách này khiến câu nói của bạn bị "trơ", thiếu cảm xúc.</p>
+			<p><strong>Lối mòn cũ</strong>: Tập trung vào hành động (Mở cửa) rồi mới thêm chú thích (Lặng lẽ). Cách này khiến câu nói của bạn bị "trơ", thiếu cảm xúc.</p>
 
-			<p className="text-indent-whole">Tư duy đột phá: Trạng từ đứng trước để thiết lập bầu không khí.</p>
+			<p><strong>Tư duy đột phá</strong>: Trạng từ đứng trước để <strong>thiết lập bầu không khí</strong>.</p>
 			
 				<ul className="list-square">
 		
@@ -74,7 +74,7 @@ export default function BiMatVeTuDuyNgonNgu1(): React.JSX.Element {
 			
 				</ul>
 
-			<p className="text-indent-whole">Ứng dụng: Hãy chọn "thái độ" cho hành động trước khi thực hiện nó. Đừng nói "Chạy nhanh", hãy cảm nhận "Sự nhanh nhẹn (Quickly)... trong bước chạy (Ran)".</p>
+			<p className="margin-top-20"><strong>Ứng dụng</strong>: Hãy chọn "thái độ" cho hành động trước khi thực hiện nó. Đừng nói "Chạy nhanh", hãy cảm nhận "<strong>Sự nhanh nhẹn</strong> (<strong>Quickly</strong>)... <strong>trong bước chạy</strong> (<strong>Ran</strong>)".</p>
 
 			{/* 3. Tấm bản đồ tư duy "Triệu View": Tổng lực thay đổi góc nhìn */}
 
@@ -82,12 +82,12 @@ export default function BiMatVeTuDuyNgonNgu1(): React.JSX.Element {
 					
 			<p>Hãy lưu lại sơ đồ này để mỗi khi định nói một câu tiếng Anh, bạn sẽ biết mình cần phải "ưu tiên" điều gì:</p>
 
-				<table className="margin-y-50">
+				<table className="margin-top-20 margin-bottom-50">
 					<thead>
 						<tr>
-							<td>Đối tượng quan sát</td>
-							<th>Thứ tự tiếng Việt (Tổng thể -{'>'} Chi tiết)</th>
-							<th>Thứ tự tiếng Anh (Bộ lọc -{'>'} Đối tượng)</th>
+							<th>Đối tượng quan sát</th>
+							<th>Thứ tự tiếng Việt (Tổng thể ➝ Chi tiết)</th>
+							<th>Thứ tự tiếng Anh (Bộ lọc ➝ Đối tượng)</th>
 							<th>Bí kíp "Thay não"</th>
 						</tr>
 					</thead>
@@ -95,16 +95,16 @@ export default function BiMatVeTuDuyNgonNgu1(): React.JSX.Element {
 					<tbody>
 
 						<tr>
-								<td>Sự vật (Tĩnh)</td>
+								<td><strong>Sự vật</strong> (<strong>Tĩnh</strong>)</td>
 								<td>Danh từ + Tính từ</td>
-								<td>Tính từ + Danh từ</td>
+								<td><strong>Tính từ</strong> + <strong>Danh từ</strong></td>
 								<td>Chọn màu sơn trước, vẽ hình sau</td>
 						</tr>
 
 						<tr>
-								<td>Hành động (Động)</td>
+								<td><strong>Hành động</strong> (<strong>Động</strong>)</td>
 								<td>Động từ + Trạng từ</td>
-								<td>Trạng từ + Động từ</td>
+								<td><strong>Trạng từ</strong> + <strong>Động từ</strong></td>
 								<td>Chọn nhạc nền trước, diễn xuất sau</td>
 						</tr>
 					</tbody>
@@ -114,21 +114,21 @@ export default function BiMatVeTuDuyNgonNgu1(): React.JSX.Element {
 
 			<h3 className="margin-y-50 text-center">4. Cách để "Bản đồ" này đi sâu vào tiềm thức?</h3>
 
-			<p>Đừng cố học thuộc quy tắc, hãy học theo "Khối cảm giác" (Sensory Chunks).</p>
+			<p>Đừng cố học thuộc quy tắc, hãy học theo "<strong>Khối cảm giác</strong>" (<strong>Sensory Chunks</strong>).</p>
 
 			<p>Đừng học từ đơn lẻ. Hãy nạp vào đầu những "combo" bất biến:</p>
 			
 				<ul className="list-square">
 
 					<li>Screaming red (Màu đỏ chói chang)</li>
-					<li>Thấy màu đỏ là thấy sự "gào thét" của nó.</li>
+					<li className="list-none">➝ Thấy màu đỏ là thấy sự "gào thét" của nó.</li>
 
 					<li>Suddenly realize (Chợt nhận ra)</li>
-					<li>Thấy sự "đột ngột" trước khi thấy "nhận thức".</li>
+					<li className="list-none">➝ Thấy sự "đột ngột" trước khi thấy "nhận thức".</li>
 			
 				</ul>
 
-			<p className="margin-top-20">Khi bạn nhìn thế giới bằng cách ưu tiên Cảm giác (Tính từ/Trạng từ) trước khi gọi tên Sự vật/Hành động, bạn đã chính thức bước qua cánh cửa của người bản xứ. Bạn không còn đang "học" tiếng Anh, mà bạn đang "cảm" tiếng Anh.</p>
+			<p className="margin-top-20">Khi bạn nhìn thế giới bằng cách ưu tiên <strong>Cảm giác</strong> (<strong>Tính từ</strong>/<strong>Trạng từ</strong>) trước khi gọi tên <strong>Sự vật</strong>/<strong>Hành động</strong>, bạn đã chính thức bước qua cánh cửa của người bản xứ. Bạn không còn đang "học" tiếng Anh, mà bạn đang "cảm" tiếng Anh.</p>
 
 			<h3 className="margin-y-50 text-center">Lời kết:</h3>
 
