@@ -102,6 +102,10 @@ const Posts = lazy(() => import('@/data/Posts'));
 	const GerundsVaInfinitives = lazy(() => import('@/2_main/english/tienganh/GerundsVaInfinitives'));
 	const NhanBietTinhTuTiengAnh = lazy(() => import('@/2_main/english/tienganh/NhanBietTinhTuTiengAnh'));
 
+	const BiMatVeTuDuyNgonNgu1 = lazy(() => import('@/2_main/english/tienganh/BiMatVeTuDuyNgonNgu1'));
+	const BiMatVeTuDuyNgonNgu2 = lazy(() => import('@/2_main/english/tienganh/BiMatVeTuDuyNgonNgu2'));
+	const BiMatVeTuDuyNgonNgu3 = lazy(() => import('@/2_main/english/tienganh/BiMatVeTuDuyNgonNgu3'));
+
 	const NamDangDongTuVangRong2 = lazy(() => import('@/2_main/english/tienganh/folder/NamDangDongTuVangRong2'));
 	const NamDangDongTuVangRong1 = lazy(() => import('@/2_main/english/tienganh/folder/NamDangDongTuVangRong1'));
 
@@ -471,6 +475,9 @@ export default function AppRoutes(): React.JSX.Element {
 					<Route path="/tieng-anh/gerunds-va-infinitives" element={<GerundsVaInfinitives />} />
 					<Route path="/tieng-anh/bi-quyet-nhan-biet-tinh-tu-trong-tieng-anh" element={<NhanBietTinhTuTiengAnh />} />
 
+					<Route path="/tieng-anh/bi-mat-ve-tu-duy-ngon-ngu-1" element={<BiMatVeTuDuyNgonNgu1 />} />
+					<Route path="/tieng-anh/bi-mat-ve-tu-duy-ngon-ngu-2" element={<BiMatVeTuDuyNgonNgu2 />} />
+					<Route path="/tieng-anh/bi-mat-ve-tu-duy-ngon-ngu-3" element={<BiMatVeTuDuyNgonNgu3 />} />
 
 
 

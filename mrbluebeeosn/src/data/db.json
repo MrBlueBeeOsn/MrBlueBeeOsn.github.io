@@ -518,6 +518,39 @@
       "likes": 0
     },
     {
+      "id": "BiMatVeTuDuyNgonNgu1",
+      "categoryDisplay": "Tiếng Anh",
+      "categorySlug": "tieng-anh",
+      "title": "Bí Mật Về Tư Duy Ngôn Ngữ Giúp Bạn Đột Phá Tiếng Anh",
+      "content": "Bạn đã bao giờ tự hỏi tại sao chúng ta nói \"Bầu trời xanh\" nhưng người bản xứ lại luôn khẳng định là \"BLUE sky\"?",
+      "slug": "tieng-anh/bi-mat-ve-tu-duy-ngon-ngu-1",
+      "date": "2025-12-29",
+      "views": 0,
+      "likes": 0
+    },
+    {
+      "id": "BiMatVeTuDuyNgonNgu2",
+      "categoryDisplay": "Tiếng Anh",
+      "categorySlug": "tieng-anh",
+      "title": "Bí Mật Về Tư Duy Ngôn Ngữ Giúp Bạn Đột Phá Tiếng Anh",
+      "content": "Đã bao giờ bạn tự hỏi tại sao chúng ta nói \"Anh ấy chạy thật nhanh\" nhưng người Tây lại có xu hướng ưu tiên nói \"He QUICKLY ran\"? Một lần nữa, bí mật không nằm ở ngữ pháp, mà nằm ở thứ tự ưu tiên của bộ não.",
+      "slug": "tieng-anh/bi-mat-ve-tu-duy-ngon-ngu-2",
+      "date": "2025-12-29",
+      "views": 0,
+      "likes": 0
+    },
+    {
+      "id": "BiMatVeTuDuyNgonNgu3",
+      "categoryDisplay": "Tiếng Anh",
+      "categorySlug": "tieng-anh",
+      "title": "Bí Mật Về Tư Duy Ngôn Ngữ Giúp Bạn Đột Phá Tiếng Anh",
+      "content": "Nếu coi tiếng Anh là một bức tranh, thì người Việt chúng ta thường vẽ hình trước rồi mới tô màu. Nhưng người bản xứ lại chọn màu sơn, nhúng cọ rồi mới đặt bút vẽ.",
+      "slug": "tieng-anh/bi-mat-ve-tu-duy-ngon-ngu-3",
+      "date": "2025-12-29",
+      "views": 0,
+      "likes": 0
+    },
+    {
       "id": "Accurately1",
       "categoryDisplay": "Tính chính xác",
       "categorySlug": "vocabulary#tinh-chinh-xac-terms",

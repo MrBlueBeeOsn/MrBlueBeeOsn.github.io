@@ -361,6 +361,40 @@ export default function TiengAnhIndex(): React.JSX.Element {
 
         <div className="sub-box">
 
+          {/* =============================
+              Tư Duy
+          ============================= */}
+      
+          <p id="tieng-anh-terms"><mark className="highlight-secondary-padding-2-4">Tư Duy</mark></p>
+
+          <ul className="list-border1">
+
+            <li>
+              <div className="li-content">
+                <Link to="/tieng-anh/bi-mat-ve-tu-duy-ngon-ngu-1">Bí Mật Về Tư Duy Ngôn Ngữ
+                <sup>&nbsp;1&nbsp;</sup>
+                </Link>
+                <Link to="/tieng-anh/bi-mat-ve-tu-duy-ngon-ngu-2">
+                  <sup>&nbsp;2&nbsp;</sup>
+                </Link>
+                <Link to="/tieng-anh/bi-mat-ve-tu-duy-ngon-ngu-3">
+                  <sup>&nbsp;3&nbsp;</sup>
+                </Link>
+              </div>
+            </li>
+
+            
+
+          </ul>
+
+        </div>
+
+      </div>
+
+      <div className="flex-container margin-top-20">
+
+        <div className="sub-box">
+
           <ul className="list-border1">
 
             <li><Link to="/tieng-anh/giao-vien-tieng-anh-la-gi?">Giáo viên tiếng Anh</Link></li>
