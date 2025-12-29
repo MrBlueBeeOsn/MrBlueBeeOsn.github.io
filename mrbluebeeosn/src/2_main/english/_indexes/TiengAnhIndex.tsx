@@ -341,6 +341,26 @@ export default function TiengAnhIndex(): React.JSX.Element {
 
         <div className="sub-box">
 
+          {/* =============================
+              Tính từ
+          ============================= */}
+      
+          <p id="tieng-anh-terms"><mark className="highlight-secondary-padding-2-4">Tính từ</mark></p>
+
+          <ul className="list-border1">
+
+            <li>
+              <div className="li-content">
+                <Link to="/tieng-anh/bi-quyet-nhan-biet-tinh-tu-trong-tieng-anh">Bí Quyết Nhận Biết Tính Từ</Link>
+              </div>
+            </li>
+
+          </ul>
+
+        </div>
+
+        <div className="sub-box">
+
           <ul className="list-border1">
 
             <li><Link to="/tieng-anh/giao-vien-tieng-anh-la-gi?">Giáo viên tiếng Anh</Link></li>

@@ -135,5 +135,15 @@
 			"slug": "tieng-anh/gerunds-va-infinitives",
 			"date": "2025-12-29"
 		}
+		,
+		{
+			"id": "NhanBietTinhTuTiengAnh",
+			"categoryDisplay": "Tiếng Anh",
+			"categorySlug": "tieng-anh",
+			"title": "Bí Quyết Nhận Biết Tính Từ Trong Tiếng Anh",
+			"content": "“Tính từ thường được tạo ra từ danh từ hoặc động từ bằng cách thêm hậu tố. Mỗi hậu tố mang một ý nghĩa đặc trưng, giúp ta nhanh chóng nhận diện vai trò của từ trong câu.",
+			"slug": "tieng-anh/bi-quyet-nhan-biet-tinh-tu-trong-tieng-anh",
+			"date": "2025-12-29"
+		}
 	]
 }
