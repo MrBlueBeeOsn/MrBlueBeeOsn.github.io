@@ -137,7 +137,7 @@ export default function TheBeautyOfTheGirl3(): React.JSX.Element {
 			<div className="viewcounter">
 			
 				<div className="post-date no-margin">
-					<span>December 30, 2025 · by DPSK and 🐝Mr. Bee Osn ·</span>
+					<span>December 30, 2025 · by Claud and 🐝Mr. Bee Osn ·</span>
 				</div>
 
 				<div className="eye-icon no-margin">
