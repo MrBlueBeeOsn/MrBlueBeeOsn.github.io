@@ -540,6 +540,39 @@
       "likes": 0
     },
     {
+      "id": "TheBeautyOfTheGirl1",
+      "categoryDisplay": "Tiếng Anh",
+      "categorySlug": "tieng-anh",
+      "title": "The beauty of the Girl 1",
+      "content": "ĐỌC TIẾNG ANH \"XUÔI DÒNG\": TUYỆT CHIÊU XÓA BỎ CẢM GIÁC NGƯỢC ĐỜI",
+      "slug": "tieng-anh/the-beauty-of-the-girl-1",
+      "date": "2025-12-30",
+      "views": 0,
+      "likes": 0
+    },
+    {
+      "id": "TheBeautyOfTheGirl2",
+      "categoryDisplay": "Tiếng Anh",
+      "categorySlug": "tieng-anh",
+      "title": "The beauty of the Girl 2",
+      "content": "Một Mẹo Nhỏ, Một Bước Nhảy Vọt: Tư Duy Lại Cách Bạn \"Giải Mã\" Tiếng Anh",
+      "slug": "tieng-anh/the-beauty-of-the-girl-2",
+      "date": "2025-12-30",
+      "views": 0,
+      "likes": 0
+    },
+    {
+      "id": "TheBeautyOfTheGirl3",
+      "categoryDisplay": "Tiếng Anh",
+      "categorySlug": "tieng-anh",
+      "title": "The beauty of the Girl 3",
+      "content": "Bí Mật Đọc Tiếng Anh Nhanh Gấp Đôi Chỉ Trong 7 Ngày",
+      "slug": "tieng-anh/the-beauty-of-the-girl-3",
+      "date": "2025-12-30",
+      "views": 0,
+      "likes": 0
+    },
+    {
       "id": "Accurately1",
       "categoryDisplay": "Tính chính xác",
       "categorySlug": "vocabulary#tinh-chinh-xac-terms",
