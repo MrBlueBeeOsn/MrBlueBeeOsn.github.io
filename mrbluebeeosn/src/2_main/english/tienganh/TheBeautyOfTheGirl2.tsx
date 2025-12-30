@@ -28,6 +28,12 @@ export default function TheBeautyOfTheGirl2(): React.JSX.Element {
 				<sup><HashLink smooth to="/tieng-anh/the-beauty-of-the-girl-3">&nbsp;3&nbsp;</HashLink>
 				</sup>
 
+				<sup><HashLink smooth to="/tieng-anh/the-beauty-of-the-girl-4">&nbsp;4&nbsp;</HashLink>
+				</sup>
+
+				<sup><HashLink smooth to="/tieng-anh/the-beauty-of-the-girl-5">&nbsp;5&nbsp;</HashLink>
+				</sup>
+
 			</h1>
 
 			<h4 className="margin-bottom-30 text-center">Một Mẹo Nhỏ, Một Bước Nhảy Vọt: Tư Duy Lại Cách Bạn "Giải Mã" Tiếng Anh</h4>

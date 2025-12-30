@@ -254,7 +254,7 @@ export default function NamDangDongTuVangRong1(): React.JSX.Element {
 			<div className="viewcounter">
 			
 				<div className="post-date no-margin">
-					<span>December 27, 2025 · by 🐝Mr. Bee Osn and Grok ·</span>
+					<span>December 27, 2025 · by Grok and 🐝Mr. Bee Osn  ·</span>
 				</div>
 
 				<div className="eye-icon no-margin">

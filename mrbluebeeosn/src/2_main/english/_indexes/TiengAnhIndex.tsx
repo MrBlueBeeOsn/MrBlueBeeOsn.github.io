@@ -380,6 +380,12 @@ export default function TiengAnhIndex(): React.JSX.Element {
                 <Link to="/tieng-anh/the-beauty-of-the-girl-3">
                   <sup>&nbsp;3&nbsp;</sup>
                 </Link>
+                <Link to="/tieng-anh/the-beauty-of-the-girl-4">
+                  <sup>&nbsp;4&nbsp;</sup>
+                </Link>
+                <Link to="/tieng-anh/the-beauty-of-the-girl-5">
+                  <sup>&nbsp;5&nbsp;</sup>
+                </Link>
               </div>
             </li>
 

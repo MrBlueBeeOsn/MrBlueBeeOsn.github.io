@@ -188,6 +188,24 @@
 			"content": "Bí Mật Đọc Tiếng Anh Nhanh Gấp Đôi Chỉ Trong 7 Ngày",
 			"slug": "tieng-anh/the-beauty-of-the-girl-3",
 			"date": "2025-12-30"
+		},
+		{
+			"id": "TheBeautyOfTheGirl5",
+			"categoryDisplay": "Tiếng Anh",
+			"categorySlug": "tieng-anh",
+			"title": "The beauty of the Girl 4",
+			"content": "Thực hành ngay",
+			"slug": "tieng-anh/the-beauty-of-the-girl-4",
+			"date": "2025-12-30"
+		},
+		{
+			"id": "TheBeautyOfTheGirl5",
+			"categoryDisplay": "Tiếng Anh",
+			"categorySlug": "tieng-anh",
+			"title": "The beauty of the Girl 5",
+			"content": "Lộ trình 7 ngày",
+			"slug": "tieng-anh/the-beauty-of-the-girl-5",
+			"date": "2025-12-30"
 		}
 	]
 }

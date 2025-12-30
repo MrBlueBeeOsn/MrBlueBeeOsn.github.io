@@ -246,7 +246,7 @@ export default function NhanDienCumDongTuTiengAnh(): React.JSX.Element {
 			<div className="viewcounter">
 			
 				<div className="post-date no-margin">
-					<span>November 30, 2025 · by 🐝Mr. Bee Osn and Grok ·</span>
+					<span>November 30, 2025 · by Grok and 🐝Mr. Bee Osn  ·</span>
 				</div>
 
 				<div className="eye-icon no-margin">
