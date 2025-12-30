@@ -161,6 +161,33 @@
 			"content": "Nếu coi tiếng Anh là một bức tranh, thì người Việt chúng ta thường vẽ hình trước rồi mới tô màu. Nhưng người bản xứ lại chọn màu sơn, nhúng cọ rồi mới đặt bút vẽ.",
 			"slug": "tieng-anh/bi-mat-ve-tu-duy-ngon-ngu-3",
 			"date": "2025-12-29"
+		},
+		{
+			"id": "TheBeautyOfTheGirl1",
+			"categoryDisplay": "Tiếng Anh",
+			"categorySlug": "tieng-anh",
+			"title": "The beauty of the Girl 1",
+			"content": "",
+			"slug": "tieng-anh/the-beauty-of-the-girl-1",
+			"date": "2025-12-30"
+		},
+		{
+			"id": "TheBeautyOfTheGirl2",
+			"categoryDisplay": "Tiếng Anh",
+			"categorySlug": "tieng-anh",
+			"title": "The beauty of the Girl 2",
+			"content": "",
+			"slug": "tieng-anh/the-beauty-of-the-girl-2",
+			"date": "2025-12-30"
+		},
+		{
+			"id": "TheBeautyOfTheGirl3",
+			"categoryDisplay": "Tiếng Anh",
+			"categorySlug": "tieng-anh",
+			"title": "The beauty of the Girl 3",
+			"content": "",
+			"slug": "tieng-anh/the-beauty-of-the-girl-3",
+			"date": "2025-12-30"
 		}
 	]
 }

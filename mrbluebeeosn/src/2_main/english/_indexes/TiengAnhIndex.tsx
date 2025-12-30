@@ -371,6 +371,20 @@ export default function TiengAnhIndex(): React.JSX.Element {
 
             <li>
               <div className="li-content">
+                <Link to="/tieng-anh/the-beauty-of-the-girl-1">The Beauty of the Girl
+                <sup>&nbsp;1&nbsp;</sup>
+                </Link>
+                <Link to="/tieng-anh/the-beauty-of-the-girl-2">
+                  <sup>&nbsp;2&nbsp;</sup>
+                </Link>
+                <Link to="/tieng-anh/the-beauty-of-the-girl-3">
+                  <sup>&nbsp;3&nbsp;</sup>
+                </Link>
+              </div>
+            </li>
+
+            <li>
+              <div className="li-content">
                 <Link to="/tieng-anh/bi-mat-ve-tu-duy-ngon-ngu-1">Bí Mật Về Tư Duy Ngôn Ngữ
                 <sup>&nbsp;1&nbsp;</sup>
                 </Link>

@@ -106,6 +106,10 @@ const Posts = lazy(() => import('@/data/Posts'));
 	const BiMatVeTuDuyNgonNgu2 = lazy(() => import('@/2_main/english/tienganh/BiMatVeTuDuyNgonNgu2'));
 	const BiMatVeTuDuyNgonNgu3 = lazy(() => import('@/2_main/english/tienganh/BiMatVeTuDuyNgonNgu3'));
 
+	const TheBeautyOfTheGirl1 = lazy(() => import('@/2_main/english/tienganh/TheBeautyOfTheGirl1'));
+	const TheBeautyOfTheGirl2 = lazy(() => import('@/2_main/english/tienganh/TheBeautyOfTheGirl2'));
+	const TheBeautyOfTheGirl3 = lazy(() => import('@/2_main/english/tienganh/TheBeautyOfTheGirl3'));
+
 	const NamDangDongTuVangRong2 = lazy(() => import('@/2_main/english/tienganh/folder/NamDangDongTuVangRong2'));
 	const NamDangDongTuVangRong1 = lazy(() => import('@/2_main/english/tienganh/folder/NamDangDongTuVangRong1'));
 
@@ -478,6 +482,10 @@ export default function AppRoutes(): React.JSX.Element {
 					<Route path="/tieng-anh/bi-mat-ve-tu-duy-ngon-ngu-1" element={<BiMatVeTuDuyNgonNgu1 />} />
 					<Route path="/tieng-anh/bi-mat-ve-tu-duy-ngon-ngu-2" element={<BiMatVeTuDuyNgonNgu2 />} />
 					<Route path="/tieng-anh/bi-mat-ve-tu-duy-ngon-ngu-3" element={<BiMatVeTuDuyNgonNgu3 />} />
+
+					<Route path="/tieng-anh/the-beauty-of-the-girl-1" element={<TheBeautyOfTheGirl1 />} />
+					<Route path="/tieng-anh/the-beauty-of-the-girl-2" element={<TheBeautyOfTheGirl2 />} />
+					<Route path="/tieng-anh/the-beauty-of-the-girl-3" element={<TheBeautyOfTheGirl3 />} />
 
 
 
