@@ -495,6 +495,8 @@ export default function AppRoutes(): React.JSX.Element {
 					<Route path="/tieng-anh/5-dang-dong-tu-vang-rong-2" element={<NamDangDongTuVangRong2 />} />
 					<Route path="/tieng-anh/5-dang-dong-tu-vang-rong-1" element={<NamDangDongTuVangRong1 />} />
 
+					<Route path="/tieng-anh/giao-vien-tieng-anh-la-gi" element={<GiaoVienTiengAnh />} />
+
 					
 
 					<Route path="/tieng-anh/huong-dan-dich-cum-danh-tu-tieng-anh" element={<DichCumDanhTuTiengAnh />} />
