@@ -212,8 +212,17 @@
 			"categoryDisplay": "Tiếng Anh",
 			"categorySlug": "tieng-anh",
 			"title": "Bảng động từ bất quy tắc phổ biến nhất",
-			"content": "Động từ bất quy tắc (irregular verbs) là “cơn ác mộng” của rất nhiều người học tiếng Anh, vì chúng không theo quy tắc thêm -ed như động từ thường. Tuy nhiên, chỉ cần nắm vững khoảng 60–70 động từ phổ biến nhất, bạn đã có thể giao tiếp tự tin, viết email chuyên nghiệp, thi IELTS/TOEIC đạt điểm cao và thậm chí nói chuyện như người bản xứ ở mức trung cấp – cao cấp.",
-			"slug": "tieng-anh/bang-dong-tu-bat-quy-tac-pho-bien",
+			"content": "Động từ bất quy tắc (irregular verbs) là “cơn ác mộng” của rất nhiều người học tiếng Anh, vì chúng không theo quy tắc thêm -ed như động từ thường.",
+			"slug": "tieng-anh/bang-dong-tu-bat-quy-tac-pho-bien-1",
+			"date": "2026-01-05"
+		},
+		{
+			"id": "BangDongTuBatQuyTac2",
+			"categoryDisplay": "Tiếng Anh",
+			"categorySlug": "tieng-anh",
+			"title": "Bảng động từ bất quy tắc phổ biến nhất",
+			"content": "Chỉ cần nắm vững khoảng 60–70 động từ phổ biến nhất, bạn đã có thể giao tiếp tự tin, viết email chuyên nghiệp, thi IELTS/TOEIC đạt điểm cao và thậm chí nói chuyện như người bản xứ ở mức trung cấp – cao cấp.",
+			"slug": "tieng-anh/bang-dong-tu-bat-quy-tac-pho-bien-2",
 			"date": "2026-01-05"
 		}
 	]

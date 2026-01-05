@@ -222,7 +222,12 @@ export default function TiengAnhIndex(): React.JSX.Element {
 
             <li>
               <div className="li-content">
-                <Link to="/tieng-anh/bang-dong-tu-bat-quy-tac-pho-bien">Động từ bất quy tắc trong tiếng Anh</Link>
+                <Link to="/tieng-anh/bang-dong-tu-bat-quy-tac-pho-bien-1">Động từ bất quy tắc
+                <sup>&nbsp;1&nbsp;</sup>
+                </Link>
+                <Link to="/tieng-anh/bang-dong-tu-bat-quy-tac-pho-bien-2">
+                  <sup>&nbsp;2&nbsp;</sup>
+                </Link>
               </div>
             </li>
 

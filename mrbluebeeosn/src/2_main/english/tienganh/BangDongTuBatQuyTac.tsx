@@ -17,57 +17,19 @@ export default function BangDongTuBatQuyTac(): React.JSX.Element {
 		
 			<h4><HashLink smooth to="/tieng-anh#tieng-anh-terms"><mark className="highlight-tertiary-padding-4-8">Tiếng Anh</mark></HashLink></h4>
 
-			<h1 className="margin-y-50 text-center">Động từ bất quy tắc trong tiếng Anh</h1>
+			<h1 className="margin-y-50 text-center">Động từ bất quy tắc
+															
+				<sup><HashLink smooth to="/tieng-anh/bang-dong-tu-bat-quy-tac-pho-bien-1">&nbsp;1&nbsp;</HashLink>
+				</sup>
 
-			<h4 className="margin-bottom-30 text-center">Bảng đầy đủ & cách sử dụng chi tiết nhất (2025)</h4>
+				<sup><HashLink smooth to="/tieng-anh/bang-dong-tu-bat-quy-tac-pho-bien-2">&nbsp;2&nbsp;</HashLink>
+				</sup>
 
-			<p>Động từ bất quy tắc (irregular verbs) là “cơn ác mộng” của rất nhiều người học tiếng Anh, vì chúng không theo quy tắc thêm -ed như động từ thường. Tuy nhiên, chỉ cần nắm vững khoảng 60–70 động từ phổ biến nhất, bạn đã có thể giao tiếp tự tin, viết email chuyên nghiệp, thi IELTS/TOEIC đạt điểm cao và thậm chí nói chuyện như người bản xứ ở mức trung cấp – cao cấp.</p>
-			
-			<p>Dưới đây là bảng động từ bất quy tắc phổ biến nhất (được cập nhật theo mức độ sử dụng thực tế năm 2025), kèm giải thích cách dùng rõ ràng, dễ nhớ.</p>
+			</h1>
 
-			<h3 className="margin-y-50 text-center">Bảng động từ bất quy tắc phổ biến nhất</h3>
+			<h4 className="margin-bottom-30 text-center"> Bảng đầy đủ & cách sử dụng chi tiết nhất (2025) </h4>
 
-			<table className="margin-y-50">
-					<thead>
-						<tr>
-							<th>STT</th>
-							<th>Hiện tại đơn (thêm -s/es)</th>
-							<th>Quá khứ đơn (V2)</th>
-							<th>Quá khứ phân từ (V3)</th>
-							<th>Nghĩa phổ biến</th>
-						</tr>
-					</thead>
-
-					<tbody>
-
-						<tr>
-								<td></td>
-								<td></td>
-								<td></td>
-								<td></td>
-								<td></td>
-						</tr>
-
-						<tr>
-								<td>59</td>
-								<td>catches</td>
-								<td>caught</td>
-								<td>caught</td>
-								<td>bắt, nắm lấy</td>
-						</tr>
-
-						<tr>
-								<td>60</td>
-								<td>throws</td>
-								<td>threw</td>
-								<td>thrown</td>
-								<td>ném, quăng</td>
-						</tr>
-						
-					</tbody>
-				</table>
-
-			
+			<p>Động từ bất quy tắc (irregular verbs) là “cơn ác mộng” của rất nhiều người học tiếng Anh, vì chúng không theo quy tắc thêm -ed như động từ thường.</p>
 
 			<h3 className="margin-y-50 text-center">Cách sử dụng 3 cột V1 – V2 – V3 một cách dễ nhớ</h3>
 
@@ -79,17 +41,17 @@ export default function BangDongTuBatQuyTac(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>She goes to school every day.</li>
+					<li>She <strong>goes</strong> to school every day.</li>
 
-					<li>I go to school every day.</li>
+					<li>I <strong>go</strong> to school every day.</li>
 
-					<li>She plays the piano very well.</li>
+					<li>She <strong>plays</strong> the piano very well.</li>
 
-					<li>They watch TV in the evening.</li>
+					<li>They <strong>watch</strong> TV in the evening.</li>
 
-					<li>He works in a bank.</li>
+					<li>He <strong>works</strong> in a bank.</li>
 
-					<li>We like English.</li>
+					<li>We <strong>like</strong> English.</li>
 			
 				</ul>
 
@@ -103,17 +65,17 @@ export default function BangDongTuBatQuyTac(): React.JSX.Element {
 			
 				<ul className="list-square">
 
-					<li>Yesterday I went to the cinema.</li>
+					<li>Yesterday I <strong>went</strong> to the cinema.</li>
 
-					<li>I went to school yesterday.</li>
+					<li>I <strong>went</strong> to school yesterday.</li>
 
-					<li>She played the piano last night.</li>
+					<li>She <strong>played</strong> the piano last night.</li>
 
-					<li>They watched TV two hours ago.</li>
+					<li>They <strong>watched</strong> TV two hours ago.</li>
 
-					<li>He worked in a bank last year.</li>
+					<li>He <strong>worked</strong> in a bank last year.</li>
 
-					<li>We liked the movie.</li>
+					<li>We <strong>liked</strong> the movie.</li>
 			
 				</ul>
 
@@ -127,15 +89,15 @@ export default function BangDongTuBatQuyTac(): React.JSX.Element {
 			
 				<ul className="list-square">
 
-					<li>I have just gone home.</li>
+					<li>I <strong>have just gone</strong> home.</li>
 					
-					<li>I have finished my homework.</li>
+					<li>I <strong>have finished</strong> my homework.</li>
 
-					<li>She has visited Paris three times.</li>
+					<li>She <strong>has visited</strong> Paris three times.</li>
 
-					<li>They have just eaten lunch.</li>
+					<li>They <strong>have just eaten</strong> lunch.</li>
 
-					<li>He has already seen that movie.</li>
+					<li>He <strong>has already seen</strong> that movie.</li>
 			
 				</ul>
 
@@ -145,13 +107,13 @@ export default function BangDongTuBatQuyTac(): React.JSX.Element {
 			
 				<ul className="list-square">
 
-					<li>I had finished my homework before dinner.</li>
+					<li>I <strong>had finished</strong> my homework before dinner.</li>
 
-					<li>She had visited Paris before she moved to London.</li>
+					<li>She <strong>had visited</strong> Paris before she moved to London.</li>
 
-					<li>They had eaten lunch when I arrived.</li>
+					<li>They <strong>had eaten</strong> lunch when I arrived.</li>
 
-					<li>He had seen that movie before last week.</li>
+					<li>He <strong>had seen</strong> that movie before last week.</li>
 			
 				</ul>
 
@@ -161,13 +123,13 @@ export default function BangDongTuBatQuyTac(): React.JSX.Element {
 			
 				<ul className="list-square">
 
-					<li>I will have finished my homework by 9 p.m.</li>
+					<li>I <strong>will have finished</strong> my homework by 9 p.m.</li>
 
-					<li>She will have visited Paris by the end of this year.</li>
+					<li>She <strong>will have visited</strong> Paris by the end of this year.</li>
 
-					<li>They will have eaten lunch before the meeting starts.</li>
+					<li>They <strong>will have eaten</strong> lunch before the meeting starts.</li>
 
-					<li>He will have seen that movie by tomorrow.</li>
+					<li>He <strong>will have seen</strong> that movie by tomorrow.</li>
 			
 				</ul>
 
@@ -177,15 +139,15 @@ export default function BangDongTuBatQuyTac(): React.JSX.Element {
 			
 				<ul className="list-square">
 
-					<li>The letter was written by her.</li>
+					<li>The letter <strong>was written</strong> by her.</li>
 					
-					<li>The homework is finished by the student. (hiện tại đơn)</li>
+					<li>The homework <strong>is finished</strong> by the student. (hiện tại đơn)</li>
 
-					<li>The homework was finished yesterday. (quá khứ đơn)</li>
+					<li>The homework <strong>was finished</strong> yesterday. (quá khứ đơn)</li>
 
-					<li>The homework will be finished tomorrow. (tương lai đơn)</li>
+					<li>The homework <strong>will be finished</strong> tomorrow. (tương lai đơn)</li>
 
-					<li>The homework has been finished. (hiện tại hoàn thành)</li>
+					<li>The homework <strong>has been finished</strong>. (hiện tại hoàn thành)</li>
 			
 				</ul>
 
@@ -211,7 +173,7 @@ export default function BangDongTuBatQuyTac(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>Yesterday I took a photo, but today I have taken many photos already.</li>
+					<li>Yesterday I <strong>took</strong> a photo, but today I have <strong>taken</strong> many photos already.</li>
 			
 				</ul>
 			
@@ -219,17 +181,17 @@ export default function BangDongTuBatQuyTac(): React.JSX.Element {
 					
 				<ul className="list-square">
 			
-					<li>Mặt 1: goes</li>
+					<li>Mặt 1: <strong>goes</strong></li>
 			
-					<li>Mặt 2: went</li>
+					<li>Mặt 2: <strong>went</strong></li>
 			
-					<li>Mặt 3: gone + câu ví dụ</li>
+					<li>Mặt 3: <strong>gone</strong> + câu ví dụ</li>
 			
 				</ul>
 
 			<h4 className="margin-top-30 margin-bottom-20">4. Ưu tiên 30 động từ đầu tiên → chiếm ~85% tần suất xuất hiện trong giao tiếp & bài thi.</h4>
-					
-			<p>Hãy in bảng này ra, dán lên tường, học mỗi ngày 10 động từ trong 1 tuần. Sau 6 tuần bạn sẽ nắm chắc gần như toàn bộ động từ bất quy tắc hay gặp nhất!</p>
+			
+			<p>Hãy in <Link to="/tieng-anh/bang-dong-tu-bat-quy-tac-pho-bien-2">bảng này</Link> ra, dán lên tường, học mỗi ngày 10 động từ trong 1 tuần. Sau 6 tuần bạn sẽ nắm chắc gần như toàn bộ động từ bất quy tắc hay gặp nhất!</p>
 
 			<p>Chúc bạn học tốt và sớm “thoát kiếp” động từ bất quy tắc! 💪</p>
 
