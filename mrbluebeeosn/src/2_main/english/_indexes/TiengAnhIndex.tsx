@@ -220,6 +220,12 @@ export default function TiengAnhIndex(): React.JSX.Element {
               </div>
             </li>
 
+            <li>
+              <div className="li-content">
+                <Link to="/tieng-anh/bang-dong-tu-bat-quy-tac-pho-bien">Động từ bất quy tắc trong tiếng Anh</Link>
+              </div>
+            </li>
+
             {/* <li>
               <div className="li-content">
                 <Link to="/tieng-anh/meo-hay-de-viet-tieng-anh-muot-ma-hon">Mẹo Hay Để Viết Tiếng Anh Mượt Mà Hơn</Link>
