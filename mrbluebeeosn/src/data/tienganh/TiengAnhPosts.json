@@ -208,22 +208,22 @@
 			"date": "2025-12-30"
 		},
 		{
-			"id": "BangDongTuBatQuyTac",
+			"id": "Bang50DongTuBatQuyTac",
 			"categoryDisplay": "Tiếng Anh",
 			"categorySlug": "tieng-anh",
 			"title": "Bảng động từ bất quy tắc phổ biến nhất",
-			"content": "Động từ bất quy tắc (irregular verbs) là “cơn ác mộng” của rất nhiều người học tiếng Anh, vì chúng không theo quy tắc thêm -ed như động từ thường.",
-			"slug": "tieng-anh/bang-dong-tu-bat-quy-tac-pho-bien-1",
+			"content": "Động từ bất quy tắc (irregular verbs) là “cơn ác mộng” của rất nhiều người học tiếng Anh, vì chúng không theo quy tắc thêm -ed như động từ thường. Tuy nhiên, chỉ cần nắm vững khoảng 60–70 động từ phổ biến nhất, bạn đã có thể giao tiếp tự tin, viết email chuyên nghiệp, thi IELTS/TOEIC đạt điểm cao và thậm chí nói chuyện như người bản xứ ở mức trung cấp – cao cấp.",
+			"slug": "tieng-anh/bang-dong-tu-bat-quy-tac-pho-bien",
 			"date": "2026-01-05"
 		},
 		{
-			"id": "BangDongTuBatQuyTac2",
+			"id": "Bang30PhrasalVerbs",
 			"categoryDisplay": "Tiếng Anh",
 			"categorySlug": "tieng-anh",
-			"title": "Bảng động từ bất quy tắc phổ biến nhất",
-			"content": "Chỉ cần nắm vững khoảng 60–70 động từ phổ biến nhất, bạn đã có thể giao tiếp tự tin, viết email chuyên nghiệp, thi IELTS/TOEIC đạt điểm cao và thậm chí nói chuyện như người bản xứ ở mức trung cấp – cao cấp.",
-			"slug": "tieng-anh/bang-dong-tu-bat-quy-tac-pho-bien-2",
-			"date": "2026-01-05"
+			"title": "Bảng 50 phrasal verbs phổ biến nhất",
+			"content": "Phrasal verbs là “vũ khí bí mật” giúp bạn nâng tầm tiếng Anh giao tiếp, đặc biệt trong IELTS Speaking, TOEIC Speaking hay cuộc sống hàng ngày. Đây là những cụm từ gồm động từ + giới từ/trạng từ (như up, down, out, on, off…), tạo nên nghĩa hoàn toàn mới, không đoán được từ nghĩa riêng lẻ.",
+			"slug": "tieng-anh/bang-30-phrasal-verbs-pho-bien",
+			"date": "2026-01-06"
 		}
 	]
 }

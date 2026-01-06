@@ -5,9 +5,9 @@ import EyeIcon from '@/components/view/EyeIcon';
 import ViewCounter from '@/components/view/ViewCounter';
 import LikeButton from '@/components/like/LikeButton';
 
-export default function BangDongTuBatQuyTac2(): React.JSX.Element {
+export default function Bang50DongTuBatQuyTac(): React.JSX.Element {
 
-	const postId = "BangDongTuBatQuyTac2";
+	const postId = "Bang50DongTuBatQuyTac";
 
 	return (<>
 
@@ -17,20 +17,12 @@ export default function BangDongTuBatQuyTac2(): React.JSX.Element {
 		
 			<h4><HashLink smooth to="/tieng-anh#tieng-anh-terms"><mark className="highlight-tertiary-padding-4-8">Tiếng Anh</mark></HashLink></h4>
 
-			<h1 className="margin-y-50 text-center">Động từ bất quy tắc
-																		
-				<sup><HashLink smooth to="/tieng-anh/bang-dong-tu-bat-quy-tac-pho-bien-1">&nbsp;1&nbsp;</HashLink>
-				</sup>
+			<h1 className="margin-y-50 text-center">Động từ bất quy tắc</h1>
 
-				<sup><HashLink smooth to="/tieng-anh/bang-dong-tu-bat-quy-tac-pho-bien-2">&nbsp;2&nbsp;</HashLink>
-				</sup>
+			<h4 className="margin-bottom-30 text-center">Bảng đầy đủ & cách sử dụng chi tiết nhất (2025) </h4>
 
-			</h1>
+			<p>Động từ bất quy tắc (irregular verbs) là “cơn ác mộng” của rất nhiều người học tiếng Anh, vì chúng không theo quy tắc thêm -ed như động từ thường. Tuy nhiên, chỉ cần nắm vững khoảng <strong>60–70 động từ phổ biến nhất</strong>, bạn đã có thể giao tiếp tự tin, viết email chuyên nghiệp, thi IELTS/TOEIC đạt điểm cao và thậm chí nói chuyện như người bản xứ ở mức trung cấp – cao cấp.</p>
 
-			<h4 className="margin-bottom-30 text-center"> Bảng đầy đủ & cách sử dụng chi tiết nhất (2025) </h4>
-
-			<p>Chỉ cần nắm vững khoảng <strong>60–70 động từ phổ biến nhất</strong>, bạn đã có thể giao tiếp tự tin, viết email chuyên nghiệp, thi IELTS/TOEIC đạt điểm cao và thậm chí nói chuyện như người bản xứ ở mức trung cấp – cao cấp.</p>
-			
 			<p>Dưới đây là bảng <strong>động từ bất quy tắc phổ biến nhất</strong> (được cập nhật theo mức độ sử dụng thực tế năm 2025), kèm giải thích cách dùng rõ ràng, dễ nhớ.</p>
 
 			<h3 className="margin-y-50 text-center">Bảng động từ bất quy tắc phổ biến nhất</h3>
@@ -531,12 +523,122 @@ export default function BangDongTuBatQuyTac2(): React.JSX.Element {
 					</tbody>
 				</table>
 
+			<h3 className="margin-y-50 text-center">Cách sử dụng 3 cột V1 – V2 – V3 một cách dễ nhớ</h3>
+
+			{/* V1: Nguyên thể / Hiện tại */}
+
+			<h4>V1: 🕒 Hiện tại đơn (Present Simple) (thêm s/es cho he/she/it)</h4>
+
+			<p className="margin-top-20">Dùng để diễn tả thói quen, sự thật hiển nhiên, hoặc hành động lặp lại.</p>
 			
+				<ul className="list-square">
+			
+					<li>She <strong>goes</strong> to school every day.</li>
+			
+				</ul>
+
+			{/* V2: Quá khứ đơn */}
+
+			<h4 className="margin-top-20">V2: ⏳ Quá khứ đơn (Past Simple)</h4>
+
+			<p className="margin-top-20 text-indent-whole">Dùng để diễn tả hành động đã xảy ra và kết thúc trong quá khứ, thường đi kèm các từ chỉ thời gian như yesterday, last week, ago.</p>
+			
+				<ul className="list-square">
+
+					<li>Yesterday I <strong>went</strong> to the cinema.</li>
+			
+				</ul>
+
+			{/* V3: Quá khứ phân từ (Past Participle) */}
+
+			<h4 className="margin-top-20">V3: Quá khứ phân từ (Past Participle)</h4>
+
+			<p className="margin-top-20">1️⃣ Hiện tại hoàn thành (have/has + V3)</p>
+
+			<p className="margin-top-20 text-indent-whole">Dùng để diễn tả hành động đã xảy ra nhưng còn liên quan đến hiện tại, hoặc kinh nghiệm.</p>
+			
+				<ul className="list-square">
+
+					<li>I <strong>have just gone</strong> home.</li>
+			
+				</ul>
+
+			<p className="margin-top-20">2️⃣ Quá khứ hoàn thành (had + V3)</p>
+
+			<p className="margin-top-20 text-indent-whole">Dùng để diễn tả hành động xảy ra trước một hành động khác trong quá khứ.</p>
+			
+				<ul className="list-square">
+
+					<li>I <strong>had finished</strong> my homework before dinner.</li>
+			
+				</ul>
+
+			<p className="margin-top-20">3️⃣ Tương lai hoàn thành (will have + V3)</p>
+
+			<p className="margin-top-20 text-indent-whole">Dùng để diễn tả hành động sẽ hoàn thành trước một thời điểm trong tương lai.</p>
+			
+				<ul className="list-square">
+
+					<li>I <strong>will have finished</strong> my homework by 9 p.m.</li>
+			
+				</ul>
+					
+			<p className="margin-top-20">4️⃣ Thể bị động (be + V3)</p>
+
+			<p className="margin-top-20 text-indent-whole">Dùng để nhấn mạnh hành động hoặc đối tượng chịu tác động, không nhấn mạnh người thực hiện.</p>
+			
+				<ul className="list-square">
+
+					<li>The letter <strong>was written</strong> by her.</li>
+			
+				</ul>
+
+			<h3 className="margin-y-50 text-center">Mẹo học nhanh & nhớ lâu (được hàng ngàn học viên áp dụng thành công)</h3>
+
+			<h4 className="margin-top-30 margin-bottom-20">1. Học theo nhóm có quy luật phát âm (rất hiệu quả):</h4>
+					
+				<ul className="list-square">
+			
+					<li>Nhóm nguyên vẹn: cuts-cut-cut / hits-hit-hit / puts-put-put</li>
+			
+					<li>Nhóm đổi nguyên âm: sings-sang-sung / drinks-drank-drunk / swims-swam-swum</li>
+			
+					<li>Nhóm V2 & V3 giống nhau: buys-bought-bought / brings-brought-brought</li>
+
+					<li>Nhóm “đi & đến” đặc biệt: goes-went-gone / comes-came-come</li>
+			
+				</ul>
+
+			<h4 className="margin-top-30 margin-bottom-20">2. Học theo câu chuyện ngắn:</h4>
+			
+				<ul className="list-square">
+			
+					<li>Yesterday I <strong>took</strong> a photo, but today I have <strong>taken</strong> many photos already.</li>
+			
+				</ul>
+			
+			<h4 className="margin-top-30 margin-bottom-20">3. Flashcard 3 mặt (rất mạnh):</h4>
+					
+				<ul className="list-square">
+			
+					<li>Mặt 1: <strong>goes</strong></li>
+			
+					<li>Mặt 2: <strong>went</strong></li>
+			
+					<li>Mặt 3: <strong>gone</strong> + câu ví dụ</li>
+			
+				</ul>
+
+			<h4 className="margin-top-30 margin-bottom-20">4. Ưu tiên 30 động từ đầu tiên → chiếm ~85% tần suất xuất hiện trong giao tiếp & bài thi.</h4>
+			
+			<p>Hãy in bảng này ra, dán lên tường, học mỗi ngày 10 động từ trong 1 tuần. Sau 6 tuần bạn sẽ nắm chắc gần như toàn bộ động từ bất quy tắc hay gặp nhất!</p>
+
+			<p>Chúc bạn học tốt và sớm “thoát kiếp” động từ bất quy tắc! 💪</p>
 
 			<div className="viewcounter">
 			
 				<div className="post-date no-margin">
-					<span>January 05, 2026 · by Grok and 🐝Mr. Bee Osn  ·</span>
+					<span>January 05, 2026 · by Grok ·</span>
 				</div>
 
 				<div className="eye-icon no-margin">
