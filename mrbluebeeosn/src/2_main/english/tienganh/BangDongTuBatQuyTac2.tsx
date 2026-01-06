@@ -242,198 +242,206 @@ export default function BangDongTuBatQuyTac2(): React.JSX.Element {
 
 						<tr>
 								<td>25</td>
-								<td></td>
-								<td></td>
-								<td></td>
-								<td></td>
+								<td>lets</td>
+								<td>let</td>
+								<td>let</td>
+								<td>cho phép</td>
 						</tr>
 
 						<tr>
 								<td>26</td>
-								<td></td>
-								<td></td>
-								<td></td>
-								<td></td>
+								<td>sets</td>
+								<td>set</td>
+								<td>set</td>
+								<td>đặt, thiết lập</td>
 						</tr>
 
 						<tr>
 								<td>27</td>
-								<td></td>
-								<td></td>
-								<td></td>
-								<td></td>
+								<td>reads</td>
+								<td>read [red]</td>
+								<td>read [red]</td>
+								<td>đọc</td>
 						</tr>
 
 						<tr>
 								<td>28</td>
-								<td></td>
-								<td></td>
-								<td></td>
-								<td></td>
+								<td>buys</td>
+								<td>bought</td>
+								<td>bought</td>
+								<td>mua</td>
 						</tr>
 
 						<tr>
 								<td>29</td>
-								<td></td>
-								<td></td>
-								<td></td>
-								<td></td>
+								<td>sits</td>
+								<td>sat</td>
+								<td>sat</td>
+								<td>ngồi</td>
 						</tr>
 
 						<tr>
 								<td>30</td>
-								<td></td>
-								<td></td>
-								<td></td>
-								<td></td>
+								<td>stands</td>
+								<td>stood</td>
+								<td>stood</td>
+								<td>đứng</td>
 						</tr>
 
 						<tr>
 								<td>31</td>
-								<td></td>
-								<td></td>
-								<td></td>
-								<td></td>
+								<td>loses</td>
+								<td>lost</td>
+								<td>lost</td>
+								<td>mất, thua</td>
 						</tr>
 						
 						<tr>
 								<td>32</td>
-								<td></td>
-								<td></td>
-								<td></td>
-								<td></td>
+								<td>pays</td>
+								<td>paid</td>
+								<td>paid</td>
+								<td>trả tiền</td>
 						</tr>
 						
 						<tr>
 								<td>33</td>
-								<td></td>
-								<td></td>
-								<td></td>
-								<td></td>
+								<td>meets</td>
+								<td>met</td>
+								<td>met</td>
+								<td>gặp</td>
 						</tr>
 
 						<tr>
 								<td>34</td>
-								<td></td>
-								<td></td>
-								<td></td>
-								<td></td>
+								<td>runs</td>
+								<td>ran</td>
+								<td>run</td>
+								<td>chạy</td>
 						</tr>
 
 						<tr>
 								<td>35</td>
-								<td></td>
-								<td></td>
-								<td></td>
-								<td></td>
+								<td>eats</td>
+								<td>ate</td>
+								<td>eaten</td>
+								<td>ăn</td>
 						</tr>
 
 						<tr>
 								<td>36</td>
-								<td></td>
-								<td></td>
-								<td></td>
-								<td></td>
+								<td>drinks</td>
+								<td>drank</td>
+								<td>drunk</td>
+								<td>uống</td>
 						</tr>
 
 						<tr>
 								<td>37</td>
-								<td></td>
-								<td></td>
-								<td></td>
-								<td></td>
+								<td>drives</td>
+								<td>drove</td>
+								<td>driven</td>
+								<td>lái xe</td>
 						</tr>
 
 						<tr>
 								<td>38</td>
-								<td></td>
-								<td></td>
-								<td></td>
-								<td></td>
+								<td>breaks</td>
+								<td>broke</td>
+								<td>broken</td>
+								<td>làm vỡ, hỏng</td>
 						</tr>
 
 						<tr>
 								<td>39</td>
-								<td></td>
-								<td></td>
-								<td></td>
-								<td></td>
+								<td>chooses</td>
+								<td>chose</td>
+								<td>chosen</td>
+								<td>chọn</td>
 						</tr>
 
 						<tr>
 								<td>40</td>
-								<td></td>
-								<td></td>
-								<td></td>
-								<td></td>
+								<td>forgets</td>
+								<td>forgot</td>
+								<td>forgotten</td>
+								<td>quên</td>
 						</tr>
 
 						<tr>
 								<td>41</td>
-								<td></td>
-								<td></td>
-								<td></td>
-								<td></td>
+								<td>hears</td>
+								<td>heard</td>
+								<td>heard</td>
+								<td>nghe</td>
 						</tr>
 						
 						<tr>
 								<td>42</td>
-								<td></td>
-								<td></td>
-								<td></td>
-								<td></td>
+								<td>holds</td>
+								<td>held</td>
+								<td>held</td>
+								<td>cầm, nắm, tổ chức</td>
 						</tr>
 						
 						<tr>
 								<td>43</td>
-								<td></td>
-								<td></td>
-								<td></td>
-								<td></td>
+								<td>learns</td>
+								<td>learnt / learned</td>
+								<td>learnt / learned</td>
+								<td>học, biết được</td>
 						</tr>
 
 						<tr>
 								<td>44</td>
-								<td></td>
-								<td></td>
-								<td></td>
-								<td></td>
+								<td>sends</td>
+								<td>sent</td>
+								<td>sent</td>
+								<td>gửi</td>
 						</tr>
 
 						<tr>
 								<td>45</td>
-								<td></td>
-								<td></td>
-								<td></td>
-								<td></td>
+								<td>shows</td>
+								<td>showed</td>
+								<td>shown / showed</td>
+								<td>chỉ, cho xem</td>
 						</tr>
 
 						<tr>
 								<td>46</td>
-								<td></td>
-								<td></td>
-								<td></td>
-								<td></td>
+								<td>sleeps</td>
+								<td>slept</td>
+								<td>slept</td>
+								<td>ngủ</td>
 						</tr>
 
 						<tr>
 								<td>47</td>
-								<td></td>
-								<td></td>
-								<td></td>
-								<td></td>
+								<td>swims</td>
+								<td>swam</td>
+								<td>swum</td>
+								<td>bơi</td>
 						</tr>
 
 						<tr>
 								<td>48</td>
-								<td></td>
-								<td></td>
-								<td></td>
-								<td></td>
+								<td>teaches</td>
+								<td>taught</td>
+								<td>taught</td>
+								<td>dạy</td>
 						</tr>
 
 						<tr>
-								<td>59</td>
+								<td>49</td>
+								<td>understands</td>
+								<td>understood</td>
+								<td>understood</td>
+								<td>hiểu</td>
+						</tr>
+
+						<tr>
+								<td>50</td>
 								<td>wins</td>
 								<td>won</td>
 								<td>won</td>
