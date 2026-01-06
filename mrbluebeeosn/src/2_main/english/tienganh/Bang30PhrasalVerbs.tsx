@@ -55,10 +55,10 @@ export default function Bang30PhrasalVerbs(): React.JSX.Element {
 					<thead>
 						<tr>
 							<th>STT</th>
-							<th>Hiện tại đơn (thêm -s/es)</th>
-							<th>Quá khứ đơn (V2)</th>
-							<th>Quá khứ phân từ (V3)</th>
+							<th>Phrasal Verb</th>
 							<th>Nghĩa phổ biến</th>
+							<th>Loại (cách dùng)</th>
+							<th>Ví dụ câu thực tế (2026 style)</th>
 						</tr>
 					</thead>
 
@@ -66,226 +66,226 @@ export default function Bang30PhrasalVerbs(): React.JSX.Element {
 
 						<tr>
 								<td>1</td>
-								<td>is</td>
-								<td>was / were</td>
-								<td>been</td>
-								<td>là, thì, ở</td>
+								<td>wake up</td>
+								<td>thức dậy</td>
+								<td>Inseparable</td>
+								<td>I usually wake up at 7 a.m. even on weekends.</td>
 						</tr>
 						
 						<tr>
 								<td>2</td>
-								<td>has</td>
-								<td>had</td>
-								<td>had</td>
-								<td>có</td>
+								<td>get up</td>
+								<td>dậy khỏi giường</td>
+								<td>Inseparable</td>
+								<td>It’s hard to get up when it’s raining outside.</td>
 						</tr>
 						
 						<tr>
 								<td>3</td>
-								<td>does</td>
-								<td>did</td>
-								<td>done</td>
-								<td>làm</td>
+								<td></td>
+								<td></td>
+								<td></td>
+								<td></td>
 						</tr>
 
 						<tr>
 								<td>4</td>
-								<td>goes</td>
-								<td>went</td>
-								<td>gone</td>
-								<td>đi</td>
+								<td></td>
+								<td></td>
+								<td></td>
+								<td></td>
 						</tr>
 
 						<tr>
 								<td>5</td>
-								<td>comes</td>
-								<td>came</td>
-								<td>come</td>
-								<td>đến, tới</td>
+								<td></td>
+								<td></td>
+								<td></td>
+								<td></td>
 						</tr>
 
 						<tr>
 								<td>6</td>
-								<td>sees</td>
-								<td>saw</td>
-								<td>seen</td>
-								<td>nhìn, thấy</td>
+								<td></td>
+								<td></td>
+								<td></td>
+								<td></td>
 						</tr>
 
 						<tr>
 								<td>7</td>
-								<td>gets</td>
-								<td>got</td>
-								<td>got / gotten (AmE)</td>
-								<td>lấy, nhận, trở nên</td>
+								<td></td>
+								<td></td>
+								<td></td>
+								<td></td>
 						</tr>
 
 						<tr>
 								<td>8</td>
-								<td>makes</td>
-								<td>made</td>
-								<td>made</td>
-								<td>làm, chế tạo</td>
+								<td></td>
+								<td></td>
+								<td></td>
+								<td></td>
 						</tr>
 
 						<tr>
 								<td>9</td>
-								<td>knows</td>
-								<td>knew</td>
-								<td>known</td>
-								<td>biết</td>
+								<td></td>
+								<td></td>
+								<td></td>
+								<td></td>
 						</tr>
 
 						<tr>
 								<td>10</td>
-								<td>takes</td>
-								<td>took</td>
-								<td>taken</td>
-								<td>cầm, lấy, đi</td>
+								<td></td>
+								<td></td>
+								<td></td>
+								<td></td>
 						</tr>
 
 						<tr>
 								<td>11</td>
-								<td>gives</td>
-								<td>gave</td>
-								<td>given</td>
-								<td>cho, tặng</td>
+								<td></td>
+								<td></td>
+								<td></td>
+								<td></td>
 						</tr>
 						
 						<tr>
 								<td>12</td>
-								<td>writes</td>
-								<td>wrote</td>
-								<td>written</td>
-								<td>viết</td>
+								<td></td>
+								<td></td>
+								<td></td>
+								<td></td>
 						</tr>
 						
 						<tr>
 								<td>13</td>
-								<td>speaks</td>
-								<td>spoke</td>
-								<td>spoken</td>
-								<td>nói, nói chuyện</td>
+								<td></td>
+								<td></td>
+								<td></td>
+								<td></td>
 						</tr>
 
 						<tr>
 								<td>14</td>
-								<td>finds</td>
-								<td>found</td>
-								<td>found</td>
-								<td>tìm thấy</td>
+								<td></td>
+								<td></td>
+								<td></td>
+								<td></td>
 						</tr>
 
 						<tr>
 								<td>15</td>
-								<td>thinks</td>
-								<td>thought</td>
-								<td>thought</td>
-								<td>nghĩ</td>
+								<td></td>
+								<td></td>
+								<td></td>
+								<td></td>
 						</tr>
 
 						<tr>
 								<td>16</td>
-								<td>tells</td>
-								<td>told</td>
-								<td>told</td>
-								<td>kể, bảo</td>
+								<td></td>
+								<td></td>
+								<td></td>
+								<td></td>
 						</tr>
 
 						<tr>
 								<td>17</td>
-								<td>says</td>
-								<td>said</td>
-								<td>said</td>
-								<td>nói, bảo</td>
+								<td></td>
+								<td></td>
+								<td></td>
+								<td></td>
 						</tr>
 
 						<tr>
 								<td>18</td>
-								<td>becomes</td>
-								<td>became</td>
-								<td>become</td>
-								<td>trở thành</td>
+								<td></td>
+								<td></td>
+								<td></td>
+								<td></td>
 						</tr>
 
 						<tr>
 								<td>19</td>
-								<td>leaves</td>
-								<td>left</td>
-								<td>left</td>
-								<td>rời đi, để lại</td>
+								<td></td>
+								<td></td>
+								<td></td>
+								<td></td>
 						</tr>
 
 						<tr>
 								<td>20</td>
-								<td>feels</td>
-								<td>felt</td>
-								<td>felt</td>
-								<td>cảm thấy</td>
+								<td></td>
+								<td></td>
+								<td></td>
+								<td></td>
 						</tr>
 
 						<tr>
 								<td>21</td>
-								<td>puts</td>
-								<td>put</td>
-								<td>put</td>
-								<td>đặt, để</td>
+								<td></td>
+								<td></td>
+								<td></td>
+								<td></td>
 						</tr>
 						
 						<tr>
 								<td>22</td>
-								<td>brings</td>
-								<td>brought</td>
-								<td>brought</td>
-								<td>mang đến, đem</td>
+								<td></td>
+								<td></td>
+								<td></td>
+								<td></td>
 						</tr>
 						
 						<tr>
 								<td>23</td>
-								<td>begins</td>
-								<td>began</td>
-								<td>begun</td>
-								<td>bắt đầu</td>
+								<td></td>
+								<td></td>
+								<td></td>
+								<td></td>
 						</tr>
 
 						<tr>
 								<td>24</td>
-								<td>keeps</td>
-								<td>kept</td>
-								<td>kept</td>
-								<td>giữ</td>
+								<td></td>
+								<td></td>
+								<td></td>
+								<td></td>
 						</tr>
 
 						<tr>
 								<td>25</td>
-								<td>lets</td>
-								<td>let</td>
-								<td>let</td>
-								<td>cho phép</td>
+								<td></td>
+								<td></td>
+								<td></td>
+								<td></td>
 						</tr>
 
 						<tr>
 								<td>26</td>
-								<td>sets</td>
-								<td>set</td>
-								<td>set</td>
-								<td>đặt, thiết lập</td>
+								<td></td>
+								<td></td>
+								<td></td>
+								<td></td>
 						</tr>
 
 						<tr>
 								<td>27</td>
-								<td>reads</td>
-								<td>read [red]</td>
-								<td>read [red]</td>
-								<td>đọc</td>
+								<td></td>
+								<td></td>
+								<td></td>
+								<td></td>
 						</tr>
 
 						<tr>
 								<td>28</td>
-								<td>buys</td>
-								<td>bought</td>
-								<td>bought</td>
-								<td>mua</td>
+								<td></td>
+								<td></td>
+								<td></td>
+								<td></td>
 						</tr>
 
 						<tr>
