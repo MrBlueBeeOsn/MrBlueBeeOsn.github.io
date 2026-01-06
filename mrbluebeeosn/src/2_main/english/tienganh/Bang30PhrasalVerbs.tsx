@@ -304,13 +304,13 @@ export default function Bang30PhrasalVerbs(): React.JSX.Element {
 								<td>Everything will work out in the end.</td>
 						</tr>
 
-						<tr>
+						{/* <tr>
 								<td>31–50</td>
 								<td>(các cụm phổ biến khác)</td>
 								<td>fall apart, figure out, fill in, get away, grow up, hand in, keep up, look out, pass out, pay back, put on, run into, show up, sort out, stand up, take on, think over, throw away, try on, watch out</td>
-								<td>Separable/Inseparable tùy</td>
+								<td>Separable / Inseparable tùy</td>
 								<td>Ví dụ: Watch out! There’s a car coming!</td>
-						</tr>
+						</tr> */}
 						
 					</tbody>
 				</table>
