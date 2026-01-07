@@ -69,7 +69,7 @@ export default function Bang30PhrasalVerbs(): React.JSX.Element {
 								<td>wake up</td>
 								<td>thức dậy</td>
 								<td>Inseparable</td>
-								<td>I usually wake up at 7 a.m. even on weekends.</td>
+								<td>I usually <strong>wake up</strong> at 7 a.m. even on weekends.</td>
 						</tr>
 						
 						<tr>
@@ -77,215 +77,215 @@ export default function Bang30PhrasalVerbs(): React.JSX.Element {
 								<td>get up</td>
 								<td>dậy khỏi giường</td>
 								<td>Inseparable</td>
-								<td>It’s hard to get up when it’s raining outside.</td>
+								<td>It’s hard to <strong>get up</strong> when it’s raining outside.</td>
 						</tr>
 						
 						<tr>
 								<td>3</td>
-								<td></td>
-								<td></td>
-								<td></td>
-								<td></td>
+								<td>turn on / turn off</td>
+								<td>bật / tắt (đèn, máy…)</td>
+								<td>Separable</td>
+								<td>Can you <strong>turn</strong> the lights <strong>on</strong>? It’s too dark.</td>
 						</tr>
 
 						<tr>
 								<td>4</td>
-								<td></td>
-								<td></td>
-								<td></td>
-								<td></td>
+								<td>look after</td>
+								<td>chăm sóc</td>
+								<td>Inseparable</td>
+								<td>I’m <strong>looking after</strong> my niece this weekend.</td>
 						</tr>
 
 						<tr>
 								<td>5</td>
-								<td></td>
-								<td></td>
-								<td></td>
-								<td></td>
+								<td>pick up</td>
+								<td>đón (ai), nhặt lên, học được</td>
+								<td>Separable</td>
+								<td>I’ll <strong>pick</strong> you <strong>up</strong> at 8. / She <strong>picked up</strong> Spanish quickly.</td>
 						</tr>
 
 						<tr>
 								<td>6</td>
-								<td></td>
-								<td></td>
-								<td></td>
-								<td></td>
+								<td>give up</td>
+								<td>bỏ cuộc, từ bỏ</td>
+								<td>Separable</td>
+								<td>Don’t <strong>give up</strong> on your dreams!</td>
 						</tr>
 
 						<tr>
 								<td>7</td>
-								<td></td>
-								<td></td>
-								<td></td>
-								<td></td>
+								<td>run out (of)</td>
+								<td>hết (thứ gì)</td>
+								<td>Inseparable</td>
+								<td>We’ve <strong>run out of</strong> milk again…</td>
 						</tr>
 
 						<tr>
 								<td>8</td>
-								<td></td>
-								<td></td>
-								<td></td>
-								<td></td>
+								<td>find out</td>
+								<td>tìm ra, phát hiện</td>
+								<td>Separable</td>
+								<td>I just <strong>found out</strong> that the concert is free!</td>
 						</tr>
 
 						<tr>
 								<td>9</td>
-								<td></td>
-								<td></td>
-								<td></td>
-								<td></td>
+								<td>get along (with)</td>
+								<td>hòa hợp, thân thiết</td>
+								<td>Inseparable</td>
+								<td>I <strong>get along</strong> really well <strong>with</strong> my new boss.</td>
 						</tr>
 
 						<tr>
 								<td>10</td>
-								<td></td>
-								<td></td>
-								<td></td>
-								<td></td>
+								<td>hang out</td>
+								<td>đi chơi, tụ tập</td>
+								<td>Inseparable</td>
+								<td>We usually <strong>hang out</strong> at the café after class.</td>
 						</tr>
 
 						<tr>
 								<td>11</td>
-								<td></td>
-								<td></td>
-								<td></td>
-								<td></td>
+								<td>break down</td>
+								<td>hỏng (xe/máy), suy sụp</td>
+								<td>Inseparable</td>
+								<td>My car <strong>broke down</strong> on the highway yesterday.</td>
 						</tr>
 						
 						<tr>
 								<td>12</td>
-								<td></td>
-								<td></td>
-								<td></td>
-								<td></td>
+								<td>look forward to</td>
+								<td>mong chờ</td>
+								<td>Inseparable</td>
+								<td>I’m <strong>looking forward to</strong> the Tet holiday!</td>
 						</tr>
 						
 						<tr>
 								<td>13</td>
-								<td></td>
-								<td></td>
-								<td></td>
-								<td></td>
+								<td>put off</td>
+								<td>hoãn lại</td>
+								<td>Separable</td>
+								<td>They <strong>put off</strong> the meeting until next week.</td>
 						</tr>
 
 						<tr>
 								<td>14</td>
-								<td></td>
-								<td></td>
-								<td></td>
-								<td></td>
+								<td>take after</td>
+								<td>giống (ai đó về ngoại hình/tính cách)</td>
+								<td>Inseparable</td>
+								<td>She really <strong>takes after</strong> her mother.</td>
 						</tr>
 
 						<tr>
 								<td>15</td>
-								<td></td>
-								<td></td>
-								<td></td>
-								<td></td>
+								<td>come across</td>
+								<td>tình cờ gặp/thấy</td>
+								<td>Inseparable</td>
+								<td>I <strong>came across</strong> an old photo of us last night.</td>
 						</tr>
 
 						<tr>
 								<td>16</td>
-								<td></td>
-								<td></td>
-								<td></td>
-								<td></td>
+								<td>call off</td>
+								<td>hủy bỏ</td>
+								<td>Separable</td>
+								<td>They <strong>called</strong> the wedding <strong>off</strong> at the last minute.</td>
 						</tr>
 
 						<tr>
 								<td>17</td>
-								<td></td>
-								<td></td>
-								<td></td>
-								<td></td>
+								<td>cheer up</td>
+								<td>vui lên, làm ai vui</td>
+								<td>Separable</td>
+								<td><strong>Cheer up</strong>! Things will get better.</td>
 						</tr>
 
 						<tr>
 								<td>18</td>
-								<td></td>
-								<td></td>
-								<td></td>
-								<td></td>
+								<td>drop off</td>
+								<td>thả xuống (đưa ai đến nơi)</td>
+								<td>Separable</td>
+								<td>Can you <strong>drop me off</strong> at the station?</td>
 						</tr>
 
 						<tr>
 								<td>19</td>
-								<td></td>
-								<td></td>
-								<td></td>
-								<td></td>
+								<td>get over</td>
+								<td>vượt qua (bệnh, buồn phiền)</td>
+								<td>Inseparable</td>
+								<td>It took me months to <strong>get over</strong> the breakup.</td>
 						</tr>
 
 						<tr>
 								<td>20</td>
-								<td></td>
-								<td></td>
-								<td></td>
-								<td></td>
+								<td>look into</td>
+								<td>xem xét, điều tra</td>
+								<td>Inseparable</td>
+								<td>The manager will <strong>look into</strong> the complaint.</td>
 						</tr>
 
 						<tr>
 								<td>21</td>
-								<td></td>
-								<td></td>
-								<td></td>
-								<td></td>
+								<td>make up</td>
+								<td>làm lành, bịa ra</td>
+								<td>Separable</td>
+								<td>We argued but we <strong>made up</strong> quickly.</td>
 						</tr>
 						
 						<tr>
 								<td>22</td>
-								<td></td>
-								<td></td>
-								<td></td>
-								<td></td>
+								<td>turn up</td>
+								<td>xuất hiện, đến (thường muộn)</td>
+								<td>Inseparable</td>
+								<td>He always <strong>turns up</strong> late!</td>
 						</tr>
 						
 						<tr>
 								<td>23</td>
-								<td></td>
-								<td></td>
-								<td></td>
-								<td></td>
+								<td>catch up (with)</td>
+								<td>đuổi kịp, gặp lại kể chuyện</td>
+								<td>Inseparable</td>
+								<td>Let’s <strong>catch up</strong> over coffee next week!</td>
 						</tr>
 
 						<tr>
 								<td>24</td>
-								<td></td>
-								<td></td>
-								<td></td>
-								<td></td>
+								<td>cut down (on)</td>
+								<td>giảm bớt</td>
+								<td>Inseparable</td>
+								<td>I’m trying to <strong>cut down on</strong> sugar.</td>
 						</tr>
 
 						<tr>
 								<td>25</td>
-								<td></td>
-								<td></td>
-								<td></td>
-								<td></td>
+								<td>go on</td>
+								<td>tiếp tục</td>
+								<td>Inseparable</td>
+								<td><strong>Go on</strong>, tell me the story!</td>
 						</tr>
 
 						<tr>
 								<td>26</td>
-								<td></td>
-								<td></td>
-								<td></td>
-								<td></td>
+								<td>hold on</td>
+								<td>chờ chút, giữ máy</td>
+								<td>Inseparable</td>
+								<td><strong>Hold on</strong> a second, I’m coming!</td>
 						</tr>
 
 						<tr>
 								<td>27</td>
-								<td></td>
-								<td></td>
-								<td></td>
-								<td></td>
+								<td>let down</td>
+								<td>làm thất vọng</td>
+								<td>Separable</td>
+								<td>Don’t <strong>let</strong> me <strong>down</strong> this time.</td>
 						</tr>
 
 						<tr>
 								<td>28</td>
-								<td></td>
-								<td></td>
-								<td></td>
-								<td></td>
+								<td>set up</td>
+								<td>thiết lập, thành lập</td>
+								<td>Separable</td>
+								<td>We <strong>set up</strong> a new group chat for the class.</td>
 						</tr>
 
 						<tr>
@@ -293,7 +293,7 @@ export default function Bang30PhrasalVerbs(): React.JSX.Element {
 								<td>take off</td>
 								<td>cởi ra, cất cánh (máy bay)</td>
 								<td>Separable</td>
-								<td>The plane took off 10 minutes late.</td>
+								<td>The plane <strong>took off</strong> 10 minutes late.</td>
 						</tr>
 
 						<tr>
@@ -301,7 +301,7 @@ export default function Bang30PhrasalVerbs(): React.JSX.Element {
 								<td>work out</td>
 								<td>giải quyết, tập gym</td>
 								<td>Inseparable</td>
-								<td>Everything will work out in the end.</td>
+								<td>Everything will <strong>work out</strong> in the end.</td>
 						</tr>
 
 						{/* <tr>
