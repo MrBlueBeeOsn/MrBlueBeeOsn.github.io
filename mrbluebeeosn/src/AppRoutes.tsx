@@ -114,6 +114,14 @@ const Posts = lazy(() => import('@/data/Posts'));
 	const TheBeautyOfTheGirl4 = lazy(() => import('@/2_main/english/tienganh/TheBeautyOfTheGirl4'));
 	const TheBeautyOfTheGirl5 = lazy(() => import('@/2_main/english/tienganh/TheBeautyOfTheGirl5'));
 
+	const ThinkStraightFlowFast1 = lazy(() => import('@/2_main/english/tienganh/ThinkStraightFlowFast1'));
+	const ThinkStraightFlowFast2 = lazy(() => import('@/2_main/english/tienganh/ThinkStraightFlowFast2'));
+	const ThinkStraightFlowFast3 = lazy(() => import('@/2_main/english/tienganh/ThinkStraightFlowFast3'));
+	const ThinkStraightFlowFast4 = lazy(() => import('@/2_main/english/tienganh/ThinkStraightFlowFast4'));
+	const ThinkStraightFlowFast5 = lazy(() => import('@/2_main/english/tienganh/ThinkStraightFlowFast5'));
+	const ThinkStraightFlowFast6 = lazy(() => import('@/2_main/english/tienganh/ThinkStraightFlowFast6'));
+	const ThinkStraightFlowFast7 = lazy(() => import('@/2_main/english/tienganh/ThinkStraightFlowFast7'));
+
 	const NamDangDongTuVangRong2 = lazy(() => import('@/2_main/english/tienganh/folder/NamDangDongTuVangRong2'));
 	const NamDangDongTuVangRong1 = lazy(() => import('@/2_main/english/tienganh/folder/NamDangDongTuVangRong1'));
 
@@ -496,6 +504,14 @@ export default function AppRoutes(): React.JSX.Element {
 					<Route path="/tieng-anh/the-beauty-of-the-girl-3" element={<TheBeautyOfTheGirl3 />} />
 					<Route path="/tieng-anh/the-beauty-of-the-girl-4" element={<TheBeautyOfTheGirl4 />} />
 					<Route path="/tieng-anh/the-beauty-of-the-girl-5" element={<TheBeautyOfTheGirl5 />} />
+
+					<Route path="/tieng-anh/think-straight-flow-fast-1" element={<ThinkStraightFlowFast1 />} />
+					<Route path="/tieng-anh/think-straight-flow-fast-2" element={<ThinkStraightFlowFast2 />} />
+					<Route path="/tieng-anh/think-straight-flow-fast-3" element={<ThinkStraightFlowFast3 />} />
+					<Route path="/tieng-anh/think-straight-flow-fast-4" element={<ThinkStraightFlowFast4 />} />
+					<Route path="/tieng-anh/think-straight-flow-fast-5" element={<ThinkStraightFlowFast5 />} />
+					<Route path="/tieng-anh/think-straight-flow-fast-6" element={<ThinkStraightFlowFast6 />} />
+					<Route path="/tieng-anh/think-straight-flow-fast-7" element={<ThinkStraightFlowFast7 />} />
 
 
 					<Route path="/tieng-anh/5-dang-dong-tu-vang-rong-2" element={<NamDangDongTuVangRong2 />} />

@@ -385,6 +385,32 @@ export default function TiengAnhIndex(): React.JSX.Element {
 
             <li>
               <div className="li-content">
+                <Link to="/tieng-anh/think-straight-flow-fast-1">Think straight
+                <sup>&nbsp;1&nbsp;</sup>
+                </Link>
+                <Link to="/tieng-anh/think-straight-flow-fast-2">
+                  <sup>&nbsp;2&nbsp;</sup>
+                </Link>
+                <Link to="/tieng-anh/think-straight-flow-fast-3">
+                  <sup>&nbsp;3&nbsp;</sup>
+                </Link>
+                <Link to="/tieng-anh/think-straight-flow-fast-4">
+                  <sup>&nbsp;4&nbsp;</sup>
+                </Link>
+                <Link to="/tieng-anh/think-straight-flow-fast-5">
+                  <sup>&nbsp;5&nbsp;</sup>
+                </Link>
+                <Link to="/tieng-anh/think-straight-flow-fast-6">
+                  <sup>&nbsp;6&nbsp;</sup>
+                </Link>
+                <Link to="/tieng-anh/think-straight-flow-fast-7">
+                  <sup>&nbsp;7&nbsp;</sup>
+                </Link>
+              </div>
+            </li>
+
+            <li>
+              <div className="li-content">
                 <Link to="/tieng-anh/the-beauty-of-the-girl-1">The Beauty of the Girl
                 <sup>&nbsp;1&nbsp;</sup>
                 </Link>
@@ -399,20 +425,6 @@ export default function TiengAnhIndex(): React.JSX.Element {
                 </Link>
                 <Link to="/tieng-anh/the-beauty-of-the-girl-5">
                   <sup>&nbsp;5&nbsp;</sup>
-                </Link>
-              </div>
-            </li>
-
-            <li>
-              <div className="li-content">
-                <Link to="/tieng-anh/bi-mat-ve-tu-duy-ngon-ngu-1">Bí Mật Về Tư Duy Ngôn Ngữ
-                <sup>&nbsp;1&nbsp;</sup>
-                </Link>
-                <Link to="/tieng-anh/bi-mat-ve-tu-duy-ngon-ngu-2">
-                  <sup>&nbsp;2&nbsp;</sup>
-                </Link>
-                <Link to="/tieng-anh/bi-mat-ve-tu-duy-ngon-ngu-3">
-                  <sup>&nbsp;3&nbsp;</sup>
                 </Link>
               </div>
             </li>
