@@ -46,23 +46,23 @@ export default function ContactIndex(): React.JSX.Element {
 
         <header className="portfolio-header title">
 
-          <h1 className="name">HIEU BEETER</h1>
+          <h1 className="name">ßee EngDev</h1>
           <div className="title">Bookkeeper | Daily Transactions | Invoicing | Reconciliation</div>
           <div className="location"><FontAwesomeIcon icon={faLocationDot} /> Hoc Mon District, HCMC</div>
           
           <div className="contact-info">
 
-            <div className="contact-item">
+            {/* <div className="contact-item">
               <FontAwesomeIcon icon={faAt} />
               <Link to="mailto:HieuTrongKhau@outlook.com" className="email-link">
                 Outlook
               </Link>
-            </div>
+            </div> */}
 
             <div className="contact-item">
               <FontAwesomeIcon icon={faWhatsapp} />
               <Link to="https://wa.me/84906920292?text=Hi!%20I'm%20available%20to%20talk%20about%20the%20Accounting%20opportunity." className="email-link">
-                WA Business
+                WhatsApp
               </Link>
             </div>
 
@@ -100,7 +100,7 @@ export default function ContactIndex(): React.JSX.Element {
 
             <div className="contact-item">
               <FontAwesomeIcon icon={faLinkedin} />  
-              <Link to="https://www.linkedin.com/in/hieukhau/" className="email-link" target="_blank">
+              <Link to="https://www.linkedin.com/in/anAccountingBee/" className="email-link" target="_blank">
                 LinkedIn
               </Link>
             </div>
@@ -137,7 +137,7 @@ export default function ContactIndex(): React.JSX.Element {
           <div className="group-container">
   
             <h3 className="margin-y-50 text-center">Cộng đồng chính thức của Accounting Bee</h3>
-            {/* <p className="margin-bottom-50 text-center">(WA Business của Facebook)</p> */}
+            {/* <p className="margin-bottom-50 text-center">(WhatsApp của Facebook)</p> */}
   
             <div className="group-title">
               <h2>Group chính</h2>
