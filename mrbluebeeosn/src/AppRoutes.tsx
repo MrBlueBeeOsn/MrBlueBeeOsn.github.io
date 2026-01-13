@@ -104,9 +104,9 @@ const Posts = lazy(() => import('@/data/Posts'));
 	const GerundsVaInfinitives = lazy(() => import('@/2_main/english/tienganh/GerundsVaInfinitives'));
 	const NhanBietTinhTuTiengAnh = lazy(() => import('@/2_main/english/tienganh/NhanBietTinhTuTiengAnh'));
 
-	const BiMatVeTuDuyNgonNgu1 = lazy(() => import('@/2_main/english/tienganh/BiMatVeTuDuyNgonNgu1'));
-	const BiMatVeTuDuyNgonNgu2 = lazy(() => import('@/2_main/english/tienganh/BiMatVeTuDuyNgonNgu2'));
-	const BiMatVeTuDuyNgonNgu3 = lazy(() => import('@/2_main/english/tienganh/BiMatVeTuDuyNgonNgu3'));
+	const BiMatVeTuDuyNgonNgu1 = lazy(() => import('@/2_main/english/tienganh/folder/BiMatVeTuDuyNgonNgu1'));
+	const BiMatVeTuDuyNgonNgu2 = lazy(() => import('@/2_main/english/tienganh/folder/BiMatVeTuDuyNgonNgu2'));
+	const BiMatVeTuDuyNgonNgu3 = lazy(() => import('@/2_main/english/tienganh/folder/BiMatVeTuDuyNgonNgu3'));
 
 	const TheBeautyOfTheGirl1 = lazy(() => import('@/2_main/english/tienganh/TheBeautyOfTheGirl1'));
 	const TheBeautyOfTheGirl2 = lazy(() => import('@/2_main/english/tienganh/TheBeautyOfTheGirl2'));
