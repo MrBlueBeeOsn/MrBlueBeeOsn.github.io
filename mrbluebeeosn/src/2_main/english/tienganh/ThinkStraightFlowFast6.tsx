@@ -42,7 +42,7 @@ export default function ThinkStraightFlowFast6(): React.JSX.Element {
 
 			</h1>
 
-			<h4 className="margin-bottom-30 text-center">"THAY NÃO" ĐỂ GIỎI TIẾNG ANH: TẤM BẢN ĐỒ TƯ DUY "NGƯỢC" GIÚP BẠN NÓI CHUYỆN NHƯ NGƯỜI BẢN XỨ!</h4>
+			<h4 className="margin-bottom-30 text-center">🌟 Bí Mật Học Tiếng Anh: Đổi Cấu Trúc Tiếng Việt Để Não Bộ “Chảy” Ngôn Ngữ Tự Nhiên</h4>
 
 			<p>Nếu coi tiếng Anh là một bức tranh, thì người Việt chúng ta thường vẽ hình trước rồi mới tô màu. Nhưng người bản xứ lại chọn màu sơn, nhúng cọ rồi mới đặt bút vẽ.</p>
 					
@@ -149,7 +149,7 @@ export default function ThinkStraightFlowFast6(): React.JSX.Element {
 			<div className="viewcounter">
 			
 				<div className="post-date no-margin">
-					<span>January 12, 2026 · by Claud and 🐝Mr. Bee Osn ·</span>
+					<span>January 12, 2026 · by Copilot and 🐝Mr. Bee Osn ·</span>
 				</div>
 
 				<div className="eye-icon no-margin">

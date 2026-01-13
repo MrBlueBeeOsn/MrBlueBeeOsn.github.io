@@ -42,7 +42,7 @@ export default function ThinkStraightFlowFast4(): React.JSX.Element {
 
 			</h1>
 
-			<h4 className="margin-bottom-30 text-center">"THAY NÃO" ĐỂ GIỎI TIẾNG ANH: TẤM BẢN ĐỒ TƯ DUY "NGƯỢC" GIÚP BẠN NÓI CHUYỆN NHƯ NGƯỜI BẢN XỨ!</h4>
+			<h4 className="margin-bottom-30 text-center">🔥 Cách học tiếng Anh hiệu quả nhất mà chưa ai nói thẳng với bạn</h4>
 
 			<p>Nếu coi tiếng Anh là một bức tranh, thì người Việt chúng ta thường vẽ hình trước rồi mới tô màu. Nhưng người bản xứ lại chọn màu sơn, nhúng cọ rồi mới đặt bút vẽ.</p>
 					
