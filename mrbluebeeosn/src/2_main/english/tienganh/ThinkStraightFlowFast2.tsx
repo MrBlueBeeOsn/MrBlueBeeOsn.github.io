@@ -72,7 +72,7 @@ export default function ThinkStraightFlowFast2(): React.JSX.Element {
 			
 				</ul>
 
-			<p>Khi một người Đức đọc "important meeting":</p>
+			<p className="margin-top-20">Khi một người Đức đọc "important meeting":</p>
 			
 				<ul className="list-square">
 			
@@ -93,12 +93,16 @@ export default function ThinkStraightFlowFast2(): React.JSX.Element {
 			<p>Sau 10 năm giảng dạy và nghiên cứu, tôi phát hiện ra một sự thật đơn giản đến khó tin: <strong>Chúng ta không cần học thêm từ vựng mới</strong>. <strong>Chúng ta cần học cách</strong> "<strong>nghĩ</strong>" <strong>mới</strong>.</p>
 
 			<p>Và đây là "công tắc não bộ" đó:</p>
-
-			<p>THAY VÌ DỊCH: "beautiful sunset" → "hoàng hôn đẹp"</p>
 			
-			<p><strong>HÃY THỬ</strong>: "<strong>beautiful sunset</strong>" → "<strong>đẹp hoàng hôn</strong>" → "<strong>vẻ đẹp của hoàng hôn</strong>"</p>
+				<ul className="list-square">
+			
+					<li>THAY VÌ DỊCH: "beautiful sunset" → "hoàng hôn đẹp"</li>
+			
+					<li><strong>HÃY THỬ</strong>: "<strong>beautiful sunset</strong>" → "<strong>đẹp hoàng hôn</strong>" → "<strong>vẻ đẹp của hoàng hôn</strong>"</li>
+			
+				</ul>
 
-			<p>Nghe có vẻ kỳ lạ? Sai ngữ pháp tiếng Việt? Đúng vậy! Nhưng đây không phải là tiếng Việt để nói. Đây là "tiếng Việt cầu nối" - một ngôn ngữ trung gian bạn tạo ra để huấn luyện não bộ của mình.</p>
+			<p className="margin-top-20">Nghe có vẻ kỳ lạ? Sai ngữ pháp tiếng Việt? Đúng vậy! Nhưng đây không phải là tiếng Việt để nói. Đây là "tiếng Việt cầu nối" - một ngôn ngữ trung gian bạn tạo ra để huấn luyện não bộ của mình.</p>
 
 			<h4 className="margin-y-50 text-center">Cách "Hack" Não Bộ Trong 7 Ngày: Lộ Trình Từ Người Mới Đến Người Thành Thạo</h4>
 
@@ -182,9 +186,9 @@ export default function ThinkStraightFlowFast2(): React.JSX.Element {
 
 			<p>Tôi biết bạn đã thử nhiều phương pháp. Học từ vựng, học ngữ pháp, luyện nghe, luyện nói... Nhưng có một bức tường vô hình luôn ngăn cản bạn.</p>
 
-			<p><strong>Hôm nay, tôi thách bạn làm một điều khác biệt</strong>:</p>
+			<p className="margin-top-20"><strong>Hôm nay, tôi thách bạn làm một điều khác biệt</strong>:</p>
 			
-			<p>Trong 7 ngày tới, hãy cho phép bản thân được "nghĩ sai". Hãy nói "<strong>sâu cảm xúc</strong>" thay vì "cảm xúc sâu sắc". Hãy nói "<strong>mới bắt đầu</strong>" thay vì "bắt đầu mới".</p>
+			<p className="margin-top-20">Trong 7 ngày tới, hãy cho phép bản thân được "nghĩ sai". Hãy nói "<strong>sâu cảm xúc</strong>" thay vì "cảm xúc sâu sắc". Hãy nói "<strong>mới bắt đầu</strong>" thay vì "bắt đầu mới".</p>
 
 			<p>Bạn không cần nói ra ngoài. Chỉ cần làm trong đầu.</p>
 
@@ -196,9 +200,9 @@ export default function ThinkStraightFlowFast2(): React.JSX.Element {
 
 			<p>Và khi bộ não đã được lập trình lại, tiếng Anh không còn là môn học nữa. Nó trở thành một phần tư duy của bạn. Bạn sẽ đọc, nghe, và nghĩ với một tốc độ mà trước đây bạn không thể tưởng tượng.</p>
 
-			<p><strong>Cánh cửa đang mở</strong>. <strong>Chìa khóa nằm trong tay bạn</strong>.</p>
+			<p className="margin-top-20"><strong>Cánh cửa đang mở</strong>. <strong>Chìa khóa nằm trong tay bạn</strong>.</p>
 
-			<p>Bạn có dám bước qua và thay đổi mọi thứ không?</p>
+			<p className="margin-top-20">Bạn có dám bước qua và thay đổi mọi thứ không?</p>
 
 			<p>P.S. Đây không phải là một phương pháp học. Đây là một cuộc cách mạng tư duy. Và nó bắt đầu bằng một quyết định đơn giản: <strong>Hôm nay</strong>, <strong>tôi sẽ dịch xuôi</strong>.</p>
 

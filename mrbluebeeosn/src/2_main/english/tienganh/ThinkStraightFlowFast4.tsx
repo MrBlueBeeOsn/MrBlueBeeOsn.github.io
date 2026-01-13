@@ -50,7 +50,7 @@ export default function ThinkStraightFlowFast4(): React.JSX.Element {
 
 			<p>Có một sự thật hơi khó chấp nhận khi học tiếng Anh:</p>
 
-			<p className="quote"><strong>Vấn đề lớn nhất của người Việt không phải là thiếu từ vựng. Mà là não phải dịch ngược quá nhiều lần</strong>.</p>
+			<p className="margin-top-20 quote"><strong>Vấn đề lớn nhất của người Việt không phải là thiếu từ vựng. Mà là não phải dịch ngược quá nhiều lần</strong>.</p>
 
 			<p className="margin-top-20">Chúng ta học tiếng Anh nhiều năm.</p>
 
@@ -76,9 +76,9 @@ export default function ThinkStraightFlowFast4(): React.JSX.Element {
 
 			<p>Hãy nhìn cụm từ quen thuộc này:</p>
 
-			<p className="quote"><strong>useful information</strong></p>
+			<p className="margin-top-20 quote"><strong>useful information</strong></p>
 
-			<p>Cách học truyền thống:</p>
+			<p className="margin-top-20">Cách học truyền thống:</p>
 				
 				<ul className="list-square">
 
@@ -88,7 +88,7 @@ export default function ThinkStraightFlowFast4(): React.JSX.Element {
 			
 				</ul>
 			
-			<p>👉 Não bạn phải:</p>
+			<p className="margin-top-20">👉 Não bạn phải:</p>
 				
 				<ol>
 
@@ -109,13 +109,13 @@ export default function ThinkStraightFlowFast4(): React.JSX.Element {
 
 			<p>Thay vì hỏi:</p>
 
-			<p className="quote">“Làm sao nói tiếng Anh giống người bản xứ?”</p>
+			<p className="margin-top-20 quote">“Làm sao nói tiếng Anh giống người bản xứ?”</p>
 
-			<p>Hãy thử hỏi:</p>
+			<p className="margin-top-20">Hãy thử hỏi:</p>
 
-			<p className="quote">“<strong>Vì sao não mình phải dịch ngược</strong>?”</p>
+			<p className="margin-top-20 quote">“<strong>Vì sao não mình phải dịch ngược</strong>?”</p>
 
-			<p>Và câu trả lời là:</p>
+			<p className="margin-top-20">Và câu trả lời là:</p>
 				
 				<ul className="list-square">
 
@@ -123,7 +123,7 @@ export default function ThinkStraightFlowFast4(): React.JSX.Element {
 			
 				</ul>
 
-			<p>Tiếng Việt:</p>
+			<p className="margin-top-20">Tiếng Việt:</p>
 				
 				<ul className="list-square">
 
@@ -132,7 +132,7 @@ export default function ThinkStraightFlowFast4(): React.JSX.Element {
 			
 				</ul>
 			
-			<p>Tiếng Anh:</p>
+			<p className="margin-top-20">Tiếng Anh:</p>
 				
 				<ul className="list-square">
 
@@ -147,9 +147,9 @@ export default function ThinkStraightFlowFast4(): React.JSX.Element {
 
 			<p>Cách mình làm rất đơn giản — nhưng hiệu quả đến bất ngờ:</p>
 
-			<p className="quote"><strong>Chuyển cấu trúc tiếng Việt sang cùng trật tự với tiếng Anh. Tính từ đứng trước danh từ</strong></p>
+			<p className="margin-top-20 quote"><strong>Chuyển cấu trúc tiếng Việt sang cùng trật tự với tiếng Anh. Tính từ đứng trước danh từ</strong></p>
 			
-			<p>Ví dụ:</p>
+			<p className="margin-top-20">Ví dụ:</p>
 				
 				<ul className="list-square">
 			
@@ -162,14 +162,8 @@ export default function ThinkStraightFlowFast4(): React.JSX.Element {
 			<p className="margin-top-20">Nghe thì lạ.</p>
 
 			<p>Nghe thì không “thuần Việt”.</p>
-					
-			<p className="text-indent-whole">Nhưng đổi lại, bạn có một thứ cực kỳ quan trọng:</p>
-			
-				<ul className="list-square">
-			
-					<li className="list-none">👉 <strong>Não không phải dịch ngược nữa</strong>.</li>
-			
-				</ul>
+			<p>Nhưng đổi lại, bạn có một thứ cực kỳ quan trọng:</p>
+			<p>👉 <strong>Não không phải dịch ngược nữa</strong>.</p>
 
 			<p className="margin-top-20">Ngôn ngữ bắt đầu <strong>chảy từ trái sang phải</strong>.</p>
 
@@ -179,9 +173,9 @@ export default function ThinkStraightFlowFast4(): React.JSX.Element {
 
 			<p>Đây là điều ít ai nói rõ:</p>
 
-			<p className="quote">Người Đức, Hà Lan, Thụy Điển, Trung Quốc, Hàn Quốc, Nhật Bản học tiếng Anh <strong>dễ hơn người Việt</strong> không phải vì họ giỏi hơn — mà vì <strong>cấu trúc ngôn ngữ của họ đã đồng nhất sẵn</strong>.</p>
+			<p className="margin-top-20 quote">Người Đức, Hà Lan, Thụy Điển, Trung Quốc, Hàn Quốc, Nhật Bản học tiếng Anh <strong>dễ hơn người Việt</strong> không phải vì họ giỏi hơn — mà vì <strong>cấu trúc ngôn ngữ của họ đã đồng nhất sẵn</strong>.</p>
 
-			<p>Trong ngôn ngữ của họ:</p>
+			<p className="margin-top-20">Trong ngôn ngữ của họ:</p>
 				
 				<ul>
 
@@ -189,7 +183,7 @@ export default function ThinkStraightFlowFast4(): React.JSX.Element {
 			
 				</ul>
 			
-			<p>Khi họ học tiếng Anh:</p>
+			<p className="margin-top-20">Khi họ học tiếng Anh:</p>
 				
 				<ul className="list-square">
 			
@@ -280,9 +274,9 @@ export default function ThinkStraightFlowFast4(): React.JSX.Element {
 
 			<p>Bạn đang tạo ra:</p>
 
-			<p className="quote"><strong>một</strong> “<strong>phiên bản tiếng Việt trung gian</strong>” để huấn luyện não học tiếng Anh nhanh hơn.</p>
+			<p className="margin-top-20 quote"><strong>một</strong> “<strong>phiên bản tiếng Việt trung gian</strong>” để huấn luyện não học tiếng Anh nhanh hơn.</p>
 
-			<p>Giống như:</p>
+			<p className="margin-top-20">Giống như:</p>
 			
 				<ul className="list-square">
 
@@ -301,7 +295,7 @@ export default function ThinkStraightFlowFast4(): React.JSX.Element {
 			<p>Nghe có vẻ lạ.</p>
 			<p>Nhưng nếu bạn thử đủ lâu, bạn sẽ nhận ra:</p>
 
-			<p className="quote"><strong>Có những cách học cực kỳ hiệu quả</strong> — <strong>chỉ là chưa ai nói rõ cho bạn nghe</strong></p>
+			<p className="margin-top-20 quote"><strong>Có những cách học cực kỳ hiệu quả</strong> — <strong>chỉ là chưa ai nói rõ cho bạn nghe</strong></p>
 
 			<div className="viewcounter">
 			

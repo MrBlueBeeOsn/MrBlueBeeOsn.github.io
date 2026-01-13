@@ -46,7 +46,7 @@ export default function ThinkStraightFlowFast3(): React.JSX.Element {
 
 			<p>Bạn đã từng dịch câu tiếng Việt sang tiếng Anh và cảm thấy như não bộ đang "đấu vật" không?</p>
 
-			<p>Ví dụ kinh điển:</p>
+			<p className="text-indent-whole">Ví dụ kinh điển:</p>
 			
 				<ul className="list-square">
 		
@@ -57,12 +57,16 @@ export default function ThinkStraightFlowFast3(): React.JSX.Element {
 				</ul>
 
 			<p className="margin-top-20">Đây chính là "<strong>cái bẫy</strong>" <strong>lớn nhất</strong> của người Việt khi học tiếng Anh: <strong>cấu trúc ngược chiều hoàn toàn</strong>!</p>
+			
+				<ul className="list-square">
+			
+					<li>Tiếng Việt: Danh từ + Tính từ (noun + adjective) – như "cô gái xinh đẹp", "ly cà phê nóng", "bầu trời xanh thẳm".</li>
+			
+					<li>Tiếng Anh: <strong>Tính từ</strong> + <strong>Danh từ</strong> (adjective + noun) – beautiful girl, hot coffee, blue sky.</li>
+			
+				</ul>
 
-			<p>Tiếng Việt: Danh từ + Tính từ (noun + adjective) – như "cô gái xinh đẹp", "ly cà phê nóng", "bầu trời xanh thẳm".</p>
-
-			<p>Tiếng Anh: <strong>Tính từ</strong> + <strong>Danh từ</strong> (adjective + noun) – beautiful girl, hot coffee, blue sky.</p>
-
-			<p>Kết quả? Mỗi lần dịch, não bạn phải <strong>lật ngược thứ tự</strong> → chậm, dễ lỗi, và mệt mỏi.</p>
+			<p className="margin-top-20">Kết quả? Mỗi lần dịch, não bạn phải <strong>lật ngược thứ tự</strong> → chậm, dễ lỗi, và mệt mỏi.</p>
 
 			<p>Nhưng nếu mình tiết lộ rằng: Chỉ cần <strong>thay đổi góc nhìn nhỏ</strong> – <strong>buộc não nghĩ tính từ trước danh từ ngay trong tiếng Việt</strong> – bạn sẽ dịch <strong>xuôi từ trái sang phải</strong>, mượt như người bản xứ?</p>
 
@@ -182,7 +186,7 @@ export default function ThinkStraightFlowFast3(): React.JSX.Element {
 
 			<p className="margin-top-20"><strong>Ngày 3-4</strong>: Viết 5-10 caption/ngày kiểu lạ tai</p>
 
-			<p>Ví dụ:</p>
+			<p className="text-indent-whole">Ví dụ:</p>
 			
 				<ul className="list-square">
 

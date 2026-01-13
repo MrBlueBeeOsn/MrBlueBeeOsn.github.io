@@ -276,7 +276,7 @@ export default function ThinkStraightFlowFast5(): React.JSX.Element {
 
 			<p className="margin-top-20">Sau 2 tuần: Đọc đọc nhanh hơn 60%. Sếp Nhật khen tiến bộ vượt bậc!"</p>
 
-			<h4 className="margin-top-20">Chị Lan - Giáo viên tiếng Anh, 35 tuổi</h4>
+			<h4 className="margin-y-20">Chị Lan - Giáo viên tiếng Anh, 35 tuổi</h4>
 			<p>"Học sinh Trung Quốc của tôi học tiếng Anh 2 năm, đọc nhanh gấp đôi học sinh Việt học 5 năm!</p>
 			<p>Vì tiếng Trung: 美丽女孩 = Xinh đẹp cô gái (đọc xuôi)</p>
 			<p>Tôi dạy học sinh Việt đọc xuôi. Sau 1 tháng: IELTS Reading tăng 1.0-1.5 band!"</p>
