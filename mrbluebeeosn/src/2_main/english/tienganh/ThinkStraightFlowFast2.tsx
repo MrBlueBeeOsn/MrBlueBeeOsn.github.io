@@ -44,21 +44,19 @@ export default function ThinkStraightFlowFast2(): React.JSX.Element {
 
 			<h4 className="margin-bottom-30 text-center">Bạn Đang Học Tiếng Anh Sai Cách: Bí Mật Thay Đổi Hoàn Toàn Chỉ Sau 7 Ngày</h4>
 
-			<p>Có một sự thật phũ phàng mà không ai nói với bạn: 80% người Việt học tiếng Anh đang tự tay xây tường ngăn cách mình với thành công.</p>
+			<p>Có một sự thật phũ phàng mà không ai nói với bạn: <strong>80% người Việt học tiếng Anh đang tự tay xây tường ngăn cách mình với thành công</strong>.</p>
 
 			<p>Bạn có bao giờ thắc mắc tại sao bạn đọc một câu tiếng Anh đơn giản như "beautiful sunset" mà não bạn phải làm việc như thế này không?</p>
 			
 				<ol>
 			
 					<li>Đọc "beautiful" → nghĩ "đẹp"</li>
-			
 					<li>Đọc "sunset" → nghĩ "hoàng hôn"</li>
-
-					<li>ĐẢO NGƯỢC TRẬT TỰ → "hoàng hôn đẹp"</li>
+					<li><strong>ĐẢO NGƯỢC TRẬT TỰ</strong> → "hoàng hôn đẹp"</li>
 			
 				</ol>
 
-			<p className="margin-top-20">Chính bước thứ ba này - bước "đảo ngược" - là kẻ giết chết khả năng tiếng Anh của bạn. Nó khiến bạn luôn chậm 1 nhịp, luôn mệt mỏi và luôn cảm thấy mình không bao giờ "bắt kịp".</p>
+			<p className="margin-top-20">Chính bước thứ ba này - bước "<strong>đảo ngược</strong>" - là kẻ giết chết khả năng tiếng Anh của bạn. Nó khiến bạn luôn chậm 1 nhịp, luôn mệt mỏi và luôn cảm thấy mình không bao giờ "bắt kịp".</p>
 
 			{/* Sự Thật Chấn Động: Người Đức, Hàn, Nhật Họ Không "Nghĩ" Như Chúng Ta */}
 
@@ -70,7 +68,7 @@ export default function ThinkStraightFlowFast2(): React.JSX.Element {
 			
 					<li>Họ nghĩ ngay: "아름다운 석양" (đẹp + hoàng hôn)</li>
 			
-					<li>Không có bước đảo ngược nào</li>
+					<li><strong>Không có bước đảo ngược nào</strong></li>
 			
 				</ul>
 
@@ -80,25 +78,25 @@ export default function ThinkStraightFlowFast2(): React.JSX.Element {
 			
 					<li>Họ nghĩ: "wichtiges Meeting" (quan trọng + cuộc họp)</li>
 			
-					<li>Không có bước đảo ngược nào</li>
+					<li><strong>Không có bước đảo ngược nào</strong></li>
 			
 				</ul>
 
-			<p className="margin-top-20">Còn chúng ta? Chúng ta bị mắc kẹt trong "lời nguyền cấu trúc": tiếng Việt đòi hỏi danh từ phải đứng trước tính từ.</p>
+			<p className="margin-top-20">Còn chúng ta? Chúng ta bị mắc kẹt trong "lời nguyền cấu trúc": <strong>tiếng Việt đòi hỏi danh từ phải đứng trước tính từ</strong>.</p>
 
-			<p>Nhưng tôi có tin tốt cho bạn: Bạn hoàn toàn có thể phá vỡ lời nguyền này. Và bạn không cần phải sang Đức hay Hàn Quốc để làm điều đó.</p>
+			<p>Nhưng tôi có tin tốt cho bạn: <strong>Bạn hoàn toàn có thể phá vỡ lời nguyền này</strong>. Và bạn không cần phải sang Đức hay Hàn Quốc để làm điều đó.</p>
 
 			{/* Phát Hiện Làm Thay Đổi Mọi Thứ: "Công Tắc Não Bộ" Mà Không Ai Dạy Bạn */}
 
 			<h3 className="margin-y-50 text-center">Phát Hiện Làm Thay Đổi Mọi Thứ: "Công Tắc Não Bộ" Mà Không Ai Dạy Bạn</h3>
 
-			<p>Sau 10 năm giảng dạy và nghiên cứu, tôi phát hiện ra một sự thật đơn giản đến khó tin: Chúng ta không cần học thêm từ vựng mới. Chúng ta cần học cách "nghĩ" mới.</p>
+			<p>Sau 10 năm giảng dạy và nghiên cứu, tôi phát hiện ra một sự thật đơn giản đến khó tin: <strong>Chúng ta không cần học thêm từ vựng mới</strong>. <strong>Chúng ta cần học cách</strong> "<strong>nghĩ</strong>" <strong>mới</strong>.</p>
 
 			<p>Và đây là "công tắc não bộ" đó:</p>
 
 			<p>THAY VÌ DỊCH: "beautiful sunset" → "hoàng hôn đẹp"</p>
 			
-			<p>HÃY THỬ: "beautiful sunset" → "đẹp hoàng hôn" → "vẻ đẹp của hoàng hôn"</p>
+			<p><strong>HÃY THỬ</strong>: "<strong>beautiful sunset</strong>" → "<strong>đẹp hoàng hôn</strong>" → "<strong>vẻ đẹp của hoàng hôn</strong>"</p>
 
 			<p>Nghe có vẻ kỳ lạ? Sai ngữ pháp tiếng Việt? Đúng vậy! Nhưng đây không phải là tiếng Việt để nói. Đây là "tiếng Việt cầu nối" - một ngôn ngữ trung gian bạn tạo ra để huấn luyện não bộ của mình.</p>
 
@@ -114,15 +112,13 @@ export default function ThinkStraightFlowFast2(): React.JSX.Element {
 			
 				<ul className="list-square">
 
-					<li>Cốc nước nóng → "hot water" → "nóng nước"</li>
-			
-					<li>Bầu trời xanh → "blue sky" → "xanh trời"</li>
-			
-					<li>Ý tưởng hay → "good idea" → "tốt ý tưởng"</li>
+					<li>Cốc nước nóng → "hot water" → "<strong>nóng nước</strong>"</li>
+					<li>Bầu trời xanh → "blue sky" → "<strong>xanh trời</strong>"</li>
+					<li>Ý tưởng hay → "good idea" → "<strong>tốt ý tưởng</strong>"</li>
 			
 				</ul>
 
-			<p className="margin-top-20">Đừng sửa! Hãy để não bạn làm quen với cảm giác mới lạ này.</p>
+			<p className="margin-top-20"><strong>Đừng sửa</strong>! Hãy để não bạn làm quen với cảm giác mới lạ này.</p>
 
 			{/* Ngày 3-4: Giai Đoạn "Nâng Cấp" */}
 
@@ -134,15 +130,13 @@ export default function ThinkStraightFlowFast2(): React.JSX.Element {
 			
 				<ul className="list-square">
 
-					<li>"nóng nước" → "hơi nóng của nước"</li>
-			
-					<li>"xanh trời" → "sắc xanh của bầu trời"</li>
-			
-					<li>"tốt ý tưởng" → "tính đúng đắn của ý tưởng"</li>
+					<li>"nóng nước" → "<strong>hơi nóng của nước</strong>"</li>
+					<li>"xanh trời" → "<strong>sắc xanh của bầu trời</strong>"</li>
+					<li>"tốt ý tưởng" → "<strong>tính đúng đắn của ý tưởng</strong>"</li>
 			
 				</ul>
 
-			<p className="margin-top-20">Bạn đang học cách nắm bắt bản chất thay vì hình thức.</p>
+			<p className="margin-top-20">Bạn đang học cách nắm bắt <strong>bản chất</strong> thay vì <strong>hình thức</strong>.</p>
 
 			{/* Ngày 5-7: Giai Đoạn "Hòa Nhập" */}
 
@@ -158,7 +152,7 @@ export default function ThinkStraightFlowFast2(): React.JSX.Element {
 
 					<li>Tư duy cũ: "Tôi yêu... quiet (yên tĩnh) mornings (buổi sáng)... à, 'buổi sáng yên tĩnh'."</li>
 
-					<li>Tư duy mới: "Tôi yêu sự yên tĩnh của buổi sáng."</li>
+					<li><strong>Tư duy mới</strong>: "<strong>Tôi yêu sự yên tĩnh của buổi sáng</strong>."</li>
 			
 				</ul>
 
@@ -180,7 +174,7 @@ export default function ThinkStraightFlowFast2(): React.JSX.Element {
 
 			<p>Chị Lan, 55 tuổi, từng nói với tôi: "Tôi đã học tiếng Anh 30 năm mà vẫn không nói được."</p>
 					
-			<p>Sau khi áp dụng phương pháp này chỉ 2 tuần, chị gọi điện cho tôi, giọng đầy xúc động: "Lần đầu tiên trong đời, tôi xem phim Mỹ mà không cần nhìn phụ đề. Khi họ nói 'beautiful story', tôi không nghĩ 'câu chuyện hay' nữa. Tôi cảm nhận được cái hay của câu chuyện ngay lập tức."</p>
+			<p>Sau khi áp dụng phương pháp này chỉ 2 tuần, chị gọi điện cho tôi, giọng đầy xúc động: "Lần đầu tiên trong đời, tôi xem phim Mỹ mà không cần nhìn phụ đề. Khi họ nói 'beautiful story', tôi không nghĩ 'câu chuyện hay' nữa. Tôi cảm nhận được <strong>cái hay của câu chuyện</strong> ngay lập tức."</p>
 
 			{/* Lời Thách Thức Dành Cho Bạn */}
 
@@ -188,9 +182,9 @@ export default function ThinkStraightFlowFast2(): React.JSX.Element {
 
 			<p>Tôi biết bạn đã thử nhiều phương pháp. Học từ vựng, học ngữ pháp, luyện nghe, luyện nói... Nhưng có một bức tường vô hình luôn ngăn cản bạn.</p>
 
-			<p>Hôm nay, tôi thách bạn làm một điều khác biệt:</p>
+			<p><strong>Hôm nay, tôi thách bạn làm một điều khác biệt</strong>:</p>
 			
-			<p>Trong 7 ngày tới, hãy cho phép bản thân được "nghĩ sai". Hãy nói "sâu cảm xúc" thay vì "cảm xúc sâu sắc". Hãy nói "mới bắt đầu" thay vì "bắt đầu mới".</p>
+			<p>Trong 7 ngày tới, hãy cho phép bản thân được "nghĩ sai". Hãy nói "<strong>sâu cảm xúc</strong>" thay vì "cảm xúc sâu sắc". Hãy nói "<strong>mới bắt đầu</strong>" thay vì "bắt đầu mới".</p>
 
 			<p>Bạn không cần nói ra ngoài. Chỉ cần làm trong đầu.</p>
 
@@ -198,15 +192,15 @@ export default function ThinkStraightFlowFast2(): React.JSX.Element {
 
 			<h3 className="margin-y-50 text-center">Phần Thưởng Lớn Nhất Đang Chờ Đợi</h3>
 
-			<p>Sau 7 ngày đó, bạn sẽ khám phá ra một sự thật: Bạn không học tiếng Anh. Bạn đang "lập trình lại" bộ não của mình.</p>
+			<p>Sau 7 ngày đó, bạn sẽ khám phá ra một sự thật: <strong>Bạn không học tiếng Anh</strong>. <strong>Bạn đang</strong> "<strong>lập trình lại</strong>" <strong>bộ não của mình</strong>.</p>
 
 			<p>Và khi bộ não đã được lập trình lại, tiếng Anh không còn là môn học nữa. Nó trở thành một phần tư duy của bạn. Bạn sẽ đọc, nghe, và nghĩ với một tốc độ mà trước đây bạn không thể tưởng tượng.</p>
 
-			<p>Cánh cửa đang mở. Chìa khóa nằm trong tay bạn.</p>
+			<p><strong>Cánh cửa đang mở</strong>. <strong>Chìa khóa nằm trong tay bạn</strong>.</p>
 
 			<p>Bạn có dám bước qua và thay đổi mọi thứ không?</p>
 
-			<p>P.S. Đây không phải là một phương pháp học. Đây là một cuộc cách mạng tư duy. Và nó bắt đầu bằng một quyết định đơn giản: Hôm nay, tôi sẽ dịch xuôi.</p>
+			<p>P.S. Đây không phải là một phương pháp học. Đây là một cuộc cách mạng tư duy. Và nó bắt đầu bằng một quyết định đơn giản: <strong>Hôm nay</strong>, <strong>tôi sẽ dịch xuôi</strong>.</p>
 
 			<div className="viewcounter">
 			
