@@ -171,8 +171,8 @@ export default function ThinkStraightFlowFast5(): React.JSX.Element {
 					<thead>
 						<tr>
 							<th>Tiếng Anh</th>
-							<th>Cũ</th>
 							<th>Mới</th>
+							<th>Cũ</th>
 						</tr>
 					</thead>
 
@@ -180,20 +180,20 @@ export default function ThinkStraightFlowFast5(): React.JSX.Element {
 
 						<tr>
 								<td>Beautiful girl</td>
-								<td>Cô gái xinh đẹp</td>
 								<td><strong>Xinh đẹp cô gái</strong></td>
+								<td>Cô gái xinh đẹp</td>
 						</tr>
 
 						<tr>
 								<td>Hot coffee</td>
-								<td>Cà phê nóng</td>
 								<td><strong>Nóng cà phê</strong></td>
+								<td>Cà phê nóng</td>
 						</tr>
 
 						<tr>
 								<td>Important meeting</td>
-								<td>Cuộc họp quan trọng</td>
 								<td><strong>Quan trọng cuộc họp</strong></td>
+								<td>Cuộc họp quan trọng</td>
 						</tr>
 					</tbody>
 				</table>
@@ -377,9 +377,9 @@ export default function ThinkStraightFlowFast5(): React.JSX.Element {
 			
 				<ul className="list-square">
 
-					<li>❌ Cô gái xinh đẹp</li>
-					<li>❌ Cà phê nóng</li>
-					<li>❌ Cuộc họp quan trọng</li>
+					<li className="list-none">❌ Cô gái xinh đẹp</li>
+					<li className="list-none">❌ Cà phê nóng</li>
+					<li className="list-none">❌ Cuộc họp quan trọng</li>
 			
 				</ul>
 
@@ -387,9 +387,9 @@ export default function ThinkStraightFlowFast5(): React.JSX.Element {
 			
 				<ul className="list-square">
 
-					<li>✅ Xinh đẹp cô gái</li>
-					<li>✅ Nóng cà phê</li>
-					<li>✅ Quan trọng cuộc họp</li>
+					<li className="list-none">✅ Xinh đẹp cô gái</li>
+					<li className="list-none">✅ Nóng cà phê</li>
+					<li className="list-none">✅ Quan trọng cuộc họp</li>
 			
 				</ul>
 

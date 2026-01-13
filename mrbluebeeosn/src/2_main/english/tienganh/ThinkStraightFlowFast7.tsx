@@ -47,71 +47,93 @@ export default function ThinkStraightFlowFast7(): React.JSX.Element {
 
 			<h2 className="margin-bottom-50 text-center">Flow fast</h2>
 
-			<h4 className="margin-bottom-30 text-center">KHÓA MỞ CỬA TIẾNG ANH: ĐỔI CẤU TRÚC TIẾNG VIỆT ĐỂ CHINH PHỤC THẾ GIỚI</h4>
+			<h4 className="margin-bottom-30 text-center">Bí Quyết Học Tiếng Anh Siêu Tốc: Đổi Cấu Trúc Não Bộ Từ Trái Sang Phải!</h4>
 
-			<p>Bạn đã bao giờ cảm thấy tiếng Anh như một bức tường ngăn cách giữa bạn và thế giới? Bạn muốn phá vỡ rào cản ngôn ngữ, tự tin giao tiếp và mở ra cơ hội mới? Hãy thử một phương pháp độc đáo: sắp xếp lại cấu trúc tiếng Việt để đồng nhất với cấu trúc tiếng Anh.</p>
+			<p>Bạn có bao giờ tự hỏi tại sao người Đức, Hà Lan, hay Nhật Bản học tiếng Anh "như ăn kẹo", trong khi chúng ta – những người Việt – cứ mãi vật lộn với cấu trúc câu? <strong>Bí mật nằm ở cách sắp xếp ngôn ngữ</strong>! Tiếng Anh (và nhiều ngôn ngữ khác) đặt <strong>tính từ trước danh từ</strong> (adj-noun), như "beautiful flower" (hoa đẹp). Tiếng Việt thì ngược lại: "hoa đẹp". Kết quả? Não bộ ta phải "quay ngược xe" mỗi khi dịch, làm chậm quá trình học.</p>
 
-			{/* Tiếng Việt và tiếng Anh: Hai thế giới, một mục tiêu */}
+			<p>Nhưng mình có cách hack não bộ siêu hiệu quả mà ít ai biết: <strong>Dịch xuôi từ trái sang phải</strong>, <strong>ưu tiên tính từ trước danh từ</strong>! Nghe lạ? Thử đi, bạn sẽ nghiện!</p>
 
-			<h3 className="margin-y-50 text-center">Tiếng Việt và tiếng Anh: Hai thế giới, một mục tiêu</h3>
+			{/* Tại Sao Phương Pháp Này "Thần Thánh"? */}
 
-			<p>Tiếng Việt và tiếng Anh là hai ngôn ngữ có cấu trúc hoàn toàn khác nhau. Tiếng Việt thường đặt tính từ sau danh từ, trong khi tiếng Anh đặt tính từ trước danh từ. Ví dụ, "thông tin hữu ích" (tiếng Việt) vs "useful information" (tiếng Anh). Nhưng điều này không phải là rào cản, mà là cơ hội để bạn chinh phục tiếng Anh.</p>
+			<h3 className="margin-y-50 text-center">Tại Sao Phương Pháp Này "Thần Thánh"?</h3>
+			
+				<ul className="list-square">
+			
+					<li><strong>Đồng nhất cấu trúc não</strong>: Người Hàn, Trung, Thụy Điển học Anh dễ vì ngôn ngữ mẹ đẻ họ cũng "adj-noun". Tiếng Việt có chút tương đồng (như "hữu ích thông tin"), nhưng ít dùng. Hãy <strong>tăng cường nó lên 100</strong>%!</li>
+			
+					<li><strong>Tránh</strong> "<strong>quay đầu xe</strong>": Đừng dịch ngược (danh từ rồi mới tính từ). Hãy để ngôn ngữ <strong>chảy từ trái sang phải</strong>, giống tiếng Anh gốc. Não bộ sẽ nhanh hơn, tự tin hơn.</li>
+			
+					<li><strong>Khoa học chứng minh</strong>: Thói quen này rèn "mental flow", giảm tải nhận thức (cognitive load). Mình áp dụng 2 tuần, nghe-nói tiến bộ vọt!</li>
+			
+				</ul>
 
-			{/* Phương pháp đổi cấu trúc tiếng Việt: Bí quyết học hiệu quả */}
+			{/* Ví Dụ Thực Chiến: Dịch Xuôi Ngay! */}
 
-			<h3 className="margin-y-50 text-center">Phương pháp đổi cấu trúc tiếng Việt: Bí quyết học hiệu quả</h3>
+			<h3 className="margin-y-50 text-center">Ví Dụ Thực Chiến: Dịch Xuôi Ngay!</h3>
+			
+			<p>Thay vì "quyết định nhanh" → <strong>Nhanh quyết định</strong> (quick decision).</p>
+			<p>Thay vì "nhà lớn" → <strong>Lớn nhà</strong> (big house).</p>
+			<p>Thay vì "công cụ hữu ích" → <strong>Hữu ích công cụ</strong> (useful tool).</p>
 
-			<p>Thay vì dịch "useful information" thành "thông tin hữu ích", hãy thử dịch thành "hữu ích thông tin". Điều này giúp não bộ quen với cấu trúc tiếng Anh và tăng tốc độ dịch. Ví dụ khác:</p>
+				<table className="margin-top-20 margin-bottom-50">
+					<thead>
+						<tr>
+							<th>Tiếng Anh</th>
+							<th>Dịch Xuôi (Adj-Noun)</th>
+							<th>Việt Chuẩn (So Sánh)</th>
+						</tr>
+					</thead>
+
+					<tbody>
+
+						<tr>
+								<td>Happy child</td>
+								<td>Vui trẻ em</td>
+								<td>Trẻ em vui</td>
+						</tr>
+
+						<tr>
+								<td>Cold drink</td>
+								<td>Lạnh đồ uống</td>
+								<td>Đồ uống lạnh</td>
+						</tr>
+
+						<tr>
+								<td>Smart phone</td>
+								<td>Thông minh điện thoại</td>
+								<td>Điện thoại thông minh</td>
+						</tr>
+
+						<tr>
+								<td>Fresh fruit</td>
+								<td>Tươi trái cây</td>
+								<td>Trái cây tươi</td>
+						</tr>
+					</tbody>
+				</table>
+
+			<p className="margin-top-20"><strong>Luyện ngay</strong>: Mô tả 5 đồ vật quanh bạn theo kiểu này. "Màn hình sáng laptop" thay vì "laptop có màn hình sáng".</p>
+
+			{/* Hướng Dẫn Thực Hành 7 Ngày */}
+
+			<h3 className="margin-y-50 text-center">Hướng Dẫn Thực Hành 7 Ngày</h3>
 			
 				<ol>
-
-					<li>"Beautiful day" → "đẹp trời"</li>
-					<li>"Difficult task" → "khó khăn nhiệm vụ"</li>
-					<li>"Important decision" → "quan trọng quyết định"</li>
+			
+					<li><strong>Ngày 1-3</strong>: Đọc to 20 cụm adj-noun từ bảng trên, 10 phút/ngày.</li>
+					<li><strong>Ngày 4-5</strong>: Nghe TED Talks chậm, pause và dịch xuôi câu có tính từ.</li>
+					<li><strong>Ngày 6-7</strong>: Viết nhật ký 100 từ bằng cấu trúc mới. Ghi âm nói theo!</li>
 			
 				</ol>
 
-			{/* Lợi ích vượt trội */}
+			<p className="margin-top-20">Ban đầu nghe "lệch lạc", nhưng <strong>lâu dần bạn sẽ thấy tự nhiên như thở</strong>. Đây là cách học <strong>hiệu quả nhất mà chưa ai kể bạn nghe</strong> – vì nó đòi hỏi thay đổi thói quen não bộ!</p>
 
-			<h3 className="margin-y-50 text-center">Lợi ích vượt trội</h3>
-			
-				<ol>
-
-					<li><strong>Tăng tốc độ dịch</strong>: Não bộ sẽ quen với cấu trúc tiếng Anh và dịch nhanh hơn.</li>
-
-					<li><strong>Cải thiện khả năng giao tiếp</strong>: Bạn sẽ nói và viết tiếng Anh tự nhiên hơn.</li>
-
-					<li><strong>Học từ vựng hiệu quả</strong>: Bạn sẽ nhớ từ vựng lâu hơn khi học trong cấu trúc câu.</li>
-
-					<li><strong>Tăng khả năng phản xạ</strong>: Bạn sẽ phản ứng nhanh hơn khi nghe hoặc đọc tiếng Anh.</li>
-			
-				</ol>
-
-			{/* Làm thế nào để áp dụng phương pháp này? */}
-
-			<h3 className="margin-y-50 text-center">Làm thế nào để áp dụng phương pháp này?</h3>
-			
-				<ol>
-
-					<li>Bắt đầu với các cụm từ đơn giản như "hữu ích thông tin", "đẹp trời", "khó khăn nhiệm vụ".</li>
-					<li>Luyện tập dịch các câu tiếng Anh sang tiếng Việt với cấu trúc mới.</li>
-					<li>Sử dụng phương pháp này khi học từ vựng mới.</li>
-					<li>Luyện tập nói và viết tiếng Anh với cấu trúc mới.</li>
-			
-				</ol>
-
-			{/* Bạn đã sẵn sàng chinh phục tiếng Anh? */}
-
-			<h3 className="margin-y-50 text-center">Bạn đã sẵn sàng chinh phục tiếng Anh?</h3>
-
-			<p>Đổi cấu trúc tiếng Việt để đồng nhất với tiếng Anh là một phương pháp học hiệu quả mà bạn không nên bỏ qua. Hãy thử và chia sẻ kết quả của bạn nhé! 😊 Với sự kiên trì và luyện tập, bạn sẽ chinh phục tiếng Anh và mở ra cơ hội mới trong cuộc sống.</p>
-
-			<p>Vậy, bạn còn chờ gì? Hãy bắt đầu hành trình chinh phục tiếng Anh ngay hôm nay! 🚀</p>
+			<p><strong>Thử ngay hôm nay và comment kết quả nhé</strong>! Bạn sẽ bất ngờ với tốc độ tiến bộ. Tiếng Anh không khó, chỉ cần <strong>đổi cấu trúc là bay cao</strong>!</p>
 
 			<div className="viewcounter">
 			
 				<div className="post-date no-margin">
-					<span>January 12, 2026 · by MetaAI and 🐝Mr. Bee Osn ·</span>
+					<span>January 12, 2026 · by PPLX and 🐝Mr. Bee Osn ·</span>
 				</div>
 
 				<div className="eye-icon no-margin">
