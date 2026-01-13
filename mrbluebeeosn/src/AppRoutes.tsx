@@ -121,6 +121,7 @@ const Posts = lazy(() => import('@/data/Posts'));
 	const ThinkStraightFlowFast5 = lazy(() => import('@/2_main/english/tienganh/ThinkStraightFlowFast5'));
 	const ThinkStraightFlowFast6 = lazy(() => import('@/2_main/english/tienganh/ThinkStraightFlowFast6'));
 	const ThinkStraightFlowFast7 = lazy(() => import('@/2_main/english/tienganh/ThinkStraightFlowFast7'));
+	const ThinkStraightFlowFast8 = lazy(() => import('@/2_main/english/tienganh/ThinkStraightFlowFast8'));
 
 	const NamDangDongTuVangRong2 = lazy(() => import('@/2_main/english/tienganh/folder/NamDangDongTuVangRong2'));
 	const NamDangDongTuVangRong1 = lazy(() => import('@/2_main/english/tienganh/folder/NamDangDongTuVangRong1'));
@@ -512,6 +513,7 @@ export default function AppRoutes(): React.JSX.Element {
 					<Route path="/tieng-anh/think-straight-flow-fast-5" element={<ThinkStraightFlowFast5 />} />
 					<Route path="/tieng-anh/think-straight-flow-fast-6" element={<ThinkStraightFlowFast6 />} />
 					<Route path="/tieng-anh/think-straight-flow-fast-7" element={<ThinkStraightFlowFast7 />} />
+					<Route path="/tieng-anh/think-straight-flow-fast-8" element={<ThinkStraightFlowFast8 />} />
 
 
 					<Route path="/tieng-anh/5-dang-dong-tu-vang-rong-2" element={<NamDangDongTuVangRong2 />} />

@@ -406,6 +406,9 @@ export default function TiengAnhIndex(): React.JSX.Element {
                 <Link to="/tieng-anh/think-straight-flow-fast-7">
                   <sup>&nbsp;7&nbsp;</sup>
                 </Link>
+                <Link to="/tieng-anh/think-straight-flow-fast-8">
+                  <sup>&nbsp;8&nbsp;</sup>
+                </Link>
               </div>
             </li>
 

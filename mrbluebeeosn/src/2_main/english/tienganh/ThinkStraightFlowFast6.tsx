@@ -17,7 +17,7 @@ export default function ThinkStraightFlowFast6(): React.JSX.Element {
 		
 			<h4><HashLink smooth to="/tieng-anh#tieng-anh-terms"><mark className="highlight-tertiary-padding-4-8">Tiếng Anh</mark></HashLink></h4>
 
-			<h1 className="margin-y-50 text-center">Think straight - Flow fast
+			<h1 className="margin-y-50 text-center">Think straight
 															
 				<sup><HashLink smooth to="/tieng-anh/think-straight-flow-fast-1">&nbsp;1&nbsp;</HashLink>
 				</sup>
@@ -40,7 +40,12 @@ export default function ThinkStraightFlowFast6(): React.JSX.Element {
 				<sup><HashLink smooth to="/tieng-anh/think-straight-flow-fast-7">&nbsp;7&nbsp;</HashLink>
 				</sup>
 
+				<sup><HashLink smooth to="/tieng-anh/think-straight-flow-fast-8">&nbsp;8&nbsp;</HashLink>
+				</sup>
+
 			</h1>
+
+			<h2 className="margin-bottom-50 text-center">Flow fast</h2>
 
 			<h4 className="margin-bottom-30 text-center">🌟 Bí Mật Học Tiếng Anh: Đổi Cấu Trúc Tiếng Việt Để Não Bộ “Chảy” Ngôn Ngữ Tự Nhiên</h4>
 
