@@ -213,7 +213,8 @@ export default function ThinkStraightFlowFast5(): React.JSX.Element {
 						<tr>
 								<td>Beautiful girl</td>
 								<td>
-									<Link to="/tieng-anh/the-beauty-of-the-girl-1"><strong>Vẻ đẹp</strong> của cô gái</Link>
+									<strong>Vẻ đẹp</strong> của cô gái -&nbsp;
+									<Link to="/tieng-anh/the-beauty-of-the-girl-1">read more</Link>
 								</td>
 						</tr>
 
