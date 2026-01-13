@@ -108,6 +108,8 @@ export default function ThinkStraightFlowFast1(): React.JSX.Element {
 			
 				</ul>
 
+			{/* Lời kết: */}
+
 			<h3 className="margin-y-50 text-center">Lời kết:</h3>
 
 			<p>Ngôn ngữ là một dòng chảy. Đừng cố gắng bơi ngược dòng bằng những thói quen cũ. Hãy dũng cảm thay đổi cấu trúc tư duy, cho phép thông tin được trôi xuôi chiều từ trái sang phải. Đó là lúc bạn không còn "học" tiếng Anh nữa, mà bạn đang thực sự sở hữu nó.</p>

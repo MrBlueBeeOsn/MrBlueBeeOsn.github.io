@@ -194,6 +194,8 @@ export default function ThinkStraightFlowFast2(): React.JSX.Element {
 
 			<p>Bạn không cần nói ra ngoài. Chỉ cần làm trong đầu.</p>
 
+			{/* Phần Thưởng Lớn Nhất Đang Chờ Đợi */}
+
 			<h3 className="margin-y-50 text-center">Phần Thưởng Lớn Nhất Đang Chờ Đợi</h3>
 
 			<p>Sau 7 ngày đó, bạn sẽ khám phá ra một sự thật: Bạn không học tiếng Anh. Bạn đang "lập trình lại" bộ não của mình.</p>

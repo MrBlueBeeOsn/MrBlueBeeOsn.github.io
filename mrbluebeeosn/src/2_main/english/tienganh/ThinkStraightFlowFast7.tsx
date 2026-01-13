@@ -92,6 +92,8 @@ export default function ThinkStraightFlowFast7(): React.JSX.Element {
 			
 				</ol>
 
+			{/* Bạn đã sẵn sàng chinh phục tiếng Anh? */}
+
 			<h3 className="margin-y-50 text-center">Bạn đã sẵn sàng chinh phục tiếng Anh?</h3>
 
 			<p>Đổi cấu trúc tiếng Việt để đồng nhất với tiếng Anh là một phương pháp học hiệu quả mà bạn không nên bỏ qua. Hãy thử và chia sẻ kết quả của bạn nhé! 😊 Với sự kiên trì và luyện tập, bạn sẽ chinh phục tiếng Anh và mở ra cơ hội mới trong cuộc sống.</p>

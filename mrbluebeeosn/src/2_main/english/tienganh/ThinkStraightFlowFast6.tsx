@@ -151,6 +151,8 @@ export default function ThinkStraightFlowFast6(): React.JSX.Element {
 			
 				</ul>
 
+			{/* 🌟 Kết luận */}
+
 			<h3 className="margin-y-50 text-center">🌟 Kết luận</h3>
 
 			<p>Đây là một phương pháp học tiếng Anh đột phá nhưng ít người chia sẻ: hãy đồng bộ cấu trúc tiếng Việt với tiếng Anh bằng cách đặt tính từ trước danh từ. Ban đầu nghe hơi lạ, nhưng lâu dần bạn sẽ thấy nó cực kỳ hữu ích.</p>

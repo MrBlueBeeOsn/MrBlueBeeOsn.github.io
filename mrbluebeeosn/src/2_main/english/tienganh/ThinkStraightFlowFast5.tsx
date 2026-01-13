@@ -390,6 +390,8 @@ export default function ThinkStraightFlowFast5(): React.JSX.Element {
 
 			<p>Bắt đầu ngay bây giờ. Não bạn sẽ cảm ơn bạn.</p>
 
+			{/* P/S: Nhìn ra cửa sổ và thử ngay: */}
+
 			<h3 className="margin-y-50 text-center">P/S: Nhìn ra cửa sổ và thử ngay:</h3>
 
 			<p>Không phải "bầu trời xanh" → "Xanh bầu trời"</p>

@@ -204,6 +204,8 @@ export default function ThinkStraightFlowFast3(): React.JSX.Element {
 
 			<p className="margin-top-20">Ban đầu nghe không quen, nhưng chính sự "lạ" đó tạo kênh mới trong não. Sau 1 tháng, bạn sẽ ngạc nhiên vì dịch nhanh hơn, nói mượt hơn, ít lỗi trật tự từ hẳn!</p>
 
+			{/* Kết: Đây Là "Bí Kíp Ẩn" Đỉnh Cao */}
+
 			<h3 className="margin-y-50 text-center">Kết: Đây Là "Bí Kíp Ẩn" Đỉnh Cao</h3>
 
 			<p>Học tiếng Anh không phải lúc nào cũng nhồi từ vựng hay ngữ pháp.</p>
