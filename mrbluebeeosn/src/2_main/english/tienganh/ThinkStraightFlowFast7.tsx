@@ -72,10 +72,13 @@ export default function ThinkStraightFlowFast7(): React.JSX.Element {
 			
 				<ol>
 
-					<li>Tăng tốc độ dịch: Não bộ sẽ quen với cấu trúc tiếng Anh và dịch nhanh hơn.</li>
-					<li>Cải thiện khả năng giao tiếp: Bạn sẽ nói và viết tiếng Anh tự nhiên hơn.</li>
-					<li>Học từ vựng hiệu quả: Bạn sẽ nhớ từ vựng lâu hơn khi học trong cấu trúc câu.</li>
-					<li>Tăng khả năng phản xạ: Bạn sẽ phản ứng nhanh hơn khi nghe hoặc đọc tiếng Anh.</li>
+					<li><strong>Tăng tốc độ dịch</strong>: Não bộ sẽ quen với cấu trúc tiếng Anh và dịch nhanh hơn.</li>
+
+					<li><strong>Cải thiện khả năng giao tiếp</strong>: Bạn sẽ nói và viết tiếng Anh tự nhiên hơn.</li>
+
+					<li><strong>Học từ vựng hiệu quả</strong>: Bạn sẽ nhớ từ vựng lâu hơn khi học trong cấu trúc câu.</li>
+
+					<li><strong>Tăng khả năng phản xạ</strong>: Bạn sẽ phản ứng nhanh hơn khi nghe hoặc đọc tiếng Anh.</li>
 			
 				</ol>
 

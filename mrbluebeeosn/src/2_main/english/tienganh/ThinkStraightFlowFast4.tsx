@@ -50,29 +50,25 @@ export default function ThinkStraightFlowFast4(): React.JSX.Element {
 
 			<p>Có một sự thật hơi khó chấp nhận khi học tiếng Anh:</p>
 
-			<p className="quote">Vấn đề lớn nhất của người Việt không phải là thiếu từ vựng. Mà là não phải dịch ngược quá nhiều lần.</p>
+			<p className="quote"><strong>Vấn đề lớn nhất của người Việt không phải là thiếu từ vựng. Mà là não phải dịch ngược quá nhiều lần</strong>.</p>
 
 			<p className="margin-top-20">Chúng ta học tiếng Anh nhiều năm.</p>
 
 			<p>Biết không ít từ.</p>
-
 			<p>Hiểu khi đọc, hiểu khi nghe.</p>
-			
 			<p>Nhưng khi nói thì:</p>
 				
 				<ol>
 
 					<li>chậm</li>
-
 					<li>khựng</li>
-
 					<li>và luôn có cảm giác “não bị kẹt”.</li>
 			
 				</ol>
 
 			<p className="margin-top-20">Mình từng như vậy.</p>
 
-			<p>Cho đến khi mình thử một cách học rất lạ — nhưng cực kỳ hiệu quả.</p>
+			<p>Cho đến khi mình thử <strong>một cách học rất lạ</strong> — <strong>nhưng cực kỳ hiệu quả</strong>.</p>
 
 			{/* 🧠 Khoảnh khắc nhận ra vấn đề thật sự nằm ở đâu */}
 
@@ -80,16 +76,14 @@ export default function ThinkStraightFlowFast4(): React.JSX.Element {
 
 			<p>Hãy nhìn cụm từ quen thuộc này:</p>
 
-			<p className="quote">useful information</p>
+			<p className="quote"><strong>useful information</strong></p>
 
 			<p>Cách học truyền thống:</p>
 				
 				<ul className="list-square">
 
 					<li>dịch sang tiếng Việt: thông tin hữu ích</li>
-
 					<li>khi nói tiếng Anh:</li>
-
 					<li className="list-none">thông tin → hữu ích → đảo ngược → useful information</li>
 			
 				</ul>
@@ -99,18 +93,15 @@ export default function ThinkStraightFlowFast4(): React.JSX.Element {
 				<ol>
 
 					<li>đi từ trái sang phải (tiếng Việt)</li>
-
 					<li>quay đầu xe</li>
-
 					<li>sắp xếp lại</li>
-
 					<li>rồi mới nói ra tiếng Anh</li>
 			
 				</ol>
 
-			<p className="margin-top-20">Mỗi câu nói là một lần não bị bẻ lái.</p>
+			<p className="margin-top-20">Mỗi câu nói là một lần <strong>não bị bẻ lái</strong>.</p>
 
-			<p>Và não… rất ghét việc đó.</p>
+			<p>Và não… <strong>rất ghét việc đó</strong>.</p>
 
 			{/* 🔁 Giải pháp không nằm ở tiếng Anh — mà nằm ở tiếng Việt */}
 
@@ -122,13 +113,13 @@ export default function ThinkStraightFlowFast4(): React.JSX.Element {
 
 			<p>Hãy thử hỏi:</p>
 
-			<p className="quote">“Vì sao não mình phải dịch ngược?”</p>
+			<p className="quote">“<strong>Vì sao não mình phải dịch ngược</strong>?”</p>
 
 			<p>Và câu trả lời là:</p>
 				
 				<ul className="list-square">
 
-					<li className="list-none">👉 Vì cấu trúc tiếng Việt và tiếng Anh không đồng nhất.</li>
+					<li className="list-none">👉 <strong>Vì cấu trúc tiếng Việt và tiếng Anh không đồng nhất</strong>.</li>
 			
 				</ul>
 
@@ -137,7 +128,6 @@ export default function ThinkStraightFlowFast4(): React.JSX.Element {
 				<ul className="list-square">
 
 					<li>danh từ → tính chất</li>
-
 					<li className="list-none">thông tin hữu ích</li>
 			
 				</ul>
@@ -147,7 +137,6 @@ export default function ThinkStraightFlowFast4(): React.JSX.Element {
 				<ul className="list-square">
 
 					<li>tính từ → danh từ</li>
-
 					<li className="list-none">useful information</li>
 			
 				</ul>
@@ -158,17 +147,15 @@ export default function ThinkStraightFlowFast4(): React.JSX.Element {
 
 			<p>Cách mình làm rất đơn giản — nhưng hiệu quả đến bất ngờ:</p>
 
-			<p className="quote">Chuyển cấu trúc tiếng Việt sang cùng trật tự với tiếng Anh. Tính từ đứng trước danh từ</p>
+			<p className="quote"><strong>Chuyển cấu trúc tiếng Việt sang cùng trật tự với tiếng Anh. Tính từ đứng trước danh từ</strong></p>
 			
 			<p>Ví dụ:</p>
 				
 				<ul className="list-square">
 			
-					<li>useful information → hữu ích thông tin</li>
-
-					<li>important decision → quan trọng quyết định</li>
-
-					<li>big problem → lớn vấn đề</li>
+					<li>useful information → <strong>hữu ích thông tin</strong></li>
+					<li>important decision → <strong>quan trọng quyết định</strong></li>
+					<li>big problem → <strong>lớn vấn đề</strong></li>
 			
 				</ul>
 
@@ -180,11 +167,11 @@ export default function ThinkStraightFlowFast4(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li className="list-none">👉 Não không phải dịch ngược nữa.</li>
+					<li className="list-none">👉 <strong>Não không phải dịch ngược nữa</strong>.</li>
 			
 				</ul>
 
-			<p className="margin-top-20">Ngôn ngữ bắt đầu chảy từ trái sang phải.</p>
+			<p className="margin-top-20">Ngôn ngữ bắt đầu <strong>chảy từ trái sang phải</strong>.</p>
 
 			{/* 🌍 Vì sao người Đức, Hà Lan, Thụy Điển học tiếng Anh rất nhanh? */}
 
@@ -192,7 +179,7 @@ export default function ThinkStraightFlowFast4(): React.JSX.Element {
 
 			<p>Đây là điều ít ai nói rõ:</p>
 
-			<p className="quote">Người Đức, Hà Lan, Thụy Điển, Trung Quốc, Hàn Quốc, Nhật Bản học tiếng Anh dễ hơn người Việt không phải vì họ giỏi hơn — mà vì cấu trúc ngôn ngữ của họ đã đồng nhất sẵn.</p>
+			<p className="quote">Người Đức, Hà Lan, Thụy Điển, Trung Quốc, Hàn Quốc, Nhật Bản học tiếng Anh <strong>dễ hơn người Việt</strong> không phải vì họ giỏi hơn — mà vì <strong>cấu trúc ngôn ngữ của họ đã đồng nhất sẵn</strong>.</p>
 
 			<p>Trong ngôn ngữ của họ:</p>
 				
@@ -206,8 +193,7 @@ export default function ThinkStraightFlowFast4(): React.JSX.Element {
 				
 				<ul className="list-square">
 			
-					<li className="list-none">👉 Não không cần đảo cấu trúc</li>
-
+					<li className="list-none">👉 <strong>Não không cần đảo cấu trúc</strong></li>
 					<li className="list-none">👉 Chỉ cần học từ mới</li>
 			
 				</ul>
@@ -217,10 +203,8 @@ export default function ThinkStraightFlowFast4(): React.JSX.Element {
 				<ul className="list-square">
 
 					<li>học từ</li>
-
 					<li>học cấu trúc</li>
-
-					<li>rồi còn phải đảo ngược trong đầu</li>
+					<li>rồi còn phải <strong>đảo ngược trong đầu</strong></li>
 			
 				</ul>
 
@@ -230,19 +214,19 @@ export default function ThinkStraightFlowFast4(): React.JSX.Element {
 
 			<p>Điều thú vị là:</p>
 
-			<p>👉 Tiếng Việt không hề “không cho phép” tính từ đứng trước danh từ</p>
+			<p>👉 <strong>Tiếng Việt không hề</strong> “<strong>không cho phép</strong>” <strong>tính từ đứng trước danh từ</strong></p>
 			
 			<p>Ví dụ:</p>
 				
 				<ul className="list-square">
 			
-					<li>tính hữu ích của thông tin (the usefulness of information)</li>
+					<li><strong>tính hữu ích của thông tin</strong> (the usefulness of information)</li>
 			
-					<li>giá trị dữ liệu</li>
+					<li><strong>giá trị dữ liệu</strong></li>
 			
-					<li>tính hiệu quả của phương pháp</li>
+					<li><strong>tính hiệu quả của phương pháp</strong></li>
 
-					<li>mức độ quan trọng của vấn đề</li>
+					<li><strong>mức độ quan trọng của vấn đề</strong></li>
 			
 				</ul>
 
@@ -250,9 +234,9 @@ export default function ThinkStraightFlowFast4(): React.JSX.Element {
 			
 				<ul className="list-square">
 
-					<li className="list-none">👉 Não người Việt hoàn toàn có khả năng này</li>
+					<li className="list-none">👉 Não người Việt <strong>hoàn toàn có khả năng này</strong></li>
 
-					<li className="list-none">👉 Chỉ là chúng ta chưa tăng tần suất sử dụng nó khi học ngoại ngữ</li>
+					<li className="list-none">👉 Chỉ là chúng ta chưa <strong>tăng tần suất sử dụng nó khi học ngoại ngữ</strong></li>
 			
 				</ul>
 
@@ -260,15 +244,15 @@ export default function ThinkStraightFlowFast4(): React.JSX.Element {
 
 			<h3 className="margin-y-50 text-center">🔥 Quy tắc vàng: đừng quay đầu xe</h3>
 
-			<p>Khi gặp cụm tính từ – danh từ trong tiếng Anh:</p>
+			<p>Khi gặp <strong>cụm tính từ</strong> – <strong>danh từ trong tiếng Anh</strong>:</p>
 			
 				<ol>
 
-					<li>Dịch xuôi từ trái sang phải</li>
+					<li><strong>Dịch xuôi từ trái sang phải</strong></li>
 
-					<li>Giữ nguyên trật tự</li>
+					<li><strong>Giữ nguyên trật tự</strong></li>
 
-					<li>Đừng quay ngược về cấu trúc tiếng Việt quen thuộc</li>
+					<li><strong>Đừng quay ngược về cấu trúc tiếng Việt quen thuộc</strong></li>
 			
 				</ol>
 
@@ -276,29 +260,27 @@ export default function ThinkStraightFlowFast4(): React.JSX.Element {
 			
 				<ul className="list-square">
 
-					<li>interesting idea → thú vị ý tưởng</li>
-
-					<li>difficult problem → khó vấn đề</li>
-
-					<li>useful advice → hữu ích lời khuyên</li>
+					<li>interesting idea → <strong>thú vị ý tưởng</strong></li>
+					<li>difficult problem → <strong>khó vấn đề</strong></li>
+					<li>useful advice → <strong>hữu ích lời khuyên</strong></li>
 			
 				</ul>
 
 			<p className="margin-top-20">Ban đầu, tai bạn sẽ thấy lạ.</p>
 
-			<p>Nhưng não bạn sẽ thấy… nhẹ.</p>
+			<p>Nhưng não bạn sẽ thấy… <strong>nhẹ</strong>.</p>
 
 			{/* 🧩 Điều quan trọng: đây không phải cách nói chuyện hằng ngày */}
 
 			<h3 className="margin-y-50 text-center">🧩 Điều quan trọng: đây không phải cách nói chuyện hằng ngày</h3>
 
-			<p>Bạn không cần nói như vậy với người khác.</p>
+			<p>Bạn <strong>không cần nói như vậy với người khác</strong>.</p>
 
-			<p>Bạn không viết văn như vậy để giao tiếp.</p>
+			<p>Bạn <strong>không viết văn như vậy để giao tiếp</strong>.</p>
 
 			<p>Bạn đang tạo ra:</p>
 
-			<p className="quote">một “phiên bản tiếng Việt trung gian” để huấn luyện não học tiếng Anh nhanh hơn.</p>
+			<p className="quote"><strong>một</strong> “<strong>phiên bản tiếng Việt trung gian</strong>” để huấn luyện não học tiếng Anh nhanh hơn.</p>
 
 			<p>Giống như:</p>
 			
@@ -306,7 +288,7 @@ export default function ThinkStraightFlowFast4(): React.JSX.Element {
 
 					<li>❌ Không dành cho người chỉ cần hiểu đại khái</li>
 
-					<li>✅ Dành cho người muốn nói nhanh – hiểu nhanh – dùng thật</li>
+					<li>✅ Dành cho người muốn <strong>nói nhanh</strong> – <strong>hiểu nhanh</strong> – <strong>dùng thật</strong></li>
 			
 				</ul>
 
@@ -314,13 +296,12 @@ export default function ThinkStraightFlowFast4(): React.JSX.Element {
 
 			<p>Bạn không cần đổi cách nhìn thế giới.</p>
 
-			<p>👉 Bạn chỉ cần đổi thứ tự ngôn ngữ trong đầu.</p>
+			<p>👉 Bạn chỉ cần <strong>đổi thứ tự ngôn ngữ trong đầu</strong>.</p>
 
 			<p>Nghe có vẻ lạ.</p>
-
 			<p>Nhưng nếu bạn thử đủ lâu, bạn sẽ nhận ra:</p>
 
-			<p className="quote">Có những cách học cực kỳ hiệu quả — chỉ là chưa ai nói rõ cho bạn nghe</p>
+			<p className="quote"><strong>Có những cách học cực kỳ hiệu quả</strong> — <strong>chỉ là chưa ai nói rõ cho bạn nghe</strong></p>
 
 			<div className="viewcounter">
 			

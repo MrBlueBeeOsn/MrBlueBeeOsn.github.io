@@ -44,11 +44,11 @@ export default function ThinkStraightFlowFast6(): React.JSX.Element {
 
 			<h4 className="margin-bottom-30 text-center">🌟 Bí Mật Học Tiếng Anh: Đổi Cấu Trúc Tiếng Việt Để Não Bộ “Chảy” Ngôn Ngữ Tự Nhiên</h4>
 
-			<p>Bạn có bao giờ thấy mình bị khựng lại khi dịch từ tiếng Việt sang tiếng Anh? Nguyên nhân không phải vì bạn thiếu từ vựng, mà vì não bộ đang phải đảo ngược cấu trúc. Tiếng Việt quen với danh từ + tính từ (cô gái xinh, ly cà phê nóng), trong khi tiếng Anh lại đi theo hướng ngược lại: tính từ + danh từ (beautiful girl, hot coffee).</p>
+			<p>Bạn có bao giờ thấy mình bị khựng lại khi dịch từ tiếng Việt sang tiếng Anh? Nguyên nhân không phải vì bạn thiếu từ vựng, mà vì <strong>não bộ đang phải đảo ngược cấu trúc</strong>. Tiếng Việt quen với danh từ + tính từ (cô gái xinh, ly cà phê nóng), trong khi tiếng Anh lại đi theo hướng ngược lại: <strong>tính từ</strong> + <strong>danh từ</strong> (beautiful girl, hot coffee).</p>
 
 			<p>Mỗi lần dịch, bạn phải “quay ngược xe”: nghĩ girl beautiful rồi mới sửa thành beautiful girl. Chính sự đảo chiều này làm tốc độ xử lý ngôn ngữ chậm lại, khiến bạn mất đi sự tự nhiên.</p>
 					
-			<p>Nhưng có một phương pháp cực kỳ hiệu quả — và gần như chưa ai kể cho bạn nghe: hãy đổi cấu trúc tiếng Việt để đồng nhất với tiếng Anh, đặt tính từ đứng trước danh từ.</p>
+			<p>Nhưng có một phương pháp cực kỳ hiệu quả — và gần như chưa ai kể cho bạn nghe: <strong>hãy đổi cấu trúc tiếng Việt để đồng nhất với tiếng Anh</strong>, đặt tính từ đứng trước danh từ.</p>
 
 			{/* ✨ Tư duy mới: dịch xuôi, không đảo ngược */}
 
@@ -64,7 +64,7 @@ export default function ThinkStraightFlowFast6(): React.JSX.Element {
 			
 				</ul>
 
-			<p className="margin-top-20">Nghe có vẻ lạ tai, nhưng khi bạn tập luyện, não bộ sẽ quen với việc chảy ngôn ngữ từ trái sang phải, không cần đảo ngược.</p>
+			<p className="margin-top-20">Nghe có vẻ lạ tai, nhưng khi bạn tập luyện, não bộ sẽ quen với việc <strong>chảy ngôn ngữ từ trái sang phải</strong>, không cần đảo ngược.</p>
 
 			{/* 🌍 Vì sao cách này cực kỳ hữu ích? */}
 
@@ -72,13 +72,13 @@ export default function ThinkStraightFlowFast6(): React.JSX.Element {
 			
 				<ul className="list-square">
 
-					<li>Đồng nhất với tiếng Anh: Các ngôn ngữ như Đức, Hà Lan, Thụy Điển, Trung Quốc, Hàn Quốc, Nhật Bản… đều có cấu trúc tính từ trước danh từ, nên họ học tiếng Anh dễ dàng hơn.</li>
+					<li><strong>Đồng nhất với tiếng Anh</strong>: Các ngôn ngữ như Đức, Hà Lan, Thụy Điển, Trung Quốc, Hàn Quốc, Nhật Bản… đều có cấu trúc tính từ trước danh từ, nên họ học tiếng Anh dễ dàng hơn.</li>
 
-					<li>Tiếng Việt cũng có dạng này (dù ít phổ biến): ví dụ hữu ích thông tin (useful information), hoặc tính hữu ích của thông tin (the usefulness of information).</li>
+					<li><strong>Tiếng Việt cũng có dạng này</strong> (<strong>dù ít phổ biến</strong>): ví dụ hữu ích thông tin (useful information), hoặc tính hữu ích của thông tin (the usefulness of information).</li>
 		
-					<li>Giảm tải cho não bộ: dịch xuôi, không phải đảo ngược, giúp tốc độ xử lý nhanh hơn.</li>
+					<li><strong>Giảm tải cho não bộ</strong>: dịch xuôi, không phải đảo ngược, giúp tốc độ xử lý nhanh hơn.</li>
 			
-					<li>Tăng khả năng tư duy song ngữ: bạn sẽ thấy tiếng Anh “chảy” tự nhiên hơn, không bị khựng lại.</li>
+					<li><strong>Tăng khả năng tư duy song ngữ</strong>: bạn sẽ thấy tiếng Anh “chảy” tự nhiên hơn, không bị khựng lại.</li>
 			
 				</ul>
 
@@ -135,9 +135,9 @@ export default function ThinkStraightFlowFast6(): React.JSX.Element {
 			
 				<ol>
 
-					<li>Viết lại cụm từ tiếng Việt theo cấu trúc tính từ trước danh từ.</li>
-					<li>Dịch xuôi sang tiếng Anh mà không đảo ngược.</li>
-					<li>Thực hành thường xuyên để não bộ quen với dòng chảy ngôn ngữ từ trái sang phải.</li>
+					<li><strong>Viết lại cụm từ tiếng Việt</strong> theo cấu trúc tính từ trước danh từ.</li>
+					<li><strong>Dịch xuôi sang tiếng Anh</strong> mà không đảo ngược.</li>
+					<li><strong>Thực hành thường xuyên</strong> để não bộ quen với dòng chảy ngôn ngữ từ trái sang phải.</li>
 			
 				</ol>
 
@@ -155,9 +155,9 @@ export default function ThinkStraightFlowFast6(): React.JSX.Element {
 
 			<h3 className="margin-y-50 text-center">🌟 Kết luận</h3>
 
-			<p>Đây là một phương pháp học tiếng Anh đột phá nhưng ít người chia sẻ: hãy đồng bộ cấu trúc tiếng Việt với tiếng Anh bằng cách đặt tính từ trước danh từ. Ban đầu nghe hơi lạ, nhưng lâu dần bạn sẽ thấy nó cực kỳ hữu ích.</p>
+			<p>Đây là một phương pháp học tiếng Anh <strong>đột phá nhưng ít người chia sẻ</strong>: hãy <strong>đồng bộ cấu trúc tiếng Việt với tiếng Anh</strong> bằng cách đặt tính từ trước danh từ. Ban đầu nghe hơi lạ, nhưng lâu dần bạn sẽ thấy nó cực kỳ hữu ích.</p>
 
-			<p>Bạn không chỉ học từ vựng, mà còn tập cho não bộ một thói quen mới: dịch xuôi, không đảo ngược, để ngôn ngữ chảy tự nhiên. Đây chính là bí quyết giúp bạn tăng tốc độ, giảm gánh nặng, và tiến gần hơn đến tư duy bản ngữ. 🚀</p>
+			<p>Bạn không chỉ học từ vựng, mà còn <strong>tập cho não bộ một thói quen mới</strong>: dịch xuôi, không đảo ngược, để ngôn ngữ chảy tự nhiên. Đây chính là bí quyết giúp bạn tăng tốc độ, giảm gánh nặng, và tiến gần hơn đến tư duy bản ngữ. 🚀</p>
 
 			<div className="viewcounter">
 			

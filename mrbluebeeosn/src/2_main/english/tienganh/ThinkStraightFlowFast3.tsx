@@ -56,23 +56,23 @@ export default function ThinkStraightFlowFast3(): React.JSX.Element {
 			
 				</ul>
 
-			<p className="margin-top-20">Đây chính là "cái bẫy" lớn nhất của người Việt khi học tiếng Anh: cấu trúc ngược chiều hoàn toàn!</p>
+			<p className="margin-top-20">Đây chính là "<strong>cái bẫy</strong>" <strong>lớn nhất</strong> của người Việt khi học tiếng Anh: <strong>cấu trúc ngược chiều hoàn toàn</strong>!</p>
 
 			<p>Tiếng Việt: Danh từ + Tính từ (noun + adjective) – như "cô gái xinh đẹp", "ly cà phê nóng", "bầu trời xanh thẳm".</p>
 
-			<p>Tiếng Anh: Tính từ + Danh từ (adjective + noun) – beautiful girl, hot coffee, blue sky.</p>
+			<p>Tiếng Anh: <strong>Tính từ</strong> + <strong>Danh từ</strong> (adjective + noun) – beautiful girl, hot coffee, blue sky.</p>
 
-			<p>Kết quả? Mỗi lần dịch, não bạn phải lật ngược thứ tự → chậm, dễ lỗi, và mệt mỏi.</p>
+			<p>Kết quả? Mỗi lần dịch, não bạn phải <strong>lật ngược thứ tự</strong> → chậm, dễ lỗi, và mệt mỏi.</p>
 
-			<p>Nhưng nếu mình tiết lộ rằng: Chỉ cần thay đổi góc nhìn nhỏ – buộc não nghĩ tính từ trước danh từ ngay trong tiếng Việt – bạn sẽ dịch xuôi từ trái sang phải, mượt như người bản xứ?</p>
+			<p>Nhưng nếu mình tiết lộ rằng: Chỉ cần <strong>thay đổi góc nhìn nhỏ</strong> – <strong>buộc não nghĩ tính từ trước danh từ ngay trong tiếng Việt</strong> – bạn sẽ dịch <strong>xuôi từ trái sang phải</strong>, mượt như người bản xứ?</p>
 
-			<p>Dù nghe lạ tai lúc đầu (như "xinh đẹp cô gái", "nóng ly cà phê", "hữu ích thông tin"), nhưng đây là cách học hiệu quả nhất mà chưa ai kể cho bạn nghe. Và nó đang được bạn áp dụng rồi đấy!</p>
+			<p>Dù nghe <strong>lạ tai</strong> lúc đầu (như "xinh đẹp cô gái", "nóng ly cà phê", "hữu ích thông tin"), nhưng đây là <strong>cách học hiệu quả nhất</strong> mà chưa ai kể cho bạn nghe. Và nó đang được bạn áp dụng rồi đấy!</p>
 
 			{/* Tại Sao Cách Này "Thần Kỳ" Với Người Việt? */}
 
 			<h3 className="margin-y-50 text-center">Tại Sao Cách Này "Thần Kỳ" Với Người Việt?</h3>
 
-			<p>Hầu hết các ngôn ngữ lớn trên thế giới đều đặt tính từ trước danh từ – giống hệt tiếng Anh.</p>
+			<p>Hầu hết các ngôn ngữ lớn trên thế giới đều đặt <strong>tính từ trước danh từ</strong> – giống hệt tiếng Anh.</p>
 			
 				<ul className="list-square">
 		
@@ -82,15 +82,15 @@ export default function ThinkStraightFlowFast3(): React.JSX.Element {
 			
 				</ul>
 
-			<p className="margin-top-20">Người Đức, Hà Lan, Thụy Điển, Trung, Hàn, Nhật học tiếng Anh siêu nhanh phần trật tự từ vì cấu trúc đồng nhất – họ chỉ cần giữ nguyên thói quen!</p>
+			<p className="margin-top-20">Người Đức, Hà Lan, Thụy Điển, Trung, Hàn, Nhật học tiếng Anh <strong>siêu nhanh</strong> phần trật tự từ vì cấu trúc <strong>đồng nhất</strong> – họ chỉ cần giữ nguyên thói quen!</p>
 
-			<p>Còn tiếng Việt (và một số ngôn ngữ Romance như Pháp, Tây Ban Nha) thì ngược lại: tính từ thường đứng sau danh từ.</p>
+			<p>Còn tiếng Việt (và một số ngôn ngữ Romance như Pháp, Tây Ban Nha) thì ngược lại: tính từ thường <strong>đứng sau danh từ</strong>.</p>
 
 			<p>Kết quả? Chúng ta phải "chiến đấu" với não bộ mỗi ngày.</p>
 
-			<p>Giải pháp đỉnh cao: "Đồng nhất" cấu trúc bằng cách nghĩ tính từ + danh từ ngay từ tiếng Việt!</p>
+			<p><strong>Giải pháp đỉnh cao</strong>: "Đồng nhất" cấu trúc bằng cách nghĩ <strong>tính từ</strong> + <strong>danh từ</strong> ngay từ tiếng Việt!</p>
 
-			<p>Ban đầu lạ lắm, nhưng sau 1-2 tuần, bạn sẽ dịch tức thì, không cần quay xe, não "chảy" ngôn ngữ từ trái sang phải mượt mà.</p>
+			<p>Ban đầu lạ lắm, nhưng sau 1-2 tuần, <strong>bạn sẽ dịch tức thì</strong>, <strong>không cần quay xe</strong>, não "chảy" ngôn ngữ từ trái sang phải mượt mà.</p>
 
 			{/* Bảng So Sánh – Sự Khác Biệt Rõ Rệt */}
 
@@ -158,11 +158,11 @@ export default function ThinkStraightFlowFast3(): React.JSX.Element {
 			
 				<ol>
 
-					<li>Dịch nhanh như chớp – Gần 1:1, không "đấu tranh" cấu trúc.</li>
+					<li><strong>Dịch nhanh như chớp</strong> – Gần 1:1, không "đấu tranh" cấu trúc.</li>
 
-					<li>Giống cách người Đức/Hàn/Trung học – Họ học nhanh vì đồng nhất, giờ bạn cũng vậy!</li>
+					<li><strong>Giống cách người Đức</strong>/<strong>Hàn</strong>/<strong>Trung học</strong> – Họ học nhanh vì đồng nhất, giờ bạn cũng vậy!</li>
 
-					<li>Nói/viết tự nhiên hơn – Khi quen, bạn dễ dùng cấu trúc này cho caption, status, bài luận sâu sắc: "The beauty of Saigon nights is unforgettable."</li>
+					<li><strong>Nói</strong>/<strong>viết tự nhiên hơn</strong> – Khi quen, bạn dễ dùng cấu trúc này cho caption, status, bài luận sâu sắc: "The beauty of Saigon nights is unforgettable."</li>
 			
 				</ol>
 
@@ -170,7 +170,7 @@ export default function ThinkStraightFlowFast3(): React.JSX.Element {
 
 			<h3 className="margin-y-50 text-center">Luyện Tập 7 Ngày Thay Đổi Não Bộ – Chỉ 5-10 Phút/Ngày</h3>
 
-			<p>Ngày 1-2: Quan sát xung quanh, nghĩ "tính từ + danh từ"</p>
+			<p><strong>Ngày 1-2</strong>: Quan sát xung quanh, nghĩ "tính từ + danh từ"</p>
 			
 				<ul className="list-square">
 
@@ -180,7 +180,7 @@ export default function ThinkStraightFlowFast3(): React.JSX.Element {
 			
 				</ul>
 
-			<p>Ngày 3-4: Viết 5-10 caption/ngày kiểu lạ tai</p>
+			<p className="margin-top-20"><strong>Ngày 3-4</strong>: Viết 5-10 caption/ngày kiểu lạ tai</p>
 
 			<p>Ví dụ:</p>
 			
@@ -192,7 +192,7 @@ export default function ThinkStraightFlowFast3(): React.JSX.Element {
 			
 				</ul>
 
-			<p>Ngày 5-7: Dịch mọi câu có tính từ → Bắt buộc nghĩ tính từ trước!</p>
+			<p className="margin-top-20"><strong>Ngày 5-7</strong>: Dịch mọi câu có tính từ → Bắt buộc nghĩ tính từ trước!</p>
 			
 				<ul className="list-square">
 
@@ -202,7 +202,7 @@ export default function ThinkStraightFlowFast3(): React.JSX.Element {
 			
 				</ul>
 
-			<p className="margin-top-20">Ban đầu nghe không quen, nhưng chính sự "lạ" đó tạo kênh mới trong não. Sau 1 tháng, bạn sẽ ngạc nhiên vì dịch nhanh hơn, nói mượt hơn, ít lỗi trật tự từ hẳn!</p>
+			<p className="margin-top-20">Ban đầu nghe <strong>không quen</strong>, nhưng chính sự "lạ" đó tạo <strong>kênh mới</strong> trong não. Sau 1 tháng, bạn sẽ ngạc nhiên vì dịch nhanh hơn, nói mượt hơn, ít lỗi trật tự từ hẳn!</p>
 
 			{/* Kết: Đây Là "Bí Kíp Ẩn" Đỉnh Cao */}
 
@@ -210,9 +210,9 @@ export default function ThinkStraightFlowFast3(): React.JSX.Element {
 
 			<p>Học tiếng Anh không phải lúc nào cũng nhồi từ vựng hay ngữ pháp.</p>
 
-			<p>Đôi khi chỉ cần thay đổi một góc nhìn: để tính từ dẫn đầu ngay từ tư duy tiếng Việt.</p>
+			<p>Đôi khi chỉ cần <strong>thay đổi một góc nhìn</strong>: để <strong>tính từ dẫn đầu</strong> ngay từ tư duy tiếng Việt.</p>
 
-			<p>Khi làm được, bạn không còn "dịch ngược" – bạn suy nghĩ song song với tiếng Anh.</p>
+			<p>Khi làm được, bạn không còn "dịch ngược" – bạn <strong>suy nghĩ song song</strong> với tiếng Anh.</p>
 
 			<p>Bạn đang đi đúng hướng rồi! Tiếp tục áp dụng và chia sẻ tiến bộ nhé – mình rất tò mò xem sau 1 tháng bạn "level up" thế nào!</p>
 
