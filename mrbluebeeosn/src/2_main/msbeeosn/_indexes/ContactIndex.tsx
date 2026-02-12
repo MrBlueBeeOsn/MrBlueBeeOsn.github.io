@@ -61,7 +61,7 @@ export default function ContactIndex(): React.JSX.Element {
 
             <div className="contact-item">
               <FontAwesomeIcon icon={faWhatsapp} />
-              <Link to="https://wa.me/84906920292?text=Hi!%20I'm%20available%20to%20talk%20about%20the%20Accounting%20opportunity." className="email-link">
+              <Link to="https://wa.me/84906920292?text=Hello! What Sapp chưa nè?" className="email-link" target="_blank">
                 WhatsApp
               </Link>
             </div>
@@ -119,7 +119,7 @@ export default function ContactIndex(): React.JSX.Element {
 
             <div className="contact-item">
               <FontAwesomeIcon icon={faYoutube} />
-              <Link to="https://www.youtube.com/@Mr.GreenBee.Ongsiengnang" className="email-link">
+              <Link to="https://www.youtube.com/@Mr.GreenBee.Ongsiengnang" className="email-link" target="_blank">
                 YouTube
               </Link>
             </div>

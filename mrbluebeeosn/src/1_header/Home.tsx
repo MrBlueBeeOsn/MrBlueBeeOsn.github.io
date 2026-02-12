@@ -85,7 +85,7 @@ export default function Home(): React.JSX.Element {
 
             <div className="contact-item">
               <FontAwesomeIcon icon={faWhatsapp} />
-              <Link to="https://wa.me/84906920292?text=Hello! What Sapp chưa nè?" className="email-link">
+              <Link to="https://wa.me/84906920292?text=Hello! What Sapp chưa nè?" className="email-link" target="_blank">
                 WhatsApp
               </Link>
             </div>
