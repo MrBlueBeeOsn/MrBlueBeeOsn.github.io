@@ -66,12 +66,6 @@ export default function Home(): React.JSX.Element {
           </div>
         </div>
 
-        <p className="margin-bottom-50 text-center text-small">
-            
-          __Summer, 2025 · by <Link to="/about">Mr. ßee</Link>--
-          
-        </p>
-
       </article>
 
       <div className="container">
@@ -113,6 +107,12 @@ export default function Home(): React.JSX.Element {
       	</div>
 
       </div>
+
+      <p className="margin-y-50 text-center text-small">
+            
+        __Summer, 2025 · by <Link to="/about">Mr. ßee</Link>--
+          
+      </p>
 
     </main>
 
