@@ -26,6 +26,46 @@ export default function Home(): React.JSX.Element {
 
       <article>
 
+        <div className="margin-top-50">
+      
+          <header className="portfolio-header title">
+
+            <h1 className="name">ßee EngDev</h1>
+            <div className="title">🐝 🅴nglish learner</div>
+            
+            <div className="contact-info">
+
+              <div className="contact-item">
+                <FontAwesomeIcon icon={faInstagram} />
+                <Link to="https://www.instagram.com/mr.bluebee.ongsiengnang/" className="email-link" target="_blank">
+                  Instagram
+                </Link>
+              </div>
+
+              <div className="contact-item">
+                <FontAwesomeIcon icon={faWhatsapp} />
+                <Link to="https://wa.me/84906920292?text=Hello! What Sapp chưa nè?" className="email-link" target="_blank">
+                  WhatsApp
+                </Link>
+              </div>
+
+              <div className="contact-item">
+                <FontAwesomeIcon icon={faGithub} />
+                <Link to="https://github.com/MrBlueBeeOsn" className="email-link" target="_blank">
+                  GitHub
+                </Link>
+              </div>
+
+            </div>
+
+          </header>
+
+          <div className="bee-wrapper1">
+            <img src="/assets/images/bee2.png" alt="Mr. Bee Osn"/>
+          </div>
+
+        </div>
+
         <h1 className="margin-y-50 text-center">🌻 Welcome!</h1>
 
         <div className="table-search margin-bottom-50">
@@ -66,53 +106,13 @@ export default function Home(): React.JSX.Element {
           </div>
         </div>
 
-      </article>
-
-      <div className="container">
-      
-        <header className="portfolio-header title">
-
-          <h1 className="name">ßee EngDev</h1>
-          <div className="title">🐝 🅴nglish learner</div>
-          
-          <div className="contact-info">
-
-            <div className="contact-item">
-              <FontAwesomeIcon icon={faInstagram} />
-              <Link to="https://www.instagram.com/mr.bluebee.ongsiengnang/" className="email-link" target="_blank">
-                Instagram
-              </Link>
-            </div>
-
-            <div className="contact-item">
-              <FontAwesomeIcon icon={faWhatsapp} />
-              <Link to="https://wa.me/84906920292?text=Hello! What Sapp chưa nè?" className="email-link" target="_blank">
-                WhatsApp
-              </Link>
-            </div>
-
-            <div className="contact-item">
-              <FontAwesomeIcon icon={faGithub} />
-              <Link to="https://github.com/MrBlueBeeOsn" className="email-link" target="_blank">
-                GitHub
-              </Link>
-            </div>
-
-          </div>
-
-        </header>
-
-        <div className="bee-wrapper1">
-          <img src="/assets/images/bee2.png" alt="Mr. Bee Osn"/>
-      	</div>
-
-      </div>
-
-      <p className="margin-y-50 text-center text-small">
+        <p className="margin-bottom-50 text-center text-small">
             
-        __Summer, 2025 · by <Link to="/about">Mr. ßee</Link>--
-          
-      </p>
+          __Summer, 2025 · by <Link to="/about">Mr. ßee</Link>--
+            
+        </p>
+
+      </article>
 
     </main>
 

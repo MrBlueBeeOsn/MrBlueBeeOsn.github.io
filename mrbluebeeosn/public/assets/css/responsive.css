@@ -188,6 +188,15 @@
 				opacity: 20%;
 			}
 
+			.bee-wrapper1 {
+				position: absolute; /* Định vị tuyệt đối */
+				top: 105px;
+				left: 45px;
+				width: 120px; /* Kích thước hình ảnh */
+				height: auto;
+				opacity: 45%;
+			}
+
 			.bee-wrapper2 {
 				position: absolute; /* Định vị tuyệt đối */
 				bottom: -95px; /* 15px; Gắn sát góc trên */
@@ -345,6 +354,15 @@
 				width: 120px; /* Kích thước hình ảnh */
 				height: auto;
 				opacity: 20%;
+			}
+
+			.bee-wrapper1 {
+				position: absolute; /* Định vị tuyệt đối */
+				top: 103px;
+				left: 25px;
+				width: 120px; /* Kích thước hình ảnh */
+				height: auto;
+				opacity: 45%;
 			}
 
 			.bee-wrapper2 {
