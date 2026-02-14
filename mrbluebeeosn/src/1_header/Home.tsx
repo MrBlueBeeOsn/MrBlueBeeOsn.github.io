@@ -12,11 +12,13 @@ import { faLinkedin } from '@fortawesome/free-brands-svg-icons';
 import { faWhatsapp } from '@fortawesome/free-brands-svg-icons';
 import { faTelegram } from '@fortawesome/free-brands-svg-icons';
 import { faYoutube } from '@fortawesome/free-brands-svg-icons';
+import { faTiktok } from '@fortawesome/free-brands-svg-icons';
 import { faGlobe } from '@fortawesome/free-solid-svg-icons'
 import { faLocationDot } from '@fortawesome/free-solid-svg-icons'
 import { faBookOpenReader } from '@fortawesome/free-solid-svg-icons'
 import { faVolumeHigh } from '@fortawesome/free-solid-svg-icons'
 import { faAt } from '@fortawesome/free-solid-svg-icons'
+import { faGraduationCap } from '@fortawesome/free-solid-svg-icons'
 
 export default function Home(): React.JSX.Element {
   
@@ -32,6 +34,9 @@ export default function Home(): React.JSX.Element {
 
             <h1 className="name">ßee EngDev</h1>
             <div className="title">🐝 🅴nglish learner</div>
+
+            <div className="margin-top-10 location"><FontAwesomeIcon icon={faLocationDot} /> HM District, HCMC</div>
+            <div className="graduation"><FontAwesomeIcon icon={faGraduationCap} /> University of Economics HCMC</div>
             
             <div className="contact-info">
 
@@ -43,18 +48,25 @@ export default function Home(): React.JSX.Element {
               </div>
 
               <div className="contact-item">
+                <FontAwesomeIcon icon={faTiktok} />
+                <Link to="https://www.tiktok.com/@mr.bluebee.ongsiengnang" className="email-link" target="_blank">
+                  TikTok
+                </Link>
+              </div>
+
+              <div className="contact-item">
                 <FontAwesomeIcon icon={faWhatsapp} />
                 <Link to="https://wa.me/84906920292?text=Hello! What Sapp chưa nè?" className="email-link" target="_blank">
                   WhatsApp
                 </Link>
               </div>
 
-              <div className="contact-item">
+              {/* <div className="contact-item">
                 <FontAwesomeIcon icon={faGithub} />
                 <Link to="https://github.com/MrBlueBeeOsn" className="email-link" target="_blank">
                   GitHub
                 </Link>
-              </div>
+              </div> */}
 
             </div>
 

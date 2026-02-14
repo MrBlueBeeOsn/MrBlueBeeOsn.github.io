@@ -75,7 +75,8 @@ body {
 .contact-info {
 	display: flex;
 	justify-content: center;
-	flex-wrap: wrap;
+	flex-wrap: nowrap; /* Không bao giờ xuống dòng */
+	/* flex-wrap: wrap; */
 	gap: 20px;
 	margin-top: 15px;
 }
@@ -196,10 +197,10 @@ section {
 			font-size: 18px;
 	}
 	
-	.contact-info {
+	/* .contact-info {
 			flex-direction: column;
 			gap: 10px;
-	}
+	} */
 	
 	section {
 			padding: 20px;
