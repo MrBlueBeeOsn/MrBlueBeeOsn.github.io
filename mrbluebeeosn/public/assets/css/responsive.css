@@ -65,6 +65,10 @@
 			Nav (Mobile)
 			============================= */
 
+			nav {
+        gap: 0px;
+      }
+			
 			nav a {
 				font-size: 1.8rem;           /* 18px */ /*1.4rem;              /* 14px */
 			}
