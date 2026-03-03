@@ -22,123 +22,123 @@ export default function EVBookkeepingQuiz(): React.JSX.Element {
 	const questions: Question[] = [
 		{
 			id: 1,
-			question: "",
+			question: "Which of the following documents is used to record a sale of goods on credit?",
 			options: [
-				"",
-				"",
-				"",
-				""
+				"Payment Voucher",
+				"Sales Invoice",
+				"Purchase Order",
+				"Credit Note"
 			],
-			correctAnswer: 0,
-			explanation: ""
+			correctAnswer: 1,
+			explanation: "Hóa đơn bán hàng (Sales Invoice) là chứng từ gốc dùng để ghi nhận doanh thu và khoản phải thu khi bán hàng chưa thu tiền ngay."
 		},
 		{
 			id: 2,
-			question: "",
+			question: "In the double-entry system, an increase in an asset account is recorded as a:",
 			options: [
-				"",
-				"",
-				"",
-				""
+				"Credit",
+				"Liability",
+				"Debit",
+				"Equity"
 			],
-			correctAnswer: 0,
-			explanation: ""
+			correctAnswer: 2,
+			explanation: "Theo nguyên tắc bút toán kép, tài sản tăng được ghi vào bên Nợ (Debit), tài sản giảm ghi vào bên Có (Credit)."
 		},
 		{
 			id: 3,
-			question: "",
+			question: "What is the accounting equation?",
 			options: [
-				"",
-				"",
-				"",
-				""
+				"Assets = Liabilities - Equity",
+				"Assets + Liabilities = Equity",
+				"Assets = Liabilities + Equity",
+				"Assets + Equity = Liabilities"
 			],
-			correctAnswer: 0,
-			explanation: ""
+			correctAnswer: 2,
+			explanation: "Phương trình kế toán cơ bản là: Tài sản = Nợ phải trả + Vốn chủ sở hữu."
 		},
 		{
 			id: 4,
-			question: "",
+			question: "Which financial statement shows the financial position of a business at a specific point in time?",
 			options: [
-				"",
-				"",
-				"",
-				""
+				"Income Statement",
+				"Cash Flow Statement",
+				"Statement of Retained Earnings",
+				"Balance Sheet"
 			],
-			correctAnswer: 0,
-			explanation: ""
+			correctAnswer: 3,
+			explanation: "Bảng cân đối kế toán (Balance Sheet) phản ánh tình hình tài chính (tài sản, nguồn vốn) tại một thời điểm nhất định."
 		},
 		{
 			id: 5,
-			question: "",
+			question: "A \"Trial Balance\" is primarily used to check:",
 			options: [
-				"",
-				"",
-				"",
-				""
+				"The profitability of the business",
+				"If total debits equal total credits",
+				"The amount of cash in the bank",
+				"The total tax to be paid"
 			],
-			correctAnswer: 0,
-			explanation: ""
+			correctAnswer: 1,
+			explanation: "Bảng cân đối thử (Trial Balance) được lập để kiểm tra xem tổng số dư bên Nợ có bằng tổng số dư bên Có hay không, nhằm phát hiện sai sót trong quá trình ghi sổ."
 		},
 		{
 			id: 6,
-			question: "",
+			question: "When a business pays its suppliers for goods previously bought on credit, which accounts are affected?",
 			options: [
-				"",
-				"",
-				"",
-				""
+				"Cash (Decrease) and Accounts Payable (Decrease)",
+				"Cash (Decrease) and Accounts Receivable (Decrease)",
+				"Cash (Increase) and Accounts Payable (Increase)",
+				"Inventory (Increase) and Cash (Decrease)"
 			],
 			correctAnswer: 0,
-			explanation: ""
+			explanation: "Khi trả tiền cho nhà cung cấp, tiền mặt (tài sản) giảm và khoản phải trả người bán (nợ phải trả) cũng giảm."
 		},
 		{
 			id: 7,
-			question: "",
+			question: "Which of the following is an example of a \"Current Asset\"?",
 			options: [
-				"",
-				"",
-				"",
-				""
+				"Delivery Truck",
+				"Office Building",
+				"Accounts Receivable",
+				"Long-term Investment"
 			],
-			correctAnswer: 0,
-			explanation: ""
+			correctAnswer: 2,
+			explanation: "Khoản phải thu khách hàng (Accounts Receivable) là tài sản ngắn hạn vì dự kiến sẽ thu được tiền trong vòng một chu kỳ kinh doanh hoặc 12 tháng."
 		},
 		{
 			id: 8,
-			question: "",
+			question: "Depreciation is the process of:",
 			options: [
-				"",
-				"",
-				"",
-				""
+				"Saving money to buy a new asset",
+				"Allocating the cost of a tangible asset over its useful life",
+				"Calculating the current market value of an asset",
+				"Paying off a loan for an asset"
 			],
-			correctAnswer: 0,
-			explanation: ""
+			correctAnswer: 1,
+			explanation: "Khấu hao là việc phân bổ một cách hệ thống giá trị của tài sản cố định hữu hình vào chi phí trong suốt thời gian sử dụng hữu ích của tài sản đó."
 		},
 		{
 			id: 9,
-			question: "",
+			question: "The \"General Ledger\" is best described as:",
 			options: [
-				"",
-				"",
-				"",
-				""
+				"A book of original entry",
+				"A collection of all accounts used by a business",
+				"A list of all employees and their salaries",
+				"A document sent to customers for payment"
 			],
-			correctAnswer: 0,
-			explanation: ""
+			correctAnswer: 1,
+			explanation: "Sổ cái (General Ledger) là tập hợp tất cả các tài khoản kế toán được doanh nghiệp sử dụng để hệ thống hóa thông tin từ sổ nhật ký."
 		},
 		{
 			id: 10,
-			question: "",
+			question: "What is \"Equity\"?",
 			options: [
-				"",
-				"",
-				"",
-				""
+				"The total amount of cash a business has",
+				"The total debt owed by a business",
+				"The residual interest in the assets of a business after deducting liabilities",
+				"The total sales made during a year"
 			],
-			correctAnswer: 0,
-			explanation: ""
+			correctAnswer: 2,
+			explanation: "Vốn chủ sở hữu (Equity) là giá trị còn lại của tài sản doanh nghiệp sau khi đã trừ đi toàn bộ nợ phải trả."
 		}
 	];
 

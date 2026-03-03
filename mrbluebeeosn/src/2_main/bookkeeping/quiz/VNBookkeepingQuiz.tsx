@@ -22,123 +22,123 @@ export default function VNBookkeepingQuiz(): React.JSX.Element {
 	const questions: Question[] = [
 		{
 			id: 1,
-			question: "",
+			question: "Trong hệ thống kế toán kép (Double-entry), nếu một tài khoản Tài sản tăng lên, thì trường hợp nào sau đây có thể xảy ra để đảm bảo cân bằng?",
 			options: [
-				"",
-				"",
-				"",
-				""
+				"Một tài khoản Tài sản khác tăng lên.",
+				"Một tài khoản Nợ phải trả giảm xuống.",
+				"Một tài khoản Vốn chủ sở hữu tăng lên.",
+				"Một tài khoản Chi phí tăng lên."
 			],
-			correctAnswer: 0,
-			explanation: ""
+			correctAnswer: 2,
+			explanation: "Dựa trên phương trình kế toán: Tài sản = Nợ phải trả + Vốn chủ sở hữu. Khi Tài sản tăng, để phương trình cân bằng thì bên phải (Nợ hoặc Vốn) phải tăng, hoặc một Tài sản khác phải giảm đi."
 		},
 		{
 			id: 2,
-			question: "",
+			question: "Tài khoản nào sau đây thường có số dư bình thường nằm bên Có (Credit)?",
 			options: [
-				"",
-				"",
-				"",
-				""
+				"Phải thu khách hàng.",
+				"Chi phí trả trước.",
+				"Tiền mặt.",
+				"Doanh thu bán hàng."
 			],
-			correctAnswer: 0,
-			explanation: ""
+			correctAnswer: 3,
+			explanation: "Tài khoản Doanh thu và Nguồn vốn có tính chất tăng bên Có và số dư bình thường nằm bên Có. Các đáp án a, b, c đều là tài khoản thuộc nhóm Tài sản (số dư bên Nợ)."
 		},
 		{
 			id: 3,
-			question: "",
+			question: "Nghiệp vụ \"Mua máy móc thiết bị chưa thanh toán cho nhà cung cấp\" sẽ ảnh hưởng thế nào đến bảng cân đối kế toán?",
 			options: [
-				"",
-				"",
-				"",
-				""
+				"Tài sản tăng và Nợ phải trả tăng.",
+				"Tài sản tăng và Vốn chủ sở hữu tăng.",
+				"Tài sản tăng và Tài sản khác giảm.",
+				"Nợ phải trả tăng và Vốn chủ sở hữu giảm."
 			],
 			correctAnswer: 0,
-			explanation: ""
+			explanation: "Máy móc (Tài sản) tăng lên, đồng thời phát sinh một khoản nợ (Nợ phải trả) đối với người bán cũng tăng lên."
 		},
 		{
 			id: 4,
-			question: "",
+			question: "Báo cáo nào tóm tắt doanh thu và chi phí của một doanh nghiệp trong một khoảng thời gian cụ thể?",
 			options: [
-				"",
-				"",
-				"",
-				""
+				"Bảng cân đối kế toán.",
+				"Báo cáo lưu chuyển tiền tệ.",
+				"Báo cáo kết quả hoạt động kinh doanh.",
+				"Bảng cân đối thử."
 			],
-			correctAnswer: 0,
-			explanation: ""
+			correctAnswer: 2,
+			explanation: "Báo cáo kết quả hoạt động kinh doanh (P&L) phản ánh tình hình lợi nhuận thông qua chênh lệch giữa Doanh thu và Chi phí trong một kỳ (tháng/quý/năm)."
 		},
 		{
 			id: 5,
-			question: "",
+			question: "Theo \"Nguyên tắc dồn tích\" (Accrual Basis), doanh thu được ghi nhận khi nào?",
 			options: [
-				"",
-				"",
-				"",
-				""
+				"Khi doanh nghiệp đã thực sự nhận được tiền mặt.",
+				"Khi hàng hóa hoặc dịch vụ đã được chuyển giao cho khách hàng.",
+				"Khi doanh nghiệp ký hợp đồng với khách hàng.",
+				"Vào cuối năm tài chính."
 			],
-			correctAnswer: 0,
-			explanation: ""
+			correctAnswer: 1,
+			explanation: "Kế toán dồn tích ghi nhận nghiệp vụ tại thời điểm phát sinh (khi chuyển giao rủi ro và lợi ích), không phụ thuộc vào thời điểm thu hay chi tiền."
 		},
 		{
 			id: 6,
-			question: "",
+			question: "Khi doanh nghiệp dùng tiền gửi ngân hàng để trả nợ cho người bán, định khoản nào sau đây là đúng?",
 			options: [
-				"",
-				"",
-				"",
-				""
+				"Nợ TK Phải trả người bán / Có TK Tiền gửi ngân hàng.",
+				"Nợ TK Tiền gửi ngân hàng / Có TK Phải trả người bán.",
+				"Nợ TK Chi phí / Có TK Tiền gửi ngân hàng.",
+				"Nợ TK Phải trả người bán / Có TK Doanh thu."
 			],
 			correctAnswer: 0,
-			explanation: ""
+			explanation: "Khoản nợ giảm (Ghi Nợ TK Phải trả) và tài sản tiền giảm (Ghi Có TK Tiền gửi ngân hàng)."
 		},
 		{
 			id: 7,
-			question: "",
+			question: "Bảng cân đối thử (Trial Balance) được lập nhằm mục đích chính là gì?",
 			options: [
-				"",
-				"",
-				"",
-				""
+				"Để xác định số thuế phải nộp.",
+				"Để kiểm tra xem tổng số dư Nợ có bằng tổng số dư Có hay không.",
+				"Để thay thế cho Bảng cân đối kế toán.",
+				"Để tính toán tổng tài sản cố định."
 			],
-			correctAnswer: 0,
-			explanation: ""
+			correctAnswer: 1,
+			explanation: "Bảng cân đối thử là công cụ kiểm tra kỹ thuật để đảm bảo các bút toán đã được ghi chép đúng nguyên tắc cân bằng trước khi lập báo cáo tài chính."
 		},
 		{
 			id: 8,
-			question: "",
+			question: "Khoản \"Doanh thu chưa thực hiện\" (Unearned Revenue) được phân loại là gì?",
 			options: [
-				"",
-				"",
-				"",
-				""
+				"Tài sản.",
+				"Vốn chủ sở hữu.",
+				"Nợ phải trả.",
+				"Chi phí."
 			],
-			correctAnswer: 0,
-			explanation: ""
+			correctAnswer: 2,
+			explanation: "Đây là số tiền khách hàng trả trước nhưng doanh nghiệp chưa cung cấp dịch vụ. Doanh nghiệp có nghĩa vụ phải thực hiện dịch vụ đó trong tương lai nên nó là một khoản Nợ."
 		},
 		{
 			id: 9,
-			question: "",
+			question: "Khấu hao tài sản cố định (Depreciation) được ghi nhận nhằm mục đích:",
 			options: [
-				"",
-				"",
-				"",
-				""
+				"Để dành tiền mua tài sản mới.",
+				"Phân bổ chi phí của tài sản vào các kỳ mà nó giúp tạo ra doanh thu.",
+				"Tăng giá trị tài sản trên thị trường.",
+				"Giảm bớt số lượng tài sản hiện có."
 			],
-			correctAnswer: 0,
-			explanation: ""
+			correctAnswer: 1,
+			explanation: "Khấu hao là cách phân bổ giá trị tài sản một cách hệ thống vào chi phí sản xuất kinh doanh trong suốt thời gian sử dụng hữu ích."
 		},
 		{
 			id: 10,
-			question: "",
+			question: "Nếu tổng Tài sản là 1.000 triệu VNĐ và Nợ phải trả là 400 triệu VNĐ, thì Vốn chủ sở hữu là bao nhiêu?",
 			options: [
-				"",
-				"",
-				"",
-				""
+				"1.400 triệu VNĐ.",
+				"400 triệu VNĐ.",
+				"600 triệu VNĐ.",
+				"1.000 triệu VNĐ."
 			],
-			correctAnswer: 0,
-			explanation: ""
+			correctAnswer: 2,
+			explanation: "Áp dụng phương trình kế toán: Vốn chủ sở hữu = Tài sản - Nợ phải trả. Do đó: 1.000 - 400 = 600 triệu VNĐ."
 		}
 	];
 
