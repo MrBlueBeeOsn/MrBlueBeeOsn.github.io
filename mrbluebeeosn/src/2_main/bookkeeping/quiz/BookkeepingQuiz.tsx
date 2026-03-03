@@ -17,7 +17,7 @@ interface Question {
 	explanation: string;
 }
 
-export default function QuestionsandAnswers(): React.JSX.Element {
+export default function BookkeepingQuiz(): React.JSX.Element {
 	// Danh sách câu hỏi về Bookkeeping cơ bản
 	const questions: Question[] = [
 		{

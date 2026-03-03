@@ -73,12 +73,30 @@
       "date": "2024-04-22"
     },
     { 
-      "id": "QuestionsandAnswers",
+      "id": "BookkeepingQuiz",
       "categoryDisplay": "Bookkeeping",
       "categorySlug": "bookkeeping",
       "title": "Quiz",
       "content": "Bookkeeping Questions & Answers",
-      "slug": "bookkeeping/questions-&-answers",
+      "slug": "bookkeeping/bookkeeping-quiz",
+      "date": "2025-12-06"
+    },
+    { 
+      "id": "EVBookkeepingQuiz",
+      "categoryDisplay": "Bookkeeping",
+      "categorySlug": "bookkeeping",
+      "title": "Quiz",
+      "content": "Bookkeeping Questions & Answers",
+      "slug": "bookkeeping/ev-bookkeeping-quiz",
+      "date": "2025-12-06"
+    },
+    { 
+      "id": "VNBookkeepingQuiz",
+      "categoryDisplay": "Bookkeeping",
+      "categorySlug": "bookkeeping",
+      "title": "Quiz",
+      "content": "Bookkeeping Questions & Answers",
+      "slug": "bookkeeping/vn-bookkeeping-quiz",
       "date": "2025-12-06"
     }
   ]

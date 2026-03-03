@@ -43,11 +43,22 @@ export default function BookkeepingIndex(): React.JSX.Element {
 
             <li>
               <div className="li-content">
-                <Link to="/bookkeeping/questions-&-answers">Questions & Answers</Link>
+                <Link to="/bookkeeping/bookkeeping-quiz">Bookkeeping Quiz</Link>
               </div>
             </li>
 
-            
+            <li>
+              <div className="li-content">
+                <Link to="/bookkeeping/ev-bookkeeping-quiz">EV Bookkeeping Quiz</Link>
+              </div>
+            </li>
+
+            <li>
+              <div className="li-content">
+                <Link to="/bookkeeping/vn-bookkeeping-quiz">VN Bookkeeping Quiz</Link>
+              </div>
+            </li>
+
             
           </ul>
 

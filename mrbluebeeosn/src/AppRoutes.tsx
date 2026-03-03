@@ -34,7 +34,9 @@ const Posts = lazy(() => import('@/data/Posts'));
 	const AccountReconciliation = lazy(() => import('@/2_main/bookkeeping/AccountReconciliation'));
 
 	// Quiz
-	const QuestionsandAnswers = lazy(() => import('@/2_main/bookkeeping/quiz/QuestionsandAnswers'));
+	const BookkeepingQuiz = lazy(() => import('@/2_main/bookkeeping/quiz/BookkeepingQuiz'));
+	const EVBookkeepingQuiz = lazy(() => import('@/2_main/bookkeeping/quiz/EVBookkeepingQuiz'));
+	const VNBookkeepingQuiz = lazy(() => import('@/2_main/bookkeeping/quiz/VNBookkeepingQuiz'));
 
 // 2_main import các chức năng và đường dẫn
 
@@ -428,7 +430,9 @@ export default function AppRoutes(): React.JSX.Element {
 					<Route path="/bookkeeping/what-is-account-reconciliation?" element={<AccountReconciliation />} />
 					
 					{/* Quiz */}
-					<Route path="/bookkeeping/questions-&-answers" element={<QuestionsandAnswers />} />
+					<Route path="/bookkeeping/bookkeeping-quiz" element={<BookkeepingQuiz />} />
+					<Route path="/bookkeeping/ev-bookkeeping-Quiz" element={<EVBookkeepingQuiz />} />
+					<Route path="/bookkeeping/vn-bookkeeping-Quiz" element={<VNBookkeepingQuiz />} />
 
 				{/* 2_main Khai báo đường dẫn path cho English */}
 
