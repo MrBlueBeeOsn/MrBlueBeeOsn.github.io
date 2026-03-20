@@ -22,123 +22,123 @@ export default function ENSubjectVerbQuiz(): React.JSX.Element {
 	const questions: Question[] = [
 		{
 			id: 1,
-			question: "",
+			question: "Each of the students _______ to complete the assignment by tomorrow.",
 			options: [
-				"",
-				"",
-				"",
-				""
+				"has",
+				"have",
+				"having",
+				"are"
 			],
 			correctAnswer: 0,
-			explanation: ""
+			explanation: "\"Each\" is a singular pronoun and always takes a singular verb, regardless of the plural noun \"students\" that follows it."
 		},
 		{
 			id: 2,
-			question: "",
+			question: "Either the teacher or the students _______ responsible for the mistake.",
 			options: [
-				"",
-				"",
-				"",
-				""
+				"is",
+				"are",
+				"was",
+				"has"
 			],
-			correctAnswer: 0,
-			explanation: ""
+			correctAnswer: 1,
+			explanation: "When using \"either... or,\" the verb must agree with the subject closest to it. \"Students\" is plural, so the plural verb \"are\" is used."
 		},
 		{
 			id: 3,
-			question: "",
+			question: "The team _______ practice every day after school.",
 			options: [
-				"",
-				"",
-				"",
-				""
+				"do",
+				"practices",
+				"practice",
+				"are practicing"
 			],
-			correctAnswer: 0,
-			explanation: ""
+			correctAnswer: 1,
+			explanation: "Collective nouns like \"team\" are usually treated as singular units when the members are acting together as one body."
 		},
 		{
 			id: 4,
-			question: "",
+			question: "Statistics _______ a difficult subject for many college students.",
 			options: [
-				"",
-				"",
-				"",
-				""
+				"are",
+				"were",
+				"is",
+				"be"
 			],
-			correctAnswer: 0,
-			explanation: ""
+			correctAnswer: 2,
+			explanation: "Although \"statistics\" ends in -s, it refers to a single branch of knowledge or a field of study, which is singular."
 		},
 		{
 			id: 5,
-			question: "",
+			question: "Neither of the movies _______ worth watching.",
 			options: [
-				"",
-				"",
-				"",
-				""
+				"are",
+				"were",
+				"is",
+				"being"
 			],
-			correctAnswer: 0,
-			explanation: ""
+			correctAnswer: 2,
+			explanation: "\"Neither\" is an indefinite pronoun that is treated as singular, even though it refers to two things."
 		},
 		{
 			id: 6,
-			question: "",
+			question: "A number of people _______ waiting in line for the tickets.",
 			options: [
-				"",
-				"",
-				"",
-				""
+				"is",
+				"was",
+				"are",
+				"has been"
 			],
-			correctAnswer: 0,
-			explanation: ""
+			correctAnswer: 2,
+			explanation: "The phrase \"a number of\" is followed by a plural noun and takes a plural verb, whereas \"the number of\" would take a singular verb."
 		},
 		{
 			id: 7,
-			question: "",
+			question: "Rice and beans _______ my favorite meal for lunch.",
 			options: [
-				"",
-				"",
-				"",
-				""
+				"is",
+				"are",
+				"were",
+				"have been"
 			],
 			correctAnswer: 0,
-			explanation: ""
+			explanation: "When two nouns joined by \"and\" refer to a single dish or a unified concept, they take a singular verb."
 		},
 		{
 			id: 8,
-			question: "",
+			question: "There _______ many reasons why we should protect the environment.",
 			options: [
-				"",
-				"",
-				"",
-				""
+				"is",
+				"was",
+				"are",
+				"has"
 			],
-			correctAnswer: 0,
-			explanation: ""
+			correctAnswer: 2,
+			explanation: "In sentences starting with \"there is/are,\" the verb must agree with the noun that follows it. \"Reasons\" is plural, so we use \"are.\""
 		},
 		{
 			id: 9,
-			question: "",
+			question: "Ten dollars _______ too much to pay for a cup of coffee.",
 			options: [
-				"",
-				"",
-				"",
-				""
+				"are",
+				"is",
+				"were",
+				"have been"
 			],
-			correctAnswer: 0,
-			explanation: ""
+			correctAnswer: 1,
+			explanation: "Expressions of time, money, or distance are usually considered a single unit of measurement and take a singular verb."
 		},
 		{
 			id: 10,
-			question: "",
+			question: "The manager, along with his assistants, _______ attending the meeting.",
 			options: [
-				"",
-				"",
-				"",
-				""
+				"are",
+				"is",
+				"have been",
+				"were"
 			],
-			correctAnswer: 0,
-			explanation: ""
+			correctAnswer: 1,
+			explanation: "Phrases like \"along with,\" \"as well as,\" or \"together with\" do not change the number of the subject. The subject is \"The manager\" (singular)."
 		}
 	];
 
