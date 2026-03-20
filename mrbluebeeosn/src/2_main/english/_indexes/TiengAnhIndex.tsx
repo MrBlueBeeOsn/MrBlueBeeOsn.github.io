@@ -144,6 +144,30 @@ export default function TiengAnhIndex(): React.JSX.Element {
 
         </details>
 
+        {/* =============================
+              Subject-Verb Agreement Quiz
+        ============================= */}
+
+        <details className="sub-box-fix-2">
+      
+          <summary id="ev-subject-verb-agreement-basic-practice"><mark className="highlight-secondary-padding-2-4">Subject-Verb Agreement</mark></summary>
+
+          <ul className="list-border1">
+
+            <li>
+              <div className="li-content">
+                <Link to="/tieng-anh/ev-subject-verb-quiz">Trắc Nghiệm Subject-Verb Agreement (SVA)</Link>
+              </div>
+            </li>
+
+            
+            
+          </ul>
+
+        </details>
+
+
+
       </div>
 
       <div className="flex-container margin-top-20">

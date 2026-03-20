@@ -68,7 +68,10 @@ const Posts = lazy(() => import('@/data/Posts'));
 	// Gerunds and Infinitives
 	const GerundsandInfinitivesQuiz = lazy(() => import('@/2_main/english/quiz/vingtov/GerundsandInfinitivesQuiz'));
 
-	
+	// Subject-Verb Agreement
+	const ENSubjectVerbQuiz = lazy(() => import('@/2_main/english/quiz/sva/ENSubjectVerbQuiz'));
+
+
 
 	// 2. Grammar
 	const GrammarIndex = lazy(() => import('@/2_main/english/_indexes/GrammarIndex'));
@@ -169,6 +172,10 @@ const Posts = lazy(() => import('@/data/Posts'));
 
 	// Gerunds and Infinitives
 	const TracNghiemGerundsVaInfinitives = lazy(() => import('@/2_main/english/tienganh/quiz/vingtov/TracNghiemGerundsVaInfinitives'));
+
+	// Subject-Verb Agreement
+	const EVSubjectVerbQuiz = lazy(() => import('@/2_main/english/tienganh/quiz/sva/EVSubjectVerbQuiz'));
+
 	
 	// 5. Vocabulary - Tính chính xác
 	const VocabularyIndex = lazy(() => import('@/2_main/english/_indexes/VocabularyIndex'));
@@ -464,6 +471,11 @@ export default function AppRoutes(): React.JSX.Element {
 					{/* Gerunds and Infinitives */}
 					<Route path="/english/gerunds-and-infinitives-quiz" element={<GerundsandInfinitivesQuiz />} />
 
+					{/* Subject-Verb Agreement */}
+					<Route path="/english/en-subject-verb-quiz" element={<ENSubjectVerbQuiz />} />
+
+
+
 					{/* 2. Grammar */}
 					<Route path="/grammar" element={<GrammarIndex />} />
 					<Route path="/grammar/what-is-an-adverb?" element={<Adverb />} />
@@ -565,6 +577,11 @@ export default function AppRoutes(): React.JSX.Element {
 
 					{/* Gerunds and Infinitives */}
 					<Route path="/tieng-anh/trac-nghiem-gerunds-va-infinitives" element={<TracNghiemGerundsVaInfinitives />} />
+
+					{/* Subject-Verb Agreement */}
+					<Route path="/tieng-anh/ev-subject-verb-quiz" element={<EVSubjectVerbQuiz />} />
+
+
 
 					{/* 5. Vocabulary - Tính chính xác */}
 					<Route path="/vocabulary" element={<VocabularyIndex />} />

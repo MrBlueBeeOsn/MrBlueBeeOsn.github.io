@@ -80,6 +80,15 @@
       "content": "Gerunds and Infinitives Quiz",
       "slug": "english/gerunds-and-infinitives-quiz",
       "date": "2025-12-28"
+    },
+    { 
+      "id": "ENSubjectVerbQuiz",
+      "categoryDisplay": "English",
+      "categorySlug": "english",
+      "title": "Quiz",
+      "content": "Subject-Verb Agreement Quiz",
+      "slug": "english/ev-subject-verb-quiz",
+      "date": "2026-03-20"
     }
   ]
 }

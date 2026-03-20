@@ -296,6 +296,15 @@
 			"content": "KHÓA MỞ CỬA TIẾNG ANH: ĐỔI CẤU TRÚC TIẾNG VIỆT ĐỂ CHINH PHỤC THẾ GIỚI",
 			"slug": "tieng-anh/think-straight-flow-fast-8",
 			"date": "2026-01-12"
+		},
+		{
+			"id": "EVSubjectVerbQuiz",
+			"categoryDisplay": "Tiếng Anh",
+			"categorySlug": "tieng-anh",
+			"title": "EV Subject-Verb Quiz",
+			"content": "Trắc Nghiệm Subject-Verb Agreement (SVA) là một phần quan trọng trong việc học ngữ pháp tiếng Anh. SVA đảm bảo rằng chủ ngữ và động từ trong câu phải phù hợp về số lượng (số ít hoặc số nhiều). Việc nắm vững quy tắc này giúp bạn tránh những lỗi ngữ pháp phổ biến và nâng cao khả năng giao tiếp tiếng Anh của mình.",
+			"slug": "tieng-anh/ev-subject-verb-quiz",
+			"date": "2026-03-20"
 		}
 	]
 }
