@@ -151,7 +151,7 @@ export default function ENSubjectVerbQuiz(): React.JSX.Element {
 				<h4><HashLink smooth to="/english#en-subject-verb-agreement-basic-practice"><mark className="highlight-tertiary-padding-4-8">Quiz</mark></HashLink></h4>
 	
 				<header className="quiz-header">
-					<h1 className="margin-y-50 text-center"></h1>
+					<h1 className="margin-y-50 text-center">Subject-Verb Agreement Quiz</h1>
 					<p className="subtitle text-center">Test your knowledge of fundamental English concepts</p>
 				</header>
 	
