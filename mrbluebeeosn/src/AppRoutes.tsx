@@ -71,6 +71,9 @@ const Posts = lazy(() => import('@/data/Posts'));
 	// Subject-Verb Agreement
 	const ENSubjectVerbQuiz = lazy(() => import('@/2_main/english/quiz/sva/ENSubjectVerbQuiz'));
 
+	// Subject-Verb Agreement
+	const ENAuxiliaryVerbsQuiz = lazy(() => import('@/2_main/english/quiz/auxiliaryverbs/ENAuxiliaryVerbsQuiz'));
+
 
 
 	// 2. Grammar
@@ -175,6 +178,9 @@ const Posts = lazy(() => import('@/data/Posts'));
 
 	// Subject-Verb Agreement
 	const EVSubjectVerbQuiz = lazy(() => import('@/2_main/english/tienganh/quiz/sva/EVSubjectVerbQuiz'));
+
+	// Subject-Verb Agreement
+	const EVAuxiliaryVerbsQuiz = lazy(() => import('@/2_main/english/tienganh/quiz/trodongtu/EVAuxiliaryVerbsQuiz'));
 
 	
 	// 5. Vocabulary - Tính chính xác
@@ -474,6 +480,9 @@ export default function AppRoutes(): React.JSX.Element {
 					{/* Subject-Verb Agreement */}
 					<Route path="/english/en-subject-verb-quiz" element={<ENSubjectVerbQuiz />} />
 
+					{/* Subject-Verb Agreement */}
+					<Route path="/english/en-auxiliary-verbs-quiz" element={<ENAuxiliaryVerbsQuiz />} />
+
 
 
 					{/* 2. Grammar */}
@@ -580,6 +589,9 @@ export default function AppRoutes(): React.JSX.Element {
 
 					{/* Subject-Verb Agreement */}
 					<Route path="/tieng-anh/ev-subject-verb-quiz" element={<EVSubjectVerbQuiz />} />
+
+					{/* Subject-Verb Agreement */}
+					<Route path="/tieng-anh/ev-auxiliary-verbs-quiz" element={<EVAuxiliaryVerbsQuiz />} />
 
 
 

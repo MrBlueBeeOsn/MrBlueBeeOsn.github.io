@@ -84,7 +84,7 @@ export default function TiengAnhIndex(): React.JSX.Element {
 
         <details className="sub-box-fix-2">
       
-          <summary id="phrasal-verbs-basic-practice"><mark className="highlight-secondary-padding-2-4">Cụm động từ</mark></summary>
+          <summary id="cum-dong-tu-basic-practice"><mark className="highlight-secondary-padding-2-4">Cụm động từ</mark></summary>
 
           <ul className="list-border1">
 
@@ -101,12 +101,12 @@ export default function TiengAnhIndex(): React.JSX.Element {
         </details>
 
         {/* =============================
-              Phrasal Verbs Quiz
+              EV Tense Quiz
         ============================= */}
 
         <details className="sub-box-fix-2">
       
-          <summary id="tense-basic-practice"><mark className="highlight-secondary-padding-2-4">Thì</mark></summary>
+          <summary id="ev-tense-basic-practice"><mark className="highlight-secondary-padding-2-4">Thì</mark></summary>
 
           <ul className="list-border1">
 
@@ -165,6 +165,30 @@ export default function TiengAnhIndex(): React.JSX.Element {
           </ul>
 
         </details>
+
+        {/* =============================
+              EV Auxiliary Verbs Quiz
+        ============================= */}
+
+        <details className="sub-box-fix-2">
+      
+          <summary id="ev-auxiliary-verbs-basic-practice"><mark className="highlight-secondary-padding-2-4">Auxiliary Verbs</mark></summary>
+
+          <ul className="list-border1">
+
+            <li>
+              <div className="li-content">
+                <Link to="/tieng-anh/ev-auxiliary-verbs-quiz">Trắc Nghiệm Auxiliary Verbs</Link>
+              </div>
+            </li>
+
+            
+            
+          </ul>
+
+        </details>
+
+        
 
 
 

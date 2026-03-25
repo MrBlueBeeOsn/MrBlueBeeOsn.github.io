@@ -89,6 +89,15 @@
       "content": "Subject-Verb Agreement Quiz",
       "slug": "english/ev-subject-verb-quiz",
       "date": "2026-03-20"
+    },
+    { 
+      "id": "EVAuxiliaryVerbsQuiz",
+      "categoryDisplay": "English",
+      "categorySlug": "english",
+      "title": "Quiz",
+      "content": "Auxiliary Verbs Quiz",
+      "slug": "english/ev-auxiliary-verbs-quiz",
+      "date": "2026-03-25"
     }
   ]
 }

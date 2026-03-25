@@ -148,7 +148,7 @@ export default function PhrasalVerbsQuiz(): React.JSX.Element {
 		
 			<article>
 				
-				<h4><HashLink smooth to="/tieng-anh#phrasal-verbs-basic-practice"><mark className="highlight-tertiary-padding-4-8">Phrasal Verbs</mark></HashLink></h4>
+				<h4><HashLink smooth to="/tieng-anh#cum-dong-tu-basic-practice"><mark className="highlight-tertiary-padding-4-8">Phrasal Verbs</mark></HashLink></h4>
 	
 				<header className="quiz-header">
 					<h1 className="margin-y-50 text-center">Trắc Nghiệm Phrasal Verbs</h1>

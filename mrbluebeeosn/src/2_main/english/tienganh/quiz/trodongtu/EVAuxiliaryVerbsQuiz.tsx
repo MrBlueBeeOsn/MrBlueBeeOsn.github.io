@@ -17,8 +17,8 @@ interface Question {
 	explanation: string;
 }
 
-export default function (): React.JSX.Element {
-	// Danh sách câu hỏi về Phrasal Verbs cơ bản
+export default function EVAuxiliaryVerbsQuiz(): React.JSX.Element {
+	// Danh sách câu hỏi về Tiếng Anh cơ bản
 	const questions: Question[] = [
 		{
 			id: 1,
@@ -148,11 +148,11 @@ export default function (): React.JSX.Element {
 		
 			<article>
 				
-				<h4><HashLink smooth to="/tieng-anh#cum-dong-tu-basic-practice"><mark className="highlight-tertiary-padding-4-8">Phrasal Verbs</mark></HashLink></h4>
+				<h4><HashLink smooth to="/tieng-anh#ev-auxiliary-verbs-basic-practice"><mark className="highlight-tertiary-padding-4-8">Tiếng Anh</mark></HashLink></h4>
 	
 				<header className="quiz-header">
 					<h1 className="margin-y-50 text-center"></h1>
-					<p className="subtitle text-center">Test your knowledge of fundamental phrasal verbs</p>
+					<p className="subtitle text-center">Test your knowledge of fundamental ngữ pháp tiếng Anh concepts</p>
 				</header>
 	
 				<EnglishPracticeQuiz questions={questions} />
@@ -160,7 +160,7 @@ export default function (): React.JSX.Element {
 				<div className="viewcounter">
 	
 					<div className="post-date no-margin">
-						<span> · by 💎Gem ·</span>
+						<span>March 25, 2026 · by 💎Gem ·</span>
 					</div>
 	
 				</div>

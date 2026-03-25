@@ -305,6 +305,15 @@
 			"content": "Trắc Nghiệm Subject-Verb Agreement (SVA) là một phần quan trọng trong việc học ngữ pháp tiếng Anh. SVA đảm bảo rằng chủ ngữ và động từ trong câu phải phù hợp về số lượng (số ít hoặc số nhiều). Việc nắm vững quy tắc này giúp bạn tránh những lỗi ngữ pháp phổ biến và nâng cao khả năng giao tiếp tiếng Anh của mình.",
 			"slug": "tieng-anh/ev-subject-verb-quiz",
 			"date": "2026-03-20"
+		},
+		{
+			"id": "EVAuxiliaryVerbsQuiz",
+			"categoryDisplay": "Tiếng Anh",
+			"categorySlug": "tieng-anh",
+			"title": "EV Auxiliary Verbs Quiz",
+			"content": "Trắc Nghiệm Auxiliary Verbs là một phần quan trọng trong việc học ngữ pháp tiếng Anh. Việc nắm vững các động từ phụ trợ giúp bạn xây dựng câu đúng và giao tiếp hiệu quả hơn.",
+			"slug": "tieng-anh/ev-auxiliary-verbs-quiz",
+			"date": "2026-03-25"
 		}
 	]
 }
