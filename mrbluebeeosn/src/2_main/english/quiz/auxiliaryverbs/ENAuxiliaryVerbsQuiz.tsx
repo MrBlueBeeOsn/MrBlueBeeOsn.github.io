@@ -137,7 +137,7 @@ export default function ENAuxiliaryVerbsQuiz(): React.JSX.Element {
 				"do",
 				"have"
 			],
-			correctAnswer: 0,
+			correctAnswer: 1,
 			explanation: "The structure \"be + going to\" is used to express future intentions. \"We\" requires the auxiliary \"are.\""
 		}
 	];
@@ -151,7 +151,7 @@ export default function ENAuxiliaryVerbsQuiz(): React.JSX.Element {
 				<h4><HashLink smooth to="/english#en-auxiliary-verbs-basic-practice"><mark className="highlight-tertiary-padding-4-8">Quiz</mark></HashLink></h4>
 	
 				<header className="quiz-header">
-					<h1 className="margin-y-50 text-center"></h1>
+					<h1 className="margin-y-50 text-center">Auxiliary Verbs Quiz</h1>
 					<p className="subtitle text-center">Test your knowledge of fundamental English concepts</p>
 				</header>
 	
