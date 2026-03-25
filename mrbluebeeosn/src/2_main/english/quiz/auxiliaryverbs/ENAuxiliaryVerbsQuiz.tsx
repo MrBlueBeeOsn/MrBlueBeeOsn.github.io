@@ -22,123 +22,123 @@ export default function ENAuxiliaryVerbsQuiz(): React.JSX.Element {
 	const questions: Question[] = [
 		{
 			id: 1,
-			question: "",
+			question: "She ___ not like to eat spicy food for dinner.",
 			options: [
-				"",
-				"",
-				"",
-				""
+				"do",
+				"does",
+				"did",
+				"is"
 			],
-			correctAnswer: 0,
-			explanation: ""
+			correctAnswer: 1,
+			explanation: "The subject \"She\" is third-person singular, so the auxiliary verb \"does\" is used in the present simple negative form."
 		},
 		{
 			id: 2,
-			question: "",
+			question: "___ you see the solar eclipse that happened last night?",
 			options: [
-				"",
-				"",
-				"",
-				""
+				"Do",
+				"Done",
+				"Did",
+				"Have"
 			],
-			correctAnswer: 0,
-			explanation: ""
+			correctAnswer: 2,
+			explanation: "\"Did\" is used as the auxiliary verb to form questions in the past simple tense."
 		},
 		{
 			id: 3,
-			question: "",
+			question: "I ___ been working on this accounting report for three hours.",
 			options: [
-				"",
-				"",
-				"",
-				""
+				"am",
+				"has",
+				"have",
+				"was"
 			],
-			correctAnswer: 0,
-			explanation: ""
+			correctAnswer: 2,
+			explanation: "This sentence is in the present perfect continuous tense (Subject + have/has + been + V-ing), and \"I\" takes the auxiliary \"have.\""
 		},
 		{
 			id: 4,
-			question: "",
+			question: "They ___ planning to launch the new software next month.",
 			options: [
-				"",
-				"",
-				"",
-				""
+				"are",
+				"is",
+				"was",
+				"been"
 			],
 			correctAnswer: 0,
-			explanation: ""
+			explanation: "The sentence uses the present continuous tense for a future arrangement. \"They\" is a plural subject, requiring the auxiliary \"are.\""
 		},
 		{
 			id: 5,
-			question: "",
+			question: "The keys ___ found by the janitor under the desk.",
 			options: [
-				"",
-				"",
-				"",
-				""
+				"did",
+				"were",
+				"have",
+				"be"
 			],
-			correctAnswer: 0,
-			explanation: ""
+			correctAnswer: 1,
+			explanation: "This is a passive voice sentence in the past simple (be + past participle). Since \"keys\" is plural, \"were\" is the correct auxiliary."
 		},
 		{
 			id: 6,
-			question: "",
+			question: "___ she ever traveled to Europe before?",
 			options: [
-				"",
-				"",
-				"",
-				""
+				"Does",
+				"Is",
+				"Has",
+				"Did"
 			],
-			correctAnswer: 0,
-			explanation: ""
+			correctAnswer: 2,
+			explanation: "To form a question in the present perfect tense (Have/Has + subject + past participle), we use \"Has\" for the third-person singular \"she.\""
 		},
 		{
 			id: 7,
-			question: "",
+			question: "You ___ not have to finish the task today; tomorrow is fine.",
 			options: [
-				"",
-				"",
-				"",
-				""
+				"does",
+				"are",
+				"do",
+				"did"
 			],
-			correctAnswer: 0,
-			explanation: ""
+			correctAnswer: 2,
+			explanation: "In the present simple negative, \"do not\" (don't) is used with the subject \"You.\""
 		},
 		{
 			id: 8,
-			question: "",
+			question: "What ___ you doing when the power went out?",
 			options: [
-				"",
-				"",
-				"",
-				""
+				"was",
+				"were",
+				"did",
+				"are"
 			],
-			correctAnswer: 0,
-			explanation: ""
+			correctAnswer: 1,
+			explanation: "This is the past continuous tense (was/were + V-ing) used for an action in progress in the past. \"You\" always takes \"were.\""
 		},
 		{
 			id: 9,
-			question: "",
+			question: "He ___ just finished his CPA exam.",
 			options: [
-				"",
-				"",
-				"",
-				""
+				"is",
+				"does",
+				"has",
+				"was"
 			],
-			correctAnswer: 0,
-			explanation: ""
+			correctAnswer: 2,
+			explanation: "The word \"just\" indicates the present perfect tense. \"He\" is third-person singular, so it requires \"has.\""
 		},
 		{
 			id: 10,
-			question: "",
+			question: "We ___ going to attend the seminar in Ho Chi Minh City.",
 			options: [
-				"",
-				"",
-				"",
-				""
+				"will",
+				"are",
+				"do",
+				"have"
 			],
 			correctAnswer: 0,
-			explanation: ""
+			explanation: "The structure \"be + going to\" is used to express future intentions. \"We\" requires the auxiliary \"are.\""
 		}
 	];
 
