@@ -287,6 +287,17 @@
       "likes": 0
     },
     {
+      "id": "PrimaryAuxiliaryVerbsQuiz",
+      "categoryDisplay": "English",
+      "categorySlug": "english",
+      "title": "Quiz",
+      "content": "Primary Auxiliary Verbs Quiz",
+      "slug": "english/primary-auxiliary-verbs-quiz",
+      "date": "2026-03-26",
+      "views": 0,
+      "likes": 0
+    },
+    {
       "id": "Adverb",
       "categoryDisplay": "Grammar",
       "categorySlug": "grammar",
@@ -763,10 +774,21 @@
       "id": "EVAuxiliaryVerbsQuiz",
       "categoryDisplay": "Tiếng Anh",
       "categorySlug": "tieng-anh",
-      "title": "EV Auxiliary Verbs Quiz",
+      "title": "Trắc Nghiệm Auxiliary Verbs",
       "content": "Trắc Nghiệm Auxiliary Verbs là một phần quan trọng trong việc học ngữ pháp tiếng Anh. Việc nắm vững các động từ phụ trợ giúp bạn xây dựng câu đúng và giao tiếp hiệu quả hơn.",
       "slug": "tieng-anh/ev-auxiliary-verbs-quiz",
       "date": "2026-03-25",
+      "views": 0,
+      "likes": 0
+    },
+    {
+      "id": "EVPrimaryAuxiliaryVerbsQuiz",
+      "categoryDisplay": "Tiếng Anh",
+      "categorySlug": "tieng-anh",
+      "title": "Trắc Nghiệm Primary Auxiliary Verbs",
+      "content": "Trắc Nghiệm Primary Auxiliary Verbs là một phần quan trọng trong việc học ngữ pháp tiếng Anh. Việc nắm vững các động từ phụ trợ giúp bạn xây dựng câu đúng và giao tiếp hiệu quả hơn.",
+      "slug": "tieng-anh/ev-primary-auxiliary-verbs-quiz",
+      "date": "2026-03-26",
       "views": 0,
       "likes": 0
     },

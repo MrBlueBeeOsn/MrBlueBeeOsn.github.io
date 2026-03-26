@@ -167,6 +167,28 @@ export default function TiengAnhIndex(): React.JSX.Element {
         </details>
 
         {/* =============================
+              Primary Auxiliary Verbs Quiz
+        ============================= */}
+
+        <details className="sub-box-fix-2">
+      
+          <summary id="ev-primary-auxiliary-verbs-quiz"><mark className="highlight-secondary-padding-2-4">Primary Auxiliary Verbs</mark></summary>
+
+          <ul className="list-border1">
+
+            <li>
+              <div className="li-content">
+                <Link to="/tieng-anh/ev-primary-auxiliary-verbs-quiz">EV - Primary Auxiliary Verbs</Link>
+              </div>
+            </li>
+
+            
+            
+          </ul>
+
+        </details>
+
+        {/* =============================
               EV Auxiliary Verbs Quiz
         ============================= */}
 

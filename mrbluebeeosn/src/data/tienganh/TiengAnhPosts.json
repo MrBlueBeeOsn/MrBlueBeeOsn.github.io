@@ -314,6 +314,15 @@
 			"content": "Trắc Nghiệm Auxiliary Verbs là một phần quan trọng trong việc học ngữ pháp tiếng Anh. Việc nắm vững các động từ phụ trợ giúp bạn xây dựng câu đúng và giao tiếp hiệu quả hơn.",
 			"slug": "tieng-anh/ev-auxiliary-verbs-quiz",
 			"date": "2026-03-25"
+		},
+		{
+			"id": "EVPrimaryAuxiliaryVerbsQuiz",
+			"categoryDisplay": "Tiếng Anh",
+			"categorySlug": "tieng-anh",
+			"title": "Trắc Nghiệm Primary Auxiliary Verbs",
+			"content": "Trắc Nghiệm Primary Auxiliary Verbs là một phần quan trọng trong việc học ngữ pháp tiếng Anh. Việc nắm vững các động từ phụ trợ giúp bạn xây dựng câu đúng và giao tiếp hiệu quả hơn.",
+			"slug": "tieng-anh/ev-primary-auxiliary-verbs-quiz",
+			"date": "2026-03-26"
 		}
 	]
 }

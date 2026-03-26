@@ -71,7 +71,10 @@ const Posts = lazy(() => import('@/data/Posts'));
 	// Subject-Verb Agreement
 	const ENSubjectVerbQuiz = lazy(() => import('@/2_main/english/quiz/sva/ENSubjectVerbQuiz'));
 
-	// Subject-Verb Agreement
+	// Primary Auxiliary Verbs
+	const PrimaryAuxiliaryVerbsQuiz = lazy(() => import('@/2_main/english/quiz/primaryauxiliaryverbs/PrimaryAuxiliaryVerbsQuiz'));
+
+	// Auxiliary Verbs
 	const ENAuxiliaryVerbsQuiz = lazy(() => import('@/2_main/english/quiz/auxiliaryverbs/ENAuxiliaryVerbsQuiz'));
 
 
@@ -179,7 +182,10 @@ const Posts = lazy(() => import('@/data/Posts'));
 	// Subject-Verb Agreement
 	const EVSubjectVerbQuiz = lazy(() => import('@/2_main/english/tienganh/quiz/sva/EVSubjectVerbQuiz'));
 
-	// Subject-Verb Agreement
+	// Primary Auxiliary Verbs
+	const EVPrimaryAuxiliaryVerbsQuiz = lazy(() => import('@/2_main/english/tienganh/quiz/evprimaryauxiliaryverbs/EVPrimaryAuxiliaryVerbsQuiz'));
+
+	// AuxiliaryVerbsQuiz
 	const EVAuxiliaryVerbsQuiz = lazy(() => import('@/2_main/english/tienganh/quiz/trodongtu/EVAuxiliaryVerbsQuiz'));
 
 	
@@ -480,7 +486,10 @@ export default function AppRoutes(): React.JSX.Element {
 					{/* Subject-Verb Agreement */}
 					<Route path="/english/en-subject-verb-quiz" element={<ENSubjectVerbQuiz />} />
 
-					{/* Subject-Verb Agreement */}
+					{/* Primary Auxiliary Verbs */}
+					<Route path="/english/primary-auxiliary-verbs-quiz" element={<PrimaryAuxiliaryVerbsQuiz />} />
+
+					{/* Auxiliary Verbs */}
 					<Route path="/english/en-auxiliary-verbs-quiz" element={<ENAuxiliaryVerbsQuiz />} />
 
 
@@ -590,7 +599,10 @@ export default function AppRoutes(): React.JSX.Element {
 					{/* Subject-Verb Agreement */}
 					<Route path="/tieng-anh/ev-subject-verb-quiz" element={<EVSubjectVerbQuiz />} />
 
-					{/* Subject-Verb Agreement */}
+					{/* Primary Auxiliary Verbs */}
+					<Route path="/tieng-anh/ev-primary-auxiliary-verbs-quiz" element={<EVPrimaryAuxiliaryVerbsQuiz />} />
+
+					{/* Auxiliary Verbs */}
 					<Route path="/tieng-anh/ev-auxiliary-verbs-quiz" element={<EVAuxiliaryVerbsQuiz />} />
 
 
