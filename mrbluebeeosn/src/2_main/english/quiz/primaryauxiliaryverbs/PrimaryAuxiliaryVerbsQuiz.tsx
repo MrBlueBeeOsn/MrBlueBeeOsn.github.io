@@ -22,123 +22,123 @@ export default function PrimaryAuxiliaryVerbsQuiz(): React.JSX.Element {
 	const questions: Question[] = [
 		{
 			id: 1,
-			question: "",
+			question: "She _______ studying for her final exams all day yesterday.",
 			options: [
-				"",
-				"",
-				"",
-				""
+				"does",
+				"has",
+				"was",
+				"is"
 			],
-			correctAnswer: 0,
-			explanation: ""
+			correctAnswer: 2,
+			explanation: "The sentence uses the past continuous tense to describe an action in progress at a specific time in the past, requiring \"was\" for a singular subject."
 		},
 		{
 			id: 2,
-			question: "",
+			question: "_______ you seen the new documentary about space exploration yet?",
 			options: [
-				"",
-				"",
-				"",
-				""
+				"Do",
+				"Have",
+				"Are",
+				"Did"
 			],
-			correctAnswer: 0,
-			explanation: ""
+			correctAnswer: 1,
+			explanation: "This is a present perfect question indicated by \"yet\" and the past participle \"seen,\" so the auxiliary \"have\" is required."
 		},
 		{
 			id: 3,
-			question: "",
+			question: "He _______ not like to eat spicy food because it upsets his stomach.",
 			options: [
-				"",
-				"",
-				"",
-				""
+				"does",
+				"is",
+				"has",
+				"do"
 			],
 			correctAnswer: 0,
-			explanation: ""
+			explanation: "For a negative statement in the present simple tense with a third-person singular subject (He), we use \"does not.\""
 		},
 		{
 			id: 4,
-			question: "",
+			question: "They _______ been working on this project for three months now.",
 			options: [
-				"",
-				"",
-				"",
-				""
+				"are",
+				"do",
+				"have",
+				"were"
 			],
-			correctAnswer: 0,
-			explanation: ""
+			correctAnswer: 2,
+			explanation: "The phrase \"for three months now\" indicates the present perfect continuous tense, which uses \"have been\" + V-ing."
 		},
 		{
 			id: 5,
-			question: "",
+			question: "_______ the children playing in the garden when it started to rain?",
 			options: [
-				"",
-				"",
-				"",
-				""
+				"Do",
+				"Have",
+				"Were",
+				"Did"
 			],
-			correctAnswer: 0,
-			explanation: ""
+			correctAnswer: 2,
+			explanation: "This question refers to an action in progress in the past (past continuous), so the plural auxiliary \"were\" is used for \"the children.\""
 		},
 		{
 			id: 6,
-			question: "",
+			question: "I _______ already finished my homework before my friends arrived.",
 			options: [
-				"",
-				"",
-				"",
-				""
+				"have",
+				"had",
+				"am",
+				"did"
 			],
-			correctAnswer: 0,
-			explanation: ""
+			correctAnswer: 1,
+			explanation: "The sentence describes an action completed before another action in the past, necessitating the past perfect auxiliary \"had.\""
 		},
 		{
 			id: 7,
-			question: "",
+			question: "Why _______ you look so tired this morning?",
 			options: [
-				"",
-				"",
-				"",
-				""
+				"are",
+				"have",
+				"do",
+				"were"
 			],
-			correctAnswer: 0,
-			explanation: ""
+			correctAnswer: 2,
+			explanation: "This is a general question about a current state/feeling in the present simple tense, using \"do\" for the subject \"you.\""
 		},
 		{
 			id: 8,
-			question: "",
+			question: "The windows _______ cleaned by a professional company every month.",
 			options: [
-				"",
-				"",
-				"",
-				""
+				"are",
+				"have",
+				"do",
+				"been"
 			],
 			correctAnswer: 0,
-			explanation: ""
+			explanation: "This is a passive voice sentence in the present simple tense, using \"are\" followed by a past participle for a plural subject."
 		},
 		{
 			id: 9,
-			question: "",
+			question: "She _______ always wanted to travel to Japan.",
 			options: [
-				"",
-				"",
-				"",
-				""
+				"is",
+				"does",
+				"has",
+				"was"
 			],
-			correctAnswer: 0,
-			explanation: ""
+			correctAnswer: 2,
+			explanation: "The past participle \"wanted\" combined with \"always\" indicates the present perfect tense, requiring \"has\" for the subject \"she.\""
 		},
 		{
 			id: 10,
-			question: "",
+			question: "_______ you enjoy the concert last night?",
 			options: [
-				"",
-				"",
-				"",
-				""
+				"Do",
+				"Were",
+				"Have",
+				"Did"
 			],
-			correctAnswer: 0,
-			explanation: ""
+			correctAnswer: 3,
+			explanation: "To form a question about a completed action in the past (\"last night\"), we use the past simple auxiliary \"did.\""
 		}
 	];
 
@@ -151,7 +151,7 @@ export default function PrimaryAuxiliaryVerbsQuiz(): React.JSX.Element {
 				<h4><HashLink smooth to="/english#primary-auxiliary-verbs-quiz"><mark className="highlight-tertiary-padding-4-8">Quiz</mark></HashLink></h4>
 	
 				<header className="quiz-header">
-					<h1 className="margin-y-50 text-center"></h1>
+					<h1 className="margin-y-50 text-center">Primary Auxiliary Verbs Quiz</h1>
 					<p className="subtitle text-center">Test your knowledge of fundamental English concepts</p>
 				</header>
 	
