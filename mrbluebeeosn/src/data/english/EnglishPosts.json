@@ -109,12 +109,30 @@
       "date": "2026-03-26"
     },
     { 
-      "id": "EVSingularPluralVerbsQuiz",
+      "id": "SingularPluralVerbsQuiz",
       "categoryDisplay": "English",
       "categorySlug": "english",
       "title": "Quiz",
       "content": "Singular and Plural Verbs Quiz",
       "slug": "english/singular-and-plural-verbs-quiz",
+      "date": "2026-03-29"
+    },
+    { 
+      "id": "SingularPluralNounsQuiz",
+      "categoryDisplay": "English",
+      "categorySlug": "english",
+      "title": "Quiz",
+      "content": "Singular and Plural Nouns Quiz",
+      "slug": "english/singular-and-plural-nouns-quiz",
+      "date": "2026-03-29"
+    },
+    { 
+      "id": "prepositionsQuiz",
+      "categoryDisplay": "English",
+      "categorySlug": "english",
+      "title": "Quiz",
+      "content": "Prepositions Quiz",
+      "slug": "english/prepositions-quiz",
       "date": "2026-03-29"
     }
   ]

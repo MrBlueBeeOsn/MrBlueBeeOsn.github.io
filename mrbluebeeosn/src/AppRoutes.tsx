@@ -77,8 +77,14 @@ const Posts = lazy(() => import('@/data/Posts'));
 	// Auxiliary Verbs
 	const ENAuxiliaryVerbsQuiz = lazy(() => import('@/2_main/english/quiz/auxiliaryverbs/ENAuxiliaryVerbsQuiz'));
 
-	// Auxiliary Verbs
+	// Singular Plural Verbs
 	const SingularPluralVerbsQuiz = lazy(() => import('@/2_main/english/quiz/singularpluralverbs/SingularPluralVerbsQuiz'));
+
+	// Singular Plural Nouns Quiz
+	const SingularPluralNounsQuiz = lazy(() => import('@/2_main/english/quiz/singularpluralnouns/SingularPluralNounsQuiz'));
+
+	// Prepositions Quiz
+	const PrepositionsQuiz = lazy(() => import('@/2_main/english/quiz/prepositions/PrepositionsQuiz'));
 
 
 
@@ -193,6 +199,12 @@ const Posts = lazy(() => import('@/data/Posts'));
 
 	// EVSingularPluralVerbsQuiz
 	const EVSingularPluralVerbsQuiz = lazy(() => import('@/2_main/english/tienganh/quiz/evsingularpluralverbs/EVSingularPluralVerbsQuiz'));
+
+	// EV Singular Plural Nouns Quiz
+	const EVSingularPluralNounsQuiz = lazy(() => import('@/2_main/english/tienganh/quiz/evsingularpluralnouns/EVSingularPluralNounsQuiz'));
+
+	// EV Prepositions Quiz
+	const EVPrepositionsQuiz = lazy(() => import('@/2_main/english/tienganh/quiz/evprepositions/EVPrepositionsQuiz'));
 
 	
 	// 5. Vocabulary - Tính chính xác
@@ -501,6 +513,12 @@ export default function AppRoutes(): React.JSX.Element {
 					{/* Singular and Plural Verbs */}
 					<Route path="/english/singular-and-plural-verbs-quiz" element={<SingularPluralVerbsQuiz />} />
 
+					{/* Singular Plural Nouns Quiz */}
+					<Route path="/english/singular-and-plural-nouns-quiz" element={<SingularPluralNounsQuiz />} />
+
+					{/* Prepositions Quiz */}
+					<Route path="/english/prepositions-quiz" element={<PrepositionsQuiz />} />
+
 
 
 					{/* 2. Grammar */}
@@ -614,8 +632,14 @@ export default function AppRoutes(): React.JSX.Element {
 					{/* Auxiliary Verbs */}
 					<Route path="/tieng-anh/ev-auxiliary-verbs-quiz" element={<EVAuxiliaryVerbsQuiz />} />
 
-					{/* Auxiliary Verbs */}
+					{/* EVSingularPluralVerbs */}
 					<Route path="/tieng-anh/ev-singular-and-plural-verbs-quiz" element={<EVSingularPluralVerbsQuiz />} />
+
+					{/* EV Singular Plural Nouns Quiz */}
+					<Route path="/tieng-anh/ev-singular-and-plural-nouns-quiz" element={<EVSingularPluralNounsQuiz />} />
+
+					{/* EV Prepositions Quiz */}
+					<Route path="/tieng-anh/ev-prepositions-quiz" element={<EVPrepositionsQuiz />} />
 
 
 

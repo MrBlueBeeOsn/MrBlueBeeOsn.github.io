@@ -232,6 +232,50 @@ export default function TiengAnhIndex(): React.JSX.Element {
 
         </details>
 
+        {/* =============================
+              EV Singular and Plural Nouns Quiz
+        ============================= */}
+
+        <details className="sub-box-fix-2">
+      
+          <summary id="ev-singular-and-plural-nouns-quiz"><mark className="highlight-secondary-padding-2-4">Singular and Plural Nouns</mark></summary>
+
+          <ul className="list-border1">
+
+            <li>
+              <div className="li-content">
+                <Link to="/tieng-anh/ev-singular-and-plural-nouns-quiz">EV - Singular and Plural Nouns</Link>
+              </div>
+            </li>
+
+            
+            
+          </ul>
+
+        </details>
+
+        {/* =============================
+              EV Prepositions Quiz
+        ============================= */}
+
+        <details className="sub-box-fix-2">
+      
+          <summary id="ev-prepositions-quiz"><mark className="highlight-secondary-padding-2-4">Prepositions</mark></summary>
+
+          <ul className="list-border1">
+
+            <li>
+              <div className="li-content">
+                <Link to="/tieng-anh/ev-prepositions-quiz">EV - Prepositions</Link>
+              </div>
+            </li>
+
+            
+            
+          </ul>
+
+        </details>
+
         
 
 
