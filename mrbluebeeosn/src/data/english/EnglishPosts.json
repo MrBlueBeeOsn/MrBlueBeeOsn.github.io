@@ -107,6 +107,15 @@
       "content": "Primary Auxiliary Verbs Quiz",
       "slug": "english/primary-auxiliary-verbs-quiz",
       "date": "2026-03-26"
+    },
+    { 
+      "id": "EVSingularPluralVerbsQuiz",
+      "categoryDisplay": "English",
+      "categorySlug": "english",
+      "title": "Quiz",
+      "content": "Singular and Plural Verbs Quiz",
+      "slug": "english/singular-and-plural-verbs-quiz",
+      "date": "2026-03-29"
     }
   ]
 }

@@ -214,6 +214,28 @@ export default function EnglishIndex(): React.JSX.Element {
 
         </details>
 
+        {/* =============================
+              Singular and Plural Verbs Quiz
+        ============================= */}
+
+        <details className="sub-box-fix-2">
+      
+          <summary id="singular-and-plural-verbs-quiz"><mark className="highlight-secondary-padding-2-4">Singular and Plural Verbs</mark></summary>
+
+          <ul className="list-border1">
+
+            <li>
+              <div className="li-content">
+                <Link to="/english/singular-and-plural-verbs-quiz">Singular and Plural Verbs Quiz</Link>
+              </div>
+            </li>
+
+           
+            
+          </ul>
+
+        </details>
+
 
 
       </div>

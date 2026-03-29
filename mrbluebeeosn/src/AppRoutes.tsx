@@ -77,6 +77,9 @@ const Posts = lazy(() => import('@/data/Posts'));
 	// Auxiliary Verbs
 	const ENAuxiliaryVerbsQuiz = lazy(() => import('@/2_main/english/quiz/auxiliaryverbs/ENAuxiliaryVerbsQuiz'));
 
+	// Auxiliary Verbs
+	const SingularPluralVerbsQuiz = lazy(() => import('@/2_main/english/quiz/singularpluralverbs/SingularPluralVerbsQuiz'));
+
 
 
 	// 2. Grammar
@@ -187,6 +190,9 @@ const Posts = lazy(() => import('@/data/Posts'));
 
 	// AuxiliaryVerbsQuiz
 	const EVAuxiliaryVerbsQuiz = lazy(() => import('@/2_main/english/tienganh/quiz/trodongtu/EVAuxiliaryVerbsQuiz'));
+
+	// EVSingularPluralVerbsQuiz
+	const EVSingularPluralVerbsQuiz = lazy(() => import('@/2_main/english/tienganh/quiz/evsingularpluralverbs/EVSingularPluralVerbsQuiz'));
 
 	
 	// 5. Vocabulary - Tính chính xác
@@ -492,6 +498,9 @@ export default function AppRoutes(): React.JSX.Element {
 					{/* Auxiliary Verbs */}
 					<Route path="/english/en-auxiliary-verbs-quiz" element={<ENAuxiliaryVerbsQuiz />} />
 
+					{/* Singular and Plural Verbs */}
+					<Route path="/english/singular-and-plural-verbs-quiz" element={<SingularPluralVerbsQuiz />} />
+
 
 
 					{/* 2. Grammar */}
@@ -604,6 +613,9 @@ export default function AppRoutes(): React.JSX.Element {
 
 					{/* Auxiliary Verbs */}
 					<Route path="/tieng-anh/ev-auxiliary-verbs-quiz" element={<EVAuxiliaryVerbsQuiz />} />
+
+					{/* Auxiliary Verbs */}
+					<Route path="/tieng-anh/ev-singular-and-plural-verbs-quiz" element={<EVSingularPluralVerbsQuiz />} />
 
 
 

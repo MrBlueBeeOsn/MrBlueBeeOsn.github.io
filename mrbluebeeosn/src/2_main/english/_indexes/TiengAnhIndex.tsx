@@ -210,6 +210,28 @@ export default function TiengAnhIndex(): React.JSX.Element {
 
         </details>
 
+        {/* =============================
+              EV Singular and Plural Verbs Quiz
+        ============================= */}
+
+        <details className="sub-box-fix-2">
+      
+          <summary id="ev-singular-and-plural-verbs-quiz"><mark className="highlight-secondary-padding-2-4">Singular and Plural Verbs</mark></summary>
+
+          <ul className="list-border1">
+
+            <li>
+              <div className="li-content">
+                <Link to="/tieng-anh/ev-singular-and-plural-verbs-quiz">EV - Singular and Plural Verbs</Link>
+              </div>
+            </li>
+
+            
+            
+          </ul>
+
+        </details>
+
         
 
 
