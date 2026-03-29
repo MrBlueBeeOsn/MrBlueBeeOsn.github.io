@@ -22,123 +22,123 @@ export default function SingularPluralVerbsQuiz(): React.JSX.Element {
 	const questions: Question[] = [
 		{
 			id: 1,
-			question: "",
+			question: "Neither the manager nor the employees _______ aware of the new policy changes.",
 			options: [
-				"",
-				"",
-				"",
-				""
+				"is",
+				"are",
+				"was",
+				"has"
 			],
-			correctAnswer: 0,
-			explanation: ""
+			correctAnswer: 1,
+			explanation: "When using \"neither... nor,\" the verb must agree with the noun closest to it. Since \"employees\" is plural, the plural verb \"are\" is required."
 		},
 		{
 			id: 2,
-			question: "",
+			question: "The list of items _______ on the desk for your review.",
 			options: [
-				"",
-				"",
-				"",
-				""
+				"are",
+				"were",
+				"is",
+				"have been"
 			],
-			correctAnswer: 0,
-			explanation: ""
+			correctAnswer: 2,
+			explanation: "The subject is \"The list,\" which is singular. The phrase \"of items\" is a prepositional phrase and does not change the number of the subject."
 		},
 		{
 			id: 3,
-			question: "",
+			question: "Each of the students _______ required to submit a final project by Friday.",
 			options: [
-				"",
-				"",
-				"",
-				""
+				"are",
+				"were",
+				"is",
+				"have"
 			],
-			correctAnswer: 0,
-			explanation: ""
+			correctAnswer: 2,
+			explanation: "\"Each\" is an indefinite pronoun that is always singular, regardless of the plural noun \"students\" that follows it."
 		},
 		{
 			id: 4,
-			question: "",
+			question: "Statistics _______ a difficult subject for many people to master.",
 			options: [
-				"",
-				"",
-				"",
-				""
+				"is",
+				"are",
+				"were",
+				"have been"
 			],
 			correctAnswer: 0,
-			explanation: ""
+			explanation: "When referring to a branch of knowledge or a field of study, words ending in \"-ics\" (like statistics, physics, or mathematics) take a singular verb."
 		},
 		{
 			id: 5,
-			question: "",
+			question: "A pair of scissors _______ in the top drawer of the cabinet.",
 			options: [
-				"",
-				"",
-				"",
-				""
+				"are",
+				"were",
+				"is",
+				"have been"
 			],
-			correctAnswer: 0,
-			explanation: ""
+			correctAnswer: 2,
+			explanation: "While \"scissors\" is plural, the subject \"A pair\" is singular, so it requires the singular verb \"is.\""
 		},
 		{
 			id: 6,
-			question: "",
+			question: "Not only the teacher but also the student _______ excited about the field trip.",
 			options: [
-				"",
-				"",
-				"",
-				""
+				"are",
+				"is",
+				"were",
+				"have been"
 			],
-			correctAnswer: 0,
-			explanation: ""
+			correctAnswer: 1,
+			explanation: "With \"not only... but also,\" the verb agrees with the subject closest to it. \"The student\" is singular, so \"is\" is the correct choice."
 		},
 		{
 			id: 7,
-			question: "",
+			question: "Most of the milk _______ spoiled because it was left out overnight.",
 			options: [
-				"",
-				"",
-				"",
-				""
+				"have",
+				"are",
+				"has",
+				"were"
 			],
-			correctAnswer: 0,
-			explanation: ""
+			correctAnswer: 2,
+			explanation: "\"Most\" can be singular or plural depending on the noun it refers to. Since \"milk\" is uncountable (singular), the verb must be singular (\"has\")."
 		},
 		{
 			id: 8,
-			question: "",
+			question: "Five miles _______ a long distance to run every morning.",
 			options: [
-				"",
-				"",
-				"",
-				""
+				"are",
+				"were",
+				"is",
+				"have been"
 			],
-			correctAnswer: 0,
-			explanation: ""
+			correctAnswer: 2,
+			explanation: "Units of measurement (distance, time, money) are usually treated as a single collective unit and take a singular verb."
 		},
 		{
 			id: 9,
-			question: "",
+			question: "The team _______ arguing about which strategy to implement.",
 			options: [
-				"",
-				"",
-				"",
-				""
+				"is",
+				"are",
+				"was",
+				"has"
 			],
-			correctAnswer: 0,
-			explanation: ""
+			correctAnswer: 1,
+			explanation: "When members of a collective noun (like \"team\") are acting as individuals or are in disagreement, a plural verb is used to show they are not acting as one unit."
 		},
 		{
 			id: 10,
-			question: "",
+			question: "There _______ several reasons why we should postpone the meeting.",
 			options: [
-				"",
-				"",
-				"",
-				""
+				"is",
+				"was",
+				"has been",
+				"are"
 			],
-			correctAnswer: 0,
-			explanation: ""
+			correctAnswer: 3,
+			explanation: "In \"there is/there are\" sentences, the verb must agree with the noun that follows it. \"Reasons\" is plural, so \"are\" is the correct verb."
 		}
 	];
 
