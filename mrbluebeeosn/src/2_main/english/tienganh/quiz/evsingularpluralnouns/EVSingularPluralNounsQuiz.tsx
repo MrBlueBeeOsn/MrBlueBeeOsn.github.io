@@ -22,123 +22,123 @@ export default function EVSingularPluralNounsQuiz(): React.JSX.Element {
 	const questions: Question[] = [
 		{
 			id: 1,
-			question: "",
+			question: "The shepherd is looking after a large flock of ________.",
 			options: [
-				"",
-				"",
-				"",
-				""
+				"sheeps",
+				"sheep",
+				"sheepes",
+				"sheepses"
 			],
-			correctAnswer: 0,
-			explanation: ""
+			correctAnswer: 1,
+			explanation: "\"Sheep\" là danh từ có hình thức số ít và số nhiều giống hệt nhau. Không bao giờ thêm \"s\" vào sau từ này."
 		},
 		{
 			id: 2,
-			question: "",
+			question: "I need to buy two new ________ for the kitchen.",
 			options: [
-				"",
-				"",
-				"",
-				""
+				"knifes",
+				"knifves",
+				"knives",
+				"knivs"
 			],
-			correctAnswer: 0,
-			explanation: ""
+			correctAnswer: 2,
+			explanation: "Các danh từ kết thúc bằng đuôi \"-fe\" thường được đổi thành \"-ves\" khi chuyển sang số nhiều (knife -> knives)."
 		},
 		{
 			id: 3,
-			question: "",
+			question: "Many ________ are playing in the park today.",
 			options: [
-				"",
-				"",
-				"",
-				""
+				"childs",
+				"children",
+				"childrens",
+				"childes"
 			],
-			correctAnswer: 0,
-			explanation: ""
+			correctAnswer: 1,
+			explanation: "\"Children\" là dạng số nhiều bất quy tắc của \"child\". Bản thân nó đã là số nhiều nên không thêm \"s\"."
 		},
 		{
 			id: 4,
-			question: "",
+			question: "Could you please brush your ________ before going to bed?",
 			options: [
-				"",
-				"",
-				"",
-				""
+				"tooths",
+				"teeths",
+				"teeth",
+				"toothes"
 			],
-			correctAnswer: 0,
-			explanation: ""
+			correctAnswer: 2,
+			explanation: "\"Teeth\" là dạng số nhiều bất quy tắc của \"tooth\" (thay đổi nguyên âm bên trong)."
 		},
 		{
 			id: 5,
-			question: "",
+			question: "There are five ________ working in this office.",
 			options: [
-				"",
-				"",
-				"",
-				""
+				"women",
+				"woman",
+				"womens",
+				"womans"
 			],
 			correctAnswer: 0,
-			explanation: ""
+			explanation: "\"Women\" là dạng số nhiều của \"woman\". Tương tự như man/men, ta thay đổi nguyên âm \"a\" thành \"e\"."
 		},
 		{
 			id: 6,
-			question: "",
+			question: "Scientists are studying the ________ of the local environment.",
 			options: [
-				"",
-				"",
-				"",
-				""
+				"phenomenons",
+				"phenomena",
+				"phenomenas",
+				"phenomenoes"
 			],
-			correctAnswer: 0,
-			explanation: ""
+			correctAnswer: 1,
+			explanation: "Đây là danh từ gốc Hy Lạp. \"Phenomenon\" là số ít và \"phenomena\" là số nhiều."
 		},
 		{
 			id: 7,
-			question: "",
+			question: "How many ________ did you catch during the fishing trip?",
 			options: [
-				"",
-				"",
-				"",
-				""
+				"fish",
+				"fishes",
+				"fishs",
+				"fishies"
 			],
 			correctAnswer: 0,
-			explanation: ""
+			explanation: "Thông thường, \"fish\" giữ nguyên hình thức ở số nhiều. (Lưu ý: \"fishes\" chỉ dùng khi nói về nhiều loài cá khác nhau, nhưng trong ngữ cảnh thông thường ta dùng \"fish\")."
 		},
 		{
 			id: 8,
-			question: "",
+			question: "The ________ were scattered all over the floor.",
 			options: [
-				"",
-				"",
-				"",
-				""
+				"leafes",
+				"leafs",
+				"leaves",
+				"leaf"
 			],
-			correctAnswer: 0,
-			explanation: ""
+			correctAnswer: 2,
+			explanation: "Danh từ kết thúc bằng \"-f\" thường chuyển thành \"-ves\" ở số nhiều (leaf -> leaves)."
 		},
 		{
 			id: 9,
-			question: "",
+			question: "My grandmother has three ________.",
 			options: [
-				"",
-				"",
-				"",
-				""
+				"geese",
+				"gooses",
+				"geeses",
+				"goosess"
 			],
 			correctAnswer: 0,
-			explanation: ""
+			explanation: "\"Geese\" là dạng số nhiều bất quy tắc của \"goose\"."
 		},
 		{
 			id: 10,
-			question: "",
+			question: "Please put the ________ on the top shelf.",
 			options: [
-				"",
-				"",
-				"",
-				""
+				"boxs",
+				"box",
+				"boxes",
+				"boxies"
 			],
-			correctAnswer: 0,
-			explanation: ""
+			correctAnswer: 2,
+			explanation: "Danh từ kết thúc bằng đuôi \"-x\" thì ta thêm hậu tố \"-es\" để tạo thành số nhiều."
 		}
 	];
 
