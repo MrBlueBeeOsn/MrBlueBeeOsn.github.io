@@ -22,123 +22,123 @@ export default function PrepositionsQuiz(): React.JSX.Element {
 	const questions: Question[] = [
 		{
 			id: 1,
-			question: "",
+			question: "The meeting is scheduled to start _____ 9:00 AM sharp.",
 			options: [
-				"",
-				"",
-				"",
-				""
+				"in",
+				"on",
+				"at",
+				"by"
 			],
-			correctAnswer: 0,
-			explanation: ""
+			correctAnswer: 2,
+			explanation: "We use \"at\" for specific times of the day."
 		},
 		{
 			id: 2,
-			question: "",
+			question: "I am really looking forward _____ visiting my grandparents this summer.",
 			options: [
-				"",
-				"",
-				"",
-				""
+				"to",
+				"for",
+				"at",
+				"with"
 			],
 			correctAnswer: 0,
-			explanation: ""
+			explanation: "The phrasal verb is \"look forward to,\" which means to be excited about something in the future."
 		},
 		{
 			id: 3,
-			question: "",
+			question: "My brother is very good _____ playing the guitar.",
 			options: [
-				"",
-				"",
-				"",
-				""
+				"in",
+				"at",
+				"on",
+				"with"
 			],
-			correctAnswer: 0,
-			explanation: ""
+			correctAnswer: 1,
+			explanation: "We use the adjective phrase \"good at\" + noun/V-ing to describe a skill or talent."
 		},
 		{
 			id: 4,
-			question: "",
+			question: "We arrived _____ the airport just in time for our flight.",
 			options: [
-				"",
-				"",
-				"",
-				""
+				"in",
+				"to",
+				"at",
+				"on"
 			],
-			correctAnswer: 0,
-			explanation: ""
+			correctAnswer: 2,
+			explanation: "We usually use \"at\" for specific places or points in a journey, like an airport or a station."
 		},
 		{
 			id: 5,
-			question: "",
+			question: "She has been living in this city _____ five years.",
 			options: [
-				"",
-				"",
-				"",
-				""
+				"since",
+				"during",
+				"for",
+				"from"
 			],
-			correctAnswer: 0,
-			explanation: ""
+			correctAnswer: 2,
+			explanation: "\"For\" is used to show a duration or period of time (five years)."
 		},
 		{
 			id: 6,
-			question: "",
+			question: "Is your house _____ the left or the right side of the street?",
 			options: [
-				"",
-				"",
-				"",
-				""
+				"in",
+				"at",
+				"on",
+				"by"
 			],
-			correctAnswer: 0,
-			explanation: ""
+			correctAnswer: 2,
+			explanation: "We use the preposition \"on\" for directions like \"on the left\" or \"on the right.\""
 		},
 		{
 			id: 7,
-			question: "",
+			question: "I'm sorry, but I don't agree _____ your opinion on this matter.",
 			options: [
-				"",
-				"",
-				"",
-				""
+				"to",
+				"with",
+				"for",
+				"about"
 			],
-			correctAnswer: 0,
-			explanation: ""
+			correctAnswer: 1,
+			explanation: "The verb \"agree\" is followed by \"with\" when referring to a person or their ideas/opinions."
 		},
 		{
 			id: 8,
-			question: "",
+			question: "The cat is hiding _____ the bed because it is scared of the vacuum cleaner.",
 			options: [
-				"",
-				"",
-				"",
-				""
+				"between",
+				"among",
+				"under",
+				"through"
 			],
-			correctAnswer: 0,
-			explanation: ""
+			correctAnswer: 2,
+			explanation: "\"Under\" indicates a position directly below or covered by something else."
 		},
 		{
 			id: 9,
-			question: "",
+			question: "Please wait for me. I’ll be back _____ a few minutes.",
 			options: [
-				"",
-				"",
-				"",
-				""
+				"at",
+				"in",
+				"on",
+				"since"
 			],
-			correctAnswer: 0,
-			explanation: ""
+			correctAnswer: 1,
+			explanation: "We use \"in\" to indicate a point in the future or the length of time before something happens."
 		},
 		{
 			id: 10,
-			question: "",
+			question: "He is responsible _____ managing the marketing department.",
 			options: [
-				"",
-				"",
-				"",
-				""
+				"with",
+				"of",
+				"for",
+				"about"
 			],
-			correctAnswer: 0,
-			explanation: ""
+			correctAnswer: 2,
+			explanation: "The adjective \"responsible\" is followed by the preposition \"for.\""
 		}
 	];
 
