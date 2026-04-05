@@ -280,6 +280,29 @@ export default function EnglishIndex(): React.JSX.Element {
 
         </details>
 
+        {/* =============================
+              S And Es In Nouns Verbs Quiz
+        ============================= */}
+
+        <details className="sub-box-fix-2">
+      
+          <summary id="s-and-es-in-nouns-and-verbs-quiz"><mark className="highlight-secondary-padding-2-4">S And Es In Nouns Verbs</mark></summary>
+
+          <ul className="list-border1">
+
+            <li>
+              <div className="li-content">
+                <Link to="/english/s-and-es-in-nouns-and-verbs-quiz">S And Es In Nouns Verbs Quiz</Link>
+              </div>
+            </li>
+
+           
+            
+          </ul>
+
+        </details>
+
+
 
 
       </div>

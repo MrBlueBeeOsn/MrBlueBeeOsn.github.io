@@ -331,6 +331,17 @@
       "likes": 0
     },
     {
+      "id": "SAndEsInNounsVerbsQuiz",
+      "categoryDisplay": "English",
+      "categorySlug": "english",
+      "title": "Quiz",
+      "content": "S And Es In Nouns Verbs Quiz",
+      "slug": "english/s-and-es-in-nouns-and-verbs-quiz",
+      "date": "2026-04-05",
+      "views": 0,
+      "likes": 0
+    },
+    {
       "id": "Adverb",
       "categoryDisplay": "Grammar",
       "categorySlug": "grammar",
@@ -855,6 +866,17 @@
       "content": "Trắc Nghiệm Prepositions là một phần quan trọng trong việc học ngữ pháp tiếng Anh. Việc nắm vững quy tắc này giúp bạn tránh những lỗi ngữ pháp phổ biến và nâng cao khả năng giao tiếp tiếng Anh của mình.",
       "slug": "tieng-anh/ev-prepositions-quiz",
       "date": "2026-03-29",
+      "views": 0,
+      "likes": 0
+    },
+    {
+      "id": "EVSAndEsInNounsVerbsQuiz",
+      "categoryDisplay": "Tiếng Anh",
+      "categorySlug": "tieng-anh",
+      "title": "Trắc Nghiệm S And Es In Nouns Verbs",
+      "content": "Trắc Nghiệm S And Es In Nouns Verbs là một phần quan trọng trong việc học ngữ pháp tiếng Anh. Việc nắm vững quy tắc này giúp bạn tránh những lỗi ngữ pháp phổ biến và nâng cao khả năng giao tiếp tiếng Anh của mình.",
+      "slug": "tieng-anh/ev-s-and-es-in-nouns-and-verbs-quiz",
+      "date": "2026-04-05",
       "views": 0,
       "likes": 0
     },
