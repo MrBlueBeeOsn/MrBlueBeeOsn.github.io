@@ -22,123 +22,123 @@ export default function SAndEsInNounsVerbs(): React.JSX.Element {
 	const questions: Question[] = [
 		{
 			id: 1,
-			question: "",
+			question: "Which of the following nouns forms its plural by adding -es?",
 			options: [
-				"",
-				"",
-				"",
-				""
+				"Photo",
+				"Bench",
+				"Piano",
+				"Radio"
 			],
-			correctAnswer: 0,
-			explanation: ""
+			correctAnswer: 1,
+			explanation: "Nouns ending in -ch, -sh, -s, -x, or -z require -es to become plural (e.g., benches)."
 		},
 		{
 			id: 2,
-			question: "",
+			question: "Choose the correct verb form: My brother always _______ his teeth after breakfast.",
 			options: [
-				"",
-				"",
-				"",
-				""
+				"brushs",
+				"brush",
+				"brushes",
+				"brushing"
 			],
-			correctAnswer: 0,
-			explanation: ""
+			correctAnswer: 2,
+			explanation: "For third-person singular subjects (He, She, It), verbs ending in -sh take -es."
 		},
 		{
 			id: 3,
-			question: "",
+			question: "Identify the correctly spelled plural noun:",
 			options: [
-				"",
-				"",
-				"",
-				""
+				"Tomatoe",
+				"Citys",
+				"Puppys",
+				"Potatoes"
 			],
-			correctAnswer: 0,
-			explanation: ""
+			correctAnswer: 3,
+			explanation: "Most nouns ending in a consonant + o take -es. Photo and piano are exceptions that only take -s."
 		},
 		{
 			id: 4,
-			question: "",
+			question: "The technician _______ the broken screen carefully.",
 			options: [
-				"",
-				"",
-				"",
-				""
+				"fixs",
+				"fixes",
+				"fixies",
+				"fix"
 			],
-			correctAnswer: 0,
-			explanation: ""
+			correctAnswer: 1,
+			explanation: "Verbs ending in -x take -es in the third-person singular present tense."
 		},
 		{
 			id: 5,
-			question: "",
+			question: "Which word is the correct plural of \"Butterfly\"?",
 			options: [
-				"",
-				"",
-				"",
-				""
+				"Butterflys",
+				"Butterflies",
+				"Butterflyes",
+				"Butterflyies"
 			],
-			correctAnswer: 0,
-			explanation: ""
+			correctAnswer: 1,
+			explanation: "For nouns ending in a consonant + y, you change the y to i and add -es."
 		},
 		{
 			id: 6,
-			question: "",
+			question: "Select the sentence with the correct subject-verb agreement:",
 			options: [
-				"",
-				"",
-				"",
-				""
+				"The cat chase the mouse.",
+				"The cat chases the mouse.",
+				"The cat chasses the mouse.",
+				"The cat chasees the mouse."
 			],
-			correctAnswer: 0,
-			explanation: ""
+			correctAnswer: 1,
+			explanation: "The subject The cat is singular. The verb chase already ends in -e, so you simply add -s."
 		},
 		{
 			id: 7,
-			question: "",
+			question: "Choose the correct plural form of \"Bus\":",
 			options: [
-				"",
-				"",
-				"",
-				""
+				"Buss",
+				"Buses",
+				"Busses",
+				"Busies"
 			],
-			correctAnswer: 0,
-			explanation: ""
+			correctAnswer: 1,
+			explanation: "Nouns ending in -s add -es to form the plural."
 		},
 		{
 			id: 8,
-			question: "",
+			question: "Complete the sentence: She _______ to the gym every morning.",
 			options: [
-				"",
-				"",
-				"",
-				""
+				"gos",
+				"goes",
+				"gose",
+				"go"
 			],
-			correctAnswer: 0,
-			explanation: ""
+			correctAnswer: 1,
+			explanation: "The verbs go and do always add -es for third-person singular subjects (goes/does)."
 		},
 		{
 			id: 9,
-			question: "",
+			question: "Which of these nouns ends in -es in its plural form?",
 			options: [
-				"",
-				"",
-				"",
-				""
+				"Belief",
+				"Roof",
+				"Fox",
+				"Chief"
 			],
-			correctAnswer: 0,
-			explanation: ""
+			correctAnswer: 2,
+			explanation: "Nouns ending in -x form their plural by adding -es (foxes)."
 		},
 		{
 			id: 10,
-			question: "",
+			question: "Mark _______ his homework before dinner.",
 			options: [
-				"",
-				"",
-				"",
-				""
+				"finishs",
+				"finish",
+				"finishes",
+				"finishing"
 			],
-			correctAnswer: 0,
-			explanation: ""
+			correctAnswer: 2,
+			explanation: "Verbs ending in -sh require -es when used with a singular subject like Mark."
 		}
 	];
 

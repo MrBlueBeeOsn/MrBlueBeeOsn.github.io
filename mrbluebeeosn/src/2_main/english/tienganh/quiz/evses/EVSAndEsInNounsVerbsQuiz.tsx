@@ -22,123 +22,123 @@ export default function EVSAndEsInNounsVerbs(): React.JSX.Element {
 	const questions: Question[] = [
 		{
 			id: 1,
-			question: "",
+			question: "My younger brother _______ his teeth three times a day.",
 			options: [
-				"",
-				"",
-				"",
-				""
+				"brush",
+				"brushes",
+				"brushs",
+				"brushing"
 			],
-			correctAnswer: 0,
-			explanation: ""
+			correctAnswer: 1,
+			explanation: "Với chủ ngữ số ít (My younger brother), động từ tận cùng là -sh ta thêm -es."
 		},
 		{
 			id: 2,
-			question: "",
+			question: "There are many _______ grazing in the field.",
 			options: [
-				"",
-				"",
-				"",
-				""
+				"tomato",
+				"tomatos",
+				"tomatoes",
+				"tomatoies"
 			],
-			correctAnswer: 0,
-			explanation: ""
+			correctAnswer: 2,
+			explanation: "Danh từ tận cùng là -o (trước đó là một phụ âm) thường thêm -es để tạo thành số nhiều."
 		},
 		{
 			id: 3,
-			question: "",
+			question: "She always _______ the laundry on Sunday mornings.",
 			options: [
-				"",
-				"",
-				"",
-				""
+				"do",
+				"dose",
+				"does",
+				"doing"
 			],
-			correctAnswer: 0,
-			explanation: ""
+			correctAnswer: 2,
+			explanation: "Động từ \"do\" khi đi với chủ ngữ ngôi thứ ba số ít (She) sẽ thêm -es thành \"does\"."
 		},
 		{
 			id: 4,
-			question: "",
+			question: "The baker sells various types of _______ at his shop.",
 			options: [
-				"",
-				"",
-				"",
-				""
+				"loafs",
+				"loafes",
+				"loaves",
+				"loaf"
 			],
-			correctAnswer: 0,
-			explanation: ""
+			correctAnswer: 2,
+			explanation: "Các danh từ tận cùng bằng -f hoặc -fe thường đổi thành -v rồi thêm -es (loaf -> loaves)."
 		},
 		{
 			id: 5,
-			question: "",
+			question: "Which of the following is the correct plural form of \"factory\"?",
 			options: [
-				"",
-				"",
-				"",
-				""
+				"factorys",
+				"factories",
+				"factoryes",
+				"factories'"
 			],
-			correctAnswer: 0,
-			explanation: ""
+			correctAnswer: 1,
+			explanation: "Danh từ tận cùng là phụ âm + -y, ta đổi -y thành -i rồi thêm -es."
 		},
 		{
 			id: 6,
-			question: "",
+			question: "The mechanic _______ the broken engine in less than an hour.",
 			options: [
-				"",
-				"",
-				"",
-				""
+				"fix",
+				"fixs",
+				"fixes",
+				"fixing"
 			],
-			correctAnswer: 0,
-			explanation: ""
+			correctAnswer: 2,
+			explanation: "Động từ tận cùng là -x khi chia ở ngôi thứ ba số ít ta thêm -es."
 		},
 		{
 			id: 7,
-			question: "",
+			question: "My cat often _______ on the sofa after lunch.",
 			options: [
-				"",
-				"",
-				"",
-				""
+				"relaxs",
+				"relaxes",
+				"relax",
+				"relaxing"
 			],
-			correctAnswer: 0,
-			explanation: ""
+			correctAnswer: 1,
+			explanation: "Tương tự câu 6, động từ tận cùng là -x nên ta thêm -es."
 		},
 		{
 			id: 8,
-			question: "",
+			question: "How many _______ did you buy for the party?",
 			options: [
-				"",
-				"",
-				"",
-				""
+				"boxs",
+				"boxies",
+				"boxes",
+				"box"
 			],
-			correctAnswer: 0,
-			explanation: ""
+			correctAnswer: 2,
+			explanation: "Danh từ tận cùng là -x thêm -es để tạo thành số nhiều."
 		},
 		{
 			id: 9,
-			question: "",
+			question: "He _______ to work by bus every day.",
 			options: [
-				"",
-				"",
-				"",
-				""
+				"go",
+				"goes",
+				"gos",
+				"going"
 			],
-			correctAnswer: 0,
-			explanation: ""
+			correctAnswer: 1,
+			explanation: "Động từ tận cùng là -o thêm -es khi đi với chủ ngữ số ít (He)."
 		},
 		{
 			id: 10,
-			question: "",
+			question: "The children love to watch the _______ at the zoo.",
 			options: [
-				"",
-				"",
-				"",
-				""
+				"monkeys",
+				"monkies",
+				"monkeies",
+				"monkeyes"
 			],
 			correctAnswer: 0,
-			explanation: ""
+			explanation: "Danh từ tận cùng là nguyên âm (e) + -y, chúng ta chỉ cần thêm -s, không đổi thành -ies."
 		}
 	];
 
