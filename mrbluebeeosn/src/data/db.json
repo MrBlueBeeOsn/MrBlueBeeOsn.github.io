@@ -342,6 +342,17 @@
       "likes": 0
     },
     {
+      "id": "ArticlesQuiz",
+      "categoryDisplay": "English",
+      "categorySlug": "english",
+      "title": "Quiz",
+      "content": "Articles Quiz",
+      "slug": "english/articles-quiz",
+      "date": "2026-04-15",
+      "views": 0,
+      "likes": 0
+    },
+    {
       "id": "Adverb",
       "categoryDisplay": "Grammar",
       "categorySlug": "grammar",
@@ -877,6 +888,17 @@
       "content": "Trắc Nghiệm S And Es In Nouns Verbs là một phần quan trọng trong việc học ngữ pháp tiếng Anh. Việc nắm vững quy tắc này giúp bạn tránh những lỗi ngữ pháp phổ biến và nâng cao khả năng giao tiếp tiếng Anh của mình.",
       "slug": "tieng-anh/ev-s-and-es-in-nouns-and-verbs-quiz",
       "date": "2026-04-05",
+      "views": 0,
+      "likes": 0
+    },
+    {
+      "id": "EVArticlesQuiz",
+      "categoryDisplay": "Tiếng Anh",
+      "categorySlug": "tieng-anh",
+      "title": "Trắc Nghiệm Articles",
+      "content": "Trắc Nghiệm Articles là một phần quan trọng trong việc học ngữ pháp tiếng Anh. Việc nắm vững quy tắc này giúp bạn tránh những lỗi ngữ pháp phổ biến và nâng cao khả năng giao tiếp tiếng Anh của mình.",
+      "slug": "tieng-anh/ev-articles-quiz",
+      "date": "2026-04-15",
       "views": 0,
       "likes": 0
     },

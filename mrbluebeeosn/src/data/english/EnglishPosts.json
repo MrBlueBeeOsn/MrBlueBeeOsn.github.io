@@ -143,6 +143,15 @@
       "content": "S And Es In Nouns Verbs Quiz",
       "slug": "english/s-and-es-in-nouns-and-verbs-quiz",
       "date": "2026-04-05"
+    },
+    { 
+      "id": "ArticlesQuiz",
+      "categoryDisplay": "English",
+      "categorySlug": "english",
+      "title": "Quiz",
+      "content": "Articles Quiz",
+      "slug": "english/articles-quiz",
+      "date": "2026-04-15"
     }
   ]
 }

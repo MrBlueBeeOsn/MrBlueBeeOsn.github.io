@@ -89,6 +89,9 @@ const Posts = lazy(() => import('@/data/Posts'));
 	// S And Es In Nouns Verbs
 	const SAndEsInNounsVerbsQuiz = lazy(() => import('@/2_main/english/quiz/ses/SAndEsInNounsVerbsQuiz'));
 
+	// S And Es In Nouns Verbs
+	const ArticlesQuiz = lazy(() => import('@/2_main/english/quiz/articles/ArticlesQuiz'));
+
 
 
 	// 2. Grammar
@@ -211,6 +214,9 @@ const Posts = lazy(() => import('@/data/Posts'));
 
 	// EV Prepositions Quiz
 	const EVSAndEsInNounsVerbsQuiz = lazy(() => import('@/2_main/english/tienganh/quiz/evses/EVSAndEsInNounsVerbsQuiz'));
+
+	// EV Articles Quiz
+	const EVArticlesQuiz = lazy(() => import('@/2_main/english/tienganh/quiz/evarticles/EVArticlesQuiz'));
 
 
 	
@@ -529,6 +535,9 @@ export default function AppRoutes(): React.JSX.Element {
 					{/* S And Es In Nouns Verbs */}
 					<Route path="/english/s-and-es-in-nouns-and-verbs-quiz" element={<SAndEsInNounsVerbsQuiz />} />
 
+					{/* Articles Quiz */}
+					<Route path="/english/articles-quiz" element={<ArticlesQuiz />} />
+
 
 
 					{/* 2. Grammar */}
@@ -653,6 +662,9 @@ export default function AppRoutes(): React.JSX.Element {
 
 					{/* EV Prepositions Quiz */}
 					<Route path="/tieng-anh/ev-s-and-es-in-nouns-and-verbs-quiz" element={<EVSAndEsInNounsVerbsQuiz />} />
+
+					{/* EV Articles Quiz */}
+					<Route path="/tieng-anh/ev-articles-quiz" element={<EVArticlesQuiz />} />
 
 
 

@@ -302,6 +302,28 @@ export default function EnglishIndex(): React.JSX.Element {
 
         </details>
 
+        {/* =============================
+              ArticlesQuiz
+        ============================= */}
+
+        <details className="sub-box-fix-2">
+      
+          <summary id="articles-quiz"><mark className="highlight-secondary-padding-2-4">Articles</mark></summary>
+
+          <ul className="list-border1">
+
+            <li>
+              <div className="li-content">
+                <Link to="/english/articles-quiz">Articles Quiz</Link>
+              </div>
+            </li>
+
+           
+            
+          </ul>
+
+        </details>
+
 
 
 
