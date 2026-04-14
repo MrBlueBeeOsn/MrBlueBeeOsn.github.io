@@ -22,123 +22,123 @@ export default function ArticlesQuiz(): React.JSX.Element {
 	const questions: Question[] = [
 		{
 			id: 1,
-			question: "",
+			question: "He is ___ honest man who always tells the truth.",
 			options: [
-				"",
-				"",
-				"",
-				""
+				"a",
+				"an",
+				"the",
+				"(no article)"
 			],
-			correctAnswer: 0,
-			explanation: ""
+			correctAnswer: 1,
+			explanation: "Although \"honest\" starts with the consonant letter 'h', the 'h' is silent. The word begins with a vowel sound /ɒ/, so we use \"an.\""
 		},
 		{
 			id: 2,
-			question: "",
+			question: "I saw ___ amazing movie last night at the cinema.",
 			options: [
-				"",
-				"",
-				"",
-				""
+				"a",
+				"an",
+				"the",
+				"(no article)"
 			],
-			correctAnswer: 0,
-			explanation: ""
+			correctAnswer: 1,
+			explanation: "\"Amazing\" starts with a vowel sound /ə/, so the indefinite article \"an\" is required for a non-specific singular noun."
 		},
 		{
 			id: 3,
-			question: "",
+			question: "___ sun rises in the east and sets in the west.",
 			options: [
-				"",
-				"",
-				"",
-				""
+				"A",
+				"An",
+				"The",
+				"(no article)"
 			],
-			correctAnswer: 0,
-			explanation: ""
+			correctAnswer: 2,
+			explanation: "We use \"the\" for unique celestial bodies and things that are one of a kind."
 		},
 		{
 			id: 4,
-			question: "",
+			question: "My sister is studying to become ___ university professor.",
 			options: [
-				"",
-				"",
-				"",
-				""
+				"a",
+				"an",
+				"the",
+				"(no article)"
 			],
 			correctAnswer: 0,
-			explanation: ""
+			explanation: "\"University\" starts with the consonant sound /j/ (yoo-ni-ver-si-ty). Therefore, we use \"a\" instead of \"an.\""
 		},
 		{
 			id: 5,
-			question: "",
+			question: "We are going to have ___ dinner at that new Italian restaurant.",
 			options: [
-				"",
-				"",
-				"",
-				""
+				"a",
+				"an",
+				"the",
+				"(no article)"
 			],
-			correctAnswer: 0,
-			explanation: ""
+			correctAnswer: 3,
+			explanation: "General names of meals (breakfast, lunch, dinner) usually do not take an article unless they are being described specifically."
 		},
 		{
 			id: 6,
-			question: "",
+			question: "___ Nile is the longest river in the world.",
 			options: [
-				"",
-				"",
-				"",
-				""
+				"A",
+				"An",
+				"The",
+				"(no article)"
 			],
-			correctAnswer: 0,
-			explanation: ""
+			correctAnswer: 2,
+			explanation: "We use the definite article \"the\" before the names of rivers."
 		},
 		{
 			id: 7,
-			question: "",
+			question: "I need to buy ___ new pair of shoes for the wedding.",
 			options: [
-				"",
-				"",
-				"",
-				""
+				"a",
+				"an",
+				"the",
+				"(no article)"
 			],
 			correctAnswer: 0,
-			explanation: ""
+			explanation: "We use \"a\" for a singular countable noun mentioned for the first time that begins with a consonant sound."
 		},
 		{
 			id: 8,
-			question: "",
+			question: "Mount Everest is ___ highest mountain in the world.",
 			options: [
-				"",
-				"",
-				"",
-				""
+				"a",
+				"an",
+				"the",
+				"(no article)"
 			],
-			correctAnswer: 0,
-			explanation: ""
+			correctAnswer: 2,
+			explanation: "We always use \"the\" before superlative adjectives like \"highest,\" \"tallest,\" or \"best.\""
 		},
 		{
 			id: 9,
-			question: "",
+			question: "Do you have ___ umbrella I could borrow? It's starting to rain.",
 			options: [
-				"",
-				"",
-				"",
-				""
+				"a",
+				"an",
+				"the",
+				"(no article)"
 			],
-			correctAnswer: 0,
-			explanation: ""
+			correctAnswer: 1,
+			explanation: "\"Umbrella\" starts with a vowel sound /ʌ/, so we use the indefinite article \"an.\""
 		},
 		{
 			id: 10,
-			question: "",
+			question: "___ happiness is more important than money.",
 			options: [
-				"",
-				"",
-				"",
-				""
+				"A",
+				"An",
+				"The",
+				"(no article)"
 			],
-			correctAnswer: 0,
-			explanation: ""
+			correctAnswer: 3,
+			explanation: "Abstract nouns (like happiness, love, or time) typically do not use an article when used in a general sense."
 		}
 	];
 
