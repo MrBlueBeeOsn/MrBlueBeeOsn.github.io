@@ -320,6 +320,28 @@ export default function TiengAnhIndex(): React.JSX.Element {
 
         </details>
 
+        {/* =============================
+              EV ParaphrasingTechniquesQuiz
+        ============================= */}
+
+        <details className="sub-box-fix-2">
+      
+          <summary id="ev-paraphrasing-techniques-quiz"><mark className="highlight-secondary-padding-2-4">Paraphrasing Techniques</mark></summary>
+
+          <ul className="list-border1">
+
+            <li>
+              <div className="li-content">
+                <Link to="/tieng-anh/ev-paraphrasing-techniques-quiz">Trắc Nghiệm - Paraphrasing Techniques</Link>
+              </div>
+            </li>
+
+            
+            
+          </ul>
+
+        </details>
+
         
 
 

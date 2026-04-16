@@ -353,6 +353,17 @@
       "likes": 0
     },
     {
+      "id": "ParaphrasingTechniquesQuiz",
+      "categoryDisplay": "English",
+      "categorySlug": "english",
+      "title": "Quiz",
+      "content": "Paraphrasing Techniques Quiz",
+      "slug": "english/paraphrasing-techniques-quiz",
+      "date": "2026-04-16",
+      "views": 0,
+      "likes": 0
+    },
+    {
       "id": "Adverb",
       "categoryDisplay": "Grammar",
       "categorySlug": "grammar",
@@ -899,6 +910,17 @@
       "content": "Trắc Nghiệm Articles là một phần quan trọng trong việc học ngữ pháp tiếng Anh. Việc nắm vững quy tắc này giúp bạn tránh những lỗi ngữ pháp phổ biến và nâng cao khả năng giao tiếp tiếng Anh của mình.",
       "slug": "tieng-anh/ev-articles-quiz",
       "date": "2026-04-15",
+      "views": 0,
+      "likes": 0
+    },
+    {
+      "id": "EVParaphrasingTechniquesQuiz",
+      "categoryDisplay": "Tiếng Anh",
+      "categorySlug": "tieng-anh",
+      "title": "Trắc Nghiệm Paraphrasing Techniques",
+      "content": "Trắc Nghiệm Paraphrasing Techniques là một phần quan trọng trong việc học ngữ pháp tiếng Anh. Việc nắm vững quy tắc này giúp bạn tránh những lỗi ngữ pháp phổ biến và nâng cao khả năng giao tiếp tiếng Anh của mình.",
+      "slug": "tieng-anh/ev-paraphrasing-techniques-quiz",
+      "date": "2026-04-16",
       "views": 0,
       "likes": 0
     },

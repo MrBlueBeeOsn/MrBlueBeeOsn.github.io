@@ -89,8 +89,11 @@ const Posts = lazy(() => import('@/data/Posts'));
 	// S And Es In Nouns Verbs
 	const SAndEsInNounsVerbsQuiz = lazy(() => import('@/2_main/english/quiz/ses/SAndEsInNounsVerbsQuiz'));
 
-	// S And Es In Nouns Verbs
+	// Articles Quiz
 	const ArticlesQuiz = lazy(() => import('@/2_main/english/quiz/articles/ArticlesQuiz'));
+
+	// Paraphrasing Techniques Quiz
+	const ParaphrasingTechniquesQuiz = lazy(() => import('@/2_main/english/quiz/paraphrasing/ParaphrasingTechniquesQuiz'));
 
 
 
@@ -217,6 +220,9 @@ const Posts = lazy(() => import('@/data/Posts'));
 
 	// EV Articles Quiz
 	const EVArticlesQuiz = lazy(() => import('@/2_main/english/tienganh/quiz/evarticles/EVArticlesQuiz'));
+
+	// EV Paraphrasing TechniquesQuiz
+	const EVParaphrasingTechniquesQuiz = lazy(() => import('@/2_main/english/tienganh/quiz/evparaphrasing/EVParaphrasingTechniquesQuiz'));
 
 
 	
@@ -538,6 +544,9 @@ export default function AppRoutes(): React.JSX.Element {
 					{/* Articles Quiz */}
 					<Route path="/english/articles-quiz" element={<ArticlesQuiz />} />
 
+					{/* Paraphrasing TechniquesQuiz */}
+					<Route path="/english/paraphrasing-techniques-quiz" element={<ParaphrasingTechniquesQuiz />} />
+
 
 
 					{/* 2. Grammar */}
@@ -665,6 +674,9 @@ export default function AppRoutes(): React.JSX.Element {
 
 					{/* EV Articles Quiz */}
 					<Route path="/tieng-anh/ev-articles-quiz" element={<EVArticlesQuiz />} />
+
+					{/* EV Paraphrasing TechniquesQuiz */}
+					<Route path="/tieng-anh/ev-paraphrasing-techniques-quiz" element={<EVParaphrasingTechniquesQuiz />} />
 
 
 

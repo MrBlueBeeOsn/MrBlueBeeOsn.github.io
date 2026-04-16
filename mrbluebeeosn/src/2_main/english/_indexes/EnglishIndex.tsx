@@ -303,7 +303,7 @@ export default function EnglishIndex(): React.JSX.Element {
         </details>
 
         {/* =============================
-              ArticlesQuiz
+              Articles Quiz
         ============================= */}
 
         <details className="sub-box-fix-2">
@@ -315,6 +315,28 @@ export default function EnglishIndex(): React.JSX.Element {
             <li>
               <div className="li-content">
                 <Link to="/english/articles-quiz">Articles Quiz</Link>
+              </div>
+            </li>
+
+           
+            
+          </ul>
+
+        </details>
+
+        {/* =============================
+              Paraphrasing Techniques Quiz
+        ============================= */}
+
+        <details className="sub-box-fix-2">
+      
+          <summary id="paraphrasing-techniques-quiz"><mark className="highlight-secondary-padding-2-4">Paraphrasing Techniques</mark></summary>
+
+          <ul className="list-border1">
+
+            <li>
+              <div className="li-content">
+                <Link to="/english/paraphrasing-techniques-quiz">Paraphrasing Techniques Quiz</Link>
               </div>
             </li>
 

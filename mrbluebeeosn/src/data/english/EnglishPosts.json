@@ -152,6 +152,15 @@
       "content": "Articles Quiz",
       "slug": "english/articles-quiz",
       "date": "2026-04-15"
+    },
+    { 
+      "id": "ParaphrasingTechniquesQuiz",
+      "categoryDisplay": "English",
+      "categorySlug": "english",
+      "title": "Quiz",
+      "content": "Paraphrasing Techniques Quiz",
+      "slug": "english/paraphrasing-techniques-quiz",
+      "date": "2026-04-16"
     }
   ]
 }
