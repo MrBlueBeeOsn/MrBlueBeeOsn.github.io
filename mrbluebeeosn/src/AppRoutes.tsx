@@ -228,6 +228,14 @@ const Posts = lazy(() => import('@/data/Posts'));
 	
 	// 5. Vocabulary - Tính chính xác
 	const VocabularyIndex = lazy(() => import('@/2_main/english/_indexes/VocabularyIndex'));
+
+
+	// 5. Adjectives
+	const Beautiful = lazy(() => import('@/2_main/english/vocabulary/adj/Beautiful'));
+
+
+
+	// 5. Vocabulary - Tính chính xác
 	const Accurately1 = lazy(() => import('@/2_main/english/vocabulary/tinhchinhxac/Accurately1'));
 	const Accurately2 = lazy(() => import('@/2_main/english/vocabulary/tinhchinhxac/Accurately2'));
 	const Precisely1 = lazy(() => import('@/2_main/english/vocabulary/tinhchinhxac/Precisely1'));
@@ -680,8 +688,18 @@ export default function AppRoutes(): React.JSX.Element {
 
 
 
-					{/* 5. Vocabulary - Tính chính xác */}
+					{/* 5. Vocabulary */}
 					<Route path="/vocabulary" element={<VocabularyIndex />} />
+
+					{/* 5. Vocabulary - Tính chính xác */}
+					<Route path="/vocabulary/beautiful" element={<Beautiful />} />
+
+
+
+
+
+
+					{/* 5. Vocabulary - Tính chính xác */}
 					<Route path="/vocabulary/accurately-1" element={<Accurately1 />} />
 					<Route path="/vocabulary/accurately-2" element={<Accurately2 />} />
 					<Route path="/vocabulary/precisely-1" element={<Precisely1 />} />
