@@ -66,13 +66,18 @@ export default function VocabularyIndex(): React.JSX.Element {
 
 				<details className="sub-box-fix">
 			
-					<summary id="beautiful-terms"><mark className="highlight-secondary-padding-2-4">Adjectives</mark></summary>
+					<summary id="adjectives-terms"><mark className="highlight-secondary-padding-2-4">Adjectives</mark></summary>
 
 					<ul className="list-border1">
 
 						<li>
 							<Link to="/vocabulary/beautiful">beautiful</Link> 	
 						</li>
+
+						<li>
+							<Link to="/vocabulary/attractive">attractive</Link> 	
+						</li>
+						
 
 					</ul>
 

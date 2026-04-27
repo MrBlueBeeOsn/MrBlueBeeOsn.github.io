@@ -1568,12 +1568,21 @@
 		},
 		{ 
 			"id": "Beautiful",
-			"categoryDisplay": "Tính nhẹ nhàng",
+			"categoryDisplay": "Đẹp",
 			"categorySlug": "vocabulary#beautiful-terms",
 			"title": "beautiful",
-			"content": "Beautiful /ˈbjuː.tɪ.fəl/ ⬤•• (3x) thường được dùng để mô tả một điều gì đó trông rất đẹp, thu hút, hoặc gây ấn tượng tốt.",
+			"content": "Beautiful (tính từ): Đẹp, có những phẩm chất đem lại sự hài lòng hoặc thỏa mãn cho các giác quan (đặc biệt là thị giác) hoặc cho tâm trí. Thường ám chỉ sự hài hòa, xuất sắc hoặc có tính thẩm mỹ cao.",
 			"slug": "vocabulary/beautiful",
 			"date": "2026-04-26"
+		},
+		{ 
+			"id": "Attractive",
+			"categoryDisplay": "Hấp dẫn",
+			"categorySlug": "vocabulary#attractive-terms",
+			"title": "attractive",
+			"content": "Attractive (tính từ): Hấp dẫn, lôi cuốn, có sức hút. Từ này dùng để mô tả người hoặc vật có những đặc điểm làm hài lòng thị giác hoặc thu hút sự chú ý, quan tâm của người khác.",
+			"slug": "vocabulary/attractive",
+			"date": "2026-04-27"
 		}
 	]
 }

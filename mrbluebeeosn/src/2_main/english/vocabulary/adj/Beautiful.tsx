@@ -15,7 +15,7 @@ export default function Beautiful(): React.JSX.Element {
 
     <article>
     
-      <h4><HashLink smooth to="/vocabulary#beautiful-terms"><mark className="highlight-tertiary-padding-4-8">Adjectives</mark></HashLink></h4>
+      <h4><HashLink smooth to="/vocabulary#adjectives-terms"><mark className="highlight-tertiary-padding-4-8">Adjectives</mark></HashLink></h4>
       
       <h1 className="margin-y-50 text-center">Beautiful</h1>
 
@@ -81,7 +81,7 @@ export default function Beautiful(): React.JSX.Element {
         </ul>
 
       {/* =============================
-            Synonyms
+            Synonyms / Từ đồng nghĩa
       ============================= */}
 
       <h3 className="margin-y-50 text-center">Synonyms / Từ đồng nghĩa</h3>
