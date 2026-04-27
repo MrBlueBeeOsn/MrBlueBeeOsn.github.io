@@ -21,11 +21,13 @@ export default function Beautiful(): React.JSX.Element {
 
       {/* This is the content of Vocabulary Term. */}
 
+      <p className="margin-bottom-30"><strong>Beautiful</strong> is an adjective used to describe something that possesses qualities giving great pleasure or satisfaction to the senses, particularly the sight, or to the mind. It often implies a high degree of harmony, excellence, or aesthetic appeal.</p>
+
+      <p className="margin-bottom-30 text-indent-whole">The sunset over the ocean was truly beautiful.</p>
+
       <div className="text-border1 padding-top-20 padding-bottom-10 highlight-238-padding-4-8 bee-container">
 
         <div>
-
-          <p className="margin-bottom-20"><strong>beautiful</strong></p>
 
           <ul className="list-square padding-left-40">
 
@@ -42,55 +44,33 @@ export default function Beautiful(): React.JSX.Element {
 
       </div>
 
-      <p className="margin-top-30 text-indent-whole"><strong>Beautiful</strong> is an adjective used to describe something that possesses qualities that give great pleasure or satisfaction to the senses, particularly the sight, or to the mind. It often implies a high degree of harmony, excellence, or aesthetic appeal.</p>
-
       {/* =============================
             Word Family
       ============================= */}
 
       <h3 className="margin-y-50 text-center">Word Family</h3>
 
-      <p className="text-indent-whole">While beautiful is a versatile term, these synonyms offer more specific nuances depending on the context.</p>
+      <p className="margin-bottom-20">Understanding these related forms helps in shifting between different parts of speech, such as using noun-based structures to describe qualities.</p>
 
         <ul className="list-square">
 
           {/* <li></li>
           <li className="margin-bottom-20 list-none"></li> */}
 
-          <li>
-            <mark className="highlight-238-padding-4-8">
-              <strong>Beauty</strong>
-            </mark> (Noun)
-          </li>
-          <li className="margin-bottom-20 list-none">The beauty of the sunrise left the hikers in complete silence.</li>
+          <li><strong>Beauty</strong> (Noun)</li>
+          <li className="margin-bottom-20 list-none">The beauty of the girl was admired by everyone in the room.</li>
 
-          <li>
-            <mark className="highlight-238-padding-4-8">
-              <strong>Beautify</strong>
-            </mark> (Verb)
-          </li>
-          <li className="margin-bottom-20 list-none">The city council launched a project to beautify the downtown area with new trees and murals.</li>
+          <li><strong>Beautify</strong> (Verb)</li>
+          <li className="margin-bottom-20 list-none">The community decided to beautify the park by planting cherry blossoms.</li>
 
-          <li>
-            <mark className="highlight-238-padding-4-8">
-              <strong>Beautifully</strong>
-            </mark> (Adverb)
-          </li>
-          <li className="margin-bottom-20 list-none">The orchestra performed the symphony beautifully, earning a standing ovation.</li>
+          <li><strong>Beautifully</strong> (Adverb)</li>
+          <li className="margin-bottom-20 list-none">She plays the violin beautifully, capturing the emotion of every note.</li>
 
-          <li>
-            <mark className="highlight-238-padding-4-8">
-              <strong>Beautician</strong>
-            </mark> (Noun - Person)
-          </li>
-          <li className="margin-bottom-20 list-none">She visited a professional beautician to prepare for her wedding day.</li>
+          <li><strong>Beautician</strong> (Noun - Person)</li>
+          <li className="margin-bottom-20 list-none">The professional beautician applied the makeup with expert precision.</li>
 
-          <li>
-            <mark className="highlight-238-padding-4-8">
-              <strong>Beauteous</strong>
-            </mark> (Adjective - Literary/Poetic)
-          </li>
-          <li className="list-none">The poet spent hours describing the beauteous landscape of the valley.</li>
+          <li><strong>Beauteous</strong> (Adjective - Literary)</li>
+          <li className="list-none">The poet wrote verses about the beauteous moon reflecting on the lake.</li>
 
         </ul>
 
@@ -100,18 +80,13 @@ export default function Beautiful(): React.JSX.Element {
 
       <h3 className="margin-y-50 text-center">Synonyms</h3>
 
-      <p className="text-indent-whole">While beautiful is a versatile term, these synonyms offer more specific nuances depending on the context.</p>
-      
+      <p className="margin-bottom-20">While beautiful is a broad term, these synonyms offer specific nuances for different contexts.</p>
 
       {/* =============================
             1. Gorgeous
       ============================= */}
 
-      <p className="margin-top-20">
-        <strong>
-          <mark className="highlight-255-padding-4-8"><strong>1. Gorgeous</strong></mark> 
-        </strong>
-      </p>
+      <p className="margin-top-20"><strong>1. Gorgeous</strong></p>
 
       <p className="text-indent-whole">Used for something strikingly beautiful or magnificent, often eliciting a strong physical reaction.</p>
 
@@ -125,13 +100,9 @@ export default function Beautiful(): React.JSX.Element {
             2. Stunning
       ============================= */}
 
-      <p className="margin-top-20">
-        <strong>
-          <mark className="highlight-255-padding-4-8"><strong>2. Stunning</strong></mark> 
-        </strong>
-      </p>
+      <p className="margin-top-20"><strong>2. Stunning</strong></p>
 
-      <p className="text-indent-whole">Implies a beauty that is so overwhelming it stuns or shocks the observer.</p>
+      <p className="text-indent-whole">Implies a beauty that is so overwhelming it shocks or surprises the observer.</p>
 
         <ul className="list-square">
 
@@ -143,11 +114,7 @@ export default function Beautiful(): React.JSX.Element {
             3. Exquisite
       ============================= */}
 
-      <p className="margin-top-20">
-        <strong>
-          <mark className="highlight-255-padding-4-8"><strong>3. Exquisite</strong></mark> 
-        </strong>
-      </p>
+      <p className="margin-top-20"><strong>3. Exquisite</strong></p>
 
       <p className="text-indent-whole">Used for beauty that is delicate, refined, or characterized by intricate craftsmanship.</p>
 
@@ -161,11 +128,7 @@ export default function Beautiful(): React.JSX.Element {
             4. Lovely
       ============================= */}
 
-      <p className="margin-top-20">
-        <strong>
-          <mark className="highlight-255-padding-4-8"><strong>4. Lovely</strong></mark> 
-        </strong>
-      </p>
+      <p className="margin-top-20"><strong>4. Lovely</strong></p>
 
       <p className="text-indent-whole">Suggests a beauty that is charming, endearing, or pleasant in a warm way.</p>
 
@@ -179,11 +142,7 @@ export default function Beautiful(): React.JSX.Element {
             5. Radiant
       ============================= */}
 
-      <p className="margin-top-20">
-        <strong>
-          <mark className="highlight-255-padding-4-8"><strong>5. Radiant</strong></mark> 
-        </strong>
-      </p>
+      <p className="margin-top-20"><strong>5. Radiant</strong></p>
 
       <p className="text-indent-whole">Refers to a beauty that seems to shine or glow with health, happiness, or light.</p>
 
@@ -197,13 +156,9 @@ export default function Beautiful(): React.JSX.Element {
             6. Aesthetic
       ============================= */}
 
-      <p className="margin-top-20">
-        <strong>
-          <mark className="highlight-255-padding-4-8"><strong>6. Aesthetic</strong></mark> 
-        </strong>
-      </p>
+      <p className="margin-top-20"><strong>6. Aesthetic</strong></p>
 
-      <p className="text-indent-whole">Relates specifically to the appreciation of beauty or art; often used for things that are visually pleasing in a modern or stylized way.</p>
+      <p className="text-indent-whole">Relates specifically to the appreciation of beauty or art; often used for things that are visually pleasing in a stylized way.</p>
 
         <ul className="list-square">
 
@@ -215,11 +170,7 @@ export default function Beautiful(): React.JSX.Element {
             7. Magnificent
       ============================= */}
 
-      <p className="margin-top-20">
-        <strong>
-          <mark className="highlight-255-padding-4-8"><strong>7. Magnificent</strong></mark> 
-        </strong>
-      </p>
+      <p className="margin-top-20"><strong>7. Magnificent</strong></p>
 
       <p className="text-indent-whole">Used for beauty that is grand, impressive, or stately in scale.</p>
 
@@ -228,24 +179,6 @@ export default function Beautiful(): React.JSX.Element {
           <li>The magnificent architecture of the cathedral dates back to the 12th century.</li>
 
         </ul>
-
-      {/* =============================
-            6. 
-      ============================= */}
-
-      {/* <p className="margin-top-20">
-        <strong>
-          <mark className="highlight-255-padding-4-8"><strong>6. </strong></mark> 
-        </strong>
-      </p>
-
-      <p className="text-indent-whole"></p>
-
-        <ul className="list-square">
-
-          <li></li>
-
-        </ul> */}
 
       <div className="viewcounter">
       
