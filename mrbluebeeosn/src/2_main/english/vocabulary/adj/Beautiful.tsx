@@ -21,9 +21,15 @@ export default function Beautiful(): React.JSX.Element {
 
       {/* This is the content of Vocabulary Term. */}
 
-      <p className="margin-bottom-30"><strong>Beautiful</strong> is an adjective used to describe something that possesses qualities giving great pleasure or satisfaction to the senses, particularly the sight, or to the mind. It often implies a high degree of harmony, excellence, or aesthetic appeal.</p>
+      <p className="margin-bottom-30"><strong>Beautiful</strong> (tính từ): Đẹp, có những phẩm chất đem lại sự hài lòng hoặc thỏa mãn cho các giác quan (đặc biệt là thị giác) hoặc cho tâm trí. Thường ám chỉ sự hài hòa, xuất sắc hoặc có tính thẩm mỹ cao.</p>
 
       <p className="margin-bottom-30 text-indent-whole">The sunset over the ocean was truly beautiful.</p>
+
+      {/* =============================
+            Pronunciation / Phát âm
+      ============================= */}
+
+      <h3 className="margin-y-50 text-center">Pronunciation / Phát âm</h3>
 
       <div className="text-border1 padding-top-20 padding-bottom-10 highlight-238-padding-4-8 bee-container">
 
@@ -50,26 +56,26 @@ export default function Beautiful(): React.JSX.Element {
 
       <h3 className="margin-y-50 text-center">Word Family</h3>
 
-      <p className="margin-bottom-20">Understanding these related forms helps in shifting between different parts of speech, such as using noun-based structures to describe qualities.</p>
+      <p className="margin-bottom-20">Hiểu về các từ trong cùng gia đình giúp bạn linh hoạt hơn trong việc chuyển đổi loại từ, ví dụ như sử dụng cấu trúc tập trung vào danh từ để mô tả tính chất.</p>
 
         <ul className="list-square">
 
           {/* <li></li>
           <li className="margin-bottom-20 list-none"></li> */}
 
-          <li><strong>Beauty</strong> (Noun)</li>
+          <li><strong>Beauty</strong> (Danh từ)</li>
           <li className="margin-bottom-20 list-none">The beauty of the girl was admired by everyone in the room.</li>
 
-          <li><strong>Beautify</strong> (Verb)</li>
+          <li><strong>Beautify</strong> (Động từ)</li>
           <li className="margin-bottom-20 list-none">The community decided to beautify the park by planting cherry blossoms.</li>
 
-          <li><strong>Beautifully</strong> (Adverb)</li>
+          <li><strong>Beautifully</strong> (Trạng từ)</li>
           <li className="margin-bottom-20 list-none">She plays the violin beautifully, capturing the emotion of every note.</li>
 
-          <li><strong>Beautician</strong> (Noun - Person)</li>
+          <li><strong>Beautician</strong> (Danh từ - Chỉ người)</li>
           <li className="margin-bottom-20 list-none">The professional beautician applied the makeup with expert precision.</li>
 
-          <li><strong>Beauteous</strong> (Adjective - Literary)</li>
+          <li><strong>Beauteous</strong> (Tính từ - Văn chương/Thơ ca)</li>
           <li className="list-none">The poet wrote verses about the beauteous moon reflecting on the lake.</li>
 
         </ul>
@@ -78,7 +84,7 @@ export default function Beautiful(): React.JSX.Element {
             Synonyms
       ============================= */}
 
-      <h3 className="margin-y-50 text-center">Synonyms</h3>
+      <h3 className="margin-y-50 text-center">Synonyms / Từ đồng nghĩa</h3>
 
       <p className="margin-bottom-20">While beautiful is a broad term, these synonyms offer specific nuances for different contexts.</p>
 
@@ -88,7 +94,7 @@ export default function Beautiful(): React.JSX.Element {
 
       <p className="margin-top-20"><strong>1. Gorgeous</strong></p>
 
-      <p className="text-indent-whole">Used for something strikingly beautiful or magnificent, often eliciting a strong physical reaction.</p>
+      <p className="text-indent-whole">Dùng cho vẻ đẹp rực rỡ, lộng lẫy, thường gây ra phản ứng mạnh mẽ về mặt cảm xúc hoặc thể chất.</p>
 
         <ul className="list-square">
 
@@ -102,7 +108,7 @@ export default function Beautiful(): React.JSX.Element {
 
       <p className="margin-top-20"><strong>2. Stunning</strong></p>
 
-      <p className="text-indent-whole">Implies a beauty that is so overwhelming it shocks or surprises the observer.</p>
+      <p className="text-indent-whole">Ám chỉ vẻ đẹp gây choáng ngợp, khiến người xem sững sờ.</p>
 
         <ul className="list-square">
 
@@ -116,7 +122,7 @@ export default function Beautiful(): React.JSX.Element {
 
       <p className="margin-top-20"><strong>3. Exquisite</strong></p>
 
-      <p className="text-indent-whole">Used for beauty that is delicate, refined, or characterized by intricate craftsmanship.</p>
+      <p className="text-indent-whole">Dùng cho vẻ đẹp tinh tế, sắc sảo hoặc có sự gia công tỉ mỉ.</p>
 
         <ul className="list-square">
 
@@ -130,7 +136,7 @@ export default function Beautiful(): React.JSX.Element {
 
       <p className="margin-top-20"><strong>4. Lovely</strong></p>
 
-      <p className="text-indent-whole">Suggests a beauty that is charming, endearing, or pleasant in a warm way.</p>
+      <p className="text-indent-whole">Gợi lên vẻ đẹp duyên dáng, đáng yêu hoặc mang lại cảm giác ấm áp, dễ chịu.</p>
 
         <ul className="list-square">
 
@@ -144,7 +150,7 @@ export default function Beautiful(): React.JSX.Element {
 
       <p className="margin-top-20"><strong>5. Radiant</strong></p>
 
-      <p className="text-indent-whole">Refers to a beauty that seems to shine or glow with health, happiness, or light.</p>
+      <p className="text-indent-whole">Ám chỉ vẻ đẹp rạng rỡ, tỏa sáng nhờ sự khỏe mạnh, hạnh phúc hoặc ánh sáng.</p>
 
         <ul className="list-square">
 
@@ -158,7 +164,7 @@ export default function Beautiful(): React.JSX.Element {
 
       <p className="margin-top-20"><strong>6. Aesthetic</strong></p>
 
-      <p className="text-indent-whole">Relates specifically to the appreciation of beauty or art; often used for things that are visually pleasing in a stylized way.</p>
+      <p className="text-indent-whole">Liên quan đến sự thưởng thức cái đẹp hoặc nghệ thuật; thường dùng cho những thứ có phong cách thị giác hiện đại.</p>
 
         <ul className="list-square">
 
@@ -172,7 +178,7 @@ export default function Beautiful(): React.JSX.Element {
 
       <p className="margin-top-20"><strong>7. Magnificent</strong></p>
 
-      <p className="text-indent-whole">Used for beauty that is grand, impressive, or stately in scale.</p>
+      <p className="text-indent-whole">Dùng cho vẻ đẹp hùng vĩ, ấn tượng hoặc có quy mô lớn.</p>
 
         <ul className="list-square">
 
