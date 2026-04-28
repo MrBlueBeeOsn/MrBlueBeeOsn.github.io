@@ -63,9 +63,11 @@ export default function Delicately1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>She ______ picked up the fragile vase. (Cô ấy nhẹ nhàng nhặt chiếc bình thủy tinh dễ vỡ.)</li>
+          <li>She ______ picked up the fragile vase.</li>
+          <li className="margin-bottom-20 list-none">Cô ấy nhẹ nhàng nhặt chiếc bình thủy tinh dễ vỡ.</li>
 
-          <li>He ______ broached the subject of money with his parents. (Anh ấy khéo léo đề cập đến vấn đề tiền bạc với ba mẹ.)</li>
+          <li>He ______ broached the subject of money with his parents.</li>
+          <li className="list-none">Anh ấy khéo léo đề cập đến vấn đề tiền bạc với ba mẹ.</li>
 
         </ul>
 
@@ -82,7 +84,8 @@ export default function Delicately1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>Delicate (adj): Tinh tế, dễ vỡ /ˈdɛlɪkət/</li>
-          <li className="list-none">The china is very ______. (Đồ sứ rất dễ vỡ.)</li>
+          <li className="list-none">The china is very ______.</li>
+          <li className="list-none">Đồ sứ rất dễ vỡ.</li>
 
         </ul>
 
@@ -99,10 +102,12 @@ export default function Delicately1(): React.JSX.Element {
         <ul className="list-square">
 
           <li><Link to="/vocabulary/gently-1">Gently</Link>: Một cách nhẹ nhàng /ˈdʒɛntli/</li>
-          <li className="margin-bottom-20 list-none">She ______ closed the door. (Cô ấy nhẹ nhàng đóng cửa.)</li>
+          <li className="list-none">She ______ closed the door.</li>
+          <li className="margin-bottom-20 list-none">Cô ấy nhẹ nhàng đóng cửa.</li>
 
           <li><Link to="/vocabulary/carefully-1">Carefully</Link>: Một cách cẩn thận /ˈkeərfəli/</li>
-          <li className="list-none">He ______ packed the box. (Anh ấy cẩn thận đóng gói hộp.)</li>
+          <li className="list-none">He ______ packed the box.</li>
+          <li className="list-none">Anh ấy cẩn thận đóng gói hộp.</li>
 
         </ul>
 
@@ -121,10 +126,12 @@ export default function Delicately1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>Roughly: Một cách thô bạo /ˈrʌfli/</li>
-          <li className="margin-bottom-20 list-none">He handled the package ______. (Anh ta xử lý gói hàng một cách thô bạo.)</li>
+          <li className="list-none">He handled the package ______.</li>
+          <li className="margin-bottom-20 list-none">Anh ta xử lý gói hàng một cách thô bạo.</li>
 
           <li>Violently: Một cách bạo lực /ˈvaɪələntli/</li>
-          <li className="list-none">The storm raged ______. (Bão nổi lên dữ dội.)</li>
+          <li className="list-none">The storm raged ______.</li>
+          <li className="list-none">Bão nổi lên dữ dội.</li>
 
         </ul>
       
@@ -150,7 +157,7 @@ export default function Delicately1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>She is ______ holding the beautiful cake.</li>
-          <li className="list-none">(Cô ấy đang nhẹ nhàng giữ chiếc bánh kem đẹp.)</li>
+          <li className="list-none">Cô ấy đang nhẹ nhàng giữ chiếc bánh kem đẹp.</li>
 
         </ul>
 
@@ -170,7 +177,7 @@ export default function Delicately1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>He ______ suggested that she might want to reconsider her decision.</li>
-          <li className="list-none">(Anh ấy nhẹ nhàng gợi ý rằng cô ấy có thể muốn xem xét lại quyết định của mình.)</li>
+          <li className="list-none">Anh ấy nhẹ nhàng gợi ý rằng cô ấy có thể muốn xem xét lại quyết định của mình.</li>
 
         </ul>
 
@@ -185,15 +192,17 @@ export default function Delicately1(): React.JSX.Element {
         <strong>&nbsp;thường xuyên</strong>:
       </p>
 
-      <p className="text-indent-whole">Thường xuyên sử dụng từ này khi muốn diễn tả sự nhẹ nhàng, tinh tế trong hành động.</p>
+      <p className="text-indent-whole margin-bottom-20">Thường xuyên sử dụng từ này khi muốn diễn tả sự nhẹ nhàng, tinh tế trong hành động.</p>
 
         <p className="text-indent-whole">Ví dụ để so sánh (sự khác biệt):</p>
 
           <ol>
 
-            <li>He closed the door. (Anh ấy đóng cửa.)</li>
+            <li>He closed the door.</li>
+            <li className="list-none margin-bottom-20">Anh ấy đóng cửa.</li>
 
-            <li className="margin-bottom-20">He ______ closed the door so as not to wake the baby. (Anh ấy nhẹ nhàng đóng cửa để không đánh thức đứa bé.)</li>
+            <li value="2">He ______ closed the door so as not to wake the baby.</li>
+            <li className="list-none margin-bottom-20">Anh ấy nhẹ nhàng đóng cửa để không đánh thức đứa bé.</li>
 
           </ol>
 

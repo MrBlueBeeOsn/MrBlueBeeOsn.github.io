@@ -62,35 +62,45 @@ export default function Delicately2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1"><strong>Delicately</strong> balanced: Cân bằng một cách tinh tế /ˈdɛlɪkətli ˈbælənst/</li>
-        <li className="list-none margin-bottom-20">The ecosystem was ______ before human intervention. (Hệ sinh thái đã được cân bằng một cách tinh tế trước khi con người can thiệp.)</li>
+        <li value="1"><strong>Delicately</strong> balanced</li>
+        <li className="list-none">The ecosystem was ______ before human intervention.</li>
+        <li className="list-none margin-bottom-20">Hệ sinh thái đã được cân bằng một cách tinh tế trước khi con người can thiệp.</li>
 
-        <li value="2"><strong>Delicately</strong> flavored: Có hương vị tinh tế /ˈdɛlɪkətli ˈfleɪvərd/</li>
-        <li className="list-none margin-bottom-20">The tea has a ______ floral aroma. (Trà có hương thơm hoa rất tinh tế.)</li>
+        <li value="2"><strong>Delicately</strong> flavored</li>
+        <li className="list-none">The tea has a ______ floral aroma.</li>
+        <li className="list-none margin-bottom-20">Trà có hương thơm hoa rất tinh tế.</li>
 
-        <li value="3"><strong>Delicately</strong> shaded: Tô màu một cách tinh tế /ˈdɛlɪkətli ˈʃeɪdɪd/</li>
-        <li className="list-none margin-bottom-20">The painting was ______, creating a soft, ethereal atmosphere. (Bức tranh được tô màu một cách tinh tế, tạo ra một bầu không khí mềm mại, huyền ảo.)</li>
+        <li value="3"><strong>Delicately</strong> shaded</li>
+        <li className="list-none">The painting was ______, creating a soft, ethereal atmosphere.</li>
+        <li className="list-none margin-bottom-20">Bức tranh được tô màu một cách tinh tế, tạo ra một bầu không khí mềm mại, huyền ảo.</li>
 
-        <li value="4"><strong>Delicately</strong> handled: Xử lý một cách khéo léo /ˈdɛlɪkətli ˈhændəld/</li>
-        <li className="list-none margin-bottom-20">The situation required to be ______ to avoid conflict. (Tình huống này cần được xử lý một cách khéo léo để tránh xung đột.)</li>
+        <li value="4"><strong>Delicately</strong> handled</li>
+        <li className="list-none">The situation required to be ______ to avoid conflict.</li>
+        <li className="list-none margin-bottom-20">Tình huống này cần được xử lý một cách khéo léo để tránh xung đột.</li>
 
-        <li value="5"><strong>Delicately</strong> spiced: Gia vị một cách tinh tế /ˈdɛlɪkətli spaɪst/</li>
-        <li className="list-none margin-bottom-20">The curry was ______, allowing the natural flavors of the ingredients to shine through. (Cà ri được gia vị một cách tinh tế, cho phép hương vị tự nhiên của các nguyên liệu tỏa sáng.)</li>
+        <li value="5"><strong>Delicately</strong> spiced</li>
+        <li className="list-none">The curry was ______, allowing the natural flavors of the ingredients to shine through.</li>
+        <li className="list-none margin-bottom-20">Cà ri được gia vị một cách tinh tế, cho phép hương vị tự nhiên của các nguyên liệu tỏa sáng.</li>
 
-        <li value="6"><strong>Delicately</strong> constructed: Xây dựng một cách tinh xảo /ˈdɛlɪkətli kənˈstrʌktɪd/</li>
-        <li className="list-none margin-bottom-20">The watch was ______ with intricate details. (Chiếc đồng hồ được chế tác một cách tinh xảo với những chi tiết phức tạp.)</li>
+        <li value="6"><strong>Delicately</strong> constructed</li>
+        <li className="list-none">The watch was ______ with intricate details.</li>
+        <li className="list-none margin-bottom-20">Chiếc đồng hồ được chế tác một cách tinh xảo với những chi tiết phức tạp.</li>
 
-        <li value="7"><strong>Delicately</strong> woven: Dệt một cách tinh xảo /ˈdɛlɪkətli ˈwoʊvən/</li>
-        <li className="list-none margin-bottom-20">The silk scarf was ______ with intricate patterns. (Chiếc khăn lụa được dệt một cách tinh xảo với những họa tiết phức tạp.)</li>
+        <li value="7"><strong>Delicately</strong> woven</li>
+        <li className="list-none">The silk scarf was ______ with intricate patterns.</li>
+        <li className="list-none margin-bottom-20">Chiếc khăn lụa được dệt một cách tinh xảo với những họa tiết phức tạp.</li>
 
-        <li value="8"><strong>Delicately</strong> balanced on: Cân bằng một cách tinh tế trên /ˈdɛlɪkətli ˈbælənst ɒn/</li>
-        <li className="list-none margin-bottom-20">The acrobat ______ on the tightrope. (Nghệ sĩ xiếc cân bằng một cách tinh tế trên dây cáp.)</li>
+        <li value="8"><strong>Delicately</strong> balanced on</li>
+        <li className="list-none">The acrobat ______ on the tightrope.</li>
+        <li className="list-none margin-bottom-20">Nghệ sĩ xiếc cân bằng một cách tinh tế trên dây cáp.</li>
 
-        <li value="9"><strong>Delicately</strong> perfumed: Có mùi thơm tinh tế /ˈdɛlɪkətli pərˈfjuːmd/</li>
-        <li className="list-none margin-bottom-20">The room was ______ with the scent of roses. (Căn phòng có mùi thơm hoa hồng rất tinh tế.)</li>
+        <li value="9"><strong>Delicately</strong> perfumed</li>
+        <li className="list-none">The room was ______ with the scent of roses.</li>
+        <li className="list-none margin-bottom-20">Căn phòng có mùi thơm hoa hồng rất tinh tế.</li>
 
-        <li value="10"><strong>Delicately</strong> poised: Đứng ở tư thế cân bằng /ˈdɛlɪkətli pɔɪzd/</li>
-        <li className="list-none margin-bottom-20">The ballerina was ______ on the tip of her toes. (Nữ vũ công ba lê đứng ở tư thế cân bằng một cách tinh tế trên mũi chân.)</li>
+        <li value="10"><strong>Delicately</strong> poised</li>
+        <li className="list-none">The ballerina was ______ on the tip of her toes.</li>
+        <li className="list-none margin-bottom-20">Nữ vũ công ba lê đứng ở tư thế cân bằng một cách tinh tế trên mũi chân.</li>
 
       </ol>
 
