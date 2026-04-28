@@ -63,34 +63,34 @@ export default function Softly2(): React.JSX.Element {
       <ol className="margin-top-30 padding-left-30">
 
         <li value="1"><strong>Softly</strong> spoken: Nói nhỏ nhẹ /ˈsɒftli ˈspoʊkən/</li>
-        <li className="list-none margin-bottom-20">She <strong>softly</strong> spoken to the baby to calm it down. (Cô ấy nói nhỏ nhẹ với em bé để dỗ nó nín.)</li>
+        <li className="list-none margin-bottom-20">She ______ to the baby to calm it down. (Cô ấy nói nhỏ nhẹ với em bé để dỗ nó nín.)</li>
 
         <li value="2"><strong>Softly</strong> lit: Ánh sáng dịu nhẹ /ˈsɒftli lɪt/</li>
-        <li className="list-none margin-bottom-20">The room was <strong>softly</strong> lit by candlelight. (Căn phòng được chiếu sáng dịu nhẹ bởi ánh nến.)</li>
+        <li className="list-none margin-bottom-20">The room was ______ by candlelight. (Căn phòng được chiếu sáng dịu nhẹ bởi ánh nến.)</li>
 
         <li value="3"><strong>Softly</strong> padded: Đệm mềm mại /ˈsɒftli ˈpædɪd/</li>
-        <li className="list-none margin-bottom-20">The chair was <strong>softly</strong> padded for comfort. (Chiếc ghế được đệm mềm mại để tạo cảm giác thoải mái.)</li>
+        <li className="list-none margin-bottom-20">The chair was ______ for comfort. (Chiếc ghế được đệm mềm mại để tạo cảm giác thoải mái.)</li>
 
         <li value="4"><strong>Softly</strong> played: Chơi nhẹ nhàng /ˈsɒftli pleɪd/</li>
-        <li className="list-none margin-bottom-20">The music was <strong>softly</strong> played in the background. (Âm nhạc được chơi nhẹ nhàng ở nền.)</li>
+        <li className="list-none margin-bottom-20">The music was ______ in the background. (Âm nhạc được chơi nhẹ nhàng ở nền.)</li>
 
         <li value="5"><strong>Softly</strong> brushed: Chải nhẹ nhàng /ˈsɒftli brʌʃt/</li>
-        <li className="list-none margin-bottom-20">She <strong>softly</strong> brushed her hair with a wooden comb. (Cô ấy chải nhẹ nhàng mái tóc bằng chiếc lược gỗ.)</li>
+        <li className="list-none margin-bottom-20">She ______ her hair with a wooden comb. (Cô ấy chải nhẹ nhàng mái tóc bằng chiếc lược gỗ.)</li>
 
         <li value="6"><strong>Softly</strong> whispered: Thì thầm nhẹ nhàng /ˈsɒftli ˈwɪspərd/</li>
-        <li className="list-none margin-bottom-20">He <strong>softly</strong> whispered in her ear. (Anh ấy thì thầm nhẹ nhàng vào tai cô ấy.)</li>
+        <li className="list-none margin-bottom-20">He ______ in her ear. (Anh ấy thì thầm nhẹ nhàng vào tai cô ấy.)</li>
 
         <li value="7"><strong>Softly</strong> closed: Đóng nhẹ nhàng /ˈsɒftly kloʊzd/</li>
-        <li className="list-none margin-bottom-20">She <strong>softly</strong> closed the door behind her. (Cô ấy đóng nhẹ nhàng cánh cửa sau lưng.)</li>
+        <li className="list-none margin-bottom-20">She ______ the door behind her. (Cô ấy đóng nhẹ nhàng cánh cửa sau lưng.)</li>
 
         <li value="8"><strong>Softly</strong> glowing: Ánh sáng dịu nhẹ /ˈsɒftli ˈɡloʊɪŋ/</li>
-        <li className="list-none margin-bottom-20">The fireflies were <strong>softly</strong> glowing in the darkness. (Những con đom đóm phát ra ánh sáng dịu nhẹ trong bóng tối.)</li>
+        <li className="list-none margin-bottom-20">The fireflies were ______ in the darkness. (Những con đom đóm phát ra ánh sáng dịu nhẹ trong bóng tối.)</li>
 
         <li value="9"><strong>Softly</strong> falling: Rơi nhẹ nhàng /ˈsɒftly ˈfɔːlɪŋ/</li>
-        <li className="list-none margin-bottom-20">Snowflakes were <strong>softly</strong> falling from the sky. (Những bông tuyết rơi nhẹ nhàng từ trên trời xuống.)</li>
+        <li className="list-none margin-bottom-20">Snowflakes were ______ from the sky. (Những bông tuyết rơi nhẹ nhàng từ trên trời xuống.)</li>
 
-        <li value="10"><strong>Softly</strong> landing: Hạ cánh nhẹ nhàng /ˈsɒftly ˈlændɪŋ/</li>
-        <li className="list-none margin-bottom-20">The bird <strong>softly</strong> landed on the branch. (Con chim hạ cánh nhẹ nhàng trên cành cây.)</li>
+        <li value="10"><strong>Softly</strong> landed: Hạ cánh nhẹ nhàng /ˈsɒftly ˈlændɪŋ/</li>
+        <li className="list-none margin-bottom-20">The bird ______ on the branch. (Con chim hạ cánh nhẹ nhàng trên cành cây.)</li>
 
       </ol>
 

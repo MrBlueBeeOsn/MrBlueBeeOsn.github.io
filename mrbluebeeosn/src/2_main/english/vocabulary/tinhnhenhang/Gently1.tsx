@@ -63,9 +63,9 @@ export default function Gently1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>She closed the door <strong>gently</strong>. (Cô ấy đóng cửa nhẹ nhàng.)</li>
+          <li>She closed the door ______. (Cô ấy đóng cửa nhẹ nhàng.)</li>
 
-          <li>Please speak <strong>gently</strong> to the child. (Làm ơn nói chuyện nhẹ nhàng với đứa trẻ.)</li>
+          <li>Please speak ______ to the child. (Làm ơn nói chuyện nhẹ nhàng với đứa trẻ.)</li>
 
         </ul>
 
@@ -82,7 +82,7 @@ export default function Gently1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>Gentle (adj): Nhẹ nhàng /ˈdʒɛntl/</li>
-          <li className="list-none">She has a gentle nature. (Cô ấy có một tính cách dịu dàng.)</li>
+          <li className="list-none">She has a ______ nature. (Cô ấy có một tính cách dịu dàng.)</li>
 
         </ul>
 
@@ -99,10 +99,10 @@ export default function Gently1(): React.JSX.Element {
         <ul className="list-square">
 
           <li><Link to="/vocabulary/softly-1">Softly</Link>: Mềm mại /ˈsɒftli/</li>
-          <li className="margin-bottom-20 list-none">She spoke softly. (Cô ấy nói nhỏ nhẹ.)</li>
+          <li className="margin-bottom-20 list-none">She spoke ______. (Cô ấy nói nhỏ nhẹ.)</li>
 
           <li><Link to="/vocabulary/carefully-1">Carefully</Link>: Cẩn thận /ˈkeəfəli/</li>
-          <li className="list-none">Handle the glass carefully. (Nhẹ nhàng cầm cái ly.)</li>
+          <li className="list-none">Handle the glass ______. (Nhẹ nhàng cầm cái ly.)</li>
 
         </ul>
 
@@ -121,10 +121,10 @@ export default function Gently1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>Roughly: Thô bạo /ˈrʌfli/</li>
-          <li className="margin-bottom-20 list-none">He handled the package roughly. (Anh ấy cầm gói hàng một cách thô bạo.)</li>
+          <li className="margin-bottom-20 list-none">He handled the package ______. (Anh ấy cầm gói hàng một cách thô bạo.)</li>
 
           <li>Violently: Bạo lực /ˈvaɪələntli/</li>
-          <li className="list-none">The storm raged violently. (Bão nổi lên dữ dội.)</li>
+          <li className="list-none">The storm raged ______. (Bão nổi lên dữ dội.)</li>
 
         </ul>
       
@@ -149,7 +149,7 @@ export default function Gently1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>She is <strong>gently</strong> petting the cat.</li>
+          <li>She is ______ petting the cat.</li>
           <li className="list-none">(Cô ấy đang vuốt ve con mèo một cách nhẹ nhàng.)</li>
 
         </ul>
@@ -169,7 +169,7 @@ export default function Gently1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>She closed the book <strong>gently</strong> and put it down.</li>
+          <li>She closed the book ______ and put it down.</li>
           <li className="list-none">(Cô ấy đóng sách nhẹ nhàng và đặt nó xuống.)</li>
 
         </ul>
@@ -193,7 +193,7 @@ export default function Gently1(): React.JSX.Element {
 
             <li>He pushed the door. (Anh ấy đẩy cửa.)</li>
 
-            <li className="margin-bottom-20">He pushed the door <strong>gently</strong>. (Anh ấy đẩy cửa nhẹ nhàng.)</li>
+            <li className="margin-bottom-20">He pushed the door ______. (Anh ấy đẩy cửa nhẹ nhàng.)</li>
 
           </ol>
 

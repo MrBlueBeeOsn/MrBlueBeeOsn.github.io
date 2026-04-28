@@ -63,9 +63,9 @@ export default function Softly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>She closed the door <strong>softly</strong>. (Cô ấy đóng cửa nhẹ nhàng.)</li>
+          <li>She closed the door ______. (Cô ấy đóng cửa nhẹ nhàng.)</li>
 
-          <li>He spoke <strong>softly</strong> so as not to wake the baby. (Anh ấy nói nhỏ để không đánh thức em bé.)</li>
+          <li>He spoke ______ so as not to wake the baby. (Anh ấy nói nhỏ để không đánh thức em bé.)</li>
 
         </ul>
 
@@ -82,7 +82,7 @@ export default function Softly1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>Soft (adj): Mềm, nhẹ nhàng /sɒft/</li>
-          <li className="list-none">The blanket is very soft. (Chăn rất mềm.)</li>
+          <li className="list-none">The blanket is very ______. (Chăn rất mềm.)</li>
 
         </ul>
 
@@ -99,10 +99,10 @@ export default function Softly1(): React.JSX.Element {
         <ul className="list-square">
 
           <li><Link to="/vocabulary/gently-1">Gently</Link>: Một cách nhẹ nhàng /ˈdʒɛntli/</li>
-          <li className="margin-bottom-20 list-none">She gently stroked the cat. (Cô ấy vuốt ve con mèo một cách nhẹ nhàng.)</li>
+          <li className="margin-bottom-20 list-none">She ______ stroked the cat. (Cô ấy vuốt ve con mèo một cách nhẹ nhàng.)</li>
 
           <li>Quietly: Một cách yên lặng /ˈkwaɪətli/</li>
-          <li className="list-none">She walked quietly out of the room. (Cô ấy đi ra khỏi phòng một cách yên lặng.)</li>
+          <li className="list-none">She walked ______ out of the room. (Cô ấy đi ra khỏi phòng một cách yên lặng.)</li>
 
         </ul>
 
@@ -121,10 +121,10 @@ export default function Softly1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>Loudly: Một cách ồn ào /ˈlaʊdli/</li>
-          <li className="margin-bottom-20 list-none">He shouted loudly. (Anh ấy hét lên rất to.)</li>
+          <li className="margin-bottom-20 list-none">He shouted ______. (Anh ấy hét lên rất to.)</li>
 
           <li>Roughly: Một cách thô bạo /ˈrʌfli/</li>
-          <li className="list-none">He handled the package roughly. (Anh ấy cầm gói hàng một cách thô bạo.)</li>
+          <li className="list-none">He handled the package ______. (Anh ấy cầm gói hàng một cách thô bạo.)</li>
 
         </ul>
       
@@ -149,7 +149,7 @@ export default function Softly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>She is stroking the cat <strong>softly</strong>.</li>
+          <li>She is stroking the cat ______.</li>
           <li className="list-none">(Cô ấy đang vuốt ve con mèo một cách nhẹ nhàng.)</li>
 
         </ul>
@@ -169,7 +169,7 @@ export default function Softly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>"Can you please speak <strong>softly</strong>?" she whispered.</li>
+          <li>"Can you please speak ______?" she whispered.</li>
           <li className="list-none">(Cô ấy thì thầm: "Bạn có thể nói nhỏ nhẹ được không?")</li>
 
         </ul>
@@ -193,7 +193,7 @@ export default function Softly1(): React.JSX.Element {
 
             <li>He closed the door. (Anh ấy đóng cửa.)</li>
 
-            <li className="margin-bottom-20">He <strong>softly</strong> closed the door. (Anh ấy đóng cửa nhẹ nhàng.)</li>
+            <li className="margin-bottom-20">He ______ closed the door. (Anh ấy đóng cửa nhẹ nhàng.)</li>
 
           </ol>
 

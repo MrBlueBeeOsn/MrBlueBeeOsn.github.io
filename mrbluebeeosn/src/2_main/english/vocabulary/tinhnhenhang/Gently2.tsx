@@ -62,35 +62,35 @@ export default function Gently2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1"><strong>Gently</strong> caress: Vuốt ve nhẹ nhàng /ˈdʒɛntlɪ kəˈrɛs/</li>
-        <li className="list-none margin-bottom-20">She <strong>gently</strong> caressed the baby's cheek. (Cô ấy nhẹ nhàng vuốt ve má em bé.)</li>
+        <li value="1"><strong>Gently</strong> caressed: Vuốt ve nhẹ nhàng /ˈdʒɛntlɪ kəˈrɛs/</li>
+        <li className="list-none margin-bottom-20">She ______ the baby's cheek. (Cô ấy nhẹ nhàng vuốt ve má em bé.)</li>
 
-        <li value="2"><strong>Gently</strong> push: Đẩy nhẹ nhàng /ˈdʒɛntlɪ pʊʃ/</li>
-        <li className="list-none margin-bottom-20">He <strong>gently</strong> pushed the door open. (Anh ấy nhẹ nhàng đẩy cửa ra.)</li>
+        <li value="2"><strong>Gently</strong> pushed: Đẩy nhẹ nhàng /ˈdʒɛntlɪ pʊʃ/</li>
+        <li className="list-none margin-bottom-20">He ______ the door open. (Anh ấy nhẹ nhàng đẩy cửa ra.)</li>
 
-        <li value="3"><strong>Gently</strong> shake: Lắc nhẹ nhàng /ˈdʒɛntlɪ ʃeɪk/</li>
-        <li className="list-none margin-bottom-20">She <strong>gently</strong> shook the bottle to mix the ingredients. (Cô ấy nhẹ nhàng lắc chai để trộn các thành phần.)</li>
+        <li value="3"><strong>Gently</strong> shook: Lắc nhẹ nhàng /ˈdʒɛntlɪ ʃeɪk/</li>
+        <li className="list-none margin-bottom-20">She ______ the bottle to mix the ingredients. (Cô ấy nhẹ nhàng lắc chai để trộn các thành phần.)</li>
 
-        <li value="4"><strong>Gently</strong> slope: Dốc nhẹ nhàng /ˈdʒɛntlɪ sloʊp/</li>
-        <li className="list-none margin-bottom-20">The hill <strong>gently</strong> sloped down to the valley. (Ngọn đồi thoai thoải xuống thung lũng.)</li>
+        <li value="4"><strong>Gently</strong> sloped: Dốc nhẹ nhàng /ˈdʒɛntlɪ sloʊp/</li>
+        <li className="list-none margin-bottom-20">The hill ______ down to the valley. (Ngọn đồi thoai thoải xuống thung lũng.)</li>
 
-        <li value="5"><strong>Gently</strong> rain: Mưa phùn /ˈdʒɛntlɪ reɪn/</li>
-        <li className="list-none margin-bottom-20">It was <strong>gently</strong> raining outside. (Trời đang mưa phùn bên ngoài.)</li>
+        <li value="5"><strong>Gently</strong> raining: Mưa phùn /ˈdʒɛntlɪ reɪn/</li>
+        <li className="list-none margin-bottom-20">It was ______ outside. (Trời đang mưa phùn bên ngoài.)</li>
 
-        <li value="6"><strong>Gently</strong> spoken: Nói nhẹ nhàng /ˈdʒɛntlɪ ˈspoʊkən/</li>
-        <li className="list-none margin-bottom-20">She spoke <strong>gently</strong> to the child. (Cô ấy nói nhẹ nhàng với đứa trẻ.)</li>
+        <li value="6">Spoke <strong>gently</strong>: Nói nhẹ nhàng /ˈdʒɛntlɪ ˈspoʊkən/</li>
+        <li className="list-none margin-bottom-20">She ______ to the child. (Cô ấy nói nhẹ nhàng với đứa trẻ.)</li>
 
         <li value="7"><strong>Gently</strong> smiled: Cười nhẹ nhàng /ˈdʒɛntlɪ smaɪld/</li>
-        <li className="list-none margin-bottom-20">He <strong>gently</strong> smiled at her. (Anh ấy mỉm cười nhẹ nhàng với cô ấy.)</li>
+        <li className="list-none margin-bottom-20">He ______ at her. (Anh ấy mỉm cười nhẹ nhàng với cô ấy.)</li>
 
         <li value="8"><strong>Gently</strong> lowered: Hạ xuống nhẹ nhàng /ˈdʒɛntlɪ ˈloʊərd/</li>
-        <li className="list-none margin-bottom-20">She <strong>gently</strong> lowered herself into the chair. (Cô ấy nhẹ nhàng ngồi xuống ghế.)</li>
+        <li className="list-none margin-bottom-20">She ______ herself into the chair. (Cô ấy nhẹ nhàng ngồi xuống ghế.)</li>
 
         <li value="9"><strong>Gently</strong> tapped: Gõ nhẹ nhàng /ˈdʒɛntlɪ tæpt/</li>
-        <li className="list-none margin-bottom-20">He <strong>gently</strong> tapped on the window. (Anh ấy nhẹ nhàng gõ vào cửa sổ.)</li>
+        <li className="list-none margin-bottom-20">He ______ on the window. (Anh ấy nhẹ nhàng gõ vào cửa sổ.)</li>
 
         <li value="10"><strong>Gently</strong> swayed: Đung đưa nhẹ nhàng /ˈdʒɛntlɪ sweɪd/</li>
-        <li className="list-none margin-bottom-20">The trees <strong>gently</strong> swayed in the breeze. (Những cái cây đung đưa nhẹ nhàng trong gió.)</li>
+        <li className="list-none margin-bottom-20">The trees ______ in the breeze. (Những cái cây đung đưa nhẹ nhàng trong gió.)</li>
 
       </ol>
 
