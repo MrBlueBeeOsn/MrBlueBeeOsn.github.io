@@ -23,8 +23,6 @@ export default function Beautiful(): React.JSX.Element {
 
       <p className="margin-bottom-30"><strong>Beautiful</strong> (tính từ): Đẹp, có những phẩm chất đem lại sự hài lòng hoặc thỏa mãn cho các giác quan (đặc biệt là thị giác) hoặc cho tâm trí. Thường ám chỉ sự hài hòa, xuất sắc hoặc có tính thẩm mỹ cao.</p>
 
-      <p className="margin-bottom-30 text-indent-whole">The sunset over the ocean was truly beautiful.</p>
-
       {/* =============================
             Pronunciation / Phát âm
       ============================= */}
@@ -63,20 +61,23 @@ export default function Beautiful(): React.JSX.Element {
           {/* <li></li>
           <li className="margin-bottom-20 list-none"></li> */}
 
+          <li><strong>Beautiful</strong> (Tính từ)</li>
+          <li className="margin-bottom-20 list-none">The sunset over the ocean was truly ______.</li>
+
           <li><strong>Beauty</strong> (Danh từ)</li>
-          <li className="margin-bottom-20 list-none">The beauty of the girl was admired by everyone in the room.</li>
+          <li className="margin-bottom-20 list-none">The ______ of the girl was admired by everyone in the room.</li>
 
           <li><strong>Beautify</strong> (Động từ)</li>
-          <li className="margin-bottom-20 list-none">The community decided to beautify the park by planting cherry blossoms.</li>
+          <li className="margin-bottom-20 list-none">The community decided to ______ the park by planting cherry blossoms.</li>
 
           <li><strong>Beautifully</strong> (Trạng từ)</li>
-          <li className="margin-bottom-20 list-none">She plays the violin beautifully, capturing the emotion of every note.</li>
+          <li className="margin-bottom-20 list-none">She plays the violin ______, capturing the emotion of every note.</li>
 
           <li><strong>Beautician</strong> (Danh từ - Chỉ người)</li>
-          <li className="margin-bottom-20 list-none">The professional beautician applied the makeup with expert precision.</li>
+          <li className="margin-bottom-20 list-none">The professional ______ applied the makeup with expert precision.</li>
 
           <li><strong>Beauteous</strong> (Tính từ - Văn chương/Thơ ca)</li>
-          <li className="list-none">The poet wrote verses about the beauteous moon reflecting on the lake.</li>
+          <li className="list-none">The poet wrote verses about the ______ moon reflecting on the lake.</li>
 
         </ul>
 
@@ -89,7 +90,7 @@ export default function Beautiful(): React.JSX.Element {
       <p className="margin-bottom-20">While beautiful is a broad term, these synonyms offer specific nuances for different contexts.</p>
 
       {/* =============================
-            1. Gorgeous
+            1. 
       ============================= */}
 
       <p className="margin-top-20"><strong>1. Gorgeous</strong></p>
@@ -98,12 +99,12 @@ export default function Beautiful(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>The bride looked absolutely gorgeous in her lace gown.</li>
+          <li>The bride looked absolutely ______ in her lace gown.</li>
 
         </ul>
 
       {/* =============================
-            2. Stunning
+            2. 
       ============================= */}
 
       <p className="margin-top-20"><strong>2. Stunning</strong></p>
@@ -112,12 +113,12 @@ export default function Beautiful(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>The penthouse offers a stunning view of the city skyline at night.</li>
+          <li>The penthouse offers a ______ view of the city skyline at night.</li>
 
         </ul>
 
       {/* =============================
-            3. Exquisite
+            3. 
       ============================= */}
 
       <p className="margin-top-20"><strong>3. Exquisite</strong></p>
@@ -126,12 +127,12 @@ export default function Beautiful(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>The museum displayed a collection of exquisite hand-painted ceramics.</li>
+          <li>The museum displayed a collection of ______ hand-painted ceramics.</li>
 
         </ul>
 
       {/* =============================
-            4. Lovely
+            4. 
       ============================= */}
 
       <p className="margin-top-20"><strong>4. Lovely</strong></p>
@@ -140,12 +141,12 @@ export default function Beautiful(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>We had a lovely afternoon walking through the botanical gardens.</li>
+          <li>We had a ______ afternoon walking through the botanical gardens.</li>
 
         </ul>
 
       {/* =============================
-            5. Radiant
+            5. 
       ============================= */}
 
       <p className="margin-top-20"><strong>5. Radiant</strong></p>
@@ -154,12 +155,12 @@ export default function Beautiful(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>She gave a radiant smile that instantly brightened the room.</li>
+          <li>She gave a ______ smile that instantly brightened the room.</li>
 
         </ul>
 
       {/* =============================
-            6. Aesthetic
+            6. 
       ============================= */}
 
       <p className="margin-top-20"><strong>6. Aesthetic</strong></p>
@@ -168,12 +169,12 @@ export default function Beautiful(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>The cafe's minimalist aesthetic makes it a popular spot for photography.</li>
+          <li>The cafe's minimalist ______ makes it a popular spot for photography.</li>
 
         </ul>
 
       {/* =============================
-            7. Magnificent
+            7. 
       ============================= */}
 
       <p className="margin-top-20"><strong>7. Magnificent</strong></p>
@@ -182,7 +183,7 @@ export default function Beautiful(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>The magnificent architecture of the cathedral dates back to the 12th century.</li>
+          <li>The ______ architecture of the cathedral dates back to the 12th century.</li>
 
         </ul>
 

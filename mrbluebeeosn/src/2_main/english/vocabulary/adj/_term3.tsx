@@ -23,8 +23,6 @@ export default function (): React.JSX.Element {
 
       <p className="margin-bottom-30"><strong></strong> </p>
 
-      <p className="margin-bottom-30 text-indent-whole"></p>
-
       {/* =============================
             Pronunciation / Phát âm
       ============================= */}
@@ -56,7 +54,7 @@ export default function (): React.JSX.Element {
 
       <h3 className="margin-y-50 text-center">Word Family</h3>
 
-      <p className="margin-bottom-20"></p>
+      {/* <p className="margin-bottom-20"></p> */}
 
         <ul className="list-square">
 
