@@ -62,43 +62,43 @@ export default function Delicately2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1"><strong>Delicately</strong> balanced</li>
+        <li value="1">Delicately <strong>balanced</strong> /ˈbæl.ənst/</li>
         <li className="list-none">The ecosystem was ______ before human intervention.</li>
         <li className="list-none margin-bottom-20">Hệ sinh thái đã được cân bằng một cách tinh tế trước khi con người can thiệp.</li>
 
-        <li value="2"><strong>Delicately</strong> flavored</li>
+        <li value="2">Delicately <strong>flavored</strong> /ˈfleɪvərd/</li>
         <li className="list-none">The tea has a ______ floral aroma.</li>
         <li className="list-none margin-bottom-20">Trà có hương thơm hoa rất tinh tế.</li>
 
-        <li value="3"><strong>Delicately</strong> shaded</li>
+        <li value="3">Delicately <strong>shaded</strong> /ˈʃeɪdɪd/</li>
         <li className="list-none">The painting was ______, creating a soft, ethereal atmosphere.</li>
         <li className="list-none margin-bottom-20">Bức tranh được tô màu một cách tinh tế, tạo ra một bầu không khí mềm mại, huyền ảo.</li>
 
-        <li value="4"><strong>Delicately</strong> handled</li>
+        <li value="4">Delicately <strong>handled</strong> /ˈhændəld/</li>
         <li className="list-none">The situation required to be ______ to avoid conflict.</li>
         <li className="list-none margin-bottom-20">Tình huống này cần được xử lý một cách khéo léo để tránh xung đột.</li>
 
-        <li value="5"><strong>Delicately</strong> spiced</li>
+        <li value="5">Delicately <strong>spiced</strong> /spaɪst/</li>
         <li className="list-none">The curry was ______, allowing the natural flavors of the ingredients to shine through.</li>
         <li className="list-none margin-bottom-20">Cà ri được gia vị một cách tinh tế, cho phép hương vị tự nhiên của các nguyên liệu tỏa sáng.</li>
 
-        <li value="6"><strong>Delicately</strong> constructed</li>
+        <li value="6">Delicately <strong>constructed</strong> /kənˈstrʌktɪd/</li>
         <li className="list-none">The watch was ______ with intricate details.</li>
         <li className="list-none margin-bottom-20">Chiếc đồng hồ được chế tác một cách tinh xảo với những chi tiết phức tạp.</li>
 
-        <li value="7"><strong>Delicately</strong> woven</li>
+        <li value="7">Delicately <strong>woven</strong> /ˈwʌvən/</li>
         <li className="list-none">The silk scarf was ______ with intricate patterns.</li>
         <li className="list-none margin-bottom-20">Chiếc khăn lụa được dệt một cách tinh xảo với những họa tiết phức tạp.</li>
 
-        <li value="8"><strong>Delicately</strong> balanced on</li>
+        <li value="8">Delicately <strong>balanced on</strong> /ˈbæl.ənst ɒn/</li>
         <li className="list-none">The acrobat ______ on the tightrope.</li>
         <li className="list-none margin-bottom-20">Nghệ sĩ xiếc cân bằng một cách tinh tế trên dây cáp.</li>
 
-        <li value="9"><strong>Delicately</strong> perfumed</li>
+        <li value="9">Delicately <strong>perfumed</strong> /pɜːfjʊmd/</li>
         <li className="list-none">The room was ______ with the scent of roses.</li>
         <li className="list-none margin-bottom-20">Căn phòng có mùi thơm hoa hồng rất tinh tế.</li>
 
-        <li value="10"><strong>Delicately</strong> poised</li>
+        <li value="10">Delicately <strong>poised</strong> /pɔɪzd/</li>
         <li className="list-none">The ballerina was ______ on the tip of her toes.</li>
         <li className="list-none margin-bottom-20">Nữ vũ công ba lê đứng ở tư thế cân bằng một cách tinh tế trên mũi chân.</li>
 

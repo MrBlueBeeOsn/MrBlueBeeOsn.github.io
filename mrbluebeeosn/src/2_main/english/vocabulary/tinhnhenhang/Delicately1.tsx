@@ -83,7 +83,7 @@ export default function Delicately1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Delicate (adj): Tinh tế, dễ vỡ /ˈdɛlɪkət/</li>
+          <li>Delicate (adj) /ˈdɛlɪkət/</li>
           <li className="list-none">The china is very ______.</li>
           <li className="list-none">Đồ sứ rất dễ vỡ.</li>
 
@@ -101,11 +101,11 @@ export default function Delicately1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li><Link to="/vocabulary/gently-1">Gently</Link>: Một cách nhẹ nhàng /ˈdʒɛntli/</li>
+          <li><Link to="/vocabulary/gently-1">Gently</Link> /ˈdʒɛntli/</li>
           <li className="list-none">She ______ closed the door.</li>
           <li className="margin-bottom-20 list-none">Cô ấy nhẹ nhàng đóng cửa.</li>
 
-          <li><Link to="/vocabulary/carefully-1">Carefully</Link>: Một cách cẩn thận /ˈkeərfəli/</li>
+          <li><Link to="/vocabulary/carefully-1">Carefully</Link> /ˈkeərfəli/</li>
           <li className="list-none">He ______ packed the box.</li>
           <li className="list-none">Anh ấy cẩn thận đóng gói hộp.</li>
 
@@ -125,11 +125,11 @@ export default function Delicately1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Roughly: Một cách thô bạo /ˈrʌfli/</li>
+          <li>Roughly /ˈrʌfli/</li>
           <li className="list-none">He handled the package ______.</li>
           <li className="margin-bottom-20 list-none">Anh ta xử lý gói hàng một cách thô bạo.</li>
 
-          <li>Violently: Một cách bạo lực /ˈvaɪələntli/</li>
+          <li>Violently /ˈvaɪələntli/</li>
           <li className="list-none">The storm raged ______.</li>
           <li className="list-none">Bão nổi lên dữ dội.</li>
 

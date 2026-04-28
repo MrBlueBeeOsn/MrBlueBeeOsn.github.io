@@ -65,9 +65,12 @@ export default function Tenderly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>He kissed her ______ on the forehead. (Anh ấy hôn nhẹ lên trán cô ấy một cách trìu mến.)</li>
+          <li>He kissed her ______ on the forehead.</li>
+          <li className="margin-bottom-20 list-none">Anh ấy hôn nhẹ lên trán cô ấy một cách trìu mến.</li>
 
-          <li>She held the baby ______ in her arms. (Cô ấy bế đứa bé một cách âu yếm trong vòng tay.)</li>
+          <li>She held the baby ______ in her arms.</li>
+          <li className="list-none">Cô ấy bế đứa bé một cách âu yếm trong vòng tay.</li>
+
 
         </ul>
 
@@ -83,14 +86,17 @@ export default function Tenderly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Tender (adj): Dịu dàng, mềm mại, non nớt /ˈten.dər/</li>
-          <li className="margin-bottom-20 list-none">(adj): He has a ______ heart. (Anh ấy có một trái tim dịu dàng.)</li>
+          <li>Tender (adj) /ˈten.dər/</li>
+          <li className="list-none">He has a ______ heart.</li>
+          <li className="margin-bottom-20 list-none">Anh ấy có một trái tim dịu dàng.</li>
 
-          <li>Tended (v): Dịu dàng, âu yếm /ˈten.dɪd/</li>
-          <li className="margin-bottom-20 list-none">(v): She ______ to the injured bird. (Cô ấy chăm sóc con chim bị thương một cách dịu dàng.)</li>
+          <li>Tended (v) /ˈten.dɪd/</li>
+          <li className="list-none">She ______ to the injured bird.</li>
+          <li className="margin-bottom-20 list-none">Cô ấy chăm sóc con chim bị thương một cách dịu dàng.</li>
 
-          <li>Tenderness (n): Sự dịu dàng, sự âu yếm /ˈten.dər.nəs/</li>
-          <li className="list-none">He showed great ______ towards his children. (Anh ấy thể hiện sự âu yếm lớn đối với con cái của mình.)</li>
+          <li>Tenderness (n) /ˈten.dər.nəs/</li>
+          <li className="list-none">He showed great ______ towards his children.</li>
+          <li className="list-none">Anh ấy thể hiện sự âu yếm lớn đối với con cái của mình.</li>
 
         </ul>
 
@@ -106,14 +112,17 @@ export default function Tenderly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li><Link to="/vocabulary/gently-1">Gently</Link>: Một cách nhẹ nhàng, dịu dàng /ˈdʒent.li/</li>
-          <li className="margin-bottom-20 list-none">He touched her hand ______. (Anh ấy chạm nhẹ vào tay cô ấy.)</li>
+          <li><Link to="/vocabulary/gently-1">Gently</Link> /ˈdʒent.li/</li>
+          <li className="list-none">He touched her hand ______.</li>
+          <li className="margin-bottom-20 list-none">Anh ấy chạm nhẹ vào tay cô ấy.</li>
 
-          <li>Affectionately: Một cách trìu mến, âu yếm /əˈfek.ʃənət.li/</li>
-          <li className="margin-bottom-20 list-none">She smiled ______ at him. (Cô ấy mỉm cười trìu mến với anh ấy.)</li>
+          <li>Affectionately /əˈfek.ʃənət.li/</li>
+          <li className="list-none">She smiled ______ at him.</li>
+          <li className="margin-bottom-20 list-none">Cô ấy mỉm cười trìu mến với anh ấy.</li>
 
-          <li>Lovingly: Một cách yêu thương, trìu mến /ˈlʌv.ɪŋ.li/</li>
-          <li className="list-none">He spoke ______ of his wife. (Anh ấy nói một cách yêu thương về vợ mình.)</li>
+          <li>Lovingly /ˈlʌv.ɪŋ.li/</li>
+          <li className="list-none">He spoke ______ of his wife.</li>
+          <li className="list-none">Anh ấy nói một cách yêu thương về vợ mình.</li>
 
         </ul>
 
@@ -131,14 +140,17 @@ export default function Tenderly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Harshly: Một cách gay gắt, khắc nghiệt /ˈhɑːʃ.li/</li>
-          <li className="margin-bottom-20 list-none">He spoke ______ to the child. (Anh ấy nói gay gắt với đứa trẻ.)</li>
+          <li>Harshly /ˈhɑːʃ.li/</li>
+          <li className="list-none">He spoke ______ to the child.</li>
+          <li className="margin-bottom-20 list-none">Anh ấy nói gay gắt với đứa trẻ.</li>
 
-          <li>Roughly: Một cách thô bạo, cộc cằn /ˈrʌf.li/</li>
-          <li className="margin-bottom-20 list-none">He treated the animal ______. (Anh ấy đối xử thô bạo với con vật.)</li>
+          <li>Roughly /ˈrʌf.li/</li>
+          <li className="list-none">He treated the animal ______.</li>
+          <li className="margin-bottom-20 list-none">Anh ấy đối xử thô bạo với con vật.</li>
 
-          <li>Brutally: Một cách tàn bạo, dã man /ˈbruː.tə.li/</li>
-          <li className="list-none">He was ______ attacked. (Anh ấy bị tấn công dã man.)</li>
+          <li>Brutally /ˈbruː.tə.li/</li>
+          <li className="list-none">He was ______ attacked.</li>
+          <li className="list-none">Anh ấy bị tấn công dã man.</li>
 
         </ul>
       
@@ -164,10 +176,10 @@ export default function Tenderly1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>He held his loved one ______.</li>
-          <li className="margin-bottom-20 list-none">(Anh ấy ôm người thân yêu một cách dịu dàng.)</li>
+          <li className="margin-bottom-20 list-none">Anh ấy ôm người thân yêu một cách dịu dàng.</li>
 
           <li>She caressed her family member ______.</li>
-          <li className="list-none">(Cô ấy vuốt ve người thân một cách dịu dàng.)</li>
+          <li className="list-none">Cô ấy vuốt ve người thân một cách dịu dàng.</li>
 
         </ul>
 
@@ -187,7 +199,7 @@ export default function Tenderly1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>She sang a lullaby ______ to her baby.</li>
-          <li className="list-none">(Cô ấy hát một bài hát ru con một cách dịu dàng cho đứa bé của mình.)</li>
+          <li className="list-none">Cô ấy hát một bài hát ru con một cách dịu dàng cho đứa bé của mình.</li>
 
         </ul>
 
@@ -202,15 +214,17 @@ export default function Tenderly1(): React.JSX.Element {
         <strong>&nbsp;thường xuyên</strong>:
       </p>
 
-      <p className="text-indent-whole">Thường xuyên sử dụng từ này trong các bài viết hoặc cuộc trò chuyện.</p>
+      <p className="text-indent-whole margin-bottom-20">Thường xuyên sử dụng từ này trong các bài viết hoặc cuộc trò chuyện.</p>
 
         <p className="text-indent-whole">Ví dụ để so sánh (sự khác biệt):</p>
 
           <ol>
 
-            <li>He kissed her. (Anh ấy hôn cô ấy.)</li>
+            <li>He kissed her.</li>
+            <li className="list-none margin-bottom-20">Anh ấy hôn cô ấy.</li>
 
-            <li className="margin-bottom-20">He kissed her ______. (Anh ấy hôn cô ấy một cách trìu mến.)</li>
+            <li value="2">He kissed her ______.</li>
+            <li className="list-none margin-bottom-20">Anh ấy hôn cô ấy một cách trìu mến.</li>
 
           </ol>
 

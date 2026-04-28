@@ -62,35 +62,45 @@ export default function Tenderly2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1"><strong>Tenderly</strong> held: Ôm một cách dịu dàng /ˈtɛndərli hoʊld/</li>
-        <li className="list-none margin-bottom-20">She ______ the baby in her arms. (Cô ấy ôm đứa bé một cách dịu dàng trong vòng tay.)</li>
+        <li value="1">Tenderly <strong>held</strong> /hɛld/</li>
+        <li className="list-none">She ______ the baby in her arms.</li>
+        <li className="list-none margin-bottom-20">Cô ấy ôm đứa bé một cách dịu dàng trong vòng tay.</li>
 
-        <li value="2"><strong>Tenderly</strong> touched: Chạm vào một cách dịu dàng /ˈtɛndərli tʌtʃ/</li>
-        <li className="list-none margin-bottom-20">He ______ her cheek. (Anh ấy chạm nhẹ vào má cô ấy một cách dịu dàng.)</li>
+        <li value="2">Tenderly <strong>touched</strong> /tʌtʃt/</li>
+        <li className="list-none">He ______ her cheek.</li>
+        <li className="list-none margin-bottom-20">Anh ấy chạm nhẹ vào má cô ấy một cách dịu dàng.</li>
 
-        <li value="3"><strong>Tenderly</strong> kissed: Hôn một cách dịu dàng /ˈtɛndərli kɪs/</li>
-        <li className="list-none margin-bottom-20">They ______ goodbye. (Họ hôn tạm biệt nhau một cách dịu dàng.)</li>
+        <li value="3">Tenderly <strong>kissed</strong> /kɪst/</li>
+        <li className="list-none">They ______ goodbye.</li>
+        <li className="list-none margin-bottom-20">Họ hôn tạm biệt nhau một cách dịu dàng.</li>
 
-        <li value="4"><strong>Tenderly</strong> cared: Chăm sóc một cách dịu dàng /ˈtɛndərli kɛər/</li>
-        <li className="list-none margin-bottom-20">She ______ for her sick mother. (Cô ấy chăm sóc người mẹ ốm yếu của mình một cách dịu dàng.)</li>
+        <li value="4">Tenderly <strong>cared</strong> /keərd/</li>
+        <li className="list-none">She ______ for her sick mother.</li>
+        <li className="list-none margin-bottom-20">Cô ấy chăm sóc người mẹ ốm yếu của mình một cách dịu dàng.</li>
 
-        <li value="5"><strong>Tenderly</strong> spoke: Nói một cách dịu dàng /ˈtɛndərli spiːk/</li>
-        <li className="list-none margin-bottom-20">He ______ to her about her fears. (Anh ấy nói chuyện với cô ấy về nỗi sợ hãi của cô ấy một cách dịu dàng.)</li>
+        <li value="5">Tenderly <strong>spoke</strong> /spoʊk/</li>
+        <li className="list-none">He ______ to her about her fears.</li>
+        <li className="list-none margin-bottom-20">Anh ấy nói chuyện với cô ấy về nỗi sợ hãi của cô ấy một cách dịu dàng.</li>
 
-        <li value="6"><strong>Tenderly</strong> looked: Nhìn một cách dịu dàng /ˈtɛndərli lʊk/</li>
-        <li className="list-none margin-bottom-20">She ______ at her sleeping child. (Cô ấy nhìn đứa con đang ngủ của mình một cách dịu dàng.)</li>
+        <li value="6">Tenderly <strong>looked</strong> /lʊkt/</li>
+        <li className="list-none">She ______ at her sleeping child.</li>
+        <li className="list-none margin-bottom-20">Cô ấy nhìn đứa con đang ngủ của mình một cách dịu dàng.</li>
 
-        <li value="7"><strong>Tenderly</strong> smiled: Mỉm cười một cách dịu dàng /ˈtɛndərli smaɪl/</li>
-        <li className="list-none margin-bottom-20">He ______ at her. (Anh ấy mỉm cười với cô ấy một cách dịu dàng.)</li>
+        <li value="7">Tenderly <strong>smiled</strong> /smaɪld/</li>
+        <li className="list-none">He ______ at her.</li>
+        <li className="list-none margin-bottom-20">Anh ấy mỉm cười với cô ấy một cách dịu dàng.</li>
 
-        <li value="8"><strong>Tenderly</strong> embraced: Ôm ấp một cách dịu dàng /ˈtɛndərli ɪmˈbreɪs/</li>
-        <li className="list-none margin-bottom-20">They ______ after their long separation. (Họ ôm ấp nhau một cách dịu dàng sau thời gian dài xa cách.)</li>
+        <li value="8">Tenderly <strong>embraced</strong> /ɪmˈbreɪst/</li>
+        <li className="list-none">They ______ after their long separation.</li>
+        <li className="list-none margin-bottom-20">Họ ôm ấp nhau một cách dịu dàng sau thời gian dài xa cách.</li>
 
-        <li value="9"><strong>Tenderly</strong> comforted: An ủi một cách dịu dàng /ˈtɛndərli ˈkʌmfərt/</li>
-        <li className="list-none margin-bottom-20">She ______ her friend who was crying. (Cô ấy an ủi người bạn đang khóc của mình một cách dịu dàng.)</li>
+        <li value="9">Tenderly <strong>comforted</strong> /ˈkʌmfərtɪd/</li>
+        <li className="list-none">She ______ her friend who was crying.</li>
+        <li className="list-none margin-bottom-20">Cô ấy an ủi người bạn đang khóc của mình một cách dịu dàng.</li>
 
-        <li value="10"><strong>Tenderly</strong> caressed: Vuốt ve một cách dịu dàng /ˈtɛndərli kəˈrɛs/</li>
-        <li className="list-none margin-bottom-20">He ______ her hair. (Anh ấy vuốt ve mái tóc cô ấy một cách dịu dàng.)</li>
+        <li value="10">Tenderly <strong>caressed</strong> /kəˈrest/</li>
+        <li className="list-none">He ______ her hair.</li>
+        <li className="list-none margin-bottom-20">Anh ấy vuốt ve mái tóc cô ấy một cách dịu dàng.</li>
 
       </ol>
 
