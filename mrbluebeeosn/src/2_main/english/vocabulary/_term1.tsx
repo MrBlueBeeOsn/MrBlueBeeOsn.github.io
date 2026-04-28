@@ -64,8 +64,10 @@ export default function (): React.JSX.Element {
         <ul className="list-square">
 
           <li></li>
+          <li className="margin-bottom-20 list-none"></li>
 
           <li></li>
+          <li className="list-none"></li>
 
         </ul>
 
@@ -82,12 +84,15 @@ export default function (): React.JSX.Element {
         <ul className="list-square">
 
           {/* <li></li>
-          <li className="margin-bottom-20 list-none"></li> */}
-
-          {/* <li></li>
+          <li className="list-none"></li>
           <li className="margin-bottom-20 list-none"></li> */}
 
           <li></li>
+          <li className="list-none"></li>
+          <li className="margin-bottom-20 list-none"></li>
+
+          <li></li>
+          <li className="list-none"></li>
           <li className="list-none"></li>
 
         </ul>
@@ -105,12 +110,15 @@ export default function (): React.JSX.Element {
         <ul className="list-square">
 
           {/* <li></li>
+          <li className="list-none"></li>
           <li className="margin-bottom-20 list-none"></li> */}
 
           <li></li>
+          <li className="list-none"></li>
           <li className="margin-bottom-20 list-none"></li>
 
           <li></li>
+          <li className="list-none"></li>
           <li className="list-none"></li>
 
         </ul>
@@ -130,12 +138,15 @@ export default function (): React.JSX.Element {
         <ul className="list-square">
 
           {/* <li></li>
+          <li className="list-none"></li>
           <li className="margin-bottom-20 list-none"></li> */}
 
           <li></li>
+          <li className="list-none"></li>
           <li className="margin-bottom-20 list-none"></li>
 
           <li></li>
+          <li className="list-none"></li>
           <li className="list-none"></li>
 
         </ul>
@@ -203,7 +214,7 @@ export default function (): React.JSX.Element {
         <strong>&nbsp;thường xuyên</strong>:
       </p>
 
-      <p className="text-indent-whole"></p>
+      <p className="text-indent-whole margin-bottom-20"></p>
 
         <p className="text-indent-whole">Ví dụ để so sánh (sự khác biệt):</p>
 
@@ -220,8 +231,10 @@ export default function (): React.JSX.Element {
           {/* <ol>
 
             <li></li>
+            <li className="list-none margin-bottom-20"></li>
 
-            <li className="margin-bottom-20"></li>
+            <li value="2">.</li>
+            <li className="list-none margin-bottom-20"></li>
 
           </ol>
 

@@ -63,9 +63,11 @@ export default function Gently1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>She closed the door ______. (Cô ấy đóng cửa nhẹ nhàng.)</li>
+          <li>She closed the door ______.</li>
+          <li className="margin-bottom-20 list-none">Cô ấy đóng cửa nhẹ nhàng.</li>
 
-          <li>Please speak ______ to the child. (Làm ơn nói chuyện nhẹ nhàng với đứa trẻ.)</li>
+          <li>Please speak ______ to the child.</li>
+          <li className="list-none">Làm ơn nói chuyện nhẹ nhàng với đứa trẻ.</li>
 
         </ul>
 
@@ -81,8 +83,9 @@ export default function Gently1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Gentle (adj): Nhẹ nhàng /ˈdʒɛntl/</li>
-          <li className="list-none">She has a ______ nature. (Cô ấy có một tính cách dịu dàng.)</li>
+          <li>Gentle (adj) /ˈdʒɛntl/</li>
+          <li className="list-none">She has a ______ nature.</li>
+          <li className="list-none">Cô ấy có một tính cách dịu dàng.</li>
 
         </ul>
 
@@ -98,11 +101,13 @@ export default function Gently1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li><Link to="/vocabulary/softly-1">Softly</Link>: Mềm mại /ˈsɒftli/</li>
-          <li className="margin-bottom-20 list-none">She spoke ______. (Cô ấy nói nhỏ nhẹ.)</li>
+          <li><Link to="/vocabulary/softly-1">Softly</Link> /ˈsɒftli/</li>
+          <li className="list-none">She spoke ______.</li>
+          <li className="margin-bottom-20 list-none">Cô ấy nói nhỏ nhẹ.</li>
 
-          <li><Link to="/vocabulary/carefully-1">Carefully</Link>: Cẩn thận /ˈkeəfəli/</li>
-          <li className="list-none">Handle the glass ______. (Nhẹ nhàng cầm cái ly.)</li>
+          <li><Link to="/vocabulary/carefully-1">Carefully</Link> /ˈkeəfəli/</li>
+          <li className="list-none">Handle the glass ______.</li>
+          <li className="list-none">Nhẹ nhàng cầm cái ly.</li>
 
         </ul>
 
@@ -120,11 +125,13 @@ export default function Gently1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Roughly: Thô bạo /ˈrʌfli/</li>
-          <li className="margin-bottom-20 list-none">He handled the package ______. (Anh ấy cầm gói hàng một cách thô bạo.)</li>
+          <li>Roughly /ˈrʌfli/</li>
+          <li className="list-none">He handled the package ______.</li>
+          <li className="margin-bottom-20 list-none">Anh ấy cầm gói hàng một cách thô bạo.</li>
 
-          <li>Violently: Bạo lực /ˈvaɪələntli/</li>
-          <li className="list-none">The storm raged ______. (Bão nổi lên dữ dội.)</li>
+          <li>Violently /ˈvaɪələntli/</li>
+          <li className="list-none">The storm raged ______.</li>
+          <li className="list-none">Bão nổi lên dữ dội.</li>
 
         </ul>
       
@@ -150,7 +157,7 @@ export default function Gently1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>She is ______ petting the cat.</li>
-          <li className="list-none">(Cô ấy đang vuốt ve con mèo một cách nhẹ nhàng.)</li>
+          <li className="list-none">Cô ấy đang vuốt ve con mèo một cách nhẹ nhàng.</li>
 
         </ul>
 
@@ -170,7 +177,7 @@ export default function Gently1(): React.JSX.Element {
         <ul className="list-square">
 
           <li>She closed the book ______ and put it down.</li>
-          <li className="list-none">(Cô ấy đóng sách nhẹ nhàng và đặt nó xuống.)</li>
+          <li className="list-none">Cô ấy đóng sách nhẹ nhàng và đặt nó xuống.</li>
 
         </ul>
 
@@ -185,15 +192,17 @@ export default function Gently1(): React.JSX.Element {
         <strong>&nbsp;thường xuyên</strong>:
       </p>
 
-      <p className="text-indent-whole">Thường xuyên sử dụng từ này trong các bài viết hoặc cuộc trò chuyện.</p>
+      <p className="text-indent-whole margin-bottom-20">Thường xuyên sử dụng từ này trong các bài viết hoặc cuộc trò chuyện.</p>
 
         <p className="text-indent-whole">Ví dụ để so sánh (sự khác biệt):</p>
 
           <ol>
 
-            <li>He pushed the door. (Anh ấy đẩy cửa.)</li>
+            <li>He pushed the door.</li>
+            <li className="list-none margin-bottom-20">Anh ấy đẩy cửa.</li>
 
-            <li className="margin-bottom-20">He pushed the door ______. (Anh ấy đẩy cửa nhẹ nhàng.)</li>
+            <li value="2">He pushed the door ______.</li>
+            <li className="list-none margin-bottom-20">Anh ấy đẩy cửa nhẹ nhàng.</li>
 
           </ol>
 

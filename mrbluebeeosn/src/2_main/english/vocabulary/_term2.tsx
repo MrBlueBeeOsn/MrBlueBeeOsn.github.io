@@ -62,34 +62,44 @@ export default function (): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1"></li>
+        <li value="1"> <strong></strong> //</li>
+        <li className="list-none"></li>
         <li className="list-none margin-bottom-20"></li>
 
-        <li value="2"></li>
+        <li value="2"> <strong></strong> //</li>
+        <li className="list-none"></li>
         <li className="list-none margin-bottom-20"></li>
 
-        <li value="3"></li>
+        <li value="3"> <strong></strong> //</li>
+        <li className="list-none"></li>
         <li className="list-none margin-bottom-20"></li>
 
-        <li value="4"></li>
+        <li value="4"> <strong></strong> //</li>
+        <li className="list-none"></li>
         <li className="list-none margin-bottom-20"></li>
 
-        <li value="5"></li>
+        <li value="5"> <strong></strong> //</li>
+        <li className="list-none"></li>
         <li className="list-none margin-bottom-20"></li>
 
-        <li value="6"></li>
+        <li value="6"> <strong></strong> //</li>
+        <li className="list-none"></li>
         <li className="list-none margin-bottom-20"></li>
 
-        <li value="7"></li>
+        <li value="7"> <strong></strong> //</li>
+        <li className="list-none"></li>
         <li className="list-none margin-bottom-20"></li>
 
-        <li value="8"></li>
+        <li value="8"> <strong></strong> //</li>
+        <li className="list-none"></li>
         <li className="list-none margin-bottom-20"></li>
 
-        <li value="9"></li>
+        <li value="9"> <strong></strong> //</li>
+        <li className="list-none"></li>
         <li className="list-none margin-bottom-20"></li>
 
-        <li value="10"></li>
+        <li value="10"> <strong></strong> //</li>
+        <li className="list-none"></li>
         <li className="list-none margin-bottom-20"></li>
 
       </ol>
