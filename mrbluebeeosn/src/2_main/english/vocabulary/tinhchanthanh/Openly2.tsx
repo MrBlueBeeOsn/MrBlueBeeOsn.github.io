@@ -62,35 +62,45 @@ export default function Openly2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1"><strong>Openly</strong> discussed: Được thảo luận công khai /ˈoʊpənli dɪˈskʌst/</li>
-        <li className="list-none margin-bottom-20">The issue was <strong>openly</strong> discussed at the meeting. (Vấn đề này đã được thảo luận công khai tại cuộc họp.)</li>
+        <li value="1">Openly <strong>discussed</strong> /dɪˈskʌst/</li>
+        <li className="list-none">The issue was ______ at the meeting.</li>
+        <li className="list-none margin-bottom-20">Vấn đề này đã được thảo luận công khai tại cuộc họp.</li>
 
-        <li value="2"><strong>Openly</strong> criticized: Bị chỉ trích công khai /ˈoʊpənli ˈkrɪtɪsaɪzd/</li>
-        <li className="list-none margin-bottom-20">The politician was <strong>openly</strong> criticized for his policies. (Vị chính trị gia đã bị chỉ trích công khai vì các chính sách của ông ấy.)</li>
+        <li value="2">Openly <strong>criticized</strong> /ˈkrɪtɪsaɪzd/</li>
+        <li className="list-none">The politician was ______ for his policies.</li>
+        <li className="list-none margin-bottom-20">Vị chính trị gia đã bị chỉ trích công khai vì các chính sách của ông ấy.</li>
 
-        <li value="3"><strong>Openly</strong> admired: Được ngưỡng mộ công khai /ˈoʊpənli ədˈmaɪərd/</li>
-        <li className="list-none margin-bottom-20">The athlete was <strong>openly</strong> admired for his achievements. (Vận động viên này được ngưỡng mộ công khai vì những thành tích của anh ấy.)</li>
+        <li value="3">Openly <strong>admired</strong> /ədˈmaɪərd/</li>
+        <li className="list-none">The athlete was ______ for his achievements.</li>
+        <li className="list-none margin-bottom-20">Vận động viên này được ngưỡng mộ công khai vì những thành tích của anh ấy.</li>
 
-        <li value="4"><strong>Openly</strong> supported: Được ủng hộ công khai /ˈoʊpənli səˈpɔːrtɪd/</li>
-        <li className="list-none margin-bottom-20">The cause was <strong>openly</strong> supported by many celebrities. (Nguyên nhân này đã được nhiều người nổi tiếng ủng hộ công khai.)</li>
+        <li value="4">Openly <strong>supported</strong> /səˈpɔːrtɪd/</li>
+        <li className="list-none">The cause was ______ by many celebrities.</li>
+        <li className="list-none margin-bottom-20">Nguyên nhân này đã được nhiều người nổi tiếng ủng hộ công khai.</li>
 
-        <li value="5"><strong>Openly</strong> questioned: Được đặt câu hỏi công khai /ˈoʊpənli ˈkwɛstʃənd/</li>
-        <li className="list-none margin-bottom-20">The theory was <strong>openly</strong> questioned by many scientists. (Thuyết này đã bị nhiều nhà khoa học đặt câu hỏi công khai.)</li>
+        <li value="5">Openly <strong>questioned</strong> /ˈkwɛstʃənd/</li>
+        <li className="list-none">The theory was ______ by many scientists.</li>
+        <li className="list-none margin-bottom-20">Thuyết này đã bị nhiều nhà khoa học đặt câu hỏi công khai.</li>
 
-        <li value="6"><strong>Openly</strong> opposed: Bị phản đối công khai /ˈoʊpənli əˈpoʊzd/</li>
-        <li className="list-none margin-bottom-20">The plan was <strong>openly</strong> opposed by the local residents. (Kế hoạch này đã bị người dân địa phương phản đối công khai.)</li>
+        <li value="6">Openly <strong>opposed</strong> /əˈpoʊzd/</li>
+        <li className="list-none">The plan was ______ by the local residents.</li>
+        <li className="list-none margin-bottom-20">Kế hoạch này đã bị người dân địa phương phản đối công khai.</li>
 
-        <li value="7"><strong>Openly</strong> expressed: Được bày tỏ công khai /ˈoʊpənli ɪkˈsprɛst/</li>
-        <li className="list-none margin-bottom-20">Their feelings were <strong>openly</strong> expressed in the letter. (Cảm xúc của họ đã được bày tỏ công khai trong bức thư.)</li>
+        <li value="7">Openly <strong>expressed</strong> /ɪkˈsprɛst/</li>
+        <li className="list-none">Their feelings were ______ in the letter.</li>
+        <li className="list-none margin-bottom-20">Cảm xúc của họ đã được bày tỏ công khai trong bức thư.</li>
 
-        <li value="8"><strong>Openly</strong> acknowledged: Được thừa nhận công khai /ˈoʊpənli əkˈnɑːlɪdʒd/</li>
-        <li className="list-none margin-bottom-20">His contributions to the project were <strong>openly</strong> acknowledged by the team. (Những đóng góp của anh ấy cho dự án đã được nhóm công nhận công khai.)</li>
+        <li value="8">Openly <strong>acknowledged</strong> /əkˈnɑːlɪdʒd/</li>
+        <li className="list-none">His contributions to the project were ______ by the team.</li>
+        <li className="list-none margin-bottom-20">Những đóng góp của anh ấy cho dự án đã được nhóm công nhận công khai.</li>
 
-        <li value="9"><strong>Openly</strong> defied: Thách thức công khai /ˈoʊpənli dɪˈfaɪd/</li>
-        <li className="list-none margin-bottom-20">The protesters <strong>openly</strong> defied the government's orders. (Những người biểu tình đã công khai thách thức lệnh của chính phủ.)</li>
+        <li value="9">Openly <strong>defied</strong> /dɪˈfaɪd/</li>
+        <li className="list-none">The protesters ______ the government's orders.</li>
+        <li className="list-none margin-bottom-20">Những người biểu tình đã công khai thách thức lệnh của chính phủ.</li>
 
-        <li value="10"><strong>Openly</strong> welcomed: Được chào đón công khai /ˈoʊpənli ˈwɛlkəmd/</li>
-        <li className="list-none margin-bottom-20">The new idea was <strong>openly</strong> welcomed by the team. (Ý tưởng mới đã được đội ngũ nhiệt liệt chào đón.)</li>
+        <li value="10">Openly <strong>welcomed</strong> /ˈwɛlkəmd/</li>
+        <li className="list-none">The new idea was ______ by the team.</li>
+        <li className="list-none margin-bottom-20">Ý tưởng mới đã được đội ngũ nhiệt liệt chào đón.</li>
 
       </ol>
 

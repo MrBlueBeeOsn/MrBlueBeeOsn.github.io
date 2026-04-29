@@ -63,9 +63,11 @@ export default function Openly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>He <strong>openly</strong> expressed his opinions. (Anh ấy công khai bày tỏ quan điểm của mình.)</li>
+          <li>He ______ expressed his opinions.</li>
+          <li className="margin-bottom-20 list-none">Anh ấy công khai bày tỏ quan điểm của mình.</li>
 
-          <li>They <strong>openly</strong> supported the new policy. (Họ công khai ủng hộ chính sách mới.)</li>
+          <li>They ______ supported the new policy.</li>
+          <li className="list-none">Họ công khai ủng hộ chính sách mới.</li>
 
         </ul>
 
@@ -81,14 +83,17 @@ export default function Openly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Open (adj): Mở, công khai /ˈoʊpən/</li>
-          <li className="margin-bottom-20 list-none">The door is open. (Cửa đang mở.)</li>
+          <li>Open (adj) /ˈoʊpən/</li>
+          <li className="list-none">The door is ______.</li>
+          <li className="margin-bottom-20 list-none">Cửa đang mở.</li>
 
-          <li>Open (v): Mở /ˈoʊpən/</li>
-          <li className="margin-bottom-20 list-none">Please open the window. (Làm ơn mở cửa sổ.)</li>
+          <li>Open (v) /ˈoʊpən/</li>
+          <li className="list-none">Please ______ the window.</li>
+          <li className="margin-bottom-20 list-none">Làm ơn mở cửa sổ.</li>
 
-          <li>Openness (n): Sự cởi mở /ˈoʊpənnəs/</li>
-          <li className="list-none">Her openness made her many friends. (Sự cởi mở của cô ấy đã giúp cô ấy có nhiều bạn bè.)</li>
+          <li>Openness (n) /ˈoʊpənnəs/</li>
+          <li className="list-none">Her ______ made her many friends.</li>
+          <li className="list-none">Sự cởi mở của cô ấy đã giúp cô ấy có nhiều bạn bè.</li>
 
         </ul>
 
@@ -104,11 +109,13 @@ export default function Openly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Publicly: Một cách công khai /ˈpʌblɪkli/</li>
-          <li className="margin-bottom-20 list-none">She publicly apologized for her mistake. (Cô ấy đã công khai xin lỗi vì sai lầm của mình.)</li>
+          <li>Publicly /ˈpʌblɪkli/</li>
+          <li className="list-none">She ______ apologized for her mistake.</li>
+          <li className="margin-bottom-20 list-none">Cô ấy đã công khai xin lỗi vì sai lầm của mình.</li>
 
-          <li>Frankly: Một cách thẳng thắn /ˈfræŋkli/</li>
-          <li className="list-none">To be frankly, I don't agree with you. (Thành thật mà nói, tôi không đồng ý với bạn.)</li>
+          <li>Frankly /ˈfræŋkli/</li>
+          <li className="list-none">To be ______, I don't agree with you.</li>
+          <li className="list-none">Thành thật mà nói, tôi không đồng ý với bạn.</li>
 
         </ul>
 
@@ -126,11 +133,13 @@ export default function Openly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Secretly: Một cách bí mật /ˈsiːkrətli/</li>
-          <li className="margin-bottom-20 list-none">They secretly met at night. (Họ bí mật gặp nhau vào ban đêm.)</li>
+          <li>Secretly /ˈsiːkrətli/</li>
+          <li className="list-none">They ______ met at night.</li>
+          <li className="margin-bottom-20 list-none">Họ bí mật gặp nhau vào ban đêm.</li>
 
-          <li>Privately: Một cách riêng tư /ˈpraɪvətli/</li>
-          <li className="list-none">We talked privately about the matter. (Chúng tôi đã nói chuyện riêng về vấn đề này.)</li>
+          <li>Privately /ˈpraɪvətli/</li>
+          <li className="list-none">We talked ______ about the matter.</li>
+          <li className="list-none">Chúng tôi đã nói chuyện riêng về vấn đề này.</li>
 
         </ul>
       
@@ -155,8 +164,8 @@ export default function Openly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>He is <strong>openly</strong> speaking about his experiences.</li>
-          <li className="list-none">(Anh ấy đang công khai chia sẻ về những trải nghiệm của mình.)</li>
+          <li>He is ______ speaking about his experiences.</li>
+          <li className="list-none">Anh ấy đang công khai chia sẻ về những trải nghiệm của mình.</li>
 
         </ul>
 
@@ -175,8 +184,8 @@ export default function Openly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>She <strong>openly</strong> criticized the government's policy.</li>
-          <li className="list-none">(Cô ấy công khai chỉ trích chính sách của chính phủ.)</li>
+          <li>She ______ criticized the government's policy.</li>
+          <li className="list-none">Cô ấy công khai chỉ trích chính sách của chính phủ.</li>
 
         </ul>
 
@@ -191,15 +200,17 @@ export default function Openly1(): React.JSX.Element {
         <strong>&nbsp;thường xuyên</strong>:
       </p>
 
-      <p className="text-indent-whole">Thường xuyên sử dụng từ này trong các bài viết hoặc cuộc trò chuyện.</p>
+      <p className="text-indent-whole margin-bottom-20">Thường xuyên sử dụng từ này trong các bài viết hoặc cuộc trò chuyện.</p>
 
         <p className="text-indent-whole">Ví dụ để so sánh (sự khác biệt):</p>
 
           <ol>
 
-            <li>He supported the team. (Anh ấy ủng hộ đội.)</li>
+            <li>He supported the team.</li>
+            <li className="list-none margin-bottom-20">Anh ấy ủng hộ đội.</li>
 
-            <li className="margin-bottom-20">He <strong>openly</strong> supported the team. (Anh ấy công khai ủng hộ đội.)</li>
+            <li value="2">He ______ supported the team.</li>
+            <li className="list-none margin-bottom-20">Anh ấy công khai ủng hộ đội.</li>
 
           </ol>
 
