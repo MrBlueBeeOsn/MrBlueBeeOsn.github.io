@@ -63,9 +63,11 @@ export default function Sincerely1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li><strong>Sincerely</strong>, I appreciate your help. (Thật lòng, tôi rất cảm ơn sự giúp đỡ của bạn.)</li>
+          <li>______, I appreciate your help.</li>
+          <li className="margin-bottom-20 list-none">Thật lòng, tôi rất cảm ơn sự giúp đỡ của bạn.</li>
 
-          <li>I hope you have a <strong>sincerely</strong> enjoyable trip. (Tôi hy vọng bạn có một chuyến đi thật vui vẻ.)</li>
+          <li>I hope you have a ______ enjoyable trip.</li>
+          <li className="list-none">Tôi hy vọng bạn có một chuyến đi thật vui vẻ.</li>
 
         </ul>
 
@@ -81,11 +83,13 @@ export default function Sincerely1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Sincere (adj): Chân thành, thật lòng /sɪnˈsɪər/</li>
-          <li className="margin-bottom-20 list-none">She gave me a sincere apology. (Cô ấy đã xin lỗi tôi một cách chân thành.)</li>
+          <li>Sincere (adj) /sɪnˈsɪər/</li>
+          <li className="list-none">She gave me a ______ apology.</li>
+          <li className="margin-bottom-20 list-none">Cô ấy đã xin lỗi tôi một cách chân thành.</li>
 
-          <li>Sincerity (n): Sự chân thành /sɪnˈserəti/</li>
-          <li className="list-none">His sincerity touched me. (Sự chân thành của anh ấy đã chạm đến trái tim tôi.)</li>
+          <li>Sincerity (n) /sɪnˈserəti/</li>
+          <li className="list-none">His ______ touched me.</li>
+          <li className="list-none">Sự chân thành của anh ấy đã chạm đến trái tim tôi.</li>
 
         </ul>
 
@@ -101,11 +105,13 @@ export default function Sincerely1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li><Link to="/vocabulary/truly-1">Truly</Link>: Thật sự /ˈtruːli/</li>
-          <li className="margin-bottom-20 list-none">I truly believe in you. (Tôi thật sự tin tưởng bạn.)</li>
+          <li><Link to="/vocabulary/truly-1">Truly</Link> /ˈtruːli/</li>
+          <li className="list-none">I ______ believe in you.</li>
+          <li className="margin-bottom-20 list-none">Tôi thật sự tin tưởng bạn.</li>
 
-          <li><Link to="/vocabulary/honestly-1">Honestly</Link>: Một cách trung thực /ˈɒnɪstli/</li>
-          <li className="list-none">Honestly, I don't know the answer. (Thật lòng, tôi không biết câu trả lời.)</li>
+          <li><Link to="/vocabulary/honestly-1">Honestly</Link> /ˈɒnɪstli/</li>
+          <li className="list-none">______, I don't know the answer.</li>
+          <li className="list-none">Thật lòng, tôi không biết câu trả lời.</li>
 
         </ul>
 
@@ -123,11 +129,13 @@ export default function Sincerely1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Insincerely: Một cách không chân thành /ɪnˈsɪnsiərli/</li>
-          <li className="margin-bottom-20 list-none">He complimented her insincerely. (Anh ta khen ngợi cô ấy một cách không chân thành.)</li>
+          <li>Insincerely /ɪnˈsɪnsiərli/</li>
+          <li className="list-none">He complimented her ______.</li>
+          <li className="margin-bottom-20 list-none">Anh ta khen ngợi cô ấy một cách không chân thành.</li>
 
-          <li>Hypocritically: Một cách đạo đức giả /ˌhɪpəˈkrɪtɪkli/</li>
-          <li className="list-none">He acted hypocritically. (Anh ta hành động một cách đạo đức giả.)</li>
+          <li>Hypocritically /ˌhɪpəˈkrɪtɪkli/</li>
+          <li className="list-none">He acted ______.</li>
+          <li className="list-none">Anh ta hành động một cách đạo đức giả.</li>
 
         </ul>
       
@@ -152,8 +160,8 @@ export default function Sincerely1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>He is speaking to me <strong>sincerely</strong>.</li>
-          <li className="list-none">(Anh ấy đang nói với tôi một cách chân thành.)</li>
+          <li>He is speaking to me ______.</li>
+          <li className="list-none">Anh ấy đang nói với tôi một cách chân thành.</li>
 
         </ul>
 
@@ -172,8 +180,8 @@ export default function Sincerely1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>I <strong>sincerely</strong> hope you recover soon.</li>
-          <li className="list-none">(Tôi thật lòng hy vọng bạn mau khỏe lại.)</li>
+          <li>I ______ hope you recover soon.</li>
+          <li className="list-none">Tôi thật lòng hy vọng bạn mau khỏe lại.</li>
 
         </ul>
 
@@ -188,15 +196,17 @@ export default function Sincerely1(): React.JSX.Element {
         <strong>&nbsp;thường xuyên</strong>:
       </p>
 
-      <p className="text-indent-whole">Thường xuyên sử dụng từ này khi bạn muốn thể hiện sự chân thành trong giao tiếp.</p>
+      <p className="text-indent-whole margin-bottom-20">Thường xuyên sử dụng từ này khi bạn muốn thể hiện sự chân thành trong giao tiếp.</p>
 
         <p className="text-indent-whole">Ví dụ để so sánh (sự khác biệt):</p>
 
           <ol>
 
-            <li>Thank you. (Cảm ơn bạn.)</li>
+            <li>Thank you.</li>
+            <li className="list-none margin-bottom-20">Cảm ơn bạn.</li>
 
-            <li className="margin-bottom-20">Thank you <strong>sincerely</strong>. (Cảm ơn bạn rất nhiều.)</li>
+            <li value="2">Thank you ______.</li>
+            <li className="list-none margin-bottom-20">Cảm ơn bạn rất nhiều.</li>
 
           </ol>
 

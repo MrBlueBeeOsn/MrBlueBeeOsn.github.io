@@ -62,35 +62,45 @@ export default function Honestly2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1"><strong>Honestly</strong> speaking: Nói thật ra /ˈɒnɪstli ˈspiːkɪŋ/</li>
-        <li className="list-none margin-bottom-20"><strong>Honestly</strong> speaking, I don't like that movie. (Nói thật ra, tôi không thích bộ phim đó.)</li>
+        <li value="1">Honestly <strong>speaking</strong> /ˈspiːkɪŋ/</li>
+        <li className="list-none">______, I don't like that movie.</li>
+        <li className="list-none margin-bottom-20">Nói thật ra, tôi không thích bộ phim đó.</li>
 
-        <li value="2"><strong>Honestly</strong> believe: Thật sự tin rằng /ˈɒnɪstli bɪˈliːv/</li>
-        <li className="list-none margin-bottom-20">I <strong>honestly</strong> believe that he is innocent. (Tôi thật sự tin rằng anh ấy vô tội.)</li>
+        <li value="2">Honestly <strong>believe</strong> /bɪˈliːv/</li>
+        <li className="list-none">I ______ that he is innocent.</li>
+        <li className="list-none margin-bottom-20">Tôi thật sự tin rằng anh ấy vô tội.</li>
 
-        <li value="3"><strong>Honestly</strong> think: Thật sự nghĩ rằng /ˈɒnɪstli θɪŋk/</li>
-        <li className="list-none margin-bottom-20">I <strong>honestly</strong> think we should reconsider our plans. (Tôi thật sự nghĩ rằng chúng ta nên xem xét lại kế hoạch của mình.)</li>
+        <li value="3">Honestly <strong>think</strong> /θɪŋk/</li>
+        <li className="list-none">I ______ we should reconsider our plans.</li>
+        <li className="list-none margin-bottom-20">Tôi thật sự nghĩ rằng chúng ta nên xem xét lại kế hoạch của mình.</li>
 
-        <li value="4"><strong>Honestly</strong> admit: Thành thật thừa nhận /ˈɒnɪstli ədˈmɪt/</li>
-        <li className="list-none margin-bottom-20">I <strong>honestly</strong> admit that I made a mistake. (Tôi thành thật thừa nhận rằng tôi đã mắc sai lầm.)</li>
+        <li value="4">Honestly <strong>admit</strong> /ədˈmɪt/</li>
+        <li className="list-none">I ______ that I made a mistake.</li>
+        <li className="list-none margin-bottom-20">Tôi thành thật thừa nhận rằng tôi đã mắc sai lầm.</li>
 
-        <li value="5"><strong>Honestly</strong> speaking, I don't know: Nói thật ra, tôi không biết /ˈɒnɪstli ˈspiːkɪŋ aɪ dəʊnt noʊ/</li>
-        <li className="list-none margin-bottom-20"><strong>Honestly</strong> speaking, I don't know how to solve this problem. (Nói thật ra, tôi không biết làm thế nào để giải quyết vấn đề này.)</li>
+        <li value="5">Honestly <strong>speaking</strong>, <strong>I don't know</strong> /ˈspiːkɪŋ aɪ dəʊnt noʊ/</li>
+        <li className="list-none">______ how to solve this problem.</li>
+        <li className="list-none margin-bottom-20">Nói thật ra, tôi không biết làm thế nào để giải quyết vấn đề này.</li>
 
-        <li value="6"><strong>Honestly</strong>, I'm surprised: Thật sự, tôi ngạc nhiên /ˈɒnɪstli aɪm səˈpraɪzd/</li>
-        <li className="list-none margin-bottom-20"><strong>Honestly</strong>, I'm surprised that you said that. (Thật sự, tôi ngạc nhiên khi bạn nói như vậy.)</li>
+        <li value="6">Honestly, <strong>I'm surprised</strong> /aɪm səˈpraɪzd/</li>
+        <li className="list-none">______ that you said that.</li>
+        <li className="list-none margin-bottom-20">Thật sự, tôi ngạc nhiên khi bạn nói như vậy.</li>
 
-        <li value="7"><strong>Honestly</strong>, I don't care: Thành thật mà nói, tôi không quan tâm /ˈɒnɪstli aɪ dəʊnt keər/</li>
-        <li className="list-none margin-bottom-20"><strong>Honestly</strong>, I don't care what he thinks. (Thành thật mà nói, tôi không quan tâm anh ấy nghĩ gì.)</li>
+        <li value="7">Honestly, <strong>I don't care</strong> /aɪ dəʊnt keər/</li>
+        <li className="list-none">______ what he thinks.</li>
+        <li className="list-none margin-bottom-20">Thành thật mà nói, tôi không quan tâm anh ấy nghĩ gì.</li>
 
-        <li value="8"><strong>Honestly</strong>, I'm disappointed: Thành thật mà nói, tôi thất vọng /ˈɒnɪstli aɪm dɪsəˈpɔɪntɪd/</li>
-        <li className="list-none margin-bottom-20"><strong>Honestly</strong>, I'm disappointed with the results. (Thành thật mà nói, tôi thất vọng với kết quả.)</li>
+        <li value="8">Honestly, <strong>I'm disappointed</strong> /aɪm dɪsəˈpɔɪntɪd/</li>
+        <li className="list-none">______ with the results.</li>
+        <li className="list-none margin-bottom-20">Thành thật mà nói, tôi thất vọng với kết quả.</li>
 
-        <li value="9"><strong>Honestly</strong>, I'm scared: Thành thật mà nói, tôi sợ /ˈɒnɪstli aɪm skeərd/</li>
-        <li className="list-none margin-bottom-20"><strong>Honestly</strong>, I'm scared of the dark. (Thành thật mà nói, tôi sợ bóng tối.)</li>
+        <li value="9">Honestly, <strong>I'm scared</strong> /aɪm skeərd/</li>
+        <li className="list-none">______ of the dark.</li>
+        <li className="list-none margin-bottom-20">Thành thật mà nói, tôi sợ bóng tối.</li>
 
-        <li value="10"><strong>Honestly</strong>, I'm happy: Thành thật mà nói, tôi vui /ˈɒnɪstli aɪm ˈhæpi/</li>
-        <li className="list-none margin-bottom-20"><strong>Honestly</strong>, I'm happy that you're here. (Thành thật mà nói, tôi rất vui khi bạn ở đây.)</li>
+        <li value="10">Honestly, <strong>I'm happy</strong> /aɪm ˈhæpi/</li>
+        <li className="list-none">______ that you're here.</li>
+        <li className="list-none margin-bottom-20">Thành thật mà nói, tôi rất vui khi bạn ở đây.</li>
 
       </ol>
 

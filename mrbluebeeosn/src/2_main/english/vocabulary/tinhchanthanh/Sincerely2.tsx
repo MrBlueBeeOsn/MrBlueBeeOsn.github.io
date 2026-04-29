@@ -62,35 +62,45 @@ export default function Sincerely2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1"><strong>Sincerely</strong> apologize: Xin lỗi chân thành /sɪnˈsɪərli əˈpɒlədʒaɪz/</li>
-        <li className="list-none margin-bottom-20">I <strong>sincerely</strong> apologize for my mistake. (Tôi xin lỗi chân thành vì lỗi lầm của mình.)</li>
+        <li value="1">Sincerely <strong>apologize</strong> /əˈpɒlədʒaɪz/</li>
+        <li className="list-none">I ______ for my mistake.</li>
+        <li className="list-none margin-bottom-20">Tôi xin lỗi chân thành vì lỗi lầm của mình.</li>
 
-        <li value="2"><strong>Sincerely</strong> appreciate: Rất trân trọng /sɪnˈsɪərli əˈpriːʃieɪt/</li>
-        <li className="list-none margin-bottom-20">I <strong>sincerely</strong> appreciate your help. (Tôi rất trân trọng sự giúp đỡ của bạn.)</li>
+        <li value="2">Sincerely <strong>appreciate</strong> /əˈpriːʃieɪt/</li>
+        <li className="list-none">I ______ your help.</li>
+        <li className="list-none margin-bottom-20">Tôi rất trân trọng sự giúp đỡ của bạn.</li>
 
-        <li value="3"><strong>Sincerely</strong> hope: Thật lòng hy vọng /sɪnˈsɪərli hoʊp/</li>
-        <li className="list-none margin-bottom-20">I <strong>sincerely</strong> hope that everything goes well for you. (Tôi thật lòng hy vọng mọi việc sẽ diễn ra tốt đẹp với bạn.)</li>
+        <li value="3">Sincerely <strong>hope</strong> /hoʊp/</li>
+        <li className="list-none">I ______ that everything goes well for you.</li>
+        <li className="list-none margin-bottom-20">Tôi thật lòng hy vọng mọi việc sẽ diễn ra tốt đẹp với bạn.</li>
 
-        <li value="4"><strong>Sincerely</strong> yours: Trân trọng /sɪnˈsɪərli jɔːrz/</li>
-        <li className="list-none margin-bottom-20"><strong>Sincerely</strong> yours, [Tên của bạn] (Thân ái)</li>
+        <li value="4">Sincerely <strong>yours</strong> /jɔːrz/</li>
+        <li className="list-none">______</li>
+        <li className="list-none margin-bottom-20">[Tên của bạn] Thân ái</li>
 
-        <li value="5"><strong>Sincerely</strong> believe: Thật lòng tin /sɪnˈsɪərli bɪˈliːv/</li>
-        <li className="list-none margin-bottom-20">I <strong>sincerely</strong> believe in the power of love. (Tôi thật lòng tin vào sức mạnh của tình yêu.)</li>
+        <li value="5">Sincerely <strong>believe</strong> /bɪˈliːv/</li>
+        <li className="list-none">I ______ in the power of love.</li>
+        <li className="list-none margin-bottom-20">Tôi thật lòng tin vào sức mạnh của tình yêu.</li>
 
-        <li value="6"><strong>Sincerely</strong> regret: Thật lòng hối hận /sɪnˈsɪərli rɪˈɡrɛt/</li>
-        <li className="list-none margin-bottom-20">I <strong>sincerely</strong> regret not being able to attend your wedding. (Tôi thật lòng hối hận vì không thể tham dự đám cưới của bạn.)</li>
+        <li value="6">Sincerely <strong>regret</strong> /rɪˈɡrɛt/</li>
+        <li className="list-none">I ______ not being able to attend your wedding.</li>
+        <li className="list-none margin-bottom-20">Tôi thật lòng hối hận vì không thể tham dự đám cưới của bạn.</li>
 
-        <li value="7"><strong>Sincerely</strong> thank: Chân thành cảm ơn /sɪnˈsɪərli θæŋk/</li>
-        <li className="list-none margin-bottom-20">I would like to <strong>sincerely</strong> thank you for your support. (Tôi muốn chân thành cảm ơn bạn vì sự ủng hộ của bạn.)</li>
+        <li value="7">Sincerely <strong>thank</strong> /θæŋk/</li>
+        <li className="list-none">I would like to ______ you for your support.</li>
+        <li className="list-none margin-bottom-20">Tôi muốn chân thành cảm ơn bạn vì sự ủng hộ của bạn.</li>
 
-        <li value="8"><strong>Sincerely</strong> wish: Chúc thật lòng /sɪnˈsɪərli wɪʃ/</li>
-        <li className="list-none margin-bottom-20">I <strong>sincerely</strong> wish you all the best in your new job. (Tôi chúc bạn thật lòng mọi điều tốt đẹp nhất trong công việc mới.)</li>
+        <li value="8">Sincerely <strong>wish</strong> /wɪʃ/</li>
+        <li className="list-none">I ______ you all the best in your new job.</li>
+        <li className="list-none margin-bottom-20">Tôi chúc bạn thật lòng mọi điều tốt đẹp nhất trong công việc mới.</li>
 
-        <li value="9"><strong>Sincerely</strong> yours, faithfully: Trân trọng, một cách trung thành /sɪnˈsɪərli jɔːrz ˈfeɪθfəli/</li>
-        <li className="list-none margin-bottom-20"><strong>Sincerely</strong> yours, faithfully, [Tên của bạn] (Trân trọng, một cách trung thành, [Tên của bạn])</li>
+        <li value="9">Sincerely <strong>yours</strong>, <strong>faithfully</strong> /jɔːrz ˈfeɪθfəli/</li>
+        <li className="list-none">______</li>
+        <li className="list-none margin-bottom-20">[Tên của bạn] Trân trọng, một cách trung thành, [Tên của bạn]</li>
 
-        <li value="10"><strong>Sincerely</strong> yours, with love: Trân trọng, với tình yêu thương /sɪnˈsɪərli jɔːrz, wɪð lʌv/</li>
-        <li className="list-none margin-bottom-20"><strong>Sincerely</strong> yours, with love, [Tên của bạn] (Trân trọng, với tình yêu thương)</li>
+        <li value="10">Sincerely <strong>yours</strong>, <strong>with love</strong> /jɔːrz, wɪð lʌv/</li>
+        <li className="list-none">______</li>
+        <li className="list-none margin-bottom-20">[Tên của bạn] Trân trọng, với tình yêu thương</li>
 
       </ol>
 
