@@ -62,35 +62,45 @@ export default function Faithfully2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1"><strong>Faithfully</strong> served: Phục vụ một cách trung thành /ˈfeɪθfʊli sɜːvd/</li>
-        <li className="list-none margin-bottom-20">He <strong>faithfully</strong> served his country for many years. (Ông ấy đã trung thành phục vụ đất nước trong nhiều năm.)</li>
+        <li value="1">Faithfully <strong>served</strong> /sɜːvd/</li>
+        <li className="list-none">He ______ his country for many years.</li>
+        <li className="list-none margin-bottom-20">Ông ấy đã trung thành phục vụ đất nước trong nhiều năm.</li>
 
-        <li value="2"><strong>Faithfully</strong> followed: Tuân theo một cách trung thành /ˈfeɪθfʊli ˈfɒləʊd/</li>
-        <li className="list-none margin-bottom-20">She <strong>faithfully</strong> followed the doctor's orders. (Cô ấy đã tuân theo chỉ dẫn của bác sĩ một cách trung thành.)</li>
+        <li value="2">Faithfully <strong>followed</strong> /ˈfɒləʊd/</li>
+        <li className="list-none">She ______ the doctor's orders.</li>
+        <li className="list-none margin-bottom-20">Cô ấy đã tuân theo chỉ dẫn của bác sĩ một cách trung thành.</li>
 
-        <li value="3"><strong>Faithfully</strong> reproduced: Tái tạo một cách trung thành /ˈfeɪθfʊli riːprəˈdjuːst/</li>
-        <li className="list-none margin-bottom-20">The painting was <strong>faithfully</strong> reproduced in the print. (Bức tranh đã được tái tạo một cách trung thành trong bản in.)</li>
+        <li value="3">Faithfully <strong>reproduced</strong> /riːprəˈdjuːst/</li>
+        <li className="list-none">The painting was ______ in the print.</li>
+        <li className="list-none margin-bottom-20">Bức tranh đã được tái tạo một cách trung thành trong bản in.</li>
 
-        <li value="4"><strong>Faithfully</strong> recorded: Ghi chép một cách trung thành /ˈfeɪθfʊli rɪˈkɔːdɪd/</li>
-        <li className="list-none margin-bottom-20">The events were <strong>faithfully</strong> recorded in the diary. (Các sự kiện đã được ghi chép một cách trung thành trong nhật ký.)</li>
+        <li value="4">Faithfully <strong>recorded</strong> /rɪˈkɔːdɪd/</li>
+        <li className="list-none">The events were ______ in the diary.</li>
+        <li className="list-none margin-bottom-20">Các sự kiện đã được ghi chép một cách trung thành trong nhật ký.</li>
 
-        <li value="5"><strong>Faithfully</strong> represented: Đại diện một cách trung thành /ˈfeɪθfʊli ˌreprɪˈzentɪd/</li>
-        <li className="list-none margin-bottom-20">The painting <strong>faithfully</strong> represented the beauty of the landscape. (Bức tranh đã đại diện một cách trung thành cho vẻ đẹp của phong cảnh.)</li>
+        <li value="5">Faithfully <strong>represented</strong> /ˌreprɪˈzentɪd/</li>
+        <li className="list-none">The painting ______ the beauty of the landscape.</li>
+        <li className="list-none margin-bottom-20">Bức tranh đã đại diện một cách trung thành cho vẻ đẹp của phong cảnh.</li>
 
-        <li value="6"><strong>Faithfully</strong> executed: Thực hiện một cách trung thành /ˈfeɪθfʊli ˈɛksɪkjuːtɪd</li>
-        <li className="list-none margin-bottom-20">The plan was <strong>faithfully</strong> executed. (Kế hoạch đã được thực hiện một cách trung thành.)</li>
+        <li value="6">Faithfully <strong>executed</strong> /ˈɛksɪkjuːtɪd</li>
+        <li className="list-none">The plan was ______.</li>
+        <li className="list-none margin-bottom-20">Kế hoạch đã được thực hiện một cách trung thành.</li>
 
-        <li value="7"><strong>Faithfully</strong> believed: Tin tưởng một cách trung thành /ˈfeɪθfʊli bɪˈliːvd/</li>
-        <li className="list-none margin-bottom-20">They <strong>faithfully</strong> believed in the power of love. (Họ tin tưởng một cách trung thành vào sức mạnh của tình yêu.)</li>
+        <li value="7">Faithfully <strong>believed</strong> /bɪˈliːvd/</li>
+        <li className="list-none">They ______ in the power of love.</li>
+        <li className="list-none margin-bottom-20">Họ tin tưởng một cách trung thành vào sức mạnh của tình yêu.</li>
 
-        <li value="8"><strong>Faithfully</strong> adhered to: Tuân thủ một cách trung thành /ˈfeɪθfʊli ədˈhɪərd tə/</li>
-        <li className="list-none margin-bottom-20">She <strong>faithfully</strong> adhered to her principles. (Cô ấy đã tuân thủ các nguyên tắc của mình một cách trung thành.)</li>
+        <li value="8">Faithfully <strong>adhered to</strong> /ədˈhɪərd tə/</li>
+        <li className="list-none">She ______ her principles.</li>
+        <li className="list-none margin-bottom-20">Cô ấy đã tuân thủ các nguyên tắc của mình một cách trung thành.</li>
 
-        <li value="9"><strong>Faithfully</strong> maintained: Bảo trì một cách trung thành /ˈfeɪθfʊli meɪnˈteɪnd/</li>
-        <li className="list-none margin-bottom-20">The garden was <strong>faithfully</strong> maintained. (Khu vườn đã được chăm sóc một cách cẩn thận.)</li>
+        <li value="9">Faithfully <strong>maintained</strong> /meɪnˈteɪnd/</li>
+        <li className="list-none">The garden was ______.</li>
+        <li className="list-none margin-bottom-20">Khu vườn đã được chăm sóc một cách cẩn thận.</li>
 
-        <li value="10"><strong>Faithfully</strong> remembered: Nhớ một cách trung thành /ˈfeɪθfʊli rɪˈmembərd/</li>
-        <li className="list-none margin-bottom-20">He <strong>faithfully</strong> remembered his childhood. (Ông ấy nhớ lại tuổi thơ của mình một cách rõ nét.)</li>
+        <li value="10">Faithfully <strong>remembered</strong> /rɪˈmembərd/</li>
+        <li className="list-none">He ______ his childhood.</li>
+        <li className="list-none margin-bottom-20">Ông ấy nhớ lại tuổi thơ của mình một cách rõ nét.</li>
 
       </ol>
 

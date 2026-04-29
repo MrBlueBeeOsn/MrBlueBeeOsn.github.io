@@ -63,9 +63,11 @@ export default function Faithfully1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>She <strong>faithfully</strong> served her company for many years. (Cô ấy đã phục vụ công ty một cách trung thành trong nhiều năm.)</li>
+          <li>She ______ served her company for many years.</li>
+          <li className="margin-bottom-20 list-none">Cô ấy đã phục vụ công ty một cách trung thành trong nhiều năm.</li>
 
-          <li>He followed the instructions <strong>faithfully</strong>. (Anh ấy đã làm theo hướng dẫn một cách chính xác.)</li>
+          <li>He followed the instructions ______.</li>
+          <li className="list-none">Anh ấy đã làm theo hướng dẫn một cách chính xác.</li>
 
         </ul>
 
@@ -81,11 +83,13 @@ export default function Faithfully1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Faithful (adj): Trung thành /ˈfeɪθfəl/</li>
-          <li className="margin-bottom-20 list-none">He is a faithful friend. (Anh ấy là một người bạn trung thành.)</li>
+          <li>Faithful (adj) /ˈfeɪθfəl/</li>
+          <li className="list-none">He is a ______ friend.</li>
+          <li className="margin-bottom-20 list-none">Anh ấy là một người bạn trung thành.</li>
 
-          <li>Faith (n): Niềm tin /feɪθ/</li>
-          <li className="list-none">He has great faith in his team. (Anh ấy có niềm tin lớn vào đội của mình.)</li>
+          <li>Faith (n) /feɪθ/</li>
+          <li className="list-none">He has great ______ in his team.</li>
+          <li className="list-none">Anh ấy có niềm tin lớn vào đội của mình.</li>
 
         </ul>
 
@@ -101,11 +105,13 @@ export default function Faithfully1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Loyally: Một cách trung thành /ˈlɔɪəli/</li>
-          <li className="margin-bottom-20 list-none">He served his country loyally. (Anh ấy đã phục vụ đất nước một cách trung thành.)</li>
+          <li>Loyally /ˈlɔɪəli/</li>
+          <li className="list-none">He served his country ______.</li>
+          <li className="margin-bottom-20 list-none">Anh ấy đã phục vụ đất nước một cách trung thành.</li>
 
-          <li>Devotedly: Một cách tận tâm /dɪˈvəʊtɪdli/</li>
-          <li className="list-none">She devotedly cared for her sick mother. (Cô ấy đã chăm sóc mẹ mình một cách tận tâm.)</li>
+          <li>Devotedly /dɪˈvəʊtɪdli/</li>
+          <li className="list-none">She ______ cared for her sick mother.</li>
+          <li className="list-none">Cô ấy đã chăm sóc mẹ mình một cách tận tâm.</li>
 
         </ul>
 
@@ -123,11 +129,13 @@ export default function Faithfully1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Treacherously: Một cách phản bội /ˈtʃiːtʃərəsli/</li>
-          <li className="margin-bottom-20 list-none">He betrayed his friends treacherously. (Anh ta đã phản bội bạn bè một cách hèn hạ.)</li>
+          <li>Treacherously /ˈtʃiːtʃərəsli/</li>
+          <li className="list-none">He betrayed his friends ______.</li>
+          <li className="margin-bottom-20 list-none">Anh ta đã phản bội bạn bè một cách hèn hạ.</li>
 
-          <li>Unfaithfully: Một cách không trung thành /ʌnˈfeɪθfəli/</li>
-          <li className="list-none">She acted unfaithfully towards her husband. (Cô ấy đã hành động không chung thủy với chồng.)</li>
+          <li>Unfaithfully /ʌnˈfeɪθfəli/</li>
+          <li className="list-none">She acted ______ towards her husband.</li>
+          <li className="list-none">Cô ấy đã hành động không chung thủy với chồng.</li>
 
         </ul>
       
@@ -152,8 +160,8 @@ export default function Faithfully1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>The dog <strong>faithfully</strong> followed its owner.</li>
-          <li className="list-none">(Con chó trung thành đi theo chủ nhân.)</li>
+          <li>The dog ______ followed its owner.</li>
+          <li className="list-none">Con chó trung thành đi theo chủ nhân.</li>
 
         </ul>
 
@@ -172,8 +180,8 @@ export default function Faithfully1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>She <strong>faithfully</strong> kept her promise.</li>
-          <li className="list-none">(Cô ấy đã giữ lời hứa một cách trung thành.)</li>
+          <li>She ______ kept her promise.</li>
+          <li className="list-none">Cô ấy đã giữ lời hứa một cách trung thành.</li>
 
         </ul>
 
@@ -188,15 +196,17 @@ export default function Faithfully1(): React.JSX.Element {
         <strong>&nbsp;thường xuyên</strong>:
       </p>
 
-      <p className="text-indent-whole">Thường xuyên sử dụng từ này trong các bài viết hoặc cuộc trò chuyện.</p>
+      <p className="text-indent-whole margin-bottom-20">Thường xuyên sử dụng từ này trong các bài viết hoặc cuộc trò chuyện.</p>
 
         <p className="text-indent-whole">Ví dụ để so sánh (sự khác biệt):</p>
 
           <ol>
 
-            <li>He finished the project. (Anh ấy đã hoàn thành dự án.)</li>
+            <li>He finished the project.</li>
+            <li className="list-none margin-bottom-20">Anh ấy đã hoàn thành dự án.</li>
 
-            <li className="margin-bottom-20">He <strong>faithfully</strong> finished the project on time. (Anh ấy đã hoàn thành dự án đúng hạn một cách trung thành.)</li>
+            <li value="2">He ______ finished the project on time.</li>
+            <li className="list-none margin-bottom-20">Anh ấy đã hoàn thành dự án đúng hạn một cách trung thành.</li>
 
           </ol>
 
