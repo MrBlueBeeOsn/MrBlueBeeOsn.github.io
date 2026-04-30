@@ -62,35 +62,45 @@ export default function Definitely2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1"><strong>Definitely</strong> not: Chắc chắn không /ˈdɛfɪnətli nɒt/</li>
-        <li className="list-none margin-bottom-20">I <strong>definitely</strong> not going to that party. (Tôi chắc chắn sẽ không đi bữa tiệc đó.)</li>
+        <li value="1">Definitely <strong>not</strong> /nɒt/</li>
+        <li className="list-none">I ______ going to that party.</li>
+        <li className="list-none margin-bottom-20">Tôi chắc chắn sẽ không đi bữa tiệc đó.</li>
 
-        <li value="2"><strong>Definitely</strong> will: Chắc chắn sẽ /ˈdɛfɪnətli wɪl/</li>
-        <li className="list-none margin-bottom-20">I <strong>definitely</strong> will be there on time. (Tôi chắc chắn sẽ đến đúng giờ.)</li>
+        <li value="2">Definitely <strong>will</strong> /wɪl/</li>
+        <li className="list-none">I ______ be there on time.</li>
+        <li className="list-none margin-bottom-20">Tôi chắc chắn sẽ đến đúng giờ.</li>
 
-        <li value="3"><strong>Definitely</strong> the best: Chắc chắn là tốt nhất /ˈdɛfɪnətli ðə bɛst/</li>
-        <li className="list-none margin-bottom-20">This is <strong>definitely</strong> the best pizza I've ever had. (Đây chắc chắn là pizza ngon nhất mà tôi từng ăn.)</li>
+        <li value="3">Definitely <strong>the best</strong> /ðə bɛst/</li>
+        <li className="list-none">This is ______ pizza I've ever had.</li>
+        <li className="list-none margin-bottom-20">Đây chắc chắn là pizza ngon nhất mà tôi từng ăn.</li>
 
-        <li value="4"><strong>Definitely</strong> need: Chắc chắn cần /ˈdɛfɪnətli niːd/</li>
-        <li className="list-none margin-bottom-20">I <strong>definitely</strong> need a vacation. (Tôi chắc chắn cần một kỳ nghỉ.)</li>
+        <li value="4">Definitely <strong>need</strong> /niːd/</li>
+        <li className="list-none">I ______ a vacation.</li>
+        <li className="list-none margin-bottom-20">Tôi chắc chắn cần một kỳ nghỉ.</li>
 
-        <li value="5"><strong>Definitely</strong> worth it: Chắc chắn đáng giá /ˈdɛfɪnətli wɜːθ ɪt/</li>
-        <li className="list-none margin-bottom-20">The movie was <strong>definitely</strong> worth watching. (Bộ phim đó chắc chắn đáng xem.)</li>
+        <li value="5">Definitely <strong>worth it</strong> /wɜːθ ɪt/</li>
+        <li className="list-none">The movie was ______ watching.</li>
+        <li className="list-none margin-bottom-20">Bộ phim đó chắc chắn đáng xem.</li>
 
-        <li value="6"><strong>Definitely</strong> know: Chắc chắn biết /ˈdɛfɪnətli noʊ/</li>
-        <li className="list-none margin-bottom-20">I <strong>definitely</strong> know the answer to that question. (Tôi chắc chắn biết câu trả lời cho câu hỏi đó.)</li>
+        <li value="6">Definitely <strong>know</strong> /noʊ/</li>
+        <li className="list-none">I ______ the answer to that question.</li>
+        <li className="list-none margin-bottom-20">Tôi chắc chắn biết câu trả lời cho câu hỏi đó.</li>
 
-        <li value="7"><strong>Definitely</strong> recommend: Chắc chắn đề xuất /ˈdɛfɪnətli ˌrekəˈmɛnd/</li>
-        <li className="list-none margin-bottom-20">I <strong>definitely</strong> recommend this restaurant. (Tôi chắc chắn đề xuất nhà hàng này.)</li>
+        <li value="7">Definitely <strong>recommend</strong> /ˌrekəˈmɛnd/</li>
+        <li className="list-none">I ______ this restaurant.</li>
+        <li className="list-none margin-bottom-20">Tôi chắc chắn đề xuất nhà hàng này.</li>
 
-        <li value="8"><strong>Definitely</strong> agree: Chắc chắn đồng ý /ˈdɛfɪnətli əˈɡriː/</li>
-        <li className="list-none margin-bottom-20">I <strong>definitely</strong> agree with you. (Tôi hoàn toàn đồng ý với bạn.)</li>
+        <li value="8">Definitely <strong>agree</strong> /əˈɡriː/</li>
+        <li className="list-none">I ______ with you.</li>
+        <li className="list-none margin-bottom-20">Tôi hoàn toàn đồng ý với bạn.</li>
 
-        <li value="9"><strong>Definitely</strong> not true: Chắc chắn không đúng /ˈdɛfɪnətli nɒt truː/</li>
-        <li className="list-none margin-bottom-20">That story is <strong>definitely</strong> not true. (Câu chuyện đó chắc chắn không đúng.)</li>
+        <li value="9">Definitely <strong>not true</strong> /nɒt truː/</li>
+        <li className="list-none">That story is ______.</li>
+        <li className="list-none margin-bottom-20">Câu chuyện đó chắc chắn không đúng.</li>
 
-        <li value="10"><strong>Definitely</strong> the best choice: Chắc chắn là lựa chọn tốt nhất /ˈdɛfɪnətli ðə bɛst tʃɔɪs/</li>
-        <li className="list-none margin-bottom-20">Buying this house is <strong>definitely</strong> the best choice. (Mua căn nhà này chắc chắn là lựa chọn tốt nhất.)</li>
+        <li value="10">Definitely <strong>the best choice</strong> /ðə bɛst tʃɔɪs/</li>
+        <li className="list-none">Buying this house is ______.</li>
+        <li className="list-none margin-bottom-20">Mua căn nhà này chắc chắn là lựa chọn tốt nhất.</li>
 
       </ol>
 

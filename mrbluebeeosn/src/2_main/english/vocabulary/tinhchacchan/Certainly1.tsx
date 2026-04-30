@@ -63,9 +63,11 @@ export default function Certainly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Can you help me with this? <strong>Certainly</strong>! (Bạn có thể giúp tôi việc này không? Chắc chắn rồi!)</li>
+          <li>Can you help me with this? ______!</li>
+          <li className="margin-bottom-20 list-none">Bạn có thể giúp tôi việc này không? Chắc chắn rồi!</li>
 
-          <li>I will <strong>certainly</strong> be there on time. (Tôi chắc chắn sẽ đến đúng giờ.)</li>
+          <li>I will ______ be there on time.</li>
+          <li className="list-none">Tôi chắc chắn sẽ đến đúng giờ.</li>
 
         </ul>
 
@@ -81,11 +83,13 @@ export default function Certainly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Certain (adj): Chắc chắn /ˈsɜːrtn/</li>
-          <li className="margin-bottom-20 list-none">I am certain that he will win. (Tôi chắc chắn rằng anh ấy sẽ thắng.)</li>
+          <li>Certain (adj) /ˈsɜːrtn/</li>
+          <li className="list-none">I am ______ that he will win.</li>
+          <li className="margin-bottom-20 list-none">Tôi chắc chắn rằng anh ấy sẽ thắng.</li>
 
-          <li>Certainty (n): Sự chắc chắn /ˈsɜːtntɪ/</li>
-          <li className="list-none">There is no certainty in life. (Không có gì là chắc chắn trong cuộc sống.)</li>
+          <li>Certainty (n) /ˈsɜːtntɪ/</li>
+          <li className="list-none">There is no ______ in life.</li>
+          <li className="list-none">Không có gì là chắc chắn trong cuộc sống.</li>
 
         </ul>
 
@@ -101,11 +105,13 @@ export default function Certainly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li><Link to="/vocabulary/definitely-1">Definitely</Link>: Chắc chắn /ˈdefɪnətli/</li>
-          <li className="margin-bottom-20 list-none">I will definitely go to the party. (Tôi chắc chắn sẽ đi dự tiệc.)</li>
+          <li><Link to="/vocabulary/definitely-1">Definitely</Link> /ˈdefɪnətli/</li>
+          <li className="list-none">I will ______ go to the party.</li>
+          <li className="margin-bottom-20 list-none">Tôi chắc chắn sẽ đi dự tiệc.</li>
 
-          <li><Link to="/vocabulary/absolutely-1">Absolutely</Link>: Hoàn toàn /ˈæbsəluːtli/</li>
-          <li className="list-none">I absolutely agree with you. (Tôi hoàn toàn đồng ý với bạn.)</li>
+          <li><Link to="/vocabulary/absolutely-1">Absolutely</Link> /ˈæbsəluːtli/</li>
+          <li className="list-none">I ______ agree with you.</li>
+          <li className="list-none">Tôi hoàn toàn đồng ý với bạn.</li>
 
         </ul>
 
@@ -123,11 +129,13 @@ export default function Certainly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Uncertainly: Một cách không chắc chắn /ʌnˈsɜːtntli/</li>
-          <li className="margin-bottom-20 list-none">He answered uncertainly. (Anh ấy trả lời một cách không chắc chắn.)</li>
+          <li>Uncertainly /ʌnˈsɜːtntli/</li>
+          <li className="list-none">He answered ______.</li>
+          <li className="margin-bottom-20 list-none">Anh ấy trả lời một cách không chắc chắn.</li>
 
-          <li>Doubtfully: Một cách nghi ngờ /ˈdaʊtfəli/</li>
-          <li className="list-none">She looked at me doubtfully. (Cô ấy nhìn tôi một cách nghi ngờ.)</li>
+          <li>Doubtfully /ˈdaʊtfəli/</li>
+          <li className="list-none">She looked at me ______.</li>
+          <li className="list-none">Cô ấy nhìn tôi một cách nghi ngờ.</li>
 
         </ul>
       
@@ -152,8 +160,8 @@ export default function Certainly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>When asked if he would attend the party, he nodded <strong>certainly</strong>.</li>
-          <li className="list-none">(Khi được hỏi liệu anh ấy có tham dự bữa tiệc không, anh ấy đã gật đầu chắc chắn.)</li>
+          <li>When asked if he would attend the party, he nodded ______.</li>
+          <li className="list-none">Khi được hỏi liệu anh ấy có tham dự bữa tiệc không, anh ấy đã gật đầu chắc chắn.</li>
 
         </ul>
 
@@ -172,11 +180,11 @@ export default function Certainly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li><strong>Certainly</strong>, I will be there.</li>
-          <li className="list-none">(Chắc chắn rồi, tôi sẽ có mặt.)</li>
+          <li>______, I will be there.</li>
+          <li className=" margin-bottom-20 list-none">Chắc chắn rồi, tôi sẽ có mặt.</li>
 
-          <li>I will <strong>certainly</strong> be there to support you.</li>
-          <li className="list-none">(Tôi chắc chắn sẽ ở đó để ủng hộ bạn.)</li>
+          <li>I will ______ be there to support you.</li>
+          <li className="list-none">Tôi chắc chắn sẽ ở đó để ủng hộ bạn.</li>
 
         </ul>
 
@@ -191,15 +199,17 @@ export default function Certainly1(): React.JSX.Element {
         <strong>&nbsp;thường xuyên</strong>:
       </p>
 
-      <p className="text-indent-whole">Thường xuyên sử dụng từ này trong các cuộc hội thoại hoặc bài viết.</p>
+      <p className="text-indent-whole margin-bottom-20">Thường xuyên sử dụng từ này trong các cuộc hội thoại hoặc bài viết.</p>
 
         <p className="text-indent-whole">Ví dụ để so sánh (sự khác biệt):</p>
 
           <ol>
 
-            <li>I might go to the movies. (Có thể tôi sẽ đi xem phim.)</li>
+            <li>I might go to the movies.</li>
+            <li className="list-none margin-bottom-20">Có thể tôi sẽ đi xem phim.</li>
 
-            <li className="margin-bottom-20">I will <strong>certainly</strong> go to the movies. (Tôi chắc chắn sẽ đi xem phim.)</li>
+            <li value="2">I will ______ go to the movies.</li>
+            <li className="list-none margin-bottom-20">Tôi chắc chắn sẽ đi xem phim.</li>
 
           </ol>
 
