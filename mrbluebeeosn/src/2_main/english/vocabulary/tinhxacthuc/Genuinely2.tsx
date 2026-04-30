@@ -62,35 +62,45 @@ export default function (): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1"><strong>Genuinely</strong> happy: Thật sự hạnh phúc /ˈdʒenjuɪnli ˈhæpi/</li>
-        <li className="list-none margin-bottom-20">She was <strong>genuinely</strong> happy to see her old friends. (Cô ấy rất vui khi gặp lại bạn bè cũ.)</li>
+        <li value="1">Genuinely <strong>happy</strong> /ˈhæpi/</li>
+        <li className="list-none">She was ______ to see her old friends.</li>
+        <li className="list-none margin-bottom-20">Cô ấy rất vui khi gặp lại bạn bè cũ.</li>
 
-        <li value="2"><strong>Genuinely</strong> concerned: Thật sự quan tâm /ˈdʒenjuɪnli kənˈsɜːnd/</li>
-        <li className="list-none margin-bottom-20">He was <strong>genuinely</strong> concerned about her well-being. (Anh ấy rất quan tâm đến sức khỏe của cô ấy.)</li>
+        <li value="2">Genuinely <strong>concerned</strong> /kənˈsɜːnd/</li>
+        <li className="list-none">He was ______ about her well-being.</li>
+        <li className="list-none margin-bottom-20">Anh ấy rất quan tâm đến sức khỏe của cô ấy.</li>
 
-        <li value="3"><strong>Genuinel</strong> grateful: Thật sự biết ơn /ˈdʒenjuɪnli ˈɡreɪtfəl/</li>
-        <li className="list-none margin-bottom-20">I am <strong>genuinely</strong> grateful for your help. (Tôi thật sự biết ơn sự giúp đỡ của bạn.)</li>
+        <li value="3">Genuinel <strong>grateful</strong> /ˈɡreɪtfəl/</li>
+        <li className="list-none">I am ______ for your help.</li>
+        <li className="list-none margin-bottom-20">Tôi thật sự biết ơn sự giúp đỡ của bạn.</li>
 
-        <li value="4"><strong>Genuinely</strong> sorry: Thật sự xin lỗi /ˈdʒenjuɪnli ˈsɒri/</li>
-        <li className="list-none margin-bottom-20">He was <strong>genuinely</strong> sorry for his mistake. (Anh ấy rất hối hận về lỗi lầm của mình.)</li>
+        <li value="4">Genuinely <strong>sorry</strong> /ˈsɒri/</li>
+        <li className="list-none">He was ______ for his mistake.</li>
+        <li className="list-none margin-bottom-20">Anh ấy rất hối hận về lỗi lầm của mình.</li>
 
-        <li value="5"><strong>Genuinely</strong> interested: Thật sự quan tâm /ˈdʒenjuɪnli ˈɪntrəstɪd/</li>
-        <li className="list-none margin-bottom-20">She was <strong>genuinely</strong> interested in his story. (Cô ấy rất quan tâm đến câu chuyện của anh ấy.)</li>
+        <li value="5">Genuinely <strong>interested</strong> /ˈɪntrəstɪd/</li>
+        <li className="list-none">She was ______ in his story.</li>
+        <li className="list-none margin-bottom-20">Cô ấy rất quan tâm đến câu chuyện của anh ấy.</li>
 
-        <li value="6"><strong>Genuinely</strong> believe: Thật sự tin /ˈdʒenjuɪnli bɪˈliːv/</li>
-        <li className="list-none margin-bottom-20">I <strong>genuinely</strong> believe in the power of love. (Tôi thật sự tin vào sức mạnh của tình yêu.)</li>
+        <li value="6">Genuinely <strong>believe</strong> /bɪˈliːv/</li>
+        <li className="list-none">I ______ in the power of love.</li>
+        <li className="list-none margin-bottom-20">Tôi thật sự tin vào sức mạnh của tình yêu.</li>
 
-        <li value="7"><strong>Genuinely</strong> admire: Thật sự ngưỡng mộ /ˈdʒenjuɪnli ədˈmaɪər/</li>
-        <li className="list-none margin-bottom-20">I <strong>genuinely</strong> admire her courage. (Tôi rất ngưỡng mộ sự dũng cảm của cô ấy.)</li>
+        <li value="7">Genuinely <strong>admire</strong> /ədˈmaɪər/</li>
+        <li className="list-none">I ______ her courage.</li>
+        <li className="list-none margin-bottom-20">Tôi rất ngưỡng mộ sự dũng cảm của cô ấy.</li>
 
-        <li value="8"><strong>Genuinely</strong> appreciate: Thật sự trân trọng /ˈdʒenjuɪnli əˈpriːʃieɪt/</li>
-        <li className="list-none margin-bottom-20">I <strong>genuinely</strong> appreciate your kindness. (Tôi thật sự trân trọng lòng tốt của bạn.)</li>
+        <li value="8">Genuinely <strong>appreciate</strong> /əˈpriːʃieɪt/</li>
+        <li className="list-none">I ______ your kindness.</li>
+        <li className="list-none margin-bottom-20">Tôi thật sự trân trọng lòng tốt của bạn.</li>
 
-        <li value="9"><strong>Genuinely</strong> care: Thật sự quan tâm /ˈdʒenjuɪnli keər/</li>
-        <li className="list-none margin-bottom-20">She <strong>genuinely</strong> cares about the welfare of others. (Cô ấy thật sự quan tâm đến phúc lợi của người khác.)</li>
+        <li value="9">Genuinely <strong>cares</strong> /keərz/</li>
+        <li className="list-none">She ______ about the welfare of others.</li>
+        <li className="list-none margin-bottom-20">Cô ấy thật sự quan tâm đến phúc lợi của người khác.</li>
 
-        <li value="10"><strong>Genuinely</strong> love: Thật sự yêu thương /ˈdʒenjuɪnli lʌv/</li>
-        <li className="list-none margin-bottom-20">He <strong>genuinely</strong> loves his family. (Anh ấy thật sự yêu thương gia đình của mình.)</li>
+        <li value="10">Genuinely <strong>loves</strong> /lʌvz/</li>
+        <li className="list-none">He ______ his family.</li>
+        <li className="list-none margin-bottom-20">Anh ấy thật sự yêu thương gia đình của mình.</li>
 
       </ol>
 

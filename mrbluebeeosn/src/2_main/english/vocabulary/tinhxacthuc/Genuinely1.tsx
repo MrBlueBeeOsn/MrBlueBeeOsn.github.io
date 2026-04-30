@@ -63,9 +63,11 @@ export default function (): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>She <strong>genuinely</strong> cares about her friends. (Cô ấy thực sự quan tâm đến bạn bè của mình.)</li>
+          <li>She ______ cares about her friends.</li>
+          <li className="margin-bottom-20 list-none">Cô ấy thực sự quan tâm đến bạn bè của mình.</li>
 
-          <li>He was <strong>genuinely</strong> surprised by the gift. (Anh ấy thực sự ngạc nhiên bởi món quà.)</li>
+          <li>He was ______ surprised by the gift.</li>
+          <li className="list-none">Anh ấy thực sự ngạc nhiên bởi món quà.</li>
 
         </ul>
 
@@ -81,11 +83,13 @@ export default function (): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Genuine (adj): Chân thành, thật /ˈdʒenjuɪn/</li>
-          <li className="margin-bottom-20 list-none">He has a genuine interest in art. (Anh ấy có một sự quan tâm chân thành đến nghệ thuật.)</li>
+          <li>Genuine (adj) /ˈdʒenjuɪn/</li>
+          <li className="list-none">He has a ______ interest in art.</li>
+          <li className="margin-bottom-20 list-none">Anh ấy có một sự quan tâm chân thành đến nghệ thuật.</li>
 
-          <li>Generate (v): Tạo ra /ˈdʒenəreɪt/</li>
-          <li className="list-none">The wind turbine generates electricity. (Tuabin gió tạo ra điện.)</li>
+          <li>Generates (v) /ˈdʒenəreɪt/</li>
+          <li className="list-none">The wind turbine ______ electricity.</li>
+          <li className="list-none">Tuabin gió tạo ra điện.</li>
 
         </ul>
 
@@ -101,11 +105,13 @@ export default function (): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Sincerely: Một cách chân thành /sɪnˈsɪərli/</li>
-          <li className="margin-bottom-20 list-none">She thanked him sincerely for his help. (Cô ấy chân thành cảm ơn anh ấy vì sự giúp đỡ.)</li>
+          <li>Sincerely /sɪnˈsɪərli/</li>
+          <li className="list-none">She thanked him ______ for his help.</li>
+          <li className="margin-bottom-20 list-none">Cô ấy chân thành cảm ơn anh ấy vì sự giúp đỡ.</li>
 
-          <li><Link to="/vocabulary/truly-1">Truly</Link>: Một cách thực sự /ˈtruːli/</li>
-          <li className="list-none">I truly believe in what he said. (Tôi thực sự tin vào những gì anh ấy nói.)</li>
+          <li><Link to="/vocabulary/truly-1">Truly</Link> /ˈtruːli/</li>
+          <li className="list-none">I ______ believe in what he said.</li>
+          <li className="list-none">Tôi thực sự tin vào những gì anh ấy nói.</li>
 
         </ul>
 
@@ -123,11 +129,13 @@ export default function (): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Insincerely: Một cách không chân thành /ɪnˈsɪnsiərli/</li>
-          <li className="margin-bottom-20 list-none">He smiled insincerely. (Anh ấy cười một cách không chân thành.)</li>
+          <li>Insincerely /ɪnˈsɪnsiərli/</li>
+          <li className="list-none">He smiled ______.</li>
+          <li className="margin-bottom-20 list-none">Anh ấy cười một cách không chân thành.</li>
 
-          <li>Hypocritically: Một cách đạo đức giả /ˌhɪpəˈkrɪtɪkli/</li>
-          <li className="list-none">He spoke hypocritically about honesty. (Anh ta nói về sự trung thực một cách đạo đức giả.)</li>
+          <li>Hypocritically /ˌhɪpəˈkrɪtɪkli/</li>
+          <li className="list-none">He spoke ______ about honesty.</li>
+          <li className="list-none">Anh ta nói về sự trung thực một cách đạo đức giả.</li>
 
         </ul>
       
@@ -152,8 +160,8 @@ export default function (): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>He is <strong>genuinely</strong> grateful for the thoughtful present.</li>
-          <li className="list-none">(Anh ấy thực sự biết ơn món quà chu đáo này.)</li>
+          <li>He is ______ grateful for the thoughtful present.</li>
+          <li className="list-none">Anh ấy thực sự biết ơn món quà chu đáo này.</li>
 
         </ul>
 
@@ -172,8 +180,8 @@ export default function (): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>He <strong>genuinely</strong> enjoys spending time with his family.</li>
-          <li className="list-none">(Anh ấy thực sự thích dành thời gian cùng gia đình.)</li>
+          <li>He ______ enjoys spending time with his family.</li>
+          <li className="list-none">Anh ấy thực sự thích dành thời gian cùng gia đình.</li>
 
         </ul>
 
@@ -188,15 +196,17 @@ export default function (): React.JSX.Element {
         <strong>&nbsp;thường xuyên</strong>:
       </p>
 
-      <p className="text-indent-whole">Thường xuyên sử dụng từ này trong các cuộc hội thoại hoặc khi viết.</p>
+      <p className="text-indent-whole margin-bottom-20">Thường xuyên sử dụng từ này trong các cuộc hội thoại hoặc khi viết.</p>
 
         <p className="text-indent-whole">Ví dụ để so sánh (sự khác biệt):</p>
 
           <ol>
 
-            <li>He said he liked my painting. (Anh ấy nói rằng anh ấy thích bức tranh của tôi.)</li>
+            <li>He said he liked my painting.</li>
+            <li className="list-none margin-bottom-20">Anh ấy nói rằng anh ấy thích bức tranh của tôi.</li>
 
-            <li className="margin-bottom-20">He <strong>genuinely</strong> admired my painting. (Anh ấy thực sự ngưỡng mộ bức tranh của tôi.)</li>
+            <li value="2">He ______ admired my painting.</li>
+            <li className="list-none margin-bottom-20">Anh ấy thực sự ngưỡng mộ bức tranh của tôi.</li>
 
           </ol>
 
