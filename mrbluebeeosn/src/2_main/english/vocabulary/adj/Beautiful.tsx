@@ -21,7 +21,7 @@ export default function Beautiful(): React.JSX.Element {
 
       {/* This is the content of Vocabulary Term. */}
 
-      <p className="margin-bottom-30"><strong>Beautiful</strong> (tính từ): Đẹp, có những phẩm chất đem lại sự hài lòng hoặc thỏa mãn cho các giác quan (đặc biệt là thị giác) hoặc cho tâm trí. Thường ám chỉ sự hài hòa, xuất sắc hoặc có tính thẩm mỹ cao.</p>
+      <p className="margin-bottom-30"><strong>Beautiful</strong> (tính từ): Đẹp, có những phẩm chất mang lại sự hài lòng hoặc thỏa mãn cho các giác quan (đặc biệt là thị giác) hoặc tâm trí. Từ này thường ám chỉ sự hài hòa, xuất sắc hoặc giá trị thẩm mỹ cao.</p>
 
       {/* =============================
             Pronunciation / Phát âm
@@ -54,30 +54,30 @@ export default function Beautiful(): React.JSX.Element {
 
       <h3 className="margin-y-50 text-center">Word Family</h3>
 
-      <p className="margin-bottom-20">Hiểu về các từ trong cùng gia đình giúp bạn linh hoạt hơn trong việc chuyển đổi loại từ, ví dụ như sử dụng cấu trúc tập trung vào danh từ để mô tả tính chất.</p>
+      <p className="margin-bottom-20">Việc hiểu cách chuyển đổi giữa các loại từ giúp bạn làm chủ cấu trúc câu, đặc biệt là khi áp dụng tư duy tập trung vào danh từ để mô tả tính chất.</p>
 
         <ul className="list-square">
 
           {/* <li></li>
           <li className="margin-bottom-20 list-none"></li> */}
 
-          <li><strong>Beautiful</strong> (Tính từ)</li>
+          <li><strong>Beautiful</strong> (Tính từ) /ˈbjuː.tɪ.fəl/</li>
           <li className="margin-bottom-20 list-none">The sunset over the ocean was truly ______.</li>
 
-          <li><strong>Beauty</strong> (Danh từ)</li>
-          <li className="margin-bottom-20 list-none">The ______ of the girl was admired by everyone in the room.</li>
+          <li><strong>Beauty</strong> (Danh từ) /ˈbjuːti/</li>
+          <li className="margin-bottom-20 list-none">The ______ of the landscape took my breath away.</li>
 
-          <li><strong>Beautify</strong> (Động từ)</li>
-          <li className="margin-bottom-20 list-none">The community decided to ______ the park by planting cherry blossoms.</li>
+          <li><strong>Beautify</strong> (Động từ) /ˈbjuːtɪfaɪ/</li>
+          <li className="margin-bottom-20 list-none">They decided to ______ the garden with seasonal flowers.</li>
 
-          <li><strong>Beautifully</strong> (Trạng từ)</li>
-          <li className="margin-bottom-20 list-none">She plays the violin ______, capturing the emotion of every note.</li>
+          <li><strong>Beautifully</strong> (Trạng từ) /ˈbjuːtɪfəli/</li>
+          <li className="margin-bottom-20 list-none">The music was ______ composed and moved the entire audience.</li>
 
-          <li><strong>Beautician</strong> (Danh từ - Chỉ người)</li>
-          <li className="margin-bottom-20 list-none">The professional ______ applied the makeup with expert precision.</li>
+          <li><strong>Beautician</strong> (Danh từ - Chỉ người) /bjuːˈtɪʃn/</li>
+          <li className="margin-bottom-20 list-none">The professional ______ prepared the actors for the film.</li>
 
-          <li><strong>Beauteous</strong> (Tính từ - Văn chương/Thơ ca)</li>
-          <li className="list-none">The poet wrote verses about the ______ moon reflecting on the lake.</li>
+          <li><strong>Beauteous</strong> (Tính từ - Văn chương) /ˈbjuːtiəs/</li>
+          <li className="list-none">The poet wrote about the ______ stars in the night sky.</li>
 
         </ul>
 
@@ -87,15 +87,15 @@ export default function Beautiful(): React.JSX.Element {
 
       <h3 className="margin-y-50 text-center">Synonyms / Từ đồng nghĩa</h3>
 
-      <p className="margin-bottom-20">While beautiful is a broad term, these synonyms offer specific nuances for different contexts.</p>
+      <p className="margin-bottom-20">Các từ đồng nghĩa dưới đây cung cấp những sắc thái chính xác hơn tùy thuộc vào ngữ cảnh cụ thể.</p>
 
       {/* =============================
             1. 
       ============================= */}
 
-      <p className="margin-top-20"><strong>1. Gorgeous</strong></p>
+      <p className="margin-top-20"><strong>1. Gorgeous</strong> /ˈɡɔːrdʒəs/</p>
 
-      <p className="text-indent-whole">Dùng cho vẻ đẹp rực rỡ, lộng lẫy, thường gây ra phản ứng mạnh mẽ về mặt cảm xúc hoặc thể chất.</p>
+      <p className="text-indent-whole">Dùng cho vẻ đẹp rực rỡ, lộng lẫy, thường gây ấn tượng mạnh ngay lập tức.</p>
 
         <ul className="list-square">
 
@@ -107,13 +107,13 @@ export default function Beautiful(): React.JSX.Element {
             2. 
       ============================= */}
 
-      <p className="margin-top-20"><strong>2. Stunning</strong></p>
+      <p className="margin-top-20"><strong>2. Stunning</strong> /ˈstʌnɪŋ/</p>
 
-      <p className="text-indent-whole">Ám chỉ vẻ đẹp gây choáng ngợp, khiến người xem sững sờ.</p>
+      <p className="text-indent-whole">Ám chỉ vẻ đẹp gây choáng ngợp, khiến người xem sững sờ hoặc bất ngờ.</p>
 
         <ul className="list-square">
 
-          <li>The penthouse offers a ______ view of the city skyline at night.</li>
+          <li>The penthouse offers a ______ view of the city skyline.</li>
 
         </ul>
 
@@ -121,9 +121,9 @@ export default function Beautiful(): React.JSX.Element {
             3. 
       ============================= */}
 
-      <p className="margin-top-20"><strong>3. Exquisite</strong></p>
+      <p className="margin-top-20"><strong>3. Exquisite</strong> /ɪkˈskwɪzɪt/</p>
 
-      <p className="text-indent-whole">Dùng cho vẻ đẹp tinh tế, sắc sảo hoặc có sự gia công tỉ mỉ.</p>
+      <p className="text-indent-whole">Dùng cho vẻ đẹp tinh tế, sắc sảo hoặc có sự gia công cực kỳ tỉ mỉ.</p>
 
         <ul className="list-square">
 
@@ -135,9 +135,9 @@ export default function Beautiful(): React.JSX.Element {
             4. 
       ============================= */}
 
-      <p className="margin-top-20"><strong>4. Lovely</strong></p>
+      <p className="margin-top-20"><strong>4. Lovely</strong> /ˈlʌvli/</p>
 
-      <p className="text-indent-whole">Gợi lên vẻ đẹp duyên dáng, đáng yêu hoặc mang lại cảm giác ấm áp, dễ chịu.</p>
+      <p className="text-indent-whole">Gợi lên vẻ đẹp duyên dáng, đáng yêu và mang lại cảm giác dễ chịu, ấm áp.</p>
 
         <ul className="list-square">
 
@@ -149,9 +149,9 @@ export default function Beautiful(): React.JSX.Element {
             5. 
       ============================= */}
 
-      <p className="margin-top-20"><strong>5. Radiant</strong></p>
+      <p className="margin-top-20"><strong>5. Radiant</strong> /ˈreɪdiənt/</p>
 
-      <p className="text-indent-whole">Ám chỉ vẻ đẹp rạng rỡ, tỏa sáng nhờ sự khỏe mạnh, hạnh phúc hoặc ánh sáng.</p>
+      <p className="text-indent-whole">Ám chỉ vẻ đẹp rạng rỡ, tỏa sáng, thường liên quan đến sức khỏe hoặc sự hạnh phúc.</p>
 
         <ul className="list-square">
 
@@ -163,13 +163,13 @@ export default function Beautiful(): React.JSX.Element {
             6. 
       ============================= */}
 
-      <p className="margin-top-20"><strong>6. Aesthetic</strong></p>
+      <p className="margin-top-20"><strong>6. Aesthetic</strong> /esˈθetɪk/</p>
 
-      <p className="text-indent-whole">Liên quan đến sự thưởng thức cái đẹp hoặc nghệ thuật; thường dùng cho những thứ có phong cách thị giác hiện đại.</p>
+      <p className="text-indent-whole">Dùng để mô tả những đặc điểm liên quan đến vẻ đẹp hoặc sự cảm thụ nghệ thuật.</p>
 
         <ul className="list-square">
 
-          <li>The cafe's minimalist ______ makes it a popular spot for photography.</li>
+          <li>The new building was designed with great ______ appeal.</li>
 
         </ul>
 
@@ -177,9 +177,9 @@ export default function Beautiful(): React.JSX.Element {
             7. 
       ============================= */}
 
-      <p className="margin-top-20"><strong>7. Magnificent</strong></p>
+      <p className="margin-top-20"><strong>7. Magnificent</strong> /mæɡˈnɪfɪsnt/</p>
 
-      <p className="text-indent-whole">Dùng cho vẻ đẹp hùng vĩ, ấn tượng hoặc có quy mô lớn.</p>
+      <p className="text-indent-whole">Dùng cho vẻ đẹp hùng vĩ, ấn tượng hoặc có quy mô tráng lệ.</p>
 
         <ul className="list-square">
 

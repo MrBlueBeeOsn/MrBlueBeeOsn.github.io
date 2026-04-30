@@ -21,7 +21,7 @@ export default function Attractive(): React.JSX.Element {
 
       {/* This is the content of Vocabulary Term. */}
 
-      <p className="margin-bottom-30"><strong>Attractive</strong> (tính từ): Hấp dẫn, lôi cuốn, có sức hút. Từ này dùng để mô tả người hoặc vật có những đặc điểm làm hài lòng thị giác hoặc thu hút sự chú ý, quan tâm của người khác.</p>
+      <p className="margin-bottom-30"><strong>Attractive</strong> (tính từ): Lôi cuốn, hấp dẫn, có sức hút. Từ này dùng để chỉ người hoặc vật có những đặc điểm gây ra sự chú ý, hứng thú hoặc thiện cảm.</p>
 
       {/* =============================
             Pronunciation / Phát âm
@@ -54,27 +54,27 @@ export default function Attractive(): React.JSX.Element {
 
       <h3 className="margin-y-50 text-center">Word Family</h3>
 
-      {/* <p className="margin-bottom-20"></p> */}
+      <p className="margin-bottom-20">Việc nắm vững các từ cùng gốc giúp bạn linh hoạt hơn khi diễn đạt cùng một ý tưởng dưới các loại từ khác nhau.</p>
 
         <ul className="list-square">
 
           {/* <li></li>
           <li className="margin-bottom-20 list-none"></li> */}
 
-          <li><strong>Attractive</strong> (Tính từ)</li>
-          <li className="margin-bottom-20 list-none">The new advertising campaign proved to be very ______ to young consumers.</li>
+          <li><strong>Attractive</strong> (Tính từ) /əˈtræktɪv/</li>
+          <li className="margin-bottom-20 list-none">The new job offer came with a very ______ salary.</li>
 
-          <li><strong>Attract</strong> (Động từ)</li>
-          <li className="margin-bottom-20 list-none">The bright colors of the flowers ______ many butterflies to the garden.</li>
+          <li><strong>Attract</strong> (Động từ) /əˈtrækt/</li>
+          <li className="margin-bottom-20 list-none">Bright colors often ______ butterflies to the garden.</li>
 
-          <li><strong>Attraction</strong> (Danh từ)</li>
-          <li className="margin-bottom-20 list-none">The main ______ of the city is its historic cathedral.</li>
+          <li><strong>Attraction</strong> (Danh từ) /əˈtrækʃn/</li>
+          <li className="margin-bottom-20 list-none">The Eiffel Tower is a major tourist ______ in Paris.</li>
 
-          <li><strong>Attractiveness</strong> (Danh từ)</li>
-          <li className="margin-bottom-20 list-none">The ______ of the proposal lies in its simplicity and low cost.</li>
+          <li><strong>Attractiveness</strong> (Danh từ - Trừu tượng) /əˈtræktɪvnəs/</li>
+          <li className="margin-bottom-20 list-none">The physical ______ of the product design helped increase sales.</li>
 
-          <li><strong>Attractively</strong> (Trạng từ)</li>
-          <li className="list-none">The food was ______ arranged on a large silver platter.</li>
+          <li><strong>Attractively</strong> (Trạng từ) /əˈtræktɪvli/</li>
+          <li className="list-none">The table was ______ decorated with flowers and candles.</li>
 
         </ul>
 
@@ -84,19 +84,19 @@ export default function Attractive(): React.JSX.Element {
 
       <h3 className="margin-y-50 text-center">Synonyms / Từ đồng nghĩa</h3>
 
-      <p className="margin-bottom-20"></p>
+      <p className="margin-bottom-20">Dưới đây là các từ có nghĩa gần giống nhưng mang những sắc thái sử dụng khác nhau.</p>
 
       {/* =============================
             1. 
       ============================= */}
 
-      <p className="margin-top-20"><strong>1. Appealing</strong></p>
+      <p className="margin-top-20"><strong>1. Appealing</strong> /əˈpiːlɪŋ/</p>
 
-      <p className="text-indent-whole">Dùng khi một thứ gì đó có vẻ thú vị, hấp dẫn hoặc làm hài lòng người khác.</p>
+      <p className="text-indent-whole">Gợi lên sự thích thú hoặc ham muốn; thường dùng cho các ý tưởng hoặc lựa chọn.</p>
 
         <ul className="list-square">
 
-          <li>The idea of a long weekend at the beach is very ______.</li>
+          <li>The idea of a long vacation is very ______ to me right now.</li>
 
         </ul>
 
@@ -104,13 +104,13 @@ export default function Attractive(): React.JSX.Element {
             2. 
       ============================= */}
 
-      <p className="margin-top-20"><strong>2. Charming</strong></p>
+      <p className="margin-top-20"><strong>2. Alluring</strong> /əˈlʊərɪŋ/</p>
 
-      <p className="text-indent-whole">Gợi lên vẻ đẹp duyên dáng, có sức quyến rũ đặc biệt về tính cách hoặc phong thái.</p>
+      <p className="text-indent-whole">Có sức quyến rũ mạnh mẽ, thường mang tính huyền bí hoặc cám dỗ.</p>
 
         <ul className="list-square">
 
-          <li>They spent the evening in a ______ little village in the mountains.</li>
+          <li>The tropical island has an ______ atmosphere that draws visitors every year.</li>
 
         </ul>
 
@@ -118,13 +118,13 @@ export default function Attractive(): React.JSX.Element {
             3. 
       ============================= */}
 
-      <p className="margin-top-20"><strong>3. Captivating</strong></p>
+      <p className="margin-top-20"><strong>3. Captivating</strong> /ˈkæptɪveɪtɪŋ/</p>
 
-      <p className="text-indent-whole">Ám chỉ sức hút mãnh liệt, khiến người khác không thể rời mắt hoặc không thể ngừng chú ý.</p>
+      <p className="text-indent-whole">Làm say đắm, thu hút toàn bộ sự chú ý của một người.</p>
 
         <ul className="list-square">
 
-          <li>The magician gave a ______ performance that left the audience in awe.</li>
+          <li>Her ______ performance held the audience’s attention until the very end.</li>
 
         </ul>
 
@@ -132,13 +132,13 @@ export default function Attractive(): React.JSX.Element {
             4. 
       ============================= */}
 
-      <p className="margin-top-20"><strong>4. Alluring</strong></p>
+      <p className="margin-top-20"><strong>4. Charming</strong> /ˈtʃɑːmɪŋ/</p>
 
-      <p className="text-indent-whole">Thường dùng cho vẻ đẹp đầy bí ẩn, quyến rũ hoặc có sức lôi cuốn mạnh mẽ.</p>
+      <p className="text-indent-whole">Duyên dáng, có sức hút nhẹ nhàng và dễ mến.</p>
 
         <ul className="list-square">
 
-          <li>The mysterious island has an ______ quality that draws explorers from all over.</li>
+          <li>We stayed in a ______ little cottage by the sea.</li>
 
         </ul>
 
@@ -146,13 +146,13 @@ export default function Attractive(): React.JSX.Element {
             5.  
       ============================= */}
 
-      <p className="margin-top-20"><strong>5. Magnetic</strong></p>
+      <p className="margin-top-20"><strong>5. Engaging</strong> /ɪnˈɡeɪdʒɪŋ/</p>
 
-      <p className="text-indent-whole">Mô tả một sức hút tự nhiên, mạnh mẽ giống như nam châm, thường nói về tính cách con người.</p>
+      <p className="text-indent-whole">Lôi cuốn, khiến người khác muốn tham gia hoặc tương tác cùng.</p>
 
         <ul className="list-square">
 
-          <li>He has a ______ personality that makes people want to follow him.</li>
+          <li>The speaker had an ______ personality that made the lecture enjoyable.</li>
 
         </ul>
 
@@ -160,13 +160,13 @@ export default function Attractive(): React.JSX.Element {
             6. 
       ============================= */}
 
-      <p className="margin-top-20"><strong>6. Tempting</strong></p>
+      <p className="margin-top-20"><strong>6. Fascinating</strong> /ˈfæsɪneɪtɪŋ/</p>
 
-      <p className="text-indent-whole">Hấp dẫn theo cách khiến người ta muốn sở hữu hoặc làm điều gì đó, thường liên quan đến mong muốn.</p>
+      <p className="text-indent-whole">Cực kỳ thú vị, khiến người ta không thể rời mắt hay ngừng suy nghĩ về nó.</p>
 
         <ul className="list-square">
 
-          <li>The dessert menu looked very ______ after the main course.</li>
+          <li>I found the documentary about deep-sea creatures absolutely ______.</li>
 
         </ul>
 
@@ -174,13 +174,13 @@ export default function Attractive(): React.JSX.Element {
             7. 
       ============================= */}
 
-      <p className="margin-top-20"><strong>7. Engaging</strong></p>
+      <p className="margin-top-20"><strong>7. Tempting</strong> /ˈtemp.tɪŋ/</p>
 
-      <p className="text-indent-whole">Dùng cho thứ gì đó thu hút sự chú ý và làm cho người khác cảm thấy thích thú hoặc muốn tham gia vào.</p>
+      <p className="text-indent-whole">Hấp dẫn theo cách khiến người ta muốn sở hữu hoặc làm điều gì đó, thường liên quan đến mong muốn.</p>
 
         <ul className="list-square">
 
-          <li>The teacher used an ______ story to explain the complex scientific concept.</li>
+          <li>The dessert menu looked very ______ after the main course.</li>
 
         </ul>
 
