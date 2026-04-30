@@ -64,35 +64,45 @@ export default function Surely2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1"><strong>Surely</strong> enough: Quả nhiên /ˈʃʊrli ɪˈnʌf/</li>
-        <li className="list-none margin-bottom-20">I thought I left my keys on the table, and <strong>surely</strong> enough, there they were. (Tôi nghĩ rằng tôi để chìa khóa trên bàn, và quả nhiên, chúng ở đó.)</li>
+        <li value="1">Surely <strong>enough</strong> /ɪˈnʌf/</li>
+        <li className="list-none">I thought I left my keys on the table, and ______, there they were.</li>
+        <li className="list-none margin-bottom-20">Tôi nghĩ rằng tôi để chìa khóa trên bàn, và quả nhiên, chúng ở đó.</li>
 
-        <li value="2"><strong>Surely</strong> must: Chắc chắn phải /ˈʃʊrli mʌst/</li>
-        <li className="list-none margin-bottom-20">She worked so hard; she <strong>surely</strong> must get a promotion. (Cô ấy làm việc rất chăm chỉ, chắc chắn cô ấy phải được thăng chức.)</li>
+        <li value="2">Surely <strong>must</strong> /mʌst/</li>
+        <li className="list-none">She worked so hard; she ______ get a promotion.</li>
+        <li className="list-none margin-bottom-20">Cô ấy làm việc rất chăm chỉ, chắc chắn cô ấy phải được thăng chức.</li>
 
-        <li value="3"><strong>Surely</strong> you know: Chắc chắn bạn biết /ˈʃʊrli juː noʊ/</li>
-        <li className="list-none margin-bottom-20"><strong>Surely</strong> you know the answer to this question. (Chắc chắn bạn biết câu trả lời cho câu hỏi này.)</li>
+        <li value="3">Surely <strong>you know</strong> /juː noʊ/</li>
+        <li className="list-none">______ the answer to this question.</li>
+        <li className="list-none margin-bottom-20">Chắc chắn bạn biết câu trả lời cho câu hỏi này.</li>
 
-        <li value="4"><strong>Surely</strong> can: Chắc chắn có thể /ˈʃʊrli kæn/</li>
-        <li className="list-none margin-bottom-20"><strong>Surely</strong> you can finish this task by tomorrow. (Chắc chắn bạn có thể hoàn thành công việc này vào ngày mai.)</li>
+        <li value="4">Surely <strong>can</strong> /kæn/</li>
+        <li className="list-none">______ you ______ finish this task by tomorrow.</li>
+        <li className="list-none margin-bottom-20">Chắc chắn bạn có thể hoàn thành công việc này vào ngày mai.</li>
 
-        <li value="5"><strong>Surely</strong> will: Chắc chắn sẽ /ˈʃʊrli wɪl/</li>
-        <li className="list-none margin-bottom-20">The weather forecast says it will rain tomorrow, so <strong>surely</strong> we will need umbrellas. (Dự báo thời tiết nói rằng trời sẽ mưa vào ngày mai, vì vậy chắc chắn chúng ta sẽ cần ô.)</li>
+        <li value="5">Surely <strong>will</strong> /wɪl/</li>
+        <li className="list-none">The weather forecast says it will rain tomorrow, so ______ we ______ need umbrellas.</li>
+        <li className="list-none margin-bottom-20">Dự báo thời tiết nói rằng trời sẽ mưa vào ngày mai, vì vậy chắc chắn chúng ta sẽ cần ô.</li>
 
-        <li value="6"><strong>Surely</strong> understand: Chắc chắn hiểu /ˈʃʊrli ˌʌndərˈstænd/</li>
-        <li className="list-none margin-bottom-20"><strong>Surely</strong> you understand the importance of this project. (Chắc chắn bạn hiểu tầm quan trọng của dự án này.)</li>
+        <li value="6">Surely <strong>understand</strong> /ˌʌndərˈstænd/</li>
+        <li className="list-none">______ you ______ the importance of this project.</li>
+        <li className="list-none margin-bottom-20">Chắc chắn bạn hiểu tầm quan trọng của dự án này.</li>
 
-        <li value="7"><strong>Surely</strong> agree: Chắc chắn đồng ý /ˈʃʊrli əˈɡriː/</li>
-        <li className="list-none margin-bottom-20"><strong>Surely</strong> you agree that this is the best solution. (Chắc chắn bạn đồng ý rằng đây là giải pháp tốt nhất.)</li>
+        <li value="7"><strong>Surely</strong> agree /əˈɡriː/</li>
+        <li className="list-none">______ you ______ that this is the best solution.</li>
+        <li className="list-none margin-bottom-20">Chắc chắn bạn đồng ý rằng đây là giải pháp tốt nhất.</li>
 
-        <li value="8"><strong>Surely</strong> remember: Chắc chắn nhớ /ˈʃʊrli rɪˈmembər/</li>
-        <li className="list-none margin-bottom-20"><strong>Surely</strong> you remember the day we met. (Chắc chắn bạn nhớ ngày chúng ta gặp nhau.)</li>
+        <li value="8"><strong>Surely</strong> remember /rɪˈmembər/</li>
+        <li className="list-none">______ you ______ the day we met.</li>
+        <li className="list-none margin-bottom-20">Chắc chắn bạn nhớ ngày chúng ta gặp nhau.</li>
 
-        <li value="9"><strong>Surely</strong> realize: Chắc chắn nhận ra /ˈʃʊrli ˈriːəlaɪz/</li>
-        <li className="list-none margin-bottom-20"><strong>Surely</strong> you realize the consequences of your actions. (Chắc chắn bạn nhận ra hậu quả của hành động của mình.)</li>
+        <li value="9">Surely <strong>realize</strong> /ˈriːəlaɪz/</li>
+        <li className="list-none">______ you ______ the consequences of your actions.</li>
+        <li className="list-none margin-bottom-20">Chắc chắn bạn nhận ra hậu quả của hành động của mình.</li>
 
-        <li value="10"><strong>Surely</strong> appreciate: Chắc chắn đánh giá cao /ˈʃʊrli əˈpriːʃieɪt/</li>
-        <li className="list-none margin-bottom-20"><strong>Surely</strong> you appreciate all the hard work we've put into this. (Chắc chắn bạn đánh giá cao tất cả những nỗ lực mà chúng ta đã bỏ ra.)</li>
+        <li value="10">Surely <strong>appreciate</strong> /əˈpriːʃieɪt/</li>
+        <li className="list-none">______ all the hard work we've put into this.</li>
+        <li className="list-none margin-bottom-20">Chắc chắn bạn đánh giá cao tất cả những nỗ lực mà chúng ta đã bỏ ra.</li>
 
       </ol>
 

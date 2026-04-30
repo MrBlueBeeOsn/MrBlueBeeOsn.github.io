@@ -63,9 +63,11 @@ export default function Surely1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li><strong>Surely</strong>, you're joking! (Chắc chắn bạn đang đùa chứ?)</li>
+          <li>______, you're joking!</li>
+          <li className="margin-bottom-20 list-none">Chắc chắn bạn đang đùa chứ?</li>
 
-          <li>He will <strong>surely</strong> win the prize. (Anh ấy chắc chắn sẽ giành được giải thưởng.)</li>
+          <li>He will ______ win the prize.</li>
+          <li className="list-none">Anh ấy chắc chắn sẽ giành được giải thưởng.</li>
 
         </ul>
 
@@ -81,8 +83,9 @@ export default function Surely1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Sure (adj): chắc chắn /ʃʊər/</li>
-          <li className="list-none">Are you sure about that? (Bạn có chắc chắn về điều đó không?)</li>
+          <li>Sure (adj) /ʃʊər/</li>
+          <li className="list-none">Are you ______ about that?</li>
+          <li className="list-none">Bạn có chắc chắn về điều đó không?</li>
 
         </ul>
 
@@ -98,11 +101,13 @@ export default function Surely1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li><Link to="/vocabulary/certainly-1">Certainly</Link>: chắc chắn /ˈsɜːrtnli/</li>
-          <li className="margin-bottom-20 list-none">Certainly, I can help you. (Chắc chắn rồi, tôi có thể giúp bạn.)</li>
+          <li><Link to="/vocabulary/certainly-1">Certainly</Link> /ˈsɜːrtnli/</li>
+          <li className="list-none">______, I can help you.</li>
+          <li className="margin-bottom-20 list-none">Chắc chắn rồi, tôi có thể giúp bạn.</li>
 
-          <li><Link to="/vocabulary/definitely-1">Definitely</Link>: chắc chắn /ˈdefɪnətli/</li>
-          <li className="list-none">I definitely want to go. (Tôi chắc chắn muốn đi.)</li>
+          <li><Link to="/vocabulary/definitely-1">Definitely</Link> /ˈdefɪnətli/</li>
+          <li className="list-none">I ______ want to go.</li>
+          <li className="list-none">Tôi chắc chắn muốn đi.</li>
 
         </ul>
 
@@ -120,11 +125,13 @@ export default function Surely1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Uncertainly: không chắc chắn /ʌnˈsɜːrtnli/</li>
-          <li className="margin-bottom-20 list-none">He spoke uncertainly. (Anh ấy nói một cách không chắc chắn.)</li>
+          <li>Uncertainly /ʌnˈsɜːrtnli/</li>
+          <li className="list-none">He spoke ______.</li>
+          <li className="margin-bottom-20 list-none">Anh ấy nói một cách không chắc chắn.</li>
 
-          <li>Doubtfully: nghi ngờ /ˈdaʊtfəli/</li>
-          <li className="list-none">She looked doubtfully at the proposal. (Cô ấy nhìn đề xuất một cách nghi ngờ.)</li>
+          <li>Doubtfully /ˈdaʊtfəli/</li>
+          <li className="list-none">She looked ______ at the proposal.</li>
+          <li className="list-none">Cô ấy nhìn đề xuất một cách nghi ngờ.</li>
 
         </ul>
       
@@ -149,8 +156,8 @@ export default function Surely1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>He nodded <strong>surely</strong>, agreeing with the proposal.</li>
-          <li className="list-none">(Anh ấy gật đầu chắc chắn, đồng ý với đề xuất.)</li>
+          <li>He nodded ______, agreeing with the proposal.</li>
+          <li className="list-none">Anh ấy gật đầu chắc chắn, đồng ý với đề xuất.</li>
 
         </ul>
 
@@ -169,8 +176,8 @@ export default function Surely1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li><strong>Surely</strong> you would like another cup of tea.</li>
-          <li className="list-none">(Chắc chắn bạn muốn một tách trà nữa chứ.)</li>
+          <li>______ you would like another cup of tea.</li>
+          <li className="list-none">Chắc chắn bạn muốn một tách trà nữa chứ.</li>
 
         </ul>
 
@@ -185,15 +192,17 @@ export default function Surely1(): React.JSX.Element {
         <strong>&nbsp;thường xuyên</strong>:
       </p>
 
-      <p className="text-indent-whole">Thường xuyên sử dụng từ này trong các cuộc hội thoại để thể hiện sự chắc chắn.</p>
+      <p className="text-indent-whole margin-bottom-20">Thường xuyên sử dụng từ này trong các cuộc hội thoại để thể hiện sự chắc chắn.</p>
 
         <p className="text-indent-whole">Ví dụ để so sánh (sự khác biệt):</p>
 
           <ol>
 
-            <li>He will win the game. (Anh ấy sẽ thắng trận đấu.)</li>
+            <li>He will win the game.</li>
+            <li className="list-none margin-bottom-20">Anh ấy sẽ thắng trận đấu.</li>
 
-            <li className="margin-bottom-20"><strong>Surely</strong> he will win the game. He's been practicing so hard. (Chắc chắn anh ấy sẽ thắng trận đấu. Anh ấy đã luyện tập rất chăm chỉ.)</li>
+            <li value="2">______ he will win the game. He's been practicing so hard.</li>
+            <li className="list-none margin-bottom-20">Chắc chắn anh ấy sẽ thắng trận đấu. Anh ấy đã luyện tập rất chăm chỉ.</li>
 
           </ol>
 
