@@ -63,9 +63,11 @@ export default function Absolutely1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>I <strong>absolutely</strong> love chocolate. (Tôi hoàn toàn yêu thích sô cô la.)</li>
+          <li>I ______ love chocolate.</li>
+          <li className="margin-bottom-20 list-none">Tôi hoàn toàn yêu thích sô cô la.</li>
 
-          <li>That's <strong>absolutely</strong> ridiculous! (Điều đó thật là vô lý!)</li>
+          <li>That's ______ ridiculous!</li>
+          <li className="list-none">Điều đó thật là vô lý!</li>
 
         </ul>
 
@@ -81,11 +83,13 @@ export default function Absolutely1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Absolute (adj): tuyệt đối /ˈæbsəluːt/</li>
-          <li className="margin-bottom-20 list-none">This is an absolute disaster. (Đây là một thảm họa hoàn toàn.)</li>
+          <li>Absolute (adj) /ˈæbsəluːt/</li>
+          <li className="list-none">This is an ______ disaster.</li>
+          <li className="margin-bottom-20 list-none">Đây là một thảm họa hoàn toàn.</li>
 
-          <li>Absolutism (n): chủ nghĩa tuyệt đối /ˈæbsəluːtɪzəm/</li>
-          <li className="list-none">He believed in absolutism in politics. (Anh ta tin vào chủ nghĩa tuyệt đối trong chính trị.)</li>
+          <li>Absolutism (n) /ˈæbsəluːtɪzəm/</li>
+          <li className="list-none">He believed in ______ in politics.</li>
+          <li className="list-none">Anh ta tin vào chủ nghĩa tuyệt đối trong chính trị.</li>
 
         </ul>
 
@@ -101,11 +105,13 @@ export default function Absolutely1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Completely: hoàn toàn /kəmˈpliːtli/</li>
-          <li className="margin-bottom-20 list-none">I'm completely exhausted. (Tôi hoàn toàn kiệt sức.)</li>
+          <li>Completely /kəmˈpliːtli/</li>
+          <li className="list-none">I'm ______ exhausted.</li>
+          <li className="margin-bottom-20 list-none">Tôi hoàn toàn kiệt sức.</li>
 
-          <li>Totally: hoàn toàn /ˈtəʊtəli/</li>
-          <li className="list-none">That's totally unfair. (Điều đó hoàn toàn bất công.)</li>
+          <li>Totally /ˈtəʊtəli/</li>
+          <li className="list-none">That's ______ unfair.</li>
+          <li className="list-none">Điều đó hoàn toàn bất công.</li>
 
         </ul>
 
@@ -123,11 +129,13 @@ export default function Absolutely1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Relatively: tương đối /ˈrelətɪvli/</li>
-          <li className="margin-bottom-20 list-none">It's relatively easy. (Nó tương đối dễ.)</li>
+          <li>Relatively /ˈrelətɪvli/</li>
+          <li className="list-none">It's ______ easy.</li>
+          <li className="margin-bottom-20 list-none">Nó tương đối dễ.</li>
 
-          <li>Partially: một phần /ˈpɑːrʃəli/</li>
-          <li className="list-none">I agree with you partially. (Tôi đồng ý với bạn một phần.)</li>
+          <li>Partially /ˈpɑːrʃəli/</li>
+          <li className="list-none">I agree with you ______.</li>
+          <li className="list-none">Tôi đồng ý với bạn một phần.</li>
 
         </ul>
       
@@ -152,8 +160,8 @@ export default function Absolutely1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>She <strong>absolutely</strong> agreed, nodding vigorously.</li>
-          <li className="list-none">(Cô ấy hoàn toàn đồng ý, gật đầu mạnh mẽ.)</li>
+          <li>She ______ agreed, nodding vigorously.</li>
+          <li className="list-none">Cô ấy hoàn toàn đồng ý, gật đầu mạnh mẽ.</li>
 
         </ul>
 
@@ -172,8 +180,8 @@ export default function Absolutely1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Do you want to go to the movies tonight? - <strong>Absolutely</strong>! That sounds like fun.</li>
-          <li className="list-none">(Bạn có muốn đi xem phim tối nay không? - Hoàn toàn! Nghe có vẻ vui đấy.)</li>
+          <li>Do you want to go to the movies tonight? - ______! That sounds like fun.</li>
+          <li className="list-none">Bạn có muốn đi xem phim tối nay không? - Hoàn toàn! Nghe có vẻ vui đấy.</li>
 
         </ul>
 
@@ -188,15 +196,17 @@ export default function Absolutely1(): React.JSX.Element {
         <strong>&nbsp;thường xuyên</strong>:
       </p>
 
-      <p className="text-indent-whole">Thường xuyên sử dụng từ này trong các cuộc hội thoại và bài viết để làm quen với cách sử dụng.</p>
+      <p className="text-indent-whole margin-bottom-20">Thường xuyên sử dụng từ này trong các cuộc hội thoại và bài viết để làm quen với cách sử dụng.</p>
 
         <p className="text-indent-whole">Ví dụ để so sánh (sự khác biệt):</p>
 
           <ol>
 
-            <li>I like apples. (Tôi thích táo.)</li>
+            <li>I like apples.</li>
+            <li className="list-none margin-bottom-20">Tôi thích táo.</li>
 
-            <li className="margin-bottom-20">I <strong>absolutely</strong> adore apples. (Tôi hoàn toàn yêu thích táo.)</li>
+            <li value="2">I ______ adore apples.</li>
+            <li className="list-none margin-bottom-20">Tôi hoàn toàn yêu thích táo.</li>
 
           </ol>
 

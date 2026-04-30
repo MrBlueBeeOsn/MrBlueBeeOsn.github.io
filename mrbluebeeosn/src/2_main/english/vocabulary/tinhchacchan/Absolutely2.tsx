@@ -62,35 +62,45 @@ export default function Absolutely2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1"><strong>Absolutely</strong> certain: Hoàn toàn chắc chắn /ˌæbsə'luːtli ˈsɜːtn/</li>
-        <li className="list-none margin-bottom-20">I am <strong>absolutely</strong> certain that he will win the race. (Tôi hoàn toàn chắc chắn rằng anh ấy sẽ thắng cuộc đua.)</li>
+        <li value="1">Absolutely <strong>certain</strong> /ˈsɜːtn/</li>
+        <li className="list-none">I am ______ that he will win the race.</li>
+        <li className="list-none margin-bottom-20">Tôi hoàn toàn chắc chắn rằng anh ấy sẽ thắng cuộc đua.</li>
 
-        <li value="2"><strong>Absolutely</strong> necessary: Hoàn toàn cần thiết /ˌæbsə'luːtli ˈnesəseri/</li>
-        <li className="list-none margin-bottom-20">It is <strong>absolutely</strong> necessary to have a passport to travel abroad. (Cần phải có hộ chiếu để đi du lịch nước ngoài là điều hoàn toàn cần thiết.)</li>
+        <li value="2">Absolutely <strong>necessary</strong> /ˈnesəseri/</li>
+        <li className="list-none">It is ______ to have a passport to travel abroad.</li>
+        <li className="list-none margin-bottom-20">Cần phải có hộ chiếu để đi du lịch nước ngoài là điều hoàn toàn cần thiết.</li>
 
-        <li value="3"><strong>Absolutely</strong> right: Hoàn toàn đúng /ˌæbsə'luːtli raɪt/</li>
-        <li className="list-none margin-bottom-20">You are <strong>absolutel</strong> right about that. (Bạn hoàn toàn đúng về điều đó.)</li>
+        <li value="3">Absolutely <strong>right</strong> /raɪt/</li>
+        <li className="list-none">You are ______ about that.</li>
+        <li className="list-none margin-bottom-20">Bạn hoàn toàn đúng về điều đó.</li>
 
-        <li value="4"><strong>Absolutely</strong> love: Yêu thích vô cùng /ˌæbsə'luːtli lʌv/</li>
-        <li className="list-none margin-bottom-20">I <strong>absolutely</strong> love chocolate ice cream. (Tôi rất thích kem sô cô la.)</li>
+        <li value="4">Absolutely <strong>love</strong> /lʌv/</li>
+        <li className="list-none">I ______ chocolate ice cream.</li>
+        <li className="list-none margin-bottom-20">Tôi rất thích kem sô cô la.</li>
 
-        <li value="5"><strong>Absolutely</strong> hate: Ghét cay ghét đắng /ˌæbsə'luːtli heɪt/</li>
-        <li className="list-none margin-bottom-20">I <strong>absolutely</strong> hate spiders. (Tôi ghét rắn độc.)</li>
+        <li value="5">Absolutely <strong>hate</strong> /heɪt/</li>
+        <li className="list-none">I ______ spiders.</li>
+        <li className="list-none margin-bottom-20">Tôi ghét rắn độc.</li>
 
-        <li value="6"><strong>Absolutely</strong> beautiful: Cực kỳ xinh đẹp /ˌæbsə'luːtli ˈbjuːtɪfəl/</li>
-        <li className="list-none margin-bottom-20">The sunset was <strong>absolutely</strong> beautiful. (Hoàng hôn thật đẹp.)</li>
+        <li value="6">Absolutely <strong>beautiful</strong> /ˈbjuːtɪfəl/</li>
+        <li className="list-none">The sunset was ______.</li>
+        <li className="list-none margin-bottom-20">Hoàng hôn thật đẹp.</li>
 
-        <li value="7"><strong>Absolutely</strong> perfect: Hoàn hảo tuyệt đối /ˌæbsə'luːtli ˈpɜːrfɪkt/</li>
-        <li className="list-none margin-bottom-20">The cake was <strong>absolutely</strong> perfect. (Chiếc bánh thật hoàn hảo.)</li>
+        <li value="7">Absolutely <strong>perfect</strong> /ˈpɜːrfɪkt/</li>
+        <li className="list-none">The cake was ______.</li>
+        <li className="list-none margin-bottom-20">Chiếc bánh thật hoàn hảo.</li>
 
-        <li value="8"><strong>Absolutely</strong> true: Hoàn toàn đúng sự thật /ˌæbsə'luːtli truː/</li>
-        <li className="list-none margin-bottom-20">What he said was <strong>absolutely</strong> true. (Những gì anh ấy nói hoàn toàn đúng sự thật.)</li>
+        <li value="8">Absolutely <strong>true</strong> /truː/</li>
+        <li className="list-none">What he said was ______.</li>
+        <li className="list-none margin-bottom-20">Những gì anh ấy nói hoàn toàn đúng sự thật.</li>
 
-        <li value="9"><strong>Absolutely</strong> convinced: Hoàn toàn tin chắc /ˌæbsə'luːtli kənˈvɪnst/</li>
-        <li className="list-none margin-bottom-20">I am <strong>absolutely</strong> convinced that she is innocent. (Tôi hoàn toàn tin rằng cô ấy vô tội.)</li>
+        <li value="9">Absolutely <strong>convinced</strong> /kənˈvɪnst/</li>
+        <li className="list-none">I am ______ that she is innocent.</li>
+        <li className="list-none margin-bottom-20">Tôi hoàn toàn tin rằng cô ấy vô tội.</li>
 
-        <li value="10"><strong>Absolutely</strong> exhausted: Mệt mỏi rã rời /ˌæbsə'luːtli ɪɡˈzɔːstɪd/</li>
-        <li className="list-none margin-bottom-20">After the marathon, I was <strong>absolutely</strong> exhausted. (Sau cuộc đua marathon, tôi mệt mỏi rã rời.)</li>
+        <li value="10">Absolutely <strong>exhausted</strong> /ɪɡˈzɔːstɪd/</li>
+        <li className="list-none">After the marathon, I was ______.</li>
+        <li className="list-none margin-bottom-20">Sau cuộc đua marathon, tôi mệt mỏi rã rời.</li>
 
       </ol>
 
