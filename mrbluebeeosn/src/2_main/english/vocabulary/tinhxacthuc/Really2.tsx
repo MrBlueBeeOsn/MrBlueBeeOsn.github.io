@@ -62,35 +62,45 @@ export default function Really2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1"><strong>Really</strong> like: Thật sự thích /ˈriːəli laɪk/</li>
-        <li className="list-none margin-bottom-20">I <strong>really</strong> like pizza. (Tôi rất thích pizza.)</li>
+        <li value="1">Really <strong>like</strong> /laɪk/</li>
+        <li className="list-none">I ______ pizza.</li>
+        <li className="list-none margin-bottom-20">Tôi rất thích pizza.</li>
 
-        <li value="2"><strong>Really</strong> want: Thật sự muốn /ˈriːəli wɒnt/</li>
-        <li className="list-none margin-bottom-20">I <strong>really</strong> want to go to Paris. (Tôi rất muốn đến Paris.)</li>
+        <li value="2">Really <strong>want</strong> /wɒnt/</li>
+        <li className="list-none">I ______ to go to Paris.</li>
+        <li className="list-none margin-bottom-20">Tôi rất muốn đến Paris.</li>
 
-        <li value="3"><strong>Really</strong> well: Rất tốt /ˈriːəli wɛl/</li>
-        <li className="list-none margin-bottom-20">She speaks English <strong>really</strong> well. (Cô ấy nói tiếng Anh rất tốt.)</li>
+        <li value="3">Really <strong>well</strong> /wɛl/</li>
+        <li className="list-none">She speaks English ______.</li>
+        <li className="list-none margin-bottom-20">Cô ấy nói tiếng Anh rất tốt.</li>
 
-        <li value="4"><strong>Really</strong> big: Rất lớn /ˈriːəli bɪɡ/</li>
-        <li className="list-none margin-bottom-20">His house is <strong>really</strong> big. (Nhà của anh ấy rất lớn.)</li>
+        <li value="4">Really <strong>big</strong> /bɪɡ/</li>
+        <li className="list-none">His house is ______.</li>
+        <li className="list-none margin-bottom-20">Nhà của anh ấy rất lớn.</li>
 
-        <li value="5"><strong>Really</strong> fast: Rất nhanh /ˈriːəli fɑːst/</li>
-        <li className="list-none margin-bottom-20">The car can go <strong>really</strong> fast. (Chiếc xe có thể chạy rất nhanh.)</li>
+        <li value="5">Really <strong>fast</strong> /fɑːst/</li>
+        <li className="list-none">The car can go ______.</li>
+        <li className="list-none margin-bottom-20">Chiếc xe có thể chạy rất nhanh.</li>
 
-        <li value="6"><strong>Really</strong> hard: Rất khó /ˈriːəli hɑːrd/</li>
-        <li className="list-none margin-bottom-20">This math problem is <strong>really</strong> hard. (Bài toán này rất khó.)</li>
+        <li value="6">Really <strong>hard</strong> /hɑːrd/</li>
+        <li className="list-none">This math problem is ______.</li>
+        <li className="list-none margin-bottom-20">Bài toán này rất khó.</li>
 
-        <li value="7"><strong>Really</strong> funny: Rất hài hước /ˈriːəli ˈfʌni/</li>
-        <li className="list-none margin-bottom-20">That joke was <strong>really</strong> funny. (Câu đùa đó thật hài hước.)</li>
+        <li value="7">Really <strong>funny</strong> /ˈfʌni/</li>
+        <li className="list-none">That joke was ______.</li>
+        <li className="list-none margin-bottom-20">Câu đùa đó thật hài hước.</li>
 
-        <li value="8"><strong>Really</strong> tired: Rất mệt /ˈriːəli ˈtaɪərd/</li>
-        <li className="list-none margin-bottom-20">I'm <strong>really</strong> tired after work. (Tôi rất mệt sau khi làm việc.)</li>
+        <li value="8">Really <strong>tired</strong> /ˈtaɪərd/</li>
+        <li className="list-none">I'm ______ after work.</li>
+        <li className="list-none margin-bottom-20">Tôi rất mệt sau khi làm việc.</li>
 
-        <li value="9"><strong>Really</strong> happy: Rất vui /ˈriːəli ˈhæpi/</li>
-        <li className="list-none margin-bottom-20">I'm <strong>really</strong> happy to see you. (Tôi rất vui khi gặp bạn.)</li>
+        <li value="9">Really <strong>happy</strong> /ˈhæpi/</li>
+        <li className="list-none">I'm ______ to see you.</li>
+        <li className="list-none margin-bottom-20">Tôi rất vui khi gặp bạn.</li>
 
-        <li value="10"><strong>Really</strong> surprised: Rất ngạc nhiên /ˈriːəli səˈpraɪzd/</li>
-        <li className="list-none margin-bottom-20">I was <strong>really</strong> surprised by the news. (Tôi rất ngạc nhiên khi nghe tin đó.)</li>
+        <li value="10">Really <strong>surprised</strong> /səˈpraɪzd/</li>
+        <li className="list-none">I was ______ by the news.</li>
+        <li className="list-none margin-bottom-20">Tôi rất ngạc nhiên khi nghe tin đó.</li>
 
       </ol>
 

@@ -62,35 +62,45 @@ export default function Truly2(): React.JSX.Element {
 
 			<ol className="margin-top-30 padding-left-30">
 
-				<li value="1"><strong>Truly</strong> appreciate: Thật sự trân trọng /ˈtruːli əˈpriːʃieɪt/</li>
-				<li className="list-none margin-bottom-20">I <strong>truly</strong> appreciate your help. (Tôi thật sự trân trọng sự giúp đỡ của bạn.)</li>
+				<li value="1">Truly <strong>appreciate</strong> /əˈpriːʃieɪt/</li>
+				<li className="list-none">I ______ your help.</li>
+				<li className="list-none margin-bottom-20">Tôi thật sự trân trọng sự giúp đỡ của bạn.</li>
 
-				<li value="2"><strong>Truly</strong> believe: Thật sự tin rằng /ˈtruːli bɪˈliːv/</li>
-				<li className="list-none margin-bottom-20">I <strong>truly</strong> believe in the power of love. (Tôi thật sự tin vào sức mạnh của tình yêu.)</li>
+				<li value="2">Truly <strong>believe</strong> /bɪˈliːv/</li>
+				<li className="list-none">I ______ in the power of love.</li>
+				<li className="list-none margin-bottom-20">Tôi thật sự tin vào sức mạnh của tình yêu.</li>
 
-				<li value="3"><strong>Truly</strong> understand: Thật sự hiểu /ˈtruːli ʌndərˈstænd/</li>
-				<li className="list-none margin-bottom-20">I <strong>truly</strong> understand how you feel. (Tôi thật sự hiểu cảm giác của bạn.)</li>
+				<li value="3">Truly <strong>understand</strong> /ʌndərˈstænd/</li>
+				<li className="list-none">I ______ how you feel.</li>
+				<li className="list-none margin-bottom-20">Tôi thật sự hiểu cảm giác của bạn.</li>
 
-				<li value="4"><strong>Truly</strong> sorry: Thật sự xin lỗi /ˈtruːli ˈsɔːri/</li>
-				<li className="list-none margin-bottom-20">I am <strong>truly</strong> sorry for what I said. (Tôi thật sự xin lỗi về những gì tôi đã nói.)</li>
+				<li value="4">Truly <strong>sorry</strong> /ˈsɔːri/</li>
+				<li className="list-none">I am ______ for what I said.</li>
+				<li className="list-none margin-bottom-20">Tôi thật sự xin lỗi về những gì tôi đã nói.</li>
 
-				<li value="5"><strong>Truly</strong> remarkable: Thật sự đáng chú ý /ˈtruːli rɪˈmɑːrkəbl/</li>
-				<li className="list-none margin-bottom-20">Her performance was <strong>truly</strong> remarkable. (Màn trình diễn của cô ấy thật sự đáng chú ý.)</li>
+				<li value="5">Truly <strong>remarkable</strong> /rɪˈmɑːrkəbl/</li>
+				<li className="list-none">Her performance was ______.</li>
+				<li className="list-none margin-bottom-20">Màn trình diễn của cô ấy thật sự đáng chú ý.</li>
 
-				<li value="6"><strong>Truly</strong> inspiring: Thật sự truyền cảm hứng /ˈtruːli ɪnˈspaɪərɪŋ/</li>
-				<li className="list-none margin-bottom-20">His story is <strong>truly</strong> inspiring. (Câu chuyện của anh ấy thật sự truyền cảm hứng.)</li>
+				<li value="6">Truly <strong>inspiring</strong> /ɪnˈspaɪərɪŋ/</li>
+				<li className="list-none">His story is ______.</li>
+				<li className="list-none margin-bottom-20">Câu chuyện của anh ấy thật sự truyền cảm hứng.</li>
 
-				<li value="7"><strong>Truly</strong> unique: Thật sự độc đáo /ˈtruːli juːˈniːk/</li>
-				<li className="list-none margin-bottom-20">Her artwork is <strong>truly</strong> unique. (Tác phẩm nghệ thuật của cô ấy thật sự độc đáo.)</li>
+				<li value="7">Truly <strong>unique</strong> /juːˈniːk/</li>
+				<li className="list-none">Her artwork is ______.</li>
+				<li className="list-none margin-bottom-20">Tác phẩm nghệ thuật của cô ấy thật sự độc đáo.</li>
 
-				<li value="8"><strong>Truly</strong> grateful: Thật sự biết ơn /ˈtruːli ˈɡreɪtfəl/</li>
-				<li className="list-none margin-bottom-20">I am <strong>truly</strong> grateful for your support. (Tôi thật sự biết ơn sự ủng hộ của bạn.)</li>
+				<li value="8">Truly <strong>grateful</strong> /ˈɡreɪtfəl/</li>
+				<li className="list-none">I am ______ for your support.</li>
+				<li className="list-none margin-bottom-20">Tôi thật sự biết ơn sự ủng hộ của bạn.</li>
 
-				<li value="9"><strong>Truly</strong> blessed: Thật sự may mắn /ˈtruːli blɛst/</li>
-				<li className="list-none margin-bottom-20">I feel <strong>truly</strong> blessed to have such good friends. (Tôi cảm thấy thật sự may mắn khi có những người bạn tốt như vậy.)</li>
+				<li value="9">Truly <strong>blessed</strong> /blɛst/</li>
+				<li className="list-none">I feel ______ to have such good friends.</li>
+				<li className="list-none margin-bottom-20">Tôi cảm thấy thật sự may mắn khi có những người bạn tốt như vậy.</li>
 
-				<li value="10"><strong>Truly</strong> unforgettable: Thật sự khó quên /ˈtruːli ʌn.fərˈɡɛt.ə.bəl/</li>
-				<li className="list-none margin-bottom-20">It was a <strong>truly</strong> unforgettable experience. (Đó là một trải nghiệm thật sự khó quên.)</li>
+				<li value="10">Truly <strong>unforgettable</strong> /ʌn.fərˈɡɛt.ə.bəl/</li>
+				<li className="list-none">It was a ______ experience.</li>
+				<li className="list-none margin-bottom-20">Đó là một trải nghiệm thật sự khó quên.</li>
 
 			</ol>
 
