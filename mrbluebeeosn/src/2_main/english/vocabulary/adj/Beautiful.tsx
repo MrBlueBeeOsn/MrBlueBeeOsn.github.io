@@ -54,7 +54,7 @@ export default function Beautiful(): React.JSX.Element {
 
       <h3 className="margin-y-50 text-center">Word Family</h3>
 
-      <p className="margin-bottom-20">Việc hiểu cách chuyển đổi giữa các loại từ giúp bạn làm chủ cấu trúc câu, đặc biệt là khi áp dụng tư duy tập trung vào danh từ để mô tả tính chất.</p>
+      <p className="margin-bottom-20">Việc hiểu cách chuyển đổi giữa các loại từ giúp bạn linh hoạt hơn trong diễn đạt, đặc biệt là khi áp dụng cấu trúc tập trung vào danh từ để mô tả tính chất.</p>
 
         <ul className="list-square">
 
@@ -62,22 +62,28 @@ export default function Beautiful(): React.JSX.Element {
           <li className="margin-bottom-20 list-none"></li> */}
 
           <li><strong>Beautiful</strong> (Tính từ) /ˈbjuː.tɪ.fəl/</li>
-          <li className="margin-bottom-20 list-none">The sunset over the ocean was truly ______.</li>
+          <li className="list-none">The sunset over the ocean was truly ______.</li>
+          <li className="margin-bottom-20 list-none">Cảnh hoàng hôn trên biển thực sự rất đẹp.</li>
 
           <li><strong>Beauty</strong> (Danh từ) /ˈbjuːti/</li>
-          <li className="margin-bottom-20 list-none">The ______ of the landscape took my breath away.</li>
+          <li className="list-none">The ______ of the landscape took my breath away.</li>
+          <li className="margin-bottom-20 list-none">Vẻ đẹp của phong cảnh đã khiến tôi sững sờ.</li>
 
           <li><strong>Beautify</strong> (Động từ) /ˈbjuːtɪfaɪ/</li>
-          <li className="margin-bottom-20 list-none">They decided to ______ the garden with seasonal flowers.</li>
+          <li className="list-none">They decided to ______ the garden with seasonal flowers.</li>
+          <li className="margin-bottom-20 list-none">Họ quyết định làm đẹp khu vườn bằng những loài hoa theo mùa.</li>
 
           <li><strong>Beautifully</strong> (Trạng từ) /ˈbjuːtɪfəli/</li>
-          <li className="margin-bottom-20 list-none">The music was ______ composed and moved the entire audience.</li>
+          <li className="list-none">The music was ______ composed and moved the entire audience.</li>
+          <li className="margin-bottom-20 list-none">Bản nhạc được sáng tác một cách tuyệt đẹp và đã làm lay động toàn bộ khán giả.</li>
 
           <li><strong>Beautician</strong> (Danh từ - Chỉ người) /bjuːˈtɪʃn/</li>
-          <li className="margin-bottom-20 list-none">The professional ______ prepared the actors for the film.</li>
+          <li className="list-none">The professional ______ prepared the actors for the film..</li>
+          <li className="margin-bottom-20 list-none">Chuyên gia thẩm mỹ chuyên nghiệp đã chuẩn bị cho các diễn viên trong bộ phim.</li>
 
           <li><strong>Beauteous</strong> (Tính từ - Văn chương) /ˈbjuːtiəs/</li>
           <li className="list-none">The poet wrote about the ______ stars in the night sky.</li>
+          <li className="list-none">Nhà thơ đã viết về những ngôi sao tuyệt đẹp trên bầu trời đêm.</li>
 
         </ul>
 
@@ -100,6 +106,7 @@ export default function Beautiful(): React.JSX.Element {
         <ul className="list-square">
 
           <li>The bride looked absolutely ______ in her lace gown.</li>
+          <li className="list-none">Cô dâu trông hoàn toàn rực rỡ trong chiếc váy ren.</li>
 
         </ul>
 
@@ -114,6 +121,7 @@ export default function Beautiful(): React.JSX.Element {
         <ul className="list-square">
 
           <li>The penthouse offers a ______ view of the city skyline.</li>
+          <li className="list-none">Căn hộ tầng thượng mang đến một tầm nhìn choáng ngợp ra đường chân trời của thành phố.</li>
 
         </ul>
 
@@ -128,6 +136,7 @@ export default function Beautiful(): React.JSX.Element {
         <ul className="list-square">
 
           <li>The museum displayed a collection of ______ hand-painted ceramics.</li>
+          <li className="list-none">Bảo tàng trưng bày một bộ sưu tập đồ gốm vẽ tay tinh xảo.</li>
 
         </ul>
 
@@ -142,6 +151,7 @@ export default function Beautiful(): React.JSX.Element {
         <ul className="list-square">
 
           <li>We had a ______ afternoon walking through the botanical gardens.</li>
+          <li className="list-none">Chúng tôi đã có một buổi chiều dễ chịu khi đi dạo qua các vườn bách thảo.</li>
 
         </ul>
 
@@ -156,6 +166,7 @@ export default function Beautiful(): React.JSX.Element {
         <ul className="list-square">
 
           <li>She gave a ______ smile that instantly brightened the room.</li>
+          <li className="list-none">Cô ấy nở một nụ cười rạng rỡ khiến căn phòng bừng sáng ngay lập tức.</li>
 
         </ul>
 
@@ -165,11 +176,12 @@ export default function Beautiful(): React.JSX.Element {
 
       <p className="margin-top-20"><strong>6. Aesthetic</strong> /esˈθetɪk/</p>
 
-      <p className="text-indent-whole">Dùng để mô tả những đặc điểm liên quan đến vẻ đẹp hoặc sự cảm thụ nghệ thuật.</p>
+      <p className="text-indent-whole">Có tính thẩm mỹ, thuộc về cái đẹp hoặc nghệ thuật.</p>
 
         <ul className="list-square">
 
-          <li>The new building was designed with great ______ appeal.</li>
+          <li>The new furniture was chosen for purely ______ reasons.</li>
+          <li className="list-none">Đồ nội thất mới được chọn hoàn toàn vì những lý do thẩm mỹ.</li>
 
         </ul>
 
@@ -184,6 +196,7 @@ export default function Beautiful(): React.JSX.Element {
         <ul className="list-square">
 
           <li>The ______ architecture of the cathedral dates back to the 12th century.</li>
+          <li className="list-none">Kiến trúc hùng vĩ của nhà thờ có niên đại từ thế kỷ 12.</li>
 
         </ul>
 

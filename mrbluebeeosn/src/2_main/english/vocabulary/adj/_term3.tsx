@@ -58,22 +58,28 @@ export default function (): React.JSX.Element {
 
         <ul className="list-square">
 
-          {/* <li></li>
+          {/* <li><strong></strong> </li>
+          <li className="list-none"></li>
           <li className="margin-bottom-20 list-none"></li> */}
 
           <li><strong></strong> </li>
+          <li className="list-none"></li>
           <li className="margin-bottom-20 list-none"></li>
 
           <li><strong></strong> </li>
+          <li className="list-none"></li>
           <li className="margin-bottom-20 list-none"></li>
 
           <li><strong></strong> </li>
+          <li className="list-none"></li>
           <li className="margin-bottom-20 list-none"></li>
 
           <li><strong></strong> </li>
+          <li className="list-none"></li>
           <li className="margin-bottom-20 list-none"></li>
 
           <li><strong></strong> </li>
+          <li className="list-none"></li>
           <li className="list-none"></li>
 
         </ul>
@@ -97,6 +103,7 @@ export default function (): React.JSX.Element {
         <ul className="list-square">
 
           <li></li>
+          <li className="list-none"></li>
 
         </ul>
 
@@ -111,6 +118,7 @@ export default function (): React.JSX.Element {
         <ul className="list-square">
 
           <li></li>
+          <li className="list-none"></li>
 
         </ul>
 
@@ -125,6 +133,7 @@ export default function (): React.JSX.Element {
         <ul className="list-square">
 
           <li></li>
+          <li className="list-none"></li>
 
         </ul>
 
@@ -139,6 +148,7 @@ export default function (): React.JSX.Element {
         <ul className="list-square">
 
           <li></li>
+          <li className="list-none"></li>
 
         </ul>
 
@@ -153,6 +163,7 @@ export default function (): React.JSX.Element {
         <ul className="list-square">
 
           <li></li>
+          <li className="list-none"></li>
 
         </ul>
 
@@ -167,6 +178,7 @@ export default function (): React.JSX.Element {
         <ul className="list-square">
 
           <li></li>
+          <li className="list-none"></li>
 
         </ul>
 
@@ -181,6 +193,7 @@ export default function (): React.JSX.Element {
         <ul className="list-square">
 
           <li></li>
+          <li className="list-none"></li>
 
         </ul>
 

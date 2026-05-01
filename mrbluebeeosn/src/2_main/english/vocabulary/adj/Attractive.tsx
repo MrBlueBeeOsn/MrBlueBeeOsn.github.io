@@ -54,7 +54,7 @@ export default function Attractive(): React.JSX.Element {
 
       <h3 className="margin-y-50 text-center">Word Family</h3>
 
-      <p className="margin-bottom-20">Việc nắm vững các từ cùng gốc giúp bạn linh hoạt hơn khi diễn đạt cùng một ý tưởng dưới các loại từ khác nhau.</p>
+      <p className="margin-bottom-20">Việc nắm vững các từ cùng gốc giúp bạn linh hoạt hơn khi diễn đạt cùng một ý tưởng dưới các loại từ khác nhau</p>
 
         <ul className="list-square">
 
@@ -62,19 +62,24 @@ export default function Attractive(): React.JSX.Element {
           <li className="margin-bottom-20 list-none"></li> */}
 
           <li><strong>Attractive</strong> (Tính từ) /əˈtræktɪv/</li>
-          <li className="margin-bottom-20 list-none">The new job offer came with a very ______ salary.</li>
+          <li className="list-none">The new job offer came with a very ______ salary.</li>
+          <li className="margin-bottom-20 list-none">Lời đề nghị công việc mới đi kèm với một mức lương rất hấp dẫn.</li>
 
           <li><strong>Attract</strong> (Động từ) /əˈtrækt/</li>
-          <li className="margin-bottom-20 list-none">Bright colors often ______ butterflies to the garden.</li>
+          <li className="list-none">Bright colors often ______ butterflies to the garden.</li>
+          <li className="margin-bottom-20 list-none">Màu sắc rực rỡ thường thu hút bướm đến vườn.</li>
 
           <li><strong>Attraction</strong> (Danh từ) /əˈtrækʃn/</li>
-          <li className="margin-bottom-20 list-none">The Eiffel Tower is a major tourist ______ in Paris.</li>
+          <li className="list-none">The Eiffel Tower is a major tourist ______ in Paris.</li>
+          <li className="margin-bottom-20 list-none">Tháp Eiffel là một điểm thu hút khách du lịch lớn ở Paris.</li>
 
           <li><strong>Attractiveness</strong> (Danh từ - Trừu tượng) /əˈtræktɪvnəs/</li>
-          <li className="margin-bottom-20 list-none">The physical ______ of the product design helped increase sales.</li>
+          <li className="list-none">The physical ______ of the product design helped increase sales.</li>
+          <li className="margin-bottom-20 list-none">Sự hấp dẫn về mặt hình thức của thiết kế sản phẩm đã giúp tăng doanh số bán hàng.</li>
 
           <li><strong>Attractively</strong> (Trạng từ) /əˈtræktɪvli/</li>
           <li className="list-none">The table was ______ decorated with flowers and candles.</li>
+          <li className="list-none">Chiếc bàn được trang trí một cách lôi cuốn với hoa và nến.</li>
 
         </ul>
 
@@ -97,6 +102,7 @@ export default function Attractive(): React.JSX.Element {
         <ul className="list-square">
 
           <li>The idea of a long vacation is very ______ to me right now.</li>
+          <li className="list-none">Ý tưởng về một kỳ nghỉ dài ngày rất hấp dẫn đối với tôi vào lúc này.</li>
 
         </ul>
 
@@ -111,6 +117,7 @@ export default function Attractive(): React.JSX.Element {
         <ul className="list-square">
 
           <li>The tropical island has an ______ atmosphere that draws visitors every year.</li>
+          <li className="list-none">Hòn đảo nhiệt đới có một bầu không khí quyến rũ thu hút du khách mỗi năm.</li>
 
         </ul>
 
@@ -125,6 +132,7 @@ export default function Attractive(): React.JSX.Element {
         <ul className="list-square">
 
           <li>Her ______ performance held the audience’s attention until the very end.</li>
+          <li className="list-none">Màn trình diễn say đắm của cô ấy đã giữ được sự chú ý của khán giả cho đến tận cuối cùng.</li>
 
         </ul>
 
@@ -139,6 +147,7 @@ export default function Attractive(): React.JSX.Element {
         <ul className="list-square">
 
           <li>We stayed in a ______ little cottage by the sea.</li>
+          <li className="list-none">Chúng tôi đã ở trong một ngôi nhà nhỏ duyên dáng bên bờ biển.</li>
 
         </ul>
 
@@ -153,6 +162,7 @@ export default function Attractive(): React.JSX.Element {
         <ul className="list-square">
 
           <li>The speaker had an ______ personality that made the lecture enjoyable.</li>
+          <li className="list-none">Diễn giả có một tính cách lôi cuốn khiến bài giảng trở nên thú vị.</li>
 
         </ul>
 
@@ -167,20 +177,7 @@ export default function Attractive(): React.JSX.Element {
         <ul className="list-square">
 
           <li>I found the documentary about deep-sea creatures absolutely ______.</li>
-
-        </ul>
-
-      {/* =============================
-            7. 
-      ============================= */}
-
-      <p className="margin-top-20"><strong>7. Tempting</strong> /ˈtemp.tɪŋ/</p>
-
-      <p className="text-indent-whole">Hấp dẫn theo cách khiến người ta muốn sở hữu hoặc làm điều gì đó, thường liên quan đến mong muốn.</p>
-
-        <ul className="list-square">
-
-          <li>The dessert menu looked very ______ after the main course.</li>
+          <li className="list-none">Tôi thấy bộ phim tài liệu về các sinh vật biển sâu hoàn toàn thú vị.</li>
 
         </ul>
 
