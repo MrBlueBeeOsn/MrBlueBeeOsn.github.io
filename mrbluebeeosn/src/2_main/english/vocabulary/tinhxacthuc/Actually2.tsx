@@ -62,35 +62,45 @@ export default function Actually2(): React.JSX.Element {
 
 			<ol className="margin-top-30 padding-left-30">
 
-				<li value="1"><strong>Actually</strong>, I think: Thực ra, tôi nghĩ rằng /ˈækʃuəli aɪ θɪŋk/</li>
-				<li className="list-none margin-bottom-20">I thought he was angry, but <strong>actually</strong>, I think he was just tired. (Tôi tưởng anh ấy tức giận, nhưng thực ra, tôi nghĩ anh ấy chỉ mệt mỏi thôi.)</li>
+				<li value="1">Actually, <strong>I think</strong> /aɪ θɪŋk/</li>
+				<li className="list-none">I thought he was angry, but ______ he was just tired.</li>
+				<li className="list-none margin-bottom-20">Tôi tưởng anh ấy tức giận, nhưng thực ra, tôi nghĩ anh ấy chỉ mệt mỏi thôi.</li>
 
-				<li value="2"><strong>Actually</strong>, it's: Thực ra, đó là /ˈækʃuəli ɪts/</li>
-				<li className="list-none margin-bottom-20">I thought it was a cat, but <strong>actually</strong>, it's a raccoon. (Tôi tưởng đó là một con mèo, nhưng thực ra, đó là một con gấu trúc.)</li>
+				<li value="2">Actually, <strong>it's</strong> / ɪts/</li>
+				<li className="list-none">I thought it was a cat, but ______ a raccoon.</li>
+				<li className="list-none margin-bottom-20">Tôi tưởng đó là một con mèo, nhưng thực ra, đó là một con gấu trúc.</li>
 
-				<li value="3">Not <strong>actually</strong>: Không thực sự /nɒt ˈækʃuəli/</li>
-				<li className="list-none margin-bottom-20">She doesn't <strong>actually</strong> like coffee, she just pretends. (Cô ấy không thực sự thích cà phê, cô ấy chỉ giả vờ thôi.)</li>
+				<li value="3"><strong>Not</strong> actually /nɒt/</li>
+				<li className="list-none">She does ______ like coffee, she just pretends.</li>
+				<li className="list-none margin-bottom-20">Cô ấy không thực sự thích cà phê, cô ấy chỉ giả vờ thôi.</li>
 
-				<li value="4">As a matter of fact, <strong>actually</strong>: Thực tế mà nói thì /æz ə ˈmætər əv fækt ˈækʃuəli/</li>
-				<li className="list-none margin-bottom-20">As a matter of fact, <strong>actually</strong>, I've already seen that movie. (Thực tế mà nói thì, tôi đã xem bộ phim đó rồi.)</li>
+				<li value="4"><strong>As a matter of fact</strong>, actually /æz ə ˈmætər əv fækt/</li>
+				<li className="list-none">______, I've already seen that movie.</li>
+				<li className="list-none margin-bottom-20">Thực tế mà nói thì, tôi đã xem bộ phim đó rồi.</li>
 
-				<li value="5">It's <strong>actually</strong> quite: Thực ra thì khá /ɪts ˈækʃuəli kwaɪt/</li>
-				<li className="list-none margin-bottom-20">It's <strong>actually</strong> quite a long walk to the store. (Thực ra thì đi bộ đến cửa hàng khá xa.)</li>
+				<li value="5"><strong>It's</strong> actually <strong>quite</strong> /ɪts kwaɪt/</li>
+				<li className="list-none">______ a long walk to the store.</li>
+				<li className="list-none margin-bottom-20">Thực ra thì đi bộ đến cửa hàng khá xa.</li>
 
-				<li value="6">I didn't <strong>actually</strong> mean: Thực ra tôi không có ý là /aɪ ˈdɪdnt ˈækʃuəli miːn/</li>
-				<li className="list-none margin-bottom-20">I didn't <strong>actually</strong> mean to hurt your feelings. (Thực ra tôi không có ý làm bạn tổn thương.)</li>
+				<li value="6"><strong>I didn't</strong> actually <strong>mean</strong> /aɪ ˈdɪdnt miːn/</li>
+				<li className="list-none">______ to hurt your feelings.</li>
+				<li className="list-none margin-bottom-20">Thực ra tôi không có ý làm bạn tổn thương.</li>
 
-				<li value="7">It's <strong>actually</strong> very: Thực ra thì rất /ɪts ˈækʃuəli ˈveri/</li>
-				<li className="list-none margin-bottom-20">It's <strong>actually</strong> very simple to do. (Thực ra thì rất đơn giản để làm.)</li>
+				<li value="7"><strong>It's</strong> actually <strong>very</strong> /ɪts ˈveri/</li>
+				<li className="list-none">______ simple to do.</li>
+				<li className="list-none margin-bottom-20">Thực ra thì rất đơn giản để làm.</li>
 
-				<li value="8">I've <strong>actually</strong> been: Thực ra tôi đã /aɪv ˈækʃuəli biːn/</li>
-				<li className="list-none margin-bottom-20">I've <strong>actually</strong> been to Paris twice. (Thực ra tôi đã đến Paris hai lần rồi.)</li>
+				<li value="8"><strong>I've</strong> actually <strong>been</strong> /aɪv biːn/</li>
+				<li className="list-none">______ to Paris twice.</li>
+				<li className="list-none margin-bottom-20">Thực ra tôi đã đến Paris hai lần rồi.</li>
 
-				<li value="9">It's <strong>actually</strong> not: Thực ra không phải là /ɪts ˈækʃuəli nɒt/</li>
-				<li className="list-none margin-bottom-20">It's <strong>actually</strong> not that expensive. (Thực ra không phải là đắt đâu.)</li>
+				<li value="9"><strong>It's</strong> actually <strong>not</strong> /ɪts nɒt/</li>
+				<li className="list-none">______ that expensive.</li>
+				<li className="list-none margin-bottom-20">Thực ra không phải là đắt đâu.</li>
 
-				<li value="10"><strong>Actually</strong>, I was wondering: Thực ra, tôi đang tự hỏi /ˈækʃuəli aɪ wəz ˈwʌndərɪŋ/</li>
-				<li className="list-none margin-bottom-20"><strong>Actually</strong>, I was wondering if you could help me with this. (Thực ra, tôi đang tự hỏi liệu bạn có thể giúp tôi việc này không.)</li>
+				<li value="10">Actually, <strong>I was wondering</strong> /aɪ wəz ˈwʌndərɪŋ/</li>
+				<li className="list-none">______ if you could help me with this.</li>
+				<li className="list-none margin-bottom-20">Thực ra, tôi đang tự hỏi liệu bạn có thể giúp tôi việc này không.</li>
 
 			</ol>
 

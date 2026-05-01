@@ -63,9 +63,11 @@ export default function Actually1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>I thought she was a doctor, but <strong>actually</strong>, she's a nurse. (Tôi tưởng cô ấy là bác sĩ, nhưng thực ra cô ấy là y tá.)</li>
+          <li>I thought she was a doctor, but ______, she's a nurse.</li>
+          <li className="margin-bottom-20 list-none">Tôi tưởng cô ấy là bác sĩ, nhưng thực ra cô ấy là y tá.</li>
 
-          <li>I'm going to the library today. - <strong>Actually</strong>, I'm going to the gym. (Tôi sẽ đến thư viện hôm nay. - Thực ra, tôi sẽ đến phòng tập.)</li>
+          <li>I'm going to the library today. - ______, I'm going to the gym.</li>
+          <li className="list-none">Tôi sẽ đến thư viện hôm nay. - Thực ra, tôi sẽ đến phòng tập.</li>
 
         </ul>
 
@@ -81,11 +83,13 @@ export default function Actually1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Actual (adj): thực tế, hiện thực /ˈækʧuəl/</li>
-          <li className="margin-bottom-20 list-none">The actual cost of the project was higher than expected. (Chi phí thực tế của dự án cao hơn dự kiến.)</li>
+          <li>Actual (adj) /ˈækʧuəl/</li>
+          <li className="list-none">The ______ cost of the project was higher than expected.</li>
+          <li className="margin-bottom-20 list-none">Chi phí thực tế của dự án cao hơn dự kiến.</li>
 
-          <li>Actuality (n): thực tế /ækˈʧuæləti/</li>
-          <li className="list-none">The actuality of the situation is much worse than we thought. (Thực tế của tình hình tồi tệ hơn nhiều so với chúng ta nghĩ.)</li>
+          <li>Actuality (n) /ækˈʧuæləti/</li>
+          <li className="list-none">The ______ of the situation is much worse than we thought.</li>
+          <li className="list-none">Thực tế của tình hình tồi tệ hơn nhiều so với chúng ta nghĩ.</li>
 
         </ul>
 
@@ -101,11 +105,13 @@ export default function Actually1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>In fact: Thực tế /ɪn fækt/</li>
-          <li className="margin-bottom-20 list-none">In fact, I don't know the answer. (Thực tế, tôi không biết câu trả lời.)</li>
+          <li>In fact /ɪn fækt/</li>
+          <li className="list-none">______, I don't know the answer.</li>
+          <li className="margin-bottom-20 list-none">Thực tế, tôi không biết câu trả lời.</li>
 
-          <li>As a matter of fact: Thực tế /æz ə ˈmætər əv fækt/</li>
-          <li className="list-none">As a matter of fact, I've already seen that movie. (Thực tế, tôi đã xem bộ phim đó rồi.)</li>
+          <li>As a matter of fact /æz ə ˈmætər əv fækt/</li>
+          <li className="list-none">______, I've already seen that movie.</li>
+          <li className="list-none">Thực tế, tôi đã xem bộ phim đó rồi.</li>
 
         </ul>
 
@@ -121,11 +127,13 @@ export default function Actually1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Theoretically: Về mặt lý thuyết /θiːəˈrɛtɪkli/</li>
-          <li className="margin-bottom-20 list-none">Theoretically, it's possible, but not very likely. (Về mặt lý thuyết thì có thể, nhưng không có khả năng xảy ra lắm.)</li>
+          <li>Theoretically /θiːəˈrɛtɪkli/</li>
+          <li className="list-none">______, it's possible, but not very likely.</li>
+          <li className="margin-bottom-20 list-none">Về mặt lý thuyết thì có thể, nhưng không có khả năng xảy ra lắm.</li>
 
-          <li>Hypothetically: Một cách giả định /ˌhaɪpəˈθɛtɪkli/</li>
-          <li className="list-none">Hypothetically, if I won the lottery, I would travel around the world. (Giả sử mà nói, nếu tôi trúng số, tôi sẽ đi du lịch vòng quanh thế giới.)</li>
+          <li>Hypothetically /ˌhaɪpəˈθɛtɪkli/</li>
+          <li className="list-none">______, if I won the lottery, I would travel around the world.</li>
+          <li className="list-none">Giả sử mà nói, nếu tôi trúng số, tôi sẽ đi du lịch vòng quanh thế giới.</li>
 
         </ul>
       
@@ -150,8 +158,8 @@ export default function Actually1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>I thought the capital of Australia was Sydney, but <strong>actually</strong>, it's Canberra.</li>
-          <li className="list-none">(Tôi nghĩ thủ đô của Úc là Sydney, nhưng thực ra là Canberra.)</li>
+          <li>I thought the capital of Australia was Sydney, but ______, it's Canberra.</li>
+          <li className="list-none">Tôi nghĩ thủ đô của Úc là Sydney, nhưng thực ra là Canberra.</li>
 
         </ul>
 
@@ -170,8 +178,8 @@ export default function Actually1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Do you like coffee? - Well, <strong>actually</strong>, I prefer tea.</li>
-          <li className="list-none">(Bạn có thích cà phê không? - Thật ra thì tôi thích trà hơn.)</li>
+          <li>Do you like coffee? - Well, ______, I prefer tea.</li>
+          <li className="list-none">Bạn có thích cà phê không? - Thật ra thì tôi thích trà hơn.</li>
 
         </ul>
 
@@ -186,15 +194,17 @@ export default function Actually1(): React.JSX.Element {
         <strong>&nbsp;thường xuyên</strong>:
       </p>
 
-      <p className="text-indent-whole">Thường xuyên sử dụng từ này trong các cuộc hội thoại và bài viết để làm quen với cách sử dụng.</p>
+      <p className="text-indent-whole margin-bottom-20">Thường xuyên sử dụng từ này trong các cuộc hội thoại và bài viết để làm quen với cách sử dụng.</p>
 
         <p className="text-indent-whole">Ví dụ để so sánh (sự khác biệt):</p>
 
           <ol>
 
-            <li>I think I'll have the pizza. (Tôi nghĩ tôi sẽ ăn pizza.)</li>
-            
-            <li className="margin-bottom-20"><strong>Actually</strong>, I'm feeling kind of hungry, so I'll have the burger. (Thực ra, tôi cảm thấy hơi đói, vì vậy tôi sẽ ăn hamburger.)</li>
+            <li>I think I'll have the pizza.</li>
+            <li className="list-none margin-bottom-20">Tôi nghĩ tôi sẽ ăn pizza.</li>
+
+            <li value="2">______, I'm feeling kind of hungry, so I'll have the burger.</li>
+            <li className="list-none margin-bottom-20">Thực ra, tôi cảm thấy hơi đói, vì vậy tôi sẽ ăn hamburger.</li>
 
           </ol>
 
