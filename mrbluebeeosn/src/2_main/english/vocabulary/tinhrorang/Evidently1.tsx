@@ -63,9 +63,11 @@ export default function Evidently1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>She was <strong>evidently</strong> upset about the news. (Cô ấy rõ ràng rất buồn về tin đó.)</li>
+          <li>She was ______ upset about the news.</li>
+          <li className="margin-bottom-20 list-none">Cô ấy rõ ràng rất buồn về tin đó.</li>
 
-          <li>The experiment results were <strong>evidently</strong> successful. (Kết quả thí nghiệm rõ ràng là thành công.)</li>
+          <li>The experiment results were ______ successful.</li>
+          <li className="list-none">Kết quả thí nghiệm rõ ràng là thành công.</li>
 
         </ul>
 
@@ -81,11 +83,13 @@ export default function Evidently1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Evidence (n): Bằng chứng /ˈevɪdəns/</li>
-          <li className="margin-bottom-20 list-none">There is no evidence to support his claim. (Không có bằng chứng nào để chứng minh cho tuyên bố của anh ta.)</li>
+          <li>Evidence (n) /ˈevɪdəns/</li>
+          <li className="list-none">There is no ______ to support his claim.</li>
+          <li className="margin-bottom-20 list-none">Không có bằng chứng nào để chứng minh cho tuyên bố của anh ta.</li>
 
-          <li>Evident (adj): Rõ ràng /ˈevɪdənt/</li>
-          <li className="list-none">The solution is evident to everyone. (Giải pháp rất rõ ràng đối với mọi người.)</li>
+          <li>Evident (adj) /ˈevɪdənt/</li>
+          <li className="list-none">The solution is ______ to everyone.</li>
+          <li className="list-none">Giải pháp rất rõ ràng đối với mọi người.</li>
 
         </ul>
 
@@ -101,11 +105,13 @@ export default function Evidently1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li><Link to="/vocabulary/clearly-1">Clearly</Link>: Rõ ràng /ˈklɪərli/</li>
-          <li className="margin-bottom-20 list-none">She clearly stated her position. (Cô ấy đã nêu rõ quan điểm của mình.)</li>
+          <li><Link to="/vocabulary/clearly-1">Clearly</Link> /ˈklɪərli/</li>
+          <li className="list-none">She ______ stated her position.</li>
+          <li className="margin-bottom-20 list-none">Cô ấy đã nêu rõ quan điểm của mình.</li>
 
-          <li><Link to="/vocabulary/obviously-1">Obviously</Link>: Hiển nhiên /ˈɒbviəsli/</li>
-          <li className="list-none">It was obviously a mistake. (Rõ ràng đó là một sai lầm.)</li>
+          <li><Link to="/vocabulary/obviously-1">Obviously</Link> /ˈɒbviəsli/</li>
+          <li className="list-none">It was ______ a mistake.</li>
+          <li className="list-none">Rõ ràng đó là một sai lầm.</li>
 
         </ul>
 
@@ -121,11 +127,13 @@ export default function Evidently1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Doubtfully: Một cách nghi ngờ /ˈdaʊtfəli/</li>
-          <li className="margin-bottom-20 list-none">He looked at me doubtfully. (Anh ấy nhìn tôi một cách nghi ngờ.)</li>
+          <li>Doubtfully /ˈdaʊtfəli/</li>
+          <li className="list-none">He looked at me ______.</li>
+          <li className="margin-bottom-20 list-none">Anh ấy nhìn tôi một cách nghi ngờ.</li>
 
-          <li>Uncertainly: Một cách không chắc chắn /ʌnˈsɜːtnli/</li>
-          <li className="list-none">She answered uncertainly. (Cô ấy trả lời một cách không chắc chắn.)</li>
+          <li>Uncertainly /ʌnˈsɜːtnli/</li>
+          <li className="list-none">She answered ______.</li>
+          <li className="list-none">Cô ấy trả lời một cách không chắc chắn.</li>
 
         </ul>
       
@@ -150,11 +158,11 @@ export default function Evidently1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>The sign was <strong>evidently</strong> clear.</li>
-          <li className="list-none">(Biển báo rõ ràng.)</li>
+          <li>The sign was ______ clear.</li>
+          <li className="margin-bottom-20 list-none">Biển báo rõ ràng.</li>
 
-          <li>She was <strong>evidently</strong> smiling brightly.</li>
-          <li className="list-none">(Cô ấy rõ ràng đang cười rất tươi.)</li>
+          <li>She was ______ smiling brightly.</li>
+          <li className="list-none">Cô ấy rõ ràng đang cười rất tươi.</li>
 
         </ul>
 
@@ -173,8 +181,8 @@ export default function Evidently1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li><strong>Evidently</strong>, he had been crying.</li>
-          <li className="list-none">(Rõ ràng anh ấy đã khóc.)</li>
+          <li>______, he had been crying.</li>
+          <li className="list-none">Rõ ràng anh ấy đã khóc.</li>
 
         </ul>
 
@@ -189,15 +197,17 @@ export default function Evidently1(): React.JSX.Element {
         <strong>&nbsp;thường xuyên</strong>:
       </p>
 
-      <p className="text-indent-whole">Thường xuyên sử dụng từ này trong các bài viết hoặc cuộc trò chuyện.</p>
+      <p className="text-indent-whole margin-bottom-20">Thường xuyên sử dụng từ này trong các bài viết hoặc cuộc trò chuyện.</p>
 
         <p className="text-indent-whole">Ví dụ để so sánh (sự khác biệt):</p>
 
           <ol>
 
-            <li>She was sad. (Cô ấy buồn.)</li>
-            
-            <li className="margin-bottom-20">She was <strong>evidently</strong> sad, with red, puffy eyes. (Cô ấy rõ ràng rất buồn, với đôi mắt đỏ hoe và sưng húp.)</li>
+            <li>She was sad.</li>
+            <li className="list-none margin-bottom-20">Cô ấy buồn.</li>
+
+            <li value="2">She was ______ sad, with red, puffy eyes.</li>
+            <li className="list-none margin-bottom-20">Cô ấy rõ ràng rất buồn, với đôi mắt đỏ hoe và sưng húp.</li>
 
           </ol>
 
