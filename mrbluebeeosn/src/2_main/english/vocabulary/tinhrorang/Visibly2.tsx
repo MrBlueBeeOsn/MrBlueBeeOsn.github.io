@@ -62,35 +62,45 @@ export default function Visibly1(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1"><strong>Visibly</strong> excited: Rõ ràng là phấn khích /ˈvɪzəbli ɛkˈsaɪtɪd/</li>
-        <li className="list-none margin-bottom-20">The children were <strong>visibly</strong> excited about the upcoming trip. (Những đứa trẻ rõ ràng rất phấn khích về chuyến đi sắp tới.)</li>
+        <li value="1">Visibly <strong>excited</strong> /ɛkˈsaɪtɪd/</li>
+        <li className="list-none">The children were ______ about the upcoming trip.</li>
+        <li className="list-none margin-bottom-20">Những đứa trẻ rõ ràng rất phấn khích về chuyến đi sắp tới.</li>
 
-        <li value="2"><strong>Visibly</strong> upset: Rõ ràng là buồn bã /ˈvɪzəbli ʌpˈsɛt/</li>
-        <li className="list-none margin-bottom-20">She was <strong>visibly</strong> upset after hearing the bad news. (Cô ấy rõ ràng rất buồn sau khi nghe tin xấu.)</li>
+        <li value="2">Visibly <strong>upset</strong> /ʌpˈsɛt/</li>
+        <li className="list-none">She was ______ after hearing the bad news.</li>
+        <li className="list-none margin-bottom-20">Cô ấy rõ ràng rất buồn sau khi nghe tin xấu.</li>
 
-        <li value="3"><strong>Visibly</strong> shaken: Rõ ràng là hoảng loạn /ˈvɪzəbli ˈʃeɪkən/</li>
-        <li className="list-none margin-bottom-20">He was <strong>visibly</strong> shaken after the accident. (Anh ấy rõ ràng rất hoảng loạn sau vụ tai nạn.)</li>
+        <li value="3">Visibly <strong>shaken</strong> /ˈʃeɪkən/</li>
+        <li className="list-none">He was ______ after the accident.</li>
+        <li className="list-none margin-bottom-20">Anh ấy rõ ràng rất hoảng loạn sau vụ tai nạn.</li>
 
-        <li value="4"><strong>Visibly</strong> relieved: Rõ ràng là nhẹ nhõm /ˈvɪzəbli rɪˈliːvd/</li>
-        <li className="list-none margin-bottom-20">She was <strong>visibly</strong> relieved when she found her lost keys. (Cô ấy rõ ràng rất nhẹ nhõm khi tìm thấy chìa khóa bị mất.)</li>
+        <li value="4">Visibly <strong>relieved</strong> /rɪˈliːvd/</li>
+        <li className="list-none">She was ______ when she found her lost keys.</li>
+        <li className="list-none margin-bottom-20">Cô ấy rõ ràng rất nhẹ nhõm khi tìm thấy chìa khóa bị mất.</li>
 
-        <li value="5"><strong>Visibly</strong> aged: Rõ ràng là già đi /ˈvɪzəbli eɪdʒd/</li>
-        <li className="list-none margin-bottom-20">After years of hard work, he looked <strong>visibly</strong> aged. (Sau nhiều năm làm việc chăm chỉ, anh ấy trông già đi rõ rệt.)</li>
+        <li value="5">Visibly <strong>aged</strong> /eɪdʒd/</li>
+        <li className="list-none">After years of hard work, he looked ______.</li>
+        <li className="list-none margin-bottom-20">Sau nhiều năm làm việc chăm chỉ, anh ấy trông già đi rõ rệt.</li>
 
-        <li value="6"><strong>Visibly</strong> improved: Rõ ràng là cải thiện /ˈvɪzəbli ɪmˈpruːvd/</li>
-        <li className="list-none margin-bottom-20">Her health has <strong>visibly</strong> improved since she started exercising. (Sức khỏe của cô ấy đã cải thiện rõ rệt kể từ khi cô ấy bắt đầu tập thể dục.)</li>
+        <li value="6">Visibly <strong>improved</strong> /ɪmˈpruːvd/</li>
+        <li className="list-none">Her health has ______ since she started exercising.</li>
+        <li className="list-none margin-bottom-20">Sức khỏe của cô ấy đã cải thiện rõ rệt kể từ khi cô ấy bắt đầu tập thể dục.</li>
 
-        <li value="7"><strong>Visibly</strong> strained: Rõ ràng là căng thẳng /ˈvɪzəbli streɪnd/</li>
-        <li className="list-none margin-bottom-20">His face was <strong>visibly</strong> strained as he lifted the heavy box. (Gương mặt anh ấy rõ ràng rất căng thẳng khi nâng chiếc hộp nặng.)</li>
+        <li value="7">Visibly <strong>strained</strong> /streɪnd/</li>
+        <li className="list-none">His face was ______ as he lifted the heavy box.</li>
+        <li className="list-none margin-bottom-20">Gương mặt anh ấy rõ ràng rất căng thẳng khi nâng chiếc hộp nặng.</li>
 
-        <li value="8"><strong>Visibly</strong> nervous: Rõ ràng là lo lắng /ˈvɪzəbli ˈnɜːvəs/</li>
-        <li className="list-none margin-bottom-20">She was <strong>visibly</strong> nervous before her speech. (Cô ấy rõ ràng rất lo lắng trước bài phát biểu của mình.)</li>
+        <li value="8">Visibly <strong>nervous</strong> /ˈnɜːvəs/</li>
+        <li className="list-none">She was ______ before her speech.</li>
+        <li className="list-none margin-bottom-20">Cô ấy rõ ràng rất lo lắng trước bài phát biểu của mình.</li>
 
-        <li value="9"><strong>Visibly</strong> uncomfortable: Rõ ràng là không thoải mái /ˈvɪzəbli ʌnˈkʌmfərtəbl/</li>
-        <li className="list-none margin-bottom-20">He was <strong>visibly</strong> uncomfortable when they asked about his past. (Anh ấy rõ ràng rất không thoải mái khi họ hỏi về quá khứ của anh.)</li>
+        <li value="9">Visibly <strong>uncomfortable</strong> /ʌnˈkʌmfərtəbl/</li>
+        <li className="list-none">He was ______ when they asked about his past.</li>
+        <li className="list-none margin-bottom-20">Anh ấy rõ ràng rất không thoải mái khi họ hỏi về quá khứ của anh.</li>
 
-        <li value="10"><strong>Visibly</strong> different: Rõ ràng là khác biệt /ˈvɪzəbli ˈdɪfrənt/</li>
-        <li className="list-none margin-bottom-20">The two sisters were <strong>visibly</strong> different in personality. (Hai chị em rõ ràng có tính cách khác nhau.)</li>
+        <li value="10">Visibly <strong>different</strong> /ˈdɪfrənt/</li>
+        <li className="list-none">The two sisters were ______ in personality.</li>
+        <li className="list-none margin-bottom-20">Hai chị em rõ ràng có tính cách khác nhau.</li>
 
       </ol>
 

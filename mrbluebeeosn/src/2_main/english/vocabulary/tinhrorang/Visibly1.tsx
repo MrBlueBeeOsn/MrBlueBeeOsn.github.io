@@ -63,9 +63,11 @@ export default function Visibly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>She was <strong>visibly</strong> upset. (Cô ấy rõ ràng đang rất buồn.)</li>
+          <li>She was ______ upset.</li>
+          <li className="margin-bottom-20 list-none">Cô ấy rõ ràng đang rất buồn.</li>
 
-          <li>The damage to the car was <strong>visibly</strong> apparent. (Vết hư hỏng trên xe rất dễ thấy.)</li>
+          <li>The damage to the car was ______ apparent.</li>
+          <li className="list-none">Vết hư hỏng trên xe rất dễ thấy.</li>
 
         </ul>
 
@@ -81,11 +83,13 @@ export default function Visibly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Visible (adj): Có thể nhìn thấy /ˈvɪzəbl/</li>
-          <li className="margin-bottom-20 list-none">The stars are visible on a clear night. (Các ngôi sao có thể nhìn thấy vào một đêm trời quang.)</li>
+          <li>Visible (adj) /ˈvɪzəbl/</li>
+          <li className="list-none">The stars are ______ on a clear night.</li>
+          <li className="margin-bottom-20 list-none">Các ngôi sao có thể nhìn thấy vào một đêm trời quang.</li>
 
-          <li>Vision (n): Thị giác /ˈvɪʒn/</li>
-          <li className="list-none">She has excellent vision. (Cô ấy có thị lực rất tốt.)</li>
+          <li>Vision (n) /ˈvɪʒn/</li>
+          <li className="list-none">She has excellent ______.</li>
+          <li className="list-none">Cô ấy có thị lực rất tốt.</li>
 
         </ul>
 
@@ -101,11 +105,13 @@ export default function Visibly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li><Link to="/vocabulary/clearly-1">Clearly</Link>: Một cách rõ ràng /ˈklɪərli/</li>
-          <li className="margin-bottom-20 list-none">He clearly stated his opinion. (Anh ấy đã nêu rõ quan điểm của mình.)</li>
+          <li><Link to="/vocabulary/clearly-1">Clearly</Link> /ˈklɪərli/</li>
+          <li className="list-none">He ______ stated his opinion.</li>
+          <li className="margin-bottom-20 list-none">Anh ấy đã nêu rõ quan điểm của mình.</li>
 
-          <li><Link to="/vocabulary/obviously-1">Obviously</Link>: Một cách hiển nhiên /ˈɒbviəsli/</li>
-          <li className="list-none">It was obviously a mistake. (Rõ ràng đó là một sai lầm.)</li>
+          <li><Link to="/vocabulary/obviously-1">Obviously</Link> /ˈɒbviəsli/</li>
+          <li className="list-none">It was ______ a mistake.</li>
+          <li className="list-none">Rõ ràng đó là một sai lầm.</li>
 
         </ul>
 
@@ -121,11 +127,13 @@ export default function Visibly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Invisibly: Một cách vô hình /ɪnˈvɪzəbli/</li>
-          <li className="margin-bottom-20 list-none">The change was invisibly slow. (Sự thay đổi diễn ra một cách chậm chạp đến mức không thể nhận thấy.)</li>
+          <li>Invisibly /ɪnˈvɪzəbli/</li>
+          <li className="list-none">The change was ______ slow.</li>
+          <li className="margin-bottom-20 list-none">Sự thay đổi diễn ra một cách chậm chạp đến mức không thể nhận thấy.</li>
 
-          <li>Imperceptibly: Một cách không thể nhận thấy /ɪm.pərˈsept.ə.bli/</li>
-          <li className="list-none">The plant grew imperceptibly over the weeks. (Cây đã lớn lên một cách không thể nhận thấy trong vài tuần.)</li>
+          <li>Imperceptibly /ɪm.pərˈsept.ə.bli/</li>
+          <li className="list-none">The plant grew ______ over the weeks.</li>
+          <li className="list-none">Cây đã lớn lên một cách không thể nhận thấy trong vài tuần.</li>
 
         </ul>
       
@@ -150,11 +158,11 @@ export default function Visibly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>His face was <strong>visibly</strong> red with anger.</li>
-          <li className="list-none">(Khuôn mặt anh ta đỏ bừng một cách rõ ràng vì tức giận.)</li>
+          <li>His face was ______ red with anger.</li>
+          <li className="margin-bottom-20 list-none">Khuôn mặt anh ta đỏ bừng một cách rõ ràng vì tức giận.</li>
 
-          <li>There was a <strong>visibly</strong> large stain on his white shirt.</li>
-          <li className="list-none">(Có một vết bẩn lớn một cách rõ ràng trên chiếc áo sơ mi trắng của anh ta.)</li>
+          <li>There was a ______ large stain on his white shirt.</li>
+          <li className="list-none">Có một vết bẩn lớn một cách rõ ràng trên chiếc áo sơ mi trắng của anh ta.</li>
 
         </ul>
 
@@ -173,8 +181,8 @@ export default function Visibly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>She was <strong>visibly</strong> tired after the long journey.</li>
-          <li className="list-none">(Cô ấy rõ ràng rất mệt sau chuyến đi dài.)</li>
+          <li>She was ______ tired after the long journey.</li>
+          <li className="list-none">Cô ấy rõ ràng rất mệt sau chuyến đi dài.</li>
 
         </ul>
 
@@ -195,9 +203,11 @@ export default function Visibly1(): React.JSX.Element {
 
           <ol>
 
-            <li>He was sad. (Anh ấy buồn.)</li>
-            
-            <li className="margin-bottom-20">He was <strong>visibly</strong> sad, with tears in his eyes. (Anh ấy rõ ràng rất buồn, với những giọt nước mắt trên mắt.)</li>
+            <li>He was sad.</li>
+            <li className="list-none margin-bottom-20">Anh ấy buồn.</li>
+
+            <li value="2">He was ______ sad, with tears in his eyes.</li>
+            <li className="list-none margin-bottom-20">Anh ấy rõ ràng rất buồn, với những giọt nước mắt trên mắt.</li>
 
           </ol>
 
