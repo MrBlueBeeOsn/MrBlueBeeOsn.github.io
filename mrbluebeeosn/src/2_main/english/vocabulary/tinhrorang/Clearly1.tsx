@@ -63,9 +63,11 @@ export default function Clearly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>She <strong>clearly</strong> explained the rules. (Cô ấy đã giải thích rõ ràng các quy tắc.)</li>
+          <li>She ______ explained the rules.</li>
+          <li className="margin-bottom-20 list-none">Cô ấy đã giải thích rõ ràng các quy tắc.</li>
 
-          <li>The answer is <strong>clearly</strong> no. (Câu trả lời rõ ràng là không.)</li>
+          <li>The answer is ______ no.</li>
+          <li className="list-none">Câu trả lời rõ ràng là không.</li>
 
         </ul>
 
@@ -81,11 +83,13 @@ export default function Clearly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Clear (adj): Rõ ràng, trong suốt /klɪər/</li>
-          <li className="margin-bottom-20 list-none">The sky is clear today. (Trời hôm nay trong xanh.)</li>
+          <li>Clear (adj) /klɪər/</li>
+          <li className="list-none">The sky is ______ today.</li>
+          <li className="margin-bottom-20 list-none">Trời hôm nay trong xanh.</li>
 
-          <li>Clarity (n): Sự rõ ràng /ˈklærəti/</li>
-          <li className="list-none">The clarity of her explanation was impressive. (Sự rõ ràng trong lời giải thích của cô ấy thật ấn tượng.)</li>
+          <li>Clarity (n) /ˈklærəti/</li>
+          <li className="list-none">The ______ of her explanation was impressive.</li>
+          <li className="list-none">Sự rõ ràng trong lời giải thích của cô ấy thật ấn tượng.</li>
 
         </ul>
 
@@ -101,11 +105,13 @@ export default function Clearly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li><Link to="/vocabulary/obviously-1">Obviously</Link>: Rõ ràng /ˈɒbviəsli/</li>
-          <li className="margin-bottom-20 list-none">Obviously, he's lying. (Rõ ràng, anh ta đang nói dối.)</li>
+          <li><Link to="/vocabulary/obviously-1">Obviously</Link> /ˈɒbviəsli/</li>
+          <li className="list-none">______, he's lying.</li>
+          <li className="margin-bottom-20 list-none">Rõ ràng, anh ta đang nói dối.</li>
 
-          <li>Plainly: Một cách đơn giản, rõ ràng /ˈpleɪnli/</li>
-          <li className="list-none">The answer is plainly wrong. (Câu trả lời rõ ràng là sai.)</li>
+          <li>Plainly /ˈpleɪnli/</li>
+          <li className="list-none">The answer is ______ wrong.</li>
+          <li className="list-none">Câu trả lời rõ ràng là sai.</li>
 
         </ul>
 
@@ -121,11 +127,13 @@ export default function Clearly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Vaguely: Một cách mơ hồ /ˈveɪɡli/</li>
-          <li className="margin-bottom-20 list-none">I vaguely remember his name. (Tôi nhớ mang máng tên anh ấy.)</li>
+          <li>Vaguely /ˈveɪɡli/</li>
+          <li className="list-none">I ______ remember his name.</li>
+          <li className="margin-bottom-20 list-none">Tôi nhớ mang máng tên anh ấy.</li>
 
-          <li>Unclearly: Một cách không rõ ràng /ʌnˈklɪərli/</li>
-          <li className="list-none">She spoke unclearly. (Cô ấy nói không rõ ràng.)</li>
+          <li>Unclearly /ʌnˈklɪərli/</li>
+          <li className="list-none">She spoke ______.</li>
+          <li className="list-none">Cô ấy nói không rõ ràng.</li>
 
         </ul>
       
@@ -150,8 +158,8 @@ export default function Clearly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>You can <strong>clearly</strong> see every detail in the picture.</li>
-          <li className="list-none">(Bạn có thể nhìn thấy rõ ràng mọi chi tiết trong bức tranh.)</li>
+          <li>You can ______ see every detail in the picture.</li>
+          <li className="list-none">Bạn có thể nhìn thấy rõ ràng mọi chi tiết trong bức tranh.</li>
 
         </ul>
 
@@ -170,8 +178,8 @@ export default function Clearly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>I can <strong>clearly</strong> see the difference between the two.</li>
-          <li className="list-none">(Tôi có thể thấy rõ sự khác biệt giữa hai cái.)</li>
+          <li>I can ______ see the difference between the two.</li>
+          <li className="list-none">Tôi có thể thấy rõ sự khác biệt giữa hai cái.</li>
 
         </ul>
 
@@ -186,15 +194,17 @@ export default function Clearly1(): React.JSX.Element {
         <strong>&nbsp;thường xuyên</strong>:
       </p>
 
-      <p className="text-indent-whole">Thường xuyên sử dụng từ này khi bạn muốn nhấn mạnh sự rõ ràng của một ý kiến.</p>
+      <p className="text-indent-whole margin-bottom-20">Thường xuyên sử dụng từ này khi bạn muốn nhấn mạnh sự rõ ràng của một ý kiến.</p>
 
         <p className="text-indent-whole">Ví dụ để so sánh (sự khác biệt):</p>
 
           <ol>
 
-            <li>I understand. (Tôi hiểu.)</li>
+            <li>I understand.</li>
+            <li className="list-none margin-bottom-20">Tôi hiểu.</li>
 
-            <li className="margin-bottom-20">I understand <strong>clearly</strong>. (Tôi hiểu rõ.)</li>
+            <li value="2">I understand ______.</li>
+            <li className="list-none margin-bottom-20">Tôi hiểu rõ.</li>
 
           </ol>
 

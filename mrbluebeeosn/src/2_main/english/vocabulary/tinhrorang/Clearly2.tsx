@@ -62,35 +62,45 @@ export default function Clearly2(): React.JSX.Element {
 
 			<ol className="margin-top-30 padding-left-30">
 
-				<li value="1"><strong>Clearly</strong> stated: Được nêu rõ ràng /ˈklɪərli steɪtɪd/</li>
-				<li className="list-none margin-bottom-20">The rules were <strong>clearly</strong> stated at the beginning of the game. (Quy tắc đã được nêu rõ ràng ngay từ đầu trò chơi.)</li>
+				<li value="1">Clearly <strong>stated</strong> /steɪtɪd/</li>
+				<li className="list-none">The rules were ______ at the beginning of the game.</li>
+				<li className="list-none margin-bottom-20">Quy tắc đã được nêu rõ ràng ngay từ đầu trò chơi.</li>
 
-				<li value="2"><strong>Clearly</strong> defined: Được định nghĩa rõ ràng /ˈklɪərli dɪˈfaɪnd/</li>
-				<li className="list-none margin-bottom-20">The terms of the contract were <strong>clearly</strong> defined. (Các điều khoản của hợp đồng đã được định nghĩa rõ ràng.)</li>
+				<li value="2">Clearly <strong>defined</strong> /dɪˈfaɪnd/</li>
+				<li className="list-none">The terms of the contract were ______.</li>
+				<li className="list-none margin-bottom-20">Các điều khoản của hợp đồng đã được định nghĩa rõ ràng.</li>
 
-				<li value="3"><strong>Clearly</strong> visible: Dễ thấy /ˈklɪərli ˈvɪzəbl/</li>
-				<li className="list-none margin-bottom-20">The stars were <strong>clearly</strong> visible on a clear night. (Những ngôi sao rất dễ thấy vào một đêm trời quang.)</li>
+				<li value="3">Clearly <strong>visible</strong> /ˈvɪzəbl/</li>
+				<li className="list-none">The stars were ______ on a clear night.</li>
+				<li className="list-none margin-bottom-20">Những ngôi sao rất dễ thấy vào một đêm trời quang.</li>
 
-				<li value="4"><strong>Clearly</strong> understood: Được hiểu rõ /ˈklɪərli ʌndərˈstʊd/</li>
-				<li className="list-none margin-bottom-20">I hope my point is <strong>clearly</strong> understood. (Tôi hy vọng ý của tôi đã được hiểu rõ.)</li>
+				<li value="4">Clearly <strong>understood</strong> /ʌndərˈstʊd/</li>
+				<li className="list-none">I hope my point is ______.</li>
+				<li className="list-none margin-bottom-20">Tôi hy vọng ý của tôi đã được hiểu rõ.</li>
 
-				<li value="5">More <strong>clearly</strong>: Rõ ràng hơn /mɔːr ˈklɪərli/</li>
-				<li className="list-none margin-bottom-20">Can you please explain that more <strong>clearly</strong>? (Bạn có thể giải thích rõ ràng hơn được không?)</li>
+				<li value="5"><strong>More</strong> clearly /mɔːr/</li>
+				<li className="list-none">Can you please explain that ______?</li>
+				<li className="list-none margin-bottom-20">Bạn có thể giải thích rõ ràng hơn được không?</li>
 
-				<li value="6">Less <strong>clearly</strong>: Ít rõ ràng hơn /les ˈklɪərli/</li>
-				<li className="list-none margin-bottom-20">The connection between the two events was less <strong>clearly</strong> established. (Mối liên hệ giữa hai sự kiện này ít rõ ràng hơn.)</li>
+				<li value="6"><strong>Less</strong> clearly /les/</li>
+				<li className="list-none">The connection between the two events was ______ established.</li>
+				<li className="list-none margin-bottom-20">Mối liên hệ giữa hai sự kiện này ít rõ ràng hơn.</li>
 
-				<li value="7"><strong>Clearly</strong> demonstrates: Rõ ràng chứng minh /ˈklɪərli ˈdɛmənstreɪts/</li>
-				<li className="list-none margin-bottom-20">The experiment <strong>clearly</strong> demonstrates the effects of climate change. (Thí nghiệm rõ ràng chứng minh những tác động của biến đổi khí hậu.)</li>
+				<li value="7">Clearly <strong>demonstrates</strong> /ˈdɛmənstreɪts/</li>
+				<li className="list-none">The experiment ______ the effects of climate change.</li>
+				<li className="list-none margin-bottom-20">Thí nghiệm rõ ràng chứng minh những tác động của biến đổi khí hậu.</li>
 
-				<li value="8"><strong>Clearly</strong> indicates: Rõ ràng chỉ ra /ˈklɪərli ˈɪndɪkeɪts/</li>
-				<li className="list-none margin-bottom-20">The map <strong>clearly</strong> indicates the shortest route. (Bản đồ rõ ràng chỉ ra tuyến đường ngắn nhất.)</li>
+				<li value="8">Clearly <strong>indicates</strong> /ˈɪndɪkeɪts/</li>
+				<li className="list-none">The map ______ the shortest route.</li>
+				<li className="list-none margin-bottom-20">Bản đồ rõ ràng chỉ ra tuyến đường ngắn nhất.</li>
 
-				<li value="9"><strong>Clearly</strong> articulated: Được diễn đạt rõ ràng /ˈklɪərli ɑːrˈtɪkjuleɪtɪd/</li>
-				<li className="list-none margin-bottom-20">His ideas were <strong>clearly</strong> articulated and easy to follow. (Ý tưởng của anh ấy được diễn đạt rõ ràng và dễ hiểu.)</li>
+				<li value="9">Clearly <strong>articulated</strong> /ɑːrˈtɪkjuleɪtɪd/</li>
+				<li className="list-none">His ideas were ______ and easy to follow.</li>
+				<li className="list-none margin-bottom-20">Ý tưởng của anh ấy được diễn đạt rõ ràng và dễ hiểu.</li>
 
-				<li value="10"><strong>Clearly</strong> intended: Rõ ràng có ý định /ˈklɪərli ɪnˈtɛndɪd/</li>
-				<li className="list-none margin-bottom-20">It was <strong>clearly</strong> intended as a joke. (Rõ ràng đó là một trò đùa.)</li>
+				<li value="10">Clearly <strong>intended</strong> /ɪnˈtɛndɪd/</li>
+				<li className="list-none">It was ______ as a joke.</li>
+				<li className="list-none margin-bottom-20">Rõ ràng đó là một trò đùa.</li>
 
 			</ol>
 
