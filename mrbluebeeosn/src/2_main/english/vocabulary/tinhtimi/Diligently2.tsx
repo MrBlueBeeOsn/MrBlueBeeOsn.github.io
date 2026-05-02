@@ -62,35 +62,45 @@ export default function Diligently2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1"><strong>Diligently</strong> worked: Làm việc chăm chỉ /ˈdɪlədʒəntli wɜːkt/</li>
-        <li className="list-none margin-bottom-20">She <strong>diligently</strong> worked on her project until late at night. (Cô ấy chăm chỉ làm dự án đến tận khuya.)</li>
+        <li value="1">Diligently <strong>worked</strong> /wɜːkt/</li>
+        <li className="list-none">She ______ on her project until late at night.</li>
+        <li className="list-none margin-bottom-20">Cô ấy chăm chỉ làm dự án đến tận khuya.</li>
 
-        <li value="2"><strong>Diligently</strong> studied: Học hành chăm chỉ /ˈdɪlədʒəntli ˈstʌdid/</li>
-        <li className="list-none margin-bottom-20">He <strong>diligently</strong> studied for his exams. (Anh ấy chăm chỉ ôn thi.)</li>
+        <li value="2">Diligently <strong>studied</strong> /ˈstʌdid/</li>
+        <li className="list-none">He ______ for his exams.</li>
+        <li className="list-none margin-bottom-20">Anh ấy chăm chỉ ôn thi.</li>
 
-        <li value="3"><strong>Diligently</strong> searched: Tìm kiếm cẩn thận /ˈdɪlədʒəntli sɜːtʃt/</li>
-        <li className="list-none margin-bottom-20">The detectives <strong>diligently</strong> searched for clues. (Các thám tử đã tìm kiếm manh mối một cách cẩn thận.)</li>
+        <li value="3">Diligently <strong>searched</strong> /sɜːtʃt/</li>
+        <li className="list-none">The detectives ______ for clues.</li>
+        <li className="list-none margin-bottom-20">Các thám tử đã tìm kiếm manh mối một cách cẩn thận.</li>
 
-        <li value="4"><strong>Diligently</strong> applied: Áp dụng một cách nghiêm túc /ˈdɪlədʒəntli əˈplaɪd/</li>
-        <li className="list-none margin-bottom-20">She <strong>diligently</strong> applied herself to her new job. (Cô ấy đã nghiêm túc làm việc với công việc mới của mình.)</li>
+        <li value="4">Diligently <strong>applied</strong> /əˈplaɪd/</li>
+        <li className="list-none">She ______ herself to her new job.</li>
+        <li className="list-none margin-bottom-20">Cô ấy đã nghiêm túc làm việc với công việc mới của mình.</li>
 
-        <li value="5"><strong>Diligently</strong> recorded: Ghi chép cẩn thận /ˈdɪlədʒəntli rɪˈkɔːdɪd/</li>
-        <li className="list-none margin-bottom-20">The scientist <strong>diligently</strong> recorded the data. (Nhà khoa học đã ghi chép dữ liệu một cách cẩn thận.)</li>
+        <li value="5">Diligently <strong>recorded</strong> /rɪˈkɔːdɪd/</li>
+        <li className="list-none">The scientist ______ the data.</li>
+        <li className="list-none margin-bottom-20">Nhà khoa học đã ghi chép dữ liệu một cách cẩn thận.</li>
 
-        <li value="6"><strong>Diligently</strong> maintained: Bảo trì cẩn thận /ˈdɪlədʒəntli meɪnˈteɪnd/</li>
-        <li className="list-none margin-bottom-20">He <strong>diligently</strong> maintained his garden. (Anh ấy chăm sóc khu vườn của mình rất cẩn thận.)</li>
+        <li value="6">Diligently <strong>maintained</strong> /meɪnˈteɪnd/</li>
+        <li className="list-none">He ______ his garden.</li>
+        <li className="list-none margin-bottom-20">Anh ấy chăm sóc khu vườn của mình rất cẩn thận.</li>
 
-        <li value="7"><strong>Diligently</strong> followed: Làm theo một cách nghiêm túc /ˈdɪlədʒəntli ˈfɒləʊd/</li>
-        <li className="list-none margin-bottom-20">She <strong>diligently</strong> followed the doctor's instructions. (Cô ấy đã làm theo chỉ dẫn của bác sĩ một cách nghiêm túc.)</li>
+        <li value="7">Diligently <strong>followed</strong> /ˈfɒləʊd/</li>
+        <li className="list-none">She ______ the doctor's instructions.</li>
+        <li className="list-none margin-bottom-20">Cô ấy đã làm theo chỉ dẫn của bác sĩ một cách nghiêm túc.</li>
 
-        <li value="8"><strong>Diligently</strong> prepared: Chuẩn bị kỹ lưỡng /ˈdɪlədʒəntli prɪˈpeərd/</li>
-        <li className="list-none margin-bottom-20">The students <strong>diligently</strong> prepared for the exam. (Học sinh đã chuẩn bị kỹ lưỡng cho kỳ thi.)</li>
+        <li value="8">Diligently <strong>prepared</strong> /prɪˈpeərd/</li>
+        <li className="list-none">The students ______ for the exam.</li>
+        <li className="list-none margin-bottom-20">Học sinh đã chuẩn bị kỹ lưỡng cho kỳ thi.</li>
 
-        <li value="9"><strong>Diligently</strong> pursued: Theo đuổi một cách kiên trì /ˈdɪlədʒəntli pərˈsuːd/</li>
-        <li className="list-none margin-bottom-20">He <strong>diligently</strong> pursued his dream of becoming a writer. (Anh ấy đã kiên trì theo đuổi ước mơ trở thành nhà văn.)</li>
+        <li value="9">Diligently <strong>pursued</strong> /pərˈsuːd/</li>
+        <li className="list-none">He ______ his dream of becoming a writer.</li>
+        <li className="list-none margin-bottom-20">Anh ấy đã kiên trì theo đuổi ước mơ trở thành nhà văn.</li>
 
-        <li value="10"><strong>Diligently</strong> observed: Quan sát kỹ lưỡng /ˈdɪlədʒəntli əbˈzɜːvd/</li>
-        <li className="list-none margin-bottom-20">The scientist <strong>diligently</strong> observed the behavior of the animals. (Nhà khoa học đã quan sát hành vi của động vật một cách kỹ lưỡng.)</li>
+        <li value="10">Diligently <strong>observed</strong> /əbˈzɜːvd/</li>
+        <li className="list-none">The scientist ______ the behavior of the animals.</li>
+        <li className="list-none margin-bottom-20">Nhà khoa học đã quan sát hành vi của động vật một cách kỹ lưỡng.</li>
 
       </ol>
 
