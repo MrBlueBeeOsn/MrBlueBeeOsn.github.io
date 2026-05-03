@@ -63,11 +63,11 @@ export default function Thoroughly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>She <strong>thoroughly</strong> cleaned the house before the guests arrived. (Cô ấy đã dọn dẹp nhà cửa thật kỹ trước khi khách đến.)</li>
+          <li>She ______ cleaned the house before the guests arrived.</li>
+          <li className="margin-bottom-20 list-none">Cô ấy đã dọn dẹp nhà cửa thật kỹ trước khi khách đến.</li>
 
-          <li>I have <strong>thoroughly</strong> researched this topic. (Tôi đã nghiên cứu kỹ lưỡng về chủ đề này.)
-
-  </li>
+          <li>I have ______ researched this topic.</li>
+          <li className="list-none">Tôi đã nghiên cứu kỹ lưỡng về chủ đề này.</li>
 
         </ul>
 
@@ -83,8 +83,9 @@ export default function Thoroughly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Thorough (adj): kỹ lưỡng /ˈθɜːrə/</li>
-          <li className="list-none">He gave a thorough explanation. (Anh ấy đã đưa ra một lời giải thích rất kỹ lưỡng.)</li>
+          <li>Thorough (adj) /ˈθɜːrə/</li>
+          <li className="list-none">He gave a ______ explanation.</li>
+          <li className="list-none">Anh ấy đã đưa ra một lời giải thích rất kỹ lưỡng.</li>
 
         </ul>
       
@@ -100,11 +101,13 @@ export default function Thoroughly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Completely: Hoàn toàn /kəmˈpliːtli/</li>
-          <li className="margin-bottom-20 list-none">I completely agree with you. (Tôi hoàn toàn đồng ý với bạn.)</li>
+          <li>Completely /kəmˈpliːtli/</li>
+          <li className="list-none">I ______ agree with you.</li>
+          <li className="margin-bottom-20 list-none">Tôi hoàn toàn đồng ý với bạn.</li>
 
-          <li>Totally: Hoàn toàn /ˈtəʊtəli/</li>
-          <li className="list-none">I am totally exhausted. (Tôi hoàn toàn kiệt sức.)</li>
+          <li>Totally /ˈtəʊtəli/</li>
+          <li className="list-none">I am ______ exhausted.</li>
+          <li className="list-none">Tôi hoàn toàn kiệt sức.</li>
 
         </ul>
 
@@ -120,11 +123,13 @@ export default function Thoroughly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Superficially: Một cách hời hợt /ˌsuːpərˈfɪʃəli/</li>
-          <li className="margin-bottom-20 list-none">They discussed the problem superficially, without going into any detail. (Họ thảo luận về vấn đề một cách hời hợt, không đi vào chi tiết.</li>
+          <li>Superficially /ˌsuːpərˈfɪʃəli/</li>
+          <li className="list-none">They discussed the problem ______, without going into any detail.</li>
+          <li className="margin-bottom-20 list-none">Họ thảo luận về vấn đề một cách hời hợt, không đi vào chi tiết.</li>
 
-          <li>Partially: Một phần /ˈpɑːrʃəli/</li>
-          <li className="list-none">The task was only partially completed. (Công việc chỉ được hoàn thành một phần.)</li>
+          <li>Partially /ˈpɑːrʃəli/</li>
+          <li className="list-none">The task was only ______ completed.</li>
+          <li className="list-none">Công việc chỉ được hoàn thành một phần.</li>
 
         </ul>
 
@@ -149,8 +154,8 @@ export default function Thoroughly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>She is <strong>thoroughly</strong> cleaning the glass table.</li>
-          <li className="list-none">(Cô ấy đang lau chùi bàn kính rất kỹ.)</li>
+          <li>She is ______ cleaning the glass table.</li>
+          <li className="list-none">Cô ấy đang lau chùi bàn kính rất kỹ.</li>
 
         </ul>
 
@@ -169,8 +174,8 @@ export default function Thoroughly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>I <strong>thoroughly</strong> enjoyed the movie.</li>
-          <li className="list-none">(Tôi đã rất thích bộ phim đó.)</li>
+          <li>I ______ enjoyed the movie.</li>
+          <li className="list-none">Tôi đã rất thích bộ phim đó.</li>
 
         </ul>
 
@@ -185,15 +190,17 @@ export default function Thoroughly1(): React.JSX.Element {
         <strong>&nbsp;thường xuyên</strong>:
       </p>
 
-      <p className="text-indent-whole">Thường xuyên sử dụng từ này trong các cuộc hội thoại và bài viết.</p>
+      <p className="text-indent-whole margin-bottom-20">Thường xuyên sử dụng từ này trong các cuộc hội thoại và bài viết.</p>
 
         <p className="text-indent-whole">Ví dụ để so sánh (sự khác biệt):</p>
 
           <ol>
 
-            <li>He read the book. (Anh ấy đã đọc cuốn sách.)</li>
-          
-            <li className="margin-bottom-20">He <strong>thoroughly</strong> read the book and understood every detail. (Anh ấy đã đọc kỹ cuốn sách và hiểu rõ từng chi tiết.)</li>
+            <li>He read the book.</li>
+            <li className="list-none margin-bottom-20">Anh ấy đã đọc cuốn sách.</li>
+
+            <li value="2">He ______ read the book and understood every detail.</li>
+            <li className="list-none margin-bottom-20">Anh ấy đã đọc kỹ cuốn sách và hiểu rõ từng chi tiết.</li>
 
           </ol>
 
