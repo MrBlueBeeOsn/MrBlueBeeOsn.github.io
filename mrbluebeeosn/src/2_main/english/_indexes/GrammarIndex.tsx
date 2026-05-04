@@ -110,6 +110,25 @@ export default function GrammarIndex(): React.JSX.Element {
 
         </div>
 
+        <div className="sub-box">
+                
+          {/* =============================
+              How to remember verbs add s
+          ============================= */}
+
+          <ul className="list-border1">
+
+            <li>
+              <div className="li-content">
+                <Link to="/grammar/how-to-remember-verbs-add-s">How to Remember Verbs Add S</Link>
+              </div>
+            </li>
+            
+          </ul>
+
+        </div>
+
+
       </div>
 
     </article>

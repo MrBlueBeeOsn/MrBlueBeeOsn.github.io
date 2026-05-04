@@ -103,6 +103,8 @@ const Posts = lazy(() => import('@/data/Posts'));
 	const Verb = lazy(() => import('@/2_main/english/grammar/Verb'));
 	const Adjective = lazy(() => import('@/2_main/english/grammar/Adjective'));
 	const Noun = lazy(() => import('@/2_main/english/grammar/Noun'));
+	const VerbsAddS = lazy(() => import('@/2_main/english/grammar/VerbsAddS'));
+
 
 	// Quiz
 	const EnglishGrammarQuestions = lazy(() => import('@/2_main/english/grammar/quiz/EnglishGrammarQuestions'));
@@ -571,6 +573,7 @@ export default function AppRoutes(): React.JSX.Element {
 					<Route path="/grammar/what-is-a-verb?" element={<Verb />} />
 					<Route path="/grammar/what-is-an-adjective?" element={<Adjective />} />
 					<Route path="/grammar/what-is-a-noun?" element={<Noun />} />
+					<Route path="/grammar/how-to-remember-verbs-add-s?" element={<VerbsAddS />} />
 
 					{/* Quiz */}
 					<Route path="/grammar/english-grammar-questions" element={<EnglishGrammarQuestions />} />
