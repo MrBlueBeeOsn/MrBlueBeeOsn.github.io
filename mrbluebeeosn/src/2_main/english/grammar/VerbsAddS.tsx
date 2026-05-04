@@ -88,7 +88,7 @@ export default function VerbsAddS(): React.JSX.Element {
 			<div className="viewcounter">
 			
 				<div className="post-date no-margin">
-					<span>May 4, 2026 · by 💎Gem ·</span>
+					<span>May 4, 2026 · by Google Search AI ·</span>
 				</div>
 
 				<div className="eye-icon no-margin">
