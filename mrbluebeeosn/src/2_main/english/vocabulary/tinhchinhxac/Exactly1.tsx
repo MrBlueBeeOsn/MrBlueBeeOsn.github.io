@@ -63,9 +63,11 @@ export default function Exactly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>That's <strong>exactly</strong> what I was thinking. (Đúng là điều tôi đang nghĩ.)</li>
-          
-          <li>She arrived at <strong>exactly</strong> 3 o'clock. (Cô ấy đến đúng 3 giờ.)</li>
+          <li>That's ______ what I was thinking.</li>
+          <li className="margin-bottom-20 list-none">Đúng là điều tôi đang nghĩ.</li>
+
+          <li>She arrived at ______ 3 o'clock.</li>
+          <li className="list-none">Cô ấy đến đúng 3 giờ.</li>
 
         </ul>
 
@@ -81,8 +83,9 @@ export default function Exactly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Exact (adj): chính xác /ɪɡˈzækt/</li>
-          <li className="list-none">The exact time is 2:15 PM. (Thời gian chính xác là 2:15 chiều.)</li>
+          <li>Exact (adj) /ɪɡˈzækt/</li>
+          <li className="list-none">The ______ time is 2:15 PM.</li>
+          <li className="list-none">Thời gian chính xác là 2:15 chiều.</li>
 
         </ul>
       
@@ -98,11 +101,13 @@ export default function Exactly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li><Link to="/vocabulary/precisely-1">Precisely</Link>: Chính xác /prɪˈsaɪsli/</li>
-          <li className="margin-bottom-20 list-none">That's precisely what I meant. (Đó chính xác là điều tôi muốn nói.)</li>
+          <li><Link to="/vocabulary/precisely-1">Precisely</Link> /prɪˈsaɪsli/</li>
+          <li className="list-none">That's ______ what I meant.</li>
+          <li className="margin-bottom-20 list-none">Đó chính xác là điều tôi muốn nói.</li>
 
-          <li><Link to="/vocabulary/accurately-1">Accurately</Link>: Chính xác /ˈækjərətli/</li>
-          <li className="list-none">The measurement was accurately taken. (Đo lường đã được thực hiện chính xác.)</li>
+          <li><Link to="/vocabulary/accurately-1">Accurately</Link> /ˈækjərətli/</li>
+          <li className="list-none">The measurement was ______ taken.</li>
+          <li className="list-none">Đo lường đã được thực hiện chính xác.</li>
 
         </ul>
 
@@ -118,11 +123,13 @@ export default function Exactly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Approximately: Xấp xỉ /əˈprɒksɪmətli/</li>
-          <li className="margin-bottom-20 list-none">There were approximately 100 people at the party. (Có khoảng 100 người tại bữa tiệc.)</li>
+          <li>Approximately /əˈprɒksɪmətli/</li>
+          <li className="list-none">There were ______ 100 people at the party.</li>
+          <li className="margin-bottom-20 list-none">Có khoảng 100 người tại bữa tiệc.</li>
 
-          <li>Roughly: Xấp xỉ /ˈrʌfli/</li>
-          <li className="list-none">It takes roughly 30 minutes to get there. (Mất khoảng 30 phút để đến đó.)</li>
+          <li>Roughly /ˈrʌfli/</li>
+          <li className="list-none">It takes ______ 30 minutes to get there.</li>
+          <li className="list-none">Mất khoảng 30 phút để đến đó.</li>
 
         </ul>
 
@@ -147,8 +154,8 @@ export default function Exactly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>This digital caliper can measure the length of this component <strong>exactly</strong> to the millimeter.</li>
-          <li className="list-none">(Thước kẹp kỹ thuật số này có thể đo độ dài của thành phần này chính xác đến từng milimet.)</li>
+          <li>This digital caliper can measure the length of this component ______ to the millimeter.</li>
+          <li className="list-none">Thước kẹp kỹ thuật số này có thể đo độ dài của thành phần này chính xác đến từng milimet.</li>
 
         </ul>
 
@@ -167,8 +174,8 @@ export default function Exactly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Can you repeat that, <strong>exactly</strong>?</li>
-          <li className="list-none">(Anh/chị có thể lặp lại điều đó, chính xác không?)</li>
+          <li>Can you repeat that, ______?</li>
+          <li className="list-none">Anh/chị có thể lặp lại điều đó, chính xác không?</li>
 
         </ul>
 
@@ -183,15 +190,17 @@ export default function Exactly1(): React.JSX.Element {
         <strong>&nbsp;thường xuyên</strong>:
       </p>
 
-      <p className="text-indent-whole">Thường xuyên sử dụng từ này trong các cuộc hội thoại và bài viết.</p>
+      <p className="text-indent-whole margin-bottom-20">Thường xuyên sử dụng từ này trong các cuộc hội thoại và bài viết.</p>
 
         <p className="text-indent-whole">Ví dụ để so sánh (sự khác biệt):</p>
 
           <ol>
 
-            <li>I'll be there soon. (Tôi sẽ đến đó sớm.)</li>
+            <li>I'll be there soon.</li>
+            <li className="list-none margin-bottom-20">Tôi sẽ đến đó sớm.</li>
 
-            <li className="margin-bottom-20">I'll be there at <strong>exactly</strong> 5 PM. (Tôi sẽ đến đó đúng 5 giờ.)</li>
+            <li value="2">I'll be there at ______ 5 PM.</li>
+            <li className="list-none margin-bottom-20">Tôi sẽ đến đó đúng 5 giờ.</li>
 
           </ol>
 

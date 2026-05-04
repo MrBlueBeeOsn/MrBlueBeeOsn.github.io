@@ -62,35 +62,45 @@ export default function Exactly2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1"><strong>Exactly</strong> right: Hoàn toàn đúng /ɪɡˈzæktli raɪt/</li>
-        <li className="list-none margin-bottom-20">That's <strong>exactly</strong> right! You've hit the nail on the head. (Đúng chính xác rồi! Bạn đã nói trúng phóc.)</li>
+        <li value="1">Exactly <strong>right</strong> /raɪt/</li>
+        <li className="list-none">That's ______! You've hit the nail on the head.</li>
+        <li className="list-none margin-bottom-20">Đúng chính xác rồi! Bạn đã nói trúng phóc.</li>
 
-        <li value="2"><strong>Exactly</strong> what I mean: Đúng là điều tôi muốn nói /ɪɡˈzæktli wɒt aɪ miːn/</li>
-        <li className="list-none margin-bottom-20">Yes, <strong>exactly</strong> what I mean. It's unfair. (Đúng vậy, đó chính là điều tôi muốn nói. Nó thật bất công.)</li>
+        <li value="2">Exactly <strong>what I mean</strong> /wɒt aɪ miːn/</li>
+        <li className="list-none">Yes, ______. It's unfair.</li>
+        <li className="list-none margin-bottom-20">Đúng vậy, đó chính là điều tôi muốn nói. Nó thật bất công.</li>
 
-        <li value="3"><strong>Exactly</strong> the same: Hoàn toàn giống nhau /ɪɡˈzæktli ðə seɪm/</li>
-        <li className="list-none margin-bottom-20">My new phone is <strong>exactly</strong> the same as my old one. (Điện thoại mới của tôi hoàn toàn giống với cái cũ.)</li>
+        <li value="3">Exactly <strong>the same</strong> /ðə seɪm/</li>
+        <li className="list-none">My new phone is ______ as my old one.</li>
+        <li className="list-none margin-bottom-20">Điện thoại mới của tôi hoàn toàn giống với cái cũ.</li>
 
-        <li value="4"><strong>Exactly</strong> as planned: Đúng như kế hoạch /ɪɡˈzæktli æz plænd/</li>
-        <li className="list-none margin-bottom-20">Everything went <strong>exactly</strong> as planned for the party. (Mọi thứ diễn ra đúng như kế hoạch cho bữa tiệc.)</li>
+        <li value="4">Exactly <strong>as planned</strong> /æz plænd/</li>
+        <li className="list-none">Everything went ______ for the party.</li>
+        <li className="list-none margin-bottom-20">Mọi thứ diễn ra đúng như kế hoạch cho bữa tiệc.</li>
 
-        <li value="5">Not <strong>exactly</strong>: Không hẳn là /nɒt ɪɡˈzæktli/</li>
-        <li className="list-none margin-bottom-20">I'm not <strong>exactly</strong> sure what he meant by that. (Tôi không thực sự chắc chắn về ý của anh ấy.)</li>
+        <li value="5"><strong>Not</strong> exactly /nɒt/</li>
+        <li className="list-none">I'm ______ sure what he meant by that.</li>
+        <li className="list-none margin-bottom-20">Tôi không thực sự chắc chắn về ý của anh ấy.</li>
 
-        <li value="6"><strong>Exactly</strong> how many: Chính xác bao nhiêu /ɪɡˈzæktli haʊ ˈmɛni/</li>
-        <li className="list-none margin-bottom-20"><strong>Exactly</strong> how many people attended the conference? (Chính xác có bao nhiêu người tham dự hội nghị?)</li>
+        <li value="6">Exactly <strong>how many</strong> /haʊ ˈmɛni/</li>
+        <li className="list-none">______ people attended the conference?</li>
+        <li className="list-none margin-bottom-20">Chính xác có bao nhiêu người tham dự hội nghị?</li>
 
-        <li value="7"><strong>Exactly</strong> where: Chính xác ở đâu /ɪɡˈzæktli wɛər/</li>
-        <li className="list-none margin-bottom-20">Can you tell me <strong>exactly</strong> where the library is? (Bạn có thể cho tôi biết thư viện ở chính xác đâu không?)</li>
+        <li value="7">Exactly <strong>where</strong> /wɛər/</li>
+        <li className="list-none">Can you tell me ______ the library is?</li>
+        <li className="list-none margin-bottom-20">Bạn có thể cho tôi biết thư viện ở chính xác đâu không?</li>
 
-        <li value="8"><strong>Exactly</strong> when: Chính xác khi nào /ɪɡˈzæktli wɛn/</li>
-        <li className="list-none margin-bottom-20"><strong>Exactly</strong> when does the train leave? (Tàu khởi hành chính xác lúc mấy giờ?)</li>
+        <li value="8">Exactly <strong>when</strong> /wɛn/</li>
+        <li className="list-none">______ does the train leave?</li>
+        <li className="list-none margin-bottom-20">Tàu khởi hành chính xác lúc mấy giờ?</li>
 
-        <li value="9"><strong>Exactly</strong> the same as: Hoàn toàn giống như /ɪɡˈzæktli ðə seɪm æz/</li>
-        <li className="list-none margin-bottom-20">Her dress is <strong>exactly</strong> the same as mine. (Váy của cô ấy hoàn toàn giống với váy của tôi.)</li>
+        <li value="9">Exactly <strong>the same as</strong> /ðə seɪm æz/</li>
+        <li className="list-none">Her dress is ______ mine.</li>
+        <li className="list-none margin-bottom-20">Váy của cô ấy hoàn toàn giống với váy của tôi.</li>
 
-        <li value="10"><strong>Exactly</strong> what I needed: Đúng là điều tôi cần /ɪɡˈzæktli wɒt aɪ ˈniːdɪd/</li>
-        <li className="list-none margin-bottom-20">This book is <strong>exactly</strong> what I needed for my research. (Cuốn sách này đúng là điều tôi cần cho bài nghiên cứu của mình.)</li>
+        <li value="10">Exactly <strong>what I needed</strong> /wɒt aɪ ˈniːdɪd/</li>
+        <li className="list-none">This book is ______ for my research.</li>
+        <li className="list-none margin-bottom-20">Cuốn sách này đúng là điều tôi cần cho bài nghiên cứu của mình.</li>
 
       </ol>
 
