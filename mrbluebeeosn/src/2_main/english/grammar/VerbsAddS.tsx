@@ -59,7 +59,7 @@ export default function VerbsAddS(): React.JSX.Element {
 
 				</ul>
 
-			<p className="margin-top-20"><strong>Visualize Superman</strong>: Imagine an "S" on the chest of a superhero that jumps onto the verb when the subject is he, she, or it.</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Visualize Superman</strong>: Imagine an "S" on the chest of a superhero that jumps onto the verb when the subject is he, she, or it.</p>
 
 			<h3 className="margin-y-50 text-center">4. Special Rules and Exceptions</h3>
 
@@ -88,7 +88,7 @@ export default function VerbsAddS(): React.JSX.Element {
 			<div className="viewcounter">
 			
 				<div className="post-date no-margin">
-					<span>May 4, 2026 · by Google Search AI ·</span>
+					<span>May 4, 2026 · by GGS AI ·</span>
 				</div>
 
 				<div className="eye-icon no-margin">
