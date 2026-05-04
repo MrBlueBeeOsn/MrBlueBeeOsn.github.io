@@ -65,32 +65,41 @@ export default function Correctly2(): React.JSX.Element {
         <li value="1"><strong>Correctly</strong> identified: Nhận dạng chính xác /kəˈrektli aɪˈdentɪfaɪd/</li>
         <li className="list-none margin-bottom-20">The detective <strong>correctly</strong> identified the suspect. (Thám tử đã nhận dạng chính xác nghi phạm.)</li>
 
-        <li value="2"><strong>Correctly</strong> answered: Trả lời chính xác /kəˈrektli ˈɑːnsərd/</li>
-        <li className="list-none margin-bottom-20">She <strong>correctly</strong> answered all the questions on the test. (Cô ấy đã trả lời chính xác tất cả các câu hỏi trong bài kiểm tra.)</li>
+        <li value="2">Correctly <strong>answered</strong> /ˈɑːnsərd/</li>
+        <li className="list-none">She ______ all the questions on the test.</li>
+        <li className="list-none margin-bottom-20">Cô ấy đã trả lời chính xác tất cả các câu hỏi trong bài kiểm tra.</li>
 
-        <li value="3"><strong>Correctly</strong> interpreted: Diễn giải chính xác /kəˈrektli ɪnˈtɜːprətɪd/</li>
-        <li className="list-none margin-bottom-20">The message was <strong>correctly</strong> interpreted by the receiver. (Thông điệp đã được người nhận diễn giải chính xác.)</li>
+        <li value="3">Correctly <strong>interpreted</strong> /ɪnˈtɜːprətɪd/</li>
+        <li className="list-none">The message was ______ by the receiver.</li>
+        <li className="list-none margin-bottom-20">Thông điệp đã được người nhận diễn giải chính xác.</li>
 
-        <li value="4"><strong>Correctly</strong> spelled: Viết chính tả đúng /kəˈrektli spelt/</li>
-        <li className="list-none margin-bottom-20">He <strong>correctly</strong> spelled every word on the list. (Anh ấy đã viết chính tả đúng mọi từ trong danh sách.)</li>
+        <li value="4">Correctly <strong>spelled</strong> /spelt/</li>
+        <li className="list-none">He ______ every word on the list.</li>
+        <li className="list-none margin-bottom-20">Anh ấy đã viết chính tả đúng mọi từ trong danh sách.</li>
 
-        <li value="5"><strong>Correctly</strong> calculated: Tính toán chính xác /kəˈrektli ˈkælkjʊleɪtɪd/</li>
-        <li className="list-none margin-bottom-20">The engineer <strong>correctly</strong> calculated the load-bearing capacity of the bridge. (Kỹ sư đã tính toán chính xác khả năng chịu tải của cây cầu.)</li>
+        <li value="5">Correctly <strong>calculated</strong> /ˈkælkjʊleɪtɪd/</li>
+        <li className="list-none">The engineer ______ the load-bearing capacity of the bridge.</li>
+        <li className="list-none margin-bottom-20">Kỹ sư đã tính toán chính xác khả năng chịu tải của cây cầu.</li>
 
-        <li value="6"><strong>Correctly</strong> applied: Áp dụng chính xác /kəˈrektli əˈplaɪd/</li>
-        <li className="list-none margin-bottom-20">The rules were <strong>correctly</strong> applied in this case. (Quy tắc đã được áp dụng chính xác trong trường hợp này.)</li>
+        <li value="6">Correctly <strong>applied</strong> /əˈplaɪd/</li>
+        <li className="list-none">The rules were ______ in this case.</li>
+        <li className="list-none margin-bottom-20">Quy tắc đã được áp dụng chính xác trong trường hợp này.</li>
 
-        <li value="7"><strong>Correctly</strong> diagnosed: Chẩn đoán chính xác /kəˈrektli ˈdaɪəɡnoʊzd/</li>
-        <li className="list-none margin-bottom-20">The doctor <strong>correctly</strong> diagnosed the patient's illness. (Bác sĩ đã chẩn đoán chính xác bệnh của bệnh nhân.)</li>
+        <li value="7">Correctly <strong>diagnosed</strong> /ˈdaɪəɡnoʊzd/</li>
+        <li className="list-none">The doctor ______ the patient's illness.</li>
+        <li className="list-none margin-bottom-20">Bác sĩ đã chẩn đoán chính xác bệnh của bệnh nhân.</li>
 
-        <li value="8"><strong>Correctly</strong> positioned: Vị trí chính xác /kəˈrektli pəˈzɪʃnd/</li>
-        <li className="list-none margin-bottom-20">The chess pieces were <strong>correctly</strong> positioned on the board. (Các quân cờ đã được đặt đúng vị trí trên bàn cờ.)</li>
+        <li value="8">Correctly <strong>positioned</strong> /kəˈrektli pəˈzɪʃnd/</li>
+        <li className="list-none">The chess pieces were ______ on the board.</li>
+        <li className="list-none margin-bottom-20">Các quân cờ đã được đặt đúng vị trí trên bàn cờ.</li>
 
-        <li value="9"><strong>Correctly</strong> measured: Đo lường chính xác /kəˈrektli ˈmɛʒərd/</li>
-        <li className="list-none margin-bottom-20">The scientist <strong>correctly</strong> measured the temperature of the solution. (Nhà khoa học đã đo chính xác nhiệt độ của dung dịch.)</li>
+        <li value="9">Correctly <strong>measured</strong> /ˈmɛʒərd/</li>
+        <li className="list-none">The scientist ______ the temperature of the solution.)</li>
+        <li className="list-none margin-bottom-20">Nhà khoa học đã đo chính xác nhiệt độ của dung dịch.</li>
 
-        <li value="10"><strong>Correctly</strong> understood: Hiểu chính xác /kəˈrektli ˌʌndərˈstʊd/</li>
-        <li className="list-none margin-bottom-20">The instructions were <strong>correctly</strong> understood by all the participants. (Hướng dẫn đã được tất cả người tham gia hiểu chính xác.)</li>
+        <li value="10">Correctly <strong>understood</strong> /ˌʌndərˈstʊd/</li>
+        <li className="list-none">The instructions were ______ by all the participants.</li>
+        <li className="list-none margin-bottom-20">Hướng dẫn đã được tất cả người tham gia hiểu chính xác.</li>
 
       </ol>
 

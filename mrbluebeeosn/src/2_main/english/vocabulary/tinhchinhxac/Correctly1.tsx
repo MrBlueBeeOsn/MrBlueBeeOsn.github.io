@@ -63,9 +63,11 @@ export default function Correctly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>She answered all the questions <strong>correctly</strong>. (Cô ấy đã trả lời tất cả các câu hỏi một cách chính xác.)</li>
+          <li>She answered all the questions ______.</li>
+          <li className="margin-bottom-20 list-none">Cô ấy đã trả lời tất cả các câu hỏi một cách chính xác.</li>
 
-          <li>Please make sure you fill in the form <strong>correctly</strong>. (Vui lòng đảm bảo bạn điền vào mẫu đơn một cách chính xác.)</li>
+          <li>Please make sure you fill in the form ______.</li>
+          <li className="list-none">Vui lòng đảm bảo bạn điền vào mẫu đơn một cách chính xác.</li>
 
         </ul>
 
@@ -81,11 +83,13 @@ export default function Correctly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Correct (adj): Đúng, chính xác /kəˈrekt/</li>
-          <li className="margin-bottom-20 list-none">Your answer is correct. (Câu trả lời của bạn đúng.)</li>
+          <li>Correct (adj) /kəˈrekt/</li>
+          <li className="list-none">Your answer is ______.</li>
+          <li className="margin-bottom-20 list-none">Câu trả lời của bạn đúng.</li>
 
-          <li>Correction (n): Sự sửa chữa /kəˈrekʃn/</li>
-          <li className="list-none">The teacher made a correction to my essay. (Giáo viên đã sửa một lỗi trong bài luận của tôi.)</li>
+          <li>Correction (n) /kəˈrekʃn/</li>
+          <li className="list-none">The teacher made a ______ to my essay.</li>
+          <li className="list-none">Giáo viên đã sửa một lỗi trong bài luận của tôi.</li>
 
         </ul>
       
@@ -101,11 +105,13 @@ export default function Correctly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li><Link to="/vocabulary/accurately-1">Accurately</Link>: Một cách chính xác /ˈækjərətli/</li>
-          <li className="margin-bottom-20 list-none">The data was recorded accurately. (Dữ liệu đã được ghi lại một cách chính xác.)</li>
+          <li><Link to="/vocabulary/accurately-1">Accurately</Link> /ˈækjərətli/</li>
+          <li className="list-none">The data was recorded ______.</li>
+          <li className="margin-bottom-20 list-none">Dữ liệu đã được ghi lại một cách chính xác.</li>
 
-          <li><Link to="/vocabulary/precisely-1">Precisely</Link>: Một cách chính xác /prɪˈsaɪsli/</li>
-          <li className="list-none">He explained the situation precisely. (Anh ấy đã giải thích tình hình một cách chính xác.)</li>
+          <li><Link to="/vocabulary/precisely-1">Precisely</Link> /prɪˈsaɪsli/</li>
+          <li className="list-none">He explained the situation ______.</li>
+          <li className="list-none">Anh ấy đã giải thích tình hình một cách chính xác.</li>
 
         </ul>
 
@@ -121,11 +127,13 @@ export default function Correctly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Incorrectly: Một cách sai lầm /ɪnˈkərektli/</li>
-          <li className="margin-bottom-20 list-none">He answered the question incorrectly. (Anh ấy đã trả lời câu hỏi một cách sai lầm.)</li>
+          <li>Incorrectly /ɪnˈkərektli/</li>
+          <li className="list-none">He answered the question ______.</li>
+          <li className="margin-bottom-20 list-none">Anh ấy đã trả lời câu hỏi một cách sai lầm.</li>
 
-          <li>Improperly: Một cách không đúng /ɪmˈprɒpərli/</li>
-          <li className="list-none">She was treated improperly. (Cô ấy đã bị đối xử một cách không đúng.)</li>
+          <li>Improperly /ɪmˈprɒpərli/</li>
+          <li className="list-none">She was treated ______.</li>
+          <li className="list-none">Cô ấy đã bị đối xử một cách không đúng.</li>
 
         </ul>
 
@@ -150,8 +158,8 @@ export default function Correctly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>The student is carefully marking the answers <strong>correctly</strong>, ensuring a high score.</li>
-          <li className="list-none">(Học sinh đang cẩn thận đánh dấu các câu trả lời một cách chính xác, đảm bảo đạt điểm cao.)</li>
+          <li>The student is carefully marking the answers ______, ensuring a high score.</li>
+          <li className="list-none">Học sinh đang cẩn thận đánh dấu các câu trả lời một cách chính xác, đảm bảo đạt điểm cao.</li>
 
         </ul>
 
@@ -170,8 +178,8 @@ export default function Correctly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>If you want to use the machine, you must follow the instructions <strong>correctly</strong>.</li>
-          <li className="list-none">(Nếu bạn muốn sử dụng máy, bạn phải làm theo hướng dẫn một cách chính xác.)</li>
+          <li>If you want to use the machine, you must follow the instructions ______.</li>
+          <li className="list-none">Nếu bạn muốn sử dụng máy, bạn phải làm theo hướng dẫn một cách chính xác.</li>
 
         </ul>
 
@@ -186,15 +194,17 @@ export default function Correctly1(): React.JSX.Element {
         <strong>&nbsp;thường xuyên</strong>:
       </p>
 
-      <p className="text-indent-whole">Thường xuyên sử dụng từ này trong các cuộc hội thoại và bài viết.</p>
+      <p className="text-indent-whole margin-bottom-20">Thường xuyên sử dụng từ này trong các cuộc hội thoại và bài viết.</p>
 
         <p className="text-indent-whole">Ví dụ để so sánh (sự khác biệt):</p>
 
           <ol>
 
-            <li>He answered the question. (Anh ấy đã trả lời câu hỏi.)</li>
+            <li>He answered the question.</li>
+            <li className="list-none margin-bottom-20">Anh ấy đã trả lời câu hỏi.</li>
 
-            <li className="margin-bottom-20">He answered the question <strong>correctly</strong>. (Anh ấy đã trả lời câu hỏi một cách chính xác.)</li>
+            <li value="2">He answered the question ______.</li>
+            <li className="list-none margin-bottom-20">Anh ấy đã trả lời câu hỏi một cách chính xác.</li>
 
           </ol>
 
