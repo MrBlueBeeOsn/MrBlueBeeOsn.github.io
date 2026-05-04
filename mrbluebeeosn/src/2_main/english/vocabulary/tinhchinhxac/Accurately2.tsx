@@ -62,35 +62,45 @@ export default function Accurately2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1"><strong>Accurately</strong> reflect: Phản ánh chính xác /ˈækjərətli rɪˈflekt/</li>
-        <li className="list-none margin-bottom-20">The statistics <strong>accurately</strong> reflect the current economic situation. (Thống kê phản ánh chính xác tình hình kinh tế hiện tại.)</li>
+        <li value="1">Accurately <strong>reflect</strong> /rɪˈflekt/</li>
+        <li className="list-none">The statistics ______ the current economic situation.</li>
+        <li className="list-none margin-bottom-20">Thống kê phản ánh chính xác tình hình kinh tế hiện tại.</li>
 
-        <li value="2"><strong>Accurately</strong> measure: Đo lường chính xác /ˈækjərətli ˈmɛʒər/</li>
-        <li className="list-none margin-bottom-20">The scientist <strong>accurately</strong> measured the temperature of the solution. (Nhà khoa học đã đo chính xác nhiệt độ của dung dịch.)</li>
+        <li value="2">Accurately <strong>measured</strong> /ˈmɛʒərd/</li>
+        <li className="list-none">The scientist ______ the temperature of the solution.</li>
+        <li className="list-none margin-bottom-20">Nhà khoa học đã đo chính xác nhiệt độ của dung dịch.</li>
 
-        <li value="3"><strong>Accurately</strong> predict: Dự đoán chính xác /ˈækjərətli prɪˈdɪkt/</li>
-        <li className="list-none margin-bottom-20">The meteorologist <strong>accurately</strong> predicted the arrival of the storm. (Nhà khí tượng đã dự báo chính xác thời điểm cơn bão đến.)</li>
+        <li value="3">Accurately <strong>predicted</strong> /prɪˈdɪktɪd/</li>
+        <li className="list-none">The meteorologist ______ the arrival of the storm.</li>
+        <li className="list-none margin-bottom-20">Nhà khí tượng đã dự báo chính xác thời điểm cơn bão đến.</li>
 
-        <li value="4"><strong>Accurately</strong> describe: Mô tả chính xác /ˈækjərətli dɪˈskraɪb/</li>
-        <li className="list-none margin-bottom-20">The witness <strong>accurately</strong> described the suspect to the police. (Nhân chứng đã mô tả chính xác nghi phạm cho cảnh sát.)</li>
+        <li value="4">Accurately <strong>described</strong> /dɪˈskraɪbd/</li>
+        <li className="list-none">The witness ______ the suspect to the police.</li>
+        <li className="list-none margin-bottom-20">Nhân chứng đã mô tả chính xác nghi phạm cho cảnh sát.</li>
 
-        <li value="5"><strong>Accurately</strong> identify: Nhận dạng chính xác /ˈækjərətli aɪˈdɛntɪfaɪ/</li>
-        <li className="list-none margin-bottom-20">The expert <strong>accurately</strong> identified the rare bird species. (Chuyên gia đã nhận dạng chính xác loài chim quý hiếm.)</li>
+        <li value="5">Accurately <strong>identified</strong> /aɪˈdɛntɪfaɪd/</li>
+        <li className="list-none">The expert ______ the rare bird species.</li>
+        <li className="list-none margin-bottom-20">Chuyên gia đã nhận dạng chính xác loài chim quý hiếm.</li>
 
-        <li value="6"><strong>Accurately</strong> calculate: Tính toán chính xác /ˈækjərətli ˈkælkjʊleɪt/</li>
-        <li className="list-none margin-bottom-20">The engineer <strong>accurately</strong> calculated the load-bearing capacity of the bridge. (Kỹ sư đã tính toán chính xác khả năng chịu tải của cây cầu.)</li>
+        <li value="6">Accurately <strong>calculated</strong> /ˈkælkjʊleɪtɪd/</li>
+        <li className="list-none">The engineer ______ the load-bearing capacity of the bridge.</li>
+        <li className="list-none margin-bottom-20">Kỹ sư đã tính toán chính xác khả năng chịu tải của cây cầu.</li>
 
-        <li value="7"><strong>Accurately</strong> translate: Dịch chính xác /ˈækjərətli trænzˈleɪt/</li>
-        <li className="list-none margin-bottom-20">The translator <strong>accurately</strong> translated the document from English into Spanish. (Người phiên dịch đã dịch chính xác tài liệu từ tiếng Anh sang tiếng Tây Ban Nha.)</li>
+        <li value="7">Accurately <strong>translated</strong> /trænzˈleɪtɪd/</li>
+        <li className="list-none">The translator ______ the document from English into Spanish.</li>
+        <li className="list-none margin-bottom-20">Người phiên dịch đã dịch chính xác tài liệu từ tiếng Anh sang tiếng Tây Ban Nha.</li>
 
-        <li value="8"><strong>Accurately</strong> represent: Đại diện chính xác /ˈækjərətli ˌreprɪˈzɛnt/</li>
-        <li className="list-none margin-bottom-20">The model <strong>accurately</strong> represents the structure of the molecule. (Mô hình đại diện chính xác cấu trúc của phân tử.)</li>
+        <li value="8">Accurately <strong>represents</strong> /ˌreprɪˈzɛnts/</li>
+        <li className="list-none">The model ______ the structure of the molecule.</li>
+        <li className="list-none margin-bottom-20">Mô hình đại diện chính xác cấu trúc của phân tử.</li>
 
-        <li value="9"><strong>Accurately</strong> assess: Đánh giá chính xác /ˈækjərətli əˈsɛs/</li>
-        <li className="list-none margin-bottom-20">The teacher <strong>accurately</strong> assessed the student's performance. (Giáo viên đã đánh giá chính xác kết quả học tập của học sinh.)</li>
+        <li value="9">Accurately <strong>assessed</strong> /əˈsɛst/</li>
+        <li className="list-none">The teacher ______ the student's performance.</li>
+        <li className="list-none margin-bottom-20">Giáo viên đã đánh giá chính xác kết quả học tập của học sinh.</li>
 
-        <li value="10"><strong>Accurately</strong> reproduce: Tái tạo chính xác /ˈækjərətli ˌriːprəˈduːs/</li>
-        <li className="list-none margin-bottom-20">The artist <strong>accurately</strong> reproduced the scene in her painting. (Họa sĩ đã tái tạo cảnh vật một cách chính xác trong bức tranh của mình.)</li>
+        <li value="10">Accurately <strong>reproduced</strong> /ˌriːprəˈduːst/</li>
+        <li className="list-none">The artist ______ the scene in her painting.</li>
+        <li className="list-none margin-bottom-20">Họa sĩ đã tái tạo cảnh vật một cách chính xác trong bức tranh của mình.</li>
 
       </ol>
 
