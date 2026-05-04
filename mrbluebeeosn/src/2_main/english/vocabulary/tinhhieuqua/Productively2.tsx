@@ -62,35 +62,45 @@ export default function Productively2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1"><strong>Productively</strong> work: Làm việc một cách hiệu quả /prəˈdʌktɪvli wɜːrk/</li>
-        <li className="list-none margin-bottom-20">The team worked <strong>productively</strong> to meet the project deadline. (Cả đội đã làm việc một cách hiệu quả để kịp thời hạn của dự án.)</li>
+        <li value="1"><strong>Worked</strong> productively /wɜːrkt/</li>
+        <li className="list-none">The team ______ to meet the project deadline.</li>
+        <li className="list-none margin-bottom-20">Cả đội đã làm việc một cách hiệu quả để kịp thời hạn của dự án.</li>
 
-        <li value="2"><strong>Productively</strong> use: Sử dụng một cách hiệu quả /prəˈdʌktɪvli juːz/</li>
-        <li className="list-none margin-bottom-20">She <strong>productively</strong> used her time to learn a new skill. (Cô ấy đã sử dụng thời gian của mình một cách hiệu quả để học một kỹ năng mới.)</li>
+        <li value="2">Productively <strong>used</strong> /juːzd/</li>
+        <li className="list-none">She ______ her time to learn a new skill.</li>
+        <li className="list-none margin-bottom-20">Cô ấy đã sử dụng thời gian của mình một cách hiệu quả để học một kỹ năng mới.</li>
 
-        <li value="3"><strong>Productively</strong> spend: Dành thời gian một cách hiệu quả /prəˈdʌktɪvli spɛnd/</li>
-        <li className="list-none margin-bottom-20">He <strong>productively</strong> spent his morning writing reports. (Anh ấy đã dành buổi sáng của mình một cách hiệu quả để viết báo cáo.)</li>
+        <li value="3">Productively <strong>spent</strong> /spɛnt/</li>
+        <li className="list-none">He ______ his morning writing reports.</li>
+        <li className="list-none margin-bottom-20">Anh ấy đã dành buổi sáng của mình một cách hiệu quả để viết báo cáo.</li>
 
-        <li value="4"><strong>Productively</strong> manage: Quản lý một cách hiệu quả /prəˈdʌktɪvli ˈmænɪdʒ/</li>
-        <li className="list-none margin-bottom-20">The manager <strong>productively</strong> managed the team's resources. (Người quản lý đã quản lý các nguồn lực của nhóm một cách hiệu quả.)</li>
+        <li value="4">Productively <strong>managed</strong> /ˈmænɪdʒd/</li>
+        <li className="list-none">The manager ______ the team's resources.</li>
+        <li className="list-none margin-bottom-20">Người quản lý đã quản lý các nguồn lực của nhóm một cách hiệu quả.</li>
 
-        <li value="5"><strong>Productively</strong> organize: Sắp xếp một cách hiệu quả /prəˈdʌktɪvli ˈɔːrɡənaɪz/</li>
-        <li className="list-none margin-bottom-20">She <strong>productively</strong> organized her workspace to improve efficiency. (Cô ấy đã sắp xếp không gian làm việc của mình một cách hiệu quả để nâng cao năng suất.)</li>
+        <li value="5">Productively <strong>organized</strong> /ˈɔːrɡənaɪzd/</li>
+        <li className="list-none">She ______ her workspace to improve efficiency.</li>
+        <li className="list-none margin-bottom-20">Cô ấy đã sắp xếp không gian làm việc của mình một cách hiệu quả để nâng cao năng suất.</li>
 
-        <li value="6"><strong>Productively</strong> communicate: Giao tiếp một cách hiệu quả /prəˈdʌktɪvli kəˈmjuːnɪkeɪt/</li>
-        <li className="list-none margin-bottom-20">The team <strong>productively</strong> communicated their progress during the meeting. (Cả đội đã giao tiếp một cách hiệu quả về tiến độ của họ trong cuộc họp.)</li>
+        <li value="6">Productively <strong>communicated</strong> /kəˈmjuːnɪkeɪtɪd/</li>
+        <li className="list-none">The team ______ their progress during the meeting.</li>
+        <li className="list-none margin-bottom-20">Cả đội đã giao tiếp một cách hiệu quả về tiến độ của họ trong cuộc họp.</li>
 
-        <li value="7"><strong>Productively</strong> collaborate: Hợp tác một cách hiệu quả /prəˈdʌktɪvli kəˈlæbəreɪt/</li>
-        <li className="list-none margin-bottom-20">The two departments <strong>productively</strong> collaborated on the joint project. (Hai phòng ban đã hợp tác một cách hiệu quả trong dự án chung.)</li>
+        <li value="7">Productively <strong>collaborated</strong> /kəˈlæbəreɪtɪd/</li>
+        <li className="list-none">The two departments ______ on the joint project.</li>
+        <li className="list-none margin-bottom-20">Hai phòng ban đã hợp tác một cách hiệu quả trong dự án chung.</li>
 
-        <li value="8"><strong>Productively</strong> learn: Học tập một cách hiệu quả /prəˈdʌktɪvli lɜːrn/</li>
-        <li className="list-none margin-bottom-20">He <strong>productively</strong> learned the new software by practicing regularly. (Anh ấy đã học phần mềm mới một cách hiệu quả bằng cách luyện tập thường xuyên.)</li>
+        <li value="8">Productively <strong>learned</strong> /lɜːrnd/</li>
+        <li className="list-none">He ______ the new software by practicing regularly.</li>
+        <li className="list-none margin-bottom-20">Anh ấy đã học phần mềm mới một cách hiệu quả bằng cách luyện tập thường xuyên.</li>
 
-        <li value="9"><strong>Productively</strong> plan: Lên kế hoạch một cách hiệu quả /prəˈdʌktɪvli plæn/</li>
-        <li className="list-none margin-bottom-20">They <strong>productively</strong> planned the event to ensure everything ran smoothly. (Họ đã lên kế hoạch cho sự kiện một cách hiệu quả để đảm bảo mọi thứ diễn ra suôn sẻ.)</li>
+        <li value="9">Productively <strong>planned</strong> /plænd/</li>
+        <li className="list-none">They ______ the event to ensure everything ran smoothly.</li>
+        <li className="list-none margin-bottom-20">Họ đã lên kế hoạch cho sự kiện một cách hiệu quả để đảm bảo mọi thứ diễn ra suôn sẻ.</li>
 
-        <li value="10"><strong>Productively</strong> contribute: Đóng góp một cách hiệu quả /prəˈdʌktɪvli kənˈtrɪbjuːt/</li>
-        <li className="list-none margin-bottom-20">Each member <strong>productively</strong> contributed their skills to the team's success. (Mỗi thành viên đã đóng góp kỹ năng của mình một cách hiệu quả vào thành công của đội.)</li>
+        <li value="10">Productively <strong>contributed</strong> /kənˈtrɪbjuːted/</li>
+        <li className="list-none">Each member ______ their skills to the team's success.</li>
+        <li className="list-none margin-bottom-20">Mỗi thành viên đã đóng góp kỹ năng của mình một cách hiệu quả vào thành công của đội.</li>
 
       </ol>
 

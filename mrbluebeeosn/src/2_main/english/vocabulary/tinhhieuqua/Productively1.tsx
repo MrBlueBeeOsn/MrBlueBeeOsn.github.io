@@ -63,11 +63,14 @@ export default function Productively1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>She spent her morning <strong>productively</strong>, finishing several important tasks. (Cô ấy đã dành buổi sáng của mình một cách hiệu quả, hoàn thành nhiều nhiệm vụ quan trọng.)</li>
+          <li>She spent her morning ______, finishing several important tasks.</li>
+          <li className="margin-bottom-20 list-none">Cô ấy đã dành buổi sáng của mình một cách hiệu quả, hoàn thành nhiều nhiệm vụ quan trọng.</li>
 
-          <li>The team worked <strong>productively</strong> together to meet the deadline. (Cả đội đã làm việc hiệu quả cùng nhau để kịp thời hạn.)</li>
+          <li>The team worked ______ together to meet the deadline.</li>
+          <li className="margin-bottom-20 list-none">Cả đội đã làm việc hiệu quả cùng nhau để kịp thời hạn.</li>
 
-          <li>He used his free time <strong>productively</strong> by learning a new skill. (Anh ấy đã sử dụng thời gian rảnh rỗi của mình một cách có ích bằng cách học một kỹ năng mới.)</li>
+          <li>He used his free time ______ by learning a new skill.</li>
+          <li className="list-none">Anh ấy đã sử dụng thời gian rảnh rỗi của mình một cách có ích bằng cách học một kỹ năng mới.</li>
 
         </ul>
 
@@ -83,16 +86,24 @@ export default function Productively1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Productive (adj): Hiệu quả, năng suất, có ích /prəˈdʌk.tɪv/</li>
-          <li className="list-none">It was a very productive meeting. (Đó là một cuộc họp rất hiệu quả.)</li>
-          <li className="margin-bottom-20 list-none">He is a productive member of the team. (Anh ấy là một thành viên năng suất của đội.)</li>
+          <li>Productive (adj) /prəˈdʌk.tɪv/</li>
+          <li className="list-none">It was a very ______ meeting.</li>
+          <li className="margin-bottom-20 list-none">Đó là một cuộc họp rất hiệu quả.</li>
 
-          <li>Produce (v, n): Sản xuất, tạo ra; sản phẩm, nông sản /prəˈdjuːs/ - v; /ˈprɒd.juːs/ - n</li>
-          <li className="list-none">(v): The factory produces cars. (Nhà máy sản xuất ô tô.)</li>
-          <li className="margin-bottom-20 list-none">(n): They sell fresh produce at the market. (Họ bán nông sản tươi tại chợ.)</li>
+          <li className="list-none">He is a ______ member of the team.</li>
+          <li className="margin-bottom-20 list-none">Anh ấy là một thành viên năng suất của đội.</li>
 
-          <li>Productivity (n): Năng suất, hiệu suất /ˌprɒd.ʌkˈtɪv.ə.ti/</li>
-          <li className="list-none">The company is focused on improving productivity. (Công ty đang tập trung vào việc cải thiện năng suất.)</li>
+          <li>Produces (v) /prəˈdjuːs/</li>
+          <li className="list-none">The factory ______ cars.</li>
+          <li className="margin-bottom-20 list-none">Nhà máy sản xuất ô tô.</li>
+
+          <li>Produce (n) /ˈprɒd.juːs/</li>
+          <li className="list-none">They sell fresh ______ at the market.</li>
+          <li className="margin-bottom-20 list-none">Họ bán nông sản tươi tại chợ.</li>
+
+          <li>Productivity (n) /ˌprɒd.ʌkˈtɪv.ə.ti/</li>
+          <li className="list-none">The company is focused on improving ______.</li>
+          <li className="list-none">Công ty đang tập trung vào việc cải thiện năng suất.</li>
 
         </ul>
 
@@ -108,17 +119,21 @@ export default function Productively1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li><Link to="/vocabulary/efficiently-1">Efficiently</Link>: Một cách hiệu quả, năng suất /ɪˈfɪʃ.ənt.li/</li>
-          <li className="margin-bottom-20 list-none">The work was done efficiently. (Công việc đã được hoàn thành một cách hiệu quả.)</li>
+          <li><Link to="/vocabulary/efficiently-1">Efficiently</Link> /ɪˈfɪʃ.ənt.li/</li>
+          <li className="list-none">The work was done ______.</li>
+          <li className="margin-bottom-20 list-none">Công việc đã được hoàn thành một cách hiệu quả.</li>
 
-          <li><Link to="/vocabulary/effectively-1">Effectively</Link>: Một cách có hiệu quả, thành công /ɪˈfek.tɪv.li/</li>
-          <li className="margin-bottom-20 list-none">The new strategy was implemented effectively. (Chiến lược mới đã được triển khai một cách hiệu quả.)</li>
+          <li><Link to="/vocabulary/effectively-1">Effectively</Link> /ɪˈfek.tɪv.li/</li>
+          <li className="list-none">The new strategy was implemented ______.</li>
+          <li className="margin-bottom-20 list-none">Chiến lược mới đã được triển khai một cách hiệu quả.</li>
 
-          <li>Fruitfully: Một cách hiệu quả, mang lại kết quả tốt /ˈfruːt.fəl.i/</li>
-          <li className="margin-bottom-20 list-none">They collaborated fruitfully on the project. (Họ đã hợp tác hiệu quả trong dự án.)</li>
+          <li>Fruitfully /ˈfruːt.fəl.i/</li>
+          <li className="list-none">They collaborated ______ on the project.</li>
+          <li className="margin-bottom-20 list-none">Họ đã hợp tác hiệu quả trong dự án.</li>
 
-          <li>Usefully: Một cách hữu ích, có ích /ˈjuːs.fəl.i/</li>
-          <li className="list-none">He spent his time usefully volunteering. (Anh ấy đã dành thời gian của mình một cách hữu ích để tình nguyện.)</li>
+          <li>Usefully /ˈjuːs.fəl.i/</li>
+          <li className="list-none">He spent his time ______ volunteering.</li>
+          <li className="list-none">Anh ấy đã dành thời gian của mình một cách hữu ích để tình nguyện.</li>
 
         </ul>
 
@@ -136,17 +151,21 @@ export default function Productively1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Inefficiently: Một cách không hiệu quả, lãng phí /ˌɪn.ɪˈfɪʃ.ənt.li/</li>
-          <li className="margin-bottom-20 list-none">The process was managed inefficiently. (Quy trình đã được quản lý một cách không hiệu quả.)</li>
+          <li>Inefficiently /ˌɪn.ɪˈfɪʃ.ənt.li/</li>
+          <li className="list-none">The process was managed ______.</li>
+          <li className="margin-bottom-20 list-none">Quy trình đã được quản lý một cách không hiệu quả.</li>
 
-          <li>Unproductively: Một cách không hiệu quả, không năng suất /ˌʌn.prəˈdʌk.tɪv.li/</li>
-          <li className="margin-bottom-20 list-none">He spent the whole day unproductively. (Anh ấy đã dành cả ngày một cách không hiệu quả.)</li>
+          <li>Unproductively /ˌʌn.prəˈdʌk.tɪv.li/</li>
+          <li className="list-none">He spent the whole day ______.</li>
+          <li className="margin-bottom-20 list-none">Anh ấy đã dành cả ngày một cách không hiệu quả.</li>
 
-          <li>Wastefully: Một cách lãng phí /ˈweɪst.fəl.i/</li>
-          <li className="margin-bottom-20 list-none">They used resources wastefully. (Họ đã sử dụng tài nguyên một cách lãng phí.)</li>
+          <li>Wastefully /ˈweɪst.fəl.i/</li>
+          <li className="list-none">They used resources ______.</li>
+          <li className="margin-bottom-20 list-none">Họ đã sử dụng tài nguyên một cách lãng phí.</li>
 
-          <li>Idly: Một cách nhàn rỗi, không làm gì /ˈaɪd.li/</li>
-          <li className="list-none">He sat idly by while others worked. (Anh ấy ngồi nhàn rỗi trong khi những người khác làm việc.)</li>
+          <li>Idly /ˈaɪd.li/</li>
+          <li className="list-none">He sat ______ by while others worked.</li>
+          <li className="list-none">Anh ấy ngồi nhàn rỗi trong khi những người khác làm việc.</li>
 
         </ul>
       
@@ -171,14 +190,14 @@ export default function Productively1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>He worked <strong>productively</strong> and accomplished a lot.</li>
-          <li className="margin-bottom-20 list-none">(Anh ấy làm việc hiệu quả và hoàn thành nhiều việc.)</li>
+          <li>He worked ______ and accomplished a lot.</li>
+          <li className="margin-bottom-20 list-none">Anh ấy làm việc hiệu quả và hoàn thành nhiều việc.</li>
 
-          <li>The garden grew <strong>productively</strong>, yielding abundant fruits and flowers.</li>
-          <li className="margin-bottom-20 list-none">(Khu vườn phát triển tươi tốt, cho nhiều hoa trái.)</li>
+          <li>The garden grew ______, yielding abundant fruits and flowers.</li>
+          <li className="margin-bottom-20 list-none">Khu vườn phát triển tươi tốt, cho nhiều hoa trái.</li>
 
-          <li>The team met <strong>productively</strong>, generating numerous ideas.</li>
-          <li className="list-none">(Nhóm đã họp hiệu quả, đưa ra nhiều ý tưởng.)</li>
+          <li>The team met ______, generating numerous ideas.</li>
+          <li className="list-none">Nhóm đã họp hiệu quả, đưa ra nhiều ý tưởng.</li>
 
         </ul>
 
@@ -197,8 +216,8 @@ export default function Productively1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>I plan to use my commute time <strong>productively</strong> by listening to podcasts.</li>
-          <li className="list-none">(Tôi dự định sử dụng thời gian đi làm một cách hiệu quả bằng cách nghe podcast.)</li>
+          <li>I plan to use my commute time ______ by listening to podcasts.</li>
+          <li className="list-none">Tôi dự định sử dụng thời gian đi làm một cách hiệu quả bằng cách nghe podcast.</li>
 
         </ul>
 
@@ -213,15 +232,17 @@ export default function Productively1(): React.JSX.Element {
         <strong>&nbsp;thường xuyên</strong>:
       </p>
 
-      <p className="text-indent-whole">Chú ý đến những hoạt động mang lại kết quả tốt và cố gắng sử dụng từ này để mô tả chúng.</p>
+      <p className="text-indent-whole margin-bottom-20">Chú ý đến những hoạt động mang lại kết quả tốt và cố gắng sử dụng từ này để mô tả chúng.</p>
 
         <p className="text-indent-whole">Ví dụ để so sánh (sự khác biệt):</p>
 
           <ol>
 
-            <li>She spent her morning working. (Cô ấy đã dành buổi sáng của mình để làm việc.)</li>
+            <li>She spent her morning working.</li>
+            <li className="list-none margin-bottom-20">Cô ấy đã dành buổi sáng của mình để làm việc.</li>
 
-            <li className="margin-bottom-20">She spent her morning <strong>productively</strong>, finishing several important tasks. (Cô ấy đã dành buổi sáng của mình một cách hiệu quả, hoàn thành nhiều nhiệm vụ quan trọng.)</li>
+            <li value="2">She spent her morning ______, finishing several important tasks.</li>
+            <li className="list-none margin-bottom-20">Cô ấy đã dành buổi sáng của mình một cách hiệu quả, hoàn thành nhiều nhiệm vụ quan trọng.</li>
 
           </ol>
 
@@ -233,9 +254,11 @@ export default function Productively1(): React.JSX.Element {
 
       <ol>
 
-            <li>The team worked together to meet the deadline. (Cả đội đã làm việc cùng nhau để kịp thời hạn.)</li>
+            <li>The team worked together to meet the deadline.</li>
+            <li className="list-none margin-bottom-20">Cả đội đã làm việc cùng nhau để kịp thời hạn.</li>
 
-            <li className="margin-bottom-20">The team worked <strong>productively</strong> together to meet the deadline. (Cả đội đã làm việc hiệu quả cùng nhau để kịp thời hạn.)</li>
+            <li value="2">The team worked ______ together to meet the deadline.</li>
+            <li className="list-none margin-bottom-20">Cả đội đã làm việc hiệu quả cùng nhau để kịp thời hạn.</li>
 
           </ol>
 
@@ -247,9 +270,11 @@ export default function Productively1(): React.JSX.Element {
 
           <ol>
 
-            <li>He used his free time by learning a new skill. (Anh ấy đã sử dụng thời gian rảnh rỗi của mình bằng cách học một kỹ năng mới.)</li>
+            <li>He used his free time by learning a new skill.</li>
+            <li className="list-none margin-bottom-20">Anh ấy đã sử dụng thời gian rảnh rỗi của mình bằng cách học một kỹ năng mới.</li>
 
-            <li className="margin-bottom-20">He used his free time <strong>productively</strong> by learning a new skill. (Anh ấy đã sử dụng thời gian rảnh rỗi của mình một cách có ích bằng cách học một kỹ năng mới.)</li>
+            <li value="2">He used his free time ______ by learning a new skill.</li>
+            <li className="list-none margin-bottom-20">Anh ấy đã sử dụng thời gian rảnh rỗi của mình một cách có ích bằng cách học một kỹ năng mới.</li>
 
           </ol>
 
