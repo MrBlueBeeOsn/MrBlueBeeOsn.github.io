@@ -17,7 +17,7 @@ export default function VerbsAddS(): React.JSX.Element {
 		
 			<h4><HashLink smooth to="/grammar#grammar-terms"><mark className="highlight-tertiary-padding-4-8">Grammar</mark></HashLink></h4>
 			
-			<h1 className="margin-y-50 text-center">How to remember verbs add s</h1>
+			<h1 className="margin-y-50 text-center">How to remember: Verbs add s</h1>
 
 			{/* This is the content of English Learning Term. */}
 
@@ -43,9 +43,9 @@ export default function VerbsAddS(): React.JSX.Element {
 
 				<ul className="list-square">
 
-					<li><strong>Nouns</strong>: Add s to make them plural (one cat, two cats).</li>
+					<li id="nouns"><strong>Nouns</strong>: Add s <strong>to make them plural</strong> (one cat, two cats).</li>
 
-					<li><strong>Verbs</strong>: Add s to make them singular (the cat sleeps, the cats sleep).</li>
+					<li id="verbs"><strong>Verbs</strong>: Add s <strong>to make them singular</strong> (the cat sleeps, the cats sleep).</li>
 
 				</ul>
 

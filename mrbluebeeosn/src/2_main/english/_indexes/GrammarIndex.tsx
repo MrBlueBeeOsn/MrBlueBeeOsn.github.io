@@ -4,6 +4,7 @@ import { HashLink } from 'react-router-hash-link';
 import EnglishTopic from '@/components/topic/EnglishTopic';
 import SearchComponent from '@/components/search/SearchComponent';
 import VideoSearch2 from '@/components/video/test/VideoSearch2';
+import VERBSADDS from '@/components/method/VERBSADDS';
 
 export default function GrammarIndex(): React.JSX.Element {
   return (<>
@@ -29,6 +30,8 @@ export default function GrammarIndex(): React.JSX.Element {
         <SearchComponent />
         
         <VideoSearch2 />
+
+        <VERBSADDS />
                           
       </div>
 
@@ -120,7 +123,7 @@ export default function GrammarIndex(): React.JSX.Element {
 
             <li>
               <div className="li-content">
-                <Link to="/grammar/how-to-remember-verbs-add-s">How to Remember Verbs Add S</Link>
+                <Link to="/grammar/how-to-remember-verbs-add-s">How to Remember: Verbs Add S</Link>
               </div>
             </li>
             
