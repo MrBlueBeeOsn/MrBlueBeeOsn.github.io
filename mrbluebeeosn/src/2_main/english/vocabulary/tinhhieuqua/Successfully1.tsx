@@ -63,9 +63,11 @@ export default function Successfully1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>She <strong>successfully</strong> passed the exam. (Cô ấy đã vượt qua kỳ thi một cách thành công.)</li>
+          <li>She ______ passed the exam.</li>
+          <li className="margin-bottom-20 list-none">Cô ấy đã vượt qua kỳ thi một cách thành công.</li>
 
-          <li>The project was <strong>successfully</strong> completed on time. (Dự án đã được hoàn thành đúng hạn.)</li>
+          <li>The project was ______ completed on time.</li>
+          <li className="list-none">Dự án đã được hoàn thành đúng hạn.</li>
 
         </ul>
 
@@ -81,11 +83,13 @@ export default function Successfully1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Success (n): Sự thành công (/səkˈses/)</li>
-          <li className="margin-bottom-20 list-none">His success was due to hard work. (Sự thành công của anh ấy là nhờ làm việc chăm chỉ.)</li>
+          <li>Success (n) /səkˈses/</li>
+          <li className="list-none">His ______ was due to hard work.</li>
+          <li className="margin-bottom-20 list-none">Sự thành công của anh ấy là nhờ làm việc chăm chỉ.</li>
 
-          <li>Successful (adj): Thành công (/səkˈsesfəl/)</li>
-          <li className="list-none">The party was a successful event. (Bữa tiệc là một sự kiện thành công.)</li>
+          <li>Successful (adj) /səkˈsesfəl/</li>
+          <li className="list-none">The party was a ______ event.</li>
+          <li className="list-none">Bữa tiệc là một sự kiện thành công.</li>
 
         </ul>
 
@@ -101,11 +105,13 @@ export default function Successfully1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Triumphantly: Một cách chiến thắng (/traɪˈʌmfəntli/)</li>
-          <li className="margin-bottom-20 list-none">The team triumphantly won the championship. (Đội đã chiến thắng giải vô địch một cách vẻ vang.)</li>
+          <li>Triumphantly /traɪˈʌmfəntli/</li>
+          <li className="list-none">The team ______ won the championship.</li>
+          <li className="margin-bottom-20 list-none">Đội đã chiến thắng giải vô địch một cách vẻ vang.</li>
 
-          <li>Satisfactorily: Một cách thỏa đáng (/ˌsætɪsˈfæktərili/)</li>
-          <li className="list-none">The problem was satisfactorily resolved. (Vấn đề đã được giải quyết một cách thỏa đáng.)</li>
+          <li>Satisfactorily /ˌsætɪsˈfæktərili/</li>
+          <li className="list-none">The problem was ______ resolved.</li>
+          <li className="list-none">Vấn đề đã được giải quyết một cách thỏa đáng.</li>
 
         </ul>
 
@@ -123,11 +129,13 @@ export default function Successfully1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Unsuccessfully: Một cách không thành công (/ʌnˌsəkˈsesfʊli/)</li>
-          <li className="margin-bottom-20 list-none">He unsuccessfully tried to open the door. (Anh ấy đã cố gắng mở cửa nhưng không thành công.)</li>
+          <li>Unsuccessfully (/ʌnˌsəkˈsesfʊli/)</li>
+          <li className="list-none">He ______ tried to open the door.</li>
+          <li className="margin-bottom-20 list-none">Anh ấy đã cố gắng mở cửa nhưng không thành công.</li>
 
-          <li>Unsatisfactorily: Một cách không thỏa đáng (/ʌnˌsætɪsˈfæktərili/)</li>
-          <li className="list-none">The task was completed unsatisfactorily. (Công việc đã được hoàn thành một cách không thỏa đáng.)</li>
+          <li>Unsatisfactorily (/ʌnˌsætɪsˈfæktərili/)</li>
+          <li className="list-none">The task was completed ______.</li>
+          <li className="list-none">Công việc đã được hoàn thành một cách không thỏa đáng.</li>
 
         </ul>
       
@@ -152,8 +160,8 @@ export default function Successfully1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>She has <strong>successfully</strong> won the award.</li>
-          <li className="list-none">(Cô ấy đã giành được giải thưởng.)</li>
+          <li>She has ______ won the award.</li>
+          <li className="list-none">Cô ấy đã giành được giải thưởng.</li>
 
         </ul>
 
@@ -172,8 +180,8 @@ export default function Successfully1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>She <strong>successfully</strong> defended her thesis.</li>
-          <li className="list-none">(Cô ấy đã bảo vệ thành công luận văn của mình.)</li>
+          <li>She ______ defended her thesis.</li>
+          <li className="list-none">Cô ấy đã bảo vệ thành công luận văn của mình.</li>
 
         </ul>
 
@@ -188,15 +196,17 @@ export default function Successfully1(): React.JSX.Element {
         <strong>&nbsp;thường xuyên</strong>:
       </p>
 
-      <p className="text-indent-whole">Thường xuyên sử dụng từ này trong các cuộc trò chuyện hoặc bài viết.</p>
+      <p className="text-indent-whole margin-bottom-20">Thường xuyên sử dụng từ này trong các cuộc trò chuyện hoặc bài viết.</p>
 
         <p className="text-indent-whole">Ví dụ để so sánh (sự khác biệt):</p>
 
           <ol>
 
-            <li>He tried to climb the mountain. (Anh ấy đã cố gắng leo lên núi.)</li>
+            <li>He tried to climb the mountain.</li>
+            <li className="list-none margin-bottom-20">Anh ấy đã cố gắng leo lên núi.</li>
 
-            <li className="margin-bottom-20">He <strong>successfully</strong> climbed the mountain. (Anh ấy đã leo lên núi một cách thành công.)</li>
+            <li value="2">He ______ climbed the mountain.</li>
+            <li className="list-none margin-bottom-20">Anh ấy đã leo lên núi một cách thành công.</li>
 
           </ol>
 
