@@ -62,35 +62,45 @@ export default function Effectively2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1"><strong>Effectively</strong> communicate: Giao tiếp hiệu quả (/ɪˈfektɪvli kəˈmjuːnɪkeɪt/)</li>
-        <li className="list-none margin-bottom-20">She <strong>effectively</strong> communicated her ideas to the team. (Cô ấy đã truyền đạt ý tưởng của mình đến cả nhóm một cách hiệu quả.)</li>
+        <li value="1">Effectively <strong>communicated</strong> (/kəˈmjuːnɪkeɪtɪd/)</li>
+        <li className="list-none">She ______ her ideas to the team.</li>
+        <li className="list-none margin-bottom-20">Cô ấy đã truyền đạt ý tưởng của mình đến cả nhóm một cách hiệu quả.</li>
 
-        <li value="2"><strong>Effectively</strong> manage: Quản lý hiệu quả (/ɪˈfektɪvli ˈmænɪdʒ/)</li>
-        <li className="list-none margin-bottom-20">He <strong>effectively</strong> managed the project within the deadline. (Anh ấy đã quản lý dự án một cách hiệu quả trong thời hạn cho phép.)</li>
+        <li value="2">Effectively <strong>managed</strong> (/ˈmænɪdʒd/)</li>
+        <li className="list-none">He ______ the project within the deadline.</li>
+        <li className="list-none margin-bottom-20">Anh ấy đã quản lý dự án một cách hiệu quả trong thời hạn cho phép.</li>
 
-        <li value="3"><strong>Effectively</strong> solve: Giải quyết hiệu quả (/ɪˈfektɪvli sɒlv/)</li>
-        <li className="list-none margin-bottom-20">The team <strong>effectively</strong> solved the problem. (Đội đã giải quyết vấn đề một cách hiệu quả.)</li>
+        <li value="3">Effectively <strong>solved</strong> (/sɒlvd/)</li>
+        <li className="list-none">The team ______ the problem.</li>
+        <li className="list-none margin-bottom-20">Đội đã giải quyết vấn đề một cách hiệu quả.</li>
 
-        <li value="4"><strong>Effectively</strong> implement: Thực hiện hiệu quả (/ɪˈfektɪvli ˈɪmplɪment/)</li>
-        <li className="list-none margin-bottom-20">The new policy was <strong>effectively</strong> implemented. (Chính sách mới đã được thực hiện một cách hiệu quả.)</li>
+        <li value="4">Effectively <strong>implemented</strong> (/ˈɪmplɪmentɪd/)</li>
+        <li className="list-none">The new policy was ______.</li>
+        <li className="list-none margin-bottom-20">Chính sách mới đã được thực hiện một cách hiệu quả.</li>
 
-        <li value="5"><strong>Effectively</strong> use: Sử dụng hiệu quả (/ɪˈfektɪvli juːz/)</li>
-        <li className="list-none margin-bottom-20">She <strong>effectively</strong> used her time to study for the exam. (Cô ấy đã sử dụng thời gian của mình một cách hiệu quả để ôn thi.)</li>
+        <li value="5">Effectively <strong>used</strong> (/juːz/)</li>
+        <li className="list-none">She ______ her time to study for the exam.</li>
+        <li className="list-none margin-bottom-20">Cô ấy đã sử dụng thời gian của mình một cách hiệu quả để ôn thi.</li>
 
-        <li value="6"><strong>Effectively</strong> motivate: Động viên hiệu quả (/ɪˈfektɪvli ˈmoʊtɪveɪt/)</li>
-        <li className="list-none margin-bottom-20">The coach <strong>effectively</strong> motivated the team to win the game. (Huấn luyện viên đã động viên đội bóng một cách hiệu quả để giành chiến thắng.)</li>
+        <li value="6">Effectively <strong>motivated</strong> (/ˈmoʊtɪveɪtɪd/)</li>
+        <li className="list-none">The coach ______ the team to win the game.</li>
+        <li className="list-none margin-bottom-20">Huấn luyện viên đã động viên đội bóng một cách hiệu quả để giành chiến thắng.</li>
 
-        <li value="7"><strong>Effectively</strong> teach: Dạy hiệu quả (/ɪˈfektɪvli tiːtʃ/)</li>
-        <li className="list-none margin-bottom-20">The teacher <strong>effectively</strong> taught the students the new concept. (Giáo viên đã dạy học sinh khái niệm mới một cách hiệu quả.)</li>
+        <li value="7">Effectively <strong>teach</strong> (/tɔːt/)</li>
+        <li className="list-none">The teacher ______ the students the new concept.</li>
+        <li className="list-none margin-bottom-20">Giáo viên đã dạy học sinh khái niệm mới một cách hiệu quả.</li>
 
-        <li value="8"><strong>Effectively</strong> lead: Lãnh đạo hiệu quả (/ɪˈfektɪvli liːd/)</li>
-        <li className="list-none margin-bottom-20">He <strong>effectively</strong> led the company through the crisis. (Anh ấy đã lãnh đạo công ty vượt qua khủng hoảng một cách hiệu quả.)</li>
+        <li value="8">Effectively <strong>led</strong> (/led/)</li>
+        <li className="list-none">He ______ the company through the crisis.</li>
+        <li className="list-none margin-bottom-20">Anh ấy đã lãnh đạo công ty vượt qua khủng hoảng một cách hiệu quả.</li>
 
-        <li value="9"><strong>Effectively</strong> negotiate: Thương lượng hiệu quả (/ɪˈfektɪvli nɪˈɡoʊʃieɪt/)</li>
-        <li className="list-none margin-bottom-20">She <strong>effectively</strong> negotiated a better deal for the company. (Cô ấy đã thương lượng một thỏa thuận tốt hơn cho công ty.)</li>
+        <li value="9">Effectively <strong>negotiated</strong> (/nɪˈɡoʊʃieɪtɪd/)</li>
+        <li className="list-none">She ______ a better deal for the company.</li>
+        <li className="list-none margin-bottom-20">Cô ấy đã thương lượng một thỏa thuận tốt hơn cho công ty.</li>
 
-        <li value="10"><strong>Effectively</strong> collaborate: Hợp tác hiệu quả (/ɪˈfektɪvli kəˈlæbəreɪt/)</li>
-        <li className="list-none margin-bottom-20">The team <strong>effectively</strong> collaborated on the project. (Đội đã hợp tác hiệu quả trong dự án.)</li>
+        <li value="10">Effectively <strong>collaborated</strong> (/kəˈlæbəreɪtɪd/)</li>
+        <li className="list-none">The team ______ on the project.</li>
+        <li className="list-none margin-bottom-20">Đội đã hợp tác hiệu quả trong dự án.</li>
 
       </ol>
 
