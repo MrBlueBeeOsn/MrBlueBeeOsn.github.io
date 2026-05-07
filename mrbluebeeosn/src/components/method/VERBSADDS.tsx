@@ -30,6 +30,12 @@ export default function VERBSADDS(): React.JSX.Element {
           <strong>Verbs</strong>: Add s <HashLink smooth to="/grammar/how-to-remember-verbs-add-s#verbs">to make them singular</HashLink> (the cat sleeps, the cats sleep).
         </span>
 
+        <hr className="margin-y-20"/>
+
+        <span className="highlight-255-padding-0-4 text-border">
+          <strong>Visualize Superman</strong>: Imagine <HashLink smooth to="/grammar/how-to-remember-verbs-add-s#asuperman">an "S" on the chest of a superhero</HashLink> that jumps onto the verb when the subject is he, she, or it.
+        </span>
+
       </p>
 
       
