@@ -63,9 +63,11 @@ export default function Tirelessly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>She worked <strong>irelessly</strong> to finish the project on time. (Cô ấy làm việc không biết mệt mỏi để hoàn thành dự án đúng hạn.)</li>
+          <li>She worked ______ to finish the project on time.</li>
+          <li className="margin-bottom-20 list-none">Cô ấy làm việc không biết mệt mỏi để hoàn thành dự án đúng hạn.</li>
 
-          <li>The athletes trained <strong>tirelessly</strong> for the competition. (Các vận động viên tập luyện không ngừng nghỉ cho cuộc thi.)</li>
+          <li>The athletes trained ______ for the competition.</li>
+          <li className="list-none">Các vận động viên tập luyện không ngừng nghỉ cho cuộc thi.</li>
 
         </ul>
 
@@ -81,11 +83,13 @@ export default function Tirelessly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Tire (v): Làm mệt mỏi /taɪər/</li>
-          <li className="margin-bottom-20 list-none">The long walk tired me out. (Cái đi bộ dài làm tôi mệt mỏi.)</li>
+          <li>Tire (v) /taɪər/</li>
+          <li className="list-none">The long walk ______ me out.</li>
+          <li className="margin-bottom-20 list-none">Cái đi bộ dài làm tôi mệt mỏi.</li>
 
-          <li>Tired (adj): Mệt mỏi /taɪərd/</li>
-          <li className="list-none">I'm too tired to go out tonight. (Tôi quá mệt để đi ra ngoài tối nay.)</li>
+          <li>Tired (adj) /taɪərd/</li>
+          <li className="list-none">I'm too ______ to go out tonight.</li>
+          <li className="list-none">Tôi quá mệt để đi ra ngoài tối nay.</li>
 
         </ul>
 
@@ -101,11 +105,13 @@ export default function Tirelessly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Incessantly: Không ngừng /ɪnˈsesəntli/</li>
-          <li className="margin-bottom-20 list-none">The rain fell incessantly. (Mưa rơi không ngừng.)</li>
+          <li>Incessantly /ɪnˈsesəntli/</li>
+          <li className="list-none">The rain fell ______.</li>
+          <li className="margin-bottom-20 list-none">Mưa rơi không ngừng.</li>
 
-          <li>Relentlessly: Không ngừng nghỉ /rɪˈlentləsli/</li>
-          <li className="list-none">She pursued her goal relentlessly. (Cô ấy theo đuổi mục tiêu của mình một cách không ngừng nghỉ.)</li>
+          <li>Relentlessly /rɪˈlentləsli/</li>
+          <li className="list-none">She pursued her goal ______.</li>
+          <li className="list-none">Cô ấy theo đuổi mục tiêu của mình một cách không ngừng nghỉ.</li>
 
         </ul>
 
@@ -123,11 +129,13 @@ export default function Tirelessly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Lazily: Một cách lười biếng /ˈleɪzɪli/</li>
-          <li className="margin-bottom-20 list-none">He lazily sat on the couch. (Anh ta lười biếng ngồi trên ghế sofa.)</li>
+          <li>Lazily /ˈleɪzɪli/</li>
+          <li className="list-none">He ______ sat on the couch.</li>
+          <li className="margin-bottom-20 list-none">Anh ta lười biếng ngồi trên ghế sofa.</li>
 
-          <li>Casually: Một cách tình cờ /ˈkæʒuəli/</li>
-          <li className="list-none">She casually mentioned her trip. (Cô ấy tình cờ đề cập đến chuyến đi của mình.)</li>
+          <li>Casually /ˈkæʒuəli/</li>
+          <li className="list-none">She ______ mentioned her trip.</li>
+          <li className="list-none">Cô ấy tình cờ đề cập đến chuyến đi của mình.</li>
 
         </ul>
       
@@ -152,8 +160,8 @@ export default function Tirelessly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>He is <strong>tirelessly</strong> running the marathon, showing incredible endurance.</li>
-          <li className="list-none">(Anh ấy đang chạy marathon không ngừng nghỉ, thể hiện sức bền đáng kinh ngạc.)</li>
+          <li>He is ______ running the marathon, showing incredible endurance.</li>
+          <li className="list-none">Anh ấy đang chạy marathon không ngừng nghỉ, thể hiện sức bền đáng kinh ngạc.</li>
 
         </ul>
 
@@ -172,8 +180,8 @@ export default function Tirelessly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>The scientists worked <strong>tirelessly</strong> to find a cure for the disease.</li>
-          <li className="list-none">(Các nhà khoa học đã làm việc không mệt mỏi để tìm ra phương pháp chữa trị cho căn bệnh.)</li>
+          <li>The scientists worked ______ to find a cure for the disease.</li>
+          <li className="list-none">Các nhà khoa học đã làm việc không mệt mỏi để tìm ra phương pháp chữa trị cho căn bệnh.</li>
 
         </ul>
 
@@ -188,15 +196,17 @@ export default function Tirelessly1(): React.JSX.Element {
         <strong>&nbsp;thường xuyên</strong>:
       </p>
 
-      <p className="text-indent-whole">Thường xuyên sử dụng từ này khi muốn diễn tả sự kiên trì, không biết mệt mỏi.</p>
+      <p className="text-indent-whole margin-bottom-20">Thường xuyên sử dụng từ này khi muốn diễn tả sự kiên trì, không biết mệt mỏi.</p>
 
         <p className="text-indent-whole">Ví dụ để so sánh (sự khác biệt):</p>
 
           <ol>
 
-            <li>He tried to solve the problem. (Anh ấy đã cố gắng giải quyết vấn đề.)</li>
+            <li>He tried to solve the problem.</li>
+            <li className="list-none margin-bottom-20">Anh ấy đã cố gắng giải quyết vấn đề.</li>
 
-            <li className="margin-bottom-20">He worked <strong>tirelessly</strong> to solve the problem. (Anh ấy đã làm việc không biết mệt mỏi để giải quyết vấn đề.)</li>
+            <li value="2">He worked ______ to solve the problem.</li>
+            <li className="list-none margin-bottom-20">Anh ấy đã làm việc không biết mệt mỏi để giải quyết vấn đề.</li>
 
           </ol>
 
