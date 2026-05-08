@@ -21,13 +21,19 @@ export default function VERBSADDS(): React.JSX.Element {
       <p className="margin-top-20 text-center">
 
         <span className="highlight-255-padding-0-4 text-border">
+          🟦 He, She, It, One, Everyone — 5 goe5 with 🆂! 🔵
+        </span>
+
+        <hr className="margin-y-20"/>
+
+        <span className="highlight-255-padding-0-4 text-border">
           <strong>Visualize Superman</strong>: Imagine <HashLink smooth to="/grammar/how-to-remember-verbs-add-s#asuperman">an "S" on the chest of a superhero</HashLink> that jumps onto the verb when the subject is he, she, or it.
         </span>
 
         <hr className="margin-y-20"/>
 
         <span className="highlight-255-padding-0-4 text-border">
-          🟦 <HashLink smooth to="/grammar/how-to-remember-verbs-add-s#hesheorit">He, she, or it?</HashLink> 🆂 goe5 with it! 🔵
+          🟦 <HashLink smooth to="/grammar/how-to-remember-verbs-add-s#hesheorit">He, she, or it?</HashLink> 🆂 goes with it! 🔵
         </span>
 
         <hr className="margin-y-20"/>
