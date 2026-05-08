@@ -62,35 +62,45 @@ export default function Steadily2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1"><strong>Steadily</strong> increase: Tăng một cách đều đặn /ˈstɛdəli ɪnˈkriːs/</li>
-        <li className="list-none margin-bottom-20">The company's profits have been <strong>steadily</strong> increasing over the past year. (Lợi nhuận của công ty đã tăng một cách đều đặn trong năm qua.)</li>
+        <li value="1">Steadily <strong>increasing</strong> /ˈstɛdəli ɪnˈkriːsɪŋ/</li>
+        <li className="list-none">The company's profits have been ______ over the past year.</li>
+        <li className="list-none margin-bottom-20">Lợi nhuận của công ty đã tăng một cách đều đặn trong năm qua.</li>
 
-        <li value="2"><strong>Steadily</strong> decrease: Giảm một cách đều đặn /ˈstɛdəli dɪˈkriːs/</li>
-        <li className="list-none margin-bottom-20">The unemployment rate has been <strong>steadily</strong> decreasing. (Tỷ lệ thất nghiệp đã giảm một cách đều đặn.)</li>
+        <li value="2">Steadily <strong>decreasing</strong> /dɪˈkriːsɪŋ/</li>
+        <li className="list-none">The unemployment rate has been ______.</li>
+        <li className="list-none margin-bottom-20">Tỷ lệ thất nghiệp đã giảm một cách đều đặn.</li>
 
-        <li value="3"><strong>Steadily</strong> grow: Phát triển một cách đều đặn /ˈstɛdəli ɡroʊ/</li>
-        <li className="list-none margin-bottom-20">The small business has been <strong>steadily</strong> growing its customer base. (Doanh nghiệp nhỏ đã phát triển cơ sở khách hàng của mình một cách đều đặn.)</li>
+        <li value="3">Steadily <strong>growing</strong> /ɡroʊɪŋ/</li>
+        <li className="list-none">The small business has been ______ its customer base.</li>
+        <li className="list-none margin-bottom-20">Doanh nghiệp nhỏ đã phát triển cơ sở khách hàng của mình một cách đều đặn.</li>
 
-        <li value="4"><strong>Steadily</strong> decline: Suy giảm một cách đều đặn /ˈstɛdəli dɪˈklaɪn/</li>
-        <li className="list-none margin-bottom-20">The popularity of the product has been <strong>steadily</strong> declining. (Sự phổ biến của sản phẩm đã suy giảm một cách đều đặn.)</li>
+        <li value="4">Steadily <strong>declining</strong> /dɪˈklaɪnɪŋ/</li>
+        <li className="list-none">The popularity of the product has been ______.</li>
+        <li className="list-none margin-bottom-20">Sự phổ biến của sản phẩm đã suy giảm một cách đều đặn.</li>
 
-        <li value="5"><strong>Steadily</strong> improve: Cải thiện một cách đều đặn /ˈstɛdəli ɪmˈpruːv/</li>
-        <li className="list-none margin-bottom-20">Her English skills have been <strong>steadily</strong> improving with practice. (Kỹ năng tiếng Anh của cô ấy đã cải thiện một cách đều đặn nhờ luyện tập.)</li>
+        <li value="5">Steadily <strong>improving</strong> /ɪmˈpruːvɪŋ/</li>
+        <li className="list-none">Her English skills have been ______ with practice.</li>
+        <li className="list-none margin-bottom-20">Kỹ năng tiếng Anh của cô ấy đã cải thiện một cách đều đặn nhờ luyện tập.</li>
 
-        <li value="6"><strong>Steadily</strong> work: Làm việc một cách đều đặn /ˈstɛdəli wɜːrk/</li>
-        <li className="list-none margin-bottom-20">He <strong>steadily</strong> worked on the project, making consistent progress. (Anh ấy làm việc trên dự án một cách đều đặn, đạt được tiến bộ ổn định.)</li>
+        <li value="6">Steadily <strong>worked</strong> /wɜːrkt/</li>
+        <li className="list-none">He ______ on the project, making consistent progress.</li>
+        <li className="list-none margin-bottom-20">Anh ấy làm việc trên dự án một cách đều đặn, đạt được tiến bộ ổn định.</li>
 
-        <li value="7"><strong>Steadily</strong> rain: Mưa một cách đều đặn /ˈstɛdəli reɪn/</li>
-        <li className="list-none margin-bottom-20">It <strong>steadily</strong> rained throughout the morning. (Trời mưa đều đặn suốt buổi sáng.)</li>
+        <li value="7">Steadily <strong>rained</strong> /reɪnd/</li>
+        <li className="list-none">It ______ throughout the morning.</li>
+        <li className="list-none margin-bottom-20">Trời mưa đều đặn suốt buổi sáng.</li>
 
-        <li value="8"><strong>Steadily</strong> flow: Chảy một cách đều đặn /ˈstɛdəli floʊ/</li>
-        <li className="list-none margin-bottom-20">The river <strong>steadily</strong> flowed towards the sea. (Dòng sông chảy đều đặn ra biển.)</li>
+        <li value="8">Steadily <strong>flowed</strong> /floʊd/</li>
+        <li className="list-none">The river ______ towards the sea.</li>
+        <li className="list-none margin-bottom-20">Dòng sông chảy đều đặn ra biển.</li>
 
-        <li value="9"><strong>Steadily</strong> advance: Tiến lên một cách đều đặn /ˈstɛdəli ədˈvæns/</li>
-        <li className="list-none margin-bottom-20">The army <strong>steadily</strong> advanced across the territory. (Quân đội tiến lên một cách đều đặn trên khắp lãnh thổ.)</li>
+        <li value="9">Steadily <strong>advanced</strong> /ədˈvænst/</li>
+        <li className="list-none">The army ______ across the territory.</li>
+        <li className="list-none margin-bottom-20">Quân đội tiến lên một cách đều đặn trên khắp lãnh thổ.</li>
 
-        <li value="10"><strong>Steadily</strong> hold: Giữ một cách chắc chắn /ˈstɛdəli hoʊld/</li>
-        <li className="list-none margin-bottom-20">She <strong>steadily</strong> held the camera to take a clear picture. (Cô ấy giữ máy ảnh một cách chắc chắn để chụp một bức ảnh rõ nét.)</li>
+        <li value="10">Steadily <strong>held</strong> /held/</li>
+        <li className="list-none">She ______ the camera to take a clear picture.</li>
+        <li className="list-none margin-bottom-20">Cô ấy giữ máy ảnh một cách chắc chắn để chụp một bức ảnh rõ nét.</li>
 
       </ol>
 

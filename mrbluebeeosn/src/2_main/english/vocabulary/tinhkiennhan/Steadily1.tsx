@@ -63,11 +63,14 @@ export default function Steadily1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>The rain fell <strong>steadily</strong> throughout the night. (Mưa rơi đều đặn suốt đêm.)</li>
+          <li>The rain fell ______ throughout the night.</li>
+          <li className="margin-bottom-20 list-none">Mưa rơi đều đặn suốt đêm.</li>
 
-          <li>The company's profits have been increasing <strong>steadily</strong> for the past year. (Lợi nhuận của công ty đã tăng trưởng ổn định trong năm qua.)</li>
+          <li>The company's profits have been increasing ______ for the past year.</li>
+          <li className="margin-bottom-20 list-none">Lợi nhuận của công ty đã tăng trưởng ổn định trong năm qua.</li>
 
-          <li>He walked <strong>steadily</strong> along the path. (Anh ấy bước đi vững chắc dọc theo con đường.)</li>
+          <li>He walked ______ along the path.</li>
+          <li className="list-none">Anh ấy bước đi vững chắc dọc theo con đường.</li>
 
         </ul>
 
@@ -83,12 +86,17 @@ export default function Steadily1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Steady (adj, v): Đều đặn, ổn định, vững chắc; làm cho ổn định /ˈsted.i/</li>
-          <li className="list-none">(adj): He has a steady job. (Anh ấy có một công việc ổn định.)</li>
-          <li className="margin-bottom-20 list-none">(v): Steady yourself! (Hãy giữ vững!)</li>
+          <li>Steady (adj) /ˈsted.i/</li>
+          <li className="list-none">He has a ______ job. ổn định.)</li>
+          <li className="margin-bottom-20 list-none">Anh ấy có một công việc ổn định.</li>
+        
+          <li>Steady (v) /ˈsted.i/</li>
+          <li className="list-none"> ______ yourself!</li>
+          <li className="margin-bottom-20 list-none">Hãy giữ vững!</li>
 
-          <li>Steadiness (n): Sự đều đặn, sự ổn định, sự vững chắc /ˈsted.i.nəs/</li>
-          <li className="list-none">He admired her steadiness under pressure. (Anh ấy ngưỡng mộ sự ổn định của cô ấy khi chịu áp lực.)</li>
+          <li>Steadiness (n) /ˈsted.i.nəs/</li>
+          <li className="list-none">He admired her ______ under pressure.</li>
+          <li className="list-none">Anh ấy ngưỡng mộ sự ổn định của cô ấy khi chịu áp lực.</li>
 
         </ul>
 
@@ -104,17 +112,21 @@ export default function Steadily1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Regularly: Một cách thường xuyên, đều đặn /ˈreɡ.jə.lər.li/</li>
-          <li className="margin-bottom-20 list-none">He exercises regularly. (Anh ấy tập thể dục thường xuyên.)</li>
+          <li>Regularly /ˈreɡ.jə.lər.li/</li>
+          <li className="list-none">He exercises ______.</li>
+          <li className="margin-bottom-20 list-none">Anh ấy tập thể dục thường xuyên.</li>
 
-          <li>Constantly: Một cách liên tục, không ngừng /ˈkɒn.stənt.li/ (nhấn mạnh tính liên tục)</li>
-          <li className="margin-bottom-20 list-none">The noise was constantly irritating. (Tiếng ồn liên tục gây khó chịu.)</li>
+          <li>Constantly /ˈkɒn.stənt.li/</li>
+          <li className="list-none">The noise was ______ irritating.</li>
+          <li className="margin-bottom-20 list-none">Tiếng ồn liên tục gây khó chịu.</li>
 
-          <li>Continuously: Một cách liên tục, không gián đoạn /kənˈtɪn.ju.əs.li/ (nhấn mạnh tính không gián đoạn)</li>
-          <li className="margin-bottom-20 list-none">The water flowed continuously. (Nước chảy liên tục.)</li>
+          <li>Continuously /kənˈtɪn.ju.əs.li/</li>
+          <li className="list-none">The water flowed ______.</li>
+          <li className="margin-bottom-20 list-none">Nước chảy liên tục.</li>
 
-          <li>Firmly: Một cách chắc chắn, vững vàng /ˈfɜːrm.li/ (trong ngữ cảnh không lung lay)</li>
-          <li className="list-none">He held the railing firmly. (Anh ấy nắm chặt lan can.)</li>
+          <li>Firmly /ˈfɜːrm.li/</li>
+          <li className="list-none">He held the railing ______.</li>
+          <li className="list-none">Anh ấy nắm chặt lan can.</li>
 
         </ul>
 
@@ -132,17 +144,21 @@ export default function Steadily1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Irregularly: Một cách không đều đặn, thất thường /ɪˈreɡ.jə.lər.li/</li>
-          <li className="margin-bottom-20 list-none">His attendance was irregular. (Sự tham gia của anh ấy không đều đặn.)</li>
+          <li>Irregularly /ɪˈreɡ.jə.lər.li/</li>
+          <li className="list-none">He attended ______.</li>
+          <li className="margin-bottom-20 list-none">Anh ấy tham gia/đi học một cách không đều đặn.</li>
 
-          <li>Fluctuatingly: Một cách dao động, không ổn định /ˈflʌk.tʃu.eɪ.tɪŋ.li/</li>
-          <li className="margin-bottom-20 list-none">The prices changed fluctuatingly. (Giá cả thay đổi một cách dao động.)</li>
+          <li>Fluctuatingly /ˈflʌk.tʃu.eɪ.tɪŋ.li/</li>
+          <li className="list-none">The prices changed ______.</li>
+          <li className="margin-bottom-20 list-none">Giá cả thay đổi một cách dao động.</li>
 
-          <li>Erratically: Một cách thất thường, không đoán trước được /ɪˈræt.ɪ.kli/</li>
-          <li className="margin-bottom-20 list-none">He behaved erratically. (Anh ấy cư xử một cách thất thường.)</li>
+          <li>Erratically /ɪˈræt.ɪ.kli/</li>
+          <li className="list-none">He behaved ______.</li>
+          <li className="margin-bottom-20 list-none">Anh ấy cư xử một cách thất thường.</li>
 
-          <li>Unsteadily: Một cách không vững chắc, chông chênh /ʌnˈsted.ɪ.li/</li>
-          <li className="list-none">He walked unsteadily after the injury. (Anh ấy bước đi không vững chắc sau chấn thương.)</li>
+          <li>Unsteadily /ʌnˈsted.ɪ.li/</li>
+          <li className="list-none">He walked ______ after the injury.</li>
+          <li className="list-none">Anh ấy bước đi không vững chắc sau chấn thương.</li>
 
         </ul>
       
@@ -167,14 +183,14 @@ export default function Steadily1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>The fire burned <strong>steadily</strong>.</li>
-          <li className="margin-bottom-20 list-none">(Ngọn lửa cháy đều đặn.)</li>
+          <li>The fire burned ______.</li>
+          <li className="margin-bottom-20 list-none">Ngọn lửa cháy đều đặn.</li>
 
-          <li>The chart trended upward <strong>steadily</strong>.</li>
-          <li className="margin-bottom-20 list-none">(Biểu đồ có xu hướng tăng đều đặn.)</li>
+          <li>The chart trended upward ______.</li>
+          <li className="margin-bottom-20 list-none">Biểu đồ có xu hướng tăng đều đặn.</li>
 
-          <li>He walked <strong>steadily</strong> with firm steps.</li>
-          <li className="list-none">(Anh ấy bước đi vững chắc.)</li>
+          <li>He walked ______ with firm steps.</li>
+          <li className="list-none">Anh ấy bước đi vững chắc.</li>
 
         </ul>
 
@@ -193,8 +209,8 @@ export default function Steadily1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>The sun rose <strong>steadily</strong> in the east.</li>
-          <li className="list-none">(Mặt trời mọc đều đặn ở phía đông.)</li>
+          <li>The sun rose ______ in the east.</li>
+          <li className="list-none">Mặt trời mọc đều đặn ở phía đông.</li>
 
         </ul>
 
@@ -209,15 +225,17 @@ export default function Steadily1(): React.JSX.Element {
         <strong>&nbsp;thường xuyên</strong>:
       </p>
 
-      <p className="text-indent-whole">Chú ý đến những quá trình hoặc hành động diễn ra một cách liên tục và ổn định xung quanh bạn và cố gắng sử dụng từ này để mô tả chúng.</p>
+      <p className="text-indent-whole margin-bottom-20">Chú ý đến những quá trình hoặc hành động diễn ra một cách liên tục và ổn định xung quanh bạn và cố gắng sử dụng từ này để mô tả chúng.</p>
 
         <p className="text-indent-whole">Ví dụ để so sánh (sự khác biệt):</p>
 
           <ol>
 
-            <li>The rain fell throughout the night. (Mưa rơi suốt đêm.)</li>
+            <li>The rain fell throughout the night.</li>
+            <li className="list-none margin-bottom-20">Mưa rơi suốt đêm.</li>
 
-            <li className="margin-bottom-20">The rain fell <strong>steadily</strong> throughout the night. (Mưa rơi đều đặn suốt đêm.)</li>
+            <li value="2">The rain fell ______ throughout the night.</li>
+            <li className="list-none margin-bottom-20">Mưa rơi đều đặn suốt đêm.</li>
 
           </ol>
 
@@ -229,9 +247,11 @@ export default function Steadily1(): React.JSX.Element {
 
           <ol>
 
-            <li>The company's profits have been increasing for the past year. (Lợi nhuận của công ty đã tăng trưởng trong năm qua.)</li>
+            <li>The company's profits have been increasing for the past year.</li>
+            <li className="list-none margin-bottom-20">Lợi nhuận của công ty đã tăng trưởng trong năm qua.</li>
 
-            <li className="margin-bottom-20">The company's profits have been increasing <strong>steadily</strong> for the past year. (Lợi nhuận của công ty đã tăng trưởng ổn định trong năm qua.)</li>
+            <li value="2">The company's profits have been increasing ______ for the past year.</li>
+            <li className="list-none margin-bottom-20">Lợi nhuận của công ty đã tăng trưởng ổn định trong năm qua.</li>
 
           </ol>
 
@@ -243,9 +263,11 @@ export default function Steadily1(): React.JSX.Element {
 
           <ol>
 
-            <li>He walked along the path. (Anh ấy bước đi dọc theo con đường.)</li>
+            <li>He walked along the path.</li>
+            <li className="list-none margin-bottom-20">Anh ấy bước đi dọc theo con đường.</li>
 
-            <li className="margin-bottom-20">He walked <strong>steadily</strong> along the path. (Anh ấy bước đi vững chắc dọc theo con đường.)</li>
+            <li value="2">He walked ______ along the path.</li>
+            <li className="list-none margin-bottom-20">Anh ấy bước đi vững chắc dọc theo con đường.</li>
 
           </ol>
 
