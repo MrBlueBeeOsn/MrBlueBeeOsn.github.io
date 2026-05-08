@@ -63,9 +63,11 @@ export default function Persistently1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>She <strong>persistently</strong> asked questions until she got an answer. (Cô ấy liên tục hỏi cho đến khi nhận được câu trả lời.)</li>
+          <li>She ______ asked questions until she got an answer.</li>
+          <li className="margin-bottom-20 list-none">Cô ấy liên tục hỏi cho đến khi nhận được câu trả lời.</li>
 
-          <li>The rain fell <strong>persistently</strong> throughout the night. (Mưa rơi liên tục suốt đêm.)</li>
+          <li>The rain fell ______ throughout the night.</li>
+          <li className="list-none">Mưa rơi liên tục suốt đêm.</li>
 
         </ul>
 
@@ -81,14 +83,17 @@ export default function Persistently1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Persist (v): Kiên trì /pərˈsɪst/</li>
-          <li className="margin-bottom-20 list-none">Despite the difficulties, she persisted in her studies. (Dù gặp khó khăn, cô ấy vẫn kiên trì học tập.)</li>
+          <li>Persisted (v) /pərˈsɪstɪd/</li>
+          <li className="list-none">Despite the difficulties, she ______ in her studies.</li>
+          <li className="margin-bottom-20 list-none">Dù gặp khó khăn, cô ấy vẫn kiên trì học tập.</li>
 
-          <li>Persistent (adj): Kiên trì, bền bỉ /pəˈsɪs.tənt/</li>
-          <li className="margin-bottom-20 list-none">She's a very persistent person. (Cô ấy là một người rất kiên trì.)</li>
+          <li>Persistent (adj) /pəˈsɪs.tənt/</li>
+          <li className="list-none">She's a very ______ person.</li>
+          <li className="margin-bottom-20 list-none">Cô ấy là một người rất kiên trì.</li>
 
-          <li>Persistence (n): Sự kiên trì, sự bền bỉ /pəˈsɪs.təns/</li>
-          <li className="list-none">Her persistence paid off. (Sự kiên trì của cô ấy đã được đền đáp.)</li>
+          <li>Persistence (n) /pəˈsɪs.təns/</li>
+          <li className="list-none">Her ______ paid off.</li>
+          <li className="list-none">Sự kiên trì của cô ấy đã được đền đáp.</li>
 
         </ul>
 
@@ -104,11 +109,13 @@ export default function Persistently1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Continuously: Một cách liên tục /kənˈtɪn.ju.əs.li/</li>
-          <li className="margin-bottom-20 list-none">The machine ran continuously for hours. (Máy chạy liên tục trong nhiều giờ.)</li>
+          <li>Continuously /kənˈtɪn.ju.əs.li/</li>
+          <li className="list-none">The machine ran ______ for hours.</li>
+          <li className="margin-bottom-20 list-none">Máy chạy liên tục trong nhiều giờ.</li>
 
-          <li>Incessantly: Một cách không ngừng nghỉ /ɪnˈses.ənt.li/</li>
-          <li className="list-none">The baby cried incessantly. (Đứa bé khóc không ngừng.)</li>
+          <li>Incessantly /ɪnˈses.ənt.li/</li>
+          <li className="list-none">The baby cried ______.</li>
+          <li className="list-none">Đứa bé khóc không ngừng.</li>
 
         </ul>
 
@@ -126,11 +133,13 @@ export default function Persistently1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li><Link to="/vocabulary/occasionally-1">Occasionally</Link>: Thỉnh thoảng /əˈkeɪ.ʒən.əl.i/</li>
-          <li className="margin-bottom-20 list-none">I occasionally visit my parents. (Thỉnh thoảng tôi đến thăm ba mẹ.)</li>
+          <li><Link to="/vocabulary/occasionally-1">Occasionally</Link> /əˈkeɪ.ʒən.əl.i/</li>
+          <li className="list-none">I ______ visit my parents.</li>
+          <li className="margin-bottom-20 list-none">Thỉnh thoảng tôi đến thăm ba mẹ.</li>
 
-          <li>Sporadically: Một cách rải rác /spəˈræd.ɪk.li/</li>
-          <li className="list-none">The rain fell sporadically throughout the day. (Mưa rơi rải rác suốt cả ngày.)</li>
+          <li>Sporadically /spəˈræd.ɪk.li/</li>
+          <li className="list-none">The rain fell ______ throughout the day.</li>
+          <li className="list-none">Mưa rơi rải rác suốt cả ngày.</li>
 
         </ul>
       
@@ -155,8 +164,8 @@ export default function Persistently1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>He is so focused, <strong>persistently</strong> working on this equation.</li>
-          <li className="list-none">(Anh ấy rất tập trung, kiên trì làm việc với phương trình này.)</li>
+          <li>He is so focused, ______ working on this equation.</li>
+          <li className="list-none">Anh ấy rất tập trung, kiên trì làm việc với phương trình này.</li>
 
         </ul>
 
@@ -175,8 +184,8 @@ export default function Persistently1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>She <strong>persistently</strong> knocked on the door until someone answered.</li>
-          <li className="list-none">(Cô ấy liên tục gõ cửa cho đến khi có người mở cửa.)</li>
+          <li>She ______ knocked on the door until someone answered.</li>
+          <li className="list-none">Cô ấy liên tục gõ cửa cho đến khi có người mở cửa.</li>
 
         </ul>
 
@@ -191,15 +200,17 @@ export default function Persistently1(): React.JSX.Element {
         <strong>&nbsp;thường xuyên</strong>:
       </p>
 
-      <p className="text-indent-whole">Thường xuyên sử dụng từ này trong các bài viết hoặc cuộc trò chuyện.</p>
+      <p className="text-indent-whole margin-bottom-20">Thường xuyên sử dụng từ này trong các bài viết hoặc cuộc trò chuyện.</p>
 
         <p className="text-indent-whole">Ví dụ để so sánh (sự khác biệt):</p>
 
           <ol>
 
-            <li>He tried to fix the car. (Anh ấy cố sửa chiếc xe.)</li>
+            <li>He tried to fix the car.</li>
+            <li className="list-none margin-bottom-20">Anh ấy cố sửa chiếc xe.</li>
 
-            <li className="margin-bottom-20">He <strong>persistently</strong> tried to fix the car for hours. (Anh ấy kiên trì cố sửa chiếc xe trong nhiều giờ.)</li>
+            <li value="2">He ______ tried to fix the car for hours.</li>
+            <li className="list-none margin-bottom-20">Anh ấy kiên trì cố sửa chiếc xe trong nhiều giờ.</li>
 
           </ol>
 

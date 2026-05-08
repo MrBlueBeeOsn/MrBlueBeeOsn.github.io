@@ -62,35 +62,45 @@ export default function Persistently2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1"><strong>Persistently</strong> pursued: Kiên trì theo đuổi /pəˈsɪstəntli pərˈsuːd/</li>
-        <li className="list-none margin-bottom-20">She <strong>persistently</strong> pursued her dream of becoming a doctor. (Cô ấy kiên trì theo đuổi ước mơ trở thành bác sĩ.)</li>
+        <li value="1">Persistently <strong>pursued</strong> /pərˈsuːd/</li>
+        <li className="list-none">She ______ her dream of becoming a doctor.</li>
+        <li className="list-none margin-bottom-20">Cô ấy kiên trì theo đuổi ước mơ trở thành bác sĩ.</li>
 
-        <li value="2"><strong>Persistently</strong> questioned: Kiên trì đặt câu hỏi /pəˈsɪstəntli ˈkwɛstʃənd/</li>
-        <li className="list-none margin-bottom-20">The journalist <strong>persistently</strong> questioned the politician about the scandal. (Nhà báo kiên trì đặt câu hỏi cho chính trị gia về vụ bê bối.)</li>
+        <li value="2">Persistently <strong>questioned</strong> /ˈkwɛstʃənd/</li>
+        <li className="list-none">The journalist ______ the politician about the scandal.</li>
+        <li className="list-none margin-bottom-20">Nhà báo kiên trì đặt câu hỏi cho chính trị gia về vụ bê bối.</li>
 
-        <li value="3"><strong>Persistently</strong> denied: Kiên quyết phủ nhận /pəˈsɪstəntly dɪˈnaɪd/</li>
-        <li className="list-none margin-bottom-20">He <strong>persistently</strong> denied any involvement in the crime. (Anh ta kiên quyết phủ nhận bất kỳ liên quan nào đến tội ác.)</li>
+        <li value="3">Persistently <strong>denied</strong> /dɪˈnaɪd/</li>
+        <li className="list-none">He ______ any involvement in the crime.</li>
+        <li className="list-none margin-bottom-20">Anh ta kiên quyết phủ nhận bất kỳ liên quan nào đến tội ác.</li>
 
-        <li value="4"><strong>Persistently</strong> rumored: Liên tục đồn đại /pəˈsɪstəntli ˈruːmərd/</li>
-        <li className="list-none margin-bottom-20">It was <strong>persistently</strong> rumored that he would resign. (Người ta liên tục đồn đại rằng ông ta sẽ từ chức.)</li>
+        <li value="4">Persistently <strong>rumored</strong> /ˈruːmərd/</li>
+        <li className="list-none">It was ______ that he would resign.</li>
+        <li className="list-none margin-bottom-20">Người ta liên tục đồn đại rằng ông ta sẽ từ chức.</li>
 
-        <li value="5"><strong>Persistently</strong> optimistic: Luôn lạc quan /pəˈsɪstəntli ˌɒptɪˈmɪstɪk/</li>
-        <li className="list-none margin-bottom-20">Despite the difficulties, she remained <strong>persistently</strong> optimistic. (Mặc dù gặp khó khăn, cô ấy vẫn luôn lạc quan.)</li>
+        <li value="5">Persistently <strong>optimistic</strong> /ˌɒptɪˈmɪstɪk/</li>
+        <li className="list-none">Despite the difficulties, she remained ______.</li>
+        <li className="list-none margin-bottom-20">Mặc dù gặp khó khăn, cô ấy vẫn luôn lạc quan.</li>
 
-        <li value="6"><strong>Persistently</strong> pessimistic: Luôn bi quan /pəˈsɪstəntli ˌpɛsɪˈmɪstɪk/</li>
-        <li className="list-none margin-bottom-20">He was <strong>persistently</strong> pessimistic about the future of the company. (Anh ta luôn bi quan về tương lai của công ty.)</li>
+        <li value="6">Persistently <strong>pessimistic</strong> /ˌpɛsɪˈmɪstɪk/</li>
+        <li className="list-none">He was ______ about the future of the company.</li>
+        <li className="list-none margin-bottom-20">Anh ta luôn bi quan về tương lai của công ty.</li>
 
-        <li value="7"><strong>Persistently</strong> annoying: Làm phiền dai dẳng /pəˈsɪstəntli əˈnɔɪɪŋ/</li>
-        <li className="list-none margin-bottom-20">The noise from the construction site was <strong>persistently</strong> annoying. (Tiếng ồn từ công trường xây dựng làm phiền dai dẳng.)</li>
+        <li value="7">Persistently <strong>annoying</strong> /əˈnɔɪɪŋ/</li>
+        <li className="list-none">The noise from the construction site was ______.</li>
+        <li className="list-none margin-bottom-20">Tiếng ồn từ công trường xây dựng làm phiền dai dẳng.</li>
 
-        <li value="8"><strong>Persistently</strong> raining: Mưa dai dẳng /pəˈsɪstəntli ˈreɪnɪŋ/</li>
-        <li className="list-none margin-bottom-20">It has been <strong>persistently</strong> raining for days. (Trời đã mưa dai dẳng suốt mấy ngày.)</li>
+        <li value="8">Persistently <strong>raining</strong> /ˈreɪnɪŋ/</li>
+        <li className="list-none">It has been ______ for days.</li>
+        <li className="list-none margin-bottom-20">Trời đã mưa dai dẳng suốt mấy ngày.</li>
 
-        <li value="9"><strong>Persistently</strong> knocking: Gõ cửa liên tục /pəˈsɪstəntly ˈnɒkɪŋ/</li>
-        <li className="list-none margin-bottom-20">Someone was <strong>persistently</strong> knocking at the door. (Ai đó đang gõ cửa liên tục.)</li>
+        <li value="9">Persistently <strong>knocking</strong> /ˈnɒkɪŋ/</li>
+        <li className="list-none">Someone was ______ at the door.</li>
+        <li className="list-none margin-bottom-20">Ai đó đang gõ cửa liên tục.</li>
 
-        <li value="10"><strong>Persistently</strong> trying: Cố gắng không ngừng /pəˈsɪstəntli ˈtraɪɪŋ/</li>
-        <li className="list-none margin-bottom-20">He <strong>persistently</strong> tried to solve the puzzle. (Anh ấy cố gắng không ngừng để giải câu đố.)</li>
+        <li value="10">Persistently <strong>tried</strong> /ˈtraɪd/</li>
+        <li className="list-none">He ______ to solve the puzzle.</li>
+        <li className="list-none margin-bottom-20">Anh ấy cố gắng không ngừng để giải câu đố.</li>
 
       </ol>
 
