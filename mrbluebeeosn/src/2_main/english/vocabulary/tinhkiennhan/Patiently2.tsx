@@ -62,35 +62,45 @@ export default function Patiently2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1"><strong>Patiently</strong> wait: Chờ đợi một cách kiên nhẫn /ˈpeɪʃəntli weɪt/</li>
-        <li className="list-none margin-bottom-20">She <strong>patiently</strong> waited for her turn. (Cô ấy kiên nhẫn chờ đến lượt mình.)</li>
+        <li value="1">Patiently <strong>waited</strong> /weɪtɪd/</li>
+        <li className="list-none">She ______ for her turn.</li>
+        <li className="list-none margin-bottom-20">Cô ấy kiên nhẫn chờ đến lượt mình.</li>
 
-        <li value="2"><strong>Patiently</strong> listen: Lắng nghe một cách kiên nhẫn /ˈpeɪʃəntli ˈlɪsən/</li>
-        <li className="list-none margin-bottom-20">He <strong>patiently</strong> listened to the long explanation. (Anh ấy kiên nhẫn lắng nghe lời giải thích dài dòng.)</li>
+        <li value="2">Patiently <strong>listened</strong> /ˈlɪsənd/</li>
+        <li className="list-none">He ______ to the long explanation.</li>
+        <li className="list-none margin-bottom-20">Anh ấy kiên nhẫn lắng nghe lời giải thích dài dòng.</li>
 
-        <li value="3"><strong>Patiently</strong> explain: Giải thích một cách kiên nhẫn /ˈpeɪʃəntli ɪkˈspleɪn/</li>
-        <li className="list-none margin-bottom-20">The teacher <strong>patiently</strong> explained the lesson again. (Giáo viên kiên nhẫn giải thích lại bài học.)</li>
+        <li value="3">Patiently <strong>explained</strong> /ɪkˈspleɪnd/</li>
+        <li className="list-none">The teacher ______ the lesson again.</li>
+        <li className="list-none margin-bottom-20">Giáo viên kiên nhẫn giải thích lại bài học.</li>
 
-        <li value="4"><strong>Patiently</strong> teach: Dạy dỗ một cách kiên nhẫn /ˈpeɪʃəntli tiːtʃ/</li>
-        <li className="list-none margin-bottom-20">She <strong>patiently</strong> taught her child how to read. (Cô ấy kiên nhẫn dạy con mình đọc.)</li>
+        <li value="4">Patiently <strong>taught</strong> /tɔːt/</li>
+        <li className="list-none">She ______ her child how to read.</li>
+        <li className="list-none margin-bottom-20">Cô ấy kiên nhẫn dạy con mình đọc.</li>
 
-        <li value="5"><strong>Patiently</strong> work: Làm việc một cách kiên nhẫn /ˈpeɪʃəntli wɜːrk/</li>
-        <li className="list-none margin-bottom-20">They <strong>patiently</strong> worked on the difficult project. (Họ kiên nhẫn làm việc cho dự án khó khăn.)</li>
+        <li value="5">Patiently <strong>worked</strong> /wɜːrkd/</li>
+        <li className="list-none">They ______ on the difficult project.</li>
+        <li className="list-none margin-bottom-20">Họ kiên nhẫn làm việc cho dự án khó khăn.</li>
 
-        <li value="6"><strong>Patiently</strong> endure: Chịu đựng một cách kiên nhẫn /ˈpeɪʃəntli ɪnˈdʊr/</li>
-        <li className="list-none margin-bottom-20">He <strong>patiently</strong> endured the pain. (Anh ấy kiên nhẫn chịu đựng cơn đau.)</li>
+        <li value="6">Patiently <strong>endured</strong> /ɪnˈdʊrd/</li>
+        <li className="list-none">He ______ the pain.</li>
+        <li className="list-none margin-bottom-20">Anh ấy kiên nhẫn chịu đựng cơn đau.</li>
 
-        <li value="7"><strong>Patiently</strong> guide: Hướng dẫn một cách kiên nhẫn /ˈpeɪʃəntli ɡaɪd/</li>
-        <li className="list-none margin-bottom-20">The tour guide <strong>patiently</strong> guided the group through the museum. (Hướng dẫn viên du lịch kiên nhẫn hướng dẫn đoàn qua viện bảo tàng.)</li>
+        <li value="7">Patiently <strong>guided</strong> /ɡaɪdɪd/</li>
+        <li className="list-none">The tour guide ______ the group through the museum.</li>
+        <li className="list-none margin-bottom-20">Hướng dẫn viên du lịch kiên nhẫn hướng dẫn đoàn qua viện bảo tàng.</li>
 
-        <li value="8"><strong>Patiently</strong> observe: Quan sát một cách kiên nhẫn /ˈpeɪʃəntli əbˈzɜːrv/</li>
-        <li className="list-none margin-bottom-20">The scientist <strong>patiently</strong> observed the experiment. (Nhà khoa học kiên nhẫn quan sát thí nghiệm.)</li>
+        <li value="8">Patiently <strong>observed</strong> /əbˈzɜːrvd/</li>
+        <li className="list-none">The scientist ______ the experiment.</li>
+        <li className="list-none margin-bottom-20">Nhà khoa học kiên nhẫn quan sát thí nghiệm.</li>
 
-        <li value="9"><strong>Patiently</strong> correct: Sửa chữa một cách kiên nhẫn /ˈpeɪʃəntli kəˈrɛkt/</li>
-        <li className="list-none margin-bottom-20">She <strong>patiently</strong> corrected the student's mistakes. (Cô ấy kiên nhẫn sửa lỗi cho học sinh.)</li>
+        <li value="9">Patiently <strong>corrected</strong> /kəˈrɛktɪd/</li>
+        <li className="list-none">She ______ the student's mistakes.</li>
+        <li className="list-none margin-bottom-20">Cô ấy kiên nhẫn sửa lỗi cho học sinh.</li>
 
-        <li value="10"><strong>Patiently</strong> nurture: Nuôi dưỡng một cách kiên nhẫn /ˈpeɪʃəntli ˈnɜːrtʃər/</li>
-        <li className="list-none margin-bottom-20">They <strong>patiently</strong> nurtured the young plants. (Họ kiên nhẫn nuôi dưỡng những cây non.)</li>
+        <li value="10">Patiently <strong>nurtured</strong> /ˈnɜːrtʃərd/</li>
+        <li className="list-none">They ______ the young plants.</li>
+        <li className="list-none margin-bottom-20">Họ kiên nhẫn nuôi dưỡng những cây non.</li>
 
       </ol>
 

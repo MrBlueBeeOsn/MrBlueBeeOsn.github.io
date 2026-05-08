@@ -63,9 +63,11 @@ export default function Patiently1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>He waited <strong>patiently</strong> for his turn. (Anh ấy kiên nhẫn chờ đến lượt của mình.)</li>
+          <li>He waited ______ for his turn.</li>
+          <li className="margin-bottom-20 list-none">Anh ấy kiên nhẫn chờ đến lượt của mình.</li>
 
-          <li>She listened <strong>patiently</strong> to his story. (Cô ấy kiên nhẫn lắng nghe câu chuyện của anh ấy.)</li>
+          <li>She listened ______ to his story.</li>
+          <li className="list-none">Cô ấy kiên nhẫn lắng nghe câu chuyện của anh ấy.</li>
 
         </ul>
 
@@ -81,12 +83,17 @@ export default function Patiently1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Patient (adj, n): Kiên nhẫn, nhẫn nại; bệnh nhân /ˈpeɪ.ʃənt/</li>
-          <li>(adj): He is a patient teacher. (Anh ấy là một giáo viên kiên nhẫn.)</li>
-          <li className="margin-bottom-20 list-none">(n): The doctor treated the patient with care. (Bác sĩ chăm sóc bệnh nhân một cách cẩn thận.)</li>
+          <li>Patient (adj) /ˈpeɪ.ʃənt/</li>
+          <li className="list-none">He is a ______ teacher.</li>
+          <li className="margin-bottom-20 list-none">Anh ấy là một giáo viên kiên nhẫn.</li>
 
-          <li>Patience (n): Sự kiên nhẫn, sự nhẫn nại /ˈpeɪ.ʃəns/</li>
-          <li className="list-none">He has a lot of patience. (Anh ấy có rất nhiều sự kiên nhẫn.)</li>
+          <li>Patient (n) /ˈpeɪ.ʃənt/</li>
+          <li className="list-none">The doctor treated the ______ with care.</li>
+          <li className="margin-bottom-20 list-none">Bác sĩ chăm sóc bệnh nhân một cách cẩn thận.</li>
+
+          <li>Patience (n) /ˈpeɪ.ʃəns/</li>
+          <li className="list-none">He has a lot of ______.</li>
+          <li className="list-none">Anh ấy có rất nhiều sự kiên nhẫn.</li>
 
         </ul>
 
@@ -102,14 +109,17 @@ export default function Patiently1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Calmly: Một cách bình tĩnh, điềm tĩnh /ˈkɑːm.li/</li>
-          <li className="margin-bottom-20 list-none">He calmly explained the situation. (Anh ấy bình tĩnh giải thích tình huống.)</li>
+          <li>Calmly /ˈkɑːm.li/</li>
+          <li className="list-none">He ______ explained the situation.</li>
+          <li className="margin-bottom-20 list-none">Anh ấy bình tĩnh giải thích tình huống.</li>
 
-          <li>Tolerantly: Một cách khoan dung, độ lượng /ˈtɒl.ər.ənt.li/</li>
-          <li className="margin-bottom-20 list-none">He listened to their complaints tolerantly. (Anh ấy lắng nghe những lời phàn nàn của họ một cách khoan dung.)</li>
+          <li>Tolerantly /ˈtɒl.ər.ənt.li/</li>
+          <li className="list-none">He listened to their complaints ______.</li>
+          <li className="margin-bottom-20 list-none">Anh ấy lắng nghe những lời phàn nàn của họ một cách khoan dung.</li>
 
-          <li>Enduringly: Một cách bền bỉ, chịu đựng /ɪnˈdʊr.ɪŋ.li/</li>
-          <li className="list-none">She endured the pain enduringly. (Cô ấy chịu đựng nỗi đau một cách bền bỉ.)</li>
+          <li>Enduringly /ɪnˈdʊr.ɪŋ.li/</li>
+          <li className="list-none">She endured the pain ______.</li>
+          <li className="list-none">Cô ấy chịu đựng nỗi đau một cách bền bỉ.</li>
 
         </ul>
 
@@ -127,14 +137,17 @@ export default function Patiently1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Impatiently: Một cách thiếu kiên nhẫn, sốt ruột /ɪmˈpeɪ.ʃənt.li/</li>
-          <li className="margin-bottom-20 list-none">He waited impatiently for the bus. (Anh ấy chờ xe buýt một cách sốt ruột.)</li>
+          <li>Impatiently /ɪmˈpeɪ.ʃənt.li/</li>
+          <li className="list-none">He waited ______ for the bus.</li>
+          <li className="margin-bottom-20 list-none">Anh ấy chờ xe buýt một cách sốt ruột.</li>
 
-          <li>Frustratedly: Một cách bực bội, thất vọng /frʌsˈtreɪ.tɪd.li/</li>
-          <li className="margin-bottom-20 list-none">She sighed frustratedly. (Cô ấy thở dài một cách bực bội.)</li>
+          <li>Frustratedly /frʌsˈtreɪ.tɪd.li/</li>
+          <li className="list-none">She sighed ______.</li>
+          <li className="margin-bottom-20 list-none">Cô ấy thở dài một cách bực bội.</li>
 
-          <li>Agitatedly: Một cách kích động, bồn chồn /ˈædʒ.ɪ.teɪ.tɪd.li/</li>
-          <li className="list-none">He paced agitatedly around the room. (Anh ấy đi đi lại lại trong phòng một cách bồn chồn.)</li>
+          <li>Agitatedly /ˈædʒ.ɪ.teɪ.tɪd.li/</li>
+          <li className="list-none">He paced ______ around the room.</li>
+          <li className="list-none">Anh ấy đi đi lại lại trong phòng một cách bồn chồn.</li>
 
         </ul>
       
@@ -159,11 +172,11 @@ export default function Patiently1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>He waited <strong>patiently</strong> for his turn.</li>
-          <li className="margin-bottom-20 list-none">(Anh ấy kiên nhẫn chờ đến lượt mình.)</li>
+          <li>He waited ______ for his turn.</li>
+          <li className="margin-bottom-20 list-none">Anh ấy kiên nhẫn chờ đến lượt mình.</li>
 
-          <li>She listened <strong>patiently</strong> to the long explanation.</li>
-          <li className="list-none">(Cô ấy kiên nhẫn lắng nghe lời giải thích dài dòng.)</li>
+          <li>She listened ______ to the long explanation.</li>
+          <li className="list-none">Cô ấy kiên nhẫn lắng nghe lời giải thích dài dòng.</li>
 
         </ul>
 
@@ -182,8 +195,8 @@ export default function Patiently1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>The teacher explained the lesson <strong>patiently</strong> to the students.</li>
-          <li className="list-none">(Giáo viên giải thích bài học một cách kiên nhẫn cho học sinh.)</li>
+          <li>The teacher explained the lesson ______ to the students.</li>
+          <li className="list-none">Giáo viên giải thích bài học một cách kiên nhẫn cho học sinh.</li>
 
         </ul>
 
@@ -198,15 +211,17 @@ export default function Patiently1(): React.JSX.Element {
         <strong>&nbsp;thường xuyên</strong>:
       </p>
 
-      <p className="text-indent-whole">Thường xuyên sử dụng từ này trong các bài viết hoặc cuộc trò chuyện.</p>
+      <p className="text-indent-whole margin-bottom-20">Thường xuyên sử dụng từ này trong các bài viết hoặc cuộc trò chuyện.</p>
 
         <p className="text-indent-whole">Ví dụ để so sánh (sự khác biệt):</p>
 
           <ol>
 
-            <li>He waited for his turn. (Anh ấy chờ đến lượt của mình.)</li>
+            <li>He waited for his turn.</li>
+            <li className="list-none margin-bottom-20">Anh ấy chờ đến lượt của mình.</li>
 
-            <li className="margin-bottom-20">He waited <strong>patiently</strong> for his turn. (Anh ấy kiên nhẫn chờ đến lượt của mình.)</li>
+            <li value="2">He waited ______ for his turn.</li>
+            <li className="list-none margin-bottom-20">Anh ấy kiên nhẫn chờ đến lượt của mình.</li>
 
           </ol>
 
