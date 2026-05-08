@@ -19,9 +19,21 @@ export default function VERBSADDS(): React.JSX.Element {
       ============================= */}
 
       <p className="margin-top-20 text-center">
-      
+
         <span className="highlight-255-padding-0-4 text-border">
-          <strong>Nouns</strong>: Add s <HashLink smooth to="/grammar/how-to-remember-verbs-add-s#nouns">to make them plural</HashLink> (one cat, two cats).
+          <strong>Visualize Superman</strong>: Imagine <HashLink smooth to="/grammar/how-to-remember-verbs-add-s#asuperman">an "S" on the chest of a superhero</HashLink> that jumps onto the verb when the subject is he, she, or it.
+        </span>
+
+        <hr className="margin-y-20"/>
+
+        <span className="highlight-255-padding-0-4 text-border">
+          <HashLink smooth to="/grammar/how-to-remember-verbs-add-s#asuperman">He, she, or it?</HashLink> S goes with it!
+        </span>
+
+        <hr className="margin-y-20"/>
+
+        <span className="highlight-255-padding-0-4 text-border">
+          <HashLink smooth to="/grammar/how-to-remember-verbs-add-s#asuperman">He, she, it,</HashLink> S muss mit
         </span>
 
         <hr className="margin-y-20"/>
@@ -31,9 +43,9 @@ export default function VERBSADDS(): React.JSX.Element {
         </span>
 
         <hr className="margin-y-20"/>
-
+      
         <span className="highlight-255-padding-0-4 text-border">
-          <strong>Visualize Superman</strong>: Imagine <HashLink smooth to="/grammar/how-to-remember-verbs-add-s#asuperman">an "S" on the chest of a superhero</HashLink> that jumps onto the verb when the subject is he, she, or it.
+          <strong>Nouns</strong>: Add s <HashLink smooth to="/grammar/how-to-remember-verbs-add-s#nouns">to make them plural</HashLink> (one cat, two cats).
         </span>
 
       </p>
