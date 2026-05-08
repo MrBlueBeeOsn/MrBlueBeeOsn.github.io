@@ -63,9 +63,11 @@ export default function Attentively1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>He listened <strong>attentively</strong> to the teacher's instructions. (Anh ấy lắng nghe chăm chú những hướng dẫn của giáo viên.)</li>
+          <li>He listened ______ to the teacher's instructions.</li>
+          <li className="margin-bottom-20 list-none">Anh ấy lắng nghe chăm chú những hướng dẫn của giáo viên.</li>
 
-          <li>She watched the performance <strong>attentively</strong>. (Cô ấy xem buổi biểu diễn một cách chú ý.)</li>
+          <li>She watched the performance ______.</li>
+          <li className="list-none">Cô ấy xem buổi biểu diễn một cách chú ý.</li>
 
         </ul>
 
@@ -81,11 +83,13 @@ export default function Attentively1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Attentive (adj): Chăm chú, chú ý, cẩn thận (/əˈten.tɪv/)</li>
-          <li className="margin-bottom-20 list-none">He is an attentive student. (Anh ấy là một học sinh chăm chú.)</li>
+          <li>Attentive (adj) /əˈten.tɪv/</li>
+          <li className="list-none">He is an ______ student.</li>
+          <li className="margin-bottom-20 list-none">Anh ấy là một học sinh chăm chú.</li>
 
-          <li>Attention (n): Sự chú ý, sự quan tâm (/əˈten.ʃən/)</li>
-          <li className="list-none">He paid attention to the details. (Anh ấy chú ý đến các chi tiết.)</li>
+          <li>Attention (n) /əˈten.ʃən/</li>
+          <li className="list-none">He paid ______ to the details.</li>
+          <li className="list-none">Anh ấy chú ý đến các chi tiết.</li>
 
         </ul>
 
@@ -101,14 +105,17 @@ export default function Attentively1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li><Link to="/vocabulary/carefully-1">Carefully</Link>: Một cách cẩn thận (/ˈkeə.fə.li/)</li>
-          <li className="margin-bottom-20 list-none">He handled the fragile object carefully. (Anh ấy xử lý vật dễ vỡ một cách cẩn thận.)</li>
+          <li><Link to="/vocabulary/carefully-1">Carefully</Link> /ˈkeə.fə.li/</li>
+          <li className="list-none">He handled the fragile object ______.</li>
+          <li className="margin-bottom-20 list-none">Anh ấy xử lý vật dễ vỡ một cách cẩn thận.</li>
 
-          <li>Closely: Một cách kỹ lưỡng, chặt chẽ (/ˈkləʊs.li/)</li>
-          <li className="margin-bottom-20 list-none">He examined the document closely. (Anh ấy kiểm tra kỹ lưỡng tài liệu.)</li>
+          <li>Closely /ˈkləʊs.li/</li>
+          <li className="list-none">He examined the document ______.</li>
+          <li className="margin-bottom-20 list-none">Anh ấy kiểm tra kỹ lưỡng tài liệu.</li>
 
-          <li>Watchfully: Một cách cảnh giác, đề phòng (/ˈwɒtʃ.fə.li/)</li>
-          <li className="list-none">He watched the children watchfully. (Anh ấy trông chừng bọn trẻ một cách cảnh giác.)</li>
+          <li>Watchfully /ˈwɒtʃ.fə.li/</li>
+          <li className="list-none">He watched the children ______.</li>
+          <li className="list-none">Anh ấy trông chừng bọn trẻ một cách cảnh giác.</li>
 
         </ul>
 
@@ -126,14 +133,17 @@ export default function Attentively1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Inattentively: Một cách lơ đãng, không chú ý (/ˌɪn.əˈten.tɪv.li/)</li>
-          <li className="margin-bottom-20 list-none">He listened to the lecture inattentively. (Anh ấy nghe bài giảng một cách lơ đãng.)</li>
+          <li>Inattentively /ˌɪn.əˈten.tɪv.li/</li>
+          <li className="list-none">He listened to the lecture ______.</li>
+          <li className="margin-bottom-20 list-none">Anh ấy nghe bài giảng một cách lơ đãng.</li>
 
-          <li>Carelessly: Một cách bất cẩn, cẩu thả (/ˈkeə.ləs.li/)</li>
-          <li className="margin-bottom-20 list-none">He drove carelessly and caused an accident. (Anh ấy lái xe bất cẩn và gây ra tai nạn.)</li>
+          <li>Carelessly /ˈkeə.ləs.li/</li>
+          <li className="list-none">He drove ______ and caused an accident.</li>
+          <li className="margin-bottom-20 list-none">Anh ấy lái xe bất cẩn và gây ra tai nạn.</li>
 
-          <li>Neglectfully: Một cách lơ là, bỏ bê (/nɪˈɡlekt.fə.li/)</li>
-          <li className="list-none">He treated his duties neglectfully. (Anh ấy xử lý công việc của mình một cách lơ là.)</li>
+          <li>Neglectfully /nɪˈɡlekt.fə.li/</li>
+          <li className="list-none">He treated his duties ______.</li>
+          <li className="list-none">Anh ấy xử lý công việc của mình một cách lơ là.</li>
 
         </ul>
       
@@ -158,11 +168,11 @@ export default function Attentively1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>He listened <strong>attentively</strong>.</li>
-          <li className="margin-bottom-20 list-none">(Anh ấy lắng nghe một cách chăm chú.)</li>
+          <li>He listened ______.</li>
+          <li className="margin-bottom-20 list-none">Anh ấy lắng nghe một cách chăm chú.</li>
 
-          <li>She read the book <strong>attentively</strong>.</li>
-          <li className="list-none">(Cô ấy đọc sách một cách tập trung.)</li>
+          <li>She read the book ______.</li>
+          <li className="list-none">Cô ấy đọc sách một cách tập trung.</li>
 
         </ul>
 
@@ -181,8 +191,8 @@ export default function Attentively1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>The surgeon performed the operation <strong>attentively</strong>.</li>
-          <li className="list-none">(Bác sĩ phẫu thuật thực hiện ca phẫu thuật một cách cẩn thận.)</li>
+          <li>The surgeon performed the operation ______.</li>
+          <li className="list-none">Bác sĩ phẫu thuật thực hiện ca phẫu thuật một cách cẩn thận.</li>
 
         </ul>
 
@@ -197,15 +207,17 @@ export default function Attentively1(): React.JSX.Element {
         <strong>&nbsp;thường xuyên</strong>:
       </p>
 
-      <p className="text-indent-whole">Thường xuyên sử dụng từ này trong các bài viết hoặc cuộc trò chuyện.</p>
+      <p className="text-indent-whole margin-bottom-20">Thường xuyên sử dụng từ này trong các bài viết hoặc cuộc trò chuyện.</p>
 
         <p className="text-indent-whole">Ví dụ để so sánh (sự khác biệt):</p>
 
           <ol>
 
-            <li>He listened to the lecture. (Anh ấy nghe bài giảng.)</li>
+            <li>He listened to the lecture.</li>
+            <li className="list-none margin-bottom-20">Anh ấy nghe bài giảng.</li>
 
-            <li className="margin-bottom-20">He listened to the lecture <strong>attentively</strong>. (Anh ấy nghe bài giảng một cách chăm chú.)</li>
+            <li value="2">He listened to the lecture ______.</li>
+            <li className="list-none margin-bottom-20">Anh ấy nghe bài giảng một cách chăm chú.</li>
 
           </ol>
 

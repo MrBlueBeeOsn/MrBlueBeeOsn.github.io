@@ -62,35 +62,45 @@ export default function Attentively2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1"><strong>Attentively</strong> listen: (Lắng nghe một cách chăm chú) (/əˈtɛntɪvli ˈlɪsən/)</li>
-        <li className="list-none margin-bottom-20">She <strong>attentively</strong> listened to the speaker. (Cô ấy lắng nghe người nói một cách chăm chú.)</li>
+        <li value="1">Attentively <strong>listened</strong> /ˈlɪsənd/</li>
+        <li className="list-none">She ______ to the speaker.</li>
+        <li className="list-none margin-bottom-20">Cô ấy lắng nghe người nói một cách chăm chú.</li>
 
-        <li value="2"><strong>Attentively</strong> watch: (Xem một cách chăm chú) (/əˈtɛntɪvli wɒtʃ/)</li>
-        <li className="list-none margin-bottom-20">The students <strong>attentively</strong> watched the demonstration. (Các học sinh xem phần trình diễn một cách chăm chú.)</li>
+        <li value="2">Attentively <strong>watched</strong> /wɒtʃd/</li>
+        <li className="list-none">The students ______ the demonstration.</li>
+        <li className="list-none margin-bottom-20">Các học sinh xem phần trình diễn một cách chăm chú.</li>
 
-        <li value="3"><strong>Attentively</strong> read: (Đọc một cách chăm chú) (/əˈtɛntɪvli riːd/)</li>
-        <li className="list-none margin-bottom-20">He <strong>attentively</strong> read the contract before signing it. (Anh ấy đọc hợp đồng một cách chăm chú trước khi ký.)</li>
+        <li value="3">Attentively <strong>read</strong> /red/</li>
+        <li className="list-none">He ______ the contract before signing it.</li>
+        <li className="list-none margin-bottom-20">Anh ấy đọc hợp đồng một cách chăm chú trước khi ký.</li>
 
-        <li value="4"><strong>Attentively</strong> observe: (Quan sát một cách chăm chú) (/əˈtɛntɪvli əbˈzɜːrv/)</li>
-        <li className="list-none margin-bottom-20">The scientist <strong>attentively</strong> observed the cells under the microscope. (Nhà khoa học quan sát các tế bào dưới kính hiển vi một cách chăm chú.)</li>
+        <li value="4">Attentively <strong>observed</strong> /əbˈzɜːrvd/</li>
+        <li className="list-none">The scientist ______ the cells under the microscope.</li>
+        <li className="list-none margin-bottom-20">Nhà khoa học quan sát các tế bào dưới kính hiển vi một cách chăm chú.</li>
 
-        <li value="5"><strong>Attentively</strong> study: (Nghiên cứu một cách chăm chú) (/əˈtɛntɪvli ˈstʌdi/)</li>
-        <li className="list-none margin-bottom-20">She <strong>attentively</strong> studied for her exams. (Cô ấy học bài cho kỳ thi của mình một cách chăm chú.)</li>
+        <li value="5">Attentively <strong>studied</strong> /ˈstʌd.id/</li>
+        <li className="list-none">She ______ for her exams.</li>
+        <li className="list-none margin-bottom-20">Cô ấy học bài cho kỳ thi của mình một cách chăm chú.</li>
 
-        <li value="6"><strong>Attentively</strong> follow: (Theo dõi một cách chăm chú) (/əˈtɛntɪvli ˈfɒloʊ/)</li>
-        <li className="list-none margin-bottom-20">The dog <strong>attentively</strong> followed its owner's commands. (Con chó theo dõi lệnh của chủ nhân một cách chăm chú.)</li>
+        <li value="6">Attentively <strong>followed</strong> /ˈfɒloʊd/</li>
+        <li className="list-none">The dog ______ its owner's commands.</li>
+        <li className="list-none margin-bottom-20">Con chó theo dõi lệnh của chủ nhân một cách chăm chú.</li>
 
-        <li value="7"><strong>Attentively</strong> listen to instructions: (Lắng nghe hướng dẫn một cách chăm chú) (/əˈtɛntɪvli ˈlɪsən tuː ɪnˈstrʌkʃənz/)</li>
-        <li className="list-none margin-bottom-20">The workers <strong>attentively</strong> listened to the safety instructions. (Các công nhân lắng nghe hướng dẫn an toàn một cách chăm chú.)</li>
+        <li value="7">Attentively <strong>listend to instructions</strong> /ˈlɪsənd tuː ɪnˈstrʌkʃənz/</li>
+        <li className="list-none">The workers ______ the safety ______.</li>
+        <li className="list-none margin-bottom-20">Các công nhân lắng nghe hướng dẫn an toàn một cách chăm chú.</li>
 
-        <li value="8"><strong>Attentively</strong> pay attention: (Chú ý một cách chăm chú) (/əˈtɛntɪvli peɪ əˈtɛnʃən/)</li>
-        <li className="list-none margin-bottom-20">He <strong>attentively</strong> paid attention to the lecture. (Anh ấy chú ý đến bài giảng một cách chăm chú.)</li>
+        <li value="8">Attentively <strong>paid attention</strong> /peɪd əˈtɛnʃən/</li>
+        <li className="list-none">He ______ to the lecture.</li>
+        <li className="list-none margin-bottom-20">Anh ấy chú ý đến bài giảng một cách chăm chú.</li>
 
-        <li value="9"><strong>Attentively</strong> take notes: (Ghi chú một cách chăm chú) (/əˈtɛntɪvli teɪk noʊts/)</li>
-        <li className="list-none margin-bottom-20">She <strong>attentively</strong> took notes during the meeting. (Cô ấy ghi chú trong cuộc họp một cách chăm chú.)</li>
+        <li value="9">Attentively <strong>took notes</strong> /tʊk noʊts/</li>
+        <li className="list-none">She ______ during the meeting.</li>
+        <li className="list-none margin-bottom-20">Cô ấy ghi chú trong cuộc họp một cách chăm chú.</li>
 
-        <li value="10"><strong>Attentively</strong> examine: (Kiểm tra một cách chăm chú) (/əˈtɛntɪvli ɪɡˈzæmɪn/)</li>
-        <li className="list-none margin-bottom-20">The doctor <strong>attentively</strong> examined the patient. (Bác sĩ kiểm tra bệnh nhân một cách chăm chú.)</li>
+        <li value="10">Attentively <strong>examined</strong> /ɪɡˈzæmɪnd/</li>
+        <li className="list-none">The doctor ______ the patient.</li>
+        <li className="list-none margin-bottom-20">Bác sĩ kiểm tra bệnh nhân một cách chăm chú.</li>
 
       </ol>
 
