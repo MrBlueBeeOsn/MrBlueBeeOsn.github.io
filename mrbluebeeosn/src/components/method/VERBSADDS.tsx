@@ -27,13 +27,13 @@ export default function VERBSADDS(): React.JSX.Element {
         <hr className="margin-y-20"/>
 
         <span className="highlight-255-padding-0-4 text-border">
-          <HashLink smooth to="/grammar/how-to-remember-verbs-add-s#hesheorit">🟦 He, she, or it?</HashLink> S goes with it!
+          🟦 <HashLink smooth to="/grammar/how-to-remember-verbs-add-s#hesheorit">He, she, or it?</HashLink> S goes with it! ✨
         </span>
 
         <hr className="margin-y-20"/>
 
         <span className="highlight-255-padding-0-4 text-border">
-          <HashLink smooth to="/grammar/how-to-remember-verbs-add-s#hesheit">🟦 He, she, it,</HashLink> S muss mit
+          🟦 <HashLink smooth to="/grammar/how-to-remember-verbs-add-s#hesheit">He, she, it,</HashLink> S muss mit ✨
         </span>
 
         <hr className="margin-y-20"/>
