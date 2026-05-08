@@ -53,9 +53,9 @@ export default function VerbsAddS(): React.JSX.Element {
 
 				<ul className="list-square">
 
-					<li>"He, she, it, S muss mit" (German for "He, she, it, S must come along").</li>
+					<li id="hesheit">"He, she, it, S muss mit" (German for "He, she, it, S must come along").</li>
 
-					<li>"He, she, or it? S goes with it!"</li>
+					<li id="hesheorit">"He, she, or it? S goes with it!"</li>
 
 				</ul>
 
