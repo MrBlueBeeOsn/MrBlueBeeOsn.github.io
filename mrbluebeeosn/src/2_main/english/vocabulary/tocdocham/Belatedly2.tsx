@@ -62,35 +62,45 @@ export default function Belatedly2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1"><strong>Belatedly</strong> realize: Nhận ra một cách muộn màng /bɪˈleɪtɪdli ˈriːəlaɪz/</li>
-        <li className="list-none margin-bottom-20">He <strong>belatedly</strong> realized he had forgotten his wallet. (Anh ấy muộn màng nhận ra mình đã quên ví.)</li>
+        <li value="1">Belatedly <strong>realized</strong> /ˈriːəlaɪzd/</li>
+        <li className="list-none">He ______ he had forgotten his wallet.</li>
+        <li className="list-none margin-bottom-20">Anh ấy muộn màng nhận ra mình đã quên ví.</li>
 
-        <li value="2"><strong>Belatedly</strong> apologize: Xin lỗi một cách muộn màng /bɪˈleɪtɪdli əˈpɒlədʒaɪz/</li>
-        <li className="list-none margin-bottom-20">She <strong>belatedly</strong> apologized for her rude behavior. (Cô ấy muộn màng xin lỗi vì hành vi thô lỗ của mình.)</li>
+        <li value="2">Belatedly <strong>apologized</strong> /əˈpɒlədʒaɪzd/</li>
+        <li className="list-none">She ______ for her rude behavior.</li>
+        <li className="list-none margin-bottom-20">Cô ấy muộn màng xin lỗi vì hành vi thô lỗ của mình.</li>
 
-        <li value="3"><strong>Belatedly</strong> arrive: Đến một cách muộn màng /bɪˈleɪtɪdli əˈraɪv/</li>
-        <li className="list-none margin-bottom-20">They <strong>belatedly</strong> arrived at the meeting due to traffic. (Họ đến cuộc họp một cách muộn màng do tắc đường.)</li>
+        <li value="3">Belatedly <strong>arrived</strong> /əˈraɪvd/</li>
+        <li className="list-none">They ______ at the meeting due to traffic.</li>
+        <li className="list-none margin-bottom-20">Họ đến cuộc họp một cách muộn màng do tắc đường.</li>
 
-        <li value="4"><strong>Belatedly</strong> send: Gửi một cách muộn màng /bɪˈleɪtɪdli sɛnd/</li>
-        <li className="list-none margin-bottom-20">He <strong>belatedly</strong> sent the birthday card, weeks after the actual date. (Anh ấy gửi thiệp sinh nhật một cách muộn màng, vài tuần sau ngày sinh nhật thật.)</li>
+        <li value="4">Belatedly <strong>sent</strong> /sɛnt/</li>
+        <li className="list-none">He ______ the birthday card, weeks after the actual date.</li>
+        <li className="list-none margin-bottom-20">Anh ấy gửi thiệp sinh nhật một cách muộn màng, vài tuần sau ngày sinh nhật thật.</li>
 
-        <li value="5"><strong>Belatedly</strong> respond: Trả lời một cách muộn màng /bɪˈleɪtɪdli rɪˈspɒnd/</li>
-        <li className="list-none margin-bottom-20">She <strong>belatedly</strong> responded to his email after a long delay. (Cô ấy trả lời email của anh ấy một cách muộn màng sau một thời gian dài trì hoãn.)</li>
+        <li value="5">Belatedly <strong>responded</strong> /rɪˈspɒndɪd/</li>
+        <li className="list-none">She ______ to his email after a long delay.</li>
+        <li className="list-none margin-bottom-20">Cô ấy trả lời email của anh ấy một cách muộn màng sau một thời gian dài trì hoãn.</li>
 
-        <li value="6"><strong>Belatedly</strong> congratulate: Chúc mừng một cách muộn màng /bɪˈleɪtɪdli kənˈɡrætjʊleɪt/</li>
-        <li className="list-none margin-bottom-20">They <strong>belatedly</strong> congratulated the new parents on the birth of their baby. (Họ muộn màng chúc mừng cặp vợ chồng mới sinh em bé.)</li>
+        <li value="6">Belatedly <strong>congratulated</strong> /kənˈɡrætjʊleɪtɪd/</li>
+        <li className="list-none">They ______ the new parents on the birth of their baby.</li>
+        <li className="list-none margin-bottom-20">Họ muộn màng chúc mừng cặp vợ chồng mới sinh em bé.</li>
 
-        <li value="7"><strong>Belatedly</strong> acknowledge: Thừa nhận một cách muộn màng /bɪˈleɪtɪdli əkˈnɒlɪdʒ/</li>
-        <li className="list-none margin-bottom-20">The company <strong>belatedly</strong> acknowledged the error in their product. (Công ty muộn màng thừa nhận lỗi trong sản phẩm của họ.)</li>
+        <li value="7">Belatedly <strong>acknowledged</strong> /əkˈnɒlɪdʒd/</li>
+        <li className="list-none">The company ______ the error in their product.</li>
+        <li className="list-none margin-bottom-20">Công ty muộn màng thừa nhận lỗi trong sản phẩm của họ.</li>
 
-        <li value="8"><strong>Belatedly</strong> discover: Phát hiện ra một cách muộn màng) /bɪˈleɪtɪdli dɪˈskʌvər/</li>
-        <li className="list-none margin-bottom-20">They <strong>belatedly</strong> discovered the missing documents. (Họ muộn màng phát hiện ra những tài liệu bị thiếu.)</li>
+        <li value="8">Belatedly <strong>discovered</strong> /dɪˈskʌvərd/</li>
+        <li className="list-none">They ______ the missing documents.</li>
+        <li className="list-none margin-bottom-20">Họ muộn màng phát hiện ra những tài liệu bị thiếu.</li>
 
-        <li value="9"><strong>Belatedly</strong> understand: Hiểu một cách muộn màng /bɪˈleɪtɪdli ʌndərˈstænd/</li>
-        <li className="list-none margin-bottom-20">He <strong>belatedly</strong> understood the meaning of her cryptic message. (Anh ấy muộn màng hiểu ra ý nghĩa của tin nhắn khó hiểu của cô ấy.)</li>
+        <li value="9">Belatedly <strong>understood</strong> /ʌndərˈstʊd/</li>
+        <li className="list-none">He ______ the meaning of her cryptic message.</li>
+        <li className="list-none margin-bottom-20">Anh ấy muộn màng hiểu ra ý nghĩa của tin nhắn khó hiểu của cô ấy.</li>
 
-        <li value="10"><strong>Belatedly</strong> offer: Đề nghị một cách muộn màng /bɪˈleɪtɪdli ˈɒfər/</li>
-        <li className="list-none margin-bottom-20">The company <strong>belatedly</strong> offered compensation to the affected customers. (Công ty muộn màng đề nghị bồi thường cho những khách hàng bị ảnh hưởng.)</li>
+        <li value="10">Belatedly <strong>offered</strong> /ˈɒfərd/</li>
+        <li className="list-none">The company ______ compensation to the affected customers.</li>
+        <li className="list-none margin-bottom-20">Công ty muộn màng đề nghị bồi thường cho những khách hàng bị ảnh hưởng.</li>
 
       </ol>
 

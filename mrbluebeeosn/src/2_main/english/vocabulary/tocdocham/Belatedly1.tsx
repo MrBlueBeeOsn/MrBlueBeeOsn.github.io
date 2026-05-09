@@ -63,11 +63,14 @@ export default function Belatedly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>He <strong>belatedly</strong> realized his mistake. (Anh ấy muộn màng nhận ra sai lầm của mình.)</li>
+          <li>He ______ realized his mistake.</li>
+          <li className="margin-bottom-20 list-none">Anh ấy muộn màng nhận ra sai lầm của mình.</li>
 
-          <li>The birthday card arrived <strong>belatedly</strong>. (Tấm thiệp sinh nhật đến muộn.)</li>
+          <li>The birthday card arrived ______.</li>
+          <li className="margin-bottom-20 list-none">Tấm thiệp sinh nhật đến muộn.</li>
 
-          <li>She <strong>belatedly</strong> apologized for her behavior. (Cô ấy muộn màng xin lỗi về hành vi của mình.)</li>
+          <li>She ______ apologized for her behavior.</li>
+          <li className="list-none">Cô ấy muộn màng xin lỗi về hành vi của mình.</li>
 
         </ul>
 
@@ -83,9 +86,12 @@ export default function Belatedly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Belated (adj): Muộn, chậm trễ /bɪˈleɪ.tɪd/</li>
-          <li className="list-none">He offered a belated apology. (Anh ấy đưa ra một lời xin lỗi muộn màng.)</li>
-          <li className="list-none">We received a belated invitation. (Chúng tôi nhận được một lời mời muộn.)</li>
+          <li>Belated (adj) /bɪˈleɪ.tɪd/</li>
+          <li className="list-none">He offered a ______ apology.</li>
+          <li className="margin-bottom-20 list-none">Anh ấy đưa ra một lời xin lỗi muộn màng.</li>
+
+          <li className="list-none">We received a ______ invitation.</li>
+          <li className="list-none">Chúng tôi nhận được một lời mời muộn.</li>
 
         </ul>
 
@@ -101,17 +107,21 @@ export default function Belatedly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Late: Muộn /leɪt/</li>
-          <li className="margin-bottom-20 list-none">He arrived late for the meeting. (Anh ấy đến muộn cho cuộc họp.)</li>
+          <li>Late /leɪt/</li>
+          <li className="list-none">He arrived ______ for the meeting.</li>
+          <li className="margin-bottom-20 list-none">Anh ấy đến muộn cho cuộc họp.</li>
 
-          <li>Tardily: Muộn, chậm chạp /ˈtɑːr.dɪ.li/</li>
-          <li className="margin-bottom-20 list-none">The train arrived tardily. (Chuyến tàu đến muộn.)</li>
+          <li>Tardily /ˈtɑːr.dɪ.li/</li>
+          <li className="list-none">The train arrived ______.</li>
+          <li className="margin-bottom-20 list-none">Chuyến tàu đến muộn.</li>
 
-          <li>Behind schedule: Chậm hơn lịch trình /bɪˈhaɪnd ˈskedʒ.uːl/</li>
-          <li className="margin-bottom-20 list-none">The project is running behind schedule. (Dự án đang bị chậm hơn lịch trình.)</li>
+          <li>Behind schedule /bɪˈhaɪnd ˈskedʒ.uːl/</li>
+          <li className="list-none">The project is running ______.</li>
+          <li className="margin-bottom-20 list-none">Dự án đang bị chậm hơn lịch trình.</li>
 
-          <li>Too late: Quá muộn /tuː leɪt/</li>
-          <li className="list-none">It was too late to apologize. (Đã quá muộn để xin lỗi.)</li>
+          <li>Too late /tuː leɪt/</li>
+          <li className="list-none">It was ______ to apologize.</li>
+          <li className="list-none">Đã quá muộn để xin lỗi.</li>
 
         </ul>
 
@@ -129,17 +139,21 @@ export default function Belatedly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Early: Sớm /ˈɜːr.li/</li>
-          <li className="margin-bottom-20 list-none">He arrived early for the appointment. (Anh ấy đến sớm cho cuộc hẹn.)</li>
+          <li>Early /ˈɜːr.li/</li>
+          <li className="list-none">He arrived ______ for the appointment.</li>
+          <li className="margin-bottom-20 list-none">Anh ấy đến sớm cho cuộc hẹn.</li>
 
-          <li>Promptly: Nhanh chóng, đúng giờ /ˈprɒmpt.li/</li>
-          <li className="margin-bottom-20 list-none">She replied promptly to the email. (Cô ấy trả lời email một cách nhanh chóng.)</li>
+          <li>Promptly /ˈprɒmpt.li/</li>
+          <li className="list-none">She replied ______ to the email.</li>
+          <li className="margin-bottom-20 list-none">Cô ấy trả lời email một cách nhanh chóng.</li>
 
-          <li>Punctually: Đúng giờ /ˈpʌŋk.tʃu.ə.li/</li>
-          <li className="margin-bottom-20 list-none">The meeting started punctually. (Cuộc họp bắt đầu đúng giờ.)</li>
+          <li>Punctually /ˈpʌŋk.tʃu.ə.li/</li>
+          <li className="list-none">The meeting started ______.</li>
+          <li className="margin-bottom-20 list-none">Cuộc họp bắt đầu đúng giờ.</li>
 
-          <li>Immediately: Ngay lập tức, tức thì /ɪˈmiː.di.ət.li/</li>
-          <li className="list-none">Please report any issues immediately. (Vui lòng báo cáo mọi vấn đề ngay lập tức.)</li>
+          <li>Immediately /ɪˈmiː.di.ət.li/</li>
+          <li className="list-none">Please report any issues ______.</li>
+          <li className="list-none">Vui lòng báo cáo mọi vấn đề ngay lập tức.</li>
 
         </ul>
       
@@ -164,14 +178,14 @@ export default function Belatedly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>The birthday gift arrived <strong>belatedly</strong>.</li>
-          <li className="margin-bottom-20 list-none">(Món quà sinh nhật đến muộn.)</li>
+          <li>The birthday gift arrived ______.</li>
+          <li className="margin-bottom-20 list-none">Món quà sinh nhật đến muộn.</li>
 
-          <li>He <strong>belatedly</strong> realized his mistake after the consequences.</li>
-          <li className="margin-bottom-20 list-none">(Anh ấy muộn màng nhận ra lỗi lầm sau hậu quả.)</li>
+          <li>He ______ realized his mistake after the consequences.</li>
+          <li className="margin-bottom-20 list-none">Anh ấy muộn màng nhận ra lỗi lầm sau hậu quả.</li>
 
-          <li>The apology was offered <strong>belatedly</strong> to mend the relationship.</li>
-          <li className="list-none">(Lời xin lỗi được đưa ra muộn màng để hàn gắn mối quan hệ.)</li>
+          <li>The apology was offered ______ to mend the relationship.</li>
+          <li className="list-none">Lời xin lỗi được đưa ra muộn màng để hàn gắn mối quan hệ.</li>
 
         </ul>
 
@@ -190,8 +204,8 @@ export default function Belatedly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>The fire department arrived <strong>belatedly</strong> at the scene.</li>
-          <li className="list-none">(Sở cứu hỏa đến hiện trường một cách muộn màng.)</li>
+          <li>The fire department arrived ______ at the scene.</li>
+          <li className="list-none">Sở cứu hỏa đến hiện trường một cách muộn màng.</li>
 
         </ul>
 
@@ -206,15 +220,17 @@ export default function Belatedly1(): React.JSX.Element {
         <strong>&nbsp;thường xuyên</strong>:
       </p>
 
-      <p className="text-indent-whole">Chú ý đến những tình huống có sự chậm trễ và cố gắng sử dụng từ này để mô tả chúng.</p>
+      <p className="text-indent-whole margin-bottom-20">Chú ý đến những tình huống có sự chậm trễ và cố gắng sử dụng từ này để mô tả chúng.</p>
 
         <p className="text-indent-whole">Ví dụ để so sánh (sự khác biệt):</p>
 
           <ol>
 
-            <li>He realized his mistake. (Anh ấy nhận ra sai lầm của mình.)</li>
+            <li>He realized his mistake.</li>
+            <li className="list-none margin-bottom-20">Anh ấy nhận ra sai lầm của mình.</li>
 
-            <li className="margin-bottom-20">He <strong>belatedly</strong> realized his mistake. (Anh ấy muộn màng nhận ra sai lầm của mình.)</li>
+            <li value="2">He ______ realized his mistake.</li>
+            <li className="list-none margin-bottom-20">Anh ấy muộn màng nhận ra sai lầm của mình.</li>
 
           </ol>
 
@@ -226,9 +242,11 @@ export default function Belatedly1(): React.JSX.Element {
 
          <ol>
 
-            <li>The birthday card arrived. (Tấm thiệp sinh nhật đã đến.)</li>
+            <li>The birthday card arrived.</li>
+            <li className="list-none margin-bottom-20">Tấm thiệp sinh nhật đã đến.</li>
 
-            <li className="margin-bottom-20">The birthday card arrived <strong>belatedly</strong>. (Tấm thiệp sinh nhật đến muộn.)</li>
+            <li value="2">The birthday card arrived ______.</li>
+            <li className="list-none margin-bottom-20">Tấm thiệp sinh nhật đến muộn.</li>
 
           </ol>
 
