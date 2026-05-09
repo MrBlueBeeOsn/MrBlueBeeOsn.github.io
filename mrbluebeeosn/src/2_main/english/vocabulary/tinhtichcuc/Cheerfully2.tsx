@@ -62,35 +62,45 @@ export default function Cheerfully2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1"><strong>Cheerfully</strong> agreed: Đồng ý một cách vui vẻ /ˈtʃɪrfəli əˈɡriːd/</li>
-        <li className="list-none margin-bottom-20">She <strong>cheerfully</strong> agreed to help with the party. (Cô ấy vui vẻ đồng ý giúp đỡ tổ chức bữa tiệc.)</li>
+        <li value="1">Cheerfully <strong>agreed</strong> /əˈɡriːd/</li>
+        <li className="list-none">She ______ to help with the party.</li>
+        <li className="list-none margin-bottom-20">Cô ấy vui vẻ đồng ý giúp đỡ tổ chức bữa tiệc.</li>
 
-        <li value="2"><strong>Cheerfully</strong> waved: Vẫy tay một cách vui vẻ /ˈtʃɪrfəli weɪvd/</li>
-        <li className="list-none margin-bottom-20">The children <strong>cheerfully</strong> waved goodbye to the bus. (Những đứa trẻ vui vẻ vẫy tay chào tạm biệt xe buýt.)</li>
+        <li value="2">Cheerfully <strong>waved</strong> /weɪvd/</li>
+        <li className="list-none">The children ______ goodbye to the bus.</li>
+        <li className="list-none margin-bottom-20">Những đứa trẻ vui vẻ vẫy tay chào tạm biệt xe buýt.</li>
 
-        <li value="3"><strong>Cheerfully</strong> offered: Tình nguyện một cách vui vẻ /ˈtʃɪrfəli ˈɒfərd/</li>
-        <li className="list-none margin-bottom-20">He <strong>cheerfully</strong> offered to carry the heavy boxes. (Anh ấy vui vẻ tình nguyện mang những chiếc hộp nặng.)</li>
+        <li value="3">Cheerfully <strong>offered</strong> /ˈɒfərd/</li>
+        <li className="list-none">He ______ to carry the heavy boxes.</li>
+        <li className="list-none margin-bottom-20">Anh ấy vui vẻ tình nguyện mang những chiếc hộp nặng.</li>
 
-        <li value="4"><strong>Cheerfully</strong> complied: Tuân thủ một cách vui vẻ /ˈtʃɪrfəli kəmˈplaɪd/</li>
-        <li className="list-none margin-bottom-20">She <strong>cheerfully</strong> complied with his request. (Cô ấy vui vẻ tuân theo yêu cầu của anh ấy.)</li>
+        <li value="4">Cheerfully <strong>complied</strong> /kəmˈplaɪd/</li>
+        <li className="list-none">She ______ with his request.</li>
+        <li className="list-none margin-bottom-20">Cô ấy vui vẻ tuân theo yêu cầu của anh ấy.</li>
 
-        <li value="5"><strong>Cheerfully</strong> accepted: Chấp nhận một cách vui vẻ /ˈtʃɪrfəli əkˈsɛptɪd/</li>
-        <li className="list-none margin-bottom-20">He <strong>cheerfully</strong> accepted the invitation. (Anh ấy vui vẻ chấp nhận lời mời.)</li>
+        <li value="5">Cheerfully <strong>accepted</strong> /əkˈsɛptɪd/</li>
+        <li className="list-none">He ______ the invitation.</li>
+        <li className="list-none margin-bottom-20">Anh ấy vui vẻ chấp nhận lời mời.</li>
 
-        <li value="6"><strong>Cheerfully</strong> participated: Tham gia một cách vui vẻ /ˈtʃɪrfəli pɑːˈtɪsɪpeɪtɪd/</li>
-        <li className="list-none margin-bottom-20">The students <strong>cheerfully</strong> participated in the game. (Học sinh vui vẻ tham gia trò chơi.)</li>
+        <li value="6">Cheerfully <strong>participated</strong> /pɑːˈtɪsɪpeɪtɪd/</li>
+        <li className="list-none">The students ______ in the game.</li>
+        <li className="list-none margin-bottom-20">Học sinh vui vẻ tham gia trò chơi.</li>
 
-        <li value="7"><strong>Cheerfully</strong> sang: Hát một cách vui vẻ /ˈtʃɪrfəli sæŋ/</li>
-        <li className="list-none margin-bottom-20">The birds <strong>cheerfully</strong> sang in the morning. (Những chú chim vui vẻ hót líu lo vào buổi sáng.)</li>
+        <li value="7">Cheerfully <strong>sang</strong> /sæŋ/</li>
+        <li className="list-none">The birds ______ in the morning.</li>
+        <li className="list-none margin-bottom-20">Những chú chim vui vẻ hót líu lo vào buổi sáng.</li>
 
-        <li value="8"><strong>Cheerfully</strong> danced: Nhảy một cách vui vẻ /ˈtʃɪrfəli dɑːnst/</li>
-        <li className="list-none margin-bottom-20">The children <strong>cheerfully</strong> danced to the music. (Những đứa trẻ vui vẻ nhảy múa theo nhạc.)</li>
+        <li value="8">Cheerfully <strong>danced</strong> /dɑːnst/</li>
+        <li className="list-none">The children ______ to the music.</li>
+        <li className="list-none margin-bottom-20">Những đứa trẻ vui vẻ nhảy múa theo nhạc.</li>
 
-        <li value="9"><strong>Cheerfully</strong> greeted: Chào hỏi một cách vui vẻ /ˈtʃɪrfəli ˈɡriːtɪd/</li>
-        <li className="list-none margin-bottom-20">She <strong>cheerfully</strong> greeted her friends at the door. (Cô ấy vui vẻ chào đón bạn bè ở cửa.)</li>
+        <li value="9">Cheerfully <strong>greeted</strong> /ˈɡriːtɪd/</li>
+        <li className="list-none">She ______ her friends at the door.</li>
+        <li className="list-none margin-bottom-20">Cô ấy vui vẻ chào đón bạn bè ở cửa.</li>
 
-        <li value="10"><strong>Cheerfully</strong> smiled: Cười một cách tươi tắn /ˈtʃɪrfəli smaɪld/</li>
-        <li className="list-none margin-bottom-20">He <strong>cheerfully</strong> smiled at her. (Anh ấy cười tươi với cô ấy.)</li>
+        <li value="10">Cheerfully <strong>smiled</strong> /smaɪld/</li>
+        <li className="list-none">He ______ at her.</li>
+        <li className="list-none margin-bottom-20">Anh ấy cười tươi với cô ấy.</li>
 
       </ol>
 
