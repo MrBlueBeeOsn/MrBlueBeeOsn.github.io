@@ -63,11 +63,14 @@ export default function Cautiously1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>He <strong>cautiously</strong> approached the stray dog. (Anh ấy thận trọng tiếp cận con chó lạc.)</li>
+          <li>He ______ approached the stray dog.</li>
+          <li className="margin-bottom-20 list-none">Anh ấy thận trọng tiếp cận con chó lạc.</li>
 
-          <li>She <strong>cautiously</strong> opened the door, not knowing who was on the other side. (Cô ấy cẩn thận mở cửa, không biết ai ở bên kia.)</li>
+          <li>She ______ opened the door, not knowing who was on the other side.</li>
+          <li className="margin-bottom-20 list-none">Cô ấy cẩn thận mở cửa, không biết ai ở bên kia.</li>
 
-          <li>The company is <strong>cautiously</strong> optimistic about the new product launch. (Công ty thận trọng lạc quan về việc ra mắt sản phẩm mới.)</li>
+          <li>The company is ______ optimistic about the new product launch.</li>
+          <li className="list-none">Công ty thận trọng lạc quan về việc ra mắt sản phẩm mới.</li>
 
         </ul>
 
@@ -83,13 +86,20 @@ export default function Cautiously1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Cautious (adj): Thận trọng, cẩn thận, dè dặt /ˈkɔː.ʃəs/</li>
-          <li className="list-none">Be cautious when crossing the street. (Hãy thận trọng khi băng qua đường.)</li>
-          <li className="margin-bottom-20 list-none">She is a cautious investor. (Cô ấy là một nhà đầu tư thận trọng.)</li>
+          <li>Cautious (adj) /ˈkɔː.ʃəs/</li>
+          <li className="list-none">Be ______ when crossing the street.</li>
+          <li className="margin-bottom-20 list-none">Hãy thận trọng khi băng qua đường.</li>
 
-          <li>Caution (n, v): Sự thận trọng, lời cảnh báo; cảnh báo /ˈkɔː.ʃən/</li>
-          <li className="list-none">(n): Exercise caution when handling chemicals. (Hãy thận trọng khi xử lý hóa chất.)</li>
-          <li className="list-none">(v): The police cautioned him about his speed. (Cảnh sát đã cảnh báo anh ấy về tốc độ lái xe.)</li>
+          <li className="list-none">She is a ______ investor.</li>
+          <li className="margin-bottom-20 list-none">Cô ấy là một nhà đầu tư thận trọng.</li>
+
+          <li>Caution (n) /ˈkɔː.ʃən/</li>
+          <li className="list-none">Exercise ______ when handling chemicals.</li>
+          <li className="margin-bottom-20 list-none">Hãy thận trọng khi xử lý hóa chất.</li>
+
+          <li>Cautioned (v) /ˈkɔː.ʃən/</li>
+          <li className="list-none">The police ______ him about his speed.</li>
+          <li className="list-none">Cảnh sát đã cảnh báo anh ấy về tốc độ lái xe.</li>
 
         </ul>
 
@@ -105,17 +115,21 @@ export default function Cautiously1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li><Link to="/vocabulary/carefully-1">Carefully</Link>: Một cách cẩn thận, kỹ lưỡng /ˈkeə.fəl.i/</li>
-          <li className="margin-bottom-20 list-none">Read the instructions carefully. (Hãy đọc kỹ hướng dẫn.)</li>
+          <li><Link to="/vocabulary/carefully-1">Carefully</Link> /ˈkeə.fəl.i/</li>
+          <li className="list-none">Read the instructions ______.</li>
+          <li className="margin-bottom-20 list-none">Hãy đọc kỹ hướng dẫn.</li>
 
-          <li>Prudently: Một cách khôn ngoan, thận trọng /ˈpruː.dənt.li/</li>
-          <li className="margin-bottom-20 list-none">He invested his money prudently. (Anh ấy đã đầu tư tiền một cách khôn ngoan.)</li>
+          <li>Prudently /ˈpruː.dənt.li/</li>
+          <li className="list-none">He invested his money ______.</li>
+          <li className="margin-bottom-20 list-none">Anh ấy đã đầu tư tiền một cách khôn ngoan.</li>
 
-          <li>Warily: Một cách cảnh giác, nghi ngờ /ˈweə.rə.li/</li>
-          <li className="margin-bottom-20 list-none">She eyed the stranger warily. (Cô ấy nhìn người lạ một cách cảnh giác.)</li>
+          <li>Warily /ˈweə.rə.li/</li>
+          <li className="list-none">She eyed the stranger ______.</li>
+          <li className="margin-bottom-20 list-none">Cô ấy nhìn người lạ một cách cảnh giác.</li>
 
-          <li>Circumspectly: Một cách thận trọng, xem xét kỹ lưỡng mọi khía cạnh /ˈsɜːr.kəm.spekt.li/</li>
-          <li className="list-none">He spoke circumspectly about the sensitive issue. (Anh ấy đã nói một cách thận trọng về vấn đề nhạy cảm.)</li>
+          <li>Circumspectly /ˈsɜːr.kəm.spekt.li/</li>
+          <li className="list-none">He spoke ______ about the sensitive issue.</li>
+          <li className="list-none">Anh ấy đã nói một cách thận trọng về vấn đề nhạy cảm.</li>
 
         </ul>
 
@@ -133,17 +147,21 @@ export default function Cautiously1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Carelessly: Một cách bất cẩn, cẩu thả /ˈkeə.ləs.li/</li>
-          <li className="margin-bottom-20 list-none">He carelessly broke the vase. (Anh ấy đã bất cẩn làm vỡ chiếc bình.)</li>
+          <li>Carelessly /ˈkeə.ləs.li/</li>
+          <li className="list-none">He ______ broke the vase.</li>
+          <li className="margin-bottom-20 list-none">Anh ấy đã bất cẩn làm vỡ chiếc bình.</li>
 
-          <li>Recklessly: Một cách liều lĩnh, thiếu thận trọng /ˈrek.ləs.li/</li>
-          <li className="margin-bottom-20 list-none">He drove recklessly through the city. (Anh ấy đã lái xe liều lĩnh qua thành phố.)</li>
+          <li>Recklessly /ˈrek.ləs.li/</li>
+          <li className="list-none">He drove ______ through the city.</li>
+          <li className="margin-bottom-20 list-none">Anh ấy đã lái xe liều lĩnh qua thành phố.</li>
 
-          <li>Impulsively: Một cách bốc đồng, hấp tấp /ɪmˈpʌl.sɪv.li/</li>
-          <li className="margin-bottom-20 list-none">She bought the dress impulsively. (Cô ấy đã mua chiếc váy một cách bốc đồng.)</li>
+          <li>Impulsively /ɪmˈpʌl.sɪv.li/</li>
+          <li className="list-none">She bought the dress ______.</li>
+          <li className="margin-bottom-20 list-none">Cô ấy đã mua chiếc váy một cách bốc đồng.</li>
 
-          <li>Rashly: Một cách thiếu suy nghĩ, vội vàng /ˈræʃ.li/</li>
-          <li className="list-none">He made a rash decision. (Anh ấy đã đưa ra một quyết định vội vàng.)</li>
+          <li>Rashly /ˈræʃ.li/</li>
+          <li className="list-none">He acted ______.</li>
+          <li className="list-none">Anh ấy đã hành động một cách hấp tấp.</li>
 
         </ul>
       
@@ -168,14 +186,14 @@ export default function Cautiously1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>He walked <strong>cautiously</strong> on the thin ice.</li>
-          <li className="margin-bottom-20 list-none">(Anh ấy bước đi thận trọng trên lớp băng mỏng.)</li>
+          <li>He walked ______ on the thin ice.</li>
+          <li className="margin-bottom-20 list-none">Anh ấy bước đi thận trọng trên lớp băng mỏng.</li>
 
-          <li>The cat moved <strong>cautiously</strong> as it stalked its prey.</li>
-          <li className="margin-bottom-20 list-none">(Con mèo rình mồi một cách thận trọng.)</li>
+          <li>The cat moved ______ as it stalked its prey.</li>
+          <li className="margin-bottom-20 list-none">Con mèo rình mồi một cách thận trọng.</li>
 
-          <li>She opened the strange package <strong>cautiously</strong>.</li>
-          <li className="list-none">(Cô ấy mở gói hàng lạ một cách thận trọng.)</li>
+          <li>She opened the strange package ______.</li>
+          <li className="list-none">Cô ấy mở gói hàng lạ một cách thận trọng.</li>
 
         </ul>
 
@@ -194,8 +212,8 @@ export default function Cautiously1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Approach a wild animal <strong>cautiously</strong>.</li>
-          <li className="list-none">(Hãy tiếp cận động vật hoang dã một cách thận trọng.)</li>
+          <li>Approach a wild animal ______.</li>
+          <li className="list-none">Hãy tiếp cận động vật hoang dã một cách thận trọng.</li>
 
         </ul>
 
@@ -210,15 +228,17 @@ export default function Cautiously1(): React.JSX.Element {
         <strong>&nbsp;thường xuyên</strong>:
       </p>
 
-      <p className="text-indent-whole">Chú ý đến những hành động đòi hỏi sự cẩn thận trong cuộc sống hàng ngày và cố gắng sử dụng từ này để mô tả chúng.</p>
+      <p className="text-indent-whole margin-bottom-20">Chú ý đến những hành động đòi hỏi sự cẩn thận trong cuộc sống hàng ngày và cố gắng sử dụng từ này để mô tả chúng.</p>
 
         <p className="text-indent-whole">Ví dụ để so sánh (sự khác biệt):</p>
 
           <ol>
 
-            <li>He approached the dog. (Anh ấy đã tiếp cận con chó.)</li>
+            <li>He approached the dog.</li>
+            <li className="list-none margin-bottom-20">Anh ấy đã tiếp cận con chó.</li>
 
-            <li className="margin-bottom-20">He <strong>cautiously</strong> approached the stray dog. (Anh ấy thận trọng tiếp cận con chó lạc.)</li>
+            <li value="2">He ______ approached the stray dog.</li>
+            <li className="list-none margin-bottom-20">Anh ấy thận trọng tiếp cận con chó lạc.</li>
 
           </ol>
 
@@ -230,9 +250,11 @@ export default function Cautiously1(): React.JSX.Element {
 
           <ol>
 
-            <li>She opened the door. (Cô ấy đã mở cửa.)</li>
+            <li>She opened the door.</li>
+            <li className="list-none margin-bottom-20">Cô ấy đã mở cửa.</li>
 
-            <li className="margin-bottom-20">She <strong>cautiously</strong> opened the door, not knowing who was on the other side. (Cô ấy cẩn thận mở cửa, không biết ai ở bên kia.)</li>
+            <li value="2">She ______ opened the door, not knowing who was on the other side.</li>
+            <li className="list-none margin-bottom-20">Cô ấy cẩn thận mở cửa, không biết ai ở bên kia.</li>
 
           </ol>
 
@@ -244,9 +266,11 @@ export default function Cautiously1(): React.JSX.Element {
 
           <ol>
 
-            <li>The company is optimistic about the new product launch. (Công ty lạc quan về việc ra mắt sản phẩm mới.)</li>
+            <li>The company is optimistic about the new product launch.</li>
+            <li className="list-none margin-bottom-20">Công ty lạc quan về việc ra mắt sản phẩm mới.</li>
 
-            <li className="margin-bottom-20">The company is <strong>cautiously</strong> optimistic about the new product launch. (Công ty thận trọng lạc quan về việc ra mắt sản phẩm mới.)</li>
+            <li value="2">The company is ______ optimistic about the new product launch.</li>
+            <li className="list-none margin-bottom-20">Công ty thận trọng lạc quan về việc ra mắt sản phẩm mới.</li>
 
           </ol>
 

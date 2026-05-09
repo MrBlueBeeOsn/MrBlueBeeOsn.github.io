@@ -62,35 +62,45 @@ export default function Cautiously2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1"><strong>Cautiously</strong> approach: Tiếp cận một cách thận trọng /ˈkɔːʃəsli əˈproʊtʃ/</li>
-        <li className="list-none margin-bottom-20">The cat <strong>cautiously</strong> approached the unfamiliar object. (Con mèo thận trọng tiếp cận vật thể lạ.)</li>
+        <li value="1">Cautiously <strong>approached</strong> /əˈproʊtʃt/</li>
+        <li className="list-none">The cat ______ the unfamiliar object.</li>
+        <li className="list-none margin-bottom-20">Con mèo thận trọng tiếp cận vật thể lạ.</li>
 
-        <li value="2"><strong>Cautiously</strong> move: Di chuyển một cách thận trọng /ˈkɔːʃəsli muːv/</li>
-        <li className="list-none margin-bottom-20">He <strong>cautiously</strong> moved through the dark room, feeling for obstacles. (Anh ấy thận trọng di chuyển trong căn phòng tối, dò dẫm tìm vật cản.)</li>
+        <li value="2">Cautiously <strong>moved</strong> /muːvd/</li>
+        <li className="list-none">He ______ through the dark room, feeling for obstacles.</li>
+        <li className="list-none margin-bottom-20">Anh ấy thận trọng di chuyển trong căn phòng tối, dò dẫm tìm vật cản.</li>
 
-        <li value="3"><strong>Cautiously</strong> speak: Nói một cách thận trọng /ˈkɔːʃəsli spiːk/</li>
-        <li className="list-none margin-bottom-20">She <strong>cautiously</strong> spoke about the sensitive topic. (Cô ấy thận trọng nói về chủ đề nhạy cảm.)</li>
+        <li value="3">Cautiously <strong>spoke</strong> /spəʊk/</li>
+        <li className="list-none">She ______ about the sensitive topic.</li>
+        <li className="list-none margin-bottom-20">Cô ấy thận trọng nói về chủ đề nhạy cảm.</li>
 
-        <li value="4"><strong>Cautiously</strong> examine: Kiểm tra một cách thận trọng /ˈkɔːʃəsli ɪɡˈzæmɪn/</li>
-        <li className="list-none margin-bottom-20">The scientist <strong>cautiously</strong> examined the unknown substance. (Nhà khoa học thận trọng kiểm tra chất lạ.)</li>
+        <li value="4">Cautiously <strong>examined</strong> /ɪɡˈzæmɪnd/</li>
+        <li className="list-none">The scientist ______ the unknown substance.</li>
+        <li className="list-none margin-bottom-20">Nhà khoa học thận trọng kiểm tra chất lạ.</li>
 
-        <li value="5"><strong>Cautiously</strong> proceed: Tiến hành một cách thận trọng /ˈkɔːʃəsli prəˈsiːd/</li>
-        <li className="list-none margin-bottom-20">They <strong>cautiously</strong> proceeded with the negotiations. (Họ thận trọng tiến hành các cuộc đàm phán.)</li>
+        <li value="5">Cautiously <strong>proceeded</strong> /prəˈsiːdɪd/</li>
+        <li className="list-none">They ______ with the negotiations.</li>
+        <li className="list-none margin-bottom-20">Họ thận trọng tiến hành các cuộc đàm phán.</li>
 
-        <li value="6"><strong>Cautiously</strong> invest: Đầu tư một cách thận trọng /ˈkɔːʃəsli ɪnˈvɛst/</li>
-        <li className="list-none margin-bottom-20">He <strong>cautiously</strong> invested a small portion of his savings. (Anh ấy thận trọng đầu tư một phần nhỏ số tiền tiết kiệm của mình.)</li>
+        <li value="6">Cautiously <strong>invested</strong> /ɪnˈvɛstɪd/</li>
+        <li className="list-none">He ______ a small portion of his savings.</li>
+        <li className="list-none margin-bottom-20">Anh ấy thận trọng đầu tư một phần nhỏ số tiền tiết kiệm của mình.</li>
 
-        <li value="7"><strong>Cautiously</strong> approach the edge: Tiếp cận mép một cách thận trọng /ˈkɔːʃəsli əˈproʊtʃ ðə ɛdʒ/</li>
-        <li className="list-none margin-bottom-20">The child <strong>cautiously</strong> approached the edge of the cliff. (Đứa trẻ thận trọng tiếp cận mép vách đá.)</li>
+        <li value="7">Cautiously <strong>approached the edge</strong> /əˈproʊtʃt ðə ɛdʒ/</li>
+        <li className="list-none">The child ______ of the cliff.</li>
+        <li className="list-none margin-bottom-20">Đứa trẻ thận trọng tiếp cận mép vách đá.</li>
 
-        <li value="8"><strong>Cautiously</strong> open: Mở một cách thận trọng /ˈkɔːʃəsli ˈoʊpən/</li>
-        <li className="list-none margin-bottom-20">She <strong>cautiously</strong> opened the creaking door. (Cô ấy thận trọng mở cánh cửa kêu cót két.)</li>
+        <li value="8">Cautiously <strong>opened</strong> /ˈoʊpənd/</li>
+        <li className="list-none">She ______ the creaking door.</li>
+        <li className="list-none margin-bottom-20">Cô ấy thận trọng mở cánh cửa kêu cót két.</li>
 
-        <li value="9"><strong>Cautiously</strong> taste: Nếm một cách thận trọng /ˈkɔːʃəsli teɪst/</li>
-        <li className="list-none margin-bottom-20">He <strong>cautiously</strong> tasted the unfamiliar dish. (Anh ấy thận trọng nếm món ăn lạ.)</li>
+        <li value="9">Cautiously <strong>tasted</strong> /teɪstɪd/</li>
+        <li className="list-none">He ______ the unfamiliar dish.</li>
+        <li className="list-none margin-bottom-20">Anh ấy thận trọng nếm món ăn lạ.</li>
 
-        <li value="10"><strong>Cautiously</strong> agree: Đồng ý một cách thận trọng /ˈkɔːʃəsli əˈɡriː/</li>
-        <li className="list-none margin-bottom-20">They <strong>cautiously</strong> agreed to the proposal, with several conditions. (Họ thận trọng đồng ý với đề xuất, kèm theo một vài điều kiện.)</li>
+        <li value="10">Cautiously <strong>agreed</strong> /əˈɡriːd/</li>
+        <li className="list-none">They ______ to the proposal, with several conditions.</li>
+        <li className="list-none margin-bottom-20">Họ thận trọng đồng ý với đề xuất, kèm theo một vài điều kiện.</li>
 
       </ol>
 
