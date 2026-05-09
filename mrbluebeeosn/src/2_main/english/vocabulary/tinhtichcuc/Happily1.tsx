@@ -63,9 +63,11 @@ export default function Happily1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>They lived <strong>happily</strong> ever after. (Họ sống hạnh phúc mãi mãi.)</li>
+          <li>They lived ______ ever after.</li>
+          <li className="margin-bottom-20 list-none">Họ sống hạnh phúc mãi mãi.</li>
 
-          <li>She smiled <strong>happily</strong>. (Cô ấy cười một cách hạnh phúc.)</li>
+          <li>She smiled ______.</li>
+          <li className="list-none">Cô ấy cười một cách hạnh phúc.</li>
 
         </ul>
 
@@ -81,11 +83,13 @@ export default function Happily1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Happy (adj): hạnh phúc /ˈhæpi/</li>
-          <li className="margin-bottom-20 list-none">I am very happy to see you. (Tôi rất vui khi gặp bạn.)</li>
+          <li>Happy (adj) /ˈhæpi/</li>
+          <li className="list-none">I am very ______ to see you.</li>
+          <li className="margin-bottom-20 list-none">Tôi rất vui khi gặp bạn.</li>
 
-          <li>Happiness (n): hạnh phúc /ˈhæpinəs/</li>
-          <li className="list-none">Happiness is the key to a good life. (Hạnh phúc là chìa khóa cho một cuộc sống tốt đẹp.)</li>
+          <li>Happiness (n) /ˈhæpinəs/</li>
+          <li className="list-none">______ is the key to a good life.</li>
+          <li className="list-none">Hạnh phúc là chìa khóa cho một cuộc sống tốt đẹp.</li>
 
         </ul>
 
@@ -101,11 +105,13 @@ export default function Happily1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li><Link to="/vocabulary/joyfully-1">Joyfully</Link>: Một cách vui mừng /ˈdʒɔɪfəli/</li>
-          <li className="margin-bottom-20 list-none">The children played joyfully. (Những đứa trẻ chơi một cách vui mừng.)</li>
+          <li><Link to="/vocabulary/joyfully-1">Joyfully</Link> /ˈdʒɔɪfəli/</li>
+          <li className="list-none">The children played ______.</li>
+          <li className="margin-bottom-20 list-none">Những đứa trẻ chơi một cách vui mừng.</li>
 
-          <li>Gladly: Một cách vui vẻ /ˈɡlædli/</li>
-          <li className="list-none">I will gladly help you. (Tôi rất vui lòng giúp bạn.)</li>
+          <li>Gladly /ˈɡlædli/</li>
+          <li className="list-none">I will ______ help you.</li>
+          <li className="list-none">Tôi rất vui lòng giúp bạn.</li>
 
         </ul>
 
@@ -123,11 +129,13 @@ export default function Happily1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Sadly: Một cách buồn bã /ˈsædli/</li>
-          <li className="margin-bottom-20 list-none">Sadly, he lost his job. (Buồn thay, anh ấy mất việc.)</li>
+          <li>Sadly /ˈsædli/</li>
+          <li className="list-none">______, he lost his job.</li>
+          <li className="margin-bottom-20 list-none">Buồn thay, anh ấy mất việc.</li>
 
-          <li>Unhappily: Một cách bất hạnh /ʌnˈhæpɪli/</li>
-          <li className="list-none">She lived unhappily ever after. (Cô ấy sống bất hạnh mãi mãi.)</li>
+          <li>Unhappily /ʌnˈhæpɪli/</li>
+          <li className="list-none">She lived ______ ever after.</li>
+          <li className="list-none">Cô ấy sống bất hạnh mãi mãi.</li>
 
         </ul>
       
@@ -152,8 +160,8 @@ export default function Happily1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>She is <strong>happily</strong> cuddling a puppy.</li>
-          <li className="list-none">(Cô ấy đang ôm một chú chó con một cách hạnh phúc.)</li>
+          <li>She is ______ cuddling a puppy.</li>
+          <li className="list-none">Cô ấy đang ôm một chú chó con một cách hạnh phúc.</li>
 
         </ul>
 
@@ -172,8 +180,8 @@ export default function Happily1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>She <strong>happily</strong> graduated from university.</li>
-          <li className="list-none">(Cô ấy đã tốt nghiệp đại học một cách vui vẻ.)</li>
+          <li>She ______ graduated from university.</li>
+          <li className="list-none">Cô ấy đã tốt nghiệp đại học một cách vui vẻ.</li>
 
         </ul>
 
@@ -188,15 +196,17 @@ export default function Happily1(): React.JSX.Element {
         <strong>&nbsp;thường xuyên</strong>:
       </p>
 
-      <p className="text-indent-whole">Thường xuyên sử dụng từ này trong các cuộc hội thoại và bài viết.</p>
+      <p className="text-indent-whole margin-bottom-20">Thường xuyên sử dụng từ này trong các cuộc hội thoại và bài viết.</p>
 
         <p className="text-indent-whole">Ví dụ để so sánh (sự khác biệt):</p>
 
           <ol>
 
-            <li>She went to work. (Cô ấy đi làm.)</li>
+            <li>She went to work.</li>
+            <li className="list-none margin-bottom-20">Cô ấy đi làm.</li>
 
-            <li className="margin-bottom-20">She went to work <strong>happily</strong>. (Cô ấy đi làm một cách vui vẻ.)</li>
+            <li value="2">She went to work ______.</li>
+            <li className="list-none margin-bottom-20">Cô ấy đi làm một cách vui vẻ.</li>
 
           </ol>
 

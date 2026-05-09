@@ -62,35 +62,45 @@ export default function Happily2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1"><strong>Happily</strong> ever after: Và họ sống hạnh phúc mãi mãi /ˈhæpəli ˈevər ˈɑːftər/</li>
-        <li className="list-none margin-bottom-20">They lived <strong>happily</strong> ever after. (Và họ sống hạnh phúc mãi mãi.)</li>
+        <li value="1">Happily <strong>ever after</strong> /ˈevər ˈɑːftər/</li>
+        <li className="list-none">They lived ______.</li>
+        <li className="list-none margin-bottom-20">Và họ sống hạnh phúc mãi mãi.</li>
 
-        <li value="2"><strong>Happily</strong> married: Kết hôn hạnh phúc /ˈhæpəli ˈmærɪd/</li>
-        <li className="list-none margin-bottom-20">They have been <strong>happily</strong> married for 20 years. (Họ đã kết hôn hạnh phúc được 20 năm.)</li>
+        <li value="2">Happily <strong>married</strong> /ˈmærɪd/</li>
+        <li className="list-none">They have been ______ for 20 years.</li>
+        <li className="list-none margin-bottom-20">Họ đã kết hôn hạnh phúc được 20 năm.</li>
 
-        <li value="3"><strong>Happily</strong> surprised: Vui mừng bất ngờ /ˈhæpəli səˈpraɪzd/</li>
-        <li className="list-none margin-bottom-20">She was <strong>happily</strong> surprised to see him. (Cô ấy rất vui mừng khi gặp anh ấy.)</li>
+        <li value="3">Happily <strong>surprised</strong> /səˈpraɪzd/</li>
+        <li className="list-none">She was ______ to see him.</li>
+        <li className="list-none margin-bottom-20">Cô ấy rất vui mừng khi gặp anh ấy.</li>
 
-        <li value="4"><strong>Happily</strong> retired: Vui vẻ nghỉ hưu /ˈhæpəli rɪˈtaɪərd/</li>
-        <li className="list-none margin-bottom-20">My grandfather is <strong>happily</strong> retired and enjoys gardening. (Ông nội tôi đã vui vẻ nghỉ hưu và thích làm vườn.)</li>
+        <li value="4">Happily <strong>retired</strong> /rɪˈtaɪərd/</li>
+        <li className="list-none">My grandfather is ______ and enjoys gardening.</li>
+        <li className="list-none margin-bottom-20">Ông nội tôi đã vui vẻ nghỉ hưu và thích làm vườn.</li>
 
-        <li value="5"><strong>Happily</strong> engaged: Hạnh phúc đính hôn /ˈhæpəli ɪnˈɡeɪdʒd/</li>
-        <li className="list-none margin-bottom-20">The couple is <strong>happily</strong> engaged and planning their wedding. (Cặp đôi đang rất hạnh phúc khi đính hôn và đang lên kế hoạch cho đám cưới.)</li>
+        <li value="5">Happily <strong>engaged</strong> /ɪnˈɡeɪdʒd/</li>
+        <li className="list-none">The couple is ______ and planning their wedding.</li>
+        <li className="list-none margin-bottom-20">Cặp đôi đang rất hạnh phúc khi đính hôn và đang lên kế hoạch cho đám cưới.</li>
 
-        <li value="6"><strong>Happily</strong> agree: Vui vẻ đồng ý /ˈhæpəli əˈɡriː/</li>
-        <li className="list-none margin-bottom-20">I <strong>happily</strong> agree to your proposal. (Tôi vui vẻ đồng ý với đề xuất của bạn.)</li>
+        <li value="6">Happily <strong>agree</strong> /əˈɡriː/</li>
+        <li className="list-none">I ______ to your proposal.</li>
+        <li className="list-none margin-bottom-20">Tôi vui vẻ đồng ý với đề xuất của bạn.</li>
 
-        <li value="7"><strong>Happily</strong> accept: Vui vẻ chấp nhận /ˈhæpəli əkˈsɛpt/</li>
-        <li className="list-none margin-bottom-20">I <strong>happily</strong> accept your invitation. (Tôi vui vẻ chấp nhận lời mời của bạn.)</li>
+        <li value="7">Happily <strong>accept</strong> /əkˈsɛpt/</li>
+        <li className="list-none">I ______ your invitation.</li>
+        <li className="list-none margin-bottom-20">Tôi vui vẻ chấp nhận lời mời của bạn.</li>
 
-        <li value="8"><strong>Happily</strong> oblige: Vui lòng làm điều gì đó /ˈhæpəli əˈblaɪdʒ/</li>
-        <li className="list-none margin-bottom-20">I'll <strong>happily</strong> oblige. (Tôi rất vui lòng.)</li>
+        <li value="8">Happily <strong>oblige</strong> /əˈblaɪdʒ/</li>
+        <li className="list-none">I'll ______.</li>
+        <li className="list-none margin-bottom-20">Tôi rất vui lòng.</li>
 
-        <li value="9"><strong>Happily</strong> for: May mắn thay cho /ˈhæpəli fɔːr/</li>
-        <li className="list-none margin-bottom-20"><strong>Happily</strong> for us, the weather was beautiful. (May mắn thay cho chúng tôi, thời tiết rất đẹp.)</li>
+        <li value="9">Happily <strong>for</strong> /fɔːr/</li>
+        <li className="list-none">______ us, the weather was beautiful.</li>
+        <li className="list-none margin-bottom-20">May mắn thay cho chúng tôi, thời tiết rất đẹp.</li>
 
-        <li value="10"><strong>Happily</strong> occupied: Bận rộn một cách vui vẻ /ˈhæpəli ˈɒkjupaɪd/</li>
-        <li className="list-none margin-bottom-20">She is <strong>happily</strong> occupied with her new hobby. (Cô ấy đang bận rộn một cách vui vẻ với sở thích mới của mình.)</li>
+        <li value="10">Happily <strong>occupied</strong> /ˈɒkjupaɪd/</li>
+        <li className="list-none">She is ______ with her new hobby.</li>
+        <li className="list-none margin-bottom-20">Cô ấy đang bận rộn một cách vui vẻ với sở thích mới của mình.</li>
 
       </ol>
 
