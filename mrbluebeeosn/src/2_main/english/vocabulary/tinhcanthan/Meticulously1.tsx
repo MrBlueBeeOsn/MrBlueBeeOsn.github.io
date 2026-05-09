@@ -63,9 +63,11 @@ export default function Meticulously1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>She <strong>meticulously</strong> planned her wedding. (Cô ấy lên kế hoạch cho đám cưới của mình một cách rất tỉ mỉ.)</li>
+          <li>She ______ planned her wedding.</li>
+          <li className="margin-bottom-20 list-none">Cô ấy lên kế hoạch cho đám cưới của mình một cách rất tỉ mỉ.</li>
 
-          <li>The scientist <strong>meticulously</strong> recorded the data. (Nhà khoa học ghi chép dữ liệu một cách rất kỹ lưỡng.)</li>
+          <li>The scientist ______ recorded the data.</li>
+          <li className="list-none">Nhà khoa học ghi chép dữ liệu một cách rất kỹ lưỡng.</li>
 
         </ul>
 
@@ -81,11 +83,13 @@ export default function Meticulously1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Meticulous (adj): Tỉ mỉ, kỹ lưỡng /məˈtɪkjələs/</li>
-          <li className="margin-bottom-20 list-none">He is a meticulous worker. (Anh ấy là một người làm việc rất tỉ mỉ.)</li>
+          <li>Meticulous (adj) /məˈtɪkjələs/</li>
+          <li className="list-none">He is a ______ worker.</li>
+          <li className="margin-bottom-20 list-none">Anh ấy là một người làm việc rất tỉ mỉ.</li>
 
-          <li>Meticulousness (n): Tính tỉ mỉ /məˈtɪkjələsnəs/</li>
-          <li className="list-none">Her meticulousness is admirable. (Tính tỉ mỉ của cô ấy rất đáng ngưỡng mộ.)</li>
+          <li>Meticulousness (n) /məˈtɪkjələsnəs/</li>
+          <li className="list-none">Her ______ is admirable.</li>
+          <li className="list-none">Tính tỉ mỉ của cô ấy rất đáng ngưỡng mộ.</li>
 
         </ul>
 
@@ -101,11 +105,13 @@ export default function Meticulously1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li><Link to="/vocabulary/carefully-1">Carefully</Link>: Một cách cẩn thận /ˈkeəfəli/</li>
-          <li className="margin-bottom-20 list-none">She carefully wrapped the gift. (Cô ấy gói quà rất cẩn thận.)</li>
+          <li><Link to="/vocabulary/carefully-1">Carefully</Link> /ˈkeəfəli/</li>
+          <li className="list-none">She ______ wrapped the gift.</li>
+          <li className="margin-bottom-20 list-none">Cô ấy gói quà rất cẩn thận.</li>
 
-          <li><Link to="/vocabulary/thoroughly-1">Thoroughly</Link>: Một cách kỹ lưỡng /ˈθɜːrəli/</li>
-          <li className="list-none">He thoroughly cleaned the room. (Anh ấy đã lau dọn phòng rất kỹ lưỡng.)</li>
+          <li><Link to="/vocabulary/thoroughly-1">Thoroughly</Link> /ˈθɜːrəli/</li>
+          <li className="list-none">He ______ cleaned the room.</li>
+          <li className="list-none">Anh ấy đã lau dọn phòng rất kỹ lưỡng.</li>
 
         </ul>
 
@@ -123,11 +129,13 @@ export default function Meticulously1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Carelessly: Một cách cẩu thả /ˈkeərləsli/</li>
-          <li className="margin-bottom-20 list-none">He carelessly threw away the letter. (Anh ấy vứt bức thư đi một cách cẩu thả.)</li>
+          <li>Carelessly /ˈkeərləsli/</li>
+          <li className="list-none">He ______ threw away the letter.</li>
+          <li className="margin-bottom-20 list-none">Anh ấy vứt bức thư đi một cách cẩu thả.</li>
 
-          <li>Hastily: Một cách vội vàng /ˈheɪstɪli/</li>
-          <li className="list-none">She hastily finished her work. (Cô ấy đã hoàn thành công việc của mình một cách vội vàng.)</li>
+          <li>Hastily /ˈheɪstəli/</li>
+          <li className="list-none">She ______ finished her work.</li>
+          <li className="list-none">Cô ấy đã hoàn thành công việc của mình một cách vội vàng.</li>
 
         </ul>
       
@@ -152,8 +160,8 @@ export default function Meticulously1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>The jeweler is <strong>meticulously</strong> crafting the intricate design.</li>
-          <li className="list-none">(Người thợ kim hoàn đang tỉ mỉ tạo ra một thiết kế phức tạp.)</li>
+          <li>The jeweler is ______ crafting the intricate design.</li>
+          <li className="list-none">Người thợ kim hoàn đang tỉ mỉ tạo ra một thiết kế phức tạp.</li>
 
         </ul>
 
@@ -172,8 +180,8 @@ export default function Meticulously1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>The artist <strong>meticulously</strong> painted the portrait.</li>
-          <li className="list-none">(Họa sĩ vẽ chân dung một cách rất tỉ mỉ.)</li>
+          <li>The artist ______ painted the portrait.</li>
+          <li className="list-none">Họa sĩ vẽ chân dung một cách rất tỉ mỉ.</li>
 
         </ul>
 
@@ -188,15 +196,17 @@ export default function Meticulously1(): React.JSX.Element {
         <strong>&nbsp;thường xuyên</strong>:
       </p>
 
-      <p className="text-indent-whole">Thường xuyên sử dụng từ này trong các cuộc hội thoại hoặc khi viết.</p>
+      <p className="text-indent-whole margin-bottom-20">Thường xuyên sử dụng từ này trong các cuộc hội thoại hoặc khi viết.</p>
 
         <p className="text-indent-whole">Ví dụ để so sánh (sự khác biệt):</p>
 
           <ol>
 
-            <li>He wrote the report. (Anh ấy đã viết báo cáo.)</li>
+            <li>He wrote the report.</li>
+            <li className="list-none margin-bottom-20">Anh ấy đã viết báo cáo.</li>
 
-            <li className="margin-bottom-20">He <strong>meticulously</strong> wrote the report. (Anh ấy đã viết báo cáo một cách rất tỉ mỉ.)</li>
+            <li value="2">He ______ wrote the report.</li>
+            <li className="list-none margin-bottom-20">Anh ấy đã viết báo cáo một cách rất tỉ mỉ.</li>
 
           </ol>
 
