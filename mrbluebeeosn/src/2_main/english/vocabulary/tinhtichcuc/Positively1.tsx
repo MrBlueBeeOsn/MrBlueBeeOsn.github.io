@@ -73,11 +73,14 @@ export default function Positively1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>He responded <strong>positively</strong> to the suggestion. (Anh ấy phản hồi tích cực trước đề xuất.)</li>
+          <li>He responded ______ to the suggestion.</li>
+          <li className="margin-bottom-20 list-none">Anh ấy phản hồi tích cực trước đề xuất.</li>
 
-          <li>She <strong>positively</strong> identified the suspect. (Cô ấy khẳng định chắc chắn nghi phạm.)</li>
+          <li>She ______ identified the suspect.</li>
+          <li className="margin-bottom-20 list-none">Cô ấy khẳng định chắc chắn nghi phạm.</li>
 
-          <li>The new policy <strong>positively</strong> impacted the company's profits. (Chính sách mới tác động tích cực đến lợi nhuận của công ty.)</li>
+          <li>The new policy ______ impacted the company's profits.</li>
+          <li className="list-none">Chính sách mới tác động tích cực đến lợi nhuận của công ty.</li>
 
         </ul>
 
@@ -93,12 +96,16 @@ export default function Positively1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Positive (adj): Tích cực, khẳng định, có lợi /ˈpɒz.ə.tɪv/</li>
-          <li className="list-none">He has a positive attitude. (Anh ấy có thái độ tích cực.)</li>
-          <li className="margin-bottom-20 list-none">The test result was positive. (Kết quả xét nghiệm là dương tính.)</li>
+          <li>Positive (adj) /ˈpɒz.ə.tɪv/</li>
+          <li className="list-none">He has a ______ attitude.</li>
+          <li className="margin-bottom-20 list-none">Anh ấy có thái độ tích cực.</li>
 
-          <li>Positivity (n): Sự tích cực /ˌpɒz.əˈtɪv.ə.ti/</li>
-          <li className="list-none">Her positivity is contagious. (Sự tích cực của cô ấy có tính lan truyền.)</li>
+          <li className="list-none">The test result was ______.</li>
+          <li className="margin-bottom-20 list-none">Kết quả xét nghiệm là dương tính.</li>
+
+          <li>Positivity (n) /ˌpɒz.əˈtɪv.ə.ti/</li>
+          <li className="list-none">Her ______ is contagious.</li>
+          <li className="list-none">Sự tích cực của cô ấy có tính lan truyền.</li>
 
         </ul>
 
@@ -114,14 +121,17 @@ export default function Positively1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Optimistically: Một cách lạc quan /ˌɒp.tɪˈmɪs.tɪ.kli/</li>
-          <li className="margin-bottom-20 list-none">He looked at the future optimistically. (Anh ấy nhìn vào tương lai một cách lạc quan.)</li>
+          <li>Optimistically /ˌɒp.tɪˈmɪs.tɪ.kli/</li>
+          <li className="list-none">He looked at the future ______.</li>
+          <li className="margin-bottom-20 list-none">Anh ấy nhìn vào tương lai một cách lạc quan.</li>
 
-          <li>Certainly: Chắc chắn /ˈsɜː.tən.li/</li>
-          <li className="margin-bottom-20 list-none">She certainly knows what she's doing. (Cô ấy chắc chắn biết mình đang làm gì.)</li>
+          <li>Certainly /ˈsɜː.tən.li/</li>
+          <li className="list-none">She ______ knows what she's doing.</li>
+          <li className="margin-bottom-20 list-none">Cô ấy chắc chắn biết mình đang làm gì.</li>
 
-          <li>Favorably: Một cách thuận lợi /ˈfeɪ.və.rə.bli/</li>
-          <li className="list-none">The critics reviewed the movie favorably. (Các nhà phê bình đánh giá bộ phim một cách thuận lợi.)</li>
+          <li>Favorably /ˈfeɪ.və.rə.bli/</li>
+          <li className="list-none">The critics reviewed the movie ______.</li>
+          <li className="list-none">Các nhà phê bình đánh giá bộ phim một cách thuận lợi.</li>
 
         </ul>
 
@@ -139,14 +149,17 @@ export default function Positively1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Negatively: Một cách tiêu cực /ˈneɡ.ə.tɪv.li/</li>
-          <li className="margin-bottom-20 list-none">He reacted negatively to the news. (Anh ấy phản ứng tiêu cực với tin tức.)</li>
+          <li>Negatively /ˈneɡ.ə.tɪv.li/</li>
+          <li className="list-none">He reacted ______ to the news.</li>
+          <li className="margin-bottom-20 list-none">Anh ấy phản ứng tiêu cực với tin tức.</li>
 
-          <li>Uncertainly: Một cách không chắc chắn /ʌnˈsɜː.tən.li/</li>
-          <li className="margin-bottom-20 list-none">She spoke uncertainly about her plans. (Cô ấy nói một cách không chắc chắn về kế hoạch của mình.)</li>
+          <li>Uncertainly /ʌnˈsɜː.tən.li/</li>
+          <li className="list-none">She spoke ______ about her plans.</li>
+          <li className="margin-bottom-20 list-none">Cô ấy nói một cách không chắc chắn về kế hoạch của mình.</li>
 
-          <li>Adversely: Một cách bất lợi /ədˈvɜːs.li/</li>
-          <li className="list-none">The bad weather adversely affected the crops. (Thời tiết xấu ảnh hưởng bất lợi đến mùa màng.)</li>
+          <li>Adversely /ədˈvɜːs.li/</li>
+          <li className="list-none">The bad weather ______ affected the crops.</li>
+          <li className="list-none">Thời tiết xấu ảnh hưởng bất lợi đến mùa màng.</li>
 
         </ul>
       
@@ -171,8 +184,8 @@ export default function Positively1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>He nodded and <strong>positively</strong> affirmed, "Yes, we can do it."</li>
-          <li className="list-none">(Anh ấy gật đầu và khẳng định một cách quả quyết: "Vâng, chúng ta có thể làm được.")</li>
+          <li>He nodded and ______ affirmed, "Yes, we can do it."</li>
+          <li className="list-none">Anh ấy gật đầu và khẳng định một cách quả quyết: "Vâng, chúng ta có thể làm được."</li>
 
         </ul>
 
@@ -191,8 +204,8 @@ export default function Positively1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>The patient responded <strong>positively</strong> to the treatment.</li>
-          <li className="list-none">(Bệnh nhân phản ứng tích cực với điều trị.)</li>
+          <li>The patient responded ______ to the treatment.</li>
+          <li className="list-none">Bệnh nhân phản ứng tích cực với điều trị.</li>
 
         </ul>
 
@@ -207,15 +220,17 @@ export default function Positively1(): React.JSX.Element {
         <strong>&nbsp;thường xuyên</strong>:
       </p>
 
-      <p className="text-indent-whole">Thường xuyên sử dụng từ này trong các bài viết hoặc cuộc trò chuyện.</p>
+      <p className="text-indent-whole margin-bottom-20">Thường xuyên sử dụng từ này trong các bài viết hoặc cuộc trò chuyện.</p>
 
         <p className="text-indent-whole">Ví dụ để so sánh (sự khác biệt):</p>
 
           <ol>
 
-            <li>He answered the question. (Anh ấy trả lời câu hỏi.)</li>
+            <li>He answered the question.</li>
+            <li className="list-none margin-bottom-20">Anh ấy trả lời câu hỏi.</li>
 
-            <li className="margin-bottom-20">He answered the question <strong>positively</strong>. (Anh ấy trả lời câu hỏi một cách khẳng định/tích cực.)</li>
+            <li value="2">He answered the question ______.</li>
+            <li className="list-none margin-bottom-20">Anh ấy trả lời câu hỏi một cách khẳng định/tích cực.</li>
 
           </ol>
 

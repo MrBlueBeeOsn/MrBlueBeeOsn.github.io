@@ -62,35 +62,45 @@ export default function Positively2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1"><strong>Positively</strong> impact: Tác động tích cực /ˈpɒzətɪvli ˈɪmpækt/</li>
-        <li className="list-none margin-bottom-20">The new policy <strong>positively</strong> impacted employee morale. (Chính sách mới đã tác động tích cực đến tinh thần làm việc của nhân viên.)</li>
+        <li value="1">Positively <strong>impacted</strong> /ˈɪmpæktɪd/</li>
+        <li className="list-none">The new policy ______ employee morale.</li>
+        <li className="list-none margin-bottom-20">Chính sách mới đã tác động tích cực đến tinh thần làm việc của nhân viên.</li>
 
-        <li value="2"><strong>Positively</strong> influence: Ảnh hưởng tích cực /ˈpɒzətɪvli ˈɪnfluəns/</li>
-        <li className="list-none margin-bottom-20">Her mentor <strong>positively</strong> influenced her career path. (Người cố vấn của cô ấy đã ảnh hưởng tích cực đến con đường sự nghiệp của cô ấy.)</li>
+        <li value="2">Positively <strong>influenced</strong> /ˈɪnfluənst/</li>
+        <li className="list-none">Her mentor ______ her career path.</li>
+        <li className="list-none margin-bottom-20">Người cố vấn của cô ấy đã ảnh hưởng tích cực đến con đường sự nghiệp của cô ấy.</li>
 
-        <li value="3"><strong>Positively</strong> contribute: Đóng góp tích cực /ˈpɒzətɪvli kənˈtrɪbjuːt/</li>
-        <li className="list-none margin-bottom-20">He <strong>positively</strong> contributed to the success of the project. (Anh ấy đã đóng góp tích cực vào sự thành công của dự án.)</li>
+        <li value="3">Positively <strong>contributed</strong> /kənˈtrɪbjuːtɪd/</li>
+        <li className="list-none">He ______ to the success of the project.</li>
+        <li className="list-none margin-bottom-20">Anh ấy đã đóng góp tích cực vào sự thành công của dự án.</li>
 
-        <li value="4"><strong>Positively</strong> affect: Tác động tích cực /ˈpɒzətɪvli əˈfɛkt/</li>
-        <li className="list-none margin-bottom-20">Exercise <strong>positively</strong> affects both physical and mental health. (Tập thể dục tác động tích cực đến cả sức khỏe thể chất và tinh thần.)</li>
+        <li value="4">Positively <strong>affects</strong> /əˈfɛkts/</li>
+        <li className="list-none">Exercise ______ both physical and mental health.</li>
+        <li className="list-none margin-bottom-20">Tập thể dục tác động tích cực đến cả sức khỏe thể chất và tinh thần.</li>
 
-        <li value="5"><strong>Positively</strong> respond: Phản hồi tích cực /ˈpɒzətɪvli rɪˈspɒnd/</li>
-        <li className="list-none margin-bottom-20">The customers <strong>positively</strong> responded to the new product. (Khách hàng đã phản hồi tích cực về sản phẩm mới.)</li>
+        <li value="5">Positively <strong>responded</strong> /rɪˈspɒndɪd/</li>
+        <li className="list-none">The customers ______ to the new product.</li>
+        <li className="list-none margin-bottom-20">Khách hàng đã phản hồi tích cực về sản phẩm mới.</li>
 
-        <li value="6"><strong>Positively</strong> change: Thay đổi tích cực /ˈpɒzətɪvli tʃeɪndʒ/</li>
-        <li className="list-none margin-bottom-20">The new management <strong>positively</strong> changed the company's culture. (Ban lãnh đạo mới đã thay đổi tích cực văn hóa công ty.)</li>
+        <li value="6">Positively <strong>changed</strong> /tʃeɪndʒd/</li>
+        <li className="list-none">The new management ______ the company's culture.</li>
+        <li className="list-none margin-bottom-20">Ban lãnh đạo mới đã thay đổi tích cực văn hóa công ty.</li>
 
-        <li value="7"><strong>Positively</strong> reinforce: Củng cố tích cực /ˈpɒzətɪvli ˌriːɪnˈfɔːrs/</li>
-        <li className="list-none margin-bottom-20">The teacher <strong>positively</strong> reinforced the students' efforts. (Giáo viên đã củng cố tích cực những nỗ lực của học sinh.)</li>
+        <li value="7">Positively <strong>reinforced</strong> /ˌriːɪnˈfɔːrst/</li>
+        <li className="list-none">The teacher ______ the students' efforts.</li>
+        <li className="list-none margin-bottom-20">Giáo viên đã củng cố tích cực những nỗ lực của học sinh.</li>
 
-        <li value="8"><strong>Positively</strong> promote: Thúc đẩy tích cực /ˈpɒzətɪvli prəˈmoʊt/</li>
-        <li className="list-none margin-bottom-20">The campaign <strong>positively</strong> promoted healthy eating habits. (Chiến dịch đã thúc đẩy tích cực thói quen ăn uống lành mạnh.)</li>
+        <li value="8">Positively <strong>promoted</strong> /prəˈmoʊtɪd/</li>
+        <li className="list-none">The campaign ______ healthy eating habits.</li>
+        <li className="list-none margin-bottom-20">Chiến dịch đã thúc đẩy tích cực thói quen ăn uống lành mạnh.</li>
 
-        <li value="9"><strong>Positively</strong> view: Nhìn nhận tích cực /ˈpɒzətɪvli vjuː/</li>
-        <li className="list-none margin-bottom-20">He <strong>positively</strong> viewed the challenges as opportunities for growth. (Anh ấy nhìn nhận tích cực những thách thức như cơ hội để phát triển.)</li>
+        <li value="9">Positively <strong>viewed</strong> /vjuːd/</li>
+        <li className="list-none">He ______ the challenges as opportunities for growth.</li>
+        <li className="list-none margin-bottom-20">Anh ấy nhìn nhận tích cực những thách thức như cơ hội để phát triển.</li>
 
-        <li value="10"><strong>Positively</strong> affect outcome: Ảnh hưởng tích cực đến kết quả /ˈpɒzətɪvli əˈfɛkt ˈaʊtkʌm/</li>
-        <li className="list-none margin-bottom-20">Hard work and dedication <strong>positively</strong> affect the outcome of any project. (Sự chăm chỉ và tận tâm ảnh hưởng tích cực đến kết quả của mọi dự án.)</li>
+        <li value="10">Positively <strong>affect the outcome</strong> /əˈfɛkt ðə ˈaʊtkʌm/</li>
+        <li className="list-none">Hard work and dedication ______ of any project.</li>
+        <li className="list-none margin-bottom-20">Sự chăm chỉ và tận tâm ảnh hưởng tích cực đến kết quả của mọi dự án.</li>
 
       </ol>
 
