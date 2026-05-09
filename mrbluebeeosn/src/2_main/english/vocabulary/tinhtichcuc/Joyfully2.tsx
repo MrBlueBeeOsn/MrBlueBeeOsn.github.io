@@ -62,35 +62,45 @@ export default function Joyfully2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1"><strong>Joyfully</strong> accepted: Chấp nhận một cách vui vẻ /ˈdʒɔɪfʊli əkˈsɛptɪd/</li>
-        <li className="list-none margin-bottom-20">The invitation was <strong>joyfully</strong> accepted. (Lời mời đã được chấp nhận một cách vui vẻ.)</li>
+        <li value="1">Joyfully <strong>accepted</strong> /əkˈsɛptɪd/</li>
+        <li className="list-none">The invitation was ______.</li>
+        <li className="list-none margin-bottom-20">Lời mời đã được chấp nhận một cách vui vẻ.</li>
 
-        <li value="2"><strong>Joyfully</strong> participated: Tham gia một cách vui vẻ /ˈdʒɔɪfʊli pɑːrˈtɪsɪpeɪtɪd/</li>
-        <li className="list-none margin-bottom-20">The children <strong>joyfully</strong> participated in the games. (Những đứa trẻ tham gia vào các trò chơi một cách vui vẻ.)</li>
+        <li value="2">Joyfully <strong>participated</strong> /pɑːrˈtɪsɪpeɪtɪd/</li>
+        <li className="list-none">The children ______ in the games.</li>
+        <li className="list-none margin-bottom-20">Những đứa trẻ tham gia vào các trò chơi một cách vui vẻ.</li>
 
-        <li value="3"><strong>Joyfully</strong> celebrated: Tổ chức lễ kỷ niệm một cách vui vẻ /ˈdʒɔɪfʊli ˈsɛləbreɪtɪd/</li>
-        <li className="list-none margin-bottom-20">Their wedding was <strong>joyfully</strong> celebrated by friends and family. (Đám cưới của họ đã được bạn bè và gia đình tổ chức một cách vui vẻ.)</li>
+        <li value="3">Joyfully <strong>celebrated</strong> /ˈsɛləbreɪtɪd/</li>
+        <li className="list-none">Their wedding was ______ by friends and family.</li>
+        <li className="list-none margin-bottom-20">Đám cưới của họ đã được bạn bè và gia đình tổ chức một cách vui vẻ.</li>
 
-        <li value="4"><strong>Joyfully</strong> anticipated: Mong đợi một cách vui vẻ /ˈdʒɔɪfʊli ænˈtɪsɪpeɪtɪd/</li>
-        <li className="list-none margin-bottom-20">The holiday was <strong>joyfully</strong> anticipated by the children. (Các em nhỏ đã mong đợi kỳ nghỉ một cách vui vẻ.)</li>
+        <li value="4">Joyfully <strong>anticipated</strong> /ænˈtɪsɪpeɪtɪd/</li>
+        <li className="list-none">The holiday was ______ by the children.</li>
+        <li className="list-none margin-bottom-20">Các em nhỏ đã mong đợi kỳ nghỉ một cách vui vẻ.</li>
 
-        <li value="5"><strong>Joyfully</strong> embraced: Ôm ấp một cách vui vẻ /ˈdʒɔɪfʊli ɪmˈbreɪst/</li>
-        <li className="list-none margin-bottom-20">The couple <strong>joyfully</strong> embraced after a long separation. (Cặp đôi đã ôm nhau thật chặt sau một thời gian dài xa cách.)</li>
+        <li value="5">Joyfully <strong>embraced</strong> /ɪmˈbreɪst/</li>
+        <li className="list-none">The couple ______ after a long separation.</li>
+        <li className="list-none margin-bottom-20">Cặp đôi đã ôm nhau thật chặt sau một thời gian dài xa cách.</li>
 
-        <li value="6"><strong>Joyfully</strong> shared: Chia sẻ một cách vui vẻ /ˈdʒɔɪfʊli ʃeərd/</li>
-        <li className="list-none margin-bottom-20">They <strong>joyfully</strong> shared their experiences with each other. (Họ đã chia sẻ những trải nghiệm của mình với nhau một cách vui vẻ.)</li>
+        <li value="6">Joyfully <strong>shared</strong> /ʃeərd/</li>
+        <li className="list-none">They ______ their experiences with each other.</li>
+        <li className="list-none margin-bottom-20">Họ đã chia sẻ những trải nghiệm của mình với nhau một cách vui vẻ.</li>
 
-        <li value="7"><strong>Joyfully</strong> exclaimed: Phát biểu một cách vui sướng /ˈdʒɔɪfʊli ɪkˈskleɪmd/</li>
-        <li className="list-none margin-bottom-20">I won!" she <strong>joyfully</strong> exclaimed. (Cô ấy vui sướng kêu lên: "Tôi thắng rồi!")</li>
+        <li value="7">Joyfully <strong>exclaimed</strong> /ɪkˈskleɪmd/</li>
+        <li className="list-none">"I won!" she ______.</li>
+        <li className="list-none margin-bottom-20">Cô ấy vui sướng kêu lên: "Tôi thắng rồi!"</li>
 
-        <li value="8"><strong>Joyfully</strong> returned: Trở về một cách vui vẻ /ˈdʒɔɪfʊli rɪˈtɜːnd/</li>
-        <li className="list-none margin-bottom-20">The travelers <strong>joyfully</strong> returned home. (Những người du lịch đã vui vẻ trở về nhà.)</li>
+        <li value="8">Joyfully <strong>returned</strong> /rɪˈtɜːnd/</li>
+        <li className="list-none">The travelers ______ home.</li>
+        <li className="list-none margin-bottom-20">Những người du lịch đã vui vẻ trở về nhà.</li>
 
-        <li value="9"><strong>Joyfully</strong> sung: Hát một cách vui vẻ /ˈdʒɔɪfʊli sʌŋ/</li>
-        <li className="list-none margin-bottom-20">The birds <strong>joyfully</strong> sang in the morning. (Những chú chim hót líu lo một cách vui vẻ vào buổi sáng.)</li>
+        <li value="9">Joyfully <strong>sang</strong> /sæŋ/</li>
+        <li className="list-none">The birds ______ in the morning.</li>
+        <li className="list-none margin-bottom-20">Những chú chim hót líu lo một cách vui vẻ vào buổi sáng.</li>
 
-        <li value="10"><strong>Joyfully</strong> danced: Khiêu vũ một cách vui vẻ /ˈdʒɔɪfʊli dɑːnst/</li>
-        <li className="list-none margin-bottom-20">The children <strong>joyfully</strong> danced to the music. (Những đứa trẻ nhảy múa vui vẻ theo điệu nhạc.)</li>
+        <li value="10">Joyfully <strong>danced</strong> /dɑːnst/</li>
+        <li className="list-none">The children ______ to the music.</li>
+        <li className="list-none margin-bottom-20">Những đứa trẻ nhảy múa vui vẻ theo điệu nhạc.</li>
 
       </ol>
 
