@@ -63,9 +63,11 @@ export default function Carefully1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Please read the instructions <strong>carefully</strong> before you start. (Vui lòng đọc kỹ hướng dẫn trước khi bắt đầu.)</li>
+          <li>Please read the instructions ______ before you start.</li>
+          <li className="margin-bottom-20 list-none">Vui lòng đọc kỹ hướng dẫn trước khi bắt đầu.</li>
 
-          <li>She <strong>carefully</strong> packed her suitcase for the trip. (Cô ấy cẩn thận đóng gói vali cho chuyến đi.)</li>
+          <li>She ______ packed her suitcase for the trip.</li>
+          <li className="list-none">Cô ấy cẩn thận đóng gói vali cho chuyến đi.</li>
 
         </ul>
 
@@ -81,11 +83,13 @@ export default function Carefully1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Careful (adj): Cẩn thận /ˈkeəfəl/</li>
-          <li className="margin-bottom-20 list-none">Be careful with that glass. (Cẩn thận với cái ly đó.)</li>
+          <li>Careful (adj) /ˈkeəfəl/</li>
+          <li className="list-none">Be ______ with that glass.</li>
+          <li className="margin-bottom-20 list-none">Cẩn thận với cái ly đó.</li>
 
-          <li>Care (n): Sự quan tâm, sự chăm sóc /keər/</li>
-          <li className="list-none">She takes good care of her plants. (Cô ấy chăm sóc cây cối rất tốt.)</li>
+          <li>Care (n) /keər/</li>
+          <li className="list-none">She takes good ______ of her plants.</li>
+          <li className="list-none">Cô ấy chăm sóc cây cối rất tốt.</li>
 
         </ul>
 
@@ -101,11 +105,13 @@ export default function Carefully1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li><Link to="/vocabulary/cautiously-1">Cautiously</Link>: Một cách thận trọng /ˈkɔːʃəsli/</li>
-          <li className="margin-bottom-20 list-none">He walked cautiously across the icy road. (Anh ấy đi thận trọng trên con đường băng.)</li>
+          <li><Link to="/vocabulary/cautiously-1">Cautiously</Link> /ˈkɔːʃəsli/</li>
+          <li className="list-none">He walked ______ across the icy road.</li>
+          <li className="margin-bottom-20 list-none">Anh ấy đi thận trọng trên con đường băng.</li>
 
-          <li><Link to="/vocabulary/meticulously-1">Meticulously</Link>: Một cách tỉ mỉ /məˈtɪkjələsli/</li>
-          <li className="list-none">She meticulously cleaned the house. (Cô ấy lau dọn nhà cửa một cách tỉ mỉ.)</li>
+          <li><Link to="/vocabulary/meticulously-1">Meticulously</Link> /məˈtɪkjələsli/</li>
+          <li className="list-none">She ______ cleaned the house.</li>
+          <li className="list-none">Cô ấy lau dọn nhà cửa một cách tỉ mỉ.</li>
 
         </ul>
 
@@ -123,11 +129,13 @@ export default function Carefully1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Carelessly: Một cách cẩu thả /ˈkeərləsli/</li>
-          <li className="margin-bottom-20 list-none">He carelessly threw the paper on the floor. (Anh ấy vứt giấy xuống sàn một cách cẩu thả.)</li>
+          <li>Carelessly /ˈkeərləsli/</li>
+          <li className="list-none">He ______ threw the paper on the floor.</li>
+          <li className="margin-bottom-20 list-none">Anh ấy vứt giấy xuống sàn một cách cẩu thả.</li>
 
-          <li>Rashly: Một cách hấp tấp /ˈræʃli/</li>
-          <li className="list-none">She acted rashly and made a mistake. (Cô ấy hành động hấp tấp và mắc lỗi.)</li>
+          <li>Rashly /ˈræʃli/</li>
+          <li className="list-none">She acted ______ and made a mistake.</li>
+          <li className="list-none">Cô ấy hành động hấp tấp và mắc lỗi.</li>
 
         </ul>
       
@@ -152,8 +160,8 @@ export default function Carefully1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>She is <strong>carefully</strong> walking on the tightrope.</li>
-          <li className="list-none">(Cô ấy đang đi trên dây thừng một cách cẩn thận.)</li>
+          <li>She is ______ walking on the tightrope.</li>
+          <li className="list-none">Cô ấy đang đi trên dây thừng một cách cẩn thận.</li>
 
         </ul>
 
@@ -172,8 +180,8 @@ export default function Carefully1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>She <strong>carefully</strong> peeled the apple.</li>
-          <li className="list-none">(Cô ấy cẩn thận gọt táo.)</li>
+          <li>She ______ peeled the apple.</li>
+          <li className="list-none">Cô ấy cẩn thận gọt táo.</li>
 
         </ul>
 
@@ -188,15 +196,17 @@ export default function Carefully1(): React.JSX.Element {
         <strong>&nbsp;thường xuyên</strong>:
       </p>
 
-      <p className="text-indent-whole">Thường xuyên sử dụng từ này trong các cuộc hội thoại và bài viết.</p>
+      <p className="text-indent-whole margin-bottom-20">Thường xuyên sử dụng từ này trong các cuộc hội thoại và bài viết.</p>
 
         <p className="text-indent-whole">Ví dụ để so sánh (sự khác biệt):</p>
 
           <ol>
 
-            <li>He crossed the street. (Anh ấy băng qua đường.)</li>
+            <li>He crossed the street.</li>
+            <li className="list-none margin-bottom-20">Anh ấy băng qua đường.</li>
 
-            <li className="margin-bottom-20">He <strong>carefully</strong> crossed the street because there was a lot of traffic. (Anh ấy cẩn thận băng qua đường vì có rất nhiều xe.)</li>
+            <li value="2">He ______ crossed the street because there was a lot of traffic.</li>
+            <li className="list-none margin-bottom-20">Anh ấy cẩn thận băng qua đường vì có rất nhiều xe.</li>
 
           </ol>
 

@@ -62,35 +62,45 @@ export default function Carefully2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1"><strong>Carefully</strong> considered: Cân nhắc kỹ lưỡng /ˈkerfəli kənˈsɪdərd/</li>
-        <li className="list-none margin-bottom-20">The proposal was <strong>carefully</strong> considered by the committee. (Đề xuất đã được ủy ban cân nhắc kỹ lưỡng.)</li>
+        <li value="1">Carefully <strong>considered</strong> /kənˈsɪdərd/</li>
+        <li className="list-none">The proposal was ______ by the committee.</li>
+        <li className="list-none margin-bottom-20">Đề xuất đã được ủy ban cân nhắc kỹ lưỡng.</li>
 
-        <li value="2"><strong>Carefully</strong> examined: Kiểm tra kỹ lưỡng /ˈkerfəli ɪɡˈzæmɪnd/</li>
-        <li className="list-none margin-bottom-20">The doctor <strong>carefully</strong> examined the patient. (Bác sĩ đã khám bệnh nhân rất kỹ lưỡng.)</li>
+        <li value="2">Carefully <strong>examined</strong> /ɪɡˈzæmɪnd/</li>
+        <li className="list-none">The doctor ______ the patient.</li>
+        <li className="list-none margin-bottom-20">Bác sĩ đã khám bệnh nhân rất kỹ lưỡng.</li>
 
-        <li value="3"><strong>Carefully</strong> selected: Chọn lựa kỹ lưỡng /ˈkerfəli sɪˈlɛktɪd/</li>
-        <li className="list-none margin-bottom-20">The ingredients were <strong>carefully</strong> selected for the dish. (Nguyên liệu đã được chọn lựa kỹ lưỡng cho món ăn.)</li>
+        <li value="3">Carefully <strong>selected</strong> /sɪˈlɛktɪd/</li>
+        <li className="list-none">The ingredients were ______ for the dish.</li>
+        <li className="list-none margin-bottom-20">Nguyên liệu đã được chọn lựa kỹ lưỡng cho món ăn.</li>
 
-        <li value="4"><strong>Carefully</strong> wrapped: Gói cẩn thận /ˈkerfəli ræpt/</li>
-        <li className="list-none margin-bottom-20">The fragile item was <strong>carefully</strong> wrapped to prevent breakage. (Vật liệu dễ vỡ đã được gói cẩn thận để tránh bị vỡ.)</li>
+        <li value="4">Carefully <strong>wrapped</strong> /ræpt/</li>
+        <li className="list-none">The fragile item was ______ to prevent breakage.</li>
+        <li className="list-none margin-bottom-20">Vật liệu dễ vỡ đã được gói cẩn thận để tránh bị vỡ.</li>
 
-        <li value="5"><strong>Carefully</strong> listened: Lắng nghe cẩn thận /ˈkerfəli ˈlɪsnd/</li>
-        <li className="list-none margin-bottom-20">She <strong>carefully</strong> listened to his explanation. (Cô ấy lắng nghe lời giải thích của anh ấy rất cẩn thận.)</li>
+        <li value="5">Carefully <strong>listened</strong> /ˈlɪsnd/</li>
+        <li className="list-none">She ______ to his explanation.</li>
+        <li className="list-none margin-bottom-20">Cô ấy lắng nghe lời giải thích của anh ấy rất cẩn thận.</li>
 
-        <li value="6"><strong>Carefully</strong> measured: Đo lường cẩn thận /ˈkerfəli ˈmɛʒərd/</li>
-        <li className="list-none margin-bottom-20">The ingredients were <strong>carefully</strong> measured to ensure the perfect taste. (Nguyên liệu đã được đo lường cẩn thận để đảm bảo hương vị hoàn hảo.)</li>
+        <li value="6">Carefully <strong>measured</strong> /ˈmɛʒərd/</li>
+        <li className="list-none">The ingredients were ______ to ensure the perfect taste.</li>
+        <li className="list-none margin-bottom-20">Nguyên liệu đã được đo lường cẩn thận để đảm bảo hương vị hoàn hảo.</li>
 
-        <li value="7"><strong>Carefully</strong> planned: Lên kế hoạch cẩn thận /ˈkerfəli plænd/</li>
-        <li className="list-none margin-bottom-20">The trip was <strong>carefully</strong> planned to avoid any problems. (Chuyến đi đã được lên kế hoạch cẩn thận để tránh bất kỳ vấn đề nào.)</li>
+        <li value="7">Carefully <strong>planned</strong> /plænd/</li>
+        <li className="list-none">The trip was ______ to avoid any problems.</li>
+        <li className="list-none margin-bottom-20">Chuyến đi đã được lên kế hoạch cẩn thận để tránh bất kỳ vấn đề nào.</li>
 
-        <li value="8"><strong>Carefully</strong> monitored: Giám sát chặt chẽ /ˈkerfəli ˈmɒnɪtərd/</li>
-        <li className="list-none margin-bottom-20">The patient's condition was <strong>carefully</strong> monitored. (Tình trạng của bệnh nhân đã được theo dõi chặt chẽ.)</li>
+        <li value="8">Carefully <strong>monitored</strong> /ˈmɒnɪtərd/</li>
+        <li className="list-none">The patient's condition was ______.</li>
+        <li className="list-none margin-bottom-20">Tình trạng của bệnh nhân đã được theo dõi chặt chẽ.</li>
 
-        <li value="9"><strong>Carefully</strong> preserved: Bảo quản cẩn thận /ˈkerfəli prɪˈzɜːvd/</li>
-        <li className="list-none margin-bottom-20">The antique vase was <strong>carefully</strong> preserved for generations. (Cái bình cổ đã được bảo quản cẩn thận qua nhiều thế hệ.)</li>
+        <li value="9">Carefully <strong>preserved</strong> /prɪˈzɜːvd/</li>
+        <li className="list-none">The antique vase was ______ for generations.</li>
+        <li className="list-none margin-bottom-20">Cái bình cổ đã được bảo quản cẩn thận qua nhiều thế hệ.</li>
 
-        <li value="10"><strong>Carefully</strong> handled: Xử lý cẩn thận /ˈkerfəli ˈhændld/</li>
-        <li className="list-none margin-bottom-20">The fragile glass was <strong>carefully</strong> handled. (Cái ly thủy tinh dễ vỡ đã được xử lý cẩn thận.)</li>
+        <li value="10">Carefully <strong>handled</strong> /ˈhændld/</li>
+        <li className="list-none">The fragile glass was ______.</li>
+        <li className="list-none margin-bottom-20">Cái ly thủy tinh dễ vỡ đã được xử lý cẩn thận.</li>
 
       </ol>
 
