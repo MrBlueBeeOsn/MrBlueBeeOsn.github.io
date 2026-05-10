@@ -62,35 +62,45 @@ export default function Currently2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1"><strong>Currently</strong> working: Đang làm việc /ˈkʌrəntli ˈwɜːkɪŋ/</li>
-        <li className="list-none margin-bottom-20">I am <strong>currently</strong> working on a new project. (Tôi đang làm việc trên một dự án mới.)</li>
+        <li value="1">Currently <strong>working</strong> /ˈwɜːkɪŋ/</li>
+        <li className="list-none">I am ______ on a new project.</li>
+        <li className="list-none margin-bottom-20">Tôi đang làm việc trên một dự án mới.</li>
 
-        <li value="2"><strong>Currently</strong> studying: Đang học /ˈkʌrəntli ˈstʌdiɪŋ/</li>
-        <li className="list-none margin-bottom-20">She is <strong>currently</strong> studying for her exams. (Cô ấy đang ôn thi.)</li>
+        <li value="2">Currently <strong>studying</strong> /ˈstʌdiɪŋ/</li>
+        <li className="list-none">She is ______ for her exams.</li>
+        <li className="list-none margin-bottom-20">Cô ấy đang ôn thi.</li>
 
-        <li value="3"><strong>Currently</strong> living: Đang sống /ˈkʌrəntli ˈlɪvɪŋ/</li>
-        <li className="list-none margin-bottom-20">They are <strong>currently</strong> living in Saigon. (Họ đang sống ở Sài Gòn.)</li>
+        <li value="3">Currently <strong>living</strong> /ˈlɪvɪŋ/</li>
+        <li className="list-none">They are ______ in Saigon.</li>
+        <li className="list-none margin-bottom-20">Họ đang sống ở Sài Gòn.</li>
 
-        <li value="4"><strong>Currently</strong> unavailable: Hiện không có mặt /ˈkʌrəntli ʌnəˈveɪləbl/</li>
-        <li className="list-none margin-bottom-20">The manager is <strong>currently</strong> unavailable. (Quản lý hiện không có mặt.)</li>
+        <li value="4">Currently <strong>unavailable</strong> /ʌnəˈveɪləbl/</li>
+        <li className="list-none">The manager is ______.</li>
+        <li className="list-none margin-bottom-20">Quản lý hiện không có mặt.</li>
 
-        <li value="5"><strong>Currently</strong> under construction: Đang được xây dựng /ˈkʌrəntli ˈʌndər kənˈstrʌkʃn/</li>
-        <li className="list-none margin-bottom-20">The new building is <strong>currently</strong> under construction. (Tòa nhà mới đang được xây dựng.)</li>
+        <li value="5">Currently <strong>under construction</strong> /ˈʌndər kənˈstrʌkʃn/</li>
+        <li className="list-none">The new building is ______.</li>
+        <li className="list-none margin-bottom-20">Tòa nhà mới đang được xây dựng.</li>
 
-        <li value="6"><strong>Currently</strong> being reviewed: Đang được xem xét /ˈkʌrəntli biːɪŋ rɪˈvjuːd/</li>
-        <li className="list-none margin-bottom-20">Your application is <strong>currently</strong> being reviewed. (Đơn đăng ký của bạn đang được xem xét.)</li>
+        <li value="6">Currently <strong>being reviewed</strong> /biːɪŋ rɪˈvjuːd/</li>
+        <li className="list-none">Your application is ______.</li>
+        <li className="list-none margin-bottom-20">Đơn đăng ký của bạn đang được xem xét.</li>
 
-        <li value="7"><strong>Currently</strong> in effect: Đang có hiệu lực /ˈkʌrəntli ɪn əˈfɛkt/</li>
-        <li className="list-none margin-bottom-20">This rule is <strong>currently</strong> in effect. (Quy tắc này hiện đang có hiệu lực.)</li>
+        <li value="7">Currently <strong>in effect</strong> /ɪn əˈfɛkt/</li>
+        <li className="list-none">This rule is ______.</li>
+        <li className="list-none margin-bottom-20">Quy tắc này hiện đang có hiệu lực.</li>
 
-        <li value="8"><strong>Currently</strong> being developed: Đang được phát triển /ˈkʌrəntli biːɪŋ dɪˈvɛləpt/</li>
-        <li className="list-none margin-bottom-20">A new vaccine is <strong>currently</strong> being developed. (Một loại vắc xin mới đang được phát triển.)</li>
+        <li value="8">Currently <strong>being developed</strong> /biːɪŋ dɪˈvɛləpt/</li>
+        <li className="list-none">A new vaccine is ______.</li>
+        <li className="list-none margin-bottom-20">Một loại vắc xin mới đang được phát triển.</li>
 
-        <li value="9"><strong>Currently</strong> trending: Đang thịnh hành /ˈkʌrəntli ˈtrɛndɪŋ/</li>
-        <li className="list-none margin-bottom-20">This song is <strong>currently</strong> trending on TikTok. (Bài hát này đang rất hot trên TikTok.)</li>
+        <li value="9">Currently <strong>trending</strong> /ˈtrɛndɪŋ/</li>
+        <li className="list-none">This song is ______ on TikTok.</li>
+        <li className="list-none margin-bottom-20">Bài hát này đang rất hot trên TikTok.</li>
 
-        <li value="10"><strong>Currently</strong> available: Hiện có sẵn /ˈkʌrəntli əˈveɪləbl/</li>
-        <li className="list-none margin-bottom-20">This product is <strong>currently</strong> available in all stores. (Sản phẩm này hiện có sẵn ở tất cả các cửa hàng.)</li>
+        <li value="10">Currently <strong>available</strong> /əˈveɪləbl/</li>
+        <li className="list-none">This product is ______ in all stores.</li>
+        <li className="list-none margin-bottom-20">Sản phẩm này hiện có sẵn ở tất cả các cửa hàng.</li>
 
       </ol>
 
