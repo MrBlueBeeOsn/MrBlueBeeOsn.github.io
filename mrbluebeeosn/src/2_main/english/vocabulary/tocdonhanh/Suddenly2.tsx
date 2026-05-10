@@ -62,35 +62,45 @@ export default function Suddenly2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1"><strong>Suddenly</strong> stop: Đột ngột dừng lại /ˈsʌdənli stɒp/</li>
-        <li className="list-none margin-bottom-20">The car <strong>suddenly</strong> stopped in the middle of the road. (Chiếc xe đột ngột dừng lại giữa đường.)</li>
+        <li value="1">Suddenly <strong>stopped</strong> /stɒpt/</li>
+        <li className="list-none">The car ______ in the middle of the road.</li>
+        <li className="list-none margin-bottom-20">Chiếc xe đột ngột dừng lại giữa đường.</li>
 
-        <li value="2"><strong>Suddenly</strong> realize: Đột nhiên nhận ra /ˈsʌdənli ˈriːəlaɪz/</li>
-        <li className="list-none margin-bottom-20">I <strong>suddenly</strong> realized that I had forgotten my keys. (Tôi đột nhiên nhận ra rằng mình đã quên chìa khóa.)</li>
+        <li value="2">Suddenly <strong>realized</strong> /ˈriːəlaɪzd/</li>
+        <li className="list-none">I ______ that I had forgotten my keys.</li>
+        <li className="list-none margin-bottom-20">Tôi đột nhiên nhận ra rằng mình đã quên chìa khóa.</li>
 
-        <li value="3"><strong>Suddenly</strong> appear: Đột nhiên xuất hiện /ˈsʌdənli əˈpɪər/</li>
-        <li className="list-none margin-bottom-20">A ghost <strong>suddenly</strong> appeared in the mirror. (Một bóng ma đột nhiên xuất hiện trong gương.)</li>
+        <li value="3">Suddenly <strong>appeared</strong> /əˈpɪərd/</li>
+        <li className="list-none">A ghost ______ in the mirror.</li>
+        <li className="list-none margin-bottom-20">Một bóng ma đột nhiên xuất hiện trong gương.</li>
 
-        <li value="4"><strong>Suddenly</strong> change: Đột nhiên thay đổi /ˈsʌdənli tʃeɪndʒ/</li>
-        <li className="list-none margin-bottom-20">The weather <strong>suddenly</strong> changed and it started to rain. (Thời tiết đột nhiên thay đổi và bắt đầu mưa.)</li>
+        <li value="4">Suddenly <strong>changed</strong> /tʃeɪndʒd/</li>
+        <li className="list-none">The weather ______ and it started to rain.</li>
+        <li className="list-none margin-bottom-20">Thời tiết đột nhiên thay đổi và bắt đầu mưa.</li>
 
-        <li value="5"><strong>Suddenly</strong> feel: Đột nhiên cảm thấy /ˈsʌdənli fiːl/</li>
-        <li className="list-none margin-bottom-20">I <strong>suddenly</strong> felt a sharp pain in my stomach. (Tôi đột nhiên cảm thấy một cơn đau nhói ở bụng.)</li>
+        <li value="5">Suddenly <strong>felt</strong> /felt/</li>
+        <li className="list-none">I ______ a sharp pain in my stomach.</li>
+        <li className="list-none margin-bottom-20">Tôi đột nhiên cảm thấy một cơn đau nhói ở bụng.</li>
 
-        <li value="6"><strong>Suddenly</strong> remember: Đột nhiên nhớ ra /ˈsʌdənli rɪˈmembər/</li>
-        <li className="list-none margin-bottom-20">I <strong>suddenly</strong> remembered where I had left my phone. (Tôi đột nhiên nhớ ra mình đã để điện thoại ở đâu.)</li>
+        <li value="6">Suddenly <strong>remembered</strong> /rɪˈmembərd/</li>
+        <li className="list-none">I ______ where I had left my phone.</li>
+        <li className="list-none margin-bottom-20">Tôi đột nhiên nhớ ra mình đã để điện thoại ở đâu.</li>
 
-        <li value="7"><strong>Suddenly</strong> disappear: Đột nhiên biến mất /ˈsʌdənli ˌdɪsəˈpɪər/</li>
-        <li className="list-none margin-bottom-20">The magician <strong>suddenly</strong> disappeared in a puff of smoke. (Nhà ảo thuật đột nhiên biến mất trong một làn khói.)</li>
+        <li value="7">Suddenly <strong>disappeared</strong> /ˌdɪsəˈpɪərd/</li>
+        <li className="list-none">The magician ______ in a puff of smoke.</li>
+        <li className="list-none margin-bottom-20">Nhà ảo thuật đột nhiên biến mất trong một làn khói.</li>
 
-        <li value="8"><strong>Suddenly</strong> become: Đột nhiên trở thành /ˈsʌdənli bɪˈkʌm/</li>
-        <li className="list-none margin-bottom-20">The sky <strong>suddenly</strong> became dark and stormy. (Bầu trời đột nhiên trở nên tối tăm và bão tố.)</li>
+        <li value="8">Suddenly <strong>became</strong> /bɪˈkeɪm/</li>
+        <li className="list-none">The sky ______ dark and stormy.</li>
+        <li className="list-none margin-bottom-20">Bầu trời đột nhiên trở nên tối tăm và bão tố.</li>
 
-        <li value="9"><strong>Suddenly</strong> realize: Đột nhiên nhận ra /ˈsʌdənli ˈriːəlaɪz/</li>
-        <li className="list-none margin-bottom-20">I <strong>suddenly</strong> realized that I had been walking in circles. (Tôi đột nhiên nhận ra rằng mình đã đi vòng tròn.)</li>
+        <li value="9">Suddenly <strong>realized</strong> /ˈriːəlaɪzd/</li>
+        <li className="list-none">I ______ that I had been walking in circles.</li>
+        <li className="list-none margin-bottom-20">Tôi đột nhiên nhận ra rằng mình đã đi vòng tròn.</li>
 
-        <li value="10"><strong>Suddenly</strong> stop working: Đột nhiên ngừng hoạt động /ˈsʌdənli stɒp ˈwɜːkɪŋ/</li>
-        <li className="list-none margin-bottom-20">The computer <strong>suddenly</strong> stopped working. (Máy tính đột nhiên ngừng hoạt động.)</li>
+        <li value="10">Suddenly <strong>stoped working</strong> /stɒpt ˈwɜːkɪŋ/</li>
+        <li className="list-none">The computer ______</li>
+        <li className="list-none margin-bottom-20">Máy tính đột nhiên ngừng hoạt động.</li>
 
       </ol>
 

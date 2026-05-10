@@ -63,9 +63,11 @@ export default function Suddenly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li><strong>Suddenly</strong>, the lights went out. (Đột nhiên, đèn tắt.)</li>
+          <li>______, the lights went out.</li>
+          <li className="margin-bottom-20 list-none">Đột nhiên, đèn tắt.</li>
 
-          <li>She <strong>suddenly</strong> realized she had left her phone at home. (Cô ấy đột nhiên nhận ra mình đã để quên điện thoại ở nhà.)</li>
+          <li>She ______ realized she had left her phone at home.</li>
+          <li className="list-none">Cô ấy đột nhiên nhận ra mình đã để quên điện thoại ở nhà.</li>
 
         </ul>
 
@@ -81,11 +83,13 @@ export default function Suddenly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Sudden (adj): Đột ngột /ˈsʌdən/</li>
-          <li className="margin-bottom-20 list-none">A sudden storm caused the power outage. (Một cơn bão đột ngột đã gây ra mất điện.)</li>
+          <li>Sudden (adj) /ˈsʌdən/</li>
+          <li className="list-none">A ______ storm caused the power outage.</li>
+          <li className="margin-bottom-20 list-none">Một cơn bão đột ngột đã gây ra mất điện.</li>
 
-          <li>Suddenness (n): Sự đột ngột /ˈsʌdən.nəs/</li>
-          <li className="list-none">The suddenness of the accident shocked everyone. (Sự đột ngột của tai nạn khiến mọi người sốc.)</li>
+          <li>Suddenness (n) /ˈsʌdən.nəs/</li>
+          <li className="list-none">The ______ of the accident shocked everyone.</li>
+          <li className="list-none">Sự đột ngột của tai nạn khiến mọi người sốc.</li>
 
         </ul>
 
@@ -101,11 +105,13 @@ export default function Suddenly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Abruptly: Đột ngột, bất ngờ /əˈbrʌpt.li/</li>
-          <li className="margin-bottom-20 list-none">The music stopped abruptly. (Âm nhạc dừng lại đột ngột.)</li>
+          <li>Abruptly /əˈbrʌpt.li/</li>
+          <li className="list-none">The music stopped ______.</li>
+          <li className="margin-bottom-20 list-none">Âm nhạc dừng lại đột ngột.</li>
 
-          <li>Unexpectedly: Bất ngờ /ʌn.ɪkˈspekt.ɪd.li/</li>
-          <li className="list-none">I unexpectedly ran into an old friend. (Tôi tình cờ gặp lại một người bạn cũ.)</li>
+          <li>Unexpectedly /ʌn.ɪkˈspekt.ɪd.li/</li>
+          <li className="list-none">I ______ ran into an old friend.</li>
+          <li className="list-none">Tôi tình cờ gặp lại một người bạn cũ.</li>
 
         </ul>
 
@@ -123,11 +129,13 @@ export default function Suddenly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Gradually: Dần dần /ˈɡrædʒ.u.ə.li/</li>
-          <li className="margin-bottom-20 list-none">The plant grew gradually taller. (Cây dần dần cao lên.)</li>
+          <li>Gradually /ˈɡrædʒ.u.ə.li/</li>
+          <li className="list-none">The plant grew ______ taller.</li>
+          <li className="margin-bottom-20 list-none">Cây dần dần cao lên.</li>
 
-          <li>Expectedly: Dự kiến /ɪkˈspekt.ɪd.li/</li>
-          <li className="list-none">As expected, it started to rain. (Như dự kiến, trời bắt đầu mưa.)</li>
+          <li>As expected /əz ɪkˈspektɪd/</li>
+          <li className="list-none">______, it started to rain.</li>
+          <li className="list-none">Như dự kiến, trời bắt đầu mưa.</li>
 
         </ul>
       
@@ -152,8 +160,8 @@ export default function Suddenly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>The ball <strong>suddenly</strong> fell from the sky.</li>
-          <li className="list-none">(Quả bóng đột ngột rơi từ trên trời xuống.)</li>
+          <li>The ball ______ fell from the sky.</li>
+          <li className="list-none">Quả bóng đột ngột rơi từ trên trời xuống.</li>
 
         </ul>
 
@@ -172,8 +180,8 @@ export default function Suddenly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>While I was walking, I <strong>suddenly</strong> heard a loud noise.</li>
-          <li className="list-none">(Khi tôi đang đi, đột nhiên tôi nghe thấy một tiếng động lớn.)</li>
+          <li>While I was walking, I ______ heard a loud noise.</li>
+          <li className="list-none">Khi tôi đang đi, đột nhiên tôi nghe thấy một tiếng động lớn.</li>
 
         </ul>
 
@@ -188,15 +196,17 @@ export default function Suddenly1(): React.JSX.Element {
         <strong>&nbsp;thường xuyên</strong>:
       </p>
 
-      <p className="text-indent-whole">Thường xuyên sử dụng từ này trong các cuộc trò chuyện hoặc bài viết.</p>
+      <p className="text-indent-whole margin-bottom-20">Thường xuyên sử dụng từ này trong các cuộc trò chuyện hoặc bài viết.</p>
 
         <p className="text-indent-whole">Ví dụ để so sánh (sự khác biệt):</p>
 
           <ol>
 
-            <li>The train arrived. (Tàu đến.)</li>
+            <li>The train arrived.</li>
+            <li className="list-none margin-bottom-20">Tàu đến.</li>
 
-            <li className="margin-bottom-20">The train <strong>suddenly</strong> arrived. (Tàu đột ngột đến.)</li>
+            <li value="2">The train ______ arrived.</li>
+            <li className="list-none margin-bottom-20">Tàu đột ngột đến.</li>
 
           </ol>
 
