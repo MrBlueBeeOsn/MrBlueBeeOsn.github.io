@@ -62,35 +62,45 @@ export default function Soon2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1">As <strong>soon</strong> as: Ngay khi /æz suːn æz/</li>
-        <li className="list-none margin-bottom-20">As <strong>soon</strong> as I finish my work, I'll call you. (Ngay khi tôi làm xong việc, tôi sẽ gọi cho bạn.)</li>
+        <li value="1"><strong>As</strong> soon <strong>as</strong> /æz æz/</li>
+        <li className="list-none">______ I finish my work, I'll call you.</li>
+        <li className="list-none margin-bottom-20">Ngay khi tôi làm xong việc, tôi sẽ gọi cho bạn.</li>
 
-        <li value="2">Very <strong>soon</strong>: Rất sớm /ˈveri suːn/</li>
-        <li className="list-none margin-bottom-20">I'll be back very <strong>soon</strong>. (Tôi sẽ quay lại rất sớm.)</li>
+        <li value="2"><strong>Very</strong> soon /suːn/</li>
+        <li className="list-none">I'll be back ______.</li>
+        <li className="list-none margin-bottom-20">Tôi sẽ quay lại rất sớm.</li>
 
-        <li value="3">See you <strong>soon</strong>: Hẹn gặp lại sớm /siː juː suːn/</li>
-        <li className="list-none margin-bottom-20">It was nice seeing you. See you <strong>soon</strong>! (Gặp bạn thật vui. Hẹn gặp lại sớm!)</li>
+        <li value="3"><strong>See you</strong> soon /siː juː/</li>
+        <li className="list-none">It was nice seeing you. ______!</li>
+        <li className="list-none margin-bottom-20">Gặp bạn thật vui. Hẹn gặp lại sớm!</li>
 
-        <li value="4">As <strong>soon</strong> as possible: Càng sớm càng tốt /æz suːn æz ˈpɒs.ə.bəl/</li>
-        <li className="list-none margin-bottom-20">Please reply as <strong>soon</strong> as possible. (Vui lòng trả lời càng sớm càng tốt.)</li>
+        <li value="4"><strong>As</strong> soon <strong>as possible</strong> /æz æz ˈpɒs.ə.bəl/</li>
+        <li className="list-none">Please reply ______.</li>
+        <li className="list-none margin-bottom-20">Vui lòng trả lời càng sớm càng tốt.</li>
 
-        <li value="5"><strong>Soon</strong> after: Ngay sau khi /suːn ˈɑːf.tər/</li>
-        <li className="list-none margin-bottom-20"><strong>Soon</strong> after he arrived, the party started. (Ngay sau khi anh ấy đến, bữa tiệc bắt đầu.)</li>
+        <li value="5">Soon <strong>after</strong> /ˈɑːf.tər/</li>
+        <li className="list-none">______ he arrived, the party started.</li>
+        <li className="list-none margin-bottom-20">Ngay sau khi anh ấy đến, bữa tiệc bắt đầu.</li>
 
-        <li value="6">How <strong>soon</strong>: Bao lâu nữa /haʊ suːn/</li>
-        <li className="list-none margin-bottom-20">How <strong>soon</strong> will the train arrive? (Tàu sẽ đến bao lâu nữa?)</li>
+        <li value="6"><strong>How</strong> soon /haʊ/</li>
+        <li className="list-none">______ will the train arrive?</li>
+        <li className="list-none margin-bottom-20">Tàu sẽ đến bao lâu nữa?</li>
 
-        <li value="7">Till <strong>soon</strong>: Cho đến khi gặp lại /tɪl suːn/</li>
-        <li className="list-none margin-bottom-20">Till <strong>soon</strong>! (Cho đến khi gặp lại!)</li>
+        <li value="7"><strong>Till</strong> soon /suːn/</li>
+        <li className="list-none">______!</li>
+        <li className="list-none margin-bottom-20">Cho đến khi gặp lại!</li>
 
-        <li value="8">Any time <strong>soon</strong>: Trong thời gian gần /ˈɛni taɪm suːn/</li>
-        <li className="list-none margin-bottom-20">Are you going to visit your parents any time <strong>soon</strong>? (Bạn có định thăm ba mẹ trong thời gian gần không?)</li>
+        <li value="8"><strong>Any time</strong> soon /ˈɛni taɪm/</li>
+        <li className="list-none">Are you going to visit your parents ______?</li>
+        <li className="list-none margin-bottom-20">Bạn có định thăm ba mẹ trong thời gian gần không?</li>
 
-        <li value="9">Sooner or later: Sớm muộn gì cũng /ˈsuːnər ɔːr ˈleɪ.tər/</li>
-        <li className="list-none margin-bottom-20">Sooner or later, you will realize your mistake. (Sớm muộn gì bạn cũng sẽ nhận ra lỗi lầm của mình.)</li>
+        <li value="9"><strong>Sooner or later</strong> /ˈsuːnər ɔːr ˈleɪ.tər/</li>
+        <li className="list-none">______, you will realize your mistake.</li>
+        <li className="list-none margin-bottom-20">Sớm muộn gì bạn cũng sẽ nhận ra lỗi lầm của mình.</li>
 
-        <li value="10">In the near future: Trong tương lai gần /ɪn ðə nɪər ˈfjuː.tʃər/</li>
-        <li className="list-none margin-bottom-20">We hope to visit you in the near future. (Chúng tôi hy vọng sẽ đến thăm bạn trong tương lai gần.)</li>
+        <li value="10"><strong>In the near future</strong> /ɪn ðə nɪər ˈfjuː.tʃər/</li>
+        <li className="list-none">We hope to visit you ______.</li>
+        <li className="list-none margin-bottom-20">Chúng tôi hy vọng sẽ đến thăm bạn trong tương lai gần.</li>
 
       </ol>
 

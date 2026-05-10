@@ -63,9 +63,11 @@ export default function Soon1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>I'll be back <strong>soon</strong>. (Tôi sẽ quay lại sớm.)</li>
+          <li>I'll be back ______.</li>
+          <li className="margin-bottom-20 list-none">Tôi sẽ quay lại sớm.</li>
 
-          <li>The party will start <strong>soon</strong>. (Bữa tiệc sẽ bắt đầu sớm.)</li>
+          <li>The party will start ______.</li>
+          <li className="list-none">Bữa tiệc sẽ bắt đầu sớm.</li>
 
         </ul>
 
@@ -81,8 +83,13 @@ export default function Soon1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Soonest: (adv) /ˈsuːnəst/ - sớm nhất</li>
-          <li className="list-none">When can you come? The sooner, the better. (Bạn có thể đến khi nào? Càng sớm càng tốt.)</li>
+          <li>Soonest (adv) /ˈsuːnəst/</li>
+          <li className="list-none">I will reply ______.</li>
+          <li className="margin-bottom-20 list-none">Tôi sẽ phản hồi sớm nhất.</li>
+
+          <li>The sooner, the better /ðə ˈsuːnə, ðə ˈbɛtə/</li>
+          <li className="list-none">When can you come? ______.</li>
+          <li className="list-none">Bạn có thể đến khi nào? Càng sớm càng tốt.</li>
 
         </ul>
 
@@ -98,11 +105,13 @@ export default function Soon1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Shortly: (adv) /ˈʃɔːrtli/ - trong thời gian ngắn</li>
-          <li className="margin-bottom-20 list-none">I will be with you shortly. (Tôi sẽ đến với bạn ngay thôi.)</li>
+          <li>Shortly /ˈʃɔːrtli/</li>
+          <li className="list-none">I will be with you ______.</li>
+          <li className="margin-bottom-20 list-none">Tôi sẽ đến với bạn ngay thôi.</li>
 
-          <li><Link to="/vocabulary/presently-1">Presently</Link>: (adv) /ˈprezntlɪ/ - hiện tại, ngay lúc này</li>
-          <li className="list-none">I'll be with you presently. (Tôi sẽ đến với bạn ngay bây giờ.)</li>
+          <li><Link to="/vocabulary/presently-1">Presently</Link> /ˈprezntlɪ/</li>
+          <li className="list-none">I'll be with you ______.</li>
+          <li className="list-none">Tôi sẽ đến với bạn ngay bây giờ.</li>
 
         </ul>
 
@@ -120,11 +129,13 @@ export default function Soon1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Later: (adv) /ˈleɪtər/ - sau này</li>
-          <li className="margin-bottom-20 list-none">Let's meet later. (Chúng ta gặp nhau sau nhé.)</li>
+          <li>Later (adv) /ˈleɪtər/</li>
+          <li className="list-none">Let's meet ______.</li>
+          <li className="margin-bottom-20 list-none">Chúng ta gặp nhau sau nhé.</li>
 
-          <li><Link to="/vocabulary/never-1">Never</Link>: (adv) /ˈnɛvər/ - chưa bao giờ</li>
-          <li className="list-none">I will never forget you. (Tôi sẽ không bao giờ quên bạn.)</li>
+          <li><Link to="/vocabulary/never-1">Never</Link> (adv) /ˈnɛvər/</li>
+          <li className="list-none">I will ______ forget you.</li>
+          <li className="list-none">Tôi sẽ không bao giờ quên bạn.</li>
 
         </ul>
       
@@ -149,8 +160,8 @@ export default function Soon1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>The clock is counting down. Time's up <strong>soon</strong>.</li>
-          <li className="list-none">(Đồng hồ đang đếm ngược. Thời gian sắp hết.)</li>
+          <li>The clock is counting down. Time's up ______.</li>
+          <li className="list-none">Đồng hồ đang đếm ngược. Thời gian sắp hết.</li>
 
         </ul>
 
@@ -169,8 +180,8 @@ export default function Soon1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>The meeting will start <strong>soon</strong>.</li>
-          <li className="list-none">(Cuộc họp sẽ bắt đầu sớm.)</li>
+          <li>The meeting will start ______.</li>
+          <li className="list-none">Cuộc họp sẽ bắt đầu sớm.</li>
 
         </ul>
 
@@ -185,17 +196,19 @@ export default function Soon1(): React.JSX.Element {
         <strong>&nbsp;thường xuyên</strong>:
       </p>
 
-      <p className="text-indent-whole">Thường xuyên sử dụng từ "<strong>soon</strong>" trong giao tiếp hoặc khi viết.</p>
+      <p className="text-indent-whole margin-bottom-20">Thường xuyên sử dụng từ "<strong>soon</strong>" trong giao tiếp hoặc khi viết.</p>
 
         <p className="text-indent-whole">Ví dụ để so sánh (sự khác biệt giữa shortly và <strong>soon</strong>):</p>
 
           <ol>
 
             <li>Shortly: Nhấn mạnh thời gian ngắn hơn và thường được sử dụng trong văn viết trang trọng.</li>
-            <li className="list-none margin-bottom-20">The meeting will commence shortly. (Cuộc họp sẽ bắt đầu trong thời gian ngắn.)</li>
+            <li className="list-none">The meeting will commence ______.</li>
+            <li className="list-none margin-bottom-20">Cuộc họp sẽ bắt đầu trong thời gian ngắn.</li>
 
             <li value="2"><strong>Soon</strong>: Mang ý nghĩa chung chung về một <span className="highlight-255-padding-0-4">khoảng thời gian ngắn trong tương lai</span>.</li>
-            <li className="list-none margin-bottom-20">I'll be back <strong>soon</strong>. (Tôi sẽ quay lại sớm.)</li>
+            <li className="list-none">I'll be back ______.</li>
+            <li className="list-none margin-bottom-20">Tôi sẽ quay lại sớm.</li>
 
           </ol>
 
