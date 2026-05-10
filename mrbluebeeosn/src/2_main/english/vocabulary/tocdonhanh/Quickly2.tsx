@@ -62,35 +62,45 @@ export default function Quickly2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1"><strong>Quickly</strong> growing: Phát triển nhanh chóng /ˈkwɪkli ˈɡroʊɪŋ/</li>
-        <li className="list-none margin-bottom-20">The city is <strong>quickly</strong> growing and expanding. (Thành phố đang phát triển và mở rộng rất nhanh.)</li>
+        <li value="1">Quickly <strong>growing</strong> /ˈɡroʊɪŋ/</li>
+        <li className="list-none">The city is ______ and expanding.</li>
+        <li className="list-none margin-bottom-20">Thành phố đang phát triển và mở rộng rất nhanh.</li>
 
-        <li value="2"><strong>Quickly</strong> fading: Nhanh chóng phai mờ /ˈkwɪkli ˈfeɪdɪŋ/</li>
-        <li className="list-none margin-bottom-20">The sun <strong>quickly</strong> faded behind the clouds. (Mặt trời nhanh chóng biến mất sau những đám mây.)</li>
+        <li value="2">Quickly <strong>faded</strong> /ˈfeɪdɪd/</li>
+        <li className="list-none">The sun ______ behind the clouds.</li>
+        <li className="list-none margin-bottom-20">Mặt trời nhanh chóng biến mất sau những đám mây.</li>
 
-        <li value="3"><strong>Quickly</strong> changing: Thay đổi nhanh chóng /ˈkwɪkli ˈtʃeɪndʒɪŋ/</li>
-        <li className="list-none margin-bottom-20">The fashion industry is <strong>quickly</strong> changing. (Ngành công nghiệp thời trang đang thay đổi rất nhanh.)</li>
+        <li value="3">Quickly <strong>changing</strong> /ˈtʃeɪndʒɪŋ/</li>
+        <li className="list-none">The fashion industry is ______.</li>
+        <li className="list-none margin-bottom-20">Ngành công nghiệp thời trang đang thay đổi rất nhanh.</li>
 
-        <li value="4"><strong>Quickly</strong> realized: Nhanh chóng nhận ra /ˈkwɪkli ˈriːəlaɪzd/</li>
-        <li className="list-none margin-bottom-20">I <strong>quickly</strong> realized my mistake. (Tôi nhanh chóng nhận ra lỗi lầm của mình.)</li>
+        <li value="4">Quickly <strong>realized</strong> /ˈriːəlaɪzd/</li>
+        <li className="list-none">I ______ my mistake.</li>
+        <li className="list-none margin-bottom-20">Tôi nhanh chóng nhận ra lỗi lầm của mình.</li>
 
-        <li value="5"><strong>Quickly</strong> forgotten: Nhanh chóng bị quên lãng /ˈkwɪkli fərˈɡɒtən/</li>
-        <li className="list-none margin-bottom-20">The incident was <strong>quickly</strong> forgotten. (Vụ việc đó nhanh chóng bị lãng quên.)</li>
+        <li value="5">Quickly <strong>forgotten</strong> /fərˈɡɒtən/</li>
+        <li className="list-none">The incident was ______.</li>
+        <li className="list-none margin-bottom-20">Vụ việc đó nhanh chóng bị lãng quên.</li>
 
-        <li value="6"><strong>Quickly</strong> spreading: Lây lan nhanh chóng /ˈkwɪkli ˈsprɛdɪŋ/</li>
-        <li className="list-none margin-bottom-20">The rumor <strong>quickly</strong> spread throughout the school. (Tin đồn nhanh chóng lan truyền khắp trường học.)</li>
+        <li value="6">Quickly <strong>spread</strong> /ˈsprɛd/</li>
+        <li className="list-none">The rumor ______ throughout the school.</li>
+        <li className="list-none margin-bottom-20">Tin đồn nhanh chóng lan truyền khắp trường học.</li>
 
-        <li value="7"><strong>Quickly</strong> solved: Nhanh chóng được giải quyết /ˈkwɪkli sɒlvd/</li>
-        <li className="list-none margin-bottom-20">The problem was <strong>quickly</strong> solved. (Vấn đề đã được giải quyết nhanh chóng.)</li>
+        <li value="7">Quickly <strong>solved</strong> /sɒlvd/</li>
+        <li className="list-none">The problem was ______.</li>
+        <li className="list-none margin-bottom-20">Vấn đề đã được giải quyết nhanh chóng.</li>
 
-        <li value="8"><strong>Quickly</strong> tired: Nhanh chóng mệt mỏi /ˈkwɪkli ˈtaɪərd/</li>
-        <li className="list-none margin-bottom-20">After a long day, I was <strong>quickly</strong> tired. (Sau một ngày dài, tôi nhanh chóng cảm thấy mệt mỏi.)</li>
+        <li value="8">Quickly <strong>tired</strong> /ˈtaɪərd/</li>
+        <li className="list-none">After a long day, I was ______.</li>
+        <li className="list-none margin-bottom-20">Sau một ngày dài, tôi nhanh chóng cảm thấy mệt mỏi.</li>
 
-        <li value="9"><strong>Quickly</strong> bored: Nhanh chóng chán ˈkwɪkli bɔːrd/</li>
-        <li className="list-none margin-bottom-20">She <strong>quickly</strong> became bored with the movie. (Cô ấy nhanh chóng cảm thấy chán bộ phim.)</li>
+        <li value="9">Quickly <strong>became bored</strong> /bɪˈkeɪm bɔːrd/</li>
+        <li className="list-none">She ______ with the movie.</li>
+        <li className="list-none margin-bottom-20">Cô ấy nhanh chóng cảm thấy chán bộ phim.</li>
 
-        <li value="10"><strong>Quickly</strong> eaten: Nhanh chóng được ăn hết /ˈkwɪkli ˈiːtən/</li>
-        <li className="list-none margin-bottom-20">The cake was <strong>quickly</strong> eaten by the children. (Cái bánh nhanh chóng bị bọn trẻ ăn hết.)</li>
+        <li value="10">Quickly <strong>eaten</strong> /ˈiːtən/</li>
+        <li className="list-none">The cake was ______ by the children.</li>
+        <li className="list-none margin-bottom-20">Cái bánh nhanh chóng bị bọn trẻ ăn hết.</li>
 
       </ol>
 
