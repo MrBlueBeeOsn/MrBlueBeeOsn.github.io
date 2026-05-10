@@ -63,9 +63,11 @@ export default function Usually1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>I <strong>usually</strong> get up at 7 am. (Tôi thường thức dậy lúc 7 giờ sáng.)</li>
+          <li>I ______ get up at 7 am.</li>
+          <li className="margin-bottom-20 list-none">Tôi thường thức dậy lúc 7 giờ sáng.</li>
 
-          <li>We <strong>usually</strong> go to the movies on weekends. (Chúng tôi thường đi xem phim vào cuối tuần.)</li>
+          <li>We ______ go to the movies on weekends.</li>
+          <li className="list-none">Chúng tôi thường đi xem phim vào cuối tuần.</li>
 
         </ul>
 
@@ -81,11 +83,13 @@ export default function Usually1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Usual (adj): Thông thường /ˈjuːʒuəl/</li>
-          <li className="margin-bottom-20 list-none">This is my usual routine. (Đây là thói quen thường ngày của tôi.)</li>
+          <li>Usual (adj) /ˈjuːʒuəl/</li>
+          <li className="list-none">This is my ______ routine.</li>
+          <li className="margin-bottom-20 list-none">Đây là thói quen thường ngày của tôi.</li>
 
-          <li>Use (v): Sử dụng /juːz/</li>
-          <li className="list-none">I use this pen every day. (Tôi dùng cây bút này mỗi ngày.)</li>
+          <li>Use (v) /juːz/</li>
+          <li className="list-none">I ______ this pen every day.</li>
+          <li className="list-none">Tôi dùng cây bút này mỗi ngày.</li>
 
         </ul>
 
@@ -101,11 +105,13 @@ export default function Usually1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Typically: Điển hình /ˈtɪpɪkli/</li>
-          <li className="margin-bottom-20 list-none">Typically, I eat breakfast at 8 am. (Điển hình là, tôi ăn sáng lúc 8 giờ.)</li>
+          <li>Typically /ˈtɪpɪkli/</li>
+          <li className="list-none">______, I eat breakfast at 8 am.</li>
+          <li className="margin-bottom-20 list-none">Điển hình là, tôi ăn sáng lúc 8 giờ.</li>
 
-          <li>Normally: Bình thường /ˈnɔːrməli/</li>
-          <li className="list-none">Normally, I go to bed at 10 pm. (Bình thường, tôi đi ngủ lúc 10 giờ tối.)</li>
+          <li>Normally /ˈnɔːrməli/</li>
+          <li className="list-none">______, I go to bed at 10 pm.</li>
+          <li className="list-none">Bình thường, tôi đi ngủ lúc 10 giờ tối.</li>
 
         </ul>
 
@@ -123,11 +129,13 @@ export default function Usually1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li><Link to="/vocabulary/rarely-1">Rarely</Link>: Hiếm khi /ˈreərli/</li>
-          <li className="margin-bottom-20 list-none">I rarely eat spicy food. (Tôi hiếm khi ăn đồ ăn cay.)</li>
+          <li><Link to="/vocabulary/rarely-1">Rarely</Link> /ˈreərli/</li>
+          <li className="list-none">I ______ eat spicy food.</li>
+          <li className="margin-bottom-20 list-none">Tôi hiếm khi ăn đồ ăn cay.</li>
 
-          <li><Link to="/vocabulary/never-1">Never</Link>: Không bao giờ /ˈnevər/</li>
-          <li className="list-none">I never drink coffee. (Tôi không bao giờ uống cà phê.)</li>
+          <li><Link to="/vocabulary/never-1">Never</Link> /ˈnevər/</li>
+          <li className="list-none">I ______ drink coffee.</li>
+          <li className="list-none">Tôi không bao giờ uống cà phê.</li>
 
         </ul>
       
@@ -152,8 +160,8 @@ export default function Usually1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>I <strong>usually</strong> go for a run after breakfast, as marked on my schedule.</li>
-          <li className="list-none">(Tôi thường đi chạy bộ sau bữa sáng, như đã đánh dấu trên lịch trình của tôi.)</li>
+          <li>I ______ go for a run after breakfast, as marked on my schedule.</li>
+          <li className="list-none">Tôi thường đi chạy bộ sau bữa sáng, như đã đánh dấu trên lịch trình của tôi.</li>
 
         </ul>
 
@@ -172,8 +180,8 @@ export default function Usually1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>I <strong>usually</strong> have coffee and toast for breakfast.</li>
-          <li className="list-none">(Tôi thường ăn sáng bằng cà phê và bánh mì nướng.)</li>
+          <li>I ______ have coffee and toast for breakfast.</li>
+          <li className="list-none">Tôi thường ăn sáng bằng cà phê và bánh mì nướng.</li>
 
         </ul>
 
@@ -188,15 +196,17 @@ export default function Usually1(): React.JSX.Element {
         <strong>&nbsp;thường xuyên</strong>:
       </p>
 
-      <p className="text-indent-whole">Thường xuyên sử dụng từ này trong các cuộc hội thoại và bài viết.</p>
+      <p className="text-indent-whole margin-bottom-20">Thường xuyên sử dụng từ này trong các cuộc hội thoại và bài viết.</p>
 
         <p className="text-indent-whole">Ví dụ để so sánh (sự khác biệt):</p>
 
           <ol>
 
-            <li>I go to the gym. (Tôi đi đến phòng tập thể dục.)</li>
+            <li>I go to the gym.</li>
+            <li className="list-none margin-bottom-20">Tôi đi đến phòng tập thể dục.</li>
 
-            <li className="margin-bottom-20">I <strong>usually</strong> go to the gym on Tuesdays and Thursdays. (Tôi thường đi đến phòng tập thể dục vào thứ Ba và thứ Năm.)</li>
+            <li value="2">I ______ go to the gym on Tuesdays and Thursdays.</li>
+            <li className="list-none margin-bottom-20">Tôi thường đi đến phòng tập thể dục vào thứ Ba và thứ Năm.</li>
 
           </ol>
 

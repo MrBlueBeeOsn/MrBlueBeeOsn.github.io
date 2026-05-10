@@ -62,35 +62,45 @@ export default function Usually2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1"><strong>Usually</strong> does: Thường làm /ˈjuːʒuəli dəz/</li>
-        <li className="list-none margin-bottom-20">She <strong>usually</strong> does her homework after dinner. (Cô ấy thường làm bài tập về nhà sau bữa tối.)</li>
+        <li value="1">Usually <strong>does</strong> /dəz/</li>
+        <li className="list-none">She ______ her homework after dinner.</li>
+        <li className="list-none margin-bottom-20">Cô ấy thường làm bài tập về nhà sau bữa tối.</li>
 
-        <li value="2"><strong>Usually</strong> goes: Thường đi /ˈjuːʒuəli ɡəʊz/</li>
-        <li className="list-none margin-bottom-20">He <strong>usually</strong> goes to bed at 10 pm. (Anh ấy thường đi ngủ lúc 10 giờ tối.)</li>
+        <li value="2">Usually <strong>goes</strong> /ɡəʊz/</li>
+        <li className="list-none">He ______ to bed at 10 pm.</li>
+        <li className="list-none margin-bottom-20">Anh ấy thường đi ngủ lúc 10 giờ tối.</li>
 
-        <li value="3"><strong>Usually</strong> happens: Thường xảy ra /ˈjuːʒuəli ˈhæpənz/</li>
-        <li className="list-none margin-bottom-20">It <strong>usually</strong> rains in the winter. (Mùa đông thường mưa.)</li>
+        <li value="3">Usually <strong>rains</strong> /reɪnz/</li>
+        <li className="list-none">It ______ in the winter.</li>
+        <li className="list-none margin-bottom-20">Mùa đông thường mưa.</li>
 
-        <li value="4"><strong>Usually</strong> takes: Thường mất /ˈjuːʒuəli teɪks/</li>
-        <li className="list-none margin-bottom-20">It <strong>usually</strong> takes me an hour to get to work. (Tôi thường mất một giờ để đi làm.)</li>
+        <li value="4">Usually <strong>takes</strong> /teɪks/</li>
+        <li className="list-none">It ______ me an hour to get to work.</li>
+        <li className="list-none margin-bottom-20">Tôi thường mất một giờ để đi làm.</li>
 
-        <li value="5"><strong>Usually</strong> feels: Thường cảm thấy /ˈjuːʒuəli fiːlz/</li>
-        <li className="list-none margin-bottom-20">She <strong>usually</strong> feels happy after exercising. (Cô ấy thường cảm thấy vui vẻ sau khi tập thể dục.)</li>
+        <li value="5">Usually <strong>feels</strong> /fiːlz/</li>
+        <li className="list-none">She ______ happy after exercising.</li>
+        <li className="list-none margin-bottom-20">Cô ấy thường cảm thấy vui vẻ sau khi tập thể dục.</li>
 
-        <li value="6"><strong>Usually</strong> looks: Thường trông /ˈjuːʒuəli lʊks/</li>
-        <li className="list-none margin-bottom-20">He <strong>usually</strong> looks tired in the morning. (Anh ấy thường trông mệt mỏi vào buổi sáng.)</li>
+        <li value="6">Usually <strong>looks</strong> /lʊks/</li>
+        <li className="list-none">He ______ tired in the morning.</li>
+        <li className="list-none margin-bottom-20">Anh ấy thường trông mệt mỏi vào buổi sáng.</li>
 
-        <li value="7"><strong>Usually</strong> eats: Thường ăn /ˈjuːʒuəli iːts/</li>
-        <li className="list-none margin-bottom-20">She <strong>usually</strong> eats fruits for breakfast. (Cô ấy thường ăn trái cây vào bữa sáng.)</li>
+        <li value="7">Usually <strong>eats</strong> /iːts/</li>
+        <li className="list-none">She ______ fruits for breakfast.</li>
+        <li className="list-none margin-bottom-20">Cô ấy thường ăn trái cây vào bữa sáng.</li>
 
-        <li value="8"><strong>Usually</strong> lives: Thường sống /ˈjuːʒuəli lɪvz/</li>
-        <li className="list-none margin-bottom-20">He <strong>usually</strong> lives in a small apartment. (Anh ấy thường sống trong một căn hộ nhỏ.)</li>
+        <li value="8">Usually <strong>lives</strong> /lɪvz/</li>
+        <li className="list-none">He ______ in a small apartment.</li>
+        <li className="list-none margin-bottom-20">Anh ấy thường sống trong một căn hộ nhỏ.</li>
 
-        <li value="9"><strong>Usually</strong> works: Thường làm việc /ˈjuːʒuəli wɜːks/</li>
-        <li className="list-none margin-bottom-20">She <strong>usually</strong> works from home on Fridays. (Cô ấy thường làm việc tại nhà vào thứ Sáu.)</li>
+        <li value="9">Usually <strong>works</strong> /wɜːks/</li>
+        <li className="list-none">She ______ from home on Fridays.</li>
+        <li className="list-none margin-bottom-20">Cô ấy thường làm việc tại nhà vào thứ Sáu.</li>
 
-        <li value="10"><strong>Usually</strong> plays: Thường chơi /ˈjuːʒuəli pleɪz/</li>
-        <li className="list-none margin-bottom-20">He <strong>usually</strong> plays basketball with his friends on weekends. (Anh ấy thường chơi bóng rổ với bạn bè vào cuối tuần.)</li>
+        <li value="10">Usually <strong>plays</strong> /pleɪz/</li>
+        <li className="list-none">He ______ basketball with his friends on weekends.</li>
+        <li className="list-none margin-bottom-20">Anh ấy thường chơi bóng rổ với bạn bè vào cuối tuần.</li>
 
       </ol>
 
