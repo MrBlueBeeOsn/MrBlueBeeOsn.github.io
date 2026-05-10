@@ -64,35 +64,45 @@ export default function Tomorrow2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1"><strong>Tomorrow</strong> morning: Sáng mai /təˈmɔːroʊ ˈmɔːrnɪŋ/</li>
-        <li className="list-none margin-bottom-20">I have a meeting <strong>tomorrow</strong> morning. (Tôi có một cuộc họp vào sáng mai.)</li>
+        <li value="1">Tomorrow <strong>morning</strong> /ˈmɔːrnɪŋ/</li>
+        <li className="list-none">I have a meeting ______.</li>
+        <li className="list-none margin-bottom-20">Tôi có một cuộc họp vào sáng mai.</li>
 
-        <li value="2"><strong>Tomorrow</strong> afternoon: Chiều mai /təˈmɔːroʊ ˌɑːftərˈnuːn/</li>
-        <li className="list-none margin-bottom-20">Let's go to the beach <strong>tomorrow</strong> afternoon. (Chúng ta hãy đi biển vào chiều mai.)</li>
+        <li value="2">Tomorrow <strong>afternoon</strong> /ˌɑːftərˈnuːn/</li>
+        <li className="list-none">Let's go to the beach ______.</li>
+        <li className="list-none margin-bottom-20">Chúng ta hãy đi biển vào chiều mai.</li>
 
-        <li value="3"><strong>Tomorrow</strong> evening: Tối mai /təˈmɔːroʊ ˈiːvnɪŋ/</li>
-        <li className="list-none margin-bottom-20">I'm going to a party <strong>tomorrow</strong> evening. (Tôi sẽ đi dự tiệc vào tối mai.)</li>
+        <li value="3">Tomorrow <strong>evening</strong> /ˈiːvnɪŋ/</li>
+        <li className="list-none">I'm going to a party ______.</li>
+        <li className="list-none margin-bottom-20">Tôi sẽ đi dự tiệc vào tối mai.</li>
 
-        <li value="4"><strong>Tomorrow</strong> night: Đêm mai /təˈmɔːroʊ naɪt/</li>
-        <li className="list-none margin-bottom-20">It will be cold <strong>tomorrow</strong> night. (Đêm mai sẽ lạnh.)</li>
+        <li value="4">Tomorrow <strong>night</strong> /naɪt/</li>
+        <li className="list-none">It will be cold ______.</li>
+        <li className="list-none margin-bottom-20">Đêm mai sẽ lạnh.</li>
 
-        <li value="5">Day after <strong>tomorrow</strong>: Ngày kia /deɪ ˈɑːftər təˈmɔːroʊ/</li>
-        <li className="list-none margin-bottom-20">I'll see you day after <strong>tomorrow</strong>. (Tôi sẽ gặp bạn vào ngày kia.)</li>
+        <li value="5"><strong>Day after</strong> tomorrow /deɪ ˈɑːftər/</li>
+        <li className="list-none">I'll see you ______.</li>
+        <li className="list-none margin-bottom-20">Tôi sẽ gặp bạn vào ngày kia.</li>
 
-        <li value="6">The day after <strong>tomorrow</strong>: Ngày kia /ðə deɪ ˈɑːftər təˈmɔːroʊ/</li>
-        <li className="list-none margin-bottom-20">I have a dentist appointment the day after <strong>tomorrow</strong>. (Tôi có hẹn với nha sĩ vào ngày kia.)</li>
+        <li value="6"><strong>The day after</strong> tomorrow /ðə deɪ ˈɑːftər/</li>
+        <li className="list-none">I have a dentist appointment ______.</li>
+        <li className="list-none margin-bottom-20">Tôi có hẹn với nha sĩ vào ngày kia.</li>
 
-        <li value="7"><strong>Tomorrow</strong> week: Tuần sau /təˈmɔːroʊ wiːk/</li>
-        <li className="list-none margin-bottom-20">I'm going on vacation <strong>tomorrow</strong> week. (Tôi sẽ đi nghỉ mát vào tuần sau.)</li>
+        <li value="7">Tomorrow <strong>week</strong> /wiːk/</li>
+        <li className="list-none">I'm going on vacation ______.</li>
+        <li className="list-none margin-bottom-20">Tôi sẽ đi nghỉ mát vào tuần sau.</li>
 
-        <li value="8"><strong>Tomorrow</strong> month: Tháng sau /təˈmɔːroʊ mʌnθ/</li>
-        <li className="list-none margin-bottom-20">My birthday is <strong>tomorrow</strong> month. (Sinh nhật tôi vào tháng sau.)</li>
+        <li value="8">Tomorrow <strong>month</strong> /mʌnθ/</li>
+        <li className="list-none">My birthday is ______.</li>
+        <li className="list-none margin-bottom-20">Sinh nhật tôi vào tháng sau.</li>
 
-        <li value="9"><strong>Tomorrow</strong> and the next day: Ngày mai và ngày kia /təˈmɔːroʊ ænd ðə nekst deɪ/</li>
-        <li className="list-none margin-bottom-20">I'll be busy <strong>tomorrow</strong> and the next day. (Tôi sẽ bận rộn vào ngày mai và ngày kia.)</li>
+        <li value="9">Tomorrow <strong>and the next day</strong> /ænd ðə nekst deɪ/</li>
+        <li className="list-none">I'll be busy ______.</li>
+        <li className="list-none margin-bottom-20">Tôi sẽ bận rộn vào ngày mai và ngày kia.</li>
 
-        <li value="10"><strong>Tomorrow</strong> or the day after: Ngày mai hoặc ngày kia /təˈmɔːroʊ ɔːr ðə deɪ ˈɑːftər/</li>
-        <li className="list-none margin-bottom-20">We can meet <strong>tomorrow</strong> or the day after. (Chúng ta có thể gặp nhau vào ngày mai hoặc ngày kia.)</li>
+        <li value="10">Tomorrow <strong>or the day after</strong> /ɔːr ðə deɪ ˈɑːftər/</li>
+        <li className="list-none">We can meet ______.</li>
+        <li className="list-none margin-bottom-20">Chúng ta có thể gặp nhau vào ngày mai hoặc ngày kia.</li>
 
       </ol>
 

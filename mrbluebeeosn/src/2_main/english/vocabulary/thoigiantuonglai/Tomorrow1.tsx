@@ -63,9 +63,11 @@ export default function Tomorrow1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>I will go to the beach <strong>tomorrow</strong>. (Ngày mai tôi sẽ đi biển.)</li>
+          <li>I will go to the beach ______.</li>
+          <li className="margin-bottom-20 list-none">Ngày mai tôi sẽ đi biển.</li>
 
-          <li>It will be sunny <strong>tomorrow</strong>. (Ngày mai trời sẽ nắng.)</li>
+          <li>It will be sunny ______.</li>
+          <li className="list-none">Ngày mai trời sẽ nắng.</li>
 
         </ul>
 
@@ -81,11 +83,13 @@ export default function Tomorrow1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li><strong>Tomorrow</strong>: (noun) Ngày mai /təˈmɔː.roʊ/</li>
-          <li className="margin-bottom-20 list-none"><strong>Tomorrow</strong> is my birthday. (Ngày mai là sinh nhật của tôi.)</li>
+          <li><strong>Tomorrow</strong> (noun) /təˈmɔː.roʊ/</li>
+          <li className="list-none">______ is my birthday.</li>
+          <li className="margin-bottom-20 list-none">Ngày mai là sinh nhật của tôi.</li>
 
-          <li>Day: (noun) Ngày /deɪ/</li>
-          <li className="list-none">Every day I go to school. (Mỗi ngày tôi đều đi học.)</li>
+          <li>Day (noun) /deɪ/</li>
+          <li className="list-none">Every ______ I go to school.</li>
+          <li className="list-none">Mỗi ngày tôi đều đi học.</li>
 
         </ul>
 
@@ -101,11 +105,11 @@ export default function Tomorrow1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>The day after <strong>tomorrow</strong>: Ngày kia /ðə deɪ ˈɑː.f.tər təˈmɔː.roʊ/</li>
-          <li className="margin-bottom-20 list-none">I'm going on a trip the day after <strong>tomorrow</strong>. (Ngày kia tôi sẽ đi du lịch.)</li>
+          <li>The day after <strong>tomorrow</strong> /ðə deɪ ˈɑː.f.tər təˈmɔː.roʊ/</li>
+          <li className="margin-bottom-20 list-none">I'm going on a trip ______. (Ngày kia tôi sẽ đi du lịch.)</li>
 
-          <li>The next day: Ngày kế tiếp /ðə nɛkst deɪ/</li>
-          <li className="list-none">The next day, she went to school. (Ngày hôm sau cô ấy đến trường.)</li>
+          <li>The next day /ðə nɛkst deɪ/</li>
+          <li className="list-none">______, she went to school. (Ngày hôm sau cô ấy đến trường.)</li>
 
         </ul>
 
@@ -123,11 +127,13 @@ export default function Tomorrow1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Yesterday: Hôm qua /ˈjes.tər.deɪ/</li>
-          <li className="margin-bottom-20 list-none">I went to the park yesterday. (Hôm qua tôi đã đến công viên.)</li>
+          <li>Yesterday /ˈjes.tər.deɪ/</li>
+          <li className="list-none">I went to the park ______.</li>
+          <li className="margin-bottom-20 list-none">Hôm qua tôi đã đến công viên.</li>
 
-          <li><Link to="/vocabulary/today-1">Today</Link>: Hôm nay /təˈdeɪ/</li>
-          <li className="list-none">Today is a sunny day. (Hôm nay trời nắng.)</li>
+          <li><Link to="/vocabulary/today-1">Today</Link> /təˈdeɪ/</li>
+          <li className="list-none">It is sunny ______.</li>
+          <li className="list-none">Trời nắng vào hôm nay.</li>
 
         </ul>
       
@@ -152,8 +158,8 @@ export default function Tomorrow1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>I have a meeting marked on my calendar today</li>
-          <li className="list-none">(Tôi có một cuộc họp được đánh dấu trên lịch hôm nay.)</li>
+          <li>I will send you the final report ______.</li>
+          <li className="list-none">Tôi sẽ gửi cho bạn bản báo cáo cuối cùng vào ngày mai.</li>
 
         </ul>
 
@@ -172,8 +178,8 @@ export default function Tomorrow1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Let's meet at the cafe <strong>tomorrow</strong> at 2 PM.</li>
-          <li className="list-none">(Chúng ta gặp nhau ở quán cà phê lúc 2 giờ chiều ngày mai nhé.)</li>
+          <li>Let's meet at the cafe ______ at 2 PM.</li>
+          <li className="list-none">Chúng ta gặp nhau ở quán cà phê lúc 2 giờ chiều ngày mai nhé.</li>
 
         </ul>
 
@@ -188,17 +194,19 @@ export default function Tomorrow1(): React.JSX.Element {
         <strong>&nbsp;thường xuyên</strong>:
       </p>
 
-      <p className="text-indent-whole">Đọc và viết nhiều để nhớ từ vựng lâu hơn.</p>
+      <p className="text-indent-whole margin-bottom-20">Đọc và viết nhiều để nhớ từ vựng lâu hơn.</p>
 
         <p className="text-indent-whole">Ví dụ để so sánh (sự khác biệt giữa the day after <strong>tomorrow</strong> và <strong>tomorrow</strong>):</p>
 
           <ol>
 
             <li>The day after <strong>tomorrow</strong>: Chỉ ngày sau ngày mai.</li>
-            <li className="list-none margin-bottom-20">I have a test the day after <strong>tomorrow</strong>. (Ngày kia tôi có bài kiểm tra.)</li>
+            <li className="list-none">I have a test ______.</li>
+            <li className="list-none margin-bottom-20">Ngày kia tôi có bài kiểm tra.</li>
 
             <li value="2"><strong>Tomorrow</strong>: <span className="highlight-255-padding-0-4">Chỉ ngày ngay sau ngày hôm nay</span>.</li>
-            <li className="list-none margin-bottom-20">I will meet her <strong>tomorrow</strong>. (Ngày mai tôi sẽ gặp cô ấy.)</li>
+            <li className="list-none">I will meet her ______.</li>
+            <li className="list-none margin-bottom-20">Ngày mai tôi sẽ gặp cô ấy.</li>
 
           </ol>
 
