@@ -62,35 +62,45 @@ export default function Gradually2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1"><strong>Gradually</strong> increase: Tăng dần /ˈɡrædʒuəli ɪnˈkriːs/</li>
-        <li className="list-none margin-bottom-20">The temperature <strong>gradually</strong> increased throughout the day. (Nhiệt độ tăng dần suốt cả ngày.)</li>
+        <li value="1">Gradually <strong>increased</strong> /ɪnˈkriːst/</li>
+        <li className="list-none">The temperature ______ throughout the day.</li>
+        <li className="list-none margin-bottom-20">Nhiệt độ tăng dần suốt cả ngày.</li>
 
-        <li value="2"><strong>Gradually</strong> decrease: Giảm dần /ˈɡrædʒuəli ˈdiːkriːs/</li>
-        <li className="list-none margin-bottom-20">The noise <strong>gradually</strong> decreased as we moved farther away. (Tiếng ồn giảm dần khi chúng tôi đi xa hơn.)</li>
+        <li value="2">Gradually <strong>decreased</strong> /ˈdiːkriːst/</li>
+        <li className="list-none">The noise ______ as we moved farther away.</li>
+        <li className="list-none margin-bottom-20">Tiếng ồn giảm dần khi chúng tôi đi xa hơn.</li>
 
-        <li value="3"><strong>Gradually</strong> recover: Hồi phục dần /ˈɡrædʒuəli rɪˈkʌvər/</li>
-        <li className="list-none margin-bottom-20">She <strong>gradually</strong> recovered from her illness. (Cô ấy dần dần hồi phục sức khỏe sau khi ốm.)</li>
+        <li value="3">Gradually <strong>recovered</strong> /rɪˈkʌvərd/</li>
+        <li className="list-none">She ______ from her illness.</li>
+        <li className="list-none margin-bottom-20">Cô ấy dần dần hồi phục sức khỏe sau khi ốm.</li>
 
-        <li value="4"><strong>Gradually</strong> change: Thay đổi dần /ˈɡrædʒuəli tʃeɪndʒ/</li>
-        <li className="list-none margin-bottom-20">The climate <strong>gradually</strong> changed over millions of years. (Khí hậu thay đổi dần trong hàng triệu năm.)</li>
+        <li value="4">Gradually <strong>changed</strong> /tʃeɪndʒd/</li>
+        <li className="list-none">The climate ______ over millions of years.</li>
+        <li className="list-none margin-bottom-20">Khí hậu thay đổi dần trong hàng triệu năm.</li>
 
-        <li value="5"><strong>Gradually</strong> improve: Cải thiện dần /ˈɡrædʒuəli ɪmˈpruːv/</li>
-        <li className="list-none margin-bottom-20">His English <strong>gradually</strong> improved after studying for a year. (Tiếng Anh của anh ấy cải thiện dần sau khi học một năm.)</li>
+        <li value="5">Gradually <strong>improved</strong> /ˈɡrædʒuəli ɪmˈpruːvd/</li>
+        <li className="list-none">His English ______ after studying for a year.</li>
+        <li className="list-none margin-bottom-20">Tiếng Anh của anh ấy cải thiện dần sau khi học một năm.</li>
 
-        <li value="6"><strong>Gradually</strong> fade: Dần dần mờ nhạt /ˈɡrædʒuəli feɪd/</li>
-        <li className="list-none margin-bottom-20">The sunlight <strong>gradually</strong> faded as the day turned into night. (Ánh nắng mặt trời dần dần mờ nhạt khi ngày chuyển sang đêm.)</li>
+        <li value="6">Gradually <strong>faded</strong> /feɪdɪd/</li>
+        <li className="list-none">The sunlight ______ as the day turned into night.</li>
+        <li className="list-none margin-bottom-20">Ánh nắng mặt trời dần dần mờ nhạt khi ngày chuyển sang đêm.</li>
 
-        <li value="7"><strong>Gradually</strong> disappear: Dần dần biến mất /ˈɡrædʒuəli ˌdɪsəˈpɪər/</li>
-        <li className="list-none margin-bottom-20">The pain <strong>gradually</strong> disappeared after taking the medicine. (Cơn đau dần dần biến mất sau khi uống thuốc.)</li>
+        <li value="7">Gradually <strong>disappeared</strong> /ˌdɪsəˈpɪərd/</li>
+        <li className="list-none">The pain ______ after taking the medicine.</li>
+        <li className="list-none margin-bottom-20">Cơn đau dần dần biến mất sau khi uống thuốc.</li>
 
-        <li value="8"><strong>Gradually</strong> develop: Dần dần phát triển /ˈɡrædʒuəli dɪˈvɛləp/</li>
-        <li className="list-none margin-bottom-20">The city <strong>gradually</strong> developed into a major metropolis. (Thành phố dần dần phát triển thành một đô thị lớn.)</li>
+        <li value="8">Gradually <strong>developed</strong> /dɪˈvɛləpd/</li>
+        <li className="list-none">The city ______ into a major metropolis.</li>
+        <li className="list-none margin-bottom-20">Thành phố dần dần phát triển thành một đô thị lớn.</li>
 
-        <li value="9"><strong>Gradually</strong> adapt: Dần dần thích nghi /ˈɡrædʒuəli əˈdæpt/</li>
-        <li className="list-none margin-bottom-20">She <strong>gradually</strong> adapted to the new environment. (Cô ấy dần dần thích nghi với môi trường mới.)</li>
+        <li value="9">Gradually <strong>adapted</strong> /əˈdæptɪd/</li>
+        <li className="list-none">She ______ to the new environment.</li>
+        <li className="list-none margin-bottom-20">Cô ấy dần dần thích nghi với môi trường mới.</li>
 
-        <li value="10"><strong>Gradually</strong> decline: Dần dần suy giảm /ˈɡrædʒuəli dɪˈklaɪn/</li>
-        <li className="list-none margin-bottom-20">His health <strong>gradually</strong> declined after the accident. (Sức khỏe của ông ấy dần dần suy giảm sau tai nạn.)</li>
+        <li value="10">Gradually <strong>declined</strong> /dɪˈklaɪnd/</li>
+        <li className="list-none">His health ______ after the accident.</li>
+        <li className="list-none margin-bottom-20">Sức khỏe của ông ấy dần dần suy giảm sau tai nạn.</li>
 
       </ol>
 

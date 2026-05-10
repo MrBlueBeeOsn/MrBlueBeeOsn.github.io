@@ -63,9 +63,11 @@ export default function Gradually1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>The sun <strong>gradually</strong> rose over the horizon. (Mặt trời dần dần mọc lên trên đường chân trời.)</li>
+          <li>The sun ______ rose over the horizon.</li>
+          <li className="margin-bottom-20 list-none">Mặt trời dần dần mọc lên trên đường chân trời.</li>
 
-          <li>Her health is <strong>gradually</strong> improving. (Sức khỏe của cô ấy đang dần cải thiện.)</li>
+          <li>Her health is ______ improving.</li>
+          <li className="list-none">Sức khỏe của cô ấy đang dần cải thiện.</li>
 
         </ul>
 
@@ -81,14 +83,17 @@ export default function Gradually1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Gradual (adj): dần dần /ˈɡrædʒuəl/</li>
-          <li className="margin-bottom-20 list-none">There was a gradual increase in temperature. (Có một sự gia tăng nhiệt độ dần dần.)</li>
+          <li>Gradual (adj) /ˈɡrædʒuəl/</li>
+          <li className="list-none">There was a ______ increase in temperature.</li>
+          <li className="margin-bottom-20 list-none">Có một sự gia tăng nhiệt độ dần dần.</li>
 
-          <li>Grade (v): phân loại, đánh giá /ɡreɪd/</li>
-          <li className="margin-bottom-20 list-none">The teacher graded the students' essays. (Giáo viên chấm bài luận của học sinh.)</li>
+          <li>Graded (v) /ˈɡreɪdɪd/</li>
+          <li className="list-none">The teacher ______ the students' essays.</li>
+          <li className="margin-bottom-20 list-none">Giáo viên chấm bài luận của học sinh.</li>
 
-          <li>Grade (n): cấp bậc, lớp /ɡreɪd/</li>
-          <li className="list-none">She is in the fifth grade. (Cô ấy học lớp năm.)</li>
+          <li>Grade (n) /ɡreɪd/</li>
+          <li className="list-none">She is in the fifth ______.</li>
+          <li className="list-none">Cô ấy học lớp năm.</li>
 
         </ul>
 
@@ -104,14 +109,17 @@ export default function Gradually1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li><Link to="/vocabulary/slowly-1">Slowly</Link>: chậm chạp /ˈsləʊli/</li>
-          <li className="margin-bottom-20 list-none">The clock slowly ticked. (Đồng hồ chạy chậm.)</li>
+          <li><Link to="/vocabulary/slowly-1">Slowly</Link> /ˈsləʊli/</li>
+          <li className="list-none">The clock ______ ticked.</li>
+          <li className="margin-bottom-20 list-none">Đồng hồ chạy chậm.</li>
 
-          <li><Link to="/vocabulary/steadily-1">Steadily</Link>: đều đặn /ˈstedɪli/</li>
-          <li className="margin-bottom-20 list-none">The population is steadily increasing. (Dân số đang tăng đều đặn.)</li>
+          <li><Link to="/vocabulary/steadily-1">Steadily</Link> /ˈstedɪli/</li>
+          <li className="list-none">The population is ______ increasing.</li>
+          <li className="margin-bottom-20 list-none">Dân số đang tăng đều đặn.</li>
 
-          <li>Progressively: ngày càng /prəˈɡresɪvli/</li>
-          <li className="list-none">The disease was progressing progressively. (Bệnh ngày càng tiến triển.)</li>
+          <li>Progressively /prəˈɡresɪvli/</li>
+          <li className="list-none">The disease was progressing ______.</li>
+          <li className="list-none">Bệnh ngày càng tiến triển.</li>
 
         </ul>
 
@@ -129,14 +137,17 @@ export default function Gradually1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Suddenly: đột ngột /ˈsʌdnli/</li>
-          <li className="margin-bottom-20 list-none">The lights suddenly went out. (Đèn đột ngột tắt.)</li>
+          <li>Suddenly /ˈsʌdnli/</li>
+          <li className="list-none">The lights ______ went out.</li>
+          <li className="margin-bottom-20 list-none">Đèn đột ngột tắt.</li>
 
-          <li>Abruptly: đột ngột, thình lình /əˈbrʌptli/</li>
-          <li className="margin-bottom-20 list-none">The meeting ended abruptly. (Cuộc họp kết thúc đột ngột.)</li>
+          <li>Abruptly /əˈbrʌptli/</li>
+          <li className="list-none">The meeting ended ______.</li>
+          <li className="margin-bottom-20 list-none">Cuộc họp kết thúc đột ngột.</li>
 
-          <li><Link to="/vocabulary/rapidly-1">Rapidly</Link>: nhanh chóng /ˈræpɪdli/</li>
-          <li className="list-none">The car accelerated rapidly. (Chiếc xe tăng tốc nhanh chóng.)</li>
+          <li><Link to="/vocabulary/rapidly-1">Rapidly</Link> /ˈræpɪdli/</li>
+          <li className="list-none">The car accelerated ______.</li>
+          <li className="list-none">Chiếc xe tăng tốc nhanh chóng.</li>
 
         </ul>
       
@@ -161,11 +172,11 @@ export default function Gradually1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>The tree grew <strong>gradually</strong> over the years.</li>
-          <li className="margin-bottom-20 list-none">(Cây xanh lớn dần theo năm tháng.)</li>
+          <li>The tree grew ______ over the years.</li>
+          <li className="margin-bottom-20 list-none">Cây xanh lớn dần theo năm tháng.</li>
 
-          <li>She <strong>gradually</strong> became more proficient in the new skill.</li>
-          <li className="list-none">(Cô ấy dần dần thành thạo hơn trong kỹ năng mới.)</li>
+          <li>She ______ became more proficient in the new skill.</li>
+          <li className="list-none">Cô ấy dần dần thành thạo hơn trong kỹ năng mới.</li>
 
         </ul>
 
@@ -184,8 +195,8 @@ export default function Gradually1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>The weather is <strong>gradually</strong> getting warmer.</li>
-          <li className="list-none">(Thời tiết đang dần trở nên ấm hơn.)</li>
+          <li>The weather is ______ getting warmer.</li>
+          <li className="list-none">Thời tiết đang dần trở nên ấm hơn.</li>
 
         </ul>
 
@@ -200,15 +211,17 @@ export default function Gradually1(): React.JSX.Element {
         <strong>&nbsp;thường xuyên</strong>:
       </p>
 
-      <p className="text-indent-whole">Thường xuyên sử dụng từ này khi nói về những thay đổi chậm chạp và tiến triển.</p>
+      <p className="text-indent-whole margin-bottom-20">Thường xuyên sử dụng từ này khi nói về những thay đổi chậm chạp và tiến triển.</p>
 
         <p className="text-indent-whole">Ví dụ để so sánh (sự khác biệt):</p>
 
           <ol>
 
-            <li>The plant grew <Link to="/vocabulary/quickly-1">quickly</Link>. (Cây lớn nhanh.)</li>
+            <li>The plant grew <Link to="/vocabulary/quickly-1">quickly</Link>.</li>
+            <li className="list-none margin-bottom-20">Cây lớn nhanh.</li>
 
-            <li className="margin-bottom-20">The plant grew <strong>gradually</strong> over the summer. (Cây lớn dần trong suốt mùa hè.)</li>
+            <li value="2">The plant grew ______ over the summer.</li>
+            <li className="list-none margin-bottom-20">Cây lớn dần trong suốt mùa hè.</li>
 
           </ol>
 
