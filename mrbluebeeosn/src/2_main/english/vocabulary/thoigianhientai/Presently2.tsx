@@ -62,35 +62,45 @@ export default function Presently2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1"><strong>Presently</strong> engaged: Đang bận rộn /ˈprezntlɪ ɛnˈɡeɪdʒd/</li>
-        <li className="list-none margin-bottom-20">The manager is <strong>presently</strong> engaged in a meeting. (Quản lý đang bận họp.)</li>
+        <li value="1">Presently <strong>engaged</strong> /ɛnˈɡeɪdʒd/</li>
+        <li className="list-none">The manager is ______ in a meeting.</li>
+        <li className="list-none margin-bottom-20">Quản lý đang bận họp.</li>
 
-        <li value="2"><strong>Presently</strong> working: Đang làm việc /ˈprezntlɪ ˈwɜːkɪŋ/</li>
-        <li className="list-none margin-bottom-20">The engineers are <strong>presently</strong> working on a new project. (Các kỹ sư đang làm việc trên một dự án mới.)</li>
+        <li value="2">Presently <strong>working</strong> /ˈwɜːkɪŋ/</li>
+        <li className="list-none">The engineers are ______ on a new project.</li>
+        <li className="list-none margin-bottom-20">Các kỹ sư đang làm việc trên một dự án mới.</li>
 
-        <li value="3"><strong>Presently</strong> available: Đang có sẵn /ˈprezntlɪ əˈveɪləbl/</li>
-        <li className="list-none margin-bottom-20">The product is <strong>presently</strong> available in all our stores. (Sản phẩm hiện đang có sẵn tại tất cả các cửa hàng của chúng tôi.)</li>
+        <li value="3">Presently <strong>available</strong> /əˈveɪləbl/</li>
+        <li className="list-none">The product is ______ in all our stores.</li>
+        <li className="list-none margin-bottom-20">Sản phẩm hiện đang có sẵn tại tất cả các cửa hàng của chúng tôi.</li>
 
-        <li value="4"><strong>Presently</strong> under construction: Đang được xây dựng /ˈprezntlɪ ˈʌndər kənˈstrʌkʃn/</li>
-        <li className="list-none margin-bottom-20">The new bridge is <strong>presently</strong> under construction. (Cây cầu mới đang được xây dựng.)</li>
+        <li value="4">Presently <strong>under construction</strong> /ˈʌndər kənˈstrʌkʃn/</li>
+        <li className="list-none">The new bridge is ______.</li>
+        <li className="list-none margin-bottom-20">Cây cầu mới đang được xây dựng.</li>
 
-        <li value="5"><strong>Presently</strong> living: Đang sống /ˈprezntlɪ ˈlɪvɪŋ/</li>
-        <li className="list-none margin-bottom-20">She is <strong>presently</strong> living in London. (Cô ấy hiện đang sống ở London.)</li>
+        <li value="5">Presently <strong>living</strong> /ˈlɪvɪŋ/</li>
+        <li className="list-none">She is ______ in London.</li>
+        <li className="list-none margin-bottom-20">Cô ấy hiện đang sống ở London.</li>
 
-        <li value="6"><strong>Presently</strong> considering: Đang cân nhắc /ˈprezntlɪ kənˈsɪdərɪŋ/</li>
-        <li className="list-none margin-bottom-20">We are <strong>presently</strong> considering different options. (Chúng tôi đang cân nhắc các lựa chọn khác nhau.)</li>
+        <li value="6">Presently <strong>considering</strong> /kənˈsɪdərɪŋ/</li>
+        <li className="list-none">We are ______ different options.</li>
+        <li className="list-none margin-bottom-20">Chúng tôi đang cân nhắc các lựa chọn khác nhau.</li>
 
-        <li value="7"><strong>Presently</strong> studying: Đang học /ˈprezntlɪ ˈstʌdiɪŋ/</li>
-        <li className="list-none margin-bottom-20">He is <strong>presently</strong> studying for his exams. (Anh ấy đang ôn thi.)</li>
+        <li value="7">Presently <strong>studying</strong> /ˈstʌdiɪŋ/</li>
+        <li className="list-none">He is ______ for his exams.</li>
+        <li className="list-none margin-bottom-20">Anh ấy đang ôn thi.</li>
 
-        <li value="8"><strong>Presently</strong> serving: Đang phục vụ /ˈprezntlɪ ˈsɜːvɪŋ/</li>
-        <li className="list-none margin-bottom-20">The waiter is <strong>presently</strong> serving the customers. (Người phục vụ đang phục vụ khách hàng.)</li>
+        <li value="8">Presently <strong>serving</strong> /ˈsɜːvɪŋ/</li>
+        <li className="list-none">The waiter is ______ the customers.</li>
+        <li className="list-none margin-bottom-20">Người phục vụ đang phục vụ khách hàng.</li>
 
-        <li value="9"><strong>Presently</strong> attending: Đang tham dự /ˈprezntlɪ əˈtɛndɪŋ/</li>
-        <li className="list-none margin-bottom-20">She is <strong>presently</strong> attending a conference in Paris. (Cô ấy hiện đang tham dự một hội nghị ở Paris.)</li>
+        <li value="9">Presently <strong>attending</strong> /əˈtɛndɪŋ/</li>
+        <li className="list-none">She is ______ a conference in Paris.</li>
+        <li className="list-none margin-bottom-20">Cô ấy hiện đang tham dự một hội nghị ở Paris.</li>
 
-        <li value="10"><strong>Presently</strong> experiencing: Đang trải qua /ˈprezntlɪ ɪkˈspɪəriənsɪŋ/</li>
-        <li className="list-none margin-bottom-20">The city is <strong>presently</strong> experiencing a heat wave. (Thành phố hiện đang trải qua một đợt nắng nóng.)</li>
+        <li value="10">Presently <strong>experiencing</strong> /ɪkˈspɪəriənsɪŋ/</li>
+        <li className="list-none">The city is ______ a heat wave.</li>
+        <li className="list-none margin-bottom-20">Thành phố hiện đang trải qua một đợt nắng nóng.</li>
 
       </ol>
 

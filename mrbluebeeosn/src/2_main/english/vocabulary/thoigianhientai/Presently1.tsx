@@ -67,9 +67,11 @@ export default function Presently1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Hiện tại: I am <strong>presently</strong> working on this project. (Hiện tại tôi đang làm việc trên dự án này.)</li>
+          <li>I am ______ working on this project.</li>
+          <li className="margin-bottom-20 list-none">Hiện tại tôi đang làm việc trên dự án này.</li>
 
-          <li>Sớm thôi: The meeting will begin <strong>presently</strong>. (Cuộc họp sẽ bắt đầu sớm thôi.)</li>
+          <li>The meeting will begin ______.</li>
+          <li className="list-none">Cuộc họp sẽ bắt đầu sớm thôi.</li>
 
         </ul>
 
@@ -85,14 +87,17 @@ export default function Presently1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Present (adj): Hiện tại /ˈprezənt/</li>
-          <li className="margin-bottom-20 list-none">The present situation is very difficult. (Tình hình hiện tại rất khó khăn.)</li>
+          <li>Present (adj) /ˈprezənt/</li>
+          <li className="list-none">The ______ situation is very difficult.</li>
+          <li className="margin-bottom-20 list-none">Tình hình hiện tại rất khó khăn.</li>
 
-          <li>Present (v): Tặng, trình bày /prɪˈzent/</li>
-          <li className="margin-bottom-20 list-none">I will present my ideas at the meeting. (Tôi sẽ trình bày ý tưởng của mình tại cuộc họp.)</li>
+          <li>Present (v) /prɪˈzent/</li>
+          <li className="list-none">I will ______ my ideas at the meeting.</li>
+          <li className="margin-bottom-20 list-none">Tôi sẽ trình bày ý tưởng của mình tại cuộc họp.</li>
 
-          <li>Present (n): Món quà (ˈprez.ənt)</li>
-          <li className="list-none">As a present for her graduation, I bought her a new laptop. (Như một món quà tốt nghiệp, tôi đã mua cho cô ấy một chiếc laptop mới.)</li>
+          <li>Present (n) (ˈprez.ənt)</li>
+          <li className="list-none">As a ______ for her graduation, I bought her a new laptop.</li>
+          <li className="list-none">Như một món quà tốt nghiệp, tôi đã mua cho cô ấy một chiếc laptop mới.</li>
 
         </ul>
 
@@ -108,11 +113,13 @@ export default function Presently1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li><Link to="/vocabulary/now-1">Now</Link>: Bây giờ /naʊ/</li>
-          <li className="margin-bottom-20 list-none">I am reading a book now. (Tôi đang đọc sách bây giờ.)</li>
+          <li><Link to="/vocabulary/now-1">Now</Link> (adv) /naʊ/</li>
+          <li className="list-none">I am reading a book ______.</li>
+          <li className="margin-bottom-20 list-none">Tôi đang đọc sách bây giờ.</li>
 
-          <li>Soon: Sớm /suːn/</li>
-          <li className="list-none">I will be there soon. (Tôi sẽ đến đó sớm.)</li>
+          <li>Soon (adv) /suːn/</li>
+          <li className="list-none">I will be there ______.</li>
+          <li className="list-none">Tôi sẽ đến đó sớm.</li>
 
         </ul>
 
@@ -130,11 +137,13 @@ export default function Presently1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Previously: Trước đây /ˈpriːviəsli/</li>
-          <li className="margin-bottom-20 list-none">I previously worked as a teacher. (Trước đây tôi làm giáo viên.)</li>
+          <li>Previously /ˈpriːviəsli/</li>
+          <li className="list-none">I ______ worked as a teacher.</li>
+          <li className="margin-bottom-20 list-none">Trước đây tôi làm giáo viên.</li>
 
-          <li>Later: Sau này /ˈleɪtər/</li>
-          <li className="list-none">We will discuss this later. (Chúng ta sẽ thảo luận về điều này sau.)</li>
+          <li>Later (adv) /ˈleɪtər/</li>
+          <li className="list-none">We will discuss this ______.</li>
+          <li className="list-none">Chúng ta sẽ thảo luận về điều này sau.</li>
 
         </ul>
       
@@ -159,8 +168,8 @@ export default function Presently1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li><strong>Presently</strong>, we are on track with the project timeline.</li>
-          <li className="list-none">(Hiện tại, chúng ta đang đi đúng tiến độ dự án.)</li>
+          <li>______, we are on track with the project timeline.</li>
+          <li className="list-none">Hiện tại, chúng ta đang đi đúng tiến độ dự án.</li>
 
         </ul>
 
@@ -179,11 +188,11 @@ export default function Presently1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li><strong>Presently</strong>, I am eating an apple.</li>
-          <li className="margin-bottom-20 list-none">(Hiện tại, tôi đang ăn táo.)</li>
+          <li>______, I am eating an apple.</li>
+          <li className="margin-bottom-20 list-none">Hiện tại, tôi đang ăn táo.</li>
 
-          <li>The train will arrive <strong>presently</strong>.</li>
-          <li className="list-none">(Tàu sẽ đến sớm thôi.)</li>
+          <li>The train will arrive ______.</li>
+          <li className="list-none">Tàu sẽ đến sớm thôi.</li>
 
         </ul>
 
@@ -198,15 +207,17 @@ export default function Presently1(): React.JSX.Element {
         <strong>&nbsp;thường xuyên</strong>:
       </p>
 
-      <p className="text-indent-whole">Thường xuyên sử dụng từ này trong các bài viết hoặc cuộc trò chuyện.</p>
+      <p className="text-indent-whole margin-bottom-20">Thường xuyên sử dụng từ này trong các bài viết hoặc cuộc trò chuyện.</p>
 
         <p className="text-indent-whole">Ví dụ để so sánh (sự khác biệt):</p>
 
           <ol>
 
-            <li>I will go to the store now. (Tôi sẽ đi đến cửa hàng bây giờ.)</li>
+            <li>I will go to the store <Link to="/vocabulary/now-1">now</Link>.</li>
+            <li className="list-none margin-bottom-20">Tôi sẽ đi đến cửa hàng bây giờ.</li>
 
-            <li className="margin-bottom-20">I will go to the store <strong>presently</strong>. (Tôi sẽ đi đến cửa hàng sớm thôi.)</li>
+            <li value="2">I will go to the store ______.</li>
+            <li className="list-none margin-bottom-20">Tôi sẽ đi đến cửa hàng sớm thôi.</li>
 
           </ol>
 
