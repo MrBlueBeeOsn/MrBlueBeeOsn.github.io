@@ -62,35 +62,45 @@ export default function Now2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1">Right <strong>now</strong>: Ngay bây giờ /raɪt naʊ/</li>
-        <li className="list-none margin-bottom-20">I need your help right <strong>now</strong>. (Tôi cần sự giúp đỡ của bạn ngay bây giờ.)</li>
+        <li value="1"><strong>Right</strong> now /raɪt/</li>
+        <li className="list-none">I need your help ______.</li>
+        <li className="list-none margin-bottom-20">Tôi cần sự giúp đỡ của bạn ngay bây giờ.</li>
 
-        <li value="2">For <strong>now</strong>: Trong lúc này /fɔːr naʊ/</li>
-        <li className="list-none margin-bottom-20">For <strong>now</strong>, let's just focus on finishing this project. (Trong lúc này, chúng ta hãy tập trung vào việc hoàn thành dự án này đã.)</li>
+        <li value="2"><strong>For</strong> now /fɔːr/</li>
+        <li className="list-none">______, let's just focus on finishing this project.</li>
+        <li className="list-none margin-bottom-20">Trong lúc này, chúng ta hãy tập trung vào việc hoàn thành dự án này đã.</li>
 
-        <li value="3"><strong>Now</strong> and then: Thỉnh thoảng /naʊ ænd ðen/</li>
-        <li className="list-none margin-bottom-20">I like to go hiking in the mountains <strong>now</strong> and then. (Thỉnh thoảng tôi thích đi bộ đường dài trong núi.)</li>
+        <li value="3">Now <strong>and then</strong> /ænd ðen/</li>
+        <li className="list-none">I like to go hiking in the mountains ______.</li>
+        <li className="list-none margin-bottom-20">Thỉnh thoảng tôi thích đi bộ đường dài trong núi.</li>
 
-        <li value="4">Until <strong>now</strong>: Cho đến bây giờ /ənˈtɪl naʊ/</li>
-        <li className="list-none margin-bottom-20">I never knew about this problem until <strong>now</strong>. (Tôi chưa từng biết về vấn đề này cho đến bây giờ.)</li>
+        <li value="4"><strong>Until</strong> now /ənˈtɪl/</li>
+        <li className="list-none">I never knew about this problem ______.</li>
+        <li className="list-none margin-bottom-20">Tôi chưa từng biết về vấn đề này cho đến bây giờ.</li>
 
-        <li value="5">Then and <strong>now</strong>: Trước đây và bây giờ /ðen ænd naʊ/</li>
-        <li className="list-none margin-bottom-20">She used to be very shy, but then and <strong>now</strong>, she's very outgoing. (Cô ấy trước đây rất nhút nhát, nhưng từ đó đến nay, cô ấy rất hòa đồng.)</li>
+        <li value="5"><strong>Then and</strong> now /ðen ænd/</li>
+        <li className="list-none">She used to be very shy, but ______, she's very outgoing.</li>
+        <li className="list-none margin-bottom-20">Cô ấy trước đây rất nhút nhát, nhưng từ đó đến nay, cô ấy rất hòa đồng.</li>
 
-        <li value="6">From <strong>now</strong> on: Từ bây giờ trở đi /frɒm naʊ ɒn/</li>
-        <li className="list-none margin-bottom-20">I will start exercising every day from <strong>now</strong> on. (Tôi sẽ bắt đầu tập thể dục mỗi ngày từ bây giờ.)</li>
+        <li value="6"><strong>From</strong> now <strong>on</strong> /frɒm ɒn/</li>
+        <li className="list-none">I will start exercising every day ______.</li>
+        <li className="list-none margin-bottom-20">Tôi sẽ bắt đầu tập thể dục mỗi ngày từ bây giờ.</li>
 
-        <li value="7">Just <strong>now</strong>: Vừa mới /dʒʌst naʊ/</li>
-        <li className="list-none margin-bottom-20">I saw her just <strong>now</strong>. (Tôi vừa mới thấy cô ấy.)</li>
+        <li value="7"><strong>Just</strong> now /dʒʌst/</li>
+        <li className="list-none">I saw her ______.</li>
+        <li className="list-none margin-bottom-20">Tôi vừa mới thấy cô ấy.</li>
 
-        <li value="8">Even <strong>now</strong>: Ngay cả bây giờ /ˈiːvən naʊ/</li>
-        <li className="list-none margin-bottom-20">Even <strong>now</strong>, I can't believe it happened. (Ngay cả bây giờ, tôi vẫn không thể tin điều đó đã xảy ra.)</li>
+        <li value="8"><strong>Even</strong> now /ˈiːvən/</li>
+        <li className="list-none">______, I can't believe it happened.</li>
+        <li className="list-none margin-bottom-20">Ngay cả bây giờ, tôi vẫn không thể tin điều đó đã xảy ra.</li>
 
-        <li value="9"><strong>Now</strong> that: Bây giờ thì /naʊ ðæt/</li>
-        <li className="list-none margin-bottom-20"><strong>Now</strong> that you're here, let's get started. (Bây giờ khi bạn đã ở đây, chúng ta bắt đầu nhé.)</li>
+        <li value="9">Now <strong>that</strong> /ðæt/</li>
+        <li className="list-none">______ you're here, let's get started.</li>
+        <li className="list-none margin-bottom-20">Bây giờ khi bạn đã ở đây, chúng ta bắt đầu nhé.</li>
 
-        <li value="10">Right this <strong>now</strong>: Ngay lập tức /raɪt ðɪs naʊ/</li>
-        <li className="list-none margin-bottom-20">I need to finish this report right this <strong>now</strong>. (Tôi cần hoàn thành báo cáo này ngay lập tức.)</li>
+        <li value="10"><strong>Right this</strong> now /raɪt ðɪs/</li>
+        <li className="list-none">I need to finish this report ______.</li>
+        <li className="list-none margin-bottom-20">Tôi cần hoàn thành báo cáo này ngay lập tức.</li>
 
       </ol>
 

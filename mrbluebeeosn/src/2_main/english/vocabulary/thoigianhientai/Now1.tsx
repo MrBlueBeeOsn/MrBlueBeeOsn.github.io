@@ -63,9 +63,11 @@ export default function Now1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>I am eating <strong>now</strong>. (Tôi đang ăn bây giờ.)</li>
+          <li>I am eating ______.</li>
+          <li className="margin-bottom-20 list-none">Tôi đang ăn bây giờ.</li>
 
-          <li><strong>Now</strong>, please be quiet. (Bây giờ, làm ơn im lặng.)</li>
+          <li>______, please be quiet.</li>
+          <li className="list-none">Bây giờ, làm ơn im lặng.</li>
 
         </ul>
 
@@ -97,11 +99,13 @@ export default function Now1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>At present: (adv) /æt ˈprez.ənt/ - hiện tại</li>
-          <li className="margin-bottom-20 list-none">At present, I am working on a new project. (Hiện tại, tôi đang làm việc trên một dự án mới.)</li>
+          <li>At present (adv) /æt ˈprez.ənt/</li>
+          <li className="list-none">______, I am working on a new project.</li>
+          <li className="margin-bottom-20 list-none">Hiện tại, tôi đang làm việc trên một dự án mới.</li>
 
-          <li>Currently: (adv) /ˈkʌr.ənt.li/ - hiện nay</li>
-          <li className="list-none">Currently, the temperature is 30 degrees. (Hiện nay, nhiệt độ là 30 độ.)</li>
+          <li>Currently /ˈkʌr.ənt.li/</li>
+          <li className="list-none">______, the temperature is 30 degrees.</li>
+          <li className="list-none">Hiện nay, nhiệt độ là 30 độ.</li>
 
         </ul>
 
@@ -119,11 +123,13 @@ export default function Now1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Later: (adv) /ˈleɪ.tər/ - sau này</li>
-          <li className="margin-bottom-20 list-none">We can talk about it later. (Chúng ta có thể nói về điều đó sau.)</li>
+          <li>Later (adv) /ˈleɪ.tər/</li>
+          <li className="list-none">We can talk about it ______.</li>
+          <li className="margin-bottom-20 list-none">Chúng ta có thể nói về điều đó sau.</li>
 
-          <li>Before: (adv) /bɪˈfɔːr/ - trước đây</li>
-          <li className="list-none">Before I go, I want to say goodbye. (Trước khi đi, tôi muốn nói lời tạm biệt.)</li>
+          <li>Before (adv) /bɪˈfɔːr/</li>
+          <li className="list-none">______ I go, I want to say goodbye.</li>
+          <li className="list-none">Trước khi đi, tôi muốn nói lời tạm biệt.</li>
 
         </ul>
       
@@ -148,8 +154,8 @@ export default function Now1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Right <strong>now</strong>, it's 5 o'clock.</li>
-          <li className="list-none">(Ngay bây giờ là 5 giờ.)</li>
+          <li>Right ______, it's 5 o'clock.</li>
+          <li className="list-none">Ngay bây giờ là 5 giờ.</li>
 
         </ul>
 
@@ -168,8 +174,8 @@ export default function Now1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>I can speak English much better <strong>now</strong>.</li>
-          <li className="list-none">(Bây giờ tôi nói tiếng Anh tốt hơn nhiều rồi.)</li>
+          <li>I can speak English much better ______.</li>
+          <li className="list-none">Bây giờ tôi nói tiếng Anh tốt hơn nhiều rồi.</li>
 
         </ul>
 
@@ -184,17 +190,19 @@ export default function Now1(): React.JSX.Element {
         <strong>&nbsp;thường xuyên</strong>:
       </p>
 
-      <p className="text-indent-whole">Thường xuyên sử dụng "<strong>now</strong>" trong giao tiếp hàng ngày.</p>
+      <p className="text-indent-whole margin-bottom-20">Thường xuyên sử dụng "<strong>now</strong>" trong giao tiếp hàng ngày.</p>
 
         <p className="text-indent-whole">Ví dụ để so sánh (sự khác biệt giữa at present và <strong>now</strong>):</p>
 
           <ol>
 
             <li>At present: Cách nói trang trọng hơn, nhấn mạnh tình trạng hiện tại.</li>
-            <li className="list-none margin-bottom-20">At present, she is living in Paris. (Hiện tại, cô ấy đang sống ở Paris.)</li>
+            <li className="list-none">______, she is living in Paris.</li>
+            <li className="list-none margin-bottom-20">Hiện tại, cô ấy đang sống ở Paris.</li>
 
             <li value="2"><strong>Now</strong>: Cách nói thông thường, <span className="highlight-255-padding-0-4">nhấn mạnh sự tức thời</span>.</li>
-            <li className="list-none margin-bottom-20"><strong>Now</strong>, listen to me carefully. (Bây giờ, hãy nghe tôi cẩn thận.)</li>
+            <li className="list-none">______, listen to me carefully.</li>
+            <li className="list-none margin-bottom-20">Bây giờ, hãy nghe tôi cẩn thận.</li>
 
           </ol>
 
