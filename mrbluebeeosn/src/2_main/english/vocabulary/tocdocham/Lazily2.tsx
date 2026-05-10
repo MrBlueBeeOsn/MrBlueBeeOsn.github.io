@@ -62,35 +62,45 @@ export default function Lazily2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1"><strong>Lazily</strong> stretched: Nằm dài ra một cách lười biếng /ˈleɪzəli streʧt/</li>
-        <li className="list-none margin-bottom-20">After a long day, he <strong>lazily</strong> stretched out on the couch. (Sau một ngày dài, anh ấy lười biếng nằm dài ra ghế sofa.)</li>
+        <li value="1">Lazily <strong>stretched</strong> /streʧt/</li>
+        <li className="list-none">After a long day, he ______ out on the couch.</li>
+        <li className="list-none margin-bottom-20">Sau một ngày dài, anh ấy lười biếng nằm dài ra ghế sofa.</li>
 
-        <li value="2"><strong>Lazily</strong> wandered: Đi lang thang một cách lười biếng /ˈleɪzəli ˈwɒndərd/</li>
-        <li className="list-none margin-bottom-20">She <strong>lazily</strong> wandered through the park, enjoying the sunshine. (Cô ấy lười biếng đi lang thang trong công viên, tận hưởng ánh nắng mặt trời.)</li>
+        <li value="2">Lazily <strong>wandered</strong> /ˈwɒndərd/</li>
+        <li className="list-none">She ______ through the park, enjoying the sunshine.</li>
+        <li className="list-none margin-bottom-20">Cô ấy lười biếng đi lang thang trong công viên, tận hưởng ánh nắng mặt trời.</li>
 
-        <li value="3"><strong>Lazily</strong> flipped: Lật qua lật lại một cách lười biếng /ˈleɪzəli flɪpt/</li>
-        <li className="list-none margin-bottom-20">He <strong>lazily</strong> flipped through the channels on TV. (Anh ấy lười biếng lật qua lật lại các kênh trên TV.)</li>
+        <li value="3">Lazily <strong>flipped</strong> /flɪpt/</li>
+        <li className="list-none">He ______ through the channels on TV.</li>
+        <li className="list-none margin-bottom-20">Anh ấy lười biếng lật qua lật lại các kênh trên TV.</li>
 
-        <li value="4"><strong>Lazily</strong> ate: Ăn một cách lười biếng /ˈleɪzəli eɪt/</li>
-        <li className="list-none margin-bottom-20">The cat <strong>lazily</strong> ate its food. (Con mèo lười biếng ăn thức ăn của nó.)</li>
+        <li value="4">Lazily <strong>ate</strong> /eɪt/</li>
+        <li className="list-none">The cat ______ its food.</li>
+        <li className="list-none margin-bottom-20">Con mèo lười biếng ăn thức ăn của nó.</li>
 
-        <li value="5"><strong>Lazily</strong> lounged: Nằm dài một cách lười biếng /ˈleɪzəli laʊndʒd/</li>
-        <li className="list-none margin-bottom-20">She <strong>lazily</strong> lounged by the pool. (Cô ấy lười biếng nằm dài bên hồ bơi.)</li>
+        <li value="5">Lazily <strong>lounged</strong> /laʊndʒd/</li>
+        <li className="list-none">She ______ by the pool.</li>
+        <li className="list-none margin-bottom-20">Cô ấy lười biếng nằm dài bên hồ bơi.</li>
 
-        <li value="6"><strong>Lazily</strong> read: Đọc một cách lười biếng /ˈleɪzəli red/</li>
-        <li className="list-none margin-bottom-20">He <strong>lazily</strong> read the newspaper. (Anh ấy lười biếng đọc báo.)</li>
+        <li value="6">Lazily <strong>read</strong> /red/</li>
+        <li className="list-none">He ______ the newspaper.</li>
+        <li className="list-none margin-bottom-20">Anh ấy lười biếng đọc báo.</li>
 
-        <li value="7"><strong>Lazily</strong> watched: Xem một cách lười biếng /ˈleɪzəli wɒtʃt/</li>
-        <li className="list-none margin-bottom-20">They <strong>lazily</strong> watched the clouds drift by. (Họ lười biếng ngắm nhìn những đám mây trôi.)</li>
+        <li value="7">Lazily <strong>watched</strong> /wɒtʃt/</li>
+        <li className="list-none">They ______ the clouds drift by.</li>
+        <li className="list-none margin-bottom-20">Họ lười biếng ngắm nhìn những đám mây trôi.</li>
 
-        <li value="8"><strong>Lazily</strong> spoke: Nói một cách lười biếng /ˈleɪzəli spəʊk/</li>
-        <li className="list-none margin-bottom-20">She <strong>lazily</strong> spoke into the phone. (Cô ấy lười biếng nói vào điện thoại.)</li>
+        <li value="8">Lazily <strong>spoke</strong> /spəʊk/</li>
+        <li className="list-none">She ______ into the phone.</li>
+        <li className="list-none margin-bottom-20">Cô ấy lười biếng nói vào điện thoại.</li>
 
-        <li value="9"><strong>Lazily</strong> walked: Đi bộ một cách lười biếng /ˈleɪzəli wɔːkt/</li>
-        <li className="list-none margin-bottom-20">The dog <strong>lazily</strong> walked across the yard. (Con chó lười biếng đi qua sân.)</li>
+        <li value="9">Lazily <strong>walked</strong> /ˈleɪzəli wɔːkt/</li>
+        <li className="list-none">The dog ______ across the yard.</li>
+        <li className="list-none margin-bottom-20">Con chó lười biếng đi qua sân.</li>
 
-        <li value="10"><strong>Lazily</strong> sunbathed: Tắm nắng một cách lười biếng /ˈleɪzəli ˈsʌnbeɪðd/</li>
-        <li className="list-none margin-bottom-20">She <strong>lazily</strong> sunbathed on the beach. (Cô ấy lười biếng tắm nắng trên bãi biển.)</li>
+        <li value="10">Lazily <strong>sunbathed</strong> /ˈsʌnbeɪðd/</li>
+        <li className="list-none">She ______ on the beach.</li>
+        <li className="list-none margin-bottom-20">Cô ấy lười biếng tắm nắng trên bãi biển.</li>
 
       </ol>
 

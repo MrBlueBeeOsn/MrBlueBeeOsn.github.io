@@ -63,9 +63,11 @@ export default function Lazily1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>He <strong>lazily</strong> flipped through the pages of the book. (Anh ta lật sách một cách lười biếng.)</li>
+          <li>He ______ flipped through the pages of the book.</li>
+          <li className="margin-bottom-20 list-none">Anh ta lật sách một cách lười biếng.</li>
 
-          <li>The cat <strong>lazily</strong> sunbathed on the porch. (Con mèo lười biếng nằm phơi nắng trên hiên nhà.)</li>
+          <li>The cat ______ sunbathed on the porch.</li>
+          <li className="list-none">Con mèo lười biếng nằm phơi nắng trên hiên nhà.</li>
 
         </ul>
 
@@ -81,8 +83,9 @@ export default function Lazily1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Lazy (adj): Lười biếng /ˈleɪzi/</li>
-          <li className="list-none">She is too lazy to clean her room. (Cô ấy quá lười để dọn phòng.)</li>
+          <li>Lazy (adj) /ˈleɪzi/</li>
+          <li className="list-none">She is too ______ to clean her room.</li>
+          <li className="list-none">Cô ấy quá lười để dọn phòng.</li>
 
         </ul>
 
@@ -98,11 +101,13 @@ export default function Lazily1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Idly: Một cách nhàn rỗi /ˈaɪdli/</li>
-          <li className="margin-bottom-20 list-none">She idly watched the TV. (Cô ấy xem TV một cách nhàn rỗi.)</li>
+          <li>Idly /ˈaɪdli/</li>
+          <li className="list-none">She ______ watched the TV.</li>
+          <li className="margin-bottom-20 list-none">Cô ấy xem TV một cách nhàn rỗi.</li>
 
-          <li>Sluggishly: Một cách chậm chạp, uể oải /ˈslʌɡɪʃli/</li>
-          <li className="list-none">The economy is growing sluggishly. (Nền kinh tế đang tăng trưởng chậm chạp.)</li>
+          <li>Sluggishly /ˈslʌɡɪʃli/</li>
+          <li className="list-none">The economy is growing ______.</li>
+          <li className="list-none">Nền kinh tế đang tăng trưởng chậm chạp.</li>
 
         </ul>
 
@@ -120,11 +125,13 @@ export default function Lazily1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Energetically: Một cách năng động /ˌenəˈdʒɛtɪkli/</li>
-          <li className="margin-bottom-20 list-none">He worked energetically on the project. (Anh ấy làm việc rất năng động trong dự án.)</li>
+          <li>Energetically /ˌenəˈdʒɛtɪkli/</li>
+          <li className="list-none">He worked ______ on the project.</li>
+          <li className="margin-bottom-20 list-none">Anh ấy làm việc rất năng động trong dự án.</li>
 
-          <li><Link to="/vocabulary/diligently-1">Diligently</Link>: Một cách siêng năng /ˈdɪlɪdʒəntli/</li>
-          <li className="list-none">She studied diligently for the exam. (Cô ấy học hành rất siêng năng để chuẩn bị cho kỳ thi.)</li>
+          <li><Link to="/vocabulary/diligently-1">Diligently</Link> /ˈdɪlɪdʒəntli/</li>
+          <li className="list-none">She studied ______ for the exam.</li>
+          <li className="list-none">Cô ấy học hành rất siêng năng để chuẩn bị cho kỳ thi.</li>
 
         </ul>
       
@@ -149,8 +156,8 @@ export default function Lazily1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>He <strong>lazily</strong> stretched on the couch.</li>
-          <li className="list-none">(Anh ta lười biếng nằm dài trên ghế sofa.)</li>
+          <li>He ______ stretched on the couch.</li>
+          <li className="list-none">Anh ta lười biếng nằm dài trên ghế sofa.</li>
 
         </ul>
 
@@ -169,8 +176,8 @@ export default function Lazily1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>The dog <strong>lazily</strong> chewed on its bone.</li>
-          <li className="list-none">(Con chó lười biếng gặm xương.)</li>
+          <li>The dog ______ chewed on its bone.</li>
+          <li className="list-none">Con chó lười biếng gặm xương.</li>
 
         </ul>
 
@@ -185,15 +192,17 @@ export default function Lazily1(): React.JSX.Element {
         <strong>&nbsp;thường xuyên</strong>:
       </p>
 
-      <p className="text-indent-whole">Thường xuyên sử dụng từ này trong các cuộc trò chuyện hoặc bài viết.</p>
+      <p className="text-indent-whole margin-bottom-20">Thường xuyên sử dụng từ này trong các cuộc trò chuyện hoặc bài viết.</p>
 
         <p className="text-indent-whole">Ví dụ để so sánh (sự khác biệt):</p>
 
           <ol>
 
-            <li>He finished his work. (Anh ấy đã hoàn thành công việc.)</li>
+            <li>He finished his work.</li>
+            <li className="list-none margin-bottom-20">Anh ấy đã hoàn thành công việc.</li>
 
-            <li className="margin-bottom-20">He <strong>lazily</strong> finished his work. (Anh ấy đã hoàn thành công việc một cách lười biếng.)</li>
+            <li value="2">He ______ finished his work.</li>
+            <li className="list-none margin-bottom-20">Anh ấy đã hoàn thành công việc một cách lười biếng.</li>
 
           </ol>
 
