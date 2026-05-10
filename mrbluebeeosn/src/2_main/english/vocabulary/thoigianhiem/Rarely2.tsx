@@ -62,35 +62,45 @@ export default function Rarely2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1"><strong>Rarely</strong> happens: Hiếm khi xảy ra /ˈrerli ˈhæpənz/</li>
-        <li className="list-none margin-bottom-20">It <strong>rarely</strong> happens that we get snow in this part of the country. (Hiếm khi có tuyết ở vùng này.)</li>
+        <li value="1">Rarely <strong>happens</strong> /ˈhæpənz/</li>
+        <li className="list-none">It ______ that we get snow in this part of the country.</li>
+        <li className="list-none margin-bottom-20">Hiếm khi có tuyết ở vùng này.</li>
 
-        <li value="2"><strong>Rarely</strong> seen: Hiếm khi thấy /ˈrerli siːn/</li>
-        <li className="list-none margin-bottom-20">That type of bird is <strong>rarely</strong> seen in this area. (Loại chim đó hiếm khi được nhìn thấy ở khu vực này.)</li>
+        <li value="2">Rarely <strong>seen</strong> /siːn/</li>
+        <li className="list-none">That type of bird is ______ in this area.</li>
+        <li className="list-none margin-bottom-20">Loại chim đó hiếm khi được nhìn thấy ở khu vực này.</li>
 
-        <li value="3"><strong>Rarely</strong> mentioned: Hiếm khi được nhắc đến /ˈrerli ˈmenʃənd/</li>
-        <li className="list-none margin-bottom-20">The topic is <strong>rarely</strong> mentioned in public. (Chủ đề đó hiếm khi được nhắc đến công khai.)</li>
+        <li value="3">Rarely <strong>mentioned</strong> /ˈmenʃənd/</li>
+        <li className="list-none">The topic is ______ in public.</li>
+        <li className="list-none margin-bottom-20">Chủ đề đó hiếm khi được nhắc đến công khai.</li>
 
-        <li value="4"><strong>Rarely</strong> used: Hiếm khi được sử dụng /ˈrerli juːzd/</li>
-        <li className="list-none margin-bottom-20">That word is <strong>rarely</strong> used in everyday conversation. (Từ đó hiếm khi được sử dụng trong cuộc nói chuyện hàng ngày.)</li>
+        <li value="4">Rarely <strong>used</strong> /juːzd/</li>
+        <li className="list-none">That word is ______ in everyday conversation.</li>
+        <li className="list-none margin-bottom-20">Từ đó hiếm khi được sử dụng trong cuộc nói chuyện hàng ngày.</li>
 
-        <li value="5"><strong>Rarely</strong> found: Hiếm khi tìm thấy /ˈrerli faʊnd/</li>
-        <li className="list-none margin-bottom-20">Ancient artifacts are <strong>rarely</strong> found in this region. (Các hiện vật cổ xưa hiếm khi được tìm thấy ở khu vực này.)</li>
+        <li value="5">Rarely <strong>found</strong> /faʊnd/</li>
+        <li className="list-none">Ancient artifacts are ______ in this region.</li>
+        <li className="list-none margin-bottom-20">Các hiện vật cổ xưa hiếm khi được tìm thấy ở khu vực này.</li>
 
-        <li value="6"><strong>Rarely</strong> visits: Hiếm khi đến thăm /ˈrerli ˈvɪzɪts/</li>
-        <li className="list-none margin-bottom-20">My grandmother <strong>rarely</strong> visits us. (Bà tôi hiếm khi đến thăm chúng tôi.)</li>
+        <li value="6">Rarely <strong>visits</strong> /ˈvɪzɪts/</li>
+        <li className="list-none">My grandmother ______ us.</li>
+        <li className="list-none margin-bottom-20">Bà tôi hiếm khi đến thăm chúng tôi.</li>
 
-        <li value="7"><strong>Rarely</strong> occurs: Hiếm khi xảy ra /ˈrerli əˈkɜːrz/</li>
-        <li className="list-none margin-bottom-20">Such a severe storm <strong>rarely</strong> occurs in this area. (Một cơn bão nghiêm trọng như vậy hiếm khi xảy ra ở khu vực này.)</li>
+        <li value="7">Rarely <strong>occurs</strong> /əˈkɜːrz/</li>
+        <li className="list-none">Such a severe storm ______ in this area.</li>
+        <li className="list-none margin-bottom-20">Một cơn bão nghiêm trọng như vậy hiếm khi xảy ra ở khu vực này.</li>
 
-        <li value="8"><strong>Rarely</strong> eats: Hiếm khi ăn /ˈrerli iːts/</li>
-        <li className="list-none margin-bottom-20">She <strong>rarely</strong> eats meat. (Cô ấy hiếm khi ăn thịt.)</li>
+        <li value="8">Rarely <strong>eats</strong> /iːts/</li>
+        <li className="list-none">She ______ meat.</li>
+        <li className="list-none margin-bottom-20">Cô ấy hiếm khi ăn thịt.</li>
 
-        <li value="9"><strong>Rarely</strong> sleeps: Hiếm khi ngủ /ˈrerli sliːps/</li>
-        <li className="list-none margin-bottom-20">Due to her busy schedule, she <strong>rarely</strong> sleeps more than six hours a night.</li>
+        <li value="9">Rarely <strong>sleeps</strong> /sliːps/</li>
+        <li className="list-none">Due to her busy schedule, she ______ more than six hours a night.</li>
+        <li className="list-none margin-bottom-20">Vì lịch trình bận rộn, cô ấy hiếm khi ngủ quá sáu tiếng mỗi đêm.</li>
 
-        <li value="10"><strong>Rarely</strong> talks: Hiếm khi nói chuyện /ˈrerli tɔːks/</li>
-        <li className="list-none margin-bottom-20">He is a very quiet person and <strong>rarely</strong> talks.</li>
+        <li value="10">Rarely <strong>talks</strong> /tɔːks/</li>
+        <li className="list-none">He is a very quiet person and ______.</li>
+        <li className="list-none margin-bottom-20">Anh ấy là một người rất trầm tính và hiếm khi nói chuyện.</li>
 
       </ol>
 

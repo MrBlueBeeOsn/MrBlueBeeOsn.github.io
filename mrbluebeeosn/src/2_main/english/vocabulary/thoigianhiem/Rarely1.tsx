@@ -63,9 +63,11 @@ export default function Rarely1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>I <strong>rarely</strong> eat meat. (Tôi hiếm khi ăn thịt.)</li>
+          <li>I ______ eat meat.</li>
+          <li className="margin-bottom-20 list-none">Tôi hiếm khi ăn thịt.</li>
 
-          <li>She <strong>rarely</strong> goes to the movies. (Cô ấy hiếm khi đi xem phim.)</li>
+          <li>She ______ goes to the movies.</li>
+          <li className="list-none">Cô ấy hiếm khi đi xem phim.</li>
 
         </ul>
 
@@ -81,8 +83,9 @@ export default function Rarely1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Rare (adj): Hiếm /reər/</li>
-          <li className="list-none">This is a rare book. (Đây là một cuốn sách hiếm.)</li>
+          <li>Rare (adj) /reər/</li>
+          <li className="list-none">This is a ______ book.</li>
+          <li className="list-none">Đây là một cuốn sách hiếm.</li>
 
         </ul>
 
@@ -98,11 +101,13 @@ export default function Rarely1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li><Link to="/vocabulary/seldom-1">Seldom</Link>: Hiếm khi /ˈseldəm/</li>
-          <li className="margin-bottom-20 list-none">I seldom see him these days. (Tôi hiếm khi gặp anh ấy những ngày này.)</li>
+          <li><Link to="/vocabulary/seldom-1">Seldom</Link> /ˈseldəm/</li>
+          <li className="list-none">I ______ see him these days.</li>
+          <li className="margin-bottom-20 list-none">Tôi hiếm khi gặp anh ấy những ngày này.</li>
 
-          <li>Infrequently: Không thường xuyên /ɪnˈfriːkwəntli/</li>
-          <li className="list-none">She infrequently visits her parents. (Cô ấy không thường xuyên đến thăm ba mẹ.)</li>
+          <li>Infrequently /ɪnˈfriːkwəntli/</li>
+          <li className="list-none">She ______ visits her parents.</li>
+          <li className="list-none">Cô ấy không thường xuyên đến thăm ba mẹ.</li>
 
         </ul>
 
@@ -120,11 +125,13 @@ export default function Rarely1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li><Link to="/vocabulary/frequently-1">Frequently</Link>: Thường xuyên /ˈfriːkwəntli/</li>
-          <li className="margin-bottom-20 list-none">I frequently go to the gym. (Tôi thường xuyên đến phòng tập thể dục.)</li>
+          <li><Link to="/vocabulary/frequently-1">Frequently</Link> /ˈfriːkwəntli/</li>
+          <li className="list-none">I ______ go to the gym.</li>
+          <li className="margin-bottom-20 list-none">Tôi thường xuyên đến phòng tập thể dục.</li>
 
-          <li><Link to="/vocabulary/often-1">Often</Link>: Thường xuyên /ˈɔːfən/</li>
-          <li className="list-none">She often cooks dinner. (Cô ấy thường nấu bữa tối.)</li>
+          <li><Link to="/vocabulary/often-1">Often</Link> /ˈɔːfən/</li>
+          <li className="list-none">She ______ cooks dinner.</li>
+          <li className="list-none">Cô ấy thường nấu bữa tối.</li>
 
         </ul>
       
@@ -152,8 +159,8 @@ export default function Rarely1(): React.JSX.Element {
           {/* <li></li>
           <li className="margin-bottom-20 list-none"></li> */}
 
-          <li>This animal is <strong>rarely</strong> seen in the wild.</li>
-          <li className="list-none">(Loài động vật này hiếm khi được nhìn thấy trong tự nhiên.)</li>
+          <li>This animal is ______ seen in the wild.</li>
+          <li className="list-none">Loài động vật này hiếm khi được nhìn thấy trong tự nhiên.</li>
 
         </ul>
 
@@ -172,8 +179,8 @@ export default function Rarely1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>She <strong>rarely</strong> goes out on weekdays.</li>
-          <li className="list-none">(Cô ấy hiếm khi ra ngoài vào các ngày trong tuần.)</li>
+          <li>She ______ goes out on weekdays.</li>
+          <li className="list-none">Cô ấy hiếm khi ra ngoài vào các ngày trong tuần.</li>
 
         </ul>
 
@@ -188,25 +195,17 @@ export default function Rarely1(): React.JSX.Element {
         <strong>&nbsp;thường xuyên</strong>:
       </p>
 
-      <p className="text-indent-whole">Thường xuyên sử dụng từ này trong các cuộc hội thoại để diễn tả sự hiếm hoi.</p>
+      <p className="text-indent-whole margin-bottom-20">Thường xuyên sử dụng từ này trong các cuộc hội thoại để diễn tả sự hiếm hoi.</p>
 
         <p className="text-indent-whole">Ví dụ để so sánh (sự khác biệt):</p>
 
-          {/* <ol>
-
-            <li></li>
-            <li className="list-none margin-bottom-20"></li>
-
-            <li value="2"></li>
-            <li className="list-none margin-bottom-20"></li>
-
-          </ol> */}
-
           <ol>
 
-            <li>I go to the library. (Tôi đi thư viện.)</li>
+            <li>I go to the library.</li>
+            <li className="list-none margin-bottom-20">Tôi đi thư viện.</li>
 
-            <li className="margin-bottom-20">I <strong>rarely</strong> go to the library. (Tôi hiếm khi đi thư viện.)</li>
+            <li value="2">I ______ go to the library.</li>
+            <li className="list-none margin-bottom-20">Tôi hiếm khi đi thư viện.</li>
 
           </ol>
 
