@@ -63,9 +63,11 @@ export default function Slowly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>She walked <strong>slowly</strong> down the street. (Cô ấy đi bộ chậm rãi trên đường phố.)</li>
+          <li>She walked ______ down the street.</li>
+          <li className="margin-bottom-20 list-none">Cô ấy đi bộ chậm rãi trên đường phố.</li>
 
-          <li>Time passed <strong>slowly</strong> as I waited. (Thời gian trôi qua chậm rãi khi tôi chờ đợi.)</li>
+          <li>Time passed ______ as I waited.</li>
+          <li className="list-none">Thời gian trôi qua chậm rãi khi tôi chờ đợi.</li>
 
         </ul>
 
@@ -81,11 +83,13 @@ export default function Slowly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Slow (adj): Chậm /sləʊ/</li>
-          <li className="margin-bottom-20 list-none">He is a slow runner. (Anh ấy là một người chạy chậm.)</li>
+          <li>Slow (adj) /sləʊ/</li>
+          <li className="list-none">He is a ______ runner.</li>
+          <li className="margin-bottom-20 list-none">Anh ấy là một người chạy chậm.</li>
 
-          <li>Slowness (n): Sự chậm chạp /ˈsləʊnəs/</li>
-          <li className="list-none">The slowness of the traffic annoyed me. (Sự chậm chạp của giao thông làm tôi khó chịu.)</li>
+          <li>Slowness (n) /ˈsləʊnəs/</li>
+          <li className="list-none">The ______ of the traffic annoyed me.</li>
+          <li className="list-none">Sự chậm chạp của giao thông làm tôi khó chịu.</li>
 
         </ul>
 
@@ -101,11 +105,13 @@ export default function Slowly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li><Link to="/vocabulary/gradually-1">Gradually</Link>: Dần dần /ˈɡrædʒuəli/</li>
-          <li className="margin-bottom-20 list-none">The plant grew gradually taller. (Cây dần dần cao lên.)</li>
+          <li><Link to="/vocabulary/gradually-1">Gradually</Link> /ˈɡrædʒuəli/</li>
+          <li className="list-none">The plant grew ______ taller.</li>
+          <li className="margin-bottom-20 list-none">Cây dần dần cao lên.</li>
 
-          <li><strong>Slowly</strong> but <Link to="/vocabulary/surely-1">surely</Link>: Chậm mà chắc /ˈsləʊli bət ˈʃʊərli/</li>
-          <li className="list-none"><strong>Slowly</strong> but surely, she was making progress. (Chậm mà chắc, cô ấy đang tiến bộ.)</li>
+          <li><strong>Slowly</strong> but <Link to="/vocabulary/surely-1">surely</Link> /ˈsləʊli bət ˈʃʊərli/</li>
+          <li className="list-none">______, she was making progress.</li>
+          <li className="list-none">Chậm mà chắc, cô ấy đang tiến bộ.</li>
 
         </ul>
 
@@ -123,11 +129,13 @@ export default function Slowly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li><Link to="/vocabulary/quickly-1">Quickly</Link>: Nhanh chóng /ˈkwɪkli/</li>
-          <li className="margin-bottom-20 list-none">He ran quickly to catch the bus. (Anh ấy chạy nhanh để bắt xe buýt.)</li>
+          <li><Link to="/vocabulary/quickly-1">Quickly</Link> /ˈkwɪkli/</li>
+          <li className="list-none">He ran ______ to catch the bus.</li>
+          <li className="margin-bottom-20 list-none">Anh ấy chạy nhanh để bắt xe buýt.</li>
 
-          <li><Link to="/vocabulary/rapidly-1">Rapidly</Link>: Một cách nhanh chóng /ˈræpɪdli/</li>
-          <li className="list-none">The disease spread rapidly. (Bệnh lây lan rất nhanh.)</li>
+          <li><Link to="/vocabulary/rapidly-1">Rapidly</Link> /ˈræpɪdli/</li>
+          <li className="list-none">The disease spread ______.</li>
+          <li className="list-none">Bệnh lây lan rất nhanh.</li>
 
         </ul>
       
@@ -152,8 +160,8 @@ export default function Slowly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>The turtle moves as <strong>slowly</strong> as a snail.</li>
-          <li className="list-none">(Con rùa di chuyển chậm như ốc sên.)</li>
+          <li>The turtle moves as ______ as a snail.</li>
+          <li className="list-none">Con rùa di chuyển chậm như ốc sên.</li>
 
         </ul>
 
@@ -172,8 +180,8 @@ export default function Slowly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>The clock ticked <strong>slowly</strong>.</li>
-          <li className="list-none">(Đồng hồ tích tắc chậm rãi.)</li>
+          <li>The clock ticked ______.</li>
+          <li className="list-none">Đồng hồ tích tắc chậm rãi.</li>
 
         </ul>
 
@@ -188,15 +196,17 @@ export default function Slowly1(): React.JSX.Element {
         <strong>&nbsp;thường xuyên</strong>:
       </p>
 
-      <p className="text-indent-whole">Thường xuyên sử dụng từ này trong các bài viết hoặc cuộc trò chuyện.</p>
+      <p className="text-indent-whole margin-bottom-20">Thường xuyên sử dụng từ này trong các bài viết hoặc cuộc trò chuyện.</p>
 
         <p className="text-indent-whole">Ví dụ để so sánh (sự khác biệt):</p>
 
           <ol>
 
-            <li>He finished his work. (Anh ấy đã hoàn thành công việc.)</li>
+            <li>He finished his work.</li>
+            <li className="list-none margin-bottom-20">Anh ấy đã hoàn thành công việc.</li>
 
-            <li className="margin-bottom-20">He <strong>slowly</strong> finished his work. (Anh ấy đã hoàn thành công việc một cách chậm rãi.)</li>
+            <li value="2">He ______ finished his work.</li>
+            <li className="list-none margin-bottom-20">Anh ấy đã hoàn thành công việc một cách chậm rãi.</li>
 
           </ol>
 

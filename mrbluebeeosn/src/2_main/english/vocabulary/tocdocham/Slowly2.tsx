@@ -62,35 +62,45 @@ export default function Slowly2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1"><strong>Slowly</strong> but surely: Chậm mà chắc /ˈsləʊli bʌt ˈʃʊərli/</li>
-        <li className="list-none margin-bottom-20">She is <strong>slowly</strong> but surely making progress in her studies. (Cô ấy đang tiến bộ trong học tập một cách chậm mà chắc.)</li>
+        <li value="1">Slowly <strong>but surely</strong> /bʌt ˈʃʊərli/</li>
+        <li className="list-none">She is ______ making progress in her studies.</li>
+        <li className="list-none margin-bottom-20">Cô ấy đang tiến bộ trong học tập một cách chậm mà chắc.</li>
 
-        <li value="2"><strong>Slowly</strong> fading: Dần dần mờ nhạt /ˈsləʊli ˈfeɪdɪŋ/</li>
-        <li className="list-none margin-bottom-20">The sound of the music <strong>slowly</strong> faded into the night. (Âm thanh của nhạc dần dần mờ nhạt vào đêm.)</li>
+        <li value="2">Slowly <strong>faded</strong> /ˈfeɪdɪd/</li>
+        <li className="list-none">The sound of the music ______ into the night.</li>
+        <li className="list-none margin-bottom-20">Âm thanh của nhạc dần dần mờ nhạt vào đêm.</li>
 
-        <li value="3"><strong>Slowly</strong> recovering: Dần dần hồi phục /ˈsləʊli rɪˈkʌvərɪŋ/</li>
-        <li className="list-none margin-bottom-20">He is <strong>slowly</strong> recovering from his illness. (Anh ấy đang dần dần hồi phục sau khi ốm.)</li>
+        <li value="3">Slowly <strong>recovering</strong> /rɪˈkʌvərɪŋ/</li>
+        <li className="list-none">He is ______ from his illness.</li>
+        <li className="list-none margin-bottom-20">Anh ấy đang dần dần hồi phục sau khi ốm.</li>
 
-        <li value="4"><strong>Slowly</strong> growing: Dần dần lớn lên /ˈsləʊli ˈɡroʊɪŋ/</li>
-        <li className="list-none margin-bottom-20">The plant is <strong>slowly</strong> growing taller. (Cây đang dần dần cao lớn hơn.)</li>
+        <li value="4">Slowly <strong>growing</strong> /ˈɡroʊɪŋ/</li>
+        <li className="list-none">The plant is ______ taller.</li>
+        <li className="list-none margin-bottom-20">Cây đang dần dần cao lớn hơn.</li>
 
-        <li value="5"><strong>Slowly</strong> changing: Dần dần thay đổi /ˈsləʊli ˈtʃeɪndʒɪŋ/</li>
-        <li className="list-none margin-bottom-20">The climate is <strong>slowly</strong> changing due to global warming. (Khí hậu đang dần dần thay đổi do biến đổi khí hậu toàn cầu.)</li>
+        <li value="5">Slowly <strong>changing</strong> /ˈtʃeɪndʒɪŋ/</li>
+        <li className="list-none">The climate is ______ due to global warming.</li>
+        <li className="list-none margin-bottom-20">Khí hậu đang dần dần thay đổi do biến đổi khí hậu toàn cầu.</li>
 
-        <li value="6"><strong>Slowly</strong> moving: Di chuyển chậm chạp /ˈsləʊli ˈmuːvɪŋ/</li>
-        <li className="list-none margin-bottom-20">The snail was <strong>slowly</strong> moving across the leaf. (Con ốc sên di chuyển chậm chạp trên lá.)</li>
+        <li value="6">Slowly <strong>moving</strong> /ˈmuːvɪŋ/</li>
+        <li className="list-none">The snail was ______ across the leaf.</li>
+        <li className="list-none margin-bottom-20">Con ốc sên di chuyển chậm chạp trên lá.</li>
 
-        <li value="7"><strong>Slowly</strong> dying: Dần dần chết đi /ˈsləʊli ˈdaɪɪŋ/</li>
-        <li className="list-none margin-bottom-20">The old tree was <strong>slowly</strong> dying. (Cây già đang dần dần chết.)</li>
+        <li value="7">Slowly <strong>dying</strong> /ˈdaɪɪŋ/</li>
+        <li className="list-none">The old tree was ______.</li>
+        <li className="list-none margin-bottom-20">Cây già đang dần dần chết.</li>
 
-        <li value="8"><strong>Slowly</strong> sinking: Dần dần chìm xuống /ˈsləʊli ˈsɪŋkɪŋ/</li>
-        <li className="list-none margin-bottom-20">The ship was <strong>slowly</strong> sinking into the ocean. (Con tàu đang dần dần chìm xuống đại dương.)</li>
+        <li value="8">Slowly <strong>sinking</strong> /ˈsɪŋkɪŋ/</li>
+        <li className="list-none">The ship was ______ into the ocean.</li>
+        <li className="list-none margin-bottom-20">Con tàu đang dần dần chìm xuống đại dương.</li>
 
-        <li value="9"><strong>Slowly</strong> approaching: Dần dần tiến lại gần /ˈsləʊli əˈproʊtʃɪŋ/</li>
-        <li className="list-none margin-bottom-20">The storm was <strong>slowly</strong> approaching the coast. (Cơn bão đang dần dần tiến lại gần bờ biển.)</li>
+        <li value="9">Slowly <strong>approaching</strong> /əˈproʊtʃɪŋ/</li>
+        <li className="list-none">The storm was ______ the coast.</li>
+        <li className="list-none margin-bottom-20">Cơn bão đang dần dần tiến lại gần bờ biển.</li>
 
-        <li value="10"><strong>Slowly</strong> realizing: Dần dần nhận ra /ˈsləʊli ˈriːəlaɪzɪŋ/</li>
-        <li className="list-none margin-bottom-20">She was <strong>slowly</strong> realizing the truth. (Cô ấy đang dần dần nhận ra sự thật.)</li>
+        <li value="10">Slowly <strong>realizing</strong> /ˈriːəlaɪzɪŋ/</li>
+        <li className="list-none">She was ______ the truth.</li>
+        <li className="list-none margin-bottom-20">Cô ấy đang dần dần nhận ra sự thật.</li>
 
       </ol>
 
