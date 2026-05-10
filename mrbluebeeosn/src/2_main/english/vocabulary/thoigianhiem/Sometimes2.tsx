@@ -62,35 +62,45 @@ export default function Sometimes2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1"><strong>Sometimes</strong> I...: Thỉnh thoảng tôi... /ˈsʌmtaɪmz aɪ/</li>
-        <li className="list-none margin-bottom-20"><strong>Sometimes</strong> I go for a walk in the park. (Thỉnh thoảng tôi đi dạo trong công viên.)</li>
+        <li value="1">Sometimes <strong>I</strong>... /aɪ/</li>
+        <li className="list-none">______ go for a walk in the park.</li>
+        <li className="list-none margin-bottom-20">Thỉnh thoảng tôi đi dạo trong công viên.</li>
 
-        <li value="2"><strong>Sometimes</strong> it...: Thỉnh thoảng nó... /ˈsʌmtaɪmz ɪt/</li>
-        <li className="list-none margin-bottom-20"><strong>Sometimes</strong> it rains in the summer. (Thỉnh thoảng trời mưa vào mùa hè.)</li>
+        <li value="2">Sometimes <strong>it</strong>... /ɪt/</li>
+        <li className="list-none">______ rains in the summer.</li>
+        <li className="list-none margin-bottom-20">Thỉnh thoảng trời mưa vào mùa hè.</li>
 
-        <li value="3"><strong>Sometimes</strong> we...: Thỉnh thoảng chúng ta... /ˈsʌmtaɪmz wiː/</li>
-        <li className="list-none margin-bottom-20"><strong>Sometimes</strong> we go to the movies on weekends. (Thỉnh thoảng chúng ta đi xem phim vào cuối tuần.)</li>
+        <li value="3">Sometimes <strong>we</strong>... /wiː/</li>
+        <li className="list-none">______ go to the movies on weekends.</li>
+        <li className="list-none margin-bottom-20">Thỉnh thoảng chúng ta đi xem phim vào cuối tuần.</li>
 
-        <li value="4"><strong>Sometimes</strong> they...: Thỉnh thoảng họ... /ˈsʌmtaɪmz ðeɪ/</li>
-        <li className="list-none margin-bottom-20"><strong>Sometimes</strong> they play soccer in the yard. (Thỉnh thoảng họ chơi bóng đá trong sân.)</li>
+        <li value="4">Sometimes <strong>they</strong>... /ðeɪ/</li>
+        <li className="list-none">______ play soccer in the yard.</li>
+        <li className="list-none margin-bottom-20">Thỉnh thoảng họ chơi bóng đá trong sân.</li>
 
-        <li value="5">Not <strong>sometimes</strong> but often: Không phải thỉnh thoảng mà thường xuyên /nɒt ˈsʌmtaɪmz bət ˈɒfən/</li>
-        <li className="list-none margin-bottom-20">He doesn't <strong>sometimes</strong> but often visits his grandparents. (Anh ấy không phải thỉnh thoảng mà thường xuyên đến thăm ông bà.)</li>
+        <li value="5"><strong>Not</strong> sometimes <strong>but often</strong> /nɒt bət ˈɒfən/</li>
+        <li className="list-none">He does ______ visits his grandparents.</li>
+        <li className="list-none margin-bottom-20">Anh ấy không phải thỉnh thoảng mà thường xuyên đến thăm ông bà.</li>
 
-        <li value="6"><strong>Sometimes</strong> and <strong>sometimes</strong> not: Lúc có lúc không /ˈsʌmtaɪmz ænd ˈsʌmtaɪmz nɒt/</li>
-        <li className="list-none margin-bottom-20">She <strong>sometimes</strong> likes coffee and <strong>sometimes</strong> not. (Cô ấy lúc thích cà phê lúc không.)</li>
+        <li value="6">Sometimes <strong>and</strong> sometimes <strong>not</strong> /ænd nɒt/</li>
+        <li className="list-none">She ______ likes coffee ______.</li>
+        <li className="list-none margin-bottom-20">Cô ấy lúc thích cà phê lúc không.</li>
 
-        <li value="7"><strong>Sometimes</strong> in the morning: Thỉnh thoảng vào buổi sáng /ˈsʌmtaɪmz ɪn ðə ˈmɔːnɪŋ/</li>
-        <li className="list-none margin-bottom-20">I <strong>sometimes</strong> drink tea in the morning. (Thỉnh thoảng tôi uống trà vào buổi sáng.)</li>
+        <li value="7">Sometimes <strong>in the morning</strong> /ɪn ðə ˈmɔːnɪŋ/</li>
+        <li className="list-none">I ______ drink tea ______.</li>
+        <li className="list-none margin-bottom-20">Thỉnh thoảng tôi uống trà vào buổi sáng.</li>
 
-        <li value="8"><strong>Sometimes</strong> at night: Thỉnh thoảng vào ban đêm /ˈsʌmtaɪmz ət naɪt/</li>
-        <li className="list-none margin-bottom-20">I <strong>sometimes</strong> read books at night. (Thỉnh thoảng tôi đọc sách vào ban đêm.)</li>
+        <li value="8">Sometimes <strong>at night</strong> /ət naɪt/</li>
+        <li className="list-none">I ______ read books ______.</li>
+        <li className="list-none margin-bottom-20">Thỉnh thoảng tôi đọc sách vào ban đêm.</li>
 
-        <li value="9"><strong>Sometimes</strong> on weekends: Thỉnh thoảng vào cuối tuần /ˈsʌmtaɪmz ɒn ˈwiːkɛndz/</li>
-        <li className="list-none margin-bottom-20">We <strong>sometimes</strong> go camping on weekends. (Thỉnh thoảng chúng tôi đi cắm trại vào cuối tuần.)</li>
+        <li value="9">Sometimes <strong>on weekends</strong> /ɒn ˈwiːkɛndz/</li>
+        <li className="list-none">We ______ go camping ______.</li>
+        <li className="list-none margin-bottom-20">Thỉnh thoảng chúng tôi đi cắm trại vào cuối tuần.</li>
 
-        <li value="10"><strong>Sometimes</strong> when I...: Thỉnh thoảng khi tôi... /ˈsʌmtaɪmz wen aɪ/</li>
-        <li className="list-none margin-bottom-20"><strong>Sometimes</strong> when I feel stressed, I listen to music. (Thỉnh thoảng khi tôi cảm thấy căng thẳng, tôi nghe nhạc.)</li>
+        <li value="10">Sometimes <strong>when I</strong>... /wen aɪ/</li>
+        <li className="list-none">______ feel stressed, I listen to music.</li>
+        <li className="list-none margin-bottom-20">Thỉnh thoảng khi tôi cảm thấy căng thẳng, tôi nghe nhạc.</li>
 
       </ol>
 

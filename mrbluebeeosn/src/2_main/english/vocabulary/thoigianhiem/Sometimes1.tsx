@@ -63,9 +63,11 @@ export default function Sometimes1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>I <strong>sometimes</strong> go to the gym after work. (Tôi thỉnh thoảng đi tập gym sau giờ làm.)</li>
+          <li>I ______ go to the gym after work.</li>
+          <li className="margin-bottom-20 list-none">Tôi thỉnh thoảng đi tập gym sau giờ làm.</li>
 
-          <li>It <strong>sometimes</strong> rains in the summer. (Mùa hè đôi khi cũng mưa.)</li>
+          <li>It ______ rains in the summer.</li>
+          <li className="list-none">Mùa hè đôi khi cũng mưa.</li>
 
         </ul>
 
@@ -97,11 +99,13 @@ export default function Sometimes1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li><Link to="/vocabulary/occasionally-1">Occasionally</Link>: (adv) /əˈkeɪʒnəli/ - thỉnh thoảng</li>
-          <li className="margin-bottom-20 list-none">We occasionally meet for coffee. (Chúng tôi thỉnh thoảng gặp nhau để uống cà phê.)</li>
+          <li><Link to="/vocabulary/occasionally-1">Occasionally</Link> (adv) /əˈkeɪʒnəli/</li>
+          <li className="list-none">We ______ meet for coffee.</li>
+          <li className="margin-bottom-20 list-none">Chúng tôi thỉnh thoảng gặp nhau để uống cà phê.</li>
 
-          <li>From time to time: (adv) /frəm taɪm tə taɪm/ - thỉnh thoảng</li>
-          <li className="list-none">From time to time, I like to watch movies. (Thỉnh thoảng, tôi thích xem phim.)</li>
+          <li>From time to time (adv) /frəm taɪm tə taɪm/</li>
+          <li className="list-none">______, I like to watch movies.</li>
+          <li className="list-none">Thỉnh thoảng, tôi thích xem phim.</li>
 
         </ul>
 
@@ -119,11 +123,13 @@ export default function Sometimes1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li><Link to="/vocabulary/always-1">Always</Link>: (adv) /ˈɔːlweɪz/ - luôn luôn</li>
-          <li className="margin-bottom-20 list-none">She always comes to class on time. (Cô ấy luôn đến lớp đúng giờ.)</li>
+          <li><Link to="/vocabulary/always-1">Always</Link> (adv) /ˈɔːlweɪz/</li>
+          <li className="list-none">She ______ comes to class on time.</li>
+          <li className="margin-bottom-20 list-none">Cô ấy luôn đến lớp đúng giờ.</li>
 
-          <li><Link to="/vocabulary/never-1">Never</Link>: (adv) /ˈnɛvər/ - chưa bao giờ</li>
-          <li className="list-none">I have never been to Paris. (Tôi chưa bao giờ đến Paris.)</li>
+          <li><Link to="/vocabulary/never-1">Never</Link> (adv) /ˈnɛvər/</li>
+          <li className="list-none">I have ______ been to Paris.</li>
+          <li className="list-none">Tôi chưa bao giờ đến Paris.</li>
 
         </ul>
       
@@ -148,8 +154,8 @@ export default function Sometimes1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>The watch is running erratically; the second hand <strong>sometimes</strong> jumps.</li>
-          <li className="list-none">(Đồng hồ chạy không đều; kim giây đôi khi nhảy.)</li>
+          <li>The watch is running erratically; the second hand ______ jumps.</li>
+          <li className="list-none">Đồng hồ chạy không đều; kim giây đôi khi nhảy.</li>
 
         </ul>
 
@@ -168,8 +174,8 @@ export default function Sometimes1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>I feel happy <strong>sometimes</strong>, but other times I feel sad.</li>
-          <li className="list-none">(Tôi cảm thấy hạnh phúc đôi khi, nhưng những lúc khác tôi lại cảm thấy buồn.)</li>
+          <li>I feel happy ______, but other times I feel sad.</li>
+          <li className="list-none">Tôi cảm thấy hạnh phúc đôi khi, nhưng những lúc khác tôi lại cảm thấy buồn.</li>
 
         </ul>
 
@@ -184,35 +190,21 @@ export default function Sometimes1(): React.JSX.Element {
         <strong>&nbsp;thường xuyên</strong>:
       </p>
 
-      <p className="text-indent-whole">Thường xuyên sử dụng từ "<strong>sometimes</strong>" trong giao tiếp hoặc khi viết.</p>
+      <p className="text-indent-whole margin-bottom-20">Thường xuyên sử dụng từ "<strong>sometimes</strong>" trong giao tiếp hoặc khi viết.</p>
 
         <p className="text-indent-whole">Ví dụ để so sánh (sự khác biệt giữa occasionally và <strong>sometimes</strong>):</p>
 
           <ol>
 
             <li><Link to="/vocabulary/occasionally-1">Occasionally</Link>: Mang ý nghĩa lịch sự hơn và nhấn mạnh tính ngẫu nhiên.</li>
-            <li className="list-none margin-bottom-20">We occasionally meet for lunch. (Chúng tôi thỉnh thoảng gặp nhau để ăn trưa.)</li>
+            <li className="list-none">We ______ meet for lunch.</li>
+            <li className="list-none margin-bottom-20">Chúng tôi thỉnh thoảng gặp nhau để ăn trưa.</li>
 
             <li value="2"><strong>Sometimes</strong>: <span className="highlight-255-padding-0-4">Mang ý nghĩa chung chung về sự không thường xuyên</span>.</li>
-            <li className="list-none margin-bottom-20">I <strong>sometimes</strong> forget to bring my umbrella. (Tôi đôi khi quên mang ô.)</li>
+            <li className="list-none">I ______ forget to bring my umbrella.</li>
+            <li className="list-none margin-bottom-20">Tôi đôi khi quên mang ô.</li>
 
           </ol>
-
-          {/* <ol>
-
-            <li></li>
-
-            <li className="margin-bottom-20"></li>
-
-          </ol>
-
-      <div className="margin-bottom-20 padding-top-20 text-border1 padding-10 highlight-238-padding-4-8 bee-container">
-
-        <p className="margin-y-10">Sự khác biệt: </p>
-
-      </div> */}
-
-      {/* <span className="highlight-255-padding-0-4"></span> */}
 
       {/* =============================
             Lưu ý:
