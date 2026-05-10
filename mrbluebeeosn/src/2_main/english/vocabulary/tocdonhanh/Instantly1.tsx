@@ -63,9 +63,11 @@ export default function Instantly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>When I turned on the light, the room became <strong>instantly</strong> brighter. (Khi tôi bật đèn lên, căn phòng sáng lên ngay lập tức.)</li>
+          <li>When I turned on the light, the room became ______ brighter.</li>
+          <li className="margin-bottom-20 list-none">Khi tôi bật đèn lên, căn phòng sáng lên ngay lập tức.</li>
 
-          <li>She recognized him <strong>instantly</strong>. (Cô ấy nhận ra anh ta ngay lập tức.)</li>
+          <li>She recognized him ______.</li>
+          <li className="list-none">Cô ấy nhận ra anh ta ngay lập tức.</li>
 
         </ul>
 
@@ -81,11 +83,13 @@ export default function Instantly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Instant (adj): Tức thì /ˈɪnstənt/</li>
-          <li className="margin-bottom-20 list-none">This is an instant coffee. (Đây là cà phê hòa tan.)</li>
+          <li>Instant (adj) /ˈɪnstənt/</li>
+          <li className="list-none">This is an ______ coffee.</li>
+          <li className="margin-bottom-20 list-none">Đây là cà phê hòa tan.</li>
 
-          <li>Instantaneous (adj): Tức thời /ˌɪnstənˈteɪniəs/</li>
-          <li className="list-none">The reaction was instantaneous. (Phản ứng diễn ra tức thì.)</li>
+          <li>Instantaneous (adj) /ˌɪnstənˈteɪniəs/</li>
+          <li className="list-none">The reaction was ______.</li>
+          <li className="list-none">Phản ứng diễn ra tức thì.</li>
 
         </ul>
 
@@ -101,11 +105,13 @@ export default function Instantly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Immediately: Ngay lập tức /ɪˈmiːdiətli/</li>
-          <li className="margin-bottom-20 list-none">I replied immediately. (Tôi trả lời ngay lập tức.)</li>
+          <li>Immediately /ɪˈmiːdiətli/</li>
+          <li className="list-none">I replied ______.</li>
+          <li className="margin-bottom-20 list-none">Tôi trả lời ngay lập tức.</li>
 
-          <li>At once: Ngay lập tức (at wʌns)</li>
-          <li className="list-none">Come here at once! (Đến đây ngay!)</li>
+          <li>At once /ət wʌns/</li>
+          <li className="list-none">Come here ______!</li>
+          <li className="list-none">Đến đây ngay!</li>
 
         </ul>
 
@@ -123,11 +129,13 @@ export default function Instantly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Gradually: Dần dần /ˈɡrædʒuəli/</li>
-          <li className="margin-bottom-20 list-none">The plant grew gradually. (Cây lớn dần lên.)</li>
+          <li>Gradually /ˈɡrædʒuəli/</li>
+          <li className="list-none">The plant grew ______.</li>
+          <li className="margin-bottom-20 list-none">Cây lớn dần lên.</li>
 
-          <li><Link to="/vocabulary/slowly-1">Slowly</Link>: Chậm rãi /ˈsləʊli/</li>
-          <li className="list-none">She walked slowly. (Cô ấy đi chậm rãi.)</li>
+          <li><Link to="/vocabulary/slowly-1">Slowly</Link> /ˈsləʊli/</li>
+          <li className="list-none">She walked ______.</li>
+          <li className="list-none">Cô ấy đi chậm rãi.</li>
 
         </ul>
       
@@ -152,8 +160,8 @@ export default function Instantly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>As soon as I turned on the switch, the light bulb came on <strong>instantly</strong>.</li>
-          <li className="list-none">(Ngay khi tôi bật công tắc, bóng đèn sáng lên ngay lập tức.)</li>
+          <li>As soon as I turned on the switch, the light bulb came on ______.</li>
+          <li className="list-none">Ngay khi tôi bật công tắc, bóng đèn sáng lên ngay lập tức.</li>
 
         </ul>
 
@@ -172,8 +180,8 @@ export default function Instantly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>She fell asleep <strong>instantly</strong> after she closed her eyes.</li>
-          <li className="list-none">(Cô ấy ngủ thiếp đi ngay lập tức sau khi nhắm mắt lại.)</li>
+          <li>She fell asleep ______ after she closed her eyes.</li>
+          <li className="list-none">Cô ấy ngủ thiếp đi ngay lập tức sau khi nhắm mắt lại.</li>
 
         </ul>
 
@@ -188,15 +196,17 @@ export default function Instantly1(): React.JSX.Element {
         <strong>&nbsp;thường xuyên</strong>:
       </p>
 
-      <p className="text-indent-whole">Thường xuyên sử dụng từ này trong các cuộc hội thoại hoặc khi viết.</p>
+      <p className="text-indent-whole margin-bottom-20">Thường xuyên sử dụng từ này trong các cuộc hội thoại hoặc khi viết.</p>
 
         <p className="text-indent-whole">Ví dụ để so sánh (sự khác biệt):</p>
 
           <ol>
 
-            <li>The water boiled. (Nước sôi.)</li>
+            <li>The water boiled.</li>
+            <li className="list-none margin-bottom-20">Nước sôi.</li>
 
-            <li className="margin-bottom-20">The water boiled <strong>instantly</strong>. (Nước sôi ngay lập tức.)</li>
+            <li value="2">The water boiled ______.</li>
+            <li className="list-none margin-bottom-20">Nước sôi ngay lập tức.</li>
 
           </ol>
 

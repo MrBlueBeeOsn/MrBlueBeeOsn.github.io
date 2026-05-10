@@ -62,35 +62,45 @@ export default function Instantly2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1"><strong>Instantly</strong> recognizable: Dễ nhận biết ngay lập tức /ˈɪnstəntli ˈrekəɡnaɪzəbl/</li>
-        <li className="list-none margin-bottom-20">The Eiffel Tower is <strong>instantly</strong> recognizable around the world. (Tháp Eiffel dễ nhận biết ngay lập tức trên toàn thế giới.)</li>
+        <li value="1">Instantly <strong>recognizable</strong> /ˈrekəɡnaɪzəbl/</li>
+        <li className="list-none">The Eiffel Tower is ______ around the world.</li>
+        <li className="list-none margin-bottom-20">Tháp Eiffel dễ nhận biết ngay lập tức trên toàn thế giới.</li>
 
-        <li value="2"><strong>Instantly</strong> addictive: Gây nghiện ngay lập tức /ˈɪnstəntli əˈdɪktɪv/</li>
-        <li className="list-none margin-bottom-20">This game is so much fun, it's <strong>instantly</strong> addictive. (Trò chơi này rất vui, nó gây nghiện ngay lập tức.)</li>
+        <li value="2">Instantly <strong>addictive</strong> /əˈdɪktɪv/</li>
+        <li className="list-none">This game is so much fun, it's ______.</li>
+        <li className="list-none margin-bottom-20">Trò chơi này rất vui, nó gây nghiện ngay lập tức.</li>
 
-        <li value="3"><strong>Instantly</strong> classic: Trở thành kinh điển ngay lập tức /ˈɪnstəntli ˈklæsɪk/</li>
-        <li className="list-none margin-bottom-20">The new song became an <strong>instantly</strong> classic hit. (Bài hát mới trở thành một bản hit kinh điển ngay lập tức.)</li>
+        <li value="3">Instantly <strong>classic</strong> /ˈklæsɪk/</li>
+        <li className="list-none">The new song became an ______ hit.</li>
+        <li className="list-none margin-bottom-20">Bài hát mới trở thành một bản hit kinh điển ngay lập tức.</li>
 
-        <li value="4"><strong>Instantly</strong> recognizable voice: Giọng nói dễ nhận biết ngay lập tức /ˈɪnstəntli ˈrekəɡnaɪzəbl vɔɪs/</li>
-        <li className="list-none margin-bottom-20">I knew it was her <strong>instantly</strong> recognizable voice. (Tôi biết ngay đó là giọng nói dễ nhận biết của cô ấy.)</li>
+        <li value="4">Instantly <strong>recognizable voice</strong> /ˈrekəɡnaɪzəbl vɔɪs/</li>
+        <li className="list-none">I knew it was her ______.</li>
+        <li className="list-none margin-bottom-20">Tôi biết ngay đó là giọng nói dễ nhận biết của cô ấy.</li>
 
-        <li value="5"><strong>Instantly</strong> regretful: Hối hận ngay lập tức /ˈɪnstəntli rɪˈɡrɛtfəl/</li>
-        <li className="list-none margin-bottom-20">As soon as I said it, I felt <strong>instantly</strong> regretful. (Ngay khi tôi nói ra điều đó, tôi đã cảm thấy hối hận ngay lập tức.)</li>
+        <li value="5">Instantly <strong>regretful</strong> /rɪˈɡrɛtfəl/</li>
+        <li className="list-none">As soon as I said it, I felt ______.</li>
+        <li className="list-none margin-bottom-20">Ngay khi tôi nói ra điều đó, tôi đã cảm thấy hối hận ngay lập tức.</li>
 
-        <li value="6"><strong>Instantly</strong> relieved: Cảm thấy nhẹ nhõm ngay lập tức /ˈɪnstəntli rɪˈliːvd/</li>
-        <li className="list-none margin-bottom-20">I felt <strong>instantly</strong> relieved when I heard the good news. (Tôi cảm thấy nhẹ nhõm ngay lập tức khi nghe tin tốt lành.)</li>
+        <li value="6">Instantly <strong>relieved</strong> /rɪˈliːvd/</li>
+        <li className="list-none">I felt ______ when I heard the good news.</li>
+        <li className="list-none margin-bottom-20">Tôi cảm thấy nhẹ nhõm ngay lập tức khi nghe tin tốt lành.</li>
 
-        <li value="7"><strong>Instantly</strong> famous: Trở nên nổi tiếng ngay lập tức /ˈɪnstəntli ˈfeɪməs/</li>
-        <li className="list-none margin-bottom-20">The video went viral and she became <strong>instantly</strong> famous. (Video trở nên lan truyền và cô ấy trở nên nổi tiếng ngay lập tức.)</li>
+        <li value="7">Instantly <strong>famous</strong> /ˈfeɪməs/</li>
+        <li className="list-none">The video went viral and she became ______.</li>
+        <li className="list-none margin-bottom-20">Video trở nên lan truyền và cô ấy trở nên nổi tiếng ngay lập tức.</li>
 
-        <li value="8"><strong>Instantly</strong> recognizable logo: Logo dễ nhận biết ngay lập tức /ˈɪnstəntli ˈrekəɡnaɪzəbl ˈloʊɡoʊ/</li>
-        <li className="list-none margin-bottom-20">The Nike swoosh is an <strong>instantly</strong> recognizable logo. (Logo hình dấu ngoặc kép của Nike là một logo dễ nhận biết ngay lập tức.)</li>
+        <li value="8">Instantly <strong>recognizable logo</strong> /ˈrekəɡnaɪzəbl ˈloʊɡoʊ/</li>
+        <li className="list-none">The Nike swoosh is an ______.</li>
+        <li className="list-none margin-bottom-20">Logo hình dấu ngoặc kép của Nike là một logo dễ nhận biết ngay lập tức.</li>
 
-        <li value="9"><strong>Instantly</strong> forgotten: Bị quên ngay lập tức /ˈɪnstəntli fərˈɡɒtən/</li>
-        <li className="list-none margin-bottom-20">As soon as I left the room, his name was <strong>instantly</strong> forgotten. (Ngay khi tôi rời khỏi phòng, tôi đã quên tên anh ấy ngay lập tức.)</li>
+        <li value="9">Instantly <strong>forgotten</strong> /fərˈɡɒtən/</li>
+        <li className="list-none">As soon as I left the room, his name was ______.</li>
+        <li className="list-none margin-bottom-20">Ngay khi tôi rời khỏi phòng, tôi đã quên tên anh ấy ngay lập tức.</li>
 
-        <li value="10"><strong>Instantly</strong> connected: Kết nối ngay lập tức /ˈɪnstəntli kəˈnɛktɪd/</li>
-        <li className="list-none margin-bottom-20">We <strong>instantly</strong> connected when we first met. (Chúng tôi đã kết nối ngay lập tức khi gặp nhau lần đầu.)</li>
+        <li value="10">Instantly <strong>connected</strong> /kəˈnɛktɪd/</li>
+        <li className="list-none">We ______ when we first met.</li>
+        <li className="list-none margin-bottom-20">Chúng tôi đã kết nối ngay lập tức khi gặp nhau lần đầu.</li>
 
       </ol>
 
