@@ -62,35 +62,45 @@ export default function Seldom2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1"><strong>Seldom</strong> see: Hiếm khi thấy /ˈsɛldəm siː/</li>
-        <li className="list-none margin-bottom-20">I <strong>seldom</strong> see her at school. (Tôi hiếm khi gặp cô ấy ở trường.)</li>
+        <li value="1">Seldom <strong>see</strong> /siː/</li>
+        <li className="list-none">I ______ her at school.</li>
+        <li className="list-none margin-bottom-20">Tôi hiếm khi gặp cô ấy ở trường.</li>
 
-        <li value="2"><strong>Seldom</strong> go: Hiếm khi đi /ˈsɛldəm ɡəʊ/</li>
-        <li className="list-none margin-bottom-20">He <strong>seldom</strong> goes to the cinema. (Anh ấy hiếm khi đi xem phim.)</li>
+        <li value="2">Seldom <strong>goes</strong> /ɡəʊz/</li>
+        <li className="list-none">He ______ to the cinema.</li>
+        <li className="list-none margin-bottom-20">Anh ấy hiếm khi đi xem phim.</li>
 
-        <li value="3"><strong>Seldom</strong> eat: Hiếm khi ăn /ˈsɛldəm iːt/</li>
-        <li className="list-none margin-bottom-20">She <strong>seldom</strong> eats spicy food. (Cô ấy hiếm khi ăn đồ ăn cay.)</li>
+        <li value="3">Seldom <strong>eats</strong> /iːts/</li>
+        <li className="list-none">She ______ spicy food.</li>
+        <li className="list-none margin-bottom-20">Cô ấy hiếm khi ăn đồ ăn cay.</li>
 
-        <li value="4"><strong>Seldom</strong> read: Hiếm khi đọc /ˈsɛldəm riːd/</li>
-        <li className="list-none margin-bottom-20">They <strong>seldom</strong> read newspapers. (Họ hiếm khi đọc báo.)</li>
+        <li value="4">Seldom <strong>read</strong> /riːd/</li>
+        <li className="list-none">They ______ newspapers.</li>
+        <li className="list-none margin-bottom-20">Họ hiếm khi đọc báo.</li>
 
-        <li value="5"><strong>Seldom</strong> play: Hiếm khi chơi /ˈsɛldəm pleɪ/</li>
-        <li className="list-none margin-bottom-20">We <strong>seldom</strong> play sports. (Chúng tôi hiếm khi chơi thể thao.)</li>
+        <li value="5">Seldom <strong>play</strong> /pleɪ/</li>
+        <li className="list-none">We ______ sports.</li>
+        <li className="list-none margin-bottom-20">Chúng tôi hiếm khi chơi thể thao.</li>
 
-        <li value="6"><strong>Seldom</strong> have time: Hiếm khi có thời gian /ˈsɛldəm hæv taɪm/</li>
-        <li className="list-none margin-bottom-20">I <strong>seldom</strong> have time to relax. (Tôi hiếm khi có thời gian để thư giãn.)</li>
+        <li value="6">Seldom <strong>have time</strong> /hæv taɪm/</li>
+        <li className="list-none">I ______ to relax.</li>
+        <li className="list-none margin-bottom-20">Tôi hiếm khi có thời gian để thư giãn.</li>
 
-        <li value="7"><strong>Seldom</strong> think about: Hiếm khi nghĩ về /ˈsɛldəm θɪŋk əˈbaʊt/</li>
-        <li className="list-none margin-bottom-20">She <strong>seldom</strong> thinks about the past. (Cô ấy hiếm khi nghĩ về quá khứ.)</li>
+        <li value="7">Seldom <strong>thinks about</strong> /θɪŋks əˈbaʊt/</li>
+        <li className="list-none">She ______ the past.</li>
+        <li className="list-none margin-bottom-20">Cô ấy hiếm khi nghĩ về quá khứ.</li>
 
-        <li value="8"><strong>Seldom</strong> make mistakes: Hiếm khi mắc lỗi /ˈsɛldəm meɪk mɪˈsteɪks/</li>
-        <li className="list-none margin-bottom-20">He <strong>seldom</strong> makes mistakes in his work. (Anh ấy hiếm khi mắc lỗi trong công việc.)</li>
+        <li value="8">Seldom <strong>makes mistakes</strong> /meɪks mɪˈsteɪks/</li>
+        <li className="list-none">He ______ in his work.</li>
+        <li className="list-none margin-bottom-20">Anh ấy hiếm khi mắc lỗi trong công việc.</li>
 
-        <li value="9"><strong>Seldom</strong> feel: Hiếm khi cảm thấy /ˈsɛldəm fiːl/</li>
-        <li className="list-none margin-bottom-20">I <strong>seldom</strong> feel lonely. (Tôi hiếm khi cảm thấy cô đơn.)</li>
+        <li value="9">Seldom <strong>feel</strong> /fiːl/</li>
+        <li className="list-none">I ______ lonely.</li>
+        <li className="list-none margin-bottom-20">Tôi hiếm khi cảm thấy cô đơn.</li>
 
-        <li value="10"><strong>Seldom</strong> come: Hiếm khi đến /ˈsɛldəm kʌm/</li>
-        <li className="list-none margin-bottom-20">They <strong>seldom</strong> come to visit us. (Họ hiếm khi đến thăm chúng tôi.)</li>
+        <li value="10">Seldom <strong>come</strong> /kʌm/</li>
+        <li className="list-none">They ______ to visit us.</li>
+        <li className="list-none margin-bottom-20">Họ hiếm khi đến thăm chúng tôi.</li>
 
       </ol>
 

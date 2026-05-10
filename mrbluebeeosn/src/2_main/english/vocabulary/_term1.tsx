@@ -231,9 +231,11 @@ export default function (): React.JSX.Element {
           {/* <ol>
 
             <li></li>
+            <li className="list-none"></li>
             <li className="list-none margin-bottom-20"></li>
 
             <li value="2">.</li>
+            <li className="list-none"></li>
             <li className="list-none margin-bottom-20"></li>
 
           </ol>

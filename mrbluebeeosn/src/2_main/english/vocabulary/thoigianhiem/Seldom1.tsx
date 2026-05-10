@@ -63,9 +63,11 @@ export default function Seldom1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>I <strong>seldom</strong> go to the movies. (Tôi hiếm khi đi xem phim.)</li>
+          <li>I ______ go to the movies.</li>
+          <li className="margin-bottom-20 list-none">Tôi hiếm khi đi xem phim.</li>
 
-          <li>She <strong>seldom</strong> makes mistakes. (Cô ấy hiếm khi mắc lỗi.)</li>
+          <li>She ______ makes mistakes.</li>
+          <li className="list-none">Cô ấy hiếm khi mắc lỗi.</li>
 
         </ul>
 
@@ -97,11 +99,13 @@ export default function Seldom1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li><Link to="/vocabulary/rarely-1">Rarely</Link>: hiếm khi /ˈreər.li/</li>
-          <li className="margin-bottom-20 list-none">I rarely eat meat. (Tôi hiếm khi ăn thịt.)</li>
+          <li><Link to="/vocabulary/rarely-1">Rarely</Link> /ˈreər.li/</li>
+          <li className="list-none">I ______ eat meat.</li>
+          <li className="margin-bottom-20 list-none">Tôi hiếm khi ăn thịt.</li>
 
-          <li>Infrequently: không thường xuyên /ɪnˈfriː.kwənt.li/</li>
-          <li className="list-none">She infrequently visits her parents. (Cô ấy ít khi đến thăm ba mẹ.)</li>
+          <li>Infrequently /ɪnˈfriː.kwənt.li/</li>
+          <li className="list-none">She ______ visits her parents.</li>
+          <li className="list-none">Cô ấy ít khi đến thăm ba mẹ.</li>
 
         </ul>
 
@@ -119,11 +123,13 @@ export default function Seldom1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li><Link to="/vocabulary/often-1">Often</Link>: thường xuyên /ˈɒf.ən/</li>
-          <li className="margin-bottom-20 list-none">I often go for a walk in the park. (Tôi thường đi dạo trong công viên.)</li>
+          <li><Link to="/vocabulary/often-1">Often</Link> /ˈɒf.ən/</li>
+          <li className="list-none">I ______ go for a walk in the park.</li>
+          <li className="margin-bottom-20 list-none">Tôi thường đi dạo trong công viên.</li>
 
-          <li><Link to="/vocabulary/frequently-1">Frequently</Link>: thường xuyên /ˈfriː.kwənt.li/</li>
-          <li className="list-none">He frequently travels abroad. (Anh ấy thường xuyên đi du lịch nước ngoài.)</li>
+          <li><Link to="/vocabulary/frequently-1">Frequently</Link> /ˈfriː.kwənt.li/</li>
+          <li className="list-none">He ______ travels abroad.</li>
+          <li className="list-none">Anh ấy thường xuyên đi du lịch nước ngoài.</li>
 
         </ul>
       
@@ -148,11 +154,11 @@ export default function Seldom1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>The watch <strong>seldom</strong> keeps accurate time.</li>
-          <li className="margin-bottom-20 list-none">(Chiếc đồng hồ hiếm khi chạy đúng giờ.)</li>
+          <li>The watch ______ keeps accurate time.</li>
+          <li className="margin-bottom-20 list-none">Chiếc đồng hồ hiếm khi chạy đúng giờ.</li>
 
-          <li>This type of flower <strong>seldom</strong> blooms.</li>
-          <li className="list-none">(Loại hoa này hiếm khi nở.)</li>
+          <li>This type of flower ______ blooms.</li>
+          <li className="list-none">Loại hoa này hiếm khi nở.</li>
 
         </ul>
 
@@ -171,8 +177,8 @@ export default function Seldom1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>She <strong>seldom</strong> complains about her job.</li>
-          <li className="list-none">(Cô ấy hiếm khi phàn nàn về công việc.)</li>
+          <li>She ______ complains about her job.</li>
+          <li className="list-none">Cô ấy hiếm khi phàn nàn về công việc.</li>
 
         </ul>
 
@@ -187,35 +193,21 @@ export default function Seldom1(): React.JSX.Element {
         <strong>&nbsp;thường xuyên</strong>:
       </p>
 
-      <p className="text-indent-whole">Đọc và viết nhiều để làm quen với từ này.</p>
+      <p className="text-indent-whole margin-bottom-20">Đọc và viết nhiều để làm quen với từ này.</p>
 
         <p className="text-indent-whole">Ví dụ để so sánh (sự khác biệt giữa rarely và <strong>seldom</strong>):</p>
 
           <ol>
 
             <li><Link to="/vocabulary/rarely-1">Rarely</Link>: Có thể có một vài lần xảy ra, nhưng không thường xuyên.</li>
-            <li className="list-none margin-bottom-20">I rarely eat spicy food. (Tôi hiếm khi ăn đồ ăn cay.)</li>
+            <li className="list-none">I ______ eat spicy food.</li>
+            <li className="list-none margin-bottom-20">Tôi hiếm khi ăn đồ ăn cay.</li>
 
             <li value="2"><strong>Seldom</strong>: <span className="highlight-255-padding-0-4">Nhấn mạnh sự hiếm hoi tuyệt đối</span>.</li>
-            <li className="list-none margin-bottom-20">I <strong>seldom</strong> see him anymore. (Tôi hầu như không bao giờ gặp anh ấy nữa.)</li>
+            <li className="list-none">I ______ see him anymore.</li>
+            <li className="list-none margin-bottom-20">Tôi hầu như không bao giờ gặp anh ấy nữa.</li>
 
           </ol>
-
-          {/* <ol>
-
-            <li></li>
-
-            <li className="margin-bottom-20"></li>
-
-          </ol>
-
-      <div className="margin-bottom-20 padding-top-20 text-border1 padding-10 highlight-238-padding-4-8 bee-container">
-
-        <p className="margin-y-10">Sự khác biệt: </p>
-
-      </div> */}
-
-      {/* <span className="highlight-255-padding-0-4"></span> */}
 
       {/* =============================
             Lưu ý:
