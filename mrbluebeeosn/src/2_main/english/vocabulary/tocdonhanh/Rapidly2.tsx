@@ -62,35 +62,45 @@ export default function Rapidly2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1"><strong>Rapidly</strong> growing: Phát triển nhanh chóng /ˈræpɪdli ˈɡroʊɪŋ/</li>
-        <li className="list-none margin-bottom-20">The city's population is <strong>rapidly</strong> growing. (Dân số thành phố đang tăng trưởng nhanh chóng.)</li>
+        <li value="1">Rapidly <strong>growing</strong> /ˈɡroʊɪŋ/</li>
+        <li className="list-none">The city's population is ______.</li>
+        <li className="list-none margin-bottom-20">Dân số thành phố đang tăng trưởng nhanh chóng.</li>
 
-        <li value="2"><strong>Rapidly</strong> changing: Thay đổi nhanh chóng /ˈræpɪdli ˈtʃeɪndʒɪŋ/</li>
-        <li className="list-none margin-bottom-20">The world is <strong>rapidly</strong> changing due to technological advancements. (Thế giới đang thay đổi nhanh chóng do sự phát triển của công nghệ.)</li>
+        <li value="2">Rapidly <strong>changing</strong> /ˈtʃeɪndʒɪŋ/</li>
+        <li className="list-none">The world is ______ due to technological advancements.</li>
+        <li className="list-none margin-bottom-20">Thế giới đang thay đổi nhanh chóng do sự phát triển của công nghệ.</li>
 
-        <li value="3"><strong>Rapidly</strong> spreading: Lan rộng nhanh chóng /ˈræpɪdli ˈsprɛdɪŋ/</li>
-        <li className="list-none margin-bottom-20">The disease is <strong>rapidly</strong> spreading throughout the country. (Bệnh đang lan rộng nhanh chóng khắp cả nước.)</li>
+        <li value="3">Rapidly <strong>spreading</strong> /ˈsprɛdɪŋ/</li>
+        <li className="list-none">The disease is ______ throughout the country.</li>
+        <li className="list-none margin-bottom-20">Bệnh đang lan rộng nhanh chóng khắp cả nước.</li>
 
-        <li value="4"><strong>Rapidly</strong> declining: Giảm nhanh chóng /ˈræpɪdli dɪˈklaɪnɪŋ/</li>
-        <li className="list-none margin-bottom-20">The number of endangered species is <strong>rapidly</strong> declining. (Số lượng các loài động vật có nguy cơ tuyệt chủng đang giảm nhanh chóng.)</li>
+        <li value="4">Rapidly <strong>declining</strong> /dɪˈklaɪnɪŋ/</li>
+        <li className="list-none">The number of endangered species is ______.</li>
+        <li className="list-none margin-bottom-20">Số lượng các loài động vật có nguy cơ tuyệt chủng đang giảm nhanh chóng.</li>
 
-        <li value="5"><strong>Rapidly</strong> evolving: Phát triển nhanh chóng /ˈræpɪdli ɪˈvɒlvɪŋ/</li>
-        <li className="list-none margin-bottom-20">Technology is <strong>rapidly</strong> evolving, making our lives easier. (Công nghệ đang phát triển nhanh chóng, giúp cuộc sống của chúng ta dễ dàng hơn.)</li>
+        <li value="5">Rapidly <strong>evolving</strong> /ɪˈvɒlvɪŋ/</li>
+        <li className="list-none">Technology is ______, making our lives easier.</li>
+        <li className="list-none margin-bottom-20">Công nghệ đang phát triển nhanh chóng, giúp cuộc sống của chúng ta dễ dàng hơn.</li>
 
-        <li value="6"><strong>Rapidly</strong> approaching: Đang đến gần nhanh chóng /ˈræpɪdli əˈproʊtʃɪŋ/</li>
-        <li className="list-none margin-bottom-20">The deadline is <strong>rapidly</strong> approaching. (Hạn chót đang đến gần.)</li>
+        <li value="6">Rapidly <strong>approaching</strong> /əˈproʊtʃɪŋ/</li>
+        <li className="list-none">The deadline is ______.</li>
+        <li className="list-none margin-bottom-20">Hạn chót đang đến gần.</li>
 
-        <li value="7"><strong>Rapidly</strong> expanding: Mở rộng nhanh chóng /ˈræpɪdli ɪkˈspændɪŋ/</li>
-        <li className="list-none margin-bottom-20">The company is <strong>rapidly</strong> expanding into new markets. (Công ty đang mở rộng nhanh chóng vào các thị trường mới.)</li>
+        <li value="7">Rapidly <strong>expanding</strong> /ɪkˈspændɪŋ/</li>
+        <li className="list-none">The company is ______ into new markets.</li>
+        <li className="list-none margin-bottom-20">Công ty đang mở rộng nhanh chóng vào các thị trường mới.</li>
 
-        <li value="8"><strong>Rapidly</strong> deteriorating: Hư hỏng nhanh chóng /ˈræpɪdli dɪˈtɪəriəreɪtɪŋ/</li>
-        <li className="list-none margin-bottom-20">The old building is <strong>rapidly</strong> deteriorating. (Tòa nhà cũ đang xuống cấp nhanh chóng.)</li>
+        <li value="8">Rapidly <strong>deteriorating</strong> /dɪˈtɪəriəreɪtɪŋ/</li>
+        <li className="list-none">The old building is ______.</li>
+        <li className="list-none margin-bottom-20">Tòa nhà cũ đang xuống cấp nhanh chóng.</li>
 
-        <li value="9"><strong>Rapidly</strong> accelerating: Tăng tốc nhanh chóng /ˈræpɪdli əkˈsɛləreɪtɪŋ/</li>
-        <li className="list-none margin-bottom-20">The car <strong>rapidly</strong> accelerated down the highway. (Chiếc xe tăng tốc nhanh chóng trên đường cao tốc.)</li>
+        <li value="9">Rapidly <strong>accelerated</strong> /əkˈsɛləreɪtɪd/</li>
+        <li className="list-none">The car ______ down the highway.</li>
+        <li className="list-none margin-bottom-20">Chiếc xe tăng tốc nhanh chóng trên đường cao tốc.</li>
 
-        <li value="10"><strong>Rapidly</strong> disappearing: Biến mất nhanh chóng /ˈræpɪdli dɪsəˈpɪərɪŋ/</li>
-        <li className="list-none margin-bottom-20">The rainforest is <strong>rapidly</strong> disappearing due to deforestation. (Rừng nhiệt đới đang biến mất nhanh chóng do nạn phá rừng.)</li>
+        <li value="10">Rapidly <strong>disappearing</strong> /dɪsəˈpɪərɪŋ/</li>
+        <li className="list-none">The rainforest is ______ due to deforestation.</li>
+        <li className="list-none margin-bottom-20">Rừng nhiệt đới đang biến mất nhanh chóng do nạn phá rừng.</li>
 
       </ol>
 

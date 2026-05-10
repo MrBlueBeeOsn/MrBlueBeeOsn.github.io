@@ -63,9 +63,11 @@ export default function Rapidly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Technology is advancing <strong>rapidly</strong>. (Công nghệ đang phát triển rất nhanh.)</li>
+          <li>Technology is advancing ______.</li>
+          <li className="margin-bottom-20 list-none">Công nghệ đang phát triển rất nhanh.</li>
 
-          <li>The child grew <strong>rapidly</strong> during her first year. (Đứa trẻ lớn rất nhanh trong năm đầu đời.)</li>
+          <li>The child grew ______ during her first year.</li>
+          <li className="list-none">Đứa trẻ lớn rất nhanh trong năm đầu đời.</li>
 
         </ul>
 
@@ -81,11 +83,13 @@ export default function Rapidly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Rapid (adj): Nhanh chóng /ˈræpɪd/</li>
-          <li className="margin-bottom-20 list-none">The river has a rapid current. (Con sông có dòng chảy siết.)</li>
+          <li>Rapid (adj) /ˈræpɪd/</li>
+          <li className="list-none">The river has a ______ current.</li>
+          <li className="margin-bottom-20 list-none">Con sông có dòng chảy siết.</li>
 
-          <li>Rapidity (n): Tốc độ nhanh /ræˈpɪdəti/</li>
-          <li className="list-none">The rapidity of change surprised us. (Tốc độ thay đổi khiến chúng tôi ngạc nhiên.)</li>
+          <li>Rapidity (n) /ræˈpɪdəti/</li>
+          <li className="list-none">The ______ of change surprised us.</li>
+          <li className="list-none">Tốc độ thay đổi khiến chúng tôi ngạc nhiên.</li>
 
         </ul>
 
@@ -101,11 +105,13 @@ export default function Rapidly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li><Link to="/vocabulary/quickly-1">Quickly</Link>: Một cách nhanh chóng /ˈkwɪkli/</li>
-          <li className="margin-bottom-20 list-none">She ran quickly to catch the bus. (Cô ấy chạy nhanh để bắt xe buýt.)</li>
+          <li><Link to="/vocabulary/quickly-1">Quickly</Link> /ˈkwɪkli/</li>
+          <li className="list-none">She ran ______ to catch the bus.</li>
+          <li className="margin-bottom-20 list-none">Cô ấy chạy nhanh để bắt xe buýt.</li>
 
-          <li>Swiftly: Một cách nhanh nhẹn /ˈswɪftli/</li>
-          <li className="list-none">The bird flew swiftly through the air. (Con chim bay nhanh qua không trung.)</li>
+          <li>Swiftly /ˈswɪftli/</li>
+          <li className="list-none">The bird flew ______ through the air.</li>
+          <li className="list-none">Con chim bay nhanh qua không trung.</li>
 
         </ul>
 
@@ -123,11 +129,13 @@ export default function Rapidly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li><Link to="/vocabulary/slowly-1">Slowly</Link>: Một cách chậm chạp /ˈsloʊli/</li>
-          <li className="margin-bottom-20 list-none">The snail moved slowly across the leaf. (Con ốc sên di chuyển chậm trên lá.)</li>
+          <li><Link to="/vocabulary/slowly-1">Slowly</Link> /ˈsloʊli/</li>
+          <li className="list-none">The snail moved ______ across the leaf.</li>
+          <li className="margin-bottom-20 list-none">Con ốc sên di chuyển chậm trên lá.</li>
 
-          <li><Link to="/vocabulary/gradually-1">Gradually</Link>: Một cách dần dần /ˈɡrædʒuəli/</li>
-          <li className="list-none">The plant grew gradually taller. (Cây dần dần cao lên.)</li>
+          <li><Link to="/vocabulary/gradually-1">Gradually</Link> /ˈɡrædʒuəli/</li>
+          <li className="list-none">The plant grew ______ taller.</li>
+          <li className="list-none">Cây dần dần cao lên.</li>
 
         </ul>
       
@@ -152,11 +160,11 @@ export default function Rapidly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>The race car moved <strong>rapidly</strong> down the track.</li>
-          <li className="margin-bottom-20 list-none">(Chiếc xe đua di chuyển nhanh chóng trên đường đua.)</li>
+          <li>The race car moved ______ down the track.</li>
+          <li className="margin-bottom-20 list-none">Chiếc xe đua di chuyển nhanh chóng trên đường đua.</li>
 
-          <li>The ball fell <strong>rapidly</strong> towards the ground.</li>
-          <li className="list-none">(Quả bóng rơi nhanh chóng xuống đất.)</li>
+          <li>The ball fell ______ towards the ground.</li>
+          <li className="list-none">Quả bóng rơi nhanh chóng xuống đất.</li>
 
         </ul>
 
@@ -175,8 +183,8 @@ export default function Rapidly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>The news spread <strong>rapidly</strong> throughout the town.</li>
-          <li className="list-none">(Tin tức lan truyền rất nhanh khắp thị trấn.)</li>
+          <li>The news spread ______ throughout the town.</li>
+          <li className="list-none">Tin tức lan truyền rất nhanh khắp thị trấn.</li>
 
         </ul>
 
@@ -191,15 +199,17 @@ export default function Rapidly1(): React.JSX.Element {
         <strong>&nbsp;thường xuyên</strong>:
       </p>
 
-      <p className="text-indent-whole">Thường xuyên sử dụng từ này trong các cuộc trò chuyện hoặc bài viết.</p>
+      <p className="text-indent-whole margin-bottom-20">Thường xuyên sử dụng từ này trong các cuộc trò chuyện hoặc bài viết.</p>
 
         <p className="text-indent-whole">Ví dụ để so sánh (sự khác biệt):</p>
 
           <ol>
 
-            <li>The train is moving. (Tàu đang chạy.)</li>
+            <li>The train is moving.</li>
+            <li className="list-none margin-bottom-20">Tàu đang chạy.</li>
 
-            <li className="margin-bottom-20">The train is moving <strong>rapidly</strong>. (Tàu đang chạy rất nhanh.)</li>
+            <li value="2">The train is moving ______.</li>
+            <li className="list-none margin-bottom-20">Tàu đang chạy rất nhanh.</li>
 
           </ol>
 
