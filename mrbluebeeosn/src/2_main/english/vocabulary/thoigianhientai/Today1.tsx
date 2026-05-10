@@ -63,9 +63,11 @@ export default function Today1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>It's sunny <strong>today</strong>. (Hôm nay trời nắng.)</li>
+          <li>It's sunny ______.</li>
+          <li className="margin-bottom-20 list-none">Hôm nay trời nắng.</li>
 
-          <li>I'm going to the movies <strong>today</strong>. (Hôm nay tôi sẽ đi xem phim.)</li>
+          <li>I'm going to the movies ______.</li>
+          <li className="list-none">Hôm nay tôi sẽ đi xem phim.</li>
 
         </ul>
 
@@ -81,11 +83,13 @@ export default function Today1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li><strong>Today</strong>: (noun) Hôm nay /təˈdeɪ/</li>
-          <li className="margin-bottom-20 list-none"><strong>Today</strong> is a beautiful day. (Hôm nay là một ngày đẹp trời.)</li>
+          <li><strong>Today</strong> (noun) /təˈdeɪ/</li>
+          <li className="list-none">______ is a beautiful day.</li>
+          <li className="margin-bottom-20 list-none">Hôm nay là một ngày đẹp trời.</li>
 
-          <li>Day: (noun) Ngày /deɪ/</li>
-          <li className="list-none">Every day I go to school. (Mỗi ngày tôi đều đi học.)</li>
+          <li>Day (noun) /deɪ/</li>
+          <li className="list-none">Every ______ I go to school.</li>
+          <li className="list-none">Mỗi ngày tôi đều đi học.</li>
 
         </ul>
 
@@ -101,11 +105,13 @@ export default function Today1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li><Link to="/vocabulary/now-1">Now</Link>: Bây giờ /naʊ/</li>
-          <li className="margin-bottom-20 list-none">I'm going to bed now. (Bây giờ tôi sẽ đi ngủ.)</li>
+          <li><Link to="/vocabulary/now-1">Now</Link> /naʊ/</li>
+          <li className="list-none">I'm going to bed ______.</li>
+          <li className="margin-bottom-20 list-none">Bây giờ tôi sẽ đi ngủ.</li>
 
-          <li>At present: Hiện tại /æt ˈprez.ənt/</li>
-          <li className="list-none">At present, I am working on a new project. (Hiện tại, tôi đang làm việc trên một dự án mới.)</li>
+          <li>At present /æt ˈprez.ənt/</li>
+          <li className="list-none">______, I am working on a new project.</li>
+          <li className="list-none">Hiện tại, tôi đang làm việc trên một dự án mới.</li>
 
         </ul>
 
@@ -123,11 +129,13 @@ export default function Today1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Yesterday: hôm qua /ˈjes.tər.deɪ/</li>
-          <li className="margin-bottom-20 list-none">I went to the park yesterday. (Hôm qua tôi đã đến công viên.)</li>
+          <li>Yesterday /ˈjes.tər.deɪ/</li>
+          <li className="list-none">I went to the park ______.</li>
+          <li className="margin-bottom-20 list-none">Hôm qua tôi đã đến công viên.</li>
 
-          <li><Link to="/vocabulary/tomorrow-1">Tomorrow</Link>: ngày mai /təˈmɔː.roʊ/</li>
-          <li className="list-none">I will go to the beach tomorrow. (Ngày mai tôi sẽ đi biển.)</li>
+          <li><Link to="/vocabulary/tomorrow-1">Tomorrow</Link> /təˈmɔː.roʊ/</li>
+          <li className="list-none">I will go to the beach ______.</li>
+          <li className="list-none">Ngày mai tôi sẽ đi biển.</li>
 
         </ul>
       
@@ -152,8 +160,8 @@ export default function Today1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>I have a meeting marked on my calendar <strong>today</strong>.</li>
-          <li className="list-none">(Tôi có một cuộc họp được đánh dấu trên lịch hôm nay.)</li>
+          <li>I have a meeting marked on my calendar ______.</li>
+          <li className="list-none">Tôi có một cuộc họp được đánh dấu trên lịch hôm nay.</li>
 
         </ul>
 
@@ -172,8 +180,8 @@ export default function Today1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>I'm going to the movies <strong>today</strong>.</li>
-          <li className="list-none">(Hôm nay tôi sẽ đi xem phim.)</li>
+          <li>I'm going to the movies ______.</li>
+          <li className="list-none">Hôm nay tôi sẽ đi xem phim.</li>
 
         </ul>
 
@@ -188,17 +196,19 @@ export default function Today1(): React.JSX.Element {
         <strong>&nbsp;thường xuyên</strong>:
       </p>
 
-      <p className="text-indent-whole">Đọc và viết nhiều để nhớ từ vựng lâu hơn.</p>
+      <p className="text-indent-whole margin-bottom-20">Đọc và viết nhiều để nhớ từ vựng lâu hơn.</p>
 
         <p className="text-indent-whole">Ví dụ để so sánh (sự khác biệt giữa now và <strong>today</strong>):</p>
 
           <ol>
 
             <li><Link to="/vocabulary/now-1">Now</Link>: Chỉ thời điểm chính xác tại thời điểm nói.</li>
-            <li className="list-none margin-bottom-20">I'm eating now. (Bây giờ tôi đang ăn.)</li>
+            <li className="list-none">I'm eating ______.</li>
+            <li className="list-none margin-bottom-20">Bây giờ tôi đang ăn.</li>
 
             <li value="2"><strong>Today</strong>: <span className="highlight-255-padding-0-4">Chỉ một khoảng thời gian 24 giờ</span>, từ nửa đêm đến nửa đêm.</li>
-            <li className="list-none margin-bottom-20">I'm busy <strong>today</strong>. (Hôm nay tôi bận.)</li>
+            <li className="list-none">I'm busy ______.</li>
+            <li className="list-none margin-bottom-20">Hôm nay tôi bận.</li>
 
           </ol>
 

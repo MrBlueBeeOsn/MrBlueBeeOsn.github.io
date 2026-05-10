@@ -62,35 +62,45 @@ export default function Today2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1"><strong>Today</strong> is: Hôm nay là /təˈdeɪ ɪz/</li>
-        <li className="list-none margin-bottom-20"><strong>Today</strong> is Monday. (Hôm nay là thứ Hai.)</li>
+        <li value="1">Today <strong>is</strong> /ɪz/</li>
+        <li className="list-none">______ Monday.</li>
+        <li className="list-none margin-bottom-20">Hôm nay là thứ Hai.</li>
 
-        <li value="2"><strong>Today</strong>, I: Hôm nay, tôi /təˈdeɪ, aɪ/</li>
-        <li className="list-none margin-bottom-20"><strong>Today</strong>, I am going to the park. (Hôm nay, tôi sẽ đi công viên.)</li>
+        <li value="2">Today, <strong>I</strong> /aɪ/</li>
+        <li className="list-none">______ am going to the park.</li>
+        <li className="list-none margin-bottom-20">Hôm nay, tôi sẽ đi công viên.</li>
 
-        <li value="3">As of <strong>today</strong>: Tính đến hôm nay /æz əv təˈdeɪ/</li>
-        <li className="list-none margin-bottom-20">As of <strong>today</strong>, we have sold 100 products. (Tính đến hôm nay, chúng tôi đã bán được 100 sản phẩm.)</li>
+        <li value="3"><strong>As of</strong> today /æz əv/</li>
+        <li className="list-none">______, we have sold 100 products.</li>
+        <li className="list-none margin-bottom-20">Tính đến hôm nay, chúng tôi đã bán được 100 sản phẩm.</li>
 
-        <li value="4">Even <strong>today</strong>: Ngay cả ngày nay /ˈiːvən təˈdeɪ/</li>
-        <li className="list-none margin-bottom-20">Even <strong>today</strong>, many people believe in ghosts. (Ngay cả ngày nay, nhiều người vẫn tin vào ma.)</li>
+        <li value="4"><strong>Even</strong> today /ˈiːvən/</li>
+        <li className="list-none">______, many people believe in ghosts.</li>
+        <li className="list-none margin-bottom-20">Ngay cả ngày nay, nhiều người vẫn tin vào ma.</li>
 
-        <li value="5">Later <strong>today</strong>: Vào cuối ngày hôm nay /ˈleɪtər təˈdeɪ/</li>
-        <li className="list-none margin-bottom-20">I will call you later <strong>today</strong>. (Tôi sẽ gọi cho bạn vào cuối ngày hôm nay.)</li>
+        <li value="5"><strong>Later</strong> today /ˈleɪtər/</li>
+        <li className="list-none">I will call you ______.</li>
+        <li className="list-none margin-bottom-20">Tôi sẽ gọi cho bạn vào cuối ngày hôm nay.</li>
 
-        <li value="6">Earlier <strong>today</strong>: Sớm hơn hôm nay /ˈɜː.li.ər təˈdeɪ/</li>
-        <li className="list-none margin-bottom-20">I met him earlier <strong>today</strong>. (Tôi gặp anh ấy sớm hơn hôm nay.)</li>
+        <li value="6"><strong>Earlier</strong> today /ˈɜː.li.ər/</li>
+        <li className="list-none">I met him ______.</li>
+        <li className="list-none margin-bottom-20">Tôi gặp anh ấy sớm hơn hôm nay.</li>
 
-        <li value="7">From <strong>today</strong> onwards: Từ hôm nay trở đi /frɒm təˈdeɪ ˈɒnwərdz/</li>
-        <li className="list-none margin-bottom-20">From <strong>today</strong> onwards, I will start exercising. (Từ hôm nay trở đi, tôi sẽ bắt đầu tập thể dục.)</li>
+        <li value="7"><strong>From</strong> today <strong>onwards</strong> /frɒm ˈɒnwərdz/</li>
+        <li className="list-none">______, I will start exercising.</li>
+        <li className="list-none margin-bottom-20">Từ hôm nay trở đi, tôi sẽ bắt đầu tập thể dục.</li>
 
-        <li value="8"><strong>Today</strong> is the day: Hôm nay là ngày quan trọng /təˈdeɪ ɪz ðə deɪ/</li>
-        <li className="list-none margin-bottom-20"><strong>Today</strong> is the day I get married. (Hôm nay là ngày tôi kết hôn.)</li>
+        <li value="8">Today <strong>is the day</strong> /ɪz ðə deɪ/</li>
+        <li className="list-none">______ I get married.</li>
+        <li className="list-none margin-bottom-20">Hôm nay là ngày tôi kết hôn.</li>
 
-        <li value="9">Up to <strong>today</strong>: Cho đến hôm nay /ʌp tuː təˈdeɪ/</li>
-        <li className="list-none margin-bottom-20">Up to <strong>today</strong>, we have completed 50% of the project. (Cho đến hôm nay, chúng tôi đã hoàn thành 50% dự án.)</li>
+        <li value="9"><strong>Up to</strong> today /ʌp tuː/</li>
+        <li className="list-none">______, we have completed 50% of the project.</li>
+        <li className="list-none margin-bottom-20">Cho đến hôm nay, chúng tôi đã hoàn thành 50% dự án.</li>
 
-        <li value="10">On this day: Vào ngày này /ɒn ðɪs deɪ/</li>
-        <li className="list-none margin-bottom-20">On this day, many years ago, a great war began. (Vào ngày này, nhiều năm trước, một cuộc chiến tranh lớn đã bắt đầu.)</li>
+        <li value="10">On this day /ɒn ðɪs deɪ/</li>
+        <li className="list-none">______, many years ago, a great war began.</li>
+        <li className="list-none margin-bottom-20">Vào ngày này, nhiều năm trước, một cuộc chiến tranh lớn đã bắt đầu.</li>
 
       </ol>
 
