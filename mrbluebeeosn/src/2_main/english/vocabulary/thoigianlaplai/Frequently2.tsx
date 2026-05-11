@@ -62,35 +62,45 @@ export default function Frequently2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1"><strong>Frequently</strong> asked questions: Những câu hỏi thường gặp /ˈfriːkwəntli æskt ˈkwɛʃtʃənz/</li>
-        <li className="list-none margin-bottom-20">The FAQ section provides answers to <strong>frequently</strong> asked questions about the product. (Phần FAQ cung cấp câu trả lời cho những câu hỏi thường gặp về sản phẩm.)</li>
+        <li value="1">Frequently <strong>asked questions</strong> /æskt ˈkwɛʃtʃənz/</li>
+        <li className="list-none">The FAQ section provides answers to ______ about the product.</li>
+        <li className="list-none margin-bottom-20">Phần FAQ cung cấp câu trả lời cho những câu hỏi thường gặp về sản phẩm.</li>
 
-        <li value="2"><strong>Frequently</strong> used: Được sử dụng thường xuyên /ˈfriːkwəntli juːzd/</li>
-        <li className="list-none margin-bottom-20">This is a <strong>frequently</strong> used phrase in everyday conversation. (Đây là một cụm từ được sử dụng thường xuyên trong cuộc trò chuyện hàng ngày.)</li>
+        <li value="2">Frequently <strong>used</strong> /juːzd/</li>
+        <li className="list-none">This is a ______ phrase in everyday conversation.</li>
+        <li className="list-none margin-bottom-20">Đây là một cụm từ được sử dụng thường xuyên trong cuộc trò chuyện hàng ngày.</li>
 
-        <li value="3"><strong>Frequently</strong> occurring: Xảy ra thường xuyên /ˈfriːkwəntli əˈkɜːrɪŋ/</li>
-        <li className="list-none margin-bottom-20">Traffic accidents are a <strong>frequently</strong> occurring problem in this city. (Tai nạn giao thông là một vấn đề thường xảy ra ở thành phố này.)</li>
+        <li value="3">Frequently <strong>occurring</strong> /əˈkɜːrɪŋ/</li>
+        <li className="list-none">Traffic accidents are a ______ problem in this city.</li>
+        <li className="list-none margin-bottom-20">Tai nạn giao thông là một vấn đề thường xảy ra ở thành phố này.</li>
 
-        <li value="4"><strong>Frequently</strong> visited: Được viếng thăm thường xuyên /ˈfriːkwəntli ˈvɪzɪtɪd/</li>
-        <li className="list-none margin-bottom-20">This is one of the most <strong>frequently</strong> visited websites in the world. (Đây là một trong những trang web được truy cập nhiều nhất trên thế giới.)</li>
+        <li value="4">Frequently <strong>visited</strong> /ˈvɪzɪtɪd/</li>
+        <li className="list-none">This is one of the most ______ websites in the world.</li>
+        <li className="list-none margin-bottom-20">Đây là một trong những trang web được truy cập nhiều nhất trên thế giới.</li>
 
-        <li value="5"><strong>Frequently</strong> mentioned: Được đề cập thường xuyên /ˈfriːkwəntli ˈmɛnʃənd/</li>
-        <li className="list-none margin-bottom-20">His name was <strong>frequently</strong> mentioned in the news. (Tên của ông ấy được đề cập thường xuyên trên tin tức.)</li>
+        <li value="5">Frequently <strong>mentioned</strong> /ˈmɛnʃənd/</li>
+        <li className="list-none">His name was ______ in the news.</li>
+        <li className="list-none margin-bottom-20">Tên của ông ấy được đề cập thường xuyên trên tin tức.</li>
 
-        <li value="6"><strong>Frequently</strong> updated: Được cập nhật thường xuyên /ˈfriːkwəntli ʌpˈdeɪtɪd/</li>
-        <li className="list-none margin-bottom-20">The website is <strong>frequently</strong> updated with new information. (Trang web được cập nhật thường xuyên với thông tin mới.)</li>
+        <li value="6">Frequently <strong>updated</strong> /ʌpˈdeɪtɪd/</li>
+        <li className="list-none">The website is ______ with new information.</li>
+        <li className="list-none margin-bottom-20">Trang web được cập nhật thường xuyên với thông tin mới.</li>
 
-        <li value="7"><strong>Frequently</strong> asked: Được hỏi thường xuyên /ˈfriːkwəntli æskt/</li>
-        <li className="list-none margin-bottom-20">This question is <strong>frequently</strong> asked by our customers. (Câu hỏi này được khách hàng của chúng tôi hỏi thường xuyên.)</li>
+        <li value="7">Frequently <strong>asked</strong> /æskt/</li>
+        <li className="list-none">This question is ______ by our customers.</li>
+        <li className="list-none margin-bottom-20">Câu hỏi này được khách hàng của chúng tôi hỏi thường xuyên.</li>
 
-        <li value="8"><strong>Frequently</strong> encountered: Thường gặp phải /ˈfriːkwəntli ɪnˈkaʊntərd/</li>
-        <li className="list-none margin-bottom-20">This type of error is <strong>frequently</strong> encountered in this software. (Loại lỗi này thường gặp phải trong phần mềm này.)</li>
+        <li value="8">Frequently <strong>encountered</strong> /ɪnˈkaʊntərd/</li>
+        <li className="list-none">This type of error is ______ in this software.</li>
+        <li className="list-none margin-bottom-20">Loại lỗi này thường gặp phải trong phần mềm này.</li>
 
-        <li value="9"><strong>Frequently</strong> overlooked: Thường bị bỏ qua /ˈfriːkwəntli ˌoʊvərˈlʊkt/</li>
-        <li className="list-none margin-bottom-20">This important detail is <strong>frequently</strong> overlooked by people. (Chi tiết quan trọng này thường bị mọi người bỏ qua.)</li>
+        <li value="9">Frequently <strong>overlooked</strong> /ˌoʊvərˈlʊkt/</li>
+        <li className="list-none">This important detail is ______ by people.</li>
+        <li className="list-none margin-bottom-20">Chi tiết quan trọng này thường bị mọi người bỏ qua.</li>
 
-        <li value="10"><strong>Frequently</strong> recommended: Thường được khuyến nghị /ˈfriːkwəntli ˌrekəˈmɛndɪd/</li>
-        <li className="list-none margin-bottom-20">This book is <strong>frequently</strong> recommended by teachers. (Cuốn sách này thường được giáo viên khuyến nghị.)</li>
+        <li value="10">Frequently <strong>recommended</strong> /ˌrekəˈmɛndɪd/</li>
+        <li className="list-none">This book is ______ by teachers.</li>
+        <li className="list-none margin-bottom-20">Cuốn sách này thường được giáo viên khuyến nghị.</li>
 
       </ol>
 
