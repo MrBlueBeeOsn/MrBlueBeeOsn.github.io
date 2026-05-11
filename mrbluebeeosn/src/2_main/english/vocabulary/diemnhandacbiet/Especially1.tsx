@@ -63,9 +63,11 @@ export default function Especially1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>I love all fruits, <strong>especially</strong> apples. (Tôi thích tất cả các loại trái cây, đặc biệt là táo.)</li>
+          <li>I love all fruits, ______ apples.</li>
+          <li className="margin-bottom-20 list-none">Tôi thích tất cả các loại trái cây, đặc biệt là táo.</li>
 
-          <li>She is very good at languages, <strong>especially</strong> French. (Cô ấy rất giỏi ngoại ngữ, đặc biệt là tiếng Pháp.)</li>
+          <li>She is very good at languages, ______ French.</li>
+          <li className="list-none">Cô ấy rất giỏi ngoại ngữ, đặc biệt là tiếng Pháp.</li>
 
         </ul>
 
@@ -81,8 +83,9 @@ export default function Especially1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Special (adj): đặc biệt /ˈspeʃəl/</li>
-          <li className="list-none">This is a special occasion. (Đây là một dịp đặc biệt.)</li>
+          <li>Special (adj) /ˈspeʃəl/</li>
+          <li className="list-none">This is a ______ occasion.</li>
+          <li className="list-none">Đây là một dịp đặc biệt.</li>
 
         </ul>
 
@@ -98,11 +101,13 @@ export default function Especially1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li><Link to="/vocabulary/particularly-1">Particularly</Link>: Đặc biệt /pərˈtɪkjələrli/</li>
-          <li className="margin-bottom-20 list-none">I'm particularly fond of this painting. (Tôi đặc biệt thích bức tranh này.)</li>
+          <li><Link to="/vocabulary/particularly-1">Particularly</Link> /pərˈtɪkjələrli/</li>
+          <li className="list-none">I'm ______ fond of this painting.</li>
+          <li className="margin-bottom-20 list-none">Tôi đặc biệt thích bức tranh này.</li>
 
-          <li>In particular: Đặc biệt là /ɪn pərˈtɪkjələr/</li>
-          <li className="list-none">I like many sports, in particular, swimming. (Tôi thích nhiều môn thể thao, đặc biệt là bơi lội.)</li>
+          <li>In particular /ɪn pərˈtɪkjələr/</li>
+          <li className="list-none">I like many sports, ______, swimming.</li>
+          <li className="list-none">Tôi thích nhiều môn thể thao, đặc biệt là bơi lội.</li>
 
         </ul>
 
@@ -120,11 +125,13 @@ export default function Especially1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Generally: Nói chung /ˈdʒenərəli/</li>
-          <li className="margin-bottom-20 list-none">Generally, I like to go to bed early. (Nói chung, tôi thích đi ngủ sớm.)</li>
+          <li>Generally /ˈdʒenərəli/</li>
+          <li className="list-none">______, I like to go to bed early.</li>
+          <li className="margin-bottom-20 list-none">Nói chung, tôi thích đi ngủ sớm.</li>
 
-          <li>Usually: Thường thường /ˈjuːʒuəli/</li>
-          <li className="list-none">I usually have breakfast at 7 am. (Tôi thường ăn sáng lúc 7 giờ sáng.)</li>
+          <li>Usually /ˈjuːʒuəli/</li>
+          <li className="list-none">I ______ have breakfast at 7 am.</li>
+          <li className="list-none">Tôi thường ăn sáng lúc 7 giờ sáng.</li>
 
         </ul>
       
@@ -149,8 +156,8 @@ export default function Especially1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li><strong>Especially</strong> this one.</li>
-          <li className="list-none">(Đặc biệt là cái này)</li>
+          <li>______ this one.</li>
+          <li className="list-none">Đặc biệt là cái này</li>
 
         </ul>
 
@@ -169,8 +176,8 @@ export default function Especially1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>I enjoy traveling, <strong>especially</strong> to exotic places.</li>
-          <li className="list-none">(Tôi thích đi du lịch, đặc biệt là đến những nơi kỳ lạ.)</li>
+          <li>I enjoy traveling, ______ to exotic places.</li>
+          <li className="list-none">Tôi thích đi du lịch, đặc biệt là đến những nơi kỳ lạ.</li>
 
         </ul>
 
@@ -185,15 +192,17 @@ export default function Especially1(): React.JSX.Element {
         <strong>&nbsp;thường xuyên</strong>:
       </p>
 
-      <p className="text-indent-whole">Thường xuyên sử dụng từ này trong các cuộc hội thoại và bài viết.</p>
+      <p className="text-indent-whole margin-bottom-20">Thường xuyên sử dụng từ này trong các cuộc hội thoại và bài viết.</p>
 
         <p className="text-indent-whole">Ví dụ để so sánh (sự khác biệt):</p>
 
           <ol>
 
-            <li>I like to eat vegetables. (Tôi thích ăn rau.)</li>
+            <li>I like to eat vegetables.</li>
+            <li className="list-none margin-bottom-20">Tôi thích ăn rau.</li>
 
-            <li className="margin-bottom-20">I like to eat vegetables, <strong>especially</strong> broccoli. (Tôi thích ăn rau, đặc biệt là bông cải xanh.)</li>
+            <li value="2">I like to eat vegetables, ______ broccoli.</li>
+            <li className="list-none margin-bottom-20">Tôi thích ăn rau, đặc biệt là bông cải xanh.</li>
 
           </ol>
 

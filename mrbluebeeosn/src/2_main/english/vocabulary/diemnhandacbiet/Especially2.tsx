@@ -62,35 +62,45 @@ export default function Especially2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1"><strong>Especially</strong> interested in: Đặc biệt quan tâm đến /ɪˈspɛʃəli ˈɪntrəstɪd ɪn/</li>
-        <li className="list-none margin-bottom-20">I am <strong>especially</strong> interested in learning about different cultures. (Tôi đặc biệt quan tâm đến việc tìm hiểu về các nền văn hóa khác nhau.)</li>
+        <li value="1">Especially <strong>interested in</strong> /ˈɪntrəstɪd ɪn/</li>
+        <li className="list-none">I am ______ learning about different cultures.</li>
+        <li className="list-none margin-bottom-20">Tôi đặc biệt quan tâm đến việc tìm hiểu về các nền văn hóa khác nhau.</li>
 
-        <li value="2"><strong>Especially</strong> good at: Đặc biệt giỏi về /ɪˈspɛʃəli ɡʊd æt/</li>
-        <li className="list-none margin-bottom-20">She is <strong>especially</strong> good at playing the piano. (Cô ấy đặc biệt giỏi chơi piano.)</li>
+        <li value="2">Especially <strong>good at</strong> /ɡʊd æt/</li>
+        <li className="list-none">She is ______ playing the piano.</li>
+        <li className="list-none margin-bottom-20">Cô ấy đặc biệt giỏi chơi piano.</li>
 
-        <li value="3"><strong>Especially</strong> important: Đặc biệt quan trọng /ɪˈspɛʃəli ɪmˈpɔːrtənt/</li>
-        <li className="list-none margin-bottom-20">Sleep is <strong>especially</strong> important for growing children. (Giấc ngủ đặc biệt quan trọng đối với trẻ em đang lớn.)</li>
+        <li value="3">Especially <strong>important</strong> /ɪmˈpɔːrtənt/</li>
+        <li className="list-none">Sleep is ______ for growing children.</li>
+        <li className="list-none margin-bottom-20">Giấc ngủ đặc biệt quan trọng đối với trẻ em đang lớn.</li>
 
-        <li value="4"><strong>Especially</strong> difficult: Đặc biệt khó /ɪˈspɛʃəli ˈdɪfɪkəlt/</li>
-        <li className="list-none margin-bottom-20">The final exam was <strong>especially</strong> difficult. (Bài thi cuối kỳ đặc biệt khó.)</li>
+        <li value="4">Especially <strong>difficult</strong> /ˈdɪfɪkəlt/</li>
+        <li className="list-none">The final exam was ______.</li>
+        <li className="list-none margin-bottom-20">Bài thi cuối kỳ đặc biệt khó.</li>
 
-        <li value="5"><strong>Especially</strong> true of: Đặc biệt đúng với /ɪˈspɛʃəli truː ʌv/</li>
-        <li className="list-none margin-bottom-20">This is <strong>especially</strong> true of people who live in big cities. (Điều này đặc biệt đúng với những người sống ở các thành phố lớn.)</li>
+        <li value="5">Especially <strong>true of</strong> /truː ʌv/</li>
+        <li className="list-none">This is ______ people who live in big cities.</li>
+        <li className="list-none margin-bottom-20">Điều này đặc biệt đúng với những người sống ở các thành phố lớn.</li>
 
-        <li value="6"><strong>Especially</strong> when: Đặc biệt khi /ɪˈspɛʃəli wɛn/</li>
-        <li className="list-none margin-bottom-20">I enjoy walking in the park, <strong>especially</strong> when the weather is nice. (Tôi thích đi dạo trong công viên, đặc biệt là khi trời đẹp.)</li>
+        <li value="6">Especially <strong>when</strong> /wɛn/</li>
+        <li className="list-none">I enjoy walking in the park, ______ the weather is nice.</li>
+        <li className="list-none margin-bottom-20">Tôi thích đi dạo trong công viên, đặc biệt là khi trời đẹp.</li>
 
-        <li value="7"><strong>Especially</strong> like: Đặc biệt thích /ɪˈspɛʃəli laɪk/</li>
-        <li className="list-none margin-bottom-20">I <strong>especially</strong> like chocolate ice cream. (Tôi đặc biệt thích kem sô cô la.)</li>
+        <li value="7">Especially <strong>like</strong> /laɪk/</li>
+        <li className="list-none">I ______ chocolate ice cream.</li>
+        <li className="list-none margin-bottom-20">Tôi đặc biệt thích kem sô cô la.</li>
 
-        <li value="8"><strong>Especially</strong> since: Đặc biệt là từ khi /ɪˈspɛʃəli sɪns/</li>
-        <li className="list-none margin-bottom-20">I've been feeling tired lately, <strong>especially</strong> since I've been working so hard. (Gần đây tôi cảm thấy mệt mỏi, đặc biệt là từ khi tôi làm việc quá nhiều.)</li>
+        <li value="8">Especially <strong>since</strong> /sɪns/</li>
+        <li className="list-none">I've been feeling tired lately, ______ I've been working so hard.</li>
+        <li className="list-none margin-bottom-20">Gần đây tôi cảm thấy mệt mỏi, đặc biệt là từ khi tôi làm việc quá nhiều.</li>
 
-        <li value="9"><strong>Especially</strong> for: Đặc biệt dành cho /ɪˈspɛʃəli fɔːr/</li>
-        <li className="list-none margin-bottom-20">This book is <strong>especially</strong> for beginners. (Cuốn sách này đặc biệt dành cho người mới bắt đầu.)</li>
+        <li value="9">Especially <strong>for</strong> /fɔːr/</li>
+        <li className="list-none">This book is ______ beginners.</li>
+        <li className="list-none margin-bottom-20">Cuốn sách này đặc biệt dành cho người mới bắt đầu.</li>
 
-        <li value="10"><strong>Especially</strong> considering: Đặc biệt khi xét đến /ɪˈspɛʃəli kənˈsɪdərɪŋ/</li>
-        <li className="list-none margin-bottom-20">It's a good deal, <strong>especially</strong> considering the quality. (Đó là một giao dịch tốt, đặc biệt khi xét đến chất lượng.)</li>
+        <li value="10">Especially <strong>considering</strong> /kənˈsɪdərɪŋ/</li>
+        <li className="list-none">It's a good deal, ______ the quality.</li>
+        <li className="list-none margin-bottom-20">Đó là một giao dịch tốt, đặc biệt khi xét đến chất lượng.</li>
 
       </ol>
 
