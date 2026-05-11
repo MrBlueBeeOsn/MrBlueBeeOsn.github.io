@@ -63,9 +63,11 @@ export default function No1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Are you coming to the party? - <strong>No</strong>, I'm not. (Bạn có đến bữa tiệc không? - Không, tôi không.)</li>
+          <li>Are you coming to the party? - ______, I'm not.</li>
+          <li className="margin-bottom-20 list-none">Bạn có đến bữa tiệc không? - Không, tôi không.</li>
 
-          <li>Do you like coffee? - <strong>No</strong>, I prefer tea. (Bạn có thích cà phê không? - Không, tôi thích trà hơn.)</li>
+          <li>Do you like coffee? - ______, I prefer tea.</li>
+          <li className="list-none">Bạn có thích cà phê không? - Không, tôi thích trà hơn.</li>
 
         </ul>
 
@@ -80,12 +82,6 @@ export default function No1(): React.JSX.Element {
       </p>
 
         <ul className="list-square">
-
-          {/* <li></li>
-          <li className="margin-bottom-20 list-none"></li> */}
-
-          {/* <li></li>
-          <li className="margin-bottom-20 list-none"></li> */}
 
           <li className="list-none">Không có gia đình từ trực tiếp cho "<strong>no</strong>" vì đây là một từ đơn và rất cơ bản.</li>
 
@@ -103,14 +99,13 @@ export default function No1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          {/* <li></li>
-          <li className="margin-bottom-20 list-none"></li> */}
+          <li><Link to="/vocabulary/not-1">Not</Link> (adv) /nɒt/</li>
+          <li className="list-none">I am ______ going.</li>
+          <li className="margin-bottom-20 list-none">Tôi không đi.</li>
 
-          <li><Link to="/vocabulary/not-1">Not</Link>: (adv) /nɒt/ - Không</li>
-          <li className="margin-bottom-20 list-none">I am not going. (Tôi không đi.)</li>
-
-          <li><Link to="/vocabulary/never-1">Never</Link>: (adv) /ˈnevər/ - Không bao giờ</li>
-          <li className="list-none">I will never forget you. (Tôi sẽ không bao giờ quên bạn.)</li>
+          <li><Link to="/vocabulary/never-1">Never</Link> (adv) /ˈnevər/</li>
+          <li className="list-none">I will ______ forget you.</li>
+          <li className="list-none">Tôi sẽ không bao giờ quên bạn.</li>
 
         </ul>
 
@@ -128,14 +123,13 @@ export default function No1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          {/* <li></li>
-          <li className="margin-bottom-20 list-none"></li> */}
+          <li><Link to="/vocabulary/yes-1">Yes</Link> (adv) /jes/</li>
+          <li className="list-none">Are you hungry? - ______, I am.</li>
+          <li className="margin-bottom-20 list-none">Bạn có đói không? - Có, tôi đói.</li>
 
-          <li><Link to="/vocabulary/yes-1">Yes</Link>: (adv) /jes/ - Có</li>
-          <li className="margin-bottom-20 list-none">Are you hungry? - Yes, I am. (Bạn có đói không? - Có, tôi đói.)</li>
-
-          <li>Certainly: (adv) /ˈsɜːrtnli/ - Chắc chắn (dùng để đồng ý một cách nhấn mạnh)</li>
-          <li className="list-none">Can I help you? - Certainly. (Tôi có thể giúp gì cho bạn? - Chắc chắn rồi.)</li>
+          <li>Certainly (adv) /ˈsɜːrtnli/</li>
+          <li className="list-none">Can I help you? - ______.</li>
+          <li className="list-none">Tôi có thể giúp gì cho bạn? - Chắc chắn rồi.</li>
 
         </ul>
       
@@ -160,11 +154,8 @@ export default function No1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          {/* <li></li>
-          <li className="margin-bottom-20 list-none"></li> */}
-
-          <li><strong>No</strong>. Không.</li>
-          <li className="list-none">(Dùng khi muốn cấm một hành động nào đó mà không cần chỉ rõ.)</li>
+          <li>______.</li>
+          <li className="list-none"> Không. (Dùng khi muốn cấm một hành động nào đó mà không cần chỉ rõ.)</li>
 
         </ul>
 
@@ -182,13 +173,15 @@ export default function No1(): React.JSX.Element {
       <p className="text-indent-whole">Tạo nhiều câu hỏi và câu trả lời với "<strong>no</strong>" trong các tình huống khác nhau.</p>
 
         <ul className="list-square">
-
-          {/* <li></li>
-          <li className="margin-bottom-20 list-none"></li> */}
           
-          <li className="list-none">Would you like some coffee? (Bạn có muốn uống cà phê không?)</li>
-          <li>Yes, please. (Vâng, làm ơn.)</li>
-          <li><strong>No</strong>, thank you. I'm not thirsty. (Không, cảm ơn. Tôi không khát.)</li>
+          <li className="list-none">Would you like some coffee?</li>
+          <li className=" margin-bottom-20 list-none">Bạn có muốn uống cà phê không?</li>
+
+          <li>Yes, please.</li>
+          <li className=" margin-bottom-20 list-none">Vâng, làm ơn.</li>
+
+          <li>______, thank you. I'm not thirsty.</li>
+          <li className="list-none">Không, cảm ơn. Tôi không khát.</li>
 
         </ul>
 
@@ -203,19 +196,19 @@ export default function No1(): React.JSX.Element {
         <strong>&nbsp;thường xuyên</strong>:
       </p>
 
-      <p className="text-indent-whole">Thường xuyên sử dụng "<strong>no</strong>" trong giao tiếp hàng ngày.
-
-</p>
+      <p className="text-indent-whole margin-bottom-20">Thường xuyên sử dụng "<strong>no</strong>" trong giao tiếp hàng ngày.</p>
 
         <p className="text-indent-whole">Ví dụ để so sánh (sự khác biệt giữa not và <strong>no</strong>):</p>
 
           <ol>
 
             <li><Link to="/vocabulary/not-1">Not</Link>: Được sử dụng để tạo thành câu phủ định đầy đủ.</li>
-            <li className="list-none margin-bottom-20">I do not want any milk. (Tôi không muốn bất kỳ sữa nào.)</li>
+            <li className="list-none">I do ______ want any milk.</li>
+            <li className="list-none margin-bottom-20">Tôi không muốn bất kỳ sữa nào.</li>
 
             <li value="2"><strong>No</strong>: <span className="highlight-255-padding-0-4">Thường được dùng như một câu trả lời ngắn gọn</span>.</li>
-            <li className="list-none margin-bottom-20">Do you want some milk? - <strong>No</strong>. (Bạn có muốn một ít sữa không? - Không.)</li>
+            <li className="list-none">Do you want some milk? - ______.</li>
+            <li className="list-none margin-bottom-20">Bạn có muốn một ít sữa không? - Không.</li>
 
           </ol>
 

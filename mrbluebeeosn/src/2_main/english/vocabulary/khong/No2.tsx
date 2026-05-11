@@ -62,35 +62,45 @@ export default function No2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1"><strong>No</strong> longer: Không còn nữa /noʊ ˈlɔːŋɡər/</li>
-        <li className="list-none margin-bottom-20">She <strong>no</strong> longer lives here. (Cô ấy không còn sống ở đây nữa.)</li>
+        <li value="1">No <strong>longer</strong> /ˈlɔːŋɡər/</li>
+        <li className="list-none">She ______ lives here.</li>
+        <li className="list-none margin-bottom-20">Cô ấy không còn sống ở đây nữa.</li>
 
-        <li value="2"><strong>No</strong> more: Không còn nữa, không thêm nữa /noʊ mɔːr/</li>
-        <li className="list-none margin-bottom-20">I want <strong>no</strong> more of your excuses. (Tôi không muốn nghe thêm bất kỳ lời bào chữa nào của bạn nữa.)</li>
+        <li value="2">No <strong>more</strong> /mɔːr/</li>
+        <li className="list-none">I want ______ of your excuses.</li>
+        <li className="list-none margin-bottom-20">Tôi không muốn nghe thêm bất kỳ lời bào chữa nào của bạn nữa.</li>
 
-        <li value="3"><strong>No</strong> less: Không kém, không ít hơn /noʊ lɛs/</li>
-        <li className="list-none margin-bottom-20">The task is <strong>no</strong> less difficult than the last one. (Nhiệm vụ này không kém phần khó so với nhiệm vụ trước.)</li>
+        <li value="3">No <strong>less</strong> /lɛs/</li>
+        <li className="list-none">The task is ______ difficult than the last one.</li>
+        <li className="list-none margin-bottom-20">Nhiệm vụ này không kém phần khó so với nhiệm vụ trước.</li>
 
-        <li value="4"><strong>No</strong> matter: Dù cho, bất kể /noʊ ˈmætər/</li>
-        <li className="list-none margin-bottom-20"><strong>No</strong> matter what you say, I won't believe you. (Dù bạn nói gì đi nữa, tôi cũng sẽ không tin bạn.)</li>
+        <li value="4">No <strong>matter</strong> /ˈmætər/</li>
+        <li className="list-none">______ what you say, I won't believe you.</li>
+        <li className="list-none margin-bottom-20">Dù bạn nói gì đi nữa, tôi cũng sẽ không tin bạn.</li>
 
-        <li value="5"><strong>No</strong> way: Không đời nào, không thể /noʊ weɪ/</li>
-        <li className="list-none margin-bottom-20"><strong>No</strong> way! I'm not going to do that. (Không đời nào! Tôi sẽ không làm việc đó.)</li>
+        <li value="5">No <strong>way</strong> /weɪ/</li>
+        <li className="list-none">______! I'm not going to do that.</li>
+        <li className="list-none margin-bottom-20">Không đời nào! Tôi sẽ không làm việc đó.</li>
 
-        <li value="6"><strong>No</strong> wonder: Không có gì lạ, chẳng trách /noʊ ˈwʌndər/</li>
-        <li className="list-none margin-bottom-20"><strong>No</strong> wonder he's tired. He's been working all night. (Chẳng trách anh ấy mệt. Anh ấy đã làm việc cả đêm.)</li>
+        <li value="6">No <strong>wonder</strong> /ˈwʌndər/</li>
+        <li className="list-none">______ he's tired. He's been working all night.</li>
+        <li className="list-none margin-bottom-20">Chẳng trách anh ấy mệt. Anh ấy đã làm việc cả đêm.</li>
 
-        <li value="7"><strong>No</strong> doubt: Chắc chắn, không nghi ngờ gì /noʊ daʊt/</li>
-        <li className="list-none margin-bottom-20"><strong>No</strong> doubt she will succeed. (Chắc chắn cô ấy sẽ thành công.)</li>
+        <li value="7">No <strong>doubt</strong> /daʊt/</li>
+        <li className="list-none">______ she will succeed.</li>
+        <li className="list-none margin-bottom-20">Chắc chắn cô ấy sẽ thành công.</li>
 
-        <li value="8"><strong>No</strong> thanks: Không, cảm ơn /noʊ θæŋks/</li>
-        <li className="list-none margin-bottom-20">Would you like some coffee? <strong>No</strong> thanks, I'm not thirsty. (Bạn có muốn uống cà phê không? Không, cảm ơn, tôi không khát.)</li>
+        <li value="8">No <strong>thanks</strong> /θæŋks/</li>
+        <li className="list-none">Would you like some coffee? ______, I'm not thirsty.</li>
+        <li className="list-none margin-bottom-20">Bạn có muốn uống cà phê không? Không, cảm ơn, tôi không khát.</li>
 
-        <li value="9"><strong>No</strong> longer than: Không quá, không lâu hơn /noʊ ˈlɔːŋɡər ðæn/</li>
-        <li className="list-none margin-bottom-20">The meeting will be <strong>no</strong> longer than two hours. (Cuộc họp sẽ không quá hai giờ.)</li>
+        <li value="9">No <strong>longer than</strong> /ˈlɔːŋɡər ðæn/</li>
+        <li className="list-none">The meeting will be ______ than two hours.</li>
+        <li className="list-none margin-bottom-20">Cuộc họp sẽ không quá hai giờ.</li>
 
-        <li value="10"><strong>No</strong> less than: Không kém hơn, tới tận /noʊ lɛs ðæn/</li>
-        <li className="list-none margin-bottom-20"><strong>No</strong> less than a thousand people attended the concert. (Có tới tận một ngàn người đã tham dự buổi hòa nhạc.)</li>
+        <li value="10">No <strong>less than</strong> /lɛs ðæn/</li>
+        <li className="list-none">______ a thousand people attended the concert.</li>
+        <li className="list-none margin-bottom-20">Có tới tận một ngàn người đã tham dự buổi hòa nhạc.</li>
 
       </ol>
 
