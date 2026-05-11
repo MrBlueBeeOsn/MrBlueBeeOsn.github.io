@@ -63,9 +63,11 @@ export default function Repeatedly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>She <strong>repeatedly</strong> asked him the same question. (Cô ấy liên tục hỏi anh ta cùng một câu hỏi.)</li>
+          <li>She ______ asked him the same question.</li>
+          <li className="margin-bottom-20 list-none">Cô ấy liên tục hỏi anh ta cùng một câu hỏi.</li>
 
-          <li>The experiment was <strong>repeatedly</strong> conducted to verify the results. (Thí nghiệm được thực hiện lặp đi lặp lại để xác minh kết quả.)</li>
+          <li>The experiment was ______ conducted to verify the results.</li>
+          <li className="list-none">Thí nghiệm được thực hiện lặp đi lặp lại để xác minh kết quả.</li>
 
         </ul>
 
@@ -81,14 +83,17 @@ export default function Repeatedly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Repeat (v): Lặp lại /rɪˈpiːt/</li>
-          <li className="margin-bottom-20 list-none">Please repeat that. (Làm ơn lặp lại điều đó.)</li>
+          <li>Repeat (v) /rɪˈpiːt/</li>
+          <li className="list-none">Please ______ that.</li>
+          <li className="margin-bottom-20 list-none">Làm ơn lặp lại điều đó.</li>
 
-          <li>Repetition (n): Sự lặp lại /ˌrepəˈtɪʃn/</li>
-          <li className="margin-bottom-20 list-none">The repetition of the same mistake is unacceptable. (Việc lặp lại cùng một sai lầm là không thể chấp nhận được.)</li>
+          <li>Repetition (n) /ˌrepəˈtɪʃn/</li>
+          <li className="list-none">The ______ of the same mistake is unacceptable.</li>
+          <li className="margin-bottom-20 list-none">Việc lặp lại cùng một sai lầm là không thể chấp nhận được.</li>
 
-          <li>Repeated (adj): Được lặp lại /rɪˈpiːtɪd/</li>
-          <li className="list-none">The repeated failures discouraged him. (Những thất bại liên tiếp làm anh ta nản lòng.)</li>
+          <li>Repeated (adj) /rɪˈpiːtɪd/</li>
+          <li className="list-none">The ______ failures discouraged him.</li>
+          <li className="list-none">Những thất bại liên tiếp làm anh ta nản lòng.</li>
 
         </ul>
 
@@ -104,11 +109,13 @@ export default function Repeatedly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li><Link to="/vocabulary/again-1">Again</Link> and again: Lại và lại /əˈɡen ænd əˈɡen/</li>
-          <li className="margin-bottom-20 list-none">He tried again and again. (Anh ấy đã thử lại nhiều lần.)</li>
+          <li><Link to="/vocabulary/again-1">Again</Link> and again /əˈɡen ænd əˈɡen/</li>
+          <li className="list-none">He tried ______.</li>
+          <li className="margin-bottom-20 list-none">Anh ấy đã thử lại nhiều lần.</li>
 
-          <li>Over and over: Lặp đi lặp lại /ˈoʊvər ænd ˈoʊvər/</li>
-          <li className="list-none">She said it over and over. (Cô ấy nói đi nói lại điều đó.)</li>
+          <li>Over and over /ˈoʊvər ænd ˈoʊvər/</li>
+          <li className="list-none">She said it ______.</li>
+          <li className="list-none">Cô ấy nói đi nói lại điều đó.</li>
 
         </ul>
 
@@ -126,11 +133,13 @@ export default function Repeatedly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Once: Một lần /wʌns/</li>
-          <li className="margin-bottom-20 list-none">I've only done it once. (Tôi chỉ làm điều đó một lần.)</li>
+          <li>Once (adv) /wʌns/</li>
+          <li className="list-none">I've only done it ______.</li>
+          <li className="margin-bottom-20 list-none">Tôi chỉ làm điều đó một lần.</li>
 
-          <li><Link to="/vocabulary/rarely-1">Rarely</Link>: Hiếm khi /ˈreərli/</li>
-          <li className="list-none">He rarely visits us. (Anh ấy hiếm khi đến thăm chúng tôi.)</li>
+          <li><Link to="/vocabulary/rarely-1">Rarely</Link> /ˈreərli/</li>
+          <li className="list-none">He ______ visits us.</li>
+          <li className="list-none">Anh ấy hiếm khi đến thăm chúng tôi.</li>
 
         </ul>
       
@@ -155,8 +164,8 @@ export default function Repeatedly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>The clock is ticking steadily and <strong>repeatedly</strong>.</li>
-          <li className="list-none">(Chiếc đồng hồ đang tích tắc đều đặn và liên tục.)</li>
+          <li>The clock is ticking steadily and ______.</li>
+          <li className="list-none">Chiếc đồng hồ đang tích tắc đều đặn và liên tục.</li>
 
         </ul>
 
@@ -175,8 +184,8 @@ export default function Repeatedly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>She <strong>repeatedly</strong> checked her phone.</li>
-          <li className="list-none">(Cô ấy liên tục kiểm tra điện thoại của mình.)</li>
+          <li>She ______ checked her phone.</li>
+          <li className="list-none">Cô ấy liên tục kiểm tra điện thoại của mình.</li>
 
         </ul>
 
@@ -191,29 +200,17 @@ export default function Repeatedly1(): React.JSX.Element {
         <strong>&nbsp;thường xuyên</strong>:
       </p>
 
-      <p className="text-indent-whole">Thường xuyên sử dụng từ này trong các bài viết hoặc cuộc trò chuyện.
-
-</p>
+      <p className="text-indent-whole margin-bottom-20">Thường xuyên sử dụng từ này trong các bài viết hoặc cuộc trò chuyện.</p>
 
         <p className="text-indent-whole">Ví dụ để so sánh (sự khác biệt):</p>
 
-          {/* <ol>
-
-            <li></li>
-
-            <li className="list-none margin-bottom-20"></li>
-
-            <li value="2"></li>
-
-            <li className="list-none margin-bottom-20"></li>
-
-          </ol> */}
-
           <ol>
 
-            <li>He made a mistake. (Anh ấy mắc một lỗi.)</li>
+            <li>He made a mistake.</li>
+            <li className="list-none margin-bottom-20">Anh ấy mắc một lỗi.</li>
 
-            <li className="margin-bottom-20">He <strong>repeatedly</strong> made the same mistake. (Anh ấy liên tục mắc cùng một lỗi.)</li>
+            <li value="2">He ______ made the same mistake.</li>
+            <li className="list-none margin-bottom-20">Anh ấy liên tục mắc cùng một lỗi.</li>
 
           </ol>
 

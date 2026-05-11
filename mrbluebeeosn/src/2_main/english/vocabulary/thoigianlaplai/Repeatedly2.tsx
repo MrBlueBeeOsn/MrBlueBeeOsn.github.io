@@ -64,35 +64,45 @@ export default function Repeatedly2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1"><strong>Repeatedly</strong> asked: Hỏi đi hỏi lại /rɪˈpiːtɪdli ɑːst/</li>
-        <li className="list-none margin-bottom-20">She <strong>repeatedly</strong> asked him to turn down the music. (Cô ấy liên tục yêu cầu anh ấy vặn nhỏ tiếng nhạc.)</li>
+        <li value="1">Repeatedly <strong>asked</strong> /ɑːst/</li>
+        <li className="list-none">She ______ him to turn down the music.</li>
+        <li className="list-none margin-bottom-20">Cô ấy liên tục yêu cầu anh ấy vặn nhỏ tiếng nhạc.</li>
 
-        <li value="2"><strong>Repeatedly</strong> failed: Thất bại nhiều lần /rɪˈpiːtɪdli feɪld/</li>
-        <li className="list-none margin-bottom-20">He <strong>repeatedly</strong> failed his driving test. (Anh ấy thi bằng lái nhiều lần nhưng đều trượt.)</li>
+        <li value="2">Repeatedly <strong>failed</strong> /feɪld/</li>
+        <li className="list-none">He ______ his driving test.</li>
+        <li className="list-none margin-bottom-20">Anh ấy thi bằng lái nhiều lần nhưng đều trượt.</li>
 
-        <li value="3"><strong>Repeatedly</strong> warned: Cảnh báo nhiều lần /rɪˈpiːtɪdli wɔːnd/</li>
-        <li className="list-none margin-bottom-20">She was <strong>repeatedly</strong> warned about the dangers of speeding. (Cô ấy đã được cảnh báo nhiều lần về nguy hiểm của việc lái xe quá tốc độ.)</li>
+        <li value="3">Repeatedly <strong>warned</strong> /wɔːnd/</li>
+        <li className="list-none">She was ______ about the dangers of speeding.</li>
+        <li className="list-none margin-bottom-20">Cô ấy đã được cảnh báo nhiều lần về nguy hiểm của việc lái xe quá tốc độ.</li>
 
-        <li value="4"><strong>Repeatedly</strong> emphasized: Nhấn mạnh nhiều lần /rɪˈpiːtɪdli ˈɛmfəsaɪzd/</li>
-        <li className="list-none margin-bottom-20">The teacher <strong>repeatedly</strong> emphasized the importance of studying. (Giáo viên đã nhấn mạnh nhiều lần tầm quan trọng của việc học.)</li>
+        <li value="4">Repeatedly <strong>emphasized</strong> /ˈɛmfəsaɪzd/</li>
+        <li className="list-none">The teacher ______ the importance of studying.</li>
+        <li className="list-none margin-bottom-20">Giáo viên đã nhấn mạnh nhiều lần tầm quan trọng của việc học.</li>
 
-        <li value="5"><strong>Repeatedly</strong> tested: Kiểm tra nhiều lần /rɪˈpiːtɪdli ˈtɛstɪd/</li>
-        <li className="list-none margin-bottom-20">The new drug was <strong>repeatedly</strong> tested for safety. (Loại thuốc mới đã được kiểm tra độ an toàn nhiều lần.)</li>
+        <li value="5">Repeatedly <strong>tested</strong> /ˈtɛstɪd/</li>
+        <li className="list-none">The new drug was ______ for safety.</li>
+        <li className="list-none margin-bottom-20">Loại thuốc mới đã được kiểm tra độ an toàn nhiều lần.</li>
 
-        <li value="6"><strong>Repeatedly</strong> exposed: Tiếp xúc nhiều lần /rɪˈpiːtɪdli ɪkˈspəʊzd/</li>
-        <li className="list-none margin-bottom-20">She was <strong>repeatedly</strong> exposed to loud noise. (Cô ấy thường xuyên tiếp xúc với tiếng ồn lớn.)</li>
+        <li value="6">Repeatedly <strong>exposed</strong> /ɪkˈspəʊzd/</li>
+        <li className="list-none">She was ______ to loud noise.</li>
+        <li className="list-none margin-bottom-20">Cô ấy thường xuyên tiếp xúc với tiếng ồn lớn.</li>
 
-        <li value="7"><strong>Repeatedly</strong> delayed: Bị trì hoãn nhiều lần /rɪˈpiːtɪdli dɪˈleɪd/</li>
-        <li className="list-none margin-bottom-20">The project was <strong>repeatedly</strong> delayed due to funding issues. (Dự án đã bị trì hoãn nhiều lần do vấn đề về tài chính.)</li>
+        <li value="7">Repeatedly <strong>delayed</strong> /dɪˈleɪd/</li>
+        <li className="list-none">The project was ______ due to funding issues.</li>
+        <li className="list-none margin-bottom-20">Dự án đã bị trì hoãn nhiều lần do vấn đề về tài chính.</li>
 
-        <li value="8"><strong>Repeatedly</strong> mentioned: Đề cập nhiều lần /rɪˈpiːtɪdli ˈmɛnʃənd/</li>
-        <li className="list-none margin-bottom-20">He <strong>repeatedly</strong> mentioned his desire to travel. (Anh ấy đã đề cập nhiều lần về mong muốn được đi du lịch.)</li>
+        <li value="8">Repeatedly <strong>mentioned</strong> /ˈmɛnʃənd/</li>
+        <li className="list-none">He ______ his desire to travel.</li>
+        <li className="list-none margin-bottom-20">Anh ấy đã đề cập nhiều lần về mong muốn được đi du lịch.</li>
 
-        <li value="9"><strong>Repeatedly</strong> observed: Quan sát nhiều lần /rɪˈpiːtɪdli əbˈzɜːvd/</li>
-        <li className="list-none margin-bottom-20">The scientists <strong>repeatedly</strong> observed the behavior of the animals. (Các nhà khoa học đã quan sát hành vi của động vật nhiều lần.)</li>
+        <li value="9">Repeatedly <strong>observed</strong> /əbˈzɜːvd/</li>
+        <li className="list-none">The scientists ______ the behavior of the animals.</li>
+        <li className="list-none margin-bottom-20">Các nhà khoa học đã quan sát hành vi của động vật nhiều lần.</li>
 
-        <li value="10"><strong>Repeatedly</strong> practiced: Thực hành nhiều lần /rɪˈpiːtɪdli ˈpræktɪst/</li>
-        <li className="list-none margin-bottom-20">She <strong>repeatedly</strong> practiced the piano piece until she could play it perfectly. (Cô ấy đã luyện tập bài piano đó nhiều lần cho đến khi chơi được hoàn hảo.)</li>
+        <li value="10">Repeatedly <strong>practiced</strong> /ˈpræktɪst/</li>
+        <li className="list-none">She ______ the piano piece until she could play it perfectly.</li>
+        <li className="list-none margin-bottom-20">Cô ấy đã luyện tập bài piano đó nhiều lần cho đến khi chơi được hoàn hảo.</li>
 
       </ol>
 
