@@ -62,35 +62,45 @@ export default function Questionably2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1"><strong>Questionably</strong> ethical: Đạo đức đáng ngờ /ˈkwɛstʃənəbli ˈɛθɪkəl/</li>
-        <li className="list-none margin-bottom-20">The company's practices were <strong>questionably</strong> ethical, raising concerns among consumers. (Những thực hành của công ty đó có đạo đức đáng ngờ, gây lo ngại cho người tiêu dùng.)</li>
+        <li value="1">Questionably <strong>ethical</strong> /ˈɛθɪkəl/</li>
+        <li className="list-none">The company's practices were ______, raising concerns among consumers.</li>
+        <li className="list-none margin-bottom-20">Những thực hành của công ty đó có đạo đức đáng ngờ, gây lo ngại cho người tiêu dùng.</li>
 
-        <li value="2"><strong>Questionably</strong> legal: Pháp lý đáng ngờ /ˈkwɛstʃənəbli ˈliːɡəl/</li>
-        <li className="list-none margin-bottom-20">The deal was <strong>questionably</strong> legal, and could have serious consequences. (Thỏa thuận đó có tính pháp lý đáng ngờ và có thể gây ra hậu quả nghiêm trọng.)</li>
+        <li value="2">Questionably <strong>legal</strong> /ˈliːɡəl/</li>
+        <li className="list-none">The deal was ______, and could have serious consequences.</li>
+        <li className="list-none margin-bottom-20">Thỏa thuận đó có tính pháp lý đáng ngờ và có thể gây ra hậu quả nghiêm trọng.</li>
 
-        <li value="3"><strong>Questionably</strong> safe: An toàn đáng ngờ /ˈkwɛstʃənəbli seɪf/</li>
-        <li className="list-none margin-bottom-20">The old building was <strong>questionably</strong> safe, and needed to be renovated. (Tòa nhà cũ có độ an toàn đáng ngờ và cần được cải tạo.)</li>
+        <li value="3">Questionably <strong>safe</strong> /seɪf/</li>
+        <li className="list-none">The old building was ______, and needed to be renovated.</li>
+        <li className="list-none margin-bottom-20">Tòa nhà cũ có độ an toàn đáng ngờ và cần được cải tạo.</li>
 
-        <li value="4"><strong>Questionably</strong> true: Đáng ngờ về sự thật /ˈkwɛstʃənəbli truː/</li>
-        <li className="list-none margin-bottom-20">His story seemed <strong>questionably</strong> true, and I had my doubts. (Câu chuyện của anh ta có vẻ đáng ngờ về sự thật, và tôi nghi ngờ.)</li>
+        <li value="4">Questionably <strong>true</strong> /truː/</li>
+        <li className="list-none">His story seemed ______, and I had my doubts.</li>
+        <li className="list-none margin-bottom-20">Câu chuyện của anh ta có vẻ đáng ngờ về sự thật, và tôi nghi ngờ.</li>
 
-        <li value="5"><strong>Questionably</strong> motivated: Động cơ đáng ngờ /ˈkwɛstʃənəbli ˈmoʊtɪveɪtɪd/</li>
-        <li className="list-none margin-bottom-20">Her sudden change of heart was <strong>questionably</strong> motivated, and I wondered what she was really up to. (Sự thay đổi đột ngột của cô ấy có động cơ đáng ngờ, và tôi tự hỏi cô ấy đang lên kế hoạch gì.)</li>
+        <li value="5">Questionably <strong>motivated</strong> /ˈmoʊtɪveɪtɪd/</li>
+        <li className="list-none">Her sudden change of heart was ______, and I wondered what she was really up to.</li>
+        <li className="list-none margin-bottom-20">Sự thay đổi đột ngột của cô ấy có động cơ đáng ngờ, và tôi tự hỏi cô ấy đang lên kế hoạch gì.</li>
 
-        <li value="6"><strong>Questionably</strong> obtained: Được lấy một cách đáng ngờ /ˈkwɛstʃənəbli əbˈteɪnd/</li>
-        <li className="list-none margin-bottom-20">The evidence was <strong>questionably</strong> obtained and could be inadmissible in court. (Bằng chứng được lấy một cách đáng ngờ và có thể không được chấp nhận tại tòa.)</li>
+        <li value="6">Questionably <strong>obtained</strong> /əbˈteɪnd/</li>
+        <li className="list-none">The evidence was ______ and could be inadmissible in court.</li>
+        <li className="list-none margin-bottom-20">Bằng chứng được lấy một cách đáng ngờ và có thể không được chấp nhận tại tòa.</li>
 
-        <li value="7"><strong>Questionably</strong> qualified: Năng lực đáng ngờ /ˈkwɛstʃənəbli ˈkwɑːlɪfaɪd/</li>
-        <li className="list-none margin-bottom-20">He was <strong>questionably</strong> qualified for the job, and many people doubted his abilities. (Anh ta có năng lực đáng ngờ cho công việc đó, và nhiều người nghi ngờ về khả năng của anh ta.)</li>
+        <li value="7">Questionably <strong>qualified</strong> /ˈkwɑːlɪfaɪd/</li>
+        <li className="list-none">He was ______ for the job, and many people doubted his abilities.</li>
+        <li className="list-none margin-bottom-20">Anh ta có năng lực đáng ngờ cho công việc đó, và nhiều người nghi ngờ về khả năng của anh ta.</li>
 
-        <li value="8"><strong>Questionably</strong> relevant: Có liên quan một cách đáng ngờ /ˈkwɛstʃənəbli ˈrɛləvənt/</li>
-        <li className="list-none margin-bottom-20">The information presented was <strong>questionably</strong> relevant to the case. (Thông tin được trình bày có liên quan một cách đáng ngờ đến vụ án.)</li>
+        <li value="8">Questionably <strong>relevant</strong> /ˈrɛləvənt/</li>
+        <li className="list-none">The information presented was ______ to the case.</li>
+        <li className="list-none margin-bottom-20">Thông tin được trình bày có liên quan một cách đáng ngờ đến vụ án.</li>
 
-        <li value="9"><strong>Questionably</strong> fair: Công bằng một cách đáng ngờ /ˈkwɛstʃənəbli fer/</li>
-        <li className="list-none margin-bottom-20">The decision was <strong>questionably</strong> fair, and many people felt they were treated unfairly. (Quyết định đó có tính công bằng đáng ngờ, và nhiều người cảm thấy họ bị đối xử bất công.)</li>
+        <li value="9">Questionably <strong>fair</strong> /fer/</li>
+        <li className="list-none">The decision was ______, and many people felt they were treated unfairly.</li>
+        <li className="list-none margin-bottom-20">Quyết định đó có tính công bằng đáng ngờ, và nhiều người cảm thấy họ bị đối xử bất công.</li>
 
-        <li value="10"><strong>Questionably</strong> honest: Thành thật một cách đáng ngờ /ˈkwɛstʃənəbli ˈɒnɪst/</li>
-        <li className="list-none margin-bottom-20">His explanation seemed <strong>questionably</strong> honest, and I didn't believe him. (Lời giải thích của anh ta có vẻ thành thật một cách đáng ngờ, và tôi không tin anh ta.)</li>
+        <li value="10">Questionably <strong>honest</strong> /ˈɒnɪst/</li>
+        <li className="list-none">His explanation seemed ______, and I didn't believe him.</li>
+        <li className="list-none margin-bottom-20">Lời giải thích của anh ta có vẻ thành thật một cách đáng ngờ, và tôi không tin anh ta.</li>
 
       </ol>
 

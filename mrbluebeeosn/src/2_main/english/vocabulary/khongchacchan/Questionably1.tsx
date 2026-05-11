@@ -63,9 +63,11 @@ export default function Questionably1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>His story sounds <strong>questionably</strong> true. (Câu chuyện của anh ta nghe có vẻ không chắc chắn là đúng.)</li>
+          <li>His story sounds ______ true.</li>
+          <li className="margin-bottom-20 list-none">Câu chuyện của anh ta nghe có vẻ không chắc chắn là đúng.</li>
 
-          <li>The data is <strong>questionably</strong> accurate. (Dữ liệu này có vẻ không chính xác lắm.)</li>
+          <li>The data is ______ accurate.</li>
+          <li className="list-none">Dữ liệu này có vẻ không chính xác lắm.</li>
 
         </ul>
 
@@ -81,14 +83,17 @@ export default function Questionably1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Question (v): Hỏi, đặt câu hỏi /ˈkwɛstʃən/</li>
-          <li className="margin-bottom-20 list-none">I question his motives. (Tôi nghi ngờ động cơ của anh ta.)</li>
+          <li>Question (v) /ˈkwɛstʃən/</li>
+          <li className="list-none">I ______ his motives.</li>
+          <li className="margin-bottom-20 list-none">Tôi nghi ngờ động cơ của anh ta.</li>
 
-          <li>Question (n): Câu hỏi /ˈkwɛstʃən/</li>
-          <li className="margin-bottom-20 list-none">I have a question for you. (Tôi có một câu hỏi cho bạn.)</li>
+          <li>Question (n) /ˈkwɛstʃən/</li>
+          <li className="list-none">I have a ______ for you.</li>
+          <li className="margin-bottom-20 list-none">Tôi có một câu hỏi cho bạn.</li>
 
-          <li>Questionable (adj): Đáng ngờ /ˈkwɛstʃənəbl/</li>
-          <li className="list-none">His actions are questionable. (Hành động của anh ta rất đáng ngờ.)</li>
+          <li>Questionable (adj) /ˈkwɛstʃənəbl/</li>
+          <li className="list-none">His actions are ______.</li>
+          <li className="list-none">Hành động của anh ta rất đáng ngờ.</li>
 
         </ul>
 
@@ -104,11 +109,13 @@ export default function Questionably1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Doubtfully: Một cách nghi ngờ /ˈdaʊtfəli/</li>
-          <li className="margin-bottom-20 list-none">He looked at me doubtfully. (Anh ta nhìn tôi một cách nghi ngờ.)</li>
+          <li>Doubtfully /ˈdaʊtfəli/</li>
+          <li className="list-none">He looked at me ______.</li>
+          <li className="margin-bottom-20 list-none">Anh ta nhìn tôi một cách nghi ngờ.</li>
 
-          <li>Suspiciously: Một cách nghi ngờ /səˈspɪʃəsli/</li>
-          <li className="list-none">She glanced at him suspiciously. (Cô ấy liếc nhìn anh ta một cách nghi ngờ.)</li>
+          <li>Suspiciously /səˈspɪʃəsli/</li>
+          <li className="list-none">She glanced at him ______.</li>
+          <li className="list-none">Cô ấy liếc nhìn anh ta một cách nghi ngờ.</li>
 
         </ul>
 
@@ -126,11 +133,13 @@ export default function Questionably1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li><Link to="/vocabulary/definitely-1">Definitely</Link>: Một cách chắc chắn /ˈdɛfɪnɪtli/</li>
-          <li className="margin-bottom-20 list-none">I definitely know the answer. (Tôi chắc chắn biết câu trả lời.)</li>
+          <li><Link to="/vocabulary/definitely-1">Definitely</Link> /ˈdɛfɪnɪtli/</li>
+          <li className="list-none">I ______ know the answer.</li>
+          <li className="margin-bottom-20 list-none">Tôi chắc chắn biết câu trả lời.</li>
 
-          <li>Certainly: Một cách chắc chắn /ˈsɜːrtnli/</li>
-          <li className="list-none">Certainly, I will help you. (Chắc chắn rồi, tôi sẽ giúp bạn.)</li>
+          <li>Certainly /ˈsɜːrtnli/</li>
+          <li className="list-none">______, I will help you.</li>
+          <li className="list-none">Chắc chắn rồi, tôi sẽ giúp bạn.</li>
 
         </ul>
       
@@ -155,8 +164,8 @@ export default function Questionably1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>The quality of the product is <strong>questionably</strong> high.</li>
-          <li className="list-none">(Chất lượng của sản phẩm này đáng ngờ.)</li>
+          <li>The quality of the product is ______ high.</li>
+          <li className="list-none">Chất lượng của sản phẩm này đáng ngờ.</li>
 
         </ul>
 
@@ -175,8 +184,8 @@ export default function Questionably1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>The evidence is <strong>questionably</strong> reliable.</li>
-          <li className="list-none">(Bằng chứng này có vẻ không đáng tin cậy lắm.)</li>
+          <li>The evidence is ______ reliable.</li>
+          <li className="list-none">Bằng chứng này có vẻ không đáng tin cậy lắm.</li>
 
         </ul>
 
@@ -191,15 +200,17 @@ export default function Questionably1(): React.JSX.Element {
         <strong>&nbsp;thường xuyên</strong>:
       </p>
 
-      <p className="text-indent-whole">Thường xuyên sử dụng từ này trong các bài viết hoặc cuộc trò chuyện.</p>
+      <p className="text-indent-whole margin-bottom-20">Thường xuyên sử dụng từ này trong các bài viết hoặc cuộc trò chuyện.</p>
 
         <p className="text-indent-whole">Ví dụ để so sánh (sự khác biệt):</p>
 
           <ol>
 
-            <li>He is a good person. (Anh ấy là một người tốt.)</li>
+            <li>He is a good person.</li>
+            <li className="list-none margin-bottom-20">Anh ấy là một người tốt.</li>
 
-            <li className="margin-bottom-20">His motives are <strong>questionably</strong> good. (Động cơ của anh ấy có vẻ không tốt lắm.)</li>
+            <li value="2">His motives are ______ good.</li>
+            <li className="list-none margin-bottom-20">Động cơ của anh ấy có vẻ không tốt lắm.</li>
 
           </ol>
 
