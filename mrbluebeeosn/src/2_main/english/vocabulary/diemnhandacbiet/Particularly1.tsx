@@ -63,9 +63,11 @@ export default function Particularly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>I like all kinds of fruits, <strong>particularly</strong> apples. (Tôi thích tất cả các loại trái cây, nhất là táo.)</li>
+          <li>I like all kinds of fruits, ______ apples.</li>
+          <li className="margin-bottom-20 list-none">Tôi thích tất cả các loại trái cây, nhất là táo.</li>
 
-          <li>The weather in Vietnam is hot, <strong>particularly</strong> in the summer. (Thời tiết ở Việt Nam rất nóng, đặc biệt là vào mùa hè.)</li>
+          <li>The weather in Vietnam is hot, ______ in the summer.</li>
+          <li className="list-none">Thời tiết ở Việt Nam rất nóng, đặc biệt là vào mùa hè.</li>
 
         </ul>
 
@@ -81,11 +83,13 @@ export default function Particularly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Particular (adj): Đặc biệt, riêng biệt /pəˈtɪkjələr/</li>
-          <li className="margin-bottom-20 list-none">She is very particular about her clothes. (Cô ấy rất kỹ tính về quần áo của mình.)</li>
+          <li>Particular (adj) /pəˈtɪkjələr/</li>
+          <li className="list-none">She is very ______ about her clothes.</li>
+          <li className="margin-bottom-20 list-none">Cô ấy rất kỹ tính về quần áo của mình.</li>
 
-          <li>Particularize (v): Nêu chi tiết /pəˈtɪkjələraɪz/</li>
-          <li className="list-none">Can you particularize the problem? (Bạn có thể nêu chi tiết vấn đề không?)</li>
+          <li>Particularize (v) /pəˈtɪkjələraɪz/</li>
+          <li className="list-none">Can you ______ the problem?</li>
+          <li className="list-none">Bạn có thể nêu chi tiết vấn đề không?</li>
 
         </ul>
 
@@ -101,11 +105,13 @@ export default function Particularly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li><Link to="/vocabulary/especially-1">Especially</Link>: Đặc biệt /ɪˈspɛʃəli/</li>
-          <li className="margin-bottom-20 list-none">I especially like the color blue. (Tôi đặc biệt thích màu xanh dương.)</li>
+          <li><Link to="/vocabulary/especially-1">Especially</Link> /ɪˈspɛʃəli/</li>
+          <li className="list-none">I ______ like the color blue.</li>
+          <li className="margin-bottom-20 list-none">Tôi đặc biệt thích màu xanh dương.</li>
 
-          <li>Specifically: Cụ thể /spəˈsɪfɪkli/</li>
-          <li className="list-none">I'm looking for a job specifically in marketing. (Tôi đang tìm kiếm một công việc cụ thể trong lĩnh vực marketing.)</li>
+          <li>Specifically /spəˈsɪfɪkli/</li>
+          <li className="list-none">I'm looking for a job ______ in marketing.</li>
+          <li className="list-none">Tôi đang tìm kiếm một công việc cụ thể trong lĩnh vực marketing.</li>
 
         </ul>
 
@@ -123,11 +129,13 @@ export default function Particularly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Generally: Nói chung /ˈdʒɛnərəli/</li>
-          <li className="margin-bottom-20 list-none">Generally, I like to stay at home on weekends. (Nói chung, tôi thích ở nhà vào cuối tuần.)</li>
+          <li>Generally /ˈdʒɛnərəli/</li>
+          <li className="list-none">______, I like to stay at home on weekends.</li>
+          <li className="margin-bottom-20 list-none">Nói chung, tôi thích ở nhà vào cuối tuần.</li>
 
-          <li>Vaguely: Một cách mơ hồ /ˈveɪɡli/</li>
-          <li className="list-none">I remember vaguely meeting her before. (Tôi nhớ mang máng đã gặp cô ấy trước đây.)</li>
+          <li>Vaguely /ˈveɪɡli/</li>
+          <li className="list-none">I remember ______ meeting her before.</li>
+          <li className="list-none">Tôi nhớ mang máng đã gặp cô ấy trước đây.</li>
 
         </ul>
       
@@ -152,8 +160,8 @@ export default function Particularly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li><strong>Particularly</strong>, I like the pepperoni.</li>
-          <li className="list-none">(Đặc biệt, tôi thích xúc xích Ý)</li>
+          <li>______, I like the pepperoni.</li>
+          <li className="list-none">Đặc biệt, tôi thích xúc xích Ý</li>
 
         </ul>
 
@@ -172,8 +180,8 @@ export default function Particularly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>I enjoy watching movies, <strong>particularly</strong> science fiction films.</li>
-          <li className="list-none">(Tôi thích xem phim, đặc biệt là phim khoa học viễn tưởng.)</li>
+          <li>I enjoy watching movies, ______ science fiction films.</li>
+          <li className="list-none">Tôi thích xem phim, đặc biệt là phim khoa học viễn tưởng.</li>
 
         </ul>
 
@@ -188,15 +196,17 @@ export default function Particularly1(): React.JSX.Element {
         <strong>&nbsp;thường xuyên</strong>:
       </p>
 
-      <p className="text-indent-whole">Thường xuyên sử dụng từ này trong các cuộc hội thoại hoặc khi viết.</p>
+      <p className="text-indent-whole margin-bottom-20">Thường xuyên sử dụng từ này trong các cuộc hội thoại hoặc khi viết.</p>
 
         <p className="text-indent-whole">Ví dụ để so sánh (sự khác biệt):</p>
 
           <ol>
 
-            <li>I like fruits. (Tôi thích trái cây.)</li>
+            <li>I like fruits.</li>
+            <li className="list-none margin-bottom-20">Tôi thích trái cây.</li>
 
-            <li className="margin-bottom-20">I <strong>particularly</strong> like apples. (Tôi đặc biệt thích táo.)</li>
+            <li value="2">I ______ like apples.</li>
+            <li className="list-none margin-bottom-20">Tôi đặc biệt thích táo.</li>
 
           </ol>
 

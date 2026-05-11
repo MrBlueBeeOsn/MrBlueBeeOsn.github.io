@@ -62,35 +62,45 @@ export default function Particularly2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1"><strong>Particularly</strong> interested in: Đặc biệt quan tâm đến /pərˈtɪkjələri ˈɪntrəstɪd ɪn/</li>
-        <li className="list-none margin-bottom-20">I am <strong>particularly</strong> interested in history. (Tôi đặc biệt quan tâm đến lịch sử.)</li>
+        <li value="1">Particularly <strong>interested in</strong> /ˈɪntrəstɪd ɪn/</li>
+        <li className="list-none">I am ______ history.</li>
+        <li className="list-none margin-bottom-20">Tôi đặc biệt quan tâm đến lịch sử.</li>
 
-        <li value="2"><strong>Particularly</strong> fond of: Đặc biệt thích /pərˈtɪkjələri fɒnd ɒv/</li>
-        <li className="list-none margin-bottom-20">She is <strong>particularly</strong> fond of chocolate. (Cô ấy đặc biệt thích sô cô la.)</li>
+        <li value="2">Particularly <strong>fond of</strong> /fɒnd ɒv/</li>
+        <li className="list-none">She is ______ chocolate.</li>
+        <li className="list-none margin-bottom-20">Cô ấy đặc biệt thích sô cô la.</li>
 
-        <li value="3"><strong>Particularly</strong> good at: Đặc biệt giỏi về /pərˈtɪkjələri ɡʊd æt/</li>
-        <li className="list-none margin-bottom-20">He is <strong>particularly</strong> good at playing the piano. (Anh ấy đặc biệt giỏi chơi piano.)</li>
+        <li value="3">Particularly <strong>good at</strong> /ɡʊd æt/</li>
+        <li className="list-none">He is ______ playing the piano.</li>
+        <li className="list-none margin-bottom-20">Anh ấy đặc biệt giỏi chơi piano.</li>
 
-        <li value="4"><strong>Particularly</strong> challenging: Đặc biệt khó khăn /pərˈtɪkjələri ˈtʃælɪndʒɪŋ/</li>
-        <li className="list-none margin-bottom-20">This task is <strong>particularly</strong> challenging. (Nhiệm vụ này đặc biệt khó khăn.)</li>
+        <li value="4">Particularly <strong>challenging</strong> /ˈtʃælɪndʒɪŋ/</li>
+        <li className="list-none">This task is ______.</li>
+        <li className="list-none margin-bottom-20">Nhiệm vụ này đặc biệt khó khăn.</li>
 
-        <li value="5"><strong>Particularly</strong> relevant: Đặc biệt liên quan /pərˈtɪkjələri ˈreləvənt/</li>
-        <li className="list-none margin-bottom-20">This information is <strong>particularly</strong> relevant to our discussion. (Thông tin này đặc biệt liên quan đến cuộc thảo luận của chúng ta.)</li>
+        <li value="5">Particularly <strong>relevant</strong> /ˈreləvənt/</li>
+        <li className="list-none">This information is ______ to our discussion.</li>
+        <li className="list-none margin-bottom-20">Thông tin này đặc biệt liên quan đến cuộc thảo luận của chúng ta.</li>
 
-        <li value="6"><strong>Particularly</strong> beautiful: Đặc biệt đẹp /pərˈtɪkjələri ˈbjuːtɪfl/</li>
-        <li className="list-none margin-bottom-20">The sunset was <strong>particularly</strong> beautiful today. (Hoàng hôn hôm nay đặc biệt đẹp.)</li>
+        <li value="6">Particularly <strong>beautiful</strong> /ˈbjuːtɪfl/</li>
+        <li className="list-none">The sunset was ______ today.</li>
+        <li className="list-none margin-bottom-20">Hoàng hôn hôm nay đặc biệt đẹp.</li>
 
-        <li value="7"><strong>Particularly</strong> important: Đặc biệt quan trọng /pərˈtɪkjələri ɪmˈpɔːtnt/</li>
-        <li className="list-none margin-bottom-20">It is <strong>particularly</strong> important to arrive on time for the meeting. (Việc đến đúng giờ cho cuộc họp là đặc biệt quan trọng.)</li>
+        <li value="7">Particularly <strong>important</strong> /ɪmˈpɔːtnt/</li>
+        <li className="list-none">It is ______ to arrive on time for the meeting.</li>
+        <li className="list-none margin-bottom-20">Việc đến đúng giờ cho cuộc họp là đặc biệt quan trọng.</li>
 
-        <li value="8"><strong>Particularly</strong> difficult: Đặc biệt khó /pərˈtɪkjələri ˈdɪfɪkəlt/</li>
-        <li className="list-none margin-bottom-20">This problem is <strong>particularly</strong> difficult to solve. (Vấn đề này đặc biệt khó giải quyết.)</li>
+        <li value="8">Particularly <strong>difficult</strong> /ˈdɪfɪkəlt/</li>
+        <li className="list-none">This problem is ______ to solve.</li>
+        <li className="list-none margin-bottom-20">Vấn đề này đặc biệt khó giải quyết.</li>
 
-        <li value="9"><strong>Particularly</strong> effective: Đặc biệt hiệu quả /pərˈtɪkjələri ɪˈfektɪv/</li>
-        <li className="list-none margin-bottom-20">This medicine is <strong>particularly</strong> effective for treating headaches. (Thuốc này đặc biệt hiệu quả trong việc điều trị đau đầu.)</li>
+        <li value="9">Particularly <strong>effective</strong> /ɪˈfektɪv/</li>
+        <li className="list-none">This medicine is ______ for treating headaches.</li>
+        <li className="list-none margin-bottom-20">Thuốc này đặc biệt hiệu quả trong việc điều trị đau đầu.</li>
 
-        <li value="10"><strong>Particularly</strong> suitable: Đặc biệt phù hợp /pərˈtɪkjələri ˈsuːtəbl/</li>
-        <li className="list-none margin-bottom-20">This book is <strong>particularly</strong> suitable for beginners. (Cuốn sách này đặc biệt phù hợp cho người mới bắt đầu.)</li>
+        <li value="10">Particularly <strong>suitable</strong> /ˈsuːtəbl/</li>
+        <li className="list-none">This book is ______ for beginners.</li>
+        <li className="list-none margin-bottom-20">Cuốn sách này đặc biệt phù hợp cho người mới bắt đầu.</li>
 
       </ol>
 
