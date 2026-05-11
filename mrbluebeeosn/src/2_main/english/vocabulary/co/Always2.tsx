@@ -62,35 +62,45 @@ export default function Always2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1"><strong>Always</strong> be: Luôn luôn là /ˈɔːlweɪz biː/</li>
-        <li className="list-none margin-bottom-20">She is <strong>always</strong> kind to everyone. (Cô ấy luôn luôn tử tế với mọi người.)</li>
+        <li value="1">Always <strong>kind</strong> /kaɪnd/</li>
+        <li className="list-none">She is ______ to everyone.</li>
+        <li className="list-none margin-bottom-20">Cô ấy luôn luôn tử tế với mọi người.</li>
 
-        <li value="2"><strong>Always</strong> do: Luôn luôn làm /ˈɔːlweɪz duː/</li>
-        <li className="list-none margin-bottom-20">He <strong>always</strong> does his homework before dinner. (Anh ấy luôn làm bài tập về nhà trước khi ăn tối.)</li>
+        <li value="2">Always <strong>does</strong> /dəz/</li>
+        <li className="list-none">He ______ his homework before dinner.</li>
+        <li className="list-none margin-bottom-20">Anh ấy luôn làm bài tập về nhà trước khi ăn tối.</li>
 
-        <li value="3"><strong>Always</strong> go: Luôn luôn đi /ˈɔːlweɪz ɡəʊ/</li>
-        <li className="list-none margin-bottom-20">We <strong>always</strong> go to the park on Sundays. (Chúng tôi luôn đi công viên vào Chủ nhật.)</li>
+        <li value="3">Always <strong>go</strong> /ɡəʊ/</li>
+        <li className="list-none">We ______ to the park on Sundays.</li>
+        <li className="list-none margin-bottom-20">Chúng tôi luôn đi công viên vào Chủ nhật.</li>
 
-        <li value="4"><strong>Always</strong> eat: Luôn luôn ăn /ˈɔːlweɪz iːt/</li>
-        <li className="list-none margin-bottom-20">She <strong>always</strong> eats breakfast in the morning. (Cô ấy luôn ăn sáng vào buổi sáng.)</li>
+        <li value="4">Always <strong>eats</strong> /iːts/</li>
+        <li className="list-none">She ______ breakfast in the morning.</li>
+        <li className="list-none margin-bottom-20">Cô ấy luôn ăn sáng vào buổi sáng.</li>
 
-        <li value="5"><strong>Always</strong> read: Luôn luôn đọc /ˈɔːlweɪz riːd/</li>
-        <li className="list-none margin-bottom-20">He <strong>always</strong> reads a book before going to bed. (Anh ấy luôn đọc sách trước khi đi ngủ.)</li>
+        <li value="5">Always <strong>reads</strong> /riːdz/</li>
+        <li className="list-none">He ______ a book before going to bed.</li>
+        <li className="list-none margin-bottom-20">Anh ấy luôn đọc sách trước khi đi ngủ.</li>
 
-        <li value="6"><strong>Always</strong> feel: Luôn luôn cảm thấy /ˈɔːlweɪz fiːl/</li>
-        <li className="list-none margin-bottom-20">I <strong>always</strong> feel happy when I see her. (Tôi luôn cảm thấy vui khi nhìn thấy cô ấy.)</li>
+        <li value="6">Always <strong>feel</strong> /fiːl/</li>
+        <li className="list-none">I ______ happy when I see her.</li>
+        <li className="list-none margin-bottom-20">Tôi luôn cảm thấy vui khi nhìn thấy cô ấy.</li>
 
-        <li value="7"><strong>Always</strong> remember: Luôn luôn nhớ /ˈɔːlweɪz rɪˈmembər/</li>
-        <li className="list-none margin-bottom-20">I will <strong>always</strong> remember your birthday. (Tôi sẽ luôn nhớ ngày sinh nhật của bạn.)</li>
+        <li value="7">Always <strong>remember</strong> /rɪˈmembər/</li>
+        <li className="list-none">I will ______ your birthday.</li>
+        <li className="list-none margin-bottom-20">Tôi sẽ luôn nhớ ngày sinh nhật của bạn.</li>
 
-        <li value="8"><strong>Always</strong> be there: Luôn luôn ở đó /ˈɔːlweɪz biː ðeər/</li>
-        <li className="list-none margin-bottom-20">My friends are <strong>always</strong> there for me. (Bạn bè tôi luôn ở bên cạnh tôi.)</li>
+        <li value="8">Always <strong>there</strong> /ðeər/</li>
+        <li className="list-none">My friends are ______ for me.</li>
+        <li className="list-none margin-bottom-20">Bạn bè tôi luôn ở bên cạnh tôi.</li>
 
-        <li value="9"><strong>Always</strong> on time: Luôn luôn đúng giờ /ˈɔːlweɪz ɒn taɪm/</li>
-        <li className="list-none margin-bottom-20">She is <strong>always</strong> on time for her appointments. (Cô ấy luôn đúng giờ cho các cuộc hẹn của mình.)</li>
+        <li value="9">Always <strong>on time</strong> /ɒn taɪm/</li>
+        <li className="list-none">She is ______ for her appointments.</li>
+        <li className="list-none margin-bottom-20">Cô ấy luôn đúng giờ cho các cuộc hẹn của mình.</li>
 
-        <li value="10"><strong>Always</strong> the same: Luôn luôn như vậy /ˈɔːlweɪz ðə seɪm/</li>
-        <li className="list-none margin-bottom-20">His attitude is <strong>always</strong> the same. (Thái độ của anh ấy luôn như vậy.)</li>
+        <li value="10">Always <strong>the same</strong> /ðə seɪm/</li>
+        <li className="list-none">His attitude is ______.</li>
+        <li className="list-none margin-bottom-20">Thái độ của anh ấy luôn như vậy.</li>
 
       </ol>
 
