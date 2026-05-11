@@ -65,9 +65,11 @@ export default function Ever1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Have you <strong>ever</strong> been to Paris? (Bạn đã từng đến Paris chưa?)</li>
+          <li>Have you ______ been to Paris?</li>
+          <li className="margin-bottom-20 list-none">Bạn đã từng đến Paris chưa?</li>
 
-          <li>She is the kindest person I have <strong>ever</strong> met. (Cô ấy là người tốt bụng nhất mà tôi từng gặp.)</li>
+          <li>She is the kindest person I have ______ met.</li>
+          <li className="list-none">Cô ấy là người tốt bụng nhất mà tôi từng gặp.</li>
 
         </ul>
 
@@ -99,11 +101,13 @@ export default function Ever1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>At any time: Bất cứ lúc nào /æt ˈeni taɪm/</li>
-          <li className="margin-bottom-20 list-none">Have you <strong>ever</strong>, at any time, seen a UFO? (Bạn đã từng, bất cứ lúc nào, nhìn thấy UFO chưa?)</li>
+          <li>At any time /æt ˈeni taɪm/</li>
+          <li className="list-none">Have you <strong>ever</strong>, ______, seen a UFO?</li>
+          <li className="margin-bottom-20 list-none">Bạn đã từng, bất cứ lúc nào, nhìn thấy UFO chưa?</li>
 
-          <li>On any occasion: Bất cứ dịp nào /ɒn ˈeni əˈkeɪʒən/</li>
-          <li className="list-none">On any occasion, she is always the first to arrive. (Bất cứ dịp nào, cô ấy luôn là người đến đầu tiên.)</li>
+          <li>On any occasion /ɒn ˈeni əˈkeɪʒən/</li>
+          <li className="list-none">______, she is always the first to arrive.</li>
+          <li className="list-none">Bất cứ dịp nào, cô ấy luôn là người đến đầu tiên.</li>
 
         </ul>
 
@@ -121,11 +125,13 @@ export default function Ever1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li><Link to="/vocabulary/never-1">Never</Link>: Không bao giờ /ˈnev.ər/</li>
-          <li className="margin-bottom-20 list-none">I have never been to Paris. (Tôi chưa bao giờ đến Paris.)</li>
+          <li><Link to="/vocabulary/never-1">Never</Link> /ˈnev.ər/</li>
+          <li className="list-none">I have ______ been to Paris.</li>
+          <li className="margin-bottom-20 list-none">Tôi chưa bao giờ đến Paris.</li>
 
-          <li><Link to="/vocabulary/not-1">Not</Link> once: Chưa bao giờ /nɒt wʌns/</li>
-          <li className="list-none">I have not once regretted my decision. (Tôi chưa bao giờ hối hận về quyết định của mình.)</li>
+          <li><Link to="/vocabulary/not-1">Not</Link> once /nɒt wʌns/</li>
+          <li className="list-none">I have not ______ regretted my decision.</li>
+          <li className="list-none">Tôi chưa bao giờ hối hận về quyết định của mình.</li>
 
         </ul>
       
@@ -150,8 +156,8 @@ export default function Ever1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Have you <strong>ever</strong> seen such a beautiful photo?</li>
-          <li className="list-none">(Bạn đã từng thấy một bức ảnh đẹp như vậy chưa?)</li>
+          <li>Have you ______ seen such a beautiful photo?</li>
+          <li className="list-none">Bạn đã từng thấy một bức ảnh đẹp như vậy chưa?</li>
 
         </ul>
 
@@ -170,8 +176,8 @@ export default function Ever1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Has she <strong>ever</strong> tried sushi?</li>
-          <li className="list-none">(Cô ấy đã từng thử sushi chưa?)</li>
+          <li>Has she ______ tried sushi?</li>
+          <li className="list-none">Cô ấy đã từng thử sushi chưa?</li>
 
         </ul>
 
@@ -186,17 +192,19 @@ export default function Ever1(): React.JSX.Element {
         <strong>&nbsp;thường xuyên</strong>:
       </p>
 
-      <p className="text-indent-whole">Đọc và viết nhiều để củng cố vốn từ vựng và cách sử dụng của "<strong>ever</strong>".</p>
+      <p className="text-indent-whole margin-bottom-20">Đọc và viết nhiều để củng cố vốn từ vựng và cách sử dụng của "<strong>ever</strong>".</p>
 
         <p className="text-indent-whole">Ví dụ để so sánh (sự khác biệt giữa never và <strong>ever</strong>):</p>
 
           <ol>
 
             <li><Link to="/vocabulary/never-1">Never</Link>: Dùng để phủ định hoàn toàn một trải nghiệm.</li>
-            <li className="list-none margin-bottom-20">I have never been to the beach. (Tôi chưa bao giờ đi biển.)</li>
+            <li className="list-none">I have ______ been to the beach.</li>
+            <li className="list-none margin-bottom-20">Tôi chưa bao giờ đi biển.</li>
 
             <li value="2"><strong>Ever</strong>: Sử dụng trong <span className="highlight-255-padding-0-4">câu hỏi</span> hoặc <span className="highlight-255-padding-0-4">câu khẳng định</span> để <span className="highlight-255-padding-0-4">nhấn mạnh một trải nghiệm</span>.</li>
-            <li className="list-none margin-bottom-20">Have you <strong>ever</strong> been to the beach? (Bạn đã từng đi biển chưa?)</li>
+            <li className="list-none">Have you ______ been to the beach?</li>
+            <li className="list-none margin-bottom-20">Bạn đã từng đi biển chưa?</li>
 
           </ol>
 

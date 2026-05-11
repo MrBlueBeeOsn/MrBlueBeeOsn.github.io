@@ -62,35 +62,45 @@ export default function Ever2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1"><strong>Ever</strong> since: Kể từ khi mà /ˈevər sɪns/</li>
-        <li className="list-none margin-bottom-20"><strong>Ever</strong> since I was a child, I've loved to read. (Từ khi còn nhỏ, tôi đã thích đọc sách.)</li>
+        <li value="1">Ever <strong>since</strong> /sɪns/</li>
+        <li className="list-none">______ I was a child, I've loved to read.</li>
+        <li className="list-none margin-bottom-20">Từ khi còn nhỏ, tôi đã thích đọc sách.</li>
 
-        <li value="2">As <strong>ever</strong>: Như thường lệ /æz ˈevər/</li>
-        <li className="list-none margin-bottom-20">He is, as <strong>ever</strong>, late for the meeting. (Anh ấy, như thường lệ, lại đến muộn cuộc họp.)</li>
+        <li value="2"><strong>As</strong> ever /æz/</li>
+        <li className="list-none">He is, ______, late for the meeting.</li>
+        <li className="list-none margin-bottom-20">Anh ấy, như thường lệ, lại đến muộn cuộc họp.</li>
 
-        <li value="3"><strong>Ever</strong> after: Mãi mãi về sau /ˈevər ˈɑːftər/</li>
-        <li className="list-none margin-bottom-20">They lived happily <strong>ever</strong> after. (Họ sống hạnh phúc mãi mãi về sau.)</li>
+        <li value="3">Ever <strong>after</strong> /ˈɑːftər/</li>
+        <li className="list-none">They lived happily ______.</li>
+        <li className="list-none margin-bottom-20">Họ sống hạnh phúc mãi mãi về sau.</li>
 
-        <li value="4"><strong>Ever</strong> so: Rất là /ˈevər səʊ/</li>
-        <li className="list-none margin-bottom-20">She is <strong>ever</strong> so kind. (Cô ấy rất tốt bụng.)</li>
+        <li value="4">Ever <strong>so</strong> /səʊ/</li>
+        <li className="list-none">She is ______ kind.</li>
+        <li className="list-none margin-bottom-20">Cô ấy rất tốt bụng.</li>
 
-        <li value="5">Have you <strong>ever</strong>: Bạn đã từng... /hæv juː ˈevər/</li>
-        <li className="list-none margin-bottom-20">Have you <strong>ever</strong> been to Paris? (Bạn đã từng đến Paris chưa?)</li>
+        <li value="5"><strong>Have you</strong> ever /hæv juː/</li>
+        <li className="list-none">______ been to Paris?</li>
+        <li className="list-none margin-bottom-20">Bạn đã từng đến Paris chưa?</li>
 
-        <li value="6">If <strong>ever</strong>: Nếu có khi nào /ɪf ˈevər/</li>
-        <li className="list-none margin-bottom-20">If <strong>ever</strong> there was a time to be brave, it is now. (Nếu có khi nào cần can đảm, thì đó là bây giờ.)</li>
+        <li value="6"><strong>If</strong> ever /ɪf/</li>
+        <li className="list-none">______ there was a time to be brave, it is now.</li>
+        <li className="list-none margin-bottom-20">Nếu có khi nào cần can đảm, thì đó là bây giờ.</li>
 
-        <li value="7">Never <strong>ever</strong>: Không bao giờ, tuyệt đối không /ˈnevər ˈevər/</li>
-        <li className="list-none margin-bottom-20">I will never <strong>ever</strong> forget that day. (Tôi sẽ không bao giờ quên ngày hôm đó.)</li>
+        <li value="7"><strong>Never</strong> ever /ˈnev.ər/</li>
+        <li className="list-none">I will ______ forget that day.</li>
+        <li className="list-none margin-bottom-20">Tôi sẽ không bao giờ quên ngày hôm đó.</li>
 
-        <li value="8">For <strong>ever</strong> and <strong>ever</strong>: Mãi mãi /fər ˈevər ænd ˈevər/</li>
-        <li className="list-none margin-bottom-20">I will love you for <strong>ever</strong> and <strong>ever</strong>. (Anh sẽ yêu em mãi mãi.)</li>
+        <li value="8"><strong>For</strong> ever <strong>and</strong> ever /fər ænd/</li>
+        <li className="list-none">I will love you ______.</li>
+        <li className="list-none margin-bottom-20">Anh sẽ yêu em mãi mãi.</li>
 
-        <li value="9">Happily <strong>ever</strong> after: Hạnh phúc mãi mãi /ˈhæpɪli ˈevər ˈɑːftər/</li>
-        <li className="list-none margin-bottom-20">They lived happily <strong>ever</strong> after. (Họ sống hạnh phúc mãi mãi.)</li>
+        <li value="9"><strong>Happily</strong> ever <strong>after</strong> /ˈhæpɪli ˈɑːftər/</li>
+        <li className="list-none">They lived ______.</li>
+        <li className="list-none margin-bottom-20">Họ sống hạnh phúc mãi mãi.</li>
 
-        <li value="10"><strong>Ever</strong> and anon: Thỉnh thoảng /ˈevər ænd əˈnɒn/</li>
-        <li className="list-none margin-bottom-20"><strong>Ever</strong> and anon, a bird would sing. (Thỉnh thoảng, một con chim lại hót.)</li>
+        <li value="10">Ever <strong>and anon</strong> /ænd əˈnɒn/</li>
+        <li className="list-none">______, a bird would sing.</li>
+        <li className="list-none margin-bottom-20">Thỉnh thoảng, một con chim lại hót.</li>
 
       </ol>
 
