@@ -62,35 +62,45 @@ export default function Possibly2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1"><strong>Possibly</strong> the best: Có thể là tốt nhất /ˈpɒsəbli ðə best/</li>
-        <li className="list-none margin-bottom-20">This is <strong>possibly</strong> the best coffee I've ever tasted. (Đây có thể là ly cà phê ngon nhất mà tôi từng uống.)</li>
+        <li value="1">Possibly <strong>the best</strong> /ðə best/</li>
+        <li className="list-none">This is ______ coffee I've ever tasted.</li>
+        <li className="list-none margin-bottom-20">Đây có thể là ly cà phê ngon nhất mà tôi từng uống.</li>
 
-        <li value="2"><strong>Possibly</strong> true: Có thể là đúng /ˈpɒsəbli truː/</li>
-        <li className="list-none margin-bottom-20">What he said is <strong>possibly</strong> true, but I'm not sure. (Những gì anh ấy nói có thể là đúng, nhưng tôi không chắc chắn.)</li>
+        <li value="2">Possibly <strong>true</strong> /truː/</li>
+        <li className="list-none">What he said is ______, but I'm not sure.</li>
+        <li className="list-none margin-bottom-20">Những gì anh ấy nói có thể là đúng, nhưng tôi không chắc chắn.</li>
 
-        <li value="3"><strong>Possibly</strong> dangerous: Có thể là nguy hiểm /ˈpɒsəbli ˈdeɪndʒərəs/</li>
-        <li className="list-none margin-bottom-20">Swimming in this lake is <strong>possibly</strong> dangerous due to the strong currents. (Bơi ở hồ này có thể nguy hiểm do dòng chảy mạnh.)</li>
+        <li value="3">Possibly <strong>dangerous</strong> /ˈdeɪndʒərəs/</li>
+        <li className="list-none">Swimming in this lake is ______ due to the strong currents.</li>
+        <li className="list-none margin-bottom-20">Bơi ở hồ này có thể nguy hiểm do dòng chảy mạnh.</li>
 
-        <li value="4"><strong>Possibly</strong> the worst: Có thể là tệ nhất /ˈpɒsəbli ðə wɜːrst/</li>
-        <li className="list-none margin-bottom-20">This is <strong>possibly</strong> the worst movie I've ever seen. (Đây có thể là bộ phim tệ nhất mà tôi từng xem.)</li>
+        <li value="4">Possibly <strong>the worst</strong> /ðə wɜːrst/</li>
+        <li className="list-none">This is ______ movie I've ever seen.</li>
+        <li className="list-none margin-bottom-20">Đây có thể là bộ phim tệ nhất mà tôi từng xem.</li>
 
-        <li value="5"><strong>Possibly</strong> lost: Có thể là bị mất /ˈpɒsəbli lɒst/</li>
-        <li className="list-none margin-bottom-20">My keys are <strong>possibly</strong> lost somewhere in the house. (Chìa khóa của tôi có thể bị mất ở đâu đó trong nhà.)</li>
+        <li value="5">Possibly <strong>lost</strong> /lɒst/</li>
+        <li className="list-none">My keys are ______ somewhere in the house.</li>
+        <li className="list-none margin-bottom-20">Chìa khóa của tôi có thể bị mất ở đâu đó trong nhà.</li>
 
-        <li value="6"><strong>Possibly</strong> misunderstood: Có thể là hiểu nhầm /ˈpɒsəbli ˌmɪsʌndəˈstʊd/</li>
-        <li className="list-none margin-bottom-20">My words were <strong>possibly</strong> misunderstood. (Có thể là lời nói của tôi đã bị hiểu nhầm.)</li>
+        <li value="6">Possibly <strong>misunderstood</strong> /ˌmɪsʌndəˈstʊd/</li>
+        <li className="list-none">My words were ______.</li>
+        <li className="list-none margin-bottom-20">Có thể là lời nói của tôi đã bị hiểu nhầm.</li>
 
-        <li value="7"><strong>Possibly</strong> delayed: Có thể là bị trì hoãn /ˈpɒsəbli dɪˈleɪd/</li>
-        <li className="list-none margin-bottom-20">The flight is <strong>possibly</strong> delayed due to bad weather. (Chuyến bay có thể bị trì hoãn do thời tiết xấu.)</li>
+        <li value="7">Possibly <strong>delayed</strong> /dɪˈleɪd/</li>
+        <li className="list-none">The flight is ______ due to bad weather.</li>
+        <li className="list-none margin-bottom-20">Chuyến bay có thể bị trì hoãn do thời tiết xấu.</li>
 
-        <li value="8"><strong>Possibly</strong> related: Có thể là có liên quan /ˈpɒsəbli rɪˈleɪtɪd/</li>
-        <li className="list-none margin-bottom-20">These two events are <strong>possibly</strong> related. (Hai sự kiện này có thể có liên quan với nhau.)</li>
+        <li value="8">Possibly <strong>related</strong> /rɪˈleɪtɪd/</li>
+        <li className="list-none">These two events are ______.</li>
+        <li className="list-none margin-bottom-20">Hai sự kiện này có thể có liên quan với nhau.</li>
 
-        <li value="9"><strong>Possibly</strong> harmful: Có thể là có hại /ˈpɒsəbli ˈhɑːmfəl/</li>
-        <li className="list-none margin-bottom-20">Eating too much sugar is <strong>possibly</strong> harmful to your health. (Ăn quá nhiều đường có thể có hại cho sức khỏe của bạn.)</li>
+        <li value="9">Possibly <strong>harmful</strong> /ˈhɑːmfəl/</li>
+        <li className="list-none">Eating too much sugar is ______ to your health.</li>
+        <li className="list-none margin-bottom-20">Ăn quá nhiều đường có thể có hại cho sức khỏe của bạn.</li>
 
-        <li value="10"><strong>Possibly</strong> the best option: Có thể là lựa chọn tốt nhất /ˈpɒsəbli ðə best ˈɒpʃən/</li>
-        <li className="list-none margin-bottom-20">Moving to a new city is <strong>possibly</strong> the best option for my career. (Chuyển đến thành phố mới có thể là lựa chọn tốt nhất cho sự nghiệp của tôi.)</li>
+        <li value="10">Possibly <strong>the best option</strong> /ðə best ˈɒpʃən/</li>
+        <li className="list-none">Moving to a new city is ______ for my career.</li>
+        <li className="list-none margin-bottom-20">Chuyển đến thành phố mới có thể là lựa chọn tốt nhất cho sự nghiệp của tôi.</li>
 
       </ol>
 
