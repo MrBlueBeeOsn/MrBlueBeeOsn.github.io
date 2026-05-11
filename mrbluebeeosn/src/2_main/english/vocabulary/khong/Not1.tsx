@@ -65,9 +65,11 @@ export default function Not1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>I am <strong>not</strong> hungry. (Tôi không đói.)</li>
+          <li>I am ______ hungry.</li>
+          <li className="margin-bottom-20 list-none">Tôi không đói.</li>
 
-          <li>She is <strong>not</strong> a doctor. (Cô ấy không phải bác sĩ.)</li>
+          <li>She is ______ a doctor.</li>
+          <li className="list-none">Cô ấy không phải bác sĩ.</li>
 
         </ul>
 
@@ -83,14 +85,13 @@ export default function Not1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          {/* <li></li>
-          <li className="margin-bottom-20 list-none"></li> */}
+          <li>Nothing (pronoun) /ˈnʌθ.ɪŋ/</li>
+          <li className="list-none">There is ______ in the box.</li>
+          <li className="margin-bottom-20 list-none">Không có gì trong hộp.</li>
 
-          <li>Nothing: (pronoun) /ˈnʌθ.ɪŋ/ - Không có gì</li>
-          <li className="margin-bottom-20 list-none">There is nothing in the box. (Không có gì trong hộp.)</li>
-
-          <li>Nobody: (pronoun) /ˈnəʊ.bɒ.di/ - Không ai</li>
-          <li className="list-none">Nobody was at home. (Không ai ở nhà.)</li>
+          <li>Nobody (pronoun) /ˈnəʊ.bɒ.di/</li>
+          <li className="list-none">______ was at home.</li>
+          <li className="list-none">Không ai ở nhà.</li>
 
         </ul>
 
@@ -106,14 +107,13 @@ export default function Not1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          {/* <li></li>
-          <li className="margin-bottom-20 list-none"></li> */}
+          <li><Link to="/vocabulary/no-1">No</Link> (adv) /noʊ/</li>
+          <li className="list-none">______, I don't want to go.</li>
+          <li className="margin-bottom-20 list-none">Không, tôi không muốn đi.</li>
 
-          <li><Link to="/vocabulary/no-1">No</Link>: (adv) /noʊ/ - Không</li>
-          <li className="margin-bottom-20 list-none">No, I don't want to go. (Không, tôi không muốn đi.)</li>
-
-          <li><Link to="/vocabulary/never-1">Never</Link>: (adv) /ˈnev.ər/ - Không bao giờ</li>
-          <li className="list-none">I will never forget you. (Tôi sẽ không bao giờ quên bạn.)</li>
+          <li><Link to="/vocabulary/never-1">Never</Link> (adv) /ˈnev.ər/</li>
+          <li className="list-none">I will ______ forget you.</li>
+          <li className="list-none">Tôi sẽ không bao giờ quên bạn.</li>
 
         </ul>
 
@@ -131,11 +131,13 @@ export default function Not1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li><Link to="/vocabulary/yes-1">Yes</Link>: (adv) /jes/ - Có</li>
-          <li className="margin-bottom-20 list-none">Yes, I can speak English. (Có, tôi có thể nói tiếng Anh.)</li>
+          <li><Link to="/vocabulary/yes-1">Yes</Link> (adv) /jes/</li>
+          <li className="list-none">______, I can speak English.</li>
+          <li className="margin-bottom-20 list-none">Có, tôi có thể nói tiếng Anh.</li>
 
-          <li><Link to="/vocabulary/always-1">Always</Link>: (adv) /ˈɔːl.weɪz/ - Luôn luôn</li>
-          <li className="list-none">She always comes to class on time. (Cô ấy luôn đến lớp đúng giờ.)</li>
+          <li><Link to="/vocabulary/always-1">Always</Link> (adv) /ˈɔːl.weɪz/</li>
+          <li className="list-none">She ______ comes to class on time.</li>
+          <li className="list-none">Cô ấy luôn đến lớp đúng giờ.</li>
 
         </ul>
       
@@ -161,8 +163,8 @@ export default function Not1(): React.JSX.Element {
         <ul className="list-square">
 
 
-          <li>Please do <strong>not</strong> touch</li>
-          <li className="list-none">(Vui lòng không chạm vào.)</li>
+          <li>Please do ______ touch</li>
+          <li className="list-none">Vui lòng không chạm vào.</li>
 
         </ul>
 
@@ -181,8 +183,8 @@ export default function Not1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>You should <strong>not</strong> smoke.</li>
-          <li className="list-none">(Bạn không nên hút thuốc.)</li>
+          <li>You should ______ smoke.</li>
+          <li className="list-none">Bạn không nên hút thuốc.</li>
 
         </ul>
 
@@ -197,17 +199,19 @@ export default function Not1(): React.JSX.Element {
         <strong>&nbsp;thường xuyên</strong>:
       </p>
 
-      <p className="text-indent-whole">Thường xuyên sử dụng "<strong>not</strong>" trong giao tiếp hàng ngày.</p>
+      <p className="text-indent-whole margin-bottom-20">Thường xuyên sử dụng "<strong>not</strong>" trong giao tiếp hàng ngày.</p>
 
         <p className="text-indent-whole">Ví dụ để so sánh (sự khác biệt giữa no và <strong>not</strong>):</p>
 
           <ol>
 
             <li><Link to="/vocabulary/no-1">No</Link>: Thường dùng để trả lời một câu hỏi hoặc làm một câu trả lời ngắn gọn.</li>
-            <li className="list-none margin-bottom-20">Do you want coffee? - No, thank you. (Bạn có muốn cà phê không? - Không, cảm ơn.)</li>
+            <li className="list-none">Do you want coffee? - ______, thank you.</li>
+            <li className="list-none margin-bottom-20">Bạn có muốn cà phê không? - Không, cảm ơn.</li>
 
             <li value="2"><strong>Not</strong>: <span className="highlight-255-padding-0-4">Thường dùng để phủ định một động từ</span>.</li>
-            <li className="list-none margin-bottom-20">I am <strong>not</strong> going. (Tôi không đi.)</li>
+            <li className="list-none">I am ______ going.</li>
+            <li className="list-none margin-bottom-20">Tôi không đi.</li>
 
           </ol>
 
