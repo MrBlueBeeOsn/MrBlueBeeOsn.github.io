@@ -62,35 +62,45 @@ export default function Yes2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1"><strong>Yes</strong>, indeed: Đúng vậy, thật vậy /jes ɪnˈdiːd/</li>
-        <li className="list-none margin-bottom-20">Is it a beautiful day. <strong>Yes</strong>, indeed. ("Hôm nay là một ngày đẹp trời phải không?" Đúng vậy, thật vậy.)</li>
+        <li value="1">Yes, <strong>indeed</strong> /ɪnˈdiːd/</li>
+        <li className="list-none">Is it a beautiful day. ______.</li>
+        <li className="list-none margin-bottom-20">"Hôm nay là một ngày đẹp trời phải không?" Đúng vậy, thật vậy.</li>
 
-        <li value="2"><strong>Yes</strong>, and: Vâng, và /jes ænd/</li>
-        <li className="list-none margin-bottom-20">Do you like apples? <strong>Yes</strong>, and I like bananas too. (Bạn có thích táo không? Vâng, và tôi cũng thích chuối.)</li>
+        <li value="2">Yes, <strong>and</strong> /ænd/</li>
+        <li className="list-none">Do you like apples? ______ I like bananas too.</li>
+        <li className="list-none margin-bottom-20">Bạn có thích táo không? Vâng, và tôi cũng thích chuối.</li>
 
-        <li value="3"><strong>Yes</strong>, but: Vâng, nhưng /jes bʌt/</li>
-        <li className="list-none margin-bottom-20">Can you come to the party? <strong>Yes</strong>, but I have to leave early. (Bạn có thể đến bữa tiệc không? Vâng, nhưng tôi phải đi sớm.)</li>
+        <li value="3">Yes, <strong>but</strong> /bʌt/</li>
+        <li className="list-none">Can you come to the party? ______ I have to leave early.</li>
+        <li className="list-none margin-bottom-20">Bạn có thể đến bữa tiệc không? Vâng, nhưng tôi phải đi sớm.</li>
 
-        <li value="4"><strong>Yes</strong>, of course: Vâng, tất nhiên rồi /jes əv kɔːrs/</li>
-        <li className="list-none margin-bottom-20">Can I borrow your pen? <strong>Yes</strong>, of course. (Tôi có thể mượn bút của bạn không? Vâng, tất nhiên rồi.)</li>
+        <li value="4">Yes, <strong>of course</strong> /əv kɔːrs/</li>
+        <li className="list-none">Can I borrow your pen? ______.</li>
+        <li className="list-none margin-bottom-20">Tôi có thể mượn bút của bạn không? Vâng, tất nhiên rồi.</li>
 
-        <li value="5"><strong>Yes</strong>, certainly: Vâng, chắc chắn rồi /jes ˈsɜːrtnli/</li>
-        <li className="list-none margin-bottom-20">Would you like some help? <strong>Yes</strong>, certainly. (Bạn có muốn tôi giúp không? Vâng, chắc chắn rồi.)</li>
+        <li value="5">Yes, <strong>certainly</strong> /ˈsɜːrtnli/</li>
+        <li className="list-none">Would you like some help? ______.</li>
+        <li className="list-none margin-bottom-20">Bạn có muốn tôi giúp không? Vâng, chắc chắn rồi.</li>
 
-        <li value="6"><strong>Yes</strong>, please: Vâng, xin vui lòng /jes pliːz/</li>
-        <li className="list-none margin-bottom-20">Would you like another piece of cake? <strong>Yes</strong>, please. (Bạn có muốn thêm một miếng bánh không? Vâng, xin vui lòng.)</li>
+        <li value="6">Yes, <strong>please</strong> /pliːz/</li>
+        <li className="list-none">Would you like another piece of cake? ______.</li>
+        <li className="list-none margin-bottom-20">Bạn có muốn thêm một miếng bánh không? Vâng, xin vui lòng.</li>
 
-        <li value="7"><strong>Yes</strong>, exactly: Đúng vậy, chính xác /jes ɪɡˈzæktli/</li>
-        <li className="list-none margin-bottom-20">That's what I mean. <strong>Yes</strong>, exactly. (Đó là ý của tôi. Đúng vậy, chính xác.)</li>
+        <li value="7">Yes, <strong>exactly</strong> /ɪɡˈzæktli/</li>
+        <li className="list-none">That's what I mean. ______.</li>
+        <li className="list-none margin-bottom-20">Đó là ý của tôi. Đúng vậy, chính xác.</li>
 
-        <li value="8"><strong>Yes</strong>, indeedy: Đúng vậy, đúng là vậy /jes ɪnˈdiːdi/</li>
-        <li className="list-none margin-bottom-20">It's a beautiful day, isn't it? <strong>Yes</strong>, indeedy. (Hôm nay là một ngày đẹp trời, phải không? Đúng vậy, đúng là vậy.)</li>
+        <li value="8">Yes, <strong>indeedy</strong> /ɪnˈdiːdi/</li>
+        <li className="list-none">It's a beautiful day, isn't it? ______.</li>
+        <li className="list-none margin-bottom-20">Hôm nay là một ngày đẹp trời, phải không? Đúng vậy, đúng là vậy.</li>
 
-        <li value="9"><strong>Yes</strong>, sir/ma'am: Vâng, thưa ngài/bà /jes sɜːr/ /jes mæm/</li>
-        <li className="list-none margin-bottom-20">May I take your order? <strong>Yes</strong>, sir. (Tôi có thể nhận đơn hàng của ngài không? Vâng, thưa ngài.)</li>
+        <li value="9">Yes, <strong>sir</strong>/<strong>ma'am</strong> /sɜːr/mæm/</li>
+        <li className="list-none">May I take your order? ______.</li>
+        <li className="list-none margin-bottom-20">Tôi có thể nhận đơn hàng của ngài không? Vâng, thưa ngài.</li>
 
-        <li value="10"><strong>Yes</strong>, I suppose so: Vâng, tôi đoán vậy /jes aɪ səˈpoʊz səʊ/</li>
-        <li className="list-none margin-bottom-20">Do you think we should go to the party? <strong>Yes</strong>, I suppose so. (Bạn nghĩ chúng ta nên đi dự tiệc không? Vâng, tôi đoán vậy.)</li>
+        <li value="10">Yes, <strong>I suppose so</strong> /aɪ səˈpoʊz səʊ/</li>
+        <li className="list-none">Do you think we should go to the party? ______.</li>
+        <li className="list-none margin-bottom-20">Bạn nghĩ chúng ta nên đi dự tiệc không? Vâng, tôi đoán vậy.</li>
 
       </ol>
 

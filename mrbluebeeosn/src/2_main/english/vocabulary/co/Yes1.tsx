@@ -63,9 +63,11 @@ export default function Yes1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Are you coming to the party? - <strong>Yes</strong>, I am. (Bạn có đến bữa tiệc không? - Có, tôi sẽ đến.)</li>
+          <li>Are you coming to the party? - ______, I am.</li>
+          <li className="margin-bottom-20 list-none">Bạn có đến bữa tiệc không? - Có, tôi sẽ đến.</li>
 
-          <li>Do you like coffee? - <strong>Yes</strong>, I do. (Bạn có thích cà phê không? - Có, tôi thích.)</li>
+          <li>Do you like coffee? - ______, I do.</li>
+          <li className="list-none">Bạn có thích cà phê không? - Có, tôi thích.</li>
 
         </ul>
 
@@ -97,11 +99,13 @@ export default function Yes1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Certainly: /ˈsɜːrtnli/ - Chắc chắn (dùng để đồng ý một cách nhấn mạnh)</li>
-          <li className="margin-bottom-20 list-none">Can I help you? - Certainly. (Tôi có thể giúp gì cho bạn? - Chắc chắn rồi.)</li>
+          <li>Certainly /ˈsɜːrtnli/</li>
+          <li className="list-none">Can I help you? - ______.</li>
+          <li className="margin-bottom-20 list-none">Tôi có thể giúp gì cho bạn? - Chắc chắn rồi.</li>
 
-          <li><Link to="/vocabulary/absolutely-1">Absolutely</Link>: /ˈæbsəluːtli/ - Hoàn toàn</li>
-          <li className="list-none">Is that true? - Absolutely. (Điều đó có đúng không? - Hoàn toàn đúng.)</li>
+          <li><Link to="/vocabulary/absolutely-1">Absolutely</Link> /ˈæbsəluːtli/</li>
+          <li className="list-none">Is that true? - ______.</li>
+          <li className="list-none">Điều đó có đúng không? - Hoàn toàn đúng.</li>
 
         </ul>
 
@@ -119,11 +123,13 @@ export default function Yes1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li><Link to="/vocabulary/no-1">No</Link>: (adv) /noʊ/ - Không</li>
-          <li className="margin-bottom-20 list-none">Are you coming to the party? - No, I'm not. (Bạn có đến bữa tiệc không? - Không, tôi không.)</li>
+          <li><Link to="/vocabulary/no-1">No</Link> (adv) /noʊ/</li>
+          <li className="list-none">Are you coming to the party? - ______, I'm not.</li>
+          <li className="margin-bottom-20 list-none">Bạn có đến bữa tiệc không? - Không, tôi không.</li>
 
-          <li><Link to="/vocabulary/definitely-1">Definitely</Link> <Link to="/vocabulary/not-1">not</Link>: (adv) /ˈdefɪnətli nɒt/ - Chắc chắn không</li>
-          <li className="list-none">Are you going to quit your job? - Definitely not. (Bạn có định nghỉ việc không? - Chắc chắn là không.)</li>
+          <li><Link to="/vocabulary/definitely-1">Definitely</Link> <Link to="/vocabulary/not-1">not</Link> /ˈdefɪnətli nɒt/</li>
+          <li className="list-none">Are you going to quit your job? - ______.</li>
+          <li className="list-none">Bạn có định nghỉ việc không? - Chắc chắn là không.</li>
 
         </ul>
       
@@ -148,8 +154,8 @@ export default function Yes1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li><strong>Yes</strong>. Vâng.</li>
-          <li className="list-none">(Cách nói thông dụng nhất.)</li>
+          <li>______.</li>
+          <li className="list-none"> Vâng. (Cách nói thông dụng nhất.)</li>
 
         </ul>
 
@@ -168,9 +174,14 @@ export default function Yes1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li className="list-none">Would you like some coffee? (Bạn có muốn uống cà phê không?)</li>
-          <li><strong>Yes</strong>, please. (Vâng, làm ơn.)</li>
-          <li><Link to="/vocabulary/absolutely-1">Absolutely</Link>! (Hoàn toàn!)</li>
+          <li className="list-none">Would you like some coffee?</li>
+          <li className="margin-bottom-20 list-none">Bạn có muốn uống cà phê không?</li>
+
+          <li>______, please.</li>
+          <li className="margin-bottom-20 list-none">Vâng, làm ơn.</li>
+
+          <li><Link to="/vocabulary/absolutely-1">Absolutely</Link>!</li>
+          <li className="list-none">Hoàn toàn!</li>
 
         </ul>
 
@@ -185,37 +196,21 @@ export default function Yes1(): React.JSX.Element {
         <strong>&nbsp;thường xuyên</strong>:
       </p>
 
-      <p className="text-indent-whole">Thường xuyên sử dụng "<strong>yes</strong>" trong giao tiếp hàng ngày.
-
-</p>
+      <p className="text-indent-whole margin-bottom-20">Thường xuyên sử dụng "<strong>yes</strong>" trong giao tiếp hàng ngày.</p>
 
         <p className="text-indent-whole">Ví dụ để so sánh (sự khác biệt giữa certainly và <strong>yes</strong>):</p>
 
           <ol>
 
             <li>Certainly: Là câu trả lời nhấn mạnh, thể hiện sự sẵn lòng hoặc đồng ý một cách nhiệt tình.</li>
-            <li className="list-none margin-bottom-20">Can I borrow your pen? - Certainly. (Tôi có thể mượn bút của bạn không? - Chắc chắn rồi.)</li>
+            <li className="list-none">Can I borrow your pen? - ______.</li>
+            <li className="list-none margin-bottom-20">Tôi có thể mượn bút của bạn không? - Chắc chắn rồi.</li>
 
             <li value="2"><strong>Yes</strong>: Là câu trả lời đơn giản cho một câu hỏi.</li>
-            <li className="list-none margin-bottom-20">Do you like chocolate? - <strong>Yes</strong>. (Bạn có thích sô cô la không? - Có.)</li>
+            <li className="list-none">Do you like chocolate? - ______.</li>
+            <li className="list-none margin-bottom-20">Bạn có thích sô cô la không? - Có.</li>
 
           </ol>
-
-          {/* <ol>
-
-            <li></li>
-
-            <li className="margin-bottom-20"></li>
-
-          </ol>
-
-      <div className="margin-bottom-20 padding-top-20 text-border1 padding-10 highlight-238-padding-4-8 bee-container">
-
-        <p className="margin-y-10">Sự khác biệt: </p>
-
-      </div> */}
-
-      {/* <span className="highlight-255-padding-0-4"></span> */}
 
       {/* =============================
             Lưu ý:
