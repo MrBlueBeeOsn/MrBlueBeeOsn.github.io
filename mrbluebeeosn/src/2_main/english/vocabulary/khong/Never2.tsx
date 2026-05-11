@@ -62,35 +62,45 @@ export default function Never2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1"><strong>Never</strong> before: Chưa bao giờ trước đây /ˈnevər bɪˈfɔːr/</li>
-        <li className="list-none margin-bottom-20">I have <strong>never</strong> before seen such a beautiful sunset. (Tôi chưa bao giờ thấy một cảnh hoàng hôn đẹp như vậy.)</li>
+        <li value="1">Never <strong>before</strong> /bɪˈfɔːr/</li>
+        <li className="list-none">I have ______ seen such a beautiful sunset.</li>
+        <li className="list-none margin-bottom-20">Tôi chưa bao giờ thấy một cảnh hoàng hôn đẹp như vậy.</li>
 
-        <li value="2"><strong>Never</strong> again: Không bao giờ nữa /ˈnevər əˈɡen/</li>
-        <li className="list-none margin-bottom-20">I will <strong>never</strong> again make that mistake. (Tôi sẽ không bao giờ lặp lại sai lầm đó nữa.)</li>
+        <li value="2">Never <strong>again</strong> /əˈɡen/</li>
+        <li className="list-none">I will ______ make that mistake.</li>
+        <li className="list-none margin-bottom-20">Tôi sẽ không bao giờ lặp lại sai lầm đó nữa.</li>
 
-        <li value="3"><strong>Never</strong> mind: Không sao, thôi đi /ˈnevər maɪnd/</li>
-        <li className="list-none margin-bottom-20"><strong>Never</strong> mind, it's not important. (Thôi đi, không quan trọng đâu.)</li>
+        <li value="3">Never <strong>mind</strong> /maɪnd/</li>
+        <li className="list-none">______, it's not important.</li>
+        <li className="list-none margin-bottom-20">Thôi đi, không quan trọng đâu.</li>
 
-        <li value="4"><strong>Never</strong> seen: Chưa bao giờ thấy /ˈnevər siːn/</li>
-        <li className="list-none margin-bottom-20">I have <strong>never</strong> seen such a big dog. (Tôi chưa bao giờ thấy con chó nào to như vậy.)</li>
+        <li value="4">Never <strong>seen</strong> /siːn/</li>
+        <li className="list-none">I have ______ such a big dog.</li>
+        <li className="list-none margin-bottom-20">Tôi chưa bao giờ thấy con chó nào to như vậy.</li>
 
-        <li value="5"><strong>Never</strong> heard of: Chưa bao giờ nghe nói đến /ˈnevər hɜːrd ɒv/</li>
-        <li className="list-none margin-bottom-20">I have <strong>never</strong> heard of that band. (Tôi chưa bao giờ nghe nói về ban nhạc đó.)</li>
+        <li value="5">Never <strong>heard of</strong> /hɜːrd ɒv/</li>
+        <li className="list-none">I have ______ that band.</li>
+        <li className="list-none margin-bottom-20">Tôi chưa bao giờ nghe nói về ban nhạc đó.</li>
 
-        <li value="6"><strong>Never</strong> forget: Không bao giờ quên /ˈnevər fərˈɡet/</li>
-        <li className="list-none margin-bottom-20">I will <strong>never</strong> forget your kindness. (Tôi sẽ không bao giờ quên lòng tốt của bạn.)</li>
+        <li value="6">Never <strong>forget</strong> /fərˈɡet/</li>
+        <li className="list-none">I will ______ your kindness.</li>
+        <li className="list-none margin-bottom-20">Tôi sẽ không bao giờ quên lòng tốt của bạn.</li>
 
-        <li value="7"><strong>Never</strong> too late: Không bao giờ là quá muộn /ˈnevər tuː leɪt/</li>
-        <li className="list-none margin-bottom-20">It's <strong>never</strong> too late to learn something new. (Không bao giờ là quá muộn để học điều mới.)</li>
+        <li value="7">Never <strong>too late</strong> /tuː leɪt/</li>
+        <li className="list-none">It's ______ to learn something new.</li>
+        <li className="list-none margin-bottom-20">Không bao giờ là quá muộn để học điều mới.</li>
 
-        <li value="8"><strong>Never</strong> say <strong>never</strong>: Đừng nói không bao giờ /ˈnevər seɪ ˈnevər/</li>
-        <li className="list-none margin-bottom-20"><strong>Never</strong> say <strong>never</strong>, anything is possible. (Đừng nói không bao giờ, mọi thứ đều có thể xảy ra.)</li>
+        <li value="8">Never <strong>say</strong> never /seɪ ˈnevər/</li>
+        <li className="list-none">______, anything is possible.</li>
+        <li className="list-none margin-bottom-20">Đừng nói không bao giờ, mọi thứ đều có thể xảy ra.</li>
 
-        <li value="9"><strong>Never</strong> in my life: Chưa bao giờ trong đời /ˈnevər ɪn maɪ laɪf/</li>
-        <li className="list-none margin-bottom-20">I have <strong>never</strong> in my life seen such a beautiful flower. (Tôi chưa bao giờ trong đời thấy một bông hoa đẹp như vậy.)</li>
+        <li value="9">Never <strong>in my life</strong> /ɪn maɪ laɪf/</li>
+        <li className="list-none">I have ______ seen such a beautiful flower.</li>
+        <li className="list-none margin-bottom-20">Tôi chưa bao giờ trong đời thấy một bông hoa đẹp như vậy.</li>
 
-        <li value="10"><strong>Never</strong> give up: Không bao giờ bỏ cuộc /ˈnevər ɡɪv ʌp/</li>
-        <li className="list-none margin-bottom-20"><strong>Never</strong> give up on your dreams. (Đừng bao giờ từ bỏ ước mơ của bạn.)</li>
+        <li value="10">Never <strong>give up</strong> /ɡɪv ʌp/</li>
+        <li className="list-none">______ on your dreams.</li>
+        <li className="list-none margin-bottom-20">Đừng bao giờ từ bỏ ước mơ của bạn.</li>
 
       </ol>
 
