@@ -62,35 +62,45 @@ export default function Again2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1"><strong>Again</strong> and <strong>again</strong>: Lặp đi lặp lại /əˈɡen ænd əˈɡen/</li>
-        <li className="list-none margin-bottom-20">He made the same mistake <strong>again</strong> and <strong>again</strong>. (Anh ấy lặp lại cùng một sai lầm nhiều lần.)</li>
+        <li value="1">Again <strong>and</strong> again /ænd/</li>
+        <li className="list-none">He made the same mistake ______.</li>
+        <li className="list-none margin-bottom-20">Anh ấy lặp lại cùng một sai lầm nhiều lần.</li>
 
-        <li value="2">Once <strong>again</strong>: Một lần nữa /wʌns əˈɡen/</li>
-        <li className="list-none margin-bottom-20">Let's try that once <strong>again</strong>. (Hãy thử lại một lần nữa.)</li>
+        <li value="2"><strong>Once</strong> again /wʌns/</li>
+        <li className="list-none">Let's try that ______.</li>
+        <li className="list-none margin-bottom-20">Hãy thử lại một lần nữa.</li>
 
-        <li value="3">Time and <strong>again</strong>: Nhiều lần /taɪm ænd əˈɡen/</li>
-        <li className="list-none margin-bottom-20">I've told you time and <strong>again</strong> not to do that. (Tôi đã nói với bạn nhiều lần rồi đấy.)</li>
+        <li value="3"><strong>Time and</strong> again /taɪm ænd/</li>
+        <li className="list-none">I've told you ______ not to do that.</li>
+        <li className="list-none margin-bottom-20">Tôi đã nói với bạn nhiều lần rồi đấy.</li>
 
-        <li value="4">Over and over <strong>again</strong>: Lặp đi lặp lại nhiều lần /ˈoʊvər ænd ˈoʊvər əˈɡen/</li>
-        <li className="list-none margin-bottom-20">She played the same song over and over <strong>again</strong>. (Cô ấy nghe đi nghe lại cùng một bài hát.)</li>
+        <li value="4"><strong>Over and over</strong> again /ˈoʊvər ænd ˈoʊvər/</li>
+        <li className="list-none">She played the same song ______.</li>
+        <li className="list-none margin-bottom-20">Cô ấy nghe đi nghe lại cùng một bài hát.</li>
 
-        <li value="5">All over <strong>again</strong>: Lại từ đầu /ɔːl ˈoʊvər əˈɡen/</li>
-        <li className="list-none margin-bottom-20">We had to start all over again. (Chúng ta phải bắt đầu lại từ đầu.)</li>
+        <li value="5"><strong>All over</strong> again /ɔːl ˈoʊvər/</li>
+        <li className="list-none">We had to start ______.</li>
+        <li className="list-none margin-bottom-20">Chúng ta phải bắt đầu lại từ đầu.</li>
 
-        <li value="6"><strong>Again</strong> soon: Sớm nữa /əˈɡen suːn/</li>
-        <li className="list-none margin-bottom-20">I hope to see you <strong>again</strong> soon. (Tôi hy vọng sẽ gặp lại bạn sớm.)</li>
+        <li value="6">Again <strong>soon</strong> /suːn/</li>
+        <li className="list-none">I hope to see you ______.</li>
+        <li className="list-none margin-bottom-20">Tôi hy vọng sẽ gặp lại bạn sớm.</li>
 
-        <li value="7"><strong>Again</strong>, please: Làm lại, xin vui lòng /əˈɡen pliːz/</li>
-        <li className="list-none margin-bottom-20">Could you say that <strong>again</strong>, please? (Bạn có thể nói lại được không?)</li>
+        <li value="7">Again, <strong>please</strong> /pliːz/</li>
+        <li className="list-none">Could you say that ______?</li>
+        <li className="list-none margin-bottom-20">Bạn có thể nói lại được không?</li>
 
-        <li value="8">Not <strong>again</strong>: Không phải lần nữa /nɒt əˈɡen/</li>
-        <li className="list-none margin-bottom-20">Not <strong>again</strong>! I've lost my keys. (Không phải lần nữa! Tôi lại làm mất chìa khóa rồi.)</li>
+        <li value="8"><strong>Not</strong> again /nɒt/</li>
+        <li className="list-none">______! I've lost my keys.</li>
+        <li className="list-none margin-bottom-20">Không phải lần nữa! Tôi lại làm mất chìa khóa rồi.</li>
 
-        <li value="9">Once more: Một lần nữa /wʌns mɔːr/</li>
-        <li className="list-none margin-bottom-20">Could you read that once more? (Bạn có thể đọc lại một lần nữa được không?)</li>
+        <li value="9"><strong>Once more</strong> /wʌns mɔːr/</li>
+        <li className="list-none">Could you read that ______?</li>
+        <li className="list-none margin-bottom-20">Bạn có thể đọc lại một lần nữa được không?</li>
 
-        <li value="10">As before: Như trước đây /æz bɪˈfɔːr/</li>
-        <li className="list-none margin-bottom-20">Please do it as before. (Làm ơn làm như trước đây.)</li>
+        <li value="10"><strong>As before</strong> /æz bɪˈfɔːr/</li>
+        <li className="list-none">Please do it ______.</li>
+        <li className="list-none margin-bottom-20">Làm ơn làm như trước đây.</li>
 
       </ol>
 

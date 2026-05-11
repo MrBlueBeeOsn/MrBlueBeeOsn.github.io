@@ -63,9 +63,11 @@ export default function Again1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Can you say that <strong>again</strong>? (Bạn có thể nói lại điều đó được không?)</li>
+          <li>Can you say that ______?</li>
+          <li className="margin-bottom-20 list-none">Bạn có thể nói lại điều đó được không?</li>
 
-          <li>I've seen this movie before, but I want to watch it <strong>again</strong>. (Tôi đã xem bộ phim này rồi, nhưng tôi muốn xem lại.)</li>
+          <li>I've seen this movie before, but I want to watch it ______.</li>
+          <li className="list-none">Tôi đã xem bộ phim này rồi, nhưng tôi muốn xem lại.</li>
 
         </ul>
 
@@ -81,8 +83,9 @@ export default function Again1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li><strong>Again</strong> and <strong>again</strong>: Lặp đi lặp lại /əˈɡen ænd əˈɡen/ - cụm trạng từ</li>
-          <li className="list-none">He kept asking the same question <strong>again</strong> and <strong>again</strong>. (Anh ấy cứ hỏi đi hỏi lại cùng một câu hỏi.)</li>
+          <li><strong>Again</strong> and <strong>again</strong> /əˈɡen ænd əˈɡen/</li>
+          <li className="list-none">He kept asking the same question ______.</li>
+          <li className="list-none">Anh ấy cứ hỏi đi hỏi lại cùng một câu hỏi.</li>
 
         </ul>
 
@@ -98,11 +101,13 @@ export default function Again1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Once more: Một lần nữa /wʌns mɔːr/</li>
-          <li className="margin-bottom-20 list-none">Let's try once more. (Chúng ta hãy thử thêm một lần nữa.)</li>
+          <li>Once more /wʌns mɔːr/</li>
+          <li className="list-none">Let's try ______.</li>
+          <li className="margin-bottom-20 list-none">Chúng ta hãy thử thêm một lần nữa.</li>
 
-          <li><Link to="/vocabulary/repeatedly-1">Repeatedly</Link>: Lặp đi lặp lại /rɪˈpiː.tɪd.li/</li>
-          <li className="list-none">He repeatedly made the same mistake. (Anh ấy liên tục mắc cùng một lỗi lầm.)</li>
+          <li><Link to="/vocabulary/repeatedly-1">Repeatedly</Link> /rɪˈpiː.tɪd.li/</li>
+          <li className="list-none">He ______ made the same mistake.</li>
+          <li className="list-none">Anh ấy liên tục mắc cùng một lỗi lầm.</li>
 
         </ul>
 
@@ -120,11 +125,13 @@ export default function Again1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Once: Một lần /wʌns/ (chỉ xảy ra một lần, ngược lại với nhiều lần)</li>
-          <li className="margin-bottom-20 list-none">I've only done it once. (Tôi mới chỉ làm điều đó một lần.)</li>
+          <li>Once (adv) /wʌns/</li>
+          <li className="list-none">I've only done it ______.</li>
+          <li className="margin-bottom-20 list-none">Tôi mới chỉ làm điều đó một lần.</li>
 
-          <li>For the first time: Lần đầu tiên /fɔːr ðə fɜːst taɪm/</li>
-          <li className="list-none">I'm seeing this movie for the first time. (Tôi đang xem bộ phim này lần đầu tiên.)</li>
+          <li>For the first time /fɔːr ðə fɜːst taɪm/</li>
+          <li className="list-none">I'm seeing this movie ______.</li>
+          <li className="list-none">Tôi đang xem bộ phim này lần đầu tiên.</li>
 
         </ul>
       
@@ -149,8 +156,8 @@ export default function Again1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>The clock stopped working, but now it's started <strong>again</strong>.</li>
-          <li className="list-none">(Chiếc đồng hồ đã ngừng hoạt động, nhưng bây giờ nó đã bắt đầu lại.)</li>
+          <li>The clock stopped working, but now it's started ______.</li>
+          <li className="list-none">Chiếc đồng hồ đã ngừng hoạt động, nhưng bây giờ nó đã bắt đầu lại.</li>
 
         </ul>
 
@@ -169,8 +176,8 @@ export default function Again1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>The price of gas is going up <strong>again</strong>.</li>
-          <li className="list-none">(Giá xăng lại tăng lên rồi.)</li>
+          <li>The price of gas is going up ______.</li>
+          <li className="list-none">Giá xăng lại tăng lên rồi.</li>
 
         </ul>
 
@@ -185,17 +192,19 @@ export default function Again1(): React.JSX.Element {
         <strong>&nbsp;thường xuyên</strong>:
       </p>
 
-      <p className="text-indent-whole">Đọc và viết nhiều để củng cố vốn từ vựng và cách sử dụng của "<strong>again</strong>".</p>
+      <p className="text-indent-whole margin-bottom-20">Đọc và viết nhiều để củng cố vốn từ vựng và cách sử dụng của "<strong>again</strong>".</p>
 
         <p className="text-indent-whole">Ví dụ để so sánh (sự khác biệt giữa once more và <strong>again</strong>):</p>
 
           <ol>
 
             <li>Once more: Thường được dùng để nhấn mạnh sự lặp lại cuối cùng hoặc một nỗ lực cuối cùng.</li>
-            <li className="list-none margin-bottom-20">Let's try once more. (Chúng ta hãy thử thêm một lần nữa.)</li>
+            <li className="list-none">Let's try ______.</li>
+            <li className="list-none margin-bottom-20">Chúng ta hãy thử thêm một lần nữa.</li>
 
             <li value="2"><strong>Again</strong>: <span className="highlight-255-padding-0-4">Thường được dùng trong các tình huống thông thường</span>.</li>
-            <li className="list-none margin-bottom-20">Please repeat that <strong>again</strong>. (Làm ơn lặp lại điều đó.)</li>
+            <li className="list-none">Please repeat that ______.</li>
+            <li className="list-none margin-bottom-20">Làm ơn lặp lại điều đó.</li>
 
           </ol>
 
