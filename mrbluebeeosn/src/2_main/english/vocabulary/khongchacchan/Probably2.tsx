@@ -62,35 +62,45 @@ export default function Probably2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1"><strong>Probably</strong> the best: Có lẽ là tốt nhất /ˈprɒbəbli ðə bɛst/</li>
-        <li className="list-none margin-bottom-20">This is <strong>probably</strong> the best restaurant in town. (Đây có lẽ là nhà hàng ngon nhất trong thị trấn.)</li>
+        <li value="1">Probably <strong>the best</strong> /ðə bɛst/</li>
+        <li className="list-none">This is ______ restaurant in town.</li>
+        <li className="list-none margin-bottom-20">Đây có lẽ là nhà hàng ngon nhất trong thị trấn.</li>
 
-        <li value="2"><strong>Probably</strong> not: Có lẽ là không /ˈprɒbəbli nɒt/</li>
-        <li className="list-none margin-bottom-20">I <strong>probably</strong> won't be able to make it to the party. (Có lẽ tôi sẽ không đến được buổi tiệc.)</li>
+        <li value="2">Probably <strong>not</strong> /nɒt/</li>
+        <li className="list-none">I ______ will ______ be able to make it to the party.</li>
+        <li className="list-none margin-bottom-20">Có lẽ tôi sẽ không đến được buổi tiệc.</li>
 
-        <li value="3">Most <strong>probably</strong>: Rất có thể /məʊst ˈprɒbəbli/</li>
-        <li className="list-none margin-bottom-20">Most <strong>probably</strong>, she will arrive late. (Rất có thể cô ấy sẽ đến muộn.)</li>
+        <li value="3"><strong>Most</strong> probably /məʊst/</li>
+        <li className="list-none">______, she will arrive late.</li>
+        <li className="list-none margin-bottom-20">Rất có thể cô ấy sẽ đến muộn.</li>
 
-        <li value="4">Will <strong>probably</strong>: Sẽ có lẽ /wɪl ˈprɒbəbli/</li>
-        <li className="list-none margin-bottom-20">I will <strong>probably</strong> go to the movies tomorrow. (Tôi sẽ có lẽ đi xem phim vào ngày mai.)</li>
+        <li value="4"><strong>Will</strong> probably /wɪl/</li>
+        <li className="list-none">I ______ go to the movies tomorrow.</li>
+        <li className="list-none margin-bottom-20">Tôi sẽ có lẽ đi xem phim vào ngày mai.</li>
 
-        <li value="5"><strong>Probably</strong> due to: Có lẽ là do /ˈprɒbəbli djuː tuː/</li>
-        <li className="list-none margin-bottom-20">The delay was <strong>probably</strong> due to the traffic. (Sự chậm trễ có lẽ là do giao thông.)</li>
+        <li value="5">Probably <strong>due to</strong> /djuː tuː/</li>
+        <li className="list-none">The delay was ______ the traffic.</li>
+        <li className="list-none margin-bottom-20">Sự chậm trễ có lẽ là do giao thông.</li>
 
-        <li value="6">It is <strong>probably</strong>: Có lẽ là /ɪt ɪz ˈprɒbəbli/</li>
-        <li className="list-none margin-bottom-20">It is <strong>probably</strong> the best decision you can make. (Có lẽ đó là quyết định tốt nhất bạn có thể đưa ra.)</li>
+        <li value="6"><strong>It is</strong> probably /ɪt ɪz/</li>
+        <li className="list-none">______ the best decision you can make.</li>
+        <li className="list-none margin-bottom-20">Có lẽ đó là quyết định tốt nhất bạn có thể đưa ra.</li>
 
-        <li value="7"><strong>Probably</strong> the reason is: Có lẽ lý do là /ˈprɒbəbli ðə ˈriːzən ɪz/</li>
-        <li className="list-none margin-bottom-20"><strong>Probably</strong> the reason is that he's tired. (Có lẽ lý do là anh ấy mệt.)</li>
+        <li value="7">Probably <strong>the reason is</strong> /ðə ˈriːzən ɪz/</li>
+        <li className="list-none">______ that he's tired.</li>
+        <li className="list-none margin-bottom-20">Có lẽ lý do là anh ấy mệt.</li>
 
-        <li value="8"><strong>Probably</strong> the best way is: Có lẽ cách tốt nhất là /ˈprɒbəbli ðə bɛst weɪ ɪz/</li>
-        <li className="list-none margin-bottom-20"><strong>Probably</strong> the best way is to call him first. (Có lẽ cách tốt nhất là gọi điện cho anh ấy trước.)</li>
+        <li value="8">Probably <strong>the best way is</strong> /ðə bɛst weɪ ɪz/</li>
+        <li className="list-none">______ to call him first.</li>
+        <li className="list-none margin-bottom-20">Có lẽ cách tốt nhất là gọi điện cho anh ấy trước.</li>
 
-        <li value="9"><strong>Probably</strong> because: Có lẽ bởi vì /ˈprɒbəbli bɪˈkɒz/</li>
-        <li className="list-none margin-bottom-20">She's <strong>probably</strong> upset because he didn't call. (Cô ấy có lẽ buồn vì anh ấy không gọi điện.)</li>
+        <li value="9">Probably <strong>because</strong> /bɪˈkɒz/</li>
+        <li className="list-none">She's ______ upset ______ he didn't call.</li>
+        <li className="list-none margin-bottom-20">Cô ấy có lẽ buồn vì anh ấy không gọi điện.</li>
 
-        <li value="10"><strong>Probably</strong> the most: Có lẽ là nhất /ˈprɒbəbli ðə məʊst/</li>
-        <li className="list-none margin-bottom-20">This is <strong>probably</strong> the most difficult task I've ever had. (Đây có lẽ là nhiệm vụ khó khăn nhất mà tôi từng làm.)</li>
+        <li value="10">Probably <strong>the most</strong> /ðə məʊst/</li>
+        <li className="list-none">This is ______ difficult task I've ever had.</li>
+        <li className="list-none margin-bottom-20">Đây có lẽ là nhiệm vụ khó khăn nhất mà tôi từng làm.</li>
 
       </ol>
 

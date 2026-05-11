@@ -63,9 +63,11 @@ export default function Probably1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>I'll <strong>probably</strong> be home by 10. (Có lẽ tôi sẽ về nhà trước 10 giờ.)</li>
+          <li>I'll ______ be home by 10.</li>
+          <li className="margin-bottom-20 list-none">Có lẽ tôi sẽ về nhà trước 10 giờ.</li>
 
-          <li>She <strong>probably</strong> knows the answer. (Chắc hẳn cô ấy biết câu trả lời.)</li>
+          <li>She ______ knows the answer.</li>
+          <li className="list-none">Chắc hẳn cô ấy biết câu trả lời.</li>
 
         </ul>
 
@@ -81,11 +83,13 @@ export default function Probably1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Probable (adj): Có khả năng /ˈprɒbəbl/</li>
-          <li className="margin-bottom-20 list-none">It's probable that it will rain tomorrow. (Có khả năng trời sẽ mưa ngày mai.)</li>
+          <li>Probable (adj) /ˈprɒbəbl/</li>
+          <li className="list-none">It's ______ that it will rain tomorrow.</li>
+          <li className="margin-bottom-20 list-none">Có khả năng trời sẽ mưa ngày mai.</li>
 
-          <li>Probability (n): Xác suất /ˌprɒbəˈbɪləti/</li>
-          <li className="list-none">The probability of winning is low. (Xác suất chiến thắng rất thấp.)</li>
+          <li>Probability (n) /ˌprɒbəˈbɪləti/</li>
+          <li className="list-none">The ______ of winning is low.</li>
+          <li className="list-none">Xác suất chiến thắng rất thấp.</li>
 
         </ul>
 
@@ -101,11 +105,13 @@ export default function Probably1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Likely: Có khả năng /ˈlaɪkli/</li>
-          <li className="margin-bottom-20 list-none">It's likely to rain. (Có khả năng trời sẽ mưa.)</li>
+          <li>Likely /ˈlaɪkli/</li>
+          <li className="list-none">It's ______ to rain.</li>
+          <li className="margin-bottom-20 list-none">Có khả năng trời sẽ mưa.</li>
 
-          <li><Link to="/vocabulary/possibly-1">Possibly</Link>: Có thể /ˈpɒsəbli/</li>
-          <li className="list-none">It's possibly the best solution. (Có thể đây là giải pháp tốt nhất.)</li>
+          <li><Link to="/vocabulary/possibly-1">Possibly</Link> /ˈpɒsəbli/</li>
+          <li className="list-none">It's ______ the best solution.</li>
+          <li className="list-none">Có thể đây là giải pháp tốt nhất.</li>
 
         </ul>
 
@@ -123,11 +129,13 @@ export default function Probably1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li><Link to="/vocabulary/definitely-1">Definitely</Link>: Chắc chắn /ˈdefɪnətli/</li>
-          <li className="margin-bottom-20 list-none">I'm definitely going. (Tôi chắc chắn sẽ đi.)</li>
+          <li><Link to="/vocabulary/definitely-1">Definitely</Link> /ˈdefɪnətli/</li>
+          <li className="list-none">I'm ______ going.</li>
+          <li className="margin-bottom-20 list-none">Tôi chắc chắn sẽ đi.</li>
 
-          <li>Unlikely: Không có khả năng /ʌnˈlaɪkli/</li>
-          <li className="list-none">It's unlikely that he will come. (Không có khả năng anh ấy sẽ đến.)</li>
+          <li>Unlikely /ʌnˈlaɪkli/</li>
+          <li className="list-none">It's ______ that he will come.</li>
+          <li className="list-none">Không có khả năng anh ấy sẽ đến.</li>
 
         </ul>
       
@@ -152,8 +160,8 @@ export default function Probably1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>It will <strong>probably</strong> rain.</li>
-          <li className="list-none">(Có lẽ trời sẽ mưa.)</li>
+          <li>It will ______ rain.</li>
+          <li className="list-none">Có lẽ trời sẽ mưa.</li>
 
         </ul>
 
@@ -172,8 +180,8 @@ export default function Probably1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>I'll <strong>probably</strong> eat dinner at home tonight.</li>
-          <li className="list-none">(Có lẽ tối nay tôi sẽ ăn tối ở nhà.)</li>
+          <li>I'll ______ eat dinner at home tonight.</li>
+          <li className="list-none">Có lẽ tối nay tôi sẽ ăn tối ở nhà.</li>
 
         </ul>
 
@@ -188,15 +196,17 @@ export default function Probably1(): React.JSX.Element {
         <strong>&nbsp;thường xuyên</strong>:
       </p>
 
-      <p className="text-indent-whole">Thường xuyên sử dụng từ này trong các cuộc hội thoại hàng ngày.</p>
+      <p className="text-indent-whole margin-bottom-20">Thường xuyên sử dụng từ này trong các cuộc hội thoại hàng ngày.</p>
 
         <p className="text-indent-whole">Ví dụ để so sánh (sự khác biệt):</p>
 
           <ol>
 
-            <li>I might go to the party. (Có thể tôi sẽ đi dự tiệc.)</li>
+            <li>I might go to the party.</li>
+            <li className="list-none margin-bottom-20">Có thể tôi sẽ đi dự tiệc.</li>
 
-            <li className="margin-bottom-20">I'll <strong>probably</strong> go to the party. (Có lẽ tôi sẽ đi dự tiệc.)</li>
+            <li value="2">I'll ______ go to the party.</li>
+            <li className="list-none margin-bottom-20">Có lẽ tôi sẽ đi dự tiệc.</li>
 
           </ol>
 
