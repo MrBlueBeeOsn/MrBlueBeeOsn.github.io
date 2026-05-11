@@ -62,35 +62,45 @@ export default function Often2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1"><strong>Often</strong> do: Thường làm /ˈɒfən duː/</li>
-        <li className="list-none margin-bottom-20">I <strong>often</strong> do my homework in the evening. (Tôi thường làm bài tập về nhà vào buổi tối.)</li>
+        <li value="1">Often <strong>do</strong> /duː/</li>
+        <li className="list-none">I ______ my homework in the evening.</li>
+        <li className="list-none margin-bottom-20">Tôi thường làm bài tập về nhà vào buổi tối.</li>
 
-        <li value="2"><strong>Often</strong> go: Thường đi /ˈɒfən ɡəʊ/</li>
-        <li className="list-none margin-bottom-20">We <strong>often</strong> go to the beach on weekends. (Chúng tôi thường đi biển vào cuối tuần.)</li>
+        <li value="2">Often <strong>go</strong> /ɡəʊ/</li>
+        <li className="list-none">We ______ to the beach on weekends.</li>
+        <li className="list-none margin-bottom-20">Chúng tôi thường đi biển vào cuối tuần.</li>
 
-        <li value="3"><strong>Often</strong> eat: Thường ăn /ˈɒfən iːt/</li>
-        <li className="list-none margin-bottom-20">She <strong>often</strong> eats fruits for breakfast. (Cô ấy thường ăn trái cây vào bữa sáng.)</li>
+        <li value="3">Often <strong>eats</strong> /iːts/</li>
+        <li className="list-none">She ______ fruits for breakfast.</li>
+        <li className="list-none margin-bottom-20">Cô ấy thường ăn trái cây vào bữa sáng.</li>
 
-        <li value="4"><strong>Often</strong> read: Thường đọc /ˈɒfən riːd/</li>
-        <li className="list-none margin-bottom-20">He <strong>often</strong> reads books before going to bed. (Anh ấy thường đọc sách trước khi đi ngủ.)</li>
+        <li value="4">Often <strong>reads</strong> /riːdz/</li>
+        <li className="list-none">He ______ books before going to bed.</li>
+        <li className="list-none margin-bottom-20">Anh ấy thường đọc sách trước khi đi ngủ.</li>
 
-        <li value="5"><strong>Often</strong> play: Thường chơi /ˈɒfən pleɪ/</li>
-        <li className="list-none margin-bottom-20">Children <strong>often</strong> play outside after school. (Trẻ em thường chơi ngoài trời sau giờ học.)</li>
+        <li value="5">Often <strong>play</strong> /pleɪ/</li>
+        <li className="list-none">Children ______ outside after school.</li>
+        <li className="list-none margin-bottom-20">Trẻ em thường chơi ngoài trời sau giờ học.</li>
 
-        <li value="6">Not <strong>often</strong> but sometimes: Không thường xuyên nhưng thỉnh thoảng /nɒt ˈɒfən bət ˈsʌmtaɪmz/</li>
-        <li className="list-none margin-bottom-20">I don't <strong>often</strong> watch TV, but sometimes I do. (Tôi không thường xuyên xem TV, nhưng thỉnh thoảng tôi cũng xem.)</li>
+        <li value="6"><strong>Not</strong> often <strong>but sometimes</strong> /nɒt bət ˈsʌmtaɪmz/</li>
+        <li className="list-none">I do ______ watch TV, ______ I do.</li>
+        <li className="list-none margin-bottom-20">Tôi không thường xuyên xem TV, nhưng thỉnh thoảng tôi cũng xem.</li>
 
-        <li value="7"><strong>Often</strong> in the morning: Thường vào buổi sáng /ˈɒfən ɪn ðə ˈmɔːnɪŋ/</li>
-        <li className="list-none margin-bottom-20">I <strong>often</strong> drink coffee in the morning. (Tôi thường uống cà phê vào buổi sáng.)</li>
+        <li value="7">Often <strong>in the morning</strong> /ɪn ðə ˈmɔːnɪŋ/</li>
+        <li className="list-none">I ______ drink coffee ______.</li>
+        <li className="list-none margin-bottom-20">Tôi thường uống cà phê vào buổi sáng.</li>
 
-        <li value="8"><strong>Often</strong> at night: Thường vào ban đêm /ˈɒfən ət naɪt/</li>
-        <li className="list-none margin-bottom-20">He <strong>often</strong> works late at night. (Anh ấy thường làm việc muộn vào ban đêm.)</li>
+        <li value="8">Often <strong>at night</strong> /ət naɪt/</li>
+        <li className="list-none">He ______ works late ______.</li>
+        <li className="list-none margin-bottom-20">Anh ấy thường làm việc muộn vào ban đêm.</li>
 
-        <li value="9"><strong>Often</strong> on weekends: Thường vào cuối tuần /ˈɒfən ɒn ˈwiːkɛndz/</li>
-        <li className="list-none margin-bottom-20">We <strong>often</strong> go shopping on weekends. (Chúng tôi thường đi mua sắm vào cuối tuần.)</li>
+        <li value="9">Often <strong>on weekends</strong> /ɒn ˈwiːkɛndz/</li>
+        <li className="list-none">We ______ go shopping ______.</li>
+        <li className="list-none margin-bottom-20">Chúng tôi thường đi mua sắm vào cuối tuần.</li>
 
-        <li value="10"><strong>Often</strong> when I...: Thường khi tôi... /ˈɒfən wen aɪ/</li>
-        <li className="list-none margin-bottom-20"><strong>Often</strong> when I feel stressed, I listen to music. (Thường khi tôi cảm thấy căng thẳng, tôi nghe nhạc.)</li>
+        <li value="10">Often <strong>when I...</strong> /wen aɪ/</li>
+        <li className="list-none">______ feel stressed, I listen to music.</li>
+        <li className="list-none margin-bottom-20">Thường khi tôi cảm thấy căng thẳng, tôi nghe nhạc.</li>
 
       </ol>
 

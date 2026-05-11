@@ -63,9 +63,11 @@ export default function Often1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>I <strong>often</strong> go to the gym. (Tôi thường đi tập gym.)</li>
+          <li>I ______ go to the gym.</li>
+          <li className="margin-bottom-20 list-none">Tôi thường đi tập gym.</li>
 
-          <li>She <strong>often</strong> forgets her keys. (Cô ấy thường quên chìa khóa.)</li>
+          <li>She ______ forgets her keys.</li>
+          <li className="list-none">Cô ấy thường quên chìa khóa.</li>
 
         </ul>
 
@@ -97,11 +99,13 @@ export default function Often1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li><Link to="/vocabulary/frequently-1">Frequently</Link>: (adv) /ˈfriː.kwənt.li/ - Thường xuyên</li>
-          <li className="margin-bottom-20 list-none">She frequently visits her grandparents. (Cô ấy thường xuyên thăm ông bà.)</li>
+          <li><Link to="/vocabulary/frequently-1">Frequently</Link> (adv) /ˈfriː.kwənt.li/</li>
+          <li className="list-none">She ______ visits her grandparents.</li>
+          <li className="margin-bottom-20 list-none">Cô ấy thường xuyên thăm ông bà.</li>
 
-          <li>Regularly: (adv) /ˈreg.jʊ.lər.li/ - Đều đặn</li>
-          <li className="list-none">They exercise regularly. (Họ tập thể dục đều đặn.)</li>
+          <li>Regularly (adv) /ˈreg.jʊ.lər.li/</li>
+          <li className="list-none">They exercise ______.</li>
+          <li className="list-none">Họ tập thể dục đều đặn.</li>
 
         </ul>
 
@@ -119,11 +123,13 @@ export default function Often1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li><Link to="/vocabulary/rarely-1">Rarely</Link>: (adv) /ˈreər.li/ - Hiếm khi</li>
-          <li className="margin-bottom-20 list-none">I rarely eat fast food. (Tôi hiếm khi ăn đồ ăn nhanh.)</li>
+          <li><Link to="/vocabulary/rarely-1">Rarely</Link> (adv) /ˈreər.li/</li>
+          <li className="list-none">I ______ eat fast food.</li>
+          <li className="margin-bottom-20 list-none">Tôi hiếm khi ăn đồ ăn nhanh.</li>
 
-          <li><Link to="/vocabulary/never-1">Never</Link>: (adv) /ˈnev.ər/ - Không bao giờ</li>
-          <li className="list-none">She never lies. (Cô ấy không bao giờ nói dối.)</li>
+          <li><Link to="/vocabulary/never-1">Never</Link> (adv) /ˈnev.ər/</li>
+          <li className="list-none">She ______ lies.</li>
+          <li className="list-none">Cô ấy không bao giờ nói dối.</li>
 
         </ul>
       
@@ -148,8 +154,8 @@ export default function Often1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Every time the clock strikes twelve, I <strong>often</strong> take a break from work.</li>
-          <li className="list-none">(Mỗi khi đồng hồ điểm 12 giờ, tôi thường nghỉ giải lao.)</li>
+          <li>Every time the clock strikes twelve, I ______ take a break from work.</li>
+          <li className="list-none">Mỗi khi đồng hồ điểm 12 giờ, tôi thường nghỉ giải lao.</li>
 
         </ul>
 
@@ -168,8 +174,8 @@ export default function Often1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>She <strong>often</strong> reads books before going to bed.</li>
-          <li className="list-none">(Cô ấy thường đọc sách trước khi đi ngủ.)</li>
+          <li>She ______ reads books before going to bed.</li>
+          <li className="list-none">Cô ấy thường đọc sách trước khi đi ngủ.</li>
 
         </ul>
 
@@ -184,27 +190,21 @@ export default function Often1(): React.JSX.Element {
         <strong>&nbsp;thường xuyên</strong>:
       </p>
 
-      <p className="text-indent-whole">Thường xuyên sử dụng từ "<strong>often</strong>" trong giao tiếp hoặc khi viết.</p>
+      <p className="text-indent-whole margin-bottom-20">Thường xuyên sử dụng từ "<strong>often</strong>" trong giao tiếp hoặc khi viết.</p>
 
         <p className="text-indent-whole">Ví dụ để so sánh (sự khác biệt giữa frequently  và <strong>often</strong>):</p>
 
           <ol>
 
             <li><Link to="/vocabulary/frequently-1">Frequently</Link>: Cách nói trang trọng hơn, nhấn mạnh tính thường xuyên.</li>
-            <li className="list-none margin-bottom-20">She frequently attends conferences. (Cô ấy thường xuyên tham dự hội nghị.)</li>
+            <li className="list-none">She ______ attends conferences.</li>
+            <li className="list-none margin-bottom-20">Cô ấy thường xuyên tham dự hội nghị.</li>
 
             <li value="2"><span className="highlight-255-padding-0-4"><strong>Often</strong>: Cách nói thông thường</span>, dùng trong nhiều tình huống.</li>
-            <li className="list-none margin-bottom-20">I <strong>often</strong> go to the park. (Tôi thường đi công viên.)</li>
+            <li className="list-none">I ______ go to the park.</li>
+            <li className="list-none margin-bottom-20">Tôi thường đi công viên.</li>
 
           </ol>
-
-      {/* <div className="margin-bottom-20 padding-top-20 text-border1 padding-10 highlight-238-padding-4-8 bee-container"> */}
-
-        {/* <p className="margin-y-10">Sự khác biệt: </p> */}
-
-        {/* <span className="highlight-255-padding-0-4"></span> */}
-
-      {/* </div> */}
 
       {/* =============================
             Lưu ý:
