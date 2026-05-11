@@ -63,9 +63,11 @@ export default function Apparently1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li><strong>Apparently</strong>, it's going to rain tomorrow. (Hình như mai trời sẽ mưa.)</li>
+          <li>______, it's going to rain tomorrow.</li>
+          <li className="margin-bottom-20 list-none">Hình như mai trời sẽ mưa.</li>
 
-          <li><strong>Apparently</strong>, she's moving to a new city. (Hình như cô ấy sẽ chuyển đến thành phố mới.)</li>
+          <li>______, she's moving to a new city.</li>
+          <li className="list-none">Hình như cô ấy sẽ chuyển đến thành phố mới.</li>
 
         </ul>
 
@@ -81,8 +83,9 @@ export default function Apparently1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Apparent (adj): Rõ ràng, hiển nhiên /əˈpærənt/</li>
-          <li className="list-none">It's apparent that she's tired. (Rõ ràng là cô ấy mệt mỏi.)</li>
+          <li>Apparent (adj) /əˈpærənt/</li>
+          <li className="list-none">It's ______ that she's tired.</li>
+          <li className="list-none">Rõ ràng là cô ấy mệt mỏi.</li>
 
         </ul>
 
@@ -98,11 +101,13 @@ export default function Apparently1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Seemingly: Có vẻ như /ˈsiːmɪŋli/</li>
-          <li className="margin-bottom-20 list-none">Seemingly, he's happy with his new job. (Có vẻ như anh ấy hài lòng với công việc mới.)</li>
+          <li>Seemingly /ˈsiːmɪŋli/</li>
+          <li className="list-none">______, he's happy with his new job.</li>
+          <li className="margin-bottom-20 list-none">Có vẻ như anh ấy hài lòng với công việc mới.</li>
 
-          <li>Evidently: Rõ ràng /ˈevɪdəntli/</li>
-          <li className="list-none">Evidently, she's been studying hard. (Rõ ràng là cô ấy đã học rất chăm chỉ.)</li>
+          <li>Evidently /ˈevɪdəntli/</li>
+          <li className="list-none">______, she's been studying hard.</li>
+          <li className="list-none">Rõ ràng là cô ấy đã học rất chăm chỉ.</li>
 
         </ul>
 
@@ -120,11 +125,13 @@ export default function Apparently1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Uncertainly: Một cách không chắc chắn /ʌnˈsɜːrtnli/</li>
-          <li className="margin-bottom-20 list-none">I'm uncertain about his plans. (Tôi không chắc chắn về kế hoạch của anh ấy.)</li>
+          <li>Uncertainly /ʌnˈsɜːrtnli/</li>
+          <li className="list-none">I looked ______ at his plans.</li>
+          <li className="margin-bottom-20 list-none">Tôi nhìn vào những kế hoạch của anh ấy một cách đầy vẻ không chắc chắn.</li>
 
-          <li>Doubtfully: Một cách nghi ngờ /ˈdaʊtfəli/</li>
-          <li className="list-none">He looked at me doubtfully. (Anh ấy nhìn tôi một cách nghi ngờ.)</li>
+          <li>Doubtfully /ˈdaʊtfəli/</li>
+          <li className="list-none">He looked at me ______.</li>
+          <li className="list-none">Anh ấy nhìn tôi một cách nghi ngờ.</li>
 
         </ul>
       
@@ -149,8 +156,8 @@ export default function Apparently1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li><strong>Apparently</strong>, he's really into that article.</li>
-          <li className="list-none">(Hình như anh ấy rất thích bài báo đó.)</li>
+          <li>______, he's really into that article.</li>
+          <li className="list-none">Hình như anh ấy rất thích bài báo đó.</li>
 
         </ul>
 
@@ -169,8 +176,8 @@ export default function Apparently1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li><strong>Apparently</strong>, he quit his job last week.</li>
-          <li className="list-none">(Hình như anh ấy đã nghỉ việc tuần trước.)</li>
+          <li>______, he quit his job last week.</li>
+          <li className="list-none">Hình như anh ấy đã nghỉ việc tuần trước.</li>
 
         </ul>
 
@@ -185,15 +192,17 @@ export default function Apparently1(): React.JSX.Element {
         <strong>&nbsp;thường xuyên</strong>:
       </p>
 
-      <p className="text-indent-whole">Thường xuyên sử dụng từ này trong các cuộc hội thoại hoặc bài viết.</p>
+      <p className="text-indent-whole margin-bottom-20">Thường xuyên sử dụng từ này trong các cuộc hội thoại hoặc bài viết.</p>
 
         <p className="text-indent-whole">Ví dụ để so sánh (sự khác biệt):</p>
 
           <ol>
 
-            <li>She knows the answer. (Cô ấy biết câu trả lời.)</li>
+            <li>She knows the answer.</li>
+            <li className="list-none margin-bottom-20">Cô ấy biết câu trả lời.</li>
 
-            <li className="margin-bottom-20"><strong>Apparently</strong>, she knows the answer. (Hình như cô ấy biết câu trả lời.)</li>
+            <li value="2">______, she knows the answer.</li>
+            <li className="list-none margin-bottom-20">Hình như cô ấy biết câu trả lời.</li>
 
           </ol>
 

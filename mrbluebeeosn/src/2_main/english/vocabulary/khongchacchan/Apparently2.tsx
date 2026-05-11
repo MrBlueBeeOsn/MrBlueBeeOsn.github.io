@@ -62,35 +62,45 @@ export default function Apparently2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1"><strong>Apparently</strong> impossible: Dường như không thể /əˈpærəntlɪ ɪmˈpɒsəbl/</li>
-        <li className="list-none margin-bottom-20">The task seemed <strong>apparently</strong> impossible, but he managed to complete it. (Công việc đó dường như không thể, nhưng anh ấy đã hoàn thành nó.)</li>
+        <li value="1">Apparently <strong>impossible</strong> /ɪmˈpɒsəbl/</li>
+        <li className="list-none">The task seemed ______, but he managed to complete it.</li>
+        <li className="list-none margin-bottom-20">Công việc đó dường như không thể, nhưng anh ấy đã hoàn thành nó.</li>
 
-        <li value="2"><strong>Apparently</strong> true: Dường như đúng /əˈpærəntlɪ truː/</li>
-        <li className="list-none margin-bottom-20"><strong>Apparently</strong> true, she is leaving the company next week. (Dường như là đúng, cô ấy sẽ rời công ty vào tuần tới.)</li>
+        <li value="2">Apparently <strong>true</strong> /truː/</li>
+        <li className="list-none">______, she is leaving the company next week.</li>
+        <li className="list-none margin-bottom-20">Dường như là đúng, cô ấy sẽ rời công ty vào tuần tới.</li>
 
-        <li value="3"><strong>Apparently</strong> random: Dường như ngẫu nhiên /əˈpærəntlɪ ˈrændəm/</li>
-        <li className="list-none margin-bottom-20">The numbers appeared to be <strong>apparently</strong> random, but there was a pattern. (Những con số dường như ngẫu nhiên, nhưng có một quy luật.)</li>
+        <li value="3">Apparently <strong>random</strong> /ˈrændəm/</li>
+        <li className="list-none">The numbers appeared to be ______, but there was a pattern.</li>
+        <li className="list-none margin-bottom-20">Những con số dường như ngẫu nhiên, nhưng có một quy luật.</li>
 
-        <li value="4"><strong>Apparently</strong> harmless: Dường như vô hại /əˈpærəntlɪ ˈhɑːmləs/</li>
-        <li className="list-none margin-bottom-20">The snake looked <strong>apparently</strong> harmless, but it was poisonous. (Con rắn trông dường như vô hại, nhưng nó lại độc.)</li>
+        <li value="4">Apparently <strong>harmless</strong> /ˈhɑːmləs/</li>
+        <li className="list-none">The snake looked ______, but it was poisonous.</li>
+        <li className="list-none margin-bottom-20">Con rắn trông dường như vô hại, nhưng nó lại độc.</li>
 
-        <li value="5"><strong>Apparently</strong> simple: Dường như đơn giản /əˈpærəntlɪ ˈsɪmpl/</li>
-        <li className="list-none margin-bottom-20">The problem seemed <strong>apparently</strong> simple, but it was actually very complex. (Vấn đề dường như đơn giản, nhưng thực ra rất phức tạp.)</li>
+        <li value="5">Apparently <strong>simple</strong> /ˈsɪmpl/</li>
+        <li className="list-none">The problem seemed ______, but it was actually very complex.</li>
+        <li className="list-none margin-bottom-20">Vấn đề dường như đơn giản, nhưng thực ra rất phức tạp.</li>
 
-        <li value="6"><strong>Apparently</strong> unrelated: Dường như không liên quan /əˈpærəntlɪ ʌnˈrɪleɪtɪd/</li>
-        <li className="list-none margin-bottom-20">The two events seemed <strong>apparently</strong> unrelated, but they were connected. (Hai sự kiện dường như không liên quan, nhưng chúng lại có mối liên hệ với nhau.)</li>
+        <li value="6">Apparently <strong>unrelated</strong> /ʌnˈrɪleɪtɪd/</li>
+        <li className="list-none">The two events seemed ______, but they were connected.</li>
+        <li className="list-none margin-bottom-20">Hai sự kiện dường như không liên quan, nhưng chúng lại có mối liên hệ với nhau.</li>
 
-        <li value="7"><strong>Apparently</strong> satisfied: Dường như hài lòng /əˈpærəntlɪ ˈsætɪsfaɪd/</li>
-        <li className="list-none margin-bottom-20">She nodded, <strong>apparently</strong> satisfied with his answer. (Cô ấy gật đầu, dường như hài lòng với câu trả lời của anh ấy.)</li>
+        <li value="7">Apparently <strong>satisfied</strong> /ˈsætɪsfaɪd/</li>
+        <li className="list-none">She nodded, ______ with his answer.</li>
+        <li className="list-none margin-bottom-20">Cô ấy gật đầu, dường như hài lòng với câu trả lời của anh ấy.</li>
 
-        <li value="8"><strong>Apparently</strong> confused: Dường như bối rối /əˈpærəntlɪ kənˈfjuːzd/</li>
-        <li className="list-none margin-bottom-20">He looked around, <strong>apparently</strong> confused. (Anh ta nhìn xung quanh, dường như đang bối rối.)</li>
+        <li value="8">Apparently <strong>confused</strong> /kənˈfjuːzd/</li>
+        <li className="list-none">He looked around, ______.</li>
+        <li className="list-none margin-bottom-20">Anh ta nhìn xung quanh, dường như đang bối rối.</li>
 
-        <li value="9"><strong>Apparently</strong> forgotten: Dường như đã quên /əˈpærəntlɪ fəˈɡɒtən/</li>
-        <li className="list-none margin-bottom-20">The book was <strong>apparently</strong> forgotten on the train. (Cuốn sách dường như đã bị quên trên tàu.)</li>
+        <li value="9">Apparently <strong>forgotten</strong> /fəˈɡɒtən/</li>
+        <li className="list-none">The book was ______ on the train.</li>
+        <li className="list-none margin-bottom-20">Cuốn sách dường như đã bị quên trên tàu.</li>
 
-        <li value="10"><strong>Apparently</strong> aware: Dường như nhận thức được /əˈpærəntlɪ əˈwer/</li>
-        <li className="list-none margin-bottom-20">She smiled, <strong>apparently</strong> aware of his feelings. (Cô ấy mỉm cười, dường như nhận thức được cảm xúc của anh ấy.)</li>
+        <li value="10">Apparently <strong>aware</strong> /əˈwer/</li>
+        <li className="list-none">She smiled, ______ of his feelings.</li>
+        <li className="list-none margin-bottom-20">Cô ấy mỉm cười, dường như nhận thức được cảm xúc của anh ấy.</li>
 
       </ol>
 
