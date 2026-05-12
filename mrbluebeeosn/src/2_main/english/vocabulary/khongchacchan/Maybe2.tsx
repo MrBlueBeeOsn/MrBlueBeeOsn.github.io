@@ -62,35 +62,45 @@ export default function Maybe2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1"><strong>Maybe</strong> later: Có lẽ sau này /ˈmeɪbi ˈleɪtər/</li>
-        <li className="list-none margin-bottom-20">Let's meet up for coffee <strong>maybe</strong> later. (Chúng ta có thể gặp nhau uống cà phê sau nhé.)</li>
+        <li value="1">Maybe <strong>later</strong> /ˈleɪtər/</li>
+        <li className="list-none">Let's meet up for coffee ______.</li>
+        <li className="list-none margin-bottom-20">Chúng ta có thể gặp nhau uống cà phê sau nhé.</li>
 
-        <li value="2"><strong>Maybe</strong> not: Có lẽ không /ˈmeɪbi nɒt/</li>
-        <li className="list-none margin-bottom-20">I'm not sure if I can make it. <strong>Maybe</strong> not. (Tôi không chắc liệu tôi có đến được không. Có lẽ là không.)</li>
+        <li value="2">Maybe <strong>not</strong> /nɒt/</li>
+        <li className="list-none">I'm not sure if I can make it. ______.</li>
+        <li className="list-none margin-bottom-20">Tôi không chắc liệu tôi có đến được không. Có lẽ là không.</li>
 
-        <li value="3"><strong>Maybe</strong> so: Có lẽ vậy /ˈmeɪbi səʊ/</li>
-        <li className="list-none margin-bottom-20">You're right. <strong>Maybe</strong> so. (Bạn đúng rồi. Có lẽ vậy.)</li>
+        <li value="3">Maybe <strong>so</strong> /səʊ/</li>
+        <li className="list-none">You're right. ______.</li>
+        <li className="list-none margin-bottom-20">Bạn đúng rồi. Có lẽ vậy.</li>
 
-        <li value="4"><strong>Maybe</strong> if: Có lẽ nếu /ˈmeɪbi ɪf/</li>
-        <li className="list-none margin-bottom-20"><strong>Maybe</strong> if I study harder, I can pass the exam. (Có lẽ nếu tôi học chăm chỉ hơn, tôi có thể vượt qua kỳ thi.)</li>
+        <li value="4">Maybe <strong>if</strong> /ɪf/</li>
+        <li className="list-none">______ I study harder, I can pass the exam.</li>
+        <li className="list-none margin-bottom-20">Có lẽ nếu tôi học chăm chỉ hơn, tôi có thể vượt qua kỳ thi.</li>
 
-        <li value="5">Or <strong>maybe</strong>: Hoặc có lẽ /ɔːr ˈmeɪbi/</li>
-        <li className="list-none margin-bottom-20">I don't know what to do. Should I stay or <strong>maybe</strong> go? (Tôi không biết phải làm gì. Tôi nên ở lại hay có lẽ nên đi?)</li>
+        <li value="5"><strong>Or</strong> maybe /ɔːr/</li>
+        <li className="list-none">I don't know what to do. Should I stay ______ go?</li>
+        <li className="list-none margin-bottom-20">Tôi không biết phải làm gì. Tôi nên ở lại hay có lẽ nên đi?</li>
 
-        <li value="6">Just <strong>maybe</strong>: Có lẽ chỉ là /dʒʌst ˈmeɪbi/</li>
-        <li className="list-none margin-bottom-20">Just <strong>maybe</strong>, he'll change his mind. (Có lẽ chỉ là anh ấy sẽ thay đổi ý kiến.)</li>
+        <li value="6"><strong>Just</strong> maybe /dʒʌst/</li>
+        <li className="list-none">______, he'll change his mind.</li>
+        <li className="list-none margin-bottom-20">Có lẽ chỉ là anh ấy sẽ thay đổi ý kiến.</li>
 
-        <li value="7"><strong>Maybe</strong> someday: Có lẽ một ngày nào đó /ˈmeɪbi ˈsʌmdeɪ/</li>
-        <li className="list-none margin-bottom-20"><strong>Maybe</strong> someday I'll visit Japan. (Có lẽ một ngày nào đó tôi sẽ đến Nhật Bản.)</li>
+        <li value="7">Maybe <strong>someday</strong> /ˈsʌmdeɪ/</li>
+        <li className="list-none">______ I'll visit Japan.</li>
+        <li className="list-none margin-bottom-20">Có lẽ một ngày nào đó tôi sẽ đến Nhật Bản.</li>
 
-        <li value="8"><strong>Maybe</strong> it's because: Có lẽ là vì /ˈmeɪbi ɪts bɪˈkɒz/</li>
-        <li className="list-none margin-bottom-20"><strong>Maybe</strong> it's because I'm tired. (Có lẽ là vì tôi mệt mỏi.)</li>
+        <li value="8">Maybe <strong>it's because</strong> /ɪts bɪˈkɒz/</li>
+        <li className="list-none">______ I'm tired.</li>
+        <li className="list-none margin-bottom-20">Có lẽ là vì tôi mệt mỏi.</li>
 
-        <li value="9">I'm not sure, <strong>maybe</strong>: Tôi không chắc, có lẽ /aɪm nɒt ʃʊər ˈmeɪbi/</li>
-        <li className="list-none margin-bottom-20">I'm not sure, <strong>maybe</strong> we should leave now. (Tôi không chắc, có lẽ chúng ta nên đi bây giờ.)</li>
+        <li value="9"><strong>I'm not sure</strong>, maybe /aɪm nɒt ʃʊər/</li>
+        <li className="list-none">______ we should leave now.</li>
+        <li className="list-none margin-bottom-20">Tôi không chắc, có lẽ chúng ta nên đi bây giờ.</li>
 
-        <li value="10">I think <strong>maybe</strong>: Tôi nghĩ có lẽ /aɪ θɪŋk ˈmeɪbi/</li>
-        <li className="list-none margin-bottom-20">I think <strong>maybe</strong> she's upset. (Tôi nghĩ có lẽ cô ấy đang buồn.)</li>
+        <li value="10"><strong>I think</strong> maybe /aɪ θɪŋk/</li>
+        <li className="list-none">______ she's upset.</li>
+        <li className="list-none margin-bottom-20">Tôi nghĩ có lẽ cô ấy đang buồn.</li>
 
       </ol>
 

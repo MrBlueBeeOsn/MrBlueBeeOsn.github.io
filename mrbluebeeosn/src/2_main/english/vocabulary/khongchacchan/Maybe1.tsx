@@ -63,9 +63,11 @@ export default function Maybe1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li><strong>Maybe</strong> it will rain tomorrow. (Có lẽ trời sẽ mưa vào ngày mai.)</li>
+          <li>______ it will rain tomorrow.</li>
+          <li className="margin-bottom-20 list-none">Có lẽ trời sẽ mưa vào ngày mai.</li>
 
-          <li><strong>Maybe</strong> you should call her. (Có lẽ bạn nên gọi cho cô ấy.)</li>
+          <li>______ you should call her.</li>
+          <li className="list-none">Có lẽ bạn nên gọi cho cô ấy.</li>
 
         </ul>
 
@@ -97,11 +99,13 @@ export default function Maybe1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li><Link to="/vocabulary/perhaps-1">Perhaps</Link>: (adv) /pərˈhæps/ - có lẽ</li>
-          <li className="margin-bottom-20 list-none">Perhaps we can meet later. (Có lẽ chúng ta có thể gặp nhau sau.)</li>
+          <li><Link to="/vocabulary/perhaps-1">Perhaps</Link> (adv) /pərˈhæps/</li>
+          <li className="list-none">______ we can meet later.</li>
+          <li className="margin-bottom-20 list-none">Có lẽ chúng ta có thể gặp nhau sau.</li>
 
-          <li><Link to="/vocabulary/possibly-1">Possibly</Link>: (adv) /ˈpɑː.sə.bli/ - có thể</li>
-          <li className="list-none">It's possibly the best day of my life. (Có thể đây là ngày tuyệt vời nhất trong đời tôi.)</li>
+          <li><Link to="/vocabulary/possibly-1">Possibly</Link> /ˈpɑː.sə.bli/</li>
+          <li className="list-none">It's ______ the best day of my life.</li>
+          <li className="list-none">Có thể đây là ngày tuyệt vời nhất trong đời tôi.</li>
 
         </ul>
 
@@ -119,11 +123,13 @@ export default function Maybe1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li><Link to="/vocabulary/definitely-1">Definitely</Link>: (adv) /ˈdef.ən.ət.li/ - chắc chắn</li>
-          <li className="margin-bottom-20 list-none">I definitely want to go. (Tôi chắc chắn muốn đi.)</li>
+          <li><Link to="/vocabulary/definitely-1">Definitely</Link> /ˈdef.ən.ət.li/</li>
+          <li className="list-none">I ______ want to go.</li>
+          <li className="margin-bottom-20 list-none">Tôi chắc chắn muốn đi.</li>
 
-          <li>Certainly: (adv) /ˈsɜːr.tən.li/ - chắc chắn</li>
-          <li className="list-none">Certainly, you can borrow my book. (Chắc chắn rồi, bạn có thể mượn sách của tôi.)</li>
+          <li>Certainly /ˈsɜːr.tən.li/</li>
+          <li className="list-none">______, you can borrow my book.</li>
+          <li className="list-none">Chắc chắn rồi, bạn có thể mượn sách của tôi.</li>
 
         </ul>
       
@@ -148,8 +154,8 @@ export default function Maybe1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li><strong>Maybe</strong> you know the answer?</li>
-          <li className="list-none">(Có lẽ bạn biết câu trả lời?)</li>
+          <li>______ you know the answer?</li>
+          <li className="list-none">Có lẽ bạn biết câu trả lời?</li>
 
         </ul>
 
@@ -168,8 +174,8 @@ export default function Maybe1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>I'm not sure, <strong>maybe</strong> I'll go to the party.</li>
-          <li className="list-none">(Tôi không chắc, có lẽ tôi sẽ đến bữa tiệc.)</li>
+          <li>I'm not sure, ______ I'll go to the party.</li>
+          <li className="list-none">Tôi không chắc, có lẽ tôi sẽ đến bữa tiệc.</li>
 
         </ul>
 
@@ -184,17 +190,19 @@ export default function Maybe1(): React.JSX.Element {
         <strong>&nbsp;thường xuyên</strong>:
       </p>
 
-      <p className="text-indent-whole">Thường xuyên sử dụng "<strong>maybe</strong>" trong giao tiếp hàng ngày.</p>
+      <p className="text-indent-whole margin-bottom-20">Thường xuyên sử dụng "<strong>maybe</strong>" trong giao tiếp hàng ngày.</p>
 
         <p className="text-indent-whole">Ví dụ để so sánh (sự khác biệt giữa perhaps và <strong>maybe</strong>):</p>
 
           <ol>
 
             <li><Link to="/vocabulary/perhaps-1">Perhaps</Link>: Cách nói lịch sự hơn, thường dùng trong văn viết hoặc các tình huống trang trọng.</li>
-            <li className="list-none margin-bottom-20">Perhaps you could help me with this problem. (Có lẽ anh/chị có thể giúp tôi giải quyết vấn đề này.)</li>
+            <li className="list-none">______ you could help me with this problem.</li>
+            <li className="list-none margin-bottom-20">Có lẽ anh/chị có thể giúp tôi giải quyết vấn đề này.</li>
 
             <li value="2"><strong>Maybe</strong>: Cách nói thông thường, <span className="highlight-255-padding-0-4">thường dùng trong giao tiếp hàng ngày</span>.</li>
-            <li className="list-none margin-bottom-20"><strong>Maybe</strong> we can go to the movies tonight. (Có lẽ tối nay chúng ta có thể đi xem phim.)</li>
+            <li className="list-none">______ we can go to the movies tonight.</li>
+            <li className="list-none margin-bottom-20">Có lẽ tối nay chúng ta có thể đi xem phim.</li>
 
           </ol>
 
