@@ -63,9 +63,11 @@ export default function Greatly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>I <strong>greatly</strong> appreciate your help. (Tôi rất cảm ơn sự giúp đỡ của bạn.)</li>
+          <li>I ______ appreciate your help.</li>
+          <li className="margin-bottom-20 list-none">Tôi rất cảm ơn sự giúp đỡ của bạn.</li>
 
-          <li>The price of housing has <strong>greatly</strong> increased. (Giá nhà đã tăng rất nhiều.)</li>
+          <li>The price of housing has ______ increased.</li>
+          <li className="list-none">Giá nhà đã tăng rất nhiều.</li>
 
         </ul>
 
@@ -81,8 +83,9 @@ export default function Greatly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Great (adj): Vĩ đại, tuyệt vời /ɡreɪt/</li>
-          <li className="list-none">She is a great singer. (Cô ấy là một ca sĩ tuyệt vời.)</li>
+          <li>Great (adj) /ɡreɪt/</li>
+          <li className="list-none">She is a ______ singer.</li>
+          <li className="list-none">Cô ấy là một ca sĩ tuyệt vời.</li>
 
         </ul>
 
@@ -98,11 +101,13 @@ export default function Greatly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Significantly: Một cách đáng kể /sɪɡˈnɪfɪkəntli/</li>
-          <li className="margin-bottom-20 list-none">The results were significantly different. (Kết quả khác biệt đáng kể.)</li>
+          <li>Significantly /sɪɡˈnɪfɪkəntli/</li>
+          <li className="list-none">The results were ______ different.</li>
+          <li className="margin-bottom-20 list-none">Kết quả khác biệt đáng kể.</li>
 
-          <li>Considerably: Một cách đáng kể /kənˈsɪdərəbli/</li>
-          <li className="list-none">The task was considerably more difficult than expected. (Nhiệm vụ khó hơn nhiều so với dự kiến.)</li>
+          <li>Considerably /kənˈsɪdərəbli/</li>
+          <li className="list-none">The task was ______ more difficult than expected.</li>
+          <li className="list-none">Nhiệm vụ khó hơn nhiều so với dự kiến.</li>
 
         </ul>
 
@@ -120,11 +125,13 @@ export default function Greatly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Slightly: Một chút /ˈslaɪtli/</li>
-          <li className="margin-bottom-20 list-none">The temperature has slightly increased. (Nhiệt độ đã tăng nhẹ.)</li>
+          <li>Slightly /ˈslaɪtli/</li>
+          <li className="list-none">The temperature has ______ increased.</li>
+          <li className="margin-bottom-20 list-none">Nhiệt độ đã tăng nhẹ.</li>
 
-          <li>Minimally: Một cách tối thiểu /ˈmɪnɪməli/</li>
-          <li className="list-none">The damage was minimally affected. (Thiệt hại bị ảnh hưởng tối thiểu.)</li>
+          <li>Minimally /ˈmɪnɪməli/</li>
+          <li className="list-none">The damage was ______ affected.</li>
+          <li className="list-none">Thiệt hại bị ảnh hưởng tối thiểu.</li>
 
         </ul>
       
@@ -149,8 +156,8 @@ export default function Greatly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>The whale was <strong>greatly</strong> bigger than any I had ever seen before.</li>
-          <li className="list-none">(Con cá voi đó lớn hơn bất kỳ con nào tôi từng thấy trước đây.)</li>
+          <li>The whale was ______ bigger than any I had ever seen before.</li>
+          <li className="list-none">Con cá voi đó lớn hơn bất kỳ con nào tôi từng thấy trước đây.</li>
 
         </ul>
 
@@ -169,8 +176,8 @@ export default function Greatly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>I am <strong>greatly</strong> impressed by your work.</li>
-          <li className="list-none">(Tôi rất ấn tượng với công việc của bạn.)</li>
+          <li>I am ______ impressed by your work.</li>
+          <li className="list-none">Tôi rất ấn tượng với công việc của bạn.</li>
 
         </ul>
 
@@ -185,15 +192,17 @@ export default function Greatly1(): React.JSX.Element {
         <strong>&nbsp;thường xuyên</strong>:
       </p>
 
-      <p className="text-indent-whole">Thường xuyên sử dụng từ này trong các bài viết hoặc cuộc trò chuyện.</p>
+      <p className="text-indent-whole margin-bottom-20">Thường xuyên sử dụng từ này trong các bài viết hoặc cuộc trò chuyện.</p>
 
         <p className="text-indent-whole">Ví dụ để so sánh (sự khác biệt):</p>
 
           <ol>
 
-            <li>The book is interesting. (Cuốn sách thú vị.)</li>
+            <li>The book is interesting.</li>
+            <li className="list-none margin-bottom-20">Cuốn sách thú vị.</li>
 
-            <li className="margin-bottom-20">The book is <strong>greatly</strong> interesting. (Cuốn sách thú vị một cách đặc biệt.)</li>
+            <li value="2">The book is ______ interesting.</li>
+            <li className="list-none margin-bottom-20">Cuốn sách thú vị một cách đặc biệt.</li>
 
           </ol>
 

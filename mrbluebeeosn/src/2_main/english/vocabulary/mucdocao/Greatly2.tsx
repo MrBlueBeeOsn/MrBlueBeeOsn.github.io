@@ -62,35 +62,45 @@ export default function Greatly2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1"><strong>Greatly</strong> appreciated: Rất biết ơn /ˈɡreɪtli əˈpriːʃieɪtɪd/</li>
-        <li className="list-none margin-bottom-20">Your help is <strong>greatly</strong> appreciated. (Tôi rất biết ơn sự giúp đỡ của bạn.)</li>
+        <li value="1">Greatly <strong>appreciated</strong> /əˈpriːʃieɪtɪd/</li>
+        <li className="list-none">Your help is ______.</li>
+        <li className="list-none margin-bottom-20">Tôi rất biết ơn sự giúp đỡ của bạn.</li>
 
-        <li value="2"><strong>Greatly</strong> improved: Cải thiện đáng kể /ˈɡreɪtli ɪmˈpruːvd/</li>
-        <li className="list-none margin-bottom-20">His health has <strong>greatly</strong> improved since he started exercising. (Sức khỏe của anh ấy đã cải thiện đáng kể kể từ khi anh ấy bắt đầu tập thể dục.)</li>
+        <li value="2">Greatly <strong>improved</strong> /ɪmˈpruːvd/</li>
+        <li className="list-none">His health has ______ since he started exercising.</li>
+        <li className="list-none margin-bottom-20">Sức khỏe của anh ấy đã cải thiện đáng kể kể từ khi anh ấy bắt đầu tập thể dục.</li>
 
-        <li value="3"><strong>Greatly</strong> influenced: Ảnh hưởng rất lớn /ˈɡreɪtli ˈɪnflʊənst/</li>
-        <li className="list-none margin-bottom-20">His parents <strong>greatly</strong> influenced his decision. (Cha mẹ anh ấy đã ảnh hưởng rất lớn đến quyết định của anh ấy.)</li>
+        <li value="3">Greatly <strong>influenced</strong> /ˈɪnflʊənst/</li>
+        <li className="list-none">His parents ______ his decision.</li>
+        <li className="list-none margin-bottom-20">Cha mẹ anh ấy đã ảnh hưởng rất lớn đến quyết định của anh ấy.</li>
 
-        <li value="4"><strong>Greatly</strong> admired: Rất ngưỡng mộ /ˈɡreɪtli ədˈmaɪərd/</li>
-        <li className="list-none margin-bottom-20">She is <strong>greatly</strong> admired for her courage. (Cô ấy được rất nhiều người ngưỡng mộ vì sự dũng cảm của mình.)</li>
+        <li value="4">Greatly <strong>admired</strong> /ədˈmaɪərd/</li>
+        <li className="list-none">She is ______ for her courage.</li>
+        <li className="list-none margin-bottom-20">Cô ấy được rất nhiều người ngưỡng mộ vì sự dũng cảm của mình.</li>
 
-        <li value="5"><strong>Greatly</strong> reduced: Giảm đáng kể /ˈɡreɪtli rɪˈdjuːst/</li>
-        <li className="list-none margin-bottom-20">The price of the product has been <strong>greatly</strong> reduced. (Giá của sản phẩm đã giảm đáng kể.)</li>
+        <li value="5">Greatly <strong>reduced</strong> /rɪˈdjuːst/</li>
+        <li className="list-none">The price of the product has been ______.</li>
+        <li className="list-none margin-bottom-20">Giá của sản phẩm đã giảm đáng kể.</li>
 
-        <li value="6"><strong>Greatly</strong> increased: Tăng lên đáng kể /ˈɡreɪtli ɪnˈkriːst/</li>
-        <li className="list-none margin-bottom-20">Sales have <strong>greatly</strong> increased since the new marketing campaign. (Doanh số đã tăng lên đáng kể kể từ khi chiến dịch tiếp thị mới được triển khai.)</li>
+        <li value="6">Greatly <strong>increased</strong> /ɪnˈkriːst/</li>
+        <li className="list-none">Sales have ______ since the new marketing campaign.</li>
+        <li className="list-none margin-bottom-20">Doanh số đã tăng lên đáng kể kể từ khi chiến dịch tiếp thị mới được triển khai.</li>
 
-        <li value="7"><strong>Greatly</strong> concerned: Rất lo lắng /ˈɡreɪtli kənˈsɜːnd/</li>
-        <li className="list-none margin-bottom-20">I am <strong>greatly</strong> concerned about the environment. (Tôi rất lo lắng về môi trường.)</li>
+        <li value="7">Greatly <strong>concerned</strong> /kənˈsɜːnd/</li>
+        <li className="list-none">I am ______ about the environment.</li>
+        <li className="list-none margin-bottom-20">Tôi rất lo lắng về môi trường.</li>
 
-        <li value="8"><strong>Greatly</strong> disappointed: Rất thất vọng /ˈɡreɪtli dɪsəˈpɔɪntɪd/</li>
-        <li className="list-none margin-bottom-20">I was <strong>greatly</strong> disappointed with the results. (Tôi rất thất vọng với kết quả.)</li>
+        <li value="8">Greatly <strong>disappointed</strong> /dɪsəˈpɔɪntɪd/</li>
+        <li className="list-none">I was ______ with the results.</li>
+        <li className="list-none margin-bottom-20">Tôi rất thất vọng với kết quả.</li>
 
-        <li value="9"><strong>Greatly</strong> exaggerated: Phóng đại quá mức /ˈɡreɪtli ɪɡˈzædʒəreɪtɪd/</li>
-        <li className="list-none margin-bottom-20">The story was <strong>greatly</strong> exaggerated. (Câu chuyện đã bị phóng đại quá mức.)</li>
+        <li value="9">Greatly <strong>exaggerated</strong> /ɪɡˈzædʒəreɪtɪd/</li>
+        <li className="list-none">The story was ______.</li>
+        <li className="list-none margin-bottom-20">Câu chuyện đã bị phóng đại quá mức.</li>
 
-        <li value="10"><strong>Greatly</strong> benefited: Được lợi rất nhiều /ˈɡreɪtli ˈbenɪfɪtɪd/</li>
-        <li className="list-none margin-bottom-20">He has <strong>greatly</strong> benefited from the new program. (Anh ấy đã được lợi rất nhiều từ chương trình mới.)</li>
+        <li value="10">Greatly <strong>benefited</strong> /ˈbenɪfɪtɪd/</li>
+        <li className="list-none">He has ______ from the new program.</li>
+        <li className="list-none margin-bottom-20">Anh ấy đã được lợi rất nhiều từ chương trình mới.</li>
 
       </ol>
 
