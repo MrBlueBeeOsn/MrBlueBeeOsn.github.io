@@ -63,9 +63,11 @@ export default function Very1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>She is <strong>very</strong> beautiful. (Cô ấy rất đẹp.)</li>
+          <li>She is ______ beautiful.</li>
+          <li className="margin-bottom-20 list-none">Cô ấy rất đẹp.</li>
 
-          <li>He runs <strong>very</strong> fast. (Anh ấy chạy rất nhanh.)</li>
+          <li>He runs ______ fast.</li>
+          <li className="list-none">Anh ấy chạy rất nhanh.</li>
 
         </ul>
 
@@ -97,11 +99,13 @@ export default function Very1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li><Link to="/vocabulary/extremely-1">Extremely</Link>: (adv) Cực kỳ /ɪkˈstriːm.li/</li>
-          <li className="margin-bottom-20 list-none">She is extremely intelligent. (Cô ấy cực kỳ thông minh.)</li>
+          <li><Link to="/vocabulary/extremely-1">Extremely</Link> /ɪkˈstriːm.li/</li>
+          <li className="list-none">She is ______ intelligent.</li>
+          <li className="margin-bottom-20 list-none">Cô ấy cực kỳ thông minh.</li>
 
-          <li><Link to="/vocabulary/highly-1">Highly</Link>: (adv) Rất, cao /ˈhaɪ.li/</li>
-          <li className="list-none">He is highly motivated. (Anh ấy có động lực rất cao.)</li>
+          <li><Link to="/vocabulary/highly-1">Highly</Link> /ˈhaɪ.li/</li>
+          <li className="list-none">He is ______ motivated.</li>
+          <li className="list-none">Anh ấy có động lực rất cao.</li>
 
         </ul>
 
@@ -119,11 +123,13 @@ export default function Very1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Slightly: (adv) Một chút, hơi /ˈslaɪt.li/</li>
-          <li className="margin-bottom-20 list-none">I'm slightly tired. (Tôi hơi mệt.)</li>
+          <li>Slightly /ˈslaɪt.li/</li>
+          <li className="list-none">I'm ______ tired.</li>
+          <li className="margin-bottom-20 list-none">Tôi hơi mệt.</li>
 
-          <li><Link to="/vocabulary/not-1">Not</Link> <strong>very</strong>: (adv) Không rất</li>
-          <li className="list-none">She is not <strong>very</strong> tall. (Cô ấy không cao lắm.)</li>
+          <li><Link to="/vocabulary/not-1">Not</Link> <strong>very</strong> /nɒt ˈveri/</li>
+          <li className="list-none">She is ______ tall.</li>
+          <li className="list-none">Cô ấy không cao lắm.</li>
 
         </ul>
       
@@ -148,8 +154,8 @@ export default function Very1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>The apple is <strong>very</strong> red.</li>
-          <li className="list-none">(Quả táo rất đỏ.)</li>
+          <li>The apple is ______ red.</li>
+          <li className="list-none">Quả táo rất đỏ.</li>
 
         </ul>
 
@@ -168,8 +174,8 @@ export default function Very1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>She has <strong>very</strong> long hair.</li>
-          <li className="list-none">(Cô ấy có mái tóc rất dài.)</li>
+          <li>She has ______ long hair.</li>
+          <li className="list-none">Cô ấy có mái tóc rất dài.</li>
 
         </ul>
 
@@ -184,17 +190,19 @@ export default function Very1(): React.JSX.Element {
         <strong>&nbsp;thường xuyên</strong>:
       </p>
 
-      <p className="text-indent-whole">Đọc và viết nhiều để củng cố vốn từ vựng và cách sử dụng của "<strong>very</strong>".</p>
+      <p className="text-indent-whole margin-bottom-20">Đọc và viết nhiều để củng cố vốn từ vựng và cách sử dụng của "<strong>very</strong>".</p>
 
         <p className="text-indent-whole">Ví dụ để so sánh (sự khác biệt giữa extremely và <strong>very</strong>):</p>
 
           <ol>
 
             <li><Link to="/vocabulary/extremely-1">Extremely</Link>: Nhấn mạnh một mức độ cực kỳ cao.</li>
-            <li className="list-none margin-bottom-20">She is extremely happy. (Cô ấy vui sướng vô cùng.)</li>
+            <li className="list-none">She is ______ happy.</li>
+            <li className="list-none margin-bottom-20">Cô ấy vui sướng vô cùng.</li>
 
             <li value="2"><strong>Very</strong>: <span className="highlight-255-padding-0-4">Nhấn mạnh một mức độ cao</span>.</li>
-            <li className="list-none margin-bottom-20">She is <strong>very</strong> happy. (Cô ấy rất vui.)</li>
+            <li className="list-none">She is ______ happy.</li>
+            <li className="list-none margin-bottom-20">Cô ấy rất vui.</li>
 
           </ol>
 

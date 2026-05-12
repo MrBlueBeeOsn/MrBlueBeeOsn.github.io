@@ -62,35 +62,45 @@ export default function Very2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1"><strong>Very</strong> happy: Rất vui /ˈveri ˈhæpi/</li>
-        <li className="list-none margin-bottom-20">I am <strong>very</strong> happy to see you. (Tôi rất vui khi gặp bạn.)</li>
+        <li value="1">Very <strong>happy</strong> /ˈhæpi/</li>
+        <li className="list-none">I am ______ to see you.</li>
+        <li className="list-none margin-bottom-20">Tôi rất vui khi gặp bạn.</li>
 
-        <li value="2"><strong>Very</strong> tired: Rất mệt /ˈveri ˈtaɪərd/</li>
-        <li className="list-none margin-bottom-20">I am <strong>very</strong> tired after work. (Tôi rất mệt sau khi làm việc.)</li>
+        <li value="2">Very <strong>tired</strong> /ˈtaɪərd/</li>
+        <li className="list-none">I am ______ after work.</li>
+        <li className="list-none margin-bottom-20">Tôi rất mệt sau khi làm việc.</li>
 
-        <li value="3"><strong>Very</strong> hungry: Rất đói /ˈveri ˈhʌŋɡri/</li>
-        <li className="list-none margin-bottom-20">I am <strong>very</strong> hungry. Can we eat now? (Tôi rất đói. Chúng ta có thể ăn bây giờ không?)</li>
+        <li value="3">Very <strong>hungry</strong> /ˈhʌŋɡri/</li>
+        <li className="list-none">I am ______. Can we eat now?</li>
+        <li className="list-none margin-bottom-20">Tôi rất đói. Chúng ta có thể ăn bây giờ không?</li>
 
-        <li value="4"><strong>Very</strong> good: Rất tốt /ˈveri ɡʊd/</li>
-        <li className="list-none margin-bottom-20">Your English is <strong>very</strong> good. (Tiếng Anh của bạn rất tốt.)</li>
+        <li value="4">Very <strong>good</strong> /ɡʊd/</li>
+        <li className="list-none">Your English is ______.</li>
+        <li className="list-none margin-bottom-20">Tiếng Anh của bạn rất tốt.</li>
 
-        <li value="5"><strong>Very</strong> bad: Rất tệ /ˈveri bæd/</li>
-        <li className="list-none margin-bottom-20">The weather is <strong>very</strong> bad today. (Thời tiết hôm nay rất tệ.)</li>
+        <li value="5">Very <strong>bad</strong> /bæd/</li>
+        <li className="list-none">The weather is ______ today.</li>
+        <li className="list-none margin-bottom-20">Thời tiết hôm nay rất tệ.</li>
 
-        <li value="6"><strong>Very</strong> quickly: Rất nhanh /ˈveri ˈkwɪkli/</li>
-        <li className="list-none margin-bottom-20">She can run <strong>very</strong> quickly. (Cô ấy có thể chạy rất nhanh.)</li>
+        <li value="6">Very <strong>quickly</strong> /ˈkwɪkli/</li>
+        <li className="list-none">She can run ______.</li>
+        <li className="list-none margin-bottom-20">Cô ấy có thể chạy rất nhanh.</li>
 
-        <li value="7"><strong>Very</strong> slowly: Rất chậm /ˈveri ˈsloʊli/</li>
-        <li className="list-none margin-bottom-20">Please speak <strong>very</strong> slowly. (Làm ơn nói chậm lại.)</li>
+        <li value="7">Very <strong>slowly</strong> /ˈsloʊli/</li>
+        <li className="list-none">Please speak ______.</li>
+        <li className="list-none margin-bottom-20">Làm ơn nói chậm lại.</li>
 
-        <li value="8"><strong>Very</strong> carefully: Rất cẩn thận /ˈveri ˈkeəfəli/</li>
-        <li className="list-none margin-bottom-20">Please handle this glass <strong>very</strong> carefully. (Làm ơn cầm ly này thật cẩn thận.)</li>
+        <li value="8">Very <strong>carefully</strong> /ˈkeəfəli/</li>
+        <li className="list-none">Please handle this glass ______.</li>
+        <li className="list-none margin-bottom-20">Làm ơn cầm ly này thật cẩn thận.</li>
 
-        <li value="9"><strong>Very</strong> much: Rất nhiều /ˈveri mʌtʃ/</li>
-        <li className="list-none margin-bottom-20">I like coffee <strong>very</strong> much. (Tôi rất thích cà phê.)</li>
+        <li value="9">Very <strong>much</strong> /mʌtʃ/</li>
+        <li className="list-none">I like coffee ______.</li>
+        <li className="list-none margin-bottom-20">Tôi rất thích cà phê.</li>
 
-        <li value="10"><strong>Very</strong> little: Rất ít /ˈveri ˈlɪtəl/</li>
-        <li className="list-none margin-bottom-20">I have <strong>very</strong> little time. (Tôi có rất ít thời gian.)</li>
+        <li value="10">Very <strong>little</strong> /ˈlɪtəl/</li>
+        <li className="list-none">I have ______ time.</li>
+        <li className="list-none margin-bottom-20">Tôi có rất ít thời gian.</li>
 
       </ol>
 
