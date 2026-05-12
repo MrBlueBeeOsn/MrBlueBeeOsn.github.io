@@ -62,35 +62,45 @@ export default function Highly2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1"><strong>Highly</strong> recommended: Rất được khuyến khích /ˈhaɪli ˌrekəˈmɛndɪd/</li>
-        <li className="list-none margin-bottom-20">This book is <strong>highly</strong> recommended for anyone interested in history. (Cuốn sách này rất được khuyến nghị cho bất kỳ ai quan tâm đến lịch sử.)</li>
+        <li value="1">Highly <strong>recommended</strong> /ˌrekəˈmɛndɪd/</li>
+        <li className="list-none">This book is ______ for anyone interested in history.</li>
+        <li className="list-none margin-bottom-20">Cuốn sách này rất được khuyến nghị cho bất kỳ ai quan tâm đến lịch sử.</li>
 
-        <li value="2"><strong>Highly</strong> skilled: Có kỹ năng cao /ˈhaɪli skɪld/</li>
-        <li className="list-none margin-bottom-20">She is a <strong>highly</strong> skilled surgeon. (Cô ấy là một bác sĩ phẫu thuật rất giỏi.)</li>
+        <li value="2">Highly <strong>skilled</strong> /skɪld/</li>
+        <li className="list-none">She is a ______ surgeon.</li>
+        <li className="list-none margin-bottom-20">Cô ấy là một bác sĩ phẫu thuật rất giỏi.</li>
 
-        <li value="3"><strong>Highly</strong> motivated: Rất có động lực /ˈhaɪli ˈmoʊtɪveɪtɪd/</li>
-        <li className="list-none margin-bottom-20">The students were <strong>highly</strong> motivated to do well on the exam. (Các học sinh rất có động lực để làm tốt bài kiểm tra.)</li>
+        <li value="3">Highly <strong>motivated</strong> /ˈmoʊtɪveɪtɪd/</li>
+        <li className="list-none">The students were ______ to do well on the exam.</li>
+        <li className="list-none margin-bottom-20">Các học sinh rất có động lực để làm tốt bài kiểm tra.</li>
 
-        <li value="4"><strong>Highly</strong> effective: Rất hiệu quả /ˈhaɪli əˈfɛktɪv/</li>
-        <li className="list-none margin-bottom-20">This new medicine is <strong>highly</strong> effective in treating the disease. (Thuốc mới này rất hiệu quả trong việc điều trị bệnh.)</li>
+        <li value="4">Highly <strong>effective</strong> /əˈfɛktɪv/</li>
+        <li className="list-none">This new medicine is ______ in treating the disease.</li>
+        <li className="list-none margin-bottom-20">Thuốc mới này rất hiệu quả trong việc điều trị bệnh.</li>
 
-        <li value="5"><strong>Highly</strong> competitive: Cạnh tranh rất cao /ˈhaɪli kəmˈpɛtətɪv/</li>
-        <li className="list-none margin-bottom-20">The job market is <strong>highly</strong> competitive. (Thị trường việc làm rất cạnh tranh.)</li>
+        <li value="5">Highly <strong>competitive</strong> /kəmˈpɛtətɪv/</li>
+        <li className="list-none">The job market is ______.</li>
+        <li className="list-none margin-bottom-20">Thị trường việc làm rất cạnh tranh.</li>
 
-        <li value="6"><strong>Highly</strong> unlikely: Rất khó có thể /ˈhaɪli ʌnˈlaɪkli/</li>
-        <li className="list-none margin-bottom-20">It is <strong>highly</strong> unlikely that he will win the lottery. (Rất khó có thể anh ấy sẽ trúng số.)</li>
+        <li value="6">Highly <strong>unlikely</strong> /ʌnˈlaɪkli/</li>
+        <li className="list-none">It is ______ that he will win the lottery.</li>
+        <li className="list-none margin-bottom-20">Rất khó có thể anh ấy sẽ trúng số.</li>
 
-        <li value="7"><strong>Highly</strong> contagious: Lây lan rất nhanh /ˈhaɪli kənˈteɪdʒəs/</li>
-        <li className="list-none margin-bottom-20">The flu is <strong>highly</strong> contagious. (Cúm rất dễ lây.)</li>
+        <li value="7">Highly <strong>contagious</strong> /kənˈteɪdʒəs/</li>
+        <li className="list-none">The flu is ______.</li>
+        <li className="list-none margin-bottom-20">Cúm rất dễ lây.</li>
 
-        <li value="8"><strong>Highly</strong> praised: Được ca ngợi rất nhiều /ˈhaɪli preɪzd/</li>
-        <li className="list-none margin-bottom-20">The movie was <strong>highly</strong> praised by the critics. (Bộ phim đã được các nhà phê bình ca ngợi rất nhiều.)</li>
+        <li value="8">Highly <strong>praised</strong> /preɪzd/</li>
+        <li className="list-none">The movie was ______ by the critics.</li>
+        <li className="list-none margin-bottom-20">Bộ phim đã được các nhà phê bình ca ngợi rất nhiều.</li>
 
-        <li value="9"><strong>Highly</strong> visible: Rất dễ thấy /ˈhaɪli ˈvɪzəbl/</li>
-        <li className="list-none margin-bottom-20">The sign is <strong>highly</strong> visible from the highway. (Biển báo rất dễ thấy từ xa lộ.)</li>
+        <li value="9">Highly <strong>visible</strong> /ˈvɪzəbl/</li>
+        <li className="list-none">The sign is ______ from the highway.</li>
+        <li className="list-none margin-bottom-20">Biển báo rất dễ thấy từ xa lộ.</li>
 
-        <li value="10"><strong>Highly</strong> sophisticated: Rất tinh vi, phức tạp /ˈhaɪli səˈfɪstɪkeɪtɪd/</li>
-        <li className="list-none margin-bottom-20">The technology used in this product is <strong>highly</strong> sophisticated. (Công nghệ được sử dụng trong sản phẩm này rất tinh vi.)</li>
+        <li value="10">Highly <strong>sophisticated</strong> /səˈfɪstɪkeɪtɪd/</li>
+        <li className="list-none">The technology used in this product is ______.</li>
+        <li className="list-none margin-bottom-20">Công nghệ được sử dụng trong sản phẩm này rất tinh vi.</li>
 
       </ol>
 
