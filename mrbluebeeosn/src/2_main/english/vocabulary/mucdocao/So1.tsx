@@ -61,9 +61,11 @@ export default function So1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>The movie was <strong>so</strong> good. (Bộ phim rất hay.)</li>
+          <li>The movie was ______ good.</li>
+          <li className="margin-bottom-20 list-none">Bộ phim rất hay.</li>
 
-          <li>She sings <strong>so</strong> beautifully. (Cô ấy hát rất hay.)</li>
+          <li>She sings ______ beautifully.</li>
+          <li className="list-none">Cô ấy hát rất hay.</li>
 
         </ul>
 
@@ -71,9 +73,11 @@ export default function So1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Is he coming? - "I think <strong>so</strong>." (Anh ấy có đến không? - "Tôi nghĩ thế.")</li>
+          <li>Is he coming? - "I think ______."</li>
+          <li className="margin-bottom-20 list-none">Anh ấy có đến không? - "Tôi nghĩ thế."</li>
 
-          <li>She said she would help, and <strong>so</strong> she did. (Cô ấy nói sẽ giúp, và cô ấy đã làm như vậy.)</li>
+          <li>She said she would help, and ______ she did.</li>
+          <li className="list-none">Cô ấy nói sẽ giúp, và cô ấy đã làm như vậy.</li>
 
         </ul>
 
@@ -89,9 +93,12 @@ export default function So1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li><strong>So</strong>: (prep) /soʊ/ - Do đó, vì vậy (liên từ): Dùng để chỉ kết quả hoặc hậu quả của một hành động, sự việc.</li>
-          <li className="list-none">It was raining, <strong>so</strong> we stayed home. (Trời đang mưa, vì vậy chúng tôi ở nhà.)</li>
-          <li className="list-none">He worked hard, <strong>so</strong> he got a promotion. (Anh ấy đã làm việc chăm chỉ, do đó anh ấy được thăng chức.)</li>
+          <li><strong>So</strong> (prep) /soʊ/</li>
+          <li className="list-none">It was raining, ______ we stayed home.</li>
+          <li className="margin-bottom-20 list-none">Trời đang mưa, vì vậy chúng tôi ở nhà.</li>
+
+          <li className="list-none">He worked hard, ______ he got a promotion.</li>
+          <li className="list-none">Anh ấy đã làm việc chăm chỉ, do đó anh ấy được thăng chức.</li>
 
         </ul>
 
@@ -107,11 +114,13 @@ export default function So1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li><Link to="/vocabulary/very-1">Very</Link>: (adv) /ˈveri/ - Rất (khi chỉ mức độ)</li>
-          <li className="margin-bottom-20 list-none">The food was very delicious. (Món ăn rất ngon.)</li>
+          <li><Link to="/vocabulary/very-1">Very</Link> (adv) /ˈveri/</li>
+          <li className="list-none">The food was ______ delicious.</li>
+          <li className="margin-bottom-20 list-none">Món ăn rất ngon.</li>
 
-          <li>Therefore: (adv) /ˈðɛərfɔːr/ - Do đó, vì vậy (khi là liên từ)</li>
-          <li className="list-none">He was ill; therefore, he could not attend the meeting. (Anh ấy bị ốm; do đó, anh ấy không thể tham dự cuộc họp.)</li>
+          <li>Therefore (adv) /ˈðɛərfɔːr/</li>
+          <li className="list-none">He was ill; ______, he could not attend the meeting.</li>
+          <li className="list-none">Anh ấy bị ốm; do đó, anh ấy không thể tham dự cuộc họp.</li>
 
         </ul>
 
@@ -129,11 +138,13 @@ export default function So1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li><Link to="/vocabulary/not-1">Not</Link> (very): (adv) /nɒt ˈveri/ - Không (mấy) (khi chỉ mức độ)</li>
-          <li className="margin-bottom-20 list-none">The movie was not very interesting. (Bộ phim không mấy thú vị.)</li>
+          <li><Link to="/vocabulary/not-1">Not</Link> very (adv) /nɒt ˈveri/</li>
+          <li className="list-none">The movie was ______ interesting.</li>
+          <li className="margin-bottom-20 list-none">Bộ phim không mấy thú vị.</li>
 
-          <li>However: (adv) /haʊˈevər/ - Tuy nhiên (khi là liên từ)</li>
-          <li className="list-none">It was cold; however, we still went for a walk. (Trời lạnh; tuy nhiên, chúng tôi vẫn đi dạo.)</li>
+          <li>However (adv) /haʊˈevər/</li>
+          <li className="list-none">It was cold; ______, we still went for a walk.</li>
+          <li className="list-none">Trời lạnh; tuy nhiên, chúng tôi vẫn đi dạo.</li>
 
         </ul>
       
@@ -154,15 +165,22 @@ export default function So1(): React.JSX.Element {
         <strong>&nbsp;với hình ảnh</strong>:
       </p>
 
-      <p className="text-indent-whole">Hãy tưởng tượng một mũi tên chỉ vào một điều gì đó với một dấu chấm than lớn để thể hiện sự nhấn mạnh ("rất!"). Hoặc một chuỗi domino, cái trước đổ làm cái sau đổ, tượng trưng cho mối quan hệ "do đó".</p>
+      <p className="text-indent-whole">Hãy tưởng tượng một mũi tên chỉ vào một điều gì đó với một dấu chấm than lớn để thể hiện sự nhấn mạnh ("rất!").</p>
 
         <ul className="list-square">
 
-          <li>The arrow pointed, emphasizing <strong>so</strong> much with a large exclamation mark.</li>
-          <li className="margin-bottom-20 list-none">(Mũi tên chỉ vào, nhấn mạnh rất nhiều với một dấu chấm than lớn.)</li>
+          <li>That is ______ cool!</li>
+          <li className="margin-bottom-20 list-none">Cái đó thật là ngầu quá xá!</li>
 
-          <li>The domino chain fell, representing a <strong>so</strong>-related sequence.</li>
-          <li className="list-none">(Chuỗi domino đổ, tượng trưng cho một chuỗi quan hệ do đó.)</li>
+        </ul>
+
+        <p className="text-indent-whole">Hoặc một chuỗi domino, cái trước đổ làm cái sau đổ, tượng trưng cho mối quan hệ "do đó".</p>
+
+        <ul className="list-square">
+
+
+          <li>It started to rain, ______ we went home.</li>
+          <li className="list-none">Trời bắt đầu mưa, vì vậy chúng tôi đi về nhà.</li>
 
         </ul>
 
@@ -181,14 +199,14 @@ export default function So1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>She was <strong>so</strong> tired that she fell asleep immediately.</li>
-          <li className="margin-bottom-20 list-none">(Cô ấy mệt đến nỗi cô ấy ngủ thiếp đi ngay lập tức.)</li>
+          <li>She was ______ tired that she fell asleep immediately.</li>
+          <li className="margin-bottom-20 list-none">Cô ấy mệt đến nỗi cô ấy ngủ thiếp đi ngay lập tức.</li>
 
-          <li>Are you coming to the party? "I think <strong>so</strong>."</li>
-          <li className="margin-bottom-20 list-none">(Bạn có đến bữa tiệc không? "Tôi nghĩ vậy.")</li>
+          <li>Are you coming to the party? "I think ______."</li>
+          <li className="margin-bottom-20 list-none">Bạn có đến bữa tiệc không? "Tôi nghĩ vậy."</li>
 
-          <li>It started raining heavily, <strong>so</strong> we decided to go home.</li>
-          <li className="list-none">(Trời bắt đầu mưa to, do đó/vì vậy chúng tôi quyết định về nhà.)</li>
+          <li>It started raining heavily, ______ we decided to go home.</li>
+          <li className="list-none">Trời bắt đầu mưa to, do đó/vì vậy chúng tôi quyết định về nhà.</li>
 
         </ul>
 
@@ -203,17 +221,21 @@ export default function So1(): React.JSX.Element {
         <strong>&nbsp;thường xuyên</strong>:
       </p>
 
-      <p className="text-indent-whole">Thường xuyên sử dụng "<strong>so</strong>" trong giao tiếp hàng ngày và khi viết.</p>
+      <p className="text-indent-whole margin-bottom-20">Thường xuyên sử dụng "<strong>so</strong>" trong giao tiếp hàng ngày và khi viết.</p>
 
         <p className="text-indent-whole">Ví dụ để so sánh (sự khác biệt giữa very và <strong>so</strong>):</p>
 
           <ol>
 
             <li><Link to="/vocabulary/very-1">Very</Link> (adv - mức độ): Dùng để chỉ mức độ cao nhưng thường mang tính chất khách quan hơn, ít cảm xúc hơn.</li>
-            <li className="list-none margin-bottom-20">She was very happy. (Cô ấy rất hạnh phúc.) - Đơn thuần chỉ mức độ</li>
+            <li className="list-none">She was ______ happy.</li>
+            <li className="list-none">Cô ấy rất hạnh phúc.</li>
+            <li className="list-none margin-bottom-20">- Đơn thuần chỉ mức độ</li>
 
             <li value="2"><strong>So</strong> (adv - nhấn mạnh): Thường dùng <span className="highlight-255-padding-0-4">để thể hiện cảm xúc mạnh hơn</span> hoặc bất ngờ về mức độ. Đôi khi có thể đi kèm với mệnh đề "that".</li>
-            <li className="list-none margin-bottom-20">She was <strong>so</strong> happy that she cried. (Cô ấy hạnh phúc đến nỗi bật khóc.) - Nhấn mạnh cảm xúc và kết quả.</li>
+            <li className="list-none">She was ______ happy that she cried.</li>
+            <li className="list-none">Cô ấy hạnh phúc đến nỗi bật khóc.</li>
+            <li className="list-none margin-bottom-20">- Nhấn mạnh cảm xúc và kết quả.</li>
 
           </ol>
 

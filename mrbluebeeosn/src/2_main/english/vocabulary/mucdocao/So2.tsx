@@ -62,36 +62,48 @@ export default function So2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1"><strong>So</strong> much: Quá nhiều /soʊ mʌtʃ/</li>
-        <li className="list-none margin-bottom-20">Thank you <strong>so</strong> much for your help! (Cảm ơn bạn rất nhiều vì sự giúp đỡ của bạn!)</li>
+        <li value="1">So <strong>much</strong> /mʌtʃ/</li>
+        <li className="list-none">Thank you ______ for your help!</li>
+        <li className="list-none margin-bottom-20">Cảm ơn bạn rất nhiều vì sự giúp đỡ của bạn!</li>
 
-        <li value="2"><strong>So</strong> many: Quá nhiều /soʊ ˈmɛni/</li>
-        <li className="list-none margin-bottom-20">There are <strong>so</strong> many people here today. (Hôm nay có quá nhiều người ở đây.)</li>
+        <li value="2">So <strong>many</strong> /ˈmɛni/</li>
+        <li className="list-none">There are ______ people here today.</li>
+        <li className="list-none margin-bottom-20">Hôm nay có quá nhiều người ở đây.</li>
 
-        <li value="3"><strong>So</strong> good: Rất tốt, quá tốt /soʊ ɡʊd/</li>
-        <li className="list-none margin-bottom-20">This cake is <strong>so</strong> good! (Cái bánh này ngon quá!)</li>
+        <li value="3">So <strong>good</strong> /ɡʊd/</li>
+        <li className="list-none">This cake is ______!</li>
+        <li className="list-none margin-bottom-20">Cái bánh này ngon quá!</li>
 
-        <li value="4"><strong>So</strong> carefully: Rất cẩn thận /soʊ ˈkɛərfəli/</li>
-        <li className="list-none margin-bottom-20">She drove <strong>so</strong> carefully through the narrow streets. (Cô ấy lái xe rất cẩn thận qua những con phố hẹp.)</li>
+        <li value="4">So <strong>carefully</strong> /ˈkɛərfəli/</li>
+        <li className="list-none">She drove ______ through the narrow streets.</li>
+        <li className="list-none margin-bottom-20">Cô ấy lái xe rất cẩn thận qua những con phố hẹp.</li>
 
-        <li value="5"><strong>So</strong> fast: Rất nhanh /soʊ fɑːst/</li>
-        <li className="list-none margin-bottom-20">Time flies <strong>so</strong> fast when you're having fun. (Thời gian trôi rất nhanh khi bạn vui vẻ.)</li>
+        <li value="5">So <strong>fast</strong> /fɑːst/</li>
+        <li className="list-none">Time flies ______ when you're having fun.</li>
+        <li className="list-none margin-bottom-20">Thời gian trôi rất nhanh khi bạn vui vẻ.</li>
 
-        <li value="6"><strong>So</strong> that: Để mà, để cho /soʊ ðæt/</li>
-        <li className="list-none margin-bottom-20">He studied hard <strong>so</strong> that he could pass the exam. (Anh ấy học chăm chỉ để mà anh ấy có thể vượt qua kỳ thi.)</li>
+        <li value="6">So <strong>that</strong> /ðæt/</li>
+        <li className="list-none">He studied hard ______ he could pass the exam.</li>
+        <li className="list-none margin-bottom-20">Anh ấy học chăm chỉ để mà anh ấy có thể vượt qua kỳ thi.</li>
 
-        <li value="7"><strong>So</strong> long: Tạm biệt; quá lâu /soʊ lɒŋ/</li>
-        <li className="list-none">Well, <strong>so</strong> long for now! (Tạm biệt nhé!)</li>
-        <li className="list-none margin-bottom-20">It's been <strong>so</strong> long since we last met. (Đã quá lâu rồi kể từ lần cuối chúng ta gặp nhau.)</li>
+        <li value="7">So <strong>long</strong> /lɒŋ/</li>
+        <li className="list-none">Well, ______ for now!</li>
+        <li className="list-none margin-bottom-20">Tạm biệt nhé!</li>
 
-        <li value="8"><strong>So</strong> what?: Thì sao chứ? Có vấn đề gì đâu? /soʊ wɒt/</li>
-        <li className="list-none margin-bottom-20">I made a mistake. "<strong>So</strong> what? Everyone makes mistakes." (Tôi đã mắc lỗi. "Thì sao chứ? Ai cũng mắc lỗi mà.")</li>
+        <li className="list-none">It's been ______ since we last met.</li>
+        <li className="list-none margin-bottom-20">Đã quá lâu rồi kể từ lần cuối chúng ta gặp nhau.</li>
 
-        <li value="9">And <strong>so</strong> on: Và cứ thế, vân vân /ænd soʊ ɒn/</li>
-        <li className="list-none margin-bottom-20">We discussed the budget, the timeline, the resources, and <strong>so</strong> on. (Chúng tôi đã thảo luận về ngân sách, thời gian biểu, nguồn lực, và cứ thế.)</li>
+        <li value="8">So <strong>what</strong>? /wɒt/</li>
+        <li className="list-none">I made a mistake. "______? Everyone makes mistakes."</li>
+        <li className="list-none margin-bottom-20">Tôi đã mắc lỗi. "Thì sao chứ? Ai cũng mắc lỗi mà."</li>
 
-        <li value="10"><strong>So</strong> do I / <strong>So</strong> am I: Tôi cũng vậy /soʊ duː aɪ/ /soʊ æm aɪ/</li>
-        <li className="list-none margin-bottom-20">I love chocolate. "<strong>So</strong> do I." (Tôi thích sô cô la. "Tôi cũng vậy.")</li>
+        <li value="9"><strong>And</strong> so <strong>on</strong> /ænd ɒn/</li>
+        <li className="list-none">We discussed the budget, the timeline, the resources, ______.</li>
+        <li className="list-none margin-bottom-20">Chúng tôi đã thảo luận về ngân sách, thời gian biểu, nguồn lực, và cứ thế.</li>
+
+        <li value="10">So <strong>do I</strong> /duː aɪ/, So <strong>am I</strong> /æm aɪ/</li>
+        <li className="list-none">I love chocolate. "______."</li>
+        <li className="list-none margin-bottom-20">Tôi thích sô cô la. "Tôi cũng vậy."</li>
 
       </ol>
 
