@@ -63,9 +63,11 @@ export default function Perhaps1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li><strong>Perhaps</strong> it will rain tomorrow. (Có lẽ ngày mai trời sẽ mưa.)</li>
+          <li>______ it will rain tomorrow.</li>
+          <li className="margin-bottom-20 list-none">Có lẽ ngày mai trời sẽ mưa.</li>
 
-          <li><strong>Perhaps</strong> you should call her. (Có lẽ bạn nên gọi cho cô ấy.)</li>
+          <li>______ you should call her.</li>
+          <li className="list-none">Có lẽ bạn nên gọi cho cô ấy.</li>
 
         </ul>
 
@@ -81,8 +83,9 @@ export default function Perhaps1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Haphazard: ngẫu nhiên /ˈhæp.hæz.ərd/ - tính từ</li>
-          <li className="list-none">His work was haphazard and disorganized. (Công việc của anh ấy rất ngẫu nhiên và lộn xộn.)</li>
+          <li>Haphazard (adj) /ˈhæp.hæz.ərd/</li>
+          <li className="list-none">His work was ______ and disorganized.</li>
+          <li className="list-none">Công việc của anh ấy rất ngẫu nhiên và lộn xộn.</li>
 
         </ul>
 
@@ -98,11 +101,13 @@ export default function Perhaps1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li><Link to="/vocabulary/maybe-1">Maybe</Link>: có lẽ /ˈmeɪ.bi/</li>
-          <li className="margin-bottom-20 list-none">Maybe we can go to the park later. (Có lẽ chúng ta có thể đi công viên sau.)</li>
+          <li><Link to="/vocabulary/maybe-1">Maybe</Link> /ˈmeɪ.bi/</li>
+          <li className="list-none">______ we can go to the park later.</li>
+          <li className="margin-bottom-20 list-none">Có lẽ chúng ta có thể đi công viên sau.</li>
 
-          <li><Link to="/vocabulary/possibly-1">Possibly</Link>: có thể /ˈpɒs.ə.bli/</li>
-          <li className="list-none">It is possibly the best book I've ever read. (Có thể đây là cuốn sách hay nhất mà tôi từng đọc.)</li>
+          <li><Link to="/vocabulary/possibly-1">Possibly</Link> /ˈpɒs.ə.bli/</li>
+          <li className="list-none">It is ______ the best book I've ever read.</li>
+          <li className="list-none">Có thể đây là cuốn sách hay nhất mà tôi từng đọc.</li>
 
         </ul>
 
@@ -120,11 +125,13 @@ export default function Perhaps1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li><Link to="/vocabulary/definitely-1">Definitely</Link>: chắc chắn /ˈdef.ɪ.nət.li/</li>
-          <li className="margin-bottom-20 list-none">I definitely want to go to the party. (Tôi chắc chắn muốn đi dự tiệc.)</li>
+          <li><Link to="/vocabulary/definitely-1">Definitely</Link> /ˈdef.ɪ.nət.li/</li>
+          <li className="list-none">I ______ want to go to the party.</li>
+          <li className="margin-bottom-20 list-none">Tôi chắc chắn muốn đi dự tiệc.</li>
 
-          <li>Certainly: chắc chắn /ˈsɜː.tən.li/</li>
-          <li className="list-none">Certainly, I will help you. (Chắc chắn rồi, tôi sẽ giúp bạn.)</li>
+          <li>Certainly /ˈsɜː.tən.li/</li>
+          <li className="list-none">______, I will help you.</li>
+          <li className="list-none">Chắc chắn rồi, tôi sẽ giúp bạn.</li>
 
         </ul>
       
@@ -149,8 +156,8 @@ export default function Perhaps1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>It's hard to say for sure, but <strong>perhaps</strong> the project will be delayed.</li>
-          <li className="list-none">(Thật khó để nói chắc chắn, nhưng có lẽ dự án sẽ bị trì hoãn.)</li>
+          <li>It's hard to say for sure, but ______ the project will be delayed.</li>
+          <li className="list-none">Thật khó để nói chắc chắn, nhưng có lẽ dự án sẽ bị trì hoãn.</li>
 
         </ul>
 
@@ -169,8 +176,8 @@ export default function Perhaps1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li><strong>Perhaps</strong> it will rain tomorrow.</li>
-          <li className="list-none">(Có lẽ trời sẽ mưa vào ngày mai.)</li>
+          <li>______ it will rain tomorrow.</li>
+          <li className="list-none">Có lẽ trời sẽ mưa vào ngày mai.</li>
 
         </ul>
 
@@ -185,17 +192,19 @@ export default function Perhaps1(): React.JSX.Element {
         <strong>&nbsp;thường xuyên</strong>:
       </p>
 
-      <p className="text-indent-whole">Đọc và viết nhiều để củng cố vốn từ vựng và cách sử dụng của "<strong>perhaps</strong>".</p>
+      <p className="text-indent-whole margin-bottom-20">Đọc và viết nhiều để củng cố vốn từ vựng và cách sử dụng của "<strong>perhaps</strong>".</p>
 
         <p className="text-indent-whole">Ví dụ để so sánh (sự khác biệt giữa maybe và <strong>perhaps</strong>):</p>
 
           <ol>
 
             <li><Link to="/vocabulary/maybe-1">Maybe</Link>: Thông dụng hơn và thường được sử dụng trong giao tiếp hàng ngày.</li>
-            <li className="list-none margin-bottom-20">Maybe we can go out for dinner tonight. (Có lẽ tối nay chúng ta có thể đi ăn tối.)</li>
+            <li className="list-none">______ we can go out for dinner tonight.</li>
+            <li className="list-none margin-bottom-20">Có lẽ tối nay chúng ta có thể đi ăn tối.</li>
 
             <li value="2"><strong>Perhaps</strong>: <span className="highlight-255-padding-0-4">Mang tính trang trọng hơn một chút</span> so với "maybe".</li>
-            <li className="list-none margin-bottom-20"><strong>Perhaps</strong> we should reconsider our decision. (Có lẽ chúng ta nên xem xét lại quyết định của mình.)</li>
+            <li className="list-none">______ we should reconsider our decision.</li>
+            <li className="list-none margin-bottom-20">Có lẽ chúng ta nên xem xét lại quyết định của mình.</li>
 
           </ol>
 
