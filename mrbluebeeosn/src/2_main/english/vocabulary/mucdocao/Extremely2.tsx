@@ -62,35 +62,45 @@ export default function Extremely2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1"><strong>Extremely</strong> happy: Cực kỳ hạnh phúc /ɪkˈstriːmli ˈhæpi/</li>
-        <li className="list-none margin-bottom-20">She was <strong>extremely</strong> happy to see her family. (Cô ấy rất vui khi gặp lại gia đình.)</li>
+        <li value="1">Extremely <strong>happy</strong> /ˈhæpi/</li>
+        <li className="list-none">She was ______ to see her family.</li>
+        <li className="list-none margin-bottom-20">Cô ấy rất vui khi gặp lại gia đình.</li>
 
-        <li value="2"><strong>Extremely</strong> tired: Cực kỳ mệt mỏi /ɪkˈstriːmli ˈtaɪərd/</li>
-        <li className="list-none margin-bottom-20">After working all night, he was <strong>extremely</strong> tired. (Sau khi làm việc cả đêm, anh ấy rất mệt mỏi.)</li>
+        <li value="2">Extremely <strong>tired</strong> /ˈtaɪərd/</li>
+        <li className="list-none">After working all night, he was ______.</li>
+        <li className="list-none margin-bottom-20">Sau khi làm việc cả đêm, anh ấy rất mệt mỏi.</li>
 
-        <li value="3"><strong>Extremely</strong> difficult: Cực kỳ khó /ɪkˈstriːmli ˈdɪfɪkəlt/</li>
-        <li className="list-none margin-bottom-20">The exam was <strong>extremely</strong> difficult. (Bài kiểm tra rất khó.)</li>
+        <li value="3">Extremely <strong>difficult</strong> /ˈdɪfɪkəlt/</li>
+        <li className="list-none">The exam was ______.</li>
+        <li className="list-none margin-bottom-20">Bài kiểm tra rất khó.</li>
 
-        <li value="4"><strong>Extremely</strong> dangerous: Cực kỳ nguy hiểm /ɪkˈstriːmli ˈdeɪndʒərəs/</li>
-        <li className="list-none margin-bottom-20">It's <strong>extremely</strong> dangerous to swim in this river. (Bơi ở con sông này rất nguy hiểm.)</li>
+        <li value="4">Extremely <strong>dangerous</strong> /ˈdeɪndʒərəs/</li>
+        <li className="list-none">It's ______ to swim in this river.</li>
+        <li className="list-none margin-bottom-20">Bơi ở con sông này rất nguy hiểm.</li>
 
-        <li value="5"><strong>Extremely</strong> talented: Cực kỳ tài năng /ɪkˈstriːmli ˈtæləntɪd/</li>
-        <li className="list-none margin-bottom-20">She is an <strong>extremely</strong> talented musician. (Cô ấy là một nhạc sĩ rất tài năng.)</li>
+        <li value="5">Extremely <strong>talented</strong> /ˈtæləntɪd/</li>
+        <li className="list-none">She is an ______ musician.</li>
+        <li className="list-none margin-bottom-20">Cô ấy là một nhạc sĩ rất tài năng.</li>
 
-        <li value="6"><strong>Extremely</strong> beautiful: Cực kỳ xinh đẹp /ɪkˈstriːmli ˈbjuːtɪfəl/</li>
-        <li className="list-none margin-bottom-20">The sunset was <strong>extremely</strong> beautiful. (Hoàng hôn rất đẹp.)</li>
+        <li value="6">Extremely <strong>beautiful</strong> /ˈbjuːtɪfəl/</li>
+        <li className="list-none">The sunset was ______.</li>
+        <li className="list-none margin-bottom-20">Hoàng hôn rất đẹp.</li>
 
-        <li value="7"><strong>Extremely</strong> rich: Cực kỳ giàu có /ɪkˈstriːmli rɪtʃ/</li>
-        <li className="list-none margin-bottom-20">He is an <strong>extremely</strong> rich businessman. (Ông ấy là một doanh nhân rất giàu có.)</li>
+        <li value="7">Extremely <strong>rich</strong> /rɪtʃ/</li>
+        <li className="list-none">He is an ______ businessman.</li>
+        <li className="list-none margin-bottom-20">Ông ấy là một doanh nhân rất giàu có.</li>
 
-        <li value="8"><strong>Extremely</strong> cold: Cực kỳ lạnh /ɪkˈstriːmli koʊld/</li>
-        <li className="list-none margin-bottom-20">It's <strong>extremely</strong> cold outside today. (Trời hôm nay lạnh quá.)</li>
+        <li value="8">Extremely <strong>cold</strong> /koʊld/</li>
+        <li className="list-none">It's ______ outside today.</li>
+        <li className="list-none margin-bottom-20">Trời hôm nay lạnh quá.</li>
 
-        <li value="9"><strong>Extremely</strong> hungry: Cực kỳ đói /ɪkˈstriːmli ˈhʌŋɡri/</li>
-        <li className="list-none margin-bottom-20">After playing sports all day, I was <strong>extremely</strong> hungry. (Sau khi chơi thể thao cả ngày, tôi rất đói.)</li>
+        <li value="9">Extremely <strong>hungry</strong> /ˈhʌŋɡri/</li>
+        <li className="list-none">After playing sports all day, I was ______.</li>
+        <li className="list-none margin-bottom-20">Sau khi chơi thể thao cả ngày, tôi rất đói.</li>
 
-        <li value="10"><strong>Extremely</strong> angry: Cực kỳ tức giận /ɪkˈstriːmli ˈæŋɡri/</li>
-        <li className="list-none margin-bottom-20">She was <strong>extremely</strong> angry when she heard the news. (Cô ấy rất tức giận khi nghe tin đó.)</li>
+        <li value="10">Extremely <strong>angry</strong> /ˈæŋɡri/</li>
+        <li className="list-none">She was ______ when she heard the news.</li>
+        <li className="list-none margin-bottom-20">Cô ấy rất tức giận khi nghe tin đó.</li>
 
       </ol>
 

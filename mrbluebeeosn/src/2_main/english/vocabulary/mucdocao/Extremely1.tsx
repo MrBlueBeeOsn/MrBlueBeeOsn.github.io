@@ -63,9 +63,11 @@ export default function Extremely1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>The exam was <strong>extremely</strong> difficult. (Bài kiểm tra khó vô cùng.)</li>
+          <li>The exam was ______ difficult.</li>
+          <li className="margin-bottom-20 list-none">Bài kiểm tra khó vô cùng.</li>
 
-          <li>She is <strong>extremely</strong> talented. (Cô ấy tài năng một cách phi thường.)</li>
+          <li>She is ______ talented.</li>
+          <li className="list-none">Cô ấy tài năng một cách phi thường.</li>
 
         </ul>
 
@@ -81,11 +83,13 @@ export default function Extremely1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Extreme (adj): cực đoan, cực kỳ /ɪkˈstriːm/</li>
-          <li className="margin-bottom-20 list-none">He took extreme measures to protect his family. (Anh ấy đã thực hiện những biện pháp cực đoan để bảo vệ gia đình.)</li>
+          <li>Extreme (adj) /ɪkˈstriːm/</li>
+          <li className="list-none">He took ______ measures to protect his family.</li>
+          <li className="margin-bottom-20 list-none">Anh ấy đã thực hiện những biện pháp cực đoan để bảo vệ gia đình.</li>
 
-          <li>Extremity (n): cực đoan, tình huống nguy cấp /ɪkˈstreməti/</li>
-          <li className="list-none">The situation reached its extremity. (Tình hình đã trở nên cực kỳ nghiêm trọng.)</li>
+          <li>Extremity (n) /ɪkˈstreməti/</li>
+          <li className="list-none">The situation reached its ______.</li>
+          <li className="list-none">Tình hình đã trở nên cực kỳ nghiêm trọng.</li>
 
         </ul>
 
@@ -101,11 +105,13 @@ export default function Extremely1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li><Link to="/vocabulary/very-1">Very</Link>: rất /ˈveri/</li>
-          <li className="margin-bottom-20 list-none">It's very hot today. (Hôm nay rất nóng.)</li>
+          <li><Link to="/vocabulary/very-1">Very</Link> /ˈveri/</li>
+          <li className="list-none">It's ______ hot today.</li>
+          <li className="margin-bottom-20 list-none">Hôm nay rất nóng.</li>
 
-          <li><Link to="/vocabulary/highly-1">Highly</Link>: cao độ /ˈhaɪli/</li>
-          <li className="list-none">She is highly regarded in her field. (Cô ấy được đánh giá rất cao trong lĩnh vực của mình.)</li>
+          <li><Link to="/vocabulary/highly-1">Highly</Link> /ˈhaɪli/</li>
+          <li className="list-none">She is ______ regarded in her field.</li>
+          <li className="list-none">Cô ấy được đánh giá rất cao trong lĩnh vực của mình.</li>
 
         </ul>
 
@@ -123,11 +129,13 @@ export default function Extremely1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Slightly: một chút /ˈslaɪtli/</li>
-          <li className="margin-bottom-20 list-none">I'm slightly tired. (Tôi hơi mệt.)</li>
+          <li>Slightly /ˈslaɪtli/</li>
+          <li className="list-none">I'm ______ tired.</li>
+          <li className="margin-bottom-20 list-none">Tôi hơi mệt.</li>
 
-          <li>Moderately: vừa phải /ˈmɒdərətli/</li>
-          <li className="list-none">The weather is moderately warm. (Thời tiết ấm áp vừa phải.)</li>
+          <li>Moderately /ˈmɒdərətli/</li>
+          <li className="list-none">The weather is ______ warm.</li>
+          <li className="list-none">Thời tiết ấm áp vừa phải.</li>
 
         </ul>
       
@@ -152,8 +160,8 @@ export default function Extremely1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>The thermometer is reading an <strong>extremely</strong> high temperature.</li>
-          <li className="list-none">(Nhiệt kế đang chỉ một mức nhiệt độ cực kỳ cao.)</li>
+          <li>The thermometer is reading an ______ high temperature.</li>
+          <li className="list-none">Nhiệt kế đang chỉ một mức nhiệt độ cực kỳ cao.</li>
 
         </ul>
 
@@ -172,8 +180,8 @@ export default function Extremely1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>The coffee is <strong>extremely</strong> hot.</li>
-          <li className="list-none">(Cà phê nóng cực kỳ.)</li>
+          <li>The coffee is ______ hot.</li>
+          <li className="list-none">Cà phê nóng cực kỳ.</li>
 
         </ul>
 
@@ -188,15 +196,17 @@ export default function Extremely1(): React.JSX.Element {
         <strong>&nbsp;thường xuyên</strong>:
       </p>
 
-      <p className="text-indent-whole">Thường xuyên sử dụng từ này trong các cuộc hội thoại và bài viết.</p>
+      <p className="text-indent-whole margin-bottom-20">Thường xuyên sử dụng từ này trong các cuộc hội thoại và bài viết.</p>
 
         <p className="text-indent-whole">Ví dụ để so sánh (sự khác biệt):</p>
 
           <ol>
 
-            <li>The movie was good. (Bộ phim hay.)</li>
+            <li>The movie was good.</li>
+            <li className="list-none margin-bottom-20">Bộ phim hay.</li>
 
-            <li className="margin-bottom-20">The movie was <strong>extremely</strong> good. (Bộ phim hay vô cùng.)</li>
+            <li value="2">The movie was ______ good.</li>
+            <li className="list-none margin-bottom-20">Bộ phim hay vô cùng.</li>
 
           </ol>
 
