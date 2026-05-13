@@ -129,37 +129,78 @@ export default function TheGaitOfEnglish2(): React.JSX.Element {
 			<h3 className="margin-y-50 text-center">6. Làm sao để luyện tập con đường thẳng đứng này?</h3>
 
 			<p>Việc coi SVOMPT là một đường chạy thẳng tắp giúp giải quyết ba vấn đề lớn của người học:</p>
+
+			<p><strong>1. Vẽ trong đầu bốn bước leo dốc</strong>:</p>
+
+			<p className="text-indent-whole">Trước khi nói bất kỳ câu nào, hãy hình dung một đường kẻ dọc. Gắn nhãn S ở đáy, rồi V, O, M, P, T lần lượt phía trên. Sau đó phát âm từng từ, mắt nhìn lên cao dần.</p>
+
+			<p><strong>2. Viết câu theo chiều dọc</strong>:</p>
+
+			<p className="text-indent-whole">Không phải hàng ngang. Hãy viết:</p>
+
+			<div className="pill-row">
+
+				<ul className="list-square">
+
+					<li className="list-none"><span className="pill t">T</span></li>
+
+					<li className="list-none">↑</li>
+					<li className="list-none"><span className="pill p">P</span></li>
+
+					<li className="list-none">↑</li>
+					<li className="list-none"><span className="pill m">M</span></li>
+
+					<li className="list-none">↑</li>
+					<li className="list-none"><span className="pill o">O</span></li>
+
+					<li className="list-none">↑</li>
+					<li className="list-none"><span className="pill v">V</span></li>
+
+					<li className="list-none">↑</li>
+					<li className="margin-bottom-20 list-none"><span className="pill s">S</span></li>
 			
-				<ol>
+				</ul>
 
-					<li value="1"><strong>Vẽ trong đầu bốn bước leo dốc</strong>:</li>
-					<li className="margin-bottom-20 list-none">Trước khi nói bất kỳ câu nào, hãy hình dung một đường kẻ dọc. Gắn nhãn S ở đáy, rồi V, O, M, P, T lần lượt phía trên. Sau đó phát âm từng từ, mắt nhìn lên cao dần.</li>
+			</div>
 
-					<li value="2"><strong>Viết câu theo chiều dọc</strong>:</li>
+			<p className="margin-top-20"><strong>Từ trên xuống cho dễ đọc</strong> rồi đọc ngược lên từ dưới. Cảm nhận sự leo thang.</p>
 
-					<li className="margin-bottom-20 list-none">Không phải hàng ngang. Hãy viết:</li>
+			<p className="margin-top-20"><strong>3. Nói chậm như bước lên thang</strong>:</p>
 
-					<li className="list-none">T</li>
-					<li className="list-none">P</li>
-					<li className="list-none">M</li>
-					<li className="list-none">O</li>
-					<li className="list-none">V</li>
-					<li className="list-none">S</li>
+			<div className="pill-row">
 
-					<li className="margin-bottom-20 list-none"><strong>Từ trên xuống cho dễ đọc</strong> rồi đọc ngược lên từ dưới. Cảm nhận sự leo thang.</li>
+				<ul className="list-square">
 
-					<li value="3"><strong>Nói chậm như bước lên thang</strong>:</li>
+					<li className="list-none"><span className="pill t">“every night” (đỉnh) — T</span></li>
 
-					<li className="margin-top-20 list-none">“every night” (đỉnh).</li>
-					<li className="list-none">“in my room” (gần đỉnh)</li>
-					<li className="list-none">“quietly” (cao hơn)</li>
-					<li className="list-none">“an apple” (cao)</li>
-					<li className="list-none">“eat” (bước)</li>
-					<li className="margin-bottom-20 list-none">“I” (chân chạm đất)</li>
+					<li className="list-none">↑</li>
+					<li className="list-none"><span className="pill p">“in my room” (gần đỉnh) — P</span></li>
 
-					<li className="margin-bottom-20 list-none">Và câu kết thúc.</li>
+					<li className="list-none">↑</li>
+					<li className="list-none"><span className="pill m">“quietly” (cao hơn) — M</span></li>
+
+					<li className="list-none">↑</li>
+					<li className="list-none"><span className="pill o">“an apple” (cao) — O</span></li>
+
+					<li className="list-none">↑</li>
+					<li className="list-none"><span className="pill v">“eat” (bước) — V</span></li>
+
+					<li className="list-none">↑</li>
+					<li className="margin-bottom-20 list-none"><span className="pill s">“I” (chân chạm đất) — S</span></li>
 			
-				</ol>
+				</ul>
+
+			</div>
+
+			<div className="example">
+
+				<p className="example-label">Và câu kết thúc:</p>
+
+				<p className="example-sentence">
+					<span className="s">I</span> &nbsp;<span className="v">eat</span> &nbsp;<span className="o">an apple</span> &nbsp;<span className="m">quietly</span> &nbsp;<span className="p">in my room</span> &nbsp;<span className="t">every night</span>.
+				</p>
+
+			</div>
 
 			{/* Lời kết: Cảm nhận trật tự, không học vẹt */}
 			
