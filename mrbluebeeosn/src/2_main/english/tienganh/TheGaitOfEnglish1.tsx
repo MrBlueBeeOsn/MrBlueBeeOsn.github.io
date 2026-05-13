@@ -4,6 +4,7 @@ import { HashLink } from 'react-router-hash-link';
 import EyeIcon from '@/components/view/EyeIcon';
 import ViewCounter from '@/components/view/ViewCounter';
 import LikeButton from '@/components/like/LikeButton';
+import SVOMPT from '@/components/method/SVOMPT';
 
 export default function TheGaitOfEnglish1(): React.JSX.Element {
 
@@ -52,6 +53,8 @@ export default function TheGaitOfEnglish1(): React.JSX.Element {
 			<p>Thay vì nhìn tiếng Anh như những khối gạch nằm ngang trên trang giấy, hãy thử thay đổi góc nhìn:</p>
 			
 			<p><strong>Hãy nhìn nó như một con đường thẳng tắp</strong>, <strong>xuất phát từ ngay dưới chân bạn và phóng tầm mắt về phía chân trời</strong>.</p>
+
+			<SVOMPT />
 					
 			<p>Đây chính là tư duy "viễn cảnh" – một cách tiếp cận biến cấu trúc SVOMPT khô khan thành một hành trình vận động không ngừng.</p>
 

@@ -4,6 +4,7 @@ import { HashLink } from 'react-router-hash-link';
 import EyeIcon from '@/components/view/EyeIcon';
 import ViewCounter from '@/components/view/ViewCounter';
 import LikeButton from '@/components/like/LikeButton';
+import SVOMPT from '@/components/method/SVOMPT';
 
 export default function TheGaitOfEnglish7(): React.JSX.Element {
 
@@ -60,6 +61,8 @@ export default function TheGaitOfEnglish7(): React.JSX.Element {
 			<h3 className="margin-y-50 text-center">1. SVOMPT</h3>
 
 			<p>Hành Trình Từ Gần Tới Xa Trên Đường Thẳng</p>
+
+			<SVOMPT />
 
 			<p>Đường thẳng:</p>
 

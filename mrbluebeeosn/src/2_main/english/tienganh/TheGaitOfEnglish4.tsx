@@ -4,6 +4,7 @@ import { HashLink } from 'react-router-hash-link';
 import EyeIcon from '@/components/view/EyeIcon';
 import ViewCounter from '@/components/view/ViewCounter';
 import LikeButton from '@/components/like/LikeButton';
+import SVOMPT from '@/components/method/SVOMPT';
 
 export default function TheGaitOfEnglish4(): React.JSX.Element {
 
@@ -56,8 +57,10 @@ export default function TheGaitOfEnglish4(): React.JSX.Element {
 			<p>Khi bắt đầu nhìn tiếng Anh như một dòng chuyển động thay vì một khối ngữ pháp tĩnh, việc nói trở nên tự nhiên hơn rất nhiều.</p>
 
 			<p>Đó là lúc SVOMPT trở nên đặc biệt thú vị.</p>
+
+			<SVOMPT />
 			
-				<ul className="list-square">
+				{/* <ul className="list-square">
 
 					<li className="list-none"><strong>T</strong></li>
 
@@ -76,7 +79,7 @@ export default function TheGaitOfEnglish4(): React.JSX.Element {
 					<li className="list-none">↑</li>
 					<li className="list-none"><strong>S</strong></li>
 			
-				</ul>
+				</ul> */}
 
 			<p className="margin-top-20">Thông thường, SVOMPT chỉ được dạy như một công thức về trật tự từ:</p>
 			

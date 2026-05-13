@@ -4,6 +4,7 @@ import { HashLink } from 'react-router-hash-link';
 import EyeIcon from '@/components/view/EyeIcon';
 import ViewCounter from '@/components/view/ViewCounter';
 import LikeButton from '@/components/like/LikeButton';
+import SVOMPT from '@/components/method/SVOMPT';
 
 export default function TheGaitOfEnglish2(): React.JSX.Element {
 
@@ -54,6 +55,8 @@ export default function TheGaitOfEnglish2(): React.JSX.Element {
 			<p className="margin-top-20">Và có một cách hình dung không chỉ giúp bạn nhớ trật tự này mà còn khiến bạn cảm nhận nó trong từng hơi thở khi nói:</p>
 
 			<p className="margin-top-20">Hãy tưởng tượng <strong>một đường thẳng đứng</strong>, <strong>từ dưới lên trên</strong>, <strong>từ gần đến xa</strong>, <strong>lao thẳng về phía trước</strong>.</p>
+
+			<SVOMPT />
 
 			{/* 1. Đường thẳng không nằm ngang */}
 			

@@ -4,6 +4,7 @@ import { HashLink } from 'react-router-hash-link';
 import EyeIcon from '@/components/view/EyeIcon';
 import ViewCounter from '@/components/view/ViewCounter';
 import LikeButton from '@/components/like/LikeButton';
+import SVOMPT from '@/components/method/SVOMPT';
 
 export default function TheGaitOfEnglish6(): React.JSX.Element {
 
@@ -82,6 +83,8 @@ export default function TheGaitOfEnglish6(): React.JSX.Element {
 			<h3 className="margin-y-50 text-center">2. Hình dung đường thẳng để nói trôi chảy</h3>
 
 			<p>Hãy tưởng tượng một đường thẳng bắt đầu ngay trước mặt bạn, thấp và gần, rồi vươn lên về phía trước và ra xa. Khi nói, bạn “bước” dọc theo đường thẳng đó:</p>
+
+			<SVOMPT />
 
 			<p><strong>S</strong> xuất hiện đầu tiên gần bạn, <strong>V</strong> xuất hiện tiếp theo, <strong>O</strong> hiện ra sau <strong>V</strong>, rồi <strong>M</strong>, <strong>P</strong>, <strong>T</strong> lần lượt xuất hiện ở phần xa hơn. Hình ảnh này giúp bạn giữ thứ tự trạng ngữ đúng chỗ khi nói nhanh, vì bạn chỉ cần đọc theo trình tự mà đường thẳng đưa ra.</p>
 

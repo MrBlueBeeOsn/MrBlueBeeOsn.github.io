@@ -4,6 +4,7 @@ import { HashLink } from 'react-router-hash-link';
 import EyeIcon from '@/components/view/EyeIcon';
 import ViewCounter from '@/components/view/ViewCounter';
 import LikeButton from '@/components/like/LikeButton';
+import SVOMPT from '@/components/method/SVOMPT';
 
 export default function TheGaitOfEnglish3(): React.JSX.Element {
 
@@ -47,9 +48,13 @@ export default function TheGaitOfEnglish3(): React.JSX.Element {
 
 			<h4 className="margin-bottom-30 text-center">SVOMPT – Bí Quyết Đường Thẳng Giúp Bạn Nói Tiếng Anh Lưu Loát Và Tự Nhiên</h4>
 					
-			<p>Bạn thường gặp khó khăn khi nói tiếng Anh bị rối thứ tự từ, câu nghe không mượt mà, hoặc phải suy nghĩ lâu mới ghép được câu? Giải pháp nằm ở một phương pháp đơn giản nhưng cực kỳ hiệu quả:</p>
+			<p>Bạn thường gặp khó khăn khi nói tiếng Anh bị rối thứ tự từ, câu nghe không mượt mà, hoặc phải suy nghĩ lâu mới ghép được câu?</p>
+
+			<p>Giải pháp nằm ở một phương pháp đơn giản nhưng cực kỳ hiệu quả:</p>
 
 			<p><strong>SVOMPT</strong> – con đường thẳng dẫn đến giao tiếp tự tin.</p>
+
+			<SVOMPT />
 
 			{/* SVOMPT là gì? */}
 			

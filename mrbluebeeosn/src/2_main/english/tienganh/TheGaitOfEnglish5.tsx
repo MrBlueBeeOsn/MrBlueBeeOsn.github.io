@@ -4,6 +4,7 @@ import { HashLink } from 'react-router-hash-link';
 import EyeIcon from '@/components/view/EyeIcon';
 import ViewCounter from '@/components/view/ViewCounter';
 import LikeButton from '@/components/like/LikeButton';
+import SVOMPT from '@/components/method/SVOMPT';
 
 export default function TheGaitOfEnglish5(): React.JSX.Element {
 
@@ -62,26 +63,8 @@ export default function TheGaitOfEnglish5(): React.JSX.Element {
 			<p>Hãy thử tưởng tượng: bạn đang đứng đầu một con đường thẳng tắp, kéo dài đến tận đường chân trời. Không có ngã rẽ, không có vòng lại. Chỉ có một hướng duy nhất — đi thẳng về phía trước.</p>
 
 			<p>Khi bạn mở miệng nói tiếng Anh, đó chính là lúc bạn bắt đầu bước đi trên con đường đó. Và trên con đường ấy, bạn sẽ lần lượt gặp:</p>
-			
-				<ul className="list-square">
 
-					<li>Time</li>
-
-					<li>Place</li>
-
-					<li>Manner</li>
-
-					<li>Object</li>
-
-					<li>Verb</li>
-
-					<li>Subject</li>
-			
-				</ul>
-
-			<p className="margin-top-20">Gần bạn nhất là S — vừa bước ra. Xa dần là V, O, M, P, T.</p>
-
-			<p>Nói là đi thẳng về phía trước.</p>
+			<SVOMPT />
 
 			<p><strong>Subject</strong> ở ngay dưới chân — gần nhất, to nhất. Đó là thứ đầu tiên bạn nói. Rồi bạn tiếp tục bước: gặp <strong>Verb</strong>, rồi <strong>Object</strong>, rồi <strong>Manner</strong>, rồi <strong>Place</strong>, và cuối cùng là <strong>Time</strong> — nhỏ dần, xa dần, về phía đường chân trời.</p>
 

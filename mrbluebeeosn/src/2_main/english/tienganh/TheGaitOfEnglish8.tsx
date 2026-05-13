@@ -4,6 +4,7 @@ import { HashLink } from 'react-router-hash-link';
 import EyeIcon from '@/components/view/EyeIcon';
 import ViewCounter from '@/components/view/ViewCounter';
 import LikeButton from '@/components/like/LikeButton';
+import SVOMPT from '@/components/method/SVOMPT';
 
 export default function TheGaitOfEnglish8(): React.JSX.Element {
 
@@ -56,6 +57,8 @@ export default function TheGaitOfEnglish8(): React.JSX.Element {
 			<h3 className="margin-y-50 text-center">1. Sáu lớp, từ xa về gần</h3>
 			
 			<p>Hãy nhìn lên từ chân bạn. Càng lên cao, chi tiết càng lùi xa:</p>
+
+			<SVOMPT />
 			
 				<ul className="list-square">
 
@@ -79,7 +82,7 @@ export default function TheGaitOfEnglish8(): React.JSX.Element {
 			
 				</ul>
 
-			<p className="margin-top-20">Xếp lại thành hình, bạn có:</p>
+			{/* <p className="margin-top-20">Xếp lại thành hình, bạn có:</p>
 			
 				<ul className="list-square">
 
@@ -100,7 +103,7 @@ export default function TheGaitOfEnglish8(): React.JSX.Element {
 					<li className="list-none">↑</li>
 					<li className="list-none"><strong>S</strong></li>
 			
-				</ul>
+				</ul> */}
 
 			<p className="margin-top-20">Đọc từ dưới lên, câu tự nhiên bật ra. Lấy một ví dụ:</p>
 			
