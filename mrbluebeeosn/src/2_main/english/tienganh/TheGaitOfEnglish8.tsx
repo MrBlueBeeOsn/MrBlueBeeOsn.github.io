@@ -105,25 +105,37 @@ export default function TheGaitOfEnglish8(): React.JSX.Element {
 			
 				</ul> */}
 
-			<p className="margin-top-20">Đọc từ dưới lên, câu tự nhiên bật ra. Lấy một ví dụ:</p>
+			<p className="margin-top-20">Đọc từ dưới lên, câu tự nhiên bật ra.</p>
+
+			<p>Lấy một ví dụ:</p>
 			
 				<ul className="list-square">
 			
-					<li className="list-none">after work</li>
+					<li className="list-none"><span className="pill t">after work — T</span></li>
 			
-					<li className="list-none">in my small kitchen</li>
+					<li className="list-none"><span className="pill p">in my small kitchen — P</span></li>
 			
-					<li className="list-none">slowly</li>
+					<li className="list-none"><span className="pill m">slowly — M</span></li>
 
-					<li className="list-none">dinner</li>
+					<li className="list-none"><span className="pill o">dinner — O</span></li>
 			
-					<li className="list-none">cook</li>
+					<li className="list-none"><span className="pill v">cook — V</span></li>
 			
-					<li className="list-none">I</li>
+					<li className="list-none"><span className="pill s">I — S</span></li>
 			
 				</ul>
 
-			<p className="margin-top-20">Đọc ngược từ đáy: I cook dinner slowly in my small kitchen after work.</p>
+			<p className="margin-top-20">Đọc ngược từ đáy:</p>
+
+			<div className="example">
+
+				<p className="example-label">Ví dụ</p>
+
+				<p className="example-sentence">
+					<span className="s">I</span> &nbsp;<span className="v">cook</span> &nbsp;<span className="o">dinner</span> &nbsp;<span className="m">slowly</span> &nbsp;<span className="p">in my small kitchen</span> &nbsp;<span className="t">after work</span>.
+				</p>
+
+			</div>
 
 			<p>Bạn không cần nhớ công thức. Bạn chỉ bước từ bậc gần nhất lên bậc xa nhất.</p>
 
