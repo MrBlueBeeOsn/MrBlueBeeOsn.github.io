@@ -587,6 +587,17 @@ export default function TiengAnhIndex(): React.JSX.Element {
 
             <li>
               <div className="li-content">
+                <Link to="/tieng-anh/the-gait-of-the-English-1">The gait of the English
+                <sup>&nbsp;1&nbsp;</sup>
+                </Link>
+              
+
+              
+              </div>
+            </li>
+
+            <li>
+              <div className="li-content">
                 <Link to="/tieng-anh/think-straight-flow-fast-1">Think straight
                 <sup>&nbsp;1&nbsp;</sup>
                 </Link>
