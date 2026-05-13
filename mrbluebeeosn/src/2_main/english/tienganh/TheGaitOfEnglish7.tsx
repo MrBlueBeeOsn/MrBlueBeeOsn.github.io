@@ -47,11 +47,11 @@ export default function TheGaitOfEnglish7(): React.JSX.Element {
 
 			<h4 className="margin-bottom-30 text-center">SVOMPT: "Đường Thẳng Từ Dưới Lên" – Chìa Khóa Vàng Nói Viết Tiếng Anh Siêu Mượt</h4>
 
-			<p>Bạn đang vật lộn với thứ tự từ tiếng Anh, khiến câu nói nghe "lủng củng"? Hãy hình dung một đường thẳng từ dưới đi lên:</p>
+			<p>Bạn đang vật lộn với thứ tự từ tiếng Anh, khiến câu nói nghe "lủng củng"? Hãy hình dung một <strong>đường thẳng từ dưới đi lên</strong>:</p>
 			
 			<p>Khởi đầu từ điểm gần chân mình, lao thẳng tắp về phía trước, hướng tới chân trời vô tận.</p>
 					
-			<p>Đó là SVOMPT – bí quyết sắp xếp từ ngữ tự nhiên, giúp não bạn "chạy" theo đường ray hoàn hảo. Nói thì từ lao từ gần tới xa; viết thì xếp hàng ngang.</p>
+			<p>Đó là <strong>SVOMPT</strong> – bí quyết sắp xếp từ ngữ tự nhiên, giúp não bạn "chạy" theo đường ray hoàn hảo. Nói thì từ lao từ gần tới xa; viết thì xếp hàng ngang.</p>
 
 			<p>Phương pháp này đang thay đổi cách hàng ngàn người học tiếng Anh!</p>
 
@@ -65,17 +65,17 @@ export default function TheGaitOfEnglish7(): React.JSX.Element {
 
 			<ul className="list-square">
 
-					<li className="list-none">Và bay tới T (Time - Thời gian) ở chân trời xa.</li>
+					<li className="list-none">Và bay tới <strong>T</strong> (<strong>Time</strong> - <strong>Thời gian</strong>) ở chân trời xa.</li>
 
-					<li className="list-none">P (Place - Nơi chốn)</li>
+					<li className="list-none"><strong>P</strong> (<strong>Place</strong> - <strong>Nơi chốn</strong>)</li>
 
-					<li className="list-none">M (Manner - Cách thức)</li>
+					<li className="list-none"><strong>M</strong> (<strong>Manner</strong> - <strong>Cách thức</strong>)</li>
 
-					<li className="list-none">rồi O (Object - Tân ngữ)</li>
+					<li className="list-none">rồi <strong>O</strong> (<strong>Object</strong> - <strong>Tân ngữ</strong>)</li>
 
-					<li className="list-none">Tiếp theo V (Verb - Động từ) vọt lên</li>
+					<li className="list-none">Tiếp theo <strong>V</strong> (<strong>Verb</strong> - <strong>Động từ</strong>) vọt lên</li>
 
-					<li className="margin-bottom-20 list-none">Bắt đầu bằng S (Subject - Chủ ngữ) ở vị trí gần nhất</li>
+					<li className="margin-bottom-20 list-none">Bắt đầu bằng <strong>S</strong> (<strong>Subject</strong> - <strong>Chủ ngữ</strong>) ở vị trí gần nhất</li>
 			
 				</ul>
 
