@@ -84,31 +84,41 @@ export default function TheGaitOfEnglish5(): React.JSX.Element {
 
 			<p>Lấy một câu đơn giản và đặt từng từ lên con đường đó:</p>
 
-			<p>Ví dụ:</p>
+			<div className="example">
 
-			<p>She  eats  lunch  quietly  at school  every day.</p>
-			
+				<p className="example-label">Ví dụ</p>
+
+				<p className="example-sentence">
+					<span className="s">She</span> &nbsp;<span className="v">eats</span> &nbsp;<span className="o">lunch</span> &nbsp;<span className="m">quietly</span> &nbsp;<span className="p">at school</span> &nbsp;<span className="t">every day</span>.
+				</p>
+
+			</div>
+
+			<div className="pill-row">
+
 				<ul className="list-square">
 
-					<li className="list-none">every day — T</li>
+					<li className="list-none"><span className="pill t">every day — T</span></li>
 
 					<li className="list-none">↑</li>
-					<li className="list-none">at school — P</li>
+					<li className="list-none"><span className="pill p">at school — P</span></li>
 
 					<li className="list-none">↑</li>
-					<li className="list-none">quietly — M</li>
+					<li className="list-none"><span className="pill m">quietly — M</span></li>
 
 					<li className="list-none">↑</li>
-					<li className="list-none">lunch — O</li>
+					<li className="list-none"><span className="pill o">lunch — O</span></li>
 
 					<li className="list-none">↑</li>
-					<li className="list-none">eats — V</li>
+					<li className="list-none"><span className="pill v">eats — V</span></li>
 
 					<li className="list-none">↑</li>
-					<li className="margin-bottom-20 list-none">She — S</li>
+					<li className="margin-bottom-20 list-none"><span className="pill s">She — S</span></li>
 			
 				</ul>
 
+			</div>
+			
 			<p className="margin-top-20">Từng từ xuất hiện theo thứ tự, rồi biến mất về phía xa. Bạn không cần dừng lại để sắp xếp — bạn chỉ cần tiếp tục bước.</p>
 
 			{/* 3. Một vài điều cần nhớ thêm */}
