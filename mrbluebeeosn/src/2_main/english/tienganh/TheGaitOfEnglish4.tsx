@@ -45,88 +45,136 @@ export default function TheGaitOfEnglish4(): React.JSX.Element {
 
 			</h1>
 
-			<h4 className="margin-bottom-30 text-center">TƯ DUY "VIỄN CẢNH": LÀM CHỦ TIẾNG ANH THEO ĐƯỜNG THẲNG TIẾN VỀ PHÍA TRƯỚC</h4>
+			<h4 className="margin-bottom-30 text-center">SVOMPT — Bí Mật Giúp Bạn Nói Tiếng Anh Tự Nhiên Hơn Có Thể Không Nằm Ở Ngữ Pháp</h4>
 
-			<p>Trong thế giới của những người học ngoại ngữ, có một ranh giới vô hình giữa việc "biết" ngữ pháp và việc "nói" trôi chảy. Sự khác biệt thường nằm ở cách chúng ta hình dung câu chữ trong đầu.</p>
-
-			<p>Thay vì nhìn tiếng Anh như những khối gạch nằm ngang trên trang giấy, hãy thử thay đổi góc nhìn:</p>
+			<p>Rất nhiều người học tiếng Anh gặp cùng một vấn đề: họ biết khá nhiều từ vựng, hiểu ngữ pháp và có thể làm bài tập tốt, nhưng khi bắt đầu nói, mọi thứ lại trở nên chậm chạp. Câu nói không đi ra tự nhiên. Tâm trí phải dừng lại giữa chừng để suy nghĩ, sắp xếp và kiểm tra từng phần của câu.</p>
 			
-			<p><strong>Hãy nhìn nó như một con đường thẳng tắp</strong>, <strong>xuất phát từ ngay dưới chân bạn và phóng tầm mắt về phía chân trời</strong>.</p>
+			<p>Điều thú vị là nguyên nhân đôi khi không nằm ở việc bạn biết bao nhiêu tiếng Anh, mà nằm ở cách bộ não đang hình dung ngôn ngữ.</p>
 					
-			<p>Đây chính là tư duy "viễn cảnh" – một cách tiếp cận biến cấu trúc SVOMPT khô khan thành một hành trình vận động không ngừng.</p>
+			<p>Phần lớn người học nhìn câu tiếng Anh như một dòng chữ nằm ngang trên giấy. Họ cố giữ cả câu trong đầu trước khi nói. Nhưng giao tiếp thật không hoạt động theo cách đó. Khi nói, ngôn ngữ không đứng yên. Nó di chuyển theo thời gian. Từng từ xuất hiện rồi biến mất để nhường chỗ cho từ tiếp theo.</p>
 
-			{/* 1. Phẫu thuật "Đường thẳng" từ gần đến xa */}
-			
-			<h3 className="margin-y-50 text-center">1. Phẫu thuật "Đường thẳng" từ gần đến xa</h3>
+			<p>Khi bắt đầu nhìn tiếng Anh như một dòng chuyển động thay vì một khối ngữ pháp tĩnh, việc nói trở nên tự nhiên hơn rất nhiều.</p>
 
-			<p>Thay vì cố dịch ngược tính từ lên trước, hãy lập tức biến nó thành một danh từ chỉ <strong>bản chất</strong>. Hãy dùng cấu trúc "<strong>Cái</strong>... <strong>của</strong>..." để tạo ra một dòng chảy mượt mà.</p>
-
-			<p>Hãy tưởng tượng bạn đang đứng tại điểm bắt đầu của một con đường. Trong tiếng Anh, mỗi câu nói không dàn hàng ngang cho bạn ngắm nghía; chúng xuất hiện ở điểm gần, sau đó tiến xa dần theo một đường thẳng tắp hướng về phía trước.</p>
+			<p>Đó là lúc SVOMPT trở nên đặc biệt thú vị.</p>
 			
 				<ul className="list-square">
 
-					<li><strong>Viễn cảnh</strong> (<strong>P</strong> - <strong>Place</strong> & <strong>T</strong> - <strong>Time</strong>):</li>
-					<li className="margin-bottom-20 list-none">Những cột mốc nằm ở phía xa. Nơi chốn và thời gian là những điểm kết thúc lộ trình, định hình nên toàn bộ bối cảnh của hành trình bạn vừa đi qua.</li>
+					<li className="list-none"><strong>T</strong></li>
 
-					<li><strong>Tầm trung</strong> (<strong>O</strong> - <strong>Object</strong> & <strong>M</strong> - <strong>Manner</strong>):</li>
-					<li className="margin-bottom-20 list-none">Những gì bạn gặp trên đường và cách bạn lướt qua chúng.</li>
+					<li className="list-none">↑</li>
+					<li className="list-none"><strong>P</strong></li>
 
-					<li><strong>Gia tốc</strong> (<strong>V</strong> - <strong>Verb</strong>):</li>
-					<li className="margin-bottom-20 list-none">Ngay sau khi đứng vững, bạn bước đi. Động từ chính là lực đẩy, khiến câu nói chuyển động về phía trước.</li>
+					<li className="list-none">↑</li>
+					<li className="list-none"><strong>M</strong></li>
 
-					<li><strong>Cận cảnh</strong> (<strong>S</strong> - <strong>Subject</strong>):</li>
-					<li className="margin-bottom-20 list-none">Điểm khởi đầu nằm ngay sát bạn. Bạn phải xác định "Ai" hoặc "Cái gì" đầu tiên. Đây là nền móng để bạn đặt chân xuống con đường.</li>
+					<li className="list-none">↑</li>
+					<li className="list-none"><strong>O</strong></li>
+
+					<li className="list-none">↑</li>
+					<li className="list-none"><strong>V</strong></li>
+
+					<li className="list-none">↑</li>
+					<li className="margin-bottom-20 list-none"><strong>S</strong></li>
 			
 				</ul>
 
-			<p className="margin-top-20">Mọi thành phần đều xếp trên một trục duy nhất. Không có đường vòng, không có sự chồng chéo.</p>
-
-			{/* 2. Sự khác biệt giữa "Đường thẳng" và "Hàng ngang" */}
-			
-			<h3 className="margin-y-50 text-center">2. Sự khác biệt giữa "Đường thẳng" và "Hàng ngang"</h3>
-
-			<p>Tại sao chúng ta thường giỏi viết hơn giỏi nói? Câu trả lời nằm ở chiều không gian của tư duy:</p>
+			<p>Thông thường, SVOMPT chỉ được dạy như một công thức về trật tự từ:</p>
 			
 				<ul className="list-square">
 
-					<li value="1"><strong>Khi viết</strong> (<strong>Tư duy Hàng ngang</strong>):</li>
-					<li className="margin-bottom-20 list-none">Bạn đang vẽ trên một mặt phẳng tĩnh. Bạn có thể quay lại đầu dòng, sửa xóa toa tàu cuối cùng, hoặc chèn thêm chi tiết vào giữa. Nó giống như việc dàn trang một tờ báo.</li>
+					<li>Time</li>
 
-					<li value="2"><strong>Khi nói</strong> (<strong>Tư duy Đường thẳng</strong>):</li>
-					<li className="margin-bottom-20 list-none">Từ ngữ mang tính thời điểm. Một khi từ đã được "phóng" đi từ điểm gần và tiến về phía xa, nó sẽ biến mất để nhường chỗ cho từ tiếp theo. Bạn không thể quay đầu lại nhặt những gì đã rơi.</li>
+					<li>Place</li>
+
+					<li>Manner</li>
+
+					<li>Object</li>
+
+					<li>Verb</li>
+
+					<li>Subject</li>
 			
 				</ul>
 
-			<p className="margin-top-20">Bằng cách tưởng tượng một đường thẳng đi tới, bạn giải phóng não bộ khỏi áp lực phải "xem lại" những gì đã nói. Bạn chỉ cần tập trung vào việc đẩy từ tiếp theo vào đúng vị trí trên con đường đang trải dài trước mắt.</p>
+			<p className="margin-top-20">Nhưng nếu chỉ học nó bằng lý thuyết, bộ não sẽ rất dễ cảm thấy khô khan và áp lực. Điều làm cấu trúc này trở nên mạnh mẽ thật sự là cách bạn tưởng tượng nó trong tâm trí.</p>
 
-			{/* 3. Tại sao cách tưởng tượng này lại tạo ra sự đột phá? */}
+			<p>Hãy hình dung câu tiếng Anh giống như một đường thẳng đang đi từ dưới đi lên và kéo dài về phía trước. Điểm bắt đầu nằm rất gần, sau đó từng phần của câu tiếp tục nâng dòng suy nghĩ lên cao hơn và đi xa hơn. Mỗi từ giống như một bước chuyển động đang mở rộng câu nói.</p>
+
+			{/* Ví dụ: */}
 			
-			<h3 className="margin-y-50 text-center">3. Tại sao cách tưởng tượng này lại tạo ra sự đột phá?</h3>
-
-			<p>Việc coi SVOMPT là một đường chạy thẳng tắp giúp giải quyết ba vấn đề lớn của người học:</p>
+			<h3 className="margin-y-50 text-center">Ví dụ:</h3>
 			
-				<ol>
+				<ul className="list-square">
 
-					<li value="1"><strong>Xóa bỏ thói quen dịch ngược</strong>:</li>
-					<li className="margin-bottom-20 list-none">Tiếng Việt thường có trật tự trạng ngữ khá tự do, khiến chúng ta hay có xu hướng "nhảy cóc" trong câu. Tư duy đường thẳng ép bạn phải đi theo đúng lộ trình: xác định chủ thể trước, hành động sau, rồi mới đến bối cảnh.</li>
+					<li className="list-none">every evening</li>
 
-					<li value="2"><strong>Tăng tốc độ phản xạ</strong>:</li>
-					<li className="margin-bottom-20 list-none">Khi bạn coi từ ngữ là những vật thể xuất hiện rồi biến mất theo đường thẳng, bạn sẽ bớt sợ sai. Bạn hiểu rằng mục tiêu là tiến về phía trước, chứ không phải dừng lại để sắp xếp lại hàng ngang.</li>
+					<li className="list-none">↑</li>
+					<li className="list-none">in the park</li>
 
-					<li value="3"><strong>Tối ưu hóa bộ nhớ đệm</strong>:</li>
-					<li className="margin-bottom-20 list-none">Não bộ chỉ cần xử lý một "toa tàu" tại một thời điểm trên đường ray. Điều này giúp giảm thiểu sự quá tải khi phải cố nhớ quá nhiều quy tắc ngữ pháp cùng lúc.</li>
+					<li className="list-none">↑</li>
+					<li className="list-none">slowly</li>
+
+					<li className="list-none">↑</li>
+					<li className="list-none">coffee</li>
+
+					<li className="list-none">↑</li>
+					<li className="list-none">drinks</li>
+
+					<li className="list-none">↑</li>
+					<li className="margin-bottom-20 list-none">She</li>
 			
-				</ol>
+				</ul>
 
-			{/* Bí kíp thực hành: "Mắt hướng về chân trời" */}
+			<p className="margin-top-20">Khi đọc từ dưới đi lên, câu sẽ trở thành:</p>
+
+			<p>She drinks coffee slowly in the park every evening.</p>
+
+			<p>Bạn có thể cảm nhận cách câu đang di chuyển. “She” là điểm khởi đầu gần nhất trong tâm trí. Sau đó “drinks” tạo ra hành động. “Coffee” mở rộng nội dung. Rồi câu tiếp tục đi xa hơn với cách thức, nơi chốn và thời gian.</p>
+
+			<p>Điều quan trọng là bạn không cần giữ toàn bộ câu cùng lúc trong đầu.</p>
+
+			<p>Bạn chỉ cần đi tiếp.</p>
+
+			{/* Một ví dụ khác: */}
 			
-			<h3 className="margin-y-50 text-center">Bí kíp thực hành: "Mắt hướng về chân trời"</h3>
+			<h3 className="margin-y-50 text-center">Một ví dụ khác:</h3>
+			
+				<ul className="list-square">
 
-			<p>Mỗi khi bắt đầu một câu nói, hãy hình dung bạn đang đứng ở điểm <strong>S</strong>. Đừng nhìn sang hai bên, hãy nhìn thẳng về điểm <strong>T</strong> ở phía xa nhất.</p>
+					<li className="list-none">on weekends</li>
 
-			<p>Hãy để <strong>V</strong> đẩy bạn đi, gặp <strong>O</strong> trên đường, lướt qua <strong>M</strong> và <strong>P</strong> để rồi dừng lại ở <strong>T</strong>. Khi từ cuối cùng chạm đến chân trời, câu nói của bạn đã hoàn thành một cách trọn vẹn và logic nhất.</p>
+					<li className="list-none">↑</li>
+					<li className="list-none">at the stadium</li>
 
-			<p className="margin-top-20">Nói là tiến tới. Một khi bạn đã làm chủ được đường thẳng của mình, tiếng Anh sẽ không còn là một bài toán đố, mà là một dòng chảy tự nhiên của tư duy.</p>
+					<li className="list-none">↑</li>
+					<li className="list-none">excitedly</li>
+
+					<li className="list-none">↑</li>
+					<li className="list-none">football</li>
+
+					<li className="list-none">↑</li>
+					<li className="list-none">plays</li>
+
+					<li className="list-none">↑</li>
+					<li className="margin-bottom-20 list-none">My cousin</li>
+			
+				</ul>
+
+			<p className="margin-top-20">Khi đọc từ dưới lên:</p>
+
+			<p className="margin-bottom-20">My cousin plays football excitedly at the stadium on weekends.</p>
+
+			<p>Khi luyện theo cách này, tiếng Anh bắt đầu giống một dòng chảy hơn là một bài kiểm tra ngữ pháp. Bộ não không còn phải liên tục dừng lại để phân tích đúng sai. Thay vào đó, nó chỉ cần tiếp tục di chuyển theo hướng tự nhiên của câu nói.</p>
+
+			<p>Đó cũng là lý do nhiều người có thể viết tiếng Anh khá tốt nhưng lại khó nói trôi chảy. Khi viết, mọi từ nằm yên trên mặt giấy và bạn có thể nhìn tất cả cùng lúc. Nhưng khi nói, ngôn ngữ tồn tại theo thời gian. Từng phần chỉ xuất hiện trong một khoảnh khắc ngắn rồi biến mất.</p>
+
+			<p>Nếu cố giữ toàn bộ câu trong đầu, bạn sẽ rất dễ bị quá tải.</p>
+
+			<p>Ngược lại, khi chỉ tập trung vào phần tiếp theo của dòng chuyển động, việc nói bắt đầu nhẹ hơn rất nhiều. Bạn không còn cảm giác mình đang “xây dựng” câu nói bằng áp lực nữa. Thay vào đó, bạn đang đi cùng hướng di chuyển của ngôn ngữ.</p>
+
+			<p>Có lẽ sự trôi chảy không đến từ việc cố suy nghĩ nhanh hơn.</p>
+
+			<p className="margin-top-20">Nó đến từ việc để câu nói tiếp tục chuyển động tự nhiên trong tâm trí.</p>
 
 			<div className="viewcounter">
 			
