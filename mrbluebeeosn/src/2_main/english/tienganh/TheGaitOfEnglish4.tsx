@@ -100,9 +100,9 @@ export default function TheGaitOfEnglish4(): React.JSX.Element {
 
 			<p>Hãy hình dung câu tiếng Anh giống như một đường thẳng đang đi từ dưới đi lên và kéo dài về phía trước. Điểm bắt đầu nằm rất gần, sau đó từng phần của câu tiếp tục nâng dòng suy nghĩ lên cao hơn và đi xa hơn. Mỗi từ giống như một bước chuyển động đang mở rộng câu nói.</p>
 
-			{/* Ví dụ: */}
+			{/* 1. Ví dụ: */}
 			
-			<h3 className="margin-y-50 text-center">Ví dụ:</h3>
+			<h3 className="margin-y-50 text-center">1. Ví dụ:</h3>
 			
 				<ul className="list-square">
 
@@ -135,9 +135,9 @@ export default function TheGaitOfEnglish4(): React.JSX.Element {
 
 			<p>Bạn chỉ cần đi tiếp.</p>
 
-			{/* Một ví dụ khác: */}
+			{/* 2. Một ví dụ khác: */}
 			
-			<h3 className="margin-y-50 text-center">Một ví dụ khác:</h3>
+			<h3 className="margin-y-50 text-center">2. Một ví dụ khác:</h3>
 			
 				<ul className="list-square">
 
