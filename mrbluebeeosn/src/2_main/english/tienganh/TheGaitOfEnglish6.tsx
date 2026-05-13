@@ -53,9 +53,9 @@ export default function TheGaitOfEnglish6(): React.JSX.Element {
 					
 			<p>Một hình ảnh trực quan mạnh mẽ để ghi nhớ là tưởng tượng các thành phần này xuất hiện theo <strong>một đường thẳng đi từ dưới lên</strong>, <strong>từ gần tới xa</strong>; mỗi thành phần hiện ra khi bạn “đi” dọc theo đường thẳng rồi biến mất khi bạn tiếp tục.</p>
 
-			{/* Thành phần và vai trò */}
+			{/* 1. Thành phần và vai trò */}
 			
-			<h3 className="margin-y-50 text-center">Thành phần và vai trò</h3>
+			<h3 className="margin-y-50 text-center">1. Thành phần và vai trò</h3>
 			
 				<ul className="list-square">
 
@@ -77,17 +77,17 @@ export default function TheGaitOfEnglish6(): React.JSX.Element {
 
 			<p className="margin-top-20">Quy tắc thực tế: khi có nhiều trạng ngữ, thứ tự sau động từ thường là <strong>Manner</strong> → <strong>Place</strong> → <strong>Time</strong>.</p>
 
-			{/* Hình dung đường thẳng để nói trôi chảy */}
+			{/* 2. Hình dung đường thẳng để nói trôi chảy */}
 			
-			<h3 className="margin-y-50 text-center">Hình dung đường thẳng để nói trôi chảy</h3>
+			<h3 className="margin-y-50 text-center">2. Hình dung đường thẳng để nói trôi chảy</h3>
 
 			<p>Hãy tưởng tượng một đường thẳng bắt đầu ngay trước mặt bạn, thấp và gần, rồi vươn lên về phía trước và ra xa. Khi nói, bạn “bước” dọc theo đường thẳng đó:</p>
 
 			<p><strong>S</strong> xuất hiện đầu tiên gần bạn, <strong>V</strong> xuất hiện tiếp theo, <strong>O</strong> hiện ra sau <strong>V</strong>, rồi <strong>M</strong>, <strong>P</strong>, <strong>T</strong> lần lượt xuất hiện ở phần xa hơn. Hình ảnh này giúp bạn giữ thứ tự trạng ngữ đúng chỗ khi nói nhanh, vì bạn chỉ cần đọc theo trình tự mà đường thẳng đưa ra.</p>
 
-			{/* Ví dụ mẫu */}
+			{/* 3. Ví dụ mẫu */}
 			
-			<h3 className="margin-y-50 text-center">Ví dụ mẫu</h3>
+			<h3 className="margin-y-50 text-center">3. Ví dụ mẫu</h3>
 
 			<p>I read the book quietly in the library yesterday.</p>
 
@@ -95,9 +95,9 @@ export default function TheGaitOfEnglish6(): React.JSX.Element {
 
 			<p>Nhìn theo đường thẳng: <strong>S</strong> → <strong>V</strong> → <strong>O</strong> → <strong>M</strong> → <strong>P</strong> → <strong>T</strong>. Khi cần nhấn mạnh thời gian, bạn có thể đưa Time lên đầu câu: Yesterday, I read the book quietly in the library.</p>
 
-			{/* Những lỗi thường gặp và cách sửa */}
+			{/* 4. Những lỗi thường gặp và cách sửa */}
 			
-			<h3 className="margin-y-50 text-center">Những lỗi thường gặp và cách sửa</h3>
+			<h3 className="margin-y-50 text-center">4. Những lỗi thường gặp và cách sửa</h3>
 			
 				<ul className="list-square">
 
@@ -112,9 +112,9 @@ export default function TheGaitOfEnglish6(): React.JSX.Element {
 			
 				</ul>
 
-			{/* Bài tập luyện 10 phút mỗi ngày */}
+			{/* 5. Bài tập luyện 10 phút mỗi ngày */}
 			
-			<h3 className="margin-y-50 text-center">Bài tập luyện 10 phút mỗi ngày</h3>
+			<h3 className="margin-y-50 text-center">5. Bài tập luyện 10 phút mỗi ngày</h3>
 			
 				<ol>
 
@@ -128,9 +128,9 @@ export default function TheGaitOfEnglish6(): React.JSX.Element {
 
 			<p className="margin-top-20">Thực hành đều đặn sẽ biến hình ảnh đường thẳng thành phản xạ khi nói.</p>
 
-			{/* Mẹo nâng cao để linh hoạt khi giao tiếp */}
+			{/* 6. Mẹo nâng cao để linh hoạt khi giao tiếp */}
 			
-			<h3 className="margin-y-50 text-center">Mẹo nâng cao để linh hoạt khi giao tiếp</h3>
+			<h3 className="margin-y-50 text-center">6. Mẹo nâng cao để linh hoạt khi giao tiếp</h3>
 			
 				<ul className="list-square">
 
