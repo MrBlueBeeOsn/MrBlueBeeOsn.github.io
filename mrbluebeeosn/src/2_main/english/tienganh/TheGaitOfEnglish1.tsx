@@ -89,7 +89,7 @@ export default function TheGaitOfEnglish1(): React.JSX.Element {
 			
 				<ul className="list-square">
 
-					<li value="2"><strong>Khi viết</strong> (<strong>Tư duy Hàng ngang</strong>):</li>
+					<li value="1"><strong>Khi viết</strong> (<strong>Tư duy Hàng ngang</strong>):</li>
 					<li className="margin-bottom-20 list-none">Bạn đang vẽ trên một mặt phẳng tĩnh. Bạn có thể quay lại đầu dòng, sửa xóa toa tàu cuối cùng, hoặc chèn thêm chi tiết vào giữa. Nó giống như việc dàn trang một tờ báo.</li>
 
 					<li value="2"><strong>Khi nói</strong> (<strong>Tư duy Đường thẳng</strong>):</li>
