@@ -111,7 +111,7 @@ export default function ThinkStraightFlowFast8(): React.JSX.Element {
 			<div className="viewcounter">
 			
 				<div className="post-date no-margin">
-					<span>January 12, 2026 · by MetaAI and 🐝Mr. Bee Osn ·</span>
+					<span>January 12, 2026 · by Meta AI and 🐝Mr. Bee Osn ·</span>
 				</div>
 
 				<div className="eye-icon no-margin">

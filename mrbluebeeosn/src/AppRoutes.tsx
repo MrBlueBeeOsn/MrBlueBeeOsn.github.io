@@ -139,7 +139,14 @@ const Posts = lazy(() => import('@/data/Posts'));
 	const BiMatVeTuDuyNgonNgu2 = lazy(() => import('@/2_main/english/tienganh/folder/BiMatVeTuDuyNgonNgu2'));
 	const BiMatVeTuDuyNgonNgu3 = lazy(() => import('@/2_main/english/tienganh/folder/BiMatVeTuDuyNgonNgu3'));
 
-	const TheGaitOfTheEnglish1 = lazy(() => import('@/2_main/english/tienganh/TheGaitOfTheEnglish1'));
+	const TheGaitOfEnglish1 = lazy(() => import('@/2_main/english/tienganh/TheGaitOfEnglish1'));
+	const TheGaitOfEnglish2 = lazy(() => import('@/2_main/english/tienganh/TheGaitOfEnglish2'));
+	const TheGaitOfEnglish3 = lazy(() => import('@/2_main/english/tienganh/TheGaitOfEnglish3'));
+	const TheGaitOfEnglish4 = lazy(() => import('@/2_main/english/tienganh/TheGaitOfEnglish4'));
+	const TheGaitOfEnglish5 = lazy(() => import('@/2_main/english/tienganh/TheGaitOfEnglish5'));
+	const TheGaitOfEnglish6 = lazy(() => import('@/2_main/english/tienganh/TheGaitOfEnglish6'));
+	const TheGaitOfEnglish7 = lazy(() => import('@/2_main/english/tienganh/TheGaitOfEnglish7'));
+	const TheGaitOfEnglish8 = lazy(() => import('@/2_main/english/tienganh/TheGaitOfEnglish8'));
 
 
 	const TheBeautyOfTheGirl1 = lazy(() => import('@/2_main/english/tienganh/TheBeautyOfTheGirl1'));
@@ -611,7 +618,14 @@ export default function AppRoutes(): React.JSX.Element {
 					<Route path="/tieng-anh/bi-mat-ve-tu-duy-ngon-ngu-2" element={<BiMatVeTuDuyNgonNgu2 />} />
 					<Route path="/tieng-anh/bi-mat-ve-tu-duy-ngon-ngu-3" element={<BiMatVeTuDuyNgonNgu3 />} />
 
-					<Route path="/tieng-anh/the-gait-of-the-english-1" element={<TheGaitOfTheEnglish1 />} />
+					<Route path="/tieng-anh/the-gait-of-english-1" element={<TheGaitOfEnglish1 />} />
+					<Route path="/tieng-anh/the-gait-of-english-2" element={<TheGaitOfEnglish2 />} />
+					<Route path="/tieng-anh/the-gait-of-english-3" element={<TheGaitOfEnglish3 />} />
+					<Route path="/tieng-anh/the-gait-of-english-4" element={<TheGaitOfEnglish4 />} />
+					<Route path="/tieng-anh/the-gait-of-english-5" element={<TheGaitOfEnglish5 />} />
+					<Route path="/tieng-anh/the-gait-of-english-6" element={<TheGaitOfEnglish6 />} />
+					<Route path="/tieng-anh/the-gait-of-english-7" element={<TheGaitOfEnglish7 />} />
+					<Route path="/tieng-anh/the-gait-of-english-8" element={<TheGaitOfEnglish8 />} />
 
 					<Route path="/tieng-anh/the-beauty-of-the-girl-1" element={<TheBeautyOfTheGirl1 />} />
 					<Route path="/tieng-anh/the-beauty-of-the-girl-2" element={<TheBeautyOfTheGirl2 />} />
