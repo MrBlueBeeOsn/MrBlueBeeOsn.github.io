@@ -74,11 +74,11 @@ export default function TheGaitOfEnglish4(): React.JSX.Element {
 					<li className="list-none"><strong>V</strong></li>
 
 					<li className="list-none">↑</li>
-					<li className="margin-bottom-20 list-none"><strong>S</strong></li>
+					<li className="list-none"><strong>S</strong></li>
 			
 				</ul>
 
-			<p>Thông thường, SVOMPT chỉ được dạy như một công thức về trật tự từ:</p>
+			<p className="margin-top-20">Thông thường, SVOMPT chỉ được dạy như một công thức về trật tự từ:</p>
 			
 				<ul className="list-square">
 
