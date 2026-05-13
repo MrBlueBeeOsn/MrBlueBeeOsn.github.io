@@ -136,21 +136,25 @@ export default function TheGaitOfEnglish7(): React.JSX.Element {
 
 					<li className="margin-bottom-20 list-none"><strong>Đường thẳng SVOMPT</strong>:</li>
 
+					<li className="margin-bottom-20 list-none">
+
 						<ul className="list-square">
 
-							<li className="list-none">this afternoon (T)</li>
+							<li className="list-none"><strong>this afternoon</strong> (T)</li>
 
-							<li className="list-none">on colored paper (P)</li>
+							<li className="list-none"><strong>on colored paper</strong> (P)</li>
 
-							<li className="list-none">beautifully (M)</li>
+							<li className="list-none"><strong>beautifully</strong> (M)</li>
 
-							<li className="list-none">picture (O)</li>
+							<li className="list-none"><strong>picture</strong> (O)</li>
 
-							<li className="list-none">drew (V)</li>
+							<li className="list-none"><strong>drew</strong> (V)</li>
 
-							<li className="margin-bottom-20 list-none">Girl (S)</li>
+							<li className="list-none"><strong>Girl</strong> (S)</li>
 					
 						</ul>
+
+					</li>
 
 					<li className="list-none"><strong>Kết quả</strong>:</li>
 					<li className="margin-bottom-20 list-none">The girl drew the picture beautifully on colored paper this afternoon.</li>
