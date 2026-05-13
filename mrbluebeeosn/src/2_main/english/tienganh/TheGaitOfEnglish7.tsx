@@ -102,29 +102,37 @@ export default function TheGaitOfEnglish7(): React.JSX.Element {
 
 			<p className="margin-top-20">Nhưng theo SVOMPT:</p>
 
-			<ul className="list-square">
+			<div className="pill-row">
 
-					<li className="list-none">in the evening (T xa)</li>
+				<ul className="list-square">
 
-					<li className="list-none">in the library (P)</li>
+					<li className="list-none"><span className="pill t">in the evening (T xa)</span></li>
 
-					<li className="list-none">interestingly (M)</li>
+					<li className="list-none"><span className="pill p">in the library (P)</span></li>
 
-					<li className="list-none">the book (O)</li>
+					<li className="list-none"><span className="pill m">interestingly (M) — M</span></li>
 
-					<li className="list-none">read (V)</li>
+					<li className="list-none"><span className="pill o">the book (O)</span></li>
 
-					<li className="margin-bottom-20 list-none">I (S gần)</li>
+					<li className="list-none"><span className="pill v">read (V)</span></li>
+
+					<li className="margin-bottom-20 list-none"><span className="pill s">I (S gần)</span></li>
 			
 				</ul>
 
+			</div>
+
 			<p className="margin-top-20">Câu đúng:</p>
 
-			<ul className="list-square">
+			<div className="example">
 
-				<li className="list-none">I read the book interestingly in the library in the evening.</li>
+				<p className="example-label">Ví dụ</p>
 
-			</ul>
+				<p className="example-sentence">
+					<span className="s">I</span> &nbsp;<span className="v">read</span> &nbsp;<span className="o">the book</span> &nbsp;<span className="m">interestingly</span> &nbsp;<span className="p">in the library</span> &nbsp;<span className="t">in the evening.</span>.
+				</p>
+
+			</div>
 
 			<p className="margin-top-20">– Nghe "đỉnh" chưa?</p>
 

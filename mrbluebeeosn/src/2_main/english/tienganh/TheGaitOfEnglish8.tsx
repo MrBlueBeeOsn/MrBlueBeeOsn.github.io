@@ -108,7 +108,9 @@ export default function TheGaitOfEnglish8(): React.JSX.Element {
 			<p className="margin-top-20">Đọc từ dưới lên, câu tự nhiên bật ra.</p>
 
 			<p>Lấy một ví dụ:</p>
-			
+
+			<div className="pill-row">
+
 				<ul className="list-square">
 			
 					<li className="list-none"><span className="pill t">after work — T</span></li>
@@ -124,6 +126,8 @@ export default function TheGaitOfEnglish8(): React.JSX.Element {
 					<li className="list-none"><span className="pill s">I — S</span></li>
 			
 				</ul>
+
+			</div>
 
 			<p className="margin-top-20">Đọc ngược từ đáy:</p>
 
