@@ -62,9 +62,9 @@ export default function TheGaitOfEnglish5(): React.JSX.Element {
 
 			<p>Hãy thử tưởng tượng: bạn đang đứng đầu một con đường thẳng tắp, kéo dài đến tận đường chân trời. Không có ngã rẽ, không có vòng lại. Chỉ có một hướng duy nhất — đi thẳng về phía trước.</p>
 
-			<p>Khi bạn mở miệng nói tiếng Anh, đó chính là lúc bạn bắt đầu bước đi trên con đường đó. Và trên con đường ấy, bạn sẽ lần lượt gặp:</p>
-
 			<SVOMPT />
+
+			<p>Khi bạn mở miệng nói tiếng Anh, đó chính là lúc bạn bắt đầu bước đi trên con đường đó. Và trên con đường ấy, bạn sẽ lần lượt gặp:</p>
 
 			<p><strong>Subject</strong> ở ngay dưới chân — gần nhất, to nhất. Đó là thứ đầu tiên bạn nói. Rồi bạn tiếp tục bước: gặp <strong>Verb</strong>, rồi <strong>Object</strong>, rồi <strong>Manner</strong>, rồi <strong>Place</strong>, và cuối cùng là <strong>Time</strong> — nhỏ dần, xa dần, về phía đường chân trời.</p>
 

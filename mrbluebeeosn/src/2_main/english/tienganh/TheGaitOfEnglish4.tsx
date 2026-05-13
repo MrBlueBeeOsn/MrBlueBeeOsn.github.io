@@ -58,8 +58,6 @@ export default function TheGaitOfEnglish4(): React.JSX.Element {
 
 			<p>Đó là lúc SVOMPT trở nên đặc biệt thú vị.</p>
 
-			<SVOMPT />
-
 			<p className="margin-top-20">Thông thường, SVOMPT chỉ được dạy như một công thức về trật tự từ:</p>
 			
 				<ul className="list-square">
@@ -81,6 +79,8 @@ export default function TheGaitOfEnglish4(): React.JSX.Element {
 			<p className="margin-top-20">Nhưng nếu chỉ học nó bằng lý thuyết, bộ não sẽ rất dễ cảm thấy khô khan và áp lực. Điều làm cấu trúc này trở nên mạnh mẽ thật sự là cách bạn tưởng tượng nó trong tâm trí.</p>
 
 			<p>Hãy hình dung câu tiếng Anh giống như một đường thẳng đang đi từ dưới đi lên và kéo dài về phía trước. Điểm bắt đầu nằm rất gần, sau đó từng phần của câu tiếp tục nâng dòng suy nghĩ lên cao hơn và đi xa hơn. Mỗi từ giống như một bước chuyển động đang mở rộng câu nói.</p>
+
+			<SVOMPT />
 
 			{/* 1. Ví dụ: */}
 			

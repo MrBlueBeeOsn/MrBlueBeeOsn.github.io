@@ -54,8 +54,6 @@ export default function TheGaitOfEnglish3(): React.JSX.Element {
 
 			<p><strong>SVOMPT</strong> – con đường thẳng dẫn đến giao tiếp tự tin.</p>
 
-			<SVOMPT />
-
 			{/* SVOMPT là gì? */}
 			
 			<h3 className="margin-y-50 text-center">SVOMPT là gì?</h3>
@@ -86,6 +84,8 @@ export default function TheGaitOfEnglish3(): React.JSX.Element {
 			<h3 className="margin-y-50 text-center">Hình dung “Con Đường Thẳng” – Cách nhớ dễ dàng và sâu sắc</h3>
 
 			<p>Hãy tưởng tượng một con đường thẳng bắt đầu ngay dưới chân bạn – điểm gần nhất – rồi chạy dài hướng về phía trước, tiến dần ra xa.</p>
+
+			<SVOMPT />
 
 			<p>Bạn bắt đầu hành trình từ vị trí gần nhất:</p>
 			

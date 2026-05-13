@@ -52,13 +52,13 @@ export default function TheGaitOfEnglish8(): React.JSX.Element {
 					
 			<p>Nếu dựng câu thành một trục đứng, đỉnh là nơi xa nhất, đáy là nơi gần nhất, bạn sẽ thấy đúng thứ tự mà tai người bản xứ chờ đợi.</p>
 
+			<SVOMPT />
+
 			{/* 1. Sáu lớp, từ xa về gần */}
 			
 			<h3 className="margin-y-50 text-center">1. Sáu lớp, từ xa về gần</h3>
 			
 			<p>Hãy nhìn lên từ chân bạn. Càng lên cao, chi tiết càng lùi xa:</p>
-
-			<SVOMPT />
 			
 				<ul className="list-square">
 

@@ -51,6 +51,8 @@ export default function TheGaitOfEnglish7(): React.JSX.Element {
 			<p>Bạn đang vật lộn với thứ tự từ tiếng Anh, khiến câu nói nghe "lủng củng"? Hãy hình dung một <strong>đường thẳng từ dưới đi lên</strong>:</p>
 			
 			<p>Khởi đầu từ điểm gần chân mình, lao thẳng tắp về phía trước, hướng tới chân trời vô tận.</p>
+
+			<SVOMPT />
 					
 			<p>Đó là <strong>SVOMPT</strong> – bí quyết sắp xếp từ ngữ tự nhiên, giúp não bạn "chạy" theo đường ray hoàn hảo. Nói thì từ lao từ gần tới xa; viết thì xếp hàng ngang.</p>
 
@@ -61,8 +63,6 @@ export default function TheGaitOfEnglish7(): React.JSX.Element {
 			<h3 className="margin-y-50 text-center">1. SVOMPT</h3>
 
 			<p>Hành Trình Từ Gần Tới Xa Trên Đường Thẳng</p>
-
-			<SVOMPT />
 
 			<p>Đường thẳng:</p>
 
