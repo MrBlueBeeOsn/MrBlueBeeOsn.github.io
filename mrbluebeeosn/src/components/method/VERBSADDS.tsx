@@ -21,13 +21,13 @@ export default function VERBSADDS(): React.JSX.Element {
       <p className="margin-top-20 text-center">
 
         <p className="example-sentence">
-            🟦<span className="pill s">He</span> &nbsp;<span className="pill v">She</span> &nbsp;<span className="pill o">It</span> &nbsp;<span className="pill m">One</span> &nbsp;<span className="pill p">Everyone</span> — &nbsp;<span className="pill t">5 goe5 with 🆂</span>! 🔵
+            🟦 <span className="pill s">He</span> &nbsp;<span className="pill v">She</span> &nbsp;<span className="pill o">It</span> &nbsp;<span className="pill m">One</span> &nbsp;<span className="pill p">Everyone</span> — &nbsp;<span className="pill t">5 goe5 with 🆂</span>! 🔵
           </p>
 
         <div className="example">
 
           <p className="example-sentence">
-            🟦<span className="s">He</span>, &nbsp;<span className="v">She</span>, &nbsp;<span className="o">It</span>, &nbsp;<span className="m">One</span>, &nbsp;<span className=" p">Everyone</span> — &nbsp;<span className="t">5 goe5 with 🆂</span>! 🔵
+            🟦 <span className="s">He</span>, &nbsp;<span className="v">She</span>, &nbsp;<span className="o">It</span>, &nbsp;<span className="m">One</span>, &nbsp;<span className=" p">Everyone</span> — &nbsp;<span className="t">5 goe5 with 🆂</span>! 🔵
           </p>
 
         </div>
