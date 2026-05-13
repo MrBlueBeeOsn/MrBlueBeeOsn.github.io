@@ -54,7 +54,11 @@ export default function TheGaitOfEnglish1(): React.JSX.Element {
 			
 			<h3 className="margin-y-50 text-center">1. Tư duy "Đường thẳng": Từ gần đến xa</h3>
 
-			<p className="margin-top-20">Hãy hình dung một con đường bắt đầu ngay sát dưới chân bạn (điểm bắt đầu) và chạy thẳng tới tận chân trời (điểm kết thúc). Trong tiếng Anh, các từ ngữ không nằm lộn xộn; chúng đứng xếp hàng trên con đường này theo đúng thứ tự <strong>SVOMPT</strong>:</p>
+			<p className="margin-top-20">Hãy hình dung một con đường bắt đầu ngay sát dưới chân bạn (điểm bắt đầu) và chạy thẳng tới tận chân trời (điểm kết thúc).</p>
+
+			<SVOMPT />
+
+			<p className="margin-top-20">Trong tiếng Anh, các từ ngữ không nằm lộn xộn; chúng đứng xếp hàng trên con đường này theo đúng thứ tự <strong>SVOMPT</strong>:</p>
 			
 				<ul className="list-square">
 
