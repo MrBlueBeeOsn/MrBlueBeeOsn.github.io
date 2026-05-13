@@ -59,27 +59,6 @@ export default function TheGaitOfEnglish4(): React.JSX.Element {
 			<p>Đó là lúc SVOMPT trở nên đặc biệt thú vị.</p>
 
 			<SVOMPT />
-			
-				{/* <ul className="list-square">
-
-					<li className="list-none"><strong>T</strong></li>
-
-					<li className="list-none">↑</li>
-					<li className="list-none"><strong>P</strong></li>
-
-					<li className="list-none">↑</li>
-					<li className="list-none"><strong>M</strong></li>
-
-					<li className="list-none">↑</li>
-					<li className="list-none"><strong>O</strong></li>
-
-					<li className="list-none">↑</li>
-					<li className="list-none"><strong>V</strong></li>
-
-					<li className="list-none">↑</li>
-					<li className="list-none"><strong>S</strong></li>
-			
-				</ul> */}
 
 			<p className="margin-top-20">Thông thường, SVOMPT chỉ được dạy như một công thức về trật tự từ:</p>
 			
@@ -106,31 +85,43 @@ export default function TheGaitOfEnglish4(): React.JSX.Element {
 			{/* 1. Ví dụ: */}
 			
 			<h3 className="margin-y-50 text-center">1. Ví dụ:</h3>
-			
+
+			<div className="pill-row">
+
 				<ul className="list-square">
 
-					<li className="list-none">every evening</li>
+					<li className="list-none"><span className="pill t">every evening — T</span></li>
 
 					<li className="list-none">↑</li>
-					<li className="list-none">in the park</li>
+					<li className="list-none"><span className="pill p">in the park — P</span></li>
 
 					<li className="list-none">↑</li>
-					<li className="list-none">slowly</li>
+					<li className="list-none"><span className="pill m">slowly — M</span></li>
 
 					<li className="list-none">↑</li>
-					<li className="list-none">coffee</li>
+					<li className="list-none"><span className="pill o">coffee — O</span></li>
 
 					<li className="list-none">↑</li>
-					<li className="list-none">drinks</li>
+					<li className="list-none"><span className="pill v">drinks — V</span></li>
 
 					<li className="list-none">↑</li>
-					<li className="margin-bottom-20 list-none">She</li>
+					<li className="margin-bottom-20 list-none"><span className="pill s">She — S</span></li>
 			
 				</ul>
 
+			</div>
+
 			<p className="margin-top-20">Khi đọc từ dưới đi lên, câu sẽ trở thành:</p>
 
-			<p>She drinks coffee slowly in the park every evening.</p>
+			<div className="example">
+
+				<p className="example-label">Ví dụ</p>
+
+				<p className="example-sentence">
+					<span className="s">She</span> &nbsp;<span className="v">drinks</span> &nbsp;<span className="o">coffee</span> &nbsp;<span className="m">slowly</span> &nbsp;<span className="p">in the park</span> &nbsp;<span className="t">every evening</span>.
+				</p>
+
+			</div>
 
 			<p>Bạn có thể cảm nhận cách câu đang di chuyển. “She” là điểm khởi đầu gần nhất trong tâm trí. Sau đó “drinks” tạo ra hành động. “Coffee” mở rộng nội dung. Rồi câu tiếp tục đi xa hơn với cách thức, nơi chốn và thời gian.</p>
 
