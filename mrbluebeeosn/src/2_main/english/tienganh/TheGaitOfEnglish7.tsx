@@ -134,8 +134,23 @@ export default function TheGaitOfEnglish7(): React.JSX.Element {
 					<li className="list-none"><strong>Câu gốc</strong>:</li>
 					<li className="margin-bottom-20 list-none">Bé gái vẽ tranh đẹp trên giấy màu hồi chiều.</li>
 
-					<li className="list-none"><strong>Đường thẳng SVOMPT</strong>:</li>
-					<li className="margin-bottom-20 list-none">Girl (S) drew (V) picture (O) beautifully (M) on colored paper (P) this afternoon (T).</li>
+					<li className="margin-bottom-20 list-none"><strong>Đường thẳng SVOMPT</strong>:</li>
+
+						<ul className="list-square">
+
+							<li className="list-none">this afternoon (T)</li>
+
+							<li className="list-none">on colored paper (P)</li>
+
+							<li className="list-none">beautifully (M)</li>
+
+							<li className="list-none">picture (O)</li>
+
+							<li className="list-none">drew (V)</li>
+
+							<li className="margin-bottom-20 list-none">Girl (S)</li>
+					
+						</ul>
 
 					<li className="list-none"><strong>Kết quả</strong>:</li>
 					<li className="margin-bottom-20 list-none">The girl drew the picture beautifully on colored paper this afternoon.</li>
@@ -162,7 +177,9 @@ export default function TheGaitOfEnglish7(): React.JSX.Element {
 
 			<p className="margin-top-20">Với SVOMPT và đường thẳng từ dưới đi lên, tiếng Anh không còn là gánh nặng mà thành cuộc chạy marathon hướng tới thành công. Thử ngay hôm nay – chân trời đang vẫy gọi!</p>
 
-			<p className="margin-top-20">Học tiếng Anh dễ ẹc với SVOMPT – Bí quyết từ người Việt cho người Việt!</p>
+			<p><strong>Học tiếng Anh dễ ẹc với SVOMPT</strong></p>
+
+			<p className="margin-top-20">– Bí quyết từ người Việt cho người Việt!</p>
 
 			<div className="viewcounter">
 			
