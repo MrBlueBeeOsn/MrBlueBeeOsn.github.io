@@ -81,7 +81,7 @@ export default function TheGaitOfEnglish1(): React.JSX.Element {
 
 			<p className="margin-top-20">Hãy thử áp dụng đường thẳng này vào một câu nói cụ thể.</p>
 
-			<p className="margin-top-20">Nếu nhìn theo đường thẳng tiến tới, bạn sẽ thấy:</p>
+			<p>Nếu nhìn theo đường thẳng tiến tới, bạn sẽ thấy:</p>
 
 			<div className="pill-row">
 
