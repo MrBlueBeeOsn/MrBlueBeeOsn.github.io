@@ -112,19 +112,123 @@ export default function TheGaitOfEnglish3(): React.JSX.Element {
 			{/* Ví dụ minh họa */}
 			
 			<h3 className="margin-y-50 text-center">Ví dụ minh họa</h3>
-			
+
+			{/* Ví dụ 1 */}
+
+			<div className="example">
+
+				<p className="example-label">Ví dụ 1</p>
+
+				<p className="example-sentence">
+					<span className="s">I</span> &nbsp;<span className="v">eat</span> &nbsp;<span className="o">breakfast</span> &nbsp;<span className="m">quickly</span> &nbsp;<span className="p">at home</span> &nbsp;<span className="t">every morning</span>.
+				</p>
+
+			</div>
+
+			<div className="pill-row">
+
 				<ul className="list-square">
 
-					<li value="1">I (S) → eat (V) → breakfast (O) → quickly (M) → at home (P) → every morning (T).</li>
-					<li className="margin-bottom-20 list-none">→ I eat breakfast quickly at home every morning.</li>
+					<li className="list-none"><span className="pill t">every morning — T</span></li>
 
-					<li value="2">She (S) → sang (V) → the song (O) → beautifully (M) → on the stage (P) → last night (T).</li>
-					<li className="margin-bottom-20 list-none">→ She sang the song beautifully on the stage last night.</li>
+					<li className="list-none">↑</li>
+					<li className="list-none"><span className="pill p">at home — P</span></li>
 
-					<li value="3">The team (S) → won (V) → the championship (O) → convincingly (M) → in Seoul (P) → last weekend (T).</li>
-					<li className="margin-bottom-20 list-none">→ The team won the championship convincingly in Seoul last weekend.</li>
+					<li className="list-none">↑</li>
+					<li className="list-none"><span className="pill m">quickly — M</span></li>
+
+					<li className="list-none">↑</li>
+					<li className="list-none"><span className="pill o">breakfast — O</span></li>
+
+					<li className="list-none">↑</li>
+					<li className="list-none"><span className="pill v">eat — V</span></li>
+
+					<li className="list-none">↑</li>
+					<li className="margin-bottom-20 list-none"><span className="pill s">I — S</span></li>
 			
 				</ul>
+
+			</div>
+
+			
+
+			{/* Ví dụ 2 */}
+
+			<div className="example">
+
+				<p className="example-label">Ví dụ 2</p>
+
+				<p className="example-sentence">
+					<span className="s">She</span> &nbsp;<span className="v">sang</span> &nbsp;<span className="o">the song</span> &nbsp;<span className="m">beautifully</span> &nbsp;<span className="p">on the stage</span> &nbsp;<span className="t">last night</span>.
+				</p>
+
+			</div>
+
+			<div className="pill-row">
+
+				<ul className="list-square">
+
+					<li className="list-none"><span className="pill t">last night — T</span></li>
+
+					<li className="list-none">↑</li>
+					<li className="list-none"><span className="pill p">on the stage — P</span></li>
+
+					<li className="list-none">↑</li>
+					<li className="list-none"><span className="pill m">beautifully — M</span></li>
+
+					<li className="list-none">↑</li>
+					<li className="list-none"><span className="pill o">the song — O</span></li>
+
+					<li className="list-none">↑</li>
+					<li className="list-none"><span className="pill v">sang — V</span></li>
+
+					<li className="list-none">↑</li>
+					<li className="margin-bottom-20 list-none"><span className="pill s">She — S</span></li>
+			
+				</ul>
+
+			</div>
+
+			
+
+			{/* Ví dụ 3 */}
+
+			<div className="example">
+
+				<p className="example-label">Ví dụ 3</p>
+
+				<p className="example-sentence">
+					<span className="s">The team</span> &nbsp;<span className="v">won</span> &nbsp;<span className="o">the championship</span> &nbsp;<span className="m">convincingly</span> &nbsp;<span className="p">in Seoul</span> &nbsp;<span className="t">last weekend</span>.
+				</p>
+
+			</div>
+
+			<div className="pill-row">
+
+				<ul className="list-square">
+
+					<li className="list-none"><span className="pill t">last weekend — T</span></li>
+
+					<li className="list-none">↑</li>
+					<li className="list-none"><span className="pill p">in Seoul — P</span></li>
+
+					<li className="list-none">↑</li>
+					<li className="list-none"><span className="pill m">convincingly — M</span></li>
+
+					<li className="list-none">↑</li>
+					<li className="list-none"><span className="pill o">the championship — O</span></li>
+
+					<li className="list-none">↑</li>
+					<li className="list-none"><span className="pill v">won — V</span></li>
+
+					<li className="list-none">↑</li>
+					<li className="margin-bottom-20 list-none"><span className="pill s">The team — S</span></li>
+			
+				</ul>
+
+			</div>
+
+			
 
 			{/* Tại sao SVOMPT lại quan trọng? */}
 			
