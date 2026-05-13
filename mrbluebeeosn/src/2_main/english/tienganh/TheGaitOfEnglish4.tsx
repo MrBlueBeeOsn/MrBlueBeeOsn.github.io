@@ -132,31 +132,43 @@ export default function TheGaitOfEnglish4(): React.JSX.Element {
 			{/* 2. Một ví dụ khác: */}
 			
 			<h3 className="margin-y-50 text-center">2. Một ví dụ khác:</h3>
-			
+
+			<div className="pill-row">
+
 				<ul className="list-square">
 
-					<li className="list-none">on weekends</li>
+					<li className="list-none"><span className="pill t">on weekends — T</span></li>
 
 					<li className="list-none">↑</li>
-					<li className="list-none">at the stadium</li>
+					<li className="list-none"><span className="pill p">at the stadium — P</span></li>
 
 					<li className="list-none">↑</li>
-					<li className="list-none">excitedly</li>
+					<li className="list-none"><span className="pill m">excitedly — M</span></li>
 
 					<li className="list-none">↑</li>
-					<li className="list-none">football</li>
+					<li className="list-none"><span className="pill o">football — O</span></li>
 
 					<li className="list-none">↑</li>
-					<li className="list-none">plays</li>
+					<li className="list-none"><span className="pill v">plays — V</span></li>
 
 					<li className="list-none">↑</li>
-					<li className="margin-bottom-20 list-none">My cousin</li>
+					<li className="margin-bottom-20 list-none"><span className="pill s">My cousin — S</span></li>
 			
 				</ul>
 
+			</div>
+
 			<p className="margin-top-20">Khi đọc từ dưới lên:</p>
 
-			<p className="margin-bottom-20">My cousin plays football excitedly at the stadium on weekends.</p>
+			<div className="example">
+
+				<p className="example-label">Ví dụ</p>
+
+				<p className="example-sentence">
+					<span className="s">My cousin</span> &nbsp;<span className="v">plays</span> &nbsp;<span className="o">football</span> &nbsp;<span className="m">excitedly</span> &nbsp;<span className="p">at the stadium</span> &nbsp;<span className="t">on weekends</span>.
+				</p>
+
+			</div>
 
 			<p>Khi luyện theo cách này, tiếng Anh bắt đầu giống một dòng chảy hơn là một bài kiểm tra ngữ pháp. Bộ não không còn phải liên tục dừng lại để phân tích đúng sai. Thay vào đó, nó chỉ cần tiếp tục di chuyển theo hướng tự nhiên của câu nói.</p>
 
