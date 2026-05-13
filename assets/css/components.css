@@ -993,3 +993,64 @@ summary::after {
 	from { opacity: 0; transform: translateY(-10px); }
 	to { opacity: 1; transform: translateY(0); }
 }
+
+/* SVOMPT pill row */
+  .pill-row {
+    display: flex;
+    align-items: center;
+    gap: 4px;
+    flex-wrap: wrap;
+    margin: 32px 0;
+  }
+ 
+  .pill {
+    padding: 6px 16px;
+    border-radius: 20px;
+    /* font-size: 13px; */
+    font-weight: 500;
+    letter-spacing: 0.02em;
+  }
+ 
+  .pill.s { background: #eeedfe; color: #3c3489; }
+  .pill.v { background: #e1f5ee; color: #0f6e56; }
+  .pill.o { background: #faece7; color: #712b13; }
+  .pill.m { background: #faeeda; color: #633806; }
+  .pill.p { background: #e6f1fb; color: #0c447c; }
+  .pill.t { background: #f1efe8; color: #444441; }
+ 
+  .pill-arrow {
+    color: var(--ink-muted);
+    font-size: 14px;
+  }
+
+	/* Example sentence */
+  .example {
+    margin: 32px 0;
+    padding: 24px 28px;
+    background: rgba(235, 235, 235, 0.5);
+    border-radius: 6px;
+    border: 1px solid var(--rule);
+  }
+ 
+  .example-label {
+    /* font-size: 11px; */
+    font-weight: 500;
+    /* letter-spacing: 0.12em; */
+    /* text-transform: uppercase; */
+    /* color: var(--ink-muted); */
+    margin-bottom: 12px;
+  }
+ 
+  .example-sentence {
+    /* font-family: 'Lora', serif; */
+    /* font-size: 19px; */
+    line-height: 1.7;
+    color: var(--ink);
+  }
+ 
+  .example-sentence .s { color: #534ab7; }
+  .example-sentence .v { color: #0f6e56; }
+  .example-sentence .o { color: #993c1d; }
+  .example-sentence .m { color: #854f0b; }
+  .example-sentence .p { color: #185fa5; }
+  .example-sentence .t { color: #5f5e5a; }
