@@ -48,7 +48,11 @@ export default function TheGaitOfEnglish1(): React.JSX.Element {
 
 			<h4 className="margin-bottom-30 text-center">BÍ QUYẾT "ĐƯỜNG THẲNG": NÓI TIẾNG ANH TRÔI CHẢY KHÔNG CẦN SUY NGHĨ</h4>
 
-			<p className="margin-top-20">Bạn đã bao giờ thấy mình bị "đứng hình" khi đang nói tiếng Anh vì mải lo sắp xếp từ ngữ sao cho đúng ngữ pháp? Hãy quên đi những cấu trúc khô khan trên sách vở. Hãy tưởng tượng tiếng Anh là một <strong>đường thẳng tắp</strong> phóng từ bạn về phía trước.</p>
+			<p className="margin-top-20">Bạn đã bao giờ thấy mình bị "đứng hình" khi đang nói tiếng Anh vì mải lo sắp xếp từ ngữ sao cho đúng ngữ pháp?</p>
+
+			<p>Hãy quên đi những cấu trúc khô khan trên sách vở.</p>
+
+			<p>Hãy tưởng tượng tiếng Anh là một <strong>đường thẳng tắp</strong> phóng từ bạn về phía trước.</p>
 
 			{/* 1. Tư duy "Đường thẳng": Từ gần đến xa */}
 			
