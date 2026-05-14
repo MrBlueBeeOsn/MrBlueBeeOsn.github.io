@@ -139,6 +139,17 @@ const Posts = lazy(() => import('@/data/Posts'));
 	const BiMatVeTuDuyNgonNgu2 = lazy(() => import('@/2_main/english/tienganh/folder/BiMatVeTuDuyNgonNgu2'));
 	const BiMatVeTuDuyNgonNgu3 = lazy(() => import('@/2_main/english/tienganh/folder/BiMatVeTuDuyNgonNgu3'));
 
+	const SentenceVariety1 = lazy(() => import('@/2_main/english/tienganh/SentenceVariety1'));
+	const SentenceVariety2 = lazy(() => import('@/2_main/english/tienganh/SentenceVariety2'));
+	const SentenceVariety3 = lazy(() => import('@/2_main/english/tienganh/SentenceVariety3'));
+	const SentenceVariety4 = lazy(() => import('@/2_main/english/tienganh/SentenceVariety4'));
+	const SentenceVariety5 = lazy(() => import('@/2_main/english/tienganh/SentenceVariety5'));
+	const SentenceVariety6 = lazy(() => import('@/2_main/english/tienganh/SentenceVariety6'));
+	const SentenceVariety7 = lazy(() => import('@/2_main/english/tienganh/SentenceVariety7'));
+	const SentenceVariety8 = lazy(() => import('@/2_main/english/tienganh/SentenceVariety8'));
+	const SentenceVariety9 = lazy(() => import('@/2_main/english/tienganh/SentenceVariety9'));
+
+
 	const TheGaitOfEnglish1 = lazy(() => import('@/2_main/english/tienganh/TheGaitOfEnglish1'));
 	const TheGaitOfEnglish2 = lazy(() => import('@/2_main/english/tienganh/TheGaitOfEnglish2'));
 	const TheGaitOfEnglish3 = lazy(() => import('@/2_main/english/tienganh/TheGaitOfEnglish3'));
@@ -148,13 +159,6 @@ const Posts = lazy(() => import('@/data/Posts'));
 	const TheGaitOfEnglish7 = lazy(() => import('@/2_main/english/tienganh/TheGaitOfEnglish7'));
 	const TheGaitOfEnglish8 = lazy(() => import('@/2_main/english/tienganh/TheGaitOfEnglish8'));
 
-
-	const TheBeautyOfTheGirl1 = lazy(() => import('@/2_main/english/tienganh/TheBeautyOfTheGirl1'));
-	const TheBeautyOfTheGirl2 = lazy(() => import('@/2_main/english/tienganh/TheBeautyOfTheGirl2'));
-	const TheBeautyOfTheGirl3 = lazy(() => import('@/2_main/english/tienganh/TheBeautyOfTheGirl3'));
-	const TheBeautyOfTheGirl4 = lazy(() => import('@/2_main/english/tienganh/TheBeautyOfTheGirl4'));
-	const TheBeautyOfTheGirl5 = lazy(() => import('@/2_main/english/tienganh/TheBeautyOfTheGirl5'));
-
 	const ThinkStraightFlowFast1 = lazy(() => import('@/2_main/english/tienganh/ThinkStraightFlowFast1'));
 	const ThinkStraightFlowFast2 = lazy(() => import('@/2_main/english/tienganh/ThinkStraightFlowFast2'));
 	const ThinkStraightFlowFast3 = lazy(() => import('@/2_main/english/tienganh/ThinkStraightFlowFast3'));
@@ -163,6 +167,12 @@ const Posts = lazy(() => import('@/data/Posts'));
 	const ThinkStraightFlowFast6 = lazy(() => import('@/2_main/english/tienganh/ThinkStraightFlowFast6'));
 	const ThinkStraightFlowFast7 = lazy(() => import('@/2_main/english/tienganh/ThinkStraightFlowFast8'));
 	const ThinkStraightFlowFast8 = lazy(() => import('@/2_main/english/tienganh/ThinkStraightFlowFast7'));
+
+	const TheBeautyOfTheGirl1 = lazy(() => import('@/2_main/english/tienganh/TheBeautyOfTheGirl1'));
+	const TheBeautyOfTheGirl2 = lazy(() => import('@/2_main/english/tienganh/TheBeautyOfTheGirl2'));
+	const TheBeautyOfTheGirl3 = lazy(() => import('@/2_main/english/tienganh/TheBeautyOfTheGirl3'));
+	const TheBeautyOfTheGirl4 = lazy(() => import('@/2_main/english/tienganh/TheBeautyOfTheGirl4'));
+	const TheBeautyOfTheGirl5 = lazy(() => import('@/2_main/english/tienganh/TheBeautyOfTheGirl5'));
 
 	const NamDangDongTuVangRong2 = lazy(() => import('@/2_main/english/tienganh/folder/NamDangDongTuVangRong2'));
 	const NamDangDongTuVangRong1 = lazy(() => import('@/2_main/english/tienganh/folder/NamDangDongTuVangRong1'));
@@ -618,6 +628,17 @@ export default function AppRoutes(): React.JSX.Element {
 					<Route path="/tieng-anh/bi-mat-ve-tu-duy-ngon-ngu-2" element={<BiMatVeTuDuyNgonNgu2 />} />
 					<Route path="/tieng-anh/bi-mat-ve-tu-duy-ngon-ngu-3" element={<BiMatVeTuDuyNgonNgu3 />} />
 
+					<Route path="/tieng-anh/sentence-variety-1" element={<SentenceVariety1 />} />
+					<Route path="/tieng-anh/sentence-variety-2" element={<SentenceVariety2 />} />
+					<Route path="/tieng-anh/sentence-variety-3" element={<SentenceVariety3 />} />
+					<Route path="/tieng-anh/sentence-variety-4" element={<SentenceVariety4 />} />
+					<Route path="/tieng-anh/sentence-variety-5" element={<SentenceVariety5 />} />
+					<Route path="/tieng-anh/sentence-variety-6" element={<SentenceVariety6 />} />
+					<Route path="/tieng-anh/sentence-variety-7" element={<SentenceVariety7 />} />
+					<Route path="/tieng-anh/sentence-variety-8" element={<SentenceVariety8 />} />
+					<Route path="/tieng-anh/sentence-variety-9" element={<SentenceVariety9 />} />
+
+
 					<Route path="/tieng-anh/the-gait-of-english-1" element={<TheGaitOfEnglish1 />} />
 					<Route path="/tieng-anh/the-gait-of-english-2" element={<TheGaitOfEnglish2 />} />
 					<Route path="/tieng-anh/the-gait-of-english-3" element={<TheGaitOfEnglish3 />} />
@@ -627,12 +648,6 @@ export default function AppRoutes(): React.JSX.Element {
 					<Route path="/tieng-anh/the-gait-of-english-7" element={<TheGaitOfEnglish7 />} />
 					<Route path="/tieng-anh/the-gait-of-english-8" element={<TheGaitOfEnglish8 />} />
 
-					<Route path="/tieng-anh/the-beauty-of-the-girl-1" element={<TheBeautyOfTheGirl1 />} />
-					<Route path="/tieng-anh/the-beauty-of-the-girl-2" element={<TheBeautyOfTheGirl2 />} />
-					<Route path="/tieng-anh/the-beauty-of-the-girl-3" element={<TheBeautyOfTheGirl3 />} />
-					<Route path="/tieng-anh/the-beauty-of-the-girl-4" element={<TheBeautyOfTheGirl4 />} />
-					<Route path="/tieng-anh/the-beauty-of-the-girl-5" element={<TheBeautyOfTheGirl5 />} />
-
 					<Route path="/tieng-anh/think-straight-flow-fast-1" element={<ThinkStraightFlowFast1 />} />
 					<Route path="/tieng-anh/think-straight-flow-fast-2" element={<ThinkStraightFlowFast2 />} />
 					<Route path="/tieng-anh/think-straight-flow-fast-3" element={<ThinkStraightFlowFast3 />} />
@@ -641,6 +656,12 @@ export default function AppRoutes(): React.JSX.Element {
 					<Route path="/tieng-anh/think-straight-flow-fast-6" element={<ThinkStraightFlowFast6 />} />
 					<Route path="/tieng-anh/think-straight-flow-fast-7" element={<ThinkStraightFlowFast7 />} />
 					<Route path="/tieng-anh/think-straight-flow-fast-8" element={<ThinkStraightFlowFast8 />} />
+
+					<Route path="/tieng-anh/the-beauty-of-the-girl-1" element={<TheBeautyOfTheGirl1 />} />
+					<Route path="/tieng-anh/the-beauty-of-the-girl-2" element={<TheBeautyOfTheGirl2 />} />
+					<Route path="/tieng-anh/the-beauty-of-the-girl-3" element={<TheBeautyOfTheGirl3 />} />
+					<Route path="/tieng-anh/the-beauty-of-the-girl-4" element={<TheBeautyOfTheGirl4 />} />
+					<Route path="/tieng-anh/the-beauty-of-the-girl-5" element={<TheBeautyOfTheGirl5 />} />
 
 
 					<Route path="/tieng-anh/5-dang-dong-tu-vang-rong-2" element={<NamDangDongTuVangRong2 />} />

@@ -578,12 +578,46 @@ export default function TiengAnhIndex(): React.JSX.Element {
         <div className="sub-box">
 
           {/* =============================
-              Tư Duy
+              Thinking
           ============================= */}
       
-          <p id="tieng-anh-terms"><mark className="highlight-secondary-padding-2-4">Tư Duy</mark></p>
+          <p id="tieng-anh-terms"><mark className="highlight-secondary-padding-2-4">Thinking</mark></p>
 
           <ul className="list-border1">
+
+            <li>
+              <div className="li-content">
+                <Link to="/tieng-anh/sentence-variety-1">Sentence Variety
+                <sup>&nbsp;1&nbsp;</sup>
+                </Link>
+                <Link to="/tieng-anh/sentence-variety-2">
+                  <sup>&nbsp;2&nbsp;</sup>
+                </Link>
+                <Link to="/tieng-anh/sentence-variety-3">
+                  <sup>&nbsp;3&nbsp;</sup>
+                </Link>
+                <Link to="/tieng-anh/sentence-variety-4">
+                  <sup>&nbsp;4&nbsp;</sup>
+                </Link>
+                <Link to="/tieng-anh/sentence-variety-5">
+                  <sup>&nbsp;5&nbsp;</sup>
+                </Link>
+                <Link to="/tieng-anh/sentence-variety-6">
+                  <sup>&nbsp;6&nbsp;</sup>
+                </Link>
+                <Link to="/tieng-anh/sentence-variety-7">
+                  <sup>&nbsp;7&nbsp;</sup>
+                </Link>
+                <Link to="/tieng-anh/sentence-variety-8">
+                  <sup>&nbsp;8&nbsp;</sup>
+                </Link>
+                <Link to="/tieng-anh/sentence-variety-9">
+                  <sup>&nbsp;9&nbsp;</sup>
+                </Link>
+              
+              </div>
+              
+            </li>
 
             <li>
               <div className="li-content">
