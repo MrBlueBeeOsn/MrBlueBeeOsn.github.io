@@ -63,7 +63,7 @@ export default function SentenceVariety1(): React.JSX.Element {
 			<table className="margin-y-50">
 					<thead>
 						<tr>
-							<td>Loại câu</td>
+							<th>Loại câu</th>
 							<th>Đặc điểm nhận dạng</th>
 							<th>Ví dụ dễ nhớ</th>
 						</tr>
