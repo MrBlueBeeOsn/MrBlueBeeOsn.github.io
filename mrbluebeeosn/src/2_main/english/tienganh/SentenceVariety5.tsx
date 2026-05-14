@@ -48,8 +48,6 @@ export default function SentenceVariety5(): React.JSX.Element {
 
 			</h1>
 
-			<h2 className="margin-bottom-50 text-center">Flow fast</h2>
-
 			<h4 className="margin-bottom-30 text-center">PHÁ VỠ "RÀO CẢN NGƯỢC": BÍ MẬT DÒNG CHẢY TỰ NHIÊN GIÚP BẠN ĐỘT PHÁ TIẾNG ANH!</h4>
 
 			<p>Bạn có bao giờ thắc mắc tại sao nhiều người học tiếng Anh lâu năm vẫn gặp khó khăn trong việc phản xạ nhanh? Câu trả lời không nằm ở vốn từ vựng, mà nằm ở một thói quen tư duy âm thầm: <strong>Thói quen</strong> "<strong>dịch ngược</strong>".</p>

@@ -48,81 +48,159 @@ export default function SentenceVariety3(): React.JSX.Element {
 
 			</h1>
 
-			<h2 className="margin-bottom-50 text-center">Flow fast</h2>
+			<h4 className="margin-bottom-30 text-center">Sức Mạnh Cấu Trúc Câu Tiếng Anh: Từ Cơ Bản Đến Thành Thạo</h4>
 
-			<h4 className="margin-bottom-30 text-center">PHÁ VỠ "RÀO CẢN NGƯỢC": BÍ MẬT DÒNG CHẢY TỰ NHIÊN GIÚP BẠN ĐỘT PHÁ TIẾNG ANH!</h4>
-
-			<p>Bạn có bao giờ thắc mắc tại sao nhiều người học tiếng Anh lâu năm vẫn gặp khó khăn trong việc phản xạ nhanh? Câu trả lời không nằm ở vốn từ vựng, mà nằm ở một thói quen tư duy âm thầm: <strong>Thói quen</strong> "<strong>dịch ngược</strong>".</p>
+			<p>Bạn có bao giờ đọc một bài tiếng Anh hay đến mức “nghiện” không?</p>
 					
-			<p>Nếu bạn muốn sở hữu khả năng ngôn ngữ trôi chảy như người bản xứ, đã đến lúc chúng ta cần tái định vị lại "dòng chảy" của thông tin trong bộ não.</p>
+			<p>Không phải vì từ vựng cầu kỳ, mà vì nhịp điệu mượt mà và cách sắp xếp câu đầy nghệ thuật.</p>
 
-			{/* 1. Thói quen "Đảo chiều" – Rào cản vô hình của phản xạ */}
+			<p>Đó chính là sức mạnh của a variety of English sentence structures.</p>
 
-			<h3 className="margin-y-50 text-center">1. Thói quen "Đảo chiều" – Rào cản vô hình của phản xạ</h3>
+			<p>Với người học tiếng Anh, việc nắm vững các loại câu không chỉ giúp viết hay hơn mà còn nâng cao kỹ năng đọc, nghe và nói. Dưới đây là hướng dẫn rõ ràng, thực tế để bạn tiến bộ nhanh.</p>
 
-			<p>Hầu hết chúng ta khi bắt gặp một cụm từ như "<strong>Useful information</strong>", bộ não thường có xu hướng chạy sang phải để hiểu chữ Information (Thông tin) trước, rồi mới quay ngược lại bên trái để lấy chữ Useful (Hữu ích).</p>
+			{/* 1. Bốn Loại Cấu Trúc Câu Tiếng Anh Cơ Bản */}
 
-			<p>Việc phải "đảo chiều" liên tục như vậy tạo ra một độ trễ nhất định. Nó khiến dòng chảy ngôn ngữ bị ngắt quãng, làm bạn nhanh mệt và khó theo kịp những cuộc hội thoại tốc độ cao. Đây chính là nút thắt ngăn cản bạn đạt đến sự tự nhiên trong giao tiếp.</p>
+			<h3 className="margin-y-50 text-center">1. Bốn Loại Cấu Trúc Câu Tiếng Anh Cơ Bản</h3>
 
-			{/* 2. Tại sao các ngôn ngữ khác lại học tiếng Anh dễ hơn? */}
+			<p className="margin-top-20">1. Simple Sentence (Câu đơn)</p>
 
-			<h3 className="margin-y-50 text-center">2. Tại sao người học từ các quốc gia khác lại có lợi thế hơn?</h3>
+			<p>Chỉ chứa một ý chính, dễ hiểu nhất.</p>
 
-			<p>Khi quan sát những người học đến từ Đức, Hà Lan, hay thậm chí là Nhật Bản và Trung Quốc, chúng ta thấy họ bắt nhịp với cấu trúc tiếng Anh rất nhanh. Lý do là vì trong ngôn ngữ mẹ đẻ của họ, <strong>tính từ luôn đứng trước danh từ</strong>.</p>
-
-			<p>Chính sự đồng nhất này giúp bộ não của họ duy trì một đường thẳng duy nhất: <strong>Tiếp nhận từ trái sang phải</strong>. Họ không cần mất thêm một bước "sắp xếp lại linh kiện" trong đầu như cách người Việt chúng ta thường làm.</p>
-
-			{/* 3. Giải pháp đột phá: Hãy để ngôn ngữ được "Chảy" xuôi chiều */}
-
-			<h3 className="margin-y-50 text-center">3. Giải pháp đột phá: Hãy để ngôn ngữ được "Chảy" xuôi chiều</h3>
-
-			<p>Để thực sự làm chủ tiếng Anh, bí kíp hiệu quả nhất chính là: <strong>Đồng nhất hóa cấu trúc tư duy</strong>.</p>
-					
-			<p>Dù ban đầu nghe có vẻ lạ lẫm, nhưng hãy thử tập suy nghĩ hoặc dịch xuôi hoàn toàn theo trật tự tiếng Anh. Đây là cách giúp bộ não làm quen với việc "định tính" sự vật trước khi gọi tên chúng:</p>
+			<p>Ví dụ:</p>
 
 				<ul className="list-square">
-		
-					<li>Thay vì nghĩ "Thông tin hữu ích", hãy tập hiểu là: "<strong>Hữu ích thông tin</strong>".</li>
+			
+					<li>I love English.</li>
 
-					<li>Thay vì nghĩ "Kế hoạch hoàn hảo", hãy tập hiểu là: "<strong>Hoàn hảo kế hoạch</strong>".</li>
+					<li>She studies every morning.</li>
 
-					<li>Thay vì nghĩ "Mục tiêu dài hạn", hãy tập hiểu là: "<strong>Dài hạn mục tiêu</strong>".</li>
+					<li>They succeeded.</li>
 			
 				</ul>
 
-			<p className="margin-top-20">Khi bạn chấp nhận trật tự này, bạn đang xây dựng một "đường cao tốc" cho thông tin đi thẳng vào nhận thức mà không cần trạm trung chuyển dịch thuật.</p>
+			<p className="margin-top-20">2. Compound Sentence (Câu ghép)</p>
 
-			{/* 4. Xây dựng "Khối hình ảnh" thay vì lắp ghép từ đơn */}
+			<p>Nối hai hoặc nhiều ý độc lập bằng and, but, so, or, yet…</p>
 
-			<h3 className="margin-y-50 text-center">4. Xây dựng "Khối hình ảnh" thay vì lắp ghép từ đơn</h3>
+			<p>Ví dụ:</p>
 
-			<p>Những người giao tiếp xuất sắc không bao giờ đợi đọc hết câu mới bắt đầu hiểu. Họ tiếp nhận thông tin theo từng "Dòng chảy" (Flow).</p>
-
-			<p>Khi bạn nhìn thấy cụm "<strong>Modern</strong>, <strong>spacious office</strong>", đừng đợi đến khi thấy chữ "Office" mới bắt đầu hình dung. Hãy để sự "Hiện đại" và "Rộng rãi" lấp đầy tâm trí bạn trước, rồi cuối cùng mới đóng khung nó lại thành hình ảnh "Văn phòng". Việc nắn lại tư duy này giúp bạn hiểu câu nói ngay khi người bản xứ vừa phát âm, đạt đến trạng thái "nghĩ bằng tiếng Anh" thực thụ.</p>
-
-			{/* 5. Kết quả của sự thay đổi tư duy */}
-
-			<h3 className="margin-y-50 text-center">5. Kết quả của sự thay đổi tư duy</h3>
-
-			<p>Khi bạn kiên trì áp dụng phương pháp "Dòng chảy từ trái sang phải":</p>
-			
 				<ul className="list-square">
+			
+					<li>I was tired, but I finished my homework.</li>
 
-					<li><strong>Phản xạ vượt trội</strong>: Xóa bỏ hoàn toàn độ trễ khi nghe và nói.</li>
+					<li>She practices speaking every day, so her pronunciation has improved a lot.</li>
 
-					<li><strong>Đọc hiểu thần tốc</strong>: Tốc độ xử lý văn bản tăng lên gấp nhiều lần.</li>
-
-					<li><strong>Giao tiếp tự nhiên</strong>: Lời nói tuôn ra theo đúng trật tự logic của người bản xứ.</li>
+					<li>You can make mistakes, yet you should never stop trying.</li>
 			
 				</ul>
 
-			{/* Lời kết: */}
+			<p className="margin-top-20">3. Complex Sentence (Câu phức)</p>
 
-			<h3 className="margin-y-50 text-center">Lời kết:</h3>
+			<p>Chứa một ý chính và một hoặc nhiều ý phụ (dùng because, although, when, if, while…).</p>
 
-			<p>Ngôn ngữ là một dòng chảy. Đừng cố gắng bơi ngược dòng bằng những thói quen cũ. Hãy dũng cảm thay đổi cấu trúc tư duy, cho phép thông tin được trôi xuôi chiều từ trái sang phải. Đó là lúc bạn không còn "học" tiếng Anh nữa, mà bạn đang thực sự sở hữu nó.</p>
+			<p>Ví dụ:</p>
 
-			<p>Hãy bắt đầu thử ngay với cụm từ tiếp theo bạn bắt gặp nhé!</p>
+				<ul className="list-square">
+			
+					<li>Although English is challenging, I enjoy learning it.</li>
+
+					<li>When I make mistakes, I learn something new.</li>
+
+					<li>Because I watch English videos daily, my listening skills have become much better.</li>
+			
+				</ul>
+
+			<p className="margin-top-20">4. Compound-Complex Sentence (Câu ghép phức)</p>
+
+			<p>Kết hợp cả ghép và phức – mức cao cấp.</p>
+
+			<p>Ví dụ:</p>
+
+				<ul className="list-square">
+			
+					<li>Although I was exhausted after work, I still studied English for an hour, and the effort really paid off.</li>
+			
+				</ul>
+
+			{/* 2. Làm Sao Để Nhận Biết Và Học Hiệu Quả? */}
+
+			<h3 className="margin-y-50 text-center">2. Làm Sao Để Nhận Biết Và Học Hiệu Quả?</h3>
+
+			<p>Nhận biết: Quan sát số lượng mệnh đề (clause).</p>
+
+			<p className="margin-top-20"></p>
+			
+				<ul className="list-square">
+			
+					<li>Câu đơn chỉ có 1 mệnh đề.</li>
+			
+					<li>Câu ghép có từ 2 mệnh đề độc lập.</li>
+			
+					<li>Câu phức có mệnh đề phụ (bắt đầu bằng although, because, when…).</li>
+			
+				</ul>
+
+			<p>Cách học:</p>
+
+			<p className="margin-top-20"></p>
+			
+				<ul className="list-square">
+			
+					<li>Đọc to các ví dụ mỗi ngày để quen nhịp.</li>
+			
+					<li>Copy câu hay từ bài báo hoặc sách, rồi thay đổi chủ ngữ/tân ngữ để tập biến tấu.</li>
+			
+					<li>Viết nhật ký bằng tiếng Anh và cố tình dùng ít nhất 2–3 loại câu trong mỗi đoạn.</li>
+			
+				</ul>
+
+			{/* 3. Cách Xây Dựng Câu Từ Đơn Giản Đến Phức Tạp */}
+
+			<h3 className="margin-y-50 text-center">3. Cách Xây Dựng Câu Từ Đơn Giản Đến Phức Tạp</h3>
+
+			<ul className="list-square">
+
+					<li>Bắt đầu với Simple: Viết ý chính trước.</li>
+					<li className="margin-bottom-20 list-none">→ I learn English.</li>
+
+					<li>Thêm chi tiết (Compound):</li>
+					<li className="margin-bottom-20 list-none">→ I learn English every day, and I really enjoy it.</li>
+			
+					<li>Thêm ý phụ (Complex):</li>
+					<li className="margin-bottom-20 list-none">→ Although it is sometimes difficult, I learn English every day because I want to study abroad.</li>
+
+					<li>Kết hợp linh hoạt:</li>
+					<li className="list-none">→ Although it is sometimes difficult, I learn English every day, and the progress I make keeps me motivated.</li>
+			
+				</ul>
+
+			<p>Hãy thực hành theo trình tự này. Mỗi tuần chỉ tập trung nâng cấp một loại câu là đủ.</p>
+
+			{/* 4. Mẹo Áp Dụng Thực Tế */}
+
+			<h3 className="margin-y-50 text-center">4. Mẹo Áp Dụng Thực Tế</h3>
+			
+				<ul className="list-square">
+
+					<li>Đọc lại bài viết và hỏi: “Câu này nghe có nhàm không?” → Thay đổi độ dài và cấu trúc ngay.</li>
+
+					<li>Kết hợp ngắn – dài xen kẽ để tạo nhịp điệu.</li>
+
+					<li>Ưu tiên rõ ràng trước, đẹp sau. Đừng viết câu quá dài nếu chưa chắc.</li>
+
+					<li>Sử dụng công cụ như Grammarly để kiểm tra, nhưng vẫn tự chỉnh tay để rèn luyện.</li>
+			
+				</ul>
+
+			{/* Kết Luận */}
+
+			<h3 className="margin-y-50 text-center">Kết Luận</h3>
+
+			<p>Thành thạo cấu trúc câu tiếng Anh là bước ngoặt giúp bạn viết hay, nói tự tin và suy nghĩ logic hơn. Không cần hoàn hảo ngay từ đầu – chỉ cần kiên trì thực hành mỗi ngày, bạn sẽ thấy sự tiến bộ rõ rệt.</p>
+
+			<p>Hãy thử ngay: Viết một đoạn ngắn về ngày hôm nay của bạn bằng tiếng Anh, áp dụng ít nhất 3 loại câu khác nhau. Bạn sẽ ngạc nhiên với kết quả đấy!</p>
+
+			<p>Bạn sẵn sàng biến tiếng Anh của mình thành “bản nhạc” cuốn hút chưa? Bắt đầu từ hôm nay thôi!</p>
 
 			<div className="viewcounter">
 			
