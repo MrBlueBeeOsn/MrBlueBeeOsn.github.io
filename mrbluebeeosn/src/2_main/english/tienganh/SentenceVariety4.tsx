@@ -111,7 +111,7 @@ export default function SentenceVariety4(): React.JSX.Element {
 
 			<h3 className="margin-y-50 text-center">2. Cách Nhận Biết Các Kiểu Câu Tiếng Anh</h3>
 
-			<h4 className="margin-y-50 text-center"><strong>1</strong>. <strong>Simple Sentences</strong> — <strong>Câu Đơn</strong></h4>
+			<h4 className="margin-y-40"><strong>1</strong>. <strong>Simple Sentences</strong> — <strong>Câu Đơn</strong></h4>
 
 			<p>Một ý chính.</p>
 
@@ -135,7 +135,7 @@ export default function SentenceVariety4(): React.JSX.Element {
 
 			<p className="margin-top-20">Đây là nền móng của mọi dạng writing.</p>
 
-			<h4 className="margin-y-50 text-center"><strong>2</strong>. <strong>Compound Sentences</strong> — <strong>Câu Ghép</strong></h4>
+			<h4 className="margin-y-40"><strong>2</strong>. <strong>Compound Sentences</strong> — <strong>Câu Ghép</strong></h4>
 
 			<p>Hai ý độc lập nối với nhau bằng:</p>
 			
@@ -160,7 +160,7 @@ export default function SentenceVariety4(): React.JSX.Element {
 
 			<p className="margin-top-20">Kiểu câu này giúp writing có chuyển động hơn thay vì chỉ viết từng câu ngắn riêng lẻ.</p>
 
-			<h4 className="margin-y-50 text-center"><strong>3</strong>. <strong>Complex Sentences</strong> — <strong>Câu Phức</strong></h4>
+			<h4 className="margin-y-40"><strong>3</strong>. <strong>Complex Sentences</strong> — <strong>Câu Phức</strong></h4>
 
 			<p>Một ý chính + một ý phụ.</p>
 
@@ -189,7 +189,7 @@ export default function SentenceVariety4(): React.JSX.Element {
 
 			<p className="margin-top-20">Đây là kiểu câu cực kỳ quan trọng để tiếng Anh nghe “mượt” hơn.</p>
 
-			<h4 className="margin-y-50 text-center"><strong>4</strong>. <strong>Descriptive Sentences</strong> — <strong>Câu Miêu Tả Mở Rộng</strong></h4>
+			<h4 className="margin-y-40"><strong>4</strong>. <strong>Descriptive Sentences</strong> — <strong>Câu Miêu Tả Mở Rộng</strong></h4>
 
 			<p>Loại câu này giúp writing có hình ảnh và cảm xúc hơn.</p>
 

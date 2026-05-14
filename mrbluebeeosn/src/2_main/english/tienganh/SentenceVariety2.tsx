@@ -62,7 +62,7 @@ export default function SentenceVariety2(): React.JSX.Element {
 
 			<h3 className="margin-y-50 text-center">1. Bốn loại câu tiếng Anh cơ bản (ai cũng nên thuộc lòng)</h3>
 
-			<table className="margin-y-50">
+				<table className="margin-y-50">
 					<thead>
 						<tr>
 							<th>Loại câu</th>

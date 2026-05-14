@@ -62,7 +62,7 @@ export default function SentenceVariety3(): React.JSX.Element {
 
 			<h3 className="margin-y-50 text-center">1. Bốn Loại Cấu Trúc Câu Tiếng Anh Cơ Bản</h3>
 
-			<p className="margin-top-20"><strong>1</strong>. <strong>Simple Sentence</strong> (<strong>Câu đơn</strong>)</p>
+			<h4 className="margin-y-40"><strong>1</strong>. <strong>Simple Sentence</strong> (<strong>Câu đơn</strong>)</h4>
 
 			<p className="text-indent-whole">Chỉ chứa một ý chính, dễ hiểu nhất.</p>
 
@@ -78,7 +78,7 @@ export default function SentenceVariety3(): React.JSX.Element {
 			
 				</ul>
 
-			<p className="margin-top-20"><strong>2</strong>. <strong>Compound Sentence</strong> (<strong>Câu ghép</strong>)</p>
+			<h4 className="margin-y-40"><strong>2</strong>. <strong>Compound Sentence</strong> (<strong>Câu ghép</strong>)</h4>
 
 			<p className="text-indent-whole">Nối hai hoặc nhiều ý độc lập bằng and, but, so, or, yet…</p>
 
@@ -94,7 +94,7 @@ export default function SentenceVariety3(): React.JSX.Element {
 			
 				</ul>
 
-			<p className="margin-top-20"><strong>3</strong>. <strong>Complex Sentence</strong> (<strong>Câu phức</strong>)</p>
+			<h4 className="margin-y-40"><strong>3</strong>. <strong>Complex Sentence</strong> (<strong>Câu phức</strong>)</h4>
 
 			<p className="text-indent-whole">Chứa một ý chính và một hoặc nhiều ý phụ (dùng because, although, when, if, while…).</p>
 
@@ -110,7 +110,7 @@ export default function SentenceVariety3(): React.JSX.Element {
 			
 				</ul>
 
-			<p className="margin-top-20"><strong>4</strong>. <strong>Compound-Complex Sentence</strong> (<strong>Câu ghép phức</strong>)</p>
+			<h4 className="margin-y-40"><strong>4</strong>. <strong>Compound-Complex Sentence</strong> (<strong>Câu ghép phức</strong>)</h4>
 
 			<p className="text-indent-whole">Kết hợp cả ghép và phức – mức cao cấp.</p>
 

@@ -48,79 +48,265 @@ export default function SentenceVariety5(): React.JSX.Element {
 
 			</h1>
 
-			<h4 className="margin-bottom-30 text-center">PHÁ VỠ "RÀO CẢN NGƯỢC": BÍ MẬT DÒNG CHẢY TỰ NHIÊN GIÚP BẠN ĐỘT PHÁ TIẾNG ANH!</h4>
+			<h4 className="margin-bottom-30 text-center">Câu Tiếng Anh — Từ Đơn Giản Đến Phức Tạp, Bạn Đang Ở Đâu?</h4>
 
-			<p>Bạn có bao giờ thắc mắc tại sao nhiều người học tiếng Anh lâu năm vẫn gặp khó khăn trong việc phản xạ nhanh? Câu trả lời không nằm ở vốn từ vựng, mà nằm ở một thói quen tư duy âm thầm: <strong>Thói quen</strong> "<strong>dịch ngược</strong>".</p>
+			<p>Phần lớn người học tiếng Anh mắc kẹt ở một kiểu câu mãi không thoát ra được. Không phải vì họ không biết ngữ pháp — mà vì họ chưa thấy rõ con đường từ câu đơn giản đến câu thật sự hay.</p>
 					
-			<p>Nếu bạn muốn sở hữu khả năng ngôn ngữ trôi chảy như người bản xứ, đã đến lúc chúng ta cần tái định vị lại "dòng chảy" của thông tin trong bộ não.</p>
+			<p>Hãy thử viết một câu tiếng Anh bất kỳ mô tả buổi sáng hôm nay của bạn. Hầu hết câu trả lời sẽ trông giống thế này:</p>
 
-			{/* 1. Thói quen "Đảo chiều" – Rào cản vô hình của phản xạ */}
+			<p>"I woke up at 7. I had coffee. I went to work."</p>
 
-			<h3 className="margin-y-50 text-center">1. Thói quen "Đảo chiều" – Rào cản vô hình của phản xạ</h3>
+			<p>— Ba câu, ba chủ ngữ I, ba động từ. Không sai một chữ.</p>
 
-			<p>Hầu hết chúng ta khi bắt gặp một cụm từ như "<strong>Useful information</strong>", bộ não thường có xu hướng chạy sang phải để hiểu chữ Information (Thông tin) trước, rồi mới quay ngược lại bên trái để lấy chữ Useful (Hữu ích).</p>
+			<p>Nhưng đọc lên thì như đọc biên bản. Đó không phải lỗi từ vựng hay lỗi ngữ pháp — đó là lỗi cấu trúc.</p>
 
-			<p>Việc phải "đảo chiều" liên tục như vậy tạo ra một độ trễ nhất định. Nó khiến dòng chảy ngôn ngữ bị ngắt quãng, làm bạn nhanh mệt và khó theo kịp những cuộc hội thoại tốc độ cao. Đây chính là nút thắt ngăn cản bạn đạt đến sự tự nhiên trong giao tiếp.</p>
+			<p>Và cái lỗi này có thể sửa được, nếu bạn hiểu mình đang ở đâu trên hành trình từ câu đơn giản đến câu thật sự hay.</p>
 
-			{/* 2. Tại sao các ngôn ngữ khác lại học tiếng Anh dễ hơn? */}
+			{/* 1. Bốn loại câu tiếng Anh — và điều mỗi loại làm được */}
 
-			<h3 className="margin-y-50 text-center">2. Tại sao người học từ các quốc gia khác lại có lợi thế hơn?</h3>
+			<h3 className="margin-y-50 text-center">1. Bốn loại câu tiếng Anh — và điều mỗi loại làm được</h3>
 
-			<p>Khi quan sát những người học đến từ Đức, Hà Lan, hay thậm chí là Nhật Bản và Trung Quốc, chúng ta thấy họ bắt nhịp với cấu trúc tiếng Anh rất nhanh. Lý do là vì trong ngôn ngữ mẹ đẻ của họ, <strong>tính từ luôn đứng trước danh từ</strong>.</p>
+			<p>Tiếng Anh có bốn cấu trúc câu cơ bản. Không phải để bạn học thuộc tên — mà để bạn hiểu mỗi loại tạo ra cảm xúc gì khi người đọc tiếp nhận nó.</p>
 
-			<p>Chính sự đồng nhất này giúp bộ não của họ duy trì một đường thẳng duy nhất: <strong>Tiếp nhận từ trái sang phải</strong>. Họ không cần mất thêm một bước "sắp xếp lại linh kiện" trong đầu như cách người Việt chúng ta thường làm.</p>
+			<h4 className="margin-y-40">1. Simple</h4>
 
-			{/* 3. Giải pháp đột phá: Hãy để ngôn ngữ được "Chảy" xuôi chiều */}
+			<p>1 mệnh đề độc lập</p>
 
-			<h3 className="margin-y-50 text-center">3. Giải pháp đột phá: Hãy để ngôn ngữ được "Chảy" xuôi chiều</h3>
+			<ul className="list-square">
 
-			<p>Để thực sự làm chủ tiếng Anh, bí kíp hiệu quả nhất chính là: <strong>Đồng nhất hóa cấu trúc tư duy</strong>.</p>
-					
-			<p>Dù ban đầu nghe có vẻ lạ lẫm, nhưng hãy thử tập suy nghĩ hoặc dịch xuôi hoàn toàn theo trật tự tiếng Anh. Đây là cách giúp bộ não làm quen với việc "định tính" sự vật trước khi gọi tên chúng:</p>
+					<li>She <strong>quit</strong>.</li>
+					<li className="margin-bottom-20 list-none">Cô ấy nghỉ rồi.</li>
 
-				<ul className="list-square">
-		
-					<li>Thay vì nghĩ "Thông tin hữu ích", hãy tập hiểu là: "<strong>Hữu ích thông tin</strong>".</li>
-
-					<li>Thay vì nghĩ "Kế hoạch hoàn hảo", hãy tập hiểu là: "<strong>Hoàn hảo kế hoạch</strong>".</li>
-
-					<li>Thay vì nghĩ "Mục tiêu dài hạn", hãy tập hiểu là: "<strong>Dài hạn mục tiêu</strong>".</li>
+					<li>The coffee was <strong>cold</strong>.</li>
+					<li className="list-none">Cà phê nguội rồi.</li>
 			
 				</ul>
 
-			<p className="margin-top-20">Khi bạn chấp nhận trật tự này, bạn đang xây dựng một "đường cao tốc" cho thông tin đi thẳng vào nhận thức mà không cần trạm trung chuyển dịch thuật.</p>
+			<p className="margin-top-20">→ Ngắn, dứt khoát, đánh thẳng vào trọng tâm. Dùng để nhấn mạnh hoặc tạo điểm dừng sau một câu dài. Nhưng dùng liên tục thì văn trở nên đơn điệu.</p>
 
-			{/* 4. Xây dựng "Khối hình ảnh" thay vì lắp ghép từ đơn */}
 
-			<h3 className="margin-y-50 text-center">4. Xây dựng "Khối hình ảnh" thay vì lắp ghép từ đơn</h3>
+			<h4 className="margin-y-40">2. Compound</h4>
 
-			<p>Những người giao tiếp xuất sắc không bao giờ đợi đọc hết câu mới bắt đầu hiểu. Họ tiếp nhận thông tin theo từng "Dòng chảy" (Flow).</p>
+			<p>2 mệnh đề độc lập + and / but / so / yet</p>
 
-			<p>Khi bạn nhìn thấy cụm "<strong>Modern</strong>, <strong>spacious office</strong>", đừng đợi đến khi thấy chữ "Office" mới bắt đầu hình dung. Hãy để sự "Hiện đại" và "Rộng rãi" lấp đầy tâm trí bạn trước, rồi cuối cùng mới đóng khung nó lại thành hình ảnh "Văn phòng". Việc nắn lại tư duy này giúp bạn hiểu câu nói ngay khi người bản xứ vừa phát âm, đạt đến trạng thái "nghĩ bằng tiếng Anh" thực thụ.</p>
+			<ul className="list-square">
 
-			{/* 5. Kết quả của sự thay đổi tư duy */}
+					<li>She wanted to stay, <strong>but</strong> she had to go.</li>
+					<li className="margin-bottom-20 list-none">Cô muốn ở lại, nhưng phải đi.</li>
 
-			<h3 className="margin-y-50 text-center">5. Kết quả của sự thay đổi tư duy</h3>
-
-			<p>Khi bạn kiên trì áp dụng phương pháp "Dòng chảy từ trái sang phải":</p>
-			
-				<ul className="list-square">
-
-					<li><strong>Phản xạ vượt trội</strong>: Xóa bỏ hoàn toàn độ trễ khi nghe và nói.</li>
-
-					<li><strong>Đọc hiểu thần tốc</strong>: Tốc độ xử lý văn bản tăng lên gấp nhiều lần.</li>
-
-					<li><strong>Giao tiếp tự nhiên</strong>: Lời nói tuôn ra theo đúng trật tự logic của người bản xứ.</li>
+					<li>He studied hard, <strong>so</strong> he passed the exam.</li>
+					<li className="list-none">Anh ấy học chăm, vì vậy đậu kỳ thi.</li>
 			
 				</ul>
 
-			{/* Lời kết: */}
+			<p className="margin-top-20">→ Hai vế cân bằng nhau — gợi sự đối lập, nguyên nhân-kết quả, hoặc liên hệ. Dễ viết, dễ đọc. Nguy hiểm nếu lạm dụng "and" để nối mọi thứ.</p>
 
-			<h3 className="margin-y-50 text-center">Lời kết:</h3>
 
-			<p>Ngôn ngữ là một dòng chảy. Đừng cố gắng bơi ngược dòng bằng những thói quen cũ. Hãy dũng cảm thay đổi cấu trúc tư duy, cho phép thông tin được trôi xuôi chiều từ trái sang phải. Đó là lúc bạn không còn "học" tiếng Anh nữa, mà bạn đang thực sự sở hữu nó.</p>
+			<h4 className="margin-y-40">3. Complex</h4>
 
-			<p>Hãy bắt đầu thử ngay với cụm từ tiếp theo bạn bắt gặp nhé!</p>
+			<p>1 mệnh đề chính + 1 mệnh đề phụ</p>
+
+			<ul className="list-square">
+
+					<li><strong>Although</strong> the room was packed, she felt completely alone.</li>
+					<li className="margin-bottom-20 list-none">Dù căn phòng đông nghịt, cô vẫn cảm thấy cô đơn hoàn toàn.</li>
+
+					<li><strong>Because</strong> he never gave up, he eventually succeeded.</li>
+					<li className="list-none">Vì không bao giờ bỏ cuộc, cuối cùng anh ấy đã thành công.</li>
+			
+				</ul>
+
+			<p className="margin-top-20">→ Câu có chiều sâu và sắc thái. Đây là nơi tư duy phức tạp được thể hiện — không phải mọi thứ đều đơn giản, và câu Complex thể hiện điều đó.</p>
+
+
+
+			<h4 className="margin-y-40">4. Compound-Complex</h4>
+
+			<p>≥2 mệnh đề độc lập + ≥1 mệnh đề phụ</p>
+
+			<ul className="list-square">
+
+					<li><strong>Because</strong> the train was late, she missed the meeting, and nobody had told her it was cancelled anyway.</li>
+
+					<li className="list-none">Vì tàu trễ, cô lỡ cuộc họp — và chẳng ai báo cho cô biết nó đã bị huỷ từ trước.</li>
+			
+				</ul>
+
+			<p className="margin-top-20">→ Nhiều lớp ý nghĩa trong một câu. Dùng khi sự kiện vừa phức tạp vừa có hệ quả. Không nên lạm dụng — 1 câu như này đã đủ nặng cho cả một đoạn.</p>
+
+			{/* 2. Con đường từ câu đơn giản đến phức tạp */}
+
+			<h3 className="margin-y-50 text-center">2. Con đường từ câu đơn giản đến phức tạp</h3>
+
+			<p>Thay vì học bốn loại câu tách biệt, hãy hình dung chúng là bốn bước trên cùng một hành trình. Bạn bắt đầu từ một ý đơn giản, rồi mở rộng dần bằng cách thêm thông tin, thêm mối quan hệ, thêm sắc thái.</p>
+
+			<h4 className="margin-y-40">1. Bắt đầu với một ý — câu Simple</h4>
+
+			<p>Bắt đầu với một ý — câu Simple</p>
+			
+				<ul className="list-square">
+					<li>She <strong>failed</strong> the test.</li>
+				</ul>
+
+			<p className="margin-top-20">Cô ấy trượt bài kiểm tra.</p>
+
+			<p>Chỉ một sự kiện. Không giải thích, không phán xét. Gọn, rõ.</p>
+
+
+			<h4 className="margin-y-40">2. Thêm một ý song song — câu Compound</h4>
+			
+				<ul className="list-square">
+					<li>She failed the test, <strong>but</strong> she didn't give up.</li>
+					<li className="margin-bottom-20 list-none">Cô trượt, nhưng không bỏ cuộc.</li>
+
+				</ul>
+
+			<p className="margin-top-20">Thêm một vế — tạo ngay sự đối lập, một chút kịch tính.</p>
+
+
+			<h4 className="margin-y-40">3. Thêm lý do hoặc bối cảnh — câu Complex</h4>
+
+				<ul className="list-square">
+
+					<li><strong>Although</strong> she failed the test, she didn't give up.</li>
+					<li className="margin-bottom-20 list-none">Dù trượt bài kiểm tra, cô vẫn không bỏ cuộc.</li>
+
+					<li>She failed the test <strong>because</strong> she hadn't slept the night before.</li>
+					<li className="list-none">Cô trượt vì đêm trước không ngủ được.</li>
+
+				</ul>
+
+			<p className="margin-top-20">Bây giờ câu có chiều sâu — người đọc biết tại sao hoặc dù vậy.</p>
+
+
+			<h4 className="margin-y-40">4. Kết hợp cả hai — câu Compound-Complex</h4>
+			
+				<ul className="list-square">
+
+					<li><strong>Although</strong> she failed the test, she didn't give up, <strong>and</strong> three months later, she passed with the highest score in her class.</li>
+
+					<li className="list-none">Dù trượt bài kiểm tra, cô không bỏ cuộc — và ba tháng sau, cô đạt điểm cao nhất lớp.</li>
+
+				</ul>
+
+			<p className="margin-top-20">Một câu, một câu chuyện đầy đủ. Có bối cảnh, có hành động, có kết quả.</p>
+
+			<p>Bạn không cần phải viết câu phức tạp để hay.</p>
+
+			<p>Bạn chỉ cần viết câu khác nhau — và biết chọn đúng loại câu đúng lúc.</p>
+
+			{/* 3. Nhận biết cấu trúc câu — nhờ từ nối */}
+
+			<h3 className="margin-y-50 text-center">3. Nhận biết cấu trúc câu — nhờ từ nối</h3>
+
+			<p>Cách nhanh nhất để nhận biết loại câu là nhìn vào từ nối (connectors). Chúng là dấu hiệu rõ nhất cho thấy câu đang được xây dựng như thế nào.</p>
+
+				<table className="margin-y-50">
+					<thead>
+						<tr>
+							<th>Compound — nối hai vế bằng nhau</th>
+							<th>Complex — mệnh đề phụ phụ thuộc</th>
+						</tr>
+					</thead>
+
+					<tbody>
+
+						<tr>
+								<td><strong>and</strong> thêm thông tin</td>
+								<td><strong>because</strong> / <strong>since</strong> nguyên nhân</td>
+						</tr>
+						
+						<tr>
+								<td><strong>but</strong> đối lập</td>
+								<td><strong>although</strong> / <strong>even though</strong> tương phản</td>
+						</tr>
+						
+						<tr>
+								<td><strong>so</strong> kết quả</td>
+								<td><strong>when</strong> / <strong>while</strong> / <strong>as</strong> thời gian</td>
+						</tr>
+						
+						<tr>
+								<td><strong>yet</strong> tương phản bất ngờ</td>
+								<td><strong>if</strong> / <strong>unless</strong> điều kiện</td>
+						</tr>
+
+						<tr>
+								<td><strong>for</strong> lý do (trang trọng)</td>
+								<td><strong>so that</strong> mục đích</td>
+						</tr>
+
+						<tr>
+								<td><strong>nor</strong> phủ định cả hai</td>
+								<td><strong>which</strong> / <strong>who</strong> / <strong>that</strong> bổ nghĩa</td>
+						</tr>
+					</tbody>
+				</table>
+					
+			<p className="margin-top-20">💡 <strong>Mẹo nhận biết nhanh</strong>:</p>
+
+			<ul className="list-square">
+
+					<li>Thấy although, because, when, if, unless, while</li>
+					<li className="margin-bottom-20 list-none">→ câu Complex.</li>
+			
+					<li>Thấy and, but, so, yet nối hai vế có thể đứng độc lập</li>
+					<li className="margin-bottom-20 list-none">→ câu Compound.</li>
+
+					<li>Không thấy từ nối nào</li>
+					<li className="list-none">→ câu Simple.</li>
+			
+				</ul>
+
+			{/* 4. Cùng nội dung, khác hoàn toàn về cảm xúc */}
+
+			<h3 className="margin-y-40 text-center">4. Cùng nội dung, khác hoàn toàn về cảm xúc</h3>
+
+			<p>Đây là thứ nhiều người không nhận ra: bạn không cần thay đổi nội dung để viết hay hơn. Bạn chỉ cần thay đổi cách câu được xây dựng.</p>
+
+			<h4 className="margin-y-40 text-center">✕ Toàn Simple — đúng nhưng nhạt</h4>
+
+			<p>The alarm went off. I was tired. I hit snooze. I overslept. I was late. My boss was angry. It was a bad day.</p>
+
+			<p>7 câu Simple liên tiếp.</p>
+			<p>Đọc như biên bản ghi chép — không cảm xúc, không nhịp.</p>
+
+			<h4 className="margin-y-50 text-center">✓ Đa dạng cấu trúc — có nhịp thở</h4>
+
+			<p>The alarm went off. I was too tired to care, so I hit snooze — and then hit it again. By the time I finally woke up, I was already late, and my boss was not the kind of person who forgave that sort of thing. It was going to be a long day.</p>
+
+			<p>Simple → Compound → Compound-Complex → Simple kết đóng.</p>
+			<p>Cùng nội dung, người đọc cảm được sự mệt mỏi và lo lắng.</p>
+
+			{/* 5. Cách học và áp dụng — không cần thuộc lý thuyết */}
+
+			<h3 className="margin-y-50 text-center">5. Cách học và áp dụng — không cần thuộc lý thuyết</h3>
+
+			<p>Bốn bước thực hành</p>
+
+				<ol>
+
+					<li value="1"><strong>Viết xong</strong>, <strong>đọc to lên</strong>:</li>
+					<li className="margin-bottom-20 list-none">Chỗ nào giọng bạn hết hơi trước dấu chấm? Câu đó quá dài — tách ra. Chỗ nào đọc như gõ nhịp đều đều? Cần gộp hoặc đổi cấu trúc. Tai nghe ra vấn đề nhanh hơn mắt nhiều.</li>
+
+					<li value="2"><strong>Lấy một đoạn bạn đã viết toàn Simple sentence</strong>:</li>
+					<li className="margin-bottom-20 list-none">Thử gộp hai câu liên tiếp bằng although / because / when / so. Không cần gộp hết — 2–3 chỗ trong một đoạn là đủ tạo ra sự khác biệt ngay.</li>
+
+					<li value="3"><strong>Đọc văn tiếng Anh hay và đặt câu hỏi</strong>:</li>
+					<li className="margin-bottom-20 list-none">"Câu này là loại gì? Tại sao tác giả dùng Simple ở đây chứ không phải Complex?" Nhìn thấy kiến trúc ẩn dưới chữ là kỹ năng quan trọng hơn học thuộc tên loại câu.</li>
+
+					<li value="4"><strong>Học theo mẫu câu</strong>, <strong>không theo định nghĩa</strong>:</li>
+					<li className="list-none">Ghi nhớ cấu trúc "Although [A], [B]" và "Because [A], [B]" — rồi thay nội dung vào. Internalize pattern trước, hiểu tên sau.</li>
+			
+				</ol>
+
+			{/* Kết */}
+
+			<h3 className="margin-y-50 text-center">Kết</h3>
+
+			<p>Câu Simple không phải câu xấu — nó là nền tảng. Câu Complex không phải câu khó — nó là bước tiếp theo tự nhiên khi bạn muốn nói nhiều hơn trong một câu. Và sự đa dạng giữa các loại câu không phải kỹ thuật nâng cao — nó là điều phân biệt văn đúng với văn hay.</p>
+
+			<p>Bắt đầu từ hôm nay, mỗi lần viết một đoạn tiếng Anh, hãy đọc lại và tự hỏi: "Tôi có đang dùng cùng một kiểu câu từ đầu đến cuối không?" Nếu có — đó là nơi bạn cần thay đổi. Và chỉ cần thay đổi một câu thôi, bạn sẽ thấy ngay sự khác biệt.</p>
 
 			<div className="viewcounter">
 			
