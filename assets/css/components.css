@@ -463,10 +463,10 @@ th:nth-child(6) {
 
 /* Tô màu cho toàn bộ cột thứ 1 */
 td:nth-child(1) {
-	background-color: rgba(255, 255, 255, 0.5);
-	font-weight: 600;
-	color: var(--accent-color);
-	text-align: center;
+	/* background-color: rgba(255, 255, 255, 0.5); */
+	/* font-weight: 600; */
+	/* color: var(--accent-color); */
+	text-align: left;
 }
 
 /* tr:nth-child(even) {
@@ -480,6 +480,35 @@ tr:hover {
 
 /* Hiệu ứng khi di chuột vào ô ở cột thứ 3 */
 td:nth-child(1):hover {
+	background-color: var(--tertiary-color);
+	transform: scale(1.02);
+	transition: all 0.2s ease;
+}
+td:nth-child(2):hover {
+	background-color: var(--tertiary-color);
+	transform: scale(1.02);
+	transition: all 0.2s ease;
+}
+
+td:nth-child(3):hover {
+	background-color: var(--tertiary-color);
+	transform: scale(1.02);
+	transition: all 0.2s ease;
+}
+
+td:nth-child(4):hover {
+	background-color: var(--tertiary-color);
+	transform: scale(1.02);
+	transition: all 0.2s ease;
+}
+
+td:nth-child(5):hover {
+	background-color: var(--tertiary-color);
+	transform: scale(1.02);
+	transition: all 0.2s ease;
+}
+
+td:nth-child(6):hover {
 	background-color: var(--tertiary-color);
 	transform: scale(1.02);
 	transition: all 0.2s ease;
