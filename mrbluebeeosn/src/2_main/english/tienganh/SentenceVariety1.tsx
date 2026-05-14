@@ -48,81 +48,145 @@ export default function SentenceVariety1(): React.JSX.Element {
 
 			</h1>
 
-			<h2 className="margin-bottom-50 text-center">Flow fast</h2>
+			<h4 className="margin-bottom-30 text-center">Từ "Xây Gạch" Đến "Kiến Trúc": Nghệ Thuật Xây Dựng Câu Tiếng Anh Đa Tầng</h4>
 
-			<h4 className="margin-bottom-30 text-center">PHÁ VỠ "RÀO CẢN NGƯỢC": BÍ MẬT DÒNG CHẢY TỰ NHIÊN GIÚP BẠN ĐỘT PHÁ TIẾNG ANH!</h4>
-
-			<p>Bạn có bao giờ thắc mắc tại sao nhiều người học tiếng Anh lâu năm vẫn gặp khó khăn trong việc phản xạ nhanh? Câu trả lời không nằm ở vốn từ vựng, mà nằm ở một thói quen tư duy âm thầm: <strong>Thói quen</strong> "<strong>dịch ngược</strong>".</p>
+			<p>Viết tiếng Anh không chỉ đơn thuần là lắp ghép từ vựng. Nếu bạn chỉ dùng một kiểu câu, bài viết sẽ giống như một bức tường gạch phẳng lì—đúng kỹ thuật nhưng thiếu sức sống.</p>
 					
-			<p>Nếu bạn muốn sở hữu khả năng ngôn ngữ trôi chảy như người bản xứ, đã đến lúc chúng ta cần tái định vị lại "dòng chảy" của thông tin trong bộ não.</p>
+			<p>Để bài viết thực sự có "nhịp điệu", bạn cần biết cách biến hóa từ những viên gạch đơn lẻ thành những cấu trúc phức tạp và uyển chuyển hơn.</p>
 
-			{/* 1. Thói quen "Đảo chiều" – Rào cản vô hình của phản xạ */}
+			{/* 1. Phân loại "Bản vẽ" Cấu trúc câu */}
 
-			<h3 className="margin-y-50 text-center">1. Thói quen "Đảo chiều" – Rào cản vô hình của phản xạ</h3>
+			<h3 className="margin-y-50 text-center">1. Phân loại "Bản vẽ" Cấu trúc câu</h3>
 
-			<p>Hầu hết chúng ta khi bắt gặp một cụm từ như "<strong>Useful information</strong>", bộ não thường có xu hướng chạy sang phải để hiểu chữ Information (Thông tin) trước, rồi mới quay ngược lại bên trái để lấy chữ Useful (Hữu ích).</p>
+			<p>Để nhận biết chúng, hãy nhìn vào số lượng <strong>mệnh đề</strong> (chủ ngữ + động từ) và <strong>từ nối</strong>.</p>
 
-			<p>Việc phải "đảo chiều" liên tục như vậy tạo ra một độ trễ nhất định. Nó khiến dòng chảy ngôn ngữ bị ngắt quãng, làm bạn nhanh mệt và khó theo kịp những cuộc hội thoại tốc độ cao. Đây chính là nút thắt ngăn cản bạn đạt đến sự tự nhiên trong giao tiếp.</p>
+			<table className="margin-y-50">
+					<thead>
+						<tr>
+							<td>Loại câu</td>
+							<th>Đặc điểm nhận dạng</th>
+							<th>Ví dụ dễ nhớ</th>
+						</tr>
+					</thead>
 
-			{/* 2. Tại sao các ngôn ngữ khác lại học tiếng Anh dễ hơn? */}
+					<tbody>
+						
+						<tr>
+								<td>Simple (Câu đơn)</td>
+								<td>Chỉ có 1 ý duy nhất.</td>
+								<td>The project failed.</td>
+						</tr>
+						
+						<tr>
+								<td>Compound (Câu ghép)</td>
+								<td>2 ý ngang hàng, nối bằng: and, but, or, so, yet...</td>
+								<td>The project failed, <strong>but</strong> we learned a lot.</td>
+						</tr>
 
-			<h3 className="margin-y-50 text-center">2. Tại sao người học từ các quốc gia khác lại có lợi thế hơn?</h3>
+						<tr>
+								<td>Complex (Câu phức)</td>
+								<td>1 ý chính + 1 ý phụ (bắt đầu bằng because, although, if, when...)</td>
+								<td><strong>Although</strong> the project failed, we gained experience.</td>
+						</tr>
 
-			<p>Khi quan sát những người học đến từ Đức, Hà Lan, hay thậm chí là Nhật Bản và Trung Quốc, chúng ta thấy họ bắt nhịp với cấu trúc tiếng Anh rất nhanh. Lý do là vì trong ngôn ngữ mẹ đẻ của họ, <strong>tính từ luôn đứng trước danh từ</strong>.</p>
+						<tr>
+								<td>Compound-Complex</td>
+								<td>Kết hợp cả 2 loại trên (ít nhất 2 ý chính + 1 ý phụ).</td>
+								<td>Although the project failed, we gained experience, <strong>and</strong> we are ready for the next one.</td>
+						</tr>
+					</tbody>
+				</table>
 
-			<p>Chính sự đồng nhất này giúp bộ não của họ duy trì một đường thẳng duy nhất: <strong>Tiếp nhận từ trái sang phải</strong>. Họ không cần mất thêm một bước "sắp xếp lại linh kiện" trong đầu như cách người Việt chúng ta thường làm.</p>
+			{/* 2. Chiến lược "Tuyết lăn": Xây dựng câu từ đơn giản đến phức tạp */}
 
-			{/* 3. Giải pháp đột phá: Hãy để ngôn ngữ được "Chảy" xuôi chiều */}
+			<h3 className="margin-y-50 text-center">2. Chiến lược "Tuyết lăn": Xây dựng câu từ đơn giản đến phức tạp</h3>
 
-			<h3 className="margin-y-50 text-center">3. Giải pháp đột phá: Hãy để ngôn ngữ được "Chảy" xuôi chiều</h3>
+			<p>Đừng cố viết một câu dài ngay lập tức. Hãy bắt đầu từ lõi và đắp thêm "thịt" vào khung xương đó.</p>
 
-			<p>Để thực sự làm chủ tiếng Anh, bí kíp hiệu quả nhất chính là: <strong>Đồng nhất hóa cấu trúc tư duy</strong>.</p>
-					
-			<p>Dù ban đầu nghe có vẻ lạ lẫm, nhưng hãy thử tập suy nghĩ hoặc dịch xuôi hoàn toàn theo trật tự tiếng Anh. Đây là cách giúp bộ não làm quen với việc "định tính" sự vật trước khi gọi tên chúng:</p>
+			<p className="margin-top-20"><strong>Bước 1</strong> (<strong>Câu đơn</strong>):</p>
 
 				<ul className="list-square">
-		
-					<li>Thay vì nghĩ "Thông tin hữu ích", hãy tập hiểu là: "<strong>Hữu ích thông tin</strong>".</li>
 
-					<li>Thay vì nghĩ "Kế hoạch hoàn hảo", hãy tập hiểu là: "<strong>Hoàn hảo kế hoạch</strong>".</li>
-
-					<li>Thay vì nghĩ "Mục tiêu dài hạn", hãy tập hiểu là: "<strong>Dài hạn mục tiêu</strong>".</li>
+					<li>The girl is beautiful.</li>
 			
 				</ul>
 
-			<p className="margin-top-20">Khi bạn chấp nhận trật tự này, bạn đang xây dựng một "đường cao tốc" cho thông tin đi thẳng vào nhận thức mà không cần trạm trung chuyển dịch thuật.</p>
+			<p className="margin-top-20"><strong>Bước 2</strong> (<strong>Nâng cấp danh từ</strong>): Thay vì dùng tính từ đứng trước, hãy thử cấu trúc "The [Noun] of...".</p>
 
-			{/* 4. Xây dựng "Khối hình ảnh" thay vì lắp ghép từ đơn */}
+				<ul className="list-square">
 
-			<h3 className="margin-y-50 text-center">4. Xây dựng "Khối hình ảnh" thay vì lắp ghép từ đơn</h3>
+					<li>The beauty of the girl impressed everyone.</li>
+					<li className="list-none">Cách này tạo cảm giác trang trọng và sâu sắc hơn</li>
+			
+				</ul>
 
-			<p>Những người giao tiếp xuất sắc không bao giờ đợi đọc hết câu mới bắt đầu hiểu. Họ tiếp nhận thông tin theo từng "Dòng chảy" (Flow).</p>
+			<p className="margin-top-20"><strong>Bước 3</strong> (<strong>Thêm điều kiện</strong>/<strong>ngữ cảnh</strong>):</p>
 
-			<p>Khi bạn nhìn thấy cụm "<strong>Modern</strong>, <strong>spacious office</strong>", đừng đợi đến khi thấy chữ "Office" mới bắt đầu hình dung. Hãy để sự "Hiện đại" và "Rộng rãi" lấp đầy tâm trí bạn trước, rồi cuối cùng mới đóng khung nó lại thành hình ảnh "Văn phòng". Việc nắn lại tư duy này giúp bạn hiểu câu nói ngay khi người bản xứ vừa phát âm, đạt đến trạng thái "nghĩ bằng tiếng Anh" thực thụ.</p>
+				<ul className="list-square">
 
-			{/* 5. Kết quả của sự thay đổi tư duy */}
+					<li>Whenever she smiles, the beauty of the girl impresses everyone.</li>
+					<li className="list-none">Câu phức</li>
+			
+				</ul>
 
-			<h3 className="margin-y-50 text-center">5. Kết quả của sự thay đổi tư duy</h3>
+			<p className="margin-top-20"><strong>Bước 4</strong> (<strong>Mở rộng kết quả</strong>):</p>
 
-			<p>Khi bạn kiên trì áp dụng phương pháp "Dòng chảy từ trái sang phải":</p>
+				<ul className="list-square">
+
+					<li>Whenever she smiles, the beauty of the girl impresses everyone, and the room seems to brighten up.</li>
+					<li className="list-none">Câu phức tổng hợp</li>
+			
+				</ul>
+
+			{/* 3. Làm sao để nhận biết và "thẩm thấu" nhanh? */}
+
+			<h3 className="margin-y-50 text-center">3. Làm sao để nhận biết và "thẩm thấu" nhanh?</h3>
+
+				<ul className="list-square">
+
+					<li><strong>Tư duy theo</strong> "<strong>Cụm</strong>":</li>
+					<li className="list-none">Đừng dịch từng từ. Khi đọc, hãy tập thói quen ngắt câu thành các cụm thành phần.</li>
+					<li className="margin-bottom-20 list-none">Ví dụ: [Whenever she smiles] / [the beauty of the girl] / [impresses everyone].</li>
+			
+					<li><strong>Săn tìm từ nối</strong>:</li>
+					<li className="margin-bottom-20 list-none">Khi đọc báo hoặc xem phim, hãy tập trung vào các từ như while, whereas, nonetheless. Chúng là "keo dán" quyết định cấu trúc câu đó là gì.</li>
+
+					<li><strong>Kỹ thuật</strong> "<strong>Viết không trung gian</strong>"</li>
+					<li className="list-none">Thử diễn đạt một ý tưởng bằng 3 cách khác nhau (1 câu đơn, 1 câu ghép, 1 câu phức). Việc này ép não bộ phải tìm cách kết nối các logic khác nhau.</li>
+			
+				</ul>
+
+			{/* 4. Bí kíp để áp dụng vào bài viết chuyên nghiệp */}
+
+			<h3 className="margin-y-50 text-center">4. Bí kíp để áp dụng vào bài viết chuyên nghiệp</h3>
+
+			<p><strong>Sử dụng câu đơn để chốt hạ</strong>: Sau một chuỗi giải thích dài bằng câu phức, hãy dùng một câu đơn ngắn gọn để tạo điểm nhấn (Punchline).</p>
+
+			<ul className="list-square">
+
+					<li>Ví dụ: "... (giải thích dài). It works."</li>
+			
+				</ul>
+
+			<p className="margin-top-20"><strong>Đảo ngữ để tạo bất ngờ</strong>: Thay vì bắt đầu bằng chủ ngữ, hãy đưa các cụm trạng từ chỉ thời gian hoặc nơi chốn lên đầu.</p>
 			
 				<ul className="list-square">
 
-					<li><strong>Phản xạ vượt trội</strong>: Xóa bỏ hoàn toàn độ trễ khi nghe và nói.</li>
+					<li>Instead of: "Success comes after hard work."</li>
 
-					<li><strong>Đọc hiểu thần tốc</strong>: Tốc độ xử lý văn bản tăng lên gấp nhiều lần.</li>
-
-					<li><strong>Giao tiếp tự nhiên</strong>: Lời nói tuôn ra theo đúng trật tự logic của người bản xứ.</li>
+					<li>Try: "<strong>Only after hard work</strong> does success come."</li>
 			
 				</ul>
+
+			<p className="margin-top-20"><strong>Ưu tiên sự rõ ràng</strong>: Cấu trúc phức tạp không có nghĩa là rắc rối. Nếu một câu quá dài khiến người đọc hụt hơi, hãy bẻ đôi nó bằng một dấu chấm.</p>
 
 			{/* Lời kết: */}
 
 			<h3 className="margin-y-50 text-center">Lời kết:</h3>
 
-			<p>Ngôn ngữ là một dòng chảy. Đừng cố gắng bơi ngược dòng bằng những thói quen cũ. Hãy dũng cảm thay đổi cấu trúc tư duy, cho phép thông tin được trôi xuôi chiều từ trái sang phải. Đó là lúc bạn không còn "học" tiếng Anh nữa, mà bạn đang thực sự sở hữu nó.</p>
+			<p>Sự đa dạng trong cấu trúc câu chính là ranh giới giữa một người "biết tiếng Anh" và một người "làm chủ tiếng Anh".</p>
 
-			<p>Hãy bắt đầu thử ngay với cụm từ tiếp theo bạn bắt gặp nhé!</p>
+			<p>Đừng chỉ viết để người ta hiểu, hãy viết để người ta phải thán phục cái nhịp điệu trong tư duy của bạn.</p>
 
 			<div className="viewcounter">
 			
