@@ -54,11 +54,23 @@ export default function SentenceVariety5(): React.JSX.Element {
 					
 			<p>Hãy thử viết một câu tiếng Anh bất kỳ mô tả buổi sáng hôm nay của bạn. Hầu hết câu trả lời sẽ trông giống thế này:</p>
 
-			<p>"I woke up at 7. I had coffee. I went to work."</p>
+			<p className="margin-top-20"></p>
+			
+				<ul className="list-square">
+			
+					<li>I woke up at 7.</li>
+			
+					<li>I had coffee.</li>
+			
+					<li>I went to work.</li>
+			
+				</ul>
 
-			<p>— Ba câu, ba chủ ngữ I, ba động từ. Không sai một chữ.</p>
+			<p className="margin-top-20">— Ba câu, ba chủ ngữ I, ba động từ.</p>
+			<p>— Không sai một chữ.</p>
+			<p>— Nhưng đọc lên thì như đọc biên bản.</p>
 
-			<p>Nhưng đọc lên thì như đọc biên bản. Đó không phải lỗi từ vựng hay lỗi ngữ pháp — đó là lỗi cấu trúc.</p>
+			<p className="margin-top-20">Đó không phải lỗi từ vựng hay lỗi ngữ pháp — đó là lỗi cấu trúc.</p>
 
 			<p>Và cái lỗi này có thể sửa được, nếu bạn hiểu mình đang ở đâu trên hành trình từ câu đơn giản đến câu thật sự hay.</p>
 
@@ -70,7 +82,7 @@ export default function SentenceVariety5(): React.JSX.Element {
 
 			<h4 className="margin-y-40">1. Simple</h4>
 
-			<p>1 mệnh đề độc lập</p>
+			<p className="text-indent-whole">1 mệnh đề độc lập</p>
 
 			<ul className="list-square">
 
@@ -82,12 +94,14 @@ export default function SentenceVariety5(): React.JSX.Element {
 			
 				</ul>
 
-			<p className="margin-top-20">→ Ngắn, dứt khoát, đánh thẳng vào trọng tâm. Dùng để nhấn mạnh hoặc tạo điểm dừng sau một câu dài. Nhưng dùng liên tục thì văn trở nên đơn điệu.</p>
+			<p className="margin-top-20 text-indent-whole">→ Ngắn, dứt khoát, đánh thẳng vào trọng tâm.</p>
+			<p className="text-indent-whole">→ Dùng để nhấn mạnh hoặc tạo điểm dừng sau một câu dài.</p>
+			<p className="text-indent-whole">→ Nhưng dùng liên tục thì văn trở nên đơn điệu.</p>
 
 
 			<h4 className="margin-y-40">2. Compound</h4>
 
-			<p>2 mệnh đề độc lập + and / but / so / yet</p>
+			<p className="text-indent-whole">2 mệnh đề độc lập + and / but / so / yet</p>
 
 			<ul className="list-square">
 
@@ -99,12 +113,16 @@ export default function SentenceVariety5(): React.JSX.Element {
 			
 				</ul>
 
-			<p className="margin-top-20">→ Hai vế cân bằng nhau — gợi sự đối lập, nguyên nhân-kết quả, hoặc liên hệ. Dễ viết, dễ đọc. Nguy hiểm nếu lạm dụng "and" để nối mọi thứ.</p>
+			<p className="margin-top-20 text-indent-whole">→ Hai vế cân bằng nhau — gợi sự đối lập, nguyên nhân-kết quả, hoặc liên hệ.</p>
+
+			<p className="text-indent-whole">→ Dễ viết, dễ đọc.</p>
+
+			<p className="text-indent-whole">→ Nguy hiểm nếu lạm dụng "and" để nối mọi thứ.</p>
 
 
 			<h4 className="margin-y-40">3. Complex</h4>
 
-			<p>1 mệnh đề chính + 1 mệnh đề phụ</p>
+			<p className="text-indent-whole">1 mệnh đề chính + 1 mệnh đề phụ</p>
 
 			<ul className="list-square">
 
@@ -116,13 +134,14 @@ export default function SentenceVariety5(): React.JSX.Element {
 			
 				</ul>
 
-			<p className="margin-top-20">→ Câu có chiều sâu và sắc thái. Đây là nơi tư duy phức tạp được thể hiện — không phải mọi thứ đều đơn giản, và câu Complex thể hiện điều đó.</p>
+			<p className="margin-top-20 text-indent-whole">→ Câu có chiều sâu và sắc thái.</p>
+			<p className="margin-top-20 text-indent-whole">→ Đây là nơi tư duy phức tạp được thể hiện — không phải mọi thứ đều đơn giản, và câu Complex thể hiện điều đó.</p>
 
 
 
 			<h4 className="margin-y-40">4. Compound-Complex</h4>
 
-			<p>≥2 mệnh đề độc lập + ≥1 mệnh đề phụ</p>
+			<p className="text-indent-whole">≥2 mệnh đề độc lập + ≥1 mệnh đề phụ</p>
 
 			<ul className="list-square">
 
@@ -132,7 +151,9 @@ export default function SentenceVariety5(): React.JSX.Element {
 			
 				</ul>
 
-			<p className="margin-top-20">→ Nhiều lớp ý nghĩa trong một câu. Dùng khi sự kiện vừa phức tạp vừa có hệ quả. Không nên lạm dụng — 1 câu như này đã đủ nặng cho cả một đoạn.</p>
+			<p className="margin-top-20 text-indent-whole">→ Nhiều lớp ý nghĩa trong một câu.</p>
+			<p className="text-indent-whole">→ Dùng khi sự kiện vừa phức tạp vừa có hệ quả.</p>
+			<p className="text-indent-whole">→ Không nên lạm dụng — 1 câu như này đã đủ nặng cho cả một đoạn.</p>
 
 			{/* 2. Con đường từ câu đơn giản đến phức tạp */}
 
@@ -142,15 +163,15 @@ export default function SentenceVariety5(): React.JSX.Element {
 
 			<h4 className="margin-y-40">1. Bắt đầu với một ý — câu Simple</h4>
 
-			<p>Bắt đầu với một ý — câu Simple</p>
+			<p className="text-indent-whole">Bắt đầu với một ý — câu Simple</p>
 			
 				<ul className="list-square">
 					<li>She <strong>failed</strong> the test.</li>
 				</ul>
 
-			<p className="margin-top-20">Cô ấy trượt bài kiểm tra.</p>
+			<p className="margin-top-20 text-indent-whole">Cô ấy trượt bài kiểm tra.</p>
 
-			<p>Chỉ một sự kiện. Không giải thích, không phán xét. Gọn, rõ.</p>
+			<p className="text-indent-whole">Chỉ một sự kiện. Không giải thích, không phán xét. Gọn, rõ.</p>
 
 
 			<h4 className="margin-y-40">2. Thêm một ý song song — câu Compound</h4>
@@ -161,7 +182,7 @@ export default function SentenceVariety5(): React.JSX.Element {
 
 				</ul>
 
-			<p className="margin-top-20">Thêm một vế — tạo ngay sự đối lập, một chút kịch tính.</p>
+			<p className="margin-top-20 text-indent-whole">Thêm một vế — tạo ngay sự đối lập, một chút kịch tính.</p>
 
 
 			<h4 className="margin-y-40">3. Thêm lý do hoặc bối cảnh — câu Complex</h4>
@@ -176,7 +197,7 @@ export default function SentenceVariety5(): React.JSX.Element {
 
 				</ul>
 
-			<p className="margin-top-20">Bây giờ câu có chiều sâu — người đọc biết tại sao hoặc dù vậy.</p>
+			<p className="margin-top-20 text-indent-whole">Bây giờ câu có chiều sâu — người đọc biết tại sao hoặc dù vậy.</p>
 
 
 			<h4 className="margin-y-40">4. Kết hợp cả hai — câu Compound-Complex</h4>
@@ -189,11 +210,11 @@ export default function SentenceVariety5(): React.JSX.Element {
 
 				</ul>
 
-			<p className="margin-top-20">Một câu, một câu chuyện đầy đủ. Có bối cảnh, có hành động, có kết quả.</p>
+			<p className="margin-top-20 text-indent-whole">Một câu, một câu chuyện đầy đủ. Có bối cảnh, có hành động, có kết quả.</p>
 
-			<p>Bạn không cần phải viết câu phức tạp để hay.</p>
+			<p className="margin-top-20 text-indent-whole">Bạn không cần phải viết câu phức tạp để hay.</p>
 
-			<p>Bạn chỉ cần viết câu khác nhau — và biết chọn đúng loại câu đúng lúc.</p>
+			<p className="margin-top-20 text-indent-whole">Bạn chỉ cần viết câu khác nhau — và biết chọn đúng loại câu đúng lúc.</p>
 
 			{/* 3. Nhận biết cấu trúc câu — nhờ từ nối */}
 

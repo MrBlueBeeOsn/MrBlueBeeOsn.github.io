@@ -113,9 +113,9 @@ export default function SentenceVariety4(): React.JSX.Element {
 
 			<h4 className="margin-y-40"><strong>1</strong>. <strong>Simple Sentences</strong> — <strong>Câu Đơn</strong></h4>
 
-			<p>Một ý chính.</p>
+			<p className="text-indent-whole">Một ý chính.</p>
 
-			<p>Ví dụ:</p>
+			<p className="text-indent-whole">Ví dụ:</p>
 			
 				<ul className="list-square">
 
@@ -124,7 +124,7 @@ export default function SentenceVariety4(): React.JSX.Element {
 			
 				</ul>
 
-			<p className="margin-top-20">Dấu hiệu nhận biết:</p>
+			<p className="margin-top-20 text-indent-whole">Dấu hiệu nhận biết:</p>
 			
 				<ul className="list-square">
 
@@ -133,11 +133,11 @@ export default function SentenceVariety4(): React.JSX.Element {
 			
 				</ul>
 
-			<p className="margin-top-20">Đây là nền móng của mọi dạng writing.</p>
+			<p className="margin-top-20 text-indent-whole">Đây là nền móng của mọi dạng writing.</p>
 
 			<h4 className="margin-y-40"><strong>2</strong>. <strong>Compound Sentences</strong> — <strong>Câu Ghép</strong></h4>
 
-			<p>Hai ý độc lập nối với nhau bằng:</p>
+			<p className="text-indent-whole">Hai ý độc lập nối với nhau bằng:</p>
 			
 				<ul className="list-square">
 
@@ -148,7 +148,7 @@ export default function SentenceVariety4(): React.JSX.Element {
 			
 				</ul>
 
-			<p className="margin-top-20">Ví dụ:</p>
+			<p className="margin-top-20 text-indent-whole">Ví dụ:</p>
 			
 				<ul className="list-square">
 
@@ -158,13 +158,13 @@ export default function SentenceVariety4(): React.JSX.Element {
 			
 				</ul>
 
-			<p className="margin-top-20">Kiểu câu này giúp writing có chuyển động hơn thay vì chỉ viết từng câu ngắn riêng lẻ.</p>
+			<p className="margin-top-20 text-indent-whole">Kiểu câu này giúp writing có chuyển động hơn thay vì chỉ viết từng câu ngắn riêng lẻ.</p>
 
 			<h4 className="margin-y-40"><strong>3</strong>. <strong>Complex Sentences</strong> — <strong>Câu Phức</strong></h4>
 
-			<p>Một ý chính + một ý phụ.</p>
+			<p className="text-indent-whole">Một ý chính + một ý phụ.</p>
 
-			<p>Ví dụ:</p>
+			<p className="text-indent-whole">Ví dụ:</p>
 			
 				<ul className="list-square">
 
@@ -174,7 +174,7 @@ export default function SentenceVariety4(): React.JSX.Element {
 			
 				</ul>
 
-			<p className="margin-top-20">Dấu hiệu nhận biết:</p>
+			<p className="margin-top-20 text-indent-whole">Dấu hiệu nhận biết:</p>
 			
 				<ul className="list-square">
 
@@ -187,19 +187,19 @@ export default function SentenceVariety4(): React.JSX.Element {
 			
 				</ul>
 
-			<p className="margin-top-20">Đây là kiểu câu cực kỳ quan trọng để tiếng Anh nghe “mượt” hơn.</p>
+			<p className="margin-top-20 text-indent-whole">Đây là kiểu câu cực kỳ quan trọng để tiếng Anh nghe “mượt” hơn.</p>
 
 			<h4 className="margin-y-40"><strong>4</strong>. <strong>Descriptive Sentences</strong> — <strong>Câu Miêu Tả Mở Rộng</strong></h4>
 
-			<p>Loại câu này giúp writing có hình ảnh và cảm xúc hơn.</p>
+			<p className="text-indent-whole">Loại câu này giúp writing có hình ảnh và cảm xúc hơn.</p>
 
-			<p>Ví dụ:</p>
+			<p className="text-indent-whole">Ví dụ:</p>
 			
 				<ul className="list-square">
 					<li>Standing alone in the rain, she waited quietly for the last bus home.</li>
 				</ul>
 
-			<p className="margin-top-20">Câu này không chỉ truyền đạt thông tin mà còn tạo atmosphere.</p>
+			<p className="margin-top-20 text-indent-whole">Câu này không chỉ truyền đạt thông tin mà còn tạo atmosphere.</p>
 
 			{/* 3. Làm Sao Để Học Sentence Structures Hiệu Quả? */}
 
