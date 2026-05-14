@@ -54,7 +54,7 @@ export default function SentenceVariety3(): React.JSX.Element {
 					
 			<p>Không phải vì từ vựng cầu kỳ, mà vì nhịp điệu mượt mà và cách sắp xếp câu đầy nghệ thuật.</p>
 
-			<p>Đó chính là sức mạnh của a variety of English sentence structures.</p>
+			<p>Đó chính là sức mạnh của <strong>a variety of English sentence structures</strong>.</p>
 
 			<p>Với người học tiếng Anh, việc nắm vững các loại câu không chỉ giúp viết hay hơn mà còn nâng cao kỹ năng đọc, nghe và nói. Dưới đây là hướng dẫn rõ ràng, thực tế để bạn tiến bộ nhanh.</p>
 
@@ -62,11 +62,11 @@ export default function SentenceVariety3(): React.JSX.Element {
 
 			<h3 className="margin-y-50 text-center">1. Bốn Loại Cấu Trúc Câu Tiếng Anh Cơ Bản</h3>
 
-			<p className="margin-top-20">1. Simple Sentence (Câu đơn)</p>
+			<p className="margin-top-20"><strong>1</strong>. <strong>Simple Sentence</strong> (<strong>Câu đơn</strong>)</p>
 
-			<p>Chỉ chứa một ý chính, dễ hiểu nhất.</p>
+			<p className="text-indent-whole">Chỉ chứa một ý chính, dễ hiểu nhất.</p>
 
-			<p>Ví dụ:</p>
+			<p className="text-indent-whole">Ví dụ:</p>
 
 				<ul className="list-square">
 			
@@ -78,11 +78,11 @@ export default function SentenceVariety3(): React.JSX.Element {
 			
 				</ul>
 
-			<p className="margin-top-20">2. Compound Sentence (Câu ghép)</p>
+			<p className="margin-top-20"><strong>2</strong>. <strong>Compound Sentence</strong> (<strong>Câu ghép</strong>)</p>
 
-			<p>Nối hai hoặc nhiều ý độc lập bằng and, but, so, or, yet…</p>
+			<p className="text-indent-whole">Nối hai hoặc nhiều ý độc lập bằng and, but, so, or, yet…</p>
 
-			<p>Ví dụ:</p>
+			<p className="text-indent-whole">Ví dụ:</p>
 
 				<ul className="list-square">
 			
@@ -94,11 +94,11 @@ export default function SentenceVariety3(): React.JSX.Element {
 			
 				</ul>
 
-			<p className="margin-top-20">3. Complex Sentence (Câu phức)</p>
+			<p className="margin-top-20"><strong>3</strong>. <strong>Complex Sentence</strong> (<strong>Câu phức</strong>)</p>
 
-			<p>Chứa một ý chính và một hoặc nhiều ý phụ (dùng because, although, when, if, while…).</p>
+			<p className="text-indent-whole">Chứa một ý chính và một hoặc nhiều ý phụ (dùng because, although, when, if, while…).</p>
 
-			<p>Ví dụ:</p>
+			<p className="text-indent-whole">Ví dụ:</p>
 
 				<ul className="list-square">
 			
@@ -110,11 +110,11 @@ export default function SentenceVariety3(): React.JSX.Element {
 			
 				</ul>
 
-			<p className="margin-top-20">4. Compound-Complex Sentence (Câu ghép phức)</p>
+			<p className="margin-top-20"><strong>4</strong>. <strong>Compound-Complex Sentence</strong> (<strong>Câu ghép phức</strong>)</p>
 
-			<p>Kết hợp cả ghép và phức – mức cao cấp.</p>
+			<p className="text-indent-whole">Kết hợp cả ghép và phức – mức cao cấp.</p>
 
-			<p>Ví dụ:</p>
+			<p className="text-indent-whole">Ví dụ:</p>
 
 				<ul className="list-square">
 			
@@ -126,9 +126,7 @@ export default function SentenceVariety3(): React.JSX.Element {
 
 			<h3 className="margin-y-50 text-center">2. Làm Sao Để Nhận Biết Và Học Hiệu Quả?</h3>
 
-			<p>Nhận biết: Quan sát số lượng mệnh đề (clause).</p>
-
-			<p className="margin-top-20"></p>
+			<p><strong>Nhận biết</strong>: Quan sát số lượng mệnh đề (clause).</p>
 			
 				<ul className="list-square">
 			
@@ -140,9 +138,7 @@ export default function SentenceVariety3(): React.JSX.Element {
 			
 				</ul>
 
-			<p>Cách học:</p>
-
-			<p className="margin-top-20"></p>
+			<p className="margin-top-20"><strong>Cách học</strong>:</p>
 			
 				<ul className="list-square">
 			
@@ -160,21 +156,21 @@ export default function SentenceVariety3(): React.JSX.Element {
 
 			<ul className="list-square">
 
-					<li>Bắt đầu với Simple: Viết ý chính trước.</li>
+					<li><strong>Bắt đầu với Simple</strong>: Viết ý chính trước.</li>
 					<li className="margin-bottom-20 list-none">→ I learn English.</li>
 
-					<li>Thêm chi tiết (Compound):</li>
+					<li><strong>Thêm chi tiết</strong> (<strong>Compound</strong>):</li>
 					<li className="margin-bottom-20 list-none">→ I learn English every day, and I really enjoy it.</li>
 			
-					<li>Thêm ý phụ (Complex):</li>
+					<li><strong>Thêm ý phụ</strong> (<strong>Complex</strong>):</li>
 					<li className="margin-bottom-20 list-none">→ Although it is sometimes difficult, I learn English every day because I want to study abroad.</li>
 
-					<li>Kết hợp linh hoạt:</li>
+					<li><strong>Kết hợp linh hoạt</strong>:</li>
 					<li className="list-none">→ Although it is sometimes difficult, I learn English every day, and the progress I make keeps me motivated.</li>
 			
 				</ul>
 
-			<p>Hãy thực hành theo trình tự này. Mỗi tuần chỉ tập trung nâng cấp một loại câu là đủ.</p>
+			<p className="margin-top-20">Hãy thực hành theo trình tự này. Mỗi tuần chỉ tập trung nâng cấp một loại câu là đủ.</p>
 
 			{/* 4. Mẹo Áp Dụng Thực Tế */}
 
