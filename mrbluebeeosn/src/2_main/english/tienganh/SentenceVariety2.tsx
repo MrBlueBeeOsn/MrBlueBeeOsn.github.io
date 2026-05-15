@@ -149,7 +149,7 @@ export default function SentenceVariety2(): React.JSX.Element {
 
 				<ul className="list-square">
 
-					<li>She opened the door because she heard a noise.</li>
+					<li>She opened the door <strong>because</strong> she heard a noise.</li>
 					<li className="margin-bottom-20 list-none">Cô ấy mở toang cửa vì nghe có tiếng động lạ.</li>
 
 					<li className="list-none">→ Thành complex</li>
@@ -160,7 +160,7 @@ export default function SentenceVariety2(): React.JSX.Element {
 
 			<ul className="list-square">
 
-					<li>She opened the door because she heard a noise, and she screamed.</li>
+					<li>She opened the door <strong>because</strong> she heard a noise, <strong>and</strong> she screamed.</li>
 					<li className="margin-bottom-20 list-none">Cô ấy đã mở cửa vì cô ấy nghe thấy một tiếng ồn, và cô ấy đã hét lên.</li>
 
 					<li className="list-none">→ Thành compound-complex</li>
@@ -174,17 +174,21 @@ export default function SentenceVariety2(): React.JSX.Element {
 
 			<p className="text-indent-whole">Khi đọc báo tiếng Anh (BBC, VOA), hãy lấy bút (hoặc highlight trong file) tô:</p>
 
+			<p className="example-sentence">
+
 				<ul className="list-square">
-			
-					<li>Màu vàng: câu đơn</li>
 
-					<li>Màu xanh: câu ghép đẳng lập</li>
+					<li><span className="m"><strong>Màu vàng</strong>: câu đơn</span></li>
 
-					<li>Màu cam: câu phức</li>
+					<li><span className="v"><strong>Màu xanh</strong>: câu ghép đẳng lập</span></li>
 
-					<li>Màu tím: câu hỗn hợp</li>
+					<li><span className="o"><strong>Màu cam</strong>: câu phức</span></li>
+
+					<li><span className="s"><strong>Màu tím</strong>: câu hỗn hợp</span></li>
 			
 				</ul>
+
+			</p>
 					
 			<p className="margin-top-20 text-indent-whole">Sau 5 phút, bạn sẽ thấy mình nhìn ra cấu trúc mà không cần phân tích ngữ pháp.</p>
 
@@ -329,13 +333,13 @@ export default function SentenceVariety2(): React.JSX.Element {
 
 			<p className="example-sentence">
 
-				<span className="s">Online learning is convenient. </span>
+				<span className="m">Online learning is convenient. </span>
 
 				<span className="v">You can study anywhere, <strong>and</strong> you can save a lot of time. </span>
 
 				<span className="o">However, <strong>when</strong> there is no teacher around, many students feel lost. </span>
 
-				<span className="m">They procrastinate, <strong>and</strong> their grades drop quickly. </span>
+				<span className="s">They procrastinate, <strong>and</strong> their grades drop quickly. </span>
 
 				<span className="p"><strong>Although</strong> technology helps, self-discipline is still the key – without it, no course will work.</span>
 			
@@ -346,13 +350,13 @@ export default function SentenceVariety2(): React.JSX.Element {
 			
 				<ul className="list-square">
 
-					<li className="list-none"><span className="pill s">Câu 1: simple</span></li>
+					<li className="list-none"><span className="pill m">Câu 1: simple</span></li>
 
 					<li className="list-none"><span className="pill v">Câu 2: compound</span></li>
 
 					<li className="list-none"><span className="pill o">Câu 3: complex (when…)</span></li>
 
-					<li className="list-none"><span className="pill m">Câu 4: compound</span></li>
+					<li className="list-none"><span className="pill s">Câu 4: compound</span></li>
 
 					<li className="list-none"><span className="pill p">Câu 5: compound-complex (although… + without…)</span></li>
 			
