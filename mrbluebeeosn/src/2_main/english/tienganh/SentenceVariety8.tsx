@@ -114,13 +114,55 @@ export default function SentenceVariety8(): React.JSX.Element {
 			
 				</ul>
 
-			{/* Lời kết: */}
+			<ul className="list-square">
 
-			<h3 className="margin-y-50 text-center">Lời kết:</h3>
+					<li>Bắt đầu với câu đơn bạn chắc chắn đúng:</li>
+					<li className="margin-bottom-20 list-none">I practice daily.</li>
 
-			<p>Ngôn ngữ là một dòng chảy. Đừng cố gắng bơi ngược dòng bằng những thói quen cũ. Hãy dũng cảm thay đổi cấu trúc tư duy, cho phép thông tin được trôi xuôi chiều từ trái sang phải. Đó là lúc bạn không còn "học" tiếng Anh nữa, mà bạn đang thực sự sở hữu nó.</p>
+					<li>Thêm lý do bằng because:</li>
+					<li className="margin-bottom-20 list-none">Because I practice daily, I improve.</li>
+			
+					<li>Thêm kết quả bằng and/so:</li>
+					<li className="margin-bottom-20 list-none">Because I practice daily, I improve, and I feel confident.</li>
 
-			<p>Hãy bắt đầu thử ngay với cụm từ tiếp theo bạn bắt gặp nhé!</p>
+					<li>Thêm điều kiện bằng if:</li>
+					<li className="list-none">If I keep this habit, I will improve, and I will feel confident because I practice daily.</li>
+			
+				</ul>
+
+			<p className="margin-top-20">Bạn không cần viết dài như vậy mãi. Bài tập này chỉ để não quen nối ý. Khi viết thật, bạn sẽ tự rút ngắn lại.</p>
+
+			
+
+			{/* Áp dụng vào viết hằng ngày */}
+
+			<h3 className="margin-y-50 text-center">Áp dụng vào viết hằng ngày</h3>
+
+			<p className="margin-top-20">Dùng quy tắc 3 câu:</p>
+			
+				<ul className="list-square">
+			
+					<li>Mở bằng câu đơn. Ngắn.</li>
+			
+					<li>Nối bằng câu phức với when hoặc because.</li>
+			
+					<li>Chốt bằng câu ghép với but hoặc so, hoặc một câu hỏi.</li>
+			
+				</ul>
+
+			<p className="margin-top-20">Ví dụ nhanh:</p>
+			
+				<ul className="list-square">
+					<li>I write every morning. When I write, I think clearer, and my day starts better. Want to try?</li>
+				</ul>
+			
+			<p className="margin-top-20"></p>
+
+			<p>Đọc lên nghe có nhịp, không cần từ khó.</p>
+			
+			<p>Giữ 4 khung này trong đầu, bạn sẽ hết sợ câu dài. </p>
+
+			<p>Bạn biết mình đang ở đâu, muốn thêm gì, và khi nào nên dừng. Đó là lúc tiếng Anh của bạn bắt đầu nghe tự nhiên.</p>
 
 			<div className="viewcounter">
 			

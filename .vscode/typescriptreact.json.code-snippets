@@ -5,7 +5,7 @@
 // 		"body": [
 // 			"<h3 className=\"margin-y-50 text-center\">$1</h3>",
 // 			"    ",
-// 			"<p>$2</p>",
+// 			"<p className=\"text-indent-whole\">$2</p>",
 // 			"",
 // 			"  <ul className=\"list-square\">",
 // 			"",
@@ -15,7 +15,9 @@
 // 			"",
 // 			"    <li>$5</li>",
 // 			"",
-// 			"  </ul>$0"
+// 			"  </ul>$0",
+// 			"",
+// 			"<p className=\"margin-top-20\">$2</p>"
 // 		],
 // 		"description": "h3 p ul li"
 // 	},
@@ -44,7 +46,9 @@
 // 			"",
 // 			"    <li>$5</li>",
 // 			"",
-// 			"  </ul>$0"
+// 			"  </ul>$0",
+// 			"",
+// 			"<p className=\"margin-top-20\">$2</p>"
 // 		],
 // 		"description": "h3 ul li"
 // 	},
@@ -57,11 +61,13 @@
 // 		"description": "h3"
 // 	},
 
-// 	// p ul li
-// 	"template p ul li": {
-// 		"prefix": ".pulli",
+// 	// p p ul li
+// 	"template p p ul li": {
+// 		"prefix": ".ppulli",
 // 		"body": [
-// 			"<p className=\"margin-top-20\">$2</p>",
+// 			"<p>$1</p>",
+// 			"    ",
+// 			"<p className=\"text-indent-whole\">$2</p>",
 // 			"",
 // 			"  <ul className=\"list-square\">",
 // 			"",
@@ -71,9 +77,124 @@
 // 			"",
 // 			"    <li>$5</li>",
 // 			"",
-// 			"  </ul>$0"
+// 			"  </ul>$0",
+// 			"",
+// 			"<p className=\"margin-top-20\">$2</p>"
+// 		],
+// 		"description": "p p ul li"
+// 	},
+
+// 	// p p ul li 2
+// 	"template p p ul li 2": {
+// 		"prefix": ".ppulli2",
+// 		"body": [
+// 			"<p>$1</p>",
+// 			"    ",
+// 			"<p className=\"text-indent-whole\">$2</p>",
+// 			"",
+// 			"  <ul className=\"list-square\">",
+// 			"",
+// 			"    <li>$3</li>",
+// 			"    <li className=\"margin-top-20 list-none\">$3</li>",
+// 			"",
+// 			"    <li>$4</li>",
+// 			"    <li className=\"margin-top-20 list-none\">$4</li>",
+// 			"",
+// 			"    <li>$5</li>",
+// 			"    <li className=\"list-none\">$5</li>",
+// 			"",
+// 			"  </ul>$0",
+// 			"",
+// 			"<p className=\"margin-top-20\">$2</p>"
+// 		],
+// 		"description": "p p ul li 2"
+// 	},
+
+// 	// p ul li
+// 	"template p ul li": {
+// 		"prefix": ".pulli",
+// 		"body": [
+// 			"<p className=\"margin-top-20\">$2</p>",
+// 			"",
+// 			"  <ul className=\"list-square\">",
+// 			"",
+// 			"    <li>$3</li>",
+// 			"    <li>$4</li>",
+// 			"",
+// 			"    <li>$4</li>",
+// 			"    <li>$4</li>",
+// 			"",
+// 			"    <li>$5</li>",
+// 			"    <li className=\"list-none\">$5</li>",
+// 			"",
+// 			"  </ul>$0",
+// 			"",
+// 			"<p className=\"margin-top-20\">$2</p>"
 // 		],
 // 		"description": "p ul li"
+// 	},
+
+// 	// p ul li 2
+// 	"template p ul li 2": {
+// 		"prefix": ".pulli2",
+// 		"body": [
+// 			"<p className=\"margin-top-20\">$2</p>",
+// 			"",
+// 			"  <ul className=\"list-square\">",
+// 			"",
+// 			"    <li>$3</li>",
+// 			"    <li className=\"margin-top-20 list-none\">$3</li>",
+// 			"",
+// 			"    <li>$4</li>",
+// 			"    <li className=\"margin-top-20 list-none\">$4</li>",
+// 			"",
+// 			"    <li>$5</li>",
+// 			"    <li className=\"list-none\">$5</li>",
+// 			"",
+// 			"  </ul>$0",
+// 			"",
+// 			"<p className=\"margin-top-20\">$2</p>"
+// 		],
+// 		"description": "p ul li 2"
+// 	},
+
+// 	// p ol li
+// 	"template p ol li": {
+// 		"prefix": ".polli",
+// 		"body": [
+// 			"<p className=\"margin-top-20\">$2</p>",
+// 			"",
+// 			"  <ol>",
+// 			"",
+// 			"    <li>$3</li>",
+// 			"",
+// 			"    <li>$4</li>",
+// 			"",
+// 			"    <li>$5</li>",
+// 			"",
+// 			"  </ol>$0",
+// 			"",
+// 			"<p className=\"margin-top-20\">$2</p>"
+// 		],
+// 		"description": "p ul li"
+// 	},
+
+// 	// pmargintop20
+// 	"template p margintop20": {
+// 		"prefix": ".pmargintop20",
+// 		"body": [
+// 			"<p className=\"margin-top-20\">$2</p>"
+// 		],
+// 		"description": "p margin top 20"
+// 	},
+
+// 	// ptextindentwhole
+// 	"template p textindentwhole": {
+// 		"prefix": ".ptextindentwhole",
+// 		"body": [
+// 			"<p className=\"text-indent-whole\">$2</p>"
+// 		],
+// 		"description": "p text indent whole"
 // 	},
 
 // 	// .strong
@@ -92,6 +213,24 @@
 // 			" className=\"margin-top-20\""
 // 		],
 // 		"description": "className mt20"
+// 	},
+
+// 	// .list-none
+// 	"template className ln": {
+// 		"prefix": ".list-none",
+// 		"body": [
+// 			" className=\"list-none\""
+// 		],
+// 		"description": "className list-none"
+// 	},
+
+// 	// .value="1"
+// 	"template value": {
+// 		"prefix": ".value",
+// 		"body": [
+// 			" value=\"1\""
+// 		],
+// 		"description": "className value"
 // 	},
 
 // 	// .textindentwhole
