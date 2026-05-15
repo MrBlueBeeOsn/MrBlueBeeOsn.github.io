@@ -62,44 +62,53 @@ export default function SentenceVariety2(): React.JSX.Element {
 
 			<h3 className="margin-y-50 text-center">1. Bốn loại câu tiếng Anh cơ bản (ai cũng nên thuộc lòng)</h3>
 
-				<table className="margin-y-50">
-					<thead>
-						<tr>
-							<th>Loại câu</th>
-							<th>Công thức</th>
-							<th>Ví dụ</th>
-						</tr>
-					</thead>
+			<h4 className="margin-y-40">1. Simple (đơn)</h4>
+					
+			<p className="text-indent-whole">1 mệnh đề độc lập</p>
+			
+				<ul className="list-square">
+			
+					<li>I like coffee.</li>
+					<li className="list-none">Tôi mê cà phê lắm.</li>
+			
+				</ul>
 
-					<tbody>
-						
-						<tr>
-								<td><strong>Simple</strong> (đơn)</td>
-								<td>1 mệnh đề độc lập</td>
-								<td>I like coffee.</td>
-						</tr>
-						
-						<tr>
-								<td><strong>Compound</strong> (ghép đẳng lập)</td>
-								<td>2 mệnh đề độc lập + liên từ (and, but, or, so…)</td>
-								<td>I like coffee, but my sister likes tea.</td>
-						</tr>
+			<h4 className="margin-y-40">2. Compound (ghép đẳng lập)</h4>
+					
+			<p className="text-indent-whole">2 mệnh đề độc lập + liên từ (and, but, or, so…)</p>
+			
+				<ul className="list-square">
+			
+					<li>I like coffee, <strong>but</strong> my sister likes tea.</li>
+					<li className="list-none">Mình thì mê cà phê, còn chị/em mình lại khoái uống trà.</li>
+			
+				</ul>
 
-						<tr>
-								<td><strong>Complex</strong> (ghép chính phụ)</td>
-								<td>1 mệnh đề độc lập + 1 mệnh đề phụ thuộc (because, although, when, if…)</td>
-								<td>Although I was tired, I finished my homework.</td>
-						</tr>
 
-						<tr>
-								<td><strong>Compound</strong>-<strong>Complex</strong> (ghép hỗn hợp)</td>
-								<td>2 mệnh đề độc lập + 1+ mệnh đề phụ thuộc</td>
-								<td>When I arrived home, I was hungry, so I made a sandwich.</td>
-						</tr>
-					</tbody>
-				</table>
+			<h4 className="margin-y-40">3. Complex (ghép chính phụ)</h4>
+					
+			<p className="text-indent-whole">1 mệnh đề độc lập + 1 mệnh đề phụ thuộc (because, although, when, if…)</p>
+			
+				<ul className="list-square">
+			
+					<li><strong>Although</strong> I was tired, I finished my homework.</li>
+					<li className="list-none">Mặc dù rất mệt mỏi, tôi đã hoàn thành bài tập về nhà của mình.</li>
+			
+				</ul>
+			
 
-			<p>💡 Mẹo nhận biết nhanh:</p>
+			<h4 className="margin-y-40">4. Compound-Complex (ghép hỗn hợp)</h4>
+					
+			<p className="text-indent-whole">2 mệnh đề độc lập + 1+ mệnh đề phụ thuộc</p>
+			
+				<ul className="list-square">
+			
+					<li><strong>When</strong> I arrived home, I was hungry, <strong>so</strong> I made a sandwich.</li>
+					<li className="list-none">Khi về đến nhà, tôi cảm thấy đói nên đã làm một chiếc bánh mì sandwich.</li>
+			
+				</ul>
+
+			<h4 className="margin-y-40">💡 Mẹo nhận biết nhanh:</h4>
 
 				<ul className="list-square">
 
@@ -125,39 +134,45 @@ export default function SentenceVariety2(): React.JSX.Element {
 
 			<p>Thay vào đó:</p>
 
-			<p className="margin-top-20"><strong>Cách 1</strong>: <strong>Chơi trò</strong> "<strong>bẻ câu</strong>"</p>
+			<h4 className="margin-y-40">Cách 1: Chơi trò "bẻ câu"</h4>
 
-			<p>Lấy một câu đơn:</p>
-
-				<ul className="list-square">
-
-					<li>→ She opened the door.</li>
-			
-				</ul>
-
-			<p>Hỏi: "Có thể thêm because vào không?"</p>
+			<p className="text-indent-whole">Lấy một câu đơn:</p>
 
 				<ul className="list-square">
 
-					<li>→ She opened the door because she heard a noise.</li>
-					<li className="list-none">Thành complex</li>
+					<li>She opened the door.</li>
+					<li className="list-none">Cổ mở cửa ra.</li>
 			
 				</ul>
 
-			<p>Hỏi tiếp: "Có thể nối với một câu khác bằng and không?"</p>
+			<p className="margin-y-30 text-indent-whole">Hỏi: <strong>Có thể thêm because vào không</strong>?</p>
 
 				<ul className="list-square">
 
-					<li>→ She opened the door because she heard a noise, and she screamed.</li>
-					<li className="list-none">Thành compound-complex</li>
+					<li>She opened the door because she heard a noise.</li>
+					<li className="margin-bottom-20 list-none">Cô ấy mở toang cửa vì nghe có tiếng động lạ.</li>
+
+					<li className="list-none">→ Thành complex</li>
 			
 				</ul>
 
-			<p className="margin-top-20">Sau 5 phút, bạn sẽ thấy mình nhìn ra cấu trúc mà không cần phân tích ngữ pháp.</p>
+			<p className="margin-y-30 text-indent-whole">Hỏi tiếp: <strong>Có thể nối với một câu khác bằng and không</strong>?</p>
 
-			<p className="margin-top-20"><strong>Cách 2</strong>: <strong>Gắn màu sắc cho từng loại câu</strong></p>
+			<ul className="list-square">
 
-			<p>Khi đọc báo tiếng Anh (BBC, VOA), hãy lấy bút (hoặc highlight trong file) tô:</p>
+					<li>She opened the door because she heard a noise, and she screamed.</li>
+					<li className="margin-bottom-20 list-none">Cô ấy đã mở cửa vì cô ấy nghe thấy một tiếng ồn, và cô ấy đã hét lên.</li>
+
+					<li className="list-none">→ Thành compound-complex</li>
+			
+				</ul>
+					
+			<p className="margin-top-20 text-indent-whole">Sau 5 phút, bạn sẽ thấy mình nhìn ra cấu trúc mà không cần phân tích ngữ pháp.</p>
+
+
+			<h4 className="margin-y-40">Cách 2: Gắn màu sắc cho từng loại câu</h4>
+
+			<p className="text-indent-whole">Khi đọc báo tiếng Anh (BBC, VOA), hãy lấy bút (hoặc highlight trong file) tô:</p>
 
 				<ul className="list-square">
 			
@@ -170,63 +185,84 @@ export default function SentenceVariety2(): React.JSX.Element {
 					<li>Màu tím: câu hỗn hợp</li>
 			
 				</ul>
+					
+			<p className="margin-top-20 text-indent-whole">Sau 5 phút, bạn sẽ thấy mình nhìn ra cấu trúc mà không cần phân tích ngữ pháp.</p>
 
-			<p className="margin-top-20">Sau 5 phút, bạn sẽ thấy mình nhìn ra cấu trúc mà không cần phân tích ngữ pháp.</p>
 
-			<p className="margin-top-20"><strong>Cách 3</strong>: <strong>Nói trước</strong>, <strong>viết sau</strong></p>
 
-			<p>Mỗi tối, hãy nói một câu về ngày của bạn:</p>
+			<h4 className="margin-y-40">Cách 3: Nói trước, viết sau</h4>
+
+			<p className="text-indent-whole">Mỗi tối, hãy nói một câu về ngày của bạn:</p>
 
 				<ul className="list-square">
 			
 					<li>I woke up late.</li>
-					<li className="margin-bottom-20 list-none">Simple</li>
+					<li className="margin-bottom-20 list-none">Tôi đã dậy muộn.</li>
 
-					<li>I woke up late, so I skipped breakfast.</li>
-					<li className="margin-bottom-20 list-none">Complex</li>
+					<li className="margin-bottom-20 list-none">→ Simple</li>
 
-					<li>Because I woke up late, I skipped breakfast.</li>
-					<li className="list-none">Complex</li>
+					<li>I woke up late, <strong>so</strong> I skipped breakfast.</li>
+					<li className="margin-bottom-20 list-none">Tôi đã thức dậy muộn, vì vậy tôi đã bỏ qua bữa sáng.</li>
+
+					<li className="margin-bottom-20 list-none">→ Complex</li>
+
+					<li><strong>Because</strong> I woke up late, I skipped breakfast.</li>
+					<li className="margin-bottom-20 list-none">Bởi vì tôi thức dậy trễ, tôi đã bỏ qua bữa ăn sáng.</li>
+
+					<li className="list-none">→ Complex</li>
 			
 				</ul>
-
-			<p className="margin-top-20">Rồi mới viết xuống. Nói giúp não bạn tạo phản xạ tự nhiên hơn.</p>
+					
+			<p className="margin-top-20 text-indent-whole">Rồi mới viết xuống. Nói giúp não bạn tạo phản xạ tự nhiên hơn.</p>
 
 			{/* 3. Cách xây dựng câu từ đơn giản đến phức tạp (kế hoạch 3 bước) */}
 
 			<h3 className="margin-y-50 text-center">3. Cách xây dựng câu từ đơn giản đến phức tạp (kế hoạch 3 bước)</h3>
 
-			<p className="margin-top-20"><strong>Bước 1</strong>: <strong>Bắt đầu bằng câu đơn</strong> – <strong>nhưng đừng ở đó mãi</strong></p>
-			
-				<ul className="list-square">
-			
-					<li className="list-none">Viết một ý thật cơ bản.</li>
-			
-					<li className="list-none">The boy ran.</li>
-			
-				</ul>
 
-			<p className="margin-top-20"><strong>Bước 2</strong>: <strong>Thêm một mệnh đề phụ để mở rộng</strong></p>
+			<h4 className="margin-y-40">Bước 1:</h4>
+
+			<p className="text-indent-whole"><strong>Bắt đầu bằng câu đơn</strong> – nhưng đừng ở đó mãi</p>
+
+			<p className="text-indent-whole">Viết một ý thật cơ bản.</p>
 
 				<ul className="list-square">
 			
-					<li className="list-none">Dùng when, because, although, if…</li>
-			
-					<li className="list-none">Because he was scared, the boy ran.</li>
+					<li>The boy ran.</li>
+					<li className="list-none">Cậu bé đã bỏ chạy.</li>
 			
 				</ul>
+			
+			
+			<h4 className="margin-y-40">Bước 2:</h4>
 
-			<p className="margin-top-20"><strong>Bước 3</strong>: <strong>Nối thêm một mệnh đề độc lập bằng and</strong>, <strong>but</strong>, <strong>so</strong>, <strong>or</strong></p>
+			<p className="text-indent-whole">Thêm một mệnh đề phụ để mở rộng</p>
+
+			<p className="text-indent-whole">Dùng when, because, although, if…</p>
 
 				<ul className="list-square">
 			
-					<li className="list-none">Because he was scared, the boy ran, and he didn't look back.</li>
+					<li><strong>Because</strong> he was scared, the boy ran.</li>
+					<li className="list-none">Bởi vì cậu ấy sợ hãi, cậu bé đã chạy.</li>
 			
 				</ul>
 
-			<p className="margin-top-20">Thế là từ 3 từ bạn đã có một câu hỗn hợp (compound-complex) 12 từ, giàu cảm xúc và nhịp điệu.</p>
 
-			<p>🔁 Nguyên tắc vàng: <strong>Mỗi câu phức tạp nên có duy nhất một mệnh đề phụ</strong> nếu bạn mới bắt đầu. Đừng nhồi nhét.</p>
+			<h4 className="margin-y-40">Bước 3:</h4>
+
+			<p className="text-indent-whole">Nối thêm một mệnh đề độc lập bằng <strong>and</strong>, <strong>but</strong>, <strong>so</strong>, <strong>or</strong></p>
+
+				<ul className="list-square">
+			
+					<li><strong>Because</strong> he was scared, the boy ran, <strong>and</strong> he didn't look back.</li>
+					<li className="list-none">Bởi vì cậu ấy sợ hãi, cậu bé đã chạy, và cậu ấy đã không nhìn lại.</li>
+			
+				</ul>
+					
+			<p className="margin-top-20 text-indent-whole">Thế là từ 3 từ bạn đã có một câu hỗn hợp (compound-complex) 12 từ, giàu cảm xúc và nhịp điệu.</p>
+
+			<p className="text-indent-whole">🔁 Nguyên tắc vàng: <strong>Mỗi câu phức tạp nên có duy nhất một mệnh đề phụ</strong> nếu bạn mới bắt đầu. Đừng nhồi nhét.</p>
+
 
 			{/* 4. Cách nhận biết các loại câu khi đọc – mẹo "từ khóa" */}
 
@@ -253,11 +289,15 @@ export default function SentenceVariety2(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>Although it was raining, we went out.</li>
-					<li className=" margin-bottom-20 list-none">Complex – chữ although ở đầu</li>
+					<li><strong>Although</strong> it was raining, we went out.</li>
+					<li className="margin-bottom-20 list-none">Mặc dù trời mưa, chúng tôi vẫn đi ra ngoài.</li>
+
+					<li className=" margin-bottom-20 list-none">→ Complex – chữ although ở đầu</li>
 			
-					<li>It was raining, but we went out.</li>
-					<li className="list-none">Compound – chữ but ở giữa</li>
+					<li>It was raining, <strong>but</strong> we went out.</li>
+					<li className="margin-bottom-20 list-none">Trời mưa nhưng chúng tôi vẫn đi ra ngoài.</li>
+
+					<li className="list-none">→ Compound – chữ but ở giữa</li>
 			
 				</ul>
 
@@ -287,21 +327,34 @@ export default function SentenceVariety2(): React.JSX.Element {
 
 			<p className="margin-top-20"><strong>Ví dụ một đoạn blog bằng tiếng Anh</strong> (chủ đề: học online):</p>
 
-			<p>Online learning is convenient. You can study anywhere, and you can save a lot of time. However, when there is no teacher around, many students feel lost. They procrastinate, and their grades drop quickly. Although technology helps, self-discipline is still the key – without it, no course will work.</p>
+			<p className="example-sentence">
+
+				<span className="s">Online learning is convenient. </span>
+
+				<span className="v">You can study anywhere, <strong>and</strong> you can save a lot of time. </span>
+
+				<span className="o">However, <strong>when</strong> there is no teacher around, many students feel lost. </span>
+
+				<span className="m">They procrastinate, <strong>and</strong> their grades drop quickly. </span>
+
+				<span className="p"><strong>Although</strong> technology helps, self-discipline is still the key – without it, no course will work.</span>
+			
+			
+			</p>
 
 			<p>Đếm thử:</p>
 			
 				<ul className="list-square">
 
-					<li className="list-none">Câu 1: simple</li>
+					<li className="list-none"><span className="pill s">Câu 1: simple</span></li>
 
-					<li className="list-none">Câu 2: compound</li>
+					<li className="list-none"><span className="pill v">Câu 2: compound</span></li>
 
-					<li className="list-none">Câu 3: complex (when…)</li>
+					<li className="list-none"><span className="pill o">Câu 3: complex (when…)</span></li>
 
-					<li className="list-none">Câu 4: compound</li>
+					<li className="list-none"><span className="pill m">Câu 4: compound</span></li>
 
-					<li className="list-none">Câu 5: compound-complex (although… + without…)</li>
+					<li className="list-none"><span className="pill p">Câu 5: compound-complex (although… + without…)</span></li>
 			
 				</ul>
 

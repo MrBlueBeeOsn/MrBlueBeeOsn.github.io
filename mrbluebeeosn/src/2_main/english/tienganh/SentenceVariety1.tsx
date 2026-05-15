@@ -60,42 +60,53 @@ export default function SentenceVariety1(): React.JSX.Element {
 
 			<p>Để nhận biết chúng, hãy nhìn vào số lượng <strong>mệnh đề</strong> (chủ ngữ + động từ) và <strong>từ nối</strong>.</p>
 
-			<table className="margin-y-50">
-					<thead>
-						<tr>
-							<th>Loại câu</th>
-							<th>Đặc điểm nhận dạng</th>
-							<th>Ví dụ dễ nhớ</th>
-						</tr>
-					</thead>
-
-					<tbody>
-						
-						<tr>
-								<td>Simple (Câu đơn)</td>
-								<td>Chỉ có 1 ý duy nhất.</td>
-								<td>The project failed.</td>
-						</tr>
-						
-						<tr>
-								<td>Compound (Câu ghép)</td>
-								<td>2 ý ngang hàng, nối bằng: and, but, or, so, yet...</td>
-								<td>The project failed, <strong>but</strong> we learned a lot.</td>
-						</tr>
-
-						<tr>
-								<td>Complex (Câu phức)</td>
-								<td>1 ý chính + 1 ý phụ (bắt đầu bằng because, although, if, when...)</td>
-								<td><strong>Although</strong> the project failed, we gained experience.</td>
-						</tr>
-
-						<tr>
-								<td>Compound-Complex</td>
-								<td>Kết hợp cả 2 loại trên (ít nhất 2 ý chính + 1 ý phụ).</td>
-								<td>Although the project failed, we gained experience, <strong>and</strong> we are ready for the next one.</td>
-						</tr>
-					</tbody>
-				</table>
+			<h4 className="margin-y-40">1. Simple (Câu đơn)</h4>
+					
+			<p className="text-indent-whole">Chỉ có 1 ý duy nhất.</p>
+			
+				<ul className="list-square">
+			
+					<li>The project failed.</li>
+					<li className="list-none">Dự án đã thất bại.</li>
+			
+				</ul>
+			
+			
+			<h4 className="margin-y-40">2. Compound (Câu ghép)</h4>
+					
+			<p className="text-indent-whole">2 ý ngang hàng, nối bằng: and, but, or, so, yet...</p>
+			
+				<ul className="list-square">
+			
+					<li>The project failed, <strong>but</strong> we learned a lot.</li>
+					<li className="list-none">Dự án đã thất bại, nhưng chúng tôi đã học hỏi được rất nhiều điều.</li>
+			
+				</ul>
+			
+			
+			<h4 className="margin-y-40">3. Complex (Câu phức)</h4>
+					
+			<p className="text-indent-whole">1 ý chính + 1 ý phụ (bắt đầu bằng because, although, if, when...)</p>
+			
+				<ul className="list-square">
+			
+					<li><strong>Although</strong> the project failed, we gained experience.</li>
+					<li className="list-none">Mặc dù dự án thất bại, chúng ta đã gặt hái được những kinh nghiệm quý báu.</li>
+			
+				</ul>
+			
+			
+			<h4 className="margin-y-40">4. Compound-Complex</h4>
+					
+			<p className="text-indent-whole">Kết hợp cả 2 loại trên (ít nhất 2 ý chính + 1 ý phụ).</p>
+			
+				<ul className="list-square">
+			
+					<li><strong>Although</strong> the project failed, we gained experience, <strong>and</strong> we are ready for the next one.</li>
+					<li className="list-none">Mặc dù dự án thất bại, chúng ta đã gặt hái được những kinh nghiệm quý báu và hiện đã chuẩn bị sẵn sàng cho thử thách kế tiếp.</li>
+			
+				</ul>
+			
 
 			{/* 2. Chiến lược "Tuyết lăn": Xây dựng câu từ đơn giản đến phức tạp */}
 
@@ -103,40 +114,54 @@ export default function SentenceVariety1(): React.JSX.Element {
 
 			<p>Đừng cố viết một câu dài ngay lập tức. Hãy bắt đầu từ lõi và đắp thêm "thịt" vào khung xương đó.</p>
 
-			<p className="margin-top-20"><strong>Bước 1</strong> (<strong>Câu đơn</strong>):</p>
-
+			<h4 className="margin-y-40">Bước 1 (Câu đơn):</h4>
+			
 				<ul className="list-square">
-
+			
 					<li>The girl is beautiful.</li>
+					<li className="list-none">Cô gái ấy thật xinh đẹp.</li>
 			
 				</ul>
-
-			<p className="margin-top-20"><strong>Bước 2</strong> (<strong>Nâng cấp danh từ</strong>): Thay vì dùng tính từ đứng trước, hãy thử cấu trúc "The [Noun] of...".</p>
-
+		
+			
+			<h4 className="margin-y-40">Bước 2 (Nâng cấp danh từ):</h4>
+					
+			<p className="text-indent-whole">Thay vì dùng tính từ đứng trước, hãy thử cấu trúc "The [Noun] of...".</p>
+			
 				<ul className="list-square">
-
-					<li>The beauty of the girl impressed everyone.</li>
-					<li className="list-none">Cách này tạo cảm giác trang trọng và sâu sắc hơn</li>
+			
+					<li>The beauty <strong>of</strong> the girl impressed everyone.</li>
+					<li className="list-none">Vẻ đẹp của cô gái đã gây ấn tượng với mọi người.</li>
 			
 				</ul>
 
-			<p className="margin-top-20"><strong>Bước 3</strong> (<strong>Thêm điều kiện</strong>/<strong>ngữ cảnh</strong>):</p>
+			<p className="margin-top-20 text-indent-whole">Cách này tạo cảm giác trang trọng và sâu sắc hơn</p>
 
+			
+			<h4 className="margin-y-40">Bước 3 (Thêm điều kiện/ngữ cảnh):</h4>
+					
+			<p className="text-indent-whole">Câu phức</p>
+			
 				<ul className="list-square">
-
-					<li>Whenever she smiles, the beauty of the girl impresses everyone.</li>
-					<li className="list-none">Câu phức</li>
+			
+					<li><strong>Whenever</strong> she smiles, the beauty of the girl impresses everyone.</li>
+					<li className="list-none">Bất cứ khi nào cô gái ấy mỉm cười, vẻ đẹp của cô đều để lại ấn tượng cho mọi người.</li>
 			
 				</ul>
-
-			<p className="margin-top-20"><strong>Bước 4</strong> (<strong>Mở rộng kết quả</strong>):</p>
-
+			
+			
+			<h4 className="margin-y-40">Bước 4 (Mở rộng kết quả)</h4>
+					
+			<p className="text-indent-whole">Câu phức tổng hợp</p>
+			
 				<ul className="list-square">
-
-					<li>Whenever she smiles, the beauty of the girl impresses everyone, and the room seems to brighten up.</li>
-					<li className="list-none">Câu phức tổng hợp</li>
+			
+					<li><strong>Whenever</strong> she smiles, the beauty of the girl impresses everyone, <strong>and</strong> the room seems to brighten up.</li>
+					<li className="list-none">Bất cứ khi nào cô gái ấy mỉm cười, vẻ đẹp của cô đều để lại ấn tượng sâu sắc cho mọi người, và căn phòng dường như trở nên tươi sáng hơn.</li>
 			
 				</ul>
+			
+
 
 			{/* 3. Làm sao để nhận biết và "thẩm thấu" nhanh? */}
 
@@ -146,7 +171,7 @@ export default function SentenceVariety1(): React.JSX.Element {
 
 					<li><strong>Tư duy theo</strong> "<strong>Cụm</strong>":</li>
 					<li className="list-none">Đừng dịch từng từ. Khi đọc, hãy tập thói quen ngắt câu thành các cụm thành phần.</li>
-					<li className="margin-bottom-20 list-none">Ví dụ: [Whenever she smiles] / [the beauty of the girl] / [impresses everyone].</li>
+					<li className="margin-bottom-20 list-none">[Whenever she smiles] / [the beauty of the girl] / [impresses everyone].</li>
 			
 					<li><strong>Săn tìm từ nối</strong>:</li>
 					<li className="margin-bottom-20 list-none">Khi đọc báo hoặc xem phim, hãy tập trung vào các từ như while, whereas, nonetheless. Chúng là "keo dán" quyết định cấu trúc câu đó là gì.</li>

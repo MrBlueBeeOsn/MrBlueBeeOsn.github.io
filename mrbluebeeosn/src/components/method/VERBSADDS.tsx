@@ -20,7 +20,7 @@ export default function VERBSADDS(): React.JSX.Element {
 
       <p className="margin-top-20 text-center">
 
-        <p className="example-sentence">
+          <p className="example-sentence">
             🟦 <span className="pill s">He</span> &nbsp;<span className="pill v">She</span> &nbsp;<span className="pill o">It</span> &nbsp;<span className="pill m">One</span> &nbsp;<span className="pill p">Everyone</span> — &nbsp;<span className="pill t">5 goe5 with 🆂</span>! 🔵
           </p>
 
