@@ -48,79 +48,143 @@ export default function SentenceVariety7(): React.JSX.Element {
 
 			</h1>
 
-			<h4 className="margin-bottom-30 text-center">PHÁ VỠ "RÀO CẢN NGƯỢC": BÍ MẬT DÒNG CHẢY TỰ NHIÊN GIÚP BẠN ĐỘT PHÁ TIẾNG ANH!</h4>
+			<h4 className="margin-bottom-30 text-center">Các loại câu tiếng Anh và cách học hiệu quả</h4>
 
-			<p>Bạn có bao giờ thắc mắc tại sao nhiều người học tiếng Anh lâu năm vẫn gặp khó khăn trong việc phản xạ nhanh? Câu trả lời không nằm ở vốn từ vựng, mà nằm ở một thói quen tư duy âm thầm: <strong>Thói quen</strong> "<strong>dịch ngược</strong>".</p>
+			<p>Viết tốt bắt đầu từ việc hiểu và dùng linh hoạt các loại câu tiếng Anh</p>
 					
-			<p>Nếu bạn muốn sở hữu khả năng ngôn ngữ trôi chảy như người bản xứ, đã đến lúc chúng ta cần tái định vị lại "dòng chảy" của thông tin trong bộ não.</p>
+			<p>Dưới đây là hướng dẫn rõ ràng: loại câu, ví dụ dễ nhớ, cách nhận biết, phương pháp luyện và lộ trình xây dựng từ đơn giản đến phức tạp.</p>
 
-			{/* 1. Thói quen "Đảo chiều" – Rào cản vô hình của phản xạ */}
+			{/* 1. Các loại câu cơ bản (với ví dụ) */}
 
-			<h3 className="margin-y-50 text-center">1. Thói quen "Đảo chiều" – Rào cản vô hình của phản xạ</h3>
-
-			<p>Hầu hết chúng ta khi bắt gặp một cụm từ như "<strong>Useful information</strong>", bộ não thường có xu hướng chạy sang phải để hiểu chữ Information (Thông tin) trước, rồi mới quay ngược lại bên trái để lấy chữ Useful (Hữu ích).</p>
-
-			<p>Việc phải "đảo chiều" liên tục như vậy tạo ra một độ trễ nhất định. Nó khiến dòng chảy ngôn ngữ bị ngắt quãng, làm bạn nhanh mệt và khó theo kịp những cuộc hội thoại tốc độ cao. Đây chính là nút thắt ngăn cản bạn đạt đến sự tự nhiên trong giao tiếp.</p>
-
-			{/* 2. Tại sao các ngôn ngữ khác lại học tiếng Anh dễ hơn? */}
-
-			<h3 className="margin-y-50 text-center">2. Tại sao người học từ các quốc gia khác lại có lợi thế hơn?</h3>
-
-			<p>Khi quan sát những người học đến từ Đức, Hà Lan, hay thậm chí là Nhật Bản và Trung Quốc, chúng ta thấy họ bắt nhịp với cấu trúc tiếng Anh rất nhanh. Lý do là vì trong ngôn ngữ mẹ đẻ của họ, <strong>tính từ luôn đứng trước danh từ</strong>.</p>
-
-			<p>Chính sự đồng nhất này giúp bộ não của họ duy trì một đường thẳng duy nhất: <strong>Tiếp nhận từ trái sang phải</strong>. Họ không cần mất thêm một bước "sắp xếp lại linh kiện" trong đầu như cách người Việt chúng ta thường làm.</p>
-
-			{/* 3. Giải pháp đột phá: Hãy để ngôn ngữ được "Chảy" xuôi chiều */}
-
-			<h3 className="margin-y-50 text-center">3. Giải pháp đột phá: Hãy để ngôn ngữ được "Chảy" xuôi chiều</h3>
-
-			<p>Để thực sự làm chủ tiếng Anh, bí kíp hiệu quả nhất chính là: <strong>Đồng nhất hóa cấu trúc tư duy</strong>.</p>
-					
-			<p>Dù ban đầu nghe có vẻ lạ lẫm, nhưng hãy thử tập suy nghĩ hoặc dịch xuôi hoàn toàn theo trật tự tiếng Anh. Đây là cách giúp bộ não làm quen với việc "định tính" sự vật trước khi gọi tên chúng:</p>
+			<h3 className="margin-y-50 text-center">1. Các loại câu cơ bản (với ví dụ)</h3>
 
 				<ul className="list-square">
-		
-					<li>Thay vì nghĩ "Thông tin hữu ích", hãy tập hiểu là: "<strong>Hữu ích thông tin</strong>".</li>
 
-					<li>Thay vì nghĩ "Kế hoạch hoàn hảo", hãy tập hiểu là: "<strong>Hoàn hảo kế hoạch</strong>".</li>
+					<li><strong>Câu đơn</strong> (<strong>Simple sentence</strong>): chứa một chủ ngữ và một vị ngữ, truyền đạt một ý chính.</li>
+					<li className="list-none">She smiled.</li>
+					<li className="margin-bottom-20 list-none">Cô ấy mỉm cười.</li>
 
-					<li>Thay vì nghĩ "Mục tiêu dài hạn", hãy tập hiểu là: "<strong>Dài hạn mục tiêu</strong>".</li>
+					<li><strong>Câu ghép</strong> (<strong>Compound sentence</strong>): nối hai (hoặc nhiều) mệnh đề độc lập bằng liên từ (and, but, or, so) hoặc chấm phẩy.</li>
+					<li className="list-none">She smiled, and he waved.</li>
+					<li className="margin-bottom-20 list-none">Cô mỉm cười, và anh vẫy tay.</li>
+
+					<li><strong>Câu phức</strong> (<strong>Complex sentence</strong>): có một mệnh đề chính và ít nhất một mệnh đề phụ (because, when, if, although...).</li>
+					<li className="list-none">Because she was tired, she left early.</li>
+					<li className="margin-bottom-20 list-none">Vì cô mệt, cô về sớm.</li>
+			
+					<li><strong>Câu ghép‑phức</strong> (<strong>Compound-complex</strong>): kết hợp cả hai — nhiều mệnh đề độc lập và mệnh đề phụ.</li>
+					<li className="margin-bottom-20 list-none">Because she was tired, she left early, and he stayed to finish the work.</li>
+
+					<li><strong>Các dạng đặc biệt</strong>: câu hỏi tu từ, câu ellipsis (bỏ từ), câu với cụm phân từ hay đảo ngữ — dùng để nhấn mạnh hoặc tạo phong cách.</li>
+					<li className="list-none">Who could blame her?</li>
+					<li className="list-none">Ai mà trách được cô chứ?</li>
 			
 				</ul>
 
-			<p className="margin-top-20">Khi bạn chấp nhận trật tự này, bạn đang xây dựng một "đường cao tốc" cho thông tin đi thẳng vào nhận thức mà không cần trạm trung chuyển dịch thuật.</p>
+			{/* 2. Cách nhận biết nhanh */}
 
-			{/* 4. Xây dựng "Khối hình ảnh" thay vì lắp ghép từ đơn */}
+			<h3 className="margin-y-50 text-center">2. Cách nhận biết nhanh</h3>
 
-			<h3 className="margin-y-50 text-center">4. Xây dựng "Khối hình ảnh" thay vì lắp ghép từ đơn</h3>
-
-			<p>Những người giao tiếp xuất sắc không bao giờ đợi đọc hết câu mới bắt đầu hiểu. Họ tiếp nhận thông tin theo từng "Dòng chảy" (Flow).</p>
-
-			<p>Khi bạn nhìn thấy cụm "<strong>Modern</strong>, <strong>spacious office</strong>", đừng đợi đến khi thấy chữ "Office" mới bắt đầu hình dung. Hãy để sự "Hiện đại" và "Rộng rãi" lấp đầy tâm trí bạn trước, rồi cuối cùng mới đóng khung nó lại thành hình ảnh "Văn phòng". Việc nắn lại tư duy này giúp bạn hiểu câu nói ngay khi người bản xứ vừa phát âm, đạt đến trạng thái "nghĩ bằng tiếng Anh" thực thụ.</p>
-
-			{/* 5. Kết quả của sự thay đổi tư duy */}
-
-			<h3 className="margin-y-50 text-center">5. Kết quả của sự thay đổi tư duy</h3>
-
-			<p>Khi bạn kiên trì áp dụng phương pháp "Dòng chảy từ trái sang phải":</p>
-			
 				<ul className="list-square">
 
-					<li><strong>Phản xạ vượt trội</strong>: Xóa bỏ hoàn toàn độ trễ khi nghe và nói.</li>
+					<li>Có dấu phẩy nối mệnh đề độc lập + liên từ (<strong>and</strong>/<strong>but</strong>):</li>
+					<li className="margin-bottom-20 list-none">Khả năng là câu ghép.</li>
 
-					<li><strong>Đọc hiểu thần tốc</strong>: Tốc độ xử lý văn bản tăng lên gấp nhiều lần.</li>
+					<li>Có từ nối như <strong>because</strong>/<strong>when</strong>/<strong>if</strong>/<strong>although</strong> ở đầu hoặc giữa câu:</li>
+					<li className="margin-bottom-20 list-none">Khả năng là câu phức.</li>
+			
+					<li><strong>Nhiều động từ chia chính</strong> trong cùng câu (= nhiều mệnh đề độc lập):</li>
+					<li className="margin-bottom-20 list-none">Thường là câu ghép hoặc ghép‑phức.</li>
 
-					<li><strong>Giao tiếp tự nhiên</strong>: Lời nói tuôn ra theo đúng trật tự logic của người bản xứ.</li>
+					<li>Câu ngắn, <strong>một động từ chính</strong>:</li>
+					<li className="list-none">Thường là câu đơn.</li>
 			
 				</ul>
 
-			{/* Lời kết: */}
+			{/* 3. Cách học và áp dụng (ngày 20–30 phút) */}
 
-			<h3 className="margin-y-50 text-center">Lời kết:</h3>
+			<h3 className="margin-y-50 text-center">3. Cách học và áp dụng (ngày 20–30 phút)</h3>
+
+				<ul className="list-square">
+
+					<li><strong>Nhìn mẫu rồi bắt chước</strong>:</li>
+					<li className="margin-bottom-20 list-none">Học 2–3 ví dụ mỗi loại, viết lại bằng từ/vật dụng của bạn.</li>
+
+					<li><strong>Chia nhỏ</strong>:</li>
+					<li className="margin-bottom-20 list-none">Mỗi ngày luyện một loại (ngày 1: simple, ngày 2: compound, ngày 3: complex).</li>
+
+					<li><strong>Viết</strong> + <strong>sửa</strong>:</li>
+					<li className="margin-bottom-20 list-none">Viết một đoạn 6 câu, sau đó biến ít nhất 3 câu sang loại khác (ví dụ biến câu đơn thành câu phức).</li>
+			
+					<li><strong>Đọc to</strong>:</li>
+					<li className="margin-bottom-20 list-none">Nếu bạn ngắt hơi ở chỗ nào, đó là vị trí phù hợp để dùng dấu câu hoặc tách câu.</li>
+
+					<li><strong>Luyện biến thể</strong>:</li>
+					<li className="list-none">Biến một câu đơn thành compound (thêm and/but), rồi thành complex (thêm because/when), rồi thành compound-complex.</li>
+			
+				</ul>
+
+			{/* 4. Cách xây dựng câu từ đơn giản đến phức tạp (lộ trình thực tế) */}
+
+			<h3 className="margin-y-50 text-center">4. Cách xây dựng câu từ đơn giản đến phức tạp (lộ trình thực tế)</h3>
+
+				<ul className="list-square">
+
+					<li><strong>Bước 1</strong> — <strong>Khung đơn giản</strong>: Chủ ngữ + động từ + (bổ ngữ).</li>
+					<li className="margin-bottom-20 list-none">I study English.</li>
+
+					<li><strong>Bước 2</strong> — <strong>Thêm chi tiết</strong>: thêm tân ngữ, trạng từ.</li>
+					<li className="margin-bottom-20 list-none">I study English every morning.</li>
+
+					<li><strong>Bước 3</strong> — <strong>Ghép ý liên quan</strong>: dùng and/but để nối hai ý.</li>
+					<li className="margin-bottom-20 list-none">I study English, and I practice speaking.</li>
+			
+					<li><strong>Bước 4</strong> — <strong>Thêm mệnh đề phụ</strong>: dùng because/when/if để giải thích hoặc chỉ điều kiện.</li>
+					<li className="margin-bottom-20 list-none">Because I want to improve, I study every day.</li>
+
+					<li><strong>Bước 5</strong> — <strong>Kết hợp phức tạp</strong>: nối nhiều mệnh đề và mệnh đề phụ khi cần bối cảnh và liên kết.</li>
+					<li className="list-none">Because I want to improve, I study every day, and I join a conversation club on weekends.</li>
+			
+				</ul>
+
+			{/* 5. Mẹo nhanh để văn tự nhiên hơn */}
+
+			<h3 className="margin-y-50 text-center">5. Mẹo nhanh để văn tự nhiên hơn</h3>
+			
+				<ul className="list-square">
+
+					<li>Luôn xen kẽ câu ngắn và câu dài trong đoạn văn.</li>
+
+					<li>Đa dạng cách mở đầu: <strong>dùng trạng từ</strong>, <strong>mệnh đề phụ</strong>, <strong>cụm phân từ</strong>, <strong>danh từ</strong>.</li>
+
+					<li>Dùng dấu câu để điều tiết nhịp (chấm phẩy giúp nối ý mà vẫn giữ nhịp).</li>
+
+					<li>Học theo mẫu thực dụng — câu dùng nhiều trong email, blog, mô tả — rồi biến hóa dần.</li>
+			
+				</ul>
+
+
+			{/* 6. Bài tập nhỏ (10–20 phút mỗi ngày) */}
+
+			<h3 className="margin-y-50 text-center">6. Bài tập nhỏ (10–20 phút mỗi ngày)</h3>
+			
+				<ul className="list-square">
+
+					<li>Viết 6 câu mô tả một cảnh, dùng tối thiểu 3 loại câu khác nhau.</li>
+
+					<li>Chọn một câu đơn bạn thích; viết 3 biến thể: compound, complex, compound-complex.</li>
+
+					<li>Đọc to đoạn văn của bạn, đánh dấu chỗ thở; sửa lại để nhịp tự nhiên hơn.</li>
+			
+				</ul>
+
+			{/* Kết lại (một câu) */}
+
+			<h3 className="margin-y-50 text-center">Kết lại (một câu)</h3>
 
 			<p>Ngôn ngữ là một dòng chảy. Đừng cố gắng bơi ngược dòng bằng những thói quen cũ. Hãy dũng cảm thay đổi cấu trúc tư duy, cho phép thông tin được trôi xuôi chiều từ trái sang phải. Đó là lúc bạn không còn "học" tiếng Anh nữa, mà bạn đang thực sự sở hữu nó.</p>
 
-			<p>Hãy bắt đầu thử ngay với cụm từ tiếp theo bạn bắt gặp nhé!</p>
+			<p>Bắt đầu từ câu đơn, luyện theo lộ trình và dùng tai bạn làm thước đo — khi văn “ngon” khi đọc to, độc giả sẽ thấy vậy.</p>
 
 			<div className="viewcounter">
 			
