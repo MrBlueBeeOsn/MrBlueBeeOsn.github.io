@@ -139,6 +139,16 @@ const Posts = lazy(() => import('@/data/Posts'));
 	const BiMatVeTuDuyNgonNgu2 = lazy(() => import('@/2_main/english/tienganh/folder/BiMatVeTuDuyNgonNgu2'));
 	const BiMatVeTuDuyNgonNgu3 = lazy(() => import('@/2_main/english/tienganh/folder/BiMatVeTuDuyNgonNgu3'));
 
+	const DependentClause1 = lazy(() => import('@/2_main/english/tienganh/DependentClause1'));
+	const DependentClause2 = lazy(() => import('@/2_main/english/tienganh/DependentClause2'));
+	const DependentClause3 = lazy(() => import('@/2_main/english/tienganh/DependentClause3'));
+	const DependentClause4 = lazy(() => import('@/2_main/english/tienganh/DependentClause4'));
+	const DependentClause5 = lazy(() => import('@/2_main/english/tienganh/DependentClause5'));
+	const DependentClause6 = lazy(() => import('@/2_main/english/tienganh/DependentClause6'));
+	const DependentClause7 = lazy(() => import('@/2_main/english/tienganh/DependentClause7'));
+	const DependentClause8 = lazy(() => import('@/2_main/english/tienganh/DependentClause8'));
+	const DependentClause9 = lazy(() => import('@/2_main/english/tienganh/DependentClause9'));
+
 	const SentenceVariety1 = lazy(() => import('@/2_main/english/tienganh/SentenceVariety1'));
 	const SentenceVariety2 = lazy(() => import('@/2_main/english/tienganh/SentenceVariety2'));
 	const SentenceVariety3 = lazy(() => import('@/2_main/english/tienganh/SentenceVariety3'));
@@ -627,6 +637,16 @@ export default function AppRoutes(): React.JSX.Element {
 					<Route path="/tieng-anh/bi-mat-ve-tu-duy-ngon-ngu-1" element={<BiMatVeTuDuyNgonNgu1 />} />
 					<Route path="/tieng-anh/bi-mat-ve-tu-duy-ngon-ngu-2" element={<BiMatVeTuDuyNgonNgu2 />} />
 					<Route path="/tieng-anh/bi-mat-ve-tu-duy-ngon-ngu-3" element={<BiMatVeTuDuyNgonNgu3 />} />
+
+					<Route path="/tieng-anh/dependent-clause-1" element={<DependentClause1 />} />
+					<Route path="/tieng-anh/dependent-clause-2" element={<DependentClause2 />} />
+					<Route path="/tieng-anh/dependent-clause-3" element={<DependentClause3 />} />
+					<Route path="/tieng-anh/dependent-clause-4" element={<DependentClause4 />} />
+					<Route path="/tieng-anh/dependent-clause-5" element={<DependentClause5 />} />
+					<Route path="/tieng-anh/dependent-clause-6" element={<DependentClause6 />} />
+					<Route path="/tieng-anh/dependent-clause-7" element={<DependentClause7 />} />
+					<Route path="/tieng-anh/dependent-clause-8" element={<DependentClause8 />} />
+					<Route path="/tieng-anh/dependent-clause-9" element={<DependentClause9 />} />
 
 					<Route path="/tieng-anh/sentence-variety-1" element={<SentenceVariety1 />} />
 					<Route path="/tieng-anh/sentence-variety-2" element={<SentenceVariety2 />} />

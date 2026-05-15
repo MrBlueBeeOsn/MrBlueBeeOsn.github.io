@@ -587,6 +587,40 @@ export default function TiengAnhIndex(): React.JSX.Element {
 
             <li>
               <div className="li-content">
+                <Link to="/tieng-anh/dependent-clause-1">DC
+                <sup>&nbsp;1&nbsp;</sup>
+                </Link>
+                <Link to="/tieng-anh/dependent-clause-2">
+                  <sup>&nbsp;2&nbsp;</sup>
+                </Link>
+                <Link to="/tieng-anh/dependent-clause-3">
+                  <sup>&nbsp;3&nbsp;</sup>
+                </Link>
+                <Link to="/tieng-anh/dependent-clause-4">
+                  <sup>&nbsp;4&nbsp;</sup>
+                </Link>
+                <Link to="/tieng-anh/dependent-clause-5">
+                  <sup>&nbsp;5&nbsp;</sup>
+                </Link>
+                <Link to="/tieng-anh/dependent-clause-6">
+                  <sup>&nbsp;6&nbsp;</sup>
+                </Link>
+                <Link to="/tieng-anh/dependent-clause-7">
+                  <sup>&nbsp;7&nbsp;</sup>
+                </Link>
+                <Link to="/tieng-anh/dependent-clause-8">
+                  <sup>&nbsp;8&nbsp;</sup>
+                </Link>
+                <Link to="/tieng-anh/dependent-clause-9">
+                  <sup>&nbsp;9&nbsp;</sup>
+                </Link>
+              
+              </div>
+              
+            </li>
+
+            <li>
+              <div className="li-content">
                 <Link to="/tieng-anh/sentence-variety-1">Sentence Variety
                 <sup>&nbsp;1&nbsp;</sup>
                 </Link>
