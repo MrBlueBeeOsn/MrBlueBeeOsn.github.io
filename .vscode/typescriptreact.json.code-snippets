@@ -119,6 +119,15 @@
 // 		"description": "h4 p"
 // 	},
 
+// 		// hr short
+// 	"template hr short": {
+// 		"prefix": ".hrshort",
+// 		"body": [
+// 			"<hr className=\"hr-short\"/>",
+// 		],
+// 		"description": "hr short"
+// 	},
+
 // 	"template h3 ul li": {
 // 		"prefix": ".h3ulli",
 // 		"body": [

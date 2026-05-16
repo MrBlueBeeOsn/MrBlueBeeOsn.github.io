@@ -48,170 +48,305 @@ export default function DependentClause5(): React.JSX.Element {
 
 			</h1>
 
-			<h4 className="margin-bottom-30 text-center">Từ "Xây Gạch" Đến "Kiến Trúc": Nghệ Thuật Xây Dựng Câu Tiếng Anh Đa Tầng</h4>
+			<h4 className="margin-bottom-30 text-center">Mệnh Đề Biết Tựa Vào Người Khác</h4>
 
-			<p>Viết tiếng Anh không chỉ đơn thuần là lắp ghép từ vựng. Nếu bạn chỉ dùng một kiểu câu, bài viết sẽ giống như một bức tường gạch phẳng lì—đúng kỹ thuật nhưng thiếu sức sống.</p>
+			<p>Dependent clause không phải điểm yếu trong câu văn — đó là thứ cho thấy người viết đang suy nghĩ theo tầng bậc, không chỉ liệt kê. Bài viết này sẽ dạy bạn cách viết, phân biệt, và sau cùng là làm chủ chúng.</p>
+
+			<p>Hãy tưởng tượng bạn nghe ai đó nói:</p>
+
+			<p>"Bởi vì trời mưa..." — rồi họ im lặng.</p>
+
+			<p>Bạn chờ. Bạn muốn biết điều gì xảy ra tiếp theo. Cái khoảng trống đó, cái cảm giác chưa xong đó, chính là bản chất của dependent clause.</p>
 					
-			<p>Để bài viết thực sự có "nhịp điệu", bạn cần biết cách biến hóa từ những viên gạch đơn lẻ thành những cấu trúc phức tạp và uyển chuyển hơn.</p>
+			<p>Nó có đủ chủ ngữ, đủ động từ — nhưng vẫn cần một mệnh đề chính để trọn vẹn. Và chính sự "chưa xong" ấy lại là công cụ mạnh nhất để bạn viết tiếng Anh có chiều sâu.</p>
 
-			{/* 1. Phân loại "Bản vẽ" Cấu trúc câu */}
+			{/* Bốn bước để viết một Dependent Clause đúng và hay */}
 
-			<h3 className="margin-y-50 text-center">1. Phân loại "Bản vẽ" Cấu trúc câu</h3>
+			<h3 className="margin-y-50 text-center">Bốn bước để viết một Dependent Clause đúng và hay</h3>
 
-			<p>Để nhận biết chúng, hãy nhìn vào số lượng <strong>mệnh đề</strong> (chủ ngữ + động từ) và <strong>từ nối</strong>.</p>
-
-			<h4 className="margin-y-40">1. Simple (Câu đơn)</h4>
+			<h4 className="margin-y-40">Bước 1: Chọn mối quan hệ bạn muốn diễn đạt</h4>
 					
-			<p className="text-indent-whole">Chỉ có 1 ý duy nhất.</p>
+			<p className="text-indent-whole">Trước khi viết, hãy hỏi: hai ý này quan hệ với nhau như thế nào? Nguyên nhân–kết quả? Tương phản? Điều kiện? Thời gian? Câu trả lời sẽ quyết định bạn dùng từ nối gì.</p>
 			
 				<ul className="list-square">
 			
-					<li>The project failed.</li>
-					<li className="list-none">Dự án đã thất bại.</li>
+					<li><strong>Ý 1</strong>: Trời mưa.</li>
+					<li className="margin-bottom-20"><strong>Ý 2</strong>: Chúng tôi ở trong nhà.</li>
+
+					<li className="list-none">→ Quan hệ: nguyên nhân–kết quả → dùng <strong>because</strong> / <strong>since</strong></li>
 			
 				</ul>
-			
-			
-			<h4 className="margin-y-40">2. Compound (Câu ghép)</h4>
+
+
+			<h4 className="margin-y-40">Bước 2: Đặt từ nối vào đầu mệnh đề phụ</h4>
 					
-			<p className="text-indent-whole">2 ý ngang hàng, nối bằng: and, but, or, so, yet...</p>
+			<p className="text-indent-whole">Chọn đúng loại từ tín hiệu — liên từ phụ thuộc, đại từ quan hệ, hoặc WH-word. Đặt nó ngay trước chủ ngữ của mệnh đề phụ, không phải trước mệnh đề chính.</p>
 			
 				<ul className="list-square">
 			
-					<li>The project failed, <strong>but</strong> we learned a lot.</li>
-					<li className="list-none">Dự án đã thất bại, nhưng chúng tôi đã học hỏi được rất nhiều điều.</li>
+					<li><strong>Because it rained heavily</strong>, we stayed inside.</li>
+					<li className="margin-bottom-20 list-none">Vì trời mưa rất to nên chúng tôi ở trong nhà.</li>
 			
-				</ul>
-			
-			
-			<h4 className="margin-y-40">3. Complex (Câu phức)</h4>
-					
-			<p className="text-indent-whole">1 ý chính + 1 ý phụ (bắt đầu bằng because, although, if, when...)</p>
-			
-				<ul className="list-square">
-			
-					<li><strong>Although</strong> the project failed, we gained experience.</li>
-					<li className="list-none">Mặc dù dự án thất bại, chúng ta đã gặt hái được những kinh nghiệm quý báu.</li>
-			
-				</ul>
-			
-			
-			<h4 className="margin-y-40">4. Compound-Complex</h4>
-					
-			<p className="text-indent-whole">Kết hợp cả 2 loại trên (ít nhất 2 ý chính + 1 ý phụ).</p>
-			
-				<ul className="list-square">
-			
-					<li><strong>Although</strong> the project failed, we gained experience, <strong>and</strong> we are ready for the next one.</li>
-					<li className="list-none">Mặc dù dự án thất bại, chúng ta đã gặt hái được những kinh nghiệm quý báu và hiện đã chuẩn bị sẵn sàng cho thử thách kế tiếp.</li>
+					<li><strong>Since the deadline had passed</strong>, she stopped worrying.</li>
+					<li className="list-none">Vì hạn chót đã qua nên cô ấy không còn lo lắng nữa.</li>
 			
 				</ul>
 			
 
-			{/* 2. Chiến lược "Tuyết lăn": Xây dựng câu từ đơn giản đến phức tạp */}
-
-			<h3 className="margin-y-50 text-center">2. Chiến lược "Tuyết lăn": Xây dựng câu từ đơn giản đến phức tạp</h3>
-
-			<p>Đừng cố viết một câu dài ngay lập tức. Hãy bắt đầu từ lõi và đắp thêm "thịt" vào khung xương đó.</p>
-
-			<h4 className="margin-y-40">Bước 1 (Câu đơn):</h4>
+			<h4 className="margin-y-40">Bước 3: Kiểm tra: mệnh đề phụ có tự đứng được không?</h4>
+					
+			<p className="text-indent-whole">Đọc riêng mệnh đề phụ. Nếu nó cảm giác "chưa xong" — bạn đã viết đúng. Nếu nó đọc như một câu hoàn chỉnh — bạn đã quên hoặc nhầm từ nối.</p>
 			
 				<ul className="list-square">
 			
-					<li>The girl is beautiful.</li>
-					<li className="list-none">Cô gái ấy thật xinh đẹp.</li>
+					<li><strong>Because</strong> it rained heavily</li>
+					<li className="margin-bottom-20 list-none">Bởi vì trời mưa rất to.</li>
+
+					<li className="margin-bottom-20 list-none">→ cảm giác thiếu → ✓ đúng là dependent clause</li>
+			
+					<li>It rained heavily</li>
+					<li className="margin-bottom-20 list-none">Trời đã mưa rất to.</li>
+
+					<li className="list-none">→ hoàn chỉnh → đây là independent clause, không phải dependent</li>
+			
+				</ul>
+	
+
+			<h4 className="margin-y-40">Bước 4: Quyết định đặt mệnh đề phụ ở đầu hay cuối câu</h4>
+					
+			<p className="text-indent-whole">Đây là nơi phong cách xuất hiện. Đặt ở đầu để nhấn mạnh bối cảnh — cần có dấu phẩy. Đặt ở cuối để nhấn mạnh kết quả — thường không cần dấu phẩy.</p>
+			
+				<ul className="list-square">
+			
+					<li><strong>Although she was exhausted</strong>, she finished the report.</li>
+					<li className="margin-bottom-20 list-none">Mặc dù đã kiệt sức, cô ấy vẫn hoàn thành xong bản báo cáo.</li>
+
+					<li className="margin-bottom-20 list-none">← nhấn bối cảnh</li>
+			
+					<li>She finished the report <strong>although she was exhausted</strong>.</li>
+					<li className="margin-bottom-20 list-none">Cô ấy đã hoàn thành bản báo cáo mặc dù cô ấy đã kiệt sức.</li>
+
+					<li className="list-none">← nhấn hành động</li>
+			
+				</ul>
+			
+			<p className="margin-top-20 text-indent-whole"></p>
+			
+
+			{/* Phân biệt ba loại — đừng nhầm lẫn */}
+
+			<h3 className="margin-y-50 text-center">Phân biệt ba loại — đừng nhầm lẫn</h3>
+
+			<p>Dependent clause có ba hình dạng, mỗi loại làm một việc khác nhau trong câu.</p>
+
+			<p>Câu hỏi nhận diện nhanh nhất: mệnh đề này đang đóng vai trò gì?</p>
+
+			<h4 className="margin-y-40">1. Noun Clause</h4>
+					
+				<p className="text-indent-whole">Hỏi:&nbsp;
+					
+					<span className="pill p">Chủ ngữ</span>&nbsp;
+					<span className="pill p">tân ngữ</span>&nbsp;
+					là gì?
+
+				</p>
+			
+				<ul className="list-square">
+			
+					<li>I know <strong>what you are afraid of</strong>.</li>
+					<li className="margin-bottom-20 list-none">Tôi biết bạn đang sợ điều gì.</li>
+			
+					<li><strong>That she lied</strong> hurt everyone.</li>
+					<li className="list-none">Việc cô ấy nói dối đã làm tổn thương tất cả mọi người.</li>
 			
 				</ul>
 		
-			
-			<h4 className="margin-y-40">Bước 2 (Nâng cấp danh từ):</h4>
+
+			<h4 className="margin-y-40">2. Adjective Clause</h4>
 					
-			<p className="text-indent-whole">Thay vì dùng tính từ đứng trước, hãy thử cấu trúc "The [Noun] of...".</p>
-			
-				<ul className="list-square">
-			
-					<li>The beauty <strong>of</strong> the girl impressed everyone.</li>
-					<li className="list-none">Vẻ đẹp của cô gái đã gây ấn tượng với mọi người.</li>
-			
-				</ul>
+				<p className="text-indent-whole">Hỏi:&nbsp;
 
-			<p className="margin-top-20 text-indent-whole">Cách này tạo cảm giác trang trọng và sâu sắc hơn</p>
-
-			
-			<h4 className="margin-y-40">Bước 3 (Thêm điều kiện/ngữ cảnh):</h4>
+					<span className="pill p">Danh từ nào</span>&nbsp;
+					<span className="pill p">cái nào</span>&nbsp;
+					?
 					
-			<p className="text-indent-whole">Câu phức</p>
+				</p>
 			
 				<ul className="list-square">
 			
-					<li><strong>Whenever</strong> she smiles, the beauty of the girl impresses everyone.</li>
-					<li className="list-none">Bất cứ khi nào cô gái ấy mỉm cười, vẻ đẹp của cô đều để lại ấn tượng cho mọi người.</li>
+					<li>The letter <strong>that arrived at midnight</strong> changed everything.</li>
+					<li className="list-none">Lá thư đến lúc nửa đêm đã thay đổi mọi thứ.</li>
 			
 				</ul>
 			
 			
-			<h4 className="margin-y-40">Bước 4 (Mở rộng kết quả)</h4>
+			<h4 className="margin-y-40">3. Adverb Clause</h4>
 					
-			<p className="text-indent-whole">Câu phức tổng hợp</p>
+				<p className="text-indent-whole">Hỏi:&nbsp;
+
+					<span className="pill p">Tại sao</span>&nbsp;
+					<span className="pill p">khi nào</span>&nbsp;
+					<span className="pill p">như thế nào</span>&nbsp;
+					?
+				
+				</p>
 			
 				<ul className="list-square">
 			
-					<li><strong>Whenever</strong> she smiles, the beauty of the girl impresses everyone, <strong>and</strong> the room seems to brighten up.</li>
-					<li className="list-none">Bất cứ khi nào cô gái ấy mỉm cười, vẻ đẹp của cô đều để lại ấn tượng sâu sắc cho mọi người, và căn phòng dường như trở nên tươi sáng hơn.</li>
+					<li>She smiled <strong>although nothing had gone right</strong>.</li>
+					<li className="list-none">Cô ấy vẫn mỉm cười mặc dù chẳng có chuyện gì suôn sẻ.</li>
 			
 				</ul>
 			
+			<p className="margin-top-20 text-indent-whole">Người viết bậc thầy không chỉ dùng dependent clause — họ chọn đúng loại để tạo ra đúng sắc thái họ muốn.</p>
 
+			{/* Những lỗi phổ biến và cách tránh */}
 
-			{/* 3. Làm sao để nhận biết và "thẩm thấu" nhanh? */}
+			<h3 className="margin-y-50 text-center">Những lỗi phổ biến và cách tránh</h3>
 
-			<h3 className="margin-y-50 text-center">3. Làm sao để nhận biết và "thẩm thấu" nhanh?</h3>
-
-				<ul className="list-square">
-
-					<li><strong>Tư duy theo</strong> "<strong>Cụm</strong>":</li>
-					<li className="list-none">Đừng dịch từng từ. Khi đọc, hãy tập thói quen ngắt câu thành các cụm thành phần.</li>
-					<li className="margin-bottom-20 list-none">[Whenever she smiles] / [the beauty of the girl] / [impresses everyone].</li>
-			
-					<li><strong>Săn tìm từ nối</strong>:</li>
-					<li className="margin-bottom-20 list-none">Khi đọc báo hoặc xem phim, hãy tập trung vào các từ như while, whereas, nonetheless. Chúng là "keo dán" quyết định cấu trúc câu đó là gì.</li>
-
-					<li><strong>Kỹ thuật</strong> "<strong>Viết không trung gian</strong>"</li>
-					<li className="list-none">Thử diễn đạt một ý tưởng bằng 3 cách khác nhau (1 câu đơn, 1 câu ghép, 1 câu phức). Việc này ép não bộ phải tìm cách kết nối các logic khác nhau.</li>
-			
-				</ul>
-
-			{/* 4. Bí kíp để áp dụng vào bài viết chuyên nghiệp */}
-
-			<h3 className="margin-y-50 text-center">4. Bí kíp để áp dụng vào bài viết chuyên nghiệp</h3>
-
-			<p><strong>Sử dụng câu đơn để chốt hạ</strong>: Sau một chuỗi giải thích dài bằng câu phức, hãy dùng một câu đơn ngắn gọn để tạo điểm nhấn (Punchline).</p>
-
-			<ul className="list-square">
-
-					<li>Ví dụ: "... (giải thích dài). It works."</li>
-			
-				</ul>
-
-			<p className="margin-top-20"><strong>Đảo ngữ để tạo bất ngờ</strong>: Thay vì bắt đầu bằng chủ ngữ, hãy đưa các cụm trạng từ chỉ thời gian hoặc nơi chốn lên đầu.</p>
+			<p className="margin-top-20">Ví dụ 1</p>
 			
 				<ul className="list-square">
+			
+					<li>Although she was tired. She kept going.</li>
+					<li className="margin-bottom-20 list-none">Viết sai</li>
+			
+					<li><strong>Although she was tired</strong>, she kept going.</li>
+					<li className="list-none">Mặc dù mệt, cô ấy vẫn tiếp tục bước tiếp.</li>
+			
+				</ul>
+			
 
-					<li>Instead of: "Success comes after hard work."</li>
-
-					<li>Try: "<strong>Only after hard work</strong> does success come."</li>
+			<p className="margin-top-20">Ví dụ 2</p>
+			
+				<ul className="list-square">
+			
+					<li>Because of she was late, they left.</li>
+					<li className="margin-bottom-20 list-none">Viết sai</li>
+			
+					<li><strong>Because she was late</strong>, they left.</li>
+					<li className="list-none">Vì cô ấy đến muộn nên họ đã rời đi.</li>
 			
 				</ul>
 
-			<p className="margin-top-20"><strong>Ưu tiên sự rõ ràng</strong>: Cấu trúc phức tạp không có nghĩa là rắc rối. Nếu một câu quá dài khiến người đọc hụt hơi, hãy bẻ đôi nó bằng một dấu chấm.</p>
+			<p className="margin-top-20">Ví dụ 3</p>
+			
+				<ul className="list-square">
+			
+					<li>The man which called never left a name.</li>
+					<li className="margin-bottom-20 list-none">Viết sai</li>
+			
+					<li>The man <strong>who called</strong> never left a name.</li>
+					<li className="list-none">Người đàn ông gọi điện đã không hề để lại tên.</li>
+			
+				</ul>
+					
+			<p className="margin-top-20">Ví dụ 4</p>
+			
+				<ul className="list-square">
+			
+					<li>I know that what she said.</li>
+					<li className="margin-bottom-20 list-none">Viết sai</li>
+			
+					<li>I know <strong>what she said</strong>.</li>
+					<li className="list-none">Tôi biết cô ấy đã nói gì.</li>
+			
+				</ul>
 
-			{/* Lời kết: */}
+			{/* Quy tắc dấu phẩy — một lần nhớ, mãi không quên */}
 
-			<h3 className="margin-y-50 text-center">Lời kết:</h3>
+			<h3 className="margin-y-50 text-center">Quy tắc dấu phẩy — một lần nhớ, mãi không quên</h3>
 
-			<p>Sự đa dạng trong cấu trúc câu chính là ranh giới giữa một người "biết tiếng Anh" và một người "làm chủ tiếng Anh".</p>
+			<h4 className="margin-y-40">Có phẩy</h4>
 
-			<p>Đừng chỉ viết để người ta hiểu, hãy viết để người ta phải thán phục cái nhịp điệu trong tư duy của bạn.</p>
+			<p className="text-indent-whole">Dependent clause đứng đầu câu</p>
+			<p className="margin-bottom-20 text-indent-whole">→ Luôn có dấu phẩy trước mệnh đề chính.</p>
+			
+				<ul className="list-square">
+			
+					<li><strong>Since the meeting ended early</strong>, everyone went home.</li>
+					<li className="list-none">Vì cuộc họp kết thúc sớm nên mọi người đều đi về nhà.</li>
+			
+				</ul>
+
+			<h4 className="margin-y-40">Không phẩy</h4>
+
+			<p className="text-indent-whole">Dependent clause đứng cuối câu</p>
+			<p className="margin-bottom-20 text-indent-whole">→ Thường không cần dấu phẩy.</p>
+			
+				<ul className="list-square">
+			
+					<li>Everyone went home <strong>since the meeting ended early</strong>.</li>
+					<li className="list-none">Mọi người đều về nhà vì cuộc họp kết thúc sớm.</li>
+			
+				</ul>
+
+			<h4 className="margin-y-40">Có phẩy</h4>
+
+			<p className="text-indent-whole">Trường hợp ngoại lệ: mệnh đề cuối câu mang nghĩa tương phản</p>
+			<p className="margin-bottom-20 text-indent-whole">→ Có phẩy.</p>
+
+				<ul className="list-square">
+			
+					<li>He kept working, <strong>although the deadline had passed</strong>.</li>
+					<li className="list-none">Anh ấy vẫn tiếp tục làm việc, mặc dù đã quá hạn chót.</li>
+			
+				</ul>
+			
+
+			{/* Làm chủ — không phải học thuộc, mà là luyện thói quen */}
+
+			<h3 className="margin-y-50 text-center">Làm chủ — không phải học thuộc, mà là luyện thói quen</h3>
+
+			<p>Ngữ pháp không được làm chủ bằng cách nhớ bảng quy tắc. Nó được làm chủ bằng cách dùng đi dùng lại cho đến khi nó trở thành phản xạ. Mỗi ngày, thử lấy bất kỳ hai câu đơn nào bạn vừa viết — rồi gộp chúng lại bằng một dependent clause.</p>
+
+			<h4 className="margin-y-40 text-center">Trước - Sau khi luyện</h4>
+
+			<p>Ví dụ 1</p>
+			
+				<ul className="list-square">
+			
+					<li>It was cold. I wore a coat.</li>
+					<li className="margin-bottom-20 list-none">Trời lạnh. Tôi đã mặc một chiếc áo khoác.</li>
+			
+					<li><strong>Because it was cold</strong>, I wore my heaviest coat.</li>
+					<li className="list-none">Vì trời lạnh nên tôi đã mặc chiếc áo khoác dày nhất của mình.</li>
+			
+				</ul>
+
+			<p className="margin-top-20">Ví dụ 2</p>
+			
+				<ul className="list-square">
+			
+					<li>She spoke quietly. People still heard her.</li>
+					<li className="margin-bottom-20 list-none">Cô ấy nói rất nhỏ. Nhưng mọi người vẫn nghe thấy.</li>
+			
+					<li><strong>Although she spoke quietly</strong>, every word carried.</li>
+					<li className="list-none">Mặc dù cô ấy nói chuyện một cách lặng lẽ, mỗi từ ngữ đều được truyền đi.</li>
+			
+				</ul>
+					
+			<p className="margin-top-20">Ví dụ 3</p>
+			
+				<ul className="list-square">
+			
+					<li>He sent a message. I didn't see it.</li>
+					<li className="margin-bottom-20 list-none">Anh ấy đã gửi một tin nhắn. Tôi không nhìn thấy nó.</li>
+			
+					<li>I never saw the message <strong>that he sent that night</strong>.</li>
+					<li className="list-none">Tôi chưa bao giờ nhìn thấy tin nhắn mà anh ấy gửi đêm đó.</li>
+			
+				</ul>
+			
+			<p className="margin-top-20">Làm điều này mỗi ngày trong ba tuần — không phải lý thuyết, không phải bài tập điền vào chỗ trống. Chỉ là viết thật, với ý thức rõ ràng về điều mình đang làm. Não bộ sẽ tự hoàn thành phần còn lại.</p>
+
+			<hr className="hr-short"/>
+
+			<p className="text-center">Dependent clause biết tựa vào người khác.</p>
+
+			<p className="text-center">Người viết thành thục biết dùng điều đó.</p>
+
+			<p className="text-center">Và câu văn — vì thế — đứng vững hơn bao giờ hết.</p>
 
 			<div className="viewcounter">
 			
