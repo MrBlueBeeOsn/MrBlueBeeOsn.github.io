@@ -160,7 +160,6 @@ export default function DependentClause6(): React.JSX.Element {
 					<li className="list-none">Bất cứ khi nào cô gái ấy mỉm cười, vẻ đẹp của cô đều để lại ấn tượng sâu sắc cho mọi người, và căn phòng dường như trở nên tươi sáng hơn.</li>
 			
 				</ul>
-			
 
 
 			{/* 3. Làm sao để nhận biết và "thẩm thấu" nhanh? */}
