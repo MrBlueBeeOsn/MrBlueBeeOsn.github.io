@@ -224,7 +224,7 @@ export default function DependentClause6(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>What you decide matters a lot</li>
+					<li>What you decide matters a lot.</li>
 					<li className="margin-bottom-20 list-none">Điều bạn quyết định rất quan trọng.</li>
 			
 					<li>How he solved the problem impressed everyone.</li>
@@ -233,7 +233,7 @@ export default function DependentClause6(): React.JSX.Element {
 				</ul>
 			
 
-			<p className="margin-top-20">4. Thêm 1 câu với as:</p>
+			<p className="margin-top-20">4. Viết 1 câu với as.</p>
 			
 				<ul className="list-square">
 			
@@ -247,9 +247,9 @@ export default function DependentClause6(): React.JSX.Element {
 
 			<h3 className="margin-y-50 text-center">✅ Kết luận</h3>
 
-			<p>Dependent clause không chỉ là phần phụ, mà là công cụ tạo chiều sâu cho câu văn.</p>
+			<p>Dependent clause không phải là phần phụ vô nghĩa, mà là công cụ tạo chiều sâu cho câu văn.</p>
 
-			<p>Khi luyện tập nhận diện, phân loại và viết theo bước, bạn sẽ biến nó thành thói quen tự nhiên, giúp tiếng Anh của bạn mạch lạc, logic và chuyên nghiệp hơn.</p>
+			<p>Khi bạn luyện tập nhận diện, phân loại và viết theo bước, việc sử dụng mệnh đề phụ sẽ trở thành thói quen tự nhiên, giúp tiếng Anh của bạn mạch lạc, logic và chuyên nghiệp hơn.</p>
 
 			<div className="viewcounter">
 			
