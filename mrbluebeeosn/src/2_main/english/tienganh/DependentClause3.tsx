@@ -48,170 +48,187 @@ export default function DependentClause3(): React.JSX.Element {
 
 			</h1>
 
-			<h4 className="margin-bottom-30 text-center">Từ "Xây Gạch" Đến "Kiến Trúc": Nghệ Thuật Xây Dựng Câu Tiếng Anh Đa Tầng</h4>
+			<h4 className="margin-bottom-30 text-center">Mệnh Đề Phụ Thuộc (Dependent Clause) – Bí Quyết Để Viết Tiếng Anh Chuyên Nghiệp Và Ấn Tượng</h4>
 
-			<p>Viết tiếng Anh không chỉ đơn thuần là lắp ghép từ vựng. Nếu bạn chỉ dùng một kiểu câu, bài viết sẽ giống như một bức tường gạch phẳng lì—đúng kỹ thuật nhưng thiếu sức sống.</p>
+			<p>Trong hành trình chinh phục tiếng Anh, đặc biệt là kỹ năng viết và đọc hiểu, <strong>mệnh đề phụ thuộc</strong> (<strong>Dependent Clause</strong>) chính là một trong những “vũ khí” mạnh mẽ nhất.</p>
+
+			<p>Nó giúp bạn chuyển từ những câu văn đơn giản, rời rạc sang những đoạn văn mượt mà, logic và giàu sức thuyết phục.</p>
 					
-			<p>Để bài viết thực sự có "nhịp điệu", bạn cần biết cách biến hóa từ những viên gạch đơn lẻ thành những cấu trúc phức tạp và uyển chuyển hơn.</p>
+			<p>Dù bạn đang học IELTS, TOEFL, viết email công việc, blog hay luận văn, việc làm chủ mệnh đề phụ thuộc sẽ tạo ra sự khác biệt rõ rệt.</p>
 
-			{/* 1. Phân loại "Bản vẽ" Cấu trúc câu */}
+			{/* 1. Mệnh đề phụ thuộc là gì? */}
 
-			<h3 className="margin-y-50 text-center">1. Phân loại "Bản vẽ" Cấu trúc câu</h3>
+			<h3 className="margin-y-50 text-center">1. Mệnh đề phụ thuộc là gì?</h3>
 
-			<p>Để nhận biết chúng, hãy nhìn vào số lượng <strong>mệnh đề</strong> (chủ ngữ + động từ) và <strong>từ nối</strong>.</p>
+			<p>Mệnh đề phụ thuộc là nhóm từ có đầy đủ <strong>chủ ngữ</strong> + <strong>động từ</strong>, nhưng không thể đứng một mình làm thành câu hoàn chỉnh.</p>
 
-			<h4 className="margin-y-40">1. Simple (Câu đơn)</h4>
+			<p>Nó luôn cần “kết nối” với mệnh đề độc lập (Independent Clause) để truyền tải ý nghĩa trọn vẹn.</p>
 					
-			<p className="text-indent-whole">Chỉ có 1 ý duy nhất.</p>
+			<p>Những từ thường mở đầu mệnh đề phụ thuộc bao gồm:</p>
 			
 				<ul className="list-square">
-			
-					<li>The project failed.</li>
-					<li className="list-none">Dự án đã thất bại.</li>
-			
+					<li>because, although, if, when, while, since, as, before, after, unless, so that, even though</li>
 				</ul>
+
+			<p className="margin-top-20">Cùng các từ WH-H</p>
 			
-			
-			<h4 className="margin-y-40">2. Compound (Câu ghép)</h4>
+				<ul className="list-square">
+					<li>what, where, when, why, how, that, who, which, whose.</li>
+				</ul>
+
+			{/* 2. Tại sao mệnh đề phụ thuộc lại quan trọng? */}
+
+			<h3 className="margin-y-50 text-center">2. Tại sao mệnh đề phụ thuộc lại quan trọng?</h3>
 					
-			<p className="text-indent-whole">2 ý ngang hàng, nối bằng: and, but, or, so, yet...</p>
+			<p>Khi sử dụng thành thạo, bạn có thể:</p>
 			
 				<ul className="list-square">
 			
-					<li>The project failed, <strong>but</strong> we learned a lot.</li>
-					<li className="list-none">Dự án đã thất bại, nhưng chúng tôi đã học hỏi được rất nhiều điều.</li>
+					<li>Xây dựng lập luận chặt chẽ, thể hiện rõ mối quan hệ nhân quả, thời gian, điều kiện hay tương phản.</li>
+			
+					<li>Làm cho bài viết dài hơn nhưng vẫn mạch lạc, tránh cảm giác lặp lại câu ngắn đơn điệu.</li>
+			
+					<li>Nâng cao khả năng đọc hiểu nhanh các bài báo, sách và tài liệu học thuật bằng tiếng Anh.</li>
+
+					<li>Tăng điểm số đáng kể trong phần Writing của các kỳ thi quốc tế.</li>
 			
 				</ul>
 			
-			
-			<h4 className="margin-y-40">3. Complex (Câu phức)</h4>
+			<p className="margin-top-20">Ngược lại, nếu chỉ dùng câu đơn giản, bài viết của bạn dễ bị đánh giá là “cơ bản” và thiếu chiều sâu.</p>
+
+			{/* 3. Cách phân biệt Dependent Clause nhanh chóng */}
+
+			<h3 className="margin-y-50 text-center">3. Cách phân biệt Dependent Clause nhanh chóng</h3>
+
+			<p>Cách đơn giản và hiệu quả nhất là <strong>đọc thử riêng phần đó</strong>.</p>
+
+			<p>Nếu câu nghe lạc lõng, chưa xong ý hoặc khiến người nghe thắc mắc “sau đó thì sao?”, thì đó chắc chắn là mệnh đề phụ thuộc.</p>
 					
-			<p className="text-indent-whole">1 ý chính + 1 ý phụ (bắt đầu bằng because, although, if, when...)</p>
+			<p>Ví dụ minh họa:</p>
 			
 				<ul className="list-square">
 			
-					<li><strong>Although</strong> the project failed, we gained experience.</li>
-					<li className="list-none">Mặc dù dự án thất bại, chúng ta đã gặt hái được những kinh nghiệm quý báu.</li>
+					<li><strong>Even though</strong> the weather was bad.</li>
+					<li className="margin-bottom-20 list-none">→ Nghe chưa xong.</li>
+			
+					<li><strong>Even though</strong> the weather was bad, we decided to go hiking.</li>
+					<li className="list-none">Mặc dù thời tiết xấu, chúng tôi vẫn quyết định đi bộ đường dài.</li>
 			
 				</ul>
 			
-			
-			<h4 className="margin-y-40">4. Compound-Complex</h4>
+			<p className="margin-top-20">Một dấu hiệu khác là sự xuất hiện của các từ nối phụ thuộc ở đầu cụm từ.</p>
+
+			{/* 4. Ba loại mệnh đề phụ thuộc phổ biến nhất */}
+
+			<h3 className="margin-y-50 text-center">4. Ba loại mệnh đề phụ thuộc phổ biến nhất</h3>
+
+			<h4 className="margin-y-40">1. Mệnh đề trạng ngữ (Adverb Clause)</h4>
 					
-			<p className="text-indent-whole">Kết hợp cả 2 loại trên (ít nhất 2 ý chính + 1 ý phụ).</p>
+			<p className="text-indent-whole">Bổ sung thông tin về lý do, thời gian, điều kiện hoặc sự tương phản.</p>
 			
 				<ul className="list-square">
 			
-					<li><strong>Although</strong> the project failed, we gained experience, <strong>and</strong> we are ready for the next one.</li>
-					<li className="list-none">Mặc dù dự án thất bại, chúng ta đã gặt hái được những kinh nghiệm quý báu và hiện đã chuẩn bị sẵn sàng cho thử thách kế tiếp.</li>
+					<li><strong>Because he practiced speaking every morning</strong>, his pronunciation improved significantly.</li>
+					<li className="list-none">Vì anh ấy luyện nói mỗi sáng, phát âm của anh ấy tiến bộ rõ rệt.</li>
 			
 				</ul>
 			
-
-			{/* 2. Chiến lược "Tuyết lăn": Xây dựng câu từ đơn giản đến phức tạp */}
-
-			<h3 className="margin-y-50 text-center">2. Chiến lược "Tuyết lăn": Xây dựng câu từ đơn giản đến phức tạp</h3>
-
-			<p>Đừng cố viết một câu dài ngay lập tức. Hãy bắt đầu từ lõi và đắp thêm "thịt" vào khung xương đó.</p>
-
-			<h4 className="margin-y-40">Bước 1 (Câu đơn):</h4>
 			
-				<ul className="list-square">
-			
-					<li>The girl is beautiful.</li>
-					<li className="list-none">Cô gái ấy thật xinh đẹp.</li>
-			
-				</ul>
-		
-			
-			<h4 className="margin-y-40">Bước 2 (Nâng cấp danh từ):</h4>
+			<h4 className="margin-y-40">2. Mệnh đề quan hệ (Relative Clause)</h4>
 					
-			<p className="text-indent-whole">Thay vì dùng tính từ đứng trước, hãy thử cấu trúc "The [Noun] of...".</p>
+			<p className="text-indent-whole">Dùng để bổ nghĩa chi tiết cho danh từ.</p>
 			
 				<ul className="list-square">
 			
-					<li>The beauty <strong>of</strong> the girl impressed everyone.</li>
-					<li className="list-none">Vẻ đẹp của cô gái đã gây ấn tượng với mọi người.</li>
+					<li>Phở, <strong>which is a traditional Vietnamese noodle soup</strong>, is loved by people all over the world.</li>
+					<li className="list-none">Phở, một món súp bánh phở truyền thống của Việt Nam, được mọi người trên khắp thế giới yêu thích.</li>
 			
 				</ul>
 
-			<p className="margin-top-20 text-indent-whole">Cách này tạo cảm giác trang trọng và sâu sắc hơn</p>
 
-			
-			<h4 className="margin-y-40">Bước 3 (Thêm điều kiện/ngữ cảnh):</h4>
+			<h4 className="margin-y-40">3. Mệnh đề danh ngữ (Noun Clause)</h4>
 					
-			<p className="text-indent-whole">Câu phức</p>
+			<p className="text-indent-whole">Hoạt động như một danh từ trong câu.</p>
 			
 				<ul className="list-square">
 			
-					<li><strong>Whenever</strong> she smiles, the beauty of the girl impresses everyone.</li>
-					<li className="list-none">Bất cứ khi nào cô gái ấy mỉm cười, vẻ đẹp của cô đều để lại ấn tượng cho mọi người.</li>
+					<li><strong>What truly matters in language learning</strong> is consistent daily practice.</li>
+					<li className="list-none">Điều thực sự quan trọng trong học ngôn ngữ là luyện tập đều đặn mỗi ngày.</li>
 			
 				</ul>
+
+
+			{/* 5. Các bước viết câu sử dụng Dependent Clause hiệu quả */}
+
+			<h3 className="margin-y-50 text-center">5. Các bước viết câu sử dụng Dependent Clause hiệu quả</h3>
 			
+				<ol>
 			
-			<h4 className="margin-y-40">Bước 4 (Mở rộng kết quả)</h4>
-					
-			<p className="text-indent-whole">Câu phức tổng hợp</p>
+					<li value="1"><strong>Xác định ý chính</strong>:</li>
+					<li className="margin-bottom-20 list-none">Viết mệnh đề độc lập trước – đây là thông điệp cốt lõi bạn muốn nhấn mạnh.</li>
+			
+					<li value="2"><strong>Xác định mối quan hệ cần thể hiện</strong>:</li>
+					<li className="margin-bottom-20 list-none">Bạn muốn nói về lý do (because), thời gian (when/while), điều kiện (if), hay mô tả thêm (who/which/what)?</li>
+			
+					<li value="3"><strong>Thêm mệnh đề phụ thuộc</strong>:</li>
+					<li className="list-none">Có thể đặt ở đầu câu (cần dấu phẩy), giữa câu, hoặc cuối câu.</li>
+
+					<li value="4"><strong>Kiểm tra và tinh chỉnh</strong>:</li>
+					<li className="list-none">Đọc to toàn bộ câu, đảm bảo nhịp điệu mượt mà, ý rõ ràng và không quá dài dòng.</li>
+			
+				</ol>
+
+
+			<h4 className="margin-y-40">Ví dụ thực tế nâng cấp:</h4>
+
+			<p className="margin-top-20">Câu đơn giản:</p>
 			
 				<ul className="list-square">
 			
-					<li><strong>Whenever</strong> she smiles, the beauty of the girl impresses everyone, <strong>and</strong> the room seems to brighten up.</li>
-					<li className="list-none">Bất cứ khi nào cô gái ấy mỉm cười, vẻ đẹp của cô đều để lại ấn tượng sâu sắc cho mọi người, và căn phòng dường như trở nên tươi sáng hơn.</li>
-			
-				</ul>
-			
-
-
-			{/* 3. Làm sao để nhận biết và "thẩm thấu" nhanh? */}
-
-			<h3 className="margin-y-50 text-center">3. Làm sao để nhận biết và "thẩm thấu" nhanh?</h3>
-
-				<ul className="list-square">
-
-					<li><strong>Tư duy theo</strong> "<strong>Cụm</strong>":</li>
-					<li className="list-none">Đừng dịch từng từ. Khi đọc, hãy tập thói quen ngắt câu thành các cụm thành phần.</li>
-					<li className="margin-bottom-20 list-none">[Whenever she smiles] / [the beauty of the girl] / [impresses everyone].</li>
-			
-					<li><strong>Săn tìm từ nối</strong>:</li>
-					<li className="margin-bottom-20 list-none">Khi đọc báo hoặc xem phim, hãy tập trung vào các từ như while, whereas, nonetheless. Chúng là "keo dán" quyết định cấu trúc câu đó là gì.</li>
-
-					<li><strong>Kỹ thuật</strong> "<strong>Viết không trung gian</strong>"</li>
-					<li className="list-none">Thử diễn đạt một ý tưởng bằng 3 cách khác nhau (1 câu đơn, 1 câu ghép, 1 câu phức). Việc này ép não bộ phải tìm cách kết nối các logic khác nhau.</li>
+					<li>I was nervous. I did well in the interview.</li>
+					<li className="list-none">Tôi đã khá lo lắng, nhưng tôi đã làm tốt trong buổi phỏng vấn.</li>
 			
 				</ul>
 
-			{/* 4. Bí kíp để áp dụng vào bài viết chuyên nghiệp */}
-
-			<h3 className="margin-y-50 text-center">4. Bí kíp để áp dụng vào bài viết chuyên nghiệp</h3>
-
-			<p><strong>Sử dụng câu đơn để chốt hạ</strong>: Sau một chuỗi giải thích dài bằng câu phức, hãy dùng một câu đơn ngắn gọn để tạo điểm nhấn (Punchline).</p>
-
-			<ul className="list-square">
-
-					<li>Ví dụ: "... (giải thích dài). It works."</li>
-			
-				</ul>
-
-			<p className="margin-top-20"><strong>Đảo ngữ để tạo bất ngờ</strong>: Thay vì bắt đầu bằng chủ ngữ, hãy đưa các cụm trạng từ chỉ thời gian hoặc nơi chốn lên đầu.</p>
+			<p className="margin-top-20">Câu nâng cao:</p>
 			
 				<ul className="list-square">
-
-					<li>Instead of: "Success comes after hard work."</li>
-
-					<li>Try: "<strong>Only after hard work</strong> does success come."</li>
+			
+					<li><strong>Although</strong> I was nervous at the beginning, I did well in the interview <strong>because</strong> I had prepared thoroughly.</li>
+					<li className="list-none">Mặc dù ban đầu tôi rất lo lắng, tôi vẫn làm tốt bài phỏng vấn vì đã chuẩn bị kỹ lưỡng.</li>
 			
 				</ul>
 
-			<p className="margin-top-20"><strong>Ưu tiên sự rõ ràng</strong>: Cấu trúc phức tạp không có nghĩa là rắc rối. Nếu một câu quá dài khiến người đọc hụt hơi, hãy bẻ đôi nó bằng một dấu chấm.</p>
+			{/* 6. Lộ trình làm chủ Dependent Clause trong 4 tuần */}
 
-			{/* Lời kết: */}
+			<h3 className="margin-y-50 text-center">6. Lộ trình làm chủ Dependent Clause trong 4 tuần</h3>
+			
+				<ul className="list-square">
+			
+					<li><strong>Tuần 1</strong>:</li>
+					<li className="margin-bottom-20 list-none">Đọc nhiều bài báo tiếng Anh và gạch chân các mệnh đề phụ thuộc. Hiểu rõ chức năng của từng loại.</li>
 
-			<h3 className="margin-y-50 text-center">Lời kết:</h3>
+					<li><strong>Tuần 2</strong>:</li>
+					<li className="margin-bottom-20 list-none">Thực hành ghép câu – lấy 2–3 câu đơn và biến chúng thành câu phức.</li>
+			
+					<li><strong>Tuần 3</strong>:</li>
+					<li className="margin-bottom-20 list-none">Viết đoạn văn ngắn (100–150 từ) mỗi ngày, chủ động sử dụng ít nhất 3–4 mệnh đề phụ thuộc.</li>
+			
+					<li><strong>Tuần 4</strong>:</li>
+					<li className="list-none">Áp dụng vào bài viết thật (essay, blog, email) và nhờ người khác góp ý hoặc tự sửa bằng cách đọc to.</li>
+			
+				</ul>
+			
 
-			<p>Sự đa dạng trong cấu trúc câu chính là ranh giới giữa một người "biết tiếng Anh" và một người "làm chủ tiếng Anh".</p>
+			{/* Mẹo hay: */}
 
-			<p>Đừng chỉ viết để người ta hiểu, hãy viết để người ta phải thán phục cái nhịp điệu trong tư duy của bạn.</p>
+			<h3 className="margin-y-50 text-center">Mẹo hay:</h3>
+
+			<p>Hãy coi mệnh đề độc lập như “xương sống” và mệnh đề phụ thuộc như “cơ thịt” giúp câu văn thêm mạnh mẽ, uyển chuyển. Đừng lạm dụng quá nhiều trong một câu để tránh làm người đọc khó theo dõi.</p>
+
+			<p>Mệnh đề phụ thuộc không chỉ là ngữ pháp khô khan – đó là công cụ giúp bạn bày tỏ ý tưởng một cách tinh tế và chuyên nghiệp. Khi đã làm chủ, bạn sẽ cảm nhận rõ tiếng Anh của mình “lên level” cả về viết lẫn đọc.</p>
+
+			<p>Hãy bắt đầu ngay hôm nay bằng cách lấy một đoạn văn cũ của bạn và thử nâng cấp nó. Sự tiến bộ sẽ đến nhanh chóng và mang lại niềm vui lớn!</p>
 
 			<div className="viewcounter">
 			
