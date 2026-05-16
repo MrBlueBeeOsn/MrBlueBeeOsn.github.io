@@ -48,128 +48,270 @@ export default function SentenceVariety6(): React.JSX.Element {
 
 			</h1>
 
-			<h4 className="margin-bottom-30 text-center">Hướng dẫn học và áp dụng các loại câu tiếng Anh</h4>
+			<h4 className="margin-bottom-30 text-center">Dependent Clause: Nền tảng để viết tiếng Anh nâng cao</h4>
 
-			<p>Viết tiếng Anh hiệu quả không chỉ phụ thuộc vào vốn từ vựng, mà còn nằm ở <strong>cách bạn xây dựng câu</strong>.</p>
+			<p>Trong tiếng Anh, <strong>dependent clause</strong> (<strong>mệnh đề phụ thuộc</strong>) là một phần câu có chủ ngữ + động từ nhưng không thể đứng một mình. Nó cần một <strong>independent clause</strong> (<strong>mệnh đề chính</strong>) để tạo thành câu hoàn chỉnh.</p>
 					
-			<p>Khi biết phân biệt và sử dụng nhiều loại câu khác nhau, bạn sẽ dễ dàng diễn đạt ý tưởng rõ ràng, tự nhiên và giàu nhịp điệu hơn.</p>
+			<p>Khi hiểu rõ và sử dụng thành thạo, bạn sẽ viết câu phức tinh tế, đọc hiểu sâu hơn và diễn đạt ý tưởng mạch lạc hơn.</p>
 
-			{/* 1. Các loại câu tiếng Anh cơ bản */}
+			{/* 🔎 Cách nhận biết nhanh */}
 
-			<h3 className="margin-y-50 text-center">1. Các loại câu tiếng Anh cơ bản</h3>
-
-				<table className="margin-y-50">
-					<thead>
-						<tr>
-							<th>Loại câu</th>
-							<th>Đặc điểm</th>
-							<th>Ví dụ</th>
-						</tr>
-					</thead>
-
-					<tbody>
-						
-						<tr>
-								<td><strong>Simple sentence</strong></td>
-								<td>Một mệnh đề độc lập</td>
-								<td>I like English.</td>
-						</tr>
-						
-						<tr>
-								<td><strong>Compound sentence</strong></td>
-								<td>Hai mệnh đề độc lập nối bằng liên từ (and, but, so)</td>
-								<td>I like English, and I practice every day.</td>
-						</tr>
-
-						<tr>
-								<td><strong>Complex sentence</strong></td>
-								<td>Một mệnh đề chính + mệnh đề phụ (because, although, when)</td>
-								<td>I study English because I want a better job.</td>
-						</tr>
-
-						<tr>
-								<td><strong>Compound-complex sentence</strong></td>
-								<td>Kết hợp cả ghép và phức</td>
-								<td>I study English because I want a better job, and my teacher helps me a lot.</td>
-						</tr>
-					</tbody>
-				</table>
-
-			{/* 2. Cách nhận biết */}
-
-			<h3 className="margin-y-50 text-center">2. Cách nhận biết</h3>
+			<h3 className="margin-y-50 text-center">🔎 Cách nhận biết nhanh</h3>
 			
 				<ul className="list-square">
+			
+					<li><strong>Có subject</strong> + <strong>verb nhưng chưa đủ ý</strong></li>
+					<li className="margin-bottom-20 list-none">→ dependent clause.</li>
+			
+					<li><strong>Bắt đầu bằng từ nối</strong>:</li>
+					<li className="margin-bottom-20 list-none">who, which, what, when, where, why, how, that, as, because, although, if, until.</li>
+			
+					<li><strong>Trả lời cho câu hỏi</strong>:</li>
+					<li className="list-none">khi nào, ở đâu, tại sao, ai, cái gì, như thế nào.</li>
+			
+				</ul>
+			
+					
+			<p className="text-indent-whole">Ví dụ & phân tích:</p>
+			
+				<ul className="list-square">
+			
+					<li>Although she was tired, she finished the report.</li>
+					<li className="margin-bottom-20 list-none">Mặc dù mệt, cô ấy vẫn hoàn thành xong bản báo cáo.</li>
 
-					<li><strong>Câu đơn</strong>: chỉ có một động từ chính.</li>
+					<li className="margin-bottom-20 list-none">→ “<strong>Although she was tired</strong>” có chủ ngữ (she) và động từ (was tired), nhưng không thể đứng một mình. Nó bổ nghĩa cho mệnh đề chính “she finished the report.”</li>
 			
-					<li><strong>Câu ghép</strong>: có liên từ nối hai mệnh đề ngang hàng (and, but, or, so).</li>
+					<li>The house which stands near the river is old. </li>
+					<li className="margin-bottom-20 list-none">Ngôi nhà nằm cạnh bờ sông đã cũ rồi.</li>
+
+					<li className="margin-bottom-20 list-none">→ “<strong>which stands near the river</strong>” mô tả danh từ the house. Đây là mệnh đề quan hệ.</li>
 			
-					<li><strong>Câu phức</strong>: có mệnh đề phụ bắt đầu bằng because, although, when, if.</li>
+					<li>What you choose will affect your future.</li>
+					<li className="margin-bottom-20 list-none">Những gì bạn chọn lựa hôm nay sẽ định hình tương lai của chính bạn.</li>
+
+					<li className="list-none">→ “<strong>What you choose</strong>” đóng vai trò chủ ngữ của câu.</li>
 			
-					<li><strong>Câu ghép-phức</strong>: vừa có liên từ nối mệnh đề ngang hàng, vừa có mệnh đề phụ.</li>
+				</ul>
+			
+			<p className="margin-top-20 text-indent-whole"></p>
+
+			{/* ✍️ Các loại dependent clause */}
+
+			<h3 className="margin-y-50 text-center">✍️ Các loại dependent clause</h3>
+			
+			<h4 className="margin-y-40">1. Adverbial Clause (Mệnh đề trạng ngữ)</h4>
+					
+			<p className="text-indent-whole">Chức năng: bổ nghĩa cho động từ, chỉ thời gian, nguyên nhân, điều kiện, nhượng bộ.</p>
+			
+				<ul className="list-square">
+			
+					<li><strong>Because she studied hard</strong>, she passed the exam.</li>
+					<li className="margin-bottom-20 list-none">Vì cô ấy học chăm chỉ, cô ấy đã vượt qua kỳ thi.</li>
+			
+					<li><strong>Although it was raining</strong>, they continued playing football.</li>
+					<li className="list-none">Mặc dù trời mưa, họ vẫn tiếp tục chơi bóng.</li>
 			
 				</ul>
 
-			<p className="margin-top-20">👉 Khi đọc báo, sách hoặc xem phim, hãy thử gạch chân các từ nối để phân loại câu.</p>
 
-			{/* 3. Cách học và áp dụng */}
-
-			<h3 className="margin-y-50 text-center">3. Cách học và áp dụng</h3>
+			<h4 className="margin-y-40">2. Adjective/Relative Clause (Mệnh đề tính từ/quan hệ)</h4>
+					
+			<p className="text-indent-whole">Chức năng: mô tả hoặc bổ sung thông tin cho danh từ.</p>
 			
 				<ul className="list-square">
-
-					<li><strong>Bắt đầu từ câu đơn giản</strong>:</li>
-					<li className="margin-bottom-20 list-none">I wake up early.</li>
-
-					<li><strong>Ghép câu lại</strong>:</li>
-					<li className="margin-bottom-20 list-none">I wake up early, and I drink coffee.</li>
 			
-					<li><strong>Thêm mệnh đề phụ</strong>:</li>
-					<li className="margin-bottom-20 list-none">I drink coffee because I feel sleepy in the morning.</li>
-
-					<li><strong>Kết hợp nhiều lớp</strong>:</li>
-					<li className="list-none">I wake up early because I have work, and I drink coffee before I go.</li>
+					<li>The man <strong>who helped me</strong> is kind.</li>
+					<li className="margin-bottom-20 list-none">Người đàn ông đã giúp tôi rất tốt bụng.</li>
+			
+					<li>The book <strong>that I borrowed</strong> is useful.</li>
+					<li className="list-none">Cuốn sách mà tôi mượn rất hữu ích.</li>
 			
 				</ul>
 
-			{/* 4. Lộ trình luyện tập */}
 
-			<h3 className="margin-y-50 text-center">4. Lộ trình luyện tập</h3>
-			
-				<ol>
-			
-					<li><strong>Tuần 1</strong>: Viết câu đơn giản về thói quen hằng ngày.</li>
-			
-					<li><strong>Tuần 2</strong>: Ghép câu bằng and, but, so.</li>
-			
-					<li><strong>Tuần 3</strong>: Thêm mệnh đề phụ với because, although, when.</li>
-
-					<li><strong>Tuần 4</strong>: Viết đoạn văn ngắn (5–6 câu) kết hợp đủ loại câu.</li>
-			
-				</ol>
-
-			{/* 5. Mẹo học nhanh */}
-
-			<h3 className="margin-y-50 text-center">5. Mẹo học nhanh</h3>
+			<h4 className="margin-y-40">3. Noun Clause (Mệnh đề danh từ)</h4>
+					
+			<p className="text-indent-whole">Chức năng: đóng vai trò như một danh từ — làm chủ ngữ, tân ngữ hoặc bổ ngữ.</p>
 			
 				<ul className="list-square">
-
-					<li><strong>Đọc to</strong> để nghe nhịp điệu; nếu hụt hơi, chia câu; nếu quá ngắn, ghép lại.</li>
-
-					<li><strong>Ghi chú từ nối</strong> khi đọc tiếng Anh để nhận diện loại câu.</li>
-
-					<li><strong>Thực hành viết lại</strong>: lấy 3 câu đơn, biến thành câu ghép, rồi thêm mệnh đề phụ.</li>
+			
+					<li><strong>What she said</strong> impressed everyone.</li>
+					<li className="margin-bottom-20 list-none">Những gì cô ấy nói khiến mọi người ấn tượng.</li>
+			
+					<li>I believe <strong>that honesty matters</strong>.</li>
+					<li className="list-none">Tôi tin rằng sự trung thực quan trọng.</li>
 			
 				</ul>
 
-			{/* Kết luận */}
+			{/* 🛠 Các bước để viết câu có dependent clause */}
 
-			<h3 className="margin-y-50 text-center">Kết luận</h3>
+			<h3 className="margin-y-50 text-center">🛠 Các bước để viết câu có dependent clause</h3>
 
-			<p>Học cách xây dựng câu từ <strong>đơn giản đến phức tạp</strong> là bước quan trọng để nâng cao khả năng viết tiếng Anh. </p>
+			<h4 className="margin-y-40">1. Chọn từ nối phù hợp:</h4>
+					
+			<p className="text-indent-whole">Dựa vào ý định (thời gian, nguyên nhân, mô tả, danh từ).</p>
+			
+				<ul className="list-square">
+			
+					<li><strong>When</strong> the bell rang, students left the classroom.</li>
+					<li className="list-none">Khi chuông reo, học sinh rời lớp.</li>
+			
+				</ul>
 
-			<p>Khi bạn quen với việc nhận biết và áp dụng các loại câu, văn bản sẽ trở nên tự nhiên, dễ đọc và giàu sức thuyết phục hơn.</p>
+
+			<h4 className="margin-y-40">2. Xác định chức năng:</h4>
+					
+			<p className="text-indent-whole">Trạng ngữ, tính từ hay danh từ.</p>
+			
+				<ul className="list-square">
+			
+					<li>The teacher <strong>who</strong> explains clearly helps students succeed.</li>
+					<li className="list-none">Giáo viên giảng rõ ràng giúp học sinh thành công.</li>
+			
+				</ul>
+
+
+			<h4 className="margin-y-40">3. Ghép với mệnh đề chính:</h4>
+					
+			<p className="text-indent-whole">Dependent clause + independent clause.</p>
+			
+				<ul className="list-square">
+			
+					<li>She smiled <strong>when</strong> she saw her friend.</li>
+					<li className="list-none">Cô ấy mỉm cười khi thấy bạn mình.</li>
+			
+				</ul>
+			
+			
+			<h4 className="margin-y-40">4. Kiểm tra tính độc lập:</h4>
+					
+			<p className="text-indent-whole">Tách mệnh đề ra; nếu không thể đứng một mình, đó là dependent clause.</p>
+			
+				<ul className="list-square">
+			
+					<li><strong>If</strong> you study hard</li>
+					<li className="margin-bottom-20 list-none">Nếu bạn học hành chăm chỉ...</li>
+
+					<li className="list-none">→ chưa đủ ý, cần mệnh đề chính.</li>
+			
+				</ul>
+
+			{/* 💡 Mẹo nhớ và tránh lỗi */}
+
+			<h3 className="margin-y-50 text-center">💡 Mẹo nhớ và tránh lỗi</h3>
+
+			<h4 className="margin-y-40">Clause ≠ Phrase:</h4>
+					
+			<p className="text-indent-whole">Clause có subject + verb, phrase thì không.</p>
+			
+				<ul className="list-square">
+			
+					<li>Running fast (phrase) ≠ He runs fast (clause).</li>
+					<li className="list-none">Chạy nhanh (cụm từ) # Anh ấy chạy nhanh (mệnh đề).</li>
+			
+				</ul>
+			
+			<p className="margin-top-20 text-indent-whole"></p>
+
+
+			<h4 className="margin-y-40">Dấu phẩy:</h4>
+					
+			<p className="text-indent-whole">Nếu dependent clause đứng trước, thường cần dấu phẩy.</p>
+			
+				<ul className="list-square">
+			
+					<li><strong>Although</strong> it was late, they kept working.</li>
+					<li className="list-none">Mặc dù đã muộn, họ vẫn tiếp tục làm việc.</li>
+			
+				</ul>
+			
+
+			<h4 className="margin-y-40">That:</h4>
+					
+			<p className="text-indent-whole">Thường dùng trong mệnh đề quan hệ xác định hoặc mệnh đề danh từ, không cần dấu phẩy.</p>
+			
+				<ul className="list-square">
+			
+					<li>I know <strong>that</strong> she is honest.</li>
+					<li className="list-none">Tôi biết rằng cô ấy trung thực.</li>
+			
+				</ul>
+			
+
+			<h4 className="margin-y-40">Tránh câu rời rạc:</h4>
+
+			<p className="margin-top-20 text-indent-whole">Dependent clause không bao giờ đứng một mình.</p>
+					
+				<ul className="list-square">
+			
+					<li className="margin-bottom-20">Sai: Because she was late.</li>
+			
+					<li>Đúng: <strong>Because</strong> she was late, she missed the bus.</li>
+					<li className="list-none">Vì đến muộn nên cô ấy đã bị lỡ chuyến xe buýt.</li>
+			
+				</ul>
+			
+
+			{/* 📝 Bài tập luyện tập */}
+
+			<h3 className="margin-y-50 text-center">📝 Bài tập luyện tập</h3>
+
+			<p className="margin-top-20">1. Viết 2 câu dùng because/although.</p>
+			
+				<ul className="list-square">
+			
+					<li><strong>Because</strong> the weather was nice, we went hiking.</li>
+					<li className="margin-bottom-20 list-none">Vì thời tiết đẹp, chúng tôi đi leo núi.</li>
+			
+					<li><strong>Although</strong> he failed once, he tried again.</li>
+					<li className="list-none">Mặc dù anh ấy thất bại một lần, anh ấy vẫn thử lại.</li>
+			
+				</ul>
+
+
+			<p className="margin-top-20">2. Viết 2 câu dùng who/which/that.</p>
+			
+				<ul className="list-square">
+			
+					<li>The student <strong>who</strong> studies regularly improves faster.</li>
+					<li className="margin-bottom-20 list-none">Học sinh học thường xuyên tiến bộ nhanh hơn.</li>
+			
+					<li>The car <strong>that</strong> I bought last year is reliable.</li>
+					<li className="list-none">Chiếc xe tôi mua năm ngoái rất đáng tin cậy.</li>
+			
+				</ul>
+			
+
+			<p className="margin-top-20">3. Viết 2 câu dùng what/how làm chủ ngữ.</p>
+			
+				<ul className="list-square">
+			
+					<li><strong>What</strong> you decide matters a lot</li>
+					<li className="margin-bottom-20 list-none">Điều bạn quyết định rất quan trọng.</li>
+			
+					<li><strong>How</strong> he solved the problem impressed everyone.</li>
+					<li className="list-none">Cách anh ấy giải quyết vấn đề khiến mọi người ấn tượng.</li>
+			
+				</ul>
+
+
+			<p className="margin-top-20">4. Viết 1 câu với as.</p>
+			
+				<ul className="list-square">
+			
+					<li><strong>As</strong> she spoke, everyone listened carefully.</li>
+					<li className="list-none">Khi cô ấy nói, mọi người chăm chú lắng nghe.</li>
+			
+				</ul>
+
+
+			{/* ✅ Kết luận */}
+
+			<h3 className="margin-y-50 text-center">✅ Kết luận</h3>
+
+			<p>Dependent clause không phải là phần phụ vô nghĩa, mà là <strong>công cụ tạo chiều sâu cho câu văn</strong>.</p>
+
+			<p>Khi bạn luyện tập nhận diện, phân loại và viết theo bước, việc sử dụng mệnh đề phụ sẽ trở thành thói quen tự nhiên, giúp tiếng Anh của bạn mạch lạc, logic và chuyên nghiệp hơn.</p>
 
 			<div className="viewcounter">
 			

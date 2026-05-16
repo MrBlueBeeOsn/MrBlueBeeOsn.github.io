@@ -205,13 +205,52 @@ export default function DependentClause6(): React.JSX.Element {
 
 			<p className="margin-top-20"><strong>Ưu tiên sự rõ ràng</strong>: Cấu trúc phức tạp không có nghĩa là rắc rối. Nếu một câu quá dài khiến người đọc hụt hơi, hãy bẻ đôi nó bằng một dấu chấm.</p>
 
-			{/* Lời kết: */}
+			<p className="margin-top-20"></p>
+			
+				<ul className="list-square">
+			
+					<li></li>
+					<li className="margin-bottom-20 list-none"></li>
+			
+					<li></li>
+					<li className="margin-bottom-20 list-none"></li>
+			
+					<li>The car that I bought last year is reliable.</li>
+					<li className="list-none">Chiếc xe tôi mua năm ngoái rất đáng tin cậy.</li>
+			
+				</ul>
+			
 
-			<h3 className="margin-y-50 text-center">Lời kết:</h3>
+			<p className="margin-top-20">3. Viết 2 câu dùng what/how làm chủ ngữ.</p>
+			
+				<ul className="list-square">
+			
+					<li>What you decide matters a lot</li>
+					<li className="margin-bottom-20 list-none">Điều bạn quyết định rất quan trọng.</li>
+			
+					<li>How he solved the problem impressed everyone.</li>
+					<li className="list-none">Cách anh ấy giải quyết vấn đề khiến mọi người ấn tượng.</li>
+			
+				</ul>
+			
 
-			<p>Sự đa dạng trong cấu trúc câu chính là ranh giới giữa một người "biết tiếng Anh" và một người "làm chủ tiếng Anh".</p>
+			<p className="margin-top-20">4. Thêm 1 câu với as:</p>
+			
+				<ul className="list-square">
+			
+					<li>As she spoke, everyone listened carefully.</li>
+					<li className="list-none">Khi cô ấy nói, mọi người chăm chú lắng nghe.</li>
+			
+				</ul>
+			
 
-			<p>Đừng chỉ viết để người ta hiểu, hãy viết để người ta phải thán phục cái nhịp điệu trong tư duy của bạn.</p>
+			{/* ✅ Kết luận */}
+
+			<h3 className="margin-y-50 text-center">✅ Kết luận</h3>
+
+			<p>Dependent clause không chỉ là phần phụ, mà là công cụ tạo chiều sâu cho câu văn.</p>
+
+			<p>Khi luyện tập nhận diện, phân loại và viết theo bước, bạn sẽ biến nó thành thói quen tự nhiên, giúp tiếng Anh của bạn mạch lạc, logic và chuyên nghiệp hơn.</p>
 
 			<div className="viewcounter">
 			
