@@ -48,138 +48,670 @@ export default function DependentClause7(): React.JSX.Element {
 
 			</h1>
 
-			<h4 className="margin-bottom-30 text-center">Từ "Xây Gạch" Đến "Kiến Trúc": Nghệ Thuật Xây Dựng Câu Tiếng Anh Đa Tầng</h4>
+			<h4 className="margin-bottom-30 text-center">Mệnh Đề Phụ Thuộc: Cẩm Nang Hoàn Chỉnh Để Viết Câu Phức Tự Nhiên</h4>
 
-			<p>Viết tiếng Anh không chỉ đơn thuần là lắp ghép từ vựng. Nếu bạn chỉ dùng một kiểu câu, bài viết sẽ giống như một bức tường gạch phẳng lì—đúng kỹ thuật nhưng thiếu sức sống.</p>
-					
-			<p>Để bài viết thực sự có "nhịp điệu", bạn cần biết cách biến hóa từ những viên gạch đơn lẻ thành những cấu trúc phức tạp và uyển chuyển hơn.</p>
+			{/* Tại sao bạn cần học mệnh đề phụ thuộc ngay hôm nay? */}
 
-			{/* 1. Phân loại "Bản vẽ" Cấu trúc câu */}
+			<h3 className="margin-y-50 text-center">Tại sao bạn cần học mệnh đề phụ thuộc ngay hôm nay?</h3>
 
-			<h3 className="margin-y-50 text-center">1. Phân loại "Bản vẽ" Cấu trúc câu</h3>
+			<p>Hãy tưởng tượng bạn đang viết một essay IELTS. Hai cách viết sau:</p>
 
-			<p>Để nhận biết chúng, hãy nhìn vào số lượng <strong>mệnh đề</strong> (chủ ngữ + động từ) và <strong>từ nối</strong>.</p>
-
-			<h4 className="margin-y-40">1. Simple (Câu đơn)</h4>
-					
-			<p className="text-indent-whole">Chỉ có 1 ý duy nhất.</p>
+			<p className="margin-top-20">Cách 1 — Câu đơn liên tiếp:</p>
 			
 				<ul className="list-square">
 			
-					<li>The project failed.</li>
-					<li className="list-none">Dự án đã thất bại.</li>
+					<li className="margin-bottom-20">Climate change is serious. Many cities will flood. People will lose homes. Governments must act. We need solutions.</li>
+			
+					<li className="list-none">Biến đổi khí hậu đang rất nghiêm trọng. Nhiều thành phố sẽ bị ngập lụt. Người dân sẽ mất đi nhà cửa. Các chính phủ phải hành động ngay. Chúng ta cần có những giải pháp</li>
+			
+				</ul>
+					
+			<p className="margin-top-20">Cách 2 — Câu phức với mệnh đề phụ thuộc:</p>
+			
+				<ul className="list-square">
+			
+					<li className="margin-bottom-20">Because climate change is accelerating, many coastal cities will flood if governments do not act soon. Although the problem is serious, effective solutions exist when people work together.</li>
+			
+					<li className="list-none">Vì biến đổi khí hậu đang gia tăng, nhiều thành phố ven biển sẽ bị ngập lụt nếu các chính phủ không sớm hành động. Mặc dù đây là một vấn đề nghiêm trọng, những giải pháp hiệu quả vẫn luôn tồn tại khi mọi người cùng nhau chung tay.</li>
 			
 				</ul>
 			
-			
-			<h4 className="margin-y-40">2. Compound (Câu ghép)</h4>
+			<p className="margin-top-20">Sự khác biệt? Rõ ràng. Cách 2 thể hiện tư duy logic, kết nối ý, và khả năng kiểm soát ngữ pháp — đúng thứ giám khảo IELTS tìm kiếm.</p>
+
+			<p>Bí mật nằm ở mệnh đề phụ thuộc.</p>
+
+
+			{/* Mệnh đề phụ thuộc là gì? */}
+
+			<h3 className="margin-y-50 text-center">Mệnh đề phụ thuộc là gì?</h3>
 					
-			<p className="text-indent-whole">2 ý ngang hàng, nối bằng: and, but, or, so, yet...</p>
+			<p>Mệnh đề phụ thuộc là một nhóm từ có đầy đủ chủ ngữ + động từ, nhưng không tạo thành câu hoàn chỉnh khi đứng một mình. Nó cần một mệnh đề độc lập để bổ sung ý nghĩa.</p>
 			
 				<ul className="list-square">
+
+					<li className="margin-bottom-20">Because she studied — chưa trọn vẹn</li>
 			
-					<li>The project failed, <strong>but</strong> we learned a lot.</li>
-					<li className="list-none">Dự án đã thất bại, nhưng chúng tôi đã học hỏi được rất nhiều điều.</li>
+					<li>Because she studied hard, she passed — hoàn chỉnh</li>
+					<li className="list-none">Vì học hành chăm chỉ nên cô ấy đã thi đỗ.</li>
 			
 				</ul>
-			
-			
-			<h4 className="margin-y-40">3. Complex (Câu phức)</h4>
+
+
+			{/* 7 bước để viết câu có mệnh đề phụ thuộc */}
+
+			<h3 className="margin-y-50 text-center">7 bước để viết câu có mệnh đề phụ thuộc</h3>
+
+			<h4 className="margin-y-40">Bước 1: Chọn từ nối phù hợp với ý bạn muốn diễn đạt</h4>
 					
-			<p className="text-indent-whole">1 ý chính + 1 ý phụ (bắt đầu bằng because, although, if, when...)</p>
+			<p className="text-indent-whole">Mỗi từ nối mang một ý nghĩa logic khác nhau:</p>
+
+			<p className="text-indent-whole">Bạn muốn nói...	Dùng từ nối</p>
 			
 				<ul className="list-square">
 			
-					<li><strong>Although</strong> the project failed, we gained experience.</li>
-					<li className="list-none">Mặc dù dự án thất bại, chúng ta đã gặt hái được những kinh nghiệm quý báu.</li>
+					<li>Lý do</li>
+					<li className="margin-bottom-20 list-none">because, since, as</li>
 			
-				</ul>
-			
-			
-			<h4 className="margin-y-40">4. Compound-Complex</h4>
-					
-			<p className="text-indent-whole">Kết hợp cả 2 loại trên (ít nhất 2 ý chính + 1 ý phụ).</p>
-			
-				<ul className="list-square">
-			
-					<li><strong>Although</strong> the project failed, we gained experience, <strong>and</strong> we are ready for the next one.</li>
-					<li className="list-none">Mặc dù dự án thất bại, chúng ta đã gặt hái được những kinh nghiệm quý báu và hiện đã chuẩn bị sẵn sàng cho thử thách kế tiếp.</li>
-			
-				</ul>
-			
+					<li>Thời điểm</li>
+					<li className="margin-bottom-20 list-none">when, while, before, after, until</li>
 
-			{/* 2. Chiến lược "Tuyết lăn": Xây dựng câu từ đơn giản đến phức tạp */}
-
-			<h3 className="margin-y-50 text-center">2. Chiến lược "Tuyết lăn": Xây dựng câu từ đơn giản đến phức tạp</h3>
-
-			<p>Đừng cố viết một câu dài ngay lập tức. Hãy bắt đầu từ lõi và đắp thêm "thịt" vào khung xương đó.</p>
-
-			<h4 className="margin-y-40">Bước 1 (Câu đơn):</h4>
+					<li>Tương phản</li>
+					<li className="margin-bottom-20 list-none">although, though, even though, whereas</li>
 			
-				<ul className="list-square">
+					<li>Điều kiện</li>
+					<li className="margin-bottom-20 list-none">if, unless</li>
+
+					<li>Mục đích</li>
+					<li className="margin-bottom-20 list-none">so that, in order that</li>
 			
-					<li>The girl is beautiful.</li>
-					<li className="list-none">Cô gái ấy thật xinh đẹp.</li>
+					<li>Bổ nghĩa cho danh từ</li>
+					<li className="margin-bottom-20 list-none">who, which, that, whose</li>
+			
+					<li>Làm chủ ngữ/tân ngữ</li>
+					<li className="list-none">what, that, whether, who</li>
 			
 				</ul>
 		
-			
-			<h4 className="margin-y-40">Bước 2 (Nâng cấp danh từ):</h4>
+
+			<h4 className="margin-y-40">Bước 2: Viết mệnh đề phụ thuộc</h4>
 					
-			<p className="text-indent-whole">Thay vì dùng tính từ đứng trước, hãy thử cấu trúc "The [Noun] of...".</p>
+			<p className="text-indent-whole">Cấu trúc: Từ nối + Chủ ngữ + Động từ</p>
 			
 				<ul className="list-square">
 			
-					<li>The beauty <strong>of</strong> the girl impressed everyone.</li>
-					<li className="list-none">Vẻ đẹp của cô gái đã gây ấn tượng với mọi người.</li>
+					<li>because + she + studied</li>
+					<li className="margin-bottom-20 list-none">Bởi vì + cô ấy + học bài</li>
+			
+					<li>when + I + arrived</li>
+					<li className="margin-bottom-20 list-none">Khi + tôi + đến nơi</li>
+			
+					<li>although + it + rained</li>
+					<li className="list-none">Mặc dù + trời + mưa</li>
 			
 				</ul>
 
-			<p className="margin-top-20 text-indent-whole">Cách này tạo cảm giác trang trọng và sâu sắc hơn</p>
 
+			<h4 className="margin-y-40">Bước 4: Ghép hai mệnh đề</h4>
+
+			<p className="text-indent-whole">Cấu trúc 1 — Mệnh đề phụ thuộc đứng đầu:</p>
+			<p className="text-indent-whole">[Từ nối + Chủ ngữ + Động từ], + [Mệnh đề độc lập]</p>
 			
-			<h4 className="margin-y-40">Bước 3 (Thêm điều kiện/ngữ cảnh):</h4>
+				<ul className="list-square">
+			
+					<li>Because she studied hard, she passed the exam.</li>
+					<li className="list-none">Vì học hành chăm chỉ nên cô ấy đã thi đỗ.</li>
+			
+				</ul>
 					
-			<p className="text-indent-whole">Câu phức</p>
+			<p className="margin-top-20 text-indent-whole">Cấu trúc 2 — Mệnh đề phụ thuộc đứng cuối:</p>
+			<p className="text-indent-whole">[Mệnh đề độc lập] + [Từ nối + Chủ ngữ + Động từ]</p>
 			
 				<ul className="list-square">
 			
-					<li><strong>Whenever</strong> she smiles, the beauty of the girl impresses everyone.</li>
-					<li className="list-none">Bất cứ khi nào cô gái ấy mỉm cười, vẻ đẹp của cô đều để lại ấn tượng cho mọi người.</li>
+					<li>She passed the exam because she studied hard.</li>
+					<li className="list-none">Cô ấy thi đỗ vì đã học hành rất chăm chỉ.</li>
 			
 				</ul>
+
+
+			<h4 className="margin-y-40">Bước 5: Thêm dấu phẩy đúng chỗ</h4>
+
+				<ul className="list-square">
 			
+					<li>Mệnh đề phụ thuộc đứng ĐẦU</li>
+					<li className="margin-bottom-20 list-none">→ DẤU PHẨY SAU mệnh đề</li>
 			
-			<h4 className="margin-y-40">Bước 4 (Mở rộng kết quả)</h4>
+					<li>Mệnh đề phụ thuộc đứng CUỐI</li>
+					<li className="list-none">→ KHÔNG có dấu phẩy</li>
+			
+				</ul>
+
+			<p className="margin-top-20 text-indent-whole">Ví dụ 1</p>
+			
+				<ul className="list-square">
+			
+					<li>Although it rained, we played.</li>
+					<li className="margin-bottom-20 list-none">Mặc dù trời mưa nhưng chúng tôi vẫn chơi.</li>
+			
+					<li>Although it rained we played.</li>
+					<li className="list-none">Sai</li>
+			
+				</ul>
 					
-			<p className="text-indent-whole">Câu phức tổng hợp</p>
+			<p className="margin-top-20 text-indent-whole">Ví dụ 2</p>
 			
 				<ul className="list-square">
 			
-					<li><strong>Whenever</strong> she smiles, the beauty of the girl impresses everyone, <strong>and</strong> the room seems to brighten up.</li>
-					<li className="list-none">Bất cứ khi nào cô gái ấy mỉm cười, vẻ đẹp của cô đều để lại ấn tượng sâu sắc cho mọi người, và căn phòng dường như trở nên tươi sáng hơn.</li>
+					<li>We played although it rained.</li>
+					<li className="margin-bottom-20 list-none">Chúng tôi vẫn chơi mặc dù trời mưa.</li>
+			
+					<li>We played, although it rained.</li>
+					<li className="list-none">Sai</li>
+			
+				</ul>
+
+
+			<h4 className="margin-y-40">Bước 6: Kiểm tra lại</h4>
+			
+				<ul className="list-square">
+			
+					<li>Mệnh đề phụ thuộc có chủ ngữ + động từ?</li>
+			
+					<li>Từ nối có đúng với ý nghĩa bạn muốn?</li>
+
+					<li>Dấu phẩy có đúng vị trí?</li>
+			
+					<li>Câu có thể đứng độc lập không? (Nếu có, bạn đang viết mệnh đề độc lập chứ không phải phụ thuộc)</li>
+			
+				</ul>
+			
+			<p className="margin-top-20 text-indent-whole"></p>
+
+
+			<h4 className="margin-y-40">Bước 7: Luyện viết nhiều mẫu câu khác nhau</h4>
+					
+			<p className="text-indent-whole">Đừng chỉ dùng because. Hãy đa dạng hóa:</p>
+			
+				<ul className="list-square">
+			
+					<li>Ngày 1</li>
+					<li className="margin-bottom-20 list-none">because, since, as</li>
+			
+					<li>Ngày 2</li>
+					<li className="margin-bottom-20 list-none">although, even though, though</li>
+
+					<li>Ngày 3</li>
+					<li className="margin-bottom-20 list-none">when, while, before, after</li>
+			
+					<li>Ngày 4</li>
+					<li className="margin-bottom-20 list-none">if, unless</li>
+
+					<li>Ngày 5</li>
+					<li className="margin-bottom-20 list-none">who, which, that</li>
+			
+					<li>Ngày 6</li>
+					<li className="margin-bottom-20 list-none">what, where, why</li>
+			
+					<li>Ngày 7</li>
+					<li className="list-none">Tổng hợp tất cả</li>
+			
+				</ul>
+
+
+			{/* Cách phân biệt mệnh đề phụ thuộc và mệnh đề độc lập */}
+
+			<h3 className="margin-y-50 text-center">Cách phân biệt mệnh đề phụ thuộc và mệnh đề độc lập</h3>
+
+			<h4 className="margin-y-40">1. Mệnh đề độc lập</h4>
+					
+			<p className="text-indent-whole">Có thể đứng một mình: ✅ Có</p>
+			<p className="text-indent-whole">Bắt đầu bằng từ nối: Không (hoặc FANBOYS)</p>
+			<p className="text-indent-whole">Ý nghĩa trọn vẹn: ✅ Có</p>
+			
+				<ul className="list-square">
+			
+					<li>She passed the exam.</li>
+					<li className="list-none">Cô ấy đã thi đỗ rồi.</li>
+			
+				</ul>
+
+
+			<h4 className="margin-y-40">2. Mệnh đề phụ thuộc</h4>
+					
+			<p className="text-indent-whole">Có thể đứng một mình: ❌ Không</p>
+			<p className="text-indent-whole">Bắt đầu bằng từ nối: ✅ Because, although, when, if, who, which...</p>
+			<p className="text-indent-whole">Ý nghĩa trọn vẹn: ❌ Không</p>
+			
+				<ul className="list-square">
+			
+					<li>Because she studied hard</li>
+					<li className="list-none">Vì cô ấy học hành chăm chỉ...</li>
 			
 				</ul>
 			
 
-
-			{/* 3. Làm sao để nhận biết và "thẩm thấu" nhanh? */}
-
-			<h3 className="margin-y-50 text-center">3. Làm sao để nhận biết và "thẩm thấu" nhanh?</h3>
-
-				<ul className="list-square">
-
-					<li><strong>Tư duy theo</strong> "<strong>Cụm</strong>":</li>
-					<li className="list-none">Đừng dịch từng từ. Khi đọc, hãy tập thói quen ngắt câu thành các cụm thành phần.</li>
-					<li className="margin-bottom-20 list-none">[Whenever she smiles] / [the beauty of the girl] / [impresses everyone].</li>
+			<h4 className="margin-y-40">Bài kiểm tra nhanh</h4>
+					
+			<p className="text-indent-whole">Hãy xác định mệnh đề nào là phụ thuộc:</p>
 			
-					<li><strong>Săn tìm từ nối</strong>:</li>
-					<li className="margin-bottom-20 list-none">Khi đọc báo hoặc xem phim, hãy tập trung vào các từ như while, whereas, nonetheless. Chúng là "keo dán" quyết định cấu trúc câu đó là gì.</li>
+				<ol>
+			
+					<li value="1">I called her</li>
+					<li className="list-none">Tôi đã gọi điện cho cô ấy.</li>
+					<li className="margin-bottom-20 list-none">→ Độc lập (câu hoàn chỉnh)</li>
+			
+					<li value="2">when I arrived</li>
+					<li className="list-none">Khi tôi đến nơi...</li>
+					<li className="margin-bottom-20 list-none">→ Phụ thuộc (cần mệnh đề khác)</li>
 
-					<li><strong>Kỹ thuật</strong> "<strong>Viết không trung gian</strong>"</li>
-					<li className="list-none">Thử diễn đạt một ý tưởng bằng 3 cách khác nhau (1 câu đơn, 1 câu ghép, 1 câu phức). Việc này ép não bộ phải tìm cách kết nối các logic khác nhau.</li>
+					<li value="3">Because it was raining</li>
+					<li className="list-none">Vì trời mưa...</li>
+					<li className="margin-bottom-20 list-none">→ Phụ thuộc</li>
+
+					<li value="4">we stayed home</li>
+					<li className="list-none">Chúng tôi đã ở nhà.</li>
+					<li className="margin-bottom-20 list-none">→ Độc lập</li>
+			
+					<li value="5">although she was tired</li>
+					<li className="list-none">Mặc dù cô ấy mệt..."</li>
+					<li className="list-none">→ Phụ thuộc</li>
+			
+				</ol>
+			
+			<p className="margin-top-20"></p>
+
+			{/* Ba loại mệnh đề phụ thuộc — Phân biệt rõ ràng */}
+
+			<h3 className="margin-y-50 text-center">Ba loại mệnh đề phụ thuộc — Phân biệt rõ ràng</h3>
+
+			<h4 className="margin-y-40">1. Mệnh đề trạng ngữ (Adverb Clause)</h4>
+					
+			<p className="text-indent-whole">Bổ nghĩa cho động từ, trả lời câu hỏi: khi nào? tại sao? nếu...?</p>
+			
+				<ul className="list-square">
+			
+					<li>Because it was cold, we stayed home. (tại sao?)</li>
+					<li className="margin-bottom-20 list-none">Vì trời lạnh nên chúng tôi ở nhà.</li>
+
+					<li>She called when she arrived. (khi nào?)</li>
+					<li className="margin-bottom-20 list-none">Cô ấy đã gọi điện ngay khi vừa đến nơi.</li>
+			
+					<li>If you study, you will pass. (nếu...)</li>
+					<li className="margin-bottom-20 list-none">Nếu bạn học bài, bạn sẽ đỗ thôi.</li>
+			
+					<li>Although he was rich, he was unhappy. (tương phản)</li>
+					<li className="list-none">Mặc dù giàu có nhưng anh ấy lại không hạnh phúc.</li>
 			
 				</ul>
+			
+			<p className="margin-top-20 text-indent-whole">Dấu hiệu:because, although, when, while, if, since, before, after, until, unless</p>
+
+			<h4 className="margin-y-40">2. Mệnh đề tính từ (Adjective Clause)</h4>
+					
+			<p className="text-indent-whole">Bổ nghĩa cho danh từ đứng trước nó.</p>
+			
+				<ul className="list-square">
+			
+					<li>The book that I borrowed is great.</li>
+					<li className="margin-bottom-20 list-none">Cuốn sách – cái mà tôi đã mượn – thì tuyệt vời.</li>
+
+					<li className="margin-bottom-20 list-none">Quyển sách nào? → quyển mà tôi mượn</li>
+			
+					<li>The woman who lives next door is a doctor.</li>
+					<li className="margin-bottom-20 list-none">Người phụ nữ – người mà sống cạnh nhà – là một bác sĩ.</li>
+			
+					<li>The car which he bought is fast.</li>
+					<li className="list-none">Chiếc xe – cái mà anh ấy đã mua – thì nhanh.</li>
+			
+				</ul>
+			
+			<p className="margin-top-20 text-indent-whole">Dấu hiệu:who, whom, which, that, whose, where, when</p>
+
+			<h4 className="margin-y-40">3. Mệnh đề danh từ (Noun Clause)</h4>
+					
+			<p className="text-indent-whole">Đóng vai trò như danh từ — làm chủ ngữ, tân ngữ, hoặc bổ ngữ.</p>
+			
+				<ul className="list-square">
+			
+					<li>What she said is true. (chủ ngữ)</li>
+					<li className="margin-bottom-20 list-none">Những gì cô ấy nói là đúng đấy.</li>
+			
+					<li>I don't know what she wants. (tân ngữ)</li>
+					<li className="margin-bottom-20 list-none">Tôi không biết cô ấy muốn gì.</li>
+			
+					<li>The problem is that we have no money. (bổ ngữ)</li>
+					<li className="list-none">Vấn đề là chúng ta không có tiền.</li>
+			
+				</ul>
+			
+			<p className="margin-top-20 text-indent-whole">Dấu hiệu:that, what, who, whether, if, where, why, how</p>
+
+			{/* Ví dụ thực tế */}
+
+			<h3 className="margin-y-50 text-center">Ví dụ thực tế</h3>
+
+			<h4 className="margin-y-40">Mệnh đề trạng ngữ</h4>
+					
+				<ul className="list-square">
+
+					<li>Because she was sick, she didn't come.</li>
+					<li className="margin-bottom-20 list-none">Vì cô ấy bị ốm, cô ấy không đến.</li>
+
+					<li>Although it rained, we played football.</li>
+					<li className="margin-bottom-20 list-none">Mặc dù trời mưa, chúng tôi vẫn chơi bóng.</li>
+			
+					<li>If you study hard, you will pass.</li>
+					<li className="margin-bottom-20 list-none">Nếu bạn học chăm, bạn sẽ đậu.</li>
+
+					<li>She called when I arrived.</li>
+					<li className="margin-bottom-20 list-none">Cô ấy gọi khi tôi đến.</li>
+			
+					<li>While I was sleeping, he left.</li>
+					<li className="margin-bottom-20 list-none">Trong khi tôi đang ngủ, anh ấy rời đi.</li>
+			
+					<li>He left before I could say hello.</li>
+					<li className="margin-bottom-20 list-none">Anh ấy rời đi trước khi tôi có thể chào.</li>
+
+					<li>Wait until I come back.</li>
+					<li className="margin-bottom-20 list-none">Đợi cho đến khi tôi quay lại.</li>
+			
+					<li>Since you asked, I will tell you.</li>
+					<li className="margin-bottom-20 list-none">Vì bạn hỏi, tôi sẽ nói cho bạn.</li>
+
+					<li>I won't go unless you come.</li>
+					<li className="margin-bottom-20 list-none">Tôi sẽ không đi trừ khi bạn đến.</li>
+			
+					<li>As time passed, things improved.</li>
+					<li className="margin-bottom-20 list-none">Khi thời gian trôi, mọi thứ cải thiện.</li>
+
+					<li>Even though he was rich, he was unhappy.</li>
+					<li className="margin-bottom-20 list-none">Ngay cả khi anh ấy giàu, anh ấy không hạnh phúc.</li>
+			
+					<li>She has lived here since she was a child.</li>
+					<li className="margin-bottom-20 list-none">Cô ấy sống ở đây từ khi cô ấy còn nhỏ.</li>
+
+					<li>When the bell rang, students left.</li>
+					<li className="margin-bottom-20 list-none">Khi chuông reo, học sinh rời đi.</li>
+			
+					<li>While he was cooking, she set the table.</li>
+					<li className="margin-bottom-20 list-none">Trong khi anh ấy đang nấu ăn, cô ấy dọn bàn.</li>
+			
+					<li>Call me after you finish.</li>
+					<li className="list-none">Gọi tôi sau khi bạn hoàn thành.</li>
+			
+				</ul>
+			
+
+			<h4 className="margin-y-40">Mệnh đề tính từ</h4>
+					
+				<ul className="list-square">
+			
+					<li>The book that I borrowed is fascinating.</li>
+					<li className="margin-bottom-20 list-none">Quyển sách mà tôi mượn rất hấp dẫn.</li>
+
+					<li>The woman who lives here is a doctor.</li>
+					<li className="margin-bottom-20 list-none">Người phụ nữ sống ở đây là bác sĩ.</li>
+			
+					<li>The car which he bought is fast.</li>
+					<li className="margin-bottom-20 list-none">Chiếc xe mà anh ấy mua rất nhanh.</li>
+
+					<li>The man whose car was stolen called police.</li>
+					<li className="margin-bottom-20 list-none">Người đàn ông có xe bị đánh cắp gọi cảnh sát.</li>
+			
+					<li>This is the restaurant where we met.</li>
+					<li className="margin-bottom-20 list-none">Đây là nhà hàng nơi chúng tôi gặp nhau.</li>
+
+					<li>I remember the day when we first met.</li>
+					<li className="margin-bottom-20 list-none">Tôi nhớ ngày khi chúng tôi lần đầu gặp nhau.</li>
+			
+					<li>The reason why he left is unknown.</li>
+					<li className="margin-bottom-20 list-none">Lý do tại sao anh ấy rời đi chưa rõ.</li>
+
+					<li>She is the person who can help you.</li>
+					<li className="margin-bottom-20 list-none">Cô ấy là người có thể giúp bạn.</li>
+			
+					<li>The movie that we watched was boring.</li>
+					<li className="margin-bottom-20 list-none">Bộ phim mà chúng tôi xem rất nhàm chán.</li>
+			
+					<li>Do you know the boy who is standing there?</li>
+					<li className="list-none">Bạn có biết cậu bé đang đứng đó không?</li>
+			
+				</ul>
+			
+
+			<h4 className="margin-y-40">Mệnh đề danh từ</h4>
+					
+				<ul className="list-square">
+			
+					<li>I don't know what she wants.</li>
+					<li className="margin-bottom-20 list-none">Tôi không biết cô ấy muốn gì.</li>
+
+					<li>Whether he will come is unclear.</li>
+					<li className="margin-bottom-20 list-none">Liệu anh ấy có đến vẫn chưa rõ.</li>
+
+					<li>She said that she was busy.</li>
+					<li className="margin-bottom-20 list-none">Cô ấy nói rằng cô ấy bận.</li>
+			
+					<li>What he said is true.</li>
+					<li className="margin-bottom-20 list-none">Điều anh ấy nói là sự thật.</li>
+
+					<li>I wonder if it will rain.</li>
+					<li className="margin-bottom-20 list-none">Tôi tự hỏi liệu trời có mưa không.</li>
+			
+					<li>The problem is that we have no money.</li>
+					<li className="margin-bottom-20 list-none">Vấn đề là chúng tôi không có tiền.</li>
+
+					<li>Whoever calls should leave a message.</li>
+					<li className="margin-bottom-20 list-none">Bất kỳ ai gọi nên để lại tin nhắn.</li>
+			
+					<li>I believe that you can do it.</li>
+					<li className="margin-bottom-20 list-none">Tôi tin rằng bạn có thể làm được.</li>
+			
+					<li>Do you know where she lives?</li>
+					<li className="margin-bottom-20 list-none">Bạn có biết cô ấy sống ở đâu không?</li>
+			
+					<li>What matters most is your effort.</li>
+					<li className="list-none">Điều quan trọng nhất là nỗ lực của bạn.</li>
+			
+				</ul>
+
+			{/* Lỗi phổ biến — Tránh ngay */}
+
+			<h3 className="margin-y-50 text-center">Lỗi phổ biến — Tránh ngay</h3>
+
+			<h4 className="margin-y-40">Lỗi 1</h4>
+
+			<p className="text-indent-whole">Because I was late. (câu cụt)</p>
+			<p className="text-indent-whole">Bởi vì tôi đến muộn...</p>
+			
+				<ul className="list-square">
+			
+					<li>Because I was late, I missed the bus.</li>
+					<li className="list-none">Vì đến muộn nên tôi đã bị lỡ chuyến xe buýt.</li>
+			
+				</ul>
+			
+
+			<h4 className="margin-y-40">Lỗi 2</h4>
+
+			<p className="text-indent-whole">The man which called.</p>
+			
+				<ul className="list-square">
+			
+					<li>The man who called.</li>
+					<li className="list-none">Người đàn ông, người mà đã gọi điện.</li>
+			
+				</ul>
+
+
+			<h4 className="margin-y-40">Lỗi 3</h4>
+
+			<p className="text-indent-whole">I know that. He is smart. (2 câu rời)</p>
+			<p className="text-indent-whole">Tôi biết điều đó mà. Anh ấy thông minh thật.</p>
+			
+				<ul className="list-square">
+			
+					<li>I know that he is smart.</li>
+					<li className="list-none">1 câu</li>
+					<li className="list-none">Tôi biết anh ấy thông minh mà.</li>
+			
+				</ul>
+			
+
+			<h4 className="margin-y-40">Lỗi 4</h4>
+
+			<p className="text-indent-whole">Despite it rained.</p>
+			
+				<ul className="list-square">
+			
+					<li>Although it rained.</li>
+					<li className="margin-bottom-20 list-none">Mặc dù trời đã mưa...</li>
+			
+					<li>Despite the rain.</li>
+					<li className="list-none">Dù trời mưa...</li>
+			
+				</ul>
+
+		
+			<h4 className="margin-y-40">Lỗi 5</h4>
+
+			<p className="text-indent-whole">I don't know what is it.</p>
+			
+				<ul className="list-square">
+			
+					<li>I don't know what it is.</li>
+					<li className="list-none">Tôi không biết đó là cái gì.</li>
+			
+				</ul>
+			
+
+			<h4 className="margin-y-40">Lỗi 6</h4>
+
+			<p className="text-indent-whole">Although but he was rich.</p>
+			<p className="text-indent-whole">2 từ nối</p>
+			
+				<ul className="list-square">
+			
+					<li>Although he was rich.</li>
+					<li className="margin-bottom-20 list-none">Mặc dù anh ấy giàu có...</li>
+			
+					<li>But he was rich.</li>
+					<li className="list-none">Dù ông ấy giàu...</li>
+			
+				</ul>
+			
+
+			<h4 className="margin-y-40">Lỗi 7</h4>
+
+			<p className="text-indent-whole">The girl whom sings.</p>
+			<p className="text-indent-whole">Sai đại từ</p>
+			
+				<ul className="list-square">
+			
+					<li>The girl who sings.</li>
+					<li className="list-none">Cô gái, người mà hát.</li>
+			
+				</ul>
+			
+
+			{/* Chiến lược 30 ngày để thành thạo */}
+
+			<h3 className="margin-y-50 text-center">Chiến lược 30 ngày để thành thạo</h3>
+
+			<p className="margin-top-20">Tuần 1: Xây nền tảng</p>
+			
+				<ul className="list-square">
+			
+					<li>Học 15 từ nối quan trọng nhất</li>
+			
+					<li>Viết 5 câu mỗi ngày cho mỗi từ nối</li>
+			
+					<li>Tạo flashcard với ví dụ</li>
+			
+				</ul>
+
+
+			<p className="margin-top-20">Tuần 2: Luyện tập chuyên sâu</p>
+			
+				<ul className="list-square">
+			
+					<li>Chuyển 10 câu đơn thành câu phức mỗi ngày</li>
+			
+					<li>Đọc 1 bài báo, gạch chân 10 mệnh đề phụ thuộc</li>
+			
+					<li>Viết nhật ký tiếng Anh với ít nhất 5 mệnh đề phụ mỗi ngày</li>
+			
+				</ul>
+
+			
+			<p className="margin-top-20">Tuần 3: Nâng cao</p>
+			
+				<ul className="list-square">
+			
+					<li>Viết đoạn văn 100 từ với 5+ mệnh đề phụ khác nhau</li>
+			
+					<li>Luyện viết essay ngắn (150 từ) dùng nhiều loại mệnh đề</li>
+			
+					<li>Sửa lỗi từ các bài viết trước</li>
+			
+				</ul>
+			
+			
+			<p className="margin-top-20">Tuần 4: Tổng hợp</p>
+			
+				<ul className="list-square">
+			
+					<li>Viết 3 essay, mỗi essay dùng ít nhất 8 mệnh đề phụ thuộc</li>
+			
+					<li>Đọc bài IELTS Reading, phân tích cấu trúc câu phức</li>
+			
+					<li>Ôn lại flashcard, sửa lỗi thường gặp</li>
+			
+				</ul>
+
+
+			{/* Bảng tổng kết nhanh */}
+
+			<h3 className="margin-y-50 text-center">Bảng tổng kết nhanh</h3>
+
+			<h4 className="margin-y-40">Loại mệnh đề: Trạng ngữ</h4>
+
+			<p className="text-indent-whole">Chức năng: Bổ nghĩa động từ</p>
+			<p className="text-indent-whole">Từ nối: because, if, when, although</p>
+					
+				<ul className="list-square">
+			
+					<li>If it rains, we cancel.</li>
+					<li className="list-none">Nếu trời mưa, chúng ta sẽ hủy bỏ.</li>
+			
+				</ul>
+
+
+			<h4 className="margin-y-40">Loại mệnh đề: Tính từ</h4>
+
+			<p className="text-indent-whole">Chức năng: Bổ nghĩa danh từ</p>
+			<p className="text-indent-whole">Từ nối: who, which, that, whose</p>
+					
+				<ul className="list-square">
+			
+					<li>The car that he bought is fast.</li>
+					<li className="list-none">Chiếc xe anh ấy mới mua chạy nhanh lắm.</li>
+			
+				</ul>
+			
+
+			<h4 className="margin-y-40">Loại mệnh đề: Danh từ</h4>
+
+			<p className="text-indent-whole">Chức năng: Chủ ngữ/Tân ngữ</p>
+			<p className="text-indent-whole">Từ nối: that, what, whether</p>
+					
+				<ul className="list-square">
+			
+					<li>I know what she means.</li>
+					<li className="list-none">Tôi biết cô ấy muốn nói gì.</li>
+			
+				</ul>
+			
 
 			{/* Đánh bóng kỹ năng — Viết như người bản xứ */}
 
