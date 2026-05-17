@@ -166,21 +166,7 @@ export default function SentenceVariety7(): React.JSX.Element {
 
 			{/* 6. Bài tập nhỏ (10–20 phút mỗi ngày) */}
 
-			<h3 className="margin-y-50 text-center">6. Bài tập nhỏ (10–20 phút mỗi ngày)</h3>
-			
-				<ul className="list-square">
-
-					<li>Viết 6 câu mô tả một cảnh, dùng tối thiểu 3 loại câu khác nhau.</li>
-
-					<li>Chọn một câu đơn bạn thích; viết 3 biến thể: compound, complex, compound-complex.</li>
-
-					<li>Đọc to đoạn văn của bạn, đánh dấu chỗ thở; sửa lại để nhịp tự nhiên hơn.</li>
-			
-				</ul>
-
-
-			
-
+			<h3 className="margin-y-50 text-center">Đánh bóng kỹ năng — Viết như người bản xứ</h3>
 
 			<p className="margin-top-20">Người mới bắt đầu:</p>
 			
