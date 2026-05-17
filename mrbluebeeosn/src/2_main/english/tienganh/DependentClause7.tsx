@@ -207,11 +207,16 @@ export default function DependentClause7(): React.JSX.Element {
 
 			{/* Lời kết: */}
 
-			<h3 className="margin-y-50 text-center">Lời kết:</h3>
 
-			<p>Sự đa dạng trong cấu trúc câu chính là ranh giới giữa một người "biết tiếng Anh" và một người "làm chủ tiếng Anh".</p>
+			
 
-			<p>Đừng chỉ viết để người ta hiểu, hãy viết để người ta phải thán phục cái nhịp điệu trong tư duy của bạn.</p>
+			<h3 className="margin-y-50 text-center">Kết luận</h3>
+
+			<p>Mệnh đề phụ thuộc không thể đứng một mình — đó là đặc điểm xác định. Nhưng chính vì vậy, khi kết hợp với mệnh đề độc lập, nó tạo nên câu phức — công cụ mạnh nhất để viết tiếng Anh học thuật, mạch lạc và tự nhiên.</p>
+
+			<p>Thành thạo mệnh đề phụ thuộc = Viết câu phức dễ dàng = Nâng band IELTS/TOEFL = Viết như người bản xứ.</p>
+
+			<p>Bắt đầu ngay hôm nay: Chọn although, viết 5 câu phức. Trong 7 ngày, bạn sẽ thấy sự khác biệt. Trong 30 ngày, bạn sẽ không còn viết câu đơn nữa.</p>
 
 			<div className="viewcounter">
 			
