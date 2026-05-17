@@ -178,13 +178,50 @@ export default function SentenceVariety7(): React.JSX.Element {
 			
 				</ul>
 
-			{/* Kết lại (một câu) */}
 
-			<h3 className="margin-y-50 text-center">Kết lại (một câu)</h3>
+			
 
-			<p>Ngôn ngữ là một dòng chảy. Đừng cố gắng bơi ngược dòng bằng những thói quen cũ. Hãy dũng cảm thay đổi cấu trúc tư duy, cho phép thông tin được trôi xuôi chiều từ trái sang phải. Đó là lúc bạn không còn "học" tiếng Anh nữa, mà bạn đang thực sự sở hữu nó.</p>
 
-			<p>Bắt đầu từ câu đơn, luyện theo lộ trình và dùng tai bạn làm thước đo — khi văn “ngon” khi đọc to, độc giả sẽ thấy vậy.</p>
+			<p className="margin-top-20">Người mới bắt đầu:</p>
+			
+				<ul className="list-square">
+			
+					<li>I studied. I passed. I was happy.</li>
+					<li className="list-none">Tôi đã học. Tôi đã đỗ. Tôi đã rất vui.</li>
+			
+				</ul>
+	
+
+			<p className="margin-top-20">Người trung cấp:</p>
+			
+				<ul className="list-square">
+			
+					<li>I studied hard, so I passed the exam, and I was happy.</li>
+					<li className="list-none">Mình đã học hành chăm chỉ nên đã thi đỗ, và mình cảm thấy rất hạnh phúc.</li>
+			
+				</ul>
+
+
+			<p className="margin-top-20">Người thành thạo:</p>
+			
+				<ul className="list-square">
+			
+					<li>Because I had studied hard, I passed the exam, which made me extremely happy, although I was worried at first.</li>
+					<li className="list-none">Vì đã học hành chăm chỉ nên mình đã thi đỗ, điều này khiến mình cực kỳ vui sướng dù lúc đầu có chút lo lắng.</li>
+			
+				</ul>
+			
+			<p className="margin-top-20">Câu cuối có ba mệnh đề, hai mệnh đề phụ thuộc (because... và although...) và một mệnh đề tính từ (which...). Đây là mức độ người bản xứ.</p>
+
+			{/* Kết luận */}
+
+			<h3 className="margin-y-50 text-center">Kết luận</h3>
+
+			<p>Mệnh đề phụ thuộc không thể đứng một mình — đó là đặc điểm xác định. Nhưng chính vì vậy, khi kết hợp với mệnh đề độc lập, nó tạo nên câu phức — công cụ mạnh nhất để viết tiếng Anh học thuật, mạch lạc và tự nhiên.</p>
+
+			<p>Thành thạo mệnh đề phụ thuộc = Viết câu phức dễ dàng = Nâng band IELTS/TOEFL = Viết như người bản xứ.</p>
+
+			<p>Bắt đầu ngay hôm nay: Chọn although, viết 5 câu phức. Trong 7 ngày, bạn sẽ thấy sự khác biệt. Trong 30 ngày, bạn sẽ không còn viết câu đơn nữa.</p>
 
 			<div className="viewcounter">
 			
