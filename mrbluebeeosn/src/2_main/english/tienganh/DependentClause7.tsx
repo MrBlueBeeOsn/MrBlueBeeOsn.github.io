@@ -205,10 +205,39 @@ export default function DependentClause7(): React.JSX.Element {
 
 			<p className="margin-top-20"><strong>Ưu tiên sự rõ ràng</strong>: Cấu trúc phức tạp không có nghĩa là rắc rối. Nếu một câu quá dài khiến người đọc hụt hơi, hãy bẻ đôi nó bằng một dấu chấm.</p>
 
-			{/* Lời kết: */}
-
-
 			
+			<p className="margin-top-20">Người mới bắt đầu:</p>
+			
+				<ul className="list-square">
+			
+					<li>I studied. I passed. I was happy.</li>
+					<li className="list-none">Tôi đã học. Tôi đã đỗ. Tôi đã rất vui.</li>
+			
+				</ul>
+			
+
+			<p className="margin-top-20">Người trung cấp:</p>
+			
+				<ul className="list-square">
+			
+					<li>I studied hard, so I passed the exam, and I was happy.</li>
+					<li className="list-none">Mình đã học hành chăm chỉ nên đã thi đỗ, và mình cảm thấy rất hạnh phúc.</li>
+			
+				</ul>
+
+
+			<p className="margin-top-20">Người thành thạo:</p>
+			
+				<ul className="list-square">
+			
+					<li>Because I had studied hard, I passed the exam, which made me extremely happy, although I was worried at first.</li>
+					<li className="list-none">Vì đã học hành chăm chỉ nên mình đã thi đỗ, điều này khiến mình cực kỳ vui sướng dù lúc đầu có chút lo lắng</li>
+			
+				</ul>
+			
+			<p className="margin-top-20">Câu cuối có ba mệnh đề, hai mệnh đề phụ thuộc (because... và although...) và một mệnh đề tính từ (which...). Đây là mức độ người bản xứ.</p>
+
+			{/* Kết luận */}
 
 			<h3 className="margin-y-50 text-center">Kết luận</h3>
 
