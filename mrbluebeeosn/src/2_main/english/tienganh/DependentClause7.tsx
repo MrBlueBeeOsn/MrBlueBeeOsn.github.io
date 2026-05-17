@@ -181,30 +181,9 @@ export default function DependentClause7(): React.JSX.Element {
 			
 				</ul>
 
-			{/* 4. Bí kíp để áp dụng vào bài viết chuyên nghiệp */}
+			{/* Đánh bóng kỹ năng — Viết như người bản xứ */}
 
-			<h3 className="margin-y-50 text-center">4. Bí kíp để áp dụng vào bài viết chuyên nghiệp</h3>
-
-			<p><strong>Sử dụng câu đơn để chốt hạ</strong>: Sau một chuỗi giải thích dài bằng câu phức, hãy dùng một câu đơn ngắn gọn để tạo điểm nhấn (Punchline).</p>
-
-			<ul className="list-square">
-
-					<li>Ví dụ: "... (giải thích dài). It works."</li>
-			
-				</ul>
-
-			<p className="margin-top-20"><strong>Đảo ngữ để tạo bất ngờ</strong>: Thay vì bắt đầu bằng chủ ngữ, hãy đưa các cụm trạng từ chỉ thời gian hoặc nơi chốn lên đầu.</p>
-			
-				<ul className="list-square">
-
-					<li>Instead of: "Success comes after hard work."</li>
-
-					<li>Try: "<strong>Only after hard work</strong> does success come."</li>
-			
-				</ul>
-
-			<p className="margin-top-20"><strong>Ưu tiên sự rõ ràng</strong>: Cấu trúc phức tạp không có nghĩa là rắc rối. Nếu một câu quá dài khiến người đọc hụt hơi, hãy bẻ đôi nó bằng một dấu chấm.</p>
-
+			<h3 className="margin-y-50 text-center">Đánh bóng kỹ năng — Viết như người bản xứ</h3>
 			
 			<p className="margin-top-20">Người mới bắt đầu:</p>
 			
