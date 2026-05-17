@@ -50,13 +50,13 @@ export default function DependentClause7(): React.JSX.Element {
 
 			<h4 className="margin-bottom-30 text-center">Mệnh Đề Phụ Thuộc: Cẩm Nang Hoàn Chỉnh Để Viết Câu Phức Tự Nhiên</h4>
 
-			{/* Tại sao bạn cần học mệnh đề phụ thuộc ngay hôm nay? */}
+			{/* 1. Tại sao bạn cần học mệnh đề phụ thuộc ngay hôm nay? */}
 
-			<h3 className="margin-y-50 text-center">Tại sao bạn cần học mệnh đề phụ thuộc ngay hôm nay?</h3>
+			<h3 className="margin-y-50 text-center">1. Tại sao bạn cần học mệnh đề phụ thuộc ngay hôm nay?</h3>
 
 			<p>Hãy tưởng tượng bạn đang viết một essay IELTS. Hai cách viết sau:</p>
 
-			<p className="margin-top-20">Cách 1 — Câu đơn liên tiếp:</p>
+			<p className="margin-top-20"><strong>Cách 1</strong> — <strong>Câu đơn liên tiếp</strong>:</p>
 			
 				<ul className="list-square">
 			
@@ -66,40 +66,40 @@ export default function DependentClause7(): React.JSX.Element {
 			
 				</ul>
 					
-			<p className="margin-top-20">Cách 2 — Câu phức với mệnh đề phụ thuộc:</p>
+			<p className="margin-top-20"><strong>Cách 2</strong> — <strong>Câu phức với mệnh đề phụ thuộc</strong>:</p>
 			
 				<ul className="list-square">
 			
-					<li className="margin-bottom-20">Because climate change is accelerating, many coastal cities will flood if governments do not act soon. Although the problem is serious, effective solutions exist when people work together.</li>
+					<li className="margin-bottom-20"><strong>Because climate change is accelerating</strong>, many coastal cities will flood <strong>if governments do not act soon</strong>. <strong>Although the problem is serious</strong>, effective solutions exist <strong>when people work together</strong>.</li>
 			
 					<li className="list-none">Vì biến đổi khí hậu đang gia tăng, nhiều thành phố ven biển sẽ bị ngập lụt nếu các chính phủ không sớm hành động. Mặc dù đây là một vấn đề nghiêm trọng, những giải pháp hiệu quả vẫn luôn tồn tại khi mọi người cùng nhau chung tay.</li>
 			
 				</ul>
 			
-			<p className="margin-top-20">Sự khác biệt? Rõ ràng. Cách 2 thể hiện tư duy logic, kết nối ý, và khả năng kiểm soát ngữ pháp — đúng thứ giám khảo IELTS tìm kiếm.</p>
+			<p className="margin-top-20">Sự khác biệt? Rõ ràng. Cách 2 thể hiện <strong>tư duy logic</strong>, <strong>kết nối ý</strong>, và <strong>khả năng kiểm soát ngữ pháp</strong> — đúng thứ giám khảo IELTS tìm kiếm.</p>
 
-			<p>Bí mật nằm ở mệnh đề phụ thuộc.</p>
+			<p>Bí mật nằm ở <strong>mệnh đề phụ thuộc</strong>.</p>
 
 
-			{/* Mệnh đề phụ thuộc là gì? */}
+			{/* 2. Mệnh đề phụ thuộc là gì? */}
 
-			<h3 className="margin-y-50 text-center">Mệnh đề phụ thuộc là gì?</h3>
+			<h3 className="margin-y-50 text-center">2. Mệnh đề phụ thuộc là gì?</h3>
 					
 			<p>Mệnh đề phụ thuộc là một nhóm từ có đầy đủ chủ ngữ + động từ, nhưng không tạo thành câu hoàn chỉnh khi đứng một mình. Nó cần một mệnh đề độc lập để bổ sung ý nghĩa.</p>
 			
 				<ul className="list-square">
 
-					<li className="margin-bottom-20">Because she studied — chưa trọn vẹn</li>
+					<li className="margin-bottom-20"><strong>Because she studied</strong> — chưa trọn vẹn</li>
 			
-					<li>Because she studied hard, she passed — hoàn chỉnh</li>
+					<li><strong>Because she studied hard</strong>, <strong>she passed</strong> — hoàn chỉnh</li>
 					<li className="list-none">Vì học hành chăm chỉ nên cô ấy đã thi đỗ.</li>
 			
 				</ul>
 
 
-			{/* 7 bước để viết câu có mệnh đề phụ thuộc */}
+			{/* 3. Bảy bước để viết câu có mệnh đề phụ thuộc */}
 
-			<h3 className="margin-y-50 text-center">7 bước để viết câu có mệnh đề phụ thuộc</h3>
+			<h3 className="margin-y-50 text-center">3. Bảy bước để viết câu có mệnh đề phụ thuộc</h3>
 
 			<h4 className="margin-y-40">Bước 1: Chọn từ nối phù hợp với ý bạn muốn diễn đạt</h4>
 					
@@ -135,7 +135,7 @@ export default function DependentClause7(): React.JSX.Element {
 
 			<h4 className="margin-y-40">Bước 2: Viết mệnh đề phụ thuộc</h4>
 					
-			<p className="text-indent-whole">Cấu trúc: Từ nối + Chủ ngữ + Động từ</p>
+			<p className="text-indent-whole">Cấu trúc: <strong>Từ nối</strong> + <strong>Chủ ngữ</strong> + <strong>Động từ</strong></p>
 			
 				<ul className="list-square">
 			
@@ -153,22 +153,24 @@ export default function DependentClause7(): React.JSX.Element {
 
 			<h4 className="margin-y-40">Bước 4: Ghép hai mệnh đề</h4>
 
-			<p className="text-indent-whole">Cấu trúc 1 — Mệnh đề phụ thuộc đứng đầu:</p>
+			<p className="text-indent-whole"><strong>Cấu trúc 1</strong> — <strong>Mệnh đề phụ thuộc đứng đầu</strong>:</p>
+
 			<p className="text-indent-whole">[Từ nối + Chủ ngữ + Động từ], + [Mệnh đề độc lập]</p>
 			
 				<ul className="list-square">
 			
-					<li>Because she studied hard, she passed the exam.</li>
+					<li><strong>Because she studied hard</strong>, she passed the exam.</li>
 					<li className="list-none">Vì học hành chăm chỉ nên cô ấy đã thi đỗ.</li>
 			
 				</ul>
 					
-			<p className="margin-top-20 text-indent-whole">Cấu trúc 2 — Mệnh đề phụ thuộc đứng cuối:</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Cấu trúc 2</strong> — <strong>Mệnh đề phụ thuộc đứng cuối</strong>:</p>
+
 			<p className="text-indent-whole">[Mệnh đề độc lập] + [Từ nối + Chủ ngữ + Động từ]</p>
 			
 				<ul className="list-square">
 			
-					<li>She passed the exam because she studied hard.</li>
+					<li>She passed the exam <strong>because she studied hard</strong>.</li>
 					<li className="list-none">Cô ấy thi đỗ vì đã học hành rất chăm chỉ.</li>
 			
 				</ul>
@@ -178,11 +180,11 @@ export default function DependentClause7(): React.JSX.Element {
 
 				<ul className="list-square">
 			
-					<li>Mệnh đề phụ thuộc đứng ĐẦU</li>
-					<li className="margin-bottom-20 list-none">→ DẤU PHẨY SAU mệnh đề</li>
+					<li>Mệnh đề phụ thuộc đứng <strong>ĐẦU</strong></li>
+					<li className="margin-bottom-20 list-none">→ <strong>DẤU PHẨY SAU</strong> mệnh đề</li>
 			
-					<li>Mệnh đề phụ thuộc đứng CUỐI</li>
-					<li className="list-none">→ KHÔNG có dấu phẩy</li>
+					<li>Mệnh đề phụ thuộc đứng <strong>CUỐI</strong></li>
+					<li className="list-none">→ <strong>KHÔNG</strong> có dấu phẩy</li>
 			
 				</ul>
 
@@ -190,10 +192,10 @@ export default function DependentClause7(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>Although it rained, we played.</li>
+					<li><strong>Although it rained</strong>, we played.</li>
 					<li className="margin-bottom-20 list-none">Mặc dù trời mưa nhưng chúng tôi vẫn chơi.</li>
 			
-					<li>Although it rained we played.</li>
+					<li><strong>Although it rained</strong> we played.</li>
 					<li className="list-none">Sai</li>
 			
 				</ul>
@@ -202,10 +204,10 @@ export default function DependentClause7(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>We played although it rained.</li>
+					<li>We played <strong>although it rained</strong>.</li>
 					<li className="margin-bottom-20 list-none">Chúng tôi vẫn chơi mặc dù trời mưa.</li>
 			
-					<li>We played, although it rained.</li>
+					<li>We played, <strong>although it rained</strong>.</li>
 					<li className="list-none">Sai</li>
 			
 				</ul>
@@ -215,7 +217,7 @@ export default function DependentClause7(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>Mệnh đề phụ thuộc có chủ ngữ + động từ?</li>
+					<li>Mệnh đề phụ thuộc có <strong>chủ ngữ</strong> + <strong>động từ</strong>?</li>
 			
 					<li>Từ nối có đúng với ý nghĩa bạn muốn?</li>
 
@@ -230,7 +232,7 @@ export default function DependentClause7(): React.JSX.Element {
 
 			<h4 className="margin-y-40">Bước 7: Luyện viết nhiều mẫu câu khác nhau</h4>
 					
-			<p className="text-indent-whole">Đừng chỉ dùng because. Hãy đa dạng hóa:</p>
+			<p className="text-indent-whole">Đừng chỉ dùng <strong>because</strong>. Hãy đa dạng hóa:</p>
 			
 				<ul className="list-square">
 			
@@ -258,15 +260,15 @@ export default function DependentClause7(): React.JSX.Element {
 				</ul>
 
 
-			{/* Cách phân biệt mệnh đề phụ thuộc và mệnh đề độc lập */}
+			{/* 4. Cách phân biệt mệnh đề phụ thuộc và mệnh đề độc lập */}
 
-			<h3 className="margin-y-50 text-center">Cách phân biệt mệnh đề phụ thuộc và mệnh đề độc lập</h3>
+			<h3 className="margin-y-50 text-center">4. Cách phân biệt mệnh đề phụ thuộc và mệnh đề độc lập</h3>
 
 			<h4 className="margin-y-40">1. Mệnh đề độc lập</h4>
 					
-			<p className="text-indent-whole">Có thể đứng một mình: ✅ Có</p>
+			<p className="text-indent-whole">✅ Có: Có thể đứng một mình</p>
 			<p className="text-indent-whole">Bắt đầu bằng từ nối: Không (hoặc FANBOYS)</p>
-			<p className="text-indent-whole">Ý nghĩa trọn vẹn: ✅ Có</p>
+			<p className="text-indent-whole">✅ Có: Ý nghĩa trọn vẹn</p>
 			
 				<ul className="list-square">
 			
@@ -278,13 +280,13 @@ export default function DependentClause7(): React.JSX.Element {
 
 			<h4 className="margin-y-40">2. Mệnh đề phụ thuộc</h4>
 					
-			<p className="text-indent-whole">Có thể đứng một mình: ❌ Không</p>
+			<p className="text-indent-whole">❌ Không: Có thể đứng một mình</p>
 			<p className="text-indent-whole">Bắt đầu bằng từ nối: ✅ Because, although, when, if, who, which...</p>
-			<p className="text-indent-whole">Ý nghĩa trọn vẹn: ❌ Không</p>
+			<p className="text-indent-whole">❌ Không: Ý nghĩa trọn vẹn</p>
 			
 				<ul className="list-square">
 			
-					<li>Because she studied hard</li>
+					<li><strong>Because she studied hard</strong></li>
 					<li className="list-none">Vì cô ấy học hành chăm chỉ...</li>
 			
 				</ul>
@@ -298,49 +300,49 @@ export default function DependentClause7(): React.JSX.Element {
 			
 					<li value="1">I called her</li>
 					<li className="list-none">Tôi đã gọi điện cho cô ấy.</li>
-					<li className="margin-bottom-20 list-none">→ Độc lập (câu hoàn chỉnh)</li>
+					<li className="margin-bottom-20 list-none">→ <strong>Độc lập</strong> (câu hoàn chỉnh)</li>
 			
 					<li value="2">when I arrived</li>
 					<li className="list-none">Khi tôi đến nơi...</li>
-					<li className="margin-bottom-20 list-none">→ Phụ thuộc (cần mệnh đề khác)</li>
+					<li className="margin-bottom-20 list-none">→ <strong>Phụ thuộc</strong> (cần mệnh đề khác)</li>
 
 					<li value="3">Because it was raining</li>
 					<li className="list-none">Vì trời mưa...</li>
-					<li className="margin-bottom-20 list-none">→ Phụ thuộc</li>
+					<li className="margin-bottom-20 list-none">→ <strong>Phụ thuộc</strong></li>
 
 					<li value="4">we stayed home</li>
 					<li className="list-none">Chúng tôi đã ở nhà.</li>
-					<li className="margin-bottom-20 list-none">→ Độc lập</li>
+					<li className="margin-bottom-20 list-none">→ <strong>Độc lập</strong></li>
 			
 					<li value="5">although she was tired</li>
 					<li className="list-none">Mặc dù cô ấy mệt..."</li>
-					<li className="list-none">→ Phụ thuộc</li>
+					<li className="list-none">→ <strong>Phụ thuộc</strong></li>
 			
 				</ol>
 			
 			<p className="margin-top-20"></p>
 
-			{/* Ba loại mệnh đề phụ thuộc — Phân biệt rõ ràng */}
+			{/* 5. Ba loại mệnh đề phụ thuộc — Phân biệt rõ ràng */}
 
-			<h3 className="margin-y-50 text-center">Ba loại mệnh đề phụ thuộc — Phân biệt rõ ràng</h3>
+			<h3 className="margin-y-50 text-center">5. Ba loại mệnh đề phụ thuộc — Phân biệt rõ ràng</h3>
 
 			<h4 className="margin-y-40">1. Mệnh đề trạng ngữ (Adverb Clause)</h4>
 					
-			<p className="text-indent-whole">Bổ nghĩa cho động từ, trả lời câu hỏi: khi nào? tại sao? nếu...?</p>
+			<p className="text-indent-whole">Bổ nghĩa cho <strong>động từ</strong>, trả lời câu hỏi: khi nào? tại sao? nếu...?</p>
 			
 				<ul className="list-square">
 			
-					<li>Because it was cold, we stayed home. (tại sao?)</li>
-					<li className="margin-bottom-20 list-none">Vì trời lạnh nên chúng tôi ở nhà.</li>
+					<li><strong>Because it was cold</strong>, we stayed home. (tại sao?)</li>
+					<li className="margin-bottom-20 list-none"><strong>Vì trời lạnh</strong>, chúng tôi ở nhà.</li>
 
-					<li>She called when she arrived. (khi nào?)</li>
-					<li className="margin-bottom-20 list-none">Cô ấy đã gọi điện ngay khi vừa đến nơi.</li>
+					<li>She called <strong>when she arrived</strong>. (khi nào?)</li>
+					<li className="margin-bottom-20 list-none">Cô ấy đã gọi điện <strong>ngay khi vừa đến nơi</strong>.</li>
 			
-					<li>If you study, you will pass. (nếu...)</li>
-					<li className="margin-bottom-20 list-none">Nếu bạn học bài, bạn sẽ đỗ thôi.</li>
+					<li><strong>If you study</strong>, you will pass. (nếu...)</li>
+					<li className="margin-bottom-20 list-none"><strong>Nếu bạn học bài</strong>, bạn sẽ đỗ thôi.</li>
 			
-					<li>Although he was rich, he was unhappy. (tương phản)</li>
-					<li className="list-none">Mặc dù giàu có nhưng anh ấy lại không hạnh phúc.</li>
+					<li><strong>Although he was rich</strong>, he was unhappy. (tương phản)</li>
+					<li className="list-none"><strong>Mặc dù giàu có</strong>, anh ấy lại không hạnh phúc.</li>
 			
 				</ul>
 			
@@ -348,20 +350,20 @@ export default function DependentClause7(): React.JSX.Element {
 
 			<h4 className="margin-y-40">2. Mệnh đề tính từ (Adjective Clause)</h4>
 					
-			<p className="text-indent-whole">Bổ nghĩa cho danh từ đứng trước nó.</p>
+			<p className="text-indent-whole">Bổ nghĩa cho <strong>danh từ</strong> đứng trước nó.</p>
 			
 				<ul className="list-square">
 			
-					<li>The book that I borrowed is great.</li>
-					<li className="margin-bottom-20 list-none">Cuốn sách – cái mà tôi đã mượn – thì tuyệt vời.</li>
+					<li>The book <strong>that I borrowed</strong> is great.</li>
+					<li className="margin-bottom-20 list-none">Cuốn sách – <strong>cái mà tôi đã mượn</strong> – thì tuyệt vời.</li>
 
 					<li className="margin-bottom-20 list-none">Quyển sách nào? → quyển mà tôi mượn</li>
 			
-					<li>The woman who lives next door is a doctor.</li>
-					<li className="margin-bottom-20 list-none">Người phụ nữ – người mà sống cạnh nhà – là một bác sĩ.</li>
+					<li>The woman <strong>who lives next door</strong> is a doctor.</li>
+					<li className="margin-bottom-20 list-none">Người phụ nữ – <strong>người mà sống cạnh nhà</strong> – là một bác sĩ.</li>
 			
-					<li>The car which he bought is fast.</li>
-					<li className="list-none">Chiếc xe – cái mà anh ấy đã mua – thì nhanh.</li>
+					<li>The car <strong>which he bought</strong> is fast.</li>
+					<li className="list-none">Chiếc xe – <strong>cái mà anh ấy đã mua</strong> – thì nhanh.</li>
 			
 				</ul>
 			
@@ -369,75 +371,75 @@ export default function DependentClause7(): React.JSX.Element {
 
 			<h4 className="margin-y-40">3. Mệnh đề danh từ (Noun Clause)</h4>
 					
-			<p className="text-indent-whole">Đóng vai trò như danh từ — làm chủ ngữ, tân ngữ, hoặc bổ ngữ.</p>
+			<p className="text-indent-whole">Đóng vai trò như <strong>danh từ</strong> — làm chủ ngữ, tân ngữ, hoặc bổ ngữ.</p>
 			
 				<ul className="list-square">
 			
-					<li>What she said is true. (chủ ngữ)</li>
-					<li className="margin-bottom-20 list-none">Những gì cô ấy nói là đúng đấy.</li>
+					<li><strong>What she said</strong> is true. (chủ ngữ)</li>
+					<li className="margin-bottom-20 list-none"><strong>Những gì cô ấy nói</strong> là đúng đấy.</li>
 			
-					<li>I don't know what she wants. (tân ngữ)</li>
-					<li className="margin-bottom-20 list-none">Tôi không biết cô ấy muốn gì.</li>
+					<li>I don't know <strong>what she wants</strong>. (tân ngữ)</li>
+					<li className="margin-bottom-20 list-none">Tôi không biết <strong>cô ấy muốn gì</strong>.</li>
 			
-					<li>The problem is that we have no money. (bổ ngữ)</li>
-					<li className="list-none">Vấn đề là chúng ta không có tiền.</li>
+					<li>The problem is <strong>that we have no money</strong>. (bổ ngữ)</li>
+					<li className="list-none">Vấn đề là <strong>chúng ta không có tiền</strong>.</li>
 			
 				</ul>
 			
-			<p className="margin-top-20 text-indent-whole">Dấu hiệu:that, what, who, whether, if, where, why, how</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Dấu hiệu</strong>: that, what, who, whether, if, where, why, how</p>
 
-			{/* Ví dụ thực tế */}
+			{/* 6. Ví dụ thực tế */}
 
-			<h3 className="margin-y-50 text-center">Ví dụ thực tế</h3>
+			<h3 className="margin-y-50 text-center">6. Ví dụ thực tế</h3>
 
 			<h4 className="margin-y-40">Mệnh đề trạng ngữ</h4>
 					
 				<ul className="list-square">
 
-					<li>Because she was sick, she didn't come.</li>
-					<li className="margin-bottom-20 list-none">Vì cô ấy bị ốm, cô ấy không đến.</li>
+					<li><strong>Because she was sick</strong>, she didn't come.</li>
+					<li className="margin-bottom-20 list-none"><strong>Vì cô ấy bị ốm</strong>, cô ấy không đến.</li>
 
-					<li>Although it rained, we played football.</li>
-					<li className="margin-bottom-20 list-none">Mặc dù trời mưa, chúng tôi vẫn chơi bóng.</li>
+					<li><strong>Although it rained</strong>, we played football.</li>
+					<li className="margin-bottom-20 list-none"><strong>Mặc dù trời mưa</strong>, chúng tôi vẫn chơi bóng.</li>
 			
-					<li>If you study hard, you will pass.</li>
-					<li className="margin-bottom-20 list-none">Nếu bạn học chăm, bạn sẽ đậu.</li>
+					<li><strong>If you study hard</strong>, you will pass.</li>
+					<li className="margin-bottom-20 list-none"><strong>Nếu bạn học chăm</strong>, bạn sẽ đậu.</li>
 
-					<li>She called when I arrived.</li>
-					<li className="margin-bottom-20 list-none">Cô ấy gọi khi tôi đến.</li>
+					<li>She called <strong>when I arrived</strong>.</li>
+					<li className="margin-bottom-20 list-none">Cô ấy gọi <strong>khi tôi đến</strong>.</li>
 			
-					<li>While I was sleeping, he left.</li>
-					<li className="margin-bottom-20 list-none">Trong khi tôi đang ngủ, anh ấy rời đi.</li>
+					<li><strong>While I was sleeping</strong>, he left.</li>
+					<li className="margin-bottom-20 list-none"><strong>Trong khi tôi đang ngủ</strong>, anh ấy rời đi.</li>
 			
-					<li>He left before I could say hello.</li>
-					<li className="margin-bottom-20 list-none">Anh ấy rời đi trước khi tôi có thể chào.</li>
+					<li>He left <strong>before I could say hello</strong>.</li>
+					<li className="margin-bottom-20 list-none">Anh ấy rời đi <strong>trước khi tôi có thể chào</strong>.</li>
 
-					<li>Wait until I come back.</li>
-					<li className="margin-bottom-20 list-none">Đợi cho đến khi tôi quay lại.</li>
+					<li>Wait <strong>until I come back</strong>.</li>
+					<li className="margin-bottom-20 list-none">Đợi <strong>cho đến khi tôi quay lại</strong>.</li>
 			
-					<li>Since you asked, I will tell you.</li>
-					<li className="margin-bottom-20 list-none">Vì bạn hỏi, tôi sẽ nói cho bạn.</li>
+					<li><strong>Since you asked</strong>, I will tell you.</li>
+					<li className="margin-bottom-20 list-none"><strong>Vì bạn hỏi</strong>, tôi sẽ nói cho bạn.</li>
 
-					<li>I won't go unless you come.</li>
-					<li className="margin-bottom-20 list-none">Tôi sẽ không đi trừ khi bạn đến.</li>
+					<li>I won't go <strong>unless you come</strong>.</li>
+					<li className="margin-bottom-20 list-none">Tôi sẽ không đi <strong>trừ khi bạn đến</strong>.</li>
 			
-					<li>As time passed, things improved.</li>
-					<li className="margin-bottom-20 list-none">Khi thời gian trôi, mọi thứ cải thiện.</li>
+					<li><strong>As time passed</strong>, things improved.</li>
+					<li className="margin-bottom-20 list-none"><strong>Khi thời gian trôi</strong>, mọi thứ cải thiện.</li>
 
-					<li>Even though he was rich, he was unhappy.</li>
-					<li className="margin-bottom-20 list-none">Ngay cả khi anh ấy giàu, anh ấy không hạnh phúc.</li>
+					<li><strong>Even though he was rich</strong>, he was unhappy.</li>
+					<li className="margin-bottom-20 list-none"><strong>Ngay cả khi anh ấy giàu</strong>, anh ấy không hạnh phúc.</li>
 			
-					<li>She has lived here since she was a child.</li>
-					<li className="margin-bottom-20 list-none">Cô ấy sống ở đây từ khi cô ấy còn nhỏ.</li>
+					<li>She has lived here <strong>since she was a child</strong>.</li>
+					<li className="margin-bottom-20 list-none">Cô ấy sống ở đây <strong>từ khi cô ấy còn nhỏ</strong>.</li>
 
-					<li>When the bell rang, students left.</li>
-					<li className="margin-bottom-20 list-none">Khi chuông reo, học sinh rời đi.</li>
+					<li><strong>When the bell rang</strong>, students left.</li>
+					<li className="margin-bottom-20 list-none"><strong>Khi chuông reo</strong>, học sinh rời đi.</li>
 			
-					<li>While he was cooking, she set the table.</li>
-					<li className="margin-bottom-20 list-none">Trong khi anh ấy đang nấu ăn, cô ấy dọn bàn.</li>
+					<li><strong>While he was cooking</strong>, she set the table.</li>
+					<li className="margin-bottom-20 list-none"><strong>Trong khi anh ấy đang nấu ăn</strong>, cô ấy dọn bàn.</li>
 			
-					<li>Call me after you finish.</li>
-					<li className="list-none">Gọi tôi sau khi bạn hoàn thành.</li>
+					<li>Call me <strong>after you finish</strong>.</li>
+					<li className="list-none">Gọi tôi <strong>sau khi bạn hoàn thành</strong>.</li>
 			
 				</ul>
 			
@@ -446,35 +448,35 @@ export default function DependentClause7(): React.JSX.Element {
 					
 				<ul className="list-square">
 			
-					<li>The book that I borrowed is fascinating.</li>
-					<li className="margin-bottom-20 list-none">Quyển sách mà tôi mượn rất hấp dẫn.</li>
+					<li>The book <strong>that I borrowed</strong> is fascinating.</li>
+					<li className="margin-bottom-20 list-none">Quyển sách <strong>mà tôi mượn</strong> rất hấp dẫn.</li>
 
-					<li>The woman who lives here is a doctor.</li>
-					<li className="margin-bottom-20 list-none">Người phụ nữ sống ở đây là bác sĩ.</li>
+					<li>The woman <strong>who lives here</strong> is a doctor.</li>
+					<li className="margin-bottom-20 list-none">Người phụ nữ <strong>sống ở đây</strong> là bác sĩ.</li>
 			
-					<li>The car which he bought is fast.</li>
-					<li className="margin-bottom-20 list-none">Chiếc xe mà anh ấy mua rất nhanh.</li>
+					<li>The car <strong>which he bought</strong> is fast.</li>
+					<li className="margin-bottom-20 list-none">Chiếc xe <strong>mà anh ấy mua</strong> rất nhanh.</li>
 
-					<li>The man whose car was stolen called police.</li>
-					<li className="margin-bottom-20 list-none">Người đàn ông có xe bị đánh cắp gọi cảnh sát.</li>
+					<li>The man <strong>whose car was stolen</strong> called police.</li>
+					<li className="margin-bottom-20 list-none">Người đàn ông <strong>có xe bị đánh cắp</strong> gọi cảnh sát.</li>
 			
-					<li>This is the restaurant where we met.</li>
-					<li className="margin-bottom-20 list-none">Đây là nhà hàng nơi chúng tôi gặp nhau.</li>
+					<li>This is the restaurant <strong>where we met</strong>.</li>
+					<li className="margin-bottom-20 list-none">Đây là nhà hàng <strong>nơi chúng tôi gặp nhau</strong>.</li>
 
-					<li>I remember the day when we first met.</li>
-					<li className="margin-bottom-20 list-none">Tôi nhớ ngày khi chúng tôi lần đầu gặp nhau.</li>
+					<li>I remember the day <strong>when we first met</strong>.</li>
+					<li className="margin-bottom-20 list-none">Tôi nhớ ngày <strong>khi chúng tôi lần đầu gặp nhau</strong>.</li>
 			
-					<li>The reason why he left is unknown.</li>
-					<li className="margin-bottom-20 list-none">Lý do tại sao anh ấy rời đi chưa rõ.</li>
+					<li>The reason <strong>why he left</strong> is unknown.</li>
+					<li className="margin-bottom-20 list-none">Lý do <strong>tại sao anh ấy rời đi</strong> chưa rõ.</li>
 
-					<li>She is the person who can help you.</li>
-					<li className="margin-bottom-20 list-none">Cô ấy là người có thể giúp bạn.</li>
+					<li>She is the person <strong>who can help you</strong>.</li>
+					<li className="margin-bottom-20 list-none">Cô ấy là người <strong>có thể giúp bạn</strong>.</li>
 			
-					<li>The movie that we watched was boring.</li>
-					<li className="margin-bottom-20 list-none">Bộ phim mà chúng tôi xem rất nhàm chán.</li>
+					<li>The movie <strong>that we watched</strong> was boring.</li>
+					<li className="margin-bottom-20 list-none">Bộ phim <strong>mà chúng tôi xem</strong> rất nhàm chán.</li>
 			
-					<li>Do you know the boy who is standing there?</li>
-					<li className="list-none">Bạn có biết cậu bé đang đứng đó không?</li>
+					<li>Do you know the boy <strong>who is standing there</strong>?</li>
+					<li className="list-none">Bạn có biết cậu bé <strong>đang đứng đó</strong> không?</li>
 			
 				</ul>
 			
@@ -483,41 +485,41 @@ export default function DependentClause7(): React.JSX.Element {
 					
 				<ul className="list-square">
 			
-					<li>I don't know what she wants.</li>
-					<li className="margin-bottom-20 list-none">Tôi không biết cô ấy muốn gì.</li>
+					<li>I don't know <strong>what she wants</strong>.</li>
+					<li className="margin-bottom-20 list-none">Tôi không biết <strong>cô ấy muốn gì</strong>.</li>
 
-					<li>Whether he will come is unclear.</li>
-					<li className="margin-bottom-20 list-none">Liệu anh ấy có đến vẫn chưa rõ.</li>
+					<li><strong>Whether he will come</strong> is unclear.</li>
+					<li className="margin-bottom-20 list-none"><strong>Liệu anh ấy có đến</strong> vẫn chưa rõ.</li>
 
-					<li>She said that she was busy.</li>
-					<li className="margin-bottom-20 list-none">Cô ấy nói rằng cô ấy bận.</li>
+					<li>She said <strong>that she was busy</strong>.</li>
+					<li className="margin-bottom-20 list-none">Cô ấy nói <strong>rằng cô ấy bận</strong>.</li>
 			
-					<li>What he said is true.</li>
-					<li className="margin-bottom-20 list-none">Điều anh ấy nói là sự thật.</li>
+					<li><strong>What he said</strong> is true.</li>
+					<li className="margin-bottom-20 list-none"><strong>Điều anh ấy nói</strong> là sự thật.</li>
 
-					<li>I wonder if it will rain.</li>
-					<li className="margin-bottom-20 list-none">Tôi tự hỏi liệu trời có mưa không.</li>
+					<li>I wonder <strong>if it will rain</strong>.</li>
+					<li className="margin-bottom-20 list-none">Tôi tự hỏi <strong>liệu trời có mưa không</strong>.</li>
 			
-					<li>The problem is that we have no money.</li>
-					<li className="margin-bottom-20 list-none">Vấn đề là chúng tôi không có tiền.</li>
+					<li>The problem is <strong>that we have no money</strong>.</li>
+					<li className="margin-bottom-20 list-none">Vấn đề là <strong>chúng tôi không có tiền</strong>.</li>
 
-					<li>Whoever calls should leave a message.</li>
-					<li className="margin-bottom-20 list-none">Bất kỳ ai gọi nên để lại tin nhắn.</li>
+					<li><strong>Whoever calls</strong> should leave a message.</li>
+					<li className="margin-bottom-20 list-none"><strong>Bất kỳ ai gọi</strong> nên để lại tin nhắn.</li>
 			
-					<li>I believe that you can do it.</li>
-					<li className="margin-bottom-20 list-none">Tôi tin rằng bạn có thể làm được.</li>
+					<li>I believe <strong>that you can do it</strong>.</li>
+					<li className="margin-bottom-20 list-none">Tôi tin <strong>rằng bạn có thể làm được</strong>.</li>
 			
-					<li>Do you know where she lives?</li>
-					<li className="margin-bottom-20 list-none">Bạn có biết cô ấy sống ở đâu không?</li>
+					<li>Do you know <strong>where she lives</strong>?</li>
+					<li className="margin-bottom-20 list-none">Bạn có biết <strong>cô ấy sống ở đâu</strong> không?</li>
 			
-					<li>What matters most is your effort.</li>
-					<li className="list-none">Điều quan trọng nhất là nỗ lực của bạn.</li>
+					<li><strong>What matters most</strong> is your effort.</li>
+					<li className="list-none"><strong>Điều quan trọng nhất</strong> là nỗ lực của bạn.</li>
 			
 				</ul>
 
-			{/* Lỗi phổ biến — Tránh ngay */}
+			{/* 7. Lỗi phổ biến — Tránh ngay */}
 
-			<h3 className="margin-y-50 text-center">Lỗi phổ biến — Tránh ngay</h3>
+			<h3 className="margin-y-50 text-center">7. Lỗi phổ biến — Tránh ngay</h3>
 
 			<h4 className="margin-y-40">Lỗi 1</h4>
 
@@ -526,7 +528,7 @@ export default function DependentClause7(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>Because I was late, I missed the bus.</li>
+					<li><strong>Because I was late</strong>, I missed the bus.</li>
 					<li className="list-none">Vì đến muộn nên tôi đã bị lỡ chuyến xe buýt.</li>
 			
 				</ul>
@@ -538,7 +540,7 @@ export default function DependentClause7(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>The man who called.</li>
+					<li>The man <strong>who</strong> called.</li>
 					<li className="list-none">Người đàn ông, người mà đã gọi điện.</li>
 			
 				</ul>
@@ -551,7 +553,7 @@ export default function DependentClause7(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>I know that he is smart.</li>
+					<li>I know <strong>that he is smart</strong>.</li>
 					<li className="list-none">1 câu</li>
 					<li className="list-none">Tôi biết anh ấy thông minh mà.</li>
 			
@@ -564,10 +566,10 @@ export default function DependentClause7(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>Although it rained.</li>
+					<li><strong>Although it rained</strong>.</li>
 					<li className="margin-bottom-20 list-none">Mặc dù trời đã mưa...</li>
 			
-					<li>Despite the rain.</li>
+					<li><strong>Despite the rain</strong>.</li>
 					<li className="list-none">Dù trời mưa...</li>
 			
 				</ul>
@@ -579,7 +581,7 @@ export default function DependentClause7(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>I don't know what it is.</li>
+					<li>I don't know <strong>what it is</strong>.</li>
 					<li className="list-none">Tôi không biết đó là cái gì.</li>
 			
 				</ul>
@@ -592,10 +594,10 @@ export default function DependentClause7(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>Although he was rich.</li>
+					<li><strong>Although</strong> he was rich.</li>
 					<li className="margin-bottom-20 list-none">Mặc dù anh ấy giàu có...</li>
 			
-					<li>But he was rich.</li>
+					<li><strong>But</strong> he was rich.</li>
 					<li className="list-none">Dù ông ấy giàu...</li>
 			
 				</ul>
@@ -608,15 +610,15 @@ export default function DependentClause7(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>The girl who sings.</li>
+					<li>The girl <strong>who</strong> sings.</li>
 					<li className="list-none">Cô gái, người mà hát.</li>
 			
 				</ul>
 			
 
-			{/* Chiến lược 30 ngày để thành thạo */}
+			{/* 8. Chiến lược 30 ngày để thành thạo */}
 
-			<h3 className="margin-y-50 text-center">Chiến lược 30 ngày để thành thạo</h3>
+			<h3 className="margin-y-50 text-center">8. Chiến lược 30 ngày để thành thạo</h3>
 
 			<p className="margin-top-20">Tuần 1: Xây nền tảng</p>
 			
@@ -670,9 +672,9 @@ export default function DependentClause7(): React.JSX.Element {
 				</ul>
 
 
-			{/* Bảng tổng kết nhanh */}
+			{/* 9. Bảng tổng kết nhanh */}
 
-			<h3 className="margin-y-50 text-center">Bảng tổng kết nhanh</h3>
+			<h3 className="margin-y-50 text-center">9. Bảng tổng kết nhanh</h3>
 
 			<h4 className="margin-y-40">Loại mệnh đề: Trạng ngữ</h4>
 
@@ -681,7 +683,7 @@ export default function DependentClause7(): React.JSX.Element {
 					
 				<ul className="list-square">
 			
-					<li>If it rains, we cancel.</li>
+					<li><strong>If it rains</strong>, we cancel.</li>
 					<li className="list-none">Nếu trời mưa, chúng ta sẽ hủy bỏ.</li>
 			
 				</ul>
@@ -694,7 +696,7 @@ export default function DependentClause7(): React.JSX.Element {
 					
 				<ul className="list-square">
 			
-					<li>The car that he bought is fast.</li>
+					<li>The car <strong>that he bought</strong> is fast.</li>
 					<li className="list-none">Chiếc xe anh ấy mới mua chạy nhanh lắm.</li>
 			
 				</ul>
@@ -707,17 +709,17 @@ export default function DependentClause7(): React.JSX.Element {
 					
 				<ul className="list-square">
 			
-					<li>I know what she means.</li>
+					<li>I know <strong>what she means</strong>.</li>
 					<li className="list-none">Tôi biết cô ấy muốn nói gì.</li>
 			
 				</ul>
 			
 
-			{/* Đánh bóng kỹ năng — Viết như người bản xứ */}
+			{/* 10. Đánh bóng kỹ năng — Viết như người bản xứ */}
 
-			<h3 className="margin-y-50 text-center">Đánh bóng kỹ năng — Viết như người bản xứ</h3>
+			<h3 className="margin-y-50 text-center">10. Đánh bóng kỹ năng — Viết như người bản xứ</h3>
 			
-			<p className="margin-top-20">Người mới bắt đầu:</p>
+			<p className="margin-top-20"><strong>Người mới bắt đầu</strong>:</p>
 			
 				<ul className="list-square">
 			
@@ -727,7 +729,7 @@ export default function DependentClause7(): React.JSX.Element {
 				</ul>
 			
 
-			<p className="margin-top-20">Người trung cấp:</p>
+			<p className="margin-top-20"><strong>Người trung cấp</strong>:</p>
 			
 				<ul className="list-square">
 			
@@ -737,7 +739,7 @@ export default function DependentClause7(): React.JSX.Element {
 				</ul>
 
 
-			<p className="margin-top-20">Người thành thạo:</p>
+			<p className="margin-top-20"><strong>Người thành thạo</strong>:</p>
 			
 				<ul className="list-square">
 			
@@ -746,22 +748,22 @@ export default function DependentClause7(): React.JSX.Element {
 			
 				</ul>
 			
-			<p className="margin-top-20">Câu cuối có ba mệnh đề, hai mệnh đề phụ thuộc (because... và although...) và một mệnh đề tính từ (which...). Đây là mức độ người bản xứ.</p>
+			<p className="margin-top-20">Câu cuối có <strong>ba mệnh đề</strong>, hai mệnh đề phụ thuộc (because... và although...) và một mệnh đề tính từ (which...). Đây là mức độ <strong>người bản xứ</strong>.</p>
 
 			{/* Kết luận */}
 
 			<h3 className="margin-y-50 text-center">Kết luận</h3>
 
-			<p>Mệnh đề phụ thuộc không thể đứng một mình — đó là đặc điểm xác định. Nhưng chính vì vậy, khi kết hợp với mệnh đề độc lập, nó tạo nên câu phức — công cụ mạnh nhất để viết tiếng Anh học thuật, mạch lạc và tự nhiên.</p>
+			<p>Mệnh đề phụ thuộc <strong>không thể đứng một mình</strong> — đó là đặc điểm xác định. Nhưng chính vì vậy, khi kết hợp với mệnh đề độc lập, nó tạo nên <strong>câu phức</strong> — công cụ mạnh nhất để viết tiếng Anh học thuật, mạch lạc và tự nhiên.</p>
 
 			<p>Thành thạo mệnh đề phụ thuộc = Viết câu phức dễ dàng = Nâng band IELTS/TOEFL = Viết như người bản xứ.</p>
 
-			<p>Bắt đầu ngay hôm nay: Chọn although, viết 5 câu phức. Trong 7 ngày, bạn sẽ thấy sự khác biệt. Trong 30 ngày, bạn sẽ không còn viết câu đơn nữa.</p>
+			<p>Bắt đầu ngay hôm nay: Chọn <strong>although</strong>, viết 5 câu phức. Trong 7 ngày, bạn sẽ thấy sự khác biệt. Trong 30 ngày, bạn sẽ không còn viết câu đơn nữa.</p>
 
 			<div className="viewcounter">
 			
 				<div className="post-date no-margin">
-					<span>May 16, 2026 · by PPLX and 🐝Mr. Bee Osn ·</span>
+					<span>May 17, 2026 · by PPLX and 🐝Mr. Bee Osn ·</span>
 				</div>
 
 				<div className="eye-icon no-margin">
