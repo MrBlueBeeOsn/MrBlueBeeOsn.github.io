@@ -64,7 +64,7 @@ export default function DependentClause9(): React.JSX.Element {
 
 			<p>Hãy hình dung một câu văn như một bản giao hưởng. Mệnh đề độc lập là giai điệu chính, là chủ đề xuyên suốt. Mệnh đề phụ thuộc là những đoạn biến tấu, những hòa âm, những nốt nhạc bổ sung, chúng tự thân có giai điệu riêng nhưng chỉ thực sự thăng hoa khi được đặt vào tổng thể bản nhạc. Nếu tách rời, chúng sẽ trở nên lạc lõng và thiếu đi ngữ cảnh, không thể tạo nên một tác phẩm hoàn chỉnh.</p>
 
-			<p className="margin-top-20">Chẳng hạn, khi bạn nghe</p>
+			<p className="margin-top-20">Chẳng hạn, khi bạn nghe:</p>
 			
 				<ul className="list-square">
 			
@@ -79,7 +79,7 @@ export default function DependentClause9(): React.JSX.Element {
 				<ul className="list-square">
 			
 					<li>...the city lights up.</li>
-					<li className="list-none">thành phố lên đèn.</li>
+					<li className="list-none">...thành phố lên đèn.</li>
 			
 				</ul>
 			
@@ -140,7 +140,7 @@ export default function DependentClause9(): React.JSX.Element {
 
 			<p className="text-indent-whole">Nếu mệnh đề danh ngữ làm tân ngữ trực tiếp, nó đứng sau động từ và là đối tượng chịu tác động của hành động, giúp làm rõ thông tin mà động từ hướng tới.</p>
 
-			<p className="text-indent-whole">Chẳng hạn</p>
+			<p className="text-indent-whole">Chẳng hạn:</p>
 			
 				<ul className="list-square">
 			
@@ -184,7 +184,7 @@ export default function DependentClause9(): React.JSX.Element {
 			
 				</ul>
 					
-			<p className="margin-top-20 text-indent-whole">Là mệnh đề danh ngữ, làm bổ ngữ cho chủ ngữ "The problem". Nó không chỉ nêu vấn đề mà còn định nghĩa bản chất của vấn đề đó, mang lại sự rõ ràng và đầy đủ cho thông tin, giúp người đọc hiểu sâu sắc hơn về tình huống. Đây là cách hiệu quả để cung cấp một lời giải thích toàn diện cho một khái niệm, biến một vấn đề thành một sự thật hiển nhiên, thay vì chỉ một tính từ đơn thuần như</p>
+			<p className="margin-top-20 text-indent-whole">Là mệnh đề danh ngữ, làm bổ ngữ cho chủ ngữ "The problem". Nó không chỉ nêu vấn đề mà còn định nghĩa bản chất của vấn đề đó, mang lại sự rõ ràng và đầy đủ cho thông tin, giúp người đọc hiểu sâu sắc hơn về tình huống. Đây là cách hiệu quả để cung cấp một lời giải thích toàn diện cho một khái niệm, biến một vấn đề thành một sự thật hiển nhiên, thay vì chỉ một tính từ đơn thuần như:</p>
 			
 				<ul className="list-square">
 			
@@ -196,7 +196,7 @@ export default function DependentClause9(): React.JSX.Element {
 
 			<h4 className="margin-y-40">Làm Tân ngữ của giới từ:</h4>
 
-			<p className="text-indent-whole">Thậm chí, mệnh đề danh ngữ còn có thể làm tân ngữ của giới từ, như trong</p>
+			<p className="text-indent-whole">Thậm chí, mệnh đề danh ngữ còn có thể làm tân ngữ của giới từ, như trong:</p>
 			
 				<ul className="list-square">
 			
@@ -233,7 +233,7 @@ export default function DependentClause9(): React.JSX.Element {
 
 			<p className="text-indent-whole">Khi bổ nghĩa cho người, chúng ta thường dùng who (làm chủ ngữ trong mệnh đề phụ), whom (làm tân ngữ), hoặc whose (chỉ sở hữu).</p>
 
-			<p className="text-indent-whole">Ví dụ</p>
+			<p className="text-indent-whole">Ví dụ:</p>
 			
 				<ul className="list-square">
 			
@@ -278,7 +278,18 @@ export default function DependentClause9(): React.JSX.Element {
 			
 				</ul>
 			
-			<p className="margin-top-20 text-indent-whole">Mệnh đề "that I bought" là mệnh đề tính ngữ, bổ nghĩa cho "book". "That" ở đây đóng vai trò tân ngữ của động từ "bought" trong mệnh đề tính ngữ, cho phép chúng ta chỉ định một vật thể thông qua một hành động liên quan đến nó, thay vì chỉ một tính từ chung chung, làm cho mô tả trở nên cụ thể và dễ hình dung. Điều này giúp tránh sự mơ hồ và làm cho thông tin trở nên chính xác hơn, tạo nên sự rõ ràng trong giao tiếp. Thay vì "The interesting book...", mệnh đề tính ngữ cho biết lý do cuốn sách thú vị.</p>
+			<p className="margin-top-20 text-indent-whole">Mệnh đề "that I bought" là mệnh đề tính ngữ, bổ nghĩa cho "book". "That" ở đây đóng vai trò tân ngữ của động từ "bought" trong mệnh đề tính ngữ, cho phép chúng ta chỉ định một vật thể thông qua một hành động liên quan đến nó, thay vì chỉ một tính từ chung chung, làm cho mô tả trở nên cụ thể và dễ hình dung. Điều này giúp tránh sự mơ hồ và làm cho thông tin trở nên chính xác hơn, tạo nên sự rõ ràng trong giao tiếp.</p>
+
+			<p className="text-indent-whole">Thay vì:</p>
+
+			<ul className="list-square">
+			
+					<li>The interesting book...</li>
+					<li className="list-none">Cuốn sách thú vị...</li>
+			
+				</ul>
+			
+			<p className="margin-top-20 text-indent-whole">Mệnh đề tính ngữ cho biết lý do cuốn sách thú vị.</p>
 			
 
 			<h4 className="margin-y-40">Bổ nghĩa cho nơi chốn/thời gian/lý do:</h4>
@@ -327,7 +338,16 @@ export default function DependentClause9(): React.JSX.Element {
 			
 				</ul>
 			
-			<p className="margin-top-20 text-indent-whole">Mệnh đề "While she was reading" là mệnh đề trạng ngữ chỉ thời gian, bổ nghĩa cho động từ "rang" trong mệnh đề chính "her phone rang". Nó không chỉ cho biết thời điểm mà hành động "her phone rang" xảy ra, mà còn mô tả một hành động đang diễn ra song song, tạo ra một bức tranh thời gian sống động hơn. Nó bổ nghĩa cho động từ "rang" bằng cách trả lời câu hỏi "When did her phone ring?", thêm vào yếu tố ngữ cảnh quan trọng và làm rõ mối quan hệ thời gian giữa hai sự kiện, giúp người đọc hình dung rõ hơn về tình huống và cảm nhận được sự đồng thời của các hành động.</p>
+			<p className="margin-top-20 text-indent-whole">Mệnh đề "While she was reading" là mệnh đề trạng ngữ chỉ thời gian, bổ nghĩa cho động từ "rang" trong mệnh đề chính "her phone rang". Nó không chỉ cho biết thời điểm mà hành động "her phone rang" xảy ra, mà còn mô tả một hành động đang diễn ra song song, tạo ra một bức tranh thời gian sống động hơn. Nó bổ nghĩa cho động từ "rang" bằng cách trả lời câu hỏi:</p>
+
+			<ul className="list-square">
+			
+					<li>When did her phone ring?</li>
+					<li className="list-none">Điện thoại của cô ấy reo lúc nào thế?</li>
+			
+				</ul>
+			
+			<p className="margin-top-20 text-indent-whole">Thêm vào yếu tố ngữ cảnh quan trọng và làm rõ mối quan hệ thời gian giữa hai sự kiện, giúp người đọc hình dung rõ hơn về tình huống và cảm nhận được sự đồng thời của các hành động.</p>
 
 
 			<h4 className="margin-y-40">2. Nguyên nhân</h4>
@@ -341,7 +361,16 @@ export default function DependentClause9(): React.JSX.Element {
 			
 				</ul>
 			
-			<p className="margin-top-20 text-indent-whole">Mệnh đề "Because it was raining" là mệnh đề trạng ngữ chỉ nguyên nhân, bổ nghĩa cho hành động "we stayed indoors". Nó cung cấp lý do trực tiếp và rõ ràng cho việc "we stayed indoors". Nó trả lời câu hỏi "Why did we stay indoors?", thiết lập mối quan hệ nhân quả một cách chặt chẽ và thuyết phục, giúp người đọc hiểu được động cơ của hành động. Điều này làm cho lập luận trở nên logic và dễ hiểu, tăng cường tính thuyết phục của thông tin.</p>
+			<p className="margin-top-20 text-indent-whole">Mệnh đề "Because it was raining" là mệnh đề trạng ngữ chỉ nguyên nhân, bổ nghĩa cho hành động "we stayed indoors". Nó cung cấp lý do trực tiếp và rõ ràng cho việc "we stayed indoors". Nó trả lời câu hỏi:</p>
+
+			<ul className="list-square">
+			
+					<li>Why did we stay indoors?</li>
+					<li className="list-none">Vì sao chúng ta lại ở trong nhà?</li>
+			
+				</ul>
+			
+			<p className="margin-top-20 text-indent-whole">Thiết lập mối quan hệ nhân quả một cách chặt chẽ và thuyết phục, giúp người đọc hiểu được động cơ của hành động. Điều này làm cho lập luận trở nên logic và dễ hiểu, tăng cường tính thuyết phục của thông tin.</p>
 
 
 			<h4 className="margin-y-40">3. Điều kiện</h4>
@@ -355,7 +384,16 @@ export default function DependentClause9(): React.JSX.Element {
 			
 				</ul>
 			
-			<p className="margin-top-20 text-indent-whole">Mệnh đề "If you study hard" là mệnh đề trạng ngữ chỉ điều kiện, bổ nghĩa cho mệnh đề chính "you will pass the exam". Nó thiết lập điều kiện cần thiết để "you will pass the exam". Nó trả lời câu hỏi "Under what condition will you pass the exam?", cho phép người viết đưa ra các giả định hoặc yêu cầu, tạo nên sự rõ ràng về các tình huống có thể xảy ra và hệ quả của chúng. Đây là cách hiệu quả để trình bày các kịch bản khác nhau và nhấn mạnh tầm quan trọng của điều kiện.</p>
+			<p className="margin-top-20 text-indent-whole">Mệnh đề "If you study hard" là mệnh đề trạng ngữ chỉ điều kiện, bổ nghĩa cho mệnh đề chính "you will pass the exam". Nó thiết lập điều kiện cần thiết để "you will pass the exam". Nó trả lời câu hỏi:</p>
+
+			<ul className="list-square">
+			
+					<li>Under what condition will you pass the exam?</li>
+					<li className="list-none">Trong điều kiện nào thì bạn sẽ vượt qua kỳ thi?</li>
+			
+				</ul>
+			
+			<p className="margin-top-20 text-indent-whole">Cho phép người viết đưa ra các giả định hoặc yêu cầu, tạo nên sự rõ ràng về các tình huống có thể xảy ra và hệ quả của chúng. Đây là cách hiệu quả để trình bày các kịch bản khác nhau và nhấn mạnh tầm quan trọng của điều kiện.</p>
 
 
 			<h4 className="margin-y-40">4. Nhượng bộ/Tương phản</h4>
