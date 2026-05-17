@@ -85,7 +85,7 @@ export default function DependentClause9(): React.JSX.Element {
 			
 			<p className="margin-top-20">Ở đây, "When the sun sets" là mệnh đề phụ thuộc, nó tạo ra bối cảnh thời gian cho hành động chính "the city lights up". </p>
 					
-			<p>Tương tự, nếu ai đó nói</p>
+			<p>Tương tự, nếu ai đó nói:</p>
 			
 				<ul className="list-square">
 			
@@ -207,7 +207,7 @@ export default function DependentClause9(): React.JSX.Element {
 
 			<p className="margin-top-20 text-indent-whole">Nơi "what will happen next" là mệnh đề danh ngữ, làm đối tượng của giới từ "about". Mệnh đề này cho phép chúng ta diễn đạt sự lo lắng về một sự kiện hoặc tình huống chưa xác định, thay vì chỉ một danh từ cụ thể, thể hiện sự linh hoạt trong việc biểu đạt cảm xúc và suy nghĩ về tương lai. Nó cho phép giới từ chi phối một ý tưởng phức tạp, làm cho câu văn trở nên uyển chuyển và giàu sắc thái hơn.</p>
 					
-			<p className="text-indent-whole">Thay vì</p>
+			<p className="text-indent-whole">Thay vì:</p>
 			
 				<ul className="list-square">
 			
