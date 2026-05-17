@@ -54,9 +54,9 @@ export default function SentenceVariety6(): React.JSX.Element {
 					
 			<p>Khi hiểu rõ và sử dụng thành thạo, bạn sẽ viết câu phức tinh tế, đọc hiểu sâu hơn và diễn đạt ý tưởng mạch lạc hơn.</p>
 
-			{/* 🔎 Cách nhận biết nhanh */}
+			{/* 1. 🔎 Cách nhận biết nhanh */}
 
-			<h3 className="margin-y-50 text-center">🔎 Cách nhận biết nhanh</h3>
+			<h3 className="margin-y-50 text-center">1. 🔎 Cách nhận biết nhanh</h3>
 			
 				<ul className="list-square">
 			
@@ -95,9 +95,9 @@ export default function SentenceVariety6(): React.JSX.Element {
 			
 			<p className="margin-top-20 text-indent-whole"></p>
 
-			{/* ✍️ Các loại dependent clause */}
+			{/* 2. ✍️ Các loại dependent clause */}
 
-			<h3 className="margin-y-50 text-center">✍️ Các loại dependent clause</h3>
+			<h3 className="margin-y-50 text-center">2. ✍️ Các loại dependent clause</h3>
 			
 			<h4 className="margin-y-40">1. Adverbial Clause (Mệnh đề trạng ngữ)</h4>
 					
@@ -143,9 +143,9 @@ export default function SentenceVariety6(): React.JSX.Element {
 			
 				</ul>
 
-			{/* 🛠 Các bước để viết câu có dependent clause */}
+			{/* 3. 🛠 Các bước để viết câu có dependent clause */}
 
-			<h3 className="margin-y-50 text-center">🛠 Các bước để viết câu có dependent clause</h3>
+			<h3 className="margin-y-50 text-center">3. 🛠 Các bước để viết câu có dependent clause</h3>
 
 			<h4 className="margin-y-40">1. Chọn từ nối phù hợp:</h4>
 					
@@ -196,9 +196,9 @@ export default function SentenceVariety6(): React.JSX.Element {
 			
 				</ul>
 
-			{/* 💡 Mẹo nhớ và tránh lỗi */}
+			{/* 4. 💡 Mẹo nhớ và tránh lỗi */}
 
-			<h3 className="margin-y-50 text-center">💡 Mẹo nhớ và tránh lỗi</h3>
+			<h3 className="margin-y-50 text-center">4. 💡 Mẹo nhớ và tránh lỗi</h3>
 
 			<h4 className="margin-y-40">Clause ≠ Phrase:</h4>
 					
@@ -252,9 +252,9 @@ export default function SentenceVariety6(): React.JSX.Element {
 				</ul>
 			
 
-			{/* 📝 Bài tập luyện tập */}
+			{/* 5. 📝 Bài tập luyện tập */}
 
-			<h3 className="margin-y-50 text-center">📝 Bài tập luyện tập</h3>
+			<h3 className="margin-y-50 text-center">5. 📝 Bài tập luyện tập</h3>
 
 			<p className="margin-top-20">1. Viết 2 câu dùng because/although.</p>
 			
