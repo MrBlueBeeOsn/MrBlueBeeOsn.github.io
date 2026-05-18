@@ -262,9 +262,14 @@ const Posts = lazy(() => import('@/data/Posts'));
 	const VocabularyIndex = lazy(() => import('@/2_main/english/_indexes/VocabularyIndex'));
 
 
-	// 5. Adjectives
+	// 6. Adjectives
 	const Beautiful = lazy(() => import('@/2_main/english/vocabulary/adj/Beautiful'));
 	const Attractive = lazy(() => import('@/2_main/english/vocabulary/adj/Attractive'));
+
+
+
+	// 7. Adverb
+	const Because = lazy(() => import('@/2_main/english/vocabulary/adv/Because'));
 
 
 
@@ -762,9 +767,14 @@ export default function AppRoutes(): React.JSX.Element {
 					{/* 5. Vocabulary */}
 					<Route path="/vocabulary" element={<VocabularyIndex />} />
 
-					{/* 5. Vocabulary - Adjectives */}
+					{/* 6. Vocabulary - Adjectives */}
 					<Route path="/vocabulary/beautiful" element={<Beautiful />} />
 					<Route path="/vocabulary/attractive" element={<Attractive />} />
+
+
+
+					{/* 7. Vocabulary - Adverbs */}
+					<Route path="/vocabulary/because" element={<Because />} />
 
 
 

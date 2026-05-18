@@ -23,6 +23,13 @@ export default function Attractive(): React.JSX.Element {
 
       <p className="margin-bottom-30"><strong>Attractive</strong> (tính từ): Lôi cuốn, hấp dẫn, có sức hút. Từ này dùng để chỉ người hoặc vật có những đặc điểm gây ra sự chú ý, hứng thú hoặc thiện cảm.</p>
 
+        <ul className="list-square">
+      
+          <li>The new job offer came with a very ______ salary.</li>
+          <li className="list-none">Lời đề nghị công việc mới đi kèm với một mức lương rất hấp dẫn.</li>
+      
+        </ul>
+
       {/* =============================
             Pronunciation / Phát âm
       ============================= */}
@@ -57,13 +64,6 @@ export default function Attractive(): React.JSX.Element {
       <p className="margin-bottom-20">Việc nắm vững các từ cùng gốc giúp bạn linh hoạt hơn khi diễn đạt cùng một ý tưởng dưới các loại từ khác nhau</p>
 
         <ul className="list-square">
-
-          {/* <li></li>
-          <li className="margin-bottom-20 list-none"></li> */}
-
-          <li><strong>Attractive</strong> (Tính từ) /əˈtræktɪv/</li>
-          <li className="list-none">The new job offer came with a very ______ salary.</li>
-          <li className="margin-bottom-20 list-none">Lời đề nghị công việc mới đi kèm với một mức lương rất hấp dẫn.</li>
 
           <li><strong>Attract</strong> (Động từ) /əˈtrækt/</li>
           <li className="list-none">Bright colors often ______ butterflies to the garden.</li>

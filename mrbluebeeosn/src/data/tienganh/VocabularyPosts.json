@@ -1583,6 +1583,15 @@
 			"content": "Attractive (tính từ): Hấp dẫn, lôi cuốn, có sức hút. Từ này dùng để mô tả người hoặc vật có những đặc điểm làm hài lòng thị giác hoặc thu hút sự chú ý, quan tâm của người khác.",
 			"slug": "vocabulary/attractive",
 			"date": "2026-04-27"
+		},
+		{ 
+			"id": "Because",
+			"categoryDisplay": "Bởi vì",
+			"categorySlug": "vocabulary#because-terms",
+			"title": "attractive",
+			"content": "Because (liên từ): Bởi vì. Từ này được dùng để mở đầu cho một mệnh đề chỉ nguyên nhân, lý do giải thích cho một sự việc hoặc hành động trước đó.",
+			"slug": "vocabulary/because",
+			"date": "2026-05-18"
 		}
 	]
 }

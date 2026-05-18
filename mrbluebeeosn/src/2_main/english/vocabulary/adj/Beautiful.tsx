@@ -23,6 +23,13 @@ export default function Beautiful(): React.JSX.Element {
 
       <p className="margin-bottom-30"><strong>Beautiful</strong> (tính từ): Đẹp, có những phẩm chất mang lại sự hài lòng hoặc thỏa mãn cho các giác quan (đặc biệt là thị giác) hoặc tâm trí. Từ này thường ám chỉ sự hài hòa, xuất sắc hoặc giá trị thẩm mỹ cao.</p>
 
+        <ul className="list-square">
+      
+          <li>The sunset over the ocean was truly ______.</li>
+          <li className="list-none">Cảnh hoàng hôn trên biển thực sự rất đẹp.</li>
+      
+        </ul>
+
       {/* =============================
             Pronunciation / Phát âm
       ============================= */}
@@ -57,13 +64,6 @@ export default function Beautiful(): React.JSX.Element {
       <p className="margin-bottom-20">Việc hiểu cách chuyển đổi giữa các loại từ giúp bạn linh hoạt hơn trong diễn đạt, đặc biệt là khi áp dụng cấu trúc tập trung vào danh từ để mô tả tính chất.</p>
 
         <ul className="list-square">
-
-          {/* <li></li>
-          <li className="margin-bottom-20 list-none"></li> */}
-
-          <li><strong>Beautiful</strong> (Tính từ) /ˈbjuː.tɪ.fəl/</li>
-          <li className="list-none">The sunset over the ocean was truly ______.</li>
-          <li className="margin-bottom-20 list-none">Cảnh hoàng hôn trên biển thực sự rất đẹp.</li>
 
           <li><strong>Beauty</strong> (Danh từ) /ˈbjuːti/</li>
           <li className="list-none">The ______ of the landscape took my breath away.</li>

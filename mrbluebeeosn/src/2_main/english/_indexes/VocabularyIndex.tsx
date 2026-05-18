@@ -61,8 +61,36 @@ export default function VocabularyIndex(): React.JSX.Element {
 			<div className="vocabulary-container margin-top-20">
 						
 				{/* =============================
+							Adverbs
+				============================= */}
+
+
+				<details className="sub-box-fix">
+			
+					<summary id="dc-terms"><mark className="highlight-secondary-padding-2-4">DC</mark></summary>
+
+					<ul className="list-border1">
+
+						<li>
+							<Link to="/vocabulary/because">because</Link> 	
+						</li>
+
+					
+						
+
+					</ul>
+
+
+				</details>
+
+			</div>
+
+			<div className="vocabulary-container margin-top-20">
+						
+				{/* =============================
 							Adjectives
 				============================= */}
+
 
 				<details className="sub-box-fix">
 			
