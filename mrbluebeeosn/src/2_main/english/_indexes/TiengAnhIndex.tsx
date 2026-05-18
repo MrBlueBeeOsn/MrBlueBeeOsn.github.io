@@ -621,6 +621,37 @@ export default function TiengAnhIndex(): React.JSX.Element {
 
             <li>
               <div className="li-content">
+                <Link to="/tieng-anh/the-gait-of-english-1">IC
+                <sup>&nbsp;1&nbsp;</sup>
+                </Link>
+                <Link to="/tieng-anh/the-gait-of-english-2">
+                  <sup>&nbsp;2&nbsp;</sup>
+                </Link>
+                <Link to="/tieng-anh/the-gait-of-english-3">
+                  <sup>&nbsp;3&nbsp;</sup>
+                </Link>
+                <Link to="/tieng-anh/the-gait-of-english-4">
+                  <sup>&nbsp;4&nbsp;</sup>
+                </Link>
+                <Link to="/tieng-anh/the-gait-of-english-5">
+                  <sup>&nbsp;5&nbsp;</sup>
+                </Link>
+                <Link to="/tieng-anh/the-gait-of-english-6">
+                  <sup>&nbsp;6&nbsp;</sup>
+                </Link>
+                <Link to="/tieng-anh/the-gait-of-english-7">
+                  <sup>&nbsp;7&nbsp;</sup>
+                </Link>
+                <Link to="/tieng-anh/the-gait-of-english-8">
+                  <sup>&nbsp;8&nbsp;</sup>
+                </Link>
+              
+              </div>
+              
+            </li>
+
+            <li>
+              <div className="li-content">
                 <Link to="/tieng-anh/sentence-variety-1">Sentence Variety
                 <sup>&nbsp;1&nbsp;</sup>
                 </Link>
@@ -653,36 +684,6 @@ export default function TiengAnhIndex(): React.JSX.Element {
               
             </li>
 
-            <li>
-              <div className="li-content">
-                <Link to="/tieng-anh/the-gait-of-english-1">The gait of English
-                <sup>&nbsp;1&nbsp;</sup>
-                </Link>
-                <Link to="/tieng-anh/the-gait-of-english-2">
-                  <sup>&nbsp;2&nbsp;</sup>
-                </Link>
-                <Link to="/tieng-anh/the-gait-of-english-3">
-                  <sup>&nbsp;3&nbsp;</sup>
-                </Link>
-                <Link to="/tieng-anh/the-gait-of-english-4">
-                  <sup>&nbsp;4&nbsp;</sup>
-                </Link>
-                <Link to="/tieng-anh/the-gait-of-english-5">
-                  <sup>&nbsp;5&nbsp;</sup>
-                </Link>
-                <Link to="/tieng-anh/the-gait-of-english-6">
-                  <sup>&nbsp;6&nbsp;</sup>
-                </Link>
-                <Link to="/tieng-anh/the-gait-of-english-7">
-                  <sup>&nbsp;7&nbsp;</sup>
-                </Link>
-                <Link to="/tieng-anh/the-gait-of-english-8">
-                  <sup>&nbsp;8&nbsp;</sup>
-                </Link>
-              
-              </div>
-              
-            </li>
 
             <li>
               <div className="li-content">

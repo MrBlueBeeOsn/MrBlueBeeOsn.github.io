@@ -18,7 +18,7 @@ export default function TheGaitOfEnglish8(): React.JSX.Element {
 		
 			<h4><HashLink smooth to="/tieng-anh#tieng-anh-terms"><mark className="highlight-tertiary-padding-4-8">Tiếng Anh</mark></HashLink></h4>
 
-			<h1 className="margin-y-50 text-center">The gait of English
+			<h1 className="margin-y-50 text-center">IC
 												
 				<sup><HashLink smooth to="/tieng-anh/the-gait-of-english-1">&nbsp;1&nbsp;</HashLink>
 				</sup>
