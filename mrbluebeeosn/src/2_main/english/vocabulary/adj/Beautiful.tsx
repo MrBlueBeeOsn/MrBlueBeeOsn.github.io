@@ -65,6 +65,10 @@ export default function Beautiful(): React.JSX.Element {
 
         <ul className="list-square">
 
+          <li><strong>Beautiful</strong> (Tính từ) /ˈbjuː.tɪ.fəl/</li>
+          <li className="list-none">What a ______ sunset!</li>
+          <li className="margin-bottom-20 list-none">Thật là một cảnh hoàng hôn đẹp tuyệt vời!</li>
+
           <li><strong>Beauty</strong> (Danh từ) /ˈbjuːti/</li>
           <li className="list-none">The ______ of the landscape took my breath away.</li>
           <li className="margin-bottom-20 list-none">Vẻ đẹp của phong cảnh đã khiến tôi sững sờ.</li>

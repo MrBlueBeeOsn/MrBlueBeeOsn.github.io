@@ -105,6 +105,10 @@ export default function VocabularyIndex(): React.JSX.Element {
 						<li>
 							<Link to="/vocabulary/attractive">attractive</Link> 	
 						</li>
+
+						<li>
+							<Link to="/vocabulary/grateful">grateful</Link> 	
+						</li>
 						
 
 					</ul>

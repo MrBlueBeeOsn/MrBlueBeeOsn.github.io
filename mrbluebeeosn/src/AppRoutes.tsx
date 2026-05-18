@@ -265,6 +265,7 @@ const Posts = lazy(() => import('@/data/Posts'));
 	// 6. Adjectives
 	const Beautiful = lazy(() => import('@/2_main/english/vocabulary/adj/Beautiful'));
 	const Attractive = lazy(() => import('@/2_main/english/vocabulary/adj/Attractive'));
+	const Grateful = lazy(() => import('@/2_main/english/vocabulary/adj/Grateful'));
 
 
 
@@ -770,6 +771,7 @@ export default function AppRoutes(): React.JSX.Element {
 					{/* 6. Vocabulary - Adjectives */}
 					<Route path="/vocabulary/beautiful" element={<Beautiful />} />
 					<Route path="/vocabulary/attractive" element={<Attractive />} />
+					<Route path="/vocabulary/grateful" element={<Grateful />} />
 
 
 

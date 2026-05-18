@@ -3138,7 +3138,7 @@
     {
       "id": "Beautiful",
       "categoryDisplay": "Đẹp",
-      "categorySlug": "vocabulary#beautiful-terms",
+      "categorySlug": "vocabulary#adjectives-terms",
       "title": "beautiful",
       "content": "Beautiful (tính từ): Đẹp, có những phẩm chất đem lại sự hài lòng hoặc thỏa mãn cho các giác quan (đặc biệt là thị giác) hoặc cho tâm trí. Thường ám chỉ sự hài hòa, xuất sắc hoặc có tính thẩm mỹ cao.",
       "slug": "vocabulary/beautiful",
@@ -3149,7 +3149,7 @@
     {
       "id": "Attractive",
       "categoryDisplay": "Hấp dẫn",
-      "categorySlug": "vocabulary#attractive-terms",
+      "categorySlug": "vocabulary#adjectives-terms",
       "title": "attractive",
       "content": "Attractive (tính từ): Hấp dẫn, lôi cuốn, có sức hút. Từ này dùng để mô tả người hoặc vật có những đặc điểm làm hài lòng thị giác hoặc thu hút sự chú ý, quan tâm của người khác.",
       "slug": "vocabulary/attractive",
@@ -3160,10 +3160,21 @@
     {
       "id": "Because",
       "categoryDisplay": "Bởi vì",
-      "categorySlug": "vocabulary#because-terms",
-      "title": "attractive",
+      "categorySlug": "vocabulary#dc-terms",
+      "title": "because",
       "content": "Because (liên từ): Bởi vì. Từ này được dùng để mở đầu cho một mệnh đề chỉ nguyên nhân, lý do giải thích cho một sự việc hoặc hành động trước đó.",
       "slug": "vocabulary/because",
+      "date": "2026-05-18",
+      "views": 0,
+      "likes": 0
+    },
+    {
+      "id": "Grateful",
+      "categoryDisplay": "Biết ơn, cảm kích.",
+      "categorySlug": "vocabulary#adjectives-terms",
+      "title": "grateful",
+      "content": "Grateful (tính từ): Biết ơn, cảm kích. Từ này thể hiện lòng biết ơn hoặc sự trân trọng đối với những gì người khác đã làm cho mình hoặc những điều tốt đẹp mà mình nhận được.",
+      "slug": "vocabulary/grateful",
       "date": "2026-05-18",
       "views": 0,
       "likes": 0

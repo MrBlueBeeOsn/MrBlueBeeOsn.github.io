@@ -65,6 +65,10 @@ export default function Attractive(): React.JSX.Element {
 
         <ul className="list-square">
 
+          <li><strong>Attractive</strong> (Tính từ) /əˈtræk.tɪv/</li>
+          <li className="list-none">He has a very ______ smile.</li>
+          <li className="margin-bottom-20 list-none">Anh ấy có một nụ cười rất cuốn hút.</li>
+
           <li><strong>Attract</strong> (Động từ) /əˈtrækt/</li>
           <li className="list-none">Bright colors often ______ butterflies to the garden.</li>
           <li className="margin-bottom-20 list-none">Màu sắc rực rỡ thường thu hút bướm đến vườn.</li>
