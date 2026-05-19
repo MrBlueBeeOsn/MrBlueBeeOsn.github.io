@@ -270,7 +270,7 @@ const Posts = lazy(() => import('@/data/Posts'));
 
 
 	// 7. Adverb
-	const Because = lazy(() => import('@/2_main/english/vocabulary/adv/Because'));
+	const Because = lazy(() => import('@/2_main/english/vocabulary/dc/Because'));
 
 
 
