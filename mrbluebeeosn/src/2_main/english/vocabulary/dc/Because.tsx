@@ -65,8 +65,16 @@ export default function Because(): React.JSX.Element {
 
         <ul className="list-square">
 
+          <li><strong>Because</strong> (Liên từ) /bɪˈkɒz/ (UK) hoặc /bɪˈkɔːz/ (US)</li>
+          <li className="list-none">I passed the exam <strong>______ I studied hard every night</strong>.</li>
+          <li className="margin-bottom-20 list-none">Tôi đã vượt qua kỳ thi <strong>bởi vì tôi học hành chăm chỉ mỗi tối</strong>.</li>
+          
+          <li><strong>Because of</strong> (Giới từ) /bɪˈkɒz əv/ (UK) hoặc /bɪˈkɔːz əv/ (US)</li>
+          <li className="list-none">The flight was delayed ______ the thick fog.</li>
+          <li className="margin-bottom-20 list-none">Chuyến bay đã bị hoãn vì sương mù dày đặc.</li>
+          
           <li><strong>Cause</strong> (Danh từ) /kɔːz/</li>
-          <li className="list-none">The police are trying to find the ______ of the accident.</li>
+          <li className="list-none">The police are trying to find the cause of the accident.</li>
           <li className="margin-bottom-20 list-none">Cảnh sát đang cố gắng tìm ra nguyên nhân của vụ tai nạn.</li>
 
           <li><strong>Cause</strong> (Động từ) /kɔːz/</li>

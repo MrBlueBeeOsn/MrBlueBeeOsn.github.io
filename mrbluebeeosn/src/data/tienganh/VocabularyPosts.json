@@ -1601,6 +1601,15 @@
 			"content": "Grateful (tính từ): Biết ơn, cảm kích. Từ này thể hiện lòng biết ơn hoặc sự trân trọng đối với những gì người khác đã làm cho mình hoặc những điều tốt đẹp mà mình nhận được.",
 			"slug": "vocabulary/grateful",
 			"date": "2026-05-18"
+		},
+		{ 
+			"id": "Although",
+			"categoryDisplay": "Mặc dù, dẫu cho.",
+			"categorySlug": "vocabulary#dc-terms",
+			"title": "although",
+			"content": "Although (liên từ): Mặc dù, dẫu cho. Từ này được dùng để mở đầu cho một mệnh đề chỉ sự nhượng bộ, thể hiện một kết quả bất ngờ hoặc tương phản với thực tế được nhắc đến trong mệnh đề đó.",
+			"slug": "vocabulary/grateful",
+			"date": "2026-05-19"
 		}
 	]
 }

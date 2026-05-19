@@ -75,6 +75,10 @@ export default function VocabularyIndex(): React.JSX.Element {
 							<Link to="/vocabulary/because">because</Link> 	
 						</li>
 
+						<li>
+							<Link to="/vocabulary/although">although</Link> 	
+						</li>
+
 					
 						
 

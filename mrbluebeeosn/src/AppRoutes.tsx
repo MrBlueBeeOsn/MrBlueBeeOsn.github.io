@@ -269,8 +269,9 @@ const Posts = lazy(() => import('@/data/Posts'));
 
 
 
-	// 7. Adverb
+	// 7. DC
 	const Because = lazy(() => import('@/2_main/english/vocabulary/dc/Because'));
+	const Although = lazy(() => import('@/2_main/english/vocabulary/dc/Although'));
 
 
 
@@ -775,8 +776,9 @@ export default function AppRoutes(): React.JSX.Element {
 
 
 
-					{/* 7. Vocabulary - Adverbs */}
+					{/* 7. Vocabulary - DC */}
 					<Route path="/vocabulary/because" element={<Because />} />
+					<Route path="/vocabulary/although" element={<Although />} />
 
 
 
