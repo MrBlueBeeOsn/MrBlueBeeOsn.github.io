@@ -161,6 +161,15 @@
       "content": "Paraphrasing Techniques Quiz",
       "slug": "english/paraphrasing-techniques-quiz",
       "date": "2026-04-16"
+    },
+    { 
+      "id": "DCQuiz",
+      "categoryDisplay": "English",
+      "categorySlug": "english",
+      "title": "Quiz",
+      "content": "Dependent Clauses Quiz",
+      "slug": "english/dc-quiz",
+      "date": "2026-05-23"
     }
   ]
 }

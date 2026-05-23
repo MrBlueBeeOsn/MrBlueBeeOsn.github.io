@@ -346,6 +346,28 @@ export default function EnglishIndex(): React.JSX.Element {
 
         </details>
 
+        {/* =============================
+              Dependent Clauses Quiz
+        ============================= */}
+
+        <details className="sub-box-fix-2">
+      
+          <summary id="dc-quiz"><mark className="highlight-secondary-padding-2-4">DC</mark></summary>
+
+          <ul className="list-border1">
+
+            <li>
+              <div className="li-content">
+                <Link to="/english/dc-quiz">DC Quiz</Link>
+              </div>
+            </li>
+
+           
+            
+          </ul>
+
+        </details>
+
 
 
 

@@ -611,6 +611,15 @@
 			"content": "Mệnh Đề Phụ Thuộc: Giải Mã Sức Mạnh Kiến Tạo Câu Văn",
 			"slug": "tieng-anh/dependent-clause-1",
 			"date": "2026-05-16"
+		},
+		{
+			"id": "EVDCQuiz",
+			"categoryDisplay": "Tiếng Anh",
+			"categorySlug": "tieng-anh",
+			"title": "EV DC Quiz",
+			"content": "Trắc Nghiệm Dependent Clauses là một phần quan trọng trong việc học ngữ pháp tiếng Anh. Việc nắm vững quy tắc này giúp bạn tránh những lỗi ngữ pháp phổ biến và nâng cao khả năng giao tiếp tiếng Anh của mình.",
+			"slug": "tieng-anh/ev-dc-quiz",
+			"date": "2026-05-23"
 		}
 	]
 }

@@ -342,6 +342,28 @@ export default function TiengAnhIndex(): React.JSX.Element {
 
         </details>
 
+        {/* =============================
+              EV DC Quiz
+        ============================= */}
+
+        <details className="sub-box-fix-2">
+      
+          <summary id="ev-dc-quiz"><mark className="highlight-secondary-padding-2-4">DC</mark></summary>
+
+          <ul className="list-border1">
+
+            <li>
+              <div className="li-content">
+                <Link to="/tieng-anh/ev-dc-quiz">Trắc Nghiệm DC</Link>
+              </div>
+            </li>
+
+            
+            
+          </ul>
+
+        </details>
+
         
 
 

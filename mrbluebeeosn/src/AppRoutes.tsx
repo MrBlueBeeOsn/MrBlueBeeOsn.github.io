@@ -95,6 +95,9 @@ const Posts = lazy(() => import('@/data/Posts'));
 	// Paraphrasing Techniques Quiz
 	const ParaphrasingTechniquesQuiz = lazy(() => import('@/2_main/english/quiz/paraphrasing/ParaphrasingTechniquesQuiz'));
 
+	// DC Quiz
+	const DCQuiz = lazy(() => import('@/2_main/english/quiz/dc/DCQuiz'));
+
 
 
 	// 2. Grammar
@@ -256,6 +259,8 @@ const Posts = lazy(() => import('@/data/Posts'));
 	// EV Paraphrasing TechniquesQuiz
 	const EVParaphrasingTechniquesQuiz = lazy(() => import('@/2_main/english/tienganh/quiz/evparaphrasing/EVParaphrasingTechniquesQuiz'));
 
+	// EV DC Quiz
+	const EVDCQuiz = lazy(() => import('@/2_main/english/tienganh/quiz/evdc/EVDCQuiz'));
 
 	
 	// 5. Vocabulary - Tính chính xác
@@ -599,8 +604,11 @@ export default function AppRoutes(): React.JSX.Element {
 					{/* Articles Quiz */}
 					<Route path="/english/articles-quiz" element={<ArticlesQuiz />} />
 
-					{/* Paraphrasing TechniquesQuiz */}
+					{/* Paraphrasing Techniques Quiz */}
 					<Route path="/english/paraphrasing-techniques-quiz" element={<ParaphrasingTechniquesQuiz />} />
+
+					{/* DC Quiz */}
+					<Route path="/english/dc-quiz" element={<DCQuiz />} />
 
 
 
@@ -763,6 +771,9 @@ export default function AppRoutes(): React.JSX.Element {
 
 					{/* EV Paraphrasing TechniquesQuiz */}
 					<Route path="/tieng-anh/ev-paraphrasing-techniques-quiz" element={<EVParaphrasingTechniquesQuiz />} />
+
+					{/* EV DC Quiz */}
+					<Route path="/tieng-anh/ev-dc-quiz" element={<EVDCQuiz />} />
 
 
 
