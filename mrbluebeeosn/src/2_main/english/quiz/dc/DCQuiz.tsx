@@ -22,123 +22,123 @@ export default function DCQuiz(): React.JSX.Element {
 	const questions: Question[] = [
 		{
 			id: 1,
-			question: "",
+			question: "Identify the dependent clause in the following sentence: \"Although it was raining, we decided to go for a walk in the park.\"",
 			options: [
-				"",
-				"",
-				"",
-				""
+				"we decided to go for a walk",
+				"Although it was raining",
+				"in the park",
+				"we decided to go"
 			],
-			correctAnswer: 0,
-			explanation: ""
+			correctAnswer: 1,
+			explanation: "\"Although it was raining\" is a dependent clause because it begins with the subordinating conjunction \"although\" and cannot stand alone as a complete sentence."
 		},
 		{
 			id: 2,
-			question: "",
+			question: "What type of dependent clause is underlined in this sentence? \"The book that you lent me was absolutely fascinating.\"",
 			options: [
-				"",
-				"",
-				"",
-				""
+				"Adverbial clause",
+				"Noun clause",
+				"Adjective (Relative) clause",
+				"Coordinate clause"
 			],
-			correctAnswer: 0,
-			explanation: ""
+			correctAnswer: 2,
+			explanation: "\"that you lent me\" is an adjective (relative) clause because it modifies the noun \"book\" and provides essential details about which book is being discussed."
 		},
 		{
 			id: 3,
-			question: "",
+			question: "Choose the correct subordinating conjunction to complete the sentence: \"You won't pass the exam ________ you start studying harder.\"",
 			options: [
-				"",
-				"",
-				"",
-				""
+				"because",
+				"unless",
+				"although",
+				"provider that"
 			],
-			correctAnswer: 0,
-			explanation: ""
+			correctAnswer: 1,
+			explanation: "\"Unless\" means \"except if,\" which perfectly fits the logical condition of the sentence: you will fail except if you study harder."
 		},
 		{
 			id: 4,
-			question: "",
+			question: "In the sentence, \"What you just said makes a lot of sense,\" the clause \"What you just said\" acts as:",
 			options: [
-				"",
-				"",
-				"",
-				""
+				"The object of the preposition",
+				"The subject of the sentence",
+				"An adverbial modifier",
+				"An adjective modifying \"sense\""
 			],
-			correctAnswer: 0,
-			explanation: ""
+			correctAnswer: 1,
+			explanation: "\"What you just said\" is a noun clause functioning as the subject of the main verb \"makes.\""
 		},
 		{
 			id: 5,
-			question: "",
+			question: "Which of the following sentences contains an adverbial clause of time?",
 			options: [
-				"",
-				"",
-				"",
-				""
+				"I will call you as soon as I arrive at the station.",
+				"The house where I grew up has been demolished.",
+				"She acts as if she knows everything.",
+				"Whichever path you choose will lead to adventure."
 			],
 			correctAnswer: 0,
-			explanation: ""
+			explanation: "\"as soon as I arrive at the station\" is an adverbial clause of time because it answers the question \"when\" the main action (calling) will happen."
 		},
 		{
 			id: 6,
-			question: "",
+			question: "Complete the sentence with the correct relative pronoun: \"The scientist ________ discovered the new element was awarded a Nobel Prize.\"",
 			options: [
-				"",
-				"",
-				"",
-				""
+				"which",
+				"whom",
+				"whose",
+				"who"
 			],
-			correctAnswer: 0,
-			explanation: ""
+			correctAnswer: 3,
+			explanation: "\"Who\" is the correct relative pronoun here because it refers to a person (\"the scientist\") and functions as the subject of the dependent clause \"discovered the new element.\""
 		},
 		{
 			id: 7,
-			question: "",
+			question: "Identify the function of the noun clause in this sentence: \"The teacher announced that the exam was postponed.\"",
 			options: [
-				"",
-				"",
-				"",
-				""
+				"Subject",
+				"Direct object",
+				"Subject complement",
+				"Appositive"
 			],
-			correctAnswer: 0,
-			explanation: ""
+			correctAnswer: 1,
+			explanation: "The noun clause \"that the exam was postponed\" answers the question \"announced what?\" making it the direct object of the transitive verb \"announced.\""
 		},
 		{
 			id: 8,
-			question: "",
+			question: "Which of the following is a fragment (an incomplete sentence) because it only contains a dependent clause?",
 			options: [
-				"",
-				"",
-				"",
-				""
+				"Walking down the street, I saw a cat.",
+				"Since we forgot the map at home.",
+				"The storm passed quickly, but the power was out.",
+				"Run as fast as you can."
 			],
-			correctAnswer: 0,
-			explanation: ""
+			correctAnswer: 1,
+			explanation: "\"Since we forgot the map at home\" begins with the subordinating conjunction \"since\" and lacks an independent clause to complete the thought, making it a sentence fragment."
 		},
 		{
 			id: 9,
-			question: "",
+			question: "What is the dependent clause in this sentence? \"We can eat dinner whenever you are ready.\"",
 			options: [
-				"",
-				"",
-				"",
-				""
+				"We can eat dinner",
+				"whenever you are ready",
+				"you are ready",
+				"We can eat"
 			],
-			correctAnswer: 0,
-			explanation: ""
+			correctAnswer: 1,
+			explanation: "\"whenever you are ready\" is an adverbial dependent clause introduced by the subordinating conjunction \"whenever.\""
 		},
 		{
 			id: 10,
-			question: "",
+			question: "Choose the sentence that correctly uses a comma after an introductory dependent clause:",
 			options: [
-				"",
-				"",
-				"",
-				""
+				"If you see Mary tell her, to call me.",
+				"If you see Mary, tell her to call me.",
+				"If, you see Mary tell her to call me.",
+				"If you see Mary tell her to call me."
 			],
-			correctAnswer: 0,
-			explanation: ""
+			correctAnswer: 1,
+			explanation: "When an adverbial dependent clause introduces a sentence (comes before the independent clause), a comma must be placed immediately after the dependent clause to separate it from the main clause."
 		}
 	];
 
