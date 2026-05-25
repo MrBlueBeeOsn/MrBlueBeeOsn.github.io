@@ -71,16 +71,19 @@ export default function VocabularyIndex(): React.JSX.Element {
 
 					<ul className="list-border1">
 
+
+
 						<li>
-							<Link to="/vocabulary/because">because</Link> 	
+							<Link to="/vocabulary/if">if</Link> 	
 						</li>
 
 						<li>
 							<Link to="/vocabulary/although">although</Link> 	
 						</li>
-
-					
 						
+						<li>
+							<Link to="/vocabulary/because">because</Link> 	
+						</li>
 
 					</ul>
 

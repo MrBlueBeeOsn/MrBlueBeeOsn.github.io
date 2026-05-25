@@ -1610,6 +1610,15 @@
 			"content": "Although (liên từ): Mặc dù, dẫu cho. Từ này được dùng để mở đầu cho một mệnh đề chỉ sự nhượng bộ, thể hiện một kết quả bất ngờ hoặc tương phản với thực tế được nhắc đến trong mệnh đề đó.",
 			"slug": "vocabulary/grateful",
 			"date": "2026-05-19"
+		},
+		{ 
+			"id": "If",
+			"categoryDisplay": "Nếu.",
+			"categorySlug": "vocabulary#dc-terms",
+			"title": "if",
+			"content": "If (liên từ): Nếu, nếu như, giả sử. Từ này được dùng để mở đầu cho một mệnh đề điều kiện, diễn tả một tình huống giả định, một khả năng có thể xảy ra hoặc một điều kiện cần thiết để một sự việc khác diễn ra. Ngoài ra, trong câu gián tiếp, nó còn mang nghĩa là \"liệu có... hay không\".",
+			"slug": "vocabulary/if",
+			"date": "2026-05-25"
 		}
 	]
 }
