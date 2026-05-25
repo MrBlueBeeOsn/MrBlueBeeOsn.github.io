@@ -199,7 +199,7 @@ export default function Although(): React.JSX.Element {
       <div className="viewcounter">
       
         <div className="post-date no-margin">
-          <span> · by 💎Gem ·</span>
+          <span>May 21, 2026 · by 💎Gem ·</span>
         </div>
 
         <div className="eye-icon no-margin">
