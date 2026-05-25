@@ -97,6 +97,10 @@ const Posts = lazy(() => import('@/data/Posts'));
 
 	// DC Quiz
 	const DCQuiz = lazy(() => import('@/2_main/english/quiz/dc/DCQuiz'));
+	const AdjectiveClausesQuiz = lazy(() => import('@/2_main/english/quiz/dc/AdjectiveClausesQuiz'));
+	const AdverbClausesQuiz = lazy(() => import('@/2_main/english/quiz/dc/AdverbClausesQuiz'));
+	const NounClausesQuiz = lazy(() => import('@/2_main/english/quiz/dc/NounClausesQuiz'));
+	
 
 
 
@@ -261,6 +265,9 @@ const Posts = lazy(() => import('@/data/Posts'));
 
 	// EV DC Quiz
 	const EVDCQuiz = lazy(() => import('@/2_main/english/tienganh/quiz/evdc/EVDCQuiz'));
+	const EVAdjectiveClausesQuiz = lazy(() => import('@/2_main/english/tienganh/quiz/evdc/EVAdjectiveClausesQuiz'));
+	const EVAdverbClausesQuiz = lazy(() => import('@/2_main/english/tienganh/quiz/evdc/EVAdverbClausesQuiz'));
+	const EVNounClausesQuiz = lazy(() => import('@/2_main/english/tienganh/quiz/evdc/EVNounClausesQuiz'));
 
 	
 	// 5. Vocabulary - Tính chính xác
@@ -610,6 +617,12 @@ export default function AppRoutes(): React.JSX.Element {
 
 					{/* DC Quiz */}
 					<Route path="/english/dc-quiz" element={<DCQuiz />} />
+					<Route path="/english/adjective-clauses-quiz" element={<AdjectiveClausesQuiz />} />
+					<Route path="/english/adverb-clauses-quiz" element={<AdverbClausesQuiz />} />
+					<Route path="/english/noun-clauses-quiz" element={<NounClausesQuiz />} />
+					
+					
+					
 
 
 
@@ -775,6 +788,13 @@ export default function AppRoutes(): React.JSX.Element {
 
 					{/* EV DC Quiz */}
 					<Route path="/tieng-anh/ev-dc-quiz" element={<EVDCQuiz />} />
+					<Route path="/tieng-anh/ev-adjective-clauses-quiz" element={<EVAdjectiveClausesQuiz />} />
+					<Route path="/tieng-anh/ev-adverb-clauses-quiz" element={<EVAdverbClausesQuiz />} />
+					<Route path="/tieng-anh/ev-noun-clauses-quiz" element={<EVNounClausesQuiz />} />
+					
+
+
+
 
 
 

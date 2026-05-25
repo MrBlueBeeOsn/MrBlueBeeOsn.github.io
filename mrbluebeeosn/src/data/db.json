@@ -375,6 +375,39 @@
       "likes": 0
     },
     {
+      "id": "AdjectiveClausesQuiz",
+      "categoryDisplay": "English",
+      "categorySlug": "english",
+      "title": "Quiz",
+      "content": "Adjective Clauses Quiz",
+      "slug": "english/adjective-clauses-quiz",
+      "date": "2026-05-25",
+      "views": 0,
+      "likes": 0
+    },
+    {
+      "id": "AdverbClausesQuiz",
+      "categoryDisplay": "English",
+      "categorySlug": "english",
+      "title": "Quiz",
+      "content": "Adverb Clauses Quiz",
+      "slug": "english/adverb-clauses-quiz",
+      "date": "2026-05-25",
+      "views": 0,
+      "likes": 0
+    },
+    {
+      "id": "NounClausesQuiz",
+      "categoryDisplay": "English",
+      "categorySlug": "english",
+      "title": "Quiz",
+      "content": "Noun Clauses Quiz",
+      "slug": "english/noun-clauses-quiz",
+      "date": "2026-05-25",
+      "views": 0,
+      "likes": 0
+    },
+    {
       "id": "Adverb",
       "categoryDisplay": "Grammar",
       "categorySlug": "grammar",
@@ -1240,6 +1273,39 @@
       "content": "Trắc Nghiệm Dependent Clauses là một phần quan trọng trong việc học ngữ pháp tiếng Anh. Việc nắm vững quy tắc này giúp bạn tránh những lỗi ngữ pháp phổ biến và nâng cao khả năng giao tiếp tiếng Anh của mình.",
       "slug": "tieng-anh/ev-dc-quiz",
       "date": "2026-05-23",
+      "views": 0,
+      "likes": 0
+    },
+    {
+      "id": "EVAdjectiveClausesQuiz",
+      "categoryDisplay": "Tiếng Anh",
+      "categorySlug": "tieng-anh",
+      "title": "EV Adjective Clauses Quiz",
+      "content": "Trắc Nghiệm Adjective Clauses là một phần quan trọng trong việc học ngữ pháp tiếng Anh. Việc nắm vững quy tắc này giúp bạn tránh những lỗi ngữ pháp phổ biến và nâng cao khả năng giao tiếp tiếng Anh của mình.",
+      "slug": "tieng-anh/ev-adjective-clauses-quiz",
+      "date": "2026-05-25",
+      "views": 0,
+      "likes": 0
+    },
+    {
+      "id": "EVAdverbClausesQuiz",
+      "categoryDisplay": "Tiếng Anh",
+      "categorySlug": "tieng-anh",
+      "title": "EV Adverb Clauses Quiz",
+      "content": "Trắc Nghiệm Adverb Clauses là một phần quan trọng trong việc học ngữ pháp tiếng Anh. Việc nắm vững quy tắc này giúp bạn tránh những lỗi ngữ pháp phổ biến và nâng cao khả năng giao tiếp tiếng Anh của mình.",
+      "slug": "tieng-anh/ev-adverb-clauses-quiz",
+      "date": "2026-05-25",
+      "views": 0,
+      "likes": 0
+    },
+    {
+      "id": "EVNounClauseQuiz",
+      "categoryDisplay": "Tiếng Anh",
+      "categorySlug": "tieng-anh",
+      "title": "EV Noun Clause Quiz",
+      "content": "Trắc Nghiệm Noun Clauses là một phần quan trọng trong việc học ngữ pháp tiếng Anh. Việc nắm vững quy tắc này giúp bạn tránh những lỗi ngữ pháp phổ biến và nâng cao khả năng giao tiếp tiếng Anh của mình.",
+      "slug": "tieng-anh/ev-noun-clauses-quiz",
+      "date": "2026-05-25",
       "views": 0,
       "likes": 0
     },

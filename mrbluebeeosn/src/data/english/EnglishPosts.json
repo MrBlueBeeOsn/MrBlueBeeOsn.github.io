@@ -170,6 +170,33 @@
       "content": "Dependent Clauses Quiz",
       "slug": "english/dc-quiz",
       "date": "2026-05-23"
+    },
+    { 
+      "id": "AdjectiveClausesQuiz",
+      "categoryDisplay": "English",
+      "categorySlug": "english",
+      "title": "Quiz",
+      "content": "Adjective Clauses Quiz",
+      "slug": "english/adjective-clauses-quiz",
+      "date": "2026-05-25"
+    },
+    { 
+      "id": "AdverbClausesQuiz",
+      "categoryDisplay": "English",
+      "categorySlug": "english",
+      "title": "Quiz",
+      "content": "Adverb Clauses Quiz",
+      "slug": "english/adverb-clauses-quiz",
+      "date": "2026-05-25"
+    },
+    { 
+      "id": "NounClausesQuiz",
+      "categoryDisplay": "English",
+      "categorySlug": "english",
+      "title": "Quiz",
+      "content": "Noun Clauses Quiz",
+      "slug": "english/noun-clauses-quiz",
+      "date": "2026-05-25"
     }
   ]
 }

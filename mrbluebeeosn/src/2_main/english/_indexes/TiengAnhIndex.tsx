@@ -352,6 +352,25 @@ export default function TiengAnhIndex(): React.JSX.Element {
 
           <ul className="list-border1">
 
+            
+            <li>
+              <div className="li-content">
+                <Link to="/tieng-anh/ev-adjective-clauses-quiz">Trắc Nghiệm DC - Adjective</Link>
+              </div>
+            </li>
+
+            <li>
+              <div className="li-content">
+                <Link to="/tieng-anh/ev-adverb-clauses-quiz">Trắc Nghiệm DC - Adverb</Link>
+              </div>
+            </li>
+
+            <li>
+              <div className="li-content">
+                <Link to="/tieng-anh/ev-noun-clauses-quiz">Trắc Nghiệm DC - Noun</Link>
+              </div>
+            </li>
+            
             <li>
               <div className="li-content">
                 <Link to="/tieng-anh/ev-dc-quiz">Trắc Nghiệm DC</Link>

@@ -358,6 +358,24 @@ export default function EnglishIndex(): React.JSX.Element {
 
             <li>
               <div className="li-content">
+                <Link to="/english/adjective-clauses-quiz">Adjective - DC Quiz</Link>
+              </div>
+            </li>
+
+            <li>
+              <div className="li-content">
+                <Link to="/english/adverb-clauses-quiz">Adverb - DC Quiz</Link>
+              </div>
+            </li>
+
+            <li>
+              <div className="li-content">
+                <Link to="/english/noun-clauses-quiz">Noun - DC Quiz</Link>
+              </div>
+            </li>
+
+            <li>
+              <div className="li-content">
                 <Link to="/english/dc-quiz">DC Quiz</Link>
               </div>
             </li>
