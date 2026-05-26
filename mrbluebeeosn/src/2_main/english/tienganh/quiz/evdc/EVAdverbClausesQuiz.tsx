@@ -22,123 +22,123 @@ export default function EVAdverbClausesQuiz(): React.JSX.Element {
 	const questions: Question[] = [
 		{
 			id: 1,
-			question: "",
+			question: "We decided to go for a walk __________ the rain had stopped.",
 			options: [
-				"",
-				"",
-				"",
-				""
+				"although",
+				"as soon as",
+				"whereas",
+				"so that"
 			],
-			correctAnswer: 0,
-			explanation: ""
+			correctAnswer: 1,
+			explanation: "As soon as (ngay khi) khởi đầu một mệnh đề trạng ngữ chỉ thời gian (Adverb Clause of Time), diễn tả một hành động xảy ra ngay sau một hành động khác. Các phương án khác không phù hợp ngữ cảnh logic của câu: although (mặc dù), whereas (trong khi đó), so that (để mà)."
 		},
 		{
 			id: 2,
-			question: "",
+			question: "__________ she works hard, she always finds time to play with her children.",
 			options: [
-				"",
-				"",
-				"",
-				""
+				"Because",
+				"Even though",
+				"Provided that",
+				"As long as"
 			],
-			correctAnswer: 0,
-			explanation: ""
+			correctAnswer: 1,
+			explanation: "Even though (mặc dù) mở đầu mệnh đề trạng ngữ chỉ sự nhượng bộ/tương phản (Adverb Clause of Concession) giữa hai vế \"làm việc chăm chỉ\" và \"vẫn có thời gian chơi với con\". Because chỉ nguyên nhân, Provided that/As long as chỉ điều kiện (miễn là) đều làm câu bị sai logic."
 		},
 		{
 			id: 3,
-			question: "",
+			question: "Put the keys __________ you can easily find them later.",
 			options: [
-				"",
-				"",
-				"",
-				""
+				"where",
+				"which",
+				"until",
+				"because"
 			],
 			correctAnswer: 0,
-			explanation: ""
+			explanation: "Where (nơi mà) mở đầu mệnh đề trạng ngữ chỉ nơi chốn (Adverb Clause of Place) để bổ nghĩa cho hành động \"put\". Which dùng cho mệnh đề quan hệ, until (cho đến khi) và because (bởi vì) không dùng để chỉ vị trí đặt vật thể."
 		},
 		{
 			id: 4,
-			question: "",
+			question: "The company changed its policy __________ boost employee morale.",
 			options: [
-				"",
-				"",
-				"",
-				""
+				"in order that they could",
+				"so that",
+				"in order to",
+				"because of"
 			],
-			correctAnswer: 0,
-			explanation: ""
+			correctAnswer: 2,
+			explanation: "Phía sau khoảng trống là một động từ nguyên mẫu (boost). Cấu trúc đúng ở đây là in order to + V-inf để chỉ mục đích. Các từ in order that và so that phải đi với một mệnh đề hoàn chỉnh (S + V), còn because of đi với cụm danh từ/V-ing."
 		},
 		{
 			id: 5,
-			question: "",
+			question: "You can borrow my laptop __________ you promise to bring it back tomorrow.",
 			options: [
-				"",
-				"",
-				"",
-				""
+				"even if",
+				"as if",
+				"as long as",
+				"unless"
 			],
-			correctAnswer: 0,
-			explanation: ""
+			correctAnswer: 3,
+			explanation: "As long as (miễn là) dùng để mở đầu mệnh đề trạng ngữ chỉ điều kiện (Adverb Clause of Condition). Các liên từ còn lại không tạo nên mối quan hệ điều kiện hợp lý: even if (ngay cả khi), as if (như thể là), unless (trừ khi)."
 		},
 		{
 			id: 6,
-			question: "",
+			question: "Tom ran to the bus station __________ he wouldn't miss the last bus.",
 			options: [
-				"",
-				"",
-				"",
-				""
+				"so that",
+				"in order to",
+				"although",
+				"since"
 			],
 			correctAnswer: 0,
-			explanation: ""
+			explanation: "Phía sau là một mệnh đề hoàn chỉnh (he wouldn't miss...), do đó cần liên từ so that (để mà) để mở đầu mệnh đề trạng ngữ chỉ mục đích. In order to cũng mang nghĩa chỉ mục đích nhưng bắt buộc phải đi trực tiếp với động từ nguyên mẫu."
 		},
 		{
 			id: 7,
-			question: "",
+			question: "__________ the traffic was incredibly heavy, they arrived at the meeting on time.",
 			options: [
-				"",
-				"",
-				"",
-				""
+				"Despite",
+				"In spite of",
+				"Though",
+				"Because"
 			],
-			correctAnswer: 0,
-			explanation: ""
+			correctAnswer: 2,
+			explanation: "Though (mặc dù) là liên từ mở đầu một mệnh đề trạng ngữ chỉ sự tương phản chứa cả chủ ngữ và động từ (the traffic was...). Despite và In spite of cũng mang nghĩa tương tự nhưng theo sau chúng bắt buộc phải là một cụm danh từ hoặc V-ing."
 		},
 		{
 			id: 8,
-			question: "",
+			question: "She talked about the movie __________ she had seen it herself, but she actually hadn't.",
 			options: [
-				"",
-				"",
-				"",
-				""
+				"as though",
+				"because",
+				"even if",
+				"while"
 			],
 			correctAnswer: 0,
-			explanation: ""
+			explanation: "As though (hoặc as if) có nghĩa là \"như thể là\", mở đầu mệnh đề trạng ngữ chỉ cách thức (Adverb Clause of Manner) dùng để diễn tả một giả định không có thật ở quá khứ (vế sau làm rõ thực tế là cô ấy chưa xem she actually hadn't)."
 		},
 		{
 			id: 9,
-			question: "",
+			question: "The price of gold increased __________ the economic instability grew.",
 			options: [
-				"",
-				"",
-				"",
-				""
+				"whereas",
+				"as",
+				"so that",
+				"unless"
 			],
-			correctAnswer: 0,
-			explanation: ""
+			correctAnswer: 1,
+			explanation: "Liên từ as ở đây được dùng với nghĩa \"khi / cùng với lúc\" (Adverb Clause of Time), diễn tả hai hành động hoặc tiến trình biến đổi diễn ra song song với nhau (giá vàng tăng cùng lúc với sự bất ổn kinh tế tăng)."
 		},
 		{
 			id: 10,
-			question: "",
+			question: "You will fail the upcoming exam __________ you start studying seriously right now.",
 			options: [
-				"",
-				"",
-				"",
-				""
+				"if",
+				"unless",
+				"provided that",
+				"even though"
 			],
-			correctAnswer: 0,
-			explanation: ""
+			correctAnswer: 1,
+			explanation: "Unless có nghĩa là \"trừ khi\" (bằng với If... not), mở đầu mệnh đề trạng ngữ chỉ điều kiện. Nếu dùng các liên từ điều kiện mang tính khẳng định như if hoặc provided that (nếu/miễn là bạn học nghiêm túc thì bạn sẽ trượt) sẽ làm câu bị sai hoàn toàn về mặt logic."
 		}
 	];
 
