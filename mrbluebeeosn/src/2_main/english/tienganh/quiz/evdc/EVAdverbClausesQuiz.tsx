@@ -77,7 +77,7 @@ export default function EVAdverbClausesQuiz(): React.JSX.Element {
 				"as long as",
 				"unless"
 			],
-			correctAnswer: 3,
+			correctAnswer: 2,
 			explanation: "As long as (miễn là) dùng để mở đầu mệnh đề trạng ngữ chỉ điều kiện (Adverb Clause of Condition). Các liên từ còn lại không tạo nên mối quan hệ điều kiện hợp lý: even if (ngay cả khi), as if (như thể là), unless (trừ khi)."
 		},
 		{

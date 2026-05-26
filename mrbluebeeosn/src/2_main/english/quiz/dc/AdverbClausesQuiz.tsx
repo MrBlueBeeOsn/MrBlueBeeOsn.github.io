@@ -65,7 +65,7 @@ export default function AdverbClausesQuiz(): React.JSX.Element {
 				"Since",
 				"Until"
 			],
-			correctAnswer: 0,
+			correctAnswer: 2,
 			explanation: "This is an adverb clause of time. \"Since\" indicates a starting point in the past up to the present, which perfectly matches the use of the present perfect tense (has been working) in the main clause."
 		},
 		{
@@ -89,7 +89,7 @@ export default function AdverbClausesQuiz(): React.JSX.Element {
 				"as",
 				"whereas"
 			],
-			correctAnswer: 3,
+			correctAnswer: 2,
 			explanation: "\"As\" is used here to introduce an adverb clause of manner, showing how the action was performed based on a guide or instruction. While \"like\" is common in casual spoken English, \"as\" is the correct subordinating conjunction for a full formal clause. \"As if\" implies an unreal or hypothetical situation, which does not apply to a real recipe."
 		},
 		{
