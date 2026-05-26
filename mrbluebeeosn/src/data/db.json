@@ -3288,6 +3288,17 @@
       "date": "2026-05-25",
       "views": 0,
       "likes": 0
+    },
+    {
+      "id": "When",
+      "categoryDisplay": "Khi.",
+      "categorySlug": "vocabulary#dc-terms",
+      "title": "when",
+      "content": "When (liên từ / trạng từ / đại từ quan hệ): Khi, vào lúc, khi nào. Khi làm liên từ: Dùng để kết nối hai mệnh đề, chỉ thời điểm một sự việc xảy ra hoặc một hành động được thực hiện. Khi làm trạng từ: Dùng trong câu hỏi để hỏi về thời gian. Khi làm đại từ quan hệ: Dùng để bổ nghĩa cho một danh từ chỉ thời gian đứng trước nó.",
+      "slug": "vocabulary/when",
+      "date": "2026-05-26",
+      "views": 0,
+      "likes": 0
     }
   ]
 }

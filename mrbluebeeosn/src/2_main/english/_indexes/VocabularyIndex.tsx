@@ -74,6 +74,10 @@ export default function VocabularyIndex(): React.JSX.Element {
 
 
 						<li>
+							<Link to="/vocabulary/when">when</Link> 	
+						</li>
+
+						<li>
 							<Link to="/vocabulary/if">if</Link> 	
 						</li>
 

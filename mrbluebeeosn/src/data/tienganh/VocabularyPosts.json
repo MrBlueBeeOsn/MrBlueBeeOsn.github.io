@@ -1619,6 +1619,15 @@
 			"content": "If (liên từ): Nếu, nếu như, giả sử. Từ này được dùng để mở đầu cho một mệnh đề điều kiện, diễn tả một tình huống giả định, một khả năng có thể xảy ra hoặc một điều kiện cần thiết để một sự việc khác diễn ra. Ngoài ra, trong câu gián tiếp, nó còn mang nghĩa là \"liệu có... hay không\".",
 			"slug": "vocabulary/if",
 			"date": "2026-05-25"
+		},
+		{ 
+			"id": "When",
+			"categoryDisplay": "Khi.",
+			"categorySlug": "vocabulary#dc-terms",
+			"title": "when",
+			"content": "When (liên từ / trạng từ / đại từ quan hệ): Khi, vào lúc, khi nào. Khi làm liên từ: Dùng để kết nối hai mệnh đề, chỉ thời điểm một sự việc xảy ra hoặc một hành động được thực hiện. Khi làm trạng từ: Dùng trong câu hỏi để hỏi về thời gian. Khi làm đại từ quan hệ: Dùng để bổ nghĩa cho một danh từ chỉ thời gian đứng trước nó.",
+			"slug": "vocabulary/when",
+			"date": "2026-05-26"
 		}
 	]
 }
