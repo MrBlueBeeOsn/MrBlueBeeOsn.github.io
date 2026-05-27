@@ -52,6 +52,9 @@ export default function LegoAssembly5(): React.JSX.Element {
 
 			<p></p>
 
+			<p></p>
+			
+			<p></p>
 			
 
 			{/* 1.  */}
