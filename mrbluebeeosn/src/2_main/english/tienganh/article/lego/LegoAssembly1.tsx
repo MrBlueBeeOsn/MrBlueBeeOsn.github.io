@@ -296,6 +296,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 				</ol>
 			
 			<p className="margin-top-20">Tiếng Anh, suy cho cùng, không phải là một chuỗi những quy tắc bài tập trên giấy. Nó là một hệ thống cơ học, logic và đầy tính sắp xếp. Hãy ngừng học thuộc lòng các "thì" và bắt đầu chơi trò lắp ráp Lego ngay hôm nay!</p>
+			
 
 			<div className="viewcounter">
 			

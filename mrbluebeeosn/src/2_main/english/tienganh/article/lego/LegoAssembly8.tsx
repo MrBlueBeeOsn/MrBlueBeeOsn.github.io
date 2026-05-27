@@ -105,6 +105,11 @@ export default function LegoAssembly8(): React.JSX.Element {
 
 			<p></p>
 
+			<p></p>
+
+			<p></p>
+			
+
 			<div className="viewcounter">
 			
 				<div className="post-date no-margin">
