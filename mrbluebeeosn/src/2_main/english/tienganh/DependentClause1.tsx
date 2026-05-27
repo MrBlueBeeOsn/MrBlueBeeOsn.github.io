@@ -260,8 +260,6 @@ export default function DependentClause1(): React.JSX.Element {
 					<li className="list-none">Cà phê <span className="pill p">[<strong>loại mà tôi mua sáng nay</strong>]</span> thì nóng.</li>
 			
 				</ul>
-			
-			<p className="margin-top-20"></p>
 
 			{/* Lời Kết */}
 

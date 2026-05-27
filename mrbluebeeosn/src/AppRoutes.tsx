@@ -146,6 +146,16 @@ const Posts = lazy(() => import('@/data/Posts'));
 	const BiMatVeTuDuyNgonNgu2 = lazy(() => import('@/2_main/english/tienganh/folder/BiMatVeTuDuyNgonNgu2'));
 	const BiMatVeTuDuyNgonNgu3 = lazy(() => import('@/2_main/english/tienganh/folder/BiMatVeTuDuyNgonNgu3'));
 
+	const LegoAssembly1 = lazy(() => import('@/2_main/english/tienganh/article/lego/LegoAssembly1'));
+	const LegoAssembly2 = lazy(() => import('@/2_main/english/tienganh/article/lego/LegoAssembly2'));
+	const LegoAssembly3 = lazy(() => import('@/2_main/english/tienganh/article/lego/LegoAssembly3'));
+	const LegoAssembly4 = lazy(() => import('@/2_main/english/tienganh/article/lego/LegoAssembly4'));
+	const LegoAssembly5 = lazy(() => import('@/2_main/english/tienganh/article/lego/LegoAssembly5'));
+	const LegoAssembly6 = lazy(() => import('@/2_main/english/tienganh/article/lego/LegoAssembly6'));
+	const LegoAssembly7 = lazy(() => import('@/2_main/english/tienganh/article/lego/LegoAssembly7'));
+	const LegoAssembly8 = lazy(() => import('@/2_main/english/tienganh/article/lego/LegoAssembly8'));
+	const LegoAssembly9 = lazy(() => import('@/2_main/english/tienganh/article/lego/LegoAssembly9'));
+
 	const DependentClause1 = lazy(() => import('@/2_main/english/tienganh/DependentClause1'));
 	const DependentClause2 = lazy(() => import('@/2_main/english/tienganh/DependentClause2'));
 	const DependentClause3 = lazy(() => import('@/2_main/english/tienganh/DependentClause3'));
@@ -673,6 +683,17 @@ export default function AppRoutes(): React.JSX.Element {
 					<Route path="/tieng-anh/bi-mat-ve-tu-duy-ngon-ngu-2" element={<BiMatVeTuDuyNgonNgu2 />} />
 					<Route path="/tieng-anh/bi-mat-ve-tu-duy-ngon-ngu-3" element={<BiMatVeTuDuyNgonNgu3 />} />
 
+					
+					<Route path="/tieng-anh/lego-assembly-1" element={<LegoAssembly1 />} />
+					<Route path="/tieng-anh/lego-assembly-2" element={<LegoAssembly2 />} />
+					<Route path="/tieng-anh/lego-assembly-3" element={<LegoAssembly3 />} />
+					<Route path="/tieng-anh/lego-assembly-4" element={<LegoAssembly4 />} />
+					<Route path="/tieng-anh/lego-assembly-5" element={<LegoAssembly5 />} />
+					<Route path="/tieng-anh/lego-assembly-6" element={<LegoAssembly6 />} />
+					<Route path="/tieng-anh/lego-assembly-7" element={<LegoAssembly7 />} />
+					<Route path="/tieng-anh/lego-assembly-8" element={<LegoAssembly8 />} />
+					<Route path="/tieng-anh/lego-assembly-9" element={<LegoAssembly9 />} />
+					
 					<Route path="/tieng-anh/dependent-clause-1" element={<DependentClause1 />} />
 					<Route path="/tieng-anh/dependent-clause-2" element={<DependentClause2 />} />
 					<Route path="/tieng-anh/dependent-clause-3" element={<DependentClause3 />} />
