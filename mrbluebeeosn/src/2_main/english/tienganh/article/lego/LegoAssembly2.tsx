@@ -48,7 +48,7 @@ export default function LegoAssembly2(): React.JSX.Element {
 
 			</h1>
 
-			<h4 className="margin-bottom-30 text-center">🧩 Học tiếng Anh như lắp ghép Lego: Mô hình S + Head + DP/DC sẽ thay đổi tư duy ngữ pháp của bạn</h4>
+			<h4 className="margin-bottom-30 text-center">🧩 Học tiếng Anh như lắp ghép Lego: Mô hình S Head DP/DC sẽ thay đổi tư duy ngữ pháp của bạn</h4>
 
 			<p>Bạn đã bao giờ cảm thấy mệt mỏi với việc học 12 thì tiếng Anh, nhưng vẫn không thể nói một câu đơn giản mà không lúng túng? Bạn từng nhồi nhét hàng trăm công thức, rồi khi giao tiếp thực tế, đầu óc trống rỗng?</p>
 
@@ -63,7 +63,7 @@ export default function LegoAssembly2(): React.JSX.Element {
 
 			{/* 1.  */}
 
-			<h3 className="margin-y-50 text-center">1. 🔍 Mô hình trung tâm: S + Head + DP/DC</h3>
+			<h3 className="margin-y-50 text-center">1. 🔍 Mô hình trung tâm: S Head DP/DC</h3>
 
 			<h4 className="margin-y-40">S – Subject - Chủ ngữ</h4>
 					
