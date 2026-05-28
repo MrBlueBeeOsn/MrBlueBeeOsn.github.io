@@ -89,45 +89,214 @@ export default function LegoAssembly6(): React.JSX.Element {
 
 			<p></p>
 
+			<p className="margin-top-20"></p>
 			
+				<ol>
+
+					<li value="1"></li>
+					<li className="margin-bottom-20 list-none"></li>
+					<li className="list-none"> - S</li>
+					<li className="list-none"> - Head</li>
+					<li className="margin-bottom-20 list-none"> - DP</li>
+
+					<li value="2"></li>
+					<li className="margin-bottom-20 list-none"></li>
+					<li className="list-none"> - S</li>
+					<li className="list-none"> - Head</li>
+					<li className="margin-bottom-20 list-none"> - DP</li>
+
+					<li value="3"></li>
+					<li className="margin-bottom-20 list-none"></li>
+					<li className="list-none"> - S</li>
+					<li className="list-none"> - Head</li>
+					<li className="margin-bottom-20 list-none"> - DP</li>
+
+					<li value="4"></li>
+					<li className="margin-bottom-20 list-none"></li>
+					<li className="list-none"> - S</li>
+					<li className="list-none"> - Head</li>
+					<li className="margin-bottom-20 list-none"> - DP</li>
+
+					<li value="5"></li>
+					<li className="margin-bottom-20 list-none"></li>
+					<li className="list-none"> - S</li>
+					<li className="list-none"> - Head</li>
+					<li className="margin-bottom-20 list-none"> - DP</li>
+
+					<li value="6"></li>
+					<li className="margin-bottom-20 list-none"></li>
+					<li className="list-none"> - S</li>
+					<li className="list-none"> - Head</li>
+					<li className="margin-bottom-20 list-none"> - DP</li>
+
+					<li value="7"></li>
+					<li className="margin-bottom-20 list-none"></li>
+					<li className="list-none"> - S</li>
+					<li className="list-none"> - Head</li>
+					<li className="margin-bottom-20 list-none"> - DP</li>
+
+					<li value="8"></li>
+					<li className="margin-bottom-20 list-none"></li>
+					<li className="list-none"> - S</li>
+					<li className="list-none"> - Head</li>
+					<li className="margin-bottom-20 list-none"> - DP</li>
+
+					<li value="9"></li>
+					<li className="margin-bottom-20 list-none"></li>
+					<li className="list-none"> - S</li>
+					<li className="list-none"> - Head</li>
+					<li className="margin-bottom-20 list-none"> - DP</li>
+
+					<li value="10"></li>
+					<li className="margin-bottom-20 list-none"></li>
+					<li className="list-none"> - S</li>
+					<li className="list-none"> - Head</li>
+					<li className="margin-bottom-20 list-none"> - DP</li>
+
+					<li value="11"></li>
+					<li className="margin-bottom-20 list-none"></li>
+					<li className="list-none"> - S</li>
+					<li className="list-none"> - Head</li>
+					<li className="margin-bottom-20 list-none"> - DP</li>
+			
+					<li value="12"></li>
+					<li className="margin-bottom-20 list-none"></li>
+					<li className="list-none"> - S</li>
+					<li className="list-none"> - Head</li>
+					<li className="margin-bottom-20 list-none"> - DP</li>
+
+					<li value="13"></li>
+					<li className="margin-bottom-20 list-none"></li>
+					<li className="list-none"> - S</li>
+					<li className="list-none"> - Head</li>
+					<li className="margin-bottom-20 list-none"> - DP</li>
+
+					<li value="14"></li>
+					<li className="margin-bottom-20 list-none"></li>
+					<li className="list-none"> - S</li>
+					<li className="list-none"> - Head</li>
+					<li className="margin-bottom-20 list-none"> - DP</li>
+
+					<li value="15"></li>
+					<li className="margin-bottom-20 list-none"></li>
+					<li className="list-none"> - S</li>
+					<li className="list-none"> - Head</li>
+					<li className="margin-bottom-20 list-none"> - DP</li>
+
+					<li value="16"></li>
+					<li className="margin-bottom-20 list-none"></li>
+					<li className="list-none"> - S</li>
+					<li className="list-none"> - Head</li>
+					<li className="margin-bottom-20 list-none"> - DP</li>
+
+					<li value="17"></li>
+					<li className="margin-bottom-20 list-none"></li>
+					<li className="list-none"> - S</li>
+					<li className="list-none"> - Head</li>
+					<li className="margin-bottom-20 list-none"> - DP</li>
+
+					<li value="18"></li>
+					<li className="margin-bottom-20 list-none"></li>
+					<li className="list-none"> - S</li>
+					<li className="list-none"> - Head</li>
+					<li className="margin-bottom-20 list-none"> - DP</li>
+
+					<li value="19"></li>
+					<li className="margin-bottom-20 list-none"></li>
+					<li className="list-none"> - S</li>
+					<li className="list-none"> - Head</li>
+					<li className="margin-bottom-20 list-none"> - DP</li>
+
+					<li value="20"></li>
+					<li className="margin-bottom-20 list-none"></li>
+					<li className="list-none"> - S</li>
+					<li className="list-none"> - Head</li>
+					<li className="list-none"> - DP</li>
+				</ol>
+
 
 			{/* 5.  */}
 
-			<h3 className="margin-y-50 text-center">5. </h3>
+			<h3 className="margin-y-50 text-center">Bài tập ngắn</h3>
 
 			<p></p>
 
-			<p className="margin-top-20"></p>
+			<p className="margin-top-20">Ví dụ 1:</p>
 			
 				<ul className="list-square">
 			
-					<li></li>
-					<li className="margin-bottom-20 list-none"></li>
-					<li className="list-none">- Head</li>
-					<li className="margin-bottom-20 list-none">- DP</li>
+					<li>She will finish the report.</li>
+					<li className="margin-bottom-20 list-none">Cô ấy sẽ hoàn thành bản báo cáo.</li>
+					<li className="list-none">She - S</li>
+					<li className="list-none">will - Head</li>
+					<li className="margin-bottom-20 list-none">finish the report - DP</li>
+
+					<li>She will not finish the report.</li>
+					<li className="margin-bottom-20 list-none">Cô ấy sẽ không hoàn thành bản báo cáo.</li>
+					<li className="list-none">She - S</li>
+					<li className="list-none">will - Head</li>
+					<li className="margin-bottom-20 list-none">not finish the report - DP</li>
+
+					<li>Will she finish the report?</li>
+					<li className="margin-bottom-20 list-none">Cô ấy có sẽ hoàn thành bản báo cáo không?</li>
+					<li className="list-none">She - S</li>
+					<li className="list-none">will - Head</li>
+					<li className="list-none">finish the report - DP</li>
 			
-					<li></li>
-					<li className="margin-bottom-20 list-none"></li>
-					<li className="list-none">- Head</li>
-					<li className="margin-bottom-20 list-none">- DP</li>
+				</ul>
+
+			<p className="margin-top-20">Ví dụ 2:</p>
+			
+				<ul className="list-square">
+			
+					<li>I don’t know what he wants.</li>
+					<li className="margin-bottom-20 list-none">Tôi không biết anh ấy muốn gì.</li>
+					<li className="list-none">I - S</li>
+					<li className="list-none">don’t  - Head</li>
+					<li className="list-none">know [what he wants] - DP[DC]</li>
+					
+			
+				</ul>
+
+			<p className="margin-top-20">Ví dụ 3:</p>
+			
+				<ul className="list-square">
+
+					<li>The artist who was invited painted a mural.</li>
+					<li className="margin-bottom-20 list-none">Người nghệ sĩ, người mà đã được mời, đã vẽ một bức tranh tường.</li>
+
+					<li className="margin-bottom-20 list-none">Rút gọn:</li>
+			
+					<li>The artist invited painted a mural.</li>
+					<li className="margin-bottom-20 list-none">Người nghệ sĩ được mời đã vẽ một bức tranh tường.</li>
+					<li className="list-none">The artist invited - S</li>
+					<li className="list-none">painted - Head</li>
+					<li className="list-none">a mural - DP</li>
+			
+				</ul>
+
+			<p className="margin-top-20">Ví dụ 4:</p>
+			
+				<ul className="list-square">
 			
 					<li>Eating late at night harms sleep.</li>
-					<li className="margin-bottom-20 list-none"></li>
+					<li className="margin-bottom-20 list-none">Việc ăn khuya gây hại cho giấc ngủ.</li>
 					<li className="list-none">Eating late at night - DP[DC]</li>
 					<li className="list-none">harms - Head</li>
 					<li className="list-none">sleep - DP</li>
 			
 				</ul>
-			
-			<p className="margin-top-20"></p>
+		
 
 			{/* Kết luận */}
 
 			<h3 className="margin-y-50 text-center">Kết luận</h3>
 
-			<p>Mô hình S Head DP/DC giúp bạn phân tích câu theo hai chiều: chức năng (vị trí phụ thuộc sau Head) và cấu trúc (bên trong là cụm hay mệnh đề). Khi object là mệnh đề, dùng DP[DC] để biểu thị rõ ràng. Phương pháp này đơn giản, trực quan và dễ dạy:</p>
+			<p>Mô hình S Head DP/DC là công cụ trực quan, nhất quán để phân biệt chức năng và cấu trúc trong câu tiếng Anh. </p>
 
-			<p>Chọn Head rồi lắp viên phụ thuộc phù hợp, sau đó biến đổi Head để tạo phủ định hoặc nghi vấn. Bạn có thể dùng thẻ màu (S/Head/DP/DC) để dạy trực quan trong lớp.</p>
+			<p>Quy trình: tìm S, xác định Head, rồi lắp DP; thao tác trên Head (thay, thêm not, hoặc đảo lên trước S) tạo phủ định và nghi vấn; khi DP chứa mệnh đề, biểu diễn đầy đủ bằng DP[DC].</p>
+
+			<p>Áp dụng mô hình này giúp viết và biến đổi câu nhanh, rõ ràng và chính xác.</p>
 			
 
 			<div className="viewcounter">
