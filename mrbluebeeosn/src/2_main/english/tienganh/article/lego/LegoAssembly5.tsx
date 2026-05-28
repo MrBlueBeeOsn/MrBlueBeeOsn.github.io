@@ -48,40 +48,248 @@ export default function LegoAssembly5(): React.JSX.Element {
 
 			</h1>
 
-			<h4 className="margin-bottom-30 text-center">Mô hình học ngữ pháp tiếng Anh qua lắp ghép</h4>
-
-			<p></p>
-
-			<p></p>
+			<h4 className="margin-bottom-30 text-center">Học ngữ pháp tiếng Anh bằng cách lắp ghép</h4>
 			
-			<p></p>
+			<p>Học tiếng Anh theo kiểu truyền thống, bạn phải nhớ "thì hiện tại đơn", "thì quá khứ tiếp diễn", rồi hàng chục bảng chia động từ với đầy ngoại lệ.</p>
+
+			<p>Lego Assembly đề xuất một cách nhìn hoàn toàn khác:</p>
+
+			<p>Mọi câu tiếng Anh đều được lắp từ ba khối cố định. Bạn không học "thì" — bạn học cách lắp ghép.</p>
 			
 
 			{/* 1.  */}
 
-			<h3 className="margin-y-50 text-center">1. </h3>
+			<h3 className="margin-y-50 text-center">1. Ba khối Lego</h3>
 
-			<p></p>
+			<p>Hình dung mỗi câu tiếng Anh là một thanh Lego gồm đúng ba mảnh. Mỗi mảnh có màu riêng, chức năng riêng, và không thể hoán đổi tùy tiện.</p>
 
+			<p className="margin-top-20">1. <strong>S</strong></p>
 			
+				<ul className="list-square">
+			
+					<li>Subject</li>
+					<li className="list-none">Chủ ngữ</li>
+					<li className="list-none">Ai / cái gì thực hiện</li>
+			
+				</ul>
 
+			<p className="margin-top-20">2. <strong>Head</strong></p>
+			
+				<ul className="list-square">
+			
+					<li>Hạt nhân — Động từ</li>
+					<li className="margin-bottom-20 list-none">Mang chỉ dấu thời gian</li>
+			
+				</ul>
+			
+			<p className="margin-top-20">3. <strong>DP</strong>/<strong>DC</strong></p>
+			
+				<ul className="list-square">
+			
+					<li>Dependent Phrase/Clause</li>
+					<li className="list-none">Phụ cụm/Mệnh đề</li>
+					<li className="list-none">Bổ nghĩa, đứng sau Head</li>
+			
+				</ul>
+			
+			<p className="margin-top-20">DP và DC đều là "phụ thuộc" — chúng không thể đứng một mình. Sinh ra là để bổ nghĩa cho hạt nhân.</p>
 
 			{/* 2.  */}
 
-			<h3 className="margin-y-50 text-center">2. </h3>
+			<h3 className="margin-y-50 text-center">2. Head — Hạt nhân của câu</h3>
 
-			<p></p>
+			<p>Head không chỉ là động từ. Nó là trung tâm điều khiển của câu — gánh luôn chỉ dấu thời gian, ngôi số, và cả phủ định khi cần.</p>
+
+			<h4 className="margin-y-40">Head tích hợp</h4>
+
+			<p className="text-indent-whole">Trong câu khẳng định, Head là một từ duy nhất nhưng đã gói ghém nhiều thứ bên trong:</p>
+			
+				<ul className="list-square">
+
+					<li></li>
+					<li className="margin-bottom-20 list-none"></li>
+					<li className="list-none"> - S</li>
+					<li className="list-none"> - Head</li>
+					<li className="margin-bottom-20 list-none"> - DP</li>
+					
+					<li></li>
+					<li className="margin-bottom-20 list-none"></li>
+					<li className="list-none"> - S</li>
+					<li className="list-none"> - Head</li>
+					<li className="margin-bottom-20 list-none"> - DP</li>
+
+					<li></li>
+					<li className="margin-bottom-20 list-none"></li>
+					<li className="list-none"> - S</li>
+					<li className="list-none"> - Head</li>
+					<li className="margin-bottom-20 list-none"> - DP</li>
+			
+					<li></li>
+					<li className="margin-bottom-20 list-none"></li>
+					<li className="list-none"> - S</li>
+					<li className="list-none"> - Head</li>
+					<li className="margin-bottom-20 list-none"> - DP</li>
+			 
+					<li></li>
+					<li className="margin-bottom-20 list-none"></li>
+					<li className="list-none"> - S</li>
+					<li className="list-none"> - Head</li>
+					<li className="list-none"> - DP</li>
+			
+				</ul>
 
 		
+			<h4 className="margin-y-40">Head tách ra</h4>
+
+			<p className="text-indent-whole">Khi câu cần phủ định đầy đủ hoặc đặt câu hỏi, chỉ dấu thời gian tách thành Head riêng. Phần còn lại gộp thành DP — bắt đầu bằng động từ nguyên mẫu bare (không "to").</p>
+					
+				<ul className="list-square">
 			
+					<li>will / could / do / did / does</li>
+					<li className="margin-bottom-20 list-none">sẽ / có thể / làm / đã làm / làm (dùng cho ngôi thứ ba số ít)</li>
+
+					<li className="list-none">→ Head tách — DP bắt đầu bằng V bare</li>
+			
+				</ul>
+	
 
 			{/* 3.  */}
 
-			<h3 className="margin-y-50 text-center">3. </h3>
+			<h3 className="margin-y-50 text-center">3. Ba loại câu</h3>
 
-			<p></p>
+			<p>Cùng ba khối Lego đó. Chỉ cần thay đổi vị trí của Head là bạn có ba loại câu hoàn toàn khác nhau.</p>
+
+			<h4 className="margin-y-40">Khẳng định — S Head DP/DC</h4>
+
+			<p className="text-indent-whole">S Head DP/DC</p>
 			
+				<ul className="list-square">
+
+					<li></li>
+					<li className="margin-bottom-20 list-none"></li>
+					<li className="list-none"> - S</li>
+					<li className="list-none"> - Head</li>
+					<li className="margin-bottom-20 list-none"> - DP</li>
+					
+					<li></li>
+					<li className="margin-bottom-20 list-none"></li>
+					<li className="list-none"> - S</li>
+					<li className="list-none"> - Head</li>
+					<li className="margin-bottom-20 list-none"> - DP</li>
+
+					<li></li>
+					<li className="margin-bottom-20 list-none"></li>
+					<li className="list-none"> - S</li>
+					<li className="list-none"> - Head</li>
+					<li className="margin-bottom-20 list-none"> - DP</li>
 			
+					<li></li>
+					<li className="margin-bottom-20 list-none"></li>
+					<li className="list-none"> - S</li>
+					<li className="list-none"> - Head</li>
+					<li className="margin-bottom-20 list-none"> - DP</li>
+			 
+					<li></li>
+					<li className="margin-bottom-20 list-none"></li>
+					<li className="list-none"> - S</li>
+					<li className="list-none"> - Head</li>
+					<li className="list-none"> - DP</li>
+			
+				</ul>
+
+
+			<h4 className="margin-y-40">Phủ định — "not" đi theo vị trí</h4>
+
+			<p className="text-indent-whole">"not" không có nhà cố định. Khi rút gọn (-n't) nó dính vào Head. Khi viết đầy đủ nó đứng đầu DP.</p>
+
+			<p className="text-indent-whole">Rút gọn: S + Head(-n't) + DP — "not" thuộc Head</p>
+			
+				<ul className="list-square">
+
+					<li></li>
+					<li className="margin-bottom-20 list-none"></li>
+					<li className="list-none"> - S</li>
+					<li className="list-none"> - Head</li>
+					<li className="margin-bottom-20 list-none"> - DP</li>
+			
+					<li></li>
+					<li className="margin-bottom-20 list-none"></li>
+					<li className="list-none"> - S</li>
+					<li className="list-none"> - Head</li>
+					<li className="margin-bottom-20 list-none"> - DP</li>
+			 
+					<li></li>
+					<li className="margin-bottom-20 list-none"></li>
+					<li className="list-none"> - S</li>
+					<li className="list-none"> - Head</li>
+					<li className="list-none"> - DP</li>
+			
+				</ul>
+			
+					
+			<p className="text-indent-whole">Đầy đủ: S + Head + DP (not...) — "not" đứng đầu DP</p>
+			
+				<ul className="list-square">
+
+					<li></li>
+					<li className="margin-bottom-20 list-none"></li>
+					<li className="list-none"> - S</li>
+					<li className="list-none"> - Head</li>
+					<li className="margin-bottom-20 list-none"> - DP</li>
+			
+					<li></li>
+					<li className="margin-bottom-20 list-none"></li>
+					<li className="list-none"> - S</li>
+					<li className="list-none"> - Head</li>
+					<li className="margin-bottom-20 list-none"> - DP</li>
+			 
+					<li></li>
+					<li className="margin-bottom-20 list-none"></li>
+					<li className="list-none"> - S</li>
+					<li className="list-none"> - Head</li>
+					<li className="list-none"> - DP</li>
+			
+				</ul>
+
+			<p className="margin-top-20 text-indent-whole">"not" đi theo ai đứng cạnh nó — rút gọn thì ở trong Head, viết đầy đủ thì đứng đầu DP.</p>
+
+			<h4 className="margin-y-40">Nghi vấn — Head nhảy lên trước S</h4>
+					
+			<p className="text-indent-whole">Head + S + DP/DC? (Head nhảy lên — DP không đổi)</p>
+			
+				<ul className="list-square">
+
+					<li></li>
+					<li className="margin-bottom-20 list-none"></li>
+					<li className="list-none"> - Head</li>
+					<li className="list-none"> - S</li>
+					<li className="margin-bottom-20 list-none"> - DP</li>
+
+					<li></li>
+					<li className="margin-bottom-20 list-none"></li>
+					<li className="list-none"> - Head</li>
+					<li className="list-none"> - S</li>
+					<li className="margin-bottom-20 list-none"> - DP</li>
+
+					<li></li>
+					<li className="margin-bottom-20 list-none"></li>
+					<li className="list-none"> - Head</li>
+					<li className="list-none"> - S</li>
+					<li className="margin-bottom-20 list-none"> - DP</li>
+			
+					<li></li>
+					<li className="margin-bottom-20 list-none"></li>
+					<li className="list-none"> - Head</li>
+					<li className="list-none"> - S</li>
+					<li className="margin-bottom-20 list-none"> - DP</li>
+			 
+					<li></li>
+					<li className="margin-bottom-20 list-none"></li>
+					<li className="list-none"> - Head</li>
+					<li className="list-none"> - S</li>
+					<li className="list-none"> - DP</li>
+			
+				</ul>
 
 			{/* 4.  */}
 
