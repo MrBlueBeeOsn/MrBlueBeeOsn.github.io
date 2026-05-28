@@ -48,7 +48,7 @@ export default function LegoAssembly6(): React.JSX.Element {
 
 			</h1>
 
-			<h4 className="margin-bottom-30 text-center">Mô hình Lego Assembly S + Head + DP/DC</h4>
+			<h4 className="margin-bottom-30 text-center">Mô hình Lego Assembly S Head DP DC</h4>
 
 			<p></p>
 

@@ -48,7 +48,7 @@ export default function LegoAssembly8(): React.JSX.Element {
 
 			</h1>
 
-			<h4 className="margin-bottom-30 text-center">Học tiếng Anh như lắp Lego: S + Head + DP/DC</h4>
+			<h4 className="margin-bottom-30 text-center">Ngữ pháp Lego: Ba chỗ đứng, bốn cách lấp đầy</h4>
 
 			<p></p>
 

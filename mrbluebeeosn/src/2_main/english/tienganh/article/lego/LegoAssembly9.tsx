@@ -48,7 +48,7 @@ export default function LegoAssembly9(): React.JSX.Element {
 
 			</h1>
 
-			<h4 className="margin-bottom-30 text-center">Giải mã Ngữ pháp tiếng Anh bằng tư duy lắp ghép</h4>
+			<h4 className="margin-bottom-30 text-center">Nghệ Thuật Lắp Ghép Ngữ Pháp Tiếng Anh Đỉnh Cao</h4>
 
 			<p></p>
 
