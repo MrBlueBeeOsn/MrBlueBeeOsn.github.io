@@ -67,8 +67,7 @@ export default function LegoAssembly5(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>Subject</li>
-					<li className="list-none">Chủ ngữ</li>
+					<li>Subject - Chủ ngữ</li>
 					<li className="list-none">Ai / cái gì thực hiện</li>
 			
 				</ul>
@@ -86,8 +85,7 @@ export default function LegoAssembly5(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>Dependent Phrase/Clause</li>
-					<li className="list-none">Phụ cụm/Mệnh đề</li>
+					<li>Dependent Phrase/Clause - Phụ cụm/Mệnh đề</li>
 					<li className="list-none">Bổ nghĩa, đứng sau Head</li>
 			
 				</ul>
@@ -106,39 +104,38 @@ export default function LegoAssembly5(): React.JSX.Element {
 			
 				<ul className="list-square">
 
-					<li></li>
-					<li className="margin-bottom-20 list-none"></li>
-					<li className="list-none"> - S</li>
-					<li className="list-none"> - Head</li>
-					<li className="margin-bottom-20 list-none"> - DP</li>
+					<li>She eats rice.</li>
+					<li className="margin-bottom-20 list-none">Cô ấy ăn cơm.</li>
+					<li className="list-none">She - S</li>
+					<li className="list-none">eats (tích hợp does eat) - Head</li>
+					<li className="margin-bottom-20 list-none">rice - DP</li>
 					
-					<li></li>
-					<li className="margin-bottom-20 list-none"></li>
-					<li className="list-none"> - S</li>
-					<li className="list-none"> - Head</li>
-					<li className="margin-bottom-20 list-none"> - DP</li>
+					<li>I ate rice.</li>
+					<li className="margin-bottom-20 list-none">Tôi đã ăn cơm.</li>
+					<li className="list-none">I - S</li>
+					<li className="list-none">ate (tích hợp did eat) - Head</li>
+					<li className="margin-bottom-20 list-none">rice - DP</li>
 
-					<li></li>
-					<li className="margin-bottom-20 list-none"></li>
-					<li className="list-none"> - S</li>
-					<li className="list-none"> - Head</li>
-					<li className="margin-bottom-20 list-none"> - DP</li>
+					<li>She is tired.</li>
+					<li className="margin-bottom-20 list-none">Cô ấy đang mệt.</li>
+					<li className="list-none">She - S</li>
+					<li className="list-none">is - Head</li>
+					<li className="margin-bottom-20 list-none">tired - DP</li>
 			
-					<li></li>
-					<li className="margin-bottom-20 list-none"></li>
-					<li className="list-none"> - S</li>
-					<li className="list-none"> - Head</li>
-					<li className="margin-bottom-20 list-none"> - DP</li>
+					<li>He doesn't eat rice.</li>
+					<li className="margin-bottom-20 list-none">Anh ấy không ăn cơm.</li>
+					<li className="list-none">He - S</li>
+					<li className="list-none">doesn't (tích hợp does + not) - Head</li>
+					<li className="margin-bottom-20 list-none">eat rice - DP</li>
 			 
-					<li></li>
-					<li className="margin-bottom-20 list-none"></li>
-					<li className="list-none"> - S</li>
-					<li className="list-none"> - Head</li>
-					<li className="list-none"> - DP</li>
+					<li>She won't come.</li>
+					<li className="margin-bottom-20 list-none">Cô ấy sẽ không đến.</li>
+					<li className="list-none">She - S</li>
+					<li className="list-none">won't (tích hợp will + not) - Head</li>
+					<li className="margin-bottom-20 list-none">come - DP</li>
 			
 				</ul>
 
-		
 			<h4 className="margin-y-40">Head tách ra</h4>
 
 			<p className="text-indent-whole">Khi câu cần phủ định đầy đủ hoặc đặt câu hỏi, chỉ dấu thời gian tách thành Head riêng. Phần còn lại gộp thành DP — bắt đầu bằng động từ nguyên mẫu bare (không "to").</p>
@@ -161,39 +158,39 @@ export default function LegoAssembly5(): React.JSX.Element {
 
 			<h4 className="margin-y-40">Khẳng định — S Head DP/DC</h4>
 
-			<p className="text-indent-whole">S Head DP/DC</p>
+			<p className="margin-y-30 text-indent-whole"><strong>S Head DP</strong>/<strong>DC</strong></p>
 			
 				<ul className="list-square">
 
-					<li></li>
-					<li className="margin-bottom-20 list-none"></li>
-					<li className="list-none"> - S</li>
-					<li className="list-none"> - Head</li>
-					<li className="margin-bottom-20 list-none"> - DP</li>
+					<li>I eat rice.</li>
+					<li className="margin-bottom-20 list-none">Tôi ăn cơm.</li>
+					<li className="list-none">I - S</li>
+					<li className="list-none">eat - Head</li>
+					<li className="margin-bottom-20 list-none">rice - DP</li>
 					
-					<li></li>
-					<li className="margin-bottom-20 list-none"></li>
-					<li className="list-none"> - S</li>
-					<li className="list-none"> - Head</li>
-					<li className="margin-bottom-20 list-none"> - DP</li>
+					<li>He buys a car.</li>
+					<li className="margin-bottom-20 list-none">Anh ta mua một chiếc xe.</li>
+					<li className="list-none">He - S</li>
+					<li className="list-none">buys - Head</li>
+					<li className="margin-bottom-20 list-none">a car - DP</li>
 
-					<li></li>
-					<li className="margin-bottom-20 list-none"></li>
-					<li className="list-none"> - S</li>
-					<li className="list-none"> - Head</li>
-					<li className="margin-bottom-20 list-none"> - DP</li>
+					<li>She is tired.</li>
+					<li className="margin-bottom-20 list-none">Cô ấy mệt.</li>
+					<li className="list-none">She - S</li>
+					<li className="list-none">is - Head</li>
+					<li className="margin-bottom-20 list-none">tired - DP</li>
 			
-					<li></li>
-					<li className="margin-bottom-20 list-none"></li>
-					<li className="list-none"> - S</li>
-					<li className="list-none"> - Head</li>
-					<li className="margin-bottom-20 list-none"> - DP</li>
+					<li>I am eating rice.</li>
+					<li className="margin-bottom-20 list-none">Tôi đang ăn cơm.</li>
+					<li className="list-none">I - S</li>
+					<li className="list-none">am - Head</li>
+					<li className="margin-bottom-20 list-none">eating rice - DP</li>
 			 
-					<li></li>
-					<li className="margin-bottom-20 list-none"></li>
-					<li className="list-none"> - S</li>
-					<li className="list-none"> - Head</li>
-					<li className="list-none"> - DP</li>
+					<li>She will join the team.</li>
+					<li className="margin-bottom-20 list-none">Cô ấy sẽ gia nhập đội.</li>
+					<li className="list-none">She - S</li>
+					<li className="list-none">will - Head</li>
+					<li className="list-none">join the team - DP</li>
 			
 				</ul>
 
@@ -202,92 +199,93 @@ export default function LegoAssembly5(): React.JSX.Element {
 
 			<p className="text-indent-whole">"not" không có nhà cố định. Khi rút gọn (-n't) nó dính vào Head. Khi viết đầy đủ nó đứng đầu DP.</p>
 
-			<p className="text-indent-whole">Rút gọn: S + Head(-n't) + DP — "not" thuộc Head</p>
+			<p className="margin-y-30 text-indent-whole"><strong>Rút gọn</strong>: <strong>S Head</strong>(-<strong>n</strong>'<strong>t</strong>) <strong>DP</strong> — "<strong>not</strong>" <strong>thuộc Head</strong></p>
 			
 				<ul className="list-square">
 
-					<li></li>
-					<li className="margin-bottom-20 list-none"></li>
-					<li className="list-none"> - S</li>
-					<li className="list-none"> - Head</li>
-					<li className="margin-bottom-20 list-none"> - DP</li>
+					<li>I don't eat rice.</li>
+					<li className="margin-bottom-20 list-none">Tôi không ăn cơm.</li>
+					<li className="list-none">I - S</li>
+					<li className="list-none">don't - Head</li>
+					<li className="margin-bottom-20 list-none">eat rice - DP</li>
 			
-					<li></li>
-					<li className="margin-bottom-20 list-none"></li>
-					<li className="list-none"> - S</li>
-					<li className="list-none"> - Head</li>
-					<li className="margin-bottom-20 list-none"> - DP</li>
+					<li>She isn't tired.</li>
+					<li className="margin-bottom-20 list-none">Cô ấy không mệt.</li>
+					<li className="list-none">She - S</li>
+					<li className="list-none">isn't - Head</li>
+					<li className="margin-bottom-20 list-none">tired - DP</li>
 			 
-					<li></li>
-					<li className="margin-bottom-20 list-none"></li>
-					<li className="list-none"> - S</li>
-					<li className="list-none"> - Head</li>
-					<li className="list-none"> - DP</li>
+					<li>She won't join the team.</li>
+					<li className="margin-bottom-20 list-none">Cô ấy sẽ không tham gia đội.</li>
+					<li className="list-none">She - S</li>
+					<li className="list-none">won't - Head</li>
+					<li className="list-none">join the team - DP</li>
 			
 				</ul>
 			
 					
-			<p className="text-indent-whole">Đầy đủ: S + Head + DP (not...) — "not" đứng đầu DP</p>
+			<p className="margin-y-30 text-indent-whole"><strong>Đầy đủ</strong>: <strong>S Head DP</strong> (<strong>not</strong>...) — "<strong>not</strong>" <strong>đứng đầu DP</strong></p>
 			
 				<ul className="list-square">
 
-					<li></li>
-					<li className="margin-bottom-20 list-none"></li>
-					<li className="list-none"> - S</li>
-					<li className="list-none"> - Head</li>
-					<li className="margin-bottom-20 list-none"> - DP</li>
+					<li>I do not eat rice.</li>
+					<li className="margin-bottom-20 list-none">Tôi không ăn cơm.</li>
+					<li className="list-none">I - S</li>
+					<li className="list-none">do - Head</li>
+					<li className="margin-bottom-20 list-none">not eat rice - DP</li>
 			
-					<li></li>
-					<li className="margin-bottom-20 list-none"></li>
-					<li className="list-none"> - S</li>
-					<li className="list-none"> - Head</li>
-					<li className="margin-bottom-20 list-none"> - DP</li>
+					<li>She is not tired.</li>
+					<li className="margin-bottom-20 list-none">Cô ấy không mệt.</li>
+					<li className="list-none">She - S</li>
+					<li className="list-none">is - Head</li>
+					<li className="margin-bottom-20 list-none">not tired - DP</li>
 			 
-					<li></li>
-					<li className="margin-bottom-20 list-none"></li>
-					<li className="list-none"> - S</li>
-					<li className="list-none"> - Head</li>
-					<li className="list-none"> - DP</li>
+					<li>She will not join the team.</li>
+					<li className="margin-bottom-20 list-none">Cô ấy sẽ không tham gia đội.</li>
+					<li className="list-none">She - S</li>
+					<li className="list-none">will - Head</li>
+					<li className="list-none">not join the team - DP</li>
 			
 				</ul>
 
 			<p className="margin-top-20 text-indent-whole">"not" đi theo ai đứng cạnh nó — rút gọn thì ở trong Head, viết đầy đủ thì đứng đầu DP.</p>
 
+
 			<h4 className="margin-y-40">Nghi vấn — Head nhảy lên trước S</h4>
 					
-			<p className="text-indent-whole">Head + S + DP/DC? (Head nhảy lên — DP không đổi)</p>
+			<p className="text-indent-whole"><strong>Head S DP</strong>/<strong>DC</strong>? (<strong>Head nhảy lên</strong> — <strong>DP không đổi</strong>)</p>
 			
 				<ul className="list-square">
 
-					<li></li>
-					<li className="margin-bottom-20 list-none"></li>
-					<li className="list-none"> - Head</li>
-					<li className="list-none"> - S</li>
-					<li className="margin-bottom-20 list-none"> - DP</li>
+					<li>Do you eat rice?</li>
+					<li className="margin-bottom-20 list-none">Bạn có ăn cơm không?</li>
+					<li className="list-none">Do - Head</li>
+					<li className="list-none">you - S</li>
+					<li className="margin-bottom-20 list-none">eat rice? - DP</li>
 
-					<li></li>
-					<li className="margin-bottom-20 list-none"></li>
-					<li className="list-none"> - Head</li>
-					<li className="list-none"> - S</li>
-					<li className="margin-bottom-20 list-none"> - DP</li>
+					<li>Is she tired?</li>
+					<li className="margin-bottom-20 list-none">Cô ấy có mệt không?</li>
+					<li className="list-none">Is - Head</li>
+					<li className="list-none">she - S</li>
+					<li className="margin-bottom-20 list-none">tired? - DP</li>
 
-					<li></li>
-					<li className="margin-bottom-20 list-none"></li>
-					<li className="list-none"> - Head</li>
-					<li className="list-none"> - S</li>
-					<li className="margin-bottom-20 list-none"> - DP</li>
+					<li>Will she join the team?</li>
+					<li className="margin-bottom-20 list-none">Cô ấy có gia nhập đội không?</li>
+					<li className="list-none">Will - Head</li>
+					<li className="list-none">she - S</li>
+					<li className="margin-bottom-20 list-none">join the team? - DP</li>
 			
-					<li></li>
-					<li className="margin-bottom-20 list-none"></li>
-					<li className="list-none"> - Head</li>
-					<li className="list-none"> - S</li>
-					<li className="margin-bottom-20 list-none"> - DP</li>
+					<li>Could you open the door?</li>
+					<li className="margin-bottom-20 list-none">Bạn có thể mở cửa không?</li>
+					<li className="list-none">Could - Head</li>
+					<li className="list-none">you - S</li>
+					<li className="margin-bottom-20 list-none">open the door? - DP</li>
 			 
-					<li></li>
-					<li className="margin-bottom-20 list-none"></li>
-					<li className="list-none"> - Head</li>
-					<li className="list-none"> - S</li>
-					<li className="list-none"> - DP</li>
+					<li>Isn't she tired?</li>
+					<li className="margin-bottom-20 list-none">Cô ấy không mệt à?</li>
+					<li className="list-none">Isn't - Head</li>
+					<li className="list-none">she - S</li>
+					<li className="list-none">tired? - DP</li>
 			
 				</ul>
 
@@ -341,7 +339,7 @@ export default function LegoAssembly5(): React.JSX.Element {
 
 			<h4 className="margin-y-40">DC làm tân ngữ — đứng sau Head</h4>
 					
-			<p className="text-indent-whole">DC thay thế vị trí DP — nó là thứ đứng sau Head, chỉ là phức tạp hơn vì bên trong có S+V riêng.</p>
+			<p className="text-indent-whole">DC thay thế vị trí DP — nó là thứ đứng sau Head, chỉ là phức tạp hơn vì bên trong có S V riêng.</p>
 
 			<ul className="list-square">
 
@@ -373,7 +371,7 @@ export default function LegoAssembly5(): React.JSX.Element {
 
 			<h4 className="margin-y-40">DC bổ nghĩa danh từ trong S — Relative Clause</h4>
 					
-			<p className="text-indent-whole">DC có thể nằm bên trong S để bổ nghĩa cho danh từ. Khi đó cấu trúc là: S [DC] + Head + DP.</p>
+			<p className="text-indent-whole">DC có thể nằm bên trong S để bổ nghĩa cho danh từ. Khi đó cấu trúc là: S [DC] Head DP.</p>
 
 			<ul className="list-square">
 			
@@ -396,7 +394,7 @@ export default function LegoAssembly5(): React.JSX.Element {
 
 			<h4 className="margin-y-40">DC → DP khi rút gọn</h4>
 					
-			<p className="text-indent-whole">Bỏ who/that + be → DC thu gọn thành DP. Chức năng giống hệt nhau, chỉ hình thức ngắn hơn. Đây không phải hai loại khác nhau — một cái đầy đủ, một cái rút gọn.</p>
+			<p className="text-indent-whole">Bỏ who/that be → DC thu gọn thành DP. Chức năng giống hệt nhau, chỉ hình thức ngắn hơn. Đây không phải hai loại khác nhau — một cái đầy đủ, một cái rút gọn.</p>
 					
 			<p className="text-indent-whole"><strong>DC</strong> — <strong>đầy đủ</strong></p>
 			
@@ -427,6 +425,8 @@ export default function LegoAssembly5(): React.JSX.Element {
 					<li className="margin-bottom-20 list-none">đang ngủ trên ghế sofa</li>
 			
 				</ul>
+
+				<p className="margin-top-20">Ví dụ:</p>
 			
 				<ul className="list-square">
 			
