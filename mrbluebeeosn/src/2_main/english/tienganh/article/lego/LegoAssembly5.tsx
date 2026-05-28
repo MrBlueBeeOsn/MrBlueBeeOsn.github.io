@@ -85,25 +85,106 @@ export default function LegoAssembly5(): React.JSX.Element {
 
 			{/* 4.  */}
 
-			<h3 className="margin-y-50 text-center">4. </h3>
+			<h3 className="margin-y-50 text-center">4. DP — Dependent Phrase</h3>
 
-			<p></p>
+			<p>DP là tất cả những gì đứng sau Head, không có động từ chia riêng bên trong. Nó có thể là tính từ, danh từ, cụm V-ing, cụm nguyên mẫu, trạng từ, hoặc cụm giới từ.</p>
 
+				<ul className="list-square">
+
+					<li>She is happy today.</li>
+					<li className="margin-bottom-20 list-none">Cô ấy vui hôm nay.</li>
+					<li className="list-none">She - S</li>
+					<li className="list-none">is - Head</li>
+					<li className="margin-bottom-20 list-none">happy today - DP tính từ</li>
+
+					<li>She is reading a book.</li>
+					<li className="margin-bottom-20 list-none">Cô ấy đang đọc sách.</li>
+					<li className="list-none">She - S</li>
+					<li className="list-none">is - Head</li>
+					<li className="margin-bottom-20 list-none">reading a book - DP V-ing</li>
+
+					<li>He buys a new car.</li>
+					<li className="margin-bottom-20 list-none">Anh ta mua xe mới.</li>
+					<li className="list-none">He - S</li>
+					<li className="list-none">buys - Head</li>
+					<li className="margin-bottom-20 list-none">a new car - DP danh từ</li>
 			
+					<li>He works in Vietnam.</li>
+					<li className="margin-bottom-20 list-none">Anh ta làm việc ở Hà Nội.</li>
+					<li className="list-none">He - S</li>
+					<li className="list-none">works - Head</li>
+					<li className="margin-bottom-20 list-none">in Vietnam - DP giới từ</li>
+			 
+					<li>I will eat rice</li>
+					<li className="margin-bottom-20 list-none">Tôi sẽ ăn cơm.</li>
+					<li className="list-none">I - S</li>
+					<li className="list-none">will - Head</li>
+					<li className="list-none">eat rice - DP V bare</li>
+			
+				</ul>
 
 			{/* 5.  */}
 
-			<h3 className="margin-y-50 text-center">5. </h3>
-
-			<p></p>
-
-			<p></p>
+			<h3 className="margin-y-50 text-center">5. DC — Dependent Clause</h3>
 					
-			<p></p>
+			<p>DC là mệnh đề phụ — nó có động từ chia riêng bên trong. Đây là điểm duy nhất phân biệt DC với DP.</p>
 					
-			<p></p>
+			<p>Kiểm tra nhanh: có động từ đang "chạy" bên trong không? Có → DC. Không → DP.</p>
 
-			<p></p>
+			<h4 className="margin-y-40">DC làm tân ngữ — đứng sau Head</h4>
+					
+			<p className="text-indent-whole">DC thay thế vị trí DP — nó là thứ đứng sau Head, chỉ là phức tạp hơn vì bên trong có S+V riêng.</p>
+
+			<ul className="list-square">
+
+					<li>She said that she is not tired.</li>
+					<li className="margin-bottom-20 list-none">Cô ấy nói rằng cô ấy không mệt.</li>
+					<li className="list-none">She - S</li>
+					<li className="list-none">said - Head</li>
+					<li className="margin-bottom-20 list-none">that she is not tired - DC</li>
+
+					<li>I have what I need.</li>
+					<li className="margin-bottom-20 list-none">Tôi biết rằng anh ta đúng.</li>
+					<li className="list-none">I - S</li>
+					<li className="list-none">know - Head</li>
+					<li className="margin-bottom-20 list-none">that he is right - DC</li>
+			
+					<li>I have what I need.</li>
+					<li className="margin-bottom-20 list-none">Tôi có những gì tôi cần.</li>
+					<li className="list-none">I - S</li>
+					<li className="list-none">have - Head</li>
+					<li className="margin-bottom-20 list-none">what I need - DC</li>
+			 
+					<li>I don't know where he went.</li>
+					<li className="margin-bottom-20 list-none">Tôi không biết anh ta đi đâu.</li>
+					<li className="list-none">I - S</li>
+					<li className="list-none">don't - Head</li>
+					<li className="list-none">know where he went - DP[DC]</li>
+			
+				</ul>
+
+			<h4 className="margin-y-40">DC bổ nghĩa danh từ trong S — Relative Clause</h4>
+					
+			<p className="text-indent-whole">DC có thể nằm bên trong S để bổ nghĩa cho danh từ. Khi đó cấu trúc là: S [DC] + Head + DP.</p>
+
+			<ul className="list-square">
+			
+					<li>The man who is standing next to the door is my friend.</li>
+					<li className="margin-bottom-20 list-none">Người đàn ông, người mà đang đứng cạnh cửa, là bạn của tôi.</li>
+					<li className="list-none">The man - S</li>
+					<li className="list-none">who is standing next to the door - DC</li>
+					<li className="list-none">is - Head</li>
+					<li className="margin-bottom-20 list-none">my friend - DP</li>
+			 
+					<li>The book that she recommended was very useful.</li>
+					<li className="margin-bottom-20 list-none">Cuốn sách mà cô ấy giới thiệu đã rất hữu ích.</li>
+					<li className="list-none">The book - S</li>
+					<li className="list-none">that she recommended - DC trong S</li>
+					<li className="list-none">was - Head</li>
+					<li className="list-none">very useful - DP</li>
+			
+				</ul>
+			
 
 			<h4 className="margin-y-40">DC → DP khi rút gọn</h4>
 					
