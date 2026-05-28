@@ -50,22 +50,148 @@ export default function LegoAssembly4(): React.JSX.Element {
 
 			<h4 className="margin-bottom-30 text-center">Khi Tiếng Anh Không Còn Là “12 Thì” Mà Là Một Hệ Lắp Ghép</h4>
 
-			<p></p>
+			<p className="margin-top-20">Rất nhiều người học tiếng Anh theo cách giống học công thức toán.</p>
+			
+				<ul className="list-square">
+			
+					<li>12 thì</li>
+					<li>hàng chục cấu trúc</li>
+					<li>hàng trăm quy tắc</li>
+					<li>vô số ngoại lệ</li>
+			
+				</ul>
+			
+			<p className="margin-top-20">Nhưng càng học, tiếng Anh càng trở nên rối.</p>
 
-			<p></p>
+			<p>Lý do không nằm ở trí nhớ kém.</p>
+			<p>Mà vì chúng ta đang học tiếng Anh theo cách quá “phân mảnh”.</p>
+			<p>Trong khi bản chất thật của tiếng Anh lại giống một hệ thống Lego.</p>
 			
-			<p></p>
+				<ul className="list-square">
 			
+					<li>có bộ khung</li>
+					<li>có hạt nhân trung tâm</li>
+					<li>có các block phụ thuộc được lắp vào</li>
+			
+				</ul>
+			
+			<p className="margin-top-20">Và khi nhìn tiếng Anh theo hướng đó, mọi thứ bắt đầu trở nên đơn giản hơn rất nhiều.</p>
+
 
 			{/* 1.  */}
 
-			<h3 className="margin-y-50 text-center">1. </h3>
+			<h3 className="margin-y-50 text-center">1. Công Thức Gốc: S Head DP/DC</h3>
 
-			<p></p>
+			<p>Toàn bộ tiếng Anh có thể được nhìn như:</p>
 
-			{/* 1.  */}
+			<p className="margin-y-50 text-indent-whole">S Head DP/DC</p>
+			
+			<p>Trong đó:</p>
 
-			<h3 className="margin-y-50 text-center">DP Và DC Chỉ Là Các Block Phụ Thuộc</h3>
+			<p className="margin-top-20">Thành phần	- Vai trò</p>
+			
+				<ul className="list-square">
+			
+					<li>S: Subject (chủ thể)</li>
+					<li className="margin-bottom-20 list-none">Người thực hiện hành động</li>
+			
+					<li>Head: Hạt nhân</li>
+					<li className="margin-bottom-20 list-none">Trung tâm điều khiển cấu trúc</li>
+
+					<li>DP: Dependent Phrase</li>
+					<li className="margin-bottom-20 list-none">Cụm từ phụ</li>
+			
+					<li>DC: Dependent Clause</li>
+					<li className="list-none">Mệnh đề phụ</li>
+			
+				</ul>
+			
+			<p className="margin-top-20"></p>
+
+			<p className="margin-top-20">Điều quan trọng nhất nằm ở chữ:</p>
+			
+				<ul className="list-square">
+					<li className="list-none">Dependent</li>
+				</ul>
+
+			<p className="margin-top-20">Nghĩa là:</p>
+			
+				<ul className="list-square">
+			
+					<li>phụ thuộc</li>
+					<li>không tự đứng hoàn chỉnh</li>
+					<li>cần bám vào Head</li>
+			
+				</ul>
+			
+			<p className="margin-top-20">Đó là tư duy cốt lõi của Lego Assembly.</p>
+			
+
+			{/* 2.  */}
+
+			<h3 className="margin-y-50 text-center">2. Head Là Bộ Não Của Câu</h3>
+
+			<p>Head giống CPU của hệ thống.</p>
+
+			<p className="margin-top-20">Nó điều khiển:</p>
+			
+				<ul className="list-square">
+			
+					<li>thời gian</li>
+					<li>phủ định</li>
+					<li>nghi vấn</li>
+					<li>khả năng</li>
+					<li>trạng thái</li>
+					<li>mức độ chắc chắn</li>
+			
+				</ul>
+
+			<p className="margin-top-20">Ví dụ:</p>
+			
+				<ul className="list-square">
+			
+					<li>I will study English.</li>
+					<li className="list-none">Tôi sẽ học tiếng Anh.</li>
+			
+				</ul>
+
+			<p className="margin-top-20">Phân tích:</p>
+			
+				<ul className="list-square">
+			
+					<li>I → Subject</li>
+					<li className="margin-bottom-20 list-none">Tôi → Chủ ngữ</li>
+			
+					<li>will → Head</li>
+					<li className="margin-bottom-20 list-none">sẽ → Hạt nhân</li>
+			
+					<li>study English → DP</li>
+					<li className="list-none">học tiếng Anh → Cụm phụ thuộc</li>
+			
+				</ul>
+			
+			<p className="margin-top-20"></p>
+
+			<p className="margin-top-20">Ở đây:</p>
+			
+				<ul className="list-square">
+					<li className="list-none">“will” mới là phần mang tương lai.</li>
+				</ul>
+
+			<p className="margin-top-20">Còn:</p>
+			
+				<ul className="list-square">
+			
+					<li>“study English”</li>
+					<li className="list-none">"học tiếng Anh"</li>
+			
+				</ul>
+			
+			<p className="margin-top-20">chỉ là nội dung hành động được gắn phía sau.</p>
+
+			{/* 3.  */}
+
+			<h3 className="margin-y-50 text-center">3. DP Và DC Chỉ Là Các Block Phụ Thuộc</h3>
 
 			<h4 className="margin-y-40">DP — Dependent Phrase</h4>
 
@@ -84,7 +210,7 @@ export default function LegoAssembly4(): React.JSX.Element {
 				</ul>
 			
 			
-			<p className="margin-top-20">Trong DP:</p>
+			<p className="margin-top-20 text-indent-whole">Trong DP:</p>
 			
 				<ul className="list-square">
 			
@@ -93,9 +219,9 @@ export default function LegoAssembly4(): React.JSX.Element {
 			
 				</ul>
 
-			<p className="margin-top-20">DP không điều khiển cấu trúc.</p>
+			<p className="margin-top-20 text-indent-whole">DP không điều khiển cấu trúc.</p>
 			
-			<p className="margin-top-20">Nó chỉ mang nội dung.</p>
+			<p className="margin-top-20 text-indent-whole">Nó chỉ mang nội dung.</p>
 
 
 			<h4 className="margin-y-40">DC — Dependent Clause</h4>
@@ -120,9 +246,9 @@ export default function LegoAssembly4(): React.JSX.Element {
 					<li>một “mini sentence” được cắm vào câu lớn.</li>
 				</ul>
 
-			{/* 1.  */}
+			{/* 4.  */}
 
-			<h3 className="margin-y-50 text-center">Tiếng Anh Không Đi Theo “Từ”, Nó Đi Theo “Block”</h3>
+			<h3 className="margin-y-50 text-center">4. Tiếng Anh Không Đi Theo “Từ”, Nó Đi Theo “Block”</h3>
 
 			<p className="margin-top-20">Người mới học thường dịch từng từ:</p>
 			
@@ -150,9 +276,9 @@ export default function LegoAssembly4(): React.JSX.Element {
 			
 			<p className="margin-top-20">Tiếng Anh vận hành theo cụm ý nghĩa, không phải từng từ rời rạc.</p>
 
-			{/* 1.  */}
+			{/* 5.  */}
 
-			<h3 className="margin-y-50 text-center">Head Có Thể Tích Hợp Bên Trong Động Từ</h3>
+			<h3 className="margin-y-50 text-center">5. Head Có Thể Tích Hợp Bên Trong Động Từ</h3>
 
 			<p className="margin-top-20">Ví dụ:</p>
 			
@@ -207,9 +333,9 @@ export default function LegoAssembly4(): React.JSX.Element {
 			
 			<p className="margin-top-20">Head được tách riêng ra để gánh cấu trúc.</p>
 
-			{/* 2.  */}
+			{/* 6.  */}
 
-			<h3 className="margin-y-50 text-center">Câu Nghi Vấn Chỉ Là “Đẩy Head Lên Trước”</h3>
+			<h3 className="margin-y-50 text-center">6. Câu Nghi Vấn Chỉ Là “Đẩy Head Lên Trước”</h3>
 
 			<p>Cấu trúc:</p>
 
@@ -242,9 +368,9 @@ export default function LegoAssembly4(): React.JSX.Element {
 					<li className="list-none">đưa Head ra phía trước để mở “question mode”.</li>
 				</ul>
 
-			{/* 3.  */}
+			{/* 7.  */}
 
-			<h3 className="margin-y-50 text-center">Vì Sao Động Từ Sau Head Luôn Ở Nguyên Mẫu?</h3>
+			<h3 className="margin-y-50 text-center">7. Vì Sao Động Từ Sau Head Luôn Ở Nguyên Mẫu?</h3>
 
 			<p className="margin-top-20">Vì Head đã gánh:</p>
 			
@@ -292,9 +418,9 @@ export default function LegoAssembly4(): React.JSX.Element {
 
 			<p className="margin-top-20">Hai Head chồng lên nhau.</p>
 
-			{/* 4.  */}
+			{/* 8.  */}
 
-			<h3 className="margin-y-50 text-center">Thực Chất, Bạn Không “Học Thì”</h3>
+			<h3 className="margin-y-50 text-center">8. Thực Chất, Bạn Không “Học Thì”</h3>
 
 			<p className="margin-top-20">Bạn chỉ đang:</p>
 			
@@ -331,9 +457,9 @@ export default function LegoAssembly4(): React.JSX.Element {
 			<p>Chỉ Head thay đổi.</p>
 			<p>Và toàn bộ cảm giác câu thay đổi theo.</p>
 
-			{/* 5.  */}
+			{/* 9.  */}
 
-			<h3 className="margin-y-50 text-center">Lego Assembly Giúp Não Bộ Học Tự Nhiên Hơn</h3>
+			<h3 className="margin-y-50 text-center">9. Lego Assembly Giúp Não Bộ Học Tự Nhiên Hơn</h3>
 			
 				<ul className="list-square">
 			
@@ -354,9 +480,9 @@ export default function LegoAssembly4(): React.JSX.Element {
 			
 			<p className="margin-top-20">Đó là cách người dùng ngôn ngữ thật sự xử lý câu nói.</p>
 
-			{/* Kết luận */}
+			{/* 10. */}
 
-			<h3 className="margin-y-50 text-center">Tiếng Anh Không Phải Một Danh Sách Công Thức</h3>
+			<h3 className="margin-y-50 text-center">10. Tiếng Anh Không Phải Một Danh Sách Công Thức</h3>
 
 			<p className="margin-top-20">Nó là:</p>
 			
