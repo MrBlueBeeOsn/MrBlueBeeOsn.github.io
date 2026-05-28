@@ -113,7 +113,7 @@ export default function LegoAssembly7(): React.JSX.Element {
 			<div className="viewcounter">
 			
 				<div className="post-date no-margin">
-					<span>May 28, 2026 · by PPLX and 🐝Mr. Bee Osn ·</span>
+					<span>May 29, 2026 · by PPLX and 🐝Mr. Bee Osn ·</span>
 				</div>
 
 				<div className="eye-icon no-margin">

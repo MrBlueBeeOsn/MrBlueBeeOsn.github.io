@@ -97,23 +97,43 @@ export default function LegoAssembly6(): React.JSX.Element {
 
 			<p></p>
 
+			<p className="margin-top-20"></p>
 			
+				<ul className="list-square">
+			
+					<li></li>
+					<li className="margin-bottom-20 list-none"></li>
+					<li className="list-none">- Head</li>
+					<li className="margin-bottom-20 list-none">- DP</li>
+			
+					<li></li>
+					<li className="margin-bottom-20 list-none"></li>
+					<li className="list-none">- Head</li>
+					<li className="margin-bottom-20 list-none">- DP</li>
+			
+					<li>Eating late at night harms sleep.</li>
+					<li className="margin-bottom-20 list-none"></li>
+					<li className="list-none">Eating late at night - DP[DC]</li>
+					<li className="list-none">harms - Head</li>
+					<li className="list-none">sleep - DP</li>
+			
+				</ul>
+			
+			<p className="margin-top-20"></p>
 
-			{/* Lời Kết */}
+			{/* Kết luận */}
 
-			<h3 className="margin-y-50 text-center"></h3>
+			<h3 className="margin-y-50 text-center">Kết luận</h3>
 
-			<p></p>
+			<p>Mô hình S Head DP/DC giúp bạn phân tích câu theo hai chiều: chức năng (vị trí phụ thuộc sau Head) và cấu trúc (bên trong là cụm hay mệnh đề). Khi object là mệnh đề, dùng DP[DC] để biểu thị rõ ràng. Phương pháp này đơn giản, trực quan và dễ dạy:</p>
 
-			<p></p>
-
-			<p></p>
+			<p>Chọn Head rồi lắp viên phụ thuộc phù hợp, sau đó biến đổi Head để tạo phủ định hoặc nghi vấn. Bạn có thể dùng thẻ màu (S/Head/DP/DC) để dạy trực quan trong lớp.</p>
 			
 
 			<div className="viewcounter">
 			
 				<div className="post-date no-margin">
-					<span>May 28, 2026 · by Copilot and 🐝Mr. Bee Osn ·</span>
+					<span>May 29, 2026 · by Copilot and 🐝Mr. Bee Osn ·</span>
 				</div>
 
 				<div className="eye-icon no-margin">
