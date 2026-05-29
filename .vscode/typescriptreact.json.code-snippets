@@ -1038,6 +1038,15 @@
 // 		"description": "p margin top 20"
 // 	},
 
+// 	// pmargintop20whole
+// 	"template p margintop20whole": {
+// 		"prefix": ".pmargintop20whole",
+// 		"body": [
+// 			"<p className=\"margin-top-20 text-indent-whole\">$2</p>"
+// 		],
+// 		"description": "p margin top 20"
+// 	},
+
 // 	// ptextindentwhole
 // 	"template p textindentwhole": {
 // 		"prefix": ".ptextindentwhole",
