@@ -59,49 +59,155 @@ export default function LegoAssembly9(): React.JSX.Element {
 
 			{/* 1.  */}
 
-			<h3 className="margin-y-50 text-center">1. </h3>
+			<h3 className="margin-y-50 text-center">1. Triết Lý Cốt Lõi: Tư Duy "Phụ Thuộc" (Dependent)</h3>
 
 			<p></p>
 
 			
-
+      <p className="margin-top-20"></p>
+			
+				<ul className="list-square">
+			
+					<li></li>
+					<li className="margin-bottom-20 list-none"></li>
+			
+					<li></li>
+					<li className="margin-bottom-20 list-none"></li>
+			
+					<li></li>
+					<li className="list-none"></li>
+			
+				</ul>
+			
+			<p className="margin-top-20"></p>
 
 			{/* 2.  */}
 
-			<h3 className="margin-y-50 text-center">2. </h3>
+			<h3 className="margin-y-50 text-center">2. Quy Tắc Vận Hành Hệ Thống (The Assembly Rules)</h3>
 
 			<p></p>
 
-		
+			<h4 className="margin-y-40">A. Câu Khẳng Định: S + Head + DP</h4>
+					
+				<ul className="list-square">
 			
+					<li></li>
+					<li className="margin-bottom-20 list-none"></li>
+			
+					<li></li>
+					<li className="margin-bottom-20 list-none"></li>
+			
+					<li></li>
+					<li className="list-none"></li>
+			
+				</ul>
+			
+			<p className="margin-top-20 text-indent-whole"></p>
+
+			<h4 className="margin-y-40">B. Câu Phủ Định: S + Head + Not + DP</h4>
+					
+				<ul className="list-square">
+			
+					<li></li>
+					<li className="margin-bottom-20 list-none"></li>
+			
+					<li></li>
+					<li className="margin-bottom-20 list-none"></li>
+			
+					<li></li>
+					<li className="list-none"></li>
+			
+				</ul>
+			
+			<p className="margin-top-20 text-indent-whole"></p>
+
+		
+			<h4 className="margin-y-40">C. Câu Nghi Vấn: Head + S + DP?</h4>
+					
+				<ul className="list-square">
+			
+					<li></li>
+					<li className="margin-bottom-20 list-none"></li>
+			
+					<li></li>
+					<li className="margin-bottom-20 list-none"></li>
+			
+					<li></li>
+					<li className="list-none"></li>
+			
+				</ul>
+			
+			<p className="margin-top-20 text-indent-whole"></p>
 
 			{/* 3.  */}
 
-			<h3 className="margin-y-50 text-center">3. </h3>
+			<h3 className="margin-y-50 text-center">3. Nâng Cấp Hệ Thống: Những Khối Lắp Ghép Thông Minh</h3>
 
 			<p></p>
+
+			<h4 className="margin-y-40">Chân đế khổng lồ (S-Expansion)</h4>
+					
+				<ul className="list-square">
 			
+					<li></li>
+					<li className="margin-bottom-20 list-none"></li>
 			
+					<li></li>
+					<li className="margin-bottom-20 list-none"></li>
+			
+					<li></li>
+					<li className="list-none"></li>
+			
+				</ul>
+			
+			<p className="margin-top-20 text-indent-whole"></p>
+
+			<h4 className="margin-y-40">Hiện tượng "Khối lồng khối" (Nested Blocks)</h4>
+					
+				<ul className="list-square">
+			
+					<li></li>
+					<li className="margin-bottom-20 list-none"></li>
+			
+					<li></li>
+					<li className="margin-bottom-20 list-none"></li>
+			
+					<li></li>
+					<li className="list-none"></li>
+			
+				</ul>
+			
+			<p className="margin-top-20 text-indent-whole"></p>
+			
+			<h4 className="margin-y-40">Nghệ thuật "Nén" khối (Rút gọn)</h4>
+					
+				<ul className="list-square">
+			
+					<li></li>
+					<li className="margin-bottom-20 list-none"></li>
+			
+					<li></li>
+					<li className="margin-bottom-20 list-none"></li>
+			
+					<li></li>
+					<li className="list-none"></li>
+			
+				</ul>
+			
+			<p className="margin-top-20 text-indent-whole"></p>
 
 			{/* 4.  */}
 
-			<h3 className="margin-y-50 text-center">4. </h3>
+			<h3 className="margin-y-50 text-center">4. Tại Sao Lego Assembly Là Chìa Khóa Vàng?</h3>
 
 			<p></p>
 
-			
-
-			{/* 5.  */}
-
-			<h3 className="margin-y-50 text-center">5. </h3>
-
-			<p></p>
 
 			
 
 			{/* Lời Kết */}
 
-			<h3 className="margin-y-50 text-center"></h3>
+			<h3 className="margin-y-50 text-center">Lời Kết</h3>
 
 			<p></p>
 

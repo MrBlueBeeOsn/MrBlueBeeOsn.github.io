@@ -50,42 +50,88 @@ export default function LegoAssembly6(): React.JSX.Element {
 
 			<h4 className="margin-bottom-30 text-center">Mô hình Lego Assembly S Head DP DC</h4>
 
+			{/*    */}
+
+			<h3 className="margin-y-50 text-center">Giới thiệu</h3>
+
 			<p></p>
 
 			<p></p>
-			
-			<p></p>
-			
 
 			{/* 1.  */}
 
-			<h3 className="margin-y-50 text-center">1. </h3>
-
-			<p></p>
-
+			<h3 className="margin-y-50 text-center">1. Nguyên tắc ghi nhãn cơ bản</h3>
 			
-
+			<p></p>
 
 			{/* 2.  */}
 
-			<h3 className="margin-y-50 text-center">2. </h3>
-
-			<p></p>
-
-		
-			
+			<h3 className="margin-y-50 text-center">2. Head theo chức năng (tóm tắt)</h3>
 
 			{/* 3.  */}
 
-			<h3 className="margin-y-50 text-center">3. </h3>
-
-			<p></p>
-			
+			<h3 className="margin-y-50 text-center">3.Khẳng định — Phủ định — Nghi vấn (quy tắc nhanh)</h3>
 			
 
 			{/* 4.  */}
 
-			<h3 className="margin-y-50 text-center">4. </h3>
+			<h3 className="margin-y-50 text-center">4. Ví dụ ngắn — làm rõ Head và DP (ghi nhãn từng bước)</h3>
+
+			<p></p>
+
+			<h4 className="margin-y-40">1. She buys a car.</h4>
+					
+			<p className="text-indent-whole"></p>
+
+
+			<h4 className="margin-y-40">2. They will join the team.</h4>
+					
+			<p className="text-indent-whole"></p>
+
+
+			<h4 className="margin-y-40">3. The child is happy.</h4>
+					
+			<p className="text-indent-whole"></p>
+
+
+			<h4 className="margin-y-40">4. She knows what he wants.</h4>
+					
+			<p className="text-indent-whole"></p>
+
+
+			{/* 5.  */}
+
+			<h3 className="margin-y-50 text-center">5. Rút gọn mệnh đề quan hệ thành participial phrase</h3>
+
+			<p></p>
+
+
+			
+
+			{/* 6.  */}
+
+			<h3 className="margin-y-50 text-center">6. DC bổ sung S, đôi khi DP — minh họa ngắn</h3>
+			
+				<ul className="list-square">
+			
+					<li></li>
+					<li className="list-none"></li>
+					<li className="margin-bottom-20 list-none"></li>
+			
+					<li></li>
+					<li className="list-none"></li>
+					<li className="margin-bottom-20 list-none"></li>
+			
+					<li></li>
+					<li className="list-none"></li>
+					<li className="list-none"></li>
+			
+				</ul>
+	
+
+			{/* 7.  */}
+
+			<h3 className="margin-y-50 text-center">7. 20 ví dụ mẫu S Head DP/DC</h3>
 
 			<p></p>
 
@@ -215,9 +261,9 @@ export default function LegoAssembly6(): React.JSX.Element {
 				</ol>
 
 
-			{/* 5.  */}
+			{/* 8.  */}
 
-			<h3 className="margin-y-50 text-center">Bài tập ngắn</h3>
+			<h3 className="margin-y-50 text-center">8. Bài tập ngắn</h3>
 
 			<p></p>
 
