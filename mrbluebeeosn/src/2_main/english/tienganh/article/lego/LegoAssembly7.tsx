@@ -510,90 +510,117 @@ export default function LegoAssembly7(): React.JSX.Element {
 
 
 			<h4 className="margin-y-40">Trường hợp 3: Phủ định tách rời (does not)</h4>
-					
-			<p className="text-indent-whole"></p>
-
-			<p className="margin-top-20 text-indent-whole"></p>
 			
 				<ul className="list-square">
 			
-					<li></li>
-					<li className="margin-bottom-20 list-none"></li>
-					<li className="list-none"></li>
-					<li className="list-none"></li>
-					<li className="list-none"></li>
+					<li>He does not buy a car.</li>
+					<li className="margin-bottom-20 list-none">Anh ấy không mua một chiếc ô tô.</li>
+					<li className="list-none">He - S</li>
+					<li className="list-none">does - Head</li>
+					<li className="list-none">not buy a car (not động từ nguyên mẫu noun phrase) - DP</li>
 			
 				</ul>
 			
 			<p className="margin-top-20 text-indent-whole"></p>
 
-			<p className="margin-top-20 text-indent-whole">Công thức:</p>
+			<p className="margin-top-20 text-indent-whole">Công thức: S Head DP</p>
 			
 				<ul className="list-square">
 			
-					<li></li>
-					<li className="list-none"></li>
+					<li>He does not buy a car.</li>
+					<li className="list-none">Anh ấy không mua một chiếc ô tô.</li>
 			
 				</ul>
 			
-			<p className="margin-top-20 text-indent-whole"></p>
+			<p className="margin-top-20 text-indent-whole">Lưu ý: not nằm trong DP, không đứng riêng.</p>
 
 
 			<h4 className="margin-y-40">Trường hợp 4: DC làm mệnh đề quan hệ</h4>
-					
-			<p className="text-indent-whole"></p>
-
-			<p className="margin-top-20 text-indent-whole"></p>
 			
 				<ul className="list-square">
 			
-					<li></li>
-					<li className="margin-bottom-20 list-none"></li>
-					<li className="list-none"></li>
-					<li className="list-none"></li>
-					<li className="list-none"></li>
+					<li>[The man who is talking to the teacher] is my friend.</li>
+					<li className="margin-bottom-20 list-none">[Người đàn ông người mà đang nói chuyện với giáo viên] là bạn của tôi.</li>
+					<li className="list-none">The man - S</li>
+					<li className="list-none">who is talking to the teacher (mệnh đề quan hệ, có S V: who is) - DC</li>
+					<li className="list-none">is - Head</li>
+					<li className="list-none">my friend - DP</li>
 			
 				</ul>
-			
-			<p className="margin-top-20 text-indent-whole"></p>
 
-			<p className="margin-top-20 text-indent-whole">Công thức:</p>
+			<p className="margin-top-20 text-indent-whole">Công thức: [S DC] Head + DP</p>
 			
 				<ul className="list-square">
 			
-					<li></li>
-					<li className="list-none"></li>
+					<li>[The man who is standing over there] is my friend.</li>
+					<li className="list-none">[Người đàn ông người mà đang đứng ở đằng kia] là bạn của tôi.</li>
+			
+				</ul>
+
+			<p className="margin-top-20 text-indent-whole">Khi rút gọn:</p>
+			
+				<ul className="list-square">
+			
+					<li>[The man standing over there] is my friend.</li>
+					<li className="list-none">[Người đàn ông đang đứng ở đằng kia] là bạn của tôi.</li>
 			
 				</ul>
 			
-			<p className="margin-top-20 text-indent-whole"></p>
-			
+			<p className="margin-top-20 text-indent-whole">→ DC rút gọn thành participial phrase → trở thành DP.</p>
 			
 
 			<h4 className="margin-y-40">Trường hợp 5: DC là noun clause (sau Head)</h4>
 					
-			<p className="text-indent-whole"></p>
+			<ul className="list-square">
+			
+					<li>She knows what he does.</li>
+					<li className="margin-bottom-20 list-none">Cô ấy biết những gì anh ấy làm.</li>
+					<li className="list-none">She - S</li>
+					<li className="list-none">knows - Head tích hợp = does know, mang thời hiện tại</li>
+					<li className="list-none">what he does - DP (DC thay thế DP, có he + does)</li>
+			
+				</ul>
 
-			<p className="margin-top-20 text-indent-whole"></p>
+			<p className="margin-top-20 text-indent-whole">Vấn đề:</p>
 			
 				<ul className="list-square">
 			
-					<li></li>
-					<li className="margin-bottom-20 list-none"></li>
-					<li className="list-none"></li>
-					<li className="list-none"></li>
-					<li className="list-none"></li>
+					<li>Theo quy tắc "sau Head là DP" → [what he does] đương nhiên là DP.</li>
+
+					<li>Nhưng nhìn vào bên trong: có he + does → về hình thức là DC.</li>
+			
+				</ul>
+
+			<p className="margin-top-20 text-indent-whole">Giải pháp:</p>
+			
+				<ul className="list-square">
+			
+					<li>[what he does] là DC (về hình thức)</li>
+
+					<li>Nhưng đóng vai trò như DP (về chức năng)</li>
 			
 				</ul>
 			
-			<p className="margin-top-20 text-indent-whole"></p>
+			<p className="margin-top-20 text-indent-whole">Đây là noun clause — mệnh đề danh từ, thay thế cho một noun phrase.</p>
 
-			<p className="margin-top-20 text-indent-whole">Công thức:</p>
+
+			<p className="margin-top-20 text-indent-whole">Cấu trúc phân tích:</p>
 			
 				<ul className="list-square">
 			
-					<li></li>
-					<li className="list-none"></li>
+					<li>not know [what he does] - DP</li>
+					<li className="margin-bottom-20 list-none">không biết [những gì anh ấy làm]</li>
+					<li className="list-none">not know - động từ nguyên mẫu</li>
+					<li className="list-none">[what he does] - DC (noun clause)</li>
+			
+				</ul>
+
+			<p className="margin-top-20 text-indent-whole">Công thức: S Head DP (DC thay thế)</p>
+			
+				<ul className="list-square">
+			
+					<li>She knows [what he does].</li>
+					<li className="list-none">Cô ấy biết [những gì anh ấy làm].</li>
 			
 				</ul>
 			
@@ -601,34 +628,40 @@ export default function LegoAssembly7(): React.JSX.Element {
 
 
 			<h4 className="margin-y-40">Trường hợp 6: Phủ định + DC nằm trong DP</h4>
-					
-			<p className="text-indent-whole"></p>
-
-
-			<p className="margin-top-20 text-indent-whole"></p>
 			
 				<ul className="list-square">
 			
-					<li></li>
-					<li className="margin-bottom-20 list-none"></li>
-					<li className="list-none"></li>
-					<li className="list-none"></li>
-					<li className="list-none"></li>
+					<li>She does not know what he does.</li>
+					<li className="margin-bottom-20 list-none">Cô ấy không biết những gì anh ấy làm.</li>
+					<li className="list-none">She - S</li>
+					<li className="list-none">does - Head</li>
+					<li className="list-none">not know what he does - DP (chứa DC: what he does)</li>
 			
 				</ul>
-			
-			<p className="margin-top-20 text-indent-whole"></p>
 
-			<p className="margin-top-20 text-indent-whole">Công thức:</p>
+
+			<p className="margin-top-20 text-indent-whole">Cấu trúc phân tích:</p>
 			
 				<ul className="list-square">
 			
-					<li></li>
-					<li className="list-none"></li>
+					<li>not know [what he does] - DP</li>
+					<li className="margin-bottom-20 list-none">không biết [những gì anh ấy làm]</li>
+					<li className="list-none">not know - động từ nguyên mẫu</li>
+					<li className="list-none">[what he does] - DC (noun clause)</li>
+			
+				</ul>
+
+
+			<p className="margin-top-20 text-indent-whole">Công thức: S Head DP</p>
+			
+				<ul className="list-square">
+			
+					<li>She does [not know what he does].</li>
+					<li className="list-none">Cô ấy [không biết điều mà anh ấy làm].</li>
 			
 				</ul>
 			
-			<p className="margin-top-20 text-indent-whole"></p>
+			<p className="margin-top-20 text-indent-whole">Trong đó: DP chứa DC bên trong.</p>
 
 
 			{/* 10.  */}
