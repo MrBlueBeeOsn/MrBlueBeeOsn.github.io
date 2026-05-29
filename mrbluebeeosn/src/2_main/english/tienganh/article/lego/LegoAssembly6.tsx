@@ -67,6 +67,7 @@ export default function LegoAssembly6(): React.JSX.Element {
 			{/* 2.  */}
 
 			<h3 className="margin-y-50 text-center">2. Head theo chức năng (tóm tắt)</h3>
+			
 
 			{/* 3.  */}
 

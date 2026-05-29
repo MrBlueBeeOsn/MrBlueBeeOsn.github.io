@@ -55,29 +55,87 @@ export default function LegoAssembly8(): React.JSX.Element {
 			<p></p>
 			
 			<p></p>
-			
 
 			{/* 1.  */}
 
-			<h3 className="margin-y-50 text-center">1. </h3>
+			<h3 className="margin-y-50 text-center">1.Khung xương: S – Head – DP</h3>
 
 			<p></p>
-
-			
 
 
 			{/* 2.  */}
 
-			<h3 className="margin-y-50 text-center">2. </h3>
+			<h3 className="margin-y-50 text-center">2.Ví dụ nền tảng</h3>
 
 			<p></p>
-
-		
 			
 
 			{/* 3.  */}
 
-			<h3 className="margin-y-50 text-center">Câu nghi vấn: Head nhảy lên đầu</h3>
+			<h3 className="margin-y-50 text-center">3. Khi hộp DP chứa một câu</h3>
+
+			<p></p>
+
+			
+			
+
+			{/* 4.  */}
+
+			<h3 className="margin-y-50 text-center">4. Khi hộp S chứa một câu</h3>
+
+			<p></p>
+
+			<h4 className="margin-y-40"></h4>
+					
+			<p className="text-indent-whole"></p>
+			
+				<ul className="list-square">
+			
+					<li></li>
+					<li className="margin-bottom-20 list-none"></li>
+					<li className="list-none"></li>
+					<li className="list-none"></li>
+					<li className="margin-bottom-20 list-none"></li>
+			
+					<li></li>
+					<li className="margin-bottom-20 list-none"></li>
+					<li className="list-none"></li>
+					<li className="list-none"></li>
+					<li className="margin-bottom-20 list-none"></li>
+			
+					<li></li>
+					<li className="margin-bottom-20 list-none"></li>
+					<li className="list-none"></li>
+					<li className="list-none"></li>
+					<li className="list-none"></li>
+			
+				</ul>
+			
+			<p className="margin-top-20 text-indent-whole"></p>
+
+		
+			<h4 className="margin-y-40"></h4>
+					
+			<p className="text-indent-whole"></p>
+			
+				<ul className="list-square">
+			
+					<li></li>
+					<li className="margin-bottom-20 list-none"></li>
+			
+					<li></li>
+					<li className="margin-bottom-20 list-none"></li>
+			
+					<li></li>
+					<li className="list-none"></li>
+			
+				</ul>
+			
+			<p className="margin-top-20 text-indent-whole"></p>
+
+			{/* 5.  */}
+
+			<h3 className="margin-y-50 text-center">5. Câu nghi vấn: Head nhảy lên đầu</h3>
 
 			<p></p>
 			
@@ -109,9 +167,9 @@ export default function LegoAssembly8(): React.JSX.Element {
 			
 			<p className="margin-top-20"></p>
 
-			{/* 4.  */}
+			{/* 6.  */}
 
-			<h3 className="margin-y-50 text-center">Bốn cách lấp đầy bạn sẽ gặp</h3>
+			<h3 className="margin-y-50 text-center">6. Bốn cách lấp đầy bạn sẽ gặp</h3>
 
 			<p></p>
 
@@ -135,9 +193,9 @@ export default function LegoAssembly8(): React.JSX.Element {
 			
 			<p className="margin-top-20"></p>
 
-			{/* 5.  */}
+			{/* 7.  */}
 
-			<h3 className="margin-y-50 text-center">Cách dùng trong 5 phút</h3>
+			<h3 className="margin-y-50 text-center">7. Cách dùng trong 5 phút</h3>
 
 			<p></p>
 
