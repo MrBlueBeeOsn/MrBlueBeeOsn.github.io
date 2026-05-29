@@ -775,308 +775,278 @@ export default function LegoAssembly7(): React.JSX.Element {
 			
 				</ul>
 			
-			<p className="margin-top-20 text-indent-whole"></p>
-
 
 			<h4 className="margin-y-40">Head = could — "Có thể" (khả năng / đề xuất)</h4>
 					
-			<p className="text-indent-whole"></p>
+			<p className="text-indent-whole">Quy tắc: Sau could → động từ nguyên mẫu + object hoặc be + cụm tính từ / cụm giới từ (giống will).</p>
 
-			<p className="text-indent-whole">Khẳng định</p>
+			<p className="text-indent-whole"><strong>Khẳng định</strong></p>
 			
 				<ul className="list-square">
 			
-					<li></li>
-					<li className="list-none"></li>
-					<li className="list-none"></li>
-					<li className="margin-bottom-20 list-none"></li>
+					<li>I could develop an app.</li>
+					<li className="list-none">Tôi có thể phát triển một ứng dụng.</li>
+					<li className="list-none">could- Head</li>
+					<li className="margin-bottom-20 list-none">develop an app - V nguyên mẫu object - DP</li>
 			
-					<li></li>
-					<li className="list-none"></li>
-					<li className="list-none"></li>
-					<li className="margin-bottom-20 list-none"></li>
+					<li>I could be very busy.</li>
+					<li className="list-none">Tôi có thể rất bận.</li>
+					<li className="list-none">could- Head</li>
+					<li className="margin-bottom-20 list-none">be very busy - be cụm tính từ - DP</li>
 			
-					<li></li>
-					<li className="list-none"></li>
-					<li className="list-none"></li>
-					<li className="list-none"></li>
-			
-				</ul>
-
-			<p className="margin-top-20 text-indent-whole">Phủ định</p>
-			
-				<ul className="list-square">
-			
-					<li></li>
-					<li className="list-none"></li>
-					<li className="list-none"></li>
-					<li className="margin-bottom-20 list-none"></li>
-			
-					<li></li>
-					<li className="list-none"></li>
-					<li className="list-none"></li>
-					<li className="margin-bottom-20 list-none"></li>
-			
-					<li></li>
-					<li className="list-none"></li>
-					<li className="list-none"></li>
-					<li className="list-none"></li>
+					<li>	I could be in Vietnam.</li>
+					<li className="list-none">Tôi có thể ở Việt Nam.</li>
+					<li className="list-none">could- Head</li>
+					<li className="list-none">be in Vietnam - be cụm giới từ - DP</li>
 			
 				</ul>
 
-			<p className="margin-top-20 text-indent-whole">Nghi vấn</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Phủ định</strong></p>
 			
 				<ul className="list-square">
 			
-					<li></li>
-					<li className="list-none"></li>
-					<li className="list-none"></li>
-					<li className="margin-bottom-20 list-none"></li>
+					<li>I could not develop an app.</li>
+					<li className="list-none">Tôi không thể nào phát triển được một ứng dụng.</li>
+					<li className="list-none">coud - Head</li>
+					<li className="margin-bottom-20 list-none">not develop an app - V nguyên mẫu object	- DP</li>
 			
-					<li></li>
-					<li className="list-none"></li>
-					<li className="list-none"></li>
-					<li className="margin-bottom-20 list-none"></li>
+					<li>I could not be very busy.</li>
+					<li className="list-none">Tôi không thể nào rất bận được.</li>
+					<li className="list-none">coud - Head</li>
+					<li className="margin-bottom-20 list-none">not be very busy - be cụm tính từ - DP</li>
 			
-					<li></li>
-					<li className="list-none"></li>
-					<li className="list-none"></li>
-					<li className="list-none"></li>
+					<li>I could not be in Vietnam.</li>
+					<li className="list-none">Tôi không thể nào ở Việt Nam được.</li>
+					<li className="list-none">coud - Head</li>
+					<li className="list-none">not be in Vietnam - be cụm giới từ - DP</li>
 			
 				</ul>
+
+			<p className="margin-top-20 text-indent-whole"><strong>Nghi vấn</strong></p>
 			
-			<p className="margin-top-20 text-indent-whole"></p>
+				<ul className="list-square">
+			
+					<li>Could I develop an app?</li>
+					<li className="list-none">Tôi có thể phát triển một ứng dụng không?</li>
+					<li className="list-none">Could - Head</li>
+					<li className="margin-bottom-20 list-none">develop an app - V nguyên mẫu object - DP</li>
+			
+					<li>Could I be very busy?</li>
+					<li className="list-none">Tôi có thể đang rất bận không?</li>
+					<li className="list-none">Could - Head</li>
+					<li className="margin-bottom-20 list-none">be very busy - be cụm tính từ - DP </li>
+			
+					<li>Could I be in Vietnam</li>
+					<li className="list-none">Tôi có thể đang ở Việt Nam không?</li>
+					<li className="list-none">Could - Head</li>
+					<li className="list-none">be in Vietnam - be cụm giới từ - DP</li>
+			
+				</ul>
 
 
 			{/* 11.  */}
 
 			<h3 className="margin-y-50 text-center">11. Quy Tắc Lắp Ghép "Vàng"</h3>
 
-			<p></p>
-
-
 			<h4 className="margin-y-40">Bước 1: Chọn S</h4>
 					
-			<p className="text-indent-whole"></p>
+			<p className="text-indent-whole">Ai/thứ gì?</p>
 
 
 			<h4 className="margin-y-40">Bước 2: Chọn mục đích câu</h4>
 					
-			<p className="text-indent-whole"></p>
+			<p className="text-indent-whole">Hành động? Trạng thái? Thời gian? Khả năng?</p>
 
 
 			<h4 className="margin-y-40">Bước 3: Chọn Head</h4>
-					
-			<p className="text-indent-whole"></p>
-
-			<p className="margin-top-20"></p>
 			
 				<ul className="list-square">
 			
-					<li></li>
+					<li>am / will / could / do / did / is / are...</li>
 			
-					<li></li>
+					<li>Hoặc động từ chính (Head tích hợp): buys, knows, develops...</li>
 			
 				</ul>
-			
-			<p className="margin-top-20"></p>
 
 
 			<h4 className="margin-y-40">Bước 4: Ghép DP phù hợp</h4>
 					
-			<p className="text-indent-whole"></p>
-
-			
 				<ul className="list-square">
 			
-					<li></li>
-					<li className="margin-bottom-20 list-none"></li>
+					<li>Khẳng định:</li>
+					<li className="margin-bottom-20 list-none">buy a car - DP</li>
 			
-					<li></li>
-					<li className="margin-bottom-20 list-none"></li>
+					<li>Phủ định:</li>
+					<li className="margin-bottom-20 list-none">not buy a car - DP</li>
 			
-					<li></li>
-					<li className="list-none"></li>
-					<li className="list-none"></li>
+					<li>Có DC</li>
+					<li className="list-none">know what he does - DP</li>
+					<li className="list-none">not know what he does - DP</li>
 			
 				</ul>
-			
-			<p className="margin-top-20"></p>
-
+		
 		
 			<h4 className="margin-y-40">Luật vàng:</h4>
-	
 			
 				<ul className="list-square">
 			
-					<li></li>
+					<li>am → V-ing (developing an app)</li>
 			
-					<li></li>
+					<li>will/could → V nguyên mẫu (develop an app)</li>
 			
-					<li></li>
+					<li>DP = mọi thứ sau Head (bao gồm not nếu có)</li>
 
-					<li></li>
+					<li>DC có S+V, có thể thay thế DP hoặc nằm trong DP</li>
 			
 				</ul>
 			
-			<p className="margin-top-20"></p>
 
 			{/* 12.  */}
 
 			<h3 className="margin-y-50 text-center">12. Tại Sao Mô Hình Lego Assembly Hiệu Quả?</h3>
 
-			<p></p>
-
-
 			<h4 className="margin-y-40">1. Nhất quán tuyệt đối</h4>
-					
-			<p className="text-indent-whole"></p>
 
-			<p className="margin-top-20"></p>
+			<p className="text-indent-whole">Công thức luôn là:</p>
 			
 				<ul className="list-square">
-					<li className="list-none"></li>
+					<li className="list-none">S Head DP</li>
 				</ul>
 			
-			<p className="margin-top-20"></p>
+			<p className="margin-top-20">Không có ngoại lệ. Không có "S Head notDP".</p>
 
 
 			<h4 className="margin-y-40">2. Giảm áp lực "phải nhớ thì"</h4>
-					
-			<p className="text-indent-whole"></p>
 
-			<p className="margin-top-20"></p>
+			<p className="text-indent-whole">Bạn không cần học 12 thì như một danh sách rời rạc. Bạn chỉ cần biết:</p>
 			
 				<ul className="list-square">
 			
-					<li></li>
+					<li>Head nào biểu thị thời/mood nào</li>
 			
-					<li></li>
+					<li>DP nào ghép được sau Head đó</li>
 			
 				</ul>
-			
-			<p className="margin-top-20"></p>
-
+		
 
 			<h4 className="margin-y-40">3. Tăng khả năng tạo câu mới nhanh</h4>
-					
-			<p className="text-indent-whole"></p>
 
-			<p className="margin-top-20">Với Head = buys (khẳng định):</p>
+			<p className="text-indent-whole">Khi đã quen với các khối cơ bản, bạn có thể "lắp" câu mới bằng cách thay DP:</p>
+
+			<p className="text-indent-whole">Với Head = buys (khẳng định):</p>
 			
 				<ul className="list-square">
 			
-					<li></li>
-					<li className="margin-bottom-20 list-none"></li>
+					<li>He buys [a car].</li>
+					<li className="margin-bottom-20 list-none">Anh ấy mua [một chiếc ô tô].</li>
 			
-					<li></li>
-					<li className="margin-bottom-20 list-none"></li>
+					<li>He buys [a house].</li>
+					<li className="margin-bottom-20 list-none">Anh ấy mua [một ngôi nhà].</li>
 			
-					<li></li>
-					<li className="list-none"></li>
+					<li>He buys [what he needs].</li>
+					<li className="list-none">Anh ấy mua [những gì anh ấy cần].</li>
 			
 				</ul>
-			
-			<p className="margin-top-20"></p>
 
-			<p className="margin-top-20">Với Head = does (phủ định):</p>
+			<p className="margin-top-20 text-indent-whole">Với Head = does (phủ định):</p>
 			
 				<ul className="list-square">
 			
-					<li></li>
-					<li className="margin-bottom-20 list-none"></li>
+					<li>He does [not buy a car].</li>
+					<li className="margin-bottom-20 list-none">Anh ấy [không mua một chiếc ô tô].</li>
 			
-					<li></li>
-					<li className="margin-bottom-20 list-none"></li>
+					<li>He does [not buy a house].</li>
+					<li className="margin-bottom-20 list-none">Anh ấy [không mua một ngôi nhà].</li>
 			
-					<li></li>
-					<li className="list-none"></li>
+					<li>He does [not buy what he needs].</li>
+					<li className="list-none">Anh ấy [không mua những gì anh ấy cần].</li>
 			
 				</ul>
-			
-			<p className="margin-top-20"></p>
 
-			<p className="margin-top-20">Với Head = doesn't (phủ định gộp):</p>
+			<p className="margin-top-20  text-indent-whole">Với Head = doesn't (phủ định gộp):</p>
 			
 				<ul className="list-square">
 			
-					<li></li>
-					<li className="margin-bottom-20 list-none"></li>
+					<li>He doesn't [buy a car].</li>
+					<li className="margin-bottom-20 list-none">Anh ấy không [mua một chiếc ô tô].</li>
 			
-					<li></li>
-					<li className="margin-bottom-20 list-none"></li>
+					<li>He doesn't [buy a house].</li>
+					<li className="margin-bottom-20 list-none">Anh ấy không [mua một ngôi nhà].</li>
 			
-					<li></li>
-					<li className="list-none"></li>
+					<li>He doesn't [buy what he needs].</li>
+					<li className="list-none">Anh ấy không [mua những thứ anh ấy cần].</li>
 			
 				</ul>
 			
+			<p className="margin-top-20 text-indent-whole">Cùng Head buys / does / doesn't, thay DP → thay nghĩa hoàn toàn.</p>
 
 			
 			<h4 className="margin-y-40">4. Dễ kiểm tra lỗi</h4>
 					
-			<p className="text-indent-whole"></p>
-
-			<p className="margin-top-20"></p>
+			<p className="text-indent-whole">Nếu câu sai, kiểm tra:</p>
 			
 				<ul className="list-square">
 			
-					<li></li>
-					<li className="margin-bottom-20 list-none"></li>
+					<li>Head và DP có tương thích không?</li>
+					<li className="margin-bottom-20 list-none">Cí dụ: "I am develop an app" sai vì am cần V-ing</li>
 			
-					<li></li>
-					<li className="list-none"></li>
+					<li>DP hay DC?</li>
+					<li className="list-none">Có S V hay không?</li>
 			
 				</ul>
 			
-			<p className="margin-top-20"></p>
 
 			{/* 13.  */}
 
 			<h3 className="margin-y-50 text-center">13. Sơ Đồ Phân Cấp Hoàn Chỉnh</h3>
 
-			<h4 className="margin-y-40">S (Subject)</h4>
-					
-			<p className="text-indent-whole"></p>
+			<p>Câu:</p>
+			
+				<ol>
+			
+					<li>S (Subject)</li>
+			
+					<li>Head (Head tích hợp hoặc trợ động từ)</li>
+			
+					<li>DP (mọi thứ sau Head)</li>
+			
+				</ol>
 
-
-			<h4 className="margin-y-40">Head</h4>
-					
-			<p className="text-indent-whole"></p>
-
-
-			<h4 className="margin-y-40">DP (mọi thứ sau Head)</h4>
-
-
-			<p className="text-indent-whole">1. Không có not (khẳng định)</p>
+			<p className="margin-top-20">1. DP không có not (khẳng định)</p>
 			
 				<ul className="list-square">
 			
-					<li></li>
-					<li className="margin-bottom-20 list-none"></li>
+					<li>noun phrase: a car, the book</li>
+
+					<li>adjective phrase: very busy, happy</li>
 			
-					<li></li>
-					<li className="margin-bottom-20 list-none"></li>
-			
-					<li></li>
-					<li className="list-none"></li>
+					<li>adverb phrase: very quickly, yesterday</li>
+
+					<li>prepositional phrase: in HCMC, on the table</li>
 			
 				</ul>
+			
+			<p className="margin-top-20"></p>
 
-			<p className="margin-top-20 text-indent-whole">2. Có not (phủ định)</p>
+			<p className="margin-top-20">2. DP có not (phủ định)</p>
+			
+			<p className="margin-top-20"></p>
 			
 				<ul className="list-square">
 			
-					<li></li>
-					<li className="margin-bottom-20 list-none"></li>
+					<li>not + noun phrase: not a car</li>
+
+					<li>not + verb phrase: not buy a car</li>
 			
-					<li></li>
-					<li className="margin-bottom-20 list-none"></li>
+					<li>not + adjective phrase: not very busy</li>
+
+					<li>not + verb phrase chứa DC: not know what he does</li>
 			
-					<li></li>
-					<li className="list-none"></li>
+					<li>not DC: not what he does</li>
 			
 				</ul>
+			
+			<p className="margin-top-20"></p>
 
 			
 
