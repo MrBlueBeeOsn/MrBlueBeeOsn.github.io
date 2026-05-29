@@ -509,7 +509,7 @@ export default function LegoAssembly7(): React.JSX.Element {
 			<p className="margin-top-20 text-indent-whole"></p>
 
 
-			<h4 className="margin-y-40">Trường hợp 3: Phủ định tách rời (does + not)</h4>
+			<h4 className="margin-y-40">Trường hợp 3: Phủ định tách rời (does not)</h4>
 					
 			<p className="text-indent-whole"></p>
 
@@ -635,150 +635,172 @@ export default function LegoAssembly7(): React.JSX.Element {
 
 			<h3 className="margin-y-50 text-center">10. Ba Head Phổ Biến Nhất: am / will / could</h3>
 
-			<p></p>
-
 			<h4 className="margin-y-40">Head = am — "Đang" (hiện tại tiếp diễn / trạng thái)</h4>
 					
-			<p className="text-indent-whole"></p>
-
-			<p className="text-indent-whole">Khẳng định</p>
+			<p className="text-indent-whole">Quy tắc: Sau am</p>
 			
 				<ul className="list-square">
 			
-					<li></li>
-					<li className="list-none"></li>
-					<li className="list-none"></li>
-					<li className="margin-bottom-20 list-none"></li>
-			
-					<li></li>
-					<li className="list-none"></li>
-					<li className="list-none"></li>
-					<li className="margin-bottom-20 list-none"></li>
-			
-					<li></li>
-					<li className="list-none"></li>
-					<li className="list-none"></li>
-					<li className="list-none"></li>
+					<li>→ V-ing object</li>
+					<li>→ cụm tính từ</li>
+					<li>→ cụm giới từ</li>
 			
 				</ul>
 
-			<p className="margin-top-20 text-indent-whole">Phủ định</p>
+			<p className="text-indent-whole"><strong>Khẳng định</strong></p>
 			
 				<ul className="list-square">
 			
-					<li></li>
-					<li className="list-none"></li>
-					<li className="list-none"></li>
-					<li className="margin-bottom-20 list-none"></li>
+					<li>I am developing an app.</li>
+					<li className="list-none">Tôi đang phát triển một ứng dụng.</li>
+					<li className="list-none">am - Head</li>
+					<li className="margin-bottom-20 list-none">developing an app (V-ing object) - DP</li>
 			
-					<li></li>
-					<li className="list-none"></li>
-					<li className="list-none"></li>
-					<li className="margin-bottom-20 list-none"></li>
+					<li>I am very busy.</li>
+					<li className="list-none">Tôi đang rất bận.</li>
+					<li className="list-none">am - Head</li>
+					<li className="margin-bottom-20 list-none">very busy (cụm tính từ) - DP</li>
 			
-					<li></li>
-					<li className="list-none"></li>
-					<li className="list-none"></li>
-					<li className="list-none"></li>
+					<li>I am in Vietnam.</li>
+					<li className="list-none">Tôi đang ở Việt Nam.</li>
+					<li className="list-none">am - Head</li>
+					<li className="list-none">in Vietnam (cụm giới từ) - DP</li>
 			
 				</ul>
 
-			<p className="margin-top-20 text-indent-whole">Nghi vấn</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Nghi vấn</strong></p>
 			
 				<ul className="list-square">
 			
-					<li></li>
-					<li className="list-none"></li>
-					<li className="list-none"></li>
-					<li className="margin-bottom-20 list-none"></li>
+					<li>I am not developing an app.</li>
+					<li className="list-none">Tôi không đang phát triển ứng dụng nào cả.</li>
+					<li className="list-none">am - Head</li>
+					<li className="margin-bottom-20 list-none">not developing an app (not V-ing object) - DP</li>
 			
-					<li></li>
-					<li className="list-none"></li>
-					<li className="list-none"></li>
-					<li className="margin-bottom-20 list-none"></li>
+					<li>I am not very busy.</li>
+					<li className="list-none">Tôi không bận lắm.</li>
+					<li className="list-none">am - Head</li>
+					<li className="margin-bottom-20 list-none">not very busy (not cụm tính từ) - DP</li>
 			
-					<li></li>
-					<li className="list-none"></li>
-					<li className="list-none"></li>
-					<li className="list-none"></li>
+					<li>I am not in Vietnam.</li>
+					<li className="list-none">Tôi không đang ở Việt Nam.</li>
+					<li className="list-none">am - Head</li>
+					<li className="list-none">not in Vietnam (not cụm giới từ) - DP</li>
+			
+				</ul>
+
+			<p className="margin-top-20 text-indent-whole"><strong>Nghi vấn</strong></p>
+			
+				<ul className="list-square">
+			
+					<li>Am I developing an app?</li>
+					<li className="list-none">Tôi có đang phát triển một ứng dụng không?</li>
+					<li className="list-none">Am - Head</li>
+					<li className="margin-bottom-20 list-none">developing an app (V-ing object) - DP</li>
+			
+					<li>Am I very busy?</li>
+					<li className="list-none">Tôi có đang rất bận không?</li>
+					<li className="list-none">Am - Head</li>
+					<li className="margin-bottom-20 list-none">very busy (cụm tính từ) - DP</li>
+			
+					<li>Am I in Vietnam?</li>
+					<li className="list-none">Tôi có đang ở Việt Nam không?</li>
+					<li className="list-none">Am - Head</li>
+					<li className="list-none">in Vietnam (cụm giới từ) - DP</li>
 			
 				</ul>
 			
-			<p className="margin-top-20 text-indent-whole"></p>
-
 
 			<h4 className="margin-y-40">Head = will — "Sẽ" (tương lai)</h4>
 					
-			<p className="text-indent-whole"></p>
-
-
-			<p className="text-indent-whole">Khẳng định</p>
+			<p className="text-indent-whole">Quy tắc: Sau will</p>
 			
 				<ul className="list-square">
 			
-					<li></li>
-					<li className="list-none"></li>
-					<li className="list-none"></li>
-					<li className="margin-bottom-20 list-none"></li>
-			
-					<li></li>
-					<li className="list-none"></li>
-					<li className="list-none"></li>
-					<li className="margin-bottom-20 list-none"></li>
-			
-					<li></li>
-					<li className="list-none"></li>
-					<li className="list-none"></li>
-					<li className="list-none"></li>
+					<li>→ động từ nguyên mẫu + object</li>
+					<li>→ be cụm tính từ</li>
+					<li>→ be cụm giới từ</li>
 			
 				</ul>
 
-			<p className="margin-top-20 text-indent-whole">Phủ định</p>
+
+			<p className="text-indent-whole"><strong>Khẳng định</strong></p>
 			
 				<ul className="list-square">
 			
-					<li></li>
-					<li className="list-none"></li>
-					<li className="list-none"></li>
-					<li className="margin-bottom-20 list-none"></li>
+					<li>I will develop an app.</li>
+					<li className="list-none">Tôi sẽ phát triển một ứng dụng.</li>
+					<li className="list-none">will - Head</li>
+					<li className="margin-bottom-20 list-none">develop an app (V nguyên mẫu object) - DP</li>
 			
-					<li></li>
-					<li className="list-none"></li>
-					<li className="list-none"></li>
-					<li className="margin-bottom-20 list-none"></li>
+					<li>I will be very busy.</li>
+					<li className="list-none">Tôi sẽ rất bận.</li>
+					<li className="list-none">will - Head</li>
+					<li className="margin-bottom-20 list-none">be very busy (be cụm tính từ) - DP</li>
 			
-					<li></li>
-					<li className="list-none"></li>
-					<li className="list-none"></li>
-					<li className="list-none"></li>
+					<li>I will be in Vietnam.</li>
+					<li className="list-none">Tôi sẽ ở Việt Nam.</li>
+					<li className="list-none">will - Head</li>
+					<li className="list-none">be in Vietnam (be cụm giới từ)- DP</li>
 			
 				</ul>
 
-			<p className="margin-top-20 text-indent-whole">Nghi vấn</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Nghi vấn</strong></p>
 			
 				<ul className="list-square">
 			
-					<li></li>
-					<li className="list-none"></li>
-					<li className="list-none"></li>
-					<li className="margin-bottom-20 list-none"></li>
+					<li>I will not develop an app.</li>
+					<li className="list-none">Tôi sẽ không phát triển ứng dụng nào cả.</li>
+					<li className="list-none">will - Head</li>
+					<li className="margin-bottom-20 list-none">not develop an app (not V nguyên mẫu object) - DP</li>
 			
-					<li></li>
-					<li className="list-none"></li>
-					<li className="list-none"></li>
-					<li className="margin-bottom-20 list-none"></li>
+					<li>I will not be very busy.</li>
+					<li className="list-none">Tôi sẽ không bận lắm đâu.</li>
+					<li className="list-none">will - Head</li>
+					<li className="margin-bottom-20 list-none">not be very busy (not be cụm tính từ) - DP</li>
 			
-					<li></li>
-					<li className="list-none"></li>
-					<li className="list-none"></li>
-					<li className="list-none"></li>
+					<li>I will not be in Vietnam.</li>
+					<li className="list-none">Tôi sẽ không ở Việt Nam.</li>
+					<li className="list-none">will - Head</li>
+					<li className="list-none">not be in Vietnam (not be cụm giới từ)- DP</li>
+			
+				</ul>
+
+			<p className="margin-top-20 text-indent-whole"><strong>Nghi vấn</strong></p>
+			
+				<ul className="list-square">
+			
+					<li>Will I develop an app?</li>
+					<li className="list-none">Tôi sẽ phát triển một ứng dụng chứ?</li>
+					<li className="list-none">Will - Head</li>
+					<li className="margin-bottom-20 list-none">develop an app (V nguyên mẫu object) - DP</li>
+			
+					<li>Will I be very busy?</li>
+					<li className="list-none">Tôi sẽ rất bận phải không?</li>
+					<li className="list-none">Will - Head</li>
+					<li className="margin-bottom-20 list-none">be very busy (be cụm tính từ)- DP</li>
+			
+					<li>Will I be in Vietnam?</li>
+					<li className="list-none">Tôi sẽ ở Việt Nam chứ?</li>
+					<li className="list-none">Will - Head</li>
+					<li className="list-none">be in Vietnam (be cụm giới từ) - DP</li>
 			
 				</ul>
 			
 
 			<h4 className="margin-y-40">Head = could — "Có thể" (khả năng / đề xuất)</h4>
 					
-			<p className="text-indent-whole">Quy tắc: Sau could → động từ nguyên mẫu + object hoặc be + cụm tính từ / cụm giới từ (giống will).</p>
+			<p className="text-indent-whole">Quy tắc: Sau could (giống will).</p>
+
+			<p className="margin-top-20"></p>
+			
+				<ul className="list-square">
+			
+					<li>→ động từ nguyên mẫu + object</li>
+					<li>→ be cụm tính từ</li>
+					<li>→ be cụm giới từ</li>
+			
+				</ul>
 
 			<p className="text-indent-whole"><strong>Khẳng định</strong></p>
 			
@@ -786,18 +808,18 @@ export default function LegoAssembly7(): React.JSX.Element {
 			
 					<li>I could develop an app.</li>
 					<li className="list-none">Tôi có thể phát triển một ứng dụng.</li>
-					<li className="list-none">could- Head</li>
-					<li className="margin-bottom-20 list-none">develop an app - V nguyên mẫu object - DP</li>
+					<li className="list-none">could - Head</li>
+					<li className="margin-bottom-20 list-none">develop an app (V nguyên mẫu object) - DP</li>
 			
 					<li>I could be very busy.</li>
 					<li className="list-none">Tôi có thể rất bận.</li>
-					<li className="list-none">could- Head</li>
-					<li className="margin-bottom-20 list-none">be very busy - be cụm tính từ - DP</li>
+					<li className="list-none">could - Head</li>
+					<li className="margin-bottom-20 list-none">be very busy (be cụm tính từ) - DP</li>
 			
 					<li>	I could be in Vietnam.</li>
 					<li className="list-none">Tôi có thể ở Việt Nam.</li>
-					<li className="list-none">could- Head</li>
-					<li className="list-none">be in Vietnam - be cụm giới từ - DP</li>
+					<li className="list-none">could - Head</li>
+					<li className="list-none">be in Vietnam (be cụm giới từ) - DP</li>
 			
 				</ul>
 
@@ -808,17 +830,17 @@ export default function LegoAssembly7(): React.JSX.Element {
 					<li>I could not develop an app.</li>
 					<li className="list-none">Tôi không thể nào phát triển được một ứng dụng.</li>
 					<li className="list-none">coud - Head</li>
-					<li className="margin-bottom-20 list-none">not develop an app - V nguyên mẫu object	- DP</li>
+					<li className="margin-bottom-20 list-none">not develop an app (V nguyên mẫu object)	- DP</li>
 			
 					<li>I could not be very busy.</li>
 					<li className="list-none">Tôi không thể nào rất bận được.</li>
 					<li className="list-none">coud - Head</li>
-					<li className="margin-bottom-20 list-none">not be very busy - be cụm tính từ - DP</li>
+					<li className="margin-bottom-20 list-none">not be very busy (be cụm tính từ) - DP</li>
 			
 					<li>I could not be in Vietnam.</li>
 					<li className="list-none">Tôi không thể nào ở Việt Nam được.</li>
 					<li className="list-none">coud - Head</li>
-					<li className="list-none">not be in Vietnam - be cụm giới từ - DP</li>
+					<li className="list-none">not be in Vietnam (be cụm giới từ) - DP</li>
 			
 				</ul>
 
@@ -829,17 +851,17 @@ export default function LegoAssembly7(): React.JSX.Element {
 					<li>Could I develop an app?</li>
 					<li className="list-none">Tôi có thể phát triển một ứng dụng không?</li>
 					<li className="list-none">Could - Head</li>
-					<li className="margin-bottom-20 list-none">develop an app - V nguyên mẫu object - DP</li>
+					<li className="margin-bottom-20 list-none">develop an app (V nguyên mẫu object) - DP</li>
 			
 					<li>Could I be very busy?</li>
 					<li className="list-none">Tôi có thể đang rất bận không?</li>
 					<li className="list-none">Could - Head</li>
-					<li className="margin-bottom-20 list-none">be very busy - be cụm tính từ - DP </li>
+					<li className="margin-bottom-20 list-none">be very busy (be cụm tính từ) - DP </li>
 			
 					<li>Could I be in Vietnam</li>
 					<li className="list-none">Tôi có thể đang ở Việt Nam không?</li>
 					<li className="list-none">Could - Head</li>
-					<li className="list-none">be in Vietnam - be cụm giới từ - DP</li>
+					<li className="list-none">be in Vietnam (be cụm giới từ) - DP</li>
 			
 				</ul>
 
