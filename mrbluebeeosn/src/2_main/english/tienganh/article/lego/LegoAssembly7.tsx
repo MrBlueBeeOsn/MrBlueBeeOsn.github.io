@@ -1088,125 +1088,141 @@ export default function LegoAssembly7(): React.JSX.Element {
 
 			<h4 className="margin-y-40">Bài 1: Phân tích câu</h4>
 					
-			<p className="text-indent-whole"></p>
+			<p className="text-indent-whole">Phân tích các câu sau thành S, Head, DP:</p>
 			
 				<ol>
 			
-					<li value="1"></li>
-					<li className="margin-bottom-20 list-none"></li>
-					<li className="list-none"></li>
-					<li className="list-none"></li>
-					<li className="list-none"></li>
-					<li className="margin-bottom-20 list-none"></li>
+					<li value="1">He doesn't know the answer.</li>
+					<li className="margin-bottom-20 list-none">Anh ấy không biết câu trả lời.</li>
+					<li className="list-none">He - S</li>
+					<li className="list-none">doesn't - Head</li>
+					<li className="margin-bottom-20 list-none">know the answer - DP</li>
 			
-					<li value="2"></li>
-					<li className="margin-bottom-20 list-none"></li>
-					<li className="list-none"></li>
-					<li className="list-none"></li>
-					<li className="margin-bottom-20 list-none"></li>
+					<li value="2">She will buy a car.</li>
+					<li className="margin-bottom-20 list-none">Cô ấy sẽ mua một chiếc ô tô.</li>
+					<li className="list-none">She - S</li>
+					<li className="list-none">will - Head</li>
+					<li className="margin-bottom-20 list-none">buy a car - DP</li>
+
+					<li value="3">The woman who is talking is my teacher.</li>
+					<li className="margin-bottom-20 list-none">Người phụ nữ đang nói chuyện là giáo viên của tôi.</li>
+					<li className="list-none">The woman who is talking (chứa DC: who is talking) - S</li>
+					<li className="list-none">is - Head</li>
+					<li className="margin-bottom-20 list-none">my teacher - DP</li>
+
+					<li value="4">I know what you want.</li>
+					<li className="margin-bottom-20 list-none">Tôi biết bạn muốn gì.</li>
+					<li className="list-none">I - S</li>
+					<li className="list-none">knows (tích hợp do know) - Head</li>
+					<li className="margin-bottom-20 list-none">what you want (DC thay thế DP) - DP</li>
 			
-					<li value="3"></li>
-					<li className="margin-bottom-20 list-none"></li>
-					<li className="list-none"></li>
-					<li className="list-none"></li>
-					<li className="list-none"></li>
+					<li value="5">They do not understand what happened.</li>
+					<li className="margin-bottom-20 list-none">Họ không hiểu chuyện gì đã xảy ra.</li>
+					<li className="list-none">They - S</li>
+					<li className="list-none">do - Head</li>
+					<li className="list-none">not understand what happened (chứa DC: what happened) - DP</li>
 			
 				</ol>
 
 
 			<h4 className="margin-y-40">Bài 2: Tạo câu</h4>
 
-			<p className="text-indent-whole"></p>
-
-			<p className="margin-top-20">Khẳng định:</p>
+			<p className="text-indent-whole">Tạo câu khẳng định, phủ định, nghi vấn với:</p>
 			
 				<ul className="list-square">
 			
-					<li></li>
-					<li className="margin-bottom-20 list-none"></li>
-					<li className="list-none"></li>
-					<li className="list-none"></li>
-					<li className="list-none"></li>
+					<li>DP = <strong>the answer</strong></li>
+					<li>DP = <strong>know the answer</strong></li>
+					<li>DP = <strong>not know the answer</strong></li>
 			
 				</ul>
 
-			<p className="margin-top-20">Phủ định:</p>
+			<p className="margin-top-20"><strong>Khẳng định</strong>:</p>
 			
 				<ul className="list-square">
 			
-					<li></li>
-					<li className="margin-bottom-20 list-none"></li>
-					<li className="list-none"></li>
-					<li className="list-none"></li>
-					<li className="list-none"></li>
+					<li>He knows the answer.</li>
+					<li className="margin-bottom-20 list-none">Anh ấy biết câu trả lời.</li>
+					<li className="list-none">He - S</li>
+					<li className="list-none">knows - Head tích hợp (does know)</li>
+					<li className="list-none"><strong>the answer</strong> - DP</li>
 			
 				</ul>
 
-			<p className="margin-top-20">Nghi vấn:</p>
+			<p className="margin-top-20"><strong>Phủ định</strong>:</p>
 			
 				<ul className="list-square">
 			
-					<li></li>
-					<li className="margin-bottom-20 list-none"></li>
-					<li className="list-none"></li>
-					<li className="list-none"></li>
-					<li className="list-none"></li>
+					<li>He does not know the answer.</li>
+					<li className="margin-bottom-20 list-none">Anh ấy không biết câu trả lời.</li>
+					<li className="list-none">He - S</li>
+					<li className="list-none">does - Head</li>
+					<li className="list-none"><strong>not know the answer</strong> - DP</li>
+			
+				</ul>
+
+			<p className="margin-top-20"><strong>Nghi vấn</strong>:</p>
+			
+				<ul className="list-square">
+			
+					<li>Does he know the answer?</li>
+					<li className="margin-bottom-20 list-none">Anh ấy có biết câu trả lời không?</li>
+					<li className="list-none">Does - Head</li>
+					<li className="list-none">he - S</li>
+					<li className="list-none"><strong>know the answer</strong> - DP</li>
 			
 				</ul>
 
 
 			<h4 className="margin-y-40">Bài 3: Phân biệt DP và DC</h4>
 
-			<p className="text-indent-whole">Xác định phần sau Head là DP hay DC:</p>
+			<p className="margin-top-20 text-indent-whole">Xác định phần sau Head là DP hay DC:</p>
 			
 				<ol>
 			
-					<li></li>
-					<li></li>
-					<li></li>
-					<li></li>
+					<li value="1">He knows [the answer].</li>
+					<li className="list-none">Anh ấy biết [câu trả lời].</li>
+					<li className="margin-bottom-20 list-none">Noun phrase, không có S V - DP</li>
+			
+					<li value="2">He knows [what he wants].</li>
+					<li className="list-none">Anh ấy biết [điều anh ấy muốn].</li>
+					<li className="margin-bottom-20 list-none">DC thay thế DP, có he + wants - DP</li>
+
+					<li value="3">She is [very busy].</li>
+					<li className="list-none">Cô ấy [rất bận].</li>
+					<li className="margin-bottom-20 list-none">Adjective phrase, không có S V - DP</li>
+			
+					<li value="4">She is [what you call busy].</li>
+					<li className="list-none">Cô ấy là [thứ mà bạn gọi là bận rộn].</li>
+					<li className="list-none">DC thay thế DP, có you + call - DP</li>
 			
 				</ol>
 
-			<p className="margin-top-20 text-indent-whole">Gợi ý đáp án:</p>
-			
-				<ol>
-			
-					<li></li>
-					<li></li>
-					<li></li>
-					<li></li>
-			
-				</ol>
-			
-			<p className="margin-top-20 text-indent-whole"></p>
 
 			{/* Kết Luận  */}
 
 			<h3 className="margin-y-50 text-center">Kết Luận: Học Ngữ Pháp Như Xếp Lego</h3>
 
-			<p></p>
+			<p>Mô hình <strong>Lego Assembly</strong> không phải là một phương pháp mới lạ — nó là <strong>cách nhìn lại ngữ pháp</strong> theo nguyên tắc <strong>gọn</strong>, <strong>rõ</strong>, <strong>có hệ thống</strong>:</p>
 			
 				<ul className="list-square">
 			
-					<li></li>
-					<li></li>
-					<li></li>
-					<li></li>
-					<li></li>
-					<li></li>
+					<li><strong>S Head DP</strong> — công thức cốt lõi (luôn đúng)</li>
+					<li><strong>DP</strong> = <strong>mọi thứ sau Head</strong> (bao gồm not nếu có)</li>
+					<li><strong>not nằm trong DP</strong>, không đứng riêng</li>
+					<li><strong>DC có S V</strong>, có thể thay thế DP hoặc nằm trong DP</li>
+					<li><strong>Head tích hợp</strong> = động từ chính mang thời (buys = does + buy)</li>
+					<li><strong>am</strong> → <strong>V</strong>-<strong>ing</strong>; <strong>will</strong>/<strong>could</strong> → <strong>V nguyên mẫu</strong></li>
 			
 				</ul>
 			
-			<p className="margin-top-20"></p>
-			
-			<h4 className="margin-y-40">Bạn đã sẵn sàng thử nghiệm mô hình Lego Assembly chưa?</h4>
+			<p className="margin-top-20">Khi đã quen, bạn sẽ "lắp câu" tự nhiên như xếp Lego. Không còn căng thẳng với "thì". Không còn mơ hồ với cấu trúc. Chỉ còn <strong>cách lắp ghép</strong>.</p>
 
-			<p></p>
+			<p><strong>Bạn đã sẵn sàng thử nghiệm mô hình Lego Assembly chưa</strong>?</p>
 
-			<p></p>
+			<p className="margin-top-20">Hãy bắt đầu với 3 Head: <strong>am</strong> / <strong>will</strong> / <strong>could</strong>. Chọn một DP. Lắp 3 mẫu câu: khẳng định, phủ định, nghi vấn. Lặp lại với DP khác.</p>
 					
-			<p className="text-indent-whole"></p>
+			<p>Đó là cách học ngữ pháp <strong>đơn giản</strong>, <strong>trực quan</strong>, và <strong>hiệu quả</strong> nhất mà bạn từng trải nghiệm.</p>
 
 			<div className="viewcounter">
 			
