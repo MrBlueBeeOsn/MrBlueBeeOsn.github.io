@@ -281,228 +281,214 @@ export default function LegoAssembly7(): React.JSX.Element {
 
 			<p></p>
 
-			<p className="margin-top-20"></p>
+			<p className="margin-top-20">1. <strong>DP</strong></p>
 			
 				<ul className="list-square">
 			
-					<li></li>
-			
-					<li></li>
+					<li>Mọi thứ sau Head</li>
+					<li className="margin-bottom-20 list-none">Bao gồm not nếu có</li>
 			
 				</ul>
 
-			<p className="margin-top-20"></p>
+			<p className="margin-top-20">2. <strong>DC</strong></p>
 			
 				<ul className="list-square">
 			
-					<li></li>
-			
-					<li></li>
+					<li>Mệnh đề có S V</li>
+					<li className="margin-bottom-20 list-none">Có thể thay thế DP hoặc nằm trong DP</li>
 			
 				</ul>
 
-			<p className="margin-top-20"></p>
+			<p>Phân biệt nhanh:</p>
+
+			<p className="margin-top-20">1. <strong>DP</strong> (<strong>Dependent Phrase</strong>)</p>
 			
 				<ul className="list-square">
 			
-					<li></li>
+					<li>Không có S V hoàn chỉnh bên trong (trừ khi DC nằm trong DP)</li>
+					<li className="list-none">She does (not know [what he does]) - S Head DP[DC]</li>
+					<li className="margin-bottom-20 list-none"></li>
 			
-					<li></li>
+					<li>Đứng sau Head</li>
+					<li className="list-none">a car, buy a car, not buy a car</li>
+					<li className="margin-bottom-20 list-none">một chiếc xe hơi, mua một chiếc xe hơi, không mua một chiếc xe hơi</li>
 			
 				</ul>
-
-			<p className="margin-top-20"></p>
+		
+			
+			<p className="margin-top-20">2. <strong>DC</strong> (<strong>Dependent Clause</strong>)</p>
 			
 				<ul className="list-square">
-			
-					<li></li>
-			
-					<li></li>
-			
-				</ul>
 
-			<p className="margin-top-20"></p>
+					<li>Có S V hoàn chỉnh bên trong</li>
+					<li className="list-none">what he does, who is standing, when he arrived</li>
+					<li className="margin-bottom-20 list-none">những gì anh ấy làm, người đang đứng, khi nào anh ấy đến</li>
 			
-				<ul className="list-square">
+					<li>Đứng sau Head</li>
+					<li className="list-none">She knows [what he does]. - S Head DP/DC</li>
+					<li className="margin-bottom-20 list-none">Cô ấy biết [những gì anh ấy làm]</li>
 			
-					<li></li>
+					<li>Thay thế DP</li>
+					<li className="list-none">She knows [what he does]. S Head DC</li>
+					<li className="margin-bottom-20 list-none">Cô ấy biết [những gì anh ấy làm]</li>
 			
-					<li></li>
-			
-				</ul>
-
-
-			<p className="margin-top-20"></p>
-			
-				<ul className="list-square">
-			
-					<li></li>
-			
-					<li></li>
+					<li>Nằm trong DP</li>
+					<li className="list-none">She does (not know [what he does]). - S Head DP[DC]</li>
+					<li className="list-none">Cô ấy (không biết [những gì anh ấy làm])</li>
 			
 				</ul>
 			
-			<p className="margin-top-20"></p>
+			<p className="margin-top-20">Luật kiểm tra nhanh: Nếu phần sau Head có Subject Verb → là DC. Nếu không → là DP.</p>
 
 
 			{/* 8.  */}
 
 			<h3 className="margin-y-50 text-center">8. Ba Mẫu Câu Cơ Bản</h3>
 
-			<p></p>
+			<h4 className="margin-y-40">1. Câu khẳng định</h4>
 
-			<p className="margin-top-20"></p>
+			<p className="margin-y-40 text-indent-whole"><strong>S Head DP</strong></p>
+
+			<p className="margin-top-20 text-indent-whole">Ví dụ:</p>
 			
 				<ul className="list-square">
+
+					<li>He buys [a car].</li>
+					<li className="list-none">He buys a car.</li>
+					<li className="margin-bottom-20 list-none">Anh ấy mua một chiếc xe hơi.</li>
 			
-					<li></li>
-					<li className="list-none"></li>
-					<li className="margin-bottom-20 list-none"></li>
+					<li>She is [very busy].</li>
+					<li className="list-none">She is very busy.</li>
+					<li className="margin-bottom-20 list-none">Cô ấy rất bận.</li>
 			
-					<li></li>
-					<li className="list-none"></li>
-					<li className="margin-bottom-20 list-none"></li>
-			
-					<li></li>
-					<li className="list-none"></li>
-					<li className="list-none"></li>
+					<li>She knows [what he does].</li>
+					<li className="list-none">She knows what he does.</li>
+					<li className="list-none">Cô ấy biết những gì anh ấy làm.</li>
 			
 				</ul>
-			
-			<p className="margin-top-20"></p>
-
-
-			<h4 className="margin-y-40">1. Câu khẳng định</h4>
 					
-			<p className="text-indent-whole"></p>
-
 
 			<h4 className="margin-y-40">2. Câu phủ định</h4>
-					
-			<p className="text-indent-whole"></p>
 
-			<p className="margin-top-20"></p>
+			<p className="margin-y-40 text-indent-whole"><strong>S Head DP</strong></p>
 			
 				<ul className="list-square">
 			
-					<li></li>
-					<li className="list-none"></li>
-					<li className="margin-bottom-20 list-none"></li>
-
-					<li></li>
-					<li className="list-none"></li>
-					<li className="margin-bottom-20 list-none"></li>
+					<li>not phần còn lại = DP</li>
 			
-					<li></li>
-					<li className="list-none"></li>
-					<li className="margin-bottom-20 list-none"></li>
-			
-					<li></li>
-					<li className="list-none"></li>
-					<li className="list-none"></li>
+					<li>not nằm trong DP, không đứng riêng.</li>
 			
 				</ul>
-			
-			<p className="margin-top-20"></p>
 
-
-			<p className="margin-top-20"></p>
+			<p className="margin-top-20 text-indent-whole">Ví dụ:</p>
 			
 				<ul className="list-square">
 			
-					<li></li>
+					<li>He doesn't [buy a car].</li>
+					<li className="list-none">He doesn't buy a car.</li>
+					<li className="margin-bottom-20 list-none">Anh ấy không mua xe hơi.</li>
+
+					<li>He does [not buy a car].</li>
+					<li className="list-none">He does not buy a car.</li>
+					<li className="margin-bottom-20 list-none">Anh ấy không mua một chiếc xe hơi.</li>
 			
-					<li></li>
+					<li>She does [not know what he does].</li>
+					<li className="list-none">She does not know what he does.</li>
+					<li className="margin-bottom-20 list-none">Cô ấy không biết những gì anh ấy làm.</li>
+			
+					<li>I am [not very busy].</li>
+					<li className="list-none">I am not very busy.</li>
+					<li className="list-none">Tôi không bận lắm.</li>
+			
+				</ul>
+
+
+			<p className="margin-top-20 text-indent-whole">Lưu ý quan trọng:</p>
+			
+				<ul className="list-square">
+			
+					<li>doesn't = does + not (gộp vào Head)</li>
+					<li className="margin-bottom-20 list-none">buy a car =→ DP</li>
+			
+					<li>does not (tách ra)</li>
+					<li className="list-none">not buy a car =→ DP</li>
 			
 				</ul>
 			
-			<p className="margin-top-20"></p>
+			<p className="margin-top-20 text-indent-whole">Nhưng công thức vẫn là: S Head DP</p>
 
 
 			<h4 className="margin-y-40">3. Câu nghi vấn</h4>
-					
-			<p className="text-indent-whole"></p>
 
-			<p className="margin-top-20"></p>
+			<p className="margin-y-40 text-indent-whole"><strong>Head S DP</strong> ?</p>
+			
+			<p className="text-indent-whole">Đảo Head lên trước S.</p>
+
+			<p className="text-indent-whole">Ví dụ:</p>
 			
 				<ul className="list-square">
+
+					<li>Does he [buy a car]?</li>
+					<li className="list-none">Does he buy a car?</li>
+					<li className="margin-bottom-20 list-none">Anh ấy có mua một chiếc xe hơi không?</li>
+
+					<li>Is she [very busy]?</li>
+					<li className="list-none">Is she very busy?</li>
+					<li className="margin-bottom-20 list-none">Cô ấy có bận lắm không?</li>
 			
-					<li></li>
-					<li className="list-none"></li>
-					<li className="margin-bottom-20 list-none"></li>
-			
-					<li></li>
-					<li className="list-none"></li>
-					<li className="margin-bottom-20 list-none"></li>
-			
-					<li></li>
-					<li className="list-none"></li>
-					<li className="list-none"></li>
+					<li>Does she [know what he does]?</li>
+					<li className="list-none">Does she know what he does?</li>
+					<li className="list-none">Cô ấy có biết những gì anh ấy làm không?</li>
 			
 				</ul>
-			
-			<p className="margin-top-20"></p>
+
 
 			{/* 9.  */}
 
 			<h3 className="margin-y-50 text-center">9. Sáu Trường Hợp Cụ Thể: Phân Tích Đầy Đủ</h3>
 
-			<p></p>
-
 			<h4 className="margin-y-40">Trường hợp 1: Head tích hợp (khẳng định)</h4>
-					
-			<p className="text-indent-whole"></p>
-
-			<p className="margin-top-20 text-indent-whole"></p>
 			
 				<ul className="list-square">
 			
-					<li></li>
-					<li className="margin-bottom-20 list-none"></li>
-					<li className="list-none"></li>
-					<li className="list-none"></li>
-					<li className="list-none"></li>
+					<li>He buys a car.</li>
+					<li className="margin-bottom-20 list-none">Anh ấy mua một chiếc xe hơi.</li>
+					<li className="list-none">He - S</li>
+					<li className="list-none">buys (Head tích hợp = does + buy, mang thời hiện tại) - Head</li>
+					<li className="list-none">a car (noun phrase, không có S V) - DP</li>
 			
 				</ul>
-			
-			<p className="margin-top-20 text-indent-whole"></p>
+		
 
-			<p className="margin-top-20 text-indent-whole">Công thức:</p>
+			<p className="margin-top-20 text-indent-whole">Công thức: S Head DP</p>
 			
 				<ul className="list-square">
 			
-					<li></li>
-					<li className="list-none"></li>
+					<li>He buys a car.</li>
+					<li className="list-none">Anh ấy mua một chiếc xe hơi.</li>
 			
 				</ul>
-			
-			<p className="margin-top-20 text-indent-whole"></p>
 
 
 			<h4 className="margin-y-40">Trường hợp 2: Phủ định với doesn't</h4>
-					
-			<p className="text-indent-whole"></p>
-
-			<p className="margin-top-20 text-indent-whole"></p>
 			
 				<ul className="list-square">
 			
-					<li></li>
-					<li className="margin-bottom-20 list-none"></li>
-					<li className="list-none"></li>
-					<li className="list-none"></li>
-					<li className="list-none"></li>
+					<li>He doesn't buy a car.</li>
+					<li className="margin-bottom-20 list-none">Anh ấy không mua xe hơi.</li>
+					<li className="list-none">He - S</li>
+					<li className="list-none">doesn't (does not gộp làm một) - Head</li>
+					<li className="list-none">buy a car (động từ nguyên mẫu noun phrase) - DP</li>
 			
 				</ul>
-			
-			<p className="margin-top-20 text-indent-whole"></p>
 
-			<p className="margin-top-20 text-indent-whole">Công thức:</p>
+
+			<p className="margin-top-20 text-indent-whole">Công thức: S Head DP</p>
 			
 				<ul className="list-square">
 			
-					<li></li>
-					<li className="list-none"></li>
+					<li>He doesn't buy a car.</li>
+					<li className="list-none">Anh ấy không mua xe hơi.</li>
 			
 				</ul>
 			
