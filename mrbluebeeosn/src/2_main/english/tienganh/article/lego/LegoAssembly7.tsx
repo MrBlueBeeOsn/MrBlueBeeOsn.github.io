@@ -50,71 +50,73 @@ export default function LegoAssembly7(): React.JSX.Element {
 
 			<h4 className="margin-bottom-30 text-center">Mô Hình Lego Assembly: Hướng Dẫn Toàn Diện Học Ngữ Pháp Tiếng Anh Như Xếp Lego</h4>
 
-			<p></p>
+			<p>Bạn có đang học ngữ pháp tiếng Anh như một tấm bản đồ phức tạp?</p>
 
-			<p></p>
+			<p>Bạn đã bao giờ cảm thấy choáng ngợp trước hàng chục "thì" trong tiếng Anh: hiện tại đơn, quá khứ tiếp diễn, tương lai hoàn thành tiếp diễn...? Bạn học đi học lại nhưng vẫn lúng túng khi phải nói một câu đơn giản?</p>
+
+			<p>Có một cách tiếp cận khác.</p>
 			
-			<p></p>
+			<p>Hãy tưởng tượng ngữ pháp tiếng Anh không phải là một mớ quy tắc phức tạp, mà là một bộ Lego — bạn chỉ cần học cách lắp ghép các khối cơ bản.</p>
 
 			{/* 1.  */}
 
 			<h3 className="margin-y-50 text-center">1. Tư duy "Dependent" (Phụ thuộc) là chìa khóa vàng</h3>
 
-			<p></p>
+			<p>Mọi cụm từ (phrase) hay mệnh đề (clause) trong tiếng Anh đều có một đặc tính chung: Chúng không thể đứng một mình. Chúng sinh ra là để bổ nghĩa cho Hạt nhân (Head).</p>
 
-			<p className="margin-top-20"></p>
+			<p className="margin-top-20">Muốn nói về trạng thái? Lắp một cụm tính từ vào:</p>
 			
 				<ul className="list-square">
 			
-					<li></li>
-					<li className="list-none"></li>
+					<li>I am [very busy].</li>
+					<li className="list-none">Tôi [rất bận].</li>
 			
 				</ul>
 			
-			<p className="margin-top-20"></p>
 
-			<p className="margin-top-20"></p>
+			<p className="margin-top-20">Muốn nói About hành động? Lắp một cụm động từ vào:</p>
 			
 				<ul className="list-square">
 			
-					<li></li>
-					<li className="list-none"></li>
+					<li>I am [developing the app].</li>
+					<li className="list-none">Tôi đang [phát triển ứng dụng này].</li>
 			
 				</ul>
 			
-			<p className="margin-top-20"></p>
 
-			<p className="margin-top-20"></p>
+			<p className="margin-top-20">Muốn diễn đạt ý phức tạp? Lắp một mệnh đề vào:</p>
 			
 				<ul className="list-square">
 			
-					<li></li>
-					<li className="list-none"></li>
+					<li>I have [what I need].</li>
+					<li className="list-none">Tôi có [những gì tôi cần].</li>
 			
 				</ul>
 			
-			<p className="margin-top-20"></p>
+			<p className="margin-top-20">Bạn không cần học "thì". Bạn chỉ cần học cách "lắp ghép" (assembly).</p>
 			
 
 			{/* 2.  */}
 
 			<h3 className="margin-y-50 text-center">2. Công Thức Cốt Lõi: S + Head + DP</h3>
 
-			<p></p>
+			<p>Mỗi câu tiếng Anh đều có thể được phân tích thành 3 phần:</p>
 
-			<p className="margin-top-20"></p>
+			<p>S (Subject) + Head + DP</p>
+
+			<p>Trong đó:</p>
 			
 				<ul className="list-square">
 			
-					<li></li>
+					<li>Subject (Chủ ngữ) = S</li>
 			
-					<li></li>
+					<li>Khối trung tâm điều khiển = Head</li>
 			
-					<li></li>
+					<li>Dependent Phrase (Cụm phụ thuộc) — mọi thứ sau Head = DP</li>
 			
 				</ul>
 			
-			<p className="margin-top-20"></p>
+			<p className="margin-top-20">Quan trọng: Không có công thức "S Head not DP". Công thức luôn là S Head DP, và not nằm trong DP.</p>
 
 
 			{/* 3.  */}
@@ -123,156 +125,182 @@ export default function LegoAssembly7(): React.JSX.Element {
 
 			<p></p>
 
-			<p className="margin-top-20"></p>
+			<p className="margin-top-20">Là người hoặc vật thực hiện hành động hoặc mang trạng thái.</p>
 			
 				<ul className="list-square">
 			
-					<li></li>
-					<li className="list-none"></li>
+					<li>I, You, He, She, It, We, They, The student, My friend...</li>
+					<li className="list-none">Tôi, Bạn, Anh ấy, Cô ấy, Nó, Chúng tôi, Họ, Học sinh đó, Bạn của tôi...</li>
 			
 				</ul>
-			
-			<p className="margin-top-20"></p>
 
 
 			{/* 4.  */}
 
 			<h3 className="margin-y-50 text-center">4. Head — Khối Trung Tâm Điều Khiển</h3>
 
-			<p></p>
+			<p className="margin-top-20">Head là phần quyết định thời, thể, khả năng, nghi vấn, phủ định của câu. Head có thể là:</p>
 
-			<p className="margin-top-20"></p>
+			<p className="margin-top-20">Động từ chính (Head tích hợp): mang luôn "chỉ dấu thời"</p>
 			
 				<ul className="list-square">
 			
-					<li></li>
-					<li className="margin-bottom-20 list-none"></li>
+					<li>buys, knows, develops...</li>
+					<li className="list-none">mua, biết, phát triển...</li>
 			
-					<li></li>
-					<li className="margin-bottom-20 list-none"></li>
+				</ul>
+
+			<p className="margin-top-20">Trợ động từ:</p>
 			
-					<li></li>
-					<li className="list-none"></li>
+				<ul className="list-square">
+			
+					<li>does, doesn't, will, could, am/is/are, has/have...</li>
+					<li className="list-none">làm, không làm, sẽ, có thể, thì/đang, có</li>
 			
 				</ul>
 			
 			<p className="margin-top-20"></p>
+			
+			
+			<h4 className="margin-y-40">Head tích hợp là gì?</h4>
+					
+			<p>Head tích hợp = động từ chính đã tích hợp sẵn trợ động từ và thời gian.</p>
 
-			<p className="margin-top-20"></p>
+			<p className="margin-top-20">Ví dụ:</p>
 			
 				<ul className="list-square">
 			
-					<li></li>
+					<li>buys = does + buy (hiện tại đơn)</li>
 			
-					<li></li>
+					<li>knows = does + know (hiện tại đơn)</li>
 			
-					<li></li>
+					<li>developed = did + develop (quá khứ đơn)</li>
 			
 				</ul>
-			
-			<p className="margin-top-20"></p>
 
 
 			{/* 5.  */}
 
 			<h3 className="margin-y-50 text-center">5. DP (Dependent Phrase) — Cụm Phụ Thuộc</h3>
 
-			<p></p>
-
-			<p></p>
+			<p>DP = MỌI THỨ SAU HEAD (không có ngoại lệ).</p>
 					
-			<p></p>
+			<p className="margin-top-20">DP không thể đứng một mình. Nó bổ nghĩa cho Head và có thể đóng vai trò:</p>
+
+			<p className="margin-top-20">Danh từ: làm object / complement - DP</p>
 			
 				<ul className="list-square">
 			
-					<li></li>
-					<li className="margin-bottom-20 list-none"></li>
-					<li className="list-none"></li>
-					<li className="list-none"></li>
-					<li className="margin-bottom-20 list-none"></li>
-
-					<li></li>
-					<li className="margin-bottom-20 list-none"></li>
-					<li className="list-none"></li>
-					<li className="list-none"></li>
-					<li className="margin-bottom-20 list-none"></li>
-			
-					<li></li>
-					<li className="margin-bottom-20 list-none"></li>
-					<li className="list-none"></li>
-					<li className="list-none"></li>
-					<li className="margin-bottom-20 list-none"></li>
-			
-					<li></li>
-					<li className="margin-bottom-20 list-none"></li>
-					<li className="list-none"></li>
-					<li className="list-none"></li>
-					<li className="list-none"></li>
+					<li>He buys [a car].</li>
+					<li className="list-none">Anh ấy mua [một chiếc xe hơi].</li>
 			
 				</ul>
-			
-			<p className="margin-top-20"></p>
 
-			<p className="margin-top-20"></p>
+
+			<p className="margin-top-20">Tính từ: mô tả trạng thái, tính chất - DP</p>
 			
 				<ul className="list-square">
 			
-					<li></li>
+					<li>She is [very happy].</li>
+					<li className="list-none">Cô ấy [rất vui].</li>
 			
-					<li></li>
+				</ul>
+
+
+			<p className="margin-top-20">Trạng từ - thời gian, cách thức, mức độ - DP</p>
 			
-					<li></li>
+				<ul className="list-square">
+			
+					<li>He runs [very fast].</li>
+					<li className="list-none">Anh ấy chạy [rất nhanh].</li>
 			
 				</ul>
 			
-			<p className="margin-top-20"></p>
+
+			<p className="margin-top-20">Cụm giới từ: nơi chốn, thời gian, lý do - DP</p>
+			
+				<ul className="list-square">
+			
+					<li>He lives [in Vietnam].</li>
+					<li className="list-none">Anh ấy sống [ở Việt Nam].</li>
+			
+				</ul>
+
+			
+
+			<p className="margin-top-20">Đặc điểm quan trọng nhất:</p>
+
+			<p><strong>DP có thể chứa not bên trong</strong>.</p>
+
+			<p className="margin-top-20">Khẳng định:</p>
+			
+				<ul className="list-square">
+			
+					<li>buy a car = DP</li>
+					<li className="list-none">mua một chiếc xe hơi = Cụm phụ thuộc</li>
+					<li className="list-none">not không đứng riêng — nó nằm trong DP.</li>
+			
+				</ul>
+			
+			<p className="margin-top-20">Phủ định:</p>
+			
+				<ul className="list-square">
+			
+					<li>not buy a car = DP</li>
+					<li className="list-none">không mua một chiếc xe hơi = Cụm phụ thuộc</li>
+					<li className="list-none">not không đứng riêng — nó nằm trong DP.</li>
+			
+				</ul>
 
 
 			{/* 6.  */}
 
 			<h3 className="margin-y-50 text-center">6. DC (Dependent Clause) — Mệnh Đề Phụ Thuộc</h3>
 
-			<p></p>
 
+			<p className="margin-top-20">DC là mệnh đề có Subject Verb bên trong nhưng không thể đứng một mình. DC có thể:</p>
+			
 			<p className="margin-top-20"></p>
 			
 				<ul className="list-square">
 			
-					<li></li>
+					<li>Thay thế DP</li>
+					<li className="margin-bottom-20 list-none">Đứng ngay sau Head, làm noun clause</li>
 			
-					<li></li>
-			
-					<li></li>
+					<li>Nằm trong DP</li>
+					<li className="list-none">Bên trong một cụm từ</li>
 			
 				</ul>
-			
-			<p className="margin-top-20"></p>
 
-			<p className="margin-top-20"></p>
+
+			<p className="margin-top-20">Noun clause: mệnh đề danh từ</p>
 			
 				<ul className="list-square">
 			
-					<li></li>
-					<li className="margin-bottom-20 list-none"></li>
-					<li className="list-none"></li>
-					<li className="list-none"></li>
-					<li className="margin-bottom-20 list-none"></li>
+					<li>She knows [what he does].</li>
+					<li className="list-none">Cô ấy biết [những gì anh ấy làm].</li>
 			
-					<li></li>
-					<li className="margin-bottom-20 list-none"></li>
-					<li className="list-none"></li>
-					<li className="list-none"></li>
-					<li className="margin-bottom-20 list-none"></li>
+				</ul>
+
+			<p className="margin-top-20">Adjective clause: mệnh đề tính ngữ (relative clause/mệnh đề quan hệ)</p>
 			
-					<li></li>
-					<li className="margin-bottom-20 list-none"></li>
-					<li className="list-none"></li>
-					<li className="list-none"></li>
-					<li className="list-none"></li>
+				<ul className="list-square">
+			
+					<li>The man [who is standing] is my friend.</li>
+					<li className="list-none">Người đàn ông [người đang đứng] là bạn của tôi.</li>
+			
+				</ul>
+
+			<p className="margin-top-20">adverbial clause: mệnh đề trạng ngữ</p>
+			
+				<ul className="list-square">
+			
+					<li>He left [when he arrived].</li>
+					<li className="list-none">Anh ấy rời đi [khi anh ấy đến].</li>
 			
 				</ul>
 			
-			<p className="margin-top-20"></p>
+			<p className="margin-top-20">DC vẫn tuân theo quy tắc: Sau Head là DP/DC, và DC có thể nằm trong DP.</p>
 
 
 			{/* 7.  */}
