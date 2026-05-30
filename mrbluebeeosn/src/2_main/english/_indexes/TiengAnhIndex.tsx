@@ -627,6 +627,41 @@ export default function TiengAnhIndex(): React.JSX.Element {
           <ul className="list-border1">
 
 
+            <li>
+              <div className="li-content">
+                <Link to="/tieng-anh/adj-placement-1">ADJ Placement
+                <sup>&nbsp;1&nbsp;</sup>
+                </Link>
+                <Link to="/tieng-anh/adj-placement-2">
+                  <sup>&nbsp;2&nbsp;</sup>
+                </Link>
+                <Link to="/tieng-anh/adj-placement-3">
+                  <sup>&nbsp;3&nbsp;</sup>
+                </Link>
+                <Link to="/tieng-anh/adj-placement-4">
+                  <sup>&nbsp;4&nbsp;</sup>
+                </Link>
+                <Link to="/tieng-anh/adj-placement-5">
+                  <sup>&nbsp;5&nbsp;</sup>
+                </Link>
+                <Link to="/tieng-anh/adj-placement-6">
+                  <sup>&nbsp;6&nbsp;</sup>
+                </Link>
+                <Link to="/tieng-anh/adj-placement-7">
+                  <sup>&nbsp;7&nbsp;</sup>
+                </Link>
+                <Link to="/tieng-anh/adj-placement-8">
+                  <sup>&nbsp;8&nbsp;</sup>
+                </Link>
+                <Link to="/tieng-anh/adj-placement-9">
+                  <sup>&nbsp;9&nbsp;</sup>
+                </Link>
+              
+              </div>
+              
+            </li>
+
+
 
             <li>
               <div className="li-content">

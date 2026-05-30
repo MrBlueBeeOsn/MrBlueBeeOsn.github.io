@@ -1409,6 +1409,105 @@
       "likes": 0
     },
     {
+      "id": "AdjPlacement1",
+      "categoryDisplay": "Tiếng Anh",
+      "categorySlug": "tieng-anh",
+      "title": "Adjective Placement 1",
+      "content": "Điểm Mạnh Tương Đồng: Bước Đột Phá Giúp Người Việt Thống Trị Tiếng Anh Học Thuật",
+      "slug": "tieng-anh/adj-placement-1",
+      "date": "2026-06-01",
+      "views": 0,
+      "likes": 0
+    },
+    {
+      "id": "AdjPlacement2",
+      "categoryDisplay": "Tiếng Anh",
+      "categorySlug": "tieng-anh",
+      "title": "Adjective Placement 2",
+      "content": "Bộ ba mệnh đề thầm lặng: Tại sao người Việt lại có lợi thế ngầm trước cả khu vực?",
+      "slug": "tieng-anh/adj-placement-2",
+      "date": "2026-06-01",
+      "views": 0,
+      "likes": 0
+    },
+    {
+      "id": "AdjPlacement3",
+      "categoryDisplay": "Tiếng Anh",
+      "categorySlug": "tieng-anh",
+      "title": "Adjective Placement 3",
+      "content": "Bí Mật Tiếng Anh Giúp Người Việt Tiến Bộ Vượt Bậc: “Tính Từ Dài” Đứng Sau Danh Từ",
+      "slug": "tieng-anh/adj-placement-3",
+      "date": "2026-06-01",
+      "views": 0,
+      "likes": 0
+    },
+    {
+      "id": "AdjPlacement4",
+      "categoryDisplay": "Tiếng Anh",
+      "categorySlug": "tieng-anh",
+      "title": "Adjective Placement 4",
+      "content": "Bí Mật Mà Nhiều Người Việt Bỏ Lỡ: Thứ Khiến Tiếng Anh Giống Tiếng Việt Hơn Chúng Ta Tưởng",
+      "slug": "tieng-anh/adj-placement-4",
+      "date": "2026-06-01",
+      "views": 0,
+      "likes": 0
+    },
+    {
+      "id": "AdjPlacement5",
+      "categoryDisplay": "Tiếng Anh",
+      "categorySlug": "tieng-anh",
+      "title": "Adjective Placement 5",
+      "content": "Điểm mạnh bí ẩn của người Việt khi học tiếng Anh mà chưa ai nhận ra",
+      "slug": "tieng-anh/adj-placement-5",
+      "date": "2026-06-01",
+      "views": 0,
+      "likes": 0
+    },
+    {
+      "id": "AdjPlacement6",
+      "categoryDisplay": "Tiếng Anh",
+      "categorySlug": "tieng-anh",
+      "title": "Adjective Placement 6",
+      "content": "Danh từ trước, tính từ sau — Chiến lược tư duy giúp người Việt chinh phục tiếng Anh",
+      "slug": "tieng-anh/adj-placement-6",
+      "date": "2026-06-01",
+      "views": 0,
+      "likes": 0
+    },
+    {
+      "id": "AdjPlacement7",
+      "categoryDisplay": "Tiếng Anh",
+      "categorySlug": "tieng-anh",
+      "title": "Adjective Placement 7",
+      "content": "Danh từ trước — mô tả sau: Chìa khóa đẳng cấp giúp người Việt làm chủ tiếng Anh nhanh hơn bạn nghĩ",
+      "slug": "tieng-anh/adj-placement-7",
+      "date": "2026-06-01",
+      "views": 0,
+      "likes": 0
+    },
+    {
+      "id": "AdjPlacement8",
+      "categoryDisplay": "Tiếng Anh",
+      "categorySlug": "tieng-anh",
+      "title": "Adjective Placement 8",
+      "content": "Khi tiếng Anh cấp cao nói đúng như tiếng Việt",
+      "slug": "tieng-anh/adj-placement-8",
+      "date": "2026-06-01",
+      "views": 0,
+      "likes": 0
+    },
+    {
+      "id": "AdjPlacement9",
+      "categoryDisplay": "Tiếng Anh",
+      "categorySlug": "tieng-anh",
+      "title": "Adjective Placement 9",
+      "content": "\"Danh Từ Trước, Mô Tả Sau\" – Chìa Khóa Vàng Mở Ra Tiềm Năng Ngôn Ngữ Vượt Trội Của Người Việt!",
+      "slug": "tieng-anh/adj-placement-9",
+      "date": "2026-06-01",
+      "views": 0,
+      "likes": 0
+    },
+    {
       "id": "Accurately1",
       "categoryDisplay": "Tính chính xác",
       "categorySlug": "vocabulary#tinh-chinh-xac-terms",

@@ -146,6 +146,16 @@ const Posts = lazy(() => import('@/data/Posts'));
 	const BiMatVeTuDuyNgonNgu2 = lazy(() => import('@/2_main/english/tienganh/folder/BiMatVeTuDuyNgonNgu2'));
 	const BiMatVeTuDuyNgonNgu3 = lazy(() => import('@/2_main/english/tienganh/folder/BiMatVeTuDuyNgonNgu3'));
 
+	const AdjPlacement1 = lazy(() => import('@/2_main/english/tienganh/article/adj/AdjPlacement1'));
+	const AdjPlacement2 = lazy(() => import('@/2_main/english/tienganh/article/adj/AdjPlacement2'));
+	const AdjPlacement3 = lazy(() => import('@/2_main/english/tienganh/article/adj/AdjPlacement3'));
+	const AdjPlacement4 = lazy(() => import('@/2_main/english/tienganh/article/adj/AdjPlacement4'));
+	const AdjPlacement5 = lazy(() => import('@/2_main/english/tienganh/article/adj/AdjPlacement5'));
+	const AdjPlacement6 = lazy(() => import('@/2_main/english/tienganh/article/adj/AdjPlacement6'));
+	const AdjPlacement7 = lazy(() => import('@/2_main/english/tienganh/article/adj/AdjPlacement7'));
+	const AdjPlacement8 = lazy(() => import('@/2_main/english/tienganh/article/adj/AdjPlacement8'));
+	const AdjPlacement9 = lazy(() => import('@/2_main/english/tienganh/article/adj/AdjPlacement9'));
+	
 	const LegoAssembly1 = lazy(() => import('@/2_main/english/tienganh/article/lego/LegoAssembly1'));
 	const LegoAssembly2 = lazy(() => import('@/2_main/english/tienganh/article/lego/LegoAssembly2'));
 	const LegoAssembly3 = lazy(() => import('@/2_main/english/tienganh/article/lego/LegoAssembly3'));
@@ -683,7 +693,16 @@ export default function AppRoutes(): React.JSX.Element {
 					<Route path="/tieng-anh/bi-mat-ve-tu-duy-ngon-ngu-2" element={<BiMatVeTuDuyNgonNgu2 />} />
 					<Route path="/tieng-anh/bi-mat-ve-tu-duy-ngon-ngu-3" element={<BiMatVeTuDuyNgonNgu3 />} />
 
-					
+					<Route path="/tieng-anh/adj-placement-1" element={<AdjPlacement1 />} />
+					<Route path="/tieng-anh/adj-placement-2" element={<AdjPlacement2 />} />
+					<Route path="/tieng-anh/adj-placement-3" element={<AdjPlacement3 />} />
+					<Route path="/tieng-anh/adj-placement-4" element={<AdjPlacement4 />} />
+					<Route path="/tieng-anh/adj-placement-5" element={<AdjPlacement5 />} />
+					<Route path="/tieng-anh/adj-placement-6" element={<AdjPlacement6 />} />
+					<Route path="/tieng-anh/adj-placement-7" element={<AdjPlacement7 />} />
+					<Route path="/tieng-anh/adj-placement-8" element={<AdjPlacement8 />} />
+					<Route path="/tieng-anh/adj-placement-9" element={<AdjPlacement9 />} />
+
 					<Route path="/tieng-anh/lego-assembly-1" element={<LegoAssembly1 />} />
 					<Route path="/tieng-anh/lego-assembly-2" element={<LegoAssembly2 />} />
 					<Route path="/tieng-anh/lego-assembly-3" element={<LegoAssembly3 />} />
