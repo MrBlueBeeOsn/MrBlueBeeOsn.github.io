@@ -55,53 +55,37 @@ export default function AdjPlacement7(): React.JSX.Element {
 			<p></p>
 			
 			<p></p>
-			
+		
+
+
 
 			{/* 1.  */}
 
-			<h3 className="margin-y-50 text-center">1. </h3>
+			<h3 className="margin-y-50 text-center">1. Danh từ trước — mô tả sau</h3>
 
 			<p></p>
-
 			
-
+			
 
 			{/* 2.  */}
 
-			<h3 className="margin-y-50 text-center">2. </h3>
+			<h3 className="margin-y-50 text-center">2. Tại sao người bản ngữ lại nhấn mạnh danh từ trước?</h3>
 
 			<p></p>
 
-		
 			
 
 			{/* 3.  */}
 
-			<h3 className="margin-y-50 text-center">3. </h3>
-
-			<p></p>
-			
-			
-
-			{/* 4.  */}
-
-			<h3 className="margin-y-50 text-center">4. </h3>
+			<h3 className="margin-y-50 text-center">3. Cách luyện tập để làm chủ nhanh và tự nhiên</h3>
 
 			<p></p>
 
 			
 
-			{/* 5.  */}
+			{/* Kết luận */}
 
-			<h3 className="margin-y-50 text-center">5. </h3>
-
-			<p></p>
-
-			
-
-			{/* Lời Kết */}
-
-			<h3 className="margin-y-50 text-center"></h3>
+			<h3 className="margin-y-50 text-center">Kết luận</h3>
 
 			<p></p>
 
@@ -113,7 +97,7 @@ export default function AdjPlacement7(): React.JSX.Element {
 			<div className="viewcounter">
 			
 				<div className="post-date no-margin">
-					<span>May 27, 2026 · by 💎Gem and 🐝Mr. Bee Osn ·</span>
+					<span>May 27, 2026 · by by PPLX and 🐝Mr. Bee Osn ·</span>
 				</div>
 
 				<div className="eye-icon no-margin">

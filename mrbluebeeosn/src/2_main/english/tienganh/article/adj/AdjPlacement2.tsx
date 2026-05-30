@@ -59,7 +59,7 @@ export default function AdjPlacement2(): React.JSX.Element {
 
 			{/* 1.  */}
 
-			<h3 className="margin-y-50 text-center">1. </h3>
+			<h3 className="margin-y-50 text-center">1. Hai nguyên lý vàng để không bao giờ nhầm vị trí</h3>
 
 			<p></p>
 
@@ -68,7 +68,7 @@ export default function AdjPlacement2(): React.JSX.Element {
 
 			{/* 2.  */}
 
-			<h3 className="margin-y-50 text-center">2. </h3>
+			<h3 className="margin-y-50 text-center">2. Sự thật ít ai dám nói: người bản ngữ dùng danh từ trước tính từ rất nhiều</h3>
 
 			<p></p>
 
@@ -77,15 +77,29 @@ export default function AdjPlacement2(): React.JSX.Element {
 
 			{/* 3.  */}
 
-			<h3 className="margin-y-50 text-center">3. </h3>
+			<h3 className="margin-y-50 text-center">3. Khi bạn thực sự làm chủ được Adjective Clause, cánh cửa của bộ ba mệnh đề mở ra</h3>
 
 			<p></p>
+
+			<h4 className="margin-y-40">1. Adjective Clause – Mệnh đề tính từ (lợi thế của người Việt)</h4>
+					
+			<p className="text-indent-whole"></p>
+
+
+			<h4 className="margin-y-40">2. Adverbial Clause – Mệnh đề trạng ngữ (mượn tư duy từ Adjective Clause)</h4>
+					
+			<p className="text-indent-whole"></p>
+
+
+			<h4 className="margin-y-40">3. Noun Clause – Mệnh đề danh từ (viên ngọc quý của sự tinh tế)</h4>
+					
+			<p className="text-indent-whole"></p>
 			
 			
 
 			{/* 4.  */}
 
-			<h3 className="margin-y-50 text-center">4. </h3>
+			<h3 className="margin-y-50 text-center">4. Người Việt đang đứng ở vị trí nào trong khu vực?</h3>
 
 			<p></p>
 
@@ -93,15 +107,30 @@ export default function AdjPlacement2(): React.JSX.Element {
 
 			{/* 5.  */}
 
-			<h3 className="margin-y-50 text-center">5. </h3>
+			<h3 className="margin-y-50 text-center">5. Làm thế nào để biến lợi thế thành sức mạnh thật sự?</h3>
 
 			<p></p>
+
+
+			<h4 className="margin-y-40">Bước 1 – Viết Adjective Clause:</h4>
+					
+			<p className="text-indent-whole"></p>
+
+
+			<h4 className="margin-y-40">Bước 2 – Thêm Adverbial Clause:</h4>
+					
+			<p className="text-indent-whole"></p>
+
+
+			<h4 className="margin-y-40">Bước 3 – Chèn Noun Clause:</h4>
+					
+			<p className="text-indent-whole"></p>
 
 			
 
 			{/* Lời Kết */}
 
-			<h3 className="margin-y-50 text-center"></h3>
+			<h3 className="margin-y-50 text-center">Kết luận: Đừng chiến đấu với tiếng mẹ đẻ, hãy tận dụng nó</h3>
 
 			<p></p>
 
@@ -113,7 +142,7 @@ export default function AdjPlacement2(): React.JSX.Element {
 			<div className="viewcounter">
 			
 				<div className="post-date no-margin">
-					<span>May 27, 2026 · by 💎Gem and 🐝Mr. Bee Osn ·</span>
+					<span>May 27, 2026 · by DPSK and 🐝Mr. Bee Osn ·</span>
 				</div>
 
 				<div className="eye-icon no-margin">

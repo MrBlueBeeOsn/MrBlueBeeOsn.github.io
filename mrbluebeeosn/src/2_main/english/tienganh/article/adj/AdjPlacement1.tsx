@@ -59,7 +59,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 
 			{/* 1.  */}
 
-			<h3 className="margin-y-50 text-center">1. </h3>
+			<h3 className="margin-y-50 text-center">1. Bản Chất Của Vị Trí: Quy Luật Điều Phối Trọng Tâm</h3>
 
 			<p></p>
 
@@ -68,7 +68,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 
 			{/* 2.  */}
 
-			<h3 className="margin-y-50 text-center">2. </h3>
+			<h3 className="margin-y-50 text-center">2. Adjective Clause: Chiếc Chìa Khóa Đồng Bộ Tư Duy Tuyệt Đối</h3>
 
 			<p></p>
 
@@ -77,31 +77,19 @@ export default function AdjPlacement1(): React.JSX.Element {
 
 			{/* 3.  */}
 
-			<h3 className="margin-y-50 text-center">3. </h3>
+			<h3 className="margin-y-50 text-center">3. Bản Đồ Thống Trị: Làm Chủ Bộ Ba Mệnh Đề Cốt Lõi</h3>
 
 			<p></p>
 			
-			
+		
 
-			{/* 4.  */}
-
-			<h3 className="margin-y-50 text-center">4. </h3>
-
-			<p></p>
-
-			
-
-			{/* 5.  */}
-
-			<h3 className="margin-y-50 text-center">5. </h3>
-
-			<p></p>
+			<p><strong>Từ Adjective Clause đến thế giới của Adverbial và Noun Clause</strong></p>
 
 			
 
 			{/* Lời Kết */}
 
-			<h3 className="margin-y-50 text-center"></h3>
+			<h3 className="margin-y-50 text-center">Lời Kết: Vũ Khí Chiến Lược Của Người Việt</h3>
 
 			<p></p>
 

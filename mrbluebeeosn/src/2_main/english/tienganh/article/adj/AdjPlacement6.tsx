@@ -59,7 +59,7 @@ export default function AdjPlacement6(): React.JSX.Element {
 
 			{/* 1.  */}
 
-			<h3 className="margin-y-50 text-center">1. </h3>
+			<h3 className="margin-y-50 text-center">1. Hai nguyên tắc nhấn mạnh bạn cần thuộc lòng</h3>
 
 			<p></p>
 
@@ -68,16 +68,30 @@ export default function AdjPlacement6(): React.JSX.Element {
 
 			{/* 2.  */}
 
-			<h3 className="margin-y-50 text-center">2. </h3>
+			<h3 className="margin-y-50 text-center">2. Bộ ba mệnh đề nền tảng của tiếng Anh nâng cao</h3>
 
 			<p></p>
+
+			<h4 className="margin-y-40">1. Mệnh đề tính từ — mô tả đứng sau danh từ</h4>
+					
+			<p className="text-indent-whole"></p>
+
+
+			<h4 className="margin-y-40">2. Mệnh đề trạng ngữ — nối ý, giải thích hoàn cảnh</h4>
+					
+			<p className="text-indent-whole"></p>
+
+
+			<h4 className="margin-y-40">3. Mệnh đề danh từ — biến cả cụm thành chủ ngữ hoặc tân ngữ</h4>
+					
+			<p className="text-indent-whole"></p>
 
 		
 			
 
 			{/* 3.  */}
 
-			<h3 className="margin-y-50 text-center">3. </h3>
+			<h3 className="margin-y-50 text-center">3. Cách kết hợp bộ ba để viết luận và nói thuyết phục</h3>
 
 			<p></p>
 			
@@ -85,7 +99,7 @@ export default function AdjPlacement6(): React.JSX.Element {
 
 			{/* 4.  */}
 
-			<h3 className="margin-y-50 text-center">4. </h3>
+			<h3 className="margin-y-50 text-center">4. Thực hành có hệ thống — 5 bước để làm chủ</h3>
 
 			<p></p>
 
@@ -93,7 +107,7 @@ export default function AdjPlacement6(): React.JSX.Element {
 
 			{/* 5.  */}
 
-			<h3 className="margin-y-50 text-center">5. </h3>
+			<h3 className="margin-y-50 text-center">5. Những lỗi thường gặp và cách tránh</h3>
 
 			<p></p>
 
@@ -101,7 +115,7 @@ export default function AdjPlacement6(): React.JSX.Element {
 
 			{/* Lời Kết */}
 
-			<h3 className="margin-y-50 text-center"></h3>
+			<h3 className="margin-y-50 text-center">Kết luận: biến điểm tương đồng thành lợi thế cạnh tranh</h3>
 
 			<p></p>
 
@@ -113,7 +127,7 @@ export default function AdjPlacement6(): React.JSX.Element {
 			<div className="viewcounter">
 			
 				<div className="post-date no-margin">
-					<span>May 27, 2026 · by 💎Gem and 🐝Mr. Bee Osn ·</span>
+					<span>May 27, 2026 · by Copilot and 🐝Mr. Bee Osn ·</span>
 				</div>
 
 				<div className="eye-icon no-margin">
