@@ -416,7 +416,7 @@ export default function LegoAssembly7(): React.JSX.Element {
 					<li className="margin-bottom-20 list-none">[what he does] - DC</li>
 			
 					<li>Đứng sau Head</li>
-					<li className="list-none">a car, buy a car, not buy a car</li>
+					<li className="list-none">a car, buy a car, not buy a car - DP</li>
 					<li className="margin-bottom-20 list-none">một chiếc xe hơi, mua một chiếc xe hơi, không mua một chiếc xe hơi</li>
 			
 				</ul>
@@ -427,7 +427,7 @@ export default function LegoAssembly7(): React.JSX.Element {
 				<ul className="list-square">
 
 					<li>Có S V hoàn chỉnh bên trong</li>
-					<li className="list-none">what he does, who is standing, when he arrived</li>
+					<li className="list-none">what he does, who is standing, when he arrived - DC</li>
 					<li className="margin-bottom-20 list-none">những gì anh ấy làm, người đang đứng, khi nào anh ấy đến</li>
 			
 					<li>Đứng sau Head</li>
@@ -439,8 +439,10 @@ export default function LegoAssembly7(): React.JSX.Element {
 					<li className="margin-bottom-20 list-none">Cô ấy biết [những gì anh ấy làm]</li>
 			
 					<li>Nằm trong DP</li>
-					<li className="list-none">She does (not know [what he does]). - S Head DP[DC]</li>
-					<li className="list-none">Cô ấy (không biết [những gì anh ấy làm])</li>
+					<li className="list-none">She does not know [what he does].</li>
+					<li className="list-none">Cô ấy không biết [những gì anh ấy làm].</li>
+					<li className="list-none">not know [what he does] - DP[DC]</li>
+					<li className="list-none">[what he does] - DC</li>
 			
 				</ul>
 			
@@ -877,7 +879,7 @@ export default function LegoAssembly7(): React.JSX.Element {
 			
 				</ul>
 
-			<p className="margin-top-20 text-indent-whole"><strong>Nghi vấn</strong></p>
+			<p className="margin-top-20 text-indent-whole"><strong>Phủ định</strong></p>
 			
 				<ul className="list-square">
 			
@@ -1032,8 +1034,8 @@ export default function LegoAssembly7(): React.JSX.Element {
 					<li className="margin-bottom-20 list-none">not buy a car - DP</li>
 			
 					<li><strong>Có DC</strong>:</li>
-					<li className="list-none">know what he does - DP</li>
-					<li className="list-none">not know what he does - DP</li>
+					<li className="list-none">know [what he does] - DP[DC]</li>
+					<li className="list-none">not know [what he does] - DP[DC]</li>
 			
 				</ul>
 		
@@ -1082,7 +1084,7 @@ export default function LegoAssembly7(): React.JSX.Element {
 
 			<p className="text-indent-whole">Khi đã quen với các khối cơ bản, bạn có thể "lắp" câu mới bằng cách thay DP:</p>
 
-			<p className="text-indent-whole">Với <strong>buys</strong> (<strong>khẳng định</strong>) = <strong>Head</strong>:</p>
+			<p className="text-indent-whole">Với <strong>buys</strong> (<strong>khẳng định</strong>) = <strong>Head</strong></p>
 			
 				<ul className="list-square">
 			
@@ -1097,7 +1099,7 @@ export default function LegoAssembly7(): React.JSX.Element {
 			
 				</ul>
 
-			<p className="margin-top-20 text-indent-whole">Với <strong>does</strong> (<strong>phủ định</strong>) = <strong>Head</strong>:</p>
+			<p className="margin-top-20 text-indent-whole">Với <strong>does</strong> (<strong>phủ định</strong>) = <strong>Head</strong></p>
 			
 				<ul className="list-square">
 			
@@ -1112,7 +1114,7 @@ export default function LegoAssembly7(): React.JSX.Element {
 			
 				</ul>
 
-			<p className="margin-top-20  text-indent-whole">Với <strong>doesn</strong>'<strong>t</strong> (<strong>phủ định gộp</strong>)  = <strong>Head</strong>:</p>
+			<p className="margin-top-20  text-indent-whole">Với <strong>doesn</strong>'<strong>t</strong> (<strong>phủ định gộp</strong>)  = <strong>Head</strong></p>
 			
 				<ul className="list-square">
 			
@@ -1153,11 +1155,11 @@ export default function LegoAssembly7(): React.JSX.Element {
 			
 				<ol>
 			
-					<li>S (Subject)</li>
+					<li>Subject - <strong>S</strong></li>
 			
-					<li>Head (Head tích hợp hoặc trợ động từ)</li>
+					<li>Head tích hợp hoặc trợ động từ - <strong>Head</strong></li>
 			
-					<li>DP (mọi thứ sau Head)</li>
+					<li>Mọi thứ sau Head - <strong>DP</strong></li>
 			
 				</ol>
 
@@ -1165,13 +1167,13 @@ export default function LegoAssembly7(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>noun phrase: a car, the book</li>
+					<li>a car, the book (Noun phrase) - DP</li>
 
-					<li>adjective phrase: very busy, happy</li>
+					<li>very busy, happy (adjective phrase) - DP</li>
 			
-					<li>adverb phrase: very quickly, yesterday</li>
+					<li>very quickly, yesterday (adverb phrase) - DP</li>
 
-					<li>prepositional phrase: in HCMC, on the table</li>
+					<li>in Vietnam, on the table (prepositional phrase) - DP</li>
 			
 				</ul>
 
@@ -1180,15 +1182,15 @@ export default function LegoAssembly7(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>not + noun phrase: not a car</li>
+					<li>not a car (not + noun phrase) - DP</li>
 
-					<li>not + verb phrase: not buy a car</li>
+					<li>not buy a car (not + verb phrase) - DP</li>
 			
-					<li>not + adjective phrase: not very busy</li>
+					<li>not very busy (not + adjective phrase) - DP</li>
 
-					<li>not + verb phrase chứa DC: not know what he does</li>
+					<li>not know what he does (not + verb phrase chứa DC) - DP[DC]</li>
 			
-					<li>not DC: not what he does</li>
+					<li>not what he does (not DC)  - DP[DC]</li>
 			
 				</ul>
 			
@@ -1253,11 +1255,11 @@ export default function LegoAssembly7(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>He knows the answer.</li>
+					<li>He knows [the answer].</li>
 					<li className="margin-bottom-20 list-none">Anh ấy biết câu trả lời.</li>
 					<li className="list-none">He - S</li>
 					<li className="list-none">knows - Head tích hợp (does know)</li>
-					<li className="list-none"><strong>the answer</strong> - DP</li>
+					<li className="list-none">the answer - DP</li>
 			
 				</ul>
 
@@ -1265,11 +1267,11 @@ export default function LegoAssembly7(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>He does not know the answer.</li>
+					<li>He does [not know the answer].</li>
 					<li className="margin-bottom-20 list-none">Anh ấy không biết câu trả lời.</li>
 					<li className="list-none">He - S</li>
 					<li className="list-none">does - Head</li>
-					<li className="list-none"><strong>not know the answer</strong> - DP</li>
+					<li className="list-none">not know the answer - DP</li>
 			
 				</ul>
 
@@ -1277,36 +1279,36 @@ export default function LegoAssembly7(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>Does he know the answer?</li>
+					<li>Does he [know the answer]?</li>
 					<li className="margin-bottom-20 list-none">Anh ấy có biết câu trả lời không?</li>
 					<li className="list-none">Does - Head</li>
 					<li className="list-none">he - S</li>
-					<li className="list-none"><strong>know the answer</strong> - DP</li>
+					<li className="list-none">know the answer - DP</li>
 			
 				</ul>
 
 
 			<h4 className="margin-y-40">Bài 3: Phân biệt DP và DC</h4>
 
-			<p className="margin-top-20 text-indent-whole">Xác định phần sau Head là DP hay DC:</p>
+			<p className="margin-top-20 text-indent-whole">Xác định phần sau Head là <strong>DP</strong> hay <strong>DC</strong>:</p>
 			
 				<ol>
 			
 					<li value="1">He knows [the answer].</li>
 					<li className="list-none">Anh ấy biết [câu trả lời].</li>
-					<li className="margin-bottom-20 list-none">Noun phrase, không có S V - DP</li>
+					<li className="margin-bottom-20 list-none">[the answer] - Noun phrase, không có S V - <strong>DP</strong></li>
 			
 					<li value="2">He knows [what he wants].</li>
 					<li className="list-none">Anh ấy biết [điều anh ấy muốn].</li>
-					<li className="margin-bottom-20 list-none">DC thay thế DP, có he + wants - DP</li>
+					<li className="margin-bottom-20 list-none">[what he wants] - DC thay thế DP, có he wants - <strong>DP</strong>/<strong>DC</strong></li>
 
 					<li value="3">She is [very busy].</li>
 					<li className="list-none">Cô ấy [rất bận].</li>
-					<li className="margin-bottom-20 list-none">Adjective phrase, không có S V - DP</li>
+					<li className="margin-bottom-20 list-none">[very busy] - Adjective phrase, không có S V - <strong>DP</strong></li>
 			
 					<li value="4">She is [what you call busy].</li>
 					<li className="list-none">Cô ấy là [thứ mà bạn gọi là bận rộn].</li>
-					<li className="list-none">DC thay thế DP, có you + call - DP</li>
+					<li className="list-none">[what you call busy] DC thay thế DP, có you call - <strong>DP</strong>/<strong>DC</strong></li>
 			
 				</ol>
 
@@ -1319,12 +1321,13 @@ export default function LegoAssembly7(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li><strong>S Head DP</strong> — công thức cốt lõi (luôn đúng)</li>
-					<li><strong>DP</strong> = <strong>mọi thứ sau Head</strong> (bao gồm not nếu có)</li>
+					<li>Công thức cốt lõi (luôn đúng) - <strong>S Head DP</strong></li>
+					<li><strong>Mọi thứ sau Head</strong> (bao gồm not nếu có) = <strong>DP</strong></li>
 					<li><strong>not nằm trong DP</strong>, không đứng riêng</li>
-					<li><strong>DC có S V</strong>, có thể thay thế DP hoặc nằm trong DP</li>
-					<li><strong>Head tích hợp</strong> = động từ chính mang thời (buys = does + buy)</li>
-					<li><strong>am</strong> → <strong>V</strong>-<strong>ing</strong>; <strong>will</strong>/<strong>could</strong> → <strong>V nguyên mẫu</strong></li>
+					<li><strong>DC</strong> có S V, <strong>có thể thay thế DP</strong> hoặc <strong>nằm trong DP</strong></li>
+					<li>Động từ chính mang thời (buys = does + buy) = <strong>Head tích hợp</strong></li>
+					<li>am (<strong>Head</strong>) → V-ing - <strong>DP</strong></li>
+					<li>will/could (<strong>Head</strong>) → V nguyên mẫu - <strong>DP</strong></li>
 			
 				</ul>
 			
@@ -1339,7 +1342,7 @@ export default function LegoAssembly7(): React.JSX.Element {
 			<div className="viewcounter">
 			
 				<div className="post-date no-margin">
-					<span>May 29, 2026 · by PPLX and 🐝Mr. Bee Osn ·</span>
+					<span>May 29 and 30, 2026 · by PPLX and 🐝Mr. Bee Osn ·</span>
 				</div>
 
 				<div className="eye-icon no-margin">
