@@ -52,18 +52,24 @@ export default function LegoAssembly7(): React.JSX.Element {
 
 			<p>Bạn có đang học ngữ pháp tiếng Anh như một tấm bản đồ phức tạp?</p>
 
-			<p>Bạn đã bao giờ cảm thấy choáng ngợp trước hàng chục "thì" trong tiếng Anh: hiện tại đơn, quá khứ tiếp diễn, tương lai hoàn thành tiếp diễn...? Bạn học đi học lại nhưng vẫn lúng túng khi phải nói một câu đơn giản?</p>
+			<p>Bạn đã bao giờ cảm thấy choáng ngợp trước hàng chục "thì" trong tiếng Anh: hiện tại đơn, quá khứ tiếp diễn, tương lai hoàn thành tiếp diễn...?</p>
 
-			<p>Có một cách tiếp cận khác.</p>
+			<p>Bạn học đi học lại nhưng vẫn lúng túng khi phải nói một câu đơn giản?</p>
+
+			<p><strong>Có một cách tiếp cận khác</strong>.</p>
 			
-			<p>Hãy tưởng tượng ngữ pháp tiếng Anh không phải là một mớ quy tắc phức tạp, mà là một bộ Lego — bạn chỉ cần học cách lắp ghép các khối cơ bản.</p>
+			<p>Hãy tưởng tượng ngữ pháp tiếng Anh không phải là một mớ quy tắc phức tạp, mà là một <strong>bộ Lego</strong> — bạn chỉ cần học cách <strong>lắp ghép</strong> các khối cơ bản.</p>
 
 			{/* 1.  */}
 
 			<h3 className="margin-y-50 text-center">1. Tư duy "Dependent" (Phụ thuộc) là chìa khóa vàng</h3>
 
-			<p>Mọi cụm từ (phrase) hay mệnh đề (clause) trong tiếng Anh đều có một đặc tính chung: Chúng không thể đứng một mình. Chúng sinh ra là để bổ nghĩa cho Hạt nhân (Head).</p>
+			<p>Mọi cụm từ (phrase) hay mệnh đề (clause) trong tiếng Anh đều có một đặc tính chung:</p>
 
+			<p><strong>Chúng không thể đứng một mình</strong>.</p>
+
+			<p>Chúng sinh ra là để <strong>bổ nghĩa cho Hạt nhân</strong> (<strong>Head</strong>).</p>
+			
 			<p className="margin-top-20">Muốn nói về trạng thái? Lắp một cụm tính từ vào:</p>
 			
 				<ul className="list-square">
@@ -93,7 +99,7 @@ export default function LegoAssembly7(): React.JSX.Element {
 			
 				</ul>
 			
-			<p className="margin-top-20">Bạn không cần học "thì". Bạn chỉ cần học cách "lắp ghép" (assembly).</p>
+			<p className="margin-top-20">Bạn <strong>không cần học</strong> "<strong>thì</strong>". Bạn <strong>chỉ cần học cách</strong> "<strong>lắp ghép</strong>" (<strong>assembly</strong>).</p>
 			
 
 			{/* 2.  */}
@@ -102,35 +108,44 @@ export default function LegoAssembly7(): React.JSX.Element {
 
 			<p>Mỗi câu tiếng Anh đều có thể được phân tích thành 3 phần:</p>
 
-			<p>S (Subject) + Head + DP</p>
+			<p className="margin-y-40 text-indent-whole"><strong>S</strong> (<strong>Subject</strong>) <strong>Head DP</strong></p>
 
 			<p>Trong đó:</p>
 			
 				<ul className="list-square">
 			
-					<li>Subject (Chủ ngữ) = S</li>
+					<li>Subject (Chủ ngữ) = <strong>S</strong></li>
 			
-					<li>Khối trung tâm điều khiển = Head</li>
+					<li>Hạt nhân (Khối trung tâm điều khiển) = <strong>Head</strong></li>
 			
-					<li>Dependent Phrase (Cụm phụ thuộc) — mọi thứ sau Head = DP</li>
+					<li>Dependent Phrase (Cụm phụ thuộc) — <strong>mọi thứ sau Head</strong> = <strong>DP</strong></li>
 			
 				</ul>
 			
-			<p className="margin-top-20">Quan trọng: Không có công thức "S Head not DP". Công thức luôn là S Head DP, và not nằm trong DP.</p>
+			<p className="margin-top-20"><strong>Quan trọng</strong>:</p>
+			
+				<ul className="list-square">
+			
+					<li>Không có công thức "S Head not DP".</li>
+			
+					<li>Công thức luôn là <strong>S Head DP</strong>, và <strong>not nằm trong DP</strong>.</li>
+			
+				</ul>
 
 
 			{/* 3.  */}
 
 			<h3 className="margin-y-50 text-center">3. S (Subject) — Chủ Ngữ</h3>
 
-			<p></p>
-
 			<p className="margin-top-20">Là người hoặc vật thực hiện hành động hoặc mang trạng thái.</p>
 			
 				<ul className="list-square">
 			
-					<li>I, You, He, She, It, We, They, The student, My friend...</li>
-					<li className="list-none">Tôi, Bạn, Anh ấy, Cô ấy, Nó, Chúng tôi, Họ, Học sinh đó, Bạn của tôi...</li>
+					<li>I, You, He, She, It, We, They</li>
+					<li className="margin-bottom-20 list-none">Tôi, Bạn, Anh ấy, Cô ấy, Nó, Chúng tôi, Họ</li>
+
+					<li>The student, My friend...</li>
+					<li className="list-none">Học sinh đó, Bạn của tôi...</li>
 			
 				</ul>
 
@@ -139,32 +154,96 @@ export default function LegoAssembly7(): React.JSX.Element {
 
 			<h3 className="margin-y-50 text-center">4. Head — Khối Trung Tâm Điều Khiển</h3>
 
-			<p className="margin-top-20">Head là phần quyết định thời, thể, khả năng, nghi vấn, phủ định của câu. Head có thể là:</p>
+			<p className="margin-top-20">Head là phần quyết định <strong>thời</strong>, <strong>thể</strong>, <strong>khả năng</strong>, <strong>nghi vấn</strong>, <strong>phủ định</strong> của câu. Head có thể là:</p>
 
-			<p className="margin-top-20">Động từ chính (Head tích hợp): mang luôn "chỉ dấu thời"</p>
+			<h4 className="margin-y-40"><strong>Động từ chính</strong> - <strong>Head tích hợp</strong>:</h4>
+					
+			<p className="text-indent-whole">Mang luôn "<strong>chỉ dấu thời</strong>"</p>
 			
 				<ul className="list-square">
 			
-					<li>buys, knows, develops...</li>
-					<li className="list-none">mua, biết, phát triển...</li>
+					<li>buys - Head</li>
+					<li className="list-none">mua</li>
+
+					<li>knows - Head.</li>
+					<li className="list-none">biết</li>
+
+					<li>develops - Head</li>
+					<li className="list-none">phát triển</li>
 			
 				</ul>
 
-			<p className="margin-top-20">Trợ động từ:</p>
+			<h4 className="margin-y-40">Trợ động từ - Head</h4>
+
+			<p className="margin-top-20"><strong>does</strong> / <strong>doesn</strong>'<strong>t</strong>: thường không dịch trực tiếp mà thể hiện qua thì và ngữ cảnh - <strong>Head</strong></p>
 			
 				<ul className="list-square">
 			
-					<li>does, doesn't, will, could, am/is/are, has/have...</li>
-					<li className="list-none">làm, không làm, sẽ, có thể, thì/đang, có</li>
+					<li>He does not go.</li>
+					<li className="list-none">Anh ấy không đi.</li>
+					<li className="margin-bottom-20 list-none">does - Head</li>
+			
+					<li>Does he go?</li>
+					<li className="list-none">Anh ấy có đi không?</li>
+					<li className="list-none">Does - Head</li>
 			
 				</ul>
 			
-			<p className="margin-top-20"></p>
+
+			<p className="margin-top-20"><strong>will</strong>: là sẽ (tương lai) - <strong>Head</strong></p>
+			
+				<ul className="list-square">
+			
+					<li>I will go.</li>
+					<li className="list-none">Tôi sẽ đi.</li>
+					<li className="list-none">will - Head</li>
+			
+				</ul>
+
+			<p className="margin-top-20"><strong>could</strong>: có thể (khả năng/đề xuất/lịch sự) - <strong>Head</strong></p>
+			
+				<ul className="list-square">
+			
+					<li>I could help.</li>
+					<li className="list-none">Tôi có thể giúp.</li>
+					<li className="list-none">could - Head</li>
+			
+				</ul>
+			
+
+			<p className="margin-top-20"><strong>am</strong>/<strong>is</strong>/<strong>are</strong>: thì / đang (tùy ngữ cảnh hiện tại tiếp diễn hoặc trạng thái) - <strong>Head</strong></p>
+			
+				<ul className="list-square">
+			
+					<li>I am busy.</li>
+					<li className="list-none">Tôi thì bận.</li>
+					<li className="margin-bottom-20 list-none">am - Head</li>
+			
+					<li>She is sleeping.</li>
+					<li className="list-none">Cô ấy đang ngủ.</li>
+					<li className="list-none">is - Head</li>
+			
+				</ul>
+					
+			
+			<p className="margin-top-20"><strong>has</strong>/<strong>have</strong>: đã / rồi (hiện tại hoàn thành) - <strong>Head</strong></p>
+			
+				<ul className="list-square">
+			
+					<li>She has finished. </li>
+					<li className="list-none">Cô ấy đã hoàn thành.</li>
+					<li className="margin-bottom-20 list-none">has - Head.</li>
+			
+					<li>I have eaten.</li>
+					<li className="list-none">Tôi đã ăn rồi.</li>
+					<li className="list-none">have - Head.</li>
+			
+				</ul>
 			
 			
 			<h4 className="margin-y-40">Head tích hợp là gì?</h4>
 					
-			<p>Head tích hợp = động từ chính đã tích hợp sẵn trợ động từ và thời gian.</p>
+			<p>Động từ chính đã tích hợp sẵn trợ động từ và thời gian = <strong>Head tích hợp</strong>.</p>
 
 			<p className="margin-top-20">Ví dụ:</p>
 			
@@ -183,72 +262,75 @@ export default function LegoAssembly7(): React.JSX.Element {
 
 			<h3 className="margin-y-50 text-center">5. DP (Dependent Phrase) — Cụm Phụ Thuộc</h3>
 
-			<p>DP = MỌI THỨ SAU HEAD (không có ngoại lệ).</p>
+			<p><strong>MỌI THỨ SAU HEAD</strong> (không có ngoại lệ) = <strong>DP</strong>.</p>
 					
 			<p className="margin-top-20">DP không thể đứng một mình. Nó bổ nghĩa cho Head và có thể đóng vai trò:</p>
 
-			<p className="margin-top-20">Danh từ: làm object / complement - DP</p>
+			<p className="margin-top-20"><strong>Danh từ</strong>: làm object / complement - <strong>DP</strong></p>
 			
 				<ul className="list-square">
 			
 					<li>He buys [a car].</li>
 					<li className="list-none">Anh ấy mua [một chiếc xe hơi].</li>
+					<li className="list-none">[a car] - DP</li>
 			
 				</ul>
 
 
-			<p className="margin-top-20">Tính từ: mô tả trạng thái, tính chất - DP</p>
+			<p className="margin-top-20"><strong>Tính từ</strong>: mô tả trạng thái, tính chất - <strong>DP</strong></p>
 			
 				<ul className="list-square">
 			
 					<li>She is [very happy].</li>
 					<li className="list-none">Cô ấy [rất vui].</li>
+					<li className="list-none">[very happy] - DP</li>
 			
 				</ul>
 
 
-			<p className="margin-top-20">Trạng từ - thời gian, cách thức, mức độ - DP</p>
+			<p className="margin-top-20"><strong>Trạng từ</strong>: thời gian, cách thức, mức độ - <strong>DP</strong></p>
 			
 				<ul className="list-square">
 			
 					<li>He runs [very fast].</li>
 					<li className="list-none">Anh ấy chạy [rất nhanh].</li>
+					<li className="list-none">[very fast] - DP</li>
 			
 				</ul>
 			
 
-			<p className="margin-top-20">Cụm giới từ: nơi chốn, thời gian, lý do - DP</p>
+			<p className="margin-top-20"><strong>Cụm giới từ</strong>: nơi chốn, thời gian, lý do - <strong>DP</strong></p>
 			
 				<ul className="list-square">
 			
 					<li>He lives [in Vietnam].</li>
 					<li className="list-none">Anh ấy sống [ở Việt Nam].</li>
+					<li className="list-none">[in Vietnam] - DP</li>
 			
 				</ul>
 
-			
+ 
+			<p className="margin-top-20"><strong>Đặc điểm quan trọng nhất</strong>:</p>
 
-			<p className="margin-top-20">Đặc điểm quan trọng nhất:</p>
+			<p className="margin-y-40 text-indent-whole"><strong>DP</strong> có thể chứa <strong>not</strong> bên trong.</p>
 
-			<p><strong>DP có thể chứa not bên trong</strong>.</p>
 
-			<p className="margin-top-20">Khẳng định:</p>
+			<p className="margin-top-20"><strong>Khẳng định</strong>:</p>
 			
 				<ul className="list-square">
 			
 					<li>buy a car = DP</li>
-					<li className="list-none">mua một chiếc xe hơi = Cụm phụ thuộc</li>
-					<li className="list-none">not không đứng riêng — nó nằm trong DP.</li>
+					<li className="list-none">mua một chiếc xe hơi = Cụm phụ thuộc = DP</li>
 			
 				</ul>
 			
-			<p className="margin-top-20">Phủ định:</p>
+			<p className="margin-top-20"><strong>Phủ định</strong>:</p>
 			
 				<ul className="list-square">
 			
 					<li>not buy a car = DP</li>
-					<li className="list-none">không mua một chiếc xe hơi = Cụm phụ thuộc</li>
-					<li className="list-none">not không đứng riêng — nó nằm trong DP.</li>
+					<li className="list-none">Không mua một chiếc xe hơi = Cụm phụ thuộc = DP</li>
+					<li className="list-none"><strong>Not không đứng riêng</strong> — <strong>nó nằm trong DP</strong>.</li>
 			
 				</ul>
 
@@ -257,23 +339,20 @@ export default function LegoAssembly7(): React.JSX.Element {
 
 			<h3 className="margin-y-50 text-center">6. DC (Dependent Clause) — Mệnh Đề Phụ Thuộc</h3>
 
-
-			<p className="margin-top-20">DC là mệnh đề có Subject Verb bên trong nhưng không thể đứng một mình. DC có thể:</p>
-			
-			<p className="margin-top-20"></p>
+			<p className="margin-top-20">DC là mệnh đề có <strong>Subject Verb</strong> bên trong nhưng <strong>không thể đứng một mình</strong>. DC có thể:</p>
 			
 				<ul className="list-square">
 			
-					<li>Thay thế DP</li>
+					<li><strong>Thay thế DP</strong></li>
 					<li className="margin-bottom-20 list-none">Đứng ngay sau Head, làm noun clause</li>
 			
-					<li>Nằm trong DP</li>
+					<li><strong>Nằm trong DP</strong></li>
 					<li className="list-none">Bên trong một cụm từ</li>
 			
 				</ul>
 
 
-			<p className="margin-top-20">Noun clause: mệnh đề danh từ</p>
+			<p className="margin-top-20"><strong>1</strong>. <strong>Noun clause</strong>: Mệnh đề danh ngữ</p>
 			
 				<ul className="list-square">
 			
@@ -282,7 +361,7 @@ export default function LegoAssembly7(): React.JSX.Element {
 			
 				</ul>
 
-			<p className="margin-top-20">Adjective clause: mệnh đề tính ngữ (relative clause/mệnh đề quan hệ)</p>
+			<p className="margin-top-20"><strong>2</strong>. <strong>Adjective clause</strong>: Mệnh đề tính ngữ (relative clause/mệnh đề quan hệ)</p>
 			
 				<ul className="list-square">
 			
@@ -291,7 +370,7 @@ export default function LegoAssembly7(): React.JSX.Element {
 			
 				</ul>
 
-			<p className="margin-top-20">adverbial clause: mệnh đề trạng ngữ</p>
+			<p className="margin-top-20"><strong>3</strong>. <strong>Adverbial clause</strong>: Mệnh đề trạng ngữ</p>
 			
 				<ul className="list-square">
 			
@@ -300,40 +379,41 @@ export default function LegoAssembly7(): React.JSX.Element {
 			
 				</ul>
 			
-			<p className="margin-top-20">DC vẫn tuân theo quy tắc: Sau Head là DP/DC, và DC có thể nằm trong DP.</p>
+			<p className="margin-top-20">DC vẫn tuân theo quy tắc: <strong>Sau Head là DP</strong>/<strong>DC</strong>, và <strong>DC có thể nằm trong DP</strong>.</p>
 
 
 			{/* 7.  */}
 
 			<h3 className="margin-y-50 text-center">7. Quy Tắc "Vàng": DP = Mọi Thứ Sau Head</h3>
 
-			<p className="margin-top-20">1. <strong>DP</strong></p>
+			<p className="margin-top-20"><strong>1</strong>. <strong>DP</strong></p>
 			
 				<ul className="list-square">
 			
 					<li>Mọi thứ sau Head</li>
-					<li className="margin-bottom-20 list-none">Bao gồm not nếu có</li>
+					<li className="margin-bottom-20">Bao gồm not nếu có</li>
 			
 				</ul>
 
-			<p className="margin-top-20">2. <strong>DC</strong></p>
+			<p className="margin-top-20"><strong>2</strong>. <strong>DC</strong></p>
 			
 				<ul className="list-square">
 			
 					<li>Mệnh đề có S V</li>
-					<li className="margin-bottom-20 list-none">Có thể thay thế DP hoặc nằm trong DP</li>
+					<li className="margin-bottom-20">Có thể thay thế DP hoặc nằm trong DP</li>
 			
 				</ul>
 
-			<p>Phân biệt nhanh:</p>
+			<p className="margin-top-20"><strong>Phân biệt nhanh</strong>:</p>
 
-			<p className="margin-top-20">1. <strong>DP</strong> (<strong>Dependent Phrase</strong>)</p>
+			<p className="margin-top-20"><strong>1</strong>. <strong>DP</strong> (<strong>Dependent Phrase</strong>)</p>
 			
 				<ul className="list-square">
 			
 					<li>Không có S V hoàn chỉnh bên trong (trừ khi DC nằm trong DP)</li>
 					<li className="list-none">She does (not know [what he does]) - S Head DP[DC]</li>
-					<li className="margin-bottom-20 list-none"></li>
+					<li className="list-none">not know [what he does] - DP</li>
+					<li className="margin-bottom-20 list-none">[what he does] - DC</li>
 			
 					<li>Đứng sau Head</li>
 					<li className="list-none">a car, buy a car, not buy a car</li>
@@ -342,7 +422,7 @@ export default function LegoAssembly7(): React.JSX.Element {
 				</ul>
 		
 			
-			<p className="margin-top-20">2. <strong>DC</strong> (<strong>Dependent Clause</strong>)</p>
+			<p className="margin-top-20"><strong>2</strong>. <strong>DC</strong> (<strong>Dependent Clause</strong>)</p>
 			
 				<ul className="list-square">
 
@@ -364,7 +444,14 @@ export default function LegoAssembly7(): React.JSX.Element {
 			
 				</ul>
 			
-			<p className="margin-top-20">Luật kiểm tra nhanh: Nếu phần sau Head có Subject Verb → là DC. Nếu không → là DP.</p>
+			<p className="margin-top-20"><strong>Luật kiểm tra nhanh</strong>:</p>
+			
+				<ul className="list-square">
+			
+					<li>Nếu phần sau Head có <strong>Subject Verb</strong> → là <strong>DC</strong></li>
+					<li>Nếu không → là <strong>DP</strong></li>
+			
+				</ul>
 
 
 			{/* 8.  */}
@@ -402,7 +489,7 @@ export default function LegoAssembly7(): React.JSX.Element {
 			
 					<li>not phần còn lại = DP</li>
 			
-					<li>not nằm trong DP, không đứng riêng.</li>
+					<li><strong>not nằm trong DP</strong>, không đứng riêng.</li>
 			
 				</ul>
 
@@ -429,28 +516,28 @@ export default function LegoAssembly7(): React.JSX.Element {
 				</ul>
 
 
-			<p className="margin-top-20 text-indent-whole">Lưu ý quan trọng:</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Lưu ý quan trọng</strong>:</p>
 			
 				<ul className="list-square">
 			
-					<li>doesn't = does + not (gộp vào Head)</li>
+					<li><strong>doesn't</strong> = <strong>does</strong> + <strong>not</strong> (gộp vào Head)</li>
 					<li className="margin-bottom-20 list-none">buy a car =→ DP</li>
 			
-					<li>does not (tách ra)</li>
+					<li><strong>does not</strong> (tách ra)</li>
 					<li className="list-none">not buy a car =→ DP</li>
 			
 				</ul>
 			
-			<p className="margin-top-20 text-indent-whole">Nhưng công thức vẫn là: S Head DP</p>
+			<p className="margin-top-20 text-indent-whole">Nhưng công thức vẫn là: <strong>S Head DP</strong></p>
 
 
 			<h4 className="margin-y-40">3. Câu nghi vấn</h4>
 
 			<p className="margin-y-40 text-indent-whole"><strong>Head S DP</strong> ?</p>
 			
-			<p className="text-indent-whole">Đảo Head lên trước S.</p>
+			<p className="text-indent-whole">Đảo <strong>Head</strong> lên trước <strong>S</strong>.</p>
 
-			<p className="text-indent-whole">Ví dụ:</p>
+			<p className="margin-top-20 text-indent-whole">Ví dụ:</p>
 			
 				<ul className="list-square">
 
@@ -486,7 +573,7 @@ export default function LegoAssembly7(): React.JSX.Element {
 				</ul>
 		
 
-			<p className="margin-top-20 text-indent-whole">Công thức: S Head DP</p>
+			<p className="margin-top-20 text-indent-whole">Công thức: <strong>S Head DP</strong></p>
 			
 				<ul className="list-square">
 			
@@ -509,7 +596,7 @@ export default function LegoAssembly7(): React.JSX.Element {
 				</ul>
 
 
-			<p className="margin-top-20 text-indent-whole">Công thức: S Head DP</p>
+			<p className="margin-top-20 text-indent-whole">Công thức: <strong>S Head DP</strong></p>
 			
 				<ul className="list-square">
 			
@@ -535,7 +622,7 @@ export default function LegoAssembly7(): React.JSX.Element {
 			
 			<p className="margin-top-20 text-indent-whole"></p>
 
-			<p className="margin-top-20 text-indent-whole">Công thức: S Head DP</p>
+			<p className="margin-top-20 text-indent-whole">Công thức: S <strong>Head DP</strong></p>
 			
 				<ul className="list-square">
 			
@@ -544,7 +631,7 @@ export default function LegoAssembly7(): React.JSX.Element {
 			
 				</ul>
 			
-			<p className="margin-top-20 text-indent-whole">Lưu ý: not nằm trong DP, không đứng riêng.</p>
+			<p className="margin-top-20 text-indent-whole">Lưu ý: <strong>not nằm trong DP</strong>, không đứng riêng.</p>
 
 
 			<h4 className="margin-y-40">Trường hợp 4: DC làm mệnh đề quan hệ</h4>
@@ -560,7 +647,7 @@ export default function LegoAssembly7(): React.JSX.Element {
 			
 				</ul>
 
-			<p className="margin-top-20 text-indent-whole">Công thức: [S DC] Head + DP</p>
+			<p className="margin-top-20 text-indent-whole">Công thức: [<strong>S DC</strong>] <strong>Head DP</strong></p>
 			
 				<ul className="list-square">
 			
@@ -569,7 +656,7 @@ export default function LegoAssembly7(): React.JSX.Element {
 			
 				</ul>
 
-			<p className="margin-top-20 text-indent-whole">Khi rút gọn:</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Khi rút gọn</strong>:</p>
 			
 				<ul className="list-square">
 			
@@ -578,7 +665,7 @@ export default function LegoAssembly7(): React.JSX.Element {
 			
 				</ul>
 			
-			<p className="margin-top-20 text-indent-whole">→ DC rút gọn thành participial phrase → trở thành DP.</p>
+			<p className="margin-top-20 text-indent-whole">→ DC rút gọn thành <strong>participial phrase</strong> → <strong>trở thành DP</strong>.</p>
 			
 
 			<h4 className="margin-y-40">Trường hợp 5: DC là noun clause (sau Head)</h4>
@@ -589,34 +676,34 @@ export default function LegoAssembly7(): React.JSX.Element {
 					<li className="margin-bottom-20 list-none">Cô ấy biết những gì anh ấy làm.</li>
 					<li className="list-none">She - S</li>
 					<li className="list-none">knows - Head tích hợp = does know, mang thời hiện tại</li>
-					<li className="list-none">what he does - DP (DC thay thế DP, có he + does)</li>
+					<li className="list-none">what he does - DP (DC thay thế DP, có he does)</li>
 			
 				</ul>
 
-			<p className="margin-top-20 text-indent-whole">Vấn đề:</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Vấn đề</strong>:</p>
 			
 				<ul className="list-square">
 			
-					<li>Theo quy tắc "sau Head là DP" → [what he does] đương nhiên là DP.</li>
+					<li>Theo quy tắc "sau Head là DP" → [what he does] <strong>đương nhiên là DP</strong>.</li>
 
-					<li>Nhưng nhìn vào bên trong: có he + does → về hình thức là DC.</li>
+					<li>Nhưng nhìn vào bên trong: có <strong>he does</strong> → về hình thức là <strong>DC</strong>.</li>
 			
 				</ul>
 
-			<p className="margin-top-20 text-indent-whole">Giải pháp:</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Giải pháp</strong>:</p>
 			
 				<ul className="list-square">
 			
-					<li>[what he does] là DC (về hình thức)</li>
+					<li>[<strong>what he does</strong>] <strong>là DC</strong> (<strong>về hình thức</strong>)</li>
 
-					<li>Nhưng đóng vai trò như DP (về chức năng)</li>
+					<li><strong>Nhưng đóng vai trò như DP</strong> (<strong>về chức năng</strong>)</li>
 			
 				</ul>
 			
-			<p className="margin-top-20 text-indent-whole">Đây là noun clause — mệnh đề danh từ, thay thế cho một noun phrase.</p>
+			<p className="margin-top-20 text-indent-whole">Đây là <strong>noun clause</strong> — mệnh đề danh từ, thay thế cho một noun phrase.</p>
 
 
-			<p className="margin-top-20 text-indent-whole">Cấu trúc phân tích:</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Cấu trúc phân tích</strong>:</p>
 			
 				<ul className="list-square">
 			
@@ -627,7 +714,7 @@ export default function LegoAssembly7(): React.JSX.Element {
 			
 				</ul>
 
-			<p className="margin-top-20 text-indent-whole">Công thức: S Head DP (DC thay thế)</p>
+			<p className="margin-top-20 text-indent-whole">Công thức: <strong>S Head DP</strong> (<strong>DC thay thế</strong>)</p>
 			
 				<ul className="list-square">
 			
@@ -639,7 +726,7 @@ export default function LegoAssembly7(): React.JSX.Element {
 			<p className="margin-top-20 text-indent-whole"></p>
 
 
-			<h4 className="margin-y-40">Trường hợp 6: Phủ định + DC nằm trong DP</h4>
+			<h4 className="margin-y-40">Trường hợp 6: Phủ định DC nằm trong DP</h4>
 			
 				<ul className="list-square">
 			
@@ -652,7 +739,7 @@ export default function LegoAssembly7(): React.JSX.Element {
 				</ul>
 
 
-			<p className="margin-top-20 text-indent-whole">Cấu trúc phân tích:</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Cấu trúc phân tích</strong>:</p>
 			
 				<ul className="list-square">
 			
@@ -664,7 +751,7 @@ export default function LegoAssembly7(): React.JSX.Element {
 				</ul>
 
 
-			<p className="margin-top-20 text-indent-whole">Công thức: S Head DP</p>
+			<p className="margin-top-20 text-indent-whole">Công thức: <strong>S Head DP</strong></p>
 			
 				<ul className="list-square">
 			
@@ -673,7 +760,7 @@ export default function LegoAssembly7(): React.JSX.Element {
 			
 				</ul>
 			
-			<p className="margin-top-20 text-indent-whole">Trong đó: DP chứa DC bên trong.</p>
+			<p className="margin-top-20 text-indent-whole">Trong đó: DP <strong>chứa</strong> DC bên trong.</p>
 
 
 			{/* 10.  */}
@@ -682,17 +769,17 @@ export default function LegoAssembly7(): React.JSX.Element {
 
 			<h4 className="margin-y-40">Head = am — "Đang" (hiện tại tiếp diễn / trạng thái)</h4>
 					
-			<p className="text-indent-whole">Quy tắc: Sau am</p>
+			<p className="text-indent-whole"><strong>Quy tắc</strong>: Sau <strong>am</strong></p>
 			
 				<ul className="list-square">
 			
-					<li>→ V-ing object</li>
-					<li>→ cụm tính từ</li>
-					<li>→ cụm giới từ</li>
+					<li>→ <strong>V</strong>-<strong>ing object</strong></li>
+					<li>→ <strong>cụm tính từ</strong></li>
+					<li>→ <strong>cụm giới từ</strong></li>
 			
 				</ul>
 
-			<p className="text-indent-whole"><strong>Khẳng định</strong></p>
+			<p className="margin-top-20 text-indent-whole"><strong>Khẳng định</strong></p>
 			
 				<ul className="list-square">
 			
@@ -713,7 +800,7 @@ export default function LegoAssembly7(): React.JSX.Element {
 			
 				</ul>
 
-			<p className="margin-top-20 text-indent-whole"><strong>Nghi vấn</strong></p>
+			<p className="margin-top-20 text-indent-whole"><strong>Phủ định</strong></p>
 			
 				<ul className="list-square">
 			
@@ -758,18 +845,18 @@ export default function LegoAssembly7(): React.JSX.Element {
 
 			<h4 className="margin-y-40">Head = will — "Sẽ" (tương lai)</h4>
 					
-			<p className="text-indent-whole">Quy tắc: Sau will</p>
+			<p className="text-indent-whole"><strong>Quy tắc</strong>: Sau <strong>will</strong></p>
 			
 				<ul className="list-square">
 			
-					<li>→ động từ nguyên mẫu + object</li>
-					<li>→ be cụm tính từ</li>
-					<li>→ be cụm giới từ</li>
+					<li>→ <strong>động từ nguyên mẫu object</strong></li>
+					<li>→ <strong>be cụm tính từ</strong></li>
+					<li>→ <strong>be cụm giới từ</strong></li>
 			
 				</ul>
 
 
-			<p className="text-indent-whole"><strong>Khẳng định</strong></p>
+			<p className="margin-top-20 text-indent-whole"><strong>Khẳng định</strong></p>
 			
 				<ul className="list-square">
 			
@@ -835,19 +922,17 @@ export default function LegoAssembly7(): React.JSX.Element {
 
 			<h4 className="margin-y-40">Head = could — "Có thể" (khả năng / đề xuất)</h4>
 					
-			<p className="text-indent-whole">Quy tắc: Sau could (giống will).</p>
-
-			<p className="margin-top-20"></p>
+			<p className="text-indent-whole"><strong>Quy tắc</strong>: Sau <strong>could</strong> (giống will).</p>
 			
 				<ul className="list-square">
 			
-					<li>→ động từ nguyên mẫu + object</li>
-					<li>→ be cụm tính từ</li>
-					<li>→ be cụm giới từ</li>
+					<li>→ <strong>động từ nguyên mẫu object</strong></li>
+					<li>→ <strong>be cụm tính từ</strong></li>
+					<li>→ <strong>be cụm giới từ</strong></li>
 			
 				</ul>
 
-			<p className="text-indent-whole"><strong>Khẳng định</strong></p>
+			<p className="margin-top-20 text-indent-whole"><strong>Khẳng định</strong></p>
 			
 				<ul className="list-square">
 			
@@ -940,13 +1025,13 @@ export default function LegoAssembly7(): React.JSX.Element {
 					
 				<ul className="list-square">
 			
-					<li>Khẳng định:</li>
+					<li><strong>Khẳng định</strong>:</li>
 					<li className="margin-bottom-20 list-none">buy a car - DP</li>
 			
-					<li>Phủ định:</li>
+					<li><strong>Phủ định</strong>:</li>
 					<li className="margin-bottom-20 list-none">not buy a car - DP</li>
 			
-					<li>Có DC</li>
+					<li><strong>Có DC</strong>:</li>
 					<li className="list-none">know what he does - DP</li>
 					<li className="list-none">not know what he does - DP</li>
 			
@@ -957,13 +1042,13 @@ export default function LegoAssembly7(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>am → V-ing (developing an app)</li>
+					<li><strong>am</strong> → [<strong>V-ing</strong>: developing an app = <strong>DP</strong>]</li>
 			
-					<li>will/could → V nguyên mẫu (develop an app)</li>
+					<li><strong>will</strong>/<strong>could</strong> → [<strong>V nguyên mẫu</strong>: develop an app = <strong>DP</strong>]</li>
 			
-					<li>DP = mọi thứ sau Head (bao gồm not nếu có)</li>
+					<li><strong>Mọi thứ sau Head</strong> (bao gồm not nếu có) = <strong>DP</strong></li>
 
-					<li>DC có S+V, có thể thay thế DP hoặc nằm trong DP</li>
+					<li><strong>DC có S V</strong>, có thể thay thế DP hoặc nằm trong DP</li>
 			
 				</ul>
 			
@@ -974,14 +1059,11 @@ export default function LegoAssembly7(): React.JSX.Element {
 
 			<h4 className="margin-y-40">1. Nhất quán tuyệt đối</h4>
 
-			<p className="text-indent-whole">Công thức luôn là:</p>
-			
-				<ul className="list-square">
-					<li className="list-none">S Head DP</li>
-				</ul>
-			
-			<p className="margin-top-20">Không có ngoại lệ. Không có "S Head notDP".</p>
+			<p className="text-indent-whole">Công thức <strong>luôn</strong> là:</p>
 
+			<p className="margin-y-40 text-indent-whole"><strong>S Head DP</strong></p>
+			
+			<p className="text-indent-whole">Không có ngoại lệ. Không có "S Head not DP".</p>
 
 			<h4 className="margin-y-40">2. Giảm áp lực "phải nhớ thì"</h4>
 
@@ -989,9 +1071,9 @@ export default function LegoAssembly7(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>Head nào biểu thị thời/mood nào</li>
+					<li><strong>Head nào</strong> biểu thị thời/mood nào</li>
 			
-					<li>DP nào ghép được sau Head đó</li>
+					<li><strong>DP nào</strong> ghép được sau Head đó</li>
 			
 				</ul>
 		
@@ -1000,7 +1082,7 @@ export default function LegoAssembly7(): React.JSX.Element {
 
 			<p className="text-indent-whole">Khi đã quen với các khối cơ bản, bạn có thể "lắp" câu mới bằng cách thay DP:</p>
 
-			<p className="text-indent-whole">Với Head = buys (khẳng định):</p>
+			<p className="text-indent-whole">Với <strong>buys</strong> (<strong>khẳng định</strong>) = <strong>Head</strong>:</p>
 			
 				<ul className="list-square">
 			
@@ -1015,7 +1097,7 @@ export default function LegoAssembly7(): React.JSX.Element {
 			
 				</ul>
 
-			<p className="margin-top-20 text-indent-whole">Với Head = does (phủ định):</p>
+			<p className="margin-top-20 text-indent-whole">Với <strong>does</strong> (<strong>phủ định</strong>) = <strong>Head</strong>:</p>
 			
 				<ul className="list-square">
 			
@@ -1030,7 +1112,7 @@ export default function LegoAssembly7(): React.JSX.Element {
 			
 				</ul>
 
-			<p className="margin-top-20  text-indent-whole">Với Head = doesn't (phủ định gộp):</p>
+			<p className="margin-top-20  text-indent-whole">Với <strong>doesn</strong>'<strong>t</strong> (<strong>phủ định gộp</strong>)  = <strong>Head</strong>:</p>
 			
 				<ul className="list-square">
 			
@@ -1045,7 +1127,7 @@ export default function LegoAssembly7(): React.JSX.Element {
 			
 				</ul>
 			
-			<p className="margin-top-20 text-indent-whole">Cùng Head buys / does / doesn't, thay DP → thay nghĩa hoàn toàn.</p>
+			<p className="margin-top-20 text-indent-whole">Cùng Head <strong>buys</strong> / <strong>does</strong> / <strong>doesn</strong>'<strong>t</strong>, thay DP → thay nghĩa hoàn toàn.</p>
 
 			
 			<h4 className="margin-y-40">4. Dễ kiểm tra lỗi</h4>
@@ -1055,7 +1137,7 @@ export default function LegoAssembly7(): React.JSX.Element {
 				<ul className="list-square">
 			
 					<li>Head và DP có tương thích không?</li>
-					<li className="margin-bottom-20 list-none">Cí dụ: "I am develop an app" sai vì am cần V-ing</li>
+					<li className="margin-bottom-20 list-none">Cí dụ: "I am develop an app" sai vì <strong>am</strong> cần <strong>V</strong>-<strong>ing</strong></li>
 			
 					<li>DP hay DC?</li>
 					<li className="list-none">Có S V hay không?</li>
@@ -1079,7 +1161,7 @@ export default function LegoAssembly7(): React.JSX.Element {
 			
 				</ol>
 
-			<p className="margin-top-20">1. DP không có not (khẳng định)</p>
+			<p className="margin-top-20">1. <strong>DP không có not</strong> (<strong>khẳng định</strong>)</p>
 			
 				<ul className="list-square">
 			
@@ -1092,12 +1174,9 @@ export default function LegoAssembly7(): React.JSX.Element {
 					<li>prepositional phrase: in HCMC, on the table</li>
 			
 				</ul>
-			
-			<p className="margin-top-20"></p>
 
-			<p className="margin-top-20">2. DP có not (phủ định)</p>
-			
-			<p className="margin-top-20"></p>
+
+			<p className="margin-top-20">2. <strong>DP có not</strong> (<strong>phủ định</strong>)</p>
 			
 				<ul className="list-square">
 			
@@ -1113,15 +1192,10 @@ export default function LegoAssembly7(): React.JSX.Element {
 			
 				</ul>
 			
-			<p className="margin-top-20"></p>
-
-			
 
 			{/* 14.  */}
 
 			<h3 className="margin-y-50 text-center">14. Bài Tập Thực Hành</h3>
-
-			<p></p>
 
 			<h4 className="margin-y-40">Bài 1: Phân tích câu</h4>
 					
@@ -1168,9 +1242,10 @@ export default function LegoAssembly7(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>DP = <strong>the answer</strong></li>
-					<li>DP = <strong>know the answer</strong></li>
-					<li>DP = <strong>not know the answer</strong></li>
+					<li><strong>does</strong> = Head</li>
+					<li><strong>the answer</strong> = DP</li>
+					<li><strong>know the answer</strong> = DP</li>
+					<li><strong>not know the answer</strong> = DP</li>
 			
 				</ul>
 
