@@ -279,8 +279,6 @@ export default function LegoAssembly7(): React.JSX.Element {
 
 			<h3 className="margin-y-50 text-center">7. Quy Tắc "Vàng": DP = Mọi Thứ Sau Head</h3>
 
-			<p></p>
-
 			<p className="margin-top-20">1. <strong>DP</strong></p>
 			
 				<ul className="list-square">
