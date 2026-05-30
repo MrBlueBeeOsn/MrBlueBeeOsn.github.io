@@ -97,7 +97,7 @@ export default function AdjPlacement7(): React.JSX.Element {
 			<div className="viewcounter">
 			
 				<div className="post-date no-margin">
-					<span>May 27, 2026 · by by PPLX and 🐝Mr. Bee Osn ·</span>
+					<span>June 01, 2026 · by by PPLX and 🐝Mr. Bee Osn ·</span>
 				</div>
 
 				<div className="eye-icon no-margin">
