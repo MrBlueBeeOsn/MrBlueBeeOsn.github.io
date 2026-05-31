@@ -63,6 +63,40 @@ export default function AdjPlacement8(): React.JSX.Element {
 
 			<p></p>
 
+			<p className="margin-top-20"></p>
+			
+				<ul className="list-square">
+			
+					<li></li>
+					<li className="margin-bottom-20 list-none"></li>
+			
+					<li></li>
+					<li className="margin-bottom-20 list-none"></li>
+			
+					<li></li>
+					<li className="list-none"></li>
+			
+				</ul>
+			
+			<p className="margin-top-20"></p>
+
+			<p className="margin-top-20"></p>
+			
+				<ul className="list-square">
+			
+					<li></li>
+					<li className="margin-bottom-20 list-none"></li>
+			
+					<li></li>
+					<li className="margin-bottom-20 list-none"></li>
+			
+					<li></li>
+					<li className="list-none"></li>
+			
+				</ul>
+			
+			<p className="margin-top-20"></p>
+
 			
 
 			{/* 2.  */}
@@ -75,16 +109,84 @@ export default function AdjPlacement8(): React.JSX.Element {
 					
 			<p className="text-indent-whole"></p>
 
+			<p className="margin-top-20"></p>
+			
+				<ul className="list-square">
+			
+					<li></li>
+					<li className="margin-bottom-20 list-none"></li>
+			
+					<li></li>
+					<li className="margin-bottom-20 list-none"></li>
+			
+					<li></li>
+					<li className="list-none"></li>
+			
+				</ul>
+			
+			<p className="margin-top-20"></p>
+
+			<p className="margin-top-20"></p>
+			
+				<ul className="list-square">
+			
+					<li></li>
+					<li className="margin-bottom-20 list-none"></li>
+			
+					<li></li>
+					<li className="margin-bottom-20 list-none"></li>
+			
+					<li></li>
+					<li className="list-none"></li>
+			
+				</ul>
+			
+			<p className="margin-top-20"></p>
+
 
 
 			<h4 className="margin-y-40">2.2. Adverbial Clause – phông nền</h4>
 					
 			<p className="text-indent-whole"></p>
 
+			<p className="margin-top-20"></p>
+			
+				<ul className="list-square">
+			
+					<li></li>
+					<li className="margin-bottom-20 list-none"></li>
+			
+					<li></li>
+					<li className="margin-bottom-20 list-none"></li>
+			
+					<li></li>
+					<li className="list-none"></li>
+			
+				</ul>
+			
+			<p className="margin-top-20"></p>
+
 
 			<h4 className="margin-y-40">2.3. Noun Clause – hộp đóng gói</h4>
 					
 			<p className="text-indent-whole"></p>
+
+			<p className="margin-top-20"></p>
+			
+				<ul className="list-square">
+			
+					<li></li>
+					<li className="margin-bottom-20 list-none"></li>
+			
+					<li></li>
+					<li className="margin-bottom-20 list-none"></li>
+			
+					<li></li>
+					<li className="list-none"></li>
+			
+				</ul>
+			
+			<p className="margin-top-20"></p>
 
 			
 
@@ -94,9 +196,28 @@ export default function AdjPlacement8(): React.JSX.Element {
 
 			<p></p>
 
+			<p className="margin-top-20"></p>
+			
+				<ol>
+			
+					<li value="1"></li>
+					<li className="margin-bottom-20 list-none"></li>
+			
+					<li value="2"></li>
+					<li className="margin-bottom-20 list-none"></li>
+			
+					<li value="3"></li>
+					<li className="list-none"></li>
+			
+				</ol>
+			
+			<p className="margin-top-20"></p>
+
 			<p></p>
 
 			<p></p>
+
+
 			
 
 			<div className="viewcounter">

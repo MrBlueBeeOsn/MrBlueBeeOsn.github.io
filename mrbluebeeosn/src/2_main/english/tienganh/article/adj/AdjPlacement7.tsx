@@ -64,6 +64,23 @@ export default function AdjPlacement7(): React.JSX.Element {
 			<h3 className="margin-y-50 text-center">1. Danh từ trước — mô tả sau</h3>
 
 			<p></p>
+
+			<p className="margin-top-20"></p>
+			
+				<ul className="list-square">
+			
+					<li></li>
+					<li className="margin-bottom-20 list-none"></li>
+			
+					<li></li>
+					<li className="margin-bottom-20 list-none"></li>
+			
+					<li></li>
+					<li className="list-none"></li>
+			
+				</ul>
+			
+			<p className="margin-top-20"></p>
 			
 			
 
@@ -73,6 +90,23 @@ export default function AdjPlacement7(): React.JSX.Element {
 
 			<p></p>
 
+			<p className="margin-top-20"></p>
+			
+				<ul className="list-square">
+			
+					<li></li>
+					<li className="margin-bottom-20 list-none"></li>
+			
+					<li></li>
+					<li className="margin-bottom-20 list-none"></li>
+			
+					<li></li>
+					<li className="list-none"></li>
+			
+				</ul>
+			
+			<p className="margin-top-20"></p>
+
 			
 
 			{/* 3.  */}
@@ -80,6 +114,23 @@ export default function AdjPlacement7(): React.JSX.Element {
 			<h3 className="margin-y-50 text-center">3. Cách luyện tập để làm chủ nhanh và tự nhiên</h3>
 
 			<p></p>
+
+			<p className="margin-top-20"></p>
+			
+				<ul className="list-square">
+			
+					<li></li>
+					<li className="margin-bottom-20 list-none"></li>
+			
+					<li></li>
+					<li className="margin-bottom-20 list-none"></li>
+			
+					<li></li>
+					<li className="list-none"></li>
+			
+				</ul>
+			
+			<p className="margin-top-20"></p>
 
 			
 

@@ -55,6 +55,41 @@ export default function AdjPlacement4(): React.JSX.Element {
 			<p></p>
 			
 			<p></p>
+
+			<p className="margin-top-20"></p>
+			
+				<ul className="list-square">
+			
+					<li></li>
+					<li className="margin-bottom-20 list-none"></li>
+			
+					<li></li>
+					<li className="margin-bottom-20 list-none"></li>
+			
+					<li></li>
+					<li className="list-none"></li>
+			
+				</ul>
+			
+			<p className="margin-top-20"></p>
+
+			<p className="margin-top-20"></p>
+			
+				<ul className="list-square">
+			
+					<li></li>
+			
+					<li></li>
+			
+					<li></li>
+			
+				</ul>
+			
+			<p className="margin-top-20"></p>
+
+			<p className="text-indent-whole"></p>
+
+			<p className="text-indent-whole"></p>
 			
 
 			{/* 1.  */}
@@ -63,12 +98,64 @@ export default function AdjPlacement4(): React.JSX.Element {
 
 			<p></p>
 
+			<p className="margin-top-20"></p>
+			
+				<ul className="list-square">
+			
+					<li></li>
+					<li className="margin-bottom-20 list-none"></li>
+			
+					<li></li>
+					<li className="margin-bottom-20 list-none"></li>
+
+					<li></li>
+					<li className="margin-bottom-20 list-none"></li>
+			
+					<li></li>
+					<li className="margin-bottom-20 list-none"></li>
+			
+					<li></li>
+					<li className="list-none"></li>
+			
+				</ul>
+			
+			<p className="margin-top-20"></p>
+
+			<p className="text-indent-whole"></p>
+
 
 			{/* 2.  */}
 
 			<h3 className="margin-y-50 text-center">2. Người Bản Ngữ Không Nhấn Mạnh Tính Từ. Họ Nhấn Mạnh Đối Tượng.</h3>
 
 			<p></p>
+
+			<p className="margin-top-20"></p>
+			
+				<ul className="list-square">
+			
+					<li></li>
+					<li className="margin-bottom-20 list-none"></li>
+			
+					<li></li>
+					<li className="list-none"></li>
+			
+				</ul>
+			
+			<p className="margin-top-20"></p>
+
+
+			<p className="margin-top-20"></p>
+			
+				<ul className="list-square">
+			
+					<li></li>
+			
+					<li></li>
+			
+				</ul>
+			
+			<p className="margin-top-20"></p>
 
 
 
@@ -77,6 +164,42 @@ export default function AdjPlacement4(): React.JSX.Element {
 			<h3 className="margin-y-50 text-center">3. Khoảnh Khắc Tiếng Anh Bắt Đầu Giống Tiếng Việt</h3>
 
 			<p></p>
+
+			<p className="margin-top-20"></p>
+			
+				<ul className="list-square">
+			
+					<li></li>
+			
+					<li></li>
+			
+					<li></li>
+
+					<li></li>
+			
+				</ul>
+			
+			<p className="margin-top-20"></p>
+
+			<p className="margin-top-20"></p>
+			
+				<ul className="list-square">
+			
+					<li></li>
+					<li className="margin-bottom-20 list-none"></li>
+
+					<li></li>
+					<li className="margin-bottom-20 list-none"></li>
+			
+					<li></li>
+					<li className="margin-bottom-20 list-none"></li>
+			
+					<li></li>
+					<li className="list-none"></li>
+			
+				</ul>
+			
+			<p className="margin-top-20"></p>
 
 			
 
@@ -100,15 +223,67 @@ export default function AdjPlacement4(): React.JSX.Element {
 					
 			<p className="text-indent-whole"></p>
 
+			<p className="margin-top-20"></p>
+			
+				<ul className="list-square">
+			
+					<li></li>
+					<li className="margin-bottom-20 list-none"></li>
+			
+					<li></li>
+					<li className="margin-bottom-20 list-none"></li>
+			
+					<li></li>
+					<li className="list-none"></li>
+			
+				</ul>
+			
+			<p className="margin-top-20"></p>
+
 
 			<h4 className="margin-y-40">Adverbial Clause</h4>
 					
 			<p className="text-indent-whole"></p>
 
+			<p className="margin-top-20"></p>
+			
+				<ul className="list-square">
+			
+					<li></li>
+					<li className="margin-bottom-20 list-none"></li>
+			
+					<li></li>
+					<li className="margin-bottom-20 list-none"></li>
+			
+					<li></li>
+					<li className="list-none"></li>
+			
+				</ul>
+			
+			<p className="margin-top-20"></p>
+
 
 			<h4 className="margin-y-40">Noun Clause</h4>
 					
 			<p className="text-indent-whole"></p>
+			
+
+			<p className="margin-top-20"></p>
+			
+				<ul className="list-square">
+			
+					<li></li>
+					<li className="margin-bottom-20 list-none"></li>
+			
+					<li></li>
+					<li className="margin-bottom-20 list-none"></li>
+			
+					<li></li>
+					<li className="list-none"></li>
+			
+				</ul>
+			
+			<p className="margin-top-20"></p>
 			
 			
 

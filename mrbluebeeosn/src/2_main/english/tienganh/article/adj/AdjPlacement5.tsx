@@ -63,12 +63,44 @@ export default function AdjPlacement5(): React.JSX.Element {
 
 			<p></p>
 
+			<h4 className="margin-y-40">Nguyên tắc 1</h4>
+					
+			<p className="text-indent-whole"></p>
+
+
+			<h4 className="margin-y-40">Nguyên tắc 2</h4>
+					
+			<p className="text-indent-whole"></p>
+
 
 			{/* 2.  */}
 
 			<h3 className="margin-y-50 text-center">2. Cái bẫy ngôn ngữ học của người Việt</h3>
 
 			<p></p>
+
+			<p className="margin-top-20"></p>
+			
+				<ul className="list-square">
+			
+					<li></li>
+					<li className="list-none"></li>
+			
+				</ul>
+			
+			<p className="margin-top-20"></p>
+
+
+			<p className="margin-top-20"></p>
+			
+				<ul className="list-square">
+			
+					<li></li>
+					<li className="list-none"></li>
+			
+				</ul>
+			
+			<p className="margin-top-20"></p>
 
 
 
@@ -78,12 +110,52 @@ export default function AdjPlacement5(): React.JSX.Element {
 
 			<p></p>
 
+			<p className="margin-top-20"></p>
+			
+				<ul className="list-square">
+			
+					<li></li>
+					<li className="list-none"></li>
+					<li className="list-none"></li>
+					<li className="margin-bottom-20 list-none"></li>
+			
+					<li></li>
+					<li className="list-none"></li>
+					<li className="list-none"></li>
+					<li className="margin-bottom-20 list-none"></li>
+			
+					<li></li>
+					<li className="list-none"></li>
+					<li className="list-none"></li>
+					<li className="list-none"></li>
+			
+				</ul>
+			
+			<p className="margin-top-20"></p>
+
 
 			{/* 4.  */}
 
 			<h3 className="margin-y-50 text-center">4. Người bản ngữ tư duy như thế nào</h3>
 
 			<p></p>
+
+			<p className="margin-top-20"></p>
+			
+				<ol>
+			
+					<li value="1"></li>
+					<li className="margin-bottom-20 list-none"></li>
+			
+					<li value="2"></li>
+					<li className="margin-bottom-20 list-none"></li>
+			
+					<li value="3"></li>
+					<li className="list-none"></li>
+			
+				</ol>
+			
+			<p className="margin-top-20"></p>
 			
 
 			{/* 5.  */}
@@ -91,6 +163,124 @@ export default function AdjPlacement5(): React.JSX.Element {
 			<h3 className="margin-y-50 text-center">5. Dạng rút gọn — cú vấp ngã thường gặp nhất</h3>
 
 			<p></p>
+
+			<p className="margin-top-20">Dạng đầy đủ</p>
+			
+				<ul className="list-square">
+			
+					<li></li>
+					<li className="list-none"></li>
+			
+				</ul>
+			
+			<p className="margin-top-20"></p>
+
+			<p className="margin-top-20">Dạng rút gọn</p>
+			
+				<ul className="list-square">
+			
+					<li></li>
+					<li className="list-none"></li>
+			
+				</ul>
+			
+			<p className="margin-top-20"></p>
+
+
+
+			<p className="margin-top-20">Dạng đầy đủ</p>
+			
+				<ul className="list-square">
+			
+					<li></li>
+					<li className="list-none"></li>
+			
+				</ul>
+			
+			<p className="margin-top-20"></p>
+
+			<p className="margin-top-20">Dạng rút gọn</p>
+			
+				<ul className="list-square">
+			
+					<li></li>
+					<li className="list-none"></li>
+			
+				</ul>
+			
+			<p className="margin-top-20"></p>
+
+
+
+			<p className="margin-top-20">Dạng đầy đủ</p>
+			
+				<ul className="list-square">
+			
+					<li></li>
+					<li className="list-none"></li>
+			
+				</ul>
+			
+			<p className="margin-top-20"></p>
+
+			<p className="margin-top-20">Dạng rút gọn</p>
+			
+				<ul className="list-square">
+			
+					<li></li>
+					<li className="list-none"></li>
+			
+				</ul>
+			
+			<p className="margin-top-20"></p>
+
+
+
+			<p className="margin-top-20">Dạng đầy đủ</p>
+			
+				<ul className="list-square">
+			
+					<li></li>
+					<li className="list-none"></li>
+			
+				</ul>
+			
+			<p className="margin-top-20"></p>
+
+			<p className="margin-top-20">Dạng rút gọn</p>
+			
+				<ul className="list-square">
+			
+					<li></li>
+					<li className="list-none"></li>
+			
+				</ul>
+
+			
+			
+			<p className="margin-top-20"></p>
+
+			<p className="margin-top-20">Dạng đầy đủ</p>
+			
+				<ul className="list-square">
+			
+					<li></li>
+					<li className="list-none"></li>
+			
+				</ul>
+			
+			<p className="margin-top-20"></p>
+
+			<p className="margin-top-20">Dạng rút gọn</p>
+			
+				<ul className="list-square">
+			
+					<li></li>
+					<li className="list-none"></li>
+			
+				</ul>
+			
+			<p className="margin-top-20"></p>
 
 			
 
@@ -102,19 +292,52 @@ export default function AdjPlacement5(): React.JSX.Element {
 			<p></p>
 
 
-			<h4 className="margin-y-40">Mệnh đề 1</h4>
+			<h4 className="margin-y-40">Mệnh đề 1 · Cổng vào: Adjective Clause</h4>
+					
+			<p className="text-indent-whole">★ Lợi thế của người Việt</p>
+
+			<p className="margin-top-20"></p>
+			
+				<ul className="list-square">
+			
+					<li></li>
+					<li className="list-none"></li>
+			
+				</ul>
+			
+			<p className="margin-top-20"></p>
+
+
+			<h4 className="margin-y-40">Mệnh đề 2: Adverbial Clause</h4>
 					
 			<p className="text-indent-whole"></p>
 
+			<p className="margin-top-20"></p>
+			
+				<ul className="list-square">
+			
+					<li></li>
+					<li className="list-none"></li>
+			
+				</ul>
+			
+			<p className="margin-top-20"></p>
 
-			<h4 className="margin-y-40">Mệnh đề 2</h4>
+
+			<h4 className="margin-y-40">Mệnh đề 3: Noun Clause</h4>
 					
 			<p className="text-indent-whole"></p>
 
-
-			<h4 className="margin-y-40">Mệnh đề 3</h4>
-					
-			<p className="text-indent-whole"></p>
+			<p className="margin-top-20"></p>
+			
+				<ul className="list-square">
+			
+					<li></li>
+					<li className="list-none"></li>
+			
+				</ul>
+			
+			<p className="margin-top-20"></p>
 
 		
 			
@@ -132,6 +355,15 @@ export default function AdjPlacement5(): React.JSX.Element {
 			<h3 className="margin-y-50 text-center">8. Lợi thế mà chưa ai khai thác</h3>
 
 			<p></p>
+
+			<h4 className="margin-y-40">Điểm mạnh tự nhiên</h4>
+					
+			<p className="text-indent-whole"></p>
+
+
+			<h4 className="margin-y-40">Điều cần thay đổi</h4>
+					
+			<p className="text-indent-whole"></p>
 
 			
 

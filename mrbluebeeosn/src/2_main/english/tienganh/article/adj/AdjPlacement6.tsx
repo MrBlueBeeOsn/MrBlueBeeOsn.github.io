@@ -63,6 +63,23 @@ export default function AdjPlacement6(): React.JSX.Element {
 
 			<p></p>
 
+			<p className="margin-top-20"></p>
+			
+				<ul className="list-square">
+			
+					<li></li>
+					<li className="margin-bottom-20 list-none"></li>
+			
+					<li></li>
+					<li className="margin-bottom-20 list-none"></li>
+			
+					<li></li>
+					<li className="list-none"></li>
+			
+				</ul>
+			
+			<p className="margin-top-20"></p>
+
 			
 
 
@@ -76,15 +93,72 @@ export default function AdjPlacement6(): React.JSX.Element {
 					
 			<p className="text-indent-whole"></p>
 
+			<p className="margin-top-20"></p>
+			
+				<ul className="list-square">
+			
+					<li></li>
+					<li className="margin-bottom-20 list-none"></li>
+			
+					<li></li>
+					<li className="margin-bottom-20 list-none"></li>
+
+					<li></li>
+					<li className="margin-bottom-20 list-none"></li>
+			
+					<li></li>
+					<li className="list-none"></li>
+			
+				</ul>
+			
+			<p className="margin-top-20"></p>
+
 
 			<h4 className="margin-y-40">2. Mệnh đề trạng ngữ — nối ý, giải thích hoàn cảnh</h4>
 					
 			<p className="text-indent-whole"></p>
 
+			<p className="margin-top-20"></p>
+			
+				<ul className="list-square">
+			
+					<li></li>
+					<li className="margin-bottom-20 list-none"></li>
+			
+					<li></li>
+					<li className="margin-bottom-20 list-none"></li>
+
+					<li></li>
+					<li className="margin-bottom-20 list-none"></li>
+			
+					<li></li>
+					<li className="list-none"></li>
+			
+				</ul>
+			
+			<p className="margin-top-20"></p>
+
 
 			<h4 className="margin-y-40">3. Mệnh đề danh từ — biến cả cụm thành chủ ngữ hoặc tân ngữ</h4>
 					
 			<p className="text-indent-whole"></p>
+
+			<p className="margin-top-20"></p>
+			
+				<ul className="list-square">
+			
+					<li></li>
+					<li className="margin-bottom-20 list-none"></li>
+			
+					<li></li>
+					<li className="margin-bottom-20 list-none"></li>
+			
+					<li></li>
+					<li className="list-none"></li>
+			
+				</ul>
+			
+			<p className="margin-top-20"></p>
 
 		
 			
@@ -94,6 +168,26 @@ export default function AdjPlacement6(): React.JSX.Element {
 			<h3 className="margin-y-50 text-center">3. Cách kết hợp bộ ba để viết luận và nói thuyết phục</h3>
 
 			<p></p>
+
+			<p className="margin-top-20"></p>
+			
+				<ol>
+			
+					<li value="1"></li>
+					<li className="margin-bottom-20 list-none"></li>
+			
+					<li value="2"></li>
+					<li className="margin-bottom-20 list-none"></li>
+
+					<li value="3"></li>
+					<li className="margin-bottom-20 list-none"></li>
+			
+					<li value="4"></li>
+					<li className="list-none"></li>
+			
+				</ol>
+			
+			<p className="margin-top-20"></p>
 			
 			
 
@@ -103,6 +197,32 @@ export default function AdjPlacement6(): React.JSX.Element {
 
 			<p></p>
 
+			<p className="margin-top-20"></p>
+			
+				<ol>
+			
+					<li value="1"></li>
+					<li className="margin-bottom-20 list-none"></li>
+			
+					<li value="2"></li>
+					<li className="margin-bottom-20 list-none"></li>
+
+					<li value="3"></li>
+					<li className="margin-bottom-20 list-none"></li>
+			
+					<li value="4"></li>
+					<li className="margin-bottom-20 list-none"></li>
+
+					<li value="5"></li>
+					<li className="margin-bottom-20 list-none"></li>
+			
+					<li value="6"></li>
+					<li className="list-none"></li>
+			
+				</ol>
+			
+			<p className="margin-top-20"></p>
+
 			
 
 			{/* 5.  */}
@@ -110,6 +230,23 @@ export default function AdjPlacement6(): React.JSX.Element {
 			<h3 className="margin-y-50 text-center">5. Những lỗi thường gặp và cách tránh</h3>
 
 			<p></p>
+
+			<p className="margin-top-20"></p>
+			
+				<ul className="list-square">
+			
+					<li></li>
+					<li className="margin-bottom-20 list-none"></li>
+			
+					<li></li>
+					<li className="margin-bottom-20 list-none"></li>
+			
+					<li></li>
+					<li className="list-none"></li>
+			
+				</ul>
+			
+			<p className="margin-top-20"></p>
 
 			
 

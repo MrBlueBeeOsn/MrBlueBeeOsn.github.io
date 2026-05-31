@@ -63,6 +63,20 @@ export default function AdjPlacement2(): React.JSX.Element {
 
 			<p></p>
 
+			<p className="margin-top-20"></p>
+			
+				<ol>
+			
+					<li value="1"></li>
+					<li className="margin-bottom-20 list-none"></li>
+			
+					<li value="2"></li>
+					<li className="list-none"></li>
+			
+				</ol>
+			
+			<p className="margin-top-20"></p>
+
 			
 
 
@@ -71,6 +85,37 @@ export default function AdjPlacement2(): React.JSX.Element {
 			<h3 className="margin-y-50 text-center">2. Sự thật ít ai dám nói: người bản ngữ dùng danh từ trước tính từ rất nhiều</h3>
 
 			<p></p>
+
+			<p className="margin-top-20"></p>
+			
+				<ul className="list-square">
+			
+					<li></li>
+					<li className="margin-bottom-20 list-none"></li>
+			
+					<li></li>
+					<li className="list-none"></li>
+			
+				</ul>
+			
+			<p className="margin-top-20"></p>
+
+			<p className="margin-top-20"></p>
+			
+				<ul className="list-square">
+			
+					<li></li>
+					<li className="margin-bottom-20 list-none"></li>
+			
+					<li></li>
+					<li className="margin-bottom-20 list-none"></li>
+			
+					<li></li>
+					<li className="list-none"></li>
+			
+				</ul>
+			
+			<p className="margin-top-20"></p>
 
 		
 			
@@ -82,18 +127,107 @@ export default function AdjPlacement2(): React.JSX.Element {
 			<p></p>
 
 			<h4 className="margin-y-40">1. Adjective Clause – Mệnh đề tính từ (lợi thế của người Việt)</h4>
+
+			<p className="margin-top-20"></p>
+			
+				<ul className="list-square">
+			
+					<li></li>
+					<li className="margin-bottom-20 list-none"></li>
+			
+					<li></li>
+					<li className="margin-bottom-20 list-none"></li>
+			
+					<li></li>
+					<li className="list-none"></li>
+			
+				</ul>
+			
+			<p className="margin-top-20"></p>
 					
 			<p className="text-indent-whole"></p>
+
+			<p className="margin-top-20"></p>
+			
+				<ul className="list-square">
+			
+					<li></li>
+					<li className="list-none"></li>
+			
+				</ul>
+			
+			<p className="margin-top-20"></p>
 
 
 			<h4 className="margin-y-40">2. Adverbial Clause – Mệnh đề trạng ngữ (mượn tư duy từ Adjective Clause)</h4>
+
+			<p className="margin-top-20"></p>
+			
+				<ul className="list-square">
+			
+					<li></li>
+					<li className="margin-bottom-20 list-none"></li>
+			
+					<li></li>
+					<li className="margin-bottom-20 list-none"></li>
+			
+					<li></li>
+					<li className="list-none"></li>
+			
+				</ul>
+			
+			<p className="margin-top-20"></p>
 					
 			<p className="text-indent-whole"></p>
+
+			<p className="margin-top-20"></p>
+			
+				<ul className="list-square">
+			
+					<li></li>
+					<li className="list-none"></li>
+			
+				</ul>
+			
+			<p className="margin-top-20"></p>
 
 
 			<h4 className="margin-y-40">3. Noun Clause – Mệnh đề danh từ (viên ngọc quý của sự tinh tế)</h4>
+
+			<p className="margin-top-20"></p>
+			
+				<ul className="list-square">
+			
+					<li></li>
+					<li className="margin-bottom-20 list-none"></li>
+			
+					<li></li>
+					<li className="margin-bottom-20 list-none"></li>
+			
+					<li></li>
+					<li className="list-none"></li>
+			
+				</ul>
+			
+			<p className="margin-top-20"></p>
 					
 			<p className="text-indent-whole"></p>
+
+			<p className="margin-top-20"></p>
+			
+				<ul className="list-square">
+			
+					<li></li>
+					<li className="list-none"></li>
+					<li className="margin-bottom-20 list-none"></li>
+			
+					<li></li>
+					<li className="list-none"></li>
+					<li className="list-none"></li>
+			
+				</ul>
+			
+			<p className="margin-top-20"></p>
 			
 			
 
@@ -102,6 +236,18 @@ export default function AdjPlacement2(): React.JSX.Element {
 			<h3 className="margin-y-50 text-center">4. Người Việt đang đứng ở vị trí nào trong khu vực?</h3>
 
 			<p></p>
+
+			<p className="margin-top-20"></p>
+			
+				<ul className="list-square">
+			
+					<li></li>
+			
+					<li></li>
+			
+				</ul>
+			
+			<p className="margin-top-20"></p>
 
 			
 
@@ -116,15 +262,48 @@ export default function AdjPlacement2(): React.JSX.Element {
 					
 			<p className="text-indent-whole"></p>
 
+			<p className="margin-top-20 text-indent-whole"></p>
+			
+				<ul className="list-square">
+			
+					<li></li>
+					<li className="list-none"></li>
+			
+				</ul>
+			
+			<p className="margin-top-20 text-indent-whole"></p>
+
 
 			<h4 className="margin-y-40">Bước 2 – Thêm Adverbial Clause:</h4>
 					
 			<p className="text-indent-whole"></p>
 
+			<p className="margin-top-20 text-indent-whole"></p>
+			
+				<ul className="list-square">
+			
+					<li></li>
+					<li className="list-none"></li>
+			
+				</ul>
+			
+			<p className="margin-top-20 text-indent-whole"></p>
+
 
 			<h4 className="margin-y-40">Bước 3 – Chèn Noun Clause:</h4>
 					
 			<p className="text-indent-whole"></p>
+
+			<p className="margin-top-20 text-indent-whole"></p>
+			
+				<ul className="list-square">
+			
+					<li></li>
+					<li className="list-none"></li>
+			
+				</ul>
+			
+			<p className="margin-top-20 text-indent-whole"></p>
 
 			
 
@@ -133,6 +312,20 @@ export default function AdjPlacement2(): React.JSX.Element {
 			<h3 className="margin-y-50 text-center">Kết luận: Đừng chiến đấu với tiếng mẹ đẻ, hãy tận dụng nó</h3>
 
 			<p></p>
+
+			<p className="margin-top-20"></p>
+			
+				<ul className="list-square">
+			
+					<li></li>
+					<li className="margin-bottom-20 list-none"></li>
+			
+					<li></li>
+					<li className="list-none"></li>
+			
+				</ul>
+			
+			<p className="margin-top-20"></p>
 
 			<p></p>
 

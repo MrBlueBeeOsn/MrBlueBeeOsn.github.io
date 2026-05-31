@@ -63,6 +63,20 @@ export default function AdjPlacement1(): React.JSX.Element {
 
 			<p></p>
 
+			<p className="margin-top-20"></p>
+			
+				<ul className="list-square">
+			
+					<li></li>
+					<li className="margin-bottom-20 list-none"></li>
+			
+					<li></li>
+					<li className="list-none"></li>
+			
+				</ul>
+			
+			<p className="margin-top-20"></p>
+
 			
 
 
@@ -72,6 +86,54 @@ export default function AdjPlacement1(): React.JSX.Element {
 
 			<p></p>
 
+			<p className="margin-top-20">Hãy nhìn cách hai ngôn ngữ soi chiếu vào nhau:</p>
+			
+				<ul className="list-square">
+			
+					<li></li>
+					<li className="list-none"></li>
+			
+				</ul>
+			
+			<p className="margin-top-20"></p>
+
+
+			<p className="margin-top-20">Dạng chủ động (V-ing):</p>
+			
+				<ul className="list-square">
+			
+					<li></li>
+					<li className="list-none"></li>
+			
+				</ul>
+			
+			<p className="margin-top-20"></p>
+
+
+
+			<p className="margin-top-20">Dạng bị động (V3/ed):</p>
+			
+				<ul className="list-square">
+			
+					<li></li>
+					<li className="list-none"></li>
+			
+				</ul>
+			
+			<p className="margin-top-20"></p>
+
+
+			<p className="margin-top-20">Dạng tính từ nguyên bản:</p>
+			
+				<ul className="list-square">
+			
+					<li></li>
+					<li className="list-none"></li>
+			
+				</ul>
+			
+			<p className="margin-top-20"></p>
+
 		
 			
 
@@ -80,10 +142,36 @@ export default function AdjPlacement1(): React.JSX.Element {
 			<h3 className="margin-y-50 text-center">3. Bản Đồ Thống Trị: Làm Chủ Bộ Ba Mệnh Đề Cốt Lõi</h3>
 
 			<p></p>
+
+			<h4 className="margin-y-40">1. ADJECTIVE CLAUSE</h4>
+					
+			<p className="text-indent-whole"></p>
+
+
+			<h4 className="margin-y-40">2. ADVERBIAL CLAUSE</h4>
+					
+			<p className="text-indent-whole"></p>
+
+
+			<h4 className="margin-y-40">3. NOUN CLAUSE</h4>
+					
+			<p className="text-indent-whole"></p>
 			
 		
 
 			<p><strong>Từ Adjective Clause đến thế giới của Adverbial và Noun Clause</strong></p>
+
+			<p className="margin-top-20"></p>
+			
+				<ul className="list-square">
+			
+					<li></li>
+			
+					<li></li>
+			
+				</ul>
+			
+			<p className="margin-top-20"></p>
 
 			
 

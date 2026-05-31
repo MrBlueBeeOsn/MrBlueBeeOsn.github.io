@@ -48,7 +48,7 @@ export default function AdjPlacement3(): React.JSX.Element {
 
 			</h1>
 
-			<h4 className="margin-bottom-30 text-center">Bí Mật Tiếng Anh Giúp Người Việt Tiến Bộ Vượt Bậc: “Tính Từ Dài” Đứng Sau Danh Từ</h4>
+			<h4 className="margin-bottom-30 text-center">Bí Quyết Tiếng Anh Đẳng Cấp: Khi “Tính Từ Dài” Làm Tiếng Anh Trở Nên Gần Gũi Với Tiếng Việt</h4>
 
 			<p></p>
 
@@ -59,33 +59,84 @@ export default function AdjPlacement3(): React.JSX.Element {
 
 			{/* 1.  */}
 
-			<h3 className="margin-y-50 text-center">1. Hai Cách Nhấn Mạnh Trong Tiếng Anh</h3>
+			<h3 className="margin-y-50 text-center">1. Hai Cách Nhấn Mạnh Thông Minh Của Người Bản Ngữ</h3>
 
 			<p></p>
+
+			<p className="margin-top-20"></p>
+			
+				<ul className="list-square">
+			
+					<li></li>
+					<li className="margin-bottom-20 list-none"></li>
+			
+					<li></li>
+					<li className="list-none"></li>
+			
+				</ul>
+			
+			<p className="margin-top-20"></p>
 
 			
 
 
 			{/* 2.  */}
 
-			<h3 className="margin-y-50 text-center">2. Adjective Clause – “Tính Từ Dài” Đứng Sau Danh Từ</h3>
+			<h3 className="margin-y-50 text-center">2. Adjective Clause – Chìa Khóa Mở Ra Cả Một Thế Giới</h3>
 
 			<p></p>
+
+			<p className="margin-top-20"></p>
+			
+				<ul className="list-square">
+			
+					<li></li>
+					<li className="margin-bottom-20 list-none"></li>
+			
+					<li></li>
+					<li className="margin-bottom-20 list-none"></li>
+
+					<li></li>
+					<li className="margin-bottom-20 list-none"></li>
+			
+					<li></li>
+					<li className="list-none"></li>
+			
+				</ul>
+			
+			<p className="margin-top-20"></p>
 
 		
 			
 
 			{/* 3.  */}
 
-			<h3 className="margin-y-50 text-center">3. So sánh trực quan giữa tiếng Việt và tiếng Anh</h3>
+			<h3 className="margin-y-50 text-center">3. Bộ Ba Mệnh Đề – Nền Tảng Của Tiếng Anh Đẳng Cấp</h3>
 
 			<p></p>
+
+			<p className="margin-top-20"></p>
+			
+				<ol>
+			
+					<li value="1"></li>
+					<li className="margin-bottom-20 list-none"></li>
+			
+					<li value="2"></li>
+					<li className="margin-bottom-20 list-none"></li>
+			
+					<li value="3"></li>
+					<li className="list-none"></li>
+			
+				</ol>
+			
+			<p className="margin-top-20"></p>
 			
 			
 
 			{/* 4.  */}
 
-			<h3 className="margin-y-50 text-center">4. Lợi ích lớn khi nắm vững Adjective Clause</h3>
+			<h3 className="margin-y-50 text-center">4. Lợi Thế Lớn Của Người Việt</h3>
 
 			<p></p>
 
@@ -93,9 +144,32 @@ export default function AdjPlacement3(): React.JSX.Element {
 
 			{/* 5.  */}
 
-			<h3 className="margin-y-50 text-center">5. Áp Dụng Ngay Hôm Nay</h3>
+			<h3 className="margin-y-50 text-center">5. Bắt Đầu Ngay Hôm Nay</h3>
 
 			<p></p>
+
+			<p className="margin-top-20">Câu cơ bản:</p>
+			
+				<ul className="list-square">
+			
+					<li></li>
+					<li className="list-none"></li>
+			
+				</ul>
+			
+			<p className="margin-top-20"></p>
+
+
+			<p className="margin-top-20">Câu đẳng cấp:</p>
+			
+				<ul className="list-square">
+			
+					<li></li>
+					<li className="list-none"></li>
+			
+				</ul>
+			
+			<p className="margin-top-20"></p>
 
 			
 
