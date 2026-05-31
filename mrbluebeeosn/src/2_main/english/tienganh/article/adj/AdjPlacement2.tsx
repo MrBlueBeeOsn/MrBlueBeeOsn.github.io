@@ -165,31 +165,27 @@ export default function AdjPlacement2(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li></li>
-					<li className="margin-bottom-20 list-none"></li>
+					<li>Cấu trúc:</li>
+					<li className="margin-bottom-20 list-none">Liên từ (because, although, when, if, while...) + chủ ngữ + động từ</li>
 			
-					<li></li>
-					<li className="margin-bottom-20 list-none"></li>
+					<li>Vai trò:</li>
+					<li className="margin-bottom-20 list-none">Bổ nghĩa cho động từ chính, chỉ thời gian, lý do, điều kiện, sự tương phản.</li>
 			
-					<li></li>
-					<li className="list-none"></li>
+					<li>Bí mật:</li>
+					<li className="list-none">Một khi đã quen với việc "ghép một mệnh đề vào sau một thành phần chính" trong Adjective Clause, bạn sẽ thấy Adverbial Clause còn dễ hơn – vì nó không nhất thiết phải đứng ngay sau danh từ, có thể linh hoạt đầu hoặc cuối câu.</li>
 			
 				</ul>
-			
-			<p className="margin-top-20"></p>
 					
-			<p className="text-indent-whole"></p>
-
-			<p className="margin-top-20"></p>
+			<p className="margin-top-20 text-indent-whole">Ví dụ:</p>
 			
 				<ul className="list-square">
 			
-					<li></li>
-					<li className="list-none"></li>
+					<li>Because I understood the Adjective Clause, I started writing better.</li>
+					<li className="list-none">Bởi vì tôi hiểu mệnh đề tính từ, tôi bắt đầu viết tốt hơn.</li>
 			
 				</ul>
 			
-			<p className="margin-top-20"></p>
+			<p className="margin-top-20">Bạn thấy không? Trật tự trong tiếng Việt cũng y hệt: lý do → kết quả.</p>
 
 
 			<h4 className="margin-y-40">3. Noun Clause – Mệnh đề danh từ (viên ngọc quý của sự tinh tế)</h4>
@@ -198,32 +194,30 @@ export default function AdjPlacement2(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li></li>
-					<li className="margin-bottom-20 list-none"></li>
+					<li>Cấu trúc:</li>
+					<li className="margin-bottom-20 list-none">(What, That, Whether, Who...) + chủ ngữ + động từ</li>
 			
-					<li></li>
-					<li className="margin-bottom-20 list-none"></li>
+					<li>Vai trò:</li>
+					<li className="margin-bottom-20 list-none">Đóng vai trò như một danh từ: có thể là chủ ngữ, tân ngữ, hoặc bổ ngữ của câu.</li>
 			
-					<li></li>
-					<li className="list-none"></li>
+					<li>Điều thú vị:</li>
+					<li className="list-none">Trong tiếng Việt, chúng ta cũng nói y hệt: "Điều tôi cần là sự kiên nhẫn" – danh từ "điều tôi cần" đứng đầu câu.</li>
 			
 				</ul>
-			
-			<p className="margin-top-20"></p>
 					
-			<p className="text-indent-whole"></p>
-
-			<p className="margin-top-20"></p>
+			<p className="margin-top-20 text-indent-whole">Ví dụ:</p>
 			
 				<ul className="list-square">
 			
-					<li></li>
-					<li className="list-none"></li>
-					<li className="margin-bottom-20 list-none"></li>
+					<li>What you need is more practice.</li>
+					<li className="margin-bottom-20 list-none">Điều bạn cần là luyện tập thêm.</li>
+
+					<li className="margin-bottom-20 list-none">→ Noun clause làm chủ ngữ</li>
 			
-					<li></li>
-					<li className="list-none"></li>
-					<li className="list-none"></li>
+					<li>I believe that everyone can improve.</li>
+					<li className="margin-bottom-20 list-none">Tôi tin rằng mọi người đều có thể tiến bộ.</li>
+
+					<li className="list-none">→ Noun clause làm tân ngữ</li>
 			
 				</ul>
 			
@@ -235,101 +229,97 @@ export default function AdjPlacement2(): React.JSX.Element {
 
 			<h3 className="margin-y-50 text-center">4. Người Việt đang đứng ở vị trí nào trong khu vực?</h3>
 
-			<p></p>
-
-			<p className="margin-top-20"></p>
+			<p>Hãy nhìn sang các nước Đông Nam Á khác:</p>
 			
 				<ul className="list-square">
 			
-					<li></li>
+					<li>Người Thái, người Lào, người Khmer nói ngôn ngữ mà trật tự cú pháp rất khác với Adjective Clause. Họ phải mất nhiều năm để quen với việc "danh từ + mệnh đề bổ nghĩa sau".</li>
 			
-					<li></li>
+					<li>Người Indonesia, Philippines cũng không có sẵn tư duy đó trong tiếng mẹ đẻ.</li>
 			
 				</ul>
 			
-			<p className="margin-top-20"></p>
+			<p className="margin-top-20">Riêng người Việt – nhờ cấu trúc danh từ đứng trước, mọi bổ nghĩa đứng sau – đã có sẵn trong máu trật tự của Adjective Clause.</p>
 
-			
+			<p>Nói cách khác: Người Việt sinh ra đã có lợi thế cạnh tranh trong việc làm chủ mệnh đề tính từ – loại mệnh đề xuất hiện nhiều nhất trong mọi văn bản tiếng Anh đẳng cấp.</p>
+
+			<p>Chỉ tiếc rằng, lâu nay chúng ta bị che mắt bởi những cái tên sách vở, sợ hãi những câu dài mà không biết rằng mình đã thuộc nằm lòng cách sắp xếp ấy từ nhỏ.</p>
 
 			{/* 5.  */}
 
 			<h3 className="margin-y-50 text-center">5. Làm thế nào để biến lợi thế thành sức mạnh thật sự?</h3>
 
-			<p></p>
-
+			<p>Rất đơn giản. Bạn chỉ cần luyện tập ba bước, mỗi ngày 5 phút.</p>
 
 			<h4 className="margin-y-40">Bước 1 – Viết Adjective Clause:</h4>
 					
-			<p className="text-indent-whole"></p>
+			<p className="text-indent-whole">Chọn một danh từ bất kỳ, viết ngay sau nó một mệnh đề bắt đầu bằng who, which, that.</p>
 
-			<p className="margin-top-20 text-indent-whole"></p>
+			<p className="text-indent-whole">Ví dụ:</p>
 			
 				<ul className="list-square">
 			
-					<li></li>
-					<li className="list-none"></li>
+					<li>The phone that I dropped yesterday</li>
+					<li className="list-none">Chiếc điện thoại mà tôi đã làm rơi hôm qua</li>
 			
 				</ul>
 			
-			<p className="margin-top-20 text-indent-whole"></p>
+			<p className="margin-top-20 text-indent-whole">Đã xong phần danh từ + mệnh đề.</p>
+
+			<p className="text-indent-whole">Sau đó thêm phần còn lại: ...still works fine.</p>
 
 
 			<h4 className="margin-y-40">Bước 2 – Thêm Adverbial Clause:</h4>
-					
-			<p className="text-indent-whole"></p>
 
-			<p className="margin-top-20 text-indent-whole"></p>
+			<p className="text-indent-whole">Lấy câu vừa viết, thêm một mệnh đề trạng ngữ vào đầu hoặc cuối.</p>
 			
 				<ul className="list-square">
 			
-					<li></li>
-					<li className="list-none"></li>
+					<li>Although it fell from the table, the phone that I dropped yesterday still works fine.</li>
+					<li className="list-none">Mặc dù bị rơi từ trên bàn xuống, nhưng chiếc điện thoại mà tôi đánh rơi hôm qua vẫn hoạt động tốt.</li>
 			
 				</ul>
 			
-			<p className="margin-top-20 text-indent-whole"></p>
-
 
 			<h4 className="margin-y-40">Bước 3 – Chèn Noun Clause:</h4>
 					
-			<p className="text-indent-whole"></p>
+			<p className="text-indent-whole">Dùng what, that, whether để tạo một cụm danh từ làm chủ ngữ hoặc tân ngữ.</p>
 
-			<p className="margin-top-20 text-indent-whole"></p>
+			<p className="margin-top-20 text-indent-whole">Ví dụ:</p>
 			
 				<ul className="list-square">
 			
-					<li></li>
-					<li className="list-none"></li>
+					<li>What surprised me most was that the phone, which I dropped yesterday, still works perfectly.</li>
+					<li className="list-none">Điều khiến tôi ngạc nhiên nhất là chiếc điện thoại mà tôi đã đánh rơi hôm qua vẫn hoạt động hoàn hảo.</li>
 			
 				</ul>
 			
-			<p className="margin-top-20 text-indent-whole"></p>
+			<p className="margin-top-20 text-indent-whole">Bạn vừa xây một câu tiếng Anh phức tạp, đẳng cấp, mà từng bước đều ăn khớp với tư duy tiếng Việt.</p>
 
-			
 
 			{/* Lời Kết */}
 
 			<h3 className="margin-y-50 text-center">Kết luận: Đừng chiến đấu với tiếng mẹ đẻ, hãy tận dụng nó</h3>
 
-			<p></p>
-
-			<p className="margin-top-20"></p>
+			<p>Hai nguyên lý nhấn mạnh sẽ giúp bạn không bao giờ lạc lối:</p>
 			
 				<ul className="list-square">
 			
-					<li></li>
-					<li className="margin-bottom-20 list-none"></li>
+					<li>Danh từ trước</li>
+					<li className="margin-bottom-20 list-none">→ Nhấn mạnh danh từ (giống Việt, dùng Adjective Clause).</li>
 			
-					<li></li>
-					<li className="list-none"></li>
+					<li>Tính từ trước</li>
+					<li className="list-none">→ Nhấn mạnh tính từ (câu ngắn, học thuộc công thức).</li>
 			
 				</ul>
 			
-			<p className="margin-top-20"></p>
+			<p className="margin-top-20">Và ba mệnh đề – Adjective, Adverbial, Noun – chính là tam giác quyền lực của mọi câu tiếng Anh phức tạp. Trong đó, Adjective Clause là mảnh đất màu mỡ nhất của người Việt.</p>
 
-			<p></p>
+			<p>Hãy bắt đầu từ hôm nay. Không cần ép não đảo ngược trật tự mỗi khi viết câu dài. Cứ để danh từ lên trước, thả mệnh đề tính từ phía sau, và tận hưởng cảm giác viết lưu loát như người bản ngữ.</p>
 
-			<p></p>
+			<p>Bởi vì, rốt cuộc, thứ ngăn bạn thành thạo tiếng Anh không phải là ngữ pháp – mà chính là việc chưa nhận ra mình đã giỏi sẵn từ đầu.</p>
+
+			<p>Hãy là người Việt đầu tiên trong khu vực biết dùng lợi thế này. Và cười nhẹ một mình khi đọc những bài viết tầm thường về “mệnh đề quan hệ”.</p>
 			
 
 			<div className="viewcounter">
