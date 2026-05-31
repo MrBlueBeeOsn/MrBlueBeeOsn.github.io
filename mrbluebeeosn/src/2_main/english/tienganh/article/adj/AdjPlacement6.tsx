@@ -50,215 +50,220 @@ export default function AdjPlacement6(): React.JSX.Element {
 
 			<h4 className="margin-bottom-30 text-center">Danh từ trước, tính từ sau — Chiến lược tư duy giúp người Việt chinh phục tiếng Anh</h4>
 
-			<p></p>
+			<p className="margin-y-40"><strong>Mở đầu</strong></p>
+					
+			<p>Hầu hết người Việt học tiếng Anh đều bắt đầu bằng hai mẫu quen thuộc:</p>
 
-			<p></p>
+			<p className="margin-top-20">Tính từ đứng trước danh từ</p>
 			
-			<p></p>
+				<ul className="list-square">
+			
+					<li>A beautiful house.</li>
+					<li className="list-none">Một ngôi nhà đẹp.</li>
+			
+				</ul>
+			
+			<p className="margin-top-20">Tính từ sau “to be”</p>
+			
+				<ul className="list-square">
+			
+					<li>The house is beautiful.</li>
+					<li className="list-none">Ngôi nhà đó thì đẹp.</li>
+			
+				</ul>
+
+			<p className="margin-top-20">Chính vì vậy nhiều người mặc định rằng “tính từ phải đứng trước danh từ” — và cảm thấy bối rối khi gặp những câu dài, phức tạp. </p>
+
+			<p>Thực tế tinh tế hơn: trong văn nói nâng cao và văn viết học thuật, người bản ngữ thường đưa danh từ ra trước, rồi thả phần mô tả phía sau bằng một mệnh đề đóng vai trò như tính từ.</p>
+			
+			<p>Nhận ra điều này là một bước ngoặt: nó biến tiếng Anh từ “khác” thành “quen”, vì trật tự Danh từ → Mô tả rất giống cách người Việt suy nghĩ.</p>
 			
 
 			{/* 1.  */}
 
 			<h3 className="margin-y-50 text-center">1. Hai nguyên tắc nhấn mạnh bạn cần thuộc lòng</h3>
 
-			<p></p>
-
 			<p className="margin-top-20"></p>
 			
 				<ul className="list-square">
 			
-					<li></li>
-					<li className="margin-bottom-20 list-none"></li>
+					<li>Danh từ đứng trước tính từ:</li>
+					<li className="margin-bottom-20 list-none">Dùng khi bạn muốn nhấn mạnh danh từ — giới thiệu đối tượng trước, rồi mô tả.</li>
 			
-					<li></li>
-					<li className="margin-bottom-20 list-none"></li>
-			
-					<li></li>
-					<li className="list-none"></li>
+					<li>Tính từ đứng trước danh từ:</li>
+					<li className="list-none">Dùng khi bạn muốn nhấn mạnh tính chất — mô tả ngay, ngắn gọn.</li>
 			
 				</ul>
 			
-			<p className="margin-top-20"></p>
-
-			
+			<p className="margin-top-20">Hiểu rõ mục đích của từng lựa chọn giúp bạn viết và nói chính xác, có sắc thái.</p>
 
 
 			{/* 2.  */}
 
 			<h3 className="margin-y-50 text-center">2. Bộ ba mệnh đề nền tảng của tiếng Anh nâng cao</h3>
 
-			<p></p>
+			<p>Khi đã làm chủ tư duy Danh từ → Mô tả, việc tiếp cận hai loại mệnh đề còn lại sẽ dễ dàng hơn.</p>
+
+			<p>Ba mệnh đề này là mệnh đề tính từ, mệnh đề trạng ngữ, và mệnh đề danh từ — chúng là công cụ chính để người bản ngữ xây dựng câu phức, lập luận và dẫn chứng.</p>
 
 			<h4 className="margin-y-40">1. Mệnh đề tính từ — mô tả đứng sau danh từ</h4>
-					
-			<p className="text-indent-whole"></p>
 
-			<p className="margin-top-20"></p>
+			<p className="text-indent-whole">Chức năng: bổ sung, phân biệt hoặc mở rộng thông tin về danh từ.</p>
+
+			<p className="text-indent-whole">Ví dụ:</p>
 			
 				<ul className="list-square">
 			
-					<li></li>
-					<li className="margin-bottom-20 list-none"></li>
-			
-					<li></li>
-					<li className="margin-bottom-20 list-none"></li>
-
-					<li></li>
-					<li className="margin-bottom-20 list-none"></li>
-			
-					<li></li>
-					<li className="list-none"></li>
+					<li>The student who studies every night passed the exam.</li>
+					<li className="list-none">Học sinh, người mà học bài mỗi tối, đã đỗ kỳ thi.</li>
 			
 				</ul>
 			
-			<p className="margin-top-20"></p>
-
+			<p className="margin-top-20 text-indent-whole">Rút gọn:</p>
+			
+				<ul className="list-square">
+			
+					<li>the student studying every night</li>
+					<li className="list-none">Học sinh đang học bài mỗi tối</li>
+			
+				</ul>
+			
+			<p className="margin-top-20 text-indent-whole">Gợi ý thực hành: khi dịch câu tiếng Việt dạng Danh từ + mô tả, hãy thử đặt danh từ trước rồi thêm mệnh đề tính từ — cảm giác sẽ rất tự nhiên.</p>
+		
 
 			<h4 className="margin-y-40">2. Mệnh đề trạng ngữ — nối ý, giải thích hoàn cảnh</h4>
 					
-			<p className="text-indent-whole"></p>
+			<p className="text-indent-whole">Chức năng: trả lời câu hỏi khi nào, ở đâu, vì sao, như thế nào, với điều kiện nào; giúp câu mạch lạc, có nhịp điệu lập luận.</p>
 
-			<p className="margin-top-20"></p>
+			<p className="text-indent-whole">Ví dụ:</p>
 			
 				<ul className="list-square">
 			
-					<li></li>
-					<li className="margin-bottom-20 list-none"></li>
-			
-					<li></li>
-					<li className="margin-bottom-20 list-none"></li>
-
-					<li></li>
-					<li className="margin-bottom-20 list-none"></li>
-			
-					<li></li>
-					<li className="list-none"></li>
+					<li>Because she practiced daily, she improved quickly.</li>
+					<li className="list-none">Bởi vì cô ấy đã luyện tập hàng ngày, cô ấy đã tiến bộ một cách nhanh chóng.</li>
 			
 				</ul>
 			
-			<p className="margin-top-20"></p>
+			<p className="margin-top-20 text-indent-whole">Vị trí linh hoạt: có thể đứng đầu câu để nhấn lý do, hoặc cuối câu để bổ sung.</p>
+
+			<p className="text-indent-whole">Gợi ý thực hành: khi viết luận, dùng mệnh đề trạng ngữ để dẫn dắt luận điểm, rồi quay lại với danh từ chính và mệnh đề tính từ để minh họa.</p>
 
 
 			<h4 className="margin-y-40">3. Mệnh đề danh từ — biến cả cụm thành chủ ngữ hoặc tân ngữ</h4>
 					
-			<p className="text-indent-whole"></p>
+			<p className="text-indent-whole">Chức năng: đóng vai trò như một danh từ; thường dùng để trích dẫn ý tưởng, lập luận, hoặc làm chủ đề thảo luận.</p>
 
-			<p className="margin-top-20"></p>
+			<p className="text-indent-whole">Ví dụ:</p>
 			
 				<ul className="list-square">
 			
-					<li></li>
-					<li className="margin-bottom-20 list-none"></li>
-			
-					<li></li>
-					<li className="margin-bottom-20 list-none"></li>
-			
-					<li></li>
-					<li className="list-none"></li>
+					<li>What she said surprised everyone.</li>
+					<li className="list-none">Những gì cô ấy đã nói đã làm mọi người ngạc nhiên.</li>
 			
 				</ul>
 			
-			<p className="margin-top-20"></p>
+			<p className="margin-top-20 text-indent-whole">Gợi ý thực hành: dùng mệnh đề danh từ để tóm tắt ý chính trước khi giải thích bằng mệnh đề trạng ngữ và minh họa bằng mệnh đề tính từ.</p>
 
-		
-			
 
 			{/* 3.  */}
 
 			<h3 className="margin-y-50 text-center">3. Cách kết hợp bộ ba để viết luận và nói thuyết phục</h3>
-
-			<p></p>
-
-			<p className="margin-top-20"></p>
 			
 				<ol>
 			
-					<li value="1"></li>
-					<li className="margin-bottom-20 list-none"></li>
+					<li value="1">Mở bằng mệnh đề trạng ngữ</li>
+					<li className="margin-bottom-20 list-none">Để đặt bối cảnh hoặc nêu lý do.</li>
 			
-					<li value="2"></li>
-					<li className="margin-bottom-20 list-none"></li>
+					<li value="2">Giới thiệu danh từ chính</li>
+					<li className="margin-bottom-20 list-none">Đối tượng của luận điểm.</li>
 
-					<li value="3"></li>
-					<li className="margin-bottom-20 list-none"></li>
+					<li value="3">Bổ sung bằng mệnh đề tính từ</li>
+					<li className="margin-bottom-20 list-none">Để phân biệt hoặc mô tả chi tiết.</li>
 			
-					<li value="4"></li>
-					<li className="list-none"></li>
+					<li value="4">Dùng mệnh đề danh từ</li>
+					<li className="list-none">Khi cần tóm tắt ý hoặc chuyển sang luận điểm tiếp theo.</li>
 			
 				</ol>
+
+			<p className="margin-top-20">Ví dụ mẫu (mạch luận ngắn):</p>
 			
-			<p className="margin-top-20"></p>
+			<p>Because the market changed rapidly, the company, which had invested heavily in one product line, had to adapt quickly. What the management decided next determined the firm’s survival.</p>
 			
-			
+			<p>Bởi vì thị trường đã thay đổi một cách nhanh chóng, công ty đó, cái mà đã đầu tư mạnh vào một dòng sản phẩm, đã phải thích nghi nhanh. Những gì ban quản lý quyết định sau đó đã quyết định sự sống còn của doanh nghiệp.</p>
 
 			{/* 4.  */}
 
 			<h3 className="margin-y-50 text-center">4. Thực hành có hệ thống — 5 bước để làm chủ</h3>
-
-			<p></p>
-
-			<p className="margin-top-20"></p>
 			
 				<ol>
 			
-					<li value="1"></li>
-					<li className="margin-bottom-20 list-none"></li>
+					<li value="1">Nhận diện:</li>
+					<li className="margin-bottom-20 list-none">Khi đọc tiếng Việt, gạch dưới danh từ chính và phần mô tả.</li>
 			
-					<li value="2"></li>
-					<li className="margin-bottom-20 list-none"></li>
+					<li value="2">Dịch theo mẫu:</li>
+					<li className="margin-bottom-20 list-none">Chuyển mô tả thành mệnh đề tính từ; đặt danh từ trước.</li>
 
-					<li value="3"></li>
-					<li className="margin-bottom-20 list-none"></li>
+					<li value="3">Thử biến thể:</li>
+					<li className="margin-bottom-20 list-none">Viết cùng một ý bằng tính từ trước danh từ, rồi bằng danh từ + mệnh đề tính từ; so sánh sắc thái.</li>
 			
-					<li value="4"></li>
-					<li className="margin-bottom-20 list-none"></li>
+					<li value="4">Ghép mạch:</li>
+					<li className="margin-bottom-20 list-none">Viết đoạn 4–6 câu dùng cả ba mệnh đề — chú ý dấu câu và nhịp câu.</li>
 
-					<li value="5"></li>
-					<li className="margin-bottom-20 list-none"></li>
-			
-					<li value="6"></li>
-					<li className="list-none"></li>
+					<li value="5">Rút gọn và tinh chỉnh:</li>
+					<li className="list-none">Học cách rút gọn mệnh đề để câu gọn, tránh lặp từ.</li>
 			
 				</ol>
-			
-			<p className="margin-top-20"></p>
-
 			
 
 			{/* 5.  */}
 
 			<h3 className="margin-y-50 text-center">5. Những lỗi thường gặp và cách tránh</h3>
-
-			<p></p>
-
-			<p className="margin-top-20"></p>
 			
 				<ul className="list-square">
 			
-					<li></li>
-					<li className="margin-bottom-20 list-none"></li>
+					<li>Nhồi quá nhiều mệnh đề vào một câu</li>
+					<li className="margin-bottom-20 list-none">→ tách câu để rõ ràng.</li>
 			
-					<li></li>
-					<li className="margin-bottom-20 list-none"></li>
+					<li>Bỏ dấu phẩy sai chỗ với mệnh đề thêm thông tin</li>
+					<li className="margin-bottom-20 list-none">→ thay đổi nghĩa.</li>
+
+					<li>Dùng đại từ quan hệ không phù hợp</li>
+					<li className="margin-bottom-20 list-none">→ học who/which/that/where/when và cách rút gọn.</li>
 			
-					<li></li>
-					<li className="list-none"></li>
+					<li>Quá lạm dụng cấu trúc phức khiến câu nặng nề</li>
+					<li className="list-none">→ ưu tiên rõ ràng, mạch lạc.</li>
 			
 				</ul>
 			
-			<p className="margin-top-20"></p>
 
 			
-
 			{/* Lời Kết */}
 
 			<h3 className="margin-y-50 text-center">Kết luận: biến điểm tương đồng thành lợi thế cạnh tranh</h3>
 
-			<p></p>
+			<p>Việc nhận ra rằng tiếng Anh có một trật tự mô tả rất gần với tiếng Việt — danh từ trước, mô tả sau — là một lợi thế lớn.</p>
 
-			<p></p>
+			<p>Khi bạn hiểu và thực hành mệnh đề tính từ, việc tiếp cận mệnh đề trạng ngữ và mệnh đề danh từ sẽ trở nên tự nhiên.</p>
 
-			<p></p>
+			<p>Ba mệnh đề này là bộ công cụ giúp bạn đọc hiểu sâu, viết luận chặt chẽ và nói thuyết phục.</p>
+
+			<h4 className="margin-y-40">Thử thách 7 ngày:</h4>
+					
+			<p className="text-indent-whole">Mỗi ngày chọn 3 câu tiếng Việt bạn hay dùng, dịch sang tiếng Anh theo mẫu Danh từ → Mô tả, rồi ghép thành một đoạn 6–8 câu dùng cả ba mệnh đề.</p>
+
+			<p className="text-indent-whole">Sau một tuần, bạn sẽ thấy cách tư duy tiếng Anh thay đổi — từ “khó” thành “quen”, từ “lúng túng” thành “tự tin”.</p>
+
+
+
+			<h4 className="margin-y-40">Ghi nhớ cuối cùng:</h4>
+
+			<p className="text-indent-whole">Đừng để tên gọi phức tạp làm bạn chùn bước.</p>
+
+			<p className="text-indent-whole">Hãy nhìn vào chức năng:</p>
+
+			<p className="text-indent-whole">Ai/What → Nói gì → Vì sao/Ở đâu/Thế nào.</p>
+					
+			<p className="text-indent-whole">Khi bạn nắm được mạch này, tiếng Anh sẽ trở thành công cụ để bạn diễn đạt sắc sảo — không chỉ đúng, mà còn có phong cách.</p>
 			
 
 			<div className="viewcounter">
