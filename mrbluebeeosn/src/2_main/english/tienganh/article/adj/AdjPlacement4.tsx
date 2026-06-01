@@ -141,7 +141,7 @@ export default function AdjPlacement4(): React.JSX.Element {
 
 			<p>Và đó chính là lúc một cấu trúc cực kỳ quan trọng xuất hiện:</p>
 
-			<p>Adjective Clause.</p>
+			<p><strong>Adjective Clause</strong>.</p>
 
 
 			{/* 2.  */}
@@ -352,9 +352,9 @@ export default function AdjPlacement4(): React.JSX.Element {
 
 			<p>Nó đồng bộ với cách tư duy tự nhiên của tiếng Việt:</p>
 
-			<p>Danh từ trước.</p>
+			<p><strong>Danh từ trước</strong>.</p>
 
-			<p>Thông tin mô tả sau.</p>
+			<p><strong>Thông tin mô tả sau</strong>.</p>
 
 			<p>Khi làm chủ được điều này, người học bắt đầu quen với việc kéo dài câu.</p>
 
