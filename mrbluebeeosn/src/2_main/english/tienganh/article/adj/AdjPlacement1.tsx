@@ -164,7 +164,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 
 			<p>Thói quen đưa "trục xương sống" ra trước rồi đắp "da thịt" mô tả phía sau chính là bệ phóng hoàn hảo để bạn làm chủ toàn bộ <strong>Bộ ba mệnh đề cốt lõi</strong> cấu thành nên ngôn ngữ của người bản ngữ:</p>
 
-			<p>BỘ BA MỆNH ĐỀ CỐT LÕI</p>
+			<h4 className="margin-y-40">BỘ BA MỆNH ĐỀ CỐT LÕI</h4>
 			
 				<ol>
 			
@@ -210,7 +210,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 
 			<h3 className="margin-y-50 text-center">Lời Kết: Vũ Khí Chiến Lược Của Người Việt</h3>
 
-			<p>Phát hiện ra điểm mạnh tương đồng Danh từ + Adjective Clause không chỉ là một mẹo học tập, nó là một cuộc cách mạng về tư duy.</p>
+			<p>Phát hiện ra điểm mạnh tương đồng <strong>Danh từ</strong> + <strong>Adjective Clause</strong> không chỉ là một mẹo học tập, nó là một cuộc cách mạng về tư duy.</p>
 
 			<p>Nó đập tan nỗi sợ câu phức, cho phép người Việt viết những câu văn dài có chiều sâu, học thuật và đẳng cấp bằng chính tốc độ tư duy của tiếng mẹ đẻ.</p>
 

@@ -58,7 +58,9 @@ export default function AdjPlacement9(): React.JSX.Element {
 			
 			<p>Nhưng hôm nay, mình không đến để kể về những khó khăn đó. Mình đến để vén màn một <strong>bí mật động trời</strong>, một <strong>chìa khóa vàng</strong> có thể thay đổi hoàn toàn cục diện. Một sự thật mà khi được khai mở, sẽ giúp bạn nhận ra rằng người Việt chúng ta không hề yếu thế, mà ngược lại, đang nắm giữ một <strong>siêu năng lực ngôn ngữ tiềm ẩn</strong>, có thể giúp chúng ta vượt trội hơn nhiều quốc gia khác trong khu vực.</p>
 
-			<p>Đó chính là việc làm chủ <strong>Mệnh đề tính từ</strong> (<strong>Adjective Clause</strong>) – một cấu trúc mà khi được nhìn nhận đúng bản chất, sẽ cho thấy tiếng Anh và tiếng Việt có sự đồng điệu đến kinh ngạc ở cấp độ tư duy cao nhất!</p>
+			<p>Đó chính là việc làm chủ <strong>Mệnh đề tính từ</strong> (<strong>Adjective Clause</strong>)</p>
+
+			<p>Một cấu trúc mà khi được nhìn nhận đúng bản chất, sẽ cho thấy tiếng Anh và tiếng Việt có sự đồng điệu đến kinh ngạc ở cấp độ tư duy cao nhất!</p>
 
 			{/* 1.  */}
 
@@ -73,7 +75,7 @@ export default function AdjPlacement9(): React.JSX.Element {
 					<li>a <strong>beautiful</strong> house.</li>
 					<li className="margin-bottom-20 list-none">Một ngôi nhà <strong>đẹp</strong>.</li>
 
-					<li className="list-none">Dùng để nhấn mạnh tính chất một cách ngắn gọn, súc tích.</li>
+					<li className="list-none">Dùng để <strong>nhấn mạnh tính chất</strong> một cách ngắn gọn, súc tích.</li>
 			
 				</ul>
 
@@ -84,7 +86,7 @@ export default function AdjPlacement9(): React.JSX.Element {
 					<li>The house is <strong>beautiful</strong>.</li>
 					<li className="margin-bottom-20 list-none">Ngôi nhà đó thì <strong>đẹp</strong>.</li>
 
-					<li className="list-none">Dùng để mô tả tính chất của chủ ngữ.</li>
+					<li className="list-none">Dùng để <strong>mô tả tính chất</strong> của chủ ngữ.</li>
 			
 				</ul>
 			
@@ -142,10 +144,10 @@ export default function AdjPlacement9(): React.JSX.Element {
 					<li className="list-none">Đối tượng (người đàn ông)</li>
 			
 				</ul>
-			
+
 			<p className="margin-top-20"><strong>Kết luận không thể chối cãi</strong>:</p>
 
-			<p>Cấu trúc câu phức của tiếng Anh và tiếng Việt thực chất <strong>GIỐNG nhau đến 100% về mặt tư duy</strong>:</p>
+			<p className="margin-y-30 text-indent-whole">Cấu trúc câu phức của tiếng Anh và tiếng Việt thực chất <strong>GIỐNG nhau đến 100% về mặt tư duy</strong>:</p>
 			
 				<ul className="list-square">
 			
@@ -169,23 +171,25 @@ export default function AdjPlacement9(): React.JSX.Element {
 
 			<p>Nó trở thành một "cái bẫy" ngôn ngữ, khiến chúng ta né tránh một trong những công cụ mạnh mẽ nhất của tiếng Anh.</p>
 
-			<p>Đã đến lúc phá bỏ rào cản từ chính tên gọi! Từ nay, hãy gọi nó bằng đúng bản chất của mình: Mệnh đề tính từ (Adjective Clause).</p>
+			<p>Đã đến lúc phá bỏ rào cản từ chính tên gọi! Từ nay, hãy gọi nó bằng đúng bản chất của mình:</p>
 
-			<p>Khi bạn gọi nó là "Mệnh đề tính từ", mọi thứ sẽ trở nên rõ ràng như ban ngày, như một ánh sáng soi rọi vào vùng tối của ngữ pháp:</p>
+			<p className="margin-y-40  text-indent-whole"><strong>Mệnh đề tính từ</strong> (<strong>Adjective Clause</strong>).</p>
+
+			<p>Khi bạn gọi nó là "<strong>Mệnh đề tính từ</strong>", mọi thứ sẽ trở nên rõ ràng như ban ngày, như một ánh sáng soi rọi vào vùng tối của ngữ pháp:</p>
 			
 				<ul className="list-square">
 			
-					<li>Nó đóng vai trò như một tính từ (dùng để mô tả).</li>
+					<li>Nó đóng vai trò như một <strong>tính từ</strong> (dùng để <strong>mô tả</strong>).</li>
 			
-					<li>Nó đứng sau danh từ (giống hệt tiếng Việt).</li>
+					<li>Nó <strong>đứng sau danh từ</strong> (giống hệt tiếng Việt).</li>
 			
-					<li>Nó là công cụ mạnh mẽ giúp bạn mở rộng câu, cung cấp thông tin chi tiết một cách tự nhiên, không còn lo lắng về vị trí từ.</li>
+					<li>Nó là công cụ mạnh mẽ giúp bạn <strong>mở rộng câu</strong>, <strong>cung cấp thông tin chi tiết</strong> một cách tự nhiên, không còn lo lắng về vị trí từ.</li>
 			
 				</ul>
 			
-			<p className="margin-top-20">Người bản ngữ sử dụng Mệnh đề tính từ một cách nhuần nhuyễn, tự nhiên trong mọi cuộc hội thoại phức tạp, văn bản chuyên nghiệp và các bài luận.</p>
+			<p className="margin-top-20">Người bản ngữ sử dụng <strong>Mệnh đề tính từ</strong> một cách nhuần nhuyễn, tự nhiên trong mọi cuộc hội thoại phức tạp, văn bản chuyên nghiệp và các bài luận.</p>
 
-			<p>Đây là cách hiệu quả nhất để họ xác định đối tượng trước, sau đó mới "vẽ" thêm các chi tiết, làm rõ nghĩa cho danh từ đó. Điều này hoàn toàn khớp với cách chúng ta tư duy và diễn đạt trong tiếng Việt.</p>
+			<p>Đây là cách hiệu quả nhất để họ <strong>xác định đối tượng trước</strong>, sau đó mới "<strong>vẽ</strong>" <strong>thêm các chi tiết</strong>, làm rõ nghĩa cho danh từ đó. Điều này hoàn toàn khớp với cách chúng ta tư duy và diễn đạt trong tiếng Việt.</p>
 
 			<p>Thậm chí, khi các mệnh đề này được rút gọn, cấu trúc tiếng Anh càng trở nên cô đọng, linh hoạt và gần gũi hơn với tiếng Việt, biến nó thành một công cụ giao tiếp cực kỳ hiệu quả.</p>
 
@@ -193,9 +197,13 @@ export default function AdjPlacement9(): React.JSX.Element {
 
 			<h3 className="margin-y-50 text-center">3. Lợi Thế Vượt Trội Của Người Việt: Nắm Giữ "Bộ Ba Quyền Lực" Của Ngôn Ngữ</h3>
 
-			<p>Việc nhận ra rằng tiếng Anh cũng có cách tư duy "Danh từ + Bổ nghĩa" này không chỉ là một kiến thức ngữ pháp, mà là một <strong>bước ngoặt tư duy lớn</strong>. Nó giúp bạn cảm thấy tiếng Anh không còn là một ngôn ngữ xa lạ, mà là một phiên bản khác, một sự mở rộng của chính tiếng mẹ đẻ mình. Thay vì chỉ loay hoay với các tính từ đơn lẻ, hãy mở rộng tầm nhìn để thấy rằng trong các câu phức tạp, tiếng Anh và tiếng Việt có cùng một "lối đi chung" – một con đường đã được trải sẵn cho bạn.</p>
+			<p>Việc nhận ra rằng tiếng Anh cũng có cách tư duy "<strong>Danh từ</strong> + <strong>Bổ nghĩa</strong>" này không chỉ là một kiến thức ngữ pháp, mà là một <strong>bước ngoặt tư duy lớn</strong>. Nó giúp bạn cảm thấy tiếng Anh không còn là một ngôn ngữ xa lạ, mà là một phiên bản khác, một sự mở rộng của chính tiếng mẹ đẻ mình.</p>
 
-			<p>Đây chính là chìa khóa vàng để bạn xây dựng các câu phức tạp, viết luận, hay giao tiếp ở trình độ cao một cách tự nhiên, chính xác và đầy tự tin. Bạn sẽ không còn phải "dịch ngược" trong đầu, mà có thể tư duy trực tiếp bằng tiếng Anh với một cấu trúc đã quen thuộc.</p>
+			<p>Thay vì chỉ loay hoay với các tính từ đơn lẻ, hãy mở rộng tầm nhìn để thấy rằng trong các câu phức tạp, tiếng Anh và tiếng Việt có cùng một "lối đi chung" – một con đường đã được trải sẵn cho bạn.</p>
+
+			<p>Đây chính là chìa khóa vàng để bạn xây dựng các câu phức tạp, viết luận, hay giao tiếp ở trình độ cao một cách tự nhiên, chính xác và đầy tự tin.</p>
+
+			<p>Bạn sẽ không còn phải "dịch ngược" trong đầu, mà có thể tư duy trực tiếp bằng tiếng Anh với một cấu trúc đã quen thuộc.</p>
 
 			<p>Nhưng câu chuyện không dừng lại ở đó. Khi đã làm chủ được <strong>Adjective Clause</strong> – mệnh đề bổ nghĩa cho danh từ theo cách tư duy của người Việt – bạn sẽ khám phá ra một con đường rộng mở để tiếp cận và làm chủ hai loại mệnh đề quan trọng khác trong tiếng Anh: <strong>Adverbial Clause</strong> (<strong>Mệnh đề trạng ngữ</strong>) và <strong>Noun Clause</strong> (<strong>Mệnh đề danh ngữ</strong>).</p>
 
@@ -203,7 +211,7 @@ export default function AdjPlacement9(): React.JSX.Element {
 
 			<h4 className="margin-y-40">Adjective Clause:</h4>
 					
-			<p className="text-indent-whole">Bổ nghĩa cho danh từ (giống như tính từ).</p>
+			<p className="text-indent-whole">Bổ nghĩa cho <strong>danh từ</strong> (giống như <strong>tính từ</strong>).</p>
 
 				<ul className="list-square">
 			
@@ -215,7 +223,7 @@ export default function AdjPlacement9(): React.JSX.Element {
 
 			<h4 className="margin-y-40">Adverbial Clause:</h4>
 					
-			<p className="text-indent-whole">Bổ nghĩa cho động từ, tính từ hoặc trạng từ (giống như trạng từ).</p>
+			<p className="text-indent-whole">Bổ nghĩa cho <strong>động từ</strong>, <strong>tính từ</strong> hoặc <strong>trạng từ</strong> (giống như <strong>trạng từ</strong>).</p>
 
 				<ul className="list-square">
 			
@@ -227,7 +235,7 @@ export default function AdjPlacement9(): React.JSX.Element {
 
 			<h4 className="margin-y-40">Noun Clause:</h4>
 					
-			<p className="text-indent-whole">Đóng vai trò như một danh từ (làm chủ ngữ, tân ngữ, bổ ngữ).</p>
+			<p className="text-indent-whole">Đóng vai trò như một <strong>danh từ</strong> (làm <strong>chủ ngữ</strong>, <strong>tân ngữ</strong>, <strong>bổ ngữ</strong>).</p>
 			
 				<ul className="list-square">
 			
@@ -236,7 +244,13 @@ export default function AdjPlacement9(): React.JSX.Element {
 			
 				</ul>
 			
-			<p className="margin-top-20">Việc làm chủ Adjective Clause sẽ tạo ra một thói quen tư duy về cấu trúc câu phức, giúp bạn dễ dàng nhận diện và xây dựng các Adverbial Clause và Noun Clause. Bạn sẽ không còn bỡ ngỡ trước những câu dài, mà thay vào đó, sẽ thấy chúng là những mảnh ghép logic, quen thuộc. Sự tương đồng cấu trúc này không phải là một hạn chế, mà là một <strong>siêu năng lực tiềm ẩn</strong> của người Việt! Nó mang lại lợi thế đáng kể so với các quốc gia khác trong cùng khu vực Đông Nam Á, những người có thể không có sự "đồng điệu" ngôn ngữ này. Hãy tận dụng lợi thế độc đáo này để chinh phục tiếng Anh một cách nhanh chóng, hiệu quả và đầy hứng khởi hơn bao giờ hết!</p>
+			<p className="margin-top-20">Việc làm chủ <strong>Adjective Clause</strong> sẽ tạo ra một thói quen tư duy về cấu trúc câu phức, giúp bạn dễ dàng nhận diện và xây dựng các <strong>Adverbial Clause</strong> và <strong>Noun Clause</strong>.</p>
+
+			<p>Bạn sẽ không còn bỡ ngỡ trước những câu dài, mà thay vào đó, sẽ thấy chúng là những mảnh ghép logic, quen thuộc.</p>
+
+			<p> Sự tương đồng cấu trúc này không phải là một hạn chế, mà là một <strong>siêu năng lực tiềm ẩn</strong> của người Việt! Nó mang lại lợi thế đáng kể so với các quốc gia khác trong cùng khu vực Đông Nam Á, những người có thể không có sự "đồng điệu" ngôn ngữ này.</p>
+
+			<p>Hãy tận dụng lợi thế độc đáo này để chinh phục tiếng Anh một cách nhanh chóng, hiệu quả và đầy hứng khởi hơn bao giờ hết!</p>
 
 			{/* Lời Kết */}
 
@@ -244,7 +258,12 @@ export default function AdjPlacement9(): React.JSX.Element {
 
 			<p>Đã đến lúc thay đổi góc nhìn, đã đến lúc phá bỏ những định kiến cũ kỹ. Tiếng Anh không hề "ngược đời" hay khó nhằn như bạn vẫn nghĩ. Nó chỉ là một phiên bản khác, một cách diễn đạt khác của những gì bạn đã biết và thành thạo trong tiếng Việt.</p>
 
-			<p>Hãy tin vào bản năng ngôn ngữ của mình: đặt danh từ lên trước, sau đó bồi thêm các "tính từ" (mệnh đề hoặc cụm từ) phía sau để mô tả. Khi bạn nhận ra sự "đồng bộ" này trong các cấu trúc phức tạp, bạn sẽ thấy việc chinh phục tiếng Anh không chỉ trở nên đơn giản, tự nhiên mà còn là một hành trình khám phá đầy thú vị.</p>
+			<p>Hãy tin vào bản năng ngôn ngữ của mình:</p>
+
+			<p><strong>Đặt danh từ lên trước</strong>, <strong>sau đó bồi thêm các</strong> "<strong>tính từ</strong>" (<strong>mệnh đề</strong> hoặc <strong>cụm từ</strong>) <strong>phía sau để mô tả</strong>.</p>
+
+
+			<p>Khi bạn nhận ra sự "đồng bộ" này trong các cấu trúc phức tạp, bạn sẽ thấy việc chinh phục tiếng Anh không chỉ trở nên đơn giản, tự nhiên mà còn là một hành trình khám phá đầy thú vị.</p>
 
 			<p>Biến rào cản thành bệ phóng, và hãy tự tin rằng bạn có đủ khả năng để làm chủ ngôn ngữ toàn cầu này, không chỉ ngang bằng mà còn vượt trội hơn!</p>
 			

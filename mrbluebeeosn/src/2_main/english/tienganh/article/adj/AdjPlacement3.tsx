@@ -127,7 +127,7 @@ export default function AdjPlacement3(): React.JSX.Element {
 			
 				</ul>
 
-			<p className="margin-y-50"><strong>Rút gọn</strong>:</p>
+			<p className="margin-top-20"><strong>Rút gọn</strong>:</p>
 			
 				<ul className="list-square">
 			

@@ -88,7 +88,7 @@ export default function AdjPlacement6(): React.JSX.Element {
 				<ul className="list-square">
 			
 					<li><strong>Danh từ đứng trước tính từ</strong>:</li>
-					<li className="margin-bottom-20 list-none">Dùng khi bạn muốn nhấn mạnh danh từ — giới thiệu đối tượng trước, rồi mô tả.</li>
+					<li className="margin-bottom-20 list-none">Dùng khi bạn muốn <strong>nhấn mạnh danh từ</strong> — giới thiệu đối tượng trước, rồi mô tả.</li>
 			
 					<li><strong>Tính từ đứng trước danh từ</strong>:</li>
 					<li className="list-none">Dùng khi bạn muốn <strong>nhấn mạnh tính chất</strong> — mô tả ngay, ngắn gọn.</li>
@@ -114,8 +114,8 @@ export default function AdjPlacement6(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>The student who studies every night passed the exam.</li>
-					<li className="list-none">Học sinh, người mà học bài mỗi tối, đã đỗ kỳ thi.</li>
+					<li>The student <strong>who studies every night</strong> passed the exam.</li>
+					<li className="list-none">Học sinh, <strong>người mà học bài mỗi tối</strong>, đã đỗ kỳ thi.</li>
 			
 				</ul>
 			
@@ -123,12 +123,12 @@ export default function AdjPlacement6(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>the student studying every night</li>
-					<li className="list-none">Học sinh đang học bài mỗi tối</li>
+					<li>The student <strong>studying every night</strong> passed the exam.</li>
+					<li className="list-none">Người học sinh <strong>học bài mỗi tối</strong> đã đỗ kỳ thi.</li>
 			
 				</ul>
 			
-			<p className="margin-top-20 text-indent-whole"><strong>Gợi ý thực hành</strong>: khi dịch câu tiếng Việt dạng Danh từ + mô tả, hãy thử đặt danh từ trước rồi thêm mệnh đề tính từ — cảm giác sẽ rất tự nhiên.</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Gợi ý thực hành</strong>: khi dịch câu tiếng Việt dạng <strong>Danh từ</strong> + <strong>mô tả</strong>, hãy thử đặt danh từ trước rồi thêm mệnh đề tính từ — cảm giác sẽ rất tự nhiên.</p>
 		
 
 			<h4 className="margin-y-40">2. Mệnh đề trạng ngữ — nối ý, giải thích hoàn cảnh</h4>
@@ -139,8 +139,8 @@ export default function AdjPlacement6(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>Because she practiced daily, she improved quickly.</li>
-					<li className="list-none">Bởi vì cô ấy đã luyện tập hàng ngày, cô ấy đã tiến bộ một cách nhanh chóng.</li>
+					<li><strong>Because she practiced daily</strong>, she improved quickly.</li>
+					<li className="list-none"><strong>Bởi vì cô ấy đã luyện tập hàng ngày</strong>, cô ấy đã tiến bộ một cách nhanh chóng.</li>
 			
 				</ul>
 			
@@ -157,8 +157,8 @@ export default function AdjPlacement6(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>What she said surprised everyone.</li>
-					<li className="list-none">Những gì cô ấy đã nói đã làm mọi người ngạc nhiên.</li>
+					<li><strong>What she said</strong> surprised everyone.</li>
+					<li className="list-none"><strong>Những gì cô ấy đã nói</strong> đã làm mọi người ngạc nhiên.</li>
 			
 				</ul>
 			
@@ -171,25 +171,21 @@ export default function AdjPlacement6(): React.JSX.Element {
 			
 				<ol>
 			
-					<li value="1"><strong>Mở bằng mệnh đề trạng ngữ</strong></li>
-					<li className="margin-bottom-20 list-none">Để đặt bối cảnh hoặc nêu lý do.</li>
+					<li value="1" className="margin-bottom-20"><strong>Mở bằng mệnh đề trạng ngữ</strong> để đặt bối cảnh hoặc nêu lý do.</li>
 			
-					<li value="2"><strong>Giới thiệu danh từ chính</strong></li>
-					<li className="margin-bottom-20 list-none">Đối tượng của luận điểm.</li>
+					<li value="2" className="margin-bottom-20"><strong>Giới thiệu danh từ chính</strong> - đối tượng của luận điểm.</li>
 
-					<li value="3"><strong>Bổ sung bằng mệnh đề tính từ</strong></li>
-					<li className="margin-bottom-20 list-none">Để phân biệt hoặc mô tả chi tiết.</li>
+					<li value="3" className="margin-bottom-20"><strong>Bổ sung bằng mệnh đề tính từ</strong> để phân biệt hoặc mô tả chi tiết.</li>
 			
-					<li value="4"><strong>Dùng mệnh đề danh từ</strong></li>
-					<li className="list-none">Khi cần tóm tắt ý hoặc chuyển sang luận điểm tiếp theo.</li>
+					<li value="4" className="margin-bottom-20"><strong>Dùng mệnh đề danh từ</strong> khi cần tóm tắt ý hoặc chuyển sang luận điểm tiếp theo.</li>
 			
 				</ol>
 
 			<p className="margin-top-20"><strong>Ví dụ mẫu</strong> (mạch luận ngắn):</p>
 			
-			<p>Because the market changed rapidly, the company, which had invested heavily in one product line, had to adapt quickly. What the management decided next determined the firm’s survival.</p>
+			<p><strong>Because the market changed rapidly</strong>, the company, <strong>which had invested heavily in one product line</strong>, had to adapt quickly. <strong>What the management decided next</strong> determined the firm’s survival.</p>
 			
-			<p>Bởi vì thị trường đã thay đổi một cách nhanh chóng, công ty đó, cái mà đã đầu tư mạnh vào một dòng sản phẩm, đã phải thích nghi nhanh. Những gì ban quản lý quyết định sau đó đã quyết định sự sống còn của doanh nghiệp.</p>
+			<p><strong>Bởi vì thị trường đã thay đổi một cách nhanh chóng</strong>, công ty đó, <strong>cái mà đã đầu tư mạnh vào một dòng sản phẩm</strong>, đã phải thích nghi nhanh. <strong>Những gì ban quản lý quyết định sau đó</strong> đã quyết định sự sống còn của doanh nghiệp.</p>
 
 			{/* 4.  */}
 
@@ -222,16 +218,16 @@ export default function AdjPlacement6(): React.JSX.Element {
 				<ul className="list-square">
 			
 					<li><strong>Nhồi quá nhiều mệnh đề vào một câu</strong></li>
-					<li className="margin-bottom-20 list-none">→ tách câu để rõ ràng.</li>
+					<li className="margin-bottom-20 list-none">→ Tách câu để rõ ràng.</li>
 			
 					<li><strong>Bỏ dấu phẩy sai chỗ</strong> với mệnh đề thêm thông tin</li>
-					<li className="margin-bottom-20 list-none">→ thay đổi nghĩa.</li>
+					<li className="margin-bottom-20 list-none">→ Thay đổi nghĩa.</li>
 
 					<li><strong>Dùng đại từ quan hệ không phù hợp</strong></li>
-					<li className="margin-bottom-20 list-none">→ học who/which/that/where/when và cách rút gọn.</li>
+					<li className="margin-bottom-20 list-none">→ Học who/which/that/where/when và cách rút gọn.</li>
 			
 					<li><strong>Quá lạm dụng cấu trúc phức</strong> khiến câu nặng nề</li>
-					<li className="list-none">→ ưu tiên rõ ràng, mạch lạc.</li>
+					<li className="list-none">→ Ưu tiên rõ ràng, mạch lạc.</li>
 			
 				</ul>
 			

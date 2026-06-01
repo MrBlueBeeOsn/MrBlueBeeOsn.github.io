@@ -130,18 +130,18 @@ export default function AdjPlacement5(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>the man whom I met yesterday</li>
-					<li className="list-none">người đàn ông mà tôi gặp hôm qua</li>
+					<li>the man <strong>whom I met yesterday</strong></li>
+					<li className="list-none">người đàn ông <strong>mà tôi gặp hôm qua</strong></li>
 					<li className="list-none">Noun → Adjective Clause</li>
 					<li className="margin-bottom-20 list-none">Danh từ → mệnh đề mô tả</li>
 			
-					<li>the decision that the board made</li>
-					<li className="list-none">quyết định mà ban lãnh đạo đưa ra</li>
+					<li>the decision <strong>that the board made</strong></li>
+					<li className="list-none">quyết định <strong>mà ban lãnh đạo đưa ra</strong></li>
 					<li className="list-none">Noun → Adjective Clause</li>
 					<li className="margin-bottom-20 list-none">Danh từ → mệnh đề mô tả</li>
 			
-					<li>the idea that we discussed</li>
-					<li className="list-none">ý tưởng mà chúng tôi đã bàn</li>
+					<li>the idea <strong>that we discussed</strong></li>
+					<li className="list-none">ý tưởng <strong>mà chúng tôi đã bàn</strong></li>
 					<li className="list-none">Noun → Adjective Clause</li>
 					<li className="list-none">Danh từ → mệnh đề mô tả</li>
 			
@@ -170,13 +170,13 @@ export default function AdjPlacement5(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li className="margin-bottom-20 list-none">"The decision that the board made last quarter, which affected thousands of employees, none of whom were consulted beforehand, remains deeply controversial."</li>
+					<li className="margin-bottom-20 list-none">"The decision <strong>that the board made last quarter</strong>, <strong>which affected thousands of employees</strong>, <strong>none of whom were consulted beforehand</strong>, remains deeply controversial."</li>
 
-					<li className="list-none">"Quyết định mà hội đồng quản trị đã đưa ra vào quý trước, cái đã ảnh hưởng đến hàng nghìn nhân viên, những người mà hoàn toàn không được tham vấn trước đó, vẫn còn gây tranh cãi sâu sắc."</li>
+					<li className="list-none">"Quyết định <strong>mà hội đồng quản trị đã đưa ra vào quý trước</strong>, <strong>cái đã ảnh hưởng đến hàng nghìn nhân viên</strong>, <strong>những người mà hoàn toàn không được tham vấn trước đó</strong>, vẫn còn gây tranh cãi sâu sắc."</li>
 			
 				</ul>
 			
-			<p className="margin-top-20">Ba lớp Adjective Clause, tất cả đứng sau danh từ, tất cả hoạt động như tính từ mở rộng. Và tất cả đều vận hành theo đúng logic mà một người Việt đã dùng từ khi còn học nói tiếng mẹ đẻ.</p>
+			<p className="margin-top-20">Ba lớp <strong>Adjective Clause</strong>, tất cả đứng sau danh từ, tất cả hoạt động như tính từ mở rộng. Và tất cả đều vận hành theo đúng logic mà một người Việt đã dùng từ khi còn học nói tiếng mẹ đẻ.</p>
 			
 
 			{/* 5.  */}
@@ -185,104 +185,116 @@ export default function AdjPlacement5(): React.JSX.Element {
 
 			<p>Người bản ngữ thường xuyên rút gọn Adjective Clause trong văn viết tự nhiên. Người học Việt nhìn vào những cụm này và không nhận ra đây cũng là tính từ — trong khi chúng lại là những cấu trúc gần tiếng Việt nhất:</p>
 
-			<p className="margin-top-20">Dạng đầy đủ</p>
+			<p className="margin-top-20">Ví dụ 1:</p>
+
+			<p className="margin-top-20 text-indent-whole">Dạng đầy đủ</p>
 			
 				<ul className="list-square">
 			
-					<li>the man who is standing there</li>
-					<li className="list-none">người đàn ông người mà đang đứng ở đó</li>
+					<li>the man <strong>who is standing there</strong></li>
+					<li className="list-none">người đàn ông <strong>người mà đang đứng ở đó</strong></li>
 			
 				</ul>
 
-			<p className="margin-top-20">Dạng rút gọn</p>
+			<p className="margin-top-20 text-indent-whole">Dạng rút gọn</p>
 			
 				<ul className="list-square">
 			
-					<li>the man standing there</li>
-					<li className="list-none">người đàn ông đang đứng ở đó</li>
-			
-				</ul>
-	
-
-			<p className="margin-top-20">Dạng đầy đủ</p>
-			
-				<ul className="list-square">
-			
-					<li>the report that was submitted</li>
-					<li className="list-none">bản báo cáo mà đã được nộp</li>
+					<li>the man <strong>standing there</strong></li>
+					<li className="list-none">người đàn ông <strong>đang đứng ở đó</strong></li>
 			
 				</ul>
 
-			<p className="margin-top-20">Dạng rút gọn</p>
+			
+
+			<p className="margin-top-20">Ví dụ 2:</p>
+
+			<p className="margin-top-20 text-indent-whole">Dạng đầy đủ</p>
 			
 				<ul className="list-square">
 			
-					<li>the report submitted</li>
-					<li className="list-none">bản báo cáo đã được nộp</li>
+					<li>the report <strong>that was submitted</strong></li>
+					<li className="list-none">bản báo cáo <strong>mà đã được nộp</strong></li>
+			
+				</ul>
+
+			<p className="margin-top-20 text-indent-whole">Dạng rút gọn</p>
+			
+				<ul className="list-square">
+			
+					<li>the report <strong>submitted</strong></li>
+					<li className="list-none">bản báo cáo <strong>đã được nộp</strong></li>
+			
+				</ul>
+			
+		
+			<p className="margin-top-20">Ví dụ 3:</p>
+
+			<p className="margin-top-20 text-indent-whole">Dạng đầy đủ</p>
+			
+				<ul className="list-square">
+			
+					<li>the idea <strong>that we discussed</strong></li>
+					<li className="list-none">ý tưởng <strong>mà chúng ta đã thảo luận</strong></li>
+			
+				</ul>
+
+			<p className="margin-top-20 text-indent-whole">Dạng rút gọn</p>
+			
+				<ul className="list-square">
+			
+					<li>the idea <strong>discussed</strong></li>
+					<li className="list-none">ý tưởng <strong>được thảo luận</strong></li>
+			
+				</ul>
+
+			<p className="margin-top-20">Ví dụ 4:</p>
+
+			<p className="margin-top-20 text-indent-whole">Dạng đầy đủ</p>
+			
+				<ul className="list-square">
+			
+					<li>the company <strong>that is changing the industry</strong></li>
+					<li className="list-none">công ty <strong>mà đang thay đổi ngành công nghiệp này</strong></li>
 			
 				</ul>
 		
-
-			<p className="margin-top-20">Dạng đầy đủ</p>
+			<p className="margin-top-20 text-indent-whole">Dạng rút gọn</p>
 			
 				<ul className="list-square">
 			
-					<li>the idea that we discussed</li>
-					<li className="list-none">ý tưởng mà chúng ta đã thảo luận</li>
+					<li>the company <strong>changing the industry</strong></li>
+					<li className="list-none">công ty <strong>đang thay đổi ngành công nghiệp này</strong></li>
+			
+				</ul>
+			
+
+			<p className="margin-top-20">Ví dụ 5:</p>
+
+			<p className="margin-top-20 text-indent-whole">Dạng đầy đủ</p>
+			
+				<ul className="list-square">
+			
+					<li>the students <strong>who were selected</strong></li>
+					<li className="list-none">những học sinh <strong>người mà đã được chọn</strong></li>
 			
 				</ul>
 
-			<p className="margin-top-20">Dạng rút gọn</p>
+			<p className="margin-top-20 text-indent-whole">Dạng rút gọn</p>
 			
 				<ul className="list-square">
 			
-					<li>the idea discussed</li>
-					<li className="list-none">ý tưởng được thảo luận</li>
-			
-				</ul>
-
-
-			<p className="margin-top-20">Dạng đầy đủ</p>
-			
-				<ul className="list-square">
-			
-					<li>the company that is changing the industry</li>
-					<li className="list-none">công ty mà đang thay đổi ngành công nghiệp này</li>
-			
-				</ul>
-		
-			<p className="margin-top-20">Dạng rút gọn</p>
-			
-				<ul className="list-square">
-			
-					<li>the company changing the industry</li>
-					<li className="list-none">công ty đang thay đổi ngành công nghiệp này</li>
-			
-				</ul>
-
-
-			<p className="margin-top-20">Dạng đầy đủ</p>
-			
-				<ul className="list-square">
-			
-					<li>the students who were selected</li>
-					<li className="list-none">những học sinh người mà đã được chọn</li>
-			
-				</ul>
-
-			<p className="margin-top-20">Dạng rút gọn</p>
-			
-				<ul className="list-square">
-			
-					<li>the students selected</li>
-					<li className="list-none">những học sinh được chọn</li>
+					<li>the students <strong>selected</strong></li>
+					<li className="list-none">những học sinh <strong>được chọn</strong></li>
 			
 				</ul>
 			
 
 			<p className="margin-top-20">Tiếng Việt tương đương: <strong>giống hệt</strong></p>
 			
-			<p>Dạng rút gọn này xuất hiện dày đặc trong báo chí, văn học, và văn phong học thuật. Người học không nhận ra chúng là Adjective Clause nên cảm thấy xa lạ — trong khi thực ra đây là cấu trúc quen thuộc nhất của họ, chỉ mặc một bộ đồ tiếng Anh.</p>
+			<p>Dạng rút gọn này xuất hiện dày đặc trong báo chí, văn học, và văn phong học thuật.</p>
+
+			<p>Người học không nhận ra chúng là <strong>Adjective Clause</strong> nên cảm thấy xa lạ — trong khi thực ra đây là cấu trúc quen thuộc nhất của họ, chỉ mặc một bộ đồ tiếng Anh.</p>
 
 			{/* 6.  */}
 
@@ -298,7 +310,7 @@ export default function AdjPlacement5(): React.JSX.Element {
 					
 			<p className="text-indent-whole">★ <strong>Lợi thế của người Việt</strong></p>
 
-			<p className="text-indent-whole">Chức năng</p>
+			<p className="text-indent-whole">Chức năng:</p>
 
 			<p className="text-indent-whole">Mô tả, giới hạn, hoặc làm rõ một danh từ. Luôn đứng <strong>sau</strong> danh từ mà nó mô tả — đúng như cách tiếng Việt hoạt động. Đây là mệnh đề người bản ngữ dùng nhiều nhất trong văn viết và hội thoại phức tạp.</p>
 
@@ -311,12 +323,10 @@ export default function AdjPlacement5(): React.JSX.Element {
 			
 				</ul>
 
-			<p className="text-indent-whole">→ Dự án đã thay đổi mọi thứ bắt đầu trong một căn phòng nhỏ.</p>
-
 
 			<h4 className="margin-y-40">Mệnh đề 2: Adverbial Clause</h4>
 					
-			<p className="text-indent-whole">Chức năng</p>
+			<p className="text-indent-whole">Chức năng:</p>
 
 			<p className="text-indent-whole">Mô tả <strong>hoàn cảnh của hành động</strong> — khi nào, ở đâu, tại sao, với điều kiện gì, mặc dù điều gì. Linh hoạt về vị trí: có thể đứng đầu hoặc cuối câu tùy ngữ cảnh và sắc thái muốn nhấn.</p>
 
@@ -329,12 +339,10 @@ export default function AdjPlacement5(): React.JSX.Element {
 			
 				</ul>
 
-			<p className="text-indent-whole">→ Mặc dù cơ hội không nghiêng về phía họ, đội vẫn tiến lên.</p>
-
 
 			<h4 className="margin-y-40">Mệnh đề 3: Noun Clause</h4>
 					
-			<p className="text-indent-whole">Chức năng</p>
+			<p className="text-indent-whole">Chức năng:</p>
 
 			<p className="text-indent-whole">Đóng vai trò như một <strong>danh từ</strong> bên trong câu lớn hơn — làm chủ ngữ, tân ngữ, hoặc bổ ngữ. Cho phép người nói nhúng nguyên một ý kiến, sự thật, hay câu hỏi vào trong một câu khác.</p>
 
@@ -347,15 +355,15 @@ export default function AdjPlacement5(): React.JSX.Element {
 			
 				</ul>
 
-			<p className="text-indent-whole">→ Thực tế rằng ngôn ngữ định hình tư duy đã được ghi chép kỹ lưỡng.</p>
+			<p className="margin-top-20">Ba mệnh đề. Ba công cụ. Mỗi cái một chức năng rõ ràng.</p>
 
-			<p className="margin-top-20">Ba mệnh đề. Ba công cụ. Mỗi cái một chức năng rõ ràng. Khi người bản ngữ viết một câu dài và phức tạp, rất có thể họ đang kết hợp cả ba — Adjective Clause để làm rõ đối tượng, Adverbial Clause để thiết lập hoàn cảnh, Noun Clause để nhúng một ý vào câu khác.</p>
+			<p>Khi người bản ngữ viết một câu dài và phức tạp, rất có thể họ đang kết hợp cả ba — <strong>Adjective Clause</strong> để làm rõ đối tượng, <strong>Adverbial Clause</strong> để thiết lập hoàn cảnh, <strong>Noun Clause</strong> để nhúng một ý vào câu khác.</p>
 			
 				<ul className="list-square">
 			
-					<li className="margin-bottom-20 list-none">"What surprised everyone [Noun Clause] was the speed at which the company that had been struggling for years [Adjective Clause] recovered, even though the market conditions were unfavorable [Adverbial Clause]."</li>
+					<li className="margin-bottom-20 list-none">"<strong>What surprised everyone</strong> [Noun Clause] was the speed at which the company <strong>that had been struggling for years</strong> [Adjective Clause] recovered, <strong>even though the market conditions were unfavorable</strong> [Adverbial Clause]."</li>
 
-					<li className="list-none">"Những điều đã làm mọi người ngạc nhiên [Mệnh đề danh ngữ] là tốc độ mà tại đó công ty, cái mà đã đang chật vật trong nhiều năm [Mệnh đề tính ngữ], đã phục hồi, mặc dù các điều kiện thị trường đã không thuận lợi [Mệnh đề trạng ngữ]."</li>
+					<li className="list-none">"<strong>Những điều đã làm mọi người ngạc nhiên</strong> [Mệnh đề danh ngữ] là tốc độ mà tại đó công ty, <strong>cái mà đã đang chật vật trong nhiều năm</strong> [Mệnh đề tính ngữ], đã phục hồi, <strong>mặc dù các điều kiện thị trường đã không thuận lợi</strong> [Mệnh đề trạng ngữ]."</li>
 			
 				</ul>
 			
@@ -367,9 +375,13 @@ export default function AdjPlacement5(): React.JSX.Element {
 
 			<p>Hãy nghĩ về việc học bộ ba mệnh đề như học đi xe đạp, rồi xe máy, rồi ô tô. Nguyên lý cân bằng và kiểm soát tốc độ học từ xe đạp sẽ theo bạn xuyên suốt.</p>
 
-			<p><strong>Adjective Clause là chiếc xe đạp đó</strong>. Khi bạn đã cảm được cái logic "đưa đối tượng ra trước, mô tả theo sau" — cái logic giống tiếng Việt một cách đáng ngạc nhiên — não bộ bắt đầu nhận ra cùng pattern đó ở Adverbial Clause và Noun Clause. Không phải học từ đầu, mà là nhận ra một gia đình quen thuộc.</p>
+			<p><strong>Adjective Clause là chiếc xe đạp đó</strong>.</p>
 
-			<p>Người học Việt thường thấy cả ba loại mệnh đề xa lạ như nhau vì họ tiếp cận chúng như ba vật thể rời rạc, không có quan hệ gì với nhau. Nhưng khi hiểu Adjective Clause trước — khi đã cảm được cái nhịp tự nhiên của nó — hai mệnh đề còn lại sẽ rơi vào đúng chỗ của chúng một cách tự nhiên hơn nhiều.</p>
+			<p>Khi bạn đã cảm được cái logic "đưa đối tượng ra trước, mô tả theo sau" — cái logic giống tiếng Việt một cách đáng ngạc nhiên — não bộ bắt đầu nhận ra cùng pattern đó ở Adverbial Clause và Noun Clause. Không phải học từ đầu, mà là nhận ra một gia đình quen thuộc.</p>
+
+			<p>Người học Việt thường thấy cả ba loại mệnh đề xa lạ như nhau vì họ tiếp cận chúng như ba vật thể rời rạc, không có quan hệ gì với nhau.</p>
+
+			<p>Nhưng khi hiểu <strong>Adjective Clause</strong> trước — khi đã cảm được cái nhịp tự nhiên của nó — hai mệnh đề còn lại sẽ rơi vào đúng chỗ của chúng một cách tự nhiên hơn nhiều.</p>
 
 			{/* 8.  */}
 
@@ -386,7 +398,7 @@ export default function AdjPlacement5(): React.JSX.Element {
 					
 			<p className="text-indent-whole">Thay vì học thuộc công thức, hãy nhận ra cấu trúc quen thuộc</p>
 
-			<p className="text-indent-whole">Adjective Clause không phải là cấu trúc ngoại lai cần học từ đầu. Đó là cấu trúc tiếng Việt mặc áo tiếng Anh. Khi nhìn nhận đúng, tốc độ tiếp thu tăng lên đáng kể.</p>
+			<p className="text-indent-whole"><strong>Adjective Clause</strong> không phải là cấu trúc ngoại lai cần học từ đầu. Đó là cấu trúc tiếng Việt mặc áo tiếng Anh. Khi nhìn nhận đúng, tốc độ tiếp thu tăng lên đáng kể.</p>
 
 			<p>Đây không phải điểm yếu cần khắc phục. Đây là lợi thế bị bỏ qua quá lâu — một lợi thế mà nhiều người học tiếng Anh ở các nước Đông Nam Á khác không có, chỉ vì ngôn ngữ mẹ đẻ của họ không có cùng cấu trúc câu phức.</p>
 
@@ -396,15 +408,19 @@ export default function AdjPlacement5(): React.JSX.Element {
 
 			<p>Không cần học lại từ đầu. Chỉ cần thay đổi một cách nhìn.</p>
 
-			<p>Khi đọc tiếng Anh, hãy chủ động tìm danh từ chính trong câu. Sau đó nhìn vào những gì đứng sau nó và hỏi: "<strong>Phần này đang làm gì</strong> — <strong>mô tả danh từ</strong>, <strong>mô tả hành động</strong>, <strong>hay nhúng một ý vào câu</strong>?" Khi câu hỏi đó trở thành bản năng, bạn đang đọc tiếng Anh theo đúng cách người bản ngữ viết nó.</p>
+			<p>Khi đọc tiếng Anh, hãy chủ động tìm danh từ chính trong câu. Sau đó nhìn vào những gì đứng sau nó và hỏi:</p>
 
-			<p>Khi viết, hãy thử thả Adjective Clause sau danh từ — đúng như cách bạn nói trong tiếng Việt — thay vì cố nhồi mọi thứ vào một tính từ ngắn đặt trước. Câu văn sẽ tự nhiên hơn, có chiều sâu hơn, và — đây là điều thú vị — sẽ nghe "Tây" hơn, vì đó chính xác là cách người bản ngữ viết.</p>
+			<p><strong>Phần này đang làm gì</strong> — <strong>mô tả danh từ</strong>, <strong>mô tả hành động</strong>, <strong>hay nhúng một ý vào câu</strong>?</p>
+
+			<p>Khi câu hỏi đó trở thành bản năng, bạn đang đọc tiếng Anh theo đúng cách người bản ngữ viết nó.</p>
+
+			<p>Khi viết, hãy thử thả <strong>Adjective Clause</strong> sau danh từ — đúng như cách bạn nói trong tiếng Việt — thay vì cố nhồi mọi thứ vào một tính từ ngắn đặt trước. Câu văn sẽ tự nhiên hơn, có chiều sâu hơn, và — đây là điều thú vị — sẽ nghe "Tây" hơn, vì đó chính xác là cách người bản ngữ viết.</p>
 
 			{/* Để kết lại */}
 
 			<h3 className="margin-y-50 text-center">Để kết lại</h3>
 
-			<p>Tiếng Anh nâng cao vận hành theo cấu trúc <strong>Danh từ</strong> + <strong>Tính từ mở rộng</strong> — đúng như tiếng Việt. Adjective Clause là biểu hiện rõ nhất của logic đó, và nó là công cụ người bản ngữ dùng liên tục trong mọi văn bản phức tạp.</p>
+			<p>Tiếng Anh nâng cao vận hành theo cấu trúc <strong>Danh từ</strong> + <strong>Tính từ mở rộng</strong> — đúng như tiếng Việt. <strong>Adjective Clause</strong> là biểu hiện rõ nhất của logic đó, và nó là công cụ người bản ngữ dùng liên tục trong mọi văn bản phức tạp.</p>
 
 			<p>Khi người Việt nhận ra điều này và bắt đầu chủ động dùng Adjective Clause, không chỉ kỹ năng viết cải thiện — <strong>mà Adverbial Clause và Noun Clause cũng sẽ quen dần theo</strong>. Vì khi bạn đã hiểu một, bạn đã hiểu nguyên lý chung của cả ba.</p>
 

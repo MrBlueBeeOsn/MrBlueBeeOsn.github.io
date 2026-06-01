@@ -103,7 +103,7 @@ export default function AdjPlacement2(): React.JSX.Element {
 			
 			<p className="margin-top-20">Tiếng Việt của ta nghiêng hẳn về vế thứ nhất: </p>
 
-			<p>Nhấn mạnh danh từ, mô tả sau.</p>
+			<p className="margin-y-20"><strong>Nhấn mạnh danh từ</strong>, <strong>mô tả sau</strong>.</p>
 
 			<p>Và đây chính là chìa khóa.</p>
 
@@ -119,9 +119,9 @@ export default function AdjPlacement2(): React.JSX.Element {
 				<ul className="list-square">
 			
 					<li>A beautiful house.</li>
-					<li className="margin-bottom-20 list-none">Đây là một cụm danh từ.</li>
+					<li className="margin-bottom-20 list-none">Một ngôi nhà đẹp</li>
 
-					<li className="list-none">Một ngôi nhà đẹp (đây là một cụm danh từ).</li>
+					<li className="list-none">Đây là một cụm danh từ.</li>
 			
 				</ul>
 
@@ -142,13 +142,13 @@ export default function AdjPlacement2(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>The man who helped me yesterday is my uncle.</li>
-					<li className="margin-bottom-20 list-none">Người đàn ông người mà đã giúp tôi ngày hôm qua là chú/bác của tôi.</li>
+					<li>The man <strong>who helped me yesterday</strong> is my uncle.</li>
+					<li className="margin-bottom-20 list-none">Người đàn ông <strong>người mà đã giúp tôi ngày hôm qua</strong> là chú/bác của tôi.</li>
 			
-					<li>The book I borrowed from the library is a masterpiece.</li>
-					<li className="margin-bottom-20 list-none">Cuốn sách mà tôi mượn từ thư viện là một kiệt tác.</li>
+					<li>The book <strong>I borrowed from the library</strong> is a masterpiece.</li>
+					<li className="margin-bottom-20 list-none">Cuốn sách <strong>mà tôi mượn từ thư viện</strong> là một kiệt tác.</li>
 			
-					<li>A person who never gives up will eventually succeed.</li>
+					<li>A person <strong>who never gives up</strong> will eventually succeed.</li>
 					<li className="list-none">Một người người mà không bao giờ bỏ cuộc cuối cùng sẽ thành công.</li>
 			
 				</ul>
@@ -157,7 +157,7 @@ export default function AdjPlacement2(): React.JSX.Element {
 
 			<p>Bạn thấy không? Trật tự y hệt tiếng Việt:</p>
 
-			<p><strong>Danh từ</strong> → <strong>Mệnh đề mô tả</strong>.</p>
+			<p className="margin-y-20"><strong>Danh từ</strong> → <strong>Mệnh đề mô tả</strong>.</p>
 
 			<p>Trong tiếng Anh, phần mô tả ấy được gọi là <strong>Adjective Clause</strong> – mệnh đề tính từ.</p>
 
@@ -194,7 +194,7 @@ export default function AdjPlacement2(): React.JSX.Element {
 			
 				</ul>
 
-			<p className="margin-top-20">Ví dụ đỉnh cao:</p>
+			<p className="margin-top-20 text-indent-whole">Ví dụ đỉnh cao:</p>
 			
 				<ul className="list-square">
 			
@@ -203,7 +203,7 @@ export default function AdjPlacement2(): React.JSX.Element {
 			
 				</ul>
 			
-			<p className="margin-top-20">Hoàn toàn giống tiếng Việt: danh từ → mệnh đề dài</p>
+			<p className="margin-top-20 text-indent-whole">Hoàn toàn giống tiếng Việt: danh từ → mệnh đề dài</p>
 
 
 			<h4 className="margin-y-40">2. Adverbial Clause – Mệnh đề trạng ngữ (mượn tư duy từ Adjective Clause)</h4>
@@ -232,7 +232,7 @@ export default function AdjPlacement2(): React.JSX.Element {
 			
 				</ul>
 			
-			<p className="margin-top-20">Bạn thấy không? Trật tự trong tiếng Việt cũng y hệt: lý do → kết quả.</p>
+			<p className="margin-top-20 text-indent-whole">Bạn thấy không? Trật tự trong tiếng Việt cũng y hệt: lý do → kết quả.</p>
 
 
 			<h4 className="margin-y-40">3. Noun Clause – Mệnh đề danh từ (viên ngọc quý của sự tinh tế)</h4>
@@ -352,11 +352,11 @@ export default function AdjPlacement2(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>Danh từ trước</li>
-					<li className="margin-bottom-20 list-none">→ Nhấn mạnh danh từ (giống Việt, dùng Adjective Clause).</li>
+					<li><strong>Danh từ trước</strong></li>
+					<li className="margin-bottom-20 list-none">→ Nhấn mạnh <strong>danh từ</strong> (giống Việt, dùng Adjective Clause).</li>
 			
-					<li>Tính từ trước</li>
-					<li className="list-none">→ Nhấn mạnh tính từ (câu ngắn, học thuộc công thức).</li>
+					<li><strong>Tính từ trước</strong></li>
+					<li className="list-none">→ Nhấn mạnh <strong>tính từ</strong> (câu ngắn, học thuộc công thức).</li>
 			
 				</ul>
 			
@@ -366,9 +366,9 @@ export default function AdjPlacement2(): React.JSX.Element {
 
 			<p>Bởi vì, rốt cuộc, thứ ngăn bạn thành thạo tiếng Anh không phải là ngữ pháp – mà chính là việc chưa nhận ra mình đã giỏi sẵn từ đầu.</p>
 
-			<p>Hãy <strong>là người Việt đầu tiên</strong> trong khu vực <strong> biết dùng lợi thế này</strong> .</p>
+			{/* <p>Hãy <strong>là người Việt đầu tiên</strong> trong khu vực <strong> biết dùng lợi thế này</strong> .</p> */}
 
-			<p>Và <strong> cười nhẹ một mình</strong>  khi đọc những bài viết tầm thường về “<strong> mệnh đề quan hệ</strong> ”.</p>
+			{/* <p>Và <strong> cười nhẹ một mình</strong>  khi đọc những bài viết tầm thường về “<strong> mệnh đề quan hệ</strong> ”.</p> */}
 			
 
 			<div className="viewcounter">

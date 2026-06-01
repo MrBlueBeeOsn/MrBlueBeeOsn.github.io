@@ -54,7 +54,7 @@ export default function AdjPlacement7(): React.JSX.Element {
 
 			<p>Họ chỉ quen hai mẫu đơn giản:</p>
 
-			<p className="margin-top-20">Tính từ đứng trước danh từ</p>
+			<p className="margin-top-20"><strong>Tính từ đứng trước danh từ</strong></p>
 			
 				<ul className="list-square">
 			
@@ -63,7 +63,7 @@ export default function AdjPlacement7(): React.JSX.Element {
 			
 				</ul>
 			
-			<p className="margin-top-20">Tính từ đứng sau to be</p>
+			<p className="margin-top-20"><strong>Tính từ đứng sau to be</strong></p>
 			
 				<ul className="list-square">
 			
@@ -73,11 +73,23 @@ export default function AdjPlacement7(): React.JSX.Element {
 				</ul>
 		
 
-			<p>Nên khi gặp câu dài, câu văn phức tạp, họ dễ nản và nghĩ rằng tiếng Anh đòi hỏi tư duy lạ lẫm.</p>
+			<p className="margin-top-20">Nên khi gặp câu dài, câu văn phức tạp, họ dễ nản và nghĩ rằng tiếng Anh đòi hỏi tư duy lạ lẫm.</p>
 
-			<p>Thực tế, có một sự thật tinh tế mà ít người nhận ra: ở tiếng Anh, phần mô tả đứng sau danh từ — mệnh đề hoặc cụm từ đóng vai trò như tính từ — lại là công cụ được người bản ngữ dùng rất thường xuyên, đặc biệt trong viết luận và giao tiếp nâng cao.</p>
+			<p>Thực tế, có một sự thật tinh tế mà ít người nhận ra:</p>
+			
+				<ul className="list-square">
+			
+					<li>Ở tiếng Anh, <strong>phần mô tả đứng sau danh từ</strong>.</li>
+			
+					<li><strong>Mệnh đề</strong> hoặc <strong>cụm từ</strong> đóng vai trò như <strong>tính từ</strong>.</li>
+			
+				</ul>
+			
+			<p className="margin-top-20">Lại là công cụ được người bản ngữ dùng rất thường xuyên, đặc biệt trong viết luận và giao tiếp nâng cao.</p>
 
-			<p>Và đây chính là điểm tương đồng mạnh mẽ nhất với tiếng Việt: danh từ trước — mô tả sau.</p>
+			<p>Và đây chính là điểm tương đồng mạnh mẽ nhất với tiếng Việt:</p>
+
+			<p className="margin-y-20"><strong>Danh từ trước</strong> — <strong>mô tả sau</strong>.</p>
 			
 			<p>Khi bạn hiểu rõ điều này, bạn không chỉ “biến tiếng Anh thành quen thuộc” mà còn sở hữu một chìa khóa giúp viết mạch lạc, nói tự nhiên và vượt qua rào cản tâm lý khiến nhiều người mãi dậm chân tại chỗ.</p>
 
@@ -86,24 +98,38 @@ export default function AdjPlacement7(): React.JSX.Element {
 
 			<h3 className="margin-y-50 text-center">1. Danh từ trước — mô tả sau</h3>
 
-			<p>Điểm tương đồng khiến tiếng Anh “giống tiếng Việt hơn bạn nghĩ”</p>
+			<p>Điểm tương đồng khiến tiếng Anh “<strong>giống tiếng Việt hơn bạn nghĩ</strong>”</p>
 
-			<p>Trong tiếng Việt, chúng ta đặt mô tả sau danh từ một cách tự nhiên: “người đến muộn”, “ngôi nhà màu đỏ”, “cuốn sách tôi mua hôm qua”.</p>
+			<p>Trong tiếng Việt, chúng ta đặt mô tả sau danh từ một cách tự nhiên:</p>
 
-			<p>Ở tiếng Anh, khi cần cung cấp thông tin chi tiết, mở rộng ý hoặc lập luận chặt chẽ, người bản ngữ cũng làm đúng như vậy: đưa danh từ ra trước, rồi thả một chuỗi mô tả phía sau bằng mệnh đề hoặc cụm phân từ.</p>
+			<p className="margin-top-20"></p>
+			
+				<ul className="list-square">
+			
+					<li>người đến muộn</li>
+			
+					<li>ngôi nhà màu đỏ</li>
+			
+					<li>cuốn sách tôi mua hôm qua</li>
+			
+				</ul>
+			
+			<p className="margin-top-20">Ở tiếng Anh, khi cần cung cấp thông tin chi tiết, mở rộng ý hoặc lập luận chặt chẽ, người bản ngữ cũng làm đúng như vậy:</p>
+
+			<p><strong>Đưa danh từ ra trước</strong>, rồi <strong>thả một chuỗi mô tả phía sau</strong> bằng mệnh đề hoặc cụm phân từ.</p>
 
 			<p className="margin-top-20">Ví dụ:</p>
 			
 				<ul className="list-square">
 			
-					<li>The students who study hard get good grades.</li>
-					<li className="margin-bottom-20 list-none">Những học sinh người mà học tập chăm chỉ thì đạt điểm tốt.</li>
+					<li>The students <strong>who study hard</strong> get good grades.</li>
+					<li className="margin-bottom-20 list-none">Những học sinh <strong>người mà học tập chăm chỉ</strong> thì đạt điểm tốt.</li>
 			
-					<li>I bought a house built in 1990.</li>
-					<li className="margin-bottom-20 list-none">Tôi đã mua một ngôi nhà được xây dựng vào năm 1990.</li>
+					<li>I bought a house <strong>built in 1990</strong>.</li>
+					<li className="margin-bottom-20 list-none">Tôi đã mua một ngôi nhà <strong>được xây dựng vào năm 1990</strong>.</li>
 			
-					<li>The man standing by the door is my uncle.</li>
-					<li className="list-none">Người đàn ông đang đứng cạnh cửa là chú/bác của tôi.</li>
+					<li>The man <strong>standing by the door</strong> is my uncle.</li>
+					<li className="list-none">Người đàn ông <strong>đang đứng cạnh cửa</strong> là chú/bác của tôi.</li>
 			
 				</ul>
 			
@@ -124,9 +150,11 @@ export default function AdjPlacement7(): React.JSX.Element {
 			
 			<p className="margin-top-20">Không phải là “thứ gì đó xa lạ”</p>
 
-			<p>Chúng đơn giản là tính từ dài, tức mệnh đề tính từ (adjective clause), đóng vai trò mô tả danh từ đứng ngay trước.</p>
+			<p>Chúng đơn giản là <strong>tính từ dài</strong>, tức <strong>mệnh đề tính từ</strong> (<strong>adjective clause</strong>), đóng vai trò mô tả danh từ đứng ngay trước.</p>
 			
-			<p>Về chức năng và vị trí, tiếng Anh ở đây hoàn toàn đồng bộ với tiếng Việt: danh từ trước — mô tả sau.</p>
+			<p>Về chức năng và vị trí, tiếng Anh ở đây hoàn toàn đồng bộ với tiếng Việt:</p>
+
+			<p className="margin-y-20"><strong>Danh từ trước</strong> — <strong>mô tả sau</strong>.</p>
 
 			{/* 2.  */}
 
@@ -134,13 +162,13 @@ export default function AdjPlacement7(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>Rõ ràng và trực tiếp:</li>
+					<li><strong>Rõ ràng và trực tiếp</strong>:</li>
 					<li className="margin-bottom-20 list-none">Mở đầu bằng danh từ giúp người nghe/đọc biết ngay đối tượng chính, tránh lan man.</li>
 			
-					<li>Chứa thông tin chi tiết:</li>
+					<li><strong>Chứa thông tin chi tiết</strong>:</li>
 					<li className="margin-bottom-20 list-none">Mệnh đề theo sau danh từ cho phép truyền tải nhiều dữ kiện (ai, làm gì, ở đâu, khi nào, vì sao), rất hữu ích khi viết luận, báo chí, hoặc diễn đạt lập luận.</li>
 			
-					<li>Tự nhiên và linh hoạt:</li>
+					<li><strong>Tự nhiên và linh hoạt</strong>:</li>
 					<li className="list-none">Mệnh đề có thể được rút gọn thành cụm phân từ để câu ngắn gọn mà vẫn đầy đủ ý — giúp văn phong trở nên mượt mà, chuyên nghiệp.</li>
 			
 				</ul>
@@ -150,9 +178,9 @@ export default function AdjPlacement7(): React.JSX.Element {
 
 			<h3 className="margin-y-50 text-center">3. Bí mật khiến người Việt vượt trội trong khu vực Đông Nam Á</h3>
 
-			<p>Người Việt có sẵn lợi thế lớn: thói quen đặt mô tả sau danh từ trong tiếng mẹ đẻ.</p>
+			<p>Người Việt có sẵn lợi thế lớn: thói quen <strong>đặt mô tả sau danh từ</strong> trong tiếng mẹ đẻ.</p>
 
-			<p>Khi hiểu và thực hành mệnh đề tính từ như một “tính từ dài” đặt sau danh từ, bạn sẽ nhanh hơn nhiều so với người học ở các nước chưa có lợi thế tương tự.</p>
+			<p>Khi hiểu và thực hành <strong>mệnh đề tính</strong> từ như một “<strong>tính từ dài</strong>” đặt sau danh từ, bạn sẽ nhanh hơn nhiều so với người học ở các nước chưa có lợi thế tương tự.</p>
 
 			<p>Điều này giúp bạn viết luận sắc bén, nói tự tin và tiếp cận văn viết nâng cao dễ dàng hơn.</p>
 
@@ -164,11 +192,11 @@ export default function AdjPlacement7(): React.JSX.Element {
 
 			<p>Nắm mệnh đề tính từ — hai mệnh đề còn lại sẽ “tự động” quen</p>
 
-			<p>Khi bạn đã thành thạo mệnh đề tính từ (mệnh đề mô tả sau danh từ), hai mệnh đề còn lại — mệnh đề trạng ngữ (Adverbial Clause) và mệnh đề danh từ (Noun Clause) — sẽ trở nên dễ tiếp thu hơn rất nhiều.</p>
+			<p>Khi bạn đã thành thạo <strong>mệnh đề tính từ</strong> (<strong>mệnh đề mô tả</strong> sau danh từ), hai mệnh đề còn lại — <strong>mệnh đề trạng ngữ</strong> (<strong>Adverbial Clause</strong>) và <strong>mệnh đề danh từ</strong> (<strong>Noun Clause</strong>) — sẽ trở nên dễ tiếp thu hơn rất nhiều.</p>
 
 			<p>Vì bạn đã có thói quen nhận diện chức năng của từng phần trong câu (ai, làm gì, ở đâu, khi nào, vì sao, như thế nào), bạn sẽ hiểu nhanh vai trò của các mệnh đề khác và dùng chúng linh hoạt trong viết luận và giao tiếp nâng cao.</p>
 
-			<p>Đây là lợi thế chiến lược: nắm vững mệnh đề tính từ trước, hai mệnh đề còn lại sẽ theo sau một cách tự nhiên.</p>
+			<p>Đây là lợi thế chiến lược: nắm vững <strong>mệnh đề tính từ</strong> trước, hai mệnh đề còn lại sẽ theo sau một cách tự nhiên.</p>
 
 			{/* 5.  */}
 
@@ -193,7 +221,7 @@ export default function AdjPlacement7(): React.JSX.Element {
 			
 				</ul>
 			
-			<p className="margin-top-20">Hãy nghĩ “đây là phần mô tả cho danh từ” — giống tiếng Việt.</p>
+			<p className="margin-top-20 text-indent-whole">Hãy nghĩ “<strong>đây là phần mô tả cho danh từ</strong>” — giống tiếng Việt.</p>
 
 
 			<h4 className="margin-y-40">Luyện thói quen dịch theo cấu trúc:</h4>
@@ -204,8 +232,8 @@ export default function AdjPlacement7(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>the book written in 2010</li>
-					<li className="list-none">cuốn sách được viết năm 2010</li>
+					<li>the book <strong>written in 2010</strong></li>
+					<li className="list-none">cuốn sách <strong>được viết năm 2010</strong></li>
 			
 				</ul>
 			
@@ -214,21 +242,21 @@ export default function AdjPlacement7(): React.JSX.Element {
 
 			<h4 className="margin-y-40">Học cách rút gọn:</h4>
 					
-			<p className="text-indent-whole">Biết chuyển mệnh đề dài thành cụm phân từ</p>
+			<p className="text-indent-whole">Biết chuyển <strong>mệnh đề dài</strong> thành <strong>cụm phân từ</strong></p>
 
 			<p className="text-indent-whole">Ví dụ</p>
 			
 				<ul className="list-square">
 			
-					<li>the students who were selected</li>
-					<li className="margin-bottom-20 list-none">những học sinh người mà đã được chọn</li>
+					<li>the students <strong>who were selected</strong></li>
+					<li className="margin-bottom-20 list-none">những học sinh <strong>người mà đã được chọn</strong></li>
 			
-					<li>→ the students selected</li>
-					<li className="list-none">→ những học sinh được chọn</li>
+					<li>→ the students <strong>selected</strong></li>
+					<li className="list-none">→ những học sinh <strong>được chọn</strong></li>
 			
 				</ul>
 			
-			<p className="margin-top-20">Giúp câu ngắn gọn, tự nhiên và chuyên nghiệp.</p>
+			<p className="margin-top-20 text-indent-whole">Giúp câu ngắn gọn, tự nhiên và chuyên nghiệp.</p>
 
 
 			<h4 className="margin-y-40">Đọc văn viết nhiều:</h4>
@@ -240,11 +268,17 @@ export default function AdjPlacement7(): React.JSX.Element {
 
 			<h3 className="margin-y-50 text-center">Kết luận</h3>
 
-			<p>Đừng để tiếng Anh trở thành “mê cung” chỉ vì bạn nghĩ nó khác hoàn toàn tiếng Việt. Ở cấp độ cao — đặc biệt trong văn viết và giao tiếp nâng cao — tiếng Anh vận hành theo nguyên tắc “Danh từ trước — mô tả sau”, giống tiếng Việt.</p>
+			<p>Đừng để tiếng Anh trở thành “mê cung” chỉ vì bạn nghĩ nó khác hoàn toàn tiếng Việt.</p>
 
-			<p>Hiểu và thực hành mệnh đề tính từ như một “tính từ dài” đặt sau danh từ sẽ giúp bạn giảm bớt rào cản tâm lý, viết mạch lạc hơn và tiến bộ nhanh hơn trong tiếng Anh.</p>
+			<p>Ở cấp độ cao — đặc biệt trong văn viết và giao tiếp nâng cao — tiếng Anh vận hành theo nguyên tắc:</p>
 
-			<p>Khi bạn nắm vững mệnh đề tính từ trước, hai mệnh đề còn lại — Adverbial Clause và Noun Clause — sẽ trở nên quen thuộc, và bạn sẽ thấy mình làm chủ tiếng Anh một cách tự nhiên và đẳng cấp.</p>
+			<p className="margin-y-20"><strong>Danh từ trước</strong> — <strong>mô tả sau</strong>.</p>
+
+			<p>Giống tiếng Việt.</p>
+
+			<p>Hiểu và thực hành mệnh đề tính từ như một “<strong>tính từ dài</strong>” đặt sau danh từ sẽ giúp bạn giảm bớt rào cản tâm lý, viết mạch lạc hơn và tiến bộ nhanh hơn trong tiếng Anh.</p>
+
+			<p>Khi bạn nắm vững <strong>mệnh đề tính từ</strong> trước, hai mệnh đề còn lại — <strong>Adverbial Clause</strong> và <strong>Noun Clause</strong> — sẽ trở nên quen thuộc, và bạn sẽ thấy mình làm chủ tiếng Anh một cách tự nhiên và đẳng cấp.</p>
 			
 
 			<div className="viewcounter">

@@ -77,9 +77,9 @@ export default function AdjPlacement4(): React.JSX.Element {
 
 			<p>Trong khi tiếng Việt lại nói:</p>
 
-			<p>Danh từ đứng trước.</p>
+			<p><strong>Danh từ đứng trước</strong>.</p>
 
-			<p>Tính từ đứng sau.</p>
+			<p><strong>Tính từ đứng sau</strong>.</p>
 
 			<p className="margin-top-20">Sự khác biệt đó lặp đi lặp lại đủ lâu để người học hình thành một niềm tin gần như mặc định:</p>
 			
@@ -92,7 +92,7 @@ export default function AdjPlacement4(): React.JSX.Element {
 			<p>Và đây là lúc nhiều người nhận ra một sự thật bất ngờ:</p>
 			
 				<ul className="list-square">
-					<li className="list-none">Tiếng Anh càng nâng cao, nó càng giống tiếng Việt hơn.</li>
+					<li className="list-none"><strong>Tiếng Anh càng nâng cao</strong>, <strong>nó càng giống tiếng Việt hơn</strong>.</li>
 				</ul>
 			
 
@@ -133,15 +133,13 @@ export default function AdjPlacement4(): React.JSX.Element {
 			
 			<p className="margin-top-20">Khi người bản ngữ muốn diễn đạt những ý tưởng phức tạp hơn, họ không còn phụ thuộc nhiều vào các tính từ ngắn nữa.</p>
 
-			<p>Thay vào đó, họ bắt đầu mở rộng thông tin.</p>
+			<p>Thay vào đó, họ bắt đầu <strong>mở rộng thông tin</strong>.</p>
 
-			<p>Họ biến một từ mô tả thành cả một cụm mô tả.</p>
+			<p>Họ biến một từ mô tả thành cả một <strong>cụm mô tả</strong>.</p>
 
-			<p>Rồi biến một cụm mô tả thành cả một mệnh đề mô tả.</p>
+			<p>Rồi biến một cụm mô tả thành cả một <strong>mệnh đề mô tả</strong>.</p>
 
-			<p>Và đó chính là lúc một cấu trúc cực kỳ quan trọng xuất hiện:</p>
-
-			<p><strong>Adjective Clause</strong>.</p>
+			<p>Và đó chính là lúc một cấu trúc cực kỳ quan trọng xuất hiện: <strong>Adjective Clause</strong>.</p>
 
 
 			{/* 2.  */}
@@ -152,11 +150,11 @@ export default function AdjPlacement4(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>a smart student</li>
-					<li className="margin-bottom-20 list-none">một học sinh thông minh</li>
+					<li>a <strong>smart</strong> student</li>
+					<li className="margin-bottom-20 list-none">một học sinh <strong>thông minh</strong></li>
 			
-					<li>the student who studies every day</li>
-					<li className="list-none">học sinh người mà học mỗi ngày</li>
+					<li>the student <strong>who studies every day</strong></li>
+					<li className="list-none">học sinh <strong>người mà học mỗi ngày</strong></li>
 			
 				</ul>
 			
@@ -164,31 +162,36 @@ export default function AdjPlacement4(): React.JSX.Element {
 
 			<p>Nhưng cách tư duy hoàn toàn khác nhau.</p>
 
-			<p>Câu thứ nhất nhấn mạnh đặc điểm.</p>
+			<p>Câu thứ nhất nhấn mạnh đặc điểm:</p>
 
-			<p>Người nghe nhận thông tin "smart" trước.</p>
-
-			<p>Sau đó mới biết đối tượng là ai.</p>
-
-			<p>Trong khi đó, câu thứ hai nhấn mạnh đối tượng.</p>
-
-			<p>Trong khi đó, câu thứ hai nhấn mạnh đối tượng.</p>
+			<p className="margin-top-20"></p>
+			
+				<ul className="list-square">
+			
+					<li>Người nghe nhận thông tin "smart" trước.</li>
+			
+					<li>Sau đó mới biết đối tượng là ai.</li>
+			
+				</ul>
+			
+			<p className="margin-top-20">Trong khi đó, câu thứ hai nhấn mạnh đối tượng.</p>
 
 			<p className="margin-top-20">Người nghe biết ngay:</p>
 			
 				<ul className="list-square">
-					<li className="list-none">Chúng ta đang nói về một học sinh.</li>
+
+					<li>Chúng ta đang nói về một học sinh.</li>
+					<li>Sau đó mới nhận thêm thông tin mô tả.</li>
+
 				</ul>
 			
-			<p className="margin-top-20">Sau đó mới nhận thêm thông tin mô tả.</p>
-
 			<p className="margin-top-20">Đây là một nguyên tắc cực kỳ quan trọng:</p>
 			
 				<ul className="list-square">
 			
-					<li>Tính từ đứng trước danh từ thường nhấn mạnh đặc điểm.</li>
+					<li><strong>Tính từ</strong> đứng trước danh từ thường <strong>nhấn mạnh đặc điểm</strong>.</li>
 			
-					<li>Danh từ đứng trước phần mô tả thường nhấn mạnh đối tượng.</li>
+					<li><strong>Danh từ</strong> đứng trước phần mô tả thường <strong>nhấn mạnh đối tượng</strong>.</li>
 			
 				</ul>
 			
@@ -224,27 +227,23 @@ export default function AdjPlacement4(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>the man wearing a black jacket</li>
-					<li className="margin-bottom-20 list-none">người đàn ông đang mặc chiếc áo khoác đen</li>
+					<li>the man <strong>wearing a black jacket</strong></li>
+					<li className="margin-bottom-20 list-none">người đàn ông <strong>đang mặc chiếc áo khoác đen</strong></li>
 
-					<li>the girl who lives next door</li>
-					<li className="margin-bottom-20 list-none">cô gái người mà sống ở nhà bên cạnh</li>
+					<li>the girl <strong>who lives next door</strong></li>
+					<li className="margin-bottom-20 list-none">cô gái <strong>người mà sống ở nhà bên cạnh</strong></li>
 			
-					<li>the student who studies every day</li>
-					<li className="margin-bottom-20 list-none">học sinh người mà học mỗi ngày</li>
+					<li>the student <strong>who studies every day</strong></li>
+					<li className="margin-bottom-20 list-none">học sinh <strong>người mà học mỗi ngày</strong></li>
 			
-					<li>the book that I bought yesterday</li>
-					<li className="list-none">cuốn sách mà tôi đã mua hôm qua</li>
+					<li>the book <strong>that I bought yesterday</strong></li>
+					<li className="list-none">cuốn sách <strong>mà tôi đã mua hôm qua</strong></li>
 			
 				</ul>
 			
-			<p className="margin-top-20">Đối tượng trước.</p>
+			<p className="margin-top-20"><strong>Đối tượng trước</strong>, <strong>thông tin sau</strong>.</p>
 
-			<p>Thông tin sau.</p>
-
-			<p>Danh từ trước.</p>
-
-			<p>Mô tả sau.</p>
+			<p><strong>Danh từ trước</strong>, <strong>mô tả sau</strong>.</p>
 
 			<p>Đột nhiên, tiếng Anh không còn xa lạ nữa.</p>
 
@@ -259,17 +258,21 @@ export default function AdjPlacement4(): React.JSX.Element {
 
 			<p>Adjective Clause không đơn thuần là một cấu trúc.</p>
 
-			<p>Nó là một bước chuyển tư duy.</p>
+			<p className="margin-top-20"></p>
+			
+				<ul className="list-square">
+			
+					<li>Nó là một bước chuyển tư duy.</li>
+			
+					<li>Nó dạy người học cách mở rộng ý tưởng.</li>
+			
+					<li>Nó dạy người học cách thêm thông tin mà không cần tạo ra hàng loạt câu ngắn rời rạc.</li>
 
-			<p>Nó dạy người học cách mở rộng ý tưởng.</p>
-
-			<p>Nó dạy người học cách thêm thông tin mà không cần tạo ra hàng loạt câu ngắn rời rạc.</p>
-
-			<p>Nó dạy người học cách viết giống người bản ngữ hơn.</p>
-
-			<p>Và quan trọng nhất:</p>
-
-			<p>Nó tạo ra cây cầu dẫn đến toàn bộ thế giới câu phức.</p>
+					<li>Nó dạy người học cách viết giống người bản ngữ hơn.</li>
+			
+				</ul>
+			
+			<p className="margin-top-20">Và quan trọng nhất: <strong>Nó tạo ra cây cầu dẫn đến toàn bộ thế giới câu phức</strong>.</p>
 
 
 			{/* 5.  */}
@@ -278,7 +281,7 @@ export default function AdjPlacement4(): React.JSX.Element {
 
 			<p>Nếu quan sát tiếng Anh học thuật, báo chí, sách chuyên ngành hay các bài viết chất lượng cao, bạn sẽ thấy phần lớn nội dung được xây dựng dựa trên ba loại mệnh đề.</p>
 
-			<h4 className="margin-y-40">Adjective Clause</h4>
+			<h4 className="margin-y-40">1. Adjective Clause</h4>
 					
 			<p className="text-indent-whole">Dùng để mở rộng danh từ.</p>
 
@@ -286,21 +289,21 @@ export default function AdjPlacement4(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>the student who studies every day</li>
-					<li className="margin-bottom-20 list-none">học sinh người mà học mỗi ngày</li>
+					<li>the student <strong>who studies every day</strong></li>
+					<li className="margin-bottom-20 list-none">học sinh <strong>người mà học mỗi ngày</strong></li>
 			
-					<li>the company that hired him</li>
-					<li className="margin-bottom-20 list-none">công ty mà đã thuê anh ấy</li>
+					<li>the company <strong>that hired him</strong></li>
+					<li className="margin-bottom-20 list-none">công ty <strong>mà đã thuê anh ấy</strong></li>
 			
-					<li>the book that changed my life</li>
-					<li className="list-none">cuốn sách mà đã thay đổi cuộc đời tôi</li>
+					<li>the book <strong>that changed my life</strong></li>
+					<li className="list-none">cuốn sách <strong>mà đã thay đổi cuộc đời tôi</strong></li>
 			
 				</ul>
 			
 			<p className="margin-top-20 text-indent-whole">Nó giúp chúng ta mô tả đối tượng.</p>
 
 
-			<h4 className="margin-y-40">Adverbial Clause</h4>
+			<h4 className="margin-y-40">2. Adverbial Clause</h4>
 					
 			<p className="text-indent-whole">Dùng để mở rộng hành động.</p>
 
@@ -308,13 +311,13 @@ export default function AdjPlacement4(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>because he studied hard</li>
+					<li><strong>because he studied hard</strong></li>
 					<li className="margin-bottom-20 list-none">bởi vì anh ấy đã học tập chăm chỉ</li>
 			
-					<li>although she was tired</li>
+					<li><strong>although she was tired</strong></li>
 					<li className="margin-bottom-20 list-none">mặc dù cô ấy đã mệt</li>
 			
-					<li>when the meeting ended</li>
+					<li><strong>when the meeting ended</strong></li>
 					<li className="list-none">khi cuộc họp kết thúc</li>
 			
 				</ul>
@@ -322,7 +325,7 @@ export default function AdjPlacement4(): React.JSX.Element {
 			<p className="margin-top-20 text-indent-whole">Nó giúp chúng ta giải thích nguyên nhân, thời gian, điều kiện, sự tương phản và rất nhiều mối quan hệ logic khác.</p>
 
 
-			<h4 className="margin-y-40">Noun Clause</h4>
+			<h4 className="margin-y-40">3. Noun Clause</h4>
 					
 			<p className="text-indent-whole">Dùng để biến một ý tưởng thành danh từ.</p>
 			
@@ -330,13 +333,13 @@ export default function AdjPlacement4(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>What he said surprised everyone.</li>
+					<li><strong>What he said</strong> surprised everyone.</li>
 					<li className="margin-bottom-20 list-none">Điều anh ấy nói đã làm mọi người ngạc nhiên.</li>
 			
-					<li>I know that she is right.</li>
+					<li>I know <strong>that she is right</strong>.</li>
 					<li className="margin-bottom-20 list-none">Tôi biết rằng cô ấy đúng.</li>
 			
-					<li>Whether we succeed depends on our effort.</li>
+					<li><strong>Whether we succeed</strong> depends on our effort.</li>
 					<li className="list-none">Việc chúng ta có thành công hay không phụ thuộc vào nỗ lực của chúng ta.</li>
 			
 				</ul>
@@ -352,17 +355,25 @@ export default function AdjPlacement4(): React.JSX.Element {
 
 			<p>Nó đồng bộ với cách tư duy tự nhiên của tiếng Việt:</p>
 
-			<p><strong>Danh từ trước</strong>.</p>
+			<p className="margin-y-30"><strong>Danh từ trước</strong>, <strong>thông tin mô tả sau</strong>.</p>
 
-			<p><strong>Thông tin mô tả sau</strong>.</p>
 
-			<p>Khi làm chủ được điều này, người học bắt đầu quen với việc kéo dài câu.</p>
+			<p>Khi làm chủ được điều này:</p>
 
-			<p>Họ quen với việc thêm thông tin.</p>
+			<p className="margin-top-20"></p>
+			
+				<ul className="list-square">
+			
+					<li>Người học bắt đầu quen với việc kéo dài câu.</li>
+					
+					<li>Họ quen với việc thêm thông tin.</li>
+			
+					<li>Họ quen với việc mở rộng ý tưởng.</li>
 
-			<p>Họ quen với việc mở rộng ý tưởng.</p>
-
-			<p>Và đó chính là nền tảng để tiếp cận hai mệnh đề còn lại.</p>
+			
+				</ul>
+			
+			<p className="margin-top-20">Và đó chính là nền tảng để tiếp cận hai mệnh đề còn lại.</p>
 
 			<p>Một khi bộ não đã quen với việc xử lý các cấu trúc mở rộng, Adverbial Clause và Noun Clause sẽ không còn là những khái niệm xa lạ nữa.</p>
 			
@@ -375,9 +386,8 @@ export default function AdjPlacement4(): React.JSX.Element {
 
 			<p>Nhưng trong trường hợp này, có lẽ điều ngược lại mới đúng.</p>
 			
-			<p>Người Việt đã quen với mô hình:</p>
+			<p>Người Việt đã quen với mô hình: <strong>Danh từ</strong> → <strong>Mô tả</strong></p>
 
-			<p>Danh từ → Mô tả.</p>
 
 			<p>Đó chính là nền tảng của rất nhiều câu tiếng Anh tự nhiên.</p>
 
@@ -400,21 +410,25 @@ export default function AdjPlacement4(): React.JSX.Element {
 
 			<p>Khi bước vào thế giới tiếng Anh thực sự, nơi các ý tưởng trở nên phong phú hơn và câu văn trở nên sâu sắc hơn, một mô hình khác bắt đầu xuất hiện liên tục:</p>
 
-			<p>Danh từ trước.</p>
-
-			<p>Thông tin mô tả sau.</p>
+			<p className="margin-y-20 "><strong>Danh từ trước</strong>, <strong>thông tin mô tả sau</strong>.</p>
 
 			<p>Và chính tại đây, tiếng Anh bất ngờ trở nên gần gũi với tiếng Việt hơn bao giờ hết.</p>
 
-			<p>Có lẽ Adjective Clause không chỉ là một chủ điểm ngữ pháp.</p>
+			<p>Có lẽ <strong>Adjective Clause</strong> không chỉ là một chủ điểm ngữ pháp.</p>
 
-			<p>Nó là cánh cửa.</p>
-
-			<p>Cánh cửa dẫn từ tiếng Anh cơ bản sang tiếng Anh nâng cao.</p>
-
-			<p>Cánh cửa dẫn từ những câu ngắn rời rạc sang những ý tưởng hoàn chỉnh.</p>
-
-			<p>Và đối với người Việt, đó có thể là cánh cửa dễ bước qua hơn chúng ta từng nghĩ.</p>
+			<p className="margin-top-20"></p>
+			
+				<ul className="list-square">
+			
+					<li>Nó là cánh cửa.</li>
+			
+					<li>Cánh cửa dẫn từ tiếng Anh cơ bản sang tiếng Anh nâng cao.</li>
+			
+					<li>Cánh cửa dẫn từ những câu ngắn rời rạc sang những ý tưởng hoàn chỉnh.</li>
+			
+				</ul>
+			
+			<p className="margin-top-20">Và đối với người Việt, đó có thể là cánh cửa dễ bước qua hơn chúng ta từng nghĩ.</p>
 			
 			<div className="viewcounter">
 			
