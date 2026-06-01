@@ -52,7 +52,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 
 			<p>Có một lối mòn tư duy đang âm thầm kìm hãm thế hệ người học tiếng Anh tại Việt Nam:</p>
 
-			<p>Định kiến cho rằng cấu trúc tiếng Anh hoàn toàn ngược ngạo với tiếng Việt.</p>
+			<p><strong>Định kiến cho rằng cấu trúc tiếng Anh hoàn toàn ngược ngạo với tiếng Việt</strong>.</p>
 
 			<p>Ngay từ những ngày đầu chạm ngõ ngôn ngữ này, chúng ta đã bị đóng băng tư duy ở một quy luật sơ cấp:</p>
 
@@ -62,9 +62,9 @@ export default function AdjPlacement1(): React.JSX.Element {
 			
 			<p>Nhưng trong thế giới của văn viết cao cấp, các bài luận nghị luận hay những cấu trúc câu phức của người bản ngữ, một sự thật hoàn toàn trái ngược lại diễn ra. Họ ưu tiên sử dụng một trật tự có tỷ lệ áp đảo:</p>
 
-			<p>Danh từ đứng trước, cụm mô tả đứng sau.</p>
+			<p><strong>Danh từ đứng trước</strong>, <strong>cụm mô tả đứng sau</strong>.</p>
 
-			<p>Đây không phải là một sự ngẫu nhiên, mà chính là điểm mạnh tương đồng cốt lõi giữa tiếng Anh và tiếng Việt.</p>
+			<p>Đây không phải là một sự ngẫu nhiên, mà chính là <strong>điểm mạnh tương đồng</strong> cốt lõi giữa tiếng Anh và tiếng Việt.</p>
 
 			<p>Nhận ra điều này chính là chìa khóa giúp người Việt sở hữu tư duy ngôn ngữ đẳng cấp, vượt trội hơn hẳn phần còn lại của khu vực.</p>
 			
@@ -77,15 +77,15 @@ export default function AdjPlacement1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>Tính từ đứng trước danh từ – Nhấn mạnh Đặc điểm:</li>
+					<li><strong>Tính từ đứng trước danh từ</strong> – <strong>Nhấn mạnh Đặc điểm</strong>:</li>
 					<li className="margin-bottom-20 list-none">Cấu trúc này dành cho các tính từ đơn lẻ, ngắn gọn (như a luxury car, a hot day). Mục đích là ném thẳng đặc điểm nổi bật vào tâm trí người nghe trước khi gọi tên đối tượng.</li>
 			
-					<li>Danh từ đứng trước tính từ – Nhấn mạnh Đối tượng:</li>
+					<li><strong>Danh từ đứng trước tính từ</strong> – <strong>Nhấn mạnh Đối tượng</strong>:</li>
 					<li className="list-none">Khi muốn đối tượng chính làm mỏ neo cho toàn câu, người bản ngữ sẽ đưa Danh từ lên trước để định hình tư duy. Sau đó, họ mới thong thả thả một chuỗi thông tin mô tả dài ở phía sau.</li>
 			
 				</ul>
 			
-			<p className="margin-top-20">Và công cụ tối thượng được người bản ngữ sử dụng liên tục để kéo dài phần mô tả phía sau danh từ chính là Adjective Clause (Mệnh đề tính từ).</p>
+			<p className="margin-top-20">Và công cụ tối thượng được người bản ngữ sử dụng liên tục để kéo dài phần mô tả phía sau danh từ chính là <strong>Adjective Clause</strong> (<strong>Mệnh đề tính từ</strong>).</p>
 
 
 			{/* 2.  */}
@@ -94,7 +94,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 
 			<p>Vì mang bản chất của một "Tính từ", chức năng duy nhất của Adjective Clause là làm rõ nghĩa cho danh từ.</p>
 
-			<p>Và vì mang dung lượng của một mệnh đề, nó bắt buộc phải đứng SAU danh từ.</p>
+			<p>Và vì mang dung lượng của một mệnh đề, nó bắt buộc phải <strong>đứng SAU danh từ</strong>.</p>
 
 			<p>Lúc này, một phép màu tư duy xuất hiện:</p>
 
@@ -108,45 +108,46 @@ export default function AdjPlacement1(): React.JSX.Element {
 			
 				</ul>
 
-			<p className="margin-top-20">Hãy nhìn cách hai ngôn ngữ soi chiếu vào nhau:</p>
+			<p className="margin-top-20"><strong>Hãy nhìn cách hai ngôn ngữ soi chiếu vào nhau</strong>:</p>
 			
 				<ul className="list-square">
 			
-					<li>I want to buy a motorbike [which is fuel-efficient and black].</li>
-					<li className="list-none">Tôi muốn mua một chiếc xe máy [mà tiết kiệm xăng và có màu đen].</li>
+					<li>I want to buy <strong>a motorbike</strong> [which is fuel-efficient and black].</li>
+					<li className="list-none">Tôi muốn mua <strong>một chiếc xe máy</strong> [mà tiết kiệm xăng và có màu đen].</li>
 			
 				</ul>
 			
-			<p className="margin-top-20">Sự tương đồng này còn đạt đến đỉnh cao khi người bản ngữ sử dụng dạng rút gọn (Reduced Adjective Clause).</p>
+			<p className="margin-top-20">Sự tương đồng này còn đạt đến đỉnh cao khi người bản ngữ sử dụng dạng <strong>rút gọn</strong> (<strong>Reduced Adjective Clause</strong>).</p>
 
 			<p>Khi các từ nối học thuật được lược bỏ, câu văn tiếng Anh trở nên tinh gọn và thuần Việt đến ngỡ ngàng:</p>
 
-			<p className="margin-top-20">Dạng chủ động (V-ing):</p>
+
+			<p className="margin-top-20"><strong>Dạng chủ động</strong> (<strong>V</strong>-<strong>ing</strong>):</p>
 			
 				<ul className="list-square">
 			
-					<li>The man [sitting next to you] is my brother.</li>
-					<li className="list-none">Người đàn ông [ngồi cạnh bạn] là anh trai tôi.</li>
+					<li>The <strong>man</strong> [sitting next to you] is my brother.</li>
+					<li className="list-none">Người <strong>đàn ông</strong> [ngồi cạnh bạn] là anh trai tôi.</li>
 			
 				</ul>
 
 
-			<p className="margin-top-20">Dạng bị động (V3/ed):</p>
+			<p className="margin-top-20"><strong>Dạng bị động</strong> (<strong>V3</strong>/<strong>ed</strong>):</p>
 			
 				<ul className="list-square">
 			
-					<li>The mugs [made in Vietnam] are very durable.</li>
-					<li className="list-none">Những chiếc ly [làm tại Việt Nam] rất là bền.</li>
+					<li>The <strong>mugs</strong> [made in Vietnam] are very durable.</li>
+					<li className="list-none">Những chiếc <strong>ly</strong> [làm tại Việt Nam] rất là bền.</li>
 			
 				</ul>
 
 
-			<p className="margin-top-20">Dạng tính từ nguyên bản:</p>
+			<p className="margin-top-20"><strong>Dạng tính từ nguyên bản</strong>:</p>
 			
 				<ul className="list-square">
 			
-					<li>I am looking for a person [suitable for this job].</li>
-					<li className="list-none">Tôi đang tìm một người [phù hợp với công việc này].</li>
+					<li>I am looking for a <strong>person</strong> [suitable for this job].</li>
+					<li className="list-none">Tôi đang tìm một <strong>người</strong> [phù hợp với công việc này].</li>
 			
 				</ul>
 			
@@ -161,19 +162,19 @@ export default function AdjPlacement1(): React.JSX.Element {
 
 			<p>Khi Adjective Clause đã giúp bạn giải phóng tâm lý và thông nòng tư duy, bạn đã đi được nửa chặng đường chinh phục tiếng Anh cao cấp.</p>
 
-			<p>Thói quen đưa "trục xương sống" ra trước rồi đắp "da thịt" mô tả phía sau chính là bệ phóng hoàn hảo để bạn làm chủ toàn bộ Bộ ba mệnh đề cốt lõi cấu thành nên ngôn ngữ của người bản ngữ:</p>
+			<p>Thói quen đưa "trục xương sống" ra trước rồi đắp "da thịt" mô tả phía sau chính là bệ phóng hoàn hảo để bạn làm chủ toàn bộ <strong>Bộ ba mệnh đề cốt lõi</strong> cấu thành nên ngôn ngữ của người bản ngữ:</p>
 
 			<p>BỘ BA MỆNH ĐỀ CỐT LÕI</p>
 			
 				<ol>
 			
-					<li value="1">ADJECTIVE CLAUSE: Mệnh đề tính từ</li>
+					<li value="1"><strong>ADJECTIVE CLAUSE</strong>: Mệnh đề tính từ</li>
 					<li className="margin-bottom-20 list-none">Vận hành như một Tính từ, đứng SAU danh từ cốt lõi để mô tả chi tiết.</li>
 			
-					<li value="2">ADVERBIAL CLAUSE: Mệnh đề trạng ngữ</li>
+					<li value="2"><strong>ADVERBIAL CLAUSE</strong>: Mệnh đề trạng ngữ</li>
 					<li className="margin-bottom-20 list-none">Điều phối ngữ cảnh câu (Thời gian, Nguyên nhân, Kết quả: Because, When...).</li>
 			
-					<li value="3">NOUN CLAUSE: Mệnh đề danh từ</li>
+					<li value="3"><strong>NOUN CLAUSE</strong>: Mệnh đề danh từ</li>
 					<li className="list-none">Biến một ý tưởng phức tạp thành một thực thể Danh từ (What, That...).</li>
 			
 				</ol>
@@ -191,10 +192,10 @@ export default function AdjPlacement1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>Adverbial Clause</li>
+					<li><strong>Adverbial Clause</strong></li>
 					<li className="margin-bottom-20 list-none">Thật dễ dàng để làm rõ nguyên nhân, kết quả cho trục hành động chính.</li>
 			
-					<li>Noun Clause</li>
+					<li><strong>Noun Clause</strong></li>
 					<li className="list-none">Xuất hiện tự nhiên khi muốn biến cả một nhận định phức tạp làm chủ ngữ cho câu.</li>
 			
 				</ul>
