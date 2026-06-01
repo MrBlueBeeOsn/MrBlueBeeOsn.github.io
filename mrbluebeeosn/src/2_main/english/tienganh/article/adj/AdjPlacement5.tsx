@@ -52,7 +52,9 @@ export default function AdjPlacement5(): React.JSX.Element {
 
 			<p>Tiếng Việt và tiếng Anh nâng cao chia sẻ cùng một cấu trúc tư duy sâu. Khi hiểu được điều này, người Việt sở hữu một lợi thế tự nhiên mà phần lớn người học ở Đông Nam Á không có.</p>
 
-			<p>Đọc trong 10 phút  ·  Ngôn ngữ học ứng dụng</p>
+
+			<p className="margin-y-30"><strong>Đọc trong 10 phút</strong>  ·  <strong>Ngôn ngữ học ứng dụng</strong></p>
+			
 
 			<p>Có một nghịch lý kỳ lạ mà hầu hết người Việt học tiếng Anh đều trải qua nhưng ít ai dừng lại để suy nghĩ về nó: càng học lên cao, càng cảm thấy khó hơn. Những năm đầu còn tự tin, nhưng khi gặp báo chí, tiểu thuyết, hay những cuộc trò chuyện thực sự, tất cả đột ngột trở nên phức tạp và xa lạ.</p>
 
@@ -69,12 +71,12 @@ export default function AdjPlacement5(): React.JSX.Element {
 
 			<h4 className="margin-y-40">Nguyên tắc 1</h4>
 					
-			<p className="text-indent-whole">Khi danh từ đứng trước tính từ, người nói đang nhấn mạnh vào đối tượng. Hãy nhìn vào cái này — rồi ta mới nói về nó.</p>
+			<p className="text-indent-whole"><strong>Khi danh từ đứng trước tính từ</strong>, người nói đang nhấn mạnh vào <strong>đối tượng</strong>. Hãy nhìn vào cái này — rồi ta mới nói về nó.</p>
 
 
 			<h4 className="margin-y-40">Nguyên tắc 2</h4>
 					
-			<p className="text-indent-whole">Khi tính từ đứng trước danh từ, người nói đang nhấn mạnh vào đặc tính. Đây là thứ đặc biệt như thế này — và nó là một cái gì đó.</p>
+			<p className="text-indent-whole"><strong>Khi tính từ đứng trước danh từ</strong>, người nói đang nhấn mạnh vào <strong>đặc tính</strong>. Đây là thứ đặc biệt như thế này — và nó là một cái gì đó.</p>
 
 			<p>Nghe có vẻ đơn giản. Nhưng hai nguyên tắc này giải thích tại sao người bản ngữ, trong những câu quan trọng, gần như luôn chọn cách đưa danh từ ra trước — rồi mới mô tả nó. Và cách đó, chính xác là cách tiếng Việt hoạt động.</p>
 
@@ -85,7 +87,7 @@ export default function AdjPlacement5(): React.JSX.Element {
 
 			<p>Hầu hết người Việt rời trường phổ thông với hai mẫu câu tính từ in đậm trong đầu:</p>
 
-			<p className="margin-top-20">Mẫu 1 — Học từ lớp 1</p>
+			<p className="margin-top-20"><strong>Mẫu 1</strong> — <strong>Học từ lớp 1</strong></p>
 			
 				<ul className="list-square">
 			
@@ -96,7 +98,7 @@ export default function AdjPlacement5(): React.JSX.Element {
 			
 				</ul>
 
-			<p className="margin-top-20">Mẫu 2 — Học suốt 12 năm</p>
+			<p className="margin-top-20"><strong>Mẫu 2</strong> — <strong>Học suốt 12 năm</strong></p>
 			
 				<ul className="list-square">
 			
@@ -109,16 +111,20 @@ export default function AdjPlacement5(): React.JSX.Element {
 			
 			<p className="margin-top-20">Hai mẫu này không sai. Nhưng chúng chỉ là phần nổi của tảng băng — phần dành cho giai đoạn khởi động.</p>
 
-			<p>Não bộ người học lặng lẽ kết luận: "Tính từ trong tiếng Anh phải ngắn, phải đứng trước."</p>
+			<p>Não bộ người học lặng lẽ kết luận:</p>
+
+			<p>"<strong>Tính từ trong tiếng Anh phải ngắn</strong>, <strong>phải đứng trước</strong>."</p>
 
 			<p>Rồi khi gặp tiếng Anh thực tế — báo, sách, podcast, bài phát biểu — họ gặp một cấu trúc khác hoàn toàn mà không ai chuẩn bị cho họ. Và họ hoảng loạn, dù cấu trúc đó thực ra rất quen thuộc.</p>
+
+			<p><strong>Người Việt không sợ tiếng Anh</strong>. <strong>Họ sợ một phiên bản tiếng Anh mà chưa ai giải thích đúng cho họ</strong>.</p>
 
 
 			{/* 3.  */}
 
 			<h3 className="margin-y-50 text-center">3. Adjective Clause — thứ người bản ngữ dùng nhiều nhất</h3>
 
-			<p>Adjective Clause là một mệnh đề hoạt động như tính từ mở rộng. Chức năng: mô tả danh từ đứng ngay trước nó. Vị trí: luôn đứng sau danh từ — không bao giờ trước.</p>
+			<p><strong>Adjective Clause</strong> là một mệnh đề hoạt động như tính từ mở rộng. Chức năng: mô tả danh từ đứng ngay trước nó. Vị trí: luôn đứng sau danh từ — không bao giờ trước.</p>
 
 			<p>Và đây là điểm cốt lõi. Hãy nhìn vào hai ngôn ngữ cạnh nhau:</p>
 			
@@ -152,10 +158,10 @@ export default function AdjPlacement5(): React.JSX.Element {
 			
 				<ol>
 			
-					<li value="1">Đưa danh từ — đối tượng chính — ra trước</li>
+					<li value="1"><strong>Đưa danh từ</strong> — <strong>đối tượng chính</strong> — <strong>ra trước</strong></li>
 					<li className="margin-bottom-20 list-none">Người nghe biết ngay chủ đề. Không cần đoán, không cần chờ.</li>
 			
-					<li value="2">Thả Adjective Clause phía sau</li>
+					<li value="2"><strong>Thả Adjective Clause phía sau</strong></li>
 					<li className="margin-bottom-20 list-none">Một lớp, hai lớp, ba lớp tùy mức độ phức tạp. Mỗi lớp thu hẹp, làm rõ, hoặc bổ sung thêm chiều sâu cho đối tượng.</li>
 			
 				</ol>
@@ -274,7 +280,7 @@ export default function AdjPlacement5(): React.JSX.Element {
 				</ul>
 			
 
-			<p className="margin-top-20">Tiếng Việt tương đương: giống hệt</p>
+			<p className="margin-top-20">Tiếng Việt tương đương: <strong>giống hệt</strong></p>
 			
 			<p>Dạng rút gọn này xuất hiện dày đặc trong báo chí, văn học, và văn phong học thuật. Người học không nhận ra chúng là Adjective Clause nên cảm thấy xa lạ — trong khi thực ra đây là cấu trúc quen thuộc nhất của họ, chỉ mặc một bộ đồ tiếng Anh.</p>
 
@@ -284,24 +290,24 @@ export default function AdjPlacement5(): React.JSX.Element {
 
 			<p>Người bản ngữ không chỉ dùng một loại mệnh đề mở rộng. Họ dùng ba — và cả ba cùng nhau tạo nên sức mạnh của câu văn tiếng Anh nâng cao. Hiểu bộ ba này là hiểu cách người bản ngữ thực sự tư duy.</p>
 
-			<p>Hãy hình dung một câu tiếng Anh như một kiến trúc ba tầng. Mỗi tầng được xây bằng một loại mệnh đề khác nhau. Mỗi loại có chức năng riêng. Và khi ba tầng đó được ghép lại, chúng tạo ra một câu có chiều sâu, có sắc thái, có sức nặng — thứ mà người học thường gọi là "nghe rất Tây."</p>
+			<p>Hãy hình dung một câu tiếng Anh như một <strong>kiến trúc ba tầng</strong>. Mỗi tầng được xây bằng một loại mệnh đề khác nhau. Mỗi loại có chức năng riêng. Và khi ba tầng đó được ghép lại, chúng tạo ra một câu có chiều sâu, có sắc thái, có sức nặng — thứ mà người học thường gọi là "nghe rất Tây."</p>
 
 			<p>Người Việt mắc kẹt ở tầng một vì không có ai chỉ ra bản đồ tổng thể. Nhưng khi nhìn thấy toàn cảnh, mọi thứ đột ngột trở nên logic.</p>
 
 			<h4 className="margin-y-40">Mệnh đề 1 · Cổng vào: Adjective Clause</h4>
 					
-			<p className="text-indent-whole">★ Lợi thế của người Việt</p>
+			<p className="text-indent-whole">★ <strong>Lợi thế của người Việt</strong></p>
 
 			<p className="text-indent-whole">Chức năng</p>
 
-			<p className="text-indent-whole">Mô tả, giới hạn, hoặc làm rõ một danh từ. Luôn đứng sau danh từ mà nó mô tả — đúng như cách tiếng Việt hoạt động. Đây là mệnh đề người bản ngữ dùng nhiều nhất trong văn viết và hội thoại phức tạp.</p>
+			<p className="text-indent-whole">Mô tả, giới hạn, hoặc làm rõ một danh từ. Luôn đứng <strong>sau</strong> danh từ mà nó mô tả — đúng như cách tiếng Việt hoạt động. Đây là mệnh đề người bản ngữ dùng nhiều nhất trong văn viết và hội thoại phức tạp.</p>
 
 			<p className="margin-top-20"></p>
 			
 				<ul className="list-square">
 			
-					<li>The project that changed everything started in a small room.</li>
-					<li className="list-none">Dự án mà đã thay đổi mọi thứ bắt đầu trong một căn phòng nhỏ.</li>
+					<li>The project <strong>that changed everything</strong> started in a small room.</li>
+					<li className="list-none">Dự án <strong>mà đã thay đổi mọi thứ</strong> bắt đầu trong một căn phòng nhỏ.</li>
 			
 				</ul>
 
@@ -312,14 +318,14 @@ export default function AdjPlacement5(): React.JSX.Element {
 					
 			<p className="text-indent-whole">Chức năng</p>
 
-			<p className="text-indent-whole">Mô tả hoàn cảnh của hành động — khi nào, ở đâu, tại sao, với điều kiện gì, mặc dù điều gì. Linh hoạt về vị trí: có thể đứng đầu hoặc cuối câu tùy ngữ cảnh và sắc thái muốn nhấn.</p>
+			<p className="text-indent-whole">Mô tả <strong>hoàn cảnh của hành động</strong> — khi nào, ở đâu, tại sao, với điều kiện gì, mặc dù điều gì. Linh hoạt về vị trí: có thể đứng đầu hoặc cuối câu tùy ngữ cảnh và sắc thái muốn nhấn.</p>
 
 			<p className="margin-top-20"></p>
 			
 				<ul className="list-square">
 			
-					<li>Although the odds were against them, the team pushed forward.</li>
-					<li className="list-none">Mặc dù mọi bất lợi đều chống lại họ, cả đội vẫn tiếp tục tiến lên phía trước.</li>
+					<li><strong>Although the odds were against them</strong>, the team pushed forward.</li>
+					<li className="list-none"><strong>Mặc dù cơ hội không nghiêng về phía họ</strong>, đội vẫn tiến lên.</li>
 			
 				</ul>
 
@@ -330,14 +336,14 @@ export default function AdjPlacement5(): React.JSX.Element {
 					
 			<p className="text-indent-whole">Chức năng</p>
 
-			<p className="text-indent-whole">Đóng vai trò như một danh từ bên trong câu lớn hơn — làm chủ ngữ, tân ngữ, hoặc bổ ngữ. Cho phép người nói nhúng nguyên một ý kiến, sự thật, hay câu hỏi vào trong một câu khác.</p>
+			<p className="text-indent-whole">Đóng vai trò như một <strong>danh từ</strong> bên trong câu lớn hơn — làm chủ ngữ, tân ngữ, hoặc bổ ngữ. Cho phép người nói nhúng nguyên một ý kiến, sự thật, hay câu hỏi vào trong một câu khác.</p>
 
 			<p className="margin-top-20"></p>
 			
 				<ul className="list-square">
 			
-					<li>The fact that language shapes thought is well-documented.</li>
-					<li className="list-none">Việc ngôn ngữ định hình tư duy là một sự thật đã được chứng minh rõ ràng.</li>
+					<li>The fact <strong>that language shapes thought</strong> is well-documented.</li>
+					<li className="list-none">Thực tế <strong>rằng ngôn ngữ định hình tư duy</strong> đã được ghi chép kỹ lưỡng.</li>
 			
 				</ul>
 
@@ -361,7 +367,7 @@ export default function AdjPlacement5(): React.JSX.Element {
 
 			<p>Hãy nghĩ về việc học bộ ba mệnh đề như học đi xe đạp, rồi xe máy, rồi ô tô. Nguyên lý cân bằng và kiểm soát tốc độ học từ xe đạp sẽ theo bạn xuyên suốt.</p>
 
-			<p>Adjective Clause là chiếc xe đạp đó. Khi bạn đã cảm được cái logic "đưa đối tượng ra trước, mô tả theo sau" — cái logic giống tiếng Việt một cách đáng ngạc nhiên — não bộ bắt đầu nhận ra cùng pattern đó ở Adverbial Clause và Noun Clause. Không phải học từ đầu, mà là nhận ra một gia đình quen thuộc.</p>
+			<p><strong>Adjective Clause là chiếc xe đạp đó</strong>. Khi bạn đã cảm được cái logic "đưa đối tượng ra trước, mô tả theo sau" — cái logic giống tiếng Việt một cách đáng ngạc nhiên — não bộ bắt đầu nhận ra cùng pattern đó ở Adverbial Clause và Noun Clause. Không phải học từ đầu, mà là nhận ra một gia đình quen thuộc.</p>
 
 			<p>Người học Việt thường thấy cả ba loại mệnh đề xa lạ như nhau vì họ tiếp cận chúng như ba vật thể rời rạc, không có quan hệ gì với nhau. Nhưng khi hiểu Adjective Clause trước — khi đã cảm được cái nhịp tự nhiên của nó — hai mệnh đề còn lại sẽ rơi vào đúng chỗ của chúng một cách tự nhiên hơn nhiều.</p>
 
@@ -390,7 +396,7 @@ export default function AdjPlacement5(): React.JSX.Element {
 
 			<p>Không cần học lại từ đầu. Chỉ cần thay đổi một cách nhìn.</p>
 
-			<p>Khi đọc tiếng Anh, hãy chủ động tìm danh từ chính trong câu. Sau đó nhìn vào những gì đứng sau nó và hỏi: "Phần này đang làm gì — mô tả danh từ, mô tả hành động, hay nhúng một ý vào câu?" Khi câu hỏi đó trở thành bản năng, bạn đang đọc tiếng Anh theo đúng cách người bản ngữ viết nó.</p>
+			<p>Khi đọc tiếng Anh, hãy chủ động tìm danh từ chính trong câu. Sau đó nhìn vào những gì đứng sau nó và hỏi: "<strong>Phần này đang làm gì</strong> — <strong>mô tả danh từ</strong>, <strong>mô tả hành động</strong>, <strong>hay nhúng một ý vào câu</strong>?" Khi câu hỏi đó trở thành bản năng, bạn đang đọc tiếng Anh theo đúng cách người bản ngữ viết nó.</p>
 
 			<p>Khi viết, hãy thử thả Adjective Clause sau danh từ — đúng như cách bạn nói trong tiếng Việt — thay vì cố nhồi mọi thứ vào một tính từ ngắn đặt trước. Câu văn sẽ tự nhiên hơn, có chiều sâu hơn, và — đây là điều thú vị — sẽ nghe "Tây" hơn, vì đó chính xác là cách người bản ngữ viết.</p>
 
@@ -398,9 +404,9 @@ export default function AdjPlacement5(): React.JSX.Element {
 
 			<h3 className="margin-y-50 text-center">Để kết lại</h3>
 
-			<p>Tiếng Anh nâng cao vận hành theo cấu trúc Danh từ + Tính từ mở rộng — đúng như tiếng Việt. Adjective Clause là biểu hiện rõ nhất của logic đó, và nó là công cụ người bản ngữ dùng liên tục trong mọi văn bản phức tạp.</p>
+			<p>Tiếng Anh nâng cao vận hành theo cấu trúc <strong>Danh từ</strong> + <strong>Tính từ mở rộng</strong> — đúng như tiếng Việt. Adjective Clause là biểu hiện rõ nhất của logic đó, và nó là công cụ người bản ngữ dùng liên tục trong mọi văn bản phức tạp.</p>
 
-			<p>Khi người Việt nhận ra điều này và bắt đầu chủ động dùng Adjective Clause, không chỉ kỹ năng viết cải thiện — mà Adverbial Clause và Noun Clause cũng sẽ quen dần theo. Vì khi bạn đã hiểu một, bạn đã hiểu nguyên lý chung của cả ba.</p>
+			<p>Khi người Việt nhận ra điều này và bắt đầu chủ động dùng Adjective Clause, không chỉ kỹ năng viết cải thiện — <strong>mà Adverbial Clause và Noun Clause cũng sẽ quen dần theo</strong>. Vì khi bạn đã hiểu một, bạn đã hiểu nguyên lý chung của cả ba.</p>
 
 			<p>Ba mệnh đề. Một logic. Và logic đó — người Việt đã biết từ lâu. Chỉ là chưa ai nói ra mà thôi.</p>
 			
