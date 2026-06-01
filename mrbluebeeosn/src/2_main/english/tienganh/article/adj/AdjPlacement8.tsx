@@ -50,99 +50,133 @@ export default function AdjPlacement8(): React.JSX.Element {
 
 			<h4 className="margin-bottom-30 text-center">Khi tiếng Anh cấp cao nói đúng như tiếng Việt</h4>
 
-			<p></p>
+			<p>Có một khoảnh khắc mà tiếng Anh ngừng là ngoại ngữ. Không phải lúc thuộc thêm 1.000 từ. Mà là lúc nhận ra trật tự của câu phức không hề ngược với tiếng Việt.</p>
 
-			<p></p>
+			<p>Hầu hết đều bắt đầu với hai hình ảnh quen thuộc: a beautiful house và The house is beautiful.</p>
+
+			<p>Từ đó, não tự khóa lại một niềm tin: tính từ phải đứng trước danh từ. </p>
+
+			<p>Niềm tin này đủ dùng cho câu đơn. Nhưng càng viết dài, càng thuyết trình, càng làm việc bằng tiếng Anh, niềm tin đó càng kéo lùi.</p>
 			
-			<p></p>
+			<p>Vì ở tầng cao hơn, tiếng Anh không nhồi tính từ lên trước. Nó làm đúng như tiếng Việt: nêu danh từ trước, rồi thả cả thế giới mô tả theo sau.</p>
 	
 			
 			{/* 1.  */}
 
 			<h3 className="margin-y-50 text-center">1. Nhấn vào đâu, đặt ở đó</h3>
 
-			<p></p>
+			<p>Ngôn ngữ là công cụ điều hướng sự chú ý. Tiếng Anh cho hai vị trí, mỗi vị trí là một lựa chọn nhấn.</p>
 
-			<p className="margin-top-20"></p>
+			<h4 className="margin-y-40">Danh từ trước, tính từ sau – nhấn vào vật thể.</h4>
+					
+			<p className="text-indent-whole">Bạn muốn người nghe biết đang nói về cái nào trước đã.</p>
 			
 				<ul className="list-square">
 			
-					<li></li>
-					<li className="margin-bottom-20 list-none"></li>
+					<li>the house that looks beautiful from the street</li>
+					<li className="margin-bottom-20 list-none">ngôi nhà nhìn từ phía đường phố thì rất đẹp</li>
 			
-					<li></li>
-					<li className="margin-bottom-20 list-none"></li>
+					<li>the man wearing a blue shirt</li>
+					<li className="margin-bottom-20 list-none">người đàn ông đang mặc chiếc áo màu xanh</li>
 			
-					<li></li>
-					<li className="list-none"></li>
+					<li>something interesting</li>
+					<li className="list-none">một điều gì đó thú vị</li>
 			
 				</ul>
-			
-			<p className="margin-top-20"></p>
 
-			<p className="margin-top-20"></p>
+			<p className="margin-top-20 text-indent-whole">Trọng tâm nằm ở house, man, something. Phần sau chỉ là ống kính zoom vào.</p>
+
+			
+			<h4 className="margin-y-40">Tính từ trước danh từ – nhấn vào phẩm chất.</h4>
+					
+			<p className="text-indent-whole">Bạn muốn biến phẩm chất thành nhãn dán.</p>
 			
 				<ul className="list-square">
 			
-					<li></li>
-					<li className="margin-bottom-20 list-none"></li>
+					<li>a beautiful house</li>
+					<li className="margin-bottom-20 list-none">một ngôi nhà đẹp</li>
 			
-					<li></li>
-					<li className="margin-bottom-20 list-none"></li>
+					<li>a blue-shirted man</li>
+					<li className="margin-bottom-20 list-none">một người đàn ông mặc áo xanh</li>
 			
-					<li></li>
-					<li className="list-none"></li>
+					<li>interesting ideas</li>
+					<li className="list-none">những ý tưởng thú vị</li>
 			
 				</ul>
 			
-			<p className="margin-top-20"></p>
+			<p className="margin-top-20 text-indent-whole">Ở đây beautiful, blue-shirted, interesting mới là điều cần ghi nhớ.</p>
 
-			
+			<p>Tiếng Việt sống với lựa chọn thứ nhất mỗi ngày: "ngôi nhà mà nhìn đẹp từ ngoài đường", "người đàn ông mặc áo xanh".</p>
+
+			<p>Tiếng Anh học thuật, báo chí, email cấp cao cũng chọn y như vậy. Không phải trùng hợp. Đó là cách não con người xử lý thông tin nặng.</p>
 
 			{/* 2.  */}
 
 			<h3 className="margin-y-50 text-center">2. Bộ ba làm nên câu phức – và tại sao bắt đầu từ Adjective Clause</h3>
 
-			<p></p>
+			<p>Người bản ngữ không nghĩ về ngữ pháp khi nói. Họ nghĩ về chức năng. Mọi câu phức đều xoay quanh ba loại mệnh đề, và cả ba đều đặt phần lõi trước, chi tiết sau.</p>
 
 			<h4 className="margin-y-40">2.1. Adjective Clause – máy quay</h4>
 					
-			<p className="text-indent-whole"></p>
+			<p className="text-indent-whole">Đây là mệnh đề tính từ. Nó không đứng một mình, nó bám vào danh từ và kể chuyện về danh từ đó.</p>
 
-			<p className="margin-top-20"></p>
+			<p className="text-indent-whole">Có hai cách dùng tinh tế:</p>
+
+			<p className="margin-top-20 text-indent-whole"><strong>Xác định</strong>:</p>
 			
 				<ul className="list-square">
 			
-					<li></li>
-					<li className="margin-bottom-20 list-none"></li>
-			
-					<li></li>
-					<li className="margin-bottom-20 list-none"></li>
-			
-					<li></li>
-					<li className="list-none"></li>
+					<li>The book that you lent me last summer.</li>
+					<li className="margin-bottom-20 list-none">Cuốn sách mà bạn đã cho tôi mượn vào mùa hè năm ngoái.</li>
+
+					<li className="list-none">Không có phần sau, không biết là cuốn nào.</li>
 			
 				</ul>
-			
-			<p className="margin-top-20"></p>
 
-			<p className="margin-top-20"></p>
+
+				<p className="margin-top-20 text-indent-whole"><strong>Bổ sung</strong>:</p>
 			
 				<ul className="list-square">
 			
-					<li></li>
-					<li className="margin-bottom-20 list-none"></li>
-			
-					<li></li>
-					<li className="margin-bottom-20 list-none"></li>
-			
-					<li></li>
-					<li className="list-none"></li>
+					<li>My laptop, which I bought in Singapore, is dying.</li>
+					<li className="margin-bottom-20 list-none">Chiếc laptop của tôi, cái mà tôi đã mua ở Singapore, đang hỏng dần rồi.</li>
+
+					<li className="list-none">Phần sau chỉ thêm màu sắc, bỏ đi câu vẫn đứng vững.</li>
 			
 				</ul>
 			
-			<p className="margin-top-20"></p>
+			<p className="margin-top-20 text-indent-whole">Khi đã quen đặt Adjective Clause sau danh từ, việc rút gọn trở thành phản xạ:</p>
+			
+				<ul className="list-square">
+			
+					<li>the report that was submitted yesterday</li>
+					<li className="list-none">bản báo cáo cái mà đã được nộp ngày hôm qua</li>
+			
+				</ul>
+			
+				<ul className="list-square">
+			
+					<li>the report submitted yesterday</li>
+					<li className="list-none">bản báo cáo đã được nộp ngày hôm qua</li>
+			
+				</ul>
 
+			
+				<ul className="list-square">
+			
+					<li>the candidate who is leading the poll</li>
+					<li className="list-none">ứng cử viên người mà đang dẫn đầu cuộc thăm dò ý kiến</li>
+			
+				</ul>
+			
+				<ul className="list-square">
+			
+					<li>the candidate leading the poll</li>
+					<li className="list-none">ứng cử viên đang dẫn đầu cuộc thăm dò ý kiến</li>
+			
+				</ul>
+			
+			<p className="margin-top-20 text-indent-whole">Đây là nhịp tự nhiên của tiếng Việt được viết bằng chữ Anh.</p>
 
 
 			<h4 className="margin-y-40">2.2. Adverbial Clause – phông nền</h4>
