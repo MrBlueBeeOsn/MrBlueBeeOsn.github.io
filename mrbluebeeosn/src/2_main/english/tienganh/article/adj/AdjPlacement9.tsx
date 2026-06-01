@@ -50,9 +50,15 @@ export default function AdjPlacement9(): React.JSX.Element {
 
 			<h4 className="margin-bottom-30 text-center">"Danh Từ Trước, Mô Tả Sau" – Chìa Khóa Vàng Mở Ra Tiềm Năng Ngôn Ngữ Vượt Trội Của Người Việt!</h4>
 
-			<p>Bạn có bao giờ tự hỏi, vì sao tiếng Anh, một ngôn ngữ tưởng chừng rất khác biệt, lại khiến hàng triệu người Việt phải vật lộn với những quy tắc tưởng chừng "ngược đời"? Đặc biệt là quy tắc "tính từ đứng trước danh từ" – một sự đảo lộn hoàn toàn so với lối tư duy "ngôi nhà đẹp" quen thuộc của chúng ta. Rào cản tâm lý này không chỉ làm chậm quá trình học, mà còn gieo vào lòng người học sự thiếu tự tin, khiến tiếng Anh trở thành một "ngọn núi" khó chinh phục.</p>
+			<p>Bạn có bao giờ tự hỏi, vì sao tiếng Anh, một ngôn ngữ tưởng chừng rất khác biệt, lại khiến hàng triệu người Việt phải vật lộn với những quy tắc tưởng chừng "ngược đời"?</p>
+
+			<p>Đặc biệt là quy tắc "tính từ đứng trước danh từ" – một sự đảo lộn hoàn toàn so với lối tư duy "ngôi nhà đẹp" quen thuộc của chúng ta.</p>
+
+			<p>Rào cản tâm lý này không chỉ làm chậm quá trình học, mà còn gieo vào lòng người học sự thiếu tự tin, khiến tiếng Anh trở thành một "ngọn núi" khó chinh phục.</p>
 			
-			<p>Nhưng hôm nay, tôi không đến để kể về những khó khăn đó. Tôi đến để vén màn một bí mật động trời, một chìa khóa vàng có thể thay đổi hoàn toàn cục diện. Một sự thật mà khi được khai mở, sẽ giúp bạn nhận ra rằng người Việt chúng ta không hề yếu thế, mà ngược lại, đang nắm giữ một siêu năng lực ngôn ngữ tiềm ẩn, có thể giúp chúng ta vượt trội hơn nhiều quốc gia khác trong khu vực. Đó chính là việc làm chủ Mệnh đề tính từ (Adjective Clause) – một cấu trúc mà khi được nhìn nhận đúng bản chất, sẽ cho thấy tiếng Anh và tiếng Việt có sự đồng điệu đến kinh ngạc ở cấp độ tư duy cao nhất!</p>
+			<p>Nhưng hôm nay, mình không đến để kể về những khó khăn đó. Mình đến để vén màn một <strong>bí mật động trời</strong>, một <strong>chìa khóa vàng</strong> có thể thay đổi hoàn toàn cục diện. Một sự thật mà khi được khai mở, sẽ giúp bạn nhận ra rằng người Việt chúng ta không hề yếu thế, mà ngược lại, đang nắm giữ một <strong>siêu năng lực ngôn ngữ tiềm ẩn</strong>, có thể giúp chúng ta vượt trội hơn nhiều quốc gia khác trong khu vực.</p>
+
+			<p>Đó chính là việc làm chủ <strong>Mệnh đề tính từ</strong> (<strong>Adjective Clause</strong>) – một cấu trúc mà khi được nhìn nhận đúng bản chất, sẽ cho thấy tiếng Anh và tiếng Việt có sự đồng điệu đến kinh ngạc ở cấp độ tư duy cao nhất!</p>
 
 			{/* 1.  */}
 
@@ -60,90 +66,108 @@ export default function AdjPlacement9(): React.JSX.Element {
 
 			<p>Thử hỏi bất kỳ người Việt nào đang học tiếng Anh, họ sẽ kể vanh vách về hai kiểu tính từ cơ bản:</p>
 
-			<p className="margin-top-20">Tính từ đứng trước danh từ</p>
+			<p className="margin-top-20"><strong>Tính từ đứng trước danh từ</strong></p>
 			
 				<ul className="list-square">
 			
-					<li>a beautiful house.</li>
-					<li className="margin-bottom-20 list-none">Một ngôi nhà đẹp.</li>
+					<li>a <strong>beautiful</strong> house.</li>
+					<li className="margin-bottom-20 list-none">Một ngôi nhà <strong>đẹp</strong>.</li>
 
 					<li className="list-none">Dùng để nhấn mạnh tính chất một cách ngắn gọn, súc tích.</li>
 			
 				</ul>
-			
-			<p className="margin-top-20"></p>
 
-			<p className="margin-top-20">Tính từ sau động từ "to be":</p>
+			<p className="margin-top-20"><strong>Tính từ sau động từ</strong> "<strong>to be</strong>":</p>
 			
 				<ul className="list-square">
 			
-					<li>The house is beautiful.</li>
-					<li className="margin-bottom-20 list-none">Ngôi nhà đó thì đẹp.</li>
+					<li>The house is <strong>beautiful</strong>.</li>
+					<li className="margin-bottom-20 list-none">Ngôi nhà đó thì <strong>đẹp</strong>.</li>
 
 					<li className="list-none">Dùng để mô tả tính chất của chủ ngữ.</li>
 			
 				</ul>
 			
-			<p className="margin-top-20">Và thế là, một định kiến được hình thành: tiếng Anh luôn phải "ngược". Nhưng đó chỉ là bề nổi của tảng băng trôi! Trong thế giới giao tiếp nâng cao, văn viết học thuật, hay những câu phức tạp, người bản ngữ lại vận dụng một lối tư duy hoàn toàn khác – một lối tư duy mà chúng ta, những người Việt, đã thành thạo từ thuở ấu thơ: Họ luôn đặt Danh từ (Đối tượng chính) lên trước để định vị rõ ràng chủ thể, sau đó mới "thả" một chuỗi các mệnh đề hoặc cụm từ để mô tả chi tiết về danh từ đó. Cấu trúc này không chỉ dùng để bổ sung thông tin, mà còn để nhấn mạnh chính đối tượng đó, một cách tự nhiên và mạch lạc nhất.</p>
+			<p className="margin-top-20">Và thế là, một định kiến được hình thành: tiếng Anh luôn phải "ngược". Nhưng đó chỉ là bề nổi của tảng băng trôi!</p>
+
+			<p>Trong thế giới giao tiếp nâng cao, văn viết học thuật, hay những câu phức tạp, người bản ngữ lại vận dụng một lối tư duy hoàn toàn khác – một lối tư duy mà chúng ta, những người Việt, đã thành thạo từ thuở ấu thơ:</p>
+
+			<p>Họ luôn đặt <strong>Danh từ</strong> (<strong>Đối tượng chính</strong>) lên trước để định vị rõ ràng chủ thể, sau đó mới "thả" <strong>một chuỗi các mệnh đề</strong> hoặc <strong>cụm từ để mô tả chi tiết</strong> về danh từ đó.</p>
+
+			<p>Cấu trúc này không chỉ dùng để bổ sung thông tin, mà còn để <strong>nhấn mạnh chính đối tượng đó</strong>, một cách tự nhiên và mạch lạc nhất.</p>
 
 			<p>Hãy cùng chiêm nghiệm sự đồng điệu đến ngỡ ngàng này:</p>
 
-			<p className="margin-top-20">Tính từ đơn</p>
+			<p className="margin-top-20"><strong>Tính từ đơn</strong></p>
 			
 				<ul className="list-square">
 			
-					<li>A beautiful girl</li>
-					<li className="margin-bottom-20 list-none">Cô gái đẹp</li>
+					<li>A <strong>beautiful</strong> girl</li>
+					<li className="margin-bottom-20 list-none">Cô gái <strong>đẹp</strong></li>
 
 					<li className="list-none">Tính chất (đẹp)</li>
 			
 				</ul>
 
 
-			<p className="margin-top-20">Mệnh đề tính từ</p>
+			<p className="margin-top-20"><strong>Mệnh đề tính từ</strong></p>
 			
 				<ul className="list-square">
 			
-					<li>The girl who is singing</li>
-					<li className="margin-bottom-20 list-none">Cô gái người mà đang hát</li>
+					<li>The girl <strong>who is singing</strong></li>
+					<li className="margin-bottom-20 list-none">Cô gái <strong>người mà đang hát</strong></li>
 
 					<li className="list-none">Đối tượng (cô gái)</li>
 			
 				</ul>
 
-			<p className="margin-top-20">Cụm tính từ</p>
+			<p className="margin-top-20"><strong>Cụm tính từ</strong></p>
 			
 				<ul className="list-square">
 			
-					<li>A book full of pictures</li>
-					<li className="margin-bottom-20 list-none">Cuốn sách đầy những hình ảnh</li>
+					<li>A book <strong>full of pictures</strong></li>
+					<li className="margin-bottom-20 list-none">Cuốn sách <strong>đầy những hình ảnh</strong></li>
 
 					<li className="list-none">Đối tượng (cuốn sách)</li>
 			
 				</ul>
 
-			<p className="margin-top-20">Mệnh đề tính từ rút gọn</p>
+			<p className="margin-top-20"><strong>Mệnh đề tính từ rút gọn</strong></p>
 			
 				<ul className="list-square">
 			
-					<li>The man standing at the door</li>
-					<li className="margin-bottom-20 list-none">Người đàn ông đang đứng ở cửa</li>
+					<li>The man <strong>standing at the door</strong></li>
+					<li className="margin-bottom-20 list-none">Người đàn ông <strong>đang đứng ở cửa</strong></li>
 
 					<li className="list-none">Đối tượng (người đàn ông)</li>
 			
 				</ul>
 			
-			<p className="margin-top-20">Kết luận không thể chối cãi:</p>
+			<p className="margin-top-20"><strong>Kết luận không thể chối cãi</strong>:</p>
 
-			<p>Cấu trúc câu phức của tiếng Anh và tiếng Việt thực chất GIỐNG nhau đến 100% về mặt tư duy:</p>
-
-			<p>Tiếng Anh (câu phức) = Danh từ + Adjective Clause tương đồng với Tiếng Việt = Danh từ + Mệnh đề mô tả.</p>
+			<p>Cấu trúc câu phức của tiếng Anh và tiếng Việt thực chất <strong>GIỐNG nhau đến 100% về mặt tư duy</strong>:</p>
+			
+				<ul className="list-square">
+			
+					<li className="margin-bottom-20">Tiếng Anh (câu phức) = <strong>Danh từ</strong> + <strong>Adjective Clause</strong></li>
+			
+					<li className="margin-bottom-20 list-none">Tương đồng với:</li>
+			
+					<li>Tiếng Việt = <strong>Danh từ</strong> + <strong>Mệnh đề mô tả</strong>.</li>
+			
+				</ul>
+			
+			<p className="margin-top-20"></p>
 
 			{/* 2.  */}
 
 			<h3 className="margin-y-50 text-center">2. "Mệnh Đề Tính Từ" – Tên Gọi Giải Phóng, Sức Mạnh Khai Phóng</h3>
 
-			<p>Trong nhiều giáo trình, cấu trúc bổ nghĩa sau danh từ thường được gọi bằng một cái tên khá học thuật và đôi khi gây khó hiểu. Cái tên đó, dù đúng về ngữ pháp, lại không trực tiếp thể hiện chức năng, khiến người học cảm thấy mơ hồ và không biết mục đích thực sự của nó. Nó trở thành một "cái bẫy" ngôn ngữ, khiến chúng ta né tránh một trong những công cụ mạnh mẽ nhất của tiếng Anh.</p>
+			<p>Trong nhiều giáo trình, cấu trúc bổ nghĩa sau danh từ thường được gọi bằng một cái tên khá học thuật và đôi khi gây khó hiểu.</p>
+
+			<p>Cái tên đó, dù đúng về ngữ pháp, lại không trực tiếp thể hiện chức năng, khiến người học cảm thấy mơ hồ và không biết mục đích thực sự của nó.</p>
+
+			<p>Nó trở thành một "cái bẫy" ngôn ngữ, khiến chúng ta né tránh một trong những công cụ mạnh mẽ nhất của tiếng Anh.</p>
 
 			<p>Đã đến lúc phá bỏ rào cản từ chính tên gọi! Từ nay, hãy gọi nó bằng đúng bản chất của mình: Mệnh đề tính từ (Adjective Clause).</p>
 
@@ -159,17 +183,23 @@ export default function AdjPlacement9(): React.JSX.Element {
 			
 				</ul>
 			
-			<p className="margin-top-20">Người bản ngữ sử dụng Mệnh đề tính từ một cách nhuần nhuyễn, tự nhiên trong mọi cuộc hội thoại phức tạp, văn bản chuyên nghiệp và các bài luận. Đây là cách hiệu quả nhất để họ xác định đối tượng trước, sau đó mới "vẽ" thêm các chi tiết, làm rõ nghĩa cho danh từ đó. Điều này hoàn toàn khớp với cách chúng ta tư duy và diễn đạt trong tiếng Việt. Thậm chí, khi các mệnh đề này được rút gọn, cấu trúc tiếng Anh càng trở nên cô đọng, linh hoạt và gần gũi hơn với tiếng Việt, biến nó thành một công cụ giao tiếp cực kỳ hiệu quả.</p>
+			<p className="margin-top-20">Người bản ngữ sử dụng Mệnh đề tính từ một cách nhuần nhuyễn, tự nhiên trong mọi cuộc hội thoại phức tạp, văn bản chuyên nghiệp và các bài luận.</p>
+
+			<p>Đây là cách hiệu quả nhất để họ xác định đối tượng trước, sau đó mới "vẽ" thêm các chi tiết, làm rõ nghĩa cho danh từ đó. Điều này hoàn toàn khớp với cách chúng ta tư duy và diễn đạt trong tiếng Việt.</p>
+
+			<p>Thậm chí, khi các mệnh đề này được rút gọn, cấu trúc tiếng Anh càng trở nên cô đọng, linh hoạt và gần gũi hơn với tiếng Việt, biến nó thành một công cụ giao tiếp cực kỳ hiệu quả.</p>
 
 			{/* 3.  */}
 
 			<h3 className="margin-y-50 text-center">3. Lợi Thế Vượt Trội Của Người Việt: Nắm Giữ "Bộ Ba Quyền Lực" Của Ngôn Ngữ</h3>
 
-			<p>Việc nhận ra rằng tiếng Anh cũng có cách tư duy "Danh từ + Bổ nghĩa" này không chỉ là một kiến thức ngữ pháp, mà là một bước ngoặt tư duy lớn. Nó giúp bạn cảm thấy tiếng Anh không còn là một ngôn ngữ xa lạ, mà là một phiên bản khác, một sự mở rộng của chính tiếng mẹ đẻ mình. Thay vì chỉ loay hoay với các tính từ đơn lẻ, hãy mở rộng tầm nhìn để thấy rằng trong các câu phức tạp, tiếng Anh và tiếng Việt có cùng một "lối đi chung" – một con đường đã được trải sẵn cho bạn.</p>
+			<p>Việc nhận ra rằng tiếng Anh cũng có cách tư duy "Danh từ + Bổ nghĩa" này không chỉ là một kiến thức ngữ pháp, mà là một <strong>bước ngoặt tư duy lớn</strong>. Nó giúp bạn cảm thấy tiếng Anh không còn là một ngôn ngữ xa lạ, mà là một phiên bản khác, một sự mở rộng của chính tiếng mẹ đẻ mình. Thay vì chỉ loay hoay với các tính từ đơn lẻ, hãy mở rộng tầm nhìn để thấy rằng trong các câu phức tạp, tiếng Anh và tiếng Việt có cùng một "lối đi chung" – một con đường đã được trải sẵn cho bạn.</p>
 
 			<p>Đây chính là chìa khóa vàng để bạn xây dựng các câu phức tạp, viết luận, hay giao tiếp ở trình độ cao một cách tự nhiên, chính xác và đầy tự tin. Bạn sẽ không còn phải "dịch ngược" trong đầu, mà có thể tư duy trực tiếp bằng tiếng Anh với một cấu trúc đã quen thuộc.</p>
 
-			<p>Nhưng câu chuyện không dừng lại ở đó. Khi đã làm chủ được Adjective Clause – mệnh đề bổ nghĩa cho danh từ theo cách tư duy của người Việt – bạn sẽ khám phá ra một con đường rộng mở để tiếp cận và làm chủ hai loại mệnh đề quan trọng khác trong tiếng Anh: Adverbial Clause (Mệnh đề trạng ngữ) và Noun Clause (Mệnh đề danh ngữ). Đây chính là "Bộ Ba Quyền Lực" của ngôn ngữ, ba trụ cột vững chắc giúp người bản ngữ diễn đạt mọi ý tưởng phức tạp, sắc thái tinh tế và logic chặt chẽ trong mọi tình huống.</p>
+			<p>Nhưng câu chuyện không dừng lại ở đó. Khi đã làm chủ được <strong>Adjective Clause</strong> – mệnh đề bổ nghĩa cho danh từ theo cách tư duy của người Việt – bạn sẽ khám phá ra một con đường rộng mở để tiếp cận và làm chủ hai loại mệnh đề quan trọng khác trong tiếng Anh: <strong>Adverbial Clause</strong> (<strong>Mệnh đề trạng ngữ</strong>) và <strong>Noun Clause</strong> (<strong>Mệnh đề danh ngữ</strong>).</p>
+
+			<p>Đây chính là "<strong>Bộ Ba Quyền Lực</strong>" của ngôn ngữ, ba trụ cột vững chắc giúp người bản ngữ diễn đạt mọi ý tưởng phức tạp, sắc thái tinh tế và logic chặt chẽ trong mọi tình huống.</p>
 
 			<h4 className="margin-y-40">Adjective Clause:</h4>
 					
@@ -177,8 +207,8 @@ export default function AdjPlacement9(): React.JSX.Element {
 
 				<ul className="list-square">
 			
-					<li>The student who studies hard will succeed.</li>
-					<li className="list-none">The student who studies hard will succeed.</li>
+					<li>The student <strong>who studies hard</strong> will succeed.</li>
+					<li className="list-none">Học sinh <strong>người mà học tập chăm chỉ</strong> sẽ thành công.</li>
 			
 				</ul>
 
@@ -189,8 +219,8 @@ export default function AdjPlacement9(): React.JSX.Element {
 
 				<ul className="list-square">
 			
-					<li>Although it was raining, we went for a walk.</li>
-					<li className="list-none">Mặc dù trời đang mưa, chúng tôi vẫn đi dạo.</li>
+					<li><strong>Although it was raining</strong>, we went for a walk.</li>
+					<li className="list-none"><strong>Mặc dù trời đang mưa</strong>, chúng tôi vẫn đi dạo.</li>
 			
 				</ul>
 
@@ -201,12 +231,12 @@ export default function AdjPlacement9(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>What he said surprised everyone.</li>
-					<li className="list-none">Những gì anh ấy nói đã làm mọi người ngạc nhiên.</li>
+					<li><strong>What he said</strong> surprised everyone.</li>
+					<li className="list-none"><strong>Những gì anh ấy nói</strong> đã làm mọi người ngạc nhiên.</li>
 			
 				</ul>
 			
-			<p className="margin-top-20">Việc làm chủ Adjective Clause sẽ tạo ra một thói quen tư duy về cấu trúc câu phức, giúp bạn dễ dàng nhận diện và xây dựng các Adverbial Clause và Noun Clause. Bạn sẽ không còn bỡ ngỡ trước những câu dài, mà thay vào đó, sẽ thấy chúng là những mảnh ghép logic, quen thuộc. Sự tương đồng cấu trúc này không phải là một hạn chế, mà là một siêu năng lực tiềm ẩn của người Việt! Nó mang lại lợi thế đáng kể so với các quốc gia khác trong cùng khu vực Đông Nam Á, những người có thể không có sự "đồng điệu" ngôn ngữ này. Hãy tận dụng lợi thế độc đáo này để chinh phục tiếng Anh một cách nhanh chóng, hiệu quả và đầy hứng khởi hơn bao giờ hết!</p>
+			<p className="margin-top-20">Việc làm chủ Adjective Clause sẽ tạo ra một thói quen tư duy về cấu trúc câu phức, giúp bạn dễ dàng nhận diện và xây dựng các Adverbial Clause và Noun Clause. Bạn sẽ không còn bỡ ngỡ trước những câu dài, mà thay vào đó, sẽ thấy chúng là những mảnh ghép logic, quen thuộc. Sự tương đồng cấu trúc này không phải là một hạn chế, mà là một <strong>siêu năng lực tiềm ẩn</strong> của người Việt! Nó mang lại lợi thế đáng kể so với các quốc gia khác trong cùng khu vực Đông Nam Á, những người có thể không có sự "đồng điệu" ngôn ngữ này. Hãy tận dụng lợi thế độc đáo này để chinh phục tiếng Anh một cách nhanh chóng, hiệu quả và đầy hứng khởi hơn bao giờ hết!</p>
 
 			{/* Lời Kết */}
 
@@ -214,7 +244,9 @@ export default function AdjPlacement9(): React.JSX.Element {
 
 			<p>Đã đến lúc thay đổi góc nhìn, đã đến lúc phá bỏ những định kiến cũ kỹ. Tiếng Anh không hề "ngược đời" hay khó nhằn như bạn vẫn nghĩ. Nó chỉ là một phiên bản khác, một cách diễn đạt khác của những gì bạn đã biết và thành thạo trong tiếng Việt.</p>
 
-			<p>Hãy tin vào bản năng ngôn ngữ của mình: đặt danh từ lên trước, sau đó bồi thêm các "tính từ" (mệnh đề hoặc cụm từ) phía sau để mô tả. Khi bạn nhận ra sự "đồng bộ" này trong các cấu trúc phức tạp, bạn sẽ thấy việc chinh phục tiếng Anh không chỉ trở nên đơn giản, tự nhiên mà còn là một hành trình khám phá đầy thú vị. Biến rào cản thành bệ phóng, và hãy tự tin rằng bạn có đủ khả năng để làm chủ ngôn ngữ toàn cầu này, không chỉ ngang bằng mà còn vượt trội hơn!</p>
+			<p>Hãy tin vào bản năng ngôn ngữ của mình: đặt danh từ lên trước, sau đó bồi thêm các "tính từ" (mệnh đề hoặc cụm từ) phía sau để mô tả. Khi bạn nhận ra sự "đồng bộ" này trong các cấu trúc phức tạp, bạn sẽ thấy việc chinh phục tiếng Anh không chỉ trở nên đơn giản, tự nhiên mà còn là một hành trình khám phá đầy thú vị.</p>
+
+			<p>Biến rào cản thành bệ phóng, và hãy tự tin rằng bạn có đủ khả năng để làm chủ ngôn ngữ toàn cầu này, không chỉ ngang bằng mà còn vượt trội hơn!</p>
 			
 
 			<div className="viewcounter">
