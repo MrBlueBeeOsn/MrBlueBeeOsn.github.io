@@ -50,113 +50,158 @@ export default function AdjPlacement2(): React.JSX.Element {
 
 			<h4 className="margin-bottom-30 text-center">Bộ ba mệnh đề thầm lặng: Tại sao người Việt lại có lợi thế ngầm trước cả khu vực?</h4>
 
-			<p></p>
-
-			<p></p>
+			<p className="margin-top-20"></p>
 			
-			<p></p>
+				<ul className="list-square">
+			
+					<li>Bạn có bao giờ tự hỏi:</li>
+					<li className="margin-bottom-20 list-none">Điều gì thực sự khiến người Việt chúng ta chậm tiến hơn trong tiếng Anh?</li>
+			
+					<li>Hàng triệu người sẽ trả lời:</li>
+					<li className="list-none">“Tại tính từ cứ phải đứng trước danh từ"</li>
+			
+				</ul>
+			
+			<p className="margin-top-20">Trong khi mình lại quen nói ‘nhà đẹp’ chứ không phải ‘đẹp nhà’.</p>
+
+			<p>Nghe có lý.</p>
+
+			<p>Nhưng đó mới chỉ là bề nổi của tảng băng.</p>
+
+			<p>Và mình sẽ cho bạn thấy: ẩn sâu bên dưới, người Việt lại đang sở hữu một lợi thế cực kỳ hiếm có – thứ mà cả Thái Lan, Indonesia, Philippines cũng phải mơ ước.</p>
+			
+			<p>Hãy cùng mình lật ngược vấn đề.</p>
 			
 
 			{/* 1.  */}
 
 			<h3 className="margin-y-50 text-center">1. Hai nguyên lý vàng để không bao giờ nhầm vị trí</h3>
 
-			<p></p>
-
-			<p className="margin-top-20"></p>
+			<p>Trước hết, cần ghi nhớ hai điều này. Chúng cực ngắn, cực dễ, nhưng thay đổi toàn bộ tư duy:</p>
 			
 				<ol>
 			
-					<li value="1"></li>
-					<li className="margin-bottom-20 list-none"></li>
+					<li value="1">Danh từ đứng trước tính từ</li>
+					<li className="margin-bottom-20 list-none">Để NHẤN MẠNH danh từ (đối tượng).</li>
 			
-					<li value="2"></li>
-					<li className="list-none"></li>
+					<li value="2">Tính từ đứng trước danh từ</li>
+					<li className="list-none">Để NHẤN MẠNH tính từ (đặc điểm).</li>
 			
 				</ol>
 			
-			<p className="margin-top-20"></p>
-
+			<p className="margin-top-20">Hãy hình dung:</p>
 			
+				<ul className="list-square">
+			
+					<li>Khi bạn muốn nói về “cái cây” trước, sau đó mới thêm “cao”, “xanh”, “tôi đã trồng năm ngoái”</li>
+					<li className="margin-bottom-20 list-none">Bạn đang nhấn mạnh cái cây</li>
+			
+					<li>Khi bạn nói “một cái cây cao” với tính từ kèm ngay trước danh từ</li>
+					<li className="list-none">Bạn đang nhấn mạnh chiều cao</li>
+			
+				</ul>
+			
+			<p className="margin-top-20">Tiếng Việt của ta nghiêng hẳn về vế thứ nhất: </p>
+
+			<p>Nhấn mạnh danh từ, mô tả sau.</p>
+
+			<p>Và đây chính là chìa khóa.</p>
 
 
 			{/* 2.  */}
 
 			<h3 className="margin-y-50 text-center">2. Sự thật ít ai dám nói: người bản ngữ dùng danh từ trước tính từ rất nhiều</h3>
 
-			<p></p>
+			<p>Sách giáo khoa thường dạy bạn hai mẫu câu duy nhất:</p>
 
-			<p className="margin-top-20"></p>
+			<p className="margin-top-20">Tính từ trước danh từ</p>
 			
 				<ul className="list-square">
 			
-					<li></li>
-					<li className="margin-bottom-20 list-none"></li>
-			
-					<li></li>
-					<li className="list-none"></li>
+					<li>A beautiful house.</li>
+					<li className="margin-bottom-20 list-none">Đây là một cụm danh từ.</li>
+
+					<li className="list-none">Một ngôi nhà đẹp (đây là một cụm danh từ).</li>
 			
 				</ul>
-			
-			<p className="margin-top-20"></p>
 
-			<p className="margin-top-20"></p>
+			<p className="margin-top-20">Tính từ sau “to be”</p>
 			
 				<ul className="list-square">
 			
-					<li></li>
-					<li className="margin-bottom-20 list-none"></li>
-			
-					<li></li>
-					<li className="margin-bottom-20 list-none"></li>
-			
-					<li></li>
-					<li className="list-none"></li>
+					<li>The house is beautiful.</li>
+					<li className="margin-bottom-20 list-none">Ngôi nhà thì đẹp.</li>
+
+					<li className="list-none">Đây là một câu hoàn chỉnh.</li>
 			
 				</ul>
 			
-			<p className="margin-top-20"></p>
+			<p className="margin-top-20">Rồi ai cũng mắc kẹt ở đó. Nhưng hãy bước ra khỏi lớp học, đến với các bài báo, bài luận, các cuộc tranh luận thực tế của người Mỹ hay Anh.</p>
 
-		
+			<p>Bạn sẽ thấy họ viết hàng trăm câu dạng này:</p>
 			
+				<ul className="list-square">
+			
+					<li>The man who helped me yesterday is my uncle.</li>
+					<li className="margin-bottom-20 list-none">Người đàn ông người mà đã giúp tôi ngày hôm qua là chú/bác của tôi.</li>
+			
+					<li>The book I borrowed from the library is a masterpiece.</li>
+					<li className="margin-bottom-20 list-none">Cuốn sách mà tôi mượn từ thư viện là một kiệt tác.</li>
+			
+					<li>A person who never gives up will eventually succeed.</li>
+					<li className="list-none">Một người người mà không bao giờ bỏ cuộc cuối cùng sẽ thành công.</li>
+			
+				</ul>
+			
+			<p className="margin-top-20">Hãy dịch sang tiếng Việt</p>
+
+			<p>Bạn thấy không? Trật tự y hệt tiếng Việt: Danh từ → Mệnh đề mô tả.</p>
+
+			<p>Trong tiếng Anh, phần mô tả ấy được gọi là Adjective Clause – mệnh đề tính từ.</p>
+
+			<p>Nó làm một nhiệm vụ duy nhất: bổ nghĩa cho danh từ đứng trước. Và nó chiếm một tỷ lệ áp đảo trong văn nói và văn viết thực tế.</p>
+
+			<h4 className="margin-y-40">Vậy thì nỗi sợ đến từ đâu?</h4>
+
+			<p>Đến từ một cái tên mơ hồ, rối rắm mà sách giáo khoa cũ cố nhồi nhét vào đầu bạn. mình sẽ không nhắc đến cái tên đó ở đây. Hãy quên nó đi.</p>
+
+			<p>Chỉ cần nhớ: Adjective Clause – mệnh đề tính từ, đứng sau danh từ, giống như tiếng Việt.</p>
 
 			{/* 3.  */}
 
 			<h3 className="margin-y-50 text-center">3. Khi bạn thực sự làm chủ được Adjective Clause, cánh cửa của bộ ba mệnh đề mở ra</h3>
 
-			<p></p>
+			<p>Người bản ngữ xây dựng mọi câu phức tạp bằng ba loại mệnh đề trụ cột.</p>
+
+			<p>Và tin vui là: một khi bạn đã thấm nhuần cách dùng Adjective Clause, hai mệnh đề còn lại sẽ không còn gì đáng sợ.</p>
+
+			<p>Hãy cùng điểm qua ba mệnh đề ấy – bộ khung xương của mọi tư duy tiếng Anh đẳng cấp.</p>
 
 			<h4 className="margin-y-40">1. Adjective Clause – Mệnh đề tính từ (lợi thế của người Việt)</h4>
-
-			<p className="margin-top-20"></p>
 			
 				<ul className="list-square">
 			
-					<li></li>
-					<li className="margin-bottom-20 list-none"></li>
+					<li>Cấu trúc:</li>
+					<li className="margin-bottom-20 list-none">Danh từ + (who/which/that/where/when...) + mô tả</li>
 			
-					<li></li>
-					<li className="margin-bottom-20 list-none"></li>
+					<li>Vai trò:</li>
+					<li className="margin-bottom-20 list-none">Đóng vai trò như một tính từ, bổ nghĩa cho danh từ đứng trước.</li>
 			
-					<li></li>
-					<li className="list-none"></li>
+					<li>Tần suất:</li>
+					<li className="list-none">Cực kỳ phổ biến trong văn viết, hùng biện, học thuật.</li>
 			
 				</ul>
-			
-			<p className="margin-top-20"></p>
-					
-			<p className="text-indent-whole"></p>
 
-			<p className="margin-top-20"></p>
+			<p className="margin-top-20">Ví dụ đỉnh cao:</p>
 			
 				<ul className="list-square">
 			
-					<li></li>
-					<li className="list-none"></li>
+					<li>The decision that changed my entire life came at 5 PM.</li>
+					<li className="list-none">Quyết định đã thay đổi toàn bộ cuộc đời tôi đến vào lúc 5 giờ chiều.</li>
 			
 				</ul>
 			
-			<p className="margin-top-20"></p>
+			<p className="margin-top-20">Hoàn toàn giống tiếng Việt: danh từ → mệnh đề dài</p>
 
 
 			<h4 className="margin-y-40">2. Adverbial Clause – Mệnh đề trạng ngữ (mượn tư duy từ Adjective Clause)</h4>
