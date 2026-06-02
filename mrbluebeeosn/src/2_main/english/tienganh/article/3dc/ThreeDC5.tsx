@@ -55,53 +55,166 @@ export default function ThreeDC5(): React.ReactElement {
 			<p></p>
 			
 			<p></p>
+
+			<h4 className="margin-y-40">Mục lục</h4>
+					
+			<p className="text-indent-whole"></p>
 			
 
 			{/* 1.  */}
 
-			<h3 className="margin-y-50 text-center">1. </h3>
+			<h3 className="margin-y-50 text-center">1. Tổng quan: Bộ 3 là gì?</h3>
 
 			<p></p>
 
-			
+			<h4 className="margin-y-40">Bảng tổng hợp nhanh</h4>
+					
+			<p className="text-indent-whole"></p>
 
 
 			{/* 2.  */}
 
-			<h3 className="margin-y-50 text-center">2. </h3>
+			<h3 className="margin-y-50 text-center">2. Noun Clause — Mệnh đề danh ngữ</h3>
 
 			<p></p>
 
 		
-			
+			<h4 className="margin-y-40">Từ dẫn</h4>
+					
+			<p className="text-indent-whole"></p>
+
+
+			<h4 className="margin-y-40">Chủ ngữ giả "It" + Noun Clause</h4>
+					
+			<p className="text-indent-whole"></p>
+
+
+			<h4 className="margin-y-40">Lỗi thường gặp</h4>
+					
+			<p className="text-indent-whole"></p>
+
 
 			{/* 3.  */}
 
-			<h3 className="margin-y-50 text-center">3. </h3>
+			<h3 className="margin-y-50 text-center">3. Adjective Clause — Mệnh đề tính ngữ</h3>
 
 			<p></p>
+
+
+			<h4 className="margin-y-40">Đại từ quan hệ (Relative Pronouns)</h4>
+					
+			<p className="text-indent-whole"></p>
+
+
+			<h4 className="margin-y-40">Defining vs. Non-defining — Phân biệt quan trọng nhất</h4>
+					
+			<p className="text-indent-whole"></p>
+
+
+			<h4 className="margin-y-40">Khi nào bỏ đại từ quan hệ?</h4>
+					
+			<p className="text-indent-whole"></p>
+
+
+			<h4 className="margin-y-40">Ví dụ theo từng nhóm</h4>
+					
+			<p className="text-indent-whole"></p>
+
+
+			<h4 className="margin-y-40">Lỗi thường gặp</h4>
+					
+			<p className="text-indent-whole"></p>
 			
 			
 
 			{/* 4.  */}
 
-			<h3 className="margin-y-50 text-center">4. </h3>
+			<h3 className="margin-y-50 text-center">4. Adverb Clause — Mệnh đề trạng ngữ</h3>
 
 			<p></p>
+
+
+			
 
 			
 
 			{/* 5.  */}
 
-			<h3 className="margin-y-50 text-center">5. </h3>
+			<h3 className="margin-y-50 text-center">5. Cách nhận biết và phân biệt nhanh</h3>
 
 			<p></p>
 
+			<h4 className="margin-y-40">Bảng phân biệt từ dẫn có thể thuộc nhiều loại</h4>
+					
+			<p className="text-indent-whole"></p>
+
+
+			<h4 className="margin-y-40">Phân biệt "that" — tóm tắt nhanh</h4>
+					
+			<p className="text-indent-whole"></p>
+
+
+
+			{/* 6.  */}
+
+			<h3 className="margin-y-50 text-center">6. Câu phức phối hợp cả 3 loại</h3>
+
+			<p></p>
+
+			<h4 className="margin-y-40">Câu phức có 2 loại clause</h4>
+					
+			<p className="text-indent-whole"></p>
+
+
+			<h4 className="margin-y-40">Câu có đủ cả 3 loại</h4>
+					
+			<p className="text-indent-whole"></p>
+
+
+			{/* 7.  */}
+
+			<h3 className="margin-y-50 text-center">7. Rút gọn Clause thành Phrase — từ B2 lên C1</h3>
+
+			<p></p>
+
+
+			<h4 className="margin-y-40">Rút gọn Adjective Clause → Participial Phrase</h4>
+					
+			<p className="text-indent-whole"></p>
+
+
+			<h4 className="margin-y-40">Rút gọn Adverb Clause → Participial Phrase / Infinitive</h4>
+					
+			<p className="text-indent-whole"></p>
+
+
+
+			<h4 className="margin-y-40">Bảng tiến hóa B1 → B2 → C1 → C2</h4>
+					
+			<p className="text-indent-whole"></p>
+
+
+			{/* 8.  */}
+
+			<h3 className="margin-y-50 text-center">8. Lộ trình làm chủ và câu hỏi thường gặp</h3>
+
+			<p></p>
+
+
+			<h4 className="margin-y-40">Lộ trình 6 bước thực hành</h4>
+					
+			<p className="text-indent-whole"></p>
+
+
+			<h4 className="margin-y-40">Người bản ngữ dùng bộ 3 như thế nào?</h4>
+					
+			<p className="text-indent-whole"></p>
+
 			
 
-			{/* Lời Kết */}
+			{/* Tổng kết */}
 
-			<h3 className="margin-y-50 text-center"></h3>
+			<h3 className="margin-y-50 text-center">Tổng kết</h3>
 
 			<p></p>
 

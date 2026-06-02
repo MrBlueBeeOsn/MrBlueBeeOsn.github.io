@@ -59,7 +59,7 @@ export default function ThreeDC8(): React.ReactElement {
 
 			{/* 1.  */}
 
-			<h3 className="margin-y-50 text-center">1. </h3>
+			<h3 className="margin-y-50 text-center">1. Ba loại mệnh đề là gì</h3>
 
 			<p></p>
 
@@ -68,7 +68,7 @@ export default function ThreeDC8(): React.ReactElement {
 
 			{/* 2.  */}
 
-			<h3 className="margin-y-50 text-center">2. </h3>
+			<h3 className="margin-y-50 text-center">2. Mệnh đề danh từ</h3>
 
 			<p></p>
 
@@ -77,7 +77,7 @@ export default function ThreeDC8(): React.ReactElement {
 
 			{/* 3.  */}
 
-			<h3 className="margin-y-50 text-center">3. </h3>
+			<h3 className="margin-y-50 text-center">3. Mệnh đề tính từ</h3>
 
 			<p></p>
 			
@@ -85,23 +85,72 @@ export default function ThreeDC8(): React.ReactElement {
 
 			{/* 4.  */}
 
-			<h3 className="margin-y-50 text-center">4. </h3>
+			<h3 className="margin-y-50 text-center">4. Mệnh đề trạng từ</h3>
 
 			<p></p>
 
 			
+
 
 			{/* 5.  */}
 
-			<h3 className="margin-y-50 text-center">5. </h3>
+			<h3 className="margin-y-50 text-center">5. Cách phân biệt trong 5 giây</h3>
 
 			<p></p>
 
 			
 
-			{/* Lời Kết */}
 
-			<h3 className="margin-y-50 text-center"></h3>
+			{/* 6.  */}
+
+			<h3 className="margin-y-50 text-center">6. Từ đúng ngữ pháp đến tự nhiên</h3>
+
+			<p></p>
+
+		
+			
+
+			{/* 7.  */}
+
+			<h3 className="margin-y-50 text-center">7. Lộ trình 7 ngày làm chủ</h3>
+
+			<p></p>
+			
+			
+
+			{/* 8.  */}
+
+			<h3 className="margin-y-50 text-center">8. 30 câu mẫu nên thuộc lòng</h3>
+
+			<p></p>
+
+			<h4 className="margin-y-40">Noun clause</h4>
+					
+			<p className="text-indent-whole"></p>
+
+
+			<h4 className="margin-y-40">Adjective clause</h4>
+					
+			<p className="text-indent-whole"></p>
+
+
+			<h4 className="margin-y-40">Adverb clause</h4>
+					
+			<p className="text-indent-whole"></p>
+
+			
+
+			{/* 9.  */}
+
+			<h3 className="margin-y-50 text-center">9. Sai lầm phổ biến của người Việt</h3>
+
+			<p></p>
+
+			
+
+			{/* 10. */}
+
+			<h3 className="margin-y-50 text-center">10. Kết luận</h3>
 
 			<p></p>
 

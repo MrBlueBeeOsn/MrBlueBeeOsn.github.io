@@ -59,7 +59,7 @@ export default function ThreeDC1(): React.ReactElement {
 
 			{/* 1.  */}
 
-			<h3 className="margin-y-50 text-center">1. </h3>
+			<h3 className="margin-y-50 text-center">I. TƯ DUY CỐT LÕI: "Phóng to" một từ loại</h3>
 
 			<p></p>
 
@@ -68,16 +68,31 @@ export default function ThreeDC1(): React.ReactElement {
 
 			{/* 2.  */}
 
-			<h3 className="margin-y-50 text-center">2. </h3>
+			<h3 className="margin-y-50 text-center">II. GIẢI MÃ "BỘ 3 QUYỀN LỰC": Định nghĩa, Nhận biết & Ví dụ</h3>
 
 			<p></p>
 
 		
-			
+			<h4 className="margin-y-40">1. Mệnh đề Trạng ngữ (Adverbial Clause)</h4>
+					
+			<p className="text-indent-whole"></p>
+
+
+			<h4 className="margin-y-40">2. Mệnh đề Tính ngữ / Mệnh đề Quan hệ (Adjective Clause)</h4>
+					
+			<p className="text-indent-whole"></p>
+
+
+
+			<h4 className="margin-y-40">3. Mệnh đề Danh ngữ (Noun Clause)</h4>
+					
+			<p className="text-indent-whole"></p>
+
+
 
 			{/* 3.  */}
 
-			<h3 className="margin-y-50 text-center">3. </h3>
+			<h3 className="margin-y-50 text-center">III. TUYỆT CHIÊU PHÂN BIỆT "THẦN TỐC" BẰNG MẸO THẾ THÂN</h3>
 
 			<p></p>
 			
@@ -85,23 +100,33 @@ export default function ThreeDC1(): React.ReactElement {
 
 			{/* 4.  */}
 
-			<h3 className="margin-y-50 text-center">4. </h3>
+			<h3 className="margin-y-50 text-center">IV. LỘ TRÌNH 3 BƯỚC LÀM CHỦ ĐỂ CHẠM NGƯỠNG ADVANCED</h3>
 
 			<p></p>
 
-			
+		
 
-			{/* 5.  */}
+			<h4 className="margin-y-40">Bước 1: Kỹ thuật gộp câu (Sentence Combining)</h4>
+					
+			<p className="text-indent-whole"></p>
 
-			<h3 className="margin-y-50 text-center">5. </h3>
 
-			<p></p>
+			<h4 className="margin-y-40">Bước 2: Kỹ thuật Rút gọn (Reduction) – Đỉnh cao của người bản ngữ</h4>
+					
+			<p className="text-indent-whole"></p>
 
-			
+
+
+			<h4 className="margin-y-40">Bước 3: Đảo ngữ kết hợp (Inversion)</h4>
+					
+			<p className="text-indent-whole"></p>
+
+
+
 
 			{/* Lời Kết */}
 
-			<h3 className="margin-y-50 text-center"></h3>
+			<h3 className="margin-y-50 text-center">V. LỜI KẾT: Học bộ 3 mệnh đề đã đủ để giỏi "thần tốc"?</h3>
 
 			<p></p>
 

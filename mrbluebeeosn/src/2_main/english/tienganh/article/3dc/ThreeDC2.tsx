@@ -59,49 +59,156 @@ export default function ThreeDC2(): React.ReactElement {
 
 			{/* 1.  */}
 
-			<h3 className="margin-y-50 text-center">1. </h3>
+			<h3 className="margin-y-50 text-center">1. 📌 BỘ 3 MỆNH ĐỀ LÀ GÌ? (VÌ SAO PHẢI QUAN TÂM?)</h3>
 
 			<p></p>
-
-			
 
 
 			{/* 2.  */}
 
-			<h3 className="margin-y-50 text-center">2. </h3>
+			<h3 className="margin-y-50 text-center">2. 🔍 PHẦN 1: DIỆN MẠO CỦA TỪNG LOẠI – PHÂN BIỆT BẰNG “MẸO 3 CÂU HỎI”</h3>
+
+			<p></p>
+
+
+			<h4 className="margin-y-40">1. Mệnh đề danh từ (Noun clause)</h4>
+					
+			<p className="text-indent-whole"></p>
+
+
+			<h4 className="margin-y-40">2. Mệnh đề tính từ (Adjective clause) – Mệnh đề quan hệ</h4>
+					
+			<p className="text-indent-whole"></p>
+
+
+
+			<h4 className="margin-y-40">3. Mệnh đề trạng từ (Adverb clause)</h4>
+					
+			<p className="text-indent-whole"></p>
+
+
+			{/* 3.  */}
+
+			<h3 className="margin-y-50 text-center">3. 🧠 “3 CÂU HỎI VÀNG” PHÂN BIỆT TỨC THÌ</h3>
+
+			<p></p>
+
+
+			{/* 4.  */}
+
+			<h3 className="margin-y-50 text-center">4. 📚 VÍ DỤ THỰC CHIẾN (CÓ PHÂN TÍCH CHI TIẾT)</h3>
+
+			<p></p>
+
+
+			{/* 5.  */}
+
+			<h3 className="margin-y-50 text-center">5 ✍️ CÁCH SỬ DỤNG ĐÚNG – VĂN NÓI & VĂN VIẾT</h3>
+
+			<p></p>
+
+			<h4 className="margin-y-40">Trong giao tiếp hàng ngày:</h4>
+					
+			<p className="text-indent-whole"></p>
+
+
+
+			<h4 className="margin-y-40">Trong văn viết (học thuật, công sở):</h4>
+					
+			<p className="text-indent-whole"></p>
+
+
+			<h4 className="margin-y-40">Quy tắc dấu phẩy vàng:</h4>
+					
+			<p className="text-indent-whole"></p>
+
+			
+
+
+			{/* 6.  */}
+
+			<h3 className="margin-y-50 text-center">6. ❌ 5 LỖI SAI “KINH ĐIỂN” CẦN TRÁNH</h3>
 
 			<p></p>
 
 		
 			
 
-			{/* 3.  */}
+			{/* 7.  */}
 
-			<h3 className="margin-y-50 text-center">3. </h3>
-
-			<p></p>
-			
-			
-
-			{/* 4.  */}
-
-			<h3 className="margin-y-50 text-center">4. </h3>
+			<h3 className="margin-y-50 text-center">7. 🗺️ LỘ TRÌNH 4 TUẦN LÀM CHỦ BỘ 3 MỆNH ĐỀ</h3>
 
 			<p></p>
 
+
+			<h4 className="margin-y-40">Tuần 1 – NHẬN DIỆN (15 phút/ngày)</h4>
+					
+			<p className="text-indent-whole"></p>
+
+
+			<h4 className="margin-y-40">Tuần 2 – PHÂN TÍCH & GHÉP CÂU (20 phút/ngày)</h4>
+					
+			<p className="text-indent-whole"></p>
+
+
+			<h4 className="margin-y-40">Tuần 3 – SẢN XUẤT CÓ CHỦ ĐÍCH (20 phút/ngày)</h4>
+					
+			<p className="text-indent-whole"></p>
+
+
+			<h4 className="margin-y-40">Tuần 4 – SỬA LỖI & NÂNG CAO (20 phút/ngày)</h4>
+					
+			<p className="text-indent-whole"></p>
+			
 			
 
-			{/* 5.  */}
+			{/* 8.  */}
 
-			<h3 className="margin-y-50 text-center">5. </h3>
+			<h3 className="margin-y-50 text-center">8. 💎 HỌC XONG BỘ 3 MỆNH ĐỀ – ĐÃ “ADVANCED” CHƯA?</h3>
 
 			<p></p>
 
+			<h4 className="margin-y-40">Những gì bạn sẽ đạt được:</h4>
+					
+			<p className="text-indent-whole"></p>
+
+
+			<h4 className="margin-y-40">Nhưng Advanced English còn cần thêm:</h4>
+					
+			<p className="text-indent-whole"></p>
+
 			
 
-			{/* Lời Kết */}
+			{/* 9.  */}
 
-			<h3 className="margin-y-50 text-center"></h3>
+			<h3 className="margin-y-50 text-center">9. 📝 BÀI TẬP TỔNG HỢP (TỰ KIỂM TRA)</h3>
+
+			<p></p>
+
+			<h4 className="margin-y-40">Bài 1: Xác định loại mệnh đề được gạch chân</h4>
+					
+			<p className="text-indent-whole"></p>
+
+
+			<h4 className="margin-y-40">Bài 2: Ghép cặp thành câu phức</h4>
+					
+			<p className="text-indent-whole"></p>
+
+
+			<h4 className="margin-y-40">Bài 3: Sửa lỗi sai trong các câu sau</h4>
+					
+			<p className="text-indent-whole"></p>
+
+
+			<h4 className="margin-y-40">Bài 4: Viết lại câu theo yêu cầu</h4>
+					
+			<p className="text-indent-whole"></p>
+
+
+
+			{/* 🌟 LỜI KẾT */}
+
+			<h3 className="margin-y-50 text-center">10. 🌟 LỜI KẾT</h3>
 
 			<p></p>
 

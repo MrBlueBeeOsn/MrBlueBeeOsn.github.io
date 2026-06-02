@@ -59,16 +59,29 @@ export default function ThreeDC6(): React.ReactElement {
 
 			{/* 1.  */}
 
-			<h3 className="margin-y-50 text-center">1. </h3>
+			<h3 className="margin-y-50 text-center">1. Định nghĩa, dấu hiệu nhận biết và ví dụ minh họa</h3>
 
 			<p></p>
 
 			
+			<h4 className="margin-y-40">Mệnh đề trạng ngữ (Adverb clause)</h4>
+					
+			<p className="text-indent-whole"></p>
+
+
+			<h4 className="margin-y-40">Mệnh đề tính từ / quan hệ (Adjective / Relative clause)</h4>
+					
+			<p className="text-indent-whole"></p>
+
+
+			<h4 className="margin-y-40">Mệnh đề danh từ / mệnh đề tân ngữ (Noun clause / Object clause)</h4>
+					
+			<p className="text-indent-whole"></p>
 
 
 			{/* 2.  */}
 
-			<h3 className="margin-y-50 text-center">2. </h3>
+			<h3 className="margin-y-50 text-center">2. Bảng so sánh nhanh</h3>
 
 			<p></p>
 
@@ -77,7 +90,7 @@ export default function ThreeDC6(): React.ReactElement {
 
 			{/* 3.  */}
 
-			<h3 className="margin-y-50 text-center">3. </h3>
+			<h3 className="margin-y-50 text-center">3. Cách phân biệt nhanh khi đọc/viết</h3>
 
 			<p></p>
 			
@@ -85,7 +98,7 @@ export default function ThreeDC6(): React.ReactElement {
 
 			{/* 4.  */}
 
-			<h3 className="margin-y-50 text-center">4. </h3>
+			<h3 className="margin-y-50 text-center">4. Các dạng biến đổi và rút gọn thường gặp</h3>
 
 			<p></p>
 
@@ -93,15 +106,56 @@ export default function ThreeDC6(): React.ReactElement {
 
 			{/* 5.  */}
 
-			<h3 className="margin-y-50 text-center">5. </h3>
+			<h3 className="margin-y-50 text-center">5. Lỗi thường gặp và cách tránh</h3>
+
+			<p></p>
+
+
+			{/* 6.  */}
+
+			<h3 className="margin-y-50 text-center">6. Lộ trình 6 bước để làm chủ + bài tập thực hành</h3>
+
+			<p></p>
+
+			<h4 className="margin-y-40">Lộ trình ngắn (6 tuần)</h4>
+					
+			<p className="text-indent-whole"></p>
+
+
+			<h4 className="margin-y-40">Bài tập mẫu (10 câu) — làm, sau đó kiểm tra đáp án</h4>
+					
+			<p className="text-indent-whole">Bài tập:</p>
+			
+				<ol>
+			
+					<li value="1"></li>
+					<li className="list-none"></li>
+					<li className="margin-bottom-20 list-none"></li>
+			
+					<li value="2"></li>
+					<li className="list-none"></li>
+					<li className="margin-bottom-20 list-none"></li>
+			
+					<li value="3"></li>
+					<li className="list-none"></li>
+					<li className="list-none"></li>
+			
+				</ol>
+			
+			<p className="margin-top-20"></p>
+
+
+			{/* 7.  */}
+
+			<h3 className="margin-y-50 text-center">7. Mẹo nâng cao để dùng tự nhiên như người bản ngữ</h3>
 
 			<p></p>
 
 			
 
-			{/* Lời Kết */}
+			{/* Kết luận ngắn */}
 
-			<h3 className="margin-y-50 text-center"></h3>
+			<h3 className="margin-y-50 text-center">Kết luận ngắn</h3>
 
 			<p></p>
 

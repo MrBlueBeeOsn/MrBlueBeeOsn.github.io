@@ -57,51 +57,87 @@ export default function ThreeDC4(): React.ReactElement {
 			<p></p>
 			
 
+
 			{/* 1.  */}
 
-			<h3 className="margin-y-50 text-center">1. </h3>
+			<h3 className="margin-y-50 text-center">1. Tiếng Anh Nâng Cao Thực Chất Là Khả Năng Kết Nối Ý Tưởng</h3>
+
+			<p></p>
+
+
+			{/* 2.  */}
+
+			<h3 className="margin-y-50 text-center">2. Mệnh Đề Là Gì?</h3>
+
+			<p></p>
+
+
+			{/* 3.  */}
+
+			<h3 className="margin-y-50 text-center">3. Cách Nhớ Bộ 3 Mệnh Đề Trong 5 Giây</h3>
+
+			<p></p>
+
+
+			{/* 4.  */}
+
+			<h3 className="margin-y-50 text-center">4. Mệnh Đề Trạng Từ: Chuyên Gia Giải Thích Hành Động</h3>
+
+			<p></p>
+
+
+			{/* 5.  */}
+
+			<h3 className="margin-y-50 text-center">5. Mệnh Đề Tính Từ: Chuyên Gia Mô Tả Danh Từ</h3>
+
+			<p></p>
+
+
+			{/* 6.  */}
+
+			<h3 className="margin-y-50 text-center">6. Mệnh Đề Danh Từ: Loại Mệnh Đề Quyền Lực Nhất</h3>
 
 			<p></p>
 
 			
 
 
-			{/* 2.  */}
+			{/* 7.  */}
 
-			<h3 className="margin-y-50 text-center">2. </h3>
+			<h3 className="margin-y-50 text-center">7. Sự Thật Về Object Clause</h3>
 
 			<p></p>
 
 		
 			
 
-			{/* 3.  */}
+			{/* 8.  */}
 
-			<h3 className="margin-y-50 text-center">3. </h3>
-
-			<p></p>
-			
-			
-
-			{/* 4.  */}
-
-			<h3 className="margin-y-50 text-center">4. </h3>
+			<h3 className="margin-y-50 text-center">8. Tại Sao Người Bản Ngữ Sử Dụng Bộ 3 Mệnh Đề Rất Nhiều?</h3>
 
 			<p></p>
-
+			
 			
 
-			{/* 5.  */}
+			{/* 9.  */}
 
-			<h3 className="margin-y-50 text-center">5. </h3>
+			<h3 className="margin-y-50 text-center">9. Cách Học Bộ 3 Mệnh Đề Hiệu Quả Nhất</h3>
 
 			<p></p>
 
 			
 
-			{/* Lời Kết */}
+			{/* 10.  */}
 
-			<h3 className="margin-y-50 text-center"></h3>
+			<h3 className="margin-y-50 text-center">10. Làm Chủ Bộ 3 Mệnh Đề Có Đồng Nghĩa Với Advanced English Không?</h3>
+
+			<p></p>
+
+			
+
+			{/* Kết Luận */}
+
+			<h3 className="margin-y-50 text-center">Kết Luận</h3>
 
 			<p></p>
 

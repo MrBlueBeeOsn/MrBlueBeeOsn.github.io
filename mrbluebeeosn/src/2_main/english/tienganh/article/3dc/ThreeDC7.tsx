@@ -59,7 +59,7 @@ export default function ThreeDC7(): React.ReactElement {
 
 			{/* 1.  */}
 
-			<h3 className="margin-y-50 text-center">1. </h3>
+			<h3 className="margin-y-50 text-center">1. Mở đầu: Tại sao phải học bộ 3 mệnh đề?</h3>
 
 			<p></p>
 
@@ -68,36 +68,191 @@ export default function ThreeDC7(): React.ReactElement {
 
 			{/* 2.  */}
 
-			<h3 className="margin-y-50 text-center">2. </h3>
+			<h3 className="margin-y-50 text-center">2. Mệnh đề là gì? Independent vs. Dependent Clause</h3>
 
 			<p></p>
 
-		
+			<h4 className="margin-y-40">2.1. Định nghĩa mệnh đề (Clause)</h4>
+					
+			<p className="text-indent-whole"></p>
+
+
+			<h4 className="margin-y-40">2.2. Mệnh đề độc lập vs. mệnh đề phụ thuộc</h4>
+					
+			<p className="text-indent-whole"></p>
+
+			<p className="margin-top-20">a. Mệnh đề độc lập (Independent Clause)</p>
+			
+				<ul className="list-square">
+			
+					<li></li>
+			
+					<li></li>
+			
+					<li></li>
+			
+				</ul>
+			
+			<p className="margin-top-20"></p>
+
+
+			<p className="margin-top-20">b. Mệnh đề phụ thuộc (Dependent Clause)</p>
+			
+				<ul className="list-square">
+			
+					<li></li>
+			
+					<li></li>
+			
+					<li></li>
+			
+				</ul>
+			
+			<p className="margin-top-20"></p>
 			
 
 			{/* 3.  */}
 
-			<h3 className="margin-y-50 text-center">3. </h3>
+			<h3 className="margin-y-50 text-center">3. Mệnh đề danh từ (Noun Clause)</h3>
 
 			<p></p>
+
+			<h4 className="margin-y-40">3.1. Định nghĩa</h4>
+					
+			<p className="text-indent-whole"></p>
+
+
+			<h4 className="margin-y-40">3.2. Chức năng trong câu</h4>
+					
+			<p className="text-indent-whole"></p>
+
 			
+			<h4 className="margin-y-40">3.3. Từ nối thường gặp</h4>
+					
+			<p className="text-indent-whole"></p>
+
+
+			<h4 className="margin-y-40">3.4. Dấu hiệu nhận biết</h4>
+					
+			<p className="text-indent-whole"></p>
+
+
+			<h4 className="margin-y-40">3.5. Ví dụ minh họa</h4>
+					
+			<p className="text-indent-whole"></p>
 			
 
 			{/* 4.  */}
 
-			<h3 className="margin-y-50 text-center">4. </h3>
+			<h3 className="margin-y-50 text-center">4. Mệnh đề tính từ (Adjective Clause / Relative Clause)</h3>
 
 			<p></p>
+
+			<h4 className="margin-y-40">4.1. Định nghĩa</h4>
+					
+			<p className="text-indent-whole"></p>
+
+
+			<h4 className="margin-y-40">4.2. Chức năng trong câu</h4>
+					
+			<p className="text-indent-whole"></p>
+
+
+			<h4 className="margin-y-40">4.3. Đại từ & trạng từ quan hệ thường gặp</h4>
+					
+			<p className="text-indent-whole"></p>
+
+
+			<h4 className="margin-y-40">4.4. Dấu hiệu nhận biết</h4>
+					
+			<p className="text-indent-whole"></p>
+
+
+			<h4 className="margin-y-40">4.5. Phân loại</h4>
+					
+			<p className="text-indent-whole"></p>
+
+
+			<h4 className="margin-y-40">4.6. Ví dụ minh họa</h4>
+					
+			<p className="text-indent-whole"></p>
 
 			
 
 			{/* 5.  */}
 
-			<h3 className="margin-y-50 text-center">5. </h3>
+			<h3 className="margin-y-50 text-center">5. Mệnh đề trạng ngữ (Adverbial Clause)</h3>
 
 			<p></p>
 
-			
+			<h4 className="margin-y-40">5.1. Định nghĩa</h4>
+					
+			<p className="text-indent-whole"></p>
+
+
+			<h4 className="margin-y-40">5.2. Chức năng trong câu</h4>
+					
+			<p className="text-indent-whole"></p>
+
+
+			<h4 className="margin-y-40">5.3. Các loại mệnh đề trạng ngữ thường gặp</h4>
+					
+			<p className="text-indent-whole"></p>
+
+
+			<h4 className="margin-y-40">5.4. Dấu hiệu nhận biết</h4>
+					
+			<p className="text-indent-whole"></p>
+
+
+
+			<h4 className="margin-y-40">5.5. Ví dụ minh họa</h4>
+					
+			<p className="text-indent-whole"></p>
+
+
+			{/* 6.  */}
+
+			<h3 className="margin-y-50 text-center">6. Bảng tổng hợp: Phân biệt 3 loại mệnh đề</h3>
+
+			<p></p>
+
+			<h4 className="margin-y-40">Mệnh đề danh từ (Noun Clause)</h4>
+					
+			<p className="text-indent-whole"></p>
+
+
+			<h4 className="margin-y-40">Mệnh đề tính từ (Adjective Clause)</h4>
+					
+			<p className="text-indent-whole"></p>
+
+
+			<h4 className="margin-y-40">Mệnh đề trạng ngữ (Adverbial Clause)</h4>
+					
+			<p className="text-indent-whole"></p>
+
+
+
+			{/* 7.  */}
+
+			<h3 className="margin-y-50 text-center">7. </h3>
+
+			<p></p>
+
+			<h4 className="margin-y-40">7.1. Nhớ theo "3 từ khóa chức năng"</h4>
+					
+			<p className="text-indent-whole"></p>
+
+
+			<h4 className="margin-y-40">7.2. Nhớ theo vị trí</h4>
+					
+			<p className="text-indent-whole"></p>
+
+
+			<h4 className="margin-y-40">7.3. Nhớ theo từ nối</h4>
+					
+			<p className="text-indent-whole"></p>
+
 
 			{/* Lời Kết */}
 
