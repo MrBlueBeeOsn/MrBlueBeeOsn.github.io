@@ -63,6 +63,23 @@ export default function ThreeDC8(): React.ReactElement {
 
 			<p></p>
 
+			<p className="margin-top-20"></p>
+			
+				<ul className="list-square">
+			
+					<li></li>
+					<li className="margin-bottom-20 list-none"></li>
+			
+					<li></li>
+					<li className="margin-bottom-20 list-none"></li>
+			
+					<li></li>
+					<li className="list-none"></li>
+			
+				</ul>
+			
+			<p className="margin-top-20"></p>
+
 			
 
 
@@ -72,7 +89,25 @@ export default function ThreeDC8(): React.ReactElement {
 
 			<p></p>
 
-		
+			<p className="margin-top-20"></p>
+			
+				<ul className="list-square">
+			
+					<li></li>
+					<li className="margin-bottom-20 list-none"></li>
+			
+					<li></li>
+					<li className="margin-bottom-20 list-none"></li>
+
+					<li></li>
+					<li className="margin-bottom-20 list-none"></li>
+			
+					<li></li>
+					<li className="list-none"></li>
+			
+				</ul>
+			
+			<p className="margin-top-20"></p>
 			
 
 			{/* 3.  */}
@@ -80,6 +115,67 @@ export default function ThreeDC8(): React.ReactElement {
 			<h3 className="margin-y-50 text-center">3. Mệnh đề tính từ</h3>
 
 			<p></p>
+
+			<p className="margin-top-20"></p>
+			
+				<ul className="list-square">
+			
+					<li></li>
+					<li className="list-none"></li>
+					<li className="margin-bottom-20 list-none"></li>
+			
+					<li></li>
+					<li className="list-none"></li>
+					<li className="margin-bottom-20 list-none"></li>
+
+					<li></li>
+					<li className="list-none"></li>
+					<li className="margin-bottom-20 list-none"></li>
+			
+					<li></li>
+					<li className="list-none"></li>
+					<li className="list-none"></li>
+			
+				</ul>
+			
+			<p className="margin-top-20"></p>
+
+			<p className="margin-top-20"></p>
+			
+				<ul className="list-square">
+			
+					<li></li>
+					<li className="list-none"></li>
+					<li className="margin-bottom-20 list-none"></li>
+			
+					<li></li>
+					<li className="list-none"></li>
+					<li className="margin-bottom-20 list-none"></li>
+			
+					<li></li>
+					<li className="list-none"></li>
+					<li className="list-none"></li>
+			
+				</ul>
+			
+			<p className="margin-top-20"></p>
+
+			<p className="margin-top-20"></p>
+			
+				<ul className="list-square">
+			
+					<li></li>
+					<li className="margin-bottom-20 list-none"></li>
+			
+					<li></li>
+					<li className="margin-bottom-20 list-none"></li>
+			
+					<li></li>
+					<li className="list-none"></li>
+			
+				</ul>
+			
+			<p className="margin-top-20"></p>
 			
 			
 
@@ -88,6 +184,61 @@ export default function ThreeDC8(): React.ReactElement {
 			<h3 className="margin-y-50 text-center">4. Mệnh đề trạng từ</h3>
 
 			<p></p>
+
+			<p className="margin-top-20"></p>
+			
+				<ul className="list-square">
+			
+					<li></li>
+					<li className="list-none"></li>
+					<li className="margin-bottom-20 list-none"></li>
+			
+					<li></li>
+					<li className="list-none"></li>
+					<li className="margin-bottom-20 list-none"></li>
+
+					<li></li>
+					<li className="list-none"></li>
+					<li className="margin-bottom-20 list-none"></li>
+			
+					<li></li>
+					<li className="list-none"></li>
+					<li className="margin-bottom-20 list-none"></li>
+
+					<li></li>
+					<li className="list-none"></li>
+					<li className="margin-bottom-20 list-none"></li>
+			
+					<li></li>
+					<li className="list-none"></li>
+					<li className="list-none"></li>
+			
+				</ul>
+			
+			<p className="margin-top-20"></p>
+
+			<p className="margin-top-20"></p>
+			
+				<ul className="list-square">
+			
+					<li></li>
+					<li className="margin-bottom-20 list-none"></li>
+			
+					<li></li>
+					<li className="margin-bottom-20 list-none"></li>
+
+					<li></li>
+					<li className="margin-bottom-20 list-none"></li>
+			
+					<li></li>
+					<li className="margin-bottom-20 list-none"></li>
+			
+					<li></li>
+					<li className="list-none"></li>
+			
+				</ul>
+			
+			<p className="margin-top-20"></p>
 
 			
 
@@ -98,6 +249,26 @@ export default function ThreeDC8(): React.ReactElement {
 
 			<p></p>
 
+			<p className="margin-top-20"></p>
+			
+				<ul className="list-square">
+			
+					<li></li>
+					<li className="list-none"></li>
+					<li className="margin-bottom-20 list-none"></li>
+			
+					<li></li>
+					<li className="list-none"></li>
+					<li className="margin-bottom-20 list-none"></li>
+			
+					<li></li>
+					<li className="list-none"></li>
+					<li className="list-none"></li>
+			
+				</ul>
+			
+			<p className="margin-top-20"></p>
+
 			
 
 
@@ -107,6 +278,63 @@ export default function ThreeDC8(): React.ReactElement {
 
 			<p></p>
 
+			<p className="margin-top-20"></p>
+			
+				<ul className="list-square">
+			
+					<li></li>
+					<li className="list-none"></li>
+			
+				</ul>
+			
+			<p className="margin-top-20"></p>
+
+			<p className="margin-top-20"></p>
+			
+				<ul className="list-square">
+			
+					<li></li>
+					<li className="list-none"></li>
+			
+				</ul>
+			
+			<p className="margin-top-20"></p>
+
+			<p className="margin-top-20"></p>
+			
+				<ul className="list-square">
+			
+					<li></li>
+					<li className="list-none"></li>
+			
+				</ul>
+			
+			<p className="margin-top-20"></p>
+
+
+
+			<p className="margin-top-20"></p>
+			
+				<ul className="list-square">
+			
+					<li></li>
+					<li className="list-none"></li>
+			
+				</ul>
+			
+			<p className="margin-top-20"></p>
+
+			<p className="margin-top-20"></p>
+			
+				<ul className="list-square">
+			
+					<li></li>
+					<li className="list-none"></li>
+			
+				</ul>
+			
+			<p className="margin-top-20"></p>
+
 		
 			
 
@@ -115,6 +343,28 @@ export default function ThreeDC8(): React.ReactElement {
 			<h3 className="margin-y-50 text-center">7. Lộ trình 7 ngày làm chủ</h3>
 
 			<p></p>
+
+			<p className="margin-top-20"></p>
+			
+				<ul className="list-square">
+			
+					<li className="list-none"></li>
+			
+					<li className="list-none"></li>
+			
+					<li className="list-none"></li>
+
+					<li className="list-none"></li>
+			
+					<li className="list-none"></li>
+			
+					<li className="list-none"></li>
+
+					<li className="list-none"></li>
+
+				</ul>
+			
+			<p className="margin-top-20"></p>
 			
 			
 
@@ -129,22 +379,172 @@ export default function ThreeDC8(): React.ReactElement {
 			<p className="text-indent-whole"></p>
 
 
+			<p className="margin-top-20"></p>
+			
+				<ol>
+			
+					<li value="1"></li>
+					<li className="margin-bottom-20 list-none"></li>
+			
+					<li value="2"></li>
+					<li className="margin-bottom-20 list-none"></li>
+			
+					<li value="3"></li>
+					<li className="margin-bottom-20 list-none"></li>
+
+					<li value="4"></li>
+					<li className="margin-bottom-20 list-none"></li>
+			
+					<li value="5"></li>
+					<li className="margin-bottom-20 list-none"></li>
+			
+					<li value="6"></li>
+					<li className="margin-bottom-20 list-none"></li>
+
+					<li value="7"></li>
+					<li className="margin-bottom-20 list-none"></li>
+			
+					<li value="8"></li>
+					<li className="margin-bottom-20 list-none"></li>
+
+					<li value="9"></li>
+					<li className="margin-bottom-20 list-none"></li>
+			
+					<li value="10"></li>
+					<li className="list-none"></li>
+			
+				</ol>
+			
+			<p className="margin-top-20"></p>
+
+
+
 			<h4 className="margin-y-40">Adjective clause</h4>
 					
 			<p className="text-indent-whole"></p>
+
+			<p className="margin-top-20"></p>
+			
+				<ol>
+			
+					<li value="11"></li>
+					<li className="margin-bottom-20 list-none"></li>
+			
+					<li value="12"></li>
+					<li className="margin-bottom-20 list-none"></li>
+			
+					<li value="13"></li>
+					<li className="margin-bottom-20 list-none"></li>
+
+					<li value="14"></li>
+					<li className="margin-bottom-20 list-none"></li>
+			
+					<li value="15"></li>
+					<li className="margin-bottom-20 list-none"></li>
+			
+					<li value="16"></li>
+					<li className="margin-bottom-20 list-none"></li>
+
+					<li value="17"></li>
+					<li className="margin-bottom-20 list-none"></li>
+			
+					<li value="18"></li>
+					<li className="margin-bottom-20 list-none"></li>
+
+					<li value="19"></li>
+					<li className="margin-bottom-20 list-none"></li>
+			
+					<li value="20"></li>
+					<li className="list-none"></li>
+			
+				</ol>
+			
+			<p className="margin-top-20"></p>
 
 
 			<h4 className="margin-y-40">Adverb clause</h4>
 					
 			<p className="text-indent-whole"></p>
 
+			<p className="margin-top-20"></p>
 			
+				<ol>
+			
+					<li value="21"></li>
+					<li className="margin-bottom-20 list-none"></li>
+			
+					<li value="22"></li>
+					<li className="margin-bottom-20 list-none"></li>
+			
+					<li value="23"></li>
+					<li className="margin-bottom-20 list-none"></li>
+
+					<li value="24"></li>
+					<li className="margin-bottom-20 list-none"></li>
+			
+					<li value="25"></li>
+					<li className="margin-bottom-20 list-none"></li>
+			
+					<li value="26"></li>
+					<li className="margin-bottom-20 list-none"></li>
+
+					<li value="27"></li>
+					<li className="margin-bottom-20 list-none"></li>
+			
+					<li value="28"></li>
+					<li className="margin-bottom-20 list-none"></li>
+
+					<li value="29"></li>
+					<li className="margin-bottom-20 list-none"></li>
+			
+					<li value="30"></li>
+					<li className="list-none"></li>
+			
+				</ol>
+			
+			<p className="margin-top-20"></p>
 
 			{/* 9.  */}
 
 			<h3 className="margin-y-50 text-center">9. Sai lầm phổ biến của người Việt</h3>
 
 			<p></p>
+
+			<p className="margin-top-20"></p>
+			
+				<ul className="list-square">
+			
+					<li></li>
+					<li className="list-none"></li>
+			
+				</ul>
+			
+			<p className="margin-top-20"></p>
+
+
+			<p className="margin-top-20"></p>
+			
+				<ul className="list-square">
+
+					<li className="margin-top-20"></li>
+			
+					<li></li>
+					<li className="list-none"></li>
+			
+				</ul>
+			
+			<p className="margin-top-20"></p>
+
+			<p className="margin-top-20"></p>
+			
+				<ul className="list-square">
+			
+					<li></li>
+					<li className="list-none"></li>
+			
+				</ul>
+			
+			<p className="margin-top-20"></p>
 
 			
 

@@ -72,10 +72,123 @@ export default function ThreeDC9(): React.ReactElement {
 					
 			<p className="text-indent-whole"></p>
 
+			<p className="margin-top-20 text-indent-whole"></p>
+			
+				<ul className="list-square">
+			
+					<li></li>
+					<li className="list-none"></li>
+			
+				</ul>
+			
+			<p className="margin-top-20 text-indent-whole"></p>
+
+			<p className="margin-top-20 text-indent-whole"></p>
+			
+				<ul className="list-square">
+			
+					<li></li>
+					<li className="list-none"></li>
+			
+				</ul>
+			
+			<p className="margin-top-20 text-indent-whole"></p>
+
+			<p className="margin-top-20 text-indent-whole"></p>
+			
+				<ul className="list-square">
+			
+					<li></li>
+					<li className="list-none"></li>
+			
+				</ul>
+			
+			<p className="margin-top-20 text-indent-whole"></p>
+
+			<p className="margin-top-20 text-indent-whole"></p>
+			
+				<ul className="list-square">
+			
+					<li></li>
+					<li className="list-none"></li>
+			
+				</ul>
+			
+			<p className="margin-top-20 text-indent-whole"></p>
+
+			<p className="margin-top-20 text-indent-whole"></p>
+			
+				<ul className="list-square">
+			
+					<li></li>
+					<li className="list-none"></li>
+			
+				</ul>
+			
+			<p className="margin-top-20 text-indent-whole"></p>
+
 
 			<h4 className="margin-y-40">Nâng cao: Rút gọn Mệnh đề Trạng ngữ (Reduced Adverbial Clauses)</h4>
 					
+			<p className="text-indent-whole"></p>	
+
+			<p className="margin-top-20"></p>
+			
+				<ol>
+			
+					<li></li>
+			
+					<li></li>
+			
+					<li></li>
+			
+				</ol>
+			
+			<p className="margin-top-20"></p>
+
 			<p className="text-indent-whole"></p>
+			
+				<ul className="list-square">
+			
+					<li></li>
+					<li className="list-none"></li>
+			
+				</ul>
+			
+			<p className="margin-top-20 text-indent-whole"></p>
+
+			<p className="margin-top-20 text-indent-whole"></p>
+			
+				<ul className="list-square">
+			
+					<li></li>
+					<li className="list-none"></li>
+			
+				</ul>
+			
+			<p className="margin-top-20 text-indent-whole"></p>
+
+			<p className="margin-top-20 text-indent-whole"></p>
+			
+				<ul className="list-square">
+			
+					<li></li>
+					<li className="list-none"></li>
+			
+				</ul>
+			
+			<p className="margin-top-20 text-indent-whole"></p>
+
+			<p className="margin-top-20 text-indent-whole"></p>
+			
+				<ul className="list-square">
+			
+					<li></li>
+					<li className="list-none"></li>
+			
+				</ul>
+			
+			<p className="margin-top-20 text-indent-whole"></p>
 
 
 			{/* 2.  */}
@@ -84,7 +197,81 @@ export default function ThreeDC9(): React.ReactElement {
 
 			<p></p>
 
+			<h4 className="margin-y-40">Định nghĩa và Chức năng</h4>
+
+			<p className="margin-top-20"></p>
 			
+				<ul className="list-square">
+			
+					<li></li>
+					<li className="list-none"></li>
+					<li className="list-none"></li>
+			
+				</ul>
+			
+			<p className="margin-top-20 text-indent-whole"></p>
+
+			<p className="margin-top-20	text-indent-whole"></p>
+			
+				<ul className="list-square">
+			
+					<li></li>
+					<li className="list-none"></li>
+					<li className="list-none"></li>
+			
+				</ul>
+			
+			<p className="margin-top-20 text-indent-whole"></p>
+					
+			<p className="text-indent-whole"></p>
+
+			<h4 className="margin-y-40">Nâng cao: Rút gọn Mệnh đề Tính ngữ (Reduced Relative Clauses)</h4>
+					
+			<p className="text-indent-whole"></p>
+
+			<p className="margin-top-20 text-indent-whole"></p>
+			
+				<ul className="list-square">
+			
+					<li></li>
+					<li className="list-none"></li>
+			
+				</ul>
+			
+			<p className="margin-top-20 text-indent-whole"></p>
+
+			<p className="margin-top-20 text-indent-whole"></p>
+			
+				<ul className="list-square">
+			
+					<li></li>
+					<li className="list-none"></li>
+			
+				</ul>
+			
+			<p className="margin-top-20 text-indent-whole"></p>
+
+			<p className="margin-top-20 text-indent-whole"></p>
+			
+				<ul className="list-square">
+			
+					<li></li>
+					<li className="list-none"></li>
+			
+				</ul>
+			
+			<p className="margin-top-20 text-indent-whole"></p>
+
+			<p className="margin-top-20 text-indent-whole"></p>
+			
+				<ul className="list-square">
+			
+					<li></li>
+					<li className="list-none"></li>
+			
+				</ul>
+			
+			<p className="margin-top-20 text-indent-whole"></p>
 
 
 			{/* 3.  */}
@@ -103,11 +290,62 @@ export default function ThreeDC9(): React.ReactElement {
 					
 			<p className="text-indent-whole"></p>
 
+			<p className="margin-top-20"></p>
+			
+				<ul className="list-square">
+			
+					<li></li>
+					<li className="list-none"></li>
+			
+				</ul>
+			
+			<p className="margin-top-20 text-indent-whole"></p>
+
+			<p className="margin-top-20"></p>
+			
+				<ul className="list-square">
+			
+					<li></li>
+					<li className="list-none"></li>
+			
+				</ul>
+			
+			<p className="margin-top-20 text-indent-whole"></p>
+
+
+			<p className="margin-top-20"></p>
+			
+				<ul className="list-square">
+			
+					<li></li>
+					<li className="list-none"></li>
+			
+				</ul>
+			
+			<p className="margin-top-20 text-indent-whole"></p>
+
 
 
 			<h4 className="margin-y-40">Nâng cao: Mệnh đề danh ngữ trong câu hỏi gián tiếp (Embedded Questions)</h4>
 					
 			<p className="text-indent-whole"></p>
+
+			<p className="margin-top-20"></p>
+			
+				<ul className="list-square">
+			
+					<li></li>
+					<li className="margin-bottom-20 list-none"></li>
+			
+					<li></li>
+					<li className="margin-bottom-20 list-none"></li>
+			
+					<li></li>
+					<li className="list-none"></li>
+			
+				</ul>
+			
+			<p className="margin-top-20"></p>
 
 
 			
@@ -119,13 +357,48 @@ export default function ThreeDC9(): React.ReactElement {
 
 			<p></p>
 
+			<p className="margin-top-20"></p>
+			
+				<ul className="list-square">
+			
+					<li></li>
+					<li className="margin-bottom-20 list-none"></li>
+			
+					<li></li>
+					<li className="margin-bottom-20 list-none"></li>
+			
+					<li></li>
+					<li className="list-none"></li>
+			
+				</ul>
+			
+			<p className="margin-top-20"></p>
+
 			
 
 			{/* 5.  */}
 
 			<h3 className="margin-y-50 text-center">5. Chiến lược "Làm Chủ" thực chiến:</h3>
 
-			<p></p>
+			<p className="margin-top-20"></p>
+			
+				<ul className="list-square">
+			
+					<li></li>
+					<li className="margin-bottom-20 list-none"></li>
+			
+					<li></li>
+					<li className="margin-bottom-20 list-none"></li>
+
+					<li></li>
+					<li className="margin-bottom-20 list-none"></li>
+			
+					<li></li>
+					<li className="list-none"></li>
+			
+				</ul>
+			
+			<p className="margin-top-20"></p>
 
 			
 
