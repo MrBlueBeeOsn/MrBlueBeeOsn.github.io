@@ -146,6 +146,16 @@ const Posts = lazy(() => import('@/data/Posts'));
 	const BiMatVeTuDuyNgonNgu2 = lazy(() => import('@/2_main/english/tienganh/folder/BiMatVeTuDuyNgonNgu2'));
 	const BiMatVeTuDuyNgonNgu3 = lazy(() => import('@/2_main/english/tienganh/folder/BiMatVeTuDuyNgonNgu3'));
 
+	const ThreeDC1 = lazy(() => import('@/2_main/english/tienganh/article/3dc/ThreeDC1'));
+	const ThreeDC2 = lazy(() => import('@/2_main/english/tienganh/article/3dc/ThreeDC2'));
+	const ThreeDC3 = lazy(() => import('@/2_main/english/tienganh/article/3dc/ThreeDC3'));
+	const ThreeDC4 = lazy(() => import('@/2_main/english/tienganh/article/3dc/ThreeDC4'));
+	const ThreeDC5 = lazy(() => import('@/2_main/english/tienganh/article/3dc/ThreeDC5'));
+	const ThreeDC6 = lazy(() => import('@/2_main/english/tienganh/article/3dc/ThreeDC6'));
+	const ThreeDC7 = lazy(() => import('@/2_main/english/tienganh/article/3dc/ThreeDC7'));
+	const ThreeDC8 = lazy(() => import('@/2_main/english/tienganh/article/3dc/ThreeDC8'));
+	const ThreeDC9 = lazy(() => import('@/2_main/english/tienganh/article/3dc/ThreeDC9'));
+
 	const AdjPlacement1 = lazy(() => import('@/2_main/english/tienganh/article/adj/AdjPlacement1'));
 	const AdjPlacement2 = lazy(() => import('@/2_main/english/tienganh/article/adj/AdjPlacement2'));
 	const AdjPlacement3 = lazy(() => import('@/2_main/english/tienganh/article/adj/AdjPlacement3'));
@@ -692,6 +702,16 @@ export default function AppRoutes(): React.JSX.Element {
 					<Route path="/tieng-anh/bi-mat-ve-tu-duy-ngon-ngu-1" element={<BiMatVeTuDuyNgonNgu1 />} />
 					<Route path="/tieng-anh/bi-mat-ve-tu-duy-ngon-ngu-2" element={<BiMatVeTuDuyNgonNgu2 />} />
 					<Route path="/tieng-anh/bi-mat-ve-tu-duy-ngon-ngu-3" element={<BiMatVeTuDuyNgonNgu3 />} />
+
+					<Route path="/tieng-anh/three-dc-1" element={<ThreeDC1 />} />
+					<Route path="/tieng-anh/three-dc-2" element={<ThreeDC2 />} />
+					<Route path="/tieng-anh/three-dc-3" element={<ThreeDC3 />} />
+					<Route path="/tieng-anh/three-dc-4" element={<ThreeDC4 />} />
+					<Route path="/tieng-anh/three-dc-5" element={<ThreeDC5 />} />
+					<Route path="/tieng-anh/three-dc-6" element={<ThreeDC6 />} />
+					<Route path="/tieng-anh/three-dc-7" element={<ThreeDC7 />} />
+					<Route path="/tieng-anh/three-dc-8" element={<ThreeDC8 />} />
+					<Route path="/tieng-anh/three-dc-9" element={<ThreeDC9 />} />
 
 					<Route path="/tieng-anh/adj-placement-1" element={<AdjPlacement1 />} />
 					<Route path="/tieng-anh/adj-placement-2" element={<AdjPlacement2 />} />
