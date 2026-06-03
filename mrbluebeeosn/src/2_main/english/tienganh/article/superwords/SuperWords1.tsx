@@ -58,7 +58,7 @@ export default function SuperWords1(): React.JSX.Element {
 
 			<p>Nhưng sự thật là gì? Tư duy của người bản xứ khi xây dựng ngôn ngữ không hề phức tạp như cách các nhà ngôn ngữ học đặt tên cho nó. Họ không cố tình ngồi lắp ghép các cấu trúc vĩ mô; họ chỉ đang vận hành một cơ chế cực kỳ tự nhiên:</p>
 
-			<p><strong>Phóng to từ đơn thành các</strong> "<strong>Siêu Từ</strong>" (<strong>Super</strong>-<strong>Words</strong>).</p>
+			<p className="margin-y-30"><strong>Phóng to từ đơn thành các</strong> "<strong>Siêu Từ</strong>" (<strong>Super</strong>-<strong>Words</strong>).</p>
 			
 			<p>Nếu bạn đang tìm kiếm một tư duy đột phá để đơn giản hóa cách đọc, cách viết và giải phóng bộ não khỏi mớ lý thuyết khô khan, hãy cùng bóc tách hệ thống "Từ Dài" ngay sau đây.</p>
 
