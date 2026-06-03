@@ -146,15 +146,15 @@ const Posts = lazy(() => import('@/data/Posts'));
 	const BiMatVeTuDuyNgonNgu2 = lazy(() => import('@/2_main/english/tienganh/folder/BiMatVeTuDuyNgonNgu2'));
 	const BiMatVeTuDuyNgonNgu3 = lazy(() => import('@/2_main/english/tienganh/folder/BiMatVeTuDuyNgonNgu3'));
 
-	const Super1 = lazy(() => import('@/2_main/english/tienganh/article/super/Super1'));
-	const Super2 = lazy(() => import('@/2_main/english/tienganh/article/super/Super2'));
-	const Super3 = lazy(() => import('@/2_main/english/tienganh/article/super/Super3'));
-	const Super4 = lazy(() => import('@/2_main/english/tienganh/article/super/Super4'));
-	const Super5 = lazy(() => import('@/2_main/english/tienganh/article/super/Super5'));
-	const Super6 = lazy(() => import('@/2_main/english/tienganh/article/super/Super6'));
-	const Super7 = lazy(() => import('@/2_main/english/tienganh/article/super/Super7'));
-	const Super8 = lazy(() => import('@/2_main/english/tienganh/article/super/Super8'));
-	const Super9 = lazy(() => import('@/2_main/english/tienganh/article/super/Super9'));
+	const SuperWords1 = lazy(() => import('@/2_main/english/tienganh/article/superwords/SuperWords1'));
+	const SuperWords2 = lazy(() => import('@/2_main/english/tienganh/article/superwords/SuperWords2'));
+	const SuperWords3 = lazy(() => import('@/2_main/english/tienganh/article/superwords/SuperWords3'));
+	const SuperWords4 = lazy(() => import('@/2_main/english/tienganh/article/superwords/SuperWords4'));
+	const SuperWords5 = lazy(() => import('@/2_main/english/tienganh/article/superwords/SuperWords5'));
+	const SuperWords6 = lazy(() => import('@/2_main/english/tienganh/article/superwords/SuperWords6'));
+	const SuperWords7 = lazy(() => import('@/2_main/english/tienganh/article/superwords/SuperWords7'));
+	const SuperWords8 = lazy(() => import('@/2_main/english/tienganh/article/superwords/SuperWords8'));
+	const SuperWords9 = lazy(() => import('@/2_main/english/tienganh/article/superwords/SuperWords9'));
 
 	
 	const ThreeDC1 = lazy(() => import('@/2_main/english/tienganh/article/3dc/ThreeDC1'));
@@ -714,15 +714,15 @@ export default function AppRoutes(): React.JSX.Element {
 					<Route path="/tieng-anh/bi-mat-ve-tu-duy-ngon-ngu-2" element={<BiMatVeTuDuyNgonNgu2 />} />
 					<Route path="/tieng-anh/bi-mat-ve-tu-duy-ngon-ngu-3" element={<BiMatVeTuDuyNgonNgu3 />} />
 
-					<Route path="/tieng-anh/super-1" element={<Super1 />} />
-					<Route path="/tieng-anh/super-2" element={<Super2 />} />
-					<Route path="/tieng-anh/super-3" element={<Super3 />} />
-					<Route path="/tieng-anh/super-4" element={<Super4 />} />
-					<Route path="/tieng-anh/super-5" element={<Super5 />} />
-					<Route path="/tieng-anh/super-6" element={<Super6 />} />
-					<Route path="/tieng-anh/super-7" element={<Super7 />} />
-					<Route path="/tieng-anh/super-8" element={<Super8 />} />
-					<Route path="/tieng-anh/super-9" element={<Super9 />} />
+					<Route path="/tieng-anh/super-words-1" element={<SuperWords1 />} />
+					<Route path="/tieng-anh/super-words-2" element={<SuperWords2 />} />
+					<Route path="/tieng-anh/super-words-3" element={<SuperWords3 />} />
+					<Route path="/tieng-anh/super-words-4" element={<SuperWords4 />} />
+					<Route path="/tieng-anh/super-words-5" element={<SuperWords5 />} />
+					<Route path="/tieng-anh/super-words-6" element={<SuperWords6 />} />
+					<Route path="/tieng-anh/super-words-7" element={<SuperWords7 />} />
+					<Route path="/tieng-anh/super-words-8" element={<SuperWords8 />} />
+					<Route path="/tieng-anh/super-words-9" element={<SuperWords9 />} />
 					
 					<Route path="/tieng-anh/three-dc-1" element={<ThreeDC1 />} />
 					<Route path="/tieng-anh/three-dc-2" element={<ThreeDC2 />} />

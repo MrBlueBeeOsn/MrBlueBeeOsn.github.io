@@ -5,9 +5,9 @@ import EyeIcon from '@/components/view/EyeIcon';
 import ViewCounter from '@/components/view/ViewCounter';
 import LikeButton from '@/components/like/LikeButton';
 
-export default function Super1(): React.JSX.Element {
+export default function SuperWords1(): React.JSX.Element {
 
-	const postId = "Super1";
+	const postId = "SuperWords1";
 
 	return (<>
 
@@ -19,31 +19,31 @@ export default function Super1(): React.JSX.Element {
 
 			<h1 className="margin-y-50 text-center">Super Words
 												
-				<sup><HashLink smooth to="/tieng-anh/super-1">&nbsp;1&nbsp;</HashLink>
+				<sup><HashLink smooth to="/tieng-anh/super-words-1">&nbsp;1&nbsp;</HashLink>
 				</sup>
 
-				<sup><HashLink smooth to="/tieng-anh/super-2">&nbsp;2&nbsp;</HashLink>
+				<sup><HashLink smooth to="/tieng-anh/super-words-2">&nbsp;2&nbsp;</HashLink>
 				</sup>
 
-				<sup><HashLink smooth to="/tieng-anh/super-3">&nbsp;3&nbsp;</HashLink>
+				<sup><HashLink smooth to="/tieng-anh/super-words-3">&nbsp;3&nbsp;</HashLink>
 				</sup>
 
-				<sup><HashLink smooth to="/tieng-anh/super-4">&nbsp;4&nbsp;</HashLink>
+				<sup><HashLink smooth to="/tieng-anh/super-words-4">&nbsp;4&nbsp;</HashLink>
 				</sup>
 
-				<sup><HashLink smooth to="/tieng-anh/super-5">&nbsp;5&nbsp;</HashLink>
+				<sup><HashLink smooth to="/tieng-anh/super-words-5">&nbsp;5&nbsp;</HashLink>
 				</sup>
 
-				<sup><HashLink smooth to="/tieng-anh/super-6">&nbsp;6&nbsp;</HashLink>
+				<sup><HashLink smooth to="/tieng-anh/super-words-6">&nbsp;6&nbsp;</HashLink>
 				</sup>
 
-				<sup><HashLink smooth to="/tieng-anh/super-7">&nbsp;7&nbsp;</HashLink>
+				<sup><HashLink smooth to="/tieng-anh/super-words-7">&nbsp;7&nbsp;</HashLink>
 				</sup>
 
-				<sup><HashLink smooth to="/tieng-anh/super-8">&nbsp;8&nbsp;</HashLink>
+				<sup><HashLink smooth to="/tieng-anh/super-words-8">&nbsp;8&nbsp;</HashLink>
 				</sup>
 
-				<sup><HashLink smooth to="/tieng-anh/super-9">&nbsp;9&nbsp;</HashLink>
+				<sup><HashLink smooth to="/tieng-anh/super-words-9">&nbsp;9&nbsp;</HashLink>
 				</sup>
 
 			</h1>

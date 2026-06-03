@@ -628,31 +628,31 @@ export default function TiengAnhIndex(): React.JSX.Element {
 
             <li>
               <div className="li-content">
-                <Link to="/tieng-anh/super-1">Super Words
+                <Link to="/tieng-anh/super-words-1">Super Words
                 <sup>&nbsp;1&nbsp;</sup>
                 </Link>
-                <Link to="/tieng-anh/super-2">
+                <Link to="/tieng-anh/super-words-2">
                   <sup>&nbsp;2&nbsp;</sup>
                 </Link>
-                <Link to="/tieng-anh/super-3">
+                <Link to="/tieng-anh/super-words-3">
                   <sup>&nbsp;3&nbsp;</sup>
                 </Link>
-                <Link to="/tieng-anh/super-4">
+                <Link to="/tieng-anh/super-words-4">
                   <sup>&nbsp;4&nbsp;</sup>
                 </Link>
-                <Link to="/tieng-anh/super-5">
+                <Link to="/tieng-anh/super-words-5">
                   <sup>&nbsp;5&nbsp;</sup>
                 </Link>
-                <Link to="/tieng-anh/super-6">
+                <Link to="/tieng-anh/super-words-6">
                   <sup>&nbsp;6&nbsp;</sup>
                 </Link>
-                <Link to="/tieng-anh/super-7">
+                <Link to="/tieng-anh/super-words-7">
                   <sup>&nbsp;7&nbsp;</sup>
                 </Link>
-                <Link to="/tieng-anh/super-8">
+                <Link to="/tieng-anh/super-words-8">
                   <sup>&nbsp;8&nbsp;</sup>
                 </Link>
-                <Link to="/tieng-anh/super-9">
+                <Link to="/tieng-anh/super-words-9">
                   <sup>&nbsp;9&nbsp;</sup>
                 </Link>
               
