@@ -626,6 +626,40 @@ export default function TiengAnhIndex(): React.JSX.Element {
 
           <ul className="list-border1">
 
+            <li>
+              <div className="li-content">
+                <Link to="/tieng-anh/super-1">SUPER
+                <sup>&nbsp;1&nbsp;</sup>
+                </Link>
+                <Link to="/tieng-anh/super-2">
+                  <sup>&nbsp;2&nbsp;</sup>
+                </Link>
+                <Link to="/tieng-anh/super-3">
+                  <sup>&nbsp;3&nbsp;</sup>
+                </Link>
+                <Link to="/tieng-anh/super-4">
+                  <sup>&nbsp;4&nbsp;</sup>
+                </Link>
+                <Link to="/tieng-anh/super-5">
+                  <sup>&nbsp;5&nbsp;</sup>
+                </Link>
+                <Link to="/tieng-anh/super-6">
+                  <sup>&nbsp;6&nbsp;</sup>
+                </Link>
+                <Link to="/tieng-anh/super-7">
+                  <sup>&nbsp;7&nbsp;</sup>
+                </Link>
+                <Link to="/tieng-anh/super-8">
+                  <sup>&nbsp;8&nbsp;</sup>
+                </Link>
+                <Link to="/tieng-anh/super-9">
+                  <sup>&nbsp;9&nbsp;</sup>
+                </Link>
+              
+              </div>
+              
+            </li>
+
 
             <li>
               <div className="li-content">

@@ -146,6 +146,17 @@ const Posts = lazy(() => import('@/data/Posts'));
 	const BiMatVeTuDuyNgonNgu2 = lazy(() => import('@/2_main/english/tienganh/folder/BiMatVeTuDuyNgonNgu2'));
 	const BiMatVeTuDuyNgonNgu3 = lazy(() => import('@/2_main/english/tienganh/folder/BiMatVeTuDuyNgonNgu3'));
 
+	const Super1 = lazy(() => import('@/2_main/english/tienganh/article/super/Super1'));
+	const Super2 = lazy(() => import('@/2_main/english/tienganh/article/super/Super2'));
+	const Super3 = lazy(() => import('@/2_main/english/tienganh/article/super/Super3'));
+	const Super4 = lazy(() => import('@/2_main/english/tienganh/article/super/Super4'));
+	const Super5 = lazy(() => import('@/2_main/english/tienganh/article/super/Super5'));
+	const Super6 = lazy(() => import('@/2_main/english/tienganh/article/super/Super6'));
+	const Super7 = lazy(() => import('@/2_main/english/tienganh/article/super/Super7'));
+	const Super8 = lazy(() => import('@/2_main/english/tienganh/article/super/Super8'));
+	const Super9 = lazy(() => import('@/2_main/english/tienganh/article/super/Super9'));
+
+	
 	const ThreeDC1 = lazy(() => import('@/2_main/english/tienganh/article/3dc/ThreeDC1'));
 	const ThreeDC2 = lazy(() => import('@/2_main/english/tienganh/article/3dc/ThreeDC2'));
 	const ThreeDC3 = lazy(() => import('@/2_main/english/tienganh/article/3dc/ThreeDC3'));
@@ -703,6 +714,16 @@ export default function AppRoutes(): React.JSX.Element {
 					<Route path="/tieng-anh/bi-mat-ve-tu-duy-ngon-ngu-2" element={<BiMatVeTuDuyNgonNgu2 />} />
 					<Route path="/tieng-anh/bi-mat-ve-tu-duy-ngon-ngu-3" element={<BiMatVeTuDuyNgonNgu3 />} />
 
+					<Route path="/tieng-anh/super-1" element={<Super1 />} />
+					<Route path="/tieng-anh/super-2" element={<Super2 />} />
+					<Route path="/tieng-anh/super-3" element={<Super3 />} />
+					<Route path="/tieng-anh/super-4" element={<Super4 />} />
+					<Route path="/tieng-anh/super-5" element={<Super5 />} />
+					<Route path="/tieng-anh/super-6" element={<Super6 />} />
+					<Route path="/tieng-anh/super-7" element={<Super7 />} />
+					<Route path="/tieng-anh/super-8" element={<Super8 />} />
+					<Route path="/tieng-anh/super-9" element={<Super9 />} />
+					
 					<Route path="/tieng-anh/three-dc-1" element={<ThreeDC1 />} />
 					<Route path="/tieng-anh/three-dc-2" element={<ThreeDC2 />} />
 					<Route path="/tieng-anh/three-dc-3" element={<ThreeDC3 />} />
