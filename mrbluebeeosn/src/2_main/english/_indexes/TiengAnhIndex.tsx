@@ -628,7 +628,7 @@ export default function TiengAnhIndex(): React.JSX.Element {
 
             <li>
               <div className="li-content">
-                <Link to="/tieng-anh/super-1">SUPER
+                <Link to="/tieng-anh/super-1">Super Words
                 <sup>&nbsp;1&nbsp;</sup>
                 </Link>
                 <Link to="/tieng-anh/super-2">
