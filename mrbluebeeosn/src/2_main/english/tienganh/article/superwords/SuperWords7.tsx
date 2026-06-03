@@ -62,38 +62,79 @@ export default function SuperWords7(): React.JSX.Element {
 			<h3 className="margin-y-50 text-center">1. </h3>
 
 			<p></p>
-
 			
+
+			{/* .  */}
+
+			<h3 className="margin-y-50 text-center">🎯 Hai Cách Gọi, Một Ý Nghĩa</h3>
+
+			<p></p>
+
+			{/* .  */}
+
+			<h3 className="margin-y-50 text-center">🎯 Tại Sao Lại Gọi Là "Siêu"?</h3>
+
+			<p></p>
+
+
+			{/* 1.  */}
+
+			<h3 className="margin-y-50 text-center">1️⃣ Super-noun (Siêu Danh Từ) = Mệnh Đề Danh Từ / Noun Clause</h3>
+
+			<p></p>
 
 
 			{/* 2.  */}
 
-			<h3 className="margin-y-50 text-center">2. </h3>
+			<h3 className="margin-y-50 text-center">2️⃣ Super-adjective (Siêu Tính Từ) = Mệnh Đề Tính Từ / Adjective Clause</h3>
+
+			<p></p>
+
+
+			{/* 3.  */}
+
+			<h3 className="margin-y-50 text-center">3️⃣ Super-adverb (Siêu Trạng Từ) = Mệnh Đề Trạng Ngữ / Adverb Clause</h3>
+
+			<p></p>
+
+
+			{/* 4.  */}
+
+			<h3 className="margin-y-50 text-center">📊 Bảng So Sánh Tổng Hợp: 3 "Siêu Nhân" Mệnh Đề</h3>
+
+			<p></p>
+
+			
+
+
+			{/* 5.  */}
+
+			<h3 className="margin-y-50 text-center">✅ Ưu Điểm Của Cách Gọi Song Ngữ</h3>
 
 			<p></p>
 
 		
 			
 
-			{/* 3.  */}
+			{/* 6.  */}
 
-			<h3 className="margin-y-50 text-center">3. </h3>
-
-			<p></p>
-			
-			
-
-			{/* 4.  */}
-
-			<h3 className="margin-y-50 text-center">4. </h3>
+			<h3 className="margin-y-50 text-center">⚠️ Hạn Chế Cần Lưu Ý</h3>
 
 			<p></p>
+			
+			
+
+			{/* 7.  */}
+
+			<h3 className="margin-y-50 text-center">🎓 Bài Tập Thực Hành: Bạn Có Phân Biệt Được Không?</h3>
+
+			<p></p>
 
 			
 
-			{/* 5.  */}
+			{/* 8.  */}
 
-			<h3 className="margin-y-50 text-center">5. </h3>
+			<h3 className="margin-y-50 text-center">💡 Kết Luận: Khi Nào Dùng Cách Gọi Này?</h3>
 
 			<p></p>
 
@@ -101,7 +142,7 @@ export default function SuperWords7(): React.JSX.Element {
 
 			{/* Lời Kết */}
 
-			<h3 className="margin-y-50 text-center"></h3>
+			<h3 className="margin-y-50 text-center">🚀 Lời Kết</h3>
 
 			<p></p>
 

@@ -59,41 +59,56 @@ export default function SuperWords4(): React.JSX.Element {
 
 			{/* 1.  */}
 
-			<h3 className="margin-y-50 text-center">1. </h3>
+			<h3 className="margin-y-50 text-center">1. Ngôn Ngữ Luôn Có Xu Hướng Mở Rộng</h3>
+
+			<p></p>
+
+
+
+			{/* 2.  */}
+
+			<h3 className="margin-y-50 text-center">2. Quy Tắc Vàng Khi Nhìn Một Mệnh Đề</h3>
+
+			<p></p>
+
+
+			{/* 3.  */}
+
+			<h3 className="margin-y-50 text-center">3. Siêu Danh Từ (Noun Clause)</h3>
 
 			<p></p>
 
 			
 
 
-			{/* 2.  */}
+			{/* 4.  */}
 
-			<h3 className="margin-y-50 text-center">2. </h3>
+			<h3 className="margin-y-50 text-center">4. Siêu Tính Từ (Adjective Clause)</h3>
 
 			<p></p>
 
 		
 			
 
-			{/* 3.  */}
-
-			<h3 className="margin-y-50 text-center">3. </h3>
-
-			<p></p>
-			
-			
-
-			{/* 4.  */}
-
-			<h3 className="margin-y-50 text-center">4. </h3>
-
-			<p></p>
-
-			
-
 			{/* 5.  */}
 
-			<h3 className="margin-y-50 text-center">5. </h3>
+			<h3 className="margin-y-50 text-center">5. Siêu Trạng Từ (Adverb Clause)</h3>
+
+			<p></p>
+			
+			
+
+			{/* 6.  */}
+
+			<h3 className="margin-y-50 text-center">6. Công Thức Ba Tầng Của Tiếng Anh</h3>
+
+			<p></p>
+
+			
+
+			{/* 7.  */}
+
+			<h3 className="margin-y-50 text-center">7. Tại Sao Cách Nhìn Này Hiệu Quả?</h3>
 
 			<p></p>
 
@@ -101,7 +116,7 @@ export default function SuperWords4(): React.JSX.Element {
 
 			{/* Lời Kết */}
 
-			<h3 className="margin-y-50 text-center"></h3>
+			<h3 className="margin-y-50 text-center">Kết Luận</h3>
 
 			<p></p>
 

@@ -59,49 +59,70 @@ export default function SuperWords6(): React.JSX.Element {
 
 			{/* 1.  */}
 
-			<h3 className="margin-y-50 text-center">1. </h3>
+			<h3 className="margin-y-50 text-center">1. Mở đầu</h3>
+
+			<p></p>
+
+
+			{/* 2.  */}
+
+			<h3 className="margin-y-50 text-center">2. Ý tưởng và lợi ích</h3>
+
+			<p></p>
+
+
+			{/* 3.  */}
+
+			<h3 className="margin-y-50 text-center">3. Định nghĩa ngắn và ví dụ tiếng Anh minh họa</h3>
+
+			<p></p>
+
+
+			{/* 4.  */}
+
+			<h3 className="margin-y-50 text-center">4. Bảng tóm tắt tương đương thuật ngữ chuẩn</h3>
 
 			<p></p>
 
 			
 
 
-			{/* 2.  */}
+			{/* 5.  */}
 
-			<h3 className="margin-y-50 text-center">2. </h3>
+			<h3 className="margin-y-50 text-center">5. Cách triển khai vào bài giảng và tài liệu blog</h3>
 
 			<p></p>
 
 		
 			
 
-			{/* 3.  */}
+			{/* 6.  */}
 
-			<h3 className="margin-y-50 text-center">3. </h3>
-
-			<p></p>
-			
-			
-
-			{/* 4.  */}
-
-			<h3 className="margin-y-50 text-center">4. </h3>
+			<h3 className="margin-y-50 text-center">6. Lộ trình chuyển tiếp sang thuật ngữ chuẩn</h3>
 
 			<p></p>
-
+			
 			
 
-			{/* 5.  */}
+			{/* 7.  */}
 
-			<h3 className="margin-y-50 text-center">5. </h3>
+			<h3 className="margin-y-50 text-center">7. Lưu ý quan trọng</h3>
 
 			<p></p>
 
 			
 
-			{/* Lời Kết */}
+			{/* 8.  */}
 
-			<h3 className="margin-y-50 text-center"></h3>
+			<h3 className="margin-y-50 text-center">8. Bài tập nhỏ cho độc giả</h3>
+
+			<p></p>
+
+			
+
+			{/* Kết luận */}
+
+			<h3 className="margin-y-50 text-center">Kết luận</h3>
 
 			<p></p>
 

@@ -59,41 +59,38 @@ export default function SuperWords3(): React.JSX.Element {
 
 			{/* 1.  */}
 
-			<h3 className="margin-y-50 text-center">1. </h3>
+			<h3 className="margin-y-50 text-center">1. Tại sao cần cách gọi “Siêu”?</h3>
 
 			<p></p>
-
 			
-
+			
 
 			{/* 2.  */}
 
-			<h3 className="margin-y-50 text-center">2. </h3>
+			<h3 className="margin-y-50 text-center">2. Giải Thích Chi Tiết</h3>
 
 			<p></p>
 
-		
+
+			<h4 className="margin-y-40">1. Siêu Danh Từ (Super Noun / Noun Clause)</h4>
+					
+			<p className="text-indent-whole"></p>
+
+
+			<h4 className="margin-y-40">2. Siêu Tính Từ (Super Adjective / Adjective Clause / Relative Clause)</h4>
+					
+			<p className="text-indent-whole"></p>
+
+
+			<h4 className="margin-y-40">3. Siêu Trạng Từ (Super Adverb / Adverb Clause)</h4>
+					
+			<p className="text-indent-whole"></p>
+
 			
 
 			{/* 3.  */}
 
-			<h3 className="margin-y-50 text-center">3. </h3>
-
-			<p></p>
-			
-			
-
-			{/* 4.  */}
-
-			<h3 className="margin-y-50 text-center">4. </h3>
-
-			<p></p>
-
-			
-
-			{/* 5.  */}
-
-			<h3 className="margin-y-50 text-center">5. </h3>
+			<h3 className="margin-y-50 text-center">3. Lợi ích của cách gọi Siêu Danh Từ – Siêu Tính Từ – Siêu Trạng Từ</h3>
 
 			<p></p>
 
@@ -101,7 +98,7 @@ export default function SuperWords3(): React.JSX.Element {
 
 			{/* Lời Kết */}
 
-			<h3 className="margin-y-50 text-center"></h3>
+			<h3 className="margin-y-50 text-center">Kết luận</h3>
 
 			<p></p>
 

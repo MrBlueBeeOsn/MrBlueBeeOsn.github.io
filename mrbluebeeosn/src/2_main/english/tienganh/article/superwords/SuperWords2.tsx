@@ -55,11 +55,18 @@ export default function SuperWords2(): React.JSX.Element {
 			<p></p>
 			
 			<p></p>
+
+
+			{/* .  */}
+
+			<h3 className="margin-y-50 text-center">Mở đầu: Chuyện những cái tên dài ngoằng</h3>
+
+			<p></p>
 			
 
 			{/* 1.  */}
 
-			<h3 className="margin-y-50 text-center">1. </h3>
+			<h3 className="margin-y-50 text-center">1. Ý tưởng cốt lõi: Từ loại thường vs. “Siêu” từ loại</h3>
 
 			<p></p>
 
@@ -68,7 +75,7 @@ export default function SuperWords2(): React.JSX.Element {
 
 			{/* 2.  */}
 
-			<h3 className="margin-y-50 text-center">2. </h3>
+			<h3 className="margin-y-50 text-center">2. SIÊU DANH TỪ / SUPER‑NOUN – Khi cả một câu đóng vai trò danh từ</h3>
 
 			<p></p>
 
@@ -77,7 +84,7 @@ export default function SuperWords2(): React.JSX.Element {
 
 			{/* 3.  */}
 
-			<h3 className="margin-y-50 text-center">3. </h3>
+			<h3 className="margin-y-50 text-center">3. SIÊU TÍNH TỪ / SUPER‑ADJECTIVE – Bổ nghĩa cho danh từ bằng nguyên một câu</h3>
 
 			<p></p>
 			
@@ -85,7 +92,7 @@ export default function SuperWords2(): React.JSX.Element {
 
 			{/* 4.  */}
 
-			<h3 className="margin-y-50 text-center">4. </h3>
+			<h3 className="margin-y-50 text-center">4. SIÊU TRẠNG TỪ / SUPER‑ADVERB – Bổ nghĩa cho động từ, tính từ hoặc cả câu</h3>
 
 			<p></p>
 
@@ -93,7 +100,35 @@ export default function SuperWords2(): React.JSX.Element {
 
 			{/* 5.  */}
 
-			<h3 className="margin-y-50 text-center">5. </h3>
+			<h3 className="margin-y-50 text-center">5. Tóm tắt nhanh bằng bảng song ngữ</h3>
+
+			<p></p>
+
+
+			{/* 6.  */}
+
+			<h3 className="margin-y-50 text-center">6. Bài tập siêu nhanh (kèm đáp án)</h3>
+
+			<p></p>
+
+
+			{/* 7.  */}
+
+			<h3 className="margin-y-50 text-center">7. Lợi ích của cách gọi “SIÊU” này</h3>
+
+			<p></p>
+
+
+			{/* 8.  */}
+
+			<h3 className="margin-y-50 text-center">8. Một lưu ý nhỏ (để không bị… “siêu” sai chỗ)</h3>
+
+			<p></p>
+
+
+			{/* 9.  */}
+
+			<h3 className="margin-y-50 text-center">9. Lời kết: Hãy biến ngữ pháp thành cuộc chơi</h3>
 
 			<p></p>
 
@@ -101,7 +136,7 @@ export default function SuperWords2(): React.JSX.Element {
 
 			{/* Lời Kết */}
 
-			<h3 className="margin-y-50 text-center"></h3>
+			<h3 className="margin-y-50 text-center">📌 Nhớ nhanh:</h3>
 
 			<p></p>
 

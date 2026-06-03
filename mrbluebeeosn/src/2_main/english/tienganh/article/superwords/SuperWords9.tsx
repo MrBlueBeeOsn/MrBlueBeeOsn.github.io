@@ -50,16 +50,15 @@ export default function SuperWords9(): React.JSX.Element {
 
 			<h4 className="margin-bottom-30 text-center">Ultimate Guide: Mở Khóa Sức Mạnh Của Mệnh Đề Với Khái Niệm "Siêu Từ Loại" Trong Tiếng Anh</h4>
 
-			<p></p>
+			<h3 className="margin-y-50 text-center">Giới thiệu: Khi Ngữ Pháp Trở Nên Trực Quan Hơn Bao Giờ Hết</h3>
 
 			<p></p>
-			
-			<p></p>
-			
+
+
 
 			{/* 1.  */}
 
-			<h3 className="margin-y-50 text-center">1. </h3>
+			<h3 className="margin-y-50 text-center">1. Sự Tiến Hóa Của Ngôn Ngữ: Từ Từ Đơn Đến Cấu Trúc Phức Hợp</h3>
 
 			<p></p>
 
@@ -68,7 +67,7 @@ export default function SuperWords9(): React.JSX.Element {
 
 			{/* 2.  */}
 
-			<h3 className="margin-y-50 text-center">2. </h3>
+			<h3 className="margin-y-50 text-center">2. Super-noun (Siêu Danh Từ): Mệnh Đề Danh Từ - Danh Từ Dài</h3>
 
 			<p></p>
 
@@ -77,7 +76,7 @@ export default function SuperWords9(): React.JSX.Element {
 
 			{/* 3.  */}
 
-			<h3 className="margin-y-50 text-center">3. </h3>
+			<h3 className="margin-y-50 text-center">3. Super-adjective (Siêu Tính Từ): Mệnh Đề Tính Từ - Tính Từ Dài</h3>
 
 			<p></p>
 			
@@ -85,7 +84,7 @@ export default function SuperWords9(): React.JSX.Element {
 
 			{/* 4.  */}
 
-			<h3 className="margin-y-50 text-center">4. </h3>
+			<h3 className="margin-y-50 text-center">4. Super-adverb (Siêu Trạng Từ): Mệnh Đề Trạng Từ - Trạng Từ Dài</h3>
 
 			<p></p>
 
@@ -93,7 +92,7 @@ export default function SuperWords9(): React.JSX.Element {
 
 			{/* 5.  */}
 
-			<h3 className="margin-y-50 text-center">5. </h3>
+			<h3 className="margin-y-50 text-center">5. Ứng Dụng Thực Tiễn: Nâng Cao Kỹ Năng Tiếng Anh Với Tư Duy "Siêu Từ Loại"</h3>
 
 			<p></p>
 
@@ -101,7 +100,7 @@ export default function SuperWords9(): React.JSX.Element {
 
 			{/* Lời Kết */}
 
-			<h3 className="margin-y-50 text-center"></h3>
+			<h3 className="margin-y-50 text-center">Kết Luận: Chinh Phục Ngữ Pháp Bằng Trực Giác</h3>
 
 			<p></p>
 

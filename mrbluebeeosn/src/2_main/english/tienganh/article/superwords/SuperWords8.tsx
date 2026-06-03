@@ -59,41 +59,50 @@ export default function SuperWords8(): React.JSX.Element {
 
 			{/* 1.  */}
 
-			<h3 className="margin-y-50 text-center">1. </h3>
+			<h3 className="margin-y-50 text-center">1. Ý tưởng cốt lõi</h3>
 
 			<p></p>
-
-			
-
 
 			{/* 2.  */}
 
-			<h3 className="margin-y-50 text-center">2. </h3>
+			<h3 className="margin-y-50 text-center">2. Ba siêu, việc rõ ràng</h3>
 
 			<p></p>
 
-		
-			
+			<h4 className="margin-y-40">1. SIÊU DANH TỪ / Super-noun</h4>
+					
+			<p className="text-indent-whole"></p>
 
-			{/* 3.  */}
 
-			<h3 className="margin-y-50 text-center">3. </h3>
+			<h4 className="margin-y-40">2. SIÊU TÍNH TỪ / Super-adjective</h4>
+					
+			<p className="text-indent-whole"></p>
 
-			<p></p>
-			
-			
+
+			<h4 className="margin-y-40">3. SIÊU TRẠNG TỪ / Super-adverb</h4>
+					
+			<p className="text-indent-whole"></p>
+
 
 			{/* 4.  */}
 
-			<h3 className="margin-y-50 text-center">4. </h3>
+			<h3 className="margin-y-50 text-center">4. Cách nhận diện trong 10 giây</h3>
 
 			<p></p>
-
+			
 			
 
 			{/* 5.  */}
 
-			<h3 className="margin-y-50 text-center">5. </h3>
+			<h3 className="margin-y-50 text-center">5. Bảng tra nhanh</h3>
+
+			<p></p>
+
+			
+
+			{/* 6.  */}
+
+			<h3 className="margin-y-50 text-center">6. Dùng tên nào, lúc nào</h3>
 
 			<p></p>
 
@@ -101,7 +110,7 @@ export default function SuperWords8(): React.JSX.Element {
 
 			{/* Lời Kết */}
 
-			<h3 className="margin-y-50 text-center"></h3>
+			<h3 className="margin-y-50 text-center">Kết</h3>
 
 			<p></p>
 

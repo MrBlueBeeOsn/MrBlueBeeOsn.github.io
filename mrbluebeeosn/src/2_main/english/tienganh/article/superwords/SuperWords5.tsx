@@ -55,20 +55,26 @@ export default function SuperWords5(): React.JSX.Element {
 			<p></p>
 			
 			<p></p>
-			
 
-			{/* 1.  */}
 
-			<h3 className="margin-y-50 text-center">1. </h3>
+			{/* .  */}
+
+			<h3 className="margin-y-50 text-center">Ý tưởng cốt lõi / The Core Idea</h3>
 
 			<p></p>
 
-			
+
+
+			{/* 1.  */}
+
+			<h3 className="margin-y-50 text-center">1. 🔵 Siêu Danh Từ / Super-Noun</h3>
+
+			<p></p>
 
 
 			{/* 2.  */}
 
-			<h3 className="margin-y-50 text-center">2. </h3>
+			<h3 className="margin-y-50 text-center">2. 🟢 Siêu Tính Từ / Super-Adjective</h3>
 
 			<p></p>
 
@@ -77,7 +83,7 @@ export default function SuperWords5(): React.JSX.Element {
 
 			{/* 3.  */}
 
-			<h3 className="margin-y-50 text-center">3. </h3>
+			<h3 className="margin-y-50 text-center">3. 🟠 Siêu Trạng Từ / Super-Adverb</h3>
 
 			<p></p>
 			
@@ -85,7 +91,7 @@ export default function SuperWords5(): React.JSX.Element {
 
 			{/* 4.  */}
 
-			<h3 className="margin-y-50 text-center">4. </h3>
+			<h3 className="margin-y-50 text-center">4. Câu hỏi vàng / The Golden Question</h3>
 
 			<p></p>
 
@@ -93,7 +99,7 @@ export default function SuperWords5(): React.JSX.Element {
 
 			{/* 5.  */}
 
-			<h3 className="margin-y-50 text-center">5. </h3>
+			<h3 className="margin-y-50 text-center">5. Tại sao cách nhìn này quan trọng / Why This Way of Thinking Matters</h3>
 
 			<p></p>
 
@@ -101,7 +107,7 @@ export default function SuperWords5(): React.JSX.Element {
 
 			{/* Lời Kết */}
 
-			<h3 className="margin-y-50 text-center"></h3>
+			<h3 className="margin-y-50 text-center">Tóm tắt / Quick Summary</h3>
 
 			<p></p>
 
