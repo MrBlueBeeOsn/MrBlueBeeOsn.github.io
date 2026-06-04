@@ -232,53 +232,99 @@ export default function ThreeDC2(): React.ReactElement {
 
 			<h3 className="margin-y-50 text-center">3. 🧠 “3 CÂU HỎI VÀNG” PHÂN BIỆT TỨC THÌ</h3>
 
-			<p></p>
+			<p>Khi gặp một mệnh đề có từ nối, hãy lần lượt tự hỏi:</p>
 
-			<p className="margin-top-20"></p>
-			
-				<ol>
-			
-					<li value="1"></li>
-					<li className="margin-bottom-20 list-none"></li>
-			
-					<li value="2"></li>
-					<li className="margin-bottom-20 list-none"></li>
-			
-					<li value="3"></li>
-					<li className="list-none"></li>
-			
-				</ol>
-			
-			<p className="margin-top-20"></p>
-
-			<p className="margin-top-20 text-indent-whole">Ví dụ áp dụng nhanh:</p>
+			<h4 className="margin-y-40">Câu hỏi 1:</h4>
+					
+			<p className="text-indent-whole">Bỏ nó ra, câu chính có thiếu chủ ngữ/tân ngữ không?</p>
 			
 				<ul className="list-square">
 			
-					<li></li>
-					<li className="margin-bottom-20 list-none"></li>
-			
-					<li className="margin-bottom-20 list-none">↓</li>
-
-					<li></li>
-					<li className="list-none"></li>
+					<li>Trả lời Có</li>
+					<li className="list-none">→ Noun clause (vì nó là thành phần chính)</li>
 			
 				</ul>
 			
-			<p className="margin-top-20 text-indent-whole"></p>
 
-
-			<p className="margin-top-20 text-indent-whole">Ví dụ áp dụng nhanh:</p>
+			<h4 className="margin-y-40">Câu hỏi 2:</h4>
+					
+			<p className="text-indent-whole">(Nếu không) Nó đứng sau một danh từ và bổ nghĩa cho danh từ đó không?</p>
 			
 				<ul className="list-square">
 			
-					<li></li>
-					<li className="margin-bottom-20 list-none"></li>
+					<li>Trả lời Có</li>
+					<li className="list-none">→ Adjective clause</li>
+			
+				</ul>
+			
+
+
+			<h4 className="margin-y-40">Câu hỏi 3:</h4>
+					
+			<p className="text-indent-whole">(Nếu không) Nó trả lời “Tại sao, khi nào, nếu thì, mặc dù…” cho động từ chính?</p>
+			
+				<ul className="list-square">
+			
+					<li>Trả lời Có</li>
+					<li className="list-none">→ Adverb clause</li>
+			
+				</ul>
+
+			
+			<h4 className="margin-y-40">Ví dụ áp dụng nhanh:</h4>
+					
+			<p className="text-indent-whole">I know the reason why she left.</p>
+
+			<p className="text-indent-whole">Tôi biết lý do tại sao cô ấy đã rời đi.</p>
+			
+				<ul className="list-square">
+
+					<li>why she left</li>
+					<li className="margin-bottom-20 list-none">tại sao cô ấy rời đi</li>
+					<li className="list-none">Nó đứng sau the reason</li>
+					<li className="list-none">→ Bổ nghĩa cho the reason</li>
+					<li className="list-none">→ Adjective clause (mệnh đề tính từ).</li>
+					<li className="margin-bottom-20 list-none">Mệnh đề "why she left" ở đây đóng vai trò làm rõ nghĩa cho danh từ "reason".</li>
+			
+					<li>Bỏ why she left</li>
+					<li className="margin-bottom-20 list-none">Câu vẫn đúng ngữ pháp</li>
+					<li className="margin-bottom-20 list-none">→ không phải noun clause.</li>
 			
 					<li className="margin-bottom-20 list-none">↓</li>
 
-					<li></li>
-					<li className="list-none"></li>
+					<li>I know the reason</li>
+					<li className="list-none">Tôi biết lý do đó.</li>
+			
+				</ul>
+			
+
+			<p className="text-indent-whole">I know why she left.</p>
+
+			<p className="text-indent-whole">Tôi biết tại sao cô ấy rời đi.</p>
+			
+			
+				<ul className="list-square">
+			
+					<li>why she left</li>
+					<li className="margin-bottom-20 list-none">Tại sao cô ấy rời đi</li>
+					<li className="list-none">Ở đây why she left là tân ngữ</li>
+					<li className="list-none">Đây là một mệnh đề danh ngữ, thường dùng để làm tân ngữ cho các động từ như "know", "ask", "understand"</li>
+					<li className="margin-bottom-20 list-none">Vậy là noun clause.</li>
+					
+					<li className="margin-bottom-20 list-none">↓</li>
+
+					<li>I know</li>
+					<li className="margin-bottom-20 list-none">Tôi biết</li>
+					<li className="list-none">Câu vẫn đúng nhưng know cần tân ngữ?</li>
+					<li className="list-none">Thực tế know có thể dùng nội động từ?</li>
+					<li className="list-none">Áp dụng câu hỏi 1: Có thiếu tân ngữ không?</li>
+					<li className="list-none">CÓ, vì know cần một tân ngữ (không phải lúc nào cũng có thể đứng một mình).</li>
+
+					<li>Bỏ "why she left"</li>
+					<li className="margin-bottom-20 list-none">Bỏ "Tại sao cô ấy rời đi"</li>
+					<li className="list-none">→ Cần cẩn thận.</li>
+					<li className="list-none">→ Nếu bỏ, câu không hoàn chỉnh về nghĩa nhưng vẫn đúng ngữ pháp?</li>
+					<li className="list-none">Thực tế, why she left là noun clause làm tân ngữ.</li>
 			
 				</ul>
 			
@@ -290,33 +336,24 @@ export default function ThreeDC2(): React.ReactElement {
 
 			<h3 className="margin-y-50 text-center">4. 📚 VÍ DỤ THỰC CHIẾN (CÓ PHÂN TÍCH CHI TIẾT)</h3>
 
-			<p></p>
-
-
 			<h4 className="margin-y-40">Câu 1:</h4>
 
-			<p className="text-indent-whole"></p>
-			
-				<ul className="list-square">
-			
-					<li></li>
-					<li className="list-none"></li>
-			
-				</ul>
-			
-			<p className="margin-top-20 text-indent-whole"></p>
+			<p className="text-indent-whole">What you decide will affect the whole team.</p>
 
-			<p className="margin-top-20 text-indent-whole"></p>
+			<p className="text-indent-whole">Những gì bạn quyết định sẽ ảnh hưởng đến cả đội.</p>
 			
 				<ul className="list-square">
 			
-					<li></li>
-					<li className="margin-bottom-20 list-none"></li>
+					<li>Bỏ What you decide</li>
+					<li className="list-none">Những gì bạn quyết định.</li>
+					<li className="margin-bottom-20 list-none">Điều bạn quyết định.</li>
 			
 					<li className="margin-bottom-20 list-none">↓</li>
 
-					<li></li>
-					<li className="list-none"></li>
+					<li>____ will affect</li>
+					<li className="list-none">____ sẽ ảnh hưởng (đến)</li>
+					<li className="list-none">→ thiếu chủ ngữ</li>
+					<li className="list-none">→ Noun clause (chủ ngữ).</li>
 			
 				</ul>
 			
@@ -325,102 +362,75 @@ export default function ThreeDC2(): React.ReactElement {
 
 			<h4 className="margin-y-40">Câu 2:</h4>
 
-			<p className="text-indent-whole"></p>
-			
-				<ul className="list-square">
-			
-					<li></li>
-					<li className="list-none"></li>
-			
-				</ul>
-			
-			<p className="margin-top-20 text-indent-whole"></p>
+			<p className="text-indent-whole">The movie that we watched last night was boring.</p>
 
-			<p className="margin-top-20 text-indent-whole"></p>
+			<p className="text-indent-whole">Bộ phim mà chúng ta đã xem tối qua thật tẻ nhạt.</p>
 			
 				<ul className="list-square">
 			
-					<li></li>
-					<li className="margin-bottom-20 list-none"></li>
+					<li>Bỏ "that we watched last night"</li>
+					<li className="list-none">Bỏ "mà chúng ta đã xem tối qua"</li>
+					<li className="margin-bottom-20 list-none">Đây là mệnh đề quan hệ dùng để bổ nghĩa cho danh từ đứng trước nó</li>
 			
 					<li className="margin-bottom-20 list-none">↓</li>
 
-					<li></li>
-					<li className="list-none"></li>
+					<li>The movie was boring.</li>
+					<li className="list-none">Bộ phim thật tẻ nhạt/nhàm chán.</li>
+					<li className="list-none">Vẫn đúng.</li>
+					<li className="list-none">Đây là một câu đơn hoàn chỉnh</li>
 			
 				</ul>
 			
-			<p className="margin-top-20 text-indent-whole"></p>
-
+			<p className="margin-top-20 text-indent-whole">Mệnh đề đứng sau the movie, bổ nghĩa cho the movie → Adjective clause.</p>
+		
 
 			<h4 className="margin-y-40">Câu 3:</h4>
 
-			<p className="text-indent-whole"></p>
-			
-				<ul className="list-square">
-			
-					<li></li>
-					<li className="list-none"></li>
-			
-				</ul>
-			
-			<p className="margin-top-20 text-indent-whole"></p>
+			<p className="text-indent-whole">Because she trained hard, she won the gold medal.</p>
 
-			<p className="margin-top-20 text-indent-whole"></p>
+			<p className="text-indent-whole">Vì cô ấy đã tập luyện chăm chỉ, cô ấy đã giành được huy chương vàng.</p>
 			
 				<ul className="list-square">
 			
-					<li></li>
-					<li className="margin-bottom-20 list-none"></li>
+					<li>Bỏ "Because she trained hard"</li>
+					<li className="margin-bottom-20 list-none">Bỏ "Bởi vì cô ấy đã tập luyện chăm chỉ".</li>
 			
 					<li className="margin-bottom-20 list-none">↓</li>
 
-					<li></li>
-					<li className="list-none"></li>
+					<li>She won the gold medal.</li>
+					<li className="list-none">Cô ấy đã giành được huy chương vàng.</li>
+					<li className="list-none">Vẫn đúng</li>
 			
 				</ul>
-			
-			<p className="margin-top-20 text-indent-whole"></p>
+
+			<p className="margin-top-20 text-indent-whole">Nó không bổ nghĩa cho một danh từ cụ thể, mà giải thích lý do cho hành động “won” → Adverb clause.</p>
 
 
 			<h4 className="margin-y-40">Câu 4 phức hợp:</h4>
 
-			<p className="text-indent-whole"></p>
-			
-				<ul className="list-square">
-			
-			
-					<li></li>
-					<li className="list-none"></li>
-			
-				</ul>
-			
-			<p className="margin-top-20 text-indent-whole"></p>
+			<p className="text-indent-whole">I think that the man who lives next door is a spy because he never leaves his house.</p>
 
-			<p className="margin-top-20"></p>
+			<p className="text-indent-whole">Tôi nghĩ rằng người đàn ông sống ở nhà bên cạnh là điệp viên vì ông ta chẳng bao giờ rời khỏi nhà.</p>
 			
 				<ul className="list-square">
 			
-					<li></li>
-					<li className="list-none"></li>
-					<li className="list-none"></li>
-					<li className="margin-bottom-20 list-none"></li>
+					<li>that the man … is a spy</li>
+					<li className="list-none">rằng người đàn ông đó... là một điệp viên.</li>
+					<li className="list-none">→ Noun clause (tân ngữ của think)</li>
+					<li className="margin-bottom-20 list-none">Đây là mệnh đề danh ngữ đóng vai trò làm tân ngữ cho động từ "think"</li>
 			
-					<li></li>
-					<li className="list-none"></li>
-					<li className="list-none"></li>
-					<li className="margin-bottom-20 list-none"></li>
+					<li>who lives next door</li>
+					<li className="list-none">who lives next door</li>
+					<li className="list-none">→ Adjective clause (bổ nghĩa cho the man)</li>
+					<li className="margin-bottom-20 list-none">Đây là mệnh đề quan hệ dùng để bổ nghĩa cho "the man"</li>
 			
-					<li></li>
-					<li className="list-none"></li>
-					<li className="list-none"></li>
-					<li className="list-none"></li>
+					<li>because he never leaves his house</li>
+					<li className="list-none">because he never leaves his house</li>
+					<li className="list-none">→ Adverb clause (lý do cho is a spy)</li>
+					<li className="list-none">Đây là mệnh đề trạng ngữ chỉ nguyên nhân</li>
 			
 				</ul>
-			
-			<p className="margin-top-20"></p>
 		
-
 
 			{/* 5.  */}
 
