@@ -430,255 +430,235 @@ export default function ThreeDC2(): React.ReactElement {
 
 			<h4 className="margin-y-40">Trong giao tiếp hàng ngày:</h4>
 					
-			<p className="text-indent-whole"></p>
+			<p className="text-indent-whole">Noun clause</p>
 
 			<p className="margin-top-20"></p>
 			
 				<ul className="list-square">
+
+					<li className="margin-bottom-20 list-none">Làm tân ngữ thường bỏ that</li>
 			
-					<li></li>
-					<li className="list-none"></li>
+					<li>I think (that) it’s fine.</li>
+					<li className="margin-bottom-20 list-none">Tôi nghĩ (rằng) điều đó ổn.</li>
+
+					<li className="list-none">Từ "that" có thể được lược bỏ trong văn nói hoặc văn viết không trang trọng.</li>
 			
 				</ul>
 			
-			<p className="margin-top-20 text-indent-whole"></p>
+			<p className="margin-top-20 text-indent-whole">Adverb clause</p>
 			
 				<ul className="list-square">
+
+					<li className="margin-bottom-20 list-none">Với because, if, when xuất hiện liên tục</li>
 			
-					<li></li>
-					<li className="list-none"></li>
+					<li>I’ll help you if you need.</li>
+					<li className="list-none">Tôi sẽ giúp bạn nếu bạn cần.</li>
 			
 				</ul>
 			
-			<p className="margin-top-20 text-indent-whole"></p>
-
-
-			<p className="margin-top-20 text-indent-whole"></p>
+			
+			<p className="margin-top-20 text-indent-whole">Adjective clause</p>
 			
 				<ul className="list-square">
+
+					<li className="margin-bottom-20 list-none">Ngắn gọn, thay whom bằng who hoặc bỏ hẳn</li>
 			
-					<li></li>
-					<li className="list-none"></li>
+					<li>The person (who) I met</li>
+					<li className="list-none">Người mà tôi đã gặp</li>
 			
 				</ul>
-			
-			<p className="margin-top-20 text-indent-whole"></p>
 
 
-			<p className="margin-top-20 text-indent-whole"></p>
+			<p className="margin-top-20 text-indent-whole">Noun clause làm chủ ngữ</p>
 			
 				<ul className="list-square">
+
+					<li className="margin-bottom-20 list-none">KHÔNG dùng trong văn nói, hãy chuyển thành It … that</li>
 			
-					<li></li>
-					<li className="margin-bottom-20 list-none"></li>
+					<li>That she is pretty is obvious.</li>
+					<li className="margin-bottom-20 list-none">Việc cô ấy xinh đẹp là điều hiển nhiên.</li>
 			
 					<li className="margin-bottom-20 list-none">↓</li>
 
-					<li></li>
-					<li className="list-none"></li>
+					<li>It’s obvious that she’s pretty.</li>
+					<li className="list-none">Điều hiển nhiên là cô ấy xinh đẹp.</li>
 			
 				</ul>
-			
-			<p className="margin-top-20 text-indent-whole"></p>
-
 
 
 			<h4 className="margin-y-40">Trong văn viết (học thuật, công sở):</h4>
 
-			<p className="text-indent-whole"></p>
+			<p className="text-indent-whole">Luôn giữ that trong noun clause làm tân ngữ:</p>
 			
 				<ul className="list-square">
 			
-					<li></li>
-					<li className="list-none"></li>
+					<li>The report indicates that sales increased.</li>
+					<li className="list-none">Bản báo cáo chỉ ra rằng doanh số bán hàng đã tăng.</li>
 			
 				</ul>
 			
-			<p className="margin-top-20 text-indent-whole"></p>
-
-
-			<p className="text-indent-whole"></p>
+			<p className="margin-top-20 text-indent-whole">Dùng mệnh đề không xác định (có dấu phẩy) với which để thêm thông tin phụ:</p>
 			
 				<ul className="list-square">
 			
-					<li></li>
-					<li className="margin-bottom-20 list-none"></li>
-			
-					<li></li>
-					<li className="margin-bottom-20 list-none"></li>
-			
-					<li></li>
-					<li className="list-none"></li>
+					<li>The policy, which was introduced last year, has failed.</li>
+					<li className="list-none">Chính sách này, cái mà được giới thiệu vào năm ngoái, đã thất bại.</li>
 			
 				</ul>
 			
-			<p className="margin-top-20 text-indent-whole"></p>
-
-
-			<p className="text-indent-whole"></p>
+			<p className="margin-top-20 text-indent-whole">Dùng đa dạng liên từ trạng từ:</p>
 			
 				<ul className="list-square">
 			
-					<li></li>
-					<li className="list-none"></li>
+					<li className="margin-bottom-20">whereas</li>
+					<li className="list-none">The revenue increased by 10%, whereas the expenses remained the same.</li>
+					<li className="margin-bottom-20 list-none">Doanh thu tăng 10%, trong khi đó chi phí vẫn giữ nguyên.</li>
+					<li className="margin-bottom-20 list-none">Trong khi đó / Xét thấy rằng (thường dùng để đối lập hai mệnh đề).</li>
+
+					<li className="margin-bottom-20">provided that</li>
+					<li className="list-none">The loan will be approved provided that you submit all required documents by Friday.</li>
+					<li className="margin-bottom-20 list-none">Khoản vay sẽ được phê duyệt với điều kiện là bạn nộp đủ các giấy tờ cần thiết trước thứ Sáu.</li>
+					<li className="margin-bottom-20 list-none">Với điều kiện là / Miễn là.</li>
+
+					<li className="margin-bottom-20">inasmuch as</li>
+					<li className="list-none">Inasmuch as the error was caused by a system glitch, the client will not be charged.</li>
+					<li className="margin-bottom-20 list-none">Vì/Xét thấy rằng lỗi do hệ thống, khách hàng sẽ được miễn phí.</li>
+					<li className="margin-bottom-20 list-none">Vì / Xét thấy rằng (dùng để giải thích lý do hoặc phạm vi).</li>
+
+					<li>…</li>
 			
 				</ul>
 			
-			<p className="margin-top-20 text-indent-whole"></p>
-					
-			<p className="text-indent-whole"></p>
+			<p className="margin-top-20 text-indent-whole">Tránh lạm dụng mệnh đề quá dài; hãy cắt khi cần.</p>
 
 
 			<h4 className="margin-y-40">Quy tắc dấu phẩy vàng:</h4>
 
-			<p className="text-indent-whole"></p>
+			<p className="text-indent-whole">Trường hợp 1: Adverb clause đứng TRƯỚC mệnh đề chính</p>
 			
 				<ul className="list-square">
 			
-					<li className="margin-bottom-20 list-none"></li>
-			
-					<li></li>
-					<li className="list-none"></li>
+					<li>When you arrive, call me.</li>
+					<li className="margin-bottom-20 list-none">Khi bạn đến, hãy gọi cho tôi.</li>
+
+					<li className="list-none">Có dấu phẩy</li>
 			
 				</ul>
 			
-			<p className="margin-top-20 text-indent-whole"></p>
+			<p className="margin-top-20 text-indent-whole">Trường hợp 2: Adverb clause đứng SAU</p>
 
+			
+				<ul className="list-square">
+		
+					<li>Call me when you arrive.</li>
+					<li className="margin-bottom-20 list-none">Hãy gọi cho tôi khi bạn đến.</li>
 
-			<p className="text-indent-whole"></p>
+					<li className="list-none">Không dấu phẩy</li>
+			
+				</ul>
+			
+			<p className="margin-top-20 text-indent-whole">Trường hợp 3: Adjective clause xác định (cần để biết danh từ nào)</p>
+
 			
 				<ul className="list-square">
 			
-					<li className="margin-bottom-20 list-none"></li>
-			
-					<li></li>
-					<li className="list-none"></li>
+					<li>Students who cheat will fail.</li>
+					<li className="margin-bottom-20 list-none">Những học sinh gian lận sẽ bị trượt/thất bại.</li>
+
+					<li className="list-none">Không dấu phẩy</li>
 			
 				</ul>
 			
-			<p className="margin-top-20 text-indent-whole"></p>
-
-
-			<p className="text-indent-whole"></p>
+			<p className="margin-top-20 text-indent-whole">Trường hợp 4: Adjective clause không xác định (chỉ thêm thông tin)</p>
 			
 				<ul className="list-square">
 			
-					<li className="margin-bottom-20 list-none"></li>
-			
-					<li></li>
-					<li className="list-none"></li>
-			
-				</ul>
-			
-			<p className="margin-top-20 text-indent-whole"></p>
+					<li>My father, who is 65, still works.</li>
+					<li className="margin-bottom-20 list-none">Cha tôi, người đã 65 tuổi, vẫn đang đi làm.</li>
 
-					
-			<p className="text-indent-whole"></p>
-			
-				<ul className="list-square">
-			
-					<li className="margin-bottom-20 list-none"></li>
-			
-					<li></li>
-					<li className="list-none"></li>
+					<li className="list-none">Có dấu phẩy</li>
 			
 				</ul>
-			
-			<p className="margin-top-20 text-indent-whole"></p>
 
 
 			{/* 6.  */}
 
 			<h3 className="margin-y-50 text-center">6. ❌ 5 LỖI SAI “KINH ĐIỂN” CẦN TRÁNH</h3>
 
-			<p></p>
-
-			<p className="margin-top-20"></p>
+			<p className="margin-top-20">Lỗi 1: Thừa “that” trong câu hỏi gián tiếp</p>
 			
 				<ul className="list-square">
 			
-					<li></li>
-					<li className="margin-bottom-20 list-none"></li>
+					<li>She asked me that where I lived.</li>
+					<li className="margin-bottom-20 list-none">Sai</li>
 			
-					<li></li>
-					<li className="list-none"></li>
-					<li className="list-none"></li>
+					<li>She asked me where I lived.</li>
+					<li className="list-none">Cô ấy đã hỏi tôi nơi tôi sống.</li>
+					<li className="list-none">Đúng</li>
 			
 				</ul>
-			
-			<p className="margin-top-20"></p>
 
 
-			<p className="margin-top-20"></p>
+			<p className="margin-top-20">Lỗi 2: “Reason… because”</p>
 			
 				<ul className="list-square">
 			
-					<li></li>
-					<li className="margin-bottom-20 list-none"></li>
+					<li>The reason I’m late is because the bus didn’t come.</li>
+					<li className="margin-bottom-20 list-none">Sai</li>
 			
-					<li></li>
-					<li className="list-none"></li>
-					<li className="list-none"></li>
+					<li>The reason I’m late is that the bus didn’t come.</li>
+					<li className="list-none">Lý do tôi đến muộn là vì xe buýt đã không đến.</li>
+					<li className="list-none">Đúng</li>
 			
 				</ul>
-			
-			<p className="margin-top-20"></p>
 
 
-			<p className="margin-top-20"></p>
+			<p className="margin-top-20">Lỗi 3: Nhầm đại từ quan hệ</p>
 			
 				<ul className="list-square">
 			
-					<li></li>
-					<li className="margin-bottom-20 list-none"></li>
+					<li>The person which called you is my mom.</li>
+					<li className="margin-bottom-20 list-none">Sai</li>
 			
-					<li></li>
-					<li className="list-none"></li>
-					<li className="list-none"></li>
+					<li>The person who called you is my mom.</li>
+					<li className="list-none">Người mà đã gọi cho bạn là mẹ tôi.</li>
+					<li className="list-none">Đúng</li>
 			
 				</ul>
-			
-			<p className="margin-top-20"></p>
 
 
-			<p className="margin-top-20"></p>
+			<p className="margin-top-20">Lỗi 4: Thiếu dấu phẩy mệnh đề không xác định</p>
 			
 				<ul className="list-square">
 			
-					<li></li>
-					<li className="margin-bottom-20 list-none"></li>
+					<li>My brother who lives in Hanoi is a doctor.</li>
+					<li className="list-none">Gây hiểu nhầm là có nhiều anh em</li>
+					<li className="margin-bottom-20 list-none">Sai</li>
 			
-					<li></li>
-					<li className="list-none"></li>
-					<li className="list-none"></li>
+					<li>My brother, who lives in Vietnam, is a doctor.</li>
+					<li className="list-none">Anh/em trai tôi, người đang sống ở Hà Nội, là một bác sĩ.</li>
+					<li className="list-none">Đúng</li>
 			
 				</ul>
-			
-			<p className="margin-top-20"></p>
 
 
-			<p className="margin-top-20"></p>
+			<p className="margin-top-20">Lỗi 5: Dùng “like” thay “as if” trong văn trang trọng</p>
 			
 				<ul className="list-square">
 			
-					<li></li>
-					<li className="margin-bottom-20 list-none"></li>
+					<li>He looks like he has seen a ghost.</li>
+					<li className="margin-bottom-20 list-none">Sai</li>
 			
-					<li></li>
-					<li className="list-none"></li>
-					<li className="list-none"></li>
+					<li>He looks as if he has seen a ghost.</li>
+					<li className="list-none">Anh ấy trông như thể là anh ấy vừa nhìn thấy ma vậy.</li>
+					<li className="list-none">Đúng</li>
 			
 				</ul>
-			
-			<p className="margin-top-20"></p>
 			
 
 			{/* 7.  */}
 
 			<h3 className="margin-y-50 text-center">7. 🗺️ LỘ TRÌNH 4 TUẦN LÀM CHỦ BỘ 3 MỆNH ĐỀ</h3>
-
-			<p></p>
-
 
 			<h4 className="margin-y-40">Tuần 1 – NHẬN DIỆN (15 phút/ngày)</h4>
 					
@@ -688,9 +668,11 @@ export default function ThreeDC2(): React.ReactElement {
 			
 				<ul className="list-square">
 			
-					<li></li>
+					<li>Đọc báo BBC hoặc VOA, lấy một đoạn ngắn.</li>
+					<li className="list-none">Dùng bút (hoặc highlight) gạch dưới mỗi mệnh đề phụ.</li>
+					<li className="margin-bottom-20 list-none">Ghi chú bên lề: N / Adj / Adv.</li>
 			
-					<li></li>
+					<li>Kiểm tra bằng 3 câu hỏi vàng.</li>
 			
 				</ul>
 			
@@ -700,161 +682,125 @@ export default function ThreeDC2(): React.ReactElement {
 			<h4 className="margin-y-40">Tuần 2 – PHÂN TÍCH & GHÉP CÂU (20 phút/ngày)</h4>
 
 
-			<p className="text-indent-whole"></p>
+			<p className="text-indent-whole">Noun clause:</p>
 			
 				<ul className="list-square">
 			
-					<li></li>
-					<li className="margin-bottom-20 list-none"></li>
+					<li className="margin-bottom-20 list-none">Viết 5 cặp câu đơn → ghép thành câu có noun clause.</li>
 			
-					<li></li>
-					<li className="margin-bottom-20 list-none"></li>
+					<li>She will win. I believe it.</li>
+					<li className="margin-bottom-20 list-none">Cô ấy sẽ thắng. Tôi tin điều đó.</li>
 
 					<li className="margin-bottom-20 list-none">↓</li>
-
-					<li></li>
-					<li className="margin-bottom-20 list-none"></li>
 			
-					<li></li>
-					<li className="list-none"></li>
+					<li>I believe that she will win.</li>
+					<li className="list-none">Tôi tin rằng cô ấy sẽ thắng.</li>
 			
 				</ul>
 			
-			<p className="margin-top-20 text-indent-whole"></p>
-
-
-			<p className="text-indent-whole"></p>
+			<p className="margin-top-20 text-indent-whole">Adjective clause: Ghép 2 câu có chung danh từ.</p>
 			
 				<ul className="list-square">
+
+					<li className="margin-bottom-20 list-none">Ghép 2 câu có chung danh từ.</li>
 			
-					<li></li>
-					<li className="margin-bottom-20 list-none"></li>
-			
-					<li></li>
-					<li className="margin-bottom-20 list-none"></li>
+					<li>The boy is my son. He is wearing a red hat.</li>
+					<li className="margin-bottom-20 list-none">Cậu bé đó là con trai tôi. Cậu ấy đang đội một chiếc mũ màu đỏ.</li>
 
 					<li className="margin-bottom-20 list-none">↓</li>
-
-					<li></li>
-					<li className="margin-bottom-20 list-none"></li>
 			
-					<li></li>
-					<li className="list-none"></li>
+					<li>The boy who is wearing a red hat is my son.</li>
+					<li className="list-none">Cậu bé người mà đang đội chiếc mũ màu đỏ là con trai tôi.</li>
 			
 				</ul>
-			
-			<p className="margin-top-20 text-indent-whole"></p>
 
 					
-			<p className="text-indent-whole"></p>
+			<p className="margin-top-20 text-indent-whole">Adverb clause:</p>
 			
 				<ul className="list-square">
+
+					<li className="margin-bottom-20 list-none">Dùng because, if, when để nối.</li>
 			
-					<li></li>
-					<li className="margin-bottom-20 list-none"></li>
-			
-					<li></li>
-					<li className="margin-bottom-20 list-none"></li>
+					<li>I was tired. I slept early.</li>
+					<li className="margin-bottom-20 list-none">Tôi đã mệt. Tôi đã đi ngủ sớm.</li>
 
 					<li className="margin-bottom-20 list-none">↓</li>
-
-					<li></li>
-					<li className="margin-bottom-20 list-none"></li>
 			
-					<li></li>
-					<li className="list-none"></li>
+					<li>I slept early because I was tired.</li>
+					<li className="list-none">Tôi đã đi ngủ sớm vì tôi đã mệt.</li>
 			
 				</ul>
-			
-			<p className="margin-top-20 text-indent-whole"></p>
 
 
 			<h4 className="margin-y-40">Tuần 3 – SẢN XUẤT CÓ CHỦ ĐÍCH (20 phút/ngày)</h4>
-					
-			<p className="text-indent-whole"></p>
-
-			<p className="margin-top-20"></p>
 			
 				<ul className="list-square">
 			
-					<li></li>
-					<li className="margin-bottom-20 list-none"></li>
+					<li>Viết nhật ký:</li>
+					<li className="margin-bottom-20 list-none">Mỗi câu bắt buộc chứa ít nhất 1 mệnh đề phụ. Luân phiên 3 loại.</li>
 			
-					<li></li>
-					<li className="list-none"></li>
+					<li>Nói trước gương 1 phút về chủ đề yêu thích, cố ý dùng although, if, when, that, which.</li>
+					<li className="list-none">Ghi âm và nghe lại.</li>
 			
 				</ul>
-			
-			<p className="margin-top-20"></p>
 
 
 			<h4 className="margin-y-40">Tuần 4 – SỬA LỖI & NÂNG CAO (20 phút/ngày)</h4>
-					
-			<p className="text-indent-whole"></p>
-
-			<p className="margin-top-20"></p>
 			
 				<ul className="list-square">
 			
-					<li></li>
-					<li className="margin-bottom-20 list-none"></li>
+					<li>Tìm các bài tập “error correction”</li>
+					<li className="margin-bottom-20 list-none">Có thể lấy từ sách ngữ pháp hoặc trên mạng</li>
 			
-					<li></li>
-					<li className="list-none"></li>
+					<li>Thử viết một đoạn văn 150–200 từ chỉ dùng câu phức (không câu đơn).</li>
+					<li className="list-none">Nhờ bạn bè hoặc Grammarly kiểm tra.</li>
 			
 				</ul>
 			
-			<p className="margin-top-20"></p>
-			
+			<p className="margin-top-20">⭐ Mẹo tiến bộ nhanh:</p>
+
+			<p className="text-indent-whole">Mỗi khi học một từ nối mới (ví dụ whereas, provided that, whoever, as though), hãy đặt 3 câu với nó, mỗi câu thuộc một loại mệnh đề khác nhau (nếu có thể). Điều này ép não bạn linh hoạt.</p>
 			
 
 			{/* 8.  */}
 
 			<h3 className="margin-y-50 text-center">8. 💎 HỌC XONG BỘ 3 MỆNH ĐỀ – ĐÃ “ADVANCED” CHƯA?</h3>
 
-			<p></p>
+			<p>Câu trả lời trung thực: CHƯA, nhưng bạn đã đi được 50% chặng đường lên Advanced.</p>
 
 			<h4 className="margin-y-40">Những gì bạn sẽ đạt được:</h4>
-					
-			<p className="text-indent-whole"></p>
-
-			<p className="margin-top-20"></p>
 			
 				<ul className="list-square">
 			
-					<li></li>
+					<li>✅ Viết câu phức, thể hiện được nguyên nhân – kết quả, điều kiện, nhượng bộ…</li>
 			
-					<li></li>
+					<li>✅ Đọc hiểu văn bản học thuật dễ dàng hơn rất nhiều.</li>
 			
-					<li></li>
+					<li>✅ Đạt tối thiểu 7.0 IELTS / 850 TOEIC về mặt Ngữ pháp (Grammatical Range).</li>
 			
 				</ul>
-			
-			<p className="margin-top-20"></p>
 
 
 			<h4 className="margin-y-40">Nhưng Advanced English còn cần thêm:</h4>
-					
-			<p className="text-indent-whole"></p>
-
-			<p className="margin-top-20"></p>
 			
 				<ul className="list-square">
 			
-					<li></li>
-					<li className="margin-bottom-20 list-none"></li>
+					<li>Từ vựng chủ động</li>
+					<li className="margin-bottom-20 list-none">collocation, idiom, phrasal verb</li>
 			
-					<li></li>
-					<li className="margin-bottom-20 list-none"></li>
+					<li>Các cấu trúc nâng cao:</li>
+					<li className="margin-bottom-20 list-none">đảo ngữ (Inversion), câu chẻ (Cleft sentence), câu giả định (Subjunctive).</li>
 
-					<li className="margin-bottom-20"></li>
+					<li className="margin-bottom-20">Ngữ điệu, phát âm, tốc độ nói tự nhiên.</li>
 			
-					<li></li>
+					<li>Hiểu biết văn hóa, ẩn ý, cách diễn đạt tinh tế.</li>
 			
 				</ul>
-			
-			<p className="margin-top-20"></p>
+		
 
+			<h4 className="margin-y-40">🎯 Kết luận:</h4>
+					
+			<p className="text-indent-whole">Nếu bạn đang ở mức Pre-intermediate hoặc Intermediate, làm chủ bộ 3 mệnh đề sẽ GIÚP BẠN BỨT PHÁ LÊN UPPER-INTERMEDIATE hoặc ADVANCED (về mặt ngữ pháp). Để thực sự “Advanced” toàn diện, hãy coi đây là bước đệm vững chắc nhất.</p>
 			
 
 			{/* 9.  */}
