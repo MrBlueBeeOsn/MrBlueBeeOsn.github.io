@@ -62,6 +62,41 @@ export default function SuperWords2(): React.JSX.Element {
 			<h3 className="margin-y-50 text-center">Mở đầu: Chuyện những cái tên dài ngoằng</h3>
 
 			<p></p>
+
+			<h4 className="margin-y-40">TRONG TIẾNG VIỆT:</h4>
+					
+			<p className="text-indent-whole"></p>
+
+			<p className="text-indent-whole"></p>
+			
+				<ul className="list-square">
+			
+					<li></li>
+			
+					<li></li>
+			
+					<li></li>
+			
+				</ul>
+			
+			<p className="margin-top-20 text-indent-whole"></p>
+
+
+			<h4 className="margin-y-40">TRONG TIẾNG ANH:</h4>
+					
+			<p className="text-indent-whole"></p>
+			
+				<ul className="list-square">
+			
+					<li></li>
+			
+					<li></li>
+			
+					<li></li>
+			
+				</ul>
+			
+			<p className="margin-top-20 text-indent-whole"></p>
 			
 
 			{/* 1.  */}
@@ -69,6 +104,63 @@ export default function SuperWords2(): React.JSX.Element {
 			<h3 className="margin-y-50 text-center">1. Ý tưởng cốt lõi: Từ loại thường vs. “Siêu” từ loại</h3>
 
 			<p></p>
+
+			<h4 className="margin-y-40">Danh từ (Noun)</h4>
+					
+			<p className="text-indent-whole"></p>
+
+			<p className="text-indent-whole"></p>
+			
+				<ul className="list-square">
+			
+					<li className="margin-bottom-20 list-none"></li>
+			
+					<li className="margin-bottom-20 list-none"></li>
+			
+					<li></li>
+					<li className="list-none"></li>
+			
+				</ul>
+			
+			<p className="margin-top-20 text-indent-whole"></p>
+
+
+			<h4 className="margin-y-40">Tính từ (Adjective)</h4>
+					
+			<p className="text-indent-whole"></p>
+
+			<p className="text-indent-whole"></p>
+			
+				<ul className="list-square">
+			
+					<li className="margin-bottom-20 list-none"></li>
+			
+					<li className="margin-bottom-20 list-none"></li>
+			
+					<li></li>
+					<li className="list-none"></li>
+			
+				</ul>
+			
+			<p className="margin-top-20 text-indent-whole"></p>
+
+
+			<h4 className="margin-y-40">Trạng từ (Adverb)</h4>
+					
+			<p className="text-indent-whole"></p>
+			
+				<ul className="list-square">
+			
+					<li className="margin-bottom-20 list-none"></li>
+			
+					<li className="margin-bottom-20 list-none"></li>
+			
+					<li></li>
+					<li className="list-none"></li>
+			
+				</ul>
+			
+			<p className="margin-top-20 text-indent-whole"></p>
 
 			
 
@@ -79,6 +171,85 @@ export default function SuperWords2(): React.JSX.Element {
 
 			<p></p>
 
+			<h4 className="margin-y-40">🇻🇳 Tiếng Việt</h4>
+					
+			<p className="text-indent-whole"></p>
+			
+				<ul className="list-square">
+			
+					<li></li>
+					<li className="margin-bottom-20 list-none"></li>
+			
+					<li></li>
+					<li className="list-none"></li>
+			
+				</ul>
+			
+			<p className="margin-top-20 text-indent-whole"></p>
+
+
+			<h4 className="margin-y-40">🇬🇧 Tiếng Anh</h4>
+					
+			<p className="text-indent-whole"></p>
+			
+				<ul className="list-square">
+			
+					<li></li>
+					<li className="margin-bottom-20 list-none"></li>
+			
+					<li></li>
+					<li className="list-none"></li>
+			
+				</ul>
+			
+			<p className="margin-top-20 text-indent-whole">Thêm ví dụ tiếng Anh:</p>
+
+			<p className="margin-top-20 text-indent-whole">Chủ ngữ</p>
+			
+				<ul className="list-square">
+			
+					<li></li>
+					<li className="list-none"></li>
+			
+				</ul>
+			
+			<p className="margin-top-20 text-indent-whole"></p>
+
+			<p className="margin-top-20 text-indent-whole">Tân ngữ</p>
+			
+				<ul className="list-square">
+			
+					<li></li>
+					<li className="list-none"></li>
+			
+				</ul>
+			
+			<p className="margin-top-20 text-indent-whole"></p>
+
+
+			<p className="margin-top-20 text-indent-whole">Bổ ngữ</p>
+			
+				<ul className="list-square">
+			
+					<li></li>
+					<li className="list-none"></li>
+			
+				</ul>
+			
+			<p className="margin-top-20 text-indent-whole">🧠 Mẹo nhận biết:</p>
+
+
+			<p className="margin-top-20 text-indent-whole">whose</p>
+			
+				<ul className="list-square">
+			
+					<li></li>
+					<li className="list-none"></li>
+			
+				</ul>
+			
+			<p className="margin-top-20 text-indent-whole"></p>
+
 		
 			
 
@@ -87,6 +258,87 @@ export default function SuperWords2(): React.JSX.Element {
 			<h3 className="margin-y-50 text-center">3. SIÊU TÍNH TỪ / SUPER‑ADJECTIVE – Bổ nghĩa cho danh từ bằng nguyên một câu</h3>
 
 			<p></p>
+
+			<h4 className="margin-y-40">🇻🇳 Tiếng Việt</h4>
+					
+			<p className="text-indent-whole"></p>
+			
+				<ul className="list-square">
+			
+					<li></li>
+					<li className="margin-bottom-20 list-none"></li>
+			
+					<li></li>
+					<li className="list-none"></li>
+			
+				</ul>
+			
+			<p className="margin-top-20 text-indent-whole"></p>
+
+
+			<h4 className="margin-y-40">🇬🇧 Tiếng Anh</h4>
+					
+			<p className="text-indent-whole"></p>
+			
+				<ul className="list-square">
+			
+					<li></li>
+					<li className="margin-bottom-20 list-none"></li>
+			
+					<li></li>
+					<li className="list-none"></li>
+			
+				</ul>
+			
+			<p className="margin-top-20 text-indent-whole">Thêm ví dụ với các đại từ quan hệ:</p>
+
+			<p className="margin-top-20 text-indent-whole">who</p>
+			
+				<ul className="list-square">
+			
+					<li></li>
+					<li className="list-none"></li>
+			
+				</ul>
+			
+			<p className="margin-top-20 text-indent-whole"></p>
+
+			<p className="margin-top-20 text-indent-whole">which</p>
+			
+				<ul className="list-square">
+			
+					<li></li>
+					<li className="list-none"></li>
+			
+				</ul>
+			
+			<p className="margin-top-20 text-indent-whole"></p>
+
+
+			<p className="margin-top-20 text-indent-whole">that</p>
+			
+				<ul className="list-square">
+			
+					<li></li>
+					<li className="list-none"></li>
+			
+				</ul>
+			
+			<p className="margin-top-20 text-indent-whole"></p>
+
+
+			<p className="margin-top-20 text-indent-whole">whose</p>
+			
+				<ul className="list-square">
+			
+					<li></li>
+					<li className="list-none"></li>
+			
+				</ul>
+			
+			<p className="margin-top-20 text-indent-whole"></p>
+
+
 			
 			
 
@@ -96,6 +348,148 @@ export default function SuperWords2(): React.JSX.Element {
 
 			<p></p>
 
+			<h4 className="margin-y-40">🇻🇳 Tiếng Việt</h4>
+					
+			<p className="text-indent-whole"></p>
+			
+				<ul className="list-square">
+			
+					<li></li>
+					<li className="margin-bottom-20 list-none"></li>
+			
+					<li></li>
+					<li className="list-none"></li>
+			
+				</ul>
+			
+			<p className="margin-top-20 text-indent-whole"></p>
+
+
+			<h4 className="margin-y-40">🇬🇧 Tiếng Anh</h4>
+					
+			<p className="text-indent-whole"></p>
+			
+				<ul className="list-square">
+			
+					<li></li>
+					<li className="margin-bottom-20 list-none"></li>
+			
+					<li></li>
+					<li className="list-none"></li>
+			
+				</ul>
+			
+			<p className="margin-top-20 text-indent-whole"></p>
+
+
+			<h4 className="margin-y-40">Bảng các loại Siêu Trạng Từ trong tiếng Anh</h4>
+					
+			<p className="text-indent-whole"></p>
+
+			<p className="margin-top-20">Thời gian</p>
+			
+				<ul className="list-square">
+			
+					<li className="margin-bottom-20 list-none"></li>
+			
+					<li></li>
+					<li className="list-none"></li>
+			
+				</ul>
+			
+			<p className="margin-top-20"></p>
+
+			<p className="margin-top-20">Nơi chốn</p>
+			
+				<ul className="list-square">
+			
+					<li className="margin-bottom-20 list-none"></li>
+			
+					<li></li>
+					<li className="list-none"></li>
+			
+				</ul>
+			
+			<p className="margin-top-20"></p>
+
+			<p className="margin-top-20">Nguyên nhân</p>
+			
+				<ul className="list-square">
+			
+					<li className="margin-bottom-20 list-none"></li>
+			
+					<li></li>
+					<li className="list-none"></li>
+			
+				</ul>
+			
+			<p className="margin-top-20"></p>
+
+			<p className="margin-top-20">Mục đích</p>
+			
+				<ul className="list-square">
+			
+					<li className="margin-bottom-20 list-none"></li>
+			
+					<li></li>
+					<li className="list-none"></li>
+			
+				</ul>
+			
+			<p className="margin-top-20"></p>
+
+			<p className="margin-top-20">Cách thức</p>
+			
+				<ul className="list-square">
+			
+					<li className="margin-bottom-20 list-none"></li>
+			
+					<li></li>
+					<li className="list-none"></li>
+			
+				</ul>
+			
+			<p className="margin-top-20"></p>
+
+			<p className="margin-top-20">Điều kiện</p>
+			
+				<ul className="list-square">
+			
+					<li className="margin-bottom-20 list-none"></li>
+			
+					<li></li>
+					<li className="list-none"></li>
+			
+				</ul>
+			
+			<p className="margin-top-20"></p>
+
+			<p className="margin-top-20">Nhượng bộ</p>
+			
+				<ul className="list-square">
+			
+					<li className="margin-bottom-20 list-none"></li>
+			
+					<li></li>
+					<li className="list-none"></li>
+			
+				</ul>
+			
+			<p className="margin-top-20"></p>
+
+			<p className="margin-top-20">So sánh</p>
+			
+				<ul className="list-square">
+			
+					<li className="margin-bottom-20 list-none"></li>
+			
+					<li></li>
+					<li className="list-none"></li>
+			
+				</ul>
+			
+			<p className="margin-top-20"></p>
+
 			
 
 			{/* 5.  */}
@@ -104,12 +498,80 @@ export default function SuperWords2(): React.JSX.Element {
 
 			<p></p>
 
+			<p className="margin-top-20">Siêu Danh Từ: Super‑noun</p>
+			
+				<ul className="list-square">
+			
+					<li className="margin-bottom-20 list-none"></li>
+			
+					<li></li>
+					<li className="list-none"></li>
+			
+				</ul>
+			
+			<p className="margin-top-20"></p>
+
+			<p className="margin-top-20">Siêu Tính Từ: Super‑adjective</p>
+			
+				<ul className="list-square">
+			
+					<li className="margin-bottom-20 list-none"></li>
+			
+					<li></li>
+					<li className="list-none"></li>
+			
+				</ul>
+			
+			<p className="margin-top-20"></p>
+
+
+			<p className="margin-top-20">Siêu Trạng Từ: Super‑adverb</p>
+			
+				<ul className="list-square">
+			
+					<li className="margin-bottom-20 list-none"></li>
+			
+					<li></li>
+					<li className="list-none"></li>
+			
+				</ul>
+			
+			<p className="margin-top-20"></p>
+
 
 			{/* 6.  */}
 
 			<h3 className="margin-y-50 text-center">6. Bài tập siêu nhanh (kèm đáp án)</h3>
 
 			<p></p>
+
+			<p className="margin-top-20"></p>
+			
+				<ol>
+			
+					<li value="1"></li>
+					<li className="list-none"></li>
+					<li className="margin-bottom-20 list-none"></li>
+			
+					<li value="2"></li>
+					<li className="list-none"></li>
+					<li className="margin-bottom-20 list-none"></li>
+
+					<li value="3"></li>
+					<li className="list-none"></li>
+					<li className="margin-bottom-20 list-none"></li>
+
+					<li value="4"></li>
+					<li className="list-none"></li>
+					<li className="margin-bottom-20 list-none"></li>
+			
+					<li value="5"></li>
+					<li className="list-none"></li>
+					<li className="list-none"></li>
+			
+				</ol>
+			
+			<p className="margin-top-20"></p>
 
 
 			{/* 7.  */}
@@ -118,12 +580,49 @@ export default function SuperWords2(): React.JSX.Element {
 
 			<p></p>
 
+			<p className="margin-top-20"></p>
+			
+				<ul className="list-square">
+			
+					<li></li>
+					<li className="margin-bottom-20 list-none"></li>
+			
+					<li></li>
+					<li className="margin-bottom-20 list-none"></li>
+
+					<li></li>
+					<li className="margin-bottom-20 list-none"></li>
+			
+					<li></li>
+					<li className="list-none"></li>
+			
+				</ul>
+			
+			<p className="margin-top-20"></p>
+
 
 			{/* 8.  */}
 
 			<h3 className="margin-y-50 text-center">8. Một lưu ý nhỏ (để không bị… “siêu” sai chỗ)</h3>
 
 			<p></p>
+			
+			<p className="margin-top-20"></p>
+			
+				<ul className="list-square">
+			
+					<li></li>
+					<li className="margin-bottom-20 list-none"></li>
+			
+					<li></li>
+					<li className="margin-bottom-20 list-none"></li>
+			
+					<li></li>
+					<li className="list-none"></li>
+			
+				</ul>
+			
+			<p className="margin-top-20"></p>
 
 
 			{/* 9.  */}
@@ -141,6 +640,52 @@ export default function SuperWords2(): React.JSX.Element {
 			<p></p>
 
 			<p></p>
+
+			<h4 className="margin-y-40">📌 Nhớ nhanh:</h4>
+					
+			<p className="text-indent-whole">Siêu Danh Từ / Super‑noun</p>
+
+			
+				<ul className="list-square">
+			
+					<li className="margin-bottom-20 list-none"></li>
+		
+					<li></li>
+					<li className="list-none"></li>
+			
+				</ul>
+			
+			<p className="margin-top-20 text-indent-whole">Siêu Tính Từ / Super‑adjective</p>
+
+			<p className="text-indent-whole"></p>
+			
+				<ul className="list-square">
+			
+					<li className="margin-bottom-20 list-none"></li>
+		
+					<li></li>
+					<li className="list-none"></li>
+			
+				</ul>
+			
+			<p className="margin-top-20 text-indent-whole">Siêu Trạng Từ / Super‑adverb</p>
+
+			<p className="text-indent-whole"></p>
+			
+				<ul className="list-square">
+			
+					<li className="margin-bottom-20 list-none"></li>
+		
+					<li></li>
+					<li className="list-none"></li>
+			
+				</ul>
+			
+			<p className="margin-top-20 text-indent-whole"></p>
+
+			<p></p>
+
+			<hr className="hr-short"/>
 
 			<p></p>
 			
