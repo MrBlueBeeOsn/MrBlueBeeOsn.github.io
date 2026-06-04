@@ -146,86 +146,106 @@ export default function ThreeDC2(): React.ReactElement {
 
 			<h4 className="margin-y-40">1. Mệnh đề danh từ (Noun clause)</h4>
 
-			<p className="margin-top-20"></p>
-			
-				<ul className="list-square">
-			
-					<li></li>
-					<li className="margin-bottom-20 list-none"></li>
-			
-					<li></li>
-					<li className="list-none"></li>
-			
-				</ul>
-			
-			<p className="margin-top-20"></p>
-					
-			<p className="text-indent-whole"></p>
+			<p className="text-indent-whole">Dấu hiệu nhận biết:</p>
 
-			<p className="text-indent-whole"></p>
+			<p className="text-indent-whole">Bắt đầu bằng that, what, whatever, who, whoever, why, how, whether, …</p>
+
+			<p className="text-indent-whole">Có thể thay thế bằng đại từ It hoặc Something.</p>
+
+			<p className="text-indent-whole">Ví dụ:</p>
 			
 				<ul className="list-square">
 			
-					<li></li>
-					<li className="list-none"></li>
-					<li className="margin-bottom-20 list-none"></li>
+					<li>Why he resigned is a mystery.</li>
+					<li className="list-none">Lý do tại sao anh ấy từ chức vẫn là một bí ẩn.</li>
+					<li className="list-none">"Why he resigned" - Chủ ngữ</li>
+					<li className="margin-bottom-20 list-none">Trong câu này, "Why he resigned" đóng vai trò là một mệnh đề danh ngữ làm chủ ngữ của câu</li>
+
+					<li className="margin-bottom-20 list-none">→ Có thể nói</li>
+
+					<li>It is a mystery why he resigned.</li>
+					<li className="list-none">Đó là một bí ẩn tại sao anh ấy từ chức.</li>
+					<li className=" list-none">Trong cấu trúc này, "It" được gọi là "chủ ngữ giả". </li>
+					<li className="margin-bottom-20 list-none">Người ta dùng nó để đẩy phần thông tin quan trọng hơn ra phía sau (là lý do vì sao anh ấy từ chức), giúp câu văn nghe nhẹ nhàng và tự nhiên hơn trong tiếng Anh.</li>
+					
 			
-					<li></li>
-					<li className="list-none"></li>
-					<li className="margin-bottom-20 list-none"></li>
+					<li>I believe that honesty matters.</li>
+					<li className="list-none">Tôi tin rằng sự trung thực là quan trọng (có giá trị).</li>
+					<li className="list-none">"that honesty matters" - Tân ngữ</li>
+					<li className="margin-bottom-20 list-none">Cấu trúc này rất hay dùng để bày tỏ quan điểm cá nhân một cách chắc chắn</li>
+					
 			
-					<li></li>
-					<li className="list-none"></li>
-					<li className="list-none"></li>
+					<li>The truth is that I was scared.</li>
+					<li className="list-none">Sự thật là tôi đã rất sợ hãi.</li>
+					<li className="list-none">"that I was scared" - Bổ ngữ</li>
+					<li className="list-none">Đây là cách dùng mệnh đề danh ngữ sau động từ "to be" để làm rõ ý cho chủ ngữ "The truth"</li>
 			
 				</ul>
 			
-			<p className="margin-top-20 text-indent-whole"></p>
+			<p className="margin-top-20 text-indent-whole">🧠 Mẹo nhớ: Nếu bỏ mệnh đề này ra mà câu chính bị “cụt” chủ ngữ hoặc tân ngữ → Noun clause.</p>
+
+			<p className="text-indent-whole">Các cấu trúc mệnh đề danh ngữ này rất hữu ích để viết các bài chia sẻ quan điểm hoặc kinh nghiệm cá nhân một cách mạch lạc và có chiều sâu.</p>
 
 
 			<h4 className="margin-y-40">2. Mệnh đề tính từ (Adjective clause) – Mệnh đề quan hệ</h4>
 					
-			<p className="text-indent-whole"></p>
+			<p className="text-indent-whole">Dấu hiệu nhận biết:</p>
 
-			<p className="text-indent-whole"></p>
+			<p className="text-indent-whole">Bắt đầu bằng who, whom, which, that, whose, where, when, why.</p>
+
+			<p className="text-indent-whole">Luôn đứng ngay sau một danh từ và bổ nghĩa cho danh từ đó.</p>
+
+			<p className="text-indent-whole">Ví dụ:</p>
 			
 				<ul className="list-square">
 			
-					<li></li>
-					<li className="list-none"></li>
-					<li className="margin-bottom-20 list-none"></li>
+					<li>The student who won the prize is my friend.</li>
+					<li className="list-none">Người học sinh đã thắng giải thưởng là bạn của tôi.</li>
+					<li className="list-none">"Who won the prize" là mệnh đề quan hệ xác định, dùng để làm rõ "người học sinh nào" (người đã thắng giải).</li>
+					<li className="margin-bottom-20 list-none">Bổ nghĩa cho “the student”</li>
 			
-					<li></li>
-					<li className="list-none"></li>
-					<li className="list-none"></li>
+					<li>That’s the restaurant where we first met.</li>
+					<li className="list-none">Đó là nhà hàng nơi chúng ta gặp nhau lần đầu.</li>
+					<li className="list-none">"Where we first met" là mệnh đề quan hệ trạng ngữ chỉ nơi chốn, giúp xác định rõ "nhà hàng nào" (nơi mà chúng ta đã gặp nhau lần đầu).</li>
+					<li className="list-none">Bổ nghĩa cho “the restaurant”</li>
 			
 				</ul>
 			
-			<p className="margin-top-20 text-indent-whole"></p>
+			<p className="margin-top-20 text-indent-whole">🧠 Mẹo nhớ: Hỏi “Người/vật nào?” – câu trả lời chính là mệnh đề tính từ.</p>
+
+			<p className="margin-top-20 text-indent-whole">Những cấu trúc này rất hữu ích để viết các đoạn văn mô tả hoặc kể lại kỷ niệm trên mạng xã hội.</p>
 
 
 
 			<h4 className="margin-y-40">3. Mệnh đề trạng từ (Adverb clause)</h4>
+
+			<p className="text-indent-whole">Dấu hiệu nhận biết:</p>
+
+			<p className="text-indent-whole">Bắt đầu bằng liên từ phụ thuộc: because, although, if, when, while, as soon as, unless, so that, …</p>
 					
-			<p className="text-indent-whole"></p>
+			<p className="text-indent-whole">Ví dụ:</p>
 			
 				<ul className="list-square">
 			
-					<li></li>
-					<li className="list-none"></li>
-					<li className="margin-bottom-20 list-none"></li>
+					<li>If you study hard, you will pass.</li>
+					<li className="list-none">Nếu bạn học tập chăm chỉ, bạn sẽ đỗ (vượt qua kỳ thi).</li>
+					<li className="list-none">Điều kiện</li>
+					<li className="margin-bottom-20 list-none">Đây là câu điều kiện loại 1, dùng để diễn tả một khả năng có thể xảy ra trong tương lai.</li>
 			
-					<li></li>
-					<li className="list-none"></li>
-					<li className="margin-bottom-20 list-none"></li>
+					<li>She cried as if her heart were broken.</li>
+					<li className="margin-bottom-20 list-none">Cô ấy đã khóc như thể trái tim cô ấy tan vỡ vậy.</li>
+					<li className="list-none">Cách thức</li>
+					<li className="list-none">Lưu ý: "were" ở đây là cách dùng của giả định cách, diễn tả một sự việc không có thực ở hiện tại</li>
+					<li className="margin-bottom-20 list-none">Cấu trúc "as if" (như thể là) thường đi kèm với các động từ chia ở dạng giả định (giống câu điều kiện loại 2) để chỉ một trạng thái không thực.</li>
 			
-					<li></li>
-					<li className="list-none"></li>
-					<li className="list-none"></li>
+					<li>Although it rained, they went out.</li>
+					<li className="list-none">Mặc dù trời mưa, họ vẫn đi ra ngoài.</li>
+					<li className="list-none">Nhượng bộ</li>
+					<li className="list-none">"Although" giúp tạo sự tương phản giữa hai mệnh đề, rất hữu ích khi bạn viết các bài kể chuyện hoặc chia sẻ kinh nghiệm trên các kênh truyền thông xã hội của mình.</li>
 			
 				</ul>
 			
-			<p className="margin-top-20 text-indent-whole"></p>
+			<p className="margin-top-20 text-indent-whole">🧠 Mẹo nhớ: Trả lời câu hỏi: Tại sao? Khi nào? Nếu thì? Mặc dù? Bằng cách nào?</p>
 
 
 			{/* 3.  */}
@@ -284,7 +304,8 @@ export default function ThreeDC2(): React.ReactElement {
 					<li className="list-none">Nó đứng sau the reason</li>
 					<li className="list-none">→ Bổ nghĩa cho the reason</li>
 					<li className="list-none">→ Adjective clause (mệnh đề tính từ).</li>
-					<li className="margin-bottom-20 list-none">Mệnh đề "why she left" ở đây đóng vai trò làm rõ nghĩa cho danh từ "reason".</li>
+					<li className="list-none">Mệnh đề "why she left" ở đây đóng vai trò làm rõ nghĩa cho danh từ "reason".</li>
+					<li className="margin-bottom-20 list-none">Trong tiếng Anh, "the reason why..." là một cấu trúc rất phổ biến.</li>
 			
 					<li>Bỏ why she left</li>
 					<li className="margin-bottom-20 list-none">Câu vẫn đúng ngữ pháp</li>
@@ -296,8 +317,9 @@ export default function ThreeDC2(): React.ReactElement {
 					<li className="list-none">Tôi biết lý do đó.</li>
 			
 				</ul>
-			
 
+			<p className="margin-top-20 text-indent-whole">Bạn thấy đấy, khi thêm từ "the reason" vào, câu văn trở nên trang trọng và đầy đủ hơn, rất phù hợp cho các bài viết chuyên nghiệp trên các trang mạng xã hội. Dù chỉ là một thay đổi nhỏ so với câu:</p>
+			
 			<p className="text-indent-whole">I know why she left.</p>
 
 			<p className="text-indent-whole">Tôi biết tại sao cô ấy rời đi.</p>
