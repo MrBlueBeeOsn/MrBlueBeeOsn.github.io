@@ -60,39 +60,56 @@ export default function SuperWords1(): React.JSX.Element {
 
 			<p className="margin-y-30"><strong>Phóng to từ đơn thành các</strong> "<strong>Siêu Từ</strong>" (<strong>Super</strong>-<strong>Words</strong>).</p>
 			
-			<p>Nếu bạn đang tìm kiếm một tư duy đột phá để đơn giản hóa cách đọc, cách viết và giải phóng bộ não khỏi mớ lý thuyết khô khan, hãy cùng bóc tách hệ thống "Từ Dài" ngay sau đây.</p>
+			<p>Nếu bạn đang tìm kiếm một tư duy đột phá để đơn giản hóa cách đọc, cách viết và giải phóng bộ não khỏi mớ lý thuyết khô khan, hãy cùng bóc tách hệ thống cấu trúc ngôn ngữ ngay sau đây thông qua lăng kính tư duy tối giản nhất.</p>
 
 
 			{/* 1.  */}
 
-			<h3 className="margin-y-50 text-center">Triết Lý "Tiến Hóa" Của Ngôn Ngữ: Bản Chất Của Câu Dài</h3>
+			<h3 className="margin-y-50 text-center">Định Nghĩa Lại Bản Đồ Ngữ Pháp: Từ Câu Con Đến Siêu Từ</h3>
 
-			<p>Hãy quay về với cốt lõi: Trong tiếng Anh, mọi thành phần thông tin bổ trợ bổ sung cho một khung câu cơ bản suy cho cùng chỉ xoay quanh ba tế bào gốc: <strong>Danh từ</strong> (<strong>Noun</strong>), <strong>Tính từ</strong> (<strong>Adjective</strong>) và <strong>Trạng từ</strong> (<strong>Adverb</strong>).</p>
+			<p>Để dễ dàng làm chủ tiếng Anh, trước hết chúng ta cần dọn dẹp sạch sẽ những thuật ngữ rắc rối và thay thế chúng bằng một hệ thống tên gọi trực quan, thuần Việt và cực kỳ dễ hiểu:</p>
 
-			<p>Khi một từ đơn lẻ (như book, nice, today) không còn đủ sức chứa đựng lượng thông tin đồ sộ, chi tiết mà người nói muốn truyền tải, nó sẽ tự động "tiến hóa" thành một cấu trúc dài hơn. Cấu trúc này dù chứa cả một câu chuyện (có Chủ ngữ và Động từ bên trong), nhưng <strong>vị trí và chức năng ngữ pháp của nó thì giữ nguyên 100</strong>% <strong>không thay đổi</strong>.</p>
-
-			<p>Để dễ hình dung, hãy xem bảng quy đổi tư duy siêu tối giản dưới đây:</p>
+			<p className="margin-top-20"></p>
 			
 				<ul className="list-square">
 			
-					<li><strong>Super</strong>-<strong>Noun</strong> (Siêu danh từ) = Mệnh đề danh từ = Danh từ dài</li>
+					<li><strong>Câu lớn</strong> (hoặc <strong>Câu trọn vẹn</strong> - <strong>Sentence</strong>):</li>
+					<li className="margin-bottom-20 list-none">Là một cấu trúc đứng độc lập, kết thúc bằng dấu chấm và biểu thị một ý nghĩa hoàn chỉnh.</li>
+
+					<li><strong>Câu con</strong> (<strong>Clause</strong>):</li>
+					<li className="margin-bottom-20 list-none">Một tổ hợp có cả Chủ ngữ và Động từ. Khi đứng một mình, nó là câu con. Nhưng khi nó chui vào bên trong một câu lớn để làm một chức năng cụ thể, nó sẽ biến thành các Danh câu, Tính câu, hoặc Trạng câu.</li>
 			
-					<li><strong>Super</strong>-<strong>Adjective</strong> (Siêu tính từ) = Mệnh đề tính từ = Tính từ dài</li>
-			
-					<li><strong>Super</strong>-<strong>Adverb</strong> (Siêu trạng từ) = Mệnh đề trạng từ = Trạng từ dài</li>
+					<li><strong>Phụ cụm</strong> (<strong>Dependent Phrase</strong> - <strong>DP</strong>):</li>
+					<li className="margin-bottom-20 list-none">Là một cụm từ dài vừa phải nhưng chưa có cấu trúc Chủ - Vị hoàn chỉnh, đi theo để bổ nghĩa.</li>
+					
+					<li><strong>Phụ câu</strong> (<strong>Dependent Clause</strong> - <strong>DC</strong>):</li>
+					<li className="list-none">Là một câu con đi theo phục vụ cho câu lớn, không thể đứng độc lập một mình.</li>
 			
 				</ul>
 			
-			<p className="margin-top-20">Khi bạn nhìn xuyên qua lớp vỏ chữ nghĩa để thấy được cái lõi chức năng này, mọi câu tiếng Anh phức tạp đều biến thành một trò chơi xếp hình dành cho trẻ con.</p>
+			<p className="margin-top-20"></p>
+
+			<p>Từ đây, triết lý "tiến hóa" của ngôn ngữ được vận hành theo một công thức quy đổi siêu đơn giản:</p>
+			
+				<ul className="list-square">
+			
+					<li><strong>Super</strong>-<strong>Noun</strong> (Siêu danh từ) = <strong>Danh câu</strong> (Câu con làm chức năng danh từ)</li>
+			
+					<li><strong>Super</strong>-<strong>Adjective</strong> (Siêu tính từ) = <strong>Tính câu</strong> (Câu con làm chức năng tính từ)</li>
+			
+					<li><strong>Super</strong>-<strong>Adverb</strong> (Siêu trạng từ) = <strong>Trạng câu</strong> (Câu con làm chức năng trạng từ)</li>
+			
+				</ul>
 			
 
 			{/* 2.  */}
 
-			<h3 className="margin-y-50 text-center">1. Super-Noun (Siêu Danh Từ)</h3>
+			<h3 className="margin-y-50 text-center">1. Super-Noun: Danh cụm tiến hóa thành "Danh câu"</h3>
 
-			<p>Một danh từ đơn đóng vai trò làm gì trong câu (làm Chủ ngữ đứng đầu câu, hoặc làm Tân ngữ đứng sau động từ), thì <strong>Super</strong>-<strong>Noun</strong> làm đúng nhiệm vụ đó. Sự khác biệt duy nhất là nó có kích thước lớn hơn và chứa nhiều thông tin hơn.</p>
+			<p>Một danh từ đơn đóng vai trò làm gì trong câu (làm Chủ ngữ đứng đầu câu, hoặc làm Tân ngữ đứng sau động từ), thì <strong>Super</strong>-<strong>Noun</strong> làm đúng nhiệm vụ đó. Khi nó ở dạng cụm từ, ta gọi là <strong>Danh cụm</strong>. Khi nó phình to ra thành một câu con, ta gọi là <strong>Danh câu</strong>. Sự khác biệt duy nhất là kích thước lớn hơn và chứa nhiều thông tin hơn.</p>
 
-			<p>Hãy nhìn vào cách một danh từ đơn tiến hóa:</p>
+			<p>Hãy nhìn vào hành trình thăng tiến này:</p>
+
 
 			<h4 className="margin-y-40">Danh từ ngắn:</h4>
 			
@@ -101,32 +118,43 @@ export default function SuperWords1(): React.JSX.Element {
 					<li>I know <strong>the secret</strong>.</li>
 					<li className="margin-bottom-20 list-none">Tôi biết <strong>bí mật đó</strong>.</li>
 
-					<li className="list-none">The secret là một danh từ đơn đóng vai trò làm tân ngữ cho động từ "know".</li>
+					<li className="list-none">[The secret] là một danh từ đơn đóng vai trò làm tân ngữ cho động từ "know".</li>
 			
 				</ul>
 
 
-			<h4 className="margin-y-40">Super-Noun:</h4>
+			<h4 className="margin-y-40">Danh cụm:</h4>
+			
+				<ul className="list-square">
+			
+					<li>I know <strong>a very dark secret</strong>.</li>
+					<li className="margin-bottom-20 list-none">Tôi biết <strong>một bí mật rất đen tối</strong>.</li>
+
+					<li className="list-none">[A very dark secret] đã phát triển thành một <strong>Danh cụm</strong> dài vừa phải.</li>
+			
+				</ul>
+
+
+			<h4 className="margin-y-40">Danh câu (Super-Noun):</h4>
 			
 				<ul className="list-square">
 			
 					<li>I know <strong>what you did last summer</strong>.</li>
 					<li className="margin-bottom-20 list-none">Tôi biết <strong>những gì bạn đã làm mùa hè năm ngoái</strong>.</li>
 
-					<li className="list-none">Cụm what you did last summer rõ ràng là một câu nhỏ có chủ ngữ (you) và hành động (did), nhưng nó hoạt động như một khối thống nhất, một "Danh từ dài" thay thế hoàn toàn cho vị trí của the secret.</li>
+					<li className="list-none">Cụm [what you did last summer] rõ ràng là một câu con có đầy đủ chủ ngữ (you) và hành động (did), nhưng nó hoạt động như một khối thống nhất, một Danh câu thay thế hoàn toàn cho vị trí của danh từ đơn ban đầu.</li>
 			
 				</ul>
-			
-			<p className="margin-top-20 text-indent-whole"><strong>Tư duy bản xứ</strong>: Thay vì nghĩ "Mình phải dùng mệnh đề danh từ làm tân ngữ", hãy nghĩ đơn giản: "Mình cần một Danh từ dài để nhét cả một sự việc vào đây".</p>
 
 
 			{/* 3.  */}
 
-			<h3 className="margin-y-50 text-center">2. Super-Adjective (Siêu Tính Từ)</h3>
+			<h3 className="margin-y-50 text-center">2. Super-Adjective: Tính cụm tiến hóa thành "Tính câu"</h3>
 
-			<p>Nhiệm vụ của một tính từ đơn là đứng cạnh để tô vẽ, mô tả đặc điểm cho danh từ. Tuy nhiên, các tính từ ngắn như beautiful, smart, expensive đôi khi quá chung chung. Khi muốn mô tả một đặc điểm mang tính chất kể chuyện, người bản xứ sẽ dùng đến <strong>Super</strong>-<strong>Adjective</strong>.</p>
+			<p>Nhiệm vụ của một tính từ đơn là đứng cạnh để tô vẽ, mô tả đặc điểm cho danh từ. Khi nó được kéo dài ra nhưng chưa có Chủ - Vị, nó là <strong>Tính cụm</strong>. Nhưng khi muốn mô tả một đặc điểm mang tính chất kể chuyện, người bản xứ sẽ nâng cấp nó thành một <strong>Tính câu</strong> (Super-Adjective).</p>
 
-			<p>Có một điểm cực kỳ thú vị trong tư duy tuyến tính của người bản xứ: Họ sẽ đưa Danh từ ra trước, sau đó nếu muốn giải thích thêm, họ sẽ "thả" ngay một Super-Adjective ra phía sau để bổ sung thông tin theo đúng dòng chảy suy nghĩ.</p>
+			<p>Có một điểm cực kỳ thú vị trong tư duy tuyến tính của người bản xứ: Họ sẽ đưa Danh từ ra trước, sau đó nếu muốn giải thích thêm, họ sẽ "thả" ngay một <strong>Phụ câu</strong> làm nhiệm vụ của tính từ (tức là <strong>Tính câu</strong>) ra phía sau để bổ sung thông tin theo đúng dòng chảy suy nghĩ.</p>
+
 
 			<h4 className="margin-y-40">Tính từ ngắn:</h4>
 			
@@ -140,14 +168,24 @@ export default function SuperWords1(): React.JSX.Element {
 				</ul>
 
 
-			<h4 className="margin-y-40">Super-Adjective:</h4>
+			<h4 className="margin-y-40">Tính cụm:</h4>
+					
+				<ul className="list-square">
+			
+					<li>The <strong>very smart and hardworking</strong> student passed the exam.</li>
+					<li className="list-none">Người học trò <strong>rất thông minh và chăm chỉ</strong> đã đậu kỳ thi.</li>
+			
+				</ul>
+
+
+			<h4 className="margin-y-40">Tính câu (Super-Adjective):</h4>
 					
 				<ul className="list-square">
 			
 					<li>The student <strong>who studied hard every night</strong> passed the exam.</li>
 					<li className="margin-bottom-20 list-none">Người học trò – <strong>người mà đã học hành chăm chỉ mỗi đêm</strong> – đã đậu kỳ thi.</li>
 
-					<li className="list-none">Toàn bộ cụm who studied hard every night bản chất chỉ là một "tính từ dài" khổng lồ bám chặt lấy danh từ the student để làm rõ nghĩa cho nó.</li>
+					<li className="list-none">Toàn bộ câu con [who studied hard every night] bản chất chỉ là một <strong>Tính câu</strong> khổng lồ bám chặt lấy danh từ the student để làm rõ nghĩa cho nó.</li>
 			
 				</ul>
 			
@@ -155,13 +193,11 @@ export default function SuperWords1(): React.JSX.Element {
 
 			{/* 4.  */}
 
-			<h3 className="margin-y-50 text-center">3. Super-Adverb (Siêu Trạng Từ)</h3>
-
-			<p></p>
+			<h3 className="margin-y-50 text-center">3. Super-Adverb: Trạng cụm tiến hóa thành "Trạng câu"</h3>
 
 			<h4 className="margin-y-40">Trạng từ ngắn:</h4>
 					
-			<p className="text-indent-whole">Trạng từ là thành phần tạo nền bối cảnh (thời gian, không gian, nguyên nhân, điều kiện) cho toàn bộ câu. Khi cái nền bối cảnh đó không thể gói gọn trong một từ, nó biến thành <strong>Super</strong>-<strong>Adverb</strong>.</p>
+			<p className="text-indent-whole">Trạng từ là thành phần tạo nền bối cảnh (thời gian, không gian, nguyên nhân, điều kiện) cho toàn bộ câu lớn. Ở dạng cụm, nó là <strong>Trạng cụm</strong>. Khi cái nền bối cảnh đó phức tạp đến mức phải viết thành một câu con, nó biến thành một <strong>Trạng câu</strong> (Super-Adverb).</p>
 			
 				<ul className="list-square">
 			
@@ -171,118 +207,145 @@ export default function SuperWords1(): React.JSX.Element {
 					<li className="list-none">Yesterday là trạng từ đơn chỉ mốc thời gian.</li>
 			
 				</ul>
+
+
+			<h4 className="margin-y-40">Trạng cụm:</h4>
+			
+				<ul className="list-square">
+			
+					<li><strong>Late yesterday afternoon</strong>, we stayed home.</li>
+					<li className="list-none"><strong>Chiều muộn ngày hôm qua</strong>, chúng tôi ở nhà.</li>
+			
+				</ul>
 			
 
-			<h4 className="margin-y-40">Super-Adverb:</h4>
+			<h4 className="margin-y-40">Trạng câu (Super-Adverb):</h4>
 			
 				<ul className="list-square">
 			
 					<li><strong>Because it rained heavily all day</strong>, we stayed home.</li>
 					<li className="margin-bottom-20 list-none"><strong>Vì trời mưa nặng hạt cả ngày</strong>, chúng tôi ở nhà.</li>
 					
-					<li className="list-none">Cụm Because it rained heavily all day mang vác một lượng thông tin rất nặng, nhưng về mặt ngữ pháp, vai trò của nó không khác gì từ yesterday — đều là cái nền bối cảnh cho sự việc "we stayed home".</li>
+					<li className="list-none"><strong>Phụ câu</strong> [Because it rained heavily all day] đóng vai trò là một <strong>Trạng câu</strong>. Nó mang vác một lượng thông tin rất nặng, nhưng về mặt ngữ pháp, vai trò của nó không khác gì một từ chỉ thời gian — đều là cái nền bối cảnh cho sự việc ở câu lớn "we stayed home".</li>
 			
 				</ul>
 			
 
 			{/* 5.  */}
 
-			<h3 className="margin-y-50 text-center">Bản Đồ Thăng Tiến Của Từ Vựng</h3>
+			<hr className="hr-short"/>
 
-			<p>Để giúp bạn có một cái nhìn tổng quan và hệ thống hóa tư duy này khi đọc viết, hãy quan sát bảng phân cấp sự tiến hóa dưới đây:</p>
+			<h3 className="margin-y-50 text-center">Bản Đồ Tiến Hóa Của Cấu Trúc Câu</h3>
 
-			<h4 className="margin-y-40">Noun</h4>
+			<p>Để giúp bạn có một cái nhìn tổng quan và hệ thống hóa tư duy này khi đọc viết, hãy quan sát bảng phân cấp sự tiến hóa từ từ đơn lên <strong>Phụ cụm</strong> rồi thành <strong>Phụ câu</strong> dưới đây:</p>
+
+
+			<p className="margin-top-20"><strong>Loại Từ Gốc</strong>:</p>
+
+			<h4 className="margin-y-40">Noun (Danh từ)</h4>
 					
-			<p className="text-indent-whole"><strong>Cấp độ 1</strong>: Từ Đơn (Ngắn)</p>
+			<p className="margin-y-20 text-indent-whole"><strong>Cấp độ 1</strong>: <strong>Từ Đơn</strong> (Ngắn)</p>
 			
 				<ul className="list-square">
 			
 					<li><strong>Success</strong></li>
-					<li className="list-none">Sự thành công</li>
+					<li className="margin-bottom-20 list-none">Sự thành công</li>
+
+					<li className="list-none">→ Danh từ</li>
 			
 				</ul>
 			
-			<p className="margin-top-20 text-indent-whole"><strong>Cấp độ 2</strong>: Cụm Từ (Dài vừa)</p>
+			<p className="margin-y-20 text-indent-whole"><strong>Cấp độ 2</strong>: <strong>PHỤ CỤM</strong> (Dài vừa)</p>
 			
 				<ul className="list-square">
 			
 					<li><strong>A great success</strong></li>
-					<li className="list-none">Một thành công lớn</li>
+					<li className="margin-bottom-20 list-none">Một thành công lớn</li>
+
+					<li className="list-none">→ Danh cụm</li>
 			
 				</ul>
 			
-			<p className="margin-top-20 text-indent-whole"><strong>Cấp độ 3</strong>: SUPER-WORD (Mệnh đề / Dài nhất)</p>
+			<p className="margin-y-20 text-indent-whole"><strong>Cấp độ 3</strong>: <strong>SUPER</strong>-<strong>WORD</strong> (PHỤ CÂU / Dài nhất)</p>
 			
 				<ul className="list-square">
 			
 					<li><strong>How he achieved success</strong></li>
 					<li className="margin-bottom-20 list-none">Cách mà anh ấy đạt được thành công</li>
 
-					<li className="list-none">Super-Noun</li>
+					<li className="list-none">→ Danh câu (Super-Noun)</li>
 			
 				</ul>
 
 
-			<h4 className="margin-y-40">Adjective</h4>
+			<h4 className="margin-y-40">Adjective (Tính từ)</h4>
 					
-			<p className="text-indent-whole"><strong>Cấp độ 1</strong>: Từ Đơn (Ngắn)</p>
+			<p className="margin-y-20 text-indent-whole"><strong>Cấp độ 1</strong>: <strong>Từ Đơn</strong> (Ngắn)</p>
 			
 				<ul className="list-square">
 			
 					<li>An <strong>expensive</strong> car</li>
-					<li className="list-none">Một chiếc xe <strong>đắt tiền</strong></li>
+					<li className="margin-bottom-20 list-none">Một chiếc xe <strong>đắt tiền</strong></li>
+
+					<li className="list-none">→ Tính từ</li>
 			
 				</ul>
 			
-			<p className="margin-top-20 text-indent-whole"><strong>Cấp độ 2</strong>: Cụm Từ (Dài vừa)</p>
+			<p className="margin-y-20 text-indent-whole"><strong>Cấp độ 2</strong>: <strong>PHỤ CỤM</strong> (Dài vừa)</p>
 			
 				<ul className="list-square">
 			
 					<li>A <strong>very expensive</strong> car</li>
-					<li className="list-none">Một chiếc xe <strong>rất đắt tiền</strong></li>
+					<li className="margin-bottom-20 list-none">Một chiếc xe <strong>rất đắt tiền</strong></li>
+
+					<li className="list-none">→ Tính cụm</li>
 			
 				</ul>
 			
-			<p className="margin-top-20 text-indent-whole"><strong>Cấp độ 3</strong>: SUPER-WORD (Mệnh đề / Dài nhất)</p>
+			<p className="margin-y-20 text-indent-whole"><strong>Cấp độ 3</strong>: <strong>SUPER</strong>-<strong>WORD</strong> (PHỤ CÂU / Dài nhất)</p>
 			
 				<ul className="list-square">
 			
 					<li>The car <strong>that cost him a fortune</strong></li>
 					<li className="margin-bottom-20 list-none">Chiếc xe <strong>cái mà tốn của anh ta cả gia tài</strong></li>
 
-					<li className="list-none">Super-Adjective</li>
+					<li className="list-none">→ Tính câu (Super-Adjective)</li>
 			
 				</ul>
 
 
-			<h4 className="margin-y-40">Adverb</h4>
+			<h4 className="margin-y-40">Adverb (Trạng từ)</h4>
 					
-			<p className="text-indent-whole"><strong>Cấp độ 1</strong>: Từ Đơn (Ngắn)</p>
+			<p className="margin-y-20 text-indent-whole"><strong>Cấp độ 1</strong>: <strong>Từ Đơn</strong> (Ngắn)</p>
 			
 				<ul className="list-square">
 			
 					<li><strong>Honestly</strong>, he confessed.</li>
-					<li className="list-none"><strong>Thành thật mà nói</strong>, anh ta thú nhận.</li>
+					<li className="margin-bottom-20 list-none"><strong>Thành thật mà nói</strong>, anh ta thú nhận.</li>
+
+					<li className="list-none">→ Trạng từ</li>
 			
 				</ul>
 			
-			<p className="margin-top-20 text-indent-whole"><strong>Cấp độ 2</strong>: Cụm Từ (Dài vừa)</p>
+			<p className="margin-y-20 text-indent-whole"><strong>Cấp độ 2</strong>: <strong>PHỤ CỤM</strong> (Dài vừa)</p>
 			
 				<ul className="list-square">
 			
 					<li><strong>Quite honestly</strong>, he confessed.</li>
-					<li className="list-none"><strong>Khá thành thật</strong>, anh ta thú nhận.</li>
+					<li className="margin-bottom-20 list-none"><strong>Khá thành thật</strong>, anh ta thú nhận.</li>
+
+					<li className="list-none">→ Trạng cụm</li>
 			
 				</ul>
 			
-			<p className="margin-top-20 text-indent-whole"><strong>Cấp độ 3</strong>: SUPER-WORD (Mệnh đề / Dài nhất)</p>
+			<p className="margin-y-20 text-indent-whole"><strong>Cấp độ 3</strong>: <strong>SUPER</strong>-<strong>WORD</strong> (PHỤ CÂU / Dài nhất)</p>
 			
 				<ul className="list-square">
 			
 					<li><strong>Since he could not lie anymore</strong>, he confessed.</li>
 					<li className="margin-bottom-20 list-none"><strong>Vì không thể nói dối được nữa</strong>, anh ta thú nhận.</li>
 
-					<li className="list-none">Super-Adverb</li>
+					<li className="list-none">→ Trạng câu (Super-Adverb):</li>
 			
 				</ul>
 
@@ -293,13 +356,13 @@ export default function SuperWords1(): React.JSX.Element {
 
 			<p>Khi bạn gạt bỏ được áp lực từ những tên gọi mang tính học thuật, tiếng Anh sẽ quay trở về đúng bản chất nguyên bản của nó: Một trò chơi lắp ghép các khối hình.</p>
 
-			<p>Bạn không cần phải ghi nhớ hàng chục công thức chia mệnh đề phức tạp. Việc bạn cần làm duy nhất là nắm thật chắc vị trí, chức năng của ba từ đơn cơ bản:</p>
+			<p>Bạn không cần phải ghi nhớ hàng chục công thức phức tạp. Việc bạn cần làm duy nhất là nắm thật chắc vị trí, chức năng của ba từ đơn cơ bản:</p>
 
-			<p><strong>Noun</strong> - <strong>Adjective</strong> - <strong>Adverb</strong>.</p>
+			<p className="margin-y-30"><strong>Noun</strong> - <strong>Adjective</strong> - <strong>Adverb</strong>.</p>
 
-			<p>Khi muốn nói một ý dài hơn, sâu hơn, hãy tự tin dùng tư duy "Siêu Từ" để phóng to kích thước của khối hình đó lên.</p>
+			<p>Khi muốn nói một ý dài hơn, sâu hơn, hãy tự tin dùng tư duy mở rộng thành <strong>Danh cụm</strong> / <strong>Tính cụm</strong> / <strong>Trạng cụm</strong> hoặc phóng to hẳn lên thành các <strong>Danh câu</strong> / <strong>Tính câu</strong> / <strong>Trạng câu</strong>.</p>
 
-			<p>Lần tới, khi mở một bài đọc tiếng Anh hay đặt bút viết một tiểu luận, hãy thử gọi tên các thành phần dài dòng là <strong>Super</strong>-<strong>Noun</strong>, <strong>Super</strong>-<strong>Adjective</strong> hay <strong>Super</strong>-<strong>Adverb</strong>. Bạn sẽ thấy các tầng nghĩa của câu lập tức hiển thị rõ ràng, mạch lạc và việc làm chủ tiếng Anh chưa bao giờ tự nhiên đến thế!</p>
+			<p>Lần tới, khi mở một bài đọc tiếng Anh hay đặt bút viết một bài chia sẻ, hãy thử vận dụng bản đồ tư duy trực quan này. Bạn sẽ thấy các tầng nghĩa của câu lập tức hiển thị rõ ràng, mạch lạc và việc làm chủ tiếng Anh chưa bao giờ tự nhiên đến thế!</p>
 			
 
 			<div className="viewcounter">
