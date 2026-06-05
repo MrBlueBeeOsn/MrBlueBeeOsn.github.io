@@ -980,6 +980,78 @@
 			"content": "SV1: Tạm Biệt \"Mệnh Đề\": Cách Mạng Tư Duy Ngữ Phép Tiếng Anh Bằng Hệ Thống \"Cụm - Câu\" Trực Quan",
 			"slug": "tieng-anh/s-v-1",
 			"date": "2026-06-05"
+		},
+		{
+			"id": "SV2",
+			"categoryDisplay": "Tiếng Anh",
+			"categorySlug": "tieng-anh",
+			"title": "SV 2",
+			"content": "SV2:",
+			"slug": "tieng-anh/s-v-2",
+			"date": "2026-06-05"
+		},
+		{
+			"id": "SV3",
+			"categoryDisplay": "Tiếng Anh",
+			"categorySlug": "tieng-anh",
+			"title": "SV 3",
+			"content": "SV3:",
+			"slug": "tieng-anh/s-v-3",
+			"date": "2026-06-05"
+		},
+		{
+			"id": "SV4",
+			"categoryDisplay": "Tiếng Anh",
+			"categorySlug": "tieng-anh",
+			"title": "SV 4",
+			"content": "SV4:",
+			"slug": "tieng-anh/s-v-4",
+			"date": "2026-06-05"
+		},
+		{
+			"id": "SV5",
+			"categoryDisplay": "Tiếng Anh",
+			"categorySlug": "tieng-anh",
+			"title": "SV 5",
+			"content": "SV5:",
+			"slug": "tieng-anh/s-v-5",
+			"date": "2026-06-05"
+		},
+		{
+			"id": "SV6",
+			"categoryDisplay": "Tiếng Anh",
+			"categorySlug": "tieng-anh",
+			"title": "SV 6",
+			"content": "SV6:",
+			"slug": "tieng-anh/s-v-6",
+			"date": "2026-06-05"
+		},
+		{
+			"id": "SV7",
+			"categoryDisplay": "Tiếng Anh",
+			"categorySlug": "tieng-anh",
+			"title": "SV 7",
+			"content": "SV7:",
+			"slug": "tieng-anh/s-v-7",
+			"date": "2026-06-05"
+		},
+		{
+			"id": "SV8",
+			"categoryDisplay": "Tiếng Anh",
+			"categorySlug": "tieng-anh",
+			"title": "SV 8",
+			"content": "SV8:",
+			"slug": "tieng-anh/s-v-8",
+			"date": "2026-06-05"
+		},
+		{
+			"id": "SV9",
+			"categoryDisplay": "Tiếng Anh",
+			"categorySlug": "tieng-anh",
+			"title": "SV 9",
+			"content": "SV9:",
+			"slug": "tieng-anh/s-v-9",
+			"date": "2026-06-05"
 		}
 	]
 }

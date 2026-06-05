@@ -147,6 +147,14 @@ const Posts = lazy(() => import('@/data/Posts'));
 	const BiMatVeTuDuyNgonNgu3 = lazy(() => import('@/2_main/english/tienganh/folder/BiMatVeTuDuyNgonNgu3'));
 
 	const SV1 = lazy(() => import('@/2_main/english/tienganh/article/sv/SV1'));
+	const SV2 = lazy(() => import('@/2_main/english/tienganh/article/sv/SV2'));
+	const SV3 = lazy(() => import('@/2_main/english/tienganh/article/sv/SV3'));
+	const SV4 = lazy(() => import('@/2_main/english/tienganh/article/sv/SV4'));
+	const SV5 = lazy(() => import('@/2_main/english/tienganh/article/sv/SV5'));
+	const SV6 = lazy(() => import('@/2_main/english/tienganh/article/sv/SV6'));
+	const SV7 = lazy(() => import('@/2_main/english/tienganh/article/sv/SV7'));
+	const SV8 = lazy(() => import('@/2_main/english/tienganh/article/sv/SV8'));
+	const SV9 = lazy(() => import('@/2_main/english/tienganh/article/sv/SV9'));
 	
 	const SuperWords1 = lazy(() => import('@/2_main/english/tienganh/article/superwords/SuperWords1'));
 	const SuperWords2 = lazy(() => import('@/2_main/english/tienganh/article/superwords/SuperWords2'));
@@ -717,6 +725,14 @@ export default function AppRoutes(): React.JSX.Element {
 					<Route path="/tieng-anh/bi-mat-ve-tu-duy-ngon-ngu-3" element={<BiMatVeTuDuyNgonNgu3 />} />
 
 					<Route path="/tieng-anh/s-v-1" element={<SV1 />} />
+					<Route path="/tieng-anh/s-v-2" element={<SV2 />} />
+					<Route path="/tieng-anh/s-v-3" element={<SV3 />} />
+					<Route path="/tieng-anh/s-v-4" element={<SV4 />} />
+					<Route path="/tieng-anh/s-v-5" element={<SV5 />} />
+					<Route path="/tieng-anh/s-v-6" element={<SV6 />} />
+					<Route path="/tieng-anh/s-v-7" element={<SV7 />} />
+					<Route path="/tieng-anh/s-v-8" element={<SV8 />} />
+					<Route path="/tieng-anh/s-v-9" element={<SV9 />} />
 					
 					<Route path="/tieng-anh/super-words-1" element={<SuperWords1 />} />
 					<Route path="/tieng-anh/super-words-2" element={<SuperWords2 />} />

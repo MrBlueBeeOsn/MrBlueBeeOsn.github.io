@@ -631,7 +631,7 @@ export default function TiengAnhIndex(): React.JSX.Element {
                 <Link to="/tieng-anh/s-v-1">SV
                 <sup>&nbsp;1&nbsp;</sup>
                 </Link>
-                {/* <Link to="/tieng-anh/s-v-2">
+                <Link to="/tieng-anh/s-v-2">
                   <sup>&nbsp;2&nbsp;</sup>
                 </Link>
                 <Link to="/tieng-anh/s-v-3">
@@ -654,7 +654,7 @@ export default function TiengAnhIndex(): React.JSX.Element {
                 </Link>
                 <Link to="/tieng-anh/s-v-9">
                   <sup>&nbsp;9&nbsp;</sup>
-                </Link> */}
+                </Link>
               
               </div>
               

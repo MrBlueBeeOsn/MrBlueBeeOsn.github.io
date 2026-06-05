@@ -5,9 +5,9 @@ import EyeIcon from '@/components/view/EyeIcon';
 import ViewCounter from '@/components/view/ViewCounter';
 import LikeButton from '@/components/like/LikeButton';
 
-export default function SV(): React.JSX.Element {
+export default function SV5(): React.JSX.Element {
 
-	const postId = "SV";
+	const postId = "SV5";
 
 	return (<>
 
