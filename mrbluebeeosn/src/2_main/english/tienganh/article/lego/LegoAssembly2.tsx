@@ -400,7 +400,6 @@ export default function LegoAssembly2(): React.JSX.Element {
 			
 				</ul>
 			
-			
 			<p className="margin-top-20 text-indent-whole">Không cần nhớ “mệnh đề quan hệ” hay “mệnh đề trạng ngữ”. Chỉ cần nhìn vào chức năng của nó trong câu lớn:</p>
 			
 				<ul className="list-square">
@@ -410,6 +409,8 @@ export default function LegoAssembly2(): React.JSX.Element {
 					<li>Như trạng từ → <strong>trạng câu</strong></li>
 			
 				</ul>
+
+			<p className="margin-top-20 text-indent-whole">Việc phân loại thành <strong>Danh câu</strong> - <strong>Tính câu</strong> - <strong>Trạng câu</strong> thực sự rất mạnh mẽ. Nó giúp loại bỏ sự rườm rà của ngữ pháp truyền thống và tập trung vào đúng bản chất: đó là những câu con đóng vai trò như một danh từ, một tính từ, hoặc một trạng từ trong câu lớn.</p>
 			
 
 
