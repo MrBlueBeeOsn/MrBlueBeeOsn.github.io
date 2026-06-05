@@ -48,7 +48,7 @@ export default function ThreeDC1(): React.ReactElement {
 
 			</h1>
 
-			<h4 className="margin-bottom-30 text-center">BÍ QUYẾT LÀM CHỦ "BỘ PHỤ CÂU" – BƯỚC NGOẶT THAY ĐỔI TƯ DUY TIẾNG ANH LÊN TẦM ADVANCED</h4>
+			<h4 className="margin-bottom-30 text-center">BÍ QUYẾT LÀM CHỦ "BỘ 3 PHỤ CÂU" – BƯỚC NGOẶT THAY ĐỔI TƯ DUY TIẾNG ANH LÊN TẦM ADVANCED</h4>
 
 			<p>Khi mới học tiếng Anh, chúng ta thường có xu hướng tư duy theo từng từ đơn lẻ rồi lắp ghép chúng lại thành những câu đơn ngắn ngủi, rời rạc.</p>
 
@@ -399,21 +399,19 @@ export default function ThreeDC1(): React.ReactElement {
 			
 				</ul>
 			
-			<p className="margin-top-20 text-indent-whole">Gộp nâng cao (Dùng mệnh đề tính ngữ):</p>
+			<p className="margin-top-20 text-indent-whole">Gộp nâng cao (Dùng <strong>Tính câu</strong>):</p>
 
 				<ul className="list-square">
 			
-					<li>The report <strong>which John wrote and that contains important data</strong> is finally ready.</li>
-					<li className="list-none">Bản báo cáo <strong>cái mà John đã viết và cái mà chứa dữ liệu quan trọng</strong> cuối cùng cũng đã sẵn sàng.</li>
+					<li>The report <strong>which John wrote</strong> and <strong>that contains important data</strong> is finally ready.</li>
+					<li className="list-none">Bản báo cáo <strong>cái mà John đã viết</strong> và <strong>cái mà chứa dữ liệu quan trọng</strong> cuối cùng cũng đã sẵn sàng.</li>
 			
 				</ul>
 
 
 			<h4 className="margin-y-40">Bước 2: Kỹ thuật Rút gọn (Reduction) – Đỉnh cao của người bản ngữ</h4>
 
-			<p className="text-indent-whole">Người bản ngữ cực kỳ chuộng sự tinh gọn. Khi đã viết tốt mệnh đề đầy đủ, hãy học cách "gọt tỉa" chúng thành các cụm từ (Phrases). Đây chính là lúc bài viết của bạn toát ra "mùi" Advanced chân chính.</p>
-
-			<p className="margin-y-30 text-indent-whole"><strong>A. Rút gọn Mệnh đề Trạng ngữ</strong> (Dùng <strong>Phân từ</strong>):</p>
+			<p className="text-indent-whole">Người bản ngữ cực kỳ chuộng sự tinh gọn. Khi đã viết tốt <strong>Phụ câu</strong> đầy đủ, hãy học cách "gọt tỉa" chúng thành các <strong>Phụ cụm</strong>. Đây chính là lúc bài viết của bạn toát ra "mùi" Advanced chân chính.</p>
 			
 			<p className="margin-top-20 text-indent-whole">Đầy đủ:</p>
 			
@@ -433,7 +431,7 @@ export default function ThreeDC1(): React.ReactElement {
 			
 				</ul>
 			
-			<p className="margin-y-30  text-indent-whole"><strong>B. Rút gọn Mệnh đề Tính ngữ</strong> (Dùng <strong>Mệnh đề quan hệ rút gọn</strong>):</p>
+			<p className="margin-y-30  text-indent-whole">Rút gọn <strong>Tính câu</strong> thành <strong>Tính cụm</strong>:</p>
 
 			<p className="margin-top-20 text-indent-whole">Đầy đủ:</p>
 			
@@ -453,7 +451,7 @@ export default function ThreeDC1(): React.ReactElement {
 			
 				</ul>
 			
-			<p className="margin-y-30 text-indent-whole"><strong>C. Rút gọn Mệnh đề Danh ngữ</strong> (Dùng <strong>To</strong>-<strong>infinitive</strong>):</p>
+			<p className="margin-y-30 text-indent-whole">Rút gọn <strong>Danh câu</strong> thành <strong>Danh cụm</strong> (Dùng To-infinitive):</p>
 					
 			<p className="margin-top-20 text-indent-whole">Đầy đủ:</p>
 			
@@ -476,7 +474,7 @@ export default function ThreeDC1(): React.ReactElement {
 
 			<h4 className="margin-y-40">Bước 3: Đảo ngữ kết hợp (Inversion)</h4>
 					
-			<p className="text-indent-whole">Nâng tầm mệnh đề trạng ngữ lên mức học thuật cao nhất bằng cách đưa các liên từ mang nghĩa phủ định lên đầu và đảo ngữ mệnh đề chính:</p>
+			<p className="text-indent-whole">Nâng tầm <strong>Trạng câu</strong> lên mức học thuật cao nhất bằng cách đưa các <strong>trạng từ mang nghĩa phủ định lên đầu</strong> và <strong>đảo ngữ Câu lớn chính</strong>:</p>
 
 			<p className="margin-top-20 text-indent-whole">Bình thường:</p>
 			
@@ -496,14 +494,96 @@ export default function ThreeDC1(): React.ReactElement {
 			
 				</ul>
 
+			<p className="margin-top-20">1. Với "<strong>Never</strong>" (Không bao giờ)</p>
+			
+				<ul className="list-square">
+			
+					<li className="margin-bottom-20 list-none">Câu thường:</li>
+			
+					<li>I have <strong>never</strong> seen such a professional accounting system.</li>
+					<li className="margin-bottom-20 list-none">Tôi chưa từng thấy một hệ thống kế toán nào chuyên nghiệp đến thế.</li>
+					<li className="list-none"><strong>Phong cách</strong>: Đây là câu trần thuật thông thường, dùng để diễn đạt sự thật hoặc cảm xúc một cách tự nhiên.</li>
+					<li className="margin-bottom-50 list-none"><strong>Góc nhìn</strong> "bóc tách": Đưa ra thông tin về hành động (chia sẻ) trước, rồi mới đưa ra giới hạn (hoàn cảnh) ở cuối.</li>
+
+					<li className="margin-bottom-20 list-none">Câu học thuật: <strong>Nhấn mạnh sự hiếm hoi</strong>/<strong>chưa từng</strong></li>
+			
+					<li><strong>Never</strong> have I seen such a professional accounting system.</li>
+					<li className="margin-bottom-20 list-none">Chưa bao giờ tôi thấy một hệ thống kế toán nào chuyên nghiệp đến thế.</li>
+					<li className="list-none"><strong>Phong cách</strong>: Đây là câu đảo ngữ. Việc đưa "Never" lên đầu câu làm cho câu văn mang sắc thái nhấn mạnh cực độ, thể hiện sự ngạc nhiên hoặc khẳng định mạnh mẽ, rất phù hợp cho văn phong chuyên nghiệp hoặc bài viết chia sẻ quan điểm của bạn trên tài khoản Green.</li>
+					<li className="list-none"><strong>Góc nhìn</strong> "bóc tách": Đưa ra giới hạn (Under no circumstances) ngay từ đầu để "khóa" mọi khả năng ngay lập tức, sau đó mới nhắc đến hành động.</li>
+			
+				</ul>
+
+			<p className="margin-top-20">2. Với "<strong>Rarely</strong>" (Hiếm khi)</p>
+			
+				<ul className="list-square">
+			
+					<li className="margin-bottom-20 list-none">Câu thường:</li>
+			
+					<li>He <strong>rarely</strong> realizes how much his decisions affect the project.</li>
+					<li className="margin-bottom-20 list-none">Anh ấy hiếm khi nhận ra các quyết định của mình ảnh hưởng đến dự án nhiều đến thế nào.</li>
+					<li className="margin-bottom-50 list-none"><strong>Phong cách</strong>: Đây là cách diễn đạt tự nhiên, trực diện. Thông tin chính (anh ấy không nhận ra) được đưa ra trước.</li>
+
+					<li className="margin-bottom-20 list-none">Câu học thuật: <strong>Nhấn mạnh tính bất thường</strong></li>
+			
+					<li><strong>Rarely</strong> does he realize how much his decisions affect the project.</li>
+					<li className="margin-bottom-20 list-none">Hiếm khi anh ấy nhận ra được các quyết định của mình ảnh hưởng đến dự án nhiều đến thế nào.</li>
+					<li className="list-none"><strong>Phong cách</strong>: Đây là cấu trúc <strong>đảo ngữ</strong>. Việc đưa "Rarely" lên đầu câu như một lời cảnh báo hoặc nhấn mạnh về sự thiếu sót trong nhận thức. Trong các báo cáo công việc hoặc phân tích dự án, cách viết này nghe chuyên nghiệp và nghiêm túc hơn hẳn.</li>
+					<li className="list-none">Trợ động từ "does": Giống như ví dụ "Not only" trước đó, khi đảo trạng từ phủ định lên đầu, bạn bắt buộc phải mượn trợ động từ (does cho ngôi số ít).</li>
+					<li className="list-none">Động từ chính "realize": Phải trả về dạng nguyên thể (bỏ đuôi -s).</li>
+			
+				</ul>
+
+			<p className="margin-top-20">3. Với "<strong>Not only</strong>... <strong>but also</strong>..." (Không những... mà còn...)</p>
+			
+				<ul className="list-square">
+			
+					<li className="margin-bottom-20 list-none">Câu thường:</li>
+			
+					<li>She <strong>not only</strong> writes clean code <strong>but also</strong> designs beautiful interfaces.</li>
+					<li className="margin-bottom-20 list-none">Cô ấy không những viết mã sạch mà còn thiết kế các giao diện đẹp mắt.</li>
+					<li className="margin-bottom-50 list-none"><strong>Phong cách</strong>: Đây là cấu trúc song hành (parallel structure) tiêu chuẩn, dùng để liệt kê hai kỹ năng bổ trợ cho nhau của một cá nhân một cách mạch lạc.</li>
+
+					<li className="margin-bottom-20 list-none">Câu học thuật: <strong>Nhấn mạnh sự bổ sung</strong></li>
+			
+					<li><strong>Not only</strong> does she write clean code, <strong>but</strong> she <strong>also</strong> designs beautiful interfaces.</li>
+					<li className="margin-bottom-20 list-none">Không những cô ấy viết mã sạch, mà cô ấy còn thiết kế được các giao diện đẹp mắt.</li>
+					<li className="margin-bottom-20 list-none"><strong>Phong cách</strong>: Đây là câu <strong>đảo ngữ</strong>. Việc đưa "Not only" lên đầu câu nhấn mạnh rằng kỹ năng của cô ấy không dừng lại ở việc viết mã mà còn vượt xa hơn thế ở mảng thiết kế. Cách dùng này làm cho câu văn trở nên ấn tượng và có sức thuyết phục mạnh hơn trong các bài viết chuyên môn hoặc profile giới thiệu năng lực.</li>
+					<li className="list-none">Khi dùng đảo ngữ với "Not only", chúng ta phải mượn trợ động từ "does" (vì chủ ngữ là she - ngôi thứ ba số ít) và trả động từ "writes" về dạng nguyên thể là "write". Đây là điểm then chốt để thể hiện sự chuẩn xác trong văn phong học thuật.</li>
+			
+				</ul>
+
+
+			<p className="margin-top-20">4. Với "<strong>Under no circumstances</strong>" (Trong bất kỳ hoàn cảnh nào cũng không...)</p>
+			
+				<ul className="list-square">
+			
+					<li className="margin-bottom-20 list-none">Câu thường:</li>
+			
+					<li>You must not share this password <strong>under any circumstances</strong>.</li>
+					<li className="margin-bottom-20 list-none">Bạn tuyệt đối không được chia sẻ mật khẩu này trong bất kỳ hoàn cảnh nào.</li>
+					<li className="margin-bottom-50 list-none"><strong>Phong cách</strong>: Đây là câu diễn đạt trực tiếp, rõ ràng, thường dùng trong các hướng dẫn sử dụng hoặc quy định bảo mật thông thường.</li>
+
+					<li className="margin-bottom-20 list-none">Câu học thuật: <strong>Nhấn mạnh sự nghiêm cấm</strong></li>
+			
+					<li><strong>Under no circumstances</strong> must you share this password.</li>
+					<li className="margin-bottom-20 list-none">Trong bất kỳ hoàn cảnh nào, bạn cũng không được phép chia sẻ mật khẩu này.</li>
+					<li className="list-none"><strong>Phong cách</strong>: Đây là câu <strong>đảo ngữ</strong>. Việc đưa cụm trạng từ phủ định lên đầu câu tạo ra một sự nhấn mạnh nghiêm trọng, như một lời cảnh báo hoặc một yêu cầu bắt buộc cứng rắn. Nó thể hiện tính chuyên nghiệp và sự nghiêm túc tuyệt đối.</li>
+			
+				</ul>
+
+			
+			
+			<p className="margin-top-20 text-indent-whole">Khi bạn chuyển từ câu đầu sang câu thứ hai, vị trí của trợ động từ "have" được đẩy lên trước chủ ngữ "I". Đây chính là "điểm nhấn" giúp câu văn của bạn thoát khỏi sự đơn điệu và trở nên "học thuật" hơn.</p>
+
 
 			{/* Lời Kết */}
 
-			<h3 className="margin-y-50 text-center">V. LỜI KẾT: Học bộ 3 mệnh đề đã đủ để giỏi "thần tốc"?</h3>
+			<h3 className="margin-y-50 text-center">V. LỜI KẾT: Học bộ 3 Phụ câu đã đủ để giỏi "thần tốc"?</h3>
 
-			<p>Học thuộc lòng bộ 3 mệnh đề này không thể giúp bạn nghiễm nhiên đạt mức Advanced sau một đêm. Tuy nhiên, nó cung cấp cho bạn một <strong>bộ khung xương tư duy cực kỳ chuẩn xác</strong>.</p>
+			<p>Học thuộc lòng bộ 3 Phụ câu này không thể giúp bạn nghiễm nhiên đạt mức Advanced sau một đêm. Tuy nhiên, nó cung cấp cho bạn một bộ <strong>khung xương tư duy cực kỳ chuẩn xác</strong>.</p>
 
-			<p>Khi bạn có thể thoải mái nhào nặn, hoán đổi, biến mệnh đề đầy đủ thành dạng rút gọn một cách linh hoạt theo ý muốn, bạn đã chính thức làm chủ được cốt lõi ngôn ngữ của người bản xứ.</p>
+			<p>Khi bạn có thể thoải mái nhào nặn, hoán đổi, biến Phụ câu đầy đủ thành dạng Phụ cụm rút gọn một cách linh hoạt theo ý muốn, bạn đã chính thức làm chủ được cốt lõi ngôn ngữ của người bản xứ.</p>
 
 			<p>Phần còn lại chỉ là đắp thêm từ vựng và trải nghiệm thực tế để đạt đến sự hoàn hảo.</p>
 			
