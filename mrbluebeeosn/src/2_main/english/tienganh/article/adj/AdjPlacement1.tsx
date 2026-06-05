@@ -50,23 +50,29 @@ export default function AdjPlacement1(): React.JSX.Element {
 
 			<h4 className="margin-bottom-30 text-center">Điểm Mạnh Tương Đồng: Bước Đột Phá Giúp Người Việt Thống Trị Tiếng Anh Học Thuật</h4>
 
-			<p>Có một lối mòn tư duy đang âm thầm kìm hãm thế hệ người học tiếng Anh tại Việt Nam:</p>
+			<p>Có một lối mòn tư duy đang âm thầm kìm hãm thế hệ người học tiếng Anh tại Việt Nam: <strong>Định kiến cho rằng cấu trúc tiếng Anh hoàn toàn ngược ngạo với tiếng Việt</strong>. Ngay từ những ngày đầu chạm ngõ ngôn ngữ này, chúng ta đã bị đóng băng tư duy ở một quy luật sơ cấp:</p>
 
-			<p><strong>Định kiến cho rằng cấu trúc tiếng Anh hoàn toàn ngược ngạo với tiếng Việt</strong>.</p>
-
-			<p>Ngay từ những ngày đầu chạm ngõ ngôn ngữ này, chúng ta đã bị đóng băng tư duy ở một quy luật sơ cấp:</p>
-
-			<p>Tính từ phải đứng trước Danh từ (như a beautiful house).</p>
+			<p className="margin-y-30">Tính từ phải đứng trước Danh từ (như a beautiful house).</p>
 
 			<p>Vì mô hình này đi ngược lại với tư duy tiếng mẹ đẻ, bộ não người học luôn phải mất một nhịp khựng lại để đảo từ. Hệ quả là chúng ta tự dán nhãn tiếng Anh là một thứ ngôn ngữ rắc rối, phức tạp và xa lạ.</p>
 			
 			<p>Nhưng trong thế giới của văn viết cao cấp, các bài luận nghị luận hay những cấu trúc câu phức của người bản ngữ, một sự thật hoàn toàn trái ngược lại diễn ra. Họ ưu tiên sử dụng một trật tự có tỷ lệ áp đảo:</p>
 
-			<p><strong>Danh từ đứng trước</strong>, <strong>cụm mô tả đứng sau</strong>.</p>
+			<p className="margin-y-30"><strong>Danh từ đứng trước</strong>, <strong>cụm mô tả đứng sau</strong>.</p>
 
-			<p>Đây không phải là một sự ngẫu nhiên, mà chính là <strong>điểm mạnh tương đồng</strong> cốt lõi giữa tiếng Anh và tiếng Việt.</p>
+			<p>Đây không phải là một sự ngẫu nhiên, mà chính là điểm mạnh tương đồng cốt lõi giữa tiếng Anh và tiếng Việt. Nhận ra điều này chính là chìa khóa giúp người Việt sở hữu tư duy ngôn ngữ đẳng cấp, vượt trội hơn hẳn phần còn lại của khu vực.</p>
 
-			<p>Nhận ra điều này chính là chìa khóa giúp người Việt sở hữu tư duy ngôn ngữ đẳng cấp, vượt trội hơn hẳn phần còn lại của khu vực.</p>
+			<p className="margin-top-20"></p>
+			
+				<ul className="list-square">
+			
+					<li><strong>Câu lớn</strong> (Sentence):</li>
+					<li className="margin-bottom-20 list-none">Một câu trọn vẹn, đứng độc lập và kết thúc bằng dấu chấm.</li>
+			
+					<li><strong>Câu con</strong> (Clause):</li>
+					<li className="list-none">Một cụm chủ-vị nằm bên trong câu lớn, đóng vai trò như một từ để cấu thành nên câu lớn.</li>
+			
+				</ul>
 			
 
 			{/* 1.  */}
@@ -85,16 +91,14 @@ export default function AdjPlacement1(): React.JSX.Element {
 			
 				</ul>
 			
-			<p className="margin-top-20">Và công cụ tối thượng được người bản ngữ sử dụng liên tục để kéo dài phần mô tả phía sau danh từ chính là <strong>Adjective Clause</strong> (<strong>Mệnh đề tính từ</strong>).</p>
+			<p className="margin-top-20">Và công cụ tối thượng được người bản ngữ sử dụng liên tục để kéo dài phần mô tả phía sau danh từ chính là <strong>Tính câu</strong> (<strong>Adjective Clause</strong>) — tức là một câu con làm chức năng của một tính từ.</p>
 
 
 			{/* 2.  */}
 
-			<h3 className="margin-y-50 text-center">2. Adjective Clause: Chiếc Chìa Khóa Đồng Bộ Tư Duy Tuyệt Đối</h3>
+			<h3 className="margin-y-50 text-center">2. Tính Câu: Chiếc Chìa Khóa Đồng Bộ Tư Duy Tuyệt Đối</h3>
 
-			<p>Vì mang bản chất của một "Tính từ", chức năng duy nhất của Adjective Clause là làm rõ nghĩa cho danh từ.</p>
-
-			<p>Và vì mang dung lượng của một mệnh đề, nó bắt buộc phải <strong>đứng SAU danh từ</strong>.</p>
+			<p>Vì mang bản chất của một tính từ, chức năng duy nhất của <strong>Tính câu</strong> là làm rõ nghĩa cho danh từ. Và vì mang dung lượng của một câu con, nó bắt buộc phải <strong>đứng SAU danh từ</strong>.</p>
 
 			<p>Lúc này, một phép màu tư duy xuất hiện:</p>
 
@@ -112,17 +116,15 @@ export default function AdjPlacement1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>I want to buy <strong>a motorbike</strong> [which is fuel-efficient and black].</li>
-					<li className="list-none">Tôi muốn mua <strong>một chiếc xe máy</strong> [mà tiết kiệm xăng và có màu đen].</li>
+					<li>Tôi muốn mua <strong>một chiếc xe máy</strong> [mà tiết kiệm xăng và có màu đen].</li>
+					<li className="list-none">I want to buy <strong>a motorbike</strong> [which is fuel-efficient and black].</li>
 			
 				</ul>
 			
-			<p className="margin-top-20">Sự tương đồng này còn đạt đến đỉnh cao khi người bản ngữ sử dụng dạng <strong>rút gọn</strong> (<strong>Reduced Adjective Clause</strong>).</p>
-
-			<p>Khi các từ nối học thuật được lược bỏ, câu văn tiếng Anh trở nên tinh gọn và thuần Việt đến ngỡ ngàng:</p>
+			<p className="margin-top-20">Sự tương đồng này còn đạt đến đỉnh cao khi người bản ngữ sử dụng dạng rút gọn. Khi các từ nối học thuật được lược bỏ, câu văn tiếng Anh trở nên tinh gọn và thuần Việt đến ngỡ ngàng:</p>
 
 
-			<p className="margin-top-20"><strong>Dạng chủ động</strong> (<strong>V</strong>-<strong>ing</strong>):</p>
+			<p className="margin-top-20"><strong>Dạng chủ động</strong> (V-ing)</p>
 			
 				<ul className="list-square">
 			
@@ -132,7 +134,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 				</ul>
 
 
-			<p className="margin-top-20"><strong>Dạng bị động</strong> (<strong>V3</strong>/<strong>ed</strong>):</p>
+			<p className="margin-top-20"><strong>Dạng bị động</strong> (V3/ed)</p>
 			
 				<ul className="list-square">
 			
@@ -151,40 +153,61 @@ export default function AdjPlacement1(): React.JSX.Element {
 			
 				</ul>
 			
-			<p className="margin-top-20">Khi nhận ra cấu trúc này chiếm lĩnh phần lớn các văn bản nghị luận, báo chí và tài liệu học thuật, bạn sẽ hiểu rằng tiếng Anh không hề đánh đố.</p>
-
-			<p>Chúng ta vốn dĩ đã sở hữu sẵn DNA tư duy để làm chủ nó một cách tự nhiên nhất.</p>
+			<p className="margin-top-20">Khi nhận ra cấu trúc này chiếm lĩnh phần lớn các văn bản nghị luận, báo chí và tài liệu học thuật, bạn sẽ hiểu rằng tiếng Anh không hề đánh đố. Chúng ta vốn dĩ đã sở hữu sẵn DNA tư duy để làm chủ nó một cách tự nhiên nhất.</p>
 			
 
 			{/* 3.  */}
 
-			<h3 className="margin-y-50 text-center">3. Bản Đồ Thống Trị: Làm Chủ Bộ Ba Mệnh Đề Cốt Lõi</h3>
+			<h3 className="margin-y-50 text-center">3. Bản Đồ Thống Trị: Làm Chủ Bộ Ba Câu Con Cốt Lõi</h3>
 
-			<p>Khi Adjective Clause đã giúp bạn giải phóng tâm lý và thông nòng tư duy, bạn đã đi được nửa chặng đường chinh phục tiếng Anh cao cấp.</p>
+			<p>Khi <strong>Tính câu</strong> đã giúp bạn giải phóng tâm lý và thông nòng tư duy, bạn đã đi được nửa chặng đường chinh phục tiếng Anh cao cấp.</p>
 
-			<p>Thói quen đưa "trục xương sống" ra trước rồi đắp "da thịt" mô tả phía sau chính là bệ phóng hoàn hảo để bạn làm chủ toàn bộ <strong>Bộ ba mệnh đề cốt lõi</strong> cấu thành nên ngôn ngữ của người bản ngữ:</p>
+			<p>Thói quen đưa "trục xương sống" danh từ ra trước rồi đắp "da thịt" mô tả phía sau chính là bệ phóng hoàn hảo để bạn làm chủ toàn bộ bộ ba câu con quan trọng nhất cấu thành nên ngôn ngữ của người bản ngữ:</p>
 
-			<h4 className="margin-y-40">BỘ BA MỆNH ĐỀ CỐT LÕI</h4>
-			
-				<ol>
-			
-					<li value="1"><strong>ADJECTIVE CLAUSE</strong>: Mệnh đề tính từ</li>
-					<li className="margin-bottom-20 list-none">Vận hành như một Tính từ, đứng SAU danh từ cốt lõi để mô tả chi tiết.</li>
-			
-					<li value="2"><strong>ADVERBIAL CLAUSE</strong>: Mệnh đề trạng ngữ</li>
-					<li className="margin-bottom-20 list-none">Điều phối ngữ cảnh câu (Thời gian, Nguyên nhân, Kết quả: Because, When...).</li>
-			
-					<li value="3"><strong>NOUN CLAUSE</strong>: Mệnh đề danh từ</li>
-					<li className="list-none">Biến một ý tưởng phức tạp thành một thực thể Danh từ (What, That...).</li>
-			
-				</ol>
-			
-			<p className="margin-top-20"><strong>Từ Adjective Clause đến thế giới của Adverbial và Noun Clause</strong></p>
+			<h4 className="margin-y-40">1. Tính câu (Adjective Clause):</h4>
+					
+			<p className="text-indent-whole">Câu con làm chức năng tính từ, đứng SAU danh từ cốt lõi để mô tả chi tiết. (Đã làm chủ nhờ tư duy đồng bộ).</p>
 
 
-			<p>Học tiếng Anh nâng cao thực chất là cuộc chơi của việc điều phối các mệnh đề. Bạn không thể viết một bài luận xuất sắc nếu chỉ dùng những câu đơn rời rạc.</p>
+			<h4 className="margin-y-40">2. Trạng câu (Adverbial Clause):</h4>
+					
+			<p className="text-indent-whole">Câu con làm chức năng trạng từ, dùng để điều phối ngữ cảnh cho câu lớn (chỉ thời gian, nguyên nhân, kết quả như: <strong>Because</strong>..., <strong>When</strong>...</p>
 
-			<p>Khi bạn đã viết nhiều và thuần thục việc dùng Adjective Clause nhờ sự tương đồng với tiếng Việt, cấu trúc não bộ của bạn sẽ quen với việc xử lý các mảng thông tin lớn.</p>
+			<p className="margin-top-20"></p>
+			
+				<ul className="list-square">
+			
+					<li><strong>Because it rained</strong>, I stayed home.</li>
+					<li className="margin-bottom-20 list-none"><strong>Bởi vì trời mưa</strong>, tôi đã ở nhà.</li>
+			
+					<li><strong>When I wake up</strong>, I make coffee.</li>
+					<li className="list-none"><strong>Khi tôi thức dậy</strong>, tôi pha cà phê.</li>
+			
+				</ul>
+
+
+			<h4 className="margin-y-40">3. Danh câu (Noun Clause):</h4>
+					
+			<p className="text-indent-whole">Câu con làm chức năng danh từ, biến cả một ý tưởng phức tạp thành một chủ ngữ hoặc tân ngữ trong câu lớn như:</p>
+
+			<p className="margin-top-20"></p>
+			
+				<ul className="list-square">
+			
+					<li><strong>What you said</strong>...</li>
+					<li className="margin-bottom-20 list-none">Những gì bạn đã nói...</li>
+			
+					<li><strong>That he failed</strong>...</li>
+					<li className="list-none">Việc rằng anh ấy đã thất bại...</li>
+			
+				</ul>
+
+			
+			<p className="margin-y-30"><strong>Từ <strong>Tính câu</strong> đến thế giới của <strong>Trạng câu</strong> và <strong>Danh câu</strong></strong></p>
+
+			<p>Học tiếng Anh nâng cao thực chất là cuộc chơi của việc điều phối các câu con. Bạn không thể viết một bài luận xuất sắc nếu chỉ dùng những câu đơn rời rạc.</p>
+
+			<p>Khi bạn đã viết nhiều và thuần thục việc dùng <strong>Tính câu</strong> nhờ sự tương đồng với tiếng Việt, cấu trúc não bộ của bạn sẽ quen với việc xử lý các mảng thông tin lớn trong một câu văn.</p>
 
 			<p>Từ nền tảng đó, hai mảnh ghép còn lại sẽ tự động bắt nhịp mà không gặp bất kỳ rào cản nào.</p>
 
@@ -192,11 +215,9 @@ export default function AdjPlacement1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li><strong>Adverbial Clause</strong></li>
-					<li className="margin-bottom-20 list-none">Thật dễ dàng để làm rõ nguyên nhân, kết quả cho trục hành động chính.</li>
+					<li><strong>Trạng câu</strong> thật dễ dàng để làm rõ nguyên nhân, kết quả hay thời gian cho trục hành động chính của câu lớn.</li>
 			
-					<li><strong>Noun Clause</strong></li>
-					<li className="list-none">Xuất hiện tự nhiên khi muốn biến cả một nhận định phức tạp làm chủ ngữ cho câu.</li>
+					<li><strong>Danh câu</strong> xuất hiện tự nhiên khi bạn muốn biến cả một nhận định phức tạp làm chủ thể đứng chặn ở đầu câu.</li>
 			
 				</ul>
 			
@@ -204,15 +225,13 @@ export default function AdjPlacement1(): React.JSX.Element {
 			
 			<p className="margin-top-20">Mọi thứ không còn là những công thức ngữ pháp khô khan buộc phải ghi nhớ, mà là một tiến trình phát triển thói quen hoàn toàn tự nhiên.</p>
 
-			<p>Bạn làm chủ cuộc chơi ngôn ngữ vì bạn hiểu luật chơi của các mệnh đề.</p>
+			<p>Bạn làm chủ cuộc chơi ngôn ngữ vì bạn hiểu rõ chức năng của từng câu con.</p>
 
 			{/* Lời Kết */}
 
 			<h3 className="margin-y-50 text-center">Lời Kết: Vũ Khí Chiến Lược Của Người Việt</h3>
 
-			<p>Phát hiện ra điểm mạnh tương đồng <strong>Danh từ</strong> + <strong>Adjective Clause</strong> không chỉ là một mẹo học tập, nó là một cuộc cách mạng về tư duy.</p>
-
-			<p>Nó đập tan nỗi sợ câu phức, cho phép người Việt viết những câu văn dài có chiều sâu, học thuật và đẳng cấp bằng chính tốc độ tư duy của tiếng mẹ đẻ.</p>
+			<p>Phát hiện ra điểm mạnh tương đồng <strong>Danh từ</strong> + <strong>Tính câu</strong> không chỉ là một mẹo học tập, nó là một cuộc cách mạng về tư duy. Nó đập tan nỗi sợ câu phức, cho phép người Việt viết những câu văn dài có chiều sâu, học thuật và đẳng cấp bằng chính tốc độ tư duy của tiếng mẹ đẻ.</p>
 
 			<p>Đây chính là điểm tựa chiến lược giúp người học Việt Nam tự tin bứt phá, vượt trội hơn hẳn các quốc gia trong khu vực Đông Nam Á về khả năng sử dụng tiếng Anh chuyên sâu và viết luận cao cấp.</p>
 
