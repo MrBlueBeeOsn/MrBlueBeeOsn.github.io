@@ -384,11 +384,11 @@ export default function ThreeDC1(): React.ReactElement {
 
 			<h3 className="margin-y-50 text-center">IV. LỘ TRÌNH 3 BƯỚC LÀM CHỦ ĐỂ CHẠM NGƯỠNG ADVANCED</h3>
 
-			<p>Chỉ biết công thức thì chưa đủ gọi là Advanced. Để biến bộ 3 mệnh đề này thành phản xạ tự nhiên trong máu, bạn cần luyện tập theo lộ trình nâng cấp sau:</p>
+			<p>Chỉ biết công thức thì chưa đủ gọi là Advanced. Để biến bộ 3 Phụ câu này thành phản xạ tự nhiên trong máu, bạn cần luyện tập theo lộ trình nâng cấp sau:</p>
 
 			<h4 className="margin-y-40">Bước 1: Kỹ thuật gộp câu (Sentence Combining)</h4>
 
-			<p className="text-indent-whole">Khi viết hoặc nói, hãy ép bản thân không được dùng các câu đơn ngắn. Hãy dùng bộ 3 mệnh đề để xâu chuỗi thông tin một cách logic.</p>
+			<p className="text-indent-whole">Khi viết hoặc nói, hãy ép bản thân không được dùng các câu đơn ngắn. Hãy dùng bộ 3 Phụ câu để xâu chuỗi thông tin một cách logic.</p>
 
 			<p className="margin-top-20 text-indent-whole">Ý thô sơ:</p>
 			
