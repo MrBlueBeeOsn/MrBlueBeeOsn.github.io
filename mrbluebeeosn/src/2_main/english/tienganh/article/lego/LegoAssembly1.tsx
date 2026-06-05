@@ -50,32 +50,38 @@ export default function LegoAssembly1(): React.JSX.Element {
 
 			<h4 className="margin-bottom-30 text-center">Phá Vỡ 12 Thì Ngữ Pháp: Học Tiếng Anh Theo Tư Duy Lắp Ghép Lego</h4>
 
-			<p>Bạn đã dành bao nhiêu năm cuộc đời để học thuộc lòng những công thức ngữ pháp như S + have/has + V3/ed hay S + am/is/are + V-ing? Để rồi mỗi khi định mở miệng nói một câu, bộ não lại mất vài giây "đóng băng" để lục tìm trong trí nhớ: "Câu này dùng thì gì nhỉ? Chia động từ ra sao?".</p>
+			<p>Bạn đã dành bao nhiêu năm cuộc đời để học thuộc lòng những công thức ngữ pháp phức tạp?</p>
+
+			<p>Để rồi mỗi khi định mở miệng nói một câu, bộ não lại mất vài giây "đóng băng" để lục tìm trong trí nhớ xem phải chia động từ ra sao?</p>
 
 			<p>Đó là cách học cũ kỹ – cách học biến tiếng Anh thành một môn toán học đầy tính đánh đố.</p>
 
-			<p>Hôm nay, hãy cùng tôi đập tan mê cung 12 thì phức tạp đó. Chúng ta sẽ đưa mọi câu tiếng Anh về đúng bản chất nguyên thủy của nó thông qua một tư duy cơ học cực kỳ trực quan và giải phóng bộ não: <strong>Mô hình Lắp ghép Lego</strong> (<strong>Lego Assembly</strong>).</p>
+			<p>Hôm nay, hãy cùng mình đập tan tư duy lối mòn đó. Chúng ta sẽ đưa mọi câu tiếng Anh về đúng bản chất nguyên thủy của nó thông qua một tư duy cơ học cực kỳ trực quan và giải phóng bộ não:</p>
+
+			<p className="margin-y-30"><strong>Mô hình Lắp ghép Lego</strong> (<strong>Lego Assembly</strong>).</p>
+
+			<p>Chúng ta sẽ dẹp bỏ hoàn toàn thuật ngữ "mệnh đề" khó hiểu để thay bằng những khái niệm thuần Việt, dễ hình dung hơn rất nhiều.</p>
 
 			{/* 1.  */}
 
 			<h3 className="margin-y-50 text-center">1. Bộ Khung Định Hình (The Chassis)</h3>
 
-			<p>Trong thế giới Lego, dù bạn muốn lắp một chiếc siêu xe, một phi thuyền hay một ngôi nhà, bạn luôn cần một <strong>bộ khung xương</strong> cố định. Tiếng Anh cũng vậy. Mọi câu khẳng định, từ đơn giản nhất đến phức tạp nhất, đều vận hành trên một bộ khung duy nhất:</p>
+			<p>Trong thế giới Lego, dù bạn muốn lắp một chiếc siêu xe, một phi thuyền hay một ngôi nhà, bạn luôn cần một <strong>bộ khung xương</strong> cố định. Tiếng Anh cũng vậy. Mọi <strong>Câu lớn</strong> (<strong>Câu trọn vẹn</strong>) có thể đứng độc lập và kết thúc bằng dấu chấm đều vận hành trên một bộ khung duy nhất:</p>
 
-			<p className="margin-y-50 text-indent-whole"><strong>S Head DP</strong>/<strong>DC</strong></p>
+			<p className="margin-y-50 text-indent-whole"><strong>S Head Phụ cụm</strong>/<strong>Phụ câu</strong></p>
 					
 			<p>Hãy giải mã 3 khối Lego này:</p>
 			
 				<ul className="list-square">
 			
-					<li><strong>S</strong> (<strong>Subject</strong> - <strong>Chủ ngữ</strong>):</li>
-					<li className="margin-bottom-20 list-none">Khối định danh đối tượng (I, you, we, they, she, he, it, hoặc một cụm danh từ).</li>
+					<li><strong>S</strong> (Subject - Chủ ngữ):</li>
+					<li className="margin-bottom-20 list-none">Khối định danh đối tượng hành động (I, you, we, they, she, he, it, hoặc một cụm danh từ).</li>
 			
-					<li><strong>Head</strong> (<strong>Hạt nhân</strong> / <strong>Bộ nguồn</strong>):</li>
-					<li className="margin-bottom-20 list-none">Khối điều khiển toàn câu. Đây là "bộ nguồn" chịu trách nhiệm cấp <strong>Thời gian</strong> (quá khứ/hiện tại/tương lai) và <strong>Thái độ</strong> (khả năng/bắt buộc/khuyên bảo).</li>
+					<li><strong>Head</strong> (Hạt nhân / Bộ nguồn):</li>
+					<li className="margin-bottom-20 list-none">Khối điều khiển toàn câu. Đây là "bộ nguồn" chịu trách nhiệm cấp Thời gian (quá khứ/hiện tại/tương lai) và Thái độ (khả năng/bắt buộc/khuyên bảo).</li>
 			
-					<li><strong>DP</strong> / <strong>DC</strong> (<strong>Mảnh phụ thuộc</strong>):</li>
-					<li className="list-none">Khối nội dung cốt lõi bám vào Head. Tư duy "<strong>Dependent</strong>" (<strong>Phụ thuộc</strong>) chính là chìa khóa vàng. Mọi cụm từ hay mệnh đề này sinh ra là để bổ nghĩa cho Head, chúng không có quyền tự trị và không bao giờ được đứng một mình.</li>
+					<li><strong>Phụ cụm</strong> (Dependent Phrase - DP) / <strong>Phụ câu</strong> (Dependent Clause - DC):</li>
+					<li className="list-none">Khối nội dung cốt lõi bám vào Head. Tư duy "Phụ thuộc" chính là chìa khóa vàng. Mọi khối từ hay câu con này sinh ra là để bổ nghĩa cho Head, chúng không có quyền tự trị và không bao giờ được đứng một mình.</li>
 			
 				</ul>
 
@@ -84,13 +90,43 @@ export default function LegoAssembly1(): React.JSX.Element {
 
 			<h3 className="margin-y-50 text-center">2. Phân Loại Các Khối Lego Nội Dung</h3>
 
-			<p>Để trò chơi lắp ráp diễn ra trơn tru, bạn chỉ cần phân biệt rõ hai loại mảnh ghép nội dung sau:</p>
+			<p>Để trò chơi lắp ráp diễn ra trơn tru, bạn chỉ cần phân biệt rõ các loại mảnh ghép nội dung được đóng gói sẵn dưới đây:</p>
 
-			<h4 className="margin-y-40">2.1. Khối DP (Dependent Phrase - Cụm từ phụ thuộc)</h4>
+			<h4 className="margin-y-40">Khối PHỤ CỤM (Dependent Phrase - DP)</h4>
 
-			<p>Đây là một cụm từ phức hợp đã được "đóng gói sẵn" (thường gồm Động từ + Danh từ, hoặc Tính từ + Giới từ) nhưng không có chủ ngữ riêng. Khi di chuyển, cả cụm này dịch chuyển cùng nhau như một chiếc hộp bộ phận.</p>
+			<p>Đây là một cụm từ phức hợp đã được "đóng gói sẵn" (thường gồm Động từ và Danh từ, hoặc Tính từ và Giới từ) nhưng không có chủ ngữ riêng.</p>
+					
+			<p className="margin-top-20"><strong>Tính cụm</strong> (Cụm tính từ): Chỉ tính chất.</p>
+			
+				<ul className="list-square">
+			
+					<li>very busy</li>
+					<li className="list-none">rất bận</li>
+			
+				</ul>
 
-			<p className="margin-top-20"><strong>DP Nguyên bản</strong> (<strong>V</strong>-<strong>bare</strong> + <strong>Danh từ</strong>): Diễn tả bản chất hành động phẳng.</p>
+
+			<p className="margin-top-20"><strong>Trạng cụm</strong> (Cụm trạng từ/giới từ): Chỉ không gian, thời gian.</p>
+			
+				<ul className="list-square">
+			
+					<li>at home</li>
+					<li className="list-none">ở nhà</li>
+			
+				</ul>
+
+
+			<p className="margin-top-20"><strong>Danh cụm</strong> (Cụm danh từ): Chỉ đối tượng, sự vật.</p>
+
+				<ul className="list-square">
+			
+					<li>the delicious coffee</li>
+					<li className="list-none">cà phê ngon tuyệt</li>
+			
+				</ul>
+
+
+			<p className="margin-top-20"><strong>Phụ cụm hành động nguyên bản</strong> (V-bare và Danh từ):</p>
 			
 				<ul className="list-square">
 			
@@ -103,7 +139,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 				</ul>
 			
 
-			<p className="margin-top-20"><strong>DP Kéo dài</strong> (<strong>V</strong>-<strong>ing</strong> + <strong>Danh từ</strong>): Diễn tả tính chất hành động đang diễn tiến hoặc một hành vi.</p>
+			<p className="margin-top-20"><strong>Phụ cụm hành động kéo dài</strong> (V-ing và Danh từ): Diễn tả tính chất hành động đang diễn tiến.</p>
 			
 				<ul className="list-square">
 			
@@ -116,7 +152,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 				</ul>
 
 
-			<p className="margin-top-20"><strong>DP Kết quả</strong> (<strong>V</strong>-<strong>3</strong>/<strong>ed</strong> + <strong>Danh từ</strong>): Diễn tả trạng thái đã hoàn thành hoặc bị tác động.</p>
+			<p className="margin-top-20"><strong>Phụ cụm hành động kết quả</strong> (V-3/ed và Danh từ): Diễn tả trạng thái đã hoàn thành hoặc bị tác động.</p>
 			
 				<ul className="list-square">
 			
@@ -128,30 +164,35 @@ export default function LegoAssembly1(): React.JSX.Element {
 			
 				</ul>
 			
+
+			<h4 className="margin-y-40">Khối PHỤ CÂU (Dependent Clause - DC)</h4>
+
+			<p>Đây là một <strong>Câu con</strong> phức hợp cao cấp hơn. Bên trong nó có cả một cặp Chủ ngữ và Hành động riêng, nhưng nó bị "khóa" lại bởi một từ kết nối (what, who, because, if, that...) biến cả câu con này thành một mảnh ghép phụ thuộc để ráp vào khung câu lớn theo từng chức năng:</p>
 					
-			<p className="margin-top-20"><strong>DP Tính chất</strong> / <strong>Không gian</strong>:</p>
-			
+			<p className="text-indent-whole"><strong>Danh câu</strong> (Câu làm chức năng danh từ):</p>
+					
 				<ul className="list-square">
 			
-					<li>very busy</li>
-					<li className="margin-bottom-20 list-none">rất bận</li>
-			
-					<li>at home</li>
-					<li className="list-none">ở nhà</li>
+					<li><strong>what I need</strong></li>
+					<li className="list-none">những gì tôi cần</li>
 			
 				</ul>
-			
 
-			<h4 className="margin-y-40">2.2. Khối DC (Dependent Clause - Mệnh đề phụ thuộc)</h4>
-
-			<p>Đây là khối phức hợp cao cấp hơn. Bên trong nó có cả một cặp Chủ ngữ - Hành động riêng, nhưng nó bị "khóa" lại bởi một từ kết nối (what, who, because, if, that...) biến cả mệnh đề thành một mảnh ghép phụ thuộc để ráp vào khung câu lớn.</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Tính câu</strong> (Câu làm chức năng tính từ):</p>
 					
 				<ul className="list-square">
 			
-					<li>what I need</li>
-					<li className="margin-bottom-20 list-none">những gì tôi cần</li>
+					<li><strong>who lives next door</strong></li>
+					<li className="list-none">người sống cạnh nhà</li>
 			
-					<li>because it is raining</li>
+				</ul>
+
+
+			<p className="margin-top-20 text-indent-whole"><strong>Trạng câu</strong> (Câu làm chức năng trạng từ):</p>
+					
+				<ul className="list-square">
+			
+					<li><strong>because it is raining</strong></li>
 					<li className="list-none">vì trời đang mưa</li>
 			
 				</ul>
@@ -161,7 +202,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 
 			<h3 className="margin-y-50 text-center">3. Cơ Chế Lắp Ráp: Giữ Khung, Tráo Mảnh</h3>
 
-			<p>Hãy xem cách chúng ta giữ nguyên Khung đầu câu <strong>S Head</strong>, và chỉ cần tráo đổi các hộp mảnh ghép <strong>DP</strong>/<strong>DC</strong> để tạo ra các tầng ý nghĩa khác nhau. Bạn không cần học "thì", bạn chỉ cần học cách "lắp ghép" (assembly).</p>
+			<p>Hãy xem cách chúng ta giữ nguyên Khung đầu câu <strong>S Head</strong>, và chỉ cần tráo đổi các hộp mảnh ghép Phụ cụm hoặc Phụ câu để tạo ra các tầng ý nghĩa khác nhau. Bạn không cần học "thì", bạn chỉ cần học cách "lắp ghép" (assembly).</p>
 			
 			<h4 className="margin-y-40">Kịch bản 1: Khi Bộ Nguồn là "AM" (Hiện tại)</h4>
 					
@@ -169,17 +210,17 @@ export default function LegoAssembly1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>Lắp DP Kéo dài:</li>
-					<li className="list-none">I <strong>am</strong> cooking dinner.</li>
-					<li className="margin-bottom-20 list-none">Tôi đang nấu bữa tối</li>
+					<li>Lắp <strong>Phụ cụm</strong> hành động kéo dài:</li>
+					<li className="list-none">I <strong>am</strong> [cooking dinner].</li>
+					<li className="margin-bottom-20 list-none">Tôi [đang nấu bữa tối].</li>
 			
-					<li>Lắp DP Không gian:</li>
-					<li className="list-none">I <strong>am</strong> at home.</li>
-					<li className="margin-bottom-20 list-none">Tôi đang ở nhà</li>
+					<li>Lắp <strong>Trạng cụm</strong> không gian:</li>
+					<li className="list-none">I <strong>am</strong> [at home].</li>
+					<li className="margin-bottom-20 list-none">Tôi đang [ở nhà].</li>
 			
-					<li>Lắp DC (Mệnh đề):</li>
-					<li className="list-none">I <strong>am</strong> where I want to be.</li>
-					<li className="list-none">Tôi đang ở nơi tôi muốn</li>
+					<li>Lắp <strong>Trạng câu</strong> chỉ nơi chốn:</li>
+					<li className="list-none">I <strong>am</strong> [where I want to be].</li>
+					<li className="list-none">Tôi đang ở [nơi tôi muốn].</li>
 			
 				</ul>
 			
@@ -189,13 +230,13 @@ export default function LegoAssembly1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>Lắp DP Nguyên bản:</li>
-					<li className="list-none">I <strong>will</strong> cook dinner</li>
-					<li className="margin-bottom-20 list-none">Tôi sẽ nấu bữa tối</li>
+					<li>Lắp <strong>Phụ cụm</strong> hành động nguyên bản:</li>
+					<li className="list-none">I <strong>will</strong> [cook dinner].</li>
+					<li className="margin-bottom-20 list-none">Tôi sẽ [nấu bữa tối].</li>
 			
-					<li>Lắp DC (Mệnh đề):</li>
+					<li>Lắp <strong>Danh câu</strong> làm tân ngữ:</li>
 					<li className="list-none">I <strong>will</strong> take [what you give].</li>
-					<li className="list-none">Tôi sẽ lấy [những gì bạn cho]</li>
+					<li className="list-none">Tôi sẽ lấy [những gì bạn cho].</li>
 			
 				</ul>
 
@@ -205,9 +246,9 @@ export default function LegoAssembly1(): React.JSX.Element {
 					
 				<ul className="list-square">
 			
-					<li>Lắp DP Kết quả:</li>
-					<li className="list-none">I <strong>have</strong> cooked dinner.</li>
-					<li className="list-none">Tôi đã nấu xong bữa tối rồi</li>
+					<li>Lắp <strong>Phụ cụm</strong> hành động kết quả:</li>
+					<li className="list-none">I <strong>have</strong> [cooked dinner].</li>
+					<li className="list-none">Tôi [đã nấu xong bữa tối rồi].</li>
 			
 				</ul>
 			
@@ -225,34 +266,34 @@ export default function LegoAssembly1(): React.JSX.Element {
 				<ul className="list-square">
 			
 					<li>Khẳng định:</li>
-					<li className="list-none">He <strong>can</strong> develop the app.</li>
-					<li className="margin-bottom-20 list-none">Anh ấy có thể phát triển ứng dụng đó.</li>
+					<li className="list-none">He <strong>can</strong> [develop the app].</li>
+					<li className="margin-bottom-20 list-none">Anh ấy có thể [phát triển ứng dụng đó].</li>
 			
 					<li>Phủ định:</li>
-					<li className="list-none">He <strong>can NOT</strong> develop the app.</li>
-					<li className="list-none">Anh ấy không thể phát triển ứng dụng đó.</li>
+					<li className="list-none">He can <strong>NOT</strong> [develop the app].</li>
+					<li className="list-none">Anh ấy không thể [phát triển ứng dụng đó].</li>
 			
 				</ul>
 			
 			<p className="margin-top-20"></p>
 
-			<h4 className="margin-y-40">4.2. Luật Nghi vấn: Nhấc Head lên đầu câu</h4>
+			<h4 className="margin-y-40">4.2. Luật Nghi vấn: Nhấc Head lên đầu câu lớn</h4>
 					
 			<p>Nhấc toàn bộ khối nguồn (Head) đặt ra trước Chủ ngữ (S).</p>
 			
 				<ul className="list-square">
 			
 					<li>Khẳng định:</li>
-					<li className="list-none">You <strong>are</strong> cooking dinner.</li>
-					<li className="margin-bottom-20 list-none">Bạn đang nấu bữa tối.</li>
+					<li className="list-none">You <strong>are</strong> [cooking dinner].</li>
+					<li className="margin-bottom-20 list-none">Bạn [đang nấu bữa tối].</li>
 			
 					<li>Nghi vấn:</li>
-					<li className="list-none"><strong>Are</strong> you cooking dinner?</li>
-					<li className="list-none">Bạn đang nấu bữa tối à?</li>
+					<li className="list-none"><strong>Are</strong> you [cooking dinner]?</li>
+					<li className="list-none">Bạn [đang nấu bữa tối] à?</li>
 			
 				</ul>
 
-			<h4 className="margin-y-40">4.3. Bí mật của "Head Tàng Hình" (Tích hợp)</h4>
+			<h4 className="margin-y-40">Bí mật của "Head Tàng Hình" (Tích hợp)</h4>
 
 			<p>Ở thể khẳng định của Hiện tại đơn và Quá khứ đơn, các Head Do/Does/Did có đặc tính "nuốt" vào trong động từ hành động (Do nhập vào cook thành cook, Did nhập vào cook thành cooked). Người ta gọi đây là Head tích hợp.</p>
 					
@@ -264,16 +305,16 @@ export default function LegoAssembly1(): React.JSX.Element {
 					<li className="list-none">I cooked dinner.</li>
 					<li className="margin-bottom-20 list-none">Tôi đã nấu bữa tối.</li>
 
-					<li className="list-none">Bản chất gốc: I <strong>did</strong> cook dinner</li>
-					<li className="margin-bottom-20 list-none">Tôi thực sự đã nấu bữa tối.</li>
+					<li className="list-none">Bản chất gốc: I <strong>did</strong> [cook dinner].</li>
+					<li className="margin-bottom-20 list-none">Tôi thực sự đã [nấu bữa tối].</li>
 			
-					<li>Phủ định (Lộ Head + NOT):</li>
-					<li className="list-none">I <strong>did NOT</strong> cook dinner.</li>
-					<li className="margin-bottom-20 list-none">Tôi đã không nấu bữa tối.</li>
+					<li>Phủ định (Lộ Head và NOT):</li>
+					<li className="list-none">I <strong>did NOT</strong> [cook dinner].</li>
+					<li className="margin-bottom-20 list-none">Tôi đã không [nấu bữa tối].</li>
 			
 					<li>Nghi vấn (Nhấc Head lên đầu):</li>
-					<li className="list-none"><strong>Did</strong> I cook dinner?</li>
-					<li className="list-none">Tôi đã nấu bữa tối phải không?</li>
+					<li className="list-none"><strong>Did</strong> I [cook dinner]?</li>
+					<li className="list-none">Tôi đã [nấu bữa tối] phải không?</li>
 			
 				</ul>
 
@@ -284,18 +325,20 @@ export default function LegoAssembly1(): React.JSX.Element {
 				<ol>
 			
 					<li value="1"><strong>Đóng gói tư duy</strong> (<strong>Chunking</strong>):</li>
-					<li className="margin-bottom-20 list-none">Bạn không còn dịch lạch cạch từng từ đơn lẻ theo kiểu tiếng Việt (nấu -{'>'} bữa -{'>'} tối). Bạn nhìn thấy và nhấc nguyên cả hộp DP cooking dinner để ném vào sau Head. Tốc độ nói sẽ tăng lên gấp 3 lần.</li>
+					<li className="margin-bottom-20 list-none">Bạn không còn dịch lạch cạch từng từ đơn lẻ theo kiểu tiếng Việt (nấu -{'>'} bữa -{'>'} tối). Bạn nhìn thấy và nhấc nguyên cả hộp Phụ cụm cooking dinner để ném vào sau Head. Tốc độ nói và phản xạ sẽ tăng lên gấp 3 lần.</li>
 			
 					<li value="2"><strong>Sửa lỗi kiến trúc ngay lập tức</strong>:</li>
-					<li className="margin-bottom-20 list-none">Bạn sẽ nhận ra ngay tại sao câu "She cooking dinner" hay "I developing the app" lại sai. Chúng sai vì có Chủ ngữ (S) và có Mảnh phụ thuộc (DP), nhưng lại <strong>thiếu mất Bộ nguồn</strong> (<strong>Head</strong>) để cấp thời gian! Bản não của bạn sẽ tự động "báo lỗi" và buộc bạn phải thêm Head vào:</li>
+					<li className="margin-bottom-20 list-none">Bạn sẽ nhận ra ngay tại sao câu "She cooking dinner" hay "I developing the app" lại sai. Chúng sai vì có Chủ ngữ (S) và có Phụ cụm hành động, nhưng lại <strong>thiếu mất Bộ nguồn</strong> (<strong>Head</strong>) để cấp thời gian! Bộ não của bạn sẽ tự động "báo lỗi" cơ học và buộc bạn phải cấp nguồn vào:</li>
 
-					<li className="list-none">She <strong>is</strong> cooking dinner.</li>
-					<li className="margin-bottom-20 list-none">Cô ấy đang nấu bữa tối.</li>
+					<li className="list-none">She <strong>is</strong> [cooking dinner].</li>
+					<li className="margin-bottom-20 list-none">Cô ấy [đang nấu bữa tối].</li>
 					
 			
 				</ol>
 			
-			<p className="margin-top-20">Tiếng Anh, suy cho cùng, không phải là một chuỗi những quy tắc bài tập trên giấy. Nó là một hệ thống cơ học, logic và đầy tính sắp xếp. Hãy ngừng học thuộc lòng các "thì" và bắt đầu chơi trò lắp ráp Lego ngay hôm nay!</p>
+			<p className="margin-top-20">Tiếng Anh, suy cho cùng, không phải là một chuỗi những quy tắc bài tập trên giấy. Nhìn nhận nó như một hệ thống lắp ráp cơ học, logic của các Phụ cụm và Phụ câu sẽ giúp bạn làm chủ ngôn ngữ này một cách tự nhiên nhất.</p>
+
+			<p className="margin-top-20">Hãy ngừng học thuộc lòng các "thì" và bắt đầu chơi trò lắp ráp Lego ngay hôm nay!</p>
 			
 
 			<div className="viewcounter">
