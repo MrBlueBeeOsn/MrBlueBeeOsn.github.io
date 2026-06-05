@@ -191,7 +191,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 					
 			<p className="text-indent-whole">Câu con làm chức năng danh từ, đóng vai trò như một danh từ lớn trong câu:</p>
 
-			<p className="text-indent-whole">Làm Chủ ngữ:</p>
+			<p className="margin-top-20 text-indent-whole">Làm Chủ ngữ:</p>
 			
 				<ul className="list-square">
 			
