@@ -48,7 +48,7 @@ export default function ThreeDC1(): React.ReactElement {
 
 			</h1>
 
-			<h4 className="margin-bottom-30 text-center">BÍ QUYẾT LÀM CHỦ "BỘ 3 MỆNH ĐỀ" – BƯỚC NGOẶT THAY ĐỔI TƯ DUY TIẾNG ANH LÊN TẦM ADVANCED</h4>
+			<h4 className="margin-bottom-30 text-center">BÍ QUYẾT LÀM CHỦ "BỘ PHỤ CÂU" – BƯỚC NGOẶT THAY ĐỔI TƯ DUY TIẾNG ANH LÊN TẦM ADVANCED</h4>
 
 			<p>Khi mới học tiếng Anh, chúng ta thường có xu hướng tư duy theo từng từ đơn lẻ rồi lắp ghép chúng lại thành những câu đơn ngắn ngủi, rời rạc.</p>
 
