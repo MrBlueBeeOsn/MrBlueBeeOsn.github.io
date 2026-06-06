@@ -52,13 +52,13 @@ export default function AdjPlacement1(): React.JSX.Element {
 
 			<p>Có một lối mòn tư duy đang âm thầm kìm hãm thế hệ người học tiếng Anh tại Việt Nam: <strong>Định kiến cho rằng cấu trúc tiếng Anh hoàn toàn ngược ngạo với tiếng Việt</strong>.</p>
 
-			<p>Ngay từ những ngày đầu chạm ngõ ngôn ngữ này, chúng ta đã bị đóng băng tư duy ở một quy luật sơ cấp: Tính từ phải đứng trước Danh từ (như a beautiful house).</p>
+			<p>Ngay từ những ngày đầu chạm ngõ ngôn ngữ này, chúng ta đã bị đóng băng tư duy ở một quy luật sơ cấp: Tính cơ phải đứng trước Danh cơ (như a beautiful house).</p>
 
 			<p>Vì mô hình này đi ngược lại với tư duy tiếng mẹ đẻ, bộ não người học luôn phải mất một nhịp khựng lại để đảo từ. Hệ quả là chúng ta tự dán nhãn tiếng Anh là một thứ ngôn ngữ rắc rối, phức tạp và xa lạ.</p>
 			
 			<p>Nhưng trong thế giới của văn viết cao cấp, các bài luận nghị luận hay những cấu trúc câu phức của người bản ngữ, một sự thật hoàn toàn trái ngược lại diễn ra. Họ ưu tiên sử dụng một trật tự có tỷ lệ áp đảo:</p>
 
-			<p className="margin-y-30"><strong>Danh từ đứng trước</strong>, <strong>cụm mô tả đứng sau</strong>.</p>
+			<p className="margin-y-30"><strong>Danh cơ đứng trước</strong>, <strong>thành phần mô tả đứng sau</strong>.</p>
 
 			<p>Đây không phải là một sự ngẫu nhiên, mà chính là điểm mạnh tương đồng cốt lõi giữa tiếng Anh và tiếng Việt. Nhận ra điều này chính là chìa khóa giúp người Việt sở hữu tư duy ngôn ngữ đẳng cấp, vượt trội hơn hẳn phần còn lại của khu vực.</p>
 			
@@ -67,26 +67,43 @@ export default function AdjPlacement1(): React.JSX.Element {
 
 			<h3 className="margin-y-50 text-center">1. Bản Chất Của Vị Trí: Quy Luật Điều Phối Trọng Tâm</h3>
 
-			<p>Người bản ngữ không sắp đặt vị trí của tính từ một cách tùy tiện. Mỗi sự dịch chuyển trật tự từ đều là một ý đồ nghệ thuật nhằm điều phối sự chú ý của người nghe:</p>
+			<p>Người bản ngữ không sắp đặt vị trí của một Tính cơ một cách tùy tiện. Mỗi sự dịch chuyển trật tự từ đều là một ý đồ tư duy nhằm điều phối sự chú ý của người nghe:</p>
 			
 				<ul className="list-square">
 			
-					<li><strong>Tính từ đứng trước danh từ</strong> – <strong>Nhấn mạnh Đặc điểm</strong>:</li>
+					<li><strong>Tính cơ</strong> đứng trước <strong>Danh cơ</strong> – Nhấn mạnh <strong>Đặc điểm</strong>:</li>
 					<li className="margin-bottom-20 list-none">Cấu trúc này dành cho các tính từ đơn lẻ, ngắn gọn (như a luxury car, a hot day). Mục đích là ném thẳng đặc điểm nổi bật vào tâm trí người nghe trước khi gọi tên đối tượng.</li>
 			
-					<li><strong>Danh từ đứng trước tính từ</strong> – <strong>Nhấn mạnh Đối tượng</strong>:</li>
-					<li className="list-none">Khi muốn đối tượng chính làm mỏ neo cho toàn câu, người bản ngữ sẽ đưa Danh từ lên trước để định hình tư duy. Sau đó, họ mới thong thả thả một chuỗi thông tin mô tả dài ở phía sau.</li>
+					<li><strong>Danh cơ</strong> đứng trước <strong>Tính cơ</strong> – Nhấn mạnh <strong>Đối tượng</strong>:</li>
+					<li className="list-none">Khi muốn đối tượng chính làm mỏ neo cho toàn câu, người bản ngữ sẽ đưa Danh cơ lên trước để người nghe định hình ngay lập tức. Sau đó, họ mới thong thả thả một chuỗi thông tin mô tả dài ở phía sau.</li>
 			
 				</ul>
 			
-			<p className="margin-top-20">Và công cụ tối thượng được người bản ngữ sử dụng liên tục để kéo dài phần mô tả phía sau danh từ chính là <strong>Tính câu</strong> (<strong>Adjective Clause</strong>).</p>
+			<p className="margin-top-20">Và công cụ tối thượng được người bản ngữ sử dụng liên tục để kéo dài phần mô tả phía sau danh cơ chính là <strong>Tính câu</strong> (<strong>Adjective Clause</strong>).</p>
 
 
 			{/* 2.  */}
 
 			<h3 className="margin-y-50 text-center">2. Tính Câu: Chiếc Chìa Khóa Đồng Bộ Tư Duy Tuyệt Đối</h3>
 
-			<p><strong>Tính câu</strong> (<strong>Adjective Clause</strong>) thực chất là một Câu con làm chức năng tính từ. Vì mang bản chất của một tính từ, chức năng duy nhất của Tính câu là làm rõ nghĩa cho danh từ. Và vì mang dung lượng của một câu con, nó bắt buộc phải đóng vai trò là một <strong>Phụ câu</strong> (<strong>Dependent Clause</strong>) <strong>đứng SAU danh từ</strong>.</p>
+			<p className="margin-top-20">Hệ thống bổ ngữ trong tiếng Anh thực chất rất khoa học và dễ nhớ khi được tối giản thành bộ ba cấp độ: <strong>Cơ</strong> - <strong>Cụm</strong> - <strong>Câu</strong> (Bộ ba chữ C cốt lõi).</p>
+			
+				<ul className="list-square">
+			
+					<li><strong>Cơ</strong> (<strong>Cơ bản</strong>):</li>
+					<li className="margin-bottom-20 list-none">Là một từ đơn lẻ.</li>
+			
+					<li><strong>Cụm</strong> (<strong>Khối cụm</strong>):</li>
+					<li className="margin-bottom-20 list-none">Là một nhóm từ đi với nhau nhưng chưa thành câu.</li>
+			
+					<li><strong>Câu</strong> (<strong>Câu con</strong>):</li>
+					<li className="list-none">Là một cụm từ đã có đủ chủ ngữ và hành động.</li>
+			
+				</ul>
+			
+			<p className="margin-top-20"></p>
+
+			<p>Vì mang bản chất của một thành phần tính chất, chức năng duy nhất của <strong>Tính câu</strong> là <strong>làm rõ nghĩa cho Danh cơ</strong>. Và vì mang dung lượng của một câu con (Phụ câu), nó bắt buộc phải <strong>đứng SAU Danh cơ</strong>.</p>
 
 			<p>Lúc này, một phép màu tư duy xuất hiện:</p>
 			
@@ -107,7 +124,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 			
 				</ul>
 			
-			<p className="margin-top-20">Sự tương đồng này còn đạt đến đỉnh cao khi người bản ngữ rút gọn <strong>Phụ câu</strong> này thành một <strong>Phụ cụm</strong> (Dependent Phrase), cụ thể là một <strong>Tính cụm</strong> (Adjective Phrase). Khi các từ nối học thuật được lược bỏ, câu văn tiếng Anh trở nên tinh gọn và thuần Việt đến ngỡ ngàng:</p>
+			<p className="margin-top-20">Sự tương đồng này còn đạt đến đỉnh cao khi người bản ngữ sử dụng dạng rút gọn để biến <strong>Tính câu</strong> thành một <strong>Tính cụm</strong> (<strong>Adjective Phrase</strong>). Khi các từ nối học thuật được lược bỏ, câu văn tiếng Anh trở nên tinh gọn và thuần Việt đến ngỡ ngàng:</p>
 
 
 			<p className="margin-top-20"><strong>Dạng chủ động</strong> (V-ing)</p>
@@ -139,120 +156,146 @@ export default function AdjPlacement1(): React.JSX.Element {
 			
 				</ul>
 			
-			<p className="margin-top-20">Khi nhận ra cấu trúc này chiếm lĩnh phần lớn các văn bản nghị luận, báo chí và tài liệu học thuật, bạn sẽ hiểu rằng tiếng Anh không hề đánh đố. Chúng ta vốn dĩ đã sở hữu sẵn DNA tư duy để làm chủ nó một cách tự nhiên nhất.</p>
+			<p className="margin-top-20">Khi nhận ra cấu trúc Danh cơ đứng trước, Tính câu/Tính cụm theo sau chiếm lĩnh phần lớn các văn bản nghị luận, báo chí và tài liệu học thuật, bạn sẽ hiểu rằng tiếng Anh không hề đánh đố. Chúng ta vốn dĩ đã sở hữu sẵn DNA tư duy để làm chủ nó một cách tự nhiên nhất.</p>
 			
 
 			{/* 3.  */}
 
 			<h3 className="margin-y-50 text-center">3. Bản Đồ Thống Trị: Làm Chủ Bộ Ba Phụ Câu Cốt Lõi</h3>
 
-			<p>Khi <strong>Tính câu</strong> đã giúp bạn giải phóng tâm lý và thông nòng tư duy, bạn đã đi được nửa chặng đường chinh phục tiếng Anh cao cấp.</p>
+			<p>Khi Tính câu đã giúp bạn giải phóng tâm lý và thông nòng tư duy, bạn đã đi được nửa chặng đường chinh phục tiếng Anh cao cấp. Thói quen đưa "trục xương sống" Danh cơ ra trước rồi đắp "da thịt" mô tả phía sau chính là bệ phóng hoàn hảo để bạn làm chủ toàn bộ <strong>Bộ ba Phụ câu cốt lõi</strong> cấu thành nên một Câu lớn trọn vẹn:</p>
 
-			<p>Thói quen đưa "trục xương sống" là Danh cụm ra trước rồi đắp "da thịt" mô tả phía sau chính là bệ phóng hoàn hảo để bạn làm chủ toàn bộ <strong>Bộ ba phụ câu cốt lõi</strong> cấu thành nên một Câu lớn (Sentence) trọn vẹn của người bản ngữ:</p>
 
-			<h4 className="margin-y-40">1. Tính câu (Adjective Clause):</h4>
-					
-			<p className="text-indent-whole">Câu con làm chức năng tính từ, đứng SAU danh từ cốt lõi để mô tả chi tiết. (Đã làm chủ nhờ tư duy đồng bộ).</p>
+			<p className="margin-top-20"><strong>Hệ thống Phụ câu</strong></p>
+
+			<h4 className="margin-y-40">1. TÍNH CÂU (Adjective Clause)</h4>
+			
+				<ul className="list-square">
+			
+					<li>Vận hành như một <strong>Tính cơ</strong></li>
+			
+					<li>Đứng <strong>SAU Danh cơ</strong> cốt lõi để mô tả chi tiết đối tượng.</li>
+			
+				</ul>
+			
+			
+			<p className="margin-top-20 text-indent-whole">Ví dụ:</p>
 
 			<ul className="list-square">
 			
-					<li>The accountant <strong>who works with me</strong> is very professional.</li>
-					<li className="margin-bottom-20 list-none"><strong>Bởi vì trời mưa</strong>, tôi đã ở nhà.</li>
+					<li>The <strong>accountant</strong> [who works with me] is very professional.</li>
+					<li className="margin-bottom-20 list-none">Người kế toán [người mà làm việc cùng tôi] thì rất chuyên nghiệp.</li>
 
-					<li>The cast iron pot <strong>that I bought yesterday</strong> is perfect for braising.</li>
-					<li className="margin-bottom-20 list-none">Cái nồi gang mà tôi mua hôm qua thì hoàn hảo để nấu các món om.</li>
+					<li>The <strong>cast iron pot</strong> [that I bought yesterday] is perfect for braising.</li>
+					<li className="margin-bottom-20 list-none">Cái nồi gang [mà tôi mua hôm qua] thì hoàn hảo để nấu các món om.</li>
 			
-					<li>The coffee shop <strong>where we usually meet</strong> is in Hóc Môn.</li>
-					<li className="list-none">Quán cà phê nơi chúng ta thường gặp nhau nằm ở Hóc Môn.</li>
+					<li>The <strong>coffee shop</strong> [where we usually meet] is in Hóc Môn.</li>
+					<li className="list-none">Quán cà phê [nơi chúng ta thường gặp] nằm ở Hóc Môn.</li>
 			
 				</ul>
 
 			<p className="margin-top-20 text-indent-whole">Hãy nhớ đặt <strong>dấu phẩy</strong> ngăn cách giữa hai câu khi <strong>Trạng câu</strong> đứng ở đầu.</p>
 
 
-			<h4 className="margin-y-40">2. Trạng câu (Adverbial Clause):</h4>
+			<h4 className="margin-y-40">2. TRẠNG CÂU (Adverbial Clause)</h4>
 					
-			<p className="text-indent-whole">Câu con làm chức năng trạng từ, dùng để điều phối ngữ cảnh cho Câu lớn (Thời gian, Nguyên nhân, Kết quả: <strong>Because</strong>..., <strong>When</strong>...).</p>
+			<ul className="list-square">
+			
+					<li>Vận hành như một <strong>Trạng cơ</strong></li>
+		
+					<li>Điều phối ngữ cảnh cho toàn câu (Thời gian, Nguyên nhân, Kết quả: Because, When...).</li>
+			
+				</ul>
+			
+			
+			<p className="margin-top-20 text-indent-whole">Ví dụ:</p>
 			
 				<ul className="list-square">
 			
-					<li><strong>Because it rained</strong>, I stayed home.</li>
-					<li className="margin-bottom-20 list-none"><strong>Bởi vì trời mưa</strong>, tôi đã ở nhà.</li>
+					<li>[Because it rained], I stayed home.</li>
+					<li className="margin-bottom-20 list-none">[Bởi vì trời mưa], tôi đã ở nhà.</li>
 			
-					<li><strong>When I wake up</strong>, I make coffee.</li>
-					<li className="list-none"><strong>Khi tôi thức dậy</strong>, tôi pha cà phê.</li>
+					<li>[When I wake up], I make coffee.</li>
+					<li className="list-none">[Khi tôi thức dậy], tôi pha cà phê.</li>
 			
 				</ul>
 
 			<p className="margin-top-20 text-indent-whole">Hãy nhớ đặt <strong>dấu phẩy</strong> ngăn cách giữa hai câu khi <strong>Trạng câu</strong> đứng ở đầu.</p>
 
 
-			<h4 className="margin-y-40">3. Danh câu (Noun Clause):</h4>
+			<h4 className="margin-y-40">3. DANH CÂU (Noun Clause)</h4>
 					
-			<p className="text-indent-whole">Câu con làm chức năng danh từ, đóng vai trò như một danh từ lớn trong câu:</p>
+			<ul className="list-square">
+			
+					<li>Vận hành như một <strong>Danh cơ</strong></li>
+			
+					<li>Biến cả một ý tưởng phức tạp thành một vị trí Chủ ngữ hoặc Tân ngữ (What you said, That he failed...).</li>
+			
+				</ul>
+			
+			
+			<p className="margin-top-20 text-indent-whole">Ví dụ:</p>
 
-			<p className="margin-top-20 text-indent-whole">Làm Chủ ngữ:</p>
+			<p className="margin-top-20 text-indent-whole">Làm <strong>Chủ ngữ</strong>:</p>
 			
 				<ul className="list-square">
 			
-					<li><strong>What you said</strong> makes me happy.</li>
-					<li className="list-none"><strong>Những gì bạn nói</strong> làm tôi hạnh phúc.</li>
-					<li className="margin-bottom-20 list-none">Đứng trước động từ chính (makes)</li>
+					<li>[What you said] makes me happy.</li>
+					<li className="list-none">[Những gì bạn nói] làm tôi hạnh phúc.</li>
+					<li className="margin-bottom-20 list-none">→ Đứng trước động từ chính (makes)</li>
 			
-					<li><strong>That he failed</strong> surprised everyone.</li>
-					<li className="list-none"><strong>Việc anh ấy thất bại</strong> làm mọi người ngạc nhiên.</li>
-					<li className="list-none">Đứng trước động từ chính (surprised)</li>
+					<li>[That he failed] surprised everyone.</li>
+					<li className="list-none">[Việc anh ấy thất bại] làm mọi người ngạc nhiên.</li>
+					<li className="list-none">→ Đứng trước động từ chính (surprised)</li>
 			
 				</ul>
 
-			<p className="margin-top-20 text-indent-whole">Làm Tân ngữ:</p>
+			<p className="margin-top-20 text-indent-whole">Làm <strong>Tân ngữ</strong>:</p>
 			
 				<ul className="list-square">
 			
-					<li>I believe <strong>what you said</strong>.</li>
-					<li className="list-none">Tôi tin <strong>những gì bạn đã nói</strong>.</li>
-					<li className="margin-bottom-20 list-none">Đứng sau động từ chính (believe)</li>
+					<li>I believe [what you said].</li>
+					<li className="list-none">Tôi tin [những gì bạn đã nói].</li>
+					<li className="margin-bottom-20 list-none">→ Đứng sau động từ chính (believe)</li>
 			
-					<li>He admitted <strong>that he failed</strong>.</li>
-					<li className="list-none">Anh ấy đã thừa nhận <strong>rằng anh ấy đã thất bại</strong>.</li>
-					<li className="list-none">Đứng sau động từ chính (admitted)</li>
+					<li>He admitted [that he failed].</li>
+					<li className="list-none">Anh ấy đã thừa nhận [rằng anh ấy đã thất bại].</li>
+					<li className="list-none">→ Đứng sau động từ chính (admitted)</li>
 			
 				</ul>
 
 			
-			<p className="margin-y-30"><strong>Từ <strong>Tính câu</strong> đến thế giới của <strong>Trạng câu</strong> và <strong>Danh câu</strong></strong></p>
+			<p className="margin-y-30">Từ <strong>Tính câu</strong> đến thế giới của <strong>Trạng câu</strong> và <strong>Danh câu</strong></p>
 
-			<p>Học tiếng Anh nâng cao thực chất là cuộc chơi của việc điều phối các Phụ câu. Bạn không thể viết một bài luận xuất sắc nếu chỉ dùng những câu đơn rời rạc.</p>
+			<p>Học tiếng Anh nâng cao thực chất là cuộc chơi của việc điều phối các Phụ câu và Phụ cụm dựa trên nền tảng ba trục: <strong>Danh</strong> - <strong>Tính</strong> - <strong>Trạng</strong>.</p>
 
-			<p>Khi bạn đã viết nhiều và thuần thục việc dùng <strong>Tính câu</strong> nhờ sự tương đồng với tiếng Việt, cấu trúc não bộ của bạn sẽ quen với việc xử lý các mảng thông tin lớn trong một Câu lớn trọn vẹn.</p>
+			<p>Bạn không thể viết một bài luận xuất sắc nếu chỉ dùng những câu đơn rời rạc.</p>
 
-			<p>Từ nền tảng đó, hai mảnh ghép còn lại sẽ tự động bắt nhịp mà không gặp bất kỳ rào cản nào.</p>
+			<p>Khi bạn đã viết nhiều và thuần thục việc dùng Tính câu nhờ sự tương đồng với tiếng Việt, cấu trúc não bộ của bạn sẽ quen với việc xử lý các mảng thông tin lớn trong một Câu lớn trọn vẹn. Từ nền tảng đó, hai mảnh ghép còn lại sẽ tự động bắt nhịp mà không gặp bất kỳ rào cản nào:</p>
 
 			<p className="margin-top-20">Bạn sẽ thấy:</p>
 			
 				<ul className="list-square">
 			
-					<li><strong>Trạng câu</strong> thật dễ dàng để làm rõ nguyên nhân, kết quả cho trục hành động chính.</li>
+					<li><strong>Trạng câu</strong> thật dễ dàng để bổ sung ngữ cảnh nguyên nhân, kết quả cho trục hành động chính.</li>
 			
-					<li><strong>Danh câu</strong> xuất hiện tự nhiên khi muốn biến cả một nhận định phức tạp thành một thực thể đóng vai trò làm chủ ngữ cho câu.</li>
+					<li><strong>Danh câu</strong> xuất hiện tự nhiên khi muốn biến cả một nhận định phức tạp làm chủ thể đứng đầu câu.</li>
 			
 				</ul>
 			
 			<p className="margin-top-20"></p>
 			
-			<p className="margin-top-20">Mọi thứ không còn là những công thức khô khan buộc phải ghi nhớ, mà là một tiến trình phát triển thói quen hoàn toàn tự nhiên.</p>
+			<p className="margin-top-20">Mọi thứ không còn là những công thức ngữ pháp khô khan buộc phải ghi nhớ, mà là một tiến trình phát triển thói quen hoàn toàn tự nhiên dựa trên sơ đồ <strong>Cơ</strong> - <strong>Cụm</strong> - <strong>Câu</strong>.</p>
 
-			<p>Bạn làm chủ cuộc chơi ngôn ngữ vì bạn hiểu luật chơi của các câu con.</p>
+			<p>Bạn làm chủ cuộc chơi ngôn ngữ vì bạn đã hiểu rõ chức năng của từng mảnh ghép.</p>
 
 			{/* Lời Kết */}
 
 			<h3 className="margin-y-50 text-center">Lời Kết: Vũ Khí Chiến Lược Của Người Việt</h3>
 
-			<p>Phát hiện ra điểm mạnh tương đồng <strong>Danh từ</strong> + <strong>Tính câu</strong> không chỉ là một mẹo học tập, nó là một cuộc cách mạng về tư duy. It đập tan nỗi sợ câu phức, cho phép người Việt viết những câu văn dài có chiều sâu, học thuật và đẳng cấp bằng chính tốc độ tư duy của tiếng mẹ đẻ.</p>
+			<p>Phát hiện ra điểm mạnh tương đồng giữa cấu trúc tiếng Việt và hệ thống Danh cơ + Tính câu trong tiếng Anh không chỉ là một mẹo học tập, nó là một cuộc cách mạng về tư duy. Nó đập tan nỗi sợ câu phức tạp, cho phép người Việt viết những câu văn dài có chiều sâu, học thuật và đẳng cấp bằng chính tốc độ tư duy của tiếng mẹ đẻ.</p>
 
-			<p>Đây chính là điểm tựa chiến lược giúp người học Việt Nam tự tin bứt phá, vượt trội hơn hẳn các quốc gia trong khu vực Đông Nam Á về khả năng sử dụng tiếng Anh chuyên sâu và viết luận cao cấp.</p>
-
-			<p>Tiếng Anh chưa bao giờ ngược dòng, nó chỉ đang chờ bạn nhận ra sự đồng điệu để cùng hòa vào một dòng chảy tư duy!</p>
+			<p>Đây chính là điểm tựa chiến lược giúp người học Việt Nam tự tin bứt phá, vượt trội hơn hẳn các quốc gia trong khu vực Đông Nam Á về khả năng sử dụng tiếng Anh chuyên sâu và viết luận cao cấp. Tiếng Anh chưa bao giờ ngược dòng, nó chỉ đang chờ bạn nhận ra sự đồng điệu để cùng hòa vào một dòng chảy tư duy!</p>
 			
 
 			<div className="viewcounter">
