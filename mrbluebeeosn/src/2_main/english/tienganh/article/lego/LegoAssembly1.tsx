@@ -65,6 +65,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 			{/* 1.  */}
 
 			<h3 className="margin-y-50 text-center">1. Bộ Khung Xương Duy Nhất: S Head Dependent</h3>
+			
 
 			<p>Mọi Câu lớn (Câu trọn vẹn) có thể đứng độc lập và kết thúc bằng dấu chấm trong tiếng Anh, thực chất chỉ là sự vận hành của ba thành phần cơ bản sau:</p>
 
@@ -79,7 +80,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 					<li className="margin-bottom-20 list-none">Khối điều khiển toàn câu, luôn đứng liền kề với chủ ngữ. Head có nhiệm vụ cấp Thời gian (quá khứ/hiện tại/tương lai) và Thái độ cho câu.</li>
 			
 					<li><strong>Dependent</strong> (Phần phụ thuộc):</li>
-					<li className="list-none">Là tất cả những gì đứng sau Head. Chúng mang tư duy "phụ thuộc", sinh ra là để bám vào Head và không bao giờ có thể đứng độc lập một mình.</li>
+					<li className="list-none">Là <strong>tất cả những gì đứng sau Head</strong>. Chúng mang tư duy "phụ thuộc", sinh ra là để bám vào Head và không bao giờ có thể đứng độc lập một mình.</li>
 			
 				</ul>
 
@@ -345,7 +346,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 				<ul className="list-square">
 			
 					<li>He can [<strong>NOT</strong> develop the app].</li>
-					<li className="list-none">Anh ấy [không thể phát triển ứng dụng đó].</li>
+					<li className="list-none">Anh ấy [<strong>không</strong> thể phát triển ứng dụng đó].</li>
 			
 				</ul>
 
@@ -358,8 +359,8 @@ export default function LegoAssembly1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>You <strong>are</strong> cooking dinner.</li>
-					<li className="list-none">Bạn đang nấu bữa tối.</li>
+					<li>You <strong>are</strong> [cooking dinner].</li>
+					<li className="list-none">Bạn [đang nấu bữa tối].</li>
 			
 				</ul>
 
@@ -367,15 +368,15 @@ export default function LegoAssembly1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li><strong>Are</strong> you cooking dinner?</li>
-					<li className="list-none">Bạn đang nấu bữa tối phải không?</li>
+					<li><strong>Are</strong> you [cooking dinner]?</li>
+					<li className="list-none">Bạn [đang nấu bữa tối] <strong>phải không</strong>?</li>
 			
 				</ul>
 
 
 			<h4 className="margin-y-40">Bí mật của "Head Tàng Hình" (Tích hợp)</h4>
 					
-			<p className="text-indent-whole">Ở thể khẳng định của Hiện tại đơn và Quá khứ đơn, các Head <strong>Do</strong>/<strong>Does</strong>/<strong>Did</strong> có đặc tính "nuốt" vào trong động từ hành động (<strong>Do nhập vào cook thành cook</strong>, <strong>Did nhập vào cook thành cooked</strong>).</p>
+			<p className="text-indent-whole">Ở thể khẳng định của Hiện tại đơn và Quá khứ đơn, các Head <strong>Do</strong>/<strong>Does</strong>/<strong>Did</strong> có đặc tính "nuốt" vào trong động từ hành động (<strong>Do</strong> nhập vào <strong>cook</strong> thành <strong>cook</strong>, <strong>Did</strong> nhập vào <strong>cook</strong> thành <strong>cooked</strong>).</p>
 
 			<p className="text-indent-whole">Nhưng khi làm câu Phủ định hoặc Nghi vấn, <strong>Head bắt buộc phải tách ra và lộ diện</strong>:</p>
 
@@ -399,7 +400,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 				<ul className="list-square">
 			
 					<li>I did [<strong>NOT</strong> cook dinner].</li>
-					<li className="list-none">Tôi đã [không nấu bữa tối].</li>
+					<li className="list-none">Tôi đã [<strong>không</strong> nấu bữa tối].</li>
 			
 				</ul>
 
@@ -409,7 +410,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 				<ul className="list-square">
 			
 					<li><strong>Did</strong> I [cook dinner]?</li>
-					<li className="list-none">Tôi đã [nấu bữa tối] phải không?</li>
+					<li className="list-none">Tôi <strong>đã</strong> [nấu bữa tối] <strong>phải không</strong>?</li>
 			
 				</ul>
 
@@ -421,7 +422,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 
 			<h4 className="margin-y-40">1. Sửa lỗi kiến trúc ngay lập tức:</h4>
 					
-			<p className="text-indent-whole">Bạn sẽ nhận ra ngay tại sao câu "She cooking dinner" hay "I developing the app" lại sai. Chúng sai vì có Chủ ngữ (S) và có Phụ cụm, nhưng lại thiếu mất Bộ nguồn (Head) để cấp thời gian! Bộ não của bạn sẽ tự động "báo lỗi" cơ học và buộc bạn phải cấp nguồn vào:</p>
+			<p className="text-indent-whole">Bạn sẽ nhận ra ngay tại sao câu "She cooking dinner" hay "I developing the app" lại sai. Chúng sai vì có Chủ ngữ (S) và có Phụ cụm, nhưng lại <strong>thiếu mất Bộ nguồn</strong> (<strong>Head</strong>) để cấp thời gian! Bộ não của bạn sẽ tự động "báo lỗi" cơ học và buộc bạn phải cấp nguồn vào:</p>
 			
 				<ul className="list-square">
 			
