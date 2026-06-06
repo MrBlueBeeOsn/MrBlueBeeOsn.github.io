@@ -22,7 +22,7 @@ export default function SentenceVariety1(): React.JSX.Element {
 				<sup><HashLink smooth to="/tieng-anh/sentence-variety-1">&nbsp;1&nbsp;</HashLink>
 				</sup>
 
-				<sup><HashLink smooth to="/tieng-anh/sentence-variety-2">&nbsp;2&nbsp;</HashLink>
+				{/* <sup><HashLink smooth to="/tieng-anh/sentence-variety-2">&nbsp;2&nbsp;</HashLink>
 				</sup>
 
 				<sup><HashLink smooth to="/tieng-anh/sentence-variety-3">&nbsp;3&nbsp;</HashLink>
@@ -44,7 +44,7 @@ export default function SentenceVariety1(): React.JSX.Element {
 				</sup>
 
 				<sup><HashLink smooth to="/tieng-anh/sentence-variety-9">&nbsp;9&nbsp;</HashLink>
-				</sup>
+				</sup> */}
 
 			</h1>
 

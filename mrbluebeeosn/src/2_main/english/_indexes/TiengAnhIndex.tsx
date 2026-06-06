@@ -631,7 +631,7 @@ export default function TiengAnhIndex(): React.JSX.Element {
                 <Link to="/tieng-anh/s-v-1">SV
                 <sup>&nbsp;1&nbsp;</sup>
                 </Link>
-                <Link to="/tieng-anh/s-v-2">
+                {/* <Link to="/tieng-anh/s-v-2">
                   <sup>&nbsp;2&nbsp;</sup>
                 </Link>
                 <Link to="/tieng-anh/s-v-3">
@@ -654,7 +654,7 @@ export default function TiengAnhIndex(): React.JSX.Element {
                 </Link>
                 <Link to="/tieng-anh/s-v-9">
                   <sup>&nbsp;9&nbsp;</sup>
-                </Link>
+                </Link> */}
               
               </div>
               
@@ -665,7 +665,7 @@ export default function TiengAnhIndex(): React.JSX.Element {
                 <Link to="/tieng-anh/super-words-1">Super Words
                 <sup>&nbsp;1&nbsp;</sup>
                 </Link>
-                <Link to="/tieng-anh/super-words-2">
+                {/* <Link to="/tieng-anh/super-words-2">
                   <sup>&nbsp;2&nbsp;</sup>
                 </Link>
                 <Link to="/tieng-anh/super-words-3">
@@ -688,7 +688,7 @@ export default function TiengAnhIndex(): React.JSX.Element {
                 </Link>
                 <Link to="/tieng-anh/super-words-9">
                   <sup>&nbsp;9&nbsp;</sup>
-                </Link>
+                </Link> */}
               
               </div>
               
@@ -700,7 +700,7 @@ export default function TiengAnhIndex(): React.JSX.Element {
                 <Link to="/tieng-anh/three-dc-1">Three DC
                 <sup>&nbsp;1&nbsp;</sup>
                 </Link>
-                <Link to="/tieng-anh/three-dc-2">
+                {/* <Link to="/tieng-anh/three-dc-2">
                   <sup>&nbsp;2&nbsp;</sup>
                 </Link>
                 <Link to="/tieng-anh/three-dc-3">
@@ -723,7 +723,7 @@ export default function TiengAnhIndex(): React.JSX.Element {
                 </Link>
                 <Link to="/tieng-anh/three-dc-9">
                   <sup>&nbsp;9&nbsp;</sup>
-                </Link>
+                </Link> */}
               
               </div>
               
@@ -735,7 +735,7 @@ export default function TiengAnhIndex(): React.JSX.Element {
                 <Link to="/tieng-anh/adj-placement-1">ADJ Placement
                 <sup>&nbsp;1&nbsp;</sup>
                 </Link>
-                <Link to="/tieng-anh/adj-placement-2">
+                {/* <Link to="/tieng-anh/adj-placement-2">
                   <sup>&nbsp;2&nbsp;</sup>
                 </Link>
                 <Link to="/tieng-anh/adj-placement-3">
@@ -758,7 +758,7 @@ export default function TiengAnhIndex(): React.JSX.Element {
                 </Link>
                 <Link to="/tieng-anh/adj-placement-9">
                   <sup>&nbsp;9&nbsp;</sup>
-                </Link>
+                </Link> */}
               
               </div>
               
@@ -771,7 +771,7 @@ export default function TiengAnhIndex(): React.JSX.Element {
                 <Link to="/tieng-anh/lego-assembly-1">Lego Assembly
                 <sup>&nbsp;1&nbsp;</sup>
                 </Link>
-                <Link to="/tieng-anh/lego-assembly-2">
+                {/* <Link to="/tieng-anh/lego-assembly-2">
                   <sup>&nbsp;2&nbsp;</sup>
                 </Link>
                 <Link to="/tieng-anh/lego-assembly-3">
@@ -794,7 +794,7 @@ export default function TiengAnhIndex(): React.JSX.Element {
                 </Link>
                 <Link to="/tieng-anh/lego-assembly-9">
                   <sup>&nbsp;9&nbsp;</sup>
-                </Link>
+                </Link> */}
               
               </div>
               
@@ -806,7 +806,7 @@ export default function TiengAnhIndex(): React.JSX.Element {
                 <Link to="/tieng-anh/dependent-clause-1">DC
                 <sup>&nbsp;1&nbsp;</sup>
                 </Link>
-                <Link to="/tieng-anh/dependent-clause-2">
+                {/* <Link to="/tieng-anh/dependent-clause-2">
                   <sup>&nbsp;2&nbsp;</sup>
                 </Link>
                 <Link to="/tieng-anh/dependent-clause-3">
@@ -829,7 +829,7 @@ export default function TiengAnhIndex(): React.JSX.Element {
                 </Link>
                 <Link to="/tieng-anh/dependent-clause-9">
                   <sup>&nbsp;9&nbsp;</sup>
-                </Link>
+                </Link> */}
               
               </div>
               
@@ -871,7 +871,7 @@ export default function TiengAnhIndex(): React.JSX.Element {
                 <Link to="/tieng-anh/sentence-variety-1">Sentence Variety
                 <sup>&nbsp;1&nbsp;</sup>
                 </Link>
-                <Link to="/tieng-anh/sentence-variety-2">
+                {/* <Link to="/tieng-anh/sentence-variety-2">
                   <sup>&nbsp;2&nbsp;</sup>
                 </Link>
                 <Link to="/tieng-anh/sentence-variety-3">
@@ -894,7 +894,7 @@ export default function TiengAnhIndex(): React.JSX.Element {
                 </Link>
                 <Link to="/tieng-anh/sentence-variety-9">
                   <sup>&nbsp;9&nbsp;</sup>
-                </Link>
+                </Link> */}
               
               </div>
               
