@@ -52,11 +52,11 @@ export default function LegoAssembly1(): React.JSX.Element {
 
 			<p>Bạn đã dành bao nhiêu năm cuộc đời để học thuộc lòng những công thức ngữ pháp phức tạp?</p>
 
-			<p>Để rồi mỗi khi định mở miệng nói một câu, bộ não lại mất vài giây "đóng băng" để lục tìm trong trí nhớ xem phải chia động từ ra sao?</p>
+			<p>Để rồi mỗi khi định mở miệng nói một câu, bộ não lại mất vài giây "đóng băng" để lục tìm trong trí nhớ xem phải chia các khối từ ra sao?</p>
 
 			<p>Đó là cách học cũ kỹ – cách học biến tiếng Anh thành một môn toán học đầy tính đánh đố.</p>
 
-			<p>Hôm nay, mình sẽ chia sẻ với bạn một tư duy đột phá, một hệ thống tối giản hóa toàn bộ ngữ pháp tiếng Anh về một bộ khung duy nhất. Chúng ta sẽ dẹp bỏ hoàn toàn thuật ngữ "mệnh đề" hay các công thức chia thì khó hiểu để thay bằng một quy luật ghi nhớ siêu trực quan:</p>
+			<p>Hôm nay, mình sẽ chia sẻ với bạn một tư duy đột phá, một hệ thống tối giản hóa toàn bộ ngữ pháp tiếng Anh về một bộ khung duy nhất. Hệ thống này dựa trên một quy luật ghi nhớ siêu trực quan:</p>
 
 			<p className="margin-y-30"><strong>Danh</strong> - <strong>Tính</strong> - <strong>Trạng</strong> kết hợp với <strong>Cơ</strong> - <strong>Cụm</strong> - <strong>Câu</strong> (<strong>Bộ 3 chữ C</strong>).</p>
 
@@ -66,8 +66,8 @@ export default function LegoAssembly1(): React.JSX.Element {
 
 			<h3 className="margin-y-50 text-center">1. Bộ Khung Xương Duy Nhất: S Head Dependent</h3>
 			
+			<p><strong>Mọi Câu lớn</strong> (<strong>Câu trọn vẹn</strong>) có thể đứng độc lập và kết thúc bằng dấu chấm trong tiếng Anh, thực chất chỉ là sự vận hành của ba thành phần cơ bản sau:</p>
 
-			<p>Mọi Câu lớn (Câu trọn vẹn) có thể đứng độc lập và kết thúc bằng dấu chấm trong tiếng Anh, thực chất chỉ là sự vận hành của ba thành phần cơ bản sau:</p>
 
 			<h4 className="margin-y-40">S  Head  Dependent</h4>
 			
@@ -91,21 +91,38 @@ export default function LegoAssembly1(): React.JSX.Element {
 				<ul className="list-square">
 			
 					<li><strong>Head tích hợp</strong></li>
-					<li className="margin-bottom-20 list-none">Do/Does/Did tự nuốt vào trong động từ hành động ở câu khẳng định</li>
+					<li className="margin-bottom-20 list-none">Bao gồm <strong>do</strong>/<strong>does</strong>/<strong>did</strong> tự nuốt vào trong động cơ ở câu khẳng định</li>
 			
 					<li><strong>Head không tích hợp</strong></li>
-					<li className="list-none">Hiện rõ như can, will, is, are, have...</li>
+					<li className="list-none">Hiện rõ như <strong>can</strong>, <strong>will</strong>, <strong>is</strong>, <strong>are</strong>, <strong>have</strong>...</li>
 			
 				</ul>
 			
-			<p className="margin-top-20 text-indent-whole">Vì Head là hạt nhân tối cao, nên khi bạn muốn phủ định, chữ <strong>NOT luôn luôn đứng ngay sau Head</strong>. Chính vì quy luật này, chữ <strong>not</strong> sẽ chính thức bị đẩy về phía sau và thuộc về quyền quản lý của phần Dependent đứng sau nó, chứ không nằm trong Head.</p>
+			<p className="margin-top-20 text-indent-whole">Vì Head là hạt nhân tối cao, nên khi bạn muốn phủ định, chữ <strong>NOT luôn luôn đứng ngay sau Head</strong>. Chính vì quy luật này, chữ <strong>not</strong> sẽ chính thức bị đẩy về phía sau và thuộc về vùng quản lý của phần Dependent đứng sau nó, chứ không nằm trong Head.</p>
 
 
 			{/* 2.  */}
 
-			<h3 className="margin-y-50 text-center">2. Giải Mã Vùng Đất "Dependent": Hệ Thống 3 Chữ C (Cơ - Cụm - Câu)</h3>
+			<h3 className="margin-y-50 text-center">2. Giải Mã Vùng Đất "Dependent": Ma Trận 3 Chữ C</h3>
 
-			<p>Tất cả những gì đứng sau Head (Dependent) sẽ được phân loại cực kỳ gọn gàng dựa trên chức năng <strong>Danh</strong> - <strong>Tính</strong> - <strong>Trạng</strong> và được chia làm 3 cấp độ từ thấp đến cao. Bạn chỉ cần nhớ đúng ma trận 3x3 siêu dễ này:</p>
+			<p>Tất cả những gì đứng sau Head (Dependent) sẽ được phân loại cực kỳ gọn gàng dựa trên cấu trúc logic: <strong>3 chức năng</strong> (<strong>Danh</strong> - <strong>Tính</strong> - <strong>Trạng</strong>) dịch chuyển qua <strong>3 cấp độ</strong> (<strong>Cơ</strong> - <strong>Cụm</strong> - <strong>Câu</strong>).</p>
+			
+				<ul className="list-square">
+			
+					<li><strong>Cơ</strong> (<strong>Cơ bản</strong>):</li>
+					<li className="margin-bottom-20 list-none">Mức độ level cơ bản, đơn giản nhất (chỉ gồm 1 từ).</li>
+			
+					<li><strong>Cụm</strong> (<strong>Khối cụm từ</strong>):</li>
+					<li className="margin-bottom-20 list-none">Khối từ phức hợp làm một chức năng chung nhưng không có lõi chủ ngữ và hành động riêng.</li>
+			
+					<li><strong>Câu</strong> (<strong>Câu con phụ thuộc</strong>):</li>
+					<li className="list-none">Một <strong>Câu con</strong> có cấu trúc chủ ngữ và hành động riêng bên trong, nhưng bị "khóa" lại để làm nhiệm vụ phụ thuộc.</li>
+			
+				</ul>
+			
+			<p className="margin-top-20"></p>
+
+			<p>Hãy nhớ đúng ma trận 3x3 siêu dễ này:</p>
 
 			
 			<h4 className="margin-y-40">Chức năng:</h4>
@@ -123,9 +140,9 @@ export default function LegoAssembly1(): React.JSX.Element {
 					
 				<ul className="list-square">
 			
-					<li><strong>CƠ</strong> (Cơ bản - 1 từ)</li>
-					<li><strong>CỤM</strong> (Khối cụm từ)</li>
-					<li><strong>CÂU</strong> (Câu con phụ thuộc)</li>
+					<li><strong>CƠ</strong> (Mức cơ bản)</li>
+					<li><strong>CỤM</strong> (Khối cụm)</li>
+					<li><strong>CÂU</strong> (Câu con)</li>
 			
 				</ul>
 
@@ -187,7 +204,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 
 			<h4 className="margin-y-40">Cấp độ 2: S Head Phụ cụm (Mảnh khối từ)</h4>
 					
-			<p className="text-indent-whole">Khi một từ đơn không tải hết ý, ta dùng một khối cụm từ đã đóng gói sẵn để ném vào sau Head.</p>
+			<p className="text-indent-whole">Khi một từ đơn không tải hết ý, ta dùng một khối cụm từ đã đóng gói sẵn để làm chức năng cho câu.</p>
 
 
 			<p className="margin-top-20 text-indent-whole">Lắp <strong>Danh cụm</strong>:</p>
@@ -195,7 +212,8 @@ export default function LegoAssembly1(): React.JSX.Element {
 				<ul className="list-square">
 			
 					<li>I <strong>am</strong> [developing a mobile app].</li>
-					<li className="list-none">Tôi [đang phát triển một ứng dụng di động].</li>
+					<li className="margin-bottom-20 list-none">Tôi [đang phát triển một ứng dụng di động].</li>
+					<li className="list-none">→ Khối cụm hành động đóng vai trò như một danh cơ lớn</li>
 			
 				</ul>
 
@@ -204,7 +222,8 @@ export default function LegoAssembly1(): React.JSX.Element {
 				<ul className="list-square">
 			
 					<li>We <strong>met</strong> [at the coffee shop].</li>
-					<li className="list-none">Chúng tôi <strong>đã gặp</strong> [tại quán cà phê].</li>
+					<li className="margin-bottom-20 list-none">Chúng tôi <strong>đã gặp</strong> [tại quán cà phê].</li>
+					<li className="list-none">→ Khối cụm giới cơ chỉ nơi chốn đóng vai trò như một trạng cơ lớn</li>
 			
 				</ul>
 
@@ -215,11 +234,14 @@ export default function LegoAssembly1(): React.JSX.Element {
 			
 					<li>Bản chất đặc biệt của <strong>Tính cụm</strong> là bản rút gọn của <strong>Tính câu</strong></li>
 			
-					<li>Khi cấu trúc câu là: <strong>S</strong> + <strong>be</strong> (<strong>Head</strong>) + <strong>Tính cụm</strong></li>
-					<li className="list-none">Khối <strong>Tính cụm</strong> này thực chất chính là hình thức của một <strong>Tính câu đầy đủ được rút gọn lại</strong> cho súc tích (bằng cách lược bỏ đại từ quan hệ và động từ be ở câu gốc).</li>
+					<li>Khi cấu trúc câu là <strong>S</strong> + <strong>be</strong> (<strong>Head</strong>) + <strong>Tính cụm</strong></li>
+					<li className="list-none">Khối <strong>Tính cụm</strong> này (thường đứng sau bộ nguồn to be để mô tả chủ ngữ) thực chất chính là hình thức của một <strong>Tính câu đầy đủ được rút gọn lại</strong> cho súc tích.</li>
 			
 				</ul>
 
+			
+
+			<p className="margin-top-20 text-indent-whole">Hãy nhìn cách hai câu biến đổi, bản chất ý nghĩa của Tính cụm sau Head không hề thay đổi:</p>
 
 			<p className="margin-y-40 text-indent-whole">Ví dụ 1:</p>
 
@@ -236,8 +258,8 @@ export default function LegoAssembly1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>The app which is [developed by my team is successful].</li>
-					<li className="list-none">Ứng dụng [mà được phát triển bởi đội ngũ của tôi thì rất thành công].</li>
+					<li>The app [which is developed by my team] is successful.</li>
+					<li className="list-none">Ứng dụng [mà được phát triển bởi đội ngũ của tôi] thì rất thành công.</li>
 			
 				</ul>
 
@@ -288,10 +310,10 @@ export default function LegoAssembly1(): React.JSX.Element {
 
 			<h4 className="margin-y-40">Cấp độ 3: S Head Phụ câu (Mảnh câu con cao cấp)</h4>
 
-			<p className="text-indent-whole">Vùng Dependent lúc này là cả một Câu con có cấu trúc S-V riêng bên trong, nhưng bị "khóa" lại bởi một từ kết nối để làm nhiệm vụ phụ thuộc.</p>
+			<p className="text-indent-whole">Vùng Dependent lúc này là cả một <strong>Câu con</strong> có cấu trúc S-V riêng bên trong, nhưng bị "khóa" lại bởi một từ kết nối để thực hiện chức năng Danh - Tính - Trạng.</p>
 
 
-			<p className="margin-top-20 text-indent-whole">Lắp <strong>Danh câu</strong> (Làm chức năng như một danh từ):</p>
+			<p className="margin-top-20 text-indent-whole">Lắp <strong>Danh câu</strong> (Câu con làm chức năng <strong>danh cơ</strong>):</p>
 			
 				<ul className="list-square">
 			
@@ -301,7 +323,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 				</ul>
 
 
-			<p className="margin-top-20 text-indent-whole">Lắp <strong>Tính câu</strong> (Đứng sau để mô tả cho một danh từ):</p>
+			<p className="margin-top-20 text-indent-whole">Lắp <strong>Tính câu</strong> (Câu con làm chức năng <strong>tính cơ</strong>, đứng sau mô tả cho một danh cụm):</p>
 			
 				<ul className="list-square">
 			
@@ -311,7 +333,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 				</ul>
 			
 					
-			<p className="margin-top-20 text-indent-whole">Lắp <strong>Trạng câu</strong> (Chỉ nguyên nhân, bối cảnh, lý do):</p>
+			<p className="margin-top-20 text-indent-whole">Lắp <strong>Trạng câu</strong> (Câu con làm chức năng <strong>trạng cơ</strong>, chỉ nguyên nhân, bối cảnh):</p>
 			
 				<ul className="list-square">
 			
@@ -376,7 +398,17 @@ export default function LegoAssembly1(): React.JSX.Element {
 
 			<h4 className="margin-y-40">Bí mật của "Head Tàng Hình" (Tích hợp)</h4>
 					
-			<p className="text-indent-whole">Ở thể khẳng định của Hiện tại đơn và Quá khứ đơn, các Head <strong>Do</strong>/<strong>Does</strong>/<strong>Did</strong> có đặc tính "nuốt" vào trong động từ hành động (<strong>Do</strong> nhập vào <strong>cook</strong> thành <strong>cook</strong>, <strong>Did</strong> nhập vào <strong>cook</strong> thành <strong>cooked</strong>).</p>
+			<p className="text-indent-whole">Ở thể khẳng định của một số câu đơn giản, các Head do/does/did có đặc tính "nuốt" vào trong <strong>động cơ</strong> hành động:</p>
+			
+				<ul className="list-square">
+			
+					<li><strong>Do</strong> nhập vào <strong>develop</strong> thành <strong>develop</strong>, <strong>Did</strong> nhập vào <strong>develop</strong> thành <strong>developed</strong></li>
+			
+					<li><strong>Do</strong> nhập vào <strong>cook</strong> thành <strong>cook</strong>, <strong>Did</strong> nhập vào <strong>cook</strong> thành <strong>cooked</strong></li>
+			
+				</ul>
+			
+			<p className="margin-top-20"></p>
 
 			<p className="text-indent-whole">Nhưng khi làm câu Phủ định hoặc Nghi vấn, <strong>Head bắt buộc phải tách ra và lộ diện</strong>:</p>
 
@@ -384,6 +416,13 @@ export default function LegoAssembly1(): React.JSX.Element {
 			<p className="margin-top-20 text-indent-whole"><strong>Khẳng định</strong> (Ẩn Head):</p>
 			
 				<ul className="list-square">
+
+					<li>I developed [the app].</li>
+					<li className="margin-bottom-20 list-none">Tôi đã phát triển [ứng dụng đó].</li>
+
+					<li>I <strong>did</strong> [develop the app]. (Bản chất gốc)</li>
+					<li className="list-none">Tôi <strong>đã</strong> [đã phát triển ứng dụng đó mà].</li>
+					<li className="margin-bottom-20 list-none">Câu khẳng định mang tính nhấn mạnh</li>
 			
 					<li>I cooked [dinner].</li>
 					<li className="margin-bottom-20 list-none">Tôi đã nấu [bữa tối].</li>
@@ -398,6 +437,9 @@ export default function LegoAssembly1(): React.JSX.Element {
 			<p className="margin-top-20 text-indent-whole"><strong>Phủ định</strong> (Lộ Head và NOT):</p>
 			
 				<ul className="list-square">
+
+					<li>I did [<strong>NOT</strong> develop the app].</li>
+					<li className="margin-bottom-20 list-none">Tôi đã [<strong>không</strong> phát triển ứng dụng đó].</li>
 			
 					<li>I did [<strong>NOT</strong> cook dinner].</li>
 					<li className="list-none">Tôi đã [<strong>không</strong> nấu bữa tối].</li>
@@ -408,6 +450,9 @@ export default function LegoAssembly1(): React.JSX.Element {
 			<p className="margin-top-20 text-indent-whole"><strong>Nghi vấn</strong> (Nhấc Head lên đầu):</p>
 			
 				<ul className="list-square">
+
+					<li><strong>Did</strong> I [develop the app]?</li>
+					<li className="margin-bottom-20 list-none">Tôi <strong>đã</strong> [phát triển ứng dụng đó] <strong>phải không</strong>?</li>
 			
 					<li><strong>Did</strong> I [cook dinner]?</li>
 					<li className="list-none">Tôi <strong>đã</strong> [nấu bữa tối] <strong>phải không</strong>?</li>
@@ -432,9 +477,9 @@ export default function LegoAssembly1(): React.JSX.Element {
 				</ul>
 			
 
-			<h4 className="margin-y-40">2. Đóng gói dữ liệu thần tốc (Chunking)</h4>
+			<h4 className="margin-y-40">2. Đóng gói dữ liệu thần tốc (Chunking):</h4>
 					
-			<p className="text-indent-whole">Khi nói hoặc viết, bạn không dịch lạch cạch từng từ đơn lẻ theo kiểu tiếng Việt (nấu -{'>'} bữa -{'>'} tối). Bộ não của bạn chỉ làm 2 việc:</p>
+			<p className="text-indent-whole">Khi nói hoặc viết, bạn không dịch lạch cạch từng từ đơn lẻ. Bộ não của bạn chỉ làm 2 việc:</p>
 
 			<p className="text-indent-whole">Chốt khung nguồn (<strong>I am</strong>... / <strong>She will</strong>...) và nhấc nguyên một hộp <strong>Cơ</strong>, <strong>Cụm</strong>, hoặc <strong>Câu</strong> tương ứng với ý mình muốn nói để ném vào phía sau Head. Tốc độ phản xạ sẽ tăng lên gấp nhiều lần.</p>
 		
