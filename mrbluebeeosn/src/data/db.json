@@ -1805,6 +1805,17 @@
       "likes": 0
     },
     {
+      "id": "NineBox1",
+      "categoryDisplay": "Tiếng Anh",
+      "categorySlug": "tieng-anh",
+      "title": "Nine Box 1",
+      "content": "Nine Box 1: KIẾN TRÚC TƯ DUY 3X3: LẬP TRÌNH LẠI NÃO BỘ ĐỂ LÀM CHỦ TIẾNG ANH LOGIC",
+      "slug": "tieng-anh/nine-box1",
+      "date": "2026-06-08",
+      "views": 0,
+      "likes": 0
+    },
+    {
       "id": "Accurately1",
       "categoryDisplay": "Tính chính xác",
       "categorySlug": "vocabulary#tinh-chinh-xac-terms",

@@ -146,6 +146,8 @@ const Posts = lazy(() => import('@/data/Posts'));
 	const BiMatVeTuDuyNgonNgu2 = lazy(() => import('@/2_main/english/tienganh/folder/BiMatVeTuDuyNgonNgu2'));
 	const BiMatVeTuDuyNgonNgu3 = lazy(() => import('@/2_main/english/tienganh/folder/BiMatVeTuDuyNgonNgu3'));
 
+	const NineBox1 = lazy(() => import('@/2_main/english/tienganh/article/3x3/NineBox1'));
+	
 	const SV1 = lazy(() => import('@/2_main/english/tienganh/article/sv/SV1'));
 	const SV2 = lazy(() => import('@/2_main/english/tienganh/article/sv/SV2'));
 	const SV3 = lazy(() => import('@/2_main/english/tienganh/article/sv/SV3'));
@@ -724,6 +726,8 @@ export default function AppRoutes(): React.JSX.Element {
 					<Route path="/tieng-anh/bi-mat-ve-tu-duy-ngon-ngu-2" element={<BiMatVeTuDuyNgonNgu2 />} />
 					<Route path="/tieng-anh/bi-mat-ve-tu-duy-ngon-ngu-3" element={<BiMatVeTuDuyNgonNgu3 />} />
 
+					<Route path="/tieng-anh/nine-box-1" element={<NineBox1 />} />
+					
 					<Route path="/tieng-anh/s-v-1" element={<SV1 />} />
 					<Route path="/tieng-anh/s-v-2" element={<SV2 />} />
 					<Route path="/tieng-anh/s-v-3" element={<SV3 />} />

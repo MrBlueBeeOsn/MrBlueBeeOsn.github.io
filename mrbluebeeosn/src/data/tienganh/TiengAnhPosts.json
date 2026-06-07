@@ -1052,6 +1052,15 @@
 			"content": "SV9:",
 			"slug": "tieng-anh/s-v-9",
 			"date": "2026-06-05"
+		},
+		{
+			"id": "NineBox1",
+			"categoryDisplay": "Tiếng Anh",
+			"categorySlug": "tieng-anh",
+			"title": "Nine Box 1",
+			"content": "Nine Box 1: KIẾN TRÚC TƯ DUY 3X3: LẬP TRÌNH LẠI NÃO BỘ ĐỂ LÀM CHỦ TIẾNG ANH LOGIC",
+			"slug": "tieng-anh/nine-box1",
+			"date": "2026-06-08"
 		}
 	]
 }
