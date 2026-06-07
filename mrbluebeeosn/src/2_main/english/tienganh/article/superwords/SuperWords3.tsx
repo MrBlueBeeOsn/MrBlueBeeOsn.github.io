@@ -48,7 +48,7 @@ export default function SuperWords3(): React.JSX.Element {
 
 			</h1>
 
-			<h4 className="margin-bottom-30 text-center">Siêu Danh Cơ, Siêu Tính Cơ, Siêu Trạng Cơ – Cách Gọi Mới Giúp Học Mệnh Đề Tiếng Anh Dễ Hơn</h4>
+			<h4 className="margin-bottom-30 text-center">Siêu Danh Cơ, Siêu Tính Cơ, Siêu Trạng Cơ – Cách Gọi Mới Giúp Học Câu Con Tiếng Anh Dễ Hơn</h4>
 
 			<p></p>
 

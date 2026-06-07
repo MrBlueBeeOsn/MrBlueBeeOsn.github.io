@@ -48,7 +48,7 @@ export default function ThreeDC3(): React.ReactElement {
 
 			</h1>
 
-			<h4 className="margin-bottom-30 text-center">Làm Chủ Bộ 3 Mệnh Đề Trong Tiếng Anh: Chìa Khóa Để Lên Trình Advanced</h4>
+			<h4 className="margin-bottom-30 text-center">Làm Chủ Bộ 3 Câu Con Trong Tiếng Anh: Chìa Khóa Để Lên Trình Advanced</h4>
 
 			<p></p>
 
@@ -59,7 +59,7 @@ export default function ThreeDC3(): React.ReactElement {
 
 			{/* 1.  */}
 
-			<h3 className="margin-y-50 text-center">1. Tổng quan Bộ 3 Mệnh đề</h3>
+			<h3 className="margin-y-50 text-center">1. Tổng quan Bộ 3 Câu con</h3>
 
 			<p></p>
 
@@ -67,7 +67,7 @@ export default function ThreeDC3(): React.ReactElement {
 			
 			<p></p>
 
-			<h4 className="margin-y-40">Mệnh đề Trạng ngữ (Adverb Clause)</h4>
+			<h4 className="margin-y-40">Câu con Trạng ngữ (Adverb Clause)</h4>
 					
 			<p className="text-indent-whole"></p>
 
@@ -95,7 +95,7 @@ export default function ThreeDC3(): React.ReactElement {
 			<p className="margin-top-20"></p>
 
 
-			<h4 className="margin-y-40">Mệnh đề Tính ngữ (Adjective Clause)</h4>
+			<h4 className="margin-y-40">Câu con Tính ngữ (Adjective Clause)</h4>
 					
 			<p className="text-indent-whole"></p>
 
@@ -123,7 +123,7 @@ export default function ThreeDC3(): React.ReactElement {
 			<p className="margin-top-20"></p>
 
 
-			<h4 className="margin-y-40">Mệnh đề Danh ngữ (Noun Clause)</h4>
+			<h4 className="margin-y-40">Câu con Danh ngữ (Noun Clause)</h4>
 					
 			<p className="text-indent-whole"></p>
 
@@ -153,7 +153,7 @@ export default function ThreeDC3(): React.ReactElement {
 
 			{/* 2.  */}
 
-			<h3 className="margin-y-50 text-center">2. Mệnh đề Trạng ngữ (Adverb Clause)</h3>
+			<h3 className="margin-y-50 text-center">2. Câu con Trạng ngữ (Adverb Clause)</h3>
 
 			<p></p>
 
@@ -192,7 +192,7 @@ export default function ThreeDC3(): React.ReactElement {
 
 			{/* 3.  */}
 
-			<h3 className="margin-y-50 text-center">3. Mệnh đề Tính ngữ (Adjective Clause / Relative Clause)</h3>
+			<h3 className="margin-y-50 text-center">3. Câu con Tính ngữ (Adjective Clause / Relative Clause)</h3>
 
 			<p></p>
 
@@ -256,7 +256,7 @@ export default function ThreeDC3(): React.ReactElement {
 
 			{/* 4.  */}
 
-			<h3 className="margin-y-50 text-center">4. Mệnh đề Danh ngữ (Noun Clause)</h3>
+			<h3 className="margin-y-50 text-center">4. Câu con Danh ngữ (Noun Clause)</h3>
 
 			<p></p>
 
@@ -288,7 +288,7 @@ export default function ThreeDC3(): React.ReactElement {
 
 			{/* 5.  */}
 
-			<h3 className="margin-y-50 text-center">5. Kỹ thuật Nâng cao – Kết hợp Bộ 3 Mệnh đề</h3>
+			<h3 className="margin-y-50 text-center">5. Kỹ thuật Nâng cao – Kết hợp Bộ 3 Câu con</h3>
 
 			<p></p>
 
@@ -313,7 +313,7 @@ export default function ThreeDC3(): React.ReactElement {
 
 			{/* 6.  */}
 
-			<h3 className="margin-y-50 text-center">6. Lỗi thường gặp khi học Bộ 3 Mệnh đề</h3>
+			<h3 className="margin-y-50 text-center">6. Lỗi thường gặp khi học Bộ 3 Câu con</h3>
 
 			<p></p>
 
@@ -338,7 +338,7 @@ export default function ThreeDC3(): React.ReactElement {
 
 			{/* 7.  */}
 
-			<h3 className="margin-y-50 text-center">7. Phương pháp học hiệu quả để làm chủ Bộ 3 Mệnh đề</h3>
+			<h3 className="margin-y-50 text-center">7. Phương pháp học hiệu quả để làm chủ Bộ 3 Câu con</h3>
 
 			<p></p>
 
@@ -378,7 +378,7 @@ export default function ThreeDC3(): React.ReactElement {
 
 			<p></p>
 
-			<h4 className="margin-y-40">Chỉ học Bộ 3 Mệnh đề có đủ để lên Advanced?</h4>
+			<h4 className="margin-y-40">Chỉ học Bộ 3 Câu con có đủ để lên Advanced?</h4>
 					
 			<p className="text-indent-whole"></p>
 

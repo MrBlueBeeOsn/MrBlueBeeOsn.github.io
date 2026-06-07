@@ -48,7 +48,7 @@ export default function SuperWords7(): React.JSX.Element {
 
 			</h1>
 
-			<h4 className="margin-bottom-30 text-center">Siêu Danh Cơ, Siêu Tính Cơ, Siêu Trạng Cơ: Cách Gọi Song Ngữ Thông Minh Để "Bẻ Gãy" Mệnh Đề Tiếng Anh</h4>
+			<h4 className="margin-bottom-30 text-center">Siêu Danh Cơ, Siêu Tính Cơ, Siêu Trạng Cơ: Cách Gọi Song Ngữ Thông Minh Để "Bẻ Gãy" Câu Con Tiếng Anh</h4>
 
 			<p></p>
 
@@ -79,21 +79,21 @@ export default function SuperWords7(): React.JSX.Element {
 
 			{/* 1.  */}
 
-			<h3 className="margin-y-50 text-center">1️⃣ Super-noun (Siêu Danh Cơ) = Mệnh Đề Danh Cơ / Noun Clause</h3>
+			<h3 className="margin-y-50 text-center">1️⃣ Super-noun (Siêu Danh Cơ) = Câu Con Danh Cơ / Noun Clause</h3>
 
 			<p></p>
 
 
 			{/* 2.  */}
 
-			<h3 className="margin-y-50 text-center">2️⃣ Super-adjective (Siêu Tính Cơ) = Mệnh Đề Tính Cơ / Adjective Clause</h3>
+			<h3 className="margin-y-50 text-center">2️⃣ Super-adjective (Siêu Tính Cơ) = Câu Con Tính Cơ / Adjective Clause</h3>
 
 			<p></p>
 
 
 			{/* 3.  */}
 
-			<h3 className="margin-y-50 text-center">3️⃣ Super-adverb (Siêu Trạng Cơ) = Mệnh Đề Trạng Ngữ / Adverb Clause</h3>
+			<h3 className="margin-y-50 text-center">3️⃣ Super-adverb (Siêu Trạng Cơ) = Câu Con Trạng Ngữ / Adverb Clause</h3>
 
 			<p></p>
 
@@ -290,7 +290,7 @@ export default function SuperWords7(): React.JSX.Element {
 
 			{/* 4.  */}
 
-			<h3 className="margin-y-50 text-center">📊 Bảng So Sánh Tổng Hợp: 3 "Siêu Nhân" Mệnh Đề</h3>
+			<h3 className="margin-y-50 text-center">📊 Bảng So Sánh Tổng Hợp: 3 "Siêu Nhân" Câu Con</h3>
 
 			<p></p>
 

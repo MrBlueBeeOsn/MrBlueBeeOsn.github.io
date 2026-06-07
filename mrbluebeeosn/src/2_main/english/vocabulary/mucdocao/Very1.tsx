@@ -57,7 +57,7 @@ export default function Very1(): React.JSX.Element {
 
       </div>
 
-      <p className="margin-top-30 text-indent-whole">Dùng để nhấn mạnh mức độ của một tính từ hoặc một trạng từ khác, cho thấy một đặc điểm nào đó ở mức độ cao.</p>
+      <p className="margin-top-30 text-indent-whole">Dùng để nhấn mạnh mức độ của một tính cơ hoặc một trạng cơ khác, cho thấy một đặc điểm nào đó ở mức độ cao.</p>
 
       <p className="text-indent-whole">Ví dụ:</p>
 
@@ -83,7 +83,7 @@ export default function Very1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li className="list-none">Không có gia đình từ trực tiếp cho "<strong>very</strong>". Tuy nhiên, "<strong>very</strong>" thường được kết hợp với các tính từ và trạng từ khác để tạo thành các cụm từ mới.</li>
+          <li className="list-none">Không có gia đình từ trực tiếp cho "<strong>very</strong>". Tuy nhiên, "<strong>very</strong>" thường được kết hợp với các tính cơ và trạng cơ khác để tạo thành các cụm từ mới.</li>
 
         </ul>
 
@@ -218,11 +218,11 @@ export default function Very1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>"<strong>Very</strong>" thường đứng trước tính từ hoặc trạng từ.</li>
+          <li>"<strong>Very</strong>" thường đứng trước tính cơ hoặc trạng cơ.</li>
 
           <li>"<strong>Very</strong>" có thể được sử dụng để nhấn mạnh cả tính chất tích cực và tiêu cực.</li>
 
-          <li className="margin-bottom-20">Để tránh lạm dụng "<strong>very</strong>", bạn có thể sử dụng các tính từ hoặc trạng từ mạnh hơn hoặc các cấu trúc so sánh hơn.</li>
+          <li className="margin-bottom-20">Để tránh lạm dụng "<strong>very</strong>", bạn có thể sử dụng các tính cơ hoặc trạng cơ mạnh hơn hoặc các cấu trúc so sánh hơn.</li>
 
         </ul>
 

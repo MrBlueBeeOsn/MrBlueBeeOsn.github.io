@@ -64,7 +64,7 @@ export default function SentenceVariety2(): React.JSX.Element {
 
 			<h4 className="margin-y-40">1. Simple (đơn)</h4>
 					
-			<p className="text-indent-whole">1 mệnh đề độc lập</p>
+			<p className="text-indent-whole">1 câu con độc lập</p>
 			
 				<ul className="list-square">
 			
@@ -75,7 +75,7 @@ export default function SentenceVariety2(): React.JSX.Element {
 
 			<h4 className="margin-y-40">2. Compound (ghép đẳng lập)</h4>
 					
-			<p className="text-indent-whole">2 mệnh đề độc lập + liên từ (and, but, or, so…)</p>
+			<p className="text-indent-whole">2 câu con độc lập + liên cơ (and, but, or, so…)</p>
 			
 				<ul className="list-square">
 			
@@ -87,7 +87,7 @@ export default function SentenceVariety2(): React.JSX.Element {
 
 			<h4 className="margin-y-40">3. Complex (ghép chính phụ)</h4>
 					
-			<p className="text-indent-whole">1 mệnh đề độc lập + 1 mệnh đề phụ thuộc (because, although, when, if…)</p>
+			<p className="text-indent-whole">1 câu con độc lập + 1 phụ câu (because, although, when, if…)</p>
 			
 				<ul className="list-square">
 			
@@ -99,7 +99,7 @@ export default function SentenceVariety2(): React.JSX.Element {
 
 			<h4 className="margin-y-40">4. Compound-Complex (ghép hỗn hợp)</h4>
 					
-			<p className="text-indent-whole">2 mệnh đề độc lập + 1+ mệnh đề phụ thuộc</p>
+			<p className="text-indent-whole">2 câu con độc lập + 1+ phụ câu</p>
 			
 				<ul className="list-square">
 			
@@ -240,7 +240,7 @@ export default function SentenceVariety2(): React.JSX.Element {
 			
 			<h4 className="margin-y-40">Bước 2:</h4>
 
-			<p className="text-indent-whole">Thêm một mệnh đề phụ để mở rộng</p>
+			<p className="text-indent-whole">Thêm một câu con phụ để mở rộng</p>
 
 			<p className="text-indent-whole">Dùng when, because, although, if…</p>
 
@@ -254,7 +254,7 @@ export default function SentenceVariety2(): React.JSX.Element {
 
 			<h4 className="margin-y-40">Bước 3:</h4>
 
-			<p className="text-indent-whole">Nối thêm một mệnh đề độc lập bằng <strong>and</strong>, <strong>but</strong>, <strong>so</strong>, <strong>or</strong></p>
+			<p className="text-indent-whole">Nối thêm một câu con độc lập bằng <strong>and</strong>, <strong>but</strong>, <strong>so</strong>, <strong>or</strong></p>
 
 				<ul className="list-square">
 			
@@ -265,7 +265,7 @@ export default function SentenceVariety2(): React.JSX.Element {
 					
 			<p className="margin-top-20 text-indent-whole">Thế là từ 3 từ bạn đã có một câu hỗn hợp (compound-complex) 12 từ, giàu cảm xúc và nhịp điệu.</p>
 
-			<p className="text-indent-whole">🔁 Nguyên tắc vàng: <strong>Mỗi câu phức tạp nên có duy nhất một mệnh đề phụ</strong> nếu bạn mới bắt đầu. Đừng nhồi nhét.</p>
+			<p className="text-indent-whole">🔁 Nguyên tắc vàng: <strong>Mỗi câu phức tạp nên có duy nhất một câu con phụ</strong> nếu bạn mới bắt đầu. Đừng nhồi nhét.</p>
 
 
 			{/* 4. Cách nhận biết các loại câu khi đọc – mẹo "từ khóa" */}
@@ -277,12 +277,12 @@ export default function SentenceVariety2(): React.JSX.Element {
 				<ul className="list-square">
 			
 					<li>Thấy <strong>and</strong>, <strong>but</strong>, <strong>or</strong>, <strong>so</strong>, <strong>for</strong>, <strong>nor</strong>, <strong>yet</strong></li>
-					<li className=" margin-bottom-20 list-none">→ có thể là compound (nối 2 mệnh đề độc lập)</li>
+					<li className=" margin-bottom-20 list-none">→ có thể là compound (nối 2 câu con độc lập)</li>
 
 					<li>Thấy <strong>because</strong>, <strong>although</strong>, <strong>if</strong>, <strong>when</strong>, <strong>while</strong>, <strong>since</strong>, <strong>unless</strong>, <strong>as soon as</strong></li>
 					<li className=" margin-bottom-20 list-none">→ complex hoặc compound-complex</li>
 			
-					<li>Không thấy từ nối nào, chỉ một chủ ngữ + một động từ chính</li>
+					<li>Không thấy từ nối nào, chỉ một chủ ngữ + một động cơ chính</li>
 					<li className="list-none">→ simple</li>
 			
 				</ul>

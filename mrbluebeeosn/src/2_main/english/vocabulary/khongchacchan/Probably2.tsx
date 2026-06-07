@@ -48,7 +48,7 @@ export default function Probably2(): React.JSX.Element {
               
             </span>
               
-            &nbsp;là một trạng từ chỉ khả năng, thường được dùng để diễn tả sự không chắc chắn hoàn toàn nhưng có khả năng xảy ra cao.
+            &nbsp;là một trạng cơ chỉ khả năng, thường được dùng để diễn tả sự không chắc chắn hoàn toàn nhưng có khả năng xảy ra cao.
 
           </p>
 
@@ -116,7 +116,7 @@ export default function Probably2(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>"<strong>Probably</strong>" thường đứng ở đầu câu hoặc trước động từ để bổ nghĩa.</li>
+          <li>"<strong>Probably</strong>" thường đứng ở đầu câu hoặc trước động cơ để bổ nghĩa.</li>
 
           <li className="margin-bottom-20">Từ này có thể được thay thế bằng các từ đồng nghĩa như "likely", "<Link to="/vocabulary/possibly-1">possibly</Link>", "<Link to="/vocabulary/perhaps-1">perhaps</Link>" để tạo sự đa dạng trong văn phong.</li>
 

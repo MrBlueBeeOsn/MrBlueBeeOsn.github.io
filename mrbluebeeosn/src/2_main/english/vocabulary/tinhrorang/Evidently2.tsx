@@ -48,7 +48,7 @@ export default function Evidently2(): React.JSX.Element {
 							
 						</span>
 							
-						&nbsp;là một trạng từ dùng để nhấn mạnh rằng một điều gì đó rất rõ ràng, dễ thấy hoặc có thể được suy luận ra từ những bằng chứng có sẵn.
+						&nbsp;là một trạng cơ dùng để nhấn mạnh rằng một điều gì đó rất rõ ràng, dễ thấy hoặc có thể được suy luận ra từ những bằng chứng có sẵn.
 
 					</p>
 
@@ -116,7 +116,7 @@ export default function Evidently2(): React.JSX.Element {
 
 				<ul className="list-square">
 
-					<li>"<strong>Evidently</strong>" thường được đặt ở đầu câu hoặc trước một tính từ hoặc cụm tính từ để nhấn mạnh.</li>
+					<li>"<strong>Evidently</strong>" thường được đặt ở đầu câu hoặc trước một tính cơ hoặc tính cụm để nhấn mạnh.</li>
 
 					<li className="margin-bottom-20">Từ này thường được sử dụng trong văn nói và văn viết để tạo ra một giọng điệu chắc chắn và thuyết phục.</li>
 

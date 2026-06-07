@@ -116,7 +116,7 @@ export default function Especially2(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>"<strong>Especially</strong>" thường được đặt trước danh từ, tính từ hoặc mệnh đề.</li>
+          <li>"<strong>Especially</strong>" thường được đặt trước danh cơ, tính cơ hoặc câu con.</li>
 
           <li className="margin-bottom-20">Từ này thường được sử dụng trong văn nói và văn viết để làm cho câu nói thêm phần nhấn mạnh.</li>
 

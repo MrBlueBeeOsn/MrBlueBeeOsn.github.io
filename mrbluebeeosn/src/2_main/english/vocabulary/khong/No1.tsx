@@ -224,9 +224,9 @@ export default function No1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>"<strong>No</strong>" có thể đứng một mình để trả lời câu hỏi hoặc đặt ở đầu câu để phủ định một mệnh đề.</li>
+          <li>"<strong>No</strong>" có thể đứng một mình để trả lời câu hỏi hoặc đặt ở đầu câu để phủ định một câu con.</li>
 
-          <li className="margin-bottom-20">"<strong>No</strong>" cũng có thể được dùng để tạo thành câu phủ định với động từ "to be" (am, is, are, was, were).</li>
+          <li className="margin-bottom-20">"<strong>No</strong>" cũng có thể được dùng để tạo thành câu phủ định với động cơ "to be" (am, is, are, was, were).</li>
 
         </ul>
 

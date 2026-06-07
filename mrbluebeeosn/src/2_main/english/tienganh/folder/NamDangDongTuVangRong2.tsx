@@ -29,9 +29,9 @@ export default function NamDangDongTuVangRong2(): React.JSX.Element {
 
 			<h4 className="margin-bottom-30 text-center">Từ "Ngại Nói" Thành "Nói Đã Tai" Chỉ Với 12 Động Cơ Siêu Phổ Biến! 🔥</h4>
 
-			<p>Bạn có từng rơi vào tình huống: muốn nói tiếng Anh mà đầu óc cứ quay mòng mòng "dùng thì nào bây giờ?", "động từ này chia ra sao?"?</p>
+			<p>Bạn có từng rơi vào tình huống: muốn nói tiếng Anh mà đầu óc cứ quay mòng mòng "dùng thì nào bây giờ?", "động cơ này chia ra sao?"?</p>
 
-			<p>Tin vui: Chỉ cần nắm chắc <strong>12 động từ thông dụng nhất</strong> cùng <strong>5 dạng cơ bản</strong> của chúng, bạn sẽ tự tin "bung lụa" trong hầu hết các cuộc trò chuyện đời thường – từ chat chit bạn bè, phỏng vấn xin việc, đến kể chuyện du lịch.</p>
+			<p>Tin vui: Chỉ cần nắm chắc <strong>12 động cơ thông dụng nhất</strong> cùng <strong>5 dạng cơ bản</strong> của chúng, bạn sẽ tự tin "bung lụa" trong hầu hết các cuộc trò chuyện đời thường – từ chat chit bạn bè, phỏng vấn xin việc, đến kể chuyện du lịch.</p>
 
 			<h3 className="margin-y-50 text-center" id="bang-vang-12-dong-tu">Bảng "Vàng" 12 Động Cơ – Nắm Là Dùng Ngay</h3>
 
@@ -238,7 +238,7 @@ export default function NamDangDongTuVangRong2(): React.JSX.Element {
 			
 				<ul className="list-square">
 
-					<li><strong>Ngày 1</strong>: Học thuộc 6 động từ đầu.</li>
+					<li><strong>Ngày 1</strong>: Học thuộc 6 động cơ đầu.</li>
 
 					<li><strong>Ngày 2</strong>: Viết 5 câu mỗi dạng.</li>
 			
@@ -256,7 +256,7 @@ export default function NamDangDongTuVangRong2(): React.JSX.Element {
 
 			<p className="margin-top-20">Chỉ 10–15 phút mỗi ngày, sau 1 tuần bạn sẽ nhận ra: "Ơ, sao mình nói tự nhiên hơn hẳn vậy ta?"</p>
 
-			<p>12 động từ nhỏ xíu này chính là <strong>chìa khóa mở cửa</strong> để bạn bước vào thế giới tiếng Anh thoải mái, không còn sợ sai nữa.</p>
+			<p>12 động cơ nhỏ xíu này chính là <strong>chìa khóa mở cửa</strong> để bạn bước vào thế giới tiếng Anh thoải mái, không còn sợ sai nữa.</p>
 
 			<p>Cứ bắt đầu đi, mình ở đây cổ vũ bạn! 💪✨</p>
 

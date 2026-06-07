@@ -102,7 +102,7 @@ export default function EVArticlesQuiz(): React.JSX.Element {
 				"(no article)"
 			],
 			correctAnswer: 3,
-			explanation: "Không dùng mạo từ trước tên các bữa ăn (breakfast, lunch, dinner) trừ khi có tính từ đứng trước hoặc nói về một bữa ăn cụ thể."
+			explanation: "Không dùng mạo từ trước tên các bữa ăn (breakfast, lunch, dinner) trừ khi có tính cơ đứng trước hoặc nói về một bữa ăn cụ thể."
 		},
 		{
 			id: 8,

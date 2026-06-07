@@ -52,7 +52,7 @@ export default function SuperWords1(): React.JSX.Element {
 
 			<p>Bạn đã bao giờ rơi vào trạng thái "đứng hình" khi nhìn vào một câu tiếng Anh dài ba, bốn dòng trong các bài đọc hiểu hay tài liệu chuyên ngành chưa?</p>
 
-			<p>Khi lật mở các cuốn sách ngữ pháp dày cộm, đập vào mắt bạn sẽ là hàng loạt khái niệm như mệnh đề danh ngữ, mệnh đề quan hệ hạn định, mệnh đề trạng ngữ chỉ kết quả...</p>
+			<p>Khi lật mở các cuốn sách ngữ pháp dày cộm, đập vào mắt bạn sẽ là hàng loạt khái niệm như câu con danh ngữ, câu con quan hệ hạn định, câu con trạng ngữ chỉ kết quả...</p>
 
 			<p>Những thuật ngữ hàn lâm này vô tình tạo ra một bức tường tâm lý, khiến chúng ta cảm thấy tiếng Anh bản xứ là một thứ gì đó vô cùng phức tạp và xa vời.</p>
 
@@ -93,11 +93,11 @@ export default function SuperWords1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li><strong>Super</strong>-<strong>Noun</strong> (Siêu danh từ) = <strong>Danh câu</strong> (Câu con làm chức năng danh từ)</li>
+					<li><strong>Super</strong>-<strong>Noun</strong> (Siêu danh cơ) = <strong>Danh câu</strong> (Câu con làm chức năng danh cơ)</li>
 			
-					<li><strong>Super</strong>-<strong>Adjective</strong> (Siêu tính từ) = <strong>Tính câu</strong> (Câu con làm chức năng tính từ)</li>
+					<li><strong>Super</strong>-<strong>Adjective</strong> (Siêu tính cơ) = <strong>Tính câu</strong> (Câu con làm chức năng tính cơ)</li>
 			
-					<li><strong>Super</strong>-<strong>Adverb</strong> (Siêu trạng từ) = <strong>Trạng câu</strong> (Câu con làm chức năng trạng từ)</li>
+					<li><strong>Super</strong>-<strong>Adverb</strong> (Siêu trạng cơ) = <strong>Trạng câu</strong> (Câu con làm chức năng trạng cơ)</li>
 			
 				</ul>
 			
@@ -106,7 +106,7 @@ export default function SuperWords1(): React.JSX.Element {
 
 			<h3 className="margin-y-50 text-center">1. Super-Noun: Danh cụm tiến hóa thành "Danh câu"</h3>
 
-			<p>Một danh từ đơn đóng vai trò làm gì trong câu (làm Chủ ngữ đứng đầu câu, hoặc làm Tân ngữ đứng sau động từ), thì <strong>Super</strong>-<strong>Noun</strong> làm đúng nhiệm vụ đó. Khi nó ở dạng cụm từ, ta gọi là <strong>Danh cụm</strong>. Khi nó phình to ra thành một câu con, ta gọi là <strong>Danh câu</strong>. Sự khác biệt duy nhất là kích thước lớn hơn và chứa nhiều thông tin hơn.</p>
+			<p>Một danh cơ đơn đóng vai trò làm gì trong câu (làm Chủ ngữ đứng đầu câu, hoặc làm Tân ngữ đứng sau động cơ), thì <strong>Super</strong>-<strong>Noun</strong> làm đúng nhiệm vụ đó. Khi nó ở dạng cụm từ, ta gọi là <strong>Danh cụm</strong>. Khi nó phình to ra thành một câu con, ta gọi là <strong>Danh câu</strong>. Sự khác biệt duy nhất là kích thước lớn hơn và chứa nhiều thông tin hơn.</p>
 
 			<p>Hãy nhìn vào hành trình thăng tiến này:</p>
 
@@ -118,7 +118,7 @@ export default function SuperWords1(): React.JSX.Element {
 					<li>I know <strong>the secret</strong>.</li>
 					<li className="margin-bottom-20 list-none">Tôi biết <strong>bí mật đó</strong>.</li>
 
-					<li className="list-none">[The secret] là một danh từ đơn đóng vai trò làm tân ngữ cho động từ "know".</li>
+					<li className="list-none">[The secret] là một danh cơ đơn đóng vai trò làm tân ngữ cho động cơ "know".</li>
 			
 				</ul>
 
@@ -142,7 +142,7 @@ export default function SuperWords1(): React.JSX.Element {
 					<li>I know <strong>what you did last summer</strong>.</li>
 					<li className="margin-bottom-20 list-none">Tôi biết <strong>những gì bạn đã làm mùa hè năm ngoái</strong>.</li>
 
-					<li className="list-none">Cụm [what you did last summer] rõ ràng là một câu con có đầy đủ chủ ngữ (you) và hành động (did), nhưng nó hoạt động như một khối thống nhất, một Danh câu thay thế hoàn toàn cho vị trí của danh từ đơn ban đầu.</li>
+					<li className="list-none">Cụm [what you did last summer] rõ ràng là một câu con có đầy đủ chủ ngữ (you) và hành động (did), nhưng nó hoạt động như một khối thống nhất, một Danh câu thay thế hoàn toàn cho vị trí của danh cơ đơn ban đầu.</li>
 			
 				</ul>
 
@@ -151,9 +151,9 @@ export default function SuperWords1(): React.JSX.Element {
 
 			<h3 className="margin-y-50 text-center">2. Super-Adjective: Tính cụm tiến hóa thành "Tính câu"</h3>
 
-			<p>Nhiệm vụ của một tính từ đơn là đứng cạnh để tô vẽ, mô tả đặc điểm cho danh từ. Khi nó được kéo dài ra nhưng chưa có Chủ - Vị, nó là <strong>Tính cụm</strong>. Nhưng khi muốn mô tả một đặc điểm mang tính chất kể chuyện, người bản xứ sẽ nâng cấp nó thành một <strong>Tính câu</strong> (Super-Adjective).</p>
+			<p>Nhiệm vụ của một tính cơ đơn là đứng cạnh để tô vẽ, mô tả đặc điểm cho danh cơ. Khi nó được kéo dài ra nhưng chưa có Chủ - Vị, nó là <strong>Tính cụm</strong>. Nhưng khi muốn mô tả một đặc điểm mang tính chất kể chuyện, người bản xứ sẽ nâng cấp nó thành một <strong>Tính câu</strong> (Super-Adjective).</p>
 
-			<p>Có một điểm cực kỳ thú vị trong tư duy tuyến tính của người bản xứ: Họ sẽ đưa Danh cơ ra trước, sau đó nếu muốn giải thích thêm, họ sẽ "thả" ngay một <strong>Phụ câu</strong> làm nhiệm vụ của tính từ (tức là <strong>Tính câu</strong>) ra phía sau để bổ sung thông tin theo đúng dòng chảy suy nghĩ.</p>
+			<p>Có một điểm cực kỳ thú vị trong tư duy tuyến tính của người bản xứ: Họ sẽ đưa Danh cơ ra trước, sau đó nếu muốn giải thích thêm, họ sẽ "thả" ngay một <strong>Phụ câu</strong> làm nhiệm vụ của tính cơ (tức là <strong>Tính câu</strong>) ra phía sau để bổ sung thông tin theo đúng dòng chảy suy nghĩ.</p>
 
 
 			<h4 className="margin-y-40">Tính cơ ngắn:</h4>
@@ -185,7 +185,7 @@ export default function SuperWords1(): React.JSX.Element {
 					<li>The student <strong>who studied hard every night</strong> passed the exam.</li>
 					<li className="margin-bottom-20 list-none">Người học trò – <strong>người mà đã học hành chăm chỉ mỗi đêm</strong> – đã đậu kỳ thi.</li>
 
-					<li className="list-none">Toàn bộ câu con [who studied hard every night] bản chất chỉ là một <strong>Tính câu</strong> khổng lồ bám chặt lấy danh từ the student để làm rõ nghĩa cho nó.</li>
+					<li className="list-none">Toàn bộ câu con [who studied hard every night] bản chất chỉ là một <strong>Tính câu</strong> khổng lồ bám chặt lấy danh cơ the student để làm rõ nghĩa cho nó.</li>
 			
 				</ul>
 			
@@ -204,7 +204,7 @@ export default function SuperWords1(): React.JSX.Element {
 					<li><strong>Yesterday</strong>, we stayed home.</li>
 					<li className="margin-bottom-20 list-none"><strong>Hôm qua</strong>, chúng tôi ở nhà.</li>
 
-					<li className="list-none">Yesterday là trạng từ đơn chỉ mốc thời gian.</li>
+					<li className="list-none">Yesterday là trạng cơ đơn chỉ mốc thời gian.</li>
 			
 				</ul>
 

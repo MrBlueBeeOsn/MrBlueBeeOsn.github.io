@@ -48,7 +48,7 @@ export default function Now2(): React.JSX.Element {
               
             </span>
               
-            &nbsp;là một trạng từ chỉ thời gian rất linh hoạt, có thể được sử dụng trong nhiều ngữ cảnh khác nhau.
+            &nbsp;là một trạng cơ chỉ thời gian rất linh hoạt, có thể được sử dụng trong nhiều ngữ cảnh khác nhau.
 
           </p>
 

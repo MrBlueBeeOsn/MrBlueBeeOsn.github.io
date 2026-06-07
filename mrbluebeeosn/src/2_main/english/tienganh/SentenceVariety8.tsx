@@ -56,11 +56,11 @@ export default function SentenceVariety8(): React.JSX.Element {
 
 			<h3 className="margin-y-50 text-center">1. Bốn khung câu bạn phải nhìn ra ngay</h3>
 
-			<p>Đừng nhớ định nghĩa dài. Chỉ đếm mệnh đề và dấu nối.</p>
+			<p>Đừng nhớ định nghĩa dài. Chỉ đếm câu con và dấu nối.</p>
 
 			<h4 className="margin-y-40">1. Câu đơn</h4>
 					
-			<p className="text-indent-whole">1 mệnh đề, 1 ý trọn vẹn.</p>
+			<p className="text-indent-whole">1 câu con, 1 ý trọn vẹn.</p>
 			
 				<ul className="list-square">
 					<li>I read every night.</li>
@@ -71,18 +71,18 @@ export default function SentenceVariety8(): React.JSX.Element {
 
 			<h4 className="margin-y-40">2. Câu ghép</h4>
 					
-			<p className="text-indent-whole">2 mệnh đề độc lập nối bằng and, but, so, or, yet.</p>
+			<p className="text-indent-whole">2 câu con độc lập nối bằng and, but, so, or, yet.</p>
 			
 				<ul className="list-square">
 					<li>I read every night, <strong>and</strong> I take notes.</li>
 					<li>It was cold, <strong>so</strong> we stayed in.</li>
 				</ul>
 
-			<p className="margin-top-20 text-indent-whole">Nhận diện: thấy dấu phẩy + liên từ, hai vế đều đứng một mình được.</p>
+			<p className="margin-top-20 text-indent-whole">Nhận diện: thấy dấu phẩy + liên cơ, hai vế đều đứng một mình được.</p>
 
 			<h4 className="margin-y-40">3. Câu phức</h4>
 					
-			<p className="text-indent-whole">1 mệnh đề chính + 1 mệnh đề phụ với because, when, if, although, while, that.</p>
+			<p className="text-indent-whole">1 câu con chính + 1 câu con phụ với because, when, if, although, while, that.</p>
 			
 				<ul className="list-square">
 					<li><strong>Because</strong> I read every night, I remember more.</li>
@@ -94,7 +94,7 @@ export default function SentenceVariety8(): React.JSX.Element {
 
 			<h4 className="margin-y-40">4. Câu ghép phức</h4>
 					
-			<p className="text-indent-whole">ít nhất 2 mệnh đề chính + 1 mệnh đề phụ.</p>
+			<p className="text-indent-whole">ít nhất 2 câu con chính + 1 câu con phụ.</p>
 			
 				<ul className="list-square">
 					<li><strong>When</strong> I read, I take notes, <strong>and</strong> I review them later.</li>
@@ -125,7 +125,7 @@ export default function SentenceVariety8(): React.JSX.Element {
 				<ul className="list-square">
 			
 					<li><strong>Tách trước</strong>, <strong>ghép sau</strong></li>
-					<li className="margin-top-20 list-none">Lấy một đoạn tiếng Anh bất kỳ, gạch chân động từ chính. Đếm được 1 động từ chia thì = 1 mệnh đề. Luyện 5 phút mỗi ngày, mắt bạn sẽ tự động thấy khung.</li>
+					<li className="margin-top-20 list-none">Lấy một đoạn tiếng Anh bất kỳ, gạch chân động cơ chính. Đếm được 1 động cơ chia thì = 1 câu con. Luyện 5 phút mỗi ngày, mắt bạn sẽ tự động thấy khung.</li>
 			
 					<li><strong>Học theo cụm</strong>, <strong>không học lẻ</strong>.</li>
 					<li className="margin-top-20 list-none">Đừng học "although". Học cả cụm "Although it was hard, I kept going." Thay chủ ngữ là dùng được.</li>

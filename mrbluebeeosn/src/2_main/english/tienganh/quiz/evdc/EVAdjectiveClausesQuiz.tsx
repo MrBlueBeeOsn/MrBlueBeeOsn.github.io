@@ -30,7 +30,7 @@ export default function EVAdjectiveClausesQuiz(): React.JSX.Element {
 				"whose"
 			],
 			correctAnswer: 1,
-			explanation: "Đại cơ quan hệ thay thế cho danh từ chỉ người \"The woman\" và đóng vai trò làm chủ ngữ trong mệnh đề quan hệ (đứng trước động từ \"lives\")."
+			explanation: "Đại cơ quan hệ thay thế cho danh cơ chỉ người \"The woman\" và đóng vai trò làm chủ ngữ trong câu con quan hệ (đứng trước động cơ \"lives\")."
 		},
 		{
 			id: 2,
@@ -42,7 +42,7 @@ export default function EVAdjectiveClausesQuiz(): React.JSX.Element {
 				"whose"
 			],
 			correctAnswer: 2,
-			explanation: "Đại cơ quan hệ thay thế cho danh từ chỉ vật \"The book\" và đóng vai trò làm tân ngữ trong mệnh đề quan hệ."
+			explanation: "Đại cơ quan hệ thay thế cho danh cơ chỉ vật \"The book\" và đóng vai trò làm tân ngữ trong câu con quan hệ."
 		},
 		{
 			id: 3,
@@ -54,7 +54,7 @@ export default function EVAdjectiveClausesQuiz(): React.JSX.Element {
 				"that"
 			],
 			correctAnswer: 1,
-			explanation: "Dùng để chỉ sở hữu cho danh từ đứng trước (\"the boy's bicycle\" → \"the boy whose bicycle\")."
+			explanation: "Dùng để chỉ sở hữu cho danh cơ đứng trước (\"the boy's bicycle\" → \"the boy whose bicycle\")."
 		},
 		{
 			id: 4,
@@ -78,7 +78,7 @@ export default function EVAdjectiveClausesQuiz(): React.JSX.Element {
 				"who"
 			],
 			correctAnswer: 2,
-			explanation: "Trạng cơ quan hệ chỉ thời gian, thay thế cho danh từ \"the day\"."
+			explanation: "Trạng cơ quan hệ chỉ thời gian, thay thế cho danh cơ \"the day\"."
 		},
 		{
 			id: 6,
@@ -90,7 +90,7 @@ export default function EVAdjectiveClausesQuiz(): React.JSX.Element {
 				"columns"
 			],
 			correctAnswer: 2,
-			explanation: "Đại cơ quan hệ thay thế cho danh từ chỉ người \"The man\" và đóng vai trò làm tân ngữ trong mệnh đề quan hệ (sau nó là một đại từ/chủ ngữ \"you\")."
+			explanation: "Đại cơ quan hệ thay thế cho danh cơ chỉ người \"The man\" và đóng vai trò làm tân ngữ trong câu con quan hệ (sau nó là một đại cơ/chủ ngữ \"you\")."
 		},
 		{
 			id: 7,
@@ -102,7 +102,7 @@ export default function EVAdjectiveClausesQuiz(): React.JSX.Element {
 				"when"
 			],
 			correctAnswer: 0,
-			explanation: "Trạng cơ quan hệ chỉ lý do, thường đi kèm sau cụm từ danh từ \"The reason\"."
+			explanation: "Trạng cơ quan hệ chỉ lý do, thường đi kèm sau cụm từ danh cơ \"The reason\"."
 		},
 		{
 			id: 8,
@@ -114,7 +114,7 @@ export default function EVAdjectiveClausesQuiz(): React.JSX.Element {
 				"where"
 			],
 			correctAnswer: 1,
-			explanation: "Đây là mệnh đề quan hệ không xác định (có dấu phẩy), bổ nghĩa cho vật \"The building\". Quy tắc ngữ pháp không dùng \"that\" sau dấu phẩy."
+			explanation: "Đây là câu con quan hệ không xác định (có dấu phẩy), bổ nghĩa cho vật \"The building\". Quy tắc ngữ pháp không dùng \"that\" sau dấu phẩy."
 		},
 		{
 			id: 9,
@@ -126,7 +126,7 @@ export default function EVAdjectiveClausesQuiz(): React.JSX.Element {
 				"whose"
 			],
 			correctAnswer: 2,
-			explanation: "Thay thế cho danh từ số nhiều chỉ người \"The students\" và làm chủ ngữ cho động từ \"completed\"."
+			explanation: "Thay thế cho danh cơ số nhiều chỉ người \"The students\" và làm chủ ngữ cho động cơ \"completed\"."
 		},
 		{
 			id: 10,
@@ -138,7 +138,7 @@ export default function EVAdjectiveClausesQuiz(): React.JSX.Element {
 				"that"
 			],
 			correctAnswer: 3,
-			explanation: "\"that\" được dùng để thay thế cho danh từ chỉ vật \"The laptop\" trong mệnh đề quan hệ xác định (ở đây có thể dùng \"which\" nhưng trong các phương án chỉ có \"that\" là chính xác)."
+			explanation: "\"that\" được dùng để thay thế cho danh cơ chỉ vật \"The laptop\" trong câu con quan hệ xác định (ở đây có thể dùng \"which\" nhưng trong các phương án chỉ có \"that\" là chính xác)."
 		}
 	];
 

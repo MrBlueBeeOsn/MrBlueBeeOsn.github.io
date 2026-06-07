@@ -54,7 +54,7 @@ export default function LegoAssembly2(): React.JSX.Element {
 
 			<p>Chào mừng bạn đến với <strong>mô hình Lego Assembly</strong> – một cách tiếp cận hoàn toàn khác, dựa trên một sự thật đơn giản mà hầu hết sách ngữ pháp không bao giờ nói rõ:</p>
 
-			<p>Mọi cụm từ và mệnh đề trong tiếng Anh đều sinh ra để phụ thuộc. Chúng không thể đứng một mình. Chúng được lắp ghép vào một "Hạt nhân" – và Hạt nhân đó chỉ có một hình dạng duy nhất:</p>
+			<p>Mọi cụm từ và câu con trong tiếng Anh đều sinh ra để phụ thuộc. Chúng không thể đứng một mình. Chúng được lắp ghép vào một "Hạt nhân" – và Hạt nhân đó chỉ có một hình dạng duy nhất:</p>
 
 			<p className="margin-y-50 text-indent-whole"><strong>S Head DP</strong>/<strong>DC</strong></p>
 			
@@ -107,13 +107,13 @@ export default function LegoAssembly2(): React.JSX.Element {
 			<h3 className="margin-y-50 text-center">3. ⚙️ Head là ai? Ba loại Head chính</h3>
 
 
-			<h4 className="margin-y-40">1. Head là động từ khiếm khuyết (modal)</h4>
+			<h4 className="margin-y-40">1. Head là động cơ khiếm khuyết (modal)</h4>
 
 			<p className="text-indent-whole"></p>
 
 
 
-			<h4 className="margin-y-40">2. Head là động từ đặc biệt “to be / to have / to do”</h4>
+			<h4 className="margin-y-40">2. Head là động cơ đặc biệt “to be / to have / to do”</h4>
 					
 			<p className="text-indent-whole"><strong>to be</strong> (am/is/are/was/were) → Phụ cụm có thể là tính cụm, danh cụm, hoặc V-ing (trạng cụm hành động).</p>
 			
@@ -121,7 +121,7 @@ export default function LegoAssembly2(): React.JSX.Element {
 
 					<li>I <strong>am</strong> [very tired].</li>
 					<li className="list-none">Tôi [rất mệt].</li>
-					<li className="list-none">[very tired] = Phụ cụm → Tính cụm mô tả trạng thái của chủ ngữ "I" sau động từ to-be.</li>
+					<li className="list-none">[very tired] = Phụ cụm → Tính cụm mô tả trạng thái của chủ ngữ "I" sau động cơ to-be.</li>
 
 					<li>She <strong>is</strong> [a doctor].</li>
 					<li className="list-none">Cô ấy là [một bác sĩ].</li>
@@ -145,7 +145,7 @@ export default function LegoAssembly2(): React.JSX.Element {
 			
 				</ul>
 			
-			<p className="margin-top-20 text-indent-whole"><strong>do</strong>/<strong>does</strong>/<strong>did</strong> dùng cho câu phủ định / nghi vấn ở hiện tại và quá khứ đơn. Sau nó là động từ nguyên mẫu.</p>
+			<p className="margin-top-20 text-indent-whole"><strong>do</strong>/<strong>does</strong>/<strong>did</strong> dùng cho câu phủ định / nghi vấn ở hiện tại và quá khứ đơn. Sau nó là động cơ nguyên mẫu.</p>
 			
 				<ul className="list-square">
 			
@@ -156,9 +156,9 @@ export default function LegoAssembly2(): React.JSX.Element {
 				</ul>
 
 
-			<h4 className="margin-y-40">3. Head là chính động từ (khi không có trợ động từ)</h4>
+			<h4 className="margin-y-40">3. Head là chính động cơ (khi không có trợ động cơ)</h4>
 					
-			<p className="text-indent-whole">Trong câu khẳng định hiện tại đơn hoặc quá khứ đơn, chính động từ làm Head và tự mang dấu hiệu thời gian.</p>
+			<p className="text-indent-whole">Trong câu khẳng định hiện tại đơn hoặc quá khứ đơn, chính động cơ làm Head và tự mang dấu hiệu thời gian.</p>
 			
 				<ul className="list-square">
 
@@ -182,7 +182,7 @@ export default function LegoAssembly2(): React.JSX.Element {
 					<li>She <strong>is</strong> [very tired].</li>
 					<li className="list-none">Cô ấy đang rất mệt.</li>
 					<li className="list-none">is = Head</li>
-					<li className="margin-bottom-20 list-none">[very tired] = Phụ cụm → <strong>Tính cụm</strong> bổ nghĩa cho chủ ngữ "She" sau động từ to-be.</li>
+					<li className="margin-bottom-20 list-none">[very tired] = Phụ cụm → <strong>Tính cụm</strong> bổ nghĩa cho chủ ngữ "She" sau động cơ to-be.</li>
 
 					<li>We <strong>will</strong> [go home].</li>
 					<li className="list-none">Chúng ta sẽ về nhà.</li>
@@ -193,7 +193,7 @@ export default function LegoAssembly2(): React.JSX.Element {
 					<li className="margin-bottom-20 list-none">Chúng tôi sẽ đi [nơi mà chúng tôi sống].</li>
 					<li className="list-none">will = Head</li>
 					<li className="list-none">[where we live] = Trạng câu chỉ nơi chốn, thay thế cho từ "home".</li>
-					<li className="margin-bottom-20 list-none">go [where we live] = Phụ cụm → <strong>Trạng động từ</strong></li>
+					<li className="margin-bottom-20 list-none">go [where we live] = Phụ cụm → <strong>Trạng động cơ</strong></li>
 					
 		
 					<li>He <strong>can</strong> [swim fast].</li>
@@ -223,15 +223,15 @@ export default function LegoAssembly2(): React.JSX.Element {
 
 					<li>I eat [an apple].</li>
 					<li className="list-none">Tôi ăn [một quả táo].</li>
-					<li className="margin-bottom-20 list-none">→ Danh cụm (Noun phrase) đóng vai trò làm tân ngữ cho động từ "eat".</li>
+					<li className="margin-bottom-20 list-none">→ Danh cụm (Noun phrase) đóng vai trò làm tân ngữ cho động cơ "eat".</li>
 
 					<li>She is [very happy].</li>
 					<li className="list-none">Cô ấy [rất vui].</li>
-					<li className="margin-bottom-20 list-none">→ Tính cụm (Adjective phrase) bổ nghĩa cho chủ ngữ "She", đứng sau động từ "is".</li>
+					<li className="margin-bottom-20 list-none">→ Tính cụm (Adjective phrase) bổ nghĩa cho chủ ngữ "She", đứng sau động cơ "is".</li>
 
 					<li>He runs [very fast].</li>
 					<li className="list-none">Anh ấy chạy [rất nhanh].</li>
-					<li className="margin-bottom-20 list-none">→ Trạng cụm chỉ cách thức, bổ nghĩa cho động từ "runs".</li>
+					<li className="margin-bottom-20 list-none">→ Trạng cụm chỉ cách thức, bổ nghĩa cho động cơ "runs".</li>
 
 					<li>I am [reading a book].</li>
 					<li className="list-none">Tôi đang [đọc một cuốn sách].</li>
@@ -277,7 +277,7 @@ export default function LegoAssembly2(): React.JSX.Element {
 			
 					<li>I <strong>know</strong> [what you mean].</li>
 					<li className="list-none">Tôi biết [những gì bạn muốn nói].</li>
-					<li className="margin-bottom-20 list-none">→ Danh câu (câu con đóng vai trò như một danh từ, là tân ngữ của know).</li>
+					<li className="margin-bottom-20 list-none">→ Danh câu (câu con đóng vai trò như một danh cơ, là tân ngữ của know).</li>
 			
 					<li>She <strong>has</strong> [everything she wants].</li>
 					<li className="list-none">Cô ấy có [mọi thứ cô ấy muốn].</li>
@@ -302,7 +302,7 @@ export default function LegoAssembly2(): React.JSX.Element {
 			
 				</ul>
 
-				<p className="margin-top-20 text-indent-whole">Nhận biết phụ câu: nó bắt đầu bằng một từ như what, where, when, why, that, because, if, although… và bên trong nó có chủ ngữ + động từ riêng.</p>
+				<p className="margin-top-20 text-indent-whole">Nhận biết phụ câu: nó bắt đầu bằng một từ như what, where, when, why, that, because, if, although… và bên trong nó có chủ ngữ + động cơ riêng.</p>
 
 
 			{/* 5.  */}
@@ -323,7 +323,7 @@ export default function LegoAssembly2(): React.JSX.Element {
 			
 					<li>He does <strong>not</strong> eat meat.</li>
 					<li className="list-none">Anh ấy không ăn thịt.</li>
-					<li className="list-none">→ Head = does, not đứng sau Head, động từ eat trở về nguyên mẫu</li>
+					<li className="list-none">→ Head = does, not đứng sau Head, động cơ eat trở về nguyên mẫu</li>
 			
 				</ul>
 
@@ -370,7 +370,7 @@ export default function LegoAssembly2(): React.JSX.Element {
 
 			<h3 className="margin-y-50 text-center">6. 🚀 Nâng cấp: Danh câu, Tính câu, Trạng câu</h3>
 
-			<p>Trong mô hình Lego Assembly, bạn sẽ thường xuyên bắt gặp <strong>phụ câu</strong> (DC) đóng vai trò như một danh từ, tính từ, hoặc trạng từ. Đây là cách phân loại rất trực quan:</p>
+			<p>Trong mô hình Lego Assembly, bạn sẽ thường xuyên bắt gặp <strong>phụ câu</strong> (DC) đóng vai trò như một danh cơ, tính cơ, hoặc trạng cơ. Đây là cách phân loại rất trực quan:</p>
 
 			<h4 className="margin-y-40">Danh câu</h4>
 					
@@ -396,7 +396,7 @@ export default function LegoAssembly2(): React.JSX.Element {
 
 			<h4 className="margin-y-40">Tính câu</h4>
 					
-			<p className="text-indent-whole">Chức năng: Bổ nghĩa cho danh từ đứng trước (thường bắt đầu bằng who, whom, which, that)</p>
+			<p className="text-indent-whole">Chức năng: Bổ nghĩa cho danh cơ đứng trước (thường bắt đầu bằng who, whom, which, that)</p>
 
 			<p className="text-indent-whole">Ví dụ: </p>
 			
@@ -404,8 +404,8 @@ export default function LegoAssembly2(): React.JSX.Element {
 			
 					<li>The man [who called you] is my brother.</li>
 					<li className="list-none">Người đàn ông [người mà đã gọi cho bạn] là anh trai tôi.</li>
-					<li className="list-none">→ Tính câu "who called you" đứng sau danh từ "The man" để mô tả chi tiết về người đó.</li>
-					<li className="list-none">→ Chức năng chính: Mô tả danh từ</li>
+					<li className="list-none">→ Tính câu "who called you" đứng sau danh cơ "The man" để mô tả chi tiết về người đó.</li>
+					<li className="list-none">→ Chức năng chính: Mô tả danh cơ</li>
 			
 				</ul>
 
@@ -430,17 +430,17 @@ export default function LegoAssembly2(): React.JSX.Element {
 			
 				</ul>
 			
-			<p className="margin-top-20 text-indent-whole">Không cần nhớ “mệnh đề quan hệ” hay “mệnh đề trạng ngữ”. Chỉ cần nhìn vào chức năng của nó trong câu lớn:</p>
+			<p className="margin-top-20 text-indent-whole">Không cần nhớ “câu con quan hệ” hay “câu con trạng ngữ”. Chỉ cần nhìn vào chức năng của nó trong câu lớn:</p>
 			
 				<ul className="list-square">
 			
-					<li>Nếu nó đóng vai trò như một danh từ → <strong>danh câu</strong></li>
-					<li>Như tính từ → <strong>tính câu</strong></li>
-					<li>Như trạng từ → <strong>trạng câu</strong></li>
+					<li>Nếu nó đóng vai trò như một danh cơ → <strong>danh câu</strong></li>
+					<li>Như tính cơ → <strong>tính câu</strong></li>
+					<li>Như trạng cơ → <strong>trạng câu</strong></li>
 			
 				</ul>
 
-			<p className="margin-top-20 text-indent-whole">Việc phân loại thành <strong>Danh câu</strong> - <strong>Tính câu</strong> - <strong>Trạng câu</strong> thực sự rất mạnh mẽ. Nó giúp loại bỏ sự rườm rà của ngữ pháp truyền thống và tập trung vào đúng bản chất: đó là những câu con đóng vai trò như một danh từ, một tính từ, hoặc một trạng từ trong câu lớn.</p>
+			<p className="margin-top-20 text-indent-whole">Việc phân loại thành <strong>Danh câu</strong> - <strong>Tính câu</strong> - <strong>Trạng câu</strong> thực sự rất mạnh mẽ. Nó giúp loại bỏ sự rườm rà của ngữ pháp truyền thống và tập trung vào đúng bản chất: đó là những câu con đóng vai trò như một danh cơ, một tính cơ, hoặc một trạng cơ trong câu lớn.</p>
 			
 
 
@@ -480,7 +480,7 @@ export default function LegoAssembly2(): React.JSX.Element {
 					<li className="list-none">Cô ấy sẽ gọi cho bạn.</li>
 					<li className="list-none">She - S</li>
 					<li className="list-none">will - Head</li>
-					<li className="margin-bottom-20 list-none">call you (động từ nguyên mẫu + danh cụm)</li>
+					<li className="margin-bottom-20 list-none">call you (động cơ nguyên mẫu + danh cụm)</li>
 			
 					<li>He has what I need.</li>
 					<li className="list-none">Anh ấy có thứ tôi cần.</li>

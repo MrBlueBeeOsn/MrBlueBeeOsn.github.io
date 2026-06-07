@@ -76,11 +76,11 @@ export default function SentenceVariety9(): React.JSX.Element {
 			
 				</ul>
 			
-			<p className="margin-top-20 text-indent-whole">Chỉ có 1 mệnh đề độc lập.</p>
+			<p className="margin-top-20 text-indent-whole">Chỉ có 1 câu con độc lập.</p>
 
 			<h4 className="margin-y-40">2. Câu Ghép (Compound Sentence)</h4>
 					
-			<p className="text-indent-whole">Hai hoặc nhiều câu đơn được nối với nhau bằng liên từ đẳng lập (FANBOYS: For, And, Nor, But, Or, Yet, So) hoặc dấu chấm phẩy.</p>
+			<p className="text-indent-whole">Hai hoặc nhiều câu đơn được nối với nhau bằng liên cơ đẳng lập (FANBOYS: For, And, Nor, But, Or, Yet, So) hoặc dấu chấm phẩy.</p>
 			
 				<ul className="list-square">
 			
@@ -92,11 +92,11 @@ export default function SentenceVariety9(): React.JSX.Element {
 			
 				</ul>
 			
-			<p className="margin-top-20 text-indent-whole">Có 2+ mệnh đề độc lập, nối bằng FANBOYS hoặc ;.</p>
+			<p className="margin-top-20 text-indent-whole">Có 2+ câu con độc lập, nối bằng FANBOYS hoặc ;.</p>
 
 			<h4 className="margin-y-40">3. Câu Phức (Complex Sentence)</h4>
 					
-			<p className="text-indent-whole">Một câu đơn (mệnh đề độc lập) kết hợp với một hoặc nhiều mệnh đề phụ thuộc (không thể đứng một mình).</p>
+			<p className="text-indent-whole">Một câu đơn (câu con độc lập) kết hợp với một hoặc nhiều phụ câu (không thể đứng một mình).</p>
 			
 				<ul className="list-square">
 
@@ -108,12 +108,12 @@ export default function SentenceVariety9(): React.JSX.Element {
 			
 				</ul>
 			
-			<p className="margin-top-20 text-indent-whole">Có 1 mệnh đề độc lập và 1+ mệnh đề phụ thuộc (bắt đầu bằng although, because, when, who, which, that...).</p>
+			<p className="margin-top-20 text-indent-whole">Có 1 câu con độc lập và 1+ phụ câu (bắt đầu bằng although, because, when, who, which, that...).</p>
 
 
 			<h4 className="margin-y-40">4. Câu Ghép Phức (Compound-Complex Sentence)</h4>
 					
-			<p className="text-indent-whole">Kết hợp cả câu ghép và câu phức: có ít nhất hai mệnh đề độc lập và ít nhất một mệnh đề phụ thuộc.</p>
+			<p className="text-indent-whole">Kết hợp cả câu ghép và câu phức: có ít nhất hai câu con độc lập và ít nhất một phụ câu.</p>
 			
 				<ul className="list-square">
 			
@@ -122,7 +122,7 @@ export default function SentenceVariety9(): React.JSX.Element {
 			
 				</ul>
 			
-			<p className="margin-top-20 text-indent-whole">Có 2+ mệnh đề độc lập và 1+ mệnh đề phụ thuộc.</p>
+			<p className="margin-top-20 text-indent-whole">Có 2+ câu con độc lập và 1+ phụ câu.</p>
 
 			{/* 2. Lộ Trình "Nâng Cấp" Câu Tiếng Anh Của Bạn: Từ Đơn Giản Đến Phức Tạp */}
 
@@ -150,7 +150,7 @@ export default function SentenceVariety9(): React.JSX.Element {
 					
 			<p className="text-indent-whole">Khi bạn có hai ý tưởng độc lập nhưng liên quan, hãy dùng câu ghép để nối chúng lại, tạo sự liền mạch.</p>
 
-			<p className="text-indent-whole"><strong>Cách học</strong>: Luyện tập sử dụng các liên từ FANBOYS. Hãy nghĩ về hai câu đơn và tìm cách nối chúng bằng liên từ phù hợp nhất.</p>
+			<p className="text-indent-whole"><strong>Cách học</strong>: Luyện tập sử dụng các liên cơ FANBOYS. Hãy nghĩ về hai câu đơn và tìm cách nối chúng bằng liên cơ phù hợp nhất.</p>
 			
 				<ul className="list-square">
 			
@@ -167,7 +167,7 @@ export default function SentenceVariety9(): React.JSX.Element {
 					
 			<p className="text-indent-whole">Khi bạn muốn giải thích lý do, thời gian, điều kiện, hoặc cung cấp thêm thông tin cho một ý tưởng chính, câu phức là lựa chọn hoàn hảo.</p>
 
-			<p className="text-indent-whole"><strong>Cách học</strong>: Tập trung vào các liên từ phụ thuộc (because, although, when, if, while...) và đại từ quan hệ (who, which, that...). Hãy nghĩ về một câu đơn, sau đó thêm một mệnh đề phụ thuộc để bổ sung ý nghĩa.</p>
+			<p className="text-indent-whole"><strong>Cách học</strong>: Tập trung vào các liên cơ phụ thuộc (because, although, when, if, while...) và đại cơ quan hệ (who, which, that...). Hãy nghĩ về một câu đơn, sau đó thêm một phụ câu để bổ sung ý nghĩa.</p>
 			
 				<ul className="list-square">
 			
@@ -184,7 +184,7 @@ export default function SentenceVariety9(): React.JSX.Element {
 					
 			<p className="text-indent-whole">Đây là lúc bạn kết hợp tất cả những gì đã học. Câu ghép phức cho phép bạn diễn đạt nhiều ý tưởng và mối quan hệ phức tạp trong một câu duy nhất, thể hiện sự thành thạo trong việc sử dụng ngôn ngữ.</p>
 
-			<p className="text-indent-whole"><strong>Cách học</strong>: Bắt đầu với một câu ghép, sau đó thêm một hoặc nhiều mệnh đề phụ thuộc vào một trong các mệnh đề độc lập.</p>
+			<p className="text-indent-whole"><strong>Cách học</strong>: Bắt đầu với một câu ghép, sau đó thêm một hoặc nhiều phụ câu vào một trong các câu con độc lập.</p>
 
 			<p className="margin-top-20"></p>
 			
@@ -208,7 +208,7 @@ export default function SentenceVariety9(): React.JSX.Element {
 					<li className="margin-bottom-20 list-none">Đọc sách, báo, blog tiếng Anh từ nhiều nguồn khác nhau. Chú ý cách các tác giả sử dụng các loại câu để truyền tải ý tưởng.</li>
 
 					<li><strong>Phân tích câu</strong>:</li>
-					<li className="margin-bottom-20 list-none">Khi đọc, hãy thử gạch chân chủ ngữ, vị ngữ, các mệnh đề độc lập và phụ thuộc để nhận diện cấu trúc câu.</li>
+					<li className="margin-bottom-20 list-none">Khi đọc, hãy thử gạch chân chủ ngữ, vị ngữ, các câu con độc lập và phụ thuộc để nhận diện cấu trúc câu.</li>
 
 					<li><strong>Viết lại câu</strong>:</li>
 					<li className="margin-bottom-20 list-none">Lấy một đoạn văn đơn giản và thử viết lại nó bằng cách thay đổi cấu trúc câu, kết hợp các ý tưởng để tạo ra sự đa dạng.</li>

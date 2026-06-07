@@ -116,7 +116,7 @@ export default function Presently2(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>"<strong>Presently</strong>" thường đứng trước động từ để bổ nghĩa.</li>
+          <li>"<strong>Presently</strong>" thường đứng trước động cơ để bổ nghĩa.</li>
 
           <li className="margin-bottom-20">Từ này có thể được thay thế bằng các từ đồng nghĩa như "<Link to="/vocabulary/currently-1">currently</Link>", "<Link to="/vocabulary/now-1">now</Link>", "at the moment" để tạo sự đa dạng trong văn phong.</li>
 

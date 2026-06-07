@@ -48,7 +48,7 @@ export default function Absolutely2(): React.JSX.Element {
               
             </span>
               
-            &nbsp;là một trạng từ thường được dùng để nhấn mạnh một ý kiến, một câu trả lời hoặc một tình huống. Nó mang ý nghĩa hoàn toàn đồng ý, chắc chắn hoặc không có ngoại lệ nào.
+            &nbsp;là một trạng cơ thường được dùng để nhấn mạnh một ý kiến, một câu trả lời hoặc một tình huống. Nó mang ý nghĩa hoàn toàn đồng ý, chắc chắn hoặc không có ngoại lệ nào.
 
           </p>
 
@@ -116,7 +116,7 @@ export default function Absolutely2(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>"<strong>Absolutel</strong>" thường được đặt trước tính từ hoặc trạng từ để bổ nghĩa.</li>
+          <li>"<strong>Absolutel</strong>" thường được đặt trước tính cơ hoặc trạng cơ để bổ nghĩa.</li>
 
           <li className="margin-bottom-20">Từ này có thể được sử dụng trong cả văn nói và văn viết.</li>
 

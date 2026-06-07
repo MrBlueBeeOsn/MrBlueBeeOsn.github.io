@@ -48,7 +48,7 @@ export default function Highly2(): React.JSX.Element {
               
             </span>
               
-            &nbsp;là một trạng từ dùng để nhấn mạnh mức độ cao của một tính từ hoặc trạng từ. Nó thường được sử dụng để diễn tả một điều gì đó ở mức độ rất lớn, rất tích cực hoặc rất tiêu cực.
+            &nbsp;là một trạng cơ dùng để nhấn mạnh mức độ cao của một tính cơ hoặc trạng cơ. Nó thường được sử dụng để diễn tả một điều gì đó ở mức độ rất lớn, rất tích cực hoặc rất tiêu cực.
 
           </p>
 
@@ -116,7 +116,7 @@ export default function Highly2(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>"<strong>Highly</strong>" thường đứng trước tính từ hoặc trạng từ để bổ nghĩa.</li>
+          <li>"<strong>Highly</strong>" thường đứng trước tính cơ hoặc trạng cơ để bổ nghĩa.</li>
 
           <li className="margin-bottom-20">Từ này có thể được thay thế bằng các từ đồng nghĩa như "<Link to="/vocabulary/extremely-1">extremely</Link>", "<Link to="/vocabulary/very-1">very</Link>", "remarkably" để tạo sự đa dạng trong văn phong.</li>
 

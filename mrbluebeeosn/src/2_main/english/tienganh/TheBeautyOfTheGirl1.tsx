@@ -48,7 +48,7 @@ export default function TheBeautyOfTheGirl1(): React.JSX.Element {
 			
 			<h3 className="margin-y-50 text-center">1. Bí kíp: Biến "Tính cơ" thành "Cái..."</h3>
 
-			<p>Thay vì cố dịch ngược tính từ lên trước, hãy lập tức biến nó thành một danh từ chỉ <strong>bản chất</strong>. Hãy dùng cấu trúc "<strong>Cái</strong>... <strong>của</strong>..." để tạo ra một dòng chảy mượt mà.</p>
+			<p>Thay vì cố dịch ngược tính cơ lên trước, hãy lập tức biến nó thành một danh cơ chỉ <strong>bản chất</strong>. Hãy dùng cấu trúc "<strong>Cái</strong>... <strong>của</strong>..." để tạo ra một dòng chảy mượt mà.</p>
 
 			<p>Hãy nhìn sự khác biệt:</p>
 			
@@ -106,7 +106,7 @@ export default function TheBeautyOfTheGirl1(): React.JSX.Element {
 
 			<p>Ngôn ngữ không nên là một bài toán đố về vị trí từ. Bằng cách mượn cấu trúc "<strong>Vẻ đẹp của cô gái</strong>" để dịch cho cụm "<strong>Beautiful girl</strong>", bạn đã giải phóng bộ não khỏi sự ngược ngào của ngữ pháp.</p>
 
-			<p className="margin-top-20">Ngay bây giờ, hãy nhìn xung quanh phòng, tìm một đồ vật cùng một tính từ đi kèm, và tập "dịch xuôi" theo cách này. Bạn sẽ thấy tiếng Anh trở nên thân thiện hơn bao giờ hết!</p>
+			<p className="margin-top-20">Ngay bây giờ, hãy nhìn xung quanh phòng, tìm một đồ vật cùng một tính cơ đi kèm, và tập "dịch xuôi" theo cách này. Bạn sẽ thấy tiếng Anh trở nên thân thiện hơn bao giờ hết!</p>
 
 			<div className="viewcounter">
 			

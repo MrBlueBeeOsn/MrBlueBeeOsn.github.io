@@ -48,7 +48,7 @@ export default function Softly2(): React.JSX.Element {
               
             </span>
               
-            &nbsp;là một trạng từ thường được sử dụng để miêu tả một hành động được thực hiện một cách nhẹ nhàng, dịu dàng, không mạnh mẽ.
+            &nbsp;là một trạng cơ thường được sử dụng để miêu tả một hành động được thực hiện một cách nhẹ nhàng, dịu dàng, không mạnh mẽ.
 
           </p>
 
@@ -116,7 +116,7 @@ export default function Softly2(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>"<strong>Softly</strong>" thường đứng trước động từ để bổ nghĩa.</li>
+          <li>"<strong>Softly</strong>" thường đứng trước động cơ để bổ nghĩa.</li>
 
           <li className="margin-bottom-20">Từ này có thể được thay thế bằng các từ đồng nghĩa như "<Link to="/vocabulary/gently-1">gently</Link>", "quietly" để tạo sự đa dạng trong văn phong.</li>
 

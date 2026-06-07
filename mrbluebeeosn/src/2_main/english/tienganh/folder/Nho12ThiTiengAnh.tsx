@@ -165,7 +165,7 @@ export default function Nho12ThiTiengAnh(): React.JSX.Element {
 
 					</ul>
 
-				<p className="margin-top-20"><strong>Bị động dễ nhớ</strong>: chỉ thêm “be + V3” và điều chỉnh trợ động từ phù hợp!</p>
+				<p className="margin-top-20"><strong>Bị động dễ nhớ</strong>: chỉ thêm “be + V3” và điều chỉnh trợ động cơ phù hợp!</p>
 
 			</div>
 

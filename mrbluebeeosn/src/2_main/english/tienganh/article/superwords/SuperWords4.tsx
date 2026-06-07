@@ -48,7 +48,7 @@ export default function SuperWords4(): React.JSX.Element {
 
 			</h1>
 
-			<h4 className="margin-bottom-30 text-center">Siêu Danh Cơ, Siêu Tính Cơ Và Siêu Trạng Cơ: Một Cách Nhìn Mới Về Mệnh Đề Tiếng Anh</h4>
+			<h4 className="margin-bottom-30 text-center">Siêu Danh Cơ, Siêu Tính Cơ Và Siêu Trạng Cơ: Một Cách Nhìn Mới Về Câu Con Tiếng Anh</h4>
 
 			<p></p>
 
@@ -67,7 +67,7 @@ export default function SuperWords4(): React.JSX.Element {
 
 			{/* 2.  */}
 
-			<h3 className="margin-y-50 text-center">2. Quy Tắc Vàng Khi Nhìn Một Mệnh Đề</h3>
+			<h3 className="margin-y-50 text-center">2. Quy Tắc Vàng Khi Nhìn Một Câu Con</h3>
 
 			<p></p>
 

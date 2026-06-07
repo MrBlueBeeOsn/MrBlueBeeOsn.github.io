@@ -30,7 +30,7 @@ export default function EVDCQuiz(): React.JSX.Element {
 				"which"
 			],
 			correctAnswer: 1,
-			explanation: "Cụm từ \"whom she is planning to invite to the party\" là một Noun Clause (Danh câu) làm tân ngữ cho động từ \"know\". Trong mệnh đề phụ này, \"she\" là chủ ngữ và động từ \"invite\" cần một tân ngữ chỉ người đứng trước, do đó ta dùng \"whom\" thay vì \"who\" (làm chủ ngữ)."
+			explanation: "Cụm từ \"whom she is planning to invite to the party\" là một Noun Clause (Danh câu) làm tân ngữ cho động cơ \"know\". Trong câu con phụ này, \"she\" là chủ ngữ và động cơ \"invite\" cần một tân ngữ chỉ người đứng trước, do đó ta dùng \"whom\" thay vì \"who\" (làm chủ ngữ)."
 		},
 		{
 			id: 2,
@@ -42,7 +42,7 @@ export default function EVDCQuiz(): React.JSX.Element {
 				"what"
 			],
 			correctAnswer: 2,
-			explanation: "Cụm \"that you lent me yesterday\" là một Adjective Clause (Mệnh đề tính ngữ/quan hệ) bổ nghĩa cho danh từ chỉ vật \"The book\". Ta dùng đại từ quan hệ \"that\" (hoặc \"which\") làm tân ngữ thay thế cho vật. \"What\" không đứng sau danh từ để bổ nghĩa như vậy."
+			explanation: "Cụm \"that you lent me yesterday\" là một Adjective Clause (Câu con tính ngữ/quan hệ) bổ nghĩa cho danh cơ chỉ vật \"The book\". Ta dùng đại cơ quan hệ \"that\" (hoặc \"which\") làm tân ngữ thay thế cho vật. \"What\" không đứng sau danh cơ để bổ nghĩa như vậy."
 		},
 		{
 			id: 3,
@@ -54,7 +54,7 @@ export default function EVDCQuiz(): React.JSX.Element {
 				"Despite"
 			],
 			correctAnswer: 1,
-			explanation: "Cụm \"Although he worked hard all day\" là một Adverb Clause of Concession (Trạng câu chỉ sự nhượng bộ). Ta chọn \"Although\" vì phía sau là một mệnh đề hoàn chỉnh (S + V) và mang ý nghĩa tương phản. \"Despite\" cũng mang nghĩa tương tự nhưng chỉ đi với cụm danh từ hoặc V-ing."
+			explanation: "Cụm \"Although he worked hard all day\" là một Adverb Clause of Concession (Trạng câu chỉ sự nhượng bộ). Ta chọn \"Although\" vì phía sau là một câu con hoàn chỉnh (S + V) và mang ý nghĩa tương phản. \"Despite\" cũng mang nghĩa tương tự nhưng chỉ đi với danh cụm hoặc V-ing."
 		},
 		{
 			id: 4,
@@ -66,7 +66,7 @@ export default function EVDCQuiz(): React.JSX.Element {
 				"where"
 			],
 			correctAnswer: 0,
-			explanation: "Cụm \"why she left early\" là một Adjective Clause bổ nghĩa cho danh từ \"The reason\". Trạng cơ quan hệ \"why\" được dùng để chỉ lý do cho danh từ đứng trước nó."
+			explanation: "Cụm \"why she left early\" là một Adjective Clause bổ nghĩa cho danh cơ \"The reason\". Trạng cơ quan hệ \"why\" được dùng để chỉ lý do cho danh cơ đứng trước nó."
 		},
 		{
 			id: 5,
@@ -90,7 +90,7 @@ export default function EVDCQuiz(): React.JSX.Element {
 				"taking"
 			],
 			correctAnswer: 1,
-			explanation: "Cụm \"that he take a few days off...\" là một Noun Clause đi sau động từ mang tính cầu khiến \"recommended\". Đây là cấu trúc giả định (Subjunctive Mood), động từ trong mệnh đề \"that\" bắt buộc phải ở dạng nguyên mẫu không \"to\" cho tất cả các ngôi (he take)."
+			explanation: "Cụm \"that he take a few days off...\" là một Noun Clause đi sau động cơ mang tính cầu khiến \"recommended\". Đây là cấu trúc giả định (Subjunctive Mood), động cơ trong câu con \"that\" bắt buộc phải ở dạng nguyên mẫu không \"to\" cho tất cả các ngôi (he take)."
 		},
 		{
 			id: 7,
@@ -102,7 +102,7 @@ export default function EVDCQuiz(): React.JSX.Element {
 				"whom"
 			],
 			correctAnswer: 2,
-			explanation: "Cụm \"whose battery life is amazing\" là một Adjective Clause (mệnh đề quan hệ không xác định). \"Whose\" là đại từ quan hệ chỉ sự sở hữu, thay thế cho cụm \"The laptop's battery life\"."
+			explanation: "Cụm \"whose battery life is amazing\" là một Adjective Clause (câu con quan hệ không xác định). \"Whose\" là đại cơ quan hệ chỉ sự sở hữu, thay thế cho cụm \"The laptop's battery life\"."
 		},
 		{
 			id: 8,
@@ -114,7 +114,7 @@ export default function EVDCQuiz(): React.JSX.Element {
 				"has been"
 			],
 			correctAnswer: 2,
-			explanation: "Cụm \"as if she were the boss...\" là một Adverb Clause of Manner (Trạng câu chỉ cách thức) chứa cấu trúc giả định với \"as if\" (như thể là). Vì thực tế cô ấy không phải là sếp (trái thực tế ở hiện tại), động từ \"to be\" được chia thành \"were\" cho tất cả các ngôi."
+			explanation: "Cụm \"as if she were the boss...\" là một Adverb Clause of Manner (Trạng câu chỉ cách thức) chứa cấu trúc giả định với \"as if\" (như thể là). Vì thực tế cô ấy không phải là sếp (trái thực tế ở hiện tại), động cơ \"to be\" được chia thành \"were\" cho tất cả các ngôi."
 		},
 		{
 			id: 9,
@@ -126,7 +126,7 @@ export default function EVDCQuiz(): React.JSX.Element {
 				"Someone"
 			],
 			correctAnswer: 1,
-			explanation: "Toàn bộ cụm \"Whoever wins the competition\" đóng vai trò là một Noun Clause làm chủ ngữ chính cho động từ \"will receive\". \"Whoever\" (bất cứ ai) vừa làm từ nối vừa làm chủ ngữ cho động từ \"wins\" bên trong mệnh đề phụ. Nếu chọn \"Anyone\", ta phải có thêm \"who\" (Anyone who wins...)."
+			explanation: "Toàn bộ cụm \"Whoever wins the competition\" đóng vai trò là một Noun Clause làm chủ ngữ chính cho động cơ \"will receive\". \"Whoever\" (bất cứ ai) vừa làm từ nối vừa làm chủ ngữ cho động cơ \"wins\" bên trong câu con phụ. Nếu chọn \"Anyone\", ta phải có thêm \"who\" (Anyone who wins...)."
 		},
 		{
 			id: 10,

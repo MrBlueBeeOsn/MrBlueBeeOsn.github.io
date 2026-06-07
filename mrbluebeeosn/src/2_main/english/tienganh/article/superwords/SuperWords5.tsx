@@ -48,7 +48,7 @@ export default function SuperWords5(): React.JSX.Element {
 
 			</h1>
 
-			<h4 className="margin-bottom-30 text-center">Siêu Danh Cơ, Siêu Tính Cơ, Siêu Trạng Cơ — Cách hiểu mệnh đề phụ mà không cần học thuộc lòng</h4>
+			<h4 className="margin-bottom-30 text-center">Siêu Danh Cơ, Siêu Tính Cơ, Siêu Trạng Cơ — Cách hiểu câu con phụ mà không cần học thuộc lòng</h4>
 
 			<p></p>
 

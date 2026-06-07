@@ -48,7 +48,7 @@ export default function Lazily2(): React.JSX.Element {
               
             </span>
               
-            &nbsp;là một trạng từ dùng để miêu tả một hành động được thực hiện một cách chậm rãi, thiếu năng lượng và không có sự cố gắng.
+            &nbsp;là một trạng cơ dùng để miêu tả một hành động được thực hiện một cách chậm rãi, thiếu năng lượng và không có sự cố gắng.
 
           </p>
 
@@ -116,7 +116,7 @@ export default function Lazily2(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>"<strong>Lazily</strong>" thường được đặt trước động từ để bổ nghĩa.</li>
+          <li>"<strong>Lazily</strong>" thường được đặt trước động cơ để bổ nghĩa.</li>
 
           <li className="margin-bottom-20">Từ này thường mang nghĩa tiêu cực, ám chỉ sự lười biếng và thiếu trách nhiệm.</li>
 

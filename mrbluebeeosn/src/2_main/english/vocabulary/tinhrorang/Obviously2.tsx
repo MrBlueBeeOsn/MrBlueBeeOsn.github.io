@@ -116,7 +116,7 @@ export default function Obviously2(): React.JSX.Element {
 
 				<ul className="list-square">
 
-					<li>"<strong>Obviously</strong>" thường được đặt ở đầu câu hoặc trước tính từ, trạng từ để nhấn mạnh ý nghĩa.</li>
+					<li>"<strong>Obviously</strong>" thường được đặt ở đầu câu hoặc trước tính cơ, trạng cơ để nhấn mạnh ý nghĩa.</li>
 
 					<li className="margin-bottom-20">Từ này có thể được sử dụng trong nhiều ngữ cảnh khác nhau, từ cuộc trò chuyện hàng ngày đến các bài viết học thuật.</li>
 

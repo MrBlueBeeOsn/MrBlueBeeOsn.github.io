@@ -48,7 +48,7 @@ export default function ThreeDC9(): React.ReactElement {
 
 			</h1>
 
-			<h4 className="margin-bottom-30 text-center">Chinh Phục Tiếng Anh Nâng Cao: Bí Quyết Làm Chủ Bộ Ba Mệnh Đề Phụ</h4>
+			<h4 className="margin-bottom-30 text-center">Chinh Phục Tiếng Anh Nâng Cao: Bí Quyết Làm Chủ Bộ Ba Câu Con Phụ</h4>
 
 			<p></p>
 
@@ -59,7 +59,7 @@ export default function ThreeDC9(): React.ReactElement {
 
 			{/* 1.  */}
 
-			<h3 className="margin-y-50 text-center">1. Mệnh Đề Trạng Ngữ (Adverbial Clauses): "Gia vị" cho câu văn</h3>
+			<h3 className="margin-y-50 text-center">1. Câu Con Trạng Ngữ (Adverbial Clauses): "Gia vị" cho câu văn</h3>
 
 			<p></p>
 
@@ -128,7 +128,7 @@ export default function ThreeDC9(): React.ReactElement {
 			<p className="margin-top-20 text-indent-whole"></p>
 
 
-			<h4 className="margin-y-40">Nâng cao: Rút gọn Mệnh đề Trạng ngữ (Reduced Adverbial Clauses)</h4>
+			<h4 className="margin-y-40">Nâng cao: Rút gọn Câu con Trạng ngữ (Reduced Adverbial Clauses)</h4>
 					
 			<p className="text-indent-whole"></p>	
 
@@ -193,7 +193,7 @@ export default function ThreeDC9(): React.ReactElement {
 
 			{/* 2.  */}
 
-			<h3 className="margin-y-50 text-center">2. Mệnh Đề Tính Ngữ (Adjectival/Relative Clauses): "Chân dung" chi tiết</h3>
+			<h3 className="margin-y-50 text-center">2. Câu Con Tính Ngữ (Adjectival/Relative Clauses): "Chân dung" chi tiết</h3>
 
 			<p></p>
 
@@ -225,7 +225,7 @@ export default function ThreeDC9(): React.ReactElement {
 					
 			<p className="text-indent-whole"></p>
 
-			<h4 className="margin-y-40">Nâng cao: Rút gọn Mệnh đề Tính ngữ (Reduced Relative Clauses)</h4>
+			<h4 className="margin-y-40">Nâng cao: Rút gọn Câu con Tính ngữ (Reduced Relative Clauses)</h4>
 					
 			<p className="text-indent-whole"></p>
 
@@ -276,7 +276,7 @@ export default function ThreeDC9(): React.ReactElement {
 
 			{/* 3.  */}
 
-			<h3 className="margin-y-50 text-center">3. Mệnh Đề Danh Ngữ (Noun Clauses): "Đối tượng" của hành động</h3>
+			<h3 className="margin-y-50 text-center">3. Câu Con Danh Ngữ (Noun Clauses): "Đối tượng" của hành động</h3>
 
 			<p></p>
 
@@ -353,7 +353,7 @@ export default function ThreeDC9(): React.ReactElement {
 
 			{/* 4.  */}
 
-			<h3 className="margin-y-50 text-center">4. Tại sao làm chủ Bộ Ba Mệnh Đề Phụ lại quan trọng cho trình độ Advanced?</h3>
+			<h3 className="margin-y-50 text-center">4. Tại sao làm chủ Bộ Ba Câu Con Phụ lại quan trọng cho trình độ Advanced?</h3>
 
 			<p></p>
 

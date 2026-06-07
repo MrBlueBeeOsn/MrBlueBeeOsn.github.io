@@ -32,7 +32,7 @@ export default function BiMatVeTuDuyNgonNgu3(): React.JSX.Element {
 
 			<h4 className="margin-bottom-30 text-center">TƯ DUY "NGƯỢC" TRONG TIẾNG ANH: TẠI SAO NGƯỜI TÂY THẤY "THÁI ĐỘ" TRƯỚC KHI THẤY "HÀNH ĐỘNG"?</h4>
 
-			<p>Nếu việc đặt tính từ trước danh từ (<strong>Blue sky</strong>) là một cú sốc nhẹ, thì cách người bản xứ sử dụng trạng từ để mô tả hành động sẽ thực sự khiến bạn phải kinh ngạc.</p>
+			<p>Nếu việc đặt tính cơ trước danh cơ (<strong>Blue sky</strong>) là một cú sốc nhẹ, thì cách người bản xứ sử dụng trạng cơ để mô tả hành động sẽ thực sự khiến bạn phải kinh ngạc.</p>
 					
 			<p>Đã bao giờ bạn tự hỏi tại sao chúng ta nói "<strong>Anh ấy chạy thật nhanh</strong>" nhưng người Tây lại có xu hướng ưu tiên nói "<strong>He QUICKLY ran</strong>"? Một lần nữa, bí mật không nằm ở ngữ pháp, mà nằm <strong>ở thứ tự ưu tiên của bộ não</strong>.</p>
 
@@ -47,15 +47,15 @@ export default function BiMatVeTuDuyNgonNgu3(): React.JSX.Element {
 					<li><strong>Tư duy tiếng Việt</strong> (<strong>Hành động là gốc</strong>): Chúng ta nhìn thấy "việc chạy" trước, sau đó mới quan tâm xem họ chạy thế nào. Với người Việt, hành động là thực thể quan trọng nhất, còn trạng thái chỉ là phần phụ họa.</li>
 					<li className="list-none">Quy trình: <strong>Chạy</strong> (<strong>Hành động</strong>) —{'>'} Nhanh (<strong>Thái độ</strong>).</li>
 			
-					<li className="margin-top-20"><strong>Tư duy tiếng Anh</strong> (<strong>Thái độ dẫn dắt</strong>): Người bản xứ lại bị thu hút bởi "cách thức" mà hành động đó diễn ra. Khi họ dùng trạng từ đứng trước ("He <strong>suddenly realized</strong>..."), họ đang muốn thiết lập một "bầu không khí" cho hành động đó ngay từ đầu.</li>
+					<li className="margin-top-20"><strong>Tư duy tiếng Anh</strong> (<strong>Thái độ dẫn dắt</strong>): Người bản xứ lại bị thu hút bởi "cách thức" mà hành động đó diễn ra. Khi họ dùng trạng cơ đứng trước ("He <strong>suddenly realized</strong>..."), họ đang muốn thiết lập một "bầu không khí" cho hành động đó ngay từ đầu.</li>
 					
 				</ul>
 
 			<p className="margin-top-20"><strong>Nói cách khác</strong>: Người Việt kể về việc "làm gì", còn người Tây chú trọng vào việc "làm như thế nào".</p>
 
-			{/* 2. Sức mạnh của sự "Cảnh báo" – Tại sao trạng từ lại đi trước? */}
+			{/* 2. Sức mạnh của sự "Cảnh báo" – Tại sao trạng cơ lại đi trước? */}
 
-			<h3 className="margin-y-50 text-center">2. Sức mạnh của sự "Cảnh báo" – Tại sao trạng từ lại đi trước?</h3>
+			<h3 className="margin-y-50 text-center">2. Sức mạnh của sự "Cảnh báo" – Tại sao trạng cơ lại đi trước?</h3>
 					
 			<p>Tại sao lại phải nói "He <strong>quietly</strong> opened the door" thay vì đợi đến cuối câu mới nói chữ "quietly"?.</p>
 
@@ -71,7 +71,7 @@ export default function BiMatVeTuDuyNgonNgu3(): React.JSX.Element {
 			
 				</ol>
 
-			<p className="margin-top-20">Việc đưa trạng từ lên trước giống như cách một đạo diễn đặt nhạc nền cho cảnh phim. Nó chuẩn bị tâm lý cho người nghe, giúp họ hình dung ra sắc thái của hành động trước khi hành động đó kịp thành hình.</p>
+			<p className="margin-top-20">Việc đưa trạng cơ lên trước giống như cách một đạo diễn đặt nhạc nền cho cảnh phim. Nó chuẩn bị tâm lý cho người nghe, giúp họ hình dung ra sắc thái của hành động trước khi hành động đó kịp thành hình.</p>
 
 			{/* 3. "Dịch chuyển" tiêu điểm: Từ Việc làm đến Cách làm */}
 					
@@ -81,9 +81,9 @@ export default function BiMatVeTuDuyNgonNgu3(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>Thay vì nghĩ: "Nói (động từ) + một cách nhẹ nhàng", hãy tập nghĩ: "<strong>Một sự nhẹ nhàng</strong>... <strong>trong lời nói</strong>" (Softly spoke).</li>
+					<li>Thay vì nghĩ: "Nói (động cơ) + một cách nhẹ nhàng", hãy tập nghĩ: "<strong>Một sự nhẹ nhàng</strong>... <strong>trong lời nói</strong>" (Softly spoke).</li>
 			
-					<li>Thay vì nghĩ: "Hiểu (động từ) + hoàn toàn", hãy tập nghĩ: "<strong>Một sự trọn vẹn</strong>... <strong>trong nhận thức</strong>" (Completely understand).</li>
+					<li>Thay vì nghĩ: "Hiểu (động cơ) + hoàn toàn", hãy tập nghĩ: "<strong>Một sự trọn vẹn</strong>... <strong>trong nhận thức</strong>" (Completely understand).</li>
 			
 				</ul>
 
@@ -95,7 +95,7 @@ export default function BiMatVeTuDuyNgonNgu3(): React.JSX.Element {
 
 			<p>Bí kíp để đạt được sự tự nhiên trong giao tiếp là hãy biến các cặp <strong>Trạng cơ</strong> + <strong>Động cơ</strong> thành những khối cảm xúc không thể tách rời (Emotion Chunks).</p>
 
-			<p>Đừng học từ Suddenly (đột ngột) và Stop (dừng lại) như hai mảnh ghép rời rạc. Hãy nạp vào đầu hình ảnh của một "sự dừng lại đột ngột" (<strong>Suddenly stopped</strong>). Khi đó, mỗi khi bạn muốn diễn tả một sự thay đổi bất ngờ, trạng từ "Suddenly" sẽ tự động bật ra như một phản xạ tự nhiên để dọn đường cho hành động theo sau.</p>
+			<p>Đừng học từ Suddenly (đột ngột) và Stop (dừng lại) như hai mảnh ghép rời rạc. Hãy nạp vào đầu hình ảnh của một "sự dừng lại đột ngột" (<strong>Suddenly stopped</strong>). Khi đó, mỗi khi bạn muốn diễn tả một sự thay đổi bất ngờ, trạng cơ "Suddenly" sẽ tự động bật ra như một phản xạ tự nhiên để dọn đường cho hành động theo sau.</p>
 
 			<h3 className="margin-y-50 text-center">Lời kết:</h3>
 

@@ -48,7 +48,7 @@ export default function SuperWords9(): React.JSX.Element {
 
 			</h1>
 
-			<h4 className="margin-bottom-30 text-center">Ultimate Guide: Mở Khóa Sức Mạnh Của Mệnh Đề Với Khái Niệm "Siêu Từ Loại" Trong Tiếng Anh</h4>
+			<h4 className="margin-bottom-30 text-center">Ultimate Guide: Mở Khóa Sức Mạnh Của Câu Con Với Khái Niệm "Siêu Từ Loại" Trong Tiếng Anh</h4>
 
 			<h3 className="margin-y-50 text-center">Giới thiệu: Khi Ngữ Pháp Trở Nên Trực Quan Hơn Bao Giờ Hết</h3>
 
@@ -67,7 +67,7 @@ export default function SuperWords9(): React.JSX.Element {
 
 			{/* 2.  */}
 
-			<h3 className="margin-y-50 text-center">2. Super-noun (Siêu Danh Cơ): Mệnh Đề Danh Cơ - Danh Cơ Dài</h3>
+			<h3 className="margin-y-50 text-center">2. Super-noun (Siêu Danh Cơ): Câu Con Danh Cơ - Danh Cơ Dài</h3>
 
 			<p></p>
 
@@ -127,7 +127,7 @@ export default function SuperWords9(): React.JSX.Element {
 			<p className="margin-top-20 text-indent-whole"></p>
 
 
-			<h4 className="margin-y-40">Tân ngữ của giới từ (Object of Preposition)</h4>
+			<h4 className="margin-y-40">Tân ngữ của giới cơ (Object of Preposition)</h4>
 					
 			<p className="text-indent-whole"></p>
 
@@ -185,7 +185,7 @@ export default function SuperWords9(): React.JSX.Element {
 
 			{/* 3.  */}
 
-			<h3 className="margin-y-50 text-center">3. Super-adjective (Siêu Tính Cơ): Mệnh Đề Tính Cơ - Tính Cơ Dài</h3>
+			<h3 className="margin-y-50 text-center">3. Super-adjective (Siêu Tính Cơ): Câu Con Tính Cơ - Tính Cơ Dài</h3>
 
 			<p></p>
 
@@ -300,7 +300,7 @@ export default function SuperWords9(): React.JSX.Element {
 
 			{/* 4.  */}
 
-			<h3 className="margin-y-50 text-center">4. Super-adverb (Siêu Trạng Cơ): Mệnh Đề Trạng Cơ - Trạng Cơ Dài</h3>
+			<h3 className="margin-y-50 text-center">4. Super-adverb (Siêu Trạng Cơ): Câu Con Trạng Cơ - Trạng Cơ Dài</h3>
 
 			<p></p>
 

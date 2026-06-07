@@ -30,7 +30,7 @@ export default function EVSingularPluralNounsQuiz(): React.JSX.Element {
 				"sheepses"
 			],
 			correctAnswer: 1,
-			explanation: "\"Sheep\" là danh từ có hình thức số ít và số nhiều giống hệt nhau. Không bao giờ thêm \"s\" vào sau từ này."
+			explanation: "\"Sheep\" là danh cơ có hình thức số ít và số nhiều giống hệt nhau. Không bao giờ thêm \"s\" vào sau từ này."
 		},
 		{
 			id: 2,
@@ -42,7 +42,7 @@ export default function EVSingularPluralNounsQuiz(): React.JSX.Element {
 				"knivs"
 			],
 			correctAnswer: 2,
-			explanation: "Các danh từ kết thúc bằng đuôi \"-fe\" thường được đổi thành \"-ves\" khi chuyển sang số nhiều (knife -> knives)."
+			explanation: "Các danh cơ kết thúc bằng đuôi \"-fe\" thường được đổi thành \"-ves\" khi chuyển sang số nhiều (knife -> knives)."
 		},
 		{
 			id: 3,
@@ -90,7 +90,7 @@ export default function EVSingularPluralNounsQuiz(): React.JSX.Element {
 				"phenomenoes"
 			],
 			correctAnswer: 1,
-			explanation: "Đây là danh từ gốc Hy Lạp. \"Phenomenon\" là số ít và \"phenomena\" là số nhiều."
+			explanation: "Đây là danh cơ gốc Hy Lạp. \"Phenomenon\" là số ít và \"phenomena\" là số nhiều."
 		},
 		{
 			id: 7,

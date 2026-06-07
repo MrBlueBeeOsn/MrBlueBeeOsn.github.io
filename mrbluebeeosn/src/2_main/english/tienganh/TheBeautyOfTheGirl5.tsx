@@ -92,7 +92,7 @@ export default function TheBeautyOfTheGirl5(): React.JSX.Element {
 			
 				</ul>
 
-				<p className="margin-top-20 text-indent-whole">Chuyển mọi tính từ thành danh từ!</p>
+				<p className="margin-top-20 text-indent-whole">Chuyển mọi tính cơ thành danh cơ!</p>
 
 			<h4 className="margin-y-20"><strong>Ngày 6-7</strong>: <strong>Tự động hóa</strong></h4>
 

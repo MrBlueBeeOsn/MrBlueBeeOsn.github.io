@@ -39,7 +39,7 @@ export default function NhanDienCumDongTuTiengAnh(): React.JSX.Element {
 
 					<li className="list-none">(has, had, is, are, will, am going to, can, should, been, -ed, V-ing, V3…)</li>
 			
-					<li><strong>Tay phải</strong> = <strong>What</strong> (cái gì): động từ chính luôn nằm cuối cùng</li>
+					<li><strong>Tay phải</strong> = <strong>What</strong> (cái gì): động cơ chính luôn nằm cuối cùng</li>
 			
 				</ul>
 
@@ -237,7 +237,7 @@ export default function NhanDienCumDongTuTiengAnh(): React.JSX.Element {
 			
 					<li><strong>Tay trái</strong> = <strong>When</strong>: gom hết mọi dấu hiệu thời gian (quá khứ + hiện tại + tương lai)</li>
 			
-					<li><strong>Tay phải</strong> = <strong>What</strong>: động từ chính luôn nằm cuối cùng</li>
+					<li><strong>Tay phải</strong> = <strong>What</strong>: động cơ chính luôn nằm cuối cùng</li>
 			
 				</ul>
 

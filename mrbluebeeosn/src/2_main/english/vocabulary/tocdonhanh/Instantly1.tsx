@@ -230,7 +230,7 @@ export default function Instantly1(): React.JSX.Element {
 
           <li>Thời gian cực ngắn: "<strong>Instantly</strong>" nhấn mạnh vào sự xảy ra của một sự việc trong một khoảng thời gian cực kỳ ngắn.</li>
 
-          <li className="margin-bottom-20">Không có sự trì hoãn: Nó đối lập với các trạng từ như "gradually" hay "slowly".</li>
+          <li className="margin-bottom-20">Không có sự trì hoãn: Nó đối lập với các trạng cơ như "gradually" hay "slowly".</li>
 
         </ul>
 

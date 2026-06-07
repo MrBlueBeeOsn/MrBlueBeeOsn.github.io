@@ -209,7 +209,7 @@ export default function Not1(): React.JSX.Element {
             <li className="list-none">Do you want coffee? - ______, thank you.</li>
             <li className="list-none margin-bottom-20">Bạn có muốn cà phê không? - Không, cảm ơn.</li>
 
-            <li value="2"><strong>Not</strong>: <span className="highlight-255-padding-0-4">Thường dùng để phủ định một động từ</span>.</li>
+            <li value="2"><strong>Not</strong>: <span className="highlight-255-padding-0-4">Thường dùng để phủ định một động cơ</span>.</li>
             <li className="list-none">I am ______ going.</li>
             <li className="list-none margin-bottom-20">Tôi không đi.</li>
 
@@ -227,7 +227,7 @@ export default function Not1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>"<strong>Not</strong>" thường đứng trước động từ chính trong câu.</li>
+          <li>"<strong>Not</strong>" thường đứng trước động cơ chính trong câu.</li>
 
           <li className="margin-bottom-20">Nó là một từ phủ định rất quan trọng trong tiếng Anh.</li>
 

@@ -216,7 +216,7 @@ export default function Always1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>"<strong>Always</strong>" thường được đặt ở đầu câu hoặc trước động từ chính.</li>
+          <li>"<strong>Always</strong>" thường được đặt ở đầu câu hoặc trước động cơ chính.</li>
 
           <li className="margin-bottom-20">Nó thể hiện một sự chắc chắn và tuyệt đối về tần suất xảy ra của một hành động.</li>
 

@@ -223,7 +223,7 @@ export default function Never1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>"<strong>Never</strong>" thường được đặt ở đầu câu hoặc trước động từ chính.</li>
+          <li>"<strong>Never</strong>" thường được đặt ở đầu câu hoặc trước động cơ chính.</li>
 
           <li className="margin-bottom-20">"<strong>Never</strong>" thường được dùng để nhấn mạnh sự phủ định hoàn toàn.</li>
 

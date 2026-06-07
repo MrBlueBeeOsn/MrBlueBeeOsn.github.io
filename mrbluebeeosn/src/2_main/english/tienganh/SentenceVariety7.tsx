@@ -64,15 +64,15 @@ export default function SentenceVariety7(): React.JSX.Element {
 					<li className="list-none">She smiled.</li>
 					<li className="margin-bottom-20 list-none">Cô ấy mỉm cười.</li>
 
-					<li><strong>Câu ghép</strong> (<strong>Compound sentence</strong>): nối hai (hoặc nhiều) mệnh đề độc lập bằng liên từ (and, but, or, so) hoặc chấm phẩy.</li>
+					<li><strong>Câu ghép</strong> (<strong>Compound sentence</strong>): nối hai (hoặc nhiều) câu con độc lập bằng liên cơ (and, but, or, so) hoặc chấm phẩy.</li>
 					<li className="list-none">She smiled, and he waved.</li>
 					<li className="margin-bottom-20 list-none">Cô mỉm cười, và anh vẫy tay.</li>
 
-					<li><strong>Câu phức</strong> (<strong>Complex sentence</strong>): có một mệnh đề chính và ít nhất một mệnh đề phụ (because, when, if, although...).</li>
+					<li><strong>Câu phức</strong> (<strong>Complex sentence</strong>): có một câu con chính và ít nhất một câu con phụ (because, when, if, although...).</li>
 					<li className="list-none">Because she was tired, she left early.</li>
 					<li className="margin-bottom-20 list-none">Vì cô mệt, cô về sớm.</li>
 			
-					<li><strong>Câu ghép‑phức</strong> (<strong>Compound-complex</strong>): kết hợp cả hai — nhiều mệnh đề độc lập và mệnh đề phụ.</li>
+					<li><strong>Câu ghép‑phức</strong> (<strong>Compound-complex</strong>): kết hợp cả hai — nhiều câu con độc lập và câu con phụ.</li>
 					<li className="margin-bottom-20 list-none">Because she was tired, she left early, and he stayed to finish the work.</li>
 
 					<li><strong>Các dạng đặc biệt</strong>: câu hỏi tu từ, câu ellipsis (bỏ từ), câu với cụm phân từ hay đảo ngữ — dùng để nhấn mạnh hoặc tạo phong cách.</li>
@@ -87,16 +87,16 @@ export default function SentenceVariety7(): React.JSX.Element {
 
 				<ul className="list-square">
 
-					<li>Có dấu phẩy nối mệnh đề độc lập + liên từ (<strong>and</strong>/<strong>but</strong>):</li>
+					<li>Có dấu phẩy nối câu con độc lập + liên cơ (<strong>and</strong>/<strong>but</strong>):</li>
 					<li className="margin-bottom-20 list-none">Khả năng là câu ghép.</li>
 
 					<li>Có từ nối như <strong>because</strong>/<strong>when</strong>/<strong>if</strong>/<strong>although</strong> ở đầu hoặc giữa câu:</li>
 					<li className="margin-bottom-20 list-none">Khả năng là câu phức.</li>
 			
-					<li><strong>Nhiều động từ chia chính</strong> trong cùng câu (= nhiều mệnh đề độc lập):</li>
+					<li><strong>Nhiều động cơ chia chính</strong> trong cùng câu (= nhiều câu con độc lập):</li>
 					<li className="margin-bottom-20 list-none">Thường là câu ghép hoặc ghép‑phức.</li>
 
-					<li>Câu ngắn, <strong>một động từ chính</strong>:</li>
+					<li>Câu ngắn, <strong>một động cơ chính</strong>:</li>
 					<li className="list-none">Thường là câu đơn.</li>
 			
 				</ul>
@@ -130,19 +130,19 @@ export default function SentenceVariety7(): React.JSX.Element {
 
 				<ul className="list-square">
 
-					<li><strong>Bước 1</strong> — <strong>Khung đơn giản</strong>: Chủ ngữ + động từ + (bổ ngữ).</li>
+					<li><strong>Bước 1</strong> — <strong>Khung đơn giản</strong>: Chủ ngữ + động cơ + (bổ ngữ).</li>
 					<li className="margin-bottom-20 list-none">I study English.</li>
 
-					<li><strong>Bước 2</strong> — <strong>Thêm chi tiết</strong>: thêm tân ngữ, trạng từ.</li>
+					<li><strong>Bước 2</strong> — <strong>Thêm chi tiết</strong>: thêm tân ngữ, trạng cơ.</li>
 					<li className="margin-bottom-20 list-none">I study English every morning.</li>
 
 					<li><strong>Bước 3</strong> — <strong>Ghép ý liên quan</strong>: dùng and/but để nối hai ý.</li>
 					<li className="margin-bottom-20 list-none">I study English, and I practice speaking.</li>
 			
-					<li><strong>Bước 4</strong> — <strong>Thêm mệnh đề phụ</strong>: dùng because/when/if để giải thích hoặc chỉ điều kiện.</li>
+					<li><strong>Bước 4</strong> — <strong>Thêm câu con phụ</strong>: dùng because/when/if để giải thích hoặc chỉ điều kiện.</li>
 					<li className="margin-bottom-20 list-none">Because I want to improve, I study every day.</li>
 
-					<li><strong>Bước 5</strong> — <strong>Kết hợp phức tạp</strong>: nối nhiều mệnh đề và mệnh đề phụ khi cần bối cảnh và liên kết.</li>
+					<li><strong>Bước 5</strong> — <strong>Kết hợp phức tạp</strong>: nối nhiều câu con và câu con phụ khi cần bối cảnh và liên kết.</li>
 					<li className="list-none">Because I want to improve, I study every day, and I join a conversation club on weekends.</li>
 			
 				</ul>
@@ -155,7 +155,7 @@ export default function SentenceVariety7(): React.JSX.Element {
 
 					<li>Luôn xen kẽ câu ngắn và câu dài trong đoạn văn.</li>
 
-					<li>Đa dạng cách mở đầu: <strong>dùng trạng từ</strong>, <strong>mệnh đề phụ</strong>, <strong>cụm phân từ</strong>, <strong>danh từ</strong>.</li>
+					<li>Đa dạng cách mở đầu: <strong>dùng trạng cơ</strong>, <strong>câu con phụ</strong>, <strong>cụm phân từ</strong>, <strong>danh cơ</strong>.</li>
 
 					<li>Dùng dấu câu để điều tiết nhịp (chấm phẩy giúp nối ý mà vẫn giữ nhịp).</li>
 
@@ -197,15 +197,15 @@ export default function SentenceVariety7(): React.JSX.Element {
 			
 				</ul>
 			
-			<p className="margin-top-20">Câu cuối có ba mệnh đề, hai mệnh đề phụ thuộc (because... và although...) và một mệnh đề tính từ (which...). Đây là mức độ người bản xứ.</p>
+			<p className="margin-top-20">Câu cuối có ba câu con, hai phụ câu (because... và although...) và một câu con tính cơ (which...). Đây là mức độ người bản xứ.</p>
 
 			{/* Kết luận */}
 
 			<h3 className="margin-y-50 text-center">Kết luận</h3>
 
-			<p>Phụ câu không thể đứng một mình — đó là đặc điểm xác định. Nhưng chính vì vậy, khi kết hợp với mệnh đề độc lập, nó tạo nên câu phức — công cụ mạnh nhất để viết tiếng Anh học thuật, mạch lạc và tự nhiên.</p>
+			<p>Phụ câu không thể đứng một mình — đó là đặc điểm xác định. Nhưng chính vì vậy, khi kết hợp với câu con độc lập, nó tạo nên câu phức — công cụ mạnh nhất để viết tiếng Anh học thuật, mạch lạc và tự nhiên.</p>
 
-			<p>Thành thạo mệnh đề phụ thuộc = Viết câu phức dễ dàng = Nâng band IELTS/TOEFL = Viết như người bản xứ.</p>
+			<p>Thành thạo phụ câu = Viết câu phức dễ dàng = Nâng band IELTS/TOEFL = Viết như người bản xứ.</p>
 
 			<p>Bắt đầu ngay hôm nay: Chọn although, viết 5 câu phức. Trong 7 ngày, bạn sẽ thấy sự khác biệt. Trong 30 ngày, bạn sẽ không còn viết câu đơn nữa.</p>
 

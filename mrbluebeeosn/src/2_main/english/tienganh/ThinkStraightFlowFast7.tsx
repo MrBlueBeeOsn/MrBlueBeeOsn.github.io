@@ -49,9 +49,9 @@ export default function ThinkStraightFlowFast7(): React.JSX.Element {
 
 			<h4 className="margin-bottom-30 text-center">Bí Quyết Học Tiếng Anh Siêu Tốc: Đổi Cấu Trúc Não Bộ Từ Trái Sang Phải!</h4>
 
-			<p>Bạn có bao giờ tự hỏi tại sao người Đức, Hà Lan, hay Nhật Bản học tiếng Anh "như ăn kẹo", trong khi chúng ta – những người Việt – cứ mãi vật lộn với cấu trúc câu? <strong>Bí mật nằm ở cách sắp xếp ngôn ngữ</strong>! Tiếng Anh (và nhiều ngôn ngữ khác) đặt <strong>tính từ trước danh từ</strong> (adj-noun), như "beautiful flower" (hoa đẹp). Tiếng Việt thì ngược lại: "hoa đẹp". Kết quả? Não bộ ta phải "quay ngược xe" mỗi khi dịch, làm chậm quá trình học.</p>
+			<p>Bạn có bao giờ tự hỏi tại sao người Đức, Hà Lan, hay Nhật Bản học tiếng Anh "như ăn kẹo", trong khi chúng ta – những người Việt – cứ mãi vật lộn với cấu trúc câu? <strong>Bí mật nằm ở cách sắp xếp ngôn ngữ</strong>! Tiếng Anh (và nhiều ngôn ngữ khác) đặt <strong>tính cơ trước danh cơ</strong> (adj-noun), như "beautiful flower" (hoa đẹp). Tiếng Việt thì ngược lại: "hoa đẹp". Kết quả? Não bộ ta phải "quay ngược xe" mỗi khi dịch, làm chậm quá trình học.</p>
 
-			<p>Nhưng mình có cách hack não bộ siêu hiệu quả mà ít ai biết: <strong>Dịch xuôi từ trái sang phải</strong>, <strong>ưu tiên tính từ trước danh từ</strong>! Nghe lạ? Thử đi, bạn sẽ nghiện!</p>
+			<p>Nhưng mình có cách hack não bộ siêu hiệu quả mà ít ai biết: <strong>Dịch xuôi từ trái sang phải</strong>, <strong>ưu tiên tính cơ trước danh cơ</strong>! Nghe lạ? Thử đi, bạn sẽ nghiện!</p>
 
 			{/* Tại Sao Phương Pháp Này "Thần Thánh"? */}
 
@@ -61,7 +61,7 @@ export default function ThinkStraightFlowFast7(): React.JSX.Element {
 			
 					<li><strong>Đồng nhất cấu trúc não</strong>: Người Hàn, Trung, Thụy Điển học Anh dễ vì ngôn ngữ mẹ đẻ họ cũng "adj-noun". Tiếng Việt có chút tương đồng (như "hữu ích thông tin"), nhưng ít dùng. Hãy <strong>tăng cường nó lên 100</strong>%!</li>
 			
-					<li><strong>Tránh</strong> "<strong>quay đầu xe</strong>": Đừng dịch ngược (danh từ rồi mới tính từ). Hãy để ngôn ngữ <strong>chảy từ trái sang phải</strong>, giống tiếng Anh gốc. Não bộ sẽ nhanh hơn, tự tin hơn.</li>
+					<li><strong>Tránh</strong> "<strong>quay đầu xe</strong>": Đừng dịch ngược (danh cơ rồi mới tính cơ). Hãy để ngôn ngữ <strong>chảy từ trái sang phải</strong>, giống tiếng Anh gốc. Não bộ sẽ nhanh hơn, tự tin hơn.</li>
 			
 					<li><strong>Khoa học chứng minh</strong>: Thói quen này rèn "mental flow", giảm tải nhận thức (cognitive load). Mình áp dụng 2 tuần, nghe-nói tiến bộ vọt!</li>
 			
@@ -121,7 +121,7 @@ export default function ThinkStraightFlowFast7(): React.JSX.Element {
 				<ol>
 			
 					<li><strong>Ngày 1-3</strong>: Đọc to 20 cụm adj-noun từ bảng trên, 10 phút/ngày.</li>
-					<li><strong>Ngày 4-5</strong>: Nghe TED Talks chậm, pause và dịch xuôi câu có tính từ.</li>
+					<li><strong>Ngày 4-5</strong>: Nghe TED Talks chậm, pause và dịch xuôi câu có tính cơ.</li>
 					<li><strong>Ngày 6-7</strong>: Viết nhật ký 100 từ bằng cấu trúc mới. Ghi âm nói theo!</li>
 			
 				</ol>

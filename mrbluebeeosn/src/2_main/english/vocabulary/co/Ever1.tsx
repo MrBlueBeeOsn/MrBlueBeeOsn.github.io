@@ -220,7 +220,7 @@ export default function Ever1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>"<strong>Ever</strong>" thường được đặt ở cuối câu hỏi hoặc sau động từ chính trong câu khẳng định.</li>
+          <li>"<strong>Ever</strong>" thường được đặt ở cuối câu hỏi hoặc sau động cơ chính trong câu khẳng định.</li>
 
           <li className="margin-bottom-20">"<strong>Ever</strong>" có thể được dùng để nhấn mạnh một trải nghiệm đặc biệt hoặc một khoảng thời gian dài.</li>
 

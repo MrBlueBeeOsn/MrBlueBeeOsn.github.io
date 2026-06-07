@@ -50,7 +50,7 @@ export default function DependentClause6(): React.JSX.Element {
 
 			<h4 className="margin-bottom-30 text-center">Dependent Clause: Nền tảng để viết tiếng Anh nâng cao</h4>
 
-			<p>Trong tiếng Anh, <strong>dependent clause</strong> (<strong>mệnh đề phụ thuộc</strong>) là một phần câu có chủ ngữ + động từ nhưng không thể đứng một mình. Nó cần một independent clause (mệnh đề chính) để tạo thành câu hoàn chỉnh.</p>
+			<p>Trong tiếng Anh, <strong>dependent clause</strong> (<strong>phụ câu</strong>) là một phần câu có chủ ngữ + động cơ nhưng không thể đứng một mình. Nó cần một independent clause (câu con chính) để tạo thành câu hoàn chỉnh.</p>
 					
 			<p>Khi hiểu rõ và sử dụng thành thạo, bạn sẽ viết câu phức tinh tế, đọc hiểu sâu hơn và diễn đạt ý tưởng mạch lạc hơn.</p>
 
@@ -78,12 +78,12 @@ export default function DependentClause6(): React.JSX.Element {
 					<li><strong>Although she was tired</strong>, she finished the report.</li>
 					<li className="margin-bottom-20 list-none">Mặc dù mệt, cô ấy vẫn hoàn thành xong bản báo cáo.</li>
 
-					<li className="margin-bottom-20 list-none">→ “Although she was tired” có chủ ngữ (she) và động từ (was tired), nhưng không thể đứng một mình. Nó bổ nghĩa cho mệnh đề chính “she finished the report.”</li>
+					<li className="margin-bottom-20 list-none">→ “Although she was tired” có chủ ngữ (she) và động cơ (was tired), nhưng không thể đứng một mình. Nó bổ nghĩa cho câu con chính “she finished the report.”</li>
 			
 					<li>The house <strong>which stands near the river</strong> is old.</li>
 					<li className="margin-bottom-20 list-none">Ngôi nhà nằm cạnh bờ sông đã cũ rồi.</li>
 
-					<li className="margin-bottom-20 list-none">→ “which stands near the river” mô tả danh từ the house. Đây là mệnh đề quan hệ.</li>
+					<li className="margin-bottom-20 list-none">→ “which stands near the river” mô tả danh cơ the house. Đây là câu con quan hệ.</li>
 			
 					<li><strong>What you choose</strong> will affect your future.</li>
 					<li className="margin-bottom-20 list-none">Những gì bạn chọn lựa hôm nay sẽ định hình tương lai của chính bạn.</li>
@@ -99,7 +99,7 @@ export default function DependentClause6(): React.JSX.Element {
 
 			<h4 className="margin-y-40">1. Adverbial Clause (Trạng câu)</h4>
 					
-			<p className="text-indent-whole">Chức năng: bổ nghĩa cho động từ, chỉ thời gian, nguyên nhân, điều kiện, nhượng bộ.</p>
+			<p className="text-indent-whole">Chức năng: bổ nghĩa cho động cơ, chỉ thời gian, nguyên nhân, điều kiện, nhượng bộ.</p>
 			
 				<ul className="list-square">
 			
@@ -112,9 +112,9 @@ export default function DependentClause6(): React.JSX.Element {
 				</ul>
 		
 
-			<h4 className="margin-y-40">2. Adjective/Relative Clause (Mệnh đề tính từ/quan hệ)</h4>
+			<h4 className="margin-y-40">2. Adjective/Relative Clause (Câu con tính cơ/quan hệ)</h4>
 					
-			<p className="text-indent-whole">Chức năng: mô tả hoặc bổ sung thông tin cho danh từ.</p>
+			<p className="text-indent-whole">Chức năng: mô tả hoặc bổ sung thông tin cho danh cơ.</p>
 			
 				<ul className="list-square">
 			
@@ -129,7 +129,7 @@ export default function DependentClause6(): React.JSX.Element {
 
 			<h4 className="margin-y-40">3. Noun Clause (Danh câu)</h4>
 					
-			<p className="text-indent-whole">Chức năng: đóng vai trò như một danh từ — làm chủ ngữ, tân ngữ hoặc bổ ngữ.</p>
+			<p className="text-indent-whole">Chức năng: đóng vai trò như một danh cơ — làm chủ ngữ, tân ngữ hoặc bổ ngữ.</p>
 			
 				<ul className="list-square">
 			
@@ -148,7 +148,7 @@ export default function DependentClause6(): React.JSX.Element {
 
 			<h4 className="margin-y-40">1. Chọn từ nối phù hợp:</h4>
 					
-			<p className="text-indent-whole">Dựa vào ý định (thời gian, nguyên nhân, mô tả, danh từ).</p>
+			<p className="text-indent-whole">Dựa vào ý định (thời gian, nguyên nhân, mô tả, danh cơ).</p>
 			
 				<ul className="list-square">
 			
@@ -160,7 +160,7 @@ export default function DependentClause6(): React.JSX.Element {
 
 			<h4 className="margin-y-40">2. Xác định chức năng:</h4>
 					
-			<p className="text-indent-whole">Trạng ngữ, tính từ hay danh từ.</p>
+			<p className="text-indent-whole">Trạng ngữ, tính cơ hay danh cơ.</p>
 			
 				<ul className="list-square">
 			
@@ -170,7 +170,7 @@ export default function DependentClause6(): React.JSX.Element {
 				</ul>
 
 
-			<h4 className="margin-y-40">3. Ghép với mệnh đề chính:</h4>
+			<h4 className="margin-y-40">3. Ghép với câu con chính:</h4>
 					
 			<p className="text-indent-whole">Dependent clause + independent clause.</p>
 			
@@ -184,14 +184,14 @@ export default function DependentClause6(): React.JSX.Element {
 
 			<h4 className="margin-y-40">4. Kiểm tra tính độc lập:</h4>
 					
-			<p className="text-indent-whole">Tách mệnh đề ra; nếu không thể đứng một mình, đó là dependent clause.</p>
+			<p className="text-indent-whole">Tách câu con ra; nếu không thể đứng một mình, đó là dependent clause.</p>
 			
 				<ul className="list-square">
 			
 					<li><strong>If</strong> you study hard</li>
 					<li className="margin-bottom-20 list-none">Nếu bạn học hành chăm chỉ...</li>
 
-					<li className="list-none">→ Chưa đủ ý, cần mệnh đề chính.</li>
+					<li className="list-none">→ Chưa đủ ý, cần câu con chính.</li>
 			
 				</ul>
 
@@ -207,7 +207,7 @@ export default function DependentClause6(): React.JSX.Element {
 				<ul className="list-square">
 			
 					<li>Running fast (phrase) ≠ He runs fast (clause).</li>
-					<li className="list-none">Chạy nhanh (cụm từ) ≠ Anh ấy chạy nhanh (mệnh đề).</li>
+					<li className="list-none">Chạy nhanh (cụm từ) ≠ Anh ấy chạy nhanh (câu con).</li>
 			
 				</ul>
 
@@ -226,7 +226,7 @@ export default function DependentClause6(): React.JSX.Element {
 
 			<h4 className="margin-y-40">That:</h4>
 					
-			<p className="text-indent-whole">Thường dùng trong mệnh đề quan hệ xác định hoặc mệnh đề danh từ, không cần dấu phẩy.</p>
+			<p className="text-indent-whole">Thường dùng trong câu con quan hệ xác định hoặc câu con danh cơ, không cần dấu phẩy.</p>
 			
 				<ul className="list-square">
 			
@@ -311,7 +311,7 @@ export default function DependentClause6(): React.JSX.Element {
 
 			<p>Dependent clause không phải là phần phụ vô nghĩa, mà là <strong>công cụ tạo chiều sâu cho câu văn</strong>.</p>
 
-			<p>Khi bạn luyện tập nhận diện, phân loại và viết theo bước, việc sử dụng mệnh đề phụ sẽ trở thành thói quen tự nhiên, giúp tiếng Anh của bạn mạch lạc, logic và chuyên nghiệp hơn.</p>
+			<p>Khi bạn luyện tập nhận diện, phân loại và viết theo bước, việc sử dụng câu con phụ sẽ trở thành thói quen tự nhiên, giúp tiếng Anh của bạn mạch lạc, logic và chuyên nghiệp hơn.</p>
 
 			<div className="viewcounter">
 			

@@ -29,9 +29,9 @@ export default function SauDangDongTuTiengAnh1(): React.JSX.Element {
 
 			<h4 className="margin-bottom-30 text-center">Nhớ Siêu Dễ Với 3 Cặp “Đối Thủ”! 💥</h4>
 
-			<p>Bạn có bao giờ thấy động từ tiếng Anh “lằng nhằng” với quá nhiều dạng?</p>
+			<p>Bạn có bao giờ thấy động cơ tiếng Anh “lằng nhằng” với quá nhiều dạng?</p>
 
-			<p>Tin vui: Chỉ cần nhớ <strong>6 dạng cơ bản</strong> theo <strong>3 cặp đối thủ</strong> cực kỳ dễ hình dung, bạn sẽ nắm chắc 95% cách dùng động từ trong giao tiếp hàng ngày.</p>
+			<p>Tin vui: Chỉ cần nhớ <strong>6 dạng cơ bản</strong> theo <strong>3 cặp đối thủ</strong> cực kỳ dễ hình dung, bạn sẽ nắm chắc 95% cách dùng động cơ trong giao tiếp hàng ngày.</p>
 			
 			<p>Cách nhớ này siêu đơn giản, giống như “đấu tay đôi” giữa các dạng, giúp não bạn lưu trữ lâu hơn.</p>
 
@@ -141,7 +141,7 @@ export default function SauDangDongTuTiengAnh1(): React.JSX.Element {
 
 					</ul>
 
-					<p className="margin-top-20"><strong>To Work</strong> (động từ nguyên mẫu có “to” – to-infinitive): Dùng sau want, need, decide, plan, hope, learn, try, promise…</p>
+					<p className="margin-top-20"><strong>To Work</strong> (động cơ nguyên mẫu có “to” – to-infinitive): Dùng sau want, need, decide, plan, hope, learn, try, promise…</p>
 
 					<p className="text-indent-whole">Ví dụ:</p>
 
@@ -171,7 +171,7 @@ export default function SauDangDongTuTiengAnh1(): React.JSX.Element {
 			
 				</ol>
 
-			<p className="margin-top-20 text-indent-whole">Khi bạn đã quen 3 cặp này, chỉ cần thay work bằng bất kỳ động từ nào (eat, go, play, live, study, love, drink…) là bạn đã có thể nói đúng hầu hết các câu!</p>
+			<p className="margin-top-20 text-indent-whole">Khi bạn đã quen 3 cặp này, chỉ cần thay work bằng bất kỳ động cơ nào (eat, go, play, live, study, love, drink…) là bạn đã có thể nói đúng hầu hết các câu!</p>
 
 			<h3 className="margin-y-50 text-center">Thử ngay một ngày của bạn bằng 3 cặp đối thủ</h3>
 
@@ -197,7 +197,7 @@ export default function SauDangDongTuTiengAnh1(): React.JSX.Element {
 			
 				</ul>
 
-			<p className="margin-top-20">Chỉ 10 phút mỗi ngày, sau 3 ngày bạn sẽ thấy: Tiếng Anh không còn là “động từ lằng nhằng” nữa, mà chỉ còn 3 cặp đấu tay đôi vui vẻ và dễ nhớ!</p>
+			<p className="margin-top-20">Chỉ 10 phút mỗi ngày, sau 3 ngày bạn sẽ thấy: Tiếng Anh không còn là “động cơ lằng nhằng” nữa, mà chỉ còn 3 cặp đấu tay đôi vui vẻ và dễ nhớ!</p>
 
 			<p>Bạn chọn cặp nào để “xem trận đấu” đầu tiên hôm nay? Cặp 1, cặp 2 hay cặp 3?</p>
 

@@ -216,7 +216,7 @@ export default function Often1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>"<strong>Often</strong>" thường đứng trước động từ chính trong câu.</li>
+          <li>"<strong>Often</strong>" thường đứng trước động cơ chính trong câu.</li>
 
           <li className="margin-bottom-20">Nó có thể được sử dụng để diễn tả mức độ thường xuyên của một hành động.</li>
 

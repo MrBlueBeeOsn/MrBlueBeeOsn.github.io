@@ -21,11 +21,11 @@ export default function Bang50DongTuBatQuyTac(): React.JSX.Element {
 
 			<h4 className="margin-bottom-30 text-center">Bảng đầy đủ & cách sử dụng chi tiết nhất (2025) </h4>
 
-			<p>Động cơ bất quy tắc (irregular verbs) là “cơn ác mộng” của rất nhiều người học tiếng Anh, vì chúng không theo quy tắc thêm -ed như động từ thường. Tuy nhiên, chỉ cần nắm vững khoảng <strong>60–70 động từ phổ biến nhất</strong>, bạn đã có thể giao tiếp tự tin, viết email chuyên nghiệp, thi IELTS/TOEIC đạt điểm cao và thậm chí nói chuyện như người bản xứ ở mức trung cấp – cao cấp.</p>
+			<p>Động cơ bất quy tắc (irregular verbs) là “cơn ác mộng” của rất nhiều người học tiếng Anh, vì chúng không theo quy tắc thêm -ed như động cơ thường. Tuy nhiên, chỉ cần nắm vững khoảng <strong>60–70 động cơ phổ biến nhất</strong>, bạn đã có thể giao tiếp tự tin, viết email chuyên nghiệp, thi IELTS/TOEIC đạt điểm cao và thậm chí nói chuyện như người bản xứ ở mức trung cấp – cao cấp.</p>
 
-			<p>Dưới đây là bảng <strong>động từ bất quy tắc phổ biến nhất</strong> (được cập nhật theo mức độ sử dụng thực tế năm 2025), kèm giải thích cách dùng rõ ràng, dễ nhớ.</p>
+			<p>Dưới đây là bảng <strong>động cơ bất quy tắc phổ biến nhất</strong> (được cập nhật theo mức độ sử dụng thực tế năm 2025), kèm giải thích cách dùng rõ ràng, dễ nhớ.</p>
 
-			<h3 className="margin-y-50 text-center">Bảng động từ bất quy tắc phổ biến nhất</h3>
+			<h3 className="margin-y-50 text-center">Bảng động cơ bất quy tắc phổ biến nhất</h3>
 
 			<table className="margin-y-50">
 					<thead>
@@ -629,11 +629,11 @@ export default function Bang50DongTuBatQuyTac(): React.JSX.Element {
 			
 				</ul>
 
-			<h4 className="margin-top-30 margin-bottom-20">4. Ưu tiên 30 động từ đầu tiên → chiếm ~85% tần suất xuất hiện trong giao tiếp & bài thi.</h4>
+			<h4 className="margin-top-30 margin-bottom-20">4. Ưu tiên 30 động cơ đầu tiên → chiếm ~85% tần suất xuất hiện trong giao tiếp & bài thi.</h4>
 			
-			<p>Hãy in bảng này ra, dán lên tường, học mỗi ngày 10 động từ trong 1 tuần. Sau 6 tuần bạn sẽ nắm chắc gần như toàn bộ động từ bất quy tắc hay gặp nhất!</p>
+			<p>Hãy in bảng này ra, dán lên tường, học mỗi ngày 10 động cơ trong 1 tuần. Sau 6 tuần bạn sẽ nắm chắc gần như toàn bộ động cơ bất quy tắc hay gặp nhất!</p>
 
-			<p>Chúc bạn học tốt và sớm “thoát kiếp” động từ bất quy tắc! 💪</p>
+			<p>Chúc bạn học tốt và sớm “thoát kiếp” động cơ bất quy tắc! 💪</p>
 
 			<div className="viewcounter">
 			

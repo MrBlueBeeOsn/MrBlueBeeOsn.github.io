@@ -48,7 +48,7 @@ export default function Very2(): React.JSX.Element {
               
             </span>
               
-            &nbsp;thường được dùng để nhấn mạnh mức độ của một tính từ hoặc một trạng từ khác.
+            &nbsp;thường được dùng để nhấn mạnh mức độ của một tính cơ hoặc một trạng cơ khác.
 
           </p>
 
@@ -116,9 +116,9 @@ export default function Very2(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>"<strong>Very</strong>" thường đứng trước tính từ hoặc trạng từ để nhấn mạnh ý nghĩa của chúng.</li>
+          <li>"<strong>Very</strong>" thường đứng trước tính cơ hoặc trạng cơ để nhấn mạnh ý nghĩa của chúng.</li>
 
-          <li className="margin-bottom-20">Có nhiều trạng từ khác cũng có thể được sử dụng để thay thế cho "<strong>very</strong>" như: extremely, incredibly, highly, deeply, và nhiều hơn nữa.</li>
+          <li className="margin-bottom-20">Có nhiều trạng cơ khác cũng có thể được sử dụng để thay thế cho "<strong>very</strong>" như: extremely, incredibly, highly, deeply, và nhiều hơn nữa.</li>
 
         </ul>
 

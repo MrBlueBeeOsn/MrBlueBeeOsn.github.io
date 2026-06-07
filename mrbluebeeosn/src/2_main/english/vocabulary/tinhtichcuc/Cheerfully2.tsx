@@ -48,7 +48,7 @@ export default function Cheerfully2(): React.JSX.Element {
               
             </span>
               
-            &nbsp;là một trạng từ dùng để miêu tả một hành động được thực hiện một cách vui vẻ, hồ hởi, tích cực.
+            &nbsp;là một trạng cơ dùng để miêu tả một hành động được thực hiện một cách vui vẻ, hồ hởi, tích cực.
 
           </p>
 
@@ -116,7 +116,7 @@ export default function Cheerfully2(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>"<strong>Cheerfully</strong>" thường được đặt trước động từ để bổ nghĩa.</li>
+          <li>"<strong>Cheerfully</strong>" thường được đặt trước động cơ để bổ nghĩa.</li>
 
           <li className="margin-bottom-20">Từ này thường được sử dụng trong các ngữ cảnh không quá trang trọng, thường liên quan đến cuộc sống hàng ngày.</li>
 

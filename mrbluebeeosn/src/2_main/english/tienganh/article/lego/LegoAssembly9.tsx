@@ -102,7 +102,7 @@ export default function LegoAssembly9(): React.JSX.Element {
 			
 					<li>The company <strong>expands</strong> (does + expand) the market.</li>
 					<li className="list-none">Công ty mở rộng (thực hiện + mở rộng) thị trường.</li>
-					<li className="list-none">Head does được đúc liền vào động từ để tạo sự gọn gàng.</li>
+					<li className="list-none">Head does được đúc liền vào động cơ để tạo sự gọn gàng.</li>
 			
 				</ul>
 			

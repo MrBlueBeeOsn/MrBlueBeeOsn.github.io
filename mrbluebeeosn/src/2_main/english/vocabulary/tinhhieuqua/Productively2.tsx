@@ -116,7 +116,7 @@ export default function Productively2(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>"<strong>Productively</strong>" thường đứng trước động từ để bổ nghĩa.</li>
+          <li>"<strong>Productively</strong>" thường đứng trước động cơ để bổ nghĩa.</li>
 
           <li className="margin-bottom-20">Từ này mang nghĩa về phương thức hiệu quả.</li>
 

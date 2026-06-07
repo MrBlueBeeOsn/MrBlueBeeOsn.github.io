@@ -48,7 +48,7 @@ export default function DependentClause5(): React.JSX.Element {
 
 			</h1>
 
-			<h4 className="margin-bottom-30 text-center">Mệnh Đề Biết Tựa Vào Người Khác</h4>
+			<h4 className="margin-bottom-30 text-center">Câu Con Biết Tựa Vào Người Khác</h4>
 
 			<p>Dependent clause không phải điểm yếu trong câu văn — đó là thứ cho thấy người viết đang suy nghĩ theo tầng bậc, không chỉ liệt kê. Bài viết này sẽ dạy bạn cách viết, phân biệt, và sau cùng là làm chủ chúng.</p>
 
@@ -58,7 +58,7 @@ export default function DependentClause5(): React.JSX.Element {
 
 			<p>Bạn chờ. Bạn muốn biết điều gì xảy ra tiếp theo. Cái khoảng trống đó, cái cảm giác chưa xong đó, chính là bản chất của dependent clause.</p>
 					
-			<p>Nó có đủ chủ ngữ, đủ động từ — nhưng vẫn cần một mệnh đề chính để trọn vẹn. Và chính sự "chưa xong" ấy lại là công cụ mạnh nhất để bạn viết tiếng Anh có chiều sâu.</p>
+			<p>Nó có đủ chủ ngữ, đủ động cơ — nhưng vẫn cần một câu con chính để trọn vẹn. Và chính sự "chưa xong" ấy lại là công cụ mạnh nhất để bạn viết tiếng Anh có chiều sâu.</p>
 
 			{/* Bốn bước để viết một Dependent Clause đúng và hay */}
 
@@ -78,9 +78,9 @@ export default function DependentClause5(): React.JSX.Element {
 				</ul>
 
 
-			<h4 className="margin-y-40">Bước 2: Đặt từ nối vào đầu mệnh đề phụ</h4>
+			<h4 className="margin-y-40">Bước 2: Đặt từ nối vào đầu câu con phụ</h4>
 					
-			<p className="text-indent-whole">Chọn đúng loại từ tín hiệu — liên từ phụ thuộc, đại từ quan hệ, hoặc WH-word. Đặt nó ngay trước chủ ngữ của mệnh đề phụ, không phải trước mệnh đề chính.</p>
+			<p className="text-indent-whole">Chọn đúng loại từ tín hiệu — liên cơ phụ thuộc, đại cơ quan hệ, hoặc WH-word. Đặt nó ngay trước chủ ngữ của câu con phụ, không phải trước câu con chính.</p>
 			
 				<ul className="list-square">
 			
@@ -93,9 +93,9 @@ export default function DependentClause5(): React.JSX.Element {
 				</ul>
 			
 
-			<h4 className="margin-y-40">Bước 3: Kiểm tra: mệnh đề phụ có tự đứng được không?</h4>
+			<h4 className="margin-y-40">Bước 3: Kiểm tra: câu con phụ có tự đứng được không?</h4>
 					
-			<p className="text-indent-whole">Đọc riêng mệnh đề phụ. Nếu nó cảm giác "chưa xong" — bạn đã viết đúng. Nếu nó đọc như một câu hoàn chỉnh — bạn đã quên hoặc nhầm từ nối.</p>
+			<p className="text-indent-whole">Đọc riêng câu con phụ. Nếu nó cảm giác "chưa xong" — bạn đã viết đúng. Nếu nó đọc như một câu hoàn chỉnh — bạn đã quên hoặc nhầm từ nối.</p>
 			
 				<ul className="list-square">
 			
@@ -112,7 +112,7 @@ export default function DependentClause5(): React.JSX.Element {
 				</ul>
 	
 
-			<h4 className="margin-y-40">Bước 4: Quyết định đặt mệnh đề phụ ở đầu hay cuối câu</h4>
+			<h4 className="margin-y-40">Bước 4: Quyết định đặt câu con phụ ở đầu hay cuối câu</h4>
 					
 			<p className="text-indent-whole">Đây là nơi phong cách xuất hiện. Đặt ở đầu để nhấn mạnh bối cảnh — cần có dấu phẩy. Đặt ở cuối để nhấn mạnh kết quả — thường không cần dấu phẩy.</p>
 			
@@ -139,7 +139,7 @@ export default function DependentClause5(): React.JSX.Element {
 
 			<p>Dependent clause có ba hình dạng, mỗi loại làm một việc khác nhau trong câu.</p>
 
-			<p>Câu hỏi nhận diện nhanh nhất: mệnh đề này đang đóng vai trò gì?</p>
+			<p>Câu hỏi nhận diện nhanh nhất: câu con này đang đóng vai trò gì?</p>
 
 			<h4 className="margin-y-40">1. Noun Clause</h4>
 					
@@ -260,7 +260,7 @@ export default function DependentClause5(): React.JSX.Element {
 			<h4 className="margin-y-40">Có phẩy</h4>
 
 			<p className="text-indent-whole">Dependent clause đứng đầu câu</p>
-			<p className="margin-bottom-20 text-indent-whole">→ Luôn có dấu phẩy trước mệnh đề chính.</p>
+			<p className="margin-bottom-20 text-indent-whole">→ Luôn có dấu phẩy trước câu con chính.</p>
 			
 				<ul className="list-square">
 			
@@ -283,7 +283,7 @@ export default function DependentClause5(): React.JSX.Element {
 
 			<h4 className="margin-y-40">Có phẩy</h4>
 
-			<p className="text-indent-whole">Trường hợp ngoại lệ: mệnh đề cuối câu mang nghĩa tương phản</p>
+			<p className="text-indent-whole">Trường hợp ngoại lệ: câu con cuối câu mang nghĩa tương phản</p>
 			<p className="margin-bottom-20 text-indent-whole">→ Có phẩy.</p>
 
 				<ul className="list-square">

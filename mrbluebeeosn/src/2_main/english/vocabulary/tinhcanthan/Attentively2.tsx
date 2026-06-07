@@ -116,7 +116,7 @@ export default function Attentively2(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>"<strong>Attentively</strong>" thường đứng trước động từ để bổ nghĩa.</li>
+          <li>"<strong>Attentively</strong>" thường đứng trước động cơ để bổ nghĩa.</li>
 
           <li className="margin-bottom-20">Từ này mang nghĩa tích cực, thể hiện sự chăm chú, tập trung.</li>
 

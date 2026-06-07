@@ -90,7 +90,7 @@ export default function EVPrepositionsQuiz(): React.JSX.Element {
 				"even though"
 			],
 			correctAnswer: 0,
-			explanation: "\"Despite\" hoặc \"In spite of\" đi kèm với một danh từ/cụm danh từ (the rain) để chỉ sự nhượng bộ (mặc dù)."
+			explanation: "\"Despite\" hoặc \"In spite of\" đi kèm với một danh cơ/danh cụm (the rain) để chỉ sự nhượng bộ (mặc dù)."
 		},
 		{
 			id: 7,
@@ -114,7 +114,7 @@ export default function EVPrepositionsQuiz(): React.JSX.Element {
 				"into"
 			],
 			correctAnswer: 2,
-			explanation: "Dùng giới từ \"on\" để chỉ vị trí trên bề mặt của một vật phẳng như cái bàn."
+			explanation: "Dùng giới cơ \"on\" để chỉ vị trí trên bề mặt của một vật phẳng như cái bàn."
 		},
 		{
 			id: 9,

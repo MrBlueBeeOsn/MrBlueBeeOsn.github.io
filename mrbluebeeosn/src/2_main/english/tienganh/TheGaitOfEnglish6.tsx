@@ -70,13 +70,13 @@ export default function TheGaitOfEnglish6(): React.JSX.Element {
 
 					<li className="list-none"><strong>Subject</strong> là người hoặc vật thực hiện hành động.</li>
 
-					<li className="list-none"><strong>Verb</strong> là động từ chính, biểu thị hành động hoặc trạng thái.</li>
+					<li className="list-none"><strong>Verb</strong> là động cơ chính, biểu thị hành động hoặc trạng thái.</li>
 
 					<li className="margin-bottom-20 list-none"><strong>Subject</strong> là người hoặc vật thực hiện hành động.</li>
 			
 				</ul>
 
-			<p className="margin-top-20">Quy tắc thực tế: khi có nhiều trạng ngữ, thứ tự sau động từ thường là <strong>Manner</strong> → <strong>Place</strong> → <strong>Time</strong>.</p>
+			<p className="margin-top-20">Quy tắc thực tế: khi có nhiều trạng ngữ, thứ tự sau động cơ thường là <strong>Manner</strong> → <strong>Place</strong> → <strong>Time</strong>.</p>
 
 			{/* 2. Hình dung đường thẳng để nói trôi chảy */}
 			
@@ -203,7 +203,7 @@ export default function TheGaitOfEnglish6(): React.JSX.Element {
 			
 				<ol>
 
-					<li>Viết 5 câu theo SVOMPT với 5 động từ khác nhau.</li>
+					<li>Viết 5 câu theo SVOMPT với 5 động cơ khác nhau.</li>
 
 					<li>Ghi âm 1 phút kể lại một việc theo SVOMPT, nghe lại và sửa vị trí M, P, T.</li>
 

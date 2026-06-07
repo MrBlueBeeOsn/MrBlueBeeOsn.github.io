@@ -68,7 +68,7 @@ export default function SentenceVariety4(): React.JSX.Element {
 
 			<p className="margin-top-20">Tiếng Anh sẽ dễ trở nên đều đều và thiếu cảm xúc. Người đọc vẫn hiểu, nhưng câu chữ chưa có rhythm và flow.</p>
 
-			<p>Trong khi đó, native speakers liên tục thay đổi cách xây dựng câu. Họ dùng câu ngắn, câu dài, câu mở rộng, câu nhấn mạnh, câu có mệnh đề phụ… Chính sự thay đổi đó khiến tiếng Anh nghe tự nhiên hơn.</p>
+			<p>Trong khi đó, native speakers liên tục thay đổi cách xây dựng câu. Họ dùng câu ngắn, câu dài, câu mở rộng, câu nhấn mạnh, câu có câu con phụ… Chính sự thay đổi đó khiến tiếng Anh nghe tự nhiên hơn.</p>
 
 			{/* 1. Bắt Đầu Từ Những Cấu Trúc Đơn Giản Nhất */}
 

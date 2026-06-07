@@ -116,7 +116,7 @@ export default function Particularly2(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>"<strong>Particularly</strong>" thường được đặt trước tính từ hoặc danh từ để nhấn mạnh ý nghĩa của chúng.</li>
+          <li>"<strong>Particularly</strong>" thường được đặt trước tính cơ hoặc danh cơ để nhấn mạnh ý nghĩa của chúng.</li>
 
           <li className="margin-bottom-20">Từ này thường được sử dụng trong các văn bản viết và nói để làm cho câu văn trở nên sinh động và hấp dẫn hơn.</li>
 

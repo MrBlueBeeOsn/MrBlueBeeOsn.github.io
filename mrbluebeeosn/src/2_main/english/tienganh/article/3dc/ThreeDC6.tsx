@@ -48,7 +48,7 @@ export default function ThreeDC6(): React.ReactElement {
 
 			</h1>
 
-			<h4 className="margin-bottom-30 text-center">Ba mệnh đề quan trọng trong tiếng Anh — Hướng dẫn đầy đủ cho người học</h4>
+			<h4 className="margin-bottom-30 text-center">Ba câu con quan trọng trong tiếng Anh — Hướng dẫn đầy đủ cho người học</h4>
 
 			<p></p>
 
@@ -106,7 +106,7 @@ export default function ThreeDC6(): React.ReactElement {
 			<p className="margin-top-20"></p>
 
 
-			<h4 className="margin-y-40">Mệnh đề tính từ / quan hệ (Adjective / Relative clause)</h4>
+			<h4 className="margin-y-40">Câu con tính cơ / quan hệ (Adjective / Relative clause)</h4>
 					
 			<p className="text-indent-whole"></p>
 
@@ -148,7 +148,7 @@ export default function ThreeDC6(): React.ReactElement {
 			<p className="margin-top-20"></p>
 
 
-			<h4 className="margin-y-40">Danh câu / mệnh đề tân ngữ (Noun clause / Object clause)</h4>
+			<h4 className="margin-y-40">Danh câu / câu con tân ngữ (Noun clause / Object clause)</h4>
 					
 			<p className="text-indent-whole"></p>
 

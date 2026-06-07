@@ -116,7 +116,7 @@ export default function Quickly2(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>"<strong>Quickly</strong>" thường được đặt trước động từ để nhấn mạnh ý nghĩa của chúng.</li>
+          <li>"<strong>Quickly</strong>" thường được đặt trước động cơ để nhấn mạnh ý nghĩa của chúng.</li>
 
           <li className="margin-bottom-20">Từ này thường được sử dụng trong văn viết và văn nói để mô tả sự thay đổi, sự phát triển hoặc sự kết thúc của một sự việc.</li>
 

@@ -42,7 +42,7 @@ export default function TracNghiemNguPhapTiengAnh(): React.JSX.Element {
 				"should"
 			],
 			correctAnswer: 2,
-			explanation: "Ta dùng động từ khuyết thiếu can't (không thể nào) để diễn tả sự suy luận mang tính phủ định mạnh mẽ, gần như chắc chắn rằng điều gì đó không đúng hoặc không thể xảy ra dựa trên bằng chứng hiện tại (vì anh ta trông quá trẻ)."
+			explanation: "Ta dùng động cơ khuyết thiếu can't (không thể nào) để diễn tả sự suy luận mang tính phủ định mạnh mẽ, gần như chắc chắn rằng điều gì đó không đúng hoặc không thể xảy ra dựa trên bằng chứng hiện tại (vì anh ta trông quá trẻ)."
 		},
 		{
 			id: 3,
@@ -54,7 +54,7 @@ export default function TracNghiemNguPhapTiengAnh(): React.JSX.Element {
 				"will pass"
 			],
 			correctAnswer: 1,
-			explanation: "Đây là câu điều kiện loại 3 (Third Conditional), dùng để diễn tả một điều kiện không có thật trong quá khứ. Cấu trúc là: If + S + had + V3/ed, mệnh đề chính dùng S + would/could/might + have + V3/ed."
+			explanation: "Đây là câu điều kiện loại 3 (Third Conditional), dùng để diễn tả một điều kiện không có thật trong quá khứ. Cấu trúc là: If + S + had + V3/ed, câu con chính dùng S + would/could/might + have + V3/ed."
 		},
 		{
 			id: 4,
@@ -78,7 +78,7 @@ export default function TracNghiemNguPhapTiengAnh(): React.JSX.Element {
 				"the day before"
 			],
 			correctAnswer: 2,
-			explanation: "Khi chuyển từ câu trực tiếp sang câu gián tiếp (Reported Speech), trạng từ chỉ thời gian tomorrow (ngày mai) phải được đổi thành the next day hoặc the following day."
+			explanation: "Khi chuyển từ câu trực tiếp sang câu gián tiếp (Reported Speech), trạng cơ chỉ thời gian tomorrow (ngày mai) phải được đổi thành the next day hoặc the following day."
 		},
 		{
 			id: 6,
@@ -102,7 +102,7 @@ export default function TracNghiemNguPhapTiengAnh(): React.JSX.Element {
 				"whose"
 			],
 			correctAnswer: 3,
-			explanation: "Ta dùng đại từ quan hệ whose (của người mà/của cái mà) để chỉ mối quan hệ sở hữu. Cụm từ whose handwriting có nghĩa là \"chữ viết của học sinh đó\"."
+			explanation: "Ta dùng đại cơ quan hệ whose (của người mà/của cái mà) để chỉ mối quan hệ sở hữu. Cụm từ whose handwriting có nghĩa là \"chữ viết của học sinh đó\"."
 		},
 		{
 			id: 8,
@@ -138,7 +138,7 @@ export default function TracNghiemNguPhapTiengAnh(): React.JSX.Element {
 				"bores"
 			],
 			correctAnswer: 0,
-			explanation: "Ta dùng tính từ tận cùng bằng -ing (boring) để mô tả bản chất của sự vật, sự việc (bộ phim mang tính chất buồn chán). Tính cơ tận cùng bằng -ed (bored) dùng để mô tả cảm xúc của con người hoặc sinh vật."
+			explanation: "Ta dùng tính cơ tận cùng bằng -ing (boring) để mô tả bản chất của sự vật, sự việc (bộ phim mang tính chất buồn chán). Tính cơ tận cùng bằng -ed (bored) dùng để mô tả cảm xúc của con người hoặc sinh vật."
 		}
 	];
 

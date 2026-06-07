@@ -30,7 +30,7 @@ export default function TracNghiemThiTiengAnh(): React.JSX.Element {
 				"has gone"
 			],
 			correctAnswer: 1,
-			explanation: "Đây là hành động lặp đi lặp lại (thói quen), được diễn tả bằng trạng từ chỉ tần suất \"three times a week\". Ta sử dụng thì Hiện tại đơn (Simple Present)."
+			explanation: "Đây là hành động lặp đi lặp lại (thói quen), được diễn tả bằng trạng cơ chỉ tần suất \"three times a week\". Ta sử dụng thì Hiện tại đơn (Simple Present)."
 		},
 		{
 			id: 2,

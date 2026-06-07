@@ -23,7 +23,7 @@ export default function HieuDungVeThiHienTaiHoanThanh(): React.JSX.Element {
 
 			<h3 className="margin-y-50 text-center">Thì Hiện Tại Hoàn Thành Là Gì?</h3>
 
-			<p>Thì hiện tại hoàn thành được cấu tạo bởi <strong>have/has</strong> + <strong>động từ ở dạng past participle</strong> (V3).</p>
+			<p>Thì hiện tại hoàn thành được cấu tạo bởi <strong>have/has</strong> + <strong>động cơ ở dạng past participle</strong> (V3).</p>
 
 			<p>Ví dụ:</p>
 

@@ -104,7 +104,7 @@ export default function Slowly2(): React.JSX.Element {
 
       </ol>
 
-      <p>** Các cụm từ trên đều nhấn mạnh tính từ từ và sự dần dần của một quá trình hoặc hành động. Chúng thường được sử dụng để mô tả những thay đổi nhỏ nhặt nhưng liên tục theo thời gian.</p>
+      <p>** Các cụm từ trên đều nhấn mạnh tính cơ từ và sự dần dần của một quá trình hoặc hành động. Chúng thường được sử dụng để mô tả những thay đổi nhỏ nhặt nhưng liên tục theo thời gian.</p>
 
       {/* =============================
             Lưu ý:
@@ -116,7 +116,7 @@ export default function Slowly2(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>"<strong>Slowly</strong>" thường được đặt trước động từ để nhấn mạnh tốc độ của hành động.</li>
+          <li>"<strong>Slowly</strong>" thường được đặt trước động cơ để nhấn mạnh tốc độ của hành động.</li>
 
           <li className="margin-bottom-20">Từ này có thể được sử dụng trong nhiều ngữ cảnh khác nhau, từ việc mô tả chuyển động của vật thể đến việc diễn tả quá trình phát triển của một sự việc.</li>
 

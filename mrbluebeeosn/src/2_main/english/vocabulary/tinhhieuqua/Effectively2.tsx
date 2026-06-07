@@ -116,7 +116,7 @@ export default function Effectively2(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>"<strong>Effectively</strong>" thường được đặt trước động từ để nhấn mạnh ý nghĩa của chúng.</li>
+          <li>"<strong>Effectively</strong>" thường được đặt trước động cơ để nhấn mạnh ý nghĩa của chúng.</li>
 
           <li className="margin-bottom-20">Từ này thường được sử dụng trong văn viết và văn nói để mô tả những gì đạt được một cách tốt nhất.</li>
 

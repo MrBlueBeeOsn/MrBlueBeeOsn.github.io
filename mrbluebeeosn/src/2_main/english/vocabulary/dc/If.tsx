@@ -21,7 +21,7 @@ export default function If(): React.JSX.Element {
 
       {/* This is the content of Vocabulary Term. */}
 
-      <p className="margin-bottom-30"><strong>If</strong> (liên từ): Nếu, nếu như, giả sử. Từ này được dùng để mở đầu cho một mệnh đề điều kiện, diễn tả một tình huống giả định, một khả năng có thể xảy ra hoặc một điều kiện cần thiết để một sự việc khác diễn ra. Ngoài ra, trong câu gián tiếp, nó còn mang nghĩa là "liệu có... hay không".</p>
+      <p className="margin-bottom-30"><strong>If</strong> (liên cơ): Nếu, nếu như, giả sử. Từ này được dùng để mở đầu cho một câu con điều kiện, diễn tả một tình huống giả định, một khả năng có thể xảy ra hoặc một điều kiện cần thiết để một sự việc khác diễn ra. Ngoài ra, trong câu gián tiếp, nó còn mang nghĩa là "liệu có... hay không".</p>
 
         <ul className="list-square">
       
@@ -61,7 +61,7 @@ export default function If(): React.JSX.Element {
 
       <h3 className="margin-y-50 text-center">Word Family</h3>
 
-      <p className="margin-bottom-20">Từ "if" là một liên từ ngắn và không có các dạng biến đổi trực tiếp bằng cách thêm tiền tố hay hậu tố. Tuy nhiên, nó nằm trong một nhóm các từ và cụm từ ngữ pháp biểu thị điều kiện hoặc sự giả định có cùng bản chất chức năng:</p>
+      <p className="margin-bottom-20">Từ "if" là một liên cơ ngắn và không có các dạng biến đổi trực tiếp bằng cách thêm tiền tố hay hậu tố. Tuy nhiên, nó nằm trong một nhóm các từ và cụm từ ngữ pháp biểu thị điều kiện hoặc sự giả định có cùng bản chất chức năng:</p>
 
         <ul className="list-square">
 
@@ -136,11 +136,11 @@ export default function If(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>as (thứ nhất): Là trạng từ. Nghĩa là "đến mức".</li>
+          <li>as (thứ nhất): Là trạng cơ. Nghĩa là "đến mức".</li>
       
-          <li>long: Là tính từ/trạng từ. Nghĩa là "lâu/dài".</li>
+          <li>long: Là tính cơ/trạng cơ. Nghĩa là "lâu/dài".</li>
       
-          <li>as (thứ hai): Là liên từ. Nghĩa là "như".</li>
+          <li>as (thứ hai): Là liên cơ. Nghĩa là "như".</li>
       
         </ul>
       

@@ -58,7 +58,7 @@ export default function SentenceVariety1(): React.JSX.Element {
 
 			<h3 className="margin-y-50 text-center">1. Phân loại "Bản vẽ" Cấu trúc câu</h3>
 
-			<p>Để nhận biết chúng, hãy nhìn vào số lượng <strong>mệnh đề</strong> (chủ ngữ + động từ) và <strong>từ nối</strong>.</p>
+			<p>Để nhận biết chúng, hãy nhìn vào số lượng <strong>câu con</strong> (chủ ngữ + động cơ) và <strong>từ nối</strong>.</p>
 
 			<h4 className="margin-y-40">1. Simple (Câu đơn)</h4>
 					
@@ -124,9 +124,9 @@ export default function SentenceVariety1(): React.JSX.Element {
 				</ul>
 		
 			
-			<h4 className="margin-y-40">Bước 2 (Nâng cấp danh từ):</h4>
+			<h4 className="margin-y-40">Bước 2 (Nâng cấp danh cơ):</h4>
 					
-			<p className="text-indent-whole">Thay vì dùng tính từ đứng trước, hãy thử cấu trúc "The [Noun] of...".</p>
+			<p className="text-indent-whole">Thay vì dùng tính cơ đứng trước, hãy thử cấu trúc "The [Noun] of...".</p>
 			
 				<ul className="list-square">
 			
@@ -193,7 +193,7 @@ export default function SentenceVariety1(): React.JSX.Element {
 			
 				</ul>
 
-			<p className="margin-top-20"><strong>Đảo ngữ để tạo bất ngờ</strong>: Thay vì bắt đầu bằng chủ ngữ, hãy đưa các cụm trạng từ chỉ thời gian hoặc nơi chốn lên đầu.</p>
+			<p className="margin-top-20"><strong>Đảo ngữ để tạo bất ngờ</strong>: Thay vì bắt đầu bằng chủ ngữ, hãy đưa các trạng cụm chỉ thời gian hoặc nơi chốn lên đầu.</p>
 			
 				<ul className="list-square">
 

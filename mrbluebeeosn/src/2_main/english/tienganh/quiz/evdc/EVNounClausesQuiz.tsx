@@ -30,7 +30,7 @@ export default function EVNounClausesQuiz(): React.JSX.Element {
 				"Whatever"
 			],
 			correctAnswer: 0,
-			explanation: "Cụm từ đóng vai trò làm chủ ngữ trong câu này cần một mệnh đề danh từ. \"What\" đóng vai trò là chủ ngữ bên trong mệnh đề danh từ đó (What made everyone... = Điều mà đã làm cho mọi người...). \"That\" không thể làm chủ ngữ của động từ \"made\" trong ngữ cảnh này nếu không có một danh từ đi trước."
+			explanation: "Cụm từ đóng vai trò làm chủ ngữ trong câu này cần một câu con danh cơ. \"What\" đóng vai trò là chủ ngữ bên trong câu con danh cơ đó (What made everyone... = Điều mà đã làm cho mọi người...). \"That\" không thể làm chủ ngữ của động cơ \"made\" trong ngữ cảnh này nếu không có một danh cơ đi trước."
 		},
 		{
 			id: 2,
@@ -42,7 +42,7 @@ export default function EVNounClausesQuiz(): React.JSX.Element {
 				"who"
 			],
 			correctAnswer: 1,
-			explanation: "Danh câu làm tân ngữ cho động từ \"explained\". Dựa vào ngữ nghĩa của câu, chúng ta cần một từ nối chỉ cách thức: \"Giáo sư giải thích bằng cách nào/làm thế nào phần mềm mới có thể cải thiện hiệu suất\"."
+			explanation: "Danh câu làm tân ngữ cho động cơ \"explained\". Dựa vào ngữ nghĩa của câu, chúng ta cần một từ nối chỉ cách thức: \"Giáo sư giải thích bằng cách nào/làm thế nào phần mềm mới có thể cải thiện hiệu suất\"."
 		},
 		{
 			id: 3,
@@ -54,7 +54,7 @@ export default function EVNounClausesQuiz(): React.JSX.Element {
 				"whatever"
 			],
 			correctAnswer: 1,
-			explanation: "Sau giới từ \"on\" cần một mệnh đề danh từ. Ở đây có danh từ \"candidate\" ngay phía sau, do đó ta cần một từ hạn định bổ nghĩa cho danh từ này. \"Whichever\" mang ý nghĩa \"bất cứ... nào\" trong một nhóm đối tượng có giới hạn (các ứng viên tham gia phỏng vấn)."
+			explanation: "Sau giới cơ \"on\" cần một câu con danh cơ. Ở đây có danh cơ \"candidate\" ngay phía sau, do đó ta cần một hạn định cơ bổ nghĩa cho danh cơ này. \"Whichever\" mang ý nghĩa \"bất cứ... nào\" trong một nhóm đối tượng có giới hạn (các ứng viên tham gia phỏng vấn)."
 		},
 		{
 			id: 4,
@@ -66,7 +66,7 @@ export default function EVNounClausesQuiz(): React.JSX.Element {
 				"will submit"
 			],
 			correctAnswer: 1,
-			explanation: "Câu này sử dụng cấu trúc giả định (Subjunctive Mood) với tính từ \"essential\" (It is essential that + S + V-inf). Trong mệnh đề danh từ đi sau \"that\", động từ luôn ở dạng nguyên mẫu không \"to\" (bare infinitive) cho tất cả các ngôi."
+			explanation: "Câu này sử dụng cấu trúc giả định (Subjunctive Mood) với tính cơ \"essential\" (It is essential that + S + V-inf). Trong câu con danh cơ đi sau \"that\", động cơ luôn ở dạng nguyên mẫu không \"to\" (bare infinitive) cho tất cả các ngôi."
 		},
 		{
 			id: 5,
@@ -78,7 +78,7 @@ export default function EVNounClausesQuiz(): React.JSX.Element {
 				"why"
 			],
 			correctAnswer: 0,
-			explanation: "Danh câu làm tân ngữ cho động từ \"know\". Xét về mặt ngữ nghĩa, động từ \"arrive\" (đến) thường đi với trạng từ chỉ thời gian, câu hỏi hỏi về thời điểm gói hàng đến nên dùng \"when\"."
+			explanation: "Danh câu làm tân ngữ cho động cơ \"know\". Xét về mặt ngữ nghĩa, động cơ \"arrive\" (đến) thường đi với trạng cơ chỉ thời gian, câu hỏi hỏi về thời điểm gói hàng đến nên dùng \"when\"."
 		},
 		{
 			id: 6,
@@ -90,7 +90,7 @@ export default function EVNounClausesQuiz(): React.JSX.Element {
 				"If"
 			],
 			correctAnswer: 2,
-			explanation: "Cả mệnh đề đứng đầu câu làm chủ ngữ chính. Mệnh đề phía sau \"she managed to finish...\" đã đầy đủ các thành phần cấu trúc (S-V-O), do đó ta dùng \"That\" để biến toàn bộ sự việc này thành một mệnh đề danh từ (Việc mà cô ấy hoàn thành... đã làm tất cả bất ngờ)."
+			explanation: "Cả câu con đứng đầu câu làm chủ ngữ chính. Câu con phía sau \"she managed to finish...\" đã đầy đủ các thành phần cấu trúc (S-V-O), do đó ta dùng \"That\" để biến toàn bộ sự việc này thành một câu con danh cơ (Việc mà cô ấy hoàn thành... đã làm tất cả bất ngờ)."
 		},
 		{
 			id: 7,
@@ -102,7 +102,7 @@ export default function EVNounClausesQuiz(): React.JSX.Element {
 				"which"
 			],
 			correctAnswer: 1,
-			explanation: "Danh câu đứng sau giới từ \"of\". Trong mệnh đề này, ta cần một từ đóng vai trò làm chủ ngữ trước động từ bị động \"should be appointed\". Vì vậy, ta phải chọn đại từ chủ ngữ chỉ người là \"who\"."
+			explanation: "Danh câu đứng sau giới cơ \"of\". Trong câu con này, ta cần một từ đóng vai trò làm chủ ngữ trước động cơ bị động \"should be appointed\". Vì vậy, ta phải chọn đại cơ chủ ngữ chỉ người là \"who\"."
 		},
 		{
 			id: 8,
@@ -114,7 +114,7 @@ export default function EVNounClausesQuiz(): React.JSX.Element {
 				"whatever"
 			],
 			correctAnswer: 2,
-			explanation: "Danh câu làm tân ngữ cho động từ \"hear\". Động cơ \"saying\" bên trong mệnh đề danh từ đang thiếu tân ngữ trực tiếp (nói cái gì). \"What\" vừa làm từ nối vừa đóng vai trò là tân ngữ cho \"saying\" (...nghe những gì hướng dẫn viên đang nói)."
+			explanation: "Danh câu làm tân ngữ cho động cơ \"hear\". Động cơ \"saying\" bên trong câu con danh cơ đang thiếu tân ngữ trực tiếp (nói cái gì). \"What\" vừa làm từ nối vừa đóng vai trò là tân ngữ cho \"saying\" (...nghe những gì hướng dẫn viên đang nói)."
 		},
 		{
 			id: 9,
@@ -126,7 +126,7 @@ export default function EVNounClausesQuiz(): React.JSX.Element {
 				"whether"
 			],
 			correctAnswer: 0,
-			explanation: "Danh câu đóng vai trò làm bổ ngữ cho chủ ngữ (Subject Complement) sau động từ nối \"is\". Vì mệnh đề phía sau \"we lack...\" đã trọn vẹn về nghĩa và cấu trúc, ta dùng \"that\" để dẫn dắt sự thật/sự việc đó."
+			explanation: "Danh câu đóng vai trò làm bổ ngữ cho chủ ngữ (Subject Complement) sau động cơ nối \"is\". Vì câu con phía sau \"we lack...\" đã trọn vẹn về nghĩa và cấu trúc, ta dùng \"that\" để dẫn dắt sự thật/sự việc đó."
 		},
 		{
 			id: 10,
@@ -138,7 +138,7 @@ export default function EVNounClausesQuiz(): React.JSX.Element {
 				"anyone"
 			],
 			correctAnswer: 2,
-			explanation: "Danh câu làm tân ngữ cho động từ \"hire\". Trong mệnh đề danh từ này, từ cần điền đóng vai trò làm chủ ngữ trực tiếp của động từ \"qualifies\", do đó ta phải chọn đại từ nhân xưng dạng chủ ngữ là \"whoever\" (bất kỳ ai), chứ không dùng dạng tân ngữ \"whomever\"."
+			explanation: "Danh câu làm tân ngữ cho động cơ \"hire\". Trong câu con danh cơ này, từ cần điền đóng vai trò làm chủ ngữ trực tiếp của động cơ \"qualifies\", do đó ta phải chọn đại cơ nhân xưng dạng chủ ngữ là \"whoever\" (bất kỳ ai), chứ không dùng dạng tân ngữ \"whomever\"."
 		}
 	];
 

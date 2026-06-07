@@ -21,7 +21,7 @@ export default function Beautiful(): React.JSX.Element {
 
       {/* This is the content of Vocabulary Term. */}
 
-      <p className="margin-bottom-30"><strong>Beautiful</strong> (tính từ): Đẹp, có những phẩm chất mang lại sự hài lòng hoặc thỏa mãn cho các giác quan (đặc biệt là thị giác) hoặc tâm trí. Từ này thường ám chỉ sự hài hòa, xuất sắc hoặc giá trị thẩm mỹ cao.</p>
+      <p className="margin-bottom-30"><strong>Beautiful</strong> (tính cơ): Đẹp, có những phẩm chất mang lại sự hài lòng hoặc thỏa mãn cho các giác quan (đặc biệt là thị giác) hoặc tâm trí. Từ này thường ám chỉ sự hài hòa, xuất sắc hoặc giá trị thẩm mỹ cao.</p>
 
         <ul className="list-square">
       
@@ -61,7 +61,7 @@ export default function Beautiful(): React.JSX.Element {
 
       <h3 className="margin-y-50 text-center">Word Family</h3>
 
-      <p className="margin-bottom-20">Việc hiểu cách chuyển đổi giữa các loại từ giúp bạn linh hoạt hơn trong diễn đạt, đặc biệt là khi áp dụng cấu trúc tập trung vào danh từ để mô tả tính chất.</p>
+      <p className="margin-bottom-20">Việc hiểu cách chuyển đổi giữa các loại từ giúp bạn linh hoạt hơn trong diễn đạt, đặc biệt là khi áp dụng cấu trúc tập trung vào danh cơ để mô tả tính chất.</p>
 
         <ul className="list-square">
 
@@ -200,7 +200,7 @@ export default function Beautiful(): React.JSX.Element {
         <ul className="list-square">
 
           <li>The ______ architecture of the cathedral dates back to the 12th century.</li>
-          <li className="list-none">Kiến trúc hùng vĩ của nhà thờ có niên đại từ thế kỷ 12.</li>
+          <li className="list-none">Kiến trúc hùng vĩ của nhà thờ có niên đại cơ thế kỷ 12.</li>
 
         </ul>
 

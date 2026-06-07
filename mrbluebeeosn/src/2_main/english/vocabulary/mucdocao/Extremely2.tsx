@@ -48,7 +48,7 @@ export default function Extremely2(): React.JSX.Element {
               
             </span>
               
-            &nbsp;là một trạng từ dùng để nhấn mạnh mức độ cao nhất của một tính từ hoặc trạng từ. Nó thường được sử dụng để diễn tả cảm xúc, tình huống hoặc sự vật vượt quá mức bình thường.
+            &nbsp;là một trạng cơ dùng để nhấn mạnh mức độ cao nhất của một tính cơ hoặc trạng cơ. Nó thường được sử dụng để diễn tả cảm xúc, tình huống hoặc sự vật vượt quá mức bình thường.
 
           </p>
 
@@ -104,7 +104,7 @@ export default function Extremely2(): React.JSX.Element {
 
       </ol>
 
-      <p>** Các cụm từ trên đều được sử dụng để nhấn mạnh mức độ cao nhất của một tính từ hoặc trạng từ, tạo nên một hiệu ứng nhấn mạnh và tăng cường cảm xúc.</p>
+      <p>** Các cụm từ trên đều được sử dụng để nhấn mạnh mức độ cao nhất của một tính cơ hoặc trạng cơ, tạo nên một hiệu ứng nhấn mạnh và tăng cường cảm xúc.</p>
 
       {/* =============================
             Lưu ý:
@@ -116,7 +116,7 @@ export default function Extremely2(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>"<strong>Extremely</strong>" thường được đặt trước tính từ hoặc trạng từ để bổ nghĩa.</li>
+          <li>"<strong>Extremely</strong>" thường được đặt trước tính cơ hoặc trạng cơ để bổ nghĩa.</li>
 
           <li className="margin-bottom-20">Từ này có thể được sử dụng trong cả văn nói và văn viết.</li>
 

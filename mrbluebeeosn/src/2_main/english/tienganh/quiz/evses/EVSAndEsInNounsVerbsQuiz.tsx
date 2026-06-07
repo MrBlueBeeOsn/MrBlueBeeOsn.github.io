@@ -30,7 +30,7 @@ export default function EVSAndEsInNounsVerbs(): React.JSX.Element {
 				"brushing"
 			],
 			correctAnswer: 1,
-			explanation: "Với chủ ngữ số ít (My younger brother), động từ tận cùng là -sh ta thêm -es."
+			explanation: "Với chủ ngữ số ít (My younger brother), động cơ tận cùng là -sh ta thêm -es."
 		},
 		{
 			id: 2,
@@ -66,7 +66,7 @@ export default function EVSAndEsInNounsVerbs(): React.JSX.Element {
 				"loaf"
 			],
 			correctAnswer: 2,
-			explanation: "Các danh từ tận cùng bằng -f hoặc -fe thường đổi thành -v rồi thêm -es (loaf -> loaves)."
+			explanation: "Các danh cơ tận cùng bằng -f hoặc -fe thường đổi thành -v rồi thêm -es (loaf -> loaves)."
 		},
 		{
 			id: 5,
@@ -102,7 +102,7 @@ export default function EVSAndEsInNounsVerbs(): React.JSX.Element {
 				"relaxing"
 			],
 			correctAnswer: 1,
-			explanation: "Tương tự câu 6, động từ tận cùng là -x nên ta thêm -es."
+			explanation: "Tương tự câu 6, động cơ tận cùng là -x nên ta thêm -es."
 		},
 		{
 			id: 8,

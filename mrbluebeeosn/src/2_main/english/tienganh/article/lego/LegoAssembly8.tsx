@@ -50,7 +50,7 @@ export default function LegoAssembly8(): React.JSX.Element {
 
 			<h4 className="margin-bottom-30 text-center">Ngữ pháp Lego: Ba chỗ đứng, bốn cách lấp đầy</h4>
 
-			<p>Ngữ pháp tiếng Anh thường làm ta rối vì quá nhiều tên gọi. Tân ngữ, bổ ngữ, mệnh đề quan hệ, mệnh đề danh ngữ. Mỗi tên một định nghĩa, cuối cùng ta nhớ tên mà quên cách dùng.</p>
+			<p>Ngữ pháp tiếng Anh thường làm ta rối vì quá nhiều tên gọi. Tân ngữ, bổ ngữ, câu con quan hệ, câu con danh ngữ. Mỗi tên một định nghĩa, cuối cùng ta nhớ tên mà quên cách dùng.</p>
 			
 			<p>Thử dẹp hết tên. Chỉ giữ lại ba chỗ đứng trong câu. Mọi thứ khác chỉ là cách bạn lấp đầy ba chỗ đó.</p>
 
@@ -71,12 +71,12 @@ export default function LegoAssembly8(): React.JSX.Element {
 		
 			<ul className="list-square">
 		
-				<li><strong>Tích hợp</strong>: thì dính luôn vào động từ.</li>
+				<li><strong>Tích hợp</strong>: thì dính luôn vào động cơ.</li>
 				<li className="list-none">buys = does + buy</li>
 				<li className="list-none">knows = does + know</li>
 				<li className="margin-bottom-20 list-none">doesn't = does + not.</li>
 		
-				<li><strong>Tách rời</strong>: trợ động từ đứng riêng.</li>
+				<li><strong>Tách rời</strong>: trợ động cơ đứng riêng.</li>
 				<li className="list-none">does, is, will.</li>
 		
 			</ul>
@@ -106,7 +106,7 @@ export default function LegoAssembly8(): React.JSX.Element {
 					<li>He is tired.</li>
 					<li className="list-none">Anh ấy đang mệt.</li>
 					<li className="list-none">is - Head</li>
-					<li className="margin-bottom-20 list-none">tired - DP - vì tired đứng sau Head, nó là DP, dù truyền thống gọi là tính từ vị ngữ.[tired]</li>
+					<li className="margin-bottom-20 list-none">tired - DP - vì tired đứng sau Head, nó là DP, dù truyền thống gọi là tính cơ vị ngữ.[tired]</li>
 			
 					<li>He does not buy a car.</li>
 					<li className="list-none">Anh ấy không mua một chiếc ô tô.</li>
@@ -184,7 +184,7 @@ export default function LegoAssembly8(): React.JSX.Element {
 			
 				</ul>
 			
-			<p className="margin-top-20 text-indent-whole">"standing over there" giờ trông như DP thường, nhưng việc làm vẫn là của DC. Gọi đây là DP tính từ cho dễ nhớ.</p>
+			<p className="margin-top-20 text-indent-whole">"standing over there" giờ trông như DP thường, nhưng việc làm vẫn là của DC. Gọi đây là DP tính cơ cho dễ nhớ.</p>
 
 			{/* 5.  */}
 
@@ -259,7 +259,7 @@ export default function LegoAssembly8(): React.JSX.Element {
 			
 				</ul>
 
-			<p className="margin-top-20">4. <strong>S chứa DC</strong> hoặc <strong>DP tính từ</strong>:</p>
+			<p className="margin-top-20">4. <strong>S chứa DC</strong> hoặc <strong>DP tính cơ</strong>:</p>
 			
 				<ul className="list-square">
 			

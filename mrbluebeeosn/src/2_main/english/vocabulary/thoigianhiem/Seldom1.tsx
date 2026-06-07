@@ -219,7 +219,7 @@ export default function Seldom1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>"<strong>Seldom</strong>" thường đứng trước động từ chính trong câu.</li>
+          <li>"<strong>Seldom</strong>" thường đứng trước động cơ chính trong câu.</li>
 
           <li className="margin-bottom-20">"<strong>Seldom</strong>" mang nghĩa phủ định, tức là một việc gì đó không xảy ra thường xuyên.</li>
 

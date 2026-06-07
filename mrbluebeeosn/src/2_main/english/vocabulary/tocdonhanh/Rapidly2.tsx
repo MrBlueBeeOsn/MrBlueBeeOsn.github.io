@@ -116,7 +116,7 @@ export default function Rapidly2(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>"<strong>Rapidly</strong>" thường được đặt trước động từ để bổ nghĩa.</li>
+          <li>"<strong>Rapidly</strong>" thường được đặt trước động cơ để bổ nghĩa.</li>
 
           <li className="margin-bottom-20">Từ này thường được sử dụng trong các ngữ cảnh liên quan đến khoa học, kinh tế, xã hội và môi trường.</li>
 

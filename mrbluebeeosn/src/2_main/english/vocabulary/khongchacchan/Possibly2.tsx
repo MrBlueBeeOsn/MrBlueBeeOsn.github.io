@@ -116,7 +116,7 @@ export default function Possibly2(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>"<strong>Possibly</strong>" thường đứng ở đầu câu hoặc trước động từ để bổ nghĩa.</li>
+          <li>"<strong>Possibly</strong>" thường đứng ở đầu câu hoặc trước động cơ để bổ nghĩa.</li>
 
           <li className="margin-bottom-20">Từ này có thể được thay thế bằng các từ đồng nghĩa như "<Link to="/vocabulary/perhaps-1">perhaps</Link>", "<Link to="/vocabulary/maybe-1">maybe</Link>", "could be" để tạo sự đa dạng trong văn phong.</li>
 

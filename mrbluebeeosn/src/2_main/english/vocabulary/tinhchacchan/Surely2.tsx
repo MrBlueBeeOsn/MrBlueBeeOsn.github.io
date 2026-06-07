@@ -50,7 +50,7 @@ export default function Surely2(): React.JSX.Element {
               
             </span>
               
-            &nbsp;là một trạng từ thường được sử dụng để thể hiện sự chắc chắn, tin tưởng vào một điều gì đó.
+            &nbsp;là một trạng cơ thường được sử dụng để thể hiện sự chắc chắn, tin tưởng vào một điều gì đó.
 
           </p>
 

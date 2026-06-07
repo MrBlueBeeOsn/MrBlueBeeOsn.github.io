@@ -145,7 +145,7 @@ export default function ThreeDC1(): React.ReactElement {
 				<ul className="list-square">
 			
 					<li><strong>Nhiệm vụ</strong>:</li>
-					<li className="margin-bottom-20 list-none">Hoạt động y hệt như một <strong>Tính cơ</strong>. Nhưng thay vì đứng trước danh từ như một tính từ ngắn thông thường, nó là một Câu con dài nên bắt buộc phải đứng <strong>ngay sau</strong> danh từ mà nó muốn bổ nghĩa để "vẽ" thêm chi tiết cho danh từ đó. Ngoài ra, nó còn mở rộng để bổ nghĩa cho cả một Tính cơ đứng trước.</li>
+					<li className="margin-bottom-20 list-none">Hoạt động y hệt như một <strong>Tính cơ</strong>. Nhưng thay vì đứng trước danh cơ như một tính cơ ngắn thông thường, nó là một Câu con dài nên bắt buộc phải đứng <strong>ngay sau</strong> danh cơ mà nó muốn bổ nghĩa để "vẽ" thêm chi tiết cho danh cơ đó. Ngoài ra, nó còn mở rộng để bổ nghĩa cho cả một Tính cơ đứng trước.</li>
 			
 					<li><strong>Cách nhận biết</strong>:</li>
 					<li className="list-none">Luôn bắt đầu bằng các <strong>Đại cơ quan hệ</strong> (who, whom, which, that, whose) hoặc <strong>Trạng cơ quan hệ</strong> (where, when, why).</li>
@@ -161,7 +161,7 @@ export default function ThreeDC1(): React.ReactElement {
 					<li>I met a <strong>smart</strong> man.</li>
 					<li className="margin-bottom-20 list-none">Tôi đã gặp một người đàn ông <strong>thông minh</strong>.</li>
 
-					<li className="list-none">→ Tính cơ đứng trước danh từ "man"</li>
+					<li className="list-none">→ Tính cơ đứng trước danh cơ "man"</li>
 			
 				</ul>
 		
@@ -177,14 +177,14 @@ export default function ThreeDC1(): React.ReactElement {
 			
 				</ul>
 
-			<p className="margin-top-20 text-indent-whole">Mở rộng bổ nghĩa tính từ:</p>
+			<p className="margin-top-20 text-indent-whole">Mở rộng bổ nghĩa tính cơ:</p>
 			
 				<ul className="list-square">
 			
 					<li>It is vital <strong>that you update the system immediately</strong>.</li>
 					<li className="margin-bottom-20 list-none">Việc quan trọng là <strong>bạn cần cập nhật hệ thống ngay lập tức</strong>.</li>
 
-					<li className="list-none">→ Tính câu đứng sau bổ nghĩa cho tính từ "vital"</li>
+					<li className="list-none">→ Tính câu đứng sau bổ nghĩa cho tính cơ "vital"</li>
 			
 				</ul>
 
@@ -194,7 +194,7 @@ export default function ThreeDC1(): React.ReactElement {
 				<ul className="list-square">
 			
 					<li><strong>Nhiệm vụ</strong>:</li>
-					<li className="margin-bottom-20 list-none">Hoạt động y hệt như một <strong>Danh cơ</strong>. Trong tiếng Anh, danh từ làm được chức năng gì thì Danh câu cân được chức năng đó. Hai chức năng lớn nhất là làm <strong>Tân ngữ</strong> (đối tượng bị tác động) và làm <strong>Chủ ngữ</strong> (thực thể chính của câu).</li>
+					<li className="margin-bottom-20 list-none">Hoạt động y hệt như một <strong>Danh cơ</strong>. Trong tiếng Anh, danh cơ làm được chức năng gì thì Danh câu cân được chức năng đó. Hai chức năng lớn nhất là làm <strong>Tân ngữ</strong> (đối tượng bị tác động) và làm <strong>Chủ ngữ</strong> (thực thể chính của câu).</li>
 			
 					<li><strong>Cách nhận biết</strong>:</li>
 					<li className="list-none">Thường bắt đầu bằng <strong>that</strong> (rằng), <strong>if</strong>/<strong>whether</strong> (liệu có... không), hoặc các từ hỏi <strong>Wh</strong>- (what, who, where, when, why, how).</li>
@@ -203,7 +203,7 @@ export default function ThreeDC1(): React.ReactElement {
 		
 			<h4 className="margin-y-40">Hành trình phóng từ "từ đơn" lên "Danh câu":</h4>
 
-			<p className="margin-y-40 text-indent-whole"><strong>1. Dạng làm Tân ngữ</strong> (Đứng sau động từ):</p>
+			<p className="margin-y-40 text-indent-whole"><strong>1. Dạng làm Tân ngữ</strong> (Đứng sau động cơ):</p>
 
 			<p className="margin-top-20 text-indent-whole">Dạng từ đơn:</p>
 			
@@ -249,7 +249,7 @@ export default function ThreeDC1(): React.ReactElement {
 					<li><strong>That you failed the test</strong> is obvious.</li>
 					<li className="margin-bottom-20 list-none"><strong>Việc bạn trượt bài kiểm tra</strong> là điều hiển nhiên.</li>
 
-					<li className="list-none">→ Cả một sự việc được đưa lên làm chủ ngữ số ít, kéo theo động từ "is"</li>
+					<li className="list-none">→ Cả một sự việc được đưa lên làm chủ ngữ số ít, kéo theo động cơ "is"</li>
 			
 				</ul>
 
@@ -262,7 +262,7 @@ export default function ThreeDC1(): React.ReactElement {
 
 			<p>Thử <strong>thay thế cả Phụ câu</strong> bằng... Nếu câu vẫn đúng ngữ pháp và hợp lý, thì đó là...</p>
 
-			<p className="margin-top-20"><strong>Một trạng từ đơn lẻ</strong></p>
+			<p className="margin-top-20"><strong>Một trạng cơ đơn lẻ</strong></p>
 			
 				<ul className="list-square">
 			
@@ -273,7 +273,7 @@ export default function ThreeDC1(): React.ReactElement {
 				</ul>
 			
 			
-			<p className="margin-top-20"><strong>Một tính từ ngắn</strong></p>
+			<p className="margin-top-20"><strong>Một tính cơ ngắn</strong></p>
 			
 				<ul className="list-square">
 			
@@ -303,7 +303,7 @@ export default function ThreeDC1(): React.ReactElement {
 			
 					<li>I will call you <strong>when I arrive at the airport</strong>.</li>
 					<li className="list-none">Tôi sẽ gọi cho bạn <strong>khi tôi đến sân bay</strong>.</li>
-					<li className="margin-bottom-20 list-none"><strong>Trạng câu</strong> làm trạng từ cho động từ "call" hay cả câu.</li>
+					<li className="margin-bottom-20 list-none"><strong>Trạng câu</strong> làm trạng cơ cho động cơ "call" hay cả câu.</li>
 
 					<li className="margin-bottom-20 list-none">Phá án bằng mẹo thế thân: Thay bằng "then":</li>
 
@@ -321,7 +321,7 @@ export default function ThreeDC1(): React.ReactElement {
 					<li>I will never forget the day <strong>when we first met</strong>.</li>
 					<li className="margin-bottom-20 list-none">Tôi sẽ không bao giờ quên ngày <strong>mà chúng ta gặp nhau lần đầu tiên</strong>.</li>
 
-					<li className="margin-bottom-20 list-none">Phá án bằng mẹo thế thân: Thay bằng một tính từ đứng trước danh từ "day":</li>
+					<li className="margin-bottom-20 list-none">Phá án bằng mẹo thế thân: Thay bằng một tính cơ đứng trước danh cơ "day":</li>
 
 					<li>I will never forget the <strong>special</strong> day.</li>
 					<li className="margin-bottom-20 list-none">Tôi sẽ không bao giờ quên ngày <strong>đặc biệt</strong> đó.</li>
@@ -336,7 +336,7 @@ export default function ThreeDC1(): React.ReactElement {
 			
 					<li>I don't know <strong>when the meeting will start</strong>.</li>
 					<li className="list-none">Tôi không biết <strong>khi nào cuộc họp sẽ bắt đầu</strong>.</li>
-					<li className="margin-bottom-20 list-none"><strong>Danh câu</strong> làm tân ngữ cho động từ "know".</li>
+					<li className="margin-bottom-20 list-none"><strong>Danh câu</strong> làm tân ngữ cho động cơ "know".</li>
 
 					<li className="margin-bottom-20 list-none">Phá án bằng mẹo thế thân: Thay bằng "something/it":</li>
 
@@ -346,7 +346,7 @@ export default function ThreeDC1(): React.ReactElement {
 					<li>I don't know <strong>it</strong>.</li>
 					<li className="margin-bottom-20 list-none">Tôi không biết <strong>cái đó</strong>.</li>
 
-					<li className="list-none">→ Hợp lý! Đây là <strong>Danh câu</strong> làm tân ngữ cho động từ "know".</li>
+					<li className="list-none">→ Hợp lý! Đây là <strong>Danh câu</strong> làm tân ngữ cho động cơ "know".</li>
 			
 				</ul>
 			
@@ -460,7 +460,7 @@ export default function ThreeDC1(): React.ReactElement {
 
 			<h4 className="margin-y-40">Bước 3: Đảo ngữ kết hợp (Inversion)</h4>
 					
-			<p className="text-indent-whole">Nâng tầm <strong>Trạng câu</strong> lên mức học thuật cao nhất bằng cách đưa các <strong>trạng từ mang nghĩa phủ định lên đầu</strong> và <strong>đảo ngữ Câu lớn chính</strong>:</p>
+			<p className="text-indent-whole">Nâng tầm <strong>Trạng câu</strong> lên mức học thuật cao nhất bằng cách đưa các <strong>trạng cơ mang nghĩa phủ định lên đầu</strong> và <strong>đảo ngữ Câu lớn chính</strong>:</p>
 
 
 
@@ -508,7 +508,7 @@ export default function ThreeDC1(): React.ReactElement {
 					<li><strong>Never</strong> have I seen such a professional accounting system.</li>
 					<li className="margin-bottom-20 list-none">Chưa bao giờ tôi thấy một hệ thống kế toán nào chuyên nghiệp đến thế.</li>
 					<li className="list-none"><strong>Phong cách</strong>: Đây là câu đảo ngữ. Việc đưa "Never" lên đầu câu làm cho câu văn mang sắc thái nhấn mạnh cực độ, thể hiện sự ngạc nhiên hoặc khẳng định mạnh mẽ, rất phù hợp cho văn phong chuyên nghiệp hoặc bài viết chia sẻ quan điểm của bạn trên tài khoản Green.</li>
-					<li className="list-none">Khi bạn chuyển từ câu đầu sang câu thứ hai, vị trí của trợ động từ "have" được đẩy lên trước chủ ngữ "I". Đây chính là "điểm nhấn" giúp câu văn của bạn thoát khỏi sự đơn điệu và trở nên "học thuật" hơn.</li>
+					<li className="list-none">Khi bạn chuyển từ câu đầu sang câu thứ hai, vị trí của trợ động cơ "have" được đẩy lên trước chủ ngữ "I". Đây chính là "điểm nhấn" giúp câu văn của bạn thoát khỏi sự đơn điệu và trở nên "học thuật" hơn.</li>
 			
 				</ul>
 
@@ -535,7 +535,7 @@ export default function ThreeDC1(): React.ReactElement {
 					<li><strong>Rarely</strong> does he realize how much his decisions affect the project.</li>
 					<li className="margin-bottom-20 list-none">Hiếm khi anh ấy nhận ra được các quyết định của mình ảnh hưởng đến dự án nhiều đến thế nào.</li>
 					<li className="list-none"><strong>Phong cách</strong>: Đây là cấu trúc <strong>đảo ngữ</strong>. Việc đưa "Rarely" lên đầu câu như một lời cảnh báo hoặc nhấn mạnh về sự thiếu sót trong nhận thức. Trong các báo cáo công việc hoặc phân tích dự án, cách viết này nghe chuyên nghiệp và nghiêm túc hơn hẳn.</li>
-					<li className="list-none">Trợ động từ "does": Giống như ví dụ "Not only" trước đó, khi đảo trạng từ phủ định lên đầu, bạn bắt buộc phải mượn trợ động từ (does cho ngôi số ít).</li>
+					<li className="list-none">Trợ động cơ "does": Giống như ví dụ "Not only" trước đó, khi đảo trạng cơ phủ định lên đầu, bạn bắt buộc phải mượn trợ động cơ (does cho ngôi số ít).</li>
 					<li className="list-none">Động cơ chính "realize": Phải trả về dạng nguyên thể (bỏ đuôi -s).</li>
 			
 				</ul>
@@ -563,7 +563,7 @@ export default function ThreeDC1(): React.ReactElement {
 					<li><strong>Not only</strong> does she write clean code, <strong>but</strong> she <strong>also</strong> designs beautiful interfaces.</li>
 					<li className="margin-bottom-20 list-none">Không những cô ấy viết mã sạch, mà cô ấy còn thiết kế được các giao diện đẹp mắt.</li>
 					<li className="margin-bottom-20 list-none"><strong>Phong cách</strong>: Đây là câu <strong>đảo ngữ</strong>. Việc đưa "Not only" lên đầu câu nhấn mạnh rằng kỹ năng của cô ấy không dừng lại ở việc viết mã mà còn vượt xa hơn thế ở mảng thiết kế. Cách dùng này làm cho câu văn trở nên ấn tượng và có sức thuyết phục mạnh hơn trong các bài viết chuyên môn hoặc profile giới thiệu năng lực.</li>
-					<li className="list-none">Khi dùng đảo ngữ với "Not only", chúng ta phải mượn trợ động từ "does" (vì chủ ngữ là she - ngôi thứ ba số ít) và trả động từ "writes" về dạng nguyên thể là "write". Đây là điểm then chốt để thể hiện sự chuẩn xác trong văn phong học thuật.</li>
+					<li className="list-none">Khi dùng đảo ngữ với "Not only", chúng ta phải mượn trợ động cơ "does" (vì chủ ngữ là she - ngôi thứ ba số ít) và trả động cơ "writes" về dạng nguyên thể là "write". Đây là điểm then chốt để thể hiện sự chuẩn xác trong văn phong học thuật.</li>
 			
 				</ul>
 
@@ -590,7 +590,7 @@ export default function ThreeDC1(): React.ReactElement {
 			
 					<li><strong>Under no circumstances</strong> must you share this password.</li>
 					<li className="margin-bottom-20 list-none">Trong bất kỳ hoàn cảnh nào, bạn cũng không được phép chia sẻ mật khẩu này.</li>
-					<li className="list-none"><strong>Phong cách</strong>: Đây là câu <strong>đảo ngữ</strong>. Việc đưa cụm trạng từ phủ định lên đầu câu tạo ra một sự nhấn mạnh nghiêm trọng, như một lời cảnh báo hoặc một yêu cầu bắt buộc cứng rắn. Nó thể hiện tính chuyên nghiệp và sự nghiêm túc tuyệt đối.</li>
+					<li className="list-none"><strong>Phong cách</strong>: Đây là câu <strong>đảo ngữ</strong>. Việc đưa trạng cụm phủ định lên đầu câu tạo ra một sự nhấn mạnh nghiêm trọng, như một lời cảnh báo hoặc một yêu cầu bắt buộc cứng rắn. Nó thể hiện tính chuyên nghiệp và sự nghiêm túc tuyệt đối.</li>
 					<li className="list-none"><strong>Góc nhìn</strong> "bóc tách": Đưa ra giới hạn (<strong>Under no circumstances</strong>) ngay từ đầu để "khóa" mọi khả năng ngay lập tức, sau đó mới nhắc đến hành động.</li>
 			
 				</ul>

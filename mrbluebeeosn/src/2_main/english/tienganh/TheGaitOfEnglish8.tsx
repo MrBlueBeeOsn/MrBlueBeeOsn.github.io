@@ -69,7 +69,7 @@ export default function TheGaitOfEnglish8(): React.JSX.Element {
 					<li className="margin-bottom-20 list-none">Ngay dưới thời gian. Ở đâu. in my small kitchen, on the bus, in Da Nang.</li>
 
 					<li><strong>M</strong> – <strong>Manner</strong></li>
-					<li className="margin-bottom-20 list-none">Cách hành động diễn ra. slowly, quietly, with care. Nó luôn bám sát động từ.</li>
+					<li className="margin-bottom-20 list-none">Cách hành động diễn ra. slowly, quietly, with care. Nó luôn bám sát động cơ.</li>
 
 					<li><strong>O</strong> – <strong>Object</strong></li>
 					<li className="margin-bottom-20 list-none">Vật bạn chạm tới. dinner, a story, no one. Có câu không cần tầng này.</li>

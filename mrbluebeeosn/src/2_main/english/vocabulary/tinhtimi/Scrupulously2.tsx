@@ -116,7 +116,7 @@ export default function Scrupulously2(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>"<strong>Scrupulously</strong>" thường đứng trước động từ để bổ nghĩa.</li>
+          <li>"<strong>Scrupulously</strong>" thường đứng trước động cơ để bổ nghĩa.</li>
 
           <li className="margin-bottom-20">Từ này mang nghĩa tích cực, thể hiện sự cẩn thận và tỉ mỉ.</li>
 

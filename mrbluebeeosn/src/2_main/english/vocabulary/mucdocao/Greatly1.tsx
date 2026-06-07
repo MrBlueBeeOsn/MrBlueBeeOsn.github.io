@@ -57,7 +57,7 @@ export default function Greatly1(): React.JSX.Element {
 
       </div>
 
-      <p className="margin-top-30 text-indent-whole">Từ "<strong>greatly</strong>" được dùng để nhấn mạnh mức độ cao của một tính từ hoặc trạng từ đi kèm. Nó thể hiện sự tăng cường về mức độ, cường độ hoặc quy mô của một hành động, trạng thái hoặc sự vật.</p>
+      <p className="margin-top-30 text-indent-whole">Từ "<strong>greatly</strong>" được dùng để nhấn mạnh mức độ cao của một tính cơ hoặc trạng cơ đi kèm. Nó thể hiện sự tăng cường về mức độ, cường độ hoặc quy mô của một hành động, trạng thái hoặc sự vật.</p>
 
       <p className="text-indent-whole">Ví dụ:</p>
 
@@ -224,7 +224,7 @@ export default function Greatly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Dùng để nhấn mạnh: Thường được sử dụng để nhấn mạnh mức độ của một tính từ hoặc trạng từ đi kèm.</li>
+          <li>Dùng để nhấn mạnh: Thường được sử dụng để nhấn mạnh mức độ của một tính cơ hoặc trạng cơ đi kèm.</li>
 
           <li className="margin-bottom-20">Có thể dùng với nhiều loại từ: Có thể kết hợp với nhiều loại từ khác nhau để tạo ra các câu có ý nghĩa khác nhau.</li>
 

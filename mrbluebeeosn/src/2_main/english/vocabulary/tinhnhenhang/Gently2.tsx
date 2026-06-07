@@ -116,7 +116,7 @@ export default function Gently2(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>"<strong>Gently</strong>" thường được đặt trước động từ để bổ nghĩa.</li>
+          <li>"<strong>Gently</strong>" thường được đặt trước động cơ để bổ nghĩa.</li>
 
           <li className="margin-bottom-20">Từ này có thể được sử dụng trong cả văn nói và văn viết.</li>
 

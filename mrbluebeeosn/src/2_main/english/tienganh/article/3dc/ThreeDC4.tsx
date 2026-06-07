@@ -48,7 +48,7 @@ export default function ThreeDC4(): React.ReactElement {
 
 			</h1>
 
-			<h4 className="margin-bottom-30 text-center">Bộ 3 Mệnh Đề: Bí Mật Đằng Sau Khả Năng Tiếng Anh Nâng Cao Của Người Bản Ngữ</h4>
+			<h4 className="margin-bottom-30 text-center">Bộ 3 Câu Con: Bí Mật Đằng Sau Khả Năng Tiếng Anh Nâng Cao Của Người Bản Ngữ</h4>
 
 			<p></p>
 
@@ -150,7 +150,7 @@ export default function ThreeDC4(): React.ReactElement {
 
 			{/* 2.  */}
 
-			<h3 className="margin-y-50 text-center">2. Mệnh Đề Là Gì?</h3>
+			<h3 className="margin-y-50 text-center">2. Câu Con Là Gì?</h3>
 
 			<p></p>
 
@@ -217,7 +217,7 @@ export default function ThreeDC4(): React.ReactElement {
 
 			{/* 3.  */}
 
-			<h3 className="margin-y-50 text-center">3. Cách Nhớ Bộ 3 Mệnh Đề Trong 5 Giây</h3>
+			<h3 className="margin-y-50 text-center">3. Cách Nhớ Bộ 3 Câu Con Trong 5 Giây</h3>
 
 			<p></p>
 
@@ -250,7 +250,7 @@ export default function ThreeDC4(): React.ReactElement {
 
 			{/* 4.  */}
 
-			<h3 className="margin-y-50 text-center">4. Mệnh Đề Trạng Cơ: Chuyên Gia Giải Thích Hành Động</h3>
+			<h3 className="margin-y-50 text-center">4. Câu Con Trạng Cơ: Chuyên Gia Giải Thích Hành Động</h3>
 
 			<p></p>
 
@@ -325,7 +325,7 @@ export default function ThreeDC4(): React.ReactElement {
 
 			{/* 5.  */}
 
-			<h3 className="margin-y-50 text-center">5. Mệnh Đề Tính Cơ: Chuyên Gia Mô Tả Danh Cơ</h3>
+			<h3 className="margin-y-50 text-center">5. Câu Con Tính Cơ: Chuyên Gia Mô Tả Danh Cơ</h3>
 
 			<p></p>
 
@@ -376,7 +376,7 @@ export default function ThreeDC4(): React.ReactElement {
 
 			{/* 6.  */}
 
-			<h3 className="margin-y-50 text-center">6. Mệnh Đề Danh Cơ: Loại Mệnh Đề Quyền Lực Nhất</h3>
+			<h3 className="margin-y-50 text-center">6. Câu Con Danh Cơ: Loại Câu Con Quyền Lực Nhất</h3>
 
 			<p></p>
 
@@ -486,7 +486,7 @@ export default function ThreeDC4(): React.ReactElement {
 
 			{/* 8.  */}
 
-			<h3 className="margin-y-50 text-center">8. Tại Sao Người Bản Ngữ Sử Dụng Bộ 3 Mệnh Đề Rất Nhiều?</h3>
+			<h3 className="margin-y-50 text-center">8. Tại Sao Người Bản Ngữ Sử Dụng Bộ 3 Câu Con Rất Nhiều?</h3>
 
 			<p></p>
 
@@ -540,7 +540,7 @@ export default function ThreeDC4(): React.ReactElement {
 
 			{/* 9.  */}
 
-			<h3 className="margin-y-50 text-center">9. Cách Học Bộ 3 Mệnh Đề Hiệu Quả Nhất</h3>
+			<h3 className="margin-y-50 text-center">9. Cách Học Bộ 3 Câu Con Hiệu Quả Nhất</h3>
 
 			<p></p>
 
@@ -649,7 +649,7 @@ export default function ThreeDC4(): React.ReactElement {
 
 			{/* 10.  */}
 
-			<h3 className="margin-y-50 text-center">10. Làm Chủ Bộ 3 Mệnh Đề Có Đồng Nghĩa Với Advanced English Không?</h3>
+			<h3 className="margin-y-50 text-center">10. Làm Chủ Bộ 3 Câu Con Có Đồng Nghĩa Với Advanced English Không?</h3>
 
 			<p></p>
 

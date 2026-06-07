@@ -116,7 +116,7 @@ export default function Persistently2(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>"<strong>Persistently</strong>" thường đứng trước động từ để bổ nghĩa.</li>
+          <li>"<strong>Persistently</strong>" thường đứng trước động cơ để bổ nghĩa.</li>
 
           <li className="margin-bottom-20">Từ này có thể mang cả ý nghĩa tích cực và tiêu cực, tùy thuộc vào ngữ cảnh sử dụng.</li>
 

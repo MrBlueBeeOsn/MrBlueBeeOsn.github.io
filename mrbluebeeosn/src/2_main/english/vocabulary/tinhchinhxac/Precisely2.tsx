@@ -116,7 +116,7 @@ export default function Precisely2(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>"<strong>Precisely</strong>" thường đứng trước động từ để bổ nghĩa.</li>
+          <li>"<strong>Precisely</strong>" thường đứng trước động cơ để bổ nghĩa.</li>
 
           <li className="margin-bottom-20">Từ này mang nghĩa tích cực, thể hiện sự cẩn thận và độ chính xác cao.</li>
 

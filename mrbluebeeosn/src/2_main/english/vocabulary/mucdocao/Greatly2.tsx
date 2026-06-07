@@ -116,7 +116,7 @@ export default function Greatly2(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>"<strong>Greatly</strong>" thường đứng trước động từ hoặc tính từ để bổ nghĩa.</li>
+          <li>"<strong>Greatly</strong>" thường đứng trước động cơ hoặc tính cơ để bổ nghĩa.</li>
 
           <li className="margin-bottom-20">Từ này có thể được thay thế bằng các từ đồng nghĩa như "significantly", "substantially", "considerably" để tạo sự đa dạng trong văn phong.</li>
 

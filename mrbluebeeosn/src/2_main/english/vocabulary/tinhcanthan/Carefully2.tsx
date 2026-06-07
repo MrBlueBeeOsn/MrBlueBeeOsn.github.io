@@ -116,7 +116,7 @@ export default function Carefully2(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>"<strong>Carefully</strong>" thường được đặt trước động từ để nhấn mạnh cách thức thực hiện một hành động.</li>
+          <li>"<strong>Carefully</strong>" thường được đặt trước động cơ để nhấn mạnh cách thức thực hiện một hành động.</li>
 
           <li className="margin-bottom-20">Từ này thường được sử dụng trong các văn bản hướng dẫn, báo cáo hoặc các văn bản mang tính chuyên môn.</li>
 

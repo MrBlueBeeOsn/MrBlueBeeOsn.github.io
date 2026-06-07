@@ -220,7 +220,7 @@ export default function Again1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>"<strong>Again</strong>" thường đứng sau động từ.</li>
+          <li>"<strong>Again</strong>" thường đứng sau động cơ.</li>
 
           <li className="margin-bottom-20">"<strong>Again</strong>" có thể được dùng để nhấn mạnh một ý tưởng hoặc cảm xúc.</li>
 

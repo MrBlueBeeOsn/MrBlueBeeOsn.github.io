@@ -116,7 +116,7 @@ export default function Successfully2(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>"<strong>Successfully</strong>" thường được đặt trước động từ quá khứ phân từ để nhấn mạnh ý nghĩa của chúng.</li>
+          <li>"<strong>Successfully</strong>" thường được đặt trước động cơ quá khứ phân từ để nhấn mạnh ý nghĩa của chúng.</li>
 
           <li className="margin-bottom-20">Từ này thường được sử dụng trong văn viết và văn nói để mô tả những kết quả đạt được.</li>
 

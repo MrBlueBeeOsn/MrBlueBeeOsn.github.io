@@ -48,7 +48,7 @@ export default function Today2(): React.JSX.Element {
               
             </span>
               
-            &nbsp;là một trạng từ chỉ thời gian rất phổ biến, thường được dùng để chỉ thời điểm hiện tại.
+            &nbsp;là một trạng cơ chỉ thời gian rất phổ biến, thường được dùng để chỉ thời điểm hiện tại.
 
           </p>
 

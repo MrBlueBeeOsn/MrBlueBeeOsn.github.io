@@ -116,7 +116,7 @@ export default function Meticulously2(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>"<strong>Meticulously</strong>" thường được đặt trước động từ để nhấn mạnh cách thức thực hiện hành động đó.</li>
+          <li>"<strong>Meticulously</strong>" thường được đặt trước động cơ để nhấn mạnh cách thức thực hiện hành động đó.</li>
 
           <li className="margin-bottom-20">Từ này thường được sử dụng trong các ngữ cảnh liên quan đến công việc, nghệ thuật, khoa học, hoặc bất kỳ hoạt động nào đòi hỏi sự chính xác cao.</li>
 

@@ -116,7 +116,7 @@ export default function Currently2(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>"<strong>Currently</strong>" thường được đặt ở đầu câu hoặc trước động từ để bổ nghĩa.</li>
+          <li>"<strong>Currently</strong>" thường được đặt ở đầu câu hoặc trước động cơ để bổ nghĩa.</li>
 
           <li className="margin-bottom-20">Từ này thường được sử dụng trong văn nói và văn viết để cung cấp thông tin cập nhật.</li>
 

@@ -116,7 +116,7 @@ export default function Usually2(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>"<strong>Usually</strong>" thường đứng ở đầu câu hoặc trước động từ để nhấn mạnh tính thường xuyên của một hành động.</li>
+          <li>"<strong>Usually</strong>" thường đứng ở đầu câu hoặc trước động cơ để nhấn mạnh tính thường xuyên của một hành động.</li>
 
           <li className="margin-bottom-20">Từ này có thể được thay thế bằng các từ đồng nghĩa như: <Link to="/vocabulary/often-1">often</Link>, generally, commonly.</li>
 

@@ -126,15 +126,15 @@ export default function SentenceVariety3(): React.JSX.Element {
 
 			<h3 className="margin-y-50 text-center">2. Làm Sao Để Nhận Biết Và Học Hiệu Quả?</h3>
 
-			<p><strong>Nhận biết</strong>: Quan sát số lượng mệnh đề (clause).</p>
+			<p><strong>Nhận biết</strong>: Quan sát số lượng câu con (clause).</p>
 			
 				<ul className="list-square">
 			
-					<li>Câu đơn chỉ có 1 mệnh đề.</li>
+					<li>Câu đơn chỉ có 1 câu con.</li>
 			
-					<li>Câu ghép có từ 2 mệnh đề độc lập.</li>
+					<li>Câu ghép có từ 2 câu con độc lập.</li>
 			
-					<li>Câu phức có mệnh đề phụ (bắt đầu bằng although, because, when…).</li>
+					<li>Câu phức có câu con phụ (bắt đầu bằng although, because, when…).</li>
 			
 				</ul>
 

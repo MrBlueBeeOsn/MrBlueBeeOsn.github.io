@@ -70,7 +70,7 @@ export default function BiMatVeTuDuyNgonNgu2(): React.JSX.Element {
 			
 				</ul>
 
-			<p className="margin-top-20">Tiếng Anh dùng tính từ làm "<strong>bộ lọc</strong>" (<strong>filter</strong>) để thu hẹp thế giới lại ngay từ giây đầu tiên. Đó là một kiểu tư duy cực kỳ thực dụng và nhắm thẳng vào mục tiêu!</p>
+			<p className="margin-top-20">Tiếng Anh dùng tính cơ làm "<strong>bộ lọc</strong>" (<strong>filter</strong>) để thu hẹp thế giới lại ngay từ giây đầu tiên. Đó là một kiểu tư duy cực kỳ thực dụng và nhắm thẳng vào mục tiêu!</p>
 
 			{/* 3. "Dịch chuyển" lăng kính: Chìa khóa để nói tiếng Anh trôi chảy */}
 
@@ -86,7 +86,7 @@ export default function BiMatVeTuDuyNgonNgu2(): React.JSX.Element {
 			
 				</ul>
 
-			<p className="margin-top-20">Khi bạn tập trung vào tính chất nổi bật nhất của sự vật trước, danh từ sẽ tự động theo sau một cách rất tự nhiên.</p>
+			<p className="margin-top-20">Khi bạn tập trung vào tính chất nổi bật nhất của sự vật trước, danh cơ sẽ tự động theo sau một cách rất tự nhiên.</p>
 
 			{/* 4. Học theo "Khối hình ảnh" – Bí mật của những người giỏi ngoại ngữ */}
 
@@ -94,7 +94,7 @@ export default function BiMatVeTuDuyNgonNgu2(): React.JSX.Element {
 
 			<p>Những người giao tiếp tiếng Anh xuất sắc không bao giờ học từ vựng đơn lẻ. Họ học theo <strong>Cụm hình ảnh</strong> (<strong>Visual Chunks</strong>).</p>
 
-			<p>Thay vì học từ Blue và Ocean riêng biệt, họ nạp vào bộ nhớ một "tấm ảnh" duy nhất mang tên "<strong>Blue-ocean</strong>". Khi nhìn ra biển, họ không mất thời gian để tìm tính từ bổ nghĩa cho danh từ, mà cả một khối hình ảnh "xanh-biển" sẽ hiện ra đồng nhất.</p>
+			<p>Thay vì học từ Blue và Ocean riêng biệt, họ nạp vào bộ nhớ một "tấm ảnh" duy nhất mang tên "<strong>Blue-ocean</strong>". Khi nhìn ra biển, họ không mất thời gian để tìm tính cơ bổ nghĩa cho danh cơ, mà cả một khối hình ảnh "xanh-biển" sẽ hiện ra đồng nhất.</p>
 
 			<h3 className="margin-y-50 text-center">Lời kết:</h3>
 

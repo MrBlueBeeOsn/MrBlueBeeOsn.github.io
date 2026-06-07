@@ -116,7 +116,7 @@ export default function (): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>"<strong>Genuinely</strong>" thường được đặt trước tính từ để nhấn mạnh ý nghĩa của chúng.</li>
+          <li>"<strong>Genuinely</strong>" thường được đặt trước tính cơ để nhấn mạnh ý nghĩa của chúng.</li>
 
           <li className="margin-bottom-20">Từ này thường được sử dụng trong các tình huống giao tiếp đòi hỏi sự chân thành và tin cậy.</li>
 

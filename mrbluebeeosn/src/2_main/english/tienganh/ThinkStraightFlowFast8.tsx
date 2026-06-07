@@ -55,7 +55,7 @@ export default function ThinkStraightFlowFast8(): React.JSX.Element {
 
 			<h3 className="margin-y-50 text-center">Tiếng Việt và tiếng Anh: Hai thế giới, một mục tiêu</h3>
 
-			<p>Tiếng Việt và tiếng Anh là hai ngôn ngữ có cấu trúc hoàn toàn khác nhau. Tiếng Việt thường đặt tính từ sau danh từ, trong khi tiếng Anh đặt tính từ trước danh từ. Ví dụ, "thông tin hữu ích" (tiếng Việt) vs "useful information" (tiếng Anh). Nhưng điều này không phải là rào cản, mà là cơ hội để bạn chinh phục tiếng Anh.</p>
+			<p>Tiếng Việt và tiếng Anh là hai ngôn ngữ có cấu trúc hoàn toàn khác nhau. Tiếng Việt thường đặt tính cơ sau danh cơ, trong khi tiếng Anh đặt tính cơ trước danh cơ. Ví dụ, "thông tin hữu ích" (tiếng Việt) vs "useful information" (tiếng Anh). Nhưng điều này không phải là rào cản, mà là cơ hội để bạn chinh phục tiếng Anh.</p>
 
 			{/* Phương pháp đổi cấu trúc tiếng Việt: Bí quyết học hiệu quả */}
 

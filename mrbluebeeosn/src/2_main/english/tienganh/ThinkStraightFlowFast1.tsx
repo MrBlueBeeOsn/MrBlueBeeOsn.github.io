@@ -65,7 +65,7 @@ export default function ThinkStraightFlowFast1(): React.JSX.Element {
 
 			<h3 className="margin-y-50 text-center">2. Tại sao người học từ các quốc gia khác lại có lợi thế hơn?</h3>
 
-			<p>Khi quan sát những người học đến từ Đức, Hà Lan, hay thậm chí là Nhật Bản và Trung Quốc, chúng ta thấy họ bắt nhịp với cấu trúc tiếng Anh rất nhanh. Lý do là vì trong ngôn ngữ mẹ đẻ của họ, <strong>tính từ luôn đứng trước danh từ</strong>.</p>
+			<p>Khi quan sát những người học đến từ Đức, Hà Lan, hay thậm chí là Nhật Bản và Trung Quốc, chúng ta thấy họ bắt nhịp với cấu trúc tiếng Anh rất nhanh. Lý do là vì trong ngôn ngữ mẹ đẻ của họ, <strong>tính cơ luôn đứng trước danh cơ</strong>.</p>
 
 			<p>Chính sự đồng nhất này giúp bộ não của họ duy trì một đường thẳng duy nhất: <strong>Tiếp nhận từ trái sang phải</strong>. Họ không cần mất thêm một bước "sắp xếp lại linh kiện" trong đầu như cách người Việt chúng ta thường làm.</p>
 

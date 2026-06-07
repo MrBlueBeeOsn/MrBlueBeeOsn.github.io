@@ -28,7 +28,7 @@ export default function So2(): React.JSX.Element {
 
       {/* This is the content of Vocabulary Term. */}
 
-      <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về cách sử dụng từ "<strong>so</strong>" (quá, rất; như vậy) khi nó đóng vai trò là một trạng từ trong tiếng Anh nhé.</p>
+      <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về cách sử dụng từ "<strong>so</strong>" (quá, rất; như vậy) khi nó đóng vai trò là một trạng cơ trong tiếng Anh nhé.</p>
 
       <div className="text-border1 padding-10 highlight-238-padding-4-8 bee-container">
 
@@ -48,7 +48,7 @@ export default function So2(): React.JSX.Element {
               
             </span>
               
-            &nbsp;là một trạng từ rất linh hoạt, có thể dùng để nhấn mạnh mức độ, chỉ kết quả hoặc đồng ý với một điều gì đó.
+            &nbsp;là một trạng cơ rất linh hoạt, có thể dùng để nhấn mạnh mức độ, chỉ kết quả hoặc đồng ý với một điều gì đó.
 
           </p>
 
@@ -119,7 +119,7 @@ export default function So2(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Nhấn mạnh mức độ: "<strong>So</strong>" thường được dùng để nhấn mạnh tính từ hoặc trạng từ (ví dụ: <strong>so</strong> beautiful, <strong>so</strong> quickly).</li>
+          <li>Nhấn mạnh mức độ: "<strong>So</strong>" thường được dùng để nhấn mạnh tính cơ hoặc trạng cơ (ví dụ: <strong>so</strong> beautiful, <strong>so</strong> quickly).</li>
 
           <li>Chỉ kết quả: "<strong>So</strong>" có thể dùng để giới thiệu kết quả của một hành động hoặc tình huống (ví dụ: It rained heavily, <strong>so</strong> we stayed home).</li>
 

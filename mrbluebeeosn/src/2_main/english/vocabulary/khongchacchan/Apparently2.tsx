@@ -48,7 +48,7 @@ export default function Apparently2(): React.JSX.Element {
               
             </span>
               
-            &nbsp;là một trạng từ thường được dùng để thể hiện một thông tin mà người nói không chắc chắn hoàn toàn về tính xác thực của nó.
+            &nbsp;là một trạng cơ thường được dùng để thể hiện một thông tin mà người nói không chắc chắn hoàn toàn về tính xác thực của nó.
 
           </p>
 
@@ -116,7 +116,7 @@ export default function Apparently2(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>"<strong>Apparently</strong>" thường đứng ở đầu câu hoặc trước một tính từ hoặc cụm danh từ.</li>
+          <li>"<strong>Apparently</strong>" thường đứng ở đầu câu hoặc trước một tính cơ hoặc danh cụm.</li>
 
           <li className="margin-bottom-20">Từ này có thể được thay thế bằng các từ đồng nghĩa như "seemingly", "evidently", "ostensibly" để tạo sự đa dạng trong văn phong.</li>
 

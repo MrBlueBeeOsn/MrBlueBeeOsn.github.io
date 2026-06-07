@@ -146,7 +146,7 @@ export default function LegoAssembly3(): React.JSX.Element {
 			
 				</ul>
 			
-			<p className="margin-top-20 text-indent-whole">Sau Modal luôn là <strong>động từ nguyên mẫu</strong>.</p>
+			<p className="margin-top-20 text-indent-whole">Sau Modal luôn là <strong>động cơ nguyên mẫu</strong>.</p>
 
 			{/* 2.  */}
 
@@ -344,7 +344,7 @@ export default function LegoAssembly3(): React.JSX.Element {
 				</ul>
 
 
-			<p className="margin-top-20"><strong>Mệnh đề phụ</strong> (<strong>DC</strong>):</p>
+			<p className="margin-top-20"><strong>Câu con phụ</strong> (<strong>DC</strong>):</p>
 			
 				<ul className="list-square">
 			

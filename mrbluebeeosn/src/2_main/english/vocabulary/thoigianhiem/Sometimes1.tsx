@@ -216,7 +216,7 @@ export default function Sometimes1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>"<strong>Sometimes</strong>" thường đứng trước động từ chính trong câu.</li>
+          <li>"<strong>Sometimes</strong>" thường đứng trước động cơ chính trong câu.</li>
 
           <li className="margin-bottom-20">Nó có thể được sử dụng để diễn tả sự không chắc chắn hoặc sự thay đổi về tần suất.</li>
 

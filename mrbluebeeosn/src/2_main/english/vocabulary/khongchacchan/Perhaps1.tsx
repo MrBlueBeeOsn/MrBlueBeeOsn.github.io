@@ -220,7 +220,7 @@ export default function Perhaps1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>"<strong>Perhaps</strong>" thường đứng ở đầu câu hoặc trước động từ chính.</li>
+          <li>"<strong>Perhaps</strong>" thường đứng ở đầu câu hoặc trước động cơ chính.</li>
 
           <li className="margin-bottom-20">"<strong>Perhaps</strong>" thường được sử dụng để diễn tả sự suy đoán hoặc không chắc chắn.</li>
 

@@ -48,7 +48,7 @@ export default function Never2(): React.JSX.Element {
               
             </span>
               
-            &nbsp;là một trạng từ chỉ tần suất, dùng để diễn tả một hành động hoặc sự việc không xảy ra bao giờ cả.
+            &nbsp;là một trạng cơ chỉ tần suất, dùng để diễn tả một hành động hoặc sự việc không xảy ra bao giờ cả.
 
           </p>
 
@@ -116,9 +116,9 @@ export default function Never2(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>"<strong>Never</strong>" thường đứng ở đầu câu hoặc trước động từ chính.</li>
+          <li>"<strong>Never</strong>" thường đứng ở đầu câu hoặc trước động cơ chính.</li>
 
-          <li className="margin-bottom-20">Bạn có thể kết hợp "<strong>never</strong>" với nhiều trạng từ khác để tạo ra các cụm từ đa dạng hơn.</li>
+          <li className="margin-bottom-20">Bạn có thể kết hợp "<strong>never</strong>" với nhiều trạng cơ khác để tạo ra các cụm từ đa dạng hơn.</li>
 
         </ul>
 

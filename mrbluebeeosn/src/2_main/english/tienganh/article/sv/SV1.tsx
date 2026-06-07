@@ -48,9 +48,9 @@ export default function SV1(): React.JSX.Element {
 
 			</h1>
 
-			<h4 className="margin-bottom-30 text-center">Tạm Biệt "Mệnh Đề": Cách Mạng Tư Duy Ngữ Phép Tiếng Anh Bằng Hệ Thống "Cụm - Câu" Trực Quan</h4>
+			<h4 className="margin-bottom-30 text-center">Tạm Biệt "Câu Con": Cách Mạng Tư Duy Ngữ Phép Tiếng Anh Bằng Hệ Thống "Cụm - Câu" Trực Quan</h4>
 
-			<p>Có một sự thật phũ phàng trong việc học tiếng Anh tại Việt Nam: Hàng triệu người học đang bị bóp nghẹt tư duy bởi những thuật ngữ mang tính triết học cũ kỹ. Những chữ như “Mệnh đề”, “Cụm từ” vốn là những từ Hán-Việt rất nặng tính hàn lâm, không hề gợi hình và hoàn toàn tách rời khỏi bản chất cấu trúc thực tế.</p>
+			<p>Có một sự thật phũ phàng trong việc học tiếng Anh tại Việt Nam: Hàng triệu người học đang bị bóp nghẹt tư duy bởi những thuật ngữ mang tính triết học cũ kỹ. Những chữ như “Câu con”, “Cụm từ” vốn là những từ Hán-Việt rất nặng tính hàn lâm, không hề gợi hình và hoàn toàn tách rời khỏi bản chất cấu trúc thực tế.</p>
 
 			<p>Đã bao giờ bạn mất hàng tiếng đồng hồ chỉ để phân biệt khi nào dùng "Danh cụm", khi nào dùng "Danh câu" chưa? Sự rối rắm này không đến từ năng lực của bạn, nó đến từ hệ thống thuật ngữ phức tạp của thế kỷ trước.</p>
 
@@ -58,7 +58,7 @@ export default function SV1(): React.JSX.Element {
 			
 			<p>Để gạt bỏ gánh nặng này và giải phóng hoàn toàn tư duy ngôn ngữ, bài viết này đề xuất một bước đột phá:</p>
 
-			<p><strong>Tiêu diệt hoàn toàn chữ</strong> "<strong>Mệnh đề</strong>" và thay thế bằng hệ thống thuật ngữ mới dựa trên hai khái niệm cốt lõi:</p>
+			<p><strong>Tiêu diệt hoàn toàn chữ</strong> "<strong>Câu con</strong>" và thay thế bằng hệ thống thuật ngữ mới dựa trên hai khái niệm cốt lõi:</p>
 
 			<p className="margin-top-20"></p>
 			
@@ -142,7 +142,7 @@ export default function SV1(): React.JSX.Element {
 					<li>A lot of money</li>
 					<li className="margin-bottom-20 list-none">Một thành công lớn</li>
 
-					<li className="list-none">→ Một cụm từ đóng vai trò danh từ, không chứa S + V</li>
+					<li className="list-none">→ Một cụm từ đóng vai trò danh cơ, không chứa S + V</li>
 			
 				</ul>
 			
@@ -153,14 +153,14 @@ export default function SV1(): React.JSX.Element {
 					<li>What I need is money</li>
 					<li className="margin-bottom-20 list-none">Cách mà anh ấy đạt được thành công</li>
 
-					<li className="list-none">→ Một cấu trúc có chứa S + V làm nhiệm vụ danh từ</li>
+					<li className="list-none">→ Một cấu trúc có chứa S + V làm nhiệm vụ danh cơ</li>
 			
 				</ul>
 			
 
 			<p className="margin-y-20"><strong>Tư duy cốt lõi bằng một hình ảnh ẩn dụ</strong>:</p>
 					
-			<p className="margin-y-40 text-indent-whole">"<strong>Danh câu</strong> thực chất là một cái Câu con được thuê về để làm vệ sĩ chức năng cho một danh từ trong <strong>Câu lớn</strong>".</p>
+			<p className="margin-y-40 text-indent-whole">"<strong>Danh câu</strong> thực chất là một cái Câu con được thuê về để làm vệ sĩ chức năng cho một danh cơ trong <strong>Câu lớn</strong>".</p>
 
 
 			<h4 className="margin-y-40">Cấp độ chức năng Tính cơ:</h4>
@@ -183,7 +183,7 @@ export default function SV1(): React.JSX.Element {
 					<li>Very beautiful</li>
 					<li className="margin-bottom-20 list-none">Rất đẹp</li>
 
-					<li className="list-none">→ Một cụm từ đóng vai trò tính từ, không chứa S + V</li>
+					<li className="list-none">→ Một cụm từ đóng vai trò tính cơ, không chứa S + V</li>
 			
 				</ul>
 			
@@ -194,7 +194,7 @@ export default function SV1(): React.JSX.Element {
 					<li>The girl <strong>who is sitting there</strong></li>
 					<li className="margin-bottom-20 list-none">Cô gái <strong>người mà đang ngồi ở đó</strong>.</li>
 
-					<li className="list-none">→ Một cấu trúc có chứa S + V làm nhiệm vụ tính từ để bổ nghĩa cho danh từ</li>
+					<li className="list-none">→ Một cấu trúc có chứa S + V làm nhiệm vụ tính cơ để bổ nghĩa cho danh cơ</li>
 			
 				</ul>
 
@@ -219,7 +219,7 @@ export default function SV1(): React.JSX.Element {
 					<li>In the morning</li>
 					<li className="margin-bottom-20 list-none">Vào buổi sáng</li>
 
-					<li className="list-none">→ Một cụm từ đóng vai trò trạng từ, không chứa S + V</li>
+					<li className="list-none">→ Một cụm từ đóng vai trò trạng cơ, không chứa S + V</li>
 			
 				</ul>
 			
@@ -230,7 +230,7 @@ export default function SV1(): React.JSX.Element {
 					<li>When the sun rises</li>
 					<li className="margin-bottom-20 list-none">Khi mặt trời mọc</li>
 
-					<li className="list-none">→ Một cấu trúc có chứa S + V làm nhiệm vụ trạng từ</li>
+					<li className="list-none">→ Một cấu trúc có chứa S + V làm nhiệm vụ trạng cơ</li>
 			
 				</ul>
 
@@ -252,7 +252,7 @@ export default function SV1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>Đây là một câu phức, trong đó 'I know' là mệnh đề chính, còn 'that you love me' là mệnh đề phụ danh từ làm tân ngữ...</li>
+					<li>Đây là một câu phức, trong đó 'I know' là câu con chính, còn 'that you love me' là câu con phụ danh cơ làm tân ngữ...</li>
 
 					<li>→ Người học nghe xong liền cảm thấy nhức đầu và sợ hãi.</li>
 			
@@ -267,7 +267,7 @@ export default function SV1(): React.JSX.Element {
 			
 					<li>Toàn bộ cấu trúc này là một <strong>Câu lớn</strong>.</li>
 
-					<li>Trong đó, cụm "<strong>that you love me</strong>" là một <strong>Danh câu</strong> (Phụ câu làm chức năng danh từ) vì nó có đủ S + V (you + love) và đang nằm ở vị trí tân ngữ đứng sau động từ "know".</li>
+					<li>Trong đó, cụm "<strong>that you love me</strong>" là một <strong>Danh câu</strong> (Phụ câu làm chức năng danh cơ) vì nó có đủ S + V (you + love) và đang nằm ở vị trí tân ngữ đứng sau động cơ "know".</li>
 			
 				</ul>
 
@@ -293,7 +293,7 @@ export default function SV1(): React.JSX.Element {
 					<li><strong>Phản ánh đúng 100% bản chất</strong>:</li>
 					<li className="margin-bottom-20 list-none">Người học nhìn vào chữ "Danh câu" hay "Tính cụm" là biết ngay: Bản chất cấu trúc bên trong là gì (Cụm hay Câu) và vai trò ngữ pháp bên ngoài là gì (Danh, Tính hay Trạng).</li>
 			
-					<li><strong>Xóa bỏ hoàn toàn bóng ma</strong> "<strong>Mệnh đề</strong>":</li>
+					<li><strong>Xóa bỏ hoàn toàn bóng ma</strong> "<strong>Câu con</strong>":</li>
 					<li className="margin-bottom-20 list-none">Gạt bỏ rào cản tâm lý sợ ngữ pháp hàn lâm. Giờ đây ngữ pháp chỉ xoay quanh ba cấp độ tăng dần: <strong>Từ</strong> → <strong>Cụm</strong> → <strong>Câu</strong>.</li>
 			
 					<li><strong>Siêu ngắn gọn và thoát ý</strong>:</li>

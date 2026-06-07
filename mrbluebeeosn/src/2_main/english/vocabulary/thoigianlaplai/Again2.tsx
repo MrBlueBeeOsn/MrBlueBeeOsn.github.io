@@ -48,7 +48,7 @@ export default function Again2(): React.JSX.Element {
               
             </span>
               
-            &nbsp;là một trạng từ chỉ tần suất, thường được dùng để diễn tả một hành động được lặp lại, hoặc một tình huống tương tự xảy ra một lần nữa.
+            &nbsp;là một trạng cơ chỉ tần suất, thường được dùng để diễn tả một hành động được lặp lại, hoặc một tình huống tương tự xảy ra một lần nữa.
 
           </p>
 

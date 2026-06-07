@@ -116,7 +116,7 @@ export default function Tenderly2(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>"<strong>Tenderly</strong>" thường đứng trước động từ để bổ nghĩa.</li>
+          <li>"<strong>Tenderly</strong>" thường đứng trước động cơ để bổ nghĩa.</li>
 
           <li className="margin-bottom-20">Từ này mang nghĩa tích cực, thể hiện sự dịu dàng, trìu mến.</li>
 

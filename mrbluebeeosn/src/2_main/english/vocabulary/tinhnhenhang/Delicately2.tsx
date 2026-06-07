@@ -116,7 +116,7 @@ export default function Delicately2(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>"<strong>Delicately</strong>" thường được đặt trước động từ để bổ nghĩa.</li>
+          <li>"<strong>Delicately</strong>" thường được đặt trước động cơ để bổ nghĩa.</li>
 
           <li className="margin-bottom-20">Từ này thường được sử dụng trong văn viết trang trọng để tạo ra một cảm giác thanh lịch và tinh tế.</li>
 

@@ -224,7 +224,7 @@ export default function Soon1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>"<strong>Soon</strong>" thường đứng cuối câu hoặc sau động từ.</li>
+          <li>"<strong>Soon</strong>" thường đứng cuối câu hoặc sau động cơ.</li>
 
           <li className="margin-bottom-20">Nó có thể được dùng để diễn tả sự mong đợi, sự cấp bách hoặc một sự kiện sắp xảy ra.</li>
 

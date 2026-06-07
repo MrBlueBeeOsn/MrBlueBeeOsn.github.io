@@ -48,7 +48,7 @@ export default function Maybe2(): React.JSX.Element {
               
             </span>
               
-            &nbsp;là một trạng từ thường được dùng để diễn tả sự không chắc chắn, khả năng xảy ra một điều gì đó.
+            &nbsp;là một trạng cơ thường được dùng để diễn tả sự không chắc chắn, khả năng xảy ra một điều gì đó.
 
           </p>
 
@@ -116,7 +116,7 @@ export default function Maybe2(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>"<strong>Maybe</strong>" thường đứng ở đầu câu hoặc trước động từ chính.</li>
+          <li>"<strong>Maybe</strong>" thường đứng ở đầu câu hoặc trước động cơ chính.</li>
 
           <li className="margin-bottom-20">Cùng với các từ khác, "<strong>maybe</strong>" tạo thành nhiều cụm từ khác nhau với ý nghĩa đa dạng.</li>
 

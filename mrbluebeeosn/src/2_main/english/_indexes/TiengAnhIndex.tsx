@@ -465,7 +465,7 @@ export default function TiengAnhIndex(): React.JSX.Element {
 
             <li>
               <div className="li-content">
-                <Link to="/tieng-anh/bang-dong-tu-bat-quy-tac-pho-bien">Bảng động từ bất quy tắc phổ biến</Link>
+                <Link to="/tieng-anh/bang-dong-tu-bat-quy-tac-pho-bien">Bảng động cơ bất quy tắc phổ biến</Link>
               </div>
             </li>
 

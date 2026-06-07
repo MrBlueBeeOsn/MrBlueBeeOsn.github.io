@@ -29,9 +29,9 @@ export default function VietCumDongTuTiengAnh(): React.JSX.Element {
 
 			{/* This is the content of English Learning Term. */}
 
-			<p>Khi học tiếng Anh, nhiều người Việt thường gặp khó khăn khi viết cụm động từ (verb phrases) có nhiều trợ động từ vì trong tiếng Việt ta hay nói/think theo thứ tự “trợ động từ + động từ chính” (đã đang ăn cơm). Trong tiếng Anh, thứ tự viết lại giống hệt cách ta nói trong đầu: <strong>trợ động từ đứng trước</strong> → <strong>động từ chính đứng sau</strong> (have been eating).</p>
+			<p>Khi học tiếng Anh, nhiều người Việt thường gặp khó khăn khi viết động cụm (verb phrases) có nhiều trợ động cơ vì trong tiếng Việt ta hay nói/think theo thứ tự “trợ động cơ + động cơ chính” (đã đang ăn cơm). Trong tiếng Anh, thứ tự viết lại giống hệt cách ta nói trong đầu: <strong>trợ động cơ đứng trước</strong> → <strong>động cơ chính đứng sau</strong> (have been eating).</p>
 
-			<p>Vì vậy, để viết đúng và nhanh nhất, bạn chỉ cần <strong>nghĩ theo đúng thứ tự tiếng Việt</strong> (từ trái sang phải), nhưng <strong>khi viết/bổ sung từng lớp thì làm từ phải sang trái</strong> – tức là luôn bắt đầu bằng động từ chính trước, rồi lần lượt thêm trợ động từ vào phía trước nó. Phương pháp này giúp bạn không bao giờ bị rối thứ tự dù cụm động từ có dài bao nhiêu lớp đi nữa.</p>
+			<p>Vì vậy, để viết đúng và nhanh nhất, bạn chỉ cần <strong>nghĩ theo đúng thứ tự tiếng Việt</strong> (từ trái sang phải), nhưng <strong>khi viết/bổ sung từng lớp thì làm từ phải sang trái</strong> – tức là luôn bắt đầu bằng động cơ chính trước, rồi lần lượt thêm trợ động cơ vào phía trước nó. Phương pháp này giúp bạn không bao giờ bị rối thứ tự dù động cụm có dài bao nhiêu lớp đi nữa.</p>
 
 				<p className="margin-y-50 text-center">
 
@@ -49,9 +49,9 @@ export default function VietCumDongTuTiengAnh(): React.JSX.Element {
 
 					<li><strong>Trong đầu bạn nghĩ</strong>: đã → đang → ăn → cơm → have been eating rice (đúng thứ tự tiếng Anh luôn!).</li>
 
-					<li><strong>Vấn đề xảy ra khi bạn cố viết liền một lần</strong>: bạn dễ quên lớp nào trước lớp nào sau, nhất là khi có 3–4 trợ động từ.</li>
+					<li><strong>Vấn đề xảy ra khi bạn cố viết liền một lần</strong>: bạn dễ quên lớp nào trước lớp nào sau, nhất là khi có 3–4 trợ động cơ.</li>
 
-					<li><strong>Giải pháp</strong>: Luôn bắt buộc mình viết động từ chính trước (phần bên phải nhất), rồi bổ sung từng trợ động từ một từ phía trước nó (từ phải sang trái). Như vậy dù bạn nghĩ theo kiểu tiếng Việt bao nhiêu lần đi nữa, kết quả viết ra vẫn luôn đúng 100%.</li>
+					<li><strong>Giải pháp</strong>: Luôn bắt buộc mình viết động cơ chính trước (phần bên phải nhất), rồi bổ sung từng trợ động cơ một từ phía trước nó (từ phải sang trái). Như vậy dù bạn nghĩ theo kiểu tiếng Việt bao nhiêu lần đi nữa, kết quả viết ra vẫn luôn đúng 100%.</li>
 
 				</ul>
 
@@ -69,15 +69,15 @@ export default function VietCumDongTuTiengAnh(): React.JSX.Element {
 
 				</ul>
 
-			<h3 className="margin-y-50 text-center">2. Các bước viết cụm động từ theo nguyên tắc “động từ viết trước”</h3>
+			<h3 className="margin-y-50 text-center">2. Các bước viết động cụm theo nguyên tắc “động cơ viết trước”</h3>
 
 			{/* =============================
-					Bước 1: Viết động từ chính trước (main verb)
+					Bước 1: Viết động cơ chính trước (main verb)
 			============================= */}
 
 			<div className="margin-y-15 text-border1 table-container">
 
-				<h3 className="margin-y-50 text-center">Bước 1: Viết động từ chính trước (main verb)</h3>
+				<h3 className="margin-y-50 text-center">Bước 1: Viết động cơ chính trước (main verb)</h3>
 
 				<p>Đây là hành động hoặc trạng thái chính bạn muốn diễn đạt.</p>
 				
@@ -86,14 +86,14 @@ export default function VietCumDongTuTiengAnh(): React.JSX.Element {
 			</div>
 
 			{/* =============================
-					Bước 2: Bổ sung từng lớp trợ động từ từ phải sang trái
+					Bước 2: Bổ sung từng lớp trợ động cơ từ phải sang trái
 			============================= */}
 
 			<div className="margin-y-15 text-border1 table-container">
 
-				<h3 className="margin-y-50 text-center">Bước 2: Bổ sung từng lớp trợ động từ từ phải sang trái</h3>
+				<h3 className="margin-y-50 text-center">Bước 2: Bổ sung từng lớp trợ động cơ từ phải sang trái</h3>
 
-				<p>Thêm dần trợ động từ, phủ định, trạng từ… vào phía trước động từ chính.</p>
+				<p>Thêm dần trợ động cơ, phủ định, trạng cơ… vào phía trước động cơ chính.</p>
 
 					<ul className="list-square">
 
@@ -153,7 +153,7 @@ export default function VietCumDongTuTiengAnh(): React.JSX.Element {
 
 			</div>
 
-			<h3 className="margin-y-50 text-center">3. Thứ tự trợ động từ chuẩn trong tiếng Anh (Modal – Perfect – Continuous – Passive)</h3>
+			<h3 className="margin-y-50 text-center">3. Thứ tự trợ động cơ chuẩn trong tiếng Anh (Modal – Perfect – Continuous – Passive)</h3>
 
 			<p>Chỉ cần nhớ 4 lớp từ trái sang phải:</p>
 
@@ -167,7 +167,7 @@ export default function VietCumDongTuTiengAnh(): React.JSX.Element {
 
 					<li><strong>Passive</strong> (bị động): be + V3</li>
 
-					<li><strong>Main verb</strong> (động từ chính)</li>
+					<li><strong>Main verb</strong> (động cơ chính)</li>
 
 				</ol>
 
@@ -179,11 +179,11 @@ export default function VietCumDongTuTiengAnh(): React.JSX.Element {
 
 					<li>Trong đầu vẫn nghĩ bình thường theo tiếng Việt (từ trái sang phải) → rất tự nhiên.</li>
 
-					<li>Khi đặt bút (hoặc gõ phím) thì <strong>luôn bắt đầu bằng động từ chính trước</strong> → <strong>rồi thêm từng trợ động từ vào phía trước</strong> → đảm bảo không sai thứ tự.</li>
+					<li>Khi đặt bút (hoặc gõ phím) thì <strong>luôn bắt đầu bằng động cơ chính trước</strong> → <strong>rồi thêm từng trợ động cơ vào phía trước</strong> → đảm bảo không sai thứ tự.</li>
 
-					<li>Phủ định “not” luôn đứng ngay sau trợ động từ đầu tiên (hoặc sau modal).</li>
+					<li>Phủ định “not” luôn đứng ngay sau trợ động cơ đầu tiên (hoặc sau modal).</li>
 
-					<li>Với câu hỏi chỉ cần đảo trợ động từ đầu tiên lên trước chủ ngữ sau khi đã xây xong cụm.</li>
+					<li>Với câu hỏi chỉ cần đảo trợ động cơ đầu tiên lên trước chủ ngữ sau khi đã xây xong cụm.</li>
 
 					<li>Thực hành 10–20 cụm mỗi ngày, bạn sẽ tự động viết được mọi thì phức tạp mà không cần suy nghĩ nhiều.</li>
 
@@ -191,7 +191,7 @@ export default function VietCumDongTuTiengAnh(): React.JSX.Element {
 
 			<h3 className="margin-y-50 text-center">5. Kết luận</h3>
 			
-			<p>Dù trong đầu bạn nghĩ “đã đang sẽ không thể…” theo kiểu tiếng Việt (từ trái sang phải), chỉ cần <strong>luôn viết động từ chính trước</strong>, <strong>rồi bổ sung từng trợ động từ một vào phía trước</strong> (tức viết từ phải sang trái), bạn sẽ luôn có cụm động từ tiếng Anh đúng thứ tự 100%, dù dài bao nhiêu lớp đi nữa. Đây chính là mẹo hay nhất dành riêng cho người Việt khi làm việc với thì tiếng Anh!</p>
+			<p>Dù trong đầu bạn nghĩ “đã đang sẽ không thể…” theo kiểu tiếng Việt (từ trái sang phải), chỉ cần <strong>luôn viết động cơ chính trước</strong>, <strong>rồi bổ sung từng trợ động cơ một vào phía trước</strong> (tức viết từ phải sang trái), bạn sẽ luôn có động cụm tiếng Anh đúng thứ tự 100%, dù dài bao nhiêu lớp đi nữa. Đây chính là mẹo hay nhất dành riêng cho người Việt khi làm việc với thì tiếng Anh!</p>
 
 			<div className="viewcounter">
 			

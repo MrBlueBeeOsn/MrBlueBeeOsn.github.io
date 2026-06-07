@@ -48,7 +48,7 @@ export default function AdjPlacement2(): React.JSX.Element {
 
 			</h1>
 
-			<h4 className="margin-bottom-30 text-center">Bộ ba mệnh đề thầm lặng: Tại sao người Việt lại có lợi thế ngầm trước cả khu vực?</h4>
+			<h4 className="margin-bottom-30 text-center">Bộ ba câu con thầm lặng: Tại sao người Việt lại có lợi thế ngầm trước cả khu vực?</h4>
 
 			<p className="margin-top-20"></p>
 			
@@ -58,7 +58,7 @@ export default function AdjPlacement2(): React.JSX.Element {
 					<li className="margin-bottom-20 list-none">Điều gì thực sự khiến người Việt chúng ta chậm tiến hơn trong tiếng Anh?</li>
 			
 					<li>Hàng triệu người sẽ trả lời:</li>
-					<li className="list-none">“Tại tính từ cứ phải đứng trước danh từ"</li>
+					<li className="list-none">“Tại tính cơ cứ phải đứng trước danh cơ"</li>
 			
 				</ul>
 			
@@ -81,11 +81,11 @@ export default function AdjPlacement2(): React.JSX.Element {
 			
 				<ol>
 			
-					<li value="1"><strong>Danh cơ đứng trước tính từ</strong></li>
-					<li className="margin-bottom-20 list-none">Để NHẤN MẠNH <strong>danh từ</strong> (<strong>đối tượng</strong>).</li>
+					<li value="1"><strong>Danh cơ đứng trước tính cơ</strong></li>
+					<li className="margin-bottom-20 list-none">Để NHẤN MẠNH <strong>danh cơ</strong> (<strong>đối tượng</strong>).</li>
 			
-					<li value="2"><strong>Tính cơ đứng trước danh từ</strong></li>
-					<li className="list-none">Để NHẤN MẠNH <strong>tính từ</strong> (<strong>đặc điểm</strong>).</li>
+					<li value="2"><strong>Tính cơ đứng trước danh cơ</strong></li>
+					<li className="list-none">Để NHẤN MẠNH <strong>tính cơ</strong> (<strong>đặc điểm</strong>).</li>
 			
 				</ol>
 			
@@ -96,32 +96,32 @@ export default function AdjPlacement2(): React.JSX.Element {
 					<li>Khi bạn muốn nói về “cái cây” trước, sau đó mới thêm “cao”, “xanh”, “tôi đã trồng năm ngoái”</li>
 					<li className="margin-bottom-20 list-none">Bạn đang nhấn mạnh cái cây</li>
 			
-					<li>Khi bạn nói “một cái cây cao” với tính từ kèm ngay trước danh từ</li>
+					<li>Khi bạn nói “một cái cây cao” với tính cơ kèm ngay trước danh cơ</li>
 					<li className="list-none">Bạn đang nhấn mạnh chiều cao</li>
 			
 				</ul>
 			
 			<p className="margin-top-20">Tiếng Việt của ta nghiêng hẳn về vế thứ nhất: </p>
 
-			<p className="margin-y-20"><strong>Nhấn mạnh danh từ</strong>, <strong>mô tả sau</strong>.</p>
+			<p className="margin-y-20"><strong>Nhấn mạnh danh cơ</strong>, <strong>mô tả sau</strong>.</p>
 
 			<p>Và đây chính là chìa khóa.</p>
 
 
 			{/* 2.  */}
 
-			<h3 className="margin-y-50 text-center">2. Sự thật ít ai dám nói: người bản ngữ dùng danh từ trước tính từ rất nhiều</h3>
+			<h3 className="margin-y-50 text-center">2. Sự thật ít ai dám nói: người bản ngữ dùng danh cơ trước tính cơ rất nhiều</h3>
 
 			<p>Sách giáo khoa thường dạy bạn hai mẫu câu duy nhất:</p>
 
-			<p className="margin-top-20"><strong>Tính cơ trước danh từ</strong></p>
+			<p className="margin-top-20"><strong>Tính cơ trước danh cơ</strong></p>
 			
 				<ul className="list-square">
 			
 					<li>A beautiful house.</li>
 					<li className="margin-bottom-20 list-none">Một ngôi nhà đẹp</li>
 
-					<li className="list-none">Đây là một cụm danh từ.</li>
+					<li className="list-none">Đây là một danh cụm.</li>
 			
 				</ul>
 
@@ -157,29 +157,29 @@ export default function AdjPlacement2(): React.JSX.Element {
 
 			<p>Bạn thấy không? Trật tự y hệt tiếng Việt:</p>
 
-			<p className="margin-y-20"><strong>Danh cơ</strong> → <strong>Mệnh đề mô tả</strong>.</p>
+			<p className="margin-y-20"><strong>Danh cơ</strong> → <strong>Câu con mô tả</strong>.</p>
 
-			<p>Trong tiếng Anh, phần mô tả ấy được gọi là <strong>Adjective Clause</strong> – mệnh đề tính từ.</p>
+			<p>Trong tiếng Anh, phần mô tả ấy được gọi là <strong>Adjective Clause</strong> – câu con tính cơ.</p>
 
-			<p>Nó làm một nhiệm vụ duy nhất: bổ nghĩa cho danh từ đứng trước. Và nó chiếm một tỷ lệ áp đảo trong văn nói và văn viết thực tế.</p>
+			<p>Nó làm một nhiệm vụ duy nhất: bổ nghĩa cho danh cơ đứng trước. Và nó chiếm một tỷ lệ áp đảo trong văn nói và văn viết thực tế.</p>
 
 			<h4 className="margin-y-40">Vậy thì nỗi sợ đến từ đâu?</h4>
 
 			<p>Đến từ một cái tên mơ hồ, rối rắm mà sách giáo khoa cũ cố nhồi nhét vào đầu bạn. mình sẽ không nhắc đến cái tên đó ở đây. Hãy quên nó đi.</p>
 
-			<p>Chỉ cần nhớ: <strong>Adjective Clause</strong> – <strong>mệnh đề tính từ</strong>, <strong>đứng sau danh từ</strong>, <strong>giống như tiếng Việt</strong>.</p>
+			<p>Chỉ cần nhớ: <strong>Adjective Clause</strong> – <strong>câu con tính cơ</strong>, <strong>đứng sau danh cơ</strong>, <strong>giống như tiếng Việt</strong>.</p>
 
 			{/* 3.  */}
 
-			<h3 className="margin-y-50 text-center">3. Khi bạn thực sự làm chủ được Adjective Clause, cánh cửa của bộ ba mệnh đề mở ra</h3>
+			<h3 className="margin-y-50 text-center">3. Khi bạn thực sự làm chủ được Adjective Clause, cánh cửa của bộ ba câu con mở ra</h3>
 
-			<p>Người bản ngữ xây dựng mọi câu phức tạp bằng <strong>ba loại mệnh đề trụ cột</strong>.</p>
+			<p>Người bản ngữ xây dựng mọi câu phức tạp bằng <strong>ba loại câu con trụ cột</strong>.</p>
 
-			<p>Và tin vui là: một khi bạn đã thấm nhuần cách dùng Adjective Clause, hai mệnh đề còn lại sẽ không còn gì đáng sợ.</p>
+			<p>Và tin vui là: một khi bạn đã thấm nhuần cách dùng Adjective Clause, hai câu con còn lại sẽ không còn gì đáng sợ.</p>
 
-			<p>Hãy cùng điểm qua ba mệnh đề ấy – bộ khung xương của mọi tư duy tiếng Anh đẳng cấp.</p>
+			<p>Hãy cùng điểm qua ba câu con ấy – bộ khung xương của mọi tư duy tiếng Anh đẳng cấp.</p>
 
-			<h4 className="margin-y-40">1. Adjective Clause – Mệnh đề tính từ (lợi thế của người Việt)</h4>
+			<h4 className="margin-y-40">1. Adjective Clause – Câu con tính cơ (lợi thế của người Việt)</h4>
 			
 				<ul className="list-square">
 			
@@ -187,7 +187,7 @@ export default function AdjPlacement2(): React.JSX.Element {
 					<li className="margin-bottom-20 list-none">Danh cơ + (who/which/that/where/when...) + mô tả</li>
 			
 					<li><strong>Vai trò</strong>:</li>
-					<li className="margin-bottom-20 list-none">Đóng vai trò như một tính từ, bổ nghĩa cho danh từ đứng trước.</li>
+					<li className="margin-bottom-20 list-none">Đóng vai trò như một tính cơ, bổ nghĩa cho danh cơ đứng trước.</li>
 			
 					<li><strong>Tần suất</strong>:</li>
 					<li className="list-none">Cực kỳ phổ biến trong văn viết, hùng biện, học thuật.</li>
@@ -203,7 +203,7 @@ export default function AdjPlacement2(): React.JSX.Element {
 			
 				</ul>
 			
-			<p className="margin-top-20 text-indent-whole">Hoàn toàn giống tiếng Việt: danh từ → mệnh đề dài</p>
+			<p className="margin-top-20 text-indent-whole">Hoàn toàn giống tiếng Việt: danh cơ → câu con dài</p>
 
 
 			<h4 className="margin-y-40">2. Adverbial Clause – Trạng câu (mượn tư duy từ Adjective Clause)</h4>
@@ -213,13 +213,13 @@ export default function AdjPlacement2(): React.JSX.Element {
 				<ul className="list-square">
 			
 					<li><strong> Cấu trúc</strong> :</li>
-					<li className="margin-bottom-20 list-none">Liên cơ (because, although, when, if, while...) + chủ ngữ + động từ</li>
+					<li className="margin-bottom-20 list-none">Liên cơ (because, although, when, if, while...) + chủ ngữ + động cơ</li>
 			
 					<li><strong> Vai trò</strong> :</li>
-					<li className="margin-bottom-20 list-none">Bổ nghĩa cho động từ chính, chỉ thời gian, lý do, điều kiện, sự tương phản.</li>
+					<li className="margin-bottom-20 list-none">Bổ nghĩa cho động cơ chính, chỉ thời gian, lý do, điều kiện, sự tương phản.</li>
 			
 					<li><strong> Bí mật</strong> :</li>
-					<li className="list-none">Một khi đã quen với việc "ghép một mệnh đề vào sau một thành phần chính" trong Adjective Clause, bạn sẽ thấy Adverbial Clause còn dễ hơn – vì nó không nhất thiết phải đứng ngay sau danh từ, có thể linh hoạt đầu hoặc cuối câu.</li>
+					<li className="list-none">Một khi đã quen với việc "ghép một câu con vào sau một thành phần chính" trong Adjective Clause, bạn sẽ thấy Adverbial Clause còn dễ hơn – vì nó không nhất thiết phải đứng ngay sau danh cơ, có thể linh hoạt đầu hoặc cuối câu.</li>
 			
 				</ul>
 					
@@ -228,7 +228,7 @@ export default function AdjPlacement2(): React.JSX.Element {
 				<ul className="list-square">
 			
 					<li>Because I understood the Adjective Clause, I started writing better.</li>
-					<li className="list-none">Bởi vì tôi hiểu mệnh đề tính từ, tôi bắt đầu viết tốt hơn.</li>
+					<li className="list-none">Bởi vì tôi hiểu câu con tính cơ, tôi bắt đầu viết tốt hơn.</li>
 			
 				</ul>
 			
@@ -242,13 +242,13 @@ export default function AdjPlacement2(): React.JSX.Element {
 				<ul className="list-square">
 			
 					<li><strong> Cấu trúc</strong> :</li>
-					<li className="margin-bottom-20 list-none">(What, That, Whether, Who...) + chủ ngữ + động từ</li>
+					<li className="margin-bottom-20 list-none">(What, That, Whether, Who...) + chủ ngữ + động cơ</li>
 			
 					<li><strong> Vai trò</strong> :</li>
-					<li className="margin-bottom-20 list-none">Đóng vai trò như một danh từ: có thể là chủ ngữ, tân ngữ, hoặc bổ ngữ của câu.</li>
+					<li className="margin-bottom-20 list-none">Đóng vai trò như một danh cơ: có thể là chủ ngữ, tân ngữ, hoặc bổ ngữ của câu.</li>
 			
 					<li><strong> Điều thú vị</strong> :</li>
-					<li className="list-none">Trong tiếng Việt, chúng ta cũng nói y hệt: "Điều tôi cần là sự kiên nhẫn" – danh từ "điều tôi cần" đứng đầu câu.</li>
+					<li className="list-none">Trong tiếng Việt, chúng ta cũng nói y hệt: "Điều tôi cần là sự kiên nhẫn" – danh cơ "điều tôi cần" đứng đầu câu.</li>
 			
 				</ul>
 					
@@ -280,15 +280,15 @@ export default function AdjPlacement2(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>Người Thái, người Lào, người Khmer nói ngôn ngữ mà trật tự cú pháp rất khác với Adjective Clause. Họ phải mất nhiều năm để quen với việc "danh từ + mệnh đề bổ nghĩa sau".</li>
+					<li>Người Thái, người Lào, người Khmer nói ngôn ngữ mà trật tự cú pháp rất khác với Adjective Clause. Họ phải mất nhiều năm để quen với việc "danh cơ + câu con bổ nghĩa sau".</li>
 			
 					<li>Người Indonesia, Philippines cũng không có sẵn tư duy đó trong tiếng mẹ đẻ.</li>
 			
 				</ul>
 			
-			<p className="margin-top-20">Riêng người Việt – nhờ cấu trúc <strong> danh từ đứng trước</strong> , <strong> mọi bổ nghĩa đứng sau</strong>  – đã có sẵn trong máu trật tự của Adjective Clause.</p>
+			<p className="margin-top-20">Riêng người Việt – nhờ cấu trúc <strong> danh cơ đứng trước</strong> , <strong> mọi bổ nghĩa đứng sau</strong>  – đã có sẵn trong máu trật tự của Adjective Clause.</p>
 
-			<p>Nói cách khác: Người Việt sinh ra đã có <strong> lợi thế cạnh tranh</strong>  trong việc làm chủ <strong> mệnh đề tính từ</strong>  – <strong> loại mệnh đề xuất hiện nhiều nhất trong mọi văn bản tiếng Anh đẳng cấp</strong> .</p>
+			<p>Nói cách khác: Người Việt sinh ra đã có <strong> lợi thế cạnh tranh</strong>  trong việc làm chủ <strong> câu con tính cơ</strong>  – <strong> loại câu con xuất hiện nhiều nhất trong mọi văn bản tiếng Anh đẳng cấp</strong> .</p>
 
 			<p>Chỉ tiếc rằng, lâu nay chúng ta bị che mắt bởi những cái tên sách vở, sợ hãi những câu dài mà không biết rằng mình đã thuộc nằm lòng cách sắp xếp ấy từ nhỏ.</p>
 
@@ -300,7 +300,7 @@ export default function AdjPlacement2(): React.JSX.Element {
 
 			<h4 className="margin-y-40">Bước 1 – Viết Adjective Clause:</h4>
 					
-			<p className="text-indent-whole">Chọn một danh từ bất kỳ, viết ngay sau nó một mệnh đề bắt đầu bằng who, which, that.</p>
+			<p className="text-indent-whole">Chọn một danh cơ bất kỳ, viết ngay sau nó một câu con bắt đầu bằng who, which, that.</p>
 
 			<p className="text-indent-whole">Ví dụ:</p>
 			
@@ -311,14 +311,14 @@ export default function AdjPlacement2(): React.JSX.Element {
 			
 				</ul>
 			
-			<p className="margin-top-20 text-indent-whole">Đã xong phần danh từ + mệnh đề.</p>
+			<p className="margin-top-20 text-indent-whole">Đã xong phần danh cơ + câu con.</p>
 
 			<p className="text-indent-whole">Sau đó thêm phần còn lại: ...still works fine.</p>
 
 
 			<h4 className="margin-y-40">Bước 2 – Thêm Adverbial Clause:</h4>
 
-			<p className="text-indent-whole">Lấy câu vừa viết, thêm một mệnh đề trạng ngữ vào đầu hoặc cuối.</p>
+			<p className="text-indent-whole">Lấy câu vừa viết, thêm một câu con trạng ngữ vào đầu hoặc cuối.</p>
 			
 				<ul className="list-square">
 			
@@ -330,7 +330,7 @@ export default function AdjPlacement2(): React.JSX.Element {
 
 			<h4 className="margin-y-40">Bước 3 – Chèn Noun Clause:</h4>
 					
-			<p className="text-indent-whole">Dùng what, that, whether để tạo một cụm danh từ làm chủ ngữ hoặc tân ngữ.</p>
+			<p className="text-indent-whole">Dùng what, that, whether để tạo một danh cụm làm chủ ngữ hoặc tân ngữ.</p>
 
 			<p className="margin-top-20 text-indent-whole">Ví dụ:</p>
 			
@@ -353,22 +353,22 @@ export default function AdjPlacement2(): React.JSX.Element {
 				<ul className="list-square">
 			
 					<li><strong>Danh cơ trước</strong></li>
-					<li className="margin-bottom-20 list-none">→ Nhấn mạnh <strong>danh từ</strong> (giống Việt, dùng Adjective Clause).</li>
+					<li className="margin-bottom-20 list-none">→ Nhấn mạnh <strong>danh cơ</strong> (giống Việt, dùng Adjective Clause).</li>
 			
 					<li><strong>Tính cơ trước</strong></li>
-					<li className="list-none">→ Nhấn mạnh <strong>tính từ</strong> (câu ngắn, học thuộc công thức).</li>
+					<li className="list-none">→ Nhấn mạnh <strong>tính cơ</strong> (câu ngắn, học thuộc công thức).</li>
 			
 				</ul>
 			
-			<p className="margin-top-20">Và ba mệnh đề – Adjective, Adverbial, Noun – chính là tam giác quyền lực của mọi câu tiếng Anh phức tạp. Trong đó, Adjective Clause là mảnh đất màu mỡ nhất của người Việt.</p>
+			<p className="margin-top-20">Và ba câu con – Adjective, Adverbial, Noun – chính là tam giác quyền lực của mọi câu tiếng Anh phức tạp. Trong đó, Adjective Clause là mảnh đất màu mỡ nhất của người Việt.</p>
 
-			<p>Hãy bắt đầu từ hôm nay. Không cần ép não đảo ngược trật tự mỗi khi viết câu dài. Cứ để danh từ lên trước, thả mệnh đề tính từ phía sau, và tận hưởng cảm giác viết lưu loát như người bản ngữ.</p>
+			<p>Hãy bắt đầu từ hôm nay. Không cần ép não đảo ngược trật tự mỗi khi viết câu dài. Cứ để danh cơ lên trước, thả câu con tính cơ phía sau, và tận hưởng cảm giác viết lưu loát như người bản ngữ.</p>
 
 			<p>Bởi vì, rốt cuộc, thứ ngăn bạn thành thạo tiếng Anh không phải là ngữ pháp – mà chính là việc chưa nhận ra mình đã giỏi sẵn từ đầu.</p>
 
 			{/* <p>Hãy <strong>là người Việt đầu tiên</strong> trong khu vực <strong> biết dùng lợi thế này</strong> .</p> */}
 
-			{/* <p>Và <strong> cười nhẹ một mình</strong>  khi đọc những bài viết tầm thường về “<strong> mệnh đề quan hệ</strong> ”.</p> */}
+			{/* <p>Và <strong> cười nhẹ một mình</strong>  khi đọc những bài viết tầm thường về “<strong> câu con quan hệ</strong> ”.</p> */}
 			
 
 			<div className="viewcounter">

@@ -21,7 +21,7 @@ export default function Although(): React.JSX.Element {
 
       {/* This is the content of Vocabulary Term. */}
 
-      <p className="margin-bottom-30"><strong>Although</strong> (liên từ): Mặc dù, dẫu cho. Từ này được dùng để mở đầu cho một mệnh đề chỉ sự nhượng bộ, thể hiện một kết quả bất ngờ hoặc tương phản với thực tế được nhắc đến trong mệnh đề đó.</p>
+      <p className="margin-bottom-30"><strong>Although</strong> (liên cơ): Mặc dù, dẫu cho. Từ này được dùng để mở đầu cho một câu con chỉ sự nhượng bộ, thể hiện một kết quả bất ngờ hoặc tương phản với thực tế được nhắc đến trong câu con đó.</p>
 
         <ul className="list-square">
       
@@ -61,7 +61,7 @@ export default function Although(): React.JSX.Element {
 
       <h3 className="margin-y-50 text-center">Word Family</h3>
 
-      <p className="margin-bottom-20">Từ "although" là một liên từ thuần túy và không có các dạng biến đổi trực tiếp như danh từ, động từ hay tính từ trong họ từ của riêng nó. Tuy nhiên, nó có mối quan hệ gốc rễ chặt chẽ với từ Though và các từ mang gốc biểu đạt sự nhượng bộ hoặc tương phản liên quan bao gồm:</p>
+      <p className="margin-bottom-20">Từ "although" là một liên cơ thuần túy và không có các dạng biến đổi trực tiếp như danh cơ, động cơ hay tính cơ trong họ từ của riêng nó. Tuy nhiên, nó có mối quan hệ gốc rễ chặt chẽ với từ Though và các từ mang gốc biểu đạt sự nhượng bộ hoặc tương phản liên quan bao gồm:</p>
 
         <ul className="list-square">
 
@@ -89,7 +89,7 @@ export default function Although(): React.JSX.Element {
 
       <h3 className="margin-y-50 text-center">Synonyms / Từ đồng nghĩa</h3>
 
-      <p className="margin-bottom-20">Dưới đây là các liên từ và cụm từ có chức năng tương tự như "although" nhưng mang sắc thái biểu đạt hoặc cấu trúc ngữ pháp khác nhau.</p>
+      <p className="margin-bottom-20">Dưới đây là các liên cơ và cụm từ có chức năng tương tự như "although" nhưng mang sắc thái biểu đạt hoặc cấu trúc ngữ pháp khác nhau.</p>
 
       {/* =============================
             1. 
@@ -97,7 +97,7 @@ export default function Although(): React.JSX.Element {
 
       <p className="margin-top-20"><strong>1. Though</strong> /ðəʊ/ (UK) hoặc /ðoʊ/ (US)</p>
 
-      <p className="text-indent-whole">Thường dùng phổ biến trong văn nói hàng ngày hơn "although", có tính linh hoạt cao vì vừa làm liên từ đứng đầu/giữa câu, vừa làm trạng từ đứng ở cuối câu.</p>
+      <p className="text-indent-whole">Thường dùng phổ biến trong văn nói hàng ngày hơn "although", có tính linh hoạt cao vì vừa làm liên cơ đứng đầu/giữa câu, vừa làm trạng cơ đứng ở cuối câu.</p>
 
         <ul className="list-square">
 
@@ -127,7 +127,7 @@ export default function Although(): React.JSX.Element {
 
       <p className="margin-top-20"><strong>3. In spite of</strong> /ɪn spaɪt əv/</p>
 
-      <p className="text-indent-whole">Mặc dù; đây là một cụm giới từ, do đó theo sau nó phải là một Danh cơ, Danh cụm hoặc V-ing (không đi với một mệnh đề).</p>
+      <p className="text-indent-whole">Mặc dù; đây là một cụm giới cơ, do đó theo sau nó phải là một Danh cơ, Danh cụm hoặc V-ing (không đi với một câu con).</p>
 
         <ul className="list-square">
 
@@ -142,7 +142,7 @@ export default function Although(): React.JSX.Element {
 
       <p className="margin-top-20"><strong>4. Despite</strong> /dɪˈspaɪt/</p>
 
-      <p className="text-indent-whole">Tương tự như "in spite of", đây là một giới từ mang sắc thái trang trọng hơn và theo sau bởi một Danh cơ, Danh cụm hoặc V-ing.</p>
+      <p className="text-indent-whole">Tương tự như "in spite of", đây là một giới cơ mang sắc thái trang trọng hơn và theo sau bởi một Danh cơ, Danh cụm hoặc V-ing.</p>
 
         <ul className="list-square">
 
@@ -157,7 +157,7 @@ export default function Although(): React.JSX.Element {
 
       <p className="margin-top-20"><strong>5. Even if</strong> /ˈiːvn ɪf/</p>
 
-      <p className="text-indent-whole">Ngay cả khi, cho dù; dùng để diễn tả một giả định hoặc một điều kiện không ảnh hưởng đến kết quả của mệnh đề chính.</p>
+      <p className="text-indent-whole">Ngay cả khi, cho dù; dùng để diễn tả một giả định hoặc một điều kiện không ảnh hưởng đến kết quả của câu con chính.</p>
 
         <ul className="list-square">
 
@@ -172,7 +172,7 @@ export default function Although(): React.JSX.Element {
 
       <p className="margin-top-20"><strong>6. Much as</strong> /mʌtʃ æz/ (UK) hoặc /mʌtʃ əz/ (US)</p>
 
-      <p className="text-indent-whole">Mặc dù rất, dù cho rất; thường đi kèm với các động từ chỉ cảm xúc như like, love, want, dislike để nhấn mạnh mức độ của sự nhượng bộ.</p>
+      <p className="text-indent-whole">Mặc dù rất, dù cho rất; thường đi kèm với các động cơ chỉ cảm xúc như like, love, want, dislike để nhấn mạnh mức độ của sự nhượng bộ.</p>
 
         <ul className="list-square">
 

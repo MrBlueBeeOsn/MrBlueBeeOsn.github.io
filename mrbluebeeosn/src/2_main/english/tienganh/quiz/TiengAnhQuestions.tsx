@@ -54,7 +54,7 @@ export default function TiengAnhQuestions(): React.JSX.Element {
 				"put away"
 			],
 			correctAnswer: 0,
-			explanation: "put off là cụm động từ (phrasal verb) có nghĩa là hoãn lại (postpone). Câu này có nghĩa: Mặc dù trời mưa to, trận đấu bóng đá đã không bị hoãn lại."
+			explanation: "put off là động cụm (phrasal verb) có nghĩa là hoãn lại (postpone). Câu này có nghĩa: Mặc dù trời mưa to, trận đấu bóng đá đã không bị hoãn lại."
 		},
 		{
 			id: 4,
@@ -78,7 +78,7 @@ export default function TiengAnhQuestions(): React.JSX.Element {
 				"see"
 			],
 			correctAnswer: 0,
-			explanation: "Động cụm cố định là look forward to (mong chờ, mong đợi). Cấu trúc đúng là: look forward to + V-ing (danh động từ)."
+			explanation: "Động cụm cố định là look forward to (mong chờ, mong đợi). Cấu trúc đúng là: look forward to + V-ing (danh động cơ)."
 		},
 		{
 			id: 6,
@@ -90,7 +90,7 @@ export default function TiengAnhQuestions(): React.JSX.Element {
 				"where"
 			],
 			correctAnswer: 1,
-			explanation: "Đây là mệnh đề quan hệ không xác định, và từ quan hệ which được dùng để thay thế cho cả một mệnh đề/sự việc đứng trước nó (việc người quản lý từ chối lời xin lỗi)."
+			explanation: "Đây là câu con quan hệ không xác định, và từ quan hệ which được dùng để thay thế cho cả một câu con/sự việc đứng trước nó (việc người quản lý từ chối lời xin lỗi)."
 		},
 		{
 			id: 7,
@@ -126,7 +126,7 @@ export default function TiengAnhQuestions(): React.JSX.Element {
 				"don't be"
 			],
 			correctAnswer: 0,
-			explanation: "Đây là cấu trúc câu gián tiếp với động từ advise (khuyên bảo). Cấu trúc phủ định là: S + advise + O + not + to-V (nguyên mẫu có to)."
+			explanation: "Đây là cấu trúc câu gián tiếp với động cơ advise (khuyên bảo). Cấu trúc phủ định là: S + advise + O + not + to-V (nguyên mẫu có to)."
 		},
 		{
 			id: 10,
@@ -138,7 +138,7 @@ export default function TiengAnhQuestions(): React.JSX.Element {
 				"had he"
 			],
 			correctAnswer: 0,
-			explanation: "Đây là cấu trúc đảo ngữ với cụm từ phủ định Only after... đứng đầu câu. Cấu trúc đúng là: Only after + Mệnh đề quá khứ hoàn thành (hành động trước) + Trợ động từ + S + Động cơ chính (hành động sau). Vì hành động \"realize\" ở quá khứ, ta dùng trợ động từ did."
+			explanation: "Đây là cấu trúc đảo ngữ với cụm từ phủ định Only after... đứng đầu câu. Cấu trúc đúng là: Only after + Câu con quá khứ hoàn thành (hành động trước) + Trợ động cơ + S + Động cơ chính (hành động sau). Vì hành động \"realize\" ở quá khứ, ta dùng trợ động cơ did."
 		}
 	];
 

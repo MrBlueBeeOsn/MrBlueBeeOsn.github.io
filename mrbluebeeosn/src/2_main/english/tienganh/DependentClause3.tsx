@@ -50,21 +50,21 @@ export default function DependentClause3(): React.JSX.Element {
 
 			<h4 className="margin-bottom-30 text-center">Phụ Câu (Dependent Clause) – Bí Quyết Để Viết Tiếng Anh Chuyên Nghiệp Và Ấn Tượng</h4>
 
-			<p>Trong hành trình chinh phục tiếng Anh, đặc biệt là kỹ năng viết và đọc hiểu, <strong>mệnh đề phụ thuộc</strong> (<strong>Dependent Clause</strong>) chính là một trong những “vũ khí” mạnh mẽ nhất.</p>
+			<p>Trong hành trình chinh phục tiếng Anh, đặc biệt là kỹ năng viết và đọc hiểu, <strong>phụ câu</strong> (<strong>Dependent Clause</strong>) chính là một trong những “vũ khí” mạnh mẽ nhất.</p>
 
 			<p>Nó giúp bạn chuyển từ những câu văn đơn giản, rời rạc sang những đoạn văn mượt mà, logic và giàu sức thuyết phục.</p>
 					
-			<p>Dù bạn đang học IELTS, TOEFL, viết email công việc, blog hay luận văn, việc làm chủ mệnh đề phụ thuộc sẽ tạo ra sự khác biệt rõ rệt.</p>
+			<p>Dù bạn đang học IELTS, TOEFL, viết email công việc, blog hay luận văn, việc làm chủ phụ câu sẽ tạo ra sự khác biệt rõ rệt.</p>
 
 			{/* 1. Phụ câu là gì? */}
 
 			<h3 className="margin-y-50 text-center">1. Phụ câu là gì?</h3>
 
-			<p>Phụ câu là nhóm từ có đầy đủ <strong>chủ ngữ</strong> + <strong>động từ</strong>, nhưng không thể đứng một mình làm thành câu hoàn chỉnh.</p>
+			<p>Phụ câu là nhóm từ có đầy đủ <strong>chủ ngữ</strong> + <strong>động cơ</strong>, nhưng không thể đứng một mình làm thành câu hoàn chỉnh.</p>
 
-			<p>Nó luôn cần “kết nối” với mệnh đề độc lập (Independent Clause) để truyền tải ý nghĩa trọn vẹn.</p>
+			<p>Nó luôn cần “kết nối” với câu con độc lập (Independent Clause) để truyền tải ý nghĩa trọn vẹn.</p>
 					
-			<p>Những từ thường mở đầu mệnh đề phụ thuộc bao gồm:</p>
+			<p>Những từ thường mở đầu phụ câu bao gồm:</p>
 			
 				<ul className="list-square">
 					<li>because, although, if, when, while, since, as, before, after, unless, so that, even though</li>
@@ -76,9 +76,9 @@ export default function DependentClause3(): React.JSX.Element {
 					<li>what, where, when, why, how, that, who, which, whose.</li>
 				</ul>
 
-			{/* 2. Tại sao mệnh đề phụ thuộc lại quan trọng? */}
+			{/* 2. Tại sao phụ câu lại quan trọng? */}
 
-			<h3 className="margin-y-50 text-center">2. Tại sao mệnh đề phụ thuộc lại quan trọng?</h3>
+			<h3 className="margin-y-50 text-center">2. Tại sao phụ câu lại quan trọng?</h3>
 					
 			<p>Khi sử dụng thành thạo, bạn có thể:</p>
 			
@@ -102,7 +102,7 @@ export default function DependentClause3(): React.JSX.Element {
 
 			<p>Cách đơn giản và hiệu quả nhất là <strong>đọc thử riêng phần đó</strong>.</p>
 
-			<p>Nếu câu nghe lạc lõng, chưa xong ý hoặc khiến người nghe thắc mắc “sau đó thì sao?”, thì đó chắc chắn là mệnh đề phụ thuộc.</p>
+			<p>Nếu câu nghe lạc lõng, chưa xong ý hoặc khiến người nghe thắc mắc “sau đó thì sao?”, thì đó chắc chắn là phụ câu.</p>
 					
 			<p>Ví dụ minh họa:</p>
 			
@@ -118,9 +118,9 @@ export default function DependentClause3(): React.JSX.Element {
 			
 			<p className="margin-top-20">Một dấu hiệu khác là sự xuất hiện của các từ nối phụ thuộc ở đầu cụm từ.</p>
 
-			{/* 4. Ba loại mệnh đề phụ thuộc phổ biến nhất */}
+			{/* 4. Ba loại phụ câu phổ biến nhất */}
 
-			<h3 className="margin-y-50 text-center">4. Ba loại mệnh đề phụ thuộc phổ biến nhất</h3>
+			<h3 className="margin-y-50 text-center">4. Ba loại phụ câu phổ biến nhất</h3>
 
 			<h4 className="margin-y-40">1. Trạng câu (Adverb Clause)</h4>
 					
@@ -136,7 +136,7 @@ export default function DependentClause3(): React.JSX.Element {
 			
 			<h4 className="margin-y-40">2. Tính câu (Relative Clause)</h4>
 					
-			<p className="text-indent-whole">Dùng để bổ nghĩa chi tiết cho danh từ.</p>
+			<p className="text-indent-whole">Dùng để bổ nghĩa chi tiết cho danh cơ.</p>
 			
 				<ul className="list-square">
 			
@@ -148,7 +148,7 @@ export default function DependentClause3(): React.JSX.Element {
 
 			<h4 className="margin-y-40">3. Danh câu (Noun Clause)</h4>
 					
-			<p className="text-indent-whole">Hoạt động như một danh từ trong câu.</p>
+			<p className="text-indent-whole">Hoạt động như một danh cơ trong câu.</p>
 			
 				<ul className="list-square">
 			
@@ -165,12 +165,12 @@ export default function DependentClause3(): React.JSX.Element {
 				<ol>
 			
 					<li value="1"><strong>Xác định ý chính</strong>:</li>
-					<li className="margin-bottom-20 list-none">Viết mệnh đề độc lập trước – đây là thông điệp cốt lõi bạn muốn nhấn mạnh.</li>
+					<li className="margin-bottom-20 list-none">Viết câu con độc lập trước – đây là thông điệp cốt lõi bạn muốn nhấn mạnh.</li>
 			
 					<li value="2"><strong>Xác định mối quan hệ cần thể hiện</strong>:</li>
 					<li className="margin-bottom-20 list-none">Bạn muốn nói về lý do (because), thời gian (when/while), điều kiện (if), hay mô tả thêm (who/which/what)?</li>
 			
-					<li value="3"><strong>Thêm mệnh đề phụ thuộc</strong>:</li>
+					<li value="3"><strong>Thêm phụ câu</strong>:</li>
 					<li className="list-none">Có thể đặt ở đầu câu (cần dấu phẩy), giữa câu, hoặc cuối câu.</li>
 
 					<li value="4"><strong>Kiểm tra và tinh chỉnh</strong>:</li>
@@ -206,13 +206,13 @@ export default function DependentClause3(): React.JSX.Element {
 				<ul className="list-square">
 			
 					<li><strong>Tuần 1</strong>:</li>
-					<li className="margin-bottom-20 list-none">Đọc nhiều bài báo tiếng Anh và gạch chân các mệnh đề phụ thuộc. Hiểu rõ chức năng của từng loại.</li>
+					<li className="margin-bottom-20 list-none">Đọc nhiều bài báo tiếng Anh và gạch chân các phụ câu. Hiểu rõ chức năng của từng loại.</li>
 
 					<li><strong>Tuần 2</strong>:</li>
 					<li className="margin-bottom-20 list-none">Thực hành ghép câu – lấy 2–3 câu đơn và biến chúng thành câu phức.</li>
 			
 					<li><strong>Tuần 3</strong>:</li>
-					<li className="margin-bottom-20 list-none">Viết đoạn văn ngắn (100–150 từ) mỗi ngày, chủ động sử dụng ít nhất 3–4 mệnh đề phụ thuộc.</li>
+					<li className="margin-bottom-20 list-none">Viết đoạn văn ngắn (100–150 từ) mỗi ngày, chủ động sử dụng ít nhất 3–4 phụ câu.</li>
 			
 					<li><strong>Tuần 4</strong>:</li>
 					<li className="list-none">Áp dụng vào bài viết thật (essay, blog, email) và nhờ người khác góp ý hoặc tự sửa bằng cách đọc to.</li>
@@ -224,7 +224,7 @@ export default function DependentClause3(): React.JSX.Element {
 
 			<h3 className="margin-y-50 text-center">Mẹo hay:</h3>
 
-			<p>Hãy coi mệnh đề độc lập như “xương sống” và mệnh đề phụ thuộc như “cơ thịt” giúp câu văn thêm mạnh mẽ, uyển chuyển. Đừng lạm dụng quá nhiều trong một câu để tránh làm người đọc khó theo dõi.</p>
+			<p>Hãy coi câu con độc lập như “xương sống” và phụ câu như “cơ thịt” giúp câu văn thêm mạnh mẽ, uyển chuyển. Đừng lạm dụng quá nhiều trong một câu để tránh làm người đọc khó theo dõi.</p>
 
 			<p>Phụ câu không chỉ là ngữ pháp khô khan – đó là công cụ giúp bạn bày tỏ ý tưởng một cách tinh tế và chuyên nghiệp. Khi đã làm chủ, bạn sẽ cảm nhận rõ tiếng Anh của mình “lên level” cả về viết lẫn đọc.</p>
 

@@ -48,7 +48,7 @@ export default function ThreeDC8(): React.ReactElement {
 
 			</h1>
 
-			<h4 className="margin-bottom-30 text-center">Bộ 3 Mệnh Đề Trong Tiếng Anh: Hướng Dẫn Đầy Đủ Để Thoát Khỏi Câu Đơn</h4>
+			<h4 className="margin-bottom-30 text-center">Bộ 3 Câu Con Trong Tiếng Anh: Hướng Dẫn Đầy Đủ Để Thoát Khỏi Câu Đơn</h4>
 
 			<p></p>
 
@@ -59,7 +59,7 @@ export default function ThreeDC8(): React.ReactElement {
 
 			{/* 1.  */}
 
-			<h3 className="margin-y-50 text-center">1. Ba loại mệnh đề là gì</h3>
+			<h3 className="margin-y-50 text-center">1. Ba loại câu con là gì</h3>
 
 			<p></p>
 
@@ -112,7 +112,7 @@ export default function ThreeDC8(): React.ReactElement {
 
 			{/* 3.  */}
 
-			<h3 className="margin-y-50 text-center">3. Mệnh đề tính từ</h3>
+			<h3 className="margin-y-50 text-center">3. Câu con tính cơ</h3>
 
 			<p></p>
 

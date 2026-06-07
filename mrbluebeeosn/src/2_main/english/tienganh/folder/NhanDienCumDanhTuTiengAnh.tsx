@@ -35,9 +35,9 @@ export default function NhanDienCumDanhTuTiengAnh(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li><strong>Tay trái</strong> = <strong>How</strong> (như thế nào): tính từ, trạng từ, mạo từ, số từ, danh từ ghép…</li>
+					<li><strong>Tay trái</strong> = <strong>How</strong> (như thế nào): tính cơ, trạng cơ, mạo từ, số từ, danh cơ ghép…</li>
 			
-					<li><strong>Tay phải</strong> = <strong>What</strong> (cái gì): danh từ chính luôn nằm cuối cùng</li>
+					<li><strong>Tay phải</strong> = <strong>What</strong> (cái gì): danh cơ chính luôn nằm cuối cùng</li>
 			
 				</ul>
 
@@ -61,7 +61,7 @@ export default function NhanDienCumDanhTuTiengAnh(): React.JSX.Element {
 				
 						<li>Một bông hoa đỏ to đẹp</li>
 				
-						<li className="list-none">→ tính từ ý kiến (beautiful) → kích thước (big) → màu sắc (red) → danh từ chính (flower).</li>
+						<li className="list-none">→ tính cơ ý kiến (beautiful) → kích thước (big) → màu sắc (red) → danh cơ chính (flower).</li>
 				
 					</ul>
 
@@ -81,7 +81,7 @@ export default function NhanDienCumDanhTuTiengAnh(): React.JSX.Element {
 				
 						<li>Ba con mèo đen nhỏ dễ thương</li>
 				
-						<li className="list-none">→ số từ (three) → ý kiến (cute) → kích thước (small) → màu (black) → danh từ chính (cats).</li>
+						<li className="list-none">→ số từ (three) → ý kiến (cute) → kích thước (small) → màu (black) → danh cơ chính (cats).</li>
 				
 					</ul>
 
@@ -101,7 +101,7 @@ export default function NhanDienCumDanhTuTiengAnh(): React.JSX.Element {
 				
 						<li>Một chiếc bàn gỗ cũ</li>
 				
-						<li className="list-none">→ mạo từ (an) → tuổi (old) → chất liệu (wooden) → danh từ chính (table).</li>
+						<li className="list-none">→ mạo từ (an) → tuổi (old) → chất liệu (wooden) → danh cơ chính (table).</li>
 				
 					</ul>
 
@@ -121,7 +121,7 @@ export default function NhanDienCumDanhTuTiengAnh(): React.JSX.Element {
 				
 						<li>Hai chiếc váy lụa Pháp thú vị</li>
 				
-						<li className="list-none">→ số từ → ý kiến → nguồn gốc → chất liệu → danh từ chính.</li>
+						<li className="list-none">→ số từ → ý kiến → nguồn gốc → chất liệu → danh cơ chính.</li>
 				
 					</ul>
 
@@ -141,7 +141,7 @@ export default function NhanDienCumDanhTuTiengAnh(): React.JSX.Element {
 				
 						<li>Chiếc laptop mới của em gái tôi</li>
 				
-						<li className="list-none">→ sở hữu → quan hệ → tuổi → danh từ chính.</li>
+						<li className="list-none">→ sở hữu → quan hệ → tuổi → danh cơ chính.</li>
 				
 					</ul>
 
@@ -161,7 +161,7 @@ export default function NhanDienCumDanhTuTiengAnh(): React.JSX.Element {
 				
 						<li>Một chiếc bàn ăn gỗ tròn lớn</li>
 
-						<li className="list-none">→ mạo từ → kích thước → hình dạng → chất liệu → mục đích → danh từ chính.</li>
+						<li className="list-none">→ mạo từ → kích thước → hình dạng → chất liệu → mục đích → danh cơ chính.</li>
 				
 					</ul>
 
@@ -181,13 +181,13 @@ export default function NhanDienCumDanhTuTiengAnh(): React.JSX.Element {
 				
 						<li>Người đàn ông cao ráo đẹp trai mặc vest đen</li>
 				
-						<li className="list-none">→ Mạo từ → chiều cao → ngoại hình → cụm giới từ bổ sung → danh từ chính.</li>
+						<li className="list-none">→ Mạo từ → chiều cao → ngoại hình → cụm giới cơ bổ sung → danh cơ chính.</li>
 				
 					</ul>
 
 			</div>
 
-			<h3 className="margin-y-50 text-center">Quy tắc nhớ nhanh OSASCOMP (khi tay trái có nhiều tính từ)</h3>
+			<h3 className="margin-y-50 text-center">Quy tắc nhớ nhanh OSASCOMP (khi tay trái có nhiều tính cơ)</h3>
 
 			<p>Opinion → Size → Age → Shape → Color → Origin → Material → Purpose</p>
 
@@ -195,17 +195,17 @@ export default function NhanDienCumDanhTuTiengAnh(): React.JSX.Element {
 
 			<h3 className="margin-y-50 text-center">Kết luận</h3>
 
-			<p className="margin-top-20">Quy tắc tay trái – tay phải cho cụm danh từ:</p>
+			<p className="margin-top-20">Quy tắc tay trái – tay phải cho danh cụm:</p>
 			
 				<ul className="list-square">
 			
-					<li><strong>Tay trái</strong> = <strong>How</strong>: gom hết tính từ, mạo từ, số từ, trạng từ…</li>
+					<li><strong>Tay trái</strong> = <strong>How</strong>: gom hết tính cơ, mạo từ, số từ, trạng cơ…</li>
 			
-					<li><strong>Tay phải</strong> = <strong>What</strong>: danh từ chính luôn nằm cuối cùng</li>
+					<li><strong>Tay phải</strong> = <strong>What</strong>: danh cơ chính luôn nằm cuối cùng</li>
 			
 				</ul>
 
-			<p className="margin-top-20">Chỉ cần nhìn 2 bên tay → biết ngay “như thế nào” + “cái gì” → hiểu chuẩn cụm danh từ chỉ trong 3 giây, dù dài bao nhiêu từ!</p>
+			<p className="margin-top-20">Chỉ cần nhìn 2 bên tay → biết ngay “như thế nào” + “cái gì” → hiểu chuẩn danh cụm chỉ trong 3 giây, dù dài bao nhiêu từ!</p>
 
 			<div className="viewcounter">
 			

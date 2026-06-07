@@ -64,7 +64,7 @@ export default function GerundsVaInfinitives(): React.JSX.Element {
 
 						<tr>
 								<td>Bản chất</td>
-								<td>Danh cơ hóa động từ</td>
+								<td>Danh cơ hóa động cơ</td>
 								<td>Động cơ nguyên mẫu có "to"</td>
 						</tr>
 						
@@ -76,8 +76,8 @@ export default function GerundsVaInfinitives(): React.JSX.Element {
 						
 						<tr>
 								<td>Thường đứng ở vị trí</td>
-								<td>Chủ ngữ, tân ngữ, sau giới từ</td>
-								<td>Tân ngữ của một số động từ nhất định</td>
+								<td>Chủ ngữ, tân ngữ, sau giới cơ</td>
+								<td>Tân ngữ của một số động cơ nhất định</td>
 						</tr>
 
 						<tr>
@@ -125,7 +125,7 @@ export default function GerundsVaInfinitives(): React.JSX.Element {
 						</tr>
 						
 						<tr>
-								<td>Sau giới từ</td>
+								<td>Sau giới cơ</td>
 								<td>interested in, good at, tired of, look forward to, be used to, give up</td>
 								<td>(không có)</td>
 								<td>-</td>
@@ -139,7 +139,7 @@ export default function GerundsVaInfinitives(): React.JSX.Element {
 						</tr>
 
 						<tr>
-								<td>Một số động từ đặc biệt</td>
+								<td>Một số động cơ đặc biệt</td>
 								<td>admit, deny, practice, miss, postpone, risk</td>
 								<td>manage, fail, afford, deserve, appear, seem, tend</td>
 								<td>regret, go on, mean</td>
@@ -210,7 +210,7 @@ export default function GerundsVaInfinitives(): React.JSX.Element {
 					<li className="margin-top-20"><strong>Muốn gì</strong>, <strong>hứa gì</strong>, <strong>dự định gì</strong> → hầu hết là <strong>to V</strong></li>
 					<li className="list-none">→ want to travel, promise to call, plan to move</li>
 
-					<li className="margin-top-20"><strong>Sau giới từ thì phải</strong> -<strong>ing</strong> (đây là luật sắt)</li>
+					<li className="margin-top-20"><strong>Sau giới cơ thì phải</strong> -<strong>ing</strong> (đây là luật sắt)</li>
 					<li className="list-none">→ dream of becoming, apologize for being late, good at singing</li>
 
 					<li className="margin-top-20">Khi không chắc → tự hỏi:</li>
@@ -250,7 +250,7 @@ export default function GerundsVaInfinitives(): React.JSX.Element {
 			
 				</ul>
 
-			<p className="margin-top-20">Khi bạn bắt đầu nghĩ theo cách này thay vì cố nhớ từng động từ, bạn sẽ thấy chúng… thân thiện hơn rất nhiều.</p>
+			<p className="margin-top-20">Khi bạn bắt đầu nghĩ theo cách này thay vì cố nhớ từng động cơ, bạn sẽ thấy chúng… thân thiện hơn rất nhiều.</p>
 
 			<p>Hãy thử nói to một câu với cả hai cách và cảm nhận sự khác biệt. Bạn sẽ thấy ngay: ngôn ngữ không chỉ là quy tắc, mà còn là <strong>cảm giác</strong>.</p>
 

@@ -50,7 +50,7 @@ export default function Tomorrow2(): React.JSX.Element {
               
             </span>
               
-            &nbsp;là một trạng từ chỉ thời gian, thường được dùng để diễn tả một hành động hoặc sự việc sẽ xảy ra vào ngày mai.
+            &nbsp;là một trạng cơ chỉ thời gian, thường được dùng để diễn tả một hành động hoặc sự việc sẽ xảy ra vào ngày mai.
 
           </p>
 
@@ -120,7 +120,7 @@ export default function Tomorrow2(): React.JSX.Element {
 
           <li>"<strong>Tomorrow</strong>" thường được dùng để chỉ một thời điểm gần trong tương lai.</li>
 
-          <li className="margin-bottom-20">Bạn có thể kết hợp "<strong>tomorrow</strong>" với nhiều trạng từ khác để tạo ra các cụm từ đa dạng hơn.</li>
+          <li className="margin-bottom-20">Bạn có thể kết hợp "<strong>tomorrow</strong>" với nhiều trạng cơ khác để tạo ra các cụm từ đa dạng hơn.</li>
 
         </ul>
 

@@ -218,7 +218,7 @@ export default function Maybe1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>"<strong>Maybe</strong>" thường đứng ở đầu câu hoặc trước động từ chính.</li>
+          <li>"<strong>Maybe</strong>" thường đứng ở đầu câu hoặc trước động cơ chính.</li>
 
           <li className="margin-bottom-20">Nó thể hiện sự do dự hoặc không chắc chắn của người nói.</li>
 

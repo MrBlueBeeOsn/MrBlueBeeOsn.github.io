@@ -102,7 +102,7 @@ export default function LegoAssembly4(): React.JSX.Element {
 					<li className="margin-bottom-20 list-none">Cụm từ phụ</li>
 			
 					<li>DC: Dependent Clause</li>
-					<li className="list-none">Mệnh đề phụ</li>
+					<li className="list-none">Câu con phụ</li>
 			
 				</ul>
 			
@@ -195,7 +195,7 @@ export default function LegoAssembly4(): React.JSX.Element {
 
 			<h4 className="margin-y-40">DP — Dependent Phrase</h4>
 
-			<p className="text-indent-whole">Là cụm phụ thuộc.</p>
+			<p className="text-indent-whole">Là phụ cụm.</p>
 
 			<p className="margin-top-20 text-indent-whole">Ví dụ:</p>
 			
@@ -214,8 +214,8 @@ export default function LegoAssembly4(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>play = động từ nguyên mẫu</li>
-					<li>football = danh từ bổ sung</li>
+					<li>play = động cơ nguyên mẫu</li>
+					<li>football = danh cơ bổ sung</li>
 			
 				</ul>
 
@@ -226,7 +226,7 @@ export default function LegoAssembly4(): React.JSX.Element {
 
 			<h4 className="margin-y-40">DC — Dependent Clause</h4>
 
-			<p className="text-indent-whole">Là mệnh đề phụ thuộc.</p>
+			<p className="text-indent-whole">Là phụ câu.</p>
 
 			<p className="margin-top-20 text-indent-whole">Ví dụ:</p>
 			

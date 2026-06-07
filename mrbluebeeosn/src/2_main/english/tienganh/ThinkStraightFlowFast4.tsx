@@ -132,7 +132,7 @@ export default function ThinkStraightFlowFast4(): React.JSX.Element {
 				
 				<ul className="list-square">
 
-					<li>danh từ → tính chất</li>
+					<li>danh cơ → tính chất</li>
 					<li className="list-none">thông tin hữu ích</li>
 			
 				</ul>
@@ -141,7 +141,7 @@ export default function ThinkStraightFlowFast4(): React.JSX.Element {
 				
 				<ul className="list-square">
 
-					<li>tính từ → danh từ</li>
+					<li>tính cơ → danh cơ</li>
 					<li className="list-none">useful information</li>
 			
 				</ul>
@@ -152,7 +152,7 @@ export default function ThinkStraightFlowFast4(): React.JSX.Element {
 
 			<p>Cách mình làm rất đơn giản — nhưng hiệu quả đến bất ngờ:</p>
 
-			<p className="margin-top-20 quote"><strong>Chuyển cấu trúc tiếng Việt sang cùng trật tự với tiếng Anh. Tính cơ đứng trước danh từ</strong></p>
+			<p className="margin-top-20 quote"><strong>Chuyển cấu trúc tiếng Việt sang cùng trật tự với tiếng Anh. Tính cơ đứng trước danh cơ</strong></p>
 			
 			<p className="margin-top-20">Ví dụ:</p>
 				
@@ -184,7 +184,7 @@ export default function ThinkStraightFlowFast4(): React.JSX.Element {
 				
 				<ul>
 
-					<li>tính từ đứng trước danh từ là chuyện bình thường</li>
+					<li>tính cơ đứng trước danh cơ là chuyện bình thường</li>
 			
 				</ul>
 			
@@ -213,7 +213,7 @@ export default function ThinkStraightFlowFast4(): React.JSX.Element {
 
 			<p>Điều thú vị là:</p>
 
-			<p>👉 <strong>Tiếng Việt không hề</strong> “<strong>không cho phép</strong>” <strong>tính từ đứng trước danh từ</strong></p>
+			<p>👉 <strong>Tiếng Việt không hề</strong> “<strong>không cho phép</strong>” <strong>tính cơ đứng trước danh cơ</strong></p>
 			
 			<p>Ví dụ:</p>
 				
@@ -243,7 +243,7 @@ export default function ThinkStraightFlowFast4(): React.JSX.Element {
 
 			<h3 className="margin-y-50 text-center">🔥 Quy tắc vàng: đừng quay đầu xe</h3>
 
-			<p>Khi gặp <strong>cụm tính từ</strong> – <strong>danh từ trong tiếng Anh</strong>:</p>
+			<p>Khi gặp <strong>tính cụm</strong> – <strong>danh cơ trong tiếng Anh</strong>:</p>
 			
 				<ol>
 

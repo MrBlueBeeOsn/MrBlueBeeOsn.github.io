@@ -72,7 +72,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 				<ul className="list-square">
 			
 					<li><strong>Tính cơ</strong> đứng trước <strong>Danh cơ</strong> – Nhấn mạnh <strong>Đặc điểm</strong>:</li>
-					<li className="margin-bottom-20 list-none">Cấu trúc này dành cho các tính từ đơn lẻ, ngắn gọn (như a luxury car, a hot day). Mục đích là ném thẳng đặc điểm nổi bật vào tâm trí người nghe trước khi gọi tên đối tượng.</li>
+					<li className="margin-bottom-20 list-none">Cấu trúc này dành cho các tính cơ đơn lẻ, ngắn gọn (như a luxury car, a hot day). Mục đích là ném thẳng đặc điểm nổi bật vào tâm trí người nghe trước khi gọi tên đối tượng.</li>
 			
 					<li><strong>Danh cơ</strong> đứng trước <strong>Tính cơ</strong> – Nhấn mạnh <strong>Đối tượng</strong>:</li>
 					<li className="list-none">Khi muốn đối tượng chính làm mỏ neo cho toàn câu, người bản ngữ sẽ đưa Danh cơ lên trước để người nghe định hình ngay lập tức. Sau đó, họ mới thong thả thả một chuỗi thông tin mô tả dài ở phía sau.</li>
@@ -147,7 +147,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 				</ul>
 
 
-			<p className="margin-top-20"><strong>Dạng tính từ nguyên bản</strong>:</p>
+			<p className="margin-top-20"><strong>Dạng tính cơ nguyên bản</strong>:</p>
 			
 				<ul className="list-square">
 			
@@ -242,11 +242,11 @@ export default function AdjPlacement1(): React.JSX.Element {
 			
 					<li>[What you said] makes me happy.</li>
 					<li className="list-none">[Những gì bạn nói] làm tôi hạnh phúc.</li>
-					<li className="margin-bottom-20 list-none">→ Đứng trước động từ chính (makes)</li>
+					<li className="margin-bottom-20 list-none">→ Đứng trước động cơ chính (makes)</li>
 			
 					<li>[That he failed] surprised everyone.</li>
 					<li className="list-none">[Việc anh ấy thất bại] làm mọi người ngạc nhiên.</li>
-					<li className="list-none">→ Đứng trước động từ chính (surprised)</li>
+					<li className="list-none">→ Đứng trước động cơ chính (surprised)</li>
 			
 				</ul>
 
@@ -256,11 +256,11 @@ export default function AdjPlacement1(): React.JSX.Element {
 			
 					<li>I believe [what you said].</li>
 					<li className="list-none">Tôi tin [những gì bạn đã nói].</li>
-					<li className="margin-bottom-20 list-none">→ Đứng sau động từ chính (believe)</li>
+					<li className="margin-bottom-20 list-none">→ Đứng sau động cơ chính (believe)</li>
 			
 					<li>He admitted [that he failed].</li>
 					<li className="list-none">Anh ấy đã thừa nhận [rằng anh ấy đã thất bại].</li>
-					<li className="list-none">→ Đứng sau động từ chính (admitted)</li>
+					<li className="list-none">→ Đứng sau động cơ chính (admitted)</li>
 			
 				</ul>
 

@@ -116,7 +116,7 @@ export default function Gradually2(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>"<strong>Gradually</strong>" thường được đặt trước động từ để nhấn mạnh ý nghĩa.</li>
+          <li>"<strong>Gradually</strong>" thường được đặt trước động cơ để nhấn mạnh ý nghĩa.</li>
 
           <li className="margin-bottom-20">Từ này có thể được sử dụng trong nhiều ngữ cảnh khác nhau, từ khoa học, kỹ thuật đến cuộc sống hàng ngày.</li>
 

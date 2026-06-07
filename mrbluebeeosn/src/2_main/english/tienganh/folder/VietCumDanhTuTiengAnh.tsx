@@ -29,7 +29,7 @@ export default function VietCumDanhTuTiengAnh(): React.JSX.Element {
 
 			{/* This is the content of English Learning Term. */}
 
-			<p>Khi học tiếng Anh, nhiều người Việt thường gặp khó khăn khi viết cụm danh từ (noun phrases) vì thói quen đặt tính từ trước danh từ trong tiếng Việt (ví dụ: “bông hoa đẹp”). Trong tiếng Anh, quy tắc ngược lại: danh từ chính luôn là “lõi”, còn các tính từ, mạo từ (a/an/the), và các bổ ngữ khác thường đứng trước danh từ chính. Để viết cụm danh từ tiếng Anh một cách tự nhiên và đúng ngữ pháp, bạn có thể áp dụng nguyên tắc "<strong>Danh Cơ viết trước</strong>, <strong>Tính Cơ viết sau</strong>" — nghĩa là suy nghĩ và viết theo thứ tự từ phải sang trái. Phương pháp này giúp bạn tránh dịch máy móc và tạo ra câu tiếng Anh chuẩn xác ngay từ đầu. Bài viết này sẽ hướng dẫn chi tiết cách thực hiện.</p>
+			<p>Khi học tiếng Anh, nhiều người Việt thường gặp khó khăn khi viết danh cụm (noun phrases) vì thói quen đặt tính cơ trước danh cơ trong tiếng Việt (ví dụ: “bông hoa đẹp”). Trong tiếng Anh, quy tắc ngược lại: danh cơ chính luôn là “lõi”, còn các tính cơ, mạo từ (a/an/the), và các bổ ngữ khác thường đứng trước danh cơ chính. Để viết danh cụm tiếng Anh một cách tự nhiên và đúng ngữ pháp, bạn có thể áp dụng nguyên tắc "<strong>Danh Cơ viết trước</strong>, <strong>Tính Cơ viết sau</strong>" — nghĩa là suy nghĩ và viết theo thứ tự từ phải sang trái. Phương pháp này giúp bạn tránh dịch máy móc và tạo ra câu tiếng Anh chuẩn xác ngay từ đầu. Bài viết này sẽ hướng dẫn chi tiết cách thực hiện.</p>
 
 				<p className="margin-y-50 text-center">
 
@@ -43,7 +43,7 @@ export default function VietCumDanhTuTiengAnh(): React.JSX.Element {
 
 			<h3 className="margin-top-30 margin-bottom-50 text-center">1. Tại sao phải suy nghĩ từ phải sang trái?</h3>
 			
-			<p>Trong tiếng Anh, danh từ chính (head noun) luôn nằm ở cuối cụm danh từ, còn các thành phần bổ nghĩa (tính từ, mạo từ, số từ, danh từ ghép…) đứng trước nó.</p>
+			<p>Trong tiếng Anh, danh cơ chính (head noun) luôn nằm ở cuối danh cụm, còn các thành phần bổ nghĩa (tính cơ, mạo từ, số từ, danh cơ ghép…) đứng trước nó.</p>
 
 			<p className="margin-top-20">Ví dụ:</p>
 
@@ -61,21 +61,21 @@ export default function VietCumDanhTuTiengAnh(): React.JSX.Element {
 
 				<ul className="list-square">
 
-					<li><strong>Bước 1</strong>: Viết <strong>danh từ</strong> chính trước (phần bên phải nhất).</li>
+					<li><strong>Bước 1</strong>: Viết <strong>danh cơ</strong> chính trước (phần bên phải nhất).</li>
 
-					<li><strong>Bước 2</strong>: Bổ sung các <strong>tính từ</strong>, <strong>mạo từ</strong>… từ phải sang trái (tức là thêm dần vào phía trước danh từ chính).</li>
+					<li><strong>Bước 2</strong>: Bổ sung các <strong>tính cơ</strong>, <strong>mạo từ</strong>… từ phải sang trái (tức là thêm dần vào phía trước danh cơ chính).</li>
 
 				</ul>
 
-			<h3 className="margin-y-50 text-center">2. Các bước viết cụm danh từ theo nguyên tắc “từ phải sang trái”</h3>
+			<h3 className="margin-y-50 text-center">2. Các bước viết danh cụm theo nguyên tắc “từ phải sang trái”</h3>
 
 			{/* =============================
-					Bước 1: Xác định danh từ chính
+					Bước 1: Xác định danh cơ chính
 			============================= */}
 
 			<div className="margin-y-15 text-border1 table-container">
 
-				<h3 className="margin-y-50 text-center">Bước 1: Viết danh từ chính trước (head noun)</h3>
+				<h3 className="margin-y-50 text-center">Bước 1: Viết danh cơ chính trước (head noun)</h3>
 
 				<p>Đây là từ cốt lõi mà bạn muốn nói đến.</p>
 				
@@ -91,7 +91,7 @@ export default function VietCumDanhTuTiengAnh(): React.JSX.Element {
 
 				<h3 className="margin-y-50 text-center">Bước 2: Bổ sung các thành phần từ phải sang trái</h3>
 
-				<p>Thêm dần các tính từ, danh từ ghép, số từ… vào phía trước danh từ chính theo thứ tự ngược lại với tiếng Việt.</p>
+				<p>Thêm dần các tính cơ, danh cơ ghép, số từ… vào phía trước danh cơ chính theo thứ tự ngược lại với tiếng Việt.</p>
 
 					<ul className="list-square">
 
@@ -113,7 +113,7 @@ export default function VietCumDanhTuTiengAnh(): React.JSX.Element {
 
 					<ol>
 
-						<li>Viết danh từ chính: <strong>table</strong></li>
+						<li>Viết danh cơ chính: <strong>table</strong></li>
 
 						<li>Thêm chất liệu (gỗ): <strong>wooden</strong> table</li>
 
@@ -125,7 +125,7 @@ export default function VietCumDanhTuTiengAnh(): React.JSX.Element {
 
 					</ol>
 
-				<p className="margin-y-20 text-indent-whole">Kết quả cuối cùng: a large brown wooden table (thường điều chỉnh thứ tự tính từ theo quy tắc tiếng Anh: size → color → material)</p>
+				<p className="margin-y-20 text-indent-whole">Kết quả cuối cùng: a large brown wooden table (thường điều chỉnh thứ tự tính cơ theo quy tắc tiếng Anh: size → color → material)</p>
 
 				<p className="margin-top-20">Một ví dụ khác</p>
 				
@@ -151,9 +151,9 @@ export default function VietCumDanhTuTiengAnh(): React.JSX.Element {
 
 			</div>
 
-			<h3 className="margin-y-50 text-center">3. Quy tắc thứ tự tính từ trong tiếng Anh (OSASCOMP)</h3>
+			<h3 className="margin-y-50 text-center">3. Quy tắc thứ tự tính cơ trong tiếng Anh (OSASCOMP)</h3>
 
-			<p>Khi đã thêm các tính từ vào phía trước danh từ chính, bạn cần sắp xếp chúng theo thứ tự chuẩn của tiếng Anh (từ trái sang phải):</p>
+			<p>Khi đã thêm các tính cơ vào phía trước danh cơ chính, bạn cần sắp xếp chúng theo thứ tự chuẩn của tiếng Anh (từ trái sang phải):</p>
 
 				<ol>
 
@@ -199,9 +199,9 @@ export default function VietCumDanhTuTiengAnh(): React.JSX.Element {
 
 				<ul className="list-square">
 
-					<li>Luôn bắt đầu bằng danh từ chính để não bạn tập trung vào “cái gì là trung tâm”.</li>
+					<li>Luôn bắt đầu bằng danh cơ chính để não bạn tập trung vào “cái gì là trung tâm”.</li>
 
-					<li>Khi thêm tính từ, hãy nghĩ theo tiếng Việt (tính từ đứng sau) rồi đảo ngược lại để đặt trước danh từ.</li>
+					<li>Khi thêm tính cơ, hãy nghĩ theo tiếng Việt (tính cơ đứng sau) rồi đảo ngược lại để đặt trước danh cơ.</li>
 
 					<li>Với mạo từ (a/an/the) và số từ (one, two, three…), luôn thêm chúng ở bước cuối cùng (vị trí xa nhất bên trái).</li>
 
@@ -211,7 +211,7 @@ export default function VietCumDanhTuTiengAnh(): React.JSX.Element {
 
 			<h3 className="margin-y-50 text-center">5. Kết luận</h3>
 			
-			<p>Phương pháp “<strong>danh từ viết trước</strong>, <strong>tính từ viết sau</strong>” (tức suy nghĩ và viết từ phải sang trái) là cách hiệu quả nhất để người Việt viết cụm danh từ tiếng Anh một cách tự nhiên, đúng ngữ pháp và nhanh chóng. Thay vì cố gắng dịch từng từ từ trái sang phải, hãy bắt đầu từ danh từ chính, rồi bổ sung dần các tính từ, mạo từ vào phía trước. Chỉ cần thực hành 10–20 cụm mỗi ngày, bạn sẽ thấy mình viết tiếng Anh chuẩn hơn rất nhiều!</p>
+			<p>Phương pháp “<strong>danh cơ viết trước</strong>, <strong>tính cơ viết sau</strong>” (tức suy nghĩ và viết từ phải sang trái) là cách hiệu quả nhất để người Việt viết danh cụm tiếng Anh một cách tự nhiên, đúng ngữ pháp và nhanh chóng. Thay vì cố gắng dịch từng từ từ trái sang phải, hãy bắt đầu từ danh cơ chính, rồi bổ sung dần các tính cơ, mạo từ vào phía trước. Chỉ cần thực hành 10–20 cụm mỗi ngày, bạn sẽ thấy mình viết tiếng Anh chuẩn hơn rất nhiều!</p>
 
 			<div className="viewcounter">
 			

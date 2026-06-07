@@ -116,7 +116,7 @@ export default function Truly2(): React.JSX.Element {
 
 				<ul className="list-square">
 
-					<li>"<strong>Truly</strong>" thường được đặt trước tính từ hoặc động từ để nhấn mạnh ý nghĩa.</li>
+					<li>"<strong>Truly</strong>" thường được đặt trước tính cơ hoặc động cơ để nhấn mạnh ý nghĩa.</li>
 
 					<li className="margin-bottom-20">Từ này thường được sử dụng trong các văn nói và văn viết trang trọng.</li>
 

@@ -116,7 +116,7 @@ export default function Openly2(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>"<strong>Openly</strong>" thường được đặt trước động từ quá khứ phân từ để nhấn mạnh ý nghĩa.</li>
+          <li>"<strong>Openly</strong>" thường được đặt trước động cơ quá khứ phân từ để nhấn mạnh ý nghĩa.</li>
 
           <li className="margin-bottom-20">Từ này thường được sử dụng trong văn viết hoặc nói để tạo ra một hiệu ứng minh bạch và rõ ràng.</li>
 

@@ -30,7 +30,7 @@ export default function EVAdverbClausesQuiz(): React.JSX.Element {
 				"so that"
 			],
 			correctAnswer: 1,
-			explanation: "As soon as (ngay khi) khởi đầu một mệnh đề trạng ngữ chỉ thời gian (Adverb Clause of Time), diễn tả một hành động xảy ra ngay sau một hành động khác. Các phương án khác không phù hợp ngữ cảnh logic của câu: although (mặc dù), whereas (trong khi đó), so that (để mà)."
+			explanation: "As soon as (ngay khi) khởi đầu một câu con trạng ngữ chỉ thời gian (Adverb Clause of Time), diễn tả một hành động xảy ra ngay sau một hành động khác. Các phương án khác không phù hợp ngữ cảnh logic của câu: although (mặc dù), whereas (trong khi đó), so that (để mà)."
 		},
 		{
 			id: 2,
@@ -42,7 +42,7 @@ export default function EVAdverbClausesQuiz(): React.JSX.Element {
 				"As long as"
 			],
 			correctAnswer: 1,
-			explanation: "Even though (mặc dù) mở đầu mệnh đề trạng ngữ chỉ sự nhượng bộ/tương phản (Adverb Clause of Concession) giữa hai vế \"làm việc chăm chỉ\" và \"vẫn có thời gian chơi với con\". Because chỉ nguyên nhân, Provided that/As long as chỉ điều kiện (miễn là) đều làm câu bị sai logic."
+			explanation: "Even though (mặc dù) mở đầu câu con trạng ngữ chỉ sự nhượng bộ/tương phản (Adverb Clause of Concession) giữa hai vế \"làm việc chăm chỉ\" và \"vẫn có thời gian chơi với con\". Because chỉ nguyên nhân, Provided that/As long as chỉ điều kiện (miễn là) đều làm câu bị sai logic."
 		},
 		{
 			id: 3,
@@ -54,7 +54,7 @@ export default function EVAdverbClausesQuiz(): React.JSX.Element {
 				"because"
 			],
 			correctAnswer: 0,
-			explanation: "Where (nơi mà) mở đầu mệnh đề trạng ngữ chỉ nơi chốn (Adverb Clause of Place) để bổ nghĩa cho hành động \"put\". Which dùng cho mệnh đề quan hệ, until (cho đến khi) và because (bởi vì) không dùng để chỉ vị trí đặt vật thể."
+			explanation: "Where (nơi mà) mở đầu câu con trạng ngữ chỉ nơi chốn (Adverb Clause of Place) để bổ nghĩa cho hành động \"put\". Which dùng cho câu con quan hệ, until (cho đến khi) và because (bởi vì) không dùng để chỉ vị trí đặt vật thể."
 		},
 		{
 			id: 4,
@@ -66,7 +66,7 @@ export default function EVAdverbClausesQuiz(): React.JSX.Element {
 				"because of"
 			],
 			correctAnswer: 2,
-			explanation: "Phía sau khoảng trống là một động từ nguyên mẫu (boost). Cấu trúc đúng ở đây là in order to + V-inf để chỉ mục đích. Các từ in order that và so that phải đi với một mệnh đề hoàn chỉnh (S + V), còn because of đi với cụm danh từ/V-ing."
+			explanation: "Phía sau khoảng trống là một động cơ nguyên mẫu (boost). Cấu trúc đúng ở đây là in order to + V-inf để chỉ mục đích. Các từ in order that và so that phải đi với một câu con hoàn chỉnh (S + V), còn because of đi với danh cụm/V-ing."
 		},
 		{
 			id: 5,
@@ -78,7 +78,7 @@ export default function EVAdverbClausesQuiz(): React.JSX.Element {
 				"unless"
 			],
 			correctAnswer: 2,
-			explanation: "As long as (miễn là) dùng để mở đầu mệnh đề trạng ngữ chỉ điều kiện (Adverb Clause of Condition). Các liên từ còn lại không tạo nên mối quan hệ điều kiện hợp lý: even if (ngay cả khi), as if (như thể là), unless (trừ khi)."
+			explanation: "As long as (miễn là) dùng để mở đầu câu con trạng ngữ chỉ điều kiện (Adverb Clause of Condition). Các liên cơ còn lại không tạo nên mối quan hệ điều kiện hợp lý: even if (ngay cả khi), as if (như thể là), unless (trừ khi)."
 		},
 		{
 			id: 6,
@@ -90,7 +90,7 @@ export default function EVAdverbClausesQuiz(): React.JSX.Element {
 				"since"
 			],
 			correctAnswer: 0,
-			explanation: "Phía sau là một mệnh đề hoàn chỉnh (he wouldn't miss...), do đó cần liên từ so that (để mà) để mở đầu mệnh đề trạng ngữ chỉ mục đích. In order to cũng mang nghĩa chỉ mục đích nhưng bắt buộc phải đi trực tiếp với động từ nguyên mẫu."
+			explanation: "Phía sau là một câu con hoàn chỉnh (he wouldn't miss...), do đó cần liên cơ so that (để mà) để mở đầu câu con trạng ngữ chỉ mục đích. In order to cũng mang nghĩa chỉ mục đích nhưng bắt buộc phải đi trực tiếp với động cơ nguyên mẫu."
 		},
 		{
 			id: 7,
@@ -102,7 +102,7 @@ export default function EVAdverbClausesQuiz(): React.JSX.Element {
 				"Because"
 			],
 			correctAnswer: 2,
-			explanation: "Though (mặc dù) là liên từ mở đầu một mệnh đề trạng ngữ chỉ sự tương phản chứa cả chủ ngữ và động từ (the traffic was...). Despite và In spite of cũng mang nghĩa tương tự nhưng theo sau chúng bắt buộc phải là một cụm danh từ hoặc V-ing."
+			explanation: "Though (mặc dù) là liên cơ mở đầu một câu con trạng ngữ chỉ sự tương phản chứa cả chủ ngữ và động cơ (the traffic was...). Despite và In spite of cũng mang nghĩa tương tự nhưng theo sau chúng bắt buộc phải là một danh cụm hoặc V-ing."
 		},
 		{
 			id: 8,
@@ -114,7 +114,7 @@ export default function EVAdverbClausesQuiz(): React.JSX.Element {
 				"while"
 			],
 			correctAnswer: 0,
-			explanation: "As though (hoặc as if) có nghĩa là \"như thể là\", mở đầu mệnh đề trạng ngữ chỉ cách thức (Adverb Clause of Manner) dùng để diễn tả một giả định không có thật ở quá khứ (vế sau làm rõ thực tế là cô ấy chưa xem she actually hadn't)."
+			explanation: "As though (hoặc as if) có nghĩa là \"như thể là\", mở đầu câu con trạng ngữ chỉ cách thức (Adverb Clause of Manner) dùng để diễn tả một giả định không có thật ở quá khứ (vế sau làm rõ thực tế là cô ấy chưa xem she actually hadn't)."
 		},
 		{
 			id: 9,
@@ -138,7 +138,7 @@ export default function EVAdverbClausesQuiz(): React.JSX.Element {
 				"even though"
 			],
 			correctAnswer: 1,
-			explanation: "Unless có nghĩa là \"trừ khi\" (bằng với If... not), mở đầu mệnh đề trạng ngữ chỉ điều kiện. Nếu dùng các liên từ điều kiện mang tính khẳng định như if hoặc provided that (nếu/miễn là bạn học nghiêm túc thì bạn sẽ trượt) sẽ làm câu bị sai hoàn toàn về mặt logic."
+			explanation: "Unless có nghĩa là \"trừ khi\" (bằng với If... not), mở đầu câu con trạng ngữ chỉ điều kiện. Nếu dùng các liên cơ điều kiện mang tính khẳng định như if hoặc provided that (nếu/miễn là bạn học nghiêm túc thì bạn sẽ trượt) sẽ làm câu bị sai hoàn toàn về mặt logic."
 		}
 	];
 

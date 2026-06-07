@@ -21,7 +21,7 @@ export default function When(): React.JSX.Element {
 
       {/* This is the content of Vocabulary Term. */}
 
-      <p className="margin-bottom-30"><strong>When</strong>: (liên từ): Khi. Dùng để kết nối hai mệnh đề, chỉ thời điểm một sự việc xảy ra hoặc một hành động được thực hiện.</p>
+      <p className="margin-bottom-30"><strong>When</strong>: (liên cơ): Khi. Dùng để kết nối hai câu con, chỉ thời điểm một sự việc xảy ra hoặc một hành động được thực hiện.</p>
 
         <ul className="list-square">
       
@@ -64,7 +64,7 @@ export default function When(): React.JSX.Element {
 
       <h3 className="margin-y-50 text-center">Word Family</h3>
 
-      <p className="margin-bottom-20">Từ "when" là một từ chức năng (function word) cốt lõi trong tiếng Anh, bản thân nó không biến đổi thành dạng danh từ, động từ hay tính từ bằng cách thêm hậu tố. Tuy nhiên, họ từ của nó bao gồm các từ ghép và trạng từ chỉ thời gian, thời điểm dựa trên gốc từ này:</p>
+      <p className="margin-bottom-20">Từ "when" là một từ chức năng (function word) cốt lõi trong tiếng Anh, bản thân nó không biến đổi thành dạng danh cơ, động cơ hay tính cơ bằng cách thêm hậu tố. Tuy nhiên, họ từ của nó bao gồm các từ ghép và trạng cơ chỉ thời gian, thời điểm dựa trên gốc từ này:</p>
 
         <ul className="list-square">
 
@@ -76,7 +76,7 @@ export default function When(): React.JSX.Element {
           <li className="list-none"><strong>______</strong> does the movie start?</li>
           <li className="margin-bottom-20 list-none"><strong>Khi nào</strong> thì bộ phim bắt đầu?</li>
 
-          <li><strong>When</strong> (Đại cơ) /wen/ - Dùng để thay thế cho một danh từ chỉ thời gian đứng trước và nối liền với mệnh đề quan hệ</li>
+          <li><strong>When</strong> (Đại cơ) /wen/ - Dùng để thay thế cho một danh cơ chỉ thời gian đứng trước và nối liền với câu con quan hệ</li>
           <li className="list-none">I will never forget the day <strong>______ we first met</strong>.</li>
           <li className="margin-bottom-20 list-none">Tôi sẽ không bao giờ quên cái ngày <strong>mà chúng ta lần đầu gặp gỡ</strong>.</li>
 
@@ -173,7 +173,7 @@ export default function When(): React.JSX.Element {
 
       <p className="margin-top-20"><strong>5. Upon</strong> /əˈpɒn/ (UK) hoặc /əˈpɑːn/ (US)</p>
 
-      <p className="text-indent-whole">Khi, ngay sau khi; giới từ này thường đi kèm với Danh cơ hoặc V-ing để chỉ một hành động xảy ra ngay lập tức sau một hành động khác (mang sắc thái trang trọng).</p>
+      <p className="text-indent-whole">Khi, ngay sau khi; giới cơ này thường đi kèm với Danh cơ hoặc V-ing để chỉ một hành động xảy ra ngay lập tức sau một hành động khác (mang sắc thái trang trọng).</p>
 
         <ul className="list-square">
 
@@ -188,7 +188,7 @@ export default function When(): React.JSX.Element {
 
       <p className="margin-top-20"><strong>6. By the time</strong> /baɪ ðə taɪm/</p>
 
-      <p className="text-indent-whole">Vào lúc, tính đến lúc; dùng để diễn tả một sự việc đã hoặc sẽ hoàn thành trước một thời điểm được nhắc đến ở mệnh đề sau.</p>
+      <p className="text-indent-whole">Vào lúc, tính đến lúc; dùng để diễn tả một sự việc đã hoặc sẽ hoàn thành trước một thời điểm được nhắc đến ở câu con sau.</p>
 
         <ul className="list-square">
 

@@ -83,7 +83,7 @@ export default function ThreeDC2(): React.ReactElement {
 			<p className="margin-top-20"></p>
 
 
-			<h4 className="margin-y-40">Mệnh đề tính từ (Adjective clause)</h4>
+			<h4 className="margin-y-40">Câu con tính cơ (Adjective clause)</h4>
 					
 			<p className="text-indent-whole"></p>
 
@@ -150,7 +150,7 @@ export default function ThreeDC2(): React.ReactElement {
 
 			<p className="text-indent-whole">Bắt đầu bằng that, what, whatever, who, whoever, why, how, whether, …</p>
 
-			<p className="text-indent-whole">Có thể thay thế bằng đại từ It hoặc Something.</p>
+			<p className="text-indent-whole">Có thể thay thế bằng đại cơ It hoặc Something.</p>
 
 			<p className="text-indent-whole">Ví dụ:</p>
 			
@@ -159,7 +159,7 @@ export default function ThreeDC2(): React.ReactElement {
 					<li>Why he resigned is a mystery.</li>
 					<li className="list-none">Lý do tại sao anh ấy từ chức vẫn là một bí ẩn.</li>
 					<li className="list-none">"Why he resigned" - Chủ ngữ</li>
-					<li className="margin-bottom-20 list-none">Trong câu này, "Why he resigned" đóng vai trò là một mệnh đề danh ngữ làm chủ ngữ của câu</li>
+					<li className="margin-bottom-20 list-none">Trong câu này, "Why he resigned" đóng vai trò là một câu con danh ngữ làm chủ ngữ của câu</li>
 
 					<li className="margin-bottom-20 list-none">→ Có thể nói</li>
 
@@ -178,22 +178,22 @@ export default function ThreeDC2(): React.ReactElement {
 					<li>The truth is that I was scared.</li>
 					<li className="list-none">Sự thật là tôi đã rất sợ hãi.</li>
 					<li className="list-none">"that I was scared" - Bổ ngữ</li>
-					<li className="list-none">Đây là cách dùng mệnh đề danh ngữ sau động từ "to be" để làm rõ ý cho chủ ngữ "The truth"</li>
+					<li className="list-none">Đây là cách dùng câu con danh ngữ sau động cơ "to be" để làm rõ ý cho chủ ngữ "The truth"</li>
 			
 				</ul>
 			
-			<p className="margin-top-20 text-indent-whole">🧠 Mẹo nhớ: Nếu bỏ mệnh đề này ra mà câu chính bị “cụt” chủ ngữ hoặc tân ngữ → Noun clause.</p>
+			<p className="margin-top-20 text-indent-whole">🧠 Mẹo nhớ: Nếu bỏ câu con này ra mà câu chính bị “cụt” chủ ngữ hoặc tân ngữ → Noun clause.</p>
 
-			<p className="text-indent-whole">Các cấu trúc mệnh đề danh ngữ này rất hữu ích để viết các bài chia sẻ quan điểm hoặc kinh nghiệm cá nhân một cách mạch lạc và có chiều sâu.</p>
+			<p className="text-indent-whole">Các cấu trúc câu con danh ngữ này rất hữu ích để viết các bài chia sẻ quan điểm hoặc kinh nghiệm cá nhân một cách mạch lạc và có chiều sâu.</p>
 
 
-			<h4 className="margin-y-40">2. Mệnh đề tính từ (Adjective clause) – Tính câu</h4>
+			<h4 className="margin-y-40">2. Câu con tính cơ (Adjective clause) – Tính câu</h4>
 					
 			<p className="text-indent-whole">Dấu hiệu nhận biết:</p>
 
 			<p className="text-indent-whole">Bắt đầu bằng who, whom, which, that, whose, where, when, why.</p>
 
-			<p className="text-indent-whole">Luôn đứng ngay sau một danh từ và bổ nghĩa cho danh từ đó.</p>
+			<p className="text-indent-whole">Luôn đứng ngay sau một danh cơ và bổ nghĩa cho danh cơ đó.</p>
 
 			<p className="text-indent-whole">Ví dụ:</p>
 			
@@ -201,17 +201,17 @@ export default function ThreeDC2(): React.ReactElement {
 			
 					<li>The student who won the prize is my friend.</li>
 					<li className="list-none">Người học sinh đã thắng giải thưởng là bạn của tôi.</li>
-					<li className="list-none">"Who won the prize" là mệnh đề quan hệ xác định, dùng để làm rõ "người học sinh nào" (người đã thắng giải).</li>
+					<li className="list-none">"Who won the prize" là câu con quan hệ xác định, dùng để làm rõ "người học sinh nào" (người đã thắng giải).</li>
 					<li className="margin-bottom-20 list-none">Bổ nghĩa cho “the student”</li>
 			
 					<li>That’s the restaurant where we first met.</li>
 					<li className="list-none">Đó là nhà hàng nơi chúng ta gặp nhau lần đầu.</li>
-					<li className="list-none">"Where we first met" là mệnh đề quan hệ trạng ngữ chỉ nơi chốn, giúp xác định rõ "nhà hàng nào" (nơi mà chúng ta đã gặp nhau lần đầu).</li>
+					<li className="list-none">"Where we first met" là câu con quan hệ trạng ngữ chỉ nơi chốn, giúp xác định rõ "nhà hàng nào" (nơi mà chúng ta đã gặp nhau lần đầu).</li>
 					<li className="list-none">Bổ nghĩa cho “the restaurant”</li>
 			
 				</ul>
 			
-			<p className="margin-top-20 text-indent-whole">🧠 Mẹo nhớ: Hỏi “Người/vật nào?” – câu trả lời chính là mệnh đề tính từ.</p>
+			<p className="margin-top-20 text-indent-whole">🧠 Mẹo nhớ: Hỏi “Người/vật nào?” – câu trả lời chính là câu con tính cơ.</p>
 
 			<p className="margin-top-20 text-indent-whole">Những cấu trúc này rất hữu ích để viết các đoạn văn mô tả hoặc kể lại kỷ niệm trên mạng xã hội.</p>
 
@@ -221,7 +221,7 @@ export default function ThreeDC2(): React.ReactElement {
 
 			<p className="text-indent-whole">Dấu hiệu nhận biết:</p>
 
-			<p className="text-indent-whole">Bắt đầu bằng liên từ phụ thuộc: because, although, if, when, while, as soon as, unless, so that, …</p>
+			<p className="text-indent-whole">Bắt đầu bằng liên cơ phụ thuộc: because, although, if, when, while, as soon as, unless, so that, …</p>
 					
 			<p className="text-indent-whole">Ví dụ:</p>
 			
@@ -236,12 +236,12 @@ export default function ThreeDC2(): React.ReactElement {
 					<li className="margin-bottom-20 list-none">Cô ấy đã khóc như thể trái tim cô ấy tan vỡ vậy.</li>
 					<li className="list-none">Cách thức</li>
 					<li className="list-none">Lưu ý: "were" ở đây là cách dùng của giả định cách, diễn tả một sự việc không có thực ở hiện tại</li>
-					<li className="margin-bottom-20 list-none">Cấu trúc "as if" (như thể là) thường đi kèm với các động từ chia ở dạng giả định (giống câu điều kiện loại 2) để chỉ một trạng thái không thực.</li>
+					<li className="margin-bottom-20 list-none">Cấu trúc "as if" (như thể là) thường đi kèm với các động cơ chia ở dạng giả định (giống câu điều kiện loại 2) để chỉ một trạng thái không thực.</li>
 			
 					<li>Although it rained, they went out.</li>
 					<li className="list-none">Mặc dù trời mưa, họ vẫn đi ra ngoài.</li>
 					<li className="list-none">Nhượng bộ</li>
-					<li className="list-none">"Although" giúp tạo sự tương phản giữa hai mệnh đề, rất hữu ích khi bạn viết các bài kể chuyện hoặc chia sẻ kinh nghiệm trên các kênh truyền thông xã hội của mình.</li>
+					<li className="list-none">"Although" giúp tạo sự tương phản giữa hai câu con, rất hữu ích khi bạn viết các bài kể chuyện hoặc chia sẻ kinh nghiệm trên các kênh truyền thông xã hội của mình.</li>
 			
 				</ul>
 			
@@ -252,7 +252,7 @@ export default function ThreeDC2(): React.ReactElement {
 
 			<h3 className="margin-y-50 text-center">3. 🧠 “3 CÂU HỎI VÀNG” PHÂN BIỆT TỨC THÌ</h3>
 
-			<p>Khi gặp một mệnh đề có từ nối, hãy lần lượt tự hỏi:</p>
+			<p>Khi gặp một câu con có từ nối, hãy lần lượt tự hỏi:</p>
 
 			<h4 className="margin-y-40">Câu hỏi 1:</h4>
 					
@@ -268,7 +268,7 @@ export default function ThreeDC2(): React.ReactElement {
 
 			<h4 className="margin-y-40">Câu hỏi 2:</h4>
 					
-			<p className="text-indent-whole">(Nếu không) Nó đứng sau một danh từ và bổ nghĩa cho danh từ đó không?</p>
+			<p className="text-indent-whole">(Nếu không) Nó đứng sau một danh cơ và bổ nghĩa cho danh cơ đó không?</p>
 			
 				<ul className="list-square">
 			
@@ -281,7 +281,7 @@ export default function ThreeDC2(): React.ReactElement {
 
 			<h4 className="margin-y-40">Câu hỏi 3:</h4>
 					
-			<p className="text-indent-whole">(Nếu không) Nó trả lời “Tại sao, khi nào, nếu thì, mặc dù…” cho động từ chính?</p>
+			<p className="text-indent-whole">(Nếu không) Nó trả lời “Tại sao, khi nào, nếu thì, mặc dù…” cho động cơ chính?</p>
 			
 				<ul className="list-square">
 			
@@ -303,8 +303,8 @@ export default function ThreeDC2(): React.ReactElement {
 					<li className="margin-bottom-20 list-none">tại sao cô ấy rời đi</li>
 					<li className="list-none">Nó đứng sau the reason</li>
 					<li className="list-none">→ Bổ nghĩa cho the reason</li>
-					<li className="list-none">→ Adjective clause (mệnh đề tính từ).</li>
-					<li className="list-none">Mệnh đề "why she left" ở đây đóng vai trò làm rõ nghĩa cho danh từ "reason".</li>
+					<li className="list-none">→ Adjective clause (câu con tính cơ).</li>
+					<li className="list-none">Câu con "why she left" ở đây đóng vai trò làm rõ nghĩa cho danh cơ "reason".</li>
 					<li className="margin-bottom-20 list-none">Trong tiếng Anh, "the reason why..." là một cấu trúc rất phổ biến.</li>
 			
 					<li>Bỏ why she left</li>
@@ -330,7 +330,7 @@ export default function ThreeDC2(): React.ReactElement {
 					<li>why she left</li>
 					<li className="margin-bottom-20 list-none">Tại sao cô ấy rời đi</li>
 					<li className="list-none">Ở đây why she left là tân ngữ</li>
-					<li className="list-none">Đây là một mệnh đề danh ngữ, thường dùng để làm tân ngữ cho các động từ như "know", "ask", "understand"</li>
+					<li className="list-none">Đây là một câu con danh ngữ, thường dùng để làm tân ngữ cho các động cơ như "know", "ask", "understand"</li>
 					<li className="margin-bottom-20 list-none">Vậy là noun clause.</li>
 					
 					<li className="margin-bottom-20 list-none">↓</li>
@@ -338,7 +338,7 @@ export default function ThreeDC2(): React.ReactElement {
 					<li>I know</li>
 					<li className="margin-bottom-20 list-none">Tôi biết</li>
 					<li className="list-none">Câu vẫn đúng nhưng know cần tân ngữ?</li>
-					<li className="list-none">Thực tế know có thể dùng nội động từ?</li>
+					<li className="list-none">Thực tế know có thể dùng nội động cơ?</li>
 					<li className="list-none">Áp dụng câu hỏi 1: Có thiếu tân ngữ không?</li>
 					<li className="list-none">CÓ, vì know cần một tân ngữ (không phải lúc nào cũng có thể đứng một mình).</li>
 
@@ -392,7 +392,7 @@ export default function ThreeDC2(): React.ReactElement {
 			
 					<li>Bỏ "that we watched last night"</li>
 					<li className="list-none">Bỏ "mà chúng ta đã xem tối qua"</li>
-					<li className="margin-bottom-20 list-none">Đây là mệnh đề quan hệ dùng để bổ nghĩa cho danh từ đứng trước nó</li>
+					<li className="margin-bottom-20 list-none">Đây là câu con quan hệ dùng để bổ nghĩa cho danh cơ đứng trước nó</li>
 			
 					<li className="margin-bottom-20 list-none">↓</li>
 
@@ -403,7 +403,7 @@ export default function ThreeDC2(): React.ReactElement {
 			
 				</ul>
 			
-			<p className="margin-top-20 text-indent-whole">Mệnh đề đứng sau the movie, bổ nghĩa cho the movie → Adjective clause.</p>
+			<p className="margin-top-20 text-indent-whole">Câu con đứng sau the movie, bổ nghĩa cho the movie → Adjective clause.</p>
 		
 
 			<h4 className="margin-y-40">Câu 3:</h4>
@@ -425,7 +425,7 @@ export default function ThreeDC2(): React.ReactElement {
 			
 				</ul>
 
-			<p className="margin-top-20 text-indent-whole">Nó không bổ nghĩa cho một danh từ cụ thể, mà giải thích lý do cho hành động “won” → Adverb clause.</p>
+			<p className="margin-top-20 text-indent-whole">Nó không bổ nghĩa cho một danh cơ cụ thể, mà giải thích lý do cho hành động “won” → Adverb clause.</p>
 
 
 			<h4 className="margin-y-40">Câu 4 phức hợp:</h4>
@@ -439,17 +439,17 @@ export default function ThreeDC2(): React.ReactElement {
 					<li>that the man … is a spy</li>
 					<li className="list-none">rằng người đàn ông đó... là một điệp viên.</li>
 					<li className="list-none">→ Noun clause (tân ngữ của think)</li>
-					<li className="margin-bottom-20 list-none">Đây là mệnh đề danh ngữ đóng vai trò làm tân ngữ cho động từ "think"</li>
+					<li className="margin-bottom-20 list-none">Đây là câu con danh ngữ đóng vai trò làm tân ngữ cho động cơ "think"</li>
 			
 					<li>who lives next door</li>
 					<li className="list-none">who lives next door</li>
 					<li className="list-none">→ Adjective clause (bổ nghĩa cho the man)</li>
-					<li className="margin-bottom-20 list-none">Đây là mệnh đề quan hệ dùng để bổ nghĩa cho "the man"</li>
+					<li className="margin-bottom-20 list-none">Đây là câu con quan hệ dùng để bổ nghĩa cho "the man"</li>
 			
 					<li>because he never leaves his house</li>
 					<li className="list-none">because he never leaves his house</li>
 					<li className="list-none">→ Adverb clause (lý do cho is a spy)</li>
-					<li className="list-none">Đây là mệnh đề trạng ngữ chỉ nguyên nhân</li>
+					<li className="list-none">Đây là câu con trạng ngữ chỉ nguyên nhân</li>
 			
 				</ul>
 		
@@ -529,7 +529,7 @@ export default function ThreeDC2(): React.ReactElement {
 			
 				</ul>
 			
-			<p className="margin-top-20 text-indent-whole">Dùng mệnh đề không xác định (có dấu phẩy) với which để thêm thông tin phụ:</p>
+			<p className="margin-top-20 text-indent-whole">Dùng câu con không xác định (có dấu phẩy) với which để thêm thông tin phụ:</p>
 			
 				<ul className="list-square">
 			
@@ -538,14 +538,14 @@ export default function ThreeDC2(): React.ReactElement {
 			
 				</ul>
 			
-			<p className="margin-top-20 text-indent-whole">Dùng đa dạng liên từ trạng từ:</p>
+			<p className="margin-top-20 text-indent-whole">Dùng đa dạng liên cơ trạng cơ:</p>
 			
 				<ul className="list-square">
 			
 					<li className="margin-bottom-20">whereas</li>
 					<li className="list-none">The revenue increased by 10%, whereas the expenses remained the same.</li>
 					<li className="margin-bottom-20 list-none">Doanh thu tăng 10%, trong khi đó chi phí vẫn giữ nguyên.</li>
-					<li className="margin-bottom-20 list-none">Trong khi đó / Xét thấy rằng (thường dùng để đối lập hai mệnh đề).</li>
+					<li className="margin-bottom-20 list-none">Trong khi đó / Xét thấy rằng (thường dùng để đối lập hai câu con).</li>
 
 					<li className="margin-bottom-20">provided that</li>
 					<li className="list-none">The loan will be approved provided that you submit all required documents by Friday.</li>
@@ -561,12 +561,12 @@ export default function ThreeDC2(): React.ReactElement {
 			
 				</ul>
 			
-			<p className="margin-top-20 text-indent-whole">Tránh lạm dụng mệnh đề quá dài; hãy cắt khi cần.</p>
+			<p className="margin-top-20 text-indent-whole">Tránh lạm dụng câu con quá dài; hãy cắt khi cần.</p>
 
 
 			<h4 className="margin-y-40">Quy tắc dấu phẩy vàng:</h4>
 
-			<p className="text-indent-whole">Trường hợp 1: Adverb clause đứng TRƯỚC mệnh đề chính</p>
+			<p className="text-indent-whole">Trường hợp 1: Adverb clause đứng TRƯỚC câu con chính</p>
 			
 				<ul className="list-square">
 			
@@ -589,7 +589,7 @@ export default function ThreeDC2(): React.ReactElement {
 			
 				</ul>
 			
-			<p className="margin-top-20 text-indent-whole">Trường hợp 3: Adjective clause xác định (cần để biết danh từ nào)</p>
+			<p className="margin-top-20 text-indent-whole">Trường hợp 3: Adjective clause xác định (cần để biết danh cơ nào)</p>
 
 			
 				<ul className="list-square">
@@ -645,7 +645,7 @@ export default function ThreeDC2(): React.ReactElement {
 				</ul>
 
 
-			<p className="margin-top-20">Lỗi 3: Nhầm đại từ quan hệ</p>
+			<p className="margin-top-20">Lỗi 3: Nhầm đại cơ quan hệ</p>
 			
 				<ul className="list-square">
 			
@@ -659,7 +659,7 @@ export default function ThreeDC2(): React.ReactElement {
 				</ul>
 
 
-			<p className="margin-top-20">Lỗi 4: Thiếu dấu phẩy mệnh đề không xác định</p>
+			<p className="margin-top-20">Lỗi 4: Thiếu dấu phẩy câu con không xác định</p>
 			
 				<ul className="list-square">
 			
@@ -701,7 +701,7 @@ export default function ThreeDC2(): React.ReactElement {
 				<ul className="list-square">
 			
 					<li>Đọc báo BBC hoặc VOA, lấy một đoạn ngắn.</li>
-					<li className="list-none">Dùng bút (hoặc highlight) gạch dưới mỗi mệnh đề phụ.</li>
+					<li className="list-none">Dùng bút (hoặc highlight) gạch dưới mỗi câu con phụ.</li>
 					<li className="margin-bottom-20 list-none">Ghi chú bên lề: N / Adj / Adv.</li>
 			
 					<li>Kiểm tra bằng 3 câu hỏi vàng.</li>
@@ -730,11 +730,11 @@ export default function ThreeDC2(): React.ReactElement {
 			
 				</ul>
 			
-			<p className="margin-top-20 text-indent-whole">Adjective clause: Ghép 2 câu có chung danh từ.</p>
+			<p className="margin-top-20 text-indent-whole">Adjective clause: Ghép 2 câu có chung danh cơ.</p>
 			
 				<ul className="list-square">
 
-					<li className="margin-bottom-20 list-none">Ghép 2 câu có chung danh từ.</li>
+					<li className="margin-bottom-20 list-none">Ghép 2 câu có chung danh cơ.</li>
 			
 					<li>The boy is my son. He is wearing a red hat.</li>
 					<li className="margin-bottom-20 list-none">Cậu bé đó là con trai tôi. Cậu ấy đang đội một chiếc mũ màu đỏ.</li>
@@ -769,7 +769,7 @@ export default function ThreeDC2(): React.ReactElement {
 				<ul className="list-square">
 			
 					<li>Viết nhật ký:</li>
-					<li className="margin-bottom-20 list-none">Mỗi câu bắt buộc chứa ít nhất 1 mệnh đề phụ. Luân phiên 3 loại.</li>
+					<li className="margin-bottom-20 list-none">Mỗi câu bắt buộc chứa ít nhất 1 câu con phụ. Luân phiên 3 loại.</li>
 			
 					<li>Nói trước gương 1 phút về chủ đề yêu thích, cố ý dùng although, if, when, that, which.</li>
 					<li className="list-none">Ghi âm và nghe lại.</li>
@@ -791,7 +791,7 @@ export default function ThreeDC2(): React.ReactElement {
 			
 			<p className="margin-top-20">⭐ Mẹo tiến bộ nhanh:</p>
 
-			<p className="text-indent-whole">Mỗi khi học một từ nối mới (ví dụ whereas, provided that, whoever, as though), hãy đặt 3 câu với nó, mỗi câu thuộc một loại mệnh đề khác nhau (nếu có thể). Điều này ép não bạn linh hoạt.</p>
+			<p className="text-indent-whole">Mỗi khi học một từ nối mới (ví dụ whereas, provided that, whoever, as though), hãy đặt 3 câu với nó, mỗi câu thuộc một loại câu con khác nhau (nếu có thể). Điều này ép não bạn linh hoạt.</p>
 			
 
 			{/* 8.  */}
@@ -832,14 +832,14 @@ export default function ThreeDC2(): React.ReactElement {
 
 			<h4 className="margin-y-40">🎯 Kết luận:</h4>
 					
-			<p className="text-indent-whole">Nếu bạn đang ở mức Pre-intermediate hoặc Intermediate, làm chủ bộ 3 mệnh đề sẽ GIÚP BẠN BỨT PHÁ LÊN UPPER-INTERMEDIATE hoặc ADVANCED (về mặt ngữ pháp). Để thực sự “Advanced” toàn diện, hãy coi đây là bước đệm vững chắc nhất.</p>
+			<p className="text-indent-whole">Nếu bạn đang ở mức Pre-intermediate hoặc Intermediate, làm chủ bộ 3 câu con sẽ GIÚP BẠN BỨT PHÁ LÊN UPPER-INTERMEDIATE hoặc ADVANCED (về mặt ngữ pháp). Để thực sự “Advanced” toàn diện, hãy coi đây là bước đệm vững chắc nhất.</p>
 			
 
 			{/* 9.  */}
 
 			<h3 className="margin-y-50 text-center">9. 📝 BÀI TẬP TỔNG HỢP (TỰ KIỂM TRA)</h3>
 
-			<h4 className="margin-y-40">Bài 1: Xác định loại mệnh đề được gạch chân</h4>
+			<h4 className="margin-y-40">Bài 1: Xác định loại câu con được gạch chân</h4>
 			
 				<ol>
 			
@@ -1013,7 +1013,7 @@ export default function ThreeDC2(): React.ReactElement {
 
 			<h3 className="margin-y-50 text-center">10. 🌟 LỜI KẾT</h3>
 
-			<p>Bộ 3 mệnh đề không phải “kẻ thù” đáng sợ, mà là người bạn đồng hành đưa câu từ của bạn từ “con vịt lội bộ” trở thành “đại bàng bay cao”. Hãy bắt đầu bằng việc nhận diện chúng hôm nay. Viết 1 câu, rồi 2 câu, rồi 1 đoạn. Sai thì sửa, sửa rồi lại viết.</p>
+			<p>Bộ 3 câu con không phải “kẻ thù” đáng sợ, mà là người bạn đồng hành đưa câu từ của bạn từ “con vịt lội bộ” trở thành “đại bàng bay cao”. Hãy bắt đầu bằng việc nhận diện chúng hôm nay. Viết 1 câu, rồi 2 câu, rồi 1 đoạn. Sai thì sửa, sửa rồi lại viết.</p>
 
 			<p>Chỉ 15 phút mỗi ngày, sau 30 ngày bạn sẽ thấy sự khác biệt rõ rệt trong khả năng diễn đạt.</p>
 

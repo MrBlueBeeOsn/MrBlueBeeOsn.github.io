@@ -48,7 +48,7 @@ export default function SuperWords2(): React.JSX.Element {
 
 			</h1>
 
-			<h4 className="margin-bottom-30 text-center">SIÊU TỪ LOẠI: Khi mệnh đề trở thành “bản nâng cấp” của danh từ, tính từ, trạng từ</h4>
+			<h4 className="margin-bottom-30 text-center">SIÊU TỪ LOẠI: Khi câu con trở thành “bản nâng cấp” của danh cơ, tính cơ, trạng cơ</h4>
 
 			<p></p>
 
@@ -167,7 +167,7 @@ export default function SuperWords2(): React.JSX.Element {
 
 			{/* 2.  */}
 
-			<h3 className="margin-y-50 text-center">2. SIÊU DANH TỪ / SUPER‑NOUN – Khi cả một câu đóng vai trò danh từ</h3>
+			<h3 className="margin-y-50 text-center">2. SIÊU DANH TỪ / SUPER‑NOUN – Khi cả một câu đóng vai trò danh cơ</h3>
 
 			<p></p>
 
@@ -255,7 +255,7 @@ export default function SuperWords2(): React.JSX.Element {
 
 			{/* 3.  */}
 
-			<h3 className="margin-y-50 text-center">3. SIÊU TÍNH TỪ / SUPER‑ADJECTIVE – Bổ nghĩa cho danh từ bằng nguyên một câu</h3>
+			<h3 className="margin-y-50 text-center">3. SIÊU TÍNH TỪ / SUPER‑ADJECTIVE – Bổ nghĩa cho danh cơ bằng nguyên một câu</h3>
 
 			<p></p>
 
@@ -290,7 +290,7 @@ export default function SuperWords2(): React.JSX.Element {
 			
 				</ul>
 			
-			<p className="margin-top-20 text-indent-whole">Thêm ví dụ với các đại từ quan hệ:</p>
+			<p className="margin-top-20 text-indent-whole">Thêm ví dụ với các đại cơ quan hệ:</p>
 
 			<p className="margin-top-20 text-indent-whole">who</p>
 			
@@ -344,7 +344,7 @@ export default function SuperWords2(): React.JSX.Element {
 
 			{/* 4.  */}
 
-			<h3 className="margin-y-50 text-center">4. SIÊU TRẠNG TỪ / SUPER‑ADVERB – Bổ nghĩa cho động từ, tính từ hoặc cả câu</h3>
+			<h3 className="margin-y-50 text-center">4. SIÊU TRẠNG TỪ / SUPER‑ADVERB – Bổ nghĩa cho động cơ, tính cơ hoặc cả câu</h3>
 
 			<p></p>
 

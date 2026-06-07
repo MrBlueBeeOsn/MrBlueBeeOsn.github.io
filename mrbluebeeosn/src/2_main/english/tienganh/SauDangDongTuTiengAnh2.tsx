@@ -29,9 +29,9 @@ export default function SauDangDongTuTiengAnh2(): React.JSX.Element {
 
 			<h4 className="margin-bottom-30 text-center">“Bộ Sưu Tập Hoàn Chỉnh” Giúp Bạn Nói & Viết Đúng, Mượt Như Người Bản Xứ! 🚀</h4>
 
-			<p>Bạn vừa phát hiện ra một sự thật thú vị: động từ tiếng Anh không chỉ có 3 hay 4 dạng như nhiều người vẫn nghĩ… mà thực tế có tới <strong>6 dạng cơ bản</strong> mà ai học tiếng Anh nghiêm túc cũng nên nắm chắc!</p>
+			<p>Bạn vừa phát hiện ra một sự thật thú vị: động cơ tiếng Anh không chỉ có 3 hay 4 dạng như nhiều người vẫn nghĩ… mà thực tế có tới <strong>6 dạng cơ bản</strong> mà ai học tiếng Anh nghiêm túc cũng nên nắm chắc!</p>
 
-			<p>Hôm nay, chúng ta sẽ cùng “mở kho báu” này một cách vui vẻ, dễ hiểu và cực kỳ thực tế. Khi bạn nắm được bộ 6 dạng này, bạn sẽ tự tin nói, viết, nghe, đọc mà không còn lo “sai chia động từ” nữa.</p>
+			<p>Hôm nay, chúng ta sẽ cùng “mở kho báu” này một cách vui vẻ, dễ hiểu và cực kỳ thực tế. Khi bạn nắm được bộ 6 dạng này, bạn sẽ tự tin nói, viết, nghe, đọc mà không còn lo “sai chia động cơ” nữa.</p>
 
 			<h3 className="margin-y-50 text-center">Bộ 6 Dạng Động Cơ “Hoàn Chỉnh” Của Tiếng Anh</h3>
 
@@ -41,7 +41,7 @@ export default function SauDangDongTuTiengAnh2(): React.JSX.Element {
 
 				<h3 className="margin-top-50 margin-bottom-20 text-center">Cặp 1: Work vs Works</h3>
 
-				<h4 className="margin-top-50 margin-bottom-30">Work – Bare infinitive / Base form (động từ nguyên mẫu không “to”)</h4>
+				<h4 className="margin-top-50 margin-bottom-30">Work – Bare infinitive / Base form (động cơ nguyên mẫu không “to”)</h4>
 
 					<p className="text-indent-whole">Dùng cho I/you/we/they ở hiện tại đơn, sau do/does/did, sau modal verbs (can, will, must, should, may…), và sau let/make/help…</p>
 
@@ -101,7 +101,7 @@ export default function SauDangDongTuTiengAnh2(): React.JSX.Element {
 
 					</ul>
 
-				<p className="margin-top-20 text-indent-whole">→ Với động từ bất quy tắc thì dạng này thay đổi (go → went, eat → ate, see → saw…).</p>
+				<p className="margin-top-20 text-indent-whole">→ Với động cơ bất quy tắc thì dạng này thay đổi (go → went, eat → ate, see → saw…).</p>
 
 				<h4 className="margin-top-50 margin-bottom-30">(have/has/had) worked – Past participle trong thì hoàn thành (Present Perfect, Past Perfect…)</h4>
 
@@ -133,7 +133,7 @@ export default function SauDangDongTuTiengAnh2(): React.JSX.Element {
 
 				<h4 className="margin-top-50 margin-bottom-30">(be) working – Present participle / -ing form (dạng đang diễn ra)</h4>
 
-					<p className="text-indent-whole">Dùng với am/is/are (Present Continuous), was/were (Past Continuous), hoặc sau các động từ như enjoy, hate, keep, stop, mind…</p>
+					<p className="text-indent-whole">Dùng với am/is/are (Present Continuous), was/were (Past Continuous), hoặc sau các động cơ như enjoy, hate, keep, stop, mind…</p>
 
 					<p className="text-indent-whole">Ví dụ:</p>
 
@@ -149,9 +149,9 @@ export default function SauDangDongTuTiengAnh2(): React.JSX.Element {
 
 				<p className="margin-top-20 text-indent-whole">→ Đây là dạng “năng động, sống động” nhất – giúp câu chuyện của bạn trở nên “đang diễn ra” ngay trước mắt người nghe.</p>
 
-				<h4 className="margin-top-50 margin-bottom-30">To work – Infinitive with “to” (động từ nguyên mẫu có “to”)</h4>
+				<h4 className="margin-top-50 margin-bottom-30">To work – Infinitive with “to” (động cơ nguyên mẫu có “to”)</h4>
 
-					<p className="text-indent-whole">Đây là dạng “được đóng gói” – xuất hiện sau các động từ như want, need, decide, plan, hope, learn, promise, try…</p>
+					<p className="text-indent-whole">Đây là dạng “được đóng gói” – xuất hiện sau các động cơ như want, need, decide, plan, hope, learn, promise, try…</p>
 
 					<p className="text-indent-whole">Ví dụ:</p>
 
@@ -185,7 +185,7 @@ export default function SauDangDongTuTiengAnh2(): React.JSX.Element {
 			
 				</ol>
 
-			<p className="margin-y-20 text-indent-whole">Chỉ cần thay “work” bằng bất kỳ động từ nào (eat, go, play, live, study, love, drink…), bạn đã có hàng nghìn câu đúng ngữ pháp!</p>
+			<p className="margin-y-20 text-indent-whole">Chỉ cần thay “work” bằng bất kỳ động cơ nào (eat, go, play, live, study, love, drink…), bạn đã có hàng nghìn câu đúng ngữ pháp!</p>
 
 			<h3 className="margin-y-50 text-center">Thử Ngay Một Ngày Của Bạn Bằng Bộ 6 Dạng</h3>
 
@@ -223,7 +223,7 @@ export default function SauDangDongTuTiengAnh2(): React.JSX.Element {
 			
 				<ul className="list-square">
 
-					<li><strong>Ngày 1-2</strong>: Học thuộc 5 động từ + viết 5 câu cho mỗi dạng.</li>
+					<li><strong>Ngày 1-2</strong>: Học thuộc 5 động cơ + viết 5 câu cho mỗi dạng.</li>
 			
 					<li><strong>Ngày 3</strong>: Tập nói về thói quen (work/works).</li>
 
@@ -241,7 +241,7 @@ export default function SauDangDongTuTiengAnh2(): React.JSX.Element {
 
 			<p>Bạn đã sẵn sàng “thu phục” bộ 6 siêu sao này chưa?</p>
 
-			<p>Chọn một động từ yêu thích (work, eat, go, love, travel, sleep…) và bắt đầu ngay hôm nay nhé!</p>
+			<p>Chọn một động cơ yêu thích (work, eat, go, love, travel, sleep…) và bắt đầu ngay hôm nay nhé!</p>
 
 			<p>Mình tin bạn sẽ làm được – và làm rất tốt! 💪✨</p>
 

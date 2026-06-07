@@ -218,7 +218,7 @@ export default function Now1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>"<strong>Now</strong>" thường đứng ở đầu câu hoặc trước động từ chính.</li>
+          <li>"<strong>Now</strong>" thường đứng ở đầu câu hoặc trước động cơ chính.</li>
 
           <li className="margin-bottom-20">Nó có thể được sử dụng để nhấn mạnh sự khẩn cấp hoặc để chuyển đổi chủ đề.</li>
 

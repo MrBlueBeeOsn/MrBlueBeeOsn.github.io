@@ -48,7 +48,7 @@ export default function ThreeDC7(): React.ReactElement {
 
 			</h1>
 
-			<h4 className="margin-bottom-30 text-center">Bộ 3 Mệnh Đề Trong Tiếng Anh: Từ Phân Biệt, Cách Nhớ Đến Making Master, Nâng Level Từ Intermediate Đanh Advanced</h4>
+			<h4 className="margin-bottom-30 text-center">Bộ 3 Câu Con Trong Tiếng Anh: Từ Phân Biệt, Cách Nhớ Đến Making Master, Nâng Level Từ Intermediate Đanh Advanced</h4>
 
 			<p></p>
 
@@ -59,7 +59,7 @@ export default function ThreeDC7(): React.ReactElement {
 
 			{/* 1.  */}
 
-			<h3 className="margin-y-50 text-center">1. Mở đầu: Tại sao phải học bộ 3 mệnh đề?</h3>
+			<h3 className="margin-y-50 text-center">1. Mở đầu: Tại sao phải học bộ 3 câu con?</h3>
 
 			<p></p>
 
@@ -121,11 +121,11 @@ export default function ThreeDC7(): React.ReactElement {
 
 			{/* 2.  */}
 
-			<h3 className="margin-y-50 text-center">2. Mệnh đề là gì? Independent vs. Dependent Clause</h3>
+			<h3 className="margin-y-50 text-center">2. Câu con là gì? Independent vs. Dependent Clause</h3>
 
 			<p></p>
 
-			<h4 className="margin-y-40">2.1. Định nghĩa mệnh đề (Clause)</h4>
+			<h4 className="margin-y-40">2.1. Định nghĩa câu con (Clause)</h4>
 					
 			<p className="text-indent-whole"></p>
 
@@ -160,11 +160,11 @@ export default function ThreeDC7(): React.ReactElement {
 			<p className="margin-top-20"></p>
 
 
-			<h4 className="margin-y-40">2.2. Mệnh đề độc lập vs. mệnh đề phụ thuộc</h4>
+			<h4 className="margin-y-40">2.2. Độc câu vs. phụ câu</h4>
 					
 			<p className="text-indent-whole"></p>
 
-			<p className="margin-top-20">a. Mệnh đề độc lập (Independent Clause)</p>
+			<p className="margin-top-20">a. Độc câu (Independent Clause)</p>
 			
 				<ul className="list-square">
 			
@@ -382,7 +382,7 @@ export default function ThreeDC7(): React.ReactElement {
 
 			{/* 4.  */}
 
-			<h3 className="margin-y-50 text-center">4. Mệnh đề tính từ (Adjective Clause / Relative Clause)</h3>
+			<h3 className="margin-y-50 text-center">4. Câu con tính cơ (Adjective Clause / Relative Clause)</h3>
 
 			<p></p>
 
@@ -418,7 +418,7 @@ export default function ThreeDC7(): React.ReactElement {
 			<p className="margin-top-20 text-indent-whole"></p>
 
 
-			<h4 className="margin-y-40">4.3. Đại cơ & trạng từ quan hệ thường gặp</h4>
+			<h4 className="margin-y-40">4.3. Đại cơ & trạng cơ quan hệ thường gặp</h4>
 
 			<p className="margin-top-20"></p>
 			
@@ -638,7 +638,7 @@ export default function ThreeDC7(): React.ReactElement {
 			<p className="margin-top-20"></p>
 
 
-			<h4 className="margin-y-40">5.3. Các loại mệnh đề trạng ngữ thường gặp</h4>
+			<h4 className="margin-y-40">5.3. Các loại câu con trạng ngữ thường gặp</h4>
 
 			<p className="text-indent-whole"></p>
 
@@ -805,7 +805,7 @@ export default function ThreeDC7(): React.ReactElement {
 
 			{/* 6.  */}
 
-			<h3 className="margin-y-50 text-center">6. Bảng tổng hợp: Phân biệt 3 loại mệnh đề</h3>
+			<h3 className="margin-y-50 text-center">6. Bảng tổng hợp: Phân biệt 3 loại câu con</h3>
 
 			<p></p>
 
@@ -848,7 +848,7 @@ export default function ThreeDC7(): React.ReactElement {
 			<p className="margin-top-20 text-indent-whole"></p>
 
 
-			<h4 className="margin-y-40">Mệnh đề tính từ (Adjective Clause)</h4>
+			<h4 className="margin-y-40">Câu con tính cơ (Adjective Clause)</h4>
 					
 			<p className="text-indent-whole"></p>
 

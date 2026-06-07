@@ -82,7 +82,7 @@ export default function DependentClause8(): React.JSX.Element {
 
 			<p className="margin-top-20 text-indent-whole">Vậy đây là noun clause.</p>
 
-			<p className="text-indent-whole"><strong>That</strong> ở đây không dịch. Nó chỉ là cái móc báo hiệu sắp có một mệnh đề, giúp người đọc không bị vấp giữa know và she. Trong văn nói bạn bỏ được, trong email công việc giữ lại cho sạch.</p>
+			<p className="text-indent-whole"><strong>That</strong> ở đây không dịch. Nó chỉ là cái móc báo hiệu sắp có một câu con, giúp người đọc không bị vấp giữa know và she. Trong văn nói bạn bỏ được, trong email công việc giữ lại cho sạch.</p>
 
 
 			<h4 className="margin-y-40">2. </h4>
@@ -128,7 +128,7 @@ export default function DependentClause8(): React.JSX.Element {
 
 			<p className="text-indent-whole">Mảnh phụ: who fixed the bug</p>
 
-			<p className="text-indent-whole">→ who là chủ ngữ của fixed, nên không được lược. Không có mệnh đề này, bạn không biết developer nào nghỉ.</p>
+			<p className="text-indent-whole">→ who là chủ ngữ của fixed, nên không được lược. Không có câu con này, bạn không biết developer nào nghỉ.</p>
 
 			<p className="text-indent-whole">Đây là restrictive, không có dấu phẩy. Thông tin là bắt buộc để xác định.</p>
 
@@ -153,7 +153,7 @@ export default function DependentClause8(): React.JSX.Element {
 			
 				</ul>
 			
-			<p className="margin-top-20 text-indent-whole"><strong>where</strong> = <strong>at which</strong>. Nó đứng sau danh từ chỉ nơi chốn. Lỗi phổ biến: "where we first met at". Thừa at vì where đã mang giới từ rồi.</p>
+			<p className="margin-top-20 text-indent-whole"><strong>where</strong> = <strong>at which</strong>. Nó đứng sau danh cơ chỉ nơi chốn. Lỗi phổ biến: "where we first met at". Thừa at vì where đã mang giới cơ rồi.</p>
 
 
 			<h4 className="margin-y-40">6. </h4>
@@ -165,7 +165,7 @@ export default function DependentClause8(): React.JSX.Element {
 			
 				</ul>
 			
-			<p className="margin-top-20 text-indent-whole"><strong>when</strong> = <strong>on which</strong>. Sau danh từ chỉ thời gian, when tự nhiên hơn that. Nếu bạn viết "the day that everything changed" vẫn đúng, nhưng when tạo cảm giác kể chuyện.</p>
+			<p className="margin-top-20 text-indent-whole"><strong>when</strong> = <strong>on which</strong>. Sau danh cơ chỉ thời gian, when tự nhiên hơn that. Nếu bạn viết "the day that everything changed" vẫn đúng, nhưng when tạo cảm giác kể chuyện.</p>
 
 			{/* Nhóm 3: Cho câu một bối cảnh */}
 
@@ -222,9 +222,9 @@ export default function DependentClause8(): React.JSX.Element {
 
 			<h3 className="margin-y-50 text-center">Cách nhìn nhanh khi bạn gặp câu mới</h3>
 
-			<p>1. Tìm <strong>động từ chính không nằm sau từ nối</strong>. Đó là xương sống.</p>
+			<p>1. Tìm <strong>động cơ chính không nằm sau từ nối</strong>. Đó là xương sống.</p>
 
-			<p>2. Phần còn lại có chủ ngữ + động từ mà bắt đầu bằng that, what, who, which, where, when, because, although, if, unless... là <strong>dependent</strong>.</p>
+			<p>2. Phần còn lại có chủ ngữ + động cơ mà bắt đầu bằng that, what, who, which, where, when, because, although, if, unless... là <strong>dependent</strong>.</p>
 
 			<p>3. Hỏi:</p>
 			
@@ -233,7 +233,7 @@ export default function DependentClause8(): React.JSX.Element {
 					<li>Cụm đó thay được bằng "it/something" không?</li>
 					<li className="margin-bottom-20 list-none">→ <strong>noun</strong>.</li>
 			
-					<li>Bỏ đi thì danh từ có còn rõ không?</li>
+					<li>Bỏ đi thì danh cơ có còn rõ không?</li>
 					<li className="margin-bottom-20 list-none">→ <strong>adjective</strong>.</li>
 			
 					<li>Trả lời khi nào/tại sao/dù gì?</li>

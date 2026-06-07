@@ -33,9 +33,9 @@ export default function NamDangDongTuVangRong1(): React.JSX.Element {
 
 			<p>Tại sao người bản xứ nói tiếng Anh mượt mà, không cần suy nghĩ lâu về thì?</p>
 
-			<p>Câu trả lời đơn giản hơn bạn nghĩ: Họ chỉ dùng <strong>5 dạng cơ bản</strong> của động từ một cách thuần thục, và hầu hết mọi câu đều xoay quanh bộ 5 này.</p>
+			<p>Câu trả lời đơn giản hơn bạn nghĩ: Họ chỉ dùng <strong>5 dạng cơ bản</strong> của động cơ một cách thuần thục, và hầu hết mọi câu đều xoay quanh bộ 5 này.</p>
 
-			<p>Hôm nay, chúng ta sẽ “lột xác” hoàn toàn cách nhìn về động từ tiếng Anh với bộ 5 “siêu sao” quyền lực nhất – dễ hiểu, dễ nhớ, và cực kỳ thực chiến. Không cần bảng biểu khô khan, chỉ là những câu chuyện đời thường bạn có thể áp dụng ngay hôm nay!</p>
+			<p>Hôm nay, chúng ta sẽ “lột xác” hoàn toàn cách nhìn về động cơ tiếng Anh với bộ 5 “siêu sao” quyền lực nhất – dễ hiểu, dễ nhớ, và cực kỳ thực chiến. Không cần bảng biểu khô khan, chỉ là những câu chuyện đời thường bạn có thể áp dụng ngay hôm nay!</p>
 
 			<h3 className="margin-y-50 text-center">Bộ 5 Dạng “Vàng Ròng” Của Mọi Động Cơ Tiếng Anh</h3>
 
@@ -161,7 +161,7 @@ export default function NamDangDongTuVangRong1(): React.JSX.Element {
 
 				<h3 className="margin-y-50 text-center">5. Dạng đang diễn ra (-ing: working / playing / eating / going)</h3>
 
-					<p>Đây là “<strong>ngôi sao năng động</strong>” – dùng với am/is/are để miêu tả việc đang xảy ra ngay lúc này, hoặc sau các động từ như enjoy, hate, keep, stop…</p>
+					<p>Đây là “<strong>ngôi sao năng động</strong>” – dùng với am/is/are để miêu tả việc đang xảy ra ngay lúc này, hoặc sau các động cơ như enjoy, hate, keep, stop…</p>
 
 					<p>Ví dụ:</p>
 
@@ -225,9 +225,9 @@ export default function NamDangDongTuVangRong1(): React.JSX.Element {
 			
 				<ul className="list-square">
 
-					<li><strong>Ngày 1</strong>: Chọn 3 động từ yêu thích (work, eat, go) – viết hoặc nói 5 câu cho mỗi dạng (hiện tại đơn giản cơ bản).</li>
+					<li><strong>Ngày 1</strong>: Chọn 3 động cơ yêu thích (work, eat, go) – viết hoặc nói 5 câu cho mỗi dạng (hiện tại đơn giản cơ bản).</li>
 
-					<li><strong>Ngày 2</strong>: Chọn 3 động từ yêu thích (work, eat, go) – viết hoặc nói 5 câu cho mỗi dạng (hiện tại đơn giản cho he/she/it).</li>
+					<li><strong>Ngày 2</strong>: Chọn 3 động cơ yêu thích (work, eat, go) – viết hoặc nói 5 câu cho mỗi dạng (hiện tại đơn giản cho he/she/it).</li>
 			
 					<li><strong>Ngày 3</strong>: Tập kể chuyện quá khứ: “Yesterday I…” (dùng dạng quá khứ).</li>
 
@@ -245,7 +245,7 @@ export default function NamDangDongTuVangRong1(): React.JSX.Element {
 
 			<p>Bộ 5 dạng này chính là <strong>chìa khóa vạn năng</strong>. Khi bạn đã “thu phục” được chúng, mọi thì khác chỉ là “phụ kiện” mà thôi.</p>
 
-			<p>Bạn chọn động từ nào để bắt đầu “level up” hôm nay? Work, eat, travel, love, sleep, dance…?</p>
+			<p>Bạn chọn động cơ nào để bắt đầu “level up” hôm nay? Work, eat, travel, love, sleep, dance…?</p>
 
 			<p><HashLink smooth to="/tieng-anh/5-dang-dong-tu-vang-rong-2#bang-vang-12-dong-tu">Bảng "Vàng" 12 Động Cơ</HashLink> – Nắm Là Dùng Ngay</p>
 

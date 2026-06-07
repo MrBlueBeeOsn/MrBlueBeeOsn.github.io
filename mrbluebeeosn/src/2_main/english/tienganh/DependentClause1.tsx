@@ -60,7 +60,7 @@ export default function DependentClause1(): React.JSX.Element {
 
 			<h3 className="margin-y-50 text-center">1. Bản Chất Ý Niệm: Mảnh Ghép Cần Điểm Tựa</h3>
 
-			<p>Một mệnh đề phụ thuộc luôn mang trong mình một nghịch lý:</p>
+			<p>Một phụ câu luôn mang trong mình một nghịch lý:</p>
 
 			<p>Nó có đầy đủ <strong>Chủ ngữ</strong> (<strong>S</strong>) và <strong>Động cơ</strong> (<strong>V</strong>), nhưng lại không thể truyền tải một thông điệp trọn vẹn.</p>
 
@@ -104,12 +104,12 @@ export default function DependentClause1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>Các liên từ:</li>
+					<li>Các liên cơ:</li>
 					<li className="list-none">For, And, Nor, But, Or, Yet, So hoạt động như những cây cầu phẳng.</li>
 			
 				</ul>
 			
-			<p className="margin-top-20 text-indent-whole">→ Chúng chỉ nối các mệnh đề độc lập có vai trò ngang hàng và tuyệt đối không tạo ra mệnh đề phụ thuộc.</p>
+			<p className="margin-top-20 text-indent-whole">→ Chúng chỉ nối các câu con độc lập có vai trò ngang hàng và tuyệt đối không tạo ra phụ câu.</p>
 		
 
 			<h4 className="margin-y-40">Vùng kích hoạt Phụ câu:</h4>
@@ -123,7 +123,7 @@ export default function DependentClause1(): React.JSX.Element {
 					<li>Nhóm từ để hỏi <strong>WH</strong>-<strong>H</strong>:</li>
 					<li className="margin-bottom-20 list-none">who, which, whom, whose, where, when, why, how.</li>
 			
-					<li>Các liên từ chỉ mối quan hệ logic:</li>
+					<li>Các liên cơ chỉ mối quan hệ logic:</li>
 					<li className="list-none">because, although, if, while, before, after, since.</li>
 			
 				</ul>
@@ -133,11 +133,11 @@ export default function DependentClause1(): React.JSX.Element {
 
 			<h3 className="margin-y-50 text-center">3. Ba Vai Trò Thực Tế Trong Câu (Kèm Ví Dụ Đơn Giản)</h3>
 
-			<p>Mọi mệnh đề phụ thuộc dù dài hay ngắn đều chỉ đảm nhận vị trí tương đương với một từ loại cơ bản.</p>
+			<p>Mọi phụ câu dù dài hay ngắn đều chỉ đảm nhận vị trí tương đương với một từ loại cơ bản.</p>
 			
 			<h4 className="margin-y-40">Chức năng Tính cơ (Adjective Clause)</h4>
 					
-			<p className="text-indent-whole">Nằm ngay sau một danh từ để định hình hoặc làm rõ đặc điểm cho danh từ đó.</p>
+			<p className="text-indent-whole">Nằm ngay sau một danh cơ để định hình hoặc làm rõ đặc điểm cho danh cơ đó.</p>
 			
 				<ul className="list-square">
 			
@@ -146,7 +146,7 @@ export default function DependentClause1(): React.JSX.Element {
 			
 				</ul>
 			
-			<p className="margin-top-20 text-indent-whole">→ Cụm "that is barking" đóng vai trò như một tính từ lớn để phân biệt con chó này với những con khác</p>
+			<p className="margin-top-20 text-indent-whole">→ Cụm "that is barking" đóng vai trò như một tính cơ lớn để phân biệt con chó này với những con khác</p>
 			
 			
 			<h4 className="margin-y-40">Chức năng Trạng cơ (Adverbial Clause)</h4>
@@ -165,7 +165,7 @@ export default function DependentClause1(): React.JSX.Element {
 			
 			<h4 className="margin-y-40">Chức năng Danh cơ (Noun Clause)</h4>
 					
-			<p className="text-indent-whole">Chiếm lĩnh vị trí của một danh từ thông thường để làm Chủ ngữ hoặc Tân ngữ chịu tác động.</p>
+			<p className="text-indent-whole">Chiếm lĩnh vị trí của một danh cơ thông thường để làm Chủ ngữ hoặc Tân ngữ chịu tác động.</p>
 			
 				<ul className="list-square">
 			
@@ -174,7 +174,7 @@ export default function DependentClause1(): React.JSX.Element {
 			
 				</ul>
 			
-			<p className="margin-top-20 text-indent-whole">→ Cụm "what you mean" đóng vai trò làm tân ngữ đứng sau động từ "understand"</p>
+			<p className="margin-top-20 text-indent-whole">→ Cụm "what you mean" đóng vai trò làm tân ngữ đứng sau động cơ "understand"</p>
 
 			{/* 4. Chiến Lược 3 Bước Để Tạo Câu Phức Mượt Mà */}
 
@@ -226,7 +226,7 @@ export default function DependentClause1(): React.JSX.Element {
 
 			<h3 className="margin-y-50 text-center">5. Phương Pháp Làm Chủ Cấu Trúc Khi Đọc Hiểu</h3>
 
-			<p>Khi đối mặt với những câu văn dài trên các trang báo hoặc tài liệu, việc đọc thụ động từ đầu đến cuối dễ gây quá tải cho bộ não.</p>
+			<p>Khi đối mặt với những câu văn dài trên các trang báo hoặc tài liệu, việc đọc thụ động cơ đầu đến cuối dễ gây quá tải cho bộ não.</p>
 
 			<p>Hãy áp dụng kỹ thuật <strong>Cô lập thông tin</strong>:</p>
 
@@ -265,11 +265,11 @@ export default function DependentClause1(): React.JSX.Element {
 
 			<h3 className="margin-y-50 text-center">Lời Kết</h3>
 
-			<p>Làm chủ mệnh đề phụ thuộc không đơn thuần là việc học thuộc một quy tắc ngữ pháp, mà là cách bạn thiết lập lại tư duy quản lý thông tin.</p>
+			<p>Làm chủ phụ câu không đơn thuần là việc học thuộc một quy tắc ngữ pháp, mà là cách bạn thiết lập lại tư duy quản lý thông tin.</p>
 
 			<p>Khi biết cách điều phối cấu trúc này, bạn không còn bị động chạy theo những từ vựng đơn lẻ, mà hoàn toàn làm chủ được nhịp điệu, tốc độ và độ sâu sắc của toàn bộ bài viết.</p>
 
-			<p>Hãy bắt đầu nâng cấp văn phong của mình ngay hôm nay bằng cách kết nối các ý tưởng thông qua những khối mệnh đề thông minh này!</p>
+			<p>Hãy bắt đầu nâng cấp văn phong của mình ngay hôm nay bằng cách kết nối các ý tưởng thông qua những khối câu con thông minh này!</p>
 
 			<div className="viewcounter">
 			

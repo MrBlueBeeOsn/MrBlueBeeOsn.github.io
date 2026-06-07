@@ -66,7 +66,7 @@ export default function EVParaphrasingTechniquesQuiz(): React.JSX.Element {
 				"Significantly, the number of tourists increased last year."
 			],
 			correctAnswer: 0,
-			explanation: "Câu này sử dụng kết hợp cả thay đổi từ vựng (tourists -> visitors, increased -> growth) và thay đổi loại từ (động từ \"increased\" thành danh từ \"growth\")."
+			explanation: "Câu này sử dụng kết hợp cả thay đổi từ vựng (tourists -> visitors, increased -> growth) và thay đổi loại từ (động cơ \"increased\" thành danh cơ \"growth\")."
 		},
 		{
 			id: 5,
@@ -78,7 +78,7 @@ export default function EVParaphrasingTechniquesQuiz(): React.JSX.Element {
 				"Only changing the word order"
 			],
 			correctAnswer: 1,
-			explanation: "Tính cơ \"tired\" (mệt mỏi) đã được chuyển thành danh từ \"fatigue\" (sự mệt mỏi) để thay đổi cấu trúc câu."
+			explanation: "Tính cơ \"tired\" (mệt mỏi) đã được chuyển thành danh cơ \"fatigue\" (sự mệt mỏi) để thay đổi cấu trúc câu."
 		},
 		{
 			id: 6,

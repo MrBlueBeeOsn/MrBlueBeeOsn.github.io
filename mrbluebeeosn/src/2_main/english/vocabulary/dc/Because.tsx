@@ -21,7 +21,7 @@ export default function Because(): React.JSX.Element {
 
       {/* This is the content of Vocabulary Term. */}
 
-      <p className="margin-bottom-30"><strong>Because</strong> (liên từ): Bởi vì. Từ này được dùng để mở đầu cho một mệnh đề chỉ nguyên nhân, lý do giải thích cho một sự việc hoặc hành động trước đó.</p>
+      <p className="margin-bottom-30"><strong>Because</strong> (liên cơ): Bởi vì. Từ này được dùng để mở đầu cho một câu con chỉ nguyên nhân, lý do giải thích cho một sự việc hoặc hành động trước đó.</p>
       
         <ul className="list-square">
       
@@ -128,7 +128,7 @@ export default function Because(): React.JSX.Element {
 
       <p className="margin-top-20"><strong>2. As</strong> /æz/</p>
 
-      <p className="text-indent-whole">Tương tự như since, thường mang sắc thái trang trọng hơn một chút và thường đặt mệnh đề nguyên nhân ở đầu câu.</p>
+      <p className="text-indent-whole">Tương tự như since, thường mang sắc thái trang trọng hơn một chút và thường đặt câu con nguyên nhân ở đầu câu.</p>
 
         <ul className="list-square">
 
@@ -188,7 +188,7 @@ export default function Because(): React.JSX.Element {
 
       <p className="margin-top-20"><strong>6. For</strong> /fɔːr/</p>
 
-      <p className="text-indent-whole">Bởi vì; một liên từ mang sắc thái rất trang trọng, mang tính văn học hoặc cổ kính, dùng để đưa ra lý do giải thích cho lời khẳng định trước đó.</p>
+      <p className="text-indent-whole">Bởi vì; một liên cơ mang sắc thái rất trang trọng, mang tính văn học hoặc cổ kính, dùng để đưa ra lý do giải thích cho lời khẳng định trước đó.</p>
 
         <ul className="list-square">
 

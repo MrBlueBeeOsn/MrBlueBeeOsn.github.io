@@ -66,7 +66,7 @@ export default function SentenceVariety5(): React.JSX.Element {
 			
 				</ul>
 
-			<p className="margin-top-20">— Ba câu, ba chủ ngữ I, ba động từ.</p>
+			<p className="margin-top-20">— Ba câu, ba chủ ngữ I, ba động cơ.</p>
 			<p>— Không sai một chữ.</p>
 			<p>— Nhưng đọc lên thì như đọc biên bản.</p>
 
@@ -82,7 +82,7 @@ export default function SentenceVariety5(): React.JSX.Element {
 
 			<h4 className="margin-y-40">1. Simple</h4>
 
-			<p className="text-indent-whole">1 mệnh đề độc lập</p>
+			<p className="text-indent-whole">1 câu con độc lập</p>
 
 			<ul className="list-square">
 
@@ -101,7 +101,7 @@ export default function SentenceVariety5(): React.JSX.Element {
 
 			<h4 className="margin-y-40">2. Compound</h4>
 
-			<p className="text-indent-whole">2 mệnh đề độc lập + and / but / so / yet</p>
+			<p className="text-indent-whole">2 câu con độc lập + and / but / so / yet</p>
 
 			<ul className="list-square">
 
@@ -122,7 +122,7 @@ export default function SentenceVariety5(): React.JSX.Element {
 
 			<h4 className="margin-y-40">3. Complex</h4>
 
-			<p className="text-indent-whole">1 mệnh đề chính + 1 mệnh đề phụ</p>
+			<p className="text-indent-whole">1 câu con chính + 1 câu con phụ</p>
 
 			<ul className="list-square">
 
@@ -141,7 +141,7 @@ export default function SentenceVariety5(): React.JSX.Element {
 
 			<h4 className="margin-y-40">4. Compound-Complex</h4>
 
-			<p className="text-indent-whole">≥2 mệnh đề độc lập + ≥1 mệnh đề phụ</p>
+			<p className="text-indent-whole">≥2 câu con độc lập + ≥1 câu con phụ</p>
 
 			<ul className="list-square">
 
@@ -226,7 +226,7 @@ export default function SentenceVariety5(): React.JSX.Element {
 					<thead>
 						<tr>
 							<th>Compound — nối hai vế bằng nhau</th>
-							<th>Complex — mệnh đề phụ phụ thuộc</th>
+							<th>Complex — câu con phụ phụ thuộc</th>
 						</tr>
 					</thead>
 

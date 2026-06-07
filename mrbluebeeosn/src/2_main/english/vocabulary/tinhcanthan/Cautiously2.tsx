@@ -116,7 +116,7 @@ export default function Cautiously2(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>"<strong>Cautiously</strong>" thường đứng trước động từ để bổ nghĩa.</li>
+          <li>"<strong>Cautiously</strong>" thường đứng trước động cơ để bổ nghĩa.</li>
 
           <li className="margin-bottom-20">Từ này mang nghĩa về phương thức thận trọng.</li>
 

@@ -48,7 +48,7 @@ export default function Often2(): React.JSX.Element {
               
             </span>
               
-            &nbsp;là một trạng từ chỉ tần suất, dùng để diễn tả một hành động hoặc sự việc xảy ra nhiều lần.
+            &nbsp;là một trạng cơ chỉ tần suất, dùng để diễn tả một hành động hoặc sự việc xảy ra nhiều lần.
 
           </p>
 
@@ -116,9 +116,9 @@ export default function Often2(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>"<strong>Often</strong>" thường đứng trước động từ chính trong câu.</li>
+          <li>"<strong>Often</strong>" thường đứng trước động cơ chính trong câu.</li>
 
-          <li className="margin-bottom-20">Bạn có thể kết hợp "<strong>often</strong>" với nhiều trạng từ khác để tạo ra các cụm từ đa dạng hơn.</li>
+          <li className="margin-bottom-20">Bạn có thể kết hợp "<strong>often</strong>" với nhiều trạng cơ khác để tạo ra các cụm từ đa dạng hơn.</li>
 
         </ul>
 

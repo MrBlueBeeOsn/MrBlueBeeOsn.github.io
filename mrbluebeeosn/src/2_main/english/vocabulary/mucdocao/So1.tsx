@@ -57,7 +57,7 @@ export default function So1(): React.JSX.Element {
 
       </div>
 
-      <p className="margin-top-30 text-indent-whole">1. Rất, quá (trạng từ mức độ): Dùng để nhấn mạnh mức độ của một tính từ hoặc trạng từ.</p>
+      <p className="margin-top-30 text-indent-whole">1. Rất, quá (trạng cơ mức độ): Dùng để nhấn mạnh mức độ của một tính cơ hoặc trạng cơ.</p>
 
         <ul className="list-square">
 
@@ -69,7 +69,7 @@ export default function So1(): React.JSX.Element {
 
         </ul>
 
-      <p className="margin-top-20 text-indent-whole">2. Như vậy, thế đó (trạng từ cách thức/mức độ): Dùng để thay thế cho một ý đã được đề cập trước, tránh lặp lại.</p>
+      <p className="margin-top-20 text-indent-whole">2. Như vậy, thế đó (trạng cơ cách thức/mức độ): Dùng để thay thế cho một ý đã được đề cập trước, tránh lặp lại.</p>
 
         <ul className="list-square">
 
@@ -232,7 +232,7 @@ export default function So1(): React.JSX.Element {
             <li className="list-none">Cô ấy rất hạnh phúc.</li>
             <li className="list-none margin-bottom-20">- Đơn thuần chỉ mức độ</li>
 
-            <li value="2"><strong>So</strong> (adv - nhấn mạnh): Thường dùng <span className="highlight-255-padding-0-4">để thể hiện cảm xúc mạnh hơn</span> hoặc bất ngờ về mức độ. Đôi khi có thể đi kèm với mệnh đề "that".</li>
+            <li value="2"><strong>So</strong> (adv - nhấn mạnh): Thường dùng <span className="highlight-255-padding-0-4">để thể hiện cảm xúc mạnh hơn</span> hoặc bất ngờ về mức độ. Đôi khi có thể đi kèm với câu con "that".</li>
             <li className="list-none">She was ______ happy that she cried.</li>
             <li className="list-none">Cô ấy hạnh phúc đến nỗi bật khóc.</li>
             <li className="list-none margin-bottom-20">- Nhấn mạnh cảm xúc và kết quả.</li>
@@ -253,9 +253,9 @@ export default function So1(): React.JSX.Element {
 
           <li>"<strong>So</strong>" là một từ rất linh hoạt và có nhiều chức năng khác nhau trong câu.</li>
 
-          <li>Khi "<strong>so</strong>" là trạng từ chỉ mức độ, nó thường đứng trước tính từ hoặc trạng từ.</li>
+          <li>Khi "<strong>so</strong>" là trạng cơ chỉ mức độ, nó thường đứng trước tính cơ hoặc trạng cơ.</li>
 
-          <li className="margin-bottom-20">Khi "<strong>so</strong>" là liên từ, nó thường đứng ở đầu mệnh đề chỉ kết quả.</li>
+          <li className="margin-bottom-20">Khi "<strong>so</strong>" là liên cơ, nó thường đứng ở đầu câu con chỉ kết quả.</li>
 
         </ul>
 

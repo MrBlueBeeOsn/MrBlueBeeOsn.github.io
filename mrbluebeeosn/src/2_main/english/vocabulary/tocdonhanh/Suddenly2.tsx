@@ -116,7 +116,7 @@ export default function Suddenly2(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>"<strong>Suddenly</strong>" thường được đặt ở đầu câu hoặc trước động từ để nhấn mạnh ý nghĩa.</li>
+          <li>"<strong>Suddenly</strong>" thường được đặt ở đầu câu hoặc trước động cơ để nhấn mạnh ý nghĩa.</li>
 
           <li className="margin-bottom-20">Từ này có thể được sử dụng trong nhiều ngữ cảnh khác nhau, từ việc mô tả các sự kiện hàng ngày đến các câu chuyện hư cấu.</li>
 

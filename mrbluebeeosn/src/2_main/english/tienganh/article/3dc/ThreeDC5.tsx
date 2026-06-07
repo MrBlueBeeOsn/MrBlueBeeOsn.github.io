@@ -48,7 +48,7 @@ export default function ThreeDC5(): React.ReactElement {
 
 			</h1>
 
-			<h4 className="margin-bottom-30 text-center">Bộ 3 Mệnh Đề Tiếng Anh: Noun, Adjective & Adverb Clause</h4>
+			<h4 className="margin-bottom-30 text-center">Bộ 3 Câu Con Tiếng Anh: Noun, Adjective & Adverb Clause</h4>
 
 			<p></p>
 
@@ -105,7 +105,7 @@ export default function ThreeDC5(): React.ReactElement {
 			<p className="margin-top-20 text-indent-whole"></p>
 
 
-			<h4 className="margin-y-40">Loại 2: Adjective Clause — Mệnh đề tính ngữ</h4>
+			<h4 className="margin-y-40">Loại 2: Adjective Clause — Câu con tính ngữ</h4>
 
 			<p className="text-indent-whole"></p>
 			
@@ -336,7 +336,7 @@ export default function ThreeDC5(): React.ReactElement {
 
 			{/* 3.  */}
 
-			<h3 className="margin-y-50 text-center">3. Adjective Clause — Mệnh đề tính ngữ</h3>
+			<h3 className="margin-y-50 text-center">3. Adjective Clause — Câu con tính ngữ</h3>
 
 			<p></p>
 
@@ -528,7 +528,7 @@ export default function ThreeDC5(): React.ReactElement {
 			<p className="margin-top-20 text-indent-whole"></p>
 
 
-			<h4 className="margin-y-40">Khi nào bỏ đại từ quan hệ?</h4>
+			<h4 className="margin-y-40">Khi nào bỏ đại cơ quan hệ?</h4>
 					
 			<p className="text-indent-whole"></p>
 

@@ -50,9 +50,9 @@ export default function DependentClause7(): React.JSX.Element {
 
 			<h4 className="margin-bottom-30 text-center">Phụ Câu: Cẩm Nang Hoàn Chỉnh Để Viết Câu Phức Tự Nhiên</h4>
 
-			{/* 1. Tại sao bạn cần học mệnh đề phụ thuộc ngay hôm nay? */}
+			{/* 1. Tại sao bạn cần học phụ câu ngay hôm nay? */}
 
-			<h3 className="margin-y-50 text-center">1. Tại sao bạn cần học mệnh đề phụ thuộc ngay hôm nay?</h3>
+			<h3 className="margin-y-50 text-center">1. Tại sao bạn cần học phụ câu ngay hôm nay?</h3>
 
 			<p>Hãy tưởng tượng bạn đang viết một essay IELTS. Hai cách viết sau:</p>
 
@@ -66,7 +66,7 @@ export default function DependentClause7(): React.JSX.Element {
 			
 				</ul>
 					
-			<p className="margin-top-20"><strong>Cách 2</strong> — <strong>Câu phức với mệnh đề phụ thuộc</strong>:</p>
+			<p className="margin-top-20"><strong>Cách 2</strong> — <strong>Câu phức với phụ câu</strong>:</p>
 			
 				<ul className="list-square">
 			
@@ -78,14 +78,14 @@ export default function DependentClause7(): React.JSX.Element {
 			
 			<p className="margin-top-20">Sự khác biệt? Rõ ràng. Cách 2 thể hiện <strong>tư duy logic</strong>, <strong>kết nối ý</strong>, và <strong>khả năng kiểm soát ngữ pháp</strong> — đúng thứ giám khảo IELTS tìm kiếm.</p>
 
-			<p>Bí mật nằm ở <strong>mệnh đề phụ thuộc</strong>.</p>
+			<p>Bí mật nằm ở <strong>phụ câu</strong>.</p>
 
 
 			{/* 2. Phụ câu là gì? */}
 
 			<h3 className="margin-y-50 text-center">2. Phụ câu là gì?</h3>
 					
-			<p>Phụ câu là một nhóm từ có đầy đủ chủ ngữ + động từ, nhưng không tạo thành câu hoàn chỉnh khi đứng một mình. Nó cần một mệnh đề độc lập để bổ sung ý nghĩa.</p>
+			<p>Phụ câu là một nhóm từ có đầy đủ chủ ngữ + động cơ, nhưng không tạo thành câu hoàn chỉnh khi đứng một mình. Nó cần một câu con độc lập để bổ sung ý nghĩa.</p>
 			
 				<ul className="list-square">
 
@@ -97,9 +97,9 @@ export default function DependentClause7(): React.JSX.Element {
 				</ul>
 
 
-			{/* 3. Bảy bước để viết câu có mệnh đề phụ thuộc */}
+			{/* 3. Bảy bước để viết câu có phụ câu */}
 
-			<h3 className="margin-y-50 text-center">3. Bảy bước để viết câu có mệnh đề phụ thuộc</h3>
+			<h3 className="margin-y-50 text-center">3. Bảy bước để viết câu có phụ câu</h3>
 
 			<h4 className="margin-y-40">Bước 1: Chọn từ nối phù hợp với ý bạn muốn diễn đạt</h4>
 					
@@ -124,7 +124,7 @@ export default function DependentClause7(): React.JSX.Element {
 					<li>Mục đích</li>
 					<li className="margin-bottom-20 list-none">so that, in order that</li>
 			
-					<li>Bổ nghĩa cho danh từ</li>
+					<li>Bổ nghĩa cho danh cơ</li>
 					<li className="margin-bottom-20 list-none">who, which, that, whose</li>
 			
 					<li>Làm chủ ngữ/tân ngữ</li>
@@ -133,7 +133,7 @@ export default function DependentClause7(): React.JSX.Element {
 				</ul>
 		
 
-			<h4 className="margin-y-40">Bước 2: Viết mệnh đề phụ thuộc</h4>
+			<h4 className="margin-y-40">Bước 2: Viết phụ câu</h4>
 					
 			<p className="text-indent-whole">Cấu trúc: <strong>Từ nối</strong> + <strong>Chủ ngữ</strong> + <strong>Động cơ</strong></p>
 			
@@ -151,11 +151,11 @@ export default function DependentClause7(): React.JSX.Element {
 				</ul>
 
 
-			<h4 className="margin-y-40">Bước 4: Ghép hai mệnh đề</h4>
+			<h4 className="margin-y-40">Bước 4: Ghép hai câu con</h4>
 
 			<p className="text-indent-whole"><strong>Cấu trúc 1</strong> — <strong>Phụ câu đứng đầu</strong>:</p>
 
-			<p className="text-indent-whole">[Từ nối + Chủ ngữ + Động cơ], + [Mệnh đề độc lập]</p>
+			<p className="text-indent-whole">[Từ nối + Chủ ngữ + Động cơ], + [Độc câu]</p>
 			
 				<ul className="list-square">
 			
@@ -166,7 +166,7 @@ export default function DependentClause7(): React.JSX.Element {
 					
 			<p className="margin-top-20 text-indent-whole"><strong>Cấu trúc 2</strong> — <strong>Phụ câu đứng cuối</strong>:</p>
 
-			<p className="text-indent-whole">[Mệnh đề độc lập] + [Từ nối + Chủ ngữ + Động cơ]</p>
+			<p className="text-indent-whole">[Độc câu] + [Từ nối + Chủ ngữ + Động cơ]</p>
 			
 				<ul className="list-square">
 			
@@ -181,7 +181,7 @@ export default function DependentClause7(): React.JSX.Element {
 				<ul className="list-square">
 			
 					<li>Phụ câu đứng <strong>ĐẦU</strong></li>
-					<li className="margin-bottom-20 list-none">→ <strong>DẤU PHẨY SAU</strong> mệnh đề</li>
+					<li className="margin-bottom-20 list-none">→ <strong>DẤU PHẨY SAU</strong> câu con</li>
 			
 					<li>Phụ câu đứng <strong>CUỐI</strong></li>
 					<li className="list-none">→ <strong>KHÔNG</strong> có dấu phẩy</li>
@@ -217,13 +217,13 @@ export default function DependentClause7(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>Phụ câu có <strong>chủ ngữ</strong> + <strong>động từ</strong>?</li>
+					<li>Phụ câu có <strong>chủ ngữ</strong> + <strong>động cơ</strong>?</li>
 			
 					<li>Từ nối có đúng với ý nghĩa bạn muốn?</li>
 
 					<li>Dấu phẩy có đúng vị trí?</li>
 			
-					<li>Câu có thể đứng độc lập không? (Nếu có, bạn đang viết mệnh đề độc lập chứ không phải phụ thuộc)</li>
+					<li>Câu có thể đứng độc lập không? (Nếu có, bạn đang viết câu con độc lập chứ không phải phụ thuộc)</li>
 			
 				</ul>
 			
@@ -260,11 +260,11 @@ export default function DependentClause7(): React.JSX.Element {
 				</ul>
 
 
-			{/* 4. Cách phân biệt mệnh đề phụ thuộc và mệnh đề độc lập */}
+			{/* 4. Cách phân biệt phụ câu và câu con độc lập */}
 
-			<h3 className="margin-y-50 text-center">4. Cách phân biệt mệnh đề phụ thuộc và mệnh đề độc lập</h3>
+			<h3 className="margin-y-50 text-center">4. Cách phân biệt phụ câu và câu con độc lập</h3>
 
-			<h4 className="margin-y-40">1. Mệnh đề độc lập</h4>
+			<h4 className="margin-y-40">1. Độc câu</h4>
 					
 			<p className="text-indent-whole">✅ Có: Có thể đứng một mình</p>
 			<p className="text-indent-whole">Bắt đầu bằng từ nối: Không (hoặc FANBOYS)</p>
@@ -294,7 +294,7 @@ export default function DependentClause7(): React.JSX.Element {
 
 			<h4 className="margin-y-40">Bài kiểm tra nhanh</h4>
 					
-			<p className="text-indent-whole">Hãy xác định mệnh đề nào là phụ thuộc:</p>
+			<p className="text-indent-whole">Hãy xác định câu con nào là phụ thuộc:</p>
 			
 				<ol>
 			
@@ -304,7 +304,7 @@ export default function DependentClause7(): React.JSX.Element {
 			
 					<li value="2">when I arrived</li>
 					<li className="list-none">Khi tôi đến nơi...</li>
-					<li className="margin-bottom-20 list-none">→ <strong>Phụ thuộc</strong> (cần mệnh đề khác)</li>
+					<li className="margin-bottom-20 list-none">→ <strong>Phụ thuộc</strong> (cần câu con khác)</li>
 
 					<li value="3">Because it was raining</li>
 					<li className="list-none">Vì trời mưa...</li>
@@ -322,13 +322,13 @@ export default function DependentClause7(): React.JSX.Element {
 			
 			<p className="margin-top-20"></p>
 
-			{/* 5. Ba loại mệnh đề phụ thuộc — Phân biệt rõ ràng */}
+			{/* 5. Ba loại phụ câu — Phân biệt rõ ràng */}
 
-			<h3 className="margin-y-50 text-center">5. Ba loại mệnh đề phụ thuộc — Phân biệt rõ ràng</h3>
+			<h3 className="margin-y-50 text-center">5. Ba loại phụ câu — Phân biệt rõ ràng</h3>
 
 			<h4 className="margin-y-40">1. Trạng câu (Adverb Clause)</h4>
 					
-			<p className="text-indent-whole">Bổ nghĩa cho <strong>động từ</strong>, trả lời câu hỏi: khi nào? tại sao? nếu...?</p>
+			<p className="text-indent-whole">Bổ nghĩa cho <strong>động cơ</strong>, trả lời câu hỏi: khi nào? tại sao? nếu...?</p>
 			
 				<ul className="list-square">
 			
@@ -348,9 +348,9 @@ export default function DependentClause7(): React.JSX.Element {
 			
 			<p className="margin-top-20 text-indent-whole">Dấu hiệu:because, although, when, while, if, since, before, after, until, unless</p>
 
-			<h4 className="margin-y-40">2. Mệnh đề tính từ (Adjective Clause)</h4>
+			<h4 className="margin-y-40">2. Câu con tính cơ (Adjective Clause)</h4>
 					
-			<p className="text-indent-whole">Bổ nghĩa cho <strong>danh từ</strong> đứng trước nó.</p>
+			<p className="text-indent-whole">Bổ nghĩa cho <strong>danh cơ</strong> đứng trước nó.</p>
 			
 				<ul className="list-square">
 			
@@ -371,7 +371,7 @@ export default function DependentClause7(): React.JSX.Element {
 
 			<h4 className="margin-y-40">3. Danh câu (Noun Clause)</h4>
 					
-			<p className="text-indent-whole">Đóng vai trò như <strong>danh từ</strong> — làm chủ ngữ, tân ngữ, hoặc bổ ngữ.</p>
+			<p className="text-indent-whole">Đóng vai trò như <strong>danh cơ</strong> — làm chủ ngữ, tân ngữ, hoặc bổ ngữ.</p>
 			
 				<ul className="list-square">
 			
@@ -444,7 +444,7 @@ export default function DependentClause7(): React.JSX.Element {
 				</ul>
 			
 
-			<h4 className="margin-y-40">Mệnh đề tính từ</h4>
+			<h4 className="margin-y-40">Câu con tính cơ</h4>
 					
 				<ul className="list-square">
 			
@@ -606,7 +606,7 @@ export default function DependentClause7(): React.JSX.Element {
 			<h4 className="margin-y-40">Lỗi 7</h4>
 
 			<p className="text-indent-whole">The girl whom sings.</p>
-			<p className="text-indent-whole">Sai đại từ</p>
+			<p className="text-indent-whole">Sai đại cơ</p>
 			
 				<ul className="list-square">
 			
@@ -639,9 +639,9 @@ export default function DependentClause7(): React.JSX.Element {
 			
 					<li>Chuyển 10 câu đơn thành câu phức mỗi ngày</li>
 			
-					<li>Đọc 1 bài báo, gạch chân 10 mệnh đề phụ thuộc</li>
+					<li>Đọc 1 bài báo, gạch chân 10 phụ câu</li>
 			
-					<li>Viết nhật ký tiếng Anh với ít nhất 5 mệnh đề phụ mỗi ngày</li>
+					<li>Viết nhật ký tiếng Anh với ít nhất 5 câu con phụ mỗi ngày</li>
 			
 				</ul>
 
@@ -650,9 +650,9 @@ export default function DependentClause7(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>Viết đoạn văn 100 từ với 5+ mệnh đề phụ khác nhau</li>
+					<li>Viết đoạn văn 100 từ với 5+ câu con phụ khác nhau</li>
 			
-					<li>Luyện viết essay ngắn (150 từ) dùng nhiều loại mệnh đề</li>
+					<li>Luyện viết essay ngắn (150 từ) dùng nhiều loại câu con</li>
 			
 					<li>Sửa lỗi từ các bài viết trước</li>
 			
@@ -663,7 +663,7 @@ export default function DependentClause7(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>Viết 3 essay, mỗi essay dùng ít nhất 8 mệnh đề phụ thuộc</li>
+					<li>Viết 3 essay, mỗi essay dùng ít nhất 8 phụ câu</li>
 			
 					<li>Đọc bài IELTS Reading, phân tích cấu trúc câu phức</li>
 			
@@ -676,9 +676,9 @@ export default function DependentClause7(): React.JSX.Element {
 
 			<h3 className="margin-y-50 text-center">9. Bảng tổng kết nhanh</h3>
 
-			<h4 className="margin-y-40">Loại mệnh đề: Trạng ngữ</h4>
+			<h4 className="margin-y-40">Loại câu con: Trạng ngữ</h4>
 
-			<p className="text-indent-whole">Chức năng: Bổ nghĩa động từ</p>
+			<p className="text-indent-whole">Chức năng: Bổ nghĩa động cơ</p>
 			<p className="text-indent-whole">Từ nối: because, if, when, although</p>
 					
 				<ul className="list-square">
@@ -689,9 +689,9 @@ export default function DependentClause7(): React.JSX.Element {
 				</ul>
 
 
-			<h4 className="margin-y-40">Loại mệnh đề: Tính cơ</h4>
+			<h4 className="margin-y-40">Loại câu con: Tính cơ</h4>
 
-			<p className="text-indent-whole">Chức năng: Bổ nghĩa danh từ</p>
+			<p className="text-indent-whole">Chức năng: Bổ nghĩa danh cơ</p>
 			<p className="text-indent-whole">Từ nối: who, which, that, whose</p>
 					
 				<ul className="list-square">
@@ -702,7 +702,7 @@ export default function DependentClause7(): React.JSX.Element {
 				</ul>
 			
 
-			<h4 className="margin-y-40">Loại mệnh đề: Danh cơ</h4>
+			<h4 className="margin-y-40">Loại câu con: Danh cơ</h4>
 
 			<p className="text-indent-whole">Chức năng: Chủ ngữ/Tân ngữ</p>
 			<p className="text-indent-whole">Từ nối: that, what, whether</p>
@@ -748,15 +748,15 @@ export default function DependentClause7(): React.JSX.Element {
 			
 				</ul>
 			
-			<p className="margin-top-20">Câu cuối có <strong>ba mệnh đề</strong>, hai mệnh đề phụ thuộc (because... và although...) và một mệnh đề tính từ (which...). Đây là mức độ <strong>người bản xứ</strong>.</p>
+			<p className="margin-top-20">Câu cuối có <strong>ba câu con</strong>, hai phụ câu (because... và although...) và một câu con tính cơ (which...). Đây là mức độ <strong>người bản xứ</strong>.</p>
 
 			{/* Kết luận */}
 
 			<h3 className="margin-y-50 text-center">Kết luận</h3>
 
-			<p>Phụ câu <strong>không thể đứng một mình</strong> — đó là đặc điểm xác định. Nhưng chính vì vậy, khi kết hợp với mệnh đề độc lập, nó tạo nên <strong>câu phức</strong> — công cụ mạnh nhất để viết tiếng Anh học thuật, mạch lạc và tự nhiên.</p>
+			<p>Phụ câu <strong>không thể đứng một mình</strong> — đó là đặc điểm xác định. Nhưng chính vì vậy, khi kết hợp với câu con độc lập, nó tạo nên <strong>câu phức</strong> — công cụ mạnh nhất để viết tiếng Anh học thuật, mạch lạc và tự nhiên.</p>
 
-			<p>Thành thạo mệnh đề phụ thuộc = Viết câu phức dễ dàng = Nâng band IELTS/TOEFL = Viết như người bản xứ.</p>
+			<p>Thành thạo phụ câu = Viết câu phức dễ dàng = Nâng band IELTS/TOEFL = Viết như người bản xứ.</p>
 
 			<p>Bắt đầu ngay hôm nay: Chọn <strong>although</strong>, viết 5 câu phức. Trong 7 ngày, bạn sẽ thấy sự khác biệt. Trong 30 ngày, bạn sẽ không còn viết câu đơn nữa.</p>
 

@@ -115,7 +115,7 @@ export default function Correctly2(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>"<strong>Correctly</strong>" thường được đặt trước động từ quá khứ phân từ để nhấn mạnh ý nghĩa của chúng.</li>
+          <li>"<strong>Correctly</strong>" thường được đặt trước động cơ quá khứ phân từ để nhấn mạnh ý nghĩa của chúng.</li>
 
           <li className="margin-bottom-20">Từ này thường được sử dụng trong các văn bản hướng dẫn, báo cáo hoặc các văn bản mang tính chuyên môn.</li>
 

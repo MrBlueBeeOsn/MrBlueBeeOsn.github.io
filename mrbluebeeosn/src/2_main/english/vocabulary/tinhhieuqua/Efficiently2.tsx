@@ -116,7 +116,7 @@ export default function Efficiently2(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>"<strong>Efficiently</strong>" thường được đặt trước động từ để nhấn mạnh tính chất hiệu quả của hành động đó.</li>
+          <li>"<strong>Efficiently</strong>" thường được đặt trước động cơ để nhấn mạnh tính chất hiệu quả của hành động đó.</li>
 
           <li className="margin-bottom-20">Từ này thường được sử dụng trong văn nói và văn viết để đánh giá cao một quá trình hoặc một người nào đó.</li>
 

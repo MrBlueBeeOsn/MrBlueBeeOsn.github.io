@@ -73,7 +73,7 @@ export default function AdjPlacement4(): React.JSX.Element {
 			
 				</ul>
 			
-			<p className="margin-top-20">Tính cơ đứng trước danh từ.</p>
+			<p className="margin-top-20">Tính cơ đứng trước danh cơ.</p>
 
 			<p>Trong khi tiếng Việt lại nói:</p>
 
@@ -100,7 +100,7 @@ export default function AdjPlacement4(): React.JSX.Element {
 
 			<h3 className="margin-y-50 text-center">1. Sai Lầm Lớn Nhất Của Người Học Tiếng Anh</h3>
 
-			<p className="margin-top-20">Phần lớn người học dành quá nhiều sự chú ý cho những tính từ đơn lẻ.</p>
+			<p className="margin-top-20">Phần lớn người học dành quá nhiều sự chú ý cho những tính cơ đơn lẻ.</p>
 			
 				<ul className="list-square">
 			
@@ -121,23 +121,23 @@ export default function AdjPlacement4(): React.JSX.Element {
 			
 				</ul>
 			
-			<p className="margin-top-20">Họ học cách đặt tính từ trước danh từ.</p>
+			<p className="margin-top-20">Họ học cách đặt tính cơ trước danh cơ.</p>
 
-			<p>Họ học cách dùng tính từ sau động từ be.</p>
+			<p>Họ học cách dùng tính cơ sau động cơ be.</p>
 
 			<p>Nhưng rất ít người được chỉ ra rằng:</p>
 			
 				<ul className="list-square">
-					<li className="list-none">Những tính từ đơn lẻ chỉ là tầng cơ bản nhất của ngôn ngữ.</li>
+					<li className="list-none">Những tính cơ đơn lẻ chỉ là tầng cơ bản nhất của ngôn ngữ.</li>
 				</ul>
 			
-			<p className="margin-top-20">Khi người bản ngữ muốn diễn đạt những ý tưởng phức tạp hơn, họ không còn phụ thuộc nhiều vào các tính từ ngắn nữa.</p>
+			<p className="margin-top-20">Khi người bản ngữ muốn diễn đạt những ý tưởng phức tạp hơn, họ không còn phụ thuộc nhiều vào các tính cơ ngắn nữa.</p>
 
 			<p>Thay vào đó, họ bắt đầu <strong>mở rộng thông tin</strong>.</p>
 
 			<p>Họ biến một từ mô tả thành cả một <strong>cụm mô tả</strong>.</p>
 
-			<p>Rồi biến một cụm mô tả thành cả một <strong>mệnh đề mô tả</strong>.</p>
+			<p>Rồi biến một cụm mô tả thành cả một <strong>câu con mô tả</strong>.</p>
 
 			<p>Và đó chính là lúc một cấu trúc cực kỳ quan trọng xuất hiện: <strong>Adjective Clause</strong>.</p>
 
@@ -189,7 +189,7 @@ export default function AdjPlacement4(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li><strong>Tính cơ</strong> đứng trước danh từ thường <strong>nhấn mạnh đặc điểm</strong>.</li>
+					<li><strong>Tính cơ</strong> đứng trước danh cơ thường <strong>nhấn mạnh đặc điểm</strong>.</li>
 			
 					<li><strong>Danh cơ</strong> đứng trước phần mô tả thường <strong>nhấn mạnh đối tượng</strong>.</li>
 			
@@ -197,7 +197,7 @@ export default function AdjPlacement4(): React.JSX.Element {
 			
 			<p className="margin-top-20">Và khi ngôn ngữ trở nên phức tạp hơn, người bản ngữ gần như luôn cần người nghe biết đối tượng trước.</p>
 
-			<p>Đó là lý do tại sao các cấu trúc mở rộng phía sau danh từ xuất hiện ở khắp mọi nơi.</p>
+			<p>Đó là lý do tại sao các cấu trúc mở rộng phía sau danh cơ xuất hiện ở khắp mọi nơi.</p>
 
 			{/* 3.  */}
 
@@ -277,13 +277,13 @@ export default function AdjPlacement4(): React.JSX.Element {
 
 			{/* 5.  */}
 
-			<h3 className="margin-y-50 text-center">5. Bộ Ba Mệnh Đề Thống Trị Tiếng Anh Nâng Cao</h3>
+			<h3 className="margin-y-50 text-center">5. Bộ Ba Câu Con Thống Trị Tiếng Anh Nâng Cao</h3>
 
-			<p>Nếu quan sát tiếng Anh học thuật, báo chí, sách chuyên ngành hay các bài viết chất lượng cao, bạn sẽ thấy phần lớn nội dung được xây dựng dựa trên ba loại mệnh đề.</p>
+			<p>Nếu quan sát tiếng Anh học thuật, báo chí, sách chuyên ngành hay các bài viết chất lượng cao, bạn sẽ thấy phần lớn nội dung được xây dựng dựa trên ba loại câu con.</p>
 
 			<h4 className="margin-y-40">1. Adjective Clause</h4>
 					
-			<p className="text-indent-whole">Dùng để mở rộng danh từ.</p>
+			<p className="text-indent-whole">Dùng để mở rộng danh cơ.</p>
 
 			<p className="text-indent-whole">Ví dụ:</p>
 			
@@ -327,7 +327,7 @@ export default function AdjPlacement4(): React.JSX.Element {
 
 			<h4 className="margin-y-40">3. Noun Clause</h4>
 					
-			<p className="text-indent-whole">Dùng để biến một ý tưởng thành danh từ.</p>
+			<p className="text-indent-whole">Dùng để biến một ý tưởng thành danh cơ.</p>
 			
 			<p className="text-indent-whole">Ví dụ:</p>
 			
@@ -351,7 +351,7 @@ export default function AdjPlacement4(): React.JSX.Element {
 
 			<h3 className="margin-y-50 text-center">6. Tại Sao Nên Bắt Đầu Với Adjective Clause?</h3>
 
-			<p>Bởi vì đây là mệnh đề gần gũi với người Việt nhất.</p>
+			<p>Bởi vì đây là câu con gần gũi với người Việt nhất.</p>
 
 			<p>Nó đồng bộ với cách tư duy tự nhiên của tiếng Việt:</p>
 
@@ -373,7 +373,7 @@ export default function AdjPlacement4(): React.JSX.Element {
 			
 				</ul>
 			
-			<p className="margin-top-20">Và đó chính là nền tảng để tiếp cận hai mệnh đề còn lại.</p>
+			<p className="margin-top-20">Và đó chính là nền tảng để tiếp cận hai câu con còn lại.</p>
 
 			<p>Một khi bộ não đã quen với việc xử lý các cấu trúc mở rộng, Adverbial Clause và Noun Clause sẽ không còn là những khái niệm xa lạ nữa.</p>
 			
@@ -402,7 +402,7 @@ export default function AdjPlacement4(): React.JSX.Element {
 
 			<h3 className="margin-y-50 text-center">Kết Luận</h3>
 
-			<p>Phần lớn người học dành nhiều năm để ghi nhớ rằng tính từ trong tiếng Anh đứng trước danh từ.</p>
+			<p>Phần lớn người học dành nhiều năm để ghi nhớ rằng tính cơ trong tiếng Anh đứng trước danh cơ.</p>
 
 			<p>Điều đó đúng.</p>
 

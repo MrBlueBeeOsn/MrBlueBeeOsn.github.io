@@ -21,7 +21,7 @@ export default function Bang30PhrasalVerbs(): React.JSX.Element {
 
 			<h4 className="margin-bottom-30 text-center">Phrasal Verbs trong tiếng Anh – Bí quyết nói tự nhiên như người bản xứ (Cập nhật 2026)</h4>
 
-			<p>Phrasal verbs là “vũ khí bí mật” giúp bạn nâng tầm tiếng Anh giao tiếp, đặc biệt trong IELTS Speaking, TOEIC Speaking hay cuộc sống hàng ngày. Đây là những cụm từ gồm <strong>động từ</strong> + <strong>giới từ</strong>/<strong>trạng từ</strong> (như up, down, out, on, off…), tạo nên nghĩa hoàn toàn mới, không đoán được từ nghĩa riêng lẻ.</p>
+			<p>Phrasal verbs là “vũ khí bí mật” giúp bạn nâng tầm tiếng Anh giao tiếp, đặc biệt trong IELTS Speaking, TOEIC Speaking hay cuộc sống hàng ngày. Đây là những cụm từ gồm <strong>động cơ</strong> + <strong>giới cơ</strong>/<strong>trạng cơ</strong> (như up, down, out, on, off…), tạo nên nghĩa hoàn toàn mới, không đoán được từ nghĩa riêng lẻ.</p>
 
 			<p className="margin-top-20">Ví dụ:</p>
 			
@@ -33,7 +33,7 @@ export default function Bang30PhrasalVerbs(): React.JSX.Element {
 			
 				</ul>
 
-			<p className="margin-top-20">Native speakers dùng phrasal verbs <strong>rất nhiều</strong> trong nói chuyện đời thường – khoảng 80% động từ trong hội thoại hàng ngày là phrasal verbs. Học chúng không chỉ giúp bạn nghe hiểu tốt hơn mà còn khiến câu nói của bạn tự nhiên, thân mật và ấn tượng hơn rất nhiều.</p>
+			<p className="margin-top-20">Native speakers dùng phrasal verbs <strong>rất nhiều</strong> trong nói chuyện đời thường – khoảng 80% động cơ trong hội thoại hàng ngày là phrasal verbs. Học chúng không chỉ giúp bạn nghe hiểu tốt hơn mà còn khiến câu nói của bạn tự nhiên, thân mật và ấn tượng hơn rất nhiều.</p>
 
 			<h3 className="margin-y-50 text-center">Tại sao phrasal verbs quan trọng trong năm 2026?</h3>
 					

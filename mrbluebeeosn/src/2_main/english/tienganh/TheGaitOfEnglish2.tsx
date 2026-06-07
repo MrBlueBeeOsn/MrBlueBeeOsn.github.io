@@ -102,7 +102,7 @@ export default function TheGaitOfEnglish2(): React.JSX.Element {
 			
 			<h3 className="margin-y-50 text-center">3. Từ gần đến xa, hướng về phía trước</h3>
 
-			<p>Điều kỳ diệu là: đường thẳng đứng này cũng chính là đường thẳng <strong>từ gần đến xa</strong>. Khi bắt đầu câu, bạn đang ở rất gần – gần với bản thân (chủ ngữ), gần với hành động (động từ). Càng về cuối, bạn càng đi xa – xa vào không gian (địa điểm), xa vào thời gian (khi nào).</p>
+			<p>Điều kỳ diệu là: đường thẳng đứng này cũng chính là đường thẳng <strong>từ gần đến xa</strong>. Khi bắt đầu câu, bạn đang ở rất gần – gần với bản thân (chủ ngữ), gần với hành động (động cơ). Càng về cuối, bạn càng đi xa – xa vào không gian (địa điểm), xa vào thời gian (khi nào).</p>
 
 			<p>Và tất cả đều <strong>hướng về phía trước</strong>. Không bao giờ lùi.</p>
 

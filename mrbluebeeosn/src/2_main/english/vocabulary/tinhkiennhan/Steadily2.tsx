@@ -116,7 +116,7 @@ export default function Steadily2(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>"<strong>Steadily</strong>" thường đứng trước động từ để bổ nghĩa.</li>
+          <li>"<strong>Steadily</strong>" thường đứng trước động cơ để bổ nghĩa.</li>
 
           <li className="margin-bottom-20">Từ này mang nghĩa về sự đều đặn, ổn định.</li>
 
