@@ -66,7 +66,7 @@ export default function EVAdjectiveClausesQuiz(): React.JSX.Element {
 				"when"
 			],
 			correctAnswer: 0,
-			explanation: "Trạng từ quan hệ chỉ nơi chốn, thay thế cho \"The restaurant\" (tương đương với cụm \"at which\")."
+			explanation: "Trạng cơ quan hệ chỉ nơi chốn, thay thế cho \"The restaurant\" (tương đương với cụm \"at which\")."
 		},
 		{
 			id: 5,
@@ -78,7 +78,7 @@ export default function EVAdjectiveClausesQuiz(): React.JSX.Element {
 				"who"
 			],
 			correctAnswer: 2,
-			explanation: "Trạng từ quan hệ chỉ thời gian, thay thế cho danh từ \"the day\"."
+			explanation: "Trạng cơ quan hệ chỉ thời gian, thay thế cho danh từ \"the day\"."
 		},
 		{
 			id: 6,
@@ -102,7 +102,7 @@ export default function EVAdjectiveClausesQuiz(): React.JSX.Element {
 				"when"
 			],
 			correctAnswer: 0,
-			explanation: "Trạng từ quan hệ chỉ lý do, thường đi kèm sau cụm từ danh từ \"The reason\"."
+			explanation: "Trạng cơ quan hệ chỉ lý do, thường đi kèm sau cụm từ danh từ \"The reason\"."
 		},
 		{
 			id: 8,

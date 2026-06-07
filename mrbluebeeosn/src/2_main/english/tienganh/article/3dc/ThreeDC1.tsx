@@ -65,7 +65,7 @@ export default function ThreeDC1(): React.ReactElement {
 
 			<p>Đừng nhìn các công thức ngữ pháp như những bóng ma đáng sợ. Hãy nhớ một nguyên lý tối thượng và cực kỳ đơn giản:</p>
 
-			<p className="margin-y-30 "><strong>BẢN CHẤT</strong>: Một <strong>Phụ câu</strong> thực chất chỉ là một <strong>Từ Loại</strong> đơn lẻ (Trạng từ, Tính từ, hoặc Danh từ) nhưng được phóng to lên thành một <strong>Câu con</strong> (tức là có <strong>chứa cả Chủ ngữ</strong> và <strong>Động từ bên trong</strong>).</p>
+			<p className="margin-y-30 "><strong>BẢN CHẤT</strong>: Một <strong>Phụ câu</strong> thực chất chỉ là một <strong>Từ Loại</strong> đơn lẻ (Trạng cơ, Tính cơ, hoặc Danh cơ) nhưng được phóng to lên thành một <strong>Câu con</strong> (tức là có <strong>chứa cả Chủ ngữ</strong> và <strong>Động cơ bên trong</strong>).</p>
 
 			<p>Người bản ngữ không nghĩ từng từ, họ nghĩ theo khối bối cảnh. Họ dùng bộ 3 Phụ câu này để lồng ghép thông tin, tạo ra sự liên kết logic, chặt chẽ mà những câu đơn lẻ không bao giờ làm được.</p>
 
@@ -79,7 +79,7 @@ export default function ThreeDC1(): React.ReactElement {
 
 			<h4 className="margin-y-40">1. Trạng câu (Adverbial Clause)</h4>
 					
-			<p className="text-indent-whole"><strong>Nhiệm vụ</strong>: Hoạt động y hệt như một Trạng từ. Nó đứng vào câu để giải thích bối cảnh cho Câu lớn, trả lời cho các câu hỏi: Khi nào? Tại sao? Như thế nào? Nếu... thì sao? Mặc dù thế nào?</p>
+			<p className="text-indent-whole"><strong>Nhiệm vụ</strong>: Hoạt động y hệt như một Trạng cơ. Nó đứng vào câu để giải thích bối cảnh cho Câu lớn, trả lời cho các câu hỏi: Khi nào? Tại sao? Như thế nào? Nếu... thì sao? Mặc dù thế nào?</p>
 
 			<p className="text-indent-whole"><strong>Cách nhận biết</strong>: Luôn bắt đầu bằng các Liên từ phụ thuộc:</p>
 			
@@ -112,7 +112,7 @@ export default function ThreeDC1(): React.ReactElement {
 					<li>She left <strong>early</strong>.</li>
 					<li className="margin-bottom-20 list-none">Cô ấy đã rời đi <strong>sớm</strong>.</li>
 
-					<li className="list-none">→ Trạng từ đơn chỉ thời gian</li>
+					<li className="list-none">→ Trạng cơ đơn chỉ thời gian</li>
 			
 				</ul>
 		
@@ -145,10 +145,10 @@ export default function ThreeDC1(): React.ReactElement {
 				<ul className="list-square">
 			
 					<li><strong>Nhiệm vụ</strong>:</li>
-					<li className="margin-bottom-20 list-none">Hoạt động y hệt như một <strong>Tính từ</strong>. Nhưng thay vì đứng trước danh từ như một tính từ ngắn thông thường, nó là một Câu con dài nên bắt buộc phải đứng <strong>ngay sau</strong> danh từ mà nó muốn bổ nghĩa để "vẽ" thêm chi tiết cho danh từ đó. Ngoài ra, nó còn mở rộng để bổ nghĩa cho cả một Tính từ đứng trước.</li>
+					<li className="margin-bottom-20 list-none">Hoạt động y hệt như một <strong>Tính cơ</strong>. Nhưng thay vì đứng trước danh từ như một tính từ ngắn thông thường, nó là một Câu con dài nên bắt buộc phải đứng <strong>ngay sau</strong> danh từ mà nó muốn bổ nghĩa để "vẽ" thêm chi tiết cho danh từ đó. Ngoài ra, nó còn mở rộng để bổ nghĩa cho cả một Tính cơ đứng trước.</li>
 			
 					<li><strong>Cách nhận biết</strong>:</li>
-					<li className="list-none">Luôn bắt đầu bằng các <strong>Đại từ quan hệ</strong> (who, whom, which, that, whose) hoặc <strong>Trạng từ quan hệ</strong> (where, when, why).</li>
+					<li className="list-none">Luôn bắt đầu bằng các <strong>Đại từ quan hệ</strong> (who, whom, which, that, whose) hoặc <strong>Trạng cơ quan hệ</strong> (where, when, why).</li>
 			
 				</ul>
 			
@@ -161,7 +161,7 @@ export default function ThreeDC1(): React.ReactElement {
 					<li>I met a <strong>smart</strong> man.</li>
 					<li className="margin-bottom-20 list-none">Tôi đã gặp một người đàn ông <strong>thông minh</strong>.</li>
 
-					<li className="list-none">→ Tính từ đứng trước danh từ "man"</li>
+					<li className="list-none">→ Tính cơ đứng trước danh từ "man"</li>
 			
 				</ul>
 		
@@ -194,7 +194,7 @@ export default function ThreeDC1(): React.ReactElement {
 				<ul className="list-square">
 			
 					<li><strong>Nhiệm vụ</strong>:</li>
-					<li className="margin-bottom-20 list-none">Hoạt động y hệt như một <strong>Danh từ</strong>. Trong tiếng Anh, danh từ làm được chức năng gì thì Danh câu cân được chức năng đó. Hai chức năng lớn nhất là làm <strong>Tân ngữ</strong> (đối tượng bị tác động) và làm <strong>Chủ ngữ</strong> (thực thể chính của câu).</li>
+					<li className="margin-bottom-20 list-none">Hoạt động y hệt như một <strong>Danh cơ</strong>. Trong tiếng Anh, danh từ làm được chức năng gì thì Danh câu cân được chức năng đó. Hai chức năng lớn nhất là làm <strong>Tân ngữ</strong> (đối tượng bị tác động) và làm <strong>Chủ ngữ</strong> (thực thể chính của câu).</li>
 			
 					<li><strong>Cách nhận biết</strong>:</li>
 					<li className="list-none">Thường bắt đầu bằng <strong>that</strong> (rằng), <strong>if</strong>/<strong>whether</strong> (liệu có... không), hoặc các từ hỏi <strong>Wh</strong>- (what, who, where, when, why, how).</li>
@@ -212,7 +212,7 @@ export default function ThreeDC1(): React.ReactElement {
 					<li>I know <strong>something</strong>.</li>
 					<li className="margin-bottom-20 list-none">Tôi biết <strong>một điều gì đó</strong>.</li>
 
-					<li className="list-none">→ Danh từ/Đại từ làm tân ngữ</li>
+					<li className="list-none">→ Danh cơ/Đại từ làm tân ngữ</li>
 			
 				</ul>
 
@@ -303,7 +303,7 @@ export default function ThreeDC1(): React.ReactElement {
 			
 					<li>I will call you <strong>when I arrive at the airport</strong>.</li>
 					<li className="list-none">Tôi sẽ gọi cho bạn <strong>khi tôi đến sân bay</strong>.</li>
-					<li className="margin-bottom-20 list-none"><strong>Mệnh đề trạng ngữ</strong> làm trạng từ cho động từ "call" hay cả câu.</li>
+					<li className="margin-bottom-20 list-none"><strong>Trạng câu</strong> làm trạng từ cho động từ "call" hay cả câu.</li>
 
 					<li className="margin-bottom-20 list-none">Phá án bằng mẹo thế thân: Thay bằng "then":</li>
 
@@ -336,7 +336,7 @@ export default function ThreeDC1(): React.ReactElement {
 			
 					<li>I don't know <strong>when the meeting will start</strong>.</li>
 					<li className="list-none">Tôi không biết <strong>khi nào cuộc họp sẽ bắt đầu</strong>.</li>
-					<li className="margin-bottom-20 list-none"><strong>Mệnh đề danh ngữ</strong> làm tân ngữ cho động từ "know".</li>
+					<li className="margin-bottom-20 list-none"><strong>Danh câu</strong> làm tân ngữ cho động từ "know".</li>
 
 					<li className="margin-bottom-20 list-none">Phá án bằng mẹo thế thân: Thay bằng "something/it":</li>
 
@@ -536,7 +536,7 @@ export default function ThreeDC1(): React.ReactElement {
 					<li className="margin-bottom-20 list-none">Hiếm khi anh ấy nhận ra được các quyết định của mình ảnh hưởng đến dự án nhiều đến thế nào.</li>
 					<li className="list-none"><strong>Phong cách</strong>: Đây là cấu trúc <strong>đảo ngữ</strong>. Việc đưa "Rarely" lên đầu câu như một lời cảnh báo hoặc nhấn mạnh về sự thiếu sót trong nhận thức. Trong các báo cáo công việc hoặc phân tích dự án, cách viết này nghe chuyên nghiệp và nghiêm túc hơn hẳn.</li>
 					<li className="list-none">Trợ động từ "does": Giống như ví dụ "Not only" trước đó, khi đảo trạng từ phủ định lên đầu, bạn bắt buộc phải mượn trợ động từ (does cho ngôi số ít).</li>
-					<li className="list-none">Động từ chính "realize": Phải trả về dạng nguyên thể (bỏ đuôi -s).</li>
+					<li className="list-none">Động cơ chính "realize": Phải trả về dạng nguyên thể (bỏ đuôi -s).</li>
 			
 				</ul>
 			

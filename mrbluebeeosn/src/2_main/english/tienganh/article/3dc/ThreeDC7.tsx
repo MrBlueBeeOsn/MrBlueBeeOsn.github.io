@@ -247,7 +247,7 @@ export default function ThreeDC7(): React.ReactElement {
 
 			{/* 3.  */}
 
-			<h3 className="margin-y-50 text-center">3. Mệnh đề danh từ (Noun Clause)</h3>
+			<h3 className="margin-y-50 text-center">3. Danh câu (Noun Clause)</h3>
 
 			<p></p>
 
@@ -582,7 +582,7 @@ export default function ThreeDC7(): React.ReactElement {
 
 			{/* 5.  */}
 
-			<h3 className="margin-y-50 text-center">5. Mệnh đề trạng ngữ (Adverbial Clause)</h3>
+			<h3 className="margin-y-50 text-center">5. Trạng câu (Adverbial Clause)</h3>
 
 			<p></p>
 
@@ -809,7 +809,7 @@ export default function ThreeDC7(): React.ReactElement {
 
 			<p></p>
 
-			<h4 className="margin-y-40">Mệnh đề danh từ (Noun Clause)</h4>
+			<h4 className="margin-y-40">Danh câu (Noun Clause)</h4>
 					
 			<p className="text-indent-whole"></p>
 
@@ -887,7 +887,7 @@ export default function ThreeDC7(): React.ReactElement {
 			<p className="margin-top-20 text-indent-whole"></p>
 
 
-			<h4 className="margin-y-40">Mệnh đề trạng ngữ (Adverbial Clause)</h4>
+			<h4 className="margin-y-40">Trạng câu (Adverbial Clause)</h4>
 					
 			<p className="text-indent-whole"></p>
 

@@ -17,7 +17,7 @@ export default function VietCumDongTuTiengAnh(): React.JSX.Element {
 		
 			<h4><HashLink smooth to="/tieng-anh#tieng-anh-terms"><mark className="highlight-tertiary-padding-4-8">Tiếng Anh</mark></HashLink></h4>
 			
-			<h1 className="margin-y-50 text-center">Hướng Dẫn Viết Cụm Động Từ
+			<h1 className="margin-y-50 text-center">Hướng Dẫn Viết Động Cụm
 
 				<sup><HashLink smooth to="/tieng-anh/huong-dan-viet-cum-danh-tu-tieng-anh">&nbsp;1&nbsp;</HashLink>
 				</sup>
@@ -37,7 +37,7 @@ export default function VietCumDongTuTiengAnh(): React.JSX.Element {
 
 					<span className="highlight-238-padding-4-8 text-border1">
 
-						<span className="highlight-255-padding-0-4">Động Từ</span> Viết Trước, <span className="highlight-255-padding-0-4">Trợ Động Từ</span> Viết Sau
+						<span className="highlight-255-padding-0-4">Động Cơ</span> Viết Trước, <span className="highlight-255-padding-0-4">Trợ Động Cơ</span> Viết Sau
 
 					</span>
 
@@ -115,7 +115,7 @@ export default function VietCumDongTuTiengAnh(): React.JSX.Element {
 
 					<ol>
 
-						<li>Động từ chính: <strong>beat</strong></li>
+						<li>Động cơ chính: <strong>beat</strong></li>
 
 						<li>Thêm bị động: <strong>beaten</strong></li>
 

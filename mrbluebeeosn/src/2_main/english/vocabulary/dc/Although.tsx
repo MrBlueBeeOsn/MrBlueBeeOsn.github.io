@@ -73,7 +73,7 @@ export default function Although(): React.JSX.Element {
           <li className="list-none">They decided to go on a picnic, <strong>______ the weather was disappointing</strong>.</li>
           <li className="margin-bottom-20 list-none">Họ đã quyết định đi dã ngoại, <strong>dẫu cho thời tiết thật đáng thất vọng</strong>.</li>
 
-          <li><strong>Though</strong> (Trạng từ) /ðəʊ/ (UK) hoặc /ðoʊ/ (US)</li>
+          <li><strong>Though</strong> (Trạng cơ) /ðəʊ/ (UK) hoặc /ðoʊ/ (US)</li>
           <li className="list-none">We completely forgot the map. We managed to find the hotel, ______.</li>
           <li className="margin-bottom-20 list-none">Chúng tôi đã hoàn toàn quên mang theo bản đồ. Dẫu vậy, chúng tôi vẫn tìm được khách sạn.</li>
 
@@ -127,7 +127,7 @@ export default function Although(): React.JSX.Element {
 
       <p className="margin-top-20"><strong>3. In spite of</strong> /ɪn spaɪt əv/</p>
 
-      <p className="text-indent-whole">Mặc dù; đây là một cụm giới từ, do đó theo sau nó phải là một Danh từ, Cụm danh từ hoặc V-ing (không đi với một mệnh đề).</p>
+      <p className="text-indent-whole">Mặc dù; đây là một cụm giới từ, do đó theo sau nó phải là một Danh cơ, Danh cụm hoặc V-ing (không đi với một mệnh đề).</p>
 
         <ul className="list-square">
 
@@ -142,7 +142,7 @@ export default function Although(): React.JSX.Element {
 
       <p className="margin-top-20"><strong>4. Despite</strong> /dɪˈspaɪt/</p>
 
-      <p className="text-indent-whole">Tương tự như "in spite of", đây là một giới từ mang sắc thái trang trọng hơn và theo sau bởi một Danh từ, Cụm danh từ hoặc V-ing.</p>
+      <p className="text-indent-whole">Tương tự như "in spite of", đây là một giới từ mang sắc thái trang trọng hơn và theo sau bởi một Danh cơ, Danh cụm hoặc V-ing.</p>
 
         <ul className="list-square">
 

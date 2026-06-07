@@ -85,7 +85,7 @@ export default function ThreeDC8(): React.ReactElement {
 
 			{/* 2.  */}
 
-			<h3 className="margin-y-50 text-center">2. Mệnh đề danh từ</h3>
+			<h3 className="margin-y-50 text-center">2. Danh câu</h3>
 
 			<p></p>
 
@@ -181,7 +181,7 @@ export default function ThreeDC8(): React.ReactElement {
 
 			{/* 4.  */}
 
-			<h3 className="margin-y-50 text-center">4. Mệnh đề trạng từ</h3>
+			<h3 className="margin-y-50 text-center">4. Trạng câu</h3>
 
 			<p></p>
 

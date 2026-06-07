@@ -65,23 +65,23 @@ export default function Attractive(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li><strong>Attractive</strong> (Tính từ) /əˈtræk.tɪv/</li>
+          <li><strong>Attractive</strong> (Tính cơ) /əˈtræk.tɪv/</li>
           <li className="list-none">He has a very ______ smile.</li>
           <li className="margin-bottom-20 list-none">Anh ấy có một nụ cười rất cuốn hút.</li>
 
-          <li><strong>Attract</strong> (Động từ) /əˈtrækt/</li>
+          <li><strong>Attract</strong> (Động cơ) /əˈtrækt/</li>
           <li className="list-none">Bright colors often ______ butterflies to the garden.</li>
           <li className="margin-bottom-20 list-none">Màu sắc rực rỡ thường thu hút bướm đến vườn.</li>
 
-          <li><strong>Attraction</strong> (Danh từ) /əˈtrækʃn/</li>
+          <li><strong>Attraction</strong> (Danh cơ) /əˈtrækʃn/</li>
           <li className="list-none">The Eiffel Tower is a major tourist ______ in Paris.</li>
           <li className="margin-bottom-20 list-none">Tháp Eiffel là một điểm thu hút khách du lịch lớn ở Paris.</li>
 
-          <li><strong>Attractiveness</strong> (Danh từ - Trừu tượng) /əˈtræktɪvnəs/</li>
+          <li><strong>Attractiveness</strong> (Danh cơ - Trừu tượng) /əˈtræktɪvnəs/</li>
           <li className="list-none">The physical ______ of the product design helped increase sales.</li>
           <li className="margin-bottom-20 list-none">Sự hấp dẫn về mặt hình thức của thiết kế sản phẩm đã giúp tăng doanh số bán hàng.</li>
 
-          <li><strong>Attractively</strong> (Trạng từ) /əˈtræktɪvli/</li>
+          <li><strong>Attractively</strong> (Trạng cơ) /əˈtræktɪvli/</li>
           <li className="list-none">The table was ______ decorated with flowers and candles.</li>
           <li className="list-none">Chiếc bàn được trang trí một cách lôi cuốn với hoa và nến.</li>
 

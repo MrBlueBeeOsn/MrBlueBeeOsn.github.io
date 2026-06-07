@@ -17,7 +17,7 @@ export default function SapXepCumDanhTuTiengAnh(): React.JSX.Element {
 		
 			<h4><HashLink smooth to="/tieng-anh#tieng-anh-terms"><mark className="highlight-tertiary-padding-4-8">Tiếng Anh</mark></HashLink></h4>
 			
-			<h1 className="margin-y-50 text-center">Hướng Dẫn Sắp Xếp Cụm Danh Từ
+			<h1 className="margin-y-50 text-center">Hướng Dẫn Sắp Xếp Danh Cụm
 
 				<sup><HashLink smooth to="/tieng-anh/huong-dan-sap-xep-cum-danh-tu-tieng-anh">&nbsp;1&nbsp;</HashLink>
 				</sup>
@@ -39,7 +39,7 @@ export default function SapXepCumDanhTuTiengAnh(): React.JSX.Element {
 			
 					<li>Bước 2: đặt <strong>danh từ chính</strong> vào <strong>bên phải</strong> cùng</li>
 			
-					<li className="list-none">→ Xong! Cụm danh từ đã đúng cấu trúc 100%.</li>
+					<li className="list-none">→ Xong! Danh cụm đã đúng cấu trúc 100%.</li>
 			
 				</ul>
 
@@ -47,7 +47,7 @@ export default function SapXepCumDanhTuTiengAnh(): React.JSX.Element {
 
 					<span className="highlight-238-padding-4-8 text-border1">
 
-						<span className="highlight-255-padding-0-4">Tính từ, mạo từ, số từ</span> đứng bên trái, <span className="highlight-255-padding-0-4">danh từ </span> đứng bên phải
+						<span className="highlight-255-padding-0-4">Tính cơ, mạo từ, số từ</span> đứng bên trái, <span className="highlight-255-padding-0-4">danh từ </span> đứng bên phải
 
 					</span>
 
@@ -81,9 +81,9 @@ export default function SapXepCumDanhTuTiengAnh(): React.JSX.Element {
 				
 						<li>Số từ (one, two, three…)</li>
 				
-						<li>Tính từ ý kiến (beautiful, cute, interesting…)</li>
+						<li>Tính cơ ý kiến (beautiful, cute, interesting…)</li>
 
-						<li>Tính từ kích thước, tuổi tác, hình dạng, màu sắc, nguồn gốc, chất liệu, mục đích…</li>
+						<li>Tính cơ kích thước, tuổi tác, hình dạng, màu sắc, nguồn gốc, chất liệu, mục đích…</li>
 				
 					</ul>
 				
@@ -97,7 +97,7 @@ export default function SapXepCumDanhTuTiengAnh(): React.JSX.Element {
 
 				<h3 className="margin-y-50 text-center">Bước 2: Đặt danh từ chính (head noun) vào bên phải cùng</h3>
 
-				<p>→ Cụm danh từ hoàn chỉnh.</p>
+				<p>→ Danh cụm hoàn chỉnh.</p>
 
 				<p className="margin-top-20">Ví dụ minh họa siêu nhanh</p>
 				
@@ -161,7 +161,7 @@ export default function SapXepCumDanhTuTiengAnh(): React.JSX.Element {
 
 				<ul className="list-square">
 
-					<li>Danh từ chính luôn là từ cuối cùng bên phải (không bao giờ đứng giữa hay đầu cụm).</li>
+					<li>Danh cơ chính luôn là từ cuối cùng bên phải (không bao giờ đứng giữa hay đầu cụm).</li>
 
 					<li>Mạo từ (a/an/the) và số từ luôn đứng xa nhất bên trái.</li>
 
@@ -175,9 +175,9 @@ export default function SapXepCumDanhTuTiengAnh(): React.JSX.Element {
 
 			<p>Chỉ cần nhớ một nguyên tắc duy nhất:</p>
 
-			<p><strong>Tính từ</strong> + <strong>mạo từ</strong> + <strong>số từ</strong> → gom hết <strong>bên trái</strong></p>
+			<p><strong>Tính cơ</strong> + <strong>mạo từ</strong> + <strong>số từ</strong> → gom hết <strong>bên trái</strong></p>
 
-			<p><strong>Danh từ chính</strong> → đặt <strong>bên phải</strong> cùng</p>
+			<p><strong>Danh cơ chính</strong> → đặt <strong>bên phải</strong> cùng</p>
 			
 			<p>Thực hành 10–15 cụm mỗi ngày theo 2 bước này, chỉ sau 1 tuần bạn sẽ tự động sắp xếp cụm danh từ tiếng Anh chuẩn như người bản ngữ mà không cần suy nghĩ nhiều!</p>
 

@@ -68,7 +68,7 @@ export default function AdjPlacement8(): React.JSX.Element {
 			
 			<p className="margin-top-20">Từ đó, não tự khóa lại một niềm tin:</p>
 
-			<p className="margin-y-20 text-indent-whole">Tính từ phải đứng trước danh từ.</p>
+			<p className="margin-y-20 text-indent-whole">Tính cơ phải đứng trước danh từ.</p>
 
 			<p>Niềm tin này đủ dùng cho câu đơn. Nhưng càng viết dài, càng thuyết trình, càng làm việc bằng tiếng Anh, niềm tin đó càng kéo lùi.</p>
 			
@@ -83,7 +83,7 @@ export default function AdjPlacement8(): React.JSX.Element {
 
 			<p>Ngôn ngữ là công cụ điều hướng sự chú ý. Tiếng Anh cho hai vị trí, mỗi vị trí là một lựa chọn nhấn.</p>
 
-			<h4 className="margin-y-40">Danh từ trước, tính từ sau – nhấn vào vật thể.</h4>
+			<h4 className="margin-y-40">Danh cơ trước, tính từ sau – nhấn vào vật thể.</h4>
 					
 			<p className="text-indent-whole">Bạn muốn người nghe biết đang nói về cái nào trước đã.</p>
 			
@@ -103,7 +103,7 @@ export default function AdjPlacement8(): React.JSX.Element {
 			<p className="margin-top-20 text-indent-whole">Trọng tâm nằm ở <strong>house</strong>, <strong>man</strong>, <strong>something</strong>. Phần sau chỉ là ống kính zoom vào.</p>
 
 			
-			<h4 className="margin-y-40">Tính từ trước danh từ – nhấn vào phẩm chất.</h4>
+			<h4 className="margin-y-40">Tính cơ trước danh từ – nhấn vào phẩm chất.</h4>
 					
 			<p className="text-indent-whole">Bạn muốn biến phẩm chất thành nhãn dán.</p>
 			

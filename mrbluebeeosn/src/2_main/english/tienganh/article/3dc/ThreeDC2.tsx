@@ -63,7 +63,7 @@ export default function ThreeDC2(): React.ReactElement {
 
 			<p></p>
 
-			<h4 className="margin-y-40">Mệnh đề danh từ (Noun clause)</h4>
+			<h4 className="margin-y-40">Danh câu (Noun clause)</h4>
 					
 			<p className="text-indent-whole"></p>
 
@@ -101,7 +101,7 @@ export default function ThreeDC2(): React.ReactElement {
 			<p className="margin-top-20"></p>
 
 
-			<h4 className="margin-y-40">Mệnh đề trạng từ (Adverb clause)</h4>
+			<h4 className="margin-y-40">Trạng câu (Adverb clause)</h4>
 					
 			<p className="text-indent-whole"></p>
 
@@ -144,7 +144,7 @@ export default function ThreeDC2(): React.ReactElement {
 			<p></p>
 
 
-			<h4 className="margin-y-40">1. Mệnh đề danh từ (Noun clause)</h4>
+			<h4 className="margin-y-40">1. Danh câu (Noun clause)</h4>
 
 			<p className="text-indent-whole">Dấu hiệu nhận biết:</p>
 
@@ -187,7 +187,7 @@ export default function ThreeDC2(): React.ReactElement {
 			<p className="text-indent-whole">Các cấu trúc mệnh đề danh ngữ này rất hữu ích để viết các bài chia sẻ quan điểm hoặc kinh nghiệm cá nhân một cách mạch lạc và có chiều sâu.</p>
 
 
-			<h4 className="margin-y-40">2. Mệnh đề tính từ (Adjective clause) – Mệnh đề quan hệ</h4>
+			<h4 className="margin-y-40">2. Mệnh đề tính từ (Adjective clause) – Tính câu</h4>
 					
 			<p className="text-indent-whole">Dấu hiệu nhận biết:</p>
 
@@ -217,7 +217,7 @@ export default function ThreeDC2(): React.ReactElement {
 
 
 
-			<h4 className="margin-y-40">3. Mệnh đề trạng từ (Adverb clause)</h4>
+			<h4 className="margin-y-40">3. Trạng câu (Adverb clause)</h4>
 
 			<p className="text-indent-whole">Dấu hiệu nhận biết:</p>
 

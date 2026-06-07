@@ -326,7 +326,7 @@ export default function ThreeDC9(): React.ReactElement {
 
 
 
-			<h4 className="margin-y-40">Nâng cao: Mệnh đề danh ngữ trong câu hỏi gián tiếp (Embedded Questions)</h4>
+			<h4 className="margin-y-40">Nâng cao: Danh câu trong câu hỏi gián tiếp (Embedded Questions)</h4>
 					
 			<p className="text-indent-whole"></p>
 

@@ -17,7 +17,7 @@ export default function NamDangDongTuVangRong1(): React.JSX.Element {
 		
 			<h4><HashLink smooth to="/tieng-anh#tieng-anh-terms"><mark className="highlight-tertiary-padding-4-8">Tiếng Anh</mark></HashLink></h4>
 
-			<h1 className="margin-y-50 text-center">5 Dạng Động Từ “Vàng Ròng
+			<h1 className="margin-y-50 text-center">5 Dạng Động Cơ “Vàng Ròng
 						
 				<sup><HashLink smooth to="/tieng-anh/5-dang-dong-tu-vang-rong-1">&nbsp;1&nbsp;</HashLink>
 				</sup>
@@ -37,7 +37,7 @@ export default function NamDangDongTuVangRong1(): React.JSX.Element {
 
 			<p>Hôm nay, chúng ta sẽ “lột xác” hoàn toàn cách nhìn về động từ tiếng Anh với bộ 5 “siêu sao” quyền lực nhất – dễ hiểu, dễ nhớ, và cực kỳ thực chiến. Không cần bảng biểu khô khan, chỉ là những câu chuyện đời thường bạn có thể áp dụng ngay hôm nay!</p>
 
-			<h3 className="margin-y-50 text-center">Bộ 5 Dạng “Vàng Ròng” Của Mọi Động Từ Tiếng Anh</h3>
+			<h3 className="margin-y-50 text-center">Bộ 5 Dạng “Vàng Ròng” Của Mọi Động Cơ Tiếng Anh</h3>
 
 			{/* 1. Dạng gốc */}
 
@@ -247,7 +247,7 @@ export default function NamDangDongTuVangRong1(): React.JSX.Element {
 
 			<p>Bạn chọn động từ nào để bắt đầu “level up” hôm nay? Work, eat, travel, love, sleep, dance…?</p>
 
-			<p><HashLink smooth to="/tieng-anh/5-dang-dong-tu-vang-rong-2#bang-vang-12-dong-tu">Bảng "Vàng" 12 Động Từ</HashLink> – Nắm Là Dùng Ngay</p>
+			<p><HashLink smooth to="/tieng-anh/5-dang-dong-tu-vang-rong-2#bang-vang-12-dong-tu">Bảng "Vàng" 12 Động Cơ</HashLink> – Nắm Là Dùng Ngay</p>
 
 			<p>Cứ chọn một cái và bắt đầu đi – mình tin bạn sẽ làm được! 💪✨</p>
 

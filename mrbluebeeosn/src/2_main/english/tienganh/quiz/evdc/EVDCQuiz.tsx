@@ -30,7 +30,7 @@ export default function EVDCQuiz(): React.JSX.Element {
 				"which"
 			],
 			correctAnswer: 1,
-			explanation: "Cụm từ \"whom she is planning to invite to the party\" là một Noun Clause (Mệnh đề danh ngữ) làm tân ngữ cho động từ \"know\". Trong mệnh đề phụ này, \"she\" là chủ ngữ và động từ \"invite\" cần một tân ngữ chỉ người đứng trước, do đó ta dùng \"whom\" thay vì \"who\" (làm chủ ngữ)."
+			explanation: "Cụm từ \"whom she is planning to invite to the party\" là một Noun Clause (Danh câu) làm tân ngữ cho động từ \"know\". Trong mệnh đề phụ này, \"she\" là chủ ngữ và động từ \"invite\" cần một tân ngữ chỉ người đứng trước, do đó ta dùng \"whom\" thay vì \"who\" (làm chủ ngữ)."
 		},
 		{
 			id: 2,
@@ -54,7 +54,7 @@ export default function EVDCQuiz(): React.JSX.Element {
 				"Despite"
 			],
 			correctAnswer: 1,
-			explanation: "Cụm \"Although he worked hard all day\" là một Adverb Clause of Concession (Mệnh đề trạng ngữ chỉ sự nhượng bộ). Ta chọn \"Although\" vì phía sau là một mệnh đề hoàn chỉnh (S + V) và mang ý nghĩa tương phản. \"Despite\" cũng mang nghĩa tương tự nhưng chỉ đi với cụm danh từ hoặc V-ing."
+			explanation: "Cụm \"Although he worked hard all day\" là một Adverb Clause of Concession (Trạng câu chỉ sự nhượng bộ). Ta chọn \"Although\" vì phía sau là một mệnh đề hoàn chỉnh (S + V) và mang ý nghĩa tương phản. \"Despite\" cũng mang nghĩa tương tự nhưng chỉ đi với cụm danh từ hoặc V-ing."
 		},
 		{
 			id: 4,
@@ -66,7 +66,7 @@ export default function EVDCQuiz(): React.JSX.Element {
 				"where"
 			],
 			correctAnswer: 0,
-			explanation: "Cụm \"why she left early\" là một Adjective Clause bổ nghĩa cho danh từ \"The reason\". Trạng từ quan hệ \"why\" được dùng để chỉ lý do cho danh từ đứng trước nó."
+			explanation: "Cụm \"why she left early\" là một Adjective Clause bổ nghĩa cho danh từ \"The reason\". Trạng cơ quan hệ \"why\" được dùng để chỉ lý do cho danh từ đứng trước nó."
 		},
 		{
 			id: 5,
@@ -78,7 +78,7 @@ export default function EVDCQuiz(): React.JSX.Element {
 				"however"
 			],
 			correctAnswer: 1,
-			explanation: "Cụm \"wherever you like\" là một Adverb Clause of Place (Mệnh đề trạng ngữ chỉ nơi chốn). \"Wherever\" có nghĩa là \"bất cứ nơi nào\", phù hợp nhất với ngữ cảnh chọn vị trí chỗ ngồi trong khán phòng."
+			explanation: "Cụm \"wherever you like\" là một Adverb Clause of Place (Trạng câu chỉ nơi chốn). \"Wherever\" có nghĩa là \"bất cứ nơi nào\", phù hợp nhất với ngữ cảnh chọn vị trí chỗ ngồi trong khán phòng."
 		},
 		{
 			id: 6,
@@ -114,7 +114,7 @@ export default function EVDCQuiz(): React.JSX.Element {
 				"has been"
 			],
 			correctAnswer: 2,
-			explanation: "Cụm \"as if she were the boss...\" là một Adverb Clause of Manner (Mệnh đề trạng ngữ chỉ cách thức) chứa cấu trúc giả định với \"as if\" (như thể là). Vì thực tế cô ấy không phải là sếp (trái thực tế ở hiện tại), động từ \"to be\" được chia thành \"were\" cho tất cả các ngôi."
+			explanation: "Cụm \"as if she were the boss...\" là một Adverb Clause of Manner (Trạng câu chỉ cách thức) chứa cấu trúc giả định với \"as if\" (như thể là). Vì thực tế cô ấy không phải là sếp (trái thực tế ở hiện tại), động từ \"to be\" được chia thành \"were\" cho tất cả các ngôi."
 		},
 		{
 			id: 9,
@@ -138,7 +138,7 @@ export default function EVDCQuiz(): React.JSX.Element {
 				"although"
 			],
 			correctAnswer: 0,
-			explanation: "Cụm \"as soon as it started raining heavily\" là một Adverb Clause of Time (Mệnh đề trạng ngữ chỉ thời gian). Liên từ \"as soon as\" (ngay khi) giúp câu diễn đạt đúng logic: hành động \"ở trong nhà\" diễn ra ngay tại thời điểm \"trời bắt đầu mưa to\"."
+			explanation: "Cụm \"as soon as it started raining heavily\" là một Adverb Clause of Time (Trạng câu chỉ thời gian). Liên từ \"as soon as\" (ngay khi) giúp câu diễn đạt đúng logic: hành động \"ở trong nhà\" diễn ra ngay tại thời điểm \"trời bắt đầu mưa to\"."
 		}
 	];
 

@@ -93,7 +93,7 @@ export default function BiMatVeTuDuyNgonNgu3(): React.JSX.Element {
 			
 			<h3 className="margin-y-50 text-center">4. Học cách "Cảm nhận" thay vì "Lắp ghép"</h3>
 
-			<p>Bí kíp để đạt được sự tự nhiên trong giao tiếp là hãy biến các cặp <strong>Trạng từ</strong> + <strong>Động từ</strong> thành những khối cảm xúc không thể tách rời (Emotion Chunks).</p>
+			<p>Bí kíp để đạt được sự tự nhiên trong giao tiếp là hãy biến các cặp <strong>Trạng cơ</strong> + <strong>Động cơ</strong> thành những khối cảm xúc không thể tách rời (Emotion Chunks).</p>
 
 			<p>Đừng học từ Suddenly (đột ngột) và Stop (dừng lại) như hai mảnh ghép rời rạc. Hãy nạp vào đầu hình ảnh của một "sự dừng lại đột ngột" (<strong>Suddenly stopped</strong>). Khi đó, mỗi khi bạn muốn diễn tả một sự thay đổi bất ngờ, trạng từ "Suddenly" sẽ tự động bật ra như một phản xạ tự nhiên để dọn đường cho hành động theo sau.</p>
 

@@ -67,7 +67,7 @@ export default function SuperWords9(): React.JSX.Element {
 
 			{/* 2.  */}
 
-			<h3 className="margin-y-50 text-center">2. Super-noun (Siêu Danh Từ): Mệnh Đề Danh Từ - Danh Từ Dài</h3>
+			<h3 className="margin-y-50 text-center">2. Super-noun (Siêu Danh Cơ): Mệnh Đề Danh Cơ - Danh Cơ Dài</h3>
 
 			<p></p>
 
@@ -185,7 +185,7 @@ export default function SuperWords9(): React.JSX.Element {
 
 			{/* 3.  */}
 
-			<h3 className="margin-y-50 text-center">3. Super-adjective (Siêu Tính Từ): Mệnh Đề Tính Từ - Tính Từ Dài</h3>
+			<h3 className="margin-y-50 text-center">3. Super-adjective (Siêu Tính Cơ): Mệnh Đề Tính Cơ - Tính Cơ Dài</h3>
 
 			<p></p>
 
@@ -300,7 +300,7 @@ export default function SuperWords9(): React.JSX.Element {
 
 			{/* 4.  */}
 
-			<h3 className="margin-y-50 text-center">4. Super-adverb (Siêu Trạng Từ): Mệnh Đề Trạng Từ - Trạng Từ Dài</h3>
+			<h3 className="margin-y-50 text-center">4. Super-adverb (Siêu Trạng Cơ): Mệnh Đề Trạng Cơ - Trạng Cơ Dài</h3>
 
 			<p></p>
 

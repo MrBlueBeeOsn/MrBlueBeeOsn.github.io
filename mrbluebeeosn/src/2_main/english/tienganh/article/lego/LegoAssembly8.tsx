@@ -67,7 +67,7 @@ export default function LegoAssembly8(): React.JSX.Element {
 
 			<h4 className="margin-y-40">2. Head – đầu máy mang thì</h4>
 				
-			<p className="text-indent-whole">Động từ đã chia. Head có hai dạng:</p>
+			<p className="text-indent-whole">Động cơ đã chia. Head có hai dạng:</p>
 		
 			<ul className="list-square">
 		

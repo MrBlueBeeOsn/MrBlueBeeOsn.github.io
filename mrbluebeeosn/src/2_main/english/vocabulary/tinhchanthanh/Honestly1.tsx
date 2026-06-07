@@ -43,7 +43,7 @@ export default function Honestly1(): React.JSX.Element {
               </span>
             </li>
 
-            <li>Trạng từ (<Link to="/grammar/what-is-an-adverb?">adverb</Link>)</li>
+            <li>Trạng cơ (<Link to="/grammar/what-is-an-adverb?">adverb</Link>)</li>
 
             <li>Một cách trung thực, thành thật</li>
 

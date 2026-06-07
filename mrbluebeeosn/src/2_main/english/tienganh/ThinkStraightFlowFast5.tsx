@@ -59,7 +59,7 @@ export default function ThinkStraightFlowFast5(): React.JSX.Element {
 			<p className="margin-top-20"><strong>Gấp 4 lần</strong>.</p>
 
 			<p>Một hôm tôi hỏi: "Hans, sao anh đọc nhanh vậy?"</p>
-			<p>Hans cười: "Dễ mà. Tiếng Đức giống tiếng Anh - đều là <strong>Tính từ</strong> + <strong>Danh từ</strong>. Tôi đọc thẳng từ trái sang phải thôi."</p>
+			<p>Hans cười: "Dễ mà. Tiếng Đức giống tiếng Anh - đều là <strong>Tính cơ</strong> + <strong>Danh cơ</strong>. Tôi đọc thẳng từ trái sang phải thôi."</p>
 
 			<p className="margin-top-20"><strong>Beautiful girl</strong> = <strong>Schönes Mädchen</strong> (Xinh đẹp cô gái)</p>
 
@@ -73,7 +73,7 @@ export default function ThinkStraightFlowFast5(): React.JSX.Element {
 					
 			<p>Tối đó tôi ngồi tra cứu. Phát hiện gây sốc:</p>
 
-			<p><strong>90% thế giới dùng</strong> "<strong>Tính từ</strong> + <strong>Danh từ</strong>":</p>
+			<p><strong>90% thế giới dùng</strong> "<strong>Tính cơ</strong> + <strong>Danh cơ</strong>":</p>
 			
 				<ul className="list-square">
 
@@ -88,7 +88,7 @@ export default function ThinkStraightFlowFast5(): React.JSX.Element {
 
 			<p className="margin-top-20">→ <strong>Hơn 5 tỷ người trên thế giới</strong>!</p>
 
-			<p>Chỉ 10% dùng "Danh từ + Tính từ":</p>
+			<p>Chỉ 10% dùng "Danh cơ + Tính cơ":</p>
 			
 				<ul className="list-square">
 
@@ -145,7 +145,7 @@ export default function ThinkStraightFlowFast5(): React.JSX.Element {
 					
 			<p>Bạn nghĩ thế?</p>
 
-			<p>Sai rồi! Tiếng Việt VỐN CÓ cấu trúc "Tính từ + Danh từ":</p>
+			<p>Sai rồi! Tiếng Việt VỐN CÓ cấu trúc "Tính cơ + Danh cơ":</p>
 			
 				<ul className="list-square">
 		
@@ -198,7 +198,7 @@ export default function ThinkStraightFlowFast5(): React.JSX.Element {
 					</tbody>
 				</table>
 			
-			<h4 className="margin-y-20">Cách 2: Danh từ hóa (tự nhiên hơn)</h4>
+			<h4 className="margin-y-20">Cách 2: Danh cơ hóa (tự nhiên hơn)</h4>
 
 				<table className="margin-top-20 margin-bottom-50">
 					<thead>
@@ -271,7 +271,7 @@ export default function ThinkStraightFlowFast5(): React.JSX.Element {
 
 			<h4 className="margin-bottom-20">Anh Tuấn - Lập trình viên, 29 tuổi</h4>
 
-			<p>"Làm việc với team Nhật. Họ đọc docs tiếng Anh siêu nhanh vì tiếng Nhật cũng 'Tính từ + Danh từ'.</p>
+			<p>"Làm việc với team Nhật. Họ đọc docs tiếng Anh siêu nhanh vì tiếng Nhật cũng 'Tính cơ + Danh cơ'.</p>
 
 			<p>Tôi tập đọc xuôi:</p>
 

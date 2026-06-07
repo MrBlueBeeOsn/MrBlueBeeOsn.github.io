@@ -126,7 +126,7 @@ export default function EVSingularPluralVerbsQuiz(): React.JSX.Element {
 				"was"
 			],
 			correctAnswer: 1,
-			explanation: "Danh từ tập hợp (team, family, staff) dùng động từ số nhiều khi muốn nhấn mạnh vào hành động riêng rẽ của từng thành viên trong nhóm (ở đây là đang tranh cãi lẫn nhau)."
+			explanation: "Danh cơ tập hợp (team, family, staff) dùng động từ số nhiều khi muốn nhấn mạnh vào hành động riêng rẽ của từng thành viên trong nhóm (ở đây là đang tranh cãi lẫn nhau)."
 		},
 		{
 			id: 10,

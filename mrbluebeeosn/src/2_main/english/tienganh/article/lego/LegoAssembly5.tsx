@@ -76,7 +76,7 @@ export default function LegoAssembly5(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>Hạt nhân — Động từ</li>
+					<li>Hạt nhân — Động cơ</li>
 					<li className="margin-bottom-20 list-none">Mang chỉ dấu thời gian</li>
 			
 				</ul>

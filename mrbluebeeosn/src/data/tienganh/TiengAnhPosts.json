@@ -40,7 +40,7 @@
 			"id": "SauDangDongTuTiengAnh1",
 			"categoryDisplay": "Tiếng Anh",
 			"categorySlug": "tieng-anh",
-			"title": "6 Dạng Động Từ Tiếng Anh",
+			"title": "6 Dạng Động Cơ Tiếng Anh",
 			"content": "Bạn vừa phát hiện ra một sự thật thú vị: động từ tiếng Anh không chỉ có 3 hay 4 dạng như nhiều người vẫn nghĩ… mà thực tế có tới 6 dạng cơ bản mà ai học tiếng Anh nghiêm túc cũng nên nắm chắc!",
 			"slug": "tieng-anh/6-dang-dong-tu-tieng-anh-1",
 			"date": "2025-12-28"
@@ -49,7 +49,7 @@
 			"id": "SauDangDongTuTiengAnh2",
 			"categoryDisplay": "Tiếng Anh",
 			"categorySlug": "tieng-anh",
-			"title": "6 Dạng Động Từ Tiếng Anh",
+			"title": "6 Dạng Động Cơ Tiếng Anh",
 			"content": "Hôm nay, chúng ta sẽ cùng “mở kho báu” này một cách vui vẻ, dễ hiểu và cực kỳ thực tế. Khi bạn nắm được bộ 6 dạng này, bạn sẽ tự tin nói, viết, nghe, đọc mà không còn lo “sai chia động từ” nữa.",
 			"slug": "tieng-anh/6-dang-dong-tu-tieng-anh-2",
 			"date": "2025-12-27"
@@ -95,7 +95,7 @@
 			"categoryDisplay": "Tiếng Anh",
 			"categorySlug": "tieng-anh",
 			"title": "Quiz",
-			"content": "Trắc Nghiệm Phrasal Verbs / Cụm Động Từ Tiếng Anh",
+			"content": "Trắc Nghiệm Phrasal Verbs / Động Cụm Tiếng Anh",
 			"slug": "tieng-anh/phrasal-verbs-quiz",
 			"date": "2025-12-10"
 		},
@@ -130,8 +130,8 @@
 			"id": "NhanBietTinhTuTiengAnh",
 			"categoryDisplay": "Tiếng Anh",
 			"categorySlug": "tieng-anh",
-			"title": "Bí Quyết Nhận Biết Tính Từ Trong Tiếng Anh",
-			"content": "“Tính từ thường được tạo ra từ danh từ hoặc động từ bằng cách thêm hậu tố. Mỗi hậu tố mang một ý nghĩa đặc trưng, giúp ta nhanh chóng nhận diện vai trò của từ trong câu.",
+			"title": "Bí Quyết Nhận Biết Tính Cơ Trong Tiếng Anh",
+			"content": "“Tính cơ thường được tạo ra từ danh từ hoặc động từ bằng cách thêm hậu tố. Mỗi hậu tố mang một ý nghĩa đặc trưng, giúp ta nhanh chóng nhận diện vai trò của từ trong câu.",
 			"slug": "tieng-anh/bi-quyet-nhan-biet-tinh-tu-trong-tieng-anh",
 			"date": "2025-12-29"
 		},
@@ -212,7 +212,7 @@
 			"categoryDisplay": "Tiếng Anh",
 			"categorySlug": "tieng-anh",
 			"title": "Bảng động từ bất quy tắc phổ biến nhất",
-			"content": "Động từ bất quy tắc (irregular verbs) là “cơn ác mộng” của rất nhiều người học tiếng Anh, vì chúng không theo quy tắc thêm -ed như động từ thường. Tuy nhiên, chỉ cần nắm vững khoảng 60–70 động từ phổ biến nhất, bạn đã có thể giao tiếp tự tin, viết email chuyên nghiệp, thi IELTS/TOEIC đạt điểm cao và thậm chí nói chuyện như người bản xứ ở mức trung cấp – cao cấp.",
+			"content": "Động cơ bất quy tắc (irregular verbs) là “cơn ác mộng” của rất nhiều người học tiếng Anh, vì chúng không theo quy tắc thêm -ed như động từ thường. Tuy nhiên, chỉ cần nắm vững khoảng 60–70 động từ phổ biến nhất, bạn đã có thể giao tiếp tự tin, viết email chuyên nghiệp, thi IELTS/TOEIC đạt điểm cao và thậm chí nói chuyện như người bản xứ ở mức trung cấp – cao cấp.",
 			"slug": "tieng-anh/bang-dong-tu-bat-quy-tac-pho-bien",
 			"date": "2026-01-05"
 		},
@@ -248,7 +248,7 @@
 			"categoryDisplay": "Tiếng Anh",
 			"categorySlug": "tieng-anh",
 			"title": "Think Straight FlowFast",
-			"content": "Bí Quyết \"Hack\" Tiếng Anh Cho Người Việt: Đặt Tính Từ Trước Danh Từ Ngay Từ Tư Duy Tiếng Việt – Cách Học Siêu Hiệu Quả Mà Ít Ai Biết!",
+			"content": "Bí Quyết \"Hack\" Tiếng Anh Cho Người Việt: Đặt Tính Cơ Trước Danh Cơ Ngay Từ Tư Duy Tiếng Việt – Cách Học Siêu Hiệu Quả Mà Ít Ai Biết!",
 			"slug": "tieng-anh/think-straight-flow-fast-3",
 			"date": "2026-01-12"
 		},
@@ -752,7 +752,7 @@
 			"categoryDisplay": "Tiếng Anh",
 			"categorySlug": "tieng-anh",
 			"title": "Adjective Placement 3",
-			"content": "Bí Quyết Tiếng Anh Đẳng Cấp: Khi “Tính Từ Dài” Làm Tiếng Anh Trở Nên Gần Gũi Với Tiếng Việt",
+			"content": "Bí Quyết Tiếng Anh Đẳng Cấp: Khi “Tính Cơ Dài” Làm Tiếng Anh Trở Nên Gần Gũi Với Tiếng Việt",
 			"slug": "tieng-anh/adj-placement-3",
 			"date": "2026-06-01"
 		},
@@ -779,7 +779,7 @@
 			"categoryDisplay": "Tiếng Anh",
 			"categorySlug": "tieng-anh",
 			"title": "Adjective Placement 6",
-			"content": "Danh từ trước, tính từ sau — Chiến lược tư duy giúp người Việt chinh phục tiếng Anh",
+			"content": "Danh cơ trước, tính từ sau — Chiến lược tư duy giúp người Việt chinh phục tiếng Anh",
 			"slug": "tieng-anh/adj-placement-6",
 			"date": "2026-06-01"
 		},
@@ -788,7 +788,7 @@
 			"categoryDisplay": "Tiếng Anh",
 			"categorySlug": "tieng-anh",
 			"title": "Adjective Placement 7",
-			"content": "Danh từ trước — mô tả sau: Chìa khóa đẳng cấp giúp người Việt làm chủ tiếng Anh nhanh hơn bạn nghĩ",
+			"content": "Danh cơ trước — mô tả sau: Chìa khóa đẳng cấp giúp người Việt làm chủ tiếng Anh nhanh hơn bạn nghĩ",
 			"slug": "tieng-anh/adj-placement-7",
 			"date": "2026-06-01"
 		},
@@ -806,7 +806,7 @@
 			"categoryDisplay": "Tiếng Anh",
 			"categorySlug": "tieng-anh",
 			"title": "Adjective Placement 9",
-			"content": "\"Danh Từ Trước, Mô Tả Sau\" – Chìa Khóa Vàng Mở Ra Tiềm Năng Ngôn Ngữ Vượt Trội Của Người Việt!",
+			"content": "\"Danh Cơ Trước, Mô Tả Sau\" – Chìa Khóa Vàng Mở Ra Tiềm Năng Ngôn Ngữ Vượt Trội Của Người Việt!",
 			"slug": "tieng-anh/adj-placement-9",
 			"date": "2026-06-01"
 		},
@@ -914,7 +914,7 @@
 			"categoryDisplay": "Tiếng Anh",
 			"categorySlug": "tieng-anh",
 			"title": "Super Words 3",
-			"content": "Super Words 3: Siêu Danh Từ, Siêu Tính Từ, Siêu Trạng Từ – Cách Gọi Mới Giúp Học Mệnh Đề Tiếng Anh Dễ Hơn",
+			"content": "Super Words 3: Siêu Danh Cơ, Siêu Tính Cơ, Siêu Trạng Cơ – Cách Gọi Mới Giúp Học Mệnh Đề Tiếng Anh Dễ Hơn",
 			"slug": "tieng-anh/super-words-3",
 			"date": "2026-06-03"
 		},
@@ -923,7 +923,7 @@
 			"categoryDisplay": "Tiếng Anh",
 			"categorySlug": "tieng-anh",
 			"title": "Super Words 4",
-			"content": "Super Words 4: Siêu Danh Từ, Siêu Tính Từ Và Siêu Trạng Từ: Một Cách Nhìn Mới Về Mệnh Đề Tiếng Anh",
+			"content": "Super Words 4: Siêu Danh Cơ, Siêu Tính Cơ Và Siêu Trạng Cơ: Một Cách Nhìn Mới Về Mệnh Đề Tiếng Anh",
 			"slug": "tieng-anh/super-words-4",
 			"date": "2026-06-04"
 		},
@@ -932,7 +932,7 @@
 			"categoryDisplay": "Tiếng Anh",
 			"categorySlug": "tieng-anh",
 			"title": "Super Words 5",
-			"content": "Super Words 5: Siêu Danh Từ, Siêu Tính Từ, Siêu Trạng Từ — Cách hiểu mệnh đề phụ mà không cần học thuộc lòng",
+			"content": "Super Words 5: Siêu Danh Cơ, Siêu Tính Cơ, Siêu Trạng Cơ — Cách hiểu mệnh đề phụ mà không cần học thuộc lòng",
 			"slug": "tieng-anh/super-words-5",
 			"date": "2026-06-04"
 		},
@@ -941,7 +941,7 @@
 			"categoryDisplay": "Tiếng Anh",
 			"categorySlug": "tieng-anh",
 			"title": "Super Words 6",
-			"content": "Super Words 6: Siêu Danh Từ Siêu Tính Từ Siêu Trạng Từ",
+			"content": "Super Words 6: Siêu Danh Cơ Siêu Tính Cơ Siêu Trạng Cơ",
 			"slug": "tieng-anh/super-words-6",
 			"date": "2026-06-04"
 		},
@@ -950,7 +950,7 @@
 			"categoryDisplay": "Tiếng Anh",
 			"categorySlug": "tieng-anh",
 			"title": "Super Words 7",
-			"content": "Super Words 7: Siêu Danh Từ, Siêu Tính Từ, Siêu Trạng Từ: Cách Gọi Song Ngữ Thông Minh Để \"Bẻ Gãy\" Mệnh Đề Tiếng Anh",
+			"content": "Super Words 7: Siêu Danh Cơ, Siêu Tính Cơ, Siêu Trạng Cơ: Cách Gọi Song Ngữ Thông Minh Để \"Bẻ Gãy\" Mệnh Đề Tiếng Anh",
 			"slug": "tieng-anh/super-words-7",
 			"date": "2026-06-05"
 		},

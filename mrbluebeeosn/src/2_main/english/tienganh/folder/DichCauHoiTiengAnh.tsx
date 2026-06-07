@@ -65,7 +65,7 @@ export default function DichCauHoiTiengAnh(): React.JSX.Element {
 
 					<li><strong>Chủ từ</strong> (<strong>subject</strong>): Thành phần thực hiện hành động, đứng sau hỏi từ và trợ động từ (hoặc động từ chính nếu không có trợ động từ).</li>
 
-					<li><strong>Động từ chính</strong> (<strong>main verb</strong>): Mang ý nghĩa chính của hành động hoặc trạng thái.</li>
+					<li><strong>Động cơ chính</strong> (<strong>main verb</strong>): Mang ý nghĩa chính của hành động hoặc trạng thái.</li>
 
 					<li><strong>Các bổ ngữ hoặc trạng từ</strong>: Bổ sung ý nghĩa về cách thức, thời gian, địa điểm, hoặc mức độ, thường đứng cuối câu.</li>
 
@@ -79,7 +79,7 @@ export default function DichCauHoiTiengAnh(): React.JSX.Element {
 
 						<li>Hỏi từ: <strong>What</strong> (trong dấu []).</li>
 
-						<li>Động từ chính: <strong>is</strong> (không có trợ động từ).</li>
+						<li>Động cơ chính: <strong>is</strong> (không có trợ động từ).</li>
 						
 						<li>Chủ từ: <strong>English</strong>.</li>
 
@@ -109,7 +109,7 @@ export default function DichCauHoiTiengAnh(): React.JSX.Element {
 
 						<li>Hỏi từ: <strong>What</strong>.</li>
 
-						<li>Động từ chính: <strong>is</strong> (không có trợ động từ).</li>
+						<li>Động cơ chính: <strong>is</strong> (không có trợ động từ).</li>
 
 						<li>Chủ từ: <strong>English</strong>.</li>
 
@@ -125,9 +125,9 @@ export default function DichCauHoiTiengAnh(): React.JSX.Element {
 						
 						<li>Chủ từ: <strong>she</strong>.</li>
 
-						<li>Động từ chính: <strong>live</strong>.</li>
+						<li>Động cơ chính: <strong>live</strong>.</li>
 
-						<li>Trạng từ: <strong>now</strong>.</li>
+						<li>Trạng cơ: <strong>now</strong>.</li>
 
 					</ul>
 
@@ -211,9 +211,9 @@ export default function DichCauHoiTiengAnh(): React.JSX.Element {
 
 						<li>Trong dấu ngoặc đơn: <strong>she</strong> (cô ấy, đã dịch), <strong>does</strong> (thường không dịch trực tiếp, thể hiện qua ngữ pháp).</li>
 
-						<li>Động từ chính: <strong>live</strong> → sống.</li>
+						<li>Động cơ chính: <strong>live</strong> → sống.</li>
 
-						<li>Trạng từ: <strong>now</strong> → bây giờ.</li>
+						<li>Trạng cơ: <strong>now</strong> → bây giờ.</li>
 
 						<li>Kết quả tạm thời: cô ấy sống bây giờ.</li>
 
@@ -265,9 +265,9 @@ export default function DichCauHoiTiengAnh(): React.JSX.Element {
 
 					<li>Trợ động từ: <strong>did</strong> (thường không dịch trực tiếp, thể hiện qua thì quá khứ).</li>
 
-					<li>Động từ chính: <strong>run</strong> → chạy.</li>
+					<li>Động cơ chính: <strong>run</strong> → chạy.</li>
 
-					<li>Trạng từ và bổ ngữ: <strong>quickly</strong> (nhanh chóng), <strong>to the station</strong> (đến nhà ga).</li>
+					<li>Trạng cơ và bổ ngữ: <strong>quickly</strong> (nhanh chóng), <strong>to the station</strong> (đến nhà ga).</li>
 
 					<li>Hỏi từ: <strong>Why</strong> → tại sao.</li>
 
@@ -283,7 +283,7 @@ export default function DichCauHoiTiengAnh(): React.JSX.Element {
 
 					<li>Trợ động từ: <strong>can</strong> → có thể.</li>
 
-					<li>Động từ chính: <strong>solve</strong> → giải quyết.</li>
+					<li>Động cơ chính: <strong>solve</strong> → giải quyết.</li>
 
 					<li>Bổ ngữ: <strong>the problem</strong> (vấn đề), <strong>effectively</strong> (hiệu quả).</li>
 
@@ -301,7 +301,7 @@ export default function DichCauHoiTiengAnh(): React.JSX.Element {
 
 					<li>Trợ động từ: <strong>will</strong> → sẽ.</li>
 
-					<li>Động từ chính: <strong>arrive</strong> → đến.</li>
+					<li>Động cơ chính: <strong>arrive</strong> → đến.</li>
 
 					<li>Bổ ngữ: <strong>at the airport</strong> (tại sân bay).</li>
 
@@ -319,7 +319,7 @@ export default function DichCauHoiTiengAnh(): React.JSX.Element {
 
 					<li>Trợ động từ (như <strong>do</strong>, <strong>does</strong>, <strong>did</strong>) hỗ trợ cấu trúc ngữ pháp và thường không dịch trực tiếp mà được thể hiện qua thì hoặc ngữ cảnh.</li>
 
-					<li>Động từ chính (như <strong>is</strong>, <strong>are</strong>, <strong>am</strong> trong vai trò động từ <strong>to be</strong>, hoặc các động từ hành động như <strong>run</strong>, <strong>solve</strong>) mang ý nghĩa chính và được dịch rõ ràng.</li>
+					<li>Động cơ chính (như <strong>is</strong>, <strong>are</strong>, <strong>am</strong> trong vai trò động từ <strong>to be</strong>, hoặc các động từ hành động như <strong>run</strong>, <strong>solve</strong>) mang ý nghĩa chính và được dịch rõ ràng.</li>
 
 					<li>Trong các câu hỏi như [<strong>What</strong>] (<strong>is English</strong>)?, <strong>is</strong> là động từ chính, không phải trợ động từ.</li>
 

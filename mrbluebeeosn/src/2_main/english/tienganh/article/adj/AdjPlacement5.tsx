@@ -94,7 +94,7 @@ export default function AdjPlacement5(): React.JSX.Element {
 					<li>A beautiful house.</li>
 					<li className="margin-bottom-20 list-none">Một ngôi nhà đẹp.</li>
 
-					<li className="list-none">Tính từ ngắn, đứng trước danh từ. Nhấn mạnh đặc tính.</li>
+					<li className="list-none">Tính cơ ngắn, đứng trước danh từ. Nhấn mạnh đặc tính.</li>
 			
 				</ul>
 
@@ -113,7 +113,7 @@ export default function AdjPlacement5(): React.JSX.Element {
 
 			<p>Não bộ người học lặng lẽ kết luận:</p>
 
-			<p>"<strong>Tính từ trong tiếng Anh phải ngắn</strong>, <strong>phải đứng trước</strong>."</p>
+			<p>"<strong>Tính cơ trong tiếng Anh phải ngắn</strong>, <strong>phải đứng trước</strong>."</p>
 
 			<p>Rồi khi gặp tiếng Anh thực tế — báo, sách, podcast, bài phát biểu — họ gặp một cấu trúc khác hoàn toàn mà không ai chuẩn bị cho họ. Và họ hoảng loạn, dù cấu trúc đó thực ra rất quen thuộc.</p>
 
@@ -133,17 +133,17 @@ export default function AdjPlacement5(): React.JSX.Element {
 					<li>the man <strong>whom I met yesterday</strong></li>
 					<li className="list-none">người đàn ông <strong>mà tôi gặp hôm qua</strong></li>
 					<li className="list-none">Noun → Adjective Clause</li>
-					<li className="margin-bottom-20 list-none">Danh từ → mệnh đề mô tả</li>
+					<li className="margin-bottom-20 list-none">Danh cơ → mệnh đề mô tả</li>
 			
 					<li>the decision <strong>that the board made</strong></li>
 					<li className="list-none">quyết định <strong>mà ban lãnh đạo đưa ra</strong></li>
 					<li className="list-none">Noun → Adjective Clause</li>
-					<li className="margin-bottom-20 list-none">Danh từ → mệnh đề mô tả</li>
+					<li className="margin-bottom-20 list-none">Danh cơ → mệnh đề mô tả</li>
 			
 					<li>the idea <strong>that we discussed</strong></li>
 					<li className="list-none">ý tưởng <strong>mà chúng tôi đã bàn</strong></li>
 					<li className="list-none">Noun → Adjective Clause</li>
-					<li className="list-none">Danh từ → mệnh đề mô tả</li>
+					<li className="list-none">Danh cơ → mệnh đề mô tả</li>
 			
 				</ul>
 			
@@ -363,7 +363,7 @@ export default function AdjPlacement5(): React.JSX.Element {
 			
 					<li className="margin-bottom-20 list-none">"<strong>What surprised everyone</strong> [Noun Clause] was the speed at which the company <strong>that had been struggling for years</strong> [Adjective Clause] recovered, <strong>even though the market conditions were unfavorable</strong> [Adverbial Clause]."</li>
 
-					<li className="list-none">"<strong>Những điều đã làm mọi người ngạc nhiên</strong> [Mệnh đề danh ngữ] là tốc độ mà tại đó công ty, <strong>cái mà đã đang chật vật trong nhiều năm</strong> [Mệnh đề tính ngữ], đã phục hồi, <strong>mặc dù các điều kiện thị trường đã không thuận lợi</strong> [Mệnh đề trạng ngữ]."</li>
+					<li className="list-none">"<strong>Những điều đã làm mọi người ngạc nhiên</strong> [Danh câu] là tốc độ mà tại đó công ty, <strong>cái mà đã đang chật vật trong nhiều năm</strong> [Mệnh đề tính ngữ], đã phục hồi, <strong>mặc dù các điều kiện thị trường đã không thuận lợi</strong> [Trạng câu]."</li>
 			
 				</ul>
 			
@@ -391,7 +391,7 @@ export default function AdjPlacement5(): React.JSX.Element {
 					
 			<p className="text-indent-whole">Cấu trúc câu phức tiếng Việt gần tiếng Anh hơn nhiều ngôn ngữ Đông Nam Á khác</p>
 
-			<p className="text-indent-whole">Cấu trúc Danh từ + Mệnh đề mô tả trong tiếng Việt vận hành theo đúng logic của Adjective Clause. Người Việt có nền tảng tư duy tự nhiên mà nhiều người học trong khu vực không có.</p>
+			<p className="text-indent-whole">Cấu trúc Danh cơ + Mệnh đề mô tả trong tiếng Việt vận hành theo đúng logic của Adjective Clause. Người Việt có nền tảng tư duy tự nhiên mà nhiều người học trong khu vực không có.</p>
 
 
 			<h4 className="margin-y-40">Điều cần thay đổi</h4>
@@ -420,7 +420,7 @@ export default function AdjPlacement5(): React.JSX.Element {
 
 			<h3 className="margin-y-50 text-center">Để kết lại</h3>
 
-			<p>Tiếng Anh nâng cao vận hành theo cấu trúc <strong>Danh từ</strong> + <strong>Tính từ mở rộng</strong> — đúng như tiếng Việt. <strong>Adjective Clause</strong> là biểu hiện rõ nhất của logic đó, và nó là công cụ người bản ngữ dùng liên tục trong mọi văn bản phức tạp.</p>
+			<p>Tiếng Anh nâng cao vận hành theo cấu trúc <strong>Danh cơ</strong> + <strong>Tính cơ mở rộng</strong> — đúng như tiếng Việt. <strong>Adjective Clause</strong> là biểu hiện rõ nhất của logic đó, và nó là công cụ người bản ngữ dùng liên tục trong mọi văn bản phức tạp.</p>
 
 			<p>Khi người Việt nhận ra điều này và bắt đầu chủ động dùng Adjective Clause, không chỉ kỹ năng viết cải thiện — <strong>mà Adverbial Clause và Noun Clause cũng sẽ quen dần theo</strong>. Vì khi bạn đã hiểu một, bạn đã hiểu nguyên lý chung của cả ba.</p>
 

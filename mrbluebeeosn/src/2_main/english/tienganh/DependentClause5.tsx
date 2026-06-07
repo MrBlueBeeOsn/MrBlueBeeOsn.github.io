@@ -166,7 +166,7 @@ export default function DependentClause5(): React.JSX.Element {
 					
 				<p className="text-indent-whole">Hỏi:&nbsp;
 
-					<span className="pill p">Danh từ nào</span>&nbsp;
+					<span className="pill p">Danh cơ nào</span>&nbsp;
 					<span className="pill p">cái nào</span>&nbsp;
 					?
 					

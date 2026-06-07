@@ -66,7 +66,7 @@ export default function TracNghiemNguPhapTiengAnh(): React.JSX.Element {
 				"told"
 			],
 			correctAnswer: 2,
-			explanation: "Động từ deny (phủ nhận) luôn theo sau bởi một Gerund (V-ing). Trong trường hợp này, dùng Gerund hoàn thành (having told) để nhấn mạnh rằng hành động kể bí mật xảy ra trước hành động phủ nhận."
+			explanation: "Động cơ deny (phủ nhận) luôn theo sau bởi một Gerund (V-ing). Trong trường hợp này, dùng Gerund hoàn thành (having told) để nhấn mạnh rằng hành động kể bí mật xảy ra trước hành động phủ nhận."
 		},
 		{
 			id: 5,
@@ -138,7 +138,7 @@ export default function TracNghiemNguPhapTiengAnh(): React.JSX.Element {
 				"bores"
 			],
 			correctAnswer: 0,
-			explanation: "Ta dùng tính từ tận cùng bằng -ing (boring) để mô tả bản chất của sự vật, sự việc (bộ phim mang tính chất buồn chán). Tính từ tận cùng bằng -ed (bored) dùng để mô tả cảm xúc của con người hoặc sinh vật."
+			explanation: "Ta dùng tính từ tận cùng bằng -ing (boring) để mô tả bản chất của sự vật, sự việc (bộ phim mang tính chất buồn chán). Tính cơ tận cùng bằng -ed (bored) dùng để mô tả cảm xúc của con người hoặc sinh vật."
 		}
 	];
 

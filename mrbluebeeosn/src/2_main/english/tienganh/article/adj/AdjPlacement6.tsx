@@ -48,13 +48,13 @@ export default function AdjPlacement6(): React.JSX.Element {
 
 			</h1>
 
-			<h4 className="margin-bottom-30 text-center">Danh từ trước, tính từ sau — Chiến lược tư duy giúp người Việt chinh phục tiếng Anh</h4>
+			<h4 className="margin-bottom-30 text-center">Danh cơ trước, tính từ sau — Chiến lược tư duy giúp người Việt chinh phục tiếng Anh</h4>
 
 			<p className="margin-y-40"><strong>Mở đầu</strong></p>
 					
 			<p>Hầu hết người Việt học tiếng Anh đều bắt đầu bằng hai mẫu quen thuộc:</p>
 
-			<p className="margin-top-20"><strong>Tính từ đứng trước danh từ</strong></p>
+			<p className="margin-top-20"><strong>Tính cơ đứng trước danh từ</strong></p>
 			
 				<ul className="list-square">
 			
@@ -63,7 +63,7 @@ export default function AdjPlacement6(): React.JSX.Element {
 			
 				</ul>
 			
-			<p className="margin-top-20"><strong>Tính từ sau</strong> “<strong>to be</strong>”</p>
+			<p className="margin-top-20"><strong>Tính cơ sau</strong> “<strong>to be</strong>”</p>
 			
 				<ul className="list-square">
 			
@@ -76,7 +76,7 @@ export default function AdjPlacement6(): React.JSX.Element {
 
 			<p>Thực tế tinh tế hơn: trong văn nói nâng cao và văn viết học thuật, người bản ngữ thường <strong>đưa danh từ ra trước</strong>, rồi <strong>thả phần mô tả phía sau</strong> bằng một mệnh đề đóng vai trò như tính từ.</p>
 			
-			<p>Nhận ra điều này là một bước ngoặt: nó biến tiếng Anh từ “khác” thành “quen”, vì trật tự <strong>Danh từ</strong> → <strong>Mô tả</strong> rất giống cách người Việt suy nghĩ.</p>
+			<p>Nhận ra điều này là một bước ngoặt: nó biến tiếng Anh từ “khác” thành “quen”, vì trật tự <strong>Danh cơ</strong> → <strong>Mô tả</strong> rất giống cách người Việt suy nghĩ.</p>
 			
 
 			{/* 1.  */}
@@ -87,10 +87,10 @@ export default function AdjPlacement6(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li><strong>Danh từ đứng trước tính từ</strong>:</li>
+					<li><strong>Danh cơ đứng trước tính từ</strong>:</li>
 					<li className="margin-bottom-20 list-none">Dùng khi bạn muốn <strong>nhấn mạnh danh từ</strong> — giới thiệu đối tượng trước, rồi mô tả.</li>
 			
-					<li><strong>Tính từ đứng trước danh từ</strong>:</li>
+					<li><strong>Tính cơ đứng trước danh từ</strong>:</li>
 					<li className="list-none">Dùng khi bạn muốn <strong>nhấn mạnh tính chất</strong> — mô tả ngay, ngắn gọn.</li>
 			
 				</ul>
@@ -102,7 +102,7 @@ export default function AdjPlacement6(): React.JSX.Element {
 
 			<h3 className="margin-y-50 text-center">2. Bộ ba mệnh đề nền tảng của tiếng Anh nâng cao</h3>
 
-			<p>Khi đã làm chủ tư duy <strong>Danh từ</strong> → <strong>Mô tả</strong>, việc tiếp cận hai loại mệnh đề còn lại sẽ dễ dàng hơn.</p>
+			<p>Khi đã làm chủ tư duy <strong>Danh cơ</strong> → <strong>Mô tả</strong>, việc tiếp cận hai loại mệnh đề còn lại sẽ dễ dàng hơn.</p>
 
 			<p>Ba mệnh đề này là <strong>mệnh đề tính từ</strong>, <strong>mệnh đề trạng ngữ</strong>, và <strong>mệnh đề danh từ</strong> — chúng là công cụ chính để người bản ngữ xây dựng câu phức, lập luận và dẫn chứng.</p>
 
@@ -128,10 +128,10 @@ export default function AdjPlacement6(): React.JSX.Element {
 			
 				</ul>
 			
-			<p className="margin-top-20 text-indent-whole"><strong>Gợi ý thực hành</strong>: khi dịch câu tiếng Việt dạng <strong>Danh từ</strong> + <strong>mô tả</strong>, hãy thử đặt danh từ trước rồi thêm mệnh đề tính từ — cảm giác sẽ rất tự nhiên.</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Gợi ý thực hành</strong>: khi dịch câu tiếng Việt dạng <strong>Danh cơ</strong> + <strong>mô tả</strong>, hãy thử đặt danh từ trước rồi thêm mệnh đề tính từ — cảm giác sẽ rất tự nhiên.</p>
 		
 
-			<h4 className="margin-y-40">2. Mệnh đề trạng ngữ — nối ý, giải thích hoàn cảnh</h4>
+			<h4 className="margin-y-40">2. Trạng câu — nối ý, giải thích hoàn cảnh</h4>
 					
 			<p className="text-indent-whole"><strong>Chức năng</strong>: trả lời câu hỏi khi nào, ở đâu, vì sao, như thế nào, với điều kiện nào; giúp câu mạch lạc, có nhịp điệu lập luận.</p>
 
@@ -149,7 +149,7 @@ export default function AdjPlacement6(): React.JSX.Element {
 			<p className="text-indent-whole"><strong>Gợi ý thực hành</strong>: khi viết luận, dùng mệnh đề trạng ngữ để dẫn dắt luận điểm, rồi quay lại với danh từ chính và mệnh đề tính từ để minh họa.</p>
 
 
-			<h4 className="margin-y-40">3. Mệnh đề danh từ — biến cả cụm thành chủ ngữ hoặc tân ngữ</h4>
+			<h4 className="margin-y-40">3. Danh câu — biến cả cụm thành chủ ngữ hoặc tân ngữ</h4>
 					
 			<p className="text-indent-whole"><strong>Chức năng</strong>: đóng vai trò như một danh từ; thường dùng để trích dẫn ý tưởng, lập luận, hoặc làm chủ đề thảo luận.</p>
 
@@ -245,7 +245,7 @@ export default function AdjPlacement6(): React.JSX.Element {
 
 			<h4 className="margin-y-40">Thử thách 7 ngày:</h4>
 					
-			<p className="text-indent-whole">Mỗi ngày chọn 3 câu tiếng Việt bạn hay dùng, dịch sang tiếng Anh theo mẫu Danh từ → Mô tả, rồi ghép thành một đoạn 6–8 câu dùng cả ba mệnh đề.</p>
+			<p className="text-indent-whole">Mỗi ngày chọn 3 câu tiếng Việt bạn hay dùng, dịch sang tiếng Anh theo mẫu Danh cơ → Mô tả, rồi ghép thành một đoạn 6–8 câu dùng cả ba mệnh đề.</p>
 
 			<p className="text-indent-whole">Sau một tuần, bạn sẽ thấy cách tư duy tiếng Anh thay đổi — từ “khó” thành “quen”, từ “lúng túng” thành “tự tin”.</p>
 

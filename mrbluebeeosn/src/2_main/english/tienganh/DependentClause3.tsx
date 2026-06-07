@@ -122,7 +122,7 @@ export default function DependentClause3(): React.JSX.Element {
 
 			<h3 className="margin-y-50 text-center">4. Ba loại mệnh đề phụ thuộc phổ biến nhất</h3>
 
-			<h4 className="margin-y-40">1. Mệnh đề trạng ngữ (Adverb Clause)</h4>
+			<h4 className="margin-y-40">1. Trạng câu (Adverb Clause)</h4>
 					
 			<p className="text-indent-whole">Bổ sung thông tin về lý do, thời gian, điều kiện hoặc sự tương phản.</p>
 			
@@ -134,7 +134,7 @@ export default function DependentClause3(): React.JSX.Element {
 				</ul>
 			
 			
-			<h4 className="margin-y-40">2. Mệnh đề quan hệ (Relative Clause)</h4>
+			<h4 className="margin-y-40">2. Tính câu (Relative Clause)</h4>
 					
 			<p className="text-indent-whole">Dùng để bổ nghĩa chi tiết cho danh từ.</p>
 			
@@ -146,7 +146,7 @@ export default function DependentClause3(): React.JSX.Element {
 				</ul>
 
 
-			<h4 className="margin-y-40">3. Mệnh đề danh ngữ (Noun Clause)</h4>
+			<h4 className="margin-y-40">3. Danh câu (Noun Clause)</h4>
 					
 			<p className="text-indent-whole">Hoạt động như một danh từ trong câu.</p>
 			

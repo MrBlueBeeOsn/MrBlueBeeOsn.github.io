@@ -183,7 +183,7 @@ export default function DichCauTiengVietSangTiengAnh(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li><strong>Ngôi</strong> → <strong>Động từ</strong> & <strong>trạng từ</strong> → <strong>Danh từ</strong> & <strong>cụm danh từ</strong></li>
+					<li><strong>Ngôi</strong> → <strong>Động cơ</strong> & <strong>trạng từ</strong> → <strong>Danh cơ</strong> & <strong>cụm danh từ</strong></li>
 			
 					<li>→ Dù câu tiếng Việt có dài và phức tạp đến đâu, bạn cũng dịch ra tiếng Anh chuẩn 100% chỉ trong vài giây!</li>
 			

@@ -76,7 +76,7 @@ export default function TheGaitOfEnglish7(): React.JSX.Element {
 
 					<li className="list-none">rồi <strong>O</strong> (<strong>Object</strong> - <strong>Tân ngữ</strong>)</li>
 
-					<li className="list-none">Tiếp theo <strong>V</strong> (<strong>Verb</strong> - <strong>Động từ</strong>) vọt lên</li>
+					<li className="list-none">Tiếp theo <strong>V</strong> (<strong>Verb</strong> - <strong>Động cơ</strong>) vọt lên</li>
 
 					<li className="margin-bottom-20 list-none">Bắt đầu bằng <strong>S</strong> (<strong>Subject</strong> - <strong>Chủ ngữ</strong>) ở vị trí gần nhất</li>
 			

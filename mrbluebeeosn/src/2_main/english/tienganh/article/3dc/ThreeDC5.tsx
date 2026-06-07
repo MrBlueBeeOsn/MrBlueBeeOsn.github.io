@@ -91,7 +91,7 @@ export default function ThreeDC5(): React.ReactElement {
 
 			<p></p>
 
-			<h4 className="margin-y-40">Loại 1: Noun Clause — Mệnh đề danh ngữ</h4>
+			<h4 className="margin-y-40">Loại 1: Noun Clause — Danh câu</h4>
 					
 			<p className="text-indent-whole"></p>
 			
@@ -119,7 +119,7 @@ export default function ThreeDC5(): React.ReactElement {
 			<p className="margin-top-20 text-indent-whole"></p>
 
 
-			<h4 className="margin-y-40">Loại 3: Adverb Clause — Mệnh đề trạng ngữ</h4>
+			<h4 className="margin-y-40">Loại 3: Adverb Clause — Trạng câu</h4>
 					
 			<p className="text-indent-whole"></p>
 			
@@ -182,7 +182,7 @@ export default function ThreeDC5(): React.ReactElement {
 
 			{/* 2.  */}
 
-			<h3 className="margin-y-50 text-center">2. Noun Clause — Mệnh đề danh ngữ</h3>
+			<h3 className="margin-y-50 text-center">2. Noun Clause — Danh câu</h3>
 
 			<p></p>
 
@@ -648,7 +648,7 @@ export default function ThreeDC5(): React.ReactElement {
 
 			{/* 4.  */}
 
-			<h3 className="margin-y-50 text-center">4. Adverb Clause — Mệnh đề trạng ngữ</h3>
+			<h3 className="margin-y-50 text-center">4. Adverb Clause — Trạng câu</h3>
 
 			<p></p>
 

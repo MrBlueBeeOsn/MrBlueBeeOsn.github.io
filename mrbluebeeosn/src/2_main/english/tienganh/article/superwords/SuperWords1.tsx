@@ -77,7 +77,7 @@ export default function SuperWords1(): React.JSX.Element {
 					<li className="margin-bottom-20 list-none">Là một cấu trúc đứng độc lập, kết thúc bằng dấu chấm và biểu thị một ý nghĩa hoàn chỉnh.</li>
 
 					<li><strong>Câu con</strong> (<strong>Clause</strong>):</li>
-					<li className="margin-bottom-20 list-none">Một tổ hợp có cả Chủ ngữ và Động từ. Khi đứng một mình, nó là câu con. Nhưng khi nó chui vào bên trong một câu lớn để làm một chức năng cụ thể, nó sẽ biến thành các Danh câu, Tính câu, hoặc Trạng câu.</li>
+					<li className="margin-bottom-20 list-none">Một tổ hợp có cả Chủ ngữ và Động cơ. Khi đứng một mình, nó là câu con. Nhưng khi nó chui vào bên trong một câu lớn để làm một chức năng cụ thể, nó sẽ biến thành các Danh câu, Tính câu, hoặc Trạng câu.</li>
 			
 					<li><strong>Phụ cụm</strong> (<strong>Dependent Phrase</strong> - <strong>DP</strong>):</li>
 					<li className="margin-bottom-20 list-none">Là một cụm từ dài vừa phải nhưng chưa có cấu trúc Chủ - Vị hoàn chỉnh, đi theo để bổ nghĩa.</li>
@@ -111,7 +111,7 @@ export default function SuperWords1(): React.JSX.Element {
 			<p>Hãy nhìn vào hành trình thăng tiến này:</p>
 
 
-			<h4 className="margin-y-40">Danh từ ngắn:</h4>
+			<h4 className="margin-y-40">Danh cơ ngắn:</h4>
 			
 				<ul className="list-square">
 			
@@ -153,17 +153,17 @@ export default function SuperWords1(): React.JSX.Element {
 
 			<p>Nhiệm vụ của một tính từ đơn là đứng cạnh để tô vẽ, mô tả đặc điểm cho danh từ. Khi nó được kéo dài ra nhưng chưa có Chủ - Vị, nó là <strong>Tính cụm</strong>. Nhưng khi muốn mô tả một đặc điểm mang tính chất kể chuyện, người bản xứ sẽ nâng cấp nó thành một <strong>Tính câu</strong> (Super-Adjective).</p>
 
-			<p>Có một điểm cực kỳ thú vị trong tư duy tuyến tính của người bản xứ: Họ sẽ đưa Danh từ ra trước, sau đó nếu muốn giải thích thêm, họ sẽ "thả" ngay một <strong>Phụ câu</strong> làm nhiệm vụ của tính từ (tức là <strong>Tính câu</strong>) ra phía sau để bổ sung thông tin theo đúng dòng chảy suy nghĩ.</p>
+			<p>Có một điểm cực kỳ thú vị trong tư duy tuyến tính của người bản xứ: Họ sẽ đưa Danh cơ ra trước, sau đó nếu muốn giải thích thêm, họ sẽ "thả" ngay một <strong>Phụ câu</strong> làm nhiệm vụ của tính từ (tức là <strong>Tính câu</strong>) ra phía sau để bổ sung thông tin theo đúng dòng chảy suy nghĩ.</p>
 
 
-			<h4 className="margin-y-40">Tính từ ngắn:</h4>
+			<h4 className="margin-y-40">Tính cơ ngắn:</h4>
 			
 				<ul className="list-square">
 			
 					<li>The <strong>smart</strong> student passed the exam.</li>
 					<li className="margin-bottom-20 list-none">Người học trò <strong>thông minh</strong> đã đậu kỳ thi.</li>
 
-					<li className="list-none">Tính từ đơn smart đứng trước bổ nghĩa cho student.</li>
+					<li className="list-none">Tính cơ đơn smart đứng trước bổ nghĩa cho student.</li>
 			
 				</ul>
 
@@ -195,9 +195,9 @@ export default function SuperWords1(): React.JSX.Element {
 
 			<h3 className="margin-y-50 text-center">3. Super-Adverb: Trạng cụm tiến hóa thành "Trạng câu"</h3>
 
-			<h4 className="margin-y-40">Trạng từ ngắn:</h4>
+			<h4 className="margin-y-40">Trạng cơ ngắn:</h4>
 					
-			<p className="text-indent-whole">Trạng từ là thành phần tạo nền bối cảnh (thời gian, không gian, nguyên nhân, điều kiện) cho toàn bộ câu lớn. Ở dạng cụm, nó là <strong>Trạng cụm</strong>. Khi cái nền bối cảnh đó phức tạp đến mức phải viết thành một câu con, nó biến thành một <strong>Trạng câu</strong> (Super-Adverb).</p>
+			<p className="text-indent-whole">Trạng cơ là thành phần tạo nền bối cảnh (thời gian, không gian, nguyên nhân, điều kiện) cho toàn bộ câu lớn. Ở dạng cụm, nó là <strong>Trạng cụm</strong>. Khi cái nền bối cảnh đó phức tạp đến mức phải viết thành một câu con, nó biến thành một <strong>Trạng câu</strong> (Super-Adverb).</p>
 			
 				<ul className="list-square">
 			
@@ -242,7 +242,7 @@ export default function SuperWords1(): React.JSX.Element {
 
 			<p className="margin-top-20"><strong>Loại Từ Gốc</strong>:</p>
 
-			<h4 className="margin-y-40">Noun (Danh từ)</h4>
+			<h4 className="margin-y-40">Noun (Danh cơ)</h4>
 					
 			<p className="margin-y-20 text-indent-whole"><strong>Cấp độ 1</strong>: <strong>Từ Đơn</strong> (Ngắn)</p>
 			
@@ -251,7 +251,7 @@ export default function SuperWords1(): React.JSX.Element {
 					<li><strong>Success</strong></li>
 					<li className="margin-bottom-20 list-none">Sự thành công</li>
 
-					<li className="list-none">→ Danh từ</li>
+					<li className="list-none">→ Danh cơ</li>
 			
 				</ul>
 			
@@ -278,7 +278,7 @@ export default function SuperWords1(): React.JSX.Element {
 				</ul>
 
 
-			<h4 className="margin-y-40">Adjective (Tính từ)</h4>
+			<h4 className="margin-y-40">Adjective (Tính cơ)</h4>
 					
 			<p className="margin-y-20 text-indent-whole"><strong>Cấp độ 1</strong>: <strong>Từ Đơn</strong> (Ngắn)</p>
 			
@@ -287,7 +287,7 @@ export default function SuperWords1(): React.JSX.Element {
 					<li>An <strong>expensive</strong> car</li>
 					<li className="margin-bottom-20 list-none">Một chiếc xe <strong>đắt tiền</strong></li>
 
-					<li className="list-none">→ Tính từ</li>
+					<li className="list-none">→ Tính cơ</li>
 			
 				</ul>
 			
@@ -314,7 +314,7 @@ export default function SuperWords1(): React.JSX.Element {
 				</ul>
 
 
-			<h4 className="margin-y-40">Adverb (Trạng từ)</h4>
+			<h4 className="margin-y-40">Adverb (Trạng cơ)</h4>
 					
 			<p className="margin-y-20 text-indent-whole"><strong>Cấp độ 1</strong>: <strong>Từ Đơn</strong> (Ngắn)</p>
 			
@@ -323,7 +323,7 @@ export default function SuperWords1(): React.JSX.Element {
 					<li><strong>Honestly</strong>, he confessed.</li>
 					<li className="margin-bottom-20 list-none"><strong>Thành thật mà nói</strong>, anh ta thú nhận.</li>
 
-					<li className="list-none">→ Trạng từ</li>
+					<li className="list-none">→ Trạng cơ</li>
 			
 				</ul>
 			

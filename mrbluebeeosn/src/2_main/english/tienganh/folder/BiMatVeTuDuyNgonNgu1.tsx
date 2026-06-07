@@ -36,9 +36,9 @@ export default function BiMatVeTuDuyNgonNgu1(): React.JSX.Element {
 					
 			<p>Sự khác biệt về "thứ tự xuất hiện" trong câu nói chính là rào cản lớn nhất khiến chúng ta mãi bị kẹt trong vòng xoáy "dịch thầm". Hôm nay, hãy cùng giải mã <strong>Tấm bản đồ tư duy ngược</strong> – chìa khóa để bạn thực sự làm chủ ngôn ngữ này!</p>
 
-			{/* 1. Nguyên lý "Phác thảo": Tính từ + Danh từ (Cái nhìn định tính) */}
+			{/* 1. Nguyên lý "Phác thảo": Tính cơ + Danh cơ (Cái nhìn định tính) */}
 
-			<h3 className="margin-y-50 text-center">1. Nguyên lý "Phác thảo": Tính từ + Danh từ (Cái nhìn định tính)</h3>
+			<h3 className="margin-y-50 text-center">1. Nguyên lý "Phác thảo": Tính cơ + Danh cơ (Cái nhìn định tính)</h3>
 					
 			<p>Hãy tưởng tượng bạn đang nhìn vào một "<strong>Blue sky</strong>" (Bầu trời xanh).</p>
 
@@ -56,15 +56,15 @@ export default function BiMatVeTuDuyNgonNgu1(): React.JSX.Element {
 
 			<p className="margin-top-20"><strong>Ứng dụng</strong>: Hãy tập nhìn thế giới theo kiểu "Đặc điểm dẫn đường". Đừng thấy "Cô gái xinh", hãy thấy "<strong>Sự xinh đẹp</strong> (<strong>Beautiful</strong>)... <strong>của một cô gái</strong> (<strong>Girl</strong>)".</p>
 
-			{/* 2. Nguyên lý "Đạo diễn": Trạng từ + Động từ (Sắc thái hành động) */}
+			{/* 2. Nguyên lý "Đạo diễn": Trạng cơ + Động cơ (Sắc thái hành động) */}
 
-			<h3 className="margin-y-50 text-center">2. Nguyên lý "Đạo diễn": Trạng từ + Động từ (Sắc thái hành động)</h3>
+			<h3 className="margin-y-50 text-center">2. Nguyên lý "Đạo diễn": Trạng cơ + Động cơ (Sắc thái hành động)</h3>
 
-			<p>Nếu Tính từ là màu sắc, thì Trạng từ chính là <strong>nhạc nền</strong>. Tại sao họ nói "<strong>He QUIETLY opened the door</strong>"?</p>
+			<p>Nếu Tính cơ là màu sắc, thì Trạng cơ chính là <strong>nhạc nền</strong>. Tại sao họ nói "<strong>He QUIETLY opened the door</strong>"?</p>
 					
 			<p><strong>Lối mòn cũ</strong>: Tập trung vào hành động (Mở cửa) rồi mới thêm chú thích (Lặng lẽ). Cách này khiến câu nói của bạn bị "trơ", thiếu cảm xúc.</p>
 
-			<p><strong>Tư duy đột phá</strong>: Trạng từ đứng trước để <strong>thiết lập bầu không khí</strong>.</p>
+			<p><strong>Tư duy đột phá</strong>: Trạng cơ đứng trước để <strong>thiết lập bầu không khí</strong>.</p>
 			
 				<ul className="list-square">
 		
@@ -96,15 +96,15 @@ export default function BiMatVeTuDuyNgonNgu1(): React.JSX.Element {
 
 						<tr>
 								<td><strong>Sự vật</strong> (<strong>Tĩnh</strong>)</td>
-								<td>Danh từ + Tính từ</td>
-								<td><strong>Tính từ</strong> + <strong>Danh từ</strong></td>
+								<td>Danh cơ + Tính cơ</td>
+								<td><strong>Tính cơ</strong> + <strong>Danh cơ</strong></td>
 								<td>Chọn màu sơn trước, vẽ hình sau</td>
 						</tr>
 
 						<tr>
 								<td><strong>Hành động</strong> (<strong>Động</strong>)</td>
-								<td>Động từ + Trạng từ</td>
-								<td><strong>Trạng từ</strong> + <strong>Động từ</strong></td>
+								<td>Động cơ + Trạng cơ</td>
+								<td><strong>Trạng cơ</strong> + <strong>Động cơ</strong></td>
 								<td>Chọn nhạc nền trước, diễn xuất sau</td>
 						</tr>
 					</tbody>
@@ -128,7 +128,7 @@ export default function BiMatVeTuDuyNgonNgu1(): React.JSX.Element {
 			
 				</ul>
 
-			<p className="margin-top-20">Khi bạn nhìn thế giới bằng cách ưu tiên <strong>Cảm giác</strong> (<strong>Tính từ</strong>/<strong>Trạng từ</strong>) trước khi gọi tên <strong>Sự vật</strong>/<strong>Hành động</strong>, bạn đã chính thức bước qua cánh cửa của người bản xứ. Bạn không còn đang "học" tiếng Anh, mà bạn đang "cảm" tiếng Anh.</p>
+			<p className="margin-top-20">Khi bạn nhìn thế giới bằng cách ưu tiên <strong>Cảm giác</strong> (<strong>Tính cơ</strong>/<strong>Trạng cơ</strong>) trước khi gọi tên <strong>Sự vật</strong>/<strong>Hành động</strong>, bạn đã chính thức bước qua cánh cửa của người bản xứ. Bạn không còn đang "học" tiếng Anh, mà bạn đang "cảm" tiếng Anh.</p>
 
 			<h3 className="margin-y-50 text-center">Lời kết:</h3>
 

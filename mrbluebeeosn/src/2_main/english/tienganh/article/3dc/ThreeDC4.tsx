@@ -250,7 +250,7 @@ export default function ThreeDC4(): React.ReactElement {
 
 			{/* 4.  */}
 
-			<h3 className="margin-y-50 text-center">4. Mệnh Đề Trạng Từ: Chuyên Gia Giải Thích Hành Động</h3>
+			<h3 className="margin-y-50 text-center">4. Mệnh Đề Trạng Cơ: Chuyên Gia Giải Thích Hành Động</h3>
 
 			<p></p>
 
@@ -325,7 +325,7 @@ export default function ThreeDC4(): React.ReactElement {
 
 			{/* 5.  */}
 
-			<h3 className="margin-y-50 text-center">5. Mệnh Đề Tính Từ: Chuyên Gia Mô Tả Danh Từ</h3>
+			<h3 className="margin-y-50 text-center">5. Mệnh Đề Tính Cơ: Chuyên Gia Mô Tả Danh Cơ</h3>
 
 			<p></p>
 
@@ -376,7 +376,7 @@ export default function ThreeDC4(): React.ReactElement {
 
 			{/* 6.  */}
 
-			<h3 className="margin-y-50 text-center">6. Mệnh Đề Danh Từ: Loại Mệnh Đề Quyền Lực Nhất</h3>
+			<h3 className="margin-y-50 text-center">6. Mệnh Đề Danh Cơ: Loại Mệnh Đề Quyền Lực Nhất</h3>
 
 			<p></p>
 

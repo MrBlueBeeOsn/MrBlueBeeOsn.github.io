@@ -81,10 +81,10 @@ export default function AdjPlacement2(): React.JSX.Element {
 			
 				<ol>
 			
-					<li value="1"><strong>Danh từ đứng trước tính từ</strong></li>
+					<li value="1"><strong>Danh cơ đứng trước tính từ</strong></li>
 					<li className="margin-bottom-20 list-none">Để NHẤN MẠNH <strong>danh từ</strong> (<strong>đối tượng</strong>).</li>
 			
-					<li value="2"><strong>Tính từ đứng trước danh từ</strong></li>
+					<li value="2"><strong>Tính cơ đứng trước danh từ</strong></li>
 					<li className="list-none">Để NHẤN MẠNH <strong>tính từ</strong> (<strong>đặc điểm</strong>).</li>
 			
 				</ol>
@@ -114,7 +114,7 @@ export default function AdjPlacement2(): React.JSX.Element {
 
 			<p>Sách giáo khoa thường dạy bạn hai mẫu câu duy nhất:</p>
 
-			<p className="margin-top-20"><strong>Tính từ trước danh từ</strong></p>
+			<p className="margin-top-20"><strong>Tính cơ trước danh từ</strong></p>
 			
 				<ul className="list-square">
 			
@@ -125,7 +125,7 @@ export default function AdjPlacement2(): React.JSX.Element {
 			
 				</ul>
 
-			<p className="margin-top-20"><strong>Tính từ sau</strong> “<strong>to be</strong>”</p>
+			<p className="margin-top-20"><strong>Tính cơ sau</strong> “<strong>to be</strong>”</p>
 			
 				<ul className="list-square">
 			
@@ -157,7 +157,7 @@ export default function AdjPlacement2(): React.JSX.Element {
 
 			<p>Bạn thấy không? Trật tự y hệt tiếng Việt:</p>
 
-			<p className="margin-y-20"><strong>Danh từ</strong> → <strong>Mệnh đề mô tả</strong>.</p>
+			<p className="margin-y-20"><strong>Danh cơ</strong> → <strong>Mệnh đề mô tả</strong>.</p>
 
 			<p>Trong tiếng Anh, phần mô tả ấy được gọi là <strong>Adjective Clause</strong> – mệnh đề tính từ.</p>
 
@@ -184,7 +184,7 @@ export default function AdjPlacement2(): React.JSX.Element {
 				<ul className="list-square">
 			
 					<li><strong>Cấu trúc</strong>:</li>
-					<li className="margin-bottom-20 list-none">Danh từ + (who/which/that/where/when...) + mô tả</li>
+					<li className="margin-bottom-20 list-none">Danh cơ + (who/which/that/where/when...) + mô tả</li>
 			
 					<li><strong>Vai trò</strong>:</li>
 					<li className="margin-bottom-20 list-none">Đóng vai trò như một tính từ, bổ nghĩa cho danh từ đứng trước.</li>
@@ -206,7 +206,7 @@ export default function AdjPlacement2(): React.JSX.Element {
 			<p className="margin-top-20 text-indent-whole">Hoàn toàn giống tiếng Việt: danh từ → mệnh đề dài</p>
 
 
-			<h4 className="margin-y-40">2. Adverbial Clause – Mệnh đề trạng ngữ (mượn tư duy từ Adjective Clause)</h4>
+			<h4 className="margin-y-40">2. Adverbial Clause – Trạng câu (mượn tư duy từ Adjective Clause)</h4>
 
 			<p className="margin-top-20"></p>
 			
@@ -235,7 +235,7 @@ export default function AdjPlacement2(): React.JSX.Element {
 			<p className="margin-top-20 text-indent-whole">Bạn thấy không? Trật tự trong tiếng Việt cũng y hệt: lý do → kết quả.</p>
 
 
-			<h4 className="margin-y-40">3. Noun Clause – Mệnh đề danh từ (viên ngọc quý của sự tinh tế)</h4>
+			<h4 className="margin-y-40">3. Noun Clause – Danh câu (viên ngọc quý của sự tinh tế)</h4>
 
 			<p className="margin-top-20"></p>
 			
@@ -352,10 +352,10 @@ export default function AdjPlacement2(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li><strong>Danh từ trước</strong></li>
+					<li><strong>Danh cơ trước</strong></li>
 					<li className="margin-bottom-20 list-none">→ Nhấn mạnh <strong>danh từ</strong> (giống Việt, dùng Adjective Clause).</li>
 			
-					<li><strong>Tính từ trước</strong></li>
+					<li><strong>Tính cơ trước</strong></li>
 					<li className="list-none">→ Nhấn mạnh <strong>tính từ</strong> (câu ngắn, học thuộc công thức).</li>
 			
 				</ul>

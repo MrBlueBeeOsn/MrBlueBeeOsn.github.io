@@ -17,7 +17,7 @@ export default function DichCumDongTuTiengAnh(): React.JSX.Element {
 		
 			<h4><HashLink smooth to="/tieng-anh#tieng-anh-terms"><mark className="highlight-tertiary-padding-4-8">Tiếng Anh</mark></HashLink></h4>
 			
-			<h1 className="margin-y-50 text-center">Hướng Dẫn Dịch Cụm Động Từ Tiếng Anh
+			<h1 className="margin-y-50 text-center">Hướng Dẫn Dịch Động Cụm Tiếng Anh
 
 				<sup><HashLink smooth to="/tieng-anh/huong-dan-dich-cum-danh-tu-tieng-anh">&nbsp;1&nbsp;</HashLink>
 				</sup>
@@ -32,13 +32,13 @@ export default function DichCumDongTuTiengAnh(): React.JSX.Element {
 
 			{/* This is the content of English Learning Term. */}
 
-			<p>Trong tiếng Anh, cụm động từ (verb phrases) thường bao gồm động từ chính kết hợp với các trạng từ hoặc bổ ngữ, tạo nên ý nghĩa hoàn chỉnh. Khác với tiếng Việt, nơi trạng từ thường đứng trước động từ, trong tiếng Anh, trạng từ hoặc các bổ ngữ thường đứng sau động từ chính. Để dịch cụm động từ sang tiếng Việt một cách tự nhiên và đúng ngữ pháp, bạn có thể áp dụng nguyên tắc "<strong>Động Từ dịch trước</strong>, <strong>Trạng Từ dịch sau</strong>", đồng thời đặt các trạng từ hoặc bổ ngữ vào dấu ngoặc đơn trong cấu trúc cụm động từ để dễ nhận diện và xử lý. Bài viết này sẽ hướng dẫn chi tiết cách thực hiện phương pháp này.</p>
+			<p>Trong tiếng Anh, cụm động từ (verb phrases) thường bao gồm động từ chính kết hợp với các trạng từ hoặc bổ ngữ, tạo nên ý nghĩa hoàn chỉnh. Khác với tiếng Việt, nơi trạng từ thường đứng trước động từ, trong tiếng Anh, trạng từ hoặc các bổ ngữ thường đứng sau động từ chính. Để dịch cụm động từ sang tiếng Việt một cách tự nhiên và đúng ngữ pháp, bạn có thể áp dụng nguyên tắc "<strong>Động Cơ dịch trước</strong>, <strong>Trạng Cơ dịch sau</strong>", đồng thời đặt các trạng từ hoặc bổ ngữ vào dấu ngoặc đơn trong cấu trúc cụm động từ để dễ nhận diện và xử lý. Bài viết này sẽ hướng dẫn chi tiết cách thực hiện phương pháp này.</p>
 
 				<p className="margin-y-50 text-center">
 
 					<span className="highlight-238-padding-4-8 text-border1">
 
-						<span className="highlight-255-padding-0-4">Động Từ</span> Dịch Trước, <span className="highlight-255-padding-0-4">Trạng Từ</span> Dịch Sau
+						<span className="highlight-255-padding-0-4">Động Cơ</span> Dịch Trước, <span className="highlight-255-padding-0-4">Trạng Cơ</span> Dịch Sau
 						
 					</span>
 
@@ -50,7 +50,7 @@ export default function DichCumDongTuTiengAnh(): React.JSX.Element {
 
 				<ul className="list-square">
 
-					<li><strong>Động từ chính</strong> (<strong>head verb</strong>): Là từ cốt lõi, mang ý nghĩa chính của hành động, thường nằm ở vị trí đầu tiên trong cụm động từ.</li>
+					<li><strong>Động cơ chính</strong> (<strong>head verb</strong>): Là từ cốt lõi, mang ý nghĩa chính của hành động, thường nằm ở vị trí đầu tiên trong cụm động từ.</li>
 
 					<li><strong>Các thành phần bổ nghĩa</strong>: Bao gồm trạng từ (adverbs), cụm giới từ (prepositional phrases), hoặc các bổ ngữ khác, thường đứng sau động từ chính để bổ sung ý nghĩa về cách thức, thời gian, địa điểm, hoặc mức độ.</li>
 
@@ -72,13 +72,13 @@ export default function DichCumDongTuTiengAnh(): React.JSX.Element {
 
 				<h3 className="margin-y-50 text-center">Bước 1: Xác định động từ chính</h3>
 
-				<p>Động từ chính là từ cốt lõi trong cụm động từ, thường nằm ở vị trí đầu tiên. Đây là từ bạn sẽ dịch đầu tiên.</p>
+				<p>Động cơ chính là từ cốt lõi trong cụm động từ, thường nằm ở vị trí đầu tiên. Đây là từ bạn sẽ dịch đầu tiên.</p>
 				
 				<p className="margin-top-20">Ví dụ: Walk slowly in the park</p>
 
 					<ul className="list-square">
 
-						<li>Động từ chính: <strong>walk</strong> (đi bộ).</li>
+						<li>Động cơ chính: <strong>walk</strong> (đi bộ).</li>
 
 					</ul>
 
@@ -132,9 +132,9 @@ export default function DichCumDongTuTiengAnh(): React.JSX.Element {
 
 					<ul className="list-square">
 
-						<li>Động từ chính: <strong>walk</strong> → đi bộ.</li>
+						<li>Động cơ chính: <strong>walk</strong> → đi bộ.</li>
 
-						<li>Trạng từ và bổ ngữ (từ phải sang trái): <strong>in the park</strong> (trong công viên), <strong>slowly</strong> (chậm rãi).</li>
+						<li>Trạng cơ và bổ ngữ (từ phải sang trái): <strong>in the park</strong> (trong công viên), <strong>slowly</strong> (chậm rãi).</li>
 
 						<li>Kết quả: đi bộ trong công viên chậm rãi.</li>
 
@@ -142,13 +142,13 @@ export default function DichCumDongTuTiengAnh(): React.JSX.Element {
 
 				<p className="margin-top-20">Ví dụ khác:</p>
 				
-				<p className="text-indent">Cụm động từ: <strong>sing</strong> (<strong>loudly at the concert</strong>)</p>
+				<p className="text-indent">Động cụm: <strong>sing</strong> (<strong>loudly at the concert</strong>)</p>
 
 					<ul className="list-square">
 
-						<li>Động từ chính: <strong>sing</strong> → hát.</li>
+						<li>Động cơ chính: <strong>sing</strong> → hát.</li>
 
-						<li>Trạng từ và bổ ngữ (từ phải sang trái): <strong>at the concert</strong> (tại buổi hòa nhạc), <strong>loudly</strong> (to lớn).</li>
+						<li>Trạng cơ và bổ ngữ (từ phải sang trái): <strong>at the concert</strong> (tại buổi hòa nhạc), <strong>loudly</strong> (to lớn).</li>
 
 						<li>Kết quả: hát tại buổi hòa nhạc to lớn.</li>
 
@@ -164,9 +164,9 @@ export default function DichCumDongTuTiengAnh(): React.JSX.Element {
 
 				<ul className="list-square">
 
-					<li>Động từ chính: <strong>look</strong> → nhìn.</li>
+					<li>Động cơ chính: <strong>look</strong> → nhìn.</li>
 
-					<li>Trạng từ và bổ ngữ trong ngoặc: <strong>look</strong> (<strong>carefully at the picture</strong>).</li>
+					<li>Trạng cơ và bổ ngữ trong ngoặc: <strong>look</strong> (<strong>carefully at the picture</strong>).</li>
 
 					<li>Dịch (từ phải sang trái): <strong>at the picture</strong> (vào bức tranh), <strong>carefully</strong> (cẩn thận).</li>
 
@@ -178,9 +178,9 @@ export default function DichCumDongTuTiengAnh(): React.JSX.Element {
 
 				<ul className="list-square">
 
-					<li>Động từ chính: <strong>run</strong> → chạy.</li>
+					<li>Động cơ chính: <strong>run</strong> → chạy.</li>
 
-					<li>Trạng từ và bổ ngữ trong ngoặc: <strong>run</strong> (<strong>quickly to catch the bus</strong>).</li>
+					<li>Trạng cơ và bổ ngữ trong ngoặc: <strong>run</strong> (<strong>quickly to catch the bus</strong>).</li>
 
 					<li>Dịch (từ phải sang trái): <strong>to catch the bus</strong> (để bắt xe buýt), <strong>quickly</strong> (nhanh chóng).</li>
 
@@ -192,9 +192,9 @@ export default function DichCumDongTuTiengAnh(): React.JSX.Element {
 
 				<ul className="list-square">
 
-					<li>Động từ chính: <strong>dance</strong> → nhảy.</li>
+					<li>Động cơ chính: <strong>dance</strong> → nhảy.</li>
 
-					<li>Trạng từ và bổ ngữ trong ngoặc: <strong>dance</strong> (<strong>gracefully in the ballroom</strong>).</li>
+					<li>Trạng cơ và bổ ngữ trong ngoặc: <strong>dance</strong> (<strong>gracefully in the ballroom</strong>).</li>
 
 					<li>Kết quả: nhảy trong phòng khiêu vũ duyên dáng.</li>
 
@@ -210,13 +210,13 @@ export default function DichCumDongTuTiengAnh(): React.JSX.Element {
 
 					<li><strong>Bổ ngữ phức tạp</strong>: Với các cụm có bổ ngữ dài (như mệnh đề bổ nghĩa), chỉ đặt trạng từ hoặc bổ ngữ trực tiếp vào ngoặc đơn, còn các thành phần khác được dịch sau động từ chính theo cách thông thường.</li>
 
-					<li><strong>Trạng từ và cụm giới từ</strong>: Các cụm giới từ (như <strong>up the hill</strong>, <strong>at the concert</strong>) thường được xem như một đơn vị bổ nghĩa và được dịch nguyên vẹn sau động từ.</li>
+					<li><strong>Trạng cơ và cụm giới từ</strong>: Các cụm giới từ (như <strong>up the hill</strong>, <strong>at the concert</strong>) thường được xem như một đơn vị bổ nghĩa và được dịch nguyên vẹn sau động từ.</li>
 
 				</ul>
 			
 			<h3 className="margin-y-50 text-center">5. Kết luận</h3>
 			
-			<p>Phương pháp dịch cụm động từ tiếng Anh theo nguyên tắc "<strong>Động Từ dịch trước</strong>, <strong>Trạng Từ dịch sau</strong>", kết hợp với việc đặt các trạng từ và bổ ngữ vào dấu ngoặc đơn trong cấu trúc <strong>động từ</strong> (<strong>trạng từ bổ ngữ</strong>), giúp người học dễ dàng nhận diện và sắp xếp các thành phần bổ nghĩa. Bằng cách xác định động từ chính trước, đặt các trạng từ/bổ ngữ vào ngoặc, và dịch chúng từ phải sang trái, bạn có thể tạo ra câu văn tiếng Việt tự nhiên và đúng ngữ pháp. Thực hành thường xuyên với các ví dụ cụ thể sẽ giúp bạn nắm vững kỹ năng này.</p>
+			<p>Phương pháp dịch cụm động từ tiếng Anh theo nguyên tắc "<strong>Động Cơ dịch trước</strong>, <strong>Trạng Cơ dịch sau</strong>", kết hợp với việc đặt các trạng từ và bổ ngữ vào dấu ngoặc đơn trong cấu trúc <strong>động từ</strong> (<strong>trạng từ bổ ngữ</strong>), giúp người học dễ dàng nhận diện và sắp xếp các thành phần bổ nghĩa. Bằng cách xác định động từ chính trước, đặt các trạng từ/bổ ngữ vào ngoặc, và dịch chúng từ phải sang trái, bạn có thể tạo ra câu văn tiếng Việt tự nhiên và đúng ngữ pháp. Thực hành thường xuyên với các ví dụ cụ thể sẽ giúp bạn nắm vững kỹ năng này.</p>
 
 			<div className="viewcounter">
 			

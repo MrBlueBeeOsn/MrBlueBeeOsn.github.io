@@ -47,7 +47,7 @@ export default function ThinkStraightFlowFast3(): React.JSX.Element {
 
 			<h2 className="margin-bottom-50 text-center">Flow fast</h2>
 
-			<h4 className="margin-bottom-30 text-center">Bí Quyết "Hack" Tiếng Anh Cho Người Việt: Đặt Tính Từ Trước Danh Từ Ngay Từ Tư Duy Tiếng Việt – Cách Học Siêu Hiệu Quả Mà Ít Ai Biết!</h4>
+			<h4 className="margin-bottom-30 text-center">Bí Quyết "Hack" Tiếng Anh Cho Người Việt: Đặt Tính Cơ Trước Danh Cơ Ngay Từ Tư Duy Tiếng Việt – Cách Học Siêu Hiệu Quả Mà Ít Ai Biết!</h4>
 
 			<p>Bạn đã từng dịch câu tiếng Việt sang tiếng Anh và cảm thấy như não bộ đang "đấu vật" không?</p>
 
@@ -65,9 +65,9 @@ export default function ThinkStraightFlowFast3(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>Tiếng Việt: Danh từ + Tính từ (noun + adjective) – như "cô gái xinh đẹp", "ly cà phê nóng", "bầu trời xanh thẳm".</li>
+					<li>Tiếng Việt: Danh cơ + Tính cơ (noun + adjective) – như "cô gái xinh đẹp", "ly cà phê nóng", "bầu trời xanh thẳm".</li>
 			
-					<li>Tiếng Anh: <strong>Tính từ</strong> + <strong>Danh từ</strong> (adjective + noun) – beautiful girl, hot coffee, blue sky.</li>
+					<li>Tiếng Anh: <strong>Tính cơ</strong> + <strong>Danh cơ</strong> (adjective + noun) – beautiful girl, hot coffee, blue sky.</li>
 			
 				</ul>
 

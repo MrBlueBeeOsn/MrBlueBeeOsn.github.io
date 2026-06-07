@@ -156,7 +156,7 @@ export default function LegoAssembly7(): React.JSX.Element {
 
 			<p className="margin-top-20">Head là phần quyết định <strong>thời</strong>, <strong>thể</strong>, <strong>khả năng</strong>, <strong>nghi vấn</strong>, <strong>phủ định</strong> của câu. Head có thể là:</p>
 
-			<h4 className="margin-y-40"><strong>Động từ chính</strong> - <strong>Head tích hợp</strong>:</h4>
+			<h4 className="margin-y-40"><strong>Động cơ chính</strong> - <strong>Head tích hợp</strong>:</h4>
 					
 			<p className="text-indent-whole">Mang luôn "<strong>chỉ dấu thời</strong>"</p>
 			
@@ -243,7 +243,7 @@ export default function LegoAssembly7(): React.JSX.Element {
 			
 			<h4 className="margin-y-40">Head tích hợp là gì?</h4>
 					
-			<p>Động từ chính đã tích hợp sẵn trợ động từ và thời gian = <strong>Head tích hợp</strong>.</p>
+			<p>Động cơ chính đã tích hợp sẵn trợ động từ và thời gian = <strong>Head tích hợp</strong>.</p>
 
 			<p className="margin-top-20">Ví dụ:</p>
 			
@@ -266,7 +266,7 @@ export default function LegoAssembly7(): React.JSX.Element {
 					
 			<p className="margin-top-20">DP không thể đứng một mình. Nó bổ nghĩa cho Head và có thể đóng vai trò:</p>
 
-			<p className="margin-top-20"><strong>Danh từ</strong>: làm object / complement - <strong>DP</strong></p>
+			<p className="margin-top-20"><strong>Danh cơ</strong>: làm object / complement - <strong>DP</strong></p>
 			
 				<ul className="list-square">
 			
@@ -277,7 +277,7 @@ export default function LegoAssembly7(): React.JSX.Element {
 				</ul>
 
 
-			<p className="margin-top-20"><strong>Tính từ</strong>: mô tả trạng thái, tính chất - <strong>DP</strong></p>
+			<p className="margin-top-20"><strong>Tính cơ</strong>: mô tả trạng thái, tính chất - <strong>DP</strong></p>
 			
 				<ul className="list-square">
 			
@@ -288,7 +288,7 @@ export default function LegoAssembly7(): React.JSX.Element {
 				</ul>
 
 
-			<p className="margin-top-20"><strong>Trạng từ</strong>: thời gian, cách thức, mức độ - <strong>DP</strong></p>
+			<p className="margin-top-20"><strong>Trạng cơ</strong>: thời gian, cách thức, mức độ - <strong>DP</strong></p>
 			
 				<ul className="list-square">
 			
@@ -352,7 +352,7 @@ export default function LegoAssembly7(): React.JSX.Element {
 				</ul>
 
 
-			<p className="margin-top-20"><strong>1</strong>. <strong>Noun clause</strong>: Mệnh đề danh ngữ</p>
+			<p className="margin-top-20"><strong>1</strong>. <strong>Noun clause</strong>: Danh câu</p>
 			
 				<ul className="list-square">
 			
@@ -370,7 +370,7 @@ export default function LegoAssembly7(): React.JSX.Element {
 			
 				</ul>
 
-			<p className="margin-top-20"><strong>3</strong>. <strong>Adverbial clause</strong>: Mệnh đề trạng ngữ</p>
+			<p className="margin-top-20"><strong>3</strong>. <strong>Adverbial clause</strong>: Trạng câu</p>
 			
 				<ul className="list-square">
 			
@@ -1325,7 +1325,7 @@ export default function LegoAssembly7(): React.JSX.Element {
 					<li><strong>Mọi thứ sau Head</strong> (bao gồm not nếu có) = <strong>DP</strong></li>
 					<li><strong>not nằm trong DP</strong>, không đứng riêng</li>
 					<li><strong>DC</strong> có S V, <strong>có thể thay thế DP</strong> hoặc <strong>nằm trong DP</strong></li>
-					<li>Động từ chính mang thời (buys = does + buy) = <strong>Head tích hợp</strong></li>
+					<li>Động cơ chính mang thời (buys = does + buy) = <strong>Head tích hợp</strong></li>
 					<li>am (<strong>Head</strong>) → V-ing - <strong>DP</strong></li>
 					<li>will/could (<strong>Head</strong>) → V nguyên mẫu - <strong>DP</strong></li>
 			

@@ -278,7 +278,7 @@ const Posts = lazy(() => import('@/data/Posts'));
 	// Ngữ pháp
 	const TracNghiemNguPhapTiengAnh = lazy(() => import('@/2_main/english/tienganh/quiz/nguphap/TracNghiemNguPhapTiengAnh'));
 
-	// Cụm động từ
+	// Động cụm
 	const PhrasalVerbsQuiz = lazy(() => import('@/2_main/english/tienganh/quiz/cumdongtu/PhrasalVerbsQuiz'));
 
 	// Thì
@@ -857,7 +857,7 @@ export default function AppRoutes(): React.JSX.Element {
 					{/* Ngữ pháp */}
 					<Route path="/tieng-anh/trac-nghiem-ngu-phap-tieng-anh" element={<TracNghiemNguPhapTiengAnh />} />
 
-					{/* Cụm động từ */}
+					{/* Động cụm */}
 					<Route path="/tieng-anh/phrasal-verbs-quiz" element={<PhrasalVerbsQuiz />} />
 
 					{/* Thì tiếng Anh */}

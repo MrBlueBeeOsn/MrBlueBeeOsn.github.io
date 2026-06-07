@@ -152,7 +152,7 @@ export default function ThinkStraightFlowFast4(): React.JSX.Element {
 
 			<p>Cách mình làm rất đơn giản — nhưng hiệu quả đến bất ngờ:</p>
 
-			<p className="margin-top-20 quote"><strong>Chuyển cấu trúc tiếng Việt sang cùng trật tự với tiếng Anh. Tính từ đứng trước danh từ</strong></p>
+			<p className="margin-top-20 quote"><strong>Chuyển cấu trúc tiếng Việt sang cùng trật tự với tiếng Anh. Tính cơ đứng trước danh từ</strong></p>
 			
 			<p className="margin-top-20">Ví dụ:</p>
 				

@@ -124,7 +124,7 @@ export default function DependentClause8(): React.JSX.Element {
 			
 				</ul>
 			
-			<p className="margin-top-20 text-indent-whole">Danh từ cần làm rõ: The developer</p>
+			<p className="margin-top-20 text-indent-whole">Danh cơ cần làm rõ: The developer</p>
 
 			<p className="text-indent-whole">Mảnh phụ: who fixed the bug</p>
 

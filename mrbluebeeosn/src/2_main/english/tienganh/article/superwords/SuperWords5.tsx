@@ -48,7 +48,7 @@ export default function SuperWords5(): React.JSX.Element {
 
 			</h1>
 
-			<h4 className="margin-bottom-30 text-center">Siêu Danh Từ, Siêu Tính Từ, Siêu Trạng Từ — Cách hiểu mệnh đề phụ mà không cần học thuộc lòng</h4>
+			<h4 className="margin-bottom-30 text-center">Siêu Danh Cơ, Siêu Tính Cơ, Siêu Trạng Cơ — Cách hiểu mệnh đề phụ mà không cần học thuộc lòng</h4>
 
 			<p></p>
 
@@ -67,14 +67,14 @@ export default function SuperWords5(): React.JSX.Element {
 
 			{/* 1.  */}
 
-			<h3 className="margin-y-50 text-center">1. 🔵 Siêu Danh Từ / Super-Noun</h3>
+			<h3 className="margin-y-50 text-center">1. 🔵 Siêu Danh Cơ / Super-Noun</h3>
 
 			<p></p>
 
 
 			{/* 2.  */}
 
-			<h3 className="margin-y-50 text-center">2. 🟢 Siêu Tính Từ / Super-Adjective</h3>
+			<h3 className="margin-y-50 text-center">2. 🟢 Siêu Tính Cơ / Super-Adjective</h3>
 
 			<p></p>
 
@@ -83,7 +83,7 @@ export default function SuperWords5(): React.JSX.Element {
 
 			{/* 3.  */}
 
-			<h3 className="margin-y-50 text-center">3. 🟠 Siêu Trạng Từ / Super-Adverb</h3>
+			<h3 className="margin-y-50 text-center">3. 🟠 Siêu Trạng Cơ / Super-Adverb</h3>
 
 			<p></p>
 			

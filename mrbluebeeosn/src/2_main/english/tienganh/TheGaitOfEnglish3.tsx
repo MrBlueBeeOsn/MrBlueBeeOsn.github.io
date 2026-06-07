@@ -70,7 +70,7 @@ export default function TheGaitOfEnglish3(): React.JSX.Element {
 
 					<li><strong>O</strong> – <strong>Object</strong> (Tân ngữ)</li>
 
-					<li><strong>V</strong> – <strong>Verb</strong> (Động từ)</li>
+					<li><strong>V</strong> – <strong>Verb</strong> (Động cơ)</li>
 
 					<li><strong>S</strong> – <strong>Subject</strong> (Chủ ngữ)</li>
 
@@ -99,7 +99,7 @@ export default function TheGaitOfEnglish3(): React.JSX.Element {
 
 					<li>Rồi đến <strong>O</strong> (Tân ngữ),</li>
 
-					<li>Tiếp tục đi thẳng gặp <strong>V</strong> (Động từ),</li>
+					<li>Tiếp tục đi thẳng gặp <strong>V</strong> (Động cơ),</li>
 
 					<li>Gặp <strong>S</strong> (Chủ ngữ) đầu tiên,</li>
 			

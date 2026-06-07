@@ -65,19 +65,19 @@ export default function Grateful(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li><strong>Grateful</strong> (Tính từ) /ˈɡreɪt.fəl/</li>
+          <li><strong>Grateful</strong> (Tính cơ) /ˈɡreɪt.fəl/</li>
           <li className="list-none">She felt ______ for the warm hospitality of her hosts.</li>
           <li className="margin-bottom-20 list-none">Cô cảm thấy biết ơn vì sự hiếu khách nồng hậu của những người chủ nhà.</li>
 
-          <li><strong>Gratefully</strong> (Trạng từ) /ˈɡreɪt.fə.li/</li>
+          <li><strong>Gratefully</strong> (Trạng cơ) /ˈɡreɪt.fə.li/</li>
           <li className="list-none">He ______ accepted the offer of a hot meal.</li>
           <li className="margin-bottom-20 list-none">Anh ấy đã trân trọng đón nhận lời đề nghị về một bữa ăn nóng sốt.</li>
 
-          <li><strong>Gratitude</strong> (Danh từ) /ˈɡræt.ɪ.tuːd/</li>
+          <li><strong>Gratitude</strong> (Danh cơ) /ˈɡræt.ɪ.tuːd/</li>
           <li className="list-none">The simplest way to express your ______ is by saying thank you.</li>
           <li className="margin-bottom-20 list-none">Cách đơn giản nhất để bày tỏ lòng biết ơn của bạn là nói lời cảm ơn.</li>
 
-          <li><strong>Gratefulness</strong> (Danh từ) /ˈɡreɪt.fəl.nəs/</li>
+          <li><strong>Gratefulness</strong> (Danh cơ) /ˈɡreɪt.fəl.nəs/</li>
           <li className="list-none">A deep sense of ______ filled her heart when she saw her family safe.</li>
           <li className="list-none">Một cảm giác biết ơn sâu sắc tràn ngập trái tim cô khi thấy gia đình mình bình an.</li>
 

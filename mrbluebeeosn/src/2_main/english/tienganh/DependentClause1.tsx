@@ -62,7 +62,7 @@ export default function DependentClause1(): React.JSX.Element {
 
 			<p>Một mệnh đề phụ thuộc luôn mang trong mình một nghịch lý:</p>
 
-			<p>Nó có đầy đủ <strong>Chủ ngữ</strong> (<strong>S</strong>) và <strong>Động từ</strong> (<strong>V</strong>), nhưng lại không thể truyền tải một thông điệp trọn vẹn.</p>
+			<p>Nó có đầy đủ <strong>Chủ ngữ</strong> (<strong>S</strong>) và <strong>Động cơ</strong> (<strong>V</strong>), nhưng lại không thể truyền tải một thông điệp trọn vẹn.</p>
 
 			<p>Nguyên nhân là do sự xuất hiện của một <strong>Từ dẫn dắt</strong> (<strong>Marker Word</strong>) đứng ở ngay đầu vế câu.</p>
 
@@ -135,7 +135,7 @@ export default function DependentClause1(): React.JSX.Element {
 
 			<p>Mọi mệnh đề phụ thuộc dù dài hay ngắn đều chỉ đảm nhận vị trí tương đương với một từ loại cơ bản.</p>
 			
-			<h4 className="margin-y-40">Chức năng Tính từ (Adjective Clause)</h4>
+			<h4 className="margin-y-40">Chức năng Tính cơ (Adjective Clause)</h4>
 					
 			<p className="text-indent-whole">Nằm ngay sau một danh từ để định hình hoặc làm rõ đặc điểm cho danh từ đó.</p>
 			
@@ -149,7 +149,7 @@ export default function DependentClause1(): React.JSX.Element {
 			<p className="margin-top-20 text-indent-whole">→ Cụm "that is barking" đóng vai trò như một tính từ lớn để phân biệt con chó này với những con khác</p>
 			
 			
-			<h4 className="margin-y-40">Chức năng Trạng từ (Adverbial Clause)</h4>
+			<h4 className="margin-y-40">Chức năng Trạng cơ (Adverbial Clause)</h4>
 					
 			<p className="text-indent-whole">Thiết lập bối cảnh cho hành động chính, làm rõ các yếu tố về thời gian, lý do hoặc sự tương phản.</p>
 			
@@ -163,7 +163,7 @@ export default function DependentClause1(): React.JSX.Element {
 			<p className="margin-top-20 text-indent-whole">→ Cụm "because it was cold" giải thích nguyên nhân cho việc ở trong nhà</p>
 			
 			
-			<h4 className="margin-y-40">Chức năng Danh từ (Noun Clause)</h4>
+			<h4 className="margin-y-40">Chức năng Danh cơ (Noun Clause)</h4>
 					
 			<p className="text-indent-whole">Chiếm lĩnh vị trí của một danh từ thông thường để làm Chủ ngữ hoặc Tân ngữ chịu tác động.</p>
 			

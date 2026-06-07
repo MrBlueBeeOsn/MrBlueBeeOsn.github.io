@@ -43,7 +43,7 @@ export default function Really1(): React.JSX.Element {
               </span>
             </li>
 
-            <li>Trạng từ (<Link to="/grammar/what-is-an-adverb?">adverb</Link>)</li>
+            <li>Trạng cơ (<Link to="/grammar/what-is-an-adverb?">adverb</Link>)</li>
 
             <li>Thực sự, rất</li>
 

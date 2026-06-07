@@ -52,7 +52,7 @@ export default function SV1(): React.JSX.Element {
 
 			<p>Có một sự thật phũ phàng trong việc học tiếng Anh tại Việt Nam: Hàng triệu người học đang bị bóp nghẹt tư duy bởi những thuật ngữ mang tính triết học cũ kỹ. Những chữ như “Mệnh đề”, “Cụm từ” vốn là những từ Hán-Việt rất nặng tính hàn lâm, không hề gợi hình và hoàn toàn tách rời khỏi bản chất cấu trúc thực tế.</p>
 
-			<p>Đã bao giờ bạn mất hàng tiếng đồng hồ chỉ để phân biệt khi nào dùng "Cụm danh từ", khi nào dùng "Mệnh đề danh từ" chưa? Sự rối rắm này không đến từ năng lực của bạn, nó đến từ hệ thống thuật ngữ phức tạp của thế kỷ trước.</p>
+			<p>Đã bao giờ bạn mất hàng tiếng đồng hồ chỉ để phân biệt khi nào dùng "Danh cụm", khi nào dùng "Danh câu" chưa? Sự rối rắm này không đến từ năng lực của bạn, nó đến từ hệ thống thuật ngữ phức tạp của thế kỷ trước.</p>
 
 			<p className="margin-y-30"><strong>Phóng to từ đơn thành các</strong> "<strong>Siêu Từ</strong>" (<strong>Super</strong>-<strong>Words</strong>).</p>
 			
@@ -120,11 +120,11 @@ export default function SV1(): React.JSX.Element {
 
 			<h3 className="margin-y-50 text-center">2. Thiết lập chuỗi tiến trình: Gộp "Cấu trúc" và "Chức năng" làm một</h3>
 
-			<p>Khi một <strong>Phụ cụm</strong> hoặc một <strong>Phụ câu</strong> đi làm nhiệm vụ cho một từ loại nào đó (Danh từ, Tính từ, Trạng từ), chúng ta chỉ cần ghép tên chức năng với tên cấu trúc. Tư duy ngữ pháp lúc này sẽ được sắp xếp theo một trục phân cấp cực kỳ logic và tuyến tính:</p>
+			<p>Khi một <strong>Phụ cụm</strong> hoặc một <strong>Phụ câu</strong> đi làm nhiệm vụ cho một từ loại nào đó (Danh cơ, Tính cơ, Trạng cơ), chúng ta chỉ cần ghép tên chức năng với tên cấu trúc. Tư duy ngữ pháp lúc này sẽ được sắp xếp theo một trục phân cấp cực kỳ logic và tuyến tính:</p>
 
-			<h4 className="margin-y-40">Cấp độ chức năng Danh từ:</h4>
+			<h4 className="margin-y-40">Cấp độ chức năng Danh cơ:</h4>
 					
-			<p className="margin-y-20 text-indent-whole"><strong>Danh từ</strong>:</p>
+			<p className="margin-y-20 text-indent-whole"><strong>Danh cơ</strong>:</p>
 			
 				<ul className="list-square">
 			
@@ -163,9 +163,9 @@ export default function SV1(): React.JSX.Element {
 			<p className="margin-y-40 text-indent-whole">"<strong>Danh câu</strong> thực chất là một cái Câu con được thuê về để làm vệ sĩ chức năng cho một danh từ trong <strong>Câu lớn</strong>".</p>
 
 
-			<h4 className="margin-y-40">Cấp độ chức năng Tính từ:</h4>
+			<h4 className="margin-y-40">Cấp độ chức năng Tính cơ:</h4>
 					
-			<p className="margin-y-20 text-indent-whole"><strong>Tính từ</strong>:</p>
+			<p className="margin-y-20 text-indent-whole"><strong>Tính cơ</strong>:</p>
 			
 				<ul className="list-square">
 			
@@ -199,9 +199,9 @@ export default function SV1(): React.JSX.Element {
 				</ul>
 
 
-			<h4 className="margin-y-40">Cấp độ chức năng Trạng từ:</h4>
+			<h4 className="margin-y-40">Cấp độ chức năng Trạng cơ:</h4>
 					
-			<p className="margin-y-20 text-indent-whole"><strong>Trạng từ</strong>:</p>
+			<p className="margin-y-20 text-indent-whole"><strong>Trạng cơ</strong>:</p>
 			
 				<ul className="list-square">
 			

@@ -44,9 +44,9 @@ export default function TheBeautyOfTheGirl1(): React.JSX.Element {
 					
 			<p>Hôm nay, tôi sẽ chỉ cho bạn một cách để "mượn đường" cấu trúc, giúp bạn đọc đến đâu, hiểu ngay đến đó theo đúng chiều xuôi của mắt!</p>
 
-			{/* 1. Bí kíp: Biến "Tính từ" thành "Cái..." */}
+			{/* 1. Bí kíp: Biến "Tính cơ" thành "Cái..." */}
 			
-			<h3 className="margin-y-50 text-center">1. Bí kíp: Biến "Tính từ" thành "Cái..."</h3>
+			<h3 className="margin-y-50 text-center">1. Bí kíp: Biến "Tính cơ" thành "Cái..."</h3>
 
 			<p>Thay vì cố dịch ngược tính từ lên trước, hãy lập tức biến nó thành một danh từ chỉ <strong>bản chất</strong>. Hãy dùng cấu trúc "<strong>Cái</strong>... <strong>của</strong>..." để tạo ra một dòng chảy mượt mà.</p>
 

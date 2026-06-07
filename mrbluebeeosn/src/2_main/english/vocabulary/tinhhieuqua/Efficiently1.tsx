@@ -43,7 +43,7 @@ export default function Efficiently1(): React.JSX.Element {
               </span>
             </li>
 
-            <li>Trạng từ (<Link to="/grammar/what-is-an-adverb?">adverb</Link>)</li>
+            <li>Trạng cơ (<Link to="/grammar/what-is-an-adverb?">adverb</Link>)</li>
 
             <li>Một cách hiệu quả</li>
 

@@ -48,13 +48,13 @@ export default function AdjPlacement7(): React.JSX.Element {
 
 			</h1>
 
-			<h4 className="margin-bottom-30 text-center">Danh từ trước — mô tả sau: Chìa khóa đẳng cấp giúp người Việt làm chủ tiếng Anh nhanh hơn bạn nghĩ</h4>
+			<h4 className="margin-bottom-30 text-center">Danh cơ trước — mô tả sau: Chìa khóa đẳng cấp giúp người Việt làm chủ tiếng Anh nhanh hơn bạn nghĩ</h4>
 
 			<p>Nhiều người Việt bước vào tiếng Anh với một niềm tin sai lầm: rằng tiếng Anh “khác hoàn toàn” so với tiếng mẹ đẻ, nhất là về vị trí của tính từ.</p>
 
 			<p>Họ chỉ quen hai mẫu đơn giản:</p>
 
-			<p className="margin-top-20"><strong>Tính từ đứng trước danh từ</strong></p>
+			<p className="margin-top-20"><strong>Tính cơ đứng trước danh từ</strong></p>
 			
 				<ul className="list-square">
 			
@@ -63,7 +63,7 @@ export default function AdjPlacement7(): React.JSX.Element {
 			
 				</ul>
 			
-			<p className="margin-top-20"><strong>Tính từ đứng sau to be</strong></p>
+			<p className="margin-top-20"><strong>Tính cơ đứng sau to be</strong></p>
 			
 				<ul className="list-square">
 			
@@ -89,14 +89,14 @@ export default function AdjPlacement7(): React.JSX.Element {
 
 			<p>Và đây chính là điểm tương đồng mạnh mẽ nhất với tiếng Việt:</p>
 
-			<p className="margin-y-20"><strong>Danh từ trước</strong> — <strong>mô tả sau</strong>.</p>
+			<p className="margin-y-20"><strong>Danh cơ trước</strong> — <strong>mô tả sau</strong>.</p>
 			
 			<p>Khi bạn hiểu rõ điều này, bạn không chỉ “biến tiếng Anh thành quen thuộc” mà còn sở hữu một chìa khóa giúp viết mạch lạc, nói tự nhiên và vượt qua rào cản tâm lý khiến nhiều người mãi dậm chân tại chỗ.</p>
 
 
 			{/* 1.  */}
 
-			<h3 className="margin-y-50 text-center">1. Danh từ trước — mô tả sau</h3>
+			<h3 className="margin-y-50 text-center">1. Danh cơ trước — mô tả sau</h3>
 
 			<p>Điểm tương đồng khiến tiếng Anh “<strong>giống tiếng Việt hơn bạn nghĩ</strong>”</p>
 
@@ -154,7 +154,7 @@ export default function AdjPlacement7(): React.JSX.Element {
 			
 			<p>Về chức năng và vị trí, tiếng Anh ở đây hoàn toàn đồng bộ với tiếng Việt:</p>
 
-			<p className="margin-y-20"><strong>Danh từ trước</strong> — <strong>mô tả sau</strong>.</p>
+			<p className="margin-y-20"><strong>Danh cơ trước</strong> — <strong>mô tả sau</strong>.</p>
 
 			{/* 2.  */}
 
@@ -272,7 +272,7 @@ export default function AdjPlacement7(): React.JSX.Element {
 
 			<p>Ở cấp độ cao — đặc biệt trong văn viết và giao tiếp nâng cao — tiếng Anh vận hành theo nguyên tắc:</p>
 
-			<p className="margin-y-20"><strong>Danh từ trước</strong> — <strong>mô tả sau</strong>.</p>
+			<p className="margin-y-20"><strong>Danh cơ trước</strong> — <strong>mô tả sau</strong>.</p>
 
 			<p>Giống tiếng Việt.</p>
 

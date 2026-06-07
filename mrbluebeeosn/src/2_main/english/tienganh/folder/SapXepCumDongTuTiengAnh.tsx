@@ -17,7 +17,7 @@ export default function SapXepCumDongTuTiengAnh(): React.JSX.Element {
 		
 			<h4><HashLink smooth to="/tieng-anh#tieng-anh-terms"><mark className="highlight-tertiary-padding-4-8">Tiếng Anh</mark></HashLink></h4>
 			
-			<h1 className="margin-y-50 text-center">Hướng Dẫn Sắp Xếp Cụm Động Từ
+			<h1 className="margin-y-50 text-center">Hướng Dẫn Sắp Xếp Động Cụm
 			
 				<sup><HashLink smooth to="/tieng-anh/huong-dan-sap-xep-cum-danh-tu-tieng-anh">&nbsp;1&nbsp;</HashLink>
 				</sup>
@@ -39,7 +39,7 @@ export default function SapXepCumDongTuTiengAnh(): React.JSX.Element {
 			
 					<li>Bước 2: đặt <strong>động từ chính</strong> (hoặc dạng của nó) vào <strong>bên phải</strong> cùng</li>
 			
-					<li className="list-none">→ Xong! Cụm động từ đã đúng cấu trúc 100%.</li>
+					<li className="list-none">→ Xong! Động cụm đã đúng cấu trúc 100%.</li>
 			
 				</ul>
 
@@ -47,7 +47,7 @@ export default function SapXepCumDongTuTiengAnh(): React.JSX.Element {
 
 					<span className="highlight-238-padding-4-8 text-border1">
 
-						<span className="highlight-255-padding-0-4">Trợ động từ, phủ định, trạng từ…</span> đứng bên trái, <span className="highlight-255-padding-0-4">Động từ chính</span> đứng bên phải
+						<span className="highlight-255-padding-0-4">Trợ động từ, phủ định, trạng từ…</span> đứng bên trái, <span className="highlight-255-padding-0-4">Động cơ chính</span> đứng bên phải
 
 					</span>
 
@@ -99,7 +99,7 @@ export default function SapXepCumDongTuTiengAnh(): React.JSX.Element {
 
 				<h3 className="margin-y-50 text-center">Bước 2: Đặt động từ chính (hoặc dạng V3/V-ing) vào bên phải cùng</h3>
 
-				<p>→ Cụm động từ hoàn chỉnh.</p>
+				<p>→ Động cụm hoàn chỉnh.</p>
 
 				<p>Ví dụ minh họa siêu nhanh</p>
 
@@ -155,7 +155,7 @@ export default function SapXepCumDongTuTiengAnh(): React.JSX.Element {
 
 					<li>Passive: be + V3</li>
 
-					<li>Động từ chính</li>
+					<li>Động cơ chính</li>
 
 					<li className="list-none">→ Viết tắt: <strong>M – P – C – P – Main verb</strong></li>
 
@@ -167,7 +167,7 @@ export default function SapXepCumDongTuTiengAnh(): React.JSX.Element {
 
 				<ul className="list-square">
 
-					<li>Động từ chính (hoặc dạng V3/V-ing của nó) luôn là từ cuối cùng bên phải.</li>
+					<li>Động cơ chính (hoặc dạng V3/V-ing của nó) luôn là từ cuối cùng bên phải.</li>
 
 					<li>Nếu có phủ định → chèn “not” ngay sau trợ động từ đầu tiên.</li>
 
@@ -183,7 +183,7 @@ export default function SapXepCumDongTuTiengAnh(): React.JSX.Element {
 
 			<p><strong>Trợ động từ</strong> + <strong>phủ định</strong> + <strong>modal</strong> → gom hết <strong>bên trái</strong></p>
 
-			<p><strong>Động từ chính</strong> (hoặc dạng của nó) → đặt <strong>bên phải</strong> cùng</p>
+			<p><strong>Động cơ chính</strong> (hoặc dạng của nó) → đặt <strong>bên phải</strong> cùng</p>
 			
 			<p>Thực hành 10–15 cụm mỗi ngày theo 2 bước này, chỉ sau vài ngày bạn sẽ tự động xếp được mọi thì phức tạp nhất (future perfect continuous passive…) mà không cần tra bảng thì nữa!</p>
 

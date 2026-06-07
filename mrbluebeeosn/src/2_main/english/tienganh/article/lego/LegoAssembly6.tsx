@@ -70,7 +70,7 @@ export default function LegoAssembly6(): React.JSX.Element {
 					<li className="margin-bottom-20 list-none">Chủ ngữ</li>
 
 					<li><strong>Head</strong> = hạt nhân:</li>
-					<li className="margin-bottom-20 list-none">Động từ chia, trợ động từ, modal, hoặc be.</li>
+					<li className="margin-bottom-20 list-none">Động cơ chia, trợ động từ, modal, hoặc be.</li>
 			
 					<li><strong>DP</strong> = Dependent Phrase</li>
 					<li className="margin-bottom-20 list-none">Nhãn chức năng cho phần phụ thuộc theo vị trí (object, complement, hoặc phần đứng ở vị trí subject). DP có thể là cụm danh từ, cụm tính từ, participial phrase, gerund clause, infinitive phrase, mệnh đề danh từ, v.v.</li>
@@ -105,7 +105,7 @@ export default function LegoAssembly6(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li><strong>Động từ chia</strong>:</li>
+					<li><strong>Động cơ chia</strong>:</li>
 					<li className="margin-bottom-20 list-none">Mang thì trong khẳng định; khi phủ định/nghi vấn cần trợ <strong>do</strong>/<strong>does</strong>/<strong>did</strong>.</li>
 
 					<li><strong>Trợ động từ</strong> (<strong>do</strong>/<strong>does</strong>/<strong>did</strong>):</li>

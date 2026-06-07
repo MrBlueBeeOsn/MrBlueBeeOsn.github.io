@@ -17,11 +17,11 @@ export default function Bang50DongTuBatQuyTac(): React.JSX.Element {
 		
 			<h4><HashLink smooth to="/tieng-anh#tieng-anh-terms"><mark className="highlight-tertiary-padding-4-8">Tiếng Anh</mark></HashLink></h4>
 
-			<h1 className="margin-y-50 text-center">Động từ bất quy tắc</h1>
+			<h1 className="margin-y-50 text-center">Động cơ bất quy tắc</h1>
 
 			<h4 className="margin-bottom-30 text-center">Bảng đầy đủ & cách sử dụng chi tiết nhất (2025) </h4>
 
-			<p>Động từ bất quy tắc (irregular verbs) là “cơn ác mộng” của rất nhiều người học tiếng Anh, vì chúng không theo quy tắc thêm -ed như động từ thường. Tuy nhiên, chỉ cần nắm vững khoảng <strong>60–70 động từ phổ biến nhất</strong>, bạn đã có thể giao tiếp tự tin, viết email chuyên nghiệp, thi IELTS/TOEIC đạt điểm cao và thậm chí nói chuyện như người bản xứ ở mức trung cấp – cao cấp.</p>
+			<p>Động cơ bất quy tắc (irregular verbs) là “cơn ác mộng” của rất nhiều người học tiếng Anh, vì chúng không theo quy tắc thêm -ed như động từ thường. Tuy nhiên, chỉ cần nắm vững khoảng <strong>60–70 động từ phổ biến nhất</strong>, bạn đã có thể giao tiếp tự tin, viết email chuyên nghiệp, thi IELTS/TOEIC đạt điểm cao và thậm chí nói chuyện như người bản xứ ở mức trung cấp – cao cấp.</p>
 
 			<p>Dưới đây là bảng <strong>động từ bất quy tắc phổ biến nhất</strong> (được cập nhật theo mức độ sử dụng thực tế năm 2025), kèm giải thích cách dùng rõ ràng, dễ nhớ.</p>
 

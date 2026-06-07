@@ -17,7 +17,7 @@ export default function NhanBietTinhTuTiengAnh(): React.JSX.Element {
 		
 			<h4><HashLink smooth to="/tieng-anh#tieng-anh-terms"><mark className="highlight-tertiary-padding-4-8">Tiếng Anh</mark></HashLink></h4>
 
-			<h1 className="margin-y-50 text-center">Bí Quyết Nhận Biết Tính Từ Tiếng Anh Nhanh Như Chớp Qua Đuôi Từ</h1>
+			<h1 className="margin-y-50 text-center">Bí Quyết Nhận Biết Tính Cơ Tiếng Anh Nhanh Như Chớp Qua Đuôi Từ</h1>
 
 			<p>Bạn có bao giờ cảm thấy bối rối khi phải phân biệt <strong>tính từ</strong> (<strong>adjective</strong>) với các từ loại khác trong câu? Đừng lo! Trong tiếng Anh, hầu hết tính từ đều để lại “dấu vân tay” rất rõ ràng qua <strong>đuôi từ</strong> (<strong>suffix</strong>). Chỉ cần ghi nhớ khoảng 8–10 đuôi phổ biến nhất, bạn đã có thể đoán đúng đến 85–90% các tính từ khi làm bài thi, viết luận hay giao tiếp hàng ngày.</p>
 			
@@ -25,7 +25,7 @@ export default function NhanBietTinhTuTiengAnh(): React.JSX.Element {
 
 			<h3 className="margin-y-50 text-center">Tại sao đuôi từ lại “bật mí” tính từ?Tóm tắt các đuôi tính từ phổ biến nhất</h3>
 
-			<p>Tính từ thường được tạo ra từ danh từ hoặc động từ bằng cách thêm hậu tố. Mỗi hậu tố mang một ý nghĩa đặc trưng, giúp ta nhanh chóng nhận diện vai trò của từ trong câu.</p>
+			<p>Tính cơ thường được tạo ra từ danh từ hoặc động từ bằng cách thêm hậu tố. Mỗi hậu tố mang một ý nghĩa đặc trưng, giúp ta nhanh chóng nhận diện vai trò của từ trong câu.</p>
 					
 			<p>Dưới đây là <strong>bảng tóm tắt các đuôi tính từ phổ biến nhất</strong> kèm rất nhiều ví dụ thực tế:</p>
 

@@ -90,7 +90,7 @@ export default function TheGaitOfEnglish2(): React.JSX.Element {
 					<li><strong>Bậc 3</strong> – <strong>O</strong> (<strong>Object</strong> – <strong>Tân ngữ</strong>)</li>
 					<li className="margin-bottom-20 list-none">Người hoặc vật nhận chịu hành động. Bậc thứ ba – xa hơn một chút, nhưng vẫn nằm trong tầm với. Bạn không thể có O nếu chưa qua V, cũng như không thể bước lên bậc ba nếu chưa đặt chân lên bậc hai.</li>
 
-					<li><strong>Bậc 2</strong> – <strong>V</strong> (<strong>Verb</strong> – <strong>Động từ</strong>)</li>
+					<li><strong>Bậc 2</strong> – <strong>V</strong> (<strong>Verb</strong> – <strong>Động cơ</strong>)</li>
 					<li className="margin-bottom-20 list-none">Ngay trên đầu chủ ngữ. Là <strong>hành động</strong> hoặc <strong>trạng thái</strong>. Bạn bước lên một bậc – thế giới bắt đầu chuyển động.</li>
 
 					<li><strong>Bậc 1</strong> – <strong>S</strong> (<strong>Subject</strong> – <strong>Chủ ngữ</strong>)</li>
@@ -122,7 +122,7 @@ export default function TheGaitOfEnglish2(): React.JSX.Element {
 
 			<p>Tất nhiên, tiếng Anh có những ngoại lệ. Đôi khi người ta đưa thời gian lên đầu để nhấn mạnh: “Yesterday, I met her.” Lúc này, trong tưởng tượng, họ như <strong>leo một mạch lên đỉnh rồi lại tụt xuống</strong> – được phép, nhưng không phải là lẽ thường. Và dù sao, phần còn lại của câu vẫn tuân theo SVOMPT: I met her (S-V-O) rồi mới đến M, P nếu có.</p>
 
-			<p className="margin-top-20">Trạng từ tần suất (always, never, often) thường chen giữa S và V – một bậc phụ rất nhỏ, nhưng vẫn nằm trên đường thẳng. Hãy coi đó là những bậc lửng – không làm gãy trật tự tổng thể.</p>
+			<p className="margin-top-20">Trạng cơ tần suất (always, never, often) thường chen giữa S và V – một bậc phụ rất nhỏ, nhưng vẫn nằm trên đường thẳng. Hãy coi đó là những bậc lửng – không làm gãy trật tự tổng thể.</p>
 
 			{/* 6. Làm sao để luyện tập con đường thẳng đứng này? */}
 			

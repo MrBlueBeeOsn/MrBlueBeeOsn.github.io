@@ -153,9 +153,9 @@ export default function TheBeautyOfTheGirl3(): React.JSX.Element {
 				<table className="margin-top-20 margin-bottom-50">
 					<thead>
 						<tr>
-							<th>Tính từ</th>
+							<th>Tính cơ</th>
 							<th>→</th>
-							<th>Danh từ</th>
+							<th>Danh cơ</th>
 							<th>Ví dụ</th>
 						</tr>
 					</thead>

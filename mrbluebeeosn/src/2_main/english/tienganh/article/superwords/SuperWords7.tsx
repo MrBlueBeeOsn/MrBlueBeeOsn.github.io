@@ -48,7 +48,7 @@ export default function SuperWords7(): React.JSX.Element {
 
 			</h1>
 
-			<h4 className="margin-bottom-30 text-center">Siêu Danh Từ, Siêu Tính Từ, Siêu Trạng Từ: Cách Gọi Song Ngữ Thông Minh Để "Bẻ Gãy" Mệnh Đề Tiếng Anh</h4>
+			<h4 className="margin-bottom-30 text-center">Siêu Danh Cơ, Siêu Tính Cơ, Siêu Trạng Cơ: Cách Gọi Song Ngữ Thông Minh Để "Bẻ Gãy" Mệnh Đề Tiếng Anh</h4>
 
 			<p></p>
 
@@ -79,21 +79,21 @@ export default function SuperWords7(): React.JSX.Element {
 
 			{/* 1.  */}
 
-			<h3 className="margin-y-50 text-center">1️⃣ Super-noun (Siêu Danh Từ) = Mệnh Đề Danh Từ / Noun Clause</h3>
+			<h3 className="margin-y-50 text-center">1️⃣ Super-noun (Siêu Danh Cơ) = Mệnh Đề Danh Cơ / Noun Clause</h3>
 
 			<p></p>
 
 
 			{/* 2.  */}
 
-			<h3 className="margin-y-50 text-center">2️⃣ Super-adjective (Siêu Tính Từ) = Mệnh Đề Tính Từ / Adjective Clause</h3>
+			<h3 className="margin-y-50 text-center">2️⃣ Super-adjective (Siêu Tính Cơ) = Mệnh Đề Tính Cơ / Adjective Clause</h3>
 
 			<p></p>
 
 
 			{/* 3.  */}
 
-			<h3 className="margin-y-50 text-center">3️⃣ Super-adverb (Siêu Trạng Từ) = Mệnh Đề Trạng Ngữ / Adverb Clause</h3>
+			<h3 className="margin-y-50 text-center">3️⃣ Super-adverb (Siêu Trạng Cơ) = Mệnh Đề Trạng Ngữ / Adverb Clause</h3>
 
 			<p></p>
 
@@ -294,7 +294,7 @@ export default function SuperWords7(): React.JSX.Element {
 
 			<p></p>
 
-			<h4 className="margin-y-40">Super-noun (Siêu Danh Từ)</h4>
+			<h4 className="margin-y-40">Super-noun (Siêu Danh Cơ)</h4>
 					
 			<p className="text-indent-whole"></p>
 
@@ -337,7 +337,7 @@ export default function SuperWords7(): React.JSX.Element {
 			<p className="margin-top-20 text-indent-whole"></p>
 
 
-			<h4 className="margin-y-40">Super-adjective (Siêu Tính Từ)</h4>
+			<h4 className="margin-y-40">Super-adjective (Siêu Tính Cơ)</h4>
 					
 			<p className="text-indent-whole"></p>
 
@@ -380,7 +380,7 @@ export default function SuperWords7(): React.JSX.Element {
 			<p className="margin-top-20 text-indent-whole"></p>
 
 
-			<h4 className="margin-y-40">Super-adverb (Siêu Trạng Từ)</h4>
+			<h4 className="margin-y-40">Super-adverb (Siêu Trạng Cơ)</h4>
 					
 			<p className="text-indent-whole"></p>
 			

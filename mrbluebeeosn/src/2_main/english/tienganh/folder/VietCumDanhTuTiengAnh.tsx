@@ -17,7 +17,7 @@ export default function VietCumDanhTuTiengAnh(): React.JSX.Element {
 		
 			<h4><HashLink smooth to="/tieng-anh#tieng-anh-terms"><mark className="highlight-tertiary-padding-4-8">Tiếng Anh</mark></HashLink></h4>
 			
-			<h1 className="margin-y-50 text-center">Hướng Dẫn Viết Cụm Danh Từ
+			<h1 className="margin-y-50 text-center">Hướng Dẫn Viết Danh Cụm
 
 				<sup><HashLink smooth to="/tieng-anh/huong-dan-viet-cum-danh-tu-tieng-anh">&nbsp;1&nbsp;</HashLink>
 				</sup>
@@ -29,13 +29,13 @@ export default function VietCumDanhTuTiengAnh(): React.JSX.Element {
 
 			{/* This is the content of English Learning Term. */}
 
-			<p>Khi học tiếng Anh, nhiều người Việt thường gặp khó khăn khi viết cụm danh từ (noun phrases) vì thói quen đặt tính từ trước danh từ trong tiếng Việt (ví dụ: “bông hoa đẹp”). Trong tiếng Anh, quy tắc ngược lại: danh từ chính luôn là “lõi”, còn các tính từ, mạo từ (a/an/the), và các bổ ngữ khác thường đứng trước danh từ chính. Để viết cụm danh từ tiếng Anh một cách tự nhiên và đúng ngữ pháp, bạn có thể áp dụng nguyên tắc "<strong>Danh Từ viết trước</strong>, <strong>Tính Từ viết sau</strong>" — nghĩa là suy nghĩ và viết theo thứ tự từ phải sang trái. Phương pháp này giúp bạn tránh dịch máy móc và tạo ra câu tiếng Anh chuẩn xác ngay từ đầu. Bài viết này sẽ hướng dẫn chi tiết cách thực hiện.</p>
+			<p>Khi học tiếng Anh, nhiều người Việt thường gặp khó khăn khi viết cụm danh từ (noun phrases) vì thói quen đặt tính từ trước danh từ trong tiếng Việt (ví dụ: “bông hoa đẹp”). Trong tiếng Anh, quy tắc ngược lại: danh từ chính luôn là “lõi”, còn các tính từ, mạo từ (a/an/the), và các bổ ngữ khác thường đứng trước danh từ chính. Để viết cụm danh từ tiếng Anh một cách tự nhiên và đúng ngữ pháp, bạn có thể áp dụng nguyên tắc "<strong>Danh Cơ viết trước</strong>, <strong>Tính Cơ viết sau</strong>" — nghĩa là suy nghĩ và viết theo thứ tự từ phải sang trái. Phương pháp này giúp bạn tránh dịch máy móc và tạo ra câu tiếng Anh chuẩn xác ngay từ đầu. Bài viết này sẽ hướng dẫn chi tiết cách thực hiện.</p>
 
 				<p className="margin-y-50 text-center">
 
 					<span className="highlight-238-padding-4-8 text-border1">
 
-						<span className="highlight-255-padding-0-4">Danh Từ</span> Viết Trước, <span className="highlight-255-padding-0-4">Tính Từ</span> Viết Sau
+						<span className="highlight-255-padding-0-4">Danh Cơ</span> Viết Trước, <span className="highlight-255-padding-0-4">Tính Cơ</span> Viết Sau
 
 					</span>
 

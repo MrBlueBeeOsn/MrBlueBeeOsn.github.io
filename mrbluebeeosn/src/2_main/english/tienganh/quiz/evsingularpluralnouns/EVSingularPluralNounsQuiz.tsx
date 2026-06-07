@@ -114,7 +114,7 @@ export default function EVSingularPluralNounsQuiz(): React.JSX.Element {
 				"leaf"
 			],
 			correctAnswer: 2,
-			explanation: "Danh từ kết thúc bằng \"-f\" thường chuyển thành \"-ves\" ở số nhiều (leaf -> leaves)."
+			explanation: "Danh cơ kết thúc bằng \"-f\" thường chuyển thành \"-ves\" ở số nhiều (leaf -> leaves)."
 		},
 		{
 			id: 9,
@@ -138,7 +138,7 @@ export default function EVSingularPluralNounsQuiz(): React.JSX.Element {
 				"boxies"
 			],
 			correctAnswer: 2,
-			explanation: "Danh từ kết thúc bằng đuôi \"-x\" thì ta thêm hậu tố \"-es\" để tạo thành số nhiều."
+			explanation: "Danh cơ kết thúc bằng đuôi \"-x\" thì ta thêm hậu tố \"-es\" để tạo thành số nhiều."
 		}
 	];
 

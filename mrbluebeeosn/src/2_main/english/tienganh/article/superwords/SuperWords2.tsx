@@ -105,7 +105,7 @@ export default function SuperWords2(): React.JSX.Element {
 
 			<p></p>
 
-			<h4 className="margin-y-40">Danh từ (Noun)</h4>
+			<h4 className="margin-y-40">Danh cơ (Noun)</h4>
 					
 			<p className="text-indent-whole"></p>
 
@@ -125,7 +125,7 @@ export default function SuperWords2(): React.JSX.Element {
 			<p className="margin-top-20 text-indent-whole"></p>
 
 
-			<h4 className="margin-y-40">Tính từ (Adjective)</h4>
+			<h4 className="margin-y-40">Tính cơ (Adjective)</h4>
 					
 			<p className="text-indent-whole"></p>
 
@@ -145,7 +145,7 @@ export default function SuperWords2(): React.JSX.Element {
 			<p className="margin-top-20 text-indent-whole"></p>
 
 
-			<h4 className="margin-y-40">Trạng từ (Adverb)</h4>
+			<h4 className="margin-y-40">Trạng cơ (Adverb)</h4>
 					
 			<p className="text-indent-whole"></p>
 			
@@ -382,7 +382,7 @@ export default function SuperWords2(): React.JSX.Element {
 			<p className="margin-top-20 text-indent-whole"></p>
 
 
-			<h4 className="margin-y-40">Bảng các loại Siêu Trạng Từ trong tiếng Anh</h4>
+			<h4 className="margin-y-40">Bảng các loại Siêu Trạng Cơ trong tiếng Anh</h4>
 					
 			<p className="text-indent-whole"></p>
 
@@ -498,7 +498,7 @@ export default function SuperWords2(): React.JSX.Element {
 
 			<p></p>
 
-			<p className="margin-top-20">Siêu Danh Từ: Super‑noun</p>
+			<p className="margin-top-20">Siêu Danh Cơ: Super‑noun</p>
 			
 				<ul className="list-square">
 			
@@ -511,7 +511,7 @@ export default function SuperWords2(): React.JSX.Element {
 			
 			<p className="margin-top-20"></p>
 
-			<p className="margin-top-20">Siêu Tính Từ: Super‑adjective</p>
+			<p className="margin-top-20">Siêu Tính Cơ: Super‑adjective</p>
 			
 				<ul className="list-square">
 			
@@ -525,7 +525,7 @@ export default function SuperWords2(): React.JSX.Element {
 			<p className="margin-top-20"></p>
 
 
-			<p className="margin-top-20">Siêu Trạng Từ: Super‑adverb</p>
+			<p className="margin-top-20">Siêu Trạng Cơ: Super‑adverb</p>
 			
 				<ul className="list-square">
 			
@@ -643,7 +643,7 @@ export default function SuperWords2(): React.JSX.Element {
 
 			<h4 className="margin-y-40">📌 Nhớ nhanh:</h4>
 					
-			<p className="text-indent-whole">Siêu Danh Từ / Super‑noun</p>
+			<p className="text-indent-whole">Siêu Danh Cơ / Super‑noun</p>
 
 			
 				<ul className="list-square">
@@ -655,7 +655,7 @@ export default function SuperWords2(): React.JSX.Element {
 			
 				</ul>
 			
-			<p className="margin-top-20 text-indent-whole">Siêu Tính Từ / Super‑adjective</p>
+			<p className="margin-top-20 text-indent-whole">Siêu Tính Cơ / Super‑adjective</p>
 
 			<p className="text-indent-whole"></p>
 			
@@ -668,7 +668,7 @@ export default function SuperWords2(): React.JSX.Element {
 			
 				</ul>
 			
-			<p className="margin-top-20 text-indent-whole">Siêu Trạng Từ / Super‑adverb</p>
+			<p className="margin-top-20 text-indent-whole">Siêu Trạng Cơ / Super‑adverb</p>
 
 			<p className="text-indent-whole"></p>
 			

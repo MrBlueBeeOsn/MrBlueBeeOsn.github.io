@@ -73,13 +73,13 @@ export default function AdjPlacement4(): React.JSX.Element {
 			
 				</ul>
 			
-			<p className="margin-top-20">Tính từ đứng trước danh từ.</p>
+			<p className="margin-top-20">Tính cơ đứng trước danh từ.</p>
 
 			<p>Trong khi tiếng Việt lại nói:</p>
 
-			<p><strong>Danh từ đứng trước</strong>.</p>
+			<p><strong>Danh cơ đứng trước</strong>.</p>
 
-			<p><strong>Tính từ đứng sau</strong>.</p>
+			<p><strong>Tính cơ đứng sau</strong>.</p>
 
 			<p className="margin-top-20">Sự khác biệt đó lặp đi lặp lại đủ lâu để người học hình thành một niềm tin gần như mặc định:</p>
 			
@@ -144,7 +144,7 @@ export default function AdjPlacement4(): React.JSX.Element {
 
 			{/* 2.  */}
 
-			<h3 className="margin-y-50 text-center">2. Người Bản Ngữ Không Nhấn Mạnh Tính Từ. Họ Nhấn Mạnh Đối Tượng.</h3>
+			<h3 className="margin-y-50 text-center">2. Người Bản Ngữ Không Nhấn Mạnh Tính Cơ. Họ Nhấn Mạnh Đối Tượng.</h3>
 
 			<p>Hãy quan sát hai câu sau:</p>
 			
@@ -189,9 +189,9 @@ export default function AdjPlacement4(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li><strong>Tính từ</strong> đứng trước danh từ thường <strong>nhấn mạnh đặc điểm</strong>.</li>
+					<li><strong>Tính cơ</strong> đứng trước danh từ thường <strong>nhấn mạnh đặc điểm</strong>.</li>
 			
-					<li><strong>Danh từ</strong> đứng trước phần mô tả thường <strong>nhấn mạnh đối tượng</strong>.</li>
+					<li><strong>Danh cơ</strong> đứng trước phần mô tả thường <strong>nhấn mạnh đối tượng</strong>.</li>
 			
 				</ul>
 			
@@ -243,7 +243,7 @@ export default function AdjPlacement4(): React.JSX.Element {
 			
 			<p className="margin-top-20"><strong>Đối tượng trước</strong>, <strong>thông tin sau</strong>.</p>
 
-			<p><strong>Danh từ trước</strong>, <strong>mô tả sau</strong>.</p>
+			<p><strong>Danh cơ trước</strong>, <strong>mô tả sau</strong>.</p>
 
 			<p>Đột nhiên, tiếng Anh không còn xa lạ nữa.</p>
 
@@ -355,7 +355,7 @@ export default function AdjPlacement4(): React.JSX.Element {
 
 			<p>Nó đồng bộ với cách tư duy tự nhiên của tiếng Việt:</p>
 
-			<p className="margin-y-30"><strong>Danh từ trước</strong>, <strong>thông tin mô tả sau</strong>.</p>
+			<p className="margin-y-30"><strong>Danh cơ trước</strong>, <strong>thông tin mô tả sau</strong>.</p>
 
 
 			<p>Khi làm chủ được điều này:</p>
@@ -386,7 +386,7 @@ export default function AdjPlacement4(): React.JSX.Element {
 
 			<p>Nhưng trong trường hợp này, có lẽ điều ngược lại mới đúng.</p>
 			
-			<p>Người Việt đã quen với mô hình: <strong>Danh từ</strong> → <strong>Mô tả</strong></p>
+			<p>Người Việt đã quen với mô hình: <strong>Danh cơ</strong> → <strong>Mô tả</strong></p>
 
 
 			<p>Đó chính là nền tảng của rất nhiều câu tiếng Anh tự nhiên.</p>
@@ -410,7 +410,7 @@ export default function AdjPlacement4(): React.JSX.Element {
 
 			<p>Khi bước vào thế giới tiếng Anh thực sự, nơi các ý tưởng trở nên phong phú hơn và câu văn trở nên sâu sắc hơn, một mô hình khác bắt đầu xuất hiện liên tục:</p>
 
-			<p className="margin-y-20 "><strong>Danh từ trước</strong>, <strong>thông tin mô tả sau</strong>.</p>
+			<p className="margin-y-20 "><strong>Danh cơ trước</strong>, <strong>thông tin mô tả sau</strong>.</p>
 
 			<p>Và chính tại đây, tiếng Anh bất ngờ trở nên gần gũi với tiếng Việt hơn bao giờ hết.</p>
 

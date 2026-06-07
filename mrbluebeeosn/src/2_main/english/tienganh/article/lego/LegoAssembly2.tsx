@@ -170,7 +170,7 @@ export default function LegoAssembly2(): React.JSX.Element {
 					<li>She runs [fast].</li>
 					<li className="list-none">Cô ấy chạy [nhanh].</li>
 					<li className="list-none">runs = Head</li>
-					<li className="list-none">[fast] = Phụ từ → <strong>Trạng từ</strong> (Adverb) chỉ cách thức bổ nghĩa cho hành động "runs".</li>
+					<li className="list-none">[fast] = Phụ từ → <strong>Trạng cơ</strong> (Adverb) chỉ cách thức bổ nghĩa cho hành động "runs".</li>
 			
 				</ul>
 			
@@ -204,7 +204,7 @@ export default function LegoAssembly2(): React.JSX.Element {
 					<li>They <strong>have</strong> [finished].</li>
 					<li className="list-none">Họ đã hoàn thành xong.</li>
 					<li className="list-none">have = Head</li>
-					<li className="list-none">[finished] = Phụ từ → <strong>Động từ</strong></li>
+					<li className="list-none">[finished] = Phụ từ → <strong>Động cơ</strong></li>
 			
 				</ul>
 			

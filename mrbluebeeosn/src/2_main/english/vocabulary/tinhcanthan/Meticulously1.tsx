@@ -43,7 +43,7 @@ export default function Meticulously1(): React.JSX.Element {
               </span>
             </li>
 
-            <li>Trạng từ (<Link to="/grammar/what-is-an-adverb?">adverb</Link>)</li>
+            <li>Trạng cơ (<Link to="/grammar/what-is-an-adverb?">adverb</Link>)</li>
 
             <li>Một cách tỉ mỉ, kỹ lưỡng, chu đáo</li>
 

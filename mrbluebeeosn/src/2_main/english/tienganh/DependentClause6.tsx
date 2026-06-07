@@ -97,7 +97,7 @@ export default function DependentClause6(): React.JSX.Element {
 
 			<h3 className="margin-y-50 text-center">2. ✍️ Các loại dependent clause</h3>
 
-			<h4 className="margin-y-40">1. Adverbial Clause (Mệnh đề trạng ngữ)</h4>
+			<h4 className="margin-y-40">1. Adverbial Clause (Trạng câu)</h4>
 					
 			<p className="text-indent-whole">Chức năng: bổ nghĩa cho động từ, chỉ thời gian, nguyên nhân, điều kiện, nhượng bộ.</p>
 			
@@ -127,7 +127,7 @@ export default function DependentClause6(): React.JSX.Element {
 				</ul>
 
 
-			<h4 className="margin-y-40">3. Noun Clause (Mệnh đề danh từ)</h4>
+			<h4 className="margin-y-40">3. Noun Clause (Danh câu)</h4>
 					
 			<p className="text-indent-whole">Chức năng: đóng vai trò như một danh từ — làm chủ ngữ, tân ngữ hoặc bổ ngữ.</p>
 			

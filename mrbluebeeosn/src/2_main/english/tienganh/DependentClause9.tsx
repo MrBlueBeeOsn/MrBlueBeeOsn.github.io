@@ -106,7 +106,7 @@ export default function DependentClause9(): React.JSX.Element {
 
 			<h3 className="margin-y-50 text-center">1. Mệnh Đề Danh Ngữ (Noun Clauses)</h3>
 
-			<p><strong>Bản chất</strong>: Mệnh đề danh ngữ hoạt động như một danh từ trong câu. Điều này có nghĩa là chúng có thể đảm nhiệm mọi vai trò mà một danh từ thông thường có thể làm: chủ ngữ, tân ngữ trực tiếp, tân ngữ gián tiếp, bổ ngữ cho chủ ngữ, hoặc tân ngữ của giới từ. Chúng biến một ý tưởng, một sự kiện thành một đối tượng mà câu có thể tác động hoặc nói về.</p>
+			<p><strong>Bản chất</strong>: Danh câu hoạt động như một danh từ trong câu. Điều này có nghĩa là chúng có thể đảm nhiệm mọi vai trò mà một danh từ thông thường có thể làm: chủ ngữ, tân ngữ trực tiếp, tân ngữ gián tiếp, bổ ngữ cho chủ ngữ, hoặc tân ngữ của giới từ. Chúng biến một ý tưởng, một sự kiện thành một đối tượng mà câu có thể tác động hoặc nói về.</p>
 
 			<p><strong>Từ liên kết điển hình</strong>: Thường bắt đầu bằng that, what, whatever, who, whoever, whom, whomever, whose, which, whichever, when, where, why, how, if, whether.</p>
 
@@ -216,7 +216,7 @@ export default function DependentClause9(): React.JSX.Element {
 			
 				</ul>
 			
-			<p className="margin-top-20 text-indent-whole">Mệnh đề danh ngữ cung cấp một cái nhìn cụ thể hơn về điều đang được lo lắng.</p>
+			<p className="margin-top-20 text-indent-whole">Danh câu cung cấp một cái nhìn cụ thể hơn về điều đang được lo lắng.</p>
 			
 
 			{/* 2. Mệnh Đề Tính Ngữ (Adjective Clauses / Relative Clauses) */}
@@ -321,7 +321,7 @@ export default function DependentClause9(): React.JSX.Element {
 
 			<h3 className="margin-y-50 text-center">3. Mệnh Đề Trạng Ngữ (Adverb Clauses)</h3>
 
-			<p><strong>Bản chất</strong>: Mệnh đề trạng ngữ hoạt động như một trạng từ, bổ nghĩa cho động từ, tính từ, trạng từ khác hoặc cả mệnh đề chính. Chúng là những "người kể chuyện" về ngữ cảnh, cung cấp thông tin về thời gian, địa điểm, cách thức, nguyên nhân, mục đích, điều kiện, sự nhượng bộ, kết quả, hoặc so sánh. Đây là loại mệnh đề phụ thuộc đa dạng và linh hoạt nhất, mang đến sự phong phú cho câu văn, cho phép người viết thêm vào các lớp nghĩa sâu sắc và phức tạp, tạo nên sự liên kết logic chặt chẽ giữa các sự kiện.</p>
+			<p><strong>Bản chất</strong>: Trạng câu hoạt động như một trạng từ, bổ nghĩa cho động từ, tính từ, trạng từ khác hoặc cả mệnh đề chính. Chúng là những "người kể chuyện" về ngữ cảnh, cung cấp thông tin về thời gian, địa điểm, cách thức, nguyên nhân, mục đích, điều kiện, sự nhượng bộ, kết quả, hoặc so sánh. Đây là loại mệnh đề phụ thuộc đa dạng và linh hoạt nhất, mang đến sự phong phú cho câu văn, cho phép người viết thêm vào các lớp nghĩa sâu sắc và phức tạp, tạo nên sự liên kết logic chặt chẽ giữa các sự kiện.</p>
 
 			<p><strong>Từ liên kết điển hình</strong>: Là nhóm từ phong phú nhất, bao gồm because, although, if, since, while, unless, when, after, before, as, though, even though, whereas, in order that, so that, than, rather than, whether, provided that, as long as, as soon as, by the time, once, till, until, where, wherever, while, why, how, as if, as though, in case, lest, now that, supposing.</p>
 

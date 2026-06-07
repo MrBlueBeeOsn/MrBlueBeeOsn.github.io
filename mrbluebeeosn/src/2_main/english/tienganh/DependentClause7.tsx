@@ -135,7 +135,7 @@ export default function DependentClause7(): React.JSX.Element {
 
 			<h4 className="margin-y-40">Bước 2: Viết mệnh đề phụ thuộc</h4>
 					
-			<p className="text-indent-whole">Cấu trúc: <strong>Từ nối</strong> + <strong>Chủ ngữ</strong> + <strong>Động từ</strong></p>
+			<p className="text-indent-whole">Cấu trúc: <strong>Từ nối</strong> + <strong>Chủ ngữ</strong> + <strong>Động cơ</strong></p>
 			
 				<ul className="list-square">
 			
@@ -155,7 +155,7 @@ export default function DependentClause7(): React.JSX.Element {
 
 			<p className="text-indent-whole"><strong>Cấu trúc 1</strong> — <strong>Mệnh đề phụ thuộc đứng đầu</strong>:</p>
 
-			<p className="text-indent-whole">[Từ nối + Chủ ngữ + Động từ], + [Mệnh đề độc lập]</p>
+			<p className="text-indent-whole">[Từ nối + Chủ ngữ + Động cơ], + [Mệnh đề độc lập]</p>
 			
 				<ul className="list-square">
 			
@@ -166,7 +166,7 @@ export default function DependentClause7(): React.JSX.Element {
 					
 			<p className="margin-top-20 text-indent-whole"><strong>Cấu trúc 2</strong> — <strong>Mệnh đề phụ thuộc đứng cuối</strong>:</p>
 
-			<p className="text-indent-whole">[Mệnh đề độc lập] + [Từ nối + Chủ ngữ + Động từ]</p>
+			<p className="text-indent-whole">[Mệnh đề độc lập] + [Từ nối + Chủ ngữ + Động cơ]</p>
 			
 				<ul className="list-square">
 			
@@ -326,7 +326,7 @@ export default function DependentClause7(): React.JSX.Element {
 
 			<h3 className="margin-y-50 text-center">5. Ba loại mệnh đề phụ thuộc — Phân biệt rõ ràng</h3>
 
-			<h4 className="margin-y-40">1. Mệnh đề trạng ngữ (Adverb Clause)</h4>
+			<h4 className="margin-y-40">1. Trạng câu (Adverb Clause)</h4>
 					
 			<p className="text-indent-whole">Bổ nghĩa cho <strong>động từ</strong>, trả lời câu hỏi: khi nào? tại sao? nếu...?</p>
 			
@@ -369,7 +369,7 @@ export default function DependentClause7(): React.JSX.Element {
 			
 			<p className="margin-top-20 text-indent-whole">Dấu hiệu:who, whom, which, that, whose, where, when</p>
 
-			<h4 className="margin-y-40">3. Mệnh đề danh từ (Noun Clause)</h4>
+			<h4 className="margin-y-40">3. Danh câu (Noun Clause)</h4>
 					
 			<p className="text-indent-whole">Đóng vai trò như <strong>danh từ</strong> — làm chủ ngữ, tân ngữ, hoặc bổ ngữ.</p>
 			
@@ -392,7 +392,7 @@ export default function DependentClause7(): React.JSX.Element {
 
 			<h3 className="margin-y-50 text-center">6. Ví dụ thực tế</h3>
 
-			<h4 className="margin-y-40">Mệnh đề trạng ngữ</h4>
+			<h4 className="margin-y-40">Trạng câu</h4>
 					
 				<ul className="list-square">
 
@@ -481,7 +481,7 @@ export default function DependentClause7(): React.JSX.Element {
 				</ul>
 			
 
-			<h4 className="margin-y-40">Mệnh đề danh từ</h4>
+			<h4 className="margin-y-40">Danh câu</h4>
 					
 				<ul className="list-square">
 			
@@ -689,7 +689,7 @@ export default function DependentClause7(): React.JSX.Element {
 				</ul>
 
 
-			<h4 className="margin-y-40">Loại mệnh đề: Tính từ</h4>
+			<h4 className="margin-y-40">Loại mệnh đề: Tính cơ</h4>
 
 			<p className="text-indent-whole">Chức năng: Bổ nghĩa danh từ</p>
 			<p className="text-indent-whole">Từ nối: who, which, that, whose</p>
@@ -702,7 +702,7 @@ export default function DependentClause7(): React.JSX.Element {
 				</ul>
 			
 
-			<h4 className="margin-y-40">Loại mệnh đề: Danh từ</h4>
+			<h4 className="margin-y-40">Loại mệnh đề: Danh cơ</h4>
 
 			<p className="text-indent-whole">Chức năng: Chủ ngữ/Tân ngữ</p>
 			<p className="text-indent-whole">Từ nối: that, what, whether</p>

@@ -278,7 +278,7 @@ export default function LegoAssembly4(): React.JSX.Element {
 
 			{/* 5.  */}
 
-			<h3 className="margin-y-50 text-center">5. Head Có Thể Tích Hợp Bên Trong Động Từ</h3>
+			<h3 className="margin-y-50 text-center">5. Head Có Thể Tích Hợp Bên Trong Động Cơ</h3>
 
 			<p className="margin-top-20">Ví dụ:</p>
 			
@@ -370,7 +370,7 @@ export default function LegoAssembly4(): React.JSX.Element {
 
 			{/* 7.  */}
 
-			<h3 className="margin-y-50 text-center">7. Vì Sao Động Từ Sau Head Luôn Ở Nguyên Mẫu?</h3>
+			<h3 className="margin-y-50 text-center">7. Vì Sao Động Cơ Sau Head Luôn Ở Nguyên Mẫu?</h3>
 
 			<p className="margin-top-20">Vì Head đã gánh:</p>
 			

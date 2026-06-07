@@ -64,8 +64,8 @@ export default function GerundsVaInfinitives(): React.JSX.Element {
 
 						<tr>
 								<td>Bản chất</td>
-								<td>Danh từ hóa động từ</td>
-								<td>Động từ nguyên mẫu có "to"</td>
+								<td>Danh cơ hóa động từ</td>
+								<td>Động cơ nguyên mẫu có "to"</td>
 						</tr>
 						
 						<tr>
@@ -132,7 +132,7 @@ export default function GerundsVaInfinitives(): React.JSX.Element {
 						</tr>
 
 						<tr>
-								<td>Động từ + tân ngữ + to V</td>
+								<td>Động cơ + tân ngữ + to V</td>
 								<td>(không có)</td>
 								<td>ask, allow, tell, force, want, expect, need, help sb to do</td>
 								<td>-</td>
@@ -158,7 +158,7 @@ export default function GerundsVaInfinitives(): React.JSX.Element {
 				<table className="margin-y-50">
 					<thead>
 						<tr>
-							<td>Động từ</td>
+							<td>Động cơ</td>
 							<th>V-ing (thường là trải nghiệm đã xảy ra)</th>
 							<th>to V (hành động sau đó, có chủ đích)</th>
 						</tr>

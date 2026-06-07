@@ -69,7 +69,7 @@ export default function TheGaitOfEnglish1(): React.JSX.Element {
 					<li><strong>O</strong>, <strong>M</strong>, <strong>P</strong>, <strong>T</strong>:</li>
 					<li className="margin-bottom-20 list-none">Là những cột mốc tiếp theo nằm xa dần trên con đường đó.</li>
 
-					<li><strong>V</strong> (<strong>Verb</strong> - <strong>Động từ</strong>):</li>
+					<li><strong>V</strong> (<strong>Verb</strong> - <strong>Động cơ</strong>):</li>
 					<li className="margin-bottom-20 list-none">Là bước tiến đầu tiên. "Làm gì" là lực đẩy để bạn đi tiếp.</li>
 
 					<li><strong>S</strong> (<strong>Subject</strong> - <strong>Chủ ngữ</strong>):</li>

@@ -72,7 +72,7 @@ export default function When(): React.JSX.Element {
           <li className="list-none">He lived in London <strong>______ he was a child</strong>.</li>
           <li className="margin-bottom-20 list-none">Anh ấy đã sống ở Luân Đôn <strong>khi anh ấy còn là một đứa trẻ</strong>.</li>
 
-          <li><strong>When</strong> (Trạng từ) /wen/</li>
+          <li><strong>When</strong> (Trạng cơ) /wen/</li>
           <li className="list-none"><strong>______</strong> does the movie start?</li>
           <li className="margin-bottom-20 list-none"><strong>Khi nào</strong> thì bộ phim bắt đầu?</li>
 
@@ -84,16 +84,16 @@ export default function When(): React.JSX.Element {
           <li className="list-none">You can borrow my car <strong>______ you need it</strong>.</li>
           <li className="margin-bottom-20 list-none">Bạn có thể mượn xe của tôi <strong>bất cứ khi nào bạn cần nó</strong>.</li>
 
-          <li><strong>Whenever </strong> (Trạng từ) - Dùng độc lập</li>
+          <li><strong>Whenever </strong> (Trạng cơ) - Dùng độc lập</li>
           <li className="list-none">You don't have to pay me back right now. Just do it <strong>______</strong>.</li>
           <li className="margin-bottom-20 list-none">Bạn không cần phải trả tiền lại cho tôi ngay bây giờ đâu. Cứ làm việc đó <strong>vào bất cứ lúc nào cũng được</strong>.</li>
 
-          <li><strong>Whenever</strong> (Trạng từ) - Dùng trong câu hỏi nghi vấn</li>
+          <li><strong>Whenever</strong> (Trạng cơ) - Dùng trong câu hỏi nghi vấn</li>
           <li className="list-none">______ will they finish this construction work?</li>
           <li className="margin-bottom-20 list-none">Khi nào thì họ mới chịu hoàn thành xong công trình xây dựng này đây không biết?</li>
 
 
-          <li><strong>Whence</strong> (Trạng từ - Từ cổ / Trang trọng) /wens/</li>
+          <li><strong>Whence</strong> (Trạng cơ - Từ cổ / Trang trọng) /wens/</li>
           <li className="list-none">They returned <strong>______ they came</strong>.</li>
           <li className="list-none">Họ đã quay trở lại <strong>nơi mà họ đã từ đó đến</strong>.</li>
 
@@ -173,7 +173,7 @@ export default function When(): React.JSX.Element {
 
       <p className="margin-top-20"><strong>5. Upon</strong> /əˈpɒn/ (UK) hoặc /əˈpɑːn/ (US)</p>
 
-      <p className="text-indent-whole">Khi, ngay sau khi; giới từ này thường đi kèm với Danh từ hoặc V-ing để chỉ một hành động xảy ra ngay lập tức sau một hành động khác (mang sắc thái trang trọng).</p>
+      <p className="text-indent-whole">Khi, ngay sau khi; giới từ này thường đi kèm với Danh cơ hoặc V-ing để chỉ một hành động xảy ra ngay lập tức sau một hành động khác (mang sắc thái trang trọng).</p>
 
         <ul className="list-square">
 

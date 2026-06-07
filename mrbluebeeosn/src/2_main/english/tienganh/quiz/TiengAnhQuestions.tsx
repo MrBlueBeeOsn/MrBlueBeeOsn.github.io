@@ -78,7 +78,7 @@ export default function TiengAnhQuestions(): React.JSX.Element {
 				"see"
 			],
 			correctAnswer: 0,
-			explanation: "Cụm động từ cố định là look forward to (mong chờ, mong đợi). Cấu trúc đúng là: look forward to + V-ing (danh động từ)."
+			explanation: "Động cụm cố định là look forward to (mong chờ, mong đợi). Cấu trúc đúng là: look forward to + V-ing (danh động từ)."
 		},
 		{
 			id: 6,
@@ -138,7 +138,7 @@ export default function TiengAnhQuestions(): React.JSX.Element {
 				"had he"
 			],
 			correctAnswer: 0,
-			explanation: "Đây là cấu trúc đảo ngữ với cụm từ phủ định Only after... đứng đầu câu. Cấu trúc đúng là: Only after + Mệnh đề quá khứ hoàn thành (hành động trước) + Trợ động từ + S + Động từ chính (hành động sau). Vì hành động \"realize\" ở quá khứ, ta dùng trợ động từ did."
+			explanation: "Đây là cấu trúc đảo ngữ với cụm từ phủ định Only after... đứng đầu câu. Cấu trúc đúng là: Only after + Mệnh đề quá khứ hoàn thành (hành động trước) + Trợ động từ + S + Động cơ chính (hành động sau). Vì hành động \"realize\" ở quá khứ, ta dùng trợ động từ did."
 		}
 	];
 

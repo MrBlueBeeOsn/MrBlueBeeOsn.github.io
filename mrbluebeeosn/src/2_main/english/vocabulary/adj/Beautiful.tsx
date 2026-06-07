@@ -65,27 +65,27 @@ export default function Beautiful(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li><strong>Beautiful</strong> (Tính từ) /ˈbjuː.tɪ.fəl/</li>
+          <li><strong>Beautiful</strong> (Tính cơ) /ˈbjuː.tɪ.fəl/</li>
           <li className="list-none">What a ______ sunset!</li>
           <li className="margin-bottom-20 list-none">Thật là một cảnh hoàng hôn đẹp tuyệt vời!</li>
 
-          <li><strong>Beauty</strong> (Danh từ) /ˈbjuːti/</li>
+          <li><strong>Beauty</strong> (Danh cơ) /ˈbjuːti/</li>
           <li className="list-none">The ______ of the landscape took my breath away.</li>
           <li className="margin-bottom-20 list-none">Vẻ đẹp của phong cảnh đã khiến tôi sững sờ.</li>
 
-          <li><strong>Beautify</strong> (Động từ) /ˈbjuːtɪfaɪ/</li>
+          <li><strong>Beautify</strong> (Động cơ) /ˈbjuːtɪfaɪ/</li>
           <li className="list-none">They decided to ______ the garden with seasonal flowers.</li>
           <li className="margin-bottom-20 list-none">Họ quyết định làm đẹp khu vườn bằng những loài hoa theo mùa.</li>
 
-          <li><strong>Beautifully</strong> (Trạng từ) /ˈbjuːtɪfəli/</li>
+          <li><strong>Beautifully</strong> (Trạng cơ) /ˈbjuːtɪfəli/</li>
           <li className="list-none">The music was ______ composed and moved the entire audience.</li>
           <li className="margin-bottom-20 list-none">Bản nhạc được sáng tác một cách tuyệt đẹp và đã làm lay động toàn bộ khán giả.</li>
 
-          <li><strong>Beautician</strong> (Danh từ - Chỉ người) /bjuːˈtɪʃn/</li>
+          <li><strong>Beautician</strong> (Danh cơ - Chỉ người) /bjuːˈtɪʃn/</li>
           <li className="list-none">The professional ______ prepared the actors for the film..</li>
           <li className="margin-bottom-20 list-none">Chuyên gia thẩm mỹ chuyên nghiệp đã chuẩn bị cho các diễn viên trong bộ phim.</li>
 
-          <li><strong>Beauteous</strong> (Tính từ - Văn chương) /ˈbjuːtiəs/</li>
+          <li><strong>Beauteous</strong> (Tính cơ - Văn chương) /ˈbjuːtiəs/</li>
           <li className="list-none">The poet wrote about the ______ stars in the night sky.</li>
           <li className="list-none">Nhà thơ đã viết về những ngôi sao tuyệt đẹp trên bầu trời đêm.</li>
 

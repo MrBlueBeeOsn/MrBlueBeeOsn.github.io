@@ -87,7 +87,7 @@ export default function If(): React.JSX.Element {
           <li className="list-none"><strong>______ I had known the truth earlier</strong>, things would be different.</li>
           <li className="margin-bottom-20 list-none"><strong>Giá mà tôi biết sự thật sớm hơn thì</strong> mọi chuyện đã khác rồi.</li>
 
-          <li><strong>What-ifs</strong> (Danh từ - Thường dùng số nhiều 'what-ifs') /wɒt ɪfs/ (UK) hoặc /wʌt ɪfs/ (US)</li> 
+          <li><strong>What-ifs</strong> (Danh cơ - Thường dùng số nhiều 'what-ifs') /wɒt ɪfs/ (UK) hoặc /wʌt ɪfs/ (US)</li> 
           <li className="list-none">Stop worrying about all the <strong>______</strong> and focus on the present.</li>
           <li className="margin-bottom-20 list-none">Đừng lo lắng về tất cả những điều "<strong>nếu như</strong>" nữa và hãy tập trung vào hiện tại.</li>
           <li className="list-none">Lưu ý ngữ cảnh: Stop worrying về những điều "nếu như" và hãy tập trung vào hiện tại.</li>
