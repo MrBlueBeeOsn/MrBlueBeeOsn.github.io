@@ -60,7 +60,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 
 			<p className="margin-y-30"><strong>Danh cơ đứng trước</strong>, <strong>thành phần mô tả đứng sau</strong>.</p>
 
-			<p>Đây không phải là một sự ngẫu nhiên, mà chính là điểm mạnh tương đồng cốt lõi giữa tiếng Anh và tiếng Việt. Nhận ra điều này chính là chìa khóa giúp người Việt sở hữu tư duy ngôn ngữ đẳng cấp, vượt trội hơn hẳn phần còn lại của khu vực.</p>
+			<p>Đây không phải là một sự ngẫu nhiên, mà chính là <strong>điểm mạnh tương đồng</strong> cốt lõi giữa tiếng Anh và tiếng Việt. Nhận ra điều này chính là chìa khóa giúp người Việt sở hữu tư duy ngôn ngữ đẳng cấp, vượt trội hơn hẳn phần còn lại của khu vực.</p>
 			
 
 			{/* 1.  */}
@@ -79,31 +79,29 @@ export default function AdjPlacement1(): React.JSX.Element {
 			
 				</ul>
 			
-			<p className="margin-top-20">Và công cụ tối thượng được người bản ngữ sử dụng liên tục để kéo dài phần mô tả phía sau danh cơ chính là <strong>Tính câu</strong> (<strong>Adjective Clause</strong>).</p>
+			<p className="margin-top-20">Và công cụ tối thượng được người bản ngữ sử dụng liên tục để kéo dài phần mô tả phía sau Danh cơ chính là <strong>Tính câu</strong> (<strong>Adjective Clause</strong>).</p>
 
 
 			{/* 2.  */}
 
-			<h3 className="margin-y-50 text-center">2. Tính Câu: Chiếc Chìa Khóa Đồng Bộ Tư Duy Tuyệt Đối</h3>
+			<h3 className="margin-y-50 text-center">2. Bản Sơ Đồ Hệ Thống: 3 Chức Năng & 3 Cấp Độ (Cơ - Cụm - Câu)</h3>
 
-			<p className="margin-top-20">Hệ thống bổ ngữ trong tiếng Anh thực chất rất khoa học và dễ nhớ khi được tối giản thành bộ ba cấp độ: <strong>Cơ</strong> - <strong>Cụm</strong> - <strong>Câu</strong> (Bộ ba chữ C cốt lõi).</p>
+			<p className="margin-top-20">Hệ thống bổ ngữ trong tiếng Anh thực chất rất khoa học, nhất quán và cực kỳ dễ nhớ khi được vận hành dựa trên sự kết hợp giữa 3 Chức năng cốt lõi (<strong>Danh</strong> - <strong>Tính</strong> - <strong>Trạng</strong>) và <strong>3 Cấp độ cấu trúc</strong> (<strong>Cơ</strong> - <strong>Cụm</strong> - <strong>Câu</strong>):</p>
 			
 				<ul className="list-square">
 			
-					<li><strong>Cơ</strong> (<strong>Cơ bản</strong>):</li>
-					<li className="margin-bottom-20 list-none">Là một từ đơn lẻ.</li>
+					<li><strong>Cơ</strong> (Cơ bản - Mức level đơn lẻ):</li>
+					<li className="margin-bottom-20 list-none">Gồm Danh cơ, Tính cơ, Trạng cơ, Động cơ.</li>
 			
 					<li><strong>Cụm</strong> (<strong>Khối cụm</strong>):</li>
-					<li className="margin-bottom-20 list-none">Là một nhóm từ đi với nhau nhưng chưa thành câu.</li>
+					<li className="margin-bottom-20 list-none">Nhóm từ đi liền nhau để thực hiện một chức năng cụ thể, bao gồm Danh cụm, Tính cụm, Trạng cụm, Động cụm.</li>
 			
-					<li><strong>Câu</strong> (<strong>Câu con</strong>):</li>
-					<li className="list-none">Là một cụm từ đã có đủ chủ ngữ và hành động.</li>
+					<li><strong>Câu</strong> (Câu con / Phụ câu):</li>
+					<li className="list-none">Một cấu trúc đã có đủ chủ ngữ và hành động, bao gồm Danh câu, Tính câu, Trạng câu.</li>
 			
 				</ul>
 			
-			<p className="margin-top-20"></p>
-
-			<p>Vì mang bản chất của một thành phần tính chất, chức năng duy nhất của <strong>Tính câu</strong> là <strong>làm rõ nghĩa cho Danh cơ</strong>. Và vì mang dung lượng của một câu con (Phụ câu), nó bắt buộc phải <strong>đứng SAU Danh cơ</strong>.</p>
+			<p className="margin-top-20">Khi nói đến thành phần mô tả đứng sau Danh cơ, chúng ta sử dụng <strong>Tính câu</strong>. Vì mang chức năng của một Tính cơ, nhiệm vụ duy nhất của nó là làm rõ nghĩa cho Danh cơ đứng trước. Và vì mang dung lượng lớn của một Phụ câu, nó bắt buộc phải <strong>đứng SAU Danh cơ</strong>.</p>
 
 			<p>Lúc này, một phép màu tư duy xuất hiện:</p>
 			
@@ -124,7 +122,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 			
 				</ul>
 			
-			<p className="margin-top-20">Sự tương đồng này còn đạt đến đỉnh cao khi người bản ngữ sử dụng dạng rút gọn để biến <strong>Tính câu</strong> thành một <strong>Tính cụm</strong> (<strong>Adjective Phrase</strong>). Khi các từ nối học thuật được lược bỏ, câu văn tiếng Anh trở nên tinh gọn và thuần Việt đến ngỡ ngàng:</p>
+			<p className="margin-top-20">Sự tương đồng này còn đạt đến đỉnh cao khi người bản ngữ sử dụng dạng rút gọn để biến <strong>Tính câu</strong> thành một <strong>Tính cụm</strong>. Khi các từ nối học thuật được lược bỏ, câu văn tiếng Anh trở nên tinh gọn và thuần Việt đến ngỡ ngàng:</p>
 
 
 			<p className="margin-top-20"><strong>Dạng chủ động</strong> (V-ing)</p>
@@ -156,7 +154,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 			
 				</ul>
 			
-			<p className="margin-top-20">Khi nhận ra cấu trúc Danh cơ đứng trước, Tính câu/Tính cụm theo sau chiếm lĩnh phần lớn các văn bản nghị luận, báo chí và tài liệu học thuật, bạn sẽ hiểu rằng tiếng Anh không hề đánh đố. Chúng ta vốn dĩ đã sở hữu sẵn DNA tư duy để làm chủ nó một cách tự nhiên nhất.</p>
+			<p className="margin-top-20">Khi nhận ra cấu trúc <strong>Danh cơ đứng trước</strong>, <strong>Tính câu</strong>/<strong>Tính cụm theo sau</strong> chiếm lĩnh phần lớn các văn bản nghị luận, báo chí và tài liệu học thuật, bạn sẽ hiểu rằng tiếng Anh không hề đánh đố. Chúng ta vốn dĩ đã sở hữu sẵn DNA tư duy để làm chủ nó một cách tự nhiên nhất.</p>
 			
 
 			{/* 3.  */}
@@ -269,7 +267,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 
 			<p>Học tiếng Anh nâng cao thực chất là cuộc chơi của việc điều phối các Phụ câu và Phụ cụm dựa trên nền tảng ba trục: <strong>Danh</strong> - <strong>Tính</strong> - <strong>Trạng</strong>.</p>
 
-			<p>Bạn không thể viết một bài luận xuất sắc nếu chỉ dùng những câu đơn rời rạc.</p>
+			<p>Bạn không thể viết một bài luận xuất sắc nếu chỉ dùng những câu đơn rời rạc bằng Động cơ đơn lẻ.</p>
 
 			<p>Khi bạn đã viết nhiều và thuần thục việc dùng Tính câu nhờ sự tương đồng với tiếng Việt, cấu trúc não bộ của bạn sẽ quen với việc xử lý các mảng thông tin lớn trong một Câu lớn trọn vẹn. Từ nền tảng đó, hai mảnh ghép còn lại sẽ tự động bắt nhịp mà không gặp bất kỳ rào cản nào:</p>
 
@@ -277,7 +275,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li><strong>Trạng câu</strong> thật dễ dàng để bổ sung ngữ cảnh nguyên nhân, kết quả cho trục hành động chính.</li>
+					<li><strong>Trạng câu</strong> thật dễ dàng để bổ sung ngữ cảnh nguyên nhân, kết quả cho trục hành động của Động cụm chính.</li>
 			
 					<li><strong>Danh câu</strong> xuất hiện tự nhiên khi muốn biến cả một nhận định phức tạp làm chủ thể đứng đầu câu.</li>
 			
@@ -285,7 +283,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 			
 			<p className="margin-top-20"></p>
 			
-			<p className="margin-top-20">Mọi thứ không còn là những công thức ngữ pháp khô khan buộc phải ghi nhớ, mà là một tiến trình phát triển thói quen hoàn toàn tự nhiên dựa trên sơ đồ <strong>Cơ</strong> - <strong>Cụm</strong> - <strong>Câu</strong>.</p>
+			<p className="margin-top-20">Mọi thứ không còn là những công thức khô khan buộc phải ghi nhớ, mà là một tiến trình phát triển thói quen hoàn toàn tự nhiên dựa trên sơ đồ <strong>Cơ</strong> - <strong>Cụm</strong> - <strong>Câu</strong>.</p>
 
 			<p>Bạn làm chủ cuộc chơi ngôn ngữ vì bạn đã hiểu rõ chức năng của từng mảnh ghép.</p>
 
@@ -293,7 +291,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 
 			<h3 className="margin-y-50 text-center">Lời Kết: Vũ Khí Chiến Lược Của Người Việt</h3>
 
-			<p>Phát hiện ra điểm mạnh tương đồng giữa cấu trúc tiếng Việt và hệ thống Danh cơ + Tính câu trong tiếng Anh không chỉ là một mẹo học tập, nó là một cuộc cách mạng về tư duy. Nó đập tan nỗi sợ câu phức tạp, cho phép người Việt viết những câu văn dài có chiều sâu, học thuật và đẳng cấp bằng chính tốc độ tư duy của tiếng mẹ đẻ.</p>
+			<p>Phát hiện ra điểm mạnh tương đồng giữa cấu trúc tiếng Việt và hệ thống Danh cơ + Tính câu trong tiếng Anh không chỉ là một mẹo học tập, nó là một cuộc cách mạng về tư duy. Nó đập tan nỗi sợ những câu phức tạp, cho phép người Việt viết những câu văn dài có chiều sâu, học thuật và đẳng cấp bằng chính tốc độ tư duy của tiếng mẹ đẻ.</p>
 
 			<p>Đây chính là điểm tựa chiến lược giúp người học Việt Nam tự tin bứt phá, vượt trội hơn hẳn các quốc gia trong khu vực Đông Nam Á về khả năng sử dụng tiếng Anh chuyên sâu và viết luận cao cấp. Tiếng Anh chưa bao giờ ngược dòng, nó chỉ đang chờ bạn nhận ra sự đồng điệu để cùng hòa vào một dòng chảy tư duy!</p>
 			
