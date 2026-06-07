@@ -114,7 +114,7 @@ export default function TracNghiemNguPhapTiengAnh(): React.JSX.Element {
 				"for"
 			],
 			correctAnswer: 2,
-			explanation: "Giới từ at được dùng để chỉ thời điểm cụ thể, chính xác trong ngày (giờ, phút)."
+			explanation: "Giới cơ at được dùng để chỉ thời điểm cụ thể, chính xác trong ngày (giờ, phút)."
 		},
 		{
 			id: 9,

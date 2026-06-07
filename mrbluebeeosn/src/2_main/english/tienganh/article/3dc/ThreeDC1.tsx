@@ -81,7 +81,7 @@ export default function ThreeDC1(): React.ReactElement {
 					
 			<p className="text-indent-whole"><strong>Nhiệm vụ</strong>: Hoạt động y hệt như một Trạng cơ. Nó đứng vào câu để giải thích bối cảnh cho Câu lớn, trả lời cho các câu hỏi: Khi nào? Tại sao? Như thế nào? Nếu... thì sao? Mặc dù thế nào?</p>
 
-			<p className="text-indent-whole"><strong>Cách nhận biết</strong>: Luôn bắt đầu bằng các Liên từ phụ thuộc:</p>
+			<p className="text-indent-whole"><strong>Cách nhận biết</strong>: Luôn bắt đầu bằng các Liên cơ phụ thuộc:</p>
 			
 				<ul className="list-square">
 			
@@ -148,7 +148,7 @@ export default function ThreeDC1(): React.ReactElement {
 					<li className="margin-bottom-20 list-none">Hoạt động y hệt như một <strong>Tính cơ</strong>. Nhưng thay vì đứng trước danh từ như một tính từ ngắn thông thường, nó là một Câu con dài nên bắt buộc phải đứng <strong>ngay sau</strong> danh từ mà nó muốn bổ nghĩa để "vẽ" thêm chi tiết cho danh từ đó. Ngoài ra, nó còn mở rộng để bổ nghĩa cho cả một Tính cơ đứng trước.</li>
 			
 					<li><strong>Cách nhận biết</strong>:</li>
-					<li className="list-none">Luôn bắt đầu bằng các <strong>Đại từ quan hệ</strong> (who, whom, which, that, whose) hoặc <strong>Trạng cơ quan hệ</strong> (where, when, why).</li>
+					<li className="list-none">Luôn bắt đầu bằng các <strong>Đại cơ quan hệ</strong> (who, whom, which, that, whose) hoặc <strong>Trạng cơ quan hệ</strong> (where, when, why).</li>
 			
 				</ul>
 			
@@ -212,7 +212,7 @@ export default function ThreeDC1(): React.ReactElement {
 					<li>I know <strong>something</strong>.</li>
 					<li className="margin-bottom-20 list-none">Tôi biết <strong>một điều gì đó</strong>.</li>
 
-					<li className="list-none">→ Danh cơ/Đại từ làm tân ngữ</li>
+					<li className="list-none">→ Danh cơ/Đại cơ làm tân ngữ</li>
 			
 				</ul>
 
@@ -284,7 +284,7 @@ export default function ThreeDC1(): React.ReactElement {
 				</ul>
 
 
-			<p className="margin-top-20"><strong>Đại từ</strong></p>
+			<p className="margin-top-20"><strong>Đại cơ</strong></p>
 			
 				<ul className="list-square">
 			

@@ -213,7 +213,7 @@ export default function AdjPlacement2(): React.JSX.Element {
 				<ul className="list-square">
 			
 					<li><strong> Cấu trúc</strong> :</li>
-					<li className="margin-bottom-20 list-none">Liên từ (because, although, when, if, while...) + chủ ngữ + động từ</li>
+					<li className="margin-bottom-20 list-none">Liên cơ (because, although, when, if, while...) + chủ ngữ + động từ</li>
 			
 					<li><strong> Vai trò</strong> :</li>
 					<li className="margin-bottom-20 list-none">Bổ nghĩa cho động từ chính, chỉ thời gian, lý do, điều kiện, sự tương phản.</li>

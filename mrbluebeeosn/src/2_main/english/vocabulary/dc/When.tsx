@@ -68,7 +68,7 @@ export default function When(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li><strong>When</strong> (Liên từ) /wen/</li>
+          <li><strong>When</strong> (Liên cơ) /wen/</li>
           <li className="list-none">He lived in London <strong>______ he was a child</strong>.</li>
           <li className="margin-bottom-20 list-none">Anh ấy đã sống ở Luân Đôn <strong>khi anh ấy còn là một đứa trẻ</strong>.</li>
 
@@ -76,11 +76,11 @@ export default function When(): React.JSX.Element {
           <li className="list-none"><strong>______</strong> does the movie start?</li>
           <li className="margin-bottom-20 list-none"><strong>Khi nào</strong> thì bộ phim bắt đầu?</li>
 
-          <li><strong>When</strong> (Đại từ) /wen/ - Dùng để thay thế cho một danh từ chỉ thời gian đứng trước và nối liền với mệnh đề quan hệ</li>
+          <li><strong>When</strong> (Đại cơ) /wen/ - Dùng để thay thế cho một danh từ chỉ thời gian đứng trước và nối liền với mệnh đề quan hệ</li>
           <li className="list-none">I will never forget the day <strong>______ we first met</strong>.</li>
           <li className="margin-bottom-20 list-none">Tôi sẽ không bao giờ quên cái ngày <strong>mà chúng ta lần đầu gặp gỡ</strong>.</li>
 
-          <li><strong>Whenever</strong> (Liên từ) /wenˈevə(r)/</li>
+          <li><strong>Whenever</strong> (Liên cơ) /wenˈevə(r)/</li>
           <li className="list-none">You can borrow my car <strong>______ you need it</strong>.</li>
           <li className="margin-bottom-20 list-none">Bạn có thể mượn xe của tôi <strong>bất cứ khi nào bạn cần nó</strong>.</li>
 

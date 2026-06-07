@@ -65,11 +65,11 @@ export default function Although(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li><strong>Although</strong> (Liên từ) /ɔːlˈðəʊ/ (UK) hoặc /ɑːlˈðoʊ/ (US)</li>
+          <li><strong>Although</strong> (Liên cơ) /ɔːlˈðəʊ/ (UK) hoặc /ɑːlˈðoʊ/ (US)</li>
           <li className="list-none">The room was rather small, <strong>______ it was very clean and comfortable</strong>.</li>
           <li className="margin-bottom-20 list-none">Căn phòng khá nhỏ, <strong>mặc dù nó rất sạch sẽ và thoải mái</strong>.</li>
 
-          <li><strong>Though</strong> (Liên từ) /ðəʊ/ (UK) hoặc /ðoʊ/ (US)</li>
+          <li><strong>Though</strong> (Liên cơ) /ðəʊ/ (UK) hoặc /ðoʊ/ (US)</li>
           <li className="list-none">They decided to go on a picnic, <strong>______ the weather was disappointing</strong>.</li>
           <li className="margin-bottom-20 list-none">Họ đã quyết định đi dã ngoại, <strong>dẫu cho thời tiết thật đáng thất vọng</strong>.</li>
 
@@ -77,7 +77,7 @@ export default function Although(): React.JSX.Element {
           <li className="list-none">We completely forgot the map. We managed to find the hotel, ______.</li>
           <li className="margin-bottom-20 list-none">Chúng tôi đã hoàn toàn quên mang theo bản đồ. Dẫu vậy, chúng tôi vẫn tìm được khách sạn.</li>
 
-          <li><strong>Albeit</strong> (Liên từ - Trang trọng) /ˌɔːlˈbiːɪt/</li>
+          <li><strong>Albeit</strong> (Liên cơ - Trang trọng) /ˌɔːlˈbiːɪt/</li>
           <li className="list-none">The university accepted the proposal, <strong>______ with certain reservations</strong>.</li>
           <li className="list-none">Trường đại học đã chấp nhận đề xuất, <strong>mặc dù vẫn có những sự dè dặt nhất định</strong>.</li>
 

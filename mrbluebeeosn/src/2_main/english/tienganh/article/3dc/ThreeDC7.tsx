@@ -418,7 +418,7 @@ export default function ThreeDC7(): React.ReactElement {
 			<p className="margin-top-20 text-indent-whole"></p>
 
 
-			<h4 className="margin-y-40">4.3. Đại từ & trạng từ quan hệ thường gặp</h4>
+			<h4 className="margin-y-40">4.3. Đại cơ & trạng từ quan hệ thường gặp</h4>
 
 			<p className="margin-top-20"></p>
 			

@@ -138,7 +138,7 @@ export default function EVPrepositionsQuiz(): React.JSX.Element {
 				"since"
 			],
 			correctAnswer: 0,
-			explanation: "Giới từ \"in\" được dùng trước các tháng, mùa, năm và các khoảng thời gian dài."
+			explanation: "Giới cơ \"in\" được dùng trước các tháng, mùa, năm và các khoảng thời gian dài."
 		}
 	];
 

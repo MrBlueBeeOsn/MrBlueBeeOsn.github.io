@@ -126,7 +126,7 @@ export default function EVAdverbClausesQuiz(): React.JSX.Element {
 				"unless"
 			],
 			correctAnswer: 1,
-			explanation: "Liên từ as ở đây được dùng với nghĩa \"khi / cùng với lúc\" (Adverb Clause of Time), diễn tả hai hành động hoặc tiến trình biến đổi diễn ra song song với nhau (giá vàng tăng cùng lúc với sự bất ổn kinh tế tăng)."
+			explanation: "Liên cơ as ở đây được dùng với nghĩa \"khi / cùng với lúc\" (Adverb Clause of Time), diễn tả hai hành động hoặc tiến trình biến đổi diễn ra song song với nhau (giá vàng tăng cùng lúc với sự bất ổn kinh tế tăng)."
 		},
 		{
 			id: 10,

@@ -30,7 +30,7 @@ export default function EVAdjectiveClausesQuiz(): React.JSX.Element {
 				"whose"
 			],
 			correctAnswer: 1,
-			explanation: "Đại từ quan hệ thay thế cho danh từ chỉ người \"The woman\" và đóng vai trò làm chủ ngữ trong mệnh đề quan hệ (đứng trước động từ \"lives\")."
+			explanation: "Đại cơ quan hệ thay thế cho danh từ chỉ người \"The woman\" và đóng vai trò làm chủ ngữ trong mệnh đề quan hệ (đứng trước động từ \"lives\")."
 		},
 		{
 			id: 2,
@@ -42,7 +42,7 @@ export default function EVAdjectiveClausesQuiz(): React.JSX.Element {
 				"whose"
 			],
 			correctAnswer: 2,
-			explanation: "Đại từ quan hệ thay thế cho danh từ chỉ vật \"The book\" và đóng vai trò làm tân ngữ trong mệnh đề quan hệ."
+			explanation: "Đại cơ quan hệ thay thế cho danh từ chỉ vật \"The book\" và đóng vai trò làm tân ngữ trong mệnh đề quan hệ."
 		},
 		{
 			id: 3,
@@ -90,7 +90,7 @@ export default function EVAdjectiveClausesQuiz(): React.JSX.Element {
 				"columns"
 			],
 			correctAnswer: 2,
-			explanation: "Đại từ quan hệ thay thế cho danh từ chỉ người \"The man\" và đóng vai trò làm tân ngữ trong mệnh đề quan hệ (sau nó là một đại từ/chủ ngữ \"you\")."
+			explanation: "Đại cơ quan hệ thay thế cho danh từ chỉ người \"The man\" và đóng vai trò làm tân ngữ trong mệnh đề quan hệ (sau nó là một đại từ/chủ ngữ \"you\")."
 		},
 		{
 			id: 7,
