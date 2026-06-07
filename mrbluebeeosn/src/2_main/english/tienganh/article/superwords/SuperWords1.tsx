@@ -65,7 +65,7 @@ export default function SuperWords1(): React.JSX.Element {
 
 			{/* 1.  */}
 
-			<h3 className="margin-y-50 text-center">Định Nghĩa Lại Bản Đồ Ngữ Pháp: Từ Câu Con Đến Siêu Từ</h3>
+			<h3 className="margin-y-50 text-center">Bản Đồ Tư Duy Ngôn Ngữ: Công Thức "3 Chức Năng $\times$ 3 Cấp Độ"</h3>
 
 			<p>Để dễ dàng làm chủ tiếng Anh, trước hết chúng ta cần dọn dẹp sạch sẽ những thuật ngữ rắc rối và thay thế chúng bằng một hệ thống tên gọi trực quan, thuần Việt và cực kỳ dễ hiểu:</p>
 
@@ -104,7 +104,7 @@ export default function SuperWords1(): React.JSX.Element {
 
 			{/* 2.  */}
 
-			<h3 className="margin-y-50 text-center">1. Super-Noun: Danh cụm tiến hóa thành "Danh câu"</h3>
+			<h3 className="margin-y-50 text-center">1. Super-Noun: Từ Danh cơ tiến hóa lên Danh câu</h3>
 
 			<p>Một danh cơ đơn đóng vai trò làm gì trong câu (làm Chủ ngữ đứng đầu câu, hoặc làm Tân ngữ đứng sau động cơ), thì <strong>Super</strong>-<strong>Noun</strong> làm đúng nhiệm vụ đó. Khi nó ở dạng cụm từ, ta gọi là <strong>Danh cụm</strong>. Khi nó phình to ra thành một câu con, ta gọi là <strong>Danh câu</strong>. Sự khác biệt duy nhất là kích thước lớn hơn và chứa nhiều thông tin hơn.</p>
 
@@ -149,7 +149,7 @@ export default function SuperWords1(): React.JSX.Element {
 
 			{/* 3.  */}
 
-			<h3 className="margin-y-50 text-center">2. Super-Adjective: Tính cụm tiến hóa thành "Tính câu"</h3>
+			<h3 className="margin-y-50 text-center">2. Super-Adjective: Từ Tính cơ tiến hóa lên Tính câu</h3>
 
 			<p>Nhiệm vụ của một tính cơ đơn là đứng cạnh để tô vẽ, mô tả đặc điểm cho danh cơ. Khi nó được kéo dài ra nhưng chưa có Chủ - Vị, nó là <strong>Tính cụm</strong>. Nhưng khi muốn mô tả một đặc điểm mang tính chất kể chuyện, người bản xứ sẽ nâng cấp nó thành một <strong>Tính câu</strong> (Super-Adjective).</p>
 
@@ -193,7 +193,7 @@ export default function SuperWords1(): React.JSX.Element {
 
 			{/* 4.  */}
 
-			<h3 className="margin-y-50 text-center">3. Super-Adverb: Trạng cụm tiến hóa thành "Trạng câu"</h3>
+			<h3 className="margin-y-50 text-center">3. Super-Adverb: Từ Trạng cơ tiến hóa lên Trạng câu</h3>
 
 			<h4 className="margin-y-40">Trạng cơ ngắn:</h4>
 					
@@ -235,134 +235,86 @@ export default function SuperWords1(): React.JSX.Element {
 
 			<hr className="hr-short"/>
 
-			<h3 className="margin-y-50 text-center">Bản Đồ Tiến Hóa Của Cấu Trúc Câu</h3>
+			<h3 className="margin-y-50 text-center">Bản Đồ Khớp Lệnh Hệ Thống Ngôn Ngữ</h3>
 
-			<p>Để giúp bạn có một cái nhìn tổng quan và hệ thống hóa tư duy này khi đọc viết, hãy quan sát bảng phân cấp sự tiến hóa từ từ đơn lên <strong>Phụ cụm</strong> rồi thành <strong>Phụ câu</strong> dưới đây:</p>
+			<p>Để giúp bạn có một cái nhìn tổng quan và đồng nhất tư duy này khi đọc viết, hãy quan sát bảng phân cấp sự tiến hóa từ <strong>Cơ</strong> lên <strong>Cụm</strong> (Phụ cụm) rồi thành <strong>Câu</strong> (Phụ câu) dưới đây:</p>
 
 
-			<p className="margin-top-20"><strong>Loại Từ Gốc</strong>:</p>
-
-			<h4 className="margin-y-40">Noun (Danh cơ)</h4>
-					
-			<p className="margin-y-20 text-indent-whole"><strong>Cấp độ 1</strong>: <strong>Từ Đơn</strong> (Ngắn)</p>
+			<h4 className="margin-y-40">Cấp độ CƠ (Đơn từ)</h4>
 			
 				<ul className="list-square">
-			
+
 					<li><strong>Success</strong></li>
 					<li className="margin-bottom-20 list-none">Sự thành công</li>
-
 					<li className="list-none">→ Danh cơ</li>
-			
-				</ul>
-			
-			<p className="margin-y-20 text-indent-whole"><strong>Cấp độ 2</strong>: <strong>PHỤ CỤM</strong> (Dài vừa)</p>
-			
-				<ul className="list-square">
-			
-					<li><strong>A great success</strong></li>
-					<li className="margin-bottom-20 list-none">Một thành công lớn</li>
 
+					<li>[A great financial success]</li>
+					<li className="margin-bottom-20 list-none">[Một thành công lớn về tài chính]</li>
 					<li className="list-none">→ Danh cụm</li>
 			
-				</ul>
-			
-			<p className="margin-y-20 text-indent-whole"><strong>Cấp độ 3</strong>: <strong>SUPER</strong>-<strong>WORD</strong> (PHỤ CÂU / Dài nhất)</p>
-			
-				<ul className="list-square">
-			
-					<li><strong>How he achieved success</strong></li>
-					<li className="margin-bottom-20 list-none">Cách mà anh ấy đạt được thành công</li>
-
+					<li>[How he achieved success]</li>
+					<li className="margin-bottom-20 list-none">[Cách mà anh ấy đạt được thành công]</li>
 					<li className="list-none">→ Danh câu (Super-Noun)</li>
 			
 				</ul>
+			
 
 
-			<h4 className="margin-y-40">Adjective (Tính cơ)</h4>
-					
-			<p className="margin-y-20 text-indent-whole"><strong>Cấp độ 1</strong>: <strong>Từ Đơn</strong> (Ngắn)</p>
+			<h4 className="margin-y-40">Cấp độ CỤM (Phụ cụm)</h4>
 			
 				<ul className="list-square">
-			
-					<li>An <strong>expensive</strong> car</li>
-					<li className="margin-bottom-20 list-none">Một chiếc xe <strong>đắt tiền</strong></li>
 
+					<li>An [expensive] car</li>
+					<li className="margin-bottom-20 list-none">Một chiếc xe [đắt tiền]</li>
 					<li className="list-none">→ Tính cơ</li>
-			
-				</ul>
-			
-			<p className="margin-y-20 text-indent-whole"><strong>Cấp độ 2</strong>: <strong>PHỤ CỤM</strong> (Dài vừa)</p>
-			
-				<ul className="list-square">
-			
-					<li>A <strong>very expensive</strong> car</li>
-					<li className="margin-bottom-20 list-none">Một chiếc xe <strong>rất đắt tiền</strong></li>
 
+					<li>A [very luxurious and expensive] car</li>
+					<li className="margin-bottom-20 list-none">Một chiếc xe [rất sang trọng và đắt tiền]</li>
 					<li className="list-none">→ Tính cụm</li>
 			
-				</ul>
-			
-			<p className="margin-y-20 text-indent-whole"><strong>Cấp độ 3</strong>: <strong>SUPER</strong>-<strong>WORD</strong> (PHỤ CÂU / Dài nhất)</p>
-			
-				<ul className="list-square">
-			
-					<li>The car <strong>that cost him a fortune</strong></li>
-					<li className="margin-bottom-20 list-none">Chiếc xe <strong>cái mà tốn của anh ta cả gia tài</strong></li>
-
+					<li>The car [that cost him a fortune]</li>
+					<li className="margin-bottom-20 list-none">Chiếc xe [cái mà tốn của anh ta cả gia tài]</li>
 					<li className="list-none">→ Tính câu (Super-Adjective)</li>
 			
 				</ul>
+			
 
 
-			<h4 className="margin-y-40">Adverb (Trạng cơ)</h4>
-					
-			<p className="margin-y-20 text-indent-whole"><strong>Cấp độ 1</strong>: <strong>Từ Đơn</strong> (Ngắn)</p>
+			<h4 className="margin-y-40">Cấp độ CÂU (Phụ câu / SUPER-WORD)</h4>
 			
 				<ul className="list-square">
-			
-					<li><strong>Honestly</strong>, he confessed.</li>
-					<li className="margin-bottom-20 list-none"><strong>Thành thật mà nói</strong>, anh ta thú nhận.</li>
 
+					<li>[Honestly], he confessed.</li>
+					<li className="margin-bottom-20 list-none">[Thành thật mà nói], anh ta thú nhận.</li>
 					<li className="list-none">→ Trạng cơ</li>
 			
-				</ul>
-			
-			<p className="margin-y-20 text-indent-whole"><strong>Cấp độ 2</strong>: <strong>PHỤ CỤM</strong> (Dài vừa)</p>
-			
-				<ul className="list-square">
-			
-					<li><strong>Quite honestly</strong>, he confessed.</li>
-					<li className="margin-bottom-20 list-none"><strong>Khá thành thật</strong>, anh ta thú nhận.</li>
-
+					<li>[Quite honestly and openly], he confessed.</li>
+					<li className="margin-bottom-20 list-none">[Khá thành thật và cởi mở], anh ta thú nhận</li>
 					<li className="list-none">→ Trạng cụm</li>
-			
-				</ul>
-			
-			<p className="margin-y-20 text-indent-whole"><strong>Cấp độ 3</strong>: <strong>SUPER</strong>-<strong>WORD</strong> (PHỤ CÂU / Dài nhất)</p>
-			
-				<ul className="list-square">
-			
-					<li><strong>Since he could not lie anymore</strong>, he confessed.</li>
-					<li className="margin-bottom-20 list-none"><strong>Vì không thể nói dối được nữa</strong>, anh ta thú nhận.</li>
 
+					<li>[Since he could not lie anymore], he confessed.</li>
+					<li className="margin-bottom-20 list-none">[Vì không thể nói dối được nữa], anh ta thú nhận.</li>
 					<li className="list-none">→ Trạng câu (Super-Adverb):</li>
 			
 				</ul>
 
 
+			<p className="margin-y-20 text-indent-whole">Lưu ý: Đối với hành động, chúng ta cũng có cấu trúc tương tự tiến hóa từ <strong>Động cơ</strong> lên <strong>Động cụm</strong>.</p>
+
+
 			{/* Lời Kết */}
 
-			<h3 className="margin-y-50 text-center">Lời Kết: Giải Phóng Tư Duy Ngôn Ngữ</h3>
+			<h3 className="margin-y-50 text-center">Lời Kết: Đơn Giản Hóa Để Làm Chủ Ngôn Ngữ</h3>
 
-			<p>Khi bạn gạt bỏ được áp lực từ những tên gọi mang tính học thuật, tiếng Anh sẽ quay trở về đúng bản chất nguyên bản của nó: Một trò chơi lắp ghép các khối hình.</p>
+			<p>Khi bạn gạt bỏ được áp lực từ những tên gọi mang tính hàn lâm, tiếng Anh sẽ quay trở về đúng bản chất nguyên bản của nó: Một trò chơi lắp ghép các khối hình.</p>
 
-			<p>Bạn không cần phải ghi nhớ hàng chục công thức phức tạp. Việc bạn cần làm duy nhất là nắm thật chắc vị trí, chức năng của ba từ đơn cơ bản:</p>
+			<p>Bạn không cần phải ghi nhớ hàng chục công thức chia phức tạp. Việc duy nhất cần làm là nắm thật chắc vị trí, chức năng của ba gốc cơ bản:</p>
 
-			<p className="margin-y-30"><strong>Noun</strong> - <strong>Adjective</strong> - <strong>Adverb</strong>.</p>
+			<p className="margin-y-30"><strong>Danh</strong> - <strong>Tính</strong> - <strong>Trạng</strong>.</p>
 
-			<p>Khi muốn nói một ý dài hơn, sâu hơn, hãy tự tin dùng tư duy mở rộng thành <strong>Danh cụm</strong> / <strong>Tính cụm</strong> / <strong>Trạng cụm</strong> hoặc phóng to hẳn lên thành các <strong>Danh câu</strong> / <strong>Tính câu</strong> / <strong>Trạng câu</strong>.</p>
+			<p>Khi muốn nói một ý dài hơn, sâu hơn, hãy tự tin sử dụng công thức nhân bản kích thước: từ mức độ Cơ mở rộng thành Cụm, rồi phóng đại hẳn thành các cấu trúc Câu.</p>
 
-			<p>Lần tới, khi mở một bài đọc tiếng Anh hay đặt bút viết một bài chia sẻ, hãy thử vận dụng bản đồ tư duy trực quan này. Bạn sẽ thấy các tầng nghĩa của câu lập tức hiển thị rõ ràng, mạch lạc và việc làm chủ tiếng Anh chưa bao giờ tự nhiên đến thế!</p>
+			<p>Lần tới, khi mở một bài đọc tiếng Anh hay đặt bút viết một bài chia sẻ, hãy thử vận dụng bản đồ tư duy Danh câu, Tính câu, Trạng câu này. Bạn sẽ thấy các tầng nghĩa của câu lập tức hiển thị rõ ràng, mạch lạc và việc làm chủ ngôn ngữ trở nên tự nhiên hơn bao giờ hết!</p>
 			
 
 			<div className="viewcounter">
