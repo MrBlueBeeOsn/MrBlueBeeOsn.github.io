@@ -48,11 +48,11 @@ export default function DependentClause9(): React.JSX.Element {
 
 			</h1>
 
-			<h4 className="margin-bottom-30 text-center">Mệnh Đề Phụ Thuộc: Giải Mã Sức Mạnh Kiến Tạo Câu Văn</h4>
+			<h4 className="margin-bottom-30 text-center">Phụ Câu: Giải Mã Sức Mạnh Kiến Tạo Câu Văn</h4>
 
 			<p>Trong hành trình chinh phục tiếng Anh, việc vượt qua những cấu trúc câu cơ bản để chạm đến sự tinh tế trong diễn đạt là một mục tiêu mà nhiều người học hướng tới.</p>
 
-			<p>Một trong những công cụ mạnh mẽ nhất để đạt được điều này chính là <strong>Mệnh đề Phụ thuộc</strong> (<strong>Dependent Clause</strong>).</p>
+			<p>Một trong những công cụ mạnh mẽ nhất để đạt được điều này chính là <strong>Phụ Câu</strong> (<strong>Dependent Clause</strong>).</p>
 
 			<p>Chúng không chỉ là những quy tắc ngữ pháp khô khan, mà là những sợi chỉ vô hình, giúp chúng ta dệt nên những câu văn phức tạp, giàu sắc thái và logic, biến ý tưởng thành một bức tranh ngôn ngữ sống động.</p>
 
@@ -62,7 +62,7 @@ export default function DependentClause9(): React.JSX.Element {
 
 			<p>Một mệnh đề phụ thuộc, dù sở hữu đầy đủ chủ ngữ và động từ, vẫn chưa thể tự mình truyền tải một thông điệp hoàn chỉnh. Nó luôn cần một <strong>mệnh đề độc lập</strong> (<strong>Independent Clause</strong>) để làm điểm tựa, để ý nghĩa được neo giữ và phát triển. Sự kết nối này được tạo nên bởi một <strong>từ liên kết phụ thuộc</strong> (<strong>subordinator</strong>) đứng ở phần mở đầu. Những từ này, như because, although, if, when, who, which, that, as, hay các từ nghi vấn (Wh-words), không chỉ là dấu hiệu nhận biết mà còn là sợi dây liên kết, định hình mối quan hệ giữa các ý tưởng.</p>
 
-			<p>Hãy hình dung một câu văn như một bản giao hưởng. Mệnh đề độc lập là giai điệu chính, là chủ đề xuyên suốt. Mệnh đề phụ thuộc là những đoạn biến tấu, những hòa âm, những nốt nhạc bổ sung, chúng tự thân có giai điệu riêng nhưng chỉ thực sự thăng hoa khi được đặt vào tổng thể bản nhạc. Nếu tách rời, chúng sẽ trở nên lạc lõng và thiếu đi ngữ cảnh, không thể tạo nên một tác phẩm hoàn chỉnh.</p>
+			<p>Hãy hình dung một câu văn như một bản giao hưởng. Mệnh đề độc lập là giai điệu chính, là chủ đề xuyên suốt. Phụ câu là những đoạn biến tấu, những hòa âm, những nốt nhạc bổ sung, chúng tự thân có giai điệu riêng nhưng chỉ thực sự thăng hoa khi được đặt vào tổng thể bản nhạc. Nếu tách rời, chúng sẽ trở nên lạc lõng và thiếu đi ngữ cảnh, không thể tạo nên một tác phẩm hoàn chỉnh.</p>
 
 			<p className="margin-top-20">Chẳng hạn, khi bạn nghe:</p>
 			
@@ -96,9 +96,9 @@ export default function DependentClause9(): React.JSX.Element {
 			
 			<p className="margin-top-20 text-indent-whole">Phần "that had the most intriguing cover" là mệnh đề phụ thuộc, bổ sung thông tin cụ thể về cuốn sách được chọn, không thể đứng một mình mà phải gắn liền với "the book" để làm rõ cuốn sách nào đã được chọn.</p>
 
-			{/* Giải Mã Các Loại Mệnh Đề Phụ Thuộc: Từng Lớp Nghĩa Tinh Tế */}
+			{/* Giải Mã Các Loại Phụ Câu: Từng Lớp Nghĩa Tinh Tế */}
 
-			<h3 className="margin-y-50 text-center">Giải Mã Các Loại Mệnh Đề Phụ Thuộc: Từng Lớp Nghĩa Tinh Tế</h3>
+			<h3 className="margin-y-50 text-center">Giải Mã Các Loại Phụ Câu: Từng Lớp Nghĩa Tinh Tế</h3>
 					
 			<p>Để thực sự làm chủ mệnh đề phụ thuộc, chúng ta cần hiểu sâu sắc về ba loại chính, mỗi loại mang một chức năng và sắc thái riêng biệt, giúp chúng ta kiến tạo nên những câu văn đa dạng và phong phú.</p>
 
@@ -436,9 +436,9 @@ export default function DependentClause9(): React.JSX.Element {
 			
 			<p className="margin-top-20 text-indent-whole">Mệnh đề "so cold that the water froze" là mệnh đề trạng ngữ chỉ kết quả, bổ nghĩa cho tính từ "cold". Mệnh đề này diễn tả kết quả trực tiếp và không thể tránh khỏi của việc trời lạnh, tạo ra sự liên kết chặt chẽ giữa nguyên nhân và hệ quả, làm cho thông tin trở nên thuyết phục hơn và nhấn mạnh mức độ của tình huống. Nó cho phép người viết thể hiện cường độ của một sự việc một cách ấn tượng.</p>
 
-			{/* Làm Chủ Mệnh Đề Phụ Thuộc: Nâng Tầm Tư Duy Ngôn Ngữ */}
+			{/* Làm Chủ Phụ Câu: Nâng Tầm Tư Duy Ngôn Ngữ */}
 
-			<h3 className="margin-y-50 text-center">Làm Chủ Mệnh Đề Phụ Thuộc: Nâng Tầm Tư Duy Ngôn Ngữ</h3>
+			<h3 className="margin-y-50 text-center">Làm Chủ Phụ Câu: Nâng Tầm Tư Duy Ngôn Ngữ</h3>
 
 			<p className="margin-top-20">Để thực sự làm chủ Dependent Clauses, hãy biến chúng thành một phần trong tư duy ngôn ngữ của bạn, không chỉ là một bài tập ngữ pháp:</p>
 			
@@ -460,7 +460,7 @@ export default function DependentClause9(): React.JSX.Element {
 
 			<h3 className="margin-y-50 text-center">Kết Luận</h3>
 
-			<p>Mệnh đề phụ thuộc không phải là một thách thức, mà là một cơ hội để nâng cao kỹ năng tiếng Anh của bạn lên một tầm cao mới.</p>
+			<p>Phụ câu không phải là một thách thức, mà là một cơ hội để nâng cao kỹ năng tiếng Anh của bạn lên một tầm cao mới.</p>
 
 			<p>Bằng cách hiểu rõ bản chất, phân biệt chính xác và thực hành kiến tạo chúng một cách có ý thức, bạn sẽ không chỉ viết và đọc hiệu quả hơn mà còn phát triển một tư duy ngôn ngữ sắc bén, cho phép bạn diễn đạt những ý tưởng phức tạp nhất một cách tự nhiên và đầy thuyết phục. </p>
 

@@ -48,7 +48,7 @@ export default function DependentClause7(): React.JSX.Element {
 
 			</h1>
 
-			<h4 className="margin-bottom-30 text-center">Mệnh Đề Phụ Thuộc: Cẩm Nang Hoàn Chỉnh Để Viết Câu Phức Tự Nhiên</h4>
+			<h4 className="margin-bottom-30 text-center">Phụ Câu: Cẩm Nang Hoàn Chỉnh Để Viết Câu Phức Tự Nhiên</h4>
 
 			{/* 1. Tại sao bạn cần học mệnh đề phụ thuộc ngay hôm nay? */}
 
@@ -81,11 +81,11 @@ export default function DependentClause7(): React.JSX.Element {
 			<p>Bí mật nằm ở <strong>mệnh đề phụ thuộc</strong>.</p>
 
 
-			{/* 2. Mệnh đề phụ thuộc là gì? */}
+			{/* 2. Phụ câu là gì? */}
 
-			<h3 className="margin-y-50 text-center">2. Mệnh đề phụ thuộc là gì?</h3>
+			<h3 className="margin-y-50 text-center">2. Phụ câu là gì?</h3>
 					
-			<p>Mệnh đề phụ thuộc là một nhóm từ có đầy đủ chủ ngữ + động từ, nhưng không tạo thành câu hoàn chỉnh khi đứng một mình. Nó cần một mệnh đề độc lập để bổ sung ý nghĩa.</p>
+			<p>Phụ câu là một nhóm từ có đầy đủ chủ ngữ + động từ, nhưng không tạo thành câu hoàn chỉnh khi đứng một mình. Nó cần một mệnh đề độc lập để bổ sung ý nghĩa.</p>
 			
 				<ul className="list-square">
 
@@ -153,7 +153,7 @@ export default function DependentClause7(): React.JSX.Element {
 
 			<h4 className="margin-y-40">Bước 4: Ghép hai mệnh đề</h4>
 
-			<p className="text-indent-whole"><strong>Cấu trúc 1</strong> — <strong>Mệnh đề phụ thuộc đứng đầu</strong>:</p>
+			<p className="text-indent-whole"><strong>Cấu trúc 1</strong> — <strong>Phụ câu đứng đầu</strong>:</p>
 
 			<p className="text-indent-whole">[Từ nối + Chủ ngữ + Động cơ], + [Mệnh đề độc lập]</p>
 			
@@ -164,7 +164,7 @@ export default function DependentClause7(): React.JSX.Element {
 			
 				</ul>
 					
-			<p className="margin-top-20 text-indent-whole"><strong>Cấu trúc 2</strong> — <strong>Mệnh đề phụ thuộc đứng cuối</strong>:</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Cấu trúc 2</strong> — <strong>Phụ câu đứng cuối</strong>:</p>
 
 			<p className="text-indent-whole">[Mệnh đề độc lập] + [Từ nối + Chủ ngữ + Động cơ]</p>
 			
@@ -180,10 +180,10 @@ export default function DependentClause7(): React.JSX.Element {
 
 				<ul className="list-square">
 			
-					<li>Mệnh đề phụ thuộc đứng <strong>ĐẦU</strong></li>
+					<li>Phụ câu đứng <strong>ĐẦU</strong></li>
 					<li className="margin-bottom-20 list-none">→ <strong>DẤU PHẨY SAU</strong> mệnh đề</li>
 			
-					<li>Mệnh đề phụ thuộc đứng <strong>CUỐI</strong></li>
+					<li>Phụ câu đứng <strong>CUỐI</strong></li>
 					<li className="list-none">→ <strong>KHÔNG</strong> có dấu phẩy</li>
 			
 				</ul>
@@ -217,7 +217,7 @@ export default function DependentClause7(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>Mệnh đề phụ thuộc có <strong>chủ ngữ</strong> + <strong>động từ</strong>?</li>
+					<li>Phụ câu có <strong>chủ ngữ</strong> + <strong>động từ</strong>?</li>
 			
 					<li>Từ nối có đúng với ý nghĩa bạn muốn?</li>
 
@@ -278,7 +278,7 @@ export default function DependentClause7(): React.JSX.Element {
 				</ul>
 
 
-			<h4 className="margin-y-40">2. Mệnh đề phụ thuộc</h4>
+			<h4 className="margin-y-40">2. Phụ câu</h4>
 					
 			<p className="text-indent-whole">❌ Không: Có thể đứng một mình</p>
 			<p className="text-indent-whole">Bắt đầu bằng từ nối: ✅ Because, although, when, if, who, which...</p>
@@ -754,7 +754,7 @@ export default function DependentClause7(): React.JSX.Element {
 
 			<h3 className="margin-y-50 text-center">Kết luận</h3>
 
-			<p>Mệnh đề phụ thuộc <strong>không thể đứng một mình</strong> — đó là đặc điểm xác định. Nhưng chính vì vậy, khi kết hợp với mệnh đề độc lập, nó tạo nên <strong>câu phức</strong> — công cụ mạnh nhất để viết tiếng Anh học thuật, mạch lạc và tự nhiên.</p>
+			<p>Phụ câu <strong>không thể đứng một mình</strong> — đó là đặc điểm xác định. Nhưng chính vì vậy, khi kết hợp với mệnh đề độc lập, nó tạo nên <strong>câu phức</strong> — công cụ mạnh nhất để viết tiếng Anh học thuật, mạch lạc và tự nhiên.</p>
 
 			<p>Thành thạo mệnh đề phụ thuộc = Viết câu phức dễ dàng = Nâng band IELTS/TOEFL = Viết như người bản xứ.</p>
 

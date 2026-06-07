@@ -118,7 +118,7 @@ export default function LegoAssembly7(): React.JSX.Element {
 			
 					<li>Hạt nhân (Khối trung tâm điều khiển) = <strong>Head</strong></li>
 			
-					<li>Dependent Phrase (Cụm phụ thuộc) — <strong>mọi thứ sau Head</strong> = <strong>DP</strong></li>
+					<li>Dependent Phrase (Phụ cụm) — <strong>mọi thứ sau Head</strong> = <strong>DP</strong></li>
 			
 				</ul>
 			
@@ -260,7 +260,7 @@ export default function LegoAssembly7(): React.JSX.Element {
 
 			{/* 5.  */}
 
-			<h3 className="margin-y-50 text-center">5. DP (Dependent Phrase) — Cụm Phụ Thuộc</h3>
+			<h3 className="margin-y-50 text-center">5. DP (Dependent Phrase) — Phụ Cụm</h3>
 
 			<p><strong>MỌI THỨ SAU HEAD</strong> (không có ngoại lệ) = <strong>DP</strong>.</p>
 					
@@ -320,7 +320,7 @@ export default function LegoAssembly7(): React.JSX.Element {
 				<ul className="list-square">
 			
 					<li>buy a car = DP</li>
-					<li className="list-none">mua một chiếc xe hơi = Cụm phụ thuộc = DP</li>
+					<li className="list-none">mua một chiếc xe hơi = Phụ cụm = DP</li>
 			
 				</ul>
 			
@@ -329,7 +329,7 @@ export default function LegoAssembly7(): React.JSX.Element {
 				<ul className="list-square">
 			
 					<li>not buy a car = DP</li>
-					<li className="list-none">Không mua một chiếc xe hơi = Cụm phụ thuộc = DP</li>
+					<li className="list-none">Không mua một chiếc xe hơi = Phụ cụm = DP</li>
 					<li className="list-none"><strong>Not không đứng riêng</strong> — <strong>nó nằm trong DP</strong>.</li>
 			
 				</ul>
@@ -337,7 +337,7 @@ export default function LegoAssembly7(): React.JSX.Element {
 
 			{/* 6.  */}
 
-			<h3 className="margin-y-50 text-center">6. DC (Dependent Clause) — Mệnh Đề Phụ Thuộc</h3>
+			<h3 className="margin-y-50 text-center">6. DC (Dependent Clause) — Phụ Câu</h3>
 
 			<p className="margin-top-20">DC là mệnh đề có <strong>Subject Verb</strong> bên trong nhưng <strong>không thể đứng một mình</strong>. DC có thể:</p>
 			

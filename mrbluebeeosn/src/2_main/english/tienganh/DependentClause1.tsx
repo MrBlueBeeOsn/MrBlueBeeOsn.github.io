@@ -48,11 +48,11 @@ export default function DependentClause1(): React.JSX.Element {
 
 			</h1>
 
-			<h4 className="margin-bottom-30 text-center">Nghệ Thuật Phối Hợp Ngôn Ngữ: Làm Chủ Mệnh Đề Phụ Thuộc Để Văn Phong Trôi Chảy Hơn</h4>
+			<h4 className="margin-bottom-30 text-center">Nghệ Thuật Phối Hợp Ngôn Ngữ: Làm Chủ Phụ Câu Để Văn Phong Trôi Chảy Hơn</h4>
 
 			<p>Khi viết tiếng Anh, việc liên tục sử dụng những câu đơn ngắn dễ làm cho mạch văn bị ngắt quãng và thiếu đi sự gắn kết logic.</p>
 
-			<p>Để tạo nên một dòng chảy ngôn ngữ tự nhiên và chuyên nghiệp, chìa khóa chính là việc làm chủ <strong>Mệnh đề phụ thuộc</strong> (<strong>Dependent Clause</strong>).</p>
+			<p>Để tạo nên một dòng chảy ngôn ngữ tự nhiên và chuyên nghiệp, chìa khóa chính là việc làm chủ <strong>Phụ câu</strong> (<strong>Dependent Clause</strong>).</p>
 					
 			<p>Hãy coi cấu trúc này như những dải băng keo chuyên dụng, giúp nối liền các ý tưởng rời rạc thành một hệ thống lập luận chặt chẽ.</p>
 
@@ -112,7 +112,7 @@ export default function DependentClause1(): React.JSX.Element {
 			<p className="margin-top-20 text-indent-whole">→ Chúng chỉ nối các mệnh đề độc lập có vai trò ngang hàng và tuyệt đối không tạo ra mệnh đề phụ thuộc.</p>
 		
 
-			<h4 className="margin-y-40">Vùng kích hoạt Mệnh đề phụ thuộc:</h4>
+			<h4 className="margin-y-40">Vùng kích hoạt Phụ câu:</h4>
 					
 			<p className="text-indent-whole">Được nhận diện hoàn toàn dựa vào các từ dẫn dắt bao gồm:</p>
 			

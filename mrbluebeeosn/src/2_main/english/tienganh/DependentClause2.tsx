@@ -60,7 +60,7 @@ export default function DependentClause2(): React.JSX.Element {
 
 			{/* Cách nhận diện nhanh: Nhìn vào từ mở đầu */}
 
-			<h3 className="margin-y-50 text-center">Trước hết: Mệnh đề phụ thuộc nhìn như thế nào?</h3>
+			<h3 className="margin-y-50 text-center">Trước hết: Phụ câu nhìn như thế nào?</h3>
 
 			<p>Bạn cần phân biệt nó với mệnh đề độc lập.</p>
 
@@ -100,7 +100,7 @@ export default function DependentClause2(): React.JSX.Element {
 			
 				</ul>
 			
-			<p className="margin-top-20">Mệnh đề phụ thuộc thường được bắt đầu bằng một trong những từ sau</p>
+			<p className="margin-top-20">Phụ câu thường được bắt đầu bằng một trong những từ sau</p>
 			
 				<ul className="list-square">
 			
@@ -401,7 +401,7 @@ export default function DependentClause2(): React.JSX.Element {
 
 			<h3 className="margin-y-50 text-center">Kết luận: Đừng sợ, chỉ cần bắt đầu</h3>
 
-			<p>Mệnh đề phụ thuộc không phải một cấu trúc xa lạ. Bạn đã dùng nó hàng trăm lần mà có thể không để ý. Điều quan trọng là <strong>dùng có ý thức</strong>. Bắt đầu từ việc ghép hai câu đơn bằng một từ nối nhỏ. Rồi ba câu. Rồi thử đảo vị trí.</p>
+			<p>Phụ câu không phải một cấu trúc xa lạ. Bạn đã dùng nó hàng trăm lần mà có thể không để ý. Điều quan trọng là <strong>dùng có ý thức</strong>. Bắt đầu từ việc ghép hai câu đơn bằng một từ nối nhỏ. Rồi ba câu. Rồi thử đảo vị trí.</p>
 
 			<p>Sai thì sửa. Người bản xứ cũng sai. Chỉ có điều họ sửa nhanh vì họ hiểu bản chất: mệnh đề phụ thuộc tồn tại là để làm cho câu chính trở nên rõ ràng và phong phú hơn.</p>
 

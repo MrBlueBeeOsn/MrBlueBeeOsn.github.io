@@ -48,7 +48,7 @@ export default function DependentClause3(): React.JSX.Element {
 
 			</h1>
 
-			<h4 className="margin-bottom-30 text-center">Mệnh Đề Phụ Thuộc (Dependent Clause) – Bí Quyết Để Viết Tiếng Anh Chuyên Nghiệp Và Ấn Tượng</h4>
+			<h4 className="margin-bottom-30 text-center">Phụ Câu (Dependent Clause) – Bí Quyết Để Viết Tiếng Anh Chuyên Nghiệp Và Ấn Tượng</h4>
 
 			<p>Trong hành trình chinh phục tiếng Anh, đặc biệt là kỹ năng viết và đọc hiểu, <strong>mệnh đề phụ thuộc</strong> (<strong>Dependent Clause</strong>) chính là một trong những “vũ khí” mạnh mẽ nhất.</p>
 
@@ -56,11 +56,11 @@ export default function DependentClause3(): React.JSX.Element {
 					
 			<p>Dù bạn đang học IELTS, TOEFL, viết email công việc, blog hay luận văn, việc làm chủ mệnh đề phụ thuộc sẽ tạo ra sự khác biệt rõ rệt.</p>
 
-			{/* 1. Mệnh đề phụ thuộc là gì? */}
+			{/* 1. Phụ câu là gì? */}
 
-			<h3 className="margin-y-50 text-center">1. Mệnh đề phụ thuộc là gì?</h3>
+			<h3 className="margin-y-50 text-center">1. Phụ câu là gì?</h3>
 
-			<p>Mệnh đề phụ thuộc là nhóm từ có đầy đủ <strong>chủ ngữ</strong> + <strong>động từ</strong>, nhưng không thể đứng một mình làm thành câu hoàn chỉnh.</p>
+			<p>Phụ câu là nhóm từ có đầy đủ <strong>chủ ngữ</strong> + <strong>động từ</strong>, nhưng không thể đứng một mình làm thành câu hoàn chỉnh.</p>
 
 			<p>Nó luôn cần “kết nối” với mệnh đề độc lập (Independent Clause) để truyền tải ý nghĩa trọn vẹn.</p>
 					
@@ -226,7 +226,7 @@ export default function DependentClause3(): React.JSX.Element {
 
 			<p>Hãy coi mệnh đề độc lập như “xương sống” và mệnh đề phụ thuộc như “cơ thịt” giúp câu văn thêm mạnh mẽ, uyển chuyển. Đừng lạm dụng quá nhiều trong một câu để tránh làm người đọc khó theo dõi.</p>
 
-			<p>Mệnh đề phụ thuộc không chỉ là ngữ pháp khô khan – đó là công cụ giúp bạn bày tỏ ý tưởng một cách tinh tế và chuyên nghiệp. Khi đã làm chủ, bạn sẽ cảm nhận rõ tiếng Anh của mình “lên level” cả về viết lẫn đọc.</p>
+			<p>Phụ câu không chỉ là ngữ pháp khô khan – đó là công cụ giúp bạn bày tỏ ý tưởng một cách tinh tế và chuyên nghiệp. Khi đã làm chủ, bạn sẽ cảm nhận rõ tiếng Anh của mình “lên level” cả về viết lẫn đọc.</p>
 
 			<p>Hãy bắt đầu ngay hôm nay bằng cách lấy một đoạn văn cũ của bạn và thử nâng cấp nó. Sự tiến bộ sẽ đến nhanh chóng và mang lại niềm vui lớn!</p>
 

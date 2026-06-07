@@ -196,7 +196,7 @@ export default function ThreeDC7(): React.ReactElement {
 			<p className="margin-top-20"></p>
 
 
-			<p className="margin-top-20">b. Mệnh đề phụ thuộc (Dependent Clause)</p>
+			<p className="margin-top-20">b. Phụ câu (Dependent Clause)</p>
 			
 			<p className="margin-top-20"></p>
 			

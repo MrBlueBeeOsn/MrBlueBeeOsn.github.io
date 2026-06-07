@@ -84,7 +84,7 @@ export default function LegoAssembly2(): React.JSX.Element {
 			
 
 
-			<h4 className="margin-y-40">DC – Dependent Clause - Mệnh đề phụ thuộc</h4>
+			<h4 className="margin-y-40">DC – Dependent Clause - Phụ câu</h4>
 
 			<p className="text-indent-whole">Một khối Lego lớn hơn, <strong>có chủ</strong>–<strong>vị riêng</strong> nhưng không thể đứng độc lập.</p>
 

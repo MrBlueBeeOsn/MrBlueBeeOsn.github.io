@@ -203,7 +203,7 @@ export default function SentenceVariety7(): React.JSX.Element {
 
 			<h3 className="margin-y-50 text-center">Kết luận</h3>
 
-			<p>Mệnh đề phụ thuộc không thể đứng một mình — đó là đặc điểm xác định. Nhưng chính vì vậy, khi kết hợp với mệnh đề độc lập, nó tạo nên câu phức — công cụ mạnh nhất để viết tiếng Anh học thuật, mạch lạc và tự nhiên.</p>
+			<p>Phụ câu không thể đứng một mình — đó là đặc điểm xác định. Nhưng chính vì vậy, khi kết hợp với mệnh đề độc lập, nó tạo nên câu phức — công cụ mạnh nhất để viết tiếng Anh học thuật, mạch lạc và tự nhiên.</p>
 
 			<p>Thành thạo mệnh đề phụ thuộc = Viết câu phức dễ dàng = Nâng band IELTS/TOEFL = Viết như người bản xứ.</p>
 

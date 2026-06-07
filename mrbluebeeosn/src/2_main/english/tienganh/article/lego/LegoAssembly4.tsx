@@ -166,7 +166,7 @@ export default function LegoAssembly4(): React.JSX.Element {
 					<li className="margin-bottom-20 list-none">sẽ → Hạt nhân</li>
 			
 					<li>study English → DP</li>
-					<li className="list-none">học tiếng Anh → Cụm phụ thuộc</li>
+					<li className="list-none">học tiếng Anh → Phụ cụm</li>
 			
 				</ul>
 			

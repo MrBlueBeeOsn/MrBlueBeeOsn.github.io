@@ -74,10 +74,10 @@ export default function LegoAssembly3(): React.JSX.Element {
 					<li><strong>Head</strong>: Khối trung tâm, là "trái tim" của câu.</li>
 					<li className="margin-bottom-20 list-none">Head mang ý nghĩa chính và dấu hiệu thời gian.</li>
 			
-					<li><strong>DP</strong> (<strong>Dependent Phrase</strong>): Cụm phụ thuộc</li>
+					<li><strong>DP</strong> (<strong>Dependent Phrase</strong>): Phụ cụm</li>
 					<li className="margin-bottom-20 list-none">Phần bổ nghĩa (không thể đứng một mình).</li>
 			
-					<li><strong>DC</strong> (<strong>Dependent Clause</strong>): Mệnh đề phụ thuộc</li>
+					<li><strong>DC</strong> (<strong>Dependent Clause</strong>): Phụ câu</li>
 					<li className="list-none">Phần giải thích sâu hơn.</li>
 			
 				</ul>
