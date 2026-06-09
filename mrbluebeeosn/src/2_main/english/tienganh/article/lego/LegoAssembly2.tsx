@@ -61,455 +61,112 @@ export default function LegoAssembly2(): React.JSX.Element {
 			<p>Hãy bỏ qua danh xưng "thì hiện tại đơn", "quá khứ tiếp diễn". Thay vào đó, bạn chỉ cần biết cách lắp ba khối Lego lại với nhau. Nghe có vẻ đơn giản? Bởi vì nó thực sự đơn giản.</p>
 
 
+
 			{/* 1.  */}
 
-			<h3 className="margin-y-50 text-center">1. 📦 Mấy khái niệm mới (rất dễ nhớ)</h3>
+			<h3 className="margin-y-50 text-center">1. 📦 Ba chức năng và ba cấp độ của Dependent</h3>
+
+			
 
 
 
 			{/* 2.  */}
 
-			<h3 className="margin-y-50 text-center">2. 🧠 Mô hình trung tâm: S + Head + Phụ cụm / Phụ câu</h3>
-
-			<h4 className="margin-y-40">S – Subject - Chủ ngữ</h4>
-					
-			<p className="text-indent-whole">Khối nền, là người hoặc vật thực hiện hành động / mang trạng thái.</p>
-
-
-			<h4 className="margin-y-40">Head - Hạt nhân</h4>
-					
-			<p className="text-indent-whole">Khối điều khiển, chứa toàn bộ dấu hiệu về thời gian, thể, phủ định, nghi vấn.</p>
+			<h3 className="margin-y-50 text-center">2. 🧱 Chi tiết từng loại Dependent (kèm ví dụ cụ thể)</h3>
 
 
 			
-
-
-			<h4 className="margin-y-40">DC – Dependent Clause - Phụ câu</h4>
-
-			<p className="text-indent-whole">Một khối Lego lớn hơn, <strong>có chủ</strong>–<strong>vị riêng</strong> nhưng không thể đứng độc lập.</p>
-
-				<ul className="list-square">
-
-					<li>what you need</li>
-					<li className="margin-bottom-20 list-none">những gì bạn cần</li>
-
-					<li>because it’s late</li>
-					<li className="list-none">vì đã muộn rồi</li>
 			
-				</ul>
-			
-			<p className="margin-top-20">Mỗi câu tiếng Anh, dù đơn giản hay phức tạp, đều tuân theo cấu trúc này. Và phần quan trọng nhất, quyết định tất cả, chính là <strong>Head</strong>.</p>
-
-
 
 			{/* 3.  */}
 
-			<h3 className="margin-y-50 text-center">3. ⚙️ Head là ai? Ba loại Head chính</h3>
+			<h3 className="margin-y-50 text-center">3. ⚙️ Head – Hạt nhân của câu lớn</h3>
 
-
-			<h4 className="margin-y-40">1. Head là động cơ khiếm khuyết (modal)</h4>
-
-			<p className="text-indent-whole"></p>
-
-
-
-			<h4 className="margin-y-40">2. Head là động cơ đặc biệt “to be / to have / to do”</h4>
-					
-			<p className="text-indent-whole"><strong>to be</strong> (am/is/are/was/were) → Phụ cụm có thể là tính cụm, danh cụm, hoặc V-ing (trạng cụm hành động).</p>
 			
-				<ul className="list-square">
-
-					<li>I <strong>am</strong> [very tired].</li>
-					<li className="list-none">Tôi [rất mệt].</li>
-					<li className="list-none">[very tired] = Phụ cụm → Tính cụm mô tả trạng thái của chủ ngữ "I" sau động cơ to-be.</li>
-
-					<li>She <strong>is</strong> [a doctor].</li>
-					<li className="list-none">Cô ấy là [một bác sĩ].</li>
-					<li className="list-none">→ [a doctor] = Phụ cụm → Danh cụm định danh đối tượng, nó đóng vai trò là "bổ ngữ cho chủ ngữ" (Subject Complement)</li>
-		
 			
-					<li>They are [playing soccer].</li>
-					<li className="list-none">Họ đang [chơi bóng đá].</li>
-					<li className="list-none">[playing soccer] = Phụ cụm → <strong>Danh động cụm</strong> làm tân ngữ, diễn tả hành động đang tiếp diễn</li>
-			
-				</ul>
 			
 
-			<p className="margin-top-20 text-indent-whole"><strong>to have</strong> (have/has/had) dùng cho thì hoàn thành → Phụ cụm là V3/ed.</p>
-			
-				<ul className="list-square">
-		
-					<li>I have [finished my homework].</li>
-					<li className="margin-bottom-20 list-none">Tôi đã [hoàn thành bài tập về nhà của mình].</li>
-					<li className="list-none">[finished my homework] = Phụ cụm → <strong>Động cụm</strong> điễn tả hành động đã hoàn tất</li>
-			
-				</ul>
-			
-			<p className="margin-top-20 text-indent-whole"><strong>do</strong>/<strong>does</strong>/<strong>did</strong> dùng cho câu phủ định / nghi vấn ở hiện tại và quá khứ đơn. Sau nó là động cơ nguyên mẫu.</p>
-			
-				<ul className="list-square">
-			
-					<li>He <strong>does</strong> [not eat meat].</li>
-					<li className="margin-bottom-20 list-none">Anh ấy [không ăn thịt].</li>
-					<li className="list-none">[not eat meat] = Phụ cụm → <strong>Động cụm</strong> thực hiện hành động chính trong câu.</li>
-			
-				</ul>
-
-
-			<h4 className="margin-y-40">3. Head là chính động cơ (khi không có trợ động cơ)</h4>
-					
-			<p className="text-indent-whole">Trong câu khẳng định hiện tại đơn hoặc quá khứ đơn, chính động cơ làm Head và tự mang dấu hiệu thời gian.</p>
-			
-				<ul className="list-square">
-
-					<li>I <strong>eat</strong> [an apple].</li>
-					<li className="list-none">Tôi ăn một quả táo.</li>
-					<li className="list-none">eat = Head</li>
-					<li className="list-none">[an apple] = Phụ cụm → <strong>Danh cụm</strong> (Noun phrase) đóng vai trò là Tân ngữ (Object) của hành động "eat".</li>
-
-					<li>She runs [fast].</li>
-					<li className="list-none">Cô ấy chạy [nhanh].</li>
-					<li className="list-none">runs = Head</li>
-					<li className="list-none">[fast] = Phụ từ → <strong>Trạng cơ</strong> (Adverb) chỉ cách thức bổ nghĩa cho hành động "runs".</li>
-			
-				</ul>
-			
-
-			<p className="margin-top-20 text-indent-whole">Ví dụ khác:</p>
-					
-			<ul className="list-square">
-
-					<li>She <strong>is</strong> [very tired].</li>
-					<li className="list-none">Cô ấy đang rất mệt.</li>
-					<li className="list-none">is = Head</li>
-					<li className="margin-bottom-20 list-none">[very tired] = Phụ cụm → <strong>Tính cụm</strong> bổ nghĩa cho chủ ngữ "She" sau động cơ to-be.</li>
-
-					<li>We <strong>will</strong> [go home].</li>
-					<li className="list-none">Chúng ta sẽ về nhà.</li>
-					<li className="list-none">will = Head</li>
-					<li className="list-none">[go home] = Phụ cụm → <strong>Trạng động cụm</strong></li>
-
-					<li>We will go [where we live].</li>
-					<li className="margin-bottom-20 list-none">Chúng tôi sẽ đi [nơi mà chúng tôi sống].</li>
-					<li className="list-none">will = Head</li>
-					<li className="list-none">[where we live] = Trạng câu chỉ nơi chốn, thay thế cho từ "home".</li>
-					<li className="margin-bottom-20 list-none">go [where we live] = Phụ cụm → <strong>Trạng động cơ</strong></li>
-					
-		
-					<li>He <strong>can</strong> [swim fast].</li>
-					<li className="list-none">Anh ấy có thể bơi nhanh.</li>
-					<li className="list-none">→ can = Head</li>
-					<li>He <strong>can</strong>[swim fast] = Phụ cụm → <strong>Trạng động cụm</strong></li>
-			
-					<li>They <strong>have</strong> [finished].</li>
-					<li className="list-none">Họ đã hoàn thành xong.</li>
-					<li className="list-none">have = Head</li>
-					<li className="list-none">[finished] = Phụ từ → <strong>Động cơ</strong></li>
-			
-				</ul>
-			
 
 			{/* 4.  */}
 
-			<h3 className="margin-y-50 text-center">4. 🧱 Cách lắp ghép – từ phụ cụm đến phụ câu</h3>
+			<h3 className="margin-y-50 text-center">4. ❌ Phủ định & ❓ Nghi vấn – Chỉ cần nhích Head</h3>
 
-			<h4 className="margin-y-40">🔹 Phụ cụm (DP) – lắp những khối Lego nhỏ</h4>
-
-			<p className="text-indent-whole">Phụ cụm là một cụm từ, không có chủ–vị riêng. Nó có thể thuộc các loại:</p>
-
-			<p className="text-indent-whole">Ví dụ:</p>
-
-				<ul className="list-square">
-
-					<li>I eat [an apple].</li>
-					<li className="list-none">Tôi ăn [một quả táo].</li>
-					<li className="margin-bottom-20 list-none">→ Danh cụm (Noun phrase) đóng vai trò làm tân ngữ cho động cơ "eat".</li>
-
-					<li>She is [very happy].</li>
-					<li className="list-none">Cô ấy [rất vui].</li>
-					<li className="margin-bottom-20 list-none">→ Tính cụm (Adjective phrase) bổ nghĩa cho chủ ngữ "She", đứng sau động cơ "is".</li>
-
-					<li>He runs [very fast].</li>
-					<li className="list-none">Anh ấy chạy [rất nhanh].</li>
-					<li className="margin-bottom-20 list-none">→ Trạng cụm chỉ cách thức, bổ nghĩa cho động cơ "runs".</li>
-
-					<li>I am [reading a book].</li>
-					<li className="list-none">Tôi đang [đọc một cuốn sách].</li>
-					<li className="margin-bottom-20 list-none">→ Danh động cụm đóng vai trò tân ngữ (hoặc thành phần chính trong vị ngữ).</li>
-
-					<li>They are [in the park].</li>
-					<li className="list-none">Họ đang ở [trong công viên].</li>
-					<li className="margin-bottom-20 list-none">→ Trạng cụm (Adverbial phrase) chỉ nơi chốn, bổ nghĩa cho vị trí của "They".</li>
 			
-				</ul>
 
-			<p className="margin-top-20 text-indent-whole">Ví dụ khác:</p>
 
-				<ul className="list-square">
-
-					<li>[Reading professional blogs] helps me improve my English.</li>
-					<li className="list-none">[Việc đọc các blog chuyên môn] giúp tôi cải thiện tiếng Anh.</li>
-					<li className="margin-bottom-20 list-none">→ Danh động cụm đóng vai trò chủ ngữ.</li>
-
-					<li>I enjoy [learning new web technologies].</li>
-					<li className="list-none">Tôi thích [việc học các công nghệ web mới].</li>
-					<li className="margin-bottom-20 list-none">→ Danh động cụm.</li>
-
-					<li>I am [very busy] today because of the deadline.</li>
-					<li className="list-none">Tôi [rất bận] hôm nay vì hạn chót công việc.</li>
-					<li className="margin-bottom-20 list-none">→ Trạng cụm</li>
-
-					<li>The athlete is [running fast] on the track.</li>
-					<li className="list-none">Vận động viên đang chạy nhanh trên đường chạy.</li>
-					<li className="list-none">→ [running fast] (Trạng động cụm - bổ nghĩa cho cách thức vận động)</li>
-					<li className="list-none">→ on the track (Trạng cụm - bổ nghĩa cho nơi chốn)</li>
 			
-				</ul>
-
-
-			<h4 className="margin-y-40">🔹 Phụ câu (DC) – lắp khối Lego lớn (cả một câu con)</h4>
-			
-			<p className="text-indent-whole">Khi muốn diễn đạt ý phức tạp, thay vì một cụm, ta lắp một <strong>câu con có đủ chủ</strong>–<strong>vị riêng</strong> vào sau Head. Đó là <strong>phụ câu</strong>.</p>
-					
-			<p className="text-indent-whole">Ví dụ:</p>
-			
-				<ul className="list-square">
-			
-					<li>I <strong>know</strong> [what you mean].</li>
-					<li className="list-none">Tôi biết [những gì bạn muốn nói].</li>
-					<li className="margin-bottom-20 list-none">→ Danh câu (câu con đóng vai trò như một danh cơ, là tân ngữ của know).</li>
-			
-					<li>She <strong>has</strong> [everything she wants].</li>
-					<li className="list-none">Cô ấy có [mọi thứ cô ấy muốn].</li>
-					<li className="margin-bottom-20 list-none">→ Danh câu.</li>
-			
-					<li>We <strong>are</strong> [where we belong].</li>
-					<li className="list-none">Chúng ta đang ở [nơi ta thuộc về].</li>
-					<li className="margin-bottom-20 list-none">→ Trạng câu (bổ nghĩa cho are, chỉ nơi chốn).</li>
-
-					<li>He <strong>left</strong> [because it was late].</li>
-					<li className="list-none">Anh ấy đã rời đi [vì trời đã muộn].</li>
-					<li className="margin-bottom-20 list-none">→ Trạng câu chỉ nguyên nhân.</li>
-
-					<li>He runs [as if he were escaping from danger].</li>
-					<li className="list-none">Anh ấy chạy [như thể anh ấy đang trốn thoát khỏi nguy hiểm].</li>
-					<li className="margin-bottom-20 list-none">→ Trạng câu chỉ cách thức.</li>
-
-
-					<li>My problem is [that I am very busy].</li>
-					<li className="list-none">Vấn đề của tôi là [việc tôi đang rất bận].</li>
-					<li className="list-none">→ Danh câu làm chủ ngữ bổ ngữ.</li>
-			
-				</ul>
-
-				<p className="margin-top-20 text-indent-whole">Nhận biết phụ câu: nó bắt đầu bằng một từ như what, where, when, why, that, because, if, although… và bên trong nó có chủ ngữ + động cơ riêng.</p>
-
-
 			{/* 5.  */}
 
-			<h3 className="margin-y-50 text-center">5. 📌 Phủ định & nghi vấn: chỉ cần nhích Head</h3>
+			<h3 className="margin-y-50 text-center">5. 🎯 Bảng tổng hợp các mẫu câu lớn theo Lego Assembly</h3>
 
-			<h4 className="margin-y-40">Phủ định</h4>
-					
-			<p className="text-indent-whole"><strong>S Head not Phụ cụm</strong> / <strong>Phụ câu</strong></p>
-			
-				<ul className="list-square">
-
-					<li>I will <strong>not</strong> eat an apple.</li>
-					<li className="margin-bottom-20 list-none">Tôi sẽ không ăn một quả táo.</li>
-			
-					<li>She is <strong>not</strong> happy.</li>
-					<li className="margin-bottom-20 list-none">Cô ấy không hạnh phúc.</li>
-			
-					<li>He does <strong>not</strong> eat meat.</li>
-					<li className="list-none">Anh ấy không ăn thịt.</li>
-					<li className="list-none">→ Head = does, not đứng sau Head, động cơ eat trở về nguyên mẫu</li>
-			
-				</ul>
-
-
-			<h4 className="margin-y-40">Nghi vấn (Yes/No)</h4>
-					
-			<p className="text-indent-whole"><strong>Head S Phụ cụm</strong> / <strong>Phụ câu</strong> ?</p>
+			<p>Ví dụ minh họa</p>
 			
 				<ul className="list-square">
 			
-					<li className="margin-y-20 list-none"></li>
+					<li>He [runs] fast.</li>
+					<li className="list-none">Anh ấy [chạy] nhanh.</li>
+					<li className="margin-bottom-20 list-none">→ Chức năng: <strong>Trạng cơ</strong> (bổ nghĩa cho cách thực hiện hành động)</li>
 
-					<li><strong>Will</strong> you eat an apple?</li>
-					<li className="margin-bottom-20 list-none">Anh ấy có ăn thịt không?</li>
-			
-					<li><strong>Is</strong> she happy?</li>
-					<li className="margin-bottom-20 list-none">Cô ấy có hạnh phúc không?</li>
-			
-					<li><strong>Does</strong> he eat meat?</li>
-					<li className="list-none">Anh ấy có ăn thịt không?</li>
-			
-				</ul>
-			
+					<li>You [must] [finish the report].</li>
+					<li className="list-none">Bạn [phải] [hoàn thành báo cáo].</li>
+					<li className="margin-bottom-20 list-none"></li>
 
-			<h4 className="margin-y-40">Nghi vấn Wh-</h4>
+					<li>The baby [is] [sleeping peacefully].</li>
+					<li className="list-none">Đứa bé [đang] [ngủ ngon lành].</li>
+					<li className="margin-bottom-20 list-none">→ Chức năng: <strong> Tính cụm</strong> (bổ nghĩa cho trạng thái của "The baby")</li>
+
+					<li>I [cannot] [believe it].</li>
+					<li className="list-none">Tôi [không thể] [tin điều đó].</li>
+					<li className="margin-bottom-20 list-none">→ </li>
+
+					<li>[Have] you [eaten lunch]?</li>
+					<li className="list-none">[Đã] bạn [ăn trưa] chưa?</li>
+					<li className="margin-bottom-20 list-none">→ </li>
 					
-			<p className="text-indent-whole"><strong>Wh</strong>- <strong>Head S Phụ cụm</strong> / <strong>Phụ câu</strong> ?</p>
-			
-				<ul className="list-square">
-			
-					<li>Why will you leave?</li>
-					<li className="margin-bottom-20 list-none">Tại sao bạn sẽ rời đi?</li>
-			
-					<li>Where is she going?</li>
-					<li className="list-none">Cô ấy đang đi đâu vậy?</li>
+					<li>I remember [what you told me].</li>
+					<li className="list-none">Tôi nhớ [những gì bạn đã nói với tôi].</li>
+					<li className="margin-bottom-20 list-none">→ Chức năng: <strong>Danh câu</strong> (đối tượng của "remember")</li>
+
+					<li>The man [named John] is my uncle.</li>
+					<li className="list-none">Người đàn ông [tên là John] là chú của tôi.</li>
+					<li className="list-none">→ Chức năng: <strong>Tính cụm</strong> (bổ nghĩa cho "The man")</li>
 			
 				</ul>
 			
-			<p className="margin-top-20 text-indent-whole">Bạn không cần nhớ quy tắc nào phức tạp. Chỉ cần nhớ: <strong>Head quyết định tất cả</strong>. Phủ định → thêm not ngay sau Head. Nghi vấn → đưa Head lên đầu câu.</p>
-
-
+			<p className="margin-top-20"></p>
 			
+
+
 			{/* 6.  */}
 
-			<h3 className="margin-y-50 text-center">6. 🚀 Nâng cấp: Danh câu, Tính câu, Trạng câu</h3>
+			<h3 className="margin-y-50 text-center">6. 🧠 Tại sao mô hình S + Head + Dependent thay đổi cách học tiếng Anh?</h3>
 
-			<p>Trong mô hình Lego Assembly, bạn sẽ thường xuyên bắt gặp <strong>phụ câu</strong> (DC) đóng vai trò như một danh cơ, tính cơ, hoặc trạng cơ. Đây là cách phân loại rất trực quan:</p>
+			<p>Bởi vì nó phản ánh đúng <strong>bản chất phụ thuộc</strong> của tiếng Anh: mọi thứ sau Head đều lệ thuộc vào Head – từ dạng của động cơ đến cấu trúc của toàn bộ phần còn lại.</p>
 
-			<h4 className="margin-y-40">Danh câu</h4>
-					
-			<p className="text-indent-whole">Chức năng: Làm chủ ngữ, tân ngữ, bổ ngữ cho Head</p>
-
-			<p className="text-indent-whole">Ví dụ: </p>
+			<p>Khi bạn thuộc được một danh sách ngắn các Head (will, can, am, is, are, do, does, did, have, has…) và biết mỗi Head yêu cầu Dependent dạng gì (nguyên mẫu, V-ing, hay V3), bạn sẽ tự động tạo ra câu đúng mà không cần nghĩ đến “thì”. Đây là lý do trẻ con bản ngữ nói giỏi mà không học thì – chúng chỉ thuộc Head và quen với việc lắp ghép.</p>
 			
-				<ul className="list-square">
-
-					<li>I believe [that you are right].</li>
-					<li className="list-none">Tôi tin [rằng bạn đúng].</li>
-					<li className="list-none">→ Danh câu "that you are right" đóng vai trò như một vật thể/khái niệm được "tin" vào.</li>
-					<li className="margin-bottom-20 list-none">→ Chức năng chính: Làm tân ngữ</li>
-
+				<ol>
 			
-					<li>[What you said] is true.</li>
-					<li className="list-none">[Những gì bạn đã nói] là đúng.</li>
-					<li className="list-none">→ Danh câu "What you said" là một chủ thể đứng đầu câu.</li>
-					<li className="list-none">→ Chức năng chính: Làm chủ ngữ</li>
+					<li><strong>S</strong> là ai?</li>
 			
-				</ul>
-
-
-			<h4 className="margin-y-40">Tính câu</h4>
-					
-			<p className="text-indent-whole">Chức năng: Bổ nghĩa cho danh cơ đứng trước (thường bắt đầu bằng who, whom, which, that)</p>
-
-			<p className="text-indent-whole">Ví dụ: </p>
+					<li><strong>Head</strong> là từ nào? Nó thuộc loại modal, trợ động cơ, hay động cơ chính?</li>
 			
-				<ul className="list-square">
+					<li><strong>Dependent</strong> thuộc cấp độ <strong>Cơ</strong>, <strong>Cụm</strong> hay <strong>Câu</strong>? Và thuộc chức năng <strong>Danh</strong>, <strong>Tính</strong> hay <strong>Trạng</strong>?</li>
 			
-					<li>The man [who called you] is my brother.</li>
-					<li className="list-none">Người đàn ông [người mà đã gọi cho bạn] là anh trai tôi.</li>
-					<li className="list-none">→ Tính câu "who called you" đứng sau danh cơ "The man" để mô tả chi tiết về người đó.</li>
-					<li className="list-none">→ Chức năng chính: Mô tả danh cơ</li>
+				</ol>
 			
-				</ul>
-
-
-			<h4 className="margin-y-40">Trạng câu</h4>
-					
-			<p className="text-indent-whole">Chức năng: Bổ nghĩa cho Head (chỉ thời gian, nơi chốn, nguyên nhân, điều kiện…)</p>
-
-			<p className="text-indent-whole">Ví dụ: </p>
-			
-				<ul className="list-square">
-			
-					<li>I will call you [when I arrive].</li>
-					<li className="list-none">Tôi sẽ gọi cho bạn [khi tôi đến].</li>
-					<li className="list-none">→ Trạng câu "when I arrive" bổ nghĩa cho hành động "call" về mặt thời gian.</li>
-					<li className="margin-bottom-20 list-none">→ Chức năng chính: Bổ nghĩa thời gian</li>
-			
-					<li>She left [because she was tired].</li>
-					<li className="list-none">Cô ấy đã rời đi [vì cô ấy mệt].</li>
-					<li className="list-none">→ Trạng câu "because she was tired" bổ nghĩa cho hành động "left" về mặt nguyên nhân.</li>
-					<li className="list-none">→ Chức năng chính: Bổ nghĩa nguyên nhân</li>
-			
-				</ul>
-			
-			<p className="margin-top-20 text-indent-whole">Không cần nhớ “câu con quan hệ” hay “câu con trạng ngữ”. Chỉ cần nhìn vào chức năng của nó trong câu lớn:</p>
-			
-				<ul className="list-square">
-			
-					<li>Nếu nó đóng vai trò như một danh cơ → <strong>danh câu</strong></li>
-					<li>Như tính cơ → <strong>tính câu</strong></li>
-					<li>Như trạng cơ → <strong>trạng câu</strong></li>
-			
-				</ul>
-
-			<p className="margin-top-20 text-indent-whole">Việc phân loại thành <strong>Danh câu</strong> - <strong>Tính câu</strong> - <strong>Trạng câu</strong> thực sự rất mạnh mẽ. Nó giúp loại bỏ sự rườm rà của ngữ pháp truyền thống và tập trung vào đúng bản chất: đó là những câu con đóng vai trò như một danh cơ, một tính cơ, hoặc một trạng cơ trong câu lớn.</p>
-			
-
-
-			{/* 7.  */}
-
-			<h3 className="margin-y-50 text-center">7. 🧠 Tại sao mô hình này lại hiệu quả đến vậy?</h3>
-
-			<p>Bởi vì nó phản ánh đúng <strong>tư duy phụ thuộc</strong> (dependency) của tiếng Anh:</p>
-			
-				<ul className="list-square">
-			
-					<li>“Tôi” + “sẽ” + “ăn một quả táo”</li>
-					<li className="list-none">“Sẽ” (Head) đã nói lên tất cả</li>
-					<li className="list-none">“ăn” chỉ việc về nguyên mẫu</li>
-					<li className="list-none">Không cần nghĩ xem “ăn” chia thì gì</li>
-			
-				</ul>
-			
-			<p className="margin-top-20">Khi bạn quen với việc xác định Head trước, phần còn lại chỉ là lắp một <strong>phụ cụm</strong> hoặc <strong>phụ câu</strong> vào đúng vị trí. Càng lắp nhiều, bạn càng thấy mọi câu tiếng Anh đều giống nhau về khung xương.</p>
-
-
-			{/* 8.  */}
-
-			<h3 className="margin-y-50 text-center">8. 🎯 Thực hành nhanh – lắp Lego mỗi ngày</h3>
-					
-			<p>Hãy tập phân tích mọi câu bạn gặp theo cấu trúc <strong>S</strong> + <strong>Head</strong> + <strong>Phụ cụm</strong> / <strong>Phụ câu</strong>. Bắt đầu bằng vài ví dụ siêu đơn:</p>
-			
-				<ul className="list-square">
-
-					<li>I am a student.</li>
-					<li className="list-none">Tôi là một sinh viên.</li>
-					<li className="list-none">I - S</li>
-					<li className="list-none">am - Head</li>
-					<li className="margin-bottom-20 list-none">a student (danh cụm)</li>
-
-					<li>She will call you.</li>
-					<li className="list-none">Cô ấy sẽ gọi cho bạn.</li>
-					<li className="list-none">She - S</li>
-					<li className="list-none">will - Head</li>
-					<li className="margin-bottom-20 list-none">call you (động cơ nguyên mẫu + danh cụm)</li>
-			
-					<li>He has what I need.</li>
-					<li className="list-none">Anh ấy có thứ tôi cần.</li>
-					<li className="list-none">He - S</li>
-					<li className="list-none">has - Head</li>
-					<li className="margin-bottom-20 list-none">what I need (danh câu) - Ghi chú:Phụ câu</li>
-			
-					<li>Do you like coffee?</li>
-					<li className="list-none">Bạn có thích cà phê không?</li>
-					<li className="list-none">Head đảo lên trước S</li>
-					<li className="list-none">Do - Head</li>
-					<li className="list-none">you like coffee? (S + Head? Ở đây cần hiểu: nghi vấn = Head + S + phụ cụm)</li>
-			
-				</ul>
-			
-			<p className="margin-top-20">Sau một tuần, bạn sẽ không còn phải “dịch từ tiếng Việt sang thì” nữa. Bạn sẽ <strong>nhìn thấy các khối Lego</strong> và lắp chúng một cách tự nhiên.</p>
+			<p className="margin-top-20">Chỉ sau một thời gian ngắn, bạn sẽ thấy tiếng Anh hiện ra như một bảng Lego trong suốt, và việc nói – viết trở nên cực kỳ nhẹ nhàng.</p>
 
 
 			{/* Lời Kết */}
 
 			<h3 className="margin-y-50 text-center">✨ Lời kết</h3>
 
-			<p>Học ngôn ngữ không phải là học thuộc lòng các danh xưng trừu tượng. Học ngôn ngữ là học cách <strong>lắp ghép</strong> các thành phần có thể tái sử dụng, giống như bạn chơi Lego từ nhỏ.</p>
+			<p>Ngôn ngữ không phải là một đống quy tắc rời rạc. Ngôn ngữ là một hệ thống lắp ghép. Và với mô hình <strong>S</strong> + <strong>Head</strong> + <strong>Dependent</strong>, bạn vừa được tặng chìa khóa để mở hệ thống đó.</p>
 
-			<p>Mô hình <strong>S</strong> + <strong>Head</strong> + <strong>Phụ cụm</strong> / <strong>Phụ câu</strong> không phải một lý thuyết mới. Nó là cách diễn giải lại những quy tắc có sẵn dưới góc nhìn của sự phụ thuộc – một góc nhìn khiến tiếng Anh trở nên logic và dễ thở hơn nhiều.</p>
+			<p>Hãy bắt đầu ngay hôm nay. Đừng hỏi “thì này là thì gì”. Hãy hỏi: “Head của câu này là ai, và Dependent sau nó nằm ở cấp độ Cơ, Cụm hay Câu – với chức năng Danh, Tính hay Trạng?”</p>
 
-			<p>Hãy bắt đầu ngay hôm nay. Đừng hỏi “thì này là thì gì?” Hãy hỏi: “<strong>Head của câu này là ai</strong>? Và <strong>phụ cụm</strong> (hay <strong>phụ câu</strong>) sau nó có dạng gì?”</p>
-
-			<p>Và rồi bạn sẽ thấy: tiếng Anh chỉ là một bộ Lego đang chờ bạn lắp ghép. 🧩</p>
+			<p>Chúc bạn lắp ghép thành công trên hành trình chinh phục tiếng Anh! 🧩</p>
 
 
 			<div className="viewcounter">
