@@ -48,7 +48,7 @@ export default function ThreeDC1(): React.ReactElement {
 
 			</h1>
 
-			<h4 className="margin-bottom-30 text-center">BÍ QUYẾT LÀM CHỦ "BỘ 3 PHỤ CÂU" – BƯỚC NGOẶT THAY ĐỔI TƯ DUY TIẾNG ANH LÊN TẦM ADVANCED</h4>
+			<h4 className="margin-bottom-30 text-center">BÍ QUYẾT LÀM CHỦ "BỘ 3 PHỤ CÂU" VÀ HỆ THỐNG ĐỘNG LỰC HỌC TIẾNG ANH LÊN TẦM ADVANCED</h4>
 
 			<p>Khi mới học tiếng Anh, chúng ta thường có xu hướng tư duy theo từng từ đơn lẻ rồi lắp ghép chúng lại thành những Câu lớn ngắn ngủi, rời rạc.</p>
 
@@ -63,7 +63,7 @@ export default function ThreeDC1(): React.ReactElement {
 
 			{/* 1.  */}
 
-			<h3 className="margin-y-50 text-center">I. HỆ THỐNG TƯ DUY CỐT LÕI: MÔ HÌNH "3 CHỨC NĂNG & 3 CẤP ĐỘ"</h3>
+			<h3 className="margin-y-50 text-center">I. HỆ THỐNG TƯ DUY TOÀN DIỆN: MA TRẬN 2 CHIỀU (HÌNH THÁI VÀ CHỨC NĂNG)</h3>
 
 			<p>Để dễ dàng làm chủ tiếng Anh nâng cao, hãy nhớ kỹ công thức tư duy siêu gọn gàng dựa trên <strong>3 Chức năng</strong> và <strong>3 Cấp độ</strong> (<strong>3 chữ C</strong>) sau đây:</p>
 
@@ -129,7 +129,7 @@ export default function ThreeDC1(): React.ReactElement {
 
 			{/* 2.  */}
 
-			<h3 className="margin-y-50 text-center">II. GIẢI MÃ "BỘ 3 QUYỀN LỰC": Định nghĩa, Nhận biết & Ví dụ</h3>
+			<h3 className="margin-y-50 text-center">II. CHI TIẾT 3 CẤP ĐỘ HÌNH THÁI VÀ CÁCH XÁC ĐỊNH CHỨC NĂNG</h3>
 
 			<h4 className="margin-y-40">1. Trạng câu (Adverbial Clause)</h4>
 					
@@ -336,210 +336,245 @@ export default function ThreeDC1(): React.ReactElement {
 
 			<h3 className="margin-y-50 text-center">III. TUYỆT CHIÊU PHÂN BIỆT "THẦN TỐC" BẰNG MẸO THẾ THÂN</h3>
 
-			<p>Có những từ như "<strong>that</strong>" hoặc "<strong>when</strong>" xuất hiện ở cả 3 loại Phụ câu, dễ khiến bạn bị rối. Lúc này, hãy áp dụng phương pháp "<strong>Thế thân</strong>" để lật tẩy bản chất của chúng ngay lập tức:</p>
+			
+			
 
-			<p className="margin-top-20">Thử thay thế cả <strong>Phụ câu</strong> bằng một <strong>trạng cơ</strong> đơn lẻ</p>
+			
+			{/* IV. */}
+
+			<h3 className="margin-y-50 text-center">III. NGUYÊN TẮC "ĐIỂM NEO" VÀ TƯ DUY PHÂN TẦNG</h3>
+
+			<p>Trong các cấu trúc phức tạp của trình độ Advanced, các hình thái này sẽ lồng ghép vào nhau. Người bản ngữ luôn tư duy phân tầng bằng cách neo giữ toàn bộ cấu trúc dựa vào Động cơ chính điều phối câu.</p>
+
+
+			<h4 className="margin-y-40">Ví dụ về cấu trúc phân tầng:</h4>
+					
+			<p className="text-indent-whole">Câu lớn trọn vẹn:</p>
 			
 				<ul className="list-square">
 			
-					<li><strong>then</strong>, <strong>there</strong>, <strong>therefore</strong></li>
+					<li>He [remembers {'{what you told me}'}].</li>
+					<li className="margin-bottom-20 list-none">Anh ấy [nhớ {'{những gì bạn đã nói với tôi}'}].</li>
+
+					<li className="list-none">{'{what you told me}'}: Nhìn thấy hình thái là một câu con đứng làm tân ngữ</li>
+					<li className="margin-bottom-20 list-none">→ Động câu mang chức năng <strong>Danh câu</strong>.</li>
+			
+					<li className="list-none">[remembers {'{what you told me}'}]: Bao gồm cả Động cơ chính "remembers" và cấu trúc đi sau nó</li>
+					<li className="list-none">→ Tạo thành một Động cụm lớn bao ngoài mang chức năng <strong>Danh cụm</strong>.</li>
+
+			
+				</ul>
+		
+
+
+			<h4 className="margin-y-40">Nguyên tắc vận hành hệ thống:</h4>
+			
+				<ol>
+			
+					<li value="1"><strong>Dấu móc định vị</strong>:</li>
+					<li className="margin-bottom-20 list-none">Dấu móc luôn bao quanh Động cơ chính hoặc toàn bộ cụm/câu con để xác định ranh giới tư duy.</li>
+			
+					<li value="2"><strong>Dữ liệu cấu hình nội bộ</strong>:</li>
+					<li className="margin-bottom-20 list-none">Các yếu tố biến đổi như -s/-es, -ed, -ing nằm bên trong [] chỉ là cấu hình kỹ thuật của Động cơ, hoàn toàn không làm thay đổi bản chất của Hình thái hay Chức năng.</li>
+			
+					<li value="3"><strong>Tách biệt điều phối</strong>:</li>
+					<li className="list-none">Động cơ chính điều khiển toàn bộ Câu lớn luôn nằm ngoài các Module thực thi (Phụ câu/Phụ cụm) nếu nó đóng vai trò là điểm điều phối trung tâm.</li>
+			
+				</ol>
+	
+
+
+			{/* IV. */}
+
+			<h3 className="margin-y-50 text-center">IV. TUYỆT CHIÊU PHÂN BIỆT ĐỘNG CÂU THẦN TỐC BẰNG MẸO THẾ THÂN</h3>
+
+			<p>Khi gặp các từ liên kết đa năng như that, when, where, bạn nhìn thấy hình thái là Động câu nhưng chưa biết chức năng của nó là gì. Hãy áp dụng ngay phương pháp "<strong>Thế thân</strong>" (<strong>Substitution</strong>) bằng cách thay cả khối Động câu đó bằng một từ đơn giản ở cấp độ Cơ:</p>
+
+			<p className="margin-top-20">Thử thay thế cả khối Động câu bằng...</p>
+			
+				<ul className="list-square">
+			
+					<li>Một <strong>Trạng cơ</strong> đơn lẻ (then, there, một cách dễ dàng)</li>
 					<li className="margin-bottom-20 list-none">sau đó, ở đó, vì vậy</li>
-					<li className="list-none">→ Nếu câu vẫn đúng ngữ pháp và hợp lý, thì đó là <strong>Trạng câu</strong></li>
+
+					<li className="list-none">→ Nếu câu vẫn đúng ngữ pháp và hợp lý, thì chức năng là... <strong>Trạng câu</strong> (Adverb Clause)</li>
 			
 				</ul>
 			
 			
-			<p className="margin-top-20">Thử thay thế cả <strong>Phụ câu</strong> bằng một <strong>tính cơ</strong> ngắn</p>
+			<p className="margin-top-20">Thử thay thế cả khối Động câu bằng...</p>
 			
 				<ul className="list-square">
 			
-					<li><strong>beautiful</strong>, <strong>smart</strong>, <strong>old</strong></li>
+					<li>Một <strong>Tính cơ</strong> ngắn (beautiful, smart, new)</li>
 					<li className="margin-bottom-20 list-none">đẹp, thông minh, cũ</li>
-					<li className="list-none">→ Nếu câu vẫn đúng ngữ pháp và hợp lý, thì đó là <strong>Tính câu</strong></li>
+
+					<li className="list-none">→ Nếu câu vẫn đúng ngữ pháp và hợp lý, thì chức năng là... <strong>Tính câu</strong> (Adjective Clause)</li>
 			
 				</ul>
 
 
-			<p className="margin-top-20">Thử thay thế cả <strong>Phụ câu</strong> bằng <strong>Đại cơ</strong></p>
+			<p className="margin-top-20">Thử thay thế cả khối Động câu bằng...</p>
 			
 				<ul className="list-square">
 			
-					<li>"<strong>Something</strong>" hoặc "<strong>It</strong>" (tương đương Danh cơ)</li>
+					<li><strong>Đại cơ</strong> "Something" hoặc "It" (tương đương một <strong>Danh cơ</strong>)</li>
 					<li className="margin-bottom-20 list-none">Cái gì đó / Một điều gì đó.</li>
-					<li className="list-none">→ Nếu câu vẫn đúng ngữ pháp và hợp lý, thì đó là <strong>Danh câu</strong></li>
+
+					<li className="list-none">→ Nếu câu vẫn đúng ngữ pháp và hợp lý, thì chức năng là... <strong>Danh câu</strong> (Noun Clause)</li>
 			
 				</ul>
-			
 
-			<h4 className="margin-y-40">Thử thách phân biệt 3 câu có chứa từ "when":</h4>
 
-			<p className="text-indent-whole"><strong>Câu A</strong>:</p>
+			<h4 className="margin-y-40">Thử thách phá án 3 cấu trúc cùng một hình thái chứa từ "where":</h4>
+
+			<p className="text-indent-whole">Câu 1:</p>
 			
 				<ul className="list-square">
 			
-					<li>I will call you [when I arrive at the airport].</li>
-					<li className="list-none">Tôi sẽ gọi cho bạn [khi tôi đến sân bay].</li>
-					<li className="margin-bottom-20 list-none">→ Đây là <strong>Trạng câu</strong> chỉ thời gian.</li>
-
-					<li className="margin-bottom-20 list-none">Phá án bằng mẹo thế thân: Thay bằng "<strong>then</strong>":</li>
-
-					<li>I will call you [then].</li>
-					<li className="list-none">Tôi sẽ gọi cho bạn [sau đó].</li>
-					<li className="list-none">→ Hợp lý! Đây là <strong>Trạng câu</strong> chỉ thời gian.</li>
+					<li>I will meet you [where we first met].</li>
+					<li className="list-none">Tôi sẽ gặp bạn [nơi chúng ta đã gặp nhau lần đầu].</li>
 			
 				</ul>
+
 			
-			<p className="margin-top-20 text-indent-whole"><strong>Câu B</strong>:</p>
+			<p className="margin-top-20 text-indent-whole">Câu 2:</p>
 			
 				<ul className="list-square">
 			
-					<li>I will never forget the day [when we first met].</li>
-					<li className="list-none">Tôi sẽ không bao giờ quên ngày [mà chúng ta gặp nhau lần đầu tiên].</li>
-					<li className="margin-bottom-20 list-none">→ Đây là <strong>Tính câu</strong> bổ nghĩa cho Danh cơ "the day".</li>
-
-					<li className="margin-bottom-20 list-none">Phá án bằng mẹo thế thân: Thay bằng một <strong>tính cơ</strong> đứng trước danh cơ "day":</li>
-
-					<li>I will never forget the <strong>special</strong> day.</li>
-					<li className="list-none">Tôi sẽ không bao giờ quên ngày <strong>đặc biệt</strong> đó.</li>
-					<li className="list-none">→ Hợp lý! Đây là <strong>Tính câu</strong> bổ nghĩa cho Danh cơ "the day".</li>
+					<li>This is the restaurant [where we first met].</li>
+					<li className="list-none">Đây là nhà hàng [nơi chúng ta đã gặp nhau lần đầu].</li>
 			
 				</ul>
 			
-			<p className="margin-top-20 text-indent-whole"><strong>Câu C</strong>:</p>
+			
+			<p className="margin-top-20 text-indent-whole">Câu 3:</p>
 			
 				<ul className="list-square">
 			
-					<li>I don't know [when the meeting will start].</li>
-					<li className="list-none">Tôi không biết [khi nào cuộc họp sẽ bắt đầu].</li>
-					<li className="margin-bottom-20 list-none">→ Đây là <strong>Danh câu</strong> làm tân ngữ cho động cơ "know".</li>
+					<li>I don't remember [where we first met].</li>
+					<li className="list-none">Tôi không nhớ [nơi chúng ta đã gặp nhau lần đầu].</li>
+			
+				</ul>
 
-					<li className="margin-bottom-20 list-none">Phá án bằng mẹo thế thân: Thay Phụ câu trong Câu C bằng "<strong>something</strong>/<strong>it</strong>":</li>
 
+
+			<h4 className="margin-y-40">Áp dụng mẹo thế thân lật tẩy chức năng:</h4>
+					
+			<p className="text-indent-whole">Thay thế Câu 1 bằng Trạng cơ "there":</p>
+			
+				<ul className="list-square">
+			
+					<li>I will meet you [there].</li>
+					<li className="margin-bottom-20 list-none">Tôi sẽ gặp bạn [ở đó].</li>
+					
+					<li className="list-none">→ Hợp lý! Chức năng là <strong>Trạng câu</strong> chỉ nơi chốn.</li>
+			
+				</ul>
+
+			
+			<p className="margin-top-20 text-indent-whole">Thay thế Câu 2 bằng Tính cơ "old" đặt trước Danh cơ "restaurant":</p>
+			
+				<ul className="list-square">
+			
+					<li>This is the [old] restaurant.</li>
+					<li className="margin-bottom-20 list-none">Đây là nhà hàng cũ.</li>
+					
+					<li className="list-none">→ Hợp lý! Chức năng là <strong>Tính câu</strong> bổ nghĩa cho danh cơ.</li>
+			
+				</ul>
+			
+			
+			<p className="margin-top-20 text-indent-whole">Thay thế Câu 3 bằng "something":</p>
+			
+				<ul className="list-square">
+			
 					<li>I don't know [something].</li>
-					<li className="list-none">Tôi không biết [điều đó].</li>
-					<li className="margin-bottom-20 list-none">→ Hợp lý! Đây là <strong>Danh câu</strong> làm tân ngữ cho Động cơ "know".</li>
+					<li className="margin-bottom-20 list-none">Tôi không biết [điều gì đó].</li>
 
-					<li>I don't know [it].</li>
-					<li className="list-none">Tôi không biết [cái đó].</li>
-					<li className="list-none">→ Hợp lý! Đây là <strong>Danh câu</strong> làm tân ngữ cho Động cơ "know".</li>
+					<li className="list-none">→ Hợp lý! Chức năng là <strong>Danh câu</strong> làm tân ngữ.</li>
 			
 				</ul>
-			
-
-			{/* 4.  */}
-
-			<h3 className="margin-y-50 text-center">IV. LỘ TRÌNH 3 BƯỚC LÀM CHỦ ĐỂ CHẠM NGƯỠNG ADVANCED</h3>
-
-			<p>Chỉ biết công thức lý thuyết thì chưa đủ gọi là Advanced. Để biến bộ 3 Phụ câu này thành phản xạ tự nhiên, bạn cần luyện tập theo lộ trình nâng cấp sau:</p>
-
-			
-
-			<h4 className="margin-y-40">Bước 1: Kỹ thuật gộp câu (Sentence Combining)</h4>
-
-			<p className="text-indent-whole">Khi viết hoặc nói, hãy ép bản thân không được dùng các câu đơn ngắn. Hãy dùng bộ 3 Phụ câu để xâu chuỗi thông tin một cách logic.</p>
+		
 
 
-			<p className="margin-top-50">Ví dụ 1:</p>
+			{/* V. */}
 
-			<p className="margin-top-20 text-indent-whole">Ý thô sơ:</p>
-			
-				<ul className="list-square">
-			
-					<li>The report is ready. John wrote it. It contains important data.</li>
-					<li className="list-none">Báo cáo đã sẵn sàng. John đã viết nó. Nó chứa dữ liệu quan trọng.</li>
-			
-				</ul>
-			
-			<p className="margin-top-40 text-indent-whole">Gộp nâng cao (Dùng <strong>Tính câu</strong>):</p>
+			<h3 className="margin-y-50 text-center">V. LỘ TRÌNH 2 BƯỚC TINH GỌN ĐỂ CHẠM NGƯỠNG ADVANCED</h3>
 
-				<ul className="list-square">
-			
-					<li>The report [which John wrote] and [that contains important data] is finally ready.</li>
-					<li className="list-none">Bản báo cáo [cái mà John đã viết] và [cái mà chứa dữ liệu quan trọng] cuối cùng cũng đã sẵn sàng.</li>
-			
-				</ul>
+			<p>Người bản ngữ trình độ cao luôn chuộng sự tinh gọn. Sau khi đã thành thạo việc dựng các <strong>Động câu</strong> đầy đủ, bước tối thượng để chạm ngưỡng Advanced là "gọt tỉa" chúng xuống cấp độ <strong>Động cụm</strong> để câu văn thanh thoát và uyển chuyển hơn.</p>
 
 
-			<h4 className="margin-y-40">Bước 2: Kỹ thuật Rút gọn – Đỉnh cao của người bản ngữ</h4>
-
-			<p className="text-indent-whole">Người bản ngữ cực kỳ chuộng sự tinh gọn. Khi đã viết tốt Phụ câu đầy đủ, hãy học cách "gọt tỉa" cấu trúc để biến cấp độ <strong>Câu</strong> thành cấp độ <strong>Cụm</strong> (Phụ cụm). Đây chính là lúc bài viết của bạn toát ra "mùi" Advanced chân chính.</p>
-
-			
-
-			<p className="margin-top-50">Ví dụ 2:</p>
-
-			<p className="margin-y-30 text-indent-whole">Rút gọn <strong>Trạng câu</strong> thành <strong>Trạng cụm</strong>:</p>
-			
-			<p className="margin-top-20 text-indent-whole">Đầy đủ (<strong>Trạng câu</strong>):</p>
-			
-				<ul className="list-square">
-			
-					<li>[Because she felt exhausted after a long day], she went to sleep early.</li>
-					<li className="list-none">[Bởi vì cảm thấy kiệt sức sau một ngày dài], cô ấy đã đi ngủ sớm.</li>
-			
-				</ul>
-
-			<p className="margin-top-40 text-indent-whole">Advanced (<strong>Trạng cụm</strong>):</p>
-			
-				<ul className="list-square">
-			
-					<li>[Feeling exhausted after a long day], she went to sleep early.</li>
-					<li className="list-none">[Cảm thấy kiệt sức sau một ngày dài], cô ấy đã đi ngủ sớm.</li>
-			
-				</ul>
-			
-
-
-			<p className="margin-top-50">Ví dụ 3:</p>
-			
-			<p className="margin-y-30 text-indent-whole">Rút gọn <strong>Tính câu</strong> thành <strong>Tính cụm</strong>:</p>
-
-			<p className="margin-top-20 text-indent-whole">Đầy đủ (<strong>Tính câu</strong>):</p>
-			
-				<ul className="list-square">
-			
-					<li>The man [who is standing over there] is our CEO.</li>
-					<li className="list-none">Người đàn ông [người mà đang đứng đằng kia] là giám đốc điều hành (CEO) của chúng tôi.</li>
-			
-				</ul>
-
-			<p className="margin-top-40 text-indent-whole">Advanced (<strong>Tính cụm</strong>):</p>
-			
-				<ul className="list-square">
-			
-					<li>The man [standing over there] is our CEO.</li>
-					<li className="list-none">Người đàn ông [đang đứng đằng kia] là giám đốc điều hành (CEO) của chúng tôi.</li>
-			
-				</ul>
-
-
-			<p className="margin-top-50">Ví dụ 4:</p>
-			
-			<p className="margin-y-30 text-indent-whole">Rút gọn <strong>Danh câu</strong> thành <strong>Danh cụm</strong>:</p>
+			<h4 className="margin-y-40">1. Hạ cấp từ Trạng câu xuống Trạng cụm</h4>
 					
-			<p className="margin-top-20 text-indent-whole">Đầy đủ (<strong>Danh câu</strong>):</p>
+			<p className="text-indent-whole">Dạng đầy đủ (<strong>Trạng câu</strong>):</p>
 			
 				<ul className="list-square">
 			
-					<li>I am not sure [what I should do next].</li>
-					<li className="list-none">Tôi không chắc [cái gì mà mình nên làm tiếp theo].</li>
-			
-				</ul>
-
-			<p className="margin-top-40 text-indent-whole">Advanced (<strong>Danh cụm</strong>):</p>
-			
-				<ul className="list-square">
-			
-					<li>I am not sure [what to do next].</li>
-					<li className="list-none">Tôi không chắc [cái gì để làm tiếp theo].</li>
+					<li>[Because he realized the danger], he stopped the project.</li>
+					<li className="list-none">[Bởi vì anh ấy nhận ra sự nguy hiểm], anh ấy đã dừng dự án.</li>
 			
 				</ul>
 
 			
+			<p className="margin-top-20 text-indent-whole">Dạng tinh gọn (<strong>Trạng cụm</strong>):</p>
+			
+				<ul className="list-square">
+			
+					<li>[Realizing the danger], he stopped the project.</li>
+					<li className="list-none">[Nhận ra sự nguy hiểm], anh ấy đã dừng dự án.</li>
+			
+				</ul>
 
 
-			<h4 className="margin-y-40">Bước 3: Đảo ngữ kết hợp (Inversion)</h4>
+			<h4 className="margin-y-40">2. Hạ cấp từ Tính câu xuống Tính cụm</h4>
 					
+			<p className="text-indent-whole">Dạng đầy đủ (<strong>Tính câu</strong>):</p>
+			
+				<ul className="list-square">
+			
+					<li>The cars [which are manufactured in Germany] are very reliable.</li>
+					<li className="list-none">Những chiếc xe [mà được sản xuất tại Đức] thì rất đáng tin cậy.</li>
+			
+				</ul>
+
+			
+			<p className="margin-top-20 text-indent-whole">Dạng tinh gọn (<strong>Tính cụm</strong>):</p>
+			
+				<ul className="list-square">
+			
+					<li>The cars [manufactured in Germany] are very reliable.</li>
+					<li className="list-none">Những chiếc xe [được sản xuất tại Đức] rất đáng tin cậy.</li>
+			
+				</ul>
+
+
+			<h4 className="margin-y-40">3. Hạ cấp từ Danh câu xuống Danh cụm</h4>
+					
+			<p className="text-indent-whole">Dạng đầy đủ (<strong>Danh câu</strong>):</p>
+			
+				<ul className="list-square">
+			
+					<li>She hasn't decided [how she should solve the problem].</li>
+					<li className="list-none">Cô ấy vẫn chưa quyết định [cách cô ấy nên giải quyết vấn đề].</li>
+			
+				</ul>
+
+			
+			<p className="margin-top-20 text-indent-whole">Dạng tinh gọn (<strong>Danh cụm</strong>):</p>
+			
+				<ul className="list-square">
+			
+					<li>She hasn't decided [how to solve the problem].</li>
+					<li className="list-none">Cô ấy vẫn chưa quyết định [cách giải quyết vấn đề].</li>
+			
+				</ul>
+
+
+			{/* VI. Bổ sung */}
+
+			<h3 className="margin-y-50 text-center">VI. Đảo ngữ kết hợp (Inversion)</h3>
+		
 			<p className="text-indent-whole">Nâng tầm <strong>Trạng câu</strong> lên mức học thuật cao nhất bằng cách đưa các từ liên kết mang nghĩa phủ định lên đầu và tiến hành đảo ngữ Câu lớn chính:</p>
 
 
@@ -691,15 +726,15 @@ export default function ThreeDC1(): React.ReactElement {
 				</ul>
 
 
+
+
 			{/* Lời Kết */}
 
-			<h3 className="margin-y-50 text-center">V. LỜI KẾT: Học bộ 3 Phụ câu đã đủ để giỏi "thần tốc"?</h3>
+			<h3 className="margin-y-50 text-center">VI. LỜI KẾT</h3>
 
-			<p>Luyện tập bộ 3 Phụ câu này không thể giúp bạn nghiễm nhiên đạt mức Advanced sau một đêm. Tuy nhiên, nó cung cấp cho bạn một <strong>bộ khung xương tư duy cực kỳ chuẩn xác</strong>.</p>
+			<p>Tư duy theo ma trận Hình thái (<strong>Cơ</strong> - <strong>Cụm</strong> - <strong>Câu</strong>) và <strong>Chức năng</strong> (<strong>Danh</strong> - <strong>Tính</strong> - <strong>Trạng</strong>) chính là bộ bản vẽ kỹ thuật cốt lõi giúp bạn làm chủ ngôn ngữ.</p>
 
-			<p>Khi bạn có thể thoải mái nhào nặn, hoán đổi, biến cấp độ Câu đầy đủ thành cấp độ Cụm rút gọn một cách linh hoạt theo ý muốn, bạn đã chính thức làm chủ được cốt lõi ngôn ngữ của người bản xứ.</p>
-
-			<p>Phần còn lại chỉ là đắp thêm từ vựng để đạt đến sự hoàn hảo.</p>
+			<p>Khi bạn nhìn một câu và thấy rõ ranh giới của các khối hình thái hiển thị, chủ động điều phối Động cơ chính và hoán đổi nhịp nhàng giữa cấp độ Câu và cấp độ Cụm, bạn đã chính thức sở hữu tư duy sắc bén của một người bản xứ trình độ cao.</p>
 			
 
 			<div className="viewcounter">

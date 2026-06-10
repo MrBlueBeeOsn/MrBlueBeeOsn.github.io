@@ -52,11 +52,11 @@ export default function AdjPlacement1(): React.JSX.Element {
 
 			<p>Có một lối mòn tư duy đang âm thầm kìm hãm thế hệ người học tiếng Anh tại Việt Nam:</p>
 
-			<p className="margin-bottom-40"><strong>Định kiến cho rằng cấu trúc tiếng Anh hoàn toàn ngược ngạo với tiếng Việt</strong>.</p>
+			<p className="margin-y-30"><strong>Định kiến cho rằng cấu trúc tiếng Anh hoàn toàn ngược ngạo với tiếng Việt</strong>.</p>
 
 			<p>Ngay từ những ngày đầu chạm ngõ ngôn ngữ này, chúng ta đã bị đóng băng tư duy ở một quy luật sơ cấp:</p>
 
-			<p className="margin-bottom-40"><strong>Tính cơ</strong> phải đứng trước <strong>Danh cơ</strong> (như a beautiful house).</p>
+			<p className="margin-y-30"><strong>Tính cơ</strong> phải đứng trước <strong>Danh cơ</strong> (như a beautiful house).</p>
 
 			<p>Vì mô hình này đi ngược lại với tư duy tiếng mẹ đẻ, bộ não người học luôn phải mất một nhịp khựng lại để đảo từ. Hệ quả là chúng ta tự dán nhãn tiếng Anh là một thứ ngôn ngữ rắc rối, phức tạp và xa lạ.</p>
 			
