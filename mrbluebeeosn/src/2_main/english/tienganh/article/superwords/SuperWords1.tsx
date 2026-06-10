@@ -267,8 +267,8 @@ export default function SuperWords1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>He [remembers {'{what you told me}'}]</li>
-					<li className="margin-bottom-20 list-none">Anh ấy [nhớ {'{những gì bạn đã nói với tôi}'}]</li>
+					<li>He [remembers {'{what you told me}'}].</li>
+					<li className="margin-bottom-20 list-none">Anh ấy [nhớ {'{những gì bạn đã nói với tôi}'}].</li>
 
 					<li className="list-none">{'{what you told me}'}: Đạt hình thái Động câu (Verb Clause) vì chứa cấu trúc câu con bên trong</li>
 					<li className="margin-bottom-20 list-none">→ Đảm nhận Chức năng: <strong>Danh câu</strong> (Noun Clause) làm vật bị tác động.</li>
