@@ -332,11 +332,128 @@ export default function ThreeDC1(): React.ReactElement {
 				</ul>
 
 
-			{/* 3.  */}
+			{/* 2.  */}
 
-			<h3 className="margin-y-50 text-center">III. TUYỆT CHIÊU PHÂN BIỆT "THẦN TỐC" BẰNG MẸO THẾ THÂN</h3>
+			<h3 className="margin-y-50 text-center">II. CHI TIẾT 3 CẤP ĐỘ HÌNH THÁI VÀ CÁCH XÁC ĐỊNH CHỨC NĂNG</h3>
 
 			
+			<h4 className="margin-y-40">1. Hình thái: ĐỘNG CƠ (Verb Base)</h4>
+					
+			<p className="text-indent-whole"></p>
+			
+				<ul className="list-square">
+			
+					<li></li>
+					<li className="list-none"></li>
+			
+				</ul>
+			
+			
+			<p className="margin-top-20 text-indent-whole"></p>
+
+			
+				<ul className="list-square">
+			
+					<li></li>
+					<li className="list-none"></li>
+			
+				</ul>
+
+			
+			<p className="margin-top-20 text-indent-whole"></p>
+			
+				<ul className="list-square">
+			
+					<li></li>
+					<li className="list-none"></li>
+			
+				</ul>
+			
+			<p className="margin-top-20 text-indent-whole"></p>
+
+
+			<h4 className="margin-y-40">2. Hình thái: ĐỘNG CỤM (Verb Phrase)</h4>
+					
+			<p className="text-indent-whole"></p>
+			
+				<ul className="list-square">
+			
+					<li></li>
+					<li className="margin-bottom-20 list-none">→ </li>
+
+					<li className="list-none">→ </li>
+			
+				</ul>
+			
+			
+			<p className="margin-top-20 text-indent-whole"></p>
+
+			
+				<ul className="list-square">
+			
+					<li></li>
+					<li className="margin-bottom-20 list-none">→ </li>
+
+					<li className="list-none">→ </li>
+			
+				</ul>
+
+			
+			<p className="margin-top-20 text-indent-whole"></p>
+			
+				<ul className="list-square">
+			
+					<li></li>
+					<li className="margin-bottom-20 list-none">→ </li>
+
+					<li className="list-none">→ </li>
+			
+				</ul>
+			
+			<p className="margin-top-20 text-indent-whole"></p>
+
+
+			<h4 className="margin-y-40">3. Hình thái: ĐỘNG CÂU (Verb Clause / Phụ câu)</h4>
+					
+			<p className="text-indent-whole"></p>
+			
+				<ul className="list-square">
+			
+					<li></li>
+					<li className="margin-bottom-20 list-none">→ </li>
+
+					<li className="list-none">→ </li>
+			
+				</ul>
+			
+			
+			<p className="margin-top-20 text-indent-whole"></p>
+
+			
+				<ul className="list-square">
+			
+					<li></li>
+					<li className="margin-bottom-20 list-none">→ </li>
+
+					<li className="list-none">→ </li>
+			
+				</ul>
+
+			
+			<p className="margin-top-20 text-indent-whole"></p>
+			
+				<ul className="list-square">
+			
+					<li></li>
+					<li className="margin-bottom-20 list-none">→ </li>
+
+					<li className="list-none">→ </li>
+			
+				</ul>
+			
+			<p className="margin-top-20 text-indent-whole"></p>
+
+
 			
 
 			
