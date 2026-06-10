@@ -274,8 +274,11 @@ export default function AdjPlacement1(): React.JSX.Element {
 					<li>He [remembers {'{what you told me}'}].</li>
 					<li className="margin-bottom-20 list-none">Anh ấy [nhớ {'{những gì bạn đã nói với tôi}'}].</li>
 
-					<li className="list-none">{'{what you told me}'}: Hình thái Động câu → Đóng chức năng làm <strong>Danh câu</strong>.</li>
-					<li className="list-none">[remembers {'{what you told me}'}]: Hình thái Động cụm → Đóng chức năng làm <strong>Danh cụm</strong> được điều khiển bởi Động cơ hạt nhân remembers.</li>
+					<li className="list-none">{'{what you told me}'}: Hình thái Động câu</li>
+					<li className="margin-bottom-20 list-none">→ Đóng chức năng làm <strong>Danh câu</strong>.</li>
+
+					<li className="list-none">[remembers {'{what you told me}'}]: Hình thái Động cụm</li>
+					<li className="list-none">→ Đóng chức năng làm <strong>Danh cụm</strong> được điều khiển bởi Động cơ hạt nhân remembers.</li>
 			
 				</ul>
 
