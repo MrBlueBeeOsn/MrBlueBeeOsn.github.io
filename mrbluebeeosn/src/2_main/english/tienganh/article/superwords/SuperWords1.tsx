@@ -260,7 +260,7 @@ export default function SuperWords1(): React.JSX.Element {
 
 			<p>Khi bạn đọc hoặc viết những câu dài phức tạp, hệ thống ngôn ngữ sẽ xuất hiện hiện tượng "lồng hộp" — nghĩa là một hình thái lớn ôm lấy một hình thái nhỏ bên trong.</p>
 
-			<p>Để định vị chính xác, chúng ta áp dụng <strong>Nguyên tắc</strong> "<strong>Điểm neo</strong>": Dấu ngoặc vuông [] bao quanh tầng ngoài cùng (lấy cả hành động chính điều phối câu), và dấu ngoặc nhọn {} dành cho module được lồng bên trong.</p>
+			<p>Để định vị chính xác, chúng ta áp dụng <strong>Nguyên tắc</strong> "<strong>Điểm neo</strong>": Dấu ngoặc vuông [] bao quanh tầng ngoài cùng (lấy cả hành động chính điều phối câu), và dấu ngoặc nhọn {'{}'} dành cho module được lồng bên trong.</p>
 
 
 			<h4 className="margin-y-40">Ví dụ phân tầng thực tế:</h4>

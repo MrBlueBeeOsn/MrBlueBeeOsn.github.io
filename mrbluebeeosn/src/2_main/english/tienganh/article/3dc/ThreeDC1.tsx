@@ -74,51 +74,31 @@ export default function ThreeDC1(): React.ReactElement {
 					<li className="list-none">Đây là cái bạn sẽ suy ra dựa vào vị trí của hình thái đó.</li>
 			
 				</ul>
-		
-	
+
 			
 			<h4 className="margin-y-40">Ma trận đồng bộ thuật ngữ Anh – Việt:</h4>
 
-			<p className="margin-top-20 text-indent-whole"><strong>Hình thái</strong> hiển thị (Cấp độ)</p>
+			<p className="margin-y-20 text-indent-whole"><strong>Hình thái</strong> hiển thị (Cấp độ)</p>
 			
 				<ul className="list-square">
 			
-					<li><strong>ĐỘNG CƠ</strong> (Verb Base)</li>
-					<li><strong>ĐỘNG CỤM</strong> (Verb Phrase)</li>
-					<li><strong>ĐỘNG CÂU</strong> (Verb Clause)</li>
+					<li className="margin-bottom-20"><strong>ĐỘNG CƠ</strong> (Verb Base)</li>
+					<li className="list-none">Chức năng: DANH - <strong>Danh cơ</strong> (Noun Base)</li>
+					<li className="list-none">Chức năng: TÍNH - <strong>Tính cơ</strong> (Adjective Base)</li>
+					<li className="margin-bottom-20 list-none">Chức năng: TRẠNG - <strong>Trạng cơ</strong> (Adverb Base)</li>
+			
+					<li className="margin-bottom-20"><strong>ĐỘNG CỤM</strong> (Verb Phrase)</li>
+					<li className="list-none">Chức năng: DANH - <strong>Danh cụm</strong> (Noun Phrase)</li>
+					<li className="list-none">Chức năng: TÍNH - <strong>Tính cụm</strong> (Adjective Phrase)</li>
+					<li className="margin-bottom-20 list-none">Chức năng: TRẠNG - <strong>Trạng cụm</strong> (Adverb Phrase)</li>
+			
+					<li className="margin-bottom-20"><strong>ĐỘNG CÂU</strong> (Verb Clause)</li>
+					<li className="list-none">Chức năng: DANH - <strong>Danh câu</strong> (Noun Clause)</li>
+					<li className="list-none">Chức năng: TÍNH - <strong>Tính câu</strong> (Adjective Clause)</li>
+					<li className="list-none">Chức năng: TRẠNG - <strong>Trạng câu</strong> (Adverb Clause)</li>
 			
 				</ul>
-
-
-			<p className="margin-top-20 text-indent-whole">Chức năng: <strong>DANH</strong></p>
-			
-				<ul className="list-square">
-			
-					<li className="list-none"><strong>Danh cơ</strong> (Noun Base)</li>
-					<li className="list-none"><strong>Danh cụm</strong> (Noun Phrase)</li>
-					<li className="list-none"><strong>Danh câu</strong> (Noun Clause)</li>
-			
-				</ul>
-
-			<p className="margin-top-20 text-indent-whole">Chức năng: <strong>TÍNH</strong></p>
-			
-				<ul className="list-square">
-
-					<li className="list-none"><strong>Tính cơ</strong> (Adjective Base)</li>
-					<li className="list-none"><strong>Tính cụm</strong> (Adjective Phrase)</li>
-					<li className="list-none"><strong>Tính câu</strong> (Adjective Clause)</li>
-			
-				</ul>
-
-			<p className="margin-top-20 text-indent-whole">Chức năng: <strong>TRẠNG</strong></p>
-			
-				<ul className="list-square">
-			
-					<li className="list-none"><strong>Trạng cơ</strong> (Adverb Base)</li>
-					<li className="list-none"><strong>Trạng cụm</strong> (Adverb Phrase)</li>
-					<li className="list-none"><strong>Trạng câu</strong> (Adverb Clause)</li>
-			
-				</ul>
+		
 			
 			<h4 className="margin-y-40">BÍ MẬT TƯ DUY:</h4>
 					

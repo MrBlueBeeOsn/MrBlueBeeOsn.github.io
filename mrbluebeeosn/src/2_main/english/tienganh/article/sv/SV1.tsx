@@ -82,40 +82,24 @@ export default function SV1(): React.JSX.Element {
 
 			<h4 className="margin-y-40">Bảng Đối Chiếu Thuật Ngữ Hệ Thống</h4>
 
-
-			<p className="margin-top-20 text-indent-whole"><strong>Hình Thái Hành Động</strong> (Nhận diện trước)</p>
-
-				<ul className="list-square">
-			
-					<li><strong>Động cơ</strong> (Verb Base)</li>
-					<li><strong>Động cụm</strong> (Verb Phrase)</li>
-					<li><strong>Động câu</strong> (Verb Clause)</li>
-			
-				</ul>
-
-			<p className="margin-top-20 text-indent-whole"><strong>Cấp Độ Cấu Trúc</strong></p>
+			<p className="margin-y-20 text-indent-whole">Hình Thái Hành Động (Nhận diện trước)</p>
 			
 				<ul className="list-square">
 			
-					<li><strong>CƠ</strong> (Cơ bản - 1 từ)</li>
-					<li><strong>CỤM</strong> (Khối từ, không S+V)</li>
-					<li><strong>CÂU</strong> (Hệ trục S+V con)</li>
+					<li className="margin-bottom-20"><strong>Động cơ</strong> (Verb Base)</li>
+					<li className="list-none">Cấp Độ Cấu Trúc: CƠ (Cơ bản - 1 từ)</li>
+					<li className="margin-bottom-20 list-none">Chức Năng Thực Thi (Xác định sau): <strong>Danh cơ</strong> (Noun Base) / <strong>Tính cơ</strong> (Adjective Base) / <strong>Trạng cơ</strong> (Adverb Base)</li>
+			
+					<li className="margin-bottom-20"><strong>Động cụm</strong> (Verb Phrase)</li>
+					<li className="list-none">Cấp Độ Cấu Trúc: CỤM (Khối từ, không S+V)</li>
+					<li className="margin-bottom-20 list-none">Chức Năng Thực Thi (Xác định sau): <strong>Danh cụm</strong> (Noun Phrase) / <strong>Tính cụm</strong> (Adjective Phrase) / <strong>Trạng cụm</strong> (Adverb Phrase)</li>
+			
+					<li className="margin-bottom-20"><strong>Động câu</strong> (Verb Clause)</li>
+					<li className="list-none">Cấp Độ Cấu Trúc: CÂU (Hệ trục S+V con)</li>
+					<li className="list-none">Chức Năng Thực Thi (Xác định sau): <strong>Danh câu</strong> (Noun Clause) / <strong>Tính câu</strong> (Adjective Clause) / <strong>Trạng câu</strong> (Adverb Clause)</li>
 			
 				</ul>
 
-
-			<p className="margin-top-20 text-indent-whole"><strong>Chức Năng Thực Thi</strong> (Xác định sau)</p>
-			
-				<ul className="list-square">
-			
-					<li><strong>Danh cơ</strong> (Noun Base) / <strong>Tính cơ</strong> (Adjective Base) / <strong>Trạng cơ</strong> (Adverb Base)</li>
-			
-					<li><strong>Danh cụm</strong> (Noun Phrase) / <strong>Tính cụm</strong> (Adjective Phrase) / <strong>Trạng cụm</strong> (Adverb Phrase)</li>
-			
-					<li><strong>Danh câu</strong> (Noun Clause) / <strong>Tính câu</strong> (Adjective Clause) / <strong>Trạng câu</strong> (Adverb Clause)</li>
-			
-				</ul>
-			
 			
 			<p className="margin-top-20">Quy mô độc lập trong văn bản:</p>
 				
@@ -289,7 +273,7 @@ export default function SV1(): React.JSX.Element {
 				<ul className="list-square">
 			
 					<li><strong>Dấu móc trực quan</strong>:</li>
-					<li className="margin-bottom-20 list-none">Sử dụng [] cho lớp bao ngoài và {} cho lớp lồng bên trong.</li>
+					<li className="margin-bottom-20 list-none">Sử dụng [] cho lớp bao ngoài và {'{}'} cho lớp lồng bên trong.</li>
 			
 					<li><strong>Dữ liệu nội bộ</strong>:</li>
 					<li className="margin-bottom-20 list-none">Các yếu tố đuôi biến đổi cấu hình như -s/-es, -ed, -ing nằm bên trong dấu móc là cấu hình biểu thị thời gian/thể của Động cơ, không làm thay đổi bản chất của Hình thái hay Chức năng.</li>
