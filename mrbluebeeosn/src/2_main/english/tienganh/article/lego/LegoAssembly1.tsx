@@ -83,6 +83,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 					<li className="list-none">Là <strong>tất cả những gì đứng sau Head</strong>. Chúng mang tư duy "phụ thuộc", sinh ra là để bám vào Head và không bao giờ có thể đứng độc lập một mình.</li>
 			
 				</ul>
+			
 
 			<h4 className="margin-y-40">Bí mật về vị trí của chữ "NOT"</h4>
 					
@@ -162,10 +163,6 @@ export default function LegoAssembly1(): React.JSX.Element {
 			
 				</ul>
 			
-			<p className="margin-top-20"></p>
-
-
-
 			
 			<h4 className="margin-y-40">💡 Quy luật chuyển hóa cốt lõi:</h4>
 					
