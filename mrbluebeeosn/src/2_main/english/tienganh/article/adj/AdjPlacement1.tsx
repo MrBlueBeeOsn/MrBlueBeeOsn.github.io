@@ -125,18 +125,21 @@ export default function AdjPlacement1(): React.JSX.Element {
 
 					<li>[Exercising] is good for your health.</li>
 					<li className="margin-bottom-20 list-none">[Tập thể dục] tốt cho sức khỏe của bạn.</li>
-					<li className="list-none">Chức năng [<strong>Danh cơ</strong>] (Noun Base)</li>
-					<li className="margin-bottom-20 list-none">→ Hành động tập thể dục làm chủ thể</li>
+					<li className="list-none">Hành động tập thể dục làm chủ thể</li>
+					<li className="margin-bottom-20 list-none">→ Chức năng [<strong>Danh cơ</strong>] (Noun Base)</li>
+					
 
 					<li>She has an [inviting] smile.</li>
 					<li className="margin-bottom-20 list-none">Cô ấy có một nụ cười [cuốn hút].</li>
-					<li className="list-none">Chức năng [<strong>Tính cơ</strong>] (Adjective Base)</li>
-					<li className="margin-bottom-20 list-none">→ Hành động mang tính chất mời gọi, bổ nghĩa cho danh cơ smile</li>
+					<li className="list-none">Hành động mang tính chất mời gọi, bổ nghĩa cho danh cơ smile</li>
+					<li className="margin-bottom-20 list-none">→ Chức năng [<strong>Tính cơ</strong>] (Adjective Base)</li>
+					
 			
 					<li>He spoke [hesitatingly].</li>
 					<li className="margin-bottom-20 list-none">Anh ấy nói một cách [ngập ngừng].</li>
-					<li className="list-none">Chức năng [<strong>Trạng cơ</strong>] (Adverb Base)</li>
-					<li className="list-none">→ Hành động nói theo cách thức ngập ngừng, trạng cơ hình thành từ gốc động cơ + ly</li>
+					<li className="list-none">Hành động nói theo cách thức ngập ngừng, trạng cơ hình thành từ gốc động cơ + ly</li>
+					<li className="list-none">→ Chức năng [<strong>Trạng cơ</strong>] (Adverb Base)</li>
+					
 			
 				</ul>
 
@@ -150,18 +153,21 @@ export default function AdjPlacement1(): React.JSX.Element {
 
 					<li>You should [plan your future].</li>
 					<li className="margin-bottom-20 list-none">Bạn nên [lập kế hoạch cho tương lai của mình].</li>
-					<li className="list-none">Chức năng [<strong>Danh cụm</strong>] (Noun Phrase)</li>
-					<li className="margin-bottom-20 list-none">→ Cả cụm hành động là một đầu việc cần thực hiện</li>
+					<li className="list-none">Cả cụm hành động là một đầu việc cần thực hiện</li>
+					<li className="margin-bottom-20 list-none">→ Chức năng [<strong>Danh cụm</strong>] (Noun Phrase)</li>
+					
 
 					<li>The girl is [singing beautifully].</li>
 					<li className="margin-bottom-20 list-none">Cô gái đang [hát rất hay].</li>
-					<li className="list-none">Chức năng [<strong>Tính cụm</strong>] (Adjective Phrase)</li>
-					<li className="margin-bottom-20 list-none">→ Cụm mô tả trạng thái, tính chất của đối tượng</li>
+					<li className="list-none">Cụm mô tả trạng thái, tính chất của đối tượng</li>
+					<li className="margin-bottom-20 list-none">→ Chức năng [<strong>Tính cụm</strong>] (Adjective Phrase)</li>
+					
 			
 					<li>We study [to expand our knowledge].</li>
 					<li className="margin-bottom-20 list-none">Chúng tôi học [để mở rộng kiến thức của mình].</li>
-					<li className="list-none">Chức năng [<strong>Trạng cụm</strong>] (Adverb Phrase)</li>
-					<li className="list-none">→ Cụm mô tả mục đích cho hành động học</li>
+					<li className="list-none">Cụm mô tả mục đích cho hành động học</li>
+					<li className="list-none">→ Chức năng [<strong>Trạng cụm</strong>] (Adverb Phrase)</li>
+					
 			
 				</ul>
 
@@ -176,18 +182,21 @@ export default function AdjPlacement1(): React.JSX.Element {
 
 					<li>I believe [that he will succeed].</li>
 					<li className="margin-bottom-20 list-none">Tôi tin [rằng anh ấy sẽ thành công].</li>
-					<li className="list-none">Chức năng [<strong>Danh câu</strong>] (Noun Clause)</li>
-					<li className="margin-bottom-20 list-none">→ Câu con đóng vai trò làm đối tượng được tin tưởng</li>
+					<li className="list-none">Câu con đóng vai trò làm đối tượng được tin tưởng</li>
+					<li className="margin-bottom-20 list-none">→ Chức năng [<strong>Danh câu</strong>] (Noun Clause)</li>
+					
 
 					<li>The book [which is lying on the table] is mine.</li>
 					<li className="margin-bottom-20 list-none">Cuốn sách [mà đang nằm/để trên bàn] là của tôi.</li>
-					<li className="list-none">Chức năng [<strong>Tính câu</strong>] (Adjective Clause)</li>
-					<li className="margin-bottom-20 list-none">→ Câu con đóng vai trò định danh, làm rõ cho danh cơ book</li>
+					<li className="list-none">Câu con đóng vai trò định danh, làm rõ cho danh cơ book</li>
+					<li className="margin-bottom-20 list-none">→ Chức năng [<strong>Tính câu</strong>] (Adjective Clause)</li>
+					
 			
 					<li>We will start [when the sun rises].</li>
 					<li className="margin-bottom-20 list-none">Chúng tôi sẽ bắt đầu [khi mặt trời mọc].</li>
-					<li className="list-none">Chức năng [<strong>Trạng câu</strong>] (Adverb Clause)</li>
-					<li className="list-none">→ Câu con mô tả thời gian, bối cảnh cho hành động chính</li>
+					<li className="list-none">Câu con mô tả thời gian, bối cảnh cho hành động chính</li>
+					<li className="list-none">→ Chức năng [<strong>Trạng câu</strong>] (Adverb Clause)</li>
+					
 			
 				</ul>
 
@@ -271,18 +280,21 @@ export default function AdjPlacement1(): React.JSX.Element {
 			
 					<li value="1"><strong>TÍNH CÂU</strong> (Adjective Clause)</li>
 					<li className="list-none">Cấp độ cấu trúc hành thái: Động câu (Verb Clause)</li>
-					<li className="list-none">Chức năng dựa trên vị trí: Vận hành như một <strong>Tính cơ</strong></li>
-					<li className="margin-bottom-20 list-none">Cách vận hành trong Câu lớn: <strong>Đứng SAU Danh cơ</strong> cốt lõi để mô tả chi tiết đối tượng.</li>
+					<li className="list-none">Cách vận hành trong Câu lớn: <strong>Đứng SAU Danh cơ</strong> cốt lõi để mô tả chi tiết đối tượng.</li>
+					<li className="margin-bottom-20 list-none">Chức năng dựa trên vị trí: Vận hành như một <strong>Tính cơ</strong></li>
+					
 			
 					<li value="2"><strong>TRẠNG CÂU</strong> (Adverb Clause)</li>
 					<li className="list-none">Cấp độ cấu trúc hành thái: Động câu (Verb Clause)</li>
-					<li className="list-none">Chức năng dựa trên vị trí: Vận hành như một <strong>Trạng cơ</strong></li>
-					<li className="margin-bottom-20 list-none">Cách vận hành trong Câu lớn: Điều phối ngữ cảnh cho toàn câu (Thời gian, Nguyên nhân, Kết quả).</li>
+					<li className="list-none">Cách vận hành trong Câu lớn: Điều phối ngữ cảnh cho toàn câu (Thời gian, Nguyên nhân, Kết quả).</li>
+					<li className="margin-bottom-20 list-none">Chức năng dựa trên vị trí: Vận hành như một <strong>Trạng cơ</strong></li>
+					
 			
 					<li value="3"><strong>DANH CÂU</strong> (Noun Clause)</li>
 					<li className="list-none">Cấp độ cấu trúc hành thái: Động câu (Verb Clause)</li>
-					<li className="list-none">Chức năng dựa trên vị trí: Vận hành như một <strong>Danh cơ</strong></li>
 					<li className="list-none">Cách vận hành trong Câu lớn: Biến cả một nhận định phức tạp thành một vị trí Chủ ngữ hoặc Tân ngữ trong câu.</li>
+					<li className="list-none">Chức năng dựa trên vị trí: Vận hành như một <strong>Danh cơ</strong></li>
+					
 			
 				</ol>
 			
