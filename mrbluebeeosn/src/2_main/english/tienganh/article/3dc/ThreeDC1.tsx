@@ -327,20 +327,35 @@ export default function ThreeDC1(): React.ReactElement {
 			
 				</ul>
 
-
-			<h4 className="margin-y-40">Thử thách phá án 3 cấu trúc cùng một hình thái chứa từ "where":</h4>
-
-			<p className="text-indent-whole">Câu 1:</p>
 			
+
+
+			<h4 className="margin-y-40">Thử thách phá án 3 cấu trúc có cùng hình thái Động câu chứa từ "where":</h4>
+			
+
+			<p className="margin-top-20"><strong>Câu A</strong>:</p>
+
 				<ul className="list-square">
 			
 					<li>I will meet you [where we first met].</li>
 					<li className="list-none">Tôi sẽ gặp bạn [nơi chúng ta đã gặp nhau lần đầu].</li>
 			
 				</ul>
-
+					
+				<p className="text-indent-whole">Áp dụng mẹo thế thân: Thay thế khối trong Câu A bằng <strong>Trạng cơ</strong> "there":</p>
 			
-			<p className="margin-top-20 text-indent-whole">Câu 2:</p>
+				<ul className="list-square">
+			
+					<li>I will meet you [there].</li>
+					<li className="margin-bottom-20 list-none">Tôi sẽ gặp bạn [ở đó].</li>
+					
+					<li className="list-none">Hợp lý!</li>
+					<li className="list-none">→ Khối này làm chức năng [<strong>Trạng câu</strong>] chỉ nơi chốn.</li>
+			
+				</ul>
+
+
+			<p className="margin-top-20">Câu B:</p>
 			
 				<ul className="list-square">
 			
@@ -348,9 +363,23 @@ export default function ThreeDC1(): React.ReactElement {
 					<li className="list-none">Đây là nhà hàng [nơi chúng ta đã gặp nhau lần đầu].</li>
 			
 				</ul>
+
 			
+				<p className="margin-top-20 text-indent-whole">Áp dụng mẹo thế thân: Thay thế khối trong Câu B bằng <strong>Tính cơ</strong> "old" đặt trước Danh cơ "restaurant":</p>
 			
-			<p className="margin-top-20 text-indent-whole">Câu 3:</p>
+				<ul className="list-square">
+			
+					<li>This is the [old] restaurant.</li>
+					<li className="margin-bottom-20 list-none">Đây là nhà hàng [cũ].</li>
+					
+					<li className="list-none">Hợp lý!</li>
+					<li className="list-none">→ Khối này làm chức năng [<strong>Tính câu</strong>] bổ nghĩa cho "restaurant".</li>
+			
+				</ul>
+
+
+
+			<p className="margin-top-20"><strong>Câu C</strong>:</p>
 			
 				<ul className="list-square">
 			
@@ -359,37 +388,7 @@ export default function ThreeDC1(): React.ReactElement {
 			
 				</ul>
 
-
-			<p className="margin-y-40">Áp dụng mẹo <strong>thế thân</strong> lật tẩy chức năng:</p>
-
-					
-			<p className="text-indent-whole">Thay thế Câu 1 bằng <strong>Trạng cơ</strong> "there":</p>
-			
-				<ul className="list-square">
-			
-					<li>I will meet you [there].</li>
-					<li className="margin-bottom-20 list-none">Tôi sẽ gặp bạn [ở đó].</li>
-					
-					<li className="list-none">Hợp lý!</li>
-					<li className="list-none">→ Chức năng là <strong>Trạng câu</strong> chỉ nơi chốn.</li>
-			
-				</ul>
-
-			
-			<p className="margin-top-20 text-indent-whole">Thay thế Câu 2 bằng <strong>Tính cơ</strong> "old" đặt trước Danh cơ "restaurant":</p>
-			
-				<ul className="list-square">
-			
-					<li>This is the [old] restaurant.</li>
-					<li className="margin-bottom-20 list-none">Đây là nhà hàng cũ.</li>
-					
-					<li className="list-none">Hợp lý!</li>
-					<li className="list-none">→ Chức năng là <strong>Tính câu</strong> bổ nghĩa cho danh cơ.</li>
-			
-				</ul>
-			
-			
-			<p className="margin-top-20 text-indent-whole">Thay thế Câu 3 bằng <strong>Đại cơ</strong> "something", "it":</p>
+				<p className="margin-top-20 text-indent-whole">Áp dụng mẹo thế thân: Thay thế khối trong Câu C bằng <strong>Đại cơ</strong> "something", "it":</p>
 			
 				<ul className="list-square">
 			
@@ -397,7 +396,7 @@ export default function ThreeDC1(): React.ReactElement {
 					<li className="margin-bottom-20 list-none">Tôi không biết [điều gì đó].</li>
 
 					<li className="list-none">Hợp lý!</li>
-					<li className="list-none">→ Chức năng là <strong>Danh câu</strong> làm tân ngữ.</li>
+					<li className="list-none">→ Khối này làm chức năng [<strong>Danh câu</strong>] làm tân ngữ cho Động cơ "remember".</li>
 			
 				</ul>
 		
@@ -405,73 +404,54 @@ export default function ThreeDC1(): React.ReactElement {
 
 			{/* V. */}
 
-			<h3 className="margin-y-50 text-center">V. LỘ TRÌNH 2 BƯỚC TINH GỌN ĐỂ CHẠM NGƯỠNG ADVANCED</h3>
+			<h3 className="margin-y-50 text-center">V. LỘ TRÌNH CHUYỂN ĐỔI HÌNH THÁI ĐỂ CHẠM NGƯỠNG ADVANCED</h3>
 
-			<p>Người bản ngữ trình độ cao luôn chuộng sự tinh gọn. Sau khi đã thành thạo việc dựng các <strong>Động câu</strong> đầy đủ, bước tối thượng để chạm ngưỡng Advanced là "gọt tỉa" chúng xuống cấp độ <strong>Động cụm</strong> để câu văn thanh thoát và uyển chuyển hơn.</p>
+			<p>Sự khác biệt lớn nhất của một người đạt trình độ Advanced là khả năng <strong>điều phối và tinh gọn hình thái</strong>.</p>
+
+			<p>Khi đã thành thạo việc viết các khối Động câu đầy đủ, bước tối thượng để nói và viết thanh thoát như người bản xứ là "gọt tỉa" hình thái từ <strong>Cấp độ Câu xuống Cấp độ Cụm</strong> (Động cụm).</p>
 
 
-			<h4 className="margin-y-40">1. Hạ cấp từ Trạng câu xuống Trạng cụm</h4>
+			<p className="margin-top-20">Tinh gọn từ <strong>Trạng câu</strong> xuống <strong>Trạng cụm</strong>:</p>
 					
-			<p className="text-indent-whole">Dạng đầy đủ (<strong>Trạng câu</strong>):</p>
-			
 				<ul className="list-square">
-			
+
 					<li>[Because he realized the danger], he stopped the project.</li>
 					<li className="list-none">[Bởi vì anh ấy nhận ra sự nguy hiểm], anh ấy đã dừng dự án.</li>
-			
-				</ul>
-
-			
-			<p className="margin-top-20 text-indent-whole">Dạng tinh gọn (<strong>Trạng cụm</strong>):</p>
-			
-				<ul className="list-square">
+					<li className="margin-bottom-20 list-none">→ Dạng đầy đủ [<strong>Trạng câu</strong>]</li>
 			
 					<li>[Realizing the danger], he stopped the project.</li>
 					<li className="list-none">[Nhận ra sự nguy hiểm], anh ấy đã dừng dự án.</li>
+					<li className="list-none">→ Dạng Advanced [<strong>Trạng cụm</strong>]</li>
 			
 				</ul>
 
 
-			<h4 className="margin-y-40">2. Hạ cấp từ Tính câu xuống Tính cụm</h4>
-					
-			<p className="text-indent-whole">Dạng đầy đủ (<strong>Tính câu</strong>):</p>
+			<p className="margin-top-20">Tinh gọn từ <strong>Tính câu</strong> xuống <strong>Tính cụm</strong>:</p>
 			
 				<ul className="list-square">
-			
+
 					<li>The cars [which are manufactured in Germany] are very reliable.</li>
 					<li className="list-none">Những chiếc xe [mà được sản xuất tại Đức] thì rất đáng tin cậy.</li>
-			
-				</ul>
-
-			
-			<p className="margin-top-20 text-indent-whole">Dạng tinh gọn (<strong>Tính cụm</strong>):</p>
-			
-				<ul className="list-square">
+					<li className="margin-bottom-20 list-none">→ Dạng đầy đủ [<strong>Tính câu</strong>]</li>
 			
 					<li>The cars [manufactured in Germany] are very reliable.</li>
 					<li className="list-none">Những chiếc xe [được sản xuất tại Đức] rất đáng tin cậy.</li>
+					<li className="list-none">→ Dạng Advanced [<strong>Tính cụm</strong>]</li>
 			
 				</ul>
 
 
-			<h4 className="margin-y-40">3. Hạ cấp từ Danh câu xuống Danh cụm</h4>
+			<p className="margin-top-20">Tinh gọn từ <strong>Danh câu</strong> xuống <strong>Danh cụm</strong>:</p>
 					
-			<p className="text-indent-whole">Dạng đầy đủ (<strong>Danh câu</strong>):</p>
-			
 				<ul className="list-square">
-			
+
 					<li>She hasn't decided [how she should solve the problem].</li>
 					<li className="list-none">Cô ấy vẫn chưa quyết định [cách cô ấy nên giải quyết vấn đề].</li>
-			
-				</ul>
-
-			
-			<p className="margin-top-20 text-indent-whole">Dạng tinh gọn (<strong>Danh cụm</strong>):</p>
-			
-				<ul className="list-square">
+					<li className="margin-bottom-20 list-none">→ Dạng đầy đủ [<strong>Danh câu</strong>]</li>
 			
 					<li>She hasn't decided [how to solve the problem].</li>
 					<li className="list-none">Cô ấy vẫn chưa quyết định [cách giải quyết vấn đề].</li>
+					<li className="list-none">→ Dạng Advanced [<strong>Danh cụm</strong>]:</li>
 			
 				</ul>
 
@@ -595,9 +575,9 @@ export default function ThreeDC1(): React.ReactElement {
 
 			<h3 className="margin-y-50 text-center">VI. LỜI KẾT</h3>
 
-			<p>Tư duy theo ma trận Hình thái (<strong>Cơ</strong> - <strong>Cụm</strong> - <strong>Câu</strong>) và <strong>Chức năng</strong> (<strong>Danh</strong> - <strong>Tính</strong> - <strong>Trạng</strong>) chính là bộ bản vẽ kỹ thuật cốt lõi giúp bạn làm chủ ngôn ngữ.</p>
+			<p>Tư duy tiếng Anh theo hệ thống hai chiều <strong>Hình thái</strong> (<strong>Cơ</strong> - <strong>Cụm</strong> - <strong>Câu</strong>) và <strong>Chức năng</strong> (<strong>Danh</strong> - <strong>Tính</strong> - <strong>Trạng</strong>) chính là chiếc la bàn giúp bạn không bao giờ bị lạc trong các cấu trúc ngữ pháp phức tạp.</p>
 
-			<p>Khi bạn nhìn một câu và thấy rõ ranh giới của các khối hình thái hiển thị, chủ động điều phối Động cơ chính và hoán đổi nhịp nhàng giữa cấp độ Câu và cấp độ Cụm, bạn đã chính thức sở hữu tư duy sắc bén của một người bản xứ trình độ cao.</p>
+			<p>Một khi bạn làm chủ được khả năng nhận diện hình thái khách quan, xác định chức năng chuẩn xác theo vị trí và chủ động co giãn các cấp độ từ Câu về Cụm, tư duy ngôn ngữ của bạn đã chính thức bước sang ngưỡng cửa của một người làm chủ tiếng Anh nâng cao.</p>
 			
 
 			<div className="viewcounter">
