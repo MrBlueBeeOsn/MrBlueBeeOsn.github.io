@@ -295,7 +295,7 @@ export default function NineBox1(): React.JSX.Element {
 					<li>The software will deploy [wherever the network connects]</li>
 					<li className="margin-bottom-20 list-none">Phần mềm sẽ được triển khai [bất cứ nơi nào mạng kết nối].</li>
 
-					<li className="margin-bottom-20 list-none">→ Khối câu con mô tả hoàn cảnh/điều kiện nơi chốn cho hành động triển khai.</li>
+					<li className="list-none">→ Khối câu con mô tả hoàn cảnh/điều kiện nơi chốn cho hành động triển khai.</li>
 			
 				</ul>
 
@@ -349,7 +349,7 @@ export default function NineBox1(): React.JSX.Element {
 					<li className="margin-bottom-20 list-none">→ Hoạt động với Chức năng: <strong>Danh câu</strong> (Noun Clause) vì làm đối tượng trực tiếp đứng sau.</li>
 			
 					<li className="list-none">[expects {'{that the revenue will drop}'}]: Toàn bộ khối bao gồm cả động cơ chính expects phối hợp với khối dữ liệu phía sau tạo thành hình thái Động cụm (Verb Phrase)</li>
-					<li className="margin-bottom-20 list-none">→ Hoạt động với Chức năng: <strong>Danh cụm</strong> (Noun Phrase) lớn điều phối hành động của chủ thể.</li>
+					<li className="list-none">→ Hoạt động với Chức năng: <strong>Danh cụm</strong> (Noun Phrase) lớn điều phối hành động của chủ thể.</li>
 			
 				</ul>
 	
