@@ -54,80 +54,100 @@ export default function ThreeDC1(): React.ReactElement {
 
 			<p>Tuy nhiên, để chạm đến ngưỡng <strong>Advanced English</strong> – giao tiếp mượt mà và viết lách sắc bén như người bản ngữ – bạn bắt buộc phải chuyển mình sang tư duy theo <strong>cụm khối</strong>.</p>
 
-			<p>Chìa khóa vàng để thực hiện bước chuyển mình đó chính là làm chủ mối quan hệ giữa <strong>Hình thái hành động</strong> và <strong>Chức năng vận hành</strong> trong câu. Bài viết này sẽ giúp bạn thay đổi hoàn toàn thế giới quan về cấu trúc tiếng Anh thông qua hệ thống phân tầng cực kỳ logic và đồng bộ.</p>
-			
-
-			{/* 1.  */}
-
-			<h3 className="margin-y-50 text-center">I. HỆ THỐNG TƯ DUY TOÀN DIỆN: MA TRẬN 2 CHIỀU (HÌNH THÁI VÀ CHỨC NĂNG)</h3>
-
-			<p>Để bẻ khóa tiếng Anh nâng cao, chúng ta sử dụng một hệ thống tư duy siêu gọn gàng, nhất quán theo cả hai chiều ngang và dọc (được đồng bộ qua quy tắc 3 chữ C: Cơ – Cụm – Câu).</p>
+			<p>Chìa khóa vàng để thực hiện bước chuyển mình đó chính là làm chủ mối quan hệ giữa của chúng trong câu.</p>
 			
 				<ul className="list-square">
 			
-					<li>Chiều dọc – <strong>Cấp độ hình thái</strong> (Mức độ phức tạp tăng dần):</li>
-					<li className="list-none"><strong>Cơ</strong> (Base) → <strong>Cụm</strong> (Phrase) → <strong>Câu</strong> (Clause).</li>
-					<li className="margin-bottom-20 list-none">Đây là cái bạn nhìn thấy ngay trên mặt chữ.</li>
+					<li><strong>Hình thái</strong> khối hành động</li>
 			
-					<li>Chiều ngang – <strong>Chức năng vận hành</strong> (Vai trò trong câu):</li>
-					<li className="list-none"><strong>Danh</strong> → <strong>Tính</strong> → <strong>Trạng</strong>.</li>
-					<li className="list-none">Đây là cái bạn sẽ suy ra dựa vào vị trí của hình thái đó.</li>
+					<li><strong>Chức năng</strong> vận hành</li>
 			
 				</ul>
+			
+			<p className="margin-top-20">Bài viết này sẽ là một cẩm nang toàn diện, giúp bạn thay đổi hoàn toàn thế giới quan về cấu trúc tiếng Anh thông qua hệ thống tư duy hai chiều (Ngang - Dọc) tối giản và logic nhất.</p>
+			
+		
+			{/* 1.  */}
+
+			<h3 className="margin-y-50 text-center">I. HỆ THỐNG TƯ DUY HAI CHIỀU: HÌNH THÁI TRƯỚC, CHỨC NĂNG SAU</h3>
+
+			<p>Để bẻ khóa tiếng Anh nâng cao, người học cần nhìn nhận một khối từ dựa trên <strong>Hình thái biểu hiện</strong> của nó trước, sau đó mới xác định <strong>Chức năng</strong> dựa vào vị trí đứng trong câu.</p>
+
+			<p>Hệ thống này được đồng bộ hóa một cách nhất quán theo hai trục:</p>
+			
+				<ul className="list-square">
+			
+					<li><strong>Chiều dọc</strong> – <strong>3 Cấp độ</strong> (<strong>Hình thái</strong>):</li>
+					<li className="list-none">Động cơ (Verb Base) → Động cụm (Verb Phrase) → Động câu (Verb Clause).</li>
+					<li className="margin-bottom-20 list-none">Người học khi nhìn vào một câu chỉ cần nhận diện khối hành động đang ở hình thái nào.</li>
+			
+					<li><strong>Chiều ngang</strong> – <strong>3 Chức năng</strong>:</li>
+					<li className="list-none">Danh (Noun) / Tính (Adjective) / Trạng (Adverb).</li>
+					<li className="list-none">Tùy thuộc vào vị trí đứng, các Hình thái trên sẽ "hóa thân" để thực thi một trong ba chức năng này.</li>
+			
+				</ul>
+
+			<p className="margin-top-20">Từ sự giao thoa này, chúng ta có bảng ma trận vận hành tiếng Anh toàn diện dưới đây:</p>
 
 			
 			<h4 className="margin-y-40">Ma trận đồng bộ thuật ngữ Anh – Việt:</h4>
 
-			<p className="margin-y-20 text-indent-whole"><strong>Hình thái</strong> hiển thị (Cấp độ)</p>
+			<p className="margin-y-20 text-indent-whole">3 Hình thái:</p>
 			
 				<ul className="list-square">
 			
 					<li className="margin-bottom-20"><strong>ĐỘNG CƠ</strong> (Verb Base)</li>
-					<li className="list-none">Chức năng: DANH - <strong>Danh cơ</strong> (Noun Base)</li>
-					<li className="list-none">Chức năng: TÍNH - <strong>Tính cơ</strong> (Adjective Base)</li>
-					<li className="margin-bottom-20 list-none">Chức năng: TRẠNG - <strong>Trạng cơ</strong> (Adverb Base)</li>
+					<li className="list-none">Chức năng:</li>
+					<li className="list-none">DANH (Noun) - <strong>Danh cơ</strong> (Noun Base)</li>
+					<li className="list-none">TÍNH (Adjective) - <strong>Tính cơ</strong> (Adjective Base)</li>
+					<li className="margin-bottom-20 list-none">TRẠNG (Adverb) - <strong>Trạng cơ</strong> (Adverb Base)</li>
 			
 					<li className="margin-bottom-20"><strong>ĐỘNG CỤM</strong> (Verb Phrase)</li>
-					<li className="list-none">Chức năng: DANH - <strong>Danh cụm</strong> (Noun Phrase)</li>
-					<li className="list-none">Chức năng: TÍNH - <strong>Tính cụm</strong> (Adjective Phrase)</li>
-					<li className="margin-bottom-20 list-none">Chức năng: TRẠNG - <strong>Trạng cụm</strong> (Adverb Phrase)</li>
+					<li className="list-none">Chức năng:</li>
+					<li className="list-none">DANH (Noun) - <strong>Danh cụm</strong> (Noun Phrase)</li>
+					<li className="list-none">TÍNH (Adjective) - <strong>Tính cụm</strong> (Adjective Phrase)</li>
+					<li className="margin-bottom-20 list-none">TRẠNG (Adverb) - <strong>Trạng cụm</strong> (Adverb Phrase)</li>
 			
 					<li className="margin-bottom-20"><strong>ĐỘNG CÂU</strong> (Verb Clause)</li>
-					<li className="list-none">Chức năng: DANH - <strong>Danh câu</strong> (Noun Clause)</li>
-					<li className="list-none">Chức năng: TÍNH - <strong>Tính câu</strong> (Adjective Clause)</li>
-					<li className="list-none">Chức năng: TRẠNG - <strong>Trạng câu</strong> (Adverb Clause)</li>
+					<li className="list-none">Chức năng:</li>
+					<li className="list-none">DANH (Noun) - <strong>Danh câu</strong> (Noun Clause)</li>
+					<li className="list-none">TÍNH (Adjective) - <strong>Tính câu</strong> (Adjective Clause)</li>
+					<li className="list-none">TRẠNG (Adverb) - <strong>Trạng câu</strong> (Adverb Clause)</li>
 			
 				</ul>
-		
+	
+
+
+			{/* II.  */}
+
+			<h3 className="margin-y-50 text-center">II. GIẢI MÃ BẢN CHẤT CÁC HÌNH THÁI VÀ CHỨC NĂNG VẬN HÀNH</h3>
+
+			<p>Hãy cùng đi vào chi tiết cách các <strong>Hình thái</strong> (Động cơ, Động cụm, Động câu) sinh ra các <strong>Chức năng</strong> tương ứng như thế nào thông qua các ví dụ trực quan.</p>
+
+			<p><strong>Quy ước ký hiệu</strong>: Sử dụng dấu vuông [] để bao quanh ranh giới hình thái.</p>
+
 			
-			<h4 className="margin-y-40">BÍ MẬT TƯ DUY:</h4>
-					
-			<p className="text-indent-whole">Khi nhìn vào một câu, người học chỉ nhìn thấy <strong>Hình thái</strong> (Động cơ, Động cụm hoặc Động câu). Bạn sẽ chưa biết chức năng của nó là gì cho đến khi đặt nó vào một vị trí cụ thể trong câu lớn. Bản chất của một Phụ câu thực chất chỉ là một cấp độ Cơ được phóng to lên cấp độ Câu để tải nhiều thông tin hơn.</p>
+			<h4 className="margin-y-40">1. Hình thái ĐỘNG CƠ (Verb Base)</h4>
 
+			<p className="text-indent-whole">Là đơn vị hành động hạt nhân nhỏ nhất, chỉ gồm đúng <strong>1 từ</strong>.</p>
 
-			{/* 2.  */}
-
-			<h3 className="margin-y-50 text-center">II. CHI TIẾT 3 CẤP ĐỘ HÌNH THÁI VÀ CÁCH XÁC ĐỊNH CHỨC NĂNG</h3>
-
-			
-			<h4 className="margin-y-40">1. Hình thái: ĐỘNG CƠ (Verb Base)</h4>
-
-			<p className="text-indent-whole">Là đơn vị hành động nhỏ nhất, chỉ gồm đúng <strong>1 từ</strong>. Quy ước ký hiệu: Sử dụng dấu vuông [] bao quanh Động cơ. Khi đứng ở các vị trí khác nhau, Động cơ sẽ hình thành nên 3 chức năng:</p>
+			<p className="text-indent-whole">Bản thân nó là một Động cơ, nhưng vị trí đứng trong câu sẽ quyết định chức năng của nó:</p>
 
 					
-			<p className="margin-top-20 text-indent-whole">Chức năng <strong>Danh cơ</strong> (Noun Base):</p>
+			<p className="margin-top-20 text-indent-whole">Sinh ra <strong>Danh cơ</strong> (Noun Base):</p>
 			
 				<ul className="list-square">
 			
-					<li>[Swimming] is good for your back.</li>
-					<li className="margin-bottom-20 list-none">[Bơi lội] thì tốt cho lưng của bạn.</li>
+					<li>[Smoking] is bad for your back.</li>
+					<li className="margin-bottom-20 list-none">[Hút thuốc] có hại cho lưng của bạn.</li>
 
-					<li className="list-none">→ Hình thái Động cơ "Swimming" đứng đầu câu làm chủ thể, thực hiện chức năng <strong>Danh cơ</strong>.</li>
+					<li className="list-none">Hình thái là một Động cơ đơn lẻ thêm đuôi "-ing". Đứng ở đầu câu làm chủ thể</li>
+					<li className="list-none">→ Thực hiện chức năng [<strong>Danh cơ</strong>].</li>
 			
 				</ul>
 			
 			
-			<p className="margin-top-20 text-indent-whole">Chức năng <strong>Tính cơ</strong> (Adjective Base):</p>
+			<p className="margin-top-20 text-indent-whole">Sinh ra <strong>Tính cơ</strong> (Adjective Base):</p>
 
 			
 				<ul className="list-square">
@@ -135,42 +155,47 @@ export default function ThreeDC1(): React.ReactElement {
 					<li>She has an [amazing] talent.</li>
 					<li className="margin-bottom-20 list-none">Cô ấy có một tài năng [đáng kinh ngạc].</li>
 
-					<li className="list-none">→ Hình thái Động cơ "amazing" đứng trước danh từ, thực hiện chức năng <strong>Tính cơ</strong> để mô tả tính chất.</li>
+					<li className="list-none">Hình thái là một Động cơ đơn lẻ. Đứng trước một Danh cơ để bổ nghĩa</li>
+					<li className="list-none">→ Thực hiện chức năng [<strong>Tính cơ</strong>].</li>
 			
 				</ul>
 
 			
-			<p className="margin-top-20 text-indent-whole">Chức năng <strong>Trạng cơ</strong> (Adverb Base):</p>
+			<p className="margin-top-20 text-indent-whole">Sinh ra <strong>Trạng cơ</strong> (Adverb Base):</p>
 			
 				<ul className="list-square">
 			
 					<li>He drove [recklessly].</li>
 					<li className="margin-bottom-20 list-none">Anh ấy lái xe [một cách liều lĩnh].</li>
 
-					<li className="list-none">→ Hình thái Động cơ thêm đuôi "ly" để mô tả cách thức cho hành động lái xe, thực hiện chức năng <strong>Trạng cơ</strong>.</li>
+					<li className="list-none">Hình thái hình thành trực tiếp từ gốc Động cơ + đuôi "-ly". Đứng sau bổ nghĩa cho hành động lái xe</li>
+					<li className="list-none">→ Thực hiện chức năng [<strong>Trạng cơ</strong>].</li>
 			
 				</ul>
 			
 
 
-			<h4 className="margin-y-40">2. Hình thái: ĐỘNG CỤM (Verb Phrase)</h4>
+			<h4 className="margin-y-40">2. Hình thái ĐỘNG CỤM (Verb Phrase)</h4>
 
-			<p className="text-indent-whole">Là đơn vị hành động chứa <strong>nhiều từ</strong> kết hợp với nhau nhưng chưa tạo thành một câu con có cấu trúc chủ-vị hoàn chỉnh. Quy ước ký hiệu: Sử dụng dấu []. Khi đứng vào câu, Động cụm sẽ hình thành nên 3 chức năng:</p>
+			<p className="text-indent-whole">Là một khối hành động chứa <strong>nhiều từ</strong> kết hợp với nhau nhưng chưa có cấu trúc câu con hoàn chỉnh.</p>
+
+			<p className="text-indent-whole">Khối Động cụm này sẽ đảm nhận các vai trò:</p>
 
 					
-			<p className="margin-top-20 text-indent-whole">Chức năng <strong>Danh cụm</strong> (Noun Phrase):</p>
+			<p className="margin-top-20 text-indent-whole">Sinh ra <strong>Danh cụm</strong> (Noun Phrase):</p>
 			
 				<ul className="list-square">
 			
 					<li>They want to [buy a new house].</li>
 					<li className="margin-bottom-20 list-none">Họ muốn [mua một ngôi nhà mới].</li>
 
-					<li className="list-none">→ Hình thái Động cụm "buy a new house" là một đầu việc, đứng sau làm tân ngữ nên có chức năng <strong>Danh cụm</strong>.</li>
+					<li className="list-none">Khối nhiều từ bắt đầu bằng hành động "buy". Đứng sau làm đối tượng mục tiêu</li>
+					<li className="list-none">→ Thực hiện chức năng [<strong>Danh cụm</strong>].</li>
 			
 				</ul>
 			
 			
-			<p className="margin-top-20 text-indent-whole">Chức năng <strong>Tính cụm</strong> (Adjective Phrase):</p>
+			<p className="margin-top-20 text-indent-whole">Sinh ra <strong>Tính cụm</strong> (Adjective Phrase):</p>
 
 			
 				<ul className="list-square">
@@ -178,42 +203,47 @@ export default function ThreeDC1(): React.ReactElement {
 					<li>The girl [sitting by the window] is my sister.</li>
 					<li className="margin-bottom-20 list-none">Cô gái [ngồi cạnh cửa sổ] là chị/em gái của tôi.</li>
 
-					<li className="list-none">→ Hình thái Động cụm "sitting by the window" đứng sau bổ nghĩa cho "the girl", thực hiện chức năng <strong>Tính cụm</strong>.</li>
+					<li className="list-none">→ Khối nhiều từ bắt đầu bằng hành động "sitting". Đứng ngay sau Danh cơ "girl" để định danh</li>
+					<li className="list-none">→ Thực hiện chức năng [<strong>Tính cụm</strong>].</li>
 			
 				</ul>
 
 			
-			<p className="margin-top-20 text-indent-whole">Chức năng <strong>Trạng cụm</strong> (Adverb Phrase):</p>
+			<p className="margin-top-20 text-indent-whole">Sinh ra <strong>Trạng cụm</strong> (Adverb Phrase):</p>
 			
 				<ul className="list-square">
 			
 					<li>We practice English [to get a better job].</li>
 					<li className="margin-bottom-20 list-none">Chúng tôi luyện tập tiếng Anh [để có được một công việc tốt hơn].</li>
 
-					<li className="list-none">→ Hình thái Động cụm "to get a better job" giải thích mục đích cho hành động luyện tập, thực hiện chức năng <strong>Trạng cụm</strong>.</li>
+					<li className="list-none">Khối nhiều từ bắt đầu bằng "to get". Đứng cuối để chỉ mục đích cho việc luyện tập</li>
+					<li className="list-none">→ Thực hiện chức năng [<strong>Trạng cụm</strong>].</li>
 			
 				</ul>
 
 
 
-			<h4 className="margin-y-40">3. Hình thái: ĐỘNG CÂU (Verb Clause / Phụ câu)</h4>
+			<h4 className="margin-y-40">3. Hình thái ĐỘNG CÂU (Verb Clause)</h4>
 
-			<p className="text-indent-whole">Là đơn vị hành động cao nhất, <strong>chứa cấu trúc một câu con hoàn chỉnh</strong> (có cả Chủ ngữ và Động cơ riêng bên trong). Quy ước ký hiệu: Sử dụng dấu []. Khi đứng vào câu lớn, Động câu sẽ hình thành nên bộ 3 chức năng quyền lực:</p>
+			<p className="text-indent-whole">Là đơn vị hành động mạnh mẽ nhất vì <strong>chứa cấu trúc câu con hoàn chỉnh bên trong</strong> (có Chủ ngữ và Động cơ riêng).</p>
+
+			<p className="text-indent-whole">Đây chính là bộ bệ phóng cốt lõi để nâng cấp câu văn lên tầm Advanced:</p>
 
 
-			<p className="margin-top-20 text-indent-whole">Chức năng <strong>Danh câu</strong> (Noun Clause):</p>
+			<p className="margin-top-20 text-indent-whole">Sinh ra <strong>Danh câu</strong> (Noun Clause):</p>
 			
 				<ul className="list-square">
 			
 					<li>I believe [that tomorrow will be better].</li>
 					<li className="margin-bottom-20 list-none">Tôi tin [rằng ngày mai sẽ tốt hơn].</li>
 
-					<li className="list-none">→ Hình thái Động câu "that tomorrow will be better" đóng vai trò là đối tượng bị tác động bởi Động cơ "believe", thực hiện chức năng <strong>Danh câu</strong>.</li>
+					<li className="list-none">Khối hành động là một câu con hoàn chỉnh. Đứng sau và chịu sự tác động trực tiếp của Động cơ chính "believe"</li>
+					<li className="list-none">→ Thực hiện chức năng [<strong>Danh câu</strong>].</li>
 			
 				</ul>
 			
 			
-			<p className="margin-top-20 text-indent-whole">Chức năng <strong>Tính câu</strong> (Adjective Clause):</p>
+			<p className="margin-top-20 text-indent-whole">Sinh ra <strong>Tính câu</strong> (Adjective Clause):</p>
 
 			
 				<ul className="list-square">
@@ -221,19 +251,21 @@ export default function ThreeDC1(): React.ReactElement {
 					<li>The book [which you lent me yesterday] is fascinating.</li>
 					<li className="margin-bottom-20 list-none">Cuốn sách [mà bạn đã cho tôi mượn hôm qua] thì rất hấp dẫn.</li>
 
-					<li className="list-none">→ Hình thái Động câu "which you lent me yesterday" đứng sau bổ nghĩa trực tiếp cho "book", thực hiện chức năng <strong>Tính câu</strong>.</li>
+					<li className="list-none">Khối hành động là một câu con hoàn chỉnh. Đứng ôm ngay sau Danh cơ "book" để bổ nghĩa chi tiết</li>
+					<li className="list-none">→ Thực hiện chức năng [<strong>Tính câu</strong>].</li>
 			
 				</ul>
 
 			
-			<p className="margin-top-20 text-indent-whole">Chức năng <strong>Trạng câu</strong> (Adverb Clause):</p>
+			<p className="margin-top-20 text-indent-whole">Sinh ra <strong>Trạng câu</strong> (Adverb Clause):</p>
 			
 				<ul className="list-square">
 			
 					<li>We will leave [as soon as the rain stops].</li>
 					<li className="margin-bottom-20 list-none">Chúng tôi sẽ rời đi [ngay khi trời tạnh mưa].</li>
 
-					<li className="list-none">→ Hình thái Động câu "as soon as the rain stops" giải thích bối cảnh thời gian cho Động cơ "leave", thực hiện chức năng <strong>Trạng câu</strong>.</li>
+					<li className="list-none">Khối hành động là một câu con hoàn chỉnh bắt đầu bằng từ nối thời gian. Bổ nghĩa bối cảnh cho Động cơ chính "leave"</li>
+					<li className="list-none">→ Thực hiện chức năng [<strong>Trạng câu</strong>].</li>
 			
 				</ul>
 
@@ -241,43 +273,46 @@ export default function ThreeDC1(): React.ReactElement {
 			
 			{/* III. */}
 
-			<h3 className="margin-y-50 text-center">III. NGUYÊN TẮC "ĐIỂM NEO" VÀ TƯ DUY PHÂN TẦNG</h3>
+			<h3 className="margin-y-50 text-center">III. BẢN CHẤT PHÂN TẦNG VÀ NGUYÊN TẮC "ĐIỂM NEO"</h3>
 
-			<p>Trong các cấu trúc phức tạp của trình độ Advanced, các hình thái này sẽ lồng ghép vào nhau. Người bản ngữ luôn tư duy phân tầng bằng cách neo giữ toàn bộ cấu trúc dựa vào Động cơ chính điều phối câu.</p>
+			<p>Trong các cấu trúc câu phức tạp của trình độ Advanced, các hình thái này không đứng rời rạc mà lồng ghép vào nhau như các module linh kiện.</p>
+
+			<p>Người bản ngữ luôn tư duy phân tầng bằng cách bao quát cả Động cơ chính điều phối của Câu lớn.</p>
+
+			<p><strong>Quy ước ký hiệu tầng lồng nhau</strong>: Dùng [] cho khối bao ngoài và {'{}'} cho khối lồng bên trong.</p>
 
 
-			<h4 className="margin-y-40">Ví dụ về cấu trúc phân tầng:</h4>
+			<p className="margin-top-20">Ví dụ về cấu trúc <strong>phân tầng</strong>:</p>
 					
-			<p className="text-indent-whole">Câu lớn trọn vẹn:</p>
+			<p>Câu lớn:</p>
 			
 				<ul className="list-square">
 			
 					<li>He [remembers {'{what you told me}'}].</li>
 					<li className="margin-bottom-20 list-none">Anh ấy [nhớ {'{những gì bạn đã nói với tôi}'}].</li>
 
-					<li className="list-none">{'{what you told me}'}: Nhìn thấy hình thái là một câu con đứng làm tân ngữ</li>
-					<li className="margin-bottom-20 list-none">→ Động câu mang chức năng <strong>Danh câu</strong>.</li>
+					<li className="list-none">Khối {'{what you told me}'}: Xét hình thái là một Động câu (Có chủ ngữ "you" + động cơ "told").</li>
+					<li className="margin-bottom-20 list-none">→ Vị trí đứng làm tân ngữ → Đảm nhận chức năng [<strong>Danh câu</strong>].</li>
 			
-					<li className="list-none">[remembers {'{what you told me}'}]: Bao gồm cả Động cơ chính "remembers" và cấu trúc đi sau nó</li>
-					<li className="list-none">→ Tạo thành một Động cụm lớn bao ngoài mang chức năng <strong>Danh cụm</strong>.</li>
+					<li className="list-none">Khối [remembers {'{what you told me}'}]: Xét hình thái bao gồm cả Động cơ chính "remembers" kết hợp với cấu trúc phía sau</li>
+					<li className="list-none">→ Đảm nhận chức năng [<strong>Danh cụm</strong>] lớn điều phối toàn bộ hành động phía sau của chủ ngữ "He".</li>
 
 			
 				</ul>
 		
 
-
-			<h4 className="margin-y-40">Nguyên tắc vận hành hệ thống:</h4>
+			<p className="margin-top-20">Nguyên tắc "<strong>Điểm neo</strong>" cần nằm lòng khi viết blog/học tập:</p>
 			
 				<ol>
 			
 					<li value="1"><strong>Dấu móc định vị</strong>:</li>
-					<li className="margin-bottom-20 list-none">Dấu móc luôn bao quanh Động cơ chính hoặc toàn bộ cụm/câu con để xác định ranh giới tư duy.</li>
+					<li className="margin-bottom-20 list-none">Dấu móc [] luôn bao quanh <strong>Động cơ chính</strong> hoặc toàn bộ khối cụm/câu con để xác định ranh giới tư duy rõ ràng, không để từ ngữ rơi tự do.</li>
 			
 					<li value="2"><strong>Dữ liệu cấu hình nội bộ</strong>:</li>
-					<li className="margin-bottom-20 list-none">Các yếu tố biến đổi như -s/-es, -ed, -ing nằm bên trong [] chỉ là cấu hình kỹ thuật của Động cơ, hoàn toàn không làm thay đổi bản chất của Hình thái hay Chức năng.</li>
+					<li className="margin-bottom-20 list-none">Các yếu tố biến đổi thì hay thể như -<strong>s</strong>/-<strong>es</strong>, -<strong>ed</strong>, -<strong>ing</strong> nằm bên trong dấu móc chỉ là cấu hình kỹ thuật của Động cơ, hoàn toàn không làm thay đổi bản chất của Hình thái hay Chức năng của cả khối.</li>
 			
-					<li value="3"><strong>Tách biệt điều phối</strong>:</li>
-					<li className="list-none">Động cơ chính điều khiển toàn bộ Câu lớn luôn nằm ngoài các Module thực thi (Phụ câu/Phụ cụm) nếu nó đóng vai trò là điểm điều phối trung tâm.</li>
+					<li value="3"><strong>Sự tách biệt điều phối</strong>:</li>
+					<li className="list-none">Động cơ chính điều khiển toàn bộ Câu lớn luôn nằm ngoài các module thực thi phụ thuộc (Động câu/Động cụm bổ nghĩa) nếu nó đóng vai trò là điểm điều phối trung tâm.</li>
 			
 				</ol>
 	
@@ -287,14 +322,16 @@ export default function ThreeDC1(): React.ReactElement {
 
 			<h3 className="margin-y-50 text-center">IV. TUYỆT CHIÊU PHÂN BIỆT ĐỘNG CÂU THẦN TỐC BẰNG MẸO THẾ THÂN</h3>
 
-			<p>Khi gặp các từ liên kết đa năng như that, when, where, bạn nhìn thấy hình thái là Động câu nhưng chưa biết chức năng của nó là gì. Hãy áp dụng ngay phương pháp "<strong>Thế thân</strong>" (<strong>Substitution</strong>) bằng cách thay cả khối Động câu đó bằng một từ đơn giản ở cấp độ Cơ:</p>
+			<p>Khi gặp các từ liên kết đa năng như [that], [when], [where], người học chỉ biết hình thái của nó là một Động câu chứ rất khó phân biệt nó đang làm chức năng gì.</p>
+
+			<p>Hãy áp dụng ngay phương pháp "<strong>Thế thân</strong>" (Substitution) dựa trên trục ngang Chức năng:</p>
 
 			<p className="margin-top-20">Thử thay thế cả khối <strong>Động câu</strong> bằng:</p>
 			
 				<ul className="list-square">
 			
-					<li>Một <strong>Trạng cơ</strong> đơn lẻ (then, there, một cách dễ dàng)</li>
-					<li className="margin-bottom-20 list-none">sau đó, ở đó, vì vậy</li>
+					<li>Một <strong>Trạng cơ</strong> đơn lẻ [then], [there]</li>
+					<li className="margin-bottom-20 list-none">sau đó, ở đó</li>
 
 					<li className="list-none">Nếu câu vẫn đúng ngữ pháp và hợp lý</li>
 					<li className="list-none">→ Thì chức năng là <strong>Trạng câu</strong> (Adverb Clause)</li>
@@ -327,11 +364,8 @@ export default function ThreeDC1(): React.ReactElement {
 			
 				</ul>
 
-			
 
-
-			<h4 className="margin-y-40">Thử thách phá án 3 cấu trúc có cùng hình thái Động câu chứa từ "where":</h4>
-			
+			<p className="margin-top-20">Thử thách phá án <strong>3 cấu trúc</strong> có cùng <strong>hình thái</strong> Động câu chứa từ "<strong>where</strong>":</p>
 
 			<p className="margin-top-20"><strong>Câu A</strong>:</p>
 
@@ -342,7 +376,7 @@ export default function ThreeDC1(): React.ReactElement {
 			
 				</ul>
 					
-				<p className="text-indent-whole">Áp dụng mẹo thế thân: Thay thế khối trong Câu A bằng <strong>Trạng cơ</strong> "there":</p>
+				<p className="margin-top-20 text-indent-whole">Áp dụng mẹo thế thân: Thay thế khối trong Câu A bằng <strong>Trạng cơ</strong> "there":</p>
 			
 				<ul className="list-square">
 			
@@ -350,12 +384,12 @@ export default function ThreeDC1(): React.ReactElement {
 					<li className="margin-bottom-20 list-none">Tôi sẽ gặp bạn [ở đó].</li>
 					
 					<li className="list-none">Hợp lý!</li>
-					<li className="list-none">→ Khối này làm chức năng [<strong>Trạng câu</strong>] chỉ nơi chốn.</li>
+					<li className="list-none">→ Khối [where we first met] này làm chức năng [<strong>Trạng câu</strong>] chỉ nơi chốn.</li>
 			
 				</ul>
 
 
-			<p className="margin-top-20">Câu B:</p>
+			<p className="margin-top-20"><strong>Câu B</strong>:</p>
 			
 				<ul className="list-square">
 			
@@ -373,7 +407,7 @@ export default function ThreeDC1(): React.ReactElement {
 					<li className="margin-bottom-20 list-none">Đây là nhà hàng [cũ].</li>
 					
 					<li className="list-none">Hợp lý!</li>
-					<li className="list-none">→ Khối này làm chức năng [<strong>Tính câu</strong>] bổ nghĩa cho "restaurant".</li>
+					<li className="list-none">→ Khối [where we first met] này làm chức năng [<strong>Tính câu</strong>] bổ nghĩa cho "restaurant".</li>
 			
 				</ul>
 
@@ -396,7 +430,7 @@ export default function ThreeDC1(): React.ReactElement {
 					<li className="margin-bottom-20 list-none">Tôi không biết [điều gì đó].</li>
 
 					<li className="list-none">Hợp lý!</li>
-					<li className="list-none">→ Khối này làm chức năng [<strong>Danh câu</strong>] làm tân ngữ cho Động cơ "remember".</li>
+					<li className="list-none">→ Khối [where we first met] này làm chức năng [<strong>Danh câu</strong>] làm tân ngữ cho Động cơ "remember".</li>
 			
 				</ul>
 		
@@ -463,7 +497,7 @@ export default function ThreeDC1(): React.ReactElement {
 			<p className="text-indent-whole">Nâng tầm <strong>Trạng câu</strong> lên mức học thuật cao nhất bằng cách đưa các từ liên kết mang nghĩa phủ định lên đầu và tiến hành đảo ngữ Câu lớn chính:</p>
 
 
-			<p className="margin-top-50"><strong>Ví dụ 1</strong>:</p>
+			<p className="margin-top-20"><strong>Ví dụ 1</strong>:</p>
 			
 				<ul className="list-square">
 			
@@ -475,15 +509,15 @@ export default function ThreeDC1(): React.ReactElement {
 			
 				<ul className="list-square">
 			
-					<li>[Hardly had] he left the house when it started to pour.</li>
+					<li>[Hardly] <strong>had</strong> he left the house when it started to pour.</li>
 					<li className="margin-bottom-20 list-none">[Ngay khi] anh ấy rời khỏi nhà thì trời bắt đầu đổ mưa như trút.</li>
 
-					<li className="list-none">Câu advanced</li>
+					<li className="list-none">→ Câu advanced</li>
 			
 				</ul>
 
 
-			<p className="margin-top-50"><strong>Ví dụ 2</strong>:</p>
+			<p className="margin-top-20"><strong>Ví dụ 2</strong>:</p>
 			
 				<ul className="list-square">
 			
@@ -494,18 +528,16 @@ export default function ThreeDC1(): React.ReactElement {
 			
 				<ul className="list-square">
 			
-					<li>[Never have] I seen such a professional accounting system.</li>
+					<li>[Never] <strong>have</strong> I seen such a professional accounting system.</li>
 					<li className="margin-bottom-20 list-none">[Chưa từng] tôi thấy một hệ thống kế toán nào chuyên nghiệp đến thế.</li>
 
-					<li className="list-none">Câu học thuật</li>
-
-					<li className="list-none">→ Việc đưa "<strong>Never</strong>" lên đầu câu làm cho câu văn mang sắc thái nhấn mạnh cực độ, thể hiện sự ngạc nhiên hoặc khẳng định mạnh mẽ.</li>
+					<li className="list-none">→ Câu advanced: Việc đưa <strong>trạng cơ</strong> [Never] lên đầu câu làm cho câu văn mang sắc thái nhấn mạnh cực độ, thể hiện sự ngạc nhiên hoặc khẳng định mạnh mẽ.</li>
 			
 				</ul>
 
 
 
-			<p className="margin-top-50"><strong>Ví dụ 3</strong>:</p>
+			<p className="margin-top-20"><strong>Ví dụ 3</strong>:</p>
 			
 				<ul className="list-square">
 			
@@ -516,18 +548,16 @@ export default function ThreeDC1(): React.ReactElement {
 			
 				<ul className="list-square">
 			
-					<li>[Rarely does] he realize how much his decisions affect the project.</li>
+					<li>[Rarely] <strong>does</strong> he realize how much his decisions affect the project.</li>
 					<li className="margin-bottom-20 list-none">Hiếm khi anh ấy nhận ra được các quyết định của mình ảnh hưởng đến dự án nhiều đến thế nào.</li>
 
-					<li className="list-none">Câu học thuật</li>
-
-					<li className="list-none">→ Việc đưa "<strong>Rarely</strong>" lên đầu câu như một lời cảnh báo hoặc nhấn mạnh về sự thiếu sót trong nhận thức.</li>
+					<li className="list-none">→ Câu advanced: Việc đưa <strong>trạng cơ</strong> [Rarely] lên đầu câu như một lời cảnh báo hoặc nhấn mạnh về sự thiếu sót trong nhận thức.</li>
 			
 				</ul>
 			
 
 
-			<p className="margin-top-50"><strong>Ví dụ 4</strong>:</p>
+			<p className="margin-top-20"><strong>Ví dụ 4</strong>:</p>
 			
 				<ul className="list-square">
 			
@@ -538,18 +568,16 @@ export default function ThreeDC1(): React.ReactElement {
 			
 				<ul className="list-square">
 			
-					<li>[Not only does] she write clean code, [but she also] designs beautiful interfaces.</li>
-					<li className="margin-bottom-20 list-none">[Không những] cô ấy viết mã sạch, [mà cô ấy còn] thiết kế được các giao diện đẹp mắt.</li>
+					<li>[Not only] <strong>does</strong> she write clean code, [but] she [also] designs beautiful interfaces.</li>
+					<li className="margin-bottom-20 list-none">[Không những] cô ấy viết mã sạch, [mà] cô ấy [còn] thiết kế được các giao diện đẹp mắt.</li>
 
-					<li className="list-none">Câu học thuật</li>
-
-					<li className="margin-bottom-20 list-none">→ Việc đưa "<strong>Not only</strong>" lên đầu câu nhấn mạnh rằng kỹ năng của cô ấy không dừng lại ở việc viết mã mà còn vượt xa hơn thế ở mảng thiết kế. </li>
+					<li className="list-none">→ Câu advanced: Việc đưa <strong>trạng cụm</strong> [Not only], [but also] lên đầu câu nhấn mạnh rằng kỹ năng của cô ấy không dừng lại ở việc viết mã mà còn vượt xa hơn thế ở mảng thiết kế.</li>
 			
 				</ul>
 
 			
 
-			<p className="margin-top-50"><strong>Ví dụ 5</strong>:</p>
+			<p className="margin-top-20"><strong>Ví dụ 5</strong>:</p>
 			
 				<ul className="list-square">
 			
@@ -560,11 +588,10 @@ export default function ThreeDC1(): React.ReactElement {
 			
 				<ul className="list-square">
 			
-					<li>[Under no circumstances must] you share this password.</li>
+					<li>[Under no circumstances] <strong>must</strong> you share this password.</li>
 					<li className="margin-bottom-20 list-none">[Không bất kỳ hoàn cảnh nào được phép] bạn chia sẻ mật khẩu này.</li>
 
-					<li className="list-none">Câu học thuật</li>
-					<li className="list-none">→ Việc đưa ra giới hạn "<strong>Under no circumstances</strong>" (trạng cụm phủ định) lên đầu câu ngay từ đầu để "khóa" mọi khả năng ngay lập tức, sau đó mới nhắc đến hành động.</li>
+					<li className="list-none">→ Câu advanced: Việc đưa ra giới hạn [Under no circumstances], <strong>trạng cụm</strong> phủ định, lên đầu câu ngay từ đầu để "khóa" mọi khả năng ngay lập tức, sau đó mới nhắc đến hành động.</li>
 			
 				</ul>
 
