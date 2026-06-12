@@ -54,9 +54,11 @@ export default function SuperWords1(): React.JSX.Element {
 
 			<p>Những định nghĩa cũ kỹ vô tình tạo ra một bức tường tâm lý, khiến chúng ta cảm thấy tiếng Anh bản xứ là một thứ gì đó vô cùng phức tạp và xa vời.</p>
 
-			<p className="margin-y-30"><strong>Nhưng sự thật là gì</strong>?</p>
+			<p className="margin-y-30">Nhưng sự thật là gì?</p>
 
-			<p>Tư duy của người bản xứ khi xây dựng ngôn ngữ không hề phức tạp như cách người ta thường đặt tên cho nó. Họ không cố tình ngồi lắp ghép các cấu trúc vĩ mô.</p>
+			<p>Tư duy của người bản xứ khi xây dựng ngôn ngữ không hề phức tạp như cách người ta thường đặt tên cho nó.</p>
+
+			<p>Họ không cố tình ngồi lắp ghép các cấu trúc vĩ mô.</p>
 
 			<p>Họ chỉ đang vận hành một cơ chế cực kỳ tự nhiên:</p>
 
@@ -72,13 +74,15 @@ export default function SuperWords1(): React.JSX.Element {
 
 			<p>Để làm chủ tiếng Anh, bạn chỉ cần nắm được chiếc chìa khóa vạn năng này:</p>
 
-			<p className="margin-y-30">Người học bản xứ luôn thấy <strong>Hình thái</strong> (<strong>Cấp độ</strong>) hiển thị trước mắt, sau đó mới giải mã <strong>Chức năng</strong> của nó dựa vào vị trí đứng trong câu lớn.</p>
+
+			<p className="margin-y-30">Người học luôn thấy <strong>Hình thái</strong> (<strong>Cấp độ</strong>) hiển thị trước mắt, sau đó mới giải mã <strong>Chức năng</strong> của nó dựa vào vị trí đứng trong câu lớn.</p>
+
 
 			<p>Hệ thống được vận hành đồng nhất dựa trên hai trục tọa độ:</p>
 			
 				<ul className="list-square">
 			
-					<li>Chiều dọc — <strong>3 Cấp độ của Hình thái</strong>:</li>
+					<li>Chiều dọc — <strong>3 Cấp độ của Hình thái</strong> (C):</li>
 					<li className="list-none"><strong>Base</strong> (Cơ bản - 1 từ)</li>
 					<li className="list-none"><strong>Phrase</strong> (Khối cụm từ)</li>
 					<li className="margin-bottom-20 list-none"><strong>Clause</strong> (Câu con có Chủ - Vị)</li>
@@ -88,25 +92,31 @@ export default function SuperWords1(): React.JSX.Element {
 			
 				</ul>
 			
+			
 			<p className="margin-top-20">Hạt nhân điều khiển mọi hành động trong tiếng Anh chính là <strong>ĐỘNG CƠ</strong>. Từ hình thái gốc của Động cơ, ngôn ngữ sẽ tiến hóa theo 3 cấp độ:</p>
+
 
 			<p className="margin-y-30"><strong>Động cơ</strong> (Verb Base) →  <strong>Động cụm</strong> (Verb Phrase) →  <strong>Động câu</strong> (Verb Clause).</p>
 
+
 			<p>Khi các hình thái động này được đặt vào những vị trí khác nhau trong câu, chúng sẽ lập tức sinh ra các chức năng tương ứng:</p>
 
+
 			<p className="margin-y-30"><strong>Danh</strong>, <strong>Tính</strong>, hoặc <strong>Trạng</strong>.</p>
+
 
 			<p className="margin-top-20">Bên cạnh đó, hãy nhớ hai định nghĩa nền tảng về câu:</p>
 			
 				<ul className="list-square">
 			
-					<li><strong>Câu lớn</strong> (Câu trọn vẹn - Sentence):</li>
+					<li><strong>Câu lớn</strong> (<strong>Câu trọn vẹn</strong> - <strong>Sentence</strong>):</li>
 					<li className="margin-bottom-20 list-none">Là một cấu trúc đứng độc lập, kết thúc bằng dấu chấm và biểu thị một ý nghĩa hoàn chỉnh.</li>
 					
-					<li><strong>Phụ câu</strong> (Dependent Clause - DC):</li>
+					<li><strong>Phụ câu</strong> (<strong>Dependent Clause</strong> - <strong>DC</strong>):</li>
 					<li className="list-none">Là một câu con đi kèm nằm bên trong câu lớn để phục vụ một chức năng cụ thể, không thể đứng tách riêng.</li>
 			
 				</ul>
+
 			
 			<p className="margin-top-20">Hãy cùng bóc tách 3 hình thái tiến hóa này để thấy tư duy bản xứ vận hành mượt mà ra sao.</p>
 			
@@ -118,43 +128,36 @@ export default function SuperWords1(): React.JSX.Element {
 
 			<p>Đây là đơn vị hành động nhỏ nhất, chỉ gồm đúng <strong>1 từ</strong>.</p>
 
-			<p className="margin-y-30"><strong>Quy ước trực quan</strong>: Sử dụng dấu ngoặc vuông [] bao quanh Verb Base. Các yếu tố đuôi như -s/-es, -ed, -ing nằm bên trong [] chỉ là cấu hình hiển thị, không làm thay đổi bản chất hình thái.</p>
+			<p className="margin-y-30"><strong>Quy ước trực quan</strong>:</p>
+			
+				<ul className="list-square">
+			
+					<li>Sử dụng dấu ngoặc vuông [] bao quanh <strong>Verb Base</strong>.</li>
+			
+					<li>Các yếu tố đuôi như -<strong>s</strong>/-<strong>es</strong>, -<strong>ed</strong>, -<strong>ing</strong> nằm bên trong [] chỉ là cấu hình hiển thị, không làm thay đổi bản chất hình thái.</li>
+			
+				</ul>
+			
+			<p className="margin-top-20"></p>
 
 			<p>Khi nhìn thấy hình thái <strong>Verb Base</strong>, chức năng của nó sẽ được quyết định bởi vị trí đứng:</p>
 
-
-			<h4 className="margin-y-40">Chức năng Danh cơ (Noun Base):</h4>
-			
 				<ul className="list-square">
-			
+
 					<li>[Smoking] is bad for health.</li>
 					<li className="margin-bottom-20 list-none">[Hút thuốc] có hại cho sức khỏe.</li>
+					<li className="list-none">Hành động hút thuốc đứng đầu câu làm chủ thể</li>
+					<li className="margin-bottom-20 list-none">→ Chức năng [<strong>Danh cơ</strong>] (Noun Base)</li>
 
-					<li className="list-none">→ Hành động hút thuốc đứng đầu câu làm chủ thể</li>
-			
-				</ul>
-
-
-			<h4 className="margin-y-40">Chức năng Tính cơ (Adjective Base):</h4>
-			
-				<ul className="list-square">
-			
 					<li>He has a [charming] smile.</li>
 					<li className="margin-bottom-20 list-none">Anh ấy có một nụ cười [quyến rũ].</li>
-
-					<li className="list-none">→ Hành động đứng trước để bổ nghĩa, mô tả tính chất cho nụ cười</li>
-			
-				</ul>
-
-
-			<h4 className="margin-y-40">Chức năng Trạng cơ (Adverb Base - Hình thành từ gốc hành động + ly):</h4>
-			
-				<ul className="list-square">
+					<li className="list-none">Hành động đứng trước để bổ nghĩa, mô tả tính chất cho nụ cười</li>
+					<li className="margin-bottom-20 list-none">→ Chức năng [<strong>Tính cơ</strong>] (Adjective Base)</li>
 			
 					<li>He spoke [lovingly].</li>
 					<li className="margin-bottom-20 list-none">Anh ấy nói [một cách trìu mến].</li>
-
-					<li className="list-none">→ Hành động nói theo cách thức đầy yêu thương</li>
+					<li className="list-none">Hành động nói theo cách thức đầy yêu thương</li>
+					<li className="list-none">→ Chức năng [<strong>Trạng cơ</strong>] (Adverb Base - Hình thành từ gốc hành động + ly)</li>
 			
 				</ul>
 
@@ -165,43 +168,28 @@ export default function SuperWords1(): React.JSX.Element {
 
 			<p>Đây là khối hành động chứa nhiều từ bọc lót cho nhau nhưng chưa tạo thành một câu con hoàn chỉnh.</p>
 
+
 			<p className="margin-y-30"><strong>Quy ước trực quan</strong>: Sử dụng dấu [] cho tầng ngoài để gom toàn bộ hành động phức hợp này lại.</p>
 
+			
 			<p>Khi nhìn thấy hình thái <strong>Verb Phrase</strong>, bạn sẽ biết nó đảm nhận chức năng gì dựa vào ngữ cảnh:</p>
-
-
-			<h4 className="margin-y-40">Chức năng Danh cụm (Noun Phrase):</h4>
-			
+					
 				<ul className="list-square">
-			
+
 					<li>You must [finish the report].</li>
 					<li className="margin-bottom-20 list-none">Bạn phải [hoàn thành báo cáo].</li>
+					<li className="list-none">Cả cụm từ làm chức năng một đầu việc cần thực thi, đứng làm tân ngữ</li>
+					<li className="margin-bottom-20 list-none">→ Chức năng [<strong>Danh cụm</strong>] (Noun Phrase)</li>
 
-					<li className="list-none">→ Cả cụm từ làm chức năng một đầu việc cần thực thi, đứng làm tân ngữ</li>
-			
-				</ul>
-
-
-			<h4 className="margin-y-40">Chức năng Tính cụm (Adjective Phrase):</h4>
-					
-				<ul className="list-square">
-			
 					<li>The baby is [sleeping peacefully].</li>
 					<li className="margin-bottom-20 list-none">Em bé đang [ngủ một cách yên bình].</li>
-
-					<li className="list-none">→ Cụm từ mô tả trạng thái, tính chất của đối tượng</li>
-			
-				</ul>
-
-
-			<h4 className="margin-y-40">Chức năng Trạng cụm (Adverb Phrase):</h4>
-					
-				<ul className="list-square">
+					<li className="list-none">Cụm từ mô tả trạng thái, tính chất của đối tượng</li>
+					<li className="margin-bottom-20 list-none">→ Chức năng [<strong>Tính cụm</strong>] (Adjective Phrase)</li>
 			
 					<li>He works [to earn money].</li>
 					<li className="margin-bottom-20 list-none">Anh ấy làm việc [để kiếm tiền].</li>
-
-					<li className="list-none">→ Cụm từ mô tả mục đích của hành động làm việc</li>
+					<li className="list-none">Cụm từ mô tả mục đích của hành động làm việc</li>
+					<li className="list-none">→ Chức năng [<strong>Trạng cụm</strong>] (Adverb Phrase)</li>
 			
 				</ul>
 			
@@ -211,70 +199,66 @@ export default function SuperWords1(): React.JSX.Element {
 
 			<h3 className="margin-y-50 text-center">3. Hình thái: ĐỘNG CÂU (Verb Clause)</h3>
 
-			<p>Đây là hình thái tối cao của hành động khi nó <strong>chứa cả một cấu trúc câu con</strong> (<strong>Chủ</strong> - <strong>Vị</strong>) bên trong.</p>
+			<p>Đây là hình thái tối cao của hành động khi nó <strong>chứa cả một cấu trúc câu con</strong> (<strong>Chủ</strong> - <strong>Vị</strong>) <strong>bên trong</strong>.</p>
 
 			<p className="margin-y-30"><strong>Quy ước trực quan</strong>: Dấu [] sẽ xác định ranh giới của câu con này.</p>
 
-			<p>Khi nhìn thấy hình thái Verb Clause, ta xác định chức năng của "Siêu Từ" này như sau:</p>
 
-
-			<h4 className="margin-y-40">Chức năng Danh câu (Noun Clause):</h4>
+			<p>Khi nhìn thấy hình thái <strong>Verb Clause</strong>, ta xác định chức năng của "Siêu Từ" này như sau:</p>
 			
 				<ul className="list-square">
-			
+
 					<li>I know [that he is honest].</li>
 					<li className="margin-bottom-20 list-none">Tôi biết [rằng anh ấy trung thực].</li>
+					<li className="list-none">Cả câu con đóng vai trò là đối tượng, sự việc được biết đến</li>
+					<li className="margin-bottom-20 list-none">→ Chức năng [<strong>Danh câu</strong>] (Noun Clause)</li>
 
-					<li className="list-none">→ Cả câu con đóng vai trò là đối tượng, sự việc được biết đến</li>
-			
-				</ul>
-
-
-			<h4 className="margin-y-40">Chức năng Tính câu (Adjective Clause):</h4>
-			
-				<ul className="list-square">
-			
 					<li>The man [who is standing there] is my friend.</li>
 					<li className="margin-bottom-20 list-none">Người đàn ông [người mà đang đứng ở đó] là bạn của tôi.</li>
-
-					<li className="list-none">→ Cả câu con đứng sau định danh, bổ nghĩa cho danh cơ "the man"</li>
-			
-				</ul>
-			
-
-			<h4 className="margin-y-40">Chức năng Trạng câu (Adverb Clause):</h4>
-			
-				<ul className="list-square">
+					<li className="list-none">Cả câu con đứng sau định danh, bổ nghĩa cho danh cơ "the man"</li>
+					<li className="margin-bottom-20 list-none">→ Chức năng [<strong>Tính câu</strong>] (Adjective Clause)</li>
 			
 					<li>I will go [where you go].</li>
 					<li className="margin-bottom-20 list-none">Tôi sẽ đi [nơi bạn đi].</li>
-					
-					<li className="list-none">→ Cả câu con mô tả nơi chốn, làm bối cảnh cho hành động ở câu lớn</li>
+					<li className="list-none">Cả câu con mô tả nơi chốn, làm bối cảnh cho hành động ở câu lớn</li>
+					<li className="list-none">→ Chức năng [<strong>Trạng câu</strong>] (Adverb Clause)</li>
 			
 				</ul>
 			
 
 			{/* .  */}
 
-			<h3 className="margin-y-50 text-center">Tuyệt Chiêu Nhìn Xuyên Thấu: Lưu Ý Phân Tầng Hệ Thống</h3>
+			<h3 className="margin-y-50 text-center">Tuyệt Chiêu Nhìn Xuyên Thấu: Tư Duy Phân Tầng Động Cụm</h3>
 
 			<p>Khi bạn đọc hoặc viết những câu dài phức tạp, hệ thống ngôn ngữ sẽ xuất hiện hiện tượng "lồng hộp" — nghĩa là một hình thái lớn ôm lấy một hình thái nhỏ bên trong.</p>
 
-			<p>Để định vị chính xác, chúng ta áp dụng <strong>Nguyên tắc</strong> "<strong>Điểm neo</strong>": Dấu ngoặc vuông [] bao quanh tầng ngoài cùng (lấy cả hành động chính điều phối câu), và dấu ngoặc nhọn {'{}'} dành cho module được lồng bên trong.</p>
+			<p>Để định vị chính xác, chúng ta áp dụng <strong>Nguyên tắc</strong> "<strong>Điểm neo</strong>":</p>
+
+			<p className="margin-top-20"></p>
+			
+				<ul className="list-square">
+			
+					<li>Dấu ngoặc vuông [] bao quanh tầng ngoài cùng, bắt đầu neo từ động cơ chính điều phối câu.</li>
+			
+					<li>Dấu ngoặc nhọn {'{}'} dành cho module câu con được lồng hẳn bên trong.</li>
+			
+				</ul>
+			
+			<p className="margin-top-20"></p>
 
 
 			<h4 className="margin-y-40">Ví dụ phân tầng thực tế:</h4>
 			
 				<ul className="list-square">
 			
-					<li>He [remembers {'{what you told me}'}].</li>
-					<li className="margin-bottom-20 list-none">Anh ấy [nhớ {'{những gì bạn đã nói với tôi}'}].</li>
+					<li>She [understands {'{why you left the party}'}].</li>
+					<li className="margin-bottom-20 list-none">Cô ấy [hiểu {'{tại sao bạn rời bữa tiệc}'}].</li>
 
-					<li className="list-none">{'{what you told me}'}: Đạt hình thái Động câu (Verb Clause) vì chứa cấu trúc câu con bên trong</li>
-					<li className="margin-bottom-20 list-none">→ Đảm nhận Chức năng: <strong>Danh câu</strong> (Noun Clause) làm vật bị tác động.</li>
+					<li className="list-none">{'{why you left the party}'}: Đạt hình thái Động câu (Verb Clause) vì chứa trọn vẹn một cấu trúc câu con bên trong.</li>
+					<li className="margin-bottom-20 list-none">→ Nó được đặt ở vị trí tân ngữ bị tác động, vì vậy đảm nhận Chức năng: [<strong>Danh câu</strong>] (Noun Clause).</li>
 			
-					<li className="list-none">[remembers {'{what you told me}'}]: Đạt hình thái Động cụm (Verb Phrase) vì gồm hành động chính remembers neo giữ lấy khối thông tin lồng phía sau</li>
-					<li className="list-none">→ Đảm nhận Chức năng: <strong>Danh cụm</strong> (Noun Phrase).</li>
+					<li className="list-none">[understands {'{why you left the party}'}]: Bắt đầu mở ngoặc từ động cơ chính understands và ôm trọn lấy khối thông tin lồng phía sau.</li>
+					<li className="list-none">→ Cả khối này đạt hình thái Động cụm (Verb Phrase) và đảm nhận Chức năng: [<strong>Danh cụm</strong>] (Noun Phrase) trong câu lớn.</li>
 			
 				</ul>
 			
@@ -303,15 +287,15 @@ export default function SuperWords1(): React.JSX.Element {
 
 					<li>[Smoking] is bad.</li>
 					<li className="list-none">[Hút thuốc] thì có hại.</li>
-					<li className="margin-bottom-20 list-none">→ <strong>Danh cơ</strong> (Noun Base)</li>
+					<li className="margin-bottom-20 list-none">→ [<strong>Danh cơ</strong>] (Noun Base)</li>
 
 					<li>Must [finish the report].</li>
 					<li className="list-none">Phải [hoàn thành báo cáo].</li>
-					<li className="margin-bottom-20 list-none">→ <strong>Danh cụm</strong> (Noun Phrase)</li>
+					<li className="margin-bottom-20 list-none">→ [<strong>Danh cụm</strong>] (Noun Phrase)</li>
 			
 					<li>I know [that he is honest].</li>
 					<li className="list-none">Tôi biết [rằng anh ấy trung thực].</li>
-					<li className="list-none">→ <strong>Danh câu</strong> (Noun Clause)</li>
+					<li className="list-none">→ [<strong>Danh câu</strong>] (Noun Clause)</li>
 			
 				</ul>
 			
@@ -323,15 +307,15 @@ export default function SuperWords1(): React.JSX.Element {
 
 					<li>A [charming] smile.</li>
 					<li className="list-none">Một nụ cười [quyến rũ].</li>
-					<li className="margin-bottom-20 list-none">→ <strong>Tính cơ</strong> (Adjective Base)</li>
+					<li className="margin-bottom-20 list-none">→ [<strong>Tính cơ</strong>] (Adjective Base)</li>
 
 					<li>Is [sleeping peacefully].</li>
 					<li className="list-none">Đang [ngủ một cách yên bình].</li>
-					<li className="margin-bottom-20 list-none">→ <strong>Tính cụm</strong> (Adjective Phrase)</li>
+					<li className="margin-bottom-20 list-none">→ [<strong>Tính cụm</strong>] (Adjective Phrase)</li>
 			
 					<li>The man [who is standing there].</li>
 					<li className="list-none">Người đàn ông [người mà đang đứng ở đó].</li>
-					<li className="list-none">→ <strong>Tính câu</strong> (Adjective Clause)</li>
+					<li className="list-none">→ [<strong>Tính câu</strong>] (Adjective Clause)</li>
 			
 				</ul>
 			
@@ -343,15 +327,15 @@ export default function SuperWords1(): React.JSX.Element {
 
 					<li>He spoke [lovingly].</li>
 					<li className="list-none">Anh ấy nói [một cách trìu mến].</li>
-					<li className="margin-bottom-20 list-none">→ <strong>Trạng cơ</strong> (Adverb Base)</li>
+					<li className="margin-bottom-20 list-none">→ [<strong>Trạng cơ</strong>] (Adverb Base)</li>
 			
 					<li>Works [to earn money].</li>
 					<li className="list-none">Làm việc [để kiếm tiền].</li>
-					<li className="margin-bottom-20 list-none">→ <strong>Trạng cụm</strong> (Adverb Phrase)</li>
+					<li className="margin-bottom-20 list-none">→ [<strong>Trạng cụm</strong>] (Adverb Phrase)</li>
 
 					<li>I will go [where you go].</li>
 					<li className="list-none">Tôi sẽ đi [nơi bạn đi].</li>
-					<li className="margin-bottom-20 list-none">→ <strong>Trạng câu</strong> (Adverb Clause)</li>
+					<li className="margin-bottom-20 list-none">→ [<strong>Trạng câu</strong>] (Adverb Clause)</li>
 			
 				</ul>
 
@@ -360,16 +344,35 @@ export default function SuperWords1(): React.JSX.Element {
 
 			<h3 className="margin-y-50 text-center">Lời Kết: Giải Phóng Tư Duy Ngôn Ngữ</h3>
 
-			<p>Khi bạn gạt bỏ được áp lực từ những tên gọi mang tính học thuật, tiếng Anh sẽ quay trở về đúng bản chất nguyên bản của nó: Một trò chơi lắp ghép và nâng cấp kích thước các khối hình.</p>
+			<p>Khi bạn gạt bỏ được áp lực từ những tên gọi mang tính học thuật, tiếng Anh sẽ quay trở về đúng bản chất nguyên bản của nó:</p>
 
-			<p>Từ nay về sau, khi đối diện với một câu tiếng Anh, bạn không cần phải hoang mang đoán mò cấu trúc. Hãy cứ nhìn vào <strong>Hình thái</strong> trước:</p>
 
-			<p>Nó là một từ đơn (<strong>Verb Base</strong>), một nhóm từ (<strong>Verb Phrase</strong>), hay một câu con (<strong>Verb Clause</strong>)?</p>
+			<p>Một trò chơi lắp ghép và nâng cấp kích thước các khối hình.</p>
 
-			<p>Sau đó, hãy nhìn vào vị trí đứng của nó để gọi tên đúng <strong>Chức năng</strong> Danh — Tính — Trạng.</p>
+
+			<p>Từ nay về sau, khi đối diện với một câu tiếng Anh, bạn không cần phải hoang mang đoán mò cấu trúc.</p>
+
+			<p>Hãy cứ nhìn vào <strong>Hình thái</strong> trước, nó là:</p>
+			
+				<ul className="list-square">
+			
+					<li><strong>Một từ đơn</strong> (Verb Base)</li>
+			
+					<li><strong>Một nhóm từ</strong> (Verb Phrase)</li>
+			
+					<li>Hay <strong>một câu con</strong> (Verb Clause)?</li>
+			
+				</ul>
+			
+			
+			<p className="margin-top-20">Sau đó, hãy nhìn vào vị trí đứng của nó để gọi tên đúng <strong>Chức năng</strong>:</p>
+
+
+			<p className="margin-y-30"><strong>Danh</strong> — <strong>Tính</strong> — <strong>Trạng</strong>.</p>
+			
 
 			<p>Chỉ với chiếc bản đồ tư duy hai chiều nhất quán này, mọi tầng nghĩa của câu lập tức hiển thị rõ ràng, mạch lạc, giúp bạn bóc tách cấu trúc câu đại tài và làm chủ tiếng Anh một cách tự nhiên nhất!</p>
-			
+
 
 			<div className="viewcounter">
 			
