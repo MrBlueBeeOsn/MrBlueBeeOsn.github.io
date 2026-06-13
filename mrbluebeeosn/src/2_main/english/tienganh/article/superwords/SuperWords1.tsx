@@ -142,22 +142,35 @@ export default function SuperWords1(): React.JSX.Element {
 
 			<p>Khi nhìn thấy hình thái <strong>Verb Base</strong>, chức năng của nó sẽ được quyết định bởi vị trí đứng:</p>
 
+			<h4 className="margin-y-40">Chức năng Danh Cơ [<strong>Noun Base</strong>]</h4>
+
 				<ul className="list-square">
 
 					<li>[Smoking] is bad for health.</li>
 					<li className="margin-bottom-20 list-none">[Hút thuốc] có hại cho sức khỏe.</li>
-					<li className="list-none">Hành động hút thuốc đứng đầu câu làm chủ thể</li>
-					<li className="margin-bottom-20 list-none">Hình thái Động Cơ [<strong>Verb Base</strong>] → Chức năng Danh Cơ [<strong>Noun Base</strong>]</li>
+					<li className="list-none">→ Hành động hút thuốc đứng đầu câu làm chủ thể</li>
+			
+				</ul>
+
+			<h4 className="margin-y-40">Chức năng Tính Cơ [<strong>Adjective Base</strong>]</h4>
+
+				<ul className="list-square">
 
 					<li>He has a [charming] smile.</li>
 					<li className="margin-bottom-20 list-none">Anh ấy có một nụ cười [quyến rũ].</li>
-					<li className="list-none">Hành động đứng trước để bổ nghĩa, mô tả tính chất cho nụ cười</li>
-					<li className="margin-bottom-20 list-none">Hình thái Động Cơ [<strong>Verb Base</strong>] → Chức năng Tính Cơ [<strong>Adjective Base</strong>]</li>
+					<li className="list-none">→ Hành động đứng trước để bổ nghĩa, mô tả tính chất cho nụ cười</li>
+			
+				</ul>
+
+			<h4 className="margin-y-40">Chức năng Trạng Cơ [<strong>Adverb Base</strong>]</h4>
+
+			<p className="text-indent-whole">Hình thành từ gốc hành động + ly</p>
+
+				<ul className="list-square">
 			
 					<li>He spoke [lovingly].</li>
 					<li className="margin-bottom-20 list-none">Anh ấy nói [một cách trìu mến].</li>
-					<li className="list-none">Hành động nói theo cách thức đầy yêu thương</li>
-					<li className="list-none">Hình thái Động Cơ [<strong>Verb Base</strong>] → Chức năng Trạng Cơ [<strong>Adverb Base</strong>] - Hình thành từ gốc hành động + ly</li>
+					<li className="list-none">→ Hành động nói theo cách thức đầy yêu thương</li>
 			
 				</ul>
 
@@ -173,23 +186,37 @@ export default function SuperWords1(): React.JSX.Element {
 
 			
 			<p>Khi nhìn thấy <strong>hình thái</strong> [<strong>Verb Phrase</strong>], bạn sẽ biết nó đảm nhận <strong>chức năng</strong> gì dựa vào ngữ cảnh:</p>
-					
+
+
+			<h4 className="margin-y-40">Chức năng Danh Cụm [<strong>Noun Phrase</strong>]</h4>
+
 				<ul className="list-square">
 
 					<li>You must [finish the report].</li>
 					<li className="margin-bottom-20 list-none">Bạn phải [hoàn thành báo cáo].</li>
-					<li className="list-none">Cả cụm từ làm chức năng một đầu việc cần thực thi, đứng làm tân ngữ</li>
-					<li className="margin-bottom-20 list-none">Hình thái Động Cụm [<strong>Verb Phrase</strong>] → Chức năng Danh Cụm [<strong>Noun Phrase</strong>]</li>
+					<li className="list-none">→ Cả cụm từ làm chức năng một đầu việc cần thực thi, đứng làm tân ngữ</li>
+			
+				</ul>
+			
+
+			<h4 className="margin-y-40">Chức năng Tính Cụm [<strong>Adjective Phrase</strong>]</h4>
+
+				<ul className="list-square">
 
 					<li>The baby is [sleeping peacefully].</li>
 					<li className="margin-bottom-20 list-none">Em bé đang [ngủ một cách yên bình].</li>
-					<li className="list-none">Cụm từ mô tả trạng thái, tính chất của đối tượng</li>
-					<li className="margin-bottom-20 list-none">Hình thái Động Cụm [<strong>Verb Phrase</strong>] → Chức năng Tính Cụm [<strong>Adjective Phrase</strong>]</li>
+					<li className="list-none">→ Cụm từ mô tả trạng thái, tính chất của đối tượng</li>
+			
+				</ul>
+			
+
+			<h4 className="margin-y-40">Chức năng Trạng Cụm [<strong>Adverb Phrase</strong>]</h4>
+				
+				<ul className="list-square">
 			
 					<li>He works [to earn money].</li>
 					<li className="margin-bottom-20 list-none">Anh ấy làm việc [để kiếm tiền].</li>
-					<li className="list-none">Cụm từ mô tả mục đích của hành động làm việc</li>
-					<li className="list-none">Hình thái Động Cụm [<strong>Verb Phrase</strong>] → Chức năng Trạng Cụm [<strong>Adverb Phrase</strong>]</li>
+					<li className="list-none">→ Cụm từ mô tả mục đích của hành động làm việc</li>
 			
 				</ul>
 			
@@ -205,23 +232,35 @@ export default function SuperWords1(): React.JSX.Element {
 
 
 			<p>Khi nhìn thấy <strong>hình thái</strong> [<strong>Verb Clause</strong>], ta xác định <strong>chức năng</strong> của "Siêu Từ" này như sau:</p>
-			
+
+			<h4 className="margin-y-40">Chức năng Danh Câu [<strong>Noun Clause</strong>]</h4>
+
 				<ul className="list-square">
 
 					<li>I know [that he is honest].</li>
 					<li className="margin-bottom-20 list-none">Tôi biết [rằng anh ấy trung thực].</li>
-					<li className="list-none">Cả câu con đóng vai trò là đối tượng, sự việc được biết đến</li>
-					<li className="margin-bottom-20 list-none">Hình thái Động Câu [<strong>Verb Clause</strong>] → Chức năng Danh Câu [<strong>Noun Clause</strong>]</li>
+					<li className="list-none">→ Cả câu con đóng vai trò là đối tượng, sự việc được biết đến</li>
+			
+				</ul>
+
+
+			<h4 className="margin-y-40">Chức năng Tính Câu [<strong>Adjective Clause</strong>]</h4>
+
+				<ul className="list-square">
 
 					<li>The man [who is standing there] is my friend.</li>
 					<li className="margin-bottom-20 list-none">Người đàn ông [người mà đang đứng ở đó] là bạn của tôi.</li>
-					<li className="list-none">Cả câu con đứng sau định danh, bổ nghĩa cho danh cơ "the man"</li>
-					<li className="margin-bottom-20 list-none">Hình thái Động Câu [<strong>Verb Clause</strong>] → Chức năng Tính Câu [<strong>Adjective Clause</strong>]</li>
+					<li className="list-none">→ Cả câu con đứng sau định danh, bổ nghĩa cho danh cơ "the man"</li>
+		
+				</ul>
+
+			<h4 className="margin-y-40">Chức năng Trạng Câu [<strong>Adverb Clause</strong>]</h4>
+			
+				<ul className="list-square">
 			
 					<li>I will go [where you go].</li>
 					<li className="margin-bottom-20 list-none">Tôi sẽ đi [nơi bạn đi].</li>
-					<li className="list-none">Cả câu con mô tả nơi chốn, làm bối cảnh cho hành động ở câu lớn</li>
-					<li className="list-none">Hình thái Động Câu [<strong>Verb Clause</strong>] → Chức năng Trạng Câu [<strong>Adverb Clause</strong>]</li>
+					<li className="list-none">→ Cả câu con mô tả nơi chốn, làm bối cảnh cho hành động ở câu lớn</li>
 			
 				</ul>
 			

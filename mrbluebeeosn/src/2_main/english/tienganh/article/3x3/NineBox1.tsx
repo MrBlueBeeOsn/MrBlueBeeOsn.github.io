@@ -374,61 +374,96 @@ export default function NineBox1(): React.JSX.Element {
 
 			<p>Bản chất của Paraphrasing chuyên nghiệp không phải là tìm từ đồng nghĩa một cách mù quáng, mà là tịnh tiến quy mô dữ liệu theo chiều dọc (<strong>Base</strong> → <strong>Phrase</strong> → <strong>Clause</strong>) trong khi vẫn giữ cố định vị trí chức năng trên chiều ngang của hệ tọa độ.</p>
 					
-			<p className="text-indent-whole"><strong>Nhóm 1</strong>: Tịnh tiến ô chức năng DANH [<strong>NOUN</strong>] (Đối tượng)</p>
+
+
+			<h4 className="margin-y-40">Nhóm 1: Tịnh tiến ô chức năng DANH [NOUN] (Đối tượng)</h4>
+					
+			<p className="margin-top-20 text-indent-whole">Danh Cơ [<strong>Noun Base</strong>]</p>
 
 				<ul className="list-square">
 			
 					<li>[Automation] increases workflow efficiency.</li>
 					<li className="list-none">[Tự động hóa] giúp tăng hiệu suất quy trình.</li>
-					<li className="margin-bottom-20 list-none">→ Danh Cơ [<strong>Noun Base</strong>]</li>
+			
+				</ul>
+
+			<p className="margin-top-20 text-indent-whole">Danh Cụm [<strong>Noun Phrase</strong>]</p>
+
+				<ul className="list-square">
 					
 					<li>[The deployment of new software tools] increases workflow efficiency.</li>
 					<li className="list-none">[Việc triển khai các công cụ phần mềm mới] giúp tăng hiệu suất quy trình.</li>
-					<li className="margin-bottom-20 list-none">→ Danh Cụm [<strong>Noun Phrase</strong>]</li>
+			
+				</ul>
+
+			<p className="margin-top-20 text-indent-whole">Danh Câu [<strong>Noun Clause</strong>]</p>
+
+				<ul className="list-square">
 			
 					<li>[What the engineering team implemented yesterday] increases workflow efficiency.</li>
 					<li className="list-none">[Những gì đội ngũ kỹ sư triển khai ngày hôm qua] giúp tăng hiệu suất quy trình.</li>
-					<li className="list-none">→ Danh Câu [<strong>Noun Clause</strong>]</li>
 			
 				</ul>
 
 
-			
-			<p className="margin-top-20 text-indent-whole"><strong>Nhóm 2</strong>: Biến đổi ô chức năng TÍNH [<strong>ADJECTIVE</strong>] (Thuộc tính)</p>
-			
+
+			<h4 className="margin-y-40">Nhóm 2: Biến đổi ô chức năng TÍNH [ADJECTIVE] (Thuộc tính)</h4>
+					
+			<p className="margin-top-20 text-indent-whole">Tính Cơ [<strong>Adjective Base</strong>]</p>
+
 				<ul className="list-square">
 
 					<li>We must replace this [unsecured] connection.</li>
 					<li className="list-none">Chúng ta phải thay thế kết nối [không an toàn] này</li>
-					<li className="margin-bottom-20 list-none">→ Tính Cơ [<strong>Adjective Base</strong>]</li>
+			
+				</ul>
+
+			<p className="margin-top-20 text-indent-whole">Tính Cụm [<strong>Adjective Phrase</strong>]</p>
+
+				<ul className="list-square">
 
 					<li>We must replace this connection [vulnerable to cyber threats].</li>
 					<li className="list-none">Chúng ta phải thay thế kết nối [dễ bị tổn hại bởi các mối đe dọa mạng] này.</li>
-					<li className="margin-bottom-20 list-none">→ Tính Cụm [<strong>Adjective Phrase</strong>]</li>
 			
+				</ul>
+
+			<p className="margin-top-20 text-indent-whole">Tính Câu [<strong>Adjective Clause</strong>]</p>
+			
+				<ul className="list-square">
+
 					<li>We must replace this connection [which allows unauthorized user access].</li>
 					<li className="list-none">Chúng ta phải thay thế kết nối [mà nó cho phép người dùng không được cấp quyền truy cập vào].</li>
-					<li className="list-none">→ Tính Câu [<strong>Adjective Clause</strong>]</li>
 			
 				</ul>
 			
 
-			
-			<p className="margin-top-20 text-indent-whole"><strong>Nhóm 3</strong>: Tịnh tiến ô chức năng TRẠNG [<strong>ADVERB</strong>] (Bối cảnh)</p>
-			
+
+			<h4 className="margin-y-40">Nhóm 3: Tịnh tiến ô chức năng TRẠNG [ADVERB] (Bối cảnh)</h4>
+					
+			<p className="margin-top-20 text-indent-whole">Trạng Cơ [<strong>Adverb Base</strong>]</p>
+
 				<ul className="list-square">
 
 					<li>The server updates [automatically].</li>
 					<li className="list-none">Máy chủ cập nhật [một cách tự động].</li>
-					<li className="margin-bottom-20 list-none">→ Trạng Cơ [<strong>Adverb Base</strong>]</li>
+			
+				</ul>
+
+			<p className="margin-top-20 text-indent-whole">Trạng Cụm [<strong>Adverb Phrase</strong>]</p>
+
+				<ul className="list-square">
 			
 					<li>The server updates [without any human intervention].</li>
 					<li className="list-none">Máy chủ cập nhật [mà không cần bất kỳ sự can thiệp nào của con người].</li>
-					<li className="margin-bottom-20 list-none">→ Trạng Cụm [<strong>Adverb Phrase</strong>]</li>
+			
+				</ul>
+
+			<p className="margin-top-20 text-indent-whole">Trạng Câu [<strong>Adverb Clause</strong>]</p>
+			
+				<ul className="list-square">
 					
 					<li>The server updates [whenever a new security patch publishes].</li>
 					<li className="list-none">Máy chủ cập nhật [bất cứ khi nào một bản vá bảo mật mới được phát hành].</li>
-					<li className="list-none">→ Trạng Câu [<strong>Adverb Clause</strong>]</li>
 			
 				</ul>
 			
