@@ -119,7 +119,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 					<li><strong>Phrase</strong> (<strong>Cụm từ</strong>):</li>
 					<li className="margin-bottom-20 list-none">Khối từ phức hợp làm một chức năng chung nhưng không có lõi chủ ngữ và hành động riêng.</li>
 			
-					<li><strong>Câu</strong> (<strong>Câu con phụ thuộc</strong>):</li>
+					<li><strong>Clause</strong> (<strong>Câu con phụ thuộc</strong>):</li>
 					<li className="list-none">Một <strong>Câu con</strong> có cấu trúc chủ ngữ và hành động riêng bên trong, nhưng bị "khóa" lại để làm nhiệm vụ phụ thuộc.</li>
 			
 				</ul>
@@ -131,35 +131,29 @@ export default function LegoAssembly1(): React.JSX.Element {
 
 			<p className="text-indent-whole">Từ sự giao thoa này, chúng ta có bảng ma trận thuật ngữ đồng nhất 100%:</p>
 
-			<p className="margin-top-20 text-indent-whole"><strong>Cấp độ</strong> (Dọc)</p>
+			<p className="margin-top-20 text-indent-whole">Cấp độ (Dọc)</p>
+
+			<p className="margin-top-20 text-indent-whole"></p>
 			
 				<ul className="list-square">
 			
-					<li><strong>BASE</strong> (Mức cơ bản)</li>
-					<li><strong>PHRASE</strong> (Khối cụm)</li>
-					<li><strong>CLAUSE</strong> (Câu con)</li>
+					<li className="margin-bottom-20"><strong>BASE</strong> (Mức cơ bản)</li>
+					<li className="list-none">Chức năng (Ngang):</li>
+					<li className="list-none">DANH (Noun) - Danh cơ [<strong>Noun Base</strong>]</li>
+					<li className="list-none">TÍNH (Adjective) - Tính cơ [<strong>Adjective Base</strong>]</li>
+					<li className="margin-bottom-20 list-none">TRẠNG (Adverb) - Trạng cơ [<strong>Adverb Base</strong>]</li>
 			
-				</ul>
-
-
-			<p className="margin-top-20 text-indent-whole"><strong>Chức năng</strong> (Ngang)</p>
+					<li className="margin-bottom-20"><strong>PHRASE</strong> (Khối cụm)</li>
+					<li className="list-none">Chức năng (Ngang):</li>
+					<li className="list-none">DANH (Noun) - Danh cụm [<strong>Noun Phrase</strong>]</li>
+					<li className="list-none">TÍNH (Adjective) - Tính cụm [<strong>Adjective Phrase</strong>]</li>
+					<li className="margin-bottom-20 list-none">TRẠNG (Adverb) - Trạng cụm [<strong>Adverb Phrase</strong>]</li>
 			
-				<ul className="list-square">
-			
-					<li><strong>DANH</strong> (Noun)</li>
-					<li className="list-none"><strong>Danh cơ</strong> (Noun Base)</li>
-					<li className="list-none"><strong>Danh cụm</strong> (Noun Phrase)</li>
-					<li className="margin-bottom-20 list-none"><strong>Danh câu</strong> (Noun Clause)</li>
-			
-					<li><strong>TÍNH</strong> (Adjective)</li>
-					<li className="list-none"><strong>Tính cơ</strong> (Adjective Base)</li>
-					<li className="list-none"><strong>Tính cụm</strong> (Adjective Phrase)</li>
-					<li className="margin-bottom-20 list-none"><strong>Tính câu</strong> (Adjective Clause)</li>
-			
-					<li><strong>TRẠNG</strong> (Adverb)</li>
-					<li className="list-none"><strong>Trạng cơ</strong> (Adverb Base)</li>
-					<li className="list-none"><strong>Trạng cụm</strong> (Adverb Phrase)</li>
-					<li className="list-none"><strong>Trạng câu</strong> (Adverb Clause)</li>
+					<li className="margin-bottom-20"><strong>CLAUSE</strong> (Câu con)</li>
+					<li className="list-none">Chức năng (Ngang)</li>
+					<li className="list-none">DANH (Noun) - Danh câu [<strong>Noun Clause</strong>]</li>
+					<li className="list-none">TÍNH (Adjective) - Tính câu [<strong>Adjective Clause</strong>]</li>
+					<li className="list-none">TRẠNG (Adverb) - Trạng câu [<strong>Adverb Clause</strong>]</li>
 			
 				</ul>
 			
@@ -170,14 +164,14 @@ export default function LegoAssembly1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li><strong>Động cơ</strong> (Verb Base)</li>
-					<li className="margin-bottom-20 list-none">Sẽ hình thành nên chức năng <strong>Danh cơ</strong>, <strong>Tính cơ</strong>, <strong>Trạng cơ</strong>.</li>
+					<li>Động cơ [<strong>Verb Base</strong>]</li>
+					<li className="margin-bottom-20 list-none">Sẽ hình thành nên chức năng Danh cơ, Tính cơ, Trạng cơ.</li>
 			
-					<li><strong>Động cụm</strong> (Verb Phrase)</li>
-					<li className="margin-bottom-20 list-none">Sẽ hình thành nên chức năng <strong>Danh cụm</strong>, <strong>Tính cụm</strong>, <strong>Trạng cụm</strong>.</li>
+					<li>Động cụm [<strong>Verb Phrase</strong>]</li>
+					<li className="margin-bottom-20 list-none">Sẽ hình thành nên chức năng Danh cụm, Tính cụm, Trạng cụm.</li>
 			
-					<li><strong>Động câu</strong> (Verb Clause)</li>
-					<li className="list-none">Sẽ hình thành nên chức năng <strong>Danh câu</strong>, <strong>Tính câu</strong>, <strong>Trạng câu</strong>.</li>
+					<li>Động câu [<strong>Verb Clause</strong>]</li>
+					<li className="list-none">Sẽ hình thành nên chức năng Danh câu, Tính câu, Trạng câu.</li>
 			
 				</ul>
 			
@@ -192,53 +186,53 @@ export default function LegoAssembly1(): React.JSX.Element {
 			<p className="text-indent-whole">Khối này chịu trách nhiệm đóng gói các hành động, thực thể thành một cái tên, một đối tượng để làm Chủ ngữ hoặc Tân ngữ tiếp nhận tác động trong câu.</p>
 			
 
-			<p className="margin-top-20 text-indent-whole"><strong>Danh Cơ</strong> (Noun Base):</p>
+			<p className="margin-top-20 text-indent-whole">Danh Cơ [<strong>Noun Base</strong>]</p>
 			
 				<ul className="list-square">
 			
 					<li>[Learning] is exciting.</li>
 					<li className="margin-bottom-20 list-none">[Học tập] thì thú vị.</li>
 
-					<li className="list-none">Hình thái: [Learning] là một Động cơ (Verb Base) thêm đuôi -ing. Hành động gốc được đóng gói thành một thực thể cơ bản duy nhất.</li>
-					<li className="list-none">Chức năng: Làm <strong>Danh cơ</strong> đóng vai trò làm Chủ ngữ để tạo ra trạng thái "is exciting".</li>
+					<li className="list-none">Hình thái: [Learning] là một Động cơ [<strong>Verb Base</strong>] thêm đuôi -ing. Hành động gốc được đóng gói thành một thực thể cơ bản duy nhất.</li>
+					<li className="list-none">Chức năng: Làm Danh cơ đóng vai trò làm Chủ ngữ để tạo ra trạng thái "is exciting".</li>
 			
 				</ul>
 
-			<p className="margin-top-20 text-indent-whole"><strong>Danh Cụm</strong> (Noun Phrase):</p>
+			<p className="margin-top-20 text-indent-whole">Danh Cụm [<strong>Noun Phrase</strong>]</p>
 			
 				<ul className="list-square">
 			
 					<li>We must [protect the environment].</li>
 					<li className="margin-bottom-20 list-none">Chúng ta phải [bảo vệ môi trường].</li>
 
-					<li className="list-none">Hình thái: [protect the environment] là một Động cụm (Verb Phrase) bắt đầu bằng một Động cơ chính "protect".</li>
-					<li className="list-none">Chức năng: Làm <strong>Danh cụm</strong> đóng vai trò làm Tân ngữ, tiếp nhận trực tiếp yêu cầu từ trợ bộ nguồn "must".</li>
+					<li className="list-none">Hình thái: [protect the environment] là một Động cụm [<strong>Verb Phrase</strong>] bắt đầu bằng một Động cơ chính "protect".</li>
+					<li className="list-none">Chức năng: Làm Danh cụm đóng vai trò làm Tân ngữ, tiếp nhận trực tiếp yêu cầu từ trợ bộ nguồn "must".</li>
 			
 				</ul>
 			
 
-			<p className="margin-top-20 text-indent-whole"><strong>Danh Câu</strong> (Noun Clause):</p>
+			<p className="margin-top-20 text-indent-whole">Danh Câu [<strong>Noun Clause</strong>]</p>
 			
 				<ul className="list-square">
 			
 					<li>I know [what you mean].</li>
 					<li className="margin-bottom-20 list-none">Tôi biết [những gì bạn ám chỉ].</li>
 
-					<li className="list-none">Hình thái: [what you mean] là một Động câu (Verb Clause) tạo thành một câu con hoàn chỉnh nhưng không đứng một mình.</li>
-					<li className="list-none">Chức năng: Làm <strong>Danh câu</strong> đóng vai trò làm Tân ngữ đứng sau một Động cơ hành động.</li>
+					<li className="list-none">Hình thái: [what you mean] là một Động câu [<strong>Verb Clause</strong>] tạo thành một câu con hoàn chỉnh nhưng không đứng một mình.</li>
+					<li className="list-none">Chức năng: Làm Danh câu đóng vai trò làm Tân ngữ đứng sau một Động cơ hành động.</li>
 			
 				</ul>
 
 			
-			<p className="margin-top-20 text-indent-whole"><strong>Danh Cụm Phân Tầng</strong> (Nested Noun Phrase):</p>
+			<p className="margin-top-20 text-indent-whole">Danh Cụm Phân Tầng [<strong>Nested Noun Phrase</strong>]</p>
 			
 				<ul className="list-square">
 			
 					<li>I [understand {'{why you left}'}].</li>
 					<li className="margin-bottom-20 list-none">Tôi [hiểu {'{vì sao bạn rời đi}'}].</li>
 
-					<li className="list-none">Hình thái: Khối tổng thể [understand {'{why you left}'}] là một Động cụm (Verb Phrase) tầng ngoài. Bên trong bao gói {'{why you left}'} là một Động câu (Verb Clause) tầng trong.</li>
-					<li className="list-none">Chức năng: Khối {'{...}'} bên trong đóng vai trò là <strong>Danh câu</strong>, và toàn bộ khối [...] bên trong đóng vai trò là <strong>Danh cụm</strong> (tân ngữ tổng thể) chịu sự điều phối của Động cơ tầng ngoài.</li>
+					<li className="list-none">Hình thái: Khối tổng thể [understand {'{why you left}'}] là một Động cụm [<strong>Verb Phrase</strong>] tầng ngoài. Bên trong bao gói {'{why you left}'} là một Động câu [<strong>Verb Clause</strong>] tầng trong.</li>
+					<li className="list-none">Chức năng: Khối {'{...}'} bên trong đóng vai trò là Danh câu, và toàn bộ khối [...] bên trong đóng vai trò là Danh cụm (tân ngữ tổng thể) chịu sự điều phối của Động cơ tầng ngoài.</li>
 			
 				</ul>
 			
@@ -248,41 +242,41 @@ export default function LegoAssembly1(): React.JSX.Element {
 
 			<p className="text-indent-whole">Khối này dùng để tô màu, mô tả đặc điểm, tính chất hoặc trạng thái cho một đối tượng hoặc chủ ngữ.</p>
 
-			<p className="margin-top-20 text-indent-whole"><strong>Tính Cơ</strong> (Adjective Base):</p>
+			<p className="margin-top-20 text-indent-whole">Tính Cơ [<strong>Adjective Base</strong>]</p>
 			
 				<ul className="list-square">
 			
 					<li>She has an [amazing] voice.</li>
 					<li className="margin-bottom-20 list-none">Cô ấy có một giọng hát [kinh ngạc].</li>
 
-					<li className="list-none">Hình thái: [amazing] là một Động cơ (Verb Base) ở dạng phân từ -ing.</li>
-					<li className="list-none">Chức năng: Làm <strong>Tính cơ</strong> đứng trước Danh cơ "voice" để bổ nghĩa, làm rõ đặc điểm cho giọng hát đó.</li>
+					<li className="list-none">Hình thái: [amazing] là một Động cơ [<strong>Verb Base</strong>] ở dạng phân từ -ing.</li>
+					<li className="list-none">Chức năng: Làm Tính cơ đứng trước Danh cơ "voice" để bổ nghĩa, làm rõ đặc điểm cho giọng hát đó.</li>
 			
 				</ul>
 			
 			
-			<p className="margin-top-20 text-indent-whole"><strong>Tính Cụm</strong> (Adjective Phrase):</p>
+			<p className="margin-top-20 text-indent-whole">Tính Cụm [<strong>Adjective Phrase</strong>]</p>
 			
 				<ul className="list-square">
 			
 					<li>The man is [working from home].</li>
 					<li className="margin-bottom-20 list-none">Người đàn ông [đang làm việc tại nhà].</li>
 
-					<li className="list-none">Hình thái: [working from home] là một Động cụm (Verb Phrase) bắt đầu bằng Động cơ V-ing.</li>
-					<li className="list-none">Chức năng: Làm <strong>Tính cụm</strong> đóng vai trò làm Bổ ngữ mô tả trực tiếp trạng thái của chủ ngữ "The man".</li>
+					<li className="list-none">Hình thái: [working from home] là một Động cụm [<strong>Verb Phrase</strong>] bắt đầu bằng Động cơ V-ing.</li>
+					<li className="list-none">Chức năng: Làm Tính cụm đóng vai trò làm Bổ ngữ mô tả trực tiếp trạng thái của chủ ngữ "The man".</li>
 			
 				</ul>
 			
 
-			<p className="margin-top-20 text-indent-whole"><strong>Tính Câu</strong> (Adjective Clause):</p>
+			<p className="margin-top-20 text-indent-whole">Tính Câu [<strong>Adjective Clause</strong>]</p>
 			
 				<ul className="list-square">
 			
 					<li>The book [which lies on the table] is mine.</li>
 					<li className="margin-bottom-20 list-none">Cuốn sách [nằm trên bàn] là của tôi.</li>
 
-					<li className="list-none">Hình thái: [which lies on the table] là một Động câu (Verb Clause) tạo thành một câu con phụ thuộc.</li>
-					<li className="list-none">Chức năng: Làm <strong>Tính câu</strong> bổ nghĩa trực tiếp cho Danh cụm "The book" đứng trước nó.</li>
+					<li className="list-none">Hình thái: [which lies on the table] là một Động câu [<strong>Verb Clause</strong>] tạo thành một câu con phụ thuộc.</li>
+					<li className="list-none">Chức năng: Làm Tính câu bổ nghĩa trực tiếp cho Danh cụm "The book" đứng trước nó.</li>
 			
 				</ul>
 			
@@ -341,41 +335,42 @@ export default function LegoAssembly1(): React.JSX.Element {
 
 			<p className="text-indent-whole">Khối này dùng để mở rộng không gian, thời gian, mục đích, cách thức hoặc nguyên nhân cho hành động chính của câu.</p>
 
-			<p className="margin-top-20 text-indent-whole"><strong>Trạng Cơ</strong> (Adverb Base):</p>
+			<p className="margin-top-20 text-indent-whole">Trạng Cơ [<strong>Adverb Base</strong>]</p>
 			
 				<ul className="list-square">
 			
 					<li>He walked [slowly].</li>
 					<li className="margin-bottom-20 list-none">Anh ấy đi bộ [một cách chậm chạp].</li>
 
-					<li className="list-none">Hình thái: [slowly] là một Động cơ (Verb Base) gốc được thêm cấu hình trạng thái (-ly).</li>
-					<li className="list-none">Chức năng: Làm <strong>Trạng cơ</strong> bổ nghĩa cho Động cơ hành động "walked", mô tả cách thức hành động được thực hiện.</li>
+					<li className="list-none">Hình thái: [slowly] là một Động cơ [<strong>Verb Base</strong>] gốc được thêm cấu hình trạng thái (-ly).</li>
+					<li className="list-none">Chức năng: Làm Trạng cơ bổ nghĩa cho Động cơ hành động "walked", mô tả cách thức hành động được thực hiện.</li>
 			
 				</ul>
 
 
-			<p className="margin-top-20 text-indent-whole"><strong>Trạng Cụm</strong> (Adverb Phrase):</p>
+			<p className="margin-top-20 text-indent-whole">Trạng Cụm [<strong>Adverb Phrase</strong>]</p>
 			
 				<ul className="list-square">
 			
 					<li>They study hard [to pass the exam].</li>
 					<li className="margin-bottom-20 list-none">Họ học chăm chỉ [để vượt qua kỳ thi].</li>
 
-					<li className="list-none">Hình thái: [to pass the exam] là một Động cụm (Verb Phrase) bắt đầu bằng dạng nguyên mẫu có to.</li>
-					<li className="list-none">Chức năng: Làm <strong>Trạng cụm</strong> đứng cuối câu để làm rõ mục đích cho hành động trước đó.</li>
+					<li className="list-none">Hình thái: [to pass the exam] là một Động cụm [<strong>Verb Phrase</strong>] bắt đầu bằng dạng nguyên mẫu có to.</li>
+					<li className="list-none">Chức năng: Làm Trạng cụm đứng cuối câu để làm rõ mục đích cho hành động trước đó.</li>
 			
 				</ul>
 			
 					
-			<p className="margin-top-20 text-indent-whole"><strong>Trạng Câu</strong> (Adverb Clause):</p>
+			<p className="margin-top-20 text-indent-whole">Trạng Câu [<strong>Adverb Clause</strong>]</p>
 			
 				<ul className="list-square">
 			
 					<li>I will wait [until you return].</li>
 					<li className="margin-bottom-20 list-none">Tôi sẽ đợi [cho đến khi bạn quay lại].</li>
 
-					<li className="list-none">Hình thái: [until you return] là một Động câu (Verb Clause) chứa kết cấu chủ ngữ - hành động hoàn chỉnh bên trong.</li>
-					<li className="list-none">Chức năng: <strong>Làm Trạng</strong> câu bổ nghĩa cho hành động chính "will wait", mở rộng bối cảnh thời gian.</li>
+					<li className="list-none">Hình thái: [until you return] là một Động câu [<strong>Verb Clause</strong>] chứa kết cấu chủ ngữ - hành động hoàn chỉnh bên trong.</li>
+					<li className="list-none">Chức năng: Làm Trạng câu bổ nghĩa cho hành động chính "will wait", mở rộng bối cảnh thời gian.</li>
+					
 			
 				</ul>
 
