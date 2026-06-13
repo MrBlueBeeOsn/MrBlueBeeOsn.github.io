@@ -71,11 +71,11 @@ export default function NineBox1(): React.JSX.Element {
 			
 					<li>Chiều Ngang — <strong>Chức năng</strong> (Vai trò):</li>
 					<li className="list-none">Trả lời câu hỏi "Thành phần này làm nhiệm vụ gì?"</li>
-					<li className="margin-bottom-20 list-none">→ <strong>Danh</strong> / <strong>Tính</strong> / <strong>Trạng</strong>.</li>
+					<li className="margin-bottom-20 list-none">→ Danh / Tính / Trạng.</li>
 			
 					<li>Chiều Dọc — <strong>Cấp độ</strong> (Quy mô):</li>
 					<li className="list-none">Trả lời câu hỏi "Độ phức tạp và cấu trúc quy mô ra sao?"</li>
-					<li className="list-none">→ Quy tắc 3 chữ C: <strong>Base</strong> (Cơ) → <strong>Phrase</strong> (Cụm) → <strong>Clause</strong> (Câu).</li>
+					<li className="list-none">→ Quy tắc 3 chữ C: [<strong>Base</strong>] Cơ → [<strong>Phrase</strong>] Cụm → [<strong>Clause</strong>] Câu.</li>
 			
 				</ul>
 
@@ -103,59 +103,59 @@ export default function NineBox1(): React.JSX.Element {
 
 			<h4 className="margin-y-40">Cấp độ:</h4>
 	
-			<p className="text-indent-whole"><strong>BASE</strong> (Mức cơ bản)</p>
+			<p className="text-indent-whole">[<strong>BASE</strong>] Mức cơ bản</p>
 			
 				<ul className="list-square">
 
 					<li>[water], [information]</li>
 					<li className="list-none">[nước], [thông tin]</li>
-					<li className="margin-bottom-20 list-none">→ <strong>Danh cơ</strong> (Noun Base)</li>
+					<li className="margin-bottom-20 list-none">→ Danh Cơ [<strong>Noun Base</strong>]</li>
 
 					<li>[accurate], [efficient]</li>
 					<li className="list-none">[chính xác], [hiệu quả]</li>
-					<li className="margin-bottom-20 list-none">→ <strong>Tính cơ</strong> (Adjective Base)</li>
+					<li className="margin-bottom-20 list-none">→ Tính Cơ [<strong>Adjective Base</strong>]</li>
 			
 					<li>[now], [locally]</li>
 					<li className="list-none">[bây giờ], [cục bộ / tại địa phương]</li>
-					<li className="list-none">→ <strong>Trạng cơ</strong> (Adverb Base)</li>
+					<li className="list-none">→ Trạng Cơ [<strong>Adverb Base</strong>]</li>
 			
 				</ul>
 			
 			
-			<p className="margin-top-20 text-indent-whole"><strong>PHRASE</strong> (Khối cụm)</p>
+			<p className="margin-top-20 text-indent-whole">[<strong>PHRASE</strong>] Khối cụm</p>
 			
 				<ul className="list-square">
 
 					<li>[a new financial report]</li>
 					<li className="list-none">[một báo cáo tài chính mới]</li>
-					<li className="margin-bottom-20 list-none">→ <strong>Danh cụm</strong> (Noun Phrase)</li>
+					<li className="margin-bottom-20 list-none">→ Danh Cụm [<strong>Noun Phrase</strong>]</li>
 
 					<li>[extremely detailed]</li>
 					<li className="list-none">[cực kỳ chi tiết]</li>
-					<li className="margin-bottom-20 list-none">→ <strong>Tính cụm</strong> (Adjective Phrase)</li>
+					<li className="margin-bottom-20 list-none">→ Tính Cụm [<strong>Adjective Phrase</strong>]</li>
 			
 					<li>[in the accounting software]</li>
 					<li className="list-none">[trong phần mềm kế toán]</li>
-					<li className="list-none">→ <strong>Trạng cụm</strong> (Adverb Phrase)</li>
+					<li className="list-none">→ Trạng Cụm [<strong>Adverb Phrase</strong>]</li>
 			
 				</ul>
 			
 			
-			<p className="margin-top-20 text-indent-whole"><strong>CLAUSE</strong> (Khối câu con)</p>
+			<p className="margin-top-20 text-indent-whole">[<strong>CLAUSE</strong>] Khối câu con</p>
 			
 				<ul className="list-square">
 
 					<li>[what the manager requested]</li>
 					<li className="list-none">[những gì người quản lý yêu cầu]</li>
-					<li className="margin-bottom-20 list-none">→ <strong>Danh câu</strong> (Noun Clause)</li>
+					<li className="margin-bottom-20 list-none">→ Danh Câu [<strong>Noun Clause</strong>]</li>
 			
 					<li>[that standardizes the process]</li>
 					<li className="list-none">[mà tiêu chuẩn hóa quy trình]</li>
-					<li className="margin-bottom-20 list-none">→ <strong>Tính câu</strong> (Adjective Clause)</li>
+					<li className="margin-bottom-20 list-none">→ Tính Câu [<strong>Adjective Clause</strong>]</li>
 
 					<li>[because the system crashed]</li>
 					<li className="list-none">[bởi vì hệ thống bị treo/sập]</li>
-					<li className="margin-bottom-20 list-none">→ <strong>Trạng câu</strong> (Adverb Clause)</li>
+					<li className="margin-bottom-20 list-none">→ Trạng Câu [<strong>Adverb Clause</strong>]</li>
 			
 				</ul>
 
@@ -170,18 +170,18 @@ export default function NineBox1(): React.JSX.Element {
 			<p>Khi tiếp cận một câu, người học chỉ nhìn thấy <strong>Hình thái</strong> của hành động ở các cấp độ quy mô:</p>
 
 
-			<p className="margin-y-30"><strong>Động cơ</strong> (Verb Base), <strong>Động cụm</strong> (Verb Phrase), hoặc <strong>Động câu</strong> (Verb Clause).</p>
+			<p className="margin-y-30">Động Cơ [<strong>Verb Base</strong>], Động Cụm [<strong>Verb Phrase</strong>], hoặc Động Câu [<strong>Verb Clause</strong>].</p>
 
 
 			<p>Chúng ta chưa hề biết chức năng của nó là gì. Chỉ khi đặt khối hình thái đó vào một vị trí cụ thể trong câu lớn, <strong>Chức năng</strong> (Danh / Tính / Trạng) của nó mới được kích hoạt và hiển thị.</p>
 
 
-			<h4 className="margin-y-40">3.1. Hình thái cấp độ BASE: ĐỘNG CƠ (Verb Base)</h4>
+			<h4 className="margin-y-40">3.1. Hình thái cấp độ BASE: ĐỘNG CƠ [Verb Base]</h4>
 
 			<p className="text-indent-whole">Là đơn vị hành động nhỏ nhất (chỉ gồm 1 từ). Khi đứng vào các vị trí khác nhau, nó sẽ hình thành nên các chức năng tương ứng:</p>
 
 					
-			<p className="margin-top-20 text-indent-whole">Hình thành Chức năng <strong>Danh cơ</strong>:</p>
+			<p className="margin-top-20 text-indent-whole">Hình thành Chức năng Danh Cơ [<strong>Noun Base</strong>]:</p>
 			
 				<ul className="list-square">
 			
@@ -193,7 +193,7 @@ export default function NineBox1(): React.JSX.Element {
 				</ul>
 			
 			
-			<p className="margin-top-20 text-indent-whole">Hình thành Chức năng <strong>Tính cơ</strong>:</p>
+			<p className="margin-top-20 text-indent-whole">Hình thành Chức năng Tính Cơ [<strong>Adjective Base</strong>]:</p>
 
 				<ul className="list-square">
 			
@@ -205,7 +205,7 @@ export default function NineBox1(): React.JSX.Element {
 				</ul>
 			
 			
-			<p className="margin-top-20 text-indent-whole">Hình thành Chức năng <strong>Trạng cơ</strong> (Gốc động cơ + ly):</p>
+			<p className="margin-top-20 text-indent-whole">Hình thành Chức năng Trạng Cơ [<strong>Adverb Base</strong>] (Gốc động cơ + ly):</p>
 			
 				<ul className="list-square">
 			
@@ -223,7 +223,7 @@ export default function NineBox1(): React.JSX.Element {
 			<p className="text-indent-whole">Là đơn vị hành động chứa nhiều từ tạo thành một khối liên kết (không chứa cấu trúc chủ-vị riêng). Khi đứng vào câu, khối hình thái này sẽ hình thành nên các chức năng:</p>
 
 					
-			<p className="margin-top-20 text-indent-whole">Hình thành Chức năng <strong>Danh cụm</strong>:</p>
+			<p className="margin-top-20 text-indent-whole">Hình thành Chức năng Danh Cụm [<strong>Noun Phrase</strong>]:</p>
 			
 				<ul className="list-square">
 			
@@ -235,7 +235,7 @@ export default function NineBox1(): React.JSX.Element {
 				</ul>
 			
 			
-			<p className="margin-top-20 text-indent-whole">Hình thành Chức năng <strong>Tính cụm</strong>:</p>
+			<p className="margin-top-20 text-indent-whole">Hình thành Chức năng Tính Cụm [<strong>Adjective Phrase</strong>]:</p>
 			
 				<ul className="list-square">
 			
@@ -247,7 +247,7 @@ export default function NineBox1(): React.JSX.Element {
 				</ul>
 			
 			
-			<p className="margin-top-20 text-indent-whole">Hình thành Chức năng <strong>Trạng cụm</strong>:</p>
+			<p className="margin-top-20 text-indent-whole">Hình thành Chức năng Trạng Cụm [<strong>Adverb Phrase</strong>]:</p>
 			
 				<ul className="list-square">
 			
@@ -259,12 +259,12 @@ export default function NineBox1(): React.JSX.Element {
 				</ul>
 
 
-			<h4 className="margin-y-40">3.3. Hình thái cấp độ CLAUSE: ĐỘNG CÂU (Verb Clause)</h4>
+			<h4 className="margin-y-40">3.3. Hình thái cấp độ CLAUSE: ĐỘNG CÂU [Verb Clause]</h4>
 
 			<p className="text-indent-whole">Là đơn vị hành động mở rộng ở quy mô lớn nhất, chứa một cấu trúc câu con bên trong nó. Khi được "gắn" vào hệ thống, khối hình thái này sẽ hình thành nên các chức năng dữ liệu phức hợp:</p>
 
 					
-			<p className="margin-top-20 text-indent-whole">Hình thành Chức năng <strong>Danh câu</strong>:</p>
+			<p className="margin-top-20 text-indent-whole">Hình thành Chức năng Danh Câu [<strong>Noun Clause</strong>]:</p>
 			
 				<ul className="list-square">
 			
@@ -276,7 +276,7 @@ export default function NineBox1(): React.JSX.Element {
 				</ul>
 			
 			
-			<p className="margin-top-20 text-indent-whole">Hình thành Chức năng <strong>Tính câu</strong>:</p>
+			<p className="margin-top-20 text-indent-whole">Hình thành Chức năng Tính Câu [<strong>Adjective Clause</strong>]:</p>
 
 				<ul className="list-square">
 			
@@ -288,7 +288,7 @@ export default function NineBox1(): React.JSX.Element {
 				</ul>
 			
 			
-			<p className="margin-top-20 text-indent-whole">Hình thành Chức năng <strong>Trạng câu</strong>:</p>
+			<p className="margin-top-20 text-indent-whole">Hình thành Chức năng Trạng Câu [<strong>Adverb Clause</strong>]:</p>
 			
 				<ul className="list-square">
 			
@@ -310,19 +310,19 @@ export default function NineBox1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li className="margin-bottom-20"><strong>Động cơ</strong> (Verb Base)</li>
-					<li className="list-none">Cấp độ: Base</li>
-					<li className="list-none">Chức năng hình thành (Theo vị trí): <strong>Danh cơ</strong> / <strong>Tính cơ</strong> / <strong>Trạng cơ</strong></li>
+					<li className="margin-bottom-20">Động Cơ [<strong>Verb Base</strong>]</li>
+					<li className="list-none">Cấp độ: [<strong>Base</strong>]</li>
+					<li className="list-none">Chức năng hình thành (Theo vị trí): Danh cơ / Tính cơ / Trạng cơ</li>
 					<li className="margin-bottom-20 list-none">Vai trò trong hệ thống: Hạt nhân đơn lẻ (1 từ).</li>
 			
-					<li className="margin-bottom-20"><strong>Động cụm</strong> (Verb Phrase)</li>
-					<li className="list-none">Cấp độ: Phrase</li>
-					<li className="list-none">Chức năng hình thành (Theo vị trí): <strong>Danh cụm</strong> / <strong>Tính cụm</strong> / <strong>Trạng cụm</strong></li>
+					<li className="margin-bottom-20">Động Cụm [<strong>Verb Phrase</strong>]</li>
+					<li className="list-none">Cấp độ: [<strong>Phrase</strong>]</li>
+					<li className="list-none">Chức năng hình thành (Theo vị trí): Danh cụm / Tính cụm / Trạng cụm</li>
 					<li className="margin-bottom-20 list-none">Vai trò trong hệ thống: Module thực thi trung gian (Nhiều từ).</li>
 			
-					<li className="margin-bottom-20"><strong>Động câu</strong> (Verb Clause)</li>
-					<li className="list-none">Cấp độ: Clause</li>
-					<li className="list-none">Chức năng hình thành (Theo vị trí): <strong>Danh câu</strong> / <strong>Tính câu</strong> / <strong>Trạng câu</strong></li>
+					<li className="margin-bottom-20">Động Câu [<strong>Verb Clause</strong>]</li>
+					<li className="list-none">Cấp độ: [<strong>Clause</strong>]</li>
+					<li className="list-none">Chức năng hình thành (Theo vị trí): Danh câu / Tính câu / Trạng câu</li>
 					<li className="list-none">Vai trò trong hệ thống: Module thực thi chứa câu con bên trong.</li>
 			
 				</ul>
@@ -345,11 +345,11 @@ export default function NineBox1(): React.JSX.Element {
 					<li>The analyst [expects {'{that the revenue will drop}'}].</li>
 					<li className="margin-bottom-20 list-none">Nhà phân tích [kỳ vọng {'{rằng doanh thu sẽ giảm}'}].</li>
 
-					<li className="list-none">{'{that the revenue will drop}'}: Hình thái Động câu (Verb Clause)</li>
-					<li className="margin-bottom-20 list-none">→ Hoạt động với Chức năng: <strong>Danh câu</strong> (Noun Clause) vì làm đối tượng trực tiếp đứng sau.</li>
+					<li className="list-none">{'{that the revenue will drop}'}: Hình thái Động Câu [<strong>Verb Clause</strong>]</li>
+					<li className="margin-bottom-20 list-none">→ Hoạt động với Chức năng: Danh Câu [<strong>Noun Clause</strong>] vì làm đối tượng trực tiếp đứng sau.</li>
 			
-					<li className="list-none">[expects {'{that the revenue will drop}'}]: Toàn bộ khối bao gồm cả động cơ chính expects phối hợp với khối dữ liệu phía sau tạo thành hình thái Động cụm (Verb Phrase)</li>
-					<li className="list-none">→ Hoạt động với Chức năng: <strong>Danh cụm</strong> (Noun Phrase) lớn điều phối hành động của chủ thể.</li>
+					<li className="list-none">[expects {'{that the revenue will drop}'}]: Toàn bộ khối bao gồm cả động cơ chính expects phối hợp với khối dữ liệu phía sau tạo thành hình thái Động Cụm [<strong>Verb Phrase</strong>]</li>
+					<li className="list-none">→ Hoạt động với Chức năng: Danh Cụm [<strong>Noun Phrase</strong>] lớn điều phối hành động của chủ thể.</li>
 			
 				</ul>
 	
@@ -362,7 +362,7 @@ export default function NineBox1(): React.JSX.Element {
 					<li className="margin-bottom-20 list-none">Dùng để bao quanh Động cơ chính hoặc toàn bộ cụm/câu con để não bộ phân định rõ ranh giới xử lý của trình biên dịch thông tin.</li>
 			
 					<li><strong>Dữ liệu nội bộ</strong>:</li>
-					<li className="list-none">Các yếu tố cấu hình như s/es, ed, ing nằm bên trong dấu nhãn chính là cài đặt thông số hiển thị của hành động, không làm thay đổi bản chất của Cấp độ hay Chức năng mà khối đó đang đảm nhiệm.</li>
+					<li className="list-none">Các yếu tố cấu hình như <strong>s</strong>/<strong>es</strong>, <strong>ed</strong>, <strong>ing</strong> nằm bên trong dấu nhãn chính là cài đặt thông số hiển thị của hành động, không làm thay đổi bản chất của Cấp độ hay Chức năng mà khối đó đang đảm nhiệm.</li>
 			
 				</ol>
 			
@@ -374,61 +374,61 @@ export default function NineBox1(): React.JSX.Element {
 
 			<p>Bản chất của Paraphrasing chuyên nghiệp không phải là tìm từ đồng nghĩa một cách mù quáng, mà là tịnh tiến quy mô dữ liệu theo chiều dọc (<strong>Base</strong> → <strong>Phrase</strong> → <strong>Clause</strong>) trong khi vẫn giữ cố định vị trí chức năng trên chiều ngang của hệ tọa độ.</p>
 					
-			<p className="text-indent-whole"><strong>Nhóm 1</strong>: Tịnh tiến ô chức năng <strong>DANH</strong> (Đối tượng)</p>
+			<p className="text-indent-whole"><strong>Nhóm 1</strong>: Tịnh tiến ô chức năng DANH [<strong>NOUN</strong>] (Đối tượng)</p>
 
 				<ul className="list-square">
 			
 					<li>[Automation] increases workflow efficiency.</li>
 					<li className="list-none">[Tự động hóa] giúp tăng hiệu suất quy trình.</li>
-					<li className="margin-bottom-20 list-none">→ <strong>Danh cơ</strong> (Noun Base)</li>
+					<li className="margin-bottom-20 list-none">→ Danh Cơ [<strong>Noun Base</strong>]</li>
 					
 					<li>[The deployment of new software tools] increases workflow efficiency.</li>
 					<li className="list-none">[Việc triển khai các công cụ phần mềm mới] giúp tăng hiệu suất quy trình.</li>
-					<li className="margin-bottom-20 list-none">→ <strong>Danh cụm</strong> (Noun Phrase)</li>
+					<li className="margin-bottom-20 list-none">→ Danh Cụm [<strong>Noun Phrase</strong>]</li>
 			
 					<li>[What the engineering team implemented yesterday] increases workflow efficiency.</li>
 					<li className="list-none">[Những gì đội ngũ kỹ sư triển khai ngày hôm qua] giúp tăng hiệu suất quy trình.</li>
-					<li className="list-none">→ <strong>Danh câu</strong> (Noun Clause)</li>
+					<li className="list-none">→ Danh Câu [<strong>Noun Clause</strong>]</li>
 			
 				</ul>
 
 
 			
-			<p className="margin-top-20 text-indent-whole"><strong>Nhóm 2</strong>: Biến đổi ô chức năng <strong>TÍNH</strong> (Thuộc tính)</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Nhóm 2</strong>: Biến đổi ô chức năng TÍNH [<strong>ADJECTIVE</strong>] (Thuộc tính)</p>
 			
 				<ul className="list-square">
 
 					<li>We must replace this [unsecured] connection.</li>
 					<li className="list-none">Chúng ta phải thay thế kết nối [không an toàn] này</li>
-					<li className="margin-bottom-20 list-none">→ <strong>Tính cơ</strong> (Adjective Base)</li>
+					<li className="margin-bottom-20 list-none">→ Tính Cơ [<strong>Adjective Base</strong>]</li>
 
 					<li>We must replace this connection [vulnerable to cyber threats].</li>
 					<li className="list-none">Chúng ta phải thay thế kết nối [dễ bị tổn hại bởi các mối đe dọa mạng] này.</li>
-					<li className="margin-bottom-20 list-none">→ <strong>Tính cụm</strong> (Adjective Phrase)</li>
+					<li className="margin-bottom-20 list-none">→ Tính Cụm [<strong>Adjective Phrase</strong>]</li>
 			
 					<li>We must replace this connection [which allows unauthorized user access].</li>
 					<li className="list-none">Chúng ta phải thay thế kết nối [mà nó cho phép người dùng không được cấp quyền truy cập vào].</li>
-					<li className="list-none">→ <strong>Tính câu</strong> (Adjective Clause)</li>
+					<li className="list-none">→ Tính Câu [<strong>Adjective Clause</strong>]</li>
 			
 				</ul>
 			
 
 			
-			<p className="margin-top-20 text-indent-whole"><strong>Nhóm 3</strong>: Tịnh tiến ô chức năng <strong>TRẠNG</strong> (Bối cảnh)</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Nhóm 3</strong>: Tịnh tiến ô chức năng TRẠNG [<strong>ADVERB</strong>] (Bối cảnh)</p>
 			
 				<ul className="list-square">
 
 					<li>The server updates [automatically].</li>
 					<li className="list-none">Máy chủ cập nhật [một cách tự động].</li>
-					<li className="margin-bottom-20 list-none">→ <strong>Trạng cơ</strong> (Adverb Base)</li>
+					<li className="margin-bottom-20 list-none">→ Trạng Cơ [<strong>Adverb Base</strong>]</li>
 			
 					<li>The server updates [without any human intervention].</li>
 					<li className="list-none">Máy chủ cập nhật [mà không cần bất kỳ sự can thiệp nào của con người].</li>
-					<li className="margin-bottom-20 list-none">→ <strong>Trạng cụm</strong> (Adverb Phrase)</li>
+					<li className="margin-bottom-20 list-none">→ Trạng Cụm [<strong>Adverb Phrase</strong>]</li>
 					
 					<li>The server updates [whenever a new security patch publishes].</li>
 					<li className="list-none">Máy chủ cập nhật [bất cứ khi nào một bản vá bảo mật mới được phát hành].</li>
-					<li className="list-none">→ <strong>Trạng câu</strong> (Adverb Clause)</li>
+					<li className="list-none">→ Trạng Câu [<strong>Adverb Clause</strong>]</li>
 			
 				</ul>
 			
@@ -437,7 +437,7 @@ export default function NineBox1(): React.JSX.Element {
 
 			<h3 className="margin-y-50 text-center">Lời Kết</h3>
 
-			<p>Sự đồng bộ giữa hai trục Chức năng (Danh - Tính - Trạng) và Cấp độ (Base - Phrase - Clause) tạo ra một bộ lọc ngôn ngữ cực kỳ tinh gọn.</p>
+			<p>Sự đồng bộ giữa hai trục Chức năng (Danh - Tính - Trạng) và Cấp độ [<strong>Base</strong> - <strong>Phrase</strong> - <strong>Clause</strong>] tạo ra một bộ lọc ngôn ngữ cực kỳ tinh gọn.</p>
 
 			<p>Khi bạn chuyển đổi cách nhìn từ việc đoán nghĩa từ vựng sang việc bóc tách Hình thái trước rồi định hình Chức năng dựa trên vị trí, bạn đã chính thức làm chủ mã nguồn của tiếng Anh.</p>
 			
