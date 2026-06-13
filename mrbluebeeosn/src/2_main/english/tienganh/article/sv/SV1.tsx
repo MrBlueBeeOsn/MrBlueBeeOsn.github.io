@@ -285,7 +285,7 @@ export default function SV1(): React.JSX.Element {
 			<p className="text-indent-whole"><strong>Ký hiệu quy ước</strong>: Sử dụng dấu vuông [] bao quanh.</p>
 
 
-			<p className="margin-top-20 text-indent-whole">Chức năng Danh Cơ [<strong>Noun Base</strong>]</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Chức năng Danh Cơ</strong> [<strong>Noun Base</strong>]</p>
 
 				<ul className="list-square">
 
@@ -295,7 +295,7 @@ export default function SV1(): React.JSX.Element {
 			
 				</ul>
 
-			<p className="margin-top-20 text-indent-whole">Chức năng Tính Cơ [<strong>Adjective Base</strong>]</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Chức năng Tính Cơ</strong> [<strong>Adjective Base</strong>]</p>
 
 				<ul className="list-square">
 
@@ -305,7 +305,7 @@ export default function SV1(): React.JSX.Element {
 			
 				</ul>
 
-			<p className="margin-top-20 text-indent-whole">Chức năng Trạng Cơ [<strong>Adverb Base</strong>] - Quy ước: Hình thành từ gốc động cơ + đuôi ly</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Chức năng Trạng Cơ</strong> [<strong>Adverb Base</strong>] - Quy ước: Hình thành từ gốc động cơ + đuôi ly</p>
 
 				<ul className="list-square">
 			
@@ -323,7 +323,7 @@ export default function SV1(): React.JSX.Element {
 			<p className="text-indent-whole"><strong>Ký hiệu quy ước</strong>: Sử dụng dấu vuông [] cho tầng ngoài và dấu ngoặc nhọn {'{}'} cho <strong>tầng lồng</strong> bên trong.</p>
 
 
-			<p className="margin-top-20 text-indent-whole">Chức năng Danh Cụm [<strong>Noun Phrase</strong>]</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Chức năng Danh Cụm</strong> [<strong>Noun Phrase</strong>]</p>
 
 				<ul className="list-square">
 
@@ -333,7 +333,7 @@ export default function SV1(): React.JSX.Element {
 			
 				</ul>
 
-			<p className="margin-top-20 text-indent-whole">Chức năng Tính Cụm [<strong>Adjective Phrase</strong>]</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Chức năng Tính Cụm</strong> [<strong>Adjective Phrase</strong>]</p>
 
 				<ul className="list-square">
 
@@ -343,7 +343,7 @@ export default function SV1(): React.JSX.Element {
 			
 				</ul>
 
-			<p className="margin-top-20 text-indent-whole">Chức năng Trạng Cụm [<strong>Adverb Phrase</strong>]</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Chức năng Trạng Cụm</strong> [<strong>Adverb Phrase</strong>]</p>
 					
 				<ul className="list-square">
 			
@@ -361,7 +361,7 @@ export default function SV1(): React.JSX.Element {
 			<p className="text-indent-whole"><strong>Ký hiệu quy ước</strong>: Dấu [] xác định ranh giới bao quanh toàn bộ hệ thống Câu con này.</p>
 
 
-			<p className="margin-top-20 text-indent-whole">Chức năng Danh Câu [<strong>Noun Clause</strong>]</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Chức năng Danh Câu</strong> [<strong>Noun Clause</strong>]</p>
 
 				<ul className="list-square">
 
@@ -372,7 +372,7 @@ export default function SV1(): React.JSX.Element {
 				</ul>
 			
 
-			<p className="margin-top-20 text-indent-whole">Chức năng Tính Câu [<strong>Adjective Clause</strong>]</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Chức năng Tính Câu</strong> [<strong>Adjective Clause</strong>]</p>
 
 				<ul className="list-square">
 
@@ -383,7 +383,7 @@ export default function SV1(): React.JSX.Element {
 				</ul>
 
 
-			<p className="margin-top-20 text-indent-whole">Chức năng Trạng Câu [<strong>Adverb Clause</strong>]</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Chức năng Trạng Câu</strong> [<strong>Adverb Clause</strong>]</p>
 			
 				<ul className="list-square">
 			
@@ -427,12 +427,14 @@ export default function SV1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li value="1">{'{what you teach him}'}: Người học nhìn thấy cấu trúc chứa hệ trục S+V (you + teach)</li>
-					<li className="margin-bottom-20 list-none">Nhận diện ngay hình thái Động Câu [<strong>Verb Clause</strong>].</li>
+					<li value="1">{'{what you teach him}'}</li>
+					<li className="list-none">Người học nhìn thấy cấu trúc chứa hệ trục S+V (you + teach)</li>
+					<li className="list-none">Nhận diện ngay hình thái Động Câu [<strong>Verb Clause</strong>].</li>
 					<li className="margin-bottom-20 list-none">→ Vì nó đứng sau làm đối tượng chịu tác động của hành động "learns", nên nó kích hoạt Chức năng: Danh Câu [<strong>Noun Clause</strong>].</li>
 			
-					<li value="2">[learns {'{what you teach him}'}]: Là một khối Động Cụm [<strong>Verb Phrase</strong>] lớn bao trọn lấy động cơ chính "learns" phối hợp cùng phần module phụ thuộc phía sau.</li>
-					<li className="margin-bottom-20 list-none">Khối này nằm ngay sau chủ thể "He" để thực thi toàn bộ phần vị ngữ</li>
+					<li value="2">[learns {'{what you teach him}'}] </li>
+					<li className="list-none">Là một khối Động Cụm [<strong>Verb Phrase</strong>] lớn bao trọn lấy động cơ chính "learns" phối hợp cùng phần module phụ thuộc phía sau.</li>
+					<li className="list-none">Khối này nằm ngay sau chủ thể "He" để thực thi toàn bộ phần vị ngữ</li>
 					<li className="list-none">→ Do đó nó đóng vai trò kích hoạt Chức năng: Danh Cụm [<strong>Noun Phrase</strong>] cho toàn bộ phần hành động của Câu lớn.</li>
 			
 				</ul>
@@ -444,21 +446,21 @@ export default function SV1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li className="margin-bottom-20">Động Cơ [<strong>Verb Base</strong>]</li>
+					<li>Động Cơ [<strong>Verb Base</strong>]</li>
 					<li className="list-none">Ký hiệu: [Từ]</li>
 					<li className="list-none">Cấp độ: [<strong>Base</strong>] Cơ bản</li>
 					<li className="list-none">Chức năng kích hoạt - Chiều Ngang:</li>
 					<li className="margin-bottom-20 list-none">Danh Cơ [<strong>Noun Base</strong>] / Tính Cơ [<strong>Adjective Base</strong>] / Trạng Cơ [<strong>Adverb Base</strong>]</li>
 					
 			
-					<li className="margin-bottom-20">Động Cụm [<strong>Verb Phrase</strong>]</li>
+					<li>Động Cụm [<strong>Verb Phrase</strong>]</li>
 					<li className="list-none">Ký hiệu: [Cụm từ]</li>
 					<li className="list-none">Cấp độ: [<strong>Phrase</strong>] Cụm</li>
 					<li className="list-none">Chức năng kích hoạt - Chiều Ngang:</li>
 					<li className="margin-bottom-20 list-none">Danh Cụm [<strong>Noun Phrase</strong>] / Tính Cụm [<strong>Adjective Phrase</strong>] / Trạng Cụm [<strong>Adverb Phrase</strong>]</li>
 					
 			
-					<li className="margin-bottom-20">Động Câu [<strong>Verb Clause</strong>]</li>
+					<li>Động Câu [<strong>Verb Clause</strong>]</li>
 					<li className="list-none">Ký hiệu: [Hệ S+V]</li>
 					<li className="list-none">Cấp độ: [<strong>Clause</strong>] Câu</li>
 					<li className="list-none">Chức năng kích hoạt - Chiều Ngang:</li>

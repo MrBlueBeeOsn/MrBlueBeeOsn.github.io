@@ -92,17 +92,17 @@ export default function NestedStructure1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li className="margin-bottom-20">Động cơ (<strong>Verb Base</strong>)</li>
+					<li>Động cơ (<strong>Verb Base</strong>)</li>
 					<li className="list-none">Cấp độ (<strong>Level</strong>): Hạt nhân (<strong>Base</strong>)</li>
 					<li className="list-none">Chức năng đầu ra (Software): Danh cơ / Tính cơ / Trạng cơ</li>
 					<li className="margin-bottom-20 list-none">Thuật ngữ Quốc tế: <strong>Noun</strong> / <strong>Adj</strong> / <strong>Adv Base</strong></li>
 			
-					<li className="margin-bottom-20">Động cụm (<strong>Verb Phrase</strong>)</li>
+					<li>Động cụm (<strong>Verb Phrase</strong>)</li>
 					<li className="list-none">Cấp độ (<strong>Level</strong>): Cụm mở rộng (<strong>Phrase</strong>)</li>
 					<li className="list-none">Chức năng đầu ra (Software): Danh cụm / Tính cụm / Trạng cụm</li>
 					<li className="margin-bottom-20 list-none">Thuật ngữ Quốc tế: <strong>Noun</strong> / <strong>Adj</strong> / <strong>Adv Phrase</strong></li>
 			
-					<li className="margin-bottom-20">Động câu (<strong>Verb Clause</strong>)</li>
+					<li>Động câu (<strong>Verb Clause</strong>)</li>
 					<li className="list-none">Cấp độ (<strong>Level</strong>): Khối cao cấp (<strong>Clause</strong>)</li>
 					<li className="list-none">Chức năng đầu ra (Software): Danh câu / Tính câu / Trạng câu</li>
 					<li className="list-none">Thuật ngữ Quốc tế: <strong>Noun</strong> / <strong>Adj</strong> / <strong>Adv Clause</strong></li>
@@ -171,7 +171,7 @@ export default function NestedStructure1(): React.JSX.Element {
 			<p className="text-indent-whole">Khi đặt vào câu, chính hình thái Động cơ này sẽ hình thành nên <strong>3 loại chức năng</strong> độc lập:</p>
 
 					
-			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 1</strong>: Hình thành chức năng Danh cơ [<strong>Noun Base</strong>]</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 1</strong>: <strong>Hình thành chức năng Danh cơ</strong> [<strong>Noun Base</strong>]</p>
 			
 				<ul className="list-square">
 			
@@ -184,7 +184,7 @@ export default function NestedStructure1(): React.JSX.Element {
 				</ul>
 			
 			
-			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 2</strong>: Hình thành chức năng Tính cơ [<strong>Adjective Base</strong>]</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 2</strong>: <strong>Hình thành chức năng Tính cơ</strong> [<strong>Adjective Base</strong>]</p>
 
 				<ul className="list-square">
 			
@@ -197,7 +197,7 @@ export default function NestedStructure1(): React.JSX.Element {
 				</ul>
 			
 			
-			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 3</strong>: Hình thành chức năng Trạng cơ [<strong>Adverb Base</strong>]</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 3</strong>: <strong>Hình thành chức năng Trạng cơ</strong> [<strong>Adverb Base</strong>]</p>
 			
 				<ul className="list-square">
 			
@@ -217,7 +217,7 @@ export default function NestedStructure1(): React.JSX.Element {
 
 			<p className="text-indent-whole">Khối hình thái này sẽ hình thành và vận hành <strong>3 chương trình chức năng</strong>:</p>
 					
-			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 4</strong>: Hình thành chức năng Danh cụm [<strong>Noun Phrase</strong>]</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 4</strong>: <strong>Hình thành chức năng Danh cụm</strong> [<strong>Noun Phrase</strong>]</p>
 			
 				<ul className="list-square">
 			
@@ -230,7 +230,7 @@ export default function NestedStructure1(): React.JSX.Element {
 				</ul>
 			
 			
-			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 5</strong>: Hình thành chức năng Tính cụm [<strong>Adjective Phrase</strong>]</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 5</strong>: <strong>Hình thành chức năng Tính cụm</strong> [<strong>Adjective Phrase</strong>]</p>
 			
 				<ul className="list-square">
 			
@@ -243,7 +243,7 @@ export default function NestedStructure1(): React.JSX.Element {
 				</ul>
 			
 			
-			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 6</strong>: Hình thành chức năng Trạng cụm [<strong>Adverb Phrase</strong>]</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 6</strong>: <strong>Hình thành chức năng Trạng cụm</strong> [<strong>Adverb Phrase</strong>]</p>
 			
 				<ul className="list-square">
 			
@@ -273,12 +273,12 @@ export default function NestedStructure1(): React.JSX.Element {
 					<li value="1">Tầng 1 (Cấp tổng thể - [...]):</li>
 					<li className="list-none">Khối [discuss {'{how we can solve this problem}'}] bắt đầu ngay từ động cơ chính discuss.</li>
 					<li className="list-none">Khối này có <strong>Hình thái</strong> là Động cụm [<strong>Verb Phrase</strong>]</li>
-					<li className="margin-bottom-20 list-none">Xuất ra <strong>Chức năng</strong> là Danh cụm lớn [<strong>Noun Phrase</strong>] đóng vai trò tân ngữ cho chủ ngữ We.</li>
+					<li className="margin-bottom-20 list-none">→ Xuất ra <strong>Chức năng</strong> là Danh cụm lớn [<strong>Noun Phrase</strong>] đóng vai trò tân ngữ cho chủ ngữ We.</li>
 			
 					<li value="2">Tầng 2 (Cấp thành phần - {'{...}'}):</li>
 					<li className="list-none">Khối mã {'{how we can solve this problem}'} nằm gọn bên trong</li>
 					<li className="list-none">Có <strong>Hình thái</strong> là Động câu [<strong>Verb Clause</strong>] - chứa câu con đầy đủ gồm chủ ngữ riêng we và động cơ riêng solve.</li>
-					<li className="list-none">Khối này thực thi <strong>Chức năng</strong> là Danh câu [<strong>Noun Clause</strong>] — đóng vai trò là "tham số đối tượng/nội dung thảo luận" đầu vào nạp cho động cơ chính.</li>
+					<li className="list-none">→ Khối này thực thi <strong>Chức năng</strong> là Danh câu [<strong>Noun Clause</strong>] — đóng vai trò là "tham số đối tượng/nội dung thảo luận" đầu vào nạp cho động cơ chính.</li>
 			
 				</ol>
 
@@ -290,7 +290,7 @@ export default function NestedStructure1(): React.JSX.Element {
 
 			<p>Từ hình thái này, hệ thống sẽ cho ra <strong>3 chức năng</strong> đầu ra tương ứng:</p>
 
-			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 8</strong>: Hình thành chức năng Danh câu [<strong>Noun Clause</strong>]</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 8</strong>: <strong>Hình thành chức năng Danh câu</strong> [<strong>Noun Clause</strong>]</p>
 			
 				<ul className="list-square">
 			
@@ -303,7 +303,7 @@ export default function NestedStructure1(): React.JSX.Element {
 				</ul>
 			
 			
-			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 9</strong>: Hình thành chức năng Tính câu [<strong>Adjective Clause</strong>]</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 9</strong>: <strong>Hình thành chức năng Tính câu</strong> [<strong>Adjective Clause</strong>]</p>
 
 				<ul className="list-square">
 			
@@ -316,7 +316,7 @@ export default function NestedStructure1(): React.JSX.Element {
 				</ul>
 			
 			
-			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 10</strong>: Hình thành chức năng Trạng câu [<strong>Adverb Clause</strong>]</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 10</strong>: <strong>Hình thành chức năng Trạng câu</strong> [<strong>Adverb Clause</strong>]</p>
 			
 				<ul className="list-square">
 			

@@ -95,19 +95,19 @@ export default function ThreeDC1(): React.ReactElement {
 			
 				<ul className="list-square">
 			
-					<li className="margin-bottom-20">ĐỘNG CƠ [<strong>Verb Base</strong>]</li>
+					<li>ĐỘNG CƠ [<strong>Verb Base</strong>]</li>
 					<li className="list-none">Chức năng:</li>
 					<li className="list-none">DANH [<strong>Noun</strong>] - Danh cơ [<strong>Noun Base</strong>]</li>
 					<li className="list-none">TÍNH [<strong>Adjective</strong>] - Tính cơ [<strong>Adjective Base</strong>]</li>
 					<li className="margin-bottom-20 list-none">TRẠNG [<strong>Adverb</strong>] - Trạng cơ [<strong>Adverb Base</strong>]</li>
 			
-					<li className="margin-bottom-20">ĐỘNG CỤM [<strong>Verb Phrase</strong>]</li>
+					<li>ĐỘNG CỤM [<strong>Verb Phrase</strong>]</li>
 					<li className="list-none">Chức năng:</li>
 					<li className="list-none">DANH [<strong>Noun</strong>] - Danh cụm [<strong>Noun Phrase</strong>]</li>
 					<li className="list-none">TÍNH [<strong>Adjective</strong>] - Tính cụm [<strong>Adjective Phrase</strong>]</li>
 					<li className="margin-bottom-20 list-none">TRẠNG [<strong>Adverb</strong>] - Trạng cụm [<strong>Adverb Phrase</strong>]</li>
 			
-					<li className="margin-bottom-20">ĐỘNG CÂU [<strong>Verb Clause</strong>]</li>
+					<li>ĐỘNG CÂU [<strong>Verb Clause</strong>]</li>
 					<li className="list-none">Chức năng:</li>
 					<li className="list-none">DANH [<strong>Noun</strong>] - Danh câu [<strong>Noun Clause</strong>]</li>
 					<li className="list-none">TÍNH [<strong>Adjective</strong>] - Tính câu [<strong>Adjective Clause</strong>]</li>
@@ -133,7 +133,7 @@ export default function ThreeDC1(): React.ReactElement {
 			<p className="text-indent-whole">Bản thân nó là một Động cơ, nhưng vị trí đứng trong câu sẽ quyết định chức năng của nó:</p>
 
 					
-			<p className="margin-top-20 text-indent-whole">Sinh ra Danh Cơ [<strong>Noun Base</strong>]:</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Sinh ra Danh Cơ</strong> [<strong>Noun Base</strong>]:</p>
 			
 				<ul className="list-square">
 			
@@ -146,7 +146,7 @@ export default function ThreeDC1(): React.ReactElement {
 				</ul>
 			
 			
-			<p className="margin-top-20 text-indent-whole">Sinh ra Tính Cơ [<strong>Adjective Base</strong>]:</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Sinh ra Tính Cơ</strong> [<strong>Adjective Base</strong>]:</p>
 
 			
 				<ul className="list-square">
@@ -160,7 +160,7 @@ export default function ThreeDC1(): React.ReactElement {
 				</ul>
 
 			
-			<p className="margin-top-20 text-indent-whole">Sinh ra Trạng Cơ [<strong>Adverb Base</strong>]:</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Sinh ra Trạng Cơ</strong> [<strong>Adverb Base</strong>]:</p>
 			
 				<ul className="list-square">
 			
@@ -181,7 +181,7 @@ export default function ThreeDC1(): React.ReactElement {
 			<p className="text-indent-whole">Khối Động cụm này sẽ đảm nhận các vai trò:</p>
 
 					
-			<p className="margin-top-20 text-indent-whole">Sinh ra Danh Cụm [<strong>Noun Phrase</strong>]:</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Sinh ra Danh Cụm</strong> [<strong>Noun Phrase</strong>]:</p>
 			
 				<ul className="list-square">
 			
@@ -194,7 +194,7 @@ export default function ThreeDC1(): React.ReactElement {
 				</ul>
 			
 			
-			<p className="margin-top-20 text-indent-whole">Sinh ra Tính Cụm [<strong>Adjective Phrase</strong>]:</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Sinh ra Tính Cụm</strong> [<strong>Adjective Phrase</strong>]:</p>
 
 			
 				<ul className="list-square">
@@ -208,7 +208,7 @@ export default function ThreeDC1(): React.ReactElement {
 				</ul>
 
 			
-			<p className="margin-top-20 text-indent-whole">Sinh ra Trạng Cụm [<strong>Adverb Phrase</strong>]:</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Sinh ra Trạng Cụm</strong> [<strong>Adverb Phrase</strong>]:</p>
 			
 				<ul className="list-square">
 			
@@ -229,7 +229,7 @@ export default function ThreeDC1(): React.ReactElement {
 			<p className="text-indent-whole">Đây chính là bộ bệ phóng cốt lõi để nâng cấp câu văn lên tầm Advanced:</p>
 
 
-			<p className="margin-top-20 text-indent-whole">Sinh ra Danh Câu [<strong>Noun Clause</strong>]:</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Sinh ra Danh Câu</strong> [<strong>Noun Clause</strong>]:</p>
 			
 				<ul className="list-square">
 			
@@ -242,7 +242,7 @@ export default function ThreeDC1(): React.ReactElement {
 				</ul>
 			
 			
-			<p className="margin-top-20 text-indent-whole">Sinh ra Tính Câu [<strong>Adjective Clause</strong>]:</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Sinh ra Tính Câu</strong> [<strong>Adjective Clause</strong>]:</p>
 
 			
 				<ul className="list-square">
@@ -256,7 +256,7 @@ export default function ThreeDC1(): React.ReactElement {
 				</ul>
 
 			
-			<p className="margin-top-20 text-indent-whole">Sinh ra Trạng Câu [<strong>Adverb Clause</strong>]:</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Sinh ra Trạng Câu</strong> [<strong>Adverb Clause</strong>]:</p>
 			
 				<ul className="list-square">
 			
@@ -291,18 +291,20 @@ export default function ThreeDC1(): React.ReactElement {
 
 
 			<p className="margin-top-20">Ví dụ về <strong>cấu trúc phân tầng</strong> tư duy:</p>
-					
-			<p>Câu lớn:</p>
+
+			<p className="margin-top-20 text-indent-whole">Câu lớn:</p>
 			
 				<ul className="list-square">
 			
 					<li>She [understands {'{why you made that choice}'}].</li>
 					<li className="margin-bottom-20 list-none">Cô ấy [hiểu {'{tại sao bạn lại đưa ra lựa chọn đó}'}].</li>
 
-					<li className="list-none">Khối {'{why you made that choice}'}: Xét về hình thái, đây là một Động Câu [<strong>Verb Clause</strong>] vì có chủ ngữ "you" và động cơ "made".</li>
+					<li className="list-none">Khối {'{why you made that choice}'}</li>
+					<li className="list-none">Xét về hình thái, đây là một Động Câu [<strong>Verb Clause</strong>] vì có chủ ngữ "you" và động cơ "made".</li>
 					<li className="margin-bottom-20 list-none">→ Xét về chức năng, vì nó đứng sau làm đối tượng trực tiếp cho hành động hiểu, nên nó đảm nhận chức năng Danh Câu [<strong>Noun Clause</strong>].</li>
 			
-					<li className="list-none">Khối [understands {'{why you made that choice}'}]: Bắt đầu từ động cơ chính "understands" ôm trọn lấy khối Động câu phía sau.</li>
+					<li className="list-none">Khối [understands {'{why you made that choice}'}]</li>
+					<li className="list-none">Bắt đầu từ động cơ chính "understands" ôm trọn lấy khối Động câu phía sau.</li>
 					<li className="list-none">Xét về hình thái, đây là một Động Cụm [<strong>Verb Phrase</strong>].</li>
 					<li className="list-none">→ Xét về chức năng, cả khối lớn này đóng vai trò thực thi đầu việc cho chủ ngữ "She", nên nó đảm nhận chức năng Danh Cụm [<strong>Noun Phrase</strong>].</li>
 
@@ -312,21 +314,21 @@ export default function ThreeDC1(): React.ReactElement {
 
 			<p className="margin-top-20"><strong>Bảng tổng hợp quy ước vận hành hệ thống</strong></p>
 
-			<p className="margin-y-20 text-indent-whole">Hình thái</p>
+			<p className="margin-y-20 text-indent-whole"><strong>Hình thái</strong>:</p>
 			
 				<ul className="list-square">
 			
-					<li className="margin-bottom-20">Động cơ [<strong>Verb Base</strong>]</li>
+					<li>Động cơ [<strong>Verb Base</strong>]</li>
 					<li className="list-none">Chức năng chính: Danh / Tính / Trạng</li>
 					<li className="list-none">Vai trò trong hệ thống: Hạt nhân đơn lẻ (1 từ)</li>
 					<li className="margin-bottom-20 list-none">Ký hiệu quy ước: [Động cơ]</li>
 			
-					<li className="margin-bottom-20">Động cụm [<strong>Verb Phrase</strong>]</li>
+					<li>Động cụm [<strong>Verb Phrase</strong>]</li>
 					<li className="list-none">Chức năng chính: Danh / Tính / Trạng</li>
 					<li className="list-none">Vai trò trong hệ thống: Module chứa nhiều từ, bắt đầu từ Động cơ chính</li>
 					<li className="margin-bottom-20 list-none">Ký hiệu quy ước: [Động cụm {'{Động câu}'}]</li>
 			
-					<li className="margin-bottom-20">Động câu [<strong>Verb Clause</strong>]</li>
+					<li>Động câu [<strong>Verb Clause</strong>]</li>
 					<li className="list-none">Chức năng chính: Danh / Tính / Trạng</li>
 					<li className="list-none">Vai trò trong hệ thống: Module thực thi chứa cấu trúc câu con hoàn chỉnh</li>
 					<li className="list-none">Ký hiệu quy ước: {'{Động câu}'}</li>
@@ -360,7 +362,7 @@ export default function ThreeDC1(): React.ReactElement {
 			<p>Hãy áp dụng ngay phương pháp "<strong>Thế thân</strong>" (Substitution) dựa trên trục ngang Chức năng:</p>
 
 
-			<p className="margin-top-20">Thử thay thế cả khối Động câu [<strong>Verb Clause</strong>]</p>
+			<p className="margin-top-20">4.1. <strong>Thử thay thế cả khối Động câu</strong> [<strong>Verb Clause</strong>]</p>
 			<p className="text-indent-whole">Bằng một Trạng cơ [<strong>Adverb Base</strong>] đơn lẻ:</p>
 			
 				<ul className="list-square">
@@ -374,7 +376,7 @@ export default function ThreeDC1(): React.ReactElement {
 				</ul>
 			
 			
-			<p className="margin-top-20">Thử thay thế cả khối Động câu [<strong>Verb Clause</strong>]</p>
+			<p className="margin-top-20">4.2. <strong>Thử thay thế cả khối Động câu</strong> [<strong>Verb Clause</strong>]</p>
 			<p className="text-indent-whole">Bằng một Tính cơ [<strong>Adjective Base</strong>] ngắn:</p>
 			
 				<ul className="list-square">
@@ -389,7 +391,7 @@ export default function ThreeDC1(): React.ReactElement {
 				</ul>
 
 
-			<p className="margin-top-20">Thử thay thế cả khối Động câu [<strong>Verb Clause</strong>]</p>
+			<p className="margin-top-20">4.3 <strong>Thử thay thế cả khối Động câu</strong> [<strong>Verb Clause</strong>]</p>
 			<p className="text-indent-whole">Bằng Đại cơ tương đương một Danh cơ [<strong>Noun Base</strong>]:</p>
 			
 				<ul className="list-square">
@@ -415,7 +417,7 @@ export default function ThreeDC1(): React.ReactElement {
 			
 				</ul>
 					
-				<p className="margin-top-20 text-indent-whole">Áp dụng mẹo thế thân: Thay thế khối Động câu [<strong>Verb Clause</strong>] trong Câu A bằng <strong>Trạng cơ</strong> "there":</p>
+				<p className="margin-top-20 text-indent-whole">Áp dụng mẹo thế thân: <strong>Thay thế khối Động câu</strong> [<strong>Verb Clause</strong>] trong Câu A bằng <strong>Trạng cơ</strong> "there":</p>
 			
 				<ul className="list-square">
 			
@@ -438,7 +440,7 @@ export default function ThreeDC1(): React.ReactElement {
 				</ul>
 
 			
-				<p className="margin-top-20 text-indent-whole">Áp dụng mẹo thế thân: Thay thế khối Động câu [<strong>Verb Clause</strong>] trong Câu B bằng <strong>Tính cơ</strong> "old" đặt trước Danh cơ "restaurant":</p>
+				<p className="margin-top-20 text-indent-whole">Áp dụng mẹo thế thân: <strong>Thay thế khối Động câu</strong> [<strong>Verb Clause</strong>] trong Câu B bằng <strong>Tính cơ</strong> "old" đặt trước Danh cơ "restaurant":</p>
 			
 				<ul className="list-square">
 			
@@ -461,7 +463,7 @@ export default function ThreeDC1(): React.ReactElement {
 			
 				</ul>
 
-				<p className="margin-top-20 text-indent-whole">Áp dụng mẹo thế thân: Thay thế khối Động câu [<strong>Verb Clause</strong>] trong Câu C bằng <strong>Đại cơ</strong> "something", "it":</p>
+				<p className="margin-top-20 text-indent-whole">Áp dụng mẹo thế thân: <strong>Thay thế khối Động câu</strong> [<strong>Verb Clause</strong>] trong Câu C bằng <strong>Đại cơ</strong> "something", "it":</p>
 			
 				<ul className="list-square">
 			

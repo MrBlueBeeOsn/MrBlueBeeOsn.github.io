@@ -126,7 +126,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 			<p className="text-indent-whole">Nó sẽ hình thành nên <strong>3 chức năng</strong>:</p>
 
 
-			<p className="margin-top-20 text-indent-whole">Chức năng Danh cơ [<strong>Noun Base</strong>]:</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Chức năng Danh cơ</strong> [<strong>Noun Base</strong>]:</p>
 			
 				<ul className="list-square">
 
@@ -137,7 +137,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 				</ul>
 			
 
-			<p className="margin-top-20 text-indent-whole">Chức năng Tính cơ [<strong>Adjective Base</strong>]:</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Chức năng Tính cơ</strong> [<strong>Adjective Base</strong>]:</p>
 
 				<ul className="list-square">
 
@@ -148,7 +148,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 				</ul>
 				
 
-			<p className="margin-top-20 text-indent-whole">Chức năng Trạng cơ [<strong>Adverb Base</strong>] - Hình thành từ gốc động cơ + ly:</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Chức năng Trạng cơ</strong> [<strong>Adverb Base</strong>] - Hình thành từ gốc động cơ + ly:</p>
 
 				<ul className="list-square">
 			
@@ -164,7 +164,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 			<p className="text-indent-whole">Là khối cụm chứa nhiều từ đi liền nhau để thực thi hành động.</p>
 			<p className="text-indent-whole">Nó sẽ hình thành nên <strong>3 chức năng</strong>:</p>
 
-			<p className="margin-top-20 text-indent-whole">Chức năng Danh cụm [<strong>Noun Phrase</strong>]:</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Chức năng Danh cụm</strong> [<strong>Noun Phrase</strong>]:</p>
 
 				<ul className="list-square">
 
@@ -175,7 +175,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 			
 				</ul>
 
-			<p className="margin-top-20 text-indent-whole">Chức năng Tính cụm [<strong>Adjective Phrase</strong>]:</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Chức năng Tính cụm</strong> [<strong>Adjective Phrase</strong>]:</p>
 
 				<ul className="list-square">
 
@@ -187,7 +187,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 				</ul>
 			
 
-			<p className="margin-top-20 text-indent-whole">Chức năng Trạng cụm [<strong>Adverb Phrase</strong>]:</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Chức năng Trạng cụm</strong> [<strong>Adverb Phrase</strong>]:</p>
 
 				<ul className="list-square">
 					
@@ -207,7 +207,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 			<p className="text-indent-whole">Từ đây, nó hình thành nên <strong>3 chức năng</strong> tối cao:</p>
 
 
-			<p className="margin-top-20 text-indent-whole">Chức năng Danh câu [<strong>Noun Clause</strong>]:</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Chức năng Danh câu</strong> [<strong>Noun Clause</strong>]:</p>
 			
 				<ul className="list-square">
 
@@ -218,7 +218,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 				</ul>
 			
 
-			<p className="margin-top-20 text-indent-whole">Chức năng Tính câu [<strong>Adjective Clause</strong>]:</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Chức năng Tính câu</strong> [<strong>Adjective Clause</strong>]:</p>
 			
 				<ul className="list-square">
 
@@ -229,7 +229,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 				</ul>
 			
 
-			<p className="margin-top-20 text-indent-whole">Chức năng Trạng câu [<strong>Adverb Clause</strong>]:</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Chức năng Trạng câu</strong> [<strong>Adverb Clause</strong>]:</p>
 			
 				<ul className="list-square">
 			
@@ -265,11 +265,11 @@ export default function AdjPlacement1(): React.JSX.Element {
 					<li>He [remembers {'{what you told me}'}].</li>
 					<li className="margin-bottom-20 list-none">Anh ấy [nhớ {'{những gì bạn đã nói với tôi}'}].</li>
 
-					<li className="list-none">{'{what you told me}'}: Động Câu [<strong>Verb Clause</strong>]</li>
-					<li className="margin-bottom-20 list-none">→ Đóng chức năng làm Danh Câu [<strong>Noun Clause</strong>].</li>
+					<li className="list-none">{'{what you told me}'}</li>
+					<li className="margin-bottom-20 list-none">Động Câu [<strong>Verb Clause</strong>] → Đóng chức năng làm Danh Câu [<strong>Noun Clause</strong>].</li>
 
-					<li className="list-none">[remembers {'{what you told me}'}]: Động Cụm [<strong>Verb Phrase</strong>]</li>
-					<li className="list-none">→ Đóng chức năng làm Danh Cụm [<strong>Noun Phrase</strong>], điều khiển trực tiếp bởi Động cơ chính remembers</li>
+					<li className="list-none">[remembers {'{what you told me}'}]</li>
+					<li className="list-none">Động Cụm [<strong>Verb Phrase</strong>] → Đóng chức năng làm Danh Cụm [<strong>Noun Phrase</strong>], điều khiển trực tiếp bởi Động cơ chính remembers</li>
 			
 				</ul>
 
@@ -289,7 +289,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 
 			<p>Khi các từ nối học thuật được lược bỏ, trật tự câu văn trở nên thuần Việt một cách kinh ngạc::</p>
 
-			<p className="margin-top-20">Dạng Tính Cụm [<strong>Adjective Phrase</strong>] chủ động:</p>
+			<p className="margin-top-20">Dạng <strong>Tính Cụm</strong> [<strong>Adjective Phrase</strong>] <strong>chủ động</strong>:</p>
 			
 				<ul className="list-square">
 			
@@ -299,7 +299,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 				</ul>
 			
 			
-			<p className="margin-top-20">Dạng Tính Cụm [<strong>Adjective Phrase</strong>] bị động:</p>
+			<p className="margin-top-20">Dạng <strong>Tính Cụm</strong> [<strong>Adjective Phrase</strong>] <strong>bị động</strong>:</p>
 			
 				<ul className="list-square">
 			
@@ -309,7 +309,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 				</ul>
 			
 			
-			<p className="margin-top-20">Dạng Tính Cơ [<strong>Adjective Base</strong>] nguyên bản:</p>
+			<p className="margin-top-20">Dạng <strong>Tính Cơ</strong> [<strong>Adjective Base</strong>] <strong>nguyên bản</strong>:</p>
 			
 				<ul className="list-square">
 			
@@ -326,23 +326,24 @@ export default function AdjPlacement1(): React.JSX.Element {
 			
 			<p>Khi Tính câu (Động câu chức năng Tính cơ) đã giúp bạn giải phóng tâm lý nhờ điểm mạnh tương đồng với tiếng Việt, bạn đã có một bệ phóng hoàn hảo để làm chủ toàn bộ <strong>Bộ ba Phụ câu cốt lõi</strong> cấu thành nên một Câu lớn trọn vẹn:</p>
 
-			<p className="margin-top-20"><strong>Hệ thống <strong>Phụ câu</strong></strong></p>
+			<p className="margin-top-20">Hệ thống Phụ câu: Cấp độ cấu trúc hành thái</p>
 			
 				<ol>
 			
-					<li value="1">Cấp độ cấu trúc hành thái: Động câu [<strong>Verb Clause</strong>]</li>
-					<li className="list-none">Chức năng dựa trên vị trí: TÍNH CÂU [<strong>Adjective Clause</strong>]. Vận hành như một Tính cơ</li>
-					<li className="margin-bottom-20 list-none">Cách vận hành trong Câu lớn: <strong>Đứng SAU Danh cơ</strong> cốt lõi để mô tả chi tiết đối tượng.</li>
+					<li value="1">Động câu [<strong>Verb Clause</strong>]</li>
+					<li className="list-none">Cách vận hành trong Câu lớn: <strong>Đứng SAU Danh cơ</strong> cốt lõi để mô tả chi tiết đối tượng.</li>
+					<li className="margin-bottom-20 list-none">Chức năng dựa trên vị trí: TÍNH CÂU [<strong>Adjective Clause</strong>]. Vận hành như một Tính cơ</li>
 					
-					<li value="2">Cấp độ cấu trúc hành thái: Động câu [<strong>Verb Clause</strong>]</li>
-					<li className="list-none">Chức năng dựa trên vị trí: TRẠNG CÂU [<strong>Adverb Clause</strong>]. Vận hành như một Trạng cơ</li>
-					<li className="margin-bottom-20 list-none">Cách vận hành trong Câu lớn: Điều phối ngữ cảnh cho toàn câu (Thời gian, Nguyên nhân, Kết quả).</li>
+					
+					<li value="2">Động câu [<strong>Verb Clause</strong>]</li>
+					<li className="list-none">Cách vận hành trong Câu lớn: Điều phối ngữ cảnh cho toàn câu (Thời gian, Nguyên nhân, Kết quả).</li>
+					<li className="margin-bottom-20 list-none">Chức năng dựa trên vị trí: TRẠNG CÂU [<strong>Adverb Clause</strong>]. Vận hành như một Trạng cơ</li>
 					
 			
-					<li value="3">Cấp độ cấu trúc hành thái: Động câu [<strong>Verb Clause</strong>]</li>
-					<li className="list-none">Chức năng dựa trên vị trí: DANH CÂU [<strong>Noun Clause</strong>]. Vận hành như một Danh cơ</li>
+					<li value="3">Động câu [<strong>Verb Clause</strong>]</li>
 					<li className="list-none">Cách vận hành trong Câu lớn: Biến cả một nhận định phức tạp thành một vị trí Chủ ngữ hoặc Tân ngữ trong câu.</li>
-					
+					<li className="list-none">Chức năng dựa trên vị trí: DANH CÂU [<strong>Noun Clause</strong>]. Vận hành như một Danh cơ</li>
+				
 			
 				</ol>
 			

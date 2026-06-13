@@ -305,7 +305,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 			
 				<ul className="list-square">
 
-					<li className="list-none">The book which is [written in English] is good.</li>
+					<li>The book which is [written in English] is good.</li>
 					<li className="list-none">Cuốn sách [mà được viết bằng tiếng Anh] thì tốt.</li>
 			
 				</ul>

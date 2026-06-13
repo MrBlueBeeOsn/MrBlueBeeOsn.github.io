@@ -293,10 +293,12 @@ export default function SuperWords1(): React.JSX.Element {
 					<li>She [understands {'{why you left the party}'}].</li>
 					<li className="margin-bottom-20 list-none">Cô ấy [hiểu {'{tại sao bạn rời bữa tiệc}'}].</li>
 
-					<li className="list-none">{'{why you left the party}'}: Đạt hình thái Động Câu [<strong>Verb Clause</strong>] vì chứa trọn vẹn một cấu trúc câu con bên trong.</li>
+					<li className="list-none">{'{why you left the party}'}</li>
+					<li className="list-none">Đạt hình thái Động Câu [<strong>Verb Clause</strong>] vì chứa trọn vẹn một cấu trúc câu con bên trong.</li>
 					<li className="margin-bottom-20 list-none">→ Nó được đặt ở vị trí tân ngữ bị tác động, vì vậy đảm nhận Chức năng: Danh Câu [<strong>Noun Clause</strong>].</li>
 			
-					<li className="list-none">[understands {'{why you left the party}'}]: Bắt đầu mở ngoặc từ động cơ chính understands và ôm trọn lấy khối thông tin lồng phía sau.</li>
+					<li className="list-none">[understands {'{why you left the party}'}]</li>
+					<li className="list-none">Bắt đầu mở ngoặc từ động cơ chính understands và ôm trọn lấy khối thông tin lồng phía sau.</li>
 					<li className="list-none">→ Cả khối này đạt hình thái Động Cụm [<strong>Verb Phrase</strong>] và đảm nhận Chức năng: Danh Cụm [<strong>Noun Phrase</strong>] trong câu lớn.</li>
 			
 				</ul>
