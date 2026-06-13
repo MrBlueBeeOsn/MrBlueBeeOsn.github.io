@@ -56,13 +56,17 @@ export default function AdjPlacement1(): React.JSX.Element {
 
 			<p>Ngay từ những ngày đầu chạm ngõ ngôn ngữ này, chúng ta đã bị đóng băng tư duy ở một quy luật sơ cấp:</p>
 
-			<p className="margin-y-30"><strong>Tính cơ</strong> phải đứng trước <strong>Danh cơ</strong> (như a beautiful house).</p>
+
+			<p className="margin-y-30">Tính cơ phải đứng trước Danh cơ (như a <strong>beautiful</strong> house).</p>
+
 
 			<p>Vì mô hình này đi ngược lại với tư duy tiếng mẹ đẻ, bộ não người học luôn phải mất một nhịp khựng lại để đảo từ. Hệ quả là chúng ta tự dán nhãn tiếng Anh là một thứ ngôn ngữ rắc rối, phức tạp và xa lạ.</p>
 			
 			<p>Nhưng trong thế giới của văn viết cao cấp, các bài luận nghị luận hay những cấu trúc câu phức của người bản ngữ, một sự thật hoàn toàn trái ngược lại diễn ra. Họ ưu tiên sử dụng một trật tự có tỷ lệ áp đảo:</p>
 
-			<p className="margin-y-40"><strong>Danh cơ đứng trước</strong>, <strong>thành phần mô tả đứng sau</strong>.</p>
+
+			<p className="margin-y-30">Danh cơ đứng trước, thành phần mô tả đứng sau.</p>
+
 
 			<p>Đây không phải là một sự ngẫu nhiên, mà chính là <strong>điểm mạnh tương đồng</strong> cốt lõi giữa tiếng Anh và tiếng Việt. Nhận ra điều này chính là chìa khóa giúp người Việt sở hữu tư duy ngôn ngữ đẳng cấp, vượt trội hơn hẳn phần còn lại của khu vực.</p>
 			
@@ -75,15 +79,15 @@ export default function AdjPlacement1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li><strong>Tính cơ</strong> đứng trước <strong>Danh cơ</strong> – Nhấn mạnh <strong>Đặc điểm</strong>:</li>
+					<li>Tính cơ đứng trước Danh cơ – Nhấn mạnh <strong>Đặc điểm</strong>:</li>
 					<li className="margin-bottom-20 list-none">Cấu trúc này dành cho các tính cơ đơn lẻ, ngắn gọn (như a luxury car, a hot day). Mục đích là ném thẳng đặc điểm nổi bật vào tâm trí người nghe trước khi gọi tên đối tượng.</li>
 			
-					<li><strong>Danh cơ</strong> đứng trước <strong>Tính cơ</strong> – Nhấn mạnh <strong>Đối tượng</strong>:</li>
+					<li>Danh cơ đứng trước Tính cơ – Nhấn mạnh <strong>Đối tượng</strong>:</li>
 					<li className="list-none">Khi muốn đối tượng chính làm mỏ neo cho toàn câu, người bản ngữ sẽ đưa Danh cơ lên trước để người nghe định hình ngay lập tức. Sau đó, họ mới thong thả thả một chuỗi thông tin mô tả dài ở phía sau.</li>
 			
 				</ul>
 			
-			<p className="margin-top-20">Và công cụ tối thượng được người bản ngữ sử dụng liên tục để kéo dài phần mô tả phía sau Danh cơ chính là <strong>Tính câu</strong> (<strong>Adjective Clause</strong>).</p>
+			<p className="margin-top-20">Và công cụ tối thượng được người bản ngữ sử dụng liên tục để kéo dài phần mô tả phía sau Danh cơ chính là Tính câu (<strong>Adjective Clause</strong>).</p>
 
 
 			{/* 2.  */}
@@ -97,25 +101,25 @@ export default function AdjPlacement1(): React.JSX.Element {
 			<p>Bản chất của mọi cấu trúc trong tiếng Anh đều xuất phát từ hình thái của hành động:</p>
 
 
-			<p className="margin-y-30"><strong>Động cơ</strong> -{'>'} <strong>Động cụm</strong> -{'>'} <strong>Động câu</strong>.</p>
+			<p className="margin-y-30">Động cơ -{'>'} Động cụm -{'>'} Động câu.</p>
 
 
-			<p>Người học sẽ nhìn thấy hình thái này trước, rồi mới xác định chức năng (<strong>Danh</strong> / <strong>Tính</strong> / <strong>Trạng</strong>) của nó dựa vào vị trí đứng trong câu.</p>
+			<p>Người học sẽ nhìn thấy hình thái này trước, rồi mới xác định chức năng (Danh / Tính / Trạng) của nó dựa vào vị trí đứng trong câu.</p>
 			
 			<p>Hệ thống này vận hành nhất quán theo một ma trận hai chiều hoàn chỉnh:</p>
 			
 				<ul className="list-square">
 			
-					<li><strong>Chiều ngang</strong> — <strong>3 Chức năng</strong>:</li>
+					<li><strong>3 Chức năng</strong> — Chiều ngang:</li>
 					<li className="margin-bottom-20 list-none">Danh / Tính / Trạng</li>
 			
-					<li><strong>Chiều dọc</strong> — <strong>3 Cấp độ</strong>:</li>
-					<li className="list-none">Cơ (Base) -{'>'} Cụm (Phrase) -{'>'} Câu (Clause)</li>
+					<li><strong>3 Cấp độ</strong> — Chiều dọc:</li>
+					<li className="list-none">Cơ (<strong>Base</strong>) -{'>'} Cụm (<strong>Phrase</strong>) -{'>'} Câu (<strong>Clause</strong>)</li>
 			
 				</ul>
 
 			
-			<h4 className="margin-y-40">Cấp độ 1: Hình thái ĐỘNG CƠ (Verb Base)</h4>
+			<h4 className="margin-y-40">Cấp độ 1: Hình thái ĐỘNG CƠ [<strong>Verb Base</strong>]</h4>
 					
 			<p className="text-indent-whole">Là đơn vị hành động hạt nhân nhỏ nhất (1 từ).</p>
 			<p className="text-indent-whole">Bản thân nó là một Động cơ, nhưng tùy vị trí.</p>
@@ -125,26 +129,26 @@ export default function AdjPlacement1(): React.JSX.Element {
 
 					<li>[Exercising] is good for your health.</li>
 					<li className="margin-bottom-20 list-none">[Tập thể dục] tốt cho sức khỏe của bạn.</li>
-					<li className="list-none">Hành động tập thể dục làm chủ thể</li>
-					<li className="margin-bottom-20 list-none">→ Chức năng [<strong>Danh cơ</strong>] (Noun Base)</li>
+					<li className="list-none">Hình thái Động cơ [<strong>Verb Base</strong>] - Hành động tập thể dục làm chủ thể</li>
+					<li className="margin-bottom-20 list-none">Chức năng Danh cơ [<strong>Noun Base</strong>]</li>
 					
 
 					<li>She has an [inviting] smile.</li>
 					<li className="margin-bottom-20 list-none">Cô ấy có một nụ cười [cuốn hút].</li>
-					<li className="list-none">Hành động mang tính chất mời gọi, bổ nghĩa cho danh cơ smile</li>
-					<li className="margin-bottom-20 list-none">→ Chức năng [<strong>Tính cơ</strong>] (Adjective Base)</li>
+					<li className="list-none">Hình thái Động cơ [<strong>Verb Base</strong>] - Hành động mang tính chất mời gọi</li>
+					<li className="margin-bottom-20 list-none">Chức năng Tính cơ [<strong>Adjective Base</strong>] - Bổ nghĩa cho danh cơ smile</li>
 					
 			
 					<li>He spoke [hesitatingly].</li>
 					<li className="margin-bottom-20 list-none">Anh ấy nói một cách [ngập ngừng].</li>
-					<li className="list-none">Hành động nói theo cách thức ngập ngừng, trạng cơ hình thành từ gốc động cơ + ly</li>
-					<li className="list-none">→ Chức năng [<strong>Trạng cơ</strong>] (Adverb Base)</li>
+					<li className="list-none">Hình thái Động cơ [<strong>Verb Base</strong>] - Hành động nói theo cách thức ngập ngừng</li>
+					<li className="list-none">Chức năng Trạng cơ [<strong>Adverb Base</strong>] - Trạng cơ hình thành từ gốc động cơ + ly</li>
 					
 			
 				</ul>
 
 
-			<h4 className="margin-y-40">Cấp độ 2: Hình thái ĐỘNG CỤM (Verb Phrase)</h4>
+			<h4 className="margin-y-40">Cấp độ 2: Hình thái ĐỘNG CỤM [<strong>Verb Phrase</strong>]</h4>
 
 			<p className="text-indent-whole">Là khối cụm chứa nhiều từ đi liền nhau để thực thi hành động.</p>
 			<p className="text-indent-whole">Nó sẽ hình thành nên <strong>3 chức năng</strong>:</p>
@@ -153,26 +157,26 @@ export default function AdjPlacement1(): React.JSX.Element {
 
 					<li>You should [plan your future].</li>
 					<li className="margin-bottom-20 list-none">Bạn nên [lập kế hoạch cho tương lai của mình].</li>
-					<li className="list-none">Cả cụm hành động là một đầu việc cần thực hiện</li>
-					<li className="margin-bottom-20 list-none">→ Chức năng [<strong>Danh cụm</strong>] (Noun Phrase)</li>
+					<li className="list-none">Hình thái Động cụm [<strong>Verb Phrase</strong>] - Cả cụm hành động là một đầu việc cần thực hiện</li>
+					<li className="margin-bottom-20 list-none">Chức năng Danh cụm [<strong>Noun Phrase</strong>]</li>
 					
 
 					<li>The girl is [singing beautifully].</li>
 					<li className="margin-bottom-20 list-none">Cô gái đang [hát rất hay].</li>
-					<li className="list-none">Cụm mô tả trạng thái, tính chất của đối tượng</li>
-					<li className="margin-bottom-20 list-none">→ Chức năng [<strong>Tính cụm</strong>] (Adjective Phrase)</li>
+					<li className="list-none">Hình thái Động cụm [<strong>Verb Phrase</strong>] - Cụm mô tả trạng thái, tính chất của đối tượng</li>
+					<li className="margin-bottom-20 list-none">Chức năng Tính cụm [<strong>Adjective Phrase</strong>]</li>
 					
 			
 					<li>We study [to expand our knowledge].</li>
 					<li className="margin-bottom-20 list-none">Chúng tôi học [để mở rộng kiến thức của mình].</li>
-					<li className="list-none">Cụm mô tả mục đích cho hành động học</li>
-					<li className="list-none">→ Chức năng [<strong>Trạng cụm</strong>] (Adverb Phrase)</li>
+					<li className="list-none">Hình thái Động cụm [<strong>Verb Phrase</strong>] - Cụm mô tả mục đích cho hành động học</li>
+					<li className="list-none">Chức năng Trạng cụm [<strong>Adverb Phrase</strong>]</li>
 					
 			
 				</ul>
 
 
-			<h4 className="margin-y-40">Cấp độ 3: Hình thái ĐỘNG CÂU (Verb Clause)</h4>
+			<h4 className="margin-y-40">Cấp độ 3: Hình thái ĐỘNG CÂU [<strong>Verb Clause</strong>]</h4>
 
 			<p className="text-indent-whole">Là đơn vị hành động đã chứa cấu trúc câu con hoàn chỉnh.</p>
 
@@ -182,20 +186,20 @@ export default function AdjPlacement1(): React.JSX.Element {
 
 					<li>I believe [that he will succeed].</li>
 					<li className="margin-bottom-20 list-none">Tôi tin [rằng anh ấy sẽ thành công].</li>
-					<li className="list-none">Câu con đóng vai trò làm đối tượng được tin tưởng</li>
-					<li className="margin-bottom-20 list-none">→ Chức năng [<strong>Danh câu</strong>] (Noun Clause)</li>
+					<li className="list-none">Hình thái Động câu [<strong>Verb Clause</strong>]</li>
+					<li className="margin-bottom-20 list-none">Chức năng Danh câu [<strong>Noun Clause</strong>] - Câu con đóng vai trò làm đối tượng được tin tưởng</li>
 					
 
 					<li>The book [which is lying on the table] is mine.</li>
 					<li className="margin-bottom-20 list-none">Cuốn sách [mà đang nằm/để trên bàn] là của tôi.</li>
-					<li className="list-none">Câu con đóng vai trò định danh, làm rõ cho danh cơ book</li>
-					<li className="margin-bottom-20 list-none">→ Chức năng [<strong>Tính câu</strong>] (Adjective Clause)</li>
+					<li className="list-none">Hình thái Động câu [<strong>Verb Clause</strong>]</li>
+					<li className="margin-bottom-20 list-none">Chức năng Tính câu [<strong>Adjective Clause</strong>] - Câu con đóng vai trò định danh, làm rõ cho danh cơ book</li>
 					
 			
 					<li>We will start [when the sun rises].</li>
 					<li className="margin-bottom-20 list-none">Chúng tôi sẽ bắt đầu [khi mặt trời mọc].</li>
-					<li className="list-none">Câu con mô tả thời gian, bối cảnh cho hành động chính</li>
-					<li className="list-none">→ Chức năng [<strong>Trạng câu</strong>] (Adverb Clause)</li>
+					<li className="list-none">Hình thái Động câu [<strong>Verb Clause</strong>]</li>
+					<li className="list-none">Chức năng Trạng câu [<strong>Adverb Clause</strong>] - Câu con mô tả thời gian, bối cảnh cho hành động chính</li>
 					
 			
 				</ul>
@@ -226,10 +230,10 @@ export default function AdjPlacement1(): React.JSX.Element {
 					<li>He [remembers {'{what you told me}'}].</li>
 					<li className="margin-bottom-20 list-none">Anh ấy [nhớ {'{những gì bạn đã nói với tôi}'}].</li>
 
-					<li className="list-none">{'{what you told me}'}: Động câu</li>
+					<li className="list-none">{'{what you told me}'}: [<strong>Động câu</strong>]</li>
 					<li className="margin-bottom-20 list-none">→ Đóng chức năng làm [<strong>Danh câu</strong>].</li>
 
-					<li className="list-none">[remembers {'{what you told me}'}]: Động cụm</li>
+					<li className="list-none">[remembers {'{what you told me}'}]: [<strong>Động cụm</strong>]</li>
 					<li className="list-none">→ Đóng chức năng làm [<strong>Danh cụm</strong>], điều khiển trực tiếp bởi Động cơ chính remembers</li>
 			
 				</ul>
@@ -278,22 +282,18 @@ export default function AdjPlacement1(): React.JSX.Element {
 			
 				<ol>
 			
-					<li value="1"><strong>TÍNH CÂU</strong> (Adjective Clause)</li>
-					<li className="list-none">Cấp độ cấu trúc hành thái: Động câu (Verb Clause)</li>
-					<li className="list-none">Cách vận hành trong Câu lớn: <strong>Đứng SAU Danh cơ</strong> cốt lõi để mô tả chi tiết đối tượng.</li>
-					<li className="margin-bottom-20 list-none">Chức năng dựa trên vị trí: Vận hành như một <strong>Tính cơ</strong></li>
+					<li value="1">Cấp độ cấu trúc hành thái: Động câu [<strong>Verb Clause</strong>]</li>
+					<li className="list-none">Chức năng dựa trên vị trí: TÍNH CÂU [<strong>Adjective Clause</strong>]. Vận hành như một Tính cơ</li>
+					<li className="margin-bottom-20 list-none">Cách vận hành trong Câu lớn: <strong>Đứng SAU Danh cơ</strong> cốt lõi để mô tả chi tiết đối tượng.</li>
+					
+					<li value="2">Cấp độ cấu trúc hành thái: Động câu [<strong>Verb Clause</strong>]</li>
+					<li className="list-none">Chức năng dựa trên vị trí: TRẠNG CÂU [<strong>Adverb Clause</strong>]. Vận hành như một Trạng cơ</li>
+					<li className="margin-bottom-20 list-none">Cách vận hành trong Câu lớn: Điều phối ngữ cảnh cho toàn câu (Thời gian, Nguyên nhân, Kết quả).</li>
 					
 			
-					<li value="2"><strong>TRẠNG CÂU</strong> (Adverb Clause)</li>
-					<li className="list-none">Cấp độ cấu trúc hành thái: Động câu (Verb Clause)</li>
-					<li className="list-none">Cách vận hành trong Câu lớn: Điều phối ngữ cảnh cho toàn câu (Thời gian, Nguyên nhân, Kết quả).</li>
-					<li className="margin-bottom-20 list-none">Chức năng dựa trên vị trí: Vận hành như một <strong>Trạng cơ</strong></li>
-					
-			
-					<li value="3"><strong>DANH CÂU</strong> (Noun Clause)</li>
-					<li className="list-none">Cấp độ cấu trúc hành thái: Động câu (Verb Clause)</li>
+					<li value="3">Cấp độ cấu trúc hành thái: Động câu [<strong>Verb Clause</strong>]</li>
+					<li className="list-none">Chức năng dựa trên vị trí: DANH CÂU [<strong>Noun Clause</strong>]. Vận hành như một Danh cơ</li>
 					<li className="list-none">Cách vận hành trong Câu lớn: Biến cả một nhận định phức tạp thành một vị trí Chủ ngữ hoặc Tân ngữ trong câu.</li>
-					<li className="list-none">Chức năng dựa trên vị trí: Vận hành như một <strong>Danh cơ</strong></li>
 					
 			
 				</ol>
