@@ -460,7 +460,7 @@
 // 		"body": [
 // 			"<h4 className=\"margin-y-40\">$1</h4>",
 // 			"    ",
-// 			"<p className=\"text-indent-whole\">$2</p>"
+// 			"<p className=\"margin-top-20 text-indent-whole\">$2</p>"
 // 		],
 // 		"description": "h4 p"
 // 	},

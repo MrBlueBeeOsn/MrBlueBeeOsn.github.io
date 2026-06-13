@@ -124,26 +124,37 @@ export default function AdjPlacement1(): React.JSX.Element {
 			<p className="text-indent-whole">Là đơn vị hành động hạt nhân nhỏ nhất (1 từ).</p>
 			<p className="text-indent-whole">Bản thân nó là một Động cơ, nhưng tùy vị trí.</p>
 			<p className="text-indent-whole">Nó sẽ hình thành nên <strong>3 chức năng</strong>:</p>
+
+
+			<p className="margin-top-20 text-indent-whole">Chức năng Danh cơ [<strong>Noun Base</strong>]:</p>
 			
 				<ul className="list-square">
 
 					<li>[Exercising] is good for your health.</li>
 					<li className="margin-bottom-20 list-none">[Tập thể dục] tốt cho sức khỏe của bạn.</li>
-					<li className="list-none">Hình thái Động cơ [<strong>Verb Base</strong>] - Hành động tập thể dục làm chủ thể</li>
-					<li className="margin-bottom-20 list-none">Chức năng Danh cơ [<strong>Noun Base</strong>]</li>
-					
+					<li className="list-none">→ Hành động tập thể dục làm chủ thể</li>
+			
+				</ul>
+			
+
+			<p className="margin-top-20 text-indent-whole">Chức năng Tính cơ [<strong>Adjective Base</strong>]:</p>
+
+				<ul className="list-square">
 
 					<li>She has an [inviting] smile.</li>
 					<li className="margin-bottom-20 list-none">Cô ấy có một nụ cười [cuốn hút].</li>
-					<li className="list-none">Hình thái Động cơ [<strong>Verb Base</strong>] - Hành động mang tính chất mời gọi</li>
-					<li className="margin-bottom-20 list-none">Chức năng Tính cơ [<strong>Adjective Base</strong>] - Bổ nghĩa cho danh cơ smile</li>
-					
+					<li className="list-none">→ Hành động mang tính chất mời gọi, bổ nghĩa cho danh cơ smile</li>
+			
+				</ul>
+				
+
+			<p className="margin-top-20 text-indent-whole">Chức năng Trạng cơ [<strong>Adverb Base</strong>] - Hình thành từ gốc động cơ + ly:</p>
+
+				<ul className="list-square">
 			
 					<li>He spoke [hesitatingly].</li>
 					<li className="margin-bottom-20 list-none">Anh ấy nói một cách [ngập ngừng].</li>
-					<li className="list-none">Hình thái Động cơ [<strong>Verb Base</strong>] - Hành động nói theo cách thức ngập ngừng</li>
-					<li className="list-none">Chức năng Trạng cơ [<strong>Adverb Base</strong>] - Trạng cơ hình thành từ gốc động cơ + ly</li>
-					
+					<li className="list-none">→ Hành động nói theo cách thức ngập ngừng</li>
 			
 				</ul>
 
@@ -153,24 +164,37 @@ export default function AdjPlacement1(): React.JSX.Element {
 			<p className="text-indent-whole">Là khối cụm chứa nhiều từ đi liền nhau để thực thi hành động.</p>
 			<p className="text-indent-whole">Nó sẽ hình thành nên <strong>3 chức năng</strong>:</p>
 
+			<p className="margin-top-20 text-indent-whole">Chức năng Danh cụm [<strong>Noun Phrase</strong>]:</p>
+
 				<ul className="list-square">
 
 					<li>You should [plan your future].</li>
 					<li className="margin-bottom-20 list-none">Bạn nên [lập kế hoạch cho tương lai của mình].</li>
-					<li className="list-none">Hình thái Động cụm [<strong>Verb Phrase</strong>] - Cả cụm hành động là một đầu việc cần thực hiện</li>
-					<li className="margin-bottom-20 list-none">Chức năng Danh cụm [<strong>Noun Phrase</strong>]</li>
+					<li className="list-none">→ Cả cụm hành động là một đầu việc cần thực hiện</li>
 					
+			
+				</ul>
 
+			<p className="margin-top-20 text-indent-whole">Chức năng Tính cụm [<strong>Adjective Phrase</strong>]:</p>
+
+				<ul className="list-square">
+
+					
 					<li>The girl is [singing beautifully].</li>
 					<li className="margin-bottom-20 list-none">Cô gái đang [hát rất hay].</li>
-					<li className="list-none">Hình thái Động cụm [<strong>Verb Phrase</strong>] - Cụm mô tả trạng thái, tính chất của đối tượng</li>
-					<li className="margin-bottom-20 list-none">Chức năng Tính cụm [<strong>Adjective Phrase</strong>]</li>
+					<li className="list-none">→ Cụm mô tả trạng thái, tính chất của đối tượng</li>	
+			
+				</ul>
+			
+
+			<p className="margin-top-20 text-indent-whole">Chức năng Trạng cụm [<strong>Adverb Phrase</strong>]:</p>
+
+				<ul className="list-square">
 					
 			
 					<li>We study [to expand our knowledge].</li>
 					<li className="margin-bottom-20 list-none">Chúng tôi học [để mở rộng kiến thức của mình].</li>
-					<li className="list-none">Hình thái Động cụm [<strong>Verb Phrase</strong>] - Cụm mô tả mục đích cho hành động học</li>
-					<li className="list-none">Chức năng Trạng cụm [<strong>Adverb Phrase</strong>]</li>
+					<li className="list-none">→ Cụm mô tả mục đích cho hành động học</li>
 					
 			
 				</ul>
@@ -181,26 +205,37 @@ export default function AdjPlacement1(): React.JSX.Element {
 			<p className="text-indent-whole">Là đơn vị hành động đã chứa cấu trúc câu con hoàn chỉnh.</p>
 
 			<p className="text-indent-whole">Từ đây, nó hình thành nên <strong>3 chức năng</strong> tối cao:</p>
+
+
+			<p className="margin-top-20 text-indent-whole">Chức năng Danh câu [<strong>Noun Clause</strong>]:</p>
 			
 				<ul className="list-square">
 
 					<li>I believe [that he will succeed].</li>
 					<li className="margin-bottom-20 list-none">Tôi tin [rằng anh ấy sẽ thành công].</li>
-					<li className="list-none">Hình thái Động câu [<strong>Verb Clause</strong>]</li>
-					<li className="margin-bottom-20 list-none">Chức năng Danh câu [<strong>Noun Clause</strong>] - Câu con đóng vai trò làm đối tượng được tin tưởng</li>
-					
+					<li className="margin-bottom-20 list-none">→ Câu con đóng vai trò làm đối tượng được tin tưởng</li>
+			
+				</ul>
+			
+
+			<p className="margin-top-20 text-indent-whole">Chức năng Tính câu [<strong>Adjective Clause</strong>]:</p>
+			
+				<ul className="list-square">
 
 					<li>The book [which is lying on the table] is mine.</li>
 					<li className="margin-bottom-20 list-none">Cuốn sách [mà đang nằm/để trên bàn] là của tôi.</li>
-					<li className="list-none">Hình thái Động câu [<strong>Verb Clause</strong>]</li>
-					<li className="margin-bottom-20 list-none">Chức năng Tính câu [<strong>Adjective Clause</strong>] - Câu con đóng vai trò định danh, làm rõ cho danh cơ book</li>
-					
+					<li className="margin-bottom-20 list-none">→ Câu con đóng vai trò định danh, làm rõ cho danh cơ book</li>
+			
+				</ul>
+			
+
+			<p className="margin-top-20 text-indent-whole">Chức năng Trạng câu [<strong>Adverb Clause</strong>]:</p>
+			
+				<ul className="list-square">
 			
 					<li>We will start [when the sun rises].</li>
 					<li className="margin-bottom-20 list-none">Chúng tôi sẽ bắt đầu [khi mặt trời mọc].</li>
-					<li className="list-none">Hình thái Động câu [<strong>Verb Clause</strong>]</li>
-					<li className="list-none">Chức năng Trạng câu [<strong>Adverb Clause</strong>] - Câu con mô tả thời gian, bối cảnh cho hành động chính</li>
-					
+					<li className="list-none">→ Câu con mô tả thời gian, bối cảnh cho hành động chính</li>
 			
 				</ul>
 
@@ -230,11 +265,11 @@ export default function AdjPlacement1(): React.JSX.Element {
 					<li>He [remembers {'{what you told me}'}].</li>
 					<li className="margin-bottom-20 list-none">Anh ấy [nhớ {'{những gì bạn đã nói với tôi}'}].</li>
 
-					<li className="list-none">{'{what you told me}'}: [<strong>Động câu</strong>]</li>
-					<li className="margin-bottom-20 list-none">→ Đóng chức năng làm [<strong>Danh câu</strong>].</li>
+					<li className="list-none">{'{what you told me}'}: Động Câu [<strong>Verb Clause</strong>]</li>
+					<li className="margin-bottom-20 list-none">→ Đóng chức năng làm Danh Câu [<strong>Noun Clause</strong>].</li>
 
-					<li className="list-none">[remembers {'{what you told me}'}]: [<strong>Động cụm</strong>]</li>
-					<li className="list-none">→ Đóng chức năng làm [<strong>Danh cụm</strong>], điều khiển trực tiếp bởi Động cơ chính remembers</li>
+					<li className="list-none">[remembers {'{what you told me}'}]: Động Cụm [<strong>Verb Phrase</strong>]</li>
+					<li className="list-none">→ Đóng chức năng làm Danh Cụm [<strong>Noun Phrase</strong>], điều khiển trực tiếp bởi Động cơ chính remembers</li>
 			
 				</ul>
 
@@ -253,20 +288,33 @@ export default function AdjPlacement1(): React.JSX.Element {
 			<p className="margin-top-20">Sự tương đồng này còn đạt đến đỉnh cao khi Động câu chức năng <strong>Tính câu</strong> được rút gọn thành một <strong>Tính cụm</strong>.</p>
 
 			<p>Khi các từ nối học thuật được lược bỏ, trật tự câu văn trở nên thuần Việt một cách kinh ngạc::</p>
-					
+
+			<p className="margin-top-20">Dạng Tính Cụm [<strong>Adjective Phrase</strong>] chủ động:</p>
+			
 				<ul className="list-square">
 			
 					<li>The <strong>man</strong> [sitting next to you] is my brother.</li>
 					<li className="list-none">Người <strong>đàn ông</strong> [ngồi cạnh bạn] là anh trai tôi.</li>
-					<li className="margin-bottom-20 list-none">→ [<strong>Tính cụm</strong>] dạng chủ động</li>
-
+			
+				</ul>
+			
+			
+			<p className="margin-top-20">Dạng Tính Cụm [<strong>Adjective Phrase</strong>] bị động:</p>
+			
+				<ul className="list-square">
+			
 					<li>The <strong>mugs</strong> [made in Vietnam] are very durable.</li>
 					<li className="list-none">Những chiếc <strong>ly</strong> [làm tại Việt Nam] rất là bền.</li>
-					<li className="margin-bottom-20 list-none">→ [<strong>Tính cụm</strong>] dạng bị động</li>
-
+			
+				</ul>
+			
+			
+			<p className="margin-top-20">Dạng Tính Cơ [<strong>Adjective Base</strong>] nguyên bản:</p>
+			
+				<ul className="list-square">
+			
 					<li>I am looking for a <strong>person</strong> [suitable for this job].</li>
 					<li className="list-none">Tôi đang tìm một <strong>người</strong> [phù hợp với công việc này].</li>
-					<li className="list-none">→ [<strong>Tính cơ</strong>] dạng nguyên bản</li>
 			
 				</ul>
 
