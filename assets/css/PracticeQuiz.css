@@ -101,6 +101,7 @@
 	margin-bottom: 25px;
 	font-size: 2.0rem;
 	line-height: 1.5;
+	white-space: pre-line;
 }
 
 .options-container {
@@ -194,6 +195,7 @@
 	/* color: #4a5568; */
 	line-height: 1.6;
 	margin-bottom: 25px;
+	white-space: pre-line;
 }
 
 .navigation {
