@@ -408,6 +408,17 @@
       "likes": 0
     },
     {
+      "id": "MatrixQuiz",
+      "categoryDisplay": "Tiếng Anh",
+      "categorySlug": "tieng-anh",
+      "title": "Matrix Quiz",
+      "content": "Morphology × Function Matrix Mastery",
+      "slug": "tieng-anh/matrix-quiz",
+      "date": "2026-06-14",
+      "views": 0,
+      "likes": 0
+    },
+    {
       "id": "Adverb",
       "categoryDisplay": "Grammar",
       "categorySlug": "grammar",
@@ -1823,6 +1834,17 @@
       "content": "BẬT TƯ DUY LẬP TRÌNH, ĐẬP TAN NGỮ PHÁP: TUYỆT CHIÊU ĐÓNG GÓI MÃ NGUỒN CƠ - CỤM - CÂU",
       "slug": "tieng-anh/nested-structure-1",
       "date": "2026-06-11",
+      "views": 0,
+      "likes": 0
+    },
+    {
+      "id": "EVMatrixQuiz",
+      "categoryDisplay": "Tiếng Anh",
+      "categorySlug": "tieng-anh",
+      "title": "EV Matrix Quiz",
+      "content": "Hình thái × Chức năng Matrix",
+      "slug": "tieng-anh/ev-matrix-quiz",
+      "date": "2026-06-14",
       "views": 0,
       "likes": 0
     },

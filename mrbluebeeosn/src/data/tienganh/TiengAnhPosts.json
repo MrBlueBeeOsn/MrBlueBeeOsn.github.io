@@ -1070,6 +1070,15 @@
 			"content": "BẬT TƯ DUY LẬP TRÌNH, ĐẬP TAN NGỮ PHÁP: TUYỆT CHIÊU ĐÓNG GÓI MÃ NGUỒN CƠ - CỤM - CÂU",
 			"slug": "tieng-anh/nested-structure-1",
 			"date": "2026-06-11"
+		},
+		{
+			"id": "EVMatrixQuiz",
+			"categoryDisplay": "Tiếng Anh",
+			"categorySlug": "tieng-anh",
+			"title": "EV Matrix Quiz",
+			"content": "Hình thái × Chức năng Matrix",
+			"slug": "tieng-anh/ev-matrix-quiz",
+			"date": "2026-06-14"
 		}
 	]
 }

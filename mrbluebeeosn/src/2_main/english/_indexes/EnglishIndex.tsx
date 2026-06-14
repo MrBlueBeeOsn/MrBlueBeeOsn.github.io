@@ -386,6 +386,32 @@ export default function EnglishIndex(): React.JSX.Element {
 
         </details>
 
+        {/* =============================
+              Matrix Quiz
+        ============================= */}
+
+        <details className="sub-box-fix-2">
+      
+          <summary id="matrix-quiz"><mark className="highlight-secondary-padding-2-4">Matrix</mark></summary>
+
+          <ul className="list-border1">
+
+            <li>
+              <div className="li-content">
+                <Link to="/english/matrix-quiz">Matrix Quiz</Link>
+              </div>
+            </li>
+
+            
+
+           
+            
+          </ul>
+
+        </details>
+
+        
+
 
 
 
