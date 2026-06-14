@@ -22,123 +22,15 @@ export default function EVMatrixQuiz(): React.JSX.Element {
 	const questions: Question[] = [
 		{
 			id: 1,
-			question: "",
+			question: "The girl [sitting by the window] is my cousin.",
 			options: [
-				"",
-				"",
-				"",
-				""
+				"[Verb Phrase] acting as a [Noun Phrase]",
+				"[Verb Phrase] acting as a [Adjective Phrase]",
+				"[Verb Clause] acting as a [Adjective Clause]",
+				"[Verb Base] acting as a [Adjective Base]"
 			],
-			correctAnswer: 0,
-			explanation: ""
-		},
-		{
-			id: 2,
-			question: "",
-			options: [
-				"",
-				"",
-				"",
-				""
-			],
-			correctAnswer: 0,
-			explanation: ""
-		},
-		{
-			id: 3,
-			question: "",
-			options: [
-				"",
-				"",
-				"",
-				""
-			],
-			correctAnswer: 0,
-			explanation: ""
-		},
-		{
-			id: 4,
-			question: "",
-			options: [
-				"",
-				"",
-				"",
-				""
-			],
-			correctAnswer: 0,
-			explanation: ""
-		},
-		{
-			id: 5,
-			question: "",
-			options: [
-				"",
-				"",
-				"",
-				""
-			],
-			correctAnswer: 0,
-			explanation: ""
-		},
-		{
-			id: 6,
-			question: "",
-			options: [
-				"",
-				"",
-				"",
-				""
-			],
-			correctAnswer: 0,
-			explanation: ""
-		},
-		{
-			id: 7,
-			question: "",
-			options: [
-				"",
-				"",
-				"",
-				""
-			],
-			correctAnswer: 0,
-			explanation: ""
-		},
-		{
-			id: 8,
-			question: "",
-			options: [
-				"",
-				"",
-				"",
-				""
-			],
-			correctAnswer: 0,
-			explanation: ""
-		},
-		{
-			id: 9,
-			question: "",
-			options: [
-				"",
-				"",
-				"",
-				""
-			],
-			correctAnswer: 0,
-			explanation: ""
-		},
-		{
-			id: 10,
-			question: "",
-			options: [
-				"",
-				"",
-				"",
-				""
-			],
-			correctAnswer: 0,
-			explanation: ""
+			correctAnswer: 1,
+			explanation: "Hình thái: Cấu trúc [sitting by the window] là một Động Cụm [Verb Phrase] bắt đầu bằng một hình thái đuôi -ing kèm các thành phần bổ khuyết. \n Chức năng: Đứng sau và bổ nghĩa cho nhóm thành phần chỉ người \"The girl\", đóng vai trò như một Tính Cụm [Adjective Phrase]."
 		}
 	];
 
