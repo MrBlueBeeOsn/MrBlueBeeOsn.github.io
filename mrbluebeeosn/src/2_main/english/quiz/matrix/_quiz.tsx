@@ -22,123 +22,103 @@ export default function (): React.JSX.Element {
 	const questions: Question[] = [
 		{
 			id: 1,
-			question: "",
+			question: " \n ",
 			options: [
-				"",
-				"",
 				"",
 				""
 			],
 			correctAnswer: 0,
-			explanation: ""
+			explanation: " \n\n "
 		},
 		{
 			id: 2,
-			question: "",
+			question: " \n ",
 			options: [
-				"",
-				"",
 				"",
 				""
 			],
 			correctAnswer: 0,
-			explanation: ""
+			explanation: " \n\n "
 		},
 		{
 			id: 3,
-			question: "",
+			question: " \n ",
 			options: [
-				"",
-				"",
 				"",
 				""
 			],
 			correctAnswer: 0,
-			explanation: ""
+			explanation: " \n\n "
 		},
 		{
 			id: 4,
-			question: "",
+			question: " \n ",
 			options: [
-				"",
-				"",
 				"",
 				""
 			],
 			correctAnswer: 0,
-			explanation: ""
+			explanation: " \n\n "
 		},
 		{
 			id: 5,
-			question: "",
+			question: " \n ",
 			options: [
-				"",
-				"",
 				"",
 				""
 			],
 			correctAnswer: 0,
-			explanation: ""
+			explanation: " \n\n "
 		},
 		{
 			id: 6,
-			question: "",
+			question: " \n ",
 			options: [
-				"",
-				"",
 				"",
 				""
 			],
 			correctAnswer: 0,
-			explanation: ""
+			explanation: " \n\n "
 		},
 		{
 			id: 7,
-			question: "",
+			question: " \n ",
 			options: [
-				"",
-				"",
 				"",
 				""
 			],
 			correctAnswer: 0,
-			explanation: ""
+			explanation: " \n\n "
 		},
 		{
 			id: 8,
-			question: "",
+			question: " \n ",
 			options: [
-				"",
-				"",
 				"",
 				""
 			],
 			correctAnswer: 0,
-			explanation: ""
+			explanation: " \n\n "
 		},
 		{
 			id: 9,
-			question: "",
+			question: " \n ",
 			options: [
-				"",
-				"",
 				"",
 				""
 			],
 			correctAnswer: 0,
-			explanation: ""
+			explanation: " \n\n "
 		},
 		{
 			id: 10,
-			question: "",
+			question: " \n ",
 			options: [
-				"",
-				"",
 				"",
 				""
 			],
 			correctAnswer: 0,
-			explanation: ""
+			explanation: " \n\n "
 		}
 	];
 

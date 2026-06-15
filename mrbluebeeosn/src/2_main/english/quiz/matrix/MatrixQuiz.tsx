@@ -22,123 +22,103 @@ export default function MatrixQuiz(): React.JSX.Element {
 	const questions: Question[] = [
 		{
 			id: 1,
-			question: "",
+			question: "[To learn everyday] expands our narrow horizon. \n [Học hỏi mỗi ngày] mở rộng chân trời hạn hẹp của chúng ta.",
 			options: [
-				"",
-				"",
-				"",
-				""
+				"[Noun Phrase]",
+				"[Adjective Phrase]"
 			],
 			correctAnswer: 0,
-			explanation: ""
+			explanation: "Morphology: [To learn everyday] - Động Cụm [Verb Phrase] formed by combining the infinitive marker \"to\", the bare verb base \"learn\", and the adverbial modifier \"everyday\". \n\n Function: [To learn everyday] - Danh Cụm [Noun Phrase] occupies the subject position directly preceding the main predicate \"expands\", acting as the nominal head of the sentence."
 		},
 		{
 			id: 2,
-			question: "",
+			question: "The [fallen] leaves covered the entire driveway. \n Những chiếc lá [đã rụng] phủ kín cả lối vào xe.",
 			options: [
-				"",
-				"",
-				"",
-				""
+				"[Adjective Base]",
+				"[Adverb Base]"
 			],
 			correctAnswer: 0,
-			explanation: ""
+			explanation: "Morphology: [fallen] - Động Cơ [Verb Base] formed by the bare past participle form of the verb \"fall\" without any auxiliary attachments. \n\n Function: [fallen] - Tính Cơ [Adjective Base] modifies and directly describes the head noun \"leaves\"."
 		},
 		{
 			id: 3,
-			question: "",
+			question: "The heavy door flew [open] due to the strong wind. \n Cánh cửa nặng nề đã tung [mở] do cơn gió mạnh.",
 			options: [
-				"",
-				"",
-				"",
-				""
+				"[Adjective Base]",
+				"[Adverb Base]"
 			],
-			correctAnswer: 0,
-			explanation: ""
+			correctAnswer: 1,
+			explanation: "Morphology: [open] - Động Cơ [Verb Base] originating from a bare verb base. \n\n Function: [open] - Trạng Cơ [Adverb Base] acts as a resultative complement modifying the verb \"flew\" to show the final state achieved by the action."
 		},
 		{
 			id: 4,
-			question: "",
+			question: "[Managing a large international team] requires excellent communication skills. \n [Quản lý một đội ngũ quốc tế lớn] đòi hỏi kỹ năng giao tiếp xuất sắc.",
 			options: [
-				"",
-				"",
-				"",
-				""
+				"[Noun Phrase]",
+				"[Adjective Phrase]"
 			],
 			correctAnswer: 0,
-			explanation: ""
+			explanation: "Morphology: [Managing a large international team] - Động Cụm [Verb Phrase] formed by the gerund \"Managing\" and its direct object phrase \"a large international team\". \n\n Function: [Managing a large international team] - Danh Cụm [Noun Phrase] occupies the subject slot of the main verb \"requires\"."
 		},
 		{
 			id: 5,
-			question: "",
+			question: "The book [written by the famous professor] became an overnight bestseller. \n Cuốn sách [được viết bởi vị giáo sư nổi tiếng] đã trở thành sách bán chạy nhất chỉ sau một đêm.",
 			options: [
-				"",
-				"",
-				"",
-				""
+				"[Noun Phrase]",
+				"[Adjective Phrase]"
 			],
-			correctAnswer: 0,
-			explanation: ""
+			correctAnswer: 1,
+			explanation: "Morphology: [written by the famous professor] - Động Cụm [Verb Phrase] formed by the past participle \"written\" and its agentive prepositional phrase \"by the famous professor\". \n\n Function: [written by the famous professor] - Tính Cụm [Adjective Phrase] post-modifies and restricts the meaning of the head noun \"book\"."
 		},
 		{
 			id: 6,
-			question: "",
+			question: "He stayed up all night [to finish his graduation thesis]. \n Anh ấy đã thức cả đêm [để hoàn thành luận văn tốt nghiệp của mình].",
 			options: [
-				"",
-				"",
-				"",
-				""
+				"[Noun Phrase]",
+				"[Adverb Phrase]"
 			],
-			correctAnswer: 0,
-			explanation: ""
+			correctAnswer: 1,
+			explanation: "Morphology: [to finish his graduation thesis] - Động Cụm [Verb Phrase] formed by the infinitive marker \"to\", the verb base \"finish\", and its direct object \"his graduation thesis\". \n\n Function: [to finish his graduation thesis] - Trạng Cụm [Adverb Phrase] modifies the matrix predicate \"stayed up\" by declaring the purpose behind the action."
 		},
 		{
 			id: 7,
-			question: "",
+			question: "The clean laboratory [where they conduct medical experiments] is highly secured. \n Phòng thí nghiệm sạch sẽ [nơi họ tiến hành các thí nghiệm y tế] được bảo mật rất cao.",
 			options: [
-				"",
-				"",
-				"",
-				""
+				"[Adjective Clause]",
+				"[Noun Clause]"
 			],
 			correctAnswer: 0,
-			explanation: ""
+			explanation: "Morphology: [where they conduct medical experiments] - Động Câu [Verb Clause] formed by the relative adverb \"where\" followed by a full clause containing the subject \"they\" and finite verb \"conduct\". \n\n Function: [where they conduct medical experiments] - Tính Câu [Adjective Clause] post-modifies and defines the spatial traits of the head noun \"laboratory\"."
 		},
 		{
 			id: 8,
-			question: "",
+			question: "[Although the team faced severe budget cuts], they successfully completed the project. \n [Mặc dù đội ngũ phải đối mặt với việc cắt giảm ngân sách nghiêm trọng], họ đã hoàn thành dự án một cách thành công.",
 			options: [
-				"",
-				"",
-				"",
-				""
+				"[Noun Clause]",
+				"[Adverb Clause]"
 			],
-			correctAnswer: 0,
-			explanation: ""
+			correctAnswer: 1,
+			explanation: "Morphology: [Although the team faced severe budget cuts] - Động Câu [Verb Clause] formed by the subordinating conjunction \"Although\" followed by a full clause containing the subject \"the team\" and finite verb \"faced\". \n\n Function: [Although the team faced severe budget cuts] - Trạng Câu [Adverb Clause] modifies the entire main clause by providing a situational context of concession."
 		},
 		{
 			id: 9,
-			question: "",
+			question: "I [love {learning complex grammar structures}]. \n Tôi [yêu thích việc {học các cấu trúc ngữ pháp phức tạp}].",
 			options: [
-				"",
-				"",
-				"",
-				""
+				"[Noun Phrase]",
+				"[Nested Noun Phrase]"
 			],
-			correctAnswer: 0,
-			explanation: ""
+			correctAnswer: 1,
+			explanation: "Morphology: [love {learning complex grammar structures}] - Động Cụm [Verb Phrase] containing an outer finite verb \"love\" and an embedded non-finite gerund phrase layer \"{learning complex grammar structures}\". \n\n Function: [love {learning complex grammar structures}] - Danh Cụm Phân Tầng [Nested Noun Phrase] acts as the complete nominal predicate block, where the outer layer is a Danh Cụm [Noun Phrase] acting as the direct object of the subject \"I\", while nesting an internal secondary layer where the gerund phrase acts as an embedded Danh Cụm [Noun Phrase] serving as the direct object of \"love\"."
 		},
 		{
 			id: 10,
-			question: "",
+			question: "The board members [suggested {that we postpone the corporate audit}]. \n Các thành viên ban quản trị [đã đề xuất {rằng chúng ta hoãn lại việc kiểm toán công ty}].",
 			options: [
-				"",
-				"",
-				"",
-				""
+				"[Nested Noun Phrase]",
+				"[Noun Clause]"
 			],
 			correctAnswer: 0,
-			explanation: ""
+			explanation: "Morphology: [suggested {that we postpone the corporate audit}] - Động Cụm [Verb Phrase] containing an outer finite verb \"suggested\" and an embedded finite clause layer \"{that we postpone the corporate audit}\". \n\n Function: [suggested {that we postpone the corporate audit}] - Danh Cụm Phân Tầng [Nested Noun Phrase] acts as the primary nominal predicate block, where the outer layer forms a direct object phrase block, within which sits an embedded finite clause layer \"{that we postpone...}\", which is morphologically an Động Câu [Verb Clause] functioning as a Danh Câu [Noun Clause] acting as the direct object of the internal verb \"suggested\"."
 		}
 	];
 
