@@ -22,15 +22,15 @@ export default function EVMatrixQuiz(): React.JSX.Element {
 	const questions: Question[] = [
 		{
 			id: 1,
-			question: "The girl [sitting by the window] is my cousin.",
+			question: "The girl [sitting by the window] is my cousin. \n\n Cô gái [đang ngồi cạnh cửa sổ] là em họ của tôi. \n\n",
 			options: [
-				"[Verb Phrase] acting as a [Noun Phrase]",
-				"[Verb Phrase] acting as a [Adjective Phrase]",
-				"[Verb Clause] acting as a [Adjective Clause]",
-				"[Verb Base] acting as a [Adjective Base]"
+				"[Verb Phrase] functioning as a [Noun Phrase]",
+				"[Verb Phrase] functioning as an [Adjective Phrase]",
+				"[Verb Clause] functioning as an [Adjective Clause]",
+				"[Verb Base] functioning as an [Adjective Base]"
 			],
 			correctAnswer: 1,
-			explanation: "Hình thái: Cấu trúc [sitting by the window] là một Động Cụm [Verb Phrase] bắt đầu bằng một hình thái đuôi -ing kèm các thành phần bổ khuyết. \n Chức năng: Đứng sau và bổ nghĩa cho nhóm thành phần chỉ người \"The girl\", đóng vai trò như một Tính Cụm [Adjective Phrase]."
+			explanation: "Hình thái: [sitting by the window] - Động Cụm [Verb Phrase] bắt đầu bằng đuôi -ing kèm các thành phần bổ khuyết để tạo thành một cụm hành vi chưa chia thời gian. \n\n Chức năng: [sitting by the window] - Tính Cụm [Adjective Phrase] đứng ngay sau để bổ nghĩa trực tiếp và định danh cho nhóm thành phần chỉ người \"The girl\""
 		}
 	];
 
