@@ -94,7 +94,7 @@ export default function (): React.JSX.Element {
 			id: 8,
 			question: "The manager realized [that the bookkeeper made a serious error]. \n Người quản lý đã nhận ra [rằng người làm sổ sách đã mắc một sai lầm nghiêm trọng].",
 			options: [
-				"[Noun Clause]",
+				"[Noun Phrase]",
 				"[Noun Phrase]"
 			],
 			correctAnswer: 0,
@@ -102,13 +102,13 @@ export default function (): React.JSX.Element {
 		},
 		{
 			id: 9,
-			question: "The accountant who [audits our books every year] is very thorough. \n Người kế toán, [người mà kiểm toán sổ sách của chúng tôi hàng năm], rất kỹ lưỡng.",
+			question: "The accountant [who audits our books every year] is very thorough. \n Người kế toán, [người mà kiểm toán sổ sách của chúng tôi hàng năm], rất kỹ lưỡng.",
 			options: [
 				"[Adjective Phrase]",
 				"[Adjective Clause]"
 			],
 			correctAnswer: 1,
-			explanation: "Hình thái: [audits our books every year] - Động Câu [Verb Clause] có chứa hành động \"audits\" xác định theo thời hiện tại đi kèm thành phần liên kết \"who\". \n\n Chức năng: [audits our books every year] - Tính Câu [Adjective Clause] đứng sau \"The accountant\" đứng ra bổ nghĩa cho thành phần này."
+			explanation: "Hình thái: [who audits our books every year] - Động Câu [Verb Clause] bắt đầu bằng thành phần liên kết \"who\", có chứa hành động \"audits\" xác định theo thời hiện tại. \n\n Chức năng: [who audits our books every year] - Tính Câu [Adjective Clause] đứng sau \"The accountant\" đứng ra bổ nghĩa cho thành phần này."
 		},
 		{
 			id: 10,
