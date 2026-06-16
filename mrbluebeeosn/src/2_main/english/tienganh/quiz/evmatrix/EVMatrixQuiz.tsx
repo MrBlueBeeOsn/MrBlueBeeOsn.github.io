@@ -58,7 +58,7 @@ export default function EVMatrixQuiz(): React.JSX.Element {
 				"[Adjective Clause]"
 			],
 			correctAnswer: 1,
-			explanation: "Hình thái: [that you lent me yesterday] - Động Câu [Verb Clause] bắt đầu bằng từ nối kết hợp đầy đủ một chủ thể (you) và hành vi đã chia thời gian (lent). \n\n Chức năng: [that you lent me yesterday] - Tính Câu [Adjective Clause] đứng sau để bổ nghĩa và hạn định đặc điểm cho nhóm thành phần chỉ vật \"The book\"."
+			explanation: "Hình thái: [that you lent me yesterday] - Động Câu [Verb Clause] bắt đầu bằng một thành phần kết nối đi kèm đầy đủ một chủ thể (you) và hành vi đã chia thời gian (lent). \n\n Chức năng: [that you lent me yesterday] - Tính Câu [Adjective Clause] đứng sau để bổ nghĩa và hạn định đặc điểm cho nhóm thành phần chỉ vật \"The book\"."
 		},
 		{
 			id: 5,
@@ -68,7 +68,7 @@ export default function EVMatrixQuiz(): React.JSX.Element {
 				"[Nested Noun Phrase]"
 			],
 			correctAnswer: 1,
-			explanation: "Hình thái: [know {what we should do next}] - Động Cụm [Verb Phrase] chứa hành vi hạt nhân \"know\" đi kèm thành phần bổ khuyết là một Động Câu [Verb Clause] có cấu trúc chủ-vị hoàn chỉnh ở tầng trong {}. \n\n Chức năng: [know {what we should do next}] - Danh Cụm Phân Tầng [Nested Noun Phrase] đóng vai trò cụm tiếp nhận lớn bên ngoài, chứa một danh câu làm thành phần tiếp nhận trực tiếp cho \"know\" ở bên trong."
+			explanation: "Hình thái: [know {what we should do next}] - Động Cụm [Verb Phrase] chứa hành vi hạt nhân \"know\" đi kèm thành phần bổ khuyết là một Động Câu [Verb Clause] có cấu trúc chủ-hành vi hoàn chỉnh ở tầng trong {}. \n\n Chức năng: [know {what we should do next}] - Danh Cụm Phân Tầng [Nested Noun Phrase] đóng vai trò cụm tiếp nhận lớn bên ngoài, chứa một danh câu làm thành phần tiếp nhận trực tiếp cho \"know\" ở bên trong."
 		},
 		{
 			id: 6,
@@ -78,7 +78,7 @@ export default function EVMatrixQuiz(): React.JSX.Element {
 				"[Adverb Clause]"
 			],
 			correctAnswer: 1,
-			explanation: "Hình thái: [as soon as the rain stops] - Động Câu [Verb Clause] bắt đầu bằng từ nối kết hợp kết cấu chủ-vị hoàn chỉnh (the rain stops) đã chia thời gian. \n\n Chức năng: [as soon as the rain stops] - Trạng Câu [Adverb Clause] liên kết vào cấu trúc để xác định mốc thời gian diễn ra cho toàn bộ phần thông tin chính \"They will leave\"."
+			explanation: "Hình thái: [as soon as the rain stops] - Động Câu [Verb Clause] bắt đầu bằng thành phần kết nối đi kèm kết cấu chủ-hành vi hoàn chỉnh (the rain stops) đã chia thời gian. \n\n Chức năng: [as soon as the rain stops] - Trạng Câu [Adverb Clause] liên kết vào cấu trúc để xác định mốc thời gian diễn ra cho toàn bộ phần thông tin chính \"They will leave\"."
 		},
 		{
 			id: 7,
