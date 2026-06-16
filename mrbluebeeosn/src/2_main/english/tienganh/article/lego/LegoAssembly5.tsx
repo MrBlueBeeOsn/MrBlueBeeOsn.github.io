@@ -50,7 +50,7 @@ export default function LegoAssembly5(): React.JSX.Element {
 
 			<h4 className="margin-bottom-30 text-center">Học ngữ pháp tiếng Anh bằng cách lắp ghép</h4>
 			
-			<p>Học tiếng Anh theo kiểu truyền thống, bạn phải nhớ "thì hiện tại đơn", "thì quá khứ tiếp diễn", rồi hàng chục bảng chia động cơ với đầy ngoại lệ.</p>
+			<p>Học tiếng Anh theo kiểu truyền thống, bạn phải nhớ "thời hiện tại đơn", "thời quá khứ tiếp diễn", rồi hàng chục bảng chia động cơ với đầy ngoại lệ.</p>
 
 			<p>Lego Assembly đề xuất một cách nhìn hoàn toàn khác:</p>
 

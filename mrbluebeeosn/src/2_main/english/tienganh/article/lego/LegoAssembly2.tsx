@@ -58,7 +58,7 @@ export default function LegoAssembly2(): React.JSX.Element {
 
 			<p className="margin-y-50 text-indent-whole"><strong>S Head DP</strong>/<strong>DC</strong></p>
 			
-			<p>Hãy bỏ qua danh xưng "thì hiện tại đơn", "quá khứ tiếp diễn". Thay vào đó, bạn chỉ cần biết cách lắp ba khối Lego lại với nhau. Nghe có vẻ đơn giản? Bởi vì nó thực sự đơn giản.</p>
+			<p>Hãy bỏ qua danh xưng "thời hiện tại đơn", "quá khứ tiếp diễn". Thay vào đó, bạn chỉ cần biết cách lắp ba khối Lego lại với nhau. Nghe có vẻ đơn giản? Bởi vì nó thực sự đơn giản.</p>
 
 
 

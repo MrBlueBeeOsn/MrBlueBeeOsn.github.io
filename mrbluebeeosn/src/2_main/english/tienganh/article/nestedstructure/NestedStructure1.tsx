@@ -52,7 +52,7 @@ export default function NestedStructure1(): React.JSX.Element {
 
 			<p>Bạn đã bao giờ rơi vào trạng thái "chập mạch" khi cố gắng nhồi nhét hàng tá cấu trúc ngôn ngữ phức tạp?</p>
 
-			<p>Nào là chia thì, chia ngôi, rồi loay hoay không biết xử lý chữ "s/es", đuôi "-ed", hay các vế câu lồng nhau thế nào cho thuận mắt?</p>
+			<p>Nào là chia thời, chia ngôi, rồi loay hoay không biết xử lý chữ "s/es", đuôi "-ed", hay các vế câu lồng nhau thế nào cho thuận mắt?</p>
 
 			<p>Cách tiếp cận phân mảnh thông thường giống như việc cố học code bằng cách học thuộc lòng từng dòng lệnh rời rạc mà không hiểu kiến trúc hệ thống, dẫn đến việc luôn cảm thấy "cấn" mỗi khi dịch hay viết câu.</p>
 
@@ -125,7 +125,7 @@ export default function NestedStructure1(): React.JSX.Element {
 
 			<p className="text-indent-whole">Chúng không bao giờ bị tách rời khỏi cụm của mình.</p>
 
-			<p className="margin-bottom-30 text-indent-whole">Việc chia ngôi hay chia thì chỉ là dữ liệu cấu hình nội bộ (<strong>configuration</strong>) của Động cơ đó, hoàn toàn không làm thay đổi hình thái hay chức năng của Module khi xuất ra ngoài.</p>
+			<p className="margin-bottom-30 text-indent-whole">Việc chia ngôi hay chia thời chỉ là dữ liệu cấu hình nội bộ (<strong>configuration</strong>) của Động cơ đó, hoàn toàn không làm thay đổi hình thái hay chức năng của Module khi xuất ra ngoài.</p>
 
 
 			<p>Nguyên tắc "<strong>Phân tầng</strong> (<strong>Nested Structure</strong>)" & <strong>Đệ quy</strong>:</p>
@@ -337,7 +337,7 @@ export default function NestedStructure1(): React.JSX.Element {
 
 			<p>Tại sao hệ thống này lại tối ưu cho bộ não của bạn?</p>
 
-			<p>Bởi vì nó triệt tiêu tận gốc sự phân mảnh. Cách học cũ ép bạn phải bóc tách động cơ chia thì ra khỏi các thành phần bổ trợ, khiến luồng tư duy bị ngắt quãng và tạo ra cảm giác "cấn" khi xử lý các câu dài hoặc các vế lồng nhau.</p>
+			<p>Bởi vì nó triệt tiêu tận gốc sự phân mảnh. Cách học cũ ép bạn phải bóc tách động cơ chia thời ra khỏi các thành phần bổ trợ, khiến luồng tư duy bị ngắt quãng và tạo ra cảm giác "cấn" khi xử lý các câu dài hoặc các vế lồng nhau.</p>
 
 			<p>Còn với <strong>Tư duy lập trình cấu trúc</strong>, bất kể khối lệnh dài hay ngắn, lồng nhau bao nhiêu lớp, bạn chỉ cần thực hiện đúng quy trình bóc tách từ ngoài vào trong:</p>
 			

@@ -19,11 +19,11 @@ export default function HieuDungVeThiHienTaiHoanThanh(): React.JSX.Element {
 
 			<h1 className="margin-y-50 text-center">Hiểu Đúng Về Thì Hiện Tại Hoàn Thành (Present Perfect)</h1>
 
-			<p>Bạn đã bao giờ tự hỏi: "Thì hiện tại hoàn thành có phải dùng để nói về hành động chưa hoàn thành trong quá khứ không?" Đây là một câu hỏi rất phổ biến của người học tiếng Anh, và câu trả lời là <strong>đúng một phần</strong>, nhưng chưa đầy đủ. Hãy cùng mình khám phá sâu hơn về thì này để nắm rõ và dùng chính xác nhé!</p>
+			<p>Bạn đã bao giờ tự hỏi: "Thời hiện tại hoàn thành có phải dùng để nói về hành động chưa hoàn thành trong quá khứ không?" Đây là một câu hỏi rất phổ biến của người học tiếng Anh, và câu trả lời là <strong>đúng một phần</strong>, nhưng chưa đầy đủ. Hãy cùng mình khám phá sâu hơn về thì này để nắm rõ và dùng chính xác nhé!</p>
 
 			<h3 className="margin-y-50 text-center">Thì Hiện Tại Hoàn Thành Là Gì?</h3>
 
-			<p>Thì hiện tại hoàn thành được cấu tạo bởi <strong>have/has</strong> + <strong>động cơ ở dạng past participle</strong> (V3).</p>
+			<p>Thời hiện tại hoàn thành được cấu tạo bởi <strong>have/has</strong> + <strong>động cơ ở dạng past participle</strong> (V3).</p>
 
 			<p>Ví dụ:</p>
 
@@ -35,7 +35,7 @@ export default function HieuDungVeThiHienTaiHoanThanh(): React.JSX.Element {
 
 				</ul>
 
-			<p className="margin-top-20">Khác với thì quá khứ đơn (Past Simple), thì hiện tại hoàn thành <strong>luôn có sự liên kết với hiện tại</strong>. Nó không chỉ kể về quá khứ mà còn nhấn mạnh hậu quả hoặc sự tiếp diễn đến thời điểm bây giờ.</p>
+			<p className="margin-top-20">Khác với thời quá khứ đơn (Past Simple), thời hiện tại hoàn thành <strong>luôn có sự liên kết với hiện tại</strong>. Nó không chỉ kể về quá khứ mà còn nhấn mạnh hậu quả hoặc sự tiếp diễn đến thời điểm bây giờ.</p>
 
 			<h3 className="margin-y-50 text-center">Các Ý Nghĩa Chính Của Thì Hiện Tại Hoàn Thành</h3>
 
@@ -139,7 +139,7 @@ export default function HieuDungVeThiHienTaiHoanThanh(): React.JSX.Element {
 			
 				</ul>
 
-			<p className="margin-top-20">Thì hiện tại hoàn thành không khó, chỉ cần luyện tập là sẽ quen thôi! Hãy thử viết vài câu về bản thân bằng thì này xem sao:</p>
+			<p className="margin-top-20">Thời hiện tại hoàn thành không khó, chỉ cần luyện tập là sẽ quen thôi! Hãy thử viết vài câu về bản thân bằng thì này xem sao:</p>
 			
 				<ul className="list-square">
 			

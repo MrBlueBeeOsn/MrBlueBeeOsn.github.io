@@ -30,7 +30,7 @@ export default function EVAuxiliaryVerbsQuiz(): React.JSX.Element {
 				"did"
 			],
 			correctAnswer: 1,
-			explanation: "Câu này sử dụng thì hiện tại hoàn thành (have + V3/ed) để diễn tả một trải nghiệm chưa từng xảy ra trong quá khứ tính đến hiện tại."
+			explanation: "Câu này sử dụng thời hiện tại hoàn thành (have + V3/ed) để diễn tả một trải nghiệm chưa từng xảy ra trong quá khứ tính đến hiện tại."
 		},
 		{
 			id: 2,
@@ -42,7 +42,7 @@ export default function EVAuxiliaryVerbsQuiz(): React.JSX.Element {
 				"Were"
 			],
 			correctAnswer: 2,
-			explanation: "Để đặt câu hỏi cho hành động đã kết thúc trong quá khứ (yesterday), ta dùng trợ động cơ \"Did\" của thì quá khứ đơn."
+			explanation: "Để đặt câu hỏi cho hành động đã kết thúc trong quá khứ (yesterday), ta dùng trợ động cơ \"Did\" của thời quá khứ đơn."
 		},
 		{
 			id: 3,
@@ -54,7 +54,7 @@ export default function EVAuxiliaryVerbsQuiz(): React.JSX.Element {
 				"will"
 			],
 			correctAnswer: 0,
-			explanation: "Cụm từ \"at the moment\" dấu hiệu của thì hiện tại tiếp diễn, công thức là \"be + V-ing\". Với chủ ngữ \"She\", trợ động cơ phù hợp là \"is\"."
+			explanation: "Cụm từ \"at the moment\" dấu hiệu của thời hiện tại tiếp diễn, công thức là \"be + V-ing\". Với chủ ngữ \"She\", trợ động cơ phù hợp là \"is\"."
 		},
 		{
 			id: 4,
@@ -78,7 +78,7 @@ export default function EVAuxiliaryVerbsQuiz(): React.JSX.Element {
 				"Have"
 			],
 			correctAnswer: 0,
-			explanation: "Câu hỏi về một hành động xảy ra trước một thời điểm trong quá khứ (last summer) nên ta dùng thì quá khứ hoàn thành (Had + V3/ed)."
+			explanation: "Câu hỏi về một hành động xảy ra trước một thời điểm trong quá khứ (last summer) nên ta dùng thời quá khứ hoàn thành (Had + V3/ed)."
 		},
 		{
 			id: 6,
@@ -102,7 +102,7 @@ export default function EVAuxiliaryVerbsQuiz(): React.JSX.Element {
 				"has"
 			],
 			correctAnswer: 1,
-			explanation: "Đây là câu bị động ở thì quá khứ đơn (Be + V3/ed). Vì \"yesterday\" và \"cake\" là số ít nên ta dùng \"was\"."
+			explanation: "Đây là câu bị động ở thời quá khứ đơn (Be + V3/ed). Vì \"yesterday\" và \"cake\" là số ít nên ta dùng \"was\"."
 		},
 		{
 			id: 8,
@@ -126,7 +126,7 @@ export default function EVAuxiliaryVerbsQuiz(): React.JSX.Element {
 				"did"
 			],
 			correctAnswer: 2,
-			explanation: "Cấu trúc \"have/has + been + V-ing\" của thì hiện tại hoàn thành tiếp diễn dùng để diễn tả hành động bắt đầu trong quá khứ và vẫn đang tiếp tục."
+			explanation: "Cấu trúc \"have/has + been + V-ing\" của thời hiện tại hoàn thành tiếp diễn dùng để diễn tả hành động bắt đầu trong quá khứ và vẫn đang tiếp tục."
 		},
 		{
 			id: 10,

@@ -263,7 +263,7 @@ export default function DichCauHoiTiengAnh(): React.JSX.Element {
 
 					<li>Chủ từ: <strong>he</strong> → anh ấy.</li>
 
-					<li>Trợ động cơ: <strong>did</strong> (thường không dịch trực tiếp, thể hiện qua thì quá khứ).</li>
+					<li>Trợ động cơ: <strong>did</strong> (thường không dịch trực tiếp, thể hiện qua thời quá khứ).</li>
 
 					<li>Động cơ chính: <strong>run</strong> → chạy.</li>
 

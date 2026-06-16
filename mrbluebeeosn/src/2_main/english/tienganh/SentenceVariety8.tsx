@@ -125,7 +125,7 @@ export default function SentenceVariety8(): React.JSX.Element {
 				<ul className="list-square">
 			
 					<li><strong>Tách trước</strong>, <strong>ghép sau</strong></li>
-					<li className="margin-top-20 list-none">Lấy một đoạn tiếng Anh bất kỳ, gạch chân động cơ chính. Đếm được 1 động cơ chia thì = 1 câu con. Luyện 5 phút mỗi ngày, mắt bạn sẽ tự động thấy khung.</li>
+					<li className="margin-top-20 list-none">Lấy một đoạn tiếng Anh bất kỳ, gạch chân động cơ chính. Đếm được 1 động cơ chia thời = 1 câu con. Luyện 5 phút mỗi ngày, mắt bạn sẽ tự động thấy khung.</li>
 			
 					<li><strong>Học theo cụm</strong>, <strong>không học lẻ</strong>.</li>
 					<li className="margin-top-20 list-none">Đừng học "although". Học cả cụm "Although it was hard, I kept going." Thay chủ ngữ là dùng được.</li>
