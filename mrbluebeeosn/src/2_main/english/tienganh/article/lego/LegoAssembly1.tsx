@@ -388,9 +388,9 @@ export default function LegoAssembly1(): React.JSX.Element {
 				</ul>
 
 
-			{/* 4.  */}
+			{/* 5.  */}
 
-			<h3 className="margin-y-50 text-center">4. Tuyệt Chiêu "Đảo Khối": Phủ Định & Nghi Vấn Trong 1 Nốt Nhạc</h3>
+			<h3 className="margin-y-50 text-center">5. Tuyệt Chiêu "Đảo Khối": Phủ Định & Nghi Vấn Trong 1 Nốt Nhạc</h3>
 
 			<p>Khi đã coi câu là các khối Lego, việc chuyển sang phủ định hay câu hỏi trở nên cực kỳ trực quan. Bạn không cần nhớ công thức mới, chỉ cần dịch chuyển Khối Nguồn (Head).</p>
 
@@ -507,9 +507,9 @@ export default function LegoAssembly1(): React.JSX.Element {
 
 	
 
-			{/* 5.  */}
+			{/* 6.  */}
 
-			<h3 className="margin-y-50 text-center">5. Tại Sao Tư Duy Lego Lại Giải Phóng Bộ Não Của Bạn?</h3>
+			<h3 className="margin-y-50 text-center">6. Tại Sao Tư Duy Lego Lại Giải Phóng Bộ Não Của Bạn?</h3>
 
 			<h4 className="margin-y-40">1. Sửa lỗi kiến trúc ngay lập tức:</h4>
 					
@@ -522,7 +522,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 			
 				</ul>
 			
-			<p className="margin-top-20 text-indent-whole">Chúng sai vì có Chủ ngữ (S) và có một Động cụm, nhưng lại <strong>thiếu mất Bộ nguồn</strong> (<strong>Head</strong>) để cấp thời gian!</p>
+			<p className="margin-top-20 text-indent-whole">Chúng sai vì có S và có một Động Cụm [Verb Phrase], nhưng lại thiếu mất Bộ nguồn (Head) để cấp thời gian!</p>
 
 			<p className="text-indent-whole">Bộ não của bạn sẽ tự động "báo lỗi" cơ học và buộc bạn phải cấp nguồn vào:</p>
 			
@@ -532,26 +532,26 @@ export default function LegoAssembly1(): React.JSX.Element {
 					<li className="list-none">Cô ấy [đang nấu bữa tối].</li>
 			
 				</ul>
-			
+
 
 			<h4 className="margin-y-40">Đóng gói dữ liệu thần tốc (Chunking):</h4>
 					
-			<p className="text-indent-whole">Khi nói hoặc viết, bạn không dịch lạch cạch từng từ đơn lẻ theo kiểu tiếng Việt. Bộ não của bạn chỉ làm 2 việc:</p>
+			<p className="text-indent-whole">Khi nói hoặc viết, bạn không dịch lạch cạch từng chữ đơn lẻ một cách rời rạc. Bộ não của bạn chỉ làm 2 việc:</p>
 			
 				<ul className="list-square">
 			
 					<li>Chốt khung nguồn [I am]... / [She will]...</li>
 			
-					<li>Và nhấc nguyên một hộp <strong>Cơ</strong>, <strong>Cụm</strong>, hoặc <strong>Câu</strong> tương ứng với ý mình muốn nói để ném vào phía sau Head.</li>
+					<li>Và nhấc nguyên một hộp Cơ, Cụm, hoặc Câu tương ứng với ý mình muốn nói để ném vào phía sau Head.</li>
 			
 				</ul>
 			
 			<p className="margin-top-20 text-indent-whole">Tốc độ phản xạ sẽ tăng lên gấp nhiều lần.</p>
 		
 			
-			<p className="margin-top-40">Tiếng Anh, suy cho cùng, không phải là một chuỗi những quy tắc bài tập trên giấy. Nhìn nhận nó như một hệ thống lắp ráp cơ học, phân tách rõ ràng giữa <strong>Hình thái vật lý</strong> và <strong>Chức năng vị trí</strong> sẽ giúp bạn làm chủ ngôn ngữ này một cách tự nhiên nhất.</p>
+			<p className="margin-top-40">Học tiếng Anh, suy cho cùng, không phải là một chuỗi những quy tắc bài tập trên giấy. Nhìn nhận nó như một hệ thống lắp ráp cơ học, phân tách rõ ràng giữa Hình thái vật lý và Chức năng vị trí sẽ giúp bạn làm chủ cấu trúc này một cách tự nhiên nhất.</p>
 
-			<p className="margin-top-20">Hãy ngừng học thuộc lòng các "thì" vẹt, bật bộ nguồn Head lên và bắt đầu lắp ráp câu của riêng bạn ngay hôm nay!</p>
+			<p className="margin-top-20">Hãy ngừng học thuộc lòng vẹt các loại thời gian máy móc, bật bộ nguồn Head lên và bắt đầu lắp ráp câu của riêng bạn ngay hôm nay!</p>
 			
 
 			<div className="viewcounter">
