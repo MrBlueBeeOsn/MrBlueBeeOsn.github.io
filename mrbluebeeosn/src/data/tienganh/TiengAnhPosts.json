@@ -1079,6 +1079,15 @@
 			"content": "Hình thái × Chức năng Matrix",
 			"slug": "tieng-anh/ev-matrix-quiz",
 			"date": "2026-06-14"
+		},
+		{
+			"id": "EVBookkeepingMatrix",
+			"categoryDisplay": "Tiếng Anh",
+			"categorySlug": "tieng-anh",
+			"title": "EV Bookkeeping Matrix",
+			"content": "EV Bookkeeping Matrix",
+			"slug": "tieng-anh/ev-bookkeeping-matrix-quiz",
+			"date": "2026-06-16"
 		}
 	]
 }

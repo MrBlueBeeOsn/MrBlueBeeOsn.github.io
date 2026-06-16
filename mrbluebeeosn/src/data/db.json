@@ -419,6 +419,17 @@
       "likes": 0
     },
     {
+      "id": "BookkeepingMatrix",
+      "categoryDisplay": "Tiếng Anh",
+      "categorySlug": "tieng-anh",
+      "title": "Bookkeeping Matrix",
+      "content": "Bookkeeping Matrix",
+      "slug": "tieng-anh/bookkeeping-matrix-quiz",
+      "date": "2026-06-16",
+      "views": 0,
+      "likes": 0
+    },
+    {
       "id": "Adverb",
       "categoryDisplay": "Grammar",
       "categorySlug": "grammar",
@@ -1845,6 +1856,17 @@
       "content": "Hình thái × Chức năng Matrix",
       "slug": "tieng-anh/ev-matrix-quiz",
       "date": "2026-06-14",
+      "views": 0,
+      "likes": 0
+    },
+    {
+      "id": "EVBookkeepingMatrix",
+      "categoryDisplay": "Tiếng Anh",
+      "categorySlug": "tieng-anh",
+      "title": "EV Bookkeeping Matrix",
+      "content": "EV Bookkeeping Matrix",
+      "slug": "tieng-anh/ev-bookkeeping-matrix-quiz",
+      "date": "2026-06-16",
       "views": 0,
       "likes": 0
     },

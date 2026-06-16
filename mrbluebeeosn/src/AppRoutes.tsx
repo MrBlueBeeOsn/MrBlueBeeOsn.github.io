@@ -103,6 +103,9 @@ const Posts = lazy(() => import('@/data/Posts'));
 
 	// Matrix Quiz
 	const MatrixQuiz = lazy(() => import('@/2_main/english/quiz/matrix/MatrixQuiz'));
+
+	// Bookkeeping Matrix
+	const BookkeepingMatrix = lazy(() => import('@/2_main/english/quiz/bookkeepingmatrix/BookkeepingMatrix'));
 	
 
 
@@ -329,6 +332,10 @@ const Posts = lazy(() => import('@/data/Posts'));
 
 	// EV Matrix Quiz
 	const EVMatrixQuiz = lazy(() => import('@/2_main/english/tienganh/quiz/evmatrix/EVMatrixQuiz'));
+
+
+	// EV Bookkeeping Matrix
+	const EVBookkeepingMatrix = lazy(() => import('@/2_main/english/tienganh/quiz/evbookkeepingmatrix/EVBookkeepingMatrix'));
 
 	
 	// 5. Vocabulary - Tính chính xác
@@ -690,6 +697,10 @@ export default function AppRoutes(): React.JSX.Element {
 
 					{/* Matrix Quiz */}
 					<Route path="/english/matrix-quiz" element={<MatrixQuiz />} />
+
+
+					{/* Matrix Quiz */}
+					<Route path="/english/bookkeeping-matrix-quiz" element={<BookkeepingMatrix />} />
 					
 					
 					
@@ -918,6 +929,9 @@ export default function AppRoutes(): React.JSX.Element {
 
 					{/* EV Matrix Quiz */}
 					<Route path="/tieng-anh/ev-matrix-quiz" element={<EVMatrixQuiz />} />
+
+					{/* EV Matrix Quiz */}
+					<Route path="/tieng-anh/ev-bookkeeping-matrix-quiz" element={<EVBookkeepingMatrix />} />
 					
 
 

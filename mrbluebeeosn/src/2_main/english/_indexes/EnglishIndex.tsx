@@ -402,6 +402,12 @@ export default function EnglishIndex(): React.JSX.Element {
               </div>
             </li>
 
+            <li>
+              <div className="li-content">
+                <Link to="/english/bookkeeping-matrix-quiz">Bookkeeping Matrix</Link>
+              </div>
+            </li>
+
             
 
            
