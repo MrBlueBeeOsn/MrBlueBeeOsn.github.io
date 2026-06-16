@@ -155,7 +155,7 @@ export default function DependentClause7(): React.JSX.Element {
 
 			<p className="text-indent-whole"><strong>Cấu trúc 1</strong> — <strong>Phụ câu đứng đầu</strong>:</p>
 
-			<p className="text-indent-whole">[Từ nối + Chủ ngữ + Động cơ], + [Độc câu]</p>
+			<p className="text-indent-whole">[Từ nối + Chủ ngữ + Động cơ], + [Câu con]</p>
 			
 				<ul className="list-square">
 			
@@ -166,7 +166,7 @@ export default function DependentClause7(): React.JSX.Element {
 					
 			<p className="margin-top-20 text-indent-whole"><strong>Cấu trúc 2</strong> — <strong>Phụ câu đứng cuối</strong>:</p>
 
-			<p className="text-indent-whole">[Độc câu] + [Từ nối + Chủ ngữ + Động cơ]</p>
+			<p className="text-indent-whole">[Câu con] + [Từ nối + Chủ ngữ + Động cơ]</p>
 			
 				<ul className="list-square">
 			
@@ -264,7 +264,7 @@ export default function DependentClause7(): React.JSX.Element {
 
 			<h3 className="margin-y-50 text-center">4. Cách phân biệt phụ câu và câu con độc lập</h3>
 
-			<h4 className="margin-y-40">1. Độc câu</h4>
+			<h4 className="margin-y-40">1. Câu con</h4>
 					
 			<p className="text-indent-whole">✅ Có: Có thể đứng một mình</p>
 			<p className="text-indent-whole">Bắt đầu bằng từ nối: Không (hoặc FANBOYS)</p>

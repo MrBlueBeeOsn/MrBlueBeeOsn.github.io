@@ -62,7 +62,7 @@ export default function DependentClause9(): React.JSX.Element {
 
 			<p>Một phụ câu, dù sở hữu đầy đủ chủ ngữ và động cơ, vẫn chưa thể tự mình truyền tải một thông điệp hoàn chỉnh. Nó luôn cần một <strong>câu con độc lập</strong> (<strong>Independent Clause</strong>) để làm điểm tựa, để ý nghĩa được neo giữ và phát triển. Sự kết nối này được tạo nên bởi một <strong>từ liên kết phụ thuộc</strong> (<strong>subordinator</strong>) đứng ở phần mở đầu. Những từ này, như because, although, if, when, who, which, that, as, hay các từ nghi vấn (Wh-words), không chỉ là dấu hiệu nhận biết mà còn là sợi dây liên kết, định hình mối quan hệ giữa các ý tưởng.</p>
 
-			<p>Hãy hình dung một câu văn như một bản giao hưởng. Độc câu là giai điệu chính, là chủ đề xuyên suốt. Phụ câu là những đoạn biến tấu, những hòa âm, những nốt nhạc bổ sung, chúng tự thân có giai điệu riêng nhưng chỉ thực sự thăng hoa khi được đặt vào tổng thể bản nhạc. Nếu tách rời, chúng sẽ trở nên lạc lõng và thiếu đi ngữ cảnh, không thể tạo nên một tác phẩm hoàn chỉnh.</p>
+			<p>Hãy hình dung một câu văn như một bản giao hưởng. Câu con là giai điệu chính, là chủ đề xuyên suốt. Phụ câu là những đoạn biến tấu, những hòa âm, những nốt nhạc bổ sung, chúng tự thân có giai điệu riêng nhưng chỉ thực sự thăng hoa khi được đặt vào tổng thể bản nhạc. Nếu tách rời, chúng sẽ trở nên lạc lõng và thiếu đi ngữ cảnh, không thể tạo nên một tác phẩm hoàn chỉnh.</p>
 
 			<p className="margin-top-20">Chẳng hạn, khi bạn nghe:</p>
 			

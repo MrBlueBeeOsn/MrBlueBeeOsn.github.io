@@ -22,103 +22,103 @@ export default function (): React.JSX.Element {
 	const questions: Question[] = [
 		{
 			id: 1,
-			question: " \n ",
+			question: "[Recording every business transaction] is the fundamental task of a bookkeeper. \n [Ghi chép mọi giao dịch kinh doanh] là nhiệm vụ cơ bản của một người làm sổ sách.",
 			options: [
-				"",
-				""
+				"[Noun Clause]",
+				"[Noun Phrase]"
 			],
-			correctAnswer: 0,
-			explanation: " \n\n "
+			correctAnswer: 1,
+			explanation: "Hình thái: [Recording every business transaction] - Động Cụm [Verb Phrase] bắt đầu bằng hành động thêm đuôi \"-ing\" đi kèm các thành phần bổ nghĩa, không có chủ thể thực hiện hành động đứng trước và không biến đổi theo thời gian. \n\n Chức năng: [Recording every business transaction] - Danh Cụm [Noun Phrase] cả này giữ vai trò làm thành phần đứng đầu chính đứng trước \"is\"."
 		},
 		{
 			id: 2,
-			question: " \n ",
+			question: "The bookkeeper provided the [adjusting] entries for the month-end reports. \n Người làm sổ sách đã cung cấp các bút toán [điều chỉnh] cho các báo cáo cuối tháng.",
 			options: [
-				"",
-				""
+				"[Adjective Base]",
+				"[Adverb Base]"
 			],
 			correctAnswer: 0,
-			explanation: " \n\n "
+			explanation: "Hình thái: [adjusting] - Động Cơ [Verb Base] dạng gốc thêm đuôi \"-ing\" đứng đơn lẻ. \n\n Chức năng: [adjusting] - Tính Cơ [Adjective Base] đi kèm ngay trước \"entries\" đứng ra bổ nghĩa cho thành phần này."
 		},
 		{
 			id: 3,
-			question: " \n ",
+			question: "The clerk worked [calculating the total payroll for the staff]. \n Nhân viên đã làm việc [tính toán tổng lương cho đội ngũ nhân sự].",
 			options: [
-				"",
-				""
+				"[Adverb Clause]",
+				"[Adverb Phrase]"
 			],
-			correctAnswer: 0,
-			explanation: " \n\n "
+			correctAnswer: 1,
+			explanation: "Hình thái: [calculating the total payroll for the staff] - Động Cụm [Verb Phrase] bắt đầu bằng hành động thêm đuôi \"-ing\" đi kèm các thành phần bổ nghĩa phía sau, không có chủ thể riêng biệt. \n\n Chức năng: [calculating the total payroll for the staff] - Trạng Cụm [Adverb Phrase] đi kèm sau hành động chính \"worked\" đứng ra bổ nghĩa cho hành động đó theo góc độ cách thức."
 		},
 		{
 			id: 4,
-			question: " \n ",
+			question: "[To maintain accurate financial records] requires constant attention to detail. \n [Để duy trì các hồ sơ tài chính chính xác] đòi hỏi sự chú ý liên tục đến từng chi tiết.",
 			options: [
-				"",
-				""
+				"[Noun Phrase]",
+				"[Noun Clause]"
 			],
 			correctAnswer: 0,
-			explanation: " \n\n "
+			explanation: "Hình thái: [To maintain accurate financial records] - Động Cụm [Verb Phrase] bắt đầu bằng hành động đi kèm \"to\" phía trước kết hợp thành phần bổ nghĩa, không chứa chủ thể thực hiện hành động. \n\n Chức năng: [To maintain accurate financial records] - Danh Cụm [Noun Phrase] cả này giữ vai trò làm thành phần đứng đầu chính đứng trước \"requires\"."
 		},
 		{
 			id: 5,
-			question: " \n ",
+			question: "The ledger [containing all the credit sales] is kept in the safe. \n Cuốn sổ cái [chứa tất cả các khoản bán hàng ghi nợ] được cất giữ trong két sắt.",
 			options: [
-				"",
-				""
+				"[Adjective Clause]",
+				"[Adjective Phrase]"
 			],
-			correctAnswer: 0,
-			explanation: " \n\n "
+			correctAnswer: 1,
+			explanation: "Hình thái: [containing all the credit sales] - Động Cụm [Verb Phrase] bắt đầu bằng hành động thêm đuôi \"-ing\" kết hợp thành phần bổ nghĩa, không có chủ thể riêng đứng trước. \n\n Chức năng: [containing all the credit sales] - Tính Cụm [Adjective Phrase] đứng sau \"The ledger\" đứng ra bổ nghĩa cho thành phần này."
 		},
 		{
 			id: 6,
-			question: " \n ",
+			question: "We use specialized software [to automate the bookkeeping process]. \n Chúng tôi sử dụng phần mềm chuyên dụng [để tự động hóa quy trình ghi chép sổ sách].",
 			options: [
-				"",
-				""
+				"[Adverb Phrase]",
+				"[Adverb Clause]"
 			],
 			correctAnswer: 0,
-			explanation: " \n\n "
+			explanation: "Hình thái: [to automate the bookkeeping process] - Động Cụm [Verb Phrase] bắt đầu bằng hành động có \"to\" đi kèm các thành phần bổ nghĩa. \n\n Chức năng: [to automate the bookkeeping process] - Trạng Cụm [Adverb Phrase] đứng sau hành động chính \"use\" đứng ra bổ nghĩa cho hành động đó theo góc độ mục đích."
 		},
 		{
 			id: 7,
-			question: " \n ",
+			question: "[Finalizing {what the auditors requested} on time] pleased the manager. \n [Hoàn tất {những gì các kiểm toán viên yêu cầu} đúng hạn] đã làm hài lòng người quản lý.",
 			options: [
-				"",
-				""
+				"[Noun Clause]",
+				"[Nested Noun Phrase]"
 			],
-			correctAnswer: 0,
-			explanation: " \n\n "
+			correctAnswer: 1,
+			explanation: "Hình thái: [Finalizing {what the auditors requested} on time] - Động Cụm [Verb Phrase] lồng ghép phân tầng. {what the auditors requested} - Động Câu [Verb Clause] bắt đầu bằng \"what\", có chứa chủ thể \"the auditors\" và hành động \"requested\" xác định theo thời quá khứ. \n\n Chức năng: [Finalizing {what the auditors requested} on time] - Danh Cụm Phân Tầng [Nested Noun Phrase] tầng 1 bên ngoài dùng [] giữ vai trò thành phần đứng đầu chính. {what the auditors requested} - Danh Câu [Noun Clause] giữ vai trò làm thành phần chịu tác động trực tiếp cho hành động \"Finalizing\" ở phía trước."
 		},
 		{
 			id: 8,
-			question: " \n ",
+			question: "The manager realized [that the bookkeeper made a serious error]. \n Người quản lý đã nhận ra [rằng người làm sổ sách đã mắc một sai lầm nghiêm trọng].",
 			options: [
-				"",
-				""
+				"[Noun Clause]",
+				"[Noun Phrase]"
 			],
 			correctAnswer: 0,
-			explanation: " \n\n "
+			explanation: "Hình thái: [that the bookkeeper made a serious error] - Động Câu [Verb Clause] bắt đầu bằng \"that\", có chứa chủ thể \"the bookkeeper\" và hành động \"made\" xác định theo thời quá khứ. \n\n Chức năng: [that the bookkeeper made a serious error] - Danh Câu [Noun Clause] đứng sau hành động \"realized\" giữ vai trò tiếp nhận tác động từ hành động này."
 		},
 		{
 			id: 9,
-			question: " \n ",
+			question: "The accountant who [audits our books every year] is very thorough. \n Người kế toán, [người mà kiểm toán sổ sách của chúng tôi hàng năm], rất kỹ lưỡng.",
 			options: [
-				"",
-				""
+				"[Adjective Phrase]",
+				"[Adjective Clause]"
 			],
-			correctAnswer: 0,
-			explanation: " \n\n "
+			correctAnswer: 1,
+			explanation: "Hình thái: [audits our books every year] - Động Câu [Verb Clause] có chứa hành động \"audits\" xác định theo thời hiện tại đi kèm thành phần liên kết \"who\". \n\n Chức năng: [audits our books every year] - Tính Câu [Adjective Clause] đứng sau \"The accountant\" đứng ra bổ nghĩa cho thành phần này."
 		},
 		{
 			id: 10,
-			question: " \n ",
+			question: "[Because the tax laws changed recently], we must update our methods. \n [Vì luật thuế đã thay đổi gần đây], chúng tôi phải cập nhật các phương pháp của mình.",
 			options: [
-				"",
-				""
+				"[Adverb Clause]",
+				"[Adverb Phrase]"
 			],
 			correctAnswer: 0,
-			explanation: " \n\n "
+			explanation: "Hình thái: [Because the tax laws changed recently] - Động Câu [Verb Clause] bắt đầu bằng thành phần liên kết \"Because\", có chứa chủ thể \"the tax laws\" và hành động \"changed\" xác định theo thời quá khứ. \n\n Chức năng: [Because the tax laws changed recently] - Trạng Câu [Adverb Clause] đứng độc lập đứng ra bổ nghĩa cho toàn bộ phần còn lại theo góc độ nguyên nhân."
 		}
 	];
 

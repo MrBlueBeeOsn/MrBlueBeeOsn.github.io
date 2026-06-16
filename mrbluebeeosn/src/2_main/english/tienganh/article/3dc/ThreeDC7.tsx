@@ -160,11 +160,11 @@ export default function ThreeDC7(): React.ReactElement {
 			<p className="margin-top-20"></p>
 
 
-			<h4 className="margin-y-40">2.2. Độc câu vs. phụ câu</h4>
+			<h4 className="margin-y-40">2.2. Câu con vs. phụ câu</h4>
 					
 			<p className="text-indent-whole"></p>
 
-			<p className="margin-top-20">a. Độc câu (Independent Clause)</p>
+			<p className="margin-top-20">a. Câu con (Independent Clause)</p>
 			
 				<ul className="list-square">
 			
