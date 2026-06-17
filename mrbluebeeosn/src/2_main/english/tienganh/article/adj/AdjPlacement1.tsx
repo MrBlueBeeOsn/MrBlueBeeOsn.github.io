@@ -323,7 +323,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 			
 
 
-			{/* 4. tới đây*/}
+			{/* 4. */}
 
 			<h3 className="margin-y-50 text-center">4. Giải Mã Paraphrasing: Bài Toán "Thay Khối Cùng Chức Năng"</h3>
 
