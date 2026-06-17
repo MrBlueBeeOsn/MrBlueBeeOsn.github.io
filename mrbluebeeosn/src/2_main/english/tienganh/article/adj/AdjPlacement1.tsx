@@ -317,53 +317,99 @@ export default function AdjPlacement1(): React.JSX.Element {
 					<li className="list-none">Tôi đang tìm một <strong>người</strong> [phù hợp với công việc này].</li>
 			
 				</ul>
+			
 
 
+			{/* 4. tới đây*/}
 
-			{/* 4.  */}
+			<h3 className="margin-y-50 text-center">4. Giải Mã Paraphrasing: Bài Toán "Thay Khối Cùng Chức Năng"</h3>
 
-			<h3 className="margin-y-50 text-center">4. Bản Đồ Thống Trị: Làm Chủ Bộ Ba Phụ Câu Cốt Lõi</h3>
-			
-			<p>Khi Tính câu (Động câu chức năng Tính cơ) đã giúp bạn giải phóng tâm lý nhờ điểm mạnh tương đồng với tiếng Việt, bạn đã có một bệ phóng hoàn hảo để làm chủ toàn bộ <strong>Bộ ba Phụ câu cốt lõi</strong> cấu thành nên một Câu lớn trọn vẹn:</p>
+			<p>Khi bộ não người học đã hình thành phản xạ tự nhiên: Nhìn thấy <strong>Hình thái</strong> trước rồi giải mã ra <strong>Chức năng</strong> dựa vào vị trí, việc viết lại câu (Paraphrasing) trở thành một bài toán hoán đổi khối có cùng Chức năng trên một khung trục cố định, không cần thay đổi cấu trúc tổng thể.</p>
 
-			<p className="margin-top-20">Hệ thống Phụ câu: Cấp độ cấu trúc hành thái</p>
+			<p>Khi cấu trúc tổng thể được giữ nguyên làm mỏ neo, bạn chỉ cần hoán đổi một khối thuộc cấp độ này sang một khối thuộc cấp độ khác, miễn là chúng đảm nhận chung một nhiệm vụ hệ thống.</p>
+
+			<p>Hãy nhìn cách chúng ta nâng cấp và biến đổi một câu văn bằng tư duy hoán đổi khối Chức năng:</p>
+
+
+			<h4 className="margin-y-40">Ví dụ 1: Nâng cấp từ cấp độ Cơ lên cấp độ Cụm</h4>
 			
-				<ol>
+				<ul className="list-square">
 			
-					<li value="1">Động câu [<strong>Verb Clause</strong>]</li>
-					<li className="list-none">Cách vận hành trong Câu lớn: <strong>Đứng SAU Danh cơ</strong> cốt lõi để mô tả chi tiết đối tượng.</li>
-					<li className="margin-bottom-20 list-none">Chức năng dựa trên vị trí: TÍNH CÂU [<strong>Adjective Clause</strong>]. Vận hành như một Tính cơ</li>
-					
-					
-					<li value="2">Động câu [<strong>Verb Clause</strong>]</li>
-					<li className="list-none">Cách vận hành trong Câu lớn: Điều phối ngữ cảnh cho toàn câu (Thời gian, Nguyên nhân, Kết quả).</li>
-					<li className="margin-bottom-20 list-none">Chức năng dựa trên vị trí: TRẠNG CÂU [<strong>Adverb Clause</strong>]. Vận hành như một Trạng cơ</li>
-					
+					<li>[Smoking] is forbidden here.</li>
+					<li className="margin-bottom-20 list-none">[Hút thuốc] bị cấm ở đây.</li>
 			
-					<li value="3">Động câu [<strong>Verb Clause</strong>]</li>
-					<li className="list-none">Cách vận hành trong Câu lớn: Biến cả một nhận định phức tạp thành một vị trí Chủ ngữ hoặc Tân ngữ trong câu.</li>
-					<li className="list-none">Chức năng dựa trên vị trí: DANH CÂU [<strong>Noun Clause</strong>]. Vận hành như một Danh cơ</li>
-				
+					<li className="list-none">Hình thái: [Smoking] - Động Cơ [Verb Base] biểu thị một từ hành động đơn lẻ đóng vai trò hạt nhân.</li>
 			
-				</ol>
+					<li className="list-none">Chức năng: [Smoking] - Danh Cơ [Noun Base] định vị ở đầu câu nhằm tạo thành chủ thể tác động cho toàn câu.</li>
+			
+				</ul>
 			
 			
-			<p className="margin-top-20">Học tiếng Anh nâng cao thực chất là cuộc chơi của việc điều phối các Phụ câu và Phụ cụm dựa trên nền tảng ba trục:</p>
+			<p className="margin-top-20 text-indent-whole">Viết lại [Paraphrase]:</p>
+			
+				<ul className="list-square">
+			
+					<li>[Using tobacco products] is forbidden here.</li>
+					<li className="margin-bottom-20 list-none">[Sử dụng các sản phẩm thuốc lá] bị cấm ở đây.</li>
+			
+					<li className="list-none">Hình thái: [Using tobacco products] - Động Cụm [Verb Phrase] biểu thị một nhóm nhiều từ kết hợp xung quanh hành động gốc using.</li>
+			
+					<li className="list-none">Chức năng: [Using tobacco products] - Danh Cụm [Noun Phrase] gánh vác vai trò chủ thể tác động cho toàn câu thay thế cho vị trí cũ.</li>
+			
+				</ul>
+			
+			
+			<p className="margin-top-20 text-indent-whole">Phân tích tư duy: Trục cấu trúc hoàn toàn giữ nguyên. Người viết chỉ việc nhấc khối Danh Cơ [Noun Base] ra và đặt vào đó một khối mang Hình thái Động Cụm [Verb Phrase] nhưng giữ nguyên Chức năng Danh Cụm [Noun Phrase]. Câu văn lập tức trở nên trang trọng và chi tiết hơn.</p>
 
-			<p className="margin-y-30"><strong>Danh</strong> - <strong>Tính</strong> - <strong>Trạng</strong>.</p>
 
-			<p>Khi bạn đã viết nhiều và thuần thục việc dùng Tính câu nhờ sự tương đồng với tiếng Việt, cấu trúc não bộ của bạn sẽ quen với việc xử lý các mảng thông tin lớn trong một Câu lớn trọn vẹn.</p>
+			<h4 className="margin-y-40">Ví dụ 2: Hoán đổi linh hoạt giữa cấp độ Cụm và cấp độ Câu</h4>
+			
+				<ul className="list-square">
+			
+					<li>We delayed the match [because of the heavy rain].</li>
+					<li className="margin-bottom-20 list-none">Chúng tôi đã hoãn trận đấu [vì cơn mưa lớn].</li>
+			
+					<li className="list-none">Hình thái: [because of the heavy rain] - Động Cụm [Verb Phrase] biểu thị một khối cụm gồm các từ kết hợp đi cùng nhau không chứa bộ tạo hành động riêng.</li>
 
-			<p>Từ nền tảng đó, hai mảnh ghép còn lại là Trạng câu và Danh câu sẽ tự động bắt nhịp mà không gặp bất kỳ rào cản nào. Mọi thứ trở thành một tiến trình phát triển thói quen hoàn toàn tự nhiên dựa trên sơ đồ nhất quán từ <strong>Cơ</strong> → <strong>Cụm</strong> → <strong>Câu</strong>.</p>
+					<li className="list-none">Chức năng: [because of the heavy rain] - Trạng Cụm [Adverb Phrase] đứng sau bổ nghĩa cho khối chính nhằm làm rõ nguyên nhân ngữ cảnh.</li>
+			
+				</ul>
+			
+			
+			<p className="margin-top-20 text-indent-whole">Viết lại [Paraphrase]:</p>
+			
+				<ul className="list-square">
+			
+					<li>We delayed the match [because it rained heavily].</li>
+					<li className="margin-bottom-20 list-none">Chúng tôi đã hoãn trận đấu [vì trời đã mưa rất to].</li>
+			
+					<li className="list-none">Hình thái: [because it rained heavily] - Động Câu [Verb Clause] biểu hiện một cấu trúc hành động phức hợp có đối tượng thực hiện it và hành động thời quá khứ rained.</li>
 
+					<li className="list-none">Chức năng: [because it rained heavily] - Trạng Câu [Adverb Clause] làm nhiệm vụ điều phối ngữ cảnh nguyên nhân cho toàn bộ hành động chính của câu thay thế cho vị trí cũ.</li>
+			
+				</ul>
+			
+			
+			<p className="margin-top-20 text-indent-whole">Phân tích tư duy: Khung xương cốt lõi không hề lay chuyển. Bạn chỉ cần thực hiện một thao tác kỹ thuật: Biến đổi khối Trạng Cụm [Adverb Phrase] thành một khối mới mang Hình thái Động Câu [Verb Clause], vận hành với Chức năng Trạng Câu [Adverb Clause].</p>
+
+
+			<p>Tư duy thay khối cùng chức năng này chính là vũ khí tối thượng giúp bạn viết lại câu một cách cực kỳ tốc độ, chính xác và mượt mà trong các bài thi viết học thuật.</p>
+
+			<p>Bạn không bao giờ phải lo lắng về việc cấu trúc bị sai sót hay lệch mạch tư duy, bởi vì khung mỏ neo cốt lõi luôn được giữ vững chắc.</p>
+			
+			
 
 			{/* Lời Kết */}
 
 			<h3 className="margin-y-50 text-center">Lời Kết: Vũ Khí Chiến Lược Của Người Việt</h3>
 
-			<p>Phát hiện ra điểm mạnh tương đồng giữa cấu trúc tiếng Việt và hệ thống <strong>Danh cơ</strong> + <strong>Tính câu</strong> trong tiếng Anh không chỉ là một mẹo học tập, nó là một cuộc cách mạng về tư duy. Nó đập tan nỗi sợ những câu phức tạp, cho phép người Việt viết những câu văn dài có chiều sâu, học thuật và đẳng cấp bằng chính tốc độ tư duy của tiếng mẹ đẻ.</p>
+			<p>Phát hiện ra điểm mạnh tương đồng giữa cấu trúc tiếng Việt và hệ thống Danh Cơ + Tính Câu [Adjective Clause] trong tiếng Anh không chỉ là một mẹo học tập, nó là một cuộc cách mạng về tư duy.</p>
 
-			<p>Đây chính là điểm tựa chiến lược giúp người học Việt Nam tự tin bứt phá, vượt trội hơn hẳn các quốc gia trong khu vực Đông Nam Á về khả năng sử dụng tiếng Anh chuyên sâu và viết luận cao cấp.</p>
+			<p>Nó đập tan nỗi sợ những cấu trúc phức tạp, cho phép người Việt viết những câu văn dài có chiều sâu, học thuật và đẳng cấp bằng chính tốc độ tư duy của tiếng mẹ đẻ.</p>
+
+			<p>Khi bạn kết hợp sơ đồ nhất quán từ <strong>Cơ</strong> -{'>'} <strong>Cụm</strong> -{'>'} <strong>Câu</strong> với tư duy thay khối cùng chức năng khi viết lại câu, bạn đã hoàn toàn làm chủ cuộc chơi ngôn ngữ.</p>
+
+			<p>Đây chính là điểm tựa chiến lược giúp người học Việt Nam tự tin bứt phá, vượt trội hơn hẳn các quốc gia trong khu vực về khả năng sử dụng tiếng Anh chuyên sâu và viết luận cao cấp.</p>
 
 			<p>Tiếng Anh chưa bao giờ ngược dòng, nó chỉ đang chờ bạn nhận ra sự đồng điệu để cùng hòa vào một dòng chảy tư duy!</p>
 
