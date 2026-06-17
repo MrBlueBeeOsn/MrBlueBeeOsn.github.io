@@ -21,7 +21,7 @@ export default function ThiHienTaiHoanThanh(): React.JSX.Element {
 
 			<h4 className="margin-bottom-30 text-center">Cây Cầu Nối Liền Quá Khứ Và Hiện Tại</h4>
 
-			<p>Bạn đã bao giờ bối rối khi chọn giữa "I lived" và "I have lived"? Bạn có nghe nói thì Hiện tại hoàn thành diễn tả "hành động chưa hoàn thành trong quá khứ" và cảm thấy điều đó chưa đầy đủ? Bài viết này sẽ là chìa khóa giúp bạn thực sự làm chủ thì ngữ pháp quan trọng bậc nhất này, không phải qua những công thức khô khan, mà qua bản chất <strong>sự kết nối thời gian</strong> của nó.</p>
+			<p>Bạn đã bao giờ bối rối khi chọn giữa "I lived" và "I have lived"? Bạn có nghe nói thì Hiện tại hoàn thành diễn tả "hành động chưa hoàn thành trong quá khứ" và cảm thấy điều đó chưa đầy đủ? Bài viết này sẽ là chìa khóa giúp bạn thực sự làm chủ thời ngữ pháp quan trọng bậc nhất này, không phải qua những công thức khô khan, mà qua bản chất <strong>sự kết nối thời gian</strong> của nó.</p>
 
 			<h3 className="margin-y-50 text-center">Không Chỉ Là "Chưa Hoàn Thành": Một Lối Tư Duy Mới</h3>
 

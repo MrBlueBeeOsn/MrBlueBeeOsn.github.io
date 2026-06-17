@@ -503,7 +503,7 @@ export default function LegoAssembly4(): React.JSX.Element {
 			
 				</ul>
 
-			<p className="margin-top-20">thì ngữ pháp bắt đầu trở nên:</p>
+			<p className="margin-top-20">thời ngữ pháp bắt đầu trở nên:</p>
 			
 				<ul className="list-square">
 			
