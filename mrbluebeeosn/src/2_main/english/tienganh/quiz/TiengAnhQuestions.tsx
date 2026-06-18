@@ -138,7 +138,7 @@ export default function TiengAnhQuestions(): React.JSX.Element {
 				"had he"
 			],
 			correctAnswer: 0,
-			explanation: "Đây là cấu trúc đảo ngữ với cụm từ phủ định Only after... đứng đầu câu. Cấu trúc đúng là: Only after + Câu con quá khứ hoàn thành (hành động trước) + Trợ động cơ + S + Động cơ chính (hành động sau). Vì hành động \"realize\" ở quá khứ, ta dùng trợ động cơ did."
+			explanation: "Đây là cấu trúc đảo ngữ với cụm từ phủ định Only after... đứng đầu câu. Cấu trúc đúng là: Only after + Câu con quá khứ hoàn thành (hành động trước) + Thời động cơ + S + Động cơ chính (hành động sau). Vì hành động \"realize\" ở quá khứ, ta dùng thời động cơ did."
 		}
 	];
 

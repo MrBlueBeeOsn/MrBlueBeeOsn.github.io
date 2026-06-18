@@ -149,7 +149,7 @@ export default function NestedStructure1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>Vòng đóng gói luôn bắt đầu ngay từ Động cơ chính (hoặc xuất hiện ngay sau trợ động cơ).</li>
+					<li>Vòng đóng gói luôn bắt đầu ngay từ Động cơ chính (hoặc xuất hiện ngay sau thời động cơ).</li>
 			
 					<li>Động cơ chính của toàn bộ câu sẽ nằm ngoài [] nếu nó đóng vai trò điều khiển Module thực thi đó.</li>
 			
@@ -237,7 +237,7 @@ export default function NestedStructure1(): React.JSX.Element {
 					<li>The baby is [sleeping peacefully].</li>
 					<li className="margin-bottom-20 list-none">Em bé đang [ngủ một cách yên bình].</li>
 
-					<li className="list-none">Hình thái: Động cụm [<strong>Verb Phrase</strong>] - bắt đầu ngay sau trợ động cơ.</li>
+					<li className="list-none">Hình thái: Động cụm [<strong>Verb Phrase</strong>] - bắt đầu ngay sau thời động cơ.</li>
 					<li className="list-none">Chức năng: Tính cụm [<strong>Adjective Phrase</strong>], hoạt động như một bộ quét để mô tả trạng thái hiện tại (Bổ ngữ) của đối tượng.</li>
 			
 				</ul>

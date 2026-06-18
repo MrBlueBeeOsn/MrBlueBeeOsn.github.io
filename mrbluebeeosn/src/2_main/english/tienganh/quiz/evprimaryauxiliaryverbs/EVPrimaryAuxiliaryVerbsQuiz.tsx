@@ -42,7 +42,7 @@ export default function EVPrimaryAuxiliaryVerbsQuiz(): React.JSX.Element {
 				"Were"
 			],
 			correctAnswer: 2,
-			explanation: "Câu nghi vấn ở thì Quá khứ đơn (Past Simple) mượn trợ động cơ \"Did\" đứng trước chủ ngữ, động cơ chính \"study\" giữ nguyên mẫu."
+			explanation: "Câu nghi vấn ở thì Quá khứ đơn (Past Simple) mượn thời động cơ \"Did\" đứng trước chủ ngữ, động cơ chính \"study\" giữ nguyên mẫu."
 		},
 		{
 			id: 3,
@@ -66,7 +66,7 @@ export default function EVPrimaryAuxiliaryVerbsQuiz(): React.JSX.Element {
 				"did"
 			],
 			correctAnswer: 2,
-			explanation: "Câu hỏi ở thì Hiện tại đơn với động cơ thường \"insist\". Chủ ngữ \"he\" yêu cầu trợ động cơ \"does\"."
+			explanation: "Câu hỏi ở thì Hiện tại đơn với động cơ thường \"insist\". Chủ ngữ \"he\" yêu cầu thời động cơ \"does\"."
 		},
 		{
 			id: 5,
@@ -90,7 +90,7 @@ export default function EVPrimaryAuxiliaryVerbsQuiz(): React.JSX.Element {
 				"Was"
 			],
 			correctAnswer: 1,
-			explanation: "Dấu hiệu \"last year\" cho thấy đây là thì Quá khứ đơn. Mượn trợ động cơ \"Did\" cho câu hỏi với động cơ thường \"provide\"."
+			explanation: "Dấu hiệu \"last year\" cho thấy đây là thì Quá khứ đơn. Mượn thời động cơ \"Did\" cho câu hỏi với động cơ thường \"provide\"."
 		},
 		{
 			id: 7,
@@ -114,7 +114,7 @@ export default function EVPrimaryAuxiliaryVerbsQuiz(): React.JSX.Element {
 				"have"
 			],
 			correctAnswer: 2,
-			explanation: "Câu phủ định thì Hiện tại đơn với chủ ngữ \"They\" (số nhiều) sử dụng trợ động cơ \"do\" + not."
+			explanation: "Câu phủ định thì Hiện tại đơn với chủ ngữ \"They\" (số nhiều) sử dụng thời động cơ \"do\" + not."
 		},
 		{
 			id: 9,

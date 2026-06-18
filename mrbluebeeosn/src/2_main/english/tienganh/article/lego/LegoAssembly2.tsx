@@ -149,7 +149,7 @@ export default function LegoAssembly2(): React.JSX.Element {
 			
 					<li><strong>S</strong> là ai?</li>
 			
-					<li><strong>Head</strong> là từ nào? Nó thuộc loại modal, trợ động cơ, hay động cơ chính?</li>
+					<li><strong>Head</strong> là từ nào? Nó thuộc loại modal, thời động cơ, hay động cơ chính?</li>
 			
 					<li><strong>Dependent</strong> thuộc cấp độ <strong>Cơ</strong>, <strong>Cụm</strong> hay <strong>Câu</strong>? Và thuộc chức năng <strong>Danh</strong>, <strong>Tính</strong> hay <strong>Trạng</strong>?</li>
 			

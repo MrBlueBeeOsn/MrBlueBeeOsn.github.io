@@ -76,7 +76,7 @@ export default function LegoAssembly8(): React.JSX.Element {
 				<li className="list-none">knows = does + know</li>
 				<li className="margin-bottom-20 list-none">doesn't = does + not.</li>
 		
-				<li><strong>Tách rời</strong>: trợ động cơ đứng riêng.</li>
+				<li><strong>Tách rời</strong>: thời động cơ đứng riêng.</li>
 				<li className="list-none">does, is, will.</li>
 		
 			</ul>

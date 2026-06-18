@@ -50,7 +50,7 @@
 			"categoryDisplay": "Tiếng Anh",
 			"categorySlug": "tieng-anh",
 			"title": "Hướng Dẫn Sắp Xếp Động Cụm",
-			"content": "Tất cả trợ động cơ, phủ định, trạng cơ… phải đứng bên trái, còn động cơ chính luôn đứng bên phải nhất.",
+			"content": "Tất cả thời động cơ, phủ định, trạng cơ… phải đứng bên trái, còn động cơ chính luôn đứng bên phải nhất.",
 			"slug": "tieng-anh/huong-dan-sap-xep-cum-dong-tu-tieng-anh",
 			"date": "2025-11-29"
 		},
@@ -95,7 +95,7 @@
 			"categoryDisplay": "Tiếng Anh",
 			"categorySlug": "tieng-anh",
 			"title": "Hướng Dẫn Dịch Câu Hỏi Tiếng Anh",
-			"content": "Để dịch chính xác, bạn có thể áp dụng nguyên tắc \"chủ ngữ dịch trước, động cơ chính và trợ động cơ (nếu có) dịch sau, tiếp đến là các bổ nghĩa, cuối cùng mới dịch từ để hỏi\", đồng thời đặt từ để hỏi và trợ động cơ (hoặc động cơ chính nếu không có trợ động cơ) vào dấu ngoặc đơn để dễ nhận diện.",
+			"content": "Để dịch chính xác, bạn có thể áp dụng nguyên tắc \"chủ ngữ dịch trước, động cơ chính và thời động cơ (nếu có) dịch sau, tiếp đến là các bổ nghĩa, cuối cùng mới dịch từ để hỏi\", đồng thời đặt từ để hỏi và thời động cơ (hoặc động cơ chính nếu không có thời động cơ) vào dấu ngoặc đơn để dễ nhận diện.",
 			"slug": "tieng-anh/huong-dan-dich-cau-hoi-tieng-anh",
 			"date": "2025-10-11"
 		},

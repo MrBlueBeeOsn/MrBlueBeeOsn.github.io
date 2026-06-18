@@ -29,13 +29,13 @@ export default function SapXepCumDongTuTiengAnh(): React.JSX.Element {
 
 			{/* This is the content of English Learning Term. */}
 
-			<p>Người Việt thường nói “đã đang sẽ không thể bị đánh”, nhưng tiếng Anh lại yêu cầu tất cả <strong>trợ động cơ</strong>, <strong>phủ định</strong>, <strong>trạng cơ</strong>… phải <strong>đứng bên trái</strong>, còn <strong>động cơ chính</strong> luôn <strong>đứng bên phải</strong> nhất.</p>
+			<p>Người Việt thường nói “đã đang sẽ không thể bị đánh”, nhưng tiếng Anh lại yêu cầu tất cả <strong>thời động cơ</strong>, <strong>phủ định</strong>, <strong>trạng cơ</strong>… phải <strong>đứng bên trái</strong>, còn <strong>động cơ chính</strong> luôn <strong>đứng bên phải</strong> nhất.</p>
 
 			<p className="margin-top-20">Để sắp xếp động cụm tiếng Anh nhanh và không bao giờ sai, bạn chỉ cần làm đúng 2 bước lớn:</p>
 			
 				<ul className="list-square">
 			
-					<li>Bước 1: gom hết <strong>trợ động cơ</strong>, <strong>phủ định</strong>, <strong>modal</strong>… vào <strong>bên trái</strong></li>
+					<li>Bước 1: gom hết <strong>thời động cơ</strong>, <strong>phủ định</strong>, <strong>modal</strong>… vào <strong>bên trái</strong></li>
 			
 					<li>Bước 2: đặt <strong>động cơ chính</strong> (hoặc dạng của nó) vào <strong>bên phải</strong> cùng</li>
 			
@@ -47,13 +47,13 @@ export default function SapXepCumDongTuTiengAnh(): React.JSX.Element {
 
 					<span className="highlight-238-padding-4-8 text-border1">
 
-						<span className="highlight-255-padding-0-4">Trợ động cơ, phủ định, trạng cơ…</span> đứng bên trái, <span className="highlight-255-padding-0-4">Động cơ chính</span> đứng bên phải
+						<span className="highlight-255-padding-0-4">Thời động cơ, phủ định, trạng cơ…</span> đứng bên trái, <span className="highlight-255-padding-0-4">Động cơ chính</span> đứng bên phải
 
 					</span>
 
 				</p>
 
-			<h3 className="margin-top-30 margin-bottom-50 text-center">1. Tại sao phải “trợ động cơ bên trái – động cơ chính bên phải”?</h3>
+			<h3 className="margin-top-30 margin-bottom-50 text-center">1. Tại sao phải “thời động cơ bên trái – động cơ chính bên phải”?</h3>
 
 			<p>Tiếng Việt: đã → đang → sẽ → không → bị → đánh</p>
 
@@ -141,7 +141,7 @@ export default function SapXepCumDongTuTiengAnh(): React.JSX.Element {
 
 			</div>
 
-			<h3 className="margin-y-50 text-center">3. Thứ tự chuẩn các trợ động cơ bên trái (nhớ 1 lần dùng mãi mãi)</h3>
+			<h3 className="margin-y-50 text-center">3. Thứ tự chuẩn các thời động cơ bên trái (nhớ 1 lần dùng mãi mãi)</h3>
 
 			<p>Khi gom hết vào bên trái, chỉ cần sắp theo thứ tự cố định sau (từ trái sang phải):</p>
 
@@ -161,7 +161,7 @@ export default function SapXepCumDongTuTiengAnh(): React.JSX.Element {
 
 				</ol>
 
-				<p className="margin-top-20 text-indent-whole">Phủ định “not” luôn đứng ngay sau modal hoặc trợ động cơ đầu tiên.</p>
+				<p className="margin-top-20 text-indent-whole">Phủ định “not” luôn đứng ngay sau modal hoặc thời động cơ đầu tiên.</p>
 
 			<h3 className="margin-y-50 text-center">4. Lưu ý cực kỳ quan trọng</h3>
 
@@ -169,11 +169,11 @@ export default function SapXepCumDongTuTiengAnh(): React.JSX.Element {
 
 					<li>Động cơ chính (hoặc dạng V3/V-ing của nó) luôn là từ cuối cùng bên phải.</li>
 
-					<li>Nếu có phủ định → chèn “not” ngay sau trợ động cơ đầu tiên.</li>
+					<li>Nếu có phủ định → chèn “not” ngay sau thời động cơ đầu tiên.</li>
 
-					<li>Với câu hỏi → chỉ cần đảo trợ động cơ đầu tiên lên trước chủ ngữ (sau khi đã xếp xong cụm).</li>
+					<li>Với câu hỏi → chỉ cần đảo thời động cơ đầu tiên lên trước chủ ngữ (sau khi đã xếp xong cụm).</li>
 
-					<li>Khi không chắc thứ tự → cứ gom hết trợ động cơ vào bên trái trước, rồi sắp lại theo M-P-C-P → vẫn đúng 100%!</li>
+					<li>Khi không chắc thứ tự → cứ gom hết thời động cơ vào bên trái trước, rồi sắp lại theo M-P-C-P → vẫn đúng 100%!</li>
 
 				</ul>
 
@@ -181,7 +181,7 @@ export default function SapXepCumDongTuTiengAnh(): React.JSX.Element {
 
 			<p>Chỉ cần nhớ một nguyên tắc duy nhất:</p>
 
-			<p><strong>Trợ động cơ</strong> + <strong>phủ định</strong> + <strong>modal</strong> → gom hết <strong>bên trái</strong></p>
+			<p><strong>Thời động cơ</strong> + <strong>phủ định</strong> + <strong>modal</strong> → gom hết <strong>bên trái</strong></p>
 
 			<p><strong>Động cơ chính</strong> (hoặc dạng của nó) → đặt <strong>bên phải</strong> cùng</p>
 			

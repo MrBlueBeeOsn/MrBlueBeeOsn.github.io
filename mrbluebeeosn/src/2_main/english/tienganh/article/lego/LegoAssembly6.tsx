@@ -70,7 +70,7 @@ export default function LegoAssembly6(): React.JSX.Element {
 					<li className="margin-bottom-20 list-none">Chủ ngữ</li>
 
 					<li><strong>Head</strong> = hạt nhân:</li>
-					<li className="margin-bottom-20 list-none">Động cơ chia, trợ động cơ, modal, hoặc be.</li>
+					<li className="margin-bottom-20 list-none">Động cơ chia, thời động cơ, modal, hoặc be.</li>
 			
 					<li><strong>DP</strong> = Dependent Phrase</li>
 					<li className="margin-bottom-20 list-none">Nhãn chức năng cho phần phụ thuộc theo vị trí (object, complement, hoặc phần đứng ở vị trí subject). DP có thể là danh cụm, tính cụm, participial phrase, gerund clause, infinitive phrase, câu con danh cơ, v.v.</li>
@@ -87,7 +87,7 @@ export default function LegoAssembly6(): React.JSX.Element {
 			
 					<li>Xác định <strong>S</strong> (vị trí chủ ngữ).</li>
 			
-					<li>Xác định <strong>Head</strong> (động cơ chia / trợ động cơ / modal / <strong>be</strong>).</li>
+					<li>Xác định <strong>Head</strong> (động cơ chia / thời động cơ / modal / <strong>be</strong>).</li>
 			
 					<li>Phần đứng sau <strong>Head</strong> (hoặc phần đứng trước Head nếu là chủ ngữ) là <strong>DP</strong> theo vị trí.</li>
 
@@ -108,7 +108,7 @@ export default function LegoAssembly6(): React.JSX.Element {
 					<li><strong>Động cơ chia</strong>:</li>
 					<li className="margin-bottom-20 list-none">Mang thì trong khẳng định; khi phủ định/nghi vấn cần trợ <strong>do</strong>/<strong>does</strong>/<strong>did</strong>.</li>
 
-					<li><strong>Trợ động cơ</strong> (<strong>do</strong>/<strong>does</strong>/<strong>did</strong>):</li>
+					<li><strong>Thời động cơ</strong> (<strong>do</strong>/<strong>does</strong>/<strong>did</strong>):</li>
 					<li className="margin-bottom-20 list-none">Tạo phủ định/nghi vấn cho present/past simple.</li>
 			
 					<li><strong>Modal</strong> (<strong>will</strong>/<strong>can</strong>/<strong>could</strong>):</li>

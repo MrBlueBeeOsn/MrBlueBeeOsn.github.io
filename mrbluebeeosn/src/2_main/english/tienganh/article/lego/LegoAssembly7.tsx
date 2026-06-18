@@ -173,7 +173,7 @@ export default function LegoAssembly7(): React.JSX.Element {
 			
 				</ul>
 
-			<h4 className="margin-y-40">Trợ động cơ - Head</h4>
+			<h4 className="margin-y-40">Thời động cơ - Head</h4>
 
 			<p className="margin-top-20"><strong>does</strong> / <strong>doesn</strong>'<strong>t</strong>: thường không dịch trực tiếp mà thể hiện qua thì và ngữ cảnh - <strong>Head</strong></p>
 			
@@ -243,7 +243,7 @@ export default function LegoAssembly7(): React.JSX.Element {
 			
 			<h4 className="margin-y-40">Head tích hợp là gì?</h4>
 					
-			<p>Động cơ chính đã tích hợp sẵn trợ động cơ và thời gian = <strong>Head tích hợp</strong>.</p>
+			<p>Động cơ chính đã tích hợp sẵn thời động cơ và thời gian = <strong>Head tích hợp</strong>.</p>
 
 			<p className="margin-top-20">Ví dụ:</p>
 			
@@ -1157,7 +1157,7 @@ export default function LegoAssembly7(): React.JSX.Element {
 			
 					<li>Subject - <strong>S</strong></li>
 			
-					<li>Head tích hợp hoặc trợ động cơ - <strong>Head</strong></li>
+					<li>Head tích hợp hoặc thời động cơ - <strong>Head</strong></li>
 			
 					<li>Mọi thứ sau Head - <strong>DP</strong></li>
 			

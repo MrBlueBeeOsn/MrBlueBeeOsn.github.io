@@ -42,7 +42,7 @@ export default function EVAuxiliaryVerbsQuiz(): React.JSX.Element {
 				"Were"
 			],
 			correctAnswer: 2,
-			explanation: "Để đặt câu hỏi cho hành động đã kết thúc trong quá khứ (yesterday), ta dùng trợ động cơ \"Did\" của thời quá khứ đơn."
+			explanation: "Để đặt câu hỏi cho hành động đã kết thúc trong quá khứ (yesterday), ta dùng thời động cơ \"Did\" của thời quá khứ đơn."
 		},
 		{
 			id: 3,
@@ -54,7 +54,7 @@ export default function EVAuxiliaryVerbsQuiz(): React.JSX.Element {
 				"will"
 			],
 			correctAnswer: 0,
-			explanation: "Cụm từ \"at the moment\" dấu hiệu của thời hiện tại tiếp diễn, công thức là \"be + V-ing\". Với chủ ngữ \"She\", trợ động cơ phù hợp là \"is\"."
+			explanation: "Cụm từ \"at the moment\" dấu hiệu của thời hiện tại tiếp diễn, công thức là \"be + V-ing\". Với chủ ngữ \"She\", thời động cơ phù hợp là \"is\"."
 		},
 		{
 			id: 4,
@@ -66,7 +66,7 @@ export default function EVAuxiliaryVerbsQuiz(): React.JSX.Element {
 				"are"
 			],
 			correctAnswer: 2,
-			explanation: "\"Should\" là trợ động cơ khuyết thiếu dùng để đưa ra lời khuyên. Ngữ cảnh trời tối sầm nên khuyên mang theo ô là hợp lý nhất."
+			explanation: "\"Should\" là thời động cơ khuyết thiếu dùng để đưa ra lời khuyên. Ngữ cảnh trời tối sầm nên khuyên mang theo ô là hợp lý nhất."
 		},
 		{
 			id: 5,
@@ -90,7 +90,7 @@ export default function EVAuxiliaryVerbsQuiz(): React.JSX.Element {
 				"wasn't"
 			],
 			correctAnswer: 1,
-			explanation: "Câu diễn tả một thói quen hoặc trạng thái trong quá khứ (\"when he was a child\") nên dùng trợ động cơ phủ định của quá khứ đơn là \"didn't\"."
+			explanation: "Câu diễn tả một thói quen hoặc trạng thái trong quá khứ (\"when he was a child\") nên dùng thời động cơ phủ định của quá khứ đơn là \"didn't\"."
 		},
 		{
 			id: 7,
@@ -114,7 +114,7 @@ export default function EVAuxiliaryVerbsQuiz(): React.JSX.Element {
 				"Can"
 			],
 			correctAnswer: 3,
-			explanation: "\"Can\" được dùng làm trợ động cơ để đưa ra một lời đề nghị giúp đỡ hoặc hỏi về khả năng."
+			explanation: "\"Can\" được dùng làm thời động cơ để đưa ra một lời đề nghị giúp đỡ hoặc hỏi về khả năng."
 		},
 		{
 			id: 9,
@@ -138,7 +138,7 @@ export default function EVAuxiliaryVerbsQuiz(): React.JSX.Element {
 				"were"
 			],
 			correctAnswer: 0,
-			explanation: "Đây là câu điều kiện loại 1, câu con chính dùng trợ động cơ \"will\" để diễn tả một kết quả có thể xảy ra ở tương lai."
+			explanation: "Đây là câu điều kiện loại 1, câu con chính dùng thời động cơ \"will\" để diễn tả một kết quả có thể xảy ra ở tương lai."
 		}
 	];
 
