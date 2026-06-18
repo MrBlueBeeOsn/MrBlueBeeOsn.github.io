@@ -50,15 +50,15 @@ export default function NineBox1(): React.JSX.Element {
 
 			<h4 className="margin-bottom-30 text-center">KIẾN TRÚC TƯ DUY 3X3 & HỆ THỐNG ĐỘNG LẬP TRÌNH: BẢN THIẾT KẾ LÀM CHỦ TIẾNG ANH LOGIC</h4>
 
-			<p>Nếu bạn là người có tư duy mường tượng theo hệ thống—như cách một lập trình viên nhìn vào các luồng dữ liệu (Data Streams) hay một kế toán viên phân loại các tài khoản trên bảng cân đối phát sinh—bạn sẽ thường cảm thấy ngột ngạt với cách học tiếng Anh truyền thống.</p>
+			<p>Nếu bạn là người có tư duy mường tượng theo hệ thống—như cách một lập trình viên nhìn vào các luồng dữ liệu hay một kế toán viên phân loại các tài khoản trên bảng cân đối phát sinh—bạn sẽ thường cảm thấy ngột ngạt với cách học tiếng Anh truyền thống.</p>
 
 			<p>Những thuật ngữ cũ rời rạc, những quy tắc đầy rẫy ngoại lệ khiến bộ não logic của bạn liên tục đặt câu hỏi:</p>
 
 			<p className="margin-y-30">"Bản chất hệ thống ở đây là gì?"</p>
 
-			<p>Thực tế, ngôn ngữ không phải là một tập hợp các quy tắc ngẫu nhiên. Nó là một bộ mã được vận hành bởi logic. Để làm chủ tiếng Anh mà không bị rối bời, chúng ta chuyển đổi hoàn toàn sang Tư duy <strong>Chức năng</strong> (<strong>Functional Thinking</strong>).</p>
+			<p>Thực tế, ngôn ngữ không phải là một tập hợp các quy tắc ngẫu nhiên. Nó là một bộ mã được vận hành bởi logic. Để làm chủ tiếng Anh mà không bị rối bời, chúng ta chuyển đổi hoàn toàn sang <strong>Tư duy Chức năng</strong>.</p>
 			
-			<p>Hệ thống <strong>Kiến trúc Tư duy</strong> (<strong>Mental Architecture</strong>) 3x3 phối hợp cùng bộ quy ước song song dưới đây giúp bạn "đóng gói" và xử lý tiếng Anh chính xác như cách máy tính xử lý các kiểu dữ liệu (Data Types).</p>
+			<p>Hệ thống <strong>Kiến trúc Tư duy 3x3</strong> phối hợp cùng bộ quy ước song song dưới đây giúp bạn đóng gói và xử lý tiếng Anh chính xác như cách máy tính xử lý các kiểu dữ liệu.</p>
 			
 
 			{/* 1.  */}
@@ -69,168 +69,109 @@ export default function NineBox1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>Chiều Ngang — <strong>Chức năng</strong> (Vai trò):</li>
+					<li><strong>Chiều Ngang</strong> — <strong>Chức năng</strong> (<strong>Vai trò</strong>):</li>
 					<li className="list-none">Trả lời câu hỏi "Thành phần này làm nhiệm vụ gì?"</li>
-					<li className="margin-bottom-20 list-none">→ Danh / Tính / Trạng.</li>
+					<li className="margin-bottom-20 list-none">→ <strong>Danh</strong> / <strong>Tính</strong> / <strong>Trạng</strong>.</li>
 			
-					<li>Chiều Dọc — <strong>Cấp độ</strong> (Quy mô):</li>
+					<li><strong>Chiều Dọc</strong> — <strong>Cấp độ</strong> (<strong>Quy mô</strong>):</li>
 					<li className="list-none">Trả lời câu hỏi "Độ phức tạp và cấu trúc quy mô ra sao?"</li>
-					<li className="list-none">→ Quy tắc 3 chữ C: [<strong>Base</strong>] Cơ → [<strong>Phrase</strong>] Cụm → [<strong>Clause</strong>] Câu.</li>
+					<li className="list-none">→ Quy tắc 3 chữ C: [<strong>Base</strong>] <strong>Cơ</strong> → [<strong>Phrase</strong>] <strong>Cụm</strong> → [<strong>Clause</strong>] <strong>Câu</strong>.</li>
 			
 				</ul>
 
 			<p className="margin-top-20">Bằng cách liên kết hai chiều này, mọi cấu trúc tiếng Anh được làm sạch hoàn toàn về mặt thuật ngữ và đưa vào một ma trận đồng bộ tuyệt đối.</p>
-		
+
+			<p>Khi ghép các từ lại, 3 cấp độ <strong>Cơ</strong>, <strong>Cụm</strong>, <strong>Câu</strong> luôn được viết hoa để biểu thị tính đóng gói dữ liệu:</p>
+
+			
+				<ul className="list-square">
+			
+					<li>Danh Cơ, Danh Cụm, Danh Câu</li>
+			
+					<li>Tính Cơ, Tính Cụm, Tính Câu</li>
+			
+					<li>Trạng Cơ, Trạng Cụm, Trạng Câu.</li>
+			
+				</ul>
+
 
 
 			{/* 2.  */}
 
-			<h3 className="margin-y-50 text-center">2. Ma Trận Đóng Gói Dữ Liệu Ngôn Ngữ</h3>
-
-			<p>Mọi phân đoạn trong tiếng Anh đều có thể "đóng gói" (encapsulate) vào ma trận dữ liệu chuẩn sau:</p>
-
-
-			<h4 className="margin-y-40">Chức năng:</h4>
-			
-				<ul className="list-square">
-			
-					<li><strong>DANH</strong> (Đối tượng)</li>
-					<li><strong>TÍNH</strong> (Thuộc tính)</li>
-					<li><strong>TRẠNG</strong> (Bối cảnh)</li>
-			
-				</ul>
-			
-
-			<h4 className="margin-y-40">Cấp độ:</h4>
-	
-			<p className="text-indent-whole">[<strong>BASE</strong>] <strong>Mức cơ bản</strong></p>
-			
-				<ul className="list-square">
-
-					<li>[water], [information]</li>
-					<li className="list-none">[nước], [thông tin]</li>
-					<li className="margin-bottom-20 list-none">→ Danh Cơ [<strong>Noun Base</strong>]</li>
-
-					<li>[accurate], [efficient]</li>
-					<li className="list-none">[chính xác], [hiệu quả]</li>
-					<li className="margin-bottom-20 list-none">→ Tính Cơ [<strong>Adjective Base</strong>]</li>
-			
-					<li>[now], [locally]</li>
-					<li className="list-none">[bây giờ], [cục bộ / tại địa phương]</li>
-					<li className="list-none">→ Trạng Cơ [<strong>Adverb Base</strong>]</li>
-			
-				</ul>
-			
-			
-			<p className="margin-top-20 text-indent-whole">[<strong>PHRASE</strong>] <strong>Khối cụm</strong></p>
-			
-				<ul className="list-square">
-
-					<li>[a new financial report]</li>
-					<li className="list-none">[một báo cáo tài chính mới]</li>
-					<li className="margin-bottom-20 list-none">→ Danh Cụm [<strong>Noun Phrase</strong>]</li>
-
-					<li>[extremely detailed]</li>
-					<li className="list-none">[cực kỳ chi tiết]</li>
-					<li className="margin-bottom-20 list-none">→ Tính Cụm [<strong>Adjective Phrase</strong>]</li>
-			
-					<li>[in the accounting software]</li>
-					<li className="list-none">[trong phần mềm kế toán]</li>
-					<li className="list-none">→ Trạng Cụm [<strong>Adverb Phrase</strong>]</li>
-			
-				</ul>
-			
-			
-			<p className="margin-top-20 text-indent-whole">[<strong>CLAUSE</strong>] <strong>Khối câu con</strong></p>
-			
-				<ul className="list-square">
-
-					<li>[what the manager requested]</li>
-					<li className="list-none">[những gì người quản lý yêu cầu]</li>
-					<li className="margin-bottom-20 list-none">→ Danh Câu [<strong>Noun Clause</strong>]</li>
-			
-					<li>[that standardizes the process]</li>
-					<li className="list-none">[mà tiêu chuẩn hóa quy trình]</li>
-					<li className="margin-bottom-20 list-none">→ Tính Câu [<strong>Adjective Clause</strong>]</li>
-
-					<li>[because the system crashed]</li>
-					<li className="list-none">[bởi vì hệ thống bị treo/sập]</li>
-					<li className="margin-bottom-20 list-none">→ Trạng Câu [<strong>Adverb Clause</strong>]</li>
-			
-				</ul>
-
-
-			{/* 3.  */}
-
-			<h3 className="margin-y-50 text-center">3. Bản Chất Của Vận Hành: Hình Thái Đi Trước, Chức Năng Theo Sau</h3>
-
+			<h3 className="margin-y-50 text-center">2. Bản Chất Của Vận Hành: Hình Thái Đi Trước, Chức Năng Theo Sau</h3>
 
 			<p>Điểm mấu chốt của hệ thống tư duy logic này nằm ở việc tách biệt giữa <strong>Hình thái</strong> (Bề ngoài nhìn thấy) và <strong>Chức năng</strong> (Nhiệm vụ thực tế sau khi đặt vào vị trí câu).</p>
 
-			<p>Khi tiếp cận một câu, người học chỉ nhìn thấy <strong>Hình thái</strong> của hành động ở các cấp độ quy mô:</p>
-
-
-			<p className="margin-y-30">Động Cơ [<strong>Verb Base</strong>], Động Cụm [<strong>Verb Phrase</strong>], hoặc Động Câu [<strong>Verb Clause</strong>].</p>
-
+			<p>Khi tiếp cận một câu, người học chỉ nhìn thấy <strong>Hình thái</strong> của hành động ở các cấp độ quy mô: <strong>Động Cơ</strong> [Verb Base], <strong>Động Cụm</strong> [Verb Phrase], hoặc <strong>Động Câu</strong> [Verb Clause].</p>
 
 			<p>Chúng ta chưa hề biết chức năng của nó là gì. Chỉ khi đặt khối hình thái đó vào một vị trí cụ thể trong câu lớn, <strong>Chức năng</strong> (Danh / Tính / Trạng) của nó mới được kích hoạt và hiển thị.</p>
 
 
-			<h4 className="margin-y-40">3.1. Hình thái cấp độ BASE: ĐỘNG CƠ [Verb Base]</h4>
+			<h4 className="margin-y-40">2.1. Hình thái cấp độ BASE: ĐỘNG CƠ [Verb Base]</h4>
 
-			<p className="text-indent-whole">Là đơn vị hành động nhỏ nhất (chỉ gồm 1 từ). Khi đứng vào các vị trí khác nhau, nó sẽ hình thành nên các chức năng tương ứng:</p>
+			<p className="text-indent-whole">Là đơn vị hành động nhỏ nhất (chỉ gồm 1 từ).</p>
 
-					
-			<p className="margin-top-20 text-indent-whole"><strong>Hình thành Chức năng Danh Cơ</strong> [<strong>Noun Base</strong>]:</p>
+			<p className="text-indent-whole">Khi đứng vào các vị trí khác nhau, nó sẽ hình thành nên các chức năng tương ứng:</p>
+
+			<p className="margin-top-20 text-indent-whole">Hình thành Chức năng Danh Cơ [Noun Base]:</p>
 			
 				<ul className="list-square">
 			
-					<li>[Swimming] builds physical endurance.</li>
-					<li className="margin-bottom-20 list-none">[Bơi lội] xây dựng sức bền thể chất.</li>
-
-					<li className="list-none">→ Hành động bơi lội đóng vai trò là chủ thể của câu</li>
+					<li>[Programming] builds logical thinking.</li>
+					<li className="margin-bottom-20 list-none">[Lập trình] xây dựng tư duy logic.</li>
+			
+					<li className="list-none">Hình thái: [Programming] - Động Cơ [Verb Base] đại diện một hạt nhân hành động đơn lẻ kết thúc bằng đuôi "ing".</li>
+			
+					<li className="list-none">Chức năng: [Programming] - Danh Cơ [Noun Base] đóng vai trò làm chủ thể chịu trách nhiệm thực thi câu lớn.</li>
 			
 				</ul>
 			
 			
 			<p className="margin-top-20 text-indent-whole"><strong>Hình thành Chức năng Tính Cơ</strong> [<strong>Adjective Base</strong>]:</p>
-
+			
 				<ul className="list-square">
 			
 					<li>The team developed an [exciting] software program.</li>
-					<li className="margin-bottom-20 list-none">Nhóm đã phát triển một chương trình phần mềm [thú vị].</li>
-
-					<li className="list-none">→ Hành động mang tính chất gây hào hứng đóng vai trò bổ nghĩa cho chương trình phần mềm</li>
+					<li className="margin-bottom-20 list-none">Đội ngũ đã phát triển một chương trình phần mềm [thú vị].</li>
+			
+					<li className="list-none">Hình thái: [exciting] - Động Cơ [Verb Base] cấu thành từ một hạt nhân hành động đơn lẻ tích hợp cấu hình "ing".</li>
+			
+					<li className="list-none">Chức năng: [exciting] - Tính Cơ [Adjective Base] đứng ngay trước đối tượng để mô tả thuộc tính cho phần mềm.</li>
 			
 				</ul>
 			
 			
-			<p className="margin-top-20 text-indent-whole"><strong>Hình thành Chức năng Trạng Cơ</strong> [<strong>Adverb Base</strong>] (Gốc động cơ + ly):</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Hình thành Chức năng Trạng Cơ</strong> [<strong>Adverb Base</strong>]:</p>
 			
 				<ul className="list-square">
 			
 					<li>She writes code [pointedly].</li>
-					<li className="margin-bottom-20 list-none">Cô ấy viết mã [một cách có chủ đích].</li>
-
-					<li className="list-none">→ Cô ấy viết mã một cách tập trung/có mục đích rõ ràng - cấu hình gốc từ hành động point</li>
+					<li className="margin-bottom-20 list-none">Cô ấy viết mã [một cách tập trung].</li>
+			
+					<li className="list-none">Hình thái: [pointedly] - Động Cơ [Verb Base] phát triển từ gốc hành động point thêm đuôi "ly".</li>
+			
+					<li className="list-none">Chức năng: [pointedly] - Trạng Cơ [Adverb Base] đứng sau nhằm bổ nghĩa cách thức hành động cho việc viết mã.</li>
 			
 				</ul>
 			
 
 
-			<h4 className="margin-y-40">3.2. Hình thái cấp độ PHRASE: ĐỘNG CỤM (Verb Phrase)</h4>
+			<h4 className="margin-y-40">2.2. Hình thái cấp độ PHRASE: ĐỘNG CỤM [Verb Phrase]</h4>
 
-			<p className="text-indent-whole">Là đơn vị hành động chứa nhiều từ tạo thành một khối liên kết (không chứa cấu trúc chủ-vị riêng). Khi đứng vào câu, khối hình thái này sẽ hình thành nên các chức năng:</p>
+			<p className="text-indent-whole">Là đơn vị hành động chứa nhiều từ tạo thành một khối liên kết (không chứa cấu trúc câu con bên trong).</p>
 
-					
+			<p className="text-indent-whole">Khi đứng vào câu, khối hình thái này sẽ hình thành nên các chức năng:</p>
+
 			<p className="margin-top-20 text-indent-whole"><strong>Hình thành Chức năng Danh Cụm</strong> [<strong>Noun Phrase</strong>]:</p>
 			
 				<ul className="list-square">
 			
 					<li>We intend to [upgrade the main server].</li>
 					<li className="margin-bottom-20 list-none">Chúng tôi dự định [nâng cấp máy chủ chính].</li>
-
-					<li className="list-none">→ Cả cụm hành động được đóng gói làm đối tượng đứng sau</li>
+			
+					<li className="list-none">Hình thái: [upgrade the main server] - Động Cụm [Verb Phrase] biểu thị một tập hợp các từ xoay quanh hành động chính upgrade.</li>
+			
+					<li className="list-none">Chức năng: [upgrade the main server] - Danh Cụm [Noun Phrase] đóng vai trò làm một khối đầu việc mục tiêu đứng sau.</li>
 			
 				</ul>
 			
@@ -240,9 +181,11 @@ export default function NineBox1(): React.JSX.Element {
 				<ul className="list-square">
 			
 					<li>The database is [running smoothly now].</li>
-					<li className="margin-bottom-20 list-none">Cơ sở dữ liệu đang [hoạt động trơn tru bây giờ].</li>
-
-					<li className="list-none">→ Cụm mô tả thuộc tính/trạng thái vận hành hiện tại của cơ sở dữ liệu</li>
+					<li className="margin-bottom-20 list-none">Cơ sở dữ liệu [đang vận hành mượt mà lúc này].</li>
+			
+					<li className="list-none">Hình thái: [running smoothly now] - Động Cụm [Verb Phrase] thể hiện một khối hành động mở rộng chứa nhiều từ bổ trợ.</li>
+			
+					<li className="list-none">Chức năng: [running smoothly now] - Tính Cụm [Adjective Phrase] đứng sau nhằm mô tả trạng thái thuộc tính cho cơ sở dữ liệu.</li>
 			
 				</ul>
 			
@@ -252,38 +195,46 @@ export default function NineBox1(): React.JSX.Element {
 				<ul className="list-square">
 			
 					<li>They audit the logs [to prevent system fraud].</li>
-					<li className="margin-bottom-20 list-none">Họ kiểm tra nhật ký [để ngăn chặn gian lận hệ thống].</li>
-
-					<li className="list-none">→ Cụm mô tả bối cảnh mục đích cho hành động kiểm toán</li>
+					<li className="margin-bottom-20 list-none">Họ kiểm toán các nhật ký hệ thống [để ngăn chặn gian lận hệ thống].</li>
+			
+					<li className="list-none">Hình thái: [to prevent system fraud] - Động Cụm [Verb Phrase] thiết lập một khối hành động chứa cấu trúc chỉ mục đích.</li>
+			
+					<li className="list-none">Chức năng: [to prevent system fraud] - Trạng Cụm [Adverb Phrase] bổ nghĩa bối cảnh mục đích cho hành động kiểm toán.</li>
 			
 				</ul>
+			
 
 
-			<h4 className="margin-y-40">3.3. Hình thái cấp độ CLAUSE: ĐỘNG CÂU [Verb Clause]</h4>
+			<h4 className="margin-y-40">2.3. Hình thái cấp độ CLAUSE: ĐỘNG CÂU [Verb Clause]</h4>
 
-			<p className="text-indent-whole">Là đơn vị hành động mở rộng ở quy mô lớn nhất, chứa một cấu trúc câu con bên trong nó. Khi được "gắn" vào hệ thống, khối hình thái này sẽ hình thành nên các chức năng dữ liệu phức hợp:</p>
+			<p className="text-indent-whole">Là đơn vị hành động mở rộng ở quy mô lớn nhất, chứa một cấu trúc câu con bên trong nó.</p>
 
-					
+			<p className="text-indent-whole">Khi được "gắn" vào hệ thống, khối hình thái này sẽ hình thành nên các chức năng dữ liệu phức hợp:</p>
+
 			<p className="margin-top-20 text-indent-whole"><strong>Hình thành Chức năng Danh Câu</strong> [<strong>Noun Clause</strong>]:</p>
 			
 				<ul className="list-square">
 			
 					<li>The system confirms [that the payment succeeded].</li>
-					<li className="margin-bottom-20 list-none">Hệ thống xác nhận [rằng khoản thanh toán đã thành công].</li>
-
-					<li className="list-none">→ Khối câu con làm đối tượng được xác nhận bởi hệ thống</li>
+					<li className="margin-bottom-20 list-none">Hệ thống xác nhận [rằng việc thanh toán đã thành công].</li>
+			
+					<li className="list-none">Hình thái: [that the payment succeeded] - Động Câu [Verb Clause] tạo nên một module thực thi chứa đầy đủ cấu trúc câu con.</li>
+			
+					<li className="list-none">Chức năng: [that the payment succeeded] - Danh Câu [Noun Clause] hoạt động như một khối đối tượng dữ liệu được xác nhận.</li>
 			
 				</ul>
 			
 			
 			<p className="margin-top-20 text-indent-whole"><strong>Hình thành Chức năng Tính Câu</strong> [<strong>Adjective Clause</strong>]:</p>
-
+			
 				<ul className="list-square">
 			
 					<li>The source code [which has a security flaw] must be rewritten.</li>
-					<li className="margin-bottom-20 list-none">Mã nguồn [có một lỗ hổng bảo mật] phải được viết lại.</li>
-
-					<li className="list-none">→ Khối câu con định danh và mô tả đặc điểm cho đối tượng source code</li>
+					<li className="margin-bottom-20 list-none">Mã nguồn [mà nó có một lỗ hổng bảo mật] phải được viết lại.</li>
+			
+					<li className="list-none">Hình thái: [which has a security flaw] - Động Câu [Verb Clause] vận hành như một module chứa cấu trúc câu con đứng lồng giữa.</li>
+			
+					<li className="list-none">Chức năng: [which has a security flaw] - Tính Câu [Adjective Clause] đóng vai trò định danh thuộc tính để chỉ rõ loại mã nguồn nào.</li>
 			
 				</ul>
 			
@@ -292,68 +243,46 @@ export default function NineBox1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>The software will deploy [wherever the network connects]</li>
-					<li className="margin-bottom-20 list-none">Phần mềm sẽ được triển khai [bất cứ nơi nào mạng kết nối].</li>
-
-					<li className="list-none">→ Khối câu con mô tả hoàn cảnh/điều kiện nơi chốn cho hành động triển khai.</li>
+					<li>The software will deploy [wherever the network connects].</li>
+					<li className="margin-bottom-20 list-none">Phần mềm sẽ triển khai [bất cứ nơi nào mạng kết nối].</li>
 			
-				</ul>
-
+					<li className="list-none">Hình thái: [wherever the network connects] - Động Câu [Verb Clause] bao gồm một module chứa cấu trúc câu con biểu thị điều kiện.</li>
 			
-			{/* 4.  */}
-
-			<h3 className="margin-y-50 text-center">4. Nguyên Tắc Phân Tầng Hệ Thống & Quy Ước Vận Hành</h3>
-
-			<h4 className="margin-y-40">Bảng Tổng Hợp Quy Ước Vận Hành Hệ Thống</h4>
-
-			<p className="margin-y-20 text-indent-whole"><strong>Hình thái</strong> (<strong>Nhìn thấy</strong>)</p>
-			
-				<ul className="list-square">
-			
-					<li>Động Cơ [<strong>Verb Base</strong>]</li>
-					<li className="list-none">Cấp độ: [<strong>Base</strong>]</li>
-					<li className="list-none">Chức năng hình thành (Theo vị trí): Danh cơ / Tính cơ / Trạng cơ</li>
-					<li className="margin-bottom-20 list-none">Vai trò trong hệ thống: Hạt nhân đơn lẻ (1 từ).</li>
-			
-					<li>Động Cụm [<strong>Verb Phrase</strong>]</li>
-					<li className="list-none">Cấp độ: [<strong>Phrase</strong>]</li>
-					<li className="list-none">Chức năng hình thành (Theo vị trí): Danh cụm / Tính cụm / Trạng cụm</li>
-					<li className="margin-bottom-20 list-none">Vai trò trong hệ thống: Module thực thi trung gian (Nhiều từ).</li>
-			
-					<li>Động Câu [<strong>Verb Clause</strong>]</li>
-					<li className="list-none">Cấp độ: [<strong>Clause</strong>]</li>
-					<li className="list-none">Chức năng hình thành (Theo vị trí): Danh câu / Tính câu / Trạng câu</li>
-					<li className="list-none">Vai trò trong hệ thống: Module thực thi chứa câu con bên trong.</li>
+					<li className="list-none">Chức năng: [wherever the network connects] - Trạng Câu [Adverb Clause] bổ nghĩa bối cảnh không gian cho hành động triển khai.</li>
 			
 				</ul>
 			
 
+			
+			{/* 3.  */}
 
-			<h4 className="margin-y-40">Cấu trúc phân tầng lồng nhau (Lấy cả động cơ chính)</h4>
+			<h3 className="margin-y-50 text-center">3. Nguyên Tắc Phân Tầng Hệ Thống</h3>
 
-			<p className="text-indent-whole">Trong các cấu trúc phức tạp, các Module sẽ lồng vào nhau theo kiến trúc hình khối.</p>
+			<p>Trong các cấu trúc phức tạp, các Module sẽ lồng vào nhau theo kiến trúc hình khối.</p>
 
-			<p className="margin-y-30 text-indent-whole"><strong>Quy ước</strong>: Dấu [] bao quanh tầng ngoài và dấu {'{}'} bao quanh tầng lồng bên trong.</p>
+			<p><strong>Quy ước</strong>: <strong>Dấu [] bao quanh tầng ngoài</strong> và <strong>dấu {'{}'} bao quanh tầng lồng bên trong</strong>.</p>
 
-			<p className="text-indent-whole">Hệ thống phân tầng này sẽ quét và lấy trọn vẹn cả động cơ chính điều phối hành động.</p>
+			<p>Hệ thống phân tầng này sẽ quét và lấy trọn vẹn cả động cơ chính điều phối hành động và các thông số cài đặt thời phối hợp. Các thành phần chịu trách nhiệm biểu thị dòng thời gian sẽ đóng vai trò là một thời động cơ tích hợp trực tiếp bên trong cấu trúc phân tầng.</p>
 
-
-			<p className="margin-top-20 text-indent-whole"><strong>Mô hình thực tế</strong>:</p>
+			<p className="margin-top-20"><strong>Mô hình thực tế</strong>:</p>
 			
 				<ul className="list-square">
 			
 					<li>The analyst [expects {'{that the revenue will drop}'}].</li>
-					<li className="margin-bottom-20 list-none">Nhà phân tích [kỳ vọng {'{rằng doanh thu sẽ giảm}'}].</li>
-
-					<li className="list-none">{'{that the revenue will drop}'}</li>
-					<li className="list-none">Hình thái Động Câu [<strong>Verb Clause</strong>]</li>
-					<li className="margin-bottom-20 list-none">→ Hoạt động với Chức năng: Danh Câu [<strong>Noun Clause</strong>] vì làm đối tượng trực tiếp đứng sau.</li>
+					<li className="margin-bottom-20 list-none">Nhà phân tích [mong đợi {'{rằng doanh thu sẽ giảm}'}].</li>
 			
-					<li className="list-none">[expects {'{that the revenue will drop}'}]</li>
-					<li className="list-none">Toàn bộ khối bao gồm cả động cơ chính expects phối hợp với khối dữ liệu phía sau tạo thành hình thái Động Cụm [<strong>Verb Phrase</strong>]</li>
-					<li className="list-none">→ Hoạt động với Chức năng: Danh Cụm [<strong>Noun Phrase</strong>] lớn điều phối hành động của chủ thể.</li>
+					<li className="list-none">{'{that the revenue will drop}'}:</li>
+					<li className="list-none">Hình thái <strong>Động Câu</strong> [Verb Clause]</li>
+					<li className="margin-bottom-20 list-none">Hoạt động với <strong>Chức năng</strong>: <strong>Danh Câu</strong> [Noun Clause] vì làm đối tượng trực tiếp đứng sau động cơ chính.</li>
+
+					<li className="list-none">[expects {'{that the revenue will drop}'}]:</li>
+					<li className="list-none">Toàn bộ khối bao gồm cả động cơ chính expects phối hợp với khối dữ liệu phía sau tạo thành hình thái <strong>Động Cụm</strong> [Verb Phrase]</li>
+					<li className="list-none">Hoạt động với <strong>Chức năng</strong>: <strong>Danh Cụm</strong> [Noun Phrase] lớn điều phối hành động của chủ thể.</li>
 			
 				</ul>
+			
+			
+			<p className="margin-top-20"></p>
 	
 
 			<h4 className="margin-y-40">Nguyên tắc "Điểm neo":</h4>
@@ -370,113 +299,161 @@ export default function NineBox1(): React.JSX.Element {
 			
 
 
-			{/* 5. */}
+			{/* 4. */}
 
-			<h3 className="margin-y-50 text-center">5. Tối Ưu Hóa Kỹ Năng Viết Lại Câu (Paraphrasing) Bằng Quy Tắc Chuyển Đổi Cấp Độ</h3>
+			<h3 className="margin-y-50 text-center">4. Tối Ưu Hóa Kỹ Năng Viết Lại Câu (Paraphrasing) Bằng Quy Tắc Chuyển Đổi Cấp Độ</h3>
 
-			<p>Bản chất của Paraphrasing chuyên nghiệp không phải là tìm từ đồng nghĩa một cách mù quáng, mà là tịnh tiến quy mô dữ liệu theo chiều dọc (<strong>Base</strong> → <strong>Phrase</strong> → <strong>Clause</strong>) trong khi vẫn giữ cố định vị trí chức năng trên chiều ngang của hệ tọa độ.</p>
+			<p>Khi bộ não của bạn đã hình thành phản xạ bóc tách tự động—tách biệt hoàn toàn Hình thái thô bên ngoài và Chức năng thực tế bên trong—thì kỹ năng viết lại câu (Paraphrasing) trở thành một bài toán "thay khối cùng chức năng" và không cần thay đổi cấu trúc tổng thể.</p>
+
+			<p>Thay vì đi tìm các từ đồng nghĩa một cách rời rạc hay cố gắng đảo lộn câu một cách may rủi, bạn giữ cố định vị trí Chức năng trên trục ngang của hệ tọa độ, và chỉ thay đổi kích thước của khối hình thái từ mức Cơ lên Cụm, hoặc từ Cụm lên Câu. Bản thiết kế tổng thể của Câu lớn hoàn toàn được giữ vững, không bao giờ lo gãy đổ cấu trúc logic.</p>
+
+			<p>Dưới đây là các module hoán đổi dữ liệu mẫu giúp bạn tối ưu hóa văn bản:</p>
+
+
+			<h4 className="margin-y-40">Nhóm 1: Tịnh tiến ô chức năng DANH (Đối tượng)</h4>
 					
-
-
-			<h4 className="margin-y-40">Nhóm 1: Tịnh tiến ô chức năng DANH [NOUN] (Đối tượng)</h4>
-					
-			<p className="margin-top-20 text-indent-whole">Danh Cơ [<strong>Noun Base</strong>]</p>
-
+			<p className="margin-top-20 text-indent-whole"><strong>Mức Cấp độ Cơ</strong>:</p>
+			
 				<ul className="list-square">
 			
 					<li>[Automation] increases workflow efficiency.</li>
-					<li className="list-none">[Tự động hóa] giúp tăng hiệu suất quy trình.</li>
+					<li className="margin-bottom-20 list-none">[Tự động hóa] tăng hiệu suất quy trình công việc.</li>
+			
+					<li className="list-none">Hình thái: [Automation] - Động Cơ [Verb Base]</li>
+			
+					<li className="list-none">Chức năng: [Automation] - Danh Cơ [Noun Base]</li>
 			
 				</ul>
-
-			<p className="margin-top-20 text-indent-whole">Danh Cụm [<strong>Noun Phrase</strong>]</p>
-
+			
+			
+			<p className="margin-top-20 text-indent-whole"><strong>Mức Cấp độ Cụm</strong>:</p>
+			
 				<ul className="list-square">
-					
+			
 					<li>[The deployment of new software tools] increases workflow efficiency.</li>
-					<li className="list-none">[Việc triển khai các công cụ phần mềm mới] giúp tăng hiệu suất quy trình.</li>
+					<li className="margin-bottom-20 list-none">[Việc triển khai các công cụ phần mềm mới] tăng hiệu suất quy trình công việc.</li>
+			
+					<li className="list-none">Hình thái: [The deployment of new software tools] - Động Cụm [Verb Phrase]</li>
+			
+					<li className="list-none">Chức năng: [The deployment of new software tools] - Danh Cụm [Noun Phrase]</li>
 			
 				</ul>
-
-			<p className="margin-top-20 text-indent-whole">Danh Câu [<strong>Noun Clause</strong>]</p>
-
+			
+			
+			<p className="margin-top-20 text-indent-whole"><strong>Mức Cấp độ Câu</strong>:</p>
+			
 				<ul className="list-square">
 			
 					<li>[What the engineering team implemented yesterday] increases workflow efficiency.</li>
-					<li className="list-none">[Những gì đội ngũ kỹ sư triển khai ngày hôm qua] giúp tăng hiệu suất quy trình.</li>
+					<li className="margin-bottom-20 list-none">[Những gì đội ngũ kỹ sư triển khai ngày hôm qua] tăng hiệu suất quy trình công việc.</li>
+			
+					<li className="list-none">Hình thái: [What the engineering team implemented yesterday] - Động Câu [Verb Clause]</li>
+			
+					<li className="list-none">Chức năng: [What the engineering team implemented yesterday] - Danh Câu [Noun Clause]</li>
 			
 				</ul>
+			
 
 
 
-			<h4 className="margin-y-40">Nhóm 2: Biến đổi ô chức năng TÍNH [ADJECTIVE] (Thuộc tính)</h4>
+			<h4 className="margin-y-40">Nhóm 2: Tịnh tiến ô chức năng TÍNH (Thuộc tính)</h4>
 					
-			<p className="margin-top-20 text-indent-whole">Tính Cơ [<strong>Adjective Base</strong>]</p>
-
+			<p className="margin-top-20 text-indent-whole"><strong>Mức Cấp độ Cơ</strong>:</p>
+			
 				<ul className="list-square">
-
+			
 					<li>We must replace this [unsecured] connection.</li>
-					<li className="list-none">Chúng ta phải thay thế kết nối [không an toàn] này</li>
+					<li className="margin-bottom-20 list-none">Chúng ta phải thay thế kết nối [không an toàn] này.</li>
+			
+					<li className="list-none">Hình thái: [unsecured] - Động Cơ [Verb Base]</li>
+			
+					<li className="list-none">Chức năng: [unsecured] - Tính Cơ [Adjective Base]</li>
 			
 				</ul>
-
-			<p className="margin-top-20 text-indent-whole">Tính Cụm [<strong>Adjective Phrase</strong>]</p>
-
+			
+			
+			<p className="margin-top-20 text-indent-whole"><strong>Mức Cấp độ Cụm</strong>:</p>
+			
 				<ul className="list-square">
-
+			
 					<li>We must replace this connection [vulnerable to cyber threats].</li>
-					<li className="list-none">Chúng ta phải thay thế kết nối [dễ bị tổn hại bởi các mối đe dọa mạng] này.</li>
+					<li className="margin-bottom-20 list-none">Chúng ta phải thay thế kết nối [dễ bị tổn hại bởi các mối đe dọa mạng] này.</li>
+			
+					<li className="list-none">Hình thái: [vulnerable to cyber threats] - Động Cụm [Verb Phrase]</li>
+			
+					<li className="list-none">Chức năng: [vulnerable to cyber threats] - Tính Cụm [Adjective Phrase]</li>
 			
 				</ul>
-
-			<p className="margin-top-20 text-indent-whole">Tính Câu [<strong>Adjective Clause</strong>]</p>
+			
+			
+			<p className="margin-top-20 text-indent-whole"><strong>Mức Cấp độ Câu</strong>:</p>
 			
 				<ul className="list-square">
-
+			
 					<li>We must replace this connection [which allows unauthorized user access].</li>
-					<li className="list-none">Chúng ta phải thay thế kết nối [mà nó cho phép người dùng không được cấp quyền truy cập vào].</li>
+					<li className="margin-bottom-20 list-none">Chúng ta phải thay thế kết nối [mà nó cho phép người dùng không được cấp quyền truy cập vào] này.</li>
+			
+					<li className="list-none">Hình thái: [which allows unauthorized user access] - Động Câu [Verb Clause]</li>
+			
+					<li className="list-none">Chức năng: [which allows unauthorized user access] - Tính Câu [Adjective Clause]</li>
 			
 				</ul>
 			
+			
 
 
-			<h4 className="margin-y-40">Nhóm 3: Tịnh tiến ô chức năng TRẠNG [ADVERB] (Bối cảnh)</h4>
+			<h4 className="margin-y-40">Nhóm 3: Tịnh tiến ô chức năng TRẠNG (Bối cảnh)</h4>
 					
-			<p className="margin-top-20 text-indent-whole">Trạng Cơ [<strong>Adverb Base</strong>]</p>
-
+			<p className="margin-top-20 text-indent-whole"><strong>Mức Cấp độ Cơ</strong>:</p>
+			
 				<ul className="list-square">
-
+			
 					<li>The server updates [automatically].</li>
-					<li className="list-none">Máy chủ cập nhật [một cách tự động].</li>
+					<li className="margin-bottom-20 list-none">Máy chủ cập nhật [một cách tự động].</li>
+			
+					<li className="list-none">Hình thái: [automatically] - Động Cơ [Verb Base]</li>
+			
+					<li className="list-none">Chức năng: [automatically] - Trạng Cơ [Adverb Base]</li>
 			
 				</ul>
-
-			<p className="margin-top-20 text-indent-whole">Trạng Cụm [<strong>Adverb Phrase</strong>]</p>
-
+			
+			
+			<p className="margin-top-20 text-indent-whole"><strong>Mức Cấp độ Cụm</strong>:</p>
+			
 				<ul className="list-square">
 			
 					<li>The server updates [without any human intervention].</li>
-					<li className="list-none">Máy chủ cập nhật [mà không cần bất kỳ sự can thiệp nào của con người].</li>
+					<li className="margin-bottom-20 list-none">Máy chủ cập nhật [mà không cần bất kỳ sự can thiệp nào của con người].</li>
+			
+					<li className="list-none">Hình thái: [without any human intervention] - Động Cụm [Verb Phrase]</li>
+			
+					<li className="list-none">Chức năng: [without any human intervention] - Trạng Cụm [Adverb Phrase]</li>
 			
 				</ul>
-
-			<p className="margin-top-20 text-indent-whole">Trạng Câu [<strong>Adverb Clause</strong>]</p>
+			
+			
+			<p className="margin-top-20 text-indent-whole"><strong>Mức Cấp độ Câu</strong>:</p>
 			
 				<ul className="list-square">
-					
+			
 					<li>The server updates [whenever a new security patch publishes].</li>
-					<li className="list-none">Máy chủ cập nhật [bất cứ khi nào một bản vá bảo mật mới được phát hành].</li>
+					<li className="margin-bottom-20 list-none">Máy chủ cập nhật [bất cứ khi nào một bản vá bảo mật mới được phát hành].</li>
+			
+					<li className="list-none">Hình thái: [whenever a new security patch publishes] - Động Câu [Verb Clause]</li>
+			
+					<li className="list-none">Chức năng: [whenever a new security patch publishes] - Trạng Câu [Adverb Clause]</li>
 			
 				</ul>
+			
 			
 
 			{/* Lời Kết */}
 
 			<h3 className="margin-y-50 text-center">Lời Kết</h3>
 
-			<p>Sự đồng bộ giữa hai trục Chức năng (Danh - Tính - Trạng) và Cấp độ [<strong>Base</strong> - <strong>Phrase</strong> - <strong>Clause</strong>] tạo ra một bộ lọc ngôn ngữ cực kỳ tinh gọn.</p>
+			<p>Sự đồng bộ giữa hai trục Chức năng (Danh - Tính - Trạng) và Cấp độ (Base - Phrase - Clause) tạo ra một bộ lọc ngôn ngữ cực kỳ tinh gọn.</p>
 
-			<p>Khi bạn chuyển đổi cách nhìn từ việc đoán nghĩa từ vựng sang việc bóc tách Hình thái trước rồi định hình Chức năng dựa trên vị trí, bạn đã chính thức làm chủ mã nguồn của tiếng Anh.</p>
+			<p>Khi bạn chuyển đổi cách nhìn sang việc bóc tách Hình thái trước rồi định hình Chức năng dựa trên vị trí và thời phối hợp của <strong>thời động cơ</strong>, việc làm chủ hay viết lại bất kỳ câu tiếng Anh chuyên ngành phức tạp nào cũng chỉ còn là việc lắp ráp các khối dữ liệu chuẩn hóa.</p>
 			
 
 			<div className="viewcounter">

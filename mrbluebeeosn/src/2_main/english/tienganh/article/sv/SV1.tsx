@@ -278,7 +278,7 @@ export default function SV1(): React.JSX.Element {
 
 					<li className="list-none">Hình thái lớp trong: {'{what you teach him}'} - Động Câu [Verb Clause] chứa hệ trục S + V điều hành theo thời hiện tại.</li>
 
-					<li className="list-none">Chức năng lớp trong: {'{what you teach him}'} - Danh Câu [Noun Clause] đứng sau đón nhận tác động từ hành động học.</li>
+					<li className="margin-bottom-20 list-none">Chức năng lớp trong: {'{what you teach him}'} - Danh Câu [Noun Clause] đứng sau đón nhận tác động từ hành động học.</li>
 
 					<li className="list-none">Hình thái tổng thể: [learns {'{what you teach him}'}] - Động Cụm [Verb Phrase] cấu thành khối hành động lớn chứa động cơ chính học phối hợp cùng phần module phụ thuộc phía sau để thực thi toàn bộ phần hành động bổ trợ thông tin cho chủ thể He.</li>
 
@@ -290,9 +290,14 @@ export default function SV1(): React.JSX.Element {
 
 			<h4 className="margin-y-40">5. Paraphrasing: Nghệ Thuật Thay Khối Cùng Chức Năng</h4>
 
-			<p className="text-indent-whole">Khi tư duy hình khối Cơ - Cụm - Câu đã trở thành bản năng, kỹ thuật viết lại câu [paraphrasing] không còn là việc đổi từ đồng nghĩa một cách may rủi hay xáo trộn trật tự một cách khiên cưỡng. Việc làm mới câu văn giờ đây thực chất là một bài toán hình học sắp xếp module: Thay đổi Cấp Độ cấu trúc nhưng giữ nguyên vẹn Chức Năng ở cùng một vị trí neo.</p>
+			<p className="text-indent-whole">Khi tư duy hình khối Cơ - Cụm - Câu đã trở thành bản năng, kỹ thuật viết lại câu [paraphrasing] không còn là việc đổi từ đồng nghĩa một cách may rủi hay xáo trộn trật tự một cách khiên cưỡng.</p>
 
-			<p className="text-indent-whole">Chỉ cần xác định vị trí đó đang đảm nhận chức năng gì (Danh, Tính, hay Trạng), người học có toàn quyền nhấc một khối Cơ ra và đặt một khối Cụm hoặc một khối Câu vào để thế chỗ. Cấu trúc tổng thể của Câu lớn hoàn toàn không bị phá vỡ hay xáo trộn.</p>
+			<p className="text-indent-whole">Việc làm mới câu văn giờ đây thực chất là một bài toán hình học sắp xếp module: Thay đổi Cấp Độ cấu trúc nhưng giữ nguyên vẹn Chức Năng ở cùng một vị trí neo.</p>
+			
+
+			<p className="text-indent-whole">Chỉ cần xác định vị trí đó đang đảm nhận chức năng gì (Danh, Tính, hay Trạng), người học có toàn quyền nhấc một khối Cơ ra và đặt một khối Cụm hoặc một khối Câu vào để thế chỗ.</p>
+
+			<p className="text-indent-whole">Cấu trúc tổng thể của Câu lớn hoàn toàn không bị phá vỡ hay xáo trộn.</p>
 
 			<p className="text-indent-whole">Hãy xem cách chúng ta biến đổi linh hoạt một thông điệp thông qua việc hoán đổi các khối cấu trúc cùng giữ <strong>Chức năng Trạng</strong>:</p>
 

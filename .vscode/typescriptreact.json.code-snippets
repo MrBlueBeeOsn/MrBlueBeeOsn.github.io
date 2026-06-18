@@ -2106,6 +2106,69 @@
 // 		"description": "className mt20"
 // 	},
 
+// 	// .margintop30
+// 	"template className mt30": {
+// 		"prefix": ".margintop30",
+// 		"body": [
+// 			" className=\"margin-top-30\""
+// 		],
+// 		"description": "className mt30"
+// 	},
+
+// 	// .margintop40
+// 	"template className mt40": {
+// 		"prefix": ".margintop40",
+// 		"body": [
+// 			" className=\"margin-top-40\""
+// 		],
+// 		"description": "className mt40"
+// 	},
+
+// 	// .margintop50
+// 	"template className mt50": {
+// 		"prefix": ".margintop50",
+// 		"body": [
+// 			" className=\"margin-top-50\""
+// 		],
+// 		"description": "className mt50"
+// 	},
+
+// 	// .marginbottom20
+// 	"template className mb20": {
+// 		"prefix": ".marginbottom20",
+// 		"body": [
+// 			" className=\"margin-bottom-20\""
+// 		],
+// 		"description": "className mb20"
+// 	},
+
+// 	// .marginbottom30
+// 	"template className mb30": {
+// 		"prefix": ".marginbottom30",
+// 		"body": [
+// 			" className=\"margin-bottom-30\""
+// 		],
+// 		"description": "className mb30"
+// 	},
+
+// 	// .marginbottom40
+// 	"template className mb40": {
+// 		"prefix": ".marginbottom40",
+// 		"body": [
+// 			" className=\"margin-bottom-40\""
+// 		],
+// 		"description": "className mb40"
+// 	},
+
+// 	// .marginbottom50
+// 	"template className mb50": {
+// 		"prefix": ".marginbottom50",
+// 		"body": [
+// 			" className=\"margin-bottom-50\""
+// 		],
+// 		"description": "className mb50"
+// 	},
+
 // 	// .list-none
 // 	"template className ln": {
 // 		"prefix": ".list-none",
