@@ -53,52 +53,47 @@ export default function SV1(): React.JSX.Element {
 			<p>Bản chất của việc làm chủ một ngôn ngữ không nằm ở việc học thuộc lòng các quy tắc phức tạp, mà nằm ở khả năng nhìn thấu cấu trúc và quy luật vận hành của nó.</p>
 
 			<p>Khi các yếu tố cấu trúc được đơn giản hóa thành một bản đồ trực quan, tư duy của người học sẽ được giải phóng hoàn toàn để đạt đến tốc độ phản xạ tự nhiên nhất.</p>
-
-			<p>Hệ thống tư duy mới dưới đây được xây dựng dựa trên sự đồng bộ tuyệt đối giữa:</p>
-
-
-			<p className="margin-y-30"><strong>3 Hình Thái</strong> gốc, <strong>3 Chức Năng</strong> điều phối và <strong>3 Cấp Độ</strong> hình khối.</p>
 			
 		
-			<p>Giúp người học "nhìn phát hiểu ngay" mọi thành phần trong tiếng Anh mà không cần đến bất kỳ định nghĩa rườm rà nào.</p>
+			<p>Hệ thống tư duy mới dưới đây được xây dựng dựa trên sự đồng bộ tuyệt đối giữa 3 Hình Thái gốc, 3 Chức Năng điều phối và 3 Cấp Độ hình khối, giúp người học "nhìn phát hiểu ngay" mọi thành phần trong tiếng Anh mà không cần đến bất kỳ định nghĩa rườm rà nào.</p>
 
 
 			{/* 1.  */}
 
 			<h3 className="margin-y-50 text-center">1. Hệ Trục Tọa Độ Quy Tắc 3C</h3>
-			
-			<p>Toàn bộ kiến trúc của câu tiếng Anh được phân định rõ ràng qua 3 cấp độ quy mô tăng dần, đều bắt đầu bằng chữ <strong>C</strong> để tạo lối mòn tư duy cực kỳ dễ nhớ:</p>
 
-			<p className="margin-top-20"></p>
+			<p>Toàn bộ kiến trúc của câu tiếng Anh được phân định rõ ràng qua 3 cấp độ quy mô tăng dần, đều bắt đầu bằng chữ C để tạo lối mòn tư duy cực kỳ dễ nhớ:</p>
 			
 				<ul className="list-square">
 			
-					<li><strong>CƠ</strong> (<strong>Cơ bản</strong> - <strong>Base</strong>):</li>
+					<li><strong>CƠ</strong> [<strong>Base</strong>]:</li>
 					<li className="margin-bottom-20 list-none">Mức độ một từ đơn lẻ, đóng vai trò là những viên gạch nền tảng.</li>
 			
-					<li><strong>CỤM</strong> (<strong>Khối cụm</strong> - <strong>Phrase</strong>):</li>
-					<li className="list-none">Một nhóm từ kết hợp với nhau nhưng <strong>không</strong> chứa hệ trục Chủ ngữ + Vị ngữ (S + V).</li>
-					<li className="margin-bottom-20 list-none">Nếu khối này đóng vai trò phụ trợ, gọi chung là <strong>Phụ cụm</strong>.</li>
+					<li><strong>CỤM</strong> [<strong>Phrase</strong>]:</li>
+					<li className="list-none">Một nhóm từ kết hợp với nhau nhưng không chứa hệ trục S + V.</li>
+					<li className="margin-bottom-20 list-none">Nếu khối này đóng vai trò phụ trợ, gọi chung là Phụ Cụm.</li>
 			
-					<li><strong>CÂU</strong> (<strong>Hệ trục S</strong> + <strong>V</strong> - <strong>Clause</strong>):</li>
-					<li className="list-none">Cấu trúc có chứa đầy đủ Chủ ngữ + Vị ngữ (S + V).</li>
-					<li className="list-none">Nếu hệ trục này đóng vai trò phụ trợ nằm trong một cấu trúc lớn hơn, gọi chung là <strong>Phụ câu</strong>.</li>
+					<li><strong>CÂU</strong> [<strong>Clause</strong>]:</li>
+					<li className="list-none">Cấu trúc có chứa đầy đủ hệ trục S + V.</li>
+					<li className="list-none">Nếu hệ trục này đóng vai trò phụ trợ nằm trong một cấu trúc lớn hơn, gọi chung là Phụ Câu.</li>
 			
 				</ul>
+			
+			<p className="margin-top-20"></p>
 
-			
-			
+
 			<p className="margin-top-20">Về mặt quy mô độc lập trong văn bản:</p>
-				
+			
 				<ul className="list-square">
 			
-					<li><strong>Câu lớn</strong> (hoặc <strong>Câu trọn vẹn</strong>):</li>
+					<li><strong>Câu lớn</strong> [<strong>Sentence</strong>]:</li>
 					<li className="margin-bottom-20 list-none">Đứng độc lập, kết thúc bằng dấu chấm và biểu thị một ý trọn vẹn.</li>
-					
+			
 					<li><strong>Câu con</strong>:</li>
 					<li className="list-none">Hệ trục S + V nằm bên trong làm thành phần cấu tạo cho một Câu lớn.</li>
 			
 				</ul>
+
 			
 			
 
@@ -106,375 +101,281 @@ export default function SV1(): React.JSX.Element {
 
 			<h3 className="margin-y-50 text-center">2. Tư Duy Ngược: Từ "Hình Thái" Giải Mã "Chức Năng"</h3>
 
-			<p>Một sai lầm kinh điển của cách học cũ là bắt người học phải đoán chức năng trước.</p>
+			<p>Một sai lầm kinh điển của cách học cũ là bắt người học phải đoán chức năng trước. Với hệ thống mới, quy trình tư duy được đảo ngược một cách tự nhiên và khoa học: Người học nhìn thấy Hình thái trước, sau đó dựa vào vị trí để giải mã ra Chức năng.</p>
 
-			<p>Với hệ thống mới, quy trình tư duy được đảo ngược một cách tự nhiên và khoa học:</p>
-			
-				<ul className="list-square">
-			
-					<li>Người học nhìn thấy <strong>Hình thái</strong> trước.</li>
-			
-					<li>Sau đó dựa vào vị trí để giải mã ra <strong>Chức năng</strong>.</li>
-
-			
-				</ul>
-			
-			
-			<p className="margin-top-20">Hạt nhân của mọi hình thái hành động trong câu chính là <strong>ĐỘNG</strong> (Xung lực vận hành).</p>
-
-			<p>Trục <strong>hình thái</strong> được chia làm <strong>3 cấp độ</strong>:</p>
+			<p>Hạt nhân của mọi hình thái hành động trong câu chính là ĐỘNG (Xung lực vận hành). Trục hình thái được chia làm 3 cấp độ:</p>
 			
 				<ol>
 			
-					<li value="1">Động Cơ [<strong>Verb Base</strong>]:</li>
-					<li className="list-none">Đơn vị hành động nhỏ nhất (1 từ gốc).</li>
-					<li className="margin-bottom-20 list-none">Hình thái này sẽ đi làm các chức năng: Danh Cơ [<strong>Noun Base</strong>], Tính Cơ [<strong>Adjective Base</strong>], hoặc Trạng Cơ [<strong>Adverb Base</strong>].</li>
+					<li value="1"><strong>Động Cơ</strong> [<strong>Verb Base</strong>]:</li>
+					<li className="list-none">Đơn vị hành động nhỏ nhất, gồm 1 từ gốc.</li>
+					<li className="margin-bottom-20 list-none">Hình thái này sẽ đi làm các chức năng: Danh Cơ [Noun Base], Tính Cơ [Adjective Base], hoặc Trạng Cơ [Adverb Base].</li>
 			
-					<li value="2">Động Cụm [<strong>Verb Phrase</strong>]:</li>
-					<li className="list-none">Khối hành động chứa nhiều từ (không S + V).</li>
-					<li className="margin-bottom-20 list-none">Hình thái này sẽ đi làm các chức năng: Danh Cụm [<strong>Noun Phrase</strong>], Tính Cụm [<strong>Adjective Phrase</strong>], hoặc Trạng Cụm [<strong>Adverb Phrase</strong>].</li>
+					<li value="2"><strong>Động Cụm</strong> [<strong>Verb Phrase</strong>]:</li>
+					<li className="list-none">Khối hành động chứa nhiều từ, không chứa hệ trục S + V.</li>
+					<li className="margin-bottom-20 list-none">Hình thái này sẽ đi làm các chức năng: Danh Cụm [Noun Phrase], Tính Cụm [Adjective Phrase], hoặc Trạng Cụm [Adverb Phrase].</li>
 			
-					<li value="3">Động Câu [<strong>Verb Clause</strong>]:</li>
-					<li className="list-none">Khối hành động chứa một cấu trúc Câu con hoàn chỉnh (có S + V).</li>
-					<li className="list-none">Hình thái này sẽ đi làm các chức năng: Danh Câu [<strong>Noun Clause</strong>], Tính Câu [<strong>Adjective Clause</strong>], hoặc Trạng Câu [<strong>Adverb Clause</strong>].</li>
+					<li value="3"><strong>Động Câu</strong> [<strong>Verb Clause</strong>]:</li>
+					<li className="list-none">Khối hành động chứa một cấu trúc Câu con hoàn chỉnh, có chứa hệ trục S + V.</li>
+					<li className="list-none">Hình thái này sẽ đi làm các chức năng: Danh Câu [Noun Clause], Tính Câu [Adjective Clause], hoặc Trạng Câu [Adverb Clause].</li>
 			
 				</ol>
-
-
-			<p className="margin-top-20">Khi chưa đặt vào câu, bạn chỉ biết đó là hình thái Động cơ/Động cụm/Động câu.</p>
-
-			<p>Chỉ khi nó "neo" vào một vị trí cụ thể, chức năng tương ứng (Danh / Tính / Trạng) mới được kích hoạt.</p>
-
 			
+			<p className="margin-top-20">Khi chưa đặt vào câu, bạn chỉ biết đó là hình thái Động Cơ [Verb Base], Động Cụm [Verb Phrase], hay Động Câu [Verb Clause]. Chỉ khi nó "neo" vào một vị trí cụ thể, chức năng tương ứng Danh, Tính, hoặc Trạng mới được kích hoạt.</p>
+
+
 
 			{/* 3.  */}
 
-			<h3 className="margin-y-50 text-center">3. Ma Trận Đối Xứng Song Ngữ Bản Chất</h3>
+			<h3 className="margin-y-50 text-center">3. Quy Trình Vận Hành Và Ký Hiệu Đóng Gói Sơ Đồ</h3>
 
-			<p>Dưới đây là sơ đồ chi tiết tích hợp thuật ngữ quốc tế, giúp người học đối chiếu trực quan bản chất cấu trúc:</p>
-
-
-			<h4 className="margin-y-40">Khối chức năng DANH [Noun]</h4>
+			<p>Để bóc tách các tầng hình thái lồng ghép vào nhau như những chiếc hộp gỗ, người học áp dụng quy ước đóng gói hình khối bằng dấu vuông [] bao quanh:</p>
 
 
-			<p className="margin-top-20 text-indent-whole">Danh Cơ [<strong>Noun Base</strong>]: Một từ đơn lẻ dùng để gọi tên đối tượng.</p>
+			<h4 className="margin-y-40">1. Hình thái Động Cơ [Verb Base]</h4>
+
+			<p className="text-indent-whole">Đơn vị hành động nhỏ nhất gồm 1 từ.</p>
 			
 				<ul className="list-square">
 			
-					<li>[Success] is important.</li>
-					<li className="margin-bottom-20 list-none">[Thành công] thì quan trọng.</li>
-
-					<li className="list-none">→ [Success] là Danh Cơ [<strong>Noun Base</strong>].</li>
-			
-				</ul>
-
-
-			<p className="margin-top-20 text-indent-whole">Danh Cụm [<strong>Noun Phrase</strong>]: Một khối cụm từ làm chức năng của danh cơ, không chứa hệ trục S + V.</p>
-			
-				<ul className="list-square">
-			
-					<li>[The key to success] is hard work.</li>
-					<li className="margin-bottom-20 list-none">[Chìa khóa dẫn đến thành công] là sự chăm chỉ.</li>
-
-					<li className="list-none">Động Cụm [<strong>Verb Phrase</strong>] → [The key to success] là Danh Cụm [<strong>Noun Phrase</strong>].</li>
-			
-				</ul>
-
-			<p className="margin-top-20 text-indent-whole">Danh Câu [<strong>Noun Clause</strong>]: Một Câu con làm chức năng của danh cơ, có chứa đầy đủ hệ trục S + V.</p>
-			
-				<ul className="list-square">
-			
-					<li>[What he said] surprised everyone.</li>
-					<li className="margin-bottom-20 list-none">[Điều mà anh ấy đã nói] làm mọi người ngạc nhiên.</li>
-
-					<li className="list-none">→ [What he said] là Danh Câu [<strong>Noun Clause</strong>] vì chứa hệ trục S + V.</li>
-			
-				</ul>
-
-
-			<h4 className="margin-y-40">Khối chức năng TÍNH [Adjective]</h4>
-
-
-			<p className="margin-top-20 text-indent-whole">Tính Cơ [<strong>Adjective Base</strong>]: Một từ đơn lẻ dùng để mô tả đặc điểm, tính chất.</p>
-			
-				<ul className="list-square">
-			
-					<li>She bought a [beautiful] dress.</li>
-					<li className="margin-bottom-20 list-none">Cô ấy đã mua một chiếc váy [đẹp].</li>
-
-					<li className="list-none">→ [Beautiful] là Tính Cơ [<strong>Adjective Base</strong>].</li>
-			
-				</ul>
-
-
-			<p className="margin-top-20 text-indent-whole">Tính Cụm [<strong>Adjective Phrase</strong>]: Một khối cụm từ làm chức năng của tính cơ, không chứa hệ trục S + V.</p>
-					
-				<ul className="list-square">
-			
-					<li>She bought a dress [very beautiful and expensive].</li>
-					<li className="margin-bottom-20 list-none">Cô ấy đã mua một chiếc váy [rất đẹp và đắt tiền].</li>
-
-					<li className="list-none">→ [Very beautiful and expensive] là Tính Cụm [<strong>Adjective Phrase</strong>].</li>
-			
-				</ul>
-
-
-			<p className="margin-top-20 text-indent-whole">Tính Câu [<strong>Adjective Clause</strong>]: Một Câu con làm chức năng của tính cơ để bổ nghĩa cho một danh cơ, có chứa đầy đủ hệ trục S + V.</p>
-					
-				<ul className="list-square">
-			
-					<li>She bought a dress [which everyone liked].</li>
-					<li className="margin-bottom-20 list-none">Cô ấy đã mua một chiếc váy [mà ai cũng thích].</li>
-
-					<li className="list-none">→ [Which everyone liked] là Tính Câu [<strong>Adjective Clause</strong>] vì chứa hệ trục S + V.</li>
-			
-				</ul>
-			
-
-
-			<h4 className="margin-y-40">Khối chức năng TRẠNG [Adverb]</h4>
-
-
-			<p className="margin-top-20 text-indent-whole">Trạng Cơ [<strong>Adverb Base</strong>]: Một từ đơn lẻ chỉ cách thức, thời gian, nơi chốn.</p>
-			
-				<ul className="list-square">
-			
-					<li>We arrived [early].</li>
-					<li className="margin-bottom-20 list-none">Chúng tôi đã đến [sớm].</li>
-
-					<li className="list-none">→ [Early] là Trạng Cơ [<strong>Adverb Base</strong>].</li>
-			
-				</ul>
-
-
-			<p className="margin-top-20 text-indent-whole">Trạng Cụm [<strong>Adverb Phrase</strong>]: Một khối cụm từ làm chức năng của trạng cơ, không chứa hệ trục S + V.</p>
-			
-				<ul className="list-square">
-			
-					<li>We arrived [in the morning].</li>
-					<li className="margin-bottom-20 list-none">Chúng tôi đã đến [vào buổi sáng].</li>
-
-					<li className="list-none">→ [In the morning] là Trạng Cụm [<strong>Adverb Phrase</strong>].</li>
-			
-				</ul>
-			
-
-			<p className="margin-top-20 text-indent-whole">Trạng Câu [<strong>Adverb Clause</strong>]: Một Câu con làm chức năng của trạng cơ, có chứa đầy đủ hệ trục S + V.</p>
-			
-				<ul className="list-square">
-			
-					<li>We arrived [before the sun rose].</li>
-					<li className="margin-bottom-20 list-none">Chúng tôi đã đến [trước khi mặt trời mọc].</li>
-
-					<li className="list-none">→ [Before the sun rose] là Trạng Câu [<strong>Adverb Clause</strong>] vì chứa hệ trục S + V.</li>
-			
-				</ul>
-
-
-			{/* 4. */}
-
-			<h3 className="margin-y-50 text-center">4. Quy Trình Vận Hành Và Ký Hiệu Đóng Gói Sơ Đồ</h3>
-
-			<p>Để bóc tách các tầng hình thái lồng ghép vào nhau như những chiếc hộp gỗ, người học áp dụng quy ước đóng gói hình khối:</p>
-
-
-			<h4 className="margin-y-40">1. Hình thái ĐỘNG CƠ (Verb Base)</h4>
-					
-			<p className="text-indent-whole">Đơn vị hành động nhỏ nhất (1 từ).</p>
-
-			<p className="text-indent-whole"><strong>Ký hiệu quy ước</strong>: Sử dụng dấu vuông [] bao quanh.</p>
-
-
-			<p className="margin-top-20 text-indent-whole"><strong>Chức năng Danh Cơ</strong> [<strong>Noun Base</strong>]</p>
-
-				<ul className="list-square">
-
 					<li>[Swimming] reduces stress.</li>
 					<li className="margin-bottom-20 list-none">[Việc bơi lội] làm giảm căng thẳng.</li>
-					<li className="list-none">→ Hành động bơi lội làm chủ thể</li>
+			
+					<li className="list-none">Hình thái: [Swimming] - Động Cơ [Verb Base] đóng vai trò hạt nhân hành động đơn lẻ gồm 1 từ.</li>
+			
+					<li className="margin-bottom-20 list-none">Chức năng: [Swimming] - Danh Cơ [Noun Base] đứng ở đầu câu tạo nên chủ thể cho toàn câu.</li>
 			
 				</ul>
-
-			<p className="margin-top-20 text-indent-whole"><strong>Chức năng Tính Cơ</strong> [<strong>Adjective Base</strong>]</p>
-
+			
+			
 				<ul className="list-square">
-
+			
 					<li>I can hear the [exciting] music.</li>
 					<li className="margin-bottom-20 list-none">Tôi có thể nghe thấy tiếng nhạc [sôi động].</li>
-					<li className="list-none">→ Hành động mang tính chất náo nhiệt bổ nghĩa cho music</li>
+			
+					<li className="list-none">Hình thái: [exciting] - Động Cơ [Verb Base] thể hiện hạt nhân hành động đơn lẻ gồm 1 từ.</li>
+			
+					<li className="margin-bottom-20 list-none">Chức năng: [exciting] - Tính Cơ [Adjective Base] đứng trước danh cơ music nhằm mô tả đặc điểm náo nhiệt của nó.</li>
 			
 				</ul>
-
-			<p className="margin-top-20 text-indent-whole"><strong>Chức năng Trạng Cơ</strong> [<strong>Adverb Base</strong>] - Quy ước: Hình thành từ gốc động cơ + đuôi ly</p>
-
+			
+			
 				<ul className="list-square">
 			
 					<li>He answered [pointedly].</li>
 					<li className="margin-bottom-20 list-none">Anh ấy đã trả lời [một cách sắc bén].</li>
-					<li className="list-none">→ Hành động nói theo cách thức nhắm thẳng vào trọng tâm</li>
+			
+					<li className="list-none">Hình thái: [pointedly] - Động Cơ [Verb Base] đại diện hạt nhân hành động đơn lẻ hình thành từ gốc động cơ kết hợp thêm đuôi ly.</li>
+			
+					<li className="list-none">Chức năng: [pointedly] - Trạng Cơ [Adverb Base] đứng sau hành động nhằm chỉ ra cách thức thực hiện.</li>
 			
 				</ul>
+			
 
 
-			<h4 className="margin-y-40">2. Hình thái ĐỘNG CỤM (Verb Phrase)</h4>
+			<h4 className="margin-y-40">2. Hình thái Động Cụm [Verb Phrase]</h4>
 
-			<p className="text-indent-whole">Đơn vị hành động chứa nhiều từ kết hợp.</p>
-
-			<p className="text-indent-whole"><strong>Ký hiệu quy ước</strong>: Sử dụng dấu vuông [] cho tầng ngoài và dấu ngoặc nhọn {'{}'} cho <strong>tầng lồng</strong> bên trong.</p>
-
-
-			<p className="margin-top-20 text-indent-whole"><strong>Chức năng Danh Cụm</strong> [<strong>Noun Phrase</strong>]</p>
-
+			<p className="text-indent-whole">Đơn vị hành động chứa nhiều từ kết hợp, không tạo thành một câu độc lập.</p>
+			
 				<ul className="list-square">
-
+			
 					<li>We decided [to explore the cave].</li>
 					<li className="margin-bottom-20 list-none">Chúng tôi đã quyết định [khám phá hang động].</li>
-					<li className="list-none">→ Cả cụm là một đầu việc được thực thi</li>
+			
+					<li className="list-none">Hình thái: [to explore the cave] - Động Cụm [Verb Phrase] cấu thành khối hành động chứa nhiều từ kết hợp và không chứa hệ trục S + V.</li>
+			
+					<li className="margin-bottom-20 list-none">Chức năng: [to explore the cave] - Danh Cụm [Noun Phrase] đứng sau động cơ chính đón nhận hành động như một đầu việc cần thực thi.</li>
 			
 				</ul>
-
-			<p className="margin-top-20 text-indent-whole"><strong>Chức năng Tính Cụm</strong> [<strong>Adjective Phrase</strong>]</p>
-
+			
+			
 				<ul className="list-square">
-
+			
 					<li>The birds [flying in the sky] are beautiful.</li>
 					<li className="margin-bottom-20 list-none">Những con chim [đang bay trên trời] thật đẹp.</li>
-					<li className="list-none">→ Cụm mô tả trạng thái của đối tượng chim</li>
+			
+					<li className="list-none">Hình thái: [flying in the sky] - Động Cụm [Verb Phrase] biểu thị khối hành động chứa nhiều từ kết hợp và không chứa hệ trục S + V.</li>
+			
+					<li className="margin-bottom-20 list-none">Chức năng: [flying in the sky] - Tính Cụm [Adjective Phrase] đứng ngay sau đối tượng những con chim nhằm mô tả trạng thái của chúng.</li>
 			
 				</ul>
-
-			<p className="margin-top-20 text-indent-whole"><strong>Chức năng Trạng Cụm</strong> [<strong>Adverb Phrase</strong>]</p>
-					
+			
+			
 				<ul className="list-square">
 			
 					<li>She practices daily [to win the race].</li>
 					<li className="margin-bottom-20 list-none">Cô ấy luyện tập hàng ngày [để thắng cuộc đua].</li>
-					<li className="list-none">→ Cụm mô tả mục đích cho hành động luyện tập</li>
+			
+					<li className="list-none">Hình thái: [to win the race] - Động Cụm [Verb Phrase] xác định khối hành động chứa nhiều từ kết hợp và không chứa hệ trục S + V.</li>
+			
+					<li className="list-none">Chức năng: [to win the race] - Trạng Cụm [Adverb Phrase] gắn vào phía sau nhằm làm rõ mục đích cho phần thông tin trước đó.</li>
 			
 				</ul>
 			
-
-			<h4 className="margin-y-40">3. Hình thái ĐỘNG CÂU (Verb Clause)</h4>
-
-			<p className="text-indent-whole">Đơn vị hành động phức cao cấp, chứa một cấu trúc Câu con hoàn chỉnh ở bên trong.</p>
-
-			<p className="text-indent-whole"><strong>Ký hiệu quy ước</strong>: Dấu [] xác định ranh giới bao quanh toàn bộ hệ thống Câu con này.</p>
+			
 
 
-			<p className="margin-top-20 text-indent-whole"><strong>Chức năng Danh Câu</strong> [<strong>Noun Clause</strong>]</p>
+			<h4 className="margin-y-40">3. Hình thái Động Câu [Verb Clause]</h4>
 
+			<p className="text-indent-whole">Đơn vị hành động phức cao cấp, chứa một cấu trúc Câu con hoàn chỉnh ở bên trong có chứa hệ trục S + V.</p>
+			
 				<ul className="list-square">
-
+			
 					<li>They believe [that price dictates quality].</li>
-					<li className="margin-bottom-20 list-none">Họ tin [rằng giá cả quyết định chất lượng].</li>
-					<li className="list-none">→ Cấu trúc câu con làm đối tượng được tin tưởng</li>
+					<li className="margin-bottom-20 list-none">Họ tin rằng [giá cả quyết định chất lượng].</li>
+			
+					<li className="list-none">Hình thái: [that price dictates quality] - Động Câu [Verb Clause] tạo nên khối hành động phức có chứa hệ trục S + V biểu thị thời hiện tại.</li>
+			
+					<li className="list-none">Chức năng: [that price dictates quality] - Danh Câu [Noun Clause] đảm nhận nhiệm vụ của một khối đối tượng đứng sau bổ nghĩa thông tin cho niềm tin.</li>
+
+					<li className="list-none"><strong>Hình ảnh ẩn dụ định hình tư duy</strong>:</li>
+
+					<li className="margin-bottom-20 list-none">"Danh Câu thực chất là một cái Câu con được thuê về để làm vệ sĩ chức năng cho một danh cơ trong Câu lớn".</li>
+
 			
 				</ul>
+
+
 			
-
-			<p className="margin-top-20 text-indent-whole"><strong>Chức năng Tính Câu</strong> [<strong>Adjective Clause</strong>]</p>
-
 				<ul className="list-square">
-
+			
 					<li>The house [which we rented last month] is small.</li>
 					<li className="margin-bottom-20 list-none">Ngôi nhà [mà chúng tôi thuê tháng trước] thì nhỏ.</li>
-					<li className="list-none">→ Cấu trúc câu con định danh cho ngôi nhà</li>
+			
+					<li className="list-none">Hình thái: [which we rented last month] - Động Câu [Verb Clause] định hình khối hành động phức có chứa hệ trục S + V biểu thị thời quá khứ.</li>
+			
+					<li className="margin-bottom-20 list-none">Chức năng: [which we rented last month] - Tính Câu [Adjective Clause] thực hiện nhiệm vụ đứng sau định danh và mô tả đặc điểm riêng cho danh cơ ngôi nhà.</li>
 			
 				</ul>
-
-
-			<p className="margin-top-20 text-indent-whole"><strong>Chức năng Trạng Câu</strong> [<strong>Adverb Clause</strong>]</p>
+		
 			
 				<ul className="list-square">
 			
 					<li>She stayed home [because it rained heavily].</li>
 					<li className="margin-bottom-20 list-none">Cô ấy ở nhà [vì trời mưa to].</li>
-					<li className="list-none">→ Cấu trúc câu con mô tả nguyên nhân của hành động ở nhà</li>
 			
-				</ul>
-
-
-			{/* 5. */}
-
-			<h3 className="margin-y-50 text-center">5. Nguyên Tắc Phân Tầng Bằng "Điểm Neo"</h3>
-
-			<p>Khi xử lý các cấu trúc dài phức tạp, người học tuân thủ 3 nguyên tắc cốt lõi:</p>
+					<li className="list-none">Hình thái: [because it rained heavily] - Động Câu [Verb Clause] thể hiện khối hành động phức có chứa hệ trục S + V biểu thị thời quá khứ.</li>
 			
-				<ul className="list-square">
-			
-					<li><strong>Dấu móc trực quan</strong>:</li>
-					<li className="margin-bottom-20 list-none">Sử dụng [] cho lớp bao ngoài và {'{}'} cho <strong>lớp lồng bên trong</strong> để bóc tách các tầng hệ thống.</li>
-			
-					<li><strong>Dữ liệu nội bộ</strong>:</li>
-					<li className="margin-bottom-20 list-none">Các yếu tố đuôi biến đổi cấu hình như -<strong>s</strong>/-<strong>es</strong>, -<strong>ed</strong>, -<strong>ing</strong> nằm bên trong dấu móc là cấu hình của Động cơ, không làm thay đổi bản chất hình thái hay chức năng.</li>
-			
-					<li><strong>Tính tách biệt</strong>:</li>
-					<li className="list-none">Động cơ chính điều phối toàn bộ Câu lớn luôn nằm ngoài các khối Module phụ trợ nếu nó đóng vai trò là điểm điều phối.</li>
+					<li className="list-none">Chức năng: [because it rained heavily] - Trạng Câu [Adverb Clause] chịu trách nhiệm cung cấp hoàn cảnh nguyên nhân cho toàn bộ hành động ở nhà.</li>
 			
 				</ul>
 			
+			
 
-			<p className="margin-top-20">Ví dụ thực tế về <strong>cấu trúc phân tầng</strong> (Bao gồm cả động cơ chính):</p>
+
+			<h4 className="margin-y-40">4. Nguyên Tắc Phân Tầng Bằng "Điểm Neo"</h4>
+			
+
+			<p className="text-indent-whole">Khi xử lý các cấu trúc phức tạp chứa nhiều tầng lồng ghép, người học áp dụng quy ước: Dấu [] cho lớp bao ngoài và dấu ngoặc nhọn {} cho lớp lồng bên trong. Các yếu tố đuôi biến đổi cấu hình như -s/-es, -ed, -ing nằm bên trong dấu móc tạo nên biến thể thời của Động Cơ [Verb Base], không làm thay đổi bản chất hình thái hay chức năng.</p>
+			
+
+			<p className="margin-top-20 text-indent-whole">Ví dụ thực tế về <strong>cấu trúc phân tầng</strong> (Bao gồm cả động cơ chính):</p>
 
 				<ul className="list-square">
 			
 					<li>He [learns {'{what you teach him}'}].</li>
 					<li className="margin-bottom-20 list-none">Anh ấy [học {'{những gì bạn dạy anh ấy}'}].</li>
+
+					<li className="list-none">Hình thái lớp trong: {'{what you teach him}'} - Động Câu [Verb Clause] chứa hệ trục S + V điều hành theo thời hiện tại.</li>
+
+					<li className="list-none">Chức năng lớp trong: {'{what you teach him}'} - Danh Câu [Noun Clause] đứng sau đón nhận tác động từ hành động học.</li>
+
+					<li className="list-none">Hình thái tổng thể: [learns {'{what you teach him}'}] - Động Cụm [Verb Phrase] cấu thành khối hành động lớn chứa động cơ chính học phối hợp cùng phần module phụ thuộc phía sau để thực thi toàn bộ phần hành động bổ trợ thông tin cho chủ thể He.</li>
+
+					<li className="list-none">Chức năng tổng thể: [learns {'{what you teach him}'}] - Danh Cụm [Noun Phrase] nắm giữ toàn bộ trục thông tin hành động của Câu lớn.</li>
 			
 				</ul>
+			
+		
 
-			<p className="margin-top-20 text-indent-whole">Bóc tách tư duy hình khối:</p>
+			<h4 className="margin-y-40">5. Paraphrasing: Nghệ Thuật Thay Khối Cùng Chức Năng</h4>
+
+			<p className="text-indent-whole">Khi tư duy hình khối Cơ - Cụm - Câu đã trở thành bản năng, kỹ thuật viết lại câu [paraphrasing] không còn là việc đổi từ đồng nghĩa một cách may rủi hay xáo trộn trật tự một cách khiên cưỡng. Việc làm mới câu văn giờ đây thực chất là một bài toán hình học sắp xếp module: Thay đổi Cấp Độ cấu trúc nhưng giữ nguyên vẹn Chức Năng ở cùng một vị trí neo.</p>
+
+			<p className="text-indent-whole">Chỉ cần xác định vị trí đó đang đảm nhận chức năng gì (Danh, Tính, hay Trạng), người học có toàn quyền nhấc một khối Cơ ra và đặt một khối Cụm hoặc một khối Câu vào để thế chỗ. Cấu trúc tổng thể của Câu lớn hoàn toàn không bị phá vỡ hay xáo trộn.</p>
+
+			<p className="text-indent-whole">Hãy xem cách chúng ta biến đổi linh hoạt một thông điệp thông qua việc hoán đổi các khối cấu trúc cùng giữ <strong>Chức năng Trạng</strong>:</p>
+
+			<p className="margin-top-20 text-indent-whole"><strong>Cấp độ Cơ</strong>:</p>
 			
 				<ul className="list-square">
 			
-					<li value="1">{'{what you teach him}'}</li>
-					<li className="list-none">Người học nhìn thấy cấu trúc chứa hệ trục S+V (you + teach)</li>
-					<li className="list-none">Nhận diện ngay hình thái Động Câu [<strong>Verb Clause</strong>].</li>
-					<li className="margin-bottom-20 list-none">→ Vì nó đứng sau làm đối tượng chịu tác động của hành động "learns", nên nó kích hoạt Chức năng: Danh Câu [<strong>Noun Clause</strong>].</li>
+					<li>We arrived [early].</li>
+					<li className="margin-bottom-20 list-none">Chúng tôi đã đến [sớm].</li>
 			
-					<li value="2">[learns {'{what you teach him}'}] </li>
-					<li className="list-none">Là một khối Động Cụm [<strong>Verb Phrase</strong>] lớn bao trọn lấy động cơ chính "learns" phối hợp cùng phần module phụ thuộc phía sau.</li>
-					<li className="list-none">Khối này nằm ngay sau chủ thể "He" để thực thi toàn bộ phần vị ngữ</li>
-					<li className="list-none">→ Do đó nó đóng vai trò kích hoạt Chức năng: Danh Cụm [<strong>Noun Phrase</strong>] cho toàn bộ phần hành động của Câu lớn.</li>
+					<li className="list-none">→ Sử dụng Trạng Cơ [Adverb Base] là [early].</li>
 			
 				</ul>
-
-
-			<p className="margin-top-20"><strong>Bảng Tổng Kết Hệ Thống Nhất Quán 2 Chiều</strong></p>
-
-			<p className="margin-top-20 text-indent-whole"><strong>Hình thái</strong> (Chiều Dọc):</p>
+			
+			
+			<p className="margin-top-20 text-indent-whole"><strong>Cấp độ Cụm</strong>:</p>
 			
 				<ul className="list-square">
 			
-					<li>Động Cơ [<strong>Verb Base</strong>]</li>
-					<li className="list-none">Ký hiệu: [Từ]</li>
-					<li className="list-none">Cấp độ: [<strong>Base</strong>] Cơ bản</li>
-					<li className="list-none">Chức năng kích hoạt - Chiều Ngang:</li>
-					<li className="margin-bottom-20 list-none">Danh Cơ [<strong>Noun Base</strong>] / Tính Cơ [<strong>Adjective Base</strong>] / Trạng Cơ [<strong>Adverb Base</strong>]</li>
-					
+					<li>We arrived [in the morning].</li>
+					<li className="margin-bottom-20 list-none">Chúng tôi đã đến [vào buổi sáng].</li>
 			
-					<li>Động Cụm [<strong>Verb Phrase</strong>]</li>
-					<li className="list-none">Ký hiệu: [Cụm từ]</li>
-					<li className="list-none">Cấp độ: [<strong>Phrase</strong>] Cụm</li>
-					<li className="list-none">Chức năng kích hoạt - Chiều Ngang:</li>
-					<li className="margin-bottom-20 list-none">Danh Cụm [<strong>Noun Phrase</strong>] / Tính Cụm [<strong>Adjective Phrase</strong>] / Trạng Cụm [<strong>Adverb Phrase</strong>]</li>
-					
-			
-					<li>Động Câu [<strong>Verb Clause</strong>]</li>
-					<li className="list-none">Ký hiệu: [Hệ S+V]</li>
-					<li className="list-none">Cấp độ: [<strong>Clause</strong>] Câu</li>
-					<li className="list-none">Chức năng kích hoạt - Chiều Ngang:</li>
-					<li className="list-none">Danh Câu [<strong>Noun Clause</strong>] / Tính Câu [<strong>Adjective Clause</strong>] / Trạng Câu [<strong>Adverb Clause</strong>]</li>
-					
+					<li className="list-none">→ Nhấc khối Cơ ra, đặt khối Động Cụm [Verb Phrase] giữ chức năng Trạng Cụm [Adverb Phrase] vào thế chỗ.</li>
 			
 				</ul>
 			
 			
-			<p className="margin-top-20">Hệ thống <strong>Cơ</strong> - <strong>Cụm</strong> - <strong>Câu</strong> phối hợp cùng ma trận <strong>Danh</strong> - <strong>Tính</strong> - <strong>Trạng</strong> chính là chiếc chìa khóa vạn năng.</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Cấp độ Câu</strong>:</p>
+			
+				<ul className="list-square">
+			
+					<li>We arrived [before the sun rose].</li>
+					<li className="margin-bottom-20 list-none">Chúng tôi đã đến [trước khi mặt trời mọc].</li>
+			
+					<li className="list-none">→ Tiếp tục thay thế bằng một khối Động Câu [Verb Clause] giữ chức năng Trạng Câu [Adverb Clause] có chứa hệ trục S + V vận hành ở thời quá khứ.</li>
+			
+				</ul>
+			
 
-			<p>Nó giúp người học thoát khỏi mớ bòng bong lý thuyết bủa vây, quét cấu trúc với tốc độ ánh sáng để đạt đến đỉnh cao phản xạ tự nhiên:</p>
+			<p className="margin-top-20">Tương tự với việc thay khối cùng giữ <strong>Chức năng Danh</strong> làm chủ thể chính:</p>
 
-			<p><strong>Nhìn hình thái</strong> → <strong>Định vị trí</strong> → <strong>Hiểu bản chất</strong>!</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Cấp độ Cơ</strong>:</p>
+			
+				<ul className="list-square">
+			
+					<li>[Money] is what we need.</li>
+					<li className="margin-bottom-20 list-none">[Tiền bạc] tạo nên thứ chúng tôi cần.</li>
+			
+					<li className="list-none">→ Khối Danh Cơ [Noun Base].</li>
+			
+				</ul>
+			
+			
+			<p className="margin-top-20 text-indent-whole"><strong>Cấp độ Cụm</strong>:</p>
+			
+				<ul className="list-square">
+			
+					<li>[Earning money] is what we need.</li>
+					<li className="margin-bottom-20 list-none">[Việc kiếm tiền] tạo nên thứ chúng tôi cần.</li>
+			
+					<li className="list-none">→ Thay thế bằng khối Động Cụm [Verb Phrase] làm chức năng Danh Cụm [Noun Phrase].</li>
+			
+				</ul>
+			
+			
+			<p className="margin-top-20 text-indent-whole"><strong>Cấp độ Câu</strong>:</p>
+			
+				<ul className="list-square">
+			
+					<li>[What we need] is money.</li>
+					<li className="margin-bottom-20 list-none">[Những gì chúng tôi cần] tạo nên tiền bạc.</li>
+			
+					<li className="list-none">→ Nâng cấp lên khối Động Câu [Verb Clause] làm chức năng Danh Câu [Noun Clause].</li>
+			
+				</ul>
+			
+			
+			
+			<p className="margin-top-20">Kỹ thuật dịch chuyển khối cùng chức năng này mang lại sự chủ động tuyệt đối khi viết. Thay vì ghi nhớ các công thức biến đổi máy móc, bạn chỉ cần nhìn câu văn dưới dạng các hộp hình khối độc lập và tự do nâng cấp từ Cơ lên Cụm, hoặc chuyển đổi mượt mà từ Cụm sang Câu theo ý muốn.</p>
+
+			<p>Hệ thống Cơ - Cụm - Câu phối hợp cùng ma trận Danh - Tính - Trạng chính là chiếc chìa khóa vạn năng giúp quét cấu trúc câu với tốc độ ánh sáng để đạt đến phản xạ tự nhiên:</p>
+
+			<p>Nhìn hình thái → Định vị trí → Hiểu bản chất!</p>
 
 			<div className="viewcounter">
 			
