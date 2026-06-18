@@ -52,23 +52,25 @@ export default function AdjPlacement1(): React.JSX.Element {
 
 			<p>Có một lối mòn tư duy đang âm thầm kìm hãm thế hệ người học tiếng Anh tại Việt Nam:</p>
 
-			<p className="margin-y-30">Định kiến cho rằng cấu trúc tiếng Anh hoàn toàn ngược ngạo với tiếng Việt..</p>
+
+			<p className="margin-y-30">Định kiến cho rằng cấu trúc tiếng Anh hoàn toàn ngược ngạo với tiếng Việt.</p>
+
 
 			<p>Ngay từ những ngày đầu chạm ngõ ngôn ngữ này, chúng ta đã bị đóng băng tư duy ở một quy luật sơ cấp:</p>
 
 
-			<p className="margin-y-30"><strong>Tính Cơ</strong> phải đứng trước <strong>Danh Cơ</strong> (như a <strong>beautiful</strong> house).</p>
+			<p className="margin-y-30">Tính Cơ phải đứng trước Danh Cơ (như a <strong>beautiful</strong> house).</p>
 
 
 			<p>Vì mô hình này đi ngược lại với tư duy tiếng mẹ đẻ, bộ não người học luôn phải mất một nhịp khựng lại để đảo từ. Hệ quả là chúng ta tự dán nhãn tiếng Anh là một thứ ngôn ngữ rắc rối, phức tạp và xa lạ.</p>
 			
-			<p>Nhưng trong thế giới của văn viết cao cấp, các bài luận nghị luận hay những cấu trúc câu phức của người bản ngữ, một sự thật hoàn toàn trái ngược lại diễn ra. Họ ưu tiên sử dụng một trật tự có tỷ lệ áp đảo:</p>
+			<p>Nhưng trong thế giới của văn viết cao cấp, các bài luận nghị luận hay những cấu trúc câu phức của người bản ngữ, một sự thật hoàn toàn trái ngược lại diễn ra. Họ ưu tiên sử dụng một trật tự có tỷ lệ áp đảo</p>
 
 
-			<p className="margin-y-30"><strong>Danh Cơ</strong> đứng trước, <strong>thành phần mô tả</strong> đứng sau.</p>
+			<p className="margin-y-30"><strong>Danh Cơ đứng trước</strong>, <strong>thành phần mô tả đứng sau</strong>.</p>
 
 
-			<p>Đây không phải là một sự nguyên nhân ngẫu nhiên, mà chính là điểm mạnh tương đồng cốt lõi giữa tiếng Anh và tiếng Việt. Nhận ra điều này chính là chìa khóa giúp người Việt sở hữu tư duy ngôn ngữ đẳng cấp, vượt trội hơn hẳn phần còn lại của khu vực.</p>
+			<p>Đây không phải là một sự nguyên nhân ngẫu nhiên, mà chính là <strong>điểm mạnh tương đồng</strong> cốt lõi giữa tiếng Anh và tiếng Việt. Nhận ra điều này chính là chìa khóa giúp người Việt sở hữu tư duy ngôn ngữ đẳng cấp, vượt trội hơn hẳn phần còn lại của khu vực.</p>
 			
 
 			{/* 1.  */}
@@ -96,11 +98,19 @@ export default function AdjPlacement1(): React.JSX.Element {
 			<h3 className="margin-y-50 text-center">2. Bản Đồ Hệ Thống: Ma Trận 2 Chiều Giữa Hình Thái Và Chức Năng</h3>
 
 			<p className="margin-top-20">Để làm chủ tiếng Anh một cách bản chất nhất, bộ não người học cần phân định rõ hai yếu tố:</p>
-
-			<p className="margin-y-30"><strong>Hình thái</strong> (Cái ta nhìn thấy trực diện) và <strong>Chức năng</strong> (Nhiệm vụ nó đảm nhận dựa vào vị trí đứng trong câu).</p>
-
-			<p>Bản chất của mọi cấu trúc trong tiếng Anh đều xuất phát từ hình thái của hành động:</p>
-
+			
+				<ol>
+			
+					<li value="1"><strong>Hình thái</strong></li>
+					<li className="margin-bottom-20 list-none">Cái ta nhìn thấy trực diện</li>
+			
+					<li value="2"><strong>Chức năng</strong></li>
+					<li className="margin-bottom-20 list-none">Nhiệm vụ nó đảm nhận dựa vào vị trí đứng trong câu.</li>
+			
+				</ol>
+			
+			
+			<p className="margin-top-20">Bản chất của mọi cấu trúc trong tiếng Anh đều xuất phát từ hình thái của hành động:</p>
 
 			<p className="margin-y-30"><strong>Động Cơ</strong> [<strong>Verb Base</strong>] -{'>'} <strong>Động Cụm</strong> [<strong>Verb Phrase</strong>] -{'>'} <strong>Động Câu</strong> [<strong>Verb Clause</strong>].</p>
 
@@ -111,10 +121,10 @@ export default function AdjPlacement1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li><strong>3 Chức năng</strong> — Chiều ngang:</li>
+					<li><strong>Chiều ngang</strong> — <strong>3 Chức năng</strong>:</li>
 					<li className="margin-bottom-20 list-none">Danh / Tính / Trạng</li>
 			
-					<li><strong>3 Cấp độ</strong> — Chiều dọc:</li>
+					<li><strong>Chiều dọc</strong> — <strong>3 Cấp độ</strong>:</li>
 					<li className="list-none">Cơ [Base] -{'>'} Cụm [Phrase] -{'>'} Câu [Clause]</li>
 			
 				</ul>
@@ -164,7 +174,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 
 			<h4 className="margin-y-40">Cấp độ 2: Hình thái Động Cụm [Verb Phrase]</h4>
 
-			<p className="text-indent-whole">Khối cụm chứa nhiều từ đi liền nhau để thực thi hành động, chưa tích hợp bộ tạo hành động riêng biệt bên trong</p>
+			<p className="text-indent-whole">Khối cụm chứa nhiều từ đi liền nhau để thực thi hành động, chưa tích hợp bộ tạo hành động riêng biệt bên trong.</p>
 
 			<p className="text-indent-whole">Từ đây, nó sẽ hình thành nên 3 chức năng:</p>
 
@@ -176,7 +186,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 
 					<li className="list-none">Hình thái: [plan your future] - Động Cụm [Verb Phrase] biểu thị một nhóm nhiều từ kết hợp xung quanh hành động gốc plan.</li>
 
-					<li className="margin-bottom-20 list-none">Chức năng: [plan your future] - Danh Cụm [Noun Phrase] gánh vác vai trò một đầu việc cụ thể cần thực hiện đứng sau bổ nghĩa cho từ khiếm khuyết should.</li>
+					<li className="margin-bottom-20 list-none">Chức năng: [plan your future] - Danh Cụm [Noun Phrase] gánh vác vai trò một đầu việc cụ thể cần thực hiện đứng sau bổ nghĩa cho Thời Động Cơ [Time-based Verb Base] should.</li>
 					
 			
 				</ul>
@@ -189,7 +199,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 
 					<li className="list-none">Hình thái: [singing beautifully] - Động Cụm [Verb Phrase] cấu thành từ hành động singing đi kèm từ mô tả beautifully.</li>
 
-					<li className="margin-bottom-20 list-none">Chức năng: [singing beautifully] - Tính Cụm [Adjective Phrase] định vị sau hệ hành động to be nhằm mô tả trạng thái hành động của đối tượng cô gái.</li>
+					<li className="margin-bottom-20 list-none">Chức năng: [singing beautifully] - Tính Cụm [Adjective Phrase] định vị sau Thời Động Cơ [Time-based Verb Base] is nhằm mô tả trạng thái hành động của đối tượng cô gái.</li>
 			
 				</ul>
 			
@@ -220,7 +230,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 					<li>I believe [<strong>that he will succeed</strong>].</li>
 					<li className="margin-bottom-20 list-none">Tôi tin [<strong>rằng anh ấy sẽ thành công</strong>].</li>
 
-					<li className="list-none">Hình thái: [that he will succeed] - Động Câu [Verb Clause] thiết lập cấu trúc có đầy đủ đối tượng thực hiện he và hành động thời tương lai will succeed.</li>
+					<li className="list-none">Hình thái: [that he will succeed] - Động Câu [Verb Clause] thiết lập cấu trúc có đầy đủ đối tượng thực hiện he và hành động điều hành bởi Thời Động Cơ [Time-based Verb Base] will ở tương lai.</li>
 
 					<li className="margin-bottom-20 list-none">Chức năng: [that he will succeed] - Danh Câu [Noun Clause] đại diện cho một đối tượng, một sự việc được hướng tới sau hành động tin.</li>
 			
@@ -232,7 +242,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 					<li>The book [<strong>which is lying on the table</strong>] is mine.</li>
 					<li className="margin-bottom-20 list-none">Cuốn sách [<strong>mà đang nằm ở trên bàn</strong>] thuộc về tôi.</li>
 
-					<li className="list-none">Hình thái: [which is lying on the table] - Động Câu [Verb Clause] chứa thành phần kết nối đóng vai trò đối tượng thực hiện và hành động thời hiện tại tiếp diễn is lying cùng các thành phần phụ.</li>
+					<li className="list-none">Hình thái: [which is lying on the table] - Động Câu [Verb Clause] chứa thành phần kết nối đóng vai trò đối tượng thực hiện và hành động điều hành bởi Thời Động Cơ [Time-based Verb Base] is ở hiện tại cùng các thành phần phụ.</li>
 
 					<li className="margin-bottom-20 list-none">Chức năng: [which is lying on the table] - Tính Câu [Adjective Clause] đứng ngay sau Danh Cơ book nhằm định danh và làm rõ nghĩa cho cuốn sách đó.</li>
 			
@@ -243,7 +253,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 					<li>We will start <strong>when the sun rises</strong>].</li>
 					<li className="margin-bottom-20 list-none">Chúng tôi sẽ khởi hành [<strong>khi mặt trời mọc</strong>].</li>
 
-					<li className="list-none">Hình thái: [when the sun rises] - Động Câu [Verb Clause] biểu hiện một cấu trúc hành động phức hợp có đối tượng thực hiện sun và hành động thời hiện tại rises.</li>
+					<li className="list-none">Hình thái: [when the sun rises] - Động Câu [Verb Clause] biểu hiện một cấu trúc hành động phức hợp có đối tượng thực hiện sun và hành động được cấu hình theo thời hiện tại rises.</li>
 
 					<li className="list-none">Chức năng: [when the sun rises] - Trạng Câu [Adverb Clause] làm nhiệm vụ điều phối ngữ cảnh thời gian cho hành động khởi hành của khối chính.</li>
 			
@@ -270,9 +280,9 @@ export default function AdjPlacement1(): React.JSX.Element {
 					<li>He [remembers {'{what you told me}'}].</li>
 					<li className="margin-bottom-20 list-none">Anh ấy [nhớ {'{những gì bạn đã nói với tôi}'}].</li>
 
-					<li className="margin-bottom-20 list-none">{'{what you told me}'}: Động Câu [Verb Clause] - thực hiện chức năng làm <strong>Danh Câu</strong> [<strong>Noun Clause</strong>] (với hành động thời quá khứ told).</li>
+					<li className="margin-bottom-20 list-none">{'{what you told me}'}: Động Câu [Verb Clause] - thực hiện chức năng làm <strong>Danh Câu</strong> [<strong>Noun Clause</strong>] (với hành động ở thời quá khứ told).</li>
 
-					<li className="list-none">[remembers {'{what you told me}'}]: Động Cụm [Verb Phrase] - thực hiện chức năng làm <strong>Danh Cụm</strong> [<strong>Noun Phrase</strong>], chịu sự điều quyền trực tiếp từ Động Cơ [Verb Base] chính thời hiện tại remembers.</li>
+					<li className="list-none">[remembers {'{what you told me}'}]: Động Cụm [Verb Phrase] - thực hiện chức năng làm <strong>Danh Cụm</strong> [<strong>Noun Phrase</strong>], chịu sự điều quyền trực tiếp từ Động Cơ [Verb Base] chính ở thời hiện tại remembers.</li>
 			
 				</ul>
 
@@ -327,7 +337,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 
 			<h3 className="margin-y-50 text-center">4. Giải Mã Paraphrasing: Bài Toán "Thay Khối Cùng Chức Năng"</h3>
 
-			<p>Khi bộ não người học đã hình thành phản xạ tự nhiên: Nhìn thấy <strong>Hình thái</strong> trước rồi giải mã ra <strong>Chức năng</strong> dựa vào vị trí, việc viết lại câu (Paraphrasing) trở thành một bài toán hoán đổi khối có cùng Chức năng trên một khung trục cố định, không cần thay đổi cấu trúc tổng thể.</p>
+			<p>Khi bộ não người học đã hình thành phản xạ tự nhiên: <strong>Nhìn thấy Hình thái trước rồi giải mã ra Chức năng dựa vào vị trí</strong>, việc viết lại câu (Paraphrasing) trở thành một bài toán hoán đổi khối có cùng Chức năng trên một khung trục cố định, không cần thay đổi cấu trúc tổng thể.</p>
 
 			<p>Khi cấu trúc tổng thể được giữ nguyên làm mỏ neo, bạn chỉ cần hoán đổi một khối thuộc cấp độ này sang một khối thuộc cấp độ khác, miễn là chúng đảm nhận chung một nhiệm vụ hệ thống.</p>
 
@@ -386,7 +396,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 					<li>We delayed the match [<strong>because it rained heavily</strong>].</li>
 					<li className="margin-bottom-20 list-none">Chúng tôi đã hoãn trận đấu [<strong>vì trời đã mưa rất to</strong>].</li>
 			
-					<li className="list-none">Hình thái: [because it rained heavily] - Động Câu [Verb Clause] biểu hiện một cấu trúc hành động phức hợp có đối tượng thực hiện it và hành động thời quá khứ rained.</li>
+					<li className="list-none">Hình thái: [because it rained heavily] - Động Câu [Verb Clause] biểu hiện một cấu trúc hành động phức hợp có đối tượng thực hiện it và hành động được điều hành bởi Thời Động Cơ [Time-based Verb Base] ở quá khứ rained.</li>
 
 					<li className="list-none">Chức năng: [because it rained heavily] - Trạng Câu [Adverb Clause] làm nhiệm vụ điều phối ngữ cảnh nguyên nhân cho toàn bộ hành động chính của câu thay thế cho vị trí cũ.</li>
 			
