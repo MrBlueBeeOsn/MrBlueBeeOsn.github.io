@@ -61,7 +61,7 @@ export default function ThreeDC1(): React.ReactElement {
 
 			<h3 className="margin-y-50 text-center">I. HỆ THỐNG TƯ DUY HAI CHIỀU: HÌNH THÁI TRƯỚC, CHỨC NĂNG SAU</h3>
 
-			<p>Để bẻ khóa tiếng Anh nâng cao, người học cần nhìn nhận một khối biểu hiện dựa trên <strong>Hình thái</strong> biểu hiện của nó trước, sau đó mới xác định <strong>Chức năng</strong> dựa vào vị trí đứng trong câu.</p>
+			<p>Để bẻ khóa tiếng Anh nâng cao, người học cần nhìn nhận một khối biểu hiện dựa trên <strong>Hình thái biểu hiện</strong> của nó trước, sau đó mới xác định <strong>Chức năng</strong> dựa vào vị trí đứng trong câu.</p>
 
 			<p>Hệ thống này được đồng bộ hóa một cách nhất quán theo hai trục:</p>
 			
@@ -488,7 +488,7 @@ export default function ThreeDC1(): React.ReactElement {
 			
 				</ul>
 
-				<p className="margin-y-20 text-indent-whole">Thay thế bằng Trạng Cơ [Adverb Base] "there":</p>
+				<p className="margin-y-20 text-indent-whole">Thay thế bằng Trạng Cơ [Adverb Base] "<strong>there</strong>":</p>
 
 					<ul className="list-square">
 				
