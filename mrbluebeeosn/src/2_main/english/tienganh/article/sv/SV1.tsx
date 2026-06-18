@@ -293,11 +293,8 @@ export default function SV1(): React.JSX.Element {
 			<p className="text-indent-whole">Khi tư duy hình khối Cơ - Cụm - Câu đã trở thành bản năng, kỹ thuật viết lại câu [paraphrasing] không còn là việc đổi từ đồng nghĩa một cách may rủi hay xáo trộn trật tự một cách khiên cưỡng.</p>
 
 			<p className="text-indent-whole">Việc làm mới câu văn giờ đây thực chất là một bài toán hình học sắp xếp module: Thay đổi Cấp Độ cấu trúc nhưng giữ nguyên vẹn Chức Năng ở cùng một vị trí neo.</p>
-			
 
-			<p className="text-indent-whole">Chỉ cần xác định vị trí đó đang đảm nhận chức năng gì (Danh, Tính, hay Trạng), người học có toàn quyền nhấc một khối Cơ ra và đặt một khối Cụm hoặc một khối Câu vào để thế chỗ.</p>
-
-			<p className="text-indent-whole">Cấu trúc tổng thể của Câu lớn hoàn toàn không bị phá vỡ hay xáo trộn.</p>
+			<p className="text-indent-whole">Chỉ cần xác định vị trí đó đang đảm nhận chức năng gì (Danh, Tính, hay Trạng), người học có toàn quyền nhấc một khối Cơ ra và đặt một khối Cụm hoặc một khối Câu vào để thế chỗ. Cấu trúc tổng thể của Câu lớn hoàn toàn không bị phá vỡ hay xáo trộn.</p>
 
 			<p className="text-indent-whole">Hãy xem cách chúng ta biến đổi linh hoạt một thông điệp thông qua việc hoán đổi các khối cấu trúc cùng giữ <strong>Chức năng Trạng</strong>:</p>
 
