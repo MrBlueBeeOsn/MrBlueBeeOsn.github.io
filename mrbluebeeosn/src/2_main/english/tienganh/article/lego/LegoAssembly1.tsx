@@ -256,7 +256,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 
 			<p className="margin-top-20 text-indent-whole">Là bản rút gọn của Tính Câu [<strong>Adjective Clause</strong>]</p>
 
-			<p className="margin-top-20 text-indent-whole">Khi câu có cấu trúc <strong>S</strong> + <strong>be</strong> (<strong>Head</strong>) + <strong>Tính Cụm</strong> [<strong>Adjective Phrase</strong>]. Khối này thực chất chính là hình thức của một Tính Câu [Adjective Clause] đầy đủ được rút gọn lại bằng cách lược bỏ đầu nối và Động Cơ [Verb Base] <strong>be</strong> ở câu gốc để câu súc tích hơn.</p>
+			<p className="margin-top-20 text-indent-whole">Khi câu có cấu trúc <strong>S</strong> + <strong>be</strong> (<strong>Head</strong>) + <strong>Tính Cụm</strong> [<strong>Adjective Phrase</strong>], khối này thực chất chính là hình thức của một Tính Câu [Adjective Clause] đầy đủ được rút gọn lại bằng cách lược bỏ đầu nối và Động Cơ [Verb Base] <strong>be</strong> ở câu gốc để câu súc tích hơn.</p>
 			
 
 			<p className="margin-y-40 text-indent-whole">Ví dụ 1:</p>
@@ -360,9 +360,9 @@ export default function LegoAssembly1(): React.JSX.Element {
 
 			<p>Bản chất của viết lại câu không phải là đi tìm các mặt chữ đồng nghĩa một cách hỗn loạn hay cố gắng đảo lộn trật tự một cách vô căn cứ.</p>
 
-			<p>Dưới góc nhìn Lego Assembly, viết lại câu chỉ đơn giản là một bài toán giữ nguyên bộ khung cấu trúc tổng thể, <strong>chỉ nhấc một khối Lego ra và đặt vào đó một khối Lego khác</strong> có kích thước khác nhưng <strong>mang cùng một màu Chức năng</strong>.</p>
+			<p>Dưới góc nhìn Lego Assembly, viết lại câu chỉ đơn giản là một bài toán <strong>giữ nguyên bộ khung cấu trúc tổng thể</strong>, <strong>chỉ nhấc một khối Lego ra và đặt vào đó một khối Lego khác có kích thước khác</strong> nhưng <strong>mang cùng một màu Chức năng</strong>.</p>
 
-			<p>Hãy xem sức mạnh của việc thay đổi kích thước khối Lego (từ Cơ lên Câu) để biến đổi một câu gốc mà không làm dịch chuyển bộ khung của nó:</p>
+			<p>Hãy xem sức mạnh của việc thay đổi kích thước khối Lego (<strong>từ Cơ lên Câu</strong>) để biến đổi một câu gốc mà không làm dịch chuyển bộ khung của nó:</p>
 
 
 			<p className="margin-top-20 text-indent-whole">Câu gốc sử dụng khối chức năng TRẠNG ở <strong>cấp độ Cơ</strong> (Mảnh đơn nhỏ):</p>
@@ -428,7 +428,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 
 			<h4 className="margin-y-40">Luật Phủ định: Chốt chặn "NOT" sau Head</h4>
 					
-			<p className="margin-top-20 text-indent-whole">Bạn chỉ việc nhét khối <strong>NOT</strong> vào ngay sau Bộ nguồn (Head). Khối not này sẽ thuộc về vùng quản lý của phần Dependent phía sau.</p>
+			<p className="margin-top-20 text-indent-whole">Bạn chỉ việc nhét <strong>khối NOT</strong> vào ngay sau Bộ nguồn (Head). <strong>Khối not</strong> này sẽ thuộc về vùng quản lý của phần Dependent phía sau.</p>
 
 
 			<p className="margin-top-20 text-indent-whole"><strong>Khẳng định</strong>:</p>
