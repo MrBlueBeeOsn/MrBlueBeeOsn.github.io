@@ -338,8 +338,13 @@ const Posts = lazy(() => import('@/data/Posts'));
 	const EVBookkeepingMatrix = lazy(() => import('@/2_main/english/tienganh/quiz/evbookkeepingmatrix/EVBookkeepingMatrix'));
 
 	
-	// 5. Vocabulary - Tính chính xác
+	// Vocabulary
 	const VocabularyIndex = lazy(() => import('@/2_main/english/_indexes/VocabularyIndex'));
+
+
+	// 1. Verbs
+	const Clear = lazy(() => import('@/2_main/english/vocabulary/verb/Clear'));
+
 
 
 	// 6. Adjectives
@@ -939,17 +944,26 @@ export default function AppRoutes(): React.JSX.Element {
 
 
 
-					{/* 5. Vocabulary */}
+					{/* Vocabulary */}
 					<Route path="/vocabulary" element={<VocabularyIndex />} />
 
-					{/* 6. Vocabulary - Adjectives */}
+
+
+
+					{/* 1. Vocabulary - Verbs */}
+					<Route path="/vocabulary/clear" element={<Clear />} />
+
+
+
+
+					{/* 1. Vocabulary - Adjectives */}
 					<Route path="/vocabulary/beautiful" element={<Beautiful />} />
 					<Route path="/vocabulary/attractive" element={<Attractive />} />
 					<Route path="/vocabulary/grateful" element={<Grateful />} />
 
 
 
-					{/* 7. Vocabulary - DC */}
+					{/* 1. Vocabulary - DC */}
 
 					
 					

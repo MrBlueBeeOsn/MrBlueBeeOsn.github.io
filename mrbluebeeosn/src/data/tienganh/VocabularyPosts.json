@@ -1613,7 +1613,7 @@
 		},
 		{ 
 			"id": "If",
-			"categoryDisplay": "Nếu.",
+			"categoryDisplay": "Nếu",
 			"categorySlug": "vocabulary#dc-terms",
 			"title": "if",
 			"content": "If (liên cơ): Nếu, nếu như, giả sử. Từ này được dùng để mở đầu cho một câu con điều kiện, diễn tả một tình huống giả định, một khả năng có thể xảy ra hoặc một điều kiện cần thiết để một sự việc khác diễn ra. Ngoài ra, trong câu gián tiếp, nó còn mang nghĩa là \"liệu có... hay không\".",
@@ -1622,12 +1622,21 @@
 		},
 		{ 
 			"id": "When",
-			"categoryDisplay": "Khi.",
+			"categoryDisplay": "Khi",
 			"categorySlug": "vocabulary#dc-terms",
 			"title": "when",
 			"content": "When (liên cơ / trạng cơ / đại cơ quan hệ): Khi, vào lúc, khi nào. Khi làm liên cơ: Dùng để kết nối hai câu con, chỉ thời điểm một sự việc xảy ra hoặc một hành động được thực hiện. Khi làm trạng cơ: Dùng trong câu hỏi để hỏi về thời gian. Khi làm đại cơ quan hệ: Dùng để bổ nghĩa cho một danh cơ chỉ thời gian đứng trước nó.",
 			"slug": "vocabulary/when",
 			"date": "2026-05-26"
+		},
+		{ 
+			"id": "Clear",
+			"categoryDisplay": "Làm rõ",
+			"categorySlug": "vocabulary#verbs-terms",
+			"title": "Clear",
+			"content": "Hình thái: [clear] - Động Cơ [Verb Base] nguyên mẫu, làm hành động chính tác động lên thành phần chịu tác động \"this confusion\".",
+			"slug": "vocabulary/clear",
+			"date": "2026-06-19"
 		}
 	]
 }
