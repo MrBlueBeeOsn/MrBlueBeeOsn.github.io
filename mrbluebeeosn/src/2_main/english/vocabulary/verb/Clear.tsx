@@ -53,7 +53,7 @@ export default function Clear(): React.JSX.Element {
       ============================= */}
 
 
-      <h4 className="margin-y-40">🟦 Cấp độ Cơ [Base]</h4>
+      <h4 className="margin-top-50 margin-bottom-40">🟦 Cấp độ Cơ [Base]</h4>
 
       <p className="text-indent-whole">Thành phần nền tảng ở dạng từ đơn lẻ, thực hiện một vai trò ngữ pháp cốt lõi.</p>
 
