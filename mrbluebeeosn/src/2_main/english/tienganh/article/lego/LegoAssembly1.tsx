@@ -155,11 +155,11 @@ export default function LegoAssembly1(): React.JSX.Element {
 			<p className="text-indent-whole">Khối này chịu trách nhiệm đóng gói các hành động, thực thể thành một cái tên, một đối tượng để làm S hoặc phần tiếp nhận tác động trong câu.</p>
 			
 
-			<p className="margin-top-20 text-indent-whole"><strong>Danh Cơ</strong> [<strong>Noun Base</strong>]:</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Danh Cơ</strong> [<strong>Noun Base</strong>]: [Learning]</p>
 			
 				<ul className="list-square">
 			
-					<li>[Learning] is exciting.</li>
+					<li>[______] is exciting.</li>
 					<li className="margin-bottom-20 list-none">[Học tập] thì thú vị.</li>
 
 					<li className="list-none">Hình thái: [Learning] - Động Cơ [Verb Base] thêm đuôi -<strong>ing</strong>. Hành động gốc được đóng gói thành một thực thể cơ bản duy nhất.</li>
@@ -167,11 +167,11 @@ export default function LegoAssembly1(): React.JSX.Element {
 			
 				</ul>
 
-			<p className="margin-top-20 text-indent-whole"><strong>Danh Cụm</strong> [<strong>Noun Phrase</strong>]:</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Danh Cụm</strong> [<strong>Noun Phrase</strong>]: [protect the environment]</p>
 			
 				<ul className="list-square">
 			
-					<li>We must [protect the environment].</li>
+					<li>We must [______].</li>
 					<li className="margin-bottom-20 list-none">Chúng ta phải [bảo vệ môi trường].</li>
 
 					<li className="list-none">Hình thái: [protect the environment] - Động Cụm [Verb Phrase] bắt đầu bằng một Động Cơ [Verb Base] chính "protect".</li>
@@ -180,11 +180,11 @@ export default function LegoAssembly1(): React.JSX.Element {
 				</ul>
 			
 
-			<p className="margin-top-20 text-indent-whole"><strong>Danh Câu</strong> [<strong>Noun Clause</strong>]:</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Danh Câu</strong> [<strong>Noun Clause</strong>]: [what you mean]</p>
 			
 				<ul className="list-square">
 			
-					<li>I know [what you mean].</li>
+					<li>I know [______].</li>
 					<li className="margin-bottom-20 list-none">Tôi biết [những gì bạn ám chỉ].</li>
 
 					<li className="list-none">Hình thái: [what you mean] - Động Câu [Verb Clause] tạo thành một câu con hoàn chỉnh nhưng không đứng một mình.</li>
@@ -193,16 +193,20 @@ export default function LegoAssembly1(): React.JSX.Element {
 				</ul>
 
 			
-			<p className="margin-top-20 text-indent-whole"><strong>Danh Cụm Phân Tầng</strong> [<strong>Nested Noun Phrase</strong>]:</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Danh Cụm Phân Tầng</strong> [<strong>Nested Noun Phrase</strong>]: [understand {'{why you left}'}]</p>
 			
 				<ul className="list-square">
 			
-					<li>I [understand {'{why you left}'}].</li>
+					<li>I [______].</li>
 					<li className="margin-bottom-20 list-none">Tôi [hiểu {'{lý do vì sao bạn rời đi}'}].</li>
 
-					<li className="margin-bottom-20 list-none">Hình thái: Khối tổng thể [understand {'{why you left}'}] là một Động Cụm [Verb Phrase] tầng ngoài. Bên trong bao gói {'{why you left}'} là một Động Câu [Verb Clause] tầng trong.</li>
+					<li className="list-none">Hình thái:</li>
+					<li className="list-none">Tầng ngoài: Khối tổng thể [understand {'{why you left}'}] là một Động Cụm [Verb Phrase]</li>
+					<li className="margin-bottom-20 list-none">Tầng trong: Bên trong bao gói {'{why you left}'} là một Động Câu [Verb Clause]</li>
 
-					<li className="list-none">Chức năng: Khối {'{why you left}'} bên trong đóng vai trò là Danh Câu [Noun Clause] chịu sự điều phối của Động Cơ [Verb Base] tầng ngoài, và toàn bộ khối [understand {'{why you left}'}] đóng vai trò là Danh Cụm [Noun Phrase] tổng thể chịu tác động của Subject I.</li>
+					<li className="list-none">Chức năng:</li>
+					<li className="list-none">Tầng ngoài: Toàn bộ khối [understand {'{why you left}'}] đóng vai trò là Danh Cụm [Noun Phrase] tổng thể chịu tác động của Subject I.</li>
+					<li className="list-none">Tầng trong: Khối {'{why you left}'} bên trong đóng vai trò là Danh Câu [Noun Clause] chịu sự điều phối của Động Cơ [Verb Base]</li>
 			
 				</ul>
 			
@@ -212,11 +216,11 @@ export default function LegoAssembly1(): React.JSX.Element {
 
 			<p className="text-indent-whole">Khối này dùng để tô màu, mô tả đặc điểm, tính chất hoặc trạng thái cho một đối tượng hoặc cho S.</p>
 
-			<p className="margin-top-20 text-indent-whole"><strong>Tính Cơ</strong> [<strong>Adjective Base</strong>]:</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Tính Cơ</strong> [<strong>Adjective Base</strong>]: [amazing]</p>
 			
 				<ul className="list-square">
 			
-					<li>She has an [amazing] voice.</li>
+					<li>She has an [______] voice.</li>
 					<li className="margin-bottom-20 list-none">Cô ấy có một giọng hát [kinh ngạc].</li>
 
 					<li className="list-none">Hình thái: [amazing] - Động Cơ [Verb Base] ở dạng đuôi -<strong>ing</strong>.</li>
@@ -225,11 +229,11 @@ export default function LegoAssembly1(): React.JSX.Element {
 				</ul>
 			
 			
-			<p className="margin-top-20 text-indent-whole"><strong>Tính Cụm</strong> [<strong>Adjective Phrase</strong>]:</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Tính Cụm</strong> [<strong>Adjective Phrase</strong>]: [working from home]</p>
 			
 				<ul className="list-square">
 			
-					<li>The man is [working from home].</li>
+					<li>The man is [______].</li>
 					<li className="margin-bottom-20 list-none">Người đàn ông thì [đang làm việc tại nhà].</li>
 
 					<li className="list-none">Hình thái: [working from home] - Động Cụm [Verb Phrase] bắt đầu bằng Động Cơ [Verb Base] dạng V-ing.</li>
@@ -238,11 +242,11 @@ export default function LegoAssembly1(): React.JSX.Element {
 				</ul>
 			
 
-			<p className="margin-top-20 text-indent-whole"><strong>Tính Câu</strong> [<strong>Adjective Clause</strong>]:</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Tính Câu</strong> [<strong>Adjective Clause</strong>]: [which lies on the table]</p>
 			
 				<ul className="list-square">
 			
-					<li>The book [which lies on the table] is mine.</li>
+					<li>The book [______] is mine.</li>
 					<li className="margin-bottom-20 list-none">Cuốn sách [nằm trên bàn] là của tôi.</li>
 
 					<li className="list-none">Hình thái: [which lies on the table] - Động Câu [Verb Clause] tạo thành một câu con phụ thuộc.</li>
@@ -261,21 +265,21 @@ export default function LegoAssembly1(): React.JSX.Element {
 
 			<p className="margin-y-40 text-indent-whole">Ví dụ 1:</p>
 
-			<p className="text-indent-whole"><strong>Tính Câu</strong> [<strong>Adjective Clause</strong>] đầy đủ:</p>
+			<p className="text-indent-whole"><strong>Tính Câu</strong> [<strong>Adjective Clause</strong>] đầy đủ: [which is written in English]</p>
 			
 				<ul className="list-square">
 
-					<li>The book [which is written in English] is good.</li>
+					<li>The book [______] is good.</li>
 					<li className="list-none">Cuốn sách [mà được viết bằng tiếng Anh] thì tốt.</li>
 			
 				</ul>
 			
 
-			<p className="margin-top-20 text-indent-whole"><strong>Tính Cụm</strong> [<strong>Adjective Phrase</strong>] rút gọn:</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Tính Cụm</strong> [<strong>Adjective Phrase</strong>] rút gọn: [written in English]</p>
 			
 				<ul className="list-square">
 
-					<li>The book <strong>is</strong> [written in English].</li>
+					<li>The book <strong>is</strong> [______].</li>
 					<li className="list-none">Cuốn sách [được viết bằng tiếng Anh].</li>
 			
 				</ul>
@@ -283,21 +287,21 @@ export default function LegoAssembly1(): React.JSX.Element {
 
 			<p className="margin-y-40 text-indent-whole">Ví dụ 2:</p>
 
-			<p className="text-indent-whole"><strong>Tính Câu</strong> [<strong>Adjective Clause</strong>] đầy đủ:</p>
+			<p className="text-indent-whole"><strong>Tính Câu</strong> [<strong>Adjective Clause</strong>] đầy đủ: [which is to launch the product]</p>
 			
 				<ul className="list-square">
 
-					<li>The team [which is to launch the product is ready].</li>
+					<li>The team [______] is ready.</li>
 					<li className="list-none">Đội ngũ [mà ra mắt sản phẩm] thì sẵn sàng.</li>
 			
 				</ul>
 			
 
-			<p className="margin-top-20 text-indent-whole"><strong>Tính Cụm</strong> [<strong>Adjective Phrase</strong>] rút gọn:</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Tính Cụm</strong> [<strong>Adjective Phrase</strong>] rút gọn: [to launch the product]</p>
 			
 				<ul className="list-square">
 
-					<li>The team <strong>is</strong> [to launch the product].</li>
+					<li>The team <strong>is</strong> [______].</li>
 					<li className="list-none">Đội ngũ [ra mắt sản phẩm].</li>
 			
 				</ul>
@@ -308,11 +312,11 @@ export default function LegoAssembly1(): React.JSX.Element {
 
 			<p className="text-indent-whole">Khối này dùng để mở rộng không gian, thời gian, mục đích, cách thức hoặc nguyên nhân cho hành động chính của câu.</p>
 
-			<p className="margin-top-20 text-indent-whole"><strong>Trạng Cơ</strong> [<strong>Adverb Base</strong>]:</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Trạng Cơ</strong> [<strong>Adverb Base</strong>]: [slowly]</p>
 			
 				<ul className="list-square">
 			
-					<li>He walked [slowly].</li>
+					<li>He walked [______].</li>
 					<li className="margin-bottom-20 list-none">Anh ấy đi bộ [một cách chậm chạp].</li>
 
 					<li className="list-none">Hình thái: [slowly] - Động Cơ [Verb Base] gốc được thêm cấu hình trạng thái -<strong>ly</strong>.</li>
@@ -321,11 +325,11 @@ export default function LegoAssembly1(): React.JSX.Element {
 				</ul>
 
 
-			<p className="margin-top-20 text-indent-whole"><strong>Trạng Cụm</strong> [<strong>Adverb Phrase</strong>]:</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Trạng Cụm</strong> [<strong>Adverb Phrase</strong>]: [to pass the exam]</p>
 			
 				<ul className="list-square">
 			
-					<li>They study hard [to pass the exam].</li>
+					<li>They study hard [______].</li>
 					<li className="margin-bottom-20 list-none">Họ học chăm chỉ [để vượt qua kỳ thi].</li>
 
 					<li className="list-none">Hình thái: [to pass the exam] - Động Cụm [Verb Phrase] bắt đầu bằng dạng nguyên mẫu có <strong>to</strong>.</li>
@@ -334,11 +338,11 @@ export default function LegoAssembly1(): React.JSX.Element {
 				</ul>
 			
 					
-			<p className="margin-top-20 text-indent-whole"><strong>Trạng Câu</strong> [<strong>Adverb Clause</strong>]:</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Trạng Câu</strong> [<strong>Adverb Clause</strong>]: [until you return]</p>
 			
 				<ul className="list-square">
 			
-					<li>I will wait [until you return].</li>
+					<li>I will wait [______].</li>
 					<li className="margin-bottom-20 list-none">Tôi sẽ đợi [cho đến khi bạn quay lại].</li>
 
 					<li className="list-none">Hình thái: [until you return] - Động Câu [Verb Clause] chứa kết cấu S - hành động hoàn chỉnh bên trong.</li>
@@ -365,11 +369,11 @@ export default function LegoAssembly1(): React.JSX.Element {
 			<p>Hãy xem sức mạnh của việc thay đổi kích thước khối Lego (<strong>từ Cơ lên Câu</strong>) để biến đổi một câu gốc mà không làm dịch chuyển bộ khung của nó:</p>
 
 
-			<p className="margin-top-20 text-indent-whole">Câu gốc sử dụng khối chức năng TRẠNG ở <strong>cấp độ Cơ</strong> (Mảnh đơn nhỏ):</p>
+			<p className="margin-top-20 text-indent-whole">Câu gốc sử dụng khối chức năng TRẠNG ở <strong>cấp độ Cơ</strong> (Mảnh đơn nhỏ): [early]</p>
 			
 				<ul className="list-square">
 			
-					<li>We closed the shop [early].</li>
+					<li>We closed the shop [______].</li>
 					<li className="margin-bottom-20 list-none">Chúng tôi đã đóng cửa cửa hàng [sớm].</li>
 					
 					<li className="list-none">Hình thái: [early] - Động Cơ [Verb Base] đóng vai trò Trạng Cơ [Adverb Base].</li>
@@ -377,11 +381,11 @@ export default function LegoAssembly1(): React.JSX.Element {
 				</ul>
 
 
-			<p className="margin-top-20 text-indent-whole">Nâng cấp lên <strong>cấp độ Câu</strong> (Thay bằng mảnh câu con lớn hơn nhưng giữ nguyên màu chức năng TRẠNG):</p>
+			<p className="margin-top-20 text-indent-whole">Nâng cấp lên <strong>cấp độ Câu</strong> (Thay bằng mảnh câu con lớn hơn nhưng giữ nguyên màu chức năng TRẠNG): [before the storm arrived]</p>
 			
 				<ul className="list-square">
 			
-					<li>We closed the shop [before the storm arrived].</li>
+					<li>We closed the shop [______].</li>
 					<li className="margin-bottom-20 list-none">Chúng tôi đã đóng cửa cửa hàng [tước khi cơn bão ập đến].</li>
 
 					<li className="list-none">Hình thái: [before the storm arrived] - Động Câu [Verb Clause] đóng vai trò Trạng Câu [Adverb Clause].</li>
@@ -392,11 +396,11 @@ export default function LegoAssembly1(): React.JSX.Element {
 			<p className="margin-top-20">Hoặc một ví dụ khác về việc luân chuyển linh hoạt khối chức năng DANH làm phần tiếp nhận đứng sau Head:</p>
 
 
-			<p className="margin-top-20 text-indent-whole">Câu gốc sử dụng <strong>cấp độ Cụm</strong>:</p>
+			<p className="margin-top-20 text-indent-whole">Câu gốc sử dụng <strong>cấp độ Cụm</strong>: [a drop in stock prices]</p>
 			
 				<ul className="list-square">
 			
-					<li>Analysts predict [a drop in stock prices].</li>
+					<li>Analysts predict [______].</li>
 					<li className="margin-bottom-20 list-none">Các chuyên gia dự báo [một sự sụt giảm của giá cổ phiếu].</li>
 
 					<li className="list-none">Hình thái: [a drop in stock prices] - Động Cụm [Verb Phrase] đóng vai trò Danh Cụm [Noun Phrase].</li>
@@ -404,11 +408,11 @@ export default function LegoAssembly1(): React.JSX.Element {
 				</ul>
 
 
-			<p className="margin-top-20 text-indent-whole">Biến đổi sang <strong>cấp độ Câu</strong> (Giữ nguyên vị trí khung, chỉ thay đổi hình thái đóng gói dữ liệu):</p>
+			<p className="margin-top-20 text-indent-whole">Biến đổi sang <strong>cấp độ Câu</strong> (Giữ nguyên vị trí khung, chỉ thay đổi hình thái đóng gói dữ liệu): [that stock prices will drop]</p>
 			
 				<ul className="list-square">
 			
-					<li>Analysts predict [that stock prices will drop].</li>
+					<li>Analysts predict [______].</li>
 					<li className="margin-bottom-20 list-none">Các chuyên gia dự báo [rằng giá cổ phiếu sẽ sụt giảm].</li>
 
 					<li className="list-none">Hình thái: [that stock prices will drop] - Động Câu [Verb Clause] đóng vai trò Danh Câu [Noun Clause].</li>
