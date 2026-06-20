@@ -369,7 +369,9 @@ export default function LegoAssembly1(): React.JSX.Element {
 			<p>Hãy xem sức mạnh của việc thay đổi kích thước khối Lego (<strong>từ Cơ lên Câu</strong>) để biến đổi một câu gốc mà không làm dịch chuyển bộ khung của nó:</p>
 
 
-			<p className="margin-top-20 text-indent-whole">Câu gốc sử dụng khối chức năng TRẠNG ở <strong>cấp độ Cơ</strong> (Mảnh đơn nhỏ): [early]</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Mảnh đơn nhỏ</strong>:</p>
+
+			<p className="margin-top-20 text-indent-whole">Câu gốc sử dụng khối chức năng TRẠNG ở <strong>cấp độ Cơ</strong>: [early]</p>
 			
 				<ul className="list-square">
 			
@@ -381,7 +383,9 @@ export default function LegoAssembly1(): React.JSX.Element {
 				</ul>
 
 
-			<p className="margin-top-20 text-indent-whole">Nâng cấp lên <strong>cấp độ Câu</strong> (Thay bằng mảnh câu con lớn hơn nhưng giữ nguyên màu chức năng TRẠNG): [before the storm arrived]</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Thay bằng mảnh câu con lớn hơn nhưng giữ nguyên màu chức năng TRẠNG</strong>:</p>
+
+			<p className="text-indent-whole">Nâng cấp lên <strong>cấp độ Câu</strong>: [before the storm arrived]</p>
 			
 				<ul className="list-square">
 			
@@ -408,7 +412,9 @@ export default function LegoAssembly1(): React.JSX.Element {
 				</ul>
 
 
-			<p className="margin-top-20 text-indent-whole">Biến đổi sang <strong>cấp độ Câu</strong> (Giữ nguyên vị trí khung, chỉ thay đổi hình thái đóng gói dữ liệu): [that stock prices will drop]</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Giữ nguyên vị trí khung</strong>, <strong>chỉ thay đổi hình thái đóng gói dữ liệu</strong>:</p>
+
+			<p className="text-indent-whole">Biến đổi sang <strong>cấp độ Câu</strong>: [that stock prices will drop]</p>
 			
 				<ul className="list-square">
 			

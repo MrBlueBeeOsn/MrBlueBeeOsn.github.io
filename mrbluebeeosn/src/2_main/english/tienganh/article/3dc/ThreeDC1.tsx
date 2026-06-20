@@ -111,11 +111,11 @@ export default function ThreeDC1(): React.ReactElement {
 			<p className="text-indent-whole">Bản thân nó thể hiện cấu trúc một Động Cơ, nhưng vị trí đứng trong câu sẽ quyết định chức năng của nó:</p>
 
 
-			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 1</strong>: <strong>Sinh ra Danh Cơ</strong> [<strong>Noun Base</strong>]</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 1</strong>: <strong>Sinh ra Danh Cơ</strong> [<strong>Noun Base</strong>]: [Smoking]</p>
 			
 				<ul className="list-square">
 			
-					<li>[Smoking] is bad.</li>
+					<li>[______] is bad.</li>
 					<li className="margin-bottom-20 list-none">[Hút thuốc] thì có hại.</li>
 			
 					<li className="list-none">Hình thái: [Smoking] - Động Cơ [Verb Base] thể hiện một khối hành động đơn lẻ mang hình thái thêm đuôi "-ing".</li>
@@ -125,11 +125,11 @@ export default function ThreeDC1(): React.ReactElement {
 				</ul>
 			
 			
-			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 2</strong>: <strong>Sinh ra Tính Cơ</strong> [<strong>Adjective Base</strong>]</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 2</strong>: <strong>Sinh ra Tính Cơ</strong> [<strong>Adjective Base</strong>]: [amazing]</p>
 			
 				<ul className="list-square">
 			
-					<li>She has an [amazing] talent.</li>
+					<li>She has an [______] talent.</li>
 					<li className="margin-bottom-20 list-none">Cô ấy có một tài năng [gây kinh ngạc].</li>
 			
 					<li className="list-none">Hình thái: [amazing] - Động Cơ [Verb Base] đại diện cho khối hành động hạt nhân chỉ gồm đúng 1 từ.</li>
@@ -139,11 +139,11 @@ export default function ThreeDC1(): React.ReactElement {
 				</ul>
 			
 			
-			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 3</strong>: <strong>Sinh ra Trạng Cơ</strong> [<strong>Adverb Base</strong>]</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 3</strong>: <strong>Sinh ra Trạng Cơ</strong> [<strong>Adverb Base</strong>]: [recklessly]</p>
 			
 				<ul className="list-square">
 			
-					<li>He drove [recklessly].</li>
+					<li>He drove [______].</li>
 					<li className="margin-bottom-20 list-none">Anh ấy đã lái xe [một cách liều lĩnh].</li>
 			
 					<li className="list-none">Hình thái: [recklessly] - Động Cơ [Verb Base] phản ánh khối biểu hiện hành động được thêm cấu hình đuôi "-ly".</li>
@@ -161,11 +161,11 @@ export default function ThreeDC1(): React.ReactElement {
 			<p className="text-indent-whole">Khối Động Cụm này sẽ đảm nhận các vai trò:</p>
 
 
-			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 1</strong>: <strong>Sinh ra Danh Cụm</strong> [<strong>Noun Phrase</strong>]</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 1</strong>: <strong>Sinh ra Danh Cụm</strong> [<strong>Noun Phrase</strong>]: [buy a new house]</p>
 			
 				<ul className="list-square">
 			
-					<li>They want to [buy a new house].</li>
+					<li>They want to [______].</li>
 					<li className="margin-bottom-20 list-none">Họ muốn [mua một ngôi nhà mới].</li>
 			
 					<li className="list-none">Hình thái: [buy a new house] - Động Cụm [Verb Phrase] cấu thành từ khối gồm nhiều từ kết hợp, bắt đầu bằng hành động "buy".</li>
@@ -175,11 +175,11 @@ export default function ThreeDC1(): React.ReactElement {
 				</ul>
 			
 			
-			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 2</strong>: <strong>Sinh ra Tính Cụm</strong> [<strong>Adjective Phrase</strong>]</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 2</strong>: <strong>Sinh ra Tính Cụm</strong> [<strong>Adjective Phrase</strong>]: [sitting by the window]</p>
 			
 				<ul className="list-square">
 			
-					<li>The girl [sitting by the window] is my sister.</li>
+					<li>The girl [______] is my sister.</li>
 					<li className="margin-bottom-20 list-none">Cô gái [đang ngồi bên cửa sổ] là em gái tôi.</li>
 			
 					<li className="list-none">Hình thái: [sitting by the window] - Động Cụm [Verb Phrase] bao gồm một khối nhiều từ và không chứa cấu trúc câu con độc lập.</li>
@@ -189,11 +189,11 @@ export default function ThreeDC1(): React.ReactElement {
 				</ul>
 			
 			
-			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 3</strong>: <strong>Sinh ra Trạng Cụm</strong> [<strong>Adverb Phrase</strong>]</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 3</strong>: <strong>Sinh ra Trạng Cụm</strong> [<strong>Adverb Phrase</strong>]: [to get a better job]</p>
 			
 				<ul className="list-square">
 			
-					<li>We practice English [to get a better job].</li>
+					<li>We practice English [______].</li>
 					<li className="margin-bottom-20 list-none">Chúng tôi luyện tập tiếng Anh [để có một công việc tốt hơn].</li>
 			
 					<li className="list-none">Hình thái: [to get a better job] - Động Cụm [Verb Phrase] định hình bằng khối gồm nhiều từ bắt đầu bằng dạng hành động hướng đến tương lai "to get".</li>
@@ -212,11 +212,11 @@ export default function ThreeDC1(): React.ReactElement {
 			<p className="text-indent-whole">Đây chính là bộ bệ phóng cốt lõi để nâng cấp câu văn lên tầm Advanced:</p>
 
 
-			<p className="text-indent-whole"><strong>Ví dụ 1</strong>: <strong>Sinh ra Danh Câu</strong> [<strong>Noun Clause</strong>]</p>
+			<p className="text-indent-whole"><strong>Ví dụ 1</strong>: <strong>Sinh ra Danh Câu</strong> [<strong>Noun Clause</strong>]: [that tomorrow will be better]</p>
 			
 				<ul className="list-square">
 			
-					<li>I believe [that tomorrow will be better].</li>
+					<li>I believe [______].</li>
 					<li className="margin-bottom-20 list-none">Tôi tin [rằng ngày mai sẽ tốt đẹp hơn].</li>
 			
 					<li className="list-none">Hình thái: [that tomorrow will be better] - Động Câu [Verb Clause] sở hữu cấu trúc một câu con đầy đủ có chủ thể "tomorrow" và tổ hợp động cụm "will be" (gồm thời động cơ và động cơ gốc).</li>
@@ -226,11 +226,11 @@ export default function ThreeDC1(): React.ReactElement {
 				</ul>
 			
 			
-			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 2</strong>: <strong>Sinh ra Tính Câu</strong> [<strong>Adjective Clause</strong>]</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 2</strong>: <strong>Sinh ra Tính Câu</strong> [<strong>Adjective Clause</strong>]: [which you lent me yesterday]</p>
 			
 				<ul className="list-square">
 			
-					<li>The book [which you lent me yesterday] is fascinating.</li>
+					<li>The book [______] is fascinating.</li>
 					<li className="margin-bottom-20 list-none">Cuốn sách [mà bạn đã cho tôi mượn hôm qua] thì rất hay.</li>
 			
 					<li className="list-none">Hình thái: [which you lent me yesterday] - Động Câu [Verb Clause] mang cấu trúc câu con hoàn chỉnh có chủ thể "you" và động cụm "lent me yesterday".</li>
@@ -240,11 +240,11 @@ export default function ThreeDC1(): React.ReactElement {
 				</ul>
 			
 			
-			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 3</strong>: <strong>Sinh ra Trạng Câu</strong> [<strong>Adverb Clause</strong>]</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 3</strong>: <strong>Sinh ra Trạng Câu</strong> [<strong>Adverb Clause</strong>]: [as soon as the rain stops]</p>
 			
 				<ul className="list-square">
 			
-					<li>We will leave [as soon as the rain stops].</li>
+					<li>We will leave [______].</li>
 					<li className="margin-bottom-20 list-none">Chúng tôi sẽ rời đi [ngay khi cơn mưa tạnh].</li>
 			
 					<li className="list-none">Hình thái: [as soon as the rain stops] - Động Câu [Verb Clause] vận hành như một khối chứa câu con hoàn chỉnh có chủ thể "the rain" và động cơ "stops".</li>
@@ -332,11 +332,13 @@ export default function ThreeDC1(): React.ReactElement {
 
 			<h4 className="margin-y-40">1. Paraphrasing cho chức năng TRẠNG (Mô tả hoàn cảnh, bối cảnh)</h4>
 					
-			<p className="margin-top-20 text-indent-whole"><strong>Gốc</strong> (Dùng hình thái <strong>Động Câu</strong> [<strong>Verb Clause</strong>] làm chức năng <strong>Trạng Câu</strong> [<strong>Adverb Clause</strong>]):</p>
+			<p className="margin-top-20 text-indent-whole">Dùng hình thái <strong>Động Câu</strong> [<strong>Verb Clause</strong>] làm chức năng <strong>Trạng Câu</strong> [<strong>Adverb Clause</strong>]:</p>
+
+			<p className="margin-top-20 text-indent-whole"><strong>Gốc</strong>: [because it rained heavily]</p>
 			
 				<ul className="list-square">
 			
-					<li>We canceled the picnic [because it rained heavily].</li>
+					<li>We canceled the picnic [______].</li>
 					<li className="margin-bottom-20 list-none">Chúng tôi đã hủy buổi dã ngoại [vì trời mưa to].</li>
 			
 					<li className="list-none">Hình thái: [because it rained heavily] - Động Câu [Verb Clause] khối hành động chứa chủ thể "it" và động cụm "rained heavily" được cấu hình theo thời quá khứ.</li>
@@ -346,11 +348,13 @@ export default function ThreeDC1(): React.ReactElement {
 				</ul>
 			
 			
-			<p className="margin-top-20 text-indent-whole"><strong>Viết lại</strong> (Đổi sang hình thái <strong>Động Cụm</strong> [<strong>Verb Phrase</strong>] làm chức năng <strong>Trạng Cụm</strong> [<strong>Adverb Phrase</strong>]):</p>
+			<p className="margin-top-20 text-indent-whole">Đổi sang hình thái <strong>Động Cụm</strong> [<strong>Verb Phrase</strong>] làm chức năng <strong>Trạng Cụm</strong> [<strong>Adverb Phrase</strong>]:</p>
+
+			<p className="margin-top-20 text-indent-whole"><strong>Viết lại</strong>: [due to the heavy rain]</p>
 			
 				<ul className="list-square">
 			
-					<li>We canceled the picnic [due to the heavy rain].</li>
+					<li>We canceled the picnic [______].</li>
 					<li className="margin-bottom-20 list-none">Chúng tôi đã hủy buổi dã ngoại [vì trận mưa lớn].</li>
 			
 					<li className="list-none">Hình thái: [due to the heavy rain] - Động Cụm [Verb Phrase] khối chứa nhiều biểu hiện kết hợp không tạo thành câu con độc lập.</li>
@@ -360,11 +364,13 @@ export default function ThreeDC1(): React.ReactElement {
 				</ul>
 			
 			
-			<p className="margin-top-20 text-indent-whole"><strong>Viết lại</strong> (Đổi sang hình thái <strong>Động Cơ</strong> [<strong>Verb Base</strong>] làm chức năng <strong>Trạng Cơ</strong> [<strong>Adverb Base</strong>]):</p>
+			<p className="margin-top-20 text-indent-whole">Đổi sang hình thái <strong>Động Cơ</strong> [<strong>Verb Base</strong>] làm chức năng <strong>Trạng Cơ</strong> [<strong>Adverb Base</strong>]:</p>
+
+			<p className="margin-top-20 text-indent-whole"><strong>Viết lại</strong>: [Consequently]</p>
 			
 				<ul className="list-square">
 			
-					<li>[Consequently], we canceled the picnic.</li>
+					<li>[______], we canceled the picnic.</li>
 					<li className="margin-bottom-20 list-none">[Vì vậy], chúng tôi đã hủy buổi dã ngoại.</li>
 			
 					<li className="list-none">Hình thái: [Consequently] - Động Cơ [Verb Base] một khối biểu hiện hạt nhân đơn lẻ.</li>
@@ -377,11 +383,13 @@ export default function ThreeDC1(): React.ReactElement {
 
 			<h4 className="margin-y-40">2. Paraphrasing cho chức năng TÍNH (Mô tả, định danh thực thể)</h4>
 
-			<p className="margin-top-20 text-indent-whole"><strong>Gốc</strong> (Dùng hình thái <strong>Động Câu</strong> [<strong>Verb Clause</strong>] làm chức năng <strong>Tính Câu</strong> [<strong>Adjective Clause</strong>]):</p>
+			<p className="margin-top-20 text-indent-whole">Dùng hình thái <strong>Động Câu</strong> [<strong>Verb Clause</strong>] làm chức năng <strong>Tính Câu</strong> [<strong>Adjective Clause</strong>]:</p>
+
+			<p className="margin-top-20 text-indent-whole"><strong>Gốc</strong>: [who is leading the project]</p>
 			
 				<ul className="list-square">
 			
-					<li>The man [who is leading the project] is very experienced.</li>
+					<li>The man [______] is very experienced.</li>
 					<li className="margin-bottom-20 list-none">Người đàn ông [người mà đang dẫn dắt dự án] thì rất có kinh nghiệm.</li>
 			
 					<li className="list-none">Hình thái: [who is leading the project] - Động Câu [Verb Clause] khối hành động chứa cấu trúc câu con hoàn chỉnh vận hành ở thời hiện tại.</li>
@@ -391,11 +399,13 @@ export default function ThreeDC1(): React.ReactElement {
 				</ul>
 			
 					
-			<p className="margin-top-20 text-indent-whole"><strong>Viết lại</strong> (Đổi sang hình thái <strong>Động Cụm</strong> [<strong>Verb Phrase</strong>] làm chức năng <strong>Tính Cụm</strong> [<strong>Adjective Phrase</strong>]):</p>
+			<p className="margin-top-20 text-indent-whole">Đổi sang hình thái <strong>Động Cụm</strong> [<strong>Verb Phrase</strong>] làm chức năng <strong>Tính Cụm</strong> [<strong>Adjective Phrase</strong>]:</p>
+
+			<p className="margin-top-20 text-indent-whole"><strong>Viết lại</strong>: [leading the project]</p>
 			
 				<ul className="list-square">
 			
-					<li>The man [leading the project] is very experienced.</li>
+					<li>The man [______] is very experienced.</li>
 					<li className="margin-bottom-20 list-none">Người đàn ông [dẫn dắt dự án] thì rất có kinh nghiệm.</li>
 			
 					<li className="list-none">Hình thái: [leading the project] - Động Cụm [Verb Phrase] khối hành động tinh gọn bắt đầu bằng đuôi "-ing".</li>
@@ -405,11 +415,13 @@ export default function ThreeDC1(): React.ReactElement {
 				</ul>
 			
 			
-			<p className="margin-top-20 text-indent-whole"><strong>Viết lại</strong> (Đổi sang hình thái <strong>Động Cơ</strong> [<strong>Verb Base</strong>] làm chức năng <strong>Tính Cơ</strong> [<strong>Adjective Base</strong>]):</p>
+			<p className="margin-top-20 text-indent-whole">Đổi sang hình thái <strong>Động Cơ</strong> [<strong>Verb Base</strong>] làm chức năng <strong>Tính Cơ</strong> [<strong>Adjective Base</strong>]:</p>
+
+			<p className="margin-top-20 text-indent-whole"><strong>Viết lại</strong>: [project-leading]</p>
 			
 				<ul className="list-square">
 			
-					<li>The [project-leading] man is very experienced.</li>
+					<li>The [______] man is very experienced.</li>
 					<li className="margin-bottom-20 list-none">Người đàn ông [dẫn-dắt-dự-án] thì rất có kinh nghiệm.</li>
 			
 					<li className="list-none">Hình thái: [project-leading] - Động Cơ [Verb Base] khối hành động phức hợp quy về dạng đơn lẻ mang đuôi "-ing".</li>
@@ -422,11 +434,13 @@ export default function ThreeDC1(): React.ReactElement {
 
 			<h4 className="margin-y-40">3. Paraphrasing cho chức năng DANH (Làm chủ thể hoặc đối tượng bị tác động)</h4>
 
-			<p className="margin-top-20 text-indent-whole"><strong>Gốc</strong> (Dùng hình thái <strong>Động Câu</strong> [<strong>Verb Clause</strong>] làm chức năng <strong>Danh Câu</strong> [<strong>Noun Clause</strong>]):</p>
+			<p className="margin-top-20 text-indent-whole">Dùng hình thái <strong>Động Câu</strong> [<strong>Verb Clause</strong>] làm chức năng <strong>Danh Câu</strong> [<strong>Noun Clause</strong>]:</p>
+
+			<p className="margin-top-20 text-indent-whole"><strong>Gốc</strong>: [what I should purchase next]</p>
 			
 				<ul className="list-square">
 			
-					<li>I don't know [what I should purchase next].</li>
+					<li>I don't know [______].</li>
 					<li className="margin-bottom-20 list-none">Tôi không biết [tôi nên mua cái gì tiếp theo].</li>
 			
 					<li className="list-none">Hình thái: [what I should purchase next] - Động Câu [Verb Clause] khối chứa cấu trúc câu con đầy đủ có chủ thể "I" và động cụm "should purchase next".</li>
@@ -435,12 +449,14 @@ export default function ThreeDC1(): React.ReactElement {
 			
 				</ul>
 			
-			
-			<p className="margin-top-20 text-indent-whole"><strong>Viết lại</strong> (Đổi sang hình thái <strong>Động Cụm</strong> [<strong>Verb Phrase</strong>] làm chức năng <strong>Danh Cụm</strong> [<strong>Noun Phrase</strong>]):</p>
+
+			<p className="margin-top-20 text-indent-whole">Đổi sang hình thái <strong>Động Cụm</strong> [<strong>Verb Phrase</strong>] làm chức năng <strong>Danh Cụm</strong> [<strong>Noun Phrase</strong>]:</p>
+
+			<p className="margin-top-20 text-indent-whole"><strong>Viết lại</strong>: [what to purchase next]</p>
 			
 				<ul className="list-square">
 			
-					<li>I don't know [what to purchase next].</li>
+					<li>I don't know [______].</li>
 					<li className="margin-bottom-20 list-none">Tôi không biết [phải mua cái gì tiếp theo].</li>
 			
 					<li className="list-none">Hình thái: [what to purchase next] - Động Cụm [Verb Phrase] khối hành động tinh gọn chứa dạng "to + động cơ".</li>
@@ -464,13 +480,13 @@ export default function ThreeDC1(): React.ReactElement {
 			
 				<ul className="list-square">
 			
-					<li>Nếu thử thay thế cả khối Động Câu [Verb Clause] bằng một <strong>Trạng Cơ</strong> [<strong>Adverb Base</strong>] đơn lẻ (then, there) hoặc một Trạng Cụm [Adverb Phrase] "một cách dễ dàng" mà câu vẫn đúng và hợp lý</li>
+					<li>Nếu thử thay thế cả khối Động Câu [Verb Clause] bằng một <strong>Trạng Cơ</strong> [<strong>Adverb Base</strong>] đơn lẻ [then, there] hoặc một Trạng Cụm [Adverb Phrase] "một cách dễ dàng" mà câu vẫn đúng và hợp lý</li>
 					<li className="margin-bottom-20 list-none">→ Khối đó đảm nhiệm chức năng <strong>Trạng Câu</strong> [<strong>Adverb Clause</strong>].</li>
 			
-					<li>Nếu thử thay thế cả khối Động Câu [Verb Clause] bằng một <strong>Tính Cơ</strong> [<strong>Adjective Base</strong>] ngắn (beautiful, smart, new) mà câu vẫn đúng và hợp lý</li>
+					<li>Nếu thử thay thế cả khối Động Câu [Verb Clause] bằng một <strong>Tính Cơ</strong> [<strong>Adjective Base</strong>] ngắn [beautiful, smart, new] mà câu vẫn đúng và hợp lý</li>
 					<li className="margin-bottom-20 list-none">→ Khối đó phụ trách chức năng <strong>Tính Câu</strong> [<strong>Adjective Clause</strong>].</li>
 			
-					<li>Nếu thử thay thế cả khối Động Câu [Verb Clause] bằng một ký hiệu tổng quát "Something" hoặc "It" (tương đương một <strong>Danh Cơ</strong> [<strong>Noun Base</strong>]) mà câu vẫn đúng và hợp lý</li>
+					<li>Nếu thử thay thế cả khối Động Câu [Verb Clause] bằng một ký hiệu tổng quát [Something] hoặc [It] (tương đương một <strong>Danh Cơ</strong> [<strong>Noun Base</strong>]) mà câu vẫn đúng và hợp lý</li>
 					<li className="list-none">→ Khối đó gánh vác chức năng <strong>Danh Câu</strong> [<strong>Noun Clause</strong>].</li>
 			
 				</ul>
@@ -479,20 +495,20 @@ export default function ThreeDC1(): React.ReactElement {
 			<p className="margin-top-20">Thử thách phá án 3 cấu trúc có cùng hình thái <strong>Động Câu</strong> [<strong>Verb Clause</strong>] chứa từ "<strong>where</strong>":</p>
 
 
-			<p className="margin-top-20"><strong>Câu A</strong>:</p>
+			<p className="margin-top-20"><strong>Câu A</strong>: [<strong>where we first met</strong>]</p>
 			
 				<ul className="list-square">
 			
-					<li>I will meet you [<strong>where we first met</strong>].</li>
+					<li>I will meet you [<strong>______</strong>].</li>
 					<li className="margin-bottom-20 list-none">Tôi sẽ gặp bạn [<strong>nơi chúng ta đã gặp nhau lần đầu</strong>].</li>
 			
 				</ul>
 
-				<p className="margin-y-20 text-indent-whole">Thay thế bằng Trạng Cơ [Adverb Base] "<strong>there</strong>":</p>
+				<p className="margin-y-20 text-indent-whole">Thay thế bằng Trạng Cơ [Adverb Base] [<strong>there</strong>]:</p>
 
 					<ul className="list-square">
 				
-						<li>I will meet you [<strong>there</strong>].</li>
+						<li>I will meet you [<strong>______</strong>].</li>
 						<li className="margin-bottom-20 list-none">Tôi sẽ gặp bạn [<strong>ở đó</strong>].</li>
 						
 						<li className="list-none">→ Hợp lý! Khối này thực thi chức năng <strong>Trạng Câu</strong> [<strong>Adverb Clause</strong>] chỉ nơi chốn.</li>
@@ -500,20 +516,20 @@ export default function ThreeDC1(): React.ReactElement {
 					</ul>
 			
 			
-			<p className="margin-top-20"><strong>Câu B</strong>:</p>
+			<p className="margin-top-20"><strong>Câu B</strong>: [<strong>where we first met</strong>]</p>
 			
 				<ul className="list-square">
 			
-					<li>This is the restaurant [<strong>where we first met</strong>].</li>
+					<li>This is the restaurant [<strong>______</strong>].</li>
 					<li className="margin-bottom-20 list-none">Đây là nhà hàng [<strong>nơi chúng ta đã gặp nhau lần đầu</strong>].</li>
 			
 				</ul>
 
-				<p className="margin-y-20 text-indent-whole">Thay thế bằng Tính Cơ [Adjective Base] "old" đặt trước thực thể:</p>
+				<p className="margin-y-20 text-indent-whole">Thay thế bằng Tính Cơ [Adjective Base] [<strong>old</strong>] đặt trước thực thể:</p>
 
 					<ul className="list-square">
 				
-						<li>This is the [<strong>old</strong>] restaurant.</li>
+						<li>This is the [<strong>______</strong>] restaurant.</li>
 						<li className="margin-bottom-20 list-none">Đây là nhà hàng [<strong>cũ</strong>].</li>
 						
 						<li className="list-none">→ Hợp lý! Khối này hoàn thành chức năng <strong>Tính Câu</strong> [<strong>Adjective Clause</strong>] bổ nghĩa cho thực thể đứng trước.</li>
@@ -521,20 +537,20 @@ export default function ThreeDC1(): React.ReactElement {
 					</ul>
 			
 			
-			<p className="margin-top-20"><strong>Câu C</strong>:</p>
+			<p className="margin-top-20"><strong>Câu C</strong>: [<strong>where we first met</strong>]</p>
 			
 				<ul className="list-square">
 			
-					<li>I don't remember [<strong>where we first met</strong>].</li>
+					<li>I don't remember [<strong>______</strong>].</li>
 					<li className="margin-bottom-20 list-none">Tôi không nhớ [<strong>nơi chúng ta đã gặp nhau lần đầu</strong>].</li>
 			
 				</ul>
 			
-				<p className="margin-y-20 text-indent-whole">Thay thế bằng Danh Cơ [Noun Base] "something":</p>
+				<p className="margin-y-20 text-indent-whole">Thay thế bằng Danh Cơ [Noun Base] [<strong>something</strong>]:</p>
 
 					<ul className="list-square">
 				
-						<li>I don't remember [<strong>something</strong>].</li>
+						<li>I don't remember [<strong>______</strong>].</li>
 						<li className="margin-bottom-20 list-none">Tôi không nhớ [<strong>điều gì</strong>].</li>
 
 						<li className="list-none">→ Hợp lý! Khối này đáp ứng chức năng <strong>Danh Câu</strong> [<strong>Noun Clause</strong>] làm khối tiếp nhận chịu tác động của hành động nhớ.</li>
@@ -549,40 +565,26 @@ export default function ThreeDC1(): React.ReactElement {
 
 			<h3 className="margin-y-50 text-center">VI. Đảo ngữ kết hợp (Inversion)</h3>
 		
-			<p>Nâng tầm <strong>Trạng Câu</strong> [<strong>Adverb Clause</strong>] lên mức học thuật cao nhất bằng cách tiến hành đưa đưa:</p>
-			
-				<ul className="list-square">
-
-					<li>Bao bọc khối [] bắt đầu từ <strong>Động Cơ</strong> chính.</li>
-			
-					<li>Khối đứng trước [] gồm 3 thành phần: <strong>Chủ thể</strong> - <strong>Thời</strong> - <strong>Trạng</strong> phủ định.</li>
-					<li className="list-none">Nếu câu có <strong>Thời</strong> ẩn vì thời gộp chung với Động Cơ chính thì tách ra. Sau đó xếp lại 3 thành phần này <strong>từ phải sang trái</strong>.</li>
-			
-				</ul>
-			
+			<p>Nâng tầm <strong>Trạng Câu</strong> [<strong>Adverb Clause</strong>] lên mức học thuật cao nhất bằng cách tiến hành đưa đưa Trạng Câu/Cụm phủ định lên đầu, sau đó tiến hành đảo ngữ Thời Động Cơ thành phần chính:</p>
 
 			<p className="margin-top-20"><strong>Ví dụ 1</strong>:</p>
 
-				<p className="margin-top-20 text-indent-whole"><strong>Gốc</strong>:</p>
+				<p className="margin-top-20 text-indent-whole"><strong>Gốc</strong>: [He had hardly]</p>
 			
 					<ul className="list-square">
 				
-						<li>He had hardly left the house when it started to pour.</li>
-						<li className="margin-bottom-20 list-none">Anh ấy đã hầu như chưa rời khỏi nhà thì trời bắt đầu đổ mưa như trút.</li>
+						<li>[______] left the house when it started to pour.</li>
+						<li className="margin-bottom-20 list-none">[Anh ấy đã hầu như chưa] rời khỏi nhà thì trời bắt đầu đổ mưa như trút.</li>
 				
 					</ul>
 
 
-				<p className="margin-y-20 text-indent-whole"><strong>Viết lại dạng advanced</strong>:</p>
+				<p className="margin-y-20 text-indent-whole"><strong>Viết lại dạng advanced</strong>: [Hardly had he]</p>
 				
 					<ul className="list-square">
-				
-						<li className="list-none">Bao bọc khối [] bắt đầu từ Động Cơ chính: [left the house]</li>
-						<li className="list-none">Khối đứng trước [] gồm 3 thành phần Chủ thể - Thời - Trạng phủ định: He had hardly</li>
-						<li className="margin-bottom-20 list-none">Xếp lại 3 thành phần này từ phải sang trái: Hardly had he</li>
 
-						<li>Hardly had he [left the house] when it started to pour.</li>
-						<li className="list-none">[Hầu như chưa đã] anh ấy [rời khỏi nhà] thì trời bắt đầu đổ mưa như trút.</li>
+						<li>[______] left the house when it started to pour.</li>
+						<li className="list-none">[Hầu như anh ấy đã chưa] rời khỏi nhà thì trời bắt đầu đổ mưa như trút.</li>
 				
 					</ul>
 
@@ -590,26 +592,22 @@ export default function ThreeDC1(): React.ReactElement {
 
 			<p className="margin-top-20"><strong>Ví dụ 2</strong>:</p>
 
-				<p className="margin-top-20 text-indent-whole"><strong>Gốc</strong>:</p>
+				<p className="margin-top-20 text-indent-whole"><strong>Gốc</strong>: [I have never]</p>
 		
 					<ul className="list-square">
 				
-						<li>I have never seen such a professional accounting system.</li>
-						<li className="margin-bottom-20 list-none">Tôi đã chưa từng thấy một hệ thống kế toán nào chuyên nghiệp đến thế.</li>
+						<li>[______] seen such a professional accounting system.</li>
+						<li className="margin-bottom-20 list-none">[Tôi đã chưa từng] thấy một hệ thống kế toán nào chuyên nghiệp đến thế.</li>
 				
 					</ul>
 				
 
-				<p className="margin-y-20 text-indent-whole"><strong>Viết lại dạng advanced</strong>:</p>
+				<p className="margin-y-20 text-indent-whole"><strong>Viết lại dạng advanced</strong>: [Never have I]</p>
 
 					<ul className="list-square">
-				
-						<li className="list-none">Bao bọc khối [] bắt đầu từ Động Cơ chính: [seen such a professional accounting system]</li>
-						<li className="list-none">Khối đứng trước [] gồm 3 thành phần Chủ thể - Thời - Trạng phủ định: I have never</li>
-						<li className="margin-bottom-20 list-none">Xếp lại 3 thành phần này từ phải sang trái: Never have I</li>
 
-						<li>Never have I [seen such a professional accounting system].</li>
-						<li className="margin-bottom-20 list-none">Chưa từng đã tôi [thấy một hệ thống kế toán nào chuyên nghiệp đến thế].</li>
+						<li>[______] seen such a professional accounting system.</li>
+						<li className="margin-bottom-20 list-none">[Chưa từng tôi đã] thấy một hệ thống kế toán nào chuyên nghiệp đến thế.</li>
 
 						<li className="list-none">→ Việc đưa [Never] - <strong>Trạng Cơ phủ định</strong> [<strong>Negative Adverb Base</strong>] lên đầu câu làm cho câu văn mang sắc thái nhấn mạnh cực độ, thể hiện sự ngạc nhiên hoặc khẳng định mạnh mẽ.</li>
 				
@@ -618,26 +616,22 @@ export default function ThreeDC1(): React.ReactElement {
 
 			<p className="margin-top-20"><strong>Ví dụ 3</strong>:</p>
 
-				<p className="margin-top-20 text-indent-whole"><strong>Gốc</strong>:</p>
+				<p className="margin-top-20 text-indent-whole"><strong>Gốc</strong>: [He rarely]</p>
 			
 					<ul className="list-square">
 				
-						<li>He rarely realizes how much his decisions affect the project.</li>
-						<li className="margin-bottom-20 list-none">Anh ấy hiếm khi nhận ra các quyết định của mình ảnh hưởng đến dự án nhiều đến thế nào.</li>
+						<li>[______] realizes how much his decisions affect the project.</li>
+						<li className="margin-bottom-20 list-none">[Anh ấy hiếm khi] nhận ra các quyết định của mình ảnh hưởng đến dự án nhiều đến thế nào.</li>
 				
 					</ul>
 				
 
-				<p className="margin-y-20 text-indent-whole"><strong>Viết lại dạng advanced</strong>:</p>
+				<p className="margin-y-20 text-indent-whole"><strong>Viết lại dạng advanced</strong>: [Rarely does he]</p>
 
 					<ul className="list-square">
-				
-						<li className="list-none">Bao bọc khối [] bắt đầu từ Động Cơ chính: [realizes how much his decisions affect the project]</li>
-						<li className="list-none">Khối đứng trước [] gồm 2 thành phần nhưng bổ sung thêm thời Chủ thể - Thời - Trạng phủ định: He does rarely</li>
-						<li className="margin-bottom-20 list-none">Xếp lại 3 thành phần này từ phải sang trái: Rarely does he</li>
 
-						<li>Rarely does he [realize how much his decisions affect the project].</li>
-						<li className="margin-bottom-20 list-none">Hiếm khi thực sự anh ấy [nhận ra được các quyết định của mình ảnh hưởng đến dự án nhiều đến thế nào].</li>
+						<li>[______] realize how much his decisions affect the project.</li>
+						<li className="margin-bottom-20 list-none">[Hiếm khi thực sự anh ấy] nhận ra được các quyết định của mình ảnh hưởng đến dự án nhiều đến thế nào.</li>
 
 						<li className="list-none">→ Việc đưa [Rarely] - <strong>Trạng Cơ phủ định</strong> [<strong>Negative Adverb Base</strong>] lên đầu câu như một lời cảnh báo hoặc nhấn mạnh về sự thiếu sót trong nhận thức.</li>
 				
@@ -647,27 +641,22 @@ export default function ThreeDC1(): React.ReactElement {
 
 			<p className="margin-top-20"><strong>Ví dụ 4</strong>:</p>
 
-				<p className="margin-top-20 text-indent-whole"><strong>Gốc</strong>:</p>
+				<p className="margin-top-20 text-indent-whole"><strong>Gốc</strong>: [She not only], [but also]</p>
 			
 					<ul className="list-square">
 				
-						<li>She not only writes clean code but also designs beautiful interfaces.</li>
-						<li className="list-none">Cô ấy không những viết mã sạch mà còn thiết kế các giao diện đẹp mắt.</li>
+						<li>[______] writes clean code [______] designs beautiful interfaces.</li>
+						<li className="list-none">[Cô ấy không những] viết mã sạch [mà còn] thiết kế các giao diện đẹp mắt.</li>
 				
 					</ul>
 				
 
-				<p className="margin-y-20 text-indent-whole"><strong>Viết lại dạng advanced</strong>:</p>
+				<p className="margin-y-20 text-indent-whole"><strong>Viết lại dạng advanced</strong>: [Not only does she], [but she also]</p>
 
 					<ul className="list-square">
-				
-						<li className="list-none">Bao bọc khối [] bắt đầu từ Động Cơ chính: [writes clean code]</li>
-						<li className="list-none">Khối đứng trước [] gồm 3 thành phần Chủ thể - Thời - Trạng phủ định: She does not only</li>
-						<li className="list-none">Xếp lại 3 thành phần này từ phải sang trái: Not only does she</li>
-						<li className="margin-bottom-20 list-none">Trước but: thêm dấu phẩy, sau but: thêm chủ thể: ,but she also</li>
 
-						<li>Not only does she [write clean code], but she also designs beautiful interfaces.</li>
-						<li className="margin-bottom-20 list-none">Không những thực sự cô ấy [viết mã sạch], mà cô ấy còn [thiết kế được các giao diện đẹp mắt].</li>
+						<li>[______] write clean code, [______] designs beautiful interfaces.</li>
+						<li className="margin-bottom-20 list-none">[Không những thực sự cô ấy] viết mã sạch, [mà cô ấy còn] thiết kế được các giao diện đẹp mắt.</li>
 
 						<li className="list-none">→ Việc đưa [Not only], [but also] - <strong>Trạng Cụm phủ định</strong> [<strong>Negative Adverb Phrase</strong>] lên đầu câu nhấn mạnh rằng kỹ năng của cô ấy không dừng lại ở việc viết mã mà còn vượt xa hơn thế ở mảng thiết kế.</li>
 
@@ -677,26 +666,22 @@ export default function ThreeDC1(): React.ReactElement {
 
 			<p className="margin-top-20"><strong>Ví dụ 5</strong>:</p>
 
-				<p className="margin-top-20 text-indent-whole"><strong>Gốc</strong>:</p>
+				<p className="margin-top-20 text-indent-whole"><strong>Gốc</strong>: [You must not]</p>
 			
 					<ul className="list-square">
 				
-						<li>You must not share this password under any circumstances.</li>
-						<li className="list-none">Bạn không được phép chia sẻ mật khẩu này dưới bất kỳ hoàn cảnh nào.</li>
+						<li>[______] share this password under any circumstances.</li>
+						<li className="list-none">[Bạn không được phép] chia sẻ mật khẩu này dưới bất kỳ hoàn cảnh nào.</li>
 				
 					</ul>
 
-				<p className="margin-y-20 text-indent-whole"><strong>Viết lại dạng advanced</strong>:</p>
+				<p className="margin-y-20 text-indent-whole"><strong>Viết lại dạng advanced</strong>: [Not must you] → [Under no circumstances must you]</p>
 
 
 					<ul className="list-square">
-				
-						<li className="list-none">Bao bọc khối [] bắt đầu từ Động Cơ chính: [share this password]</li>
-						<li className="list-none">Khối đứng trước [] gồm 3 thành phần Chủ thể - Thời - Trạng phủ định: <strong>You must not</strong></li>
-						<li className="margin-bottom-20 list-none">Xếp lại 3 thành phần này từ phải sang trái: Not must you hoặc Under no circumstances must you</li>
 
-						<li>Under no circumstances must you [share this password].</li>
-						<li className="margin-bottom-20 list-none">Không dưới hoàn cảnh nào được phép bạn [chia sẻ mật khẩu này].</li>
+						<li>[______] share this password.</li>
+						<li className="margin-bottom-20 list-none">[Không dưới hoàn cảnh nào được phép bạn] chia sẻ mật khẩu này.</li>
 
 						<li className="list-none">→ Việc đưa ra giới hạn [Under no circumstances] - <strong>Trạng Cụm phủ định</strong> [<strong>Negative Adverb Phrase</strong>] lên đầu câu ngay từ đầu để "khóa" mọi khả năng ngay lập tức, sau đó mới nhắc đến hành động.</li>
 				

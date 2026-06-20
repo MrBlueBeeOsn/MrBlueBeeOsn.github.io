@@ -250,7 +250,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>We will start <strong>when the sun rises</strong>].</li>
+					<li>We will start [<strong>when the sun rises</strong>].</li>
 					<li className="margin-bottom-20 list-none">Chúng tôi sẽ khởi hành [<strong>khi mặt trời mọc</strong>].</li>
 
 					<li className="list-none">Hình thái: [when the sun rises] - Động Câu [Verb Clause] biểu hiện một cấu trúc hành động phức hợp có đối tượng thực hiện sun và hành động được cấu hình theo thời hiện tại rises.</li>
@@ -273,11 +273,11 @@ export default function AdjPlacement1(): React.JSX.Element {
 			
 			<p className="margin-top-20">Khi các hình thái này lồng vào nhau, hệ thống phân tầng sẽ ôm trọn cả Động Cơ [Verb Base] chính để điều phối câu. Hãy nhìn cách bộ não người bản ngữ bóc tách:</p>
 
-			<p className="margin-top-20"><strong>Mô hình <strong>phân tầng</strong> thực tế</strong>:</p>
+			<p className="margin-top-20"><strong>Mô hình <strong>phân tầng</strong> thực tế</strong>: [remembers {'{what you told me}'}]</p>
 			
 				<ul className="list-square">
 			
-					<li>He [remembers {'{what you told me}'}].</li>
+					<li>He [______].</li>
 					<li className="margin-bottom-20 list-none">Anh ấy [nhớ {'{những gì bạn đã nói với tôi}'}].</li>
 
 					<li className="margin-bottom-20 list-none">{'{what you told me}'}: Động Câu [Verb Clause] - thực hiện chức năng làm <strong>Danh Câu</strong> [<strong>Noun Clause</strong>] (với hành động ở thời quá khứ told).</li>
@@ -302,31 +302,31 @@ export default function AdjPlacement1(): React.JSX.Element {
 
 			<p>Khi các kết nối học thuật bị triệt tiêu, trật tự câu văn lập tức trở nên thuần Việt với ba cấu hình <strong>Tính Cụm</strong> [<strong>Adjective Phrase</strong>] cốt lõi:</p>
 
-			<p className="margin-top-20">Dạng <strong>Tính Cụm chủ động</strong>:</p>
+			<p className="margin-top-20">Dạng <strong>Tính Cụm chủ động</strong>: [sitting next to you]</p>
 			
 				<ul className="list-square">
 			
-					<li>The <strong>man</strong> [sitting next to you] is my brother.</li>
+					<li>The <strong>man</strong> [______] is my brother.</li>
 					<li className="list-none">Người <strong>đàn ông</strong> [ngồi cạnh bạn] chính là anh trai tôi.</li>
 			
 				</ul>
 			
 			
-			<p className="margin-top-20">Dạng <strong>Tính Cụm bị động</strong>:</p>
+			<p className="margin-top-20">Dạng <strong>Tính Cụm bị động</strong>: [made in Vietnam]</p>
 			
 				<ul className="list-square">
 			
-					<li>The <strong>mugs</strong> [made in Vietnam] are very durable.</li>
+					<li>The <strong>mugs</strong> [______] are very durable.</li>
 					<li className="list-none">Những chiếc <strong>ly</strong> [làm tại Việt Nam] cực kỳ bền.</li>
 			
 				</ul>
 			
 			
-			<p className="margin-top-20">Dạng <strong>Tính Cụm nguyên bản</strong>:</p>
+			<p className="margin-top-20">Dạng <strong>Tính Cụm nguyên bản</strong>: [suitable for this job]</p>
 			
 				<ul className="list-square">
 			
-					<li>I am looking for a <strong>person</strong> [suitable for this job].</li>
+					<li>I am looking for a <strong>person</strong> [______].</li>
 					<li className="list-none">Tôi đang tìm một <strong>người</strong> [phù hợp với công việc này].</li>
 			
 				</ul>
@@ -345,10 +345,12 @@ export default function AdjPlacement1(): React.JSX.Element {
 
 
 			<h4 className="margin-y-40">Ví dụ 1: Nâng cấp từ cấp độ Cơ lên cấp độ Cụm</h4>
+
+			<p className="margin-top-20 text-indent-whole">[<strong>Smoking</strong>]</p>
 			
 				<ul className="list-square">
 			
-					<li>[<strong>Smoking</strong>] is forbidden here.</li>
+					<li>[<strong>______</strong>] is forbidden here.</li>
 					<li className="margin-bottom-20 list-none">[<strong>Hút thuốc</strong>] bị cấm ở đây.</li>
 			
 					<li className="list-none">Hình thái: [Smoking] - Động Cơ [Verb Base] biểu thị một từ hành động đơn lẻ đóng vai trò hạt nhân.</li>
@@ -358,11 +360,11 @@ export default function AdjPlacement1(): React.JSX.Element {
 				</ul>
 			
 			
-			<p className="margin-top-20 text-indent-whole">Viết lại [Paraphrase]:</p>
+			<p className="margin-top-20 text-indent-whole">Viết lại [Paraphrase]: [<strong>Using tobacco products</strong>]</p>
 			
 				<ul className="list-square">
 			
-					<li>[<strong>Using tobacco products</strong>] is forbidden here.</li>
+					<li>[<strong>______</strong>] is forbidden here.</li>
 					<li className="margin-bottom-20 list-none">[<strong>Sử dụng các sản phẩm thuốc lá</strong>] bị cấm ở đây.</li>
 			
 					<li className="list-none">Hình thái: [Using tobacco products] - Động Cụm [Verb Phrase] biểu thị một nhóm nhiều từ kết hợp xung quanh hành động gốc using.</li>
@@ -376,10 +378,12 @@ export default function AdjPlacement1(): React.JSX.Element {
 
 
 			<h4 className="margin-y-40">Ví dụ 2: Hoán đổi linh hoạt giữa cấp độ Cụm và cấp độ Câu</h4>
+
+			<p className="margin-top-20 text-indent-whole">[<strong>because of the heavy rain</strong>]</p>
 			
 				<ul className="list-square">
 			
-					<li>We delayed the match [<strong>because of the heavy rain</strong>].</li>
+					<li>We delayed the match [<strong>______</strong>].</li>
 					<li className="margin-bottom-20 list-none">Chúng tôi đã hoãn trận đấu [<strong>vì cơn mưa lớn</strong>].</li>
 			
 					<li className="list-none">Hình thái: [because of the heavy rain] - Động Cụm [Verb Phrase] biểu thị một khối cụm gồm các từ kết hợp đi cùng nhau không chứa bộ tạo hành động riêng.</li>
@@ -389,11 +393,11 @@ export default function AdjPlacement1(): React.JSX.Element {
 				</ul>
 			
 			
-			<p className="margin-top-20 text-indent-whole">Viết lại [Paraphrase]:</p>
+			<p className="margin-top-20 text-indent-whole">Viết lại [Paraphrase]: [<strong>because it rained heavily</strong>]</p>
 			
 				<ul className="list-square">
 			
-					<li>We delayed the match [<strong>because it rained heavily</strong>].</li>
+					<li>We delayed the match [<strong>______</strong>].</li>
 					<li className="margin-bottom-20 list-none">Chúng tôi đã hoãn trận đấu [<strong>vì trời đã mưa rất to</strong>].</li>
 			
 					<li className="list-none">Hình thái: [because it rained heavily] - Động Câu [Verb Clause] biểu hiện một cấu trúc hành động phức hợp có đối tượng thực hiện it và hành động được điều hành bởi Thời Động Cơ [Time-based Verb Base] ở quá khứ rained.</li>
