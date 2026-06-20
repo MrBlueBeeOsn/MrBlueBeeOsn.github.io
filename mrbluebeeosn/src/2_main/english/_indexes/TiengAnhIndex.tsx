@@ -875,10 +875,10 @@ export default function TiengAnhIndex(): React.JSX.Element {
                 <Link to="/tieng-anh/lego-assembly-1">Lego Assembly
                 <sup>&nbsp;1&nbsp;</sup>
                 </Link>
-                {/* <Link to="/tieng-anh/lego-assembly-2">
+                <Link to="/tieng-anh/lego-assembly-2">
                   <sup>&nbsp;2&nbsp;</sup>
                 </Link>
-                <Link to="/tieng-anh/lego-assembly-3">
+                {/* <Link to="/tieng-anh/lego-assembly-3">
                   <sup>&nbsp;3&nbsp;</sup>
                 </Link>
                 <Link to="/tieng-anh/lego-assembly-4">
