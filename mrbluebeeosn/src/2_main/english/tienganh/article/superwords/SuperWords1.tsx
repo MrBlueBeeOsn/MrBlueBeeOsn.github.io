@@ -112,11 +112,11 @@ export default function SuperWords1(): React.JSX.Element {
 
 			<p>Khi nhìn thấy hình thái ĐỘNG CƠ, chức năng của nó sẽ được quyết định bởi vị trí đứng:</p>
 
-			<p className="margin-top-20"><strong>Chức năng Danh Cơ</strong> [<strong>Noun Base</strong>]:</p>
+			<p className="margin-top-20"><strong>Chức năng Danh Cơ</strong> [<strong>Noun Base</strong>]: [Smoking]</p>
 			
 				<ul className="list-square">
 			
-					<li>[Smoking] is bad for health.</li>
+					<li>[______] is bad for health.</li>
 					<li className="margin-bottom-20 list-none">[Hút thuốc] có hại cho sức khỏe.</li>
 			
 					<li className="list-none">Hình thái: [Smoking] - Động Cơ [Verb Base] thể hiện một hạt nhân hành động đơn lẻ hiển thị ở dạng đuôi -ing.</li>
@@ -126,11 +126,11 @@ export default function SuperWords1(): React.JSX.Element {
 				</ul>
 			
 			
-			<p className="margin-top-20"><strong>Chức năng Tính Cơ</strong> [<strong>Adjective Base</strong>]:</p>
+			<p className="margin-top-20"><strong>Chức năng Tính Cơ</strong> [<strong>Adjective Base</strong>]: [charming]</p>
 			
 				<ul className="list-square">
 			
-					<li>He has a [charming] smile.</li>
+					<li>He has a [______] smile.</li>
 					<li className="margin-bottom-20 list-none">Anh ấy có một nụ cười [cuốn hút].</li>
 			
 					<li className="list-none">Hình thái: [charming] - Động Cơ [Verb Base] thể hiện một hạt nhân hành động đơn lẻ hiển thị ở dạng đuôi -ing.</li>
@@ -140,11 +140,11 @@ export default function SuperWords1(): React.JSX.Element {
 				</ul>
 			
 			
-			<p className="margin-top-20"><strong>Chức năng Trạng Cơ</strong> [<strong>Adverb Base</strong>]:</p>
+			<p className="margin-top-20"><strong>Chức năng Trạng Cơ</strong> [<strong>Adverb Base</strong>]: [lovingly]</p>
 			
 				<ul className="list-square">
 			
-					<li>He spoke [lovingly].</li>
+					<li>He spoke [______].</li>
 					<li className="margin-bottom-20 list-none">Anh ấy đã nói một cách [yêu thương].</li>
 			
 					<li className="list-none">Hình thái: [lovingly] - Động Cơ [Verb Base] thể hiện một hạt nhân hành động đơn lẻ hình thành từ gốc hành động được thêm đuôi -ly.</li>
@@ -166,11 +166,11 @@ export default function SuperWords1(): React.JSX.Element {
 
 			<p>Khi nhìn thấy hình thái ĐỘNG CỤM, bạn sẽ biết nó đảm nhận chức năng gì dựa vào ngữ cảnh:</p>
 
-			<p className="margin-top-20"><strong>Chức năng Danh Cụm</strong> [<strong>Noun Phrase</strong>]:</p>
+			<p className="margin-top-20"><strong>Chức năng Danh Cụm</strong> [<strong>Noun Phrase</strong>]: [finish the report]</p>
 			
 				<ul className="list-square">
 			
-					<li>You must [finish the report].</li>
+					<li>You must [______].</li>
 					<li className="margin-bottom-20 list-none">Bạn phải [hoàn thành bản báo cáo].</li>
 			
 					<li className="list-none">Hình thái: [finish the report] - Động Cụm [Verb Phrase] đại diện cho một khối hành động phức hợp gồm nhiều từ phối hợp với nhau.</li>
@@ -180,11 +180,11 @@ export default function SuperWords1(): React.JSX.Element {
 				</ul>
 			
 			
-			<p className="margin-top-20"><strong>Chức năng Tính Cụm</strong> [<strong>Adjective Phrase</strong>]:</p>
+			<p className="margin-top-20"><strong>Chức năng Tính Cụm</strong> [<strong>Adjective Phrase</strong>]: [sleeping peacefully]</p>
 			
 				<ul className="list-square">
 			
-					<li>The baby is [sleeping peacefully].</li>
+					<li>The baby is [______].</li>
 					<li className="margin-bottom-20 list-none">Đứa trẻ đang [ngủ một cách bình yên].</li>
 			
 					<li className="list-none">Hình thái: [sleeping peacefully] - Động Cụm [Verb Phrase] đại diện cho một khối hành động phức hợp gồm nhiều từ phối hợp với nhau.</li>
@@ -194,11 +194,11 @@ export default function SuperWords1(): React.JSX.Element {
 				</ul>
 			
 			
-			<p className="margin-top-20"><strong>Chức năng Trạng Cụm</strong> [<strong>Adverb Phrase</strong>]:</p>
+			<p className="margin-top-20"><strong>Chức năng Trạng Cụm</strong> [<strong>Adverb Phrase</strong>]: [to earn money]</p>
 			
 				<ul className="list-square">
 			
-					<li>He works [to earn money].</li>
+					<li>He works [______].</li>
 					<li className="margin-bottom-20 list-none">Anh ấy làm việc [để kiếm tiền].</li>
 			
 					<li className="list-none">Hình thái: [to earn money] - Động Cụm [Verb Phrase] đại diện cho một khối hành động phức hợp bắt đầu bằng từ chỉ mục đích "to".</li>
@@ -220,11 +220,11 @@ export default function SuperWords1(): React.JSX.Element {
 
 			<p>Khi nhìn thấy hình thái ĐỘNG CÂU, ta xác định chức năng của "Siêu Từ" này như sau:</p>
 
-			<p className="margin-top-20"><strong>Chức năng Danh Câu</strong> [<strong>Noun Clause</strong>]:</p>
+			<p className="margin-top-20"><strong>Chức năng Danh Câu</strong> [<strong>Noun Clause</strong>]: [that he is honest]</p>
 			
 				<ul className="list-square">
 			
-					<li>I know [that he is honest].</li>
+					<li>I know [______].</li>
 					<li className="margin-bottom-20 list-none">Tôi biết [rằng anh ấy thành thật].</li>
 			
 					<li className="list-none">Hình thái: [that he is honest] - Động Câu [Verb Clause] đại diện cho một câu con hoàn chỉnh được dẫn dắt bởi từ "that".</li>
@@ -234,11 +234,11 @@ export default function SuperWords1(): React.JSX.Element {
 				</ul>
 			
 			
-			<p className="margin-top-20"><strong>Chức năng Tính Câu</strong> [<strong>Adjective Clause</strong>]:</p>
+			<p className="margin-top-20"><strong>Chức năng Tính Câu</strong> [<strong>Adjective Clause</strong>]: [who is standing there]</p>
 			
 				<ul className="list-square">
 			
-					<li>The man [who is standing there] is my friend.</li>
+					<li>The man [______] is my friend.</li>
 					<li className="margin-bottom-20 list-none">Người đàn ông [người mà đang đứng đằng kia] là bạn của tôi.</li>
 			
 					<li className="list-none">Hình thái: [who is standing there] - Động Câu [Verb Clause] đại diện cho một câu con hoàn chỉnh đóng vai trò phụ thuộc.</li>
@@ -248,11 +248,11 @@ export default function SuperWords1(): React.JSX.Element {
 				</ul>
 			
 			
-			<p className="margin-top-20"><strong>Chức năng Trạng Câu</strong> [<strong>Adverb Clause</strong>]:</p>
+			<p className="margin-top-20"><strong>Chức năng Trạng Câu</strong> [<strong>Adverb Clause</strong>]: [where you go]</p>
 			
 				<ul className="list-square">
 			
-					<li>I will go [where you go].</li>
+					<li>I will go [______].</li>
 					<li className="margin-bottom-20 list-none">Tôi sẽ đi [bất cứ nơi nào bạn đi].</li>
 			
 					<li className="list-none">Hình thái: [where you go] - Động Câu [Verb Clause] đại diện cho một câu con hoàn chỉnh chứa hành động phụ.</li>
@@ -309,10 +309,12 @@ export default function SuperWords1(): React.JSX.Element {
 			<p>Hãy cùng xem cách tư duy "thay khối" này vận hành khi chúng ta biến đổi một câu gốc:</p>
 
 			<h4 className="margin-y-40">Câu gốc:</h4>
+
+			<p className="margin-top-20 text-indent-whole">[because it rained heavily]</p>
 			
 				<ul className="list-square">
 			
-					<li>We cancelled the picnic [because it rained heavily].</li>
+					<li>We cancelled the picnic [______].</li>
 					<li className="margin-bottom-20 list-none">Chúng tôi đã hủy buổi dã ngoại [vì trời mưa nặng hạt].</li>
 			
 					<li className="list-none">Khối chức năng hiện tại: [because it rained heavily] là Trạng Câu [Adverb Clause] dùng để chỉ nguyên nhân.</li>
@@ -324,10 +326,12 @@ export default function SuperWords1(): React.JSX.Element {
 			<h4 className="margin-y-40">Cách viết lại 1: Hạ cấp độ từ Câu về Cụm</h4>
 					
 			<p className="margin-top-20 text-indent-whole">Thay thế khối Trạng Câu bằng một khối Trạng Cụm [Adverb Phrase] có cùng chức năng chỉ nguyên nhân:</p>
+
+			<p className="margin-top-20 text-indent-whole">[because of the heavy rain]</p>
 			
 				<ul className="list-square">
 			
-					<li>We cancelled the picnic [because of the heavy rain].</li>
+					<li>We cancelled the picnic [______].</li>
 					<li className="margin-bottom-20 list-none">Chúng tôi đã hủy buổi dã ngoại [vì trận mưa lớn].</li>
 			
 					<li className="list-none">Khối chức năng mới: [because of the heavy rain] đã chuyển dịch về hình thái Động Cụm [Verb Phrase] nhưng vẫn giữ nguyên Chức năng: Trạng Cụm [Adverb Phrase].</li>
@@ -339,10 +343,12 @@ export default function SuperWords1(): React.JSX.Element {
 			<h4 className="margin-y-40">Cách viết lại 2: Nâng cấp độ từ Cụm lên Câu (Thay đổi góc nhìn của Siêu Từ)</h4>
 					
 			<p className="margin-top-20 text-indent-whole">Hoán đổi khối nguyên nhân cũ bằng một khối Trạng Câu [Adverb Clause] khác sâu sắc hơn:</p>
+
+			<p className="margin-top-20 text-indent-whole">[since the weather turned dynamic and stormy]</p>
 			
 				<ul className="list-square">
 			
-					<li>We cancelled the picnic [since the weather turned dynamic and stormy].</li>
+					<li>We cancelled the picnic [______].</li>
 					<li className="margin-bottom-20 list-none">Chúng tôi đã hủy buổi dã ngoại [vì thời tiết đã chuyển biến xấu và có bão].</li>
 			
 					<li className="list-none">Khối chức năng mới: [since the weather turned dynamic and stormy] đạt hình thái Động Câu [Verb Clause] và giữ Chức năng: Trạng Câu [Adverb Clause].</li>

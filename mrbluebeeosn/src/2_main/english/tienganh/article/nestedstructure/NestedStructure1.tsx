@@ -149,11 +149,11 @@ export default function NestedStructure1(): React.JSX.Element {
 			<p className="text-indent-whole">Khi đặt vào câu, chính hình thái Động Cơ này sẽ hình thành nên 3 loại chức năng độc lập:</p>
 
 					
-			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 1</strong>: <strong>Hình thành chức năng Danh Cơ</strong> [<strong>Noun Base</strong>]</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 1</strong>: <strong>Hình thành chức năng Danh Cơ</strong> [<strong>Noun Base</strong>]: [Swimming]</p>
 			
 				<ul className="list-square">
 			
-					<li>[Swimming] is healthy.</li>
+					<li>[______] is healthy.</li>
 					<li className="margin-bottom-20 list-none">[Việc bơi lội] thì tốt cho sức khỏe.</li>
 
 					<li className="list-none">Hình thái: [Swimming] - Động Cơ [Verb Base] xuất hiện dưới dạng hạt nhân hành động từ đơn kết thúc bằng đuôi tinh chỉnh -ing.</li>
@@ -162,11 +162,11 @@ export default function NestedStructure1(): React.JSX.Element {
 				</ul>
 			
 			
-			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 2</strong>: <strong>Hình thành chức năng Tính Cơ</strong> [<strong>Adjective Base</strong>]</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 2</strong>: <strong>Hình thành chức năng Tính Cơ</strong> [<strong>Adjective Base</strong>]: [broken]</p>
 
 				<ul className="list-square">
 			
-					<li>I saw a [broken] chair.</li>
+					<li>I saw a [______] chair.</li>
 					<li className="margin-bottom-20 list-none">Tôi đã nhìn thấy một chiếc ghế [bị hỏng].</li>
 
 					<li className="list-none">Hình thái: [broken] - Động Cơ [Verb Base] biểu hiện dưới dạng hạt nhân hành động từ đơn biến đổi sang trạng thái bị động thuộc trục thời gian quá khứ.</li>
@@ -175,11 +175,11 @@ export default function NestedStructure1(): React.JSX.Element {
 				</ul>
 			
 			
-			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 3</strong>: <strong>Hình thành chức năng Trạng Cơ</strong> [<strong>Adverb Base</strong>]</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 3</strong>: <strong>Hình thành chức năng Trạng Cơ</strong> [<strong>Adverb Base</strong>]: [forward]</p>
 			
 				<ul className="list-square">
 			
-					<li>The project moved [forward].</li>
+					<li>The project moved [______].</li>
 					<li className="margin-bottom-20 list-none">Dự án đã chuyển dịch [về phía trước].</li>
 
 					<li className="list-none">Hình thái: [forward] - Động Cơ [Verb Base] thiết lập dưới dạng hạt nhân hành động từ đơn mang gốc rễ chuyển động, vận hành.</li>
@@ -195,11 +195,11 @@ export default function NestedStructure1(): React.JSX.Element {
 
 			<p className="text-indent-whole">Khối hình thái này sẽ hình thành và vận hành 3 chương trình chức năng:</p>
 					
-			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 4</strong>: <strong>Hình thành chức năng Danh Cụm</strong> [<strong>Noun Phrase</strong>]</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 4</strong>: <strong>Hình thành chức năng Danh Cụm</strong> [<strong>Noun Phrase</strong>]: [send the email]</p>
 			
 				<ul className="list-square">
 			
-					<li>You [send the email].</li>
+					<li>You [______].</li>
 					<li className="margin-bottom-20 list-none">Bạn [gửi bức thư điện tử].</li>
 
 					<li className="list-none">Hình thái: [send the email] - Động Cụm [Verb Phrase] hiển thị dưới dạng một vùng mã mở rộng chứa nhiều từ gồm hành động gửi cấu hình theo thời hiện tại và đối tượng của nó.</li>
@@ -208,11 +208,11 @@ export default function NestedStructure1(): React.JSX.Element {
 				</ul>
 			
 			
-			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 5</strong>: <strong>Hình thành chức năng Tính Cụm</strong> [<strong>Adjective Phrase</strong>]</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 5</strong>: <strong>Hình thành chức năng Tính Cụm</strong> [<strong>Adjective Phrase</strong>]: [sleeping peacefully]</p>
 			
 				<ul className="list-square">
 			
-					<li>The baby is [sleeping peacefully].</li>
+					<li>The baby is [______].</li>
 					<li className="margin-bottom-20 list-none">Đứa trẻ thì [đang ngủ một cách bình yên].</li>
 
 					<li className="list-none">Hình thái: [sleeping peacefully] - Động Cụm [Verb Phrase] triển khai theo dạng vùng mã bắt đầu ngay sau thời động cơ biểu thị tính liên tục của thời hiện tại, bao gồm hành động sleeping và thành phần bổ trợ.</li>
@@ -221,11 +221,11 @@ export default function NestedStructure1(): React.JSX.Element {
 				</ul>
 			
 			
-			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 6</strong>: <strong>Hình thành chức năng Trạng Cụm</strong> [<strong>Adverb Phrase</strong>]</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 6</strong>: <strong>Hình thành chức năng Trạng Cụm</strong> [<strong>Adverb Phrase</strong>]: [to get a better job]</p>
 			
 				<ul className="list-square">
 			
-					<li>She practiced English [to get a better job].</li>
+					<li>She practiced English [______].</li>
 					<li className="margin-bottom-20 list-none">Cô ấy đã luyện tập tiếng Anh [để có được một công việc tốt hơn].</li>
 
 					<li className="list-none">Hình thái: [to get a better job] - Động Cụm [Verb Phrase] phát triển theo dạng vùng mã bắt đầu từ động cơ get kéo theo các tham số đối tượng đi kèm, đứng sau hành động chính thuộc thời quá khứ.</li>
@@ -234,11 +234,11 @@ export default function NestedStructure1(): React.JSX.Element {
 				</ul>
 			
 
-			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 7</strong>: <strong>Hình thái Động Cụm</strong> [<strong>Verb Phrase</strong>] <strong>phân tầng nâng cao</strong></p>
+			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 7</strong>: <strong>Hình thái Động Cụm</strong> [<strong>Verb Phrase</strong>] <strong>phân tầng nâng cao</strong>: [discuss {'{how we can solve this problem}'}]</p>
 			
 				<ul className="list-square">
 			
-					<li>We [discuss {'{how we can solve this problem}'}].</li>
+					<li>We [______].</li>
 					<li className="margin-bottom-20 list-none">Chúng tôi [thảo luận {'{cách mà chúng tôi có thể giải quyết vấn đề này}'}].</li>
 			
 				</ul>
@@ -263,11 +263,11 @@ export default function NestedStructure1(): React.JSX.Element {
 
 			<p className="text-indent-whole">Từ hình thái này, hệ thống sẽ cho ra 3 chức năng tương ứng:</p>
 
-			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 8</strong>: <strong>Hình thành chức năng Danh Câu</strong> [<strong>Noun Clause</strong>]</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 8</strong>: <strong>Hình thành chức năng Danh Câu</strong> [<strong>Noun Clause</strong>]: [where you live]</p>
 			
 				<ul className="list-square">
 			
-					<li>I know [where you live].</li>
+					<li>I know [______].</li>
 					<li className="margin-bottom-20 list-none">Tôi biết [nơi mà bạn sinh sống].</li>
 
 					<li className="list-none">Hình thái: [where you live] - Động Câu [Verb Clause] đại diện cho khối mã chứa câu con hoàn chỉnh cấu hình theo trục thời hiện tại, có thành phần nền tảng you và động cơ live.</li>
@@ -276,11 +276,11 @@ export default function NestedStructure1(): React.JSX.Element {
 				</ul>
 			
 			
-			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 9</strong>: <strong>Hình thành chức năng Tính Câu</strong> [<strong>Adjective Clause</strong>]</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 9</strong>: <strong>Hình thành chức năng Tính Câu</strong> [<strong>Adjective Clause</strong>]: [who is standing there]</p>
 
 				<ul className="list-square">
 			
-					<li>The man [who is standing there] is my friend.</li>
+					<li>The man [______] is my friend.</li>
 					<li className="margin-bottom-20 list-none">Người đàn ông [người mà đang đứng ở kia] thì là bạn của tôi.</li>
 
 					<li className="list-none">Hình thái: [who is standing there] - Động Câu [Verb Clause] hiện diện dưới dạng khối câu chứa hạt nhân hành động standing riêng biệt.</li>
@@ -289,11 +289,11 @@ export default function NestedStructure1(): React.JSX.Element {
 				</ul>
 			
 			
-			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 10</strong>: <strong>Hình thành chức năng Trạng Câu</strong> [<strong>Adverb Clause</strong>]</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 10</strong>: <strong>Hình thành chức năng Trạng Câu</strong> [<strong>Adverb Clause</strong>]: [because it rained heavily]</p>
 			
 				<ul className="list-square">
 			
-					<li>We stayed at home [because it rained heavily].</li>
+					<li>We stayed at home [______].</li>
 					<li className="margin-bottom-20 list-none">Chúng tôi đã ở nhà [bởi vì trời đã mưa rất to].</li>
 
 					<li className="list-none">Hình thái: [because it rained heavily] - Động Câu [Verb Clause] kích hoạt ngay sau thành phần kết nối, chứa thành phần nền tảng it và động cơ rained mang dấu mốc thời quá khứ.</li>

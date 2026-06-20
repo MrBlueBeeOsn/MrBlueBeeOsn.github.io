@@ -298,11 +298,11 @@ export default function SV1(): React.JSX.Element {
 
 			<p className="text-indent-whole">Hãy xem cách chúng ta biến đổi linh hoạt một thông điệp thông qua việc hoán đổi các khối cấu trúc cùng giữ <strong>Chức năng Trạng</strong>:</p>
 
-			<p className="margin-top-20 text-indent-whole"><strong>Cấp độ Cơ</strong>:</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Cấp độ Cơ</strong>: [early]</p>
 			
 				<ul className="list-square">
 			
-					<li>We arrived [early].</li>
+					<li>We arrived [______].</li>
 					<li className="margin-bottom-20 list-none">Chúng tôi đã đến [sớm].</li>
 			
 					<li className="list-none">→ Sử dụng Trạng Cơ [Adverb Base] là [early].</li>
@@ -310,11 +310,11 @@ export default function SV1(): React.JSX.Element {
 				</ul>
 			
 			
-			<p className="margin-top-20 text-indent-whole"><strong>Cấp độ Cụm</strong>:</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Cấp độ Cụm</strong>: [in the morning]</p>
 			
 				<ul className="list-square">
 			
-					<li>We arrived [in the morning].</li>
+					<li>We arrived [______].</li>
 					<li className="margin-bottom-20 list-none">Chúng tôi đã đến [vào buổi sáng].</li>
 			
 					<li className="list-none">→ Nhấc khối Cơ ra, đặt khối Động Cụm [Verb Phrase] giữ chức năng Trạng Cụm [Adverb Phrase] vào thế chỗ.</li>
@@ -322,11 +322,11 @@ export default function SV1(): React.JSX.Element {
 				</ul>
 			
 			
-			<p className="margin-top-20 text-indent-whole"><strong>Cấp độ Câu</strong>:</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Cấp độ Câu</strong>: [before the sun rose]</p>
 			
 				<ul className="list-square">
 			
-					<li>We arrived [before the sun rose].</li>
+					<li>We arrived [______].</li>
 					<li className="margin-bottom-20 list-none">Chúng tôi đã đến [trước khi mặt trời mọc].</li>
 			
 					<li className="list-none">→ Tiếp tục thay thế bằng một khối Động Câu [Verb Clause] giữ chức năng Trạng Câu [Adverb Clause] có chứa hệ trục S + V vận hành ở thời quá khứ.</li>
@@ -336,11 +336,11 @@ export default function SV1(): React.JSX.Element {
 
 			<p className="margin-top-20">Tương tự với việc thay khối cùng giữ <strong>Chức năng Danh</strong> làm chủ thể chính:</p>
 
-			<p className="margin-top-20 text-indent-whole"><strong>Cấp độ Cơ</strong>:</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Cấp độ Cơ</strong>: [Money]</p>
 			
 				<ul className="list-square">
 			
-					<li>[Money] is what we need.</li>
+					<li>[______] is what we need.</li>
 					<li className="margin-bottom-20 list-none">[Tiền bạc] tạo nên thứ chúng tôi cần.</li>
 			
 					<li className="list-none">→ Khối Danh Cơ [Noun Base].</li>
@@ -348,11 +348,11 @@ export default function SV1(): React.JSX.Element {
 				</ul>
 			
 			
-			<p className="margin-top-20 text-indent-whole"><strong>Cấp độ Cụm</strong>:</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Cấp độ Cụm</strong>: [Earning money]</p>
 			
 				<ul className="list-square">
 			
-					<li>[Earning money] is what we need.</li>
+					<li>[______] is what we need.</li>
 					<li className="margin-bottom-20 list-none">[Việc kiếm tiền] tạo nên thứ chúng tôi cần.</li>
 			
 					<li className="list-none">→ Thay thế bằng khối Động Cụm [Verb Phrase] làm chức năng Danh Cụm [Noun Phrase].</li>
@@ -360,11 +360,11 @@ export default function SV1(): React.JSX.Element {
 				</ul>
 			
 			
-			<p className="margin-top-20 text-indent-whole"><strong>Cấp độ Câu</strong>:</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Cấp độ Câu</strong>: [What we need]</p>
 			
 				<ul className="list-square">
 			
-					<li>[What we need] is money.</li>
+					<li>[______] is money.</li>
 					<li className="margin-bottom-20 list-none">[Những gì chúng tôi cần] tạo nên tiền bạc.</li>
 			
 					<li className="list-none">→ Nâng cấp lên khối Động Câu [Verb Clause] làm chức năng Danh Câu [Noun Clause].</li>

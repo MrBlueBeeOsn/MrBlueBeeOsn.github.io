@@ -385,7 +385,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 
 			<p className="margin-top-20 text-indent-whole"><strong>Thay bằng mảnh câu con lớn hơn nhưng giữ nguyên màu chức năng TRẠNG</strong>:</p>
 
-			<p className="text-indent-whole">Nâng cấp lên <strong>cấp độ Câu</strong>: [before the storm arrived]</p>
+			<p className="margin-top-20 text-indent-whole">Nâng cấp lên <strong>cấp độ Câu</strong>: [before the storm arrived]</p>
 			
 				<ul className="list-square">
 			
@@ -414,7 +414,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 
 			<p className="margin-top-20 text-indent-whole"><strong>Giữ nguyên vị trí khung</strong>, <strong>chỉ thay đổi hình thái đóng gói dữ liệu</strong>:</p>
 
-			<p className="text-indent-whole">Biến đổi sang <strong>cấp độ Câu</strong>: [that stock prices will drop]</p>
+			<p className="margin-top-20 text-indent-whole">Biến đổi sang <strong>cấp độ Câu</strong>: [that stock prices will drop]</p>
 			
 				<ul className="list-square">
 			

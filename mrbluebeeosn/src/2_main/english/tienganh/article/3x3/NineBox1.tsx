@@ -22,7 +22,7 @@ export default function NineBox1(): React.JSX.Element {
 				<sup><HashLink smooth to="/tieng-anh/nine-box-1">&nbsp;1&nbsp;</HashLink>
 				</sup>
 
-				<sup><HashLink smooth to="/tieng-anh/nine-box-2">&nbsp;2&nbsp;</HashLink>
+				{/* <sup><HashLink smooth to="/tieng-anh/nine-box-2">&nbsp;2&nbsp;</HashLink>
 				</sup>
 
 				<sup><HashLink smooth to="/tieng-anh/nine-box-3">&nbsp;3&nbsp;</HashLink>
@@ -44,7 +44,7 @@ export default function NineBox1(): React.JSX.Element {
 				</sup>
 
 				<sup><HashLink smooth to="/tieng-anh/nine-box-9">&nbsp;9&nbsp;</HashLink>
-				</sup>
+				</sup> */}
 
 			</h1>
 
@@ -113,11 +113,11 @@ export default function NineBox1(): React.JSX.Element {
 
 			<p className="text-indent-whole">Khi đứng vào các vị trí khác nhau, nó sẽ hình thành nên các chức năng tương ứng:</p>
 
-			<p className="margin-top-20 text-indent-whole">Hình thành Chức năng Danh Cơ [Noun Base]:</p>
+			<p className="margin-top-20 text-indent-whole">Hình thành Chức năng Danh Cơ [Noun Base]: [Programming]</p>
 			
 				<ul className="list-square">
 			
-					<li>[Programming] builds logical thinking.</li>
+					<li>[______] builds logical thinking.</li>
 					<li className="margin-bottom-20 list-none">[Lập trình] xây dựng tư duy logic.</li>
 			
 					<li className="list-none">Hình thái: [Programming] - Động Cơ [Verb Base] đại diện một hạt nhân hành động đơn lẻ kết thúc bằng đuôi "ing".</li>
@@ -127,11 +127,11 @@ export default function NineBox1(): React.JSX.Element {
 				</ul>
 			
 			
-			<p className="margin-top-20 text-indent-whole"><strong>Hình thành Chức năng Tính Cơ</strong> [<strong>Adjective Base</strong>]:</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Hình thành Chức năng Tính Cơ</strong> [<strong>Adjective Base</strong>]: [exciting]</p>
 			
 				<ul className="list-square">
 			
-					<li>The team developed an [exciting] software program.</li>
+					<li>The team developed an [______] software program.</li>
 					<li className="margin-bottom-20 list-none">Đội ngũ đã phát triển một chương trình phần mềm [thú vị].</li>
 			
 					<li className="list-none">Hình thái: [exciting] - Động Cơ [Verb Base] cấu thành từ một hạt nhân hành động đơn lẻ tích hợp cấu hình "ing".</li>
@@ -141,11 +141,11 @@ export default function NineBox1(): React.JSX.Element {
 				</ul>
 			
 			
-			<p className="margin-top-20 text-indent-whole"><strong>Hình thành Chức năng Trạng Cơ</strong> [<strong>Adverb Base</strong>]:</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Hình thành Chức năng Trạng Cơ</strong> [<strong>Adverb Base</strong>]: [pointedly]</p>
 			
 				<ul className="list-square">
 			
-					<li>She writes code [pointedly].</li>
+					<li>She writes code [______].</li>
 					<li className="margin-bottom-20 list-none">Cô ấy viết mã [một cách tập trung].</li>
 			
 					<li className="list-none">Hình thái: [pointedly] - Động Cơ [Verb Base] phát triển từ gốc hành động point thêm đuôi "ly".</li>
@@ -162,11 +162,11 @@ export default function NineBox1(): React.JSX.Element {
 
 			<p className="text-indent-whole">Khi đứng vào câu, khối hình thái này sẽ hình thành nên các chức năng:</p>
 
-			<p className="margin-top-20 text-indent-whole"><strong>Hình thành Chức năng Danh Cụm</strong> [<strong>Noun Phrase</strong>]:</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Hình thành Chức năng Danh Cụm</strong> [<strong>Noun Phrase</strong>]: [upgrade the main server]</p>
 			
 				<ul className="list-square">
 			
-					<li>We intend to [upgrade the main server].</li>
+					<li>We intend to [______].</li>
 					<li className="margin-bottom-20 list-none">Chúng tôi dự định [nâng cấp máy chủ chính].</li>
 			
 					<li className="list-none">Hình thái: [upgrade the main server] - Động Cụm [Verb Phrase] biểu thị một tập hợp các từ xoay quanh hành động chính upgrade.</li>
@@ -176,11 +176,11 @@ export default function NineBox1(): React.JSX.Element {
 				</ul>
 			
 			
-			<p className="margin-top-20 text-indent-whole"><strong>Hình thành Chức năng Tính Cụm</strong> [<strong>Adjective Phrase</strong>]:</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Hình thành Chức năng Tính Cụm</strong> [<strong>Adjective Phrase</strong>]: [running smoothly now]</p>
 			
 				<ul className="list-square">
 			
-					<li>The database is [running smoothly now].</li>
+					<li>The database is [______].</li>
 					<li className="margin-bottom-20 list-none">Cơ sở dữ liệu [đang vận hành mượt mà lúc này].</li>
 			
 					<li className="list-none">Hình thái: [running smoothly now] - Động Cụm [Verb Phrase] thể hiện một khối hành động mở rộng chứa nhiều từ bổ trợ.</li>
@@ -190,11 +190,11 @@ export default function NineBox1(): React.JSX.Element {
 				</ul>
 			
 			
-			<p className="margin-top-20 text-indent-whole"><strong>Hình thành Chức năng Trạng Cụm</strong> [<strong>Adverb Phrase</strong>]:</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Hình thành Chức năng Trạng Cụm</strong> [<strong>Adverb Phrase</strong>]: [to prevent system fraud]</p>
 			
 				<ul className="list-square">
 			
-					<li>They audit the logs [to prevent system fraud].</li>
+					<li>They audit the logs [______].</li>
 					<li className="margin-bottom-20 list-none">Họ kiểm toán các nhật ký hệ thống [để ngăn chặn gian lận hệ thống].</li>
 			
 					<li className="list-none">Hình thái: [to prevent system fraud] - Động Cụm [Verb Phrase] thiết lập một khối hành động chứa cấu trúc chỉ mục đích.</li>
@@ -211,11 +211,11 @@ export default function NineBox1(): React.JSX.Element {
 
 			<p className="text-indent-whole">Khi được "gắn" vào hệ thống, khối hình thái này sẽ hình thành nên các chức năng dữ liệu phức hợp:</p>
 
-			<p className="margin-top-20 text-indent-whole"><strong>Hình thành Chức năng Danh Câu</strong> [<strong>Noun Clause</strong>]:</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Hình thành Chức năng Danh Câu</strong> [<strong>Noun Clause</strong>]: [that the payment succeeded]</p>
 			
 				<ul className="list-square">
 			
-					<li>The system confirms [that the payment succeeded].</li>
+					<li>The system confirms [______].</li>
 					<li className="margin-bottom-20 list-none">Hệ thống xác nhận [rằng việc thanh toán đã thành công].</li>
 			
 					<li className="list-none">Hình thái: [that the payment succeeded] - Động Câu [Verb Clause] tạo nên một module thực thi chứa đầy đủ cấu trúc câu con.</li>
@@ -225,11 +225,11 @@ export default function NineBox1(): React.JSX.Element {
 				</ul>
 			
 			
-			<p className="margin-top-20 text-indent-whole"><strong>Hình thành Chức năng Tính Câu</strong> [<strong>Adjective Clause</strong>]:</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Hình thành Chức năng Tính Câu</strong> [<strong>Adjective Clause</strong>]: [which has a security flaw]</p>
 			
 				<ul className="list-square">
 			
-					<li>The source code [which has a security flaw] must be rewritten.</li>
+					<li>The source code [______] must be rewritten.</li>
 					<li className="margin-bottom-20 list-none">Mã nguồn [mà nó có một lỗ hổng bảo mật] phải được viết lại.</li>
 			
 					<li className="list-none">Hình thái: [which has a security flaw] - Động Câu [Verb Clause] vận hành như một module chứa cấu trúc câu con đứng lồng giữa.</li>
@@ -239,11 +239,11 @@ export default function NineBox1(): React.JSX.Element {
 				</ul>
 			
 			
-			<p className="margin-top-20 text-indent-whole"><strong>Hình thành Chức năng Trạng Câu</strong> [<strong>Adverb Clause</strong>]:</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Hình thành Chức năng Trạng Câu</strong> [<strong>Adverb Clause</strong>]: [wherever the network connects]</p>
 			
 				<ul className="list-square">
 			
-					<li>The software will deploy [wherever the network connects].</li>
+					<li>The software will deploy [______].</li>
 					<li className="margin-bottom-20 list-none">Phần mềm sẽ triển khai [bất cứ nơi nào mạng kết nối].</li>
 			
 					<li className="list-none">Hình thái: [wherever the network connects] - Động Câu [Verb Clause] bao gồm một module chứa cấu trúc câu con biểu thị điều kiện.</li>
@@ -312,11 +312,11 @@ export default function NineBox1(): React.JSX.Element {
 
 			<h4 className="margin-y-40">Nhóm 1: Tịnh tiến ô chức năng DANH (Đối tượng)</h4>
 					
-			<p className="margin-top-20 text-indent-whole"><strong>Mức Cấp độ Cơ</strong>:</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Mức Cấp độ Cơ</strong>: [Automation]</p>
 			
 				<ul className="list-square">
 			
-					<li>[Automation] increases workflow efficiency.</li>
+					<li>[______] increases workflow efficiency.</li>
 					<li className="margin-bottom-20 list-none">[Tự động hóa] tăng hiệu suất quy trình công việc.</li>
 			
 					<li className="list-none">Hình thái: [Automation] - Động Cơ [Verb Base]</li>
@@ -326,11 +326,11 @@ export default function NineBox1(): React.JSX.Element {
 				</ul>
 			
 			
-			<p className="margin-top-20 text-indent-whole"><strong>Mức Cấp độ Cụm</strong>:</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Mức Cấp độ Cụm</strong>: [The deployment of new software tools]</p>
 			
 				<ul className="list-square">
 			
-					<li>[The deployment of new software tools] increases workflow efficiency.</li>
+					<li>[______] increases workflow efficiency.</li>
 					<li className="margin-bottom-20 list-none">[Việc triển khai các công cụ phần mềm mới] tăng hiệu suất quy trình công việc.</li>
 			
 					<li className="list-none">Hình thái: [The deployment of new software tools] - Động Cụm [Verb Phrase]</li>
@@ -340,11 +340,11 @@ export default function NineBox1(): React.JSX.Element {
 				</ul>
 			
 			
-			<p className="margin-top-20 text-indent-whole"><strong>Mức Cấp độ Câu</strong>:</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Mức Cấp độ Câu</strong>: [What the engineering team implemented yesterday]</p>
 			
 				<ul className="list-square">
 			
-					<li>[What the engineering team implemented yesterday] increases workflow efficiency.</li>
+					<li>[______] increases workflow efficiency.</li>
 					<li className="margin-bottom-20 list-none">[Những gì đội ngũ kỹ sư triển khai ngày hôm qua] tăng hiệu suất quy trình công việc.</li>
 			
 					<li className="list-none">Hình thái: [What the engineering team implemented yesterday] - Động Câu [Verb Clause]</li>
@@ -358,11 +358,11 @@ export default function NineBox1(): React.JSX.Element {
 
 			<h4 className="margin-y-40">Nhóm 2: Tịnh tiến ô chức năng TÍNH (Thuộc tính)</h4>
 					
-			<p className="margin-top-20 text-indent-whole"><strong>Mức Cấp độ Cơ</strong>:</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Mức Cấp độ Cơ</strong>: [unsecured]</p>
 			
 				<ul className="list-square">
 			
-					<li>We must replace this [unsecured] connection.</li>
+					<li>We must replace this [______] connection.</li>
 					<li className="margin-bottom-20 list-none">Chúng ta phải thay thế kết nối [không an toàn] này.</li>
 			
 					<li className="list-none">Hình thái: [unsecured] - Động Cơ [Verb Base]</li>
@@ -372,11 +372,11 @@ export default function NineBox1(): React.JSX.Element {
 				</ul>
 			
 			
-			<p className="margin-top-20 text-indent-whole"><strong>Mức Cấp độ Cụm</strong>:</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Mức Cấp độ Cụm</strong>: [vulnerable to cyber threats]</p>
 			
 				<ul className="list-square">
 			
-					<li>We must replace this connection [vulnerable to cyber threats].</li>
+					<li>We must replace this connection [______].</li>
 					<li className="margin-bottom-20 list-none">Chúng ta phải thay thế kết nối [dễ bị tổn hại bởi các mối đe dọa mạng] này.</li>
 			
 					<li className="list-none">Hình thái: [vulnerable to cyber threats] - Động Cụm [Verb Phrase]</li>
@@ -386,11 +386,11 @@ export default function NineBox1(): React.JSX.Element {
 				</ul>
 			
 			
-			<p className="margin-top-20 text-indent-whole"><strong>Mức Cấp độ Câu</strong>:</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Mức Cấp độ Câu</strong>: [which allows unauthorized user access]</p>
 			
 				<ul className="list-square">
 			
-					<li>We must replace this connection [which allows unauthorized user access].</li>
+					<li>We must replace this connection [______].</li>
 					<li className="margin-bottom-20 list-none">Chúng ta phải thay thế kết nối [mà nó cho phép người dùng không được cấp quyền truy cập vào] này.</li>
 			
 					<li className="list-none">Hình thái: [which allows unauthorized user access] - Động Câu [Verb Clause]</li>
@@ -404,11 +404,11 @@ export default function NineBox1(): React.JSX.Element {
 
 			<h4 className="margin-y-40">Nhóm 3: Tịnh tiến ô chức năng TRẠNG (Bối cảnh)</h4>
 					
-			<p className="margin-top-20 text-indent-whole"><strong>Mức Cấp độ Cơ</strong>:</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Mức Cấp độ Cơ</strong>: [automatically]</p>
 			
 				<ul className="list-square">
 			
-					<li>The server updates [automatically].</li>
+					<li>The server updates [______].</li>
 					<li className="margin-bottom-20 list-none">Máy chủ cập nhật [một cách tự động].</li>
 			
 					<li className="list-none">Hình thái: [automatically] - Động Cơ [Verb Base]</li>
@@ -418,11 +418,11 @@ export default function NineBox1(): React.JSX.Element {
 				</ul>
 			
 			
-			<p className="margin-top-20 text-indent-whole"><strong>Mức Cấp độ Cụm</strong>:</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Mức Cấp độ Cụm</strong>: [without any human intervention]</p>
 			
 				<ul className="list-square">
 			
-					<li>The server updates [without any human intervention].</li>
+					<li>The server updates [______].</li>
 					<li className="margin-bottom-20 list-none">Máy chủ cập nhật [mà không cần bất kỳ sự can thiệp nào của con người].</li>
 			
 					<li className="list-none">Hình thái: [without any human intervention] - Động Cụm [Verb Phrase]</li>
@@ -432,11 +432,11 @@ export default function NineBox1(): React.JSX.Element {
 				</ul>
 			
 			
-			<p className="margin-top-20 text-indent-whole"><strong>Mức Cấp độ Câu</strong>:</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Mức Cấp độ Câu</strong>: [whenever a new security patch publishes]</p>
 			
 				<ul className="list-square">
 			
-					<li>The server updates [whenever a new security patch publishes].</li>
+					<li>The server updates [______].</li>
 					<li className="margin-bottom-20 list-none">Máy chủ cập nhật [bất cứ khi nào một bản vá bảo mật mới được phát hành].</li>
 			
 					<li className="list-none">Hình thái: [whenever a new security patch publishes] - Động Câu [Verb Clause]</li>
