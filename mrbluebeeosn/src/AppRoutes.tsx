@@ -344,6 +344,7 @@ const Posts = lazy(() => import('@/data/Posts'));
 
 	// 1. Verbs
 	const Clear = lazy(() => import('@/2_main/english/vocabulary/verb/Clear'));
+	const Respond = lazy(() => import('@/2_main/english/vocabulary/verb/Respond'));
 
 
 
@@ -952,6 +953,7 @@ export default function AppRoutes(): React.JSX.Element {
 
 					{/* 1. Vocabulary - Verbs */}
 					<Route path="/vocabulary/clear" element={<Clear />} />
+					<Route path="/vocabulary/respond" element={<Respond />} />
 
 
 

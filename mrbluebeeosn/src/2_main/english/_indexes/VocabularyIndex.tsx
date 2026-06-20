@@ -110,7 +110,11 @@ export default function VocabularyIndex(): React.JSX.Element {
 					<ul className="list-border1">
 
 						<li>
-							<Link to="/vocabulary/clear">clear</Link> 	
+							<Link to="/vocabulary/clear">clear</Link>
+						</li>
+
+						<li>
+							<Link to="/vocabulary/respond">respond</Link> 	
 						</li>
 
 						
