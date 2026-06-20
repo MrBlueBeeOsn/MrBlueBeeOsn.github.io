@@ -22,7 +22,7 @@ export default function MatrixQuiz(): React.JSX.Element {
 	const questions: Question[] = [
 		{
 			id: 1,
-			question: "[To learn everyday] expands our narrow horizon. \n [Học hỏi mỗi ngày] mở rộng chân trời hạn hẹp của chúng ta.",
+			question: "[______] expands our narrow horizon. \n [Học hỏi mỗi ngày] mở rộng chân trời hạn hẹp của chúng ta.",
 			options: [
 				"[Noun Phrase]",
 				"[Adjective Phrase]"
@@ -32,7 +32,7 @@ export default function MatrixQuiz(): React.JSX.Element {
 		},
 		{
 			id: 2,
-			question: "The [fallen] leaves covered the entire driveway. \n Những chiếc lá [đã rụng] phủ kín cả lối vào xe.",
+			question: "The [______] leaves covered the entire driveway. \n Những chiếc lá [đã rụng] phủ kín cả lối vào xe.",
 			options: [
 				"[Adjective Base]",
 				"[Adverb Base]"
@@ -42,7 +42,7 @@ export default function MatrixQuiz(): React.JSX.Element {
 		},
 		{
 			id: 3,
-			question: "The heavy door flew [open] due to the strong wind. \n Cánh cửa nặng nề đã tung [mở] do cơn gió mạnh.",
+			question: "The heavy door flew [______] due to the strong wind. \n Cánh cửa nặng nề đã tung [mở] do cơn gió mạnh.",
 			options: [
 				"[Adjective Base]",
 				"[Adverb Base]"
@@ -52,7 +52,7 @@ export default function MatrixQuiz(): React.JSX.Element {
 		},
 		{
 			id: 4,
-			question: "[Managing a large international team] requires excellent communication skills. \n [Quản lý một đội ngũ quốc tế lớn] đòi hỏi kỹ năng giao tiếp xuất sắc.",
+			question: "[______] requires excellent communication skills. \n [Quản lý một đội ngũ quốc tế lớn] đòi hỏi kỹ năng giao tiếp xuất sắc.",
 			options: [
 				"[Noun Phrase]",
 				"[Adjective Phrase]"
@@ -62,7 +62,7 @@ export default function MatrixQuiz(): React.JSX.Element {
 		},
 		{
 			id: 5,
-			question: "The book [written by the famous professor] became an overnight bestseller. \n Cuốn sách [được viết bởi vị giáo sư nổi tiếng] đã trở thành sách bán chạy nhất chỉ sau một đêm.",
+			question: "The book [______] became an overnight bestseller. \n Cuốn sách [được viết bởi vị giáo sư nổi tiếng] đã trở thành sách bán chạy nhất chỉ sau một đêm.",
 			options: [
 				"[Noun Phrase]",
 				"[Adjective Phrase]"
@@ -72,7 +72,7 @@ export default function MatrixQuiz(): React.JSX.Element {
 		},
 		{
 			id: 6,
-			question: "He stayed up all night [to finish his graduation thesis]. \n Anh ấy đã thức cả đêm [để hoàn thành luận văn tốt nghiệp của mình].",
+			question: "He stayed up all night [______]. \n Anh ấy đã thức cả đêm [để hoàn thành luận văn tốt nghiệp của mình].",
 			options: [
 				"[Noun Phrase]",
 				"[Adverb Phrase]"
@@ -82,7 +82,7 @@ export default function MatrixQuiz(): React.JSX.Element {
 		},
 		{
 			id: 7,
-			question: "The clean laboratory [where they conduct medical experiments] is highly secured. \n Phòng thí nghiệm sạch sẽ [nơi họ tiến hành các thí nghiệm y tế] được bảo mật rất cao.",
+			question: "The clean laboratory [______] is highly secured. \n Phòng thí nghiệm sạch sẽ [nơi họ tiến hành các thí nghiệm y tế] được bảo mật rất cao.",
 			options: [
 				"[Adjective Clause]",
 				"[Noun Clause]"
@@ -92,7 +92,7 @@ export default function MatrixQuiz(): React.JSX.Element {
 		},
 		{
 			id: 8,
-			question: "[Although the team faced severe budget cuts], they successfully completed the project. \n [Mặc dù đội ngũ phải đối mặt với việc cắt giảm ngân sách nghiêm trọng], họ đã hoàn thành dự án một cách thành công.",
+			question: "[______], they successfully completed the project. \n [Mặc dù đội ngũ phải đối mặt với việc cắt giảm ngân sách nghiêm trọng], họ đã hoàn thành dự án một cách thành công.",
 			options: [
 				"[Noun Clause]",
 				"[Adverb Clause]"
@@ -102,7 +102,7 @@ export default function MatrixQuiz(): React.JSX.Element {
 		},
 		{
 			id: 9,
-			question: "I [love {learning complex grammar structures}]. \n Tôi [yêu thích việc {học các cấu trúc ngữ pháp phức tạp}].",
+			question: "I [______]. \n Tôi [yêu thích việc {học các cấu trúc ngữ pháp phức tạp}].",
 			options: [
 				"[Noun Phrase]",
 				"[Nested Noun Phrase]"
@@ -112,7 +112,7 @@ export default function MatrixQuiz(): React.JSX.Element {
 		},
 		{
 			id: 10,
-			question: "The board members [suggested {that we postpone the corporate audit}]. \n Các thành viên ban quản trị [đã đề xuất {rằng chúng ta hoãn lại việc kiểm toán công ty}].",
+			question: "The board members [______]. \n Các thành viên ban quản trị [đã đề xuất {rằng chúng ta hoãn lại việc kiểm toán công ty}].",
 			options: [
 				"[Nested Noun Phrase]",
 				"[Noun Clause]"

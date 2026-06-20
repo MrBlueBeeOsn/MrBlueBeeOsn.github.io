@@ -22,7 +22,7 @@ export default function EVMatrixQuiz(): React.JSX.Element {
 	const questions: Question[] = [
 		{
 			id: 1,
-			question: "The girl [sitting by the window] is my cousin. \n Cô gái [đang ngồi cạnh cửa sổ] là em họ của tôi.",
+			question: "The girl [______] is my cousin. \n Cô gái [đang ngồi cạnh cửa sổ] là em họ của tôi.",
 			options: [
 				"[Noun Phrase]",
 				"[Adjective Phrase]"
@@ -32,7 +32,7 @@ export default function EVMatrixQuiz(): React.JSX.Element {
 		},
 		{
 			id: 2,
-			question: "[To learn a new language] requires a lot of patience. \n [Việc học một ngôn ngữ mới] đòi hỏi rất nhiều sự kiên nhẫn.",
+			question: "[______] requires a lot of patience. \n [Việc học một ngôn ngữ mới] đòi hỏi rất nhiều sự kiên nhẫn.",
 			options: [
 				"[Noun Phrase]",
 				"[Adverb Phrase]"
@@ -42,7 +42,7 @@ export default function EVMatrixQuiz(): React.JSX.Element {
 		},
 		{
 			id: 3,
-			question: "She always opens the window [to let in some fresh air]. \n Cô ấy luôn mở cửa sổ [để không khí trong lành bay vào].",
+			question: "She always opens the window [______]. \n Cô ấy luôn mở cửa sổ [để không khí trong lành bay vào].",
 			options: [
 				"[Adjective Phrase]",
 				"[Adverb Phrase]"
@@ -52,7 +52,7 @@ export default function EVMatrixQuiz(): React.JSX.Element {
 		},
 		{
 			id: 4,
-			question: "The book [that you lent me yesterday] is fascinating. \n Cuốn sách [mà bạn cho tôi mượn ngày hôm qua] thật thú vị.",
+			question: "The book [______] is fascinating. \n Cuốn sách [mà bạn cho tôi mượn ngày hôm qua] thật thú vị.",
 			options: [
 				"[Noun Clause]",
 				"[Adjective Clause]"
@@ -62,7 +62,7 @@ export default function EVMatrixQuiz(): React.JSX.Element {
 		},
 		{
 			id: 5,
-			question: "I don't [know {what we should do next}]. \n Tôi không [biết {điều chúng ta nên làm tiếp theo}].",
+			question: "I don't [______]. \n Tôi không [biết {điều chúng ta nên làm tiếp theo}].",
 			options: [
 				"[Noun Phrase]",
 				"[Nested Noun Phrase]"
@@ -72,7 +72,7 @@ export default function EVMatrixQuiz(): React.JSX.Element {
 		},
 		{
 			id: 6,
-			question: "They will leave [as soon as the rain stops]. \n Họ sẽ rời đi [ngay khi cơn mưa tạnh].",
+			question: "They will leave [______]. \n Họ sẽ rời đi [ngay khi cơn mưa tạnh].",
 			options: [
 				"[Adjective Clause]",
 				"[Adverb Clause]"
@@ -82,7 +82,7 @@ export default function EVMatrixQuiz(): React.JSX.Element {
 		},
 		{
 			id: 7,
-			question: "The [broken] vase could not be repaired. \n Chiếc bình [bị vỡ] đã không thể sửa chữa được.",
+			question: "The [______] vase could not be repaired. \n Chiếc bình [bị vỡ] đã không thể sửa chữa được.",
 			options: [
 				"[Adjective Base]",
 				"[Adjective Phrase]"
@@ -92,7 +92,7 @@ export default function EVMatrixQuiz(): React.JSX.Element {
 		},
 		{
 			id: 8,
-			question: "He made his younger brother [cry]. \n Anh ấy đã làm cho em trai mình [khóc].",
+			question: "He made his younger brother [______]. \n Anh ấy đã làm cho em trai mình [khóc].",
 			options: [
 				"[Noun Base]",
 				"[Adjective Base]"
@@ -102,7 +102,7 @@ export default function EVMatrixQuiz(): React.JSX.Element {
 		},
 		{
 			id: 9,
-			question: "The team practiced hard [to win] the championship. \n Toàn đội đã luyện tập chăm chỉ [để giành được] chức vô địch.",
+			question: "The team practiced hard [______] the championship. \n Toàn đội đã luyện tập chăm chỉ [để giành được] chức vô địch.",
 			options: [
 				"[Adverb Base]",
 				"[Adverb Phrase]"
@@ -112,7 +112,7 @@ export default function EVMatrixQuiz(): React.JSX.Element {
 		},
 		{
 			id: 10,
-			question: "[Smoking] is strictly prohibited in this hospital. \n [Việc hút thuốc] bị nghiêm cấm hoàn toàn trong bệnh viện này.",
+			question: "[______] is strictly prohibited in this hospital. \n [Việc hút thuốc] bị nghiêm cấm hoàn toàn trong bệnh viện này.",
 			options: [
 				"[Noun Base]",
 				"[Noun Phrase]"

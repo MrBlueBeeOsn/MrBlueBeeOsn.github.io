@@ -22,7 +22,7 @@ export default function (): React.JSX.Element {
 	const questions: Question[] = [
 		{
 			id: 1,
-			question: "[Recording every business transaction] is the fundamental task of a bookkeeper. \n [Ghi chép mọi giao dịch kinh doanh] là nhiệm vụ cơ bản của một người làm sổ sách.",
+			question: "[______] is the fundamental task of a bookkeeper. \n [Ghi chép mọi giao dịch kinh doanh] là nhiệm vụ cơ bản của một người làm sổ sách.",
 			options: [
 				"[Noun Clause]",
 				"[Noun Phrase]"
@@ -32,7 +32,7 @@ export default function (): React.JSX.Element {
 		},
 		{
 			id: 2,
-			question: "The bookkeeper provided the [adjusting] entries for the month-end reports. \n Người làm sổ sách đã cung cấp các bút toán [điều chỉnh] cho các báo cáo cuối tháng.",
+			question: "The bookkeeper provided the [______] entries for the month-end reports. \n Người làm sổ sách đã cung cấp các bút toán [điều chỉnh] cho các báo cáo cuối tháng.",
 			options: [
 				"[Adjective Base]",
 				"[Adverb Base]"
@@ -42,7 +42,7 @@ export default function (): React.JSX.Element {
 		},
 		{
 			id: 3,
-			question: "The clerk worked [calculating the total payroll for the staff]. \n Nhân viên đã làm việc [tính toán tổng lương cho đội ngũ nhân sự].",
+			question: "The clerk worked [______]. \n Nhân viên đã làm việc [tính toán tổng lương cho đội ngũ nhân sự].",
 			options: [
 				"[Adverb Clause]",
 				"[Adverb Phrase]"
@@ -52,7 +52,7 @@ export default function (): React.JSX.Element {
 		},
 		{
 			id: 4,
-			question: "[To maintain accurate financial records] requires constant attention to detail. \n [Để duy trì các hồ sơ tài chính chính xác] đòi hỏi sự chú ý liên tục đến từng chi tiết.",
+			question: "[______] requires constant attention to detail. \n [Để duy trì các hồ sơ tài chính chính xác] đòi hỏi sự chú ý liên tục đến từng chi tiết.",
 			options: [
 				"[Noun Phrase]",
 				"[Noun Clause]"
@@ -62,7 +62,7 @@ export default function (): React.JSX.Element {
 		},
 		{
 			id: 5,
-			question: "The ledger [containing all the credit sales] is kept in the safe. \n Cuốn sổ cái [chứa tất cả các khoản bán hàng ghi nợ] được cất giữ trong két sắt.",
+			question: "The ledger [______] is kept in the safe. \n Cuốn sổ cái [chứa tất cả các khoản bán hàng ghi nợ] được cất giữ trong két sắt.",
 			options: [
 				"[Adjective Clause]",
 				"[Adjective Phrase]"
@@ -72,7 +72,7 @@ export default function (): React.JSX.Element {
 		},
 		{
 			id: 6,
-			question: "We use specialized software [to automate the bookkeeping process]. \n Chúng tôi sử dụng phần mềm chuyên dụng [để tự động hóa quy trình ghi chép sổ sách].",
+			question: "We use specialized software [______]. \n Chúng tôi sử dụng phần mềm chuyên dụng [để tự động hóa quy trình ghi chép sổ sách].",
 			options: [
 				"[Adverb Phrase]",
 				"[Adverb Clause]"
@@ -82,7 +82,7 @@ export default function (): React.JSX.Element {
 		},
 		{
 			id: 7,
-			question: "[Finalizing {what the auditors requested} on time] pleased the manager. \n [Hoàn tất {những gì các kiểm toán viên yêu cầu} đúng hạn] đã làm hài lòng người quản lý.",
+			question: "[______] pleased the manager. \n [Hoàn tất {những gì các kiểm toán viên yêu cầu} đúng hạn] đã làm hài lòng người quản lý.",
 			options: [
 				"[Noun Clause]",
 				"[Nested Noun Phrase]"
@@ -92,7 +92,7 @@ export default function (): React.JSX.Element {
 		},
 		{
 			id: 8,
-			question: "The manager realized [that the bookkeeper made a serious error]. \n Người quản lý đã nhận ra [rằng người làm sổ sách đã mắc một sai lầm nghiêm trọng].",
+			question: "The manager realized [______]. \n Người quản lý đã nhận ra [rằng người làm sổ sách đã mắc một sai lầm nghiêm trọng].",
 			options: [
 				"[Noun Phrase]",
 				"[Noun Phrase]"
@@ -102,7 +102,7 @@ export default function (): React.JSX.Element {
 		},
 		{
 			id: 9,
-			question: "The accountant [who audits our books every year] is very thorough. \n Người kế toán, [người mà kiểm toán sổ sách của chúng tôi hàng năm], rất kỹ lưỡng.",
+			question: "The accountant [______] is very thorough. \n Người kế toán, [người mà kiểm toán sổ sách của chúng tôi hàng năm], rất kỹ lưỡng.",
 			options: [
 				"[Adjective Phrase]",
 				"[Adjective Clause]"
@@ -112,7 +112,7 @@ export default function (): React.JSX.Element {
 		},
 		{
 			id: 10,
-			question: "[Because the tax laws changed recently], we must update our methods. \n [Vì luật thuế đã thay đổi gần đây], chúng tôi phải cập nhật các phương pháp của mình.",
+			question: "[______], we must update our methods. \n [Vì luật thuế đã thay đổi gần đây], chúng tôi phải cập nhật các phương pháp của mình.",
 			options: [
 				"[Adverb Clause]",
 				"[Adverb Phrase]"
