@@ -3871,6 +3871,17 @@
       "date": "2026-06-19",
       "views": 0,
       "likes": 0
+    },
+    {
+      "id": "Respond",
+      "categoryDisplay": "Phản hồi",
+      "categorySlug": "vocabulary#verbs-terms",
+      "title": "Respond",
+      "content": "Hình thái: [respond] - Động Cơ [Verb Base] nguyên mẫu, làm hành động chính tác động lên thành phần chịu tác động \"this email\".",
+      "slug": "vocabulary/respond",
+      "date": "2026-06-20",
+      "views": 0,
+      "likes": 0
     }
   ]
 }
