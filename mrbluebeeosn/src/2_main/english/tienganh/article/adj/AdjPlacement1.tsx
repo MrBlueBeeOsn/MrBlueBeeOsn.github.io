@@ -166,7 +166,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 
 			<h4 className="margin-y-40">Danh Cơ + Tính Câu Dạng OSV (Mô tả chi tiết)</h4>
 
-			<p className="margin-top-20 text-indent-whole">Đây là cấu trúc kinh điển và xuất hiện nhiều nhất khi giao tiếp. Khi muốn mô tả một nội dung phức tạp hơn, người bản ngữ sẽ đặt một Tính Câu có cấu trúc OSV ngay sau Danh Cơ theo công thức:</p>
+			<p className="margin-top-20 text-indent-whole">Đây là cấu trúc kinh điển và xuất hiện nhiều nhất khi giao tiếp. Khi muốn mô tả một nội dung phức tạp hơn, người bản ngữ sẽ đặt một Tính Câu có cấu trúc <strong>OSV</strong> ngay sau Danh Cơ theo công thức:</p>
 					
 			<p className="margin-top-20 text-indent-whole">Danh Cơ + [O (Who/That/Which) + S (Thành phần thực hiện) + V (Hành động)]</p>
 
@@ -174,14 +174,14 @@ export default function AdjPlacement1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>The house [which (O) they (S) rented (V)] is historical.</li>
-					<li className="margin-bottom-20 list-none">Ngôi nhà [cái mà (O) họ (S) đã thuê (V)] mang tính lịch sử.</li>
+					<li>The <strong>house</strong> [which (O) they (S) rented (V)] is historical.</li>
+					<li className="margin-bottom-20 list-none">Ngôi <strong>nhà</strong> [cái mà (O) họ (S) đã thuê (V)] mang tính lịch sử.</li>
 			
-					<li>The project [that (O) she (S) managed (V)] won an award.</li>
-					<li className="margin-bottom-20 list-none">Dự án [cái mà (O) cô ấy (S) quản lý (V)] đã đạt giải thưởng.</li>
+					<li>The <strong>project</strong> [that (O) she (S) managed (V)] won an award.</li>
+					<li className="margin-bottom-20 list-none">Dự <strong>án</strong> [cái mà (O) cô ấy (S) quản lý (V)] đã đạt giải thưởng.</li>
 			
-					<li>The actor [whom (O) you (S) met (V)] is very famous.</li>
-					<li className="list-none">Nam diễn viên [người mà (O) bạn (S) đã gặp (V)] rất nổi tiếng.</li>
+					<li>The <strong>actor</strong> [whom (O) you (S) met (V)] is very famous.</li>
+					<li className="list-none">Nam <strong>diễn viên</strong> [người mà (O) bạn (S) đã gặp (V)] rất nổi tiếng.</li>
 			
 				</ul>
 			
@@ -189,18 +189,18 @@ export default function AdjPlacement1(): React.JSX.Element {
 
 			<h4 className="margin-y-40">Mẹo văn nói hàng ngày (Lược bỏ O)</h4>
 					
-			<p className="margin-top-20 text-indent-whole">Trong giao tiếp tự nhiên, người bản ngữ cực kỳ chuộng việc nuốt luôn chữ O (which/that/who). Khi đó cấu trúc câu trở nên cực kỳ tinh gọn: Danh Cơ + [S + V].</p>
+			<p className="margin-top-20 text-indent-whole">Trong giao tiếp tự nhiên, người bản ngữ cực kỳ chuộng việc nuốt luôn chữ O (which/that/who). Khi đó cấu trúc câu trở nên cực kỳ tinh gọn: <strong>Danh Cơ</strong> + [<strong>S</strong> + <strong>V</strong>].</p>
 			
 				<ul className="list-square">
 			
-					<li>The house [they (S) rented (V)] is historical.</li>
-					<li className="margin-bottom-20 list-none">Ngôi nhà [họ (S) đã thuê (V)] mang tính lịch sử.</li>
+					<li>The <strong>house</strong> [they (S) rented (V)] is historical.</li>
+					<li className="margin-bottom-20 list-none">Ngôi <strong>nhà</strong> [họ (S) đã thuê (V)] mang tính lịch sử.</li>
 			
-					<li>The project [she (S) managed (V)] won an award.</li>
-					<li className="margin-bottom-20 list-none">Dự án [cái mà (O) cô ấy (S) quản lý (V)] đã đạt giải thưởng.</li>
+					<li>The <strong>project</strong> [she (S) managed (V)] won an award.</li>
+					<li className="margin-bottom-20 list-none">Dự <strong>án</strong> [cái mà (O) cô ấy (S) quản lý (V)] đã đạt giải thưởng.</li>
 			
-					<li>The movie [we (S) watched (V)] was boring.</li>
-					<li className="list-none">Bộ phim [chúng tôi (S) đã xem (V)] rất tẻ nhạt.</li>
+					<li>The <strong>movie</strong> [we (S) watched (V)] was boring.</li>
+					<li className="list-none">Bộ <strong>phim</strong> [chúng tôi (S) đã xem (V)] tẻ nhạt.</li>
 			
 				</ul>
 			

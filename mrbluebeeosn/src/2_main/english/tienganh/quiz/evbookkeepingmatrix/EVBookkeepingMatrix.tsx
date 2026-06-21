@@ -94,7 +94,7 @@ export default function (): React.JSX.Element {
 			id: 8,
 			question: "The manager realized [______]. \n Người quản lý đã nhận ra [rằng người làm sổ sách đã mắc một sai lầm nghiêm trọng].",
 			options: [
-				"[Noun Phrase]",
+				"[Noun Clause]",
 				"[Noun Phrase]"
 			],
 			correctAnswer: 0,
@@ -118,7 +118,7 @@ export default function (): React.JSX.Element {
 				"[Adverb Phrase]"
 			],
 			correctAnswer: 0,
-			explanation: "Hình thái: [Because the tax laws changed recently] - Động Câu [Verb Clause] bắt đầu bằng thành phần liên kết \"Because\", có chứa chủ thể \"the tax laws\" và hành động \"changed\" xác định theo thời quá khứ. \n\n Chức năng: [Because the tax laws changed recently] - Trạng Câu [Adverb Clause] đứng độc lập đứng ra bổ nghĩa cho toàn bộ phần còn lại theo góc độ nguyên nhân."
+			explanation: "[Because the tax laws changed recently] - Động Câu [Verb Clause] bắt đầu bằng thành phần liên kết \"Because\", có chứa chủ thể \"the tax laws\" và hành động \"changed\" xác định theo thời quá khứ. \n\n Chức năng: [Because the tax laws changed recently] - Trạng Câu [Adverb Clause] đứng độc lập đứng ra bổ nghĩa cho toàn bộ phần còn lại theo góc độ nguyên nhân."
 		}
 	];
 
