@@ -25,7 +25,7 @@ export default function AdjPlacement2(): React.JSX.Element {
 				<sup><HashLink smooth to="/tieng-anh/adj-placement-2">&nbsp;2&nbsp;</HashLink>
 				</sup>
 
-				<sup><HashLink smooth to="/tieng-anh/adj-placement-3">&nbsp;3&nbsp;</HashLink>
+				{/* <sup><HashLink smooth to="/tieng-anh/adj-placement-3">&nbsp;3&nbsp;</HashLink>
 				</sup>
 
 				<sup><HashLink smooth to="/tieng-anh/adj-placement-4">&nbsp;4&nbsp;</HashLink>
@@ -44,331 +44,79 @@ export default function AdjPlacement2(): React.JSX.Element {
 				</sup>
 
 				<sup><HashLink smooth to="/tieng-anh/adj-placement-9">&nbsp;9&nbsp;</HashLink>
-				</sup>
+				</sup> */}
 
 			</h1>
 
-			<h4 className="margin-bottom-30 text-center">Bộ ba câu con thầm lặng: Tại sao người Việt lại có lợi thế ngầm trước cả khu vực?</h4>
+			<h4 className="margin-bottom-30 text-center">"Danh – Tính – Trạng" và ba cấp độ "Cơ – Cụm – Câu": Bí mật người Việt đã có sẵn để làm chủ tiếng Anh</h4>
 
-			<p className="margin-top-20"></p>
-			
-				<ul className="list-square">
-			
-					<li>Bạn có bao giờ tự hỏi:</li>
-					<li className="margin-bottom-20 list-none">Điều gì thực sự khiến người Việt chúng ta chậm tiến hơn trong tiếng Anh?</li>
-			
-					<li>Hàng triệu người sẽ trả lời:</li>
-					<li className="list-none">“Tại tính cơ cứ phải đứng trước danh cơ"</li>
-			
-				</ul>
-			
-			<p className="margin-top-20">Trong khi mình lại quen nói ‘nhà đẹp’ chứ không phải ‘đẹp nhà’.</p>
-
-			<p>Nghe có lý.</p>
-
-			<p>Nhưng đó mới chỉ là bề nổi của tảng băng.</p>
-
-			<p>Và mình sẽ cho bạn thấy: ẩn sâu bên dưới, người Việt lại đang sở hữu một lợi thế cực kỳ hiếm có – thứ mà cả Thái Lan, Indonesia, Philippines cũng phải mơ ước.</p>
-			
-			<p>Hãy cùng mình lật ngược vấn đề.</p>
 			
 
 			{/* 1.  */}
 
-			<h3 className="margin-y-50 text-center">1. Hai nguyên lý vàng để không bao giờ nhầm vị trí</h3>
-
-			<p>Trước hết, cần ghi nhớ hai điều này. Chúng cực ngắn, cực dễ, nhưng thay đổi toàn bộ tư duy:</p>
-			
-				<ol>
-			
-					<li value="1"><strong>Danh cơ đứng trước tính cơ</strong></li>
-					<li className="margin-bottom-20 list-none">Để NHẤN MẠNH <strong>danh cơ</strong> (<strong>đối tượng</strong>).</li>
-			
-					<li value="2"><strong>Tính cơ đứng trước danh cơ</strong></li>
-					<li className="list-none">Để NHẤN MẠNH <strong>tính cơ</strong> (<strong>đặc điểm</strong>).</li>
-			
-				</ol>
-			
-			<p className="margin-top-20">Hãy hình dung:</p>
-			
-				<ul className="list-square">
-			
-					<li>Khi bạn muốn nói về “cái cây” trước, sau đó mới thêm “cao”, “xanh”, “tôi đã trồng năm ngoái”</li>
-					<li className="margin-bottom-20 list-none">Bạn đang nhấn mạnh cái cây</li>
-			
-					<li>Khi bạn nói “một cái cây cao” với tính cơ kèm ngay trước danh cơ</li>
-					<li className="list-none">Bạn đang nhấn mạnh chiều cao</li>
-			
-				</ul>
-			
-			<p className="margin-top-20">Tiếng Việt của ta nghiêng hẳn về vế thứ nhất: </p>
-
-			<p className="margin-y-20"><strong>Nhấn mạnh danh cơ</strong>, <strong>mô tả sau</strong>.</p>
-
-			<p>Và đây chính là chìa khóa.</p>
-
+			<h3 className="margin-y-50 text-center">1. Bạn có từng nghĩ: "Sao tiếng Anh lộn xộn thế?"</h3>
 
 			{/* 2.  */}
 
-			<h3 className="margin-y-50 text-center">2. Sự thật ít ai dám nói: người bản ngữ dùng danh cơ trước tính cơ rất nhiều</h3>
-
-			<p>Sách giáo khoa thường dạy bạn hai mẫu câu duy nhất:</p>
-
-			<p className="margin-top-20"><strong>Tính cơ trước danh cơ</strong></p>
-			
-				<ul className="list-square">
-			
-					<li>A beautiful house.</li>
-					<li className="margin-bottom-20 list-none">Một ngôi nhà đẹp</li>
-
-					<li className="list-none">Đây là một danh cụm.</li>
-			
-				</ul>
-
-			<p className="margin-top-20"><strong>Tính cơ sau</strong> “<strong>to be</strong>”</p>
-			
-				<ul className="list-square">
-			
-					<li>The house is beautiful.</li>
-					<li className="margin-bottom-20 list-none">Ngôi nhà thì đẹp.</li>
-
-					<li className="list-none">Đây là một câu hoàn chỉnh.</li>
-			
-				</ul>
-			
-			<p className="margin-top-20">Rồi ai cũng mắc kẹt ở đó. Nhưng hãy bước ra khỏi lớp học, đến với các bài báo, bài luận, các cuộc tranh luận thực tế của người Mỹ hay Anh.</p>
-
-			<p>Bạn sẽ thấy họ viết hàng trăm câu dạng này:</p>
-			
-				<ul className="list-square">
-			
-					<li>The man <strong>who helped me yesterday</strong> is my uncle.</li>
-					<li className="margin-bottom-20 list-none">Người đàn ông <strong>người mà đã giúp tôi ngày hôm qua</strong> là chú/bác của tôi.</li>
-			
-					<li>The book <strong>I borrowed from the library</strong> is a masterpiece.</li>
-					<li className="margin-bottom-20 list-none">Cuốn sách <strong>mà tôi mượn từ thư viện</strong> là một kiệt tác.</li>
-			
-					<li>A person <strong>who never gives up</strong> will eventually succeed.</li>
-					<li className="list-none">Một người người mà không bao giờ bỏ cuộc cuối cùng sẽ thành công.</li>
-			
-				</ul>
-			
-			<p className="margin-top-20">Hãy dịch sang tiếng Việt</p>
-
-			<p>Bạn thấy không? Trật tự y hệt tiếng Việt:</p>
-
-			<p className="margin-y-20"><strong>Danh cơ</strong> → <strong>Câu con mô tả</strong>.</p>
-
-			<p>Trong tiếng Anh, phần mô tả ấy được gọi là <strong>Adjective Clause</strong> – câu con tính cơ.</p>
-
-			<p>Nó làm một nhiệm vụ duy nhất: bổ nghĩa cho danh cơ đứng trước. Và nó chiếm một tỷ lệ áp đảo trong văn nói và văn viết thực tế.</p>
-
-			<h4 className="margin-y-40">Vậy thì nỗi sợ đến từ đâu?</h4>
-
-			<p>Đến từ một cái tên mơ hồ, rối rắm mà sách giáo khoa cũ cố nhồi nhét vào đầu bạn. mình sẽ không nhắc đến cái tên đó ở đây. Hãy quên nó đi.</p>
-
-			<p>Chỉ cần nhớ: <strong>Adjective Clause</strong> – <strong>câu con tính cơ</strong>, <strong>đứng sau danh cơ</strong>, <strong>giống như tiếng Việt</strong>.</p>
+			<h3 className="margin-y-50 text-center">2. Hệ thống thuật ngữ song ngữ: Việt – Anh</h3>
 
 			{/* 3.  */}
 
-			<h3 className="margin-y-50 text-center">3. Khi bạn thực sự làm chủ được Adjective Clause, cánh cửa của bộ ba câu con mở ra</h3>
-
-			<p>Người bản ngữ xây dựng mọi câu phức tạp bằng <strong>ba loại câu con trụ cột</strong>.</p>
-
-			<p>Và tin vui là: một khi bạn đã thấm nhuần cách dùng Adjective Clause, hai câu con còn lại sẽ không còn gì đáng sợ.</p>
-
-			<p>Hãy cùng điểm qua ba câu con ấy – bộ khung xương của mọi tư duy tiếng Anh đẳng cấp.</p>
-
-			<h4 className="margin-y-40">1. Adjective Clause – Câu con tính cơ (lợi thế của người Việt)</h4>
-			
-				<ul className="list-square">
-			
-					<li><strong>Cấu trúc</strong>:</li>
-					<li className="margin-bottom-20 list-none">Danh cơ + (who/which/that/where/when...) + mô tả</li>
-			
-					<li><strong>Vai trò</strong>:</li>
-					<li className="margin-bottom-20 list-none">Đóng vai trò như một tính cơ, bổ nghĩa cho danh cơ đứng trước.</li>
-			
-					<li><strong>Tần suất</strong>:</li>
-					<li className="list-none">Cực kỳ phổ biến trong văn viết, hùng biện, học thuật.</li>
-			
-				</ul>
-
-			<p className="margin-top-20 text-indent-whole">Ví dụ đỉnh cao:</p>
-			
-				<ul className="list-square">
-			
-					<li>The decision <strong> that changed my entire life</strong> came at 5 PM.</li>
-					<li className="list-none">Quyết định <strong>cái mà đã thay đổi toàn bộ cuộc đời tôi</strong> đến vào lúc 5 giờ chiều.</li>
-			
-				</ul>
-			
-			<p className="margin-top-20 text-indent-whole">Hoàn toàn giống tiếng Việt: danh cơ → câu con dài</p>
-
-
-			<h4 className="margin-y-40">2. Adverbial Clause – Trạng câu (mượn tư duy từ Adjective Clause)</h4>
-
-			<p className="margin-top-20"></p>
-			
-				<ul className="list-square">
-			
-					<li><strong> Cấu trúc</strong> :</li>
-					<li className="margin-bottom-20 list-none">Liên cơ (because, although, when, if, while...) + chủ ngữ + động cơ</li>
-			
-					<li><strong> Vai trò</strong> :</li>
-					<li className="margin-bottom-20 list-none">Bổ nghĩa cho động cơ chính, chỉ thời gian, lý do, điều kiện, sự tương phản.</li>
-			
-					<li><strong> Bí mật</strong> :</li>
-					<li className="list-none">Một khi đã quen với việc "ghép một câu con vào sau một thành phần chính" trong Adjective Clause, bạn sẽ thấy Adverbial Clause còn dễ hơn – vì nó không nhất thiết phải đứng ngay sau danh cơ, có thể linh hoạt đầu hoặc cuối câu.</li>
-			
-				</ul>
-					
-			<p className="margin-top-20 text-indent-whole">Ví dụ:</p>
-			
-				<ul className="list-square">
-			
-					<li>Because I understood the Adjective Clause, I started writing better.</li>
-					<li className="list-none">Bởi vì tôi hiểu câu con tính cơ, tôi bắt đầu viết tốt hơn.</li>
-			
-				</ul>
-			
-			<p className="margin-top-20 text-indent-whole">Bạn thấy không? Trật tự trong tiếng Việt cũng y hệt: lý do → kết quả.</p>
-
-
-			<h4 className="margin-y-40">3. Noun Clause – Danh câu (viên ngọc quý của sự tinh tế)</h4>
-
-			<p className="margin-top-20"></p>
-			
-				<ul className="list-square">
-			
-					<li><strong> Cấu trúc</strong> :</li>
-					<li className="margin-bottom-20 list-none">(What, That, Whether, Who...) + chủ ngữ + động cơ</li>
-			
-					<li><strong> Vai trò</strong> :</li>
-					<li className="margin-bottom-20 list-none">Đóng vai trò như một danh cơ: có thể là chủ ngữ, tân ngữ, hoặc bổ ngữ của câu.</li>
-			
-					<li><strong> Điều thú vị</strong> :</li>
-					<li className="list-none">Trong tiếng Việt, chúng ta cũng nói y hệt: "Điều tôi cần là sự kiên nhẫn" – danh cơ "điều tôi cần" đứng đầu câu.</li>
-			
-				</ul>
-					
-			<p className="margin-top-20 text-indent-whole">Ví dụ:</p>
-			
-				<ul className="list-square">
-			
-					<li><strong> What you need</strong>  is more practice.</li>
-					<li className="margin-bottom-20 list-none"><strong> Điều bạn cần</strong>  là luyện tập thêm.</li>
-
-					<li className="margin-bottom-20 list-none">→ Noun clause làm chủ ngữ</li>
-			
-					<li>I believe <strong> that everyone can improve</strong> .</li>
-					<li className="margin-bottom-20 list-none">Tôi tin <strong> rằng mọi người đều có thể tiến bộ</strong> .</li>
-
-					<li className="list-none">→ Noun clause làm tân ngữ</li>
-			
-				</ul>
-			
-			<p className="margin-top-20"></p>
-			
-			
+			<h3 className="margin-y-50 text-center">3. Hai nguyên lý nhấn mạnh – không bao giờ lạc vị trí</h3>
 
 			{/* 4.  */}
 
-			<h3 className="margin-y-50 text-center">4. Người Việt đang đứng ở vị trí nào trong khu vực?</h3>
+			<h3 className="margin-y-50 text-center">4. Ba chức năng – Ba cấp độ qua ví dụ cụ thể</h3>
 
-			<p>Hãy nhìn sang các nước Đông Nam Á khác:</p>
-			
-				<ul className="list-square">
-			
-					<li>Người Thái, người Lào, người Khmer nói ngôn ngữ mà trật tự cú pháp rất khác với Adjective Clause. Họ phải mất nhiều năm để quen với việc "danh cơ + câu con bổ nghĩa sau".</li>
-			
-					<li>Người Indonesia, Philippines cũng không có sẵn tư duy đó trong tiếng mẹ đẻ.</li>
-			
-				</ul>
-			
-			<p className="margin-top-20">Riêng người Việt – nhờ cấu trúc <strong> danh cơ đứng trước</strong> , <strong> mọi bổ nghĩa đứng sau</strong>  – đã có sẵn trong máu trật tự của Adjective Clause.</p>
-
-			<p>Nói cách khác: Người Việt sinh ra đã có <strong> lợi thế cạnh tranh</strong>  trong việc làm chủ <strong> câu con tính cơ</strong>  – <strong> loại câu con xuất hiện nhiều nhất trong mọi văn bản tiếng Anh đẳng cấp</strong> .</p>
-
-			<p>Chỉ tiếc rằng, lâu nay chúng ta bị che mắt bởi những cái tên sách vở, sợ hãi những câu dài mà không biết rằng mình đã thuộc nằm lòng cách sắp xếp ấy từ nhỏ.</p>
 
 			{/* 5.  */}
 
-			<h3 className="margin-y-50 text-center">5. Làm thế nào để biến lợi thế thành sức mạnh thật sự?</h3>
+			<h3 className="margin-y-50 text-center">5. 🧠 TƯ DUY ĐẶT CÂU CỐT LÕI CỦA NGƯỜI BẢN XỨ: DANH CƠ + TÍNH CỤM / TÍNH CÂU</h3>
 
-			<p>Rất đơn giản. Bạn chỉ cần luyện tập ba bước, mỗi ngày 5 phút.</p>
+			{/* 6.  */}
 
-			<h4 className="margin-y-40">Bước 1 – Viết Adjective Clause:</h4>
-					
-			<p className="text-indent-whole">Chọn một danh cơ bất kỳ, viết ngay sau nó một câu con bắt đầu bằng who, which, that.</p>
-
-			<p className="text-indent-whole">Ví dụ:</p>
-			
-				<ul className="list-square">
-			
-					<li>The phone <strong> that I dropped yesterday</strong> </li>
-					<li className="list-none">Chiếc điện thoại <strong> mà tôi đã làm rơi hôm qua</strong> </li>
-			
-				</ul>
-			
-			<p className="margin-top-20 text-indent-whole">Đã xong phần danh cơ + câu con.</p>
-
-			<p className="text-indent-whole">Sau đó thêm phần còn lại: ...still works fine.</p>
+			<h3 className="margin-y-50 text-center">6. Khi đã quen nhận diện Hình thái → Chức năng, Paraphrasing trở thành bài toán "thay khối cùng chức năng"</h3>
 
 
-			<h4 className="margin-y-40">Bước 2 – Thêm Adverbial Clause:</h4>
+			{/* 7.  */}
 
-			<p className="text-indent-whole">Lấy câu vừa viết, thêm một câu con trạng ngữ vào đầu hoặc cuối.</p>
-			
-				<ul className="list-square">
-			
-					<li><strong> Although it fell from the table</strong> , the phone that I dropped yesterday still works fine.</li>
-					<li className="list-none"><strong> Mặc dù bị rơi từ trên bàn xuống</strong> , nhưng chiếc điện thoại mà tôi đánh rơi hôm qua vẫn hoạt động tốt.</li>
-			
-				</ul>
-			
+			<h3 className="margin-y-50 text-center">7. Tại sao người Việt có lợi thế trong Paraphrasing?</h3>
 
-			<h4 className="margin-y-40">Bước 3 – Chèn Noun Clause:</h4>
-					
-			<p className="text-indent-whole">Dùng what, that, whether để tạo một danh cụm làm chủ ngữ hoặc tân ngữ.</p>
 
-			<p className="margin-top-20 text-indent-whole">Ví dụ:</p>
+			{/* 8.  */}
+
+			<h3 className="margin-y-50 text-center">8. Lộ trình 3 bước để biến lợi thế thành sức mạnh</h3>
+
+
+
+			{/* 9.  */}
+
+			<h3 className="margin-y-50 text-center">9. Lợi thế ngầm của người Việt: Sự tương đồng tự nhiên với tiếng Anh ở cấp độ câu phức</h3>
+
 			
-				<ul className="list-square">
-			
-					<li><strong> What surprised me most</strong>  was that the phone, which I dropped yesterday, still works perfectly.</li>
-					<li className="list-none"><strong> Điều khiến tôi ngạc nhiên nhất</strong>  là chiếc điện thoại mà tôi đã đánh rơi hôm qua vẫn hoạt động hoàn hảo.</li>
-			
-				</ul>
-			
-			<p className="margin-top-20 text-indent-whole">Bạn vừa xây một câu tiếng Anh phức tạp, đẳng cấp, mà từng bước đều ăn khớp với tư duy tiếng Việt.</p>
 
 
 			{/* Lời Kết */}
 
 			<h3 className="margin-y-50 text-center">Kết luận: Đừng chiến đấu với tiếng mẹ đẻ, hãy tận dụng nó</h3>
 
-			<p>Hai nguyên lý nhấn mạnh sẽ giúp bạn không bao giờ lạc lối:</p>
+			<p>Hai nguyên lý nhấn mạnh sẽ là kim chỉ nam:</p>
 			
 				<ul className="list-square">
 			
-					<li><strong>Danh cơ trước</strong></li>
-					<li className="margin-bottom-20 list-none">→ Nhấn mạnh <strong>danh cơ</strong> (giống Việt, dùng Adjective Clause).</li>
+					<li>Danh Cơ trước → nhấn mạnh Danh Cơ (dùng Tính Câu, Trạng Câu, Danh Câu – y hệt tiếng Việt).</li>
 			
-					<li><strong>Tính cơ trước</strong></li>
-					<li className="list-none">→ Nhấn mạnh <strong>tính cơ</strong> (câu ngắn, học thuộc công thức).</li>
+					<li>Tính Cơ trước → nhấn mạnh Tính Cơ (chỉ dùng trong câu ngắn, đơn giản).</li>
 			
 				</ul>
 			
-			<p className="margin-top-20">Và ba câu con – Adjective, Adverbial, Noun – chính là tam giác quyền lực của mọi câu tiếng Anh phức tạp. Trong đó, Adjective Clause là mảnh đất màu mỡ nhất của người Việt.</p>
 
-			<p>Hãy bắt đầu từ hôm nay. Không cần ép não đảo ngược trật tự mỗi khi viết câu dài. Cứ để danh cơ lên trước, thả câu con tính cơ phía sau, và tận hưởng cảm giác viết lưu loát như người bản ngữ.</p>
+			<p className="margin-top-20">Hệ thống Danh – Tính – Trạng với ba cấp độ Cơ – Cụm – Câu, cùng kỹ thuật paraphrasing bằng cách thay khối cùng chức năng, sẽ biến việc học tiếng Anh từ một nỗi sợ thành một trò chơi lắp ghép thú vị.</p>
 
-			<p>Bởi vì, rốt cuộc, thứ ngăn bạn thành thạo tiếng Anh không phải là ngữ pháp – mà chính là việc chưa nhận ra mình đã giỏi sẵn từ đầu.</p>
+			<p>Hãy bắt đầu từ hôm nay. Không còn sợ hãi những câu dài. Bởi vì, rốt cuộc, thứ ngăn bạn thành thạo tiếng Anh không phải là những khái niệm cũ – mà chính là việc chưa nhận ra mình đã giỏi sẵn từ đầu.</p>
 
-			{/* <p>Hãy <strong>là người Việt đầu tiên</strong> trong khu vực <strong> biết dùng lợi thế này</strong> .</p> */}
+			<p>Hãy là người Việt biết dùng lợi thế này. Viết, paraphrase, lồng ghép những câu dài mà không chút do dự. Và mỉm cười khi ai đó còn loay hoay với những thuật ngữ thế kỷ trước.</p>
 
-			{/* <p>Và <strong> cười nhẹ một mình</strong>  khi đọc những bài viết tầm thường về “<strong> câu con quan hệ</strong> ”.</p> */}
 			
 
 			<div className="viewcounter">
