@@ -769,10 +769,10 @@ export default function TiengAnhIndex(): React.JSX.Element {
                 <Link to="/tieng-anh/super-words-1">Super Words
                 <sup>&nbsp;1&nbsp;</sup>
                 </Link>
-                {/* <Link to="/tieng-anh/super-words-2">
+                <Link to="/tieng-anh/super-words-2">
                   <sup>&nbsp;2&nbsp;</sup>
                 </Link>
-                <Link to="/tieng-anh/super-words-3">
+                {/* <Link to="/tieng-anh/super-words-3">
                   <sup>&nbsp;3&nbsp;</sup>
                 </Link>
                 <Link to="/tieng-anh/super-words-4">
