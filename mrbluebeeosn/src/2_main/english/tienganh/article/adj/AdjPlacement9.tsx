@@ -86,7 +86,7 @@ export default function AdjPlacement9(): React.JSX.Element {
 					<li>The house is <strong>beautiful</strong>.</li>
 					<li className="margin-bottom-20 list-none">Ngôi nhà đó thì <strong>đẹp</strong>.</li>
 
-					<li className="list-none">Dùng để <strong>mô tả tính chất</strong> của chủ ngữ.</li>
+					<li className="list-none">Dùng để <strong>mô tả tính chất</strong> của danh chủ.</li>
 			
 				</ul>
 			
@@ -235,7 +235,7 @@ export default function AdjPlacement9(): React.JSX.Element {
 
 			<h4 className="margin-y-40">Noun Clause:</h4>
 					
-			<p className="text-indent-whole">Đóng vai trò như một <strong>danh cơ</strong> (làm <strong>chủ ngữ</strong>, <strong>tân ngữ</strong>, <strong>bổ ngữ</strong>).</p>
+			<p className="text-indent-whole">Đóng vai trò như một <strong>danh cơ</strong> (làm <strong>danh chủ</strong>, <strong>danh nhận</strong>, <strong>bổ ngữ</strong>).</p>
 			
 				<ul className="list-square">
 			

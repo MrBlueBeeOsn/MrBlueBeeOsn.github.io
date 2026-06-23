@@ -160,7 +160,7 @@ export default function LegoAssembly4(): React.JSX.Element {
 				<ul className="list-square">
 			
 					<li>I → Subject</li>
-					<li className="margin-bottom-20 list-none">Tôi → Chủ ngữ</li>
+					<li className="margin-bottom-20 list-none">Tôi → Danh chủ</li>
 			
 					<li>will → Head</li>
 					<li className="margin-bottom-20 list-none">sẽ → Hạt nhân</li>

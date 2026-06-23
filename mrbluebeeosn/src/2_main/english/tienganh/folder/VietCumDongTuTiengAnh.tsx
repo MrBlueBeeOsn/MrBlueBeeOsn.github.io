@@ -183,7 +183,7 @@ export default function VietCumDongTuTiengAnh(): React.JSX.Element {
 
 					<li>Phủ định “not” luôn đứng ngay sau thời động cơ đầu tiên (hoặc sau modal).</li>
 
-					<li>Với câu hỏi chỉ cần đảo thời động cơ đầu tiên lên trước chủ ngữ sau khi đã xây xong cụm.</li>
+					<li>Với câu hỏi chỉ cần đảo thời động cơ đầu tiên lên trước danh chủ sau khi đã xây xong cụm.</li>
 
 					<li>Thực hành 10–20 cụm mỗi ngày, bạn sẽ tự động viết được mọi thì phức tạp mà không cần suy nghĩ nhiều.</li>
 

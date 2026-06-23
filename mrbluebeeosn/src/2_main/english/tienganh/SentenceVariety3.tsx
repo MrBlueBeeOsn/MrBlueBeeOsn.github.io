@@ -144,7 +144,7 @@ export default function SentenceVariety3(): React.JSX.Element {
 			
 					<li>Đọc to các ví dụ mỗi ngày để quen nhịp.</li>
 			
-					<li>Copy câu hay từ bài báo hoặc sách, rồi thay đổi chủ ngữ/tân ngữ để tập biến tấu.</li>
+					<li>Copy câu hay từ bài báo hoặc sách, rồi thay đổi danh chủ/danh nhận để tập biến tấu.</li>
 			
 					<li>Viết nhật ký bằng tiếng Anh và cố tình dùng ít nhất 2–3 loại câu trong mỗi đoạn.</li>
 			

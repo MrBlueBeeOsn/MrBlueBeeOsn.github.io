@@ -171,7 +171,7 @@ export default function SapXepCumDongTuTiengAnh(): React.JSX.Element {
 
 					<li>Nếu có phủ định → chèn “not” ngay sau thời động cơ đầu tiên.</li>
 
-					<li>Với câu hỏi → chỉ cần đảo thời động cơ đầu tiên lên trước chủ ngữ (sau khi đã xếp xong cụm).</li>
+					<li>Với câu hỏi → chỉ cần đảo thời động cơ đầu tiên lên trước danh chủ (sau khi đã xếp xong cụm).</li>
 
 					<li>Khi không chắc thứ tự → cứ gom hết thời động cơ vào bên trái trước, rồi sắp lại theo M-P-C-P → vẫn đúng 100%!</li>
 

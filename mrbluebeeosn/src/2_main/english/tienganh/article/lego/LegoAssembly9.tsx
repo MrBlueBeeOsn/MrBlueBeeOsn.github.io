@@ -157,24 +157,24 @@ export default function LegoAssembly9(): React.JSX.Element {
 
 			<h4 className="margin-y-40">Chân đế khổng lồ (S-Expansion)</h4>
 
-			<p className="text-indent-whole">Chủ ngữ không nhất thiết phải là một từ. Nó có thể là một khối nội dung lớn:</p>
+			<p className="text-indent-whole">Danh chủ không nhất thiết phải là một từ. Nó có thể là một khối nội dung lớn:</p>
 
-			<p className="text-indent-whole"><strong>DP làm chủ ngữ</strong>: </p>
+			<p className="text-indent-whole"><strong>DP làm danh chủ</strong>: </p>
 					
 				<ul className="list-square">
 			
 					<li>[Mastering a language] (S) + requires (Head) + patience (DP).</li>
-					<li className="list-none">[Việc làm chủ một ngôn ngữ] (Chủ ngữ) + đòi hỏi (Hạt nhân) + sự kiên nhẫn (Cụm từ phụ thuộc).</li>
+					<li className="list-none">[Việc làm chủ một ngôn ngữ] (Danh chủ) + đòi hỏi (Hạt nhân) + sự kiên nhẫn (Cụm từ phụ thuộc).</li>
 			
 				</ul>
 
 
-			<p className="margin-top-20 text-indent-whole"><strong>DC làm chủ ngữ</strong>:</p>
+			<p className="margin-top-20 text-indent-whole"><strong>DC làm danh chủ</strong>:</p>
 					
 				<ul className="list-square">
 			
 					<li>[What we need now] (S) + is (Head) + a clear plan (DP).</li>
-					<li className="list-none">[Những gì chúng ta cần bây giờ] (Chủ ngữ) + là (Hạt nhân) + một kế hoạch rõ ràng (Cụm từ phụ thuộc).</li>
+					<li className="list-none">[Những gì chúng ta cần bây giờ] (Danh chủ) + là (Hạt nhân) + một kế hoạch rõ ràng (Cụm từ phụ thuộc).</li>
 			
 				</ul>
 

@@ -68,11 +68,11 @@ export default function TheGaitOfEnglish3(): React.JSX.Element {
 
 					<li><strong>M</strong> – <strong>Manner</strong> (Cách thức)</li>
 
-					<li><strong>O</strong> – <strong>Object</strong> (Tân ngữ)</li>
+					<li><strong>O</strong> – <strong>Object</strong> (Danh nhận)</li>
 
 					<li><strong>V</strong> – <strong>Verb</strong> (Động cơ)</li>
 
-					<li><strong>S</strong> – <strong>Subject</strong> (Chủ ngữ)</li>
+					<li><strong>S</strong> – <strong>Subject</strong> (Danh chủ)</li>
 
 					
 				</ul>
@@ -97,11 +97,11 @@ export default function TheGaitOfEnglish3(): React.JSX.Element {
 
 					<li>Càng đi xa hơn là <strong>M</strong> (Cách thức),</li>
 
-					<li>Rồi đến <strong>O</strong> (Tân ngữ),</li>
+					<li>Rồi đến <strong>O</strong> (Danh nhận),</li>
 
 					<li>Tiếp tục đi thẳng gặp <strong>V</strong> (Động cơ),</li>
 
-					<li>Gặp <strong>S</strong> (Chủ ngữ) đầu tiên,</li>
+					<li>Gặp <strong>S</strong> (Danh chủ) đầu tiên,</li>
 			
 				</ul>
 			

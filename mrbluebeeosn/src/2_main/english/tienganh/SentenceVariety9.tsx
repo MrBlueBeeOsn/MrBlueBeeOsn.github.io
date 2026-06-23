@@ -64,7 +64,7 @@ export default function SentenceVariety9(): React.JSX.Element {
 
 			<h4 className="margin-y-40">1. Câu Đơn (Simple Sentence)</h4>
 					
-			<p className="text-indent-whole">Một ý tưởng hoàn chỉnh, chỉ có một chủ ngữ và một vị ngữ.</p>
+			<p className="text-indent-whole">Một ý tưởng hoàn chỉnh, chỉ có một danh chủ và một vị ngữ.</p>
 			
 				<ul className="list-square">
 			
@@ -132,7 +132,7 @@ export default function SentenceVariety9(): React.JSX.Element {
 
 			<h4 className="margin-y-40">Bước 1: Làm Chủ Câu Đơn (Simple Sentence)</h4>
 					
-			<p className="text-indent-whole">Đây là viên gạch đầu tiên. Hãy đảm bảo bạn có thể diễn đạt một ý tưởng rõ ràng, súc tích chỉ với một chủ ngữ và một vị ngữ.</p>
+			<p className="text-indent-whole">Đây là viên gạch đầu tiên. Hãy đảm bảo bạn có thể diễn đạt một ý tưởng rõ ràng, súc tích chỉ với một danh chủ và một vị ngữ.</p>
 
 			<p className="text-indent-whole"><strong>Cách học</strong>: Tập trung vào các mẫu câu cơ bản (S-V, S-V-O, S-V-Adj...). Đặt câu về những hoạt động hàng ngày, những sự vật xung quanh bạn.</p>
 			
@@ -208,7 +208,7 @@ export default function SentenceVariety9(): React.JSX.Element {
 					<li className="margin-bottom-20 list-none">Đọc sách, báo, blog tiếng Anh từ nhiều nguồn khác nhau. Chú ý cách các tác giả sử dụng các loại câu để truyền tải ý tưởng.</li>
 
 					<li><strong>Phân tích câu</strong>:</li>
-					<li className="margin-bottom-20 list-none">Khi đọc, hãy thử gạch chân chủ ngữ, vị ngữ, các câu con độc lập và phụ thuộc để nhận diện cấu trúc câu.</li>
+					<li className="margin-bottom-20 list-none">Khi đọc, hãy thử gạch chân danh chủ, vị ngữ, các câu con độc lập và phụ thuộc để nhận diện cấu trúc câu.</li>
 
 					<li><strong>Viết lại câu</strong>:</li>
 					<li className="margin-bottom-20 list-none">Lấy một đoạn văn đơn giản và thử viết lại nó bằng cách thay đổi cấu trúc câu, kết hợp các ý tưởng để tạo ra sự đa dạng.</li>

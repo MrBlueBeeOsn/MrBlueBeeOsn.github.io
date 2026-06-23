@@ -71,7 +71,7 @@ export default function DependentClause8(): React.JSX.Element {
 
 			<p className="text-indent-whole">Mảnh phụ: that she left</p>
 
-			<p className="text-indent-whole">→ Nó ngồi đúng chỗ tân ngữ. Bạn thay cả cụm bằng "it" thì câu vẫn chạy.</p>
+			<p className="text-indent-whole">→ Nó ngồi đúng chỗ danh nhận. Bạn thay cả cụm bằng "it" thì câu vẫn chạy.</p>
 
 			<ul className="list-square">
 			
@@ -98,7 +98,7 @@ export default function DependentClause8(): React.JSX.Element {
 
 			<p className="text-indent-whole">Mảnh phụ: What you said yesterday</p>
 
-			<p className="text-indent-whole">→ Cả cụm làm chủ ngữ. What vừa là từ nối vừa làm tân ngữ của said. Bạn không thể bỏ what, vì bỏ là mất tân ngữ.</p>
+			<p className="text-indent-whole">→ Cả cụm làm danh chủ. What vừa là từ nối vừa làm danh nhận của said. Bạn không thể bỏ what, vì bỏ là mất danh nhận.</p>
 
 			<p className="text-indent-whole">Cảm giác câu này khác hẳn:</p>
 
@@ -128,7 +128,7 @@ export default function DependentClause8(): React.JSX.Element {
 
 			<p className="text-indent-whole">Mảnh phụ: who fixed the bug</p>
 
-			<p className="text-indent-whole">→ who là chủ ngữ của fixed, nên không được lược. Không có câu con này, bạn không biết developer nào nghỉ.</p>
+			<p className="text-indent-whole">→ who là danh chủ của fixed, nên không được lược. Không có câu con này, bạn không biết developer nào nghỉ.</p>
 
 			<p className="text-indent-whole">Đây là restrictive, không có dấu phẩy. Thông tin là bắt buộc để xác định.</p>
 
@@ -224,7 +224,7 @@ export default function DependentClause8(): React.JSX.Element {
 
 			<p>1. Tìm <strong>động cơ chính không nằm sau từ nối</strong>. Đó là xương sống.</p>
 
-			<p>2. Phần còn lại có chủ ngữ + động cơ mà bắt đầu bằng that, what, who, which, where, when, because, although, if, unless... là <strong>dependent</strong>.</p>
+			<p>2. Phần còn lại có danh chủ + động cơ mà bắt đầu bằng that, what, who, which, where, when, because, although, if, unless... là <strong>dependent</strong>.</p>
 
 			<p>3. Hỏi:</p>
 			

@@ -60,7 +60,7 @@ export default function SentenceVariety7(): React.JSX.Element {
 
 				<ul className="list-square">
 
-					<li><strong>Câu đơn</strong> (<strong>Simple sentence</strong>): chứa một chủ ngữ và một vị ngữ, truyền đạt một ý chính.</li>
+					<li><strong>Câu đơn</strong> (<strong>Simple sentence</strong>): chứa một danh chủ và một vị ngữ, truyền đạt một ý chính.</li>
 					<li className="list-none">She smiled.</li>
 					<li className="margin-bottom-20 list-none">Cô ấy mỉm cười.</li>
 
@@ -130,10 +130,10 @@ export default function SentenceVariety7(): React.JSX.Element {
 
 				<ul className="list-square">
 
-					<li><strong>Bước 1</strong> — <strong>Khung đơn giản</strong>: Chủ ngữ + động cơ + (bổ ngữ).</li>
+					<li><strong>Bước 1</strong> — <strong>Khung đơn giản</strong>: Danh chủ + động cơ + (bổ ngữ).</li>
 					<li className="margin-bottom-20 list-none">I study English.</li>
 
-					<li><strong>Bước 2</strong> — <strong>Thêm chi tiết</strong>: thêm tân ngữ, trạng cơ.</li>
+					<li><strong>Bước 2</strong> — <strong>Thêm chi tiết</strong>: thêm danh nhận, trạng cơ.</li>
 					<li className="margin-bottom-20 list-none">I study English every morning.</li>
 
 					<li><strong>Bước 3</strong> — <strong>Ghép ý liên quan</strong>: dùng and/but để nối hai ý.</li>

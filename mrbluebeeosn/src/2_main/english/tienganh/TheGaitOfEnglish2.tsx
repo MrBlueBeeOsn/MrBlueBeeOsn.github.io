@@ -87,13 +87,13 @@ export default function TheGaitOfEnglish2(): React.JSX.Element {
 					<li><strong>Bậc 4</strong> – <strong>M</strong> (<strong>Manner</strong> – <strong>Cách thức</strong>)</li>
 					<li className="margin-bottom-20 list-none">Thế nào? Bắt đầu xa dần khỏi cái lõi S-V-O. Cách thức là chi tiết bổ sung, như lớp áo khoác nhẹ phía ngoài. Nó không quan trọng bằng ai làm gì, nhưng lại cần thiết để câu sống động.</li>
 
-					<li><strong>Bậc 3</strong> – <strong>O</strong> (<strong>Object</strong> – <strong>Tân ngữ</strong>)</li>
+					<li><strong>Bậc 3</strong> – <strong>O</strong> (<strong>Object</strong> – <strong>Danh nhận</strong>)</li>
 					<li className="margin-bottom-20 list-none">Người hoặc vật nhận chịu hành động. Bậc thứ ba – xa hơn một chút, nhưng vẫn nằm trong tầm với. Bạn không thể có O nếu chưa qua V, cũng như không thể bước lên bậc ba nếu chưa đặt chân lên bậc hai.</li>
 
 					<li><strong>Bậc 2</strong> – <strong>V</strong> (<strong>Verb</strong> – <strong>Động cơ</strong>)</li>
-					<li className="margin-bottom-20 list-none">Ngay trên đầu chủ ngữ. Là <strong>hành động</strong> hoặc <strong>trạng thái</strong>. Bạn bước lên một bậc – thế giới bắt đầu chuyển động.</li>
+					<li className="margin-bottom-20 list-none">Ngay trên đầu danh chủ. Là <strong>hành động</strong> hoặc <strong>trạng thái</strong>. Bạn bước lên một bậc – thế giới bắt đầu chuyển động.</li>
 
-					<li><strong>Bậc 1</strong> – <strong>S</strong> (<strong>Subject</strong> – <strong>Chủ ngữ</strong>)</li>
+					<li><strong>Bậc 1</strong> – <strong>S</strong> (<strong>Subject</strong> – <strong>Danh chủ</strong>)</li>
 					<li className="margin-bottom-20 list-none">Dưới cùng, gần bạn nhất. Là cái ai hoặc cái gì khởi đầu mọi ý định. Nó như điểm tựa, như mặt đất dưới chân: vững chãi, rõ ràng, không thể thiếu.</li>
 			
 				</ul>
@@ -102,7 +102,7 @@ export default function TheGaitOfEnglish2(): React.JSX.Element {
 			
 			<h3 className="margin-y-50 text-center">3. Từ gần đến xa, hướng về phía trước</h3>
 
-			<p>Điều kỳ diệu là: đường thẳng đứng này cũng chính là đường thẳng <strong>từ gần đến xa</strong>. Khi bắt đầu câu, bạn đang ở rất gần – gần với bản thân (chủ ngữ), gần với hành động (động cơ). Càng về cuối, bạn càng đi xa – xa vào không gian (địa điểm), xa vào thời gian (khi nào).</p>
+			<p>Điều kỳ diệu là: đường thẳng đứng này cũng chính là đường thẳng <strong>từ gần đến xa</strong>. Khi bắt đầu câu, bạn đang ở rất gần – gần với bản thân (danh chủ), gần với hành động (động cơ). Càng về cuối, bạn càng đi xa – xa vào không gian (địa điểm), xa vào thời gian (khi nào).</p>
 
 			<p>Và tất cả đều <strong>hướng về phía trước</strong>. Không bao giờ lùi.</p>
 

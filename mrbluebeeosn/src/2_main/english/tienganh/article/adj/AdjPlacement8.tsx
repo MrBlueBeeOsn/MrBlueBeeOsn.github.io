@@ -291,7 +291,7 @@ export default function AdjPlacement8(): React.JSX.Element {
 			
 			<p className="margin-top-20 text-indent-whole">Phân tích nhanh:</p>
 
-			<p className="margin-top-20 text-indent-whole"><strong>Noun Clause</strong> làm chủ ngữ</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Noun Clause</strong> làm danh chủ</p>
 			
 				<ul className="list-square">
 			
@@ -376,7 +376,7 @@ export default function AdjPlacement8(): React.JSX.Element {
 				</ul>
 			
 
-			<p className="margin-top-20">3. Đóng gói thành <strong>Noun Clause</strong> để làm chủ ngữ:</p>
+			<p className="margin-top-20">3. Đóng gói thành <strong>Noun Clause</strong> để làm danh chủ:</p>
 			
 				<ul className="list-square">
 			

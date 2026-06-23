@@ -58,7 +58,7 @@ export default function DependentClause5(): React.JSX.Element {
 
 			<p>Bạn chờ. Bạn muốn biết điều gì xảy ra tiếp theo. Cái khoảng trống đó, cái cảm giác chưa xong đó, chính là bản chất của dependent clause.</p>
 					
-			<p>Nó có đủ chủ ngữ, đủ động cơ — nhưng vẫn cần một câu con chính để trọn vẹn. Và chính sự "chưa xong" ấy lại là công cụ mạnh nhất để bạn viết tiếng Anh có chiều sâu.</p>
+			<p>Nó có đủ danh chủ, đủ động cơ — nhưng vẫn cần một câu con chính để trọn vẹn. Và chính sự "chưa xong" ấy lại là công cụ mạnh nhất để bạn viết tiếng Anh có chiều sâu.</p>
 
 			{/* Bốn bước để viết một Dependent Clause đúng và hay */}
 
@@ -80,7 +80,7 @@ export default function DependentClause5(): React.JSX.Element {
 
 			<h4 className="margin-y-40">Bước 2: Đặt từ nối vào đầu câu con phụ</h4>
 					
-			<p className="text-indent-whole">Chọn đúng loại từ tín hiệu — liên cơ phụ thuộc, đại cơ quan hệ, hoặc WH-word. Đặt nó ngay trước chủ ngữ của câu con phụ, không phải trước câu con chính.</p>
+			<p className="text-indent-whole">Chọn đúng loại từ tín hiệu — liên cơ phụ thuộc, đại cơ quan hệ, hoặc WH-word. Đặt nó ngay trước danh chủ của câu con phụ, không phải trước câu con chính.</p>
 			
 				<ul className="list-square">
 			
@@ -145,8 +145,8 @@ export default function DependentClause5(): React.JSX.Element {
 					
 				<p className="text-indent-whole">Hỏi:&nbsp;
 					
-					<span className="pill p">Chủ ngữ</span>&nbsp;
-					<span className="pill p">tân ngữ</span>&nbsp;
+					<span className="pill p">Danh chủ</span>&nbsp;
+					<span className="pill p">danh nhận</span>&nbsp;
 					là gì?
 
 				</p>

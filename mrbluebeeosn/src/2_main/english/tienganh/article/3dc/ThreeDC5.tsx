@@ -266,7 +266,7 @@ export default function ThreeDC5(): React.ReactElement {
 			<p className="margin-top-20 text-indent-whole"></p>
 
 
-			<h4 className="margin-y-40">Chủ ngữ giả "It" + Noun Clause</h4>
+			<h4 className="margin-y-40">Danh chủ giả "It" + Noun Clause</h4>
 					
 			<p className="text-indent-whole"></p>
 

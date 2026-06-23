@@ -59,7 +59,7 @@ export default function SauDangDongTuTiengAnh1(): React.JSX.Element {
 
 					</ul>
 
-				<p className="margin-top-20"><strong>Works</strong> (ngôi thứ ba số ít – 3rd person singular): Chỉ dùng khi chủ ngữ là he, she, it.</p>
+				<p className="margin-top-20"><strong>Works</strong> (ngôi thứ ba số ít – 3rd person singular): Chỉ dùng khi danh chủ là he, she, it.</p>
 
 				<p className="text-indent-whole">Ví dụ:</p>
 

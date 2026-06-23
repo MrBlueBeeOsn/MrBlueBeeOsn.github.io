@@ -149,7 +149,7 @@ export default function AdjPlacement6(): React.JSX.Element {
 			<p className="text-indent-whole"><strong>Gợi ý thực hành</strong>: khi viết luận, dùng câu con trạng ngữ để dẫn dắt luận điểm, rồi quay lại với danh cơ chính và câu con tính cơ để minh họa.</p>
 
 
-			<h4 className="margin-y-40">3. Danh câu — biến cả cụm thành chủ ngữ hoặc tân ngữ</h4>
+			<h4 className="margin-y-40">3. Danh câu — biến cả cụm thành danh chủ hoặc danh nhận</h4>
 					
 			<p className="text-indent-whole"><strong>Chức năng</strong>: đóng vai trò như một danh cơ; thường dùng để trích dẫn ý tưởng, lập luận, hoặc làm chủ đề thảo luận.</p>
 

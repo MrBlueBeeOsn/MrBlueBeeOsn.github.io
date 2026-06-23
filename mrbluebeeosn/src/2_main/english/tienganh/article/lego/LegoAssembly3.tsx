@@ -68,7 +68,7 @@ export default function LegoAssembly3(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li><strong>S</strong> (<strong>Subject</strong>): Chủ ngữ – người/vật thực hiện hành động</li>
+					<li><strong>S</strong> (<strong>Subject</strong>): Danh chủ – người/vật thực hiện hành động</li>
 					<li className="margin-bottom-20 list-none">I, You, She, The team, My company…</li>
 
 					<li><strong>Head</strong>: Khối trung tâm, là "trái tim" của câu.</li>

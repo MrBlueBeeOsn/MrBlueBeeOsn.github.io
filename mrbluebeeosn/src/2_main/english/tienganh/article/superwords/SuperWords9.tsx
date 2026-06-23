@@ -73,7 +73,7 @@ export default function SuperWords9(): React.JSX.Element {
 
 			<p></p>
 
-			<h4 className="margin-y-40">Chủ ngữ (Subject)</h4>
+			<h4 className="margin-y-40">Danh chủ (Subject)</h4>
 					
 			<p className="text-indent-whole"></p>
 
@@ -100,7 +100,7 @@ export default function SuperWords9(): React.JSX.Element {
 			<p className="margin-top-20 text-indent-whole"></p>
 
 
-			<h4 className="margin-y-40">Tân ngữ trực tiếp (Direct Object)</h4>
+			<h4 className="margin-y-40">Danh nhận trực tiếp (Direct Object)</h4>
 					
 			<p className="text-indent-whole"></p>
 
@@ -127,7 +127,7 @@ export default function SuperWords9(): React.JSX.Element {
 			<p className="margin-top-20 text-indent-whole"></p>
 
 
-			<h4 className="margin-y-40">Tân ngữ của giới cơ (Object of Preposition)</h4>
+			<h4 className="margin-y-40">Danh nhận của giới cơ (Object of Preposition)</h4>
 					
 			<p className="text-indent-whole"></p>
 
@@ -154,7 +154,7 @@ export default function SuperWords9(): React.JSX.Element {
 			<p className="margin-top-20 text-indent-whole"></p>
 
 
-			<h4 className="margin-y-40">Bổ ngữ chủ ngữ (Subject Complement)</h4>
+			<h4 className="margin-y-40">Bổ ngữ danh chủ (Subject Complement)</h4>
 					
 			<p className="text-indent-whole"></p>
 

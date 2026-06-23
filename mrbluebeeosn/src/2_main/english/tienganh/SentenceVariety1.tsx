@@ -58,7 +58,7 @@ export default function SentenceVariety1(): React.JSX.Element {
 
 			<h3 className="margin-y-50 text-center">1. Phân loại "Bản vẽ" Cấu trúc câu</h3>
 
-			<p>Để nhận biết chúng, hãy nhìn vào số lượng <strong>câu con</strong> (chủ ngữ + động cơ) và <strong>từ nối</strong>.</p>
+			<p>Để nhận biết chúng, hãy nhìn vào số lượng <strong>câu con</strong> (danh chủ + động cơ) và <strong>từ nối</strong>.</p>
 
 			<h4 className="margin-y-40">1. Simple (Câu đơn)</h4>
 					
@@ -193,7 +193,7 @@ export default function SentenceVariety1(): React.JSX.Element {
 			
 				</ul>
 
-			<p className="margin-top-20"><strong>Đảo ngữ để tạo bất ngờ</strong>: Thay vì bắt đầu bằng chủ ngữ, hãy đưa các trạng cụm chỉ thời gian hoặc nơi chốn lên đầu.</p>
+			<p className="margin-top-20"><strong>Đảo ngữ để tạo bất ngờ</strong>: Thay vì bắt đầu bằng danh chủ, hãy đưa các trạng cụm chỉ thời gian hoặc nơi chốn lên đầu.</p>
 			
 				<ul className="list-square">
 

@@ -54,7 +54,7 @@ export default function EVAuxiliaryVerbsQuiz(): React.JSX.Element {
 				"will"
 			],
 			correctAnswer: 0,
-			explanation: "Cụm từ \"at the moment\" dấu hiệu của thời hiện tại tiếp diễn, công thức là \"be + V-ing\". Với chủ ngữ \"She\", thời động cơ phù hợp là \"is\"."
+			explanation: "Cụm từ \"at the moment\" dấu hiệu của thời hiện tại tiếp diễn, công thức là \"be + V-ing\". Với danh chủ \"She\", thời động cơ phù hợp là \"is\"."
 		},
 		{
 			id: 4,

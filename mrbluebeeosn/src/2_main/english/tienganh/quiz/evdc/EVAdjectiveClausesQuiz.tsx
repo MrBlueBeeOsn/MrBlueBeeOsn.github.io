@@ -30,7 +30,7 @@ export default function EVAdjectiveClausesQuiz(): React.JSX.Element {
 				"whose"
 			],
 			correctAnswer: 1,
-			explanation: "Đại cơ quan hệ thay thế cho danh cơ chỉ người \"The woman\" và đóng vai trò làm chủ ngữ trong câu con quan hệ (đứng trước động cơ \"lives\")."
+			explanation: "Đại cơ quan hệ thay thế cho danh cơ chỉ người \"The woman\" và đóng vai trò làm danh chủ trong câu con quan hệ (đứng trước động cơ \"lives\")."
 		},
 		{
 			id: 2,
@@ -42,7 +42,7 @@ export default function EVAdjectiveClausesQuiz(): React.JSX.Element {
 				"whose"
 			],
 			correctAnswer: 2,
-			explanation: "Đại cơ quan hệ thay thế cho danh cơ chỉ vật \"The book\" và đóng vai trò làm tân ngữ trong câu con quan hệ."
+			explanation: "Đại cơ quan hệ thay thế cho danh cơ chỉ vật \"The book\" và đóng vai trò làm danh nhận trong câu con quan hệ."
 		},
 		{
 			id: 3,
@@ -90,7 +90,7 @@ export default function EVAdjectiveClausesQuiz(): React.JSX.Element {
 				"columns"
 			],
 			correctAnswer: 2,
-			explanation: "Đại cơ quan hệ thay thế cho danh cơ chỉ người \"The man\" và đóng vai trò làm tân ngữ trong câu con quan hệ (sau nó là một đại cơ/chủ ngữ \"you\")."
+			explanation: "Đại cơ quan hệ thay thế cho danh cơ chỉ người \"The man\" và đóng vai trò làm danh nhận trong câu con quan hệ (sau nó là một đại cơ/danh chủ \"you\")."
 		},
 		{
 			id: 7,
@@ -126,7 +126,7 @@ export default function EVAdjectiveClausesQuiz(): React.JSX.Element {
 				"whose"
 			],
 			correctAnswer: 2,
-			explanation: "Thay thế cho danh cơ số nhiều chỉ người \"The students\" và làm chủ ngữ cho động cơ \"completed\"."
+			explanation: "Thay thế cho danh cơ số nhiều chỉ người \"The students\" và làm danh chủ cho động cơ \"completed\"."
 		},
 		{
 			id: 10,

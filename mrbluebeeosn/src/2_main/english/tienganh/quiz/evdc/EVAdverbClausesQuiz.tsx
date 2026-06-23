@@ -102,7 +102,7 @@ export default function EVAdverbClausesQuiz(): React.JSX.Element {
 				"Because"
 			],
 			correctAnswer: 2,
-			explanation: "Though (mặc dù) là liên cơ mở đầu một câu con trạng ngữ chỉ sự tương phản chứa cả chủ ngữ và động cơ (the traffic was...). Despite và In spite of cũng mang nghĩa tương tự nhưng theo sau chúng bắt buộc phải là một danh cụm hoặc V-ing."
+			explanation: "Though (mặc dù) là liên cơ mở đầu một câu con trạng ngữ chỉ sự tương phản chứa cả danh chủ và động cơ (the traffic was...). Despite và In spite of cũng mang nghĩa tương tự nhưng theo sau chúng bắt buộc phải là một danh cụm hoặc V-ing."
 		},
 		{
 			id: 8,

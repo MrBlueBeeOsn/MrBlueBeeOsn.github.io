@@ -107,7 +107,7 @@ export default function DependentClause4(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>Chủ ngữ</li>
+					<li>Danh chủ</li>
 			
 					<li>Động cơ</li>
 			

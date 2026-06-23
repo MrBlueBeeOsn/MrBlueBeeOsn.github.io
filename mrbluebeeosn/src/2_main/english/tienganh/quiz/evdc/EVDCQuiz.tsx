@@ -30,7 +30,7 @@ export default function EVDCQuiz(): React.JSX.Element {
 				"which"
 			],
 			correctAnswer: 1,
-			explanation: "Cụm từ \"whom she is planning to invite to the party\" là một Noun Clause (Danh câu) làm tân ngữ cho động cơ \"know\". Trong câu con phụ này, \"she\" là chủ ngữ và động cơ \"invite\" cần một tân ngữ chỉ người đứng trước, do đó ta dùng \"whom\" thay vì \"who\" (làm chủ ngữ)."
+			explanation: "Cụm từ \"whom she is planning to invite to the party\" là một Noun Clause (Danh câu) làm danh nhận cho động cơ \"know\". Trong câu con phụ này, \"she\" là danh chủ và động cơ \"invite\" cần một danh nhận chỉ người đứng trước, do đó ta dùng \"whom\" thay vì \"who\" (làm danh chủ)."
 		},
 		{
 			id: 2,
@@ -42,7 +42,7 @@ export default function EVDCQuiz(): React.JSX.Element {
 				"what"
 			],
 			correctAnswer: 2,
-			explanation: "Cụm \"that you lent me yesterday\" là một Adjective Clause (Câu con tính ngữ/quan hệ) bổ nghĩa cho danh cơ chỉ vật \"The book\". Ta dùng đại cơ quan hệ \"that\" (hoặc \"which\") làm tân ngữ thay thế cho vật. \"What\" không đứng sau danh cơ để bổ nghĩa như vậy."
+			explanation: "Cụm \"that you lent me yesterday\" là một Adjective Clause (Câu con tính ngữ/quan hệ) bổ nghĩa cho danh cơ chỉ vật \"The book\". Ta dùng đại cơ quan hệ \"that\" (hoặc \"which\") làm danh nhận thay thế cho vật. \"What\" không đứng sau danh cơ để bổ nghĩa như vậy."
 		},
 		{
 			id: 3,
@@ -126,7 +126,7 @@ export default function EVDCQuiz(): React.JSX.Element {
 				"Someone"
 			],
 			correctAnswer: 1,
-			explanation: "Toàn bộ cụm \"Whoever wins the competition\" đóng vai trò là một Noun Clause làm chủ ngữ chính cho động cơ \"will receive\". \"Whoever\" (bất cứ ai) vừa làm từ nối vừa làm chủ ngữ cho động cơ \"wins\" bên trong câu con phụ. Nếu chọn \"Anyone\", ta phải có thêm \"who\" (Anyone who wins...)."
+			explanation: "Toàn bộ cụm \"Whoever wins the competition\" đóng vai trò là một Noun Clause làm danh chủ chính cho động cơ \"will receive\". \"Whoever\" (bất cứ ai) vừa làm từ nối vừa làm danh chủ cho động cơ \"wins\" bên trong câu con phụ. Nếu chọn \"Anyone\", ta phải có thêm \"who\" (Anyone who wins...)."
 		},
 		{
 			id: 10,

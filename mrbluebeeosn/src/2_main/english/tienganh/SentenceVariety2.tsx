@@ -282,7 +282,7 @@ export default function SentenceVariety2(): React.JSX.Element {
 					<li>Thấy <strong>because</strong>, <strong>although</strong>, <strong>if</strong>, <strong>when</strong>, <strong>while</strong>, <strong>since</strong>, <strong>unless</strong>, <strong>as soon as</strong></li>
 					<li className=" margin-bottom-20 list-none">→ complex hoặc compound-complex</li>
 			
-					<li>Không thấy từ nối nào, chỉ một chủ ngữ + một động cơ chính</li>
+					<li>Không thấy từ nối nào, chỉ một danh chủ + một động cơ chính</li>
 					<li className="list-none">→ simple</li>
 			
 				</ul>

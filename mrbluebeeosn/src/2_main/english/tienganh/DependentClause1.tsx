@@ -62,7 +62,7 @@ export default function DependentClause1(): React.JSX.Element {
 
 			<p>Một phụ câu luôn mang trong mình một nghịch lý:</p>
 
-			<p>Nó có đầy đủ <strong>Chủ ngữ</strong> (<strong>S</strong>) và <strong>Động cơ</strong> (<strong>V</strong>), nhưng lại không thể truyền tải một thông điệp trọn vẹn.</p>
+			<p>Nó có đầy đủ <strong>Danh chủ</strong> (<strong>S</strong>) và <strong>Động cơ</strong> (<strong>V</strong>), nhưng lại không thể truyền tải một thông điệp trọn vẹn.</p>
 
 			<p>Nguyên nhân là do sự xuất hiện của một <strong>Từ dẫn dắt</strong> (<strong>Marker Word</strong>) đứng ở ngay đầu vế câu.</p>
 
@@ -165,7 +165,7 @@ export default function DependentClause1(): React.JSX.Element {
 			
 			<h4 className="margin-y-40">Chức năng Danh cơ (Noun Clause)</h4>
 					
-			<p className="text-indent-whole">Chiếm lĩnh vị trí của một danh cơ thông thường để làm Chủ ngữ hoặc Tân ngữ chịu tác động.</p>
+			<p className="text-indent-whole">Chiếm lĩnh vị trí của một danh cơ thông thường để làm Danh chủ hoặc Danh nhận chịu tác động.</p>
 			
 				<ul className="list-square">
 			
@@ -174,7 +174,7 @@ export default function DependentClause1(): React.JSX.Element {
 			
 				</ul>
 			
-			<p className="margin-top-20 text-indent-whole">→ Cụm "what you mean" đóng vai trò làm tân ngữ đứng sau động cơ "understand"</p>
+			<p className="margin-top-20 text-indent-whole">→ Cụm "what you mean" đóng vai trò làm danh nhận đứng sau động cơ "understand"</p>
 
 			{/* 4. Chiến Lược 3 Bước Để Tạo Câu Phức Mượt Mà */}
 

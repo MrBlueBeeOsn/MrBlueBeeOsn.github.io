@@ -67,7 +67,7 @@ export default function LegoAssembly5(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>Subject - Chủ ngữ</li>
+					<li>Subject - Danh chủ</li>
 					<li className="list-none">Ai / cái gì thực hiện</li>
 			
 				</ul>
@@ -337,7 +337,7 @@ export default function LegoAssembly5(): React.JSX.Element {
 					
 			<p>Kiểm tra nhanh: có động cơ đang "chạy" bên trong không? Có → DC. Không → DP.</p>
 
-			<h4 className="margin-y-40">DC làm tân ngữ — đứng sau Head</h4>
+			<h4 className="margin-y-40">DC làm danh nhận — đứng sau Head</h4>
 					
 			<p className="text-indent-whole">DC thay thế vị trí DP — nó là thứ đứng sau Head, chỉ là phức tạp hơn vì bên trong có S V riêng.</p>
 

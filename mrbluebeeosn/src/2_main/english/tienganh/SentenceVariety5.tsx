@@ -66,7 +66,7 @@ export default function SentenceVariety5(): React.JSX.Element {
 			
 				</ul>
 
-			<p className="margin-top-20">— Ba câu, ba chủ ngữ I, ba động cơ.</p>
+			<p className="margin-top-20">— Ba câu, ba danh chủ I, ba động cơ.</p>
 			<p>— Không sai một chữ.</p>
 			<p>— Nhưng đọc lên thì như đọc biên bản.</p>
 

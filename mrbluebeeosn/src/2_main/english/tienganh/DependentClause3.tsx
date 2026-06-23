@@ -60,7 +60,7 @@ export default function DependentClause3(): React.JSX.Element {
 
 			<h3 className="margin-y-50 text-center">1. Phụ câu là gì?</h3>
 
-			<p>Phụ câu là nhóm từ có đầy đủ <strong>chủ ngữ</strong> + <strong>động cơ</strong>, nhưng không thể đứng một mình làm thành câu hoàn chỉnh.</p>
+			<p>Phụ câu là nhóm từ có đầy đủ <strong>danh chủ</strong> + <strong>động cơ</strong>, nhưng không thể đứng một mình làm thành câu hoàn chỉnh.</p>
 
 			<p>Nó luôn cần “kết nối” với câu con độc lập (Independent Clause) để truyền tải ý nghĩa trọn vẹn.</p>
 					

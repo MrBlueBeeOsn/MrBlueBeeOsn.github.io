@@ -344,7 +344,7 @@ export default function AdjPlacement5(): React.JSX.Element {
 					
 			<p className="text-indent-whole">Chức năng:</p>
 
-			<p className="text-indent-whole">Đóng vai trò như một <strong>danh cơ</strong> bên trong câu lớn hơn — làm chủ ngữ, tân ngữ, hoặc bổ ngữ. Cho phép người nói nhúng nguyên một ý kiến, sự thật, hay câu hỏi vào trong một câu khác.</p>
+			<p className="text-indent-whole">Đóng vai trò như một <strong>danh cơ</strong> bên trong câu lớn hơn — làm danh chủ, danh nhận, hoặc bổ ngữ. Cho phép người nói nhúng nguyên một ý kiến, sự thật, hay câu hỏi vào trong một câu khác.</p>
 
 			<p className="margin-top-20"></p>
 			

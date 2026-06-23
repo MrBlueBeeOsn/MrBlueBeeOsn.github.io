@@ -90,7 +90,7 @@ export default function TracNghiemNguPhapTiengAnh(): React.JSX.Element {
 				"spoke"
 			],
 			correctAnswer: 2,
-			explanation: "Đây là câu Bị động (Passive Voice) ở thì Hiện tại Đơn (Present Simple). English là chủ ngữ chịu tác động, và việc nói tiếng Anh là một sự thật hoặc hành động thường xuyên. Cấu trúc bị động hiện tại đơn là: S + am/is/are + V3/ed."
+			explanation: "Đây là câu Bị động (Passive Voice) ở thì Hiện tại Đơn (Present Simple). English là danh chủ chịu tác động, và việc nói tiếng Anh là một sự thật hoặc hành động thường xuyên. Cấu trúc bị động hiện tại đơn là: S + am/is/are + V3/ed."
 		},
 		{
 			id: 7,

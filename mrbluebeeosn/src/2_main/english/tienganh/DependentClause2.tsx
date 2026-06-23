@@ -265,7 +265,7 @@ export default function DependentClause2(): React.JSX.Element {
 			
 			<h4 className="margin-y-40">Bài kiểm tra 2: Phép thử “thay bằng một danh cơ”</h4>
 
-			<p className="text-indent-whole">Đôi khi phụ câu làm chủ ngữ hoặc tân ngữ (noun clause).</p>
+			<p className="text-indent-whole">Đôi khi phụ câu làm danh chủ hoặc danh nhận (noun clause).</p>
 
 			<p className="text-indent-whole">Hãy thử thay nó bằng một từ như something hay that thing. Nếu thay được, rất có thể nó là câu con danh cơ – một loại phụ câu.</p>
 			
@@ -298,7 +298,7 @@ export default function DependentClause2(): React.JSX.Element {
 				<ul className="list-square">
 			
 					<li>Ngày 1-2:</li>
-					<li className="margin-bottom-20 list-none">Đọc một bài báo ngắn (ví dụ BBC, VOA). Dùng bút chì gạch chân tất cả các từ nối (who, which, that, because, although, when, while, as, if, unless, where, etc.). Mỗi khi thấy một từ đó, hãy xác định xem nó có bắt đầu một câu con có chủ ngữ – động cơ hay không.</li>
+					<li className="margin-bottom-20 list-none">Đọc một bài báo ngắn (ví dụ BBC, VOA). Dùng bút chì gạch chân tất cả các từ nối (who, which, that, because, although, when, while, as, if, unless, where, etc.). Mỗi khi thấy một từ đó, hãy xác định xem nó có bắt đầu một câu con có danh chủ – động cơ hay không.</li>
 			
 					<li>Ngày 3-4:</li>
 					<li className="margin-bottom-20 list-none">Với mỗi câu con phụ tìm được, hãy tách nó ra khỏi câu và đọc một mình. Cảm nhận sự “thiếu hụt”. Sau đó, ghép lại và chỉ ra câu con chính đi kèm.</li>

@@ -67,7 +67,7 @@ export default function LegoAssembly6(): React.JSX.Element {
 				<ul className="list-square">
 			
 					<li><strong>S</strong> = Subject</li>
-					<li className="margin-bottom-20 list-none">Chủ ngữ</li>
+					<li className="margin-bottom-20 list-none">Danh chủ</li>
 
 					<li><strong>Head</strong> = hạt nhân:</li>
 					<li className="margin-bottom-20 list-none">Động cơ chia, thời động cơ, modal, hoặc be.</li>
@@ -76,7 +76,7 @@ export default function LegoAssembly6(): React.JSX.Element {
 					<li className="margin-bottom-20 list-none">Nhãn chức năng cho phần phụ thuộc theo vị trí (object, complement, hoặc phần đứng ở vị trí subject). DP có thể là danh cụm, tính cụm, participial phrase, gerund clause, infinitive phrase, câu con danh cơ, v.v.</li>
 			
 					<li><strong>DC</strong> = Dependent Clause</li>
-					<li className="list-none">phụ câu có chủ ngữ + vị ngữ bên trong.</li>
+					<li className="list-none">phụ câu có danh chủ + vị ngữ bên trong.</li>
 			
 				</ul>
 			
@@ -85,11 +85,11 @@ export default function LegoAssembly6(): React.JSX.Element {
 			
 				<ol>
 			
-					<li>Xác định <strong>S</strong> (vị trí chủ ngữ).</li>
+					<li>Xác định <strong>S</strong> (vị trí danh chủ).</li>
 			
 					<li>Xác định <strong>Head</strong> (động cơ chia / thời động cơ / modal / <strong>be</strong>).</li>
 			
-					<li>Phần đứng sau <strong>Head</strong> (hoặc phần đứng trước Head nếu là chủ ngữ) là <strong>DP</strong> theo vị trí.</li>
+					<li>Phần đứng sau <strong>Head</strong> (hoặc phần đứng trước Head nếu là danh chủ) là <strong>DP</strong> theo vị trí.</li>
 
 					<li>Mở phần phụ thuộc ra: nếu bên trong có S V → đó là <strong>DC</strong>; nếu không → <strong>DP</strong> thuần túy.</li>
 			
@@ -311,7 +311,7 @@ export default function LegoAssembly6(): React.JSX.Element {
 				<ul className="list-square">
 			
 					<li><strong>Điều kiện</strong>:</li>
-					<li className="margin-bottom-20 list-none">Chủ ngữ trong câu con quan hệ trùng với danh cơ được bổ nghĩa.</li>
+					<li className="margin-bottom-20 list-none">Danh chủ trong câu con quan hệ trùng với danh cơ được bổ nghĩa.</li>
 			
 					<li><strong>Cách rút gọn</strong>:</li>
 					<li className="margin-bottom-20 list-none">Bỏ đại cơ quan hệ; giữ <strong>V</strong>‑<strong>ing</strong> (present participle) hoặc <strong>V</strong>‑<strong>ed</strong> (past participle).</li>
@@ -344,7 +344,7 @@ export default function LegoAssembly6(): React.JSX.Element {
 			
 				</ul>
 			
-			<p className="margin-top-20"><strong>Lưu ý</strong>: không rút gọn khi chủ ngữ câu con quan hệ khác danh cơ chính; tránh rút gọn nếu gây mơ hồ.</p>
+			<p className="margin-top-20"><strong>Lưu ý</strong>: không rút gọn khi danh chủ câu con quan hệ khác danh cơ chính; tránh rút gọn nếu gây mơ hồ.</p>
 			
 
 			{/* 6.  */}

@@ -60,7 +60,7 @@ export default function DependentClause9(): React.JSX.Element {
 
 			<h3 className="margin-y-50 text-center">Bản Chất Của Sự Gắn Kết Hữu Cơ</h3>
 
-			<p>Một phụ câu, dù sở hữu đầy đủ chủ ngữ và động cơ, vẫn chưa thể tự mình truyền tải một thông điệp hoàn chỉnh. Nó luôn cần một <strong>câu con độc lập</strong> (<strong>Independent Clause</strong>) để làm điểm tựa, để ý nghĩa được neo giữ và phát triển. Sự kết nối này được tạo nên bởi một <strong>từ liên kết phụ thuộc</strong> (<strong>subordinator</strong>) đứng ở phần mở đầu. Những từ này, như because, although, if, when, who, which, that, as, hay các từ nghi vấn (Wh-words), không chỉ là dấu hiệu nhận biết mà còn là sợi dây liên kết, định hình mối quan hệ giữa các ý tưởng.</p>
+			<p>Một phụ câu, dù sở hữu đầy đủ danh chủ và động cơ, vẫn chưa thể tự mình truyền tải một thông điệp hoàn chỉnh. Nó luôn cần một <strong>câu con độc lập</strong> (<strong>Independent Clause</strong>) để làm điểm tựa, để ý nghĩa được neo giữ và phát triển. Sự kết nối này được tạo nên bởi một <strong>từ liên kết phụ thuộc</strong> (<strong>subordinator</strong>) đứng ở phần mở đầu. Những từ này, như because, although, if, when, who, which, that, as, hay các từ nghi vấn (Wh-words), không chỉ là dấu hiệu nhận biết mà còn là sợi dây liên kết, định hình mối quan hệ giữa các ý tưởng.</p>
 
 			<p>Hãy hình dung một câu văn như một bản giao hưởng. Câu con là giai điệu chính, là chủ đề xuyên suốt. Phụ câu là những đoạn biến tấu, những hòa âm, những nốt nhạc bổ sung, chúng tự thân có giai điệu riêng nhưng chỉ thực sự thăng hoa khi được đặt vào tổng thể bản nhạc. Nếu tách rời, chúng sẽ trở nên lạc lõng và thiếu đi ngữ cảnh, không thể tạo nên một tác phẩm hoàn chỉnh.</p>
 
@@ -106,13 +106,13 @@ export default function DependentClause9(): React.JSX.Element {
 
 			<h3 className="margin-y-50 text-center">1. Câu Con Danh Ngữ (Noun Clauses)</h3>
 
-			<p><strong>Bản chất</strong>: Danh câu hoạt động như một danh cơ trong câu. Điều này có nghĩa là chúng có thể đảm nhiệm mọi vai trò mà một danh cơ thông thường có thể làm: chủ ngữ, tân ngữ trực tiếp, tân ngữ gián tiếp, bổ ngữ cho chủ ngữ, hoặc tân ngữ của giới cơ. Chúng biến một ý tưởng, một sự kiện thành một đối tượng mà câu có thể tác động hoặc nói về.</p>
+			<p><strong>Bản chất</strong>: Danh câu hoạt động như một danh cơ trong câu. Điều này có nghĩa là chúng có thể đảm nhiệm mọi vai trò mà một danh cơ thông thường có thể làm: danh chủ, danh nhận trực tiếp, danh nhận gián tiếp, bổ ngữ cho danh chủ, hoặc danh nhận của giới cơ. Chúng biến một ý tưởng, một sự kiện thành một đối tượng mà câu có thể tác động hoặc nói về.</p>
 
 			<p><strong>Từ liên kết điển hình</strong>: Thường bắt đầu bằng that, what, whatever, who, whoever, whom, whomever, whose, which, whichever, when, where, why, how, if, whether.</p>
 
-			<h4 className="margin-y-40">Làm Chủ ngữ:</h4>
+			<h4 className="margin-y-40">Làm Danh chủ:</h4>
 
-			<p className="text-indent-whole">Khi một câu con danh ngữ làm chủ ngữ, nó đứng đầu câu và là chủ thể của hành động, mang đến sự trang trọng và nhấn mạnh.</p>
+			<p className="text-indent-whole">Khi một câu con danh ngữ làm danh chủ, nó đứng đầu câu và là chủ thể của hành động, mang đến sự trang trọng và nhấn mạnh.</p>
 
 			<p className="text-indent-whole">Ví dụ, trong câu:</p>
 			
@@ -123,7 +123,7 @@ export default function DependentClause9(): React.JSX.Element {
 			
 				</ul>
 
-			<p className="margin-top-20 text-indent-whole">Toàn bộ cụm "What he said" là câu con danh ngữ, đóng vai trò là chủ ngữ của động cơ "surprised". Việc sử dụng câu con danh ngữ ở đây không chỉ đơn thuần là cung cấp thông tin, mà còn biến một hành động (he said) thành một sự vật (what he said) để làm chủ ngữ. Điều này cho phép người viết trình bày một khái niệm trừu tượng một cách cụ thể, tạo nên sự cô đọng và mạnh mẽ trong diễn đạt, làm cho câu văn trở nên súc tích và có trọng lượng hơn. Nếu không có câu con danh ngữ, chúng ta sẽ phải dùng một danh cụm hoặc một câu khác để diễn đạt ý này</p>
+			<p className="margin-top-20 text-indent-whole">Toàn bộ cụm "What he said" là câu con danh ngữ, đóng vai trò là danh chủ của động cơ "surprised". Việc sử dụng câu con danh ngữ ở đây không chỉ đơn thuần là cung cấp thông tin, mà còn biến một hành động (he said) thành một sự vật (what he said) để làm danh chủ. Điều này cho phép người viết trình bày một khái niệm trừu tượng một cách cụ thể, tạo nên sự cô đọng và mạnh mẽ trong diễn đạt, làm cho câu văn trở nên súc tích và có trọng lượng hơn. Nếu không có câu con danh ngữ, chúng ta sẽ phải dùng một danh cụm hoặc một câu khác để diễn đạt ý này</p>
 
 			<p className="text-indent-whole">Ví dụ:</p>
 			
@@ -136,9 +136,9 @@ export default function DependentClause9(): React.JSX.Element {
 			
 			<p className="margin-top-20 text-indent-whole">Nhưng sẽ kém chi tiết và nhấn mạnh hơn.</p>
 
-			<h4 className="margin-y-40">Làm Tân ngữ trực tiếp:</h4>
+			<h4 className="margin-y-40">Làm Danh nhận trực tiếp:</h4>
 
-			<p className="text-indent-whole">Nếu câu con danh ngữ làm tân ngữ trực tiếp, nó đứng sau động cơ và là đối tượng chịu tác động của hành động, giúp làm rõ thông tin mà động cơ hướng tới.</p>
+			<p className="text-indent-whole">Nếu câu con danh ngữ làm danh nhận trực tiếp, nó đứng sau động cơ và là đối tượng chịu tác động của hành động, giúp làm rõ thông tin mà động cơ hướng tới.</p>
 
 			<p className="text-indent-whole">Chẳng hạn:</p>
 			
@@ -149,7 +149,7 @@ export default function DependentClause9(): React.JSX.Element {
 			
 				</ul>
 
-			<p className="margin-top-20 text-indent-whole">Ở đây "where she lives" là câu con danh ngữ, làm tân ngữ trực tiếp cho động cơ "know". Câu con này trả lời cho câu hỏi "know what?" và cung cấp thông tin chi tiết về địa điểm mà người nói không rõ, thay vì chỉ một danh cơ đơn thuần. Nó mở rộng khả năng diễn đạt của động cơ, cho phép nó tác động lên một ý tưởng phức tạp, thể hiện sự thiếu thông tin một cách rõ ràng và tự nhiên hơn.</p>
+			<p className="margin-top-20 text-indent-whole">Ở đây "where she lives" là câu con danh ngữ, làm danh nhận trực tiếp cho động cơ "know". Câu con này trả lời cho câu hỏi "know what?" và cung cấp thông tin chi tiết về địa điểm mà người nói không rõ, thay vì chỉ một danh cơ đơn thuần. Nó mở rộng khả năng diễn đạt của động cơ, cho phép nó tác động lên một ý tưởng phức tạp, thể hiện sự thiếu thông tin một cách rõ ràng và tự nhiên hơn.</p>
 
 			<p className="text-indent-whole">Thay vì nói:</p>
 			
@@ -162,9 +162,9 @@ export default function DependentClause9(): React.JSX.Element {
 			
 			<p className="margin-top-20 text-indent-whole">Việc dùng câu con danh ngữ giúp diễn đạt một ý tưởng hoàn chỉnh hơn về sự không biết.</p>
 
-			<h4 className="margin-y-40">Làm Bổ ngữ cho chủ ngữ:</h4>
+			<h4 className="margin-y-40">Làm Bổ ngữ cho danh chủ:</h4>
 
-			<p className="text-indent-whole">Chúng cũng có thể làm bổ ngữ cho chủ ngữ, đứng sau động cơ nối (linking verb) và mô tả chủ ngữ, giúp định nghĩa hoặc giải thích thêm về chủ ngữ.</p>
+			<p className="text-indent-whole">Chúng cũng có thể làm bổ ngữ cho danh chủ, đứng sau động cơ nối (linking verb) và mô tả danh chủ, giúp định nghĩa hoặc giải thích thêm về danh chủ.</p>
 
 			<p className="text-indent-whole">Ví dụ</p>
 			
@@ -184,7 +184,7 @@ export default function DependentClause9(): React.JSX.Element {
 			
 				</ul>
 					
-			<p className="margin-top-20 text-indent-whole">Là câu con danh ngữ, làm bổ ngữ cho chủ ngữ "The problem". Nó không chỉ nêu vấn đề mà còn định nghĩa bản chất của vấn đề đó, mang lại sự rõ ràng và đầy đủ cho thông tin, giúp người đọc hiểu sâu sắc hơn về tình huống. Đây là cách hiệu quả để cung cấp một lời giải thích toàn diện cho một khái niệm, biến một vấn đề thành một sự thật hiển nhiên, thay vì chỉ một tính cơ đơn thuần như:</p>
+			<p className="margin-top-20 text-indent-whole">Là câu con danh ngữ, làm bổ ngữ cho danh chủ "The problem". Nó không chỉ nêu vấn đề mà còn định nghĩa bản chất của vấn đề đó, mang lại sự rõ ràng và đầy đủ cho thông tin, giúp người đọc hiểu sâu sắc hơn về tình huống. Đây là cách hiệu quả để cung cấp một lời giải thích toàn diện cho một khái niệm, biến một vấn đề thành một sự thật hiển nhiên, thay vì chỉ một tính cơ đơn thuần như:</p>
 			
 				<ul className="list-square">
 			
@@ -194,9 +194,9 @@ export default function DependentClause9(): React.JSX.Element {
 				</ul>
 
 
-			<h4 className="margin-y-40">Làm Tân ngữ của giới cơ:</h4>
+			<h4 className="margin-y-40">Làm Danh nhận của giới cơ:</h4>
 
-			<p className="text-indent-whole">Thậm chí, câu con danh ngữ còn có thể làm tân ngữ của giới cơ, như trong:</p>
+			<p className="text-indent-whole">Thậm chí, câu con danh ngữ còn có thể làm danh nhận của giới cơ, như trong:</p>
 			
 				<ul className="list-square">
 			
@@ -231,7 +231,7 @@ export default function DependentClause9(): React.JSX.Element {
 
 			<h4 className="margin-y-40">Bổ nghĩa cho người:</h4>
 
-			<p className="text-indent-whole">Khi bổ nghĩa cho người, chúng ta thường dùng who (làm chủ ngữ trong câu con phụ), whom (làm tân ngữ), hoặc whose (chỉ sở hữu).</p>
+			<p className="text-indent-whole">Khi bổ nghĩa cho người, chúng ta thường dùng who (làm danh chủ trong câu con phụ), whom (làm danh nhận), hoặc whose (chỉ sở hữu).</p>
 
 			<p className="text-indent-whole">Ví dụ:</p>
 			
@@ -242,7 +242,7 @@ export default function DependentClause9(): React.JSX.Element {
 			
 				</ul>
 
-			<p className="margin-top-20 text-indent-whole">Làm rõ học sinh nào sẽ thành công. Ở đây, "who studies hard" là câu con tính ngữ, bổ nghĩa cho danh cơ "student". "Who" đóng vai trò chủ ngữ của câu con tính ngữ, liên kết hành động "studies hard" với danh cơ "student", giúp xác định chính xác đối tượng được nhắc đến và nhấn mạnh phẩm chất của họ. Đây là cách hiệu quả để phân biệt một cá nhân trong một nhóm lớn, mang lại sự rõ ràng và tập trung. </p>
+			<p className="margin-top-20 text-indent-whole">Làm rõ học sinh nào sẽ thành công. Ở đây, "who studies hard" là câu con tính ngữ, bổ nghĩa cho danh cơ "student". "Who" đóng vai trò danh chủ của câu con tính ngữ, liên kết hành động "studies hard" với danh cơ "student", giúp xác định chính xác đối tượng được nhắc đến và nhấn mạnh phẩm chất của họ. Đây là cách hiệu quả để phân biệt một cá nhân trong một nhóm lớn, mang lại sự rõ ràng và tập trung. </p>
 
 			<p className="text-indent-whole">Nếu chỉ nói:</p>
 			
@@ -264,7 +264,7 @@ export default function DependentClause9(): React.JSX.Element {
 			
 				</ul>
 			
-			<p className="margin-top-20 text-indent-whole">Với "whom I met yesterday" là câu con tính ngữ, bổ nghĩa cho "person". "Whom" làm tân ngữ, chỉ rõ người được nhắc đến thông qua một hành động cụ thể của người nói, tạo sự liên kết cá nhân hơn và cung cấp thông tin nhận dạng một cách tự nhiên, làm cho câu văn trở nên sinh động.</p>
+			<p className="margin-top-20 text-indent-whole">Với "whom I met yesterday" là câu con tính ngữ, bổ nghĩa cho "person". "Whom" làm danh nhận, chỉ rõ người được nhắc đến thông qua một hành động cụ thể của người nói, tạo sự liên kết cá nhân hơn và cung cấp thông tin nhận dạng một cách tự nhiên, làm cho câu văn trở nên sinh động.</p>
 
 
 			<h4 className="margin-y-40">Bổ nghĩa cho vật/sự việc:</h4>
@@ -278,7 +278,7 @@ export default function DependentClause9(): React.JSX.Element {
 			
 				</ul>
 			
-			<p className="margin-top-20 text-indent-whole">Câu con "that I bought" là câu con tính ngữ, bổ nghĩa cho "book". "That" ở đây đóng vai trò tân ngữ của động cơ "bought" trong câu con tính ngữ, cho phép chúng ta chỉ định một vật thể thông qua một hành động liên quan đến nó, thay vì chỉ một tính cơ chung chung, làm cho mô tả trở nên cụ thể và dễ hình dung. Điều này giúp tránh sự mơ hồ và làm cho thông tin trở nên chính xác hơn, tạo nên sự rõ ràng trong giao tiếp.</p>
+			<p className="margin-top-20 text-indent-whole">Câu con "that I bought" là câu con tính ngữ, bổ nghĩa cho "book". "That" ở đây đóng vai trò danh nhận của động cơ "bought" trong câu con tính ngữ, cho phép chúng ta chỉ định một vật thể thông qua một hành động liên quan đến nó, thay vì chỉ một tính cơ chung chung, làm cho mô tả trở nên cụ thể và dễ hình dung. Điều này giúp tránh sự mơ hồ và làm cho thông tin trở nên chính xác hơn, tạo nên sự rõ ràng trong giao tiếp.</p>
 
 			<p className="text-indent-whole">Thay vì:</p>
 

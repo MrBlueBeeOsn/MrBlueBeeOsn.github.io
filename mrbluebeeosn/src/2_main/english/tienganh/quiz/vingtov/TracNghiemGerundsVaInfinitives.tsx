@@ -42,7 +42,7 @@ export default function TracNghiemGerundsVaInfinitives(): React.JSX.Element {
 				"gone"
 			],
 			correctAnswer: 1,
-			explanation: "Cấu trúc \"Let + someone + V (bare-infinitive)\" được dùng để diễn tả việc cho phép ai đó làm gì. Trong cấu trúc này, động cơ đi sau tân ngữ (me) bắt buộc phải ở dạng nguyên thể không có \"to\"."
+			explanation: "Cấu trúc \"Let + someone + V (bare-infinitive)\" được dùng để diễn tả việc cho phép ai đó làm gì. Trong cấu trúc này, động cơ đi sau danh nhận (me) bắt buộc phải ở dạng nguyên thể không có \"to\"."
 		},
 		{
 			id: 3,
@@ -78,7 +78,7 @@ export default function TracNghiemGerundsVaInfinitives(): React.JSX.Element {
 				"gone"
 			],
 			correctAnswer: 2,
-			explanation: "Động cơ \"Suggest\" (gợi ý) khi được theo sau trực tiếp bởi một hành động khác mà không có tân ngữ chỉ người thì hành động đó phải được chia ở dạng danh động cơ (V-ing)."
+			explanation: "Động cơ \"Suggest\" (gợi ý) khi được theo sau trực tiếp bởi một hành động khác mà không có danh nhận chỉ người thì hành động đó phải được chia ở dạng danh động cơ (V-ing)."
 		},
 		{
 			id: 6,
@@ -114,7 +114,7 @@ export default function TracNghiemGerundsVaInfinitives(): React.JSX.Element {
 				"found"
 			],
 			correctAnswer: 2,
-			explanation: "Đây là cấu trúc tính cơ dùng với chủ ngữ giả: \"It + be + Adj + to V\". Cấu trúc này dùng để đưa ra nhận xét hoặc đánh giá về việc thực hiện một hành động nào đó."
+			explanation: "Đây là cấu trúc tính cơ dùng với danh chủ giả: \"It + be + Adj + to V\". Cấu trúc này dùng để đưa ra nhận xét hoặc đánh giá về việc thực hiện một hành động nào đó."
 		},
 		{
 			id: 9,

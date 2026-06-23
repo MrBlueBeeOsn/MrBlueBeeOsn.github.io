@@ -114,7 +114,7 @@ export default function LegoAssembly7(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>Subject (Chủ ngữ) = <strong>S</strong></li>
+					<li>Subject (Danh chủ) = <strong>S</strong></li>
 			
 					<li>Hạt nhân (Khối trung tâm điều khiển) = <strong>Head</strong></li>
 			
@@ -135,7 +135,7 @@ export default function LegoAssembly7(): React.JSX.Element {
 
 			{/* 3.  */}
 
-			<h3 className="margin-y-50 text-center">3. S (Subject) — Chủ Ngữ</h3>
+			<h3 className="margin-y-50 text-center">3. S (Subject) — Danh Chủ</h3>
 
 			<p className="margin-top-20">Là người hoặc vật thực hiện hành động hoặc mang trạng thái.</p>
 			

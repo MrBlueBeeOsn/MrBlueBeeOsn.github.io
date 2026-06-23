@@ -50,7 +50,7 @@ export default function LegoAssembly8(): React.JSX.Element {
 
 			<h4 className="margin-bottom-30 text-center">Ngữ pháp Lego: Ba chỗ đứng, bốn cách lấp đầy</h4>
 
-			<p>Ngữ pháp tiếng Anh thường làm ta rối vì quá nhiều tên gọi. Tân ngữ, bổ ngữ, câu con quan hệ, câu con danh ngữ. Mỗi tên một định nghĩa, cuối cùng ta nhớ tên mà quên cách dùng.</p>
+			<p>Ngữ pháp tiếng Anh thường làm ta rối vì quá nhiều tên gọi. Danh nhận, bổ ngữ, câu con quan hệ, câu con danh ngữ. Mỗi tên một định nghĩa, cuối cùng ta nhớ tên mà quên cách dùng.</p>
 			
 			<p>Thử dẹp hết tên. Chỉ giữ lại ba chỗ đứng trong câu. Mọi thứ khác chỉ là cách bạn lấp đầy ba chỗ đó.</p>
 
@@ -60,7 +60,7 @@ export default function LegoAssembly8(): React.JSX.Element {
 
 			<p>Một câu tiếng Anh chuẩn luôn có ba vị trí, theo thứ tự:</p>
 
-			<h4 className="margin-y-40">1. S – chủ ngữ</h4>
+			<h4 className="margin-y-40">1. S – danh chủ</h4>
 				
 			<p className="text-indent-whole">Ai làm gì.</p>
 
@@ -292,7 +292,7 @@ export default function LegoAssembly8(): React.JSX.Element {
 			
 				</ul>
 			
-			<p className="margin-top-20">Bạn không cần hỏi đây là tân ngữ hay bổ ngữ. Chỉ cần trả lời hai câu hỏi: nó đứng ở đâu, và nó làm bằng gì.</p>
+			<p className="margin-top-20">Bạn không cần hỏi đây là danh nhận hay bổ ngữ. Chỉ cần trả lời hai câu hỏi: nó đứng ở đâu, và nó làm bằng gì.</p>
 
 			{/* Lời Kết */}
 

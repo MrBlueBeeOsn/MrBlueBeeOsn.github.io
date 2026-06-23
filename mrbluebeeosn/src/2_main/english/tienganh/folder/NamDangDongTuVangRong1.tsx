@@ -45,7 +45,7 @@ export default function NamDangDongTuVangRong1(): React.JSX.Element {
 
 				<h3 className="margin-y-50 text-center">1. Dạng gốc (work / play / eat / go)</h3>
 
-					<p>Đây là “<strong>phiên bản gốc rễ</strong>” – dùng khi chủ ngữ là I, you, we, they, hoặc trong câu hỏi/phủ định với do/does/did.</p>
+					<p>Đây là “<strong>phiên bản gốc rễ</strong>” – dùng khi danh chủ là I, you, we, they, hoặc trong câu hỏi/phủ định với do/does/did.</p>
 
 					<p>Nó xuất hiện ở mọi câu nói về thói quen, sự thật, kế hoạch.</p>
 

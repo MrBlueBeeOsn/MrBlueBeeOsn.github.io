@@ -30,7 +30,7 @@ export default function EVSingularPluralVerbsQuiz(): React.JSX.Element {
 				"being"
 			],
 			correctAnswer: 0,
-			explanation: "Chủ ngữ chính là danh cơ số ít \"The list\", không phải \"items\". Vì vậy, động cơ phải chia ở số ít."
+			explanation: "Danh chủ chính là danh cơ số ít \"The list\", không phải \"items\". Vì vậy, động cơ phải chia ở số ít."
 		},
 		{
 			id: 2,
@@ -42,7 +42,7 @@ export default function EVSingularPluralVerbsQuiz(): React.JSX.Element {
 				"has wanted"
 			],
 			correctAnswer: 2,
-			explanation: "Với cấu trúc \"Neither... nor...\", động cơ chia theo chủ ngữ gần nó nhất. \"The students\" là danh cơ số nhiều nên dùng \"want\"."
+			explanation: "Với cấu trúc \"Neither... nor...\", động cơ chia theo danh chủ gần nó nhất. \"The students\" là danh cơ số nhiều nên dùng \"want\"."
 		},
 		{
 			id: 3,
@@ -78,7 +78,7 @@ export default function EVSingularPluralVerbsQuiz(): React.JSX.Element {
 				"are having"
 			],
 			correctAnswer: 0,
-			explanation: "Khi chủ ngữ bắt đầu bằng \"Every\" hoặc \"Each\", động cơ luôn chia ở số ít bất kể có bao nhiêu danh cơ đi sau."
+			explanation: "Khi danh chủ bắt đầu bằng \"Every\" hoặc \"Each\", động cơ luôn chia ở số ít bất kể có bao nhiêu danh cơ đi sau."
 		},
 		{
 			id: 6,
@@ -114,7 +114,7 @@ export default function EVSingularPluralVerbsQuiz(): React.JSX.Element {
 				"have been"
 			],
 			correctAnswer: 1,
-			explanation: "Với cấu trúc \"Either... or...\", động cơ chia theo chủ ngữ gần nó nhất là \"my father\" (số ít)."
+			explanation: "Với cấu trúc \"Either... or...\", động cơ chia theo danh chủ gần nó nhất là \"my father\" (số ít)."
 		},
 		{
 			id: 9,

@@ -30,7 +30,7 @@ export default function EVSubjectVerbQuiz(): React.JSX.Element {
 				"have"
 			],
 			correctAnswer: 0,
-			explanation: "Khi chủ ngữ bắt đầu bằng \"Each of\" (Mỗi trong số...), động cơ luôn chia ở dạng số ít bất kể danh cơ theo sau là số nhiều."
+			explanation: "Khi danh chủ bắt đầu bằng \"Each of\" (Mỗi trong số...), động cơ luôn chia ở dạng số ít bất kể danh cơ theo sau là số nhiều."
 		},
 		{
 			id: 2,
@@ -42,7 +42,7 @@ export default function EVSubjectVerbQuiz(): React.JSX.Element {
 				"has been"
 			],
 			correctAnswer: 1,
-			explanation: "Với cấu trúc \"Neither... nor...\" (Không... cũng không...), động cơ phải chia theo chủ ngữ gần nó nhất (ở đây là \"employees\" - danh cơ số nhiều)."
+			explanation: "Với cấu trúc \"Neither... nor...\" (Không... cũng không...), động cơ phải chia theo danh chủ gần nó nhất (ở đây là \"employees\" - danh cơ số nhiều)."
 		},
 		{
 			id: 3,
@@ -90,7 +90,7 @@ export default function EVSubjectVerbQuiz(): React.JSX.Element {
 				"has"
 			],
 			correctAnswer: 1,
-			explanation: "Với cấu trúc \"Either... or...\" (Hoặc... hoặc...), động cơ chia theo chủ ngữ đứng gần nó nhất là \"parents\" (số nhiều)."
+			explanation: "Với cấu trúc \"Either... or...\" (Hoặc... hoặc...), động cơ chia theo danh chủ đứng gần nó nhất là \"parents\" (số nhiều)."
 		},
 		{
 			id: 7,

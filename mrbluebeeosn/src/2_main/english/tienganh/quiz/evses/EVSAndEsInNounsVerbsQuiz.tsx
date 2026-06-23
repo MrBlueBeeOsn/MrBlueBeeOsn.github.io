@@ -30,7 +30,7 @@ export default function EVSAndEsInNounsVerbs(): React.JSX.Element {
 				"brushing"
 			],
 			correctAnswer: 1,
-			explanation: "Với chủ ngữ số ít (My younger brother), động cơ tận cùng là -sh ta thêm -es."
+			explanation: "Với danh chủ số ít (My younger brother), động cơ tận cùng là -sh ta thêm -es."
 		},
 		{
 			id: 2,
@@ -54,7 +54,7 @@ export default function EVSAndEsInNounsVerbs(): React.JSX.Element {
 				"doing"
 			],
 			correctAnswer: 2,
-			explanation: "Động cơ \"do\" khi đi với chủ ngữ ngôi thứ ba số ít (She) sẽ thêm -es thành \"does\"."
+			explanation: "Động cơ \"do\" khi đi với danh chủ ngôi thứ ba số ít (She) sẽ thêm -es thành \"does\"."
 		},
 		{
 			id: 4,
@@ -126,7 +126,7 @@ export default function EVSAndEsInNounsVerbs(): React.JSX.Element {
 				"going"
 			],
 			correctAnswer: 1,
-			explanation: "Động cơ tận cùng là -o thêm -es khi đi với chủ ngữ số ít (He)."
+			explanation: "Động cơ tận cùng là -o thêm -es khi đi với danh chủ số ít (He)."
 		},
 		{
 			id: 10,
