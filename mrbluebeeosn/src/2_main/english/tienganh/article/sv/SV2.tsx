@@ -395,7 +395,7 @@ export default function SV2(): React.JSX.Element {
 					<li>The student [in the front row] always answers first.</li>
 					<li className="margin-bottom-20 list-none">Học sinh [ở hàng ghế đầu] luôn trả lời đầu tiên.</li>
 			
-					<li className="list-none">Hình thái: [in the front row] – Giới Cụm, một cụm chỉ phạm vi không gian, bắt đầu bằng in.</li>
+					<li className="list-none">Hình thái: [in the front row] – Giới Cụm [Prepositional Phrase], một cụm chỉ phạm vi không gian, bắt đầu bằng in.</li>
 			
 					<li className="list-none">Chức năng: [in the front row] – Tính Cụm [Adjective Phrase] vẫn đứng sau The student, cùng chức năng bổ sung đặc điểm.</li>
 			
@@ -458,7 +458,7 @@ export default function SV2(): React.JSX.Element {
 					<li>He drives [with great care].</li>
 					<li className="margin-bottom-20 list-none">Anh ấy lái xe [với sự cẩn thận lớn].</li>
 			
-					<li className="list-none">Hình thái: [with great care] – Giới Cụm, một cụm chỉ cách thức, bắt đầu bằng with.</li>
+					<li className="list-none">Hình thái: [with great care] – Giới Cụm [Prepositional Phrase], một cụm chỉ cách thức, bắt đầu bằng with.</li>
 			
 					<li className="list-none">Chức năng: [with great care] – Trạng Cụm [Adverb Phrase] vẫn bổ nghĩa cho động cơ drives.</li>
 			
