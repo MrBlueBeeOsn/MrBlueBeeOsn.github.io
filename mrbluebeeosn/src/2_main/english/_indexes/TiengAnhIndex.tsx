@@ -661,9 +661,9 @@ export default function TiengAnhIndex(): React.JSX.Element {
 
             <li>
               <div className="li-content">
-                {/* <Link to="/tieng-anh/nested-structure-1">Nested Structure
+                <Link to="/tieng-anh/nested-structure-1">Nested Structure
                 <sup>&nbsp;1&nbsp;</sup>
-                </Link> */}
+                </Link>
                 {/* <Link to="/tieng-anh/nested-structure-2">
                   <sup>&nbsp;2&nbsp;</sup>
                 </Link>
@@ -697,9 +697,9 @@ export default function TiengAnhIndex(): React.JSX.Element {
 
             <li>
               <div className="li-content">
-                {/* <Link to="/tieng-anh/nine-box-1">Nine Box
+                <Link to="/tieng-anh/nine-box-1">Nine Box
                 <sup>&nbsp;1&nbsp;</sup>
-                </Link> */}
+                </Link>
                 {/* <Link to="/tieng-anh/nine-box-2">
                   <sup>&nbsp;2&nbsp;</sup>
                 </Link>
@@ -732,12 +732,12 @@ export default function TiengAnhIndex(): React.JSX.Element {
 
             <li>
               <div className="li-content">
-                {/* <Link to="/tieng-anh/s-v-1">SV
+                <Link to="/tieng-anh/s-v-1">SV
                 <sup>&nbsp;1&nbsp;</sup>
                 </Link>
                 <Link to="/tieng-anh/s-v-2">
                   <sup>&nbsp;2&nbsp;</sup>
-                </Link> */}
+                </Link>
                 {/* <Link to="/tieng-anh/s-v-3">
                   <sup>&nbsp;3&nbsp;</sup>
                 </Link>
@@ -801,12 +801,12 @@ export default function TiengAnhIndex(): React.JSX.Element {
 
             <li>
               <div className="li-content">
-                {/* <Link to="/tieng-anh/three-dc-1">Three DC
+                <Link to="/tieng-anh/three-dc-1">Three DC
                 <sup>&nbsp;1&nbsp;</sup>
                 </Link>
                 <Link to="/tieng-anh/three-dc-2">
                   <sup>&nbsp;2&nbsp;</sup>
-                </Link> */}
+                </Link>
                 {/* <Link to="/tieng-anh/three-dc-3">
                   <sup>&nbsp;3&nbsp;</sup>
                 </Link>
@@ -836,12 +836,12 @@ export default function TiengAnhIndex(): React.JSX.Element {
 
             <li>
               <div className="li-content">
-                {/* <Link to="/tieng-anh/adj-placement-1">ADJ Placement
+                <Link to="/tieng-anh/adj-placement-1">ADJ Placement
                 <sup>&nbsp;1&nbsp;</sup>
                 </Link>
                 <Link to="/tieng-anh/adj-placement-2">
                   <sup>&nbsp;2&nbsp;</sup>
-                </Link> */}
+                </Link>
                 {/* <Link to="/tieng-anh/adj-placement-3">
                   <sup>&nbsp;3&nbsp;</sup>
                 </Link>
@@ -872,12 +872,12 @@ export default function TiengAnhIndex(): React.JSX.Element {
 
             <li>
               <div className="li-content">
-                {/* <Link to="/tieng-anh/lego-assembly-1">Lego Assembly
+                <Link to="/tieng-anh/lego-assembly-1">Lego Assembly
                 <sup>&nbsp;1&nbsp;</sup>
                 </Link>
                 <Link to="/tieng-anh/lego-assembly-2">
                   <sup>&nbsp;2&nbsp;</sup>
-                </Link> */}
+                </Link>
                 {/* <Link to="/tieng-anh/lego-assembly-3">
                   <sup>&nbsp;3&nbsp;</sup>
                 </Link>
