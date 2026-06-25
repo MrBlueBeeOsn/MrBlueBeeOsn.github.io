@@ -557,7 +557,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 			<p className="text-indent-whole">Việc này vận hành như một chuỗi các mắt xích logic phụ thuộc, <strong>bắt đầu ngay từ Động Cơ</strong> [<strong>Verb Base</strong>] <strong>điều phối chính</strong> ở tầng ngoài:</p>
 
 
-			<p className="margin-top-20 text-indent-whole">Câu ví dụ mẫu: [believe {'{that global temperatures will continue to rise}'}]</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Câu ví dụ mẫu</strong>: [believe {'{that global temperatures will continue to rise}'}]</p>
 			
 				<ul className="list-square">
 			
@@ -568,7 +568,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 				</ul>
 			
 					
-			<p className="margin-top-20 text-indent-whole">Bóc tách tổ chức tư duy:</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Bóc tách tổ chức tư duy</strong>:</p>
 			
 				<ul className="list-square">
 			
@@ -578,7 +578,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 			
 					<li>Chức năng phân tầng:</li>
 					<li className="list-none">Khối Động Câu tầng trong {'{that...}'} / {'{rằng...}'} vận hành trọn vẹn với chức năng của một Danh Câu [Noun Clause] làm Danh Nhận chịu tác động trực tiếp của chữ hành động chính là believe / tin.</li>
-					<li className="list-none">Khi bao gói lại, toàn bộ khối lớn [believe {'{that...}'}] / [tin {'{rằng...}'}] tạo thành một Danh Cụm Phân Tầng lồng ghép chặt chẽ, giúp câu văn học thuật mở rộng thông tin một cách cực kỳ logic.</li>
+					<li className="list-none">Khi bao gói lại, toàn bộ khối lớn [believe {'{that...}'}] / [tin {'{rằng...}'}] tạo thành một <strong>Danh Cụm Phân Tầng</strong> lồng ghép chặt chẽ, giúp câu văn học thuật mở rộng thông tin một cách cực kỳ logic.</li>
 			
 				</ul>
 			
@@ -588,7 +588,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 					
 			<p className="text-indent-whole">Đây là hiện tượng mà một khối tổng thể bên ngoài làm nhiệm vụ mô tả cho Danh Cơ đứng trước, nhưng lõi bên trong của nó lại chứa một hệ hành động phức hợp gánh chức năng tiếp nhận.</p>
 
-			<p className="margin-top-20 text-indent-whole">Câu ví dụ mẫu: [on {'{what they discovered}'}]</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Câu ví dụ mẫu</strong>: [on {'{what they discovered}'}]</p>
 			
 				<ul className="list-square">
 			
@@ -598,7 +598,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 			
 				</ul>
 			
-			<p className="margin-top-20 text-indent-whole">Bóc tách tổ chức tư duy:</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Bóc tách tổ chức tư duy</strong>:</p>
 			
 				<ul className="list-square">
 			
@@ -608,7 +608,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 			
 					<li>Chức năng phân tầng:</li>
 					<li className="list-none">Khối tầng trong {'{what...}'} / {'{những gì...}'} đóng vai trò là một Danh Câu [Noun Clause] đứng sau để làm Danh Nhận chịu sự điều phối trực tiếp của Giới Cơ on / về.</li>
-					<li className="list-none">Khi hai tầng này bao gói vào nhau thành khối lớn [on {'{what...}'}] / [về {'{những gì...}'}], nó sẽ gánh vác chức năng tổng thể là một Tính Cụm [Adjective Phrase] định vị ngay sau Danh Cơ proposal để mô tả và làm rõ nghĩa cho bản đề xuất đó.</li>
+					<li className="list-none">Khi hai tầng này bao gói vào nhau thành khối lớn [on {'{what...}'}] / [về {'{những gì...}'}], nó sẽ gánh vác chức năng tổng thể là một <strong>Tính Cụm</strong> [<strong>Adjective Phrase</strong>] định vị ngay sau Danh Cơ proposal để mô tả và làm rõ nghĩa cho bản đề xuất đó.</li>
 			
 				</ul>
 			
@@ -618,7 +618,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 					
 			<p className="text-indent-whole">Tương tự như trên, nhưng lúc này khối bao gói tổng thể tầng ngoài không đứng sau Danh Cơ để mô tả đặc điểm nữa, mà đứng sau để điều phối ngữ cảnh, không gian, thời gian hoặc nguyên nhân cho hành động chính.</p>
 
-			<p className="margin-top-20 text-indent-whole">Câu ví dụ mẫu: [because of {'{how she managed the crisis}'}]</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Câu ví dụ mẫu</strong>: [because of {'{how she managed the crisis}'}]</p>
 			
 				<ul className="list-square">
 			
@@ -629,7 +629,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 				</ul>
 			
 
-			<p className="margin-top-20 text-indent-whole">Bóc tách tổ chức tư duy:</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Bóc tách tổ chức tư duy</strong>:</p>
 			
 				<ul className="list-square">
 			
@@ -639,7 +639,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 			
 					<li>Chức năng phân tầng:</li>
 					<li className="list-none">Khối Động Câu tầng trong {'{how...}'} / {'{cách cô ấy...}'} vận hành với chức năng là một Danh Câu [Noun Clause] đóng vai trò làm Danh Nhận đứng sau để chịu sự tác động điều phối của Giới Cơ because of / vì.</li>
-					<li className="list-none">Khi tích hợp lại thành khối lớn [because of {'{how...}'}] / [vì {'{cách cô ấy...}'}], nó gánh vác chức năng tổng thể là một Trạng Cụm [Adverb Phrase] bổ nghĩa cho toàn bộ khối hành động We succeeded phía trước nhằm làm rõ ngữ cảnh nguyên nhân dẫn đến sự thành công.</li>
+					<li className="list-none">Khi tích hợp lại thành khối lớn [because of {'{how...}'}] / [vì {'{cách cô ấy...}'}], nó gánh vác chức năng tổng thể là một <strong>Trạng Cụm</strong> [<strong>Adverb Phrase</strong>] bổ nghĩa cho toàn bộ khối hành động We succeeded phía trước nhằm làm rõ ngữ cảnh nguyên nhân dẫn đến sự thành công.</li>
 			
 				</ul>
 			
