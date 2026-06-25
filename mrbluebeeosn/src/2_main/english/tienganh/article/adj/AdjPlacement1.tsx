@@ -573,12 +573,12 @@ export default function AdjPlacement1(): React.JSX.Element {
 				<ul className="list-square">
 			
 					<li>Hình thái phân tầng:</li>
-					<li className="list-none">Toàn bộ khối tổng thể bắt đầu ngay từ chữ hành động chính điều phối ở tầng ngoài là [believe...] / [tin...].</li>
-					<li className="margin-bottom-20 list-none">Chữ hành động này mở khóa và ôm trọn lấy chiếc hộp lớn ở tầng trong {'{that global temperatures will continue to rise}'} / {'{rằng nhiệt độ toàn cầu...}'} mang hình thái của một Động Câu [Verb Clause].</li>
+					<li className="list-none">Khối tổng thể lớn ở tầng ngoài [believe {'{that global temperatures will continue to rise}'}] mang hình thái của một Động Cụm [Verb Phrase] khởi đầu bằng hành động chính believe.</li>
+					<li className="margin-bottom-20 list-none">Khối này mở khóa và ôm trọn lấy chiếc hộp nhỏ ở tầng trong {'{that global temperatures will continue to rise}'} mang hình thái của một Động Câu [Verb Clause].</li>
 			
 					<li>Chức năng phân tầng:</li>
-					<li className="list-none">Khối Động Câu tầng trong {'{that...}'} / {'{rằng...}'} vận hành trọn vẹn với chức năng của một Danh Câu [Noun Clause] làm Danh Nhận chịu tác động trực tiếp của chữ hành động chính là believe / tin.</li>
-					<li className="list-none">Khi bao gói lại, toàn bộ khối lớn [believe {'{that...}'}] / [tin {'{rằng...}'}] tạo thành một <strong>Danh Cụm Phân Tầng</strong> lồng ghép chặt chẽ, giúp câu văn học thuật mở rộng thông tin một cách cực kỳ logic.</li>
+					<li className="list-none">Khối Động Câu tầng trong {'{that global temperatures will continue to rise}'} vận hành trọn vẹn với chức năng của một Danh Câu [Noun Clause] làm Danh Nhận chịu tác động trực tiếp của Động Cơ hạt nhân believe.</li>
+					<li className="list-none">Khi bao gói lại, toàn bộ khối lớn [believe {'{that global temperatures will continue to rise}'}] tạo thành một <strong>Danh Cụm Phân Tầng</strong> [<strong>Nested Noun Phrase</strong>] lồng ghép chặt chẽ, giúp câu văn học thuật mở rộng thông tin một cách cực kỳ logic.</li>
 			
 				</ul>
 			
@@ -603,12 +603,12 @@ export default function AdjPlacement1(): React.JSX.Element {
 				<ul className="list-square">
 			
 					<li>Hình thái phân tầng:</li>
-					<li className="list-none">Khối tổng thể tầng ngoài [on...] / [về...] khởi đầu bằng Giới Cơ on / về, đây chính là một Giới Cụm [Prepositional Phrase].</li>
-					<li className="margin-bottom-20 list-none">Tuy nhiên, ngay phía sau Giới Cơ tầng ngoài, khối hình thái tầng trong {'{what they discovered}'} / {'{những gì họ khám phá}'} lại là một việc hành động phức hợp có hệ tạo hành động riêng, tức là một Động Câu [Verb Clause].</li>
+					<li className="list-none">Khối tổng thể tầng ngoài [on {'{what they discovered}'}'] khởi đầu bằng Giới Cơ on, đây chính là một Giới Cụm [Prepositional Phrase].</li>
+					<li className="margin-bottom-20 list-none">Ngay phía sau Giới Cơ tầng ngoài, khối hình thái tầng trong {'{what they discovered}'} lại là một việc hành động phức hợp có hệ tạo hành động riêng, tức là một Động Câu [Verb Clause].</li>
 			
 					<li>Chức năng phân tầng:</li>
-					<li className="list-none">Khối tầng trong {'{what...}'} / {'{những gì...}'} đóng vai trò là một Danh Câu [Noun Clause] đứng sau để làm Danh Nhận chịu sự điều phối trực tiếp của Giới Cơ on / về.</li>
-					<li className="list-none">Khi hai tầng này bao gói vào nhau thành khối lớn [on {'{what...}'}] / [về {'{những gì...}'}], nó sẽ gánh vác chức năng tổng thể là một <strong>Tính Cụm</strong> [<strong>Adjective Phrase</strong>] định vị ngay sau Danh Cơ proposal để mô tả và làm rõ nghĩa cho bản đề xuất đó.</li>
+					<li className="list-none">Khối tầng trong {'{what they discovered}'} đóng vai trò là một Danh Câu [Noun Clause] đứng sau để làm Danh Nhận chịu sự điều phối trực tiếp của khối Giới Cơ thuộc Giới Cụm tầng ngoài.</li>
+					<li className="list-none">Khi hai tầng này bao gói vào nhau thành khối lớn [on {'{what they discovered}'}], nó sẽ gánh vác chức năng tổng thể là một <strong>Tính Cụm</strong> [<strong>Adjective Phrase</strong>] định vị ngay sau Danh Cơ proposal để mô tả và làm rõ nghĩa cho bản đề xuất đó.</li>
 			
 				</ul>
 			
@@ -634,12 +634,12 @@ export default function AdjPlacement1(): React.JSX.Element {
 				<ul className="list-square">
 			
 					<li>Hình thái phân tầng:</li>
-					<li className="list-none">Khối tổng thể tầng ngoài [because of...] / [vì...] được mở đầu bằng một Giới Cơ phức hợp (because of / vì), tạo nên một hình thái Giới Cụm [Prepositional Phrase] lớn ở tầng ngoài.</li>
-					<li className="margin-bottom-20 list-none">Nằm gọn bên trong chiếc hộp lớn này, khối tầng trong {'{how she managed the crisis}'} / {'{cách cô ấy xử lý...}'} chứa một hệ hành động được thiết lập thời đầy đủ, mang hình thái của một Động Câu [Verb Clause].</li>
+					<li className="list-none">Khối tổng thể tầng ngoài [because of {'{how she managed the crisis}'}] được mở đầu bằng Giới Cụm gốc because of, tạo nên một hình thái Giới Cụm [Prepositional Phrase] lớn ở tầng ngoài.</li>
+					<li className="margin-bottom-20 list-none">Nằm gọn bên trong chiếc hộp lớn này, khối tầng trong {'{how she managed the crisis}'} chứa một hệ hành động được thiết lập thời đầy đủ, mang hình thái của một Động Câu [Verb Clause].</li>
 			
 					<li>Chức năng phân tầng:</li>
-					<li className="list-none">Khối Động Câu tầng trong {'{how...}'} / {'{cách cô ấy...}'} vận hành với chức năng là một Danh Câu [Noun Clause] đóng vai trò làm Danh Nhận đứng sau để chịu sự tác động điều phối của Giới Cơ because of / vì.</li>
-					<li className="list-none">Khi tích hợp lại thành khối lớn [because of {'{how...}'}] / [vì {'{cách cô ấy...}'}], nó gánh vác chức năng tổng thể là một <strong>Trạng Cụm</strong> [<strong>Adverb Phrase</strong>] bổ nghĩa cho toàn bộ khối hành động We succeeded phía trước nhằm làm rõ ngữ cảnh nguyên nhân dẫn đến sự thành công.</li>
+					<li className="list-none">Khối Động Câu tầng trong {'{how she managed the crisis}'} vận hành với chức năng là một Danh Câu [Noun Clause] đóng vai trò làm Danh Nhận đứng sau để chịu sự tác động điều phối của khối Giới Cụm tầng ngoài.</li>
+					<li className="list-none">Khi tích hợp lại thành khối lớn [because of {'{how she managed the crisis}'}], nó gánh vác chức năng tổng thể là một <strong>Trạng Cụm</strong> [<strong>Adverb Phrase</strong>] bổ nghĩa cho toàn bộ khối hành động We succeeded phía trước nhằm làm rõ ngữ cảnh nguyên nhân dẫn đến sự thành công.</li>
 			
 				</ul>
 			
