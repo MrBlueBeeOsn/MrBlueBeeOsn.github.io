@@ -50,17 +50,9 @@ export default function AdjPlacement1(): React.JSX.Element {
 
 			<h4 className="margin-bottom-30 text-center">Điểm Mạnh Tương Đồng: Bước Đột Phá Giúp Người Việt Thống Trị Tiếng Anh Học Thuật</h4>
 
-			<p>Có một lối mòn tư duy đang âm thầm kìm hãm thế hệ người học tiếng Anh tại Việt Nam:</p>
+			<p>Có một lối mòn tư duy đang âm thầm kìm hãm thế hệ người học tiếng Anh tại Việt Nam: Định kiến cho rằng tổ chức tiếng Anh hoàn toàn ngược ngạo với tiếng Việt.</p>
 
-
-			<p className="margin-y-30">Định kiến cho rằng tổ chức tiếng Anh hoàn toàn ngược ngạo với tiếng Việt.</p>
-
-
-			<p>Ngay từ những ngày đầu chạm ngõ ngôn ngữ này, chúng ta đã bị đóng băng tư duy ở một quy luật sơ cấp:</p>
-
-
-			<p className="margin-y-30">Tính Cơ phải đứng trước Danh Cơ (như a <strong>beautiful</strong> house).</p>
-
+			<p>Ngay từ những ngày đầu chạm ngõ ngôn ngữ này, chúng ta đã bị đóng băng tư duy ở một quy luật sơ cấp: Tính Cơ phải đứng trước Danh Cơ (như a <strong>beautiful</strong> house).</p>
 
 			<p>Vì mô hình này đi ngược lại với tư duy tiếng mẹ đẻ, bộ não người học luôn phải mất một nhịp khựng lại để đảo từ. Hệ quả là chúng ta tự dán nhãn tiếng Anh là một thứ ngôn ngữ rắc rối, phức tạp và xa lạ.</p>
 			
@@ -70,7 +62,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 			<p className="margin-y-30"><strong>Danh Cơ đứng trước</strong>, <strong>thành phần mô tả đứng sau</strong>.</p>
 
 
-			<p>Đây không phải là một sự nguyên ngẫu, mà chính là <strong>điểm mạnh tương đồng</strong> cốt lõi giữa tiếng Anh và tiếng Việt. Nhận ra điều này chính là khóa vàng giúp người Việt sở hữu tư duy ngôn ngữ đẳng cấp, vượt trội hơn hẳn phần còn lại của khu vực.</p>
+			<p>Đây không phải là một sự ngẫu nhiên, mà chính là <strong>điểm mạnh tương đồng</strong> cốt lõi giữa tiếng Anh và tiếng Việt. Nhận ra điều này chính là khóa vàng giúp người Việt sở hữu tư duy ngôn ngữ đẳng cấp, vượt trội hơn hẳn phần còn lại của khu vực.</p>
 			
 
 			{/* 1.  */}
@@ -82,12 +74,10 @@ export default function AdjPlacement1(): React.JSX.Element {
 				<ul className="list-square">
 			
 					<li><strong>Tính Cơ</strong> đứng trước <strong>Danh Cơ</strong> – Nhấn mạnh <strong>Đặc điểm</strong>:</li>
-					<li className="list-none">Mô hình này dành cho các Tính Cơ đơn lẻ, ngắn gọn (như a luxury car, a hot day).</li>
-					<li className="margin-bottom-20 list-none">Mục đích nhằm ném thẳng đặc điểm nổi bật vào tâm trí người nghe trước khi gọi tên đối tượng.</li>
+					<li className="margin-bottom-20 list-none">Mô hình này dành cho các Tính Cơ đơn lẻ, ngắn gọn (như a luxury car, a hot day). Mục đích nhằm ném thẳng đặc điểm nổi bật vào tâm trí người nghe trước khi gọi tên đối tượng.</li>
 			
 					<li><strong>Danh Cơ</strong> đứng trước <strong>Tính Cơ</strong> – Nhấn mạnh <strong>Đối tượng</strong>:</li>
-					<li className="list-none">Khi muốn đối tượng chính làm mỏ neo cho toàn câu, người bản ngữ sẽ đưa Danh Cơ lên trước giúp người nghe định hình ngay lập tức.</li>
-					<li className="list-none">Sau đó, họ mới thong thả thả một chuỗi thông tin mô tả dài ở phía sau.</li>
+					<li className="list-none">Khi muốn đối tượng chính làm mỏ neo cho toàn câu, người bản ngữ sẽ đưa Danh Cơ lên trước giúp người nghe định hình ngay lập tức. Sau đó, họ mới thong thả thả một chuỗi thông tin mô tả dài ở phía sau.</li>
 			
 				</ul>
 			
@@ -103,6 +93,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 			<p>Khi đi sâu vào các câu phức hợp, chúng ta sẽ phát hiện một sự thật kinh ngạc: <strong>Tiếng Anh cao cấp và tiếng Việt chia sẻ chung một bản đồ tư duy</strong>.</p>
 
 			<p>Cách người bản ngữ định vị Danh Cơ và kéo dài thành phần mô tả phía sau giống tiếng Việt đến hoàn hảo, bất kể Danh Cơ đó đóng vai trò gì.</p>
+
 
 
 			<h4 className="margin-y-40">Sự Trùng Khớp Ở Vị Trí Danh Chủ [Subject] Và Danh Nhận [Object]</h4>
@@ -158,12 +149,10 @@ export default function AdjPlacement1(): React.JSX.Element {
 			<p className="text-indent-whole">Bạn nghĩ từ trái sang phải như thế nào trong tiếng Việt, câu tiếng Anh học thuật sẽ tuôn chảy ra y hệt như thế.</p>
 
 
+
 			<h4 className="margin-y-40">Sự Lên Ngôi Của Mô Hình OSV Trong Mô Tả Phức Hợp</h4>
 
-			<p className="text-indent-whole">Khi đối mặt với một nội dung mô tả phức tạp, chứa đựng nhiều thông tin đan xen, người bản ngữ sẽ ngay lập tức từ bỏ cách dùng các Tính Cơ đơn lẻ đứng trước. Việc nhồi nhét quá nhiều Tính Cơ đơn lẻ sẽ làm câu văn trở nên nặng nề, lủng củng và tối nghĩa.</p>
-
-			<p className="text-indent-whole">Thay vào đó, họ luôn ưu tiên sử dụng <strong>Tính Câu có mô hình OSV</strong> hoặc <strong>Tính Cụm</strong> đặt ngay sau Danh Cơ.</p>
-
+			<p className="text-indent-whole">Khi đối mặt với một nội dung mô tả phức tạp, chứa đựng nhiều thông tin đan xen, người bản ngữ sẽ ngay lập tức từ bỏ cách dùng các Tính Cơ đơn lẻ đứng trước. Việc nhồi nhét quá nhiều Tính Cơ đơn lẻ sẽ làm câu văn trở nên nặng nề, lủng củng và tối nghĩa. Thay vào đó, họ luôn ưu tiên sử dụng <strong>Tính Câu có mô hình OSV</strong> hoặc <strong>Tính Cụm</strong> đặt ngay sau Danh Cơ.</p>
 					
 			<p className="text-indent-whole">Hãy quan sát sự trùng khớp tuyệt đối trong mạch tư duy dưới đây khi đi sâu vào phân tích mô hình OSV phía sau Danh Cơ ở vị trí bị tác động:</p>
 			
@@ -190,9 +179,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 			
 			<p className="margin-top-20 text-indent-whole">Trật tự từ không hề bị xáo trộn.</p>
 
-			<p className="text-indent-whole">Người Việt nghĩ đến đối tượng bị tác động trước, rồi mới nghĩ đến ai làm gì đối tượng đó sau; người bản ngữ tiếng Anh viết ra chính xác theo trình tự như vậy.</p>
-
-			<p className="text-indent-whole">Điều này chứng minh rằng ở những cách diễn đạt phức tạp và cao cấp, tiếng Anh và tiếng Việt vận hành chung một hệ điều hành tư duy.</p>
+			<p className="text-indent-whole">Người Việt nghĩ đến đối tượng bị tác động trước, rồi mới nghĩ đến ai làm gì đối tượng đó sau; người bản ngữ tiếng Anh viết ra chính xác theo trình tự như vậy. Điều này chứng minh rằng ở những cách diễn đạt phức tạp và cao cấp, tiếng Anh và tiếng Việt vận hành chung một hệ điều hành tư duy.</p>
 
 
 
@@ -219,9 +206,9 @@ export default function AdjPlacement1(): React.JSX.Element {
 
 			<h4 className="margin-y-40">Danh Cơ + Tính Cụm (Mô tả ngắn gọn)</h4>
 					
-			<p className="margin-top-20 text-indent-whole">Sau khi đưa Danh Cơ lên đầu, nếu chỉ muốn mô tả nhanh trạng thái, vị trí hoặc đặc điểm của nó, người bản ngữ sẽ dùng một Tính Cụm ngay phía sau với các thiết lập đa dạng:</p>
+			<p className="text-indent-whole">Sau khi đưa Danh Cơ lên đầu, nếu chỉ muốn mô tả nhanh trạng thái, vị trí hoặc đặc điểm của nó, người bản ngữ sẽ dùng một Tính Cụm ngay phía sau với các thiết lập đa dạng:</p>
 
-			<p className="margin-top-20 text-indent-whole"><strong>Tính Cụm dạng hành động chủ động</strong> (-ing): [barking outside]</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Tính Cụm dạng hành động chủ động</strong> -ing: [barking outside]</p>
 			
 				<ul className="list-square">
 			
@@ -230,7 +217,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 			
 				</ul>
 
-			<p className="margin-top-20 text-indent-whole"><strong>Tính Cụm dạng hành động bị động</strong> (-v3/-ed): [submitted this morning]</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Tính Cụm dạng hành động bị động</strong> -v3/-ed: [submitted this morning]</p>
 			
 				<ul className="list-square">
 			
@@ -264,11 +251,11 @@ export default function AdjPlacement1(): React.JSX.Element {
 
 			<h4 className="margin-y-40">Danh Cơ + Tính Câu Dạng OSV (Mô tả chi tiết)</h4>
 
-			<p className="margin-top-20 text-indent-whole">Khi muốn mô tả một nội dung phức tạp hơn, người bản ngữ sẽ đặt một Tính Câu có mô hình <strong>OSV</strong> ngay sau Danh Cơ theo công thức:</p>
+			<p className="text-indent-whole">Khi muốn mô tả một nội dung phức tạp hơn, người bản ngữ sẽ đặt một Tính Câu có mô hình <strong>OSV</strong> ngay sau Danh Cơ theo công thức:</p>
 					
-			<p className="margin-top-20 text-indent-whole">Danh Cơ + [O (Who/That/Which) + S (Thành phần thực hiện) + V (Hành động)]</p>
+			<p className="margin-y-20 text-indent-whole">Danh Cơ + [O (Who/That/Which) + S (Thành phần thực hiện) + V (Hành động)]</p>
 
-			<p className="margin-top-20 text-indent-whole">Lúc này, các chữ Who, That, Which đóng vai trò là <strong>O</strong> (<strong>Danh Nhận</strong> - <strong>Đối tượng chịu tác động</strong>), đứng chặn ngay đầu Tính Câu trước khi <strong>S</strong> và <strong>V</strong> xuất hiện:</p>
+			<p className="text-indent-whole">Lúc này, các chữ Who, That, Which đóng vai trò là <strong>O</strong> (<strong>Danh Nhận</strong> - <strong>Đối tượng chịu tác động</strong>), đứng chặn ngay đầu Tính Câu trước khi <strong>S</strong> và <strong>V</strong> xuất hiện:</p>
 			
 				<ul className="list-square">
 			
@@ -287,7 +274,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 
 			<h4 className="margin-y-40">Mẹo văn nói hàng ngày (Lược bỏ O)</h4>
 					
-			<p className="margin-top-20 text-indent-whole">Trong giao tiếp tự nhiên, người bản ngữ cực kỳ chuộng việc nuốt luôn chữ O (which/that/who). Khi đó mọi thứ trở nên cực kỳ tinh gọn: <strong>Danh Cơ</strong> + [<strong>S</strong> + <strong>V</strong>].</p>
+			<p className="text-indent-whole">Trong giao tiếp tự nhiên, người bản ngữ cực kỳ chuộng việc nuốt luôn chữ O (which/that/who). Khi đó mọi thứ trở nên cực kỳ tinh gọn: <strong>Danh Cơ</strong> + [<strong>S</strong> + <strong>V</strong>].</p>
 			
 				<ul className="list-square">
 			
@@ -302,9 +289,8 @@ export default function AdjPlacement1(): React.JSX.Element {
 			
 				</ul>
 			
+			
 			<p className="margin-top-20 text-indent-whole">Thay vì tư duy theo lối mòn phẳng, hãy luôn nhớ:</p>
-
-			<p className="margin-top-20"></p>
 			
 				<ul className="list-square">
 			
@@ -327,7 +313,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 			<p className="margin-y-30"><strong>Động Cơ</strong> [<strong>Verb Base</strong>] -{'>'} <strong>Động Cụm</strong> [<strong>Verb Phrase</strong>] -{'>'} <strong>Động Câu</strong> [<strong>Verb Clause</strong>].</p>
 			
 
-			<p>Tuy nhiên, có một hình thái đặc biệt không xuất phát từ chữ chỉ hành động, đó chính là Giới Cụm [Prepositional Phrase] (khối cụm bắt đầu bằng một giới cơ kết hợp với một cụm danh cơ phía sau).</p>
+			<p>Tuy nhiên, có một hình thái đặc biệt không xuất phát từ chữ chỉ hành động, đó chính là <strong>Giới Cụm</strong> [<strong>Prepositional Phrase</strong>] (khối cụm bắt đầu bằng một giới cơ kết hợp với một cụm danh cơ phía sau).</p>
 			
 			<p>Bất kỳ chữ đơn lẻ nào thuộc về phân loại gốc đều được gọi chung bằng chữ "<strong>Cơ</strong>" [<strong>Base</strong>]. Hệ thống này vận hành nhất quán theo một ma trận hai chiều hoàn chỉnh:</p>
 			
@@ -471,9 +457,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 
 			<h4 className="margin-y-40">Khối Hình Thái Đặc Biệt: Giới Cụm [Prepositional Phrase]</h4>
 					
-			<p className="text-indent-whole">Đây là khối từ hoàn toàn tách biệt, không bắt nguồn từ một chữ chỉ hành động (Động).</p>
-
-			<p className="text-indent-whole">Khối này được mở đầu bằng một Giới Cơ (như in, on, at, with, under...) kết hợp với các khối định danh đi liền phía sau.</p>
+			<p className="text-indent-whole">Đây là khối từ hoàn toàn tách biệt, không bắt nguồn từ một chữ chỉ hành động (Động). Khối này được mở đầu bằng một Giới Cơ (như in, on, at, with, under...) kết hợp với các khối định danh đi liền phía sau.</p>
 
 			<p className="margin-top-20 text-indent-whole">Hình thái Giới Cụm [Prepositional Phrase] hoàn toàn không có chức năng làm Danh, nó chỉ hình thành nên <strong>2 chức năng</strong> duy nhất: <strong>Tính Cụm</strong> và <strong>Trạng Cụm</strong> tùy thuộc vào vị trí đứng:</p>
 			
