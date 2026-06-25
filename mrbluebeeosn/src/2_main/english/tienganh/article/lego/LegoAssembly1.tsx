@@ -48,7 +48,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 
 			</h1>
 
-			<h4 className="margin-bottom-30 text-center">Phá Vỡ 12 Thời: Học Tiếng Anh Theo Tư Duy Lắp Ghép Lego (Lego Assembly)</h4>
+			<h4 className="margin-bottom-30 text-center">Phá Vỡ 12 Thời: Học Tiếng Anh Theo Tư Duy Lắp Ghép Lego</h4>
 
 			<p>Bạn đã dành bao nhiêu năm cuộc đời để học thuộc lòng những công thức phức tạp?</p>
 
@@ -69,18 +69,21 @@ export default function LegoAssembly1(): React.JSX.Element {
 			<p>Mọi <strong>Câu lớn</strong> có thể đứng độc lập và kết thúc bằng dấu chấm trong tiếng Anh, thực chất chỉ là sự vận hành của ba thành phần cơ bản sau:</p>
 
 
-			<h4 className="margin-y-40">S  Head  Dependent</h4>
+			<h4 className="margin-y-40 text-indent-whole">S  Head  Dependent</h4>
 			
 				<ul className="list-square">
 			
-					<li><strong>S</strong> (Subject):</li>
+					<li><strong>S</strong>:</li>
 					<li className="margin-bottom-20 list-none">Khối định danh đối tượng hành động.</li>
 			
-					<li><strong>Head</strong> (Hạt nhân / Bộ nguồn):</li>
-					<li className="margin-bottom-20 list-none">Khối điều khiển toàn câu, luôn đứng liền kề với S. Head có nhiệm vụ cấp <strong>Thời gian</strong> (quá khứ/hiện tại/tương lai) và <strong>Thái độ</strong> cho câu.</li>
+					<li><strong>Head</strong> (<strong>Hạt nhân</strong> / <strong>Bộ nguồn</strong>):</li>
+					<li className="list-none">Khối điều khiển toàn câu, luôn đứng liền kề với S.</li>
+					<li className="margin-bottom-20 list-none">Head có nhiệm vụ cấp <strong>Thời gian</strong> (quá khứ/hiện tại/tương lai) và <strong>Thái độ</strong> cho câu.</li>
 			
-					<li><strong>Dependent</strong> (Phần phụ thuộc):</li>
-					<li className="list-none">Là <strong>tất cả những gì đứng sau Head</strong>. Chúng mang tư duy "phụ thuộc", sinh ra là để bám vào Head và không bao giờ có thể đứng độc lập một mình.</li>
+					<li><strong>Dependent</strong> (<strong>Phần phụ thuộc</strong>):</li>
+					<li className="list-none">Là <strong>tất cả những gì đứng sau Head</strong>.</li>
+					<li className="list-none">Chúng mang tư duy "phụ thuộc", sinh ra là để bám vào Head và không bao giờ có thể đứng độc lập một mình.</li>
+
 			
 				</ul>
 			
@@ -92,7 +95,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 				<ul className="list-square">
 			
 					<li><strong>Head tích hợp</strong></li>
-					<li className="margin-bottom-20 list-none">Bao gồm <strong>do</strong>/<strong>does</strong>/<strong>did</strong> tự nuốt vào trong Động Cơ [Verb Base] ở câu khẳng định</li>
+					<li className="margin-bottom-20 list-none">Bao gồm <strong>do</strong>/<strong>does</strong>/<strong>did</strong> tự nuốt vào trong Động Cơ [Verb Base] ở câu khẳng định.</li>
 			
 					<li><strong>Head không tích hợp</strong></li>
 					<li className="list-none">Hiện rõ như <strong>can</strong>, <strong>will</strong>, <strong>is</strong>, <strong>are</strong>, <strong>have</strong>...</li>
@@ -109,20 +112,23 @@ export default function LegoAssembly1(): React.JSX.Element {
 			<p>Điểm mấu chốt của phương pháp Lego Assembly là người học chỉ cần nhìn vào <strong>Hình thái</strong> (bản chất cấu tạo bề ngoài của khối Lego) trước, sau đó mới xác định <strong>Chức năng</strong> của nó dựa vào vị trí đứng trong câu.</p>
 
 
-			<h4 className="margin-y-40">Chiều Dọc: 3 Cấp Độ Của Hình Thái (Mảnh Lego làm bằng gì?)</h4>
-			
+			<h4 className="margin-y-40">Chiều Dọc: Các Cấp Độ Của Hình Thái (Mảnh Lego làm bằng gì?)</h4>
+
+			<p className="text-indent-whole"><strong>Cơ</strong> [<strong>Base</strong>]: Mức độ level cơ bản, đơn giản nhất (chỉ gồm 1 gốc đơn lẻ).</p>
+
+			<p className="margin-top-20 text-indent-whole"><strong>Cụm</strong> [<strong>Phrase</strong>]: Khối phức hợp làm một chức năng chung nhưng không có lõi S và hành động riêng. Hệ thống phân tách rõ hai loại cấu tạo:</p>
+
 				<ul className="list-square">
 			
-					<li><strong>Cơ</strong> [<strong>Base</strong>]:</li>
-					<li className="margin-bottom-20 list-none">Mức độ level cơ bản, đơn giản nhất (chỉ gồm 1 gốc đơn lẻ).</li>
+					<li><strong>Động Cụm</strong> [<strong>Verb Phrase</strong>]:</li>
+					<li className="margin-bottom-20 list-none">Cụm có lõi xuất phát từ gốc hành động.</li>
 			
-					<li><strong>Cụm</strong> [<strong>Phrase</strong>]:</li>
-					<li className="margin-bottom-20 list-none">Khối phức hợp làm một chức năng chung nhưng không có lõi S và hành động riêng.</li>
-			
-					<li><strong>Câu</strong> [<strong>Clause</strong>]:</li>
-					<li className="list-none">Một câu con có cấu trúc S và hành động riêng bên trong, nhưng bị "khóa" lại bởi một đầu nối để đi làm thuê cho câu lớn.</li>
+					<li><strong>Giới Cụm</strong> [<strong>Prepositional Phrase</strong>]:</li>
+					<li className="list-none">Cụm bắt đầu bằng một Giới Cơ [Prepositional Base] kết hợp với một danh nhận phía sau.</li>
 			
 				</ul>
+
+			<p className="margin-top-20 text-indent-whole"><strong>Câu</strong> [<strong>Clause</strong>]: Một câu con có cấu trúc S và hành động riêng bên trong, nhưng bị "khóa" lại bởi một đầu nối để đi làm thuê cho câu lớn.</p>
 
 			
 			<h4 className="margin-y-40">Chiều Ngang: 3 Chức Năng (Mảnh Lego dùng để làm gì?)</h4>
@@ -134,13 +140,16 @@ export default function LegoAssembly1(): React.JSX.Element {
 				<ul className="list-square">
 			
 					<li>Động cơ [Verb Base]</li>
-					<li className="margin-bottom-20 list-none">Sẽ hình thành nên chức năng <strong>Danh Cơ</strong> [<strong>Noun Base</strong>], <strong>Tính Cơ</strong> [<strong>Adjective Base</strong>], <strong>Trạng Cơ</strong> [<strong>Adverb Base</strong>].</li>
+					<li className="margin-bottom-20 list-none">Hình thành nên chức năng <strong>Danh Cơ</strong> [<strong>Noun Base</strong>], <strong>Tính Cơ</strong> [<strong>Adjective Base</strong>], <strong>Trạng Cơ</strong> [<strong>Adverb Base</strong>].</li>
 			
 					<li>Động cụm [Verb Phrase]</li>
-					<li className="margin-bottom-20 list-none">Sẽ hình thành nên chức năng <strong>Danh Cụm</strong> [<strong>Noun Phrase</strong>], <strong>Tính Cụm</strong> [<strong>Adjective Phrase</strong>], <strong>Trạng Cụm</strong> [<strong>Adverb Phrase</strong>].</li>
+					<li className="margin-bottom-20 list-none">Hình thành nên chức năng <strong>Danh Cụm</strong> [<strong>Noun Phrase</strong>], <strong>Tính Cụm</strong> [<strong>Adjective Phrase</strong>], <strong>Trạng Cụm</strong> [<strong>Adverb Phrase</strong>].</li>
+
+					<li>Giới Cụm [Prepositional Phrase]</li>
+					<li className="margin-bottom-20 list-none">Hình thành nên chức năng <strong>Tính Cụm</strong> [<strong>Adjective Phrase</strong>], <strong>Trạng Cụm</strong> [<strong>Adverb Phrase</strong>].</li>
 			
 					<li>Động câu [Verb Clause]</li>
-					<li className="list-none">Sẽ hình thành nên chức năng <strong>Danh Câu</strong> [<strong>Noun Clause</strong>], <strong>Tính Câu</strong> [<strong>Adjective Clause</strong>], <strong>Trạng Câu</strong> [<strong>Adverb Clause</strong>].</li>
+					<li className="list-none">Hình thành nên chức năng <strong>Danh Câu</strong> [<strong>Noun Clause</strong>], <strong>Tính Câu</strong> [<strong>Adjective Clause</strong>], <strong>Trạng Câu</strong> [<strong>Adverb Clause</strong>].</li>
 			
 				</ul>
 			
@@ -175,7 +184,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 					<li className="margin-bottom-20 list-none">Chúng ta phải [bảo vệ môi trường].</li>
 
 					<li className="list-none">Hình thái: [protect the environment] - Động Cụm [Verb Phrase] bắt đầu bằng một Động Cơ [Verb Base] chính "protect".</li>
-					<li className="list-none">Chức năng: [protect the environment] - Danh Cụm [Noun Phrase] đóng vai trò làm phần tiếp nhận tác động, chịu yêu cầu trực tiếp từ bộ nguồn "must".</li>
+					<li className="list-none">Chức năng: [protect the environment] - Danh Cụm [Noun Phrase] đóng vai trò làm phần danh nhận, chịu yêu cầu trực tiếp từ bộ nguồn "must".</li>
 			
 				</ul>
 			
@@ -188,7 +197,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 					<li className="margin-bottom-20 list-none">Tôi biết [những gì bạn ám chỉ].</li>
 
 					<li className="list-none">Hình thái: [what you mean] - Động Câu [Verb Clause] tạo thành một câu con hoàn chỉnh nhưng không đứng một mình.</li>
-					<li className="list-none">Chức năng: [what you mean] - Danh Câu [Noun Clause] đóng vai trò làm phần tiếp nhận thông tin đứng sau một Động Cơ [Verb Base] hành động.</li>
+					<li className="list-none">Chức năng: [what you mean] - Danh Câu [Noun Clause] đóng vai trò làm phần danh nhận thông tin đứng sau một Động Cơ [Verb Base] hành động.</li>
 			
 				</ul>
 
@@ -200,13 +209,9 @@ export default function LegoAssembly1(): React.JSX.Element {
 					<li>I [______].</li>
 					<li className="margin-bottom-20 list-none">Tôi [hiểu {'{lý do vì sao bạn rời đi}'}].</li>
 
-					<li className="list-none">Hình thái:</li>
-					<li className="list-none">Tầng ngoài: Khối tổng thể [understand {'{why you left}'}] là một Động Cụm [Verb Phrase]</li>
-					<li className="margin-bottom-20 list-none">Tầng trong: Bên trong bao gói {'{why you left}'} là một Động Câu [Verb Clause]</li>
+					<li className="margin-bottom-20 list-none">Hình thái: Khối tổng thể [understand {'{why you left}'}] là một Động Cụm [Verb Phrase] tầng ngoài. Bên trong bao gói {'{why you left}'} là một Động Câu [Verb Clause] tầng trong.</li>
 
-					<li className="list-none">Chức năng:</li>
-					<li className="list-none">Tầng ngoài: Toàn bộ khối [understand {'{why you left}'}] đóng vai trò là Danh Cụm [Noun Phrase] tổng thể chịu tác động của Subject I.</li>
-					<li className="list-none">Tầng trong: Khối {'{why you left}'} bên trong đóng vai trò là Danh Câu [Noun Clause] chịu sự điều phối của Động Cơ [Verb Base]</li>
+					<li className="list-none">Chức năng: Khối {'{why you left}'} bên trong đóng vai trò là Danh Câu [Noun Clause] chịu sự điều phối của Động Cơ [Verb Base] tầng ngoài, và toàn bộ khối [understand {'{why you left}'}] đóng vai trò là Danh Cụm [Noun Phrase] tổng thể chịu tác động của Subject I.</li>
 			
 				</ul>
 			
@@ -229,7 +234,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 				</ul>
 			
 			
-			<p className="margin-top-20 text-indent-whole"><strong>Tính Cụm</strong> [<strong>Adjective Phrase</strong>]: [working from home]</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Tính Cụm</strong> [<strong>Adjective Phrase</strong>] (<strong>Cấu tạo từ Động Cụm</strong>): [working from home]</p>
 			
 				<ul className="list-square">
 			
@@ -238,6 +243,33 @@ export default function LegoAssembly1(): React.JSX.Element {
 
 					<li className="list-none">Hình thái: [working from home] - Động Cụm [Verb Phrase] bắt đầu bằng Động Cơ [Verb Base] dạng V-ing.</li>
 					<li className="list-none">Chức năng: [working from home] - Tính Cụm [Adjective Phrase] đóng vai trò làm phần mô tả trực tiếp trạng thái của S "The man".</li>
+			
+				</ul>
+
+			
+			<p className="margin-top-20 text-indent-whole"><strong>Tính Cụm</strong> [<strong>Adjective Phrase</strong>] (<strong>Cấu tạo từ Giới Cụm</strong>): [with the blue tie]</p>
+			
+				<ul className="list-square">
+			
+					<li>The man [______] is talking.</li>
+					<li className="margin-bottom-20 list-none">Người đàn ông [với chiếc cà vạt màu xanh] đang nói chuyện.</li>
+
+					<li className="list-none">Hình thái: [with the blue tie] - Giới Cụm [Prepositional Phrase] bắt đầu bằng Giới Cơ [Prepositional Base] "with".</li>
+					<li className="list-none">Chức năng: [with the blue tie] - Tính Cụm [Adjective Phrase] đứng sau Danh Cụm "The man" để mô tả đặc điểm nhận dạng của đối tượng này.</li>
+			
+				</ul>
+
+			
+			<p className="margin-top-20 text-indent-whole"><strong>Tính Cụm Phân Tầng</strong> [<strong>Nested Adjective Phrase</strong>]: [with the belief {'{that he can win}'}]</p>
+			
+				<ul className="list-square">
+			
+					<li>The man [______] is my brother.</li>
+					<li className="margin-bottom-20 list-none">Người đàn ông [với niềm tin {'{rằng anh ấy có thể chiến thắng}'}] là anh trai tôi.</li>
+
+					<li className="margin-bottom-20 list-none">Hình thái: Khối tổng thể [with the belief {'{that he can win}'}] là một Giới Cụm [Prepositional Phrase] tầng ngoài. Bên trong bao gói {'{that he can win}'} là một Động Câu [Verb Clause] tầng trong.</li>
+
+					<li className="list-none">Chức năng: Khối {'{that he can win}'} bên trong đóng vai trò là Danh Câu [Noun Clause] giải thích nghĩa cho danh từ "belief", và toàn bộ khối [with the belief {'{that he can win}'}] đóng vai trò là Tính Cụm [Adjective Phrase] tổng thể đứng sau Danh Cụm "The man" để mô tả đặc điểm nhận dạng của đối tượng này.</li>
 			
 				</ul>
 			
@@ -325,7 +357,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 				</ul>
 
 
-			<p className="margin-top-20 text-indent-whole"><strong>Trạng Cụm</strong> [<strong>Adverb Phrase</strong>]: [to pass the exam]</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Trạng Cụm</strong> [<strong>Adverb Phrase</strong>] (<strong>Cấu tạo từ Động Cụm</strong>): [to pass the exam]</p>
 			
 				<ul className="list-square">
 			
@@ -334,6 +366,33 @@ export default function LegoAssembly1(): React.JSX.Element {
 
 					<li className="list-none">Hình thái: [to pass the exam] - Động Cụm [Verb Phrase] bắt đầu bằng dạng nguyên mẫu có <strong>to</strong>.</li>
 					<li className="list-none">Chức năng: [to pass the exam] - Trạng Cụm [Adverb Phrase] đứng cuối câu để làm rõ mục đích cho hành động trước đó.</li>
+			
+				</ul>
+			
+
+			<p className="margin-top-20 text-indent-whole"><strong>Trạng Cụm</strong> [<strong>Adverb Phrase</strong>] (<strong>Cấu tạo từ Giới Cụm</strong>): [in the library]</p>
+			
+				<ul className="list-square">
+			
+					<li>They study hard [______].</li>
+					<li className="margin-bottom-20 list-none">Họ học hành chăm chỉ [ở trong thư viện].</li>
+
+					<li className="list-none">Hình thái: [in the library] - Giới Cụm [Prepositional Phrase] bắt đầu bằng Giới Cơ [Prepositional Base] "in".</li>
+					<li className="list-none">Chức năng: [in the library] - Trạng Cụm [Adverb Phrase] đứng cuối câu để bổ sung bối cảnh không gian cho hành động học.</li>
+			
+				</ul>
+			
+
+			<p className="margin-top-20 text-indent-whole"><strong>Trạng Cụm Phân Tầng</strong> [<strong>Nested Adverb Phrase</strong>]: [at the moment {'{when the show started}'}]</p>
+			
+				<ul className="list-square">
+			
+					<li>They arrived [______].</li>
+					<li className="margin-bottom-20 list-none">Họ đã đến [vào thời điểm {'{khi buổi biểu diễn bắt đầu}'}].</li>
+
+					<li className="margin-bottom-20 list-none">Hình thái: Khối tổng thể [at the moment {'{when the show started}'}] là một Giới Cụm [Prepositional Phrase] tầng ngoài. Bên trong bao gói {'{when the show started}'} là một Động Câu [Verb Clause] tầng trong.</li>
+
+					<li className="list-none">Chức năng: Khối {'{when the show started}'} bên trong đóng vai trò là Tính Câu [Adjective Clause] bổ nghĩa cho danh từ "moment", và toàn bộ khối [at the moment {'{when the show started}'}] đóng vai trò là Trạng Cụm [Adverb Phrase] tổng thể đứng cuối câu để bổ sung bối cảnh thời gian cho hành động "arrived".</li>
 			
 				</ul>
 			
@@ -354,78 +413,95 @@ export default function LegoAssembly1(): React.JSX.Element {
 			
 			{/* 4.  */}
 
-			<h3 className="margin-y-50 text-center">4. Ứng Dụng Đỉnh Cao: Paraphrasing Bằng Tư Duy "Thay Khối Đồng Chức Năng"</h3>
+			<h3 className="margin-y-50 text-center">4. Ứng Dụng Đỉnh Cao: Paraphrasing Bằng Tư Tư Duy "Thay Khối Đồng Chức Năng"</h3>
 
 			<p>Khi bộ não đã quen với việc tách biệt giữa Hình thái vật lý bên ngoài và Chức năng thực tế bên trong, bạn sẽ khai mở được một kỹ năng thượng thừa:</p>
 
+			<p><strong>Paraphrasing</strong> (<strong>Viết lại câu</strong>) <strong>siêu tốc</strong>.</p>
 
-			<p className="margin-y-30"><strong>Paraphrasing</strong> (Viết lại câu) siêu tốc.</p>
-
-
-			<p>Bản chất của viết lại câu không phải là đi tìm các mặt chữ đồng nghĩa một cách hỗn loạn hay cố gắng đảo lộn trật tự một cách vô căn cứ.</p>
-
-			<p>Dưới góc nhìn Lego Assembly, viết lại câu chỉ đơn giản là một bài toán <strong>giữ nguyên bộ khung cấu trúc tổng thể</strong>, <strong>chỉ nhấc một khối Lego ra và đặt vào đó một khối Lego khác có kích thước khác</strong> nhưng <strong>mang cùng một màu Chức năng</strong>.</p>
-
-			<p>Hãy xem sức mạnh của việc thay đổi kích thước khối Lego (<strong>từ Cơ lên Câu</strong>) để biến đổi một câu gốc mà không làm dịch chuyển bộ khung của nó:</p>
+			<p>Bản chất của viết lại câu chỉ đơn giản là một bài toán <strong>giữ nguyên bộ khung</strong> cấu trúc tổng thể, chỉ <strong>nhấc một khối Lego ra</strong> và <strong>đặt vào đó một khối Lego khác có kích thước khác</strong> hoặc <strong>hình thái khác nhưng mang cùng một màu Chức năng</strong>.</p>
 
 
-			<p className="margin-top-20 text-indent-whole"><strong>Mảnh đơn nhỏ</strong>:</p>
-
-			<p className="margin-top-20 text-indent-whole">Câu gốc sử dụng khối chức năng TRẠNG ở <strong>cấp độ Cơ</strong>: [early]</p>
+			<h4 className="margin-y-40">Hướng 1: Tăng giảm kích thước (Từ cấp độ Cơ lên cấp độ Câu)</h4>
+					
+			<p className="margin-top-20 text-indent-whole"><strong>Câu gốc sử dụng khối chức năng TRẠNG ở cấp độ Cơ</strong>: [early]</p>
 			
 				<ul className="list-square">
 			
 					<li>We closed the shop [______].</li>
 					<li className="margin-bottom-20 list-none">Chúng tôi đã đóng cửa cửa hàng [sớm].</li>
-					
+			
 					<li className="list-none">Hình thái: [early] - Động Cơ [Verb Base] đóng vai trò Trạng Cơ [Adverb Base].</li>
 			
 				</ul>
-
-
-			<p className="margin-top-20 text-indent-whole"><strong>Thay bằng mảnh câu con lớn hơn nhưng giữ nguyên màu chức năng TRẠNG</strong>:</p>
-
-			<p className="margin-top-20 text-indent-whole">Nâng cấp lên <strong>cấp độ Câu</strong>: [before the storm arrived]</p>
+			
+			
+			<p className="margin-top-20 text-indent-whole"><strong>Nâng cấp lên cấp độ Câu</strong> (<strong>Thay mảnh câu con lớn hơn nhưng giữ nguyên màu TRẠNG</strong>): [before the storm arrived]</p>
 			
 				<ul className="list-square">
 			
 					<li>We closed the shop [______].</li>
-					<li className="margin-bottom-20 list-none">Chúng tôi đã đóng cửa cửa hàng [tước khi cơn bão ập đến].</li>
-
+					<li className="margin-bottom-20 list-none">Chúng tôi đã đóng cửa cửa hàng [trước khi cơn bão ập đến].</li>
+			
 					<li className="list-none">Hình thái: [before the storm arrived] - Động Câu [Verb Clause] đóng vai trò Trạng Câu [Adverb Clause].</li>
 			
 				</ul>
-
 			
-			<p className="margin-top-20">Hoặc một ví dụ khác về việc luân chuyển linh hoạt khối chức năng DANH làm phần tiếp nhận đứng sau Head:</p>
+			
 
-
-			<p className="margin-top-20 text-indent-whole">Câu gốc sử dụng <strong>cấp độ Cụm</strong>: [a drop in stock prices]</p>
+			<h4 className="margin-y-40">Hướng 2: Thay đổi cấu trúc bao gói (Giữ nguyên vị trí khung, thay đổi hình thái dữ liệu)</h4>
+					
+			<p className="text-indent-whole"><strong>Sử dụng khối Động Cụm đóng vai trò DANH</strong>: [a falling of stock prices]</p>
 			
 				<ul className="list-square">
 			
 					<li>Analysts predict [______].</li>
-					<li className="margin-bottom-20 list-none">Các chuyên gia dự báo [một sự sụt giảm của giá cổ phiếu].</li>
-
-					<li className="list-none">Hình thái: [a drop in stock prices] - Động Cụm [Verb Phrase] đóng vai trò Danh Cụm [Noun Phrase].</li>
+					<li className="margin-bottom-20 list-none">Các chuyên gia dự báo [một việc sụt giảm của giá cổ phiếu].</li>
+			
+					<li className="list-none">Hình thái: [a falling of stock prices] - Động Cụm [Verb Phrase] (bắt đầu bằng danh động từ V-ing "falling") đóng vai trò Danh Cụm [Noun Phrase].</li>
 			
 				</ul>
-
-
-			<p className="margin-top-20 text-indent-whole"><strong>Giữ nguyên vị trí khung</strong>, <strong>chỉ thay đổi hình thái đóng gói dữ liệu</strong>:</p>
-
-			<p className="margin-top-20 text-indent-whole">Biến đổi sang <strong>cấp độ Câu</strong>: [that stock prices will drop]</p>
+			
+			
+			<p className="margin-top-20 text-indent-whole"><strong>Biến đổi sang khối Động Câu đóng vai trò DANH</strong>: [that stock prices will drop]</p>
 			
 				<ul className="list-square">
 			
 					<li>Analysts predict [______].</li>
 					<li className="margin-bottom-20 list-none">Các chuyên gia dự báo [rằng giá cổ phiếu sẽ sụt giảm].</li>
-
+			
 					<li className="list-none">Hình thái: [that stock prices will drop] - Động Câu [Verb Clause] đóng vai trò Danh Câu [Noun Clause].</li>
 			
 				</ul>
 			
-			<p className="margin-top-20">Bằng tư duy này, việc diễn đạt một ý tưởng theo nhiều cách khác nhau trở nên cực kỳ dễ dàng và chuẩn xác về mặt cơ học. Bạn không cần sợ sai lệch vì bạn chỉ đang làm một việc duy nhất: Chọn đúng màu sắc Chức năng để lấp đầy khoảng trống của cấu trúc S Head Dependent.</p>
+			
+
+			<h4 className="margin-y-40">Hướng 3: Luân chuyển giữa Động Cụm và Giới Cụm (Xếp Động trước, Giới sau)</h4>
+
+			<p className="text-indent-whole"><strong>Sử dụng khối Động Cụm đóng vai trò TRẠNG</strong> (<strong>Chỉ mục đích</strong>): [to communicate with foreigners]</p>
+			
+				<ul className="list-square">
+			
+					<li>She practices English [______].</li>
+					<li className="margin-bottom-20 list-none">Cô ấy luyện tập tiếng Anh [để giao tiếp với người nước ngoài].</li>
+			
+					<li className="list-none">Hình thái: [to communicate with foreigners] - Động Cụm [Verb Phrase] đóng vai trò Trạng Cụm [Adverb Phrase].</li>
+			
+				</ul>
+			
+			
+			<p className="margin-top-20 text-indent-whole"><strong>Chuyển đổi sang khối Giới Cụm đóng vai trò TRẠNG</strong> (<strong>Chỉ mục đích</strong>): [for communication with foreigners]</p>
+			
+				<ul className="list-square">
+			
+					<li>She practices English [______].</li>
+					<li className="margin-bottom-20 list-none">Cô ấy luyện tập tiếng Anh [vì mục đích giao tiếp với người nước ngoài].</li>
+			
+					<li className="list-none">Hình thái: [for communication with foreigners] - Giới Cụm [Prepositional Phrase] đóng vai trò Trạng Cụm [Adverb Phrase].</li>
+			
+				</ul>
+			
+			
 
 
 
@@ -438,7 +514,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 
 			<h4 className="margin-y-40">Luật Phủ định: Chốt chặn "NOT" sau Head</h4>
 					
-			<p className="margin-top-20 text-indent-whole">Bạn chỉ việc nhét <strong>khối NOT</strong> vào ngay sau Bộ nguồn (Head). <strong>Khối not</strong> này sẽ thuộc về vùng quản lý của phần Dependent phía sau.</p>
+			<p className="margin-top-20 text-indent-whole">Bạn chỉ việc nhét khối <strong>NOT</strong> vào ngay sau Bộ nguồn (Head). Khối <strong>not</strong> này sẽ thuộc về vùng quản lý của phần Dependent phía sau.</p>
 
 
 			<p className="margin-top-20 text-indent-whole"><strong>Khẳng định</strong>:</p>
@@ -462,7 +538,6 @@ export default function LegoAssembly1(): React.JSX.Element {
 
 			<h4 className="margin-y-40">Luật Nghi vấn: Nhấc Head lên đầu câu lớn</h4>
 
-					
 			<p className="text-indent-whole">Nhấc toàn bộ khối nguồn (Head) đặt ra trước S.</p>
 
 			<p className="margin-top-20 text-indent-whole"><strong>Khẳng định</strong>:</p>
@@ -479,7 +554,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 				<ul className="list-square">
 			
 					<li><strong>Are</strong> you [cooking dinner]?</li>
-					<li className="list-none">Bạn [đang nấu bữa tối] <strong>phải không</strong>?</li>
+					<li className="list-none"><strong>Phải</strong> bạn [đang nấu bữa tối]?</li>
 			
 				</ul>
 
@@ -491,13 +566,12 @@ export default function LegoAssembly1(): React.JSX.Element {
 				<ul className="list-square">
 			
 					<li><strong>do</strong> nhập vào tạo thành <strong>develop</strong></li>
-
 					<li><strong>did</strong> nhập vào tạo thành <strong>developed</strong></li>
 			
 				</ul>
 			
 
-			<p className="margin-top-20 text-indent-whole">Nhưng khi làm câu Phủ định hoặc Nghi vấn, <strong>Head bắt buộc phải tách ra và lộ diện:</strong>:</p>
+			<p className="margin-top-20 text-indent-whole">Nhưng khi làm câu Phủ định hoặc Nghi vấn, <strong>Head bắt buộc phải tách ra và lộ diện</strong>:</p>
 
 
 			<p className="margin-top-20 text-indent-whole"><strong>Khẳng định</strong> (Ẩn Head):</p>
@@ -507,8 +581,10 @@ export default function LegoAssembly1(): React.JSX.Element {
 					<li>I developed [the app].</li>
 					<li className="margin-bottom-20 list-none">Tôi đã phát triển [ứng dụng đó].</li>
 
-					<li>I <strong>did</strong> [develop the app]. (Bản chất gốc)</li>
-					<li className="margin-bottom-20 list-none">Tôi <strong>đã</strong> [đã phát triển ứng dụng đó mà].</li>
+					<li className="margin-bottom-20 list-none">Bản chất gốc.</li>
+
+					<li>I <strong>did</strong> [develop the app]. ()</li>
+					<li className="margin-bottom-20 list-none">Tôi <strong>đã thực sự</strong> [phát triển ứng dụng đó].</li>
 					<li className="list-none">→ Câu khẳng định mang tính nhấn mạnh</li>
 			
 				</ul>
@@ -519,7 +595,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 				<ul className="list-square">
 
 					<li>I did [<strong>NOT</strong> develop the app].</li>
-					<li className="margin-bottom-20 list-none">Tôi đã [<strong>không</strong> phát triển ứng dụng đó].</li>
+					<li className="margin-bottom-20 list-none">Tôi đã thực sự [<strong>không</strong> phát triển ứng dụng đó].</li>
 			
 				</ul>
 
@@ -529,7 +605,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 				<ul className="list-square">
 
 					<li><strong>Did</strong> I [develop the app]?</li>
-					<li className="margin-bottom-20 list-none">Tôi <strong>đã</strong> [phát triển ứng dụng đó] <strong>phải không</strong>?</li>
+					<li className="margin-bottom-20 list-none"><strong>Đã thực sự</strong> tôi [phát triển ứng dụng đó]?</li>
 			
 				</ul>
 
@@ -542,12 +618,15 @@ export default function LegoAssembly1(): React.JSX.Element {
 
 			<h4 className="margin-y-40">1. Sửa lỗi kiến trúc ngay lập tức:</h4>
 					
-			<p className="text-indent-whole">Bạn sẽ nhận ra ngay tại sao câu:</p>
+			<p className="text-indent-whole">Bạn sẽ nhận ra ngay tại sao câu lại sai:</p>
 			
 				<ul className="list-square">
 			
-					<li>She [cooking dinner] hay</li>
-					<li>I [developing the app] lại sai.</li>
+					<li>She [cooking dinner].</li>
+
+					<li className="list-none margin-y-10">Hay</li>
+
+					<li>I [developing the app].</li>
 			
 				</ul>
 			
@@ -564,24 +643,24 @@ export default function LegoAssembly1(): React.JSX.Element {
 			
 
 
-			<h4 className="margin-y-40">Đóng gói dữ liệu thần tốc (Chunking):</h4>
+			<h4 className="margin-y-40">2. Đóng gói dữ liệu thần tốc (Chunking):</h4>
 					
 			<p className="text-indent-whole">Khi nói hoặc viết, bạn không dịch lạch cạch từng chữ đơn lẻ một cách rời rạc. Bộ não của bạn chỉ làm 2 việc:</p>
 			
 				<ul className="list-square">
 			
-					<li>Chốt khung nguồn [I am]... / [She will]...</li>
+					<li>Chốt khung nguồn [<strong>I am</strong>]... / [<strong>She will</strong>]...</li>
 			
-					<li>Và nhấc nguyên một hộp <strong>Cơ</strong>, <strong>Cụm</strong>, hoặc <strong>Câu</strong> tương ứng với ý mình muốn nói để ném vào phía sau Head.</li>
+					<li>Và nhấc nguyên một hộp <strong>Cơ</strong>, <strong>Cụm</strong> (<strong>Động</strong>/<strong>Giới</strong>), hoặc <strong>Câu</strong> tương ứng với ý mình muốn nói để ném vào phía sau Head.</li>
 			
 				</ul>
 			
 			<p className="margin-top-20 text-indent-whole">Tốc độ phản xạ sẽ tăng lên gấp nhiều lần.</p>
 		
 			
-			<p className="margin-top-40">Học tiếng Anh, suy cho cùng, không phải là một chuỗi những quy tắc bài tập trên giấy. Nhìn nhận nó như một hệ thống lắp ráp cơ học, phân tách rõ ràng giữa <strong>Hình thái vật lý</strong> và <strong>Chức năng vị trí</strong> sẽ giúp bạn làm chủ cấu trúc này một cách tự nhiên nhất.</p>
+			<p className="margin-top-40">Nhìn nhận ngôn ngữ như một hệ thống lắp ráp cơ học, phân tách rõ ràng giữa <strong>Hình thái vật lý</strong> và <strong>Chức năng vị trí</strong> sẽ giúp bạn làm chủ cấu trúc này một cách tự nhiên nhất.</p>
 
-			<p className="margin-top-20">Hãy ngừng học thuộc lòng vẹt <strong>các loại thời gian</strong> máy móc, bật bộ nguồn Head lên và bắt đầu lắp ráp câu của riêng bạn ngay hôm nay!</p>
+			<p className="margin-top-20">Hãy ngừng học thuộc lòng vẹt các loại thời gian máy móc, bật bộ nguồn Head lên và bắt đầu lắp ráp câu của riêng bạn ngay hôm nay!</p>
 			
 
 			<div className="viewcounter">
