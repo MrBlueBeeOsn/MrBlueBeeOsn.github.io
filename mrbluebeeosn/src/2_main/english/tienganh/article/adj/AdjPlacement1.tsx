@@ -504,7 +504,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 
 			{/* 5.  */}
 
-			<h3 className="margin-y-50 text-center">5. Tư Tư Duy Phân Tầng Hệ Thống Và Sự Tương Đồng Tuyệt Đối</h3>
+			<h3 className="margin-y-50 text-center">5. Tư Duy Phân Tầng Hệ Thống Và Sự Tương Đồng Tuyệt Đối</h3>
 
 			<p>Một trong những quy luật vận hành đỉnh cao của tiếng Anh là <strong>Nguyên tắc</strong> "<strong>Điểm neo</strong>". Dấu móc sẽ luôn bao quanh Động Cơ [Verb Base] chính hoặc toàn bộ cụm/câu phức hợp.</p>
 			
