@@ -1144,6 +1144,27 @@
 // 		"description": "p ul li"
 // 	},
 
+// 	// p ul li w
+// 	"template p ul li w": {
+// 		"prefix": ".pulliw",
+// 		"body": [
+// 			"<p className=\"margin-top-20 text-indent-whole\">$2</p>",
+// 			"",
+// 			"  <ul className=\"list-square\">",
+// 			"",
+// 			"    <li>$3</li>",
+// 			"",
+// 			"    <li>$4</li>",
+// 			"",
+// 			"    <li>$5</li>",
+// 			"",
+// 			"  </ul>$0",
+// 			"",
+// 			"<p className=\"margin-top-20 text-indent-whole\">$2</p>"
+// 		],
+// 		"description": "p ul li w"
+// 	},
+
 // 	// p ul li 2
 // 	"template p ul li 2": {
 // 		"prefix": ".pulli2",

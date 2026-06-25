@@ -344,18 +344,18 @@ export default function AdjPlacement1(): React.JSX.Element {
 			
 			<h4 className="margin-y-40">Cấp độ 1: Hình thái Động Cơ [Verb Base]</h4>
 					
-			<p className="text-indent-whole">Khối hành động hạt nhân nhỏ nhất (gồm đúng 1 từ).</p>
+			<p className="text-indent-whole">Khối hành động hạt nhân nhỏ nhất (gồm đúng 1 chữ).</p>
 
-			<p className="margin-top-20 text-indent-whole">Bản thân nó mang hình thái Động Cơ [Verb Base], nhưng tùy vào vị trí đứng, nó sẽ hình thành nên 3 chức năng khác nhau:</p>
+			<p className="margin-top-20 text-indent-whole">Bản thân nó mang hình thái Động Cơ [Verb Base] thể hiện một chữ hành động đơn lẻ đóng vai trò hạt nhân, nhưng tùy vào vị trí đứng, nó sẽ hình thành nên 3 chức năng khác nhau:</p>
 			
 				<ul className="list-square">
 
 					<li>[<strong>Exercising</strong>] is good for your health.</li>
 					<li className="margin-bottom-20 list-none">[<strong>Tập thể dục</strong>] tốt cho sức khỏe của bạn.</li>
 
-					<li className="list-none">Hình thái: [Exercising] - Động Cơ [Verb Base] thể hiện một từ hành động đơn lẻ đóng vai trò hạt nhân.</li>
+					<li className="list-none">Hình thái: [Exercising] - Động Cơ [Verb Base] thể hiện một chữ hành động đơn lẻ đóng vai trò hạt nhân.</li>
 
-					<li className="margin-bottom-20 list-none">Chức năng: [Exercising] - Danh Cơ [Noun Base] định vị ở đầu câu nhằm tạo thành chủ thể cho toàn câu.</li>
+					<li className="margin-bottom-20 list-none">Chức năng: [Exercising] - Danh Cơ [Noun Base] định vị ở đầu nhằm tạo thành chủ thể cho toàn câu.</li>
 			
 				</ul>
 			
@@ -365,7 +365,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 					<li>She has an [<strong>inviting</strong>] smile.</li>
 					<li className="margin-bottom-20 list-none">Cô ấy có một nụ cười [<strong>mời gọi</strong>].</li>
 
-					<li className="list-none">Hình thái: [inviting] - Động Cơ [Verb Base] xuất hiện dưới dạng một từ hành động đơn lẻ đuôi -ing.</li>
+					<li className="list-none">Hình thái: [inviting] - Động Cơ [Verb Base] xuất hiện dưới dạng một chữ hành động đơn lẻ đuôi -ing.</li>
 
 					<li className="margin-bottom-20 list-none">Chức năng: [inviting] - Tính Cơ [Adjective Base] đứng trước Danh Cơ smile nhằm mô tả đặc điểm cho nụ cười.</li>
 			
@@ -377,26 +377,26 @@ export default function AdjPlacement1(): React.JSX.Element {
 					<li>He spoke [<strong>hesitatingly</strong>].</li>
 					<li className="margin-bottom-20 list-none">Anh ấy đã nói [<strong>một cách ngập ngừng</strong>].</li>
 
-					<li className="list-none">Hình thái: [hesitatingly] - Động Cơ [Verb Base] cấu tạo từ hành động gốc thêm đuôi ly tạo thành một từ đơn lẻ.</li>
+					<li className="list-none">Hình thái: [hesitatingly] - Động Cơ [Verb Base] cấu tạo từ hành động gốc thêm đuôi ly tạo thành một chữ đơn lẻ.</li>
 
 					<li className="list-none">Chức năng: [hesitatingly] - Trạng Cơ [Adverb Base] đứng sau nhằm mô tả cách thức cho hành động nói.</li>
 			
 				</ul>
+			
 
 
 			<h4 className="margin-y-40">Cấp độ 2: Hình thái Động Cụm [Verb Phrase]</h4>
 
-			<p className="text-indent-whole">Khối cụm chứa nhiều từ đi liền nhau để thực thi hành động, chưa tích hợp bộ tạo hành động riêng biệt bên trong.</p>
+			<p className="text-indent-whole">Khối cụm chứa nhiều chữ đi liền nhau để thực thi hành động, chưa tích hợp bộ tạo hành động riêng biệt bên trong.</p>
 
 			<p className="text-indent-whole">Từ đây, nó sẽ hình thành nên 3 chức năng:</p>
-
 
 				<ul className="list-square">
 
 					<li>You should [<strong>plan your future</strong>].</li>
 					<li className="margin-bottom-20 list-none">Bạn nên [<strong>lên kế hoạch cho tương lai của mình</strong>].</li>
 
-					<li className="list-none">Hình thái: [plan your future] - Động Cụm [Verb Phrase] biểu thị một nhóm nhiều từ kết hợp xung quanh hành động gốc plan.</li>
+					<li className="list-none">Hình thái: [plan your future] - Động Cụm [Verb Phrase] biểu thị một nhóm nhiều chữ kết hợp xung quanh hành động gốc plan.</li>
 
 					<li className="margin-bottom-20 list-none">Chức năng: [plan your future] - Danh Cụm [Noun Phrase] gánh vác vai trò một đầu việc cụ thể cần thực hiện đứng sau bổ nghĩa cho Thời Động Cơ [Time-based Verb Base] should.</li>
 					
@@ -409,7 +409,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 					<li>The girl is [<strong>singing beautifully</strong>].</li>
 					<li className="margin-bottom-20 list-none">Cô gái đang [<strong>hát một cách hay ho</strong>].</li>
 
-					<li className="list-none">Hình thái: [singing beautifully] - Động Cụm [Verb Phrase] cấu thành từ hành động singing đi kèm từ mô tả beautifully.</li>
+					<li className="list-none">Hình thái: [singing beautifully] - Động Cụm [Verb Phrase] cấu thành từ hành động singing đi kèm chữ mô tả beautifully.</li>
 
 					<li className="margin-bottom-20 list-none">Chức năng: [singing beautifully] - Tính Cụm [Adjective Phrase] định vị sau Thời Động Cơ [Time-based Verb Base] is nhằm mô tả trạng thái hành động của đối tượng cô gái.</li>
 			
@@ -422,7 +422,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 					<li>We study [<strong>to expand our knowledge</strong>].</li>
 					<li className="margin-bottom-20 list-none">Chúng tôi học [<strong>để mở rộng kiến thức của mình</strong>].</li>
 
-					<li className="list-none">Hình thái: [to expand our knowledge] - Động Cụm [Verb Phrase] khởi đầu bằng dạng to-V chứa nhiều từ đi kèm.</li>
+					<li className="list-none">Hình thái: [to expand our knowledge] - Động Cụm [Verb Phrase] khởi đầu bằng dạng to-V chứa nhiều chữ đi kèm.</li>
 
 					<li className="list-none">Chức năng: [to expand our knowledge] - Trạng Cụm [Adverb Phrase] bổ nghĩa cho hành động học nhằm làm rõ mục đích.</li>
 					
@@ -432,19 +432,18 @@ export default function AdjPlacement1(): React.JSX.Element {
 
 			<h4 className="margin-y-40">Cấp độ 3: Hình thái Động Câu [Verb Clause]</h4>
 
-			<p className="text-indent-whole">Đơn vị hành động nâng cấp thành một cấu trúc hành động phức hợp chứa cả một hệ tạo hành động riêng biệt bên trong (có đối tượng thực hiện và hành động riêng, được cấu hình theo các thời đại ngôn ngữ).</p>
+			<p className="text-indent-whole">Đơn vị hành động nâng cấp thành một việc phức hợp chứa cả một hệ tạo hành động riêng biệt bên trong.</p>
 
 			<p className="text-indent-whole">Từ đây, nó hình thành nên 3 chức năng tối cao:</p>
 
-			
 				<ul className="list-square">
 
 					<li>I believe [<strong>that he will succeed</strong>].</li>
 					<li className="margin-bottom-20 list-none">Tôi tin [<strong>rằng anh ấy sẽ thành công</strong>].</li>
 
-					<li className="list-none">Hình thái: [that he will succeed] - Động Câu [Verb Clause] thiết lập cấu trúc có đầy đủ đối tượng thực hiện he và hành động điều hành bởi Thời Động Cơ [Time-based Verb Base] will ở tương lai.</li>
+					<li className="list-none">Hình thái: [that he will succeed] - Động Câu [Verb Clause] thiết lập hệ thống có đầy đủ đối tượng thực hiện he và hành động điều hành bởi Thời Động Cơ [Time-based Verb Base] will ở thời tương lai.</li>
 
-					<li className="margin-bottom-20 list-none">Chức năng: [that he will succeed] - Danh Câu [Noun Clause] đại diện cho một đối tượng, một sự việc được hướng tới sau hành động tin.</li>
+					<li className="margin-bottom-20 list-none">Chức năng: [that he will succeed] - Danh Câu [Noun Clause] đóng vai trò làm Danh Nhận nhận tác động sau hành động tin.</li>
 			
 				</ul>
 			
@@ -454,7 +453,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 					<li>The book [<strong>which is lying on the table</strong>] is mine.</li>
 					<li className="margin-bottom-20 list-none">Cuốn sách [<strong>mà đang nằm ở trên bàn</strong>] thuộc về tôi.</li>
 
-					<li className="list-none">Hình thái: [which is lying on the table] - Động Câu [Verb Clause] chứa thành phần kết nối đóng vai trò đối tượng thực hiện và hành động điều hành bởi Thời Động Cơ [Time-based Verb Base] is ở hiện tại cùng các thành phần phụ.</li>
+					<li className="list-none">Hình thái: [which is lying on the table] - Động Câu [Verb Clause] chứa thành phần kết nối đóng vai trò đối tượng thực hiện và hành động điều hành bởi Thời Động Cơ [Time-based Verb Base] is ở thời hiện tại cùng các thành phần phụ.</li>
 
 					<li className="margin-bottom-20 list-none">Chức năng: [which is lying on the table] - Tính Câu [Adjective Clause] đứng ngay sau Danh Cơ book nhằm định danh và làm rõ nghĩa cho cuốn sách đó.</li>
 			
@@ -465,41 +464,55 @@ export default function AdjPlacement1(): React.JSX.Element {
 					<li>We will start [<strong>when the sun rises</strong>].</li>
 					<li className="margin-bottom-20 list-none">Chúng tôi sẽ khởi hành [<strong>khi mặt trời mọc</strong>].</li>
 
-					<li className="list-none">Hình thái: [when the sun rises] - Động Câu [Verb Clause] biểu hiện một cấu trúc hành động phức hợp có đối tượng thực hiện sun và hành động được cấu hình theo thời hiện tại rises.</li>
+					<li className="list-none">Hình thái: [when the sun rises] - Động Câu [Verb Clause] biểu hiện một việc hành động phức hợp có đối tượng thực hiện sun và hành động được cấu hình theo thời hiện tại rises.</li>
 
 					<li className="list-none">Chức năng: [when the sun rises] - Trạng Câu [Adverb Clause] làm nhiệm vụ điều phối ngữ cảnh thời gian cho hành động khởi hành của khối chính.</li>
 			
 				</ul>
+			
+
+
+			<h4 className="margin-y-40">Khối Hình Thái Đặc Biệt: Giới Cụm [Prepositional Phrase]</h4>
+					
+			<p className="text-indent-whole">Đây là khối từ hoàn toàn tách biệt, không bắt nguồn từ một chữ chỉ hành động (Động).</p>
+
+			<p className="text-indent-whole">Khối này được mở đầu bằng một Giới Cơ (như in, on, at, with, under...) kết hợp với các khối định danh đi liền phía sau.</p>
+
+			<p className="margin-top-20 text-indent-whole">Hình thái Giới Cụm [Prepositional Phrase] hoàn toàn không có chức năng làm Danh, nó chỉ hình thành nên 2 chức năng duy nhất: Tính Cụm và Trạng Cụm tùy thuộc vào vị trí đứng:</p>
+			
+				<ul className="list-square">
+			
+					<li>The book [<strong>on the table</strong>] is mine.</li>
+					<li className="margin-bottom-20 list-none">Cuốn sách [<strong>ở trên bàn</strong>] thuộc về tôi.</li>
+			
+					<li className="list-none">Hình thái: [on the table] - Giới Cụm [Prepositional Phrase] khởi đầu bằng Giới Cơ on kết hợp khối định danh the table.</li>
+			
+					<li className="margin-bottom-20 list-none">Chức năng: [on the table] - Tính Cụm [Adjective Phrase] đứng ngay sau Danh Cơ book làm nhiệm vụ định danh và mô tả đặc điểm vị trí cho cuốn sách đó.</li>
+			
+				</ul>
+			
+			
+				<ul className="list-square">
+			
+					<li>We will meet [<strong>at the station</strong>].</li>
+					<li className="margin-bottom-20 list-none">Chúng tôi sẽ gặp nhau [<strong>tại nhà ga</strong>].</li>
+			
+					<li className="list-none">Hình thái: [at the station] - Giới Cụm [Prepositional Phrase] khởi đầu bằng Giới Cơ at kết hợp khối định danh the station.</li>
+			
+					<li className="list-none">Chức năng: [at the station] - Trạng Cụm [Adverb Phrase] đứng sau hành động nhằm bổ sung và điều phối thông tin ngữ cảnh nơi chốn cho hành động gặp nhau.</li>
+			
+				</ul>
+			
 
 			
 
 			{/* 5.  */}
 
-			<h3 className="margin-y-50 text-center">5. Tư Duy Phân Tầng Cấu Trúc Và Sự Tương Đồng Tuyệt Đối</h3>
+			<h3 className="margin-y-50 text-center">5. Tư Tư Duy Phân Tầng Hệ Thống Và Sự Tương Đồng Tuyệt Đối</h3>
 
-			<p>Một trong những quy luật vận hành đỉnh cao của tiếng Anh là <strong>Nguyên tắc</strong> "<strong>Điểm neo</strong>".</p>
+			<p>Một trong những quy luật vận hành đỉnh cao của tiếng Anh là <strong>Nguyên tắc</strong> "<strong>Điểm neo</strong>". Dấu móc sẽ luôn bao quanh Động Cơ [Verb Base] chính hoặc toàn bộ cụm/câu phức hợp.</p>
 			
-			<p>Dấu móc sẽ luôn bao quanh Động Cơ [Verb Base] chính hoặc toàn bộ cụm/câu phức hợp.</p>
-
-			<p>Các yếu tố biểu thị thời hành động như -s/es, -ed, -ing nằm bên trong cấu hình của Động Cơ [Verb Base], không làm thay đổi bản chất của Hình thái hay Chức năng.</p>
-			
-			<p className="margin-top-20">Khi các hình thái này lồng vào nhau, hệ thống phân tầng sẽ ôm trọn cả Động Cơ [Verb Base] chính để điều phối câu. Hãy nhìn cách bộ não người bản ngữ bóc tách:</p>
-
-			<p className="margin-top-20"><strong>Mô hình <strong>phân tầng</strong> thực tế</strong>: [remembers {'{what you told me}'}]</p>
-			
-				<ul className="list-square">
-			
-					<li>He [______].</li>
-					<li className="margin-bottom-20 list-none">Anh ấy [nhớ {'{những gì bạn đã nói với tôi}'}].</li>
-
-					<li className="margin-bottom-20 list-none">{'{what you told me}'}: Động Câu [Verb Clause] - thực hiện chức năng làm <strong>Danh Câu</strong> [<strong>Noun Clause</strong>] (với hành động ở thời quá khứ told).</li>
-
-					<li className="list-none">[remembers {'{what you told me}'}]: Động Cụm [Verb Phrase] - thực hiện chức năng làm <strong>Danh Cụm</strong> [<strong>Noun Phrase</strong>], chịu sự điều quyền trực tiếp từ Động Cơ [Verb Base] chính ở thời hiện tại remembers.</li>
-			
-				</ul>
-
-
-			<p className="margin-top-20">Khi <strong>Tính Câu</strong> [<strong>Adjective Clause</strong>] hoặc <strong>Tính Cụm</strong> [<strong>Adjective Phrase</strong>] xuất hiện ở phía sau để mô tả cho Danh Cơ, cấu trúc tiếng Anh và tiếng Việt đạt được sự đồng bộ tuyệt đối 100%.</p>
+			<p>Khi <strong>Tính Câu</strong> [<strong>Adjective Clause</strong>] hoặc các khối <strong>Tính Cụm</strong> [<strong>Adjective Phrase</strong>] xuất hiện ở phía sau để mô tả cho Danh Cơ, tiếng Anh và tiếng Việt đạt được sự đồng bộ tuyệt đối 100%.</p>
 
 			<p>Tư duy của bạn sẽ chạy thẳng một mạch từ trái sang phải, không cần dịch ngược:</p>
 			
@@ -510,31 +523,25 @@ export default function AdjPlacement1(): React.JSX.Element {
 			
 				</ul>
 
-			<p className="margin-top-20">Sự tương đồng này đạt đến đỉnh cao khi Động Câu [Verb Clause] chứa chức năng Tính Câu [Adjective Clause] được rút gọn thành một khối mô tả dạng cụm.</p>
+			<p className="margin-top-20">Sự tương đồng này đạt đến đỉnh cao khi Động Câu [Verb Clause] chứa chức năng Tính Câu [Adjective Clause] được rút gọn thành một khối mô tả ngắn hơn.</p>
 
-			<p>Khi các kết nối học thuật bị triệt tiêu, trật tự câu văn lập tức trở nên thuần Việt với bốn cấu hình <strong>Tính Cụm</strong> [<strong>Adjective Phrase</strong>] cốt lõi:</p>
+			<p>Khi các kết nối học thuật bị triệt tiêu, trật tự câu văn lập tức trở nên thuần Việt với các cấu hình cốt lõi:</p>
 
-			<p className="margin-top-20">Dạng <strong>Tính Cụm chủ động</strong>: [sitting next to you]</p>
+
+			<p className="margin-top-20"><strong>Dạng Tính Cụm xuất phát từ Động</strong>: [sitting next to you] chủ động, [made in Vietnam] bị động</p>
 			
 				<ul className="list-square">
 			
 					<li>The <strong>man</strong> [______] is my brother.</li>
-					<li className="list-none">Người <strong>đàn ông</strong> [ngồi cạnh bạn] chính là anh trai tôi.</li>
-			
-				</ul>
-			
-			
-			<p className="margin-top-20">Dạng <strong>Tính Cụm bị động</strong>: [made in Vietnam]</p>
-			
-				<ul className="list-square">
-			
+					<li className="margin-bottom-20 list-none">Người <strong>đàn ông</strong> [ngồi cạnh bạn] chính là anh trai tôi.</li>
+
 					<li>The <strong>mugs</strong> [______] are very durable.</li>
 					<li className="list-none">Những chiếc <strong>ly</strong> [làm tại Việt Nam] cực kỳ bền.</li>
 			
 				</ul>
 			
 			
-			<p className="margin-top-20">Dạng <strong>Tính Cụm nguyên bản</strong>: [suitable for this job]</p>
+			<p className="margin-top-20"><strong>Dạng Tính Cụm Nguyên Bản</strong> (<strong>Tính cơ gốc</strong>): [suitable for this job]</p>
 			
 				<ul className="list-square">
 			
@@ -544,97 +551,236 @@ export default function AdjPlacement1(): React.JSX.Element {
 				</ul>
 			
 
-			<p className="margin-top-20">Dạng <strong>Tính Cụm Giới Cụm</strong> (Vị trí / Sở hữu): [on the top shelf]</p>
+			<p className="margin-top-20"><strong>Dạng Tính Cụm xuất phát từ Giới Cụm</strong>: [on the top shelf]</p>
 			
 				<ul className="list-square">
 			
 					<li>The <strong>documents</strong> [______] are confidential.</li>
-					<li className="list-none">Những tài liệu [ở trên ngăn kệ trên cùng] đều là bảo mật.</li>
+					<li className="list-none">Những <strong>tài liệu</strong> [ở trên ngăn kệ trên cùng] đều là bảo mật.</li>
 			
 				</ul>
-			
 
 
 			{/* 6. */}
 
-			<h3 className="margin-y-50 text-center">6. Giải Mã Paraphrasing: Bài Toán "Thay Khối Cùng Chức Năng"</h3>
+			<h3 className="margin-y-50 text-center">6. Tư Duy Phân Tầng Phức Hợp: Khối Bao Gói Lồng Nhau</h3>
 
-			<p>Khi bộ não người học đã hình thành phản xạ tự nhiên: <strong>Nhìn thấy Hình thái trước rồi giải mã ra Chức năng dựa vào vị trí</strong>, việc viết lại câu (Paraphrasing) trở thành một bài toán hoán đổi khối có cùng Chức năng trên một khung trục cố định, không cần thay đổi cấu trúc tổng thể.</p>
+			<p>Khi tư duy ngôn ngữ đạt đến cấp độ chuyên sâu, bộ não người bản ngữ bắt đầu vận hành các hình thái lồng nhau giống như những chiếc hộp Nga (hộp nhỏ nằm trong hộp lớn).</p>
 
-			<p>Khi cấu trúc tổng thể được giữ nguyên làm mỏ neo, bạn chỉ cần hoán đổi một khối thuộc cấp độ này sang một khối thuộc cấp độ khác, miễn là chúng đảm nhận chung một nhiệm vụ hệ thống.</p>
-
-			<p>Hãy nhìn cách chúng ta nâng cấp và biến đổi một câu văn bằng tư duy hoán đổi khối Chức năng:</p>
+			<p>Bản chất của tư duy phân tầng này là một khối hình thái tầng ngoài ôm trọn lấy một khối hình thái tầng trong, nhưng mỗi tầng lại đảm nhận một chức năng hoàn toàn riêng biệt dựa trên vị trí đứng của chúng.</p>
 
 
-			<h4 className="margin-y-40">Ví dụ 1: Nâng cấp từ cấp độ Cơ lên cấp độ Cụm</h4>
+			<h4 className="margin-y-40">Danh Cụm Phân Tầng [Nested Noun Phrase]</h4>
 
-			<p className="margin-top-20 text-indent-whole">[<strong>Smoking</strong>]</p>
+			<p className="text-indent-whole">Đây là hiện tượng mà một khối tổng thể đóng vai trò làm chủ thể hoặc khối tiếp nhận chính, nhưng lõi bên trong nó lại chứa một việc hành động phức hợp lồng ghép vào nhau.</p>
+
+			<p className="text-indent-whole">Việc này vận hành như một chuỗi các mắt xích logic phụ thuộc, <strong>bắt đầu ngay từ Động Cơ</strong> [<strong>Verb Base</strong>] <strong>điều phối chính</strong> ở tầng ngoài:</p>
+
+
+			<p className="margin-top-20 text-indent-whole">Câu ví dụ mẫu: [believe {'{that global temperatures will continue to rise}'}]</p>
 			
 				<ul className="list-square">
 			
-					<li>[<strong>______</strong>] is forbidden here.</li>
-					<li className="margin-bottom-20 list-none">[<strong>Hút thuốc</strong>] bị cấm ở đây.</li>
+					<li>Scientists [______].</li>
 			
-					<li className="list-none">Hình thái: [Smoking] - Động Cơ [Verb Base] biểu thị một từ hành động đơn lẻ đóng vai trò hạt nhân.</li>
+					<li>Các nhà khoa học [tin {'{rằng nhiệt độ toàn cầu sẽ tiếp tục gia tăng}'}].</li>
 			
-					<li className="list-none">Chức năng: [Smoking] - Danh Cơ [Noun Base] định vị ở đầu câu nhằm tạo thành chủ thể tác động cho toàn câu.</li>
+				</ul>
+			
+					
+			<p className="margin-top-20 text-indent-whole">Bóc tách tổ chức tư duy:</p>
+			
+				<ul className="list-square">
+			
+					<li>Hình thái phân tầng:</li>
+					<li className="margin-bottom-20 list-none">Toàn bộ khối tổng thể bắt đầu ngay từ chữ hành động chính điều phối ở tầng ngoài là [believe...] / [tin...]. Chữ hành động này mở khóa và ôm trọn lấy chiếc hộp lớn ở tầng trong {'{that global temperatures will continue to rise}'} / {'{rằng nhiệt độ toàn cầu...}'} mang hình thái của một Động Câu [Verb Clause].</li>
+			
+					<li>Chức năng phân tầng:</li>
+					<li className="list-none">Khối Động Câu tầng trong {'{that...}'} / {'{rằng...}'} vận hành trọn vẹn với chức năng của một Danh Câu [Noun Clause] làm Danh Nhận chịu tác động trực tiếp của chữ hành động chính là believe / tin. Khi bao gói lại, toàn bộ khối lớn [believe {'{that...}'}] / [tin {'{rằng...}'}] tạo thành một Danh Cụm Phân Tầng lồng ghép chặt chẽ, giúp câu văn học thuật mở rộng thông tin một cách cực kỳ logic.</li>
+			
+				</ul>
+			
+
+
+			<h4 className="margin-y-40">Tính Cụm Phân Tầng [Nested Adjective Phrase]</h4>
+					
+			<p className="text-indent-whole">Đây là hiện tượng mà một khối tổng thể bên ngoài làm nhiệm vụ mô tả cho Danh Cơ đứng trước, nhưng lõi bên trong của nó lại chứa một hệ hành động phức hợp gánh chức năng tiếp nhận.</p>
+
+			<p className="margin-top-20 text-indent-whole">Câu ví dụ mẫu: [on {'{what they discovered}'}]</p>
+			
+				<ul className="list-square">
+			
+					<li>The proposal [______] is promising.</li>
+			
+					<li>Bản đề xuất [về {'{những gì họ khám phá}'}] thì đầy triển vọng.</li>
+			
+				</ul>
+			
+			<p className="margin-top-20 text-indent-whole">Bóc tách tổ chức tư duy:</p>
+			
+				<ul className="list-square">
+			
+					<li>Hình thái phân tầng:</li>
+					<li className="margin-bottom-20 list-none">Khối tổng thể tầng ngoài [on...] / [về...] khởi đầu bằng Giới Cơ on / về, đây chính là một Giới Cụm [Prepositional Phrase]. Tuy nhiên, ngay phía sau Giới Cơ tầng ngoài, khối hình thái tầng trong {'{what they discovered}'} / {'{những gì họ khám phá}'} lại là một việc hành động phức hợp có hệ tạo hành động riêng, tức là một Động Câu [Verb Clause].</li>
+			
+					<li>Chức năng phân tầng:</li>
+					<li className="list-none">Khối tầng trong {'{what...}'} / {'{những gì...}'} đóng vai trò là một Danh Câu [Noun Clause] đứng sau để làm Danh Nhận chịu sự điều phối trực tiếp của Giới Cơ on / về. Khi hai tầng này bao gói vào nhau thành khối lớn [on {'{what...}'}] / [về {'{những gì...}'}], nó sẽ gánh vác chức năng tổng thể là một Tính Cụm [Adjective Phrase] định vị ngay sau Danh Cơ proposal để mô tả và làm rõ nghĩa cho bản đề xuất đó.</li>
 			
 				</ul>
 			
 			
-			<p className="margin-top-20 text-indent-whole">Viết lại [Paraphrase]: [<strong>Using tobacco products</strong>]</p>
+
+			<h4 className="margin-y-40">Trạng Cụm Phân Tầng [Nested Adverb Phrase]</h4>
+					
+			<p className="text-indent-whole">Tương tự như trên, nhưng lúc này khối bao gói tổng thể tầng ngoài không đứng sau Danh Cơ để mô tả đặc điểm nữa, mà đứng sau để điều phối ngữ cảnh, không gian, thời gian hoặc nguyên nhân cho hành động chính.</p>
+
+			<p className="margin-top-20 text-indent-whole">Câu ví dụ mẫu: [because of {'{how she managed the crisis}'}]</p>
 			
 				<ul className="list-square">
 			
-					<li>[<strong>______</strong>] is forbidden here.</li>
-					<li className="margin-bottom-20 list-none">[<strong>Sử dụng các sản phẩm thuốc lá</strong>] bị cấm ở đây.</li>
+					<li>We succeeded [______].</li>
 			
-					<li className="list-none">Hình thái: [Using tobacco products] - Động Cụm [Verb Phrase] biểu thị một nhóm nhiều từ kết hợp xung quanh hành động gốc using.</li>
+					<li>Chúng tôi thành công [vì {'{cách cô ấy xử lý cuộc khủng hoảng}'}].</li>
 			
-					<li className="list-none">Chức năng: [Using tobacco products] - Danh Cụm [Noun Phrase] gánh vác vai trò chủ thể tác động cho toàn câu thay thế cho vị trí cũ.</li>
+				</ul>
+			
+
+			<p className="margin-top-20 text-indent-whole">Bóc tách tổ chức tư duy:</p>
+			
+				<ul className="list-square">
+			
+					<li>Hình thái phân tầng:</li>
+					<li className="margin-bottom-20 list-none">Khối tổng thể tầng ngoài [because of...] / [vì...] được mở đầu bằng một Giới Cơ phức hợp (because of / vì), tạo nên một hình thái Giới Cụm [Prepositional Phrase] lớn ở tầng ngoài. Nằm gọn bên trong chiếc hộp lớn này, khối tầng trong {'{how she managed the crisis}'} / {'{cách cô ấy xử lý...}'} chứa một hệ hành động được thiết lập thời đầy đủ, mang hình thái của một Động Câu [Verb Clause].</li>
+			
+					<li>Chức năng phân tầng:</li>
+					<li className="list-none">Khối Động Câu tầng trong {'{how...}'} / {'{cách cô ấy...}'} vận hành with chức năng là một Danh Câu [Noun Clause] đóng vai trò làm Danh Nhận đứng sau để chịu sự tác động điều phối của Giới Cơ because of / vì. Khi tích hợp lại thành khối lớn [because of {'{how...}'}] / [vì {'{cách cô ấy...}'}], nó gánh vác chức năng tổng thể là một Trạng Cụm [Adverb Phrase] bổ nghĩa cho toàn bộ khối hành động We succeeded phía trước nhằm làm rõ ngữ cảnh nguyên nhân dẫn đến sự thành công.</li>
 			
 				</ul>
 			
 			
-			<p className="margin-top-20 text-indent-whole">Phân tích tư duy: Trục cấu trúc hoàn toàn giữ nguyên. Người viết chỉ việc nhấc khối Danh Cơ [Noun Base] ra và đặt vào đó một khối mang Hình thái Động Cụm [Verb Phrase] nhưng giữ nguyên Chức năng Danh Cụm [Noun Phrase]. Câu văn lập tức trở nên trang trọng và chi tiết hơn.</p>
+			<p className="margin-top-20 text-indent-whole">Tư duy phân tầng phức hợp này chứng minh rằng, dù câu văn có kéo dài và đan cài nhiều lớp thông tin đến đâu, bộ não của bạn chỉ cần nhìn ra cách bao gói:</p>
+
+			<p>Nhấc khối tầng trong ra để giải mã chức năng Danh Nhận, rồi trả khối lớn tầng ngoài về đúng vị trí Danh, Tính hoặc Trạng của nó.</p>
+
+			<p>Khung mỏ neo tư duy luôn được giữ vững chắc!</p>
+
+			
 
 
-			<h4 className="margin-y-40">Ví dụ 2: Hoán đổi linh hoạt giữa cấp độ Cụm và cấp độ Câu</h4>
+			{/* 7. */}
 
-			<p className="margin-top-20 text-indent-whole">[<strong>because of the heavy rain</strong>]</p>
+			<h3 className="margin-y-50 text-center">7. Giải Mã Paraphrasing: Bài Toán "Thay Khối Cùng Chức Năng"</h3>
+
+			<p>Khi bộ não người học đã hình thành phản xạ tự nhiên: <strong>Nhìn thấy Hình thái trước rồi giải mã ra Chức năng dựa vào vị trí</strong>, việc viết lại câu (Paraphrasing) trở thành một bài toán hoán đổi khối có cùng Chức năng trên một khung trục cố định.</p>
+
+			<p>Khi mọi thứ tổng thể được giữ nguyên làm mỏ neo, bạn chỉ cần hoán đổi một khối thuộc cấp độ này sang một khối thuộc cấp độ khác, hoặc chuyển từ khối Động sang khối Giới nếu chúng đảm nhận chung một nhiệm vụ hệ thống.</p>
+
+			<p>Thứ tự ưu tiên tư duy hoán đổi khối Chức năng sẽ đi từ các hình thái Động (Cơ -{'>'} Cụm -{'>'} Câu) trước, sau đó mới hoán đổi sang hình thái Giới Cụm nếu tổ chức câu cho phép.</p>
+
+
+			<h4 className="margin-y-40">Ví dụ 1: Nâng cấp khối Động từ cấp độ Cơ lên cấp độ Cụm</h4>
+
+			<p className="text-indent-whole">[Smoking]</p>
 			
 				<ul className="list-square">
 			
-					<li>We delayed the match [<strong>______</strong>].</li>
-					<li className="margin-bottom-20 list-none">Chúng tôi đã hoãn trận đấu [<strong>vì cơn mưa lớn</strong>].</li>
+					<li>[______] is forbidden here.</li>
+					<li className="margin-bottom-20 list-none">[Hút thuốc] bị cấm ở đây.</li>
 			
-					<li className="list-none">Hình thái: [because of the heavy rain] - Động Cụm [Verb Phrase] biểu thị một khối cụm gồm các từ kết hợp đi cùng nhau không chứa bộ tạo hành động riêng.</li>
-
-					<li className="list-none">Chức năng: [because of the heavy rain] - Trạng Cụm [Adverb Phrase] đứng sau bổ nghĩa cho khối chính nhằm làm rõ nguyên nhân ngữ cảnh.</li>
+					<li className="list-none">Hình thái: [Smoking] - Động Cơ [Verb Base]</li>
+			
+					<li className="list-none">Chức năng: [Smoking] - Danh Cơ [Noun Base] làm chủ thể cho toàn câu.</li>
 			
 				</ul>
 			
 			
-			<p className="margin-top-20 text-indent-whole">Viết lại [Paraphrase]: [<strong>because it rained heavily</strong>]</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Viết lại</strong> [<strong>Paraphrase</strong>]: [Using tobacco products]</p>
 			
 				<ul className="list-square">
 			
-					<li>We delayed the match [<strong>______</strong>].</li>
-					<li className="margin-bottom-20 list-none">Chúng tôi đã hoãn trận đấu [<strong>vì trời đã mưa rất to</strong>].</li>
+					<li>[______] is forbidden here.</li>
+					<li className="margin-bottom-20 list-none">[Sử dụng các sản phẩm thuốc lá] bị cấm ở đây.</li>
 			
-					<li className="list-none">Hình thái: [because it rained heavily] - Động Câu [Verb Clause] biểu hiện một cấu trúc hành động phức hợp có đối tượng thực hiện it và hành động được điều hành bởi Thời Động Cơ [Time-based Verb Base] ở quá khứ rained.</li>
+					<li className="list-none">Hình thái: [Using tobacco products] - Động Cụm [Verb Phrase]</li>
+			
+					<li className="list-none">Chức năng: [Using tobacco products] - Danh Cụm [Noun Phrase] thay thế cho vị trí cũ.</li>
+			
+				</ul>
 
-					<li className="list-none">Chức năng: [because it rained heavily] - Trạng Câu [Adverb Clause] làm nhiệm vụ điều phối ngữ cảnh nguyên nhân cho toàn bộ hành động chính của câu thay thế cho vị trí cũ.</li>
+
+			<h4 className="margin-y-40">Ví dụ 2: Hoán đổi linh hoạt giữa khối Động cấp độ Câu và cấp độ Cụm</h4>
+
+			<p className="text-indent-whole">[because it rained heavily]</p>
+			
+				<ul className="list-square">
+			
+					<li>We delayed the match [______].</li>
+					<li className="margin-bottom-20 list-none">Chúng tôi đã hoãn trận đấu [vì trời đã mưa rất to].</li>
+			
+					<li className="list-none">Hình thái: [because it rained heavily] - Động Câu [Verb Clause] chứa đối tượng thực hiện it và hành động rained.</li>
+
+					<li className="list-none">Chức năng: [because it rained heavily] - Trạng Câu [Adverb Clause] bổ nghĩa nguyên nhân.</li>
 			
 				</ul>
 			
 			
-			<p className="margin-top-20 text-indent-whole">Phân tích tư duy: Khung xương cốt lõi không hề lay chuyển. Bạn chỉ cần thực hiện một thao tác kỹ thuật: Biến đổi khối Trạng Cụm [Adverb Phrase] thành một khối mới mang Hình thái Động Câu [Verb Clause], vận hành với Chức năng Trạng Câu [Adverb Clause].</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Viết lại</strong> [<strong>Paraphrase</strong>]: [because of the heavy rain]</p>
+			
+				<ul className="list-square">
+			
+					<li>We delayed the match [______].</li>
+					<li className="margin-bottom-20 list-none">Chúng tôi đã hoãn trận đấu [vì cơn mưa lớn].</li>
+			
+					<li className="list-none">Hình thái: [because of the heavy rain] - Động Cụm [Verb Phrase] nhóm chữ kết hợp không chứa bộ tạo hành động riêng, xoay quanh hành động gốc đã danh cơ hóa.</li>
 
+					<li className="list-none">Chức năng: [because of the heavy rain] - Trạng Cụm [Adverb Phrase] gánh vác vai trò ngữ cảnh nguyên nhân thay thế vị trí cũ.</li>
+			
+				</ul>
+			
+			
+			<h4 className="margin-y-40">Ví dụ 3: Hoán đổi từ khối Động sang hình thái Giới Cụm đặc biệt</h4>
 
-			<p className="margin-top-40">Tư duy thay khối cùng chức năng này chính là vũ khí tối thượng giúp bạn viết lại câu một cách cực kỳ tốc độ, chính xác và mượt mà trong các bài thi viết học thuật.</p>
-
-			<p>Bạn không bao giờ phải lo lắng về việc cấu trúc bị sai sót hay lệch mạch tư duy, bởi vì khung mỏ neo cốt lõi luôn được giữ vững chắc.</p>
+			<p className="text-indent-whole">[who was studying in the library]</p>
+			
+				<ul className="list-square">
+			
+					<li>The student [______] found the lost keys.</li>
+					<li className="margin-bottom-20 list-none">Người học sinh [người mà đã đang học ở trong thư viện] đã tìm thấy chìa khóa bị mất.</li>
+			
+					<li className="list-none">Hình thái: [who was studying in the library] - Động Câu [Verb Clause] chứa hành động được thiết lập thời was studying.</li>
+			
+					<li className="list-none">Chức năng: [who was studying in the library] - Tính Câu [Adjective Clause] bổ nghĩa định danh cho học sinh.</li>
+			
+				</ul>
+			
+			
+			<p className="margin-top-20 text-indent-whole"><strong>Bước viết lại trung gian</strong> (<strong>Rút gọn về khối Động Cụm</strong>): [studying in the library]</p>
+			
+				<ul className="list-square">
+			
+					<li>The student [______] found the lost keys.</li>
+					<li className="margin-bottom-20 list-none">Người học sinh [đang học ở trong thư viện] đã tìm thấy chìa khóa bị mất.</li>
+			
+					<li className="list-none">Hình thái: [studying in the library] - Động Cụm [Verb Phrase] dạng tinh gọn đuôi -ing.</li>
+			
+					<li className="list-none">Chức năng: [studying in the library] - Tính Cụm [Adjective Phrase].</li>
+			
+				</ul>
+			
+			
+			<p className="margin-top-20 text-indent-whole"><strong>Bước viết lại tối hạn</strong> (<strong>Hoán đổi hoàn toàn sang hình thái Giới Cụm</strong>): [in the library]</p>
+			
+				<ul className="list-square">
+			
+					<li>The student [______] found the lost keys.</li>
+					<li className="margin-bottom-20 list-none">Người học sinh [ở trong thư viện] đã tìm thấy chìa khóa bị mất.</li>
+			
+					<li className="list-none">Hình thái: [in the library] - Giới Cụm [Prepositional Phrase] khởi đầu bằng Giới Cơ in, triệt tiêu hoàn toàn các chữ chỉ hành động Động.</li>
+			
+					<li className="list-none">Chức năng: [in the library] - Tính Cụm [Adjective Phrase] đảm nhận trọn vẹn vị trí định danh và làm rõ nghĩa cho đối tượng chính học sinh.</li>
+			
+				</ul>
+			
 			
 			
 
@@ -642,13 +788,9 @@ export default function AdjPlacement1(): React.JSX.Element {
 
 			<h3 className="margin-y-50 text-center">Lời Kết: Vũ Khí Chiến Lược Của Người Việt</h3>
 
-			<p>Phát hiện ra điểm mạnh tương đồng giữa cấu trúc tiếng Việt và hệ thống Danh Cơ + Tính Câu [Adjective Clause] trong tiếng Anh không chỉ là một mẹo học tập, nó là một cuộc cách mạng về tư duy.</p>
+			<p>Phát hiện ra điểm mạnh tương đồng giữa cách nói tiếng Việt và hệ thống Danh Cơ + Tính Câu [Adjective Clause] trong tiếng Anh không chỉ là một mẹo học tập, nó là một cuộc cách mạng về tư duy.</p>
 
-			<p>Nó đập tan nỗi sợ những cấu trúc phức tạp, cho phép người Việt viết những câu văn dài có chiều sâu, học thuật và đẳng cấp bằng chính tốc độ tư duy của tiếng mẹ đẻ.</p>
-
-			<p>Khi bạn kết hợp sơ đồ nhất quán từ <strong>Cơ</strong> -{'>'} <strong>Cụm</strong> -{'>'} <strong>Câu</strong> với tư duy thay khối cùng chức năng khi viết lại câu, bạn đã hoàn toàn làm chủ cuộc chơi ngôn ngữ.</p>
-
-			<p>Đây chính là điểm tựa chiến lược giúp người học Việt Nam tự tin bứt phá, vượt trội hơn hẳn các quốc gia trong khu vực về khả năng sử dụng tiếng Anh chuyên sâu và viết luận cao cấp.</p>
+			<p>Khi bạn kết hợp sơ đồ nhất quán từ các hình thái Động (Cơ -{'>'} Cụm -{'>'} Câu) cho đến khối hình thái đặc biệt Giới Cụm cùng tư duy phân tầng phức hợp khởi đầu ngay từ động cơ chính, bộ não bạn sẽ làm chủ hoàn toàn các tầng chức năng.</p>
 
 			<p>Tiếng Anh chưa bao giờ ngược dòng, nó chỉ đang chờ bạn nhận ra sự đồng điệu để cùng hòa vào một dòng chảy tư duy!</p>
 
