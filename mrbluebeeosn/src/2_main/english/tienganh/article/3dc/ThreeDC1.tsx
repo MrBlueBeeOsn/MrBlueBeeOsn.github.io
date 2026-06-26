@@ -309,7 +309,7 @@ export default function ThreeDC1(): React.ReactElement {
 			
 				<ul className="list-square">
 			
-					<li>We plan [______{'{______}'}].</li>
+					<li>We plan [______ {'{______}'}].</li>
 					<li className="margin-bottom-20 list-none">Chúng tôi có kế hoạch [điều tra {'{hệ thống đã lỗi như thế nào}'}].</li>
 			
 					<li className="list-none">Hình thái: Khối bao ngoài [to investigate {'{how the system failed}'}] là một Động Cụm [Verb Phrase] bắt đầu bằng dạng hành động hướng tới tương lai "to investigate". Bên trong bao gói {'{how the system failed}'} là một Động Câu [Verb Clause] tầng trong có chủ thể "the system" và động cơ "failed".</li>
@@ -328,7 +328,7 @@ export default function ThreeDC1(): React.ReactElement {
 			
 				<ul className="list-square">
 			
-					<li>The report [______{'{______}'}] is confidential.</li>
+					<li>The report [______ {'{______}'}] is confidential.</li>
 					<li className="margin-bottom-20 list-none">Bản báo cáo [về {'{những gì họ đã phát hiện}'}] thì được bảo mật.</li>
 			
 					<li className="list-none">Hình thái: Khối tổng thể [about {'{what they discovered}'}] là một Giới Cụm [Prepositional Phrase] tầng ngoài, bắt đầu bằng giới cơ "about". Bên trong bao gói {'{what they discovered}'} là một Động Câu [Verb Clause] tầng trong có chủ thể "they" và động cơ "discovered".</li>
@@ -348,7 +348,7 @@ export default function ThreeDC1(): React.ReactElement {
 			
 				<ul className="list-square">
 			
-					<li>They succeeded [______{'{______}'}].</li>
+					<li>They succeeded [______ {'{______}'}].</li>
 					<li className="margin-bottom-20 list-none">Họ đã thành công [bởi vì {'{họ đã làm việc chăm chỉ như thế nào}'}].</li>
 			
 					<li className="list-none">Hình thái: Khối tổng thể [because of {'{how hard they worked}'}] là một Giới Cụm [Prepositional Phrase] tầng ngoài, được dẫn dắt bởi giới cơ phức hợp "because of". Bên trong bao gói {'{how hard they worked}'} là một Động Câu [Verb Clause] tầng trong chứa chủ thể "they" và động cụm hành động "worked".</li>

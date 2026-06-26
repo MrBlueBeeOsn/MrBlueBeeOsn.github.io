@@ -206,7 +206,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>I [______{'{______}'}].</li>
+					<li>I [______ {'{______}'}].</li>
 					<li className="margin-bottom-20 list-none">Tôi [hiểu {'{lý do vì sao bạn rời đi}'}].</li>
 
 					<li className="margin-bottom-20 list-none">Hình thái: Khối tổng thể [understand {'{why you left}'}] là một Động Cụm [Verb Phrase] tầng ngoài. Bên trong bao gói {'{why you left}'} là một Động Câu [Verb Clause] tầng trong.</li>
@@ -268,7 +268,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>The man [______{'{______}'}] is my brother.</li>
+					<li>The man [______ {'{______}'}] is my brother.</li>
 					<li className="margin-bottom-20 list-none">Người đàn ông [với niềm tin {'{rằng anh ấy có thể chiến thắng}'}] là anh trai tôi.</li>
 
 					<li className="margin-bottom-20 list-none">Hình thái: Khối tổng thể [with the belief {'{that he can win}'}] là một Giới Cụm [Prepositional Phrase] tầng ngoài. Bên trong bao gói {'{that he can win}'} là một Động Câu [Verb Clause] tầng trong.</li>
@@ -391,7 +391,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>They arrived [______{'{______}'}].</li>
+					<li>They arrived [______ {'{______}'}].</li>
 					<li className="margin-bottom-20 list-none">Họ đã đến [vào thời điểm {'{khi buổi biểu diễn bắt đầu}'}].</li>
 
 					<li className="margin-bottom-20 list-none">Hình thái: Khối tổng thể [at the moment {'{when the show started}'}] là một Giới Cụm [Prepositional Phrase] tầng ngoài. Bên trong bao gói {'{when the show started}'} là một Động Câu [Verb Clause] tầng trong.</li>

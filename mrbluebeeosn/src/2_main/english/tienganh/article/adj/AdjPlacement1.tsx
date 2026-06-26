@@ -542,7 +542,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>Scientists [______{'{______}'}].</li>
+					<li>Scientists [______ {'{______}'}].</li>
 			
 					<li>Các nhà khoa học [tin {'{rằng nhiệt độ toàn cầu sẽ tiếp tục tăng}'}].</li>
 			
@@ -571,7 +571,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>The proposal [______{'{______}'}] are detailed.</li>
+					<li>The proposal [______ {'{______}'}] are detailed.</li>
 			
 					<li>Bản <strong>đề xuất</strong> [về {'{những gì họ đã phát hiện}'}] thì chi tiết.</li>
 			
@@ -599,7 +599,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>We succeeded [______{'{______}'}].</li>
+					<li>We succeeded [______ {'{______}'}].</li>
 			
 					<li>Chúng tôi đã thành công [vì {'{cách cô ấy quản lý cuộc khủng hoảng}'}].</li>
 			
