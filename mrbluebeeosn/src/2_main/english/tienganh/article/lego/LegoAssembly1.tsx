@@ -206,12 +206,12 @@ export default function LegoAssembly1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>I [______].</li>
+					<li>I [______{'{______}'}].</li>
 					<li className="margin-bottom-20 list-none">Tôi [hiểu {'{lý do vì sao bạn rời đi}'}].</li>
 
 					<li className="margin-bottom-20 list-none">Hình thái: Khối tổng thể [understand {'{why you left}'}] là một Động Cụm [Verb Phrase] tầng ngoài. Bên trong bao gói {'{why you left}'} là một Động Câu [Verb Clause] tầng trong.</li>
 
-					<li className="list-none">Chức năng: Khối {'{why you left}'} bên trong đóng vai trò là Danh Câu [Noun Clause] chịu sự điều phối của Động Cơ [Verb Base] tầng ngoài, và toàn bộ khối [understand {'{why you left}'}] đóng vai trò là Danh Cụm [Noun Phrase] tổng thể chịu tác động của Subject I.</li>
+					<li className="list-none">Chức năng: Khối {'{why you left}'} bên trong đóng vai trò là Danh Câu [Noun Clause] chịu sự điều phối của Động Cơ [Verb Base] tầng ngoài, và toàn bộ khối [understand {'{why you left}'}] đóng vai trò là <strong>Danh Cụm</strong> [<strong>Noun Phrase</strong>] tổng thể chịu tác động của Subject I.</li>
 			
 				</ul>
 			
@@ -234,7 +234,9 @@ export default function LegoAssembly1(): React.JSX.Element {
 				</ul>
 			
 			
-			<p className="margin-top-20 text-indent-whole"><strong>Tính Cụm</strong> [<strong>Adjective Phrase</strong>] (<strong>Cấu tạo từ Động Cụm</strong>): [working from home]</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Cấu tạo từ Động Cụm</strong></p>
+
+			<p className="margin-top-20 text-indent-whole"><strong>Tính Cụm</strong> [<strong>Adjective Phrase</strong>]: [working from home]</p>
 			
 				<ul className="list-square">
 			
@@ -247,7 +249,9 @@ export default function LegoAssembly1(): React.JSX.Element {
 				</ul>
 
 			
-			<p className="margin-top-20 text-indent-whole"><strong>Tính Cụm</strong> [<strong>Adjective Phrase</strong>] (<strong>Cấu tạo từ Giới Cụm</strong>): [with the blue tie]</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Cấu tạo từ Giới Cụm</strong></p>
+
+			<p className="margin-top-20 text-indent-whole"><strong>Tính Cụm</strong> [<strong>Adjective Phrase</strong>]: [with the blue tie]</p>
 			
 				<ul className="list-square">
 			
@@ -264,12 +268,12 @@ export default function LegoAssembly1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>The man [______] is my brother.</li>
+					<li>The man [______{'{______}'}] is my brother.</li>
 					<li className="margin-bottom-20 list-none">Người đàn ông [với niềm tin {'{rằng anh ấy có thể chiến thắng}'}] là anh trai tôi.</li>
 
 					<li className="margin-bottom-20 list-none">Hình thái: Khối tổng thể [with the belief {'{that he can win}'}] là một Giới Cụm [Prepositional Phrase] tầng ngoài. Bên trong bao gói {'{that he can win}'} là một Động Câu [Verb Clause] tầng trong.</li>
 
-					<li className="list-none">Chức năng: Khối {'{that he can win}'} bên trong đóng vai trò là Danh Câu [Noun Clause] giải thích nghĩa cho danh từ "belief", và toàn bộ khối [with the belief {'{that he can win}'}] đóng vai trò là Tính Cụm [Adjective Phrase] tổng thể đứng sau Danh Cụm "The man" để mô tả đặc điểm nhận dạng của đối tượng này.</li>
+					<li className="list-none">Chức năng: Khối {'{that he can win}'} bên trong đóng vai trò là Danh Câu [Noun Clause] giải thích nghĩa cho danh từ "belief", và toàn bộ khối [with the belief {'{that he can win}'}] đóng vai trò là <strong>Tính Cụm</strong> [<strong>Adjective Phrase</strong>] tổng thể đứng sau Danh Cụm "The man" để mô tả đặc điểm nhận dạng của đối tượng này.</li>
 			
 				</ul>
 			
@@ -295,7 +299,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 			<p className="margin-top-20 text-indent-whole">Khi câu có cấu trúc <strong>S</strong> + <strong>be</strong> (<strong>Head</strong>) + <strong>Tính Cụm</strong> [<strong>Adjective Phrase</strong>], khối này thực chất chính là hình thức của một Tính Câu [Adjective Clause] đầy đủ được rút gọn lại bằng cách lược bỏ đầu nối và Động Cơ [Verb Base] <strong>be</strong> ở câu gốc để câu súc tích hơn.</p>
 			
 
-			<p className="margin-y-40 text-indent-whole">Ví dụ 1:</p>
+			<p className="margin-y-30 text-indent-whole">Ví dụ 1:</p>
 
 			<p className="text-indent-whole"><strong>Tính Câu</strong> [<strong>Adjective Clause</strong>] đầy đủ: [which is written in English]</p>
 			
@@ -317,7 +321,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 				</ul>
 			
 
-			<p className="margin-y-40 text-indent-whole">Ví dụ 2:</p>
+			<p className="margin-y-30 text-indent-whole">Ví dụ 2:</p>
 
 			<p className="text-indent-whole"><strong>Tính Câu</strong> [<strong>Adjective Clause</strong>] đầy đủ: [which is to launch the product]</p>
 			
@@ -387,12 +391,12 @@ export default function LegoAssembly1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>They arrived [______].</li>
+					<li>They arrived [______{'{______}'}].</li>
 					<li className="margin-bottom-20 list-none">Họ đã đến [vào thời điểm {'{khi buổi biểu diễn bắt đầu}'}].</li>
 
 					<li className="margin-bottom-20 list-none">Hình thái: Khối tổng thể [at the moment {'{when the show started}'}] là một Giới Cụm [Prepositional Phrase] tầng ngoài. Bên trong bao gói {'{when the show started}'} là một Động Câu [Verb Clause] tầng trong.</li>
 
-					<li className="list-none">Chức năng: Khối {'{when the show started}'} bên trong đóng vai trò là Tính Câu [Adjective Clause] bổ nghĩa cho danh từ "moment", và toàn bộ khối [at the moment {'{when the show started}'}] đóng vai trò là Trạng Cụm [Adverb Phrase] tổng thể đứng cuối câu để bổ sung bối cảnh thời gian cho hành động "arrived".</li>
+					<li className="list-none">Chức năng: Khối {'{when the show started}'} bên trong đóng vai trò là Tính Câu [Adjective Clause] bổ nghĩa cho danh từ "moment", và toàn bộ khối [at the moment {'{when the show started}'}] đóng vai trò là <strong>Trạng Cụm</strong> [<strong>Adverb Phrase</strong>] tổng thể đứng cuối câu để bổ sung bối cảnh thời gian cho hành động "arrived".</li>
 			
 				</ul>
 			
