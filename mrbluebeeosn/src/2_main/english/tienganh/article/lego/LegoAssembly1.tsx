@@ -549,7 +549,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 				<ul className="list-square">
 			
 					<li>You <strong>are</strong> [cooking dinner].</li>
-					<li className="list-none">Bạn [đang nấu bữa tối].</li>
+					<li className="list-none">Bạn <strong>đang</strong> [nấu bữa tối].</li>
 			
 				</ul>
 
@@ -558,7 +558,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 				<ul className="list-square">
 			
 					<li><strong>Are</strong> you [cooking dinner]?</li>
-					<li className="list-none"><strong>Phải</strong> bạn [đang nấu bữa tối]?</li>
+					<li className="list-none">Bạn <strong>đang</strong> [nấu bữa tối]?</li>
 			
 				</ul>
 
@@ -587,7 +587,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 
 					<li className="margin-bottom-20 list-none">Bản chất gốc.</li>
 
-					<li>I <strong>did</strong> [develop the app]. ()</li>
+					<li>I <strong>did</strong> [develop the app].</li>
 					<li className="margin-bottom-20 list-none">Tôi <strong>đã thực sự</strong> [phát triển ứng dụng đó].</li>
 					<li className="list-none">→ Câu khẳng định mang tính nhấn mạnh</li>
 			
@@ -628,7 +628,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 			
 					<li>She [cooking dinner].</li>
 
-					<li className="list-none margin-y-10">Hay</li>
+					<li className="list-none margin-y-10">hay</li>
 
 					<li>I [developing the app].</li>
 			
@@ -641,7 +641,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 				<ul className="list-square">
 			
 					<li>She <strong>is</strong> [cooking dinner].</li>
-					<li className="list-none">Cô ấy [đang nấu bữa tối].</li>
+					<li className="list-none">Cô ấy <strong>đang</strong> [nấu bữa tối].</li>
 			
 				</ul>
 			
