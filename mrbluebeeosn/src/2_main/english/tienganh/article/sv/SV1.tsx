@@ -55,14 +55,14 @@ export default function SV1(): React.JSX.Element {
 			<p>Khi các yếu tố cấu trúc được đơn giản hóa thành một bản đồ trực quan, tư duy của người học sẽ được giải phóng hoàn toàn để đạt đến tốc độ phản xạ tự nhiên nhất.</p>
 			
 		
-			<p>Hệ thống tư duy mới dưới đây được xây dựng dựa trên sự đồng bộ tuyệt đối giữa 3 Hình Thái gốc, 3 Chức Năng điều phối và 3 Cấp Độ hình khối, giúp người học "nhìn phát hiểu ngay" mọi thành phần trong tiếng Anh mà không cần đến bất kỳ định nghĩa rườm rà nào.</p>
+			<p>Hệ thống tư duy mới dưới đây được xây dựng dựa trên sự đồng bộ tuyệt đối giữa các Hình Thái gốc, 3 Chức Năng điều phối và 3 Cấp Độ hình khối, giúp người học "nhìn phát hiểu ngay" mọi thành phần trong tiếng Anh mà không cần đến bất kỳ định nghĩa rườm rà nào.</p>
 
 
 			{/* 1.  */}
 
 			<h3 className="margin-y-50 text-center">1. Hệ Trục Tọa Độ Quy Tắc 3C</h3>
 
-			<p>Toàn bộ kiến trúc của câu tiếng Anh được phân định rõ ràng qua 3 cấp độ quy mô tăng dần, đều bắt đầu bằng chữ C để tạo lối mòn tư duy cực kỳ dễ nhớ:</p>
+			<p>Toàn bộ kiến trúc của câu tiếng Anh được phân định rõ ràng qua 3 cấp độ quy mô tăng dần, đều bắt đầu bằng chữ <strong>C</strong> để tạo lối mòn tư duy cực kỳ dễ nhớ:</p>
 			
 				<ul className="list-square">
 			
@@ -103,7 +103,7 @@ export default function SV1(): React.JSX.Element {
 
 			<p>Một sai lầm kinh điển của cách học cũ là bắt người học phải đoán chức năng trước. Với hệ thống mới, quy trình tư duy được đảo ngược một cách tự nhiên và khoa học: Người học nhìn thấy Hình thái trước, sau đó dựa vào vị trí để giải mã ra Chức năng.</p>
 
-			<p>Hạt nhân của mọi hình thái hành động trong câu chính là ĐỘNG (Xung lực vận hành). Trục hình thái được chia làm 3 cấp độ:</p>
+			<p>Hạt nhân điều phối hành động trong câu chính là ĐỘNG (Xung lực vận hành), song hành cùng cấu trúc liên kết không hành động là GIỚI. Trục hình thái được chia tách rõ ràng:</p>
 			
 				<ol>
 			
@@ -114,14 +114,18 @@ export default function SV1(): React.JSX.Element {
 					<li value="2"><strong>Động Cụm</strong> [<strong>Verb Phrase</strong>]:</li>
 					<li className="list-none">Khối hành động chứa nhiều từ, không chứa hệ trục S + V.</li>
 					<li className="margin-bottom-20 list-none">Hình thái này sẽ đi làm các chức năng: Danh Cụm [Noun Phrase], Tính Cụm [Adjective Phrase], hoặc Trạng Cụm [Adverb Phrase].</li>
+
+					<li value="3"><strong>Giới Cụm</strong> [<strong>Prepositional Phrase</strong>]:</li>
+					<li className="list-none">Khối liên kết vị trí, không gian, thời gian không chứa xung lực hành động, không chứa hệ trục S + V.</li>
+					<li className="margin-bottom-20 list-none">Hình thái này sẽ đi làm các chức năng đặc thù: Tính Cụm [Adjective Phrase] hoặc Trạng Cụm [Adverb Phrase].</li>
 			
-					<li value="3"><strong>Động Câu</strong> [<strong>Verb Clause</strong>]:</li>
+					<li value="4"><strong>Động Câu</strong> [<strong>Verb Clause</strong>]:</li>
 					<li className="list-none">Khối hành động chứa một cấu trúc Câu con hoàn chỉnh, có chứa hệ trục S + V.</li>
 					<li className="list-none">Hình thái này sẽ đi làm các chức năng: Danh Câu [Noun Clause], Tính Câu [Adjective Clause], hoặc Trạng Câu [Adverb Clause].</li>
 			
 				</ol>
 			
-			<p className="margin-top-20">Khi chưa đặt vào câu, bạn chỉ biết đó là hình thái Động Cơ [Verb Base], Động Cụm [Verb Phrase], hay Động Câu [Verb Clause]. Chỉ khi nó "neo" vào một vị trí cụ thể, chức năng tương ứng Danh, Tính, hoặc Trạng mới được kích hoạt.</p>
+			<p className="margin-top-20">Khi chưa đặt vào câu, bạn chỉ biết rõ hình thái vỏ bọc bên ngoài. Chỉ khi nó "neo" vào một vị trí cụ thể, chức năng tương ứng Danh, Tính, hoặc Trạng mới được kích hoạt.</p>
 
 
 
@@ -175,7 +179,7 @@ export default function SV1(): React.JSX.Element {
 
 			<h4 className="margin-y-40">2. Hình thái Động Cụm [Verb Phrase]</h4>
 
-			<p className="text-indent-whole">Đơn vị hành động chứa nhiều từ kết hợp, không tạo thành một câu độc lập.</p>
+			<p className="text-indent-whole">Đơn vị hành động chứa nhiều từ kết hợp, không chứa hệ trục S + V.</p>
 			
 				<ul className="list-square">
 			
@@ -212,10 +216,38 @@ export default function SV1(): React.JSX.Element {
 			
 				</ul>
 			
+
+
+			<h4 className="margin-y-40">3. Hình thái Giới Cụm [Prepositional Phrase]</h4>
+
+			<p className="text-indent-whole">Khối liên kết không gian, thời gian hoặc sở hữu, hoàn toàn tách biệt khỏi cấu trúc hành động và không chứa hệ trục S + V. Hình thái này chuyên biệt tạo nên hai chức năng Tính Cụm [Adjective Phrase] và Trạng Cụm [Adverb Phrase].</p>
+			
+				<ul className="list-square">
+			
+					<li>The book [on the wooden table] belongs to me.</li>
+					<li className="margin-bottom-20 list-none">Cuốn sách [ở trên bàn gỗ] thuộc về tôi.</li>
+			
+					<li className="list-none">Hình thái: [on the wooden table] - Giới Cụm [Prepositional Phrase] cấu thành khối từ bắt đầu bằng một giới mốc vị trí, không chứa xung lực hành động.</li>
+			
+					<li className="margin-bottom-20 list-none">Chức năng: [on the wooden table] - Tính Cụm [Adjective Phrase] neo ngay sau đối tượng cuốn sách để mô tả đặc điểm vị trí nhận diện riêng biệt cho nó.</li>
+			
+				</ul>
+			
+			
+				<ul className="list-square">
+			
+					<li>We slept soundly [during the heavy rain].</li>
+					<li className="margin-bottom-20 list-none">Chúng tôi đã ngủ ngon [suốt trận mưa to].</li>
+			
+					<li className="list-none">Hình thái: [during the heavy rain] - Giới Cụm [Prepositional Phrase] cấu thành khối từ bắt đầu bằng một giới mốc thời gian, không chứa xung lực hành động.</li>
+			
+					<li className="list-none">Chức năng: [during the heavy rain] - Trạng Cụm [Adverb Phrase] gắn vào cuối câu chịu trách nhiệm cung cấp hoàn cảnh thời điểm cho toàn bộ sự việc diễn ra.</li>
+			
+				</ul>
+			
 			
 
-
-			<h4 className="margin-y-40">3. Hình thái Động Câu [Verb Clause]</h4>
+			<h4 className="margin-y-40">4. Hình thái Động Câu [Verb Clause]</h4>
 
 			<p className="text-indent-whole">Đơn vị hành động phức cao cấp, chứa một cấu trúc Câu con hoàn chỉnh ở bên trong có chứa hệ trục S + V.</p>
 			
@@ -226,10 +258,10 @@ export default function SV1(): React.JSX.Element {
 			
 					<li className="list-none">Hình thái: [that price dictates quality] - Động Câu [Verb Clause] tạo nên khối hành động phức có chứa hệ trục S + V biểu thị thời hiện tại.</li>
 			
-					<li className="list-none">Chức năng: [that price dictates quality] - Danh Câu [Noun Clause] đảm nhận nhiệm vụ của một khối đối tượng đứng sau bổ nghĩa thông tin cho niềm tin.</li>
+					<li className="margin-bottom-20 list-none">Chức năng: [that price dictates quality] - Danh Câu [Noun Clause] đảm nhận nhiệm vụ của một khối đối tượng đứng sau bổ nghĩa thông tin cho niềm tin.</li>
+
 
 					<li className="list-none"><strong>Hình ảnh ẩn dụ định hình tư duy</strong>:</li>
-
 					<li className="margin-bottom-20 list-none">"Danh Câu thực chất là một cái Câu con được thuê về để làm vệ sĩ chức năng cho một danh cơ trong Câu lớn".</li>
 
 			
@@ -259,21 +291,24 @@ export default function SV1(): React.JSX.Element {
 					<li className="list-none">Chức năng: [because it rained heavily] - Trạng Câu [Adverb Clause] chịu trách nhiệm cung cấp hoàn cảnh nguyên nhân cho toàn bộ hành động ở nhà.</li>
 			
 				</ul>
-			
-			
 
 
-			<h4 className="margin-y-40">4. Nguyên Tắc Phân Tầng Bằng "Điểm Neo"</h4>
 			
+			{/* 4.  */}
 
-			<p className="text-indent-whole">Khi xử lý các cấu trúc phức tạp chứa nhiều tầng lồng ghép, người học áp dụng quy ước: Dấu [] cho lớp bao ngoài và dấu ngoặc nhọn {} cho lớp lồng bên trong. Các yếu tố đuôi biến đổi cấu hình như -s/-es, -ed, -ing nằm bên trong dấu móc tạo nên biến thể thời của Động Cơ [Verb Base], không làm thay đổi bản chất hình thái hay chức năng.</p>
-			
+			<h3 className="margin-y-50 text-center">4. Nguyên Tắc Phân Tầng Bằng "Điểm Neo"</h3>
 
-			<p className="margin-top-20 text-indent-whole">Ví dụ thực tế về <strong>cấu trúc phân tầng</strong> (Bao gồm cả động cơ chính):</p>
+
+			<p>Khi xử lý các cấu trúc phức tạp chứa nhiều tầng lồng ghép, người học áp dụng quy ước</p>
+
+			<p>Dấu [] cho lớp bao ngoài và dấu ngoặc nhọn {'{}'} cho lớp lồng bên trong. Các yếu tố đuôi biến đổi cấu hình như -s/-es, -ed, -ing nằm bên trong dấu móc tạo nên biến thể thời của Động Cơ [Verb Base], không làm thay đổi bản chất hình thái hay chức năng.</p>
+
+
+			<p className="margin-top-20 text-indent-whole">[learns {'{what you teach him}'}]</p>
 
 				<ul className="list-square">
 			
-					<li>He [learns {'{what you teach him}'}].</li>
+					<li>He [______ {'{______}'}].</li>
 					<li className="margin-bottom-20 list-none">Anh ấy [học {'{những gì bạn dạy anh ấy}'}].</li>
 
 					<li className="list-none">Hình thái lớp trong: {'{what you teach him}'} - Động Câu [Verb Clause] chứa hệ trục S + V điều hành theo thời hiện tại.</li>
@@ -282,21 +317,100 @@ export default function SV1(): React.JSX.Element {
 
 					<li className="list-none">Hình thái tổng thể: [learns {'{what you teach him}'}] - Động Cụm [Verb Phrase] cấu thành khối hành động lớn chứa động cơ chính học phối hợp cùng phần module phụ thuộc phía sau để thực thi toàn bộ phần hành động bổ trợ thông tin cho chủ thể He.</li>
 
-					<li className="list-none">Chức năng tổng thể: [learns {'{what you teach him}'}] - Danh Cụm [Noun Phrase] nắm giữ toàn bộ trục thông tin hành động của Câu lớn.</li>
+					<li className="list-none">Chức năng tổng thể: [learns {'{what you teach him}'}] - <strong>Danh Cụm</strong> [<strong>Noun Phrase</strong>] nắm giữ toàn bộ trục thông tin hành động của Câu lớn.</li>
 			
 				</ul>
 			
-		
 
-			<h4 className="margin-y-40">5. Paraphrasing: Nghệ Thuật Thay Khối Cùng Chức Năng</h4>
 
-			<p className="text-indent-whole">Khi tư duy hình khối Cơ - Cụm - Câu đã trở thành bản năng, kỹ thuật viết lại câu [paraphrasing] không còn là việc đổi từ đồng nghĩa một cách may rủi hay xáo trộn trật tự một cách khiên cưỡng.</p>
+			{/* 5.  */}
 
-			<p className="text-indent-whole">Việc làm mới câu văn giờ đây thực chất là một bài toán hình học sắp xếp module: Thay đổi Cấp Độ cấu trúc nhưng giữ nguyên vẹn Chức Năng ở cùng một vị trí neo.</p>
+			<h3 className="margin-y-50 text-center">5. Cấu Trúc Khối Phân Tầng Cao Cấp [Nested Structures]</h3>
 
-			<p className="text-indent-whole">Chỉ cần xác định vị trí đó đang đảm nhận chức năng gì (Danh, Tính, hay Trạng), người học có toàn quyền nhấc một khối Cơ ra và đặt một khối Cụm hoặc một khối Câu vào để thế chỗ. Cấu trúc tổng thể của Câu lớn hoàn toàn không bị phá vỡ hay xáo trộn.</p>
+			<p>Khi các hình khối lồng ghép vào nhau theo nhiều lớp như những chiếc hộp gỗ, hệ thống quy ước dấu vuông [] cho lớp bao ngoài và dấu ngoặc nhọn {'{}'} cho lớp lồng bên trong sẽ giúp bóc tách chính xác mối quan hệ phân tầng về cả Hình thái lẫn Chức năng.</p>
 
-			<p className="text-indent-whole">Hãy xem cách chúng ta biến đổi linh hoạt một thông điệp thông qua việc hoán đổi các khối cấu trúc cùng giữ <strong>Chức năng Trạng</strong>:</p>
+			<p>Dưới đây là cách vận hành chi tiết của các cấu trúc phân tầng phổ biến:</p>
+
+
+			<h4 className="margin-y-40">1. Danh Cụm Phân Tầng [Nested Noun Phrase]</h4>
+
+			<p className="text-indent-whole">Khối Danh Cụm lớn đóng vai trò làm chủ thể hoặc đối tượng chính, nhưng bên trong nó lại chứa một khối phụ trợ lồng ghép để làm rõ thông tin.</p>
+
+			<p className="margin-top-20 text-indent-whole">[The author of {'{the book}'}]</p>
+			
+				<ul className="list-square">
+			
+					<li>[______ {'{______}'}] is famous.</li>
+					<li className="margin-bottom-20 list-none">[Tác giả của {'{cuốn sách đó}'}] thì nổi tiếng.</li>
+
+					<li>Phân tích Hình thái:</li>
+					<li className="list-none">Khối tổng thể bao ngoài [The author of {'{the book}'}] là một Danh Cụm [Noun Phrase].</li>
+					<li className="margin-bottom-20 list-none">Khối lồng bên trong {'{the book}'} là một Danh Cơ [Noun Base] (đi kèm định cơ the).</li>
+			
+					<li>Phân tích Chức năng:</li>
+					<li className="list-none">Lớp trong: Khối {'{the book}'} đóng vai trò là một Danh Cơ [Noun Base] đứng làm điểm tựa danh nhận cho giới cơ of. Khối giới cụm chứa nó đóng vai trò làm Tính Cụm bổ nghĩa ngược lại cho danh cơ author.</li>
+					<li className="list-none">Lớp ngoài: Toàn bộ khối cấu trúc [The author of {'{the book}'}] vận hành đồng bộ như một <strong>Danh Cụm</strong> [<strong>Noun Phrase</strong>] lớn giữ vai trò làm chủ thể chính điều phối cho toàn câu.</li>
+			
+				</ul>
+
+			
+
+			<h4 className="margin-y-40">2. Tính Cụm Phân Tầng [Nested Adjective Phrase]</h4>
+
+			<p className="text-indent-whole">Khối Tính Cụm bao ngoài chứa một khối chức năng độc lập nằm sâu bên trong để cùng tham gia mô tả đặc điểm cho chủ thể chính.</p>
+
+			<p className="margin-top-20 text-indent-whole">[on {'{what he said}'}]</p>
+			
+				<ul className="list-square">
+			
+					<li>The book [______ {'{______}'}] is interesting.</li>
+					<li className="margin-bottom-20 list-none">Cuốn sách [về {'{những gì anh ấy nói}'}] thì thú vị.</li>
+
+					<li>Phân tích Hình thái:</li>
+					<li className="list-none">Khối tổng thể bao ngoài [on {'{what he said}'}] là một Giới Cụm [Prepositional Phrase].</li>
+					<li className="margin-bottom-20 list-none">Khối lồng bên trong {'{what he said}'} là một Động Câu [Verb Clause] có chứa hệ trục S + V vận hành ở thời quá khứ.</li>
+			
+					<li>Phân tích Chức năng:</li>
+					<li className="list-none">Lớp trong: Khối {'{what he said}'} đóng vai trò là một Danh Câu [Noun Clause] đứng làm điểm tựa danh nhận chịu sự điều phối của giới cơ on.</li>
+					<li className="list-none">Lớp ngoài: Toàn bộ khối [on {'{what he said}'}] đóng vai trò là một <strong>Tính Cụm</strong> [<strong>Adjective Phrase</strong>] tổng thể bổ nghĩa cho danh cụm The book đứng trước nó.</li>
+			
+				</ul>
+
+
+
+			<h4 className="margin-y-40">3. Trạng Cụm Phân Tầng [Nested Adverb Phrase]</h4>
+					
+			<p className="text-indent-whole">Khối Trạng Cụm bao ngoài đảm nhận nhiệm vụ cung cấp hoàn cảnh, bên trong chứa một khối chức năng phụ thuộc để thiết lập mốc so sánh hoặc mốc giới hạn.</p>
+
+			<p className="margin-top-20 text-indent-whole">[faster than {'{we expected}'}]</p>
+			
+				<ul className="list-square">
+			
+					<li>She ran [______ {'{______}'}].</li>
+					<li className="margin-bottom-20 list-none">Cô ấy đã chạy [nhanh hơn {'{những gì chúng tôi kỳ vọng}'}].</li>
+
+					<li>Phân tích Hình thái:</li>
+					<li className="list-none">Khối tổng thể bao ngoài [faster than {'{we expected}'}] là một Trạng Cụm [Adverb Phrase] chỉ cách thức và mức độ.</li>
+					<li className="margin-bottom-20 list-none">Khối lồng bên trong {'{we expected}'} là một Động Câu [Verb Clause] có chứa hệ trục S + V vận hành ở thời quá khứ.</li>
+			
+					<li>Phân tích Chức năng:</li>
+					<li className="list-none">Lớp trong: Khối {'{we expected}'} đóng vai trò là một Danh Câu [Noun Clause] đứng làm điểm tựa danh nhận sau giới cơ so sánh than.</li>
+					<li className="list-none">Lớp ngoài: Toàn bộ khối cấu trúc [faster than {'{we expected}'}] vận hành đồng bộ như một <strong>Trạng Cụm</strong> [<strong>Adverb Phrase</strong>] tổng thể gắn sau động cơ chính ran để bổ nghĩa và làm rõ hoàn cảnh cách thức hành động được thực hiện.</li>
+			
+				</ul>
+
+
+
+			{/* 6.  */}
+
+			<h3 className="margin-y-50 text-center">6. Paraphrasing: Nghệ Thuật Thay Khối Cùng Chức Năng</h3>
+
+			<p>Khi tư duy hình khối Cơ - Cụm - Câu đã trở thành bản năng, kỹ thuật viết lại câu [paraphrasing] không còn là việc đổi từ đồng nghĩa một cách may rủi hay xáo trộn trật tự một cách khiên cưỡng. Việc làm mới câu văn giờ đây thực chất là một bài toán hình học sắp xếp module: Thay đổi Cấp Độ cấu trúc nhưng giữ nguyên vẹn Chức Năng ở cùng một vị trí neo.</p>
+
+			<p>Chỉ cần xác định vị trí đó đang đảm nhận chức năng gì (Danh, Tính, hay Trạng), người học có toàn quyền nhấc một khối Cơ ra và đặt một khối Động Cụm, Giới Cụm hoặc một khối Động Câu vào để thế chỗ. Cấu trúc tổng thể của Câu lớn hoàn toàn không bị phá vỡ hay xáo trộn.</p>
+
+			<p>Hãy xem cách chúng ta biến đổi linh hoạt một thông điệp thông qua việc hoán đổi các khối cấu trúc cùng giữ <strong>Chức năng Trạng</strong>:</p>
+
 
 			<p className="margin-top-20 text-indent-whole"><strong>Cấp độ Cơ</strong>: [early]</p>
 			
@@ -308,6 +422,18 @@ export default function SV1(): React.JSX.Element {
 					<li className="list-none">→ Sử dụng Trạng Cơ [Adverb Base] là [early].</li>
 			
 				</ul>
+
+
+			<p className="margin-top-20 text-indent-whole"><strong>Cấp độ Động Cụm</strong>: [to attend the seminar]</p>
+			
+				<ul className="list-square">
+			
+					<li>We arrived [______].</li>
+					<li className="margin-bottom-20 list-none">Chúng tôi đã đến [để tham dự buổi hội thảo].</li>
+			
+					<li className="list-none">→ Đặt khối Động Cụm [Verb Phrase] giữ chức năng Trạng Cụm [Adverb Phrase] vào thế chỗ nhằm làm rõ mục đích.</li>
+			
+				</ul>
 			
 			
 			<p className="margin-top-20 text-indent-whole"><strong>Cấp độ Cụm</strong>: [in the morning]</p>
@@ -317,7 +443,7 @@ export default function SV1(): React.JSX.Element {
 					<li>We arrived [______].</li>
 					<li className="margin-bottom-20 list-none">Chúng tôi đã đến [vào buổi sáng].</li>
 			
-					<li className="list-none">→ Nhấc khối Cơ ra, đặt khối Động Cụm [Verb Phrase] giữ chức năng Trạng Cụm [Adverb Phrase] vào thế chỗ.</li>
+					<li className="list-none">→ Đặt khối Giới Cụm [Prepositional Phrase] giữ chức năng Trạng Cụm [Adverb Phrase] vào vị trí neo để cung cấp mốc thời gian.</li>
 			
 				</ul>
 			
@@ -329,7 +455,7 @@ export default function SV1(): React.JSX.Element {
 					<li>We arrived [______].</li>
 					<li className="margin-bottom-20 list-none">Chúng tôi đã đến [trước khi mặt trời mọc].</li>
 			
-					<li className="list-none">→ Tiếp tục thay thế bằng một khối Động Câu [Verb Clause] giữ chức năng Trạng Câu [Adverb Clause] có chứa hệ trục S + V vận hành ở thời quá khứ.</li>
+					<li className="list-none">→ Thay thế bằng một khối Động Câu [Verb Clause] giữ chức năng Trạng Câu [Adverb Clause] có chứa hệ trục S + V vận hành ở thời quá khứ.</li>
 			
 				</ul>
 			
@@ -373,7 +499,7 @@ export default function SV1(): React.JSX.Element {
 			
 			
 			
-			<p className="margin-top-20">Kỹ thuật dịch chuyển khối cùng chức năng này mang lại sự chủ động tuyệt đối khi viết. Thay vì ghi nhớ các công thức biến đổi máy móc, bạn chỉ cần nhìn câu văn dưới dạng các hộp hình khối độc lập và tự do nâng cấp từ Cơ lên Cụm, hoặc chuyển đổi mượt mà từ Cụm sang Câu theo ý muốn.</p>
+			<p className="margin-top-20">Kỹ thuật dịch chuyển khối cùng chức năng này mang lại sự chủ động tuyệt đối khi viết. Thay vì ghi nhớ các công thức biến đổi máy móc, bạn chỉ cần nhìn câu văn dưới dạng các hộp hình khối độc lập và tự do nâng cấp từ Cơ lên Cụm, hoặc chuyển đổi mượt mà giữa Động, Giới và Câu theo ý muốn.</p>
 
 			<p>Hệ thống Cơ - Cụm - Câu phối hợp cùng ma trận Danh - Tính - Trạng chính là chiếc chìa khóa vạn năng giúp quét cấu trúc câu với tốc độ ánh sáng để đạt đến phản xạ tự nhiên:</p>
 
