@@ -50,15 +50,11 @@ export default function NineBox1(): React.JSX.Element {
 
 			<h4 className="margin-bottom-30 text-center">KIẾN TRÚC TƯ DUY 3X3 & HỆ THỐNG ĐỘNG LẬP TRÌNH: BẢN THIẾT KẾ LÀM CHỦ TIẾNG ANH LOGIC</h4>
 
-			<p>Nếu bạn là người có tư duy mường tượng theo hệ thống—như cách một lập trình viên nhìn vào các luồng dữ liệu hay một kế toán viên phân loại các tài khoản trên bảng cân đối phát sinh—bạn sẽ thường cảm thấy ngột ngạt với cách học tiếng Anh truyền thống.</p>
+			<p>Nếu bạn là người có tư duy mường tượng theo hệ thống—như cách một lập trình viên nhìn vào các luồng dữ liệu hay một kế toán viên phân loại các tài khoản trên bảng cân đối phát sinh—bạn sẽ thường cảm thấy ngột ngạt với cách học tiếng Anh truyền thống. Những thuật ngữ cũ rời rạc, những quy tắc đầy rẫy ngoại lệ khiến bộ não logic của bạn liên tục đặt câu hỏi: "Bản chất hệ thống ở đây là gì?"</p>
 
-			<p>Những thuật ngữ cũ rời rạc, những quy tắc đầy rẫy ngoại lệ khiến bộ não logic của bạn liên tục đặt câu hỏi:</p>
-
-			<p className="margin-y-30">"Bản chất hệ thống ở đây là gì?"</p>
-
-			<p>Thực tế, ngôn ngữ không phải là một tập hợp các quy tắc ngẫu nhiên. Nó là một bộ mã được vận hành bởi logic. Để làm chủ tiếng Anh mà không bị rối bời, chúng ta chuyển đổi hoàn toàn sang <strong>Tư duy Chức năng</strong>.</p>
+			<p>Thực tế, ngôn ngữ không phải là một tập hợp các quy tắc ngẫu nhiên. Nó là một bộ mã được vận hành bởi logic. Để làm chủ tiếng Anh mà không bị rối bời, chúng ta chuyển đổi hoàn toàn sang Tư duy Chức năng.</p>
 			
-			<p>Hệ thống <strong>Kiến trúc Tư duy 3x3</strong> phối hợp cùng bộ quy ước song song dưới đây giúp bạn đóng gói và xử lý tiếng Anh chính xác như cách máy tính xử lý các kiểu dữ liệu.</p>
+			<p>Hệ thống Kiến trúc Tư duy 3x3 phối hợp cùng bộ quy ước song song dưới đây giúp bạn đóng gói và xử lý tiếng Anh chính xác như cách máy tính xử lý các kiểu dữ liệu.</p>
 			
 
 			{/* 1.  */}
@@ -79,35 +75,25 @@ export default function NineBox1(): React.JSX.Element {
 			
 				</ul>
 
-			<p className="margin-top-20">Bằng cách liên kết hai chiều này, mọi cấu trúc tiếng Anh được làm sạch hoàn toàn về mặt thuật ngữ và đưa vào một ma trận đồng bộ tuyệt đối.</p>
-
-			<p>Khi ghép các từ lại, 3 cấp độ <strong>Cơ</strong>, <strong>Cụm</strong>, <strong>Câu</strong> luôn được viết hoa để biểu thị tính đóng gói dữ liệu:</p>
-
-			
-				<ul className="list-square">
-			
-					<li>Danh Cơ, Danh Cụm, Danh Câu</li>
-			
-					<li>Tính Cơ, Tính Cụm, Tính Câu</li>
-			
-					<li>Trạng Cơ, Trạng Cụm, Trạng Câu.</li>
-			
-				</ul>
+			<p className="margin-top-20">Bằng cách liên kết hai chiều này, mọi cấu trúc tiếng Anh được làm sạch hoàn toàn về mặt thuật ngữ và đưa vào một ma trận đồng bộ tuyệt đối. Khi ghép các từ lại, 3 cấp độ <strong>Cơ</strong>, <strong>Cụm</strong>, <strong>Câu</strong> luôn được viết hoa để biểu thị tính đóng gói dữ liệu: <strong>Danh Cơ</strong>, <strong>Danh Cụm</strong>, <strong>Danh Câu</strong>; <strong>Tính Cơ</strong>, <strong>Tính Cụm</strong>, <strong>Tính Câu</strong>; <strong>Trạng Cơ</strong>, <strong>Trạng Cụm</strong>, <strong>Trạng Câu</strong>.</p>
 
 
 
 			{/* 2.  */}
 
-			<h3 className="margin-y-50 text-center">2. Bản Chất Của Vận Hành: Hình Thái Đi Trước, Chức Năng Theo Sau</h3>
+			<h3 className="margin-y-50 text-center">2. Bản Bản Chất Của Vận Hành: Hình Thái Đi Trước, Chức Năng Theo Sau</h3>
 
 			<p>Điểm mấu chốt của hệ thống tư duy logic này nằm ở việc tách biệt giữa <strong>Hình thái</strong> (Bề ngoài nhìn thấy) và <strong>Chức năng</strong> (Nhiệm vụ thực tế sau khi đặt vào vị trí câu).</p>
 
-			<p>Khi tiếp cận một câu, người học chỉ nhìn thấy <strong>Hình thái</strong> của hành động ở các cấp độ quy mô: <strong>Động Cơ</strong> [Verb Base], <strong>Động Cụm</strong> [Verb Phrase], hoặc <strong>Động Câu</strong> [Verb Clause].</p>
-
-			<p>Chúng ta chưa hề biết chức năng của nó là gì. Chỉ khi đặt khối hình thái đó vào một vị trí cụ thể trong câu lớn, <strong>Chức năng</strong> (Danh / Tính / Trạng) của nó mới được kích hoạt và hiển thị.</p>
+			<p>Khi tiếp cận một câu, người học thực hiện bóc tách khối dữ liệu thô để xác định Hình thái trước khi suy luận ra công dụng của nó.</p>
 
 
-			<h4 className="margin-y-40">2.1. Hình thái cấp độ BASE: ĐỘNG CƠ [Verb Base]</h4>
+			<h4 className="margin-y-40">2.1. Nhóm Hình Thái Hệ Động</h4>
+					
+			<p className="text-indent-whole">Hệ thống ghi nhận hành động ở các cấp độ quy mô: <strong>Động Cơ</strong> [Verb Base], <strong>Động Cụm</strong> [Verb Phrase], hoặc <strong>Động Câu</strong> [Verb Clause]. Chỉ khi đặt các khối này vào vị trí cụ thể trong câu lớn, <strong>Chức năng</strong> (Danh / Tính / Trạng) tương ứng mới được kích hoạt.</p>
+
+
+			<h4 className="margin-y-40">A. Hình thái cấp độ BASE: ĐỘNG CƠ [Verb Base]</h4>
 
 			<p className="text-indent-whole">Là đơn vị hành động nhỏ nhất (chỉ gồm 1 từ).</p>
 
@@ -156,7 +142,7 @@ export default function NineBox1(): React.JSX.Element {
 			
 
 
-			<h4 className="margin-y-40">2.2. Hình thái cấp độ PHRASE: ĐỘNG CỤM [Verb Phrase]</h4>
+			<h4 className="margin-y-40">B. Hình thái cấp độ PHRASE: ĐỘNG CỤM [Verb Phrase]</h4>
 
 			<p className="text-indent-whole">Là đơn vị hành động chứa nhiều từ tạo thành một khối liên kết (không chứa cấu trúc câu con bên trong).</p>
 
@@ -207,7 +193,9 @@ export default function NineBox1(): React.JSX.Element {
 
 			<h4 className="margin-y-40">C. Hình thái cấp độ CLAUSE: ĐỘNG CÂU [Verb Clause]</h4>
 
-			<p className="text-indent-whole">Là đơn vị hành động mở rộng ở quy mô lớn nhất, chứa một cấu trúc câu con bên trong nó. Khi được "gắn" vào hệ thống, khối hình thái này sẽ hình thành nên các chức năng dữ liệu phức hợp:</p>
+			<p className="text-indent-whole">Là đơn vị hành động mở rộng ở quy mô lớn nhất, chứa một cấu trúc câu con bên trong nó.</p>
+
+			<p className="text-indent-whole">Khi được "gắn" vào hệ thống, khối hình thái này sẽ hình thành nên các chức năng dữ liệu phức hợp:</p>
 
 			<p className="margin-top-20 text-indent-whole"><strong>Hình thành Chức năng Danh Câu</strong> [<strong>Noun Clause</strong>]: [that the payment succeeded]</p>
 			
@@ -366,9 +354,8 @@ export default function NineBox1(): React.JSX.Element {
 
 
 			<h4 className="margin-y-40">Nhóm 1: Tịnh tiến ô chức năng DANH (Đối tượng)</h4>
-					
-			<p className="text-indent-whole"><strong>Hệ Động</strong></p>
-			<p className="margin-top-20 text-indent-whole"><strong>Mức Cấp độ Cơ</strong>: [Automation]</p>
+
+			<p className="margin-top-20 text-indent-whole"><strong>Mức Cấp độ Cơ</strong> (<strong>Hệ Động</strong>): [Automation]</p>
 			
 				<ul className="list-square">
 			
@@ -382,8 +369,7 @@ export default function NineBox1(): React.JSX.Element {
 				</ul>
 			
 			
-			<p className="margin-top-20 text-indent-whole"><strong>Hệ Động</strong></p>
-			<p className="margin-top-20 text-indent-whole"><strong>Mức Cấp độ Cụm</strong>: [The deployment of new software tools]</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Mức Cấp độ Cụm</strong> (<strong>Hệ Động</strong>): [The deployment of new software tools]</p>
 			
 				<ul className="list-square">
 			
@@ -396,9 +382,8 @@ export default function NineBox1(): React.JSX.Element {
 			
 				</ul>
 			
-			
-			<p className="margin-top-20 text-indent-whole"><strong>Hệ Động</strong></p>
-			<p className="margin-top-20 text-indent-whole"><strong>Mức Cấp độ Câu</strong>: [What the engineering team implemented yesterday]</p>
+
+			<p className="margin-top-20 text-indent-whole"><strong>Mức Cấp độ Câu</strong> (<strong>Hệ Động</strong>): [What the engineering team implemented yesterday]</p>
 			
 				<ul className="list-square">
 			
@@ -416,8 +401,7 @@ export default function NineBox1(): React.JSX.Element {
 
 			<h4 className="margin-y-40">Nhóm 2: Tịnh tiến ô chức năng TÍNH (Thuộc tính)</h4>
 					
-			<p className="text-indent-whole"><strong>Hệ Động</strong></p>
-			<p className="margin-top-20 text-indent-whole"><strong>Mức Cấp độ Cơ</strong>: [unsecured]</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Mức Cấp độ Cơ</strong> (<strong>Hệ Động</strong>): [unsecured]</p>
 			
 				<ul className="list-square">
 			
@@ -431,8 +415,7 @@ export default function NineBox1(): React.JSX.Element {
 				</ul>
 			
 			
-			<p className="margin-top-20 text-indent-whole"><strong>Hệ Động</strong></p>
-			<p className="margin-top-20 text-indent-whole"><strong>Mức Cấp độ Cụm</strong>: [causing security leaks]</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Mức Cấp độ Cụm</strong> (<strong>Hệ Động</strong>): [causing security leaks]</p>
 			
 				<ul className="list-square">
 			
@@ -446,8 +429,7 @@ export default function NineBox1(): React.JSX.Element {
 				</ul>
 			
 			
-			<p className="margin-top-20 text-indent-whole"><strong>Hệ Động</strong></p>
-			<p className="margin-top-20 text-indent-whole"><strong>Mức Cấp độ Câu</strong>: [which allows unauthorized user access]</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Mức Cấp độ Câu</strong> (<strong>Hệ Động</strong>): [which allows unauthorized user access]</p>
 			
 				<ul className="list-square">
 			
@@ -461,8 +443,7 @@ export default function NineBox1(): React.JSX.Element {
 				</ul>
 
 
-			<p className="margin-top-20 text-indent-whole"><strong>Hệ Giới</strong></p>
-			<p className="margin-top-20 text-indent-whole"><strong>Mức Cấp độ Câu</strong>: [with multiple security flaws]</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Mức Cấp độ Cụm</strong> (<strong>Hệ Giới</strong>): [with multiple security flaws]</p>
 			
 				<ul className="list-square">
 			
@@ -479,9 +460,8 @@ export default function NineBox1(): React.JSX.Element {
 
 
 			<h4 className="margin-y-40">Nhóm 3: Tịnh tiến ô chức năng TRẠNG (Bối cảnh)</h4>
-					
-			<p className="text-indent-whole"><strong>Hệ Động</strong></p>
-			<p className="margin-top-20 text-indent-whole"><strong>Mức Cấp độ Cơ</strong>: [automatically]</p>
+
+			<p className="margin-top-20 text-indent-whole"><strong>Mức Cấp độ Cơ</strong> (<strong>Hệ Động</strong>): [automatically]</p>
 			
 				<ul className="list-square">
 			
@@ -494,9 +474,8 @@ export default function NineBox1(): React.JSX.Element {
 			
 				</ul>
 			
-			
-			<p className="margin-top-20 text-indent-whole"><strong>Hệ Động</strong></p>
-			<p className="margin-top-20 text-indent-whole"><strong>Mức Cấp độ Cụm</strong>: [to enhance overall performance]</p>
+
+			<p className="margin-top-20 text-indent-whole"><strong>Mức Cấp độ Cụm</strong> (<strong>Hệ Động</strong>): [to enhance overall performance]</p>
 			
 				<ul className="list-square">
 			
@@ -509,9 +488,8 @@ export default function NineBox1(): React.JSX.Element {
 			
 				</ul>
 			
-			
-			<p className="margin-top-20 text-indent-whole"><strong>Hệ Động</strong></p>
-			<p className="margin-top-20 text-indent-whole"><strong>Mức Cấp độ Câu</strong>: [whenever a new security patch publishes]</p>
+
+			<p className="margin-top-20 text-indent-whole"><strong>Mức Cấp độ Câu</strong> (<strong>Hệ Động</strong>): [whenever a new security patch publishes]</p>
 			
 				<ul className="list-square">
 			
@@ -524,9 +502,8 @@ export default function NineBox1(): React.JSX.Element {
 			
 				</ul>
 
-			
-			<p className="margin-top-20 text-indent-whole"><strong>Hệ Giới</strong></p>
-			<p className="margin-top-20 text-indent-whole"><strong>Mức Cấp độ Cụm</strong>: [without any human intervention]</p>
+
+			<p className="margin-top-20 text-indent-whole"><strong>Mức Cấp độ Cụm</strong> (<strong>Hệ Giới</strong>): [without any human intervention]</p>
 			
 				<ul className="list-square">
 			
