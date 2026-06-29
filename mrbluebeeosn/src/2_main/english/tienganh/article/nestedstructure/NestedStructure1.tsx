@@ -373,7 +373,7 @@ export default function NestedStructure1(): React.JSX.Element {
 
 			<p className="text-indent-whole">Khi vùng mã mở rộng thành một phân hệ chứa một câu con hoàn chỉnh có cả Danh Chủ riêng và Động Cơ riêng, người học xác định được diện mạo vật lý Động Câu [Verb Clause].</p>
 
-			<p className="text-indent-whole"><strong>Phân hệ Hiển Thị Liên Cơ</strong> (<strong>Có Từ Kết Nối</strong>)</p>
+			<p className="margin-y-30 text-indent-whole"><strong>Phân hệ Hiển Thị Liên Cơ</strong> (<strong>Có Từ Kết Nối</strong>)</p>
 
 
 			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 12</strong>: <strong>Hình thành chức năng Danh Câu</strong> [<strong>Noun Clause</strong>]: [where you live]</p>
@@ -413,8 +413,10 @@ export default function NestedStructure1(): React.JSX.Element {
 					<li className="list-none">Chức năng: [because it rained heavily] - Trạng Câu [Adverb Clause] thiết lập module định hình bối cảnh nguyên nhân cho toàn bộ sự việc đứng trước.</li>
 			
 				</ul>
+			
 
-			<p className="text-indent-whole"><strong>Phân hệ Hiển Thị Liên Cơ</strong> (<strong>Có Từ Kết Nối</strong>)</p>
+			<p className="margin-y-30 text-indent-whole"><strong>Phân hệ Hiển Thị Liên Cơ</strong> (<strong>Có Từ Kết Nối</strong>)</p>
+
 
 			<p className="text-indent-whole">Đây là trạng thái tối tân của ngôn ngữ khi người bản ngữ triệt tiêu hoàn toàn thành phần liên kết. Khối mã xuất hiện dưới dạng một câu con độc lập bề ngoài, không thể đứng một mình về mặt ngữ nghĩa hệ thống, nhưng vẫn thực thi trọn vẹn 3 chức năng:</p>
 
