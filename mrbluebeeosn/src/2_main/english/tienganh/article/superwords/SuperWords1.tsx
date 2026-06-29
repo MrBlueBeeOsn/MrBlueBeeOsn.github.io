@@ -296,6 +296,58 @@ export default function SuperWords1(): React.JSX.Element {
 					<li className="list-none">Chức năng: [where you go] - Trạng Câu [Adverb Clause] đang mô tả bối cảnh nơi chốn cho hành động đi ở câu lớn.</li>
 			
 				</ul>
+
+
+			{/* .  */}
+
+			<h3 className="margin-y-50 text-center">Đột Phá Nâng Cao: Bản Bản Chất Của ĐỘNG CÂU ẨN LIÊN [Zero-Connector Verb Clause]</h3>
+
+			<p>Trong văn phong bản ngữ, người ta thường lược bỏ các cơ liên kết (như Liên Cơ [Connector Base]) nhằm đẩy tốc độ truyền tải thông tin lên tối đa. Lúc này, Động Câu sẽ rơi vào trạng thái ẩn liên kết.</p>
+
+			<p>Về hình thái trực quan, chúng trông giống hệt như một câu con độc lập có đầy đủ Danh Chủ và hành động riêng, nhưng về bản chất, chúng không thể đứng tách rời một mình mà phải cắm chặt vào cấu trúc tổng thể để thực thi một trong ba chức năng cốt lõi:</p>
+
+
+			<p className="margin-top-20"><strong>Danh Câu Ẩn Liên</strong> [<strong>Zero-Connector Noun Clause</strong>]: [you are right]</p>
+			
+				<ul className="list-square">
+			
+					<li>I think [______].</li>
+					<li className="margin-bottom-20 list-none">Tôi nghĩ [bạn đúng].</li>
+			
+					<li className="list-none">Hình thái: Khối [you are right] chứa đầy đủ cấu trúc Danh Chủ "you" và hành động riêng nhưng hoàn toàn sạch bóng Liên Cơ [Connector Base] "that" ở đầu.</li>
+			
+					<li className="list-none">Chức năng: Đóng vai trò là một sự việc nằm ở vị trí Danh Nhận, chịu sự tác động trực tiếp từ Thủ Động Cơ [Head Verb Base] [think] của Danh Chủ "I".</li>
+			
+				</ul>
+			
+			
+			<p className="margin-top-20"><strong>Tính Câu Ẩn Liên</strong> [<strong>Zero-Connector Adjective Clause</strong>]: [I bought yesterday]</p>
+			
+				<ul className="list-square">
+			
+					<li>The book [______] is great.</li>
+					<li className="margin-bottom-20 list-none">Cuốn sách [tôi mua hôm qua] rất tuyệt.</li>
+			
+					<li className="list-none">Hình thái: Khối [I bought yesterday] xuất hiện ngay sau một đối tượng định danh mà không cần bất kỳ chữ kết nối nào bọc đầu.</li>
+			
+					<li className="list-none">Chức năng: Làm nhiệm vụ của một khối Tính Câu, bám sát và định danh trực tiếp để làm rõ tính chất cho đối tượng Danh Chủ "The book" đứng trước.</li>
+			
+				</ul>
+			
+			
+			<p className="margin-top-20"><strong>Trạng Câu Ẩn Liên</strong> [<strong>Zero-Connector Adverb Clause</strong>]: [Had I known the truth]</p>
+			
+				<ul className="list-square">
+			
+					<li>[______], I would have stayed.</li>
+					<li className="margin-bottom-20 list-none">[Nếu tôi biết sự thật], tôi đã ở lại.</li>
+			
+					<li className="list-none">Hình thái: Cấu trúc hành động được đảo lên trước Danh Chủ "I" tạo nên một hình thái câu đặc biệt, hoàn toàn tiêu biến chữ điều phối điều kiện ở đầu câu.</li>
+			
+					<li className="list-none">Chức năng: Đảm nhận chức năng của một khối Trạng Câu, đứng độc lập ở đầu để thiết lập bối cảnh giả định, bổ nghĩa điều kiện cho toàn bộ sự việc diễn ra trong câu lớn phía sau.</li>
+			
+				</ul>
+			
 			
 			
 

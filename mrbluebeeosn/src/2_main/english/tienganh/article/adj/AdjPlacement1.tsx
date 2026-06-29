@@ -469,12 +469,77 @@ export default function AdjPlacement1(): React.JSX.Element {
 					<li className="list-none">Chức năng: [in the upcoming year] - Trạng Cụm [Adverb Phrase] đứng sau hành động nhằm bổ sung và điều phối thông tin ngữ cảnh thời gian cho hành động thực thi chính sách.</li>
 			
 				</ul>
-			
-			
 
+			
 			{/* 5.  */}
 
-			<h3 className="margin-y-50 text-center">5. Tư Dụng Phân Tầng Hệ Thống Và Sự Tương Đồng Tuyệt Đối</h3>
+			<h3 className="margin-y-50 text-center">5. Hiện Tượng Động Câu Ẩn Liên Kết [Zero-Connector Verb Clause]</h3>
+
+			<p>Một đỉnh cao tư duy của người bản ngữ tạo nên sự tinh gọn tuyệt đối trong văn học thuật là hiện tượng ẩn liên kết.</p>
+
+			<p>Lúc này, hình thái câu hoàn toàn sạch bóng các chữ nối như Liên Cơ [Connector Base] (that, when, because) hay các chữ định hướng (which, whom), biến khối Động Câu thành một câu con độc lập có cấu tạo đầy đủ nhưng không đứng một mình, giữ trọn vẹn 3 chức năng cốt lõi:</p>
+
+
+			<h4 className="margin-y-40">Danh Câu Ẩn Liên [Zero-Connector Noun Clause]</h4>
+					
+			<p className="text-indent-whole">Người bản ngữ nuốt đi chữ nối chặn đầu, bộc lộ trực tiếp cấu trúc Danh Chủ + Động Cơ đứng sau hành động chính làm Danh Nhận.</p>
+
+			<p className="margin-top-20 text-indent-whole">[he (Danh Chủ) loves (Động Cơ) her]</p>
+			
+				<ul className="list-square">
+			
+					<li>She knows [______].</li>
+					<li className="margin-bottom-20 list-none">Cô ấy biết [anh ấy yêu cô ấy].</li>
+			
+					<li className="list-none">Hình thái: [he loves her] - Động Câu [Verb Clause] chứa đầy đủ cấu trúc Danh Chủ (he) và Động Cơ (loves), hoàn toàn không có chữ nối chặn đầu.</li>
+			
+					<li className="list-none">Chức năng: [he loves her] - Danh Câu [Noun Clause] làm Danh Nhận chịu tác động trực tiếp đứng ngay sau Thủ Động Cơ [Head Verb Base] knows.</li>
+			
+				</ul>
+			
+
+
+			<h4 className="margin-y-40">Tính Câu Ẩn Liên [Zero-Connector Adjective Clause]</h4>
+					
+			<p className="text-indent-whole">Khi thông tin mô tả chi tiết là một hành động phức hợp mà đối tượng làm Danh Nhận được đưa lên trước làm mỏ neo, chữ định hướng chặn đầu bị lược bỏ hoàn toàn.</p>
+
+			<p className="margin-top-20 text-indent-whole">[she (Danh Chủ) wrote (Động Cơ)]</p>
+			
+				<ul className="list-square">
+			
+					<li>The report [______] is excellent.</li>
+					<li className="margin-bottom-20 list-none">Bản báo cáo [cô ấy viết] thì xuất sắc.</li>
+			
+					<li className="list-none">Hình thái: [she wrote] - Động Câu [Verb Clause] có cấu trúc Danh Chủ (she) và Động Cơ (wrote) riêng, tự đứng liền kề làm thành phần bao gói phụ mà không cần từ định hướng chặn đầu.</li>
+			
+					<li className="list-none">Chức năng: [she wrote] - Tính Câu [Adjective Clause] định vị ngay sau Danh Cơ report để định danh và bổ nghĩa trực tiếp cho bản báo cáo đó.</li>
+			
+				</ul>
+			
+
+
+			<h4 className="margin-y-40">Trạng Câu Ẩn Liên [Zero-Connector Adverb Clause]</h4>
+					
+			<p className="text-indent-whole">Xảy ra phổ biến trong các cấu trúc điều phối ngữ cảnh kết quả hoặc điều kiện giả định học thuật, nơi chữ nối được triệt tiêu tinh gọn.</p>
+
+			<p className="margin-top-20 text-indent-whole">[we (Danh Chủ) could not solve (Động Cơ) it]</p>
+			
+				<ul className="list-square">
+			
+					<li>The problem was so difficult [______].</li>
+					<li className="margin-bottom-20 list-none">Vấn đề thì quá khó [chúng tôi không thể giải quyết được nó].</li>
+			
+					<li className="list-none">Hình thái: [we could not solve it] - Động Câu [Verb Clause] vận hành đầy đủ hệ thống Danh Chủ (we) và cấu trúc Động Cơ phức hợp kết hợp giữa Thái Động Cơ (could) và Động Cơ nòng cốt (solve), ẩn đi chữ nối kết quả ở đầu khối.</li>
+			
+					<li className="list-none">Chức năng: [we could not solve it] - Trạng Câu [Adverb Clause] gánh vác vai trò bổ nghĩa và điều phối ngữ cảnh hệ quả cho cụm đặc điểm so difficult phía trước.</li>
+			
+				</ul>
+			
+			
+
+			{/* 6.  */}
+
+			<h3 className="margin-y-50 text-center">6. Tư Dụng Phân Tầng Hệ Thống Và Sự Tương Đồng Tuyệt Đối</h3>
 
 			<p>Một trong những quy luật vận hành đỉnh cao của tiếng Anh là <strong>Nguyên tắc</strong> "<strong>Điểm neo</strong>". Dấu móc sẽ luôn bao quanh Động Cơ [Verb Base] chính hoặc toàn bộ cụm/câu phức hợp.</p>
 			
@@ -527,9 +592,9 @@ export default function AdjPlacement1(): React.JSX.Element {
 				</ul>
 
 
-			{/* 6. */}
+			{/* 7. */}
 
-			<h3 className="margin-y-50 text-center">6. Tư Duy Phân Tầng Phức Hợp: Khối Bao Gói Lồng Nhau</h3>
+			<h3 className="margin-y-50 text-center">7. Tư Duy Phân Tầng Phức Hợp: Khối Bao Gói Lồng Nhau</h3>
 
 			<p>Khi tư duy ngôn ngữ đạt đến cấp độ chuyên sâu, bộ não người bản ngữ bắt đầu vận hành các hình thái lồng nhau giống như những chiếc hộp Nga (hộp nhỏ nằm trong hộp lớn).</p>
 
@@ -621,9 +686,9 @@ export default function AdjPlacement1(): React.JSX.Element {
 				</ul>
 
 
-			{/* 7. */}
+			{/* 8. */}
 
-			<h3 className="margin-y-50 text-center">7. Giải Mã Paraphrasing: Bài Toán "Thay Khối Cùng Chức Năng"</h3>
+			<h3 className="margin-y-50 text-center">8. Giải Mã Paraphrasing: Bài Toán "Thay Khối Cùng Chức Năng"</h3>
 
 			<p>Khi bộ não người học đã hình thành phản xạ tự nhiên: <strong>Nhìn thấy Hình thái trước rồi giải mã ra Chức năng dựa vào vị trí</strong>, việc viết lại câu (Paraphrasing) trở thành một bài toán hoán đổi khối có cùng Chức năng trên một khung trục cố định.</p>
 

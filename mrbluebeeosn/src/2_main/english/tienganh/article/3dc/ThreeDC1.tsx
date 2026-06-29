@@ -291,10 +291,62 @@ export default function ThreeDC1(): React.ReactElement {
 				</ul>
 
 
-			
 			{/* III. */}
 
-			<h3 className="margin-y-50 text-center">III. BẢN CHẤT PHÂN TẦNG VÀ NGUYÊN TẮC "ĐIỂM NEO"</h3>
+			<h3 className="margin-y-50 text-center">III. HIỆN TƯỢNG ĐỘNG CÂU ẨN LIÊN [ZERO-CONNECTOR VERB CLAUSE]</h3>
+
+			<p>Trong văn phong nói và viết thực tế của người bản ngữ, rất nhiều khối Động Câu [Verb Clause] được lược bỏ hoàn toàn các thành phần liên kết (như Liên Cơ [Connector Base]).</p>
+
+			<p>Lúc này, khối biểu hiện có hình thái giống hệt như một câu con độc lập, nhưng về bản chất chúng không thể đứng một mình mà bắt buộc phải gắn kết chặt chẽ vào hệ thống để thực thi 3 chức năng thông qua các cấu hình cụ thể dưới đây:</p>
+
+
+			<p className="margin-top-20"><strong>Ví dụ 1</strong>: <strong>Danh Câu Ẩn Liên</strong> [<strong>Zero-Connector Noun Clause</strong>]: [you made a mistake]</p>
+			
+				<ul className="list-square">
+			
+					<li>I think [______].</li>
+					<li className="margin-bottom-20 list-none">Tôi nghĩ [bạn đã mắc sai lầm].</li>
+			
+					<li className="list-none">Hình thái: [you made a mistake] - Động Câu [Verb Clause] chứa cấu trúc câu con hoàn chỉnh với Danh Chủ "you" và Thời Động Cơ "made", hoàn toàn không có Liên Cơ [Connector Base] "that" đứng trước.</li>
+			
+					<li className="list-none">Chức năng: [you made a mistake] - Danh Câu [Noun Clause] đứng sau làm khối Danh Nhận chịu sự điều phối trực tiếp của Thủ Động Cơ "think".</li>
+			
+				</ul>
+			
+			
+			<p className="margin-top-20"><strong>Ví dụ 2</strong>: <strong>Tính Câu Ẩn Liên</strong> [<strong>Zero-Connector Adjective Clause</strong>]: [we watched yesterday]</p>
+			
+				<ul className="list-square">
+			
+					<li>The movie [______] was amazing.</li>
+					<li className="margin-bottom-20 list-none">Bộ phim [chúng ta xem ngày hôm qua] thì rất tuyệt.</li>
+			
+					<li className="list-none">Hình thái: [we watched yesterday] - Động Câu [Verb Clause] chứa cấu trúc câu con hoàn chỉnh với Danh Chủ "we" và Thời Động Cơ "watched", đã ẩn đi Liên Cơ [Connector Base] định danh "which" hoặc "that".</li>
+			
+					<li className="list-none">Chức năng: [we watched yesterday] - Tính Câu [Adjective Clause] đứng ôm ngay sau thực thể "The movie" để bổ nghĩa chi tiết cho thực thể đó.</li>
+			
+				</ul>
+			
+			
+			<p className="margin-top-20"><strong>Ví dụ 3</strong>: <strong>Trạng Câu Ẩn Liên</strong> [<strong>Zero-Connector Adverb Clause</strong>]: [the harder you fall]</p>
+			
+				<ul className="list-square">
+			
+					<li>The higher you climb, [______].</li>
+					<li className="margin-bottom-20 list-none">Bạn càng trèo cao, [bạn càng ngã đau].</li>
+			
+					<li className="list-none">Hình thái: [the harder you fall] - Động Câu [Verb Clause] chứa cấu trúc câu con hoàn chỉnh với Danh Chủ "you" và Động Cơ "fall", không sử dụng Liên Cơ [Connector Base] thông thường mà liên kết bằng cấu trúc tỷ lệ thuận song hành.</li>
+			
+					<li className="list-none">Chức năng: [the harder you fall] - Trạng Câu [Adverb Clause] vận hành như một khối bối cảnh hệ quả tương quan, bổ nghĩa trực tiếp cho hành trình vận động ở vế đầu.</li>
+			
+				</ul>
+			
+
+
+			
+			{/* IV. */}
+
+			<h3 className="margin-y-50 text-center">IV. BẢN CHẤT PHÂN TẦNG VÀ NGUYÊN TẮC "ĐIỂM NEO"</h3>
 
 			<p>Trong các cấu trúc câu phức tạp của trình độ Advanced, các hình thái này không đứng rời rạc mà lồng ghép vào nhau như các module linh kiện. Người bản ngữ luôn tư duy phân tầng bằng cách bao quát cả cấu trúc lồng ghép đa tầng giữa Động Cụm, Giới Cụm và Động Câu.</p>
 
@@ -377,9 +429,9 @@ export default function ThreeDC1(): React.ReactElement {
 	
 
 
-			{/* IV. */}
+			{/* V. */}
 
-			<h3 className="margin-y-50 text-center">IV. ĐỈNH CAO PARAPHRASING: TƯ DUY THAY THẾ KHỐI CÙNG CHỨC NĂNG</h3>
+			<h3 className="margin-y-50 text-center">V. ĐỈNH CAO PARAPHRASING: TƯ DUY THAY THẾ KHỐI CÙNG CHỨC NĂNG</h3>
 
 			<p>Người học trình độ Advanced nhìn nhận paraphrasing như một bài toán "<strong>thay thế các khối có cùng chức năng</strong>" trên trục ngang, trong khi vẫn giữ nguyên vẹn cấu trúc xương sườn tổng thể của Câu lớn.</p>
 
@@ -544,9 +596,9 @@ export default function ThreeDC1(): React.ReactElement {
 
 
 
-			{/* V. */}
+			{/* VI. */}
 
-			<h3 className="margin-y-50 text-center">V. TUYỆT CHIÊU PHÂN BIỆT ĐỘNG CÂU THẦN TỐC BẰNG MẸO THẾ THÂN</h3>
+			<h3 className="margin-y-50 text-center">VI. TUYỆT CHIÊU PHÂN BIỆT ĐỘNG CÂU THẦN TỐC BẰNG MẸO THẾ THÂN</h3>
 
 			<p>Khi gặp các từ liên kết đa năng như that, when, where, người học chỉ biết hình thái của nó là một Động Câu [Verb Clause] chứ rất khó phân biệt nó đang làm chức năng gì.</p>
 

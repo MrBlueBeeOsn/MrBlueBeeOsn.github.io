@@ -202,6 +202,19 @@ export default function LegoAssembly1(): React.JSX.Element {
 				</ul>
 
 			
+			<p className="margin-top-20 text-indent-whole"><strong>Danh Câu Ẩn Liên</strong> [<strong>Zero-Connector Noun Clause</strong>]: [you are right]</p>
+			
+				<ul className="list-square">
+			
+					<li>I think [______].</li>
+					<li className="margin-bottom-20 list-none">Tôi nghĩ [bạn đúng].</li>
+
+					<li className="list-none">Hình thái: [you are right] - Động Câu [Verb Clause] đã bị người bản ngữ bỏ đi Liên Cơ [Connector Base] "that". Nó có hình thái cấu tạo y hệt một câu con độc lập hoàn chỉnh nhưng không thể đứng một mình.</li>
+					<li className="list-none">Chức năng: [you are right] - Danh Câu [Noun Clause] đóng vai trò làm phần Danh Nhận trực tiếp cho hành động "think".</li>
+			
+				</ul>
+
+			
 			<p className="margin-top-20 text-indent-whole"><strong>Danh Cụm Phân Tầng</strong> [<strong>Nested Noun Phrase</strong>]: [understand {'{why you left}'}]</p>
 			
 				<ul className="list-square">
@@ -287,6 +300,19 @@ export default function LegoAssembly1(): React.JSX.Element {
 
 					<li className="list-none">Hình thái: [which lies on the table] - Động Câu [Verb Clause] tạo thành một câu con phụ thuộc.</li>
 					<li className="list-none">Chức năng: [which lies on the table] - Tính Câu [Adjective Clause] bổ nghĩa trực tiếp cho Danh Cụm [Noun Phrase] "The book" đứng trước nó.</li>
+			
+				</ul>
+
+
+			<p className="margin-top-20 text-indent-whole"><strong>Tính Câu Ẩn Liên</strong> [<strong>Zero-Connector Adjective Clause</strong>]: [I watched yesterday]</p>
+			
+				<ul className="list-square">
+			
+					<li>The movie [______] was great.</li>
+					<li className="margin-bottom-20 list-none">Bộ phim [tôi xem ngày hôm qua] thì rất tuyệt.</li>
+
+					<li className="list-none">Hình thái: [I watched yesterday] - Động Câu [Verb Clause] đã bị người bản ngữ lược bỏ Liên Cơ [Connector Base] "which/that". Nhìn bề ngoài, nó là một cấu trúc câu đầy đủ nhưng bản chất vẫn bám chặt vào Danh Cụm phía trước.</li>
+					<li className="list-none">Chức năng: [I watched yesterday] - Tính Câu [Adjective Clause] làm nhiệm vụ giới hạn, bổ nghĩa đặc điểm cho thực thể "The movie".</li>
 			
 				</ul>
 
@@ -410,6 +436,20 @@ export default function LegoAssembly1(): React.JSX.Element {
 
 					<li className="list-none">Hình thái: [until you return] - Động Câu [Verb Clause] chứa kết cấu S - hành động hoàn chỉnh bên trong.</li>
 					<li className="list-none">Chức năng: [until you return] - Trạng Câu [Adverb Clause] bổ nghĩa cho hành động chính "will wait", mở rộng bối cảnh thời gian.</li>
+					
+			
+				</ul>
+
+
+			<p className="margin-top-20 text-indent-whole"><strong>Trạng Câu Ẩn Liên</strong> [<strong>Zero-Connector Adverb Clause</strong>]: [Had I known the truth]</p>
+			
+				<ul className="list-square">
+			
+					<li>[______], I would have acted differently.</li>
+					<li className="margin-bottom-20 list-none">[Nếu tôi biết sự thật], tôi đã hành động khác đi.</li>
+
+					<li className="list-none">Hình thái: [Had I known the truth] - Động Câu [Verb Clause] đã được người bản ngữ triệt tiêu toàn bộ Liên Cơ [Connector Base] điều kiện "If" bằng phương pháp đảo khối nguồn lên trước. Hình thái lúc này trông giống như một cấu trúc độc lập nhưng bắt buộc phải bám vào vế sau.</li>
+					<li className="list-none">Chức năng: [Had I known the truth] - Trạng Câu [Adverb Clause] đóng vai trò cung cấp bối cảnh giả định, nguyên nhân điều kiện cho toàn bộ câu lớn phía sau.</li>
 					
 			
 				</ul>
