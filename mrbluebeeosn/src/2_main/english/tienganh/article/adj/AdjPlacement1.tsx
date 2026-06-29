@@ -193,8 +193,28 @@ export default function AdjPlacement1(): React.JSX.Element {
 			<h4 className="margin-y-40">Danh Cơ + Tính Cụm (Mô tả ngắn gọn)</h4>
 					
 			<p className="text-indent-whole">Sau khi đưa Danh Cơ lên đầu, nếu chỉ muốn mô tả nhanh trạng thái, vị trí hoặc đặc điểm của nó, người bản ngữ sẽ dùng một Tính Cụm ngay phía sau với các thiết lập đa dạng:</p>
+			
 
-			<p className="margin-top-20 text-indent-whole"><strong>Tính Cụm dạng hành động chủ động</strong> -ing: [barking outside]</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Tính Cụm dạng sắp xảy ra chủ động</strong> -<strong>to V</strong>: [to travel to Mars next year]</p>
+			
+				<ul className="list-square">
+			
+					<li>The astronauts [______] are training intensively.</li>
+					<li className="list-none">Những phi hành gia [sắp du hành đến sao Hỏa vào năm tới] đang tập luyện vô cùng chuyên sâu.</li>
+			
+				</ul>
+
+			<p className="margin-top-20 text-indent-whole"><strong>Tính Cụm dạng sắp xảy ra bị động</strong> -<strong>to be v3</strong>/-<strong>ed</strong>: [to be built across the river]</p>
+			
+				<ul className="list-square">
+			
+					<li>The bridge [______] will ease traffic congestion.</li>
+					<li className="list-none">Cây cầu [sắp được xây dựng bắc qua sông] sẽ làm giảm tình trạng ùn tắc giao thông.</li>
+			
+				</ul>
+			
+
+			<p className="margin-top-20 text-indent-whole"><strong>Tính Cụm dạng đang diễn ra chủ động</strong> -ing: [barking outside]</p>
 			
 				<ul className="list-square">
 			
@@ -203,7 +223,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 			
 				</ul>
 
-			<p className="margin-top-20 text-indent-whole"><strong>Tính Cụm dạng hành động bị động</strong> -v3/-ed: [submitted this morning]</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Tính Cụm dạng đã xong bị động</strong> -v3/-ed: [submitted this morning]</p>
 			
 				<ul className="list-square">
 			
