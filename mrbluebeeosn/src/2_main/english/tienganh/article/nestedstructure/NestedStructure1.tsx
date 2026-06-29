@@ -371,9 +371,10 @@ export default function NestedStructure1(): React.JSX.Element {
 
 			<h4 className="margin-y-40">E. Phân hệ Động Câu [Verb Clause]</h4>
 
-			<p className="text-indent-whole">Khi vùng mã mở rộng thành một phân hệ chứa một câu con hoàn chỉnh có cả thành phần nền tảng riêng và Động Cơ riêng, người học xác định được diện mạo vật lý Động Câu [Verb Clause].</p>
+			<p className="text-indent-whole">Khi vùng mã mở rộng thành một phân hệ chứa một câu con hoàn chỉnh có cả Danh Chủ riêng và Động Cơ riêng, người học xác định được diện mạo vật lý Động Câu [Verb Clause].</p>
 
-			<p className="text-indent-whole">Từ hình thái này, hệ thống sẽ cho ra 3 chức năng tương ứng:</p>
+			<p className="text-indent-whole"><strong>Phân hệ Hiển Thị Liên Cơ</strong> (<strong>Có Từ Kết Nối</strong>)</p>
+
 
 			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 12</strong>: <strong>Hình thành chức năng Danh Câu</strong> [<strong>Noun Clause</strong>]: [where you live]</p>
 			
@@ -410,6 +411,51 @@ export default function NestedStructure1(): React.JSX.Element {
 
 					<li className="list-none">Hình thái: [because it rained heavily] - Động Câu [Verb Clause] kích hoạt ngay sau thành phần kết nối, chứa thành phần nền tảng it và động cơ rained mang dấu mốc thời quá khứ.</li>
 					<li className="list-none">Chức năng: [because it rained heavily] - Trạng Câu [Adverb Clause] thiết lập module định hình bối cảnh nguyên nhân cho toàn bộ sự việc đứng trước.</li>
+			
+				</ul>
+
+			<p className="text-indent-whole"><strong>Phân hệ Hiển Thị Liên Cơ</strong> (<strong>Có Từ Kết Nối</strong>)</p>
+
+			<p className="text-indent-whole">Đây là trạng thái tối tân của ngôn ngữ khi người bản ngữ triệt tiêu hoàn toàn thành phần liên kết. Khối mã xuất hiện dưới dạng một câu con độc lập bề ngoài, không thể đứng một mình về mặt ngữ nghĩa hệ thống, nhưng vẫn thực thi trọn vẹn 3 chức năng:</p>
+
+			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 15</strong>: <strong>Danh Câu Ẩn Liên</strong> [<strong>Zero-Connector Noun Clause</strong>]: [you are right]</p>
+			
+				<ul className="list-square">
+			
+					<li>I think [______].</li>
+					<li className="margin-bottom-20 list-none">Tôi nghĩ [bạn đúng].</li>
+			
+					<li className="list-none">Hình thái: [you are right] - Động Câu [Verb Clause] mang diện mạo của một dòng lệnh độc lập với Danh Chủ you và Thủ Động Cơ [Head Verb Base] are, hoàn toàn ẩn đi Liên Cơ [Connector Base] kết nối (that).</li>
+			
+					<li className="list-none">Chức năng: [you are right] - Danh Câu [Noun Clause] đóng vai trò làm Danh Nhận nạp dữ liệu trực tiếp cho Thủ Động Cơ [Head Verb Base] định hướng think.</li>
+			
+				</ul>
+			
+			
+			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 16</strong>: <strong>Tính Câu Ẩn Liên</strong> [<strong>Zero-Connector Adjective Clause</strong>]: [I bought yesterday]</p>
+			
+				<ul className="list-square">
+			
+					<li>The phone [______] is broken.</li>
+					<li className="margin-bottom-20 list-none">Chiếc điện thoại [tôi mua ngày hôm qua] thì bị hỏng.</li>
+			
+					<li className="list-none">Hình thái: [I bought yesterday] - Động Câu [Verb Clause] chứa Danh Chủ I và Thủ Động Cơ [Head Verb Base] bought, đứng lọt thỏm ngay sau một khối tên gọi mà không cần bất kỳ Liên Cơ [Connector Base] định vị nào dẫn đường.</li>
+			
+					<li className="list-none">Chức năng: [I bought yesterday] - Tính Câu [Adjective Clause] vận hành như bộ lọc đặc điểm sở hữu để xác định mục tiêu chính xác cho đối tượng phone đứng trước.</li>
+			
+				</ul>
+			
+			
+			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 17</strong>: <strong>Trạng Câu Ẩn Liên</strong> [<strong>Zero-Connector Adverb Clause</strong>]: [Had I known the truth]</p>
+			
+				<ul className="list-square">
+			
+					<li>[______], I would have acted differently.</li>
+					<li className="margin-bottom-20 list-none">[Giá mà tôi biết sự thật], tôi đã hành động khác đi.</li>
+			
+					<li className="list-none">Hình thái: [Had I known the truth] - Động Câu [Verb Clause] sử dụng cấu trúc đảo chip Thời Động Cơ had lên trước Danh Chủ I, xóa bỏ hoàn toàn Liên Cơ [Connector Base] điều kiện (if).</li>
+			
+					<li className="list-none">Chức năng: [Had I known the truth] - Trạng Câu [Adverb Clause] làm nhiệm vụ thiết lập bối cảnh giả định nền tảng cho toàn bộ hệ thống thực thi ở vế sau.</li>
 			
 				</ul>
 			

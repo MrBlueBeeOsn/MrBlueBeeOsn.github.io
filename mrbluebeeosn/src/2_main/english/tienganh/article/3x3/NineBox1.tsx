@@ -238,6 +238,55 @@ export default function NineBox1(): React.JSX.Element {
 			
 				</ul>
 
+
+			<h4 className="margin-y-40">D. Hiện tượng Động Câu Ẩn Thành Phần Liên Kết [Zero-Connector Verb Clauses]</h4>
+					
+			<p className="text-indent-whole">Trong thực tế vận hành ngôn ngữ, người bản ngữ thường lược bỏ các cấu trúc liên kết [như các Liên Cơ [Connector Base]].</p>
+
+			<p className="text-indent-whole">Khối dữ liệu lúc này có hình thái bề ngoài giống hệt như một câu độc lập, nhưng bản chất vẫn là một Động Câu [Verb Clause] không thể đứng một mình vì đang bị khóa chặt vào một vị trí chức năng bên trong Câu lớn:</p>
+
+
+			<p className="margin-top-20 text-indent-whole"><strong>Danh Câu Ẩn Liên</strong> [<strong>Zero-Connector Noun Clause</strong>]: [the script contains an error]</p>
+			
+				<ul className="list-square">
+			
+					<li>The engineer thinks [______].</li>
+					<li className="margin-bottom-20 list-none">Kỹ sư nghĩ [kịch bản chứa một lỗi].</li>
+			
+					<li className="list-none">Hình thái: [the script contains an error] - Động Câu [Verb Clause] hoàn toàn vắng bóng Liên Cơ [Connector Base] dẫn đường nhưng có đầy đủ kết cấu hành động xoay quanh Thủ Động Cơ [Head Verb Base] contains.</li>
+			
+					<li className="list-none">Chức năng: [the script contains an error] - Danh Câu [Noun Clause] đóng vai trò làm Danh Nhận dữ liệu trực tiếp đứng sau điều phối của Thủ Động Cơ [Head Verb Base] thinks.</li>
+			
+				</ul>
+			
+			
+			<p className="margin-top-20 text-indent-whole"><strong>Tính Câu Ẩn Liên</strong> [<strong>Zero-Connector Adjective Clause</strong>]: [the team optimized yesterday]</p>
+			
+				<ul className="list-square">
+			
+					<li>The database [______] crashes frequently.</li>
+					<li className="margin-bottom-20 list-none">Cơ sở dữ liệu [đội ngũ tối ưu hóa ngày hôm qua] sập thường xuyên.</li>
+			
+					<li className="list-none">Hình thái: [the team optimized yesterday] - Động Câu [Verb Clause] vận hành như một module chứa cấu trúc câu con đứng lồng lách ngay sau một danh mục mục tiêu mà không có Liên Cơ [Connector Base], xoay quanh Thủ Động Cơ [Head Verb Base] optimized.</li>
+			
+					<li className="list-none">Chức năng: [the team optimized yesterday] - Tính Câu [Adjective Clause] đóng vai trò định danh thuộc tính để chỉ rõ loại cơ sở dữ liệu nào bổ nghĩa cho Danh Chủ đứng trước.</li>
+			
+				</ul>
+			
+			
+			<p className="margin-top-20 text-indent-whole"><strong>Trạng Câu Ẩn Liên</strong> [<strong>Zero-Connector Adverb Clause</strong>]: [The project finished]</p>
+			
+				<ul className="list-square">
+			
+					<li>[______], the developers began their vacation.</li>
+					<li className="margin-bottom-20 list-none">[Dự án đã hoàn thành xong], các nhà phát triển bắt đầu kỳ nghỉ của họ.</li>
+			
+					<li className="list-none">Hình thái: [The project finished] - Động Câu [Verb Clause] bao gồm một module chứa cấu trúc câu con biểu thị sự kiện được đóng gói đặt ở đầu Câu lớn, ngăn cách bằng dấu phẩy, xoay quanh Thủ Động Cơ [Head Verb Base] finished.</li>
+			
+					<li className="list-none">Chức năng: [The project finished] - Trạng Câu [Adverb Clause] bổ nghĩa bối cảnh nguyên nhân hoặc thời gian nền cho toàn bộ hệ thống hành động phía sau.</li>
+			
+				</ul>
+
 			
 
 			<h4 className="margin-y-40">2.2. Nhóm Hình Thái KHÔNG Thuộc Hệ Động</h4>

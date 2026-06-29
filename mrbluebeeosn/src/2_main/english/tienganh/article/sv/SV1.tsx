@@ -58,9 +58,9 @@ export default function SV1(): React.JSX.Element {
 			<p>Hệ thống tư duy mới dưới đây được xây dựng dựa trên sự đồng bộ tuyệt đối giữa các Hình Thái gốc, 3 Chức Năng điều phối và 3 Cấp Độ hình khối, giúp người học "nhìn phát hiểu ngay" mọi thành phần trong tiếng Anh mà không cần đến bất kỳ định nghĩa rườm rà nào.</p>
 
 
-			{/* 1.  */}
+			{/* I.  */}
 
-			<h3 className="margin-y-50 text-center">1. Hệ Trục Tọa Độ Quy Tắc 3C</h3>
+			<h3 className="margin-y-50 text-center">I. Hệ Trục Tọa Độ Quy Tắc 3C</h3>
 
 			<p>Toàn bộ kiến trúc của câu tiếng Anh được phân định rõ ràng qua 3 cấp độ quy mô tăng dần, đều bắt đầu bằng chữ <strong>C</strong> để tạo lối mòn tư duy cực kỳ dễ nhớ:</p>
 			
@@ -97,9 +97,9 @@ export default function SV1(): React.JSX.Element {
 			
 			
 
-			{/* 2.  */}
+			{/* II.  */}
 
-			<h3 className="margin-y-50 text-center">2. Tư Duy Ngược: Từ "Hình Thái" Giải Mã "Chức Năng"</h3>
+			<h3 className="margin-y-50 text-center">II. Tư Duy Ngược: Từ "Hình Thái" Giải Mã "Chức Năng"</h3>
 
 			<p>Một sai lầm kinh điển của cách học cũ là bắt người học phải đoán chức năng trước. Với hệ thống mới, quy trình tư duy được đảo ngược một cách tự nhiên và khoa học: Người học nhìn thấy Hình thái trước, sau đó dựa vào vị trí để giải mã ra Chức năng.</p>
 
@@ -129,9 +129,9 @@ export default function SV1(): React.JSX.Element {
 
 
 
-			{/* 3.  */}
+			{/* III.  */}
 
-			<h3 className="margin-y-50 text-center">3. Quy Trình Vận Hành Và Ký Hiệu Đóng Gói Sơ Đồ</h3>
+			<h3 className="margin-y-50 text-center">III. Quy Trình Vận Hành Và Ký Hiệu Đóng Gói Sơ Đồ</h3>
 
 			<p>Để bóc tách các tầng hình thái lồng ghép vào nhau như những chiếc hộp gỗ, người học áp dụng quy ước đóng gói hình khối bằng dấu vuông [] bao quanh:</p>
 
@@ -293,10 +293,70 @@ export default function SV1(): React.JSX.Element {
 				</ul>
 
 
-			
-			{/* 4.  */}
+			{/* IV.  */}
 
-			<h3 className="margin-y-50 text-center">4. Nguyên Tắc Phân Tầng Bằng "Điểm Neo"</h3>
+			<h3 className="margin-y-50 text-center">IV. Hiện Tượng Động Câu Ẩn Liên [Zero-Connector Verb Clause]</h3>
+
+			<p>Trong tiếng Anh tự nhiên, người bản ngữ rất thường xuyên lược bỏ hoàn toàn thành phần kết nối như Liên Cơ [Connector Base].</p>
+
+			<p>Lúc này, Động Câu [Verb Clause] hoàn toàn không chứa thành phần liên kết bề nổi, hiển thị cấu hình giống hệt như một Câu con [Clause] độc lập nhưng thực chất không thể đứng một mình mà phải neo chặt vào hệ thống để làm tròn 3 chức năng:</p>
+
+
+			<h4 className="margin-y-40">A. Danh Câu Ẩn Liên [Zero-Connector Noun Clause]</h4>
+
+			<p className="text-indent-whole">[we should leave now]</p>
+			
+				<ul className="list-square">
+			
+					<li>I think [______].</li>
+					<li className="margin-bottom-20 list-none">Tôi nghĩ [chúng ta nên rời đi bây giờ].</li>
+			
+					<li className="list-none">Hình thái: [we should leave now] - Động Câu [Verb Clause] đã ẩn mất Liên Cơ [Connector Base] bề nổi, hiển thị cấu hình như một Câu con [Clause] độc lập nhưng không đứng một mình.</li>
+			
+					<li className="list-none">Chức năng: [we should leave now] - Danh Câu [Noun Clause] đứng sau Thủ Động Cơ [Head Verb Base] đón nhận hành động như một Danh Nhận thực thi.</li>
+			
+				</ul>
+			
+			
+
+			<h4 className="margin-y-40">B. Tính Câu Ẩn Liên [Zero-Connector Adjective Clause]</h4>
+
+			<p className="text-indent-whole">[we watched yesterday]</p>
+			
+				<ul className="list-square">
+			
+					<li>The movie [______] was great.</li>
+					<li className="margin-bottom-20 list-none">Bộ phim [chúng tôi xem hôm qua] rất tuyệt.</li>
+			
+					<li className="list-none">Hình thái: [we watched yesterday] - Động Câu [Verb Clause] đã ẩn mất Liên Cơ [Connector Base] bề nổi, hiển thị cấu hình như một Câu con [Clause] độc lập nhưng không đứng một mình.</li>
+			
+					<li className="list-none">Chức năng: [we watched yesterday] - Tính Câu [Adjective Clause] đứng ngay sau đối tượng bộ phim nhằm mô tả đặc điểm riêng biệt cho Danh Cơ movie.</li>
+			
+				</ul>
+			
+			
+
+			<h4 className="margin-y-40">C. Trạng Câu Ẩn Liên [Zero-Connector Adverb Clause]</h4>
+
+			<p className="text-indent-whole">[I couldn't drink it]</p>
+			
+				<ul className="list-square">
+			
+					<li>The coffee was so hot [______].</li>
+					<li className="margin-bottom-20 list-none">Cà phê quá nóng [đến mức tôi không thể uống được].</li>
+			
+					<li className="list-none">Hình thái: [I couldn't drink it] - Động Câu [Verb Clause] đã ẩn mất Liên Cơ [Connector Base] bề nổi, hiển thị cấu hình như một Câu con [Clause] độc lập nhưng không đứng một mình.</li>
+			
+					<li className="list-none">Chức năng: [I couldn't drink it] - Trạng Câu [Adverb Clause] gắn vào phía sau nhằm làm rõ hệ quả và bổ nghĩa cho mức độ đặc điểm của Tính Cơ hot.</li>
+			
+				</ul>
+			
+
+
+			
+			{/* V.  */}
+
+			<h3 className="margin-y-50 text-center">V. Nguyên Tắc Phân Tầng Bằng "Điểm Neo"</h3>
 
 
 			<p>Khi xử lý các cấu trúc phức tạp chứa nhiều tầng lồng ghép, người học áp dụng quy ước</p>
@@ -323,9 +383,9 @@ export default function SV1(): React.JSX.Element {
 			
 
 
-			{/* 5.  */}
+			{/* VI.  */}
 
-			<h3 className="margin-y-50 text-center">5. Cấu Trúc Khối Phân Tầng Cao Cấp [Nested Structures]</h3>
+			<h3 className="margin-y-50 text-center">VI. Cấu Trúc Khối Phân Tầng Cao Cấp [Nested Structures]</h3>
 
 			<p>Khi các hình khối lồng ghép vào nhau theo nhiều lớp như những chiếc hộp gỗ, hệ thống quy ước dấu vuông [] cho lớp bao ngoài và dấu ngoặc nhọn {'{}'} cho lớp lồng bên trong sẽ giúp bóc tách chính xác mối quan hệ phân tầng về cả Hình thái lẫn Chức năng.</p>
 
@@ -401,9 +461,9 @@ export default function SV1(): React.JSX.Element {
 
 
 
-			{/* 6.  */}
+			{/* VII.  */}
 
-			<h3 className="margin-y-50 text-center">6. Paraphrasing: Nghệ Thuật Thay Khối Cùng Chức Năng</h3>
+			<h3 className="margin-y-50 text-center">VII. Paraphrasing: Nghệ Thuật Thay Khối Cùng Chức Năng</h3>
 
 			<p>Khi tư duy hình khối Cơ - Cụm - Câu đã trở thành bản năng, kỹ thuật viết lại câu [paraphrasing] không còn là việc đổi từ đồng nghĩa một cách may rủi hay xáo trộn trật tự một cách khiên cưỡng. Việc làm mới câu văn giờ đây thực chất là một bài toán hình học sắp xếp module: Thay đổi Cấp Độ cấu trúc nhưng giữ nguyên vẹn Chức Năng ở cùng một vị trí neo.</p>
 
