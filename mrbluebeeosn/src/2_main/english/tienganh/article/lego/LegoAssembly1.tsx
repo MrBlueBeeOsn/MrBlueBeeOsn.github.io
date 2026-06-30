@@ -95,7 +95,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 				<ul className="list-square">
 			
 					<li><strong>Head tích hợp</strong></li>
-					<li className="margin-bottom-20 list-none">Bao gồm <strong>do</strong>/<strong>does</strong>/<strong>did</strong> tự nuốt vào trong Thủ Động Cơ [Head Verb Base] ở câu khẳng định.</li>
+					<li className="margin-bottom-20 list-none">Bao gồm Thời Động Cơ [Tense Verb Base] <strong>do</strong>/<strong>does</strong>/<strong>did</strong> tự nuốt vào trong Thực Động Cơ [Action Verb Base] ở câu khẳng định để biến thành Thời-Thực Động Cơ [Tense-Action Verb Base]</li>
 			
 					<li><strong>Head không tích hợp</strong></li>
 					<li className="list-none">Hiện rõ như <strong>can</strong>, <strong>will</strong>, <strong>is</strong>, <strong>are</strong>, <strong>have</strong>...</li>
@@ -171,7 +171,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 					<li>[______] is exciting.</li>
 					<li className="margin-bottom-20 list-none">[Học tập] thì thú vị.</li>
 
-					<li className="list-none">Hình thái: [Learning] - Thủ Động Cơ [Head Verb Base] thêm đuôi -ing. Hành động gốc được đóng gói thành một thực thể cơ bản duy nhất.</li>
+					<li className="list-none">Hình thái: [Learning] - Thực Động Cơ [Action Verb Base] thêm đuôi -ing. Hành động gốc được đóng gói thành một thực thể cơ bản duy nhất.</li>
 					<li className="list-none">Chức năng: [Learning] - Danh Cơ [Noun Base] đóng vai trò làm Danh Chủ để tạo ra trạng thái "is exciting".</li>
 			
 				</ul>
@@ -183,7 +183,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 					<li>We must [______].</li>
 					<li className="margin-bottom-20 list-none">Chúng ta phải [bảo vệ môi trường].</li>
 
-					<li className="list-none">Hình thái: [protect the environment] - Động Cụm [Verb Phrase] bắt đầu bằng một Thủ Động Cơ [Head Verb Base] "protect".</li>
+					<li className="list-none">Hình thái: [protect the environment] - Động Cụm [Verb Phrase] bắt đầu bằng một Động Cơ [Verb Base] nguyên mẫu "protect" (ở đây đóng vai trò là Thực Động Cơ [Action Verb Base]).</li>
 					<li className="list-none">Chức năng: [protect the environment] - Danh Cụm [Noun Phrase] đóng vai trò làm phần Danh Nhận, chịu yêu cầu trực tiếp từ bộ nguồn "must".</li>
 			
 				</ul>
@@ -197,7 +197,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 					<li className="margin-bottom-20 list-none">Tôi biết [những gì bạn ám chỉ].</li>
 
 					<li className="list-none">Hình thái: [what you mean] - Động Câu [Verb Clause] chứa Liên Cơ [Connector Base] "what" ở đầu.</li>
-					<li className="list-none">Chức năng: [what you mean] - Danh Câu [Noun Clause] đóng vai trò làm phần Danh Nhận thông tin đứng sau một Thủ Động Cơ [Head Verb Base].</li>
+					<li className="list-none">Chức năng: [what you mean] - Danh Câu [Noun Clause] đóng vai trò làm phần Danh Nhận thông tin đứng sau một Thời-Thực Động Cơ [Tense-Action Verb Base].</li>
 			
 				</ul>
 
@@ -224,7 +224,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 
 					<li className="margin-bottom-20 list-none">Hình thái: Khối tổng thể [understand {'{why you left}'}] là một Động Cụm [Verb Phrase] tầng ngoài. Bên trong bao gói {'{why you left}'} là một Động Câu [Verb Clause] tầng trong chứa Liên Cơ [Connector Base] "why".</li>
 
-					<li className="list-none">Chức năng: Khối {'{why you left}'} bên trong đóng vai trò là Danh Câu [Noun Clause] chịu sự điều phối của Thủ Động Cơ [Head Verb Base] tầng ngoài, và toàn bộ khối [understand {'{why you left}'}] đóng vai trò là <strong>Danh Cụm</strong> [<strong>Noun Phrase</strong>] tổng thể chịu tác động của Danh Chủ I.</li>
+					<li className="list-none">Chức năng: Khối {'{why you left}'} bên trong đóng vai trò là Danh Câu [Noun Clause] chịu sự điều phối của Thời-Thực Động Cơ [Tense-Action Verb Base] tầng ngoài, và toàn bộ khối [understand {'{why you left}'}] đóng vai trò là Danh Cụm [Noun Phrase] tổng thể chịu tác động của Danh Chủ I.</li>
 			
 				</ul>
 			
@@ -241,7 +241,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 					<li>She has an [______] voice.</li>
 					<li className="margin-bottom-20 list-none">Cô ấy có một giọng hát [kinh ngạc].</li>
 
-					<li className="list-none">Hình thái: [amazing] - Thủ Động Cơ [Head Verb Base] ở dạng đuôi -<strong>ing</strong>.</li>
+					<li className="list-none">Hình thái: [amazing] - Thực Động Cơ [Action Verb Base] ở dạng đuôi -<strong>ing</strong>.</li>
 					<li className="list-none">Chức năng: [amazing] - Tính Cơ [Adjective Base] đứng trước Danh Cơ [Noun Base] "voice" để bổ nghĩa, làm rõ đặc điểm cho giọng hát đó.</li>
 			
 				</ul>
@@ -256,7 +256,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 					<li>The man is [______].</li>
 					<li className="margin-bottom-20 list-none">Người đàn ông thì [đang làm việc tại nhà].</li>
 
-					<li className="list-none">Hình thái: [working from home] - Động Cụm [Verb Phrase] bắt đầu bằng Thủ Động Cơ [Head Verb Base] dạng V-ing.</li>
+					<li className="list-none">Hình thái: [working from home] - Động Cụm [Verb Phrase] bắt đầu bằng Thực Động Cơ [Action Verb Base] dạng V-ing.</li>
 					<li className="list-none">Chức năng: [working from home] - Tính Cụm [Adjective Phrase] đóng vai trò làm phần mô tả trực tiếp trạng thái của Danh Chủ "The man".</li>
 			
 				</ul>
@@ -286,7 +286,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 
 					<li className="margin-bottom-20 list-none">Hình thái: Khối tổng thể [with the belief {'{that he can win}'}] là một Giới Cụm [Prepositional Phrase] tầng ngoài. Bên trong bao gói {'{that he can win}'} là một Động Câu [Verb Clause] tầng trong chứa Liên Cơ [Connector Base] "that".</li>
 
-					<li className="list-none">Chức năng: Khối {'{that he can win}'} bên trong đóng vai trò là Danh Câu [Noun Clause] giải thích nghĩa cho Danh Cơ [Noun Base] "belief", và toàn bộ khối [with the belief {'{that he can win}'}] đóng vai trò là <strong>Tính Cụm</strong> [<strong>Adjective Phrase</strong>] tổng thể đứng sau Danh Cụm "The man" để mô tả đặc điểm nhận dạng của đối tượng này.</li>
+					<li className="list-none">Chức năng: Khối {'{that he can win}'} bên trong đóng vai trò là Danh Câu [Noun Clause] giải thích nghĩa cho Danh Cơ [Noun Base] "belief", và toàn bộ khối [with the belief {'{that he can win}'}] đóng vai trò là Tính Cụm [Adjective Phrase] tổng thể đứng sau Danh Cụm "The man" để mô tả đặc điểm nhận dạng của đối tượng này.</li>
 			
 				</ul>
 			
@@ -322,7 +322,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 
 			<p className="margin-top-20 text-indent-whole">Là bản rút gọn của Tính Câu [<strong>Adjective Clause</strong>]</p>
 
-			<p className="margin-top-20 text-indent-whole">Khi câu có cấu trúc <strong>Danh Chủ</strong> + <strong>be</strong> (<strong>Head</strong>) + <strong>Tính Cụm</strong> [<strong>Adjective Phrase</strong>], khối này thực chất chính là hình thức của một Tính Câu [Adjective Clause] đầy đủ được rút gọn lại bằng cách lược bỏ Liên Cơ [Connector Base] và Thủ Động Cơ [Head Verb Base] be ở câu gốc để câu súc tích hơn.</p>
+			<p className="margin-top-20 text-indent-whole">Khi câu có cấu trúc <strong>Danh Chủ</strong> + <strong>be</strong> (<strong>Head</strong>) + <strong>Tính Cụm</strong> [<strong>Adjective Phrase</strong>], khối này thực chất chính là hình thức của một Tính Câu [Adjective Clause] đầy đủ được rút gọn lại bằng cách lược bỏ Liên Cơ [Connector Base] và hành động điều khiển be ở câu gốc để câu súc tích hơn.</p>
 			
 
 			<p className="margin-y-30 text-indent-whole">Ví dụ 1:</p>
@@ -381,8 +381,8 @@ export default function LegoAssembly1(): React.JSX.Element {
 					<li>He walked [______].</li>
 					<li className="margin-bottom-20 list-none">Anh ấy đi bộ [một cách chậm chạp].</li>
 
-					<li className="list-none">Hình thái: [slowly] - Thủ Động Cơ [Head Verb Base] gốc được thêm cấu hình trạng thái -<strong>ly</strong>.</li>
-					<li className="list-none">Chức năng: [slowly] - Trạng Cơ [Adverb Base] bổ nghĩa cho Thủ Động Cơ [Head Verb Base] hành động "walked", mô tả cách thức hành động được thực hiện.</li>
+					<li className="list-none">Hình thái: [slowly] - Thực Động Cơ [Action Verb Base] gốc được thêm cấu hình trạng thái -<strong>ly</strong>.</li>
+					<li className="list-none">Chức năng: [slowly] - Trạng Cơ [Adverb Base] bổ nghĩa cho Thời-Thực Động Cơ [Tense-Action Verb Base] hành động "walked", mô tả cách thức hành động được thực hiện.</li>
 			
 				</ul>
 
@@ -422,7 +422,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 
 					<li className="margin-bottom-20 list-none">Hình thái: Khối tổng thể [at the moment {'{when the show started}'}] là một Giới Cụm [Prepositional Phrase] tầng ngoài. Bên trong bao gói {'{when the show started}'} là một Động Câu [Verb Clause] tầng trong chứa Liên Cơ [Connector Base] "when".</li>
 
-					<li className="list-none">Chức năng: Khối {'{when the show started}'} bên trong đóng vai trò là Tính Câu [Adjective Clause] bổ nghĩa cho Danh Cơ [Noun Base] "moment", và toàn bộ khối [at the moment {'{when the show started}'}] đóng vai trò là <strong>Trạng Cụm</strong> [<strong>Adverb Phrase</strong>] tổng thể đứng cuối câu để bổ sung bối cảnh thời gian cho hành động "arrived".</li>
+					<li className="list-none">Chức năng: Khối {'{when the show started}'} bên trong đóng vai trò là Tính Câu [Adjective Clause] bổ nghĩa cho Danh Cơ [Noun Base] "moment", và toàn bộ khối [at the moment {'{when the show started}'}] đóng vai trò là Trạng Cụm [Adverb Phrase] tổng thể đứng cuối câu để bổ sung bối cảnh thời gian cho hành động "arrived".</li>
 			
 				</ul>
 			
@@ -471,8 +471,8 @@ export default function LegoAssembly1(): React.JSX.Element {
 					<li>We closed the shop [______].</li>
 					<li className="margin-bottom-20 list-none">Chúng tôi đã đóng cửa cửa hàng [sớm].</li>
 			
-					<li className="list-none">Hình thái: [early] - Thủ Động Cơ [Head Verb Base] gốc được thêm cấu hình trạng thái.</li>
-					<li className="list-none">Chức năng: [early] - Trạng Cơ [Adverb Base] bổ nghĩa cho Thủ Động Cơ [Head Verb Base] hành động "closed", mở rộng bối cảnh thời gian.</li>
+					<li className="list-none">Hình thái: [early] - Động Cơ [Verb Base] nguyên mẫu gốc được thêm cấu hình trạng thái.</li>
+					<li className="list-none">Chức năng: [early] - Trạng Cơ [Adverb Base] bổ nghĩa cho Thời-Thực Động Cơ [Tense-Action Verb Base] "closed", mở rộng bối cảnh thời gian.</li>
 			
 				</ul>
 			
@@ -500,8 +500,8 @@ export default function LegoAssembly1(): React.JSX.Element {
 					<li>Analysts predict [______].</li>
 					<li className="margin-bottom-20 list-none">Các chuyên gia dự báo [giá cổ phiếu đang lao dốc].</li>
 			
-					<li className="list-none">Hình thái: [falling stock prices] - Động Cụm [Verb Phrase] bắt đầu bằng Thủ Động Cơ [Head Verb Base] dạng V-ing "falling".</li>
-					<li className="list-none">Chức năng: [falling stock prices] - Danh Cụm [Noun Phrase] đóng vai trò làm phần Danh Nhận, chịu yêu cầu trực tiếp từ Thủ Động Cơ [Head Verb Base] "predict".</li>
+					<li className="list-none">Hình thái: [falling stock prices] - Động Cụm [Verb Phrase] bắt đầu bằng Thực Động Cơ [Action Verb Base] dạng V-ing "falling".</li>
+					<li className="list-none">Chức năng: [falling stock prices] - Danh Cụm [Noun Phrase] đóng vai trò làm phần Danh Nhận, chịu yêu cầu trực tiếp từ Thời-Thực Động Cơ [Tense-Action Verb Base] "predict".</li>
 			
 				</ul>
 			
@@ -514,7 +514,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 					<li className="margin-bottom-20 list-none">Các chuyên gia dự báo [rằng giá cổ phiếu sẽ sụt giảm].</li>
 			
 					<li className="list-none">Hình thái: [that stock prices will drop] - Động Câu [Verb Clause] chứa Liên Cơ [Connector Base] "that" ở đầu.</li>
-					<li className="list-none">Chức năng: [that stock prices will drop] - Danh Câu [Noun Clause] đóng vai trò làm phần Danh Nhận thông tin đứng sau một Thủ Động Cơ [Head Verb Base].</li>
+					<li className="list-none">Chức năng: [that stock prices will drop] - Danh Câu [Noun Clause] đóng vai trò làm phần Danh Nhận thông tin đứng sau một Thời-Thực Động Cơ [Tense-Action Verb Base].</li>
 			
 				</ul>
 			
@@ -529,7 +529,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 					<li>She practices English [______].</li>
 					<li className="margin-bottom-20 list-none">Cô ấy luyện tập tiếng Anh [để giao tiếp với người nước ngoài].</li>
 			
-					<li className="list-none">Hình thái: [to communicate with foreigners] - Động Cụm [Verb Phrase] bắt đầu bằng Thủ Động Cơ [Head Verb Base] dạng nguyên mẫu có "to".</li>
+					<li className="list-none">Hình thái: [to communicate with foreigners] - Động Cụm [Verb Phrase] bắt đầu bằng Động Cơ [Verb Base] dạng nguyên mẫu có "to" (ở đây đóng vai trò là Thực Động Cơ [Action Verb Base]).</li>
 					<li className="list-none">Chức năng: [to communicate with foreigners] - Trạng Cụm [Adverb Phrase] đứng cuối câu để làm rõ mục đích cho hành động trước đó.</li>
 			
 				</ul>
@@ -605,36 +605,42 @@ export default function LegoAssembly1(): React.JSX.Element {
 
 			<h4 className="margin-y-40">Bí mật của "Head Tàng Hình" (Tích hợp)</h4>
 
-			<p className="text-indent-whole">Để phân biệt rõ hơn bản chất vận hành của vùng năng lượng điều khiển câu, chúng ta có thể gọi tên cụ thể các loại khối nguồn dựa trên nhiệm vụ của chúng:</p>
+			<p className="margin-top-20">Để phân biệt rõ hơn bản chất vận hành của vùng năng lượng điều khiển câu, chúng ta gọi tên cụ thể các loại khối hành động/chế độ dựa trên nhiệm vụ của chúng:</p>
 			
-				<ul className="list-square">
+				<ol>
 			
-					<li><strong>Thời Động Cơ</strong> [<strong>Tense Verb Base</strong>]:</li>
-					<li className="margin-bottom-20 list-none">Các trợ động cơ làm nhiệm vụ chia thời gian (do/does/did).</li>
+					<li value="1">Động Cơ [Verb Base]:</li>
+					<li className="margin-bottom-20 list-none">Nguyên mẫu (Class cha/Root Class) của mọi hành động.</li>
 			
-					<li><strong>Thái Động Cơ</strong> [<strong>Modal Verb Base</strong>]:</li>
-					<li className="margin-bottom-20 list-none">Các cấu trúc khiếm khuyết thể hiện thái độ (can/will/must/should).</li>
+					<li value="2">Thời Động Cơ [Tense Verb Base]:</li>
+					<li className="margin-bottom-20 list-none">Xử lý bối cảnh thời gian (do/does/did).</li>
+
+					<li value="3">Thực Động Cơ [Action Verb Base]:</li>
+					<li className="margin-bottom-20 list-none">Xử lý hành động thực thi đơn thuần.</li>
 			
-					<li><strong>Thủ Động Cơ</strong> [<strong>Head Verb Base</strong>]:</li>
-					<li className="list-none">Các cấu trúc đóng vai trò hạt nhân dẫn dắt trực tiếp như be hay have.</li>
+					<li value="4">Thái Động Cơ [Modal Verb Base]:</li>
+					<li className="margin-bottom-20 list-none">Xử lý chế độ/thái độ (can/will/must/should).</li>
 			
-				</ul>
+					<li value="5">Thời-Thực Động Cơ [Tense-Action Verb Base]:</li>
+					<li className="list-none">Hành động tích hợp (Đóng gói Thời + Thực), dù mang hình thái nguyên mẫu vẫn thực thi logic Thời-Thực.</li>
+			
+				</ol>
 			
 					
-			<p className="margin-top-20 text-indent-whole">Ở thể khẳng định của một số câu đơn giản, các Head <strong>do</strong>/<strong>does</strong>/<strong>did</strong> có đặc tính "nuốt" vào trong Thủ Động Cơ [Head Verb Base]:</p>
+			<p className="margin-top-20 text-indent-whole">Ở thể khẳng định của một số câu đơn giản, các Thời Động Cơ [Tense Verb Base] <strong>do</strong>/<strong>does</strong>/<strong>did</strong> có đặc tính "nuốt" vào trong Thực Động Cơ [Action Verb Base] để đóng gói lại thành một <strong>Thời-Thực Động Cơ</strong> [<strong>Tense-Action Verb Base</strong>] duy nhất:</p>
 			
 				<ul className="list-square">
 			
-					<li><strong>do</strong> nhập vào tạo thành <strong>develop</strong></li>
-					<li><strong>did</strong> nhập vào tạo thành <strong>developed</strong></li>
+					<li>do + develop tạo thành develop</li>
+					<li>did + develop tạo thành developed</li>
 			
 				</ul>
 			
 
-			<p className="margin-top-20 text-indent-whole">Nhưng khi làm câu Phủ định hoặc Nghi vấn, <strong>Head bắt buộc phải tách ra và lộ diện</strong>:</p>
+			<p className="margin-top-20 text-indent-whole">Nhưng khi làm câu Phủ định hoặc Nghi vấn, bộ khung tích hợp này bắt buộc phải tách ra để lộ diện Thời Động Cơ [Tense Verb Base] làm nhiệm vụ gánh vác vị trí Head:</p>
 
 
-			<p className="margin-top-20 text-indent-whole"><strong>Khẳng định</strong> (Ẩn Head):</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Khẳng định</strong> (Ẩn trong khối Thời-Thực):</p>
 			
 				<ul className="list-square">
 
@@ -678,7 +684,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 
 			<h4 className="margin-y-40">1. Sửa lỗi kiến trúc ngay lập tức:</h4>
 					
-			<p className="text-indent-whole">Bạn sẽ nhận ra ngay tại sao câu lại sai:</p>
+			<p className="text-indent-whole">Bạn sẽ nhận ra ngay tại sao 2 câu lại sai:</p>
 			
 				<ul className="list-square">
 			
