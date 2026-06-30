@@ -50,7 +50,7 @@ export default function ThreeDC1(): React.ReactElement {
 
 			<h4 className="margin-bottom-30 text-center">BÍ QUYẾT LÀM CHỦ "BỘ 3 PHỤ CÂU" VÀ HỆ THỐNG ĐỘNG LỰC HỌC TIẾNG ANH LÊN TẦM ADVANCED</h4>
 
-			<p>Khi mới học tiếng Anh, chúng ta thường có xu hướng tư duy theo từng từ đơn lẻ rồi lắp ghép chúng lại thành những Câu lớn ngắn ngủi, rời rạc. Tuy nhiên, để chạm đến ngưỡng <strong>Advanced English</strong> – giao tiếp mượt mà và viết lách sắc bén như người bản ngữ – bạn bắt buộc phải chuyển mình sang tư duy theo <strong>cụm khối</strong>.</p>
+			<p>Khi mới học tiếng Anh, chúng ta thường có xu hướng tư duy theo từng thành phần đơn lẻ rồi lắp ghép chúng lại thành những Câu lớn ngắn ngủi, rời rạc. Tuy nhiên, để chạm đến ngưỡng <strong>Advanced English</strong> – giao tiếp mượt mà và viết lách sắc bén như người bản ngữ – bạn bắt buộc phải chuyển mình sang tư duy theo <strong>cụm khối</strong>.</p>
 
 			<p>Chìa khóa vàng để thực hiện bước chuyển mình đó chính là làm chủ mối quan hệ giữa <strong>Hình thái khối hành động</strong> / <strong>khối quan hệ</strong> và <strong>Chức năng vận hành</strong> của chúng trong câu.</p>
 
@@ -62,7 +62,7 @@ export default function ThreeDC1(): React.ReactElement {
 
 			<h3 className="margin-y-50 text-center">I. HỆ THỐNG TƯ DUY HAI CHIỀU: HÌNH THÁI TRƯỚC, CHỨC NĂNG SAU</h3>
 
-			<p>Để bẻ khóa tiếng Anh nâng cao, người học cần nhìn nhận một khối biểu hiện dựa trên <strong>Hình thái biểu hiện</strong> của nó trước, sau đó mới xác định <strong>Chức năng</strong> dựa vào vị trí đứng trong câu.</p>
+			<p>Để bẻ khóa tiếng Anh nâng cao, người học cần nhìn nhận một khối biểu hiện dựa trên Hình thái biểu hiện của nó trước, sau đó mới xác định <strong>Chức năng</strong> dựa vào vị trí đứng trong câu.</p>
 
 			<p>Hệ thống này được đồng bộ hóa một cách nhất quán theo hai trục:</p>
 			
@@ -101,18 +101,39 @@ export default function ThreeDC1(): React.ReactElement {
 
 			{/* II.  */}
 
-			<h3 className="margin-y-50 text-center">II. GIẢI MÃ BẢN CHẤT CÁC HÌNH THÁI VÀ CHỨC NĂNG VẬN HÀNH</h3>
+			<h3 className="margin-y-50 text-center">II. PHÂN PHÒNG HỆ THỐNG ĐỘNG CƠ VÀ CÁC CẤP ĐỘ VẬN HÀNH</h3>
 
-			<p>Hãy cùng đi vào chi tiết cách các Hình thái thực hiện các Chức năng tương ứng như thế nào thông qua các ví dụ trực quan.</p>
+			<p>Để điều phối kỹ thuật chính xác, mọi yếu tố hành động hạt nhân đều xuất phát từ Động Cơ [Verb Base] – Nguyên mẫu (Class cha/Root Class) của mọi hành động.</p>
+
+			<p className="margin-top-20">Từ gốc rễ này, Động Cơ được phân chia thành 4 nhánh chuyên biệt để đảm nhận các chức năng logic khác nhau trong câu văn:</p>
+			
+				<ul className="list-square">
+
+					<li>Thời Động Cơ [Tense Verb Base]:</li>
+					<li className="margin-bottom-20 list-none">Chuyên trách xử lý bối cảnh thời gian (như is, are, was, were).</li>
+			
+					<li>Thực Động Cơ [Action Verb Base]:</li>
+					<li className="margin-bottom-20 list-none">Chuyên trách xử lý hành động thực thi (như running, sitting, to buy, purchase).</li>
+			
+					<li>Thái Động Cơ [Modal Verb Base]:</li>
+					<li className="margin-bottom-20 list-none">Chuyên trách xử lý chế độ/thái độ (như can, should, will).</li>
+			
+					<li>Thời-Thực Động Cơ [Tense-Action Verb Base]:</li>
+					<li className="list-none">Hành động tích hợp đóng gói cả Thời + Thực (như made, watched, stops, drove), dù mang hình thái nguyên mẫu vẫn thực thi logic Thời-Thực.</li>
+			
+				</ul>
+			
+			
+			<p className="margin-top-20">Hãy cùng giải mã cách các cấp độ Hình thái thực hiện chức năng thông qua các ví dụ trực quan.</p>
 
 			<p><strong>Quy ước ký hiệu</strong>: Sử dụng dấu vuông [] để bao quanh ranh giới hình thái của cả câu tiếng Anh và câu dịch tương đương.</p>
 
 			
 			<h4 className="margin-y-40">1. Hình thái ĐỘNG CƠ [Verb Base]</h4>
 
-			<p className="text-indent-whole">Là đơn vị hành động hạt nhân nhỏ nhất, chỉ gồm đúng 1 từ (hoặc đi kèm thời động cơ kết hợp trực tiếp tạo thành một cấu hình thời đơn giản).</p>
+			<p className="text-indent-whole">Là đơn vị hành động hạt nhân nhỏ nhất, chỉ gồm đúng 1 từ.</p>
 
-			<p className="text-indent-whole">Bản thân nó thể hiện cấu trúc một Động Cơ, nhưng vị trí đứng trong câu sẽ quyết định chức năng của nó:</p>
+			<p className="text-indent-whole">Vị trí đứng trong câu sẽ quyết định chức năng của từ hành động này:</p>
 
 
 			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 1</strong>: <strong>Sinh ra Danh Cơ</strong> [<strong>Noun Base</strong>]: [Smoking]</p>
@@ -122,9 +143,9 @@ export default function ThreeDC1(): React.ReactElement {
 					<li>[______] is bad.</li>
 					<li className="margin-bottom-20 list-none">[Hút thuốc] thì có hại.</li>
 			
-					<li className="list-none">Hình thái: [Smoking] - Động Cơ [Verb Base] thể hiện một khối hành động đơn lẻ mang hình thái thêm đuôi "-ing".</li>
+					<li className="list-none">Hình thái: [Smoking] - Động Cơ [Verb Base] ở dạng Thực Động Cơ biến hình đuôi "-ing" để thể hiện một khối hành động đơn lẻ.</li>
 			
-					<li className="list-none">Chức năng: [Smoking] - Danh Cơ [Noun Base] đứng ở đầu câu đóng vai trò làm chủ thể thực hiện hành động.</li>
+					<li className="list-none">Chức năng: [Smoking] - Danh Cơ [Noun Base] đóng vai trò làm Danh Chủ thực hiện hành động cho Câu lớn chịu sự quản lý thời gian của Thời Động Cơ "is".</li>
 			
 				</ul>
 			
@@ -136,7 +157,7 @@ export default function ThreeDC1(): React.ReactElement {
 					<li>She has an [______] talent.</li>
 					<li className="margin-bottom-20 list-none">Cô ấy có một tài năng [gây kinh ngạc].</li>
 			
-					<li className="list-none">Hình thái: [amazing] - Động Cơ [Verb Base] đại diện cho khối hành động hạt nhân chỉ gồm đúng 1 từ.</li>
+					<li className="list-none">Hình thái: [amazing] - Động Cơ [Verb Base] ở dạng Thực Động Cơ biến hình mô tả hoạt động hạt nhân chỉ gồm đúng 1 từ.</li>
 			
 					<li className="list-none">Chức năng: [amazing] - Tính Cơ [Adjective Base] đứng ngay trước một thực thể để biểu thị tính chất và bổ nghĩa cho thực thể đó.</li>
 			
@@ -150,7 +171,7 @@ export default function ThreeDC1(): React.ReactElement {
 					<li>He drove [______].</li>
 					<li className="margin-bottom-20 list-none">Anh ấy đã lái xe [một cách liều lĩnh].</li>
 			
-					<li className="list-none">Hình thái: [recklessly] - Động Cơ [Verb Base] phản ánh khối biểu hiện hành động được thêm cấu hình đuôi "-ly".</li>
+					<li className="list-none">Hình thái: [recklessly] - Biểu hiện trạng thái bổ trợ đi kèm ngay sau khối Thời-Thực Động Cơ "drove".</li>
 			
 					<li className="list-none">Chức năng: [recklessly] - Trạng Cơ [Adverb Base] đứng sau để biểu thị cách thức và bổ nghĩa trực tiếp cho hành động lái xe.</li>
 			
@@ -160,7 +181,7 @@ export default function ThreeDC1(): React.ReactElement {
 
 			<h4 className="margin-y-40">2. Hình thái ĐỘNG CỤM [Verb Phrase]</h4>
 
-			<p className="text-indent-whole">Là một khối hành động chứa nhiều từ kết hợp với nhau (như khối hành động đi kèm đối tượng chịu tác động hoặc thành phần bổ nghĩa) nhưng chưa có cấu trúc câu con hoàn chỉnh.</p>
+			<p className="text-indent-whole">Là một khối hành động chứa nhiều từ kết hợp với nhau (như Thực Động Cơ đi kèm Danh Nhận chịu tác động hoặc thành phần bổ nghĩa) nhưng chưa có cấu trúc câu con hoàn chỉnh.</p>
 
 			<p className="text-indent-whole">Khối Động Cụm này sẽ đảm nhận các vai trò:</p>
 
@@ -172,9 +193,9 @@ export default function ThreeDC1(): React.ReactElement {
 					<li>They want to [______].</li>
 					<li className="margin-bottom-20 list-none">Họ muốn [mua một ngôi nhà mới].</li>
 			
-					<li className="list-none">Hình thái: [buy a new house] - Động Cụm [Verb Phrase] cấu thành từ khối gồm nhiều từ kết hợp, bắt đầu bằng hành động "buy".</li>
+					<li className="list-none">Hình thái: [buy a new house] - Động Cụm [Verb Phrase] cấu thành từ khối gồm nhiều từ kết hợp, bắt đầu bằng Thực Động Cơ "buy" ở dạng hướng đến tương lai "to buy".</li>
 			
-					<li className="list-none">Chức năng: [buy a new house] - Danh Cụm [Noun Phrase] đứng sau động cơ chính "want" làm khối đối tượng mục tiêu cần thực hiện.</li>
+					<li className="list-none">Chức năng: [buy a new house] - Danh Cụm [Noun Phrase] làm khối Danh Nhận mục tiêu cần thực hiện, đứng sau chịu sự điều phối của Thời-Thực Động Cơ "want".</li>
 			
 				</ul>
 			
@@ -186,7 +207,7 @@ export default function ThreeDC1(): React.ReactElement {
 					<li>The girl [______] is my sister.</li>
 					<li className="margin-bottom-20 list-none">Cô gái [đang ngồi bên cửa sổ] là em gái tôi.</li>
 			
-					<li className="list-none">Hình thái: [sitting by the window] - Động Cụm [Verb Phrase] bao gồm một khối nhiều từ bắt đầu bằng một hành động biến hình và không chứa cấu trúc câu con độc lập.</li>
+					<li className="list-none">Hình thái: [sitting by the window] - Động Cụm [Verb Phrase] bao gồm một khối nhiều từ bắt đầu bằng một Thực Động Cơ dạng "-ing" và không chứa cấu trúc câu con độc lập.</li>
 			
 					<li className="list-none">Chức năng: [sitting by the window] - Tính Cụm [Adjective Phrase] đứng ngay sau thực thể "The girl" để bổ nghĩa đặc điểm định danh cho thực thể đó.</li>
 			
@@ -200,18 +221,18 @@ export default function ThreeDC1(): React.ReactElement {
 					<li>We practice English [______].</li>
 					<li className="margin-bottom-20 list-none">Chúng tôi luyện tập tiếng Anh [để có một công việc tốt hơn].</li>
 			
-					<li className="list-none">Hình thái: [to get a better job] - Động Cụm [Verb Phrase] định hình bằng khối gồm nhiều từ bắt đầu bằng dạng hành động hướng đến tương lai "to get".</li>
+					<li className="list-none">Hình thái: [to get a better job] - Động Cụm [Verb Phrase] định hình bằng khối gồm nhiều từ bắt đầu bằng Thực Động Cơ hướng đến mục đích "to get".</li>
 			
-					<li className="list-none">Chức năng: [to get a better job] - Trạng Cụm [Adverb Phrase] đứng cuối câu lớn nhằm giải thích bối cảnh mục đích cho hành động luyện tập.</li>
+					<li className="list-none">Chức năng: [to get a better job] - Trạng Cụm [Adverb Phrase] đứng cuối câu lớn nhằm giải thích bối cảnh mục đích cho hành động luyện tập được vận hành bởi Thời-Thực Động Cơ "practice".</li>
 			
 				</ul>
 
 
 			<h4 className="margin-y-40">3. Hình thái GIỚI CỤM [Prepositional Phrase]</h4>
 
-			<p className="text-indent-whole">Là khối không bắt đầu bằng một từ hành động, mà được định hình bắt đầu bằng một giới cơ chỉ quan hệ không gian, thời gian, đặc điểm (như in, on, at, by, with, due to...) kết hợp với một thực thể phía sau.</p>
+			<p className="text-indent-whole">Là khối không bắt đầu bằng một từ hành động, mà được định hình bắt đầu bằng một giới cơ chỉ quan hệ không gian, thời gian, đặc điểm kết hợp với một Danh Nhận phía sau.</p>
 					
-			<p className="text-indent-whole">Hình thái Giới Cụm này chỉ tập trung hình thành nên hai chức năng:</p>
+			<p className="text-indent-whole">Hình thái Giới Cụm này chỉ tập trung hình thành nên hai chức năng bổ nghĩa:</p>
 
 			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 1</strong>: <strong>Sinh ra Tính Cụm</strong> [<strong>Adjective Phrase</strong>]: [with the red tie]</p>
 			
@@ -220,7 +241,7 @@ export default function ThreeDC1(): React.ReactElement {
 					<li>The man [______] is my boss.</li>
 					<li className="margin-bottom-20 list-none">Người đàn ông [với chiếc cà vạt màu đỏ] là sếp của tôi.</li>
 			
-					<li className="list-none">Hình thái: [with the red tie] - Giới Cụm [Prepositional Phrase] là khối bắt đầu bằng giới cơ chỉ quan hệ sở hữu, đi kèm "with".</li>
+					<li className="list-none">Hình thái: [with the red tie] - Giới Cụm [Prepositional Phrase] là khối bắt đầu bằng giới cơ chỉ quan hệ sở hữu "with".</li>
 			
 					<li className="list-none">Chức năng: [with the red tie] - Tính Cụm [Adjective Phrase] đứng ôm ngay sau thực thể "The man" để bổ nghĩa đặc điểm nhận dạng cho thực thể đó.</li>
 			
@@ -236,7 +257,7 @@ export default function ThreeDC1(): React.ReactElement {
 			
 					<li className="list-none">Hình thái: [at noon] - Giới Cụm [Prepositional Phrase] là khối bắt đầu bằng giới cơ chỉ quan hệ thời gian "at".</li>
 			
-					<li className="list-none">Chức năng: [at noon] - Trạng Cụm [Adverb Phrase] đứng ở sau để cung cấp bối cảnh thời điểm cho sự việc gặp mặt.</li>
+					<li className="list-none">Chức năng: [at noon] - Trạng Cụm [Adverb Phrase] đứng ở sau để cung cấp bối cảnh thời điểm cho sự việc gặp mặt được bổ trợ phối hợp cùng tổ hợp Thái Động Cơ "will" và Động Cơ gốc "meet".</li>
 			
 				</ul>
 
@@ -244,7 +265,7 @@ export default function ThreeDC1(): React.ReactElement {
 
 			<h4 className="margin-y-40">4. Hình thái ĐỘNG CÂU [Verb Clause]</h4>
 
-			<p className="text-indent-whole">Là đơn vị hành động mạnh mẽ nhất vì chứa cấu trúc câu con hoàn chỉnh bên trong có chủ thể và Động Cơ riêng.</p>
+			<p className="text-indent-whole">Là đơn vị hành động mạnh mẽ nhất vì chứa cấu trúc câu con hoàn chỉnh bên trong có Danh Chủ và các cấu hình Động Cơ riêng biệt:</p>
 
 			<p className="text-indent-whole">Đây chính là bộ bệ phóng cốt lõi để nâng cấp câu văn lên tầm Advanced:</p>
 
@@ -256,9 +277,9 @@ export default function ThreeDC1(): React.ReactElement {
 					<li>I believe [______].</li>
 					<li className="margin-bottom-20 list-none">Tôi tin [rằng ngày mai sẽ tốt đẹp hơn].</li>
 			
-					<li className="list-none">Hình thái: [that tomorrow will be better] - Động Câu [Verb Clause] sở hữu cấu trúc một câu con đầy đủ có chủ thể "tomorrow" và tổ hợp động cụm "will be" (gồm thời động cơ và động cơ gốc).</li>
+					<li className="list-none">Hình thái: [that tomorrow will be better] - Động Câu [Verb Clause] sở hữu cấu trúc một câu con đầy đủ có Danh Chủ "tomorrow" và tổ hợp động cụm phối hợp giữa Thái Động Cơ "will" và Thời Động Cơ "be", dẫn dắt bởi Liên Cơ [Connector Base] "that".</li>
 			
-					<li className="list-none">Chức năng: [that tomorrow will be better] - Danh Câu [Noun Clause] đứng sau và làm khối đối tượng chịu tác động trực tiếp của động cơ điều phối "believe".</li>
+					<li className="list-none">Chức năng: [that tomorrow will be better] - Danh Câu [Noun Clause] làm khối Danh Nhận chịu tác động trực tiếp đứng sau điều phối của Thời-Thực Động Cơ "believe".</li>
 			
 				</ul>
 			
@@ -270,7 +291,7 @@ export default function ThreeDC1(): React.ReactElement {
 					<li>The book [______] is fascinating.</li>
 					<li className="margin-bottom-20 list-none">Cuốn sách [mà bạn đã cho tôi mượn hôm qua] thì rất hay.</li>
 			
-					<li className="list-none">Hình thái: [which you lent me yesterday] - Động Câu [Verb Clause] mang cấu trúc câu con hoàn chỉnh có chủ thể "you" và động cụm "lent me yesterday".</li>
+					<li className="list-none">Hình thái: [which you lent me yesterday] - Động Câu [Verb Clause] mang cấu trúc câu con hoàn chỉnh có Danh Chủ "you" và Thời-Thực Động Cơ "lent" (tích hợp quá khứ + hành động cho mượn), được liên kết bằng khối định danh tạo bởi Liên Cơ [Connector Base] "which".</li>
 			
 					<li className="list-none">Chức năng: [which you lent me yesterday] - Tính Câu [Adjective Clause] đứng ôm ngay sau thực thể "The book" để bổ nghĩa chi tiết cho thực thể đó.</li>
 			
@@ -284,9 +305,9 @@ export default function ThreeDC1(): React.ReactElement {
 					<li>We will leave [______].</li>
 					<li className="margin-bottom-20 list-none">Chúng tôi sẽ rời đi [ngay khi cơn mưa tạnh].</li>
 			
-					<li className="list-none">Hình thái: [as soon as the rain stops] - Động Câu [Verb Clause] vận hành như một khối chứa câu con hoàn chỉnh có chủ thể "the rain" và động cơ "stops".</li>
+					<li className="list-none">Hình thái: [as soon as the rain stops] - Động Câu [Verb Clause] vận hành như một khối chứa câu con hoàn chỉnh có Danh Chủ "the rain" và Thời-Thực Động Cơ "stops" (tích hợp hiện tại ngôi ba số ít + hành động tạnh).</li>
 			
-					<li className="list-none">Chức năng: [as soon as the rain stops] - Trạng Câu [Adverb Clause] bắt đầu bằng khối kết nối thời gian nhằm bổ nghĩa bối cảnh thời điểm cho động cơ chính "leave".</li>
+					<li className="list-none">Chức năng: [as soon as the rain stops] - Trạng Câu [Adverb Clause] bắt đầu bằng Liên Cơ [Connector Base] thời gian phức hợp nhằm bổ nghĩa bối cảnh thời điểm cho hành động rời đi được định vị thái độ bởi Thái Động Cơ "will".</li>
 			
 				</ul>
 
@@ -307,9 +328,9 @@ export default function ThreeDC1(): React.ReactElement {
 					<li>I think [______].</li>
 					<li className="margin-bottom-20 list-none">Tôi nghĩ [bạn đã mắc sai lầm].</li>
 			
-					<li className="list-none">Hình thái: [you made a mistake] - Động Câu [Verb Clause] chứa cấu trúc câu con hoàn chỉnh với Danh Chủ "you" và Thời Động Cơ "made", hoàn toàn không có Liên Cơ [Connector Base] "that" đứng trước.</li>
+					<li className="list-none">Hình thái: [you made a mistake] - Động Câu [Verb Clause] chứa cấu trúc câu con hoàn chỉnh với Danh Chủ "you" và Thời-Thực Động Cơ "made", hoàn toàn không có Liên Cơ [Connector Base] "that" đứng trước.</li>
 			
-					<li className="list-none">Chức năng: [you made a mistake] - Danh Câu [Noun Clause] đứng sau làm khối Danh Nhận chịu sự điều phối trực tiếp của Thủ Động Cơ "think".</li>
+					<li className="list-none">Chức năng: [you made a mistake] - Danh Câu [Noun Clause] đứng sau làm khối Danh Nhận chịu sự điều phối trực tiếp của Thời-Thực Động Cơ "think".</li>
 			
 				</ul>
 			
@@ -321,7 +342,7 @@ export default function ThreeDC1(): React.ReactElement {
 					<li>The movie [______] was amazing.</li>
 					<li className="margin-bottom-20 list-none">Bộ phim [chúng ta xem ngày hôm qua] thì rất tuyệt.</li>
 			
-					<li className="list-none">Hình thái: [we watched yesterday] - Động Câu [Verb Clause] chứa cấu trúc câu con hoàn chỉnh với Danh Chủ "we" và Thời Động Cơ "watched", đã ẩn đi Liên Cơ [Connector Base] định danh "which" hoặc "that".</li>
+					<li className="list-none">Hình thái: [we watched yesterday] - Động Câu [Verb Clause] chứa cấu trúc câu con hoàn chỉnh với Danh Chủ "we" và Thời-Thực Động Cơ "watched", đã ẩn đi Liên Cơ [Connector Base] định danh "which" hoặc "that".</li>
 			
 					<li className="list-none">Chức năng: [we watched yesterday] - Tính Câu [Adjective Clause] đứng ôm ngay sau thực thể "The movie" để bổ nghĩa chi tiết cho thực thể đó.</li>
 			
@@ -335,7 +356,7 @@ export default function ThreeDC1(): React.ReactElement {
 					<li>The higher you climb, [______].</li>
 					<li className="margin-bottom-20 list-none">Bạn càng trèo cao, [bạn càng ngã đau].</li>
 			
-					<li className="list-none">Hình thái: [the harder you fall] - Động Câu [Verb Clause] chứa cấu trúc câu con hoàn chỉnh với Danh Chủ "you" và Động Cơ "fall", không sử dụng Liên Cơ [Connector Base] thông thường mà liên kết bằng cấu trúc tỷ lệ thuận song hành.</li>
+					<li className="list-none">Hình thái: [the harder you fall] - Động Câu [Verb Clause] chứa cấu trúc câu con hoàn chỉnh với Danh Chủ "you" và Thời-Thực Động Cơ "fall", không sử dụng Liên Cơ [Connector Base] thông thường mà liên kết bằng cấu trúc tỷ lệ thuận song hành.</li>
 			
 					<li className="list-none">Chức năng: [the harder you fall] - Trạng Câu [Adverb Clause] vận hành như một khối bối cảnh hệ quả tương quan, bổ nghĩa trực tiếp cho hành trình vận động ở vế đầu.</li>
 			
@@ -348,14 +369,14 @@ export default function ThreeDC1(): React.ReactElement {
 
 			<h3 className="margin-y-50 text-center">IV. BẢN CHẤT PHÂN TẦNG VÀ NGUYÊN TẮC "ĐIỂM NEO"</h3>
 
-			<p>Trong các cấu trúc câu phức tạp của trình độ Advanced, các hình thái này không đứng rời rạc mà lồng ghép vào nhau như các module linh kiện. Người bản ngữ luôn tư duy phân tầng bằng cách bao quát cả cấu trúc lồng ghép đa tầng giữa Động Cụm, Giới Cụm và Động Câu.</p>
+			<p>Trong các cấu trúc câu nâng cao, các hình thái này không đứng rời rạc mà lồng ghép vào nhau như các module linh kiện. Người bản ngữ luôn tư duy phân tầng bằng cách bao quát cả cấu trúc lồng ghép đa tầng giữa Động Cụm, Giới Cụm và Động Câu.</p>
 
 			<p>Khi thực hiện phân tầng, ranh giới ngoài cùng [] luôn đại diện cho khối bao quét tầng ngoài, và dấu {'{}'} sẽ bao quét khối lồng bên trong để thể hiện rõ mối quan hệ điều phối hệ thống.</p>
 
 
 			<h4 className="margin-y-40">1. Danh Cụm Phân Tầng [Nested Noun Phrase]</h4>
 					
-			<p className="text-indent-whole">Hiện tượng này xảy ra khi một Động Cụm [Verb Phrase] đóng vai trò Danh Cụm ở tầng ngoài (thường làm khối đối tượng mục tiêu cho động cơ chính của câu lớn), nhưng cấu trúc nội bộ của cụm đó lại chứa một Động Câu [Verb Clause] lồng ở tầng trong làm đối tượng chịu tác động (danh nhận) cho động cơ điều phối của chính cụm đó.</p>
+			<p className="text-indent-whole">Hiện tượng này xảy ra khi một Động Cụm [Verb Phrase] đóng vai trò Danh Cụm ở tầng ngoài (làm khối Danh Nhận mục tiêu cho Động Cơ điều phối của câu lớn), nhưng cấu trúc nội bộ của cụm đó lại chứa một Động Câu [Verb Clause] lồng ở tầng trong làm Danh Nhận chịu tác động cho chính Thực Động Cơ dẫn dắt của cụm đó.</p>
 
 			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ thực tế câu lớn</strong>: [to investigate {'{how the system failed}'}]</p>
 			
@@ -364,9 +385,9 @@ export default function ThreeDC1(): React.ReactElement {
 					<li>We plan [______ {'{______}'}].</li>
 					<li className="margin-bottom-20 list-none">Chúng tôi có kế hoạch [điều tra {'{hệ thống đã lỗi như thế nào}'}].</li>
 			
-					<li className="list-none">Hình thái: Khối bao ngoài [to investigate {'{how the system failed}'}] là một Động Cụm [Verb Phrase] bắt đầu bằng dạng hành động hướng tới tương lai "to investigate". Bên trong bao gói {'{how the system failed}'} là một Động Câu [Verb Clause] tầng trong có chủ thể "the system" và động cơ "failed".</li>
+					<li className="list-none">Hình thái: Khối bao ngoài [to investigate {'{how the system failed}'}] là một Động Cụm [Verb Phrase] bắt đầu bằng Thực Động Cơ "to investigate". Bên trong bao gói {'{how the system failed}'} là một Động Câu [Verb Clause] tầng trong có Danh Chủ "the system" và Thời-Thực Động Cơ "failed".</li>
 			
-					<li className="list-none">Chức năng: Khối {'{how the system failed}'} bên trong đóng vai trò là Danh Câu [Noun Clause] làm danh nhận chịu sự điều phối trực tiếp của động cơ cụm "investigate". Toàn bộ khối hỗn hợp [to investigate {'{how the system failed}'}] vận hành với chức năng <strong>Danh Cụm</strong> [<strong>Noun Phrase</strong>] tổng thể làm khối đối tượng mục tiêu đứng sau động cơ chính "plan".</li>
+					<li className="list-none">Chức năng: Khối {'{how the system failed}'} bên trong đóng vai trò là Danh Câu [Noun Clause] làm Danh Nhận chịu sự điều phối trực tiếp của Thực Động Cơ "investigate". Toàn bộ khối hỗn hợp [to investigate {'{how the system failed}'}] vận hành với chức năng Danh Cụm [Noun Phrase] tổng thể làm khối Danh Nhận đứng sau Thời-Thực Động Cơ "plan".</li>
 			
 				</ul>
 			
@@ -374,7 +395,7 @@ export default function ThreeDC1(): React.ReactElement {
 
 			<h4 className="margin-y-40">2. Tính Cụm Phân Tầng [Nested Adjective Phrase]</h4>
 					
-			<p className="text-indent-whole">Hiện tượng này xảy ra khi một Giới Cụm [Prepositional Phrase] đóng vai trò Tính Cụm ở tầng ngoài, nhưng thành phần danh nhận đứng sau giới cơ của nó lại được mở rộng bằng cả một Động Câu [Verb Clause] ở tầng trong.</p>
+			<p className="text-indent-whole">Hiện tượng này xảy ra khi một Giới Cụm [Prepositional Phrase] đóng vai trò Tính Cụm ở tầng ngoài, nhưng thành phần Danh Nhận đứng sau giới cơ của nó lại được mở rộng bằng cả một Động Câu [Verb Clause] ở tầng trong.</p>
 
 			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ thực tế câu lớn</strong>: [about {'{what they discovered}'}]</p>
 			
@@ -383,9 +404,9 @@ export default function ThreeDC1(): React.ReactElement {
 					<li>The report [______ {'{______}'}] is confidential.</li>
 					<li className="margin-bottom-20 list-none">Bản báo cáo [về {'{những gì họ đã phát hiện}'}] thì được bảo mật.</li>
 			
-					<li className="list-none">Hình thái: Khối tổng thể [about {'{what they discovered}'}] là một Giới Cụm [Prepositional Phrase] tầng ngoài, bắt đầu bằng giới cơ "about". Bên trong bao gói {'{what they discovered}'} là một Động Câu [Verb Clause] tầng trong có chủ thể "they" và động cơ "discovered".</li>
+					<li className="list-none">Hình thái: Khối tổng thể [about {'{what they discovered}'}] là một Giới Cụm [Prepositional Phrase] tầng ngoài, bắt đầu bằng giới cơ "about". Bên trong bao gói {'{what they discovered}'} là một Động Câu [Verb Clause] tầng trong có Danh Chủ "they" và Thời-Thực Động Cơ "discovered".</li>
 			
-					<li className="list-none">Chức năng: Khối {'{what they discovered}'} bên trong đóng vai trò là Danh Câu [Noun Clause] làm danh nhận chịu sự điều phối trực tiếp của giới cơ "about". Toàn bộ khối hỗn hợp [about {'{what they discovered}'}] vận hành với chức năng <strong>Tính Cụm</strong> [<strong>Adjective Phrase</strong>] tổng thể để ôm sau bổ nghĩa định danh cho Danh Cụm "The report".</li>
+					<li className="list-none">Chức năng: Khối {'{what they discovered}'} bên trong đóng vai trò là Danh Câu [Noun Clause] làm Danh Nhận chịu sự điều phối trực tiếp của giới cơ "about". Toàn bộ khối hỗn hợp [about {'{what they discovered}'}] vận hành với chức năng <strong>Tính Cụm</strong> [<strong>Adjective Phrase</strong>] tổng thể để ôm sau bổ nghĩa định danh cho Danh Cụm "The report".</li>
 			
 				</ul>
 			
@@ -394,7 +415,7 @@ export default function ThreeDC1(): React.ReactElement {
 
 			<h4 className="margin-y-40">3. Trạng Cụm Phân Tầng [Nested Adverb Phrase]:</h4>
 					
-			<p className="text-indent-whole">Hiện tượng này xảy ra khi một Giới Cụm [Prepositional Phrase] đóng vai trò Trạng Cụm ở tầng ngoài nhằm cung cấp bối cảnh nguyên nhân hoặc điều kiện, nhưng danh nhận đi sau giới cơ điều phối lại là một Động Câu [Verb Clause] hoàn chỉnh ở tầng trong.</p>
+			<p className="text-indent-whole">Hiện tượng này xảy ra khi một Giới Cụm [Prepositional Phrase] đóng vai trò Trạng Cụm ở tầng ngoài nhằm cung cấp bối cảnh nguyên nhân hoặc điều kiện, nhưng Danh Nhận đi sau giới cơ điều phối lại là một Động Câu [Verb Clause] hoàn chỉnh ở tầng trong.</p>
 
 			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ thực tế câu lớn</strong>: [because of {'{how hard they worked}'}]</p>
 			
@@ -403,9 +424,9 @@ export default function ThreeDC1(): React.ReactElement {
 					<li>They succeeded [______ {'{______}'}].</li>
 					<li className="margin-bottom-20 list-none">Họ đã thành công [bởi vì {'{họ đã làm việc chăm chỉ như thế nào}'}].</li>
 			
-					<li className="list-none">Hình thái: Khối tổng thể [because of {'{how hard they worked}'}] là một Giới Cụm [Prepositional Phrase] tầng ngoài, được dẫn dắt bởi giới cơ phức hợp "because of". Bên trong bao gói {'{how hard they worked}'} là một Động Câu [Verb Clause] tầng trong chứa chủ thể "they" và động cụm hành động "worked".</li>
+					<li className="list-none">Hình thái: Khối tổng thể [because of {'{how hard they worked}'}] là một Giới Cụm [Prepositional Phrase] tầng ngoài, được dẫn dắt bởi giới cơ phức hợp "because of". Bên trong bao gói {'{how hard they worked}'} là một Động Câu [Verb Clause] tầng trong chứa Danh Chủ "they" và Thời-Thực Động Cơ hành động "worked".</li>
 			
-					<li className="list-none">Chức năng: Khối {'{how hard they worked}'} bên trong đóng vai trò là Danh Câu [Noun Clause] làm danh nhận tiếp nhận quan hệ của giới cơ "because of". Toàn bộ khối hỗn hợp [because of {'{how hard they worked}'}] thực thi chức năng <strong>Trạng Cụm</strong> [<strong>Adverb Phrase</strong>] tổng thể đứng cuối để bổ nghĩa hoàn cảnh nguyên nhân cho động cơ chính "succeeded".</li>
+					<li className="list-none">Chức năng: Khối {'{how hard they worked}'} bên trong đóng vai trò là Danh Câu [Noun Clause] làm Danh Nhận tiếp nhận quan hệ của giới cơ "because of". Toàn bộ khối hỗn hợp [because of {'{how hard they worked}'}] thực thi chức năng <strong>Trạng Cụm</strong> [<strong>Adverb Phrase</strong>] tổng thể đứng cuối để bổ nghĩa hoàn cảnh nguyên nhân cho Thời-Thực Động Cơ "succeeded".</li>
 			
 				</ul>
 			
@@ -417,13 +438,13 @@ export default function ThreeDC1(): React.ReactElement {
 				<ol>
 			
 					<li value="1"><strong>Dấu móc định vị</strong>:</li>
-					<li className="margin-bottom-20 list-none">Dấu móc luôn bao quanh Thủ Động Cơ hoặc toàn bộ khối cụm/câu con để xác định ranh giới tư duy rõ ràng, không để các thành phần rơi tự do.</li>
+					<li className="margin-bottom-20 list-none">Dấu móc luôn bao quanh cấu hình Động Cơ chịu trách nhiệm hoặc toàn bộ khối cụm/câu con để xác định ranh giới tư duy rõ ràng, không để các thành phần rơi tự do.</li>
 			
 					<li value="2"><strong>Dữ liệu cấu hình nội bộ</strong>:</li>
-					<li className="margin-bottom-20 list-none">Các yếu tố biến đổi thuộc về thời của hành động như -s/-es, -ed, -ing nằm bên trong dấu móc chỉ đại diện cho cấu hình kỹ thuật của Động Cơ hoặc Động Cụm, hoàn toàn không làm thay đổi bản chất của Hình thái hay Chức năng của cả khối.</li>
+					<li className="margin-bottom-20 list-none">Các yếu tố biến đổi thuộc về thời của hành động như -s/-es, -ed, -ing nằm bên trong dấu móc chỉ đại diện cho cấu hình kỹ thuật thuộc nhóm Thời Động Cơ, Thực Động Cơ hoặc tích hợp Thời-Thực Động Cơ của cả khối, hoàn toàn không làm thay đổi bản chất của Hình thái hay Chức năng của câu lớn.</li>
 			
 					<li value="3"><strong>Sự tách biệt điều phối</strong>:</li>
-					<li className="list-none">Thủ Động Cơ điều khiển toàn bộ Câu lớn hoặc giới cơ điều phối hệ thống luôn đóng vai trò là điểm neo trung tâm nắm giữ các khối Danh Nhận phụ thuộc phía sau.</li>
+					<li className="list-none">Nhóm Động Cơ điều khiển của cả Câu lớn hoặc giới cơ điều phối hệ thống luôn đóng vai trò là điểm neo trung tâm nắm giữ các khối Danh Nhận phụ thuộc phía sau.</li>
 			
 				</ol>
 	
@@ -449,9 +470,9 @@ export default function ThreeDC1(): React.ReactElement {
 					<li>We canceled the picnic [______].</li>
 					<li className="margin-bottom-20 list-none">Chúng tôi đã hủy buổi dã ngoại [vì trời mưa to].</li>
 			
-					<li className="list-none">Hình thái: [because it rained heavily] - Động Câu [Verb Clause] khối hành động chứa Danh Chủ "it" và Động Cơ "rained" được cấu hình theo thời quá khứ.</li>
+					<li className="list-none">Hình thái: [because it rained heavily] - Động Câu [Verb Clause] khối hành động chứa Danh Chủ "it" và Thời-Thực Động Cơ "rained" tích hợp.</li>
 			
-					<li className="list-none">Chức năng: [because it rained heavily] - Trạng Câu [Adverb Clause] bổ nghĩa bối cảnh nguyên nhân cho sự việc hủy buổi dã ngoại được điều hành bởi Thủ Động Cơ "canceled".</li>
+					<li className="list-none">Chức năng: [because it rained heavily] - Trạng Câu [Adverb Clause] bổ nghĩa bối cảnh nguyên nhân cho sự việc hủy buổi dã ngoại được điều hành bởi Thời-Thực Động Cơ "canceled".</li>
 			
 				</ul>
 			
@@ -465,7 +486,7 @@ export default function ThreeDC1(): React.ReactElement {
 					<li>[______], we canceled the picnic.</li>
 					<li className="margin-bottom-20 list-none">[Vì vậy], chúng tôi đã hủy buổi dã ngoại.</li>
 			
-					<li className="list-none">Hình thái: [Consequently] - Động Cơ [Verb Base] một khối biểu hiện hạt nhân đơn lẻ.</li>
+					<li className="list-none">Hình thái: [Consequently] - Khối kết nối biểu hiện hạt nhân đơn lẻ.</li>
 			
 					<li className="list-none">Chức năng: [Consequently] - Trạng Cơ [Adverb Base] đóng vai trò liên kết bối cảnh kết quả ở mức độ hạt nhân.</li>
 			
@@ -500,7 +521,7 @@ export default function ThreeDC1(): React.ReactElement {
 					<li>The man [______] is very experienced.</li>
 					<li className="margin-bottom-20 list-none">Người đàn ông [người mà đang dẫn dắt dự án] thì rất có kinh nghiệm.</li>
 			
-					<li className="list-none">Hình thái: [who is leading the project] - Động Câu [Verb Clause] khối hành động chứa cấu trúc câu con hoàn chỉnh vận hành ở thời hiện tại với Động Cơ chính "is".</li>
+					<li className="list-none">Hình thái: [who is leading the project] - Động Câu [Verb Clause] khối hành động chứa cấu trúc câu con hoàn chỉnh vận hành với tổ hợp gồm Thời Động Cơ "is" và Thực Động Cơ "leading".</li>
 			
 					<li className="list-none">Chức năng: [who is leading the project] - Tính Câu [Adjective Clause] ôm ngay sau thực thể người đàn ông để định danh.</li>
 			
@@ -517,7 +538,7 @@ export default function ThreeDC1(): React.ReactElement {
 					<li>The [______] man is very experienced.</li>
 					<li className="margin-bottom-20 list-none">Người đàn ông [dẫn-dắt-dự-án] thì rất có kinh nghiệm.</li>
 			
-					<li className="list-none">Hình thái: [project-leading] - Động Cơ [Verb Base] khối hành động phức hợp quy về dạng đơn lẻ mang đuôi "-ing".</li>
+					<li className="list-none">Hình thái: [project-leading] - Động Cơ [Verb Base] dạng cấu hình Thực Động Cơ phức hợp quy về dạng từ đơn mang đuôi "-ing".</li>
 			
 					<li className="list-none">Chức năng: [project-leading] - Tính Cơ [Adjective Base] đứng trước thực thể "man" để mô tả tính chất trực tiếp.</li>
 			
@@ -534,7 +555,7 @@ export default function ThreeDC1(): React.ReactElement {
 					<li>The man [______] is very experienced.</li>
 					<li className="margin-bottom-20 list-none">Người đàn ông [dẫn dắt dự án] thì rất có kinh nghiệm.</li>
 			
-					<li className="list-none">Hình thái: [leading the project] - Động Cụm [Verb Phrase] khối hành động tinh gọn bắt đầu bằng một Thủ Động Cơ mang đuôi "-ing".</li>
+					<li className="list-none">Hình thái: [leading the project] - Động Cụm [Verb Phrase] khối hành động tinh gọn bắt đầu bằng một Thực Động Cơ mang đuôi "-ing".</li>
 			
 					<li className="list-none">Chức năng: [leading the project] - Tính Cụm [Adjective Phrase] thực hiện việc bổ nghĩa cho thực thể đứng trước mà không cần cấu trúc câu con.</li>
 			
@@ -552,9 +573,9 @@ export default function ThreeDC1(): React.ReactElement {
 					<li>I don't know [______].</li>
 					<li className="margin-bottom-20 list-none">Tôi không biết [tôi nên mua cái gì tiếp theo].</li>
 			
-					<li className="list-none">Hình thái: [what I should purchase next] - Động Câu [Verb Clause] khối chứa cấu trúc câu con đầy đủ có Danh Chủ "I" và tổ hợp động cụm phối hợp giữa Thái Động Cơ "should" và Động Cơ gốc "purchase".</li>
+					<li className="list-none">Hình thái: [what I should purchase next] - Động Câu [Verb Clause] khối chứa cấu trúc câu con đầy đủ có Danh Chủ "I" và tổ hợp động cụm phối hợp giữa Thái Động Cơ "should" và Động Cơ gốc dạng Thực Động Cơ "purchase".</li>
 			
-					<li className="list-none">Chức năng: [what I should purchase next] - Danh Câu [Noun Clause] làm khối Danh Nhận chịu tác động từ hành động của Thủ Động Cơ "know".</li>
+					<li className="list-none">Chức năng: [what I should purchase next] - Danh Câu [Noun Clause] làm khối Danh Nhận chịu tác động từ hành động của Thời-Thực Động Cơ "know".</li>
 			
 				</ul>
 			
@@ -568,14 +589,14 @@ export default function ThreeDC1(): React.ReactElement {
 					<li>I don't know [______].</li>
 					<li className="margin-bottom-20 list-none">Tôi không biết [phải mua cái gì tiếp theo].</li>
 			
-					<li className="list-none">Hình thái: [what to purchase next] - Động Cụm [Verb Phrase] khối hành động tinh gọn chứa dạng "to + Động Cơ".</li>
+					<li className="list-none">Hình thái: [what to purchase next] - Động Cụm [Verb Phrase] khối hành động tinh gọn chứa cấu hình Thực Động Cơ dạng "to + Động Cơ".</li>
 			
-					<li className="list-none">Chức năng: [what to purchase next] - Danh Cụm [Noun Phrase] giữ nguyên vai trò làm Danh Nhận chịu tác động dưới sự điều phối của Thủ Động Cơ "know" nhưng quy đổi về cấp độ cụm.</li>
+					<li className="list-none">Chức năng: [what to purchase next] - Danh Cụm [Noun Phrase] giữ nguyên vai trò làm Danh Nhận chịu tác động dưới sự điều phối của Thời-Thực Động Cơ "know" nhưng quy đổi về cấp độ cụm.</li>
 			
 				</ul>
 			
 			
-			<p className="margin-top-20 text-indent-whole">Lưu ý: Hình thái Giới Cụm [Prepositional Phrase] không có khả năng đảm nhận chức năng Danh làm Danh Chủ hoặc Danh Nhận cốt lõi trong sơ đồ này nên không tham gia vào cấu trúc paraphrasing của trục Danh.</p>
+			<p className="margin-top-20 text-indent-whole">Lưu ý: Hình thái Giới Cụm [Prepositional Phrase] không có khả năng đảm nhận chức năng Danh làm Danh Chủ hoặc Danh Nhận cốt lõi trong sơ đồ này nên không tham gia vào cấu trúc paraphrasing của trục Danh</p>
 
 
 
@@ -583,7 +604,7 @@ export default function ThreeDC1(): React.ReactElement {
 
 			<h3 className="margin-y-50 text-center">VI. TUYỆT CHIÊU PHÂN BIỆT ĐỘNG CÂU THẦN TỐC BẰNG MẸO THẾ THÂN</h3>
 
-			<p>Khi gặp các từ liên kết đa năng như that, when, where, người học chỉ biết hình thái của nó là một Động Câu [Verb Clause] chứ rất khó phân biệt nó đang làm chức năng gì.</p>
+			<p>Khi gặp các từ liên kết đa năng như [that], [when], [where], người học chỉ biết hình thái của nó là một Động Câu [Verb Clause] chứ rất khó phân biệt nó đang làm chức năng gì.</p>
 
 			<p>Hãy áp dụng ngay phương pháp "<strong>Thế thân</strong>" (<strong>Substitution</strong>) dựa trên việc thay thế bằng một khối mức độ Cơ cơ bản:</p>
 			
@@ -620,7 +641,7 @@ export default function ThreeDC1(): React.ReactElement {
 						<li>I will meet you [<strong>______</strong>].</li>
 						<li className="margin-bottom-20 list-none">Tôi sẽ gặp bạn [<strong>ở đó</strong>].</li>
 						
-						<li className="list-none">→ Hợp lý! Khối này thực thi chức năng <strong>Trạng Câu</strong> [<strong>Adverb Clause</strong>] chỉ nơi chốn dưới sự quản lý của Thủ Động Cơ "meet".</li>
+						<li className="list-none">→ Hợp lý! Khối này thực thi chức năng <strong>Trạng Câu</strong> [<strong>Adverb Clause</strong>] chỉ nơi chốn dưới sự quản lý của Thời-Thực Động Cơ "meet".</li>
 				
 					</ul>
 			
@@ -662,7 +683,7 @@ export default function ThreeDC1(): React.ReactElement {
 						<li>I don't remember [<strong>______</strong>].</li>
 						<li className="margin-bottom-20 list-none">Tôi không nhớ [<strong>điều gì</strong>].</li>
 
-						<li className="list-none">→ Hợp lý! Khối này đáp ứng chức năng <strong>Danh Câu</strong> [<strong>Noun Clause</strong>] làm khối Danh Nhận tiếp nhận hành động của Thủ Động Cơ "remember".</li>
+						<li className="list-none">→ Hợp lý! Khối này đáp ứng chức năng <strong>Danh Câu</strong> [<strong>Noun Clause</strong>] làm khối Danh Nhận tiếp nhận hành động của Thời-Thực Động Cơ "remember".</li>
 				
 					</ul>
 
@@ -804,7 +825,7 @@ export default function ThreeDC1(): React.ReactElement {
 
 			<p>Tư duy tiếng Anh theo hệ thống hai chiều Hình thái và Chức năng chính là chiếc la bàn giúp bạn không bao giờ bị lạc trong các cấu trúc phức tạp.</p>
 
-			<p>Khi bạn đã làm chủ được khả năng nhận diện hình thái khách quan, xác định chức năng chuẩn xác theo vị trí đứng, thấu hiểu cấu trúc lồng ghép đa tầng tinh vi của cơ chế phân tầng dựa trên hệ thống điểm neo của Thủ Động Cơ và các hiện tượng ẩn liên biến hình linh hoạt, tư duy ngôn ngữ của bạn đã chính thức bước sang ngưỡng cửa của một người làm chủ tiếng Anh trình độ Advanced.</p>
+			<p>Khi bạn đã làm chủ được khả năng nhận diện hình thái khách quan, xác định chức năng chuẩn xác theo vị trí đứng, thấu hiểu cấu trúc lồng ghép đa tầng tinh vi của cơ chế phân tầng dựa trên hệ thống điểm neo của 5 loại Động Cơ cốt lõi cùng các hiện tượng ẩn liên biến hình linh hoạt, tư duy ngôn ngữ của bạn đã chính thức bước sang ngưỡng cửa của một người làm chủ tiếng Anh trình độ Advanced.</p>
 			
 
 			<div className="viewcounter">
