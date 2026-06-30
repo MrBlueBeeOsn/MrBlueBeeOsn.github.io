@@ -36,7 +36,7 @@ export default function Respond(): React.JSX.Element {
               <li>Please [______] to this email.</li>
               <li className="margin-bottom-20 list-none">Hãy [phản hồi] email này.</li>
 
-              <li className="list-none">Hình thái: [respond] - Thủ Động Cơ [Head Verb Base] nguyên mẫu, làm hành động chính tác động lên thành phần chịu tác động "this email".</li>
+              <li className="list-none">Hình thái: [respond] - Thực Động Cơ [Action Verb Base] dạng nguyên mẫu đứng sau Thái Động Cơ [Modal Verb Base] ẩn/khuyết trong câu mệnh lệnh, thực thi hành động tác động lên thành phần chịu tác động "this email".</li>
           
             </ul>
 
@@ -128,7 +128,7 @@ export default function Respond(): React.JSX.Element {
           <li>You [______].</li>
           <li className="margin-bottom-20 list-none">Bạn [phản hồi email].</li>
       
-          <li className="list-none">Hình thái: [respond to the email] - Động Cụm [Verb Phrase] hiển thị dưới dạng một vùng mã mở rộng chứa nhiều thành phần gồm Thủ Động Cơ [Head Verb Base] phản hồi thiết lập theo thời hiện tại và đối tượng của nó.</li>
+          <li className="list-none">Hình thái: [respond to the email] - Động Cụm [Verb Phrase] hiển thị dưới dạng một vùng mã mở rộng chứa nhiều thành phần gồm Thời-Thực Động Cơ [Tense-Action Verb Base] phản hồi thiết lập theo thời hiện tại và đối tượng của nó.</li>
       
           <li className="list-none">Chức năng: [respond to the email] - Danh Cụm [Noun Phrase] chịu trách nhiệm làm một vùng đầu việc lớn cần thực hiện (Danh Nhận) được thiết lập phía sau thành phần nền tảng Danh Chủ "You".</li>
       
@@ -147,7 +147,7 @@ export default function Respond(): React.JSX.Element {
           <li>The next client [______] will get a discount.</li>
           <li className="margin-bottom-20 list-none">Khách hàng tiếp theo [sắp sửa phản hồi lại cuộc khảo sát] sẽ nhận được mã giảm giá.</li>
       
-          <li className="list-none">Hình thái: [to respond to the survey] - Động Cụm [Verb Phrase] ở dạng hành động nguyên mẫu có "to" để biểu thị tính chủ động hướng tới tương lai.</li>
+          <li className="list-none">Hình thái: [to respond to the survey] - Động Cụm [Verb Phrase] chứa Thực Động Cơ [Action Verb Base] ở dạng nguyên mẫu có "to" để biểu thị tính chủ động hướng tới tương lai.</li>
       
           <li className="list-none">Chức năng: [to respond to the survey] - Tính Cụm [Adjective Phrase] đặt ngay sau đối tượng "client" để quét và hiển thị đặc điểm hành động sắp sửa xảy ra mang tính chủ động của đối tượng đó.</li>
       
@@ -163,7 +163,7 @@ export default function Respond(): React.JSX.Element {
           <li>The urgent emails [______] are on the desk.</li>
           <li className="margin-bottom-20 list-none">Các email khẩn cấp [sắp sửa được phản hồi bởi người quản lý] đang ở trên bàn.</li>
       
-          <li className="list-none">Hình thái: [to be responded to by the manager] - Động Cụm [Verb Phrase] hiển thị dưới dạng cấu trúc "to be + V3/-ed" kết hợp phần mở rộng phương thức để biểu thị trạng thái bị động hướng tới tương lai.</li>
+          <li className="list-none">Hình thái: [to be responded to by the manager] - Động Cụm [Verb Phrase] hiển thị dưới dạng cấu trúc "to be + V3/-ed" (chứa Thực Động Cơ [Action Verb Base] biến đổi hình thái bị động) kết hợp phần mở rộng phương thức để biểu thị trạng thái bị động hướng tới tương lai.</li>
       
           <li className="list-none">Chức năng: [to be responded to by the manager] - Tính Cụm [Adjective Phrase] kích hoạt cơ chế bộ quét đặt ngay sau đối tượng "emails" để mô tả đặc điểm trạng thái sắp sửa được tác động của đối tượng đó.</li>
       
@@ -179,7 +179,7 @@ export default function Respond(): React.JSX.Element {
           <li>The client [______] will get a discount.</li>
           <li className="margin-bottom-20 list-none">Khách hàng [đang phản hồi lại cuộc khảo sát] sẽ nhận được mã giảm giá.</li>
       
-          <li className="list-none">Hình thái: [responding to the survey] - Động Cụm [Verb Phrase] ở dạng hành động thêm đuôi "-ing" để biểu thị tính chủ động đang xảy ra.</li>
+          <li className="list-none">Hình thái: [responding to the survey] - Động Cụm [Verb Phrase] chứa Thực Động Cơ [Action Verb Base] thêm đuôi "-ing" để biểu thị tính chủ động đang xảy ra.</li>
       
           <li className="list-none">Chức năng: [responding to the survey] - Tính Cụm [Adjective Phrase] đặt ngay sau đối tượng "client" để quét và hiển thị đặc điểm hành động chủ động của đối tượng đó.</li>
       
@@ -193,9 +193,9 @@ export default function Respond(): React.JSX.Element {
         <ul className="list-square">
       
           <li>The emails [______] were polite.</li>
-          <li className="margin-bottom-20 list-none">Các email [được phản hồi bởi nhân viên] đã rất lịch sự.</li>
+          <li className="margin-bottom-20 list-none">Các email [đã được phản hồi bởi nhân viên] đã rất lịch sự.</li>
       
-          <li className="list-none">Hình thái: [responded to by the staff] - Động Cụm [Verb Phrase] hiển thị dưới dạng một vùng mã chứa Thời Động Cơ [Tense Verb Base] phản hồi ở dạng bị động thuộc trục thời quá khứ và phần mở rộng phương thức.</li>
+          <li className="list-none">Hình thái: [responded to by the staff] - Động Cụm [Verb Phrase] hiển thị dưới dạng một vùng mã chứa Thực Động Cơ [Action Verb Base] ở dạng bị động thuộc trục thời quá khứ và phần mở rộng phương thức.</li>
       
           <li className="list-none">Chức năng: [responded to by the staff] - Tính Cụm [Adjective Phrase] kích hoạt cơ chế bộ quét đặt ngay sau đối tượng "emails" để mô tả đặc điểm trạng thái bị động hoàn thành của đối tượng đó.</li>
       
@@ -211,7 +211,7 @@ export default function Respond(): React.JSX.Element {
           <li>We need a partner [______].</li>
           <li className="margin-bottom-20 list-none">Chúng tôi cần một đối tác [có khả năng phản hồi các tình huống khẩn cấp].</li>
       
-          <li className="list-none">Hình thái: [capable of responding to emergencies] - Cụm thành phần bắt đầu bằng mã đặc điểm gốc kết hợp mở rộng giới cụm phía sau.</li>
+          <li className="list-none">Hình thái: [capable of responding to emergencies] - Cụm thành phần bắt đầu bằng mã đặc điểm gốc kết hợp mở rộng giới cụm phía sau (chứa Thực Động Cơ [Action Verb Base] dạng -ing sau Giới Cơ).</li>
       
           <li className="list-none">Chức năng: [capable of responding to emergencies] - Tính Cụm [Adjective Phrase] đặt ngay sau đối tượng "partner" để quét và xác định năng lực, đặc điểm của đối tượng đó.</li>
       
@@ -220,16 +220,66 @@ export default function Respond(): React.JSX.Element {
       
       <p className="margin-top-20 text-indent-whole"><strong>Hình thành chức năng Trạng Cụm</strong> [<strong>Adverb Phrase</strong>]</p>
 
-      <p className="margin-top-20 text-indent-whole">Ví dụ 6: [to respond to the complaints]</p>
+      <p className="margin-top-20 text-indent-whole"><strong>Trạng Cụm dạng</strong> -<strong>to V</strong>:</p>
+
+      <p className="margin-top-20 text-indent-whole">Ví dụ 6a: [to respond to the complaints]</p>
       
         <ul className="list-square">
       
           <li>She called them [______].</li>
           <li className="margin-bottom-20 list-none">Cô ấy đã gọi cho họ [để phản hồi những lời phàn nàn].</li>
       
-          <li className="list-none">Hình thái: [to respond to the complaints] - Động Cụm [Verb Phrase] định hình dưới dạng một vùng mã hành động mở rộng bắt đầu bằng hạt nhân nguyên mẫu có "to".</li>
+          <li className="list-none">Hình thái: [to respond to the complaints] - Động Cụm [Verb Phrase] định hình dưới dạng một vùng mã hành động đứng cuối câu, bắt đầu bằng Thực Động Cơ [Action Verb Base] nguyên mẫu có "to".</li>
       
-          <li className="list-none">Chức năng: [to respond to the complaints] - Trạng Cụm [Adverb Phrase] đảm nhận vai trò làm một khối bối cảnh mục đích đứng sau bổ nghĩa cho hành động "called them".</li>
+          <li className="list-none">Chức năng: [to respond to the complaints] - Trạng Cụm [Adverb Phrase] đảm nhận vai trò làm một khối bối cảnh mục đích đứng sau để bổ nghĩa cho hành động "called them".</li>
+      
+        </ul>
+
+      
+      <p className="margin-top-20 text-indent-whole"><strong>Trạng Cụm dạng</strong> -<strong>to V</strong> (<strong>có dấu phẩy</strong>):</p>
+
+      <p className="margin-top-20 text-indent-whole">Ví dụ 6b: [To respond to the complaints promptly]</p>
+      
+        <ul className="list-square">
+      
+          <li>[______], she called them immediately.</li>
+          <li className="margin-bottom-20 list-none">[Để phản hồi những lời phàn nàn kịp thời], cô ấy đã gọi cho họ ngay lập tức.</li>
+      
+          <li className="list-none">Hình thái: [To respond to the complaints promptly] - Động Cụm [Verb Phrase] bắt đầu bằng Thực Động Cơ [Action Verb Base] nguyên mẫu có "to", được đảo lên đứng biệt lập ở đầu câu và ngăn cách bằng dấu phẩy.</li>
+      
+          <li className="list-none">Chức năng: [To respond to the complaints promptly] - Trạng Cụm [Adverb Phrase] đảm nhận nhiệm vụ làm khối bối cảnh mục đích nhấn mạnh cho toàn bộ câu chính phía sau.</li>
+      
+        </ul>
+
+
+      <p className="margin-top-20 text-indent-whole"><strong>Trạng Cụm dạng</strong> -<strong>ing</strong>:</p>
+
+      <p className="margin-top-20 text-indent-whole">Ví dụ 6c: [responding to the customer surveys]</p>
+      
+        <ul className="list-square">
+      
+          <li>She spent the whole afternoon [______].</li>
+          <li className="margin-bottom-20 list-none">Cô ấy đã dành cả buổi chiều [cho việc phản hồi các cuộc khảo sát khách hàng].</li>
+      
+          <li className="list-none">Hình thái: [responding to the customer surveys] - Động Cụm [Verb Phrase] chứa Thực Động Cơ [Action Verb Base] dạng đuôi "-ing" đứng ở phần sau câu nhằm làm rõ tiến trình nội dung.</li>
+      
+          <li className="list-none">Chức năng: [responding to the customer surveys] - Trạng Cụm [Adverb Phrase] đóng vai trò làm khối bối cảnh cách thức/nội dung đi kèm để bổ nghĩa trực tiếp cho cấu trúc hành động "spent the whole afternoon" phía trước.</li>
+      
+        </ul>
+
+
+      <p className="margin-top-20 text-indent-whole"><strong>Trạng Cụm dạng</strong> -<strong>ing</strong> (<strong>có dấu phẩy</strong>):</p>
+
+      <p className="margin-top-20 text-indent-whole">Ví dụ 6d: [Responding to the client promptly],</p>
+      
+        <ul className="list-square">
+      
+          <li>[______], she resolved the issue.</li>
+          <li className="margin-bottom-20 list-none">[Do phản hồi khách hàng kịp thời], cô ấy đã giải quyết xong vấn đề.</li>
+      
+          <li className="list-none">Hình thái: [Responding to the client promptly] - Động Cụm [Verb Phrase] đứng biệt lập ở đầu câu, ngăn cách bằng dấu phẩy, mang Thực Động Cơ [Action Verb Base] dạng "-ing" do được rút gọn từ một hệ Động Câu Trạng phụ thuộc cùng chủ ngữ.</li>
+      
+          <li className="list-none">Chức năng: [Responding to the client promptly] - Trạng Cụm [Adverb Phrase] đóng vai trò làm một khối bối cảnh nguyên nhân/phương thức tổng thể để bổ nghĩa cho toàn bộ câu chính phía sau.</li>
       
         </ul>
 
@@ -241,6 +291,8 @@ export default function Respond(): React.JSX.Element {
       
       
       <p className="margin-top-20 text-indent-whole"><strong>Hình thành chức năng Tính Cụm</strong> [<strong>Adjective Phrase</strong>]</p>
+
+      <p className="margin-top-20 text-indent-whole"><strong>Tính Cụm dạng Giới Cụm</strong>:</p>
 
       <p className="margin-top-20 text-indent-whole">Ví dụ 7: [in his response]</p>
       
@@ -258,7 +310,9 @@ export default function Respond(): React.JSX.Element {
       
       <p className="margin-top-20 text-indent-whole"><strong>Hình thành chức năng Trạng Cụm</strong> [<strong>Adverb Phrase</strong>]</p>
 
-      <p className="margin-top-20 text-indent-whole">Ví dụ 8: [based on customer response]</p>
+      <p className="margin-top-20 text-indent-whole"><strong>Trạng Cụm dạng Giới Cụm</strong>:</p>
+
+      <p className="margin-top-20 text-indent-whole">Ví dụ 8a: [based on customer response]</p>
       
         <ul className="list-square">
       
@@ -272,12 +326,28 @@ export default function Respond(): React.JSX.Element {
         </ul>
 
 
+      <p className="margin-top-20 text-indent-whole"><strong>Trạng Cụm dạng Giới Cụm</strong> (<strong>có dấu phẩy</strong>):</p>
+
+      <p className="margin-top-20 text-indent-whole">Ví dụ 8b: [In response to the complaints],</p>
+      
+        <ul className="list-square">
+      
+          <li>[______], they modified the system.</li>
+          <li className="margin-bottom-20 list-none">[Nhằm phản hồi lại các lời phàn nàn], họ đã sửa đổi hệ thống.</li>
+      
+          <li className="list-none">Hình thái: [In response to the complaints] - Giới Cụm [Prepositional Phrase] bắt đầu bằng Giới Cơ "In" kéo theo vùng cụm danh từ phía sau, được đảo lên đứng biệt lập ở đầu câu và ngăn cách bằng dấu phẩy.</li>
+      
+          <li className="list-none">Chức năng: [In response to the complaints] - Trạng Cụm [Adverb Phrase] đảm nhận nhiệm vụ thiết lập một khối bối cảnh mục đích/nguyên nhân tổng thể để bổ nghĩa cho toàn bộ câu chính phía sau.</li>
+      
+        </ul>
+
+
 
       <h4 className="margin-y-40">4. Phân hệ Động Câu [Verb Clause]</h4>
 
       <p className="margin-top-20 text-indent-whole">Khi vùng mã mở rộng thành một phân hệ chứa một câu con hoàn chỉnh có cả thành phần nền tảng Danh Chủ riêng và Động Cơ riêng, người học xác định được diện mạo vật lý Động Câu [Verb Clause].</p>
 
-      <p className="margin-top-20 text-indent-whole">Bản chất vật lý: Động Câu tuy mang hình thái của một câu con hoàn chỉnh nhưng không thể đứng một mình độc lập để tạo thành một câu có nghĩa trọn vẹn. Nó luôn lồng ghép vào hệ thống câu tổng thể để thực thi một chức năng phụ thuộc.</p>
+      <p className="margin-top-20 text-indent-whole"><strong>Bản chất vật lý</strong>: Động Câu tuy mang hình thái của một câu con hoàn chỉnh nhưng <strong>không thể đứng một mình độc lập</strong> để tạo thành một câu có nghĩa trọn vẹn. Nó luôn lồng ghép vào hệ thống câu tổng thể để thực thi một chức năng phụ thuộc.</p>
 
       <p className="margin-top-20 text-indent-whole">Dựa trên sự xuất hiện của mã kết nối, Động Câu được chia làm 2 phân hệ vận hành:</p>
 
@@ -296,7 +366,7 @@ export default function Respond(): React.JSX.Element {
           <li>I know [______].</li>
           <li className="margin-bottom-20 list-none">Tôi biết [cách mà bạn phản hồi].</li>
       
-          <li className="list-none">Hình thái: [how you respond] - Động Câu [Verb Clause] chứa thành phần liên kết trực quan ở đầu, thiết lập trên trục thời hiện tại, có Danh Chủ "you" và Thủ Động Cơ [Head Verb Base] "respond".</li>
+          <li className="list-none">Hình thái: [how you respond] - Động Câu [Verb Clause] chứa thành phần liên kết trực quan ở đầu, có Danh Chủ "you" và Thời-Thực Động Cơ [Tense-Action Verb Base] "respond" thiết lập trên trục thời hiện tại.</li>
       
           <li className="list-none">Chức năng: [how you respond] - Danh Câu [Noun Clause] trở thành Danh Nhận chứa dữ liệu mục tiêu chịu tác động từ hành động "know".</li>
       
@@ -312,7 +382,7 @@ export default function Respond(): React.JSX.Element {
           <li>The person [______] is my manager.</li>
           <li className="margin-bottom-20 list-none">Người [người mà đã phản hồi email của tôi] là quản lý của tôi.</li>
       
-          <li className="list-none">Hình thái: [who responded to my email] - Động Câu [Verb Clause] chứa mã liên kết chỉ người đứng đầu, mang hạt nhân Thời Động Cơ [Tense Verb Base] "responded" thuộc trục thời quá khứ.</li>
+          <li className="list-none">Hình thái: [who responded to my email] - Động Câu [Verb Clause] chứa mã liên kết chỉ người đứng đầu, mang hạt nhân Thời-Thực Động Cơ [Tense-Action Verb Base] "responded" xử lý bối cảnh thuộc trục thời quá khứ.</li>
       
           <li className="list-none">Chức năng: [who responded to my email] - Tính Câu [Adjective Clause] hoạt động như một module lọc bổ sung đặt sau một khối tên gọi để nhận diện đối tượng "person".</li>
       
@@ -328,7 +398,7 @@ export default function Respond(): React.JSX.Element {
           <li>We modified the plan [______].</li>
           <li className="margin-bottom-20 list-none">Chúng tôi đã sửa đổi kế hoạch [vì khách hàng phản hồi quá trễ].</li>
       
-          <li className="list-none">Hình thái: [because the client responded too late] - Động Câu [Verb Clause] kích hoạt ngay sau Liên Cơ [Connector Base] nguyên nhân "because", chứa Danh Chủ "the client" và Thời Động Cơ [Tense Verb Base] "responded" mang dấu mốc trục thời quá khứ.</li>
+          <li className="list-none">Hình thái: [because the client responded too late] - Động Câu [Verb Clause] kích hoạt ngay sau Liên Cơ [Connector Base] nguyên nhân "because", chứa Danh Chủ "the client" và Thời-Thực Động Cơ [Tense-Action Verb Base] "responded" mang dấu mốc trục thời quá khứ.</li>
       
           <li className="list-none">Chức năng: [because the client responded too late] - Trạng Câu [Adverb Clause] thiết lập module bối cảnh để bổ nghĩa cho toàn bộ câu chính "We modified the plan" đứng trước.</li>
       
@@ -350,9 +420,9 @@ export default function Respond(): React.JSX.Element {
           <li>I believe [______].</li>
           <li className="margin-bottom-20 list-none">Tôi tin [bạn đã phản hồi cho người quản lý].</li>
       
-          <li className="list-none">Hình thái: [you responded to the manager] - Động Câu [Verb Clause] đã ẩn Liên Cơ [Connector Base] định hướng "that", chỉ còn hiển thị trọn vẹn khối Danh Chủ "you" và Thời Động Cơ [Tense Verb Base] "responded".</li>
+          <li className="list-none">Hình thái: [you responded to the manager] - Động Câu [Verb Clause] đã ẩn Liên Cơ [Connector Base] định hướng "that", chỉ còn hiển thị trọn vẹn khối Danh Chủ "you" và Thời-Thực Động Cơ [Tense-Action Verb Base] "responded".</li>
       
-          <li className="list-none">Chức năng: [you responded to the manager] - Danh Câu [Noun Clause] đóng vai trò làm Danh Nhận nhận toàn bộ năng lượng niềm tin từ Thủ Động Cơ [Head Verb Base] "believe".</li>
+          <li className="list-none">Chức năng: [you responded to the manager] - Danh Câu [Noun Clause] đóng vai trò làm Danh Nhận nhận toàn bộ năng lượng niềm tin từ Thời-Thực Động Cơ [Tense-Action Verb Base] "believe".</li>
       
         </ul>
       
@@ -366,7 +436,7 @@ export default function Respond(): React.JSX.Element {
           <li>The email [______] was very professional.</li>
           <li className="margin-bottom-20 list-none">Bức email [mà nhân viên phản hồi] đã rất chuyên nghiệp.</li>
       
-          <li className="list-none">Hình thái: [the staff responded to] - Động Câu [Verb Clause] đã ẩn mã liên kết vật thể đứng trước, giữ lại khối Danh Chủ "the staff" và Thời Động Cơ [Tense Verb Base] "responded to".</li>
+          <li className="list-none">Hình thái: [the staff responded to] - Động Câu [Verb Clause] đã ẩn mã liên kết vật thể đứng trước, giữ lại khối Danh Chủ "the staff" và Thời-Thực Động Cơ [Tense-Action Verb Base] "responded to".</li>
       
           <li className="list-none">Chức năng: [the staff responded to] - Tính Câu [Adjective Clause] đóng vai trò như bộ quét đặt ngay sau đối tượng "The email" để làm rõ đặc điểm cho đối tượng này.</li>
       
@@ -382,7 +452,7 @@ export default function Respond(): React.JSX.Element {
           <li>[______], we will close the case.</li>
           <li className="margin-bottom-20 list-none">[Nếu bạn phản hồi cho khách hàng trong hôm nay], chúng tôi sẽ đóng hồ sơ.</li>
       
-          <li className="list-none">Hình thái: [Should you respond to the client today] - Động Câu [Verb Clause] vận hành ở trạng thái ẩn Liên Cơ [Connector Base] điều kiện "if" bằng giải pháp đảo Thái Động Cơ [Modal Verb Base] "Should" lên trước, tuy cấu trúc bề mặt biến đổi nhưng bản chất vẫn giữ trọn vẹn Danh Chủ "you" và Thủ Động Cơ [Head Verb Base] "respond".</li>
+          <li className="list-none">Hình thái: [Should you respond to the client today] - Động Câu [Verb Clause] vận hành ở trạng thái ẩn Liên Cơ [Connector Base] điều kiện "if" bằng giải pháp đảo Thái Động Cơ [Modal Verb Base] "Should" (kiêm nhiệm vai trò Thời Động Cơ [Tense Verb Base] hiện tại) lên trước, tuy cấu trúc bề mặt biến đổi nhưng bản chất vẫn giữ trọn vẹn Danh Chủ "you" và Thực Động Cơ [Action Verb Base] "respond".</li>
       
           <li className="list-none">Chức năng: [Should you respond to the client today] - Trạng Câu [Adverb Clause] đảm nhận nhiệm vụ thiết lập khối bối cảnh giả định/điều kiện để bổ nghĩa cho toàn bộ câu chính phía sau.</li>
       
@@ -410,9 +480,9 @@ export default function Respond(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>Hình thái: [discuss {'{how the system responds}'}] - Động Cụm [Verb Phrase] biểu thị dưới dạng vùng mã lớn bắt đầu ngay từ Thủ Động Cơ [Head Verb Base] "discuss" đến hết câu.</li>
+          <li>Hình thái: [discuss {'{how the system responds}'}] - Động Cụm [Verb Phrase] biểu thị dưới dạng vùng mã lớn bắt đầu ngay từ Thời-Thực Động Cơ [Tense-Action Verb Base] "discuss" đến hết câu.</li>
       
-          <li>Chức năng: [discuss {'{how the system responds}'}] - Danh Cụm [Noun Phrase] đóng vai trò một khối mã bao bọc vùng đầu việc lớn cho Danh Chủ "We".</li>
+          <li>Chức năng: [discuss {'{how the system responds}'}] - <strong>Danh Cụm</strong> [<strong>Noun Phrase</strong>] đóng vai trò một khối mã bao bọc vùng đầu việc lớn cho Danh Chủ "We".</li>
       
         </ul>
 
@@ -420,9 +490,9 @@ export default function Respond(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>Hình thái: {'{how the system responds}'} - Động Câu [Verb Clause] định hình dưới dạng khối mã con nằm gọn bên trong, chứa đầy đủ Danh Chủ riêng "the system" và Thời Động Cơ [Tense Verb Base] riêng "responds".</li>
+          <li>Hình thái: {'{how the system responds}'} - Động Câu [Verb Clause] định hình dưới dạng khối mã con nằm gọn bên trong, chứa đầy đủ Danh Chủ riêng "the system" và Thời-Thực Động Cơ [Tense-Action Verb Base] riêng "responds".</li>
       
-          <li>Chức năng: {'{how the system responds}'} - Danh Câu [Noun Clause] đóng vai trò làm Danh Nhận chịu sự điều phối trực tiếp của Thủ Động Cơ [Head Verb Base] "discuss".</li>
+          <li>Chức năng: {'{how the system responds}'} - Danh Câu [Noun Clause] đóng vai trò làm Danh Nhận chịu sự điều phối trực tiếp của Động Cơ ở tầng ngoài.</li>
       
         </ul>
 
@@ -452,7 +522,7 @@ export default function Respond(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>Hình thái: {'{how the machine responds}'} - Động Câu [Verb Clause] định hình dưới dạng khối mã con nằm gọn bên trong, chứa Danh Chủ "the machine" và Thời Động Cơ [Tense Verb Base] "responds" thiết lập theo trục thời hiện tại.</li>
+          <li>Hình thái: {'{how the machine responds}'} - Động Câu [Verb Clause] định hình dưới dạng khối mã con nằm gọn bên trong, chứa Danh Chủ "the machine" và Thời-Thực Động Cơ [Tense-Action Verb Base] "responds" thiết lập theo trục thời hiện tại.</li>
       
           <li>Chức năng: {'{how the machine responds}'} - Danh Câu [Noun Clause] đóng vai trò làm Danh Nhận chịu sự điều phối trực tiếp của Giới Cơ "about" ở tầng ngoài.</li>
       
@@ -485,7 +555,7 @@ export default function Respond(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>Hình thái: {'{where he responded}'} - Động Câu [Verb Clause] định hình dưới dạng khối mã con nằm gọn bên trong, chứa Danh Chủ riêng "he" và Thời Động Cơ [Tense Verb Base] riêng "responded" thuộc trục thời quá khứ.</li>
+          <li>Hình thái: {'{where he responded}'} - Động Câu [Verb Clause] định hình dưới dạng khối mã con nằm gọn bên trong, chứa Danh Chủ riêng "he" và Thời-Thực Động Cơ [Tense-Action Verb Base] riêng "responded" thuộc trục thời quá khứ.</li>
       
           <li>Chức năng: {'{where he responded}'} - Danh Câu [Noun Clause] đóng vai trò làm Danh Nhận chịu sự điều phối trực tiếp của Giới Cơ "at" ở tầng ngoài.</li>
       
@@ -497,7 +567,7 @@ export default function Respond(): React.JSX.Element {
 
 			<h3 className="margin-y-50 text-center">PHẦN 2: ỨNG DỤNG ĐỘT PHÁ – GIẢI MÃ PARAPHRASING BẰNG KỸ THUẬT "THẾ KHỐI"</h3>
 
-      <p>Khi tư duy đã chuyển sang nhận diện hệ thống theo Hình thái trước - Chức năng sau, việc viết lại câu (Paraphrasing) trở thành bài toán lập trình thuần túy: Thay thế các khối mã có cùng chức năng đầu ra mà không cần phá vỡ hay làm biến dạng thiết lập tổng thể của câu.</p>
+      <p>Khi tư duy đã chuyển sang nhận diện hệ thống theo <strong>Hình thái trước</strong> - <strong>Chức năng sau</strong>, việc viết lại câu (Paraphrasing) trở thành bài toán lập trình thuần túy: <strong>Thay thế các khối mã có cùng chức năng đầu ra</strong> mà không cần phá vỡ hay làm biến dạng thiết lập tổng thể của câu.</p>
 
       <p>Người học có thể tự do nâng cấp hoặc hạ cấp các khối mã giữa các mức độ Cơ, Cụm, và Câu một cách linh hoạt dựa trên sơ đồ phân loại hình thái và sắp xếp theo thứ tự ưu tiên hệ Động trước, hệ Giới sau cùng.</p>
 
@@ -513,7 +583,7 @@ export default function Respond(): React.JSX.Element {
           <li>[______] is necessary.</li>
           <li className="margin-bottom-20 list-none">[Việc phản hồi email] thì cần thiết.</li>
       
-          <li className="list-none">Hình thái gốc: [Responding to emails] - Động Cụm [Verb Phrase] biểu hiện dưới dạng khối mã mở rộng chứa hành động phản hồi thêm đuôi "-ing" và đối tượng đi kèm.</li>
+          <li className="list-none">Hình thái gốc: [Responding to emails] - Động Cụm [Verb Phrase] biểu hiện dưới dạng khối mã mở rộng chứa Thực Động Cơ [Action Verb Base] phản hồi thêm đuôi "-ing" và đối tượng đi kèm.</li>
       
           <li className="list-none">Chức năng: [Responding to emails] - Danh Cụm [Noun Phrase] vận hành như một phân hệ Danh Chủ để quản lý một đầu việc lớn ở đầu câu.</li>
       
@@ -527,7 +597,7 @@ export default function Respond(): React.JSX.Element {
           <li>[______] is necessary.</li>
           <li className="margin-bottom-20 list-none">[Việc giải quyết các khiếu nại] thì cần thiết.</li>
       
-          <li className="list-none">Hình thái mới: [Handling the complaints] - Động Cụm [Verb Phrase] xuất hiện dưới dạng khối mở rộng mới được đưa vào thế chỗ.</li>
+          <li className="list-none">Hình thái mới: [Handling the complaints] - Động Cụm [Verb Phrase] xuất hiện dưới dạng khối mở rộng mới chứa Thực Động Cơ [Action Verb Base] dạng -ing được đưa vào thế chỗ.</li>
       
           <li className="list-none">Chức năng mới: [Handling the complaints] - Danh Cụm [Noun Phrase] duy trì chính xác chức năng làm thành phần Danh Chủ của khối cũ.</li>
       
@@ -544,7 +614,7 @@ export default function Respond(): React.JSX.Element {
           <li>We modified the plan [______].</li>
           <li className="margin-bottom-20 list-none">Chúng tôi đã sửa đổi kế hoạch [bằng cách phản hồi khách hàng ngay lập tức].</li>
       
-          <li className="list-none">Hình thái gốc: [by responding to clients immediately] - Giới Cụm [Prepositional Phrase] hiển thị dưới dạng một vùng mã chứa Giới Cơ phương thức "by" đi kèm hành động đuôi "-ing" và các thành phần bổ trợ.</li>
+          <li className="list-none">Hình thái gốc: [by responding to clients immediately] - Giới Cụm [Prepositional Phrase] hiển thị dưới dạng một vùng mã chứa Giới Cơ phương thức "by" đi kèm Thực Động Cơ [Action Verb Base] đuôi "-ing" và các thành phần bổ trợ.</li>
       
           <li className="list-none">Chức năng: [by responding to clients immediately] - Trạng Cụm [Adverb Phrase] đảm nhận vai trò làm một khối bối cảnh phương thức đứng sau bổ nghĩa cho hành động chính.</li>
       
@@ -558,7 +628,7 @@ export default function Respond(): React.JSX.Element {
           <li>We modified the plan [______].</li>
           <li className="margin-bottom-20 list-none">Chúng tôi đã sửa đổi kế hoạch [vì khách hàng phản hồi quá trễ].</li>
       
-          <li className="list-none">Hình thái mới: [because the client responded too late] - Động Câu [Verb Clause] hiển thị dưới dạng khối mã chứa đầy đủ Danh Chủ "the client" và hạt nhân Thời Động Cơ [Tense Verb Base] "responded" thiết lập theo trục thời quá khứ đi sau Liên Cơ [Connector Base] "because".</li>
+          <li className="list-none">Hình thái mới: [because the client responded too late] - Động Câu [Verb Clause] hiển thị dưới dạng khối mã chứa đầy đủ Danh Chủ "the client" và hạt nhân Thời-Thực Động Cơ [Tense-Action Verb Base] "responded" thiết lập theo trục thời quá khứ đi sau Liên Cơ [Connector Base] "because".</li>
       
           <li className="list-none">Chức năng mới: [because the client responded too late] - Trạng Câu [Adverb Clause] đảm nhận vai trò bối cảnh nguyên nhân ở cấp độ cao cấp hơn, bổ nghĩa cho toàn bộ câu chính.</li>
       
@@ -574,7 +644,7 @@ export default function Respond(): React.JSX.Element {
           <li>I like a system [______].</li>
           <li className="margin-bottom-20 list-none">Tôi thích một hệ thống [cái mà phản hồi một cách nhanh chóng].</li>
       
-          <li className="list-none">Hình thái gốc: [which responds quickly] - Động Câu [Verb Clause] thiết lập theo dạng phân hệ câu con đầy đủ bổ nghĩa đứng sau một khối tên gọi, chứa thành phần liên kết "which" và Thời Động Cơ [Tense Verb Base] "responds".</li>
+          <li className="list-none">Hình thái gốc: [which responds quickly] - Động Câu [Verb Clause] thiết lập theo dạng phân hệ câu con đầy đủ bổ nghĩa đứng sau một khối tên gọi, chứa thành phần liên kết "which" và Thời-Thực Động Cơ [Tense-Action Verb Base] "responds".</li>
       
           <li className="list-none">Chức năng: [which responds quickly] - Tính Câu [Adjective Clause] đóng vai trò một module lọc nhằm định nghĩa đặc điểm cho đối tượng "system".</li>
       
