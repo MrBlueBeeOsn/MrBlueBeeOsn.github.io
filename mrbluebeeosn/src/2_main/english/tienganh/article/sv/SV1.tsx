@@ -78,8 +78,6 @@ export default function SV1(): React.JSX.Element {
 					<li className="list-none">Nếu hệ trục này đóng vai trò phụ trợ nằm trong một cấu trúc lớn hơn, gọi chung là Phụ Câu.</li>
 			
 				</ul>
-			
-			<p className="margin-top-20"></p>
 
 
 			<p className="margin-top-20">Về mặt quy mô độc lập trong văn bản:</p>
@@ -95,7 +93,6 @@ export default function SV1(): React.JSX.Element {
 				</ul>
 
 			
-			
 
 			{/* II.  */}
 
@@ -103,29 +100,66 @@ export default function SV1(): React.JSX.Element {
 
 			<p>Một sai lầm kinh điển của cách học cũ là bắt người học phải đoán chức năng trước. Với hệ thống mới, quy trình tư duy được đảo ngược một cách tự nhiên và khoa học: Người học nhìn thấy Hình thái trước, sau đó dựa vào vị trí để giải mã ra Chức năng.</p>
 
-			<p>Hạt nhân điều phối hành động trong câu chính là ĐỘNG (Xung lực vận hành), song hành cùng cấu trúc liên kết không hành động là GIỚI. Trục hình thái được chia tách rõ ràng:</p>
+			<p>Hạt nhân điều phối hành động trong câu chính là các dạng Động Cơ (Xung lực vận hành), song hành cùng cấu trúc liên kết không hành động là Giới Cơ. Trục hình thái động cơ được chia tách rõ ràng thành 6 loại cốt lõi sau:</p>
+			
 			
 				<ol>
 			
-					<li value="1"><strong>Động Cơ</strong> [<strong>Verb Base</strong>]:</li>
-					<li className="list-none">Đơn vị hành động nhỏ nhất, gồm 1 từ gốc.</li>
-					<li className="margin-bottom-20 list-none">Hình thái này sẽ đi làm các chức năng: Danh Cơ [Noun Base], Tính Cơ [Adjective Base], hoặc Trạng Cơ [Adverb Base].</li>
+					<li value="1"><strong>Động Cơ</strong> [<strong>Verb Base</strong>]: sleep, walk, eat, take</li>
+					<li className="margin-bottom-20 list-none">Nguyên mẫu gốc (Class cha/Root Class) chưa chịu tác động của thời gian hay trạng thái thực thi. Đây là lõi hành động thuần túy nhất.</li>
 			
-					<li value="2"><strong>Động Cụm</strong> [<strong>Verb Phrase</strong>]:</li>
-					<li className="list-none">Khối hành động chứa nhiều từ, không chứa hệ trục S + V.</li>
-					<li className="margin-bottom-20 list-none">Hình thái này sẽ đi làm các chức năng: Danh Cụm [Noun Phrase], Tính Cụm [Adjective Phrase], hoặc Trạng Cụm [Adverb Phrase].</li>
+					<li value="2"><strong>Thời Động Cơ</strong> [<strong>Tense Verb Base</strong>]: are, am, do, did, will, have</li>
+					<li className="margin-bottom-20 list-none">Đơn vị từ đơn lẻ chịu trách nhiệm thiết lập và xử lý bối cảnh thời gian (hiện tại, quá khứ, tương lai) cho câu.</li>
 
-					<li value="3"><strong>Giới Cụm</strong> [<strong>Prepositional Phrase</strong>]:</li>
-					<li className="list-none">Khối liên kết vị trí, không gian, thời gian không chứa xung lực hành động, không chứa hệ trục S + V.</li>
-					<li className="margin-bottom-20 list-none">Hình thái này sẽ đi làm các chức năng đặc thù: Tính Cụm [Adjective Phrase] hoặc Trạng Cụm [Adverb Phrase].</li>
+					<li value="3"><strong>Thời Động Cơ Phức</strong> [<strong>Complex Tense Verb Base</strong>]: have been, had been, will have been</li>
+					<li className="margin-bottom-20 list-none">Tổ hợp đa thành phần phối hợp chứa từ 2 yếu tố trở lên, chuyên biệt xử lý bối cảnh thời gian phức tạp (hoàn thành tiếp diễn hoặc thể bị động).</li>
 			
-					<li value="4"><strong>Động Câu</strong> [<strong>Verb Clause</strong>]:</li>
-					<li className="list-none">Khối hành động chứa một cấu trúc Câu con hoàn chỉnh, có chứa hệ trục S + V.</li>
-					<li className="list-none">Hình thái này sẽ đi làm các chức năng: Danh Câu [Noun Clause], Tính Câu [Adjective Clause], hoặc Trạng Câu [Adverb Clause].</li>
+					<li value="4"><strong>Thực Động Cơ</strong> [<strong>Action Verb Base</strong>]: sleeping, walked, eaten, taking</li>
+					<li className="margin-bottom-20 list-none">Hình thái hành động thực thi, thể hiện trạng thái đang diễn ra (V-ing) hoặc đã hoàn thành/bị động (V3/V-ed).</li>
+
+					<li value="5"><strong>Thái Động Cơ</strong> [<strong>Modal Verb Base</strong>]: could, would, might, should, must</li>
+					<li className="margin-bottom-20 list-none">Đơn vị xử lý chế độ, thái độ, khả năng xảy ra hoặc tính chất bắt buộc của hành động.</li>
+			
+					<li value="6"><strong>Thời-Thực Động Cơ</strong> [<strong>Tense-Action Verb Base</strong>]: </li>
+					<li className="list-none">Đơn vị tích hợp hoàn hảo cả hai yếu tố Thời (thời gian) + Thực (hành động thực thi) trong cùng một hình thái từ duy nhất mà không cần trợ từ bề nổi.</li>
 			
 				</ol>
+		
+
+			<p className="margin-top-20"><strong>Ma trận phối hợp hình thái thực tế</strong>:</p>
 			
-			<p className="margin-top-20">Khi chưa đặt vào câu, bạn chỉ biết rõ hình thái vỏ bọc bên ngoài. Chỉ khi nó "neo" vào một vị trí cụ thể, chức năng tương ứng Danh, Tính, hoặc Trạng mới được kích hoạt.</p>
+				<ul className="list-square">
+			
+					<li>are sleeping → Thời Động Cơ "are" + Thực Động Cơ "sleeping"</li>
+
+					<li>had taken → Thời Động Cơ "had" + Thực Động Cơ "taking" (ở dạng V3 là taken)</li>
+			
+					<li>have been walking → Thời Động Cơ Phức "have been" + Thực Động Cơ "walking"</li>
+			
+					<li>drove → Thời-Thực Động Cơ (một đơn vị tự thân xử lý cả thời gian quá khứ lẫn hành động lái xe)</li>
+
+					<li>should study → Thái Động Cơ "should" + Động Cơ "study"</li>
+			
+				</ul>
+
+			
+			<p className="margin-top-20">Bất kỳ loại nào trong 6 hình thái động cơ trên khi được đóng gói sẽ đi làm các chức năng: Danh Cơ [Noun Base], Tính Cơ [Adjective Base], hoặc Trạng Cơ [Adverb Base] tùy theo vị trí neo của chúng.</p>
+			
+				<ul className="list-square">
+			
+					<li>Liên Cơ [Connector Base]:</li>
+					<li className="margin-bottom-20 list-none">Đơn vị từ nối giữ vai trò thiết lập quan hệ phụ thuộc hoặc liên kết giữa các thành phần cấu trúc.</li>
+
+					<li>Động Cụm [Verb Phrase]:</li>
+					<li className="margin-bottom-20 list-none">Khối hành động chứa nhiều yếu tố kết hợp, không chứa hệ trục S + V. Hình thái này sẽ đi làm các chức năng: Danh Cụm [Noun Phrase], Tính Cụm [Adjective Phrase], hoặc Trạng Cụm [Adverb Phrase].</li>
+			
+					<li>Giới Cụm [Prepositional Phrase]:</li>
+					<li className="margin-bottom-20 list-none">Khối liên kết vị trí, không gian, thời gian không chứa xung lực hành động, không chứa hệ trục S + V. Hình thái này sẽ đi làm các chức năng đặc thù: Tính Cụm [Adjective Phrase] hoặc Trạng Cụm [Adverb Phrase].</li>
+			
+					<li>Động Câu [Verb Clause]:</li>
+					<li className="list-none">Khối hành động chứa một cấu trúc Câu con hoàn chỉnh, có chứa hệ trục S + V. Hình thái này sẽ đi làm các chức năng: Danh Câu [Noun Clause], Tính Câu [Adjective Clause], hoặc Trạng Câu [Adverb Clause].</li>
+			
+				</ul>
 
 
 

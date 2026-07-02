@@ -90,7 +90,52 @@ export default function NineBox1(): React.JSX.Element {
 
 			<h4 className="margin-y-40">2.1. Nhóm Hình Thái Hệ Động</h4>
 					
-			<p className="text-indent-whole">Hệ thống ghi nhận hành động ở các cấp độ quy mô: <strong>Động Cơ</strong> [Verb Base], <strong>Động Cụm</strong> [Verb Phrase], hoặc <strong>Động Câu</strong> [Verb Clause]. Chỉ khi đặt các khối này vào vị trí cụ thể trong câu lớn, <strong>Chức năng</strong> (Danh / Tính / Trạng) tương ứng mới được kích hoạt.</p>
+			<p className="text-indent-whole">Hệ thống ghi nhận hành động ở các cấp độ quy mô: <strong>Động Cơ</strong> [Verb Base], <strong>Động Cụm</strong> [Verb Phrase], hoặc <strong>Động Câu</strong> [Verb Clause]. Chỉ khi đặt các khối này vào vị trí cụ thể trong câu lớn, <strong>Chức năng</strong> [Danh / Tính / Trạng] tương ứng mới được kích hoạt.</p>
+
+			<p className="text-indent-whole">Để quản lý logic vận hành một cách nghiêm ngặt, hệ thống phân rã cấu trúc hệ động thành 6 loại kế thừa và thực thi nhiệm vụ chuyên biệt:</p>
+			
+				<ol>
+			
+					<li value="1"><strong>Động Cơ</strong> [<strong>Verb Base</strong>]: develop, build, execute</li>
+					<li className="margin-bottom-20 list-none">Nguyên mẫu gốc [Class cha/Root Class] chứa hạt nhân ngữ nghĩa lõi của hành động nhưng chưa được kích hoạt bối cảnh thời gian hoặc biến đổi hình thái.</li>
+			
+					<li value="2"><strong>Thời Động Cơ</strong> [<strong>Tense Verb Base</strong>]: is, was, has, had, will, have</li>
+					<li className="margin-bottom-20 list-none">Xử lý bối cảnh thời gian và chịu trách nhiệm định vị dòng thời gian của hành động trên trục số, phối hợp với chủ ngữ để giữ tính hòa hợp.</li>
+
+					<li value="3"><strong>Thời Động Cơ Phức</strong> [<strong>Complex Tense Verb Base</strong>]: had been, has been</li>
+					<li className="margin-bottom-20 list-none">Khối đa phân tử xử lý bối cảnh thời gian ở các thể hoàn thành tiếp diễn hoặc bị động phức hợp, đóng gói nhiều dấu hiệu thời gian thành một khối điều phối duy nhất.</li>
+			
+					<li value="4"><strong>Thực Động Cơ</strong> [<strong>Action Verb Base</strong>]: developing, built, executed [Dạng V-ing hoặc V3/V-ed phân từ]</li>
+					<li className="margin-bottom-20 list-none">Hành động thực thi mang giá trị ngữ nghĩa vận động trực tiếp nhưng không tự đứng độc lập để gánh thời gian mà phải kết hợp với hệ toán tử thời gian.</li>
+
+					<li value="5"><strong>Thái Động Cơ</strong> [<strong>Modal Verb Base</strong>]: must, can, should, may, might</li>
+					<li className="margin-bottom-20 list-none">Chế độ / thái độ, dùng để thiết lập tần suất logic, khả năng xảy ra, nghĩa vụ hoặc tâm thế của chủ thể đối với hành động.</li>
+			
+					<li value="6"><strong>Thời-Thực Động Cơ</strong> [<strong>Tense-Action Verb Base</strong>]: developed, built, executed, spoke, made [Dạng V2/V-ed chia thì quá khứ đơn hoặc hiện tại đơn số ít/số nhiều]</li>
+					<li className="list-none">Tích hợp Thời + Thực trong một đơn vị dữ liệu duy nhất. Dù mang hình thái một từ độc lập, nó tự đóng gói trọn vẹn cả chức năng thời gian lẫn bản chất thực thi.</li>
+			
+				</ol>
+			
+
+			<p className="margin-top-20"><strong>Sơ đồ kiểm thử phối hợp các khối hình thái</strong> [<strong>Compilation Guide</strong>]:</p>
+			
+				<ul className="list-square">
+			
+					<li>is developing → Thời Động Cơ "is" + Thực Động Cơ "developing"</li>
+			
+					<li>was developing → Thời Động Cơ "was" + Thực Động Cơ "developing"</li>
+			
+					<li>has built → Thời Động Cơ "has" + Thực Động Cơ "built"</li>
+
+					<li>had been executing → Thời Động Cơ Phức "had been" + Thực Động Cơ "executing"</li>
+			
+					<li>has been building → Thời Động Cơ Phức "has been" + Thực Động Cơ "building"</li>
+			
+					<li>developed → Thời-Thực Động Cơ [Một đơn vị tích hợp cả hai]</li>
+
+					<li>must execute → Thái Động Cơ "must" + Động Cơ "execute"</li>
+			
+				</ul>
 
 
 			<h4 className="margin-y-40">A. Hình thái cấp độ BASE: ĐỘNG CƠ [Verb Base]</h4>

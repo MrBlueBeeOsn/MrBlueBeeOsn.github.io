@@ -96,30 +96,48 @@ export default function ThreeDC1(): React.ReactElement {
 					<li className="list-none">Sinh ra Danh Câu [Noun Clause], Tính Câu [Adjective Clause], Trạng Câu [Adverb Clause].</li>
 			
 				</ul>
-	
 
 
 			{/* II.  */}
 
 			<h3 className="margin-y-50 text-center">II. PHÂN PHÒNG HỆ THỐNG ĐỘNG CƠ VÀ CÁC CẤP ĐỘ VẬN HÀNH</h3>
 
-			<p>Để điều phối kỹ thuật chính xác, mọi yếu tố hành động hạt nhân đều xuất phát từ Động Cơ [Verb Base] – Nguyên mẫu (Class cha/Root Class) của mọi hành động.</p>
+			<p>Để điều phối kỹ thuật chính xác, mọi tổ hợp hành động trong câu đều được vận hành dựa trên hệ thống phân loại Động Cơ nghiêm ngặt dưới đây:</p>
 
-			<p className="margin-top-20">Từ gốc rễ này, Động Cơ được phân chia thành 4 nhánh chuyên biệt để đảm nhận các chức năng logic khác nhau trong câu văn:</p>
+			<ol>
+			
+					<li value="1"><strong>Động Cơ</strong> [<strong>Verb Base</strong>]: speak, make, take</li>
+					<li className="margin-bottom-20 list-none">Nguyên mẫu gốc (Class cha/Root Class) của mọi hành động, mang tính khái niệm thuần túy và chưa chứa thông tin thời gian.</li>
+			
+					<li value="2"><strong>Thời Động Cơ</strong> [<strong>Tense Verb Base</strong>]: are, were, does, did, will, have</li>
+					<li className="margin-bottom-20 list-none">Đơn vị đơn lẻ chịu trách nhiệm xử lý bối cảnh thời gian cho toàn câu.</li>
+
+					<li value="3"><strong>Thời Động Cơ Phức</strong> [<strong>Complex Tense Verb Base</strong>]: will have been, have been, had been</li>
+					<li className="margin-bottom-20 list-none">Khối tổ hợp từ phức hợp phối hợp với nhau nhằm đóng vai trò xử lý bối cảnh thời gian sâu hoặc đa lớp.</li>
+			
+					<li value="4"><strong>Thực Động Cơ</strong> [<strong>Action Verb Base</strong>]: speaking, made, taken (Dạng định hình đuôi V-ing hoặc trạng thái hoàn thành V3)</li>
+					<li className="margin-bottom-20 list-none">Đơn vị đại diện cho hành động thực thi lõi hoặc trạng thái vận động của thực thể.</li>
+
+					<li value="5"><strong>Thái Động Cơ</strong> [<strong>Modal Verb Base</strong>]: can, should, must, may, might</li>
+					<li className="margin-bottom-20 list-none">Đơn vị xử lý chế độ, khả năng hoặc thái độ của chủ thể đối với hành động.</li>
+			
+					<li value="6"><strong>Thời-Thực Động Cơ</strong> [<strong>Tense-Action Verb Base</strong>]: spoke, transformed, created, built</li>
+					<li className="list-none">Đơn vị tích hợp cả cấu hình Thời và hành động Thực trong một từ duy nhất, giúp câu văn cô đọng.</li>
+			
+				</ol>
+			
+
+			<p className="margin-top-20"><strong>Ví dụ về sự phối hợp phân loại Động Cơ</strong>:</p>
 			
 				<ul className="list-square">
 
-					<li>Thời Động Cơ [Tense Verb Base]:</li>
-					<li className="margin-bottom-20 list-none">Chuyên trách xử lý bối cảnh thời gian (như is, are, was, were).</li>
+					<li>are speaking → Thời Động Cơ "are" + Thực Động Cơ "speaking"</li>
 			
-					<li>Thực Động Cơ [Action Verb Base]:</li>
-					<li className="margin-bottom-20 list-none">Chuyên trách xử lý hành động thực thi (như running, sitting, to buy, purchase).</li>
+					<li>will have been speaking → Thời Động Cơ Phức "will have been" + Thực Động Cơ "speaking"</li>
 			
-					<li>Thái Động Cơ [Modal Verb Base]:</li>
-					<li className="margin-bottom-20 list-none">Chuyên trách xử lý chế độ/thái độ (như can, should, will).</li>
-			
-					<li>Thời-Thực Động Cơ [Tense-Action Verb Base]:</li>
-					<li className="list-none">Hành động tích hợp đóng gói cả Thời + Thực (như made, watched, stops, drove), dù mang hình thái nguyên mẫu vẫn thực thi logic Thời-Thực.</li>
+					<li>can speak → Thái Động Cơ "can" + Động Cơ "speak"</li>
+
+					<li>spoke → Thời-Thực Động Cơ (tích hợp quá khứ + hành động nói trong một từ)</li>
 			
 				</ul>
 			

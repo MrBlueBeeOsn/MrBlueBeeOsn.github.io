@@ -83,10 +83,175 @@ export default function AdjPlacement1(): React.JSX.Element {
 			<p className="margin-top-20">Vài công cụ tối thượng được người bản ngữ sử dụng liên tục để kéo dài phần mô tả chức năng Tính phía sau Danh Cơ chính là <strong>Tính Cụm</strong> [<strong>Adjective Phrase</strong>] và <strong>Tính Câu</strong> [<strong>Adjective Clause</strong>].</p>
 
 
-
 			{/* 2.  */}
 
-			<h3 className="margin-y-50 text-center">2. Sự Đồng Điệu Tuyệt Đối Giữa Tiếng Anh Và Tiếng Việt Trong Chức Năng Tính</h3>
+			<h3 className="margin-y-50 text-center">2. Hệ Thống Phân Loại Động Cơ: Hạt Nhân Tạo Dựng Hệ Thống Bổ Nghĩa</h3>
+			
+				<ol>
+			
+					<li value="1"><strong>Động Cơ</strong> [<strong>Verb Base</strong>]: read, make, sing</li>
+					<li className="margin-bottom-20 list-none">Nguyên mẫu gốc, là gốc rễ cha (Root Class) của mọi hành động khi chưa chịu bất kỳ tác động nào của thời gian hay trạng thái thực thi.</li>
+			
+					<li value="2"><strong>Thời Động Cơ</strong> [<strong>Tense Verb Base</strong>]: is, was, has, had, will, have</li>
+					<li className="margin-bottom-20 list-none">Chữ đơn lẻ đóng vai trò xử lý và định vị bối cảnh thời gian (quá khứ, hiện tại, tương lai) cho toàn bộ cấu trúc hành động đứng sau.</li>
+
+					<li value="3"><strong>Thời Động Cơ Phức</strong> [<strong>Complex Tense Verb Base</strong>]: had been, has been</li>
+					<li className="margin-bottom-20 list-none">Một tổ hợp gồm nhiều chữ phối hợp chặt chẽ với nhau để cùng xử lý bối cảnh thời gian phức hợp.</li>
+			
+					<li value="4"><strong>Thực Động Cơ</strong> [<strong>Action Verb Base</strong>]: reading, made, sung</li>
+					<li className="margin-bottom-20 list-none">Hành động thực thi và hiển thị trực diện bản chất của hành động, tồn tại dưới hai dạng thái chính để phục vụ chức năng mô tả: dạng tiếp diễn chủ động (V-ing) hoặc dạng hoàn thành bị động (V3/-ed).</li>
+
+					<li value="5"><strong>Thái Động Cơ</strong> [<strong>Modal Verb Base</strong>]: must, can, should, may, might</li>
+					<li className="margin-bottom-20 list-none">Chế độ, tâm thế hoặc thái độ của chủ thể đối với hành động (khả năng, nghĩa vụ, sự cho phép, lời khuyên).</li>
+			
+					<li value="6"><strong>Thời-Thực Động Cơ</strong> [<strong>Tense-Action Verb Base</strong>]: read, made, sang, designed, developed</li>
+					<li className="list-none">Tích hợp Thời + Thực trong một đơn vị hành động duy nhất, đóng gói trọn vẹn cả bối cảnh Thời gian lẫn bản chất Thực thi vào trong cùng một chữ.</li>
+			
+				</ol>
+			
+
+			<h4 className="margin-y-40">Ma Trận Phối Hợp Các Khối Động Cơ Trong Thực Tế</h4>
+
+			<p className="margin-top-20">Khi ráp nối vào câu, các phân loại này kết hợp với nhau tạo ra các trạng thái hành động vô cùng chuẩn xác:</p>
+			
+				<ul className="list-square">
+			
+					<li>is reading → Thời Động Cơ "is" + Thực Động Cơ "reading"</li>
+			
+					<li>was reading → Thời Động Cơ "was" + Thực Động Cơ "reading"</li>
+			
+					<li>has made → Thời Động Cơ "has" + Thực Động Cơ "made"</li>
+
+					<li>had been reading → Thời Động Cơ Phức "had been" + Thực Động Cơ "reading"</li>
+			
+					<li>has been singing → Thời Động Cơ Phức "has been" + Thực Động Cơ "singing"</li>
+			
+					<li>made / sang → Thời-Thực Động Cơ (một đơn vị tích hợp cả hai bối cảnh thời gian quá khứ và hành động)</li>
+
+					<li>must read → Thái Động Cơ "must" + Động Cơ "read"</li>
+			
+				</ul>
+
+
+			{/* 3.  */}
+
+			<h3 className="margin-y-50 text-center">3. Bản Đồ Hệ Thống: Ma Trận Chức Năng Tính Giữa Các Cấp Độ Hình Thái</h3>
+
+			<p>Để làm chủ tiếng Anh chuyên nghiệp và tập trung nhất, bộ não người học cần phân định rõ hai yếu tố: <strong>Hình thái</strong> (Cái ta nhìn thấy trực diện) và <strong>Chức năng Tính</strong> (Nhiệm vụ mô tả cho Danh Cơ dựa vào vị trí đứng).</p>
+
+			<p>Bản chất của hầu hết các khối bổ nghĩa trong tiếng Anh đều xuất phát từ hình thái của hành động: <strong>Động Cơ</strong> [<strong>Verb Base</strong>] → <strong>Động Cụm</strong> [<strong>Verb Phrase</strong>] → <strong>Động Câu</strong> [<strong>Verb Clause</strong>].</p>
+			
+			<p>Tuy nhiên, có một hình thái đặc biệt không xuất phát từ chữ chỉ hành động, đó chính là Giới Cụm [Prepositional Phrase] (khối cụm bắt đầu bằng một Giới Cơ hoặc Giới Cơ Phức kết hợp với một khối định danh phía sau).</p>
+
+			<p className="margin-top-20">Bất kỳ chữ đơn lẻ nào thuộc về phân loại gốc đều được gọi chung bằng chữ "Cơ" [Base]. Khi cần làm rõ vai trò cấu trúc cụ thể trong câu, hệ thống Động Cơ sẽ được bóc tách chi tiết thành 5 loại cốt lõi:</p>
+			
+				<ol>
+			
+					<li value="1"><strong>Động Cơ</strong> [<strong>Verb Base</strong>]:</li>
+					<li className="margin-bottom-20 list-none">Nguyên mẫu (Class cha/Root Class) của mọi hành động.</li>
+			
+					<li value="2"><strong>Thời Động Cơ</strong> [<strong>Tense Verb Base</strong>]:</li>
+					<li className="margin-bottom-20 list-none">Xử lý bối cảnh thời gian.</li>
+
+					<li value="3"><strong>Thực Động Cơ</strong> [<strong>Action Verb Base</strong>]:</li>
+					<li className="margin-bottom-20 list-none">Xử lý hành động thực thi.</li>
+			
+					<li value="4"><strong>Thái Động Cơ</strong> [<strong>Modal Verb Base</strong>]:</li>
+					<li className="margin-bottom-20 list-none">Xử lý chế độ/thái độ (như can, should, must).</li>
+			
+					<li value="5"><strong>Thời-Thực Động Cơ</strong> [<strong>Tense-Action Verb Base</strong>]:</li>
+					<li className="list-none">Hành động tích hợp (Đóng gói Thời + Thực), dù mang hình thái nguyên mẫu vẫn thực thi logic Thời-Thực.</li>
+			
+				</ol>
+			
+			<p className="margin-top-20">Hệ thống bổ nghĩa cho Danh vận hành nhất quán theo chiều dọc từ cấp độ hình thái đơn giản đến phức tạp để gánh vác duy nhất một mục tiêu: Tạo ra chức năng Tính hoàn hảo.</p>
+
+			
+			<h4 className="margin-y-40">Cấp độ 1: Hình thái Động Cơ [Verb Base] mang Chức năng Tính (Tính Cơ)</h4>
+					
+			<p className="text-indent-whole">Khối hành động hạt nhân nhỏ nhất (gồm đúng 1 chữ).</p>
+
+			<p className="text-indent-whole">Bản thân nó mang hình thái Động Cơ [Verb Base] thể hiện dưới dạng một chữ đơn lẻ mang đuôi -ing hoặc v3/-ed, định vị sát cạnh Danh Cơ để bổ nghĩa:</p>
+
+			<p className="margin-top-20 text-indent-whole">[inviting]</p>
+			
+
+				<ul className="list-square">
+
+					<li>She has an [______] smile.</li>
+					<li className="margin-bottom-20 list-none">Cô ấy có một nụ cười [mời gọi].</li>
+
+					<li className="list-none">Hình thái: [inviting] - Động Cơ [Verb Base] xuất hiện dưới dạng một chữ đơn lẻ mang đuôi -ing.</li>
+
+					<li className="margin-bottom-20 list-none">Chức năng: [inviting] - Tính Cơ [Adjective Base] đứng trước Danh Cơ smile nhằm mô tả đặc điểm.</li>
+			
+				</ul>
+
+
+			<h4 className="margin-y-40">Cấp độ 2: Hình thái Động Cụm [Verb Phrase] mang Chức năng Tính (Tính Cụm)</h4>
+
+			<p className="text-indent-whole">Khối cụm chứa nhiều chữ đi liền nhau để thực thi hành động, chưa tích hợp bộ tạo hành động riêng biệt bên trong.</p>
+
+			<p className="text-indent-whole">Từ vị trí đứng sau Danh Cơ, nó hình thành nên chức năng Tính Cụm:</p>
+
+			<p className="margin-top-20 text-indent-whole">[singing beautifully]</p>
+
+				<ul className="list-square">
+
+					<li>The girl is [______].</li>
+					<li className="margin-bottom-20 list-none">Cô gái đang [hát một cách hay ho].</li>
+
+					<li className="list-none">Hình thái: [singing beautifully] - Động Cụm [Verb Phrase] cấu thành từ Thực Động Cơ [Action Verb Base] singing đi kèm chữ mô tả trạng thái beautifully.</li>
+
+					<li className="margin-bottom-20 list-none">Chức năng: [singing beautifully] - Tính Cụm [Adjective Phrase] định vị sau Tense Verb Base is nhằm mô tả trạng thái hành động của đối tượng.</li>
+			
+				</ul>
+
+
+			<h4 className="margin-y-40">Cấp độ 3: Hình thái Động Câu [Verb Clause] mang Chức năng Tính (Tính Câu)</h4>
+
+			<p className="text-indent-whole">Đơn vị hành động nâng cấp thành một việc phức hợp chứa cả một hệ tạo hành động riêng biệt bên trong.</p>
+
+			<p className="text-indent-whole">Khi đứng ngay sau một Danh Cơ, nó đảm nhận chức năng Tính Câu tối cao:</p>
+
+			<p className="margin-top-20 text-indent-whole">[which is lying on the table]</p>
+			
+				<ul className="list-square">
+
+					<li>The book [______] is mine.</li>
+					<li className="margin-bottom-20 list-none">Cuốn sách [mà đang nằm ở trên bàn] thuộc về tôi.</li>
+
+					<li className="list-none">Hình thái: [which is lying on the table] - Động Câu [Verb Clause] phức hợp, chứa hệ thống cấu hình theo thời gồm Tense Verb Base hiện tại (is) đi kèm Action Verb Base đuôi -ing (lying).</li>
+
+					<li className="margin-bottom-20 list-none">Chức năng: [which is lying on the table] - Tính Câu [Adjective Clause] đứng ngay sau Danh Cơ book nhằm định danh và làm rõ nghĩa.</li>
+			
+				</ul>
+			
+
+
+			<h4 className="margin-y-40">Khối Hình Thái Đặc Biệt: Giới Cụm [Prepositional Phrase] mang Chức năng Tính (Tính Cụm)</h4>
+					
+			<p className="text-indent-whole">Đây là khối từ hoàn toàn tách biệt, không bắt nguồn từ một chữ chỉ hành động. Khối này được mở đầu bằng một Giới Cơ hoặc Giới Cơ Phức kết hợp với các khối định danh đi liền phía sau.</p>
+
+			<p className="text-indent-whole">Khi đứng sau Danh Cơ, hình thái Giới Cụm [Prepositional Phrase] sẽ gánh vác chức năng Tính Cụm:</p>
+
+			<p className="margin-top-20 text-indent-whole">[to the economic crisis]</p>
+			
+				<ul className="list-square">
+			
+					<li>The solutions [______] are complex.</li>
+					<li className="margin-bottom-20 list-none">Những giải pháp [cho cuộc khủng hoảng kinh tế] thì phức tạp.</li>
+			
+					<li className="list-none">Hình thái: [to the economic crisis] - Giới Cụm [Prepositional Phrase] nguyên bản, được cấu tạo bằng cách đặt một Giới Cơ (to) chặn trước khối Danh Cụm (the economic crisis).</li>
+			
+					<li className="margin-bottom-20 list-none">Chức năng: [to the economic crisis] - Tính Cụm [Adjective Phrase] đứng ngay sau Danh Cơ solutions để định danh.</li>
+			
+				</ul>
+
+
+			{/* 4.  */}
+
+			<h3 className="margin-y-50 text-center">4. Sự Đồng Điệu Tuyệt Đối Giữa Tiếng Anh Và Tiếng Việt Trong Chức Năng Tính</h3>
 
 			<p>Khi đi sâu vào các câu phức hợp, chúng ta sẽ phát hiện một sự thật kinh ngạc: Tiếng Anh cao cấp và tiếng Việt chia sẻ chung một bản đồ tư duy. Cách người bản ngữ định vị Danh Cơ và kéo dài thành phần mô tả chức năng Tính phía sau giống tiếng Việt đến hoàn hảo, bất kể Danh Cơ đó đóng vai trò gì.</p>
 
@@ -161,11 +326,10 @@ export default function AdjPlacement1(): React.JSX.Element {
 
 			<p className="text-indent-whole">Người Việt nghĩ đến đối tượng bị tác động trước, rồi mới nghĩ đến ai làm gì đối tượng đó sau; người bản ngữ tiếng Anh viết ra chính xác theo trình tự như vậy. Điều này chứng minh rằng ở những cách diễn đạt phức tạp và cao cấp, tiếng Anh và tiếng Việt vận hành chung một hệ điều hành tư duy.</p>
 
+			
+			{/* 5.  */}
 
-
-			{/* 3.  */}
-
-			<h3 className="margin-y-50 text-center">3. Tư Dụng Đặt Câu: Danh Cơ + Tính Cụm / Tính Câu (Dạng OSV)</h3>
+			<h3 className="margin-y-50 text-center">5. Tư Dụng Đặt Câu: Danh Cơ + Tính Cụm / Tính Câu (Dạng OSV)</h3>
 
 			<p>Để làm chủ triệt để tư duy này, chúng ta chỉ cần nắm rõ 3 thành phần cốt lõi tập trung vào chức năng Tính:</p>
 			
@@ -287,129 +451,12 @@ export default function AdjPlacement1(): React.JSX.Element {
 					<li>Nam diễn viên [người mà (Danh Nhận) bạn (Danh Chủ) đã gặp (Thời-Thực Động Cơ)] rất nổi tiếng.</li>
 			
 				</ul>
-
-
-
-			{/* 4.  */}
-
-			<h3 className="margin-y-50 text-center">4. Bản Đồ Hệ Thống: Ma Trận Chức Năng Tính Giữa Các Cấp Độ Hình Thái</h3>
-
-			<p>Để làm chủ tiếng Anh chuyên nghiệp và tập trung nhất, bộ não người học cần phân định rõ hai yếu tố: <strong>Hình thái</strong> (Cái ta nhìn thấy trực diện) và <strong>Chức năng Tính</strong> (Nhiệm vụ mô tả cho Danh Cơ dựa vào vị trí đứng).</p>
-
-			<p>Bản chất của hầu hết các khối bổ nghĩa trong tiếng Anh đều xuất phát từ hình thái của hành động: <strong>Động Cơ</strong> [<strong>Verb Base</strong>] → <strong>Động Cụm</strong> [<strong>Verb Phrase</strong>] → <strong>Động Câu</strong> [<strong>Verb Clause</strong>].</p>
-			
-			<p>Tuy nhiên, có một hình thái đặc biệt không xuất phát từ chữ chỉ hành động, đó chính là Giới Cụm [Prepositional Phrase] (khối cụm bắt đầu bằng một Giới Cơ hoặc Giới Cơ Phức kết hợp với một khối định danh phía sau).</p>
-
-			<p className="margin-top-20">Bất kỳ chữ đơn lẻ nào thuộc về phân loại gốc đều được gọi chung bằng chữ "Cơ" [Base]. Khi cần làm rõ vai trò cấu trúc cụ thể trong câu, hệ thống Động Cơ sẽ được bóc tách chi tiết thành 5 loại cốt lõi:</p>
-			
-				<ol>
-			
-					<li value="1"><strong>Động Cơ</strong> [<strong>Verb Base</strong>]:</li>
-					<li className="margin-bottom-20 list-none">Nguyên mẫu (Class cha/Root Class) của mọi hành động.</li>
-			
-					<li value="2"><strong>Thời Động Cơ</strong> [<strong>Tense Verb Base</strong>]:</li>
-					<li className="margin-bottom-20 list-none">Xử lý bối cảnh thời gian.</li>
-
-					<li value="3"><strong>Thực Động Cơ</strong> [<strong>Action Verb Base</strong>]:</li>
-					<li className="margin-bottom-20 list-none">Xử lý hành động thực thi.</li>
-			
-					<li value="4"><strong>Thái Động Cơ</strong> [<strong>Modal Verb Base</strong>]:</li>
-					<li className="margin-bottom-20 list-none">Xử lý chế độ/thái độ (như can, should, must).</li>
-			
-					<li value="5"><strong>Thời-Thực Động Cơ</strong> [<strong>Tense-Action Verb Base</strong>]:</li>
-					<li className="list-none">Hành động tích hợp (Đóng gói Thời + Thực), dù mang hình thái nguyên mẫu vẫn thực thi logic Thời-Thực.</li>
-			
-				</ol>
-			
-			<p className="margin-top-20">Hệ thống bổ nghĩa cho Danh vận hành nhất quán theo chiều dọc từ cấp độ hình thái đơn giản đến phức tạp để gánh vác duy nhất một mục tiêu: Tạo ra chức năng Tính hoàn hảo.</p>
-
-			
-			<h4 className="margin-y-40">Cấp độ 1: Hình thái Động Cơ [Verb Base] mang Chức năng Tính (Tính Cơ)</h4>
-					
-			<p className="text-indent-whole">Khối hành động hạt nhân nhỏ nhất (gồm đúng 1 chữ).</p>
-
-			<p className="text-indent-whole">Bản thân nó mang hình thái Động Cơ [Verb Base] thể hiện dưới dạng một chữ đơn lẻ mang đuôi -ing hoặc v3/-ed, định vị sát cạnh Danh Cơ để bổ nghĩa:</p>
-
-			<p className="margin-top-20 text-indent-whole">[inviting]</p>
-			
-
-				<ul className="list-square">
-
-					<li>She has an [______] smile.</li>
-					<li className="margin-bottom-20 list-none">Cô ấy có một nụ cười [mời gọi].</li>
-
-					<li className="list-none">Hình thái: [inviting] - Động Cơ [Verb Base] xuất hiện dưới dạng một chữ đơn lẻ mang đuôi -ing.</li>
-
-					<li className="margin-bottom-20 list-none">Chức năng: [inviting] - Tính Cơ [Adjective Base] đứng trước Danh Cơ smile nhằm mô tả đặc điểm.</li>
-			
-				</ul>
-
-
-			<h4 className="margin-y-40">Cấp độ 2: Hình thái Động Cụm [Verb Phrase] mang Chức năng Tính (Tính Cụm)</h4>
-
-			<p className="text-indent-whole">Khối cụm chứa nhiều chữ đi liền nhau để thực thi hành động, chưa tích hợp bộ tạo hành động riêng biệt bên trong.</p>
-
-			<p className="text-indent-whole">Từ vị trí đứng sau Danh Cơ, nó hình thành nên chức năng Tính Cụm:</p>
-
-			<p className="margin-top-20 text-indent-whole">[singing beautifully]</p>
-
-				<ul className="list-square">
-
-					<li>The girl is [______].</li>
-					<li className="margin-bottom-20 list-none">Cô gái đang [hát một cách hay ho].</li>
-
-					<li className="list-none">Hình thái: [singing beautifully] - Động Cụm [Verb Phrase] cấu thành từ Thực Động Cơ [Action Verb Base] singing đi kèm chữ mô tả trạng thái beautifully.</li>
-
-					<li className="margin-bottom-20 list-none">Chức năng: [singing beautifully] - Tính Cụm [Adjective Phrase] định vị sau Tense Verb Base is nhằm mô tả trạng thái hành động của đối tượng.</li>
-			
-				</ul>
-
-
-			<h4 className="margin-y-40">Cấp độ 3: Hình thái Động Câu [Verb Clause] mang Chức năng Tính (Tính Câu)</h4>
-
-			<p className="text-indent-whole">Đơn vị hành động nâng cấp thành một việc phức hợp chứa cả một hệ tạo hành động riêng biệt bên trong.</p>
-
-			<p className="text-indent-whole">Khi đứng ngay sau một Danh Cơ, nó đảm nhận chức năng Tính Câu tối cao:</p>
-
-			<p className="margin-top-20 text-indent-whole">[which is lying on the table]</p>
-			
-				<ul className="list-square">
-
-					<li>The book [______] is mine.</li>
-					<li className="margin-bottom-20 list-none">Cuốn sách [mà đang nằm ở trên bàn] thuộc về tôi.</li>
-
-					<li className="list-none">Hình thái: [which is lying on the table] - Động Câu [Verb Clause] phức hợp, chứa hệ thống cấu hình theo thời gồm Tense Verb Base hiện tại (is) đi kèm Action Verb Base đuôi -ing (lying).</li>
-
-					<li className="margin-bottom-20 list-none">Chức năng: [which is lying on the table] - Tính Câu [Adjective Clause] đứng ngay sau Danh Cơ book nhằm định danh và làm rõ nghĩa.</li>
-			
-				</ul>
-			
-
-
-			<h4 className="margin-y-40">Khối Hình Thái Đặc Biệt: Giới Cụm [Prepositional Phrase] mang Chức năng Tính (Tính Cụm)</h4>
-					
-			<p className="text-indent-whole">Đây là khối từ hoàn toàn tách biệt, không bắt nguồn từ một chữ chỉ hành động. Khối này được mở đầu bằng một Giới Cơ hoặc Giới Cơ Phức kết hợp với các khối định danh đi liền phía sau.</p>
-
-			<p className="text-indent-whole">Khi đứng sau Danh Cơ, hình thái Giới Cụm [Prepositional Phrase] sẽ gánh vác chức năng Tính Cụm:</p>
-
-			<p className="margin-top-20 text-indent-whole">[to the economic crisis]</p>
-			
-				<ul className="list-square">
-			
-					<li>The solutions [______] are complex.</li>
-					<li className="margin-bottom-20 list-none">Những giải pháp [cho cuộc khủng hoảng kinh tế] thì phức tạp.</li>
-			
-					<li className="list-none">Hình thái: [to the economic crisis] - Giới Cụm [Prepositional Phrase] nguyên bản, được cấu tạo bằng cách đặt một Giới Cơ (to) chặn trước khối Danh Cụm (the economic crisis).</li>
-			
-					<li className="margin-bottom-20 list-none">Chức năng: [to the economic crisis] - Tính Cụm [Adjective Phrase] đứng ngay sau Danh Cơ solutions để định danh.</li>
-			
-				</ul>
 			
 
 			
-			{/* 5.  */}
+			{/* 6.  */}
 
-			<h3 className="margin-y-50 text-center">5. Hiện Tượng Động Câu Ẩn Liên Kết [Zero-Connector Verb Clause] Trong Chức Năng Tính</h3>
+			<h3 className="margin-y-50 text-center">6. Hiện Tượng Động Câu Ẩn Liên Kết [Zero-Connector Verb Clause] Trong Chức Năng Tính</h3>
 
 			<p>Một đỉnh cao tư duy của người bản ngữ tạo nên sự tinh gọn tuyệt đối cho chức năng Tính trong văn học thuật là hiện tượng ẩn liên kết. Lúc này, hình thái câu hoàn toàn sạch bóng các chữ nối hay chữ định hướng, biến khối Động Câu thành một câu con độc lập, giữ trọn vẹn chức năng Tính Câu.</p>
 
@@ -450,9 +497,9 @@ export default function AdjPlacement1(): React.JSX.Element {
 			
 			
 
-			{/* 6.  */}
+			{/* 7.  */}
 
-			<h3 className="margin-y-50 text-center">6. Tư Độ Phân Tầng Hệ Thống Và Sự Tương Đồng Tuyệt Đối Ở Khối Mô Tả Chức Năng Tính</h3>
+			<h3 className="margin-y-50 text-center">7. Tư Độ Phân Tầng Hệ Thống Và Sự Tương Đồng Tuyệt Đối Ở Khối Mô Tả Chức Năng Tính</h3>
 
 			<p>Một trong những quy luật vận hành đỉnh cao của tiếng Anh là <strong>Nguyên tắc</strong> "<strong>Điểm neo</strong>". Dấu móc sẽ luôn bao quanh Action Verb Base hoặc Tense-Action Verb Base điều hành toàn bộ cụm/câu phức hợp.</p>
 			
@@ -551,9 +598,9 @@ export default function AdjPlacement1(): React.JSX.Element {
 			
 
 
-			{/* 7. */}
+			{/* 8. */}
 
-			<h3 className="margin-y-50 text-center">7. Tư Duy Phân Tầng Phức Hợp: Khối Bao Gói Lồng Nhau Khai Thác Tính Cụm</h3>
+			<h3 className="margin-y-50 text-center">8. Tư Duy Phân Tầng Phức Hợp: Khối Bao Gói Lồng Nhau Khai Thác Tính Cụm</h3>
 
 			<p>Khi tư duy ngôn ngữ đạt đến cấp độ chuyên sâu, bộ não người bản ngữ bắt đầu vận hành các hình thái lồng nhau giống như những chiếc hộp Nga, nơi chức năng Tính được củng cố bằng các khối lồng chặt chẽ.</p>
 			
@@ -581,9 +628,9 @@ export default function AdjPlacement1(): React.JSX.Element {
 				</ul>
 
 
-			{/* 8. */}
+			{/* 9. */}
 
-			<h3 className="margin-y-50 text-center">8. Giải Mã Paraphrasing: Bài Toán "Thay Khối Cùng Chức Năng Tính"</h3>
+			<h3 className="margin-y-50 text-center">9. Giải Mã Paraphrasing: Bài Toán "Thay Khối Cùng Chức Năng Tính"</h3>
 
 			<p>Khi viết lại câu (Paraphrasing) tập trung vào thành phần mô tả cho Danh, mọi thứ trở thành một bài toán hoán đổi khối có cùng Chức năng Tính trên một khung trục cố định.</p>
 

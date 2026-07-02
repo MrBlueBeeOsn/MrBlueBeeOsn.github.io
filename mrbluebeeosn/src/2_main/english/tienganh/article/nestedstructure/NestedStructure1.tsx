@@ -93,12 +93,48 @@ export default function NestedStructure1(): React.JSX.Element {
 
 			<p>Để hệ thống vận hành mượt mà và xử lý được các khối dữ liệu phức tạp lồng nhau, bộ lọc tư duy của bạn cần tuân thủ nghiêm ngặt 3 nguyên lý sau:</p>
 
-
-			<h4 className="margin-y-40">Nguyên tắc "Module thực thi" và Cấu hình nội bộ</h4>
+			<h4 className="margin-y-40">Phân Loại Động Cơ: 6 Lớp Xử Lý Dữ Liệu Hành Động</h4>
 					
-			<p className="text-indent-whole">Bất kỳ Động Cơ [Verb Base] nào (dù biến đổi theo ngôi thứ 3 như s/es, thuộc trục thời gian quá khứ với đuôi -ed, hay dạng tinh chỉnh nguyên mẫu/-ing) đều là <strong>Hạt nhân</strong> của một Module. Chúng không bao giờ bị tách rời khỏi cụm của mình.</p>
+			<p className="margin-top-20 text-indent-whole">Mọi hành động xuất phát từ gốc Động Cơ sẽ được phân rã thành các phân nhánh kỹ thuật chuyên biệt để cấu hình nội bộ (configuration) cho module. Hệ thống được chia tách rõ ràng thành 6 loại hình thái:</p>
+			
+				<ol>
+			
+					<li value="1"><strong>Động Cơ</strong> [<strong>Verb Base</strong>]: do, build, take, fly</li>
+					<li className="margin-bottom-20 list-none">Nguyên mẫu gốc (Class cha/Root Class) của mọi hành động, chưa bị can thiệp bởi bất kỳ bộ lọc thời gian hay chế độ nào.</li>
+			
+					<li value="2"><strong>Thời Động Cơ</strong> [<strong>Tense Verb Base</strong>]: are, were, have, had, will</li>
+					<li className="margin-bottom-20 list-none">Bộ xử lý bối cảnh thời gian của hệ thống, chịu trách nhiệm xác lập mốc thời gian diễn ra của hành động trong câu.</li>
 
-			<p className="text-indent-whole">Việc xác định ngôi hay trục thời gian hiển thị chỉ là <strong>dữ liệu cấu hình nội bộ</strong> (<strong>configuration</strong>) của Động Cơ đó, hoàn toàn không làm thay đổi hình thái hay chức năng của Module khi xuất ra ngoài.</p>
+					<li value="3"><strong>Thời Động Cơ Phức</strong> [<strong>Complex Tense Verb Base</strong>]: have been, had been</li>
+					<li className="margin-bottom-20 list-none">Tổ hợp liên kết đa thành phần chuyên xử lý bối cảnh thời gian ở mức độ chuyên sâu, quản lý các khung thời gian mang tính tiếp diễn kéo dài hoặc hoàn thành.</li>
+			
+					<li value="4"><strong>Thực Động Cơ</strong> [<strong>Action Verb Base</strong>]: doing, built, taken, flying (V-ing / V3)</li>
+					<li className="margin-bottom-20 list-none">Hành động thực thi, chịu trách nhiệm mang ngữ nghĩa cốt lõi của module và biểu thị tính chất trạng thái (đang diễn ra hoặc bị tác động).</li>
+
+					<li value="5"><strong>Thái Động Cơ</strong> [<strong>Modal Verb Base</strong>]: would, could, will, should, might</li>
+					<li className="margin-bottom-20 list-none">Bộ xử lý chế độ / thái độ, thiết lập tính chất khả năng, điều kiện hoặc mức độ cam kết của hành động.</li>
+			
+					<li value="6"><strong>Thời-Thực Động Cơ</strong> [<strong>Tense-Action Verb Base</strong>]: did, built, took, flew, walked, said</li>
+					<li className="list-none">Đơn vị hành động tích hợp (Đóng gói Thời + Thực), nén cả mốc thời gian và ngữ nghĩa thực thi vào làm một thực thể duy nhất.</li>
+			
+				</ol>
+			
+
+			<p className="margin-top-20"><strong>Sơ đồ lắp ráp Module hành động</strong>:</p>
+			
+				<ul className="list-square">
+			
+					<li>are flying → Thời Động Cơ "are" + Thực Động Cơ "flying"</li>
+
+					<li>had taken → Thời Động Cơ "had" + Thực Động Cơ "taken"</li>
+			
+					<li>have been doing → Thời Động Cơ Phức "have been" + Thực Động Cơ "doing"</li>
+			
+					<li>built → Thời-Thực Động Cơ (một đơn vị nén tích hợp cả hai)	</li>
+
+					<li>would do → Thái Động Cơ "would" + Động Cơ "do"</li>
+			
+				</ul>
 
 
 			<h4 className="margin-y-40">Nguyên tắc "Phân tầng [Nested Structure]" & Đệ quy</h4>

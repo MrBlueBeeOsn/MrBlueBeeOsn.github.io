@@ -104,10 +104,61 @@ export default function LegoAssembly1(): React.JSX.Element {
 			
 			<p className="margin-top-20 text-indent-whole">Vì Head là hạt nhân tối cao, nên khi bạn muốn phủ định, chữ <strong>NOT luôn luôn đứng ngay sau Head</strong>. Chính vì quy luật này, chữ <strong>not</strong> sẽ chính thức bị đẩy về phía sau và thuộc về vùng quản lý của phần Dependent đứng sau nó, chứ không nằm trong Head.</p>
 
-
 			{/* 2.  */}
 
-			<h3 className="margin-y-50 text-center">2. Giải Mã Vùng Đất "Dependent": Ma Trận Nhất Quán "Hình Thái trước - Chức Năng sau"</h3>
+			<h3 className="margin-y-50 text-center">2. Hệ Thống 6 Loại Động Cơ Thao Tác Hệ Thống</h3>
+
+			<p>Để vận hành chính xác cấu trúc trên, toàn bộ hệ thống hành động trong tiếng Anh được phân tách tường minh thành 6 cấu hình Lego cốt lõi. Việc hiểu rõ bản chất vật lý của từng loại sẽ giúp bạn lắp ráp câu mà không bao giờ bị nhầm lẫn thời gian hay thể thức.</p>
+
+			<h4 className="margin-y-40">Phân Loại 6 Loại Động Cơ:</h4>
+			
+				<ol>
+			
+					<li value="1"><strong>Động Cơ</strong> [<strong>Verb Base</strong>]: sleep (ngủ), build (xây dựng), drive (lái xe).</li>
+					<li className="margin-bottom-20 list-none">Nguyên mẫu gốc (Class cha/Root Class) của mọi hành động. Đây là dạng thuần túy nhất chưa hề bị can thiệp bởi thời gian, bối cảnh hay đối tượng số ít/số nhiều.</li>
+			
+					<li value="2"><strong>Thời Động Cơ</strong> [<strong>Tense Verb Base</strong>]: are (thì/là), were (đã thì/đã là), have/had/will (trợ nguồn thời gian).</li>
+					<li className="margin-bottom-20 list-none">Đơn vị lõi đơn lẻ đứng ở vị trí Head để gánh vác bối cảnh thời gian (Hiện tại, Quá khứ, Tương lai) hoặc trạng thái hoàn thành.</li>
+
+					<li value="3"><strong>Thời Động Cơ Phức</strong> [<strong>Complex Tense Verb Base</strong>]: have been (đã và đang), had been (trước đó đã và đang), will have been (sẽ và đang).</li>
+					<li className="margin-bottom-20 list-none">Hình thái phức hợp gồm nhiều thành tố phối hợp với nhau để gánh vác các bối cảnh thời gian phức tạp hoặc kéo dài từ quá khứ đến hiện tại.</li>
+			
+					<li value="4"><strong>Thực Động Cơ</strong> [<strong>Action Verb Base</strong>]: sleeping/slept (đang ngủ/được ngủ), building/built (đang xây/được xây), driving/driven (đang lái/được lái).</li>
+					<li className="margin-bottom-20 list-none">Hành động thực thi mang hình thái biến đổi kỹ thuật (bản thân Động Cơ [Verb Base] đã được thêm đuôi -ing để chỉ tính tiếp diễn, hoặc biến đổi sang dạng V3/Ed để chỉ tính hoàn thành/bị động). Khối này chỉ chứa năng lượng hành động thực tế, không có năng lượng thời gian nên không bao giờ được phép đứng làm Head một mình.</li>
+
+					<li value="5"><strong>Thái Động Cơ</strong> [<strong>Modal Verb Base</strong>]: can (có thể), should (nên), must (phải), may/might (có lẽ).</li>
+					<li className="margin-bottom-20 list-none">Khối điều khiển tâm lý, chế độ, khả năng hoặc thái độ của chủ thể đối với hành động đứng sau.</li>
+			
+					<li value="6"><strong>Thời-Thực Động Cơ</strong> [<strong>Tense-Action Verb Base</strong>]: slept (đã ngủ), built (đã xây), drove (đã lái), works (làm việc ở hiện tại), cried (đã khóc).</li>
+					<li className="list-none">Tích hợp Thời + Thực trong một đơn vị. Khối này đóng gói cả năng lượng "Thời gian" và "Hành động" vào trong một từ duy nhất. Dù mang hình thái một từ độc lập, nó vẫn đồng thời thực thi logic bối cảnh thời gian và logic thực thi hành động.</li>
+			
+				</ol>
+			
+
+			<h4 className="margin-y-40">Bản Đồ Công Thức Lắp Ghép Minh Họa:</h4>
+			
+				<ul className="list-square">
+			
+					<li>are sleeping → Thời Động Cơ are + Thực Động Cơ sleeping</li>
+			
+					<li>were building → Thời Động Cơ were + Thực Động Cơ building</li>
+			
+					<li>have driven → Thời Động Cơ have + Thực Động Cơ driven</li>
+
+					<li>have been sleeping → Thời Động Cơ Phức have been + Thực Động Cơ sleeping</li>
+			
+					<li>had been building → Thời Động Cơ Phức had been + Thực Động Cơ building</li>
+			
+					<li>drove → Thời-Thực Động Cơ (Một đơn vị duy nhất tự tích hợp bối cảnh quá khứ và hành động lái xe)</li>
+
+					<li>should drive → Thái Động Cơ should + Động Cơ drive</li>
+			
+				</ul>
+
+
+			{/* 3.  */}
+
+			<h3 className="margin-y-50 text-center">3. Giải Mã Vùng Đất "Dependent": Ma Trận Nhất Quán "Hình Thái trước - Chức Năng sau"</h3>
 
 			<p>Điểm mấu chốt của phương pháp Lego Assembly là người học chỉ cần nhìn vào <strong>Hình thái</strong> (bản chất cấu tạo bề ngoài của khối Lego) trước, sau đó mới xác định <strong>Chức năng</strong> của nó dựa vào vị trí đứng trong câu.</p>
 
@@ -155,9 +206,9 @@ export default function LegoAssembly1(): React.JSX.Element {
 			
 			
 
-			{/* 3.  */}
+			{/* 4.  */}
 
-			<h3 className="margin-y-50 text-center">3. Bản Hướng Dẫn Lắp Ráp Lego Chi Tiết (Hình Thái & Chức Năng)</h3>
+			<h3 className="margin-y-50 text-center">4. Bản Hướng Dẫn Lắp Ráp Lego Chi Tiết (Hình Thái & Chức Năng)</h3>
 
 			<h4 className="margin-y-40">Lớp Chức Năng 1: Khối Giao Tiếp DANH</h4>
 
@@ -455,9 +506,9 @@ export default function LegoAssembly1(): React.JSX.Element {
 				</ul>
 
 			
-			{/* 4.  */}
+			{/* 5.  */}
 
-			<h3 className="margin-y-50 text-center">4. Ứng Dụng Đỉnh Cao: Paraphrasing Bằng Tư Tư Duy "Thay Khối Đồng Chức Năng"</h3>
+			<h3 className="margin-y-50 text-center">5. Ứng Dụng Đỉnh Cao: Paraphrasing Bằng Tư Tư Duy "Thay Khối Đồng Chức Năng"</h3>
 
 			<p>Bản chất của viết lại câu chỉ đơn giản là một bài toán giữ nguyên bộ khung cấu trúc tổng thể, chỉ nhấc một khối Lego ra và đặt vào đó một khối Lego khác có kích thước khác hoặc hình thái khác nhưng mang cùng một màu Chức năng.</p>
 
@@ -549,9 +600,9 @@ export default function LegoAssembly1(): React.JSX.Element {
 
 
 
-			{/* 5.  */}
+			{/* 6.  */}
 
-			<h3 className="margin-y-50 text-center">5. Tuyệt Chiêu "Đảo Khối": Phủ Định & Nghi Vấn Trong 1 Nốt Nhạc</h3>
+			<h3 className="margin-y-50 text-center">6. Tuyệt Chiêu "Đảo Khối": Phủ Định & Nghi Vấn Trong 1 Nốt Nhạc</h3>
 
 			<p>Khi đã coi câu là các khối Lego, việc chuyển sang phủ định hay câu hỏi trở nên cực kỳ trực quan. Bạn không cần nhớ công thức mới, chỉ cần dịch chuyển Khối Nguồn (Head).</p>
 
@@ -677,9 +728,9 @@ export default function LegoAssembly1(): React.JSX.Element {
 
 	
 
-			{/* 6.  */}
+			{/* 7.  */}
 
-			<h3 className="margin-y-50 text-center">6. Tại Sao Tư Duy Lego Lại Giải Phóng Bộ Não Của Bạn?</h3>
+			<h3 className="margin-y-50 text-center">7. Tại Sao Tư Duy Lego Lại Giải Phóng Bộ Não Của Bạn?</h3>
 
 
 			<h4 className="margin-y-40">1. Sửa lỗi kiến trúc ngay lập tức:</h4>

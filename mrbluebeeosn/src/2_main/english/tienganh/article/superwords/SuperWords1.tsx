@@ -78,16 +78,57 @@ export default function SuperWords1(): React.JSX.Element {
 					<li className="list-none">Danh — Tính — Trạng.</li>
 			
 				</ul>
+
+			
+			<p className="margin-top-20">Hạt nhân điều khiển mọi hành động trong tiếng Anh chính là ĐỘNG CƠ. Khi phân rã sâu vào hạt nhân này, hệ thống được chia làm 6 loại hình thái để xử lý chính xác từng phần việc logic riêng biệt:</p>
+			
+				<ol>
+			
+					<li value="1"><strong>Động Cơ</strong> [<strong>Verb Base</strong>]: read, drive, speak</li>
+					<li className="margin-bottom-20 list-none">Nguyên mẫu gốc (Class cha / Root Class) của mọi hành động, nền tảng chưa qua biến đổi để chỉ bản chất công việc.</li>
+			
+					<li value="2"><strong>Thời Động Cơ</strong> [<strong>Tense Verb Base</strong>]: are, were, does, did</li>
+					<li className="margin-bottom-20 list-none">Một đơn vị chữ chuyên trách xử lý bối cảnh thời gian (hiện tại, quá khứ) hoặc làm mốc neo điều phối.</li>
+
+					<li value="3"><strong>Thời Động Cơ Phức</strong> [<strong>Complex Tense Verb Base</strong>]: have been, would have</li>
+					<li className="margin-bottom-20 list-none">Tổ hợp nhiều chữ gắn kết chặt chẽ với nhau nhằm xử lý các bối cảnh thời gian mang tính phức hợp, đa tầng.</li>
+			
+					<li value="4"><strong>Thực Động Cơ</strong> [<strong>Action Verb Base</strong>]: reading, driven, speaking (Dạng V-ing / V3)</li>
+					<li className="margin-bottom-20 list-none">Đơn vị chữ thuần túy xử lý hành động thực thi, mang toàn bộ lõi ngữ nghĩa và trạng thái chuyển động của sự việc.</li>
+
+					<li value="5"><strong>Thái Động Cơ</strong> [<strong>Modal Verb Base</strong>]: could, would, might</li>
+					<li className="margin-bottom-20 list-none">Đơn vị chữ xử lý chế độ / thái độ, thể hiện tính chất giả định, khả năng hoặc mức độ cam kết của hành động.</li>
+			
+					<li value="6"><strong>Thời-Thực Động Cơ</strong> [<strong>Tense-Action Verb Base</strong>]: read (quá khứ), drove, spoke, took, gave</li>
+					<li className="list-none">Một đơn vị duy nhất tích hợp đồng thời cả bối cảnh Thời (thường là quá khứ đơn hoặc hiện tại đơn với chủ ngữ số nhiều) và lõi hành động Thực bên trong.</li>
+			
+				</ol>
+			
+
+			<p className="margin-top-20"><strong>Hãy nhìn cách 6 loại này kết hợp bọc lót cho nhau tạo ra các khối hành động</strong>:</p>
+			
+				<ul className="list-square">
+			
+					<li>are reading → Thời Động Cơ "are" + Thực Động Cơ "reading"</li>
+			
+					<li>were driving → Thời Động Cơ "was" + Thực Động Cơ "driving"</li>
+			
+					<li>has driven → Thời Động Cơ "has" + Thực Động Cơ "driven"</li>
+
+					<li>have been speaking → Thời Động Cơ Phức "have been" + Thực Động Cơ "speaking"</li>
+			
+					<li>would have read → Thời Động Cơ Phức "would have" + Thực Động Cơ "read"</li>
+			
+					<li>drove → Thời-Thực Động Cơ (Một đơn vị tự tích hợp cả hai)</li>
+
+					<li>could speak → Thái Động Cơ "could" + Động Cơ "speak"</li>
+			
+				</ul>
 			
 			
-			
-			<p className="margin-top-20">Hạt nhân điều khiển mọi hành động trong tiếng Anh chính là ĐỘNG CƠ. Từ hình thái gốc của Động cơ, ngôn ngữ sẽ tiến hóa theo 3 cấp độ: Động cơ [Verb Base] → Động Cụm [Verb Phrase] → Động Câu [Verb Clause].</p>
+			<p className="margin-top-20">Bên cạnh đó, ngôn ngữ còn sử dụng một loại hình thái khối đặc biệt không xuất phát từ động cơ, đó là Giới Cụm [Prepositional Phrase]. Khối hình thái này chuyên đảm nhận việc sinh ra chức năng Tính và Trạng ở cấp độ cụm.</p>
 
-			<p>Khi các hình thái động này được đặt vào những vị trí khác nhau trong câu, chúng sẽ lập tức sinh ra các chức năng tương ứng: Danh, Tính, hoặc Trạng.</p>
-
-			<p>Bên cạnh đó, ngôn ngữ còn sử dụng một loại hình thái khối đặc biệt không xuất phát từ động cơ, đó là Giới Cụm [Prepositional Phrase]. Khối hình thái này chuyên đảm nhận việc sinh ra chức năng Tính và Trạng ở cấp độ cụm.</p>
-
-			<p className="margin-top-20">Hãy nhớ hai định nghĩa nền tảng về câu:</p>
+			<p>Hãy nhớ hai định nghĩa nền tảng về câu:</p>
 			
 				<ul className="list-square">
 			

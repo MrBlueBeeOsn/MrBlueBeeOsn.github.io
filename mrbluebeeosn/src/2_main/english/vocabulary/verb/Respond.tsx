@@ -67,7 +67,7 @@ export default function Respond(): React.JSX.Element {
           <li value="2"><strong>Thời Động Cơ</strong> [<strong>Tense Verb Base</strong>]: is, was, has, had, will</li>
           <li className="margin-bottom-20 list-none">Là đơn vị từ đơn chuyên biệt chịu trách nhiệm kích hoạt bối cảnh thời gian (Hiện tại/Quá khứ) hoặc làm trợ lực thiết lập thể chủ động/bị động, hoàn thành/tiếp diễn.</li>
 
-          <li value="3"><strong>Thời Động Cụm</strong> [<strong>Tense Verb Phrase</strong>]: had been, has been</li>
+          <li value="3"><strong>Thời Động Cơ Phức</strong> [<strong>Complex Tense Verb Base</strong>]: had been, has been</li>
           <li className="margin-bottom-20 list-none">Là phân hệ cụm mã gồm nhiều thành phần thời phối hợp nhau để xử lý các bối cảnh thời gian phức tạp (như Quá khứ hoàn thành tiếp diễn, Hiện tại hoàn thành tiếp diễn).</li>
       
           <li value="4"><strong>Thực Động Cơ</strong> [<strong>Action Verb Base</strong>]: responding, responded (khi đi sau các trợ mã Thời)</li>
@@ -92,9 +92,9 @@ export default function Respond(): React.JSX.Element {
       
           <li>has responded → Thời Động Cơ has + Thực Động Cơ responded</li>
       
-          <li>had been responding → Thời Động Cụm had been + Thực Động Cơ responding</li>
+          <li>had been responding → Thời Động Cơ Phức had been + Thực Động Cơ responding</li>
 
-          <li>has been responding → Thời Động Cụm has been + Thực Động Cơ responding</li>
+          <li>has been responding → Thời Động Cơ Phức has been + Thực Động Cơ responding</li>
       
           <li>responded → Thời-Thực Động Cơ (Một đơn vị tích hợp cả hai)</li>
       
@@ -102,7 +102,6 @@ export default function Respond(): React.JSX.Element {
       
         </ul>
       
-      <p className="margin-top-20"></p>
 
 
       {/* 1.  */}
