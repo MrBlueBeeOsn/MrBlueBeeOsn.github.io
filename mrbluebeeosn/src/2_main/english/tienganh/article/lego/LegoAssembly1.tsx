@@ -378,7 +378,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 
 			<p className="margin-y-30 text-indent-whole">Ví dụ 1:</p>
 
-			<p className="text-indent-whole"><strong>Tính Câu</strong> [<strong>Adjective Clause</strong>] đầy đủ: [which is written in blue ink]</p>
+			<p className="text-indent-whole"><strong>Tính Câu</strong> [<strong>Adjective Clause</strong>] <strong>đầy đủ</strong>: [which is written in blue ink]</p>
 			
 				<ul className="list-square">
 
@@ -388,7 +388,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 				</ul>
 			
 
-			<p className="margin-top-20 text-indent-whole"><strong>Tính Cụm</strong> [<strong>Adjective Phrase</strong>] rút gọn: [written in blue ink]</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Tính Cụm</strong> [<strong>Adjective Phrase</strong>] <strong>rút gọn</strong>: [written in blue ink]</p>
 			
 				<ul className="list-square">
 
@@ -400,7 +400,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 
 			<p className="margin-y-30 text-indent-whole">Ví dụ 2:</p>
 
-			<p className="text-indent-whole"><strong>Tính Câu</strong> [<strong>Adjective Clause</strong>] đầy đủ: [which is to launch tomorrow]</p>
+			<p className="text-indent-whole"><strong>Tính Câu</strong> [<strong>Adjective Clause</strong>] <strong>đầy đủ</strong>: [which is to launch tomorrow]</p>
 			
 				<ul className="list-square">
 
@@ -410,7 +410,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 				</ul>
 			
 
-			<p className="margin-top-20 text-indent-whole"><strong>Tính Cụm</strong> [<strong>Adjective Phrase</strong>] rút gọn: [to launch tomorrow]</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Tính Cụm</strong> [<strong>Adjective Phrase</strong>] <strong>rút gọn</strong>: [to launch tomorrow]</p>
 			
 				<ul className="list-square">
 
