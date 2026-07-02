@@ -50,7 +50,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 
 			<h4 className="margin-bottom-30 text-center">Phá Vỡ 12 Thời: Học Tiếng Anh Theo Tư Duy Lắp Ghép Lego</h4>
 
-			<p>Bạn đã dành bao nhiêu năm cuộc đời để học thuộc lòng những công thức phức tạp?</p>
+			<p>Bạn đã dành bao nhiêu năm cuộc đời để học thuộc lòng những công thức cấu trúc phức tạp?</p>
 
 			<p>Để rồi mỗi khi định mở miệng nói một câu, bộ não lại mất vài giây "đóng băng" để lục tìm trong trí nhớ xem phải chia các khối ra sao?</p>
 
@@ -90,15 +90,15 @@ export default function LegoAssembly1(): React.JSX.Element {
 
 			<h4 className="margin-y-40">Bí mật về vị trí của chữ "NOT"</h4>
 					
-			<p className="text-indent-whole">Head được chia làm hai loại:</p>
+			<p className="text-indent-whole">Head được chia làm hai trạng thái:</p>
 			
 				<ul className="list-square">
 			
 					<li><strong>Head tích hợp</strong></li>
-					<li className="margin-bottom-20 list-none">Bao gồm Thời Động Cơ [Tense Verb Base] <strong>do</strong>/<strong>does</strong>/<strong>did</strong> tự nuốt vào trong Thực Động Cơ [Action Verb Base] ở câu khẳng định để biến thành Thời-Thực Động Cơ [Tense-Action Verb Base]</li>
+					<li className="margin-bottom-20 list-none">Bao gồm Thời Động Cơ [Tense Verb Base] tự nuốt vào trong Thực Động Cơ [Action Verb Base] ở câu khẳng định để biến thành Thời-Thực Động Cơ [Tense-Action Verb Base]</li>
 			
 					<li><strong>Head không tích hợp</strong></li>
-					<li className="list-none">Hiện rõ như <strong>can</strong>, <strong>will</strong>, <strong>is</strong>, <strong>are</strong>, <strong>have</strong>...</li>
+					<li className="list-none">Hiện rõ như các Thời Động Cơ, Thái Động Cơ</li>
 			
 				</ul>
 			
@@ -219,63 +219,63 @@ export default function LegoAssembly1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>[______] is exciting.</li>
-					<li className="margin-bottom-20 list-none">[Học tập] thì thú vị.</li>
+					<li>[______] is healthy.</li>
+					<li className="margin-bottom-20 list-none">[Việc bơi lội] thì lành mạnh.</li>
 
-					<li className="list-none">Hình thái: [Learning] - Thực Động Cơ [Action Verb Base] thêm đuôi -ing. Hành động gốc được đóng gói thành một thực thể cơ bản duy nhất.</li>
-					<li className="list-none">Chức năng: [Learning] - Danh Cơ [Noun Base] đóng vai trò làm Danh Chủ để tạo ra trạng thái "is exciting".</li>
+					<li className="list-none">Hình thái: [Swimming] - Động Cơ [Verb Base] swim kết hợp với đuôi -ing để tạo nên Thực Động Cơ [Action Verb Base], đóng gói hành động gốc thành một thực thể đơn nhất.</li>
+					<li className="list-none">Chức năng: [Swimming] - Danh Cơ [Noun Base] đóng vai trò làm Danh Chủ để tạo ra trạng thái "is healthy".</li>
 			
 				</ul>
 
-			<p className="margin-top-20 text-indent-whole"><strong>Danh Cụm</strong> [<strong>Noun Phrase</strong>]: [protect the environment]</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Danh Cụm</strong> [<strong>Noun Phrase</strong>]: [educate their children]</p>
 			
 				<ul className="list-square">
 			
-					<li>We must [______].</li>
-					<li className="margin-bottom-20 list-none">Chúng ta phải [bảo vệ môi trường].</li>
+					<li>Parents should [______].</li>
+					<li className="margin-bottom-20 list-none">Cha mẹ nên [giáo dục con cái của họ].</li>
 
-					<li className="list-none">Hình thái: [protect the environment] - Động Cụm [Verb Phrase] bắt đầu bằng một Động Cơ [Verb Base] nguyên mẫu "protect" (ở đây đóng vai trò là Thực Động Cơ [Action Verb Base]).</li>
-					<li className="list-none">Chức năng: [protect the environment] - Danh Cụm [Noun Phrase] đóng vai trò làm phần Danh Nhận, chịu yêu cầu trực tiếp từ bộ nguồn "must".</li>
+					<li className="list-none">Hình thái: [educate their children] - Động Cụm [Verb Phrase] bắt đầu bằng một Động Cơ [Verb Base] nguyên mẫu "educate".</li>
+					<li className="list-none">Chức năng: [educate their children] - Danh Cụm [Noun Phrase] đóng vai trò làm phần Danh Nhận, chịu yêu cầu trực tiếp từ bộ nguồn thái độ "should".</li>
 			
 				</ul>
 			
 
-			<p className="margin-top-20 text-indent-whole"><strong>Danh Câu</strong> [<strong>Noun Clause</strong>]: [what you mean]</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Danh Câu</strong> [<strong>Noun Clause</strong>]: [where they hid the key]</p>
 			
 				<ul className="list-square">
 			
-					<li>I know [______].</li>
-					<li className="margin-bottom-20 list-none">Tôi biết [những gì bạn ám chỉ].</li>
+					<li>She discovered [______].</li>
+					<li className="margin-bottom-20 list-none">Cô ấy đã phát hiện ra [nơi họ giấu chiếc chìa khóa].</li>
 
-					<li className="list-none">Hình thái: [what you mean] - Động Câu [Verb Clause] chứa Liên Cơ [Connector Base] "what" ở đầu.</li>
-					<li className="list-none">Chức năng: [what you mean] - Danh Câu [Noun Clause] đóng vai trò làm phần Danh Nhận thông tin đứng sau một Thời-Thực Động Cơ [Tense-Action Verb Base].</li>
-			
-				</ul>
-
-			
-			<p className="margin-top-20 text-indent-whole"><strong>Danh Câu Ẩn Liên</strong> [<strong>Zero-Connector Noun Clause</strong>]: [you are right]</p>
-			
-				<ul className="list-square">
-			
-					<li>I think [______].</li>
-					<li className="margin-bottom-20 list-none">Tôi nghĩ [bạn đúng].</li>
-
-					<li className="list-none">Hình thái: [you are right] - Động Câu [Verb Clause] đã bị người bản ngữ bỏ đi Liên Cơ [Connector Base] "that". Nó có hình thái cấu tạo y hệt một câu con độc lập hoàn chỉnh nhưng không thể đứng một mình.</li>
-					<li className="list-none">Chức năng: [you are right] - Danh Câu [Noun Clause] đóng vai trò làm phần Danh Nhận trực tiếp cho hành động "think".</li>
+					<li className="list-none">Hình thái: [where they hid the key] - Động Câu [Verb Clause] chứa Liên Cơ [Connector Base] "where" ở đầu.</li>
+					<li className="list-none">Chức năng: [where they hid the key] - Danh Câu [Noun Clause] đóng vai trò làm phần Danh Nhận thông tin đứng sau một Thời-Thực Động Cơ [Tense-Action Verb Base] "discovered".</li>
 			
 				</ul>
 
 			
-			<p className="margin-top-20 text-indent-whole"><strong>Danh Cụm Phân Tầng</strong> [<strong>Nested Noun Phrase</strong>]: [understand {'{why you left}'}]</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Danh Câu Ẩn Liên</strong> [<strong>Zero-Connector Noun Clause</strong>]: [we will succeed]</p>
 			
 				<ul className="list-square">
 			
-					<li>I [______ {'{______}'}].</li>
-					<li className="margin-bottom-20 list-none">Tôi [hiểu {'{lý do vì sao bạn rời đi}'}].</li>
+					<li>I believe [______].</li>
+					<li className="margin-bottom-20 list-none">Tôi tin [chúng ta sẽ thành công].</li>
 
-					<li className="margin-bottom-20 list-none">Hình thái: Khối tổng thể [understand {'{why you left}'}] là một Động Cụm [Verb Phrase] tầng ngoài. Bên trong bao gói {'{why you left}'} là một Động Câu [Verb Clause] tầng trong chứa Liên Cơ [Connector Base] "why".</li>
+					<li className="list-none">Hình thái: [we will succeed] - Động Câu [Verb Clause] đã bị người bản ngữ bỏ đi Liên Cơ [Connector Base] "that". Nhìn bề ngoài giống một câu hoàn chỉnh nhưng thực tế không thể đứng độc lập.</li>
+					<li className="list-none">Chức năng: [we will succeed] - Danh Câu [Noun Clause] đóng vai trò làm phần Danh Nhận trực tiếp cho hành động "believe".</li>
+			
+				</ul>
 
-					<li className="list-none">Chức năng: Khối {'{why you left}'} bên trong đóng vai trò là Danh Câu [Noun Clause] chịu sự điều phối của Thời-Thực Động Cơ [Tense-Action Verb Base] tầng ngoài, và toàn bộ khối [understand {'{why you left}'}] đóng vai trò là Danh Cụm [Noun Phrase] tổng thể chịu tác động của Danh Chủ I.</li>
+			
+			<p className="margin-top-20 text-indent-whole"><strong>Danh Cụm Phân Tầng</strong> [<strong>Nested Noun Phrase</strong>]: [remembers {'{how you painted the wall}'}]</p>
+			
+				<ul className="list-square">
+			
+					<li>He [______ {'{______}'}].</li>
+					<li className="margin-bottom-20 list-none">Anh ấy [nhớ {'{cách bạn đã sơn bức tường}'}].</li>
+
+					<li className="margin-bottom-20 list-none">Hình thái: Khối tổng thể [remembers {'{how you painted the wall}'}] là một Động Cụm [Verb Phrase] tầng ngoài. Bên trong bao gói {'{how you painted the wall}'} là một Động Câu [Verb Clause] tầng trong chứa Liên Cơ [Connector Base] "how".</li>
+
+					<li className="list-none">Chức năng: Khối tổng thể [remembers {'{how you painted the wall}'}] đóng vai trò là <strong>Danh Cụm</strong> [<strong>Noun Phrase</strong>] làm phần tiếp nhận tác động đứng sau chủ thể "He". Bên trong nó, khối {'{how you painted the wall}'} đóng vai trò là Danh Câu [Noun Clause] chịu sự điều phối trực tiếp của Thời-Thực Động Cơ [Tense-Action Verb Base] "remembers".</li>
 			
 				</ul>
 			
@@ -285,85 +285,85 @@ export default function LegoAssembly1(): React.JSX.Element {
 
 			<p className="text-indent-whole">Khối này dùng để tô màu, mô tả đặc điểm, tính chất hoặc trạng thái cho một đối tượng hoặc cho Danh Chủ.</p>
 
-			<p className="margin-top-20 text-indent-whole"><strong>Tính Cơ</strong> [<strong>Adjective Base</strong>]: [amazing]</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Tính Cơ</strong> [<strong>Adjective Base</strong>]: [fascinating]</p>
 			
 				<ul className="list-square">
 			
-					<li>She has an [______] voice.</li>
-					<li className="margin-bottom-20 list-none">Cô ấy có một giọng hát [kinh ngạc].</li>
+					<li>This is a [______] novel.</li>
+					<li className="margin-bottom-20 list-none">Đây là một cuốn tiểu thuyết [hấp dẫn].</li>
 
-					<li className="list-none">Hình thái: [amazing] - Thực Động Cơ [Action Verb Base] ở dạng đuôi -<strong>ing</strong>.</li>
-					<li className="list-none">Chức năng: [amazing] - Tính Cơ [Adjective Base] đứng trước Danh Cơ [Noun Base] "voice" để bổ nghĩa, làm rõ đặc điểm cho giọng hát đó.</li>
+					<li className="list-none">Hình thái: [fascinating] - Động Cơ [Verb Base] fascinate được chuyển hóa thông qua đuôi -ing thành Thực Động Cơ [Action Verb Base].</li>
+					<li className="list-none">Chức năng: [fascinating] - Tính Cơ [Adjective Base] đứng trước Danh Cơ [Noun Base] "novel" để bổ nghĩa, làm rõ đặc điểm cho cuốn tiểu thuyết.</li>
 			
 				</ul>
 			
 			
 			<p className="margin-top-20 text-indent-whole"><strong>Cấu tạo từ Động Cụm</strong></p>
 
-			<p className="margin-top-20 text-indent-whole"><strong>Tính Cụm</strong> [<strong>Adjective Phrase</strong>]: [working from home]</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Tính Cụm</strong> [<strong>Adjective Phrase</strong>]: [preparing the dessert]</p>
 			
 				<ul className="list-square">
 			
-					<li>The man is [______].</li>
-					<li className="margin-bottom-20 list-none">Người đàn ông thì [đang làm việc tại nhà].</li>
+					<li>The chef is [______].</li>
+					<li className="margin-bottom-20 list-none">Người đầu bếp thì [đang chuẩn bị món tráng miệng].</li>
 
-					<li className="list-none">Hình thái: [working from home] - Động Cụm [Verb Phrase] bắt đầu bằng Thực Động Cơ [Action Verb Base] dạng V-ing.</li>
-					<li className="list-none">Chức năng: [working from home] - Tính Cụm [Adjective Phrase] đóng vai trò làm phần mô tả trực tiếp trạng thái của Danh Chủ "The man".</li>
+					<li className="list-none">Hình thái: [preparing the dessert] - Động Cụm [Verb Phrase] bắt đầu bằng Thực Động Cơ [Action Verb Base].</li>
+					<li className="list-none">Chức năng: [preparing the dessert] - Tính Cụm [Adjective Phrase] đóng vai trò làm phần mô tả trực tiếp trạng thái của Danh Chủ "The chef".</li>
 			
 				</ul>
 
 			
 			<p className="margin-top-20 text-indent-whole"><strong>Cấu tạo từ Giới Cụm</strong></p>
 
-			<p className="margin-top-20 text-indent-whole"><strong>Tính Cụm</strong> [<strong>Adjective Phrase</strong>]: [with the blue tie]</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Tính Cụm</strong> [<strong>Adjective Phrase</strong>]: [with the red roof]</p>
 			
 				<ul className="list-square">
 			
-					<li>The man [______] is talking.</li>
-					<li className="margin-bottom-20 list-none">Người đàn ông [với chiếc cà vạt màu xanh] đang nói chuyện.</li>
+					<li>The house [______] belongs to Jack.</li>
+					<li className="margin-bottom-20 list-none">Ngôi nhà [với chiếc mái màu đỏ] thuộc về Jack.</li>
 
-					<li className="list-none">Hình thái: [with the blue tie] - Giới Cụm [Prepositional Phrase] bắt đầu bằng Giới Cơ [Prepositional Base] "with".</li>
-					<li className="list-none">Chức năng: [with the blue tie] - Tính Cụm [Adjective Phrase] đứng sau Danh Cụm "The man" để mô tả đặc điểm nhận dạng của đối tượng này.</li>
+					<li className="list-none">Hình thái: [with the red roof] - Giới Cụm [Prepositional Phrase] bắt đầu bằng Giới Cơ [Prepositional Base] "with".</li>
+					<li className="list-none">Chức năng: [with the red roof] - Tính Cụm [Adjective Phrase] đứng sau Danh Cụm "The house" để mô tả đặc điểm nhận dạng của đối tượng này.</li>
 			
 				</ul>
 
 			
-			<p className="margin-top-20 text-indent-whole"><strong>Tính Cụm Phân Tầng</strong> [<strong>Nested Adjective Phrase</strong>]: [with the belief {'{that he can win}'}]</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Tính Cụm Phân Tầng</strong> [<strong>Nested Adjective Phrase</strong>]: [with the dream {'{that he can fly}'}]</p>
 			
 				<ul className="list-square">
 			
-					<li>The man [______ {'{______}'}] is my brother.</li>
-					<li className="margin-bottom-20 list-none">Người đàn ông [với niềm tin {'{rằng anh ấy có thể chiến thắng}'}] là anh trai tôi.</li>
+					<li>The man [______ {'{______}'}] is an inventor.</li>
+					<li className="margin-bottom-20 list-none">Người đàn ông [với ước mơ {'{rằng anh ấy có thể bay}'}] là một nhà sáng chế.</li>
 
-					<li className="margin-bottom-20 list-none">Hình thái: Khối tổng thể [with the belief {'{that he can win}'}] là một Giới Cụm [Prepositional Phrase] tầng ngoài. Bên trong bao gói {'{that he can win}'} là một Động Câu [Verb Clause] tầng trong chứa Liên Cơ [Connector Base] "that".</li>
+					<li className="margin-bottom-20 list-none">Hình thái: Khối tổng thể [with the dream {'{that he can fly}'}] là một Giới Cụm [Prepositional Phrase] tầng ngoài. Bên trong bao gói {'{that he can fly}'} là một Động Câu [Verb Clause] tầng trong chứa Liên Cơ [Connector Base] "that".</li>
 
-					<li className="list-none">Chức năng: Khối {'{that he can win}'} bên trong đóng vai trò là Danh Câu [Noun Clause] giải thích nghĩa cho Danh Cơ [Noun Base] "belief", và toàn bộ khối [with the belief {'{that he can win}'}] đóng vai trò là Tính Cụm [Adjective Phrase] tổng thể đứng sau Danh Cụm "The man" để mô tả đặc điểm nhận dạng của đối tượng này.</li>
+					<li className="list-none">Chức năng: Khối tổng thể [with the dream {'{that he can fly}'}] đóng vai trò là <strong>Tính Cụm</strong> [<strong>Adjective Phrase</strong>] bổ nghĩa, mô tả đặc điểm nhận dạng cho Danh Chủ "The man". Bên trong nó, khối {'{that he can fly}'} đóng vai trò là Danh Câu [Noun Clause] làm nhiệm vụ đồng vị, giải thích nghĩa trực tiếp cho Danh Cơ [Noun Base] "dream".</li>
 			
 				</ul>
 			
 
-			<p className="margin-top-20 text-indent-whole"><strong>Tính Câu</strong> [<strong>Adjective Clause</strong>]: [which lies on the table]</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Tính Câu</strong> [<strong>Adjective Clause</strong>]: [which sits on the desk]</p>
 			
 				<ul className="list-square">
 			
-					<li>The book [______] is mine.</li>
-					<li className="margin-bottom-20 list-none">Cuốn sách [nằm trên bàn] là của tôi.</li>
+					<li>The laptop [______] is broken.</li>
+					<li className="margin-bottom-20 list-none">Chiếc máy tính xách tay [nằm trên bàn] thì bị hỏng.</li>
 
-					<li className="list-none">Hình thái: [which lies on the table] - Động Câu [Verb Clause] chứa Liên Cơ [Connector Base] "which" ở đầu.</li>
-					<li className="list-none">Chức năng: [which lies on the table] - Tính Câu [Adjective Clause] bổ nghĩa trực tiếp cho Danh Cụm [Noun Phrase] "The book" đứng trước nó.</li>
+					<li className="list-none">Hình thái: [which sits on the desk] - Động Câu [Verb Clause] chứa Liên Cơ [Connector Base] "which" ở đầu.</li>
+					<li className="list-none">Chức năng: [which sits on the desk] - Tính Câu [Adjective Clause] bổ nghĩa trực tiếp cho Danh Cụm [Noun Phrase] "The laptop".</li>
 			
 				</ul>
 
 
-			<p className="margin-top-20 text-indent-whole"><strong>Tính Câu Ẩn Liên</strong> [<strong>Zero-Connector Adjective Clause</strong>]: [I watched yesterday]</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Tính Câu Ẩn Liên</strong> [<strong>Zero-Connector Adjective Clause</strong>]: [we heard last night]</p>
 			
 				<ul className="list-square">
 			
-					<li>The movie [______] was great.</li>
-					<li className="margin-bottom-20 list-none">Bộ phim [tôi xem ngày hôm qua] thì rất tuyệt.</li>
+					<li>The song [______] was beautiful.</li>
+					<li className="margin-bottom-20 list-none">Bài hát [chúng ta nghe tối qua] thì thật đẹp.</li>
 
-					<li className="list-none">Hình thái: [I watched yesterday] - Động Câu [Verb Clause] đã bị người bản ngữ lược bỏ Liên Cơ [Connector Base] "which/that". Nhìn bề ngoài, nó là một cấu trúc câu đầy đủ nhưng bản chất vẫn bám chặt vào Danh Cụm phía trước.</li>
-					<li className="list-none">Chức năng: [I watched yesterday] - Tính Câu [Adjective Clause] làm nhiệm vụ giới hạn, bổ nghĩa đặc điểm cho thực thể "The movie".</li>
+					<li className="list-none">Hình thái: [we heard last night] - Động Câu [Verb Clause] đã bị người bản ngữ lược bỏ Liên Cơ [Connector Base] "which/that".</li>
+					<li className="list-none">Chức năng: [we heard last night] - Tính Câu [Adjective Clause] làm nhiệm vụ giới hạn, bổ nghĩa đặc điểm cho thực thể "The song".</li>
 			
 				</ul>
 
@@ -378,44 +378,44 @@ export default function LegoAssembly1(): React.JSX.Element {
 
 			<p className="margin-y-30 text-indent-whole">Ví dụ 1:</p>
 
-			<p className="text-indent-whole"><strong>Tính Câu</strong> [<strong>Adjective Clause</strong>] đầy đủ: [which is written in English]</p>
+			<p className="text-indent-whole"><strong>Tính Câu</strong> [<strong>Adjective Clause</strong>] đầy đủ: [which is written in blue ink]</p>
 			
 				<ul className="list-square">
 
-					<li>The book [______] is good.</li>
-					<li className="list-none">Cuốn sách [mà được viết bằng tiếng Anh] thì tốt.</li>
+					<li>The letter [______] is good.</li>
+					<li className="list-none">Thư [mà được viết bằng mực xanh] thì tốt.</li>
 			
 				</ul>
 			
 
-			<p className="margin-top-20 text-indent-whole"><strong>Tính Cụm</strong> [<strong>Adjective Phrase</strong>] rút gọn: [written in English]</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Tính Cụm</strong> [<strong>Adjective Phrase</strong>] rút gọn: [written in blue ink]</p>
 			
 				<ul className="list-square">
 
-					<li>The book <strong>is</strong> [______].</li>
-					<li className="list-none">Cuốn sách [được viết bằng tiếng Anh].</li>
+					<li>The letter <strong>is</strong> [______].</li>
+					<li className="list-none">Thư [được viết bằng mực xanh].</li>
 			
 				</ul>
 			
 
 			<p className="margin-y-30 text-indent-whole">Ví dụ 2:</p>
 
-			<p className="text-indent-whole"><strong>Tính Câu</strong> [<strong>Adjective Clause</strong>] đầy đủ: [which is to launch the product]</p>
+			<p className="text-indent-whole"><strong>Tính Câu</strong> [<strong>Adjective Clause</strong>] đầy đủ: [which is to launch tomorrow]</p>
 			
 				<ul className="list-square">
 
-					<li>The team [______] is ready.</li>
-					<li className="list-none">Đội ngũ [mà ra mắt sản phẩm] thì sẵn sàng.</li>
+					<li>The rocket [______] is ready.</li>
+					<li className="list-none">Tên lửa [sắp phóng ngày mai] thì sẵn sàng.</li>
 			
 				</ul>
 			
 
-			<p className="margin-top-20 text-indent-whole"><strong>Tính Cụm</strong> [<strong>Adjective Phrase</strong>] rút gọn: [to launch the product]</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Tính Cụm</strong> [<strong>Adjective Phrase</strong>] rút gọn: [to launch tomorrow]</p>
 			
 				<ul className="list-square">
 
-					<li>The team <strong>is</strong> [______].</li>
-					<li className="list-none">Đội ngũ [ra mắt sản phẩm].</li>
+					<li>The rocket <strong>is</strong> [______].</li>
+					<li className="list-none">Tên lửa [sắp phòng ngày mai].</li>
 			
 				</ul>
 			
@@ -425,82 +425,82 @@ export default function LegoAssembly1(): React.JSX.Element {
 
 			<p className="text-indent-whole">Khối này dùng để mở rộng không gian, thời gian, mục đích, cách thức hoặc nguyên nhân cho hành động chính của câu.</p>
 
-			<p className="margin-top-20 text-indent-whole"><strong>Trạng Cơ</strong> [<strong>Adverb Base</strong>]: [slowly]</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Trạng Cơ</strong> [<strong>Adverb Base</strong>]: [beautifully]</p>
 			
 				<ul className="list-square">
 			
-					<li>He walked [______].</li>
-					<li className="margin-bottom-20 list-none">Anh ấy đi bộ [một cách chậm chạp].</li>
+					<li>She sang [______].</li>
+					<li className="margin-bottom-20 list-none">Cô ấy đã hát [một cách xinh đẹp/hay].</li>
 
-					<li className="list-none">Hình thái: [slowly] - Thực Động Cơ [Action Verb Base] gốc được thêm cấu hình trạng thái -<strong>ly</strong>.</li>
-					<li className="list-none">Chức năng: [slowly] - Trạng Cơ [Adverb Base] bổ nghĩa cho Thời-Thực Động Cơ [Tense-Action Verb Base] hành động "walked", mô tả cách thức hành động được thực hiện.</li>
+					<li className="list-none">Hình thái: [beautifully] - Động Cơ [Verb Base] beauty kết hợp với hậu tố tạo tính từ -ful và hậu tố trạng từ -ly để định hình trạng thái.</li>
+					<li className="list-none">Chức năng: [beautifully] - Trạng Cơ [Adverb Base] bổ nghĩa cho Thời-Thực Động Cơ [Tense-Action Verb Base] hành động "sang", mô tả cách thức hành động được thực hiện.</li>
 			
 				</ul>
 
 
-			<p className="margin-top-20 text-indent-whole"><strong>Trạng Cụm</strong> [<strong>Adverb Phrase</strong>] (<strong>Cấu tạo từ Động Cụm</strong>): [to pass the exam]</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Trạng Cụm</strong> [<strong>Adverb Phrase</strong>] (<strong>Cấu tạo từ Động Cụm</strong>): [to improve his health]</p>
 			
 				<ul className="list-square">
 			
-					<li>They study hard [______].</li>
-					<li className="margin-bottom-20 list-none">Họ học chăm chỉ [để vượt qua kỳ thi].</li>
+					<li>He exercises daily [______].</li>
+					<li className="margin-bottom-20 list-none">Anh ấy tập thể dục hàng ngày [để cải thiện sức khỏe].</li>
 
-					<li className="list-none">Hình thái: [to pass the exam] - Động Cụm [Verb Phrase] bắt đầu bằng dạng nguyên mẫu có <strong>to</strong>.</li>
-					<li className="list-none">Chức năng: [to pass the exam] - Trạng Cụm [Adverb Phrase] đứng cuối câu để làm rõ mục đích cho hành động trước đó.</li>
+					<li className="list-none">Hình thái: [to improve his health] - Động Cụm [Verb Phrase] bắt đầu bằng dạng nguyên mẫu có <strong>to</strong>.</li>
+					<li className="list-none">Chức năng: [to improve his health] - Trạng Cụm [Adverb Phrase] đứng cuối câu để làm rõ mục đích cho hành động trước đó.</li>
 			
 				</ul>
 			
 
-			<p className="margin-top-20 text-indent-whole"><strong>Trạng Cụm</strong> [<strong>Adverb Phrase</strong>] (<strong>Cấu tạo từ Giới Cụm</strong>): [in the library]</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Trạng Cụm</strong> [<strong>Adverb Phrase</strong>] (<strong>Cấu tạo từ Giới Cụm</strong>): [at the coffee shop]</p>
 			
 				<ul className="list-square">
 			
-					<li>They study hard [______].</li>
-					<li className="margin-bottom-20 list-none">Họ học hành chăm chỉ [ở trong thư viện].</li>
+					<li>They met [______].</li>
+					<li className="margin-bottom-20 list-none">Họ đã gặp nhau [tại quán cà phê].</li>
 
-					<li className="list-none">Hình thái: [in the library] - Giới Cụm [Prepositional Phrase] bắt đầu bằng Giới Cơ [Prepositional Base] "in".</li>
-					<li className="list-none">Chức năng: [in the library] - Trạng Cụm [Adverb Phrase] đứng cuối câu để bổ sung bối cảnh không gian cho hành động học.</li>
+					<li className="list-none">Hình thái: [at the coffee shop] - Giới Cụm [Prepositional Phrase] bắt đầu bằng Giới Cơ [Prepositional Base] "at".</li>
+					<li className="list-none">Chức năng: [at the coffee shop] - Trạng Cụm [Adverb Phrase] đứng cuối câu để bổ sung bối cảnh không gian.</li>
 			
 				</ul>
 			
 
-			<p className="margin-top-20 text-indent-whole"><strong>Trạng Cụm Phân Tầng</strong> [<strong>Nested Adverb Phrase</strong>]: [at the moment {'{when the show started}'}]</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Trạng Cụm Phân Tầng</strong> [<strong>Nested Adverb Phrase</strong>]: [at the hour {'{when the train departed}'}]</p>
 			
 				<ul className="list-square">
 			
-					<li>They arrived [______ {'{______}'}].</li>
-					<li className="margin-bottom-20 list-none">Họ đã đến [vào thời điểm {'{khi buổi biểu diễn bắt đầu}'}].</li>
+					<li>We arrived [______ {'{______}'}].</li>
+					<li className="margin-bottom-20 list-none">Chúng tôi đã đến [vào cái giờ {'{khi đoàn tàu khởi hành}'}].</li>
 
-					<li className="margin-bottom-20 list-none">Hình thái: Khối tổng thể [at the moment {'{when the show started}'}] là một Giới Cụm [Prepositional Phrase] tầng ngoài. Bên trong bao gói {'{when the show started}'} là một Động Câu [Verb Clause] tầng trong chứa Liên Cơ [Connector Base] "when".</li>
+					<li className="margin-bottom-20 list-none">Hình thái: Khối tổng thể [at the hour {'{when the train departed}'}] là một Giới Cụm [Prepositional Phrase] tầng ngoài. Bên trong bao gói {'{when the train departed}'} là một Động Câu [Verb Clause] chứa Liên Cơ [Connector Base] "when".</li>
 
-					<li className="list-none">Chức năng: Khối {'{when the show started}'} bên trong đóng vai trò là Tính Câu [Adjective Clause] bổ nghĩa cho Danh Cơ [Noun Base] "moment", và toàn bộ khối [at the moment {'{when the show started}'}] đóng vai trò là Trạng Cụm [Adverb Phrase] tổng thể đứng cuối câu để bổ sung bối cảnh thời gian cho hành động "arrived".</li>
+					<li className="list-none">Chức năng: Khối tổng thể [at the hour {'{when the train departed}'}] đóng vai trò là <strong>Trạng Cụm</strong> [<strong>Adverb Phrase</strong>] bổ sung bối cảnh thời gian cho hành động chính "arrived". Bên trong nó, khối {'{when the train departed}'} đóng vai trò là Tính Câu [Adjective Clause] bổ nghĩa cho Danh Cơ [Noun Base] "hour".</li>
 			
 				</ul>
 			
 					
-			<p className="margin-top-20 text-indent-whole"><strong>Trạng Câu</strong> [<strong>Adverb Clause</strong>]: [until you return]</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Trạng Câu</strong> [<strong>Adverb Clause</strong>]: [because it is raining]</p>
 			
 				<ul className="list-square">
 			
-					<li>I will wait [______].</li>
-					<li className="margin-bottom-20 list-none">Tôi sẽ đợi [cho đến khi bạn quay lại].</li>
+					<li>I will stay [______].</li>
+					<li className="margin-bottom-20 list-none">Tôi sẽ ở lại [bởi vì trời đang mưa].</li>
 
-					<li className="list-none">Hình thái: [until you return] - Động Câu [Verb Clause] chứa Liên Cơ [Connector Base] "until" và một cặp S - hành động hoàn chỉnh bên trong.</li>
-					<li className="list-none">Chức năng: [until you return] - Trạng Câu [Adverb Clause] bổ nghĩa cho hành động chính "will wait", mở rộng bối cảnh thời gian.</li>
+					<li className="list-none">Hình thái: [because it is raining] - Động Câu [Verb Clause] chứa Liên Cơ [Connector Base] "because" và một cặp S - hành động hoàn chỉnh bên trong.</li>
+					<li className="list-none">Chức năng: [because it is raining] - Trạng Câu [Adverb Clause] bổ nghĩa cho hành động chính "will stay", mở rộng bối cảnh nguyên nhân.</li>
 					
 			
 				</ul>
 
 
-			<p className="margin-top-20 text-indent-whole"><strong>Trạng Câu Ẩn Liên</strong> [<strong>Zero-Connector Adverb Clause</strong>]: [Had I known the truth]</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Trạng Câu Ẩn Liên</strong> [<strong>Zero-Connector Adverb Clause</strong>]: [Should you need help]</p>
 			
 				<ul className="list-square">
 			
-					<li>[______], I would have acted differently.</li>
-					<li className="margin-bottom-20 list-none">[Nếu tôi biết sự thật], tôi đã hành động khác đi.</li>
+					<li>[______], call me immediately.</li>
+					<li className="margin-bottom-20 list-none">[Nếu bạn cần giúp đỡ], hãy gọi tôi ngay lập tức.</li>
 
-					<li className="list-none">Hình thái: [Had I known the truth] - Động Câu [Verb Clause] đã được người bản ngữ triệt tiêu toàn bộ Liên Cơ [Connector Base] điều kiện "If" bằng phương pháp đảo khối nguồn lên trước. Hình thái lúc này trông giống như một cấu trúc độc lập nhưng bắt buộc phải bám vào vế sau.</li>
-					<li className="list-none">Chức năng: [Had I known the truth] - Trạng Câu [Adverb Clause] đóng vai trò cung cấp bối cảnh giả định, nguyên nhân điều kiện cho toàn bộ câu lớn phía sau.</li>
+					<li className="list-none">Hình thái: [Should you need help] - Động Câu [Verb Clause] đã được triệt tiêu toàn bộ Liên Cơ [Connector Base] điều kiện "If" bằng phương pháp đảo Thái Động Cơ lên trước.</li>
+					<li className="list-none">Chức năng: [Should you need help] - Trạng Câu [Adverb Clause] đóng vai trò cung cấp bối cảnh giả định cho câu lớn phía sau.</li>
 					
 			
 				</ul>
@@ -508,35 +508,35 @@ export default function LegoAssembly1(): React.JSX.Element {
 			
 			{/* 5.  */}
 
-			<h3 className="margin-y-50 text-center">5. Ứng Dụng Đỉnh Cao: Paraphrasing Bằng Tư Tư Duy "Thay Khối Đồng Chức Năng"</h3>
+			<h3 className="margin-y-50 text-center">5. Ứng Dụng Đỉnh Cao: Paraphrasing Bằng Tư Duy "Thay Khối Đồng Chức Năng"</h3>
 
-			<p>Bản chất của viết lại câu chỉ đơn giản là một bài toán giữ nguyên bộ khung cấu trúc tổng thể, chỉ nhấc một khối Lego ra và đặt vào đó một khối Lego khác có kích thước khác hoặc hình thái khác nhưng mang cùng một màu Chức năng.</p>
+			<p>Bản chất của viết lại câu chỉ đơn giản là một bài toán giữ nguyên bộ khung cấu trúc tổng thể, chỉ nhấc một khối Lego ra và đặt vào đó một khối Lego khác có kích thước hoặc hình thái khác nhưng mang cùng một màu Chức năng.</p>
 
 
 			<h4 className="margin-y-40">Hướng 1: Tăng giảm kích thước (Từ cấp độ Cơ lên cấp độ Câu)</h4>
 					
-			<p className="margin-top-20 text-indent-whole"><strong>Câu gốc sử dụng khối chức năng TRẠNG ở cấp độ Cơ</strong>: [early]</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Câu gốc sử dụng khối chức năng TRẠNG ở cấp độ Cơ</strong>: [safely]</p>
 			
 				<ul className="list-square">
 			
-					<li>We closed the shop [______].</li>
-					<li className="margin-bottom-20 list-none">Chúng tôi đã đóng cửa cửa hàng [sớm].</li>
+					<li>The plane landed [______].</li>
+					<li className="margin-bottom-20 list-none">Máy bay đã hạ cánh [một cách an toàn].</li>
 			
-					<li className="list-none">Hình thái: [early] - Động Cơ [Verb Base] nguyên mẫu gốc được thêm cấu hình trạng thái.</li>
-					<li className="list-none">Chức năng: [early] - Trạng Cơ [Adverb Base] bổ nghĩa cho Thời-Thực Động Cơ [Tense-Action Verb Base] "closed", mở rộng bối cảnh thời gian.</li>
+					<li className="list-none">Hình thái: [safely]</li>
+					<li className="list-none">Chức năng: [safely] - Trạng Cơ [Adverb Base] đảm nhiệm vai trò bổ nghĩa cách thức cho hành động "landed".</li>
 			
 				</ul>
 			
 			
-			<p className="margin-top-20 text-indent-whole"><strong>Nâng cấp lên cấp độ Câu</strong> (<strong>Thay mảnh câu con lớn hơn nhưng giữ nguyên màu TRẠNG</strong>): [before the storm arrived]</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Nâng cấp lên cấp độ Câu</strong> (<strong>Thay mảnh câu con lớn hơn nhưng giữ nguyên màu TRẠNG</strong>): [after the weather cleared up]</p>
 			
 				<ul className="list-square">
 			
-					<li>We closed the shop [______].</li>
-					<li className="margin-bottom-20 list-none">Chúng tôi đã đóng cửa cửa hàng [trước khi cơn bão ập đến].</li>
+					<li>The plane landed [______].</li>
+					<li className="margin-bottom-20 list-none">Máy bay đã hạ cánh [sau khi thời tiết quang đãng trở lại].</li>
 			
-					<li className="list-none">Hình thái: [before the storm arrived] - Động Câu [Verb Clause] chứa Liên Cơ [Connector Base] "before", Danh Chủ và hành động riêng bên trong.</li>
-					<li className="list-none">Chức năng: [before the storm arrived] - Trạng Câu [Adverb Clause] bổ nghĩa cho hành động chính của câu lớn, mở rộng bối cảnh thời gian.</li>
+					<li className="list-none">Hình thái: [after the weather cleared up] - Động Câu [Verb Clause] chứa Liên Cơ [Connector Base] "after".</li>
+					<li className="list-none">Chức năng: [after the weather cleared up] - Trạng Câu [Adverb Clause] đảm nhiệm vai trò bổ nghĩa bối cảnh thời gian cho hành động chính của câu lớn.</li>
 			
 				</ul>
 			
@@ -544,57 +544,57 @@ export default function LegoAssembly1(): React.JSX.Element {
 
 			<h4 className="margin-y-40">Hướng 2: Thay đổi cấu trúc bao gói (Giữ nguyên vị trí khung, thay đổi hình thái dữ liệu)</h4>
 					
-			<p className="text-indent-whole"><strong>Sử dụng khối Động Cụm đóng vai trò DANH</strong>: [falling stock prices]</p>
+			<p className="text-indent-whole"><strong>Sử dụng khối Động Cụm đóng vai trò DANH</strong>: [eating more vegetables]</p>
 			
 				<ul className="list-square">
 			
-					<li>Analysts predict [______].</li>
-					<li className="margin-bottom-20 list-none">Các chuyên gia dự báo [giá cổ phiếu đang lao dốc].</li>
+					<li>Doctors recommend [______].</li>
+					<li className="margin-bottom-20 list-none">Bác sĩ khuyến nghị [việc ăn nhiều rau hơn].</li>
 			
-					<li className="list-none">Hình thái: [falling stock prices] - Động Cụm [Verb Phrase] bắt đầu bằng Thực Động Cơ [Action Verb Base] dạng V-ing "falling".</li>
-					<li className="list-none">Chức năng: [falling stock prices] - Danh Cụm [Noun Phrase] đóng vai trò làm phần Danh Nhận, chịu yêu cầu trực tiếp từ Thời-Thực Động Cơ [Tense-Action Verb Base] "predict".</li>
+					<li className="list-none">Hình thái: [eating more vegetables] - Động Cụm [Verb Phrase] bắt đầu bằng Thực Động Cơ [Action Verb Base].</li>
+					<li className="list-none">Chức năng: [eating more vegetables] - Danh Cụm [Noun Phrase] đảm nhiệm vai trò làm Danh Nhận đứng sau Thời-Thực Động Cơ [Tense-Action Verb Base] "recommend".</li>
 			
 				</ul>
 			
 			
-			<p className="margin-top-20 text-indent-whole"><strong>Biến đổi sang khối Động Câu đóng vai trò DANH</strong>: [that stock prices will drop]</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Biến đổi sang khối Động Câu đóng vai trò DANH</strong>: [that you eat more vegetables]</p>
 			
 				<ul className="list-square">
 			
-					<li>Analysts predict [______].</li>
-					<li className="margin-bottom-20 list-none">Các chuyên gia dự báo [rằng giá cổ phiếu sẽ sụt giảm].</li>
+					<li>Doctors recommend [______].</li>
+					<li className="margin-bottom-20 list-none">Bác sĩ khuyến nghị [rằng bạn nên ăn nhiều rau hơn].</li>
 			
-					<li className="list-none">Hình thái: [that stock prices will drop] - Động Câu [Verb Clause] chứa Liên Cơ [Connector Base] "that" ở đầu.</li>
-					<li className="list-none">Chức năng: [that stock prices will drop] - Danh Câu [Noun Clause] đóng vai trò làm phần Danh Nhận thông tin đứng sau một Thời-Thực Động Cơ [Tense-Action Verb Base].</li>
+					<li className="list-none">Hình thái: [that you eat more vegetables] - Động Câu [Verb Clause] chứa Liên Cơ [Connector Base] "that".</li>
+					<li className="list-none">Chức năng: [that you eat more vegetables] - Danh Câu [Noun Clause] đảm nhiệm vai trò làm Danh Nhận đứng sau hành động điều khiển "recommend".</li>
 			
 				</ul>
 			
 			
 
-			<h4 className="margin-y-40">Hướng 3: Luân chuyển giữa Động Cụm và Giới Cụm (Xếp Động trước, Giới sau)</h4>
+			<h4 className="margin-y-40">Hướng 3: Luân chuyển giữa Động Cụm và Giới Cụm</h4>
 
-			<p className="text-indent-whole"><strong>Sử dụng khối Động Cụm đóng vai trò TRẠNG</strong> (<strong>Chỉ mục đích</strong>): [to communicate with foreigners]</p>
+			<p className="text-indent-whole"><strong>Sử dụng khối Động Cụm đóng vai trò TRẠNG</strong> (<strong>Chỉ mục đích</strong>): [to learn the culture]</p>
 			
 				<ul className="list-square">
 			
-					<li>She practices English [______].</li>
-					<li className="margin-bottom-20 list-none">Cô ấy luyện tập tiếng Anh [để giao tiếp với người nước ngoài].</li>
+					<li>He traveled to Japan [______].</li>
+					<li className="margin-bottom-20 list-none">Anh ấy đã đến Nhật Bản [để tìm hiểu văn hóa].</li>
 			
-					<li className="list-none">Hình thái: [to communicate with foreigners] - Động Cụm [Verb Phrase] bắt đầu bằng Động Cơ [Verb Base] dạng nguyên mẫu có "to" (ở đây đóng vai trò là Thực Động Cơ [Action Verb Base]).</li>
-					<li className="list-none">Chức năng: [to communicate with foreigners] - Trạng Cụm [Adverb Phrase] đứng cuối câu để làm rõ mục đích cho hành động trước đó.</li>
+					<li className="list-none">Hình thái: [to learn the culture] - Động Cụm [Verb Phrase] bắt đầu bằng Động Cơ [Verb Base] nguyên mẫu có "to".</li>
+					<li className="list-none">Chức năng: [to learn the culture] - Trạng Cụm [Adverb Phrase] đảm nhiệm vai trò mở rộng mục đích cho hành động.</li>
 			
 				</ul>
 			
 			
-			<p className="margin-top-20 text-indent-whole"><strong>Chuyển đổi sang khối Giới Cụm đóng vai trò TRẠNG</strong> (<strong>Chỉ mục đích</strong>): [for communication with foreigners]</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Chuyển đổi sang khối Giới Cụm đóng vai trò TRẠNG</strong> (<strong>Chỉ mục đích</strong>): [for cultural exploration]</p>
 			
 				<ul className="list-square">
 			
-					<li>She practices English [______].</li>
-					<li className="margin-bottom-20 list-none">Cô ấy luyện tập tiếng Anh [vì mục đích giao tiếp với người nước ngoài].</li>
+					<li>He traveled to Japan [______].</li>
+					<li className="margin-bottom-20 list-none">Anh ấy đã đến Nhật Bản [vì mục đích khám phá văn hóa].</li>
 			
-					<li className="list-none">Hình thái: [for communication with foreigners] - Giới Cụm [Prepositional Phrase] bắt đầu bằng Giới Cơ [Prepositional Base] "for".</li>
-					<li className="list-none">Chức năng: [for communication with foreigners] - Trạng Cụm [Adverb Phrase] đứng cuối câu để bổ sung bối cảnh nguyên nhân mục đích cho hành động trước đó.</li>
+					<li className="list-none">Hình thái: [for cultural exploration] - Giới Cụm [Prepositional Phrase] bắt đầu bằng Giới Cơ [Prepositional Base] "for".</li>
+					<li className="list-none">Chức năng: [for cultural exploration] - Trạng Cụm [Adverb Phrase] đảm nhiệm vai trò mở rộng mục đích/nguyên nhân cho hành động trước đó.</li>
 			
 				</ul>
 
@@ -609,15 +609,15 @@ export default function LegoAssembly1(): React.JSX.Element {
 
 			<h4 className="margin-y-40">Luật Phủ định: Chốt chặn "NOT" sau Head</h4>
 					
-			<p className="margin-top-20 text-indent-whole">Bạn chỉ việc nhét khối <strong>NOT</strong> vào ngay sau Bộ nguồn (Head). Khối <strong>not</strong> này sẽ thuộc về vùng quản lý của phần Dependent phía sau.</p>
+			<p className="margin-top-20 text-indent-whole">Bạn chỉ việc nhét khối <strong>NOT</strong> vào ngay sau Bộ nguồn (Head). Khối not này sẽ thuộc về vùng quản lý của phần Dependent phía sau.</p>
 
 
 			<p className="margin-top-20 text-indent-whole"><strong>Khẳng định</strong>:</p>
 			
 				<ul className="list-square">
 			
-					<li>He <strong>can</strong> [develop the app].</li>
-					<li className="list-none">Anh ấy <strong>có thể</strong> [phát triển ứng dụng đó].</li>
+					<li>He <strong>will</strong> [build the house].</li>
+					<li className="list-none">Anh ấy <strong>sẽ</strong> [xây ngôi nhà].</li>
 			
 				</ul>
 
@@ -625,8 +625,8 @@ export default function LegoAssembly1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>He can [<strong>NOT</strong> develop the app].</li>
-					<li className="list-none">Anh ấy có thể [<strong>không</strong> phát triển ứng dụng đó].</li>
+					<li>He will [<strong>NOT</strong> build the house].</li>
+					<li className="list-none">Anh ấy sẽ [<strong>không</strong> xây ngôi nhà].</li>
 			
 				</ul>
 
@@ -639,8 +639,8 @@ export default function LegoAssembly1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>You <strong>are</strong> [cooking dinner].</li>
-					<li className="list-none">Bạn <strong>đang</strong> [nấu bữa tối].</li>
+					<li>You <strong>are</strong> [driving the truck].</li>
+					<li className="list-none">Bạn <strong>đang</strong> [lái xe tải].</li>
 			
 				</ul>
 
@@ -648,44 +648,13 @@ export default function LegoAssembly1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li><strong>Are</strong> you [cooking dinner]?</li>
-					<li className="list-none">Bạn <strong>đang</strong> [nấu bữa tối]?</li>
+					<li><strong>Are</strong> you [driving the truck]?</li>
+					<li className="list-none"><strong>Phải</strong> bạn [đang lái xe tải]?</li>
 			
 				</ul>
-
-
-			<h4 className="margin-y-40">Bí mật của "Head Tàng Hình" (Tích hợp)</h4>
-
-			<p className="margin-top-20">Để phân biệt rõ hơn bản chất vận hành của vùng năng lượng điều khiển câu, chúng ta gọi tên cụ thể các loại khối hành động/chế độ dựa trên nhiệm vụ của chúng:</p>
-			
-				<ol>
-			
-					<li value="1">Động Cơ [Verb Base]:</li>
-					<li className="margin-bottom-20 list-none">Nguyên mẫu (Class cha/Root Class) của mọi hành động.</li>
-			
-					<li value="2">Thời Động Cơ [Tense Verb Base]:</li>
-					<li className="margin-bottom-20 list-none">Xử lý bối cảnh thời gian (do/does/did).</li>
-
-					<li value="3">Thực Động Cơ [Action Verb Base]:</li>
-					<li className="margin-bottom-20 list-none">Xử lý hành động thực thi đơn thuần.</li>
-			
-					<li value="4">Thái Động Cơ [Modal Verb Base]:</li>
-					<li className="margin-bottom-20 list-none">Xử lý chế độ/thái độ (can/will/must/should).</li>
-			
-					<li value="5">Thời-Thực Động Cơ [Tense-Action Verb Base]:</li>
-					<li className="list-none">Hành động tích hợp (Đóng gói Thời + Thực), dù mang hình thái nguyên mẫu vẫn thực thi logic Thời-Thực.</li>
-			
-				</ol>
 			
 					
-			<p className="margin-top-20 text-indent-whole">Ở thể khẳng định của một số câu đơn giản, các Thời Động Cơ [Tense Verb Base] <strong>do</strong>/<strong>does</strong>/<strong>did</strong> có đặc tính "nuốt" vào trong Thực Động Cơ [Action Verb Base] để đóng gói lại thành một <strong>Thời-Thực Động Cơ</strong> [<strong>Tense-Action Verb Base</strong>] duy nhất:</p>
-			
-				<ul className="list-square">
-			
-					<li>do + develop tạo thành develop</li>
-					<li>did + develop tạo thành developed</li>
-			
-				</ul>
+			<p className="margin-top-20 text-indent-whole">Ở thể khẳng định của một số câu đơn giản ở hiện tại hoặc quá khứ, các Thời Động Cơ đơn lẻ (<strong>do</strong>/<strong>does</strong>/<strong>did</strong>) có đặc tính "nuốt" vào trong Thực Động Cơ [Action Verb Base] để đóng gói lại thành một <strong>Thời-Thực Động Cơ</strong> [<strong>Tense-Action Verb Base</strong>] duy nhất (ví dụ: bối cảnh quá khứ ẩn nấp kết hợp với hành động drive tạo thành drove).</p>
 			
 
 			<p className="margin-top-20 text-indent-whole">Nhưng khi làm câu Phủ định hoặc Nghi vấn, bộ khung tích hợp này bắt buộc phải tách ra để lộ diện Thời Động Cơ [Tense Verb Base] làm nhiệm vụ gánh vác vị trí Head:</p>
@@ -695,13 +664,13 @@ export default function LegoAssembly1(): React.JSX.Element {
 			
 				<ul className="list-square">
 
-					<li>I developed [the app].</li>
-					<li className="margin-bottom-20 list-none">Tôi đã phát triển [ứng dụng đó].</li>
+					<li>I [drove the truck].</li>
+					<li className="margin-bottom-20 list-none">Tôi [đã lái xe tải].</li>
 
 					<li className="margin-bottom-20 list-none">Bản chất gốc.</li>
 
-					<li>I <strong>did</strong> [develop the app].</li>
-					<li className="margin-bottom-20 list-none">Tôi <strong>đã thực sự</strong> [phát triển ứng dụng đó].</li>
+					<li>I <strong>did</strong> [drive the truck].</li>
+					<li className="margin-bottom-20 list-none">Tôi <strong>thực sự đã</strong> [lái xe tải].</li>
 					<li className="list-none">→ Câu khẳng định mang tính nhấn mạnh</li>
 			
 				</ul>
@@ -711,8 +680,8 @@ export default function LegoAssembly1(): React.JSX.Element {
 			
 				<ul className="list-square">
 
-					<li>I did [<strong>NOT</strong> develop the app].</li>
-					<li className="margin-bottom-20 list-none">Tôi đã thực sự [<strong>không</strong> phát triển ứng dụng đó].</li>
+					<li>I did [<strong>NOT</strong> drive the truck].</li>
+					<li className="margin-bottom-20 list-none">Tôi thực sự đã [<strong>không</strong> lái xe tải].</li>
 			
 				</ul>
 
@@ -721,8 +690,8 @@ export default function LegoAssembly1(): React.JSX.Element {
 			
 				<ul className="list-square">
 
-					<li><strong>Did</strong> I [develop the app]?</li>
-					<li className="margin-bottom-20 list-none"><strong>Đã thực sự</strong> tôi [phát triển ứng dụng đó]?</li>
+					<li><strong>Did</strong> I [drive the truck]?</li>
+					<li className="margin-bottom-20 list-none"><strong>Đã thực sự</strong> tôi [lái xe tải]?</li>
 			
 				</ul>
 
@@ -735,26 +704,26 @@ export default function LegoAssembly1(): React.JSX.Element {
 
 			<h4 className="margin-y-40">1. Sửa lỗi kiến trúc ngay lập tức:</h4>
 					
-			<p className="text-indent-whole">Bạn sẽ nhận ra ngay tại sao 2 câu lại sai:</p>
+			<p className="text-indent-whole">Bạn sẽ nhận ra ngay tại sao câu lại sai:</p>
 			
 				<ul className="list-square">
 			
-					<li>She [cooking dinner].</li>
+					<li>She sleeping.</li>
 
 					<li className="list-none margin-y-10">hay</li>
 
-					<li>I [developing the app].</li>
+					<li>I driven the car.</li>
 			
 				</ul>
 			
-			<p className="margin-top-20 text-indent-whole">Chúng sai vì có Danh Chủ và có một Động Cụm [Verb Phrase], nhưng lại <strong>thiếu mất Bộ nguồn</strong> (<strong>Head</strong>) để cấp <strong>thời gian</strong>!</p>
+			<p className="margin-top-20 text-indent-whole">Chúng sai vì có Danh Chủ và có một Động Cụm [Verb Phrase], nhưng lại <strong>thiếu mất Bộ nguồn</strong> (<strong>Head</strong> hoặc <strong>Thời Động Cơ</strong>) để cấp thời gian!</p>
 
 			<p className="text-indent-whole">Bộ não của bạn sẽ tự động "báo lỗi" cơ học và buộc bạn phải cấp nguồn vào:</p>
 			
 				<ul className="list-square">
 			
-					<li>She <strong>is</strong> [cooking dinner].</li>
-					<li className="list-none">Cô ấy <strong>đang</strong> [nấu bữa tối].</li>
+					<li>She <strong>is</strong> sleeping.</li>
+					<li className="list-none">Cô ấy <strong>đang</strong> [ngủ].</li>
 			
 				</ul>
 			
