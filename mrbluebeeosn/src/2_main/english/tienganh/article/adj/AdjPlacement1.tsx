@@ -75,7 +75,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 					<li className="margin-bottom-20 list-none">Mô hình này dành cho các Tính Cơ đơn lẻ, ngắn gọn (như a luxury car, a hot day). Mục đích nhằm ném thẳng đặc điểm nổi bật vào tâm trí người nghe trước khi gọi tên đối tượng.</li>
 			
 					<li><strong>Danh Cơ đứng trước [thành phần bổ nghĩa]</strong> – <strong>Nhấn mạnh Đối tượng</strong>:</li>
-					<li className="list-none">Khi muốn đối tượng chính làm mỏ neo cho toàn câu, người bản ngữ sẽ đưa Danh Cơ lên trước giúp người nghe định hình ngay lập tức. Sau đó, họ mới thong thả thả [một chuỗi thông tin mô tả mang chức năng Tính ở phía sau].</li>
+					<li className="list-none">Khi muốn đối tượng chính làm mỏ neo cho toàn câu, người bản ngữ sẽ đưa Danh Cơ lên trước giúp người nghe định hình ngay lập tức. Sau đó, họ mới thong thả thả một chuỗi thông tin mô tả mang chức năng Tính ở phía sau.</li>
 			
 				</ul>
 			
@@ -145,22 +145,19 @@ export default function AdjPlacement1(): React.JSX.Element {
 
 			<p>Bản chất của hầu hết các khối bổ nghĩa trong tiếng Anh đều xuất phát từ hình thái của hành động: <strong>Động Cơ</strong> [<strong>Verb Base</strong>] → <strong>Động Cụm</strong> [<strong>Verb Phrase</strong>] → <strong>Động Câu</strong> [<strong>Verb Clause</strong>].</p>
 			
-			<p>Tuy nhiên, có một hình thái đặc biệt không xuất phát từ chữ chỉ hành động, đó chính là Giới Cụm [Prepositional Phrase] (khối cụm bắt đầu bằng một Giới Cơ hoặc Giới Cơ Phức kết hợp với một khối định danh phía sau).</p>
+			<p>Tuy nhiên, có một hình thái đặc biệt không xuất phát từ chữ chỉ hành động, đó chính là <strong>Giới Cụm</strong> [<strong>Prepositional Phrase</strong>] (khối cụm bắt đầu bằng một Giới Cơ hoặc Giới Cơ Phức kết hợp với một khối định danh phía sau).</p>
 				
-			
-			<p className="margin-top-20">Hệ thống bổ nghĩa cho Danh vận hành nhất quán theo chiều dọc từ cấp độ hình thái đơn giản đến phức tạp để gánh vác duy nhất một mục tiêu: Tạo ra chức năng Tính hoàn hảo.</p>
-
 			
 			<h4 className="margin-y-40">Cấp độ 1: Hình thái Động Cơ [Verb Base] mang Chức năng Tính (Tính Cơ)</h4>
 					
 			<p className="text-indent-whole">Khối hành động hạt nhân nhỏ nhất (gồm đúng 1 chữ).</p>
 
-			<p className="margin-top-20 text-indent-whole">[exciting]: Bản thân nó mang hình thái Động Cơ nhưng biến đổi sang dạng Thực Động Cơ (V-ing hoặc V3/-ed) đóng vai trò là một chữ đơn lẻ đứng sát cạnh Danh Cơ để bổ nghĩa:</p>
+			<p className="margin-top-20 text-indent-whole">Bản thân nó mang hình thái Động Cơ nhưng biến đổi sang dạng Thực Động Cơ (V-ing hoặc V3/-ed) đóng vai trò là một chữ đơn lẻ đứng sát cạnh Danh Cơ để bổ nghĩa:</p>
 			
 
 				<ul className="list-square">
 
-					<li>The company has an [______] plan.</li>
+					<li>The company has an [exciting] plan.</li>
 					<li className="margin-bottom-20 list-none">Công ty có một kế hoạch [hào hứng/thú vị].</li>
 
 					<li className="list-none">Hình thái: [exciting] - Thực Động Cơ [Action Verb Base] dạng chủ động đơn lẻ.</li>
@@ -174,16 +171,16 @@ export default function AdjPlacement1(): React.JSX.Element {
 
 			<p className="text-indent-whole">Khối cụm chứa nhiều chữ đi liền nhau để thực thi hành động, chưa tích hợp một bộ tạo thời độc lập hay chủ ngữ riêng bên trong.</p>
 
-			<p className="margin-top-20 text-indent-whole">[flying south]: Từ vị trí đứng sau Danh Cơ, nó hình thành nên chức năng Tính Cụm:</p>
+			<p className="margin-top-20 text-indent-whole">Từ vị trí đứng sau Danh Cơ, nó hình thành nên chức năng Tính Cụm:</p>
 
 				<ul className="list-square">
 
-					<li>The birds are [______].</li>
+					<li>The birds are [flying south].</li>
 					<li className="margin-bottom-20 list-none">Những con chim đang [bay về phương nam].</li>
 
 					<li className="list-none">Hình thái: [flying south] - Động Cụm [Verb Phrase] cấu thành từ Thực Động Cơ flying đi kèm từ chỉ hướng south.</li>
 
-					<li className="margin-bottom-20 list-none">Chức năng: [flying south] - Tính Cụm [Adjective Phrase] định vị sau Thời Động Cơ are để mô tả trạng thái hành động của đối tượng.</li>
+					<li className="list-none">Chức năng: [flying south] - Tính Cụm [Adjective Phrase] định vị sau Thời Động Cơ are để mô tả trạng thái hành động của đối tượng.</li>
 			
 				</ul>
 
@@ -192,11 +189,11 @@ export default function AdjPlacement1(): React.JSX.Element {
 
 			<p className="text-indent-whole">Đơn vị hành động nâng cấp thành một việc phức hợp chứa cả một hệ tạo hành động và bối cảnh thời gian riêng biệt bên trong.</p>
 
-			<p className="margin-top-20 text-indent-whole">[which is capturing global attention]: Khi đứng ngay sau một Danh Cơ, nó đảm nhận chức năng Tính Câu tối cao:</p>
+			<p className="margin-top-20 text-indent-whole">Khi đứng ngay sau một Danh Cơ, nó đảm nhận chức năng Tính Câu tối cao:</p>
 			
 				<ul className="list-square">
 
-					<li>The article [______] is inspiring.</li>
+					<li>The article [which is capturing global attention] is inspiring.</li>
 					<li className="margin-bottom-20 list-none">Bài báo [cái mà đang thu hút sự chú ý toàn cầu] thì đầy cảm hứng.</li>
 
 					<li className="list-none">Hình thái: [which is capturing global attention] - Động Câu [Verb Clause] phức hợp, chứa hệ thống cấu hình theo thời gồm Thời Động Cơ hiện tại (is) kết hợp liền mạch với Thực Động Cơ (capturing).</li>
@@ -211,11 +208,11 @@ export default function AdjPlacement1(): React.JSX.Element {
 					
 			<p className="text-indent-whole">Đây là khối từ hoàn toàn tách biệt, không bắt nguồn từ một chữ chỉ hành động. Khối này được mở đầu bằng một Giới Cơ kết hợp với các khối định danh đi liền phía sau.</p>
 
-			<p className="margin-top-20 text-indent-whole">[for economic recovery]: Khi đứng sau Danh Cơ, hình thái Giới Cụm [Prepositional Phrase] sẽ gánh vác chức năng Tính Cụm:</p>
+			<p className="margin-top-20 text-indent-whole">Khi đứng sau Danh Cơ, hình thái Giới Cụm [Prepositional Phrase] sẽ gánh vác chức năng Tính Cụm:</p>
 			
 				<ul className="list-square">
 			
-					<li>The strategies [______] are necessary.</li>
+					<li>The strategies [for economic recovery] are necessary.</li>
 					<li className="margin-bottom-20 list-none">Những chiến lược [cho sự phục hồi kinh tế] thì cần thiết.</li>
 			
 					<li className="list-none">Hình thái: [for economic recovery] - Giới Cụm [Prepositional Phrase] nguyên bản, cấu tạo bằng cách đặt Giới Cơ for chặn trước khối Danh Cụm economic recovery.</li>
@@ -236,17 +233,14 @@ export default function AdjPlacement1(): React.JSX.Element {
 					
 			<p className="text-indent-whole">Dù đối tượng bạn muốn mô tả là chủ thể hành động (Danh Chủ) hay đối tượng chịu tác động (Danh Nhận), cả hai ngôn ngữ đều có chung một phản xạ:</p>
 
-			<p className="text-indent-whole">Gọi tên đối tượng trước, bồi thêm [thông tin bổ nghĩa chức năng Tính ra phía sau].</p>
+			<p className="text-indent-whole"><strong>Gọi tên đối tượng trước</strong>, <strong>bồi thêm thông tin bổ nghĩa chức năng Tính ra phía sau</strong>.</p>
 
 			<p className="margin-top-20 text-indent-whole"><strong>Tại vị trí Danh Chủ</strong> (<strong>Đứng ở đầu câu làm chủ thể</strong>):</p>
 			
 				<ul className="list-square">
 			
-					<li className="list-none">[working in the lab]</li>
-					<li className="margin-bottom-20 list-none">[đang làm việc trong phòng thí nghiệm]</li>
-			
-					<li>The scientist [______] discovered the cure.</li>
-					<li className="list-none">Nhà khoa học [______] đã tìm ra phương thuốc.</li>
+					<li>The scientist [working in the lab] discovered the cure.</li>
+					<li className="list-none">Nhà khoa học [đang làm việc trong phòng thí nghiệm] đã tìm ra phương thuốc.</li>
 			
 				</ul>
 			
@@ -258,11 +252,8 @@ export default function AdjPlacement1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li className="list-none">[the director mentioned yesterday]</li>
-					<li className="margin-bottom-20 list-none">[giám đốc đề cập hôm qua]</li>
-			
-					<li>They solved the problem [______].</li>
-					<li className="list-none">Họ đã giải quyết vấn đề [______].</li>
+					<li>They solved the problem [the director mentioned yesterday].</li>
+					<li className="list-none">Họ đã giải quyết vấn đề [giám đốc đề cập hôm qua].</li>
 			
 				</ul>
 
@@ -294,9 +285,9 @@ export default function AdjPlacement1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>Từ bỏ cách dùng các Tính Cơ đơn lẻ đứng trước. Việc nhồi nhét quá nhiều Tính Cơ đơn lẻ sẽ làm câu văn trở nên nặng nề, lủng củng và tối nghĩa</li>
+					<li>Từ bỏ cách dùng các Tính Cơ đơn lẻ đứng trước. Việc nhồi nhét quá nhiều Tính Cơ đơn lẻ sẽ làm câu văn trở nên nặng nề, lủng củng và tối nghĩa.</li>
 			
-					<li>Thay vào đó, họ luôn ưu tiên sử dụng <strong>Tính Câu</strong> có mô hình OSV hoặc <strong>Tính Cụm</strong> đặt ngay sau Danh Cơ.</li>
+					<li>Thay vào đó, họ luôn ưu tiên sử dụng Tính Câu có mô hình OSV hoặc Tính Cụm đặt ngay sau Danh Cơ.</li>
 			
 				</ul>
 
@@ -305,13 +296,11 @@ export default function AdjPlacement1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li className="margin-bottom-20 list-none"><strong>Mạch suy nghĩ trong tiếng Anh</strong>:</li>
-					<li>[the director (Subject) mentioned (Tense-Action Verb Base) yesterday]</li>
-					<li className="margin-bottom-20 list-none">They solved <strong>the problem</strong> [______].</li>
+					<li className="list-none"><strong>Mạch suy nghĩ trong tiếng Anh</strong>:</li>
+					<li className="margin-bottom-20 list-none">They solved the problem [the director (Subject) mentioned (Tense-Action Verb Base) yesterday].</li>
 			
-					<li className="margin-bottom-20 list-none"><strong>Mạch suy nghĩ trong tiếng Việt</strong>:</li>
-					<li>[giám đốc (Danh Chủ) đề cập (Thời-Thực Động Cơ) hôm qua]</li>
-					<li className="list-none">Họ đã giải quyết <strong>vấn đề</strong> [______].</li>
+					<li className="list-none"><strong>Mạch suy nghĩ trong tiếng Việt</strong>:</li>
+					<li className="list-none">Họ đã giải quyết vấn đề [giám đốc (Danh Chủ) đề cập (Thời-Thực Động Cơ) hôm qua].</li>
 			
 				</ul>
 			
@@ -322,7 +311,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 			
 					<li>Đối tượng chịu tác động cốt lõi là the problem / vấn đề (đóng vai trò Danh Nhận). Đứng ngay sau nó là một hệ tạo hành động mini gồm người thực hiện the director / giám đốc (đóng vai trò Subject) và hành động mentioned / đề cập (đóng vai trò Tense-Action Verb Base tích hợp logic thời quá khứ và hành động đề cập). Trật tự từ không hề bị xáo trộn.</li>
 			
-					<li>Người Việt nghĩ đến đối tượng bị tác động trước, rồi mới nghĩ đến ai làm gì đối tượng đó sau</li>
+					<li>Người Việt nghĩ đến đối tượng bị tác động trước, rồi mới nghĩ đến ai làm gì đối tượng đó sau.</li>
 			
 					<li>Người bản ngữ tiếng Anh viết ra chính xác theo trình tự như vậy. Điều này chứng minh rằng ở những cách diễn đạt phức tạp và cao cấp, tiếng Anh và tiếng Việt vận hành chung một hệ điều hành tư duy.</li>
 			
@@ -360,11 +349,8 @@ export default function AdjPlacement1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li className="list-none">[to attend the summit next month]</li>
-					<li className="margin-bottom-20 list-none">[sắp tham dự hội nghị thượng đỉnh vào tháng tới]</li>
-			
-					<li>The delegates [______] are preparing their speeches.</li>
-					<li className="list-none">Những đại biểu [______] đang chuẩn bị bài phát biểu của họ.</li>
+					<li>The delegates [to attend the summit next month] are preparing their speeches.</li>
+					<li className="list-none">Những đại biểu [sắp tham dự hội nghị thượng đỉnh vào tháng tới] đang chuẩn bị bài phát biểu của họ.</li>
 			
 				</ul>
 
@@ -372,11 +358,8 @@ export default function AdjPlacement1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li className="list-none">[to be constructed near the city]</li>
-					<li className="margin-bottom-20 list-none">[sắp được xây dựng gần thành phố]</li>
-			
-					<li>The highway [______] will improve connectivity.</li>
-					<li className="list-none">Tuyến đường cao tốc [______] sẽ cải thiện khả năng kết nối.</li>
+					<li>The highway [to be constructed near the city] will improve connectivity.</li>
+					<li className="list-none">Tuyến đường cao tốc [sắp được xây dựng gần thành phố] sẽ cải thiện khả năng kết nối.</li>
 			
 				</ul>
 			
@@ -385,11 +368,8 @@ export default function AdjPlacement1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li className="list-none">[playing in the garden]</li>
-					<li className="margin-bottom-20 list-none">[đang chơi trong vườn]</li>
-			
-					<li>The child [______] looks happy.</li>
-					<li className="list-none">Đứa trẻ [______] trông có vẻ hạnh phúc.</li>
+					<li>The child [playing in the garden] looks happy.</li>
+					<li className="list-none">Đứa trẻ [đang chơi trong vườn] trông có vẻ hạnh phúc.</li>
 			
 				</ul>
 
@@ -398,11 +378,8 @@ export default function AdjPlacement1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li className="list-none">[updated yesterday]</li>
-					<li className="margin-bottom-20 list-none">[được cập nhật ngày hôm qua]</li>
-			
-					<li>The software [______] fixed all the bugs.</li>
-					<li className="list-none">Phần mềm [______] đã sửa toàn bộ lỗi.</li>
+					<li>The software [updated yesterday] fixed all the bugs.</li>
+					<li className="list-none">Phần mềm [được cập nhật ngày hôm qua] đã sửa toàn bộ lỗi.</li>
 			
 				</ul>
 			
@@ -411,11 +388,8 @@ export default function AdjPlacement1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li className="list-none">[passionate about innovation]</li>
-					<li className="margin-bottom-20 list-none">[đam mê sự đổi mới]</li>
-			
-					<li>We seek a leader [______].</li>
-					<li className="list-none">Chúng tôi tìm kiếm một nhà lãnh đạo [______].</li>
+					<li>We seek a leader [passionate about innovation].</li>
+					<li className="list-none">Chúng tôi tìm kiếm một nhà lãnh đạo [đam mê sự đổi mới].</li>
 			
 				</ul>
 			
@@ -424,11 +398,8 @@ export default function AdjPlacement1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li className="list-none">[with the red roof]</li>
-					<li className="margin-bottom-20 list-none">[với chiếc mái màu đỏ]</li>
-			
-					<li>The house [______] belongs to my grandfather.</li>
-					<li className="list-none">Ngôi nhà [______] thuộc về ông nội tôi.</li>
+					<li>The house [with the red roof] belongs to my grandfather.</li>
+					<li className="list-none">Ngôi nhà [với chiếc mái màu đỏ] thuộc về ông nội tôi.</li>
 			
 				</ul>
 			
@@ -439,9 +410,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 
 			<p className="text-indent-whole">Khi muốn mô tả một nội dung phức tạp hơn, người bản ngữ sẽ đặt một Tính Câu có mô hình OSV ngay sau Danh Cơ theo công thức:</p>
 
-					
-			<p className="margin-top-20 text-indent-whole">[Object (Who/That/Which) + Subject (Thành phần thực hiện) + Tense-Action Verb Base (Hành động tích hợp)]</p>
-			<p className="margin-bottom-20 text-indent-whole">Danh Cơ + [______]</p>
+			<p className="margin-bottom-20 text-indent-whole"><strong>Danh Cơ</strong> + [Object (Who/That/Which) + Subject (Thành phần thực hiện) + Tense-Action Verb Base (Hành động tích hợp)]</p>
 
 
 			<p className="text-indent-whole">Lúc này, các chữ Who, That, Which đóng vai trò là Object (Đối tượng chịu tác động), đứng chặn ngay đầu Tính Câu trước khi Subject và Tense-Action Verb Base xuất hiện:</p>
@@ -450,11 +419,8 @@ export default function AdjPlacement1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li className="list-none">[which (Object) they (Subject) bought (Tense-Action Verb Base)]</li>
-					<li className="margin-bottom-20 list-none">[cái mà (Danh Nhận) họ (Danh Chủ) đã mua (Thời-Thực Động Cơ)]</li>
-			
-					<li>The car [______] runs smoothly.</li>
-					<li className="list-none">Chiếc xe [______] chạy rất êm ái.</li>
+					<li>The car [which (Object) they (Subject) bought (Tense-Action Verb Base)] runs smoothly.</li>
+					<li className="list-none">Chiếc xe [cái mà (Danh Nhận) họ (Danh Chủ) đã mua (Thời-Thực Động Cơ)] chạy rất êm ái.</li>
 			
 				</ul>
 			
@@ -463,11 +429,8 @@ export default function AdjPlacement1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li className="list-none">[that (Object) he (Subject) proposed (Tense-Action Verb Base)]</li>
-					<li className="margin-bottom-20 list-none">[cái mà (Danh Nhận) anh ấy (Danh Chủ) đề xuất (Thời-Thực Động Cơ)]</li>
-			
-					<li>The strategy [______] surprised everyone.</li>
-					<li className="list-none">Chiến lược [______] làm mọi người ngạc nhiên.</li>
+					<li>The strategy [that (Object) he (Subject) proposed (Tense-Action Verb Base)] surprised everyone.</li>
+					<li className="list-none">Chiến lược [cái mà (Danh Nhận) anh ấy (Danh Chủ) đề xuất (Thời-Thực Động Cơ)] làm mọi người ngạc nhiên.</li>
 			
 				</ul>
 			
@@ -476,11 +439,8 @@ export default function AdjPlacement1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li className="list-none">[whom (Object) we (Subject) consulted (Tense-Action Verb Base)]</li>
-					<li className="margin-bottom-20 list-none">[người mà (Danh Nhận) chúng tôi (Danh Chủ) tham khảo ý kiến (Thời-Thực Động Cơ)]</li>
-			
-					<li>The expert [______] provided great advice.</li>
-					<li className="list-none">Vị chuyên gia [______] đã đưa ra lời khuyên tuyệt vời.</li>
+					<li>The expert [whom (Object) we (Subject) consulted (Tense-Action Verb Base)] provided great advice.</li>
+					<li className="list-none">Vị chuyên gia [người mà (Danh Nhận) chúng tôi (Danh Chủ) tham khảo ý kiến (Thời-Thực Động Cơ)] đã đưa ra lời khuyên tuyệt vời.</li>
 			
 				</ul>
 			
@@ -501,11 +461,8 @@ export default function AdjPlacement1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li className="list-none">[they (Subject) bought (Tense-Action Verb Base)]</li>
-					<li className="margin-bottom-20 list-none">[họ (Danh Chủ) đã mua (Thời-Thực Động Cơ)]</li>
-			
-					<li>The car [______] runs smoothly.</li>
-					<li className="list-none">Chiếc xe [______] chạy rất êm ái.</li>
+					<li>The car [they (Subject) bought (Tense-Action Verb Base)] runs smoothly.</li>
+					<li className="list-none">Chiếc xe [họ (Danh Chủ) đã mua (Thời-Thực Động Cơ)] chạy rất êm ái.</li>
 			
 				</ul>
 			
@@ -514,11 +471,8 @@ export default function AdjPlacement1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li className="list-none">[he (Subject) proposed (Tense-Action Verb Base)]</li>
-					<li className="margin-bottom-20 list-none">[anh ấy (Danh Chủ) đề xuất (Thời-Thực Động Cơ)]</li>
-			
-					<li>The strategy [______] surprised everyone.</li>
-					<li className="list-none">Chiến lược [______] làm mọi người ngạc nhiên.</li>
+					<li>The strategy [he (Subject) proposed (Tense-Action Verb Base)] surprised everyone.</li>
+					<li className="list-none">Chiến lược [anh ấy (Danh Chủ) đề xuất (Thời-Thực Động Cơ)] làm mọi người ngạc nhiên.</li>
 			
 				</ul>
 			
@@ -527,11 +481,8 @@ export default function AdjPlacement1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li className="list-none">[she (Subject) wrote (Tense-Action Verb Base)]</li>
-					<li className="margin-bottom-20 list-none">[cô ấy (Danh Chủ) viết (Thời-Thực Động Cơ)]</li>
-			
-					<li>The novel [______] became a bestseller.</li>
-					<li className="list-none">Cuốn tiểu thuyết [______] đã trở thành sách bán chạy nhất.</li>
+					<li>The novel [she (Subject) wrote (Tense-Action Verb Base)] became a bestseller.</li>
+					<li className="list-none">Cuốn tiểu thuyết [cô ấy (Danh Chủ) viết (Thời-Thực Động Cơ)] đã trở thành sách bán chạy nhất.</li>
 			
 				</ul>
 			
@@ -560,7 +511,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 
 			<p className="margin-top-20">Sự tương đồng này đạt đến đỉnh cao khi Động Câu chứa chức năng Tính Câu được rút gọn thành một khối mô tả ngắn hơn.</p>
 
-			<p>Khi các kết nối học thuật bị triệt tiêu, trật tự câu văn lập tức trở nên thuần Việt với các cấu hình chức năng Tính cốt lõi được đối chiếu minh họa chi tiết qua quá trình rút gọn từ 6 dạng Tính Câu về 6 dạng Tính Cụm hoàn toàn mới dưới đây:</p>
+			<p>Khi các kết nối học thuật bị triệt tiêu, trật tự câu văn lập tức trở nên thuần Việt với các cấu hình chức năng Tính cốt lõi được đối chiếu minh họa chi tiết qua quá trình rút gọn từ 6 dạng <strong>Tính Câu</strong> về 6 dạng <strong>Tính Cụm</strong> hoàn toàn mới dưới đây:</p>
 
 
 			<h4 className="margin-y-40">Nhóm 1: Rút gọn về Tính Cụm hành động sắp xảy ra</h4>
@@ -651,16 +602,16 @@ export default function AdjPlacement1(): React.JSX.Element {
 
 			<h4 className="margin-y-40">Tính Cụm Phân Tầng [Nested Adjective Phrase]</h4>
 
-			<p className="text-indent-whole"><strong>Câu ví dụ mẫu</strong>: [of {'{what they investigated}'}]</p>
+			<p className="text-indent-whole"><strong>Câu ví dụ mẫu</strong>:</p>
 			
 				<ul className="list-square">
 			
-					<li>The analysis [______ {'{______}'}] is thorough.</li>
+					<li>The analysis [of {'{what they investigated}'}] is thorough.</li>
 					<li className="margin-bottom-20 list-none">Bản phân tích [về {'{những gì họ đã điều tra}'}] thì kỹ lưỡng.</li>
 
 					<li className="list-none">Hình thái: Khối tổng thể tầng ngoài [of {'{what they investigated}'}] khởi đầu bằng Giới Cơ of, đây chính là một Giới Cụm [Prepositional Phrase]. Ngay phía sau Giới Cơ tầng ngoài, khối hình thái tầng trong {'{what they investigated}'} lại là một việc hành động phức hợp có hệ tạo hành động riêng, tức là một Động Câu [Verb Clause].</li>
 			
-					<li className="list-none">Chức năng: Khối hình thái tầng trong {'{what they investigated}'} đóng vai trò là một Danh Câu [Noun Clause] đứng sau để làm Danh Nhận chịu sự điều phối trực tiếp của khối Giới Cơ thuộc Giới Cụm tầng ngoài. Khi hai tầng này bao gói vào nhau thành một khối lớn tổng thể [of {'{what they investigated}'}], khối này sẽ gánh vác chức năng tổng thể cuối cùng là một <strong>Tính Cụm</strong> [<strong>Adjective Phrase</strong>] định vị ngay sau Danh Cơ analysis.</li>
+					<li className="list-none">Chức năng: Khối hình thái tầng trong {'{what they investigated}'} đóng vai trò là một Danh Câu [Noun Clause] đứng sau để làm Danh Nhận chịu sự điều phối trực tiếp của khối Giới Cơ thuộc Giới Cụm tầng ngoài. Khi hai tầng này bao gói vào nhau thành một khối lớn tổng thể [of {'{what they investigated}'}], khối này sẽ gánh vác chức năng tổng thể cuối cùng là một Tính Cụm [<strong>Adjective Phrase</strong>] định vị ngay sau Danh Cơ analysis.</li>
 			
 				</ul>
 			
@@ -675,11 +626,11 @@ export default function AdjPlacement1(): React.JSX.Element {
 
 			<h4 className="margin-y-40">Ví dụ 1: Hoán đổi linh hoạt từ khối Động cấp độ Câu sang hình thái Giới Cụm đặc biệt</h4>
 
-			<p className="text-indent-whole"><strong>Gốc</strong>: [which was operating in the region]</p>
+			<p className="text-indent-whole"><strong>Gốc</strong>:</p>
 			
 				<ul className="list-square">
 			
-					<li>The team [______] found the oil reserve.</li>
+					<li>The team [which was operating in the region] found the oil reserve.</li>
 					<li className="margin-bottom-20 list-none">Đội ngũ [người mà đã đang hoạt động ở trong khu vực] đã tìm thấy trữ lượng dầu mỏ.</li>
 			
 					<li className="list-none">Hình thái: [which was operating in the region] – Động Câu [Verb Clause] phức hợp, bắt đầu bằng chữ định hướng (which), chứa cấu trúc hành động thiết lập thời gồm Thời Động Cơ quá khứ (was) đi kèm Thực Động Cơ mang đuôi -ing (operating), nối tiếp bằng một Giới Cụm chỉ nơi chốn (in the region).</li>
@@ -689,13 +640,13 @@ export default function AdjPlacement1(): React.JSX.Element {
 				</ul>
 
 
-			<h5 className="margin-top-20 text-indent-whole">Rút gọn về khối Động Cụm giữ chức năng Tính Cụm</h5>
+			<h5 className="margin-top-20 text-indent-whole">Bước viết lại trung gian</h5>
 
-			<p className="margin-top-20 text-indent-whole"><strong>Bước viết lại trung gian</strong>: [operating in the region]</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Rút gọn về khối Động Cụm giữ chức năng Tính Cụm</strong>:</p>
 			
 				<ul className="list-square">
 			
-					<li>The team [______] found the oil reserve.</li>
+					<li>The team [operating in the region] found the oil reserve.</li>
 					<li className="margin-bottom-20 list-none">Đội ngũ [đang hoạt động ở trong khu vực] đã tìm thấy trữ lượng dầu mỏ.</li>
 			
 					<li className="list-none">Hình thái: [operating in the region] – Động Cụm [Verb Phrase] tinh gọn, lấy một Thực Động Cơ mang dạng đuôi -ing (operating) làm gốc xử lý hành động, kết hợp liền mạch với khối Giới Cụm chỉ nơi chốn (in the region).</li>
@@ -705,13 +656,13 @@ export default function AdjPlacement1(): React.JSX.Element {
 				</ul>
 			
 			
-			<h5 className="margin-top-20 text-indent-whole">Hoán đổi hoàn toàn sang hình thái Giới Cụm giữ chức năng Tính Cụm</h5>
+			<h5 className="margin-top-20 text-indent-whole">Bước viết lại tối hạn</h5>
 
-			<p className="margin-top-20 text-indent-whole"><strong>Bước viết lại tối hạn</strong>: [in the region]</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Hoán đổi hoàn toàn sang hình thái Giới Cụm giữ chức năng Tính Cụm</strong>:</p>
 			
 				<ul className="list-square">
 			
-					<li>The team [______] found the oil reserve.</li>
+					<li>The team [in the region] found the oil reserve.</li>
 					<li className="margin-bottom-20 list-none">Đội ngũ [ở trong khu vực] đã tìm thấy trữ lượng dầu mỏ.</li>
 			
 					<li className="list-none">Hình thái: [in the region] – Giới Cụm [Prepositional Phrase] nguyên bản, được cấu tạo bằng cách đặt một Giới Cơ chỉ vị trí (in) chặn trước khối Danh Cụm (the region).</li>
@@ -723,13 +674,13 @@ export default function AdjPlacement1(): React.JSX.Element {
 			
 			<h4 className="margin-y-40">Ví dụ 2: Hoán đổi ngược từ hình thái Giới Cụm đặc biệt lên khối Động cấp độ Cụm và Câu</h4>
 
-			<h5 className="margin-top-20 text-indent-whole">Xuất phát từ hình thái Giới Cụm giữ chức năng Tính Cụm</h5>
+			<h5 className="margin-top-20 text-indent-whole">Gốc</h5>
 
-			<p className="margin-top-20 text-indent-whole"><strong>Gốc</strong>: [about the ancient civilizations]</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Xuất phát từ hình thái Giới Cụm giữ chức năng Tính Cụm</strong>:</p>
 			
 				<ul className="list-square">
 			
-					<li>The book [______] provides amazing details.</li>
+					<li>The book [about the ancient civilizations] provides amazing details.</li>
 					<li className="margin-bottom-20 list-none">Cuốn sách [về các nền văn minh cổ đại] cung cấp những chi tiết kinh ngạc.</li>
 			
 					<li className="list-none">Hình thái: [about the ancient civilizations] – Giới Cụm [Prepositional Phrase] nguyên bản, khởi đầu bằng Giới Cơ (about) kết hợp với khối Danh Cụm (the ancient civilizations).</li>
@@ -739,13 +690,13 @@ export default function AdjPlacement1(): React.JSX.Element {
 				</ul>
 			
 
-			<h5 className="margin-top-20 text-indent-whole">Hoán đổi sang khối Động Cụm giữ chức năng Tính Cụm</h5>
+			<h5 className="margin-top-20 text-indent-whole">Bước viết lại nâng cấp 1</h5>
 
-			<p className="margin-top-20 text-indent-whole"><strong>Bước viết lại nâng cấp 1</strong>: [elaborating on the ancient civilizations]</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Hoán đổi sang khối Động Cụm giữ chức năng Tính Cụm</strong>:</p>
 			
 				<ul className="list-square">
 			
-					<li>The book [______] provides amazing details.</li>
+					<li>The book [elaborating on the ancient civilizations] provides amazing details.</li>
 					<li className="margin-bottom-20 list-none">Cuốn sách [mở rộng/chi tiết hóa về các nền văn minh cổ đại] cung cấp những chi tiết kinh ngạc.</li>
 			
 					<li className="list-none">Hình thái: [elaborating on the ancient civilizations] – Động Cụm [Verb Phrase], lấy Thực Động Cơ mang đuôi -ing (elaborating) làm gốc hành động chủ động để kéo theo khối Giới Cụm phía sau.</li>
@@ -755,13 +706,13 @@ export default function AdjPlacement1(): React.JSX.Element {
 				</ul>
 			
 			
-			<h5 className="margin-top-20 text-indent-whole">Hoán đổi sang khối Động Câu giữ chức năng Tính Câu</h5>
+			<h5 className="margin-top-20 text-indent-whole">Bước viết lại nâng cấp 2</h5>
 
-			<p className="margin-top-20 text-indent-whole"><strong>Bước viết lại nâng cấp 2</strong>: [which elaborates on the ancient civilizations]</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Hoán đổi sang khối Động Câu giữ chức năng Tính Câu</strong>:</p>
 			
 				<ul className="list-square">
 			
-					<li>The book [______] provides amazing details.</li>
+					<li>The book [which elaborates on the ancient civilizations] provides amazing details.</li>
 					<li className="margin-bottom-20 list-none">Cuốn sách [cái mà mở rộng/chi tiết hóa về các nền văn minh cổ đại] cung cấp những chi tiết kinh ngạc.</li>
 			
 					<li className="list-none">Hình thái: [which elaborates on the ancient civilizations] – Động Câu [Verb Clause] phức hợp đầy đủ, bắt đầu bằng chữ định hướng liên kết (which), theo sau là một Thời-Thực Động Cơ [Tense-Action Verb Base] chia ở hiện tại đơn (elaborates).</li>
