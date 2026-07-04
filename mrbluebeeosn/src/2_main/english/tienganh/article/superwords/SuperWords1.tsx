@@ -380,10 +380,10 @@ export default function SuperWords1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>[______], I would have stayed.</li>
-					<li className="margin-bottom-20 list-none">[Nếu tôi biết sự thật], tôi đã ở lại.</li>
+					<li>[______], the operation would have begun.</li>
+					<li className="margin-bottom-20 list-none">[Nếu họ phát ra tín hiệu], hoạt động đã được bắt đầu.</li>
 			
-					<li className="list-none">Hình thái: Cấu trúc hành động được đảo lên trước Danh Chủ "I" tạo nên một hình thái câu đặc biệt, hoàn toàn tiêu biến chữ điều phối điều kiện ở đầu câu.</li>
+					<li className="list-none">Hình thái: Cấu trúc hành động được đảo lên trước Danh Chủ "they" tạo nên một hình thái câu đặc biệt, hoàn toàn tiêu biến chữ điều phối điều kiện ở đầu câu.</li>
 			
 					<li className="list-none">Chức năng: Đảm nhận chức năng của một khối Trạng Câu, đứng độc lập ở đầu để thiết lập bối cảnh giả định, bổ nghĩa điều kiện cho toàn bộ sự việc diễn ra trong câu lớn phía sau.</li>
 			
@@ -398,7 +398,7 @@ export default function SuperWords1(): React.JSX.Element {
 
 			<p>Khi bạn đọc hoặc viết những câu dài phức tạp, hệ thống ngôn ngữ sẽ xuất hiện hiện tượng "lồng hộp" — nghĩa là một khối hình thái lớn tầng ngoài ôm trọn lấy một khối hình thái nhỏ tầng trong.</p>
 
-			<p>Để định vị chính xác bối cảnh lồng nhau này, chúng ta áp dụng Nguyên tắc "Điểm neo": Dấu ngoặc vuông [] bao quanh toàn bộ khối tổng thể ở tầng ngoài, bắt đầu neo từ cơ điều phối hoặc động cơ chính. Dấu ngoặc nhọn {'{}'} dành riêng để xác định ranh giới cho module được lồng hẳn bên trong.</p>
+			<p>Để định vị chính xác bối cảnh lồng nhau này, chúng ta áp dụng Nguyên tắc "Điểm neo": Dấu ngoặc vuông [] bao quanh toàn bộ khối tổng thể ở tầng ngoài, bắt đầu neo từ cơ điều phối hoặc module hành động lớn. Dấu ngoặc nhọn {'{}'} dành riêng để xác định ranh giới cho module được lồng hẳn bên trong.</p>
 
 			
 
@@ -408,20 +408,20 @@ export default function SuperWords1(): React.JSX.Element {
 			<p className="text-indent-whole">Hiện tượng này xảy ra khi một khối Động Cụm lớn ở tầng ngoài làm chức năng Danh Cụm, nhưng bên trong nó lại chứa một câu con (Động Câu) đóng vai trò phụ thuộc.</p>
 
 
-			<p className="margin-top-20 text-indent-whole">[understands {'{why you left the party}'}]</p>
+			<p className="margin-top-20 text-indent-whole">[explained {'{why she chose this method}'}]</p>
 			
 				<ul className="list-square">
 			
 					<li>She [______ {'{______}'}].</li>
-					<li className="margin-bottom-20 list-none">Cô ấy [hiểu {'{lý do tại sao bạn rời bữa tiệc}'}].</li>
+					<li className="margin-bottom-20 list-none">Cô ấy [giải thích {'{lý do tại sao cô ấy chọn phương pháp này}'}].</li>
 
 					<li>Phân tích Hình thái:</li>
-					<li className="list-none">Khối tổng thể [understands {'{why you left the party}'}] bắt đầu mở ngoặc từ động cơ điều phối và ôm trọn khối phía sau, đạt hình thái Động Cụm [Verb Phrase].</li>
-					<li className="margin-bottom-20 list-none">Bên trong chứa module {'{why you left the party}'} đạt hình thái Động Câu [Verb Clause] vì có cấu trúc câu hoàn chỉnh.</li>
+					<li className="list-none">Khối tổng thể [explained {'{why she chose this method}'}] bắt đầu mở ngoặc từ Thời-Thực Động Cơ [Tense-Action Verb Base] [explained] và ôm trọn khối phía sau, đạt hình thái Động Cụm [Verb Phrase].</li>
+					<li className="margin-bottom-20 list-none">Bên trong chứa module {'{why she chose this method}'} đạt hình thái Động Câu [Verb Clause] vì có cấu trúc câu con hoàn chỉnh.</li>
 			
 					<li>Phân tích Chức năng:</li>
-					<li className="list-none">Khối {'{why you left the party}'} ở tầng trong nằm ở vị trí Danh nhận tiếp nhận tác động từ hành động hiểu của chủ thể "She" → Chức năng: Danh Câu [Noun Clause].</li>
-					<li className="list-none">Toàn bộ khối ôm trọn từ động cơ chính [understands {'{why you left the party}'}] đóng vai trò là một khối hành động lớn của câu → Chức năng: <strong>Danh Cụm</strong> [<strong>Noun Phrase</strong>] làm thành phần vị câu cốt lõi cho câu lớn.</li>
+					<li className="list-none">Khối {'{why she chose this method}'} ở tầng trong nằm ở vị trí Danh Nhận tiếp nhận tác động từ hành động giải thích của Danh Chủ "She" → Chức năng: Danh Câu [Noun Clause].</li>
+					<li className="list-none">Toàn bộ khối ôm trọn từ động cơ tích hợp [explained {'{why she chose this method}'}] đóng vai trò là một khối hành động lớn → Chức năng: Danh Cụm [Noun Phrase] làm thành phần vị câu cốt lõi cho câu lớn.</li>
 			
 				</ul>
 
@@ -431,20 +431,20 @@ export default function SuperWords1(): React.JSX.Element {
 			<p className="text-indent-whole">Hiện tượng này xảy ra khi một khối Giới Cụm ở tầng ngoài ôm lấy một Động Câu ở tầng trong, phối hợp với nhau để tạo thành một "Siêu Tính Cơ" lớn bổ nghĩa cho một danh vị đứng trước.</p>
 
 
-			<p className="margin-top-20 text-indent-whole">[in {'{which he lives}'}]</p>
+			<p className="margin-top-20 text-indent-whole">[in {'{which they filmed the movie}'}]</p>
 			
 				<ul className="list-square">
 			
-					<li>The house [______ {'{______}'}] is small.</li>
-					<li className="margin-bottom-20 list-none">Ngôi nhà [trong {'{nơi mà anh ấy sống}'}] thì nhỏ.</li>
+					<li>The studio [______ {'{______}'}] was massive.</li>
+					<li className="margin-bottom-20 list-none">Trường quay [trong {'{nơi mà họ quay bộ phim}'}] đã rất hoành tráng.</li>
 
 					<li>Phân tích Hình thái:</li>
-					<li className="list-none">Khối tổng thể [in {'{which he lives}'}] bắt đầu bằng Giới Cơ in, tạo nên hình thái Giới Cụm [Prepositional Phrase] tầng ngoài.</li>
-					<li className="margin-bottom-20 list-none">Bên trong bao gói {'{which he lives}'} là một Động Câu [Verb Clause] tầng trong (chứa đầy đủ cấu trúc bộ máy hành động).</li>
+					<li className="list-none">Khối tổng thể [in {'{which they filmed the movie}'}] bắt đầu bằng Giới Cơ in, tạo nên hình thái Giới Cụm [Prepositional Phrase] tầng ngoài.</li>
+					<li className="margin-bottom-20 list-none">Bên trong bao gói {'{which they filmed the movie}'} là một Động Câu [Verb Clause] tầng trong chứa Thời-Thực Động Cơ [Tense-Action Verb Base] [filmed].</li>
 			
 					<li>Phân tích Chức năng:</li>
-					<li className="list-none">Khối {'{which he lives}'} bên trong đóng vai trò là Danh Câu [Noun Clause] — làm Danh Nhận chịu sự điều phối trực tiếp của Giới Cơ [Preposition Base] "in".</li>
-					<li className="list-none">Toàn bộ khối Giới Cụm [in {'{which he lives}'}] đóng vai trò là một <strong>Tính Cụm</strong> [<strong>Adjective Phrase</strong>] tổng thể, đứng ngay sau danh vị "The house" để bổ nghĩa và định danh đặc điểm không gian cho ngôi nhà đó.</li>
+					<li className="list-none">Khối {'{which they filmed the movie}'} bên trong đóng vai trò là Danh Câu [Noun Clause] — làm Danh Nhận chịu sự điều phối trực tiếp của Giới Cơ [Preposition Base] "in".</li>
+					<li className="list-none">Toàn bộ khối Giới Cụm [in {'{which they filmed the movie}'}] đóng vai trò là một <strong>Tính Cụm</strong> [<strong>Adjective Phrase</strong>] tổng thể, đứng ngay sau để bổ nghĩa và định danh đặc điểm không gian cho đối tượng Danh Chủ "The studio".</li>
 			
 				</ul>
 			
@@ -455,20 +455,20 @@ export default function SuperWords1(): React.JSX.Element {
 			<p className="text-indent-whole">Hiện tượng này xảy ra khi một khối Giới Cụm ở tầng ngoài bao bọc một Động Câu ở tầng trong, cùng nhau thiết lập nên một bối cảnh phương tiện hoặc cách thức để bổ nghĩa cho toàn bộ hành động của câu lớn.</p>
 
 
-			<p className="margin-top-20 text-indent-whole">[by {'{what he achieved in his career}'}]</p>
+			<p className="margin-top-20 text-indent-whole">[by {'{what he practiced every evening}'}]</p>
 			
 				<ul className="list-square">
 			
-					<li>He succeeded [______ {'{______}'}].</li>
-					<li className="margin-bottom-20 list-none">Anh ấy đã thành công [bằng {'{những gì anh ấy đạt được trong sự nghiệp}'}].</li>
+					<li>He improved [______ {'{______}'}].</li>
+					<li className="margin-bottom-20 list-none">Anh ấy đã tiến bộ [bằng {'{những gì anh ấy luyện tập mỗi tối}'}].</li>
 
 					<li>Phân tích Hình thái:</li>
-					<li className="list-none">Khối tổng thể [by {'{what he achieved in his career}'}] bắt đầu bằng Giới Cơ by, tạo nên hình thái Giới Cụm [Prepositional Phrase] tầng ngoài.</li>
-					<li className="margin-bottom-20 list-none">Bên trong bao gói {'{what he achieved in his career}'} là một Động Câu [Verb Clause] tầng trong.</li>
+					<li className="list-none">Khối tổng thể [by {'{what he practiced every evening}'}] bắt đầu bằng Giới Cơ by, tạo nên hình thái Giới Cụm [Prepositional Phrase] tầng ngoài.</li>
+					<li className="margin-bottom-20 list-none">Bên trong bao gói {'{what he practiced every evening}'} là một Động Câu [Verb Clause] tầng trong.</li>
 			
 					<li>Phân tích Chức năng:</li>
-					<li className="list-none">Khối {'{what he achieved in his career}'} bên trong đóng vai trò là Danh Câu [Noun Clause] — làm Danh Nhận tiếp nhận và chịu sự điều phối trực tiếp từ Giới Cơ [Preposition Base] "by".</li>
-					<li className="list-none">Toàn bộ khối Giới Cụm [by {'{what he achieved in his career}'}] đóng vai trò là một <strong>Trạng Cụm</strong> [<strong>Adverb Phrase</strong>] tổng thể, làm rõ phương thức bối cảnh để bổ nghĩa cho hành động "succeeded" (thành công) trong câu lớn.</li>
+					<li className="list-none">Khối {'{what he practiced every evening}'} bên trong đóng vai trò là Danh Câu [Noun Clause] — làm Danh Nhận tiếp nhận và chịu sự điều phối trực tiếp từ Giới Cơ [Preposition Base] "by".</li>
+					<li className="list-none">Toàn bộ khối Giới Cụm [by {'{what he practiced every evening}'}] đóng vai trò là một <strong>Trạng Cụm</strong> [<strong>Adverb Phrase</strong>] tổng thể, làm rõ phương thức bối cảnh để bổ nghĩa cho Thời-Thực Động Cơ [Tense-Action Verb Base] [improved] trong câu lớn.</li>
 			
 				</ul>
 		
@@ -485,19 +485,19 @@ export default function SuperWords1(): React.JSX.Element {
 
 			<p>Hãy giữ nguyên bộ khung xương của câu lớn, và bạn chỉ cần rút một khối hình này ra để cắm một khối hình khác có chung chức năng vào vị trí đó. Bạn có thể tự do hoán đổi linh hoạt giữa các cấp độ Động hoặc chuyển sang Giới Cụm để câu văn biến hóa khôn lường.</p>
 
-			<p>Hãy cùng xem cách tư duy "thay khối" này vận hành khi chúng ta biến đổi một câu gốc thông qua các hình thái khác nhau (Xếp các khối Động trước rồi đến khối Giới sau cùng):</p>
+			<p>Hãy cùng xem cách tư duy "thay khối" này vận hành khi chúng ta biến đổi một câu gốc thông qua các hình thái khác nhau:</p>
 
 
 			<h4 className="margin-y-40">Sử dụng khối Động Câu</h4>
 
-			<p className="margin-top-20 text-indent-whole">Câu gốc: [because it rained heavily]</p>
+			<p className="margin-top-20 text-indent-whole">Câu gốc: [because the team struggled with the code]</p>
 			
 				<ul className="list-square">
 			
-					<li>We cancelled the picnic [______].</li>
-					<li className="margin-bottom-20 list-none">Chúng tôi đã hủy buổi dã ngoại [vì trời mưa nặng hạt].</li>
+					<li>They delayed the project [______].</li>
+					<li className="margin-bottom-20 list-none">Họ đã hoãn dự án [vì đội ngũ vật lộn với mã nguồn].</li>
 			
-					<li className="list-none">Khối chức năng hiện tại: [because it rained heavily] đạt hình thái Động Câu [Verb Clause] đóng vai trò chỉ nguyên nhân → Chức năng: Trạng Câu [Adverb Clause].</li>
+					<li className="list-none">Khối chức năng hiện tại: [because the team struggled with the code] đạt hình thái Động Câu [Verb Clause] đóng vai trò chỉ nguyên nhân → Chức năng: Trạng Câu [Adverb Clause].</li>
 			
 				</ul>
 
@@ -507,14 +507,14 @@ export default function SuperWords1(): React.JSX.Element {
 					
 			<p className="margin-top-20 text-indent-whole">Thay thế bằng một khối Động Cụm [Verb Phrase] có cùng chức năng bối cảnh chỉ lý do.</p>
 
-			<p className="margin-top-20 text-indent-whole">Cách viết lại 1: Dùng khối Động Cụm [owing to the weather turning dynamic and stormy]</p>
+			<p className="margin-top-20 text-indent-whole">Cách viết lại 1: Dùng khối Động Cụm [owing to the team experiencing technical difficulties]</p>
 			
 				<ul className="list-square">
 			
-					<li>We cancelled the picnic [______].</li>
-					<li className="margin-bottom-20 list-none">Chúng tôi đã hủy buổi dã ngoại [do thời tiết chuyển biến xấu và bão bùng].</li>
+					<li>They delayed the project [______].</li>
+					<li className="margin-bottom-20 list-none">Họ đã hoãn dự án [do đội ngũ gặp phải những khó khăn kỹ thuật].</li>
 			
-					<li className="list-none">Khối chức năng mới: [owing to the weather turning dynamic and stormy] đạt hình thái Động Cụm [Verb Phrase] → Chức năng: Trạng Cụm [Adverb Phrase].</li>
+					<li className="list-none">Khối chức năng mới: [owing to the team experiencing technical difficulties] đạt hình thái Động Cụm [Verb Phrase] có chứa Thực Động Cơ [Action Verb Base] dạng tinh chỉnh experiencing → Chức năng: Trạng Cụm [Adverb Phrase].</li>
 			
 				</ul>
 
@@ -522,34 +522,34 @@ export default function SuperWords1(): React.JSX.Element {
 
 			<h4 className="margin-y-40">Rút gọn tối đa</h4>
 					
-			<p className="margin-top-20 text-indent-whole">Hoán đổi khối hành động cũ bằng một khối Giới Cụm [Prepositional Phrase] gọn gàng nhưng vẫn giữ trọn vẹn chức năng thiết lập nguyên nhân.</p>
+			<p className="margin-top-20 text-indent-whole">Hoán đổi khối hành động cũ bằng một khối Giới Cụm [Prepositional Phrase] gọn gàng nhưng vẫn giữ trọn vẹn chức năng thiết lập nguyên nhân:</p>
 
-			<p className="margin-top-20 text-indent-whole">Cách viết lại 2: Dùng khối Giới Cụm [because of the heavy rain]</p>
+			<p className="margin-top-20 text-indent-whole">Cách viết lại 2: Dùng khối Giới Cụm [because of the technical errors]</p>
 			
 				<ul className="list-square">
 			
-					<li>We cancelled the picnic [______].</li>
-					<li className="margin-bottom-20 list-none">Chúng tôi đã hủy buổi dã ngoại [vì trận mưa lớn].</li>
+					<li>They delayed the project [______].</li>
+					<li className="margin-bottom-20 list-none">Họ đã hoãn dự án [vì các lỗi kỹ thuật].</li>
 			
-					<li className="list-none">Khối chức năng mới: [because of the heavy rain] đã chuyển hẳn sang hình thái Giới Cụm [Prepositional Phrase] → Chức năng: Trạng Cụm [Adverb Phrase].</li>
+					<li className="list-none">Khối chức năng mới: [because of the technical errors] đã chuyển hẳn sang hình thái Giới Cụm [Prepositional Phrase] → Chức năng: Trạng Cụm [Adverb Phrase].</li>
 			
 				</ul>
 			
 			
-			<p className="margin-top-20 text-indent-whole">Nhìn vào chuỗi biến đổi trên, cấu trúc tổng thể của câu lớn "We cancelled the picnic..." hoàn toàn bất biến. Thứ duy nhất thay đổi là loại hình thái và kích thước của khối thông tin đứng ở phía sau, giúp bạn làm chủ tốc độ và nhịp điệu câu văn một cách hoàn hảo.</p>
+			<p className="margin-top-20 text-indent-whole">Nhìn vào chuỗi biến đổi trên, cấu trúc tổng thể của câu lớn chứa Danh Chủ "They" và Thời-Thực Động Cơ [Tense-Action Verb Base] [delayed] hoàn toàn bất biến. Thứ duy nhất thay đổi là loại hình thái và kích thước của khối thông tin bối cảnh phía sau, giúp bạn làm chủ tốc độ và nhịp điệu câu văn một cách hoàn hảo.</p>
 
 
 			{/* Lời Kết */}
 
 			<h3 className="margin-y-50 text-center">Lời Kết: Giải Phóng Tư Duy Ngôn Ngữ</h3>
 
-			<p>Khi bạn gạt bỏ được áp lực từ những tên gọi mang tính học thuật, tiếng Anh sẽ quay trở về đúng bản chất nguyên bản của nó: Một trò chơi lắp ghép và nâng cấp kích thước các khối hình.</p>
+			<p>Khi bạn gạt bỏ được áp lực từ những tên gọi mang tính học thuật cũ kỹ, tiếng Anh sẽ quay trở về đúng bản chất nguyên bản của nó: Một trò chơi lắp ghép và nâng cấp kích thước các khối hình.</p>
 
 			<p>Từ nay về sau, khi đối diện với một câu tiếng Anh, bạn không cần phải hoang mang đoán mò cấu trúc hay loay hoay tìm cách viết lại sao cho hoa mỹ. Hãy cứ nhìn vào Hình thái trước:</p>
 			
 				<ul className="list-square">
 			
-					<li>Nó thuộc về hệ thống <strong>Động</strong> (<strong>Cơ</strong>, <strong>Cụm</strong>, <strong>Câu</strong>) hay thuộc về khối <strong>Giới Cụm</strong>?</li>
+					<li>Nó thuộc về hệ thống 6 phân loại <strong>Động</strong> (<strong>Cơ</strong>, <strong>Cụm</strong>, <strong>Câu</strong>) hay thuộc về khối <strong>Giới Cụm</strong>?</li>
 			
 					<li>Sau đó, hãy nhìn vào vị trí đứng của nó để gọi tên đúng Chức năng <strong>Danh</strong> — <strong>Tính</strong> — <strong>Trạng</strong>.</li>
 			
