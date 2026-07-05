@@ -112,7 +112,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 				<ol>
 			
 					<li value="1"><strong>Động Cơ</strong> [<strong>Verb Base</strong>]: sleep (ngủ), build (xây dựng), drive (lái xe).</li>
-					<li className="margin-bottom-20 list-none">Nguyên mẫu gốc (Class cha/Root Class) của mọi hành động. Đây là dạng thuần túy nhất chưa hề bị can thiệp bởi thời gian, bối cảnh hay đối tượng số ít/số nhiều.</li>
+					<li className="margin-bottom-20 list-none">Nguyên bản gốc (Class cha/Root Class) của mọi hành động. Đây là dạng thuần túy nhất chưa hề bị can thiệp bởi thời gian, bối cảnh hay đối tượng số ít/số nhiều.</li>
 			
 					<li value="2"><strong>Thời Động Cơ</strong> [<strong>Tense Verb Base</strong>]: are (thì/là), were (đã thì/đã là), have/had/will (trợ nguồn thời gian).</li>
 					<li className="margin-bottom-20 list-none">Đơn vị lõi đơn lẻ đứng ở vị trí Head để gánh vác bối cảnh thời gian (Hiện tại, Quá khứ, Tương lai) hoặc trạng thái hoàn thành.</li>
@@ -231,7 +231,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 					<li>Parents should [educate their children].</li>
 					<li className="margin-bottom-20 list-none">Cha mẹ nên [giáo dục con cái của họ].</li>
 
-					<li className="list-none">Hình thái: [educate their children] - Động Cụm [Verb Phrase] bắt đầu bằng một Động Cơ [Verb Base] nguyên mẫu "educate".</li>
+					<li className="list-none">Hình thái: [educate their children] - Động Cụm [Verb Phrase] bắt đầu bằng một Động Cơ [Verb Base] nguyên bản "educate".</li>
 					<li className="list-none">Chức năng: [educate their children] - Danh Cụm [Noun Phrase] đóng vai trò làm phần Danh Nhận, chịu yêu cầu trực tiếp từ bộ nguồn thái độ "should".</li>
 			
 				</ul>
@@ -428,7 +428,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 					<li>He exercises daily [to improve his health].</li>
 					<li className="margin-bottom-20 list-none">Anh ấy tập thể dục hàng ngày [để cải thiện sức khỏe].</li>
 
-					<li className="list-none">Hình thái: [to improve his health] - Động Cụm [Verb Phrase] bắt đầu bằng dạng nguyên mẫu có <strong>to</strong>.</li>
+					<li className="list-none">Hình thái: [to improve his health] - Động Cụm [Verb Phrase] bắt đầu bằng dạng nguyên bản có <strong>to</strong>.</li>
 					<li className="list-none">Chức năng: [to improve his health] - Trạng Cụm [Adverb Phrase] đứng cuối câu để làm rõ mục đích cho hành động trước đó.</li>
 			
 				</ul>
@@ -505,7 +505,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 					<li>The price dropped [shockingly].</li>
 					<li className="margin-bottom-20 list-none">Giá cả đã sụt giảm [một cách đáng kinh ngạc].</li>
 			
-					<li className="list-none">Hình thái: [shockingly] - Động Cơ [Verb Base] nguyên mẫu shock thêm đuôi "ingly".</li>
+					<li className="list-none">Hình thái: [shockingly] - Động Cơ [Verb Base] nguyên bản shock thêm đuôi "ingly".</li>
 					<li className="list-none">Chức năng: [shockingly] - Trạng Cơ [Adverb Base] đảm nhiệm vai trò bổ nghĩa cách thức cho hành động "dropped".</li>
 			
 				</ul>
@@ -565,7 +565,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 					<li>He traveled to Japan [to learn the culture].</li>
 					<li className="margin-bottom-20 list-none">Anh ấy đã đến Nhật Bản [để tìm hiểu văn hóa].</li>
 			
-					<li className="list-none">Hình thái: [to learn the culture] - Động Cụm [Verb Phrase] bắt đầu bằng Động Cơ [Verb Base] nguyên mẫu có "to".</li>
+					<li className="list-none">Hình thái: [to learn the culture] - Động Cụm [Verb Phrase] bắt đầu bằng Động Cơ [Verb Base] nguyên bản có "to".</li>
 					<li className="list-none">Chức năng: [to learn the culture] - Trạng Cụm [Adverb Phrase] đảm nhiệm vai trò mở rộng mục đích cho hành động.</li>
 			
 				</ul>
