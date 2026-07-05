@@ -649,13 +649,21 @@ export default function TiengAnhIndex(): React.JSX.Element {
 
         </div>
 
+        
+        
+
+      </div>
+
+
+      <div className="flex-container margin-top-20">
+
         <div className="sub-box">
 
           {/* =============================
-              Thinking
+               Functional Thinking
           ============================= */}
       
-          <p id="tieng-anh-terms"><mark className="highlight-secondary-padding-2-4">Thinking</mark></p>
+          <p id="tieng-anh-terms"><mark className="highlight-secondary-padding-2-4">Functional Thinking</mark></p>
 
           <ul className="list-border1">
 
@@ -904,6 +912,22 @@ export default function TiengAnhIndex(): React.JSX.Element {
               
             </li>
 
+          </ul>
+
+        </div>
+
+        <div className="sub-box">
+
+          {/* =============================
+              Thinking
+          ============================= */}
+      
+          <p id="tieng-anh-terms"><mark className="highlight-secondary-padding-2-4">Thinking</mark></p>
+
+          <ul className="list-border1">
+
+            
+
 
             <li>
               <div className="li-content">
@@ -1061,6 +1085,8 @@ export default function TiengAnhIndex(): React.JSX.Element {
         </div>
 
       </div>
+
+
 
       <div className="flex-container margin-top-20">
 
