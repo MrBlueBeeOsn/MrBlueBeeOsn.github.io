@@ -640,7 +640,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 				</ul>
 
 
-			<h5 className="margin-top-20 text-indent-whole">Bước viết lại trung gian</h5>
+			<h5 className="margin-y-30 text-indent-whole">Bước viết lại trung gian</h5>
 
 			<p className="margin-top-20 text-indent-whole"><strong>Rút gọn về khối Động Cụm giữ chức năng Tính Cụm</strong>:</p>
 			
@@ -656,7 +656,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 				</ul>
 			
 			
-			<h5 className="margin-top-20 text-indent-whole">Bước viết lại tối hạn</h5>
+			<h5 className="margin-y-30 text-indent-whole">Bước viết lại tối hạn</h5>
 
 			<p className="margin-top-20 text-indent-whole"><strong>Hoán đổi hoàn toàn sang hình thái Giới Cụm giữ chức năng Tính Cụm</strong>:</p>
 			
@@ -674,7 +674,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 			
 			<h4 className="margin-y-40">Ví dụ 2: Hoán đổi ngược từ hình thái Giới Cụm đặc biệt lên khối Động cấp độ Cụm và Câu</h4>
 
-			<h5 className="margin-top-20 text-indent-whole">Gốc</h5>
+			<h5 className="margin-y-30 text-indent-whole">Gốc</h5>
 
 			<p className="margin-top-20 text-indent-whole"><strong>Xuất phát từ hình thái Giới Cụm giữ chức năng Tính Cụm</strong>:</p>
 			
@@ -690,7 +690,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 				</ul>
 			
 
-			<h5 className="margin-top-20 text-indent-whole">Bước viết lại nâng cấp 1</h5>
+			<h5 className="margin-y-30 text-indent-whole">Bước viết lại nâng cấp 1</h5>
 
 			<p className="margin-top-20 text-indent-whole"><strong>Hoán đổi sang khối Động Cụm giữ chức năng Tính Cụm</strong>:</p>
 			
@@ -706,7 +706,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 				</ul>
 			
 			
-			<h5 className="margin-top-20 text-indent-whole">Bước viết lại nâng cấp 2</h5>
+			<h5 className="margin-y-30 text-indent-whole">Bước viết lại nâng cấp 2</h5>
 
 			<p className="margin-top-20 text-indent-whole"><strong>Hoán đổi sang khối Động Câu giữ chức năng Tính Câu</strong>:</p>
 			

@@ -473,7 +473,7 @@ export default function ThreeDC1(): React.ReactElement {
 
 			<h4 className="margin-y-40">1. Paraphrasing cho chức năng TRẠNG (Mô tả hoàn cảnh, bối cảnh)</h4>
 
-			<h5 className="margin-top-20 text-indent-whole">Gốc</h5>
+			<h5 className="margin-y-30 text-indent-whole">Gốc</h5>
 					
 			<p className="margin-top-20 text-indent-whole">Dùng hình thái <strong>Động Câu</strong> [<strong>Verb Clause</strong>] làm chức năng <strong>Trạng Câu</strong> [<strong>Adverb Clause</strong>]:</p>
 			
@@ -489,7 +489,7 @@ export default function ThreeDC1(): React.ReactElement {
 				</ul>
 			
 			
-			<h5 className="margin-top-20 text-indent-whole">Viết lại 1</h5>
+			<h5 className="margin-y-30 text-indent-whole">Viết lại 1</h5>
 			
 			<p className="margin-top-20 text-indent-whole">Đổi sang hình thái <strong>Động Cơ</strong> [<strong>Verb Base</strong>] làm chức năng <strong>Trạng Cơ</strong> [<strong>Adverb Base</strong>]:</p>
 			
@@ -505,7 +505,7 @@ export default function ThreeDC1(): React.ReactElement {
 				</ul>
 
 			
-			<h5 className="margin-top-20 text-indent-whole">Viết lại 2</h5>
+			<h5 className="margin-y-30 text-indent-whole">Viết lại 2</h5>
 
 			<p className="margin-top-20 text-indent-whole"><strong>Đổi sang hình thái GIỚI CỤM</strong> [<strong>Prepositional Phrase</strong>] <strong>làm chức năng Trạng Cụm</strong> [<strong>Adverb Phrase</strong>]:</p>
 			
@@ -524,7 +524,7 @@ export default function ThreeDC1(): React.ReactElement {
 
 			<h4 className="margin-y-40">2. Paraphrasing cho chức năng TÍNH (Mô tả, định danh thực thể)</h4>
 
-			<h5 className="margin-top-20 text-indent-whole">Gốc</h5>
+			<h5 className="margin-y-30 text-indent-whole">Gốc</h5>
 
 			<p className="text-indent-whole"><strong>Dùng hình thái Động Câu</strong> [<strong>Verb Clause</strong>] <strong>làm chức năng Tính Câu</strong> [<strong>Adjective Clause</strong>]:</p>
 			
@@ -541,7 +541,7 @@ export default function ThreeDC1(): React.ReactElement {
 
 
 			
-			<h5 className="margin-top-20 text-indent-whole">Viết lại 1</h5>
+			<h5 className="margin-y-30 text-indent-whole">Viết lại 1</h5>
 			
 			<p className="margin-top-20 text-indent-whole"><strong>Đổi sang hình thái Động Cơ</strong> [<strong>Verb Base</strong>] <strong>làm chức năng Tính Cơ</strong> [<strong>Adjective Base</strong>]:</p>
 			
@@ -558,7 +558,7 @@ export default function ThreeDC1(): React.ReactElement {
 			
 
 			
-			<h5 className="margin-top-20 text-indent-whole">Viết lại 2</h5>
+			<h5 className="margin-y-30 text-indent-whole">Viết lại 2</h5>
 
 			<p className="margin-top-20 text-indent-whole"><strong>Đổi sang hình thái Động Cụm</strong> [<strong>Verb Phrase</strong>] <strong>làm chức năng Tính Cụm</strong> [<strong>Adjective Phrase</strong>]:</p>
 			
@@ -576,7 +576,7 @@ export default function ThreeDC1(): React.ReactElement {
 
 			<h4 className="margin-y-40">3. Paraphrasing cho chức năng DANH (Làm Danh Chủ hoặc Danh Nhận)</h4>
 
-			<h5 className="margin-top-20 text-indent-whole">Gốc</h5>
+			<h5 className="margin-y-30 text-indent-whole">Gốc</h5>
 
 			<p className="margin-top-20 text-indent-whole"><strong>Dùng hình thái Động Câu</strong> [<strong>Verb Clause</strong>] <strong>làm chức năng Danh Câu</strong> [<strong>Noun Clause</strong>]:</p>
 
@@ -593,7 +593,7 @@ export default function ThreeDC1(): React.ReactElement {
 				</ul>
 			
 
-			<h5 className="margin-top-20 text-indent-whole">Viết lại</h5>
+			<h5 className="margin-y-30 text-indent-whole">Viết lại</h5>
 
 			<p className="margin-top-20 text-indent-whole"><strong>Đổi sang hình thái Động Cụm</strong> [<strong>Verb Phrase</strong>] <strong>làm chức năng Danh Cụm</strong> [<strong>Noun Phrase</strong>]:</p>
 			
@@ -710,7 +710,7 @@ export default function ThreeDC1(): React.ReactElement {
 		
 			<p>Nâng tầm <strong>Trạng Câu</strong> [<strong>Adverb Clause</strong>] lên mức học thuật cao nhất bằng cách tiến hành đưa đưa Trạng Câu/Cụm phủ định lên đầu, sau đó tiến hành đảo ngữ Thời Động Cơ thành phần chính:</p>
 
-			<h5 className="margin-top-20 text-indent-whole">Ví dụ 1</h5>
+			<h5 className="margin-y-30 text-indent-whole">Ví dụ 1</h5>
 
 				<p className="margin-top-20 text-indent-whole"><strong>Gốc</strong>:</p>
 			
@@ -733,7 +733,7 @@ export default function ThreeDC1(): React.ReactElement {
 
 				
 
-			<h5 className="margin-top-20 text-indent-whole">Ví dụ 2</h5>
+			<h5 className="margin-y-30 text-indent-whole">Ví dụ 2</h5>
 
 				<p className="margin-top-20 text-indent-whole"><strong>Gốc</strong>:</p>
 		
@@ -757,7 +757,7 @@ export default function ThreeDC1(): React.ReactElement {
 					</ul>
 
 
-			<h5 className="margin-top-20 text-indent-whole">Ví dụ 3</h5>
+			<h5 className="margin-y-30 text-indent-whole">Ví dụ 3</h5>
 			
 				<p className="margin-top-20 text-indent-whole"><strong>Gốc</strong>:</p>
 			
@@ -782,7 +782,7 @@ export default function ThreeDC1(): React.ReactElement {
 					
 			
 
-			<h5 className="margin-top-20 text-indent-whole">Ví dụ 4:</h5>
+			<h5 className="margin-y-30 text-indent-whole">Ví dụ 4:</h5>
 
 				<p className="margin-top-20 text-indent-whole"><strong>Gốc</strong>:</p>
 			
@@ -807,7 +807,7 @@ export default function ThreeDC1(): React.ReactElement {
 					</ul>
 
 
-			<h5 className="margin-top-20 text-indent-whole">Ví dụ 5:</h5>
+			<h5 className="margin-y-30 text-indent-whole">Ví dụ 5:</h5>
 
 				<p className="margin-top-20 text-indent-whole"><strong>Gốc</strong>:</p>
 			
