@@ -623,20 +623,24 @@ export default function ThreeDC1(): React.ReactElement {
 			
 				<ul className="list-square">
 			
-					<li>Nếu thử thay thế cả khối Động Câu [Verb Clause] bằng một Trạng Cơ [Adverb Base] đơn lẻ (<strong>then</strong>, <strong>there</strong>) mà câu vẫn đúng và hợp lý:</li>
+					<li className="margin-bottom-20 list-none">Nếu thử thay thế cả khối Động Câu [Verb Clause]</li>
+					<li className="list-none">Bằng một Trạng Cơ [Adverb Base] đơn lẻ (<strong>then</strong>, <strong>there</strong>) mà câu vẫn đúng và hợp lý:</li>
 					<li className="margin-bottom-20 list-none">→ Khối đó đảm nhiệm chức năng <strong>Trạng Câu</strong> [<strong>Adverb Clause</strong>].</li>
 			
-					<li>Nếu thử thay thế cả khối Động Câu [Verb Clause] bằng một Tính Cơ [Adjective Base] ngắn (<strong>beautiful</strong>, <strong>smart</strong>, <strong>new</strong>) mà câu vẫn đúng và hợp lý:</li>
+					<li className="margin-bottom-20 list-none">Nếu thử thay thế cả khối Động Câu [Verb Clause]</li>
+					<li className="list-none">Bằng một Tính Cơ [Adjective Base] ngắn (<strong>beautiful</strong>, <strong>smart</strong>, <strong>new</strong>) mà câu vẫn đúng và hợp lý:</li>
 					<li className="margin-bottom-20 list-none">→ Khối đó phụ trách chức năng <strong>Tính Câu</strong> [<strong>Adjective Clause</strong>].</li>
 			
-					<li>Nếu thử thay thế cả khối Động Câu [Verb Clause] bằng một ký hiệu tổng quát "<strong>Something</strong>" hoặc "<strong>It</strong>" (tương đương một Danh Cơ [Noun Base]) mà câu vẫn đúng và hợp lý:</li>
+					<li className="margin-bottom-20 list-none">Nếu thử thay thế cả khối Động Câu [Verb Clause]</li>
+					<li className="list-none">Bằng một ký hiệu tổng quát "<strong>Something</strong>" hoặc "<strong>It</strong>" (tương đương một Danh Cơ [Noun Base]) mà câu vẫn đúng và hợp lý:</li>
 					<li className="list-none">→ Khối đó gánh vác chức năng <strong>Danh Câu</strong> [<strong>Noun Clause</strong>].</li>
 			
 				</ul>
 
 			
-			<p className="margin-top-20">Thử thách phá án 3 cấu trúc có cùng hình thái Động Câu [Verb Clause] chứa từ "<strong>where</strong>":</p>
-
+			<h5 className="margin-y-30">Thử thách phá án 3 cấu trúc có cùng hình thái</h5>
+			
+			<p className="margin-top-20">Động Câu [Verb Clause] chứa từ "<strong>where</strong>"</p>
 
 			<p className="margin-top-20"><strong>Câu A</strong>:</p>
 			
