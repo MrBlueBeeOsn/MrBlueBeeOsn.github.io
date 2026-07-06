@@ -113,7 +113,7 @@ export default function Respond(): React.JSX.Element {
       
       <h4 className="margin-y-40">1. Phân hệ Động Cơ [Verb Base]</h4>
 
-      <p className="margin-top-20 text-indent-whole">Khi nhìn vào một từ đơn hành động, người học nhận diện diện mạo vật lý của nó là Động Cơ [Verb Base]. Khi đặt vào sơ đồ vận hành, chính hình thái Động Cơ này sẽ hình thành nên 3 loại chức năng độc lập:</p>
+      <p className="margin-top-20 text-indent-whole">Khi nhìn vào một từ đơn hành động, người học nhận diện diện mạo vật lý của nó là Động Cơ [Verb Base]. Khi đặt vào sơ đồ vận hành, chính hình thái Động Cơ này sẽ hình thành nên các loại chức năng độc lập:</p>
 
 
           
@@ -372,7 +372,7 @@ export default function Respond(): React.JSX.Element {
       
           <li className="list-none">Hình thái: [based on customer response] - Giới Cụm [Prepositional Phrase] xuất hiện dưới dạng một vùng mã xác lập căn cứ, bắt đầu bằng Giới Cơ Phức [Complex Preposition] "based on".</li>
       
-          <li className="list-none">Chức năng: [based on customer response] - Trạng Cụm [Adverb Phrase] đảm nhiệm vai trò làm một khối bối cảnh căn cứ đứng sau để xác định lý do/cơ sở cho hành động "improved the product".</li>
+          <li className="list-none">Chức năng: [based on customer response] - Trạng Cụm [Adverb Phrase] đảm nhận vai trò làm một khối bối cảnh căn cứ đứng sau để xác định lý do/cơ sở cho hành động "improved the product".</li>
       
         </ul>
 
@@ -598,7 +598,7 @@ export default function Respond(): React.JSX.Element {
       
           <li>Hình thái: [at {'{where he responded}'}] - Giới Cụm [Prepositional Phrase] biểu thị dưới dạng một vùng mã xác lập không gian lớn bắt đầu bằng Giới Cơ "at".</li>
       
-          <li>Chức năng: [at {'{where he responded}'}] - Trạng Cụm [Adverb Phrase] đảm nhận vai trò làm một khối bối cảnh địa điểm tổng thể đứng sau bổ nghĩa cho hành động "looked directly".</li>
+          <li>Chức năng: [at {'{where he responded}'}] - <strong>Trạng Cụm</strong> [<strong>Adverb Phrase</strong>] đảm nhận vai trò làm một khối bối cảnh địa điểm tổng thể đứng sau bổ nghĩa cho hành động "looked directly".</li>
       
         </ul>
 
@@ -625,7 +625,9 @@ export default function Respond(): React.JSX.Element {
 
       <h4 className="margin-y-40">1. Phân hệ Động: Thay đổi các module chứa hành động</h4>
 
-      <h5 className="margin-y-30 text-indent-whole">Case 1: Giữ nguyên cấp độ, thay thế khối mã tương đương [Cụm → Cụm]</h5>
+      <h5 className="margin-y-30 text-indent-whole">Case 1: Giữ nguyên cấp độ, thay thế khối mã tương đương</h5>
+
+      <p className="margin-top-20 text-indent-whole">[<strong>Cụm</strong> → <strong>Cụm</strong>]</p>
       
         <ul className="list-square">
       
@@ -654,7 +656,9 @@ export default function Respond(): React.JSX.Element {
 
 
 
-      <h5 className="margin-y-30 text-indent-whole">Case 2: Kỹ thuật nâng cấp từ Giới Cụm lên Động Câu [Phrase → Clause]</h5>
+      <h5 className="margin-y-30 text-indent-whole">Case 2: Kỹ thuật nâng cấp từ Giới Cụm lên Động Câu </h5>
+
+      <p className="margin-top-20 text-indent-whole">[<strong>Phrase</strong> → <strong>Clause</strong>]</p>
       
         <ul className="list-square">
       
@@ -682,7 +686,9 @@ export default function Respond(): React.JSX.Element {
         </ul>
 
 
-      <h5 className="margin-y-30 text-indent-whole">Case 3: Kỹ thuật hạ cấp từ Động Câu về Động Cơ [Clause → Base]</h5>
+      <h5 className="margin-y-30 text-indent-whole">Case 3: Kỹ thuật hạ cấp từ Động Câu về Động Cơ</h5>
+
+      <p className="margin-top-20 text-indent-whole">[<strong>Clause</strong> → <strong>Base</strong>]</p>
       
         <ul className="list-square">
       
@@ -713,8 +719,6 @@ export default function Respond(): React.JSX.Element {
       <h4 className="margin-y-40">2. Phân hệ Giới: Thay đổi các module chứa mã định vị</h4>
 
       <h5 className="text-indent-whole">Case 4: Kỹ thuật hoán đổi vị trí và thay thế khối mã Giới Cụm tương đương</h5>
-
-      <p className="margin-top-20 text-indent-whole">[based on customer response]</p>
       
         <ul className="list-square">
       
