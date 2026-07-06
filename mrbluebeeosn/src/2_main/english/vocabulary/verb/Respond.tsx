@@ -656,7 +656,7 @@ export default function Respond(): React.JSX.Element {
 
 
 
-      <h5 className="margin-y-30 text-indent-whole">Case 2: Kỹ thuật nâng cấp từ Giới Cụm lên Động Câu </h5>
+      <h5 className="margin-y-30 text-indent-whole">Case 2: Kỹ thuật nâng cấp từ Giới Cụm lên Động Câu</h5>
 
       <p className="margin-top-20 text-indent-whole">[<strong>Phrase</strong> → <strong>Clause</strong>]</p>
       
