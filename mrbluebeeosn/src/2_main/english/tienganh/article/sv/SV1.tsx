@@ -415,16 +415,24 @@ export default function SV1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>[The key {'{to the room}'}] is missing.</li>
-					<li className="margin-bottom-20 list-none">[Chìa khóa {'{của căn phòng đó}'}] đã bị mất.</li>
+					<li>[Finding {'{the key <to the room>}'}] is difficult.</li>
+					<li className="margin-bottom-20 list-none">[Việc tìm kiếm {'{chiếc chìa khóa <của căn phòng đó>}'}] thì khó khăn.</li>
 
 					<li>Phân tích Hình thái:</li>
-					<li className="list-none">Khối lồng bên trong {'{to the room}'} là một Giới Cụm [Prepositional Phrase] bắt đầu bằng Giới Cơ to.</li>
-					<li className="margin-bottom-20 list-none">Khối tổng thể bao ngoài [The key {'{to the room}'}] là một Danh Cụm [Noun Phrase].</li>
+
+					<li className="list-none">Khối lồng sâu nhất {'<to the room>'} là một Giới Cụm [Prepositional Phrase] bắt đầu bằng Giới Cơ to.</li>
+
+					<li className="list-none">Khối lồng trung gian {'{the key <to the room>}'} là một Danh Cụm [Noun Phrase].</li>
+
+					<li className="margin-bottom-20 list-none">Khối tổng thể bao ngoài [Finding {'{the key <to the room>}'}] là một Động Cụm [Verb Phrase] bắt đầu bằng Động Cơ dạng V-ing Finding.</li>
 			
 					<li>Phân tích Chức năng:</li>
-					<li className="list-none">Lớp trong: Khối {'{to the room}'} đóng vai trò là một Tính Cụm [Adjective Phrase] neo ngay sau Danh Cơ key để bổ nghĩa và định danh trực tiếp cho nó.</li>
-					<li className="list-none">Lớp ngoài: Toàn bộ khối cấu trúc [The key {'{to the room}'}] vận hành đồng bộ như một <strong>Danh Cụm</strong> [<strong>Noun Phrase</strong>] lớn giữ vai trò làm Danh Chủ điều phối cho toàn câu.</li>
+
+					<li className="list-none">Lớp trong cùng: Khối {'<to the room>'} đóng vai trò là một Tính Cụm [Adjective Phrase] neo ngay sau Danh Cơ key để bổ nghĩa và định danh trực tiếp cho nó.</li>
+
+					<li className="list-none">Lớp trung gian: Khối {'{the key <to the room>}'} đóng vai trò là một Danh Cụm [Noun Phrase] đứng làm điểm tựa danh nhận chịu sự điều phối trực tiếp của hành động Finding.</li>
+
+					<li className="list-none">Lớp ngoài cùng: Toàn bộ khối cấu trúc [Finding {'{the key <to the room>}'}] vận hành đồng bộ như một khối <strong>Danh Cụm</strong> [<strong>Noun Phrase</strong>] lớn giữ vai trò làm Danh Chủ điều phối cho toàn câu.</li>
 			
 				</ul>
 
