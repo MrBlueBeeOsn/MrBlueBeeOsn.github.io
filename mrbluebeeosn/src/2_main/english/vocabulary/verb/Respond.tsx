@@ -176,12 +176,12 @@ export default function Respond(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>You [respond to the email].</li>
-          <li className="margin-bottom-20 list-none">Bạn [phản hồi email].</li>
+          <li>You should avoid [responding to the email angrily].</li>
+          <li className="margin-bottom-20 list-none">Bạn nên tránh [việc phản hồi email một cách giận dữ].</li>
       
-          <li className="list-none">Hình thái: [respond to the email] - Động Cụm [Verb Phrase] hiển thị dưới dạng một vùng mã mở rộng chứa nhiều thành phần gồm Thời-Thực Động Cơ [Tense-Action Verb Base] phản hồi thiết lập theo thời hiện tại và đối tượng của nó; toàn bộ vùng mã này đồng thời đóng vai trò là một Vị Cụm [Predicate Phrase] hoàn chỉnh đi sau nền tảng đứng đầu.</li>
+          <li className="list-none">Hình thái: [responding to the email angrily] - Động Cụm [Verb Phrase] chứa Thực Động Cơ [Action Verb Base] dạng thêm đuôi "-ing", mở rộng thành một vùng mã hành động phức hợp gồm hành động phản hồi, đối tượng tiếp nhận và trạng thái đi kèm.</li>
       
-          <li className="list-none">Chức năng: [respond to the email] - Danh Cụm [Noun Phrase] chịu trách nhiệm làm một vùng đầu việc lớn cần thực hiện, đảm nhận vai trò làm Danh Nhận [Object] tích hợp chuỗi thông tin tiếp nhận hành động được thiết lập phía sau thành phần nền tảng Danh Chủ [Subject] "You".</li>
+          <li className="list-none">Chức năng: [responding to the email angrily] - Danh Cụm [Noun Phrase] đóng vai trò làm Danh Nhận [Object] (thành phần chịu tác động) tích hợp chuỗi dữ liệu đầu việc đứng ngay sau cặp phối hợp Danh Chủ [Subject] "You" và Thái Động Cơ - Động Cơ "should avoid".</li>
       
         </ul>
 

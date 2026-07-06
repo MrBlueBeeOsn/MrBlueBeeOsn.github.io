@@ -238,12 +238,12 @@ export default function NestedStructure1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>You [build the system].</li>
-					<li className="margin-bottom-20 list-none">Bạn [xây dựng hệ thống].</li>
+					<li>[Building the system] requires expertise.</li>
+					<li className="margin-bottom-20 list-none">[Việc xây dựng hệ thống] đòi hỏi chuyên môn.</li>
 
-					<li className="list-none">Hình thái: [build the system] - Động Cụm [Verb Phrase] hiển thị dưới dạng một vùng mã mở rộng chứa Động Cơ [Verb Base] build và đối tượng của nó.</li>
+					<li className="list-none">Hình thái: [Building the system] — Động Cụm [Verb Phrase] bắt đầu bằng Thực Động Cơ [Action Verb Base] đã được tinh chỉnh qua bộ lọc đuôi -ing (Building) kéo dài cho đến hết đối tượng của nó.</li>
 
-					<li className="list-none">Chức năng: [build the system] - Danh Cụm [Noun Phrase] chịu trách nhiệm làm một vùng đầu việc lớn cần thực hiện (Danh Nhận) được thiết lập phía sau Danh Chủ.</li>
+					<li className="list-none">Chức năng: [Building the system] — Danh Cụm [Noun Phrase] đóng vai trò làm một khối đầu việc lớn đứng ở tiền tuyến để làm Danh Chủ [Noun Subject] điều phối dòng lệnh requires của câu.</li>
 			
 				</ul>
 

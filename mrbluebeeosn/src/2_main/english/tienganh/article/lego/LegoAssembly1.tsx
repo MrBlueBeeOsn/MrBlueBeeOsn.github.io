@@ -229,12 +229,12 @@ export default function LegoAssembly1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>Parents should [educate their children].</li>
-					<li className="margin-bottom-20 list-none">Cha mẹ nên [giáo dục con cái của họ].</li>
+					<li>They enjoy [traveling around the world].</li>
+					<li className="margin-bottom-20 list-none">Họ thích [việc đi du lịch quanh thế giới].</li>
 
-					<li className="list-none">Hình thái: [educate their children] - Động Cụm [Verb Phrase] bắt đầu bằng một Động Cơ [Verb Base] nguyên bản "educate".</li>
+					<li className="list-none">Hình thái: [traveling around the world] - Động Cụm [Verb Phrase] bắt đầu bằng một Thực Động Cơ [Action Verb Base] dạng V-ing (traveling).</li>
 
-					<li className="list-none">Chức năng: [educate their children] - Danh Cụm [Noun Phrase] đóng vai trò làm phần Danh Nhận, chịu yêu cầu trực tiếp từ bộ nguồn thái độ "should".</li>
+					<li className="list-none">Chức năng: [traveling around the world] - Danh Cụm [Noun Phrase] đóng vai trò làm phần Danh Nhận, chịu yêu cầu và tác động trực tiếp từ bộ nguồn hành động enjoy.</li>
 			
 				</ul>
 			

@@ -210,12 +210,12 @@ export default function SuperWords1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>You could [read this manual].</li>
-					<li className="margin-bottom-20 list-none">Bạn có thể [đọc cuốn hướng dẫn này].</li>
+					<li>[Reading this manual] is necessary for users.</li>
+					<li className="margin-bottom-20 list-none">[Việc đọc cuốn hướng dẫn này] là cần thiết cho người dùng.</li>
 			
-					<li className="list-none">Hình thái: [read this manual] - Động Cụm [Verb Phrase] thể hiện một khối hành động chứa nhiều chữ bắt đầu bằng một Động Cơ gốc phối hợp với đối tượng bổ trợ.</li>
+					<li className="list-none">Hình thái: [Reading this manual] - Động Cụm [Verb Phrase] thể hiện một khối hành động chứa nhiều chữ bắt đầu bằng một Thực Động Cơ dạng đuôi -ing phối hợp với đối tượng bổ trợ.</li>
 			
-					<li className="list-none">Chức năng: [read this manual] - Danh Cụm [Noun Phrase] đang đứng vị trí Danh Nhận ngay sau Thái Động Cơ could để làm rõ đầu việc được hướng tới.</li>
+					<li className="list-none">Chức năng: [Reading this manual] - Danh Cụm [Noun Phrase] đang đứng vị trí đầu câu để đóng vai trò làm Danh Chủ cho toàn câu lớn.</li>
 			
 				</ul>
 			
