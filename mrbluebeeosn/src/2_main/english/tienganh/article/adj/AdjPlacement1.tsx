@@ -60,7 +60,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 			<p className="margin-y-30"><strong>Danh Cơ đứng trước</strong>, [<strong>thành phần mô tả mang chức năng Tính đứng sau</strong>].</p>
 
 
-			<p>Đây không phải là một sự nguyên nhiên, mà chính là điểm mạnh tương đồng cốt lõi giữa tiếng Anh và tiếng Việt. Nhận ra điều này chính là khóa vàng giúp người Việt sở hữu tư duy ngôn ngữ đẳng cấp, chuyên sâu tuyệt đối vào cấu trúc bổ nghĩa cho Danh.</p>
+			<p>Đây không phải là một sự ngẫu nhiên, mà chính là điểm mạnh tương đồng cốt lõi giữa tiếng Anh và tiếng Việt. Nhận ra điều này chính là khóa vàng giúp người Việt sở hữu tư duy ngôn ngữ đẳng cấp, chuyên sâu tuyệt đối vào cấu trúc bổ nghĩa cho Danh.</p>
 			
 
 			{/* 1.  */}
@@ -94,7 +94,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 				<ol>
 			
 					<li value="1"><strong>Động Cơ</strong> [<strong>Verb Base</strong>]: read, make, sing</li>
-					<li className="margin-bottom-20 list-none">Nguyên bản gốc, là gốc rễ cha (Root Class) của mọi hành động khi chưa chịu bất kỳ tác động nào của thời gian hay trạng thái thực thi.</li>
+					<li className="margin-bottom-20 list-none">Dạng nguyên bản gốc, là gốc rễ cha (Root Class) của mọi hành động khi chưa chịu bất kỳ tác động nào của thời gian hay trạng thái thực thi.</li>
 			
 					<li value="2"><strong>Thời Động Cơ</strong> [<strong>Tense Verb Base</strong>]: is, was, has, had, will, have</li>
 					<li className="margin-bottom-20 list-none">Chữ đơn lẻ đóng vai trò xử lý và định vị bối cảnh thời gian (quá khứ, hiện tại, tương lai) cho toàn bộ cấu trúc hành động đứng sau.</li>
@@ -403,7 +403,6 @@ export default function AdjPlacement1(): React.JSX.Element {
 			
 				</ul>
 			
-			
 
 
 			<h4 className="margin-y-40">Danh Cơ + Tính Câu Dạng OSV (Mô tả chi tiết)</h4>
@@ -454,7 +453,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 
 			<p>Mẹo văn nói và văn viết học thuật tinh gọn này cực kỳ ưa chuộng việc nuốt luôn chữ làm Object chặn đầu (which/that/who).</p>
 
-			<p>Khi đó mọi thứ trở nên cực kỳ tinh gọn: Danh Cơ + [Subject + Tense-Action Verb Base].</p>
+			<p>Khi đó mọi thứ trở nên cực kỳ tinh gọn: <strong>Danh Cơ</strong> + [<strong>Subject</strong> + <strong>Tense-Action Verb Base</strong>].</p>
 
 			
 			<p className="margin-top-20">Ví dụ 1:</p>
@@ -477,7 +476,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 				</ul>
 			
 			
-			<p className="margin-top-20">Ví dụ 3: </p>
+			<p className="margin-top-20">Ví dụ 3:</p>
 			
 				<ul className="list-square">
 			
@@ -602,7 +601,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 
 			<h4 className="margin-y-40">Tính Cụm Phân Tầng [Nested Adjective Phrase]</h4>
 
-			<p className="text-indent-whole"><strong>Câu ví dụ mẫu</strong>:</p>
+			<p className="text-indent-whole"><strong>Ví dụ mẫu</strong>:</p>
 			
 				<ul className="list-square">
 			
@@ -611,7 +610,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 
 					<li className="list-none">Hình thái: Khối tổng thể tầng ngoài [of {'{what they investigated}'}] khởi đầu bằng Giới Cơ of, đây chính là một Giới Cụm [Prepositional Phrase]. Ngay phía sau Giới Cơ tầng ngoài, khối hình thái tầng trong {'{what they investigated}'} lại là một việc hành động phức hợp có hệ tạo hành động riêng, tức là một Động Câu [Verb Clause].</li>
 			
-					<li className="list-none">Chức năng: Khối hình thái tầng trong {'{what they investigated}'} đóng vai trò là một Danh Câu [Noun Clause] đứng sau để làm Danh Nhận chịu sự điều phối trực tiếp của khối Giới Cơ thuộc Giới Cụm tầng ngoài. Khi hai tầng này bao gói vào nhau thành một khối lớn tổng thể [of {'{what they investigated}'}], khối này sẽ gánh vác chức năng tổng thể cuối cùng là một Tính Cụm [<strong>Adjective Phrase</strong>] định vị ngay sau Danh Cơ analysis.</li>
+					<li className="list-none">Chức năng: Khối hình thái tầng trong {'{what they investigated}'} đóng vai trò là một Danh Câu [Noun Clause] đứng sau để làm Danh Nhận chịu sự điều phối trực tiếp của khối Giới Cơ thuộc Giới Cụm tầng ngoài. Khi hai tầng này bao gói vào nhau thành một khối lớn tổng thể [of {'{what they investigated}'}], khối này sẽ gánh vác chức năng tổng thể cuối cùng là một <strong>Tính Cụm</strong> [<strong>Adjective Phrase</strong>] định vị ngay sau Danh Cơ analysis.</li>
 			
 				</ul>
 			
