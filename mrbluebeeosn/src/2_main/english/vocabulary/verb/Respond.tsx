@@ -27,7 +27,9 @@ export default function Respond(): React.JSX.Element {
 
         <div>
 
-          <p>[respond] is a Động Cơ [Verb Base] that means to say or write something as an answer to somebody/something.</p>
+          <p className="margin-bottom-20">[respond] is a [Verb Base] that means to say or write something as an answer to somebody/something.</p>
+
+          <p>[respond] là một Động Cơ [Verb Base] có nghĩa là nói hoặc viết điều gì đó như một câu trả lời cho ai đó/điều gì đó.</p>
 
           <p className="margin-top-20">Ví dụ: /rɪˈspɒnd/</p>
 
