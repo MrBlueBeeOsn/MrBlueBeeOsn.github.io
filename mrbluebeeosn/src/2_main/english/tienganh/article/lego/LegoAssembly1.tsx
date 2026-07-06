@@ -123,7 +123,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 					<li value="4"><strong>Thực Động Cơ</strong> [<strong>Action Verb Base</strong>]: sleeping/slept (đang ngủ/được ngủ), building/built (đang xây/được xây), driving/driven (đang lái/được lái).</li>
 					<li className="margin-bottom-20 list-none">Hành động thực thi mang hình thái biến đổi kỹ thuật (bản thân Động Cơ [Verb Base] đã được thêm đuôi -ing để chỉ tính tiếp diễn, hoặc biến đổi sang dạng V3/Ed để chỉ tính hoàn thành/bị động). Khối này chỉ chứa năng lượng hành động thực tế, không có năng lượng thời gian nên không bao giờ được phép đứng làm Head một mình.</li>
 
-					<li value="5"><strong>Thái Động Cơ</strong> [<strong>Modal Verb Base</strong>]: can (copy), should (nên), must (phải), may/might (có lẽ).</li>
+					<li value="5"><strong>Thái Động Cơ</strong> [<strong>Modal Verb Base</strong>]: can (có thể), should (nên), must (phải), may/might (có lẽ).</li>
 					<li className="margin-bottom-20 list-none">Khối điều khiển tâm lý, chế độ, khả năng hoặc thái độ của chủ thể đối với hành động đứng sau.</li>
 			
 					<li value="6"><strong>Thời-Thực Động Cơ</strong> [<strong>Tense-Action Verb Base</strong>]: slept (đã ngủ), built (đã xây), drove (đã lái), works (làm việc ở hiện tại), cried (đã khóc).</li>
