@@ -381,20 +381,28 @@ export default function SV1(): React.JSX.Element {
 
 			<h3 className="margin-y-50 text-center">V. Nguyên Tắc Phân Tầng Bằng "Điểm Neo"</h3>
 
-			<p>Khi xử lý các cấu trúc phức tạp chứa nhiều tầng lồng ghép, người học áp dụng quy ước: Dấu [] cho lớp bao ngoài và dấu ngoặc nhọn {} cho lớp lồng bên trong. Các yếu tố đuôi biến đổi cấu hình như -s/-es, -ed, -ing nằm bên trong dấu móc tạo nên biến thể của Động Cơ [Verb Base], không làm thay đổi bản chất hình thái hay chức năng.</p>
+			<p>Khi xử lý các cấu trúc phức tạp chứa nhiều tầng lồng ghép, người học áp dụng quy ước mã hóa hình khối tăng dần: Dấu vuông [] cho lớp bao ngoài cùng, dấu ngoặc nhọn {'{}'} cho lớp lồng trung gian, và dấu móc nhọn &lt; &gt; cho lớp lồng sâu nhất.</p>
+
+			<p>Các yếu tố đuôi biến đổi cấu hình như -s/-es, -ed, -ing nằm bên trong các dấu mốc tạo nên biến thể của từ, không làm thay đổi bản chất hình thái hay chức năng của khối.</p>
+
+			<p>Hãy xem cách bóc tách một cấu trúc chứa trọn vẹn cả 3 lớp hình khối:</p>
 
 				<ul className="list-square">
 			
-					<li>He [remembers {'{what you told him}'}].</li>
-					<li className="margin-bottom-20 list-none">Anh ấy [nhớ {'{những gì bạn đã nói với anh ấy}'}].</li>
+					<li>[Finding {'{the key <to the room>}'}] is difficult.</li>
+					<li className="margin-bottom-20 list-none">[Việc tìm kiếm {'{chiếc chìa khóa <của căn phòng đó>}'}] thì khó khăn.</li>
 
-					<li className="list-none">Hình thái lớp trong: {'{what you told him}'} - Động Câu [Verb Clause] chứa hệ trục S + V, bắt đầu bằng Liên Cơ [Connector Base] "what".</li>
+					<li className="list-none">Hình thái lớp trong cùng &lt; &gt;: &lt;to the room&gt; là một Giới Cụm [Prepositional Phrase] bắt đầu bằng Giới Cơ to.</li>
 
-					<li className="margin-bottom-20 list-none">Chức năng lớp trong: {'{what you told him}'} - <strong>Danh Câu</strong> [<strong>Noun Clause</strong>] đứng sau đón nhận tác động từ hành động nhớ làm Danh Nhận dưới sự điều phối của Thời-Thực Động Cơ [Tense-Action Verb Base] remembers.</li>
+					<li className="margin-bottom-20 list-none">Chức năng lớp trong cùng &lt; &gt;: &lt;to the room&gt; đóng vai trò là một <strong>Tính Cụm</strong> [<strong>Adjective Phrase</strong>] neo ngay sau Danh Cơ key để bổ nghĩa và định danh trực tiếp cho chiếc chìa khóa đó.</li>
 
-					<li className="list-none">Hình thái tổng thể: [remembers {'{what you told him}'}] - Động Cụm [Verb Phrase] cấu thành khối hành động lớn chứa Thời-Thực Động Cơ [Tense-Action Verb Base] "remembers" phối hợp cùng phần khối phụ thuộc phía sau để tạo nên trục thông tin hành động đầy đủ cho Danh Chủ "He".</li>
+					<li className="list-none">Hình thái lớp trung gian {'{}'}: {'{the key <to the room>}'} tạo thành một Danh Cụm [Noun Phrase] hoàn chỉnh (gồm danh từ lõi và phần tính cụm bổ nghĩa đi kèm).</li>
 
-					<li className="list-none">Chức năng tổng thể: [remembers {'{what you told him}'}] - <strong>Danh Cụm</strong> [<strong>Noun Phrase</strong>] giữ vai trò cốt lõi thông tin của câu lớn.</li>
+					<li className="margin-bottom-20 list-none">Chức năng lớp trung gian {'{}'}: {'{the key <to the room>}'} đóng vai trò là một <strong>Danh Cụm</strong> [<strong>Noun Phrase</strong>] làm điểm tựa danh nhận chịu sự điều phối trực tiếp của hành động Finding.</li>
+
+					<li className="list-none">Hình thái tổng thể bao ngoài []: [Finding {'{the key <to the room>}'}] là một Động Cụm [Verb Phrase] bắt đầu bằng Động Cơ dạng V-ing.</li>
+
+					<li className="list-none">Chức năng tổng thể bao ngoài []: [Finding {'{the key <to the room>}'}] vận hành đồng bộ như một khối <strong>Danh Cụm</strong> [<strong>Noun Phrase</strong>] lớn giữ vai trò làm Danh Chủ điều phối hệ trục thông tin hành động cho toàn câu.</li>
 			
 				</ul>
 			
@@ -404,35 +412,31 @@ export default function SV1(): React.JSX.Element {
 
 			<h3 className="margin-y-50 text-center">VI. Cấu Trúc Khối Phân Tầng Cao Cấp [Nested Structures]</h3>
 
-			<p>Khi các hình khối lồng ghép vào nhau theo nhiều lớp như những chiếc hộp gỗ, hệ thống quy ước dấu vuông [] cho lớp bao ngoài và dấu ngoặc nhọn {'{}'} cho lớp lồng bên trong sẽ giúp bóc tách chính xác mối quan hệ phân tầng về cả Hình thái lẫn Chức năng.</p>
-
-			<p>Dưới đây là cách vận hành chi tiết của các cấu trúc phân tầng phổ biến:</p>
+			<p>Khi các hình khối lồng ghép vào nhau theo nhiều lớp như những chiếc hộp gỗ, hệ thống quy ước dấu sẽ giúp bóc tách chính xác mối quan hệ phân tầng về cả Hình thái lẫn Chức năng.</p>
 
 
 			<h4 className="margin-y-40">1. Danh Cụm Phân Tầng [Nested Noun Phrase]</h4>
 
-			<p className="text-indent-whole">Khối Danh Cụm lớn đóng vai trò làm Danh Chủ hoặc Danh Nhận, nhưng bên trong nó lại chứa một khối phụ trợ lồng ghép để làm rõ thông tin.</p>
+			<p className="text-indent-whole">Khối Danh Cụm lớn đóng vai trò làm Danh Chủ hoặc Danh Nhận, nhưng bên trong nó lại chứa một khối chức năng phụ trợ lồng ghép để làm rõ thông tin.</p>
+
+			<p className="text-indent-whole">Áp dụng mẫu cấu trúc Danh Nhận phân tầng: S + Thời-Thực Động Cơ + [V-ing {'{Động Câu}'}]</p>
 			
 				<ul className="list-square">
 			
-					<li>[Finding {'{the key <to the room>}'}] is difficult.</li>
-					<li className="margin-bottom-20 list-none">[Việc tìm kiếm {'{chiếc chìa khóa <của căn phòng đó>}'}] thì khó khăn.</li>
+					<li>He avoided [discussing {'{what they had discovered}'}].</li>
+					<li className="margin-bottom-20 list-none">Anh ấy đã tránh [thảo luận về {'{những gì họ đã phát hiện ra}'}].</li>
 
 					<li>Phân tích Hình thái:</li>
 
-					<li className="list-none">Khối lồng sâu nhất {'<to the room>'} là một Giới Cụm [Prepositional Phrase] bắt đầu bằng Giới Cơ to.</li>
+					<li className="list-none">Khối lồng bên trong {'{what they had discovered}'} là một Động Câu [Verb Clause] vì chứa đầy đủ hệ trục S + V (they had discovered), bắt đầu bằng Liên Cơ [Connector Base] what.</li>
 
-					<li className="list-none">Khối lồng trung gian {'{the key <to the room>}'} là một Danh Cụm [Noun Phrase].</li>
-
-					<li className="margin-bottom-20 list-none">Khối tổng thể bao ngoài [Finding {'{the key <to the room>}'}] là một Động Cụm [Verb Phrase] bắt đầu bằng Động Cơ dạng V-ing Finding.</li>
+					<li className="margin-bottom-20 list-none">Khối tổng thể bao ngoài [discussing {'{what they had discovered}'}] là một khối Động Cụm [Verb Phrase] bắt đầu bằng hình thái hành động thực thi dạng V-ing discussing.</li>
 			
 					<li>Phân tích Chức năng:</li>
 
-					<li className="list-none">Lớp trong cùng: Khối {'<to the room>'} đóng vai trò là một Tính Cụm [Adjective Phrase] neo ngay sau Danh Cơ key để bổ nghĩa và định danh trực tiếp cho nó.</li>
+					<li className="list-none">Lớp trong: Khối {'{what they had discovered}'} đóng vai trò là một Danh Câu [Noun Clause], neo ngay sau hành động discussing để làm Danh Nhận (đối tượng bị thảo luận) cho hành động đó.</li>
 
-					<li className="list-none">Lớp trung gian: Khối {'{the key <to the room>}'} đóng vai trò là một Danh Cụm [Noun Phrase] đứng làm điểm tựa danh nhận chịu sự điều phối trực tiếp của hành động Finding.</li>
-
-					<li className="list-none">Lớp ngoài cùng: Toàn bộ khối cấu trúc [Finding {'{the key <to the room>}'}] vận hành đồng bộ như một khối <strong>Danh Cụm</strong> [<strong>Noun Phrase</strong>] lớn giữ vai trò làm Danh Chủ điều phối cho toàn câu.</li>
+					<li className="list-none">Lớp ngoài: Toàn bộ khối cấu trúc [discussing {'{what they had discovered}'}] vận hành đồng bộ như một khối <strong>Danh Cụm</strong> [<strong>Noun Phrase</strong>] lớn, đứng ngay sau Thời-Thực Động Cơ avoided nhằm làm Danh Nhận thực thi (đón nhận hành động "né tránh") cho Danh Chủ He.</li>
 			
 				</ul>
 
