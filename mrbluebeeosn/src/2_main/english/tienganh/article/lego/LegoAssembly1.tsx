@@ -267,12 +267,12 @@ export default function LegoAssembly1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>He [remembers {'{how you painted the wall}'}].</li>
-					<li className="margin-bottom-20 list-none">Anh ấy [nhớ {'{cách bạn đã sơn bức tường}'}].</li>
+					<li>[Remembering {'{how you painted the wall}'}] brings back great memories.</li>
+					<li className="margin-bottom-20 list-none">[Việc nhớ lại {'{cách bạn đã sơn bức tường}'}] mang về những kỷ niệm tuyệt vời.</li>
 
-					<li className="margin-bottom-20 list-none">Hình thái: Khối tổng thể [remembers {'{how you painted the wall}'}] là một Động Cụm [Verb Phrase] tầng ngoài. Bên trong bao gói {'{how you painted the wall}'} là một Động Câu [Verb Clause] tầng trong chứa Liên Cơ [Connector Base] "how".</li>
+					<li className="margin-bottom-20 list-none">Hình thái: Khối tổng thể [Remembering {'{how you painted the wall}'}] là một Động Cụm [Verb Phrase] tầng ngoài bắt đầu bằng dạng V-ing (Remembering). Bên trong lòng của nó bao gói và chứa đựng khối {'{how you painted the wall}'} – một Động Câu [Verb Clause] tầng trong có Liên Cơ [Connector Base] how.</li>
 
-					<li className="list-none">Chức năng: Khối tổng thể [remembers {'{how you painted the wall}'}] đóng vai trò là <strong>Danh Cụm</strong> [<strong>Noun Phrase</strong>] làm phần tiếp nhận tác động đứng sau chủ thể "He". Bên trong nó, khối {'{how you painted the wall}'} đóng vai trò là Danh Câu [Noun Clause] chịu sự điều phối trực tiếp của Thời-Thực Động Cơ [Tense-Action Verb Base] "remembers".</li>
+					<li className="list-none">Chức năng: Khối tổng thể [Remembering {'{how you painted the wall}'}] đóng vai trò là <strong>Danh Cụm</strong> [<strong>Noun Phrase</strong>] làm Danh Chủ để kích hoạt toàn bộ nguồn hành động brings back phía sau. Bên trong nó, khối nhỏ {'{how you painted the wall}'} đóng vai trò là một Danh Câu [Noun Clause] làm phần tiếp nhận tác động trực tiếp, chịu sự điều phối nội bộ của hành động Remembering.</li>
 			
 				</ul>
 			

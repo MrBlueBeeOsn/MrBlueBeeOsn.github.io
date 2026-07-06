@@ -520,8 +520,8 @@ export default function Respond(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>We [discuss {'{how the system responds}'}].</li>
-          <li className="margin-bottom-20 list-none">Chúng tôi [thảo luận {'{cách mà hệ thống phản hồi}'}].</li>
+          <li>[Discussing {'{how the system responds}'}] is our main task today.</li>
+          <li className="margin-bottom-20 list-none">[Việc thảo luận {'{cách mà hệ thống phản hồi}'}] là nhiệm vụ chính của chúng tôi hôm nay.</li>
       
         </ul>
 
@@ -529,9 +529,9 @@ export default function Respond(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>Hình thái: [discuss {'{how the system responds}'}] - Động Cụm [Verb Phrase] biểu thị dưới dạng vùng mã lớn bắt đầu ngay từ Thời-Thực Động Cơ [Tense-Action Verb Base] "discuss" đến hết câu.</li>
+          <li>Hình thái: [Discussing {'{how the system responds}'}] - Động Cụm [Verb Phrase] biểu thị dưới dạng một vùng mã mở rộng lớn bắt đầu bằng Thực Động Cơ [Action Verb Base] dạng đuôi "-ing" và kéo theo thành phần bổ trợ phía sau.</li>
       
-          <li>Chức năng: [discuss {'{how the system responds}'}] - Danh Cụm [Noun Phrase] đóng vai trò một khối mã bao bọc vùng đầu việc lớn cho Danh Chủ [Subject] "We".</li>
+          <li>Chức năng: [Discussing {'{how the system responds}'}] - <strong>Danh Cụm</strong> [<strong>Noun Phrase</strong>] chịu trách nhiệm làm một vùng đầu việc lớn cần thực hiện, đảm nhận vai trò làm Danh Chủ [Subject] để thiết lập nền tảng thông tin đứng đầu toàn câu trước Thời Động Cơ "is".</li>
       
         </ul>
 
@@ -539,9 +539,9 @@ export default function Respond(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>Hình thái: {'{how the system responds}'} - Động Câu [Verb Clause] định hình dưới dạng khối mã con nằm gọn bên trong, chứa đầy đủ Danh Chủ [Subject] riêng "the system" và Thời-Thực Động Cơ [Tense-Action Verb Base] riêng "responds".</li>
+          <li>Hình thái: {'{how the system responds}'} - Động Câu [Verb Clause] định hình dưới dạng một khối mã con nằm gọn hoàn toàn bên trong vùng mã tổng thể, chứa đầy đủ Danh Chủ [Subject] riêng "the system" và Thời-Thực Động Cơ [Tense-Action Verb Base] riêng "responds" thiết lập theo trục thời hiện tại.</li>
       
-          <li>Chức năng: {'{how the system responds}'} - Danh Câu [Noun Clause] đóng vai trò làm Danh Nhận [Object] chịu sự điều phối trực tiếp của Động Cơ ở tầng ngoài.</li>
+          <li>Chức năng: {'{how the system responds}'} - Danh Câu [Noun Clause] đóng vai trò làm Danh Nhận [Object] chịu sự điều phối trực tiếp từ hạt nhân hành động "Discussing" ở tầng ngoài, tích hợp chuỗi thông tin tiếp nhận hành động để làm rõ nội dung cho việc thảo luận.</li>
       
         </ul>
 

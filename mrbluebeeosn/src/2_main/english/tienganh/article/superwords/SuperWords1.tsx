@@ -400,16 +400,16 @@ export default function SuperWords1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>She [explained {'{why she chose this method}'}].</li>
-					<li className="margin-bottom-20 list-none">Cô ấy [giải thích {'{lý do tại sao cô ấy chọn phương pháp này}'}].</li>
+					<li>[Explaining {'{why she chose this method}'}] was unnecessary.</li>
+					<li className="margin-bottom-20 list-none">[Việc giải thích {'{lý do tại sao cô ấy chọn phương pháp này}'}] đã không cần thiết.</li>
 
 					<li>Phân tích Hình thái:</li>
-					<li className="list-none">[explained {'{why she chose this method}'}] – Động Cụm [Verb Phrase] tầng ngoài, bắt đầu bằng Thời-Thực Động Cơ [explained].</li>
+					<li className="list-none">[Explaining {'{why she chose this method}'}] – Động Cụm [Verb Phrase] tầng ngoài, bắt đầu bằng Thực Động Cơ dạng đuôi -ing [Explaining].</li>
 					<li className="margin-bottom-20 list-none">{'{why she chose this method}'} – Động Câu [Verb Clause] tầng trong, thể hiện một cấu trúc câu con hoàn chỉnh được kết nối bởi Liên Cơ "why".</li>
 			
 					<li>Phân tích Chức năng:</li>
-					<li className="list-none">{'{why she chose this method}'} – Danh Câu [Noun Clause] đang đứng vị trí Danh Nhận để tiếp nhận tác động từ hành động giải thích.</li>
-					<li className="list-none">[explained {'{why she chose this method}'}] – <strong>Danh Cụm</strong> [<strong>Noun Phrase</strong>] đóng vai trò làm Vị Cụm [Predicate Phrase] để điều phối thông tin phía sau Danh Chủ "She".</li>
+					<li className="list-none">{'{why she chose this method}'} – Danh Câu [Noun Clause] tầng trong, đang đứng vị trí Danh Nhận để chịu tác động và làm rõ nghĩa cho hành động giải thích.</li>
+					<li className="list-none">[Explaining {'{why she chose this method}'}] – <strong>Danh Cụm</strong> [<strong>Noun Phrase</strong>] tầng ngoài, đóng vai trò làm Danh Chủ đứng ở đầu câu để làm chủ thể cho toàn bộ câu lớn.</li>
 			
 				</ul>
 
