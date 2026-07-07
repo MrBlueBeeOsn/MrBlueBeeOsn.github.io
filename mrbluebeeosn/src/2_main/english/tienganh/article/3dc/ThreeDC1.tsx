@@ -74,7 +74,7 @@ export default function ThreeDC1(): React.ReactElement {
 			
 					<li><strong>Chiều ngang</strong> – <strong>3 Chức năng</strong>:</li>
 					<li className="list-none">Danh [Noun] / Tính [Adjective] / Trạng [Adverb].</li>
-					<li className="list-none">Tùy thuộc vào vị trí đứng, các Hình thái trên sẽ "hóa thân" để thực thi một trong ba chức năng này.</li>
+					<li className="list-none">Tùy thuộc vào vị trí đứng, các <strong>Hình thái</strong> trên sẽ "<strong>hóa thân</strong>" để thực thi một trong ba chức năng này.</li>
 			
 				</ul>
 			
@@ -175,7 +175,7 @@ export default function ThreeDC1(): React.ReactElement {
 					<li>He bought a [used] car.</li>
 					<li className="margin-bottom-20 list-none">Anh ấy đã mua một chiếc xe [đã qua sử dụng].</li>
 			
-					<li className="list-none">Hình thái: [used] - Động Cơ [Verb Base] ở dạng Thực Động Cơ trạng thái $V_3$ mô tả đặc điểm hạt nhân chỉ gồm đúng 1 từ.</li>
+					<li className="list-none">Hình thái: [used] - Động Cơ [Verb Base] ở dạng Thực Động Cơ trạng thái V3 mô tả đặc điểm hạt nhân chỉ gồm đúng 1 từ.</li>
 			
 					<li className="list-none">Chức năng: [used] - Tính Cơ [Adjective Base] đứng ngay trước một thực thể để biểu thị đặc tính và bổ nghĩa cho thực thể đó.</li>
 			
@@ -208,12 +208,12 @@ export default function ThreeDC1(): React.ReactElement {
 			
 				<ul className="list-square">
 			
-					<li>They planned to [create a new software].</li>
-					<li className="margin-bottom-20 list-none">Họ đã lên kế hoạch [tạo ra một phần mềm mới].</li>
+					<li>They planned [to create new software].</li>
+					<li className="margin-bottom-20 list-none">Họ đã lên kế hoạch [tạo ra phần mềm mới]..</li>
 			
-					<li className="list-none">Hình thái: [create a new software] - Động Cụm [Verb Phrase] cấu thành từ khối gồm nhiều từ kết hợp, bắt đầu bằng Động Cơ "create" ở dạng nguyên bản có "to".</li>
+					<li className="list-none">Hình thái: [to create new software] - Động Cụm [Verb Phrase] cấu thành từ khối gồm nhiều từ kết hợp, bắt đầu bằng Động Cơ "create" ở dạng nguyên bản có "to".</li>
 			
-					<li className="list-none">Chức năng: [create a new software] - Danh Cụm [Noun Phrase] làm khối Danh Nhận mục tiêu cần thực hiện, đứng sau chịu sự điều phối của Thời-Thực Động Cơ "planned".</li>
+					<li className="list-none">Chức năng: [to create new software] - Danh Cụm [Noun Phrase] làm khối Danh Nhận mục tiêu cần thực hiện, đứng sau chịu sự điều phối của Thời-Thực Động Cơ "planned".</li>
 			
 				</ul>
 			
@@ -617,7 +617,7 @@ export default function ThreeDC1(): React.ReactElement {
 
 			<h3 className="margin-y-50 text-center">VI. TUYỆT CHIÊU PHÂN BIỆT ĐỘNG CÂU THẦN TỐC BẰNG MẸO THẾ THÂN</h3>
 
-			<p>Khi gặp các từ liên kết đa năng như <strong>that</strong>, <strong>when</strong>, <strong>where</strong>, người học chỉ biết hình thái của nó là một Động Câu [Verb Clause] chứ rất khó phân biệt nó đang làm chức năng gì.</p>
+			<p>Khi gặp các từ liên kết đa năng như <strong>that</strong>, <strong>when</strong>, <strong>where</strong>, người học chỉ biết hình thái của nó là một Động Câu [Verb Clause] chứ <strong>rất khó phân biệt nó đang làm chức năng</strong> gì.</p>
 
 			<p>Hãy áp dụng ngay phương pháp "<strong>Thế thân</strong>" (<strong>Substitution</strong>) dựa trên việc thay thế bằng một khối mức độ Cơ cơ bản:</p>
 			
