@@ -115,7 +115,7 @@ export default function Respond(): React.JSX.Element {
 
       <p className="text-indent-whole">Khi nhìn vào một từ đơn hành động, người học nhận diện diện mạo vật lý của nó là Động Cơ [Verb Base].</p>
 
-      <p className="margin-top-20 text-indent-whole">Khi đặt vào sơ đồ vận hành, chính hình thái Động Cơ này sẽ hình thành nên các loại chức năng độc lập:</p>
+      <p className="text-indent-whole">Khi đặt vào sơ đồ vận hành, chính hình thái Động Cơ này sẽ hình thành nên các loại chức năng độc lập:</p>
 
           
       <p className="margin-top-20 text-indent-whole"><strong>Hình thành chức năng Danh Cơ</strong> [<strong>Noun Base</strong>]</p>

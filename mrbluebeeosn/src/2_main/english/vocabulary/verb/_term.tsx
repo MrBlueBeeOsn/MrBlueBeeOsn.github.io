@@ -115,7 +115,7 @@ export default function (): React.JSX.Element {
 
       <p className="text-indent-whole"></p>
 
-      <p className="margin-top-20 text-indent-whole"></p>
+      <p className="text-indent-whole"></p>
 
           
       <p className="margin-top-20 text-indent-whole"><strong>Hình thành chức năng Danh Cơ</strong> [<strong>Noun Base</strong>]</p>
