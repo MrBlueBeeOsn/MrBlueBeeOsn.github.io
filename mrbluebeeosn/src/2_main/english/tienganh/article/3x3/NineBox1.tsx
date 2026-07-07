@@ -54,7 +54,7 @@ export default function NineBox1(): React.JSX.Element {
 
 			<p>Thực tế, ngôn ngữ không phải là một tập hợp các quy tắc ngẫu nhiên. Nó là một bộ mã được vận hành bởi logic. Để làm chủ tiếng Anh mà không bị rối bời, chúng ta chuyển đổi hoàn toàn sang <strong>Tư duy Chức năng</strong>.</p>
 			
-			<p>Hệ thống Kiến trúc <strong>Tư duy 3x3</strong> phối hợp cùng bộ quy ước song song dưới đây giúp bạn đóng gói và xử lý tiếng Anh chính xác như cách máy tính xử lý các kiểu dữ liệu.</p>
+			<p>Hệ thống <strong>Kiến trúc Tư duy 3x3</strong> phối hợp cùng bộ quy ước song song dưới đây giúp bạn đóng gói và xử lý tiếng Anh chính xác như cách máy tính xử lý các kiểu dữ liệu.</p>
 			
 
 			{/* 1.  */}
@@ -66,11 +66,11 @@ export default function NineBox1(): React.JSX.Element {
 				<ul className="list-square">
 			
 					<li><strong>Chiều Ngang</strong> — <strong>Chức năng</strong> (<strong>Vai trò</strong>):</li>
-					<li className="list-none">Trả lời câu hỏi "Thành phần này làm nhiệm vụ gì?"</li>
+					<li className="list-none">Trả lời câu hỏi "<strong>Thành phần này làm nhiệm vụ gì</strong>?"</li>
 					<li className="margin-bottom-20 list-none">→ <strong>Danh</strong> / <strong>Tính</strong> / <strong>Trạng</strong>.</li>
 			
 					<li><strong>Chiều Dọc</strong> — <strong>Cấp độ</strong> (<strong>Quy mô</strong>):</li>
-					<li className="list-none">Trả lời câu hỏi "Độ phức tạp và cấu trúc quy mô ra sao?"</li>
+					<li className="list-none">Trả lời câu hỏi "<strong>Độ phức tạp và cấu trúc quy mô ra sao</strong>?"</li>
 					<li className="list-none">→ Quy tắc 3 chữ C: <strong>Base</strong> [<strong>Cơ</strong>] → <strong>Phrase</strong> [<strong>Cụm</strong>] → <strong>Clause</strong> [<strong>Câu</strong>].</li>
 			
 				</ul>
@@ -81,7 +81,7 @@ export default function NineBox1(): React.JSX.Element {
 
 			{/* 2.  */}
 
-			<h3 className="margin-y-50 text-center">2. Bản Bản Chất Của Vận Hành: Hình Thái Đi Trước, Chức Năng Theo Sau</h3>
+			<h3 className="margin-y-50 text-center">2. Bản Chất Của Vận Hành: Hình Thái Đi Trước, Chức Năng Theo Sau</h3>
 
 			<p>Điểm mấu chốt của hệ thống tư duy logic này nằm ở việc tách biệt giữa <strong>Hình thái</strong> [Bề ngoài nhìn thấy] và <strong>Chức năng</strong> [Nhiệm vụ thực tế sau khi đặt vào vị trí câu].</p>
 
@@ -91,6 +91,8 @@ export default function NineBox1(): React.JSX.Element {
 			<h4 className="margin-y-40">2.1. Nhóm Hình Thái Hệ Động</h4>
 					
 			<p className="text-indent-whole">Hệ thống ghi nhận hành động ở các cấp độ quy mô: <strong>Động Cơ</strong> [Verb Base], <strong>Động Cụm</strong> [Verb Phrase], hoặc <strong>Động Câu</strong> [Verb Clause]. Chỉ khi đặt các khối này vào vị trí cụ thể trong câu lớn, <strong>Chức năng</strong> [Danh / Tính / Trạng] tương ứng mới được kích hoạt.</p>
+
+			<p className="margin-top-20 text-indent-whole">Để quản lý logic vận hành một cách nghiêm ngặt, hệ thống phân rã cấu trúc hệ động thành 6 loại kế thừa và thực thi nhiệm vụ chuyên biệt:</p>
 			
 				<ol>
 			
@@ -195,12 +197,12 @@ export default function NineBox1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>We choose to [optimize the application interface].</li>
+					<li>We choose [to optimize the application interface].</li>
 					<li className="margin-bottom-20 list-none">Chúng tôi chọn [tối ưu hóa giao diện ứng dụng].</li>
 			
-					<li className="list-none">Hình thái: [optimize the application interface] - Động Cụm [Verb Phrase] biểu thị một tập hợp các từ xoay quanh Động Cơ [Verb Base] nguyên bản optimize.</li>
+					<li className="list-none">Hình thái: [to optimize the application interface] - Động Cụm [Verb Phrase] biểu thị một tập hợp các từ xoay quanh Động Cơ [Verb Base] nguyên bản optimize.</li>
 			
-					<li className="list-none">Chức năng: [optimize the application interface] - Danh Cụm [Noun Phrase] đóng vai trò làm một khối Danh Nhận đứng sau mục tiêu.</li>
+					<li className="list-none">Chức năng: [to optimize the application interface] - Danh Cụm [Noun Phrase] đóng vai trò làm một khối Danh Nhận đứng sau mục tiêu.</li>
 			
 				</ul>
 			
