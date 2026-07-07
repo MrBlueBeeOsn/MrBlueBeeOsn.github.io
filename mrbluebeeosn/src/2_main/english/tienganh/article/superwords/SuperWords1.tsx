@@ -482,7 +482,7 @@ export default function SuperWords1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>They delayed the project [owing to the team experiencing technical difficulties]..</li>
+					<li>They delayed the project [owing to the team experiencing technical difficulties].</li>
 					<li className="margin-bottom-20 list-none">Họ đã hoãn dự án [do đội ngũ gặp phải những khó khăn kỹ thuật].</li>
 			
 					<li className="list-none">Hình thái: [owing to the team experiencing technical difficulties] - Động Cụm [Verb Phrase] thể hiện một khối hành động chứa Thực Động Cơ dạng tinh chỉnh experiencing phối hợp bọc lót thông tin.</li>
