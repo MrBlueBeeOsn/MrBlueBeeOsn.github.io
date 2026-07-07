@@ -147,16 +147,16 @@ export default function SV1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>Liên Cơ [Connector Base]:</li>
+					<li><strong>Liên Cơ</strong> [<strong>Connector Base</strong>]:</li>
 					<li className="margin-bottom-20 list-none">Đơn vị từ nối giữ vai trò thiết lập quan hệ phụ thuộc hoặc liên kết giữa các thành phần cấu trúc.</li>
 
-					<li>Động Cụm [Verb Phrase]:</li>
+					<li><strong>Động Cụm</strong> [<strong>Verb Phrase</strong>]:</li>
 					<li className="margin-bottom-20 list-none">Khối hành động chứa nhiều yếu tố kết hợp, không chứa hệ trục S + V. Hình thái này sẽ đi làm các chức năng: Danh Cụm [Noun Phrase], Tính Cụm [Adjective Phrase], hoặc Trạng Cụm [Adverb Phrase].</li>
 			
-					<li>Giới Cụm [Prepositional Phrase]:</li>
+					<li><strong>Giới Cụm</strong> [<strong>Prepositional Phrase</strong>]:</li>
 					<li className="margin-bottom-20 list-none">Khối liên kết vị trí, không gian, thời gian không chứa xung lực hành động, không chứa hệ trục S + V. Hình thái này sẽ đi làm các chức năng đặc thù: Tính Cụm [Adjective Phrase] hoặc Trạng Cụm [Adverb Phrase].</li>
 			
-					<li>Động Câu [Verb Clause]:</li>
+					<li><strong>Động Câu</strong> [<strong>Verb Clause</strong>]:</li>
 					<li className="list-none">Khối hành động chứa một cấu trúc Câu con hoàn chỉnh, có chứa hệ trục S + V. Hình thái này sẽ đi làm các chức năng: Danh Câu [Noun Clause], Tính Câu [Adjective Clause], hoặc Trạng Câu [Adverb Clause].</li>
 			
 				</ul>
@@ -396,7 +396,7 @@ export default function SV1(): React.JSX.Element {
 
 					<li className="margin-bottom-20 list-none">Chức năng lớp trong cùng &lt; &gt;: &lt;to the room&gt; đóng vai trò là một <strong>Tính Cụm</strong> [<strong>Adjective Phrase</strong>] neo ngay sau Danh Cơ key để bổ nghĩa và định danh trực tiếp cho chiếc chìa khóa đó.</li>
 
-					<li className="list-none">Hình thái lớp trung gian {'{}'}: {'{the key <to the room>}'} tạo thành một Danh Cụm [Noun Phrase] hoàn chỉnh (gồm danh từ lõi và phần tính cụm bổ nghĩa đi kèm).</li>
+					<li className="list-none">Hình thái lớp trung gian {'{}'}: {'{the key <to the room>}'} tạo thành một <strong>Danh Cụm</strong> [<strong>Noun Phrase</strong>] hoàn chỉnh (gồm danh từ lõi và phần tính cụm bổ nghĩa đi kèm).</li>
 
 					<li className="margin-bottom-20 list-none">Chức năng lớp trung gian {'{}'}: {'{the key <to the room>}'} đóng vai trò là một <strong>Danh Cụm</strong> [<strong>Noun Phrase</strong>] làm điểm tựa danh nhận chịu sự điều phối trực tiếp của hành động Finding.</li>
 
