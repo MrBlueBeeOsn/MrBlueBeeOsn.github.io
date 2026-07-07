@@ -88,19 +88,19 @@ export default function Clear(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>is clearing $\rightarrow$ Thời Động Cơ is + Thực Động Cơ clearing</li>
+          <li>is clearing → Thời Động Cơ is + Thực Động Cơ clearing</li>
 
-          <li>was clearing $\rightarrow$ Thời Động Cơ was + Thực Động Cơ clearing</li>
+          <li>was clearing → Thời Động Cơ was + Thực Động Cơ clearing</li>
       
-          <li>has cleared $\rightarrow$ Thời Động Cơ has + Thực Động Cơ cleared</li>
+          <li>has cleared → Thời Động Cơ has + Thực Động Cơ cleared</li>
       
-          <li>had been clearing $\rightarrow$ Thời Động Cơ Phức had been + Thực Động Cơ clearing</li>
+          <li>had been clearing → Thời Động Cơ Phức had been + Thực Động Cơ clearing</li>
 
-          <li>has been clearing $\rightarrow$ Thời Động Cơ Phức has been + Thực Động Cơ clearing</li>
+          <li>has been clearing → Thời Động Cơ Phức has been + Thực Động Cơ clearing</li>
       
-          <li>cleared (Quá khứ đơn) $\rightarrow$ Thời-Thực Động Cơ (Một đơn vị tích hợp cả hai)</li>
+          <li>cleared (Quá khứ đơn) → Thời-Thực Động Cơ (Một đơn vị tích hợp cả hai)</li>
       
-          <li>should avoid $\rightarrow$ Thái Động Cơ should + Động Cơ avoid</li>
+          <li>should avoid → Thái Động Cơ should + Động Cơ avoid</li>
       
         </ul>
       
