@@ -407,7 +407,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 					<li className="margin-y-20 list-none"><strong>Tính Cụm</strong> [<strong>Adjective Phrase</strong>] <strong>rút gọn</strong>:</li>
 
 					<li>The rocket is [to launch tomorrow].</li>
-					<li className="list-none">Tên lửa [sắp phòng ngày mai].</li>
+					<li className="list-none">Tên lửa [sắp phóng ngày mai].</li>
 			
 				</ul>
 			
@@ -612,49 +612,26 @@ export default function LegoAssembly1(): React.JSX.Element {
 			<p>Khi đã coi câu là các khối Lego, việc chuyển sang phủ định hay câu hỏi trở nên cực kỳ trực quan. Bạn không cần nhớ công thức mới, chỉ cần dịch chuyển Khối Nguồn (Head).</p>
 
 
-			<h4 className="margin-y-40">Luật Phủ định: Chốt chặn "NOT" sau Head</h4>
-					
-			<p className="margin-top-20 text-indent-whole">Bạn chỉ việc nhét <strong>khối NOT</strong> vào ngay sau Bộ nguồn (Head). <strong>Khối not</strong> này sẽ thuộc về vùng quản lý của phần Dependent phía sau.</p>
-
-
-			<p className="margin-top-20 text-indent-whole"><strong>Khẳng định</strong>:</p>
+			<h5 className="margin-y-30">Luật Phủ định: Chốt chặn "NOT" sau Head</h5>
+			
+			<p className="text-indent-whole">Bạn chỉ việc nhét <strong>khối NOT</strong> vào ngay sau Bộ nguồn (Head). <strong>Khối not</strong> này sẽ thuộc về vùng quản lý của phần Dependent phía sau.</p>
 			
 				<ul className="list-square">
 			
-					<li>He <strong>will</strong> [build the house].</li>
-					<li className="list-none">Anh ấy <strong>sẽ</strong> [xây ngôi nhà].</li>
-			
-				</ul>
-
-			<p className="margin-top-20 text-indent-whole"><strong>Phủ định</strong>:</p>
-			
-				<ul className="list-square">
-			
-					<li>He will [<strong>NOT</strong> build the house].</li>
-					<li className="list-none">Anh ấy sẽ [<strong>không</strong> xây ngôi nhà].</li>
+					<li><strong>Khẳng định</strong>: He <strong>will</strong> [build the house].</li>
+					<li><strong>Phủ định</strong>: He will [<strong>NOT</strong> build the house].</li>
 			
 				</ul>
 
 
-			<h4 className="margin-y-40">Luật Nghi vấn: Nhấc Head lên đầu câu lớn</h4>
+			<h5 className="margin-y-30">Luật Nghi vấn: Nhấc Head lên đầu câu lớn</h5>
 
 			<p className="text-indent-whole">Nhấc toàn bộ khối nguồn (Head) đặt ra trước Danh Chủ.</p>
-
-			<p className="margin-top-20 text-indent-whole"><strong>Khẳng định</strong>:</p>
 			
 				<ul className="list-square">
 			
-					<li>You <strong>are</strong> [driving the truck].</li>
-					<li className="list-none">Bạn <strong>đang</strong> [lái xe tải].</li>
-			
-				</ul>
-
-			<p className="margin-top-20 text-indent-whole"><strong>Nghi vấn</strong>:</p>
-			
-				<ul className="list-square">
-			
-					<li><strong>Are</strong> you [driving the truck]?</li>
-					<li className="list-none"><strong>Phải</strong> bạn [đang lái xe tải]?</li>
+					<li><strong>Khẳng định</strong>: You <strong>are</strong> [driving the truck].</li>
+					<li><strong>Nghi vấn</strong>: <strong>Are</strong> you [driving the truck]?</li>
 			
 				</ul>
 			
