@@ -58,14 +58,14 @@ export default function NestedStructure1(): React.JSX.Element {
 
 			<p>Đã đến lúc dọn dẹp toàn bộ mớ hỗn độn đó.</p>
 
-			<p>Hôm nay, hãy cùng bước vào một phòng thí nghiệm ngôn ngữ hoàn toàn mới — nơi tiếng Anh được chuẩn hóa theo <strong>Tư duy lập trình hệ thống</strong>. Chúng ta loại bỏ hoàn toàn các định nghĩa cũ để làm quen với hệ điều hành tối giản nhưng quyền lực bằng sức mạnh của <strong>Thiết kế phân tầng</strong> [<strong>Nested Structure</strong>] và Khả năng xử lý đệ quy.</p>
+			<p>Hôm nay, hãy cùng bước vào một phòng thí nghiệm ngôn ngữ hoàn toàn mới — nơi tiếng Anh được chuẩn hóa theo <strong>Tư duy lập trình hệ thống</strong>. Chúng ta loại bỏ hoàn toàn các định nghĩa cũ để làm quen với hệ điều hành tối giản nhưng quyền lực bằng sức mạnh của <strong>Thiết kế phân tầng</strong> [<strong>Nested Structure</strong>] và <strong>Khả năng xử lý đệ quy</strong>.</p>
 			
 
 			{/* 1.  */}
 
 			<h3 className="margin-y-50 text-center">1. Bản Thiết Kế Kiến Trúc Nhất Quán Song Trục</h3>
 
-			<p>Sai lầm lớn nhất khi học tiếng Anh là đánh đồng <strong>Hình thái</strong> (Diện mạo khối mã trông như thế nào) với <strong>Chức năng</strong> (Khối mã đó dùng để làm gì).</p>
+			<p>Sai lầm lớn nhất khi học tiếng Anh là đánh đồng <strong>Hình thái</strong> (<strong>Diện mạo khối mã trông như thế nào</strong>) với <strong>Chức năng</strong> (<strong>Khối mã đó dùng để làm gì</strong>).</p>
 
 			<p>Người học thông thường chỉ nhìn thấy Hình thái (hạt nhân Động Cơ, Giới Cơ hoặc các vùng mở rộng) mà không hề biết Chức năng của nó cho đến khi đặt vào hệ thống vận hành.</p>
 
@@ -81,7 +81,7 @@ export default function NestedStructure1(): React.JSX.Element {
 			
 				</ul>
 
-			<p className="margin-top-20">Bản chất của các khối mã trong câu sẽ bắt nguồn từ các gốc <strong>Hình thái</strong> different (Động Cơ hoặc Giới Cơ) để hình thành và kích hoạt các chức năng này.</p>
+			<p className="margin-top-20">Bản chất của các khối mã trong câu sẽ bắt nguồn từ các gốc <strong>Hình thái</strong> khác nhau (Động Cơ hoặc Giới Cơ) để hình thành và kích hoạt các chức năng này.</p>
 
 			<p>Khi nhìn vào một câu, người học luôn nhận diện Hình thái hiển thị (Hardware) trước, sau đó xác định Cấp độ (Level) để giải mã chính xác Chức năng đầu ra (Software) của nó.</p>
 
@@ -95,7 +95,9 @@ export default function NestedStructure1(): React.JSX.Element {
 
 			<h4 className="margin-y-40">Phân Loại Động Cơ: 6 Lớp Xử Lý Dữ Liệu Hành Động</h4>
 					
-			<p className="margin-top-20 text-indent-whole">Mọi hành động xuất phát từ gốc Động Cơ sẽ được phân rã thành các phân nhánh kỹ thuật chuyên biệt để cấu hình nội bộ (configuration) cho module. Hệ thống được chia tách rõ ràng thành 6 loại hình thái:</p>
+			<p className="text-indent-whole">Mọi hành động xuất phát từ gốc Động Cơ sẽ được phân rã thành các phân nhánh kỹ thuật chuyên biệt để cấu hình nội bộ (configuration) cho module.</p>
+
+			<p className="margin-top-20 text-indent-whole">Hệ thống được chia tách rõ ràng thành 6 loại hình thái:</p>
 			
 				<ol>
 			
@@ -134,7 +136,7 @@ export default function NestedStructure1(): React.JSX.Element {
 
 					<li>has been writing → Thời Động Cơ Phức "has been" + Thực Động Cơ "writing"</li>
 			
-					<li>ran → Thời-Thực Động Cơ (một đơn vị nén tích hợp cả hai)	</li>
+					<li>ran → Thời-Thực Động Cơ (một đơn vị nén tích hợp cả hai)</li>
 
 					<li>must write → Thái Động Cơ "must" + Động Cơ "write"</li>
 			
@@ -153,7 +155,7 @@ export default function NestedStructure1(): React.JSX.Element {
 					<li className="margin-bottom-20 list-none">Bao trùm toàn bộ hành động hoặc giới hạn toàn bộ vùng mã định vị lớn bên ngoài. Toàn bộ khối lớn này hoạt động như một <strong>Hàm</strong> (<strong>Function</strong>).</li>
 			
 					<li><strong>Tầng 2</strong> (<strong>Cấp thành phần</strong> - {'{...}'}):</li>
-					<li className="margin-bottom-20 list-none">Nằm bên trong Tầng 1, đóng vai trò là một Tham số (Argument) truyền vào cho hàm hoặc bổ nghĩa cho hạt nhân.</li>
+					<li className="margin-bottom-20 list-none">Nằm bên trong Tầng 1, đóng vai trò là một <strong>Tham số</strong> (<strong>Argument</strong>) truyền vào cho hàm hoặc bổ nghĩa cho hạt nhân.</li>
 			
 				</ul>
 
@@ -587,7 +589,7 @@ export default function NestedStructure1(): React.JSX.Element {
 			
 					<li className="list-none">Hình thái mới: [German-built] - Động Cơ [Verb Base] (đóng vai trò Tính Cơ) thu gọn dưới dạng khối hành động phức tạp đã được cô đọng hoàn toàn về dạng một từ đơn duy nhất thuộc nhóm chức năng mô tả.</li>
 			
-					<li className="list-none">Chức năng mới: [German-built] - Tính Cơ [Adjective Base] thiết lập vị trí ngay trước đối tượng car để quét và hiển thị ngắn gọn đặc điểm của đối tượng đó.</li>
+					<li className="list-none">Chức năng mới: [German-built] - Tính Cơ [Adjective Base] thiết lập vị trí ngay trước đối tượng car to quét và hiển thị ngắn gọn đặc điểm của đối tượng đó.</li>
 			
 				</ul>
 			
