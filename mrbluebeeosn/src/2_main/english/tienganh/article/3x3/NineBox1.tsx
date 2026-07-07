@@ -334,7 +334,7 @@ export default function NineBox1(): React.JSX.Element {
 
 			<h4 className="margin-y-40">2.2. Nhóm Hình Thái KHÔNG Thuộc Hệ Động</h4>
 					
-			<p className="text-indent-whole">Bên cạnh hệ động, cấu trúc ngôn ngữ còn được vận hành bởi các khối liên kết không xuất phát từ gốc hành động, tiêu biểu là Giới Cụm [Prepositional Phrase].</p>
+			<p className="text-indent-whole">Bên cạnh hệ động, cấu trúc ngôn ngữ còn được vận hành bởi các khối liên kết không xuất phát từ gốc hành động, tiêu biểu là <strong>Giới Cụm</strong> [Prepositional Phrase].</p>
 
 			<p className="text-indent-whole">Khối này được nhận diện trực tiếp bằng mắt thông qua từ khóa dẫn đường (Giới Cơ [Preposition Base]) đứng đầu, phối hợp cùng một khối danh mục mục tiêu làm Danh Nhận phía sau. Khi đưa vào vận hành, khối này chỉ đảm nhận việc kích hoạt thuộc tính hoặc bối cảnh.</p>
 
@@ -390,7 +390,7 @@ export default function NineBox1(): React.JSX.Element {
 
 					<li className="margin-bottom-20 list-none">Hình thái: Khối tổng thể [To understand {'{how the database handles the workload}'}] đóng vai trò một Động Cụm [Verb Phrase] tầng ngoài. Bên trong bao gói {'{how the database handles the workload}'} đại diện một Động Câu [Verb Clause] tầng trong.</li>
 			
-					<li className="list-none">Chức năng: Khối {'{how the database handles the workload}'} bên trong đóng vai trò làm Danh Câu [Noun Clause] [làm Danh Nhận] chịu sự điều phối hành động trực tiếp từ Động Cơ [Verb Base] nguyên bản understand, và toàn bộ khối tổng thể [To understand {'{how the database handles the workload}'}] vận hành với chức năng Danh Cụm [Noun Phrase] đóng vai trò làm Danh Chủ chịu trách nhiệm thực thi câu lớn.</li>
+					<li className="list-none">Chức năng: Khối {'{how the database handles the workload}'} bên trong đóng vai trò làm Danh Câu [Noun Clause] [làm Danh Nhận] chịu sự điều phối hành động trực tiếp từ Động Cơ [Verb Base] nguyên bản understand, và toàn bộ khối tổng thể [To understand {'{how the database handles the workload}'}] vận hành với chức năng <strong>Danh Cụm</strong> [<strong>Noun Phrase</strong>] đóng vai trò làm Danh Chủ chịu trách nhiệm thực thi câu lớn.</li>
 			
 				</ul>
 			
@@ -405,7 +405,7 @@ export default function NineBox1(): React.JSX.Element {
 
 					<li className="margin-bottom-20 list-none">Hình thái: Khối tổng thể [for {'{what the team deployed yesterday}'}] đóng vai trò một Giới Cụm [Prepositional Phrase] tầng ngoài. Bên trong bao gói {'{what the team deployed yesterday}'} đại diện một Động Câu [Verb Clause] tầng trong.</li>
 			
-					<li className="list-none">Chức năng: Khối {'{what the team deployed yesterday}'} bên trong đóng vai trò làm Danh Câu [Noun Clause] [làm Danh Nhận] chịu sự điều phối trực tiếp từ Giới Cơ đứng trước, và toàn bộ khối tổng thể [for {'{what the team deployed yesterday}'}] vận hành with chức năng <strong>Tính Cụm</strong> [<strong>Adjective Phrase</strong>] nhằm mô tả thuộc tính định danh cho khối Danh Cụm [Noun Phrase] "The source code" phía trước.</li>
+					<li className="list-none">Chức năng: Khối {'{what the team deployed yesterday}'} bên trong đóng vai trò làm Danh Câu [Noun Clause] [làm Danh Nhận] chịu sự điều phối trực tiếp từ Giới Cơ đứng trước, và toàn bộ khối tổng thể [for {'{what the team deployed yesterday}'}] vận hành với chức năng <strong>Tính Cụm</strong> [<strong>Adjective Phrase</strong>] nhằm mô tả thuộc tính định danh cho khối Danh Cụm [Noun Phrase] "The source code" phía trước.</li>
 			
 				</ul>
 			
