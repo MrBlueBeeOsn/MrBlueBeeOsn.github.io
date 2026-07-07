@@ -84,7 +84,7 @@ export default function Respond(): React.JSX.Element {
         </ol>
     
 
-      <p className="margin-top-20">Sơ đồ phối hợp mã mã nguồn [Respond]:</p>
+      <p className="margin-top-20"><strong>Sơ đồ phối hợp mã mã nguồn</strong> [<strong>Respond</strong>]:</p>
       
         <ul className="list-square">
       
@@ -528,23 +528,23 @@ export default function Respond(): React.JSX.Element {
       
         </ul>
 
-      <p className="margin-top-20 text-indent-whole">Tầng 1 (Cấp tổng thể - [...]):</p>
+      <p className="margin-top-20 text-indent-whole"><strong>Tầng 1</strong> (<strong>Cấp tổng thể</strong> - [...]):</p>
       
         <ul className="list-square">
       
-          <li>Hình thái: [Discussing {'{how the system responds}'}] - Động Cụm [Verb Phrase] biểu thị dưới dạng một vùng mã mở rộng lớn bắt đầu bằng Thực Động Cơ [Action Verb Base] dạng đuôi "-ing" và kéo theo thành phần bổ trợ phía sau.</li>
+          <li className="list-none">Hình thái: [Discussing {'{how the system responds}'}] - Động Cụm [Verb Phrase] biểu thị dưới dạng một vùng mã mở rộng lớn bắt đầu bằng Thực Động Cơ [Action Verb Base] dạng đuôi "-ing" và kéo theo thành phần bổ trợ phía sau.</li>
       
-          <li>Chức năng: [Discussing {'{how the system responds}'}] - <strong>Danh Cụm</strong> [<strong>Noun Phrase</strong>] chịu trách nhiệm làm một vùng đầu việc lớn cần thực hiện, đảm nhận vai trò làm Danh Chủ [Subject] để thiết lập nền tảng thông tin đứng đầu toàn câu trước Thời Động Cơ "is".</li>
+          <li className="list-none">Chức năng: [Discussing {'{how the system responds}'}] - <strong>Danh Cụm</strong> [<strong>Noun Phrase</strong>] chịu trách nhiệm làm một vùng đầu việc lớn cần thực hiện, đảm nhận vai trò làm Danh Chủ [Subject] để thiết lập nền tảng thông tin đứng đầu toàn câu trước Thời Động Cơ "is".</li>
       
         </ul>
 
-      <p className="margin-top-20 text-indent-whole">Tầng 2 (Cấp thành phần - {'{...}'}):</p>
+      <p className="margin-top-20 text-indent-whole"><strong>Tầng 2</strong> (<strong>Cấp thành phần</strong> - {'{...}'}):</p>
       
         <ul className="list-square">
       
-          <li>Hình thái: {'{how the system responds}'} - Động Câu [Verb Clause] định hình dưới dạng một khối mã con nằm gọn hoàn toàn bên trong vùng mã tổng thể, chứa đầy đủ Danh Chủ [Subject] riêng "the system" và Thời-Thực Động Cơ [Tense-Action Verb Base] riêng "responds" thiết lập theo trục thời hiện tại.</li>
+          <li className="list-none">Hình thái: {'{how the system responds}'} - Động Câu [Verb Clause] định hình dưới dạng một khối mã con nằm gọn hoàn toàn bên trong vùng mã tổng thể, chứa đầy đủ Danh Chủ [Subject] riêng "the system" và Thời-Thực Động Cơ [Tense-Action Verb Base] riêng "responds" thiết lập theo trục thời hiện tại.</li>
       
-          <li>Chức năng: {'{how the system responds}'} - Danh Câu [Noun Clause] đóng vai trò làm Danh Nhận [Object] chịu sự điều phối trực tiếp từ hạt nhân hành động "Discussing" ở tầng ngoài, tích hợp chuỗi thông tin tiếp nhận hành động để làm rõ nội dung cho việc thảo luận.</li>
+          <li className="list-none">Chức năng: {'{how the system responds}'} - Danh Câu [Noun Clause] đóng vai trò làm Danh Nhận [Object] chịu sự điều phối trực tiếp từ hạt nhân hành động "Discussing" ở tầng ngoài, tích hợp chuỗi thông tin tiếp nhận hành động để làm rõ nội dung cho việc thảo luận.</li>
       
         </ul>
 
@@ -560,23 +560,23 @@ export default function Respond(): React.JSX.Element {
       
         </ul>
 
-      <p className="margin-top-20 text-indent-whole">Tầng 1 (Cấp tổng thể - [...]):</p>
+      <p className="margin-top-20 text-indent-whole"><strong>Tầng 1</strong> (<strong>Cấp tổng thể</strong> - [...]):</p>
       
         <ul className="list-square">
       
-          <li>Hình thái: [about {'{how the machine responds}'}] - Giới Cụm [Prepositional Phrase] biểu thị dưới dạng một vùng mã lớn bắt đầu bằng Giới Cơ "about".</li>
+          <li className="list-none">Hình thái: [about {'{how the machine responds}'}] - Giới Cụm [Prepositional Phrase] biểu thị dưới dạng một vùng mã lớn bắt đầu bằng Giới Cơ "about".</li>
       
-          <li>Chức năng: [about {'{how the machine responds}'}] - <strong>Tính Cụm</strong> [<strong>Adjective Phrase</strong>] vận hành như một bộ lọc tổng thể đặt ngay phía sau để mô tả đặc điểm nội dung cho Danh Cụm "The report" đứng trước nó.</li>
+          <li className="list-none">Chức năng: [about {'{how the machine responds}'}] - <strong>Tính Cụm</strong> [<strong>Adjective Phrase</strong>] vận hành như một bộ lọc tổng thể đặt ngay phía sau để mô tả đặc điểm nội dung cho Danh Cụm "The report" đứng trước nó.</li>
       
         </ul>
 
-      <p className="margin-top-20 text-indent-whole">Tầng 2 (Cấp thành phần - {'{...}'}):</p>
+      <p className="margin-top-20 text-indent-whole"><strong>Tầng 2</strong> (<strong>Cấp thành phần</strong> - {'{...}'}):</p>
       
         <ul className="list-square">
       
-          <li>Hình thái: {'{how the machine responds}'} - Động Câu [Verb Clause] định hình dưới dạng khối mã con nằm gọn bên trong, chứa Danh Chủ [Subject] "the machine" và Thời-Thực Động Cơ [Tense-Action Verb Base] "responds" thiết lập theo trục thời hiện tại.</li>
+          <li className="list-none">Hình thái: {'{how the machine responds}'} - Động Câu [Verb Clause] định hình dưới dạng khối mã con nằm gọn bên trong, chứa Danh Chủ [Subject] "the machine" và Thời-Thực Động Cơ [Tense-Action Verb Base] "responds" thiết lập theo trục thời hiện tại.</li>
       
-          <li>Chức năng: {'{how the machine responds}'} - Danh Câu [Noun Clause] đóng vai trò làm Danh Nhận [Object] chịu sự điều phối trực tiếp của Giới Cơ "about" ở tầng ngoài.</li>
+          <li className="list-none">Chức năng: {'{how the machine responds}'} - Danh Câu [Noun Clause] đóng vai trò làm Danh Nhận [Object] chịu sự điều phối trực tiếp của Giới Cơ "about" ở tầng ngoài.</li>
       
         </ul>
 
@@ -593,23 +593,23 @@ export default function Respond(): React.JSX.Element {
       
         </ul>
 
-      <p className="margin-top-20 text-indent-whole">Tầng 1 (Cấp tổng thể - [...]):</p>
+      <p className="margin-top-20 text-indent-whole"><strong>Tầng 1</strong> (<strong>Cấp tổng thể</strong> - [...]):</p>
       
         <ul className="list-square">
       
-          <li>Hình thái: [at {'{where he responded}'}] - Giới Cụm [Prepositional Phrase] biểu thị dưới dạng một vùng mã xác lập không gian lớn bắt đầu bằng Giới Cơ "at".</li>
+          <li className="list-none">Hình thái: [at {'{where he responded}'}] - Giới Cụm [Prepositional Phrase] biểu thị dưới dạng một vùng mã xác lập không gian lớn bắt đầu bằng Giới Cơ "at".</li>
       
-          <li>Chức năng: [at {'{where he responded}'}] - <strong>Trạng Cụm</strong> [<strong>Adverb Phrase</strong>] đảm nhận vai trò làm một khối bối cảnh địa điểm tổng thể đứng sau bổ nghĩa cho hành động "looked directly".</li>
+          <li className="list-none">Chức năng: [at {'{where he responded}'}] - <strong>Trạng Cụm</strong> [<strong>Adverb Phrase</strong>] đảm nhận vai trò làm một khối bối cảnh địa điểm tổng thể đứng sau bổ nghĩa cho hành động "looked directly".</li>
       
         </ul>
 
-      <p className="margin-top-20 text-indent-whole">Tầng 2 (Cấp thành phần - {'{...}'}):</p>
+      <p className="margin-top-20 text-indent-whole"><strong>Tầng 2</strong> (<strong>Cấp thành phần</strong> - {'{...}'}):</p>
       
         <ul className="list-square">
       
-          <li>Hình thái: {'{where he responded}'} - Động Câu [Verb Clause] định hình dưới dạng khối mã con nằm gọn bên trong, chứa Danh Chủ [Subject] riêng "he" và Thời-Thực Động Cơ [Tense-Action Verb Base] riêng "responded" thuộc trục thời quá khứ.</li>
+          <li className="list-none">Hình thái: {'{where he responded}'} - Động Câu [Verb Clause] định hình dưới dạng khối mã con nằm gọn bên trong, chứa Danh Chủ [Subject] riêng "he" và Thời-Thực Động Cơ [Tense-Action Verb Base] riêng "responded" thuộc trục thời quá khứ.</li>
       
-          <li>Chức năng: {'{where he responded}'} - Danh Câu [Noun Clause] đóng vai trò làm Danh Nhận [Object] chịu sự điều phối trực tiếp của Giới Cơ "at" ở tầng ngoài.</li>
+          <li className="list-none">Chức năng: {'{where he responded}'} - Danh Câu [Noun Clause] đóng vai trò làm Danh Nhận [Object] chịu sự điều phối trực tiếp của Giới Cơ "at" ở tầng ngoài.</li>
       
         </ul>
       

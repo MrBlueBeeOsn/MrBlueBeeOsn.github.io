@@ -84,7 +84,7 @@ export default function (): React.JSX.Element {
         </ol>
     
 
-      <p className="margin-top-20">Sơ đồ phối hợp mã mã nguồn []:</p>
+      <p className="margin-top-20"><strong>Sơ đồ phối hợp mã mã nguồn</strong> [<strong></strong>]:</p>
       
         <ul className="list-square">
       
@@ -528,23 +528,23 @@ export default function (): React.JSX.Element {
       
         </ul>
 
-      <p className="margin-top-20 text-indent-whole">Tầng 1 (Cấp tổng thể - [...]):</p>
+      <p className="margin-top-20 text-indent-whole"><strong>Tầng 1</strong> (<strong>Cấp tổng thể</strong> - [...]):</p>
       
         <ul className="list-square">
       
-          <li></li>
+          <li className="list-none"></li>
       
-          <li></li>
+          <li className="list-none"></li>
       
         </ul>
 
-      <p className="margin-top-20 text-indent-whole">Tầng 2 (Cấp thành phần - {'{...}'}):</p>
+      <p className="margin-top-20 text-indent-whole"><strong>Tầng 2</strong> (<strong>Cấp thành phần</strong> - {'{...}'}):</p>
       
         <ul className="list-square">
       
-          <li></li>
+          <li className="list-none"></li>
       
-          <li></li>
+          <li className="list-none"></li>
       
         </ul>
 
@@ -560,23 +560,23 @@ export default function (): React.JSX.Element {
       
         </ul>
 
-      <p className="margin-top-20 text-indent-whole">Tầng 1 (Cấp tổng thể - [...]):</p>
+      <p className="margin-top-20 text-indent-whole"><strong>Tầng 1</strong> (<strong>Cấp tổng thể</strong> - [...]):</p>
       
         <ul className="list-square">
       
-          <li></li>
+          <li className="list-none"></li>
       
-          <li></li>
+          <li className="list-none"></li>
       
         </ul>
 
-      <p className="margin-top-20 text-indent-whole">Tầng 2 (Cấp thành phần - {'{...}'}):</p>
+      <p className="margin-top-20 text-indent-whole"><strong>Tầng 2</strong> (<strong>Cấp thành phần</strong> - {'{...}'}):</p>
       
         <ul className="list-square">
       
-          <li></li>
+          <li className="list-none"></li>
       
-          <li></li>
+          <li className="list-none"></li>
       
         </ul>
 
@@ -593,23 +593,23 @@ export default function (): React.JSX.Element {
       
         </ul>
 
-      <p className="margin-top-20 text-indent-whole">Tầng 1 (Cấp tổng thể - [...]):</p>
+      <p className="margin-top-20 text-indent-whole"><strong>Tầng 1</strong> (<strong>Cấp tổng thể</strong> - [...]):</p>
       
         <ul className="list-square">
       
-          <li></li>
+          <li className="list-none"></li>
       
-          <li></li>
+          <li className="list-none"></li>
       
         </ul>
 
-      <p className="margin-top-20 text-indent-whole">Tầng 2 (Cấp thành phần - {'{...}'}):</p>
+      <p className="margin-top-20 text-indent-whole"><strong>Tầng 2</strong> (<strong>Cấp thành phần</strong> - {'{...}'}):</p>
       
         <ul className="list-square">
       
-          <li></li>
+          <li className="list-none"></li>
       
-          <li></li>
+          <li className="list-none"></li>
       
         </ul>
       

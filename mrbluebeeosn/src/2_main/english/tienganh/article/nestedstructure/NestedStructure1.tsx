@@ -332,9 +332,9 @@ export default function NestedStructure1(): React.JSX.Element {
 			
 					<ul className="list-square">
 				
-						<li>Hình thái: [Discussing {'{how we can build this app}'}] - Động Cụm [Verb Phrase] biểu thị dưới dạng vùng mã lớn bắt đầu bằng Thực Động Cơ tinh chỉnh đuôi -ing (Discussing) đứng ở đầu câu.</li>
+						<li className="list-none">Hình thái: [Discussing {'{how we can build this app}'}] - Động Cụm [Verb Phrase] biểu thị dưới dạng vùng mã lớn bắt đầu bằng Thực Động Cơ tinh chỉnh đuôi -ing (Discussing) đứng ở đầu câu.</li>
 
-						<li>Chức năng: [Discussing {'{how we can build this app}'}] - <strong>Danh Cụm</strong> [<strong>Noun Phrase</strong>] đóng vai trò làm một phân hệ đầu việc lớn đóng vai trò Danh Chủ [Noun Subject] điều phối toàn bộ câu.</li>
+						<li className="list-none">Chức năng: [Discussing {'{how we can build this app}'}] - <strong>Danh Cụm</strong> [<strong>Noun Phrase</strong>] đóng vai trò làm một phân hệ đầu việc lớn đóng vai trò Danh Chủ [Noun Subject] điều phối toàn bộ câu.</li>
 				
 					</ul>
 
@@ -343,9 +343,9 @@ export default function NestedStructure1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>Hình thái: {'{how we can build this app}'} - Động Câu [Verb Clause] định hình dưới dạng khối mã con nằm gọn bên trong, chứa đầy đủ Danh Chủ riêng we và các phân nhánh hành động riêng bao gồm can (Thái Động Cơ) và build (Động Cơ).</li>
+					<li className="list-none">Hình thái: {'{how we can build this app}'} - Động Câu [Verb Clause] định hình dưới dạng khối mã con nằm gọn bên trong, chứa đầy đủ Danh Chủ riêng we và các phân nhánh hành động riêng bao gồm can (Thái Động Cơ) và build (Động Cơ).</li>
 
-					<li>Chức năng: {'{how we can build this app}'} - Danh Câu [Noun Clause] đóng vai trò làm Danh Nhận (nạp tham số dữ liệu đầu vào) chịu sự điều phối trực tiếp của phân hệ ngoài.</li>
+					<li className="list-none">Chức năng: {'{how we can build this app}'} - Danh Câu [Noun Clause] đóng vai trò làm Danh Nhận (nạp tham số dữ liệu đầu vào) chịu sự điều phối trực tiếp của phân hệ ngoài.</li>
 			
 				</ul>
 			
@@ -364,9 +364,9 @@ export default function NestedStructure1(): React.JSX.Element {
 			
 					<ul className="list-square">
 				
-						<li>Hình thái: [about {'{how this team won}'}] - Giới Cụm [Prepositional Phrase] biểu thị dưới dạng một vùng mã lớn bắt đầu bằng Giới Cơ about.</li>
+						<li className="list-none">Hình thái: [about {'{how this team won}'}] - Giới Cụm [Prepositional Phrase] biểu thị dưới dạng một vùng mã lớn bắt đầu bằng Giới Cơ about.</li>
 
-						<li>Chức năng: [about {'{how this team won}'}] - <strong>Tính Cụm</strong> [<strong>Adjective Phrase</strong>] vận hành như một bộ lọc tổng thể đặt ngay phía sau để mô tả đặc điểm nội dung cho Danh Cụm "The news" đứng trước nó.</li>
+						<li className="list-none">Chức năng: [about {'{how this team won}'}] - <strong>Tính Cụm</strong> [<strong>Adjective Phrase</strong>] vận hành như một bộ lọc tổng thể đặt ngay phía sau để mô tả đặc điểm nội dung cho Danh Cụm "The news" đứng trước nó.</li>
 				
 					</ul>
 
@@ -375,9 +375,9 @@ export default function NestedStructure1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>Hình thái: {'{how this team won}'} - Động Câu [Verb Clause] định hình dưới dạng khối mã con nằm gọn bên trong, chứa Danh Chủ this team và Thời-Thực Động Cơ [Tense-Action Verb Base] won thiết lập cấu hình tích hợp thời quá khứ.</li>
+					<li className="list-none">Hình thái: {'{how this team won}'} - Động Câu [Verb Clause] định hình dưới dạng khối mã con nằm gọn bên trong, chứa Danh Chủ this team và Thời-Thực Động Cơ [Tense-Action Verb Base] won thiết lập cấu hình tích hợp thời quá khứ.</li>
 
-					<li>Chức năng: {'{how this team won}'} - Danh Câu [Noun Clause] đóng vai trò làm Danh Nhận chịu sự điều phối trực tiếp của Giới Cơ about ở tầng ngoài.</li>
+					<li className="list-none">Chức năng: {'{how this team won}'} - Danh Câu [Noun Clause] đóng vai trò làm Danh Nhận chịu sự điều phối trực tiếp của Giới Cơ about ở tầng ngoài.</li>
 			
 				</ul>
 
@@ -396,9 +396,9 @@ export default function NestedStructure1(): React.JSX.Element {
 			
 					<ul className="list-square">
 				
-						<li>Hình thái: [at {'{where the event was running}'}] - Giới Cụm [Prepositional Phrase] biểu thị dưới dạng một vùng mã xác lập không gian lớn bắt đầu bằng Giới Cơ at.</li>
+						<li className="list-none">Hình thái: [at {'{where the event was running}'}] - Giới Cụm [Prepositional Phrase] biểu thị dưới dạng một vùng mã xác lập không gian lớn bắt đầu bằng Giới Cơ at.</li>
 
-						<li>Chức năng: [at {'{where the event was running}'}] - <strong>Trạng Cụm</strong> [<strong>Adverb Phrase</strong>] đảm nhận vai trò làm một khối bối cảnh địa điểm tổng thể đứng sau bổ nghĩa cho hành động arrived.</li>
+						<li className="list-none">Chức năng: [at {'{where the event was running}'}] - <strong>Trạng Cụm</strong> [<strong>Adverb Phrase</strong>] đảm nhận vai trò làm một khối bối cảnh địa điểm tổng thể đứng sau bổ nghĩa cho hành động arrived.</li>
 				
 					</ul>
 
@@ -407,9 +407,9 @@ export default function NestedStructure1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>Hình thái: {'{where the event was running}'} - Động Câu [Verb Clause] định hình dưới dạng khối mã con nằm gọn bên trong, chứa Danh Chủ riêng the event cùng bộ đôi mã hành động liên kết gồm was (Thời Động Cơ) và running (Thực Động Cơ).</li>
+					<li className="list-none">Hình thái: {'{where the event was running}'} - Động Câu [Verb Clause] định hình dưới dạng khối mã con nằm gọn bên trong, chứa Danh Chủ riêng the event cùng bộ đôi mã hành động liên kết gồm was (Thời Động Cơ) và running (Thực Động Cơ).</li>
 
-					<li>Chức năng: {'{where the event was running}'} - Danh Câu [Noun Clause] đóng vai trò làm Danh Nhận chịu sự điều phối trực tiếp của Giới Cơ at ở tầng ngoài.</li>
+					<li className="list-none">Chức năng: {'{where the event was running}'} - Danh Câu [Noun Clause] đóng vai trò làm Danh Nhận chịu sự điều phối trực tiếp của Giới Cơ at ở tầng ngoài.</li>
 			
 				</ul>
 

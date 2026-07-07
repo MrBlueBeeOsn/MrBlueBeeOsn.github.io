@@ -3882,6 +3882,17 @@
       "date": "2026-06-20",
       "views": 0,
       "likes": 0
+    },
+    {
+      "id": "Create",
+      "categoryDisplay": "Tạo ra",
+      "categorySlug": "vocabulary#verbs-terms",
+      "title": "Create",
+      "content": "[create] is a [Verb Base] that means to make something new or invent something. [create] là một Động Cơ [Verb Base] có nghĩa là tạo ra, tạo nên hoặc sáng tạo ra một cái gì đó mới.",
+      "slug": "vocabulary/create",
+      "date": "2026-07-07",
+      "views": 0,
+      "likes": 0
     }
   ]
 }
