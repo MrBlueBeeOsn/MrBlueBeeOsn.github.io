@@ -77,7 +77,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 					<li className="margin-bottom-20 list-none">Khối định danh đối tượng hành động.</li>
 			
 					<li><strong>Head</strong> (<strong>Hạt nhân</strong> / <strong>Bộ nguồn</strong>):</li>
-					<li className="margin-bottom-20 list-none">Khối điều khiển toàn câu, luôn đứng liền kề với S. Head có nhiệm vụ cấp Thời gian (quá khứ/hiện tại/tương lai) và Thái độ cho câu.</li>
+					<li className="margin-bottom-20 list-none">Khối điều khiển toàn câu, luôn đứng liền kề với S. Head là hạt nhân Thời-Thực Động Cơ [Tense-Action Verb Base], gánh vác bối cảnh thời gian kết hợp logic thực thi hành động để cấp năng lượng cho toàn câu.</li>
 			
 					<li><strong>Dependent</strong> (<strong>Phần phụ thuộc</strong>):</li>
 					<li className="list-none">Là <strong>tất cả những gì đứng sau Head</strong>. Chúng mang tư duy "phụ thuộc", sinh ra là để bám vào Head và không bao giờ có thể đứng độc lập một mình.</li>
@@ -85,21 +85,26 @@ export default function LegoAssembly1(): React.JSX.Element {
 				</ul>
 			
 
-			<h4 className="margin-y-40">Bí mật về vị trí của chữ "NOT"</h4>
+			<h4 className="margin-y-40">Bí mật về vị trí của chữ "NOT" và quy luật tách khối</h4>
+
+			<p className="text-indent-whole">Ở câu khẳng định thông thường, Head tồn tại dưới dạng một khối tích hợp duy nhất. Tuy nhiên, khi bạn muốn phủ định, chữ NOT luôn luôn đứng ngay sau Thời Động Cơ [Tense Verb Base].</p>
+
+			<p className="text-indent-whole">Do đó, khi chuyển sang câu phủ định hoặc nghi vấn, khối hạt nhân Head bắt buộc phải thực hiện thao tác tách cấu hình:</p>
+
+			<p className="text-indent-whole">Head → Thời Động Cơ [Tense Verb Base] + Thực Động Cơ [Action Verb Base]</p>
 					
-			<p className="text-indent-whole">Head được chia làm hai trạng thái:</p>
+			<p className="text-indent-whole">Vì bản chất Dependent luôn luôn là tất cả những gì đứng sau Head, nên:</p>
 			
 				<ul className="list-square">
 			
-					<li><strong>Head tích hợp</strong></li>
-					<li className="margin-bottom-20 list-none">Bao gồm Thời Động Cơ [Tense Verb Base] tự nuốt vào trong Thực Động Cơ [Action Verb Base] ở câu khẳng định để biến thành Thời-Thực Động Cơ [Tense-Action Verb Base].</li>
+					<li><strong>Trong câu khẳng định</strong>:</li>
+					<li className="margin-bottom-20 list-none">Dependent đứng ngay sau Head tích hợp (will build).</li>
 			
-					<li><strong>Head không tích hợp</strong></li>
-					<li className="list-none">Hiện rõ như các Thời Động Cơ, Thái Động Cơ.</li>
+					<li><strong>Trong câu phủ định</strong>:</li>
+					<li className="list-none">Khi Head tách ra thành Thời + Thực và chèn thêm NOT, cấu trúc ranh giới lúc này được xác lập lại. Phần Thực Động Cơ vẫn nằm trọn vẹn trong cấu hình của bộ nguồn Head, chỉ có chữ not là xen vào giữa. Lúc này, vùng Dependent sẽ dịch chuyển và đứng ngay sau cấu hình Head phủ định (will NOT build).</li>
 			
 				</ul>
 			
-			<p className="margin-top-20 text-indent-whole">Vì Head là hạt nhân tối cao, nên khi bạn muốn phủ định, chữ <strong>NOT luôn luôn đứng ngay sau Head</strong>. Chính vì quy luật này, chữ <strong>not</strong> sẽ chính thức bị đẩy về phía sau và thuộc về vùng quản lý của phần Dependent đứng sau nó, chứ không nằm trong Head.</p>
 
 			{/* 2.  */}
 
@@ -127,7 +132,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 					<li className="margin-bottom-20 list-none">Khối điều khiển tâm lý, chế độ, khả năng hoặc thái độ của chủ thể đối với hành động đứng sau.</li>
 			
 					<li value="6"><strong>Thời-Thực Động Cơ</strong> [<strong>Tense-Action Verb Base</strong>]: slept (đã ngủ), built (đã xây), drove (đã lái), works (làm việc ở hiện tại), cried (đã khóc).</li>
-					<li className="list-none">Tích hợp Thời + Thực trong một đơn vị. Khối này đóng gói cả năng lượng "Thời gian" và "Hành động" vào trong một từ duy nhất. Dù mang hình thái một từ độc lập, nó vẫn đồng thời thực thi logic bối cảnh thời gian và logic thực thi hành động.</li>
+					<li className="list-none">Tích hợp Thời + Thực trong một đơn vị. Khối này đóng gói cả năng lượng "Thời gian" và "Hành động" vào trong một từ duy nhất. Dù mang hình thái một từ độc lập, nó vẫn đồng thời thực thi bối cảnh thời gian và bối cảnh thực thi hành động để làm Head của câu.</li>
 			
 				</ol>
 			
@@ -609,53 +614,57 @@ export default function LegoAssembly1(): React.JSX.Element {
 
 			<h3 className="margin-y-50 text-center">6. Tuyệt Chiêu "Đảo Khối": Phủ Định & Nghi Vấn Trong 1 Nốt Nhạc</h3>
 
-			<p>Khi đã coi câu là các khối Lego, việc chuyển sang phủ định hay câu hỏi trở nên cực kỳ trực quan. Bạn không cần nhớ công thức mới, chỉ cần dịch chuyển Khối Nguồn (Head).</p>
+			<p>Khi đã coi câu là các khối Lego, việc chuyển sang phủ định hay câu hỏi trở nên cực kỳ trực quan nhờ cơ chế vận hành của hạt nhân Thời-Thực Động Cơ [Tense-Action Verb Base]. Bạn không cần nhớ công thức mới, chỉ cần thực hiện thao tác tách và dịch chuyển các khối cấu thành từ Head.</p>
 
 
-			<h5 className="margin-y-30">Luật Phủ định: Chốt chặn "NOT" sau Head</h5>
+			<h5 className="margin-y-30">Luật Phủ định: Chốt chặn "NOT" sau Thời Động Cơ</h5>
 			
-			<p className="text-indent-whole">Bạn chỉ việc nhét <strong>khối NOT</strong> vào ngay sau Bộ nguồn (Head). <strong>Khối not</strong> này sẽ thuộc về vùng quản lý của phần Dependent phía sau.</p>
+			<p className="text-indent-whole">Khi thêm phủ định, hạt nhân Head tự động tách ra làm hai: Thời Động Cơ [Tense Verb Base] đứng trước và Thực Động Cơ [Action Verb Base] đi kèm phía sau. Bạn chỉ việc nhét khối NOT vào ngay sau Thời Động Cơ. Lúc này, toàn bộ khối will NOT build đảm nhiệm trọn vẹn vai trò là cấu hình Head phủ định, và phần Dependent sẽ bắt đầu tính từ ngay phía sau khối này.</p>
 			
 				<ul className="list-square">
 			
-					<li><strong>Khẳng định</strong>: He <strong>will</strong> [build the house].</li>
+					<li><strong>Khẳng định</strong>: He <strong>will build</strong> the house.</li>
+					<li className="margin-bottom-20 list-none">Head tích hợp: will build → Dependent đứng sau will build</li>
+
 					<li><strong>Phủ định</strong>: He will [<strong>NOT</strong> build the house].</li>
+					<li className="list-none">Head phủ định: will NOT build → Dependent đứng sau will NOT build</li>
 			
 				</ul>
 
 
-			<h5 className="margin-y-30">Luật Nghi vấn: Nhấc Head lên đầu câu lớn</h5>
+			<h5 className="margin-y-30">Luật Nghi vấn: Nhấc Thời Động Cơ lên đầu câu lớn</h5>
 
-			<p className="text-indent-whole">Nhấc toàn bộ khối nguồn (Head) đặt ra trước Danh Chủ.</p>
+			<p className="text-indent-whole">Khi chuyển sang câu hỏi, Head cũng thực hiện tách khối. Bạn chỉ cần nhấc riêng thành phần Thời Động Cơ [Tense Verb Base] đặt ra trước Danh Chủ, để lại phần Thực Động Cơ ở phía sau.</p>
 			
 				<ul className="list-square">
 			
-					<li><strong>Khẳng định</strong>: You <strong>are</strong> [driving the truck].</li>
-					<li><strong>Nghi vấn</strong>: <strong>Are</strong> you [driving the truck]?</li>
+					<li><strong>Khẳng định</strong>: You <strong>are driving</strong> the truck.</li>
+					<li className="margin-bottom-20 list-none">Head tích hợp: are driving</li>
+
+					<li><strong>Nghi vấn</strong>: <strong>Are</strong> you <strong>driving</strong> the truck?</li>
+					<li className="list-none">Nhấc Thời "are" lên trước S, Thực "driving" ở lại phía sau để cùng S định vị bộ khung</li>
 			
 				</ul>
 			
 
-			<h4 className="margin-y-40">Bí mật của "Head Tàng Hình" (Tích hợp)</h4>
+			<h4 className="margin-y-40">Bí mật của "Head Tàng Hình" (Tích hợp ngầm)</h4>
 					
-			<p className="margin-top-20 text-indent-whole">Ở thể khẳng định của một số câu đơn giản ở hiện tại hoặc quá khứ, các Thời Động Cơ đơn lẻ (do/does/did) có đặc tính "nuốt" vào trong Thực Động Cơ [Action Verb Base] để đóng gói lại thành một <strong>Thời-Thực Động Cơ</strong> [<strong>Tense-Action Verb Base</strong>] duy nhất (ví dụ: bối cảnh quá khứ ẩn nấp kết hợp với hành động drive tạo thành drove).</p>
+			<p className="text-indent-whole">Ở thể khẳng định của một số câu đơn giản ở hiện tại hoặc quá khứ, các Thời Động Cơ đơn lẻ (do/does/did) mang đặc tính "nuốt" vào trong Thực Động Cơ để đóng gói thành một từ duy nhất (ví dụ: bối cảnh quá khứ kết hợp với hành động drive tạo thành drove).</p>
 			
 
-			<p className="margin-top-20 text-indent-whole">Nhưng khi làm câu Phủ định hoặc Nghi vấn, bộ khung tích hợp này bắt buộc phải tách ra để lộ diện Thời Động Cơ [Tense Verb Base] làm nhiệm vụ gánh vác vị trí Head:</p>
-
-
-			<p className="margin-top-20"></p>
+			<p className="margin-top-20 text-indent-whole">Nhưng khi làm câu Phủ định hoặc Nghi vấn, bộ khung này bắt buộc phải thực hiện thao tác tách khối để lộ diện rõ ràng cấu hình: Head gồm Thời Động Cơ [Tense Verb Base] + Thực Động Cơ [Action Verb Base]:</p>
 			
 				<ul className="list-square">
 			
 					<li><strong>Khẳng định</strong> (<strong>Ẩn trong khối Thời-Thực</strong>):</li>
 					<li className="list-none">I drove the truck.</li>
-					<li className="margin-bottom-20 list-none">Bản chất gốc: I <strong>did</strong> [drive the truck].</li>
+					<li className="margin-bottom-20 list-none">Bản chất gốc là khối tích hợp ngầm của "did drive" → Dependent đứng sau drove</li>
 			
-					<li><strong>Phủ định</strong> (<strong>Lộ Thời Động Cơ và NOT</strong>):</li>
-					<li className="margin-bottom-20 list-none">I <strong>did</strong> [NOT drive the truck].</li>
+					<li><strong>Phủ định</strong> (<strong>Tách lộ Thời Động Cơ và bổ sung NOT</strong>):</li>
+					<li className="list-none">I <strong>did</strong> [NOT drive the truck].</li>
+					<li className="margin-bottom-20 list-none">Dependent đứng sau did NOT drive</li>
 			
-					<li><strong>Nghi vấn</strong> (<strong>Nhấc Thời Động Cơ lên đầu</strong>):</li>
+					<li><strong>Nghi vấn</strong> (<strong>Tách lộ và nhấc Thời Động Cơ lên đầu</strong>):</li>
 					<li className="list-none"><strong>Did</strong> I [drive the truck]?</li>
 			
 				</ul>
@@ -669,10 +678,10 @@ export default function LegoAssembly1(): React.JSX.Element {
 				<ol>
 			
 					<li value="1"><strong>Sửa lỗi kiến trúc ngay lập tức</strong>:</li>
-					<li className="margin-bottom-20 list-none">Bạn sẽ nhận ra ngay tại sao câu "She sleeping" hay "I driven the car" lại sai. Chúng sai vì có Danh Chủ và có một Động Cụm [Verb Phrase], nhưng lại <strong>thiếu mất Bộ nguồn</strong> (<strong>Head</strong> hoặc <strong>Thời Động Cơ</strong>) để cấp thời gian! Bộ não của bạn sẽ tự động "báo lỗi" cơ học và buộc bạn phải cấp nguồn vào: "She <strong>is</strong> sleeping".</li>
+					<li className="margin-bottom-20 list-none">Bạn sẽ nhận ra ngay tại sao câu "She sleeping" hay "I driven the car" lại sai. Chúng sai vì có Danh Chủ và có một Thực Động Cơ [Action Verb Base], nhưng lại thiếu mất Thời Động Cơ [Tense Verb Base] đi kèm để tạo nên một hạt nhân Head đúng nghĩa! Bộ não của bạn sẽ tự động "báo lỗi" cơ học và buộc bạn phải tích hợp đủ hai thành phần để cấp nguồn vào: "She is sleeping" hoặc "I have driven the car".</li>
 			
 					<li value="2"><strong>Đóng gói dữ liệu thần tốc</strong> (<strong>Chunking</strong>):</li>
-					<li className="list-none">Khi nói hoặc viết, bạn không dịch lạch cạch từng khối cấu trúc đơn lẻ một cách rời rạc. Bộ não của bạn chỉ làm 2 việc: Chốt khung nguồn (<strong>I am</strong>... / <strong>She will</strong>...) và nhấc nguyên một hộp <strong>Cơ</strong>, <strong>Cụm</strong> (<strong>Động</strong>/<strong>Giới</strong>), hoặc <strong>Câu</strong> tương ứng với ý mình muốn nói để ném vào phía sau Head. Tốc độ phản xạ sẽ tăng lên gấp nhiều lần.</li>
+					<li className="list-none">Khi nói hoặc viết, bạn không dịch lạch cạch từng khối cấu trúc đơn lẻ một cách rời rạc. Bộ não của bạn chỉ làm 2 việc: Xác định hạt nhân Head (am... / will... / drove...) và nhấc nguyên một hộp Cơ, Cụm (Động/Giới), hoặc Câu tương ứng với ý mình muốn nói để ném vào vị trí Dependent phía sau. Tốc độ phản xạ sẽ tăng lên gấp nhiều lần.</li>
 			
 				</ol>
 		
