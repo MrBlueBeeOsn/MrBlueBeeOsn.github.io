@@ -173,7 +173,21 @@ export default function Create(): React.JSX.Element {
 
       <p className="margin-top-20 text-indent-whole"><strong>Hình thành chức năng Danh Cụm</strong> [<strong>Noun Phrase</strong>]</p>
 
-      <p className="margin-top-20 text-indent-whole">Ví dụ 4:</p>
+      <p className="margin-top-20 text-indent-whole">Ví dụ 4a: Danh Chủ [Subject]</p>
+      
+        <ul className="list-square">
+      
+          <li>[Creating a unique brand identity] requires deep research.</li>
+          <li className="margin-bottom-20 list-none">[Việc tạo ra một bản sắc thương hiệu độc đáo] đòi hỏi sự nghiên cứu sâu sắc.</li>
+      
+          <li className="list-none">Hình thái: [creating a unique brand identity] - Động Cụm [Verb Phrase] chứa Thực Động Cơ [Action Verb Base] dạng thêm đuôi "-ing", mở rộng thành một vùng mã hành động phức hợp gồm hành động tạo ra, đối tượng tiếp nhận và đặc điểm đi kèm.</li>
+      
+          <li className="list-none">Chức năng: [creating a unique brand identity] - Danh Cụm [Noun Phrase] đóng vai trò làm Danh Chủ [Subject] để thiết lập nền tảng thông tin đứng đầu toàn câu trước hạt nhân Thời-Thực Động Cơ [Tense-Action Verb Base] "requires".</li>
+      
+        </ul>
+
+      
+      <p className="margin-top-20 text-indent-whole">Ví dụ 4b: Danh Nhận [Object]</p>
       
         <ul className="list-square">
       
@@ -519,7 +533,7 @@ export default function Create(): React.JSX.Element {
 
       <h5 className="margin-top-20 text-indent-whole">Danh Cụm Phân Tầng [Nested Noun Phrase]</h5>
 
-      <p className="margin-top-20 text-indent-whole">Ví dụ 12:</p>
+      <p className="margin-top-20 text-indent-whole">Ví dụ 12a: Danh Chủ [Subject]</p>
       
         <ul className="list-square">
       
@@ -547,6 +561,37 @@ export default function Create(): React.JSX.Element {
           <li className="list-none">Chức năng: {'{how the system creates profiles}'} - Danh Câu [Noun Clause] đóng vai trò làm Danh Nhận [Object] chịu sự điều phối trực tiếp từ hạt nhân hành động "Studying" ở tầng ngoài, tích hợp chuỗi thông tin tiếp nhận hành động để làm rõ nội dung cho việc nghiên cứu.</li>
       
         </ul>
+
+      
+      <p className="margin-top-20 text-indent-whole">Ví dụ 12b: Danh Nhận [Object]</p>
+      
+        <ul className="list-square">
+      
+          <li>We support [investigating {'{why they created the mistake}'}].</li>
+          <li className="margin-bottom-20 list-none">Chúng tôi ủng hộ [việc điều tra {'{tại sao họ đã tạo ra sai lầm đó}'}].</li>
+      
+        </ul>
+
+      <p className="margin-top-20 text-indent-whole"><strong>Tầng 1</strong> (<strong>Cấp tổng thể</strong> - [...]):</p>
+      
+        <ul className="list-square">
+      
+          <li className="list-none">Hình thái: [investigating {'{why they created the mistake}'}] - Động Cụm [Verb Phrase] biểu thị dưới dạng một vùng mã mở rộng lớn bắt đầu bằng Thực Động Cơ [Action Verb Base] dạng đuôi "-ing" và kéo theo thành phần bổ trợ phía sau.</li>
+      
+          <li className="list-none">Chức năng: [investigating {'{why they created the mistake}'}] - <strong>Danh Cụm</strong> [<strong>Noun Phrase</strong>] đóng vai trò làm Danh Nhận [Object] (thành phần chịu tác động) đứng ngay sau hạt nhân Thời-Thực Động Cơ [Tense-Action Verb Base] "support" để bổ sung trọn vẹn thông tin cho hành động ủng hộ này.</li>
+      
+        </ul>
+
+      <p className="margin-top-20 text-indent-whole"><strong>Tầng 2</strong> (<strong>Cấp thành phần</strong> - {'{...}'}):</p>
+      
+        <ul className="list-square">
+      
+          <li className="list-none">Hình thái: {'{why they created the mistake}'} - Động Câu [Verb Clause] định hình dưới dạng một khối mã con nằm gọn hoàn toàn bên trong vùng mã tổng thể, chứa đầy đủ Danh Chủ [Subject] riêng "they" và Thời-Thực Động Cơ [Tense-Action Verb Base] riêng "created" thiết lập theo trục thời quá khứ đi sau liên từ "why".</li>
+      
+          <li className="list-none">Chức năng: {'{why they created the mistake}'} - Danh Câu [Noun Clause] đóng vai trò làm Danh Nhận [Object] chịu sự điều phối trực tiếp từ hạt nhân hành động "investigating" ở tầng ngoài, làm rõ nội dung cho việc điều tra.</li>
+      
+        </ul>
+      
 
 
       <h5 className="margin-top-20 text-indent-whole">Tính Cụm Phân Tầng [Nested Adjective Phrase]</h5>
