@@ -440,7 +440,7 @@ export default function Respond(): React.JSX.Element {
       
       <p className="margin-top-20 text-indent-whole"><strong>Hình thành chức năng Tính Câu</strong> [<strong>Adjective Clause</strong>]</p>
 
-      <p className="margin-top-20 text-indent-whole">Ví dụ 10: [who responded to my email]</p>
+      <p className="margin-top-20 text-indent-whole">Ví dụ 10:</p>
       
         <ul className="list-square">
       
