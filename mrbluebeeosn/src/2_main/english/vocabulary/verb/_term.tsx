@@ -72,13 +72,13 @@ export default function (): React.JSX.Element {
           <li value="3"><strong>Thời Động Cơ Phức</strong> [<strong>Complex Tense Verb Base</strong>]: </li>
           <li className="margin-bottom-20 list-none"></li>
       
-          <li value="4"><strong>Thực Động Cơ</strong> [<strong>Action Verb Base</strong>]: </li>
+          <li value="4"><strong>Tiếp, Hoàn Động Cơ</strong> [<strong>Progressive, Perfect  Verb Base</strong>]: </li>
           <li className="margin-bottom-20 list-none"></li>
 
           <li value="5"><strong>Thái Động Cơ</strong> [<strong>Modal Verb Base</strong>]: </li>
           <li className="margin-bottom-20 list-none"></li>
       
-          <li value="6"><strong>Thời-Thực Động Cơ</strong> [<strong>Tense-Action Verb Base</strong>]: </li>
+          <li value="6"><strong>Thời-Thuần Động Cơ</strong> [<strong>Tense-Bare Verb Base</strong>]: </li>
           <li className="list-none"></li>
       
         </ol>

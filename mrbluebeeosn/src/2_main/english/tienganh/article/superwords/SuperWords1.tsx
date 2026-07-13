@@ -93,13 +93,13 @@ export default function SuperWords1(): React.JSX.Element {
 					<li value="3"><strong>Thời Động Cơ Phức</strong> [<strong>Complex Tense Verb Base</strong>]: have been, would have</li>
 					<li className="margin-bottom-20 list-none">Tổ hợp nhiều chữ gắn kết chặt chẽ với nhau nhằm xử lý các bối cảnh thời gian mang tính phức hợp, đa tầng.</li>
 			
-					<li value="4"><strong>Thực Động Cơ</strong> [<strong>Action Verb Base</strong>]: reading, driven, speaking (Dạng V-ing / V3)</li>
+					<li value="4"><strong>Tiếp, Hoàn Động Cơ</strong> [<strong>Progressive, Perfect  Verb Base</strong>]: reading, driven, speaking (Dạng V-ing / V3)</li>
 					<li className="margin-bottom-20 list-none">Đơn vị chữ thuần túy xử lý hành động thực thi, mang toàn bộ lõi ngữ nghĩa và trạng thái chuyển động của sự việc.</li>
 
 					<li value="5"><strong>Thái Động Cơ</strong> [<strong>Modal Verb Base</strong>]: could, would, might</li>
 					<li className="margin-bottom-20 list-none">Đơn vị chữ xử lý chế độ / thái độ, thể hiện tính chất giả định, khả năng hoặc mức độ cam kết của hành động.</li>
 			
-					<li value="6"><strong>Thời-Thực Động Cơ</strong> [<strong>Tense-Action Verb Base</strong>]: read (quá khứ), drove, spoke, took, gave</li>
+					<li value="6"><strong>Thời-Thuần Động Cơ</strong> [<strong>Tense-Bare Verb Base</strong>]: read (quá khứ), drove, spoke, took, gave</li>
 					<li className="list-none">Một đơn vị duy nhất tích hợp đồng thời cả bối cảnh Thời (thường là quá khứ đơn hoặc hiện tại đơn với chủ ngữ số nhiều) và lõi hành động Thực bên trong.</li>
 			
 				</ol>
@@ -109,19 +109,19 @@ export default function SuperWords1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>are reading → Thời Động Cơ "are" + Thực Động Cơ "reading"</li>
+					<li>are reading → Thời Động Cơ "are" + [Tiếp Động Cơ] "reading"</li>
 			
-					<li>were driving → Thời Động Cơ "were" + Thực Động Cơ "driving"</li>
+					<li>were driving → Thời Động Cơ "were" + [Tiếp Động Cơ] "driving"</li>
 			
-					<li>has driven → Thời Động Cơ "has" + Thực Động Cơ "driven"</li>
+					<li>has driven → Thời Động Cơ "has" + [Hoàn Động Cơ] "driven"</li>
 
-					<li>have been speaking → Thời Động Cơ Phức "have been" + Thực Động Cơ "speaking"</li>
+					<li>have been speaking → Thời Động Cơ Phức "have been" + [Tiếp Động Cơ] "speaking"</li>
 			
-					<li>would have read → Thời Động Cơ Phức "would have" + Thực Động Cơ "read"</li>
+					<li>would have read → Thời Động Cơ Phức "would have" + [Hoàn Động Cơ] "read"</li>
 			
-					<li>drove → Thời-Thực Động Cơ (Một đơn vị tự tích hợp cả hai)</li>
+					<li>drove → Thời-Thuần Động Cơ (Một đơn vị tự tích hợp cả hai)</li>
 
-					<li>could speak → Thái Động Cơ "could" + Động Cơ "speak"</li>
+					<li>could speak → Thái Động Cơ "could" + [Thuần Động Cơ] "speak"</li>
 			
 				</ul>
 			
@@ -213,7 +213,7 @@ export default function SuperWords1(): React.JSX.Element {
 					<li>[Reading this manual] is necessary for users.</li>
 					<li className="margin-bottom-20 list-none">[Việc đọc cuốn hướng dẫn này] là cần thiết cho người dùng.</li>
 			
-					<li className="list-none">Hình thái: [Reading this manual] - Động Cụm [Verb Phrase] thể hiện một khối hành động chứa nhiều chữ bắt đầu bằng một Thực Động Cơ dạng đuôi -ing phối hợp với đối tượng bổ trợ.</li>
+					<li className="list-none">Hình thái: [Reading this manual] - Động Cụm [Verb Phrase] thể hiện một khối hành động chứa nhiều chữ bắt đầu bằng một [Tiếp Động Cơ] dạng đuôi -ing phối hợp với đối tượng bổ trợ.</li>
 			
 					<li className="list-none">Chức năng: [Reading this manual] - Danh Cụm [Noun Phrase] đang đứng vị trí đầu câu để đóng vai trò làm Danh Chủ cho toàn câu lớn.</li>
 			
@@ -227,7 +227,7 @@ export default function SuperWords1(): React.JSX.Element {
 					<li>The engineer have been [fixing the system].</li>
 					<li className="margin-bottom-20 list-none">Người kỹ sư đã và đang [sửa chữa hệ thống].</li>
 			
-					<li className="list-none">Hình thái: [fixing the system] - Động Cụm [Verb Phrase] thể hiện một khối hành động chứa Thực Động Cơ dạng đuôi -ing phối hợp với đối tượng chịu tác động.</li>
+					<li className="list-none">Hình thái: [fixing the system] - Động Cụm [Verb Phrase] thể hiện một khối hành động chứa [Tiếp Động Cơ] dạng đuôi -ing phối hợp với đối tượng chịu tác động.</li>
 			
 					<li className="list-none">Chức năng: [fixing the system] - Tính Cụm [Adjective Phrase] đang đứng vị trí sau để bổ nghĩa, mô tả trạng thái thực thi đang diễn ra của Danh Chủ "The engineer".</li>
 			
@@ -318,7 +318,7 @@ export default function SuperWords1(): React.JSX.Element {
 					<li>The author [who wrote this article] is an expert.</li>
 					<li className="margin-bottom-20 list-none">Tác giả [người mà đã viết bài báo này] là một chuyên gia.</li>
 			
-					<li className="list-none">Hình thái: [who wrote this article] - Động Câu [Verb Clause] thể hiện một cấu trúc câu con hoàn chỉnh đóng vai trò phụ thuộc chứa Thời-Thực Động Cơ [Tense-Action Verb Base] [wrote].</li>
+					<li className="list-none">Hình thái: [who wrote this article] - Động Câu [Verb Clause] thể hiện một cấu trúc câu con hoàn chỉnh đóng vai trò phụ thuộc chứa [Thời-Thuần Động Cơ][Tense-Bare Verb Base] [wrote].</li>
 			
 					<li className="list-none">Chức năng: [who wrote this article] - Tính Câu [Adjective Clause] đang đứng vị trí ngay sau một đối tượng để định danh và làm rõ nghĩa cho tác giả đó.</li>
 			
@@ -404,7 +404,7 @@ export default function SuperWords1(): React.JSX.Element {
 					<li className="margin-bottom-20 list-none">[Việc giải thích {'{lý do tại sao cô ấy chọn phương pháp này}'}] đã không cần thiết.</li>
 
 					<li>Phân tích Hình thái:</li>
-					<li className="list-none">[Explaining {'{why she chose this method}'}] – Động Cụm [Verb Phrase] tầng ngoài, bắt đầu bằng Thực Động Cơ dạng đuôi -ing [Explaining].</li>
+					<li className="list-none">[Explaining {'{why she chose this method}'}] – Động Cụm [Verb Phrase] tầng ngoài, bắt đầu bằng [Tiếp Động Cơ][Progressive Verb Base] dạng đuôi -ing [Explaining].</li>
 					<li className="margin-bottom-20 list-none">{'{why she chose this method}'} – Động Câu [Verb Clause] tầng trong, thể hiện một cấu trúc câu con hoàn chỉnh được kết nối bởi Liên Cơ "why".</li>
 			
 					<li>Phân tích Chức năng:</li>
@@ -423,7 +423,7 @@ export default function SuperWords1(): React.JSX.Element {
 
 					<li>Phân tích Hình thái:</li>
 					<li className="list-none">[in {'{which they filmed the movie}'}] - Giới Cụm [Prepositional Phrase] thể hiện một khối thông tin tầng ngoài mở đầu bằng Giới Cơ "in" điều phối cấu trúc phía sau.</li>
-					<li className="margin-bottom-20 list-none">{'{which they filmed the movie}'} - Động Câu [Verb Clause] thể hiện một cấu trúc câu con tầng trong chứa một câu phụ hoàn chỉnh có Thời-Thực Động Cơ [filmed].</li>
+					<li className="margin-bottom-20 list-none">{'{which they filmed the movie}'} - Động Câu [Verb Clause] thể hiện một cấu trúc câu con tầng trong chứa một câu phụ hoàn chỉnh có Thời-Thuần Động Cơ [filmed].</li>
 			
 					<li>Phân tích Chức năng:</li>
 					<li className="list-none">{'{which they filmed the movie}'} - Danh Câu [Noun Clause] đang đứng vị trí làm Danh Nhận chịu sự điều phối trực tiếp của Giới Cơ "in".</li>
@@ -485,7 +485,7 @@ export default function SuperWords1(): React.JSX.Element {
 					<li>They delayed the project [owing to the team experiencing technical difficulties].</li>
 					<li className="margin-bottom-20 list-none">Họ đã hoãn dự án [do đội ngũ gặp phải những khó khăn kỹ thuật].</li>
 			
-					<li className="list-none">Hình thái: [owing to the team experiencing technical difficulties] - Động Cụm [Verb Phrase] thể hiện một khối hành động chứa Thực Động Cơ dạng tinh chỉnh experiencing phối hợp bọc lót thông tin.</li>
+					<li className="list-none">Hình thái: [owing to the team experiencing technical difficulties] - Động Cụm [Verb Phrase] thể hiện một khối hành động chứa [Tiếp Động Cơ][Progressive Verb Base] dạng tinh chỉnh experiencing phối hợp bọc lót thông tin.</li>
 
 					<li className="list-none">Chức năng: [owing to the team experiencing technical difficulties] - Trạng Cụm [Adverb Phrase] đang đứng vị trí ở cuối câu giữ nguyên vai trò bổ nghĩa nguyên nhân cho toàn bộ sự việc trong câu lớn.</li>
 			

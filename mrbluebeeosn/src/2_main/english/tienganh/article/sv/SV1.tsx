@@ -114,13 +114,13 @@ export default function SV1(): React.JSX.Element {
 					<li value="3"><strong>Thời Động Cơ Phức</strong> [<strong>Complex Tense Verb Base</strong>]: have been, had been, will have been</li>
 					<li className="margin-bottom-20 list-none">Tổ hợp đa thành phần phối hợp chứa từ 2 yếu tố trở lên, chuyên biệt xử lý bối cảnh thời gian phức tạp (hoàn thành tiếp diễn hoặc thể bị động).</li>
 			
-					<li value="4"><strong>Thực Động Cơ</strong> [<strong>Action Verb Base</strong>]: sleeping, walked, eaten, taking</li>
+					<li value="4"><strong>Tiếp, Hoàn Động Cơ</strong> [<strong>Progressive, Perfect  Verb Base</strong>]: sleeping, walked, eaten, taking</li>
 					<li className="margin-bottom-20 list-none">Hình thái hành động thực thi, thể hiện trạng thái đang diễn ra (V-ing) hoặc đã hoàn thành/bị động (V3/V-ed).</li>
 
 					<li value="5"><strong>Thái Động Cơ</strong> [<strong>Modal Verb Base</strong>]: could, would, might, should, must</li>
 					<li className="margin-bottom-20 list-none">Đơn vị xử lý chế độ, thái độ, khả năng xảy ra hoặc tính chất bắt buộc của hành động.</li>
 			
-					<li value="6"><strong>Thời-Thực Động Cơ</strong> [<strong>Tense-Action Verb Base</strong>]: slept, drove, bought, found, spoke</li>
+					<li value="6"><strong>Thời-Thuần Động Cơ</strong> [<strong>Tense-Bare Verb Base</strong>]: slept, drove, bought, found, spoke</li>
 					<li className="list-none">Đơn vị tích hợp hoàn hảo cả hai yếu tố Thời (thời gian) + Thực (hành động thực thi) trong cùng một hình thái từ duy nhất mà không cần trợ từ bề nổi.</li>
 			
 				</ol>
@@ -130,15 +130,15 @@ export default function SV1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>are sleeping → Thời Động Cơ "are" + Thực Động Cơ "sleeping"</li>
+					<li>are sleeping → Thời Động Cơ "are" + [Tiếp Động Cơ] "sleeping"</li>
 
-					<li>had taken → Thời Động Cơ "had" + Thực Động Cơ "taking" (ở dạng V3 là taken)</li>
+					<li>had taken → Thời Động Cơ "had" + [Tiếp Động Cơ] "taking" (ở dạng V3 là taken)</li>
 			
-					<li>have been walking → Thời Động Cơ Phức "have been" + Thực Động Cơ "walking"</li>
+					<li>have been walking → Thời Động Cơ Phức "have been" + [Tiếp Động Cơ] "walking"</li>
 			
-					<li>drove → Thời-Thực Động Cơ (một đơn vị tự thân xử lý cả thời gian quá khứ lẫn hành động lái xe)</li>
+					<li>drove → Thời-Thuần Động Cơ (một đơn vị tự thân xử lý cả thời gian quá khứ lẫn hành động lái xe)</li>
 
-					<li>should study → Thái Động Cơ "should" + Động Cơ "study"</li>
+					<li>should study → Thái Động Cơ "should" + [Thuần Động Cơ] "study"</li>
 			
 				</ul>
 
@@ -222,7 +222,7 @@ export default function SV1(): React.JSX.Element {
 			
 					<li className="list-none">Hình thái: [to finish the report] - Động Cụm [Verb Phrase] cấu thành khối hành động chứa nhiều yếu tố kết hợp và không chứa hệ trục S + V.</li>
 			
-					<li className="margin-bottom-20 list-none">Chức năng: [to finish the report] - Danh Cụm [Noun Phrase] đứng sau một Thời-Thực Động Cơ [Tense-Action Verb Base] promised để làm Danh Nhận thực thi.</li>
+					<li className="margin-bottom-20 list-none">Chức năng: [to finish the report] - Danh Cụm [Noun Phrase] đứng sau một [Thời-Thuần Động Cơ][Tense-Bare Verb Base] promised để làm Danh Nhận thực thi.</li>
 			
 				</ul>
 			
@@ -292,7 +292,7 @@ export default function SV1(): React.JSX.Element {
 			
 					<li className="list-none">Hình thái: [that water boils at 100 degrees] - Động Câu [Verb Clause] tạo nên khối hành động phức có chứa hệ trục S + V, bắt đầu bằng Liên Cơ [Connector Base] "that".</li>
 			
-					<li className="margin-bottom-20 list-none">Chức năng: [that water boils at 100 degrees] - Danh Câu [Noun Clause] đảm nhận nhiệm vụ của một khối đối tượng đứng sau bổ nghĩa thông tin làm Danh Nhận dưới sự điều phối của Thời-Thực Động Cơ [Tense-Action Verb Base] knows.</li>
+					<li className="margin-bottom-20 list-none">Chức năng: [that water boils at 100 degrees] - Danh Câu [Noun Clause] đảm nhận nhiệm vụ của một khối đối tượng đứng sau bổ nghĩa thông tin làm Danh Nhận dưới sự điều phối của [Thời-Thuần Động Cơ][Tense-Bare Verb Base] knows.</li>
 			
 				</ul>
 
@@ -419,7 +419,7 @@ export default function SV1(): React.JSX.Element {
 
 			<p className="text-indent-whole">Khối Danh Cụm lớn đóng vai trò làm Danh Chủ hoặc Danh Nhận, nhưng bên trong nó lại chứa một khối chức năng phụ trợ lồng ghép để làm rõ thông tin.</p>
 
-			<p className="text-indent-whole">Áp dụng mẫu cấu trúc Danh Nhận phân tầng: S + Thời-Thực Động Cơ + [V-ing {'{Động Câu}'}]</p>
+			<p className="text-indent-whole">Áp dụng mẫu cấu trúc Danh Nhận phân tầng: S + Thời-Thuần Động Cơ + [V-ing {'{Động Câu}'}]</p>
 			
 				<ul className="list-square">
 			
@@ -436,7 +436,7 @@ export default function SV1(): React.JSX.Element {
 
 					<li className="list-none">Lớp trong: Khối {'{what they had discovered}'} đóng vai trò là một Danh Câu [Noun Clause], neo ngay sau hành động discussing để làm Danh Nhận (đối tượng bị thảo luận) cho hành động đó.</li>
 
-					<li className="list-none">Lớp ngoài: Toàn bộ khối cấu trúc [discussing {'{what they had discovered}'}] vận hành đồng bộ như một khối <strong>Danh Cụm</strong> [<strong>Noun Phrase</strong>] lớn, đứng ngay sau Thời-Thực Động Cơ avoided nhằm làm Danh Nhận thực thi (đón nhận hành động "né tránh") cho Danh Chủ He.</li>
+					<li className="list-none">Lớp ngoài: Toàn bộ khối cấu trúc [discussing {'{what they had discovered}'}] vận hành đồng bộ như một khối <strong>Danh Cụm</strong> [<strong>Noun Phrase</strong>] lớn, đứng ngay sau Thời-Thuần Động Cơ avoided nhằm làm Danh Nhận thực thi (đón nhận hành động "né tránh") cho Danh Chủ He.</li>
 			
 				</ul>
 
@@ -478,7 +478,7 @@ export default function SV1(): React.JSX.Element {
 			
 					<li>Phân tích Chức năng:</li>
 					<li className="list-none">Lớp trong: Khối {'{than we expected}'} đóng vai trò là một Trạng Câu [Adverb Clause] phụ thuộc, neo vào sau slower để làm rõ mức độ cho cấu trúc so sánh.</li>
-					<li className="list-none">Lớp ngoài: Toàn bộ khối cấu trúc [slower {'{than we expected}'}] vận hành đồng bộ như một <strong>Trạng Cụm</strong> [<strong>Adverb Phrase</strong>] tổng thể gắn sau một Thời-Thực Động Cơ [Tense-Action Verb Base] walked để bổ nghĩa và làm rõ hoàn cảnh cách thức hành động được thực hiện.</li>
+					<li className="list-none">Lớp ngoài: Toàn bộ khối cấu trúc [slower {'{than we expected}'}] vận hành đồng bộ như một <strong>Trạng Cụm</strong> [<strong>Adverb Phrase</strong>] tổng thể gắn sau một [Thời-Thuần Động Cơ][Tense-Bare Verb Base] walked để bổ nghĩa và làm rõ hoàn cảnh cách thức hành động được thực hiện.</li>
 			
 				</ul>
 

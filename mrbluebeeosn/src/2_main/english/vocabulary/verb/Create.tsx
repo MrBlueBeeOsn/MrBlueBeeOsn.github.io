@@ -72,13 +72,13 @@ export default function Create(): React.JSX.Element {
           <li value="3"><strong>Thời Động Cơ Phức</strong> [<strong>Complex Tense Verb Base</strong>]: had been, has been</li>
           <li className="margin-bottom-20 list-none">Là phân hệ cụm mã gồm nhiều thành phần thời phối hợp nhau để xử lý các bối cảnh thời gian phức tạp (như Quá khứ hoàn thành tiếp diễn, Hiện tại hoàn thành tiếp diễn).</li>
       
-          <li value="4"><strong>Thực Động Cơ</strong> [<strong>Action Verb Base</strong>]: creating, created (khi đi sau các trợ mã Thời)</li>
+          <li value="4"><strong>Tiếp, Hoàn Động Cơ</strong> [<strong>Progressive, Perfect  Verb Base</strong>]: creating, created (khi đi sau các trợ mã Thời)</li>
           <li className="margin-bottom-20 list-none">Là mã hành động đã được biến đổi hình thái sang dạng chuyển động tiếp diễn (-ing) hoặc trạng thái hoàn thành/bị động (-v3/-ed) để phối hợp với thành phần Thời, trực tiếp hiển thị bản chất thực thi của hành động.</li>
 
           <li value="5"><strong>Thái Động Cơ</strong> [<strong>Modal Verb Base</strong>]: must, can, should, may, might</li>
           <li className="margin-bottom-20 list-none">Là mã thiết lập chế độ, tâm thế hoặc khả năng, mức độ chắc chắn của hành động (như bắt buộc, có thể, nên).</li>
       
-          <li value="6"><strong>Thời-Thực Động Cơ</strong> [<strong>Tense-Action Verb Base</strong>]: creates, created (Quá khứ đơn, dạng độc lập)</li>
+          <li value="6"><strong>Thời-Thuần Động Cơ</strong> [<strong>Tense-Bare Verb Base</strong>]: creates, created (Quá khứ đơn, dạng độc lập)</li>
           <li className="list-none">Là phân hệ tích hợp tối tân, nén cả dấu mốc Thời gian và bản chất Thực thi hành động vào trong một đơn vị từ đơn duy nhất.</li>
       
         </ol>
@@ -88,19 +88,19 @@ export default function Create(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>is creating → Thời Động Cơ is + Thực Động Cơ creating</li>
+          <li>is creating → Thời Động Cơ is + [Tiếp Động Cơ][Progressive Verb Base] creating</li>
 
-          <li>was creating → Thời Động Cơ was + Thực Động Cơ creating</li>
+          <li>was creating → Thời Động Cơ was + [Tiếp Động Cơ][Progressive Verb Base] creating</li>
       
-          <li>has created → Thời Động Cơ has + Thực Động Cơ created</li>
+          <li>has created → Thời Động Cơ has + [Hoàn Động Cơ][Perfect Verb Base] created</li>
       
-          <li>had been creating → Thời Động Cơ Phức had been + Thực Động Cơ creating</li>
+          <li>had been creating → Thời Động Cơ Phức had been + [Tiếp Động Cơ][Progressive Verb Base] creating</li>
 
-          <li>has been creating → Thời Động Cơ Phức has been + Thực Động Cơ creating</li>
+          <li>has been creating → Thời Động Cơ Phức has been + [Tiếp Động Cơ][Progressive Verb Base] creating</li>
       
-          <li>created (Quá khứ đơn) → Thời-Thực Động Cơ (Một đơn vị tích hợp cả hai)</li>
+          <li>created (Quá khứ đơn) → Thời-Thuần Động Cơ (Một đơn vị tích hợp cả hai)</li>
       
-          <li>should create → Thái Động Cơ should + Động Cơ create</li>
+          <li>should create → Thái Động Cơ should + [Thuần Động Cơ] create</li>
       
         </ul>
       
@@ -180,9 +180,9 @@ export default function Create(): React.JSX.Element {
           <li>[Creating high-quality content] requires a lot of research.</li>
           <li className="margin-bottom-20 list-none">[Việc tạo ra nội dung chất lượng cao] đòi hỏi rất nhiều sự nghiên cứu.</li>
       
-          <li className="list-none">Hình thái: [Creating high-quality content] - Động Cụm [Verb Phrase] chứa Thực Động Cơ [Action Verb Base] dạng thêm đuôi "-ing", mở rộng thành một vùng mã hành động phức hợp gồm hành động tạo ra và đối tượng hướng tới.</li>
+          <li className="list-none">Hình thái: [Creating high-quality content] - Động Cụm [Verb Phrase] chứa [Tiếp Động Cơ][Progressive Verb Base] dạng thêm đuôi "-ing", mở rộng thành một vùng mã hành động phức hợp gồm hành động tạo ra và đối tượng hướng tới.</li>
       
-          <li className="list-none">Chức năng: [Creating high-quality content] - Danh Cụm [Noun Phrase] đóng vai trò làm Danh Chủ [Subject] để thiết lập nền tảng thông tin đứng đầu toàn câu trước hạt nhân Thời-Thực Động Cơ [Tense-Action Verb Base] "requires".</li>
+          <li className="list-none">Chức năng: [Creating high-quality content] - Danh Cụm [Noun Phrase] đóng vai trò làm Danh Chủ [Subject] để thiết lập nền tảng thông tin đứng đầu toàn câu trước hạt nhân [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "requires".</li>
       
         </ul>
 
@@ -194,9 +194,9 @@ export default function Create(): React.JSX.Element {
           <li>The company postponed [creating the promotional video].</li>
           <li className="margin-bottom-20 list-none">Công ty đã trì hoãn [việc tạo ra video quảng cáo].</li>
       
-          <li className="list-none">Hình thái: [creating the promotional video] - Động Cụm [Verb Phrase] chứa Thực Động Cơ [Action Verb Base] dạng thêm đuôi "-ing", mở rộng thành một vùng mã hành động phức hợp gồm hành động tạo ra và đối tượng hướng tới.</li>
+          <li className="list-none">Hình thái: [creating the promotional video] - Động Cụm [Verb Phrase] chứa [Tiếp Động Cơ][Progressive Verb Base] dạng thêm đuôi "-ing", mở rộng thành một vùng mã hành động phức hợp gồm hành động tạo ra và đối tượng hướng tới.</li>
       
-          <li className="list-none">Chức năng: [creating the promotional video] - Danh Cụm [Noun Phrase] đóng vai trò làm Danh Nhận [Object] (thành phần chịu tác động) tích hợp chuỗi dữ liệu đầu việc đứng ngay sau cặp phối hợp Danh Chủ [Subject] và Thời-Thực Động Cơ [Tense-Action Verb Base] "postponed".</li>
+          <li className="list-none">Chức năng: [creating the promotional video] - Danh Cụm [Noun Phrase] đóng vai trò làm Danh Nhận [Object] (thành phần chịu tác động) tích hợp chuỗi dữ liệu đầu việc đứng ngay sau cặp phối hợp Danh Chủ [Subject] và [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "postponed".</li>
       
         </ul>
 
@@ -213,7 +213,7 @@ export default function Create(): React.JSX.Element {
           <li>The designer [to create your logo] is highly experienced.</li>
           <li className="margin-bottom-20 list-none">Nhà thiết kế [sắp sửa tạo ra logo của bạn] thì cực kỳ có kinh nghiệm.</li>
       
-          <li className="list-none">Hình thái: [to create your logo] - Động Cụm [Verb Phrase] chứa Thực Động Cơ [Action Verb Base] ở dạng nguyên bản có "to" để biểu thị tính chủ động hướng tới tương lai.</li>
+          <li className="list-none">Hình thái: [to create your logo] - Động Cụm [Verb Phrase] chứa [Hạt Động Cơ][Particle Verb Base] để biểu thị tính chủ động hướng tới tương lai.</li>
       
           <li className="list-none">Chức năng: [to create your logo] - Tính Cụm [Adjective Phrase] đặt ngay sau đối tượng "designer" để quét và hiển thị đặc điểm hành động sắp sửa xảy ra mang tính chủ động của đối tượng đó.</li>
       
@@ -229,7 +229,7 @@ export default function Create(): React.JSX.Element {
           <li>The prototypes [to be created next week] are vital for the test.</li>
           <li className="margin-bottom-20 list-none">Các mẫu thử [sắp sửa được tạo ra vào tuần tới] thì vô cùng quan trọng cho bài kiểm tra.</li>
       
-          <li className="list-none">Hình thái: [to be created next week] - Động Cụm [Verb Phrase] hiển thị dưới dạng mô hình "to be + V3/-ed" (chứa Thực Động Cơ [Action Verb Base] biến đổi hình thái bị động) để biểu thị trạng thái bị động hướng tới tương lai.</li>
+          <li className="list-none">Hình thái: [to be created next week] - Động Cụm [Verb Phrase] hiển thị dưới dạng mô hình "to be + V3/-ed" (chứa [Hoàn Động Cơ][Perfect Verb Base] biến đổi hình thái bị động) để biểu thị trạng thái bị động hướng tới tương lai.</li>
       
           <li className="list-none">Chức năng: [to be created next week] - Tính Cụm [Adjective Phrase] kích hoạt cơ chế bộ quét đặt ngay sau đối tượng "prototypes" để mô tả đặc điểm trạng thái sắp sửa được tác động của đối tượng đó.</li>
       
@@ -245,7 +245,7 @@ export default function Create(): React.JSX.Element {
           <li>The engineer [creating the system architecture] just left.</li>
           <li className="margin-bottom-20 list-none">Kỹ sư [đang tạo ra kiến trúc hệ thống] vừa mới rời đi.</li>
       
-          <li className="list-none">Hình thái: [creating the system architecture] - Động Cụm [Verb Phrase] chứa Thực Động Cơ [Action Verb Base] thêm đuôi "-ing" để biểu thị tính chủ động đang xảy ra.</li>
+          <li className="list-none">Hình thái: [creating the system architecture] - Động Cụm [Verb Phrase] chứa [Tiếp Động Cơ][Progressive Verb Base] thêm đuôi "-ing" để biểu thị tính chủ động đang xảy ra.</li>
       
           <li className="list-none">Chức năng: [creating the system architecture] - Tính Cụm [Adjective Phrase] đặt ngay sau đối tượng "engineer" để quét và hiển thị đặc điểm hành động chủ động của đối tượng đó.</li>
       
@@ -261,7 +261,7 @@ export default function Create(): React.JSX.Element {
           <li>The database [created by the senior developer] functions perfectly.</li>
           <li className="margin-bottom-20 list-none">Cơ sở dữ liệu [đã được tạo ra bởi lập trình viên cấp cao] vận hành một cách hoàn hảo.</li>
       
-          <li className="list-none">Hình thái: [created by the senior developer] - Động Cụm [Verb Phrase] hiển thị dưới dạng vùng mã chứa Thực Động Cơ [Action Verb Base] ở dạng bị động thuộc trục thời quá khứ.</li>
+          <li className="list-none">Hình thái: [created by the senior developer] - Động Cụm [Verb Phrase] hiển thị dưới dạng vùng mã chứa [Hoàn Động Cơ][Perfect Verb Base] ở dạng bị động thuộc trục thời quá khứ.</li>
       
           <li className="list-none">Chức năng: [created by the senior developer] - Tính Cụm [Adjective Phrase] kích hoạt cơ chế bộ quét đặt ngay sau đối tượng "database" để mô tả đặc điểm trạng thái bị động hoàn thành của đối tượng đó.</li>
       
@@ -277,7 +277,7 @@ export default function Create(): React.JSX.Element {
           <li>We bought a software [capable of creating realistic animations].</li>
           <li className="margin-bottom-20 list-none">Chúng tôi đã mua một phần mềm [có khả năng tạo ra các hoạt ảnh thực tế].</li>
       
-          <li className="list-none">Hình thái: [capable of creating realistic animations] - Cụm thành phần bắt đầu bằng mã đặc điểm gốc kết hợp mở rộng giới cụm phía sau (chứa Thực Động Cơ [Action Verb Base] dạng -ing sau Giới Cơ "of").</li>
+          <li className="list-none">Hình thái: [capable of creating realistic animations] - Cụm thành phần bắt đầu bằng mã đặc điểm gốc kết hợp mở rộng giới cụm phía sau (chứa [Tiếp Động Cơ][Progressive Verb Base] dạng -ing sau Giới Cơ "of").</li>
       
           <li className="list-none">Chức năng: [capable of creating realistic animations] - Tính Cụm [Adjective Phrase] đặt ngay sau đối tượng "software" để quét và xác định năng lực, đặc điểm của đối tượng đó.</li>
       
@@ -295,7 +295,7 @@ export default function Create(): React.JSX.Element {
           <li>They adjusted the layout [to create more space].</li>
           <li className="margin-bottom-20 list-none">Họ đã điều chỉnh bố cục [để tạo ra nhiều không gian hơn].</li>
       
-          <li className="list-none">Hình thái: [to create more space] - Động Cụm [Verb Phrase] định hình dưới dạng một vùng mã hành động đứng cuối chuỗi thông tin, bắt đầu bằng Thực Động Cơ [Action Verb Base] nguyên bản có "to".</li>
+          <li className="list-none">Hình thái: [to create more space] - Động Cụm [Verb Phrase] định hình dưới dạng một vùng mã hành động đứng cuối chuỗi thông tin, bắt đầu bằng [Hạt Động Cơ][Particle Verb Base].</li>
       
           <li className="list-none">Chức năng: [to create more space] - Trạng Cụm [Adverb Phrase] đảm nhận vai trò làm một khối bối cảnh mục đích đứng sau để bổ nghĩa cho hành động "adjusted".</li>
       
@@ -311,7 +311,7 @@ export default function Create(): React.JSX.Element {
           <li>[To create a brand identity], the startup hired a professional agency.</li>
           <li className="margin-bottom-20 list-none">[Để tạo ra một danh tính thương hiệu], công ty khởi nghiệp đã thuê một đơn vị chuyên nghiệp.</li>
       
-          <li className="list-none">Hình thái: [To create a brand identity] - Động Cụm [Verb Phrase] bắt đầu bằng Thực Động Cơ [Action Verb Base] nguyên bản có "to", được đảo lên đứng biệt lập ở đầu câu và ngăn cách bằng dấu phẩy.</li>
+          <li className="list-none">Hình thái: [To create a brand identity] - Động Cụm [Verb Phrase] bắt đầu bằng [Hạt Động Cơ][Particle Verb Base], được đảo lên đứng biệt lập ở đầu câu và ngăn cách bằng dấu phẩy.</li>
       
           <li className="list-none">Chức năng: [To create a brand identity], - Trạng Cụm [Adverb Phrase] đảm nhận nhiệm vụ làm khối bối cảnh mục đích nhấn mạnh cho toàn bộ phần diện thông tin chính phía sau.</li>
       
@@ -327,7 +327,7 @@ export default function Create(): React.JSX.Element {
           <li>The designer spent hours [creating the promotional banners].</li>
           <li className="margin-bottom-20 list-none">Nhà thiết kế đã dành nhiều giờ [cho việc tạo ra các biểu ngữ quảng cáo].</li>
       
-          <li className="list-none">Hình thái: [creating the promotional banners] - Động Cụm [Verb Phrase] chứa Thực Động Cơ [Action Verb Base] dạng đuôi "-ing" đứng ở phần sau câu nhằm làm rõ tiến trình nội dung.</li>
+          <li className="list-none">Hình thái: [creating the promotional banners] - Động Cụm [Verb Phrase] chứa [Tiếp Động Cơ][Progressive Verb Base] dạng đuôi "-ing" đứng ở phần sau câu nhằm làm rõ tiến trình nội dung.</li>
       
           <li className="list-none">Chức năng: [creating the promotional banners] - Trạng Cụm [Adverb Phrase] đóng vai trò làm khối bối cảnh cách thức/nội dung đi kèm để bổ nghĩa trực tiếp cho khuôn mẫu hành động "spent" phía trước.</li>
       

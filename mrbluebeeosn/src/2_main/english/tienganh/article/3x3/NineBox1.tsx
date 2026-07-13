@@ -105,14 +105,14 @@ export default function NineBox1(): React.JSX.Element {
 					<li value="3"><strong>Thời Động Cơ Phức</strong> [<strong>Complex Tense Verb Base</strong>]: had been, has been</li>
 					<li className="margin-bottom-20 list-none">Khối đa phân tử xử lý bối cảnh thời gian ở các thể hoàn thành tiếp diễn hoặc bị động phức hợp, đóng gói nhiều dấu hiệu thời gian thành một khối điều phối duy nhất.</li>
 			
-					<li value="4"><strong>Thực Động Cơ</strong> [<strong>Action Verb Base</strong>]: developing, built, executed [Dạng V-ing hoặc V3/V-ed phân từ]</li>
+					<li value="4"><strong>Tiếp, Hoàn Động Cơ</strong> [<strong>Progressive, Perfect  Verb Base</strong>]: developing, built, executed [Dạng V-ing hoặc V3/V-ed phân từ]</li>
 					<li className="margin-bottom-20 list-none">Hành động thực thi mang giá trị ngữ nghĩa vận động trực tiếp nhưng không tự đứng độc lập để gánh thời gian mà phải kết hợp với hệ toán tử thời gian.</li>
 
 					<li value="5"><strong>Thái Động Cơ</strong> [<strong>Modal Verb Base</strong>]: must, can, should, may, might</li>
 					<li className="margin-bottom-20 list-none">Chế độ / thái độ, dùng để thiết lập tần suất logic, khả năng xảy ra, nghĩa vụ hoặc tâm thế của chủ thể đối với hành động.</li>
 			
-					<li value="6"><strong>Thời-Thực Động Cơ</strong> [<strong>Tense-Action Verb Base</strong>]: developed, built, executed, spoke, made [Dạng V2/V-ed chia thì quá khứ đơn hoặc hiện tại đơn số ít/số nhiều]</li>
-					<li className="list-none">Tích hợp Thời + Thực trong một đơn vị dữ liệu duy nhất. Dù mang hình thái một từ độc lập, nó tự đóng gói trọn vẹn cả chức năng thời gian lẫn bản chất thực thi.</li>
+					<li value="6"><strong>Thời-Thuần Động Cơ</strong> [<strong>Tense-Bare Verb Base</strong>]: developed, built, executed, spoke, made [Dạng V2/V-ed chia thì quá khứ đơn hoặc hiện tại đơn số ít/số nhiều]</li>
+					<li className="list-none">Tích hợp Thời + Thuần trong một đơn vị dữ liệu duy nhất. Dù mang hình thái một từ độc lập, nó tự đóng gói trọn vẹn cả chức năng thời gian lẫn bản chất thực thi.</li>
 			
 				</ol>
 			
@@ -121,19 +121,19 @@ export default function NineBox1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>is developing → Thời Động Cơ "is" + Thực Động Cơ "developing"</li>
+					<li>is developing → Thời Động Cơ "is" + Tiếp Động Cơ "developing"</li>
 			
-					<li>was developing → Thời Động Cơ "was" + Thực Động Cơ "developing"</li>
+					<li>was developing → Thời Động Cơ "was" + Tiếp Động Cơ "developing"</li>
 			
-					<li>has built → Thời Động Cơ "has" + Thực Động Cơ "built"</li>
+					<li>has built → Thời Động Cơ "has" + Tiếp Động Cơ "built"</li>
 
-					<li>had been executing → Thời Động Cơ Phức "had been" + Thực Động Cơ "executing"</li>
+					<li>had been executing → Thời Động Cơ Phức "had been" + Tiếp Động Cơ "executing"</li>
 			
-					<li>has been building → Thời Động Cơ Phức "has been" + Thực Động Cơ "building"</li>
+					<li>has been building → Thời Động Cơ Phức "has been" + Tiếp Động Cơ "building"</li>
 			
-					<li>developed → Thời-Thực Động Cơ [Một đơn vị tích hợp cả hai]</li>
+					<li>developed → Thời-Thuần Động Cơ [Một đơn vị tích hợp cả hai]</li>
 
-					<li>must execute → Thái Động Cơ "must" + Động Cơ "execute"</li>
+					<li>must execute → Thái Động Cơ "must" + [Thuần Động Cơ] "execute"</li>
 			
 				</ul>
 
@@ -151,7 +151,7 @@ export default function NineBox1(): React.JSX.Element {
 					<li>[Debugging] isolates program faults.</li>
 					<li className="margin-bottom-20 list-none">[Việc gỡ lỗi] cô lập các lỗi chương trình.</li>
 			
-					<li className="list-none">Hình thái: [Debugging] - Động Cơ [Verb Base] nguyên bản gốc "Debug" thêm đuôi "ing" để hình thành Thực Động Cơ [Action Verb Base].</li>
+					<li className="list-none">Hình thái: [Debugging] - Động Cơ [Verb Base] nguyên bản gốc "Debug" thêm đuôi "ing" để hình thành [Tiếp Động Cơ][Progressive Verb Base].</li>
 			
 					<li className="list-none">Chức năng: [Debugging] - Danh Cơ [Noun Base] đóng vai trò làm Danh Chủ chịu trách nhiệm thực thi câu lớn.</li>
 			
@@ -165,7 +165,7 @@ export default function NineBox1(): React.JSX.Element {
 					<li>The analyst provided an [updated] architecture layout.</li>
 					<li className="margin-bottom-20 list-none">Nhà phân tích đã cung cấp một sơ đồ kiến trúc [được cập nhật].</li>
 			
-					<li className="list-none">Hình thái: [updated] - Động Cơ [Verb Base] nguyên bản gốc "Update" thêm đuôi "ed" để hình thành Thực Động Cơ [Action Verb Base] dạng phân từ.</li>
+					<li className="list-none">Hình thái: [updated] - Động Cơ [Verb Base] nguyên bản gốc "Update" thêm đuôi "ed" để hình thành [Hoàn Động Cơ][Perfect Verb Base] dạng phân từ.</li>
 			
 					<li className="list-none">Chức năng: [updated] - Tính Cơ [Adjective Base] đứng ngay trước đối tượng để mô tả thuộc tính cho sơ đồ.</li>
 			
@@ -214,7 +214,7 @@ export default function NineBox1(): React.JSX.Element {
 					<li>The microservice is [handling user traffic efficiently].</li>
 					<li className="margin-bottom-20 list-none">Dịch vụ nhỏ [đang xử lý lưu lượng truy cập người dùng hiệu quả].</li>
 			
-					<li className="list-none">Hình thái: [handling user traffic efficiently] - Động Cụm [Verb Phrase] chứa Thời Động Cơ [Tense Verb Base] is phối hợp cùng Thực Động Cơ [Action Verb Base] handling.</li>
+					<li className="list-none">Hình thái: [handling user traffic efficiently] - Động Cụm [Verb Phrase] chứa Thời Động Cơ [Tense Verb Base] is phối hợp cùng [Tiếp Động Cơ][Progressive Verb Base] handling.</li>
 			
 					<li className="list-none">Chức năng: [handling user traffic efficiently] - Tính Cụm [Adjective Phrase] đứng sau nhằm mô tả trạng thái thuộc tính cho dịch vụ nhỏ.</li>
 			
@@ -249,7 +249,7 @@ export default function NineBox1(): React.JSX.Element {
 					<li>The console verifies [that the background task failed].</li>
 					<li className="margin-bottom-20 list-none">Bảng điều khiển xác nhận [rằng tác vụ chạy nền đã thất bại].</li>
 			
-					<li className="list-none">Hình thái: [that the background task failed] - Động Câu [Verb Clause] tạo nên một module thực thi chứa Liên Cơ [Connector Base] dẫn đường và câu con xoay quanh Thời-Thực Động Cơ [Tense-Action Verb Base] failed.</li>
+					<li className="list-none">Hình thái: [that the background task failed] - Động Câu [Verb Clause] tạo nên một module thực thi chứa Liên Cơ [Connector Base] dẫn đường và câu con xoay quanh [Thời-Thuần Động Cơ][Tense-Bare Verb Base] failed.</li>
 			
 					<li className="list-none">Chức năng: [that the background task failed] - Danh Câu [Noun Clause] hoạt động như một khối Danh Nhận dữ liệu được xác nhận.</li>
 			
@@ -263,7 +263,7 @@ export default function NineBox1(): React.JSX.Element {
 					<li>The algorithm [which computes the encryption key] works fast.</li>
 					<li className="margin-bottom-20 list-none">Thuật toán [mà nó tính toán khóa mã hóa] hoạt động nhanh.</li>
 			
-					<li className="list-none">Hình thái: [which computes the encryption key] - Động Câu [Verb Clause] vận hành như một module chứa Liên Cơ [Connector Base] đứng lồng giữa xoay quanh Thời-Thực Động Cơ [Tense-Action Verb Base] computes.</li>
+					<li className="list-none">Hình thái: [which computes the encryption key] - Động Câu [Verb Clause] vận hành như một module chứa Liên Cơ [Connector Base] đứng lồng giữa xoay quanh [Thời-Thuần Động Cơ][Tense-Bare Verb Base] computes.</li>
 			
 					<li className="list-none">Chức năng: [which computes the encryption key] - Tính Câu [Adjective Clause] đóng vai trò định danh thuộc tính để chỉ rõ loại thuật toán nào.</li>
 			
@@ -277,7 +277,7 @@ export default function NineBox1(): React.JSX.Element {
 					<li>The backup initiates [because the database space filled].</li>
 					<li className="margin-bottom-20 list-none">Việc sao lưu bắt đầu [bởi vì dung lượng cơ sở dữ liệu đã đầy].</li>
 			
-					<li className="list-none">Hình thái: [because the database space filled] - Động Câu [Verb Clause] bao gồm một module chứa Liên Cơ [Connector Base] biểu thị điều kiện bối cảnh xoay quanh Thời-Thực Động Cơ [Tense-Action Verb Base] filled.</li>
+					<li className="list-none">Hình thái: [because the database space filled] - Động Câu [Verb Clause] bao gồm một module chứa Liên Cơ [Connector Base] biểu thị điều kiện bối cảnh xoay quanh [Thời-Thuần Động Cơ][Tense-Bare Verb Base] filled.</li>
 			
 					<li className="list-none">Chức năng: [because the database space filled] - Trạng Câu [Adverb Clause] bổ nghĩa bối cảnh nguyên nhân cho hành động bắt đầu.</li>
 			
@@ -298,9 +298,9 @@ export default function NineBox1(): React.JSX.Element {
 					<li>The network architect suspects [the firewall blocks the packet].</li>
 					<li className="margin-bottom-20 list-none">Kiến trúc sư mạng nghi ngờ [tường lửa chặn gói tin].</li>
 			
-					<li className="list-none">Hình thái: [the firewall blocks the packet] - Động Câu [Verb Clause] hoàn toàn vắng bóng Liên Cơ [Connector Base] dẫn đường nhưng có đầy đủ kết cấu hành động xoay quanh Thời-Thực Động Cơ [Tense-Action Verb Base] blocks.</li>
+					<li className="list-none">Hình thái: [the firewall blocks the packet] - Động Câu [Verb Clause] hoàn toàn vắng bóng Liên Cơ [Connector Base] dẫn đường nhưng có đầy đủ kết cấu hành động xoay quanh [Thời-Thuần Động Cơ][Tense-Bare Verb Base] blocks.</li>
 			
-					<li className="list-none">Chức năng: [the firewall blocks the packet] - Danh Câu [Noun Clause] đóng vai trò làm Danh Nhận dữ liệu trực tiếp đứng sau điều phối của Thời-Thực Động Cơ [Tense-Action Verb Base] suspects.</li>
+					<li className="list-none">Chức năng: [the firewall blocks the packet] - Danh Câu [Noun Clause] đóng vai trò làm Danh Nhận dữ liệu trực tiếp đứng sau điều phối của [Thời-Thuần Động Cơ][Tense-Bare Verb Base] suspects.</li>
 			
 				</ul>
 			
@@ -312,7 +312,7 @@ export default function NineBox1(): React.JSX.Element {
 					<li>The API [the vendor provided yesterday] throws exceptions.</li>
 					<li className="margin-bottom-20 list-none">Giao diện lập trình ứng dụng [nhà cung cấp cung cấp ngày hôm qua] ném ra các ngoại lệ.</li>
 			
-					<li className="list-none">Hình thái: [the vendor provided yesterday] - Động Câu [Verb Clause] vận hành như một module chứa cấu trúc câu con đứng lồng lách ngay sau một danh mục mục tiêu mà không có Liên Cơ [Connector Base], xoay quanh Thời-Thực Động Cơ [Tense-Action Verb Base] provided.</li>
+					<li className="list-none">Hình thái: [the vendor provided yesterday] - Động Câu [Verb Clause] vận hành như một module chứa cấu trúc câu con đứng lồng lách ngay sau một danh mục mục tiêu mà không có Liên Cơ [Connector Base], xoay quanh [Thời-Thuần Động Cơ][Tense-Bare Verb Base] provided.</li>
 			
 					<li className="list-none">Chức năng: [the vendor provided yesterday] - Tính Câu [Adjective Clause] đóng vai trò định danh thuộc tính để chỉ rõ loại API nào bổ nghĩa cho Danh Chủ đứng trước.</li>
 			
@@ -326,7 +326,7 @@ export default function NineBox1(): React.JSX.Element {
 					<li>[The compilation completed], the operations team triggered the deployment.</li>
 					<li className="margin-bottom-20 list-none">[Việc biên dịch đã hoàn thành xong], đội ngũ vận hành đã kích hoạt triển khai.</li>
 			
-					<li className="list-none">Hình thái: [The compilation completed] - Động Câu [Verb Clause] bao gồm một module chứa cấu trúc câu con biểu thị sự kiện được đóng gói đặt ở đầu Câu lớn, ngăn cách bằng dấu phẩy, xoay quanh Thời-Thực Động Cơ [Tense-Action Verb Base] completed.</li>
+					<li className="list-none">Hình thái: [The compilation completed] - Động Câu [Verb Clause] bao gồm một module chứa cấu trúc câu con biểu thị sự kiện được đóng gói đặt ở đầu Câu lớn, ngăn cách bằng dấu phẩy, xoay quanh [Thời-Thuần Động Cơ][Tense-Bare Verb Base] completed.</li>
 			
 					<li className="list-none">Chức năng: [The compilation completed] - Trạng Câu [Adverb Clause] bổ nghĩa bối cảnh nguyên nhân hoặc thời gian nền cho toàn bộ hệ thống hành động phía sau.</li>
 			
@@ -432,7 +432,7 @@ export default function NineBox1(): React.JSX.Element {
 
 			<h3 className="margin-y-50 text-center">4. Tối Ưu Hóa Kỹ Năng Viết Lại Câu [Paraphrasing] Bằng Quy Tắc Chuyển Đổi Cấp Độ</h3>
 
-			<p>Khi bộ não của bạn đã hình thành phản xạ bóc tách tự động—tách biệt hoàn toàn Hình thái thô bên ngoài và Chức năng thực tế bên trong—thì kỹ năng viết lại câu [Paraphrasing] trở thành một bài toán "thay khối cùng chức năng" và không cần thay đổi cấu trúc tổng thể.</p>
+			<p>Khi bộ não của bạn đã hình thành phản xạ bóc tách tự động tách biệt hoàn toàn Hình thái thô bên ngoài và Chức năng thực tế bên trong—thì kỹ năng viết lại câu [Paraphrasing] trở thành một bài toán "thay khối cùng chức năng" và không cần thay đổi cấu trúc tổng thể.</p>
 
 			<p>Thay vì đi tìm các từ đồng nghĩa một cách rời rạc hay cố gắng đảo lộn câu một cách may rủi, bạn giữ cố định vị trí Chức năng trên trục ngang của hệ tọa độ, và chỉ thay đổi kích thước của khối hình thái từ mức Cơ lên Cụm, hoặc từ Cụm lên Câu. Bản thiết kế tổng thể của Câu lớn hoàn toàn được giữ vững, không bao giờ lo gãy đổ cấu trúc logic.</p>
 
@@ -494,7 +494,7 @@ export default function NineBox1(): React.JSX.Element {
 					<li>We must replace this [unsecured] connection.</li>
 					<li className="margin-bottom-20 list-none">Chúng ta phải thay thế kết nối [không an toàn] này.</li>
 			
-					<li className="list-none">Hình thái: [unsecured] - Động Cơ [Verb Base] nguyên bản gốc "Secure" thêm tiền tố "un" và đuôi "ed" để hình thành Thực Động Cơ [Action Verb Base] dạng phân từ V3/V-ed.</li>
+					<li className="list-none">Hình thái: [unsecured] - Động Cơ [Verb Base] nguyên bản gốc "Secure" thêm tiền tố "un" và đuôi "ed" để hình thành [Hoàn Động Cơ][Perfect Verb Base] dạng phân từ V3/V-ed.</li>
 			
 					<li className="list-none">Chức năng: [unsecured] - Tính Cơ [Adjective Base].</li>
 			
@@ -610,7 +610,7 @@ export default function NineBox1(): React.JSX.Element {
 
 			<p>Sự đồng bộ giữa hai trục Chức năng [Danh - Tính - Trạng] và Cấp độ [Base - Phrase - Clause] tạo ra một bộ lọc ngôn ngữ cực kỳ tinh gọn.</p>
 
-			<p>Khi bạn chuyển đổi cách nhìn sang việc bóc tách Hình thái trước rồi định hình Chức năng dựa trên vị trí và sự phối hợp chuẩn hóa của 6 mảnh ghép phân loại hệ Động—gồm Động Cơ, Thời Động Cơ, Thời Động Cơ Phức, Thực Động Cơ, Thái Động Cơ và Thời-Thực Động Cơ—cùng sự điều hướng của các <strong>Liên Cơ</strong> [<strong>Connector Base</strong>], việc làm chủ hay viết lại bất kỳ câu tiếng Anh chuyên ngành phức tạp nào cũng chỉ còn là việc lắp ráp các khối dữ liệu chuẩn hóa.</p>
+			<p>Khi bạn chuyển đổi cách nhìn sang việc bóc tách Hình thái trước rồi định hình Chức năng dựa trên vị trí và sự phối hợp chuẩn hóa của 6 mảnh ghép phân loại hệ Động gồm Động Cơ, Thời Động Cơ, Thời Động Cơ Phức, Tiếp Động Cơ, Thuần Động Cơ, Hoàn Động Cơ, Thái Động Cơ và Thời-Thuần Động Cơ cùng sự điều hướng của các <strong>Liên Cơ</strong> [<strong>Connector Base</strong>], việc làm chủ hay viết lại bất kỳ câu tiếng Anh chuyên ngành phức tạp nào cũng chỉ còn là việc lắp ráp các khối dữ liệu chuẩn hóa.</p>
 			
 
 			<div className="viewcounter">

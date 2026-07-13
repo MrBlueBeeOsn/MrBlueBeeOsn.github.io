@@ -77,7 +77,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 					<li className="margin-bottom-20 list-none">Khối định danh đối tượng hành động.</li>
 			
 					<li><strong>Head</strong> (<strong>Hạt nhân</strong> / <strong>Bộ nguồn</strong>):</li>
-					<li className="margin-bottom-20 list-none">Khối điều khiển toàn câu, luôn đứng liền kề với S. Head là hạt nhân Thời-Thực Động Cơ [Tense-Action Verb Base], gánh vác bối cảnh thời gian kết hợp logic thực thi hành động để cấp năng lượng cho toàn câu.</li>
+					<li className="margin-bottom-20 list-none">Khối điều khiển toàn câu, luôn đứng liền kề với S. Head là hạt nhân [Thời-Thuần Động Cơ][Tense-Bare Verb Base], gánh vác bối cảnh thời gian kết hợp logic thực thi hành động để cấp năng lượng cho toàn câu.</li>
 			
 					<li><strong>Dependent</strong> (<strong>Phần phụ thuộc</strong>):</li>
 					<li className="list-none">Là <strong>tất cả những gì đứng sau Head</strong>. Chúng mang tư duy "phụ thuộc", sinh ra là để bám vào Head và không bao giờ có thể đứng độc lập một mình.</li>
@@ -91,7 +91,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 
 			<p className="text-indent-whole">Do đó, khi chuyển sang câu phủ định hoặc nghi vấn, khối hạt nhân Head bắt buộc phải thực hiện thao tác tách cấu hình:</p>
 
-			<p className="text-indent-whole">Head → Thời Động Cơ [Tense Verb Base] + Thực Động Cơ [Action Verb Base]</p>
+			<p className="text-indent-whole">Head → Thời Động Cơ [Tense Verb Base] + [Thuần Động Cơ][Bare Verb Base]</p>
 					
 			<p className="text-indent-whole">Vì bản chất Dependent luôn luôn là tất cả những gì đứng sau Head, nên:</p>
 			
@@ -101,7 +101,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 					<li className="margin-bottom-20 list-none">Dependent đứng ngay sau Head tích hợp (will build).</li>
 			
 					<li><strong>Trong câu phủ định</strong>:</li>
-					<li className="list-none">Khi Head tách ra thành Thời + Thực và chèn thêm NOT, cấu trúc ranh giới lúc này được xác lập lại. Phần Thực Động Cơ vẫn nằm trọn vẹn trong cấu hình của bộ nguồn Head, chỉ có chữ not là xen vào giữa. Lúc này, vùng Dependent sẽ dịch chuyển và đứng ngay sau cấu hình Head phủ định (will NOT build).</li>
+					<li className="list-none">Khi Head tách ra thành Thời + Thuần và chèn thêm NOT, cấu trúc ranh giới lúc này được xác lập lại. Phần [Thuần Động Cơ] vẫn nằm trọn vẹn trong cấu hình của bộ nguồn Head, chỉ có chữ not là xen vào giữa. Lúc này, vùng Dependent sẽ dịch chuyển và đứng ngay sau cấu hình Head phủ định (will NOT build).</li>
 			
 				</ul>
 			
@@ -125,14 +125,14 @@ export default function LegoAssembly1(): React.JSX.Element {
 					<li value="3"><strong>Thời Động Cơ Phức</strong> [<strong>Complex Tense Verb Base</strong>]: have been (đã và đang), had been (trước đó đã và đang), will have been (sẽ và đang).</li>
 					<li className="margin-bottom-20 list-none">Hình thái phức hợp gồm nhiều thành tố phối hợp với nhau để gánh vác các bối cảnh thời gian phức tạp hoặc kéo dài từ quá khứ đến hiện tại.</li>
 			
-					<li value="4"><strong>Thực Động Cơ</strong> [<strong>Action Verb Base</strong>]: sleeping/slept (đang ngủ/được ngủ), building/built (đang xây/được xây), driving/driven (đang lái/được lái).</li>
+					<li value="4"><strong>Tiếp, Hoàn Động Cơ</strong> [<strong>Progressive, Perfect  Verb Base</strong>]: sleeping/slept (đang ngủ/được ngủ), building/built (đang xây/được xây), driving/driven (đang lái/được lái).</li>
 					<li className="margin-bottom-20 list-none">Hành động thực thi mang hình thái biến đổi kỹ thuật (bản thân Động Cơ [Verb Base] đã được thêm đuôi -ing để chỉ tính tiếp diễn, hoặc biến đổi sang dạng V3/Ed để chỉ tính hoàn thành/bị động). Khối này chỉ chứa năng lượng hành động thực tế, không có năng lượng thời gian nên không bao giờ được phép đứng làm Head một mình.</li>
 
 					<li value="5"><strong>Thái Động Cơ</strong> [<strong>Modal Verb Base</strong>]: can (có thể), should (nên), must (phải), may/might (có lẽ).</li>
 					<li className="margin-bottom-20 list-none">Khối điều khiển tâm lý, chế độ, khả năng hoặc thái độ của chủ thể đối với hành động đứng sau.</li>
 			
-					<li value="6"><strong>Thời-Thực Động Cơ</strong> [<strong>Tense-Action Verb Base</strong>]: slept (đã ngủ), built (đã xây), drove (đã lái), works (làm việc ở hiện tại), cried (đã khóc).</li>
-					<li className="list-none">Tích hợp Thời + Thực trong một đơn vị. Khối này đóng gói cả năng lượng "Thời gian" và "Hành động" vào trong một từ duy nhất. Dù mang hình thái một từ độc lập, nó vẫn đồng thời thực thi bối cảnh thời gian và bối cảnh thực thi hành động để làm Head của câu.</li>
+					<li value="6"><strong>Thời-Thuần Động Cơ</strong> [<strong>Tense-Bare Verb Base</strong>]: slept (đã ngủ), built (đã xây), drove (đã lái), works (làm việc ở hiện tại), cried (đã khóc).</li>
+					<li className="list-none">Tích hợp Thời + Thuần trong một đơn vị. Khối này đóng gói cả năng lượng "Thời gian" và "Hành động" vào trong một từ duy nhất. Dù mang hình thái một từ độc lập, nó vẫn đồng thời thực thi bối cảnh thời gian và bối cảnh thực thi hành động để làm Head của câu.</li>
 			
 				</ol>
 			
@@ -141,19 +141,19 @@ export default function LegoAssembly1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>are sleeping → Thời Động Cơ are + Thực Động Cơ sleeping</li>
+					<li>are sleeping → Thời Động Cơ are + [Tiếp Động Cơ] sleeping</li>
 			
-					<li>were building → Thời Động Cơ were + Thực Động Cơ building</li>
+					<li>were building → Thời Động Cơ were + [Tiếp Động Cơ] building</li>
 			
-					<li>have driven → Thời Động Cơ have + Thực Động Cơ driven</li>
+					<li>have driven → Thời Động Cơ have + [Hoàn Động Cơ] driven</li>
 
-					<li>have been sleeping → Thời Động Cơ Phức have been + Thực Động Cơ sleeping</li>
+					<li>have been sleeping → Thời Động Cơ Phức have been + [Tiếp Động Cơ] sleeping</li>
 			
-					<li>had been building → Thời Động Cơ Phức had been + Thực Động Cơ building</li>
+					<li>had been building → Thời Động Cơ Phức had been + [Tiếp Động Cơ] building</li>
 			
-					<li>drove → Thời-Thực Động Cơ (Một đơn vị duy nhất tự tích hợp bối cảnh quá khứ và hành động lái xe)</li>
+					<li>drove → Thời-Thuần Động Cơ (Một đơn vị duy nhất tự tích hợp bối cảnh quá khứ và hành động lái xe)</li>
 
-					<li>should drive → Thái Động Cơ should + Động Cơ drive</li>
+					<li>should drive → Thái Động Cơ should + [Thuần Động Cơ] drive</li>
 			
 				</ul>
 
@@ -224,7 +224,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 					<li>[Swimming] is healthy.</li>
 					<li className="margin-bottom-20 list-none">[Việc bơi lội] thì lành mạnh.</li>
 
-					<li className="list-none">Hình thái: [Swimming] - Động Cơ [Verb Base] swim kết hợp với đuôi -ing để tạo nên Thực Động Cơ [Action Verb Base], đóng gói hành động gốc thành một thực thể đơn nhất.</li>
+					<li className="list-none">Hình thái: [Swimming] - Động Cơ [Verb Base] swim kết hợp với đuôi -ing để tạo nên [Tiếp Động Cơ][Progressive Verb Base], đóng gói hành động gốc thành một thực thể đơn nhất.</li>
 
 					<li className="list-none">Chức năng: [Swimming] - Danh Cơ [Noun Base] đóng vai trò làm Danh Chủ để tạo ra trạng thái "is healthy".</li>
 			
@@ -237,7 +237,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 					<li>They enjoy [traveling around the world].</li>
 					<li className="margin-bottom-20 list-none">Họ thích [việc đi du lịch quanh thế giới].</li>
 
-					<li className="list-none">Hình thái: [traveling around the world] - Động Cụm [Verb Phrase] bắt đầu bằng một Thực Động Cơ [Action Verb Base] dạng V-ing (traveling).</li>
+					<li className="list-none">Hình thái: [traveling around the world] - Động Cụm [Verb Phrase] bắt đầu bằng một [Tiếp Động Cơ][Progressive Verb Base] dạng V-ing (traveling).</li>
 
 					<li className="list-none">Chức năng: [traveling around the world] - Danh Cụm [Noun Phrase] đóng vai trò làm phần Danh Nhận, chịu yêu cầu và tác động trực tiếp từ bộ nguồn hành động enjoy.</li>
 			
@@ -253,7 +253,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 
 					<li className="list-none">Hình thái: [where they hid the key] - Động Câu [Verb Clause] chứa Liên Cơ [Connector Base] "where" ở đầu.</li>
 
-					<li className="list-none">Chức năng: [where they hid the key] - Danh Câu [Noun Clause] đóng vai trò làm phần Danh Nhận thông tin đứng sau một Thời-Thực Động Cơ [Tense-Action Verb Base] "discovered".</li>
+					<li className="list-none">Chức năng: [where they hid the key] - Danh Câu [Noun Clause] đóng vai trò làm phần Danh Nhận thông tin đứng sau một [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "discovered".</li>
 			
 				</ul>
 
@@ -298,7 +298,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 					<li>This is a [fascinating] novel.</li>
 					<li className="margin-bottom-20 list-none">Đây là một cuốn tiểu thuyết [hấp dẫn].</li>
 
-					<li className="list-none">Hình thái: [fascinating] - Động Cơ [Verb Base] fascinate được chuyển hóa thông qua đuôi -ing thành Thực Động Cơ [Action Verb Base].</li>
+					<li className="list-none">Hình thái: [fascinating] - Động Cơ [Verb Base] fascinate được chuyển hóa thông qua đuôi -ing thành [Tiếp Động Cơ][Progressive Verb Base].</li>
 
 					<li className="list-none">Chức năng: [fascinating] - Tính Cơ [Adjective Base] đứng trước Danh Cơ [Noun Base] "novel" để bổ nghĩa, làm rõ đặc điểm cho cuốn tiểu thuyết.</li>
 			
@@ -312,7 +312,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 					<li>The chef is [preparing the dessert].</li>
 					<li className="margin-bottom-20 list-none">Người đầu bếp thì [đang chuẩn bị món tráng miệng].</li>
 
-					<li className="list-none">Hình thái: [preparing the dessert] - Động Cụm [Verb Phrase] bắt đầu bằng Thực Động Cơ [Action Verb Base].</li>
+					<li className="list-none">Hình thái: [preparing the dessert] - Động Cụm [Verb Phrase] bắt đầu bằng [Tiếp Động Cơ][Progressive Verb Base].</li>
 
 					<li className="list-none">Chức năng: [preparing the dessert] - Tính Cụm [Adjective Phrase] đóng vai trò làm phần mô tả trực tiếp trạng thái của Danh Chủ "The chef".</li>
 			
@@ -431,7 +431,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 
 					<li className="list-none">Hình thái: [beautifully] - Động Cơ [Verb Base] beauty kết hợp với hậu tố tạo tính từ -ful và hậu tố trạng từ -ly để định hình trạng thái.</li>
 
-					<li className="list-none">Chức năng: [beautifully] - Trạng Cơ [Adverb Base] bổ nghĩa cho Thời-Thực Động Cơ [Tense-Action Verb Base] hành động "sang", mô tả cách thức hành động được thực hiện.</li>
+					<li className="list-none">Chức năng: [beautifully] - Trạng Cơ [Adverb Base] bổ nghĩa cho [Thời-Thuần Động Cơ][Tense-Bare Verb Base] hành động "sang", mô tả cách thức hành động được thực hiện.</li>
 			
 				</ul>
 
@@ -557,9 +557,9 @@ export default function LegoAssembly1(): React.JSX.Element {
 					<li>Doctors recommend [eating more vegetables].</li>
 					<li className="margin-bottom-20 list-none">Bác sĩ khuyến nghị [việc ăn nhiều rau hơn].</li>
 			
-					<li className="list-none">Hình thái: [eating more vegetables] - Động Cụm [Verb Phrase] bắt đầu bằng Thực Động Cơ [Action Verb Base].</li>
+					<li className="list-none">Hình thái: [eating more vegetables] - Động Cụm [Verb Phrase] bắt đầu bằng [Tiếp Động Cơ][Progressive Verb Base].</li>
 
-					<li className="list-none">Chức năng: [eating more vegetables] - Danh Cụm [Noun Phrase] đảm nhiệm vai trò làm Danh Nhận đứng sau Thời-Thực Động Cơ [Tense-Action Verb Base] "recommend".</li>
+					<li className="list-none">Chức năng: [eating more vegetables] - Danh Cụm [Noun Phrase] đảm nhiệm vai trò làm Danh Nhận đứng sau [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "recommend".</li>
 			
 				</ul>
 			
@@ -614,12 +614,12 @@ export default function LegoAssembly1(): React.JSX.Element {
 
 			<h3 className="margin-y-50 text-center">6. Tuyệt Chiêu "Đảo Khối": Phủ Định & Nghi Vấn Trong 1 Nốt Nhạc</h3>
 
-			<p>Khi đã coi câu là các khối Lego, việc chuyển sang phủ định hay câu hỏi trở nên cực kỳ trực quan nhờ cơ chế vận hành của hạt nhân Thời-Thực Động Cơ [Tense-Action Verb Base]. Bạn không cần nhớ công thức mới, chỉ cần thực hiện thao tác tách và dịch chuyển các khối cấu thành từ Head.</p>
+			<p>Khi đã coi câu là các khối Lego, việc chuyển sang phủ định hay câu hỏi trở nên cực kỳ trực quan nhờ cơ chế vận hành của hạt nhân [Thời-Thuần Động Cơ][Tense-Bare Verb Base]. Bạn không cần nhớ công thức mới, chỉ cần thực hiện thao tác tách và dịch chuyển các khối cấu thành từ Head.</p>
 
 
 			<h5 className="margin-y-30">Luật Phủ định: Chốt chặn "NOT" sau Thời Động Cơ</h5>
 			
-			<p className="text-indent-whole">Khi thêm phủ định, hạt nhân Head tự động tách ra làm hai: Thời Động Cơ [Tense Verb Base] đứng trước và Thực Động Cơ [Action Verb Base] đi kèm phía sau. Bạn chỉ việc nhét khối NOT vào ngay sau Thời Động Cơ. Lúc này, toàn bộ khối will NOT build đảm nhiệm trọn vẹn vai trò là cấu hình Head phủ định, và phần Dependent sẽ bắt đầu tính từ ngay phía sau khối này.</p>
+			<p className="text-indent-whole">Khi thêm phủ định, hạt nhân Head tự động tách ra làm hai: [Áp-Thái Động Cơ][Assertive-Modal Verb Base] đứng trước và [Thuần Động Cơ][Bare Verb Base] đi kèm phía sau. Bạn chỉ việc nhét khối NOT vào ngay sau Thời Động Cơ. Lúc này, toàn bộ khối will NOT build đảm nhiệm trọn vẹn vai trò là cấu hình Head phủ định, và phần Dependent sẽ bắt đầu tính từ ngay phía sau khối này.</p>
 			
 				<ul className="list-square">
 			
@@ -634,7 +634,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 
 			<h5 className="margin-y-30">Luật Nghi vấn: Nhấc Thời Động Cơ lên đầu câu lớn</h5>
 
-			<p className="text-indent-whole">Khi chuyển sang câu hỏi, Head cũng thực hiện tách khối. Bạn chỉ cần nhấc riêng thành phần Thời Động Cơ [Tense Verb Base] đặt ra trước Danh Chủ, để lại phần Thực Động Cơ ở phía sau.</p>
+			<p className="text-indent-whole">Khi chuyển sang câu hỏi, Head cũng thực hiện tách khối. Bạn chỉ cần nhấc riêng thành phần Thời Động Cơ [Tense Verb Base] đặt ra trước Danh Chủ, để lại phần [Thuần Động Cơ] ở phía sau.</p>
 			
 				<ul className="list-square">
 			
@@ -649,10 +649,10 @@ export default function LegoAssembly1(): React.JSX.Element {
 
 			<h4 className="margin-y-40">Bí mật của "Head Tàng Hình" (Tích hợp ngầm)</h4>
 					
-			<p className="text-indent-whole">Ở thể khẳng định của một số câu đơn giản ở hiện tại hoặc quá khứ, các Thời Động Cơ đơn lẻ (do/does/did) mang đặc tính "nuốt" vào trong Thực Động Cơ để đóng gói thành một từ duy nhất (ví dụ: bối cảnh quá khứ kết hợp với hành động drive tạo thành drove).</p>
+			<p className="text-indent-whole">Ở thể khẳng định của một số câu đơn giản ở hiện tại hoặc quá khứ, các Thời Động Cơ đơn lẻ (do/does/did) mang đặc tính "nuốt" vào trong [Thuần Động Cơ] để đóng gói thành một từ duy nhất (ví dụ: bối cảnh quá khứ kết hợp với hành động drive tạo thành drove).</p>
 			
 
-			<p className="margin-top-20 text-indent-whole">Nhưng khi làm câu Phủ định hoặc Nghi vấn, bộ khung này bắt buộc phải thực hiện thao tác tách khối để lộ diện rõ ràng cấu hình: Head gồm Thời Động Cơ [Tense Verb Base] + Thực Động Cơ [Action Verb Base]:</p>
+			<p className="margin-top-20 text-indent-whole">Nhưng khi làm câu Phủ định hoặc Nghi vấn, bộ khung này bắt buộc phải thực hiện thao tác tách khối để lộ diện rõ ràng cấu hình: Head gồm Thời Động Cơ [Tense Verb Base] + [Thuần Động Cơ][Bare Verb Base]:</p>
 			
 				<ul className="list-square">
 			
@@ -678,7 +678,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 				<ol>
 			
 					<li value="1"><strong>Sửa lỗi kiến trúc ngay lập tức</strong>:</li>
-					<li className="margin-bottom-20 list-none">Bạn sẽ nhận ra ngay tại sao câu "She sleeping" hay "I driven the car" lại sai. Chúng sai vì có Danh Chủ và có một Thực Động Cơ [Action Verb Base], nhưng lại thiếu mất Thời Động Cơ [Tense Verb Base] đi kèm để tạo nên một hạt nhân Head đúng nghĩa! Bộ não của bạn sẽ tự động "báo lỗi" cơ học và buộc bạn phải tích hợp đủ hai thành phần để cấp nguồn vào: "She is sleeping" hoặc "I have driven the car".</li>
+					<li className="margin-bottom-20 list-none">Bạn sẽ nhận ra ngay tại sao câu "She sleeping" hay "I driven the car" lại sai. Chúng sai vì có Danh Chủ và có một [Tiếp Động Cơ][Progressive Verb Base], nhưng lại thiếu mất Thời Động Cơ [Tense Verb Base] đi kèm để tạo nên một hạt nhân Head đúng nghĩa! Bộ não của bạn sẽ tự động "báo lỗi" cơ học và buộc bạn phải tích hợp đủ hai thành phần để cấp nguồn vào: "She is sleeping" hoặc "I have driven the car".</li>
 			
 					<li value="2"><strong>Đóng gói dữ liệu thần tốc</strong> (<strong>Chunking</strong>):</li>
 					<li className="list-none">Khi nói hoặc viết, bạn không dịch lạch cạch từng khối cấu trúc đơn lẻ một cách rời rạc. Bộ não của bạn chỉ làm 2 việc: Xác định hạt nhân Head (am... / will... / drove...) và nhấc nguyên một hộp Cơ, Cụm (Động/Giới), hoặc Câu tương ứng với ý mình muốn nói để ném vào vị trí Dependent phía sau. Tốc độ phản xạ sẽ tăng lên gấp nhiều lần.</li>
