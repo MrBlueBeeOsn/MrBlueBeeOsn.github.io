@@ -48,7 +48,7 @@ export default function SuperWords4(): React.JSX.Element {
 
 			</h1>
 
-			<h4 className="margin-bottom-30 text-center">Siêu Danh Cơ, Siêu Tính Cơ Và Siêu Trạng Cơ: Một Cách Nhìn Mới Về Câu Con Tiếng Anh</h4>
+			<h4 className="margin-bottom-30 text-center">Siêu Danh Cơ, Siêu [Tính Cơ] Và Siêu Trạng Cơ: Một Cách Nhìn Mới Về Câu Con Tiếng Anh</h4>
 
 			<p></p>
 
@@ -74,7 +74,7 @@ export default function SuperWords4(): React.JSX.Element {
 
 			{/* 3.  */}
 
-			<h3 className="margin-y-50 text-center">3. Siêu Danh Cơ (Noun Clause)</h3>
+			<h3 className="margin-y-50 text-center">3. Siêu [Danh Cơ] (Noun Clause)</h3>
 
 			<p></p>
 
@@ -83,7 +83,7 @@ export default function SuperWords4(): React.JSX.Element {
 
 			{/* 4.  */}
 
-			<h3 className="margin-y-50 text-center">4. Siêu Tính Cơ (Adjective Clause)</h3>
+			<h3 className="margin-y-50 text-center">4. Siêu [Tính Cơ] (Adjective Clause)</h3>
 
 			<p></p>
 
@@ -92,7 +92,7 @@ export default function SuperWords4(): React.JSX.Element {
 
 			{/* 5.  */}
 
-			<h3 className="margin-y-50 text-center">5. Siêu Trạng Cơ (Adverb Clause)</h3>
+			<h3 className="margin-y-50 text-center">5. Siêu [Trạng Cơ] (Adverb Clause)</h3>
 
 			<p></p>
 			

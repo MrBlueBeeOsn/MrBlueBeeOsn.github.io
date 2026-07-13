@@ -48,7 +48,7 @@ export default function SuperWords6(): React.JSX.Element {
 
 			</h1>
 
-			<h4 className="margin-bottom-30 text-center">Siêu Danh Cơ Siêu Tính Cơ Siêu Trạng Cơ</h4>
+			<h4 className="margin-bottom-30 text-center">Siêu [Danh Cơ] Siêu [Tính Cơ] Siêu Trạng Cơ</h4>
 
 			<p></p>
 

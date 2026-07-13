@@ -67,7 +67,7 @@ export default function NestedStructure1(): React.JSX.Element {
 
 			<p>Sai lầm lớn nhất khi học tiếng Anh là đánh đồng <strong>Hình thái</strong> (<strong>Diện mạo khối mã trông như thế nào</strong>) với <strong>Chức năng</strong> (<strong>Khối mã đó dùng để làm gì</strong>).</p>
 
-			<p>Người học thông thường chỉ nhìn thấy Hình thái (hạt nhân Động Cơ, Giới Cơ hoặc các vùng mở rộng) mà không hề biết Chức năng của nó cho đến khi đặt vào hệ thống vận hành.</p>
+			<p>Người học thông thường chỉ nhìn thấy Hình thái (hạt nhân Động Cơ, [Giới Cơ] hoặc các vùng mở rộng) mà không hề biết Chức năng của nó cho đến khi đặt vào hệ thống vận hành.</p>
 
 			<p>Hệ thống mới thiết lập một bản vẽ nhị phân cực kỳ nhất quán theo hai chiều:</p>
 			
@@ -95,28 +95,28 @@ export default function NestedStructure1(): React.JSX.Element {
 
 			<h4 className="margin-y-40">Phân Loại Động Cơ: 6 Lớp Xử Lý Dữ Liệu Hành Động</h4>
 					
-			<p className="text-indent-whole">Mọi hành động xuất phát từ gốc Động Cơ sẽ được phân rã thành các phân nhánh kỹ thuật chuyên biệt để cấu hình nội bộ (configuration) cho module.</p>
+			<p className="text-indent-whole">Mọi hành động xuất phát từ gốc [Động Cơ] sẽ được phân rã thành các phân nhánh kỹ thuật chuyên biệt để cấu hình nội bộ (configuration) cho module.</p>
 
 			<p className="margin-top-20 text-indent-whole">Hệ thống được chia tách rõ ràng thành 6 loại hình thái:</p>
 			
 				<ol>
 			
-					<li value="1"><strong>Động Cơ</strong> [<strong>Verb Base</strong>]: run, write, go, look</li>
+					<li value="1">[<strong>Động Cơ</strong>][<strong>Verb Base</strong>]: run, write, go, look</li>
 					<li className="margin-bottom-20 list-none">Nguyên bản gốc (Class cha/Root Class) của mọi hành động, chưa bị can thiệp bởi bất kỳ bộ lọc thời gian hay chế độ nào.</li>
 			
-					<li value="2"><strong>Thời Động Cơ</strong> [<strong>Tense Verb Base</strong>]: is, was, has, had, will, have</li>
+					<li value="2">[<strong>Thời Động Cơ</strong>][<strong>Tense Verb Base</strong>]: is, was, has, had, will, have</li>
 					<li className="margin-bottom-20 list-none">Bộ xử lý bối cảnh thời gian của hệ thống, chịu trách nhiệm xác lập mốc thời gian diễn ra của hành động trong câu.</li>
 
-					<li value="3"><strong>Thời Động Cơ Phức</strong> [<strong>Complex Tense Verb Base</strong>]: had been, has been</li>
+					<li value="3">[<strong>Thời Hoàn Động Cơ</strong>][<strong>Complex Tense Verb Base</strong>]: had been, has been</li>
 					<li className="margin-bottom-20 list-none">Tổ hợp liên kết đa thành phần chuyên xử lý bối cảnh thời gian ở mức độ chuyên sâu, quản lý các khung thời gian mang tính tiếp diễn kéo dài hoặc hoàn thành.</li>
 			
-					<li value="4"><strong>Tiếp, Hoàn Động Cơ</strong> [<strong>Progressive, Perfect  Verb Base</strong>]: running, written, going (V-ing / V3)</li>
+					<li value="4">[<strong>Tiếp, Hoàn Động Cơ</strong>][<strong>Progressive, Perfect  Verb Base</strong>]: running, written, going (V-ing / V3)</li>
 					<li className="margin-bottom-20 list-none">Hành động thực thi, chịu trách nhiệm mang ngữ nghĩa cốt lõi của module và biểu thị tính chất trạng thái (đang diễn ra hoặc bị tác động).</li>
 
-					<li value="5"><strong>Thái Động Cơ</strong> [<strong>Modal Verb Base</strong>]: must, can, should, may, might</li>
+					<li value="5">[<strong>Thái Động Cơ</strong>][<strong>Modal Verb Base</strong>]: must, can, should, may, might</li>
 					<li className="margin-bottom-20 list-none">Bộ xử lý chế độ / thái độ, thiết lập tính chất khả năng, điều kiện hoặc mức độ cam kết của hành động.</li>
 			
-					<li value="6"><strong>Thời-Thuần Động Cơ</strong> [<strong>Tense-Bare Verb Base</strong>]: ran, wrote, went, called, said</li>
+					<li value="6">[<strong>Thời-Thuần Động Cơ</strong>][<strong>Tense-Bare Verb Base</strong>]: ran, wrote, went, called, said</li>
 					<li className="list-none">Đơn vị hành động tích hợp (Đóng gói Thời + Thuần), nén cả mốc thời gian và ngữ nghĩa thực thi vào làm một thực thể duy nhất.</li>
 			
 				</ol>
@@ -126,19 +126,19 @@ export default function NestedStructure1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>is running → Thời Động Cơ "is" + [Tiếp Động Cơ] "running"</li>
+					<li>is running → [Thời Động Cơ] "is" + [Tiếp Động Cơ] "running"</li>
 
-					<li>was running → Thời Động Cơ "was" + [Tiếp Động Cơ] "running"</li>
+					<li>was running → [Thời Động Cơ] "was" + [Tiếp Động Cơ] "running"</li>
 
-					<li>has written → Thời Động Cơ "has" + [Hoàn Động Cơ] "written"</li>
+					<li>has written → [Thời Động Cơ] "has" + [Hoàn Động Cơ] "written"</li>
 			
-					<li>had been running → Thời Động Cơ Phức "had been" + [Tiếp Động Cơ] "running"</li>
+					<li>had been running → [Thời Hoàn Động Cơ] "had been" + [Tiếp Động Cơ] "running"</li>
 
-					<li>has been writing → Thời Động Cơ Phức "has been" + [Tiếp Động Cơ] "writing"</li>
+					<li>has been writing → [Thời Hoàn Động Cơ] "has been" + [Tiếp Động Cơ] "writing"</li>
 			
 					<li>ran → Thời-Thuần Động Cơ (một đơn vị nén tích hợp cả hai)</li>
 
-					<li>must write → Thái Động Cơ "must" + [Thuần Động Cơ] "write"</li>
+					<li>must write → [Áp-Thái Thuần Động Cơ] "must" + [Thuần Động Cơ] "write"</li>
 			
 				</ul>
 
@@ -164,7 +164,7 @@ export default function NestedStructure1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>Vòng đóng gói luôn bắt đầu ngay từ phần tử Động Cơ vận hành trực tiếp module đó, hoặc bắt đầu ngay từ từ định vị (Giới Cơ) của vùng mã.</li>
+					<li>Vòng đóng gói luôn bắt đầu ngay từ phần tử [Động Cơ] vận hành trực tiếp module đó, hoặc bắt đầu ngay từ từ định vị (Giới Cơ) của vùng mã.</li>
 			
 					<li>Động Cơ điều khiển tổng của toàn bộ câu sẽ nằm ngoài [] nếu nó trực tiếp điều phối Module thực thi lớn đó.</li>
 			
@@ -179,7 +179,7 @@ export default function NestedStructure1(): React.JSX.Element {
 			<p>Hãy cùng xem cách người học nhìn nhận <strong>Hình thái</strong> trước, rồi mới giải mã <strong>Chức năng</strong> dựa trên vị trí xuất hiện trong câu thông qua các phân hệ chuẩn hóa:</p>
 
 
-			<h4 className="margin-y-40">A. Phân hệ Động Cơ [Verb Base]</h4>
+			<h4 className="margin-y-40">A. Phân hệ [Động Cơ][Verb Base]</h4>
 
 			<p className="text-indent-whole">Khi nhìn vào một từ đơn hành động, người học nhận diện diện mạo vật lý gốc của nó thuộc 1 trong 6 loại Động Cơ.</p>
 
@@ -193,23 +193,23 @@ export default function NestedStructure1(): React.JSX.Element {
 					<li>[Smoking] is unhealthy.</li>
 					<li className="margin-bottom-20 list-none">[Việc hút thuốc] thì không tốt cho sức khỏe.</li>
 
-					<li className="list-none">Hình thái: [Smoking] - Động Cơ [Verb Base] xuất hiện dưới dạng từ đơn kết thúc bằng đuôi tinh chỉnh -ing.</li>
+					<li className="list-none">Hình thái: [Smoking] - [Động Cơ][Verb Base] xuất hiện dưới dạng từ đơn kết thúc bằng đuôi tinh chỉnh -ing.</li>
 
-					<li className="list-none">Chức năng: [Smoking] - Danh Cơ [Noun Base] đảm nhận nhiệm vụ làm Danh Chủ ở đầu câu để định danh cho một hoạt động.</li>
+					<li className="list-none">Chức năng: [Smoking] - [Danh Cơ][Noun Base] đảm nhận nhiệm vụ làm Danh Chủ ở đầu câu để định danh cho một hoạt động.</li>
 			
 				</ul>
 			
 			
-			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 2</strong>: <strong>Hình thành chức năng Tính Cơ</strong> [<strong>Adjective Base</strong>]:</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 2</strong>: <strong>Hình thành chức năng</strong> [<strong>Tính Cơ</strong>] [<strong>Adjective Base</strong>] [<strong>Adjective Base</strong>]:</p>
 
 				<ul className="list-square">
 			
 					<li>I received a [written] report.</li>
 					<li className="margin-bottom-20 list-none">Tôi đã nhận được một bản báo cáo [bằng văn bản].</li>
 
-					<li className="list-none">Hình thái: [written] - Động Cơ [Verb Base] biểu hiện dưới dạng hạt nhân hành động V3 mang trạng thái bị động.</li>
+					<li className="list-none">Hình thái: [written] - [Động Cơ][Verb Base] biểu hiện dưới dạng hạt nhân hành động V3 mang trạng thái bị động.</li>
 					
-					<li className="list-none">Chức năng: [written] - Tính Cơ [Adjective Base] kích hoạt cơ chế của bộ quét đặt ngay trước đối tượng report để hiển thị đặc điểm vật lý của đối tượng đó.</li>
+					<li className="list-none">Chức năng: [written] - [Tính Cơ][Adjective Base] kích hoạt cơ chế của bộ quét đặt ngay trước đối tượng report để hiển thị đặc điểm vật lý của đối tượng đó.</li>
 			
 				</ul>
 			
@@ -221,17 +221,17 @@ export default function NestedStructure1(): React.JSX.Element {
 					<li>He spoke [excitedly].</li>
 					<li className="margin-bottom-20 list-none">Anh ấy đã nói một cách [đầy hứng khởi].</li>
 
-					<li className="list-none">Hình thái: [excitedly] - Động Cơ [Verb Base] nguyên bản excite được tinh chỉnh qua bộ lọc thêm đuôi -edly để tạo ra một từ đơn hành động mang tính chất bổ trợ trạng thái.</li>
+					<li className="list-none">Hình thái: [excitedly] - [Động Cơ][Verb Base] nguyên bản excite được tinh chỉnh qua bộ lọc thêm đuôi -edly để tạo ra một từ đơn hành động mang tính chất bổ trợ trạng thái.</li>
 
-					<li className="list-none">Chức năng: [excitedly] - Trạng Cơ [Adverb Base] thực thi vai trò bổ nghĩa đứng ngay sau hành động spoke để xác định bối cảnh phương thức, cách thức sự việc diễn ra.</li>
+					<li className="list-none">Chức năng: [excitedly] - [Trạng Cơ][Adverb Base] thực thi vai trò bổ nghĩa đứng ngay sau hành động spoke để xác định bối cảnh phương thức, cách thức sự việc diễn ra.</li>
 			
 				</ul>
 			
 
 
-			<h4 className="margin-y-40">B. Phân hệ Động Cụm [Verb Phrase]</h4>
+			<h4 className="margin-y-40">B. Phân hệ [Động Cụm][Verb Phrase]</h4>
 
-			<p className="text-indent-whole">Khi người học nhìn thấy một vùng mã chứa nhiều từ đi kèm hành động, họ nhận diện ngay diện mạo vật lý Động Cụm [Verb Phrase].</p>
+			<p className="text-indent-whole">Khi người học nhìn thấy một vùng mã chứa nhiều từ đi kèm hành động, họ nhận diện ngay diện mạo vật lý [Động Cụm][Verb Phrase].</p>
 
 			<p className="text-indent-whole">Khối hình thái này sẽ hình thành đầy đủ 3 chương trình chức năng đầu ra:</p>
 
@@ -243,9 +243,9 @@ export default function NestedStructure1(): React.JSX.Element {
 					<li>[Building the system] requires expertise.</li>
 					<li className="margin-bottom-20 list-none">[Việc xây dựng hệ thống] đòi hỏi chuyên môn.</li>
 
-					<li className="list-none">Hình thái: [Building the system] — Động Cụm [Verb Phrase] bắt đầu bằng [Tiếp Động Cơ][Progressive Verb Base] đã được tinh chỉnh qua bộ lọc đuôi -ing (Building) kéo dài cho đến hết đối tượng của nó.</li>
+					<li className="list-none">Hình thái: [Building the system] — [Động Cụm][Verb Phrase] bắt đầu bằng [Tiếp Động Cơ][Progressive Verb Base] đã được tinh chỉnh qua bộ lọc đuôi -ing (Building) kéo dài cho đến hết đối tượng của nó.</li>
 
-					<li className="list-none">Chức năng: [Building the system] — Danh Cụm [Noun Phrase] đóng vai trò làm một khối đầu việc lớn đứng ở tiền tuyến để làm Danh Chủ [Noun Subject] điều phối dòng lệnh requires của câu.</li>
+					<li className="list-none">Chức năng: [Building the system] — [Danh Cụm][Noun Phrase] đóng vai trò làm một khối đầu việc lớn đứng ở tiền tuyến để làm Danh Chủ [Noun Subject] điều phối dòng lệnh requires của câu.</li>
 			
 				</ul>
 
@@ -256,9 +256,9 @@ export default function NestedStructure1(): React.JSX.Element {
 					<li>The system [built by them] works well.</li>
 					<li className="margin-bottom-20 list-none">Hệ thống [được xây dựng bởi họ] thì hoạt động tốt.</li>
 			
-					<li className="list-none">Hình thái: [built by them] - Động Cụm [Verb Phrase] hiển thị dưới dạng một vùng mã chứa [Hoàn Động Cơ][Perfect Verb Base] built bị động và phần mở rộng chủ thể.</li>
+					<li className="list-none">Hình thái: [built by them] - [Động Cụm][Verb Phrase] hiển thị dưới dạng một vùng mã chứa [Hoàn Động Cơ][Perfect Verb Base] built bị động và phần mở rộng chủ thể.</li>
 			
-					<li className="list-none">Chức năng: [built by them] - Tính Cụm [Adjective Phrase] kích hoạt cơ chế bộ quét đặt ngay sau đối tượng system để mô tả đặc điểm trạng thái của đối tượng đó.</li>
+					<li className="list-none">Chức năng: [built by them] - [Tính Cụm][Adjective Phrase] kích hoạt cơ chế bộ quét đặt ngay sau đối tượng system để mô tả đặc điểm trạng thái của đối tượng đó.</li>
 			
 				</ul>
 			
@@ -270,17 +270,17 @@ export default function NestedStructure1(): React.JSX.Element {
 					<li>She studied hard [to pass the exam].</li>
 					<li className="margin-bottom-20 list-none">Cô ấy đã học tập chăm chỉ [để vượt qua kỳ thi].</li>
 			
-					<li className="list-none">Hình thái: [to pass the exam] - Động Cụm [Verb Phrase] định hình dưới dạng một vùng mã hành động mở rộng bắt đầu bằng Động Cơ [Verb Base] dạng nguyên bản có to.</li>
+					<li className="list-none">Hình thái: [to pass the exam] - [Động Cụm][Verb Phrase] định hình dưới dạng một vùng mã hành động mở rộng bắt đầu bằng [Động Cơ][Verb Base] dạng nguyên bản có to.</li>
 			
-					<li className="list-none">Chức năng: [to pass the exam] - Trạng Cụm [Adverb Phrase] đảm nhận vai trò làm một khối bối cảnh mục đích đứng sau bổ nghĩa cho hành động.</li>
+					<li className="list-none">Chức năng: [to pass the exam] - [Trạng Cụm][Adverb Phrase] đảm nhận vai trò làm một khối bối cảnh mục đích đứng sau bổ nghĩa cho hành động.</li>
 			
 				</ul>
 			
 
 			
-			<h4 className="margin-y-40">C. Phân hệ Giới Cụm [Prepositional Phrase]</h4>
+			<h4 className="margin-y-40">C. Phân hệ [Giới Cụm][Prepositional Phrase]</h4>
 					
-			<p className="text-indent-whole">Khi người học nhìn thấy một vùng mã mở rộng bắt đầu bằng một từ định vị (Giới Cơ) kéo theo một khối tên gọi phía sau, họ nhận diện ngay diện mạo vật lý Giới Cụm [Prepositional Phrase].</p>
+			<p className="text-indent-whole">Khi người học nhìn thấy một vùng mã mở rộng bắt đầu bằng một từ định vị (Giới Cơ) kéo theo một khối tên gọi phía sau, họ nhận diện ngay diện mạo vật lý [Giới Cụm][Prepositional Phrase].</p>
 
 			<p className="text-indent-whole">Khối hình thái này không tạo ra dữ liệu đầu việc (Danh) mà chỉ chuyên biệt hình thành nên 2 chương trình chức năng:</p>
 
@@ -292,9 +292,9 @@ export default function NestedStructure1(): React.JSX.Element {
 					<li>The tools [in this room] are modern.</li>
 					<li className="margin-bottom-20 list-none">Các công cụ [ở trong căn phòng này] thì hiện đại.</li>
 			
-					<li className="list-none">Hình thái: [in this room] - Giới Cụm [Prepositional Phrase] xuất hiện dưới dạng một vùng mã định vị không chứa hạt nhân hành động.</li>
+					<li className="list-none">Hình thái: [in this room] - [Giới Cụm][Prepositional Phrase] xuất hiện dưới dạng một vùng mã định vị không chứa hạt nhân hành động.</li>
 			
-					<li className="list-none">Chức năng: [in this room] - Tính Cụm [Adjective Phrase] vận hành như một bộ quét đặt ngay phía sau đối tượng tools để hiển thị và mô tả đặc điểm phạm vi thuộc về của đối tượng đó.</li>
+					<li className="list-none">Chức năng: [in this room] - [Tính Cụm][Adjective Phrase] vận hành như một bộ quét đặt ngay phía sau đối tượng tools để hiển thị và mô tả đặc điểm phạm vi thuộc về của đối tượng đó.</li>
 			
 				</ul>
 			
@@ -306,9 +306,9 @@ export default function NestedStructure1(): React.JSX.Element {
 					<li>We study [at the library].</li>
 					<li className="margin-bottom-20 list-none">Chúng tôi học [ở thư viện].</li>
 			
-					<li className="list-none">Hình thái: [at the library] - Giới Cụm [Prepositional Phrase] xuất hiện dưới dạng một vùng mã xác lập không gian.</li>
+					<li className="list-none">Hình thái: [at the library] - [Giới Cụm][Prepositional Phrase] xuất hiện dưới dạng một vùng mã xác lập không gian.</li>
 			
-					<li className="list-none">Chức năng: [at the library] - Trạng Cụm [Adverb Phrase] đảm nhiệm vai trò làm một khối bối cảnh địa điểm đứng sau hành động để xác định địa điểm diễn ra sự việc.</li>
+					<li className="list-none">Chức năng: [at the library] - [Trạng Cụm][Adverb Phrase] đảm nhiệm vai trò làm một khối bối cảnh địa điểm đứng sau hành động để xác định địa điểm diễn ra sự việc.</li>
 			
 				</ul>
 			
@@ -319,7 +319,7 @@ export default function NestedStructure1(): React.JSX.Element {
 			<p className="text-indent-whole">Khi hệ thống vận hành ở mức độ phức tạp, các khối mã sẽ lồng vào nhau tạo nên các cấu trúc phân tầng tối tân.</p>
 
 
-			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 9</strong>: <strong>Danh Cụm Phân Tầng</strong> [<strong>Nested Noun Phrase</strong>]:</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 9</strong>: [<strong>Danh Cụm Phân Tầng</strong>][<strong>Nested Noun Phrase</strong>]:</p>
 			
 				<ul className="list-square">
 			
@@ -332,9 +332,9 @@ export default function NestedStructure1(): React.JSX.Element {
 			
 					<ul className="list-square">
 				
-						<li className="list-none">Hình thái: [Discussing {'{how we can build this app}'}] - Động Cụm [Verb Phrase] biểu thị dưới dạng vùng mã lớn bắt đầu bằng [Tiếp Động Cơ] tinh chỉnh đuôi -ing (Discussing) đứng ở đầu câu.</li>
+						<li className="list-none">Hình thái: [Discussing {'{how we can build this app}'}] - [Động Cụm][Verb Phrase] biểu thị dưới dạng vùng mã lớn bắt đầu bằng [Tiếp Động Cơ] tinh chỉnh đuôi -ing (Discussing) đứng ở đầu câu.</li>
 
-						<li className="list-none">Chức năng: [Discussing {'{how we can build this app}'}] - <strong>Danh Cụm</strong> [<strong>Noun Phrase</strong>] đóng vai trò làm một phân hệ đầu việc lớn đóng vai trò Danh Chủ [Noun Subject] điều phối toàn bộ câu.</li>
+						<li className="list-none">Chức năng: [Discussing {'{how we can build this app}'}] - [<strong>Danh Cụm</strong>][<strong>Noun Phrase</strong>] đóng vai trò làm một phân hệ đầu việc lớn đóng vai trò Danh Chủ [Noun Subject] điều phối toàn bộ câu.</li>
 				
 					</ul>
 
@@ -343,15 +343,15 @@ export default function NestedStructure1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li className="list-none">Hình thái: {'{how we can build this app}'} - Động Câu [Verb Clause] định hình dưới dạng khối mã con nằm gọn bên trong, chứa đầy đủ Danh Chủ riêng we và các phân nhánh hành động riêng bao gồm can (Thái Động Cơ) và build (Động Cơ).</li>
+					<li className="list-none">Hình thái: {'{how we can build this app}'} - [Động Câu][Verb Clause] định hình dưới dạng khối mã con nằm gọn bên trong, chứa đầy đủ Danh Chủ riêng we và các phân nhánh hành động riêng bao gồm can (Thái Động Cơ) và build (Động Cơ).</li>
 
-					<li className="list-none">Chức năng: {'{how we can build this app}'} - Danh Câu [Noun Clause] đóng vai trò làm Danh Nhận (nạp tham số dữ liệu đầu vào) chịu sự điều phối trực tiếp của phân hệ ngoài.</li>
+					<li className="list-none">Chức năng: {'{how we can build this app}'} - [Danh Câu][Noun Clause] đóng vai trò làm Danh Nhận (nạp tham số dữ liệu đầu vào) chịu sự điều phối trực tiếp của phân hệ ngoài.</li>
 			
 				</ul>
 			
 
 
-			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 10</strong>: <strong>Tính Cụm Phân Tầng</strong> [<strong>Nested Adjective Phrase</strong>]:</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 10</strong>: [<strong>Tính Cụm Phân Tầng</strong>][<strong>Nested Adjective Phrase</strong>]:</p>
 			
 				<ul className="list-square">
 			
@@ -364,9 +364,9 @@ export default function NestedStructure1(): React.JSX.Element {
 			
 					<ul className="list-square">
 				
-						<li className="list-none">Hình thái: [about {'{how this team won}'}] - Giới Cụm [Prepositional Phrase] biểu thị dưới dạng một vùng mã lớn bắt đầu bằng Giới Cơ about.</li>
+						<li className="list-none">Hình thái: [about {'{how this team won}'}] - [Giới Cụm][Prepositional Phrase] biểu thị dưới dạng một vùng mã lớn bắt đầu bằng [Giới Cơ] about.</li>
 
-						<li className="list-none">Chức năng: [about {'{how this team won}'}] - <strong>Tính Cụm</strong> [<strong>Adjective Phrase</strong>] vận hành như một bộ lọc tổng thể đặt ngay phía sau để mô tả đặc điểm nội dung cho Danh Cụm "The news" đứng trước nó.</li>
+						<li className="list-none">Chức năng: [about {'{how this team won}'}] - [<strong>Tính Cụm</strong>][<strong>Adjective Phrase</strong>] vận hành như một bộ lọc tổng thể đặt ngay phía sau để mô tả đặc điểm nội dung cho [Danh Cụm] "The news" đứng trước nó.</li>
 				
 					</ul>
 
@@ -375,15 +375,15 @@ export default function NestedStructure1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li className="list-none">Hình thái: {'{how this team won}'} - Động Câu [Verb Clause] định hình dưới dạng khối mã con nằm gọn bên trong, chứa Danh Chủ this team và [Thời-Thuần Động Cơ][Tense-Bare Verb Base] won thiết lập cấu hình tích hợp thời quá khứ.</li>
+					<li className="list-none">Hình thái: {'{how this team won}'} - [Động Câu][Verb Clause] định hình dưới dạng khối mã con nằm gọn bên trong, chứa Danh Chủ this team và [Thời-Thuần Động Cơ][Tense-Bare Verb Base] won thiết lập cấu hình tích hợp thời quá khứ.</li>
 
-					<li className="list-none">Chức năng: {'{how this team won}'} - Danh Câu [Noun Clause] đóng vai trò làm Danh Nhận chịu sự điều phối trực tiếp của Giới Cơ about ở tầng ngoài.</li>
+					<li className="list-none">Chức năng: {'{how this team won}'} - [Danh Câu][Noun Clause] đóng vai trò làm Danh Nhận chịu sự điều phối trực tiếp của [Giới Cơ] about ở tầng ngoài.</li>
 			
 				</ul>
 
 
 
-			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 11</strong>: <strong>Trạng Cụm Phân Tầng</strong> [<strong>Nested Adverb Phrase</strong>]:</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 11</strong>: [<strong>Trạng Cụm Phân Tầng</strong>][<strong>Nested Adverb Phrase</strong>]:</p>
 			
 				<ul className="list-square">
 			
@@ -396,9 +396,9 @@ export default function NestedStructure1(): React.JSX.Element {
 			
 					<ul className="list-square">
 				
-						<li className="list-none">Hình thái: [at {'{where the event was running}'}] - Giới Cụm [Prepositional Phrase] biểu thị dưới dạng một vùng mã xác lập không gian lớn bắt đầu bằng Giới Cơ at.</li>
+						<li className="list-none">Hình thái: [at {'{where the event was running}'}] - [Giới Cụm][Prepositional Phrase] biểu thị dưới dạng một vùng mã xác lập không gian lớn bắt đầu bằng [Giới Cơ] at.</li>
 
-						<li className="list-none">Chức năng: [at {'{where the event was running}'}] - <strong>Trạng Cụm</strong> [<strong>Adverb Phrase</strong>] đảm nhận vai trò làm một khối bối cảnh địa điểm tổng thể đứng sau bổ nghĩa cho hành động arrived.</li>
+						<li className="list-none">Chức năng: [at {'{where the event was running}'}] - [<strong>Trạng Cụm</strong>][<strong>Adverb Phrase</strong>] đảm nhận vai trò làm một khối bối cảnh địa điểm tổng thể đứng sau bổ nghĩa cho hành động arrived.</li>
 				
 					</ul>
 
@@ -407,20 +407,20 @@ export default function NestedStructure1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li className="list-none">Hình thái: {'{where the event was running}'} - Động Câu [Verb Clause] định hình dưới dạng khối mã con nằm gọn bên trong, chứa Danh Chủ riêng the event cùng bộ đôi mã hành động liên kết gồm was (Thời Động Cơ) và running ([Tiếp Động Cơ]).</li>
+					<li className="list-none">Hình thái: {'{where the event was running}'} - [Động Câu][Verb Clause] định hình dưới dạng khối mã con nằm gọn bên trong, chứa Danh Chủ riêng the event cùng bộ đôi mã hành động liên kết gồm was (Thời Động Cơ) và running ([Tiếp Động Cơ]).</li>
 
-					<li className="list-none">Chức năng: {'{where the event was running}'} - Danh Câu [Noun Clause] đóng vai trò làm Danh Nhận chịu sự điều phối trực tiếp của Giới Cơ at ở tầng ngoài.</li>
+					<li className="list-none">Chức năng: {'{where the event was running}'} - [Danh Câu][Noun Clause] đóng vai trò làm Danh Nhận chịu sự điều phối trực tiếp của [Giới Cơ] at ở tầng ngoài.</li>
 			
 				</ul>
 
 
 
-			<h4 className="margin-y-40">E. Phân hệ Động Câu [Verb Clause]</h4>
+			<h4 className="margin-y-40">E. Phân hệ [Động Câu][Verb Clause]</h4>
 
-			<p className="text-indent-whole">Khi vùng mã mở rộng thành một phân hệ chứa một câu con hoàn chỉnh có cả Danh Chủ riêng và các phân nhánh hành động riêng, người học xác định được diện mạo vật lý Động Câu [Verb Clause].</p>
+			<p className="text-indent-whole">Khi vùng mã mở rộng thành một phân hệ chứa một câu con hoàn chỉnh có cả Danh Chủ riêng và các phân nhánh hành động riêng, người học xác định được diện mạo vật lý [Động Câu][Verb Clause].</p>
 
 					
-			<h5 className="margin-y-30 text-indent-whole">Phân hệ Hiển Thị Liên Cơ (Có Từ Kết Nối)</h5>
+			<h5 className="margin-y-30 text-indent-whole">Phân hệ Hiển Thị [Liên Cơ] (Có Từ Kết Nối)</h5>
 
 
 			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 12</strong>: <strong>Hình thành chức năng Danh Câu</strong> [<strong>Noun Clause</strong>]:</p>
@@ -430,9 +430,9 @@ export default function NestedStructure1(): React.JSX.Element {
 					<li>I know [where you study].</li>
 					<li className="margin-bottom-20 list-none">Tôi biết [nơi mà bạn học tập].</li>
 
-					<li className="list-none">Hình thái: [where you study] - Động Câu [Verb Clause] đại diện cho khối mã chứa câu con hoàn chỉnh bắt đầu bằng Liên Cơ [Connector Base] kết nối where, có Danh Chủ you và Động Cơ [Verb Base] study.</li>
+					<li className="list-none">Hình thái: [where you study] - [Động Câu][Verb Clause] đại diện cho khối mã chứa câu con hoàn chỉnh bắt đầu bằng [Liên Cơ][Connector Base] kết nối where, có Danh Chủ you và [Động Cơ][Verb Base] study.</li>
 
-					<li className="list-none">Chức năng: [where you study] - Danh Câu [Noun Clause] trở thành Danh Nhận chứa dữ liệu mục tiêu chịu tác động từ hệ thống lệnh ngoài.</li>
+					<li className="list-none">Chức năng: [where you study] - [Danh Câu][Noun Clause] trở thành Danh Nhận chứa dữ liệu mục tiêu chịu tác động từ hệ thống lệnh ngoài.</li>
 			
 				</ul>
 			
@@ -444,9 +444,9 @@ export default function NestedStructure1(): React.JSX.Element {
 					<li>The technician [who is fixing the computer] is busy.</li>
 					<li className="margin-bottom-20 list-none">Người kỹ thuật viên [người mà đang sửa máy tính] thì đang bận.</li>
 
-					<li className="list-none">Hình thái: [who is fixing the computer] - Động Câu [Verb Clause] hiện diện dưới dạng khối câu bắt đầu bằng Liên Cơ [Connector Base] kết nối who, chứa Thời Động Cơ [Tense Verb Base] is và [Tiếp Động Cơ][Progressive Verb Base] fixing riêng biệt.</li>
+					<li className="list-none">Hình thái: [who is fixing the computer] - [Động Câu][Verb Clause] hiện diện dưới dạng khối câu bắt đầu bằng [Liên Cơ][Connector Base] kết nối who, chứa [Thời Động Cơ][Tense Verb Base] is và [Tiếp Động Cơ][Progressive Verb Base] fixing riêng biệt.</li>
 
-					<li className="list-none">Chức năng: [who is fixing the computer] - Tính Câu [Adjective Clause] hoạt động như một module lọc bổ ngữ đặt sau một khối tên gọi để nhận diện đối tượng technician.</li>
+					<li className="list-none">Chức năng: [who is fixing the computer] - [Tính Câu][Adjective Clause] hoạt động như một module lọc bổ ngữ đặt sau một khối tên gọi để nhận diện đối tượng technician.</li>
 			
 				</ul>
 			
@@ -458,57 +458,57 @@ export default function NestedStructure1(): React.JSX.Element {
 					<li>We stayed inside [because it flew past].</li>
 					<li className="margin-bottom-20 list-none">Chúng tôi đã ở bên trong [bởi vì nó đã bay qua].</li>
 
-					<li className="list-none">Hình thái: [because it flew past] - Động Câu [Verb Clause] kích hoạt ngay sau Liên Cơ [Connector Base] kết nối because, chứa Danh Chủ it và [Thời-Thuần Động Cơ][Tense-Bare Verb Base] flew mang dấu mốc tích hợp quá khứ.</li>
+					<li className="list-none">Hình thái: [because it flew past] - [Động Câu][Verb Clause] kích hoạt ngay sau [Liên Cơ][Connector Base] kết nối because, chứa Danh Chủ it và [Thời-Thuần Động Cơ][Tense-Bare Verb Base] flew mang dấu mốc tích hợp quá khứ.</li>
 					
-					<li className="list-none">Chức năng: [because it flew past] - Trạng Câu [Adverb Clause] thiết lập module định hình bối cảnh nguyên nhân cho toàn bộ sự việc đứng trước.</li>
+					<li className="list-none">Chức năng: [because it flew past] - [Trạng Câu][Adverb Clause] thiết lập module định hình bối cảnh nguyên nhân cho toàn bộ sự việc đứng trước.</li>
 			
 				</ul>
 
 			
 
-			<h5 className="margin-y-30 text-indent-whole">Phân hệ Ẩn Liên Cơ (Không Chứa Từ Kết Nối)</h5>
+			<h5 className="margin-y-30 text-indent-whole">Phân hệ Ẩn [Liên Cơ] (Không Chứa Từ Kết Nối)</h5>
 			
 
 			<p className="text-indent-whole">Đây là trạng thái tối tân của ngôn ngữ khi người bản ngữ triệt tiêu hoàn toàn thành phần liên kết. Khối mã xuất hiện dưới dạng một câu con độc lập bề ngoài, không thể đứng một mình về mặt ngữ nghĩa hệ thống, nhưng vẫn thực thi trọn vẹn 3 chức năng:</p>
 
-			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 15</strong>: <strong>Danh Câu Ẩn Liên</strong> [<strong>Zero-Connector Noun Clause</strong>]:</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 15</strong>: [<strong>Danh Câu Ẩn Liên</strong>][<strong>Zero-Connector Noun Clause</strong>]:</p>
 			
 				<ul className="list-square">
 			
 					<li>I believe [you are right].</li>
 					<li className="margin-bottom-20 list-none">Tôi tin [bạn đúng].</li>
 			
-					<li className="list-none">Hình thái: [you are right] - Động Câu [Verb Clause] mang diện mạo của một dòng lệnh độc lập với Danh Chủ you và [Thời-Thuần Động Cơ][Tense-Bare Verb Base] are, hoàn toàn ẩn đi Liên Cơ [Connector Base] kết nối (that).</li>
+					<li className="list-none">Hình thái: [you are right] - [Động Câu][Verb Clause] mang diện mạo của một dòng lệnh độc lập với Danh Chủ you và [Thời-Thuần Động Cơ][Tense-Bare Verb Base] are, hoàn toàn ẩn đi [Liên Cơ][Connector Base] kết nối (that).</li>
 			
-					<li className="list-none">Chức năng: [you are right] - Danh Câu [Noun Clause] đóng vai trò làm Danh Nhận nạp dữ liệu trực tiếp cho Động Cơ believe.</li>
+					<li className="list-none">Chức năng: [you are right] - [Danh Câu][Noun Clause] đóng vai trò làm Danh Nhận nạp dữ liệu trực tiếp cho [Động Cơ] believe.</li>
 			
 				</ul>
 			
 			
-			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 16</strong>: <strong>Tính Câu Ẩn Liên</strong> [<strong>Zero-Connector Adjective Clause</strong>]:</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 16</strong>: [<strong>Tính Câu Ẩn Liên</strong>][<strong>Zero-Connector Adjective Clause</strong>]:</p>
 			
 				<ul className="list-square">
 			
 					<li>The book [I checked yesterday] is lost.</li>
 					<li className="margin-bottom-20 list-none">Cuốn sách [tôi kiểm tra ngày hôm qua] thì bị mất.</li>
 			
-					<li className="list-none">Hình thái: [I checked yesterday] - Động Câu [Verb Clause] chứa Danh Chủ I và [Thời-Thuần Động Cơ][Tense-Bare Verb Base] checked, đứng lọt thỏm ngay sau một khối tên gọi mà không cần bất kỳ Liên Cơ [Connector Base] định vị nào dẫn đường.</li>
+					<li className="list-none">Hình thái: [I checked yesterday] - [Động Câu][Verb Clause] chứa Danh Chủ I và [Thời-Thuần Động Cơ][Tense-Bare Verb Base] checked, đứng lọt thỏm ngay sau một khối tên gọi mà không cần bất kỳ [Liên Cơ][Connector Base] định vị nào dẫn đường.</li>
 			
-					<li className="list-none">Chức năng: [I checked yesterday] - Tính Câu [Adjective Clause] vận hành như bộ lọc đặc điểm sở hữu để xác định mục tiêu chính xác cho đối tượng book đứng trước.</li>
+					<li className="list-none">Chức năng: [I checked yesterday] - [Tính Câu][Adjective Clause] vận hành như bộ lọc đặc điểm sở hữu để xác định mục tiêu chính xác cho đối tượng book đứng trước.</li>
 			
 				</ul>
 			
 			
-			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 17</strong>: <strong>Trạng Câu Ẩn Liên</strong> [<strong>Zero-Connector Adverb Clause</strong>]:</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 17</strong>: [<strong>Trạng Câu Ẩn Liên</strong>][<strong>Zero-Connector Adverb Clause</strong>]:</p>
 			
 				<ul className="list-square">
 			
 					<li>[Had I built the software], I would have tested it.</li>
 					<li className="margin-bottom-20 list-none">[Giá mà tôi xây dựng phần mềm], tôi đã kiểm tra nó rồi.</li>
 			
-					<li className="list-none">Hình thái: [Had I built the software] - Động Câu [Verb Clause] sử dụng cấu trúc đảo chip Thời Động Cơ had lên trước Danh Chủ I, xóa bỏ hoàn toàn Liên Cơ [Connector Base] điều kiện (if) và đồng hành cùng [Hoàn Động Cơ] built.</li>
+					<li className="list-none">Hình thái: [Had I built the software] - [Động Câu][Verb Clause] sử dụng cấu trúc đảo chip [Thời Động Cơ] had lên trước Danh Chủ I, xóa bỏ hoàn toàn [Liên Cơ][Connector Base] điều kiện (if) và đồng hành cùng [Hoàn Động Cơ] built.</li>
 			
-					<li className="list-none">Chức năng: [Had I built the software] - Trạng Câu [Adverb Clause] làm nhiệm vụ thiết lập bối cảnh giả định nền tảng cho toàn bộ hệ thống thực thi ở vế sau.</li>
+					<li className="list-none">Chức năng: [Had I built the software] - [Trạng Câu][Adverb Clause] làm nhiệm vụ thiết lập bối cảnh giả định nền tảng cho toàn bộ hệ thống thực thi ở vế sau.</li>
 			
 				</ul>
 			
@@ -534,9 +534,9 @@ export default function NestedStructure1(): React.JSX.Element {
 					<li>[Writing essays] is necessary.</li>
 					<li className="margin-bottom-20 list-none">[Việc viết các bài luận] thì cần thiết.</li>
 			
-					<li className="list-none">Hình thái: [Writing essays] - Động Cụm [Verb Phrase] biểu hiện dưới dạng khối mã mở rộng chứa [Tiếp Động Cơ][Progressive Verb Base] writing và đối tượng đi kèm.</li>
+					<li className="list-none">Hình thái: [Writing essays] - [Động Cụm][Verb Phrase] biểu hiện dưới dạng khối mã mở rộng chứa [Tiếp Động Cơ][Progressive Verb Base] writing và đối tượng đi kèm.</li>
 			
-					<li className="margin-bottom-20 list-none">Chức năng: [Writing essays] - Danh Cụm [Noun Phrase] vận hành như một phân hệ nền tảng để quản lý một đầu việc (Danh Chủ).</li>
+					<li className="margin-bottom-20 list-none">Chức năng: [Writing essays] - [Danh Cụm][Noun Phrase] vận hành như một phân hệ nền tảng để quản lý một đầu việc (Danh Chủ).</li>
 			
 				</ul>
 
@@ -546,14 +546,14 @@ export default function NestedStructure1(): React.JSX.Element {
 					<li>[Creating articles] is necessary.</li>
 					<li className="margin-bottom-20 list-none">[Việc tạo ra các bài báo] thì cần thiết.</li>
 			
-					<li className="list-none">Hình thái mới: [Creating articles] - Động Cụm [Verb Phrase] xuất hiện dưới dạng khối mở rộng mới chứa [Tiếp Động Cơ][Progressive Verb Base] creating được đưa vào thế chỗ.</li>
+					<li className="list-none">Hình thái mới: [Creating articles] - [Động Cụm][Verb Phrase] xuất hiện dưới dạng khối mở rộng mới chứa [Tiếp Động Cơ][Progressive Verb Base] creating được đưa vào thế chỗ.</li>
 			
-					<li className="list-none">Chức năng mới: [Creating articles] - Danh Cụm [Noun Phrase] duy trì chính xác chức năng làm Danh Chủ của khối cũ.</li>
+					<li className="list-none">Chức năng mới: [Creating articles] - [Danh Cụm][Noun Phrase] duy trì chính xác chức năng làm Danh Chủ của khối cũ.</li>
 			
 				</ul>
 
 			
-			<h5 className="margin-y-30 text-indent-whole">Case 2: Kỹ thuật nâng cấp từ Động Cụm lên Động Câu [Phrase → Clause]</h5>
+			<h5 className="margin-y-30 text-indent-whole">Case 2: Kỹ thuật nâng cấp từ [Động Cụm] lên [Động Câu] [Phrase → Clause]</h5>
 			
 			
 				<ul className="list-square">
@@ -561,14 +561,14 @@ export default function NestedStructure1(): React.JSX.Element {
 					<li>We delayed the trip [because it snowed heavily].</li>
 					<li className="margin-bottom-20 list-none">Chúng tôi đã hoãn chuyến đi [bởi vì tuyết đã rơi rất dày].</li>
 			
-					<li className="list-none">Hình thái mới: [because it snowed heavily] - Động Câu [Verb Clause] hiển thị dưới dạng khối mã chứa đầy đủ Danh Chủ it và hạt nhân [Thời-Thuần Động Cơ][Tense-Bare Verb Base] snowed thiết lập cấu hình tích hợp thời quá khứ.</li>
+					<li className="list-none">Hình thái mới: [because it snowed heavily] - [Động Câu][Verb Clause] hiển thị dưới dạng khối mã chứa đầy đủ Danh Chủ it và hạt nhân [Thời-Thuần Động Cơ][Tense-Bare Verb Base] snowed thiết lập cấu hình tích hợp thời quá khứ.</li>
 			
-					<li className="list-none">Chức năng mới: [because it snowed heavily] - Trạng Câu [Adverb Clause] đảm nhận vai trò bối cảnh nguyên nhân ở cấp độ cao cấp.</li>
+					<li className="list-none">Chức năng mới: [because it snowed heavily] - [Trạng Câu][Adverb Clause] đảm nhận vai trò bối cảnh nguyên nhân ở cấp độ cao cấp.</li>
 			
 				</ul>
 
 
-			<h5 className="margin-y-30 text-indent-whole">Case 3: Kỹ thuật hạ cấp từ Động Câu về Động Cơ [Clause → Base]</h5>
+			<h5 className="margin-y-30 text-indent-whole">Case 3: Kỹ thuật hạ cấp từ [Động Câu] về [Động Cơ] [Clause → Base]</h5>
 
 			
 				<ul className="list-square">
@@ -576,9 +576,9 @@ export default function NestedStructure1(): React.JSX.Element {
 					<li>I bought a car [which was built in Germany].</li>
 					<li className="margin-bottom-20 list-none">Tôi đã mua một chiếc xe hơi [cái mà đã được chế tạo tại Đức].</li>
 			
-					<li className="list-none">Hình thái: [which was built in Germany] - Động Câu [Verb Clause] thiết lập theo dạng phân hệ câu con đầy đủ bổ nghĩa đứng sau một khối tên gọi.</li>
+					<li className="list-none">Hình thái: [which was built in Germany] - [Động Câu][Verb Clause] thiết lập theo dạng phân hệ câu con đầy đủ bổ nghĩa đứng sau một khối tên gọi.</li>
 			
-					<li className="margin-bottom-20 list-none">Chức năng: [which was built in Germany] - Tính Câu [Adjective Clause] đóng vai trò một module lọc nhằm định nghĩa đặc điểm cho đối tượng car.</li>
+					<li className="margin-bottom-20 list-none">Chức năng: [which was built in Germany] - [Tính Câu][Adjective Clause] đóng vai trò một module lọc nhằm định nghĩa đặc điểm cho đối tượng car.</li>
 			
 				</ul>
 			
@@ -587,9 +587,9 @@ export default function NestedStructure1(): React.JSX.Element {
 					<li>I bought a [German-built] car.</li>
 					<li className="margin-bottom-20 list-none">Tôi đã mua một chiếc xe hơi [do Đức chế tạo].</li>
 			
-					<li className="list-none">Hình thái mới: [German-built] - Động Cơ [Verb Base] (đóng vai trò Tính Cơ) thu gọn dưới dạng khối hành động phức tạp đã được cô đọng hoàn toàn về dạng một từ đơn duy nhất thuộc nhóm chức năng mô tả.</li>
+					<li className="list-none">Hình thái mới: [German-built] - [Động Cơ][Verb Base] (đóng vai trò Tính Cơ) thu gọn dưới dạng khối hành động phức tạp đã được cô đọng hoàn toàn về dạng một từ đơn duy nhất thuộc nhóm chức năng mô tả.</li>
 			
-					<li className="list-none">Chức năng mới: [German-built] - Tính Cơ [Adjective Base] thiết lập vị trí ngay trước đối tượng car to quét và hiển thị ngắn gọn đặc điểm của đối tượng đó.</li>
+					<li className="list-none">Chức năng mới: [German-built] - [Tính Cơ][Adjective Base] thiết lập vị trí ngay trước đối tượng car to quét và hiển thị ngắn gọn đặc điểm của đối tượng đó.</li>
 			
 				</ul>
 			
@@ -597,16 +597,16 @@ export default function NestedStructure1(): React.JSX.Element {
 
 			<h4 className="margin-y-40">Phân hệ Giới: Thay đổi các module chứa từ định vị</h4>
 
-			<h5 className="margin-y-30 text-indent-whole">Case 4: Kỹ thuật hoán đổi vị trí và thay thế khối mã Giới Cụm tương đương</h5>
+			<h5 className="margin-y-30 text-indent-whole">Case 4: Kỹ thuật hoán đổi vị trí và thay thế khối mã [Giới Cụm] tương đương</h5>
 			
 				<ul className="list-square">
 			
 					<li>The files [on the desk] are important.</li>
 					<li className="margin-bottom-20 list-none">Các tệp tài liệu [ở trên bàn làm việc] thì quan trọng.</li>
 			
-					<li className="list-none">Hình thái: [on the desk] - Giới Cụm [Prepositional Phrase] bắt đầu bằng từ định vị vị trí bề mặt Giới Cơ on.</li>
+					<li className="list-none">Hình thái: [on the desk] - [Giới Cụm][Prepositional Phrase] bắt đầu bằng từ định vị vị trí bề mặt [Giới Cơ] on.</li>
 			
-					<li className="margin-bottom-20 list-none">Chức năng: [on the desk] - Tính Cụm [Adjective Phrase] bổ nghĩa trực tiếp cho thành phần tên gọi files đứng trước.</li>
+					<li className="margin-bottom-20 list-none">Chức năng: [on the desk] - [Tính Cụm][Adjective Phrase] bổ nghĩa trực tiếp cho thành phần tên gọi files đứng trước.</li>
 			
 				</ul>
 			
@@ -616,9 +616,9 @@ export default function NestedStructure1(): React.JSX.Element {
 					<li>The files [inside the cabinet] are important.</li>
 					<li className="margin-bottom-20 list-none">Các tệp tài liệu [ở bên trong tủ chứa] thì quan trọng.</li>
 			
-					<li className="list-none">Hình thái mới: [inside the cabinet] - Giới Cụm [Prepositional Phrase] mới bắt đầu bằng Giới Cơ định vị không gian inside được đưa vào thế chỗ.</li>
+					<li className="list-none">Hình thái mới: [inside the cabinet] - [Giới Cụm][Prepositional Phrase] mới bắt đầu bằng [Giới Cơ] định vị không gian inside được đưa vào thế chỗ.</li>
 			
-					<li className="list-none">Chức năng mới: [inside the cabinet] - Tính Cụm [Adjective Phrase] tiếp tục đảm nhận chính xác vai trò mô tả, quét đặc điểm bối cảnh cho đối tượng files của khối cũ mà không làm biến dạng sơ đồ câu.</li>
+					<li className="list-none">Chức năng mới: [inside the cabinet] - [Tính Cụm][Adjective Phrase] tiếp tục đảm nhận chính xác vai trò mô tả, quét đặc điểm bối cảnh cho đối tượng files của khối cũ mà không làm biến dạng sơ đồ câu.</li>
 			
 				</ul>
 			
@@ -631,14 +631,14 @@ export default function NestedStructure1(): React.JSX.Element {
 
 			<p>Tại sao hệ thống này lại tối ưu cho bộ não của bạn?</p>
 
-			<p className="margin-y-20">Bởi vì nó triệt tiêu tận gốc sự phân mảnh. Cách học cũ ép bạn phải bóc tách thành phần thời gian hay cô lập các Giới Cơ rời rạc ra khỏi vùng liên kết, khiến luồng tư duy bị ngắt quãng và tạo ra cảm giác "cấn" khi xử lý câu.</p>
+			<p className="margin-y-20">Bởi vì nó triệt tiêu tận gốc sự phân mảnh. Cách học cũ ép bạn phải bóc tách thành phần thời gian hay cô lập các [Giới Cơ] rời rạc ra khỏi vùng liên kết, khiến luồng tư duy bị ngắt quãng và tạo ra cảm giác "cấn" khi xử lý câu.</p>
 
 			<p>Còn với <strong>Tư duy lập trình hệ thống</strong>, bất kể khối lệnh dài hay ngắn, lồng nhau bao nhiêu lớp, bạn chỉ cần thực hiện đúng quy trình bóc tách từ ngoài vào trong:</p>
 			
 				<ol>
 			
 					<li value="1">Xác định <strong>Hình thái</strong> dựa trên ranh giới vùng mã:</li>
-					<li className="margin-bottom-20 list-none">Hệ thống 6 lớp Động Cơ; Động Cụm [Verb Phrase]; Giới Cụm [Prepositional Phrase]; hay Động Câu [Verb Clause].</li>
+					<li className="margin-bottom-20 list-none">Hệ thống 6 lớp Động Cơ; [Động Cụm][Verb Phrase]; [Giới Cụm][Prepositional Phrase]; hay [Động Câu][Verb Clause].</li>
 			
 					<li value="2"><strong>Đóng gói phân tầng</strong> bằng các ký hiệu [...] và {'{...}'}:</li>
 					<li className="list-none">Để nhận diện ngay lập tức <strong>Chức năng</strong> (Danh, Tính, Trạng) mà các module đang đảm nhận tại vị trí đó trong câu (dù là Danh Chủ, Danh Nhận hay bộ lọc bối cảnh).</li>

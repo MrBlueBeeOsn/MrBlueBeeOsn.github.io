@@ -17,7 +17,7 @@ export default function DichCumDanhTuTiengAnh(): React.JSX.Element {
 		
 			<h4><HashLink smooth to="/tieng-anh#tieng-anh-terms"><mark className="highlight-tertiary-padding-4-8">Tiếng Anh</mark></HashLink></h4>
 			
-			<h1 className="margin-y-50 text-center">Hướng Dẫn Dịch Danh Cụm Tiếng Anh
+			<h1 className="margin-y-50 text-center">Hướng Dẫn Dịch [Danh Cụm] Tiếng Anh
 
 				<sup><HashLink smooth to="/tieng-anh/huong-dan-viet-cum-danh-tu-tieng-anh">&nbsp;1&nbsp;</HashLink>
 				</sup>

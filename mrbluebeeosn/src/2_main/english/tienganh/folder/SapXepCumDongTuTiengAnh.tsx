@@ -29,13 +29,13 @@ export default function SapXepCumDongTuTiengAnh(): React.JSX.Element {
 
 			{/* This is the content of English Learning Term. */}
 
-			<p>Người Việt thường nói “đã đang sẽ không thể bị đánh”, nhưng tiếng Anh lại yêu cầu tất cả <strong>thời động cơ</strong>, <strong>phủ định</strong>, <strong>trạng cơ</strong>… phải <strong>đứng bên trái</strong>, còn <strong>động cơ chính</strong> luôn <strong>đứng bên phải</strong> nhất.</p>
+			<p>Người Việt thường nói “đã đang sẽ không thể bị đánh”, nhưng tiếng Anh lại yêu cầu tất cả [<strong>Thời Động Cơ</strong>], <strong>phủ định</strong>, <strong>trạng cơ</strong>… phải <strong>đứng bên trái</strong>, còn <strong>động cơ chính</strong> luôn <strong>đứng bên phải</strong> nhất.</p>
 
 			<p className="margin-top-20">Để sắp xếp động cụm tiếng Anh nhanh và không bao giờ sai, bạn chỉ cần làm đúng 2 bước lớn:</p>
 			
 				<ul className="list-square">
 			
-					<li>Bước 1: gom hết <strong>thời động cơ</strong>, <strong>phủ định</strong>, <strong>modal</strong>… vào <strong>bên trái</strong></li>
+					<li>Bước 1: gom hết [<strong>Thời Động Cơ</strong>], <strong>phủ định</strong>, <strong>modal</strong>… vào <strong>bên trái</strong></li>
 			
 					<li>Bước 2: đặt <strong>động cơ chính</strong> (hoặc dạng của nó) vào <strong>bên phải</strong> cùng</li>
 			
@@ -181,7 +181,7 @@ export default function SapXepCumDongTuTiengAnh(): React.JSX.Element {
 
 			<p>Chỉ cần nhớ một nguyên tắc duy nhất:</p>
 
-			<p><strong>Thời động cơ</strong> + <strong>phủ định</strong> + <strong>modal</strong> → gom hết <strong>bên trái</strong></p>
+			<p>[<strong>Thời Động Cơ</strong>] + <strong>phủ định</strong> + <strong>modal</strong> → gom hết <strong>bên trái</strong></p>
 
 			<p><strong>Động cơ chính</strong> (hoặc dạng của nó) → đặt <strong>bên phải</strong> cùng</p>
 			

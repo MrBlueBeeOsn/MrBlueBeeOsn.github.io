@@ -475,7 +475,7 @@ export default function TiengAnhIndex(): React.JSX.Element {
 
             <li>
               <div className="li-content">
-                <Link to="/tieng-anh/6-dang-dong-tu-tieng-anh-1">6 Dạng Động Cơ Tiếng Anh
+                <Link to="/tieng-anh/6-dang-dong-tu-tieng-anh-1">6 Dạng [Động Cơ] Tiếng Anh
                 <sup>&nbsp;1&nbsp;</sup>
                 </Link>
                 <Link to="/tieng-anh/6-dang-dong-tu-tieng-anh-2">
@@ -518,7 +518,7 @@ export default function TiengAnhIndex(): React.JSX.Element {
 
             {/* <li>
               <div className="li-content">
-                <Link to="/tieng-anh/6-dang-dong-tu-tieng-anh">6 Dạng Động Cơ Tiếng Anh</Link>
+                <Link to="/tieng-anh/6-dang-dong-tu-tieng-anh">6 Dạng [Động Cơ] Tiếng Anh</Link>
               </div>
             </li> */}
 
@@ -530,7 +530,7 @@ export default function TiengAnhIndex(): React.JSX.Element {
 
             {/* <li>
               <div className="li-content">
-                <Link to="/tieng-anh/5-dang-dong-tu-vang-rong-1">5 Dạng Động Cơ “Vàng Ròng”
+                <Link to="/tieng-anh/5-dang-dong-tu-vang-rong-1">5 Dạng [Động Cơ] “Vàng Ròng”
                 <sup>&nbsp;1&nbsp;</sup>
                 </Link>
                 <Link to="/tieng-anh/5-dang-dong-tu-vang-rong-2">
@@ -599,7 +599,7 @@ export default function TiengAnhIndex(): React.JSX.Element {
 
             {/* <li>
               <div className="li-content">
-                <Link to="/tieng-anh/huong-dan-dich-cum-dong-tu-tieng-anh">Hướng Dẫn Dịch Động Cụm Tiếng Anh</Link>
+                <Link to="/tieng-anh/huong-dan-dich-cum-dong-tu-tieng-anh">Hướng Dẫn Dịch [Động Cụm] Tiếng Anh</Link>
               </div>
             </li> */}
 

@@ -79,14 +79,14 @@ export default function SuperWords7(): React.JSX.Element {
 
 			{/* 1.  */}
 
-			<h3 className="margin-y-50 text-center">1️⃣ Super-noun (Siêu Danh Cơ) = Câu Con Danh Cơ / Noun Clause</h3>
+			<h3 className="margin-y-50 text-center">1️⃣ Super-noun (Siêu Danh Cơ) = Câu Con [Danh Cơ] / Noun Clause</h3>
 
 			<p></p>
 
 
 			{/* 2.  */}
 
-			<h3 className="margin-y-50 text-center">2️⃣ Super-adjective (Siêu Tính Cơ) = Câu Con Tính Cơ / Adjective Clause</h3>
+			<h3 className="margin-y-50 text-center">2️⃣ Super-adjective (Siêu Tính Cơ) = Câu Con [Tính Cơ] / Adjective Clause</h3>
 
 			<p></p>
 

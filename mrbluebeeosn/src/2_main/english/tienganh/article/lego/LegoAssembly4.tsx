@@ -370,7 +370,7 @@ export default function LegoAssembly4(): React.JSX.Element {
 
 			{/* 7.  */}
 
-			<h3 className="margin-y-50 text-center">7. Vì Sao Động Cơ Sau Head Luôn Ở Nguyên Mẫu?</h3>
+			<h3 className="margin-y-50 text-center">7. Vì Sao [Động Cơ] Sau Head Luôn Ở Nguyên Mẫu?</h3>
 
 			<p className="margin-top-20">Vì Head đã gánh:</p>
 			

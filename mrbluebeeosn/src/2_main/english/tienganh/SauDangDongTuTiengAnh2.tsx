@@ -17,7 +17,7 @@ export default function SauDangDongTuTiengAnh2(): React.JSX.Element {
 		
 			<h4><HashLink smooth to="/tieng-anh#tieng-anh-terms"><mark className="highlight-tertiary-padding-4-8">Tiếng Anh</mark></HashLink></h4>
 
-			<h1 className="margin-y-50 text-center">6 Dạng Động Cơ Tiếng Anh
+			<h1 className="margin-y-50 text-center">6 Dạng [Động Cơ] Tiếng Anh
 												
 				<sup><HashLink smooth to="/tieng-anh/6-dang-dong-tu-tieng-anh-1">&nbsp;1&nbsp;</HashLink>
 				</sup>
@@ -33,7 +33,7 @@ export default function SauDangDongTuTiengAnh2(): React.JSX.Element {
 
 			<p>Hôm nay, chúng ta sẽ cùng “mở kho báu” này một cách vui vẻ, dễ hiểu và cực kỳ thực tế. Khi bạn nắm được bộ 6 dạng này, bạn sẽ tự tin nói, viết, nghe, đọc mà không còn lo “sai chia động cơ” nữa.</p>
 
-			<h3 className="margin-y-50 text-center">Bộ 6 Dạng Động Cơ “Hoàn Chỉnh” Của Tiếng Anh</h3>
+			<h3 className="margin-y-50 text-center">Bộ 6 Dạng [Động Cơ] “Hoàn Chỉnh” Của Tiếng Anh</h3>
 
 			{/* Cặp 1: Work vs Works */}
 

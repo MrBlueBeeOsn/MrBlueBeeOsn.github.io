@@ -63,22 +63,22 @@ export default function (): React.JSX.Element {
       
         <ol>
       
-          <li value="1"><strong>Động Cơ</strong> [<strong>Verb Base</strong>]: </li>
+          <li value="1">[<strong>Động Cơ</strong>][<strong>Verb Base</strong>]: </li>
           <li className="margin-bottom-20 list-none"></li>
       
-          <li value="2"><strong>Thời Động Cơ</strong> [<strong>Tense Verb Base</strong>]: </li>
+          <li value="2">[<strong>Thời Động Cơ</strong>][<strong>Tense Verb Base</strong>]: </li>
           <li className="margin-bottom-20 list-none"></li>
 
           <li value="3"><strong>Thời Động Cơ Phức</strong> [<strong>Complex Tense Verb Base</strong>]: </li>
           <li className="margin-bottom-20 list-none"></li>
       
-          <li value="4"><strong>Tiếp, Hoàn Động Cơ</strong> [<strong>Progressive, Perfect  Verb Base</strong>]: </li>
+          <li value="4">[<strong>Tiếp, Hoàn Động Cơ</strong>][<strong>Progressive, Perfect  Verb Base</strong>]: </li>
           <li className="margin-bottom-20 list-none"></li>
 
-          <li value="5"><strong>Thái Động Cơ</strong> [<strong>Modal Verb Base</strong>]: </li>
+          <li value="5">[<strong>Thái Động Cơ</strong>][<strong>Modal Verb Base</strong>]: </li>
           <li className="margin-bottom-20 list-none"></li>
       
-          <li value="6"><strong>Thời-Thuần Động Cơ</strong> [<strong>Tense-Bare Verb Base</strong>]: </li>
+          <li value="6">[<strong>Thời-Thuần Động Cơ</strong>][<strong>Tense-Bare Verb Base</strong>]: </li>
           <li className="list-none"></li>
       
         </ol>
@@ -111,7 +111,7 @@ export default function (): React.JSX.Element {
 			<h3 className="margin-y-50 text-center">PHẦN 1: HỆ THỐNG CÁC VÍ DỤ PHÂN HỆ MÃ TIẾNG ANH</h3>
 
       
-      <h4 className="margin-y-40">1. Phân hệ Động Cơ [Verb Base]</h4>
+      <h4 className="margin-y-40">1. Phân hệ [Động Cơ][Verb Base]</h4>
 
       <p className="text-indent-whole"></p>
 
@@ -134,7 +134,7 @@ export default function (): React.JSX.Element {
         </ul>
       
       
-      <p className="margin-top-20 text-indent-whole"><strong>Hình thành chức năng Tính Cơ</strong> [<strong>Adjective Base</strong>]</p>
+      <p className="margin-top-20 text-indent-whole"><strong>Hình thành chức năng</strong> [<strong>Tính Cơ</strong>] [<strong>Adjective Base</strong>]</p>
 
       <p className="margin-top-20 text-indent-whole">Ví dụ 2: //</p>
       
@@ -166,7 +166,7 @@ export default function (): React.JSX.Element {
         </ul>
 
 
-      <h4 className="margin-y-40">2. Phân hệ Động Cụm [Verb Phrase]</h4>
+      <h4 className="margin-y-40">2. Phân hệ [Động Cụm][Verb Phrase]</h4>
           
       <p className="text-indent-whole"></p>
 
@@ -190,7 +190,7 @@ export default function (): React.JSX.Element {
       
       <p className="margin-top-20 text-indent-whole"><strong>Hình thành chức năng Tính Cụm</strong> [<strong>Adjective Phrase</strong>]</p>
 
-      <p className="margin-top-20 text-indent-whole"><strong>Tính Cụm dạng sắp xảy ra chủ động</strong> -<strong>to V</strong>:</p>
+      <p className="margin-top-20 text-indent-whole">[<strong>Tính Cụm</strong>] <strong>dạng sắp xảy ra chủ động</strong> -<strong>to V</strong>:</p>
 
       <p className="margin-top-20 text-indent-whole">Ví dụ 5a:</p>
       
@@ -206,7 +206,7 @@ export default function (): React.JSX.Element {
         </ul>
       
       
-      <p className="margin-top-20 text-indent-whole"><strong>Tính Cụm dạng sắp xảy ra bị động -to be</strong> <strong>v3</strong>/-<strong>ed</strong>:</p>
+      <p className="margin-top-20 text-indent-whole">[<strong>Tính Cụm</strong>] <strong>dạng sắp xảy ra bị động -to be</strong> <strong>v3</strong>/-<strong>ed</strong>:</p>
 
       <p className="margin-top-20 text-indent-whole">Ví dụ 5b:</p>
       
@@ -222,7 +222,7 @@ export default function (): React.JSX.Element {
         </ul>
       
 
-      <p className="margin-top-20 text-indent-whole"><strong>Tính Cụm dạng đang diễn ra</strong> -<strong>ing</strong>:</p>
+      <p className="margin-top-20 text-indent-whole">[<strong>Tính Cụm</strong>] <strong>dạng đang diễn ra</strong> -<strong>ing</strong>:</p>
 
       <p className="margin-top-20 text-indent-whole">Ví dụ 5c:</p>
       
@@ -238,7 +238,7 @@ export default function (): React.JSX.Element {
         </ul>
       
       
-      <p className="margin-top-20 text-indent-whole"><strong>Tính Cụm dạng đã xong bị động</strong> -<strong>v3</strong>/-<strong>ed</strong>:</p>
+      <p className="margin-top-20 text-indent-whole">[<strong>Tính Cụm</strong>] <strong>dạng đã xong bị động</strong> -<strong>v3</strong>/-<strong>ed</strong>:</p>
 
       <p className="margin-top-20 text-indent-whole">Ví dụ 5d:</p>
       
@@ -254,7 +254,7 @@ export default function (): React.JSX.Element {
         </ul>
       
       
-      <p className="margin-top-20 text-indent-whole"><strong>Tính Cụm dạng nguyên bản</strong>:</p>
+      <p className="margin-top-20 text-indent-whole">[<strong>Tính Cụm</strong>] <strong>dạng nguyên bản</strong>:</p>
 
       <p className="margin-top-20 text-indent-whole">Ví dụ 5e:</p>
       
@@ -337,14 +337,14 @@ export default function (): React.JSX.Element {
 
 
 
-      <h4 className="margin-y-40">3. Phân hệ Giới Cụm [Prepositional Phrase]</h4>
+      <h4 className="margin-y-40">3. Phân hệ [Giới Cụm][Prepositional Phrase]</h4>
           
       <p className="margin-top-20 text-indent-whole"></p>
       
       
       <p className="margin-top-20 text-indent-whole"><strong>Hình thành chức năng Tính Cụm</strong> [<strong>Adjective Phrase</strong>]</p>
 
-      <p className="margin-top-20 text-indent-whole"><strong>Tính Cụm dạng Giới Cụm</strong>:</p>
+      <p className="margin-top-20 text-indent-whole">[<strong>Tính Cụm</strong>] <strong>dạng</strong> [<strong>Giới Cụm</strong>]:</p>
 
       <p className="margin-top-20 text-indent-whole">Ví dụ 7:</p>
       
@@ -362,7 +362,7 @@ export default function (): React.JSX.Element {
       
       <p className="margin-top-20 text-indent-whole"><strong>Hình thành chức năng Trạng Cụm</strong> [<strong>Adverb Phrase</strong>]</p>
 
-      <p className="margin-top-20 text-indent-whole"><strong>Trạng Cụm dạng Giới Cụm</strong>:</p>
+      <p className="margin-top-20 text-indent-whole">[<strong>Trạng Cụm</strong>] <strong>dạng</strong> [<strong>Giới Cụm</strong>]:</p>
 
       <p className="margin-top-20 text-indent-whole">Ví dụ 8a:</p>
       
@@ -378,7 +378,7 @@ export default function (): React.JSX.Element {
         </ul>
 
 
-      <p className="margin-top-20 text-indent-whole"><strong>Trạng Cụm dạng Giới Cụm</strong> (<strong>có dấu phẩy</strong>):</p>
+      <p className="margin-top-20 text-indent-whole">[<strong>Trạng Cụm</strong>] <strong>dạng</strong> [<strong>Giới Cụm</strong>] (<strong>có dấu phẩy</strong>):</p>
 
       <p className="margin-top-20 text-indent-whole">Ví dụ 8b:</p>
       
@@ -395,16 +395,16 @@ export default function (): React.JSX.Element {
 
 
 
-      <h4 className="margin-y-40">4. Phân hệ Động Câu [Verb Clause]</h4>
+      <h4 className="margin-y-40">4. Phân hệ [Động Câu][Verb Clause]</h4>
 
       <p className="margin-top-20 text-indent-whole"></p>
 
-      <p className="margin-top-20 text-indent-whole"><strong>Bản chất vật lý</strong>: Động Câu tuy mang hình thái của một hệ con đầy đủ nhưng <strong>không thể đứng một mình độc lập</strong> để tạo thành một thông điệp trọn vẹn. Nó luôn lồng ghép vào sơ đồ tổng thể để thực thi một chức năng phụ thuộc.</p>
+      <p className="margin-top-20 text-indent-whole"><strong>Bản chất vật lý</strong>: [Động Câu] tuy mang hình thái của một hệ con đầy đủ nhưng <strong>không thể đứng một mình độc lập</strong> để tạo thành một thông điệp trọn vẹn. Nó luôn lồng ghép vào sơ đồ tổng thể để thực thi một chức năng phụ thuộc.</p>
 
       <p className="margin-top-20 text-indent-whole"></p>
 
           
-      <h5 className="margin-y-30 text-indent-whole">4.1 Phân hệ Động Câu Hiển Liên [Connector Verb Clause]</h5>
+      <h5 className="margin-y-30 text-indent-whole">4.1 Phân hệ [Động Câu] Hiển Liên [Connector Verb Clause]</h5>
 
       <p className="margin-top-20 text-indent-whole"></p>
 
@@ -458,12 +458,12 @@ export default function (): React.JSX.Element {
 
 
 
-      <h5 className="margin-y-30 text-indent-whole">4.2 Phân hệ Động Câu Ẩn Liên [Zero-Connector Verb Clause]</h5>
+      <h5 className="margin-y-30 text-indent-whole">4.2 Phân hệ [Động Câu] Ẩn Liên [Zero-Connector Verb Clause]</h5>
 
       <p className="margin-top-20 text-indent-whole"></p>
 
 
-      <p className="margin-top-20 text-indent-whole"><strong>Danh Câu Ẩn Liên</strong> [<strong>Zero-Connector Noun Clause</strong>]</p>
+      <p className="margin-top-20 text-indent-whole">[<strong>Danh Câu Ẩn Liên</strong>][<strong>Zero-Connector Noun Clause</strong>]</p>
 
       <p className="margin-top-20 text-indent-whole">Ví dụ 11a:</p>
       
@@ -479,7 +479,7 @@ export default function (): React.JSX.Element {
         </ul>
       
       
-      <p className="margin-top-20 text-indent-whole"><strong>Tính Câu Ẩn Liên</strong> [<strong>Zero-Connector Adjective Clause</strong>]</p>
+      <p className="margin-top-20 text-indent-whole">[<strong>Tính Câu Ẩn Liên</strong>][<strong>Zero-Connector Adjective Clause</strong>]</p>
 
       <p className="margin-top-20 text-indent-whole">Ví dụ 11b:</p>
       
@@ -495,7 +495,7 @@ export default function (): React.JSX.Element {
         </ul>
       
       
-      <p className="margin-top-20 text-indent-whole"><strong>Trạng Câu Ẩn Liên</strong> [<strong>Zero-Connector Adverb Clause</strong>]</p>
+      <p className="margin-top-20 text-indent-whole">[<strong>Trạng Câu Ẩn Liên</strong>][<strong>Zero-Connector Adverb Clause</strong>]</p>
 
       <p className="margin-top-20 text-indent-whole">Ví dụ 11c:</p>
       
@@ -517,7 +517,7 @@ export default function (): React.JSX.Element {
       <p className="margin-top-20 text-indent-whole"></p>
 
 
-      <h5 className="margin-top-20 text-indent-whole">Danh Cụm Phân Tầng [Nested Noun Phrase]</h5>
+      <h5 className="margin-top-20 text-indent-whole">[Danh Cụm Phân Tầng][Nested Noun Phrase]</h5>
 
       <p className="margin-top-20 text-indent-whole">Ví dụ 12:</p>
       
@@ -549,7 +549,7 @@ export default function (): React.JSX.Element {
         </ul>
 
 
-      <h5 className="margin-top-20 text-indent-whole">Tính Cụm Phân Tầng [Nested Adjective Phrase]</h5>
+      <h5 className="margin-top-20 text-indent-whole">[Tính Cụm Phân Tầng][Nested Adjective Phrase]</h5>
 
       <p className="margin-top-20 text-indent-whole">Ví dụ 13:</p>
       
@@ -582,7 +582,7 @@ export default function (): React.JSX.Element {
 
 
           
-      <h5 className="margin-top-20 text-indent-whole">Trạng Cụm Phân Tầng [Nested Adverb Phrase]</h5>
+      <h5 className="margin-top-20 text-indent-whole">[Trạng Cụm Phân Tầng][Nested Adverb Phrase]</h5>
 
       <p className="margin-top-20 text-indent-whole">Ví dụ 14:</p>
       
@@ -657,7 +657,7 @@ export default function (): React.JSX.Element {
 
 
 
-      <h5 className="margin-y-30 text-indent-whole">Case 2: Kỹ thuật nâng cấp từ Giới Cụm lên Động Câu</h5>
+      <h5 className="margin-y-30 text-indent-whole">Case 2: Kỹ thuật nâng cấp từ [Giới Cụm] lên Động Câu</h5>
 
       <p className="margin-top-20 text-indent-whole">[<strong>Phrase</strong> → <strong>Clause</strong>]</p>
       
@@ -687,7 +687,7 @@ export default function (): React.JSX.Element {
         </ul>
 
 
-      <h5 className="margin-y-30 text-indent-whole">Case 3: Kỹ thuật hạ cấp từ Động Câu về Động Cơ</h5>
+      <h5 className="margin-y-30 text-indent-whole">Case 3: Kỹ thuật hạ cấp từ [Động Câu] về Động Cơ</h5>
 
       <p className="margin-top-20 text-indent-whole">[<strong>Clause</strong> → <strong>Base</strong>]</p>
       
@@ -719,7 +719,7 @@ export default function (): React.JSX.Element {
 
       <h4 className="margin-y-40">2. Phân hệ Giới: Thay đổi các module chứa mã định vị</h4>
 
-      <h5 className="text-indent-whole">Case 4: Kỹ thuật hoán đổi vị trí và thay thế khối mã Giới Cụm tương đương</h5>
+      <h5 className="text-indent-whole">Case 4: Kỹ thuật hoán đổi vị trí và thay thế khối mã [Giới Cụm] tương đương</h5>
       
         <ul className="list-square">
       
@@ -733,7 +733,7 @@ export default function (): React.JSX.Element {
         </ul>
       
       
-      <p className="margin-top-20 text-indent-whole"><strong>Thế khối Giới Cụm tương đương</strong>:</p>
+      <p className="margin-top-20 text-indent-whole"><strong>Thế khối [Giới Cụm] tương đương</strong>:</p>
       
         <ul className="list-square">
       

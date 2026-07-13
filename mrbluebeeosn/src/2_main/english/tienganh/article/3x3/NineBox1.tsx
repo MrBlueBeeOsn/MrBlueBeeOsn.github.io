@@ -96,22 +96,22 @@ export default function NineBox1(): React.JSX.Element {
 			
 				<ol>
 			
-					<li value="1"><strong>Động Cơ</strong> [<strong>Verb Base</strong>]: develop, build, execute</li>
+					<li value="1">[<strong>Động Cơ</strong>][<strong>Verb Base</strong>]: develop, build, execute</li>
 					<li className="margin-bottom-20 list-none">Nguyên bản gốc [Class cha/Root Class] chứa hạt nhân ngữ nghĩa lõi của hành động nhưng chưa được kích hoạt bối cảnh thời gian hoặc biến đổi hình thái.</li>
 			
-					<li value="2"><strong>Thời Động Cơ</strong> [<strong>Tense Verb Base</strong>]: is, was, has, had, will, have</li>
+					<li value="2">[<strong>Thời Động Cơ</strong>][<strong>Tense Verb Base</strong>]: is, was, has, had, will, have</li>
 					<li className="margin-bottom-20 list-none">Xử lý bối cảnh thời gian và chịu trách nhiệm định vị dòng thời gian của hành động trên trục số, phối hợp với chủ ngữ để giữ tính hòa hợp.</li>
 
-					<li value="3"><strong>Thời Động Cơ Phức</strong> [<strong>Complex Tense Verb Base</strong>]: had been, has been</li>
+					<li value="3">[<strong>Thời Hoàn Động Cơ</strong>][<strong>Complex Tense Verb Base</strong>]: had been, has been</li>
 					<li className="margin-bottom-20 list-none">Khối đa phân tử xử lý bối cảnh thời gian ở các thể hoàn thành tiếp diễn hoặc bị động phức hợp, đóng gói nhiều dấu hiệu thời gian thành một khối điều phối duy nhất.</li>
 			
-					<li value="4"><strong>Tiếp, Hoàn Động Cơ</strong> [<strong>Progressive, Perfect  Verb Base</strong>]: developing, built, executed [Dạng V-ing hoặc V3/V-ed phân từ]</li>
+					<li value="4">[<strong>Tiếp, Hoàn Động Cơ</strong>][<strong>Progressive, Perfect  Verb Base</strong>]: developing, built, executed [Dạng V-ing hoặc V3/V-ed phân từ]</li>
 					<li className="margin-bottom-20 list-none">Hành động thực thi mang giá trị ngữ nghĩa vận động trực tiếp nhưng không tự đứng độc lập để gánh thời gian mà phải kết hợp với hệ toán tử thời gian.</li>
 
-					<li value="5"><strong>Thái Động Cơ</strong> [<strong>Modal Verb Base</strong>]: must, can, should, may, might</li>
+					<li value="5">[<strong>Thái Động Cơ</strong>][<strong>Modal Verb Base</strong>]: must, can, should, may, might</li>
 					<li className="margin-bottom-20 list-none">Chế độ / thái độ, dùng để thiết lập tần suất logic, khả năng xảy ra, nghĩa vụ hoặc tâm thế của chủ thể đối với hành động.</li>
 			
-					<li value="6"><strong>Thời-Thuần Động Cơ</strong> [<strong>Tense-Bare Verb Base</strong>]: developed, built, executed, spoke, made [Dạng V2/V-ed chia thì quá khứ đơn hoặc hiện tại đơn số ít/số nhiều]</li>
+					<li value="6">[<strong>Thời-Thuần Động Cơ</strong>][<strong>Tense-Bare Verb Base</strong>]: developed, built, executed, spoke, made [Dạng V2/V-ed chia thì quá khứ đơn hoặc hiện tại đơn số ít/số nhiều]</li>
 					<li className="list-none">Tích hợp Thời + Thuần trong một đơn vị dữ liệu duy nhất. Dù mang hình thái một từ độc lập, nó tự đóng gói trọn vẹn cả chức năng thời gian lẫn bản chất thực thi.</li>
 			
 				</ol>
@@ -121,39 +121,39 @@ export default function NineBox1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>is developing → Thời Động Cơ "is" + Tiếp Động Cơ "developing"</li>
+					<li>is developing → [Thời Động Cơ] "is" + [Tiếp Động Cơ] "developing"</li>
 			
-					<li>was developing → Thời Động Cơ "was" + Tiếp Động Cơ "developing"</li>
+					<li>was developing → [Thời Động Cơ] "was" + [Tiếp Động Cơ] "developing"</li>
 			
-					<li>has built → Thời Động Cơ "has" + Tiếp Động Cơ "built"</li>
+					<li>has built → [Thời Động Cơ] "has" + [Tiếp Động Cơ] "built"</li>
 
-					<li>had been executing → Thời Động Cơ Phức "had been" + Tiếp Động Cơ "executing"</li>
+					<li>had been executing → [Thời Hoàn Động Cơ] "had been" + [Tiếp Động Cơ] "executing"</li>
 			
-					<li>has been building → Thời Động Cơ Phức "has been" + Tiếp Động Cơ "building"</li>
+					<li>has been building → [Thời Hoàn Động Cơ] "has been" + [Tiếp Động Cơ] "building"</li>
 			
 					<li>developed → Thời-Thuần Động Cơ [Một đơn vị tích hợp cả hai]</li>
 
-					<li>must execute → Thái Động Cơ "must" + [Thuần Động Cơ] "execute"</li>
+					<li>must execute → [Áp-Thái Thuần Động Cơ] "must" + [Thuần Động Cơ] "execute"</li>
 			
 				</ul>
 
 
-			<h4 className="margin-y-40">A. Hình thái cấp độ BASE: ĐỘNG CƠ [Verb Base]</h4>
+			<h4 className="margin-y-40">A. Hình thái cấp độ BASE: [Động Cơ][Verb Base]</h4>
 
 			<p className="text-indent-whole">Là đơn vị hành động nhỏ nhất [chỉ gồm 1 từ].</p>
 
 			<p className="text-indent-whole">Khi đứng vào các vị trí khác nhau, nó sẽ hình thành nên các chức năng tương ứng:</p>
 
-			<p className="margin-top-20 text-indent-whole">Hình thành Chức năng Danh Cơ [Noun Base]:</p>
+			<p className="margin-top-20 text-indent-whole">Hình thành Chức năng [Danh Cơ][Noun Base]:</p>
 			
 				<ul className="list-square">
 			
 					<li>[Debugging] isolates program faults.</li>
 					<li className="margin-bottom-20 list-none">[Việc gỡ lỗi] cô lập các lỗi chương trình.</li>
 			
-					<li className="list-none">Hình thái: [Debugging] - Động Cơ [Verb Base] nguyên bản gốc "Debug" thêm đuôi "ing" để hình thành [Tiếp Động Cơ][Progressive Verb Base].</li>
+					<li className="list-none">Hình thái: [Debugging] - [Động Cơ][Verb Base] nguyên bản gốc "Debug" thêm đuôi "ing" để hình thành [Tiếp Động Cơ][Progressive Verb Base].</li>
 			
-					<li className="list-none">Chức năng: [Debugging] - Danh Cơ [Noun Base] đóng vai trò làm Danh Chủ chịu trách nhiệm thực thi câu lớn.</li>
+					<li className="list-none">Chức năng: [Debugging] - [Danh Cơ][Noun Base] đóng vai trò làm Danh Chủ chịu trách nhiệm thực thi câu lớn.</li>
 			
 				</ul>
 			
@@ -165,9 +165,9 @@ export default function NineBox1(): React.JSX.Element {
 					<li>The analyst provided an [updated] architecture layout.</li>
 					<li className="margin-bottom-20 list-none">Nhà phân tích đã cung cấp một sơ đồ kiến trúc [được cập nhật].</li>
 			
-					<li className="list-none">Hình thái: [updated] - Động Cơ [Verb Base] nguyên bản gốc "Update" thêm đuôi "ed" để hình thành [Hoàn Động Cơ][Perfect Verb Base] dạng phân từ.</li>
+					<li className="list-none">Hình thái: [updated] - [Động Cơ][Verb Base] nguyên bản gốc "Update" thêm đuôi "ed" để hình thành [Hoàn Động Cơ][Perfect Verb Base] dạng phân từ.</li>
 			
-					<li className="list-none">Chức năng: [updated] - Tính Cơ [Adjective Base] đứng ngay trước đối tượng để mô tả thuộc tính cho sơ đồ.</li>
+					<li className="list-none">Chức năng: [updated] - [Tính Cơ][Adjective Base] đứng ngay trước đối tượng để mô tả thuộc tính cho sơ đồ.</li>
 			
 				</ul>
 			
@@ -179,15 +179,15 @@ export default function NineBox1(): React.JSX.Element {
 					<li>The system process finishes [decisively].</li>
 					<li className="margin-bottom-20 list-none">Tiến trình hệ thống kết thúc [một cách dứt khoát].</li>
 			
-					<li className="list-none">Hình thái: [decisively] - Động Cơ [Verb Base] biến đổi hình thái từ gốc hành động "Decide" qua dạng tính từ rồi thêm đuôi "ly" để hình thành từ chỉ cách thức.</li>
+					<li className="list-none">Hình thái: [decisively] - [Động Cơ][Verb Base] biến đổi hình thái từ gốc hành động "Decide" qua dạng tính từ rồi thêm đuôi "ly" để hình thành từ chỉ cách thức.</li>
 			
-					<li className="list-none">Chức năng: [decisively] - Trạng Cơ [Adverb Base] đứng sau nhằm bổ nghĩa cách thức hành động cho việc kết thúc.</li>
+					<li className="list-none">Chức năng: [decisively] - [Trạng Cơ][Adverb Base] đứng sau nhằm bổ nghĩa cách thức hành động cho việc kết thúc.</li>
 			
 				</ul>
 			
 
 
-			<h4 className="margin-y-40">B. Hình thái cấp độ PHRASE: ĐỘNG CỤM [Verb Phrase]</h4>
+			<h4 className="margin-y-40">B. Hình thái cấp độ PHRASE: [Động Cụm][Verb Phrase]</h4>
 
 			<p className="text-indent-whole">Là đơn vị hành động chứa nhiều từ tạo thành một khối liên kết [không chứa cấu trúc câu con bên trong].</p>
 
@@ -200,9 +200,9 @@ export default function NineBox1(): React.JSX.Element {
 					<li>We choose [to optimize the application interface].</li>
 					<li className="margin-bottom-20 list-none">Chúng tôi chọn [tối ưu hóa giao diện ứng dụng].</li>
 			
-					<li className="list-none">Hình thái: [to optimize the application interface] - Động Cụm [Verb Phrase] biểu thị một tập hợp các từ xoay quanh Động Cơ [Verb Base] nguyên bản optimize.</li>
+					<li className="list-none">Hình thái: [to optimize the application interface] - [Động Cụm][Verb Phrase] biểu thị một tập hợp các từ xoay quanh [Động Cơ][Verb Base] nguyên bản optimize.</li>
 			
-					<li className="list-none">Chức năng: [to optimize the application interface] - Danh Cụm [Noun Phrase] đóng vai trò làm một khối Danh Nhận đứng sau mục tiêu.</li>
+					<li className="list-none">Chức năng: [to optimize the application interface] - [Danh Cụm][Noun Phrase] đóng vai trò làm một khối Danh Nhận đứng sau mục tiêu.</li>
 			
 				</ul>
 			
@@ -214,9 +214,9 @@ export default function NineBox1(): React.JSX.Element {
 					<li>The microservice is [handling user traffic efficiently].</li>
 					<li className="margin-bottom-20 list-none">Dịch vụ nhỏ [đang xử lý lưu lượng truy cập người dùng hiệu quả].</li>
 			
-					<li className="list-none">Hình thái: [handling user traffic efficiently] - Động Cụm [Verb Phrase] chứa Thời Động Cơ [Tense Verb Base] is phối hợp cùng [Tiếp Động Cơ][Progressive Verb Base] handling.</li>
+					<li className="list-none">Hình thái: [handling user traffic efficiently] - [Động Cụm][Verb Phrase] chứa [Thời Động Cơ][Tense Verb Base] is phối hợp cùng [Tiếp Động Cơ][Progressive Verb Base] handling.</li>
 			
-					<li className="list-none">Chức năng: [handling user traffic efficiently] - Tính Cụm [Adjective Phrase] đứng sau nhằm mô tả trạng thái thuộc tính cho dịch vụ nhỏ.</li>
+					<li className="list-none">Chức năng: [handling user traffic efficiently] - [Tính Cụm][Adjective Phrase] đứng sau nhằm mô tả trạng thái thuộc tính cho dịch vụ nhỏ.</li>
 			
 				</ul>
 			
@@ -228,15 +228,15 @@ export default function NineBox1(): React.JSX.Element {
 					<li>They test the components [to secure the deployment pipeline].</li>
 					<li className="margin-bottom-20 list-none">Họ kiểm thử các thành phần [để bảo mật đường ống triển khai].</li>
 			
-					<li className="list-none">Hình thái: [to secure the deployment pipeline] - Động Cụm [Verb Phrase] thiết lập một khối hành động chứa cấu trúc chỉ mục đích xoay quanh Động Cơ [Verb Base] secure.</li>
+					<li className="list-none">Hình thái: [to secure the deployment pipeline] - [Động Cụm][Verb Phrase] thiết lập một khối hành động chứa cấu trúc chỉ mục đích xoay quanh [Động Cơ][Verb Base] secure.</li>
 			
-					<li className="list-none">Chức năng: [to secure the deployment pipeline] - Trạng Cụm [Adverb Phrase] bổ nghĩa bối cảnh mục đích cho hành động kiểm thử.</li>
+					<li className="list-none">Chức năng: [to secure the deployment pipeline] - [Trạng Cụm][Adverb Phrase] bổ nghĩa bối cảnh mục đích cho hành động kiểm thử.</li>
 			
 				</ul>
 			
 
 
-			<h4 className="margin-y-40">C. Hình thái cấp độ CLAUSE: ĐỘNG CÂU [Verb Clause]</h4>
+			<h4 className="margin-y-40">C. Hình thái cấp độ CLAUSE: [Động Câu][Verb Clause]</h4>
 
 			<p className="text-indent-whole">Là đơn vị hành động mở rộng ở quy mô lớn nhất, chứa một cấu trúc câu con bên trong nó.</p>
 
@@ -249,9 +249,9 @@ export default function NineBox1(): React.JSX.Element {
 					<li>The console verifies [that the background task failed].</li>
 					<li className="margin-bottom-20 list-none">Bảng điều khiển xác nhận [rằng tác vụ chạy nền đã thất bại].</li>
 			
-					<li className="list-none">Hình thái: [that the background task failed] - Động Câu [Verb Clause] tạo nên một module thực thi chứa Liên Cơ [Connector Base] dẫn đường và câu con xoay quanh [Thời-Thuần Động Cơ][Tense-Bare Verb Base] failed.</li>
+					<li className="list-none">Hình thái: [that the background task failed] - [Động Câu][Verb Clause] tạo nên một module thực thi chứa [Liên Cơ][Connector Base] dẫn đường và câu con xoay quanh [Thời-Thuần Động Cơ][Tense-Bare Verb Base] failed.</li>
 			
-					<li className="list-none">Chức năng: [that the background task failed] - Danh Câu [Noun Clause] hoạt động như một khối Danh Nhận dữ liệu được xác nhận.</li>
+					<li className="list-none">Chức năng: [that the background task failed] - [Danh Câu][Noun Clause] hoạt động như một khối Danh Nhận dữ liệu được xác nhận.</li>
 			
 				</ul>
 			
@@ -263,9 +263,9 @@ export default function NineBox1(): React.JSX.Element {
 					<li>The algorithm [which computes the encryption key] works fast.</li>
 					<li className="margin-bottom-20 list-none">Thuật toán [mà nó tính toán khóa mã hóa] hoạt động nhanh.</li>
 			
-					<li className="list-none">Hình thái: [which computes the encryption key] - Động Câu [Verb Clause] vận hành như một module chứa Liên Cơ [Connector Base] đứng lồng giữa xoay quanh [Thời-Thuần Động Cơ][Tense-Bare Verb Base] computes.</li>
+					<li className="list-none">Hình thái: [which computes the encryption key] - [Động Câu][Verb Clause] vận hành như một module chứa [Liên Cơ][Connector Base] đứng lồng giữa xoay quanh [Thời-Thuần Động Cơ][Tense-Bare Verb Base] computes.</li>
 			
-					<li className="list-none">Chức năng: [which computes the encryption key] - Tính Câu [Adjective Clause] đóng vai trò định danh thuộc tính để chỉ rõ loại thuật toán nào.</li>
+					<li className="list-none">Chức năng: [which computes the encryption key] - [Tính Câu][Adjective Clause] đóng vai trò định danh thuộc tính để chỉ rõ loại thuật toán nào.</li>
 			
 				</ul>
 			
@@ -277,58 +277,58 @@ export default function NineBox1(): React.JSX.Element {
 					<li>The backup initiates [because the database space filled].</li>
 					<li className="margin-bottom-20 list-none">Việc sao lưu bắt đầu [bởi vì dung lượng cơ sở dữ liệu đã đầy].</li>
 			
-					<li className="list-none">Hình thái: [because the database space filled] - Động Câu [Verb Clause] bao gồm một module chứa Liên Cơ [Connector Base] biểu thị điều kiện bối cảnh xoay quanh [Thời-Thuần Động Cơ][Tense-Bare Verb Base] filled.</li>
+					<li className="list-none">Hình thái: [because the database space filled] - [Động Câu][Verb Clause] bao gồm một module chứa [Liên Cơ][Connector Base] biểu thị điều kiện bối cảnh xoay quanh [Thời-Thuần Động Cơ][Tense-Bare Verb Base] filled.</li>
 			
-					<li className="list-none">Chức năng: [because the database space filled] - Trạng Câu [Adverb Clause] bổ nghĩa bối cảnh nguyên nhân cho hành động bắt đầu.</li>
+					<li className="list-none">Chức năng: [because the database space filled] - [Trạng Câu][Adverb Clause] bổ nghĩa bối cảnh nguyên nhân cho hành động bắt đầu.</li>
 			
 				</ul>
 
 
-			<h4 className="margin-y-40">D. Hiện tượng Động Câu Ẩn Thành Phần Liên Kết [Zero-Connector Verb Clauses]</h4>
+			<h4 className="margin-y-40">D. Hiện tượng [Động Câu] Ẩn Thành Phần Liên Kết [Zero-Connector Verb Clauses]</h4>
 					
-			<p className="text-indent-whole">Trong thực tế vận hành ngôn ngữ, người bản ngữ thường lược bỏ các cấu trúc liên kết [như các Liên Cơ [Connector Base]].</p>
+			<p className="text-indent-whole">Trong thực tế vận hành ngôn ngữ, người bản ngữ thường lược bỏ các cấu trúc liên kết [như các [Liên Cơ][Connector Base]].</p>
 
-			<p className="text-indent-whole">Khối dữ liệu lúc này có hình thái bề ngoài giống hệt như một câu độc lập, nhưng bản chất vẫn là một Động Câu [Verb Clause] không thể đứng một mình vì đang bị khóa chặt vào một vị trí chức năng bên trong Câu lớn:</p>
+			<p className="text-indent-whole">Khối dữ liệu lúc này có hình thái bề ngoài giống hệt như một câu độc lập, nhưng bản chất vẫn là một [Động Câu][Verb Clause] không thể đứng một mình vì đang bị khóa chặt vào một vị trí chức năng bên trong Câu lớn:</p>
 
 
-			<p className="margin-top-20 text-indent-whole"><strong>Danh Câu Ẩn Liên</strong> [<strong>Zero-Connector Noun Clause</strong>]:</p>
+			<p className="margin-top-20 text-indent-whole">[<strong>Danh Câu Ẩn Liên</strong>][<strong>Zero-Connector Noun Clause</strong>]:</p>
 			
 				<ul className="list-square">
 			
 					<li>The network architect suspects [the firewall blocks the packet].</li>
 					<li className="margin-bottom-20 list-none">Kiến trúc sư mạng nghi ngờ [tường lửa chặn gói tin].</li>
 			
-					<li className="list-none">Hình thái: [the firewall blocks the packet] - Động Câu [Verb Clause] hoàn toàn vắng bóng Liên Cơ [Connector Base] dẫn đường nhưng có đầy đủ kết cấu hành động xoay quanh [Thời-Thuần Động Cơ][Tense-Bare Verb Base] blocks.</li>
+					<li className="list-none">Hình thái: [the firewall blocks the packet] - [Động Câu][Verb Clause] hoàn toàn vắng bóng [Liên Cơ][Connector Base] dẫn đường nhưng có đầy đủ kết cấu hành động xoay quanh [Thời-Thuần Động Cơ][Tense-Bare Verb Base] blocks.</li>
 			
-					<li className="list-none">Chức năng: [the firewall blocks the packet] - Danh Câu [Noun Clause] đóng vai trò làm Danh Nhận dữ liệu trực tiếp đứng sau điều phối của [Thời-Thuần Động Cơ][Tense-Bare Verb Base] suspects.</li>
+					<li className="list-none">Chức năng: [the firewall blocks the packet] - [Danh Câu][Noun Clause] đóng vai trò làm Danh Nhận dữ liệu trực tiếp đứng sau điều phối của [Thời-Thuần Động Cơ][Tense-Bare Verb Base] suspects.</li>
 			
 				</ul>
 			
 			
-			<p className="margin-top-20 text-indent-whole"><strong>Tính Câu Ẩn Liên</strong> [<strong>Zero-Connector Adjective Clause</strong>]:</p>
+			<p className="margin-top-20 text-indent-whole">[<strong>Tính Câu Ẩn Liên</strong>][<strong>Zero-Connector Adjective Clause</strong>]:</p>
 			
 				<ul className="list-square">
 			
 					<li>The API [the vendor provided yesterday] throws exceptions.</li>
 					<li className="margin-bottom-20 list-none">Giao diện lập trình ứng dụng [nhà cung cấp cung cấp ngày hôm qua] ném ra các ngoại lệ.</li>
 			
-					<li className="list-none">Hình thái: [the vendor provided yesterday] - Động Câu [Verb Clause] vận hành như một module chứa cấu trúc câu con đứng lồng lách ngay sau một danh mục mục tiêu mà không có Liên Cơ [Connector Base], xoay quanh [Thời-Thuần Động Cơ][Tense-Bare Verb Base] provided.</li>
+					<li className="list-none">Hình thái: [the vendor provided yesterday] - [Động Câu][Verb Clause] vận hành như một module chứa cấu trúc câu con đứng lồng lách ngay sau một danh mục mục tiêu mà không có [Liên Cơ][Connector Base], xoay quanh [Thời-Thuần Động Cơ][Tense-Bare Verb Base] provided.</li>
 			
-					<li className="list-none">Chức năng: [the vendor provided yesterday] - Tính Câu [Adjective Clause] đóng vai trò định danh thuộc tính để chỉ rõ loại API nào bổ nghĩa cho Danh Chủ đứng trước.</li>
+					<li className="list-none">Chức năng: [the vendor provided yesterday] - [Tính Câu][Adjective Clause] đóng vai trò định danh thuộc tính để chỉ rõ loại API nào bổ nghĩa cho Danh Chủ đứng trước.</li>
 			
 				</ul>
 			
 			
-			<p className="margin-top-20 text-indent-whole"><strong>Trạng Câu Ẩn Liên</strong> [<strong>Zero-Connector Adverb Clause</strong>]:</p>
+			<p className="margin-top-20 text-indent-whole">[<strong>Trạng Câu Ẩn Liên</strong>][<strong>Zero-Connector Adverb Clause</strong>]:</p>
 			
 				<ul className="list-square">
 			
 					<li>[The compilation completed], the operations team triggered the deployment.</li>
 					<li className="margin-bottom-20 list-none">[Việc biên dịch đã hoàn thành xong], đội ngũ vận hành đã kích hoạt triển khai.</li>
 			
-					<li className="list-none">Hình thái: [The compilation completed] - Động Câu [Verb Clause] bao gồm một module chứa cấu trúc câu con biểu thị sự kiện được đóng gói đặt ở đầu Câu lớn, ngăn cách bằng dấu phẩy, xoay quanh [Thời-Thuần Động Cơ][Tense-Bare Verb Base] completed.</li>
+					<li className="list-none">Hình thái: [The compilation completed] - [Động Câu][Verb Clause] bao gồm một module chứa cấu trúc câu con biểu thị sự kiện được đóng gói đặt ở đầu Câu lớn, ngăn cách bằng dấu phẩy, xoay quanh [Thời-Thuần Động Cơ][Tense-Bare Verb Base] completed.</li>
 			
-					<li className="list-none">Chức năng: [The compilation completed] - Trạng Câu [Adverb Clause] bổ nghĩa bối cảnh nguyên nhân hoặc thời gian nền cho toàn bộ hệ thống hành động phía sau.</li>
+					<li className="list-none">Chức năng: [The compilation completed] - [Trạng Câu][Adverb Clause] bổ nghĩa bối cảnh nguyên nhân hoặc thời gian nền cho toàn bộ hệ thống hành động phía sau.</li>
 			
 				</ul>
 
@@ -338,7 +338,7 @@ export default function NineBox1(): React.JSX.Element {
 					
 			<p className="text-indent-whole">Bên cạnh hệ động, cấu trúc ngôn ngữ còn được vận hành bởi các khối liên kết không xuất phát từ gốc hành động, tiêu biểu là <strong>Giới Cụm</strong> [Prepositional Phrase].</p>
 
-			<p className="text-indent-whole">Khối này được nhận diện trực tiếp bằng mắt thông qua từ khóa dẫn đường (Giới Cơ [Preposition Base]) đứng đầu, phối hợp cùng một khối danh mục mục tiêu làm Danh Nhận phía sau. Khi đưa vào vận hành, khối này chỉ đảm nhận việc kích hoạt thuộc tính hoặc bối cảnh.</p>
+			<p className="text-indent-whole">Khối này được nhận diện trực tiếp bằng mắt thông qua từ khóa dẫn đường ([Giới Cơ][Preposition Base]) đứng đầu, phối hợp cùng một khối danh mục mục tiêu làm Danh Nhận phía sau. Khi đưa vào vận hành, khối này chỉ đảm nhận việc kích hoạt thuộc tính hoặc bối cảnh.</p>
 
 
 
@@ -349,9 +349,9 @@ export default function NineBox1(): React.JSX.Element {
 					<li>The documentation [for the web framework] contains errors.</li>
 					<li className="margin-bottom-20 list-none">Tài liệu hướng dẫn [cho khung phần mềm web] chứa các lỗi.</li>
 			
-					<li className="list-none">Hình thái: [for the web framework] - Giới Cụm [Prepositional Phrase] dẫn đầu bằng Giới Cơ for.</li>
+					<li className="list-none">Hình thái: [for the web framework] - [Giới Cụm][Prepositional Phrase] dẫn đầu bằng [Giới Cơ] for.</li>
 			
-					<li className="list-none">Chức năng: [for the web framework] - Tính Cụm [Adjective Phrase] đứng ngay sau đối tượng nhằm xác định rõ thuộc tính định danh cho tài liệu.</li>
+					<li className="list-none">Chức năng: [for the web framework] - [Tính Cụm][Adjective Phrase] đứng ngay sau đối tượng nhằm xác định rõ thuộc tính định danh cho tài liệu.</li>
 			
 				</ul>
 			
@@ -363,9 +363,9 @@ export default function NineBox1(): React.JSX.Element {
 					<li>They monitor server nodes [at regular intervals].</li>
 					<li className="margin-bottom-20 list-none">Họ giám sát các nút máy chủ [tại các khoảng thời gian đều đặn].</li>
 			
-					<li className="list-none">Hình thái: [at regular intervals] - Giới Cụm [Prepositional Phrase] dẫn đầu bằng Giới Cơ chỉ thời gian at.</li>
+					<li className="list-none">Hình thái: [at regular intervals] - [Giới Cụm][Prepositional Phrase] dẫn đầu bằng [Giới Cơ] chỉ thời gian at.</li>
 			
-					<li className="list-none">Chức năng: [at regular intervals] - Trạng Cụm [Adverb Phrase] bổ nghĩa bối cảnh thời gian cho hành động giám sát.</li>
+					<li className="list-none">Chức năng: [at regular intervals] - [Trạng Cụm][Adverb Phrase] bổ nghĩa bối cảnh thời gian cho hành động giám sát.</li>
 			
 				</ul>
 			
@@ -377,52 +377,52 @@ export default function NineBox1(): React.JSX.Element {
 
 			<p>Trong các cấu trúc phức tạp, các Module sẽ lồng vào nhau theo kiến trúc hình khối.</p>
 
-			<p><strong>Quy ước</strong>: Dấu [] <strong>bao quanh tầng ngoài</strong> và dấu {'{}'} <strong>bao quanh tầng lồng bên trong</strong>. Hệ thống phân tầng này sẽ quét và lấy trọn vẹn cả các khối Động Cơ điều phối hành động và các thông số cài đặt bối cảnh đi kèm.</p>
+			<p><strong>Quy ước</strong>: Dấu [] <strong>bao quanh tầng ngoài</strong> và dấu {'{}'} <strong>bao quanh tầng lồng bên trong</strong>. Hệ thống phân tầng này sẽ quét và lấy trọn vẹn cả các khối [Động Cơ] điều phối hành động và các thông số cài đặt bối cảnh đi kèm.</p>
 
 					
 			<p className="margin-top-20 text-indent-whole">Khi các khối dữ liệu lồng ghép chéo nhau theo cấu trúc hình khối, hệ thống vận hành cơ chế phân tầng để bóc tách chính xác từng lớp dữ liệu:</p>
 
 			
-			<h4 className="margin-y-40">A. Danh Cụm Phân Tầng [Nested Noun Phrase]</h4>
+			<h4 className="margin-y-40">A. [Danh Cụm] Phân Tầng [Nested Noun Phrase]</h4>
 			
 				<ul className="list-square">
 			
 					<li>[To understand {'{how the database handles the workload}'}] requires deep technical knowledge.</li>
 					<li className="margin-bottom-20 list-none">[Việc hiểu {'{cách cơ sở dữ liệu xử lý khối lượng công việc}'}] yêu cầu kiến thức kỹ thuật chuyên sâu.</li>
 
-					<li className="margin-bottom-20 list-none">Hình thái: Khối tổng thể [To understand {'{how the database handles the workload}'}] đóng vai trò một Động Cụm [Verb Phrase] tầng ngoài. Bên trong bao gói {'{how the database handles the workload}'} đại diện một Động Câu [Verb Clause] tầng trong.</li>
+					<li className="margin-bottom-20 list-none">Hình thái: Khối tổng thể [To understand {'{how the database handles the workload}'}] đóng vai trò một [Động Cụm][Verb Phrase] tầng ngoài. Bên trong bao gói {'{how the database handles the workload}'} đại diện một [Động Câu][Verb Clause] tầng trong.</li>
 			
-					<li className="list-none">Chức năng: Khối {'{how the database handles the workload}'} bên trong đóng vai trò làm Danh Câu [Noun Clause] [làm Danh Nhận] chịu sự điều phối hành động trực tiếp từ Động Cơ [Verb Base] nguyên bản understand, và toàn bộ khối tổng thể [To understand {'{how the database handles the workload}'}] vận hành với chức năng <strong>Danh Cụm</strong> [<strong>Noun Phrase</strong>] đóng vai trò làm Danh Chủ chịu trách nhiệm thực thi câu lớn.</li>
+					<li className="list-none">Chức năng: Khối {'{how the database handles the workload}'} bên trong đóng vai trò làm [Danh Câu][Noun Clause] [làm Danh Nhận] chịu sự điều phối hành động trực tiếp từ [Động Cơ][Verb Base] nguyên bản understand, và toàn bộ khối tổng thể [To understand {'{how the database handles the workload}'}] vận hành với chức năng [<strong>Danh Cụm</strong>][<strong>Noun Phrase</strong>] đóng vai trò làm Danh Chủ chịu trách nhiệm thực thi câu lớn.</li>
 			
 				</ul>
 			
 
 			
-			<h4 className="margin-y-40">B. Tính Cụm Phân Tầng [Nested Adjective Phrase]</h4>
+			<h4 className="margin-y-40">B. [Tính Cụm] Phân Tầng [Nested Adjective Phrase]</h4>
 			
 				<ul className="list-square">
 			
 					<li>The source code [for {'{what the team deployed yesterday}'}] requires a security audit.</li>
 					<li className="margin-bottom-20 list-none">Mã nguồn [cho {'{những gì đội ngũ triển khai ngày hôm qua}'}] yêu cầu một cuộc kiểm toán bảo mật.</li>
 
-					<li className="margin-bottom-20 list-none">Hình thái: Khối tổng thể [for {'{what the team deployed yesterday}'}] đóng vai trò một Giới Cụm [Prepositional Phrase] tầng ngoài. Bên trong bao gói {'{what the team deployed yesterday}'} đại diện một Động Câu [Verb Clause] tầng trong.</li>
+					<li className="margin-bottom-20 list-none">Hình thái: Khối tổng thể [for {'{what the team deployed yesterday}'}] đóng vai trò một [Giới Cụm][Prepositional Phrase] tầng ngoài. Bên trong bao gói {'{what the team deployed yesterday}'} đại diện một [Động Câu][Verb Clause] tầng trong.</li>
 			
-					<li className="list-none">Chức năng: Khối {'{what the team deployed yesterday}'} bên trong đóng vai trò làm Danh Câu [Noun Clause] [làm Danh Nhận] chịu sự điều phối trực tiếp từ Giới Cơ đứng trước, và toàn bộ khối tổng thể [for {'{what the team deployed yesterday}'}] vận hành với chức năng <strong>Tính Cụm</strong> [<strong>Adjective Phrase</strong>] nhằm mô tả thuộc tính định danh cho khối Danh Cụm [Noun Phrase] "The source code" phía trước.</li>
+					<li className="list-none">Chức năng: Khối {'{what the team deployed yesterday}'} bên trong đóng vai trò làm [Danh Câu][Noun Clause] [làm Danh Nhận] chịu sự điều phối trực tiếp từ [Giới Cơ] đứng trước, và toàn bộ khối tổng thể [for {'{what the team deployed yesterday}'}] vận hành với chức năng [<strong>Tính Cụm</strong>][<strong>Adjective Phrase</strong>] nhằm mô tả thuộc tính định danh cho khối [Danh Cụm][Noun Phrase] "The source code" phía trước.</li>
 			
 				</ul>
 			
 
 
-			<h4 className="margin-y-40">C. Trạng Cụm Phân Tầng [Nested Adverb Phrase]</h4>
+			<h4 className="margin-y-40">C. [Trạng Cụm] Phân Tầng [Nested Adverb Phrase]</h4>
 			
 				<ul className="list-square">
 			
 					<li>The analyst reviews the ledger [at {'{where the system stores financial logs}'}].</li>
 					<li className="margin-bottom-20 list-none">Nhà phân tích kiểm tra sổ cái [tại {'{nơi mà hệ thống lưu trữ nhật ký tài chính}'}].</li>
 
-					<li className="margin-bottom-20 list-none">Hình thái: Khối tổng thể [at {'{where the system stores financial logs}'}] đóng vai trò một Giới Cụm [Prepositional Phrase] tầng ngoài. Bên trong bao gói {'{where the system stores financial logs}'} đại diện một Động Câu [Verb Clause] tầng trong.</li>
+					<li className="margin-bottom-20 list-none">Hình thái: Khối tổng thể [at {'{where the system stores financial logs}'}] đóng vai trò một [Giới Cụm][Prepositional Phrase] tầng ngoài. Bên trong bao gói {'{where the system stores financial logs}'} đại diện một [Động Câu][Verb Clause] tầng trong.</li>
 			
-					<li className="list-none">Chức năng: Khối {'{where the system stores financial logs}'} bên trong đóng vai trò làm Danh Câu [Noun Clause] [làm Danh Nhận] chịu sự điều phối trực tiếp từ Giới Cơ chỉ vị trí, và toàn bộ khối tổng thể [at {'{where the system stores financial logs}'}] vận hành với chức năng <strong>Trạng Cụm</strong> [<strong>Adverb Phrase</strong>] nhằm bổ nghĩa bối cảnh không gian cho hành động kiểm tra sổ cái.</li>
+					<li className="list-none">Chức năng: Khối {'{where the system stores financial logs}'} bên trong đóng vai trò làm [Danh Câu][Noun Clause] [làm Danh Nhận] chịu sự điều phối trực tiếp từ [Giới Cơ] chỉ vị trí, và toàn bộ khối tổng thể [at {'{where the system stores financial logs}'}] vận hành với chức năng [<strong>Trạng Cụm</strong>][<strong>Adverb Phrase</strong>] nhằm bổ nghĩa bối cảnh không gian cho hành động kiểm tra sổ cái.</li>
 			
 				</ul>
 			
@@ -448,9 +448,9 @@ export default function NineBox1(): React.JSX.Element {
 					<li>[Automation] increases workflow efficiency.</li>
 					<li className="margin-bottom-20 list-none">[Tự động hóa] tăng hiệu suất quy trình công việc.</li>
 			
-					<li className="list-none">Hình thái: [Automation] - Động Cơ [Verb Base] nguyên bản gốc "Automate" thêm đuôi "tion" để hình thành cấu trúc danh mục thông tin.</li>
+					<li className="list-none">Hình thái: [Automation] - [Động Cơ][Verb Base] nguyên bản gốc "Automate" thêm đuôi "tion" để hình thành cấu trúc danh mục thông tin.</li>
 			
-					<li className="list-none">Chức năng: [Automation] - Danh Cơ [Noun Base] [Danh Chủ].</li>
+					<li className="list-none">Chức năng: [Automation] - [Danh Cơ][Noun Base] [Danh Chủ].</li>
 			
 				</ul>
 			
@@ -462,9 +462,9 @@ export default function NineBox1(): React.JSX.Element {
 					<li>[The deployment of new software tools] increases workflow efficiency.</li>
 					<li className="margin-bottom-20 list-none">[Việc triển khai các công cụ phần mềm mới] tăng hiệu suất quy trình công việc.</li>
 			
-					<li className="list-none">Hình thái: [The deployment of new software tools] - Động Cụm [Verb Phrase].</li>
+					<li className="list-none">Hình thái: [The deployment of new software tools] - [Động Cụm][Verb Phrase].</li>
 			
-					<li className="list-none">Chức năng: [The deployment of new software tools] - Danh Cụm [Noun Phrase] [Danh Chủ].</li>
+					<li className="list-none">Chức năng: [The deployment of new software tools] - [Danh Cụm][Noun Phrase] [Danh Chủ].</li>
 			
 				</ul>
 			
@@ -476,9 +476,9 @@ export default function NineBox1(): React.JSX.Element {
 					<li>[What the engineering team implemented yesterday] increases workflow efficiency.</li>
 					<li className="margin-bottom-20 list-none">[Những gì đội ngũ kỹ sư triển khai ngày hôm qua] tăng hiệu suất quy trình công việc.</li>
 			
-					<li className="list-none">Hình thái: [What the engineering team implemented yesterday] - Động Câu [Verb Clause].</li>
+					<li className="list-none">Hình thái: [What the engineering team implemented yesterday] - [Động Câu][Verb Clause].</li>
 			
-					<li className="list-none">Chức năng: [What the engineering team implemented yesterday] - Danh Câu [Noun Clause] [Danh Chủ].</li>
+					<li className="list-none">Chức năng: [What the engineering team implemented yesterday] - [Danh Câu][Noun Clause] [Danh Chủ].</li>
 			
 				</ul>
 			
@@ -494,9 +494,9 @@ export default function NineBox1(): React.JSX.Element {
 					<li>We must replace this [unsecured] connection.</li>
 					<li className="margin-bottom-20 list-none">Chúng ta phải thay thế kết nối [không an toàn] này.</li>
 			
-					<li className="list-none">Hình thái: [unsecured] - Động Cơ [Verb Base] nguyên bản gốc "Secure" thêm tiền tố "un" và đuôi "ed" để hình thành [Hoàn Động Cơ][Perfect Verb Base] dạng phân từ V3/V-ed.</li>
+					<li className="list-none">Hình thái: [unsecured] - [Động Cơ][Verb Base] nguyên bản gốc "Secure" thêm tiền tố "un" và đuôi "ed" để hình thành [Hoàn Động Cơ][Perfect Verb Base] dạng phân từ V3/V-ed.</li>
 			
-					<li className="list-none">Chức năng: [unsecured] - Tính Cơ [Adjective Base].</li>
+					<li className="list-none">Chức năng: [unsecured] - [Tính Cơ][Adjective Base].</li>
 			
 				</ul>
 			
@@ -508,9 +508,9 @@ export default function NineBox1(): React.JSX.Element {
 					<li>We must replace this connection [causing security leaks].</li>
 					<li className="margin-bottom-20 list-none">Chúng ta phải thay thế kết nối [gây ra rò rỉ bảo mật] này.</li>
 			
-					<li className="list-none">Hình thái: [causing security leaks] - Động Cụm [Verb Phrase].</li>
+					<li className="list-none">Hình thái: [causing security leaks] - [Động Cụm][Verb Phrase].</li>
 			
-					<li className="list-none">Chức năng: [causing security leaks] - Tính Cụm [Adjective Phrase].</li>
+					<li className="list-none">Chức năng: [causing security leaks] - [Tính Cụm][Adjective Phrase].</li>
 			
 				</ul>
 			
@@ -522,9 +522,9 @@ export default function NineBox1(): React.JSX.Element {
 					<li>We must replace this connection [which allows unauthorized user access].</li>
 					<li className="margin-bottom-20 list-none">Chúng ta phải thay thế kết nối [mà nó cho phép người dùng không được cấp quyền truy cập vào] này.</li>
 			
-					<li className="list-none">Hình thái: [which allows unauthorized user access] - Động Câu [Verb Clause].</li>
+					<li className="list-none">Hình thái: [which allows unauthorized user access] - [Động Câu][Verb Clause].</li>
 			
-					<li className="list-none">Chức năng: [which allows unauthorized user access] - Tính Câu [Adjective Clause].</li>
+					<li className="list-none">Chức năng: [which allows unauthorized user access] - [Tính Câu][Adjective Clause].</li>
 			
 				</ul>
 
@@ -536,9 +536,9 @@ export default function NineBox1(): React.JSX.Element {
 					<li>We must replace this connection [with multiple security flaws].</li>
 					<li className="margin-bottom-20 list-none">Chúng ta phải thay thế kết nối [với nhiều lỗ hổng bảo mật] này.</li>
 			
-					<li className="list-none">Hình thái: [with multiple security flaws] - Giới Cụm [Prepositional Phrase].</li>
+					<li className="list-none">Hình thái: [with multiple security flaws] - [Giới Cụm][Prepositional Phrase].</li>
 			
-					<li className="list-none">Chức năng: [with multiple security flaws] - Tính Cụm [Adjective Phrase].</li>
+					<li className="list-none">Chức năng: [with multiple security flaws] - [Tính Cụm][Adjective Phrase].</li>
 			
 				</ul>
 			
@@ -554,9 +554,9 @@ export default function NineBox1(): React.JSX.Element {
 					<li>The server updates [automatically].</li>
 					<li className="margin-bottom-20 list-none">Máy chủ cập nhật [một cách tự động].</li>
 			
-					<li className="list-none">Hình thái: [automatically] - Động Cơ [Verb Base] biến đổi hình thái từ gốc hành động "Automate" qua dạng tính từ rồi thêm đuôi "ly" để hình thành từ chỉ cách thức.</li>
+					<li className="list-none">Hình thái: [automatically] - [Động Cơ][Verb Base] biến đổi hình thái từ gốc hành động "Automate" qua dạng tính từ rồi thêm đuôi "ly" để hình thành từ chỉ cách thức.</li>
 			
-					<li className="list-none">Chức năng: [automatically] - Trạng Cơ [Adverb Base].</li>
+					<li className="list-none">Chức năng: [automatically] - [Trạng Cơ][Adverb Base].</li>
 			
 				</ul>
 			
@@ -568,9 +568,9 @@ export default function NineBox1(): React.JSX.Element {
 					<li>The server updates [to enhance overall performance].</li>
 					<li className="margin-bottom-20 list-none">Máy chủ cập nhật [để nâng cao hiệu suất toàn diện].</li>
 			
-					<li className="list-none">Hình thái: [to enhance overall performance] - Động Cụm [Verb Phrase].</li>
+					<li className="list-none">Hình thái: [to enhance overall performance] - [Động Cụm][Verb Phrase].</li>
 			
-					<li className="list-none">Chức năng: [to enhance overall performance] - Trạng Cụm [Adverb Phrase].</li>
+					<li className="list-none">Chức năng: [to enhance overall performance] - [Trạng Cụm][Adverb Phrase].</li>
 			
 				</ul>
 			
@@ -582,9 +582,9 @@ export default function NineBox1(): React.JSX.Element {
 					<li>The server updates [whenever a new security patch publishes].</li>
 					<li className="margin-bottom-20 list-none">Máy chủ cập nhật [bất cứ khi nào một bản vá bảo mật mới được phát hành].</li>
 			
-					<li className="list-none">Hình thái: [whenever a new security patch publishes] - Động Câu [Verb Clause].</li>
+					<li className="list-none">Hình thái: [whenever a new security patch publishes] - [Động Câu][Verb Clause].</li>
 			
-					<li className="list-none">Chức năng: [whenever a new security patch publishes] - Trạng Câu [Adverb Clause].</li>
+					<li className="list-none">Chức năng: [whenever a new security patch publishes] - [Trạng Câu][Adverb Clause].</li>
 			
 				</ul>
 
@@ -596,9 +596,9 @@ export default function NineBox1(): React.JSX.Element {
 					<li>The server updates [without any human intervention].</li>
 					<li className="margin-bottom-20 list-none">Máy chủ cập nhật [mà không cần bất kỳ sự can thiệp nào của con người].</li>
 			
-					<li className="list-none">Hình thái: [without any human intervention] - Giới Cụm [Prepositional Phrase].</li>
+					<li className="list-none">Hình thái: [without any human intervention] - [Giới Cụm][Prepositional Phrase].</li>
 			
-					<li className="list-none">Chức năng: [without any human intervention] - Trạng Cụm [Adverb Phrase].</li>
+					<li className="list-none">Chức năng: [without any human intervention] - [Trạng Cụm][Adverb Phrase].</li>
 			
 				</ul>
 			
@@ -610,7 +610,7 @@ export default function NineBox1(): React.JSX.Element {
 
 			<p>Sự đồng bộ giữa hai trục Chức năng [Danh - Tính - Trạng] và Cấp độ [Base - Phrase - Clause] tạo ra một bộ lọc ngôn ngữ cực kỳ tinh gọn.</p>
 
-			<p>Khi bạn chuyển đổi cách nhìn sang việc bóc tách Hình thái trước rồi định hình Chức năng dựa trên vị trí và sự phối hợp chuẩn hóa của 6 mảnh ghép phân loại hệ Động gồm Động Cơ, Thời Động Cơ, Thời Động Cơ Phức, Tiếp Động Cơ, Thuần Động Cơ, Hoàn Động Cơ, Thái Động Cơ và Thời-Thuần Động Cơ cùng sự điều hướng của các <strong>Liên Cơ</strong> [<strong>Connector Base</strong>], việc làm chủ hay viết lại bất kỳ câu tiếng Anh chuyên ngành phức tạp nào cũng chỉ còn là việc lắp ráp các khối dữ liệu chuẩn hóa.</p>
+			<p>Khi bạn chuyển đổi cách nhìn sang việc bóc tách Hình thái trước rồi định hình Chức năng dựa trên vị trí và sự phối hợp chuẩn hóa của 6 mảnh ghép phân loại hệ Động gồm Động Cơ, [Thời Động Cơ], [Tiếp Động Cơ], [Thuần Động Cơ], [Hoàn Động Cơ], [Thái Động Cơ] và [Thời-Thuần Động Cơ] cùng sự điều hướng của các [<strong>Liên Cơ</strong>][<strong>Connector Base</strong>], việc làm chủ hay viết lại bất kỳ câu tiếng Anh chuyên ngành phức tạp nào cũng chỉ còn là việc lắp ráp các khối dữ liệu chuẩn hóa.</p>
 			
 
 			<div className="viewcounter">

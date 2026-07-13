@@ -17,7 +17,7 @@ export default function NhanBietTinhTuTiengAnh(): React.JSX.Element {
 		
 			<h4><HashLink smooth to="/tieng-anh#tieng-anh-terms"><mark className="highlight-tertiary-padding-4-8">Tiếng Anh</mark></HashLink></h4>
 
-			<h1 className="margin-y-50 text-center">Bí Quyết Nhận Biết Tính Cơ Tiếng Anh Nhanh Như Chớp Qua Đuôi Từ</h1>
+			<h1 className="margin-y-50 text-center">Bí Quyết Nhận Biết [Tính Cơ] Tiếng Anh Nhanh Như Chớp Qua Đuôi Từ</h1>
 
 			<p>Bạn có bao giờ cảm thấy bối rối khi phải phân biệt <strong>tính cơ</strong> (<strong>adjective</strong>) với các từ loại khác trong câu? Đừng lo! Trong tiếng Anh, hầu hết tính cơ đều để lại “dấu vân tay” rất rõ ràng qua <strong>đuôi từ</strong> (<strong>suffix</strong>). Chỉ cần ghi nhớ khoảng 8–10 đuôi phổ biến nhất, bạn đã có thể đoán đúng đến 85–90% các tính cơ khi làm bài thi, viết luận hay giao tiếp hàng ngày.</p>
 			

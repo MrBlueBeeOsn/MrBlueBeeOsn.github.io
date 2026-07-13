@@ -17,7 +17,7 @@ export default function NamDangDongTuVangRong2(): React.JSX.Element {
 		
 			<h4><HashLink smooth to="/tieng-anh#tieng-anh-terms"><mark className="highlight-tertiary-padding-4-8">Tiếng Anh</mark></HashLink></h4>
 
-			<h1 className="margin-y-50 text-center">5 Dạng Động Cơ “Vàng Ròng
+			<h1 className="margin-y-50 text-center">5 Dạng [Động Cơ] “Vàng Ròng
 			
 				<sup><HashLink smooth to="/tieng-anh/5-dang-dong-tu-vang-rong-1">&nbsp;1&nbsp;</HashLink>
 				</sup>
@@ -27,13 +27,13 @@ export default function NamDangDongTuVangRong2(): React.JSX.Element {
 
 			</h1>
 
-			<h4 className="margin-bottom-30 text-center">Từ "Ngại Nói" Thành "Nói Đã Tai" Chỉ Với 12 Động Cơ Siêu Phổ Biến! 🔥</h4>
+			<h4 className="margin-bottom-30 text-center">Từ "Ngại Nói" Thành "Nói Đã Tai" Chỉ Với 12 [Động Cơ] Siêu Phổ Biến! 🔥</h4>
 
 			<p>Bạn có từng rơi vào tình huống: muốn nói tiếng Anh mà đầu óc cứ quay mòng mòng "dùng thì nào bây giờ?", "động cơ này chia ra sao?"?</p>
 
 			<p>Tin vui: Chỉ cần nắm chắc <strong>12 động cơ thông dụng nhất</strong> cùng <strong>5 dạng cơ bản</strong> của chúng, bạn sẽ tự tin "bung lụa" trong hầu hết các cuộc trò chuyện đời thường – từ chat chit bạn bè, phỏng vấn xin việc, đến kể chuyện du lịch.</p>
 
-			<h3 className="margin-y-50 text-center" id="bang-vang-12-dong-tu">Bảng "Vàng" 12 Động Cơ – Nắm Là Dùng Ngay</h3>
+			<h3 className="margin-y-50 text-center" id="bang-vang-12-dong-tu">Bảng "Vàng" 12 [Động Cơ] – Nắm Là Dùng Ngay</h3>
 
 				<table className="margin-y-50">
 					<thead>
@@ -179,9 +179,9 @@ export default function NamDangDongTuVangRong2(): React.JSX.Element {
 					</tbody>
 				</table>
 
-			{/* 5 "Siêu Thì" Bạn Dùng Hàng Ngày Với 12 Động Cơ Này */}
+			{/* 5 "Siêu Thì" Bạn Dùng Hàng Ngày Với 12 [Động Cơ] Này */}
 
-			<h3 className="margin-y-50 text-center">5 "Siêu Thì" Bạn Dùng Hàng Ngày Với 12 Động Cơ Này</h3>
+			<h3 className="margin-y-50 text-center">5 "Siêu Thì" Bạn Dùng Hàng Ngày Với 12 [Động Cơ] Này</h3>
 					
 				<ol>
 			

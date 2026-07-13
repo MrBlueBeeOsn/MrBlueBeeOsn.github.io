@@ -61,7 +61,7 @@ export default function DichCauHoiTiengAnh(): React.JSX.Element {
 
 					<li><strong>Hỏi từ</strong> (<strong>question word</strong>): Như <strong>what</strong>, <strong>who</strong>, <strong>where</strong>, <strong>when</strong>, <strong>why</strong>, <strong>how</strong>, đứng đầu câu để hỏi về thông tin cụ thể.</li>
 
-					<li><strong>Thời động cơ</strong> (<strong>auxiliary verb</strong>): Như <strong>do</strong>, <strong>does</strong>, <strong>did</strong>, <strong>will</strong>, <strong>can</strong>, hỗ trợ cấu trúc ngữ pháp của câu hỏi, thường xuất hiện trong các câu hỏi có động cơ hành động. Trong một số trường hợp, như câu hỏi với động cơ <strong>to be</strong> (is, are, am), không có thời động cơ mà <strong>to be</strong> đóng vai trò là động cơ chính.</li>
+					<li>[<strong>Thời Động Cơ</strong>] (<strong>auxiliary verb</strong>): Như <strong>do</strong>, <strong>does</strong>, <strong>did</strong>, <strong>will</strong>, <strong>can</strong>, hỗ trợ cấu trúc ngữ pháp của câu hỏi, thường xuất hiện trong các câu hỏi có động cơ hành động. Trong một số trường hợp, như câu hỏi với động cơ <strong>to be</strong> (is, are, am), không có thời động cơ mà <strong>to be</strong> đóng vai trò là động cơ chính.</li>
 
 					<li><strong>Chủ từ</strong> (<strong>subject</strong>): Thành phần thực hiện hành động, đứng sau hỏi từ và thời động cơ (hoặc động cơ chính nếu không có thời động cơ).</li>
 
@@ -327,7 +327,7 @@ export default function DichCauHoiTiengAnh(): React.JSX.Element {
 
 				<p className="margin-top-20"><strong>So sánh với cách khác</strong>: Một cách tiếp cận khác là đặt cả hỏi từ và thời động cơ/động cơ chính vào cùng dấu ngoặc đơn, ví dụ: (<strong>What is</strong>) <strong>English</strong>?. Cách này đơn giản hơn nhưng ít rõ ràng trong việc tách hỏi từ để dịch cuối cùng, đặc biệt với các câu hỏi phức tạp. Cách [<strong>What</strong>] (<strong>is English</strong>)? được khuyến nghị vì nó tách biệt hỏi từ, giúp dễ dàng áp dụng nguyên tắc dịch hỏi từ ở cuối câu.</p>
 
-				<p><strong>Cấu trúc câu hỏi</strong>: Câu hỏi tiếng Anh thường có dạng <strong>hỏi từ</strong> + <strong>thời động cơ</strong>/<strong>động cơ chính</strong> + <strong>chủ từ</strong> + <strong>động cơ chính</strong> (nếu có) + <strong>bổ ngữ</strong>/<strong>trạng cơ</strong>. Khi đặt vào dấu ngoặc, hỏi từ nằm trong dấu [] và thời động cơ cùng chủ từ trong dấu (), nhưng khi dịch, hỏi từ được đặt ở cuối câu.</p>
+				<p><strong>Cấu trúc câu hỏi</strong>: Câu hỏi tiếng Anh thường có dạng <strong>hỏi từ</strong> + [<strong>Thời Động Cơ</strong>]/<strong>động cơ chính</strong> + <strong>chủ từ</strong> + <strong>động cơ chính</strong> (nếu có) + <strong>bổ ngữ</strong>/<strong>trạng cơ</strong>. Khi đặt vào dấu ngoặc, hỏi từ nằm trong dấu [] và thời động cơ cùng chủ từ trong dấu (), nhưng khi dịch, hỏi từ được đặt ở cuối câu.</p>
 
 				<p><strong>Ngữ cảm tự nhiên</strong>: Trong tiếng Việt, thứ tự các thành phần có thể được điều chỉnh để câu văn nghe mượt mà hơn. Ví dụ: [<strong>Where</strong>] (<strong>does she</strong>) <strong>live now</strong>? có thể được dịch thành Cô ấy sống ở đâu bây giờ? thay vì Cô ấy sống bây giờ ở đâu? để tự nhiên hơn.</p>
 

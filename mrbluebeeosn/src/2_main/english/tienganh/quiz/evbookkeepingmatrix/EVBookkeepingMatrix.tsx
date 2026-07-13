@@ -28,7 +28,7 @@ export default function (): React.JSX.Element {
 				"[Noun Phrase]"
 			],
 			correctAnswer: 1,
-			explanation: "Hình thái: [Recording every business transaction] - Động Cụm [Verb Phrase] bắt đầu bằng hành động thêm đuôi \"-ing\" đi kèm các thành phần bổ nghĩa, không có chủ thể thực hiện hành động đứng trước và không biến đổi theo thời gian. \n\n Chức năng: [Recording every business transaction] - Danh Cụm [Noun Phrase] cả này giữ vai trò làm thành phần đứng đầu chính đứng trước \"is\"."
+			explanation: "Hình thái: [Recording every business transaction] - [Động Cụm][Verb Phrase] bắt đầu bằng hành động thêm đuôi \"-ing\" đi kèm các thành phần bổ nghĩa, không có chủ thể thực hiện hành động đứng trước và không biến đổi theo thời gian. \n\n Chức năng: [Recording every business transaction] - [Danh Cụm][Noun Phrase] cả này giữ vai trò làm thành phần đứng đầu chính đứng trước \"is\"."
 		},
 		{
 			id: 2,
@@ -38,7 +38,7 @@ export default function (): React.JSX.Element {
 				"[Adverb Base]"
 			],
 			correctAnswer: 0,
-			explanation: "Hình thái: [adjusting] - Động Cơ [Verb Base] dạng gốc thêm đuôi \"-ing\" đứng đơn lẻ. \n\n Chức năng: [adjusting] - Tính Cơ [Adjective Base] đi kèm ngay trước \"entries\" đứng ra bổ nghĩa cho thành phần này."
+			explanation: "Hình thái: [adjusting] - [Động Cơ][Verb Base] dạng gốc thêm đuôi \"-ing\" đứng đơn lẻ. \n\n Chức năng: [adjusting] - [Tính Cơ][Adjective Base] đi kèm ngay trước \"entries\" đứng ra bổ nghĩa cho thành phần này."
 		},
 		{
 			id: 3,
@@ -48,7 +48,7 @@ export default function (): React.JSX.Element {
 				"[Adverb Phrase]"
 			],
 			correctAnswer: 1,
-			explanation: "Hình thái: [calculating the total payroll for the staff] - Động Cụm [Verb Phrase] bắt đầu bằng hành động thêm đuôi \"-ing\" đi kèm các thành phần bổ nghĩa phía sau, không có chủ thể riêng biệt. \n\n Chức năng: [calculating the total payroll for the staff] - Trạng Cụm [Adverb Phrase] đi kèm sau hành động chính \"worked\" đứng ra bổ nghĩa cho hành động đó theo góc độ cách thức."
+			explanation: "Hình thái: [calculating the total payroll for the staff] - [Động Cụm][Verb Phrase] bắt đầu bằng hành động thêm đuôi \"-ing\" đi kèm các thành phần bổ nghĩa phía sau, không có chủ thể riêng biệt. \n\n Chức năng: [calculating the total payroll for the staff] - [Trạng Cụm][Adverb Phrase] đi kèm sau hành động chính \"worked\" đứng ra bổ nghĩa cho hành động đó theo góc độ cách thức."
 		},
 		{
 			id: 4,
@@ -58,7 +58,7 @@ export default function (): React.JSX.Element {
 				"[Noun Clause]"
 			],
 			correctAnswer: 0,
-			explanation: "Hình thái: [To maintain accurate financial records] - Động Cụm [Verb Phrase] bắt đầu bằng hành động đi kèm \"to\" phía trước kết hợp thành phần bổ nghĩa, không chứa chủ thể thực hiện hành động. \n\n Chức năng: [To maintain accurate financial records] - Danh Cụm [Noun Phrase] cả này giữ vai trò làm thành phần đứng đầu chính đứng trước \"requires\"."
+			explanation: "Hình thái: [To maintain accurate financial records] - [Động Cụm][Verb Phrase] bắt đầu bằng hành động đi kèm \"to\" phía trước kết hợp thành phần bổ nghĩa, không chứa chủ thể thực hiện hành động. \n\n Chức năng: [To maintain accurate financial records] - [Danh Cụm][Noun Phrase] cả này giữ vai trò làm thành phần đứng đầu chính đứng trước \"requires\"."
 		},
 		{
 			id: 5,
@@ -68,7 +68,7 @@ export default function (): React.JSX.Element {
 				"[Adjective Phrase]"
 			],
 			correctAnswer: 1,
-			explanation: "Hình thái: [containing all the credit sales] - Động Cụm [Verb Phrase] bắt đầu bằng hành động thêm đuôi \"-ing\" kết hợp thành phần bổ nghĩa, không có chủ thể riêng đứng trước. \n\n Chức năng: [containing all the credit sales] - Tính Cụm [Adjective Phrase] đứng sau \"The ledger\" đứng ra bổ nghĩa cho thành phần này."
+			explanation: "Hình thái: [containing all the credit sales] - [Động Cụm][Verb Phrase] bắt đầu bằng hành động thêm đuôi \"-ing\" kết hợp thành phần bổ nghĩa, không có chủ thể riêng đứng trước. \n\n Chức năng: [containing all the credit sales] - [Tính Cụm][Adjective Phrase] đứng sau \"The ledger\" đứng ra bổ nghĩa cho thành phần này."
 		},
 		{
 			id: 6,
@@ -78,7 +78,7 @@ export default function (): React.JSX.Element {
 				"[Adverb Clause]"
 			],
 			correctAnswer: 0,
-			explanation: "Hình thái: [to automate the bookkeeping process] - Động Cụm [Verb Phrase] bắt đầu bằng hành động có \"to\" đi kèm các thành phần bổ nghĩa. \n\n Chức năng: [to automate the bookkeeping process] - Trạng Cụm [Adverb Phrase] đứng sau hành động chính \"use\" đứng ra bổ nghĩa cho hành động đó theo góc độ mục đích."
+			explanation: "Hình thái: [to automate the bookkeeping process] - [Động Cụm][Verb Phrase] bắt đầu bằng hành động có \"to\" đi kèm các thành phần bổ nghĩa. \n\n Chức năng: [to automate the bookkeeping process] - [Trạng Cụm][Adverb Phrase] đứng sau hành động chính \"use\" đứng ra bổ nghĩa cho hành động đó theo góc độ mục đích."
 		},
 		{
 			id: 7,
@@ -88,7 +88,7 @@ export default function (): React.JSX.Element {
 				"[Nested Noun Phrase]"
 			],
 			correctAnswer: 1,
-			explanation: "Hình thái: [Finalizing {what the auditors requested} on time] - Động Cụm [Verb Phrase] lồng ghép phân tầng. {what the auditors requested} - Động Câu [Verb Clause] bắt đầu bằng \"what\", có chứa chủ thể \"the auditors\" và hành động \"requested\" xác định theo thời quá khứ. \n\n Chức năng: [Finalizing {what the auditors requested} on time] - Danh Cụm Phân Tầng [Nested Noun Phrase] tầng 1 bên ngoài dùng [] giữ vai trò thành phần đứng đầu chính. {what the auditors requested} - Danh Câu [Noun Clause] giữ vai trò làm thành phần chịu tác động trực tiếp cho hành động \"Finalizing\" ở phía trước."
+			explanation: "Hình thái: [Finalizing {what the auditors requested} on time] - [Động Cụm][Verb Phrase] lồng ghép phân tầng. {what the auditors requested} - [Động Câu][Verb Clause] bắt đầu bằng \"what\", có chứa chủ thể \"the auditors\" và hành động \"requested\" xác định theo thời quá khứ. \n\n Chức năng: [Finalizing {what the auditors requested} on time] - [Danh Cụm] Phân Tầng [Nested Noun Phrase] tầng 1 bên ngoài dùng [] giữ vai trò thành phần đứng đầu chính. {what the auditors requested} - [Danh Câu][Noun Clause] giữ vai trò làm thành phần chịu tác động trực tiếp cho hành động \"Finalizing\" ở phía trước."
 		},
 		{
 			id: 8,
@@ -98,7 +98,7 @@ export default function (): React.JSX.Element {
 				"[Noun Phrase]"
 			],
 			correctAnswer: 0,
-			explanation: "Hình thái: [that the bookkeeper made a serious error] - Động Câu [Verb Clause] bắt đầu bằng \"that\", có chứa chủ thể \"the bookkeeper\" và hành động \"made\" xác định theo thời quá khứ. \n\n Chức năng: [that the bookkeeper made a serious error] - Danh Câu [Noun Clause] đứng sau hành động \"realized\" giữ vai trò tiếp nhận tác động từ hành động này."
+			explanation: "Hình thái: [that the bookkeeper made a serious error] - [Động Câu][Verb Clause] bắt đầu bằng \"that\", có chứa chủ thể \"the bookkeeper\" và hành động \"made\" xác định theo thời quá khứ. \n\n Chức năng: [that the bookkeeper made a serious error] - [Danh Câu][Noun Clause] đứng sau hành động \"realized\" giữ vai trò tiếp nhận tác động từ hành động này."
 		},
 		{
 			id: 9,
@@ -108,7 +108,7 @@ export default function (): React.JSX.Element {
 				"[Adjective Clause]"
 			],
 			correctAnswer: 1,
-			explanation: "Hình thái: [who audits our books every year] - Động Câu [Verb Clause] bắt đầu bằng thành phần liên kết \"who\", có chứa hành động \"audits\" xác định theo thời hiện tại. \n\n Chức năng: [who audits our books every year] - Tính Câu [Adjective Clause] đứng sau \"The accountant\" đứng ra bổ nghĩa cho thành phần này."
+			explanation: "Hình thái: [who audits our books every year] - [Động Câu][Verb Clause] bắt đầu bằng thành phần liên kết \"who\", có chứa hành động \"audits\" xác định theo thời hiện tại. \n\n Chức năng: [who audits our books every year] - [Tính Câu][Adjective Clause] đứng sau \"The accountant\" đứng ra bổ nghĩa cho thành phần này."
 		},
 		{
 			id: 10,
@@ -118,7 +118,7 @@ export default function (): React.JSX.Element {
 				"[Adverb Phrase]"
 			],
 			correctAnswer: 0,
-			explanation: "[Because the tax laws changed recently] - Động Câu [Verb Clause] bắt đầu bằng thành phần liên kết \"Because\", có chứa chủ thể \"the tax laws\" và hành động \"changed\" xác định theo thời quá khứ. \n\n Chức năng: [Because the tax laws changed recently] - Trạng Câu [Adverb Clause] đứng độc lập đứng ra bổ nghĩa cho toàn bộ phần còn lại theo góc độ nguyên nhân."
+			explanation: "[Because the tax laws changed recently] - [Động Câu][Verb Clause] bắt đầu bằng thành phần liên kết \"Because\", có chứa chủ thể \"the tax laws\" và hành động \"changed\" xác định theo thời quá khứ. \n\n Chức năng: [Because the tax laws changed recently] - [Trạng Câu][Adverb Clause] đứng độc lập đứng ra bổ nghĩa cho toàn bộ phần còn lại theo góc độ nguyên nhân."
 		}
 	];
 

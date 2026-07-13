@@ -47,7 +47,7 @@ export default function ThinkStraightFlowFast3(): React.JSX.Element {
 
 			<h2 className="margin-bottom-50 text-center">Flow fast</h2>
 
-			<h4 className="margin-bottom-30 text-center">Bí Quyết "Hack" Tiếng Anh Cho Người Việt: Đặt Tính Cơ Trước Danh Cơ Ngay Từ Tư Duy Tiếng Việt – Cách Học Siêu Hiệu Quả Mà Ít Ai Biết!</h4>
+			<h4 className="margin-bottom-30 text-center">Bí Quyết "Hack" Tiếng Anh Cho Người Việt: Đặt [Tính Cơ] Trước [Danh Cơ] Ngay Từ Tư Duy Tiếng Việt – Cách Học Siêu Hiệu Quả Mà Ít Ai Biết!</h4>
 
 			<p>Bạn đã từng dịch câu tiếng Việt sang tiếng Anh và cảm thấy như não bộ đang "đấu vật" không?</p>
 

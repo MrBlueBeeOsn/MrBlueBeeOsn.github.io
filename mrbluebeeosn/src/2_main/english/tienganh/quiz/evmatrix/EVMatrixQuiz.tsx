@@ -28,7 +28,7 @@ export default function EVMatrixQuiz(): React.JSX.Element {
 				"[Adjective Phrase]"
 			],
 			correctAnswer: 1,
-			explanation: "Hình thái: [sitting by the window] - Động Cụm [Verb Phrase] bắt đầu bằng đuôi -ing kèm các thành phần bổ khuyết để tạo thành một cụm hành vi chưa chia thời gian. \n\n Chức năng: [sitting by the window] - Tính Cụm [Adjective Phrase] đứng ngay sau để bổ nghĩa trực tiếp và định danh cho nhóm thành phần chỉ người \"The girl\"."
+			explanation: "Hình thái: [sitting by the window] - [Động Cụm][Verb Phrase] bắt đầu bằng đuôi -ing kèm các thành phần bổ khuyết để tạo thành một cụm hành vi chưa chia thời gian. \n\n Chức năng: [sitting by the window] - [Tính Cụm][Adjective Phrase] đứng ngay sau để bổ nghĩa trực tiếp và định danh cho nhóm thành phần chỉ người \"The girl\"."
 		},
 		{
 			id: 2,
@@ -38,7 +38,7 @@ export default function EVMatrixQuiz(): React.JSX.Element {
 				"[Adverb Phrase]"
 			],
 			correctAnswer: 0,
-			explanation: "Hình thái: [To learn a new language] - Động Cụm [Verb Phrase] bắt đầu bằng dạng nguyên thể có \"to\" kèm các thành phần bổ khuyết để tạo thành một cụm hành vi chưa chia thời gian. \n\n Chức năng: [To learn a new language] - Danh Cụm [Noun Phrase] đứng ở đầu câu để làm chủ thể cốt lõi thực hiện hành vi cho \"requires\"."
+			explanation: "Hình thái: [To learn a new language] - [Động Cụm][Verb Phrase] bắt đầu bằng dạng nguyên thể có \"to\" kèm các thành phần bổ khuyết để tạo thành một cụm hành vi chưa chia thời gian. \n\n Chức năng: [To learn a new language] - [Danh Cụm][Noun Phrase] đứng ở đầu câu để làm chủ thể cốt lõi thực hiện hành vi cho \"requires\"."
 		},
 		{
 			id: 3,
@@ -48,7 +48,7 @@ export default function EVMatrixQuiz(): React.JSX.Element {
 				"[Adverb Phrase]"
 			],
 			correctAnswer: 1,
-			explanation: "Hình thái: [to let in some fresh air] - Động Cụm [Verb Phrase] bắt đầu bằng dạng nguyên thể có \"to\" kèm các thành phần bổ khuyết để tạo thành một cụm hành vi chưa chia thời gian. \n\n Chức năng: [to let in some fresh air] - Trạng Cụm [Adverb Phrase] bổ sung thông tin chỉ định mục đích hướng tới cho hành vi chính \"opens\"."
+			explanation: "Hình thái: [to let in some fresh air] - [Động Cụm][Verb Phrase] bắt đầu bằng dạng nguyên thể có \"to\" kèm các thành phần bổ khuyết để tạo thành một cụm hành vi chưa chia thời gian. \n\n Chức năng: [to let in some fresh air] - [Trạng Cụm][Adverb Phrase] bổ sung thông tin chỉ định mục đích hướng tới cho hành vi chính \"opens\"."
 		},
 		{
 			id: 4,
@@ -58,7 +58,7 @@ export default function EVMatrixQuiz(): React.JSX.Element {
 				"[Adjective Clause]"
 			],
 			correctAnswer: 1,
-			explanation: "Hình thái: [that you lent me yesterday] - Động Câu [Verb Clause] bắt đầu bằng một thành phần kết nối đi kèm đầy đủ một chủ thể (you) và hành vi đã chia thời gian (lent). \n\n Chức năng: [that you lent me yesterday] - Tính Câu [Adjective Clause] đứng sau để bổ nghĩa và hạn định đặc điểm cho nhóm thành phần chỉ vật \"The book\"."
+			explanation: "Hình thái: [that you lent me yesterday] - [Động Câu][Verb Clause] bắt đầu bằng một thành phần kết nối đi kèm đầy đủ một chủ thể (you) và hành vi đã chia thời gian (lent). \n\n Chức năng: [that you lent me yesterday] - [Tính Câu][Adjective Clause] đứng sau để bổ nghĩa và hạn định đặc điểm cho nhóm thành phần chỉ vật \"The book\"."
 		},
 		{
 			id: 5,
@@ -68,7 +68,7 @@ export default function EVMatrixQuiz(): React.JSX.Element {
 				"[Nested Noun Phrase]"
 			],
 			correctAnswer: 1,
-			explanation: "Hình thái: [know {what we should do next}] - Động Cụm [Verb Phrase] chứa hành vi hạt nhân \"know\" đi kèm thành phần bổ khuyết là một Động Câu [Verb Clause] có cấu trúc chủ-hành vi hoàn chỉnh ở tầng trong {}. \n\n Chức năng: [know {what we should do next}] - Danh Cụm Phân Tầng [Nested Noun Phrase] đóng vai trò cụm tiếp nhận lớn bên ngoài, chứa một danh câu làm thành phần tiếp nhận trực tiếp cho \"know\" ở bên trong."
+			explanation: "Hình thái: [know {what we should do next}] - [Động Cụm][Verb Phrase] chứa hành vi hạt nhân \"know\" đi kèm thành phần bổ khuyết là một [Động Câu][Verb Clause] có cấu trúc chủ-hành vi hoàn chỉnh ở tầng trong {}. \n\n Chức năng: [know {what we should do next}] - [Danh Cụm] Phân Tầng [Nested Noun Phrase] đóng vai trò cụm tiếp nhận lớn bên ngoài, chứa một danh câu làm thành phần tiếp nhận trực tiếp cho \"know\" ở bên trong."
 		},
 		{
 			id: 6,
@@ -78,7 +78,7 @@ export default function EVMatrixQuiz(): React.JSX.Element {
 				"[Adverb Clause]"
 			],
 			correctAnswer: 1,
-			explanation: "Hình thái: [as soon as the rain stops] - Động Câu [Verb Clause] bắt đầu bằng thành phần kết nối đi kèm kết cấu chủ-hành vi hoàn chỉnh (the rain stops) đã chia thời gian. \n\n Chức năng: [as soon as the rain stops] - Trạng Câu [Adverb Clause] liên kết vào cấu trúc để xác định mốc thời gian diễn ra cho toàn bộ phần thông tin chính \"They will leave\"."
+			explanation: "Hình thái: [as soon as the rain stops] - [Động Câu][Verb Clause] bắt đầu bằng thành phần kết nối đi kèm kết cấu chủ-hành vi hoàn chỉnh (the rain stops) đã chia thời gian. \n\n Chức năng: [as soon as the rain stops] - [Trạng Câu][Adverb Clause] liên kết vào cấu trúc để xác định mốc thời gian diễn ra cho toàn bộ phần thông tin chính \"They will leave\"."
 		},
 		{
 			id: 7,
@@ -88,7 +88,7 @@ export default function EVMatrixQuiz(): React.JSX.Element {
 				"[Adjective Phrase]"
 			],
 			correctAnswer: 0,
-			explanation: "Hình thái: [broken] - Động Cơ [Verb Base] tồn tại ở hình thái biến đổi đuôi đặc biệt của thể hoàn thành đứng đơn lẻ, chưa phát triển thành cụm hay câu. \n\n Chức năng: [broken] - Tính Cơ [Adjective Base] nằm trước để nêu đặc điểm thực tế cho thành phần chỉ vật \"vase\"."
+			explanation: "Hình thái: [broken] - [Động Cơ][Verb Base] tồn tại ở hình thái biến đổi đuôi đặc biệt của thể hoàn thành đứng đơn lẻ, chưa phát triển thành cụm hay câu. \n\n Chức năng: [broken] - [Tính Cơ][Adjective Base] nằm trước để nêu đặc điểm thực tế cho thành phần chỉ vật \"vase\"."
 		},
 		{
 			id: 8,
@@ -98,7 +98,7 @@ export default function EVMatrixQuiz(): React.JSX.Element {
 				"[Adjective Base]"
 			],
 			correctAnswer: 1,
-			explanation: "Hình thái: [cry] - Động Cơ [Verb Base] tồn tại ở hình thái dạng gốc nguyên thể không \"to\" đứng độc lập, chưa phát triển thêm thành phần bổ khuyết. \n\n Chức năng: [cry] - Tính Cơ [Adjective Base] bổ sung trạng thái chịu tác động trực tiếp cho phần tiếp nhận \"his younger brother\" phía trước."
+			explanation: "Hình thái: [cry] - [Động Cơ][Verb Base] tồn tại ở hình thái dạng gốc nguyên thể không \"to\" đứng độc lập, chưa phát triển thêm thành phần bổ khuyết. \n\n Chức năng: [cry] - [Tính Cơ][Adjective Base] bổ sung trạng thái chịu tác động trực tiếp cho phần tiếp nhận \"his younger brother\" phía trước."
 		},
 		{
 			id: 9,
@@ -108,7 +108,7 @@ export default function EVMatrixQuiz(): React.JSX.Element {
 				"[Adverb Phrase]"
 			],
 			correctAnswer: 0,
-			explanation: "Hình thái: [to win] - Động Cơ [Verb Base] xét riêng trong ngoặc là hình thái hạt nhân nguyên thể có \"to\" đứng đơn lẻ, không tính phần bổ khuyết phía sau. \n\n Chức năng: [to win] - Trạng Cơ [Adverb Base] đưa vào cấu trúc nhằm nêu bật mục đích cốt lõi cho hành vi \"practiced hard\"."
+			explanation: "Hình thái: [to win] - [Động Cơ][Verb Base] xét riêng trong ngoặc là hình thái hạt nhân nguyên thể có \"to\" đứng đơn lẻ, không tính phần bổ khuyết phía sau. \n\n Chức năng: [to win] - [Trạng Cơ][Adverb Base] đưa vào cấu trúc nhằm nêu bật mục đích cốt lõi cho hành vi \"practiced hard\"."
 		},
 		{
 			id: 10,
@@ -118,7 +118,7 @@ export default function EVMatrixQuiz(): React.JSX.Element {
 				"[Noun Phrase]"
 			],
 			correctAnswer: 0,
-			explanation: "Hình thái: [Smoking] - Động Cơ [Verb Base] tồn tại ở hình thái đuôi -ing đứng hoàn toàn độc lập, chưa phát triển các thành phần bổ khuyết đi kèm. \n\n Chức năng: [Smoking] - Danh Cơ [Noun Base] đóng vai trò chủ thể cốt lõi ở đầu câu để chịu sự tác động từ phần thông tin phía sau."
+			explanation: "Hình thái: [Smoking] - [Động Cơ][Verb Base] tồn tại ở hình thái đuôi -ing đứng hoàn toàn độc lập, chưa phát triển các thành phần bổ khuyết đi kèm. \n\n Chức năng: [Smoking] - [Danh Cơ][Noun Base] đóng vai trò chủ thể cốt lõi ở đầu câu để chịu sự tác động từ phần thông tin phía sau."
 		}
 	];
 

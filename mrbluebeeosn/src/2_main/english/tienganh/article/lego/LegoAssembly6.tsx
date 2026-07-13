@@ -108,7 +108,7 @@ export default function LegoAssembly6(): React.JSX.Element {
 					<li><strong>Động cơ chia</strong>:</li>
 					<li className="margin-bottom-20 list-none">Mang thì trong khẳng định; khi phủ định/nghi vấn cần trợ <strong>do</strong>/<strong>does</strong>/<strong>did</strong>.</li>
 
-					<li><strong>Thời động cơ</strong> (<strong>do</strong>/<strong>does</strong>/<strong>did</strong>):</li>
+					<li>[<strong>Thời Động Cơ</strong>] (<strong>do</strong>/<strong>does</strong>/<strong>did</strong>):</li>
 					<li className="margin-bottom-20 list-none">Tạo phủ định/nghi vấn cho present/past simple.</li>
 			
 					<li><strong>Modal</strong> (<strong>will</strong>/<strong>can</strong>/<strong>could</strong>):</li>
