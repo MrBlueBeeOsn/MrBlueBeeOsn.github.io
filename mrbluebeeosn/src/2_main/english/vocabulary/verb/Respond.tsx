@@ -173,7 +173,7 @@ export default function Respond(): React.JSX.Element {
 
       <p className="margin-top-20 text-indent-whole"><strong>Hình thành chức năng Danh Cụm</strong> [<strong>Noun Phrase</strong>]</p>
 
-      <p className="margin-top-20 text-indent-whole">Ví dụ 4a: Danh Chủ [Subject]</p>
+      <p className="margin-top-20 text-indent-whole">Ví dụ 4a: [Danh Chủ][Noun Subject]</p>
       
         <ul className="list-square">
       
@@ -182,12 +182,12 @@ export default function Respond(): React.JSX.Element {
       
           <li className="list-none">Hình thái: [Responding to customer complaints] - [Động Cụm][Verb Phrase] chứa [Tiếp Động Cơ][Progressive Verb Base] dạng thêm đuôi "-ing", mở rộng thành một vùng mã hành động phức hợp gồm hành động phản hồi và đối tượng hướng tới.</li>
       
-          <li className="list-none">Chức năng: [Responding to customer complaints] - [Danh Cụm][Noun Phrase] đóng vai trò làm Danh Chủ [Subject] để thiết lập nền tảng thông tin đứng đầu toàn câu trước hạt nhân [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "requires".</li>
+          <li className="list-none">Chức năng: [Responding to customer complaints] - [Danh Cụm][Noun Phrase] đóng vai trò làm [Danh Chủ][Noun Subject] để thiết lập nền tảng thông tin đứng đầu toàn câu trước hạt nhân [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "requires".</li>
       
         </ul>
       
 
-      <p className="margin-top-20 text-indent-whole">Ví dụ 4b: Danh Nhận [Object]</p>
+      <p className="margin-top-20 text-indent-whole">Ví dụ 4b: [Danh Nhận][Noun Object]</p>
       
         <ul className="list-square">
       
@@ -196,7 +196,7 @@ export default function Respond(): React.JSX.Element {
       
           <li className="list-none">Hình thái: [responding to the press] - [Động Cụm][Verb Phrase] chứa [Tiếp Động Cơ][Progressive Verb Base] dạng thêm đuôi "-ing", mở rộng thành một vùng mã hành động phức hợp gồm hành động phản hồi và đối tượng hướng tới.</li>
       
-          <li className="list-none">Chức năng: [responding to the press] - [Danh Cụm][Noun Phrase] đóng vai trò làm Danh Nhận [Object] (thành phần chịu tác động) tích hợp chuỗi dữ liệu đầu việc đứng ngay sau cặp phối hợp Danh Chủ [Subject] và [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "delayed".</li>
+          <li className="list-none">Chức năng: [responding to the press] - [Danh Cụm][Noun Phrase] đóng vai trò làm [Danh Nhận][Noun Object] (thành phần chịu tác động) tích hợp chuỗi dữ liệu đầu việc đứng ngay sau cặp phối hợp [Danh Chủ][Noun Subject] và [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "delayed".</li>
       
         </ul>
 
@@ -342,7 +342,7 @@ export default function Respond(): React.JSX.Element {
           <li>[Responding quickly to the feedback], the developers fixed the bug in hours.</li>
           <li className="margin-bottom-20 list-none">[Nhờ phản ứng nhanh chóng với các phản hồi], các lập trình viên đã sửa lỗi chỉ trong vài giờ.</li>
       
-          <li className="list-none">Hình thái: [Responding quickly to the feedback] - [Động Cụm][Verb Phrase] đứng biệt lập ở đầu câu, ngăn cách bằng dấu phẩy, mang [Tiếp Động Cơ][Progressive Verb Base] dạng "-ing" do được rút gọn từ một hệ [Động Câu] Trạng phụ thuộc có cùng thành phần lõi Danh Chủ [Subject].</li>
+          <li className="list-none">Hình thái: [Responding quickly to the feedback] - [Động Cụm][Verb Phrase] đứng biệt lập ở đầu câu, ngăn cách bằng dấu phẩy, mang [Tiếp Động Cơ][Progressive Verb Base] dạng "-ing" do được rút gọn từ một hệ [Động Câu] Trạng phụ thuộc có cùng thành phần lõi [Danh Chủ][Noun Subject].</li>
       
           <li className="list-none">Chức năng: [Responding quickly to the feedback] - [Trạng Cụm][Adverb Phrase] đóng vai trò làm một khối bối cảnh nguyên nhân/phương thức tổng thể để bổ nghĩa cho toàn bộ phần diện thông tin chính phía sau.</li>
       
@@ -410,7 +410,7 @@ export default function Respond(): React.JSX.Element {
 
       <h4 className="margin-y-40">4. Phân hệ [Động Câu][Verb Clause]</h4>
 
-      <p className="margin-top-20 text-indent-whole">Khi vùng mã mở rộng thành một phân hệ chứa một hệ con hoàn chỉnh có cả thành phần nền tảng Danh Chủ [Subject] riêng và [Động Cơ] riêng, người học xác định được diện mạo vật lý [Động Câu][Verb Clause].</p>
+      <p className="margin-top-20 text-indent-whole">Khi vùng mã mở rộng thành một phân hệ chứa một hệ con hoàn chỉnh có cả thành phần nền tảng [Danh Chủ][Noun Subject] riêng và [Động Cơ] riêng, người học xác định được diện mạo vật lý [Động Câu][Verb Clause].</p>
 
       <p className="margin-top-20 text-indent-whole"><strong>Bản chất vật lý</strong>: [Động Câu] tuy mang hình thái của một hệ con đầy đủ nhưng <strong>không thể đứng một mình độc lập</strong> để tạo thành một thông điệp trọn vẹn. Nó luôn lồng ghép vào sơ đồ tổng thể để thực thi một chức năng phụ thuộc.</p>
 
@@ -431,9 +431,9 @@ export default function Respond(): React.JSX.Element {
           <li>The manager wants to know [how you respond under extreme pressure].</li>
           <li className="margin-bottom-20 list-none">Người quản lý muốn biết [cách bạn phản ứng dưới áp lực cực độ].</li>
       
-          <li className="list-none">Hình thái: [how you respond under extreme pressure] - [Động Câu][Verb Clause] chứa thành phần liên kết trực quan "how" ở đầu, có Danh Chủ [Subject] "you" và [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "respond" thiết lập phối hợp hành động.</li>
+          <li className="list-none">Hình thái: [how you respond under extreme pressure] - [Động Câu][Verb Clause] chứa thành phần liên kết trực quan "how" ở đầu, có [Danh Chủ][Noun Subject] "you" và [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "respond" thiết lập phối hợp hành động.</li>
       
-          <li className="list-none">Chức năng: [how you respond under extreme pressure] - [Danh Câu][Noun Clause] trở thành Danh Nhận [Object] chứa dữ liệu mục tiêu chịu tác động từ hành động "know".</li>
+          <li className="list-none">Chức năng: [how you respond under extreme pressure] - [Danh Câu][Noun Clause] trở thành [Danh Nhận][Noun Object] chứa dữ liệu mục tiêu chịu tác động từ hành động "know".</li>
       
         </ul>
       
@@ -463,7 +463,7 @@ export default function Respond(): React.JSX.Element {
           <li>The system locked the account [because the user responded incorrectly].</li>
           <li className="margin-bottom-20 list-none">Hệ thống đã khóa tài khoản [vì người dùng đã phản hồi sai].</li>
       
-          <li className="list-none">Hình thái: [because the user responded incorrectly] - [Động Câu][Verb Clause] kích hoạt ngay sau [Liên Cơ][Connector Base] nguyên nhân "because", chứa Danh Chủ [Subject] "the user" và [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "responded" mang dấu mốc trục thời quá khứ.</li>
+          <li className="list-none">Hình thái: [because the user responded incorrectly] - [Động Câu][Verb Clause] kích hoạt ngay sau [Liên Cơ][Connector Base] nguyên nhân "because", chứa [Danh Chủ][Noun Subject] "the user" và [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "responded" mang dấu mốc trục thời quá khứ.</li>
       
           <li className="list-none">Chức năng: [because the user responded incorrectly] - [Trạng Câu][Adverb Clause] thiết lập module bối cảnh để bổ nghĩa cho toàn bộ phần diện thông tin chính "The system locked the account" đứng trước.</li>
       
@@ -473,7 +473,7 @@ export default function Respond(): React.JSX.Element {
 
       <h5 className="margin-y-30 text-indent-whole">4.2 Phân hệ [Động Câu] Ẩn Liên [Zero-Connector Verb Clause]</h5>
 
-      <p className="margin-top-20 text-indent-whole">Ở phân hệ này, các thành phần liên kết đã được người bản ngữ chủ động lược bỏ để tối ưu tốc độ truyền tải thông tin. Về diện mạo vật lý, khối mã này nhìn hoàn toàn giống như một hệ con độc lập có đầy đủ cặp bài trùng Danh Chủ [Subject] và Động Cơ, tuy nhiên chức năng của nó vẫn là chức năng phụ thuộc và vẫn sinh ra đầy đủ 3 đầu ra: Danh, Tính, Trạng.</p>
+      <p className="margin-top-20 text-indent-whole">Ở phân hệ này, các thành phần liên kết đã được người bản ngữ chủ động lược bỏ để tối ưu tốc độ truyền tải thông tin. Về diện mạo vật lý, khối mã này nhìn hoàn toàn giống như một hệ con độc lập có đầy đủ cặp bài trùng [Danh Chủ][Noun Subject] và Động Cơ, tuy nhiên chức năng của nó vẫn là chức năng phụ thuộc và vẫn sinh ra đầy đủ 3 đầu ra: Danh, Tính, Trạng.</p>
 
 
       <p className="margin-top-20 text-indent-whole">[<strong>Danh Câu Ẩn Liên</strong>][<strong>Zero-Connector Noun Clause</strong>]</p>
@@ -485,9 +485,9 @@ export default function Respond(): React.JSX.Element {
           <li>I assume [they responded to the official invitation].</li>
           <li className="margin-bottom-20 list-none">Tôi cho rằng [họ đã phản hồi lời mời chính thức].</li>
       
-          <li className="list-none">Hình thái: [they responded to the official invitation] - [Động Câu][Verb Clause] đã ẩn [Liên Cơ][Connector Base] định hướng "that", chỉ còn hiển thị trọn vẹn khối Danh Chủ [Subject] "they" và [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "responded".</li>
+          <li className="list-none">Hình thái: [they responded to the official invitation] - [Động Câu][Verb Clause] đã ẩn [Liên Cơ][Connector Base] định hướng "that", chỉ còn hiển thị trọn vẹn khối [Danh Chủ][Noun Subject] "they" và [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "responded".</li>
       
-          <li className="list-none">Chức năng: [they responded to the official invitation] - [Danh Câu][Noun Clause] đóng vai trò làm Danh Nhận [Object] nhận toàn bộ năng lượng từ [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "assume".</li>
+          <li className="list-none">Chức năng: [they responded to the official invitation] - [Danh Câu][Noun Clause] đóng vai trò làm [Danh Nhận][Noun Object] nhận toàn bộ năng lượng từ [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "assume".</li>
       
         </ul>
       
@@ -501,7 +501,7 @@ export default function Respond(): React.JSX.Element {
           <li>The mysterious email [he responded to] turned out to be a scam.</li>
           <li className="margin-bottom-20 list-none">Email bí ẩn [mà anh ấy đã phản hồi] hóa ra là một trò lừa đảo.</li>
       
-          <li className="list-none">Hình thái: [he responded to] - [Động Câu][Verb Clause] đã ẩn mã liên kết vật thể đứng trước, giữ lại khối Danh Chủ [Subject] "he" và [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "responded".</li>
+          <li className="list-none">Hình thái: [he responded to] - [Động Câu][Verb Clause] đã ẩn mã liên kết vật thể đứng trước, giữ lại khối [Danh Chủ][Noun Subject] "he" và [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "responded".</li>
       
           <li className="list-none">Chức năng: [he responded to] - [Tính Câu][Adjective Clause] đóng vai trò như bộ quét đặt ngay sau đối tượng "The mysterious email" để làm rõ đặc điểm cho đối tượng này.</li>
       
@@ -517,7 +517,7 @@ export default function Respond(): React.JSX.Element {
           <li>[Should the clients respond positively], we will proceed with the contract.</li>
           <li className="margin-bottom-20 list-none">[Nếu các khách hàng phản hồi tích cực], chúng tôi sẽ tiến hành ký hợp đồng.</li>
       
-          <li className="list-none">Hình thái: [Should the clients respond positively] - [Động Câu][Verb Clause] vận hành ở trạng thái ẩn [Liên Cơ][Connector Base] điều kiện "if" bằng giải pháp đảo [Ý-Thái Thuần Động Cơ][Soft-Modal Bare Verb Base] "Should" lên trước, tuy thiết lập bề mặt biến đổi nhưng bản chất vẫn giữ trọn vẹn Danh Chủ [Subject] "the clients" và [Thuần Động Cơ][Bare Verb Base] "respond".</li>
+          <li className="list-none">Hình thái: [Should the clients respond positively] - [Động Câu][Verb Clause] vận hành ở trạng thái ẩn [Liên Cơ][Connector Base] điều kiện "if" bằng giải pháp đảo [Ý-Thái Thuần Động Cơ][Soft-Modal Bare Verb Base] "Should" lên trước, tuy thiết lập bề mặt biến đổi nhưng bản chất vẫn giữ trọn vẹn [Danh Chủ][Noun Subject] "the clients" và [Thuần Động Cơ][Bare Verb Base] "respond".</li>
       
           <li className="list-none">Chức năng: [Should the clients respond positively] - [Trạng Câu][Adverb Clause] đảm nhận nhiệm vụ thiết lập khối bối cảnh giả định/điều kiện để bổ nghĩa cho toàn bộ phần diện thông tin chính phía sau.</li>
       
@@ -532,7 +532,7 @@ export default function Respond(): React.JSX.Element {
 
       <h5 className="margin-top-20 text-indent-whole">[Danh Cụm Phân Tầng][Nested Noun Phrase]</h5>
 
-      <p className="margin-top-20 text-indent-whole">Ví dụ 12a: Danh Chủ [Subject]</p>
+      <p className="margin-top-20 text-indent-whole">Ví dụ 12a: [Danh Chủ][Noun Subject]</p>
       
         <ul className="list-square">
       
@@ -547,7 +547,7 @@ export default function Respond(): React.JSX.Element {
       
           <li className="list-none">Hình thái: [Tracking {'{how the server responds to heavy traffic}'}] - [Động Cụm][Verb Phrase] biểu thị dưới dạng một vùng mã mở rộng lớn bắt đầu bằng [Tiếp Động Cơ][Progressive Verb Base] dạng đuôi "-ing" và kéo theo thành phần bổ trợ phía sau.</li>
       
-          <li className="list-none">Chức năng: [Tracking {'{how the server responds to heavy traffic}'}] - [<strong>Danh Cụm</strong>][<strong>Noun Phrase</strong>] chịu trách nhiệm làm một vùng đầu việc lớn cần thực hiện, đảm nhận vai trò làm Danh Chủ [Subject] để thiết lập nền tảng thông tin đứng đầu toàn câu trước [Thời Động Cơ] "is".</li>
+          <li className="list-none">Chức năng: [Tracking {'{how the server responds to heavy traffic}'}] - [<strong>Danh Cụm</strong>][<strong>Noun Phrase</strong>] chịu trách nhiệm làm một vùng đầu việc lớn cần thực hiện, đảm nhận vai trò làm [Danh Chủ][Noun Subject] để thiết lập nền tảng thông tin đứng đầu toàn câu trước [Thời Động Cơ] "is".</li>
       
         </ul>
 
@@ -555,14 +555,14 @@ export default function Respond(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li className="list-none">Hình thái: {'{how the server responds to heavy traffic}'} - [Động Câu][Verb Clause] định hình dưới dạng một khối mã con nằm gọn hoàn toàn bên trong vùng mã tổng thể, chứa đầy đủ Danh Chủ [Subject] riêng "the server" và [Thời-Thuần Động Cơ][Tense-Bare Verb Base] riêng "responds" thiết lập theo trục thời hiện tại đi sau [Liên Cơ][Connector Base] "how".</li>
+          <li className="list-none">Hình thái: {'{how the server responds to heavy traffic}'} - [Động Câu][Verb Clause] định hình dưới dạng một khối mã con nằm gọn hoàn toàn bên trong vùng mã tổng thể, chứa đầy đủ [Danh Chủ][Noun Subject] riêng "the server" và [Thời-Thuần Động Cơ][Tense-Bare Verb Base] riêng "responds" thiết lập theo trục thời hiện tại đi sau [Liên Cơ][Connector Base] "how".</li>
       
-          <li className="list-none">Chức năng: {'{how the server responds to heavy traffic}'} - [Danh Câu][Noun Clause] đóng vai trò làm Danh Nhận [Object] chịu sự điều phối trực tiếp từ hạt nhân hành động "Tracking" ở tầng ngoài, tích hợp chuỗi thông tin tiếp nhận hành động để làm rõ nội dung cho việc theo dõi.</li>
+          <li className="list-none">Chức năng: {'{how the server responds to heavy traffic}'} - [Danh Câu][Noun Clause] đóng vai trò làm [Danh Nhận][Noun Object] chịu sự điều phối trực tiếp từ hạt nhân hành động "Tracking" ở tầng ngoài, tích hợp chuỗi thông tin tiếp nhận hành động để làm rõ nội dung cho việc theo dõi.</li>
       
         </ul>
 
       
-      <p className="margin-top-20 text-indent-whole">Ví dụ 12b: Danh Nhận [Object]</p>
+      <p className="margin-top-20 text-indent-whole">Ví dụ 12b: [Danh Nhận][Noun Object]</p>
       
         <ul className="list-square">
       
@@ -577,7 +577,7 @@ export default function Respond(): React.JSX.Element {
       
           <li className="list-none">Hình thái: [analyzing {'{why the audience responded negatively}'}] - [Động Cụm][Verb Phrase] biểu thị dưới dạng một vùng mã mở rộng lớn bắt đầu bằng [Tiếp Động Cơ][Progressive Verb Base] dạng đuôi "-ing" và kéo theo thành phần bổ trợ phía sau.</li>
       
-          <li className="list-none">Chức năng: [analyzing {'{why the audience responded negatively}'}] - [<strong>Danh Cụm</strong>][<strong>Noun Phrase</strong>] đóng vai trò làm Danh Nhận [Object] (thành phần chịu tác động) đứng ngay sau hạt nhân [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "suggest" để bổ sung trọn vẹn thông tin cho hành động kiến nghị này.</li>
+          <li className="list-none">Chức năng: [analyzing {'{why the audience responded negatively}'}] - [<strong>Danh Cụm</strong>][<strong>Noun Phrase</strong>] đóng vai trò làm [Danh Nhận][Noun Object] (thành phần chịu tác động) đứng ngay sau hạt nhân [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "suggest" để bổ sung trọn vẹn thông tin cho hành động kiến nghị này.</li>
       
         </ul>
 
@@ -585,9 +585,9 @@ export default function Respond(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li className="list-none">Hình thái: {'{why the audience responded negatively}'} - [Động Câu][Verb Clause] định hình dưới dạng một khối mã con nằm gọn hoàn toàn bên trong vùng mã tổng thể, chứa đầy đủ Danh Chủ [Subject] riêng "the audience" và [Thời-Thuần Động Cơ][Tense-Bare Verb Base] riêng "responded" thiết lập theo trục thời quá khứ đi sau [Liên Cơ][Connector Base] "why".</li>
+          <li className="list-none">Hình thái: {'{why the audience responded negatively}'} - [Động Câu][Verb Clause] định hình dưới dạng một khối mã con nằm gọn hoàn toàn bên trong vùng mã tổng thể, chứa đầy đủ [Danh Chủ][Noun Subject] riêng "the audience" và [Thời-Thuần Động Cơ][Tense-Bare Verb Base] riêng "responded" thiết lập theo trục thời quá khứ đi sau [Liên Cơ][Connector Base] "why".</li>
       
-          <li className="list-none">Chức năng: {'{why the audience responded negatively}'} - [Danh Câu][Noun Clause] đóng vai trò làm Danh Nhận [Object] chịu sự điều phối trực tiếp từ hạt nhân hành động "analyzing" ở tầng ngoài, làm rõ nội dung cho việc phân tích.</li>
+          <li className="list-none">Chức năng: {'{why the audience responded negatively}'} - [Danh Câu][Noun Clause] đóng vai trò làm [Danh Nhận][Noun Object] chịu sự điều phối trực tiếp từ hạt nhân hành động "analyzing" ở tầng ngoài, làm rõ nội dung cho việc phân tích.</li>
       
         </ul>
 
@@ -617,9 +617,9 @@ export default function Respond(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li className="list-none">Hình thái: {'{how the API responds to missing parameters}'} - [Động Câu][Verb Clause] định hình dưới dạng khối mã con nằm gọn bên trong, chứa Danh Chủ [Subject] "the API" và [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "responds" đi sau [Liên Cơ][Connector Base] "how".</li>
+          <li className="list-none">Hình thái: {'{how the API responds to missing parameters}'} - [Động Câu][Verb Clause] định hình dưới dạng khối mã con nằm gọn bên trong, chứa [Danh Chủ][Noun Subject] "the API" và [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "responds" đi sau [Liên Cơ][Connector Base] "how".</li>
       
-          <li className="list-none">Chức năng: {'{how the API responds to missing parameters}'} - [Danh Câu][Noun Clause] đóng vai trò làm Danh Nhận [Object] chịu sự điều phối trực tiếp của [Giới Cơ] "about" ở tầng ngoài.</li>
+          <li className="list-none">Chức năng: {'{how the API responds to missing parameters}'} - [Danh Câu][Noun Clause] đóng vai trò làm [Danh Nhận][Noun Object] chịu sự điều phối trực tiếp của [Giới Cơ] "about" ở tầng ngoài.</li>
       
         </ul>
 
@@ -650,9 +650,9 @@ export default function Respond(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li className="list-none">Hình thái: {'{where the patient responded to the stimulus}'} - [Động Câu][Verb Clause] định hình dưới dạng khối mã con nằm gọn bên trong, chứa Danh Chủ [Subject] riêng "the patient" và [Thời-Thuần Động Cơ][Tense-Bare Verb Base] riêng "responded" thuộc trục thời quá khứ đi sau [Liên Cơ][Connector Base] "where".</li>
+          <li className="list-none">Hình thái: {'{where the patient responded to the stimulus}'} - [Động Câu][Verb Clause] định hình dưới dạng khối mã con nằm gọn bên trong, chứa [Danh Chủ][Noun Subject] riêng "the patient" và [Thời-Thuần Động Cơ][Tense-Bare Verb Base] riêng "responded" thuộc trục thời quá khứ đi sau [Liên Cơ][Connector Base] "where".</li>
       
-          <li className="list-none">Chức năng: {'{where the patient responded to the stimulus}'} - [Danh Câu][Noun Clause] đóng vai trò làm Danh Nhận [Object] chịu sự điều phối trực tiếp của [Giới Cơ] "at" ở tầng ngoài.</li>
+          <li className="list-none">Chức năng: {'{where the patient responded to the stimulus}'} - [Danh Câu][Noun Clause] đóng vai trò làm [Danh Nhận][Noun Object] chịu sự điều phối trực tiếp của [Giới Cơ] "at" ở tầng ngoài.</li>
       
         </ul>
       
@@ -677,7 +677,7 @@ export default function Respond(): React.JSX.Element {
       
           <li className="list-none">Hình thái gốc: [Responding to client feedback] - [Động Cụm][Verb Phrase] biểu hiện dưới dạng khối mã mở rộng chứa [Tiếp Động Cơ][Progressive Verb Base] dạng "-ing" và đối tượng đi kèm.</li>
       
-          <li className="list-none">Chức năng: [Responding to client feedback] - [Danh Cụm][Noun Phrase] vận hành như một phân hệ Danh Chủ [Subject] để quản lý một đầu việc lớn ở đầu câu.</li>
+          <li className="list-none">Chức năng: [Responding to client feedback] - [Danh Cụm][Noun Phrase] vận hành như một phân hệ [Danh Chủ][Noun Subject] để quản lý một đầu việc lớn ở đầu câu.</li>
       
         </ul>
       
@@ -691,7 +691,7 @@ export default function Respond(): React.JSX.Element {
       
           <li className="list-none">Hình thái mới: [Answering the customer queries] - [Động Cụm][Verb Phrase] xuất hiện dưới dạng khối mở rộng mới chứa [Tiếp Động Cơ][Progressive Verb Base] khác được đưa vào thế chỗ.</li>
       
-          <li className="list-none">Chức năng mới: [Answering the customer queries] - [Danh Cụm][Noun Phrase] duy trì chính xác chức năng làm thành phần Danh Chủ [Subject] của khối cũ.</li>
+          <li className="list-none">Chức năng mới: [Answering the customer queries] - [Danh Cụm][Noun Phrase] duy trì chính xác chức năng làm thành phần [Danh Chủ][Noun Subject] của khối cũ.</li>
       
         </ul>
 
@@ -720,7 +720,7 @@ export default function Respond(): React.JSX.Element {
           <li>We solved the issue [because the team responded to the system warnings early].</li>
           <li className="margin-bottom-20 list-none">Chúng tôi đã giải quyết vấn đề [vì đội ngũ đã phản hồi các cảnh báo hệ thống từ sớm].</li>
       
-          <li className="list-none">Hình thái mới: [because the team responded to the system warnings early] - [Động Câu][Verb Clause] hiển thị dưới dạng khối mã chứa đầy đủ Danh Chủ [Subject] "the team" và hạt nhân [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "responded" đi sau [Liên Cơ][Connector Base] "because".</li>
+          <li className="list-none">Hình thái mới: [because the team responded to the system warnings early] - [Động Câu][Verb Clause] hiển thị dưới dạng khối mã chứa đầy đủ [Danh Chủ][Noun Subject] "the team" và hạt nhân [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "responded" đi sau [Liên Cơ][Connector Base] "because".</li>
       
           <li className="list-none">Chức năng mới: [because the team responded to the system warnings early] - [Trạng Câu][Adverb Clause] đảm nhận vai trò bối cảnh nguyên nhân ở cấp độ cao cấp hơn, bổ nghĩa cho toàn bộ phần diện thông tin chính.</li>
       
@@ -766,7 +766,7 @@ export default function Respond(): React.JSX.Element {
           <li>We finalized the agreement [after a positive response].</li>
           <li className="margin-bottom-20 list-none">Chúng tôi đã chốt thỏa thuận [sau một sự phản hồi tích cực].</li>
       
-          <li className="list-none">Hình thái gốc: [after a positive response] - [Giới Cụm][Prepositional Phrase] bắt đầu bằng [Giới Cơ] chỉ mốc thời gian "after" để kéo theo khối Danh Nhận [Object] phía sau.</li>
+          <li className="list-none">Hình thái gốc: [after a positive response] - [Giới Cụm][Prepositional Phrase] bắt đầu bằng [Giới Cơ] chỉ mốc thời gian "after" để kéo theo khối [Danh Nhận][Noun Object] phía sau.</li>
       
           <li className="list-none">Chức năng: [after a positive response] - [Trạng Cụm][Adverb Phrase] thực thi vai trò làm khối bối cảnh thời gian đứng sau để xác định cơ sở cho hành động chính.</li>
       

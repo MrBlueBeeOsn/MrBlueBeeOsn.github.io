@@ -245,7 +245,7 @@ export default function NestedStructure1(): React.JSX.Element {
 
 					<li className="list-none">Hình thái: [Building the system] — [Động Cụm][Verb Phrase] bắt đầu bằng [Tiếp Động Cơ][Progressive Verb Base] đã được tinh chỉnh qua bộ lọc đuôi -ing (Building) kéo dài cho đến hết đối tượng của nó.</li>
 
-					<li className="list-none">Chức năng: [Building the system] — [Danh Cụm][Noun Phrase] đóng vai trò làm một khối đầu việc lớn đứng ở tiền tuyến để làm Danh Chủ [Noun Subject] điều phối dòng lệnh requires của câu.</li>
+					<li className="list-none">Chức năng: [Building the system] — [Danh Cụm][Noun Phrase] đóng vai trò làm một khối đầu việc lớn đứng ở tiền tuyến để làm [Danh Chủ][Noun Subject] điều phối dòng lệnh requires của câu.</li>
 			
 				</ul>
 
@@ -334,7 +334,7 @@ export default function NestedStructure1(): React.JSX.Element {
 				
 						<li className="list-none">Hình thái: [Discussing {'{how we can build this app}'}] - [Động Cụm][Verb Phrase] biểu thị dưới dạng vùng mã lớn bắt đầu bằng [Tiếp Động Cơ] tinh chỉnh đuôi -ing (Discussing) đứng ở đầu câu.</li>
 
-						<li className="list-none">Chức năng: [Discussing {'{how we can build this app}'}] - [<strong>Danh Cụm</strong>][<strong>Noun Phrase</strong>] đóng vai trò làm một phân hệ đầu việc lớn đóng vai trò Danh Chủ [Noun Subject] điều phối toàn bộ câu.</li>
+						<li className="list-none">Chức năng: [Discussing {'{how we can build this app}'}] - [<strong>Danh Cụm</strong>][<strong>Noun Phrase</strong>] đóng vai trò làm một phân hệ đầu việc lớn đóng vai trò [Danh Chủ][Noun Subject] điều phối toàn bộ câu.</li>
 				
 					</ul>
 
