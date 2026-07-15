@@ -98,7 +98,7 @@ export default function Respond(): React.JSX.Element {
 
           <li>has been responding → [Thời Hoàn Động Cơ] has been + [Tiếp Động Cơ] responding</li>
       
-          <li>responded → (Quá khứ đơn) → Thời-Thuần Động Cơ (Một đơn vị tích hợp cả hai)</li>
+          <li>responded → (Quá khứ đơn) → [Thời-Thuần Động Cơ] (Một đơn vị tích hợp cả hai)</li>
       
           <li>should respond → [Ý-Thái Thuần Động Cơ] should + [Thuần Động Cơ] respond</li>
       

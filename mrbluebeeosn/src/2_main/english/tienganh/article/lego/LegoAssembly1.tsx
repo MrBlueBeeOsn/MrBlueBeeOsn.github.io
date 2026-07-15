@@ -151,7 +151,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 			
 					<li>had been building → [Thời Hoàn Động Cơ] had been + [Tiếp Động Cơ] building</li>
 			
-					<li>drove → Thời-Thuần Động Cơ (Một đơn vị duy nhất tự tích hợp bối cảnh quá khứ và hành động lái xe)</li>
+					<li>drove → [Thời-Thuần Động Cơ] (Một đơn vị duy nhất tự tích hợp bối cảnh quá khứ và hành động lái xe)</li>
 
 					<li>should drive → [Ý-Thái Thuần Động Cơ] should + [Thuần Động Cơ] drive</li>
 			

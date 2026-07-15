@@ -136,7 +136,7 @@ export default function TieredStructure1(): React.JSX.Element {
 
 					<li>has been writing → [Thời Hoàn Động Cơ] "has been" + [Tiếp Động Cơ] "writing"</li>
 			
-					<li>ran → Thời-Thuần Động Cơ (một đơn vị nén tích hợp cả hai)</li>
+					<li>ran → [Thời-Thuần Động Cơ] (một đơn vị nén tích hợp cả hai)</li>
 
 					<li>must write → [Áp-Thái Thuần Động Cơ] "must" + [Thuần Động Cơ] "write"</li>
 			

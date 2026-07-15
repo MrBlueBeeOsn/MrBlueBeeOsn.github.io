@@ -130,7 +130,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 			
 					<li>has been singing → [Thời Hoàn Động Cơ] "has been" + [Tiếp Động Cơ] "singing"</li>
 			
-					<li>made / sang → Thời-Thuần Động Cơ (một đơn vị tích hợp cả hai bối cảnh thời gian quá khứ và hành động)</li>
+					<li>made / sang → [Thời-Thuần Động Cơ] (một đơn vị tích hợp cả hai bối cảnh thời gian quá khứ và hành động)</li>
 
 					<li>must read → [Áp-Thái Thuần Động Cơ] "must" + [Thuần Động Cơ] "read"</li>
 			

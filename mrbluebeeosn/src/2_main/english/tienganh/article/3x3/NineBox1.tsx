@@ -131,7 +131,7 @@ export default function NineBox1(): React.JSX.Element {
 			
 					<li>has been building → [Thời Hoàn Động Cơ] "has been" + [Tiếp Động Cơ] "building"</li>
 			
-					<li>developed → Thời-Thuần Động Cơ [Một đơn vị tích hợp cả hai]</li>
+					<li>developed → [Thời-Thuần Động Cơ] [Một đơn vị tích hợp cả hai]</li>
 
 					<li>must execute → [Áp-Thái Thuần Động Cơ] "must" + [Thuần Động Cơ] "execute"</li>
 			

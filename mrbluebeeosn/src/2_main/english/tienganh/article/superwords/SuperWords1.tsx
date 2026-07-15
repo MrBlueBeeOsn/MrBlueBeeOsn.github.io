@@ -423,7 +423,7 @@ export default function SuperWords1(): React.JSX.Element {
 
 					<li>Phân tích Hình thái:</li>
 					<li className="list-none">[in {'{which they filmed the movie}'}] - [Tầng Giới Cụm][Tiered Prepositional Phrase] thể hiện một khối thông tin tầng ngoài mở đầu bằng [Giới Cơ] "in" điều phối cấu trúc phía sau.</li>
-					<li className="margin-bottom-20 list-none">{'{which they filmed the movie}'} - [Hiển-Liên Động Câu][Connector Verb Clause] thể hiện một cấu trúc câu con tầng trong chứa một câu phụ hoàn chỉnh có Thời-Thuần Động Cơ [filmed].</li>
+					<li className="margin-bottom-20 list-none">{'{which they filmed the movie}'} - [Hiển-Liên Động Câu][Connector Verb Clause] thể hiện một cấu trúc câu con tầng trong chứa một câu phụ hoàn chỉnh có [Thời-Thuần Động Cơ] [filmed].</li>
 			
 					<li>Phân tích Chức năng:</li>
 					<li className="list-none">{'{which they filmed the movie}'} - [Danh Câu][Noun Clause] đang đứng vị trí làm [Danh Nhận] chịu sự điều phối trực tiếp của [Giới Cơ] "in".</li>

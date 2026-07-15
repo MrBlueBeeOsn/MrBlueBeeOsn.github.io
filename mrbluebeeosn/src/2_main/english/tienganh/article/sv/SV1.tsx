@@ -136,7 +136,7 @@ export default function SV1(): React.JSX.Element {
 			
 					<li>have been walking → [Thời Hoàn Động Cơ] "have been" + [Tiếp Động Cơ] "walking"</li>
 			
-					<li>drove → Thời-Thuần Động Cơ (một đơn vị tự thân xử lý cả thời gian quá khứ lẫn hành động lái xe)</li>
+					<li>drove → [Thời-Thuần Động Cơ] (một đơn vị tự thân xử lý cả thời gian quá khứ lẫn hành động lái xe)</li>
 
 					<li>should study → [Ý-Thái Thuần Động Cơ] "should" + [Thuần Động Cơ] "study"</li>
 			
@@ -419,7 +419,7 @@ export default function SV1(): React.JSX.Element {
 
 			<p className="text-indent-whole">Khối [Danh Nhận] lớn đóng vai trò làm [Danh Chủ] hoặc Danh Nhận, nhưng bên trong nó lại chứa một khối chức năng phụ trợ lồng ghép để làm rõ thông tin.</p>
 
-			<p className="text-indent-whole">Áp dụng mẫu cấu trúc [Danh Nhận] phân tầng: S + Thời-Thuần Động Cơ + [V-ing {'{Động Câu}'}]</p>
+			<p className="text-indent-whole">Áp dụng mẫu cấu trúc [Danh Nhận] phân tầng: S + [Thời-Thuần Động Cơ] + [V-ing {'{Động Câu}'}]</p>
 			
 				<ul className="list-square">
 			
@@ -436,7 +436,7 @@ export default function SV1(): React.JSX.Element {
 
 					<li className="list-none">Lớp trong: Khối {'{what they had discovered}'} đóng vai trò là một [Danh Câu][Noun Clause], neo ngay sau hành động discussing để làm [Danh Nhận] (đối tượng bị thảo luận) cho hành động đó.</li>
 
-					<li className="list-none">Lớp ngoài: Toàn bộ khối cấu trúc [discussing {'{what they had discovered}'}] vận hành đồng bộ như một khối [<strong>Danh Cụm</strong>][<strong>Noun Phrase</strong>] lớn, đứng ngay sau Thời-Thuần Động Cơ avoided nhằm làm [Danh Nhận] thực thi (đón nhận hành động "né tránh") cho [Danh Chủ] He.</li>
+					<li className="list-none">Lớp ngoài: Toàn bộ khối cấu trúc [discussing {'{what they had discovered}'}] vận hành đồng bộ như một khối [<strong>Danh Cụm</strong>][<strong>Noun Phrase</strong>] lớn, đứng ngay sau [Thời-Thuần Động Cơ] avoided nhằm làm [Danh Nhận] thực thi (đón nhận hành động "né tránh") cho [Danh Chủ] He.</li>
 			
 				</ul>
 

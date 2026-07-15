@@ -98,7 +98,7 @@ export default function Create(): React.JSX.Element {
 
           <li>has been creating → [Thời Hoàn Động Cơ] has been + [Tiếp Động Cơ][Progressive Verb Base] creating</li>
       
-          <li>created (Quá khứ đơn) → Thời-Thuần Động Cơ (Một đơn vị tích hợp cả hai)</li>
+          <li>created (Quá khứ đơn) → [Thời-Thuần Động Cơ] (Một đơn vị tích hợp cả hai)</li>
       
           <li>should create → [Ý-Thái Thuần Động Cơ] should + [Thuần Động Cơ] create</li>
       

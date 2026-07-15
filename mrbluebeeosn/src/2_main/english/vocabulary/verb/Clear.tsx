@@ -98,7 +98,7 @@ export default function Clear(): React.JSX.Element {
 
           <li>has been clearing → [Thời Hoàn Động Cơ] has been + [Tiếp Động Cơ] clearing</li>
       
-          <li>cleared (Quá khứ đơn) → Thời-Thuần Động Cơ (Một đơn vị tích hợp cả hai)</li>
+          <li>cleared (Quá khứ đơn) → [Thời-Thuần Động Cơ] (Một đơn vị tích hợp cả hai)</li>
       
           <li>should clear → [Ý-Thái Thuần Động Cơ] should + [Thuần Động Cơ] clear</li>
       
