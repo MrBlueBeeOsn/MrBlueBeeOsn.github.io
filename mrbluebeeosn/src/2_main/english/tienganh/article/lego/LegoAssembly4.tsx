@@ -17,7 +17,7 @@ export default function LegoAssembly4(): React.JSX.Element {
 		
 			<h4><HashLink smooth to="/tieng-anh#tieng-anh-terms"><mark className="highlight-tertiary-padding-4-8">Tiếng Anh</mark></HashLink></h4>
 
-			<h1 className="margin-y-50 text-center">Lego Assembly
+			<h1 className="margin-y-50 text-center">[Lego Assembly]
 												
 				<sup><HashLink smooth to="/tieng-anh/lego-assembly-1">&nbsp;1&nbsp;</HashLink>
 				</sup>
@@ -124,7 +124,7 @@ export default function LegoAssembly4(): React.JSX.Element {
 			
 				</ul>
 			
-			<p className="margin-top-20">Đó là tư duy cốt lõi của Lego Assembly.</p>
+			<p className="margin-top-20">Đó là tư duy cốt lõi của [Lego Assembly].</p>
 			
 
 			{/* 2.  */}
@@ -459,7 +459,7 @@ export default function LegoAssembly4(): React.JSX.Element {
 
 			{/* 9.  */}
 
-			<h3 className="margin-y-50 text-center">9. Lego Assembly Giúp Não Bộ Học Tự Nhiên Hơn</h3>
+			<h3 className="margin-y-50 text-center">9. [Lego Assembly] Giúp Não Bộ Học Tự Nhiên Hơn</h3>
 			
 				<ul className="list-square">
 			
@@ -469,7 +469,7 @@ export default function LegoAssembly4(): React.JSX.Element {
 			
 				</ul>
 
-			<p className="margin-top-20">Nhưng khi học theo Lego Assembly, não chỉ cần hiểu:</p>
+			<p className="margin-top-20">Nhưng khi học theo [Lego Assembly], não chỉ cần hiểu:</p>
 			
 				<ul className="list-square">
 			

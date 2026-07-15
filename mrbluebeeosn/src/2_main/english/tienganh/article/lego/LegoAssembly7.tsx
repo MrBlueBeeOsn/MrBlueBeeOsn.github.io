@@ -17,7 +17,7 @@ export default function LegoAssembly7(): React.JSX.Element {
 		
 			<h4><HashLink smooth to="/tieng-anh#tieng-anh-terms"><mark className="highlight-tertiary-padding-4-8">Tiếng Anh</mark></HashLink></h4>
 
-			<h1 className="margin-y-50 text-center">Lego Assembly
+			<h1 className="margin-y-50 text-center">[Lego Assembly]
 												
 				<sup><HashLink smooth to="/tieng-anh/lego-assembly-1">&nbsp;1&nbsp;</HashLink>
 				</sup>
@@ -48,7 +48,7 @@ export default function LegoAssembly7(): React.JSX.Element {
 
 			</h1>
 
-			<h4 className="margin-bottom-30 text-center">Mô Hình Lego Assembly: Hướng Dẫn Toàn Diện Học Ngữ Pháp Tiếng Anh Như Xếp Lego</h4>
+			<h4 className="margin-bottom-30 text-center">Mô Hình [Lego Assembly]: Hướng Dẫn Toàn Diện Học Ngữ Pháp Tiếng Anh Như Xếp Lego</h4>
 
 			<p>Bạn có đang học ngữ pháp tiếng Anh như một tấm bản đồ phức tạp?</p>
 
@@ -1057,7 +1057,7 @@ export default function LegoAssembly7(): React.JSX.Element {
 
 			{/* 12.  */}
 
-			<h3 className="margin-y-50 text-center">12. Tại Sao Mô Hình Lego Assembly Hiệu Quả?</h3>
+			<h3 className="margin-y-50 text-center">12. Tại Sao Mô Hình [Lego Assembly] Hiệu Quả?</h3>
 
 			<h4 className="margin-y-40">1. Nhất quán tuyệt đối</h4>
 
@@ -1317,7 +1317,7 @@ export default function LegoAssembly7(): React.JSX.Element {
 
 			<h3 className="margin-y-50 text-center">Kết Luận: Học Ngữ Pháp Như Xếp Lego</h3>
 
-			<p>Mô hình <strong>Lego Assembly</strong> không phải là một phương pháp mới lạ — nó là <strong>cách nhìn lại ngữ pháp</strong> theo nguyên tắc <strong>gọn</strong>, <strong>rõ</strong>, <strong>có hệ thống</strong>:</p>
+			<p>Mô hình <strong>[Lego Assembly]</strong> không phải là một phương pháp mới lạ — nó là <strong>cách nhìn lại ngữ pháp</strong> theo nguyên tắc <strong>gọn</strong>, <strong>rõ</strong>, <strong>có hệ thống</strong>:</p>
 			
 				<ul className="list-square">
 			
@@ -1333,7 +1333,7 @@ export default function LegoAssembly7(): React.JSX.Element {
 			
 			<p className="margin-top-20">Khi đã quen, bạn sẽ "lắp câu" tự nhiên như xếp Lego. Không còn căng thẳng với "thì". Không còn mơ hồ với cấu trúc. Chỉ còn <strong>cách lắp ghép</strong>.</p>
 
-			<p><strong>Bạn đã sẵn sàng thử nghiệm mô hình Lego Assembly chưa</strong>?</p>
+			<p><strong>Bạn đã sẵn sàng thử nghiệm mô hình [Lego Assembly] chưa</strong>?</p>
 
 			<p className="margin-top-20">Hãy bắt đầu với 3 Head: <strong>am</strong> / <strong>will</strong> / <strong>could</strong>. Chọn một DP. Lắp 3 mẫu câu: khẳng định, phủ định, nghi vấn. Lặp lại với DP khác.</p>
 					

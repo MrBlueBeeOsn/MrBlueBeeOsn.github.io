@@ -178,7 +178,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 					<li>The birds are [flying south].</li>
 					<li className="margin-bottom-20 list-none">Những con chim đang [bay về phương nam].</li>
 
-					<li className="list-none">Hình thái: [flying south] - [Động Cụm][Verb Phrase] cấu thành từ [Tiếp Động Cơ] flying đi kèm từ chỉ hướng south.</li>
+					<li className="list-none">Hình thái: [flying south] - [Tiếp Động Cụm][Progressive Verb Phrase] cấu thành từ [Tiếp Động Cơ] flying đi kèm từ chỉ hướng south.</li>
 
 					<li className="list-none">Chức năng: [flying south] - [Tính Cụm][Adjective Phrase] định vị sau [Thời Động Cơ] are để mô tả trạng thái hành động của đối tượng.</li>
 			
@@ -196,7 +196,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 					<li>The article [which is capturing global attention] is inspiring.</li>
 					<li className="margin-bottom-20 list-none">Bài báo [cái mà đang thu hút sự chú ý toàn cầu] thì đầy cảm hứng.</li>
 
-					<li className="list-none">Hình thái: [which is capturing global attention] - [Động Câu][Verb Clause] phức hợp, chứa hệ thống cấu hình theo thời gồm [Thời Động Cơ] hiện tại (is) kết hợp liền mạch với [Tiếp Động Cơ] (capturing).</li>
+					<li className="list-none">Hình thái: [which is capturing global attention] - [Hiển-Liên Động Câu][Connector Verb Clause] phức hợp, chứa hệ thống cấu hình theo thời gồm [Thời Động Cơ] hiện tại (is) kết hợp liền mạch với [Tiếp Động Cơ] (capturing).</li>
 
 					<li className="margin-bottom-20 list-none">Chức năng: [which is capturing global attention] - [Tính Câu][Adjective Clause] đứng ngay sau [Danh Cơ] article nhằm định danh và vạch rõ bản chất.</li>
 			
@@ -447,7 +447,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 			
 			{/* 6.  */}
 
-			<h3 className="margin-y-50 text-center">6. Hiện Tượng [Động Câu] Ẩn Liên Kết [Zero-Connector Verb Clause] Trong Chức Năng Tính</h3>
+			<h3 className="margin-y-50 text-center">6. Hiện Tượng [Ẩn-Liên Động Câu][Zero-Connector Verb Clause] Trong Chức Năng Tính</h3>
 
 			<p>Một đỉnh cao tư duy của người bản ngữ tạo nên sự tinh gọn tuyệt đối cho chức năng Tính trong văn học thuật là hiện tượng ẩn liên kết. Lúc này, hình thái câu hoàn toàn sạch bóng các chữ nối hay chữ định hướng, biến khối [Động Câu] thành một câu con độc lập, giữ trọn vẹn chức năng Tính Câu.</p>
 
@@ -599,7 +599,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 			<p>Khi tư duy ngôn ngữ đạt đến cấp độ chuyên sâu, bộ não người bản ngữ bắt đầu vận hành các hình thái lồng nhau giống như những chiếc hộp Nga, nơi chức năng Tính được củng cố bằng các khối lồng chặt chẽ.</p>
 			
 
-			<h4 className="margin-y-40">[Tính Cụm Phân Tầng][Nested Adjective Phrase]</h4>
+			<h4 className="margin-y-40">[Tính Cụm][Adjective Phrase]</h4>
 
 			<p className="text-indent-whole"><strong>Ví dụ mẫu</strong>:</p>
 			
@@ -608,7 +608,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 					<li>The analysis [of {'{what they investigated}'}] is thorough.</li>
 					<li className="margin-bottom-20 list-none">Bản phân tích [về {'{những gì họ đã điều tra}'}] thì kỹ lưỡng.</li>
 
-					<li className="list-none">Hình thái: Khối tổng thể tầng ngoài [of {'{what they investigated}'}] khởi đầu bằng [Giới Cơ] of, đây chính là một [Giới Cụm][Prepositional Phrase]. Ngay phía sau [Giới Cơ] tầng ngoài, khối hình thái tầng trong {'{what they investigated}'} lại là một việc hành động phức hợp có hệ tạo hành động riêng, tức là một [Động Câu][Verb Clause].</li>
+					<li className="list-none">Hình thái: Khối tổng thể tầng ngoài [of {'{what they investigated}'}] khởi đầu bằng [Giới Cơ] of, đây chính là một [Tầng Giới Cụm][Tiered Prepositional Phrase]. Ngay phía sau [Giới Cơ] tầng ngoài, khối hình thái tầng trong {'{what they investigated}'} lại là một việc hành động phức hợp có hệ tạo hành động riêng, tức là một [Động Câu][Verb Clause].</li>
 			
 					<li className="list-none">Chức năng: Khối hình thái tầng trong {'{what they investigated}'} đóng vai trò là một [Danh Câu][Noun Clause] đứng sau để làm Danh Nhận chịu sự điều phối trực tiếp của khối [Giới Cơ] thuộc [Giới Cụm] tầng ngoài. Khi hai tầng này bao gói vào nhau thành một khối lớn tổng thể [of {'{what they investigated}'}], khối này sẽ gánh vác chức năng tổng thể cuối cùng là một [<strong>Tính Cụm</strong>][<strong>Adjective Phrase</strong>] định vị ngay sau [Danh Cơ] analysis.</li>
 			

@@ -17,7 +17,7 @@ export default function LegoAssembly9(): React.JSX.Element {
 		
 			<h4><HashLink smooth to="/tieng-anh#tieng-anh-terms"><mark className="highlight-tertiary-padding-4-8">Tiếng Anh</mark></HashLink></h4>
 
-			<h1 className="margin-y-50 text-center">Lego Assembly
+			<h1 className="margin-y-50 text-center">[Lego Assembly]
 												
 				<sup><HashLink smooth to="/tieng-anh/lego-assembly-1">&nbsp;1&nbsp;</HashLink>
 				</sup>
@@ -52,7 +52,7 @@ export default function LegoAssembly9(): React.JSX.Element {
 
 			<p>Bạn đã bao giờ tự hỏi tại sao trẻ em học ngôn ngữ rất nhanh mà chúng ta lại chật vật với hàng tá quy tắc ngữ pháp?</p>
 
-			<p>Câu trả lời không nằm ở trí thông minh, mà ở <strong>tư duy hệ thống</strong>. Hãy tạm quên những cuốn sách giáo khoa dày cộp và cùng tôi khám phá mô hình <strong>Lego Assembly</strong> (<strong>S Head DP</strong>/<strong>DC</strong>) – một phương pháp biến tiếng Anh thành những khối lắp ghép logic và đầy sáng tạo.</p>
+			<p>Câu trả lời không nằm ở trí thông minh, mà ở <strong>tư duy hệ thống</strong>. Hãy tạm quên những cuốn sách giáo khoa dày cộp và cùng tôi khám phá mô hình <strong>[Lego Assembly]</strong> (<strong>S Head DP</strong>/<strong>DC</strong>) – một phương pháp biến tiếng Anh thành những khối lắp ghép logic và đầy sáng tạo.</p>
 
 
 			{/* 1.  */}
@@ -60,7 +60,7 @@ export default function LegoAssembly9(): React.JSX.Element {
 			<h3 className="margin-y-50 text-center">1. Triết Lý Cốt Lõi: Tư Duy "Phụ Thuộc" (Dependent)</h3>
 
 			
-      <p>Trong mô hình Lego Assembly, một câu văn không phải là một chuỗi từ vựng ngẫu nhiên. Nó là một cấu trúc có phân cấp:</p>
+      <p>Trong mô hình [Lego Assembly], một câu văn không phải là một chuỗi từ vựng ngẫu nhiên. Nó là một cấu trúc có phân cấp:</p>
 			
 				<ul className="list-square">
 			
@@ -179,7 +179,7 @@ export default function LegoAssembly9(): React.JSX.Element {
 				</ul>
 
 
-			<h4 className="margin-y-40">Hiện tượng "Khối lồng khối" (Nested Blocks)</h4>
+			<h4 className="margin-y-40">Hiện tượng "Khối lồng khối" (Tiered Blocks)</h4>
 
 			<p className="text-indent-whole">Đôi khi, một khối DP đứng sau Head lại chứa đựng một cấu trúc S+V bên trong. Chúng ta gọi đó là một <strong>DC</strong> (<strong>Dependent Clause</strong>) đóng vai trò làm DP.</p>
 
@@ -221,7 +221,7 @@ export default function LegoAssembly9(): React.JSX.Element {
 
 			{/* 4.  */}
 
-			<h3 className="margin-y-50 text-center">4. Tại Sao Lego Assembly Là Chìa Khóa Vàng?</h3>
+			<h3 className="margin-y-50 text-center">4. Tại Sao [Lego Assembly] Là Chìa Khóa Vàng?</h3>
 			
 				<ol>
 			
@@ -241,7 +241,7 @@ export default function LegoAssembly9(): React.JSX.Element {
 
 			<h3 className="margin-y-50 text-center">Lời Kết</h3>
 
-			<p>Ngôn ngữ là một bộ đồ chơi lắp ráp khổng lồ, và bạn chính là người kiến trúc sư. Với mô hình <strong>Lego Assembly</strong>, mỗi câu văn bạn viết ra đều là một công trình logic và sắc sảo.</p>
+			<p>Ngôn ngữ là một bộ đồ chơi lắp ráp khổng lồ, và bạn chính là người kiến trúc sư. Với mô hình <strong>[Lego Assembly]</strong>, mỗi câu văn bạn viết ra đều là một công trình logic và sắc sảo.</p>
 
 			<p>Hãy bắt đầu quan sát thế giới xung quanh qua những khối S, Head và DP/DC. Bạn sẽ thấy tiếng Anh chưa bao giờ dễ dàng đến thế!</p>
 
@@ -249,7 +249,7 @@ export default function LegoAssembly9(): React.JSX.Element {
 
 			<p>Tác giả: [Mr. Bee Osn / Manus AI]</p>
 
-			<p className="margin-top-20">Dựa trên phương pháp tư duy hệ thống Lego Assembly.</p>
+			<p className="margin-top-20">Dựa trên phương pháp tư duy hệ thống [Lego Assembly].</p>
 			
 
 			<div className="viewcounter">

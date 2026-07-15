@@ -5,9 +5,9 @@ import EyeIcon from '@/components/view/EyeIcon';
 import ViewCounter from '@/components/view/ViewCounter';
 import LikeButton from '@/components/like/LikeButton';
 
-export default function NestedStructure(): React.JSX.Element {
+export default function TieredStructure(): React.JSX.Element {
 
-	const postId = "NestedStructure";
+	const postId = "TieredStructure";
 
 	return (<>
 

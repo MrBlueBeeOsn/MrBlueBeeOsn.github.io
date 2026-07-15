@@ -1838,11 +1838,11 @@
       "likes": 0
     },
     {
-      "id": "NestedStructure1",
+      "id": "TieredStructure1",
       "categoryDisplay": "Tiếng Anh",
       "categorySlug": "tieng-anh",
-      "title": "Nested Structure 1",
-      "content": "Nested Structure 1: BẬT TƯ DUY LẬP TRÌNH: TUYỆT CHƯƠNG ĐÓNG GÓI MÃ NGUỒN CƠ - CỤM - CÂU",
+      "title": "Tiered Structure 1",
+      "content": "Tiered Structure 1: BẬT TƯ DUY LẬP TRÌNH: TUYỆT CHƯƠNG ĐÓNG GÓI MÃ NGUỒN CƠ - CỤM - CÂU",
       "slug": "tieng-anh/nested-structure-1",
       "date": "2026-06-11",
       "views": 0,

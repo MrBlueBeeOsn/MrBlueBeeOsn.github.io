@@ -17,7 +17,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 		
 			<h4><HashLink smooth to="/tieng-anh#tieng-anh-terms"><mark className="highlight-tertiary-padding-4-8">Tiếng Anh</mark></HashLink></h4>
 
-			<h1 className="margin-y-50 text-center">Lego Assembly
+			<h1 className="margin-y-50 text-center">[Lego Assembly]
 												
 				<sup><HashLink smooth to="/tieng-anh/lego-assembly-1">&nbsp;1&nbsp;</HashLink>
 				</sup>
@@ -162,7 +162,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 
 			<h3 className="margin-y-50 text-center">3. Giải Mã Vùng Đất "Dependent": Ma Trận Nhất Quán "Hình Thái trước - Chức Năng sau"</h3>
 
-			<p>Điểm mấu chốt của phương pháp Lego Assembly là người học chỉ cần nhìn vào <strong>Hình thái</strong> (bản chất cấu tạo bề ngoài của khối Lego) trước, sau đó mới xác định <strong>Chức năng</strong> của nó dựa vào vị trí đứng trong câu.</p>
+			<p>Điểm mấu chốt của phương pháp [Lego Assembly] là người học chỉ cần nhìn vào <strong>Hình thái</strong> (bản chất cấu tạo bề ngoài của khối Lego) trước, sau đó mới xác định <strong>Chức năng</strong> của nó dựa vào vị trí đứng trong câu.</p>
 
 
 			<h4 className="margin-y-40">Chiều Dọc: Các Cấp Độ Của Hình Thái (Mảnh Lego làm bằng gì?)</h4>
@@ -224,7 +224,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 					<li>[Swimming] is healthy.</li>
 					<li className="margin-bottom-20 list-none">[Việc bơi lội] thì lành mạnh.</li>
 
-					<li className="list-none">Hình thái: [Swimming] - [Động Cơ][Verb Base] swim kết hợp với đuôi -ing để tạo nên [Tiếp Động Cơ][Progressive Verb Base], đóng gói hành động gốc thành một thực thể đơn nhất.</li>
+					<li className="list-none">Hình thái: [Swimming] - [Tiếp Động Cơ][Progressive Verb Base] swim kết hợp với đuôi -ing để tạo nên [Tiếp Động Cơ][Progressive Verb Base], đóng gói hành động gốc thành một thực thể đơn nhất.</li>
 
 					<li className="list-none">Chức năng: [Swimming] - [Danh Cơ][Noun Base] đóng vai trò làm Danh Chủ để tạo ra trạng thái "is healthy".</li>
 			
@@ -237,7 +237,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 					<li>They enjoy [traveling around the world].</li>
 					<li className="margin-bottom-20 list-none">Họ thích [việc đi du lịch quanh thế giới].</li>
 
-					<li className="list-none">Hình thái: [traveling around the world] - [Động Cụm][Verb Phrase] bắt đầu bằng một [Tiếp Động Cơ][Progressive Verb Base] dạng V-ing (traveling).</li>
+					<li className="list-none">Hình thái: [traveling around the world] - [Tiếp Động Cụm][Progressive Verb Phrase] bắt đầu bằng một [Tiếp Động Cơ][Progressive Verb Base] dạng V-ing (traveling).</li>
 
 					<li className="list-none">Chức năng: [traveling around the world] - [Danh Cụm][Noun Phrase] đóng vai trò làm phần Danh Nhận, chịu yêu cầu và tác động trực tiếp từ bộ nguồn hành động enjoy.</li>
 			
@@ -251,35 +251,35 @@ export default function LegoAssembly1(): React.JSX.Element {
 					<li>She discovered [where they hid the key].</li>
 					<li className="margin-bottom-20 list-none">Cô ấy đã phát hiện ra [nơi họ giấu chiếc chìa khóa].</li>
 
-					<li className="list-none">Hình thái: [where they hid the key] - [Động Câu][Verb Clause] chứa [Liên Cơ][Connector Base] "where" ở đầu.</li>
+					<li className="list-none">Hình thái: [where they hid the key] - [Hiển-Liên Động Câu][Connector Verb Clause] chứa [Liên Cơ][Connector Base] "where" ở đầu.</li>
 
 					<li className="list-none">Chức năng: [where they hid the key] - [Danh Câu][Noun Clause] đóng vai trò làm phần Danh Nhận thông tin đứng sau một [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "discovered".</li>
 			
 				</ul>
 
 			
-			<p className="margin-top-20 text-indent-whole">[<strong>Danh Câu Ẩn Liên</strong>][<strong>Zero-Connector Noun Clause</strong>]:</p>
+			<p className="margin-top-20 text-indent-whole">[<strong>Danh Nhận</strong>][<strong>Noun Object</strong>]:</p>
 			
 				<ul className="list-square">
 			
 					<li>I believe [we will succeed].</li>
 					<li className="margin-bottom-20 list-none">Tôi tin [chúng ta sẽ thành công].</li>
 
-					<li className="list-none">Hình thái: [we will succeed] - [Động Câu][Verb Clause] đã bị người bản ngữ bỏ đi [Liên Cơ][Connector Base] "that". Nhìn bề ngoài giống một câu hoàn chỉnh nhưng thực tế không thể đứng độc lập.</li>
+					<li className="list-none">Hình thái: [we will succeed] - [Ẩn-Liên Động Câu][Zero-Connector Verb Clause] đã bị người bản ngữ bỏ đi [Liên Cơ][Connector Base] "that". Nhìn bề ngoài giống một câu hoàn chỉnh nhưng thực tế không thể đứng độc lập.</li>
 
 					<li className="list-none">Chức năng: [we will succeed] - [Danh Câu][Noun Clause] đóng vai trò làm phần Danh Nhận trực tiếp cho hành động "believe".</li>
 			
 				</ul>
 
 			
-			<p className="margin-top-20 text-indent-whole">[<strong>Danh Cụm Phân Tầng</strong>][<strong>Nested Noun Phrase</strong>]:</p>
+			<p className="margin-top-20 text-indent-whole">[<strong>Danh Chủ</strong>][<strong>Noun Subject</strong>]:</p>
 			
 				<ul className="list-square">
 			
 					<li>[Remembering {'{how you painted the wall}'}] brings back great memories.</li>
 					<li className="margin-bottom-20 list-none">[Việc nhớ lại {'{cách bạn đã sơn bức tường}'}] mang về những kỷ niệm tuyệt vời.</li>
 
-					<li className="margin-bottom-20 list-none">Hình thái: Khối tổng thể [Remembering {'{how you painted the wall}'}] là một [Động Cụm][Verb Phrase] tầng ngoài bắt đầu bằng dạng V-ing (Remembering). Bên trong lòng của nó bao gói và chứa đựng khối {'{how you painted the wall}'} – một [Động Câu][Verb Clause] tầng trong có [Liên Cơ][Connector Base] how.</li>
+					<li className="margin-bottom-20 list-none">Hình thái: Khối tổng thể [Remembering {'{how you painted the wall}'}] là một [Tiếp Tầng Động Cụm][Progressive Tiered Verb Phrase] tầng ngoài bắt đầu bằng dạng V-ing (Remembering). Bên trong lòng của nó bao gói và chứa đựng khối {'{how you painted the wall}'} – một [Động Câu][Verb Clause] tầng trong có [Liên Cơ][Connector Base] how.</li>
 
 					<li className="list-none">Chức năng: Khối tổng thể [Remembering {'{how you painted the wall}'}] đóng vai trò là [<strong>Danh Cụm</strong>][<strong>Noun Phrase</strong>] làm Danh Chủ để kích hoạt toàn bộ nguồn hành động brings back phía sau. Bên trong nó, khối nhỏ {'{how you painted the wall}'} đóng vai trò là một [Danh Câu][Noun Clause] làm phần tiếp nhận tác động trực tiếp, chịu sự điều phối nội bộ của hành động Remembering.</li>
 			
@@ -298,7 +298,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 					<li>This is a [fascinating] novel.</li>
 					<li className="margin-bottom-20 list-none">Đây là một cuốn tiểu thuyết [hấp dẫn].</li>
 
-					<li className="list-none">Hình thái: [fascinating] - [Động Cơ][Verb Base] fascinate được chuyển hóa thông qua đuôi -ing thành [Tiếp Động Cơ][Progressive Verb Base].</li>
+					<li className="list-none">Hình thái: [fascinating] - [Tiếp Động Cơ][Progressive Verb Base] fascinate được chuyển hóa thông qua đuôi -ing thành [Tiếp Động Cơ][Progressive Verb Base].</li>
 
 					<li className="list-none">Chức năng: [fascinating] - [Tính Cơ][Adjective Base] đứng trước [Danh Cơ][Noun Base] "novel" để bổ nghĩa, làm rõ đặc điểm cho cuốn tiểu thuyết.</li>
 			
@@ -312,7 +312,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 					<li>The chef is [preparing the dessert].</li>
 					<li className="margin-bottom-20 list-none">Người đầu bếp thì [đang chuẩn bị món tráng miệng].</li>
 
-					<li className="list-none">Hình thái: [preparing the dessert] - [Động Cụm][Verb Phrase] bắt đầu bằng [Tiếp Động Cơ][Progressive Verb Base].</li>
+					<li className="list-none">Hình thái: [preparing the dessert] - [Tiếp Động Cụm][Progressive Verb Phrase] bắt đầu bằng [Tiếp Động Cơ][Progressive Verb Base].</li>
 
 					<li className="list-none">Chức năng: [preparing the dessert] - [Tính Cụm][Adjective Phrase] đóng vai trò làm phần mô tả trực tiếp trạng thái của Danh Chủ "The chef".</li>
 			
@@ -332,14 +332,14 @@ export default function LegoAssembly1(): React.JSX.Element {
 				</ul>
 
 			
-			<p className="margin-top-20 text-indent-whole">[<strong>Tính Cụm Phân Tầng</strong>][<strong>Nested Adjective Phrase</strong>]:</p>
+			<p className="margin-top-20 text-indent-whole">[<strong>Tính Cụm</strong>][<strong>Adjective Phrase</strong>]:</p>
 			
 				<ul className="list-square">
 			
 					<li>The man [with the dream {'{that he can fly}'}] is an inventor.</li>
 					<li className="margin-bottom-20 list-none">Người đàn ông [với ước mơ {'{rằng anh ấy có thể bay}'}] là một nhà sáng chế.</li>
 
-					<li className="margin-bottom-20 list-none">Hình thái: Khối tổng thể [with the dream {'{that he can fly}'}] là một [Giới Cụm][Prepositional Phrase] tầng ngoài. Bên trong bao gói {'{that he can fly}'} là một [Động Câu][Verb Clause] tầng trong chứa [Liên Cơ][Connector Base] "that".</li>
+					<li className="margin-bottom-20 list-none">Hình thái: Khối tổng thể [with the dream {'{that he can fly}'}] là một [Tầng Giới Cụm][Tiered Prepositional Phrase] tầng ngoài. Bên trong bao gói {'{that he can fly}'} là một [Động Câu][Verb Clause] tầng trong chứa [Liên Cơ][Connector Base] "that".</li>
 
 					<li className="list-none">Chức năng: Khối tổng thể [with the dream {'{that he can fly}'}] đóng vai trò là [<strong>Tính Cụm</strong>][<strong>Adjective Phrase</strong>] bổ nghĩa, mô tả đặc điểm nhận dạng cho Danh Chủ "The man". Bên trong nó, khối {'{that he can fly}'} đóng vai trò là [Danh Câu][Noun Clause] làm nhiệm vụ đồng vị, giải thích nghĩa trực tiếp cho [Danh Cơ][Noun Base] "dream".</li>
 			
@@ -353,21 +353,21 @@ export default function LegoAssembly1(): React.JSX.Element {
 					<li>The laptop [which sits on the desk] is broken.</li>
 					<li className="margin-bottom-20 list-none">Chiếc máy tính xách tay [nằm trên bàn] thì bị hỏng.</li>
 
-					<li className="list-none">Hình thái: [which sits on the desk] - [Động Câu][Verb Clause] chứa [Liên Cơ][Connector Base] "which" ở đầu.</li>
+					<li className="list-none">Hình thái: [which sits on the desk] - [Hiển-Liên Động Câu][Connector Verb Clause] chứa [Liên Cơ][Connector Base] "which" ở đầu.</li>
 
 					<li className="list-none">Chức năng: [which sits on the desk] - [Tính Câu][Adjective Clause] bổ nghĩa trực tiếp cho [Danh Cụm][Noun Phrase] "The laptop".</li>
 			
 				</ul>
 
 
-			<p className="margin-top-20 text-indent-whole">[<strong>Tính Câu Ẩn Liên</strong>][<strong>Zero-Connector Adjective Clause</strong>]:</p>
+			<p className="margin-top-20 text-indent-whole">[<strong>Tính Câu</strong>][<strong>Adjective Clause</strong>]:</p>
 			
 				<ul className="list-square">
 			
 					<li>The song [we heard last night] was beautiful.</li>
 					<li className="margin-bottom-20 list-none">Bài hát [chúng ta nghe tối qua] thì thật đẹp.</li>
 
-					<li className="list-none">Hình thái: [we heard last night] - [Động Câu][Verb Clause] đã bị người bản ngữ lược bỏ [Liên Cơ][Connector Base] "which/that".</li>
+					<li className="list-none">Hình thái: [we heard last night] - [Ẩn-Liên Động Câu][Zero-Connector Verb Clause] đã bị người bản ngữ lược bỏ [Liên Cơ][Connector Base] "which/that".</li>
 
 					<li className="list-none">Chức năng: [we heard last night] - [Tính Câu][Adjective Clause] làm nhiệm vụ giới hạn, bổ nghĩa đặc điểm cho thực thể "The song".</li>
 			
@@ -442,7 +442,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 					<li>He exercises daily [to improve his health].</li>
 					<li className="margin-bottom-20 list-none">Anh ấy tập thể dục hàng ngày [để cải thiện sức khỏe].</li>
 
-					<li className="list-none">Hình thái: [to improve his health] - [Động Cụm][Verb Phrase] bắt đầu bằng dạng nguyên bản có <strong>to</strong>.</li>
+					<li className="list-none">Hình thái: [to improve his health] - [Hạt Thuần Động Cụm][Particle Bare Verb Phrase] bắt đầu bằng dạng nguyên bản có <strong>to</strong>.</li>
 
 					<li className="list-none">Chức năng: [to improve his health] - [Trạng Cụm][Adverb Phrase] đứng cuối câu để làm rõ mục đích cho hành động trước đó.</li>
 			
@@ -463,14 +463,14 @@ export default function LegoAssembly1(): React.JSX.Element {
 				</ul>
 			
 
-			<p className="margin-top-20 text-indent-whole">[<strong>Trạng Cụm Phân Tầng</strong>][<strong>Nested Adverb Phrase</strong>]:</p>
+			<p className="margin-top-20 text-indent-whole">[<strong>Trạng Cụm</strong>][<strong>Adverb Phrase</strong>]:</p>
 			
 				<ul className="list-square">
 			
 					<li>We arrived [at the hour {'{when the train departed}'}].</li>
 					<li className="margin-bottom-20 list-none">Chúng tôi đã đến [vào cái giờ {'{khi đoàn tàu khởi hành}'}].</li>
 
-					<li className="margin-bottom-20 list-none">Hình thái: Khối tổng thể [at the hour {'{when the train departed}'}] là một [Giới Cụm][Prepositional Phrase] tầng ngoài. Bên trong bao gói {'{when the train departed}'} là một [Động Câu][Verb Clause] chứa [Liên Cơ][Connector Base] "when".</li>
+					<li className="margin-bottom-20 list-none">Hình thái: Khối tổng thể [at the hour {'{when the train departed}'}] là một [Tầng Giới Cụm][Tiered Prepositional Phrase] tầng ngoài. Bên trong bao gói {'{when the train departed}'} là một [Động Câu][Verb Clause] chứa [Liên Cơ][Connector Base] "when".</li>
 
 					<li className="list-none">Chức năng: Khối tổng thể [at the hour {'{when the train departed}'}] đóng vai trò là [<strong>Trạng Cụm</strong>][<strong>Adverb Phrase</strong>] bổ sung bối cảnh thời gian cho hành động chính "arrived". Bên trong nó, khối {'{when the train departed}'} đóng vai trò là [Tính Câu][Adjective Clause] bổ nghĩa cho [Danh Cơ][Noun Base] "hour".</li>
 			
@@ -484,7 +484,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 					<li>I will stay [because it is raining].</li>
 					<li className="margin-bottom-20 list-none">Tôi sẽ ở lại [bởi vì trời đang mưa].</li>
 
-					<li className="list-none">Hình thái: [because it is raining] - [Động Câu][Verb Clause] chứa [Liên Cơ][Connector Base] "because" và một cặp S - hành động hoàn chỉnh bên trong.</li>
+					<li className="list-none">Hình thái: [because it is raining] - [Hiển-Liên Động Câu][Connector Verb Clause] chứa [Liên Cơ][Connector Base] "because" và một cặp S - hành động hoàn chỉnh bên trong.</li>
 
 					<li className="list-none">Chức năng: [because it is raining] - [Trạng Câu][Adverb Clause] bổ nghĩa cho hành động chính "will stay", mở rộng bối cảnh nguyên nhân.</li>
 					
@@ -492,14 +492,14 @@ export default function LegoAssembly1(): React.JSX.Element {
 				</ul>
 
 
-			<p className="margin-top-20 text-indent-whole">[<strong>Trạng Câu Ẩn Liên</strong>][<strong>Zero-Connector Adverb Clause</strong>]:</p>
+			<p className="margin-top-20 text-indent-whole">[<strong>Trạng Câu</strong>][<strong>Adverb Clause</strong>]:</p>
 			
 				<ul className="list-square">
 			
 					<li>[Should you need help], call me immediately.</li>
 					<li className="margin-bottom-20 list-none">[Nếu bạn cần giúp đỡ], hãy gọi tôi ngay lập tức.</li>
 
-					<li className="list-none">Hình thái: [Should you need help] - [Động Câu][Verb Clause] đã được triệt tiêu toàn bộ [Liên Cơ][Connector Base] điều kiện "If" bằng phương pháp đảo [Ý-Thái Thuần Động Cơ] lên trước.</li>
+					<li className="list-none">Hình thái: [Should you need help] - [Ẩn-Liên Động Câu][Zero-Connector Verb Clause] đã được triệt tiêu toàn bộ [Liên Cơ][Connector Base] điều kiện "If" bằng phương pháp đảo [Ý-Thái Thuần Động Cơ] lên trước.</li>
 
 					<li className="list-none">Chức năng: [Should you need help] - [Trạng Câu][Adverb Clause] đóng vai trò cung cấp bối cảnh giả định cho câu lớn phía sau.</li>
 					
@@ -539,7 +539,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 					<li>The price dropped [after the weather cleared up].</li>
 					<li className="margin-bottom-20 list-none">Giá cả đã sụt giảm [sau khi thời tiết quang đãng trở lại].</li>
 			
-					<li className="list-none">Hình thái: [after the weather cleared up] - [Động Câu][Verb Clause] chứa [Liên Cơ][Connector Base] "after".</li>
+					<li className="list-none">Hình thái: [after the weather cleared up] - [Hiển-Liên Động Câu][Connector Verb Clause] chứa [Liên Cơ][Connector Base] "after".</li>
 
 					<li className="list-none">Chức năng: [after the weather cleared up] - [Trạng Câu][Adverb Clause] đảm nhiệm vai trò bổ nghĩa bối cảnh thời gian cho hành động chính của câu lớn.</li>
 			
@@ -556,7 +556,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 					<li>Doctors recommend [eating more vegetables].</li>
 					<li className="margin-bottom-20 list-none">Bác sĩ khuyến nghị [việc ăn nhiều rau hơn].</li>
 			
-					<li className="list-none">Hình thái: [eating more vegetables] - [Động Cụm][Verb Phrase] bắt đầu bằng [Tiếp Động Cơ][Progressive Verb Base].</li>
+					<li className="list-none">Hình thái: [eating more vegetables] - [Tiếp Động Cụm][Progressive Verb Phrase] bắt đầu bằng [Tiếp Động Cơ][Progressive Verb Base].</li>
 
 					<li className="list-none">Chức năng: [eating more vegetables] - [Danh Cụm][Noun Phrase] đảm nhiệm vai trò làm Danh Nhận đứng sau [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "recommend".</li>
 			
@@ -570,7 +570,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 					<li>Doctors recommend [that you eat more vegetables].</li>
 					<li className="margin-bottom-20 list-none">Bác sĩ khuyến nghị [rằng bạn nên ăn nhiều rau hơn].</li>
 			
-					<li className="list-none">Hình thái: [that you eat more vegetables] - [Động Câu][Verb Clause] chứa [Liên Cơ][Connector Base] "that".</li>
+					<li className="list-none">Hình thái: [that you eat more vegetables] - [Hiển-Liên Động Câu][Connector Verb Clause] chứa [Liên Cơ][Connector Base] "that".</li>
 					
 					<li className="list-none">Chức năng: [that you eat more vegetables] - [Danh Câu][Noun Clause] đảm nhiệm vai trò làm Danh Nhận đứng sau hành động điều khiển "recommend".</li>
 			
@@ -587,7 +587,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 					<li>He traveled to Japan [to learn the culture].</li>
 					<li className="margin-bottom-20 list-none">Anh ấy đã đến Nhật Bản [để tìm hiểu văn hóa].</li>
 			
-					<li className="list-none">Hình thái: [to learn the culture] - [Động Cụm][Verb Phrase] bắt đầu bằng [Động Cơ][Verb Base] nguyên bản có "to".</li>
+					<li className="list-none">Hình thái: [to learn the culture] - [Hạt Thuần Động Cụm][Particle Bare Verb Phrase] bắt đầu bằng [Động Cơ][Verb Base] nguyên bản có "to".</li>
 
 					<li className="list-none">Chức năng: [to learn the culture] - [Trạng Cụm][Adverb Phrase] đảm nhiệm vai trò mở rộng mục đích cho hành động.</li>
 			

@@ -458,12 +458,12 @@ export default function (): React.JSX.Element {
 
 
 
-      <h5 className="margin-y-30 text-indent-whole">4.2 Phân hệ [Động Câu] Ẩn Liên [Zero-Connector Verb Clause]</h5>
+      <h5 className="margin-y-30 text-indent-whole">4.2 Phân hệ [Ẩn-Liên Động Câu][Zero-Connector Verb Clause]</h5>
 
       <p className="margin-top-20 text-indent-whole"></p>
 
 
-      <p className="margin-top-20 text-indent-whole">[<strong>Danh Câu Ẩn Liên</strong>][<strong>Zero-Connector Noun Clause</strong>]</p>
+      <p className="margin-top-20 text-indent-whole">[<strong>Danh Nhận</strong>][<strong>Noun Object</strong>]</p>
 
       <p className="margin-top-20 text-indent-whole">Ví dụ 11a:</p>
       
@@ -479,7 +479,7 @@ export default function (): React.JSX.Element {
         </ul>
       
       
-      <p className="margin-top-20 text-indent-whole">[<strong>Tính Câu Ẩn Liên</strong>][<strong>Zero-Connector Adjective Clause</strong>]</p>
+      <p className="margin-top-20 text-indent-whole">[<strong>Tính Câu</strong>][<strong>Adjective Clause</strong>]</p>
 
       <p className="margin-top-20 text-indent-whole">Ví dụ 11b:</p>
       
@@ -495,7 +495,7 @@ export default function (): React.JSX.Element {
         </ul>
       
       
-      <p className="margin-top-20 text-indent-whole">[<strong>Trạng Câu Ẩn Liên</strong>][<strong>Zero-Connector Adverb Clause</strong>]</p>
+      <p className="margin-top-20 text-indent-whole">[<strong>Trạng Câu</strong>][<strong>Adverb Clause</strong>]</p>
 
       <p className="margin-top-20 text-indent-whole">Ví dụ 11c:</p>
       
@@ -512,12 +512,12 @@ export default function (): React.JSX.Element {
 
 
 
-      <h4 className="margin-y-40">5. Phân hệ Đóng Gói Phân Tầng [Nested Structure]</h4>
+      <h4 className="margin-y-40">5. Phân hệ [Đóng Gói Phân Tầng][Tiered Structure]</h4>
 
       <p className="margin-top-20 text-indent-whole"></p>
 
 
-      <h5 className="margin-top-20 text-indent-whole">[Danh Cụm Phân Tầng][Nested Noun Phrase]</h5>
+      <h5 className="margin-top-20 text-indent-whole">[Danh Cụm Phân Tầng][Tiered Noun Phrase]</h5>
 
       <p className="margin-top-20 text-indent-whole">Ví dụ 12:</p>
       
@@ -549,7 +549,7 @@ export default function (): React.JSX.Element {
         </ul>
 
 
-      <h5 className="margin-top-20 text-indent-whole">[Tính Cụm Phân Tầng][Nested Adjective Phrase]</h5>
+      <h5 className="margin-top-20 text-indent-whole">[Tính Cụm Phân Tầng][Tiered Adjective Phrase]</h5>
 
       <p className="margin-top-20 text-indent-whole">Ví dụ 13:</p>
       
@@ -582,7 +582,7 @@ export default function (): React.JSX.Element {
 
 
           
-      <h5 className="margin-top-20 text-indent-whole">[Trạng Cụm Phân Tầng][Nested Adverb Phrase]</h5>
+      <h5 className="margin-top-20 text-indent-whole">[Trạng Cụm Phân Tầng][Tiered Adverb Phrase]</h5>
 
       <p className="margin-top-20 text-indent-whole">Ví dụ 14:</p>
       

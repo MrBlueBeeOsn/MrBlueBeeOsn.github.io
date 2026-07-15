@@ -152,7 +152,7 @@ const Posts = lazy(() => import('@/data/Posts'));
 	const BiMatVeTuDuyNgonNgu2 = lazy(() => import('@/2_main/english/tienganh/folder/BiMatVeTuDuyNgonNgu2'));
 	const BiMatVeTuDuyNgonNgu3 = lazy(() => import('@/2_main/english/tienganh/folder/BiMatVeTuDuyNgonNgu3'));
 
-	const NestedStructure1 = lazy(() => import('@/2_main/english/tienganh/article/nestedstructure/NestedStructure1'));
+	const TieredStructure1 = lazy(() => import('@/2_main/english/tienganh/article/tieredstructure/TieredStructure1'));
 	
 	const NineBox1 = lazy(() => import('@/2_main/english/tienganh/article/3x3/NineBox1'));
 	
@@ -756,7 +756,7 @@ export default function AppRoutes(): React.JSX.Element {
 					<Route path="/tieng-anh/bi-mat-ve-tu-duy-ngon-ngu-2" element={<BiMatVeTuDuyNgonNgu2 />} />
 					<Route path="/tieng-anh/bi-mat-ve-tu-duy-ngon-ngu-3" element={<BiMatVeTuDuyNgonNgu3 />} />
 
-					<Route path="/tieng-anh/nested-structure-1" element={<NestedStructure1 />} />
+					<Route path="/tieng-anh/nested-structure-1" element={<TieredStructure1 />} />
 					
 					<Route path="/tieng-anh/nine-box-1" element={<NineBox1 />} />
 					

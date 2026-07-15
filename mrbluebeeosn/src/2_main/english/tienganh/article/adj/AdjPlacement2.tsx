@@ -276,7 +276,7 @@ export default function AdjPlacement2(): React.JSX.Element {
 			
 
 
-			<p className="margin-top-20 text-indent-whole">🌟 <strong>Danh Cụm phân tầng</strong> [<strong>Nested Noun Phrase</strong>]: [knows {'{where she hides the key}'}]</p>
+			<p className="margin-top-20 text-indent-whole">🌟 <strong>Danh Cụm phân tầng</strong> [<strong>Tiered Noun Phrase</strong>]: [knows {'{where she hides the key}'}]</p>
 
 			<p className="margin-top-20 text-indent-whole">Khi một [Động Câu] được lồng bên trong một Động Cụm, ta có một [Danh Cụm] phân tầng – cấu trúc cực kỳ phổ biến trong tiếng Anh đẳng cấp.</p>
 			
@@ -287,7 +287,7 @@ export default function AdjPlacement2(): React.JSX.Element {
 			
 					<li className="list-none">Hình thái tầng trong: {'{where she hides the key}'} – [Động Câu][Verb Clause] → chức năng [Danh Câu][Noun Clause].</li>
 			
-					<li className="list-none">Hình thái tầng ngoài: [knows {'{…}'}] – [Động Cụm][Verb Phrase] → chức năng [Danh Cụm] phân tầng [Nested Noun Phrase] đóng vai trò Danh Nhận (thành phần tiếp nhận hành động của He).</li>
+					<li className="list-none">Hình thái tầng ngoài: [knows {'{…}'}] – [Động Cụm][Verb Phrase] → chức năng [Danh Cụm] phân tầng [Tiered Noun Phrase] đóng vai trò Danh Nhận (thành phần tiếp nhận hành động của He).</li>
 			
 				</ul>
 			

@@ -17,7 +17,7 @@ export default function LegoAssembly3(): React.JSX.Element {
 		
 			<h4><HashLink smooth to="/tieng-anh#tieng-anh-terms"><mark className="highlight-tertiary-padding-4-8">Tiếng Anh</mark></HashLink></h4>
 
-			<h1 className="margin-y-50 text-center">Lego Assembly
+			<h1 className="margin-y-50 text-center">[Lego Assembly]
 												
 				<sup><HashLink smooth to="/tieng-anh/lego-assembly-1">&nbsp;1&nbsp;</HashLink>
 				</sup>
@@ -54,13 +54,13 @@ export default function LegoAssembly3(): React.JSX.Element {
 
 			<p>Bạn thuộc lòng công thức nhưng khi nói thì lại lắp bắp, quên cấu trúc?</p>
 
-			<p>Nếu bạn đang gặp phải những vấn đề này, thì <strong>Mô hình Lego Assembly</strong> chính là giải pháp đơn giản và mạnh mẽ nhất dành cho bạn.</p>
+			<p>Nếu bạn đang gặp phải những vấn đề này, thì <strong>Mô hình [Lego Assembly]</strong> chính là giải pháp đơn giản và mạnh mẽ nhất dành cho bạn.</p>
 			
 			<p>Thay vì học thuộc lòng từng thì một cách máy móc, hãy tưởng tượng tiếng Anh như một bộ đồ chơi Lego. Bạn chỉ cần học cách <strong>lắp ghép các khối</strong> lại với nhau. Một khi nắm được cách lắp, bạn có thể xây dựng bất kỳ câu nào một cách tự nhiên và logic.</p>
 
 			{/* 1.  */}
 
-			<h3 className="margin-y-50 text-center">Triết Lý Cốt Lõi Của Lego Assembly</h3>
+			<h3 className="margin-y-50 text-center">Triết Lý Cốt Lõi Của [Lego Assembly]</h3>
 
 			<p>Mọi câu trong tiếng Anh đều tuân theo công thức cơ bản:</p>
 	
@@ -360,7 +360,7 @@ export default function LegoAssembly3(): React.JSX.Element {
 
 			{/* 5.  */}
 
-			<h3 className="margin-y-50 text-center">Cách Học Hiệu Quả Với Lego Assembly</h3>
+			<h3 className="margin-y-50 text-center">Cách Học Hiệu Quả Với [Lego Assembly]</h3>
 			
 				<ol>
 			
@@ -380,7 +380,7 @@ export default function LegoAssembly3(): React.JSX.Element {
 
 			<h3 className="margin-y-50 text-center">Kết Luận</h3>
 
-			<p>Mô hình <strong>Lego Assembly</strong> (<strong>S Head DP</strong>/<strong>DC</strong>) không chỉ giúp bạn hiểu ngữ pháp sâu mà còn giúp bạn <strong>tư duy như người bản xứ</strong>. Khi bạn thành thạo cách lắp ghép, bạn sẽ không còn sợ nói hay viết tiếng Anh nữa.</p>
+			<p>Mô hình <strong>[Lego Assembly]</strong> (<strong>S Head DP</strong>/<strong>DC</strong>) không chỉ giúp bạn hiểu ngữ pháp sâu mà còn giúp bạn <strong>tư duy như người bản xứ</strong>. Khi bạn thành thạo cách lắp ghép, bạn sẽ không còn sợ nói hay viết tiếng Anh nữa.</p>
 
 			<p>Hãy bắt đầu ngay hôm nay: Chọn 5 ý bạn muốn nói, sau đó thử lắp thành câu theo mô hình này.</p>
 

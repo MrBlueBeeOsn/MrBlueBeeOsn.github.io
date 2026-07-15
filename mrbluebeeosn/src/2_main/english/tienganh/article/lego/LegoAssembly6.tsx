@@ -17,7 +17,7 @@ export default function LegoAssembly6(): React.JSX.Element {
 		
 			<h4><HashLink smooth to="/tieng-anh#tieng-anh-terms"><mark className="highlight-tertiary-padding-4-8">Tiếng Anh</mark></HashLink></h4>
 
-			<h1 className="margin-y-50 text-center">Lego Assembly
+			<h1 className="margin-y-50 text-center">[Lego Assembly]
 												
 				<sup><HashLink smooth to="/tieng-anh/lego-assembly-1">&nbsp;1&nbsp;</HashLink>
 				</sup>
@@ -48,13 +48,13 @@ export default function LegoAssembly6(): React.JSX.Element {
 
 			</h1>
 
-			<h4 className="margin-bottom-30 text-center">Mô hình Lego Assembly S Head DP DC</h4>
+			<h4 className="margin-bottom-30 text-center">Mô hình [Lego Assembly] S Head DP DC</h4>
 
 			{/*  Giới thiệu  */}
 
 			<h3 className="margin-y-50 text-center">Giới thiệu</h3>
 
-			<p><strong>Lego Assembly</strong> biến câu tiếng Anh thành ba viên ghép trực quan:</p>
+			<p><strong>[Lego Assembly]</strong> biến câu tiếng Anh thành ba viên ghép trực quan:</p>
 
 			<p><strong>S</strong> (<strong>Subject</strong>) <strong>Head</strong> (<strong>hạt nhân</strong>) <strong>DP</strong>/<strong>DC</strong> (<strong>phần phụ thuộc</strong>).</p>
 

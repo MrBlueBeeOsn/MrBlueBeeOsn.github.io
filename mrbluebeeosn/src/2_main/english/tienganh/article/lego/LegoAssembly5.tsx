@@ -17,7 +17,7 @@ export default function LegoAssembly5(): React.JSX.Element {
 		
 			<h4><HashLink smooth to="/tieng-anh#tieng-anh-terms"><mark className="highlight-tertiary-padding-4-8">Tiếng Anh</mark></HashLink></h4>
 
-			<h1 className="margin-y-50 text-center">Lego Assembly
+			<h1 className="margin-y-50 text-center">[Lego Assembly]
 												
 				<sup><HashLink smooth to="/tieng-anh/lego-assembly-1">&nbsp;1&nbsp;</HashLink>
 				</sup>
@@ -52,7 +52,7 @@ export default function LegoAssembly5(): React.JSX.Element {
 			
 			<p>Học tiếng Anh theo kiểu truyền thống, bạn phải nhớ "thời hiện tại đơn", "thời quá khứ tiếp diễn", rồi hàng chục bảng chia động cơ với đầy ngoại lệ.</p>
 
-			<p>Lego Assembly đề xuất một cách nhìn hoàn toàn khác:</p>
+			<p>[Lego Assembly] đề xuất một cách nhìn hoàn toàn khác:</p>
 
 			<p>Mọi câu tiếng Anh đều được lắp từ ba khối cố định. Bạn không học "thì" — bạn học cách lắp ghép.</p>
 			

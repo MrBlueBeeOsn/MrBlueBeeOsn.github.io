@@ -28,7 +28,7 @@ export default function MatrixQuiz(): React.JSX.Element {
 				"[Adjective Phrase]"
 			],
 			correctAnswer: 0,
-			explanation: "Morphology: [To learn everyday] - [Động Cụm][Verb Phrase] formed by combining the infinitive marker \"to\", the bare verb base \"learn\", and the adverbial modifier \"everyday\". \n\n Function: [To learn everyday] - [Danh Cụm][Noun Phrase] occupies the subject position directly preceding the main predicate \"expands\", acting as the nominal head of the sentence."
+			explanation: "Morphology: [To learn everyday] - [Hạt Thuần Động Cụm][Particle Bare Verb Phrase] formed by combining the infinitive marker \"to\", the bare verb base \"learn\", and the adverbial modifier \"everyday\". \n\n Function: [To learn everyday] - [Danh Cụm][Noun Phrase] occupies the subject position directly preceding the main predicate \"expands\", acting as the nominal head of the sentence."
 		},
 		{
 			id: 2,
@@ -58,7 +58,7 @@ export default function MatrixQuiz(): React.JSX.Element {
 				"[Adjective Phrase]"
 			],
 			correctAnswer: 0,
-			explanation: "Morphology: [Managing a large international team] - [Động Cụm][Verb Phrase] formed by the gerund \"Managing\" and its direct object phrase \"a large international team\". \n\n Function: [Managing a large international team] - [Danh Cụm][Noun Phrase] occupies the subject slot of the main verb \"requires\"."
+			explanation: "Morphology: [Managing a large international team] - [Tiếp Động Cụm][Progressive Verb Phrase] formed by the gerund \"Managing\" and its direct object phrase \"a large international team\". \n\n Function: [Managing a large international team] - [Danh Cụm][Noun Phrase] occupies the subject slot of the main verb \"requires\"."
 		},
 		{
 			id: 5,
@@ -68,7 +68,7 @@ export default function MatrixQuiz(): React.JSX.Element {
 				"[Adjective Phrase]"
 			],
 			correctAnswer: 1,
-			explanation: "Morphology: [written by the famous professor] - [Động Cụm][Verb Phrase] formed by the past participle \"written\" and its agentive prepositional phrase \"by the famous professor\". \n\n Function: [written by the famous professor] - [Tính Cụm][Adjective Phrase] post-modifies and restricts the meaning of the head noun \"book\"."
+			explanation: "Morphology: [written by the famous professor] - [Hoàn Động Cụm][Perfect Verb Phrase] formed by the past participle \"written\" and its agentive prepositional phrase \"by the famous professor\". \n\n Function: [written by the famous professor] - [Tính Cụm][Adjective Phrase] post-modifies and restricts the meaning of the head noun \"book\"."
 		},
 		{
 			id: 6,
@@ -78,7 +78,7 @@ export default function MatrixQuiz(): React.JSX.Element {
 				"[Adverb Phrase]"
 			],
 			correctAnswer: 1,
-			explanation: "Morphology: [to finish his graduation thesis] - [Động Cụm][Verb Phrase] formed by the infinitive marker \"to\", the verb base \"finish\", and its direct object \"his graduation thesis\". \n\n Function: [to finish his graduation thesis] - [Trạng Cụm][Adverb Phrase] modifies the matrix predicate \"stayed up\" by declaring the purpose behind the action."
+			explanation: "Morphology: [to finish his graduation thesis] - [Hạt Thuần Động Cụm][Particle Bare Verb Phrase] formed by the infinitive marker \"to\", the verb base \"finish\", and its direct object \"his graduation thesis\". \n\n Function: [to finish his graduation thesis] - [Trạng Cụm][Adverb Phrase] modifies the matrix predicate \"stayed up\" by declaring the purpose behind the action."
 		},
 		{
 			id: 7,
@@ -88,7 +88,7 @@ export default function MatrixQuiz(): React.JSX.Element {
 				"[Noun Clause]"
 			],
 			correctAnswer: 0,
-			explanation: "Morphology: [where they conduct medical experiments] - [Động Câu][Verb Clause] formed by the relative adverb \"where\" followed by a full clause containing the subject \"they\" and finite verb \"conduct\". \n\n Function: [where they conduct medical experiments] - [Tính Câu][Adjective Clause] post-modifies and defines the spatial traits of the head noun \"laboratory\"."
+			explanation: "Morphology: [where they conduct medical experiments] - [Hiển-Liên Động Câu][Connector Verb Clause] formed by the relative adverb \"where\" followed by a full clause containing the subject \"they\" and finite verb \"conduct\". \n\n Function: [where they conduct medical experiments] - [Tính Câu][Adjective Clause] post-modifies and defines the spatial traits of the head noun \"laboratory\"."
 		},
 		{
 			id: 8,
@@ -98,27 +98,27 @@ export default function MatrixQuiz(): React.JSX.Element {
 				"[Adverb Clause]"
 			],
 			correctAnswer: 1,
-			explanation: "Morphology: [Although the team faced severe budget cuts] - [Động Câu][Verb Clause] formed by the subordinating conjunction \"Although\" followed by a full clause containing the subject \"the team\" and finite verb \"faced\". \n\n Function: [Although the team faced severe budget cuts] - [Trạng Câu][Adverb Clause] modifies the entire main clause by providing a situational context of concession."
+			explanation: "Morphology: [Although the team faced severe budget cuts] - [Hiển-Liên Động Câu][Connector Verb Clause] formed by the subordinating conjunction \"Although\" followed by a full clause containing the subject \"the team\" and finite verb \"faced\". \n\n Function: [Although the team faced severe budget cuts] - [Trạng Câu][Adverb Clause] modifies the entire main clause by providing a situational context of concession."
 		},
 		{
 			id: 9,
 			question: "I [______]. \n Tôi [yêu thích việc {học các cấu trúc ngữ pháp phức tạp}].",
 			options: [
 				"[Noun Phrase]",
-				"[Nested Noun Phrase]"
+				"[Tiered Noun Phrase]"
 			],
 			correctAnswer: 1,
-			explanation: "Morphology: [love {learning complex grammar structures}] - [Động Cụm][Verb Phrase] containing an outer finite verb \"love\" and an embedded non-finite gerund phrase layer \"{learning complex grammar structures}\". \n\n Function: [love {learning complex grammar structures}] - [Danh Cụm] Phân Tầng [Nested Noun Phrase] acts as the complete nominal predicate block, where the outer layer is a [Danh Cụm][Noun Phrase] acting as the direct object of the subject \"I\", while nesting an internal secondary layer where the gerund phrase acts as an embedded [Danh Cụm][Noun Phrase] serving as the direct object of \"love\"."
+			explanation: "Morphology: [love {learning complex grammar structures}] - [Tầng Động Cụm][Tiered Verb Phrase] containing an outer finite verb \"love\" and an embedded non-finite gerund phrase layer \"{learning complex grammar structures}\". \n\n Function: [love {learning complex grammar structures}] - [Danh Cụm] Phân Tầng [Tiered Noun Phrase] acts as the complete nominal predicate block, where the outer layer is a [Danh Cụm][Noun Phrase] acting as the direct object of the subject \"I\", while nesting an internal secondary layer where the gerund phrase acts as an embedded [Danh Cụm][Noun Phrase] serving as the direct object of \"love\"."
 		},
 		{
 			id: 10,
 			question: "The board members [______]. \n Các thành viên ban quản trị [đã đề xuất {rằng chúng ta hoãn lại việc kiểm toán công ty}].",
 			options: [
-				"[Nested Noun Phrase]",
+				"[Tiered Noun Phrase]",
 				"[Noun Clause]"
 			],
 			correctAnswer: 0,
-			explanation: "Morphology: [suggested {that we postpone the corporate audit}] - [Động Cụm][Verb Phrase] containing an outer finite verb \"suggested\" and an embedded finite clause layer \"{that we postpone the corporate audit}\". \n\n Function: [suggested {that we postpone the corporate audit}] - [Danh Cụm] Phân Tầng [Nested Noun Phrase] acts as the primary nominal predicate block, where the outer layer forms a direct object phrase block, within which sits an embedded finite clause layer \"{that we postpone...}\", which is morphologically an [Động Câu][Verb Clause] functioning as a [Danh Câu][Noun Clause] acting as the direct object of the internal verb \"suggested\"."
+			explanation: "Morphology: [suggested {that we postpone the corporate audit}] - [Tầng Động Cụm][Tiered Verb Phrase] containing an outer finite verb \"suggested\" and an embedded finite clause layer \"{that we postpone the corporate audit}\". \n\n Function: [suggested {that we postpone the corporate audit}] - [Danh Cụm] Phân Tầng [Tiered Noun Phrase] acts as the primary nominal predicate block, where the outer layer forms a direct object phrase block, within which sits an embedded finite clause layer \"{that we postpone...}\", which is morphologically an [Động Câu][Verb Clause] functioning as a [Danh Câu][Noun Clause] acting as the direct object of the internal verb \"suggested\"."
 		}
 	];
 
