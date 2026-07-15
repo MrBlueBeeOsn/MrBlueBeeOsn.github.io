@@ -38,7 +38,7 @@ export default function (): React.JSX.Element {
 				"[Adverb Base]"
 			],
 			correctAnswer: 0,
-			explanation: "Hình thái: [adjusting] - [Tiếp Động Cơ][Progressive Verb Base] dạng gốc thêm đuôi \"-ing\" đứng đơn lẻ. \n\n Chức năng: [adjusting] - [Tính Cơ][Adjective Base] đi kèm ngay trước \"entries\" đứng ra bổ nghĩa cho thành phần này."
+			explanation: "Hình thái: [adjusting] - [Tiếp Động Cơ][Progressive Verb Base] bắt đầu từ [Động Cơ] nguyên bản dạng gốc thêm đuôi \"-ing\" đứng đơn lẻ. \n\n Chức năng: [adjusting] - [Tính Cơ][Adjective Base] đi kèm ngay trước \"entries\" đứng ra bổ nghĩa cho thành phần này."
 		},
 		{
 			id: 3,

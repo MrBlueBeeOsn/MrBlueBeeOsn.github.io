@@ -151,7 +151,7 @@ export default function NineBox1(): React.JSX.Element {
 					<li>[Debugging] isolates program faults.</li>
 					<li className="margin-bottom-20 list-none">[Việc gỡ lỗi] cô lập các lỗi chương trình.</li>
 			
-					<li className="list-none">Hình thái: [Debugging] - [Tiếp Động Cơ][Progressive Verb Base] nguyên bản gốc "Debug" thêm đuôi "ing" để hình thành [Tiếp Động Cơ][Progressive Verb Base].</li>
+					<li className="list-none">Hình thái: [Debugging] - [Tiếp Động Cơ][Progressive Verb Base] bắt đầu từ [Động Cơ] nguyên bản nguyên bản gốc "Debug" thêm đuôi "ing" để hình thành [Tiếp Động Cơ][Progressive Verb Base].</li>
 			
 					<li className="list-none">Chức năng: [Debugging] - [Danh Cơ][Noun Base] đóng vai trò làm [Danh Chủ] chịu trách nhiệm thực thi câu lớn.</li>
 			

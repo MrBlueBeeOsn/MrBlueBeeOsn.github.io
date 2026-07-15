@@ -224,7 +224,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 					<li>[Swimming] is healthy.</li>
 					<li className="margin-bottom-20 list-none">[Việc bơi lội] thì lành mạnh.</li>
 
-					<li className="list-none">Hình thái: [Swimming] - [Tiếp Động Cơ][Progressive Verb Base] swim kết hợp với đuôi -ing để tạo nên [Tiếp Động Cơ][Progressive Verb Base], đóng gói hành động gốc thành một thực thể đơn nhất.</li>
+					<li className="list-none">Hình thái: [Swimming] - [Tiếp Động Cơ][Progressive Verb Base] bắt đầu từ [Động Cơ] nguyên bản swim kết hợp với đuôi -ing để tạo nên [Tiếp Động Cơ][Progressive Verb Base], đóng gói hành động gốc thành một thực thể đơn nhất.</li>
 
 					<li className="list-none">Chức năng: [Swimming] - [Danh Cơ][Noun Base] đóng vai trò làm [Danh Chủ] để tạo ra trạng thái "is healthy".</li>
 			
@@ -298,7 +298,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 					<li>This is a [fascinating] novel.</li>
 					<li className="margin-bottom-20 list-none">Đây là một cuốn tiểu thuyết [hấp dẫn].</li>
 
-					<li className="list-none">Hình thái: [fascinating] - [Tiếp Động Cơ][Progressive Verb Base] fascinate được chuyển hóa thông qua đuôi -ing thành [Tiếp Động Cơ][Progressive Verb Base].</li>
+					<li className="list-none">Hình thái: [fascinating] - [Tiếp Động Cơ][Progressive Verb Base] bắt đầu từ [Động Cơ] nguyên bản fascinate được chuyển hóa thông qua đuôi -ing thành [Tiếp Động Cơ][Progressive Verb Base].</li>
 
 					<li className="list-none">Chức năng: [fascinating] - [Tính Cơ][Adjective Base] đứng trước [Danh Cơ][Noun Base] "novel" để bổ nghĩa, làm rõ đặc điểm cho cuốn tiểu thuyết.</li>
 			

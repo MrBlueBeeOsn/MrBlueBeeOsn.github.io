@@ -161,7 +161,7 @@ export default function ThreeDC1(): React.ReactElement {
 					<li>[Walking] is healthy.</li>
 					<li className="margin-bottom-20 list-none">[Đi bộ] thì lành mạnh.</li>
 			
-					<li className="list-none">Hình thái: [Walking] - [Tiếp Động Cơ][Progressive Verb Base] ở dạng [Tiếp Động Cơ] biến hình đuôi "-ing" để thể hiện một khối hành động đơn lẻ.</li>
+					<li className="list-none">Hình thái: [Walking] - [Tiếp Động Cơ][Progressive Verb Base] bắt đầu từ [Động Cơ] nguyên bản ở dạng [Tiếp Động Cơ] biến hình đuôi "-ing" để thể hiện một khối hành động đơn lẻ.</li>
 			
 					<li className="list-none">Chức năng: [Walking] - [Danh Cơ][Noun Base] đóng vai trò làm [Danh Chủ] thực hiện hành động cho Câu lớn chịu sự quản lý thời gian của [Thời Động Cơ] "is".</li>
 			
@@ -550,7 +550,7 @@ export default function ThreeDC1(): React.ReactElement {
 					<li>The [project-leading] man is very experienced.</li>
 					<li className="margin-bottom-20 list-none">Người đàn ông [dẫn-dắt-dự-án] thì rất có kinh nghiệm.</li>
 			
-					<li className="list-none">Hình thái: [project-leading] - [Tiếp Động Cơ][Progressive Verb Base] dạng cấu hình [Tiếp Động Cơ][Progressive Verb Base] phức hợp quy về dạng từ đơn mang đuôi "-ing".</li>
+					<li className="list-none">Hình thái: [project-leading] - [Tiếp Động Cơ][Progressive Verb Base] bắt đầu từ [Động Cơ] nguyên bản dạng cấu hình [Tiếp Động Cơ][Progressive Verb Base] phức hợp quy về dạng từ đơn mang đuôi "-ing".</li>
 			
 					<li className="list-none">Chức năng: [project-leading] - [Tính Cơ][Adjective Base] đứng trước thực thể "man" để mô tả tính chất trực tiếp.</li>
 			

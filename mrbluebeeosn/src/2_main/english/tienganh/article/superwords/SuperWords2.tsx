@@ -96,7 +96,7 @@ export default function SuperWords2(): React.JSX.Element {
 					<li>[______] is fun.</li>
 					<li className="margin-bottom-20 list-none">[Bơi lội] thì vui.</li>
 			
-					<li className="list-none">Hình thái: [Swimming] - [Tiếp Động Cơ][Progressive Verb Base] thêm -ing.</li>
+					<li className="list-none">Hình thái: [Swimming] - [Tiếp Động Cơ][Progressive Verb Base] bắt đầu từ [Động Cơ] nguyên bản thêm -ing.</li>
 			
 					<li className="list-none">Chức năng: [Swimming] - [Danh Cơ][Noun Base] đứng đầu câu, chỉ một hoạt động.</li>
 			
@@ -110,7 +110,7 @@ export default function SuperWords2(): React.JSX.Element {
 					<li>[______] is harmful.</li>
 					<li className="margin-bottom-20 list-none">[Hút thuốc] có hại.</li>
 			
-					<li className="list-none">Hình thái: [Smoking] - [Tiếp Động Cơ][Progressive Verb Base] thêm -ing.</li>
+					<li className="list-none">Hình thái: [Smoking] - [Tiếp Động Cơ][Progressive Verb Base] bắt đầu từ [Động Cơ] nguyên bản thêm -ing.</li>
 			
 					<li className="list-none">Chức năng: [Smoking] - [Danh Cơ][Noun Base] đứng đầu câu, chỉ một thói quen.</li>
 			
@@ -127,7 +127,7 @@ export default function SuperWords2(): React.JSX.Element {
 					<li>That is an [______] movie.</li>
 					<li className="margin-bottom-20 list-none">Đó là một bộ phim [thú vị].</li>
 			
-					<li className="list-none">Hình thái: [exciting] - [Tiếp Động Cơ][Progressive Verb Base] dạng -ing.</li>
+					<li className="list-none">Hình thái: [exciting] - [Tiếp Động Cơ][Progressive Verb Base] bắt đầu từ [Động Cơ] nguyên bản dạng -ing.</li>
 			
 					<li className="list-none">Chức năng: [exciting] - [Tính Cơ][Adjective Base] bổ sung ý nghĩa cho movie.</li>
 			
@@ -435,7 +435,7 @@ export default function SuperWords2(): React.JSX.Element {
 					<li>[______] is healthy.</li>
 					<li className="margin-bottom-20 list-none">[Bơi lội] thì tốt cho sức khỏe.</li>
 			
-					<li className="list-none">Hình thái: [Swimming] - [Tiếp Động Cơ][Progressive Verb Base] thêm -ing.</li>
+					<li className="list-none">Hình thái: [Swimming] - [Tiếp Động Cơ][Progressive Verb Base] bắt đầu từ [Động Cơ] nguyên bản thêm -ing.</li>
 			
 					<li className="list-none">Chức năng: [Swimming] - [Danh Cơ][Noun Base] đứng đầu câu, chỉ một hoạt động.</li>
 			
@@ -482,7 +482,7 @@ export default function SuperWords2(): React.JSX.Element {
 					<li>The movie is [______].</li>
 					<li className="margin-bottom-20 list-none">Bộ phim thì [thú vị].</li>
 			
-					<li className="list-none">Hình thái: [exciting] - [Tiếp Động Cơ][Progressive Verb Base] dạng -ing.</li>
+					<li className="list-none">Hình thái: [exciting] - [Tiếp Động Cơ][Progressive Verb Base] bắt đầu từ [Động Cơ] nguyên bản dạng -ing.</li>
 			
 					<li className="list-none">Chức năng: [exciting] - [Tính Cơ][Adjective Base] miêu tả the movie.</li>
 			

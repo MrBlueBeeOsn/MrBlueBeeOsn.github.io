@@ -179,7 +179,7 @@ export default function SV1(): React.JSX.Element {
 					<li>[Reading] expands the mind.</li>
 					<li className="margin-bottom-20 list-none">[Việc đọc sách] mở rộng tâm trí.</li>
 			
-					<li className="list-none">Hình thái: [Reading] - [Tiếp Động Cơ][Progressive Verb Base] đóng vai trò hạt nhân hành động đơn lẻ.</li>
+					<li className="list-none">Hình thái: [Reading] - [Tiếp Động Cơ][Progressive Verb Base] bắt đầu từ [Động Cơ] nguyên bản đóng vai trò hạt nhân hành động đơn lẻ.</li>
 			
 					<li className="margin-bottom-20 list-none">Chức năng: [Reading] - [Danh Cơ][Noun Base] đứng ở đầu câu tạo nên [Danh Chủ] cho toàn câu.</li>
 			
@@ -191,7 +191,7 @@ export default function SV1(): React.JSX.Element {
 					<li>I love the [twinkling] stars.</li>
 					<li className="margin-bottom-20 list-none">Tôi yêu những ngôi sao [lấp lánh].</li>
 			
-					<li className="list-none">Hình thái: [twinkling] - [Tiếp Động Cơ][Progressive Verb Base] thể hiện hạt nhân hành động đơn lẻ.</li>
+					<li className="list-none">Hình thái: [twinkling] - [Tiếp Động Cơ][Progressive Verb Base] bắt đầu từ [Động Cơ] nguyên bản thể hiện hạt nhân hành động đơn lẻ.</li>
 			
 					<li className="margin-bottom-20 list-none">Chức năng: [twinkling] - [Tính Cơ][Adjective Base] đứng trước [Danh Cơ] stars nhằm mô tả đặc điểm của đối tượng.</li>
 			

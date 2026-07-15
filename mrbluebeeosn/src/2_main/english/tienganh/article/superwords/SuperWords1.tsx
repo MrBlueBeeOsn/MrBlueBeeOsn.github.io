@@ -159,7 +159,7 @@ export default function SuperWords1(): React.JSX.Element {
 					<li>[Driving] is a useful skill.</li>
 					<li className="margin-bottom-20 list-none">[Việc lái xe] là một kỹ năng hữu ích.</li>
 			
-					<li className="list-none">Hình thái: [Driving] - [Tiếp Động Cơ][Progressive Verb Base] thể hiện một hạt nhân hành động đơn lẻ hiển thị ở dạng đuôi -ing.</li>
+					<li className="list-none">Hình thái: [Driving] - [Tiếp Động Cơ][Progressive Verb Base] bắt đầu từ [Động Cơ] nguyên bản thể hiện một hạt nhân hành động đơn lẻ hiển thị ở dạng đuôi -ing.</li>
 			
 					<li className="list-none">Chức năng: [Driving] - [Danh Cơ][Noun Base] đang đứng vị trí khởi đầu để làm [Danh Chủ] cho toàn câu lớn.</li>
 			
@@ -173,7 +173,7 @@ export default function SuperWords1(): React.JSX.Element {
 					<li>She shared an [inspiring] story.</li>
 					<li className="margin-bottom-20 list-none">Cô ấy đã chia sẻ một câu chuyện [truyền cảm hứng].</li>
 			
-					<li className="list-none">Hình thái: [inspiring] - [Tiếp Động Cơ][Progressive Verb Base] thể hiện một hạt nhân hành động đơn lẻ hiển thị ở dạng đuôi -ing.</li>
+					<li className="list-none">Hình thái: [inspiring] - [Tiếp Động Cơ][Progressive Verb Base] bắt đầu từ [Động Cơ] nguyên bản thể hiện một hạt nhân hành động đơn lẻ hiển thị ở dạng đuôi -ing.</li>
 			
 					<li className="list-none">Chức năng: [inspiring] - [Tính Cơ][Adjective Base] đang đứng vị trí trước và bổ nghĩa, mô tả tính chất cho câu chuyện.</li>
 			

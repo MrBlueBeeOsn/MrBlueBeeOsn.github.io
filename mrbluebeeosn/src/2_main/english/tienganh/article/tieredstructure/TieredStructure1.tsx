@@ -193,7 +193,7 @@ export default function TieredStructure1(): React.JSX.Element {
 					<li>[Smoking] is unhealthy.</li>
 					<li className="margin-bottom-20 list-none">[Việc hút thuốc] thì không tốt cho sức khỏe.</li>
 
-					<li className="list-none">Hình thái: [Smoking] - [Tiếp Động Cơ][Progressive Verb Base] xuất hiện dưới dạng từ đơn kết thúc bằng đuôi tinh chỉnh -ing.</li>
+					<li className="list-none">Hình thái: [Smoking] - [Tiếp Động Cơ][Progressive Verb Base] bắt đầu từ [Động Cơ] nguyên bản xuất hiện dưới dạng từ đơn kết thúc bằng đuôi tinh chỉnh -ing.</li>
 
 					<li className="list-none">Chức năng: [Smoking] - [Danh Cơ][Noun Base] đảm nhận nhiệm vụ làm [Danh Chủ] ở đầu câu để định danh cho một hoạt động.</li>
 			
