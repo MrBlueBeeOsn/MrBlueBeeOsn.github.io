@@ -58,7 +58,7 @@ export default function (): React.JSX.Element {
 				"[Adverb Clause]"
 			],
 			correctAnswer: 0,
-			explanation: "Morphology: [while reconciling the bank statement] - [Hiển-Liên Động Cụm][Connector Verb Phrase] structured as a reduced adverbial phrase containing a time conjunction and a gerund phrase. \n\n Function: [while reconciling the bank statement] - [Trạng Cụm][Adverb Phrase] modifying the main action \"found\" by establishing the exact accounting timeframe."
+			explanation: "Morphology: [while reconciling the bank statement] - [Hiển-Liên Tiếp Động Cụm][Connector Progressive Verb Phrase] structured as a reduced adverbial phrase containing a time conjunction and a gerund phrase. \n\n Function: [while reconciling the bank statement] - [Trạng Cụm][Adverb Phrase] modifying the main action \"found\" by establishing the exact accounting timeframe."
 		},
 		{
 			id: 5,

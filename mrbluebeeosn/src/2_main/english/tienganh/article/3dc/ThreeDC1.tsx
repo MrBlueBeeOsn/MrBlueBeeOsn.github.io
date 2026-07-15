@@ -602,7 +602,7 @@ export default function ThreeDC1(): React.ReactElement {
 					<li>I don't know [what to purchase next].</li>
 					<li className="margin-bottom-20 list-none">Tôi không biết [phải mua cái gì tiếp theo].</li>
 			
-					<li className="list-none">Hình thái: [what to purchase next] - [Hiển-Liên Động Cụm][Connector Verb Phrase] khối hành động tinh gọn chứa cấu hình [Hạt Động Cơ][Particle Verb Base] dạng "to + Động Cơ".</li>
+					<li className="list-none">Hình thái: [what to purchase next] - [Hiển-Liên Hạt Thuần Động Cụm][Connector Particle Bare Verb Phrase] khối hành động tinh gọn chứa cấu hình [Hạt Động Cơ][Particle Verb Base] dạng "to + Động Cơ".</li>
 			
 					<li className="list-none">Chức năng: [what to purchase next] - [Danh Cụm][Noun Phrase] giữ nguyên vai trò làm [Danh Nhận] chịu tác động dưới sự điều phối của [Thời-Thuần Động Cơ] "know" nhưng quy đổi về cấp độ cụm.</li>
 			
