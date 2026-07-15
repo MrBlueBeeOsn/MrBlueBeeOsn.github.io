@@ -404,7 +404,7 @@ export default function (): React.JSX.Element {
       <p className="margin-top-20 text-indent-whole"></p>
 
           
-      <h5 className="margin-y-30 text-indent-whole">4.1 Phân hệ [Động Câu] Hiển Liên [Connector Verb Clause]</h5>
+      <h5 className="margin-y-30 text-indent-whole">4.1 Phân hệ [Hiển-Liên Động Câu][Connector Verb Clause]</h5>
 
       <p className="margin-top-20 text-indent-whole"></p>
 

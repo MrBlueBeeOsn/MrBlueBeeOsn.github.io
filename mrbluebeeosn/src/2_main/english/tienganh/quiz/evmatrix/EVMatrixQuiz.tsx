@@ -68,7 +68,7 @@ export default function EVMatrixQuiz(): React.JSX.Element {
 				"[Tiered Noun Phrase]"
 			],
 			correctAnswer: 1,
-			explanation: "Hình thái: [know {what we should do next}] - [Thuần Tầng Động Cụm][Bare Tiered Verb Phrase] chứa hành vi hạt nhân \"know\" đi kèm thành phần bổ khuyết là một [Động Câu][Verb Clause] có cấu trúc chủ-hành vi hoàn chỉnh ở tầng trong {}. \n\n Chức năng: [know {what we should do next}] - [Danh Cụm] Phân Tầng [Tiered Noun Phrase] đóng vai trò cụm tiếp nhận lớn bên ngoài, chứa một danh câu làm thành phần tiếp nhận trực tiếp cho \"know\" ở bên trong."
+			explanation: "Hình thái: [know {what we should do next}] - [Thuần Tầng Động Cụm][Bare Tiered Verb Phrase] chứa hành vi hạt nhân \"know\" đi kèm thành phần bổ khuyết là một [Hiển-Liên Động Câu][Connector Verb Clause] có cấu trúc chủ-hành vi hoàn chỉnh ở tầng trong {}. \n\n Chức năng: [know {what we should do next}] - [Danh Cụm] Phân Tầng [Tiered Noun Phrase] đóng vai trò cụm tiếp nhận lớn bên ngoài, chứa một danh câu làm thành phần tiếp nhận trực tiếp cho \"know\" ở bên trong."
 		},
 		{
 			id: 6,

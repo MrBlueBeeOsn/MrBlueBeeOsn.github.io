@@ -195,7 +195,7 @@ export default function TieredStructure1(): React.JSX.Element {
 
 					<li className="list-none">Hình thái: [Smoking] - [Tiếp Động Cơ][Progressive Verb Base] xuất hiện dưới dạng từ đơn kết thúc bằng đuôi tinh chỉnh -ing.</li>
 
-					<li className="list-none">Chức năng: [Smoking] - [Danh Cơ][Noun Base] đảm nhận nhiệm vụ làm Danh Chủ ở đầu câu để định danh cho một hoạt động.</li>
+					<li className="list-none">Chức năng: [Smoking] - [Danh Cơ][Noun Base] đảm nhận nhiệm vụ làm [Danh Chủ] ở đầu câu để định danh cho một hoạt động.</li>
 			
 				</ul>
 			
@@ -343,9 +343,9 @@ export default function TieredStructure1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li className="list-none">Hình thái: {'{how we can build this app}'} - [Hiển-Liên Động Câu][Connector Verb Clause] định hình dưới dạng khối mã con nằm gọn bên trong, chứa đầy đủ Danh Chủ riêng we và các phân nhánh hành động riêng bao gồm can (Thái Động Cơ) và build (Động Cơ).</li>
+					<li className="list-none">Hình thái: {'{how we can build this app}'} - [Hiển-Liên Động Câu][Connector Verb Clause] định hình dưới dạng khối mã con nằm gọn bên trong, chứa đầy đủ [Danh Chủ] riêng we và các phân nhánh hành động riêng bao gồm can (Thái Động Cơ) và build (Động Cơ).</li>
 
-					<li className="list-none">Chức năng: {'{how we can build this app}'} - [Danh Câu][Noun Clause] đóng vai trò làm Danh Nhận (nạp tham số dữ liệu đầu vào) chịu sự điều phối trực tiếp của phân hệ ngoài.</li>
+					<li className="list-none">Chức năng: {'{how we can build this app}'} - [Danh Câu][Noun Clause] đóng vai trò làm [Danh Nhận] (nạp tham số dữ liệu đầu vào) chịu sự điều phối trực tiếp của phân hệ ngoài.</li>
 			
 				</ul>
 			
@@ -375,9 +375,9 @@ export default function TieredStructure1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li className="list-none">Hình thái: {'{how this team won}'} - [Hiển-Liên Động Câu][Connector Verb Clause] định hình dưới dạng khối mã con nằm gọn bên trong, chứa Danh Chủ this team và [Thời-Thuần Động Cơ][Tense-Bare Verb Base] won thiết lập cấu hình tích hợp thời quá khứ.</li>
+					<li className="list-none">Hình thái: {'{how this team won}'} - [Hiển-Liên Động Câu][Connector Verb Clause] định hình dưới dạng khối mã con nằm gọn bên trong, chứa [Danh Chủ] this team và [Thời-Thuần Động Cơ][Tense-Bare Verb Base] won thiết lập cấu hình tích hợp thời quá khứ.</li>
 
-					<li className="list-none">Chức năng: {'{how this team won}'} - [Danh Câu][Noun Clause] đóng vai trò làm Danh Nhận chịu sự điều phối trực tiếp của [Giới Cơ] about ở tầng ngoài.</li>
+					<li className="list-none">Chức năng: {'{how this team won}'} - [Danh Câu][Noun Clause] đóng vai trò làm [Danh Nhận] chịu sự điều phối trực tiếp của [Giới Cơ] about ở tầng ngoài.</li>
 			
 				</ul>
 
@@ -407,9 +407,9 @@ export default function TieredStructure1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li className="list-none">Hình thái: {'{where the event was running}'} - [Hiển-Liên Động Câu][Connector Verb Clause] định hình dưới dạng khối mã con nằm gọn bên trong, chứa Danh Chủ riêng the event cùng bộ đôi mã hành động liên kết gồm was (Thời Động Cơ) và running ([Tiếp Động Cơ]).</li>
+					<li className="list-none">Hình thái: {'{where the event was running}'} - [Hiển-Liên Động Câu][Connector Verb Clause] định hình dưới dạng khối mã con nằm gọn bên trong, chứa [Danh Chủ] riêng the event cùng bộ đôi mã hành động liên kết gồm was (Thời Động Cơ) và running ([Tiếp Động Cơ]).</li>
 
-					<li className="list-none">Chức năng: {'{where the event was running}'} - [Danh Câu][Noun Clause] đóng vai trò làm Danh Nhận chịu sự điều phối trực tiếp của [Giới Cơ] at ở tầng ngoài.</li>
+					<li className="list-none">Chức năng: {'{where the event was running}'} - [Danh Câu][Noun Clause] đóng vai trò làm [Danh Nhận] chịu sự điều phối trực tiếp của [Giới Cơ] at ở tầng ngoài.</li>
 			
 				</ul>
 
@@ -417,7 +417,7 @@ export default function TieredStructure1(): React.JSX.Element {
 
 			<h4 className="margin-y-40">E. Phân hệ [Động Câu][Verb Clause]</h4>
 
-			<p className="text-indent-whole">Khi vùng mã mở rộng thành một phân hệ chứa một câu con hoàn chỉnh có cả Danh Chủ riêng và các phân nhánh hành động riêng, người học xác định được diện mạo vật lý [Động Câu][Verb Clause].</p>
+			<p className="text-indent-whole">Khi vùng mã mở rộng thành một phân hệ chứa một câu con hoàn chỉnh có cả [Danh Chủ] riêng và các phân nhánh hành động riêng, người học xác định được diện mạo vật lý [Động Câu][Verb Clause].</p>
 
 					
 			<h5 className="margin-y-30 text-indent-whole">Phân hệ Hiển Thị [Liên Cơ] (Có Từ Kết Nối)</h5>
@@ -430,9 +430,9 @@ export default function TieredStructure1(): React.JSX.Element {
 					<li>I know [where you study].</li>
 					<li className="margin-bottom-20 list-none">Tôi biết [nơi mà bạn học tập].</li>
 
-					<li className="list-none">Hình thái: [where you study] - [Hiển-Liên Động Câu][Connector Verb Clause] đại diện cho khối mã chứa câu con hoàn chỉnh bắt đầu bằng [Liên Cơ][Connector Base] kết nối where, có Danh Chủ you và [Động Cơ][Verb Base] study.</li>
+					<li className="list-none">Hình thái: [where you study] - [Hiển-Liên Động Câu][Connector Verb Clause] đại diện cho khối mã chứa câu con hoàn chỉnh bắt đầu bằng [Liên Cơ][Connector Base] kết nối where, có [Danh Chủ] you và [Động Cơ][Verb Base] study.</li>
 
-					<li className="list-none">Chức năng: [where you study] - [Danh Câu][Noun Clause] trở thành Danh Nhận chứa dữ liệu mục tiêu chịu tác động từ hệ thống lệnh ngoài.</li>
+					<li className="list-none">Chức năng: [where you study] - [Danh Câu][Noun Clause] trở thành [Danh Nhận] chứa dữ liệu mục tiêu chịu tác động từ hệ thống lệnh ngoài.</li>
 			
 				</ul>
 			
@@ -458,7 +458,7 @@ export default function TieredStructure1(): React.JSX.Element {
 					<li>We stayed inside [because it flew past].</li>
 					<li className="margin-bottom-20 list-none">Chúng tôi đã ở bên trong [bởi vì nó đã bay qua].</li>
 
-					<li className="list-none">Hình thái: [because it flew past] - [Ẩn-Liên Động Câu][Zero-Connector Verb Clause] kích hoạt ngay sau [Liên Cơ][Connector Base] kết nối because, chứa Danh Chủ it và [Thời-Thuần Động Cơ][Tense-Bare Verb Base] flew mang dấu mốc tích hợp quá khứ.</li>
+					<li className="list-none">Hình thái: [because it flew past] - [Ẩn-Liên Động Câu][Zero-Connector Verb Clause] kích hoạt ngay sau [Liên Cơ][Connector Base] kết nối because, chứa [Danh Chủ] it và [Thời-Thuần Động Cơ][Tense-Bare Verb Base] flew mang dấu mốc tích hợp quá khứ.</li>
 					
 					<li className="list-none">Chức năng: [because it flew past] - [Trạng Câu][Adverb Clause] thiết lập module định hình bối cảnh nguyên nhân cho toàn bộ sự việc đứng trước.</li>
 			
@@ -478,9 +478,9 @@ export default function TieredStructure1(): React.JSX.Element {
 					<li>I believe [you are right].</li>
 					<li className="margin-bottom-20 list-none">Tôi tin [bạn đúng].</li>
 			
-					<li className="list-none">Hình thái: [you are right] - [Ẩn-Liên Động Câu][Zero-Connector Verb Clause] mang diện mạo của một dòng lệnh độc lập với Danh Chủ you và [Thời-Thuần Động Cơ][Tense-Bare Verb Base] are, hoàn toàn ẩn đi [Liên Cơ][Connector Base] kết nối (that).</li>
+					<li className="list-none">Hình thái: [you are right] - [Ẩn-Liên Động Câu][Zero-Connector Verb Clause] mang diện mạo của một dòng lệnh độc lập với [Danh Chủ] you và [Thời-Thuần Động Cơ][Tense-Bare Verb Base] are, hoàn toàn ẩn đi [Liên Cơ][Connector Base] kết nối (that).</li>
 			
-					<li className="list-none">Chức năng: [you are right] - [Danh Câu][Noun Clause] đóng vai trò làm Danh Nhận nạp dữ liệu trực tiếp cho [Động Cơ] believe.</li>
+					<li className="list-none">Chức năng: [you are right] - [Danh Câu][Noun Clause] đóng vai trò làm [Danh Nhận] nạp dữ liệu trực tiếp cho [Động Cơ] believe.</li>
 			
 				</ul>
 			
@@ -492,7 +492,7 @@ export default function TieredStructure1(): React.JSX.Element {
 					<li>The book [I checked yesterday] is lost.</li>
 					<li className="margin-bottom-20 list-none">Cuốn sách [tôi kiểm tra ngày hôm qua] thì bị mất.</li>
 			
-					<li className="list-none">Hình thái: [I checked yesterday] - [Hiển-Liên Động Câu][Connector Verb Clause] chứa Danh Chủ I và [Thời-Thuần Động Cơ][Tense-Bare Verb Base] checked, đứng lọt thỏm ngay sau một khối tên gọi mà không cần bất kỳ [Liên Cơ][Connector Base] định vị nào dẫn đường.</li>
+					<li className="list-none">Hình thái: [I checked yesterday] - [Hiển-Liên Động Câu][Connector Verb Clause] chứa [Danh Chủ] I và [Thời-Thuần Động Cơ][Tense-Bare Verb Base] checked, đứng lọt thỏm ngay sau một khối tên gọi mà không cần bất kỳ [Liên Cơ][Connector Base] định vị nào dẫn đường.</li>
 			
 					<li className="list-none">Chức năng: [I checked yesterday] - [Tính Câu][Adjective Clause] vận hành như bộ lọc đặc điểm sở hữu để xác định mục tiêu chính xác cho đối tượng book đứng trước.</li>
 			
@@ -506,7 +506,7 @@ export default function TieredStructure1(): React.JSX.Element {
 					<li>[Had I built the software], I would have tested it.</li>
 					<li className="margin-bottom-20 list-none">[Giá mà tôi xây dựng phần mềm], tôi đã kiểm tra nó rồi.</li>
 			
-					<li className="list-none">Hình thái: [Had I built the software] - [Ẩn-Liên Động Câu][Zero-Connector Verb Clause] sử dụng cấu trúc đảo chip [Thời Động Cơ] had lên trước Danh Chủ I, xóa bỏ hoàn toàn [Liên Cơ][Connector Base] điều kiện (if) và đồng hành cùng [Hoàn Động Cơ] built.</li>
+					<li className="list-none">Hình thái: [Had I built the software] - [Ẩn-Liên Động Câu][Zero-Connector Verb Clause] sử dụng cấu trúc đảo chip [Thời Động Cơ] had lên trước [Danh Chủ] I, xóa bỏ hoàn toàn [Liên Cơ][Connector Base] điều kiện (if) và đồng hành cùng [Hoàn Động Cơ] built.</li>
 			
 					<li className="list-none">Chức năng: [Had I built the software] - [Trạng Câu][Adverb Clause] làm nhiệm vụ thiết lập bối cảnh giả định nền tảng cho toàn bộ hệ thống thực thi ở vế sau.</li>
 			
@@ -548,7 +548,7 @@ export default function TieredStructure1(): React.JSX.Element {
 			
 					<li className="list-none">Hình thái mới: [Creating articles] - [Tiếp Động Cụm][Progressive Verb Phrase] xuất hiện dưới dạng khối mở rộng mới chứa [Tiếp Động Cơ][Progressive Verb Base] creating được đưa vào thế chỗ.</li>
 			
-					<li className="list-none">Chức năng mới: [Creating articles] - [Danh Cụm][Noun Phrase] duy trì chính xác chức năng làm Danh Chủ của khối cũ.</li>
+					<li className="list-none">Chức năng mới: [Creating articles] - [Danh Cụm][Noun Phrase] duy trì chính xác chức năng làm [Danh Chủ] của khối cũ.</li>
 			
 				</ul>
 
@@ -561,7 +561,7 @@ export default function TieredStructure1(): React.JSX.Element {
 					<li>We delayed the trip [because it snowed heavily].</li>
 					<li className="margin-bottom-20 list-none">Chúng tôi đã hoãn chuyến đi [bởi vì tuyết đã rơi rất dày].</li>
 			
-					<li className="list-none">Hình thái mới: [because it snowed heavily] - [Hiển-Liên Động Câu][Connector Verb Clause] hiển thị dưới dạng khối mã chứa đầy đủ Danh Chủ it và hạt nhân [Thời-Thuần Động Cơ][Tense-Bare Verb Base] snowed thiết lập cấu hình tích hợp thời quá khứ.</li>
+					<li className="list-none">Hình thái mới: [because it snowed heavily] - [Hiển-Liên Động Câu][Connector Verb Clause] hiển thị dưới dạng khối mã chứa đầy đủ [Danh Chủ] it và hạt nhân [Thời-Thuần Động Cơ][Tense-Bare Verb Base] snowed thiết lập cấu hình tích hợp thời quá khứ.</li>
 			
 					<li className="list-none">Chức năng mới: [because it snowed heavily] - [Trạng Câu][Adverb Clause] đảm nhận vai trò bối cảnh nguyên nhân ở cấp độ cao cấp.</li>
 			
@@ -641,7 +641,7 @@ export default function TieredStructure1(): React.JSX.Element {
 					<li className="margin-bottom-20 list-none">Hệ thống 6 lớp Động Cơ; [Động Cụm][Verb Phrase]; [Giới Cụm][Prepositional Phrase]; hay [Động Câu][Verb Clause].</li>
 			
 					<li value="2"><strong>Đóng gói phân tầng</strong> bằng các ký hiệu [...] và {'{...}'}:</li>
-					<li className="list-none">Để nhận diện ngay lập tức <strong>Chức năng</strong> (Danh, Tính, Trạng) mà các module đang đảm nhận tại vị trí đó trong câu (dù là Danh Chủ, Danh Nhận hay bộ lọc bối cảnh).</li>
+					<li className="list-none">Để nhận diện ngay lập tức <strong>Chức năng</strong> (Danh, Tính, Trạng) mà các module đang đảm nhận tại vị trí đó trong câu (dù là Danh Chủ, [Danh Nhận] hay bộ lọc bối cảnh).</li>
 			
 				</ol>
 			

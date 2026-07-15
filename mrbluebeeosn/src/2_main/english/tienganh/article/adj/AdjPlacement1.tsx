@@ -135,7 +135,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 					<li>must read → [Áp-Thái Thuần Động Cơ] "must" + [Thuần Động Cơ] "read"</li>
 			
 				</ul>
-
+ 
 
 			{/* 3.  */}
 
@@ -185,7 +185,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 				</ul>
 
 
-			<h4 className="margin-y-40">Cấp độ 3: Hình thái [Động Câu][Verb Clause] mang Chức năng Tính (Tính Câu)</h4>
+			<h4 className="margin-y-40">Cấp độ 3: Hình thái [Hiển-Liên Động Câu][Connector Verb Clause] mang Chức năng Tính (Tính Câu)</h4>
 
 			<p className="text-indent-whole">Đơn vị hành động nâng cấp thành một việc phức hợp chứa cả một hệ tạo hành động và bối cảnh thời gian riêng biệt bên trong.</p>
 
@@ -229,7 +229,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 			<p>Khi đi sâu vào các câu phức hợp, chúng ta sẽ phát hiện một sự thật kinh ngạc: Tiếng Anh cao cấp và tiếng Việt chia sẻ chung một bản đồ tư duy. Cách người bản ngữ định vị [Danh Cơ] và kéo dài thành phần mô tả chức năng Tính phía sau giống tiếng Việt đến hoàn hảo, bất kể [Danh Cơ] đó đóng vai trò gì.</p>
 
 
-			<h4 className="margin-y-40">Sự Trùng Khớp Ở Vị Trí Danh Chủ Và Danh Nhận</h4>
+			<h4 className="margin-y-40">Sự Trùng Khớp Ở Vị Trí [Danh Chủ] Và Danh Nhận</h4>
 					
 			<p className="text-indent-whole">Dù đối tượng bạn muốn mô tả là chủ thể hành động (Danh Chủ) hay đối tượng chịu tác động (Danh Nhận), cả hai ngôn ngữ đều có chung một phản xạ:</p>
 
@@ -608,9 +608,9 @@ export default function AdjPlacement1(): React.JSX.Element {
 					<li>The analysis [of {'{what they investigated}'}] is thorough.</li>
 					<li className="margin-bottom-20 list-none">Bản phân tích [về {'{những gì họ đã điều tra}'}] thì kỹ lưỡng.</li>
 
-					<li className="list-none">Hình thái: Khối tổng thể tầng ngoài [of {'{what they investigated}'}] khởi đầu bằng [Giới Cơ] of, đây chính là một [Tầng Giới Cụm][Tiered Prepositional Phrase]. Ngay phía sau [Giới Cơ] tầng ngoài, khối hình thái tầng trong {'{what they investigated}'} lại là một việc hành động phức hợp có hệ tạo hành động riêng, tức là một [Động Câu][Verb Clause].</li>
+					<li className="list-none">Hình thái: Khối tổng thể tầng ngoài [of {'{what they investigated}'}] khởi đầu bằng [Giới Cơ] of, đây chính là một [Tầng Giới Cụm][Tiered Prepositional Phrase]. Ngay phía sau [Giới Cơ] tầng ngoài, khối hình thái tầng trong {'{what they investigated}'} lại là một việc hành động phức hợp có hệ tạo hành động riêng, tức là một [Hiển-Liên Động Câu][Connector Verb Clause].</li>
 			
-					<li className="list-none">Chức năng: Khối hình thái tầng trong {'{what they investigated}'} đóng vai trò là một [Danh Câu][Noun Clause] đứng sau để làm Danh Nhận chịu sự điều phối trực tiếp của khối [Giới Cơ] thuộc [Giới Cụm] tầng ngoài. Khi hai tầng này bao gói vào nhau thành một khối lớn tổng thể [of {'{what they investigated}'}], khối này sẽ gánh vác chức năng tổng thể cuối cùng là một [<strong>Tính Cụm</strong>][<strong>Adjective Phrase</strong>] định vị ngay sau [Danh Cơ] analysis.</li>
+					<li className="list-none">Chức năng: Khối hình thái tầng trong {'{what they investigated}'} đóng vai trò là một [Danh Câu][Noun Clause] đứng sau để làm [Danh Nhận] chịu sự điều phối trực tiếp của khối [Giới Cơ] thuộc [Giới Cụm] tầng ngoài. Khi hai tầng này bao gói vào nhau thành một khối lớn tổng thể [of {'{what they investigated}'}], khối này sẽ gánh vác chức năng tổng thể cuối cùng là một [<strong>Tính Cụm</strong>][<strong>Adjective Phrase</strong>] định vị ngay sau [Danh Cơ] analysis.</li>
 			
 				</ul>
 			
@@ -632,7 +632,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 					<li>The team [which was operating in the region] found the oil reserve.</li>
 					<li className="margin-bottom-20 list-none">Đội ngũ [người mà đã đang hoạt động ở trong khu vực] đã tìm thấy trữ lượng dầu mỏ.</li>
 			
-					<li className="list-none">Hình thái: [which was operating in the region] – [Động Câu][Verb Clause] phức hợp, bắt đầu bằng chữ định hướng (which), chứa cấu trúc hành động thiết lập thời gồm [Thời Động Cơ] quá khứ (was) đi kèm [Tiếp Động Cơ] mang đuôi -ing (operating), nối tiếp bằng một [Giới Cụm] chỉ nơi chốn (in the region).</li>
+					<li className="list-none">Hình thái: [which was operating in the region] – [Hiển-Liên Động Câu][Connector Verb Clause] phức hợp, bắt đầu bằng chữ định hướng (which), chứa cấu trúc hành động thiết lập thời gồm [Thời Động Cơ] quá khứ (was) đi kèm [Tiếp Động Cơ] mang đuôi -ing (operating), nối tiếp bằng một [Giới Cụm] chỉ nơi chốn (in the region).</li>
 			
 					<li className="list-none">Chức năng: [which was operating in the region] – [Tính Câu][Adjective Clause] bổ nghĩa định danh cho đội ngũ.</li>
 			
@@ -714,7 +714,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 					<li>The book [which elaborates on the ancient civilizations] provides amazing details.</li>
 					<li className="margin-bottom-20 list-none">Cuốn sách [cái mà mở rộng/chi tiết hóa về các nền văn minh cổ đại] cung cấp những chi tiết kinh ngạc.</li>
 			
-					<li className="list-none">Hình thái: [which elaborates on the ancient civilizations] – [Động Câu][Verb Clause] phức hợp đầy đủ, bắt đầu bằng chữ định hướng liên kết (which), theo sau là một [Thời-Thuần Động Cơ][Tense-Bare Verb Base] chia ở hiện tại đơn (elaborates).</li>
+					<li className="list-none">Hình thái: [which elaborates on the ancient civilizations] – [Hiển-Liên Động Câu][Connector Verb Clause] phức hợp đầy đủ, bắt đầu bằng chữ định hướng liên kết (which), theo sau là một [Thời-Thuần Động Cơ][Tense-Bare Verb Base] chia ở hiện tại đơn (elaborates).</li>
 			
 					<li className="list-none">Chức năng: [which elaborates on the ancient civilizations] – [Tính Câu][Adjective Clause] chịu trách nhiệm vạch rõ bản chất chi tiết cho [Danh Cơ] book.</li>
 			

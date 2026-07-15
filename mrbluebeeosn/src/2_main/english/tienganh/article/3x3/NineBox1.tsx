@@ -153,7 +153,7 @@ export default function NineBox1(): React.JSX.Element {
 			
 					<li className="list-none">Hình thái: [Debugging] - [Tiếp Động Cơ][Progressive Verb Base] nguyên bản gốc "Debug" thêm đuôi "ing" để hình thành [Tiếp Động Cơ][Progressive Verb Base].</li>
 			
-					<li className="list-none">Chức năng: [Debugging] - [Danh Cơ][Noun Base] đóng vai trò làm Danh Chủ chịu trách nhiệm thực thi câu lớn.</li>
+					<li className="list-none">Chức năng: [Debugging] - [Danh Cơ][Noun Base] đóng vai trò làm [Danh Chủ] chịu trách nhiệm thực thi câu lớn.</li>
 			
 				</ul>
 			
@@ -202,7 +202,7 @@ export default function NineBox1(): React.JSX.Element {
 			
 					<li className="list-none">Hình thái: [to optimize the application interface] - [Hạt Thuần Động Cụm][Particle Bare Verb Phrase] biểu thị một tập hợp các từ xoay quanh [Động Cơ][Verb Base] nguyên bản optimize.</li>
 			
-					<li className="list-none">Chức năng: [to optimize the application interface] - [Danh Cụm][Noun Phrase] đóng vai trò làm một khối Danh Nhận đứng sau mục tiêu.</li>
+					<li className="list-none">Chức năng: [to optimize the application interface] - [Danh Cụm][Noun Phrase] đóng vai trò làm một khối [Danh Nhận] đứng sau mục tiêu.</li>
 			
 				</ul>
 			
@@ -236,7 +236,7 @@ export default function NineBox1(): React.JSX.Element {
 			
 
 
-			<h4 className="margin-y-40">C. Hình thái cấp độ CLAUSE: [Động Câu][Verb Clause]</h4>
+			<h4 className="margin-y-40">C. Hình thái cấp độ CLAUSE: [Hiển-Liên Động Câu][Connector Verb Clause]</h4>
 
 			<p className="text-indent-whole">Là đơn vị hành động mở rộng ở quy mô lớn nhất, chứa một cấu trúc câu con bên trong nó.</p>
 
@@ -251,7 +251,7 @@ export default function NineBox1(): React.JSX.Element {
 			
 					<li className="list-none">Hình thái: [that the background task failed] - [Hiển-Liên Động Câu][Connector Verb Clause] tạo nên một module thực thi chứa [Liên Cơ][Connector Base] dẫn đường và câu con xoay quanh [Thời-Thuần Động Cơ][Tense-Bare Verb Base] failed.</li>
 			
-					<li className="list-none">Chức năng: [that the background task failed] - [Danh Câu][Noun Clause] hoạt động như một khối Danh Nhận dữ liệu được xác nhận.</li>
+					<li className="list-none">Chức năng: [that the background task failed] - [Danh Câu][Noun Clause] hoạt động như một khối [Danh Nhận] dữ liệu được xác nhận.</li>
 			
 				</ul>
 			
@@ -288,7 +288,7 @@ export default function NineBox1(): React.JSX.Element {
 					
 			<p className="text-indent-whole">Trong thực tế vận hành ngôn ngữ, người bản ngữ thường lược bỏ các cấu trúc liên kết [như các [Liên Cơ][Connector Base]].</p>
 
-			<p className="text-indent-whole">Khối dữ liệu lúc này có hình thái bề ngoài giống hệt như một câu độc lập, nhưng bản chất vẫn là một [Động Câu][Verb Clause] không thể đứng một mình vì đang bị khóa chặt vào một vị trí chức năng bên trong Câu lớn:</p>
+			<p className="text-indent-whole">Khối dữ liệu lúc này có hình thái bề ngoài giống hệt như một câu độc lập, nhưng bản chất vẫn là một [Ẩn-Liên Động Câu][Zero-Connector Verb Clause] không thể đứng một mình vì đang bị khóa chặt vào một vị trí chức năng bên trong Câu lớn:</p>
 
 
 			<p className="margin-top-20 text-indent-whole">[<strong>Danh Nhận</strong>][<strong>Noun Object</strong>]:</p>
@@ -300,7 +300,7 @@ export default function NineBox1(): React.JSX.Element {
 			
 					<li className="list-none">Hình thái: [the firewall blocks the packet] - [Ẩn-Liên Động Câu][Zero-Connector Verb Clause] hoàn toàn vắng bóng [Liên Cơ][Connector Base] dẫn đường nhưng có đầy đủ kết cấu hành động xoay quanh [Thời-Thuần Động Cơ][Tense-Bare Verb Base] blocks.</li>
 			
-					<li className="list-none">Chức năng: [the firewall blocks the packet] - [Danh Câu][Noun Clause] đóng vai trò làm Danh Nhận dữ liệu trực tiếp đứng sau điều phối của [Thời-Thuần Động Cơ][Tense-Bare Verb Base] suspects.</li>
+					<li className="list-none">Chức năng: [the firewall blocks the packet] - [Danh Câu][Noun Clause] đóng vai trò làm [Danh Nhận] dữ liệu trực tiếp đứng sau điều phối của [Thời-Thuần Động Cơ][Tense-Bare Verb Base] suspects.</li>
 			
 				</ul>
 			
@@ -314,7 +314,7 @@ export default function NineBox1(): React.JSX.Element {
 			
 					<li className="list-none">Hình thái: [the vendor provided yesterday] - [Ẩn-Liên Động Câu][Zero-Connector Verb Clause] vận hành như một module chứa cấu trúc câu con đứng lồng lách ngay sau một danh mục mục tiêu mà không có [Liên Cơ][Connector Base], xoay quanh [Thời-Thuần Động Cơ][Tense-Bare Verb Base] provided.</li>
 			
-					<li className="list-none">Chức năng: [the vendor provided yesterday] - [Tính Câu][Adjective Clause] đóng vai trò định danh thuộc tính để chỉ rõ loại API nào bổ nghĩa cho Danh Chủ đứng trước.</li>
+					<li className="list-none">Chức năng: [the vendor provided yesterday] - [Tính Câu][Adjective Clause] đóng vai trò định danh thuộc tính để chỉ rõ loại API nào bổ nghĩa cho [Danh Chủ] đứng trước.</li>
 			
 				</ul>
 			
@@ -338,7 +338,7 @@ export default function NineBox1(): React.JSX.Element {
 					
 			<p className="text-indent-whole">Bên cạnh hệ động, cấu trúc ngôn ngữ còn được vận hành bởi các khối liên kết không xuất phát từ gốc hành động, tiêu biểu là <strong>Giới Cụm</strong> [Prepositional Phrase].</p>
 
-			<p className="text-indent-whole">Khối này được nhận diện trực tiếp bằng mắt thông qua từ khóa dẫn đường ([Giới Cơ][Preposition Base]) đứng đầu, phối hợp cùng một khối danh mục mục tiêu làm Danh Nhận phía sau. Khi đưa vào vận hành, khối này chỉ đảm nhận việc kích hoạt thuộc tính hoặc bối cảnh.</p>
+			<p className="text-indent-whole">Khối này được nhận diện trực tiếp bằng mắt thông qua từ khóa dẫn đường ([Giới Cơ][Preposition Base]) đứng đầu, phối hợp cùng một khối danh mục mục tiêu làm [Danh Nhận] phía sau. Khi đưa vào vận hành, khối này chỉ đảm nhận việc kích hoạt thuộc tính hoặc bối cảnh.</p>
 
 
 
@@ -390,9 +390,9 @@ export default function NineBox1(): React.JSX.Element {
 					<li>[To understand {'{how the database handles the workload}'}] requires deep technical knowledge.</li>
 					<li className="margin-bottom-20 list-none">[Việc hiểu {'{cách cơ sở dữ liệu xử lý khối lượng công việc}'}] yêu cầu kiến thức kỹ thuật chuyên sâu.</li>
 
-					<li className="margin-bottom-20 list-none">Hình thái: Khối tổng thể [To understand {'{how the database handles the workload}'}] đóng vai trò một [Hạt Thuần Tầng Động Cụm][Particle Tiered Bare Verb Phrase] tầng ngoài. Bên trong bao gói {'{how the database handles the workload}'} đại diện một [Động Câu][Verb Clause] tầng trong.</li>
+					<li className="margin-bottom-20 list-none">Hình thái: Khối tổng thể [To understand {'{how the database handles the workload}'}] đóng vai trò một [Hạt Thuần Tầng Động Cụm][Particle Tiered Bare Verb Phrase] tầng ngoài. Bên trong bao gói {'{how the database handles the workload}'} đại diện một [Hiển-Liên Động Câu][Connector Verb Clause] tầng trong.</li>
 			
-					<li className="list-none">Chức năng: Khối {'{how the database handles the workload}'} bên trong đóng vai trò làm [Danh Câu][Noun Clause] [làm Danh Nhận] chịu sự điều phối hành động trực tiếp từ [Động Cơ][Verb Base] nguyên bản understand, và toàn bộ khối tổng thể [To understand {'{how the database handles the workload}'}] vận hành với chức năng [<strong>Danh Cụm</strong>][<strong>Noun Phrase</strong>] đóng vai trò làm Danh Chủ chịu trách nhiệm thực thi câu lớn.</li>
+					<li className="list-none">Chức năng: Khối {'{how the database handles the workload}'} bên trong đóng vai trò làm [Danh Câu][Noun Clause] [làm Danh Nhận] chịu sự điều phối hành động trực tiếp từ [Động Cơ][Verb Base] nguyên bản understand, và toàn bộ khối tổng thể [To understand {'{how the database handles the workload}'}] vận hành với chức năng [<strong>Danh Cụm</strong>][<strong>Noun Phrase</strong>] đóng vai trò làm [Danh Chủ] chịu trách nhiệm thực thi câu lớn.</li>
 			
 				</ul>
 			
@@ -405,7 +405,7 @@ export default function NineBox1(): React.JSX.Element {
 					<li>The source code [for {'{what the team deployed yesterday}'}] requires a security audit.</li>
 					<li className="margin-bottom-20 list-none">Mã nguồn [cho {'{những gì đội ngũ triển khai ngày hôm qua}'}] yêu cầu một cuộc kiểm toán bảo mật.</li>
 
-					<li className="margin-bottom-20 list-none">Hình thái: Khối tổng thể [for {'{what the team deployed yesterday}'}] đóng vai trò một [Tầng Giới Cụm][Tiered Prepositional Phrase] tầng ngoài. Bên trong bao gói {'{what the team deployed yesterday}'} đại diện một [Động Câu][Verb Clause] tầng trong.</li>
+					<li className="margin-bottom-20 list-none">Hình thái: Khối tổng thể [for {'{what the team deployed yesterday}'}] đóng vai trò một [Tầng Giới Cụm][Tiered Prepositional Phrase] tầng ngoài. Bên trong bao gói {'{what the team deployed yesterday}'} đại diện một [Hiển-Liên Động Câu][Connector Verb Clause] tầng trong.</li>
 			
 					<li className="list-none">Chức năng: Khối {'{what the team deployed yesterday}'} bên trong đóng vai trò làm [Danh Câu][Noun Clause] [làm Danh Nhận] chịu sự điều phối trực tiếp từ [Giới Cơ] đứng trước, và toàn bộ khối tổng thể [for {'{what the team deployed yesterday}'}] vận hành với chức năng [<strong>Tính Cụm</strong>][<strong>Adjective Phrase</strong>] nhằm mô tả thuộc tính định danh cho khối [Danh Cụm][Noun Phrase] "The source code" phía trước.</li>
 			
@@ -420,7 +420,7 @@ export default function NineBox1(): React.JSX.Element {
 					<li>The analyst reviews the ledger [at {'{where the system stores financial logs}'}].</li>
 					<li className="margin-bottom-20 list-none">Nhà phân tích kiểm tra sổ cái [tại {'{nơi mà hệ thống lưu trữ nhật ký tài chính}'}].</li>
 
-					<li className="margin-bottom-20 list-none">Hình thái: Khối tổng thể [at {'{where the system stores financial logs}'}] đóng vai trò một [Tầng Giới Cụm][Tiered Prepositional Phrase] tầng ngoài. Bên trong bao gói {'{where the system stores financial logs}'} đại diện một [Động Câu][Verb Clause] tầng trong.</li>
+					<li className="margin-bottom-20 list-none">Hình thái: Khối tổng thể [at {'{where the system stores financial logs}'}] đóng vai trò một [Tầng Giới Cụm][Tiered Prepositional Phrase] tầng ngoài. Bên trong bao gói {'{where the system stores financial logs}'} đại diện một [Hiển-Liên Động Câu][Connector Verb Clause] tầng trong.</li>
 			
 					<li className="list-none">Chức năng: Khối {'{where the system stores financial logs}'} bên trong đóng vai trò làm [Danh Câu][Noun Clause] [làm Danh Nhận] chịu sự điều phối trực tiếp từ [Giới Cơ] chỉ vị trí, và toàn bộ khối tổng thể [at {'{where the system stores financial logs}'}] vận hành với chức năng [<strong>Trạng Cụm</strong>][<strong>Adverb Phrase</strong>] nhằm bổ nghĩa bối cảnh không gian cho hành động kiểm tra sổ cái.</li>
 			

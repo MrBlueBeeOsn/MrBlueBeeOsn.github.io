@@ -161,7 +161,7 @@ export default function SuperWords1(): React.JSX.Element {
 			
 					<li className="list-none">Hình thái: [Driving] - [Tiếp Động Cơ][Progressive Verb Base] thể hiện một hạt nhân hành động đơn lẻ hiển thị ở dạng đuôi -ing.</li>
 			
-					<li className="list-none">Chức năng: [Driving] - [Danh Cơ][Noun Base] đang đứng vị trí khởi đầu để làm Danh Chủ cho toàn câu lớn.</li>
+					<li className="list-none">Chức năng: [Driving] - [Danh Cơ][Noun Base] đang đứng vị trí khởi đầu để làm [Danh Chủ] cho toàn câu lớn.</li>
 			
 				</ul>
 			
@@ -215,7 +215,7 @@ export default function SuperWords1(): React.JSX.Element {
 			
 					<li className="list-none">Hình thái: [Reading this manual] - [Tiếp Động Cụm][Progressive Verb Phrase] thể hiện một khối hành động chứa nhiều chữ bắt đầu bằng một [Tiếp Động Cơ] dạng đuôi -ing phối hợp với đối tượng bổ trợ.</li>
 			
-					<li className="list-none">Chức năng: [Reading this manual] - [Danh Cụm][Noun Phrase] đang đứng vị trí đầu câu để đóng vai trò làm Danh Chủ cho toàn câu lớn.</li>
+					<li className="list-none">Chức năng: [Reading this manual] - [Danh Cụm][Noun Phrase] đang đứng vị trí đầu câu để đóng vai trò làm [Danh Chủ] cho toàn câu lớn.</li>
 			
 				</ul>
 			
@@ -229,7 +229,7 @@ export default function SuperWords1(): React.JSX.Element {
 			
 					<li className="list-none">Hình thái: [fixing the system] - [Tiếp Động Cụm][Progressive Verb Phrase] thể hiện một khối hành động chứa [Tiếp Động Cơ] dạng đuôi -ing phối hợp với đối tượng chịu tác động.</li>
 			
-					<li className="list-none">Chức năng: [fixing the system] - [Tính Cụm][Adjective Phrase] đang đứng vị trí sau để bổ nghĩa, mô tả trạng thái thực thi đang diễn ra của Danh Chủ "The engineer".</li>
+					<li className="list-none">Chức năng: [fixing the system] - [Tính Cụm][Adjective Phrase] đang đứng vị trí sau để bổ nghĩa, mô tả trạng thái thực thi đang diễn ra của [Danh Chủ] "The engineer".</li>
 			
 				</ul>
 			
@@ -289,13 +289,13 @@ export default function SuperWords1(): React.JSX.Element {
 
 			{/* 4.  */}
 
-			<h3 className="margin-y-50 text-center">4. Hình thái: [Động Câu][Verb Clause]</h3>
+			<h3 className="margin-y-50 text-center">4. Hình thái: [Hiển-Liên Động Câu][Connector Verb Clause]</h3>
 
 			<p>Đây là hình thái tối cao của hành động khi nó chứa cả một cấu trúc câu con có đầy đủ hệ thống hành động bên trong.</p>
 
 			<p><strong>Quy ước trực quan</strong>: Dấu [] sẽ xác định ranh giới của câu con này.</p>
 
-			<p>Khi nhìn thấy hình thái ĐỘNG CÂU, ta xác định chức năng dựa trên khuôn mẫu như sau:</p>
+			<p>Khi nhìn thấy hình thái Hiển-Liên Động Câu, ta xác định chức năng dựa trên khuôn mẫu như sau:</p>
 
 			<p className="margin-top-20"><strong>Ví dụ 1</strong>:</p>
 			
@@ -306,7 +306,7 @@ export default function SuperWords1(): React.JSX.Element {
 			
 					<li className="list-none">Hình thái: [that she spoke the truth] - [Hiển-Liên Động Câu][Connector Verb Clause] thể hiện một cấu trúc câu con hoàn chỉnh được dẫn dắt bởi [Liên Cơ][Connector Base] "that".</li>
 			
-					<li className="list-none">Chức năng: [that she spoke the truth] - [Danh Câu][Noun Clause] đang đứng vị trí Danh Nhận để tiếp nhận hành động từ hành động "discovered" của Danh Chủ "I".</li>
+					<li className="list-none">Chức năng: [that she spoke the truth] - [Danh Câu][Noun Clause] đang đứng vị trí [Danh Nhận] để tiếp nhận hành động từ hành động "discovered" của [Danh Chủ] "I".</li>
 			
 				</ul>
 			
@@ -345,7 +345,7 @@ export default function SuperWords1(): React.JSX.Element {
 
 			<p>Trong văn phong bản ngữ, người ta thường lược bỏ các cơ liên kết nhằm đẩy tốc độ truyền tải thông tin lên tối đa.</p>
 
-			<p>Về hình thái trực quan, các khối này trông giống hệt như một câu con độc lập có đầy đủ Danh Chủ và hành động riêng, nhưng về bản chất, chúng không thể đứng tách rời một mình mà phải cắm chặt vào cấu trúc tổng thể:</p>
+			<p>Về hình thái trực quan, các khối này trông giống hệt như một câu con độc lập có đầy đủ [Danh Chủ] và hành động riêng, nhưng về bản chất, chúng không thể đứng tách rời một mình mà phải cắm chặt vào cấu trúc tổng thể:</p>
 
 
 			<p className="margin-top-20"><strong>Ví dụ 1</strong>:</p>
@@ -357,7 +357,7 @@ export default function SuperWords1(): React.JSX.Element {
 			
 					<li className="list-none">Hình thái: [you took the correct steps] - [Ẩn-Liên Động Câu][Zero-Connector Verb Clause] thể hiện một cấu trúc câu con hoàn chỉnh nhưng hoàn toàn vắng bóng [Liên Cơ] "that" ở đầu.</li>
 			
-					<li className="list-none">Chức năng: [you took the correct steps] - [Danh Câu][Noun Clause] đang đứng vị trí Danh Nhận để làm rõ sự việc chịu tác động trực tiếp từ hành động "believe".</li>
+					<li className="list-none">Chức năng: [you took the correct steps] - [Danh Câu][Noun Clause] đang đứng vị trí [Danh Nhận] để làm rõ sự việc chịu tác động trực tiếp từ hành động "believe".</li>
 			
 				</ul>
 			
@@ -371,7 +371,7 @@ export default function SuperWords1(): React.JSX.Element {
 			
 					<li className="list-none">Hình thái: [he drove yesterday] - [Ẩn-Liên Động Câu][Zero-Connector Verb Clause] thể hiện một cấu trúc câu con xuất hiện ngay sau một đối tượng định danh mà không cần chữ kết nối bọc đầu.</li>
 			
-					<li className="list-none">Chức năng: [he drove yesterday] - [Tính Câu][Adjective Clause] đang đứng vị trí bám sát ngay sau Danh Chủ "The car" để bổ nghĩa và định danh riêng cho chiếc xe đó.</li>
+					<li className="list-none">Chức năng: [he drove yesterday] - [Tính Câu][Adjective Clause] đang đứng vị trí bám sát ngay sau [Danh Chủ] "The car" để bổ nghĩa và định danh riêng cho chiếc xe đó.</li>
 			
 				</ul>
 			
@@ -383,7 +383,7 @@ export default function SuperWords1(): React.JSX.Element {
 					<li>[Had they given the signal], the operation would have begun.</li>
 					<li className="margin-bottom-20 list-none">[Nếu họ phát ra tín hiệu], hoạt động đã được bắt đầu.</li>
 			
-					<li className="list-none">Hình thái: [Had they given the signal] - [Ẩn-Liên Động Câu][Zero-Connector Verb Clause] thể hiện một cấu trúc hành động được đảo lên trước Danh Chủ tạo nên một hình thái câu đặc biệt biến đổi loại bỏ chữ điều phối điều kiện ở đầu.</li>
+					<li className="list-none">Hình thái: [Had they given the signal] - [Ẩn-Liên Động Câu][Zero-Connector Verb Clause] thể hiện một cấu trúc hành động được đảo lên trước [Danh Chủ] tạo nên một hình thái câu đặc biệt biến đổi loại bỏ chữ điều phối điều kiện ở đầu.</li>
 			
 					<li className="list-none">Chức năng: [Had they given the signal] - [Trạng Câu][Adverb Clause] đang đứng vị trí độc lập ở đầu câu để thiết lập bối cảnh giả định, bổ nghĩa điều kiện cho toàn bộ sự việc phía sau.</li>
 			
@@ -405,11 +405,11 @@ export default function SuperWords1(): React.JSX.Element {
 
 					<li>Phân tích Hình thái:</li>
 					<li className="list-none">[Explaining {'{why she chose this method}'}] – [Tiếp Tầng Động Cụm][Progressive Tiered Verb Phrase] tầng ngoài, bắt đầu bằng [Tiếp Động Cơ][Progressive Verb Base] dạng đuôi -ing [Explaining].</li>
-					<li className="margin-bottom-20 list-none">{'{why she chose this method}'} – [Động Câu][Verb Clause] tầng trong, thể hiện một cấu trúc câu con hoàn chỉnh được kết nối bởi [Liên Cơ] "why".</li>
+					<li className="margin-bottom-20 list-none">{'{why she chose this method}'} – [Hiển-Liên Động Câu][Connector Verb Clause] tầng trong, thể hiện một cấu trúc câu con hoàn chỉnh được kết nối bởi [Liên Cơ] "why".</li>
 			
 					<li>Phân tích Chức năng:</li>
-					<li className="list-none">{'{why she chose this method}'} – [Danh Câu][Noun Clause] tầng trong, đang đứng vị trí Danh Nhận để chịu tác động và làm rõ nghĩa cho hành động giải thích.</li>
-					<li className="list-none">[Explaining {'{why she chose this method}'}] – [<strong>Danh Cụm</strong>][<strong>Noun Phrase</strong>] tầng ngoài, đóng vai trò làm Danh Chủ đứng ở đầu câu để làm chủ thể cho toàn bộ câu lớn.</li>
+					<li className="list-none">{'{why she chose this method}'} – [Danh Câu][Noun Clause] tầng trong, đang đứng vị trí [Danh Nhận] để chịu tác động và làm rõ nghĩa cho hành động giải thích.</li>
+					<li className="list-none">[Explaining {'{why she chose this method}'}] – [<strong>Danh Cụm</strong>][<strong>Noun Phrase</strong>] tầng ngoài, đóng vai trò làm [Danh Chủ] đứng ở đầu câu để làm chủ thể cho toàn bộ câu lớn.</li>
 			
 				</ul>
 
@@ -426,8 +426,8 @@ export default function SuperWords1(): React.JSX.Element {
 					<li className="margin-bottom-20 list-none">{'{which they filmed the movie}'} - [Hiển-Liên Động Câu][Connector Verb Clause] thể hiện một cấu trúc câu con tầng trong chứa một câu phụ hoàn chỉnh có Thời-Thuần Động Cơ [filmed].</li>
 			
 					<li>Phân tích Chức năng:</li>
-					<li className="list-none">{'{which they filmed the movie}'} - [Danh Câu][Noun Clause] đang đứng vị trí làm Danh Nhận chịu sự điều phối trực tiếp của [Giới Cơ] "in".</li>
-					<li className="list-none">[in {'{which they filmed the movie}'}] - [<strong>Tính Cụm</strong>][<strong>Adjective Phrase</strong>] đang đứng vị trí ngay sau để bổ nghĩa và định danh đặc điểm không gian cho Danh Chủ "The studio".</li>
+					<li className="list-none">{'{which they filmed the movie}'} - [Danh Câu][Noun Clause] đang đứng vị trí làm [Danh Nhận] chịu sự điều phối trực tiếp của [Giới Cơ] "in".</li>
+					<li className="list-none">[in {'{which they filmed the movie}'}] - [<strong>Tính Cụm</strong>][<strong>Adjective Phrase</strong>] đang đứng vị trí ngay sau để bổ nghĩa và định danh đặc điểm không gian cho [Danh Chủ] "The studio".</li>
 			
 				</ul>
 			
@@ -445,7 +445,7 @@ export default function SuperWords1(): React.JSX.Element {
 					<li className="margin-bottom-20 list-none">{'{what he practiced every evening}'} - [Hiển-Liên Động Câu][Connector Verb Clause] thể hiện một cấu trúc câu con tầng trong chứa câu phụ hoàn chỉnh có hành động riêng.</li>
 			
 					<li>Phân tích Chức năng:</li>
-					<li className="list-none">{'{what he practiced every evening}'} - [Danh Câu][Noun Clause] đang đứng vị trí làm Danh Nhận tiếp nhận mối quan hệ phương tiện từ [Giới Cơ] "by".</li>
+					<li className="list-none">{'{what he practiced every evening}'} - [Danh Câu][Noun Clause] đang đứng vị trí làm [Danh Nhận] tiếp nhận mối quan hệ phương tiện từ [Giới Cơ] "by".</li>
 					<li className="list-none">[by {'{what he practiced every evening}'}] - [<strong>Trạng Cụm</strong>][<strong>Adverb Phrase</strong>] đang đứng vị trí sau để làm rõ cách thức/phương thức bổ nghĩa cho hành động tiến bộ của câu lớn.</li>
 			
 				</ul>

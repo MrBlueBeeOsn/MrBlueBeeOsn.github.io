@@ -164,7 +164,7 @@ export default function AdjPlacement2(): React.JSX.Element {
 					<li className="margin-bottom-20 list-none">– [Động Cụm][Verb Phrase]</li>
 			
 					<li>[that she smiled], [why they had left]</li>
-					<li className="list-none">– [Động Câu][Verb Clause]</li>
+					<li className="list-none">– [Hiển-Liên Động Câu][Connector Verb Clause]</li>
 			
 				</ul>
 			
@@ -242,7 +242,7 @@ export default function AdjPlacement2(): React.JSX.Element {
 			
 					<li className="list-none">Hình thái: [Running] – [Động Cơ][Verb Base] ở dạng -ing.</li>
 			
-					<li className="list-none">Chức năng: [Running] – [Danh Cơ][Noun Base] đóng vai trò Danh Chủ (thành phần đứng đầu câu, chỉ đối tượng chính của toàn bộ ý).</li>
+					<li className="list-none">Chức năng: [Running] – [Danh Cơ][Noun Base] đóng vai trò [Danh Chủ] (thành phần đứng đầu câu, chỉ đối tượng chính của toàn bộ ý).</li>
 			
 				</ul>
 			
@@ -256,7 +256,7 @@ export default function AdjPlacement2(): React.JSX.Element {
 			
 					<li className="list-none">Hình thái: [to paint landscapes] – [Động Cụm][Verb Phrase] gồm [Động Cơ] to paint và thành phần đi kèm landscapes.</li>
 			
-					<li className="list-none">Chức năng: [to paint landscapes] – [Danh Cụm][Noun Phrase] đóng vai trò Danh Nhận (thành phần chịu tác động từ hành động loves).</li>
+					<li className="list-none">Chức năng: [to paint landscapes] – [Danh Cụm][Noun Phrase] đóng vai trò [Danh Nhận] (thành phần chịu tác động từ hành động loves).</li>
 			
 				</ul>
 			
@@ -268,9 +268,9 @@ export default function AdjPlacement2(): React.JSX.Element {
 					<li>I remember [______].</li>
 					<li className="margin-bottom-20 list-none">Tôi nhớ [những gì bạn thì thầm hôm qua].</li>
 			
-					<li className="list-none">Hình thái: [what you whispered yesterday] – [Động Câu][Verb Clause] bên trong có cặp you + whispered.</li>
+					<li className="list-none">Hình thái: [what you whispered yesterday] – [Hiển-Liên Động Câu][Connector Verb Clause] bên trong có cặp you + whispered.</li>
 			
-					<li className="list-none">Chức năng: [what you whispered yesterday] – [Danh Câu][Noun Clause] đóng vai trò Danh Nhận (thành phần tiếp nhận hành động remember).</li>
+					<li className="list-none">Chức năng: [what you whispered yesterday] – [Danh Câu][Noun Clause] đóng vai trò [Danh Nhận] (thành phần tiếp nhận hành động remember).</li>
 			
 				</ul>
 			
@@ -285,9 +285,9 @@ export default function AdjPlacement2(): React.JSX.Element {
 					<li>He [______].</li>
 					<li className="margin-bottom-20 list-none">Anh ấy [biết {'{nơi cô ấy giấu chìa khóa}'}].</li>
 			
-					<li className="list-none">Hình thái tầng trong: {'{where she hides the key}'} – [Động Câu][Verb Clause] → chức năng [Danh Câu][Noun Clause].</li>
+					<li className="list-none">Hình thái tầng trong: {'{where she hides the key}'} – [Hiển-Liên Động Câu][Connector Verb Clause] → chức năng [Danh Câu][Noun Clause].</li>
 			
-					<li className="list-none">Hình thái tầng ngoài: [knows {'{…}'}] – [Động Cụm][Verb Phrase] → chức năng [Danh Cụm] phân tầng [Tiered Noun Phrase] đóng vai trò Danh Nhận (thành phần tiếp nhận hành động của He).</li>
+					<li className="list-none">Hình thái tầng ngoài: [knows {'{…}'}] – [Động Cụm][Verb Phrase] → chức năng [Danh Cụm] phân tầng [Tiered Noun Phrase] đóng vai trò [Danh Nhận] (thành phần tiếp nhận hành động của He).</li>
 			
 				</ul>
 			
@@ -331,7 +331,7 @@ export default function AdjPlacement2(): React.JSX.Element {
 					<li>The laptop [______] is already broken.</li>
 					<li className="margin-bottom-20 list-none">Chiếc laptop [tôi mua hôm qua] đã hỏng rồi.</li>
 			
-					<li className="list-none">Hình thái: [which I bought yesterday] – [Động Câu][Verb Clause] bên trong có cặp I + bought.</li>
+					<li className="list-none">Hình thái: [which I bought yesterday] – [Hiển-Liên Động Câu][Connector Verb Clause] bên trong có cặp I + bought.</li>
 			
 					<li className="list-none">Chức năng: [which I bought yesterday] – [Tính Câu][Adjective Clause] bổ nghĩa cho laptop, xác định chiếc nào.</li>
 			
@@ -377,7 +377,7 @@ export default function AdjPlacement2(): React.JSX.Element {
 					<li>We stayed indoors [______].</li>
 					<li className="margin-bottom-20 list-none">Chúng tôi ở trong nhà [vì trời mưa to].</li>
 			
-					<li className="list-none">Hình thái: [because it was raining heavily] – [Động Câu][Verb Clause] bên trong có cặp it + was raining.</li>
+					<li className="list-none">Hình thái: [because it was raining heavily] – [Hiển-Liên Động Câu][Connector Verb Clause] bên trong có cặp it + was raining.</li>
 			
 					<li className="list-none">Chức năng: [because it was raining heavily] – [Trạng Câu][Adverb Clause] chỉ nguyên nhân, bổ nghĩa cho hành động stayed.</li>
 			
@@ -503,7 +503,7 @@ export default function AdjPlacement2(): React.JSX.Element {
 					<li>The laptop [<strong>which</strong> (<strong>O</strong>) <strong>I</strong> (<strong>S</strong>) <strong>bought</strong> (<strong>V</strong>)] is expensive.</li>
 					<li className="margin-bottom-20 list-none">Chiếc laptop [<strong>cái mà</strong> (<strong>O</strong>) <strong>tôi</strong> (<strong>S</strong>) <strong>đã mua</strong> (<strong>V</strong>)] thì mắc.</li>
 			
-					<li className="list-none">Hình thái: [which I bought] – [Động Câu][Verb Clause] bên trong có cấu trúc O + S + V.</li>
+					<li className="list-none">Hình thái: [which I bought] – [Hiển-Liên Động Câu][Connector Verb Clause] bên trong có cấu trúc O + S + V.</li>
 			
 					<li className="list-none">Chức năng: [which I bought] – [Tính Câu][Adjective Clause] bổ nghĩa cho The laptop.</li>
 			
@@ -517,7 +517,7 @@ export default function AdjPlacement2(): React.JSX.Element {
 					<li>The book [<strong>that</strong> (<strong>O</strong>) <strong>she</strong> (<strong>S</strong>) <strong>recommended</strong> (<strong>V</strong>)] was fascinating.</li>
 					<li className="margin-bottom-20 list-none">Cuốn sách [<strong>mà</strong> (<strong>O</strong>) <strong>cô ấy</strong> (<strong>S</strong>) <strong>giới thiệu</strong> (<strong>V</strong>)] rất hấp dẫn.</li>
 			
-					<li className="list-none">Hình thái: [that she recommended] – [Động Câu][Verb Clause] bên trong có cấu trúc O + S + V.</li>
+					<li className="list-none">Hình thái: [that she recommended] – [Hiển-Liên Động Câu][Connector Verb Clause] bên trong có cấu trúc O + S + V.</li>
 			
 					<li className="list-none">Chức năng: [that she recommended] – [Tính Câu][Adjective Clause] bổ nghĩa cho The book.</li>
 			
@@ -531,7 +531,7 @@ export default function AdjPlacement2(): React.JSX.Element {
 					<li>The musician [<strong>who</strong> (<strong>O</strong>) <strong>we</strong> (<strong>S</strong>) <strong>admired</strong> (<strong>V</strong>)] has won an award.</li>
 					<li className="margin-bottom-20 list-none">Người nhạc sĩ [<strong>người mà</strong> (<strong>O</strong>) <strong>chúng tôi</strong> (<strong>S</strong>) <strong>ngưỡng mộ</strong> (<strong>V</strong>)] đã giành được giải thưởng.</li>
 			
-					<li className="list-none">Hình thái: [who we admired] – [Động Câu][Verb Clause] bên trong có cấu trúc O + S + V.</li>
+					<li className="list-none">Hình thái: [who we admired] – [Hiển-Liên Động Câu][Connector Verb Clause] bên trong có cấu trúc O + S + V.</li>
 			
 					<li className="list-none">Chức năng: [who we admired] – [Tính Câu][Adjective Clause] bổ nghĩa cho The musician.</li>
 			
@@ -554,7 +554,7 @@ export default function AdjPlacement2(): React.JSX.Element {
 					<li>The laptop [<strong>I</strong> (<strong>S</strong>) <strong>bought</strong> (<strong>V</strong>)] is expensive.</li>
 					<li className="margin-bottom-20 list-none">Chiếc laptop [<strong>tôi</strong> (<strong>S</strong>) <strong>đã mua</strong> (<strong>V</strong>)] thì mắc.</li>
 			
-					<li className="list-none">Hình thái: [I bought] – [Động Câu][Verb Clause] dạng rút gọn (không có O).</li>
+					<li className="list-none">Hình thái: [I bought] – [Ẩn-Liên Động Câu][Zero-Connector Verb Clause] dạng rút gọn (không có O).</li>
 			
 					<li className="list-none">Chức năng: [I bought] – [Tính Câu][Adjective Clause] bổ nghĩa cho The laptop.</li>
 			
@@ -568,7 +568,7 @@ export default function AdjPlacement2(): React.JSX.Element {
 					<li>The cake [<strong>you</strong> (<strong>S</strong>) <strong>baked</strong> (<strong>V</strong>)] tastes amazing.</li>
 					<li className="margin-bottom-20 list-none">Chiếc bánh [<strong>bạn</strong> (<strong>S</strong>) <strong>đã nướng</strong> (<strong>V</strong>)] vị tuyệt vời.</li>
 			
-					<li className="list-none">Hình thái: [you baked] – [Động Câu][Verb Clause] dạng rút gọn.</li>
+					<li className="list-none">Hình thái: [you baked] – [Ẩn-Liên Động Câu][Zero-Connector Verb Clause] dạng rút gọn.</li>
 			
 					<li className="list-none">Chức năng: [you baked] – [Tính Câu][Adjective Clause] bổ nghĩa cho The cake.</li>
 			
@@ -582,7 +582,7 @@ export default function AdjPlacement2(): React.JSX.Element {
 					<li>The song [<strong>we</strong> (<strong>S</strong>) <strong>heard</strong> (<strong>V</strong>] is stuck in my head.</li>
 					<li className="margin-bottom-20 list-none">Bài hát [<strong>chúng tôi</strong> (<strong>S</strong>) <strong>đã nghe</strong> (<strong>V</strong>)] cứ văng vẳng trong đầu tôi.</li>
 			
-					<li className="list-none">Hình thái: [we heard] – [Động Câu][Verb Clause] dạng rút gọn.</li>
+					<li className="list-none">Hình thái: [we heard] – [Ẩn-Liên Động Câu][Zero-Connector Verb Clause] dạng rút gọn.</li>
 			
 					<li className="list-none">Chức năng: [we heard] – [Tính Câu][Adjective Clause] bổ nghĩa cho The song.</li>
 			
@@ -612,7 +612,7 @@ export default function AdjPlacement2(): React.JSX.Element {
 			
 					<li>The teacher [<strong>who explains slowly</strong>] is very patient.</li>
 					<li className="margin-bottom-20 list-none">Người giáo viên [<strong>giảng chậm</strong>] thì rất kiên nhẫn.</li>
-					<li className="list-none">Hình thái: [who explains slowly] – [Động Câu][Verb Clause] bên trong có cặp who + explains.</li>
+					<li className="list-none">Hình thái: [who explains slowly] – [Hiển-Liên Động Câu][Connector Verb Clause] bên trong có cặp who + explains.</li>
 					<li className="margin-bottom-20 list-none">Chức năng: [who explains slowly] – [Tính Câu][Adjective Clause] bổ nghĩa cho The teacher, chỉ đặc điểm của giáo viên.</li>
 			
 					<li>The teacher [<strong>explaining slowly</strong>] is very patient.</li>
@@ -634,7 +634,7 @@ export default function AdjPlacement2(): React.JSX.Element {
 					<li className="margin-bottom-20 list-none">Chức năng: [đội mũ đen] – [Tính Cụm][Adjective Phrase] bổ nghĩa cho Người đàn ông, chỉ đặc điểm nhận dạng.</li>
 			
 					<li>Cuốn sách [<strong>tôi đọc dở dang</strong>] vẫn nằm trên bàn.</li>
-					<li className="list-none">Hình thái: [tôi đọc dở dang] – [Động Câu][Verb Clause] bên trong có cặp tôi + đọc.</li>
+					<li className="list-none">Hình thái: [tôi đọc dở dang] – [Ẩn-Liên Động Câu][Zero-Connector Verb Clause] bên trong có cặp tôi + đọc.</li>
 					<li className="margin-bottom-20 list-none">Chức năng: [tôi đọc dở dang] – [Tính Câu][Adjective Clause] bổ nghĩa cho Cuốn sách, xác định cuốn sách nào.</li>
 			
 					<li>Cô gái [<strong>đang hát kia</strong>] là ca sĩ nổi tiếng.</li>
@@ -728,7 +728,7 @@ export default function AdjPlacement2(): React.JSX.Element {
 					<li>[______] is exciting.</li>
 					<li className="margin-bottom-20 list-none">[Học tập] thì thú vị.</li>
 			
-					<li className="list-none">[Learning] – [Động Cơ][Verb Base] → [Danh Cơ][Noun Base] đóng vai trò Danh Chủ (thành phần đứng đầu câu).</li>
+					<li className="list-none">[Learning] – [Động Cơ][Verb Base] → [Danh Cơ][Noun Base] đóng vai trò [Danh Chủ] (thành phần đứng đầu câu).</li>
 			
 				</ul>
 
@@ -753,7 +753,7 @@ export default function AdjPlacement2(): React.JSX.Element {
 					<li>[______] is exciting.</li>
 					<li className="margin-bottom-20 list-none">[Những gì bạn làm trước bữa sáng] thì thú vị.</li>
 			
-					<li className="list-none">[What you do before breakfast] – [Động Câu][Verb Clause] → [Danh Câu][Noun Clause] – vẫn đóng vai trò Danh Chủ.</li>
+					<li className="list-none">[What you do before breakfast] – [Hiển-Liên Động Câu][Connector Verb Clause] → [Danh Câu][Noun Clause] – vẫn đóng vai trò Danh Chủ.</li>
 			
 				</ul>
 			
@@ -770,7 +770,7 @@ export default function AdjPlacement2(): React.JSX.Element {
 					<li>The man [______] is a doctor.</li>
 					<li className="margin-bottom-20 list-none">Người đàn ông [sống cạnh nhà] là bác sĩ.</li>
 			
-					<li className="list-none">[who lives next door] – [Động Câu][Verb Clause] → [Tính Câu][Adjective Clause] – bổ nghĩa cho The man.</li>
+					<li className="list-none">[who lives next door] – [Hiển-Liên Động Câu][Connector Verb Clause] → [Tính Câu][Adjective Clause] – bổ nghĩa cho The man.</li>
 			
 				</ul>
 			
@@ -811,7 +811,7 @@ export default function AdjPlacement2(): React.JSX.Element {
 					<li>He succeeded [______].</li>
 					<li className="margin-bottom-20 list-none">Anh ấy thành công [vì anh ấy làm việc chăm chỉ].</li>
 			
-					<li className="list-none">[because he worked hard] – [Động Câu][Verb Clause] → [Trạng Câu][Adverb Clause] chỉ nguyên nhân.</li>
+					<li className="list-none">[because he worked hard] – [Hiển-Liên Động Câu][Connector Verb Clause] → [Trạng Câu][Adverb Clause] chỉ nguyên nhân.</li>
 			
 				</ul>
 			
@@ -856,7 +856,7 @@ export default function AdjPlacement2(): React.JSX.Element {
 					<li>The teacher [______] is very patient.</li>
 					<li className="margin-bottom-20 list-none">Người giáo viên [giảng chậm] thì rất kiên nhẫn.</li>
 			
-					<li className="list-none">[who explains slowly] – [Động Câu][Verb Clause] → [Tính Câu][Adjective Clause].</li>
+					<li className="list-none">[who explains slowly] – [Hiển-Liên Động Câu][Connector Verb Clause] → [Tính Câu][Adjective Clause].</li>
 			
 				</ul>
 			

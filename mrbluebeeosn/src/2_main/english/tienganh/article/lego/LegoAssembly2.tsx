@@ -116,7 +116,7 @@ export default function LegoAssembly2(): React.JSX.Element {
 					<li>I remember [what you told me].</li>
 					<li className="margin-bottom-20 list-none">Tôi nhớ [những gì bạn đã nói với tôi].</li>
 			
-					<li className="list-none">Hình thái: [what you told me] – [Động Câu][Verb Clause] có you làm trung tâm và [Động Cơ] told</li>
+					<li className="list-none">Hình thái: [what you told me] – [Hiển-Liên Động Câu][Connector Verb Clause] có you làm trung tâm và [Động Cơ] told</li>
 			
 					<li className="list-none">Chức năng: [what you told me] – [Danh Câu][Noun Clause] làm phần được remember tác động đến</li>
 			
@@ -163,7 +163,7 @@ export default function LegoAssembly2(): React.JSX.Element {
 					<li>The laptop [that I bought yesterday] is already broken.</li>
 					<li className="margin-bottom-20 list-none">Chiếc máy tính [mà tôi đã mua hôm qua] thì đã hỏng.</li>
 			
-					<li className="list-none">Hình thái: [that I bought yesterday] – [Động Câu][Verb Clause] có I và [Động Cơ] bought</li>
+					<li className="list-none">Hình thái: [that I bought yesterday] – [Hiển-Liên Động Câu][Connector Verb Clause] có I và [Động Cơ] bought</li>
 			
 					<li className="list-none">Chức năng: [that I bought yesterday] – [Tính Câu][Adjective Clause] bổ sung thông tin cho [Danh Cơ] The laptop</li>
 			
@@ -212,7 +212,7 @@ export default function LegoAssembly2(): React.JSX.Element {
 					<li>I will stay home [because it is raining].</li>
 					<li className="margin-bottom-20 list-none">Tôi sẽ ở nhà [bởi vì trời đang mưa].</li>
 			
-					<li className="list-none">Hình thái: [because it is raining] – [Động Câu][Verb Clause] có it và [Động Cơ] is raining</li>
+					<li className="list-none">Hình thái: [because it is raining] – [Hiển-Liên Động Câu][Connector Verb Clause] có it và [Động Cơ] is raining</li>
 			
 					<li className="list-none">Chức năng: [because it is raining] – [Trạng Câu][Adverb Clause] giải thích nguyên nhân cho hành động will stay home</li>
 			
@@ -233,7 +233,7 @@ export default function LegoAssembly2(): React.JSX.Element {
 					<li className="margin-bottom-20 list-none">Anh ấy [đã quên {'{rằng cô ấy cần tài liệu}'}].</li>
 			
 					<li className="list-none">Hình thái tổng thể: [forgot {'{that she needed the document}'}] – [Động Cụm][Verb Phrase] tầng ngoài [Động Cơ] forgot</li>
-					<li className="margin-bottom-20 list-none">Hình thái bên trong: {'{that she needed the document}'} – [Động Câu][Verb Clause] tầng trong</li>
+					<li className="margin-bottom-20 list-none">Hình thái bên trong: {'{that she needed the document}'} – [Hiển-Liên Động Câu][Connector Verb Clause][Động Câu][Verb Clause] tầng trong</li>
 
 					<li className="list-none">Chức năng của khối trong: {'{that she needed the document}'} – [Danh Câu][Noun Clause]</li>
 					<li className="list-none">Chức năng của khối ngoài: [forgot {'{that she needed the document}'}] – [Danh Cụm][Noun Phrase] toàn bộ là khối mở rộng sau He</li>
@@ -270,7 +270,7 @@ export default function LegoAssembly2(): React.JSX.Element {
 					<li>She wants [______].</li>
 					<li className="margin-bottom-20 list-none">Cô ấy muốn [rằng cô ấy có thể nói tiếng Anh tốt].</li>
 			
-					<li className="list-none">[that she can speak English well] – [Động Câu][Verb Clause] → chức năng [Danh Câu][Noun Clause]</li>
+					<li className="list-none">[that she can speak English well] – [Hiển-Liên Động Câu][Connector Verb Clause] → chức năng [Danh Câu][Noun Clause]</li>
 			
 				</ul>
 			
@@ -300,7 +300,7 @@ export default function LegoAssembly2(): React.JSX.Element {
 					<li>The girl [______] is my friend.</li>
 					<li className="margin-bottom-20 list-none">Cô gái [người mà đang ngồi trên ghế dài] là bạn tôi.</li>
 			
-					<li className="list-none">[who is sitting on the bench] – [Động Câu][Verb Clause] → chức năng [Tính Câu][Adjective Clause]</li>
+					<li className="list-none">[who is sitting on the bench] – [Hiển-Liên Động Câu][Connector Verb Clause] → chức năng [Tính Câu][Adjective Clause]</li>
 			
 				</ul>
 			
@@ -327,7 +327,7 @@ export default function LegoAssembly2(): React.JSX.Element {
 					<li>He works hard [______].</li>
 					<li className="margin-bottom-20 list-none">Anh ấy làm việc chăm chỉ [để mà anh ấy có thể kiếm thêm tiền].</li>
 			
-					<li className="list-none">[so that he can earn more money] – [Động Câu][Verb Clause] → chức năng [Trạng Câu][Adverb Clause]</li>
+					<li className="list-none">[so that he can earn more money] – [Hiển-Liên Động Câu][Connector Verb Clause] → chức năng [Trạng Câu][Adverb Clause]</li>
 			
 				</ul>
 

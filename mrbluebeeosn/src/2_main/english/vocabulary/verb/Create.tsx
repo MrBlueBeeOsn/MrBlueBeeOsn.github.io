@@ -420,7 +420,7 @@ export default function Create(): React.JSX.Element {
       <p className="margin-top-20 text-indent-whole">Dựa trên sự xuất hiện của mã kết nối, [Động Câu] được chia làm 2 phân hệ:</p>
 
           
-      <h5 className="margin-y-30 text-indent-whole">4.1 Phân hệ [Động Câu] Hiển Liên [Connector Verb Clause]</h5>
+      <h5 className="margin-y-30 text-indent-whole">4.1 Phân hệ [Hiển-Liên Động Câu][Connector Verb Clause]</h5>
 
       <p className="margin-top-20 text-indent-whole">Phân hệ này sử dụng các mã kết nối (Liên Cơ hoặc mã định vị) xuất hiện trực tiếp ở đầu hệ con để làm điểm tựa liên kết dữ liệu.</p>
 

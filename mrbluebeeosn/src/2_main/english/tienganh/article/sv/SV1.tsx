@@ -181,7 +181,7 @@ export default function SV1(): React.JSX.Element {
 			
 					<li className="list-none">Hình thái: [Reading] - [Tiếp Động Cơ][Progressive Verb Base] đóng vai trò hạt nhân hành động đơn lẻ.</li>
 			
-					<li className="margin-bottom-20 list-none">Chức năng: [Reading] - [Danh Cơ][Noun Base] đứng ở đầu câu tạo nên Danh Chủ cho toàn câu.</li>
+					<li className="margin-bottom-20 list-none">Chức năng: [Reading] - [Danh Cơ][Noun Base] đứng ở đầu câu tạo nên [Danh Chủ] cho toàn câu.</li>
 			
 				</ul>
 			
@@ -222,7 +222,7 @@ export default function SV1(): React.JSX.Element {
 			
 					<li className="list-none">Hình thái: [to finish the report] - [Hạt Thuần Động Cụm][Particle Bare Verb Phrase] cấu thành khối hành động chứa nhiều yếu tố kết hợp và không chứa hệ trục S + V.</li>
 			
-					<li className="margin-bottom-20 list-none">Chức năng: [to finish the report] - [Danh Cụm][Noun Phrase] đứng sau một [Thời-Thuần Động Cơ][Tense-Bare Verb Base] promised để làm Danh Nhận thực thi.</li>
+					<li className="margin-bottom-20 list-none">Chức năng: [to finish the report] - [Danh Cụm][Noun Phrase] đứng sau một [Thời-Thuần Động Cơ][Tense-Bare Verb Base] promised để làm [Danh Nhận] thực thi.</li>
 			
 				</ul>
 			
@@ -281,7 +281,7 @@ export default function SV1(): React.JSX.Element {
 			
 			
 
-			<h4 className="margin-y-40">4. Hình thái [Động Câu][Verb Clause]</h4>
+			<h4 className="margin-y-40">4. Hình thái [Hiển-Liên Động Câu][Connector Verb Clause]</h4>
 
 			<p className="text-indent-whole">Đơn vị hành động phức cao cấp, chứa một cấu trúc Câu con [Clause] hoàn chỉnh ở bên trong có chứa hệ trục S + V.</p>
 			
@@ -292,7 +292,7 @@ export default function SV1(): React.JSX.Element {
 			
 					<li className="list-none">Hình thái: [that water boils at 100 degrees] - [Hiển-Liên Động Câu][Connector Verb Clause] tạo nên khối hành động phức có chứa hệ trục S + V, bắt đầu bằng [Liên Cơ][Connector Base] "that".</li>
 			
-					<li className="margin-bottom-20 list-none">Chức năng: [that water boils at 100 degrees] - [Danh Câu][Noun Clause] đảm nhận nhiệm vụ của một khối đối tượng đứng sau bổ nghĩa thông tin làm Danh Nhận dưới sự điều phối của [Thời-Thuần Động Cơ][Tense-Bare Verb Base] knows.</li>
+					<li className="margin-bottom-20 list-none">Chức năng: [that water boils at 100 degrees] - [Danh Câu][Noun Clause] đảm nhận nhiệm vụ của một khối đối tượng đứng sau bổ nghĩa thông tin làm [Danh Nhận] dưới sự điều phối của [Thời-Thuần Động Cơ][Tense-Bare Verb Base] knows.</li>
 			
 				</ul>
 
@@ -328,7 +328,7 @@ export default function SV1(): React.JSX.Element {
 
 			<p>Trong tiếng Anh tự nhiên, người bản ngữ rất thường xuyên lược bỏ hoàn toàn thành phần kết nối như [Liên Cơ][Connector Base].</p>
 
-			<p>Lúc này, [Động Câu][Verb Clause] hoàn toàn không chứa thành phần liên kết bề nổi, hiển thị cấu hình giống hệt như một Câu con [Clause] độc lập nhưng thực chất không thể đứng một mình mà phải neo chặt vào hệ thống để làm tròn 3 chức năng:</p>
+			<p>Lúc này, [Ẩn-Liên Động Câu][Zero-Connector Verb Clause] hoàn toàn không chứa thành phần liên kết bề nổi, hiển thị cấu hình giống hệt như một Câu con [Clause] độc lập nhưng thực chất không thể đứng một mình mà phải neo chặt vào hệ thống để làm tròn 3 chức năng:</p>
 
 
 			<h4 className="margin-y-40">A. [Danh Nhận][Noun Object]</h4>
@@ -340,7 +340,7 @@ export default function SV1(): React.JSX.Element {
 			
 					<li className="list-none">Hình thái: [you will pass the exam] - [Ẩn-Liên Động Câu][Zero-Connector Verb Clause] đã ẩn mất [Liên Cơ][Connector Base] bề nổi, hiển thị cấu hình như một Câu con [Clause] độc lập.</li>
 			
-					<li className="list-none">Chức năng: [you will pass the exam] - [Danh Câu][Noun Clause] đứng sau [Động Cơ] believe đón nhận hành động như một Danh Nhận thực thi.</li>
+					<li className="list-none">Chức năng: [you will pass the exam] - [Danh Câu][Noun Clause] đứng sau [Động Cơ] believe đón nhận hành động như một [Danh Nhận] thực thi.</li>
 			
 				</ul>
 			
@@ -402,7 +402,7 @@ export default function SV1(): React.JSX.Element {
 
 					<li className="list-none">Hình thái tổng thể bao ngoài []: [Finding {'{the key <to the room>}'}] là một [Tiếp Tầng Động Cụm][Progressive Tiered Verb Phrase] bắt đầu bằng [Động Cơ] dạng V-ing.</li>
 
-					<li className="list-none">Chức năng tổng thể bao ngoài []: [Finding {'{the key <to the room>}'}] vận hành đồng bộ như một khối [<strong>Danh Cụm</strong>][<strong>Noun Phrase</strong>] lớn giữ vai trò làm Danh Chủ điều phối hệ trục thông tin hành động cho toàn câu.</li>
+					<li className="list-none">Chức năng tổng thể bao ngoài []: [Finding {'{the key <to the room>}'}] vận hành đồng bộ như một khối [<strong>Danh Cụm</strong>][<strong>Noun Phrase</strong>] lớn giữ vai trò làm [Danh Chủ] điều phối hệ trục thông tin hành động cho toàn câu.</li>
 			
 				</ul>
 			
@@ -417,9 +417,9 @@ export default function SV1(): React.JSX.Element {
 
 			<h4 className="margin-y-40">1. [Danh Nhận][Noun Object]</h4>
 
-			<p className="text-indent-whole">Khối [Danh Nhận] lớn đóng vai trò làm Danh Chủ hoặc Danh Nhận, nhưng bên trong nó lại chứa một khối chức năng phụ trợ lồng ghép để làm rõ thông tin.</p>
+			<p className="text-indent-whole">Khối [Danh Nhận] lớn đóng vai trò làm [Danh Chủ] hoặc Danh Nhận, nhưng bên trong nó lại chứa một khối chức năng phụ trợ lồng ghép để làm rõ thông tin.</p>
 
-			<p className="text-indent-whole">Áp dụng mẫu cấu trúc Danh Nhận phân tầng: S + Thời-Thuần Động Cơ + [V-ing {'{Động Câu}'}]</p>
+			<p className="text-indent-whole">Áp dụng mẫu cấu trúc [Danh Nhận] phân tầng: S + Thời-Thuần Động Cơ + [V-ing {'{Động Câu}'}]</p>
 			
 				<ul className="list-square">
 			
@@ -428,15 +428,15 @@ export default function SV1(): React.JSX.Element {
 
 					<li>Phân tích Hình thái:</li>
 
-					<li className="list-none">Khối lồng bên trong {'{what they had discovered}'} là một [Động Câu][Verb Clause] vì chứa đầy đủ hệ trục S + V (they had discovered), bắt đầu bằng [Liên Cơ][Connector Base] what.</li>
+					<li className="list-none">Khối lồng bên trong {'{what they had discovered}'} là một [Hiển-Liên Động Câu][Connector Verb Clause] vì chứa đầy đủ hệ trục S + V (they had discovered), bắt đầu bằng [Liên Cơ][Connector Base] what.</li>
 
 					<li className="margin-bottom-20 list-none">Khối tổng thể bao ngoài [discussing {'{what they had discovered}'}] là một khối [Tiếp Tầng Động Cụm][Progressive Tiered Verb Phrase] bắt đầu bằng hình thái hành động thực thi dạng V-ing discussing.</li>
 			
 					<li>Phân tích Chức năng:</li>
 
-					<li className="list-none">Lớp trong: Khối {'{what they had discovered}'} đóng vai trò là một [Danh Câu][Noun Clause], neo ngay sau hành động discussing để làm Danh Nhận (đối tượng bị thảo luận) cho hành động đó.</li>
+					<li className="list-none">Lớp trong: Khối {'{what they had discovered}'} đóng vai trò là một [Danh Câu][Noun Clause], neo ngay sau hành động discussing để làm [Danh Nhận] (đối tượng bị thảo luận) cho hành động đó.</li>
 
-					<li className="list-none">Lớp ngoài: Toàn bộ khối cấu trúc [discussing {'{what they had discovered}'}] vận hành đồng bộ như một khối [<strong>Danh Cụm</strong>][<strong>Noun Phrase</strong>] lớn, đứng ngay sau Thời-Thuần Động Cơ avoided nhằm làm Danh Nhận thực thi (đón nhận hành động "né tránh") cho Danh Chủ He.</li>
+					<li className="list-none">Lớp ngoài: Toàn bộ khối cấu trúc [discussing {'{what they had discovered}'}] vận hành đồng bộ như một khối [<strong>Danh Cụm</strong>][<strong>Noun Phrase</strong>] lớn, đứng ngay sau Thời-Thuần Động Cơ avoided nhằm làm [Danh Nhận] thực thi (đón nhận hành động "né tránh") cho [Danh Chủ] He.</li>
 			
 				</ul>
 
@@ -453,7 +453,7 @@ export default function SV1(): React.JSX.Element {
 
 					<li>Phân tích Hình thái:</li>
 					<li className="list-none">Khối tổng thể bao ngoài [about {'{how she succeeded}'}] là một [Tầng Giới Cụm][Tiered Prepositional Phrase].</li>
-					<li className="margin-bottom-20 list-none">Khối lồng bên trong {'{how she succeeded}'} là một [Động Câu][Verb Clause] có chứa hệ trục S + V, bắt đầu bằng [Liên Cơ][Connector Base] "how".</li>
+					<li className="margin-bottom-20 list-none">Khối lồng bên trong {'{how she succeeded}'} là một [Hiển-Liên Động Câu][Connector Verb Clause] có chứa hệ trục S + V, bắt đầu bằng [Liên Cơ][Connector Base] "how".</li>
 			
 					<li>Phân tích Chức năng:</li>
 					<li className="list-none">Lớp trong: Khối {'{how she succeeded}'} đóng vai trò là một [Danh Câu][Noun Clause] đứng làm điểm tựa danh nhận chịu sự điều phối của [Giới Cơ] about.</li>
@@ -474,7 +474,7 @@ export default function SV1(): React.JSX.Element {
 
 					<li>Phân tích Hình thái:</li>
 					<li className="list-none">Khối tổng thể bao ngoài [slower {'{than we expected}'}] là một [Trạng Cụm][Adverb Phrase] chỉ cách thức và mức độ.</li>
-					<li className="margin-bottom-20 list-none">Khối lồng bên trong {'{than we expected}'} là một [Động Câu][Verb Clause] có chứa hệ trục S + V (we expected), được bắt đầu và kết nối bằng [Liên Cơ][Connector Base] than.</li>
+					<li className="margin-bottom-20 list-none">Khối lồng bên trong {'{than we expected}'} là một [Hiển-Liên Động Câu][Connector Verb Clause] có chứa hệ trục S + V (we expected), được bắt đầu và kết nối bằng [Liên Cơ][Connector Base] than.</li>
 			
 					<li>Phân tích Chức năng:</li>
 					<li className="list-none">Lớp trong: Khối {'{than we expected}'} đóng vai trò là một [Trạng Câu][Adverb Clause] phụ thuộc, neo vào sau slower để làm rõ mức độ cho cấu trúc so sánh.</li>
@@ -538,7 +538,7 @@ export default function SV1(): React.JSX.Element {
 					<li>We arrived [after the rain stopped].</li>
 					<li className="margin-bottom-20 list-none">Chúng tôi đã đến [sau khi cơn mưa tạnh].</li>
 			
-					<li className="list-none">→ Thay thế bằng một khối [Động Câu][Verb Clause] giữ chức năng [Trạng Câu][Adverb Clause] có chứa hệ trục S + V, liên kết bởi [Liên Cơ][Connector Base] "after".</li>
+					<li className="list-none">→ Thay thế bằng một khối [Hiển-Liên Động Câu][Connector Verb Clause] giữ chức năng [Trạng Câu][Adverb Clause] có chứa hệ trục S + V, liên kết bởi [Liên Cơ][Connector Base] "after".</li>
 			
 				</ul>
 			
@@ -576,7 +576,7 @@ export default function SV1(): React.JSX.Element {
 					<li>[What you know] is power.</li>
 					<li className="margin-bottom-20 list-none">[Những gì bạn biết] tạo nên sức mạnh.</li>
 			
-					<li className="list-none">→ Nâng cấp lên khối [Động Câu][Verb Clause] làm chức năng [Danh Câu][Noun Clause] đóng vai trò Danh Chủ, bắt đầu bằng [Liên Cơ][Connector Base] "What".</li>
+					<li className="list-none">→ Nâng cấp lên khối [Hiển-Liên Động Câu][Connector Verb Clause] làm chức năng [Danh Câu][Noun Clause] đóng vai trò Danh Chủ, bắt đầu bằng [Liên Cơ][Connector Base] "What".</li>
 			
 				</ul>
 			

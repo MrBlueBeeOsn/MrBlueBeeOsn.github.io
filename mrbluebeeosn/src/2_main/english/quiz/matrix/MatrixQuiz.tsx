@@ -118,7 +118,7 @@ export default function MatrixQuiz(): React.JSX.Element {
 				"[Noun Clause]"
 			],
 			correctAnswer: 0,
-			explanation: "Morphology: [suggested {that we postpone the corporate audit}] - [Tầng Động Cụm][Tiered Verb Phrase] containing an outer finite verb \"suggested\" and an embedded finite clause layer \"{that we postpone the corporate audit}\". \n\n Function: [suggested {that we postpone the corporate audit}] - [Danh Cụm] Phân Tầng [Tiered Noun Phrase] acts as the primary nominal predicate block, where the outer layer forms a direct object phrase block, within which sits an embedded finite clause layer \"{that we postpone...}\", which is morphologically an [Động Câu][Verb Clause] functioning as a [Danh Câu][Noun Clause] acting as the direct object of the internal verb \"suggested\"."
+			explanation: "Morphology: [suggested {that we postpone the corporate audit}] - [Tầng Động Cụm][Tiered Verb Phrase] containing an outer finite verb \"suggested\" and an embedded finite clause layer \"{that we postpone the corporate audit}\". \n\n Function: [suggested {that we postpone the corporate audit}] - [Danh Cụm] Phân Tầng [Tiered Noun Phrase] acts as the primary nominal predicate block, where the outer layer forms a direct object phrase block, within which sits an embedded finite clause layer \"{that we postpone...}\", which is morphologically an [Hiển-Liên Động Câu][Connector Verb Clause] functioning as a [Danh Câu][Noun Clause] acting as the direct object of the internal verb \"suggested\"."
 		}
 	];
 
