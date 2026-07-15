@@ -154,7 +154,7 @@ export default function ThreeDC1(): React.ReactElement {
 			<p className="text-indent-whole">Vị trí đứng trong câu sẽ quyết định chức năng của từ hành động này:</p>
 
 
-			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 1</strong>: <strong>Sinh ra Danh Cơ</strong> [<strong>Noun Base</strong>]:</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 1</strong>: <strong>Sinh ra</strong> [<strong>Danh Cơ</strong>][<strong>Noun Base</strong>]:</p>
 			
 				<ul className="list-square">
 			
@@ -168,7 +168,7 @@ export default function ThreeDC1(): React.ReactElement {
 				</ul>
 			
 			
-			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 2</strong>: <strong>Sinh ra Tính Cơ</strong> [<strong>Adjective Base</strong>]:</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 2</strong>: <strong>Sinh ra</strong> [<strong>Tính Cơ</strong>][<strong>Adjective Base</strong>]:</p>
 			
 				<ul className="list-square">
 			
@@ -182,7 +182,7 @@ export default function ThreeDC1(): React.ReactElement {
 				</ul>
 			
 			
-			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 3</strong>: <strong>Sinh ra Trạng Cơ</strong> [<strong>Adverb Base</strong>]:</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 3</strong>: <strong>Sinh ra</strong> [<strong>Trạng Cơ</strong>][<strong>Adverb Base</strong>]:</p>
 			
 				<ul className="list-square">
 			
@@ -204,7 +204,7 @@ export default function ThreeDC1(): React.ReactElement {
 			<p className="text-indent-whole">Khối [Động Cụm] này sẽ đảm nhận các vai trò:</p>
 
 
-			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 1</strong>: <strong>Sinh ra Danh Cụm</strong> [<strong>Noun Phrase</strong>]:</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 1</strong>: <strong>Sinh ra</strong> [<strong>Danh Cụm</strong>][<strong>Noun Phrase</strong>]:</p>
 			
 				<ul className="list-square">
 			
@@ -218,7 +218,7 @@ export default function ThreeDC1(): React.ReactElement {
 				</ul>
 			
 			
-			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 2</strong>: <strong>Sinh ra Tính Cụm</strong> [<strong>Adjective Phrase</strong>]:</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 2</strong>: <strong>Sinh ra</strong> [<strong>Tính Cụm</strong>][<strong>Adjective Phrase</strong>]:</p>
 			
 				<ul className="list-square">
 			
@@ -232,7 +232,7 @@ export default function ThreeDC1(): React.ReactElement {
 				</ul>
 			
 			
-			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 3</strong>: <strong>Sinh ra Trạng Cụm</strong> [<strong>Adverb Phrase</strong>]:</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 3</strong>: <strong>Sinh ra</strong> [<strong>Trạng Cụm</strong>][<strong>Adverb Phrase</strong>]:</p>
 			
 				<ul className="list-square">
 			
@@ -246,13 +246,13 @@ export default function ThreeDC1(): React.ReactElement {
 				</ul>
 
 
-			<h4 className="margin-y-40">3. Hình thái GIỚI CỤM [Prepositional Phrase]</h4>
+			<h4 className="margin-y-40">3. Hình thái [GIỚI CỤM][Prepositional Phrase]</h4>
 
 			<p className="text-indent-whole">Là khối không bắt đầu bằng một từ hành động, mà được định hình bắt đầu bằng một giới cơ chỉ quan hệ không gian, thời gian, đặc điểm kết hợp với một [Danh Nhận] phía sau.</p>
 					
 			<p className="text-indent-whole">Hình thái [Giới Cụm] này chỉ tập trung hình thành nên hai chức năng bổ nghĩa:</p>
 
-			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 1</strong>: <strong>Sinh ra Tính Cụm</strong> [<strong>Adjective Phrase</strong>]:</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 1</strong>: <strong>Sinh ra</strong> [<strong>Tính Cụm</strong>][<strong>Adjective Phrase</strong>]:</p>
 			
 				<ul className="list-square">
 			
@@ -266,7 +266,7 @@ export default function ThreeDC1(): React.ReactElement {
 				</ul>
 			
 			
-			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 2</strong>: <strong>Sinh ra Trạng Cụm</strong> [<strong>Adverb Phrase</strong>]:</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 2</strong>: <strong>Sinh ra</strong> [<strong>Trạng Cụm</strong>][<strong>Adverb Phrase</strong>]:</p>
 			
 				<ul className="list-square">
 			
@@ -286,7 +286,7 @@ export default function ThreeDC1(): React.ReactElement {
 			<p className="text-indent-whole">Là đơn vị hành động mạnh mẽ nhất vì chứa cấu trúc câu con hoàn chỉnh bên trong có [Danh Chủ] và các cấu hình [Động Cơ] riêng biệt:</p>
 
 
-			<p className="text-indent-whole"><strong>Ví dụ 1</strong>: <strong>Sinh ra Danh Câu</strong> [<strong>Noun Clause</strong>]:</p>
+			<p className="text-indent-whole"><strong>Ví dụ 1</strong>: <strong>Sinh ra</strong> [<strong>Danh Câu</strong>][<strong>Noun Clause</strong>]:</p>
 			
 				<ul className="list-square">
 			
@@ -300,7 +300,7 @@ export default function ThreeDC1(): React.ReactElement {
 				</ul>
 			
 			
-			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 2</strong>: <strong>Sinh ra Tính Câu</strong> [<strong>Adjective Clause</strong>]:</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 2</strong>: <strong>Sinh ra</strong> [<strong>Tính Câu</strong>][<strong>Adjective Clause</strong>]:</p>
 			
 				<ul className="list-square">
 			
@@ -314,7 +314,7 @@ export default function ThreeDC1(): React.ReactElement {
 				</ul>
 			
 			
-			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 3</strong>: <strong>Sinh ra Trạng Câu</strong> [<strong>Adverb Clause</strong>]:</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 3</strong>: <strong>Sinh ra</strong> [<strong>Trạng Câu</strong>][<strong>Adverb Clause</strong>]:</p>
 			
 				<ul className="list-square">
 			
