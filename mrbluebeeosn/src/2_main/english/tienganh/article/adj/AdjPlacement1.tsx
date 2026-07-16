@@ -94,7 +94,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 				<ol>
 			
 					<li value="1">[<strong>Động Cơ</strong>][<strong>Verb Base</strong>]: read, make, sing</li>
-					<li className="margin-bottom-20 list-none">Dạng nguyên bản gốc, là gốc rễ cha (Root Class) của mọi hành động khi chưa chịu bất kỳ tác động nào của thời gian hay trạng thái thực thi.</li>
+					<li className="margin-bottom-20 list-none">Dạng nguyên bản [Rễ Cơ][Root Base], là gốc rễ cha (Root Class) của mọi hành động khi chưa chịu bất kỳ tác động nào của thời gian hay trạng thái thực thi.</li>
 			
 					<li value="2">[<strong>Thời Động Cơ</strong>][<strong>Tense Verb Base</strong>]: is, was, has, had, will, have</li>
 					<li className="margin-bottom-20 list-none">Chữ đơn lẻ đóng vai trò xử lý và định vị bối cảnh thời gian (quá khứ, hiện tại, tương lai) cho toàn bộ cấu trúc hành động đứng sau.</li>

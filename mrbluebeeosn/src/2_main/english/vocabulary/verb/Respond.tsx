@@ -64,7 +64,7 @@ export default function Respond(): React.JSX.Element {
         <ol>
       
           <li value="1">[<strong>Động Cơ</strong>][<strong>Verb Base</strong>]: respond</li>
-          <li className="margin-bottom-20 list-none">Là mã hành động nguyên bản gốc (phản hồi, đáp lại), chưa qua xử lý dấu mốc thời gian hay phương thức, đóng vai trò là lõi dữ liệu thô.</li>
+          <li className="margin-bottom-20 list-none">Là mã hành động nguyên bản [Rễ Cơ][Root Base] (phản hồi, đáp lại), chưa qua xử lý dấu mốc thời gian hay phương thức, đóng vai trò là lõi dữ liệu thô.</li>
       
           <li value="2">[<strong>Thời Động Cơ</strong>][<strong>Tense Verb Base</strong>]: is, was, has, had, will</li>
           <li className="margin-bottom-20 list-none">Là đơn vị từ đơn chuyên biệt chịu trách nhiệm kích hoạt bối cảnh thời gian (Hiện tại/Quá khứ) hoặc làm trợ lực thiết lập thể chủ động/bị động, hoàn thành/tiếp diễn.</li>

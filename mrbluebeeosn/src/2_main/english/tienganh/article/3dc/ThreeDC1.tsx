@@ -107,7 +107,7 @@ export default function ThreeDC1(): React.ReactElement {
 			<ol>
 			
 					<li value="1">[<strong>Động Cơ</strong>][<strong>Verb Base</strong>]: speak, make, take</li>
-					<li className="margin-bottom-20 list-none">Nguyên bản gốc (Class cha/Root Class) của mọi hành động, mang tính khái niệm thuần túy và chưa chứa thông tin thời gian.</li>
+					<li className="margin-bottom-20 list-none">Nguyên bản [Rễ Cơ][Root Base] (Class cha/Root Class) của mọi hành động, mang tính khái niệm thuần túy và chưa chứa thông tin thời gian.</li>
 			
 					<li value="2">[<strong>Thời Động Cơ</strong>][<strong>Tense Verb Base</strong>]: are, were, does, did, will, have</li>
 					<li className="margin-bottom-20 list-none">Đơn vị đơn lẻ chịu trách nhiệm xử lý bối cảnh thời gian cho toàn câu.</li>

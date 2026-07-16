@@ -85,7 +85,7 @@ export default function SuperWords1(): React.JSX.Element {
 				<ol>
 			
 					<li value="1">[<strong>Động Cơ</strong>][<strong>Verb Base</strong>]: read, drive, speak</li>
-					<li className="margin-bottom-20 list-none">Nguyên bản gốc (Class cha / Root Class) của mọi hành động, nền tảng chưa qua biến đổi để chỉ bản chất công việc.</li>
+					<li className="margin-bottom-20 list-none">Nguyên bản [Rễ Cơ][Root Base] (Class cha / Root Class) của mọi hành động, nền tảng chưa qua biến đổi để chỉ bản chất công việc.</li>
 			
 					<li value="2">[<strong>Thời Động Cơ</strong>][<strong>Tense Verb Base</strong>]: are, were, does, did</li>
 					<li className="margin-bottom-20 list-none">Một đơn vị chữ chuyên trách xử lý bối cảnh thời gian (hiện tại, quá khứ) hoặc làm mốc neo điều phối.</li>

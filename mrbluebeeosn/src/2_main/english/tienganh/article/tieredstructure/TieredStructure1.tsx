@@ -102,7 +102,7 @@ export default function TieredStructure1(): React.JSX.Element {
 				<ol>
 			
 					<li value="1">[<strong>Động Cơ</strong>][<strong>Verb Base</strong>]: run, write, go, look</li>
-					<li className="margin-bottom-20 list-none">Nguyên bản gốc (Class cha/Root Class) của mọi hành động, chưa bị can thiệp bởi bất kỳ bộ lọc thời gian hay chế độ nào.</li>
+					<li className="margin-bottom-20 list-none">Nguyên bản [Rễ Cơ][Root Base] (Class cha/Root Class) của mọi hành động, chưa bị can thiệp bởi bất kỳ bộ lọc thời gian hay chế độ nào.</li>
 			
 					<li value="2">[<strong>Thời Động Cơ</strong>][<strong>Tense Verb Base</strong>]: is, was, has, had, will, have</li>
 					<li className="margin-bottom-20 list-none">Bộ xử lý bối cảnh thời gian của hệ thống, chịu trách nhiệm xác lập mốc thời gian diễn ra của hành động trong câu.</li>
