@@ -97,7 +97,7 @@ export default function NineBox1(): React.JSX.Element {
 				<ol>
 			
 					<li value="1">[<strong>Động Cơ</strong>][<strong>Verb Base</strong>]: develop, build, execute</li>
-					<li className="margin-bottom-20 list-none">Nguyên bản [Rễ Cơ][Root Base] [Class cha/Root Class] chứa hạt nhân ngữ nghĩa lõi của hành động nhưng chưa được kích hoạt bối cảnh thời gian hoặc biến đổi hình thái.</li>
+					<li className="margin-bottom-20 list-none">Hành động nguyên bản [Rễ Cơ][Root Base] [Class cha/Root Class] chứa hạt nhân ngữ nghĩa lõi của hành động nhưng chưa được kích hoạt bối cảnh thời gian hoặc biến đổi hình thái.</li>
 			
 					<li value="2">[<strong>Thời Động Cơ</strong>][<strong>Tense Verb Base</strong>]: is, was, has, had, will, have</li>
 					<li className="margin-bottom-20 list-none">Xử lý bối cảnh thời gian và chịu trách nhiệm định vị dòng thời gian của hành động trên trục số, phối hợp với chủ ngữ để giữ tính hòa hợp.</li>

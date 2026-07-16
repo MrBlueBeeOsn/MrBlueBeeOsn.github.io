@@ -106,7 +106,7 @@ export default function SV1(): React.JSX.Element {
 				<ol>
 			
 					<li value="1">[<strong>Động Cơ</strong>][<strong>Verb Base</strong>]: sleep, walk, eat, take</li>
-					<li className="margin-bottom-20 list-none">Dạng nguyên bản [Rễ Cơ][Root Base] (Class cha/Root Class) chưa chịu tác động của thời gian hay trạng thái thực thi. Đây là lõi hành động thuần túy nhất.</li>
+					<li className="margin-bottom-20 list-none">Dạng hành động nguyên bản [Rễ Cơ][Root Base] (Class cha/Root Class) chưa chịu tác động của thời gian hay trạng thái thực thi. Đây là lõi hành động thuần túy nhất.</li>
 			
 					<li value="2">[<strong>Thời Động Cơ</strong>][<strong>Tense Verb Base</strong>]: are, am, do, did, will, have</li>
 					<li className="margin-bottom-20 list-none">Đơn vị từ đơn lẻ chịu trách nhiệm thiết lập và xử lý bối cảnh thời gian (hiện tại, quá khứ, tương lai) cho câu.</li>

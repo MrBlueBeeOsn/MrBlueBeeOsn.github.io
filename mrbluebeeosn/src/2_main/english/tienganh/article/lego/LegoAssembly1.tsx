@@ -117,7 +117,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 				<ol>
 			
 					<li value="1">[<strong>Động Cơ</strong>][<strong>Verb Base</strong>]: sleep (ngủ), build (xây dựng), drive (lái xe).</li>
-					<li className="margin-bottom-20 list-none">Nguyên bản [Rễ Cơ][Root Base] (Class cha/Root Class) của mọi hành động. Đây là dạng thuần túy nhất chưa hề bị can thiệp bởi thời gian, bối cảnh hay đối tượng số ít/số nhiều.</li>
+					<li className="margin-bottom-20 list-none">Hành động nguyên bản [Rễ Cơ][Root Base] (Class cha/Root Class) của mọi hành động. Đây là dạng thuần túy nhất chưa hề bị can thiệp bởi thời gian, bối cảnh hay đối tượng số ít/số nhiều.</li>
 			
 					<li value="2">[<strong>Thời Động Cơ</strong>][<strong>Tense Verb Base</strong>]: are (thì/là), were (đã thì/đã là), have/had/will (trợ nguồn thời gian).</li>
 					<li className="margin-bottom-20 list-none">Đơn vị lõi đơn lẻ đứng ở vị trí Head để gánh vác bối cảnh thời gian (Hiện tại, Quá khứ, Tương lai) hoặc trạng thái hoàn thành.</li>
