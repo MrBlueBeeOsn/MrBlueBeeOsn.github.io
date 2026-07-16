@@ -143,7 +143,7 @@ export default function Create(): React.JSX.Element {
           <li>We need a [creative] marketing strategist.</li>
           <li className="margin-bottom-20 list-none">Chúng ta cần một nhà chiến lược tiếp thị [sáng tạo].</li>
       
-          <li className="list-none">Hình thái: [creative] - [Diện Cơ][Modified Base] hình thành từ khối [Rễ Cơ][Root Base] nguyên bản "create" mặc thêm hậu tố "-sive" để thay đổi diện mạo bên ngoài thành một khối cấp độ [Cơ][Base], chuyển đổi bản chất sang chức năng mô tả đặc điểm dưới dạng từ đơn lẻ.</li>
+          <li className="list-none">Hình thái: [creative] - [Diện Cơ][Modified Base] hình thành từ khối [Rễ Cơ][Root Base] nguyên bản "create" mặc thêm hậu tố "-ive" để thay đổi diện mạo bên ngoài thành một khối cấp độ [Cơ][Base], chuyển đổi bản chất sang chức năng mô tả đặc điểm dưới dạng từ đơn lẻ.</li>
       
           <li className="list-none">Chức năng: [creative] - [Tính Cơ][Adjective Base] kích hoạt cơ chế của bộ quét đặt ngay trước đối tượng "marketing strategist" để hiển thị đặc điểm của đối tượng đó.</li>
       
@@ -159,7 +159,7 @@ export default function Create(): React.JSX.Element {
           <li>The team solved the issue [creatively] within an hour.</li>
           <li className="margin-bottom-20 list-none">Đội ngũ đã giải quyết vấn đề [một cách sáng tạo] trong vòng một giờ.</li>
       
-          <li className="list-none">Hình thái: [creatively] - [Diện Cơ][Modified Base] hình thành từ khối [Rễ Cơ][Root Base] nguyên bản "create" mặc thêm hậu tố "-sive" và "-ly" để thay đổi diện mạo bên ngoài thành một khối cấp độ [Cơ][Base], chuyển đổi bản chất sang chức năng trạng dưới dạng từ đơn lẻ thông dụng.</li>
+          <li className="list-none">Hình thái: [creatively] - [Diện Cơ][Modified Base] hình thành từ khối [Rễ Cơ][Root Base] nguyên bản "create" mặc thêm hậu tố "-ive" và "-ly" để thay đổi diện mạo bên ngoài thành một khối cấp độ [Cơ][Base], chuyển đổi bản chất sang chức năng trạng dưới dạng từ đơn lẻ thông dụng.</li>
       
           <li className="list-none">Chức năng: [creatively] - [Trạng Cơ][Adverb Base] thực thi vai trò làm thành phần bổ nghĩa đứng sau hành động "solved" để xác định bối cảnh cách thức.</li>
       
@@ -757,7 +757,7 @@ export default function Create(): React.JSX.Element {
           <li>The studio hired a [creative] artist.</li>
           <li className="margin-bottom-20 list-none">Studio đã thuê một nghệ sĩ [sáng tạo].</li>
       
-          <li className="list-none">Hình thái: [creative] - [Diện Cơ][Modified Base] hình thành từ khối [Rễ Cơ][Root Base] nguyên bản "create" mặc thêm hậu tố "-sive" để thay đổi diện mạo bên ngoài thành một khối cấp độ [Cơ][Base], thu gọn dưới dạng khối đặc điểm đã được cô đọng hoàn toàn về dạng một thành phần tính cơ đơn duy nhất.</li>
+          <li className="list-none">Hình thái: [creative] - [Diện Cơ][Modified Base] hình thành từ khối [Rễ Cơ][Root Base] nguyên bản "create" mặc thêm hậu tố "-ive" để thay đổi diện mạo bên ngoài thành một khối cấp độ [Cơ][Base], thu gọn dưới dạng khối đặc điểm đã được cô đọng hoàn toàn về dạng một thành phần tính cơ đơn duy nhất.</li>
       
           <li className="list-none">Chức năng mới: [creative] - [Tính Cơ][Adjective Base] thiết lập vị trí ngay trước đối tượng để quét và hiển thị ngắn gọn đặc điểm của đối tượng đó.</li>
       
