@@ -38,7 +38,7 @@ export default function MatrixQuiz(): React.JSX.Element {
 				"[Adverb Base]"
 			],
 			correctAnswer: 0,
-			explanation: "Morphology: [fallen] - [Động Cơ][Verb Base] formed by the bare past participle form of the verb \"fall\" without any auxiliary attachments. \n\n Function: [fallen] - [Tính Cơ][Adjective Base] modifies and directly describes the head noun \"leaves\"."
+			explanation: "Morphology: [fallen] - [Hoàn Động Cơ][Perfect Verb Base] formed by the bare past participle form of the verb \"fall\" without any auxiliary attachments. \n\n Function: [fallen] - [Tính Cơ][Adjective Base] modifies and directly describes the head noun \"leaves\"."
 		},
 		{
 			id: 3,
@@ -48,7 +48,7 @@ export default function MatrixQuiz(): React.JSX.Element {
 				"[Adverb Base]"
 			],
 			correctAnswer: 1,
-			explanation: "Morphology: [open] - [Động Cơ][Verb Base] originating from a bare verb base. \n\n Function: [open] - [Trạng Cơ][Adverb Base] acts as a resultative complement modifying the verb \"flew\" to show the final state achieved by the action."
+			explanation: "Morphology: [open] - [Thuần Động Cơ][Bare Verb Base] originating from a bare verb base. \n\n Function: [open] - [Trạng Cơ][Adverb Base] acts as a resultative complement modifying the verb \"flew\" to show the final state achieved by the action."
 		},
 		{
 			id: 4,

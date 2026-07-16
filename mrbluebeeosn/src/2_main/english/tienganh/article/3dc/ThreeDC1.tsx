@@ -189,7 +189,7 @@ export default function ThreeDC1(): React.ReactElement {
 					<li>The leaves withered [exceedingly] fast.</li>
 					<li className="margin-bottom-20 list-none">Những chiếc lá đã héo úa nhanh [một cách vượt quá / cực kỳ].</li>
 			
-					<li className="list-none">Hình thái: [exceedingly] - [Động Cơ][Verb Base] nguyên bản exceed thêm đuôi "ingly" để tạo thành khối biểu hiện hạt nhân đơn lẻ.</li>
+					<li className="list-none">Hình thái: [exceedingly] - [Diện Cơ][Modified Base] hình thành từ khối [Rễ Cơ][Root Base] nguyên bản "exceed" mặc thêm hậu tố "-ing" và "-ly" để thay đổi diện mạo bên ngoài thành một khối cấp độ [Cơ][Base], tạo thành khối biểu hiện hạt nhân đơn lẻ.</li>
 			
 					<li className="list-none">Chức năng: [exceedingly] - [Trạng Cơ][Adverb Base] đứng trước để biểu thị mức độ cực độ, tính chất vượt trội và bổ nghĩa trực tiếp cho từ mô tả đặc tính nhanh đứng liền phía sau.</li>
 			
@@ -498,7 +498,7 @@ export default function ThreeDC1(): React.ReactElement {
 					<li>[Disturbingly], the ship sank fast.</li>
 					<li className="margin-bottom-20 list-none">[Một cách đáng lo ngại], con tàu đã bị chìm nhanh chóng.</li>
 			
-					<li className="list-none">Hình thái: [Disturbingly] - [Động Cơ][Verb Base] nguyên bản disturb thêm đuôi "ingly" để tạo thành khối biểu hiện hạt nhân đơn lẻ.</li>
+					<li className="list-none">Hình thái: [disturbingly] - [Diện Cơ][Modified Base] hình thành từ khối [Rễ Cơ][Root Base] nguyên bản "disturb" mặc thêm hậu tố "-ing" và "-ly" để thay đổi diện mạo bên ngoài thành một khối cấp độ [Cơ][Base], tạo thành khối biểu hiện hạt nhân đơn lẻ.</li>
 			
 					<li className="list-none">Chức năng: [Disturbingly] - [Trạng Cơ][Adverb Base] đóng vai trò liên kết bối cảnh tình huống gây lo ngại ở mức độ hạt nhân.</li>
 			

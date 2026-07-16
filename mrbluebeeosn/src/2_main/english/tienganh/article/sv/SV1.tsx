@@ -203,7 +203,7 @@ export default function SV1(): React.JSX.Element {
 					<li>They left [quietly].</li>
 					<li className="margin-bottom-20 list-none">Họ đã rời đi [một cách lặng lẽ].</li>
 			
-					<li className="list-none">Hình thái: [quietly] - [Động Cơ][Verb Base] đại diện hạt nhân hành động đơn lẻ được hình thành từ gốc [Động Cơ] quiet kết hợp hậu tố ly.</li>
+					<li className="list-none">Hình thái: [quietly] - [Diện Cơ][Modified Base] hình thành từ khối [Rễ Cơ][Root Base] nguyên bản "quiet" mặc thêm hậu tố "-ly" để thay đổi diện mạo bên ngoài thành một khối cấp độ [Cơ][Base].</li>
 			
 					<li className="list-none">Chức năng: [quietly] - [Trạng Cơ][Adverb Base] đứng sau hành động nhằm chỉ ra cách thức thực hiện.</li>
 			

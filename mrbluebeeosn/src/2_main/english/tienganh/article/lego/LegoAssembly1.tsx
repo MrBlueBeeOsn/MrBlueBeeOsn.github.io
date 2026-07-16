@@ -428,7 +428,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 					<li>She sang [beautifully].</li>
 					<li className="margin-bottom-20 list-none">Cô ấy đã hát [một cách xinh đẹp/hay].</li>
 
-					<li className="list-none">Hình thái: [beautifully] - [Động Cơ][Verb Base] beauty kết hợp với hậu tố tạo tính từ -ful và hậu tố trạng từ -ly để định hình trạng thái.</li>
+					<li className="list-none">Hình thái: [beautifully] - [Diện Cơ][Modified Base] hình thành từ khối [Rễ Cơ][Root Base] nguyên bản "beauty" mặc thêm hậu tố "-ful" và "-ly" để thay đổi diện mạo bên ngoài thành một khối cấp độ [Cơ][Base].</li>
 
 					<li className="list-none">Chức năng: [beautifully] - [Trạng Cơ][Adverb Base] bổ nghĩa cho [Thời-Thuần Động Cơ][Tense-Bare Verb Base] hành động "sang", mô tả cách thức hành động được thực hiện.</li>
 			
@@ -523,7 +523,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 					<li>The price dropped [shockingly].</li>
 					<li className="margin-bottom-20 list-none">Giá cả đã sụt giảm [một cách đáng kinh ngạc].</li>
 			
-					<li className="list-none">Hình thái: [shockingly] - [Động Cơ][Verb Base] nguyên bản shock thêm đuôi "ingly".</li>
+					<li className="list-none">Hình thái: [shockingly] - [Diện Cơ][Modified Base] hình thành từ khối rễ nguyên bản "shock" mặc thêm hậu tố "-ing" và "-ly" để thay đổi diện mạo bên ngoài thành một khối cấp độ Cơ. </li>
 
 					<li className="list-none">Chức năng: [shockingly] - [Trạng Cơ][Adverb Base] đảm nhiệm vai trò bổ nghĩa cách thức cho hành động "dropped".</li>
 			

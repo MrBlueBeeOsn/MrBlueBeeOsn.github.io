@@ -88,7 +88,7 @@ export default function EVMatrixQuiz(): React.JSX.Element {
 				"[Adjective Phrase]"
 			],
 			correctAnswer: 0,
-			explanation: "Hình thái: [broken] - [Động Cơ][Verb Base] tồn tại ở hình thái biến đổi đuôi đặc biệt của thể hoàn thành đứng đơn lẻ, chưa phát triển thành cụm hay câu. \n\n Chức năng: [broken] - [Tính Cơ][Adjective Base] nằm trước để nêu đặc điểm thực tế cho thành phần chỉ vật \"vase\"."
+			explanation: "Hình thái: [broken] - [Hoàn Động Cơ][Perfect Verb Base] tồn tại ở hình thái biến đổi đuôi đặc biệt của thể hoàn thành đứng đơn lẻ, chưa phát triển thành cụm hay câu. \n\n Chức năng: [broken] - [Tính Cơ][Adjective Base] nằm trước để nêu đặc điểm thực tế cho thành phần chỉ vật \"vase\"."
 		},
 		{
 			id: 8,
@@ -98,7 +98,7 @@ export default function EVMatrixQuiz(): React.JSX.Element {
 				"[Adjective Base]"
 			],
 			correctAnswer: 1,
-			explanation: "Hình thái: [cry] - [Động Cơ][Verb Base] tồn tại ở hình thái dạng gốc nguyên thể không \"to\" đứng độc lập, chưa phát triển thêm thành phần bổ khuyết. \n\n Chức năng: [cry] - [Tính Cơ][Adjective Base] bổ sung trạng thái chịu tác động trực tiếp cho phần tiếp nhận \"his younger brother\" phía trước."
+			explanation: "Hình thái: [cry] - [Thuần Động Cơ][Bare Verb Base] tồn tại ở hình thái dạng gốc nguyên thể không \"to\" đứng độc lập, chưa phát triển thêm thành phần bổ khuyết. \n\n Chức năng: [cry] - [Tính Cơ][Adjective Base] bổ sung trạng thái chịu tác động trực tiếp cho phần tiếp nhận \"his younger brother\" phía trước."
 		},
 		{
 			id: 9,
@@ -108,7 +108,7 @@ export default function EVMatrixQuiz(): React.JSX.Element {
 				"[Adverb Phrase]"
 			],
 			correctAnswer: 0,
-			explanation: "Hình thái: [to win] - [Động Cơ][Verb Base] xét riêng trong ngoặc là hình thái hạt nhân nguyên thể có \"to\" đứng đơn lẻ, không tính phần bổ khuyết phía sau. \n\n Chức năng: [to win] - [Trạng Cơ][Adverb Base] đưa vào cấu trúc nhằm nêu bật mục đích cốt lõi cho hành vi \"practiced hard\"."
+			explanation: "Hình thái: [to win] - [Hạt Thuần Động Cơ][Particle Bare Verb Base] xét riêng trong ngoặc là hình thái hạt nhân nguyên thể có \"to\" đứng đơn lẻ, không tính phần bổ khuyết phía sau. \n\n Chức năng: [to win] - [Trạng Cơ][Adverb Base] đưa vào cấu trúc nhằm nêu bật mục đích cốt lõi cho hành vi \"practiced hard\"."
 		},
 		{
 			id: 10,

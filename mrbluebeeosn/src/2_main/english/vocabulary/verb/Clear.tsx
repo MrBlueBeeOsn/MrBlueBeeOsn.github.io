@@ -38,7 +38,7 @@ export default function Clear(): React.JSX.Element {
               <li>You must [clear] the browser history.</li>
               <li className="margin-bottom-20 list-none">Bạn phải [xóa] lịch sử trình duyệt.</li>
 
-              <li className="list-none">Hình thái: [clear] - [Động Cơ][Verb Base] dạng nguyên bản đứng sau [Áp-Thái Thuần Động Cơ][Assertive-Modal Bare Verb Base] "must" để thực thi hành động tác động lên thành phần chịu tác động "the browser history".</li>
+              <li className="list-none">Hình thái: [clear] - [Thuần Động Cơ][Bare Verb Base] dạng nguyên bản đứng sau [Áp-Thái Thuần Động Cơ][Assertive-Modal Bare Verb Base] "must" để thực thi hành động tác động lên thành phần chịu tác động "the browser history".</li>
           
             </ul>
 
@@ -127,7 +127,7 @@ export default function Clear(): React.JSX.Element {
           <li>The [clarity] of this instruction helped everyone.</li>
           <li className="margin-bottom-20 list-none">[Sự rõ ràng] của lời hướng dẫn này đã giúp đỡ mọi người.</li>
       
-          <li className="list-none">Hình thái: [clarity] - [Động Cơ][Verb Base] biến đổi hình thái gốc thông qua chuỗi kết cấu chuyển đổi để tạo thành một thực thể định danh độc lập.</li>
+          <li className="list-none">Hình thái: [clarity] - [Diện Cơ][Modified Base] hình thành từ khối [Rễ Cơ][Root Base] nguyên bản "clear" biến đổi thành "clar" mặc thêm hậu tố "-ity" để thay đổi diện mạo bên ngoài thành một khối cấp độ [Cơ][Base], tạo thành một thực thể định danh độc lập.</li>
       
           <li className="list-none">Chức năng: [clarity] - [Danh Cơ][Noun Base] đảm nhận nhiệm vụ làm thành phần nền tảng ở đầu câu để định danh cho một đặc tính/sự việc.</li>
       
@@ -159,7 +159,7 @@ export default function Clear(): React.JSX.Element {
           <li>She explained the process [clearly].</li>
           <li className="margin-bottom-20 list-none">Cô ấy đã giải thích quy trình [một cách rõ ràng].</li>
       
-          <li className="list-none">Hình thái: [clearly] - [Động Cơ][Verb Base] kết hợp thêm phần đuôi "-ly" để chuyển đổi bản chất sang chức năng trạng dưới dạng từ đơn lẻ thông dụng.</li>
+          <li className="list-none">Hình thái: [clearly] - [Diện Cơ][Modified Base] hình thành từ khối [Rễ Cơ][Root Base] nguyên bản "clear" mặc thêm hậu tố "-ly" để thay đổi diện mạo bên ngoài thành một khối cấp độ [Cơ][Base], chuyển đổi bản chất sang chức năng trạng dưới dạng từ đơn lẻ thông dụng.</li>
       
           <li className="list-none">Chức năng: [clearly] - [Trạng Cơ][Adverb Base] thực thi vai trò làm thành phần bổ nghĩa đứng sau hành động "explained" để xác định bối cảnh cách thức.</li>
       
@@ -752,7 +752,7 @@ export default function Clear(): React.JSX.Element {
           <li>I like a [clear] system layout.</li>
           <li className="margin-bottom-20 list-none">Tôi thích một bố cục hệ thống [rõ ràng].</li>
       
-          <li className="list-none">Hình thái mới: [clear] - [Động Cơ][Verb Base] thu gọn dưới dạng khối đặc điểm đã được cô đọng hoàn toàn về dạng một thành phần tính cơ đơn duy nhất.</li>
+          <li className="list-none">Hình thái mới: [clear] - [Rễ Cơ][Root Base] hình thành từ khối [Rễ Cơ][Root Base] nguyên bản, ở trạng thái mộc hoàn toàn, không ăn diện thêm phụ kiện, thu gọn dưới dạng khối đặc điểm đã được cô đọng hoàn toàn về dạng một thành phần tính cơ đơn duy nhất.</li>
       
           <li className="list-none">Chức năng mới: [clear] - [Tính Cơ][Adjective Base] thiết lập vị trí ngay trước đối tượng "system layout" để quét và hiển thị ngắn gọn đặc điểm của đối tượng đó.</li>
       

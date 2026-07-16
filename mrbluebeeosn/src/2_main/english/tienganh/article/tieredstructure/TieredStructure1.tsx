@@ -207,7 +207,7 @@ export default function TieredStructure1(): React.JSX.Element {
 					<li>I received a [written] report.</li>
 					<li className="margin-bottom-20 list-none">Tôi đã nhận được một bản báo cáo [bằng văn bản].</li>
 
-					<li className="list-none">Hình thái: [written] - [Động Cơ][Verb Base] biểu hiện dưới dạng hạt nhân hành động V3 mang trạng thái bị động.</li>
+					<li className="list-none">Hình thái: [written] - [Hoàn Động Cơ][Perfect Verb Base] biểu hiện dưới dạng hạt nhân hành động V3 mang trạng thái bị động.</li>
 					
 					<li className="list-none">Chức năng: [written] - [Tính Cơ][Adjective Base] kích hoạt cơ chế của bộ quét đặt ngay trước đối tượng report để hiển thị đặc điểm vật lý của đối tượng đó.</li>
 			
@@ -221,7 +221,7 @@ export default function TieredStructure1(): React.JSX.Element {
 					<li>He spoke [excitedly].</li>
 					<li className="margin-bottom-20 list-none">Anh ấy đã nói một cách [đầy hứng khởi].</li>
 
-					<li className="list-none">Hình thái: [excitedly] - [Động Cơ][Verb Base] nguyên bản excite được tinh chỉnh qua bộ lọc thêm đuôi -edly để tạo ra một từ đơn hành động mang tính chất bổ trợ trạng thái.</li>
+					<li className="list-none">Hình thái: [excitedly] - [Diện Cơ][Modified Base] hình thành từ khối [Rễ Cơ][Root Base] nguyên bản "excite" mặc thêm hậu tố "-ed" và "-ly" để thay đổi diện mạo bên ngoài thành một khối cấp độ [Cơ][Base], tạo ra một từ đơn hành động mang tính chất bổ trợ trạng thái.</li>
 
 					<li className="list-none">Chức năng: [excitedly] - [Trạng Cơ][Adverb Base] thực thi vai trò bổ nghĩa đứng ngay sau hành động spoke để xác định bối cảnh phương thức, cách thức sự việc diễn ra.</li>
 			
@@ -587,7 +587,7 @@ export default function TieredStructure1(): React.JSX.Element {
 					<li>I bought a [German-built] car.</li>
 					<li className="margin-bottom-20 list-none">Tôi đã mua một chiếc xe hơi [do Đức chế tạo].</li>
 			
-					<li className="list-none">Hình thái mới: [German-built] - [Động Cơ][Verb Base] (đóng vai trò Tính Cơ) thu gọn dưới dạng khối hành động phức tạp đã được cô đọng hoàn toàn về dạng một từ đơn duy nhất thuộc nhóm chức năng mô tả.</li>
+					<li className="list-none">Hình thái mới: [German-built] - [Diện Cơ][Modified Base] hình thành từ khối [Rễ Cơ][Root Base] nguyên bản "build" mặc thêm tiền tố "German-" để thay đổi diện mạo bên ngoài thành một khối cấp độ [Cơ][Base], được thu gọn dưới dạng khối hành động phức tạp đã được cô đọng hoàn toàn về dạng một từ đơn duy nhất thuộc nhóm chức năng mô tả.</li>
 			
 					<li className="list-none">Chức năng mới: [German-built] - [Tính Cơ][Adjective Base] thiết lập vị trí ngay trước đối tượng car to quét và hiển thị ngắn gọn đặc điểm của đối tượng đó.</li>
 			

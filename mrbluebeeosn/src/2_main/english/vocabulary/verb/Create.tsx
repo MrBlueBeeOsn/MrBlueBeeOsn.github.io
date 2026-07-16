@@ -38,7 +38,7 @@ export default function Create(): React.JSX.Element {
               <li>You must [create] a new account.</li>
               <li className="margin-bottom-20 list-none">Bạn phải [tạo] một tài khoản mới.</li>
 
-              <li className="list-none">Hình thái: [create] - [Động Cơ][Verb Base] dạng nguyên bản đứng sau [Áp-Thái Thuần Động Cơ][Assertive-Modal Bare Verb Base] "must" để thực thi hành động hướng tới đối tượng tiếp nhận "a new account".</li>
+              <li className="list-none">Hình thái: [create] - [Thuần Động Cơ][Bare Verb Base] dạng nguyên bản đứng sau [Áp-Thái Thuần Động Cơ][Assertive-Modal Bare Verb Base] "must" để thực thi hành động hướng tới đối tượng tiếp nhận "a new account".</li>
           
             </ul>
 
@@ -127,7 +127,7 @@ export default function Create(): React.JSX.Element {
           <li>The [creation] of the new artwork took several months.</li>
           <li className="margin-bottom-20 list-none">[Sự tạo ra/Tác phẩm] nghệ thuật mới đã mất vài tháng.</li>
       
-          <li className="list-none">Hình thái: [creation] - [Động Cơ][Verb Base] biến đổi từ lõi hành động nguyên bản "create" thông qua chuỗi kết cấu chuyển đổi đuôi "-tion" để tạo thành một thực thể định danh độc lập.</li>
+          <li className="list-none">Hình thái: [creation] - [Diện Cơ][Modified Base] hình thành từ khối [Rễ Cơ][Root Base] nguyên bản "create" mặc thêm hậu tố "-tion" để thay đổi diện mạo bên ngoài thành một khối cấp độ [Cơ][Base], tạo thành một thực thể định danh độc lập.</li>
       
           <li className="list-none">Chức năng: [creation] - [Danh Cơ][Noun Base] đảm nhận nhiệm vụ làm thành phần nền tảng ở đầu câu để định danh cho một sự việc.</li>
       
@@ -143,7 +143,7 @@ export default function Create(): React.JSX.Element {
           <li>We need a [creative] marketing strategist.</li>
           <li className="margin-bottom-20 list-none">Chúng ta cần một nhà chiến lược tiếp thị [sáng tạo].</li>
       
-          <li className="list-none">Hình thái: [creative] - [Động Cơ][Verb Base] biến đổi từ lõi hành động nguyên bản "create" kết hợp thêm phần đuôi "-ive" để chuyển đổi bản chất sang chức năng mô tả đặc điểm dưới dạng từ đơn lẻ.</li>
+          <li className="list-none">Hình thái: [creative] - [Diện Cơ][Modified Base] hình thành từ khối [Rễ Cơ][Root Base] nguyên bản "create" mặc thêm hậu tố "-sive" để thay đổi diện mạo bên ngoài thành một khối cấp độ [Cơ][Base], chuyển đổi bản chất sang chức năng mô tả đặc điểm dưới dạng từ đơn lẻ.</li>
       
           <li className="list-none">Chức năng: [creative] - [Tính Cơ][Adjective Base] kích hoạt cơ chế của bộ quét đặt ngay trước đối tượng "marketing strategist" để hiển thị đặc điểm của đối tượng đó.</li>
       
@@ -159,7 +159,7 @@ export default function Create(): React.JSX.Element {
           <li>The team solved the issue [creatively] within an hour.</li>
           <li className="margin-bottom-20 list-none">Đội ngũ đã giải quyết vấn đề [một cách sáng tạo] trong vòng một giờ.</li>
       
-          <li className="list-none">Hình thái: [creatively] - [Động Cơ][Verb Base] biến đổi từ lõi hành động nguyên bản "create" kết hợp thêm phần đuôi "-ive" và đuôi "-ly" vào sau lõi hành động để chuyển đổi bản chất sang chức năng trạng dưới dạng từ đơn lẻ thông dụng.</li>
+          <li className="list-none">Hình thái: [creatively] - [Diện Cơ][Modified Base] hình thành từ khối [Rễ Cơ][Root Base] nguyên bản "create" mặc thêm hậu tố "-sive" và "-ly" để thay đổi diện mạo bên ngoài thành một khối cấp độ [Cơ][Base], chuyển đổi bản chất sang chức năng trạng dưới dạng từ đơn lẻ thông dụng.</li>
       
           <li className="list-none">Chức năng: [creatively] - [Trạng Cơ][Adverb Base] thực thi vai trò làm thành phần bổ nghĩa đứng sau hành động "solved" để xác định bối cảnh cách thức.</li>
       
@@ -757,7 +757,7 @@ export default function Create(): React.JSX.Element {
           <li>The studio hired a [creative] artist.</li>
           <li className="margin-bottom-20 list-none">Studio đã thuê một nghệ sĩ [sáng tạo].</li>
       
-          <li className="list-none">Hình thái mới: [creative] - [Động Cơ][Verb Base] biến đổi từ lõi hành động nguyên bản "create" kết hợp thêm phần đuôi "-ive", thu gọn dưới dạng khối đặc điểm đã được cô đọng hoàn toàn về dạng một thành phần tính cơ đơn duy nhất.</li>
+          <li className="list-none">Hình thái: [creative] - [Diện Cơ][Modified Base] hình thành từ khối [Rễ Cơ][Root Base] nguyên bản "create" mặc thêm hậu tố "-sive" để thay đổi diện mạo bên ngoài thành một khối cấp độ [Cơ][Base], thu gọn dưới dạng khối đặc điểm đã được cô đọng hoàn toàn về dạng một thành phần tính cơ đơn duy nhất.</li>
       
           <li className="list-none">Chức năng mới: [creative] - [Tính Cơ][Adjective Base] thiết lập vị trí ngay trước đối tượng để quét và hiển thị ngắn gọn đặc điểm của đối tượng đó.</li>
       

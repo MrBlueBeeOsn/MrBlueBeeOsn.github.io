@@ -179,9 +179,9 @@ export default function NineBox1(): React.JSX.Element {
 					<li>The system process finishes [decisively].</li>
 					<li className="margin-bottom-20 list-none">Tiến trình hệ thống kết thúc [một cách dứt khoát].</li>
 			
-					<li className="list-none">Hình thái: [decisively] - [Động Cơ][Verb Base] biến đổi hình thái từ gốc hành động "Decide" qua dạng tính từ rồi thêm đuôi "ly" để hình thành từ chỉ cách thức.</li>
+					<li className="list-none">Hình thái: [decisively] - [Diện Cơ][Modified Base] hình thành từ khối [Rễ Cơ][Root Base] nguyên bản "decide" mặc thêm hậu tố "-sive" và "-ly" để thay đổi diện mạo bên ngoài thành một khối cấp độ [Cơ][Base].</li>
 			
-					<li className="list-none">Chức năng: [decisively] - [Trạng Cơ][Adverb Base] đứng sau nhằm bổ nghĩa cách thức hành động cho việc kết thúc.</li>
+					<li className="list-none">Chức năng: [decisively] - [Trạng Cơ][Adverb Base] chỉ cách thức, đứng sau nhằm bổ nghĩa cách thức hành động cho việc kết thúc.</li>
 			
 				</ul>
 			
@@ -448,7 +448,7 @@ export default function NineBox1(): React.JSX.Element {
 					<li>[Automation] increases workflow efficiency.</li>
 					<li className="margin-bottom-20 list-none">[Tự động hóa] tăng hiệu suất quy trình công việc.</li>
 			
-					<li className="list-none">Hình thái: [Automation] - [Động Cơ][Verb Base] nguyên bản gốc "Automate" thêm đuôi "tion" để hình thành cấu trúc danh mục thông tin.</li>
+					<li className="list-none">Hình thái: [automation] - [Diện Cơ][Modified Base] hình thành từ khối [Rễ Cơ][Root Base] nguyên bản "automate" mặc thêm hậu tố "-tion" để thay đổi diện mạo bên ngoài thành một khối cấp độ [Cơ][Base], hình thành cấu trúc danh mục thông tin.</li>
 			
 					<li className="list-none">Chức năng: [Automation] - [Danh Cơ][Noun Base] [Danh Chủ].</li>
 			
@@ -554,9 +554,9 @@ export default function NineBox1(): React.JSX.Element {
 					<li>The server updates [automatically].</li>
 					<li className="margin-bottom-20 list-none">Máy chủ cập nhật [một cách tự động].</li>
 			
-					<li className="list-none">Hình thái: [automatically] - [Động Cơ][Verb Base] biến đổi hình thái từ gốc hành động "Automate" qua dạng tính từ rồi thêm đuôi "ly" để hình thành từ chỉ cách thức.</li>
+					<li className="list-none">Hình thái: [automatically] - [Diện Cơ][Modified Base] hình thành từ khối [Rễ Cơ][Root Base] nguyên bản "automate" mặc thêm hậu tố "-ical" và "-ly" để thay đổi diện mạo bên ngoài thành một khối cấp độ [Cơ][Base].</li>
 			
-					<li className="list-none">Chức năng: [automatically] - [Trạng Cơ][Adverb Base].</li>
+					<li className="list-none">Chức năng: [automatically] - [Trạng Cơ][Adverb Base] chỉ cách thức.</li>
 			
 				</ul>
 			

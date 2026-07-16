@@ -38,7 +38,7 @@ export default function Respond(): React.JSX.Element {
               <li>You must [respond] to the client's email.</li>
               <li className="margin-bottom-20 list-none">Bạn phải [phản hồi] email của khách hàng.</li>
 
-              <li className="list-none">Hình thái: [respond] - [Động Cơ][Verb Base] dạng nguyên bản đứng sau [Áp-Thái Thuần Động Cơ][Assertive-Modal Bare Verb Base] "must" để thực thi hành động hướng tới đối tượng tiếp nhận "to the client's email".</li>
+              <li className="list-none">Hình thái: [respond] - [Thuần Động Cơ][Bare Verb Base] dạng nguyên bản đứng sau [Áp-Thái Thuần Động Cơ][Assertive-Modal Bare Verb Base] "must" để thực thi hành động hướng tới đối tượng tiếp nhận "to the client's email".</li>
           
             </ul>
 
@@ -127,7 +127,7 @@ export default function Respond(): React.JSX.Element {
           <li>The [response] from the server was incredibly fast.</li>
           <li className="margin-bottom-20 list-none">[Sự phản hồi] từ máy chủ vô cùng nhanh chóng.</li>
       
-          <li className="list-none">Hình thái: [response] - [Động Cơ][Verb Base] biến đổi từ lõi hành động nguyên bản "respond" thông qua chuỗi kết cấu chuyển đổi đuôi "-se" để tạo thành một thực thể định danh độc lập.</li>
+          <li className="list-none">Hình thái: [response] - [Diện Cơ][Modified Base] hình thành từ khối [Rễ Cơ][Root Base] nguyên bản "respond" mặc thêm hậu tố "-se" để thay đổi diện mạo bên ngoài thành một khối cấp độ [Cơ][Base], tạo thành một thực thể định danh độc lập.</li>
       
           <li className="list-none">Chức năng: [response] - [Danh Cơ][Noun Base] đảm nhận nhiệm vụ làm thành phần nền tảng ở đầu câu để định danh cho một sự việc.</li>
       
@@ -143,7 +143,7 @@ export default function Respond(): React.JSX.Element {
           <li>We need a [responsive] customer support team.</li>
           <li className="margin-bottom-20 list-none">Chúng ta cần một đội ngũ hỗ trợ khách hàng [nhạy bén/phản hồi nhanh].</li>
       
-          <li className="list-none">Hình thái: [responsive] - [Động Cơ][Verb Base] biến đổi từ lõi hành động nguyên bản "respond" kết hợp thêm phần đuôi "-ive" để chuyển đổi bản chất sang chức năng mô tả đặc điểm dưới dạng từ đơn lẻ.</li>
+          <li className="list-none">Hình thái: [responsive] - [Diện Cơ][Modified Base] hình thành từ khối [Rễ Cơ][Root Base] nguyên bản "respond" mặc thêm hậu tố "-sive" để thay đổi diện mạo bên ngoài thành một khối cấp độ [Cơ][Base], chuyển đổi bản chất sang chức năng mô tả đặc điểm dưới dạng từ đơn lẻ.</li>
       
           <li className="list-none">Chức năng: [responsive] - [Tính Cơ][Adjective Base] kích hoạt cơ chế của bộ quét đặt ngay trước đối tượng "customer support team" để hiển thị đặc điểm của đối tượng đó.</li>
       
@@ -159,7 +159,7 @@ export default function Respond(): React.JSX.Element {
           <li>The system reacted [responsively] to the new update.</li>
           <li className="margin-bottom-20 list-none">Hệ thống đã phản ứng [một cách nhạy bén] với bản cập nhật mới.</li>
       
-          <li className="list-none">Hình thái: [responsively] - [Động Cơ][Verb Base] biến đổi từ lõi hành động nguyên bản "respond" kết hợp thêm phần đuôi "-ive" và đuôi "-ly" vào sau lõi hành động để chuyển đổi bản chất sang chức năng trạng dưới dạng từ đơn lẻ thông dụng.</li>
+          <li className="list-none">Hình thái: [responsively] - [Diện Cơ][Modified Base] hình thành từ khối [Rễ Cơ][Root Base] nguyên bản "respond" mặc thêm hậu tố "-sive" và "-ly" để thay đổi diện mạo bên ngoài thành một khối cấp độ [Cơ][Base], chuyển đổi bản chất sang chức năng trạng dưới dạng từ đơn lẻ thông dụng.</li>
       
           <li className="list-none">Chức năng: [responsively] - [Trạng Cơ][Adverb Base] thực thi vai trò làm thành phần bổ nghĩa đứng sau hành động "reacted" để xác định bối cảnh cách thức.</li>
       
@@ -750,7 +750,7 @@ export default function Respond(): React.JSX.Element {
           <li>I prefer a [responsive] software interface.</li>
           <li className="margin-bottom-20 list-none">Tôi thích một giao diện phần mềm [phản hồi nhanh/nhạy bén].</li>
       
-          <li className="list-none">Hình thái mới: [responsive] - [Động Cơ][Verb Base] biến đổi từ lõi hành động nguyên bản "respond" kết hợp thêm phần đuôi "-ive", thu gọn dưới dạng khối đặc điểm đã được cô đọng hoàn toàn về dạng một thành phần tính cơ đơn duy nhất.</li>
+          <li className="list-none">Hình thái: [responsive] - [Diện Cơ][Modified Base] hình thành từ khối [Rễ Cơ][Root Base] nguyên bản "respond" mặc thêm hậu tố "-sive" để thay đổi diện mạo bên ngoài thành một khối cấp độ [Cơ][Base], thu gọn dưới dạng khối đặc điểm đã được cô đọng hoàn toàn về dạng một thành phần tính cơ đơn duy nhất.</li>
       
           <li className="list-none">Chức năng mới: [responsive] - [Tính Cơ][Adjective Base] thiết lập vị trí ngay trước đối tượng để quét và hiển thị ngắn gọn đặc điểm của đối tượng đó.</li>
       
