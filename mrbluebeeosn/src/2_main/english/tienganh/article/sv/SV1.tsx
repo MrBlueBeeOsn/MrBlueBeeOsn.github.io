@@ -434,9 +434,9 @@ export default function SV1(): React.JSX.Element {
 			
 					<li>Phân tích Chức năng:</li>
 
-					<li className="list-none">Lớp trong: Khối {'{what they had discovered}'} đóng vai trò là một [Danh Câu][Noun Clause], neo ngay sau hành động discussing để làm [Danh Nhận] (đối tượng bị thảo luận) cho hành động đó.</li>
+					<li className="list-none">Lớp trong: Khối {'{what they had discovered}'} đóng vai trò là một [Danh Câu][Noun Clause], neo ngay sau hành động discussing để làm danh nhận cho hành động đó.</li>
 
-					<li className="list-none">Lớp ngoài: Toàn bộ khối cấu trúc [discussing {'{what they had discovered}'}] vận hành đồng bộ như một khối [<strong>Danh Cụm</strong>][<strong>Noun Phrase</strong>] lớn, đứng ngay sau [Thời-Thuần Động Cơ] avoided nhằm làm [Danh Nhận] thực thi (đón nhận hành động "né tránh") cho [Danh Chủ] He.</li>
+					<li className="list-none">Lớp ngoài: Toàn bộ khối cấu trúc [discussing {'{what they had discovered}'}] vận hành đồng bộ như một khối [<strong>Danh Cụm</strong>][<strong>Noun Phrase</strong>] lớn, đứng ngay sau [Động Cơ][Verb Base] chính nhằm làm [Danh Nhận][Noun Object] chịu sự điều phối trực tiếp từ hành động của [Danh Chủ][Noun Subject] He.</li>
 			
 				</ul>
 
@@ -444,7 +444,7 @@ export default function SV1(): React.JSX.Element {
 
 			<h4 className="margin-y-40">2. [Tính Cụm][Adjective Phrase]</h4>
 
-			<p className="text-indent-whole">Khối [Tính Cụm] bao ngoài chứa một khối chức năng độc lập nằm sâu bên trong để cùng tham gia mô tả đặc điểm cho Danh Chủ.</p>
+			<p className="text-indent-whole">Khối [Tính Cụm][Adjective Phrase] bao ngoài chứa một khối chức năng độc lập nằm sâu bên trong để cùng tham gia mô tả đặc điểm cho danh chủ.</p>
 			
 				<ul className="list-square">
 			
@@ -452,12 +452,12 @@ export default function SV1(): React.JSX.Element {
 					<li className="margin-bottom-20 list-none">Bài báo [về {'{cách cô ấy thành công}'}] rất truyền cảm hứng.</li>
 
 					<li>Phân tích Hình thái:</li>
-					<li className="list-none">Khối tổng thể bao ngoài [about {'{how she succeeded}'}] là một [Tầng Giới Cụm][Tiered Prepositional Phrase].</li>
-					<li className="margin-bottom-20 list-none">Khối lồng bên trong {'{how she succeeded}'} là một [Hiển-Liên Động Câu][Connector Verb Clause] có chứa hệ trục S + V, bắt đầu bằng [Liên Cơ][Connector Base] "how".</li>
+					<li className="list-none">Khối tổng thể bao ngoài [about {'{how she succeeded}'}] là một [Tầng Giới Cụm][Tiered Prepositional Phrase] bắt đầu bằng [Giới Cơ][Prepositional Base] about.</li>
+					<li className="margin-bottom-20 list-none">Khối lồng bên trong {'{how she succeeded}'} là một [Hiển-Liên Động Câu][Connector Verb Clause] có chứa hệ trục [S][V], bắt đầu bằng [Liên Cơ][Connector Base] "how", đóng vai trò cấu trúc của một [Phụ Câu][Dependent Clause].</li>
 			
 					<li>Phân tích Chức năng:</li>
-					<li className="list-none">Lớp trong: Khối {'{how she succeeded}'} đóng vai trò là một [Danh Câu][Noun Clause] đứng làm điểm tựa danh nhận chịu sự điều phối của [Giới Cơ] about.</li>
-					<li className="list-none">Lớp ngoài: Toàn bộ khối [about {'{how she succeeded}'}] đóng vai trò là một [<strong>Tính Cụm</strong>][<strong>Adjective Phrase</strong>] tổng thể bổ nghĩa cho danh cụm The article đứng trước nó.</li>
+					<li className="list-none">Lớp trong: Khối {'{how she succeeded}'} đóng vai trò là một [Danh Câu][Noun Clause] đứng làm điểm tựa danh nhận chịu sự điều phối của [Giới Cơ][Prepositional Base] about.</li>
+					<li className="list-none">Lớp ngoài: Toàn bộ khối [about {'{how she succeeded}'}] đóng vai trò là một [<strong>Tính Cụm</strong>][<strong>Adjective Phrase</strong>] tổng thể bổ nghĩa cho danh cơ The article đứng trước nó.</li>
 			
 				</ul>
 
@@ -465,7 +465,7 @@ export default function SV1(): React.JSX.Element {
 
 			<h4 className="margin-y-40">3. [Trạng Cụm][Adverb Phrase]</h4>
 					
-			<p className="text-indent-whole">Khối [Trạng Cụm] bao ngoài đảm nhận nhiệm vụ cung cấp hoàn cảnh, bên trong chứa một khối chức năng phụ thuộc để thiết lập mốc so sánh hoặc mốc giới hạn.</p>
+			<p className="text-indent-whole">Khối [Trạng Cụm][Adverb Phrase] bao ngoài đảm nhận nhiệm vụ cung cấp hoàn cảnh, bên trong chứa một khối chức năng phụ thuộc để thiết lập mốc so sánh hoặc mốc giới hạn.</p>
 			
 				<ul className="list-square">
 			
@@ -473,12 +473,12 @@ export default function SV1(): React.JSX.Element {
 					<li className="margin-bottom-20 list-none">Cô ấy đã đi bộ [chậm hơn {'{những gì chúng tôi kỳ vọng}'}].</li>
 
 					<li>Phân tích Hình thái:</li>
-					<li className="list-none">Khối tổng thể bao ngoài [slower {'{than we expected}'}] là một [Trạng Cụm][Adverb Phrase] chỉ cách thức và mức độ.</li>
-					<li className="margin-bottom-20 list-none">Khối lồng bên trong {'{than we expected}'} là một [Hiển-Liên Động Câu][Connector Verb Clause] có chứa hệ trục S + V (we expected), được bắt đầu và kết nối bằng [Liên Cơ][Connector Base] than.</li>
+					<li className="list-none">Khối tổng thể bao ngoài [slower {'{than we expected}'}] là một [Tầng Diện Cụm][Tiered Modified Phrase] hình thành từ khối [Rễ Cơ][Root Base] nguyên bản "slow" mặc thêm hậu tố "-er" để thay đổi diện mạo bên ngoài thành một khối cấp độ [Cơ][Base] chỉ cách thức và mức độ.</li>
+					<li className="margin-bottom-20 list-none">Khối lồng bên trong {'{than we expected}'} là một [Hiển-Liên Động Câu][Connector Verb Clause] có chứa hệ trục [S][V] (we expected), được bắt đầu và kết nối bằng [Liên Cơ][Connector Base] than, cấu tạo nên cấu trúc [Phụ Câu][Dependent Clause] phụ thuộc.</li>
 			
 					<li>Phân tích Chức năng:</li>
-					<li className="list-none">Lớp trong: Khối {'{than we expected}'} đóng vai trò là một [Trạng Câu][Adverb Clause] phụ thuộc, neo vào sau slower để làm rõ mức độ cho cấu trúc so sánh.</li>
-					<li className="list-none">Lớp ngoài: Toàn bộ khối cấu trúc [slower {'{than we expected}'}] vận hành đồng bộ như một [<strong>Trạng Cụm</strong>][<strong>Adverb Phrase</strong>] tổng thể gắn sau một [Thời-Thuần Động Cơ][Tense-Bare Verb Base] walked để bổ nghĩa và làm rõ hoàn cảnh cách thức hành động được thực hiện.</li>
+					<li className="list-none">Lớp trong: Khối {'{than we expected}'} đóng vai trò là một [Trạng Câu][Adverb Clause] phụ thuộc, neo vào sau trạng cơ dạng so sánh slower để làm rõ mức độ cho cấu trúc so sánh.</li>
+					<li className="list-none">Lớp ngoài: Toàn bộ khối cấu trúc [slower {'{than we expected}'}] vận hành đồng bộ như một [<strong>Trạng Cụm</strong>][<strong>Adverb Phrase</strong>] tổng thể gắn sau [Động Cơ][Verb Base] chính nhằm làm rõ hoàn cảnh cách thức hành động được thực hiện.</li>
 			
 				</ul>
 
@@ -488,105 +488,103 @@ export default function SV1(): React.JSX.Element {
 
 			<h3 className="margin-y-50 text-center">VII. Paraphrasing: Nghệ Thuật Thay Khối Cùng Chức Năng</h3>
 
-			<p>Khi tư duy hình khối Cơ - Cụm - Câu đã trở thành bản năng, kỹ thuật viết lại câu [paraphrasing] không còn là việc đổi yếu tố đồng nghĩa một cách may rủi hay xáo trộn trật tự một cách khiên cưỡng. Việc làm mới câu văn giờ đây thực chất là một bài toán hình học sắp xếp module: Thay đổi Cấp Độ cấu trúc nhưng giữ nguyên vẹn Chức Năng ở cùng một vị trí neo.</p>
+			<p>Khi tư duy hình khối [Cơ][Base] - [Cụm][Phrase] - [Câu][Clause] đã trở thành bản năng, kỹ thuật viết lại câu [paraphrasing] không còn là việc đổi yếu tố cấu trúc một cách khiên cưỡng. Việc làm mới câu văn giờ đây thực chất là một bài toán hình học sắp xếp module: Thay đổi Cấp Độ cấu trúc nhưng giữ nguyên vẹn Chức Năng ở cùng một vị trí neo.</p>
 
-			<p>Chỉ cần xác định vị trí đó đang đảm nhận chức năng gì (Danh, Tính, hay Trạng), người học có toàn quyền nhấc một khối Cơ ra và đặt một khối Động Cụm, [Giới Cụm] hoặc một khối [Động Câu] vào để thế chỗ. Cấu trúc tổng thể của Câu lớn hoàn toàn không bị phá vỡ hay xáo trộn.</p>
+			<p>Chỉ cần xác định vị trí đó đang đảm nhận chức năng gì thông qua việc phối hợp cùng ma trận [Danh] - [Tính] - [Trạng], người học có toàn quyền nhấc một khối [Cơ][Base] ra và đặt một khối [Cụm][Phrase] như [Động Cụm][Verb Phrase], [Giới Cụm][Prepositional Phrase] hoặc một khối [Câu][Clause] như [Động Câu][Verb Clause] vào để thế chỗ. Cấu trúc tổng thể của [Câu Lớn][Sentence] hoàn toàn không bị phá vỡ hay xáo trộn.</p>
 
-			<p>Hãy xem cách chúng ta biến đổi linh hoạt một thông điệp thông qua việc hoán đổi các khối cấu trúc cùng giữ <strong>Chức năng Trạng</strong>:</p>
+			<p>Kỹ thuật dịch chuyển khối cùng chức năng này giúp người học tự do thực hiện việc chuyển đổi mượt mà giữa [Động][Verb], [Giới][Preposition] và [Câu][Clause] theo ý muốn. Hãy xem cách chúng ta biến đổi linh hoạt một thông điệp thông qua việc hoán đổi các khối cấu trúc cùng giữ Chức năng [Trạng]:</p>
 
 
-			<p className="margin-top-20 text-indent-whole"><strong>Cấp độ Cơ</strong>:</p>
+			<p className="margin-top-20 text-indent-whole">Cấp độ [Cơ][Base]:</p>
 			
 				<ul className="list-square">
 			
 					<li>We arrived [late].</li>
 					<li className="margin-bottom-20 list-none">Chúng tôi đã đến [muộn].</li>
 			
-					<li className="list-none">→ Sử dụng [Trạng Cơ][Adverb Base] là [late].</li>
+					<li className="list-none">➔ Sử dụng khối [late] - [Trạng Cơ][Adverb Base].</li>
 			
 				</ul>
 
 
-			<p className="margin-top-20 text-indent-whole"><strong>Cấp độ Động Cụm</strong>:</p>
+			<p className="margin-top-20 text-indent-whole">Cấp độ [Cụm][Phrase] - [Động Cụm][Verb Phrase]:</p>
 			
 				<ul className="list-square">
 			
 					<li>We arrived [to help our friends].</li>
 					<li className="margin-bottom-20 list-none">Chúng tôi đã đến [để giúp đỡ bạn bè của chúng tôi].</li>
 			
-					<li className="list-none">→ Đặt khối [Động Cụm][Verb Phrase] giữ chức năng [Trạng Cụm][Adverb Phrase] vào thế chỗ nhằm làm rõ mục đích.</li>
+					<li className="list-none">➔ Đặt khối [to help our friends] - [Hạt Thuần Động Cụm][Particle Bare Verb Phrase] vào thế chỗ, đóng vai trò là một [Trạng Cụm][Adverb Phrase] nhằm làm rõ mục đích cho [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "arrived" trước đó.</li>
 			
 				</ul>
 			
 			
-			<p className="margin-top-20 text-indent-whole"><strong>Cấp độ Giới Cụm</strong>:</p>
+			<p className="margin-top-20 text-indent-whole">Cấp độ [Cụm][Phrase] - [Giới Cụm][Prepositional Phrase]:</p>
 			
 				<ul className="list-square">
 			
 					<li>We arrived [at noon].</li>
 					<li className="margin-bottom-20 list-none">Chúng tôi đã đến [vào buổi trưa].</li>
 			
-					<li className="list-none">→ Đặt khối [Giới Cụm][Prepositional Phrase] giữ chức năng [Trạng Cụm][Adverb Phrase] vào vị trí neo để cung cấp mốc thời gian.</li>
+					<li className="list-none">➔ Đặt khối [at noon] - [Giới Cụm][Prepositional Phrase] vào vị trí neo, đóng vai trò là một [Trạng Cụm][Adverb Phrase] chịu trách nhiệm cung cấp mốc thời gian diễn ra sự việc.</li>
 			
 				</ul>
 			
 			
-			<p className="margin-top-20 text-indent-whole"><strong>Cấp độ Câu</strong>:</p>
+			<p className="margin-top-20 text-indent-whole">Cấp độ [Câu][Clause]:</p>
 			
 				<ul className="list-square">
 			
 					<li>We arrived [after the rain stopped].</li>
 					<li className="margin-bottom-20 list-none">Chúng tôi đã đến [sau khi cơn mưa tạnh].</li>
 			
-					<li className="list-none">→ Thay thế bằng một khối [Hiển-Liên Động Câu][Connector Verb Clause] giữ chức năng [Trạng Câu][Adverb Clause] có chứa hệ trục S + V, liên kết bởi [Liên Cơ][Connector Base] "after".</li>
+					<li className="list-none">➔ Đặt khối [after the rain stopped] - [Hiển-Liên Động Câu][Connector Verb Clause] giữ chức năng [Trạng Câu][Adverb Clause] có chứa hệ trục [S][V].</li>
 			
 				</ul>
 			
 
-			<p className="margin-top-20">Tương tự với việc thay khối cùng giữ <strong>Chức năng Danh</strong> làm Danh Chủ:</p>
+			<p className="margin-top-20">Tương tự với việc thay khối cùng giữ Chức năng [Danh] làm [Danh Chủ][Noun Subject]:</p>
 
-			<p className="margin-top-20 text-indent-whole"><strong>Cấp độ Cơ</strong>:</p>
+			<p className="margin-top-20 text-indent-whole">Cấp độ [Cơ][Base]:</p>
 			
 				<ul className="list-square">
 			
 					<li>[Knowledge] is power.</li>
-					<li className="margin-bottom-20 list-none">[Tri thức] tạo nên sức mạnh.</li>
+					<li className="margin-bottom-20 list-none">[Tri thức] là sức mạnh.</li>
 			
-					<li className="list-none">→ Khối [Danh Cơ][Noun Base] đóng vai trò Danh Chủ.</li>
+					<li className="list-none">➔ Khối [Knowledge] - [Diện Cơ][Modified Base] hình thành từ khối [Rễ Cơ][Root Base] nguyên bản "know" mặc thêm hậu tố "-ledge" để thay đổi diện mạo bên ngoài thành một khối cấp độ [Cơ][Base], giữ chức năng [Danh Cơ][Noun Base] đóng vai trò làm [Danh Chủ][Noun Subject].</li>
 			
 				</ul>
 			
 			
-			<p className="margin-top-20 text-indent-whole"><strong>Cấp độ Động Cụm</strong>:</p>
+			<p className="margin-top-20 text-indent-whole">Cấp độ [Cụm][Phrase]:</p>
 			
 				<ul className="list-square">
 			
-					<li>[Gaining knowledge] is power.</li>
-					<li className="margin-bottom-20 list-none">[Việc tích lũy tri thức] tạo nên sức mạnh.</li>
+					<li>[Learning a new language] is a huge advantage.</li>
+					<li className="margin-bottom-20 list-none">[Việc học một ngôn ngữ mới] là một lợi thế lớn.</li>
 			
-					<li className="list-none">→ Thay thế bằng khối [Động Cụm][Verb Phrase] làm chức năng [Danh Cụm][Noun Phrase] đóng vai trò Danh Chủ.</li>
+					<li className="list-none">➔ Đặt khối [Learning a new language] - [Tiếp Động Cụm][Progressive Verb Phrase] giữ chức năng [Danh Cụm][Noun Phrase] đóng vai trò làm [Danh Chủ][Noun Subject].</li>
 			
 				</ul>
 			
 			
-			<p className="margin-top-20 text-indent-whole"><strong>Cấp độ Câu</strong>:</p>
+			<p className="margin-top-20 text-indent-whole">Cấp độ [Câu][Clause]:</p>
 			
 				<ul className="list-square">
 			
 					<li>[What you know] is power.</li>
 					<li className="margin-bottom-20 list-none">[Những gì bạn biết] tạo nên sức mạnh.</li>
 			
-					<li className="list-none">→ Nâng cấp lên khối [Hiển-Liên Động Câu][Connector Verb Clause] làm chức năng [Danh Câu][Noun Clause] đóng vai trò Danh Chủ, bắt đầu bằng [Liên Cơ][Connector Base] "What".</li>
+					<li className="list-none">➔ Đặt khối [What you know] - [Hiển-Liên Động Câu][Connector Verb Clause] giữ chức năng [Danh Câu][Noun Clause] đóng vai trò làm [Danh Chủ][Noun Subject].</li>
 			
 				</ul>
 			
 			
 			
-			<p className="margin-top-20">Kỹ thuật dịch chuyển khối cùng chức năng này mang lại sự chủ động tuyệt đối khi viết. Thay vì ghi nhớ các công thức biến đổi máy móc, bạn chỉ cần nhìn câu văn dưới dạng các hộp hình khối độc lập và tự do nâng cấp từ Cơ lên Cụm, hoặc chuyển đổi mượt mà giữa Động, Giới và Câu theo ý muốn.</p>
+			<p className="margin-top-20">Kỹ thuật dịch chuyển khối cùng chức năng này mang lại sự chủ động tuyệt đối khi viết. Thay vì ghi nhớ các công thức biến đổi máy móc, bạn chỉ cần nhìn câu văn dưới dạng các hộp hình khối độc lập và tự do nâng cấp từ [Cơ][Base] lên [Cụm][Phrase], hoặc chuyển đổi mượt mà giữa [Động][Verb], [Giới][Preposition] và [Câu][Clause] theo ý muốn.</p>
 
-			<p>Hệ thống Cơ - Cụm - Câu phối hợp cùng ma trận Danh - Tính - Trạng chính là chiếc chìa khóa vạn năng giúp quét cấu trúc câu với tốc độ ánh sáng để đạt đến phản xạ tự nhiên:</p>
-
-			<p>Nhìn hình thái → Định vị trí → Hiểu bản chất!</p>
+			<p>Hệ Trục Tọa Độ Quy Tắc [3C] phối hợp cùng ma trận [Danh] - [Tính] - [Trạng] chính là chiếc chìa khóa vạn năng giúp quét cấu trúc câu với tốc độ ánh sáng để đạt đến phản xạ tự nhiên: Nhìn hình thái ➔ Định vị trí ➔ Hiểu bản chất!</p>
 
 			<div className="viewcounter">
 			
