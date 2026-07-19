@@ -15,9 +15,9 @@ export default function ThreeDC7(): React.ReactElement {
 
 		<article>
 		
-			<h4><HashLink smooth to="/tieng-anh#tieng-anh-terms"><mark className="highlight-tertiary-padding-4-8">Tiếng Anh</mark></HashLink></h4>
+			<h4><HashLink smooth to="/tieng-anh#functional-thinking-terms"><mark className="highlight-tertiary-padding-4-8">Functional Thinking</mark></HashLink></h4>
 
-			<h1 className="margin-y-50 text-center">Three DC
+			<h1 className="margin-y-50 text-center">[BỘ 3 PHỤ KHỐI]
 												
 				<sup><HashLink smooth to="/tieng-anh/three-dc-1">&nbsp;1&nbsp;</HashLink>
 				</sup>

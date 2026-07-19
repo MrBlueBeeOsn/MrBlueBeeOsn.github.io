@@ -15,9 +15,9 @@ export default function ThreeDC1(): React.ReactElement {
 
 		<article>
 		
-			<h4><HashLink smooth to="/tieng-anh#tieng-anh-terms"><mark className="highlight-tertiary-padding-4-8">Tiếng Anh</mark></HashLink></h4>
+			<h4><HashLink smooth to="/tieng-anh#functional-thinking-terms"><mark className="highlight-tertiary-padding-4-8">Functional Thinking</mark></HashLink></h4>
 
-			<h1 className="margin-y-50 text-center">Three DC
+			<h1 className="margin-y-50 text-center">[BỘ 3 PHỤ KHỐI]
 												
 				<sup><HashLink smooth to="/tieng-anh/three-dc-1">&nbsp;1&nbsp;</HashLink>
 				</sup>
@@ -48,13 +48,11 @@ export default function ThreeDC1(): React.ReactElement {
 
 			</h1>
 
-			<h4 className="margin-bottom-30 text-center">BÍ QUYẾT LÀM CHỦ "BỘ 3 PHỤ CÂU" VÀ HỆ THỐNG ĐỘNG LỰC HỌC TIẾNG ANH LÊN TẦM ADVANCED</h4>
+			<h4 className="margin-bottom-30 text-center">BÍ QUYẾT LÀM CHỦ "[BỘ 3 PHỤ KHỐI]" VÀ HỆ THỐNG ĐỘNG LỰC HỌC TIẾNG ANH LÊN TẦM ADVANCED</h4>
 
-			<p>Khi mới học tiếng Anh, chúng ta thường có xu hướng tư duy theo từng thành phần đơn lẻ rồi lắp ghép chúng lại thành những Câu lớn ngắn ngủi, rời rạc. Tuy nhiên, để chạm đến ngưỡng <strong>Advanced English</strong> – giao tiếp mượt mà và viết lách sắc bén như người bản ngữ – bạn bắt buộc phải chuyển mình sang tư duy theo <strong>cụm khối</strong>.</p>
+			<p>Khi mới học tiếng Anh, chúng ta thường có xu hướng tư duy theo từng thành phần đơn lẻ rồi lắp ghép chúng lại thành những câu ngắn ngủi, rời rạc. Tuy nhiên, để chạm đến ngưỡng <strong>Advanced English</strong> – giao tiếp mượt mà và viết lách sắc bén – bạn bắt buộc phải chuyển mình sang tư duy theo cụm khối.</p>
 
-			<p>Chìa khóa vàng để thực hiện bước chuyển mình đó chính là làm chủ mối quan hệ giữa <strong>Hình thái khối hành động</strong> / <strong>khối quan hệ</strong> và <strong>Chức năng vận hành</strong> của chúng trong câu.</p>
-
-			<p>Bài viết này sẽ là một cẩm nang toàn diện, giúp bạn thay đổi hoàn toàn thế giới quan về cấu trúc tiếng Anh thông qua hệ thống tư duy hai chiều Ngang - Dọc tối giản và logic nhất.</p>
+			<p>Chìa khóa vàng để thực hiện bước chuyển mình đó chính là làm chủ mối quan hệ giữa <strong>Hình thái khối hành động</strong> / <strong>khối quan hệ</strong> và <strong>Chức năng vận hành</strong> của chúng trong câu. Bài viết này sẽ là một cẩm nang toàn diện, giúp bạn thay đổi hoàn toàn thế giới quan về cấu trúc tiếng Anh thông qua hệ thống tư duy hai chiều Ngang - Dọc tối giản và logic nhất.</p>
 
 			
 		
@@ -62,480 +60,576 @@ export default function ThreeDC1(): React.ReactElement {
 
 			<h3 className="margin-y-50 text-center">I. HỆ THỐNG TƯ DUY HAI CHIỀU: HÌNH THÁI TRƯỚC, CHỨC NĂNG SAU</h3>
 
-			<p>Để bẻ khóa tiếng Anh nâng cao, người học cần nhìn nhận một khối biểu hiện dựa trên <strong>Hình thái biểu hiện</strong> của nó trước, sau đó mới xác định <strong>Chức năng</strong> dựa vào vị trí đứng trong câu.</p>
-
-			<p>Hệ thống này được đồng bộ hóa một cách nhất quán theo hai trục:</p>
+			<p>Để bẻ khóa tiếng Anh nâng cao, người học cần nhìn nhận một khối biểu hiện dựa trên Hình thái biểu hiện của nó trước, sau đó mới xác định Chức năng dựa vào vị trí đứng trong câu. Hệ thống này được đồng bộ hóa một cách nhất quán theo hai trục:</p>
 			
 				<ul className="list-square">
 			
-					<li><strong>Chiều dọc</strong> – <strong>4 Cấp độ Hình thái</strong>:</li>
-					<li className="list-none">[Động Cơ][Verb Base] → [Động Cụm][Verb Phrase] → [Giới Cụm][Prepositional Phrase] → [Động Câu][Verb Clause].</li>
-					<li className="margin-bottom-20 list-none">Người học khi nhìn vào một câu chỉ cần nhận diện khối biểu hiện đang ở hình thái nào.</li>
+					<li>Chiều dọc – 4 Cấp độ Hình thái: [Động Cơ][Verb Base] → [Động Cụm][Verb Phrase] → [Giới Cụm][Prepositional Phrase] → [Động Câu][Verb Clause]. Người học khi nhìn vào một câu chỉ cần nhận diện khối biểu hiện đang ở hình thái nào.</li>
 			
-					<li><strong>Chiều ngang</strong> – <strong>3 Chức năng</strong>:</li>
-					<li className="list-none">Danh [Noun] / Tính [Adjective] / Trạng [Adverb].</li>
-					<li className="list-none">Tùy thuộc vào vị trí đứng, các <strong>Hình thái</strong> trên sẽ "<strong>hóa thân</strong>" để thực thi một trong ba chức năng này.</li>
+					<li>Chiều ngang – 3 Chức năng: [Danh][Noun] / [Tính][Adjective] / [Trạng][Adverb]. Tùy thuộc vào vị trí đứng, các Hình thái trên sẽ "hóa thân" để thực thi một trong ba chức năng này.</li>
 			
 				</ul>
 			
 
-			<p className="margin-top-20">Từ sự giao thoa này, chúng ta có sự phân cấp vận hành tiếng Anh toàn diện dưới đây (quy ước Cơ, Cụm, Câu luôn viết hoa khi ghép):</p>
-			
-				<ul className="list-square">
-			
-					<li><strong>Ở cấp độ [ĐỘNG CƠ]</strong>[<strong>Verb Base</strong>]:</li>
-					<li className="margin-bottom-20 list-none">Sinh ra [Danh Cơ][Noun Base], [Tính Cơ][Adjective Base], [Trạng Cơ][Adverb Base].</li>
-			
-					<li><strong>Ở cấp độ [ĐỘNG CỤM]</strong>[<strong>Verb Phrase</strong>]:</li>
-					<li className="margin-bottom-20 list-none">Sinh ra [Danh Cụm][Noun Phrase], [Tính Cụm][Adjective Phrase], [Trạng Cụm][Adverb Phrase].</li>
-
-					<li><strong>Ở cấp độ [GIỚI CỤM]</strong>[<strong>Prepositional Phrase</strong>]:</li>
-					<li className="margin-bottom-20 list-none">Sinh ra [Tính Cụm][Adjective Phrase], [Trạng Cụm][Adverb Phrase].</li>
-			
-					<li><strong>Ở cấp độ [ĐỘNG CÂU]</strong>[<strong>Verb Clause</strong>]:</li>
-					<li className="list-none">Sinh ra [Danh Câu][Noun Clause], [Tính Câu][Adjective Clause], [Trạng Câu][Adverb Clause].</li>
-			
-				</ul>
-
-
-			{/* II.  */}
-
-			<h3 className="margin-y-50 text-center">II. PHÂN PHÒNG HỆ THỐNG ĐỘNG CƠ VÀ CÁC CẤP ĐỘ VẬN HÀNH</h3>
-
-			<p>Để điều phối kỹ thuật chính xác, mọi tổ hợp hành động trong câu đều được vận hành dựa trên hệ thống phân loại [Động Cơ] nghiêm ngặt dưới đây:</p>
-
-			<ol>
-			
-					<li value="1">[<strong>Động Cơ</strong>][<strong>Verb Base</strong>]: speak, make, take</li>
-					<li className="margin-bottom-20 list-none">Hành động nguyên bản [Rễ Cơ][Root Base] (Class cha/Root Class) của mọi hành động, mang tính khái niệm thuần túy và chưa chứa thông tin thời gian.</li>
-			
-					<li value="2">[<strong>Thời Động Cơ</strong>][<strong>Tense Verb Base</strong>]: are, were, does, did, will, have</li>
-					<li className="margin-bottom-20 list-none">Đơn vị đơn lẻ chịu trách nhiệm xử lý bối cảnh thời gian cho toàn câu.</li>
-
-					<li value="3">[<strong>Thời Hoàn Động Cơ</strong>][<strong>Tense Perfect Verb Base</strong>]: have been, had been</li>
-					<li className="margin-bottom-20 list-none">Khối tổ hợp từ phức hợp phối hợp với nhau nhằm đóng vai trò xử lý bối cảnh thời gian sâu hoặc đa lớp.</li>
-			
-					<li value="4">[<strong>Tiếp, Hoàn Động Cơ</strong>][<strong>Progressive, Perfect  Verb Base</strong>]: speaking, made, taken (Dạng định hình đuôi V-ing hoặc trạng thái hoàn thành V3)</li>
-					<li className="margin-bottom-20 list-none">Đơn vị đại diện cho hành động thực thi lõi hoặc trạng thái vận động của thực thể.</li>
-
-					<li value="5">[<strong>Thái Động Cơ</strong>][<strong>Modal Verb Base</strong>]: can, should, must, may, might</li>
-					<li className="margin-bottom-20 list-none">Đơn vị xử lý chế độ, khả năng hoặc thái độ của chủ thể đối với hành động.</li>
-			
-					<li value="6">[<strong>Thời-Thuần Động Cơ</strong>][<strong>Tense-Bare Verb Base</strong>]: spoke, transformed, created, built</li>
-					<li className="list-none">Đơn vị tích hợp cả cấu hình Thời và hành động Thực trong một từ duy nhất, giúp câu văn cô đọng.</li>
-			
-				</ol>
-			
-
-			<p className="margin-top-20"><strong>Ví dụ về sự phối hợp phân loại Động Cơ</strong>:</p>
+			<p className="margin-top-20">Từ sự giao thoa này, chúng ta có sự phân cấp vận hành tiếng Anh toàn diện dưới đây:</p>
 			
 				<ul className="list-square">
 
-					<li>are speaking → [Thời Động Cơ] "are" + [Tiếp Động Cơ] "speaking"</li>
+					<li>Ở cấp độ [Động Cơ][Verb Base]: Sinh ra [Danh Cơ][Noun Base], [Tính Cơ][Adjective Base], [Trạng Cơ][Adverb Base].</li>
 			
-					<li>have been speaking → [Thời Hoàn Động Cơ] "have been" + [Tiếp Động Cơ] "speaking"</li>
+					<li>Ở cấp độ [Động Cụm][Verb Phrase]: Sinh ra [Danh Cụm][Noun Phrase], [Tính Cụm][Adjective Phrase], [Trạng Cụm][Adverb Phrase].</li>
 			
-					<li>can speak → [Áp-Thái Thuần Động Cơ] "can" + [Thuần Động Cơ] "speak"</li>
+					<li>Ở cấp độ [Giới Cụm][Prepositional Phrase]: Sinh ra [Tính Cụm][Adjective Phrase], [Trạng Cụm][Adverb Phrase].</li>
 
-					<li>spoke → [Thời-Thuần Động Cơ] (tích hợp quá khứ + hành động nói trong một từ)</li>
-			
-				</ul>
-			
-			
-			<p className="margin-top-20">Hãy cùng giải mã cách các cấp độ Hình thái thực hiện chức năng thông qua các ví dụ trực quan.</p>
-
-			<p><strong>Quy ước ký hiệu</strong>: Sử dụng dấu vuông [] để bao quanh ranh giới hình thái của cả câu tiếng Anh và câu dịch tương đương.</p>
-
-			
-			<h4 className="margin-y-40">1. Hình thái [Động Cơ][Verb Base]</h4>
-
-			<p className="text-indent-whole">Là đơn vị hành động hạt nhân nhỏ nhất, chỉ gồm đúng 1 từ.</p>
-
-			<p className="text-indent-whole">Vị trí đứng trong câu sẽ quyết định chức năng của từ hành động này:</p>
-
-
-			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 1</strong>: <strong>Sinh ra</strong> [<strong>Danh Cơ</strong>][<strong>Noun Base</strong>]:</p>
-			
-				<ul className="list-square">
-			
-					<li>[Walking] is healthy.</li>
-					<li className="margin-bottom-20 list-none">[Đi bộ] thì lành mạnh.</li>
-			
-					<li className="list-none">Hình thái: [Walking] - [Tiếp Động Cơ][Progressive Verb Base] bắt đầu từ [Động Cơ] nguyên bản ở dạng [Tiếp Động Cơ] biến hình đuôi "-ing" để thể hiện một khối hành động đơn lẻ.</li>
-			
-					<li className="list-none">Chức năng: [Walking] - [Danh Cơ][Noun Base] đóng vai trò làm [Danh Chủ] thực hiện hành động cho Câu lớn chịu sự quản lý thời gian của [Thời Động Cơ] "is".</li>
-			
-				</ul>
-			
-			
-			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 2</strong>: <strong>Sinh ra</strong> [<strong>Tính Cơ</strong>][<strong>Adjective Base</strong>]:</p>
-			
-				<ul className="list-square">
-			
-					<li>He bought a [used] car.</li>
-					<li className="margin-bottom-20 list-none">Anh ấy đã mua một chiếc xe [đã qua sử dụng].</li>
-			
-					<li className="list-none">Hình thái: [used] - [Hoàn Động Cơ][Perfect Verb Base] ở dạng [Hoàn Động Cơ] trạng thái V3 mô tả đặc điểm hạt nhân chỉ gồm đúng 1 từ.</li>
-			
-					<li className="list-none">Chức năng: [used] - [Tính Cơ][Adjective Base] đứng ngay trước một thực thể để biểu thị đặc tính và bổ nghĩa cho thực thể đó.</li>
-			
-				</ul>
-			
-			
-			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 3</strong>: <strong>Sinh ra</strong> [<strong>Trạng Cơ</strong>][<strong>Adverb Base</strong>]:</p>
-			
-				<ul className="list-square">
-			
-					<li>The leaves withered [exceedingly] fast.</li>
-					<li className="margin-bottom-20 list-none">Những chiếc lá đã héo úa nhanh [một cách vượt quá / cực kỳ].</li>
-			
-					<li className="list-none">Hình thái: [exceedingly] - [Diện Cơ][Modified Base] hình thành từ khối [Rễ Cơ][Root Base] nguyên bản "exceed" mặc thêm hậu tố "-ing" và "-ly" để thay đổi diện mạo bên ngoài thành một khối cấp độ [Cơ][Base], tạo thành khối biểu hiện hạt nhân đơn lẻ.</li>
-			
-					<li className="list-none">Chức năng: [exceedingly] - [Trạng Cơ][Adverb Base] đứng trước để biểu thị mức độ cực độ, tính chất vượt trội và bổ nghĩa trực tiếp cho từ mô tả đặc tính nhanh đứng liền phía sau.</li>
-			
-				</ul>
-			
-
-
-			<h4 className="margin-y-40">2. Hình thái [Động Cụm][Verb Phrase]</h4>
-
-			<p className="text-indent-whole">Là một khối hành động chứa nhiều từ kết hợp với nhau (như [Động Cơ] đi kèm [Danh Nhận] chịu tác động hoặc thành phần bổ nghĩa) nhưng chưa có cấu trúc câu con hoàn chỉnh.</p>
-
-			<p className="text-indent-whole">Khối [Động Cụm] này sẽ đảm nhận các vai trò:</p>
-
-
-			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 1</strong>: <strong>Sinh ra</strong> [<strong>Danh Cụm</strong>][<strong>Noun Phrase</strong>]:</p>
-			
-				<ul className="list-square">
-			
-					<li>They planned [to create new software].</li>
-					<li className="margin-bottom-20 list-none">Họ đã lên kế hoạch [tạo ra phần mềm mới]..</li>
-			
-					<li className="list-none">Hình thái: [to create new software] - [Hạt Thuần Động Cụm][Particle Bare Verb Phrase] cấu thành từ khối gồm nhiều từ kết hợp, bắt đầu bằng [Động Cơ] "create" ở dạng nguyên bản có "to".</li>
-			
-					<li className="list-none">Chức năng: [to create new software] - [Danh Cụm][Noun Phrase] làm khối [Danh Nhận] mục tiêu cần thực hiện, đứng sau chịu sự điều phối của [Thời-Thuần Động Cơ] "planned".</li>
-			
-				</ul>
-			
-			
-			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 2</strong>: <strong>Sinh ra</strong> [<strong>Tính Cụm</strong>][<strong>Adjective Phrase</strong>]:</p>
-			
-				<ul className="list-square">
-			
-					<li>The boy [standing near the gate] is my cousin.</li>
-					<li className="margin-bottom-20 list-none">Cậu bé [đang đứng gần cổng] là em họ tôi.</li>
-			
-					<li className="list-none">Hình thái: [standing near the gate] - [Tiếp Động Cụm][Progressive Verb Phrase] bao gồm một khối nhiều từ bắt đầu bằng một [Tiếp Động Cơ] dạng "-ing" và không chứa cấu trúc câu con độc lập.</li>
-			
-					<li className="list-none">Chức năng: [standing near the gate] - [Tính Cụm][Adjective Phrase] đứng ngay sau thực thể "The boy" để bổ nghĩa đặc điểm định danh cho thực thể đó.</li>
-			
-				</ul>
-			
-			
-			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 3</strong>: <strong>Sinh ra</strong> [<strong>Trạng Cụm</strong>][<strong>Adverb Phrase</strong>]:</p>
-			
-				<ul className="list-square">
-			
-					<li>We travel [to expand our horizons].</li>
-					<li className="margin-bottom-20 list-none">Chúng tôi đi du lịch [để mở rộng tầm mắt].</li>
-			
-					<li className="list-none">Hình thái: [to expand our horizons] - [Hạt Thuần Động Cụm][Particle Bare Verb Phrase] định hình bằng khối gồm nhiều từ bắt đầu bằng [Động Cơ] hướng đến mục đích "to expand".</li>
-			
-					<li className="list-none">Chức năng: [to expand our horizons] - [Trạng Cụm][Adverb Phrase] đứng cuối câu lớn nhằm giải thích bối cảnh mục đích cho hành động du lịch được vận hành bởi [Thời-Thuần Động Cơ] "travel".</li>
-			
-				</ul>
-
-
-			<h4 className="margin-y-40">3. Hình thái [GIỚI CỤM][Prepositional Phrase]</h4>
-
-			<p className="text-indent-whole">Là khối không bắt đầu bằng một từ hành động, mà được định hình bắt đầu bằng một giới cơ chỉ quan hệ không gian, thời gian, đặc điểm kết hợp với một [Danh Nhận] phía sau.</p>
-					
-			<p className="text-indent-whole">Hình thái [Giới Cụm] này chỉ tập trung hình thành nên hai chức năng bổ nghĩa:</p>
-
-			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 1</strong>: <strong>Sinh ra</strong> [<strong>Tính Cụm</strong>][<strong>Adjective Phrase</strong>]:</p>
-			
-				<ul className="list-square">
-			
-					<li>The woman [with the long hair] is an artist.</li>
-					<li className="margin-bottom-20 list-none">Người phụ nữ [với mái tóc dài] là một nghệ sĩ.</li>
-			
-					<li className="list-none">Hình thái: [with the long hair] - [Giới Cụm][Prepositional Phrase] là khối bắt đầu bằng giới cơ chỉ quan hệ sở hữu "with".</li>
-			
-					<li className="list-none">Chức năng: [with the long hair] - [Tính Cụm][Adjective Phrase] đứng ôm ngay sau thực thể "The woman" để bổ nghĩa đặc điểm nhận dạng cho thực thể đó.</li>
-			
-				</ul>
-			
-			
-			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 2</strong>: <strong>Sinh ra</strong> [<strong>Trạng Cụm</strong>][<strong>Adverb Phrase</strong>]:</p>
-			
-				<ul className="list-square">
-			
-					<li>We will meet [at midnight].</li>
-					<li className="margin-bottom-20 list-none">Chúng tôi sẽ gặp nhau [vào nửa đêm].</li>
-			
-					<li className="list-none">Hình thái: [at midnight] - [Giới Cụm][Prepositional Phrase] là khối bắt đầu bằng giới cơ chỉ quan hệ thời gian "at".</li>
-			
-					<li className="list-none">Chức năng: [at midnight] - [Trạng Cụm][Adverb Phrase] đứng ở sau để cung cảnh bối cảnh thời điểm cho sự việc gặp mặt được bổ trợ phối hợp cùng tổ hợp [Áp-Thái Thuần Động Cơ] "will" và [Động Cơ] gốc "meet".</li>
+					<li>Ở cấp độ [Động Câu][Verb Clause]: Sinh ra [Danh Câu][Noun Clause], [Tính Câu][Adjective Clause], [Trạng Câu][Adverb Clause].</li>
 			
 				</ul>
 
 
 
-			<h4 className="margin-y-40">4. Hình thái [Hiển-Liên Động Câu][Connector Verb Clause]</h4>
+			{/* II. */}
 
-			<p className="text-indent-whole">Là đơn vị hành động mạnh mẽ nhất vì chứa cấu trúc câu con hoàn chỉnh bên trong có [Danh Chủ] và các cấu hình [Động Cơ] riêng biệt:</p>
+			<h3 className="margin-y-50 text-center">II. HỆ THỐNG PHÂN LOẠI ĐỘNG CƠ PHỨC HỢP THEO NHÓM</h3>
 
 
-			<p className="text-indent-whole"><strong>Ví dụ 1</strong>: <strong>Sinh ra</strong> [<strong>Danh Câu</strong>][<strong>Noun Clause</strong>]:</p>
-			
-				<ul className="list-square">
-			
-					<li>I know [that she has been working hard].</li>
-					<li className="margin-bottom-20 list-none">Tôi biết [rằng cô ấy đã và đang làm việc chăm chỉ].</li>
-			
-					<li className="list-none">Hình thái: [that she has been working hard] - [Hiển-Liên Động Câu][Connector Verb Clause] sở hữu cấu trúc một câu con đầy đủ có [Danh Chủ] "she" và tổ hợp động cụm phối hợp giữa [Thời Hoàn Động Cơ] "has been" và [Tiếp Động Cơ][Progressive Verb Base] "working", dẫn dắt bởi [Liên Cơ][Connector Base] "that".</li>
-			
-					<li className="list-none">Chức năng: [that she has been working hard] - [Danh Câu][Noun Clause] làm khối [Danh Nhận] chịu tác động trực tiếp đứng sau điều phối của [Thời-Thuần Động Cơ] "know".</li>
-			
-				</ul>
-			
-			
-			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 2</strong>: <strong>Sinh ra</strong> [<strong>Tính Câu</strong>][<strong>Adjective Clause</strong>]:</p>
-			
-				<ul className="list-square">
-			
-					<li>The project [which they created last week] failed.</li>
-					<li className="margin-bottom-20 list-none">Dự án [mà họ đã tạo ra tuần trước] đã thất bại.</li>
-			
-					<li className="list-none">Hình thái: [which they created last week] - [Hiển-Liên Động Câu][Connector Verb Clause] mang cấu trúc câu con hoàn chỉnh có [Danh Chủ] "they" và [Thời-Thuần Động Cơ] "created", được liên kết bằng khối định danh tạo bởi [Liên Cơ][Connector Base] "which".</li>
-			
-					<li className="list-none">Chức năng: [which they created last week] - [Tính Câu][Adjective Clause] đứng ôm ngay sau thực thể "The project" để bổ nghĩa chi tiết cho thực thể đó.</li>
-			
-				</ul>
-			
-			
-			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 3</strong>: <strong>Sinh ra</strong> [<strong>Trạng Câu</strong>][<strong>Adverb Clause</strong>]:</p>
-			
-				<ul className="list-square">
-			
-					<li>They will celebrate [as soon as the results are announced].</li>
-					<li className="margin-bottom-20 list-none">Họ sẽ ăn mừng [ngay khi kết quả được công bố].</li>
-			
-					<li className="list-none">Hình thái: [as soon as the results are announced] - [Hiển-Liên Động Câu][Connector Verb Clause] vận hành như một khối chứa câu con hoàn chỉnh có [Danh Chủ] "the results" và tổ hợp động cụm phối hợp giữa [Thời Động Cơ] "are" và [Hoàn Động Cơ][Perfect Verb Base] "announced".</li>
-			
-					<li className="list-none">Chức năng: [as soon as the results are announced] - [Trạng Câu][Adverb Clause] bắt đầu bằng [Liên Cơ][Connector Base] thời gian phức hợp nhằm bổ nghĩa bối cảnh thời điểm cho hành động ăn mừng được định vị thái độ bởi [Áp-Thái Thuần Động Cơ] "will".</li>
-			
-				</ul>
+			<p>Dưới đây là sơ đồ bóc tách cách các phân loại [Động Cơ][Verb Base] phối hợp để tạo nên các cấu hình thời gian và thái độ khác nhau thông qua các nhóm chức năng chuyên biệt:</p>
+          
+      <p className="margin-top-20 text-indent-whole"><strong>Nhóm 1</strong>: [<strong>Thời Động Cơ</strong>][<strong>Tense Verb Base</strong>]</p>
 
+      <p className="text-indent-whole">Nhóm này dùng để chia mốc thời gian và trạng thái hoàn thành/tiếp diễn.</p>
+
+        <ul className="list-square">
+      
+          <li>be upgrading → [Thời] be (am/is/are, was/were) + [Tiếp Động Cơ] upgrading</li>
+
+          <li>have been restructuring → [Thời + Hoàn] have/has/had + been + [Tiếp Động Cơ] restructuring</li>
+      
+          <li>have validated → [Thời + Hoàn] have/has/had + validated</li>
+      
+          <li>pioneers, pioneered → [Thời-Thuần Động Cơ] Tích hợp</li>
+      
+        </ul>
+      
+      
+      <p className="margin-top-20 text-indent-whole"><strong>Nhóm 2</strong>: [<strong>Thuần Động Cơ</strong>][<strong>Bare Verb Base</strong>]</p>
+
+      <p className="text-indent-whole">Nhóm dùng dạng nguyên bản, không chia:</p>
+
+        <ul className="list-square">
+      
+          <li>to coordinate → [Hạt] to + [Thuần Động Cơ] coordinate</li>
+      
+          <li>did confirm → [Thời] did (Nhấn mạnh) + [Thuần Động Cơ] confirm</li>
+      
+        </ul>
+      
+
+      <p className="margin-top-20 text-indent-whole"><strong>Nhóm 3</strong>: [<strong>Ý-Thái Thuần Động Cơ</strong>][<strong>Soft-Modal Bare Verb Base</strong>]</p>
+
+      <p className="text-indent-whole">Nhóm tình huống lịch sự, gợi ý: would (nhã nhặn), should (gợi ý), could (khả năng nhẹ), might (khả năng thấp), ought to (khuyên bảo), had better (khuyên nhủ).</p>
+
+        <ul className="list-square">
+      
+          <li>should streamline → [Ý-Thái] should (gợi ý) + [Thuần Động Cơ] streamline</li>
+      
+          <li>could negotiate → [Ý-Thái] could (khả năng nhẹ) + [Thuần Động Cơ] negotiate</li>
+      
+        </ul>
+      
+
+      <p className="margin-top-20 text-indent-whole"><strong>Nhóm 4</strong>: [<strong>Áp-Thái Thuần Động Cơ</strong>][<strong>Assertive-Modal Bare Verb Base</strong>]</p>
+
+      <p className="text-indent-whole">Nhóm tình huống ép buộc, chắc chắn: will (cam kết), shall (chắc chắn), can (năng lực), must (ép buộc), have to (bắt buộc), may (khả năng).</p>
+
+        <ul className="list-square">
+      
+          <li>will implement → [Áp-Thái] will (cam kết) + [Thuần Động Cơ] implement</li>
+      
+          <li>must authorize → [Áp-Thái] must (ép buộc) + [Thuần Động Cơ] authorize</li>
+      
+        </ul>
+
+			
 
 			{/* III. */}
 
-			<h3 className="margin-y-50 text-center">III. HIỆN TƯỢNG [ẨN-LIÊN ĐỘNG CÂU][Zero-Connector Verb Clause]</h3>
+			<h3 className="margin-y-50 text-center">III. PHÂN HỆ [CƠ][BASE] (HỆ THỐNG 16 MỤC CỐT LÕI)</h3>
 
-			<p>Trong văn phong nói và viết thực tế của người bản ngữ, rất nhiều khối [Ẩn-Liên Động Câu][Zero-Connector Verb Clause] được lược bỏ hoàn toàn các thành phần liên kết (như [Liên Cơ][Connector Base]). Lúc này, khối biểu hiện có hình thái giống hệt như một câu con độc lập, nhưng về bản chất chúng không thể đứng một mình mà bắt buộc phải gắn kết chặt chẽ vào hệ thống để thực thi 3 chức năng thông qua các cấu hình cụ thể dưới đây:</p>
+			<p>Hệ thống biểu hiện hành động và thái độ ở cấp độ từ đơn lẻ hoặc tổ hợp tuyến tính tối giản được chuẩn hóa qua 16 mục hình thái dưới đây:</p>
+			
+				<ol>
+      
+          <li value="1">[<strong>Động Cơ</strong>][<strong>Verb Base</strong>]: analyze, innovate, transform</li>
+          <li className="margin-bottom-20 list-none">Hành động ở dạng [Rễ Cơ][Root Base] nguyên thủy nhất, chưa thêm bớt hay kết hợp với bất kỳ hành động nào khác.</li>
+      
+          <li value="2">[<strong>Hạt Động Cơ</strong>][<strong>Particle Verb Base</strong>]: to</li>
+          <li className="margin-bottom-20 list-none">[Hạt] "to" đơn lẻ đóng vai trò hạt nhân đầu tiên đứng trước mọi khối hành động để kích hoạt trạng thái nguyên bản.</li>
 
+          <li value="3">[<strong>Thời Động Cơ</strong>][<strong>Tense Verb Base</strong>]: does, did, is, has, was, am, are</li>
+          <li className="margin-bottom-20 list-none">Hành động đơn lẻ xuất hiện để mang năng lượng [Thời] gian / [Thời] trong câu.</li>
+      
+          <li value="4">[<strong>Ý-Thái Động Cơ</strong>][<strong>Soft-Modal Verb Base</strong>]: would, could, should, might, ought to, had better</li>
+          <li className="margin-bottom-20 list-none">Hành động chỉ [Thái] độ mang tính [Ý] nhị, có [Ý] tứ, mong muốn là thật nhưng cách nói nhường nhịn và triệt tiêu tính ép. Các khối phức đặc biệt "ought to" và "had better" được quét như một [Phức Ý-Thái Động Cơ] [Complex Soft-Modal Verb Base] thống nhất.</li>
 
-			<p className="margin-top-20"><strong>Ví dụ 1</strong>: [<strong>Danh Nhận</strong>][<strong>Noun Object</strong>]:</p>
-			
-				<ul className="list-square">
-			
-					<li>I think [you made a mistake].</li>
-					<li className="margin-bottom-20 list-none">Tôi nghĩ [bạn đã mắc sai lầm].</li>
-			
-					<li className="list-none">Hình thái: [you made a mistake] - [Ẩn-Liên Động Câu][Zero-Connector Verb Clause] chứa cấu trúc câu con hoàn chỉnh với [Danh Chủ] "you" và [Thời-Thuần Động Cơ] "made", hoàn toàn không có [Liên Cơ][Connector Base] "that" đứng trước.</li>
-			
-					<li className="list-none">Chức năng: [you made a mistake] - [Danh Câu][Noun Clause] đứng sau làm khối [Danh Nhận] chịu sự điều phối trực tiếp của [Thời-Thuần Động Cơ] "think".</li>
-			
-				</ul>
-			
-			
-			<p className="margin-top-20"><strong>Ví dụ 2</strong>: [<strong>Tính Câu</strong>][<strong>Adjective Clause</strong>]:</p>
-			
-				<ul className="list-square">
-			
-					<li>The movie [we watched yesterday] was amazing.</li>
-					<li className="margin-bottom-20 list-none">Bộ phim [chúng ta xem ngày hôm qua] thì rất tuyệt.</li>
-			
-					<li className="list-none">Hình thái: [we watched yesterday] - [Ẩn-Liên Động Câu][Zero-Connector Verb Clause] chứa cấu trúc câu con hoàn chỉnh với [Danh Chủ] "we" và [Thời-Thuần Động Cơ] "watched", đã ẩn đi [Liên Cơ][Connector Base] định danh "which" hoặc "that".</li>
-			
-					<li className="list-none">Chức năng: [we watched yesterday] - [Tính Câu][Adjective Clause] đứng ôm ngay sau thực thể "The movie" để bổ nghĩa chi tiết cho thực thể đó.</li>
-			
-				</ul>
-			
-			
-			<p className="margin-top-20"><strong>Ví dụ 3</strong>: [<strong>Trạng Câu</strong>][<strong>Adverb Clause</strong>]:</p>
-			
-				<ul className="list-square">
-			
-					<li>The higher you climb, [the harder you fall].</li>
-					<li className="margin-bottom-20 list-none">Bạn càng trèo cao, [bạn càng ngã đau].</li>
-			
-					<li className="list-none">Hình thái: [the harder you fall] - [Ẩn-Liên Động Câu][Zero-Connector Verb Clause] chứa cấu trúc câu con hoàn chỉnh với [Danh Chủ] "you" và [Thời-Thuần Động Cơ] "fall", không sử dụng [Liên Cơ][Connector Base] thông thường mà liên kết bằng cấu trúc tỷ lệ thuận song hành.</li>
-			
-					<li className="list-none">Chức năng: [the harder you fall] - [Trạng Câu][Adverb Clause] vận hành như một khối bối cảnh hệ quả tương quan, bổ nghĩa trực tiếp cho hành trình vận động ở vế đầu.</li>
-			
-				</ul>
-			
+          <li value="5">[<strong>Áp-Thái Động Cơ</strong>][<strong>Assertive-Modal Verb Base</strong>]: will, shall, can, must, have to, may</li>
+          <li className="margin-bottom-20 list-none">Hành động chỉ [Thái] độ mang tính trực diện, [Áp] đặt thực tế xuống, không chừa lối thoát cho người nghe. Khối phức đặc biệt "have to" được quét như một [Phức Áp-Thái Động Cơ] [Complex Assertive-Modal Verb Base] thống nhất.</li>
 
+          <li value="6">[<strong>Thuần Động Cơ</strong>][<strong>Bare Verb Base</strong>]: analyze, innovate, transform</li>
+          <li className="margin-bottom-20 list-none">Hành động đứng tự do một mình, hoàn toàn giải phóng và không có to đi kèm (thường đứng sau các hành động ở dạng [Ý-Thái][Soft-Modal] hay [Áp-Thái Động Cơ][Assertive-Modal Verb Base]).</li>
+      
+          <li value="7">[<strong>Hạt Thuần Động Cơ</strong>][<strong>Particle Bare Verb Base</strong>]: to analyze, to transform</li>
+          <li className="margin-bottom-20 list-none">Sự hợp nhất tuyến tính lấy tên phần tử đầu tiên [Hạt Động Cơ] kết hợp cùng hành động [Thuần] khiết phía sau.</li>
+
+          <li value="8">[<strong>Ý-Thái Thuần Động Cơ</strong>][<strong>Soft-Modal Bare Verb Base</strong>]: would transform, should analyze</li>
+          <li className="margin-bottom-20 list-none">Sự hợp nhất tuyến tính giữa [Thái] độ, [Ý] nhị, không ép và hành động [Thuần] khiết.</li>
+      
+          <li value="9">[<strong>Áp-Thái Thuần Động Cơ</strong>][<strong>Assertive-Modal Bare Verb Base</strong>]: will transform, can analyze</li>
+          <li className="margin-bottom-20 list-none">Sự hợp nhất tuyến tính giữa [Thái] độ, [Áp] đặt thực tế xuống và hành động [Thuần] khiết.</li>
+
+          <li value="10">[<strong>Thời Thuần Động Cơ</strong>][<strong>Tense Bare Verb Base</strong>]: did operate, does construct</li>
+          <li className="margin-bottom-20 list-none">Trạng thái [Thời] gian và hành động [Thuần] khiết song hành, được tách riêng biệt bằng một khoảng trắng trong câu.</li>
+
+          <li value="11">[<strong>Thời-Thuần Động Cơ</strong>][<strong>Tense-Bare Verb Base</strong>]: did analyze, does transform</li>
+          <li className="margin-bottom-20 list-none">Trạng thái [Thời] và hành động [Thuần] khiết song hành, được tách riêng biệt bằng một khoảng trắng trong câu.</li>
+      
+          <li value="12">[<strong>Tiếp Động Cơ</strong>][<strong>Progressive Verb Base</strong>]: analyzing, innovating, transforming</li>
+          <li className="margin-bottom-20 list-none">Hành động mang đuôi -ing thể hiện tính chất đang [Tiếp] diễn, kéo dài.</li>
+
+          <li value="13">[<strong>Hoàn Động Cơ</strong>][<strong>Perfect Verb Base</strong>]: analyzed, innovated, been, transformed</li>
+          <li className="margin-bottom-20 list-none">Hành động ở dạng cột 3 hoặc thêm đuôi -ed thể hiện tính chất đã trọn vẹn, [Hoàn] thành.</li>
+      
+          <li value="14">[<strong>Thời Tiếp Động Cơ</strong>][<strong>Tense Progressive Verb Base</strong>]: is analyzing, was transforming</li>
+          <li className="margin-bottom-20 list-none">Sự hợp nhất tuyến tính giữa hành động mang [Thời] gian và hành động mang tính [Tiếp] diễn.</li>
+
+          <li value="15">[<strong>Thời Hoàn Động Cơ</strong>][<strong>Tense Perfect Verb Base</strong>]: has analyzed, had transformed</li>
+          <li className="margin-bottom-20 list-none">Sự hợp nhất tuyến tính giữa hành động mang [Thời] và hành động mang tính [Hoàn] thành.</li>
+      
+          <li value="16">[<strong>Thời Hoàn Tiếp Động Cơ</strong>][<strong>Tense Perfect Progressive Verb Base</strong>]: has been analyzing, had been transforming</li>
+          <li className="list-none">Sự hợp nhất tuyến tính giữa ba lớp năng lượng [Thời] gian, [Hoàn] thành và [Tiếp] diễn.</li>
+      
+        </ol>
 
 			
 			{/* IV. */}
 
-			<h3 className="margin-y-50 text-center">IV. BẢN CHẤT PHÂN TẦNG VÀ NGUYÊN TẮC "ĐIỂM NEO"</h3>
+			<h3 className="margin-y-50 text-center">IV. PHÂN HỆ [CỤM][PHRASE]</h3>
+			
+			
+			<p><strong>Quy tắc cốt lõi</strong>:</p>
 
-			<p>Trong các cấu trúc câu nâng cao, các hình thái này không đứng rời rạc mà lồng ghép vào nhau như các module linh kiện. Người học bản ngữ luôn tư duy phân tầng bằng cách bao quát cả cấu trúc lồng ghép đa tầng giữa Động Cụm, [Giới Cụm] và Động Câu.</p>
-
-			<p>Khi thực hiện phân tầng, ranh giới ngoài cùng [] luôn đại diện cho khối bao quét tầng ngoài, và dấu {'{}'} sẽ bao quét khối lồng bên trong để thể hiện rõ mối quan hệ điều phối hệ thống.</p>
-
-
-			<h4 className="margin-y-40">1. [Danh Nhận][Noun Object]</h4>
-					
-			<p className="text-indent-whole">Hiện tượng này xảy ra khi một [Động Cụm][Verb Phrase] đóng vai trò [Danh Cụm] ở tầng ngoài (làm khối [Danh Nhận] mục tiêu cho [Động Cơ] điều phối của câu lớn), nhưng cấu trúc nội bộ của cụm đó lại chứa một [Hiển-Liên Động Câu][Connector Verb Clause] lồng ở tầng trong làm [Danh Nhận] chịu tác động cho chính [Động Cơ][Verb Base] dẫn dắt của cụm đó.</p>
-
-			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ thực tế</strong>:</p>
+			<p className="margin-top-20">Khi bất kỳ họ [Cơ][Base] nào (thuộc nhóm 16 mục trên) kéo theo các [Danh Nhận][Noun Object], [Trạng Cơ][Adverb Base], [Trạng Cụm][Adverb Phrase], hoặc [Trạng Câu][Adverb Clause] phía sau, toàn khối đó tự động chuyển đổi cấu trúc nội bộ và tái dán nhãn thành dạng [Cụm][Phrase] tương ứng của chính nó.</p>
 			
 				<ul className="list-square">
 			
-					<li>Câu lớn: We plan [to investigate {'{how the system failed}'}].</li>
-					<li className="margin-bottom-20 list-none">Chúng tôi có kế hoạch [điều tra {'{hệ thống đã lỗi như thế nào}'}].</li>
+					<li>Ví dụ 1: upgrading [Tiếp Động Cơ][Progressive Verb Base] + the system [Danh Nhận][Noun Object]</li>
+					<li className="margin-bottom-20 list-none">→ upgrading the system [Tiếp Động Cụm][Progressive Verb Phrase].</li>
 			
-					<li className="list-none">Hình thái: Khối bao ngoài [to investigate {'{how the system failed}'}] là một [Hạt Thuần Tầng Động Cụm][Particle Tiered Bare Verb Phrase] bắt đầu bằng [Hạt Động Cơ][Particle Verb Base] "to investigate". Bên trong bao gói {'{how the system failed}'} là một [Hiển-Liên Động Câu][Connector Verb Clause] tầng trong có [Danh Chủ] "the system" và [Thời-Thuần Động Cơ] "failed".</li>
+					<li>Ví dụ 2: to coordinate [Hạt Động Cơ][Particle Verb Base] + efficiently [Trạng Cơ][Adverb Base]</li>
+					<li className="margin-bottom-20 list-none">→ to coordinate efficiently [Hạt Động Cụm][Particle Verb Phrase].</li>
 			
-					<li className="list-none">Chức năng: Khối {'{how the system failed}'} bên trong đóng vai trò là [Danh Câu][Noun Clause] làm [Danh Nhận] chịu sự điều phối trực tiếp của [Hạt Động Cơ][Particle Verb Base] "to investigate". Toàn bộ khối hỗn hợp [to investigate {'{how the system failed}'}] vận hành với chức năng [<strong>Danh Cụm</strong>][<strong>Noun Phrase</strong>] tổng thể làm khối [Danh Nhận] đứng sau [Thời-Thuần Động Cơ] "plan".</li>
+					<li>Ví dụ 3: will implement [Áp-Thái Thuần Động Cơ][Assertive-Modal Bare Verb Base] + the strategy [Danh Nhận][Noun Object]</li>
+					<li className="list-none">→ will implement the strategy [Áp-Thái Thuần Động Cụm][Assertive-Modal Bare Verb Phrase].</li>
+			
+				</ul>
+			
+			<p className="margin-top-20">Hệ thống [Cụm][Phrase] vận hành như một thực thể mở rộng linh hoạt, giữ nguyên thuộc tính gốc của hạt nhân [Cơ][Base] nhưng mang theo các thành phần bổ trợ để hoàn chỉnh một khối ý niệm hành động lớn hơn trước khi định vị chức năng trong câu.</p>
+
+			{/* V. */}
+
+			<h3 className="margin-y-50 text-center">V. CÁC CẤP ĐỘ VẬN HÀNH THỰC TẾ QUA VÍ DỤ</h3>
+
+			
+			<h4 className="margin-y-40">1. Hình thái [ĐỘNG CƠ][VERB BASE]</h4>
+
+			<p className="text-indent-whole">Là đơn vị hành động hạt nhân nhỏ nhất, chỉ gồm đúng 1 từ. Vị trí đứng trong khối sẽ quyết định chức năng của khối hành động này:</p>
+
+
+			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 1</strong>: <strong>Sinh ra</strong> [<strong>DANH CƠ</strong>][<strong>NOUN BASE</strong>]:</p>
+			
+				<ul className="list-square">
+			
+					<li>[Jogging] strengthens the heart.</li>
+					<li className="margin-bottom-20 list-none">[Việc chạy bộ] làm khỏe cơ tim.</li>
+			
+					<li className="list-none">Hình thái: Khối [Jogging] - [Tiếp Động Cơ][Progressive Verb Base] hình thành từ khối [Rễ Cơ][Root Base] nguyên bản "jog" mặc thêm hậu tố "-ing" để thay đổi diện mạo bên ngoài thành một khối cấp độ [Cơ][Base] đại diện cho một hành động danh hóa cô đọng.</li>
+			
+					<li className="list-none">Chức năng: Khối [Jogging] - [Danh Cơ][Noun Base] đóng vai trò làm [Danh Chủ][Noun Subject] thực hiện hành động cho cả khối chịu sự quản lý thời gian của [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "strengthens".</li>
+			
+				</ul>
+			
+			
+			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 2</strong>: <strong>Sinh ra</strong> [<strong>TÍNH CƠ</strong>][<strong>ADJECTIVE BASE</strong>]:</p>
+			
+				<ul className="list-square">
+			
+					<li>We need a [customized] solution.</li>
+					<li className="margin-bottom-20 list-none">Chúng tôi cần một giải pháp [được thiết kế riêng].</li>
+			
+					<li className="list-none">Hình thái: Khối [customized] - [Hoàn Động Cơ][Perfect Verb Base] hình thành từ khối [Rễ Cơ][Root Base] nguyên bản "customize" mặc thêm hậu tố "-ed" để thay đổi diện mạo bên ngoài thành một khối cấp độ [Cơ][Base] mang đặc tính bị động, hoàn tất.</li>
+			
+					<li className="list-none">Chức năng: Khối [customized] - [Tính Cơ][Adjective Base] đứng ngay trước một thực thể để biểu thị đặc tính và bổ nghĩa cho thực thể đó.</li>
+			
+				</ul>
+			
+			
+			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 3</strong>: <strong>Sinh ra</strong> [<strong>TRẠNG CƠ</strong>][<strong>ADVERB BASE</strong>]:</p>
+			
+				<ul className="list-square">
+			
+					<li>The system failed [unexpectedly] fast.</li>
+					<li className="margin-bottom-20 list-none">Hệ thống đã trục trặc nhanh [một cách bất ngờ].</li>
+			
+					<li className="list-none">Hình thái: Khối [unexpectedly] - [Diện Cơ][Modified Base] hình thành từ khối [Rễ Cơ][Root Base] nguyên bản "expect" mặc thêm tiền tố phủ định "un-" cùng tổ hợp các hậu tố biến đổi trạng thái "-ed" và "-ly" để thay đổi diện mạo bên ngoài thành một khối cấp độ [Cơ][Base] biểu thị hoàn cảnh trạng thái đặc biệt.</li>
+			
+					<li className="list-none">Chức năng: Khối [unexpectedly] - [Trạng Cơ][Adverb Base] đứng trước để biểu thị mức độ, tính chất bối cảnh và bổ nghĩa trực tiếp cho từ mô tả đặc tính nhanh đứng liền phía sau.</li>
 			
 				</ul>
 			
 
 
-			<h4 className="margin-y-40">2. [Tính Cụm][Adjective Phrase]</h4>
-					
-			<p className="text-indent-whole">Hiện tượng này xảy ra khi một [Giới Cụm][Prepositional Phrase] đóng vai trò [Tính Cụm] ở tầng ngoài, nhưng thành phần [Danh Nhận] đứng sau giới cơ của nó lại được mở rộng bằng cả một [Hiển-Liên Động Câu][Connector Verb Clause] ở tầng trong.</p>
+			<h4 className="margin-y-40">2. Hình thái [ĐỘNG CỤM][VERB PHRASE]</h4>
 
-			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ thực tế</strong>:</p>
+			<p className="text-indent-whole">Là một khối hành động chứa nhiều từ kết hợp với nhau nhưng chưa có cấu trúc câu phức tạp hoàn chỉnh. Khối [Động Cụm][Verb Phrase] này sẽ đảm nhận các vai trò:</p>
+
+			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 1</strong>: <strong>Sinh ra</strong> [<strong>DANH CỤM</strong>][<strong>NOUN PHRASE</strong>] làm khối [Danh Chủ][Noun Subject]</p>
 			
 				<ul className="list-square">
 			
-					<li>Câu lớn: The report [about {'{what they discovered}'}] is confidential.</li>
-					<li className="margin-bottom-20 list-none">Bản báo cáo [về {'{những gì họ đã phát hiện}'}] thì được bảo mật.</li>
+					<li>[To secure this contract] demands exceptional negotiation skills.</li>
+					<li className="margin-bottom-20 list-none">[Đạt được hợp đồng này] đòi hỏi kỹ năng đàm phán xuất sắc.</li>
 			
-					<li className="list-none">Hình thái: Khối tổng thể [about {'{what they discovered}'}] là một [Tầng Giới Cụm][Tiered Prepositional Phrase] tầng ngoài, bắt đầu bằng giới cơ "about". Bên trong bao gói {'{what they discovered}'} là một [Hiển-Liên Động Câu][Connector Verb Clause] tầng trong có [Danh Chủ] "they" và [Thời-Thuần Động Cơ] "discovered".</li>
+					<li className="list-none">Hình thái: Khối [To secure this contract] - [Hạt Thuần Động Cụm][Particle Bare Verb Phrase] bắt đầu bằng [Hạt Thuần Động Cơ][Particle Bare Verb Base] "to secure" kéo theo một [Danh Nhận][Noun Object] phía sau.</li>
 			
-					<li className="list-none">Chức năng: Khối {'{what they discovered}'} bên trong đóng vai trò là [Danh Câu][Noun Clause] làm [Danh Nhận] chịu sự điều phối trực tiếp của giới cơ "about". Toàn bộ khối hỗn hợp [about {'{what they discovered}'}] vận hành với chức năng [<strong>Tính Cụm</strong>][<strong>Adjective Phrase</strong>] tổng thể để ôm sau bổ nghĩa định danh cho [Danh Cụm] "The report".</li>
+					<li className="list-none">Chức năng: Khối [To secure this contract] - [Danh Cụm][Noun Phrase] làm khối [Danh Chủ][Noun Subject] đứng đầu câu thực hiện hành động chính, điều phối [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "demands".</li>
+			
+				</ul>
+
+
+			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 1</strong>: <strong>Sinh ra</strong> [<strong>DANH CỤM</strong>][<strong>NOUN PHRASE</strong>] làm khối [Danh Nhận][Noun Object]</p>
+			
+				<ul className="list-square">
+			
+					<li>The management resolved [to liquidate the underperforming assets].</li>
+					<li className="margin-bottom-20 list-none">Ban quản lý đã quyết định [thanh lý các tài sản kém hiệu quả].</li>
+			
+					<li className="list-none">Hình thái: Khối [to liquidate the underperforming assets] - [Hạt Thuần Động Cụm][Particle Bare Verb Phrase] bắt đầu bằng [Hạt Thuần Động Cơ][Particle Bare Verb Base] "to liquidate" kéo theo một cụm [Danh Nhận][Noun Object] phức hợp phía sau.</li>
+			
+					<li className="list-none">Chức năng: Khối [to liquidate the underperforming assets] - [Danh Cụm][Noun Phrase] làm khối [Danh Nhận][Noun Object] mục tiêu cần thực hiện, đứng sau chịu sự điều phối của [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "resolved".</li>
 			
 				</ul>
 			
 			
-
-
-			<h4 className="margin-y-40">3. [Trạng Cụm][Adverb Phrase]</h4>
-					
-			<p className="text-indent-whole">Hiện tượng này xảy ra khi một [Giới Cụm][Prepositional Phrase] đóng vai trò [Trạng Cụm] ở tầng ngoài nhằm cung cấp bối cảnh nguyên nhân hoặc điều kiện, nhưng [Danh Nhận] đi sau giới cơ điều phối lại là một [Hiển-Liên Động Câu][Connector Verb Clause] hoàn chỉnh ở tầng trong.</p>
-
-			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ thực tế</strong>:</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 2</strong>: <strong>Sinh ra</strong> [<strong>TÍNH CỤM</strong>][<strong>ADJECTIVE PHRASE</strong>]:</p>
 			
 				<ul className="list-square">
 			
-					<li>Câu lớn: They succeeded [because of {'{how hard they worked}'}].</li>
-					<li className="margin-bottom-20 list-none">Họ đã thành công [bởi vì {'{họ đã làm việc chăm chỉ như thế nào}'}].</li>
+					<li>The officer [supervising the audit] detected a discrepancy.</li>
+					<li className="margin-bottom-20 list-none">Người viên chức [đang giám sát việc kiểm toán] đã phát hiện ra một sự bất nhất.</li>
 			
-					<li className="list-none">Hình thái: Khối tổng thể [because of {'{how hard they worked}'}] là một [Tầng Giới Cụm][Tiered Prepositional Phrase] tầng ngoài, được dẫn dắt bởi giới cơ phức hợp "because of". Bên trong bao gói {'{how hard they worked}'} là một [Hiển-Liên Động Câu][Connector Verb Clause] tầng trong chứa [Danh Chủ] "they" và [Thời-Thuần Động Cơ] hành động "worked".</li>
+					<li className="list-none">Hình thái: Khối [supervising the audit] - [Tiếp Động Cụm][Progressive Verb Phrase] bắt đầu bằng một [Tiếp Động Cơ][Progressive Verb Base] "supervising" kết hợp với một [Danh Nhận][Noun Object] phía sau.</li>
 			
-					<li className="list-none">Chức năng: Khối {'{how hard they worked}'} bên trong đóng vai trò là [Danh Câu][Noun Clause] làm [Danh Nhận] tiếp nhận quan hệ của giới cơ "because of". Toàn bộ khối hỗn hợp [because of {'{how hard they worked}'}] thực thi chức năng [<strong>Trạng Cụm</strong>][<strong>Adverb Phrase</strong>] tổng thể đứng cuối để bổ nghĩa hoàn cảnh nguyên nhân cho [Thời-Thuần Động Cơ] "succeeded".</li>
+					<li className="list-none">Chức năng: Khối [supervising the audit] - [Tính Cụm][Adjective Phrase] đứng ngay sau thực thể "The officer" để bổ nghĩa đặc điểm định danh cho thực thể đó.</li>
 			
 				</ul>
 			
 			
+			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 3</strong>: <strong>Sinh ra</strong> [<strong>TRẠNG CỤM</strong>][<strong>ADVERB PHRASE</strong>]:</p>
+			
+				<ul className="list-square">
+			
+					<li>He attends workshops [to refine his leadership style].</li>
+					<li className="margin-bottom-20 list-none">Anh ấy tham gia các hội thảo [để trau dồi phong cách lãnh đạo].</li>
+			
+					<li className="list-none">Hình thái: Khối [to refine his leadership style] - [Hạt Thuần Động Cụm][Particle Bare Verb Phrase] bắt đầu bằng [Hạt Thuần Động Cơ][Particle Bare Verb Base] "to refine" kéo theo một cụm [Danh Nhận][Noun Object] làm thành phần bổ trợ.</li>
+			
+					<li className="list-none">Chức năng: Khối [to refine his leadership style] - [Trạng Cụm][Adverb Phrase] đứng cuối nhằm giải thích bối cảnh mục đích cho hành động tham gia được vận hành bởi [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "attends".</li>
+			
+				</ul>
 
 
-			<h4 className="margin-y-40">Nguyên tắc "Điểm neo" cần nằm lòng:</h4>
+			<h4 className="margin-y-40">3. Hình thái [GIỚI CỤM][PREPOSITIONAL PHRASE]</h4>
+
+			<p className="text-indent-whole">Là khối không bắt đầu bằng một từ hành động, mà được định hình bắt đầu bằng một [Giới Cơ][Prepositional Base] chỉ quan hệ kết hợp với một [Danh Nhận][Noun Object] phía sau.</p>
+
+			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 1</strong>: <strong>Sinh ra</strong> [<strong>TÍNH CỤM</strong>][<strong>ADJECTIVE PHRASE</strong>]:</p>
 			
-				<ol>
+				<ul className="list-square">
 			
-					<li value="1"><strong>Dấu móc định vị</strong>:</li>
-					<li className="margin-bottom-20 list-none">Dấu móc luôn bao quanh cấu hình [Động Cơ] chịu trách nhiệm hoặc toàn bộ khối cụm/câu con để xác định ranh giới tư duy rõ ràng, không để các thành phần rơi tự do.</li>
+					<li>The office [on the top floor] has panoramic views.</li>
+					<li className="margin-bottom-20 list-none">Văn phòng [ở tầng trên cùng] có tầm nhìn toàn cảnh.</li>
 			
-					<li value="2"><strong>Dữ liệu cấu hình nội bộ</strong>:</li>
-					<li className="margin-bottom-20 list-none">Các yếu tố biến đổi thuộc về thời của hành động như -s/-es, -ed, -ing nằm bên trong dấu móc chỉ đại diện cho cấu hình kỹ thuật thuộc nhóm [Thời Động Cơ][Thời Hoàn Động Cơ], [Thuần Động Cơ] hoặc tích hợp [Thời-Thuần Động Cơ] của cả khối, hoàn toàn không làm thay đổi bản chất của Hình thái hay Chức năng của câu lớn.</li>
+					<li className="list-none">Hình thái: Khối [on the top floor] - [Giới Cụm][Prepositional Phrase] bắt đầu bằng [Giới Cơ][Prepositional Base] "on" liên kết quan hệ không gian trực tiếp với cụm [Danh Nhận][Noun Object] "the top floor".</li>
 			
-					<li value="3"><strong>Sự tách biệt điều phối</strong>:</li>
-					<li className="list-none">Nhóm [Động Cơ] điều khiển của cả Câu lớn hoặc giới cơ điều phối hệ thống luôn đóng vai trò là điểm neo trung tâm nắm giữ các khối [Danh Nhận] phụ thuộc phía sau.</li>
+					<li className="list-none">Chức năng: Khối [on the top floor] - [Tính Cụm][Adjective Phrase] đứng ôm sát ngay sau khối định danh "The office" để bổ nghĩa chỉ bối cảnh vị trí đặc trưng cho văn phòng đó.</li>
 			
-				</ol>
+				</ul>
+			
+			
+			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 2</strong>: <strong>Sinh ra</strong> [<strong>TRẠNG CỤM</strong>][<strong>ADVERB PHRASE</strong>]:</p>
+			
+				<ul className="list-square">
+			
+					<li>The system updates automatically [at midnight].</li>
+					<li className="margin-bottom-20 list-none">Hệ thống tự động cập nhật [vào lúc nửa đêm].</li>
+			
+					<li className="list-none">Hình thái: Khối [at midnight] - [Giới Cụm][Prepositional Phrase] bắt đầu bằng [Giới Cơ][Prepositional Base] "at" liên kết quan hệ thời gian trực tiếp với [Danh Nhận][Noun Object] "midnight".</li>
+			
+					<li className="list-none">Chức năng: Khối [at midnight] - [Trạng Cụm][Adverb Phrase] đứng cuối câu nhằm bổ nghĩa hoàn cảnh mốc thời gian diễn ra hành động cập nhật của hệ thống.</li>
+			
+				</ul>
+
+
+
+			<h4 className="margin-y-40">4. Hình thái [HIỂN-LIÊN ĐỘNG CÂU][CONNECTOR VERB CLAUSE]</h4>
+
+			<p className="text-indent-whole">Là đơn vị hành động mạnh mẽ nhất vì chứa cấu trúc khối hoàn chỉnh bên trong có [Danh Chủ][Noun Subject] và các cấu hình [Động Cơ][Verb Base] riêng biệt, đồng thời được dẫn dắt trực tiếp bởi một [Liên Cơ][Connector Base] tường minh:</p>
+
+
+			<p className="text-indent-whole"><strong>Ví dụ 1</strong>: <strong>Sinh ra</strong> [<strong>DANH CÂU</strong>][<strong>NOUN CLAUSE</strong>]:</p>
+			
+				<ul className="list-square">
+			
+					<li>The analysis revealed [that the algorithm possessed a bias].</li>
+					<li className="margin-bottom-20 list-none">Kết quả phân tích cho thấy [rằng thuật toán đã có một sự thiên vị].</li>
+			
+					<li className="list-none">Hình thái: Khối [that the algorithm possessed a bias] - [Hiển-Liên Động Câu][Connector Verb Clause] bắt đầu bằng [Liên Cơ][Connector Base] "that" kết hợp với cấu trúc một mệnh đề hoàn chỉnh có [Danh Chủ][Noun Subject] "the algorithm" và [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "possessed".</li>
+			
+					<li className="list-none">Chức năng: Khối [that the algorithm possessed a bias] - [Danh Câu][Noun Clause] làm khối [Danh Nhận][Noun Object] chịu tác động trực tiếp đứng sau điều phối của [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "revealed".</li>
+			
+				</ul>
+			
+			
+			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 2</strong>: <strong>Sinh ra</strong> [<strong>TÍNH CÂU</strong>][<strong>ADJECTIVE CLAUSE</strong>]:</p>
+			
+				<ul className="list-square">
+			
+					<li>The software [which the team deployed last night] crashed.</li>
+					<li className="margin-bottom-20 list-none">Phần mềm [mà đội ngũ đã triển khai đêm qua] đã gặp sự cố.</li>
+			
+					<li className="list-none">Hình thái: Khối [which the team deployed last night] - [Hiển-Liên Động Câu][Connector Verb Clause] bắt đầu bằng [Liên Cơ][Connector Base] quan hệ "which" kết hợp với cấu trúc một mệnh đề hoàn chỉnh có [Danh Chủ][Noun Subject] "the team" và [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "deployed".</li>
+			
+					<li className="list-none">Chức năng: Khối [which the team deployed last night] - [Tính Câu][Adjective Clause] đứng ôm ngay sau thực thể "The software" để bổ nghĩa chi tiết cho thực thể đó.</li>
+			
+				</ul>
+			
+			
+			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 3</strong>: <strong>Sinh ra</strong> [<strong>TRẠNG CÂU</strong>][<strong>ADVERB CLAUSE</strong>]:</p>
+			
+				<ul className="list-square">
+			
+					<li>We will halt production [unless the quality standard improves].</li>
+					<li className="margin-bottom-20 list-none">Chúng tôi sẽ dừng sản xuất [trừ khi tiêu chuẩn chất lượng cải thiện].</li>
+			
+					<li className="list-none">Hình thái: Khối [unless the quality standard improves] - [Hiển-Liên Động Câu][Connector Verb Clause] bắt đầu bằng [Liên Cơ][Connector Base] điều kiện "unless" kết hợp với cấu trúc mệnh đề hoàn chỉnh có [Danh Chủ][Noun Subject] "the quality standard" và [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "improves".</li>
+			
+					<li className="list-none">Chức năng: Khối [unless the quality standard improves] - [Trạng Câu][Adverb Clause] bổ nghĩa bối cảnh tình huống điều kiện cho hành động dừng được định vị bởi [Áp-Thái Động Cơ][Assertive-Modal Verb Base] "will".</li>
+			
+				</ul>
+
+
+			{/* VI. */}
+
+			<h3 className="margin-y-50 text-center">VI. HIỆN TƯỢNG [ẨN-LIÊN ĐỘNG CÂU][ZERO-CONNECTOR VERB CLAUSE]</h3>
+
+			<p>Trong thực tế, rất nhiều khối [Động Câu][Verb Clause] được lược bỏ hoàn toàn [Liên Cơ][Connector Base] dẫn dắt. Lúc này, khối biểu hiện có hình thái bề ngoài giống hệt như một câu độc lập, nhưng chúng bắt buộc phải gắn kết chặt chẽ vào hệ thống để thực thi các chức năng cốt lõi:</p>
+
+
+			<p className="margin-top-20"><strong>Ví dụ 1</strong>: [<strong>DANH CÂU</strong>][<strong>NOUN CLAUSE</strong>]:</p>
+
+			<p className="margin-top-20 text-indent-whole"><strong>Làm</strong> [<strong>Danh Chủ</strong>][<strong>Noun Subject</strong>]:</p>
+			
+				<ul className="list-square">
+			
+					<li>[The team fails to deliver the prototype] worries the stakeholders.</li>
+					<li className="margin-bottom-20 list-none">[Việc đội ngũ không giao được bản mẫu] làm các bên liên quan lo lắng.</li>
+			
+					<li className="list-none">Hình thái: Khối [The team fails to deliver the prototype] - [Ẩn-Liên Động Câu][Zero-Connector Verb Clause] mang cấu trúc một câu hoàn chỉnh nhưng thiếu vắng [Liên Cơ][Connector Base] mở đầu.</li>
+			
+					<li className="list-none">Chức năng: Khối [The team fails to deliver the prototype] thực thi chức năng [Danh Câu][Noun Clause] làm nhiệm vụ của một [Danh Chủ][Noun Subject] để điều phối [Thời-Thuần Động Cơ][Tense-Bare Verb Base] worries.</li>
+			
+				</ul>
+			
+
+			<p className="margin-top-20 text-indent-whole"><strong>Làm</strong> [<strong>Danh Nhận</strong>][<strong>Noun Object</strong>]:</p>
+			
+				<ul className="list-square">
+			
+					<li>The executive assumed [the board would approve the budget].</li>
+					<li className="margin-bottom-20 list-none">Vị giám đốc điều hành đã giả định [ban quản trị sẽ phê duyệt ngân sách].</li>
+			
+					<li className="list-none">Hình thái: Khối [the board would approve the budget] - [Ẩn-Liên Động Câu][Zero-Connector Verb Clause] lồng ghép trực tiếp đứng sau hành động chính mà không cần sự hỗ trợ của [Liên Cơ][Connector Base] "that".</li>
+			
+					<li className="list-none">Chức năng: Khối [the board would approve the budget] thực thi chức năng [Danh Câu][Noun Clause] làm nhiệm vụ của một [Danh Nhận][Noun Object] chịu tác động trực tiếp đứng sau sự điều phối của [Thời-Thuần Động Cơ][Tense-Bare Verb Base] assumed.</li>
+			
+				</ul>
+			
+			
+			<p className="margin-top-20"><strong>Ví dụ 2</strong>: [<strong>TÍNH CÂU</strong>][<strong>ADJECTIVE CLAUSE</strong>]:</p>
+			
+				<ul className="list-square">
+			
+					<li>The mentor [I consulted yesterday] provided invaluable advice.</li>
+					<li className="margin-bottom-20 list-none">Người cố vấn [tôi đã xin ý kiến ngày hôm qua] đã đưa ra lời khuyên vô giá.</li>
+			
+					<li className="list-none">Hình thái: Khối [I consulted yesterday] - [Ẩn-Liên Động Câu][Zero-Connector Verb Clause] có sự lược bỏ [Liên Cơ][Connector Base] dẫn dắt đối tượng nhưng vẫn đảm bảo cấu trúc chủ-vị hoàn chỉnh ở bên trong.</li>
+			
+					<li className="list-none">Chức năng: Khối [I consulted yesterday] thực thi chức năng [Tính Câu][Adjective Clause] đứng ôm ngay sau thực thể "The mentor" để bổ nghĩa đặc điểm định danh cho thực thể đó.</li>
+			
+				</ul>
+			
+			
+			<p className="margin-top-20"><strong>Ví dụ 3</strong>: [<strong>TRẠNG CÂU</strong>][<strong>ADVERB CLAUSE</strong>]:</p>
+			
+				<ul className="list-square">
+			
+					<li>The higher the pressure rises, [the faster the chemical reacts].</li>
+					<li className="margin-bottom-20 list-none">Áp suất càng tăng cao, [hóa chất càng phản ứng nhanh hơn].</li>
+			
+					<li className="list-none">Hình thái: Khối [the faster the chemical reacts] - [Ẩn-Liên Động Câu][Zero-Connector Verb Clause] mang cấu trúc so sánh lũy tiến song hành đặc trưng nhưng không sử dụng [Liên Cơ][Connector Base] phụ thuộc truyền thống.</li>
+			
+					<li className="list-none">Chức năng: Khối [the faster the chemical reacts] thực thi chức năng [Trạng Câu][Adverb Clause] đóng vai trò một khối bối cảnh tương quan hệ quả để bổ nghĩa bối cảnh hệ quả cho vế điều kiện phía trước.</li>
+			
+				</ul>
+			
+
+
+			
+			{/* VII. */}
+
+			<h3 className="margin-y-50 text-center">VII. BẢN CHẤT PHÂN [TẦNG][TIERED] VÀ NGUYÊN TẮC "ĐIỂM NEO"</h3>
+
+			<p>Trong các cấu trúc nâng cao, các hình thái lồng ghép vào nhau như các module linh kiện. Ranh giới ngoài cùng [] luôn đại diện cho khối bao quét tầng ngoài, và dấu {} sẽ bao quét khối lồng bên trong để thể hiện rõ mối quan hệ điều phối hệ thống.</p>
+
+
+			<h4 className="margin-y-40">1. [DANH CỤM][NOUN PHRASE]</h4>
+
+			<p className="text-indent-whole"><strong>Làm khối</strong> [<strong>Danh Chủ</strong>][<strong>Noun Subject</strong>]:</p>
+
+				<ul className="list-square">
+			
+					<li>[To understand {'{why the species went extinct}'}] demands scientific research.</li>
+					<li className="margin-bottom-20 list-none">[Thấu hiểu {'{tại sao loài này tuyệt chủng}'}] đòi hỏi các nghiên cứu khoa học.</li>
+			
+					<li className="list-none">Hình thái: Khối bao ngoài [To understand {'{why the species went extinct}'}] là một [Hạt Thuần Tầng Động Cụm][Particle Tiered Bare Verb Phrase] bắt đầu bằng [Hạt Thuần Động Cơ][Particle Bare Verb Base] "To understand". Bên trong bao gói {'{why the species went extinct}'} là một [Hiển-Liên Động Câu][Connector Verb Clause] dẫn dắt bằng biểu hiện nghi vấn "why".</li>
+			
+					<li className="list-none">Chức năng: Khối {'{why the species went extinct}'} bên trong đóng vai trò là [Danh Câu][Noun Clause] làm [Danh Nhận][Noun Object] chịu sự điều phối của [Thuần Động Cơ][Bare Verb Base] "understand". Toàn bộ khối hỗn hợp [To understand {'{why the species went extinct}'}] đóng vai trò tổng thể làm [<strong>Danh Chủ</strong>][<strong>Noun Subject</strong>] thực hiện hành động chính cho [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "demands".</li>
+			
+				</ul>
+
+
+			<p className="margin-top-20 text-indent-whole"><strong>Làm khối</strong> [<strong>Danh Nhận</strong>][<strong>Noun Object</strong>]:</p>
+			
+				<ul className="list-square">
+			
+					<li>The scientists hope [to demonstrate {'{how the drug works}'}].</li>
+					<li className="margin-bottom-20 list-none">Các nhà khoa học hy vọng [chứng minh được {'{thuốc hoạt động như thế nào}'}].</li>
+			
+					<li className="list-none">Hình thái: Khối bao ngoài [to demonstrate {'{how the drug works}'}] là một [Hạt Thuần Tầng Động Cụm][Particle Tiered Bare Verb Phrase] bắt đầu bằng [Hạt Thuần Động Cơ][Particle Bare Verb Base] "to demonstrate". Bên trong bao gói {'{how the drug works}'} là một [Hiển-Liên Động Câu][Connector Verb Clause] bắt đầu bằng [Liên Cơ][Connector Base] "how".</li>
+			
+					<li className="list-none">Chức năng: Khối {'{how the drug works}'} bên trong đóng vai trò là [Danh Câu][Noun Clause] làm [Danh Nhận][Noun Object] chịu sự điều phối trực tiếp của [Thuần Động Cơ][Bare Verb Base] "demonstrate". Toàn bộ khối hỗn hợp [to demonstrate {'{how the drug works}'}] đóng vai trò tổng thể làm khối [<strong>Danh Nhận</strong>][<strong>Noun Object</strong>] đứng sau [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "hope".</li>
+			
+				</ul>
+			
+
+
+			<h4 className="margin-y-40">2. [TÍNH CỤM][ADJECTIVE PHRASE]</h4>
+			
+				<ul className="list-square">
+			
+					<li>The dispute [over {'{whether the company should merge}'}] delayed the negotiation.</li>
+					<li className="margin-bottom-20 list-none">Cuộc tranh chấp [về việc {'{liệu công ty có nên sáp nhập hay không}'}] đã làm trì hoãn cuộc đàm phán.</li>
+			
+					<li className="list-none">Hình thái: Khối tổng thể [over {'{whether the company should merge}'}] là một [Tầng Giới Cụm][Tiered Prepositional Phrase] bắt đầu bằng [Giới Cơ][Prepositional Base] "over". Bên trong bao gói {'{whether the company should merge}'} là một [Hiển-Liên Động Câu][Connector Verb Clause] được mở đầu bằng [Liên Cơ][Connector Base] "whether".</li>
+			
+					<li className="list-none">Chức năng: Khối {'{whether the company should merge}'} bên trong thực thi chức năng [Danh Câu][Noun Clause] làm [Danh Nhận][Noun Object] nhận quan hệ trực tiếp đứng sau [Giới Cơ][Prepositional Base] over. Toàn bộ khối hỗn hợp [over {'{whether the company should merge}'}] vận hành với chức năng [<strong>Tính Cụm</strong>][<strong>Adjective Phrase</strong>] ở tầng ngoài để ôm sau bổ nghĩa đặc điểm cho cụm The dispute.</li>
+			
+				</ul>
+
+
+			<h4 className="margin-y-40">3. [TRẠNG CỤM][ADVERB PHRASE]</h4>
+			
+				<ul className="list-square">
+			
+					<li>They redesigned the network [because of {'{how frequently the server crashed}'}].</li>
+					<li className="margin-bottom-20 list-none">Họ đã thiết kế lại hệ thống mạng [bởi vì {'{máy chủ đã trục trặc thường xuyên như thế nào}'}].</li>
+			
+					<li className="list-none">Hình thái: Khối tổng thể [because of {'{how frequently the server crashed}'}] là một [Phức Tầng Giới Cụm][Complex Tiered Prepositional Phrase] bắt đầu bằng [Phức Giới Cơ][Complex Prepositional Base] "because of". Bên trong bao gói {'{how frequently the server crashed}'} là một [Hiển-Liên Động Câu][Connector Verb Clause] bắt đầu bằng tổ hợp tuyến tính gồm [Liên Cơ][Connector Base] "how" kết hợp cùng [Trạng Cơ][Adverb Base] "frequently".</li>
+			
+					<li className="list-none">Chức năng: Khối {'{how frequently the server crashed}'} bên trong thực thi chức năng [Danh Câu][Noun Clause] làm [Danh Nhận][Noun Object] nhận quan hệ trực tiếp đứng sau [Phức Giới Cơ][Complex Prepositional Base] because of. Toàn bộ khối hỗn hợp [because of {'{how frequently the server crashed}'}] thực thi chức năng [<strong>Trạng Cụm</strong>][<strong>Adverb Phrase</strong>] tổng thể đứng cuối để bổ nghĩa hoàn cảnh nguyên nhân cho [Thời-Thuần Động Cơ][Tense-Bare Verb Base] redesigned.</li>
+			
+				</ul>
 	
 
 
 			{/* V. */}
 
-			<h3 className="margin-y-50 text-center">V. ĐỈNH CAO PARAPHRASING: TƯ DUY THAY THẾ KHỐI CÙNG CHỨC NĂNG</h3>
+			<h3 className="margin-y-50 text-center">VIII. ĐỈNH CAO PARAPHRASING: TƯ DUY THAY THẾ [KHỐI] CÙNG CHỨC NĂNG</h3>
 
-			<p>Người học trình độ Advanced nhìn nhận paraphrasing như một bài toán "<strong>thay thế các khối có cùng chức năng</strong>" trên trục ngang, trong khi vẫn giữ nguyên vẹn cấu trúc xương sườn tổng thể của Câu lớn. Nếu vị trí đó đang cần một chức năng Danh, Tính, hoặc Trạng, bạn chỉ việc lựa chọn một khối hình thái khác (Cơ, Cụm, [Giới Cụm] hoặc Câu) có cùng chức năng để đặt vào vị trí đó.</p>
+			<h4 className="margin-y-40">1. Paraphrasing cho chức năng [TRẠNG][ADVERB]</h4>
 
-
-			<h4 className="margin-y-40">1. Paraphrasing cho chức năng TRẠNG (Mô tả hoàn cảnh, bối cảnh)</h4>
-
-			<h5 className="margin-y-30 text-indent-whole">Gốc</h5>
+			<h5 className="margin-y-30 text-indent-whole">Gốc: Mô tả hoàn cảnh, bối cảnh</h5>
 					
-			<p className="margin-top-20 text-indent-whole">Dùng hình thái <strong>Động Câu</strong> [<strong>Verb Clause</strong>] làm chức năng [<strong>Trạng Câu</strong>][<strong>Adverb Clause</strong>]:</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Dùng hình thái</strong> [<strong>Hiển-Liên Động Câu</strong>][<strong>Connector Verb Clause</strong>]</p>
 			
 				<ul className="list-square">
 			
-					<li>The ship sank [because the storm raged mercilessly].</li>
-					<li className="margin-bottom-20 list-none">Con tàu đã bị chìm [vì cơn bão hoành hành một cách không thương tiếc].</li>
+					<li>The system crashed [because the internal temperature escalated rapidly].</li>
+					<li className="margin-bottom-20 list-none">Hệ thống đã gặp sự cố [vì nhiệt độ bên trong leo thang nhanh chóng].</li>
 			
-					<li className="list-none">Hình thái: [because the storm raged mercilessly] - [Hiển-Liên Động Câu][Connector Verb Clause] khối hành động chứa [Danh Chủ] "the storm" và [Thời-Thuần Động Cơ] "raged" tích hợp.</li>
+					<li className="list-none">Hình thái: Khối [because the internal temperature escalated rapidly] - [Hiển-Liên Động Câu][Connector Verb Clause] bắt đầu bằng [Liên Cơ][Connector Base] "because" kết hợp với cấu trúc mệnh đề hoàn chỉnh có [Danh Chủ][Noun Subject] "the internal temperature" và [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "escalated".</li>
 			
-					<li className="list-none">Chức năng: [because the storm raged mercilessly] - [Trạng Câu][Adverb Clause] bổ nghĩa bối cảnh nguyên nhân cho sự việc tàu chìm được điều hành bởi [Thời-Thuần Động Cơ] "sank".</li>
+					<li className="list-none">Chức năng: Khối [because the internal temperature escalated rapidly] - [Trạng Câu][Adverb Clause] thực hiện vai trò bổ nghĩa hoàn cảnh nguyên nhân cho hành động sập hệ thống được xác định bởi "crashed".</li>
 			
 				</ul>
 			
 			
 			<h5 className="margin-y-30 text-indent-whole">Viết lại 1</h5>
 			
-			<p className="margin-top-20 text-indent-whole">Đổi sang hình thái [<strong>Động Cơ</strong>][<strong>Verb Base</strong>] làm chức năng [<strong>Trạng Cơ</strong>][<strong>Adverb Base</strong>]:</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Đổi sang hình thái</strong> [<strong>Động Cơ</strong>][<strong>Verb Base</strong>]</p>
 			
 				<ul className="list-square">
 			
-					<li>[Disturbingly], the ship sank fast.</li>
-					<li className="margin-bottom-20 list-none">[Một cách đáng lo ngại], con tàu đã bị chìm nhanh chóng.</li>
+					<li>[Accordingly], the system crashed.</li>
+					<li className="margin-bottom-20 list-none">[Theo đó / Do vậy], hệ thống đã bị sập.</li>
 			
-					<li className="list-none">Hình thái: [disturbingly] - [Diện Cơ][Modified Base] hình thành từ khối [Rễ Cơ][Root Base] nguyên bản "disturb" mặc thêm hậu tố "-ing" và "-ly" để thay đổi diện mạo bên ngoài thành một khối cấp độ [Cơ][Base], tạo thành khối biểu hiện hạt nhân đơn lẻ.</li>
+					<li className="list-none">Hình thái: Khối [Accordingly] - [Diện Cơ][Modified Base] hình thành từ khối [Rễ Cơ][Root Base] nguyên bản "accord" mặc thêm hậu tố "-ing" và "-ly" để thay đổi diện mạo bên ngoài thành một khối cấp độ [Cơ][Base] bối cảnh độc lập.</li>
 			
-					<li className="list-none">Chức năng: [Disturbingly] - [Trạng Cơ][Adverb Base] đóng vai trò liên kết bối cảnh tình huống gây lo ngại ở mức độ hạt nhân.</li>
+					<li className="list-none">Chức năng: Khối [Accordingly] - [Trạng Cơ][Adverb Base] đứng biệt lập ở đầu câu để bổ nghĩa liên kết logic hệ quả cho toàn bộ nhận định phía sau.</li>
 			
 				</ul>
 
 			
 			<h5 className="margin-y-30 text-indent-whole">Viết lại 2</h5>
 
-			<p className="margin-top-20 text-indent-whole"><strong>Đổi sang hình thái GIỚI CỤM</strong> [<strong>Prepositional Phrase</strong>] <strong>làm chức năng Trạng Cụm</strong> [<strong>Adverb Phrase</strong>]:</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Đổi sang hình thái</strong> [<strong>Phức Giới Cụm</strong>][<strong>Complex Prepositional Phrase</strong>]</p>
 			
 				<ul className="list-square">
 			
-					<li>The ship sank [due to the merciless storm].</li>
-					<li className="margin-bottom-20 list-none">Con tàu đã bị chìm [vì cơn bão tàn khốc].</li>
+					<li>The system crashed [due to the rapid temperature escalation].</li>
+					<li className="margin-bottom-20 list-none">Hệ thống đã gặp sự cố [do sự leo thang nhiệt độ nhanh chóng].</li>
 			
-					<li className="list-none">Hình thái: [due to the merciless storm] - [Giới Cụm][Prepositional Phrase] khối bắt đầu bằng giới cơ quan hệ "due to" kết hợp [Danh Nhận] phía sau.</li>
+					<li className="list-none">Hình thái: Khối [due to the rapid temperature escalation] - [Phức Giới Cụm][Complex Prepositional Phrase] bắt đầu bằng [Phức Giới Cơ][Complex Prepositional Base] "due to" điều phối một cấu trúc định danh phức hợp phía sau.</li>
 			
-					<li className="list-none">Chức năng: [due to the merciless storm] - [Trạng Cụm][Adverb Phrase] thay thế khối bối cảnh nguyên nhân bằng hình thái cụm quan hệ hệ thống.</li>
+					<li className="list-none">Chức năng: Khối [due to the rapid temperature escalation] - [Trạng Cụm][Adverb Phrase] thực hiện chức năng cung cấp bối cảnh nguyên nhân rút gọn cho hành động chính "crashed".</li>
 			
 				</ul>
 			
 
 
-			<h4 className="margin-y-40">2. Paraphrasing cho chức năng TÍNH (Mô tả, định danh thực thể)</h4>
+			<h4 className="margin-y-40">2. Paraphrasing cho chức năng [TÍNH][ADJECTIVE]</h4>
 
-			<h5 className="margin-y-30 text-indent-whole">Gốc</h5>
+			<h5 className="margin-y-30 text-indent-whole">Gốc: Mô tả, định danh thực thể</h5>
 
-			<p className="text-indent-whole"><strong>Dùng hình thái Động Câu</strong> [<strong>Verb Clause</strong>] <strong>làm chức năng Tính Câu</strong> [<strong>Adjective Clause</strong>]:</p>
+			<p className="text-indent-whole"><strong>Dùng hình thái</strong> [<strong>Hiển-Liên Động Câu</strong>][<strong>Connector Verb Clause</strong>]</p>
 			
 				<ul className="list-square">
 			
-					<li>The man [who is leading the project] is very experienced.</li>
-					<li className="margin-bottom-20 list-none">Người đàn ông [người mà đang dẫn dắt dự án] thì rất có kinh nghiệm.</li>
+					<li>The code [which accelerates the rendering process] requires optimization.</li>
+					<li className="margin-bottom-20 list-none">Khối mã [mà tăng tốc quy trình kết xuất] cần được tối ưu hóa.</li>
 			
-					<li className="list-none">Hình thái: [who is leading the project] - [Hiển-Liên Động Câu][Connector Verb Clause] khối hành động chứa cấu trúc câu con hoàn chỉnh vận hành với tổ hợp gồm [Thời Động Cơ] "is" và [Tiếp Động Cơ][Progressive Verb Base] "leading".</li>
+					<li className="list-none">Hình thái: Khối [which accelerates the rendering process] - [Hiển-Liên Động Câu][Connector Verb Clause] bắt đầu bằng [Liên Cơ][Connector Base] quan hệ "which" đi kèm mệnh đề hoàn chỉnh có hạt nhân hành động "accelerates".</li>
 			
-					<li className="list-none">Chức năng: [who is leading the project] - [Tính Câu][Adjective Clause] ôm ngay sau thực thể người đàn ông để định danh.</li>
+					<li className="list-none">Chức năng: Khối [which accelerates the rendering process] - [Tính Câu][Adjective Clause] đứng ôm sát phía sau để bổ nghĩa đặc điểm định danh chi tiết cho khối biểu thị thực thể "The code".</li>
 			
 				</ul>
 
@@ -543,16 +637,16 @@ export default function ThreeDC1(): React.ReactElement {
 			
 			<h5 className="margin-y-30 text-indent-whole">Viết lại 1</h5>
 			
-			<p className="margin-top-20 text-indent-whole"><strong>Đổi sang hình thái Động Cơ</strong> [<strong>Verb Base</strong>] <strong>làm chức năng Tính Cơ</strong> [<strong>Adjective Base</strong>]:</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Đổi sang hình thái</strong> [<strong>Động Cơ</strong>][<strong>Verb Base</strong>]</p>
 			
 				<ul className="list-square">
 			
-					<li>The [project-leading] man is very experienced.</li>
-					<li className="margin-bottom-20 list-none">Người đàn ông [dẫn-dắt-dự-án] thì rất có kinh nghiệm.</li>
+					<li>The [rendering-accelerating] code requires optimization.</li>
+					<li className="margin-bottom-20 list-none">Khối mã [tăng-tốc-kết-xuất] cần được tối ưu hóa.</li>
 			
-					<li className="list-none">Hình thái: [project-leading] - [Tiếp Động Cơ][Progressive Verb Base] bắt đầu từ [Động Cơ] nguyên bản dạng cấu hình [Tiếp Động Cơ][Progressive Verb Base] phức hợp quy về dạng từ đơn mang đuôi "-ing".</li>
+					<li className="list-none">Hình thái: Khối [rendering-accelerating] - [Diện Cơ][Modified Base] hình thành từ khối [Rễ Cơ][Root Base] nguyên bản "accelerate" mặc thêm thành phần [Tiếp Động Cơ][Progressive Verb Base] "rendering-" và hậu tố "-ing" để thay đổi diện mạo bên ngoài thành một khối cấp độ [Cơ][Base] có cấu hình ghép.</li>
 			
-					<li className="list-none">Chức năng: [project-leading] - [Tính Cơ][Adjective Base] đứng trước thực thể "man" để mô tả tính chất trực tiếp.</li>
+					<li className="list-none">Chức năng: Khối [rendering-accelerating] - [Tính Cơ][Adjective Base] đứng trực tiếp phía trước để bổ nghĩa đặc tính vận hành cho khối biểu thị thực thể "code".</li>
 			
 				</ul>
 			
@@ -560,157 +654,122 @@ export default function ThreeDC1(): React.ReactElement {
 			
 			<h5 className="margin-y-30 text-indent-whole">Viết lại 2</h5>
 
-			<p className="margin-top-20 text-indent-whole"><strong>Đổi sang hình thái Động Cụm</strong> [<strong>Verb Phrase</strong>] <strong>làm chức năng Tính Cụm</strong> [<strong>Adjective Phrase</strong>]:</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Đổi sang hình thái</strong> [<strong>Động Cụm</strong>][<strong>Verb Phrase</strong>]</p>
 			
 				<ul className="list-square">
 			
-					<li>The man [leading the project] is very experienced.</li>
-					<li className="margin-bottom-20 list-none">Người đàn ông [dẫn dắt dự án] thì rất có kinh nghiệm.</li>
+					<li>The code [accelerating the rendering process] requires optimization.</li>
+					<li className="margin-bottom-20 list-none">Khối mã [đang tăng tốc quy trình kết xuất] cần được tối ưu hóa.</li>
 			
-					<li className="list-none">Hình thái: [leading the project] - [Tiếp Động Cụm][Progressive Verb Phrase] khối hành động tinh gọn bắt đầu bằng một [Tiếp Động Cơ][Progressive Verb Base] mang đuôi "-ing".</li>
+					<li className="list-none">Hình thái: Khối [accelerating the rendering process] - [Tiếp Động Cụm][Progressive Verb Phrase] bắt đầu bằng phân từ đuôi "-ing" và có thành phần bổ trợ đi kèm.</li>
 			
-					<li className="list-none">Chức năng: [leading the project] - [Tính Cụm][Adjective Phrase] thực hiện việc bổ nghĩa cho thực thể đứng trước mà không cần cấu trúc câu con.</li>
+					<li className="list-none">Chức năng: Khối [accelerating the rendering process] - [Tính Cụm][Adjective Phrase] đứng ôm sau bổ nghĩa rút gọn cho khối biểu thị thực thể "The code".</li>
 			
 				</ul>
 
 
-			<h4 className="margin-y-40">3. Paraphrasing cho chức năng DANH (Làm [Danh Chủ] hoặc Danh Nhận)</h4>
+			<h4 className="margin-y-40">3. Paraphrasing cho chức năng [DANH][NOUN]</h4>
 
-			<h5 className="margin-y-30 text-indent-whole">Gốc</h5>
+			<h5 className="margin-y-30 text-indent-whole">Gốc: Làm [Danh Chủ][Noun Subject]</h5>
 
-			<p className="margin-top-20 text-indent-whole"><strong>Dùng hình thái Động Câu</strong> [<strong>Verb Clause</strong>] <strong>làm chức năng Danh Câu</strong> [<strong>Noun Clause</strong>]:</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Dùng hình thái</strong> [<strong>Hiển-Liên Động Câu</strong>][<strong>Connector Verb Clause</strong>]</p>
 
 			
 				<ul className="list-square">
 			
-					<li>I don't know [what I should purchase next].</li>
-					<li className="margin-bottom-20 list-none">Tôi không biết [tôi nên mua cái gì tiếp theo].</li>
+					<li>The programmer discovered [how he could bypass the security firewall].</li>
+					<li className="margin-bottom-20 list-none">Lập trình viên đã phát hiện ra [cách mà anh ấy có thể vượt qua tường lửa bảo mật].</li>
 			
-					<li className="list-none">Hình thái: [what I should purchase next] - [Hiển-Liên Động Câu][Connector Verb Clause] khối chứa cấu trúc câu con đầy đủ có [Danh Chủ] "I" và tổ hợp động cụm phối hợp giữa [Ý-Thái Thuần Động Cơ] "should" và [Động Cơ] gốc "purchase".</li>
+					<li className="list-none">Hình thái: Khối [how he could bypass the security firewall] - [Hiển-Liên Động Câu][Connector Verb Clause] bắt đầu bằng [Liên Cơ][Connector Base] "how" lồng mệnh đề chủ vị hoàn chỉnh có trợ động từ thái độ "could".</li>
 			
-					<li className="list-none">Chức năng: [what I should purchase next] - [Danh Câu][Noun Clause] làm khối [Danh Nhận] chịu tác động từ hành động của [Thời-Thuần Động Cơ] "know".</li>
+					<li className="list-none">Chức năng: Khối [how he could bypass the security firewall] - [Danh Câu][Noun Clause] làm khối [Danh Nhận][Noun Object] nhận tác động trực tiếp của hành động "discovered".</li>
 			
 				</ul>
 			
 
-			<h5 className="margin-y-30 text-indent-whole">Viết lại</h5>
+			<h5 className="margin-y-30 text-indent-whole">Viết lại: Làm [Danh Nhận][Noun Object]</h5>
 
-			<p className="margin-top-20 text-indent-whole"><strong>Đổi sang hình thái Động Cụm</strong> [<strong>Verb Phrase</strong>] <strong>làm chức năng Danh Cụm</strong> [<strong>Noun Phrase</strong>]:</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Đổi sang hình thái</strong> [<strong>Động Cụm</strong>][<strong>Verb Phrase</strong>]:</p>
 			
 				<ul className="list-square">
 			
-					<li>I don't know [what to purchase next].</li>
-					<li className="margin-bottom-20 list-none">Tôi không biết [phải mua cái gì tiếp theo].</li>
+					<li>The programmer discovered [how to bypass the security firewall].</li>
+					<li className="margin-bottom-20 list-none">Lập trình viên đã phát hiện ra [cách vượt qua tường lửa bảo mật].</li>
 			
-					<li className="list-none">Hình thái: [what to purchase next] - [Hiển-Liên Hạt Thuần Động Cụm][Connector Particle Bare Verb Phrase] khối hành động tinh gọn chứa cấu hình [Hạt Động Cơ][Particle Verb Base] dạng "to + Động Cơ".</li>
+					<li className="list-none">Hình thái: Khối [how to bypass the security firewall] - [Hiển-Liên Hạt Thuần Động Cụm][Connector Particle Bare Verb Phrase] bắt đầu bằng từ nghi vấn "how" dẫn dắt trực tiếp một cấu trúc động từ dạng "to + bare verb".</li>
 			
-					<li className="list-none">Chức năng: [what to purchase next] - [Danh Cụm][Noun Phrase] giữ nguyên vai trò làm [Danh Nhận] chịu tác động dưới sự điều phối của [Thời-Thuần Động Cơ] "know" nhưng quy đổi về cấp độ cụm.</li>
+					<li className="list-none">Chức năng: Khối [how to bypass the security firewall] - [Danh Cụm][Noun Phrase] làm khối [Danh Nhận][Noun Object] chịu sự điều phối của hành động "discovered".</li>
 			
 				</ul>
-			
-			
-			<p className="margin-top-20 text-indent-whole">Lưu ý: Hình thái [Giới Cụm][Prepositional Phrase] không có khả năng đảm nhận chức năng Danh làm [Danh Chủ] hoặc [Danh Nhận] cốt lõi trong sơ đồ này nên không tham gia vào cấu trúc paraphrasing của trục Danh.</p>
 
 
 
-			{/* VI. */}
+			{/* IX. */}
 
-			<h3 className="margin-y-50 text-center">VI. TUYỆT CHIÊU PHÂN BIỆT ĐỘNG CÂU THẦN TỐC BẰNG MẸO THẾ THÂN</h3>
+			<h3 className="margin-y-50 text-center">IX. TUYỆT CHIÊU PHÂN BIỆT [HIỂN-LIÊN ĐỘNG CÂU][CONNECTOR VERB CLAUSE] THẦN TỐC BẰNG MẸO [THẾ THÂN]</h3>
 
-			<p>Khi gặp các từ liên kết đa năng như <strong>that</strong>, <strong>when</strong>, <strong>where</strong>, người học chỉ biết hình thái của nó là một [Hiển-Liên Động Câu][Connector Verb Clause] chứ <strong>rất khó phân biệt nó đang làm chức năng</strong> gì.</p>
+			<p>Khi gặp các khối [Hiển-Liên Động Câu][Connector Verb Clause] có hình thái giống hệt nhau (ví dụ: đều bắt đầu bằng một từ đa năng làm [Liên Cơ][Connector Base] như that, when, where), người học rất dễ bị bối rối.</p>
 
-			<p>Hãy áp dụng ngay phương pháp "<strong>Thế thân</strong>" (<strong>Substitution</strong>) dựa trên việc thay thế bằng một khối mức độ Cơ cơ bản:</p>
+			<p>Hãy áp dụng ngay phương pháp [Thế thân][Substitution] dựa trên nguyên lý thay thế bằng một khối từ mức độ [Cơ][Base] cơ bản:</p>
 			
 				<ul className="list-square">
 			
-					<li className="margin-bottom-20 list-none">Nếu thử thay thế cả khối [Hiển-Liên Động Câu][Connector Verb Clause]</li>
-					<li className="list-none">Bằng một [Trạng Cơ][Adverb Base] đơn lẻ (<strong>then</strong>, <strong>there</strong>) mà câu vẫn đúng và hợp lý:</li>
-					<li className="margin-bottom-20 list-none">→ Khối đó đảm nhiệm chức năng [<strong>Trạng Câu</strong>][<strong>Adverb Clause</strong>].</li>
+					<li className="margin-bottom-20 list-none">Nếu thế thế thân bằng một [Trạng Cơ][Adverb Base] đơn lẻ (then, there) thành công</li>
+					<li className="list-none">→ Khối đó đảm nhiệm chức năng [Trạng Câu][Adverb Clause].</li>
 			
-					<li className="margin-bottom-20 list-none">Nếu thử thay thế cả khối [Hiển-Liên Động Câu][Connector Verb Clause]</li>
-					<li className="list-none">Bằng một [Tính Cơ][Adjective Base] ngắn (<strong>beautiful</strong>, <strong>smart</strong>, <strong>new</strong>) mà câu vẫn đúng và hợp lý:</li>
-					<li className="margin-bottom-20 list-none">→ Khối đó phụ trách chức năng [<strong>Tính Câu</strong>][<strong>Adjective Clause</strong>].</li>
+					<li className="margin-bottom-20 list-none">Nếu thế thế thân bằng một [Tính Cơ][Adjective Base] đơn lẻ (beautiful, smart, new) thành công</li>
+					<li className="list-none">→ Khối đó phụ trách chức năng [Tính Câu][Adjective Clause].</li>
 			
-					<li className="margin-bottom-20 list-none">Nếu thử thay thế cả khối [Hiển-Liên Động Câu][Connector Verb Clause]</li>
-					<li className="list-none">Bằng một ký hiệu tổng quát "<strong>Something</strong>" hoặc "<strong>It</strong>" (tương đương một [Danh Cơ][Noun Base]) mà câu vẫn đúng và hợp lý:</li>
-					<li className="list-none">→ Khối đó gánh vác chức năng [<strong>Danh Câu</strong>][<strong>Noun Clause</strong>].</li>
+					<li className="margin-bottom-20 list-none">Nếu thế thế thân bằng một ký hiệu tổng quát "Something" hoặc "It" (tương đương một [Danh Cơ][Noun Base]) thành công</li>
+					<li className="list-none">→ Khối đó gánh vác chức năng [Danh Câu][Noun Clause].</li>
 			
 				</ul>
 
 			
-			<h5 className="margin-y-30">Thử thách phá án 3 cấu trúc có cùng hình thái</h5>
+			<h5 className="margin-y-30">Thử thách phá án 3 cấu trúc có cùng hình thái [Hiển-Liên Động Câu][Connector Verb Clause] chứa từ [Liên Cơ][Connector Base] "where":</h5>
 			
-			<p className="margin-top-20">[Động Câu][Verb Clause] chứa từ "<strong>where</strong>"</p>
 
-			<p className="margin-top-20"><strong>Câu A</strong>:</p>
+			<p className="margin-top-20">Trường hợp A: The technician will deploy the software [where the signal peaks].</p>
 			
 				<ul className="list-square">
 			
-					<li>I will meet you [<strong>where we first met</strong>].</li>
-					<li className="margin-bottom-20 list-none">Tôi sẽ gặp bạn [<strong>nơi chúng ta đã gặp nhau lần đầu</strong>].</li>
+					<li>Thử thế thân bằng [Trạng Cơ][Adverb Base] "there":</li>
+					<li className="margin-bottom-20 list-none">The technician will deploy the software there.</li>
+			
+					<li className="list-none">→ Hợp lý! Khối [where the signal peaks] thực thi chức năng [Trạng Câu][Adverb Clause] chỉ bối cảnh vị trí.</li>
 			
 				</ul>
-
-				<p className="margin-y-20 text-indent-whole">Thay thế bằng [Trạng Cơ][Adverb Base] "<strong>there</strong>"::</p>
-
-					<ul className="list-square">
-				
-						<li>I will meet you [<strong>there</strong>].</li>
-						<li className="margin-bottom-20 list-none">Tôi sẽ gặp bạn [<strong>ở đó</strong>].</li>
-						
-						<li className="list-none">→ Hợp lý! Khối này thực thi chức năng [<strong>Trạng Câu</strong>][<strong>Adverb Clause</strong>] chỉ nơi chốn dưới sự quản lý của [Thời-Thuần Động Cơ] "meet".</li>
-				
-					</ul>
 			
 			
-			<p className="margin-top-20"><strong>Câu B</strong>:</p>
+			<p className="margin-top-20">Trường hợp B: This is the server room [where the signal peaks].</p>
 			
 				<ul className="list-square">
 			
-					<li>This is the restaurant [<strong>where we first met</strong>].</li>
-					<li className="margin-bottom-20 list-none">Đây là nhà hàng [<strong>nơi chúng ta đã gặp nhau lần đầu</strong>].</li>
+					<li>Thử thế thân bằng [Tính Cơ][Adjective Base] "new":</li>
+					<li className="margin-bottom-20 list-none">This is the new server room.</li>
+			
+					<li className="list-none">→ Hợp lý! Khối [where the signal peaks] hoàn thành chức năng [Tính Câu][Adjective Clause] bổ nghĩa đặc điểm cho danh từ đứng trước.</li>
 			
 				</ul>
-
-				<p className="margin-y-20 text-indent-whole">Thay thế bằng [Tính Cơ][Adjective Base] "<strong>old</strong>" đặt trước thực thể:</p>
-
-					<ul className="list-square">
-				
-						<li>This is the [<strong>old</strong>] restaurant.</li>
-						<li className="margin-bottom-20 list-none">Đây là nhà hàng [<strong>cũ</strong>].</li>
-						
-						<li className="list-none">→ Hợp lý! Khối này hoàn thành chức năng [<strong>Tính Câu</strong>][<strong>Adjective Clause</strong>] bổ nghĩa cho thực thể đứng trước.</li>
-				
-					</ul>
 			
 			
-			<p className="margin-top-20"><strong>Câu C</strong>:</p>
+			<p className="margin-top-20">Trường hợp C: The system monitors [where the signal peaks].</p>
 			
 				<ul className="list-square">
 			
-					<li>I don't remember [<strong>where we first met</strong>].</li>
-					<li className="margin-bottom-20 list-none">Tôi không nhớ [<strong>nơi chúng ta đã gặp nhau lần đầu</strong>].</li>
+					<li>Thử thế thân bằng [Danh Cơ][Noun Base] "something":</li>
+					<li className="margin-bottom-20 list-none">The system monitors something.</li>
+			
+					<li className="list-none">→ Hợp lý! Khối [where the signal peaks] đáp ứng chức năng [Danh Câu][Noun Clause] đóng vai trò làm [Danh Nhận][Noun Object] trực tiếp đứng sau hành động "monitors".</li>
 			
 				</ul>
-			
-				<p className="margin-y-20 text-indent-whole">Thay thế bằng [Danh Cơ][Noun Base] "<strong>something</strong>":</p>
-
-					<ul className="list-square">
-				
-						<li>I don't remember [<strong>something</strong>].</li>
-						<li className="margin-bottom-20 list-none">Tôi không nhớ [<strong>điều gì</strong>].</li>
-
-						<li className="list-none">→ Hợp lý! Khối này đáp ứng chức năng [<strong>Danh Câu</strong>][<strong>Noun Clause</strong>] làm khối [Danh Nhận] tiếp nhận hành động của [Thời-Thuần Động Cơ] "remember".</li>
-				
-					</ul>
-
 
 
 				
 
-			{/* VI. Bổ sung */}
+			{/* X. Bổ sung */}
 
-			<h3 className="margin-y-50 text-center">VI. Đảo ngữ kết hợp (Inversion)</h3>
+			<h3 className="margin-y-50 text-center">X. Đảo ngữ kết hợp (Inversion)</h3>
 		
 			<p>Nâng tầm [<strong>Trạng Câu</strong>][<strong>Adverb Clause</strong>] lên mức học thuật cao nhất bằng cách tiến hành đưa đưa Trạng Câu/Cụm phủ định lên đầu, sau đó tiến hành đảo ngữ [Thời Động Cơ] thành phần chính:</p>
 
@@ -838,11 +897,11 @@ export default function ThreeDC1(): React.ReactElement {
 
 			{/* Lời Kết */}
 
-			<h3 className="margin-y-50 text-center">VII. LỜI KẾT</h3>
+			<h3 className="margin-y-50 text-center">LỜI KẾT</h3>
 
-			<p>Tư duy tiếng Anh theo hệ thống hai chiều Hình thái và Chức năng chính là chiếc la bàn giúp bạn không bao giờ bị lạc trong các cấu trúc phức tạp.</p>
+			<p>Tư duy tiếng Anh theo mô hình phân tầng khối là chìa khóa tối thượng để chuyển hóa từ trạng thái dịch cơ học sang phản xạ bản xứ tự nhiên. Việc làm chủ sự biến đổi linh hoạt giữa Hình thái và Chức năng của các mảnh ghép – đặc biệt là sự kết nối trong "[BỘ 3 PHỤ KHỐI]" – sẽ giúp bạn giải phóng hoàn toàn khả năng ngôn ngữ của mình.</p>
 
-			<p>Khi bạn đã làm chủ được khả năng nhận diện hình thái khách quan, xác định chức năng chuẩn xác theo vị trí đứng, thấu hiểu cấu trúc lồng ghép đa tầng tinh vi của cơ chế phân tầng dựa trên hệ thống điểm neo của 6 loại cấu hình [Động Cơ] cốt lõi cùng các hiện tượng ẩn liên biến hình linh hoạt, tư duy ngôn ngữ của bạn đã chính thức bước sang ngưỡng cửa của một người làm chủ tiếng Anh trình độ Advanced.</p>
+			<p>Hãy rèn luyện thói quen quét cấu trúc dưới dạng các khối thông tin đa năng; bạn sẽ thấy việc viết những câu phức tạp, chặt chẽ hay việc paraphrasing nâng cao trở nên trực quan, chính xác và dễ dàng hơn bao giờ hết.</p>
 			
 
 			<div className="viewcounter">

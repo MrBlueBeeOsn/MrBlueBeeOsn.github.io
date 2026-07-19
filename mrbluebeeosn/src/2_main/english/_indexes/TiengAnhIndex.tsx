@@ -663,7 +663,7 @@ export default function TiengAnhIndex(): React.JSX.Element {
                Functional Thinking
           ============================= */}
       
-          <p id="tieng-anh-terms"><mark className="highlight-secondary-padding-2-4">Functional Thinking</mark></p>
+          <p id="functional-thinking-terms"><mark className="highlight-secondary-padding-2-4">Functional Thinking</mark></p>
 
           <ul className="list-border1">
 
@@ -809,7 +809,7 @@ export default function TiengAnhIndex(): React.JSX.Element {
 
             <li>
               <div className="li-content">
-                <Link to="/tieng-anh/three-dc-1">Three DC
+                <Link to="/tieng-anh/three-dc-1">[BỘ 3 PHỤ KHỐI]
                 <sup>&nbsp;1&nbsp;</sup>
                 </Link>
                 <Link to="/tieng-anh/three-dc-2">
