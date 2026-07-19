@@ -177,7 +177,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 					<li className="margin-bottom-20 list-none">Cụm có lõi xuất phát từ gốc hành động.</li>
 			
 					<li>[<strong>Giới Cụm</strong>][<strong>Prepositional Phrase</strong>]:</li>
-					<li className="list-none">Cụm bắt đầu bằng một [Giới Cơ][Preposition Base] kết hợp với một [Danh Nhận] phía sau.</li>
+					<li className="list-none">Cụm bắt đầu bằng một [Giới Cơ][Prepositional Base] kết hợp với một [Danh Nhận] phía sau.</li>
 			
 				</ul>
 
@@ -325,7 +325,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 					<li>The house [with the red roof] belongs to Jack.</li>
 					<li className="margin-bottom-20 list-none">Ngôi nhà [với chiếc mái màu đỏ] thuộc về Jack.</li>
 
-					<li className="list-none">Hình thái: [with the red roof] - [Giới Cụm][Prepositional Phrase] bắt đầu bằng [Giới Cơ][Preposition Base] "with".</li>
+					<li className="list-none">Hình thái: [with the red roof] - [Giới Cụm][Prepositional Phrase] bắt đầu bằng [Giới Cơ][Prepositional Base] "with".</li>
 
 					<li className="list-none">Chức năng: [with the red roof] - [Tính Cụm][Adjective Phrase] đứng sau [Danh Cụm] "The house" để mô tả đặc điểm nhận dạng của đối tượng này.</li>
 			
@@ -456,7 +456,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 					<li>They met [at the coffee shop].</li>
 					<li className="margin-bottom-20 list-none">Họ đã gặp nhau [tại quán cà phê].</li>
 
-					<li className="list-none">Hình thái: [at the coffee shop] - [Giới Cụm][Prepositional Phrase] bắt đầu bằng [Giới Cơ][Preposition Base] "at".</li>
+					<li className="list-none">Hình thái: [at the coffee shop] - [Giới Cụm][Prepositional Phrase] bắt đầu bằng [Giới Cơ][Prepositional Base] "at".</li>
 
 					<li className="list-none">Chức năng: [at the coffee shop] - [Trạng Cụm][Adverb Phrase] đứng cuối câu để bổ sung bối cảnh không gian.</li>
 			
@@ -601,7 +601,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 					<li>He traveled to Japan [for cultural exploration].</li>
 					<li className="margin-bottom-20 list-none">Anh ấy đã đến Nhật Bản [vì mục đích khám phá văn hóa].</li>
 			
-					<li className="list-none">Hình thái: [for cultural exploration] - [Giới Cụm][Prepositional Phrase] bắt đầu bằng [Giới Cơ][Preposition Base] "for".</li>
+					<li className="list-none">Hình thái: [for cultural exploration] - [Giới Cụm][Prepositional Phrase] bắt đầu bằng [Giới Cơ][Prepositional Base] "for".</li>
 
 					<li className="list-none">Chức năng: [for cultural exploration] - [Trạng Cụm][Adverb Phrase] đảm nhiệm vai trò mở rộng mục đích/nguyên nhân cho hành động trước đó.</li>
 			

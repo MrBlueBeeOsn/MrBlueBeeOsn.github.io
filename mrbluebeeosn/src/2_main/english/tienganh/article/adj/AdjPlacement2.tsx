@@ -184,7 +184,7 @@ export default function AdjPlacement2(): React.JSX.Element {
 				<ul className="list-square">
 			
 					<li>[in], [on], [at], [with], [for], [by]</li>
-					<li className="margin-bottom-20 list-none">– [Giới Cơ][Preposition Base]</li>
+					<li className="margin-bottom-20 list-none">– [Giới Cơ][Prepositional Base]</li>
 			
 					<li>[in the park], [on the table], [with a smile]</li>
 					<li className="list-none">– [Giới Cụm][Prepositional Phrase]</li>

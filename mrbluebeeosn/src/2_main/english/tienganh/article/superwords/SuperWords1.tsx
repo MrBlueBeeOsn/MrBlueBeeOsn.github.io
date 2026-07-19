@@ -252,7 +252,7 @@ export default function SuperWords1(): React.JSX.Element {
 
 			<h3 className="margin-y-50 text-center">3. Hình thái: [GIỚI CỤM][Prepositional Phrase]</h3>
 
-			<p>Đây là khối thông tin đặc biệt được bắt đầu bằng một mối quan hệ không gian, thời gian hoặc tính chất do một [Giới Cơ][Preposition Base] điều phối, kết hợp với các cơ định danh phía sau. Khối hình thái này không chứa động cơ nhưng có sức mạnh tạo nên chức năng [Tính Cụm] và [Trạng Cụm] cực kỳ linh hoạt.</p>
+			<p>Đây là khối thông tin đặc biệt được bắt đầu bằng một mối quan hệ không gian, thời gian hoặc tính chất do một [Giới Cơ][Prepositional Base] điều phối, kết hợp với các cơ định danh phía sau. Khối hình thái này không chứa động cơ nhưng có sức mạnh tạo nên chức năng [Tính Cụm] và [Trạng Cụm] cực kỳ linh hoạt.</p>
 
 			<p>Khi nhìn thấy hình thái GIỚI CỤM, chức năng của nó được phân loại rõ rệt như sau:</p>
 

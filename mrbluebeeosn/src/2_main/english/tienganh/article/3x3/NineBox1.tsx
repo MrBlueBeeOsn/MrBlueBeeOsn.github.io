@@ -338,7 +338,7 @@ export default function NineBox1(): React.JSX.Element {
 					
 			<p className="text-indent-whole">Bên cạnh hệ động, cấu trúc ngôn ngữ còn được vận hành bởi các khối liên kết không xuất phát từ gốc hành động, tiêu biểu là <strong>Giới Cụm</strong> [Prepositional Phrase].</p>
 
-			<p className="text-indent-whole">Khối này được nhận diện trực tiếp bằng mắt thông qua từ khóa dẫn đường ([Giới Cơ][Preposition Base]) đứng đầu, phối hợp cùng một khối danh mục mục tiêu làm [Danh Nhận] phía sau. Khi đưa vào vận hành, khối này chỉ đảm nhận việc kích hoạt thuộc tính hoặc bối cảnh.</p>
+			<p className="text-indent-whole">Khối này được nhận diện trực tiếp bằng mắt thông qua từ khóa dẫn đường ([Giới Cơ][Prepositional Base]) đứng đầu, phối hợp cùng một khối danh mục mục tiêu làm [Danh Nhận] phía sau. Khi đưa vào vận hành, khối này chỉ đảm nhận việc kích hoạt thuộc tính hoặc bối cảnh.</p>
 
 
 
