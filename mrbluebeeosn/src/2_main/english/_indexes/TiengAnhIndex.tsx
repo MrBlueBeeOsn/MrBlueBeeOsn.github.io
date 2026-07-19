@@ -880,7 +880,7 @@ export default function TiengAnhIndex(): React.JSX.Element {
 
             <li>
               <div className="li-content">
-                <Link to="/tieng-anh/lego-assembly-1">[Lego Assembly]
+                <Link to="/tieng-anh/lego-assembly-1">[Tư Duy Lắp Ghép]
                 <sup>&nbsp;1&nbsp;</sup>
                 </Link>
                 <Link to="/tieng-anh/lego-assembly-2">
