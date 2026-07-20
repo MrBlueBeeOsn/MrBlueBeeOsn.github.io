@@ -740,7 +740,7 @@ export default function TiengAnhIndex(): React.JSX.Element {
 
             <li>
               <div className="li-content">
-                <Link to="/tieng-anh/s-v-1">SV
+                <Link to="/tieng-anh/s-v-1">[3 Chức Năng][3 Cấp Độ]
                 <sup>&nbsp;1&nbsp;</sup>
                 </Link>
                 <Link to="/tieng-anh/s-v-2">

@@ -17,7 +17,7 @@ export default function SV3(): React.JSX.Element {
 		
 			<h4><HashLink smooth to="/tieng-anh#functional-thinking-terms"><mark className="highlight-tertiary-padding-4-8">Functional Thinking</mark></HashLink></h4>
 
-			<h1 className="margin-y-50 text-center">SV
+			<h1 className="margin-y-50 text-center">[3 Chức Năng][3 Cấp Độ]
 												
 				<sup><HashLink smooth to="/tieng-anh/s-v-1">&nbsp;1&nbsp;</HashLink>
 				</sup>
