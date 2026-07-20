@@ -27,9 +27,9 @@ export default function Respond(): React.JSX.Element {
 
         <div>
 
-          <p className="margin-bottom-20">[respond] is a [Verb Base] that means to say or do something as a reaction to something that has been said or done.</p>
+          <p className="margin-bottom-20">[respond] is a [Root Verb Base] that means to say or do something as a reaction to something that has been said or done.</p>
 
-          <p>[respond] là một [Động Cơ][Verb Base] có nghĩa là phản hồi, đáp lại, hoặc phản ứng lại một lời nói, hành động hoặc sự việc nào đó.</p>
+          <p>[respond] là một [Rễ Động Cơ][Root Verb Base] có nghĩa là phản hồi, đáp lại, hoặc phản ứng lại một lời nói, hành động hoặc sự việc nào đó.</p>
 
           <p className="margin-top-20">Ví dụ: /rɪˈspɒnd/</p>
 
@@ -63,8 +63,8 @@ export default function Respond(): React.JSX.Element {
       
         <ol>
       
-          <li value="1">[<strong>Động Cơ</strong>][<strong>Verb Base</strong>]: respond</li>
-          <li className="margin-bottom-20 list-none">Là mã hành động nguyên bản [Rễ Cơ][Root Base] (phản hồi, đáp lại), chưa qua xử lý dấu mốc thời gian hay phương thức, đóng vai trò là lõi dữ liệu thô.</li>
+          <li value="1">[<strong>Rễ Động Cơ</strong>][<strong>Root Verb Base</strong>]: respond</li>
+          <li className="margin-bottom-20 list-none">Là mã hành động nguyên bản [Rễ Động Cơ][Root Verb Base] (phản hồi, đáp lại), chưa qua xử lý dấu mốc thời gian hay phương thức, đóng vai trò là lõi dữ liệu thô.</li>
       
           <li value="2">[<strong>Thời Động Cơ</strong>][<strong>Tense Verb Base</strong>]: is, was, has, had, will</li>
           <li className="margin-bottom-20 list-none">Là đơn vị từ đơn chuyên biệt chịu trách nhiệm kích hoạt bối cảnh thời gian (Hiện tại/Quá khứ) hoặc làm trợ lực thiết lập thể chủ động/bị động, hoàn thành/tiếp diễn.</li>
@@ -127,7 +127,7 @@ export default function Respond(): React.JSX.Element {
           <li>The [response] from the server was incredibly fast.</li>
           <li className="margin-bottom-20 list-none">[Sự phản hồi] từ máy chủ vô cùng nhanh chóng.</li>
       
-          <li className="list-none">Hình thái: [response] - [Diện Cơ][Modified Base] hình thành từ khối [Rễ Cơ][Root Base] nguyên bản "respond" mặc thêm hậu tố "-se" để thay đổi diện mạo bên ngoài thành một khối cấp độ [Cơ][Base], tạo thành một thực thể định danh độc lập.</li>
+          <li className="list-none">Hình thái: [response] - [Diện Cơ][Modified Base] hình thành từ khối [Rễ Động Cơ][Root Verb Base] nguyên bản "respond" mặc thêm hậu tố "-se" để thay đổi diện mạo bên ngoài thành một khối cấp độ [Cơ][Base], tạo thành một thực thể định danh độc lập.</li>
       
           <li className="list-none">Chức năng: [response] - [Danh Cơ][Noun Base] đảm nhận nhiệm vụ làm thành phần nền tảng ở đầu câu để định danh cho một sự việc.</li>
       
@@ -143,7 +143,7 @@ export default function Respond(): React.JSX.Element {
           <li>We need a [responsive] customer support team.</li>
           <li className="margin-bottom-20 list-none">Chúng ta cần một đội ngũ hỗ trợ khách hàng [nhạy bén/phản hồi nhanh].</li>
       
-          <li className="list-none">Hình thái: [responsive] - [Diện Cơ][Modified Base] hình thành từ khối [Rễ Cơ][Root Base] nguyên bản "respond" mặc thêm hậu tố "-sive" để thay đổi diện mạo bên ngoài thành một khối cấp độ [Cơ][Base], chuyển đổi bản chất sang chức năng mô tả đặc điểm dưới dạng từ đơn lẻ.</li>
+          <li className="list-none">Hình thái: [responsive] - [Diện Tính Cơ][Modified Adjective Base] hình thành từ khối [Rễ Động Cơ][Root Verb Base] nguyên bản "respond" mặc thêm hậu tố "-sive" để thay đổi diện mạo bên ngoài thành một khối cấp độ [Cơ][Base], chuyển đổi bản chất sang chức năng mô tả đặc điểm dưới dạng từ đơn lẻ.</li>
       
           <li className="list-none">Chức năng: [responsive] - [Tính Cơ][Adjective Base] kích hoạt cơ chế của bộ quét đặt ngay trước đối tượng "customer support team" để hiển thị đặc điểm của đối tượng đó.</li>
       
@@ -159,7 +159,7 @@ export default function Respond(): React.JSX.Element {
           <li>The system reacted [responsively] to the new update.</li>
           <li className="margin-bottom-20 list-none">Hệ thống đã phản ứng [một cách nhạy bén] với bản cập nhật mới.</li>
       
-          <li className="list-none">Hình thái: [responsively] - [Diện Cơ][Modified Base] hình thành từ khối [Rễ Cơ][Root Base] nguyên bản "respond" mặc thêm hậu tố "-sive" và "-ly" để thay đổi diện mạo bên ngoài thành một khối cấp độ [Cơ][Base], chuyển đổi bản chất sang chức năng trạng dưới dạng từ đơn lẻ thông dụng.</li>
+          <li className="list-none">Hình thái: [responsively] - [Diện Trạng Cơ][Modified Adverb Base] hình thành từ khối [Rễ Động Cơ][Root Verb Base] nguyên bản "respond" mặc thêm hậu tố "-sive" và "-ly" để thay đổi diện mạo bên ngoài thành một khối cấp độ [Cơ][Base], chuyển đổi bản chất sang chức năng trạng dưới dạng từ đơn lẻ thông dụng.</li>
       
           <li className="list-none">Chức năng: [responsively] - [Trạng Cơ][Adverb Base] thực thi vai trò làm thành phần bổ nghĩa đứng sau hành động "reacted" để xác định bối cảnh cách thức.</li>
       
@@ -750,7 +750,7 @@ export default function Respond(): React.JSX.Element {
           <li>I prefer a [responsive] software interface.</li>
           <li className="margin-bottom-20 list-none">Tôi thích một giao diện phần mềm [phản hồi nhanh/nhạy bén].</li>
       
-          <li className="list-none">Hình thái: [responsive] - [Diện Cơ][Modified Base] hình thành từ khối [Rễ Cơ][Root Base] nguyên bản "respond" mặc thêm hậu tố "-sive" để thay đổi diện mạo bên ngoài thành một khối cấp độ [Cơ][Base], thu gọn dưới dạng khối đặc điểm đã được cô đọng hoàn toàn về dạng một thành phần tính cơ đơn duy nhất.</li>
+          <li className="list-none">Hình thái: [responsive] - [Diện Tính Cơ][Modified Adjective Base] hình thành từ khối [Rễ Động Cơ][Root Verb Base] nguyên bản "respond" mặc thêm hậu tố "-sive" để thay đổi diện mạo bên ngoài thành một khối cấp độ [Cơ][Base], thu gọn dưới dạng khối đặc điểm đã được cô đọng hoàn toàn về dạng một thành phần tính cơ đơn duy nhất.</li>
       
           <li className="list-none">Chức năng mới: [responsive] - [Tính Cơ][Adjective Base] thiết lập vị trí ngay trước đối tượng để quét và hiển thị ngắn gọn đặc điểm của đối tượng đó.</li>
       

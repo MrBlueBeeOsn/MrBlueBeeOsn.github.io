@@ -66,7 +66,7 @@ export default function LegoAssembly2(): React.JSX.Element {
 			
 			<p className="margin-top-20">Dependent được tổ chức theo <strong>3 cấp độ</strong> (Cơ → Cụm → Câu) và <strong>3 chức năng</strong> (Danh – Tính – Trạng). Nguyên lý xuyên suốt: <strong>Hình thái trước</strong> – <strong>Chức năng sau</strong>.</p>
 
-			<p>Đầu tiên nhận diện Dependent là một [Động Cơ][Verb Base], [Động Cụm][Verb Phrase] hay [Động Câu][Verb Clause]. Sau đó, dựa vào vị trí trong câu lớn, suy ra nó đang đảm nhận chức năng Danh, Tính hay Trạng.</p>
+			<p>Đầu tiên nhận diện Dependent là một [Rễ Động Cơ][Root Verb Base], [Động Cụm][Verb Phrase] hay [Động Câu][Verb Clause]. Sau đó, dựa vào vị trí trong câu lớn, suy ra nó đang đảm nhận chức năng Danh, Tính hay Trạng.</p>
 
 			<p>Khi đã thuần thục, bạn có thể <strong>viết lại câu</strong> (<strong>paraphrasing</strong>) chỉ bằng cách thay khối Dependent này bằng một khối Dependent khác <strong>cùng chức năng</strong> – giống như đổi một miếng Lego cùng hình dạng nhưng khác màu.</p>
 

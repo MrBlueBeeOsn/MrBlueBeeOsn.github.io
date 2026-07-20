@@ -27,9 +27,9 @@ export default function Clear(): React.JSX.Element {
 
         <div>
 
-          <p className="margin-bottom-20">[clear] is a [Verb Base] that means to remove things that are not wanted from a place, or to make something easy to see or understand.</p>
+          <p className="margin-bottom-20">[clear] is a [Root Verb Base] that means to remove things that are not wanted from a place, or to make something easy to see or understand.</p>
 
-          <p>[clear] là một [Động Cơ][Verb Base] có nghĩa là dọn dẹp, xóa bỏ những thứ không mong muốn khỏi một nơi nào đó, hoặc làm cho cái gì đó trở nên dễ nhìn, dễ hiểu (rõ ràng).</p>
+          <p>[clear] là một [Rễ Động Cơ][Root Verb Base] có nghĩa là dọn dẹp, xóa bỏ những thứ không mong muốn khỏi một nơi nào đó, hoặc làm cho cái gì đó trở nên dễ nhìn, dễ hiểu (rõ ràng).</p>
 
           <p className="margin-top-20">Ví dụ: /klɪə(r)/</p>
 
@@ -63,8 +63,8 @@ export default function Clear(): React.JSX.Element {
       
         <ol>
       
-          <li value="1">[<strong>Động Cơ</strong>][<strong>Verb Base</strong>]: clear</li>
-          <li className="margin-bottom-20 list-none">Là mã hành động nguyên bản [Rễ Cơ][Root Base] (dọn dẹp, xóa bỏ, làm sạch), chưa qua xử lý dấu mốc thời gian hay phương thức, đóng vai trò là lõi dữ liệu thô.</li>
+          <li value="1">[<strong>Rễ Động Cơ</strong>][<strong>Root Verb Base</strong>]: clear</li>
+          <li className="margin-bottom-20 list-none">Là mã hành động nguyên bản [Rễ Động Cơ][Root Verb Base] (dọn dẹp, xóa bỏ, làm sạch), chưa qua xử lý dấu mốc thời gian hay phương thức, đóng vai trò là lõi dữ liệu thô.</li>
       
           <li value="2">[<strong>Thời Động Cơ</strong>][<strong>Tense Verb Base</strong>]: is, was, has, had, will</li>
           <li className="margin-bottom-20 list-none">Là đơn vị từ đơn chuyên biệt chịu trách nhiệm kích hoạt bối cảnh thời gian (Hiện tại/Quá khứ) hoặc làm trợ lực thiết lập thể chủ động/bị động, hoàn thành/tiếp diễn.</li>
@@ -127,7 +127,7 @@ export default function Clear(): React.JSX.Element {
           <li>The [clarity] of this instruction helped everyone.</li>
           <li className="margin-bottom-20 list-none">[Sự rõ ràng] của lời hướng dẫn này đã giúp đỡ mọi người.</li>
       
-          <li className="list-none">Hình thái: [clarity] - [Diện Cơ][Modified Base] hình thành từ khối [Rễ Cơ][Root Base] nguyên bản "clear" biến đổi thành "clar" mặc thêm hậu tố "-ity" để thay đổi diện mạo bên ngoài thành một khối cấp độ [Cơ][Base], tạo thành một thực thể định danh độc lập.</li>
+          <li className="list-none">Hình thái: [clarity] - [Diện Cơ][Modified Base] hình thành từ khối [Rễ Động Cơ][Root Verb Base] nguyên bản "clear" biến đổi thành "clar" mặc thêm hậu tố "-ity" để thay đổi diện mạo bên ngoài thành một khối cấp độ [Cơ][Base], tạo thành một thực thể định danh độc lập.</li>
       
           <li className="list-none">Chức năng: [clarity] - [Danh Cơ][Noun Base] đảm nhận nhiệm vụ làm thành phần nền tảng ở đầu câu để định danh cho một đặc tính/sự việc.</li>
       
@@ -159,7 +159,7 @@ export default function Clear(): React.JSX.Element {
           <li>She explained the process [clearly].</li>
           <li className="margin-bottom-20 list-none">Cô ấy đã giải thích quy trình [một cách rõ ràng].</li>
       
-          <li className="list-none">Hình thái: [clearly] - [Diện Cơ][Modified Base] hình thành từ khối [Rễ Cơ][Root Base] nguyên bản "clear" mặc thêm hậu tố "-ly" để thay đổi diện mạo bên ngoài thành một khối cấp độ [Cơ][Base], chuyển đổi bản chất sang chức năng trạng dưới dạng từ đơn lẻ thông dụng.</li>
+          <li className="list-none">Hình thái: [clearly] - [Diện Trạng Cơ][Modified Adverb Base] hình thành từ khối [Rễ Tính Cơ][Root Adjective Base] nguyên bản "clear" mặc thêm hậu tố "-ly" để thay đổi diện mạo bên ngoài thành một khối cấp độ [Cơ][Base], chuyển đổi bản chất sang chức năng trạng dưới dạng từ đơn lẻ thông dụng.</li>
       
           <li className="list-none">Chức năng: [clearly] - [Trạng Cơ][Adverb Base] thực thi vai trò làm thành phần bổ nghĩa đứng sau hành động "explained" để xác định bối cảnh cách thức.</li>
       
@@ -752,7 +752,7 @@ export default function Clear(): React.JSX.Element {
           <li>I like a [clear] system layout.</li>
           <li className="margin-bottom-20 list-none">Tôi thích một bố cục hệ thống [rõ ràng].</li>
       
-          <li className="list-none">Hình thái mới: [clear] - [Rễ Cơ][Root Base] hình thành từ khối [Rễ Cơ][Root Base] nguyên bản, ở trạng thái mộc hoàn toàn, không ăn diện thêm phụ kiện, thu gọn dưới dạng khối đặc điểm đã được cô đọng hoàn toàn về dạng một thành phần tính cơ đơn duy nhất.</li>
+          <li className="list-none">Hình thái mới: [clear] - [Rễ Tính Cơ][Root Adjective Base] hình thành từ khối [Rễ Tính Cơ][Root Adjective Base] nguyên bản, ở trạng thái mộc hoàn toàn, không ăn diện thêm phụ kiện, thu gọn dưới dạng khối đặc điểm đã được cô đọng hoàn toàn về dạng một thành phần tính cơ đơn duy nhất.</li>
       
           <li className="list-none">Chức năng mới: [clear] - [Tính Cơ][Adjective Base] thiết lập vị trí ngay trước đối tượng "system layout" để quét và hiển thị ngắn gọn đặc điểm của đối tượng đó.</li>
       

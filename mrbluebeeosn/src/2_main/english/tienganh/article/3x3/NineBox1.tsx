@@ -96,8 +96,8 @@ export default function NineBox1(): React.JSX.Element {
 			
 				<ol>
 			
-					<li value="1">[<strong>Động Cơ</strong>][<strong>Verb Base</strong>]: develop, build, execute</li>
-					<li className="margin-bottom-20 list-none">Hành động nguyên bản [Rễ Cơ][Root Base] [Class cha/Root Class] chứa hạt nhân ngữ nghĩa lõi của hành động nhưng chưa được kích hoạt bối cảnh thời gian hoặc biến đổi hình thái.</li>
+					<li value="1">[<strong>Rễ Động Cơ</strong>][<strong>Root Verb Base</strong>]: develop, build, execute</li>
+					<li className="margin-bottom-20 list-none">Hành động nguyên bản [Rễ Động Cơ][Root Verb Base] [Class cha/Root Class] chứa hạt nhân ngữ nghĩa lõi của hành động nhưng chưa được kích hoạt bối cảnh thời gian hoặc biến đổi hình thái.</li>
 			
 					<li value="2">[<strong>Thời Động Cơ</strong>][<strong>Tense Verb Base</strong>]: is, was, has, had, will, have</li>
 					<li className="margin-bottom-20 list-none">Xử lý bối cảnh thời gian và chịu trách nhiệm định vị dòng thời gian của hành động trên trục số, phối hợp với chủ ngữ để giữ tính hòa hợp.</li>
@@ -151,7 +151,7 @@ export default function NineBox1(): React.JSX.Element {
 					<li>[Debugging] isolates program faults.</li>
 					<li className="margin-bottom-20 list-none">[Việc gỡ lỗi] cô lập các lỗi chương trình.</li>
 			
-					<li className="list-none">Hình thái: [Debugging] - [Tiếp Động Cơ][Progressive Verb Base] bắt đầu từ [Động Cơ] nguyên bản nguyên bản [Rễ Cơ][Root Base] "Debug" thêm đuôi "ing" để hình thành [Tiếp Động Cơ][Progressive Verb Base].</li>
+					<li className="list-none">Hình thái: [Debugging] - [Tiếp Động Cơ][Progressive Verb Base] bắt đầu từ [Động Cơ] nguyên bản nguyên bản [Rễ Động Cơ][Root Verb Base] "Debug" thêm đuôi "ing" để hình thành [Tiếp Động Cơ][Progressive Verb Base].</li>
 			
 					<li className="list-none">Chức năng: [Debugging] - [Danh Cơ][Noun Base] đóng vai trò làm [Danh Chủ] chịu trách nhiệm thực thi câu lớn.</li>
 			
@@ -165,7 +165,7 @@ export default function NineBox1(): React.JSX.Element {
 					<li>The analyst provided an [updated] architecture layout.</li>
 					<li className="margin-bottom-20 list-none">Nhà phân tích đã cung cấp một sơ đồ kiến trúc [được cập nhật].</li>
 			
-					<li className="list-none">Hình thái: [updated] - [Hoàn Động Cơ][Perfect Verb Base] nguyên bản [Rễ Cơ][Root Base] "Update" thêm đuôi "ed" để hình thành [Hoàn Động Cơ][Perfect Verb Base] dạng phân từ.</li>
+					<li className="list-none">Hình thái: [updated] - [Hoàn Động Cơ][Perfect Verb Base] nguyên bản [Rễ Động Cơ][Root Verb Base] "Update" thêm đuôi "ed" để hình thành [Hoàn Động Cơ][Perfect Verb Base] dạng phân từ.</li>
 			
 					<li className="list-none">Chức năng: [updated] - [Tính Cơ][Adjective Base] đứng ngay trước đối tượng để mô tả thuộc tính cho sơ đồ.</li>
 			
@@ -179,7 +179,7 @@ export default function NineBox1(): React.JSX.Element {
 					<li>The system process finishes [decisively].</li>
 					<li className="margin-bottom-20 list-none">Tiến trình hệ thống kết thúc [một cách dứt khoát].</li>
 			
-					<li className="list-none">Hình thái: [decisively] - [Diện Cơ][Modified Base] hình thành từ khối [Rễ Cơ][Root Base] nguyên bản "decide" mặc thêm hậu tố "-sive" và "-ly" để thay đổi diện mạo bên ngoài thành một khối cấp độ [Cơ][Base].</li>
+					<li className="list-none">Hình thái: [decisively] - [Diện Trạng Cơ][Modified Adverb Base] hình thành từ khối [Rễ Động Cơ][Root Verb Base] nguyên bản "decide" mặc thêm hậu tố "-sive" và "-ly" để thay đổi diện mạo bên ngoài thành một khối cấp độ [Cơ][Base].</li>
 			
 					<li className="list-none">Chức năng: [decisively] - [Trạng Cơ][Adverb Base] chỉ cách thức, đứng sau nhằm bổ nghĩa cách thức hành động cho việc kết thúc.</li>
 			
@@ -448,7 +448,7 @@ export default function NineBox1(): React.JSX.Element {
 					<li>[Automation] increases workflow efficiency.</li>
 					<li className="margin-bottom-20 list-none">[Tự động hóa] tăng hiệu suất quy trình công việc.</li>
 			
-					<li className="list-none">Hình thái: [automation] - [Diện Cơ][Modified Base] hình thành từ khối [Rễ Cơ][Root Base] nguyên bản "automate" mặc thêm hậu tố "-tion" để thay đổi diện mạo bên ngoài thành một khối cấp độ [Cơ][Base], hình thành cấu trúc danh mục thông tin.</li>
+					<li className="list-none">Hình thái: [automation] - [Diện Danh Cơ][Modified Noun Base] hình thành từ khối [Rễ Động Cơ][Root Verb Base] nguyên bản "automate" mặc thêm hậu tố "-tion" để thay đổi diện mạo bên ngoài thành một khối cấp độ [Cơ][Base], hình thành cấu trúc danh mục thông tin.</li>
 			
 					<li className="list-none">Chức năng: [Automation] - [Danh Cơ][Noun Base] [Danh Chủ].</li>
 			
@@ -494,7 +494,7 @@ export default function NineBox1(): React.JSX.Element {
 					<li>We must replace this [unsecured] connection.</li>
 					<li className="margin-bottom-20 list-none">Chúng ta phải thay thế kết nối [không an toàn] này.</li>
 			
-					<li className="list-none">Hình thái: [unsecured] - [Hoàn Động Cơ][Perfect Verb Base] nguyên bản [Rễ Cơ][Root Base] "Secure" thêm tiền tố "un" và đuôi "ed" để hình thành [Hoàn Động Cơ][Perfect Verb Base] dạng phân từ V3/V-ed.</li>
+					<li className="list-none">Hình thái: [unsecured] - [Hoàn Động Cơ][Perfect Verb Base] nguyên bản [Rễ Động Cơ][Root Verb Base] "Secure" thêm tiền tố "un" và đuôi "ed" để hình thành [Hoàn Động Cơ][Perfect Verb Base] dạng phân từ V3/V-ed.</li>
 			
 					<li className="list-none">Chức năng: [unsecured] - [Tính Cơ][Adjective Base].</li>
 			
@@ -554,7 +554,7 @@ export default function NineBox1(): React.JSX.Element {
 					<li>The server updates [automatically].</li>
 					<li className="margin-bottom-20 list-none">Máy chủ cập nhật [một cách tự động].</li>
 			
-					<li className="list-none">Hình thái: [automatically] - [Diện Cơ][Modified Base] hình thành từ khối [Rễ Cơ][Root Base] nguyên bản "automate" mặc thêm hậu tố "-ical" và "-ly" để thay đổi diện mạo bên ngoài thành một khối cấp độ [Cơ][Base].</li>
+					<li className="list-none">Hình thái: [automatically] - [Diện Trạng Cơ][Modified Adverb Base] hình thành từ khối [Rễ Động Cơ][Root Verb Base] nguyên bản "automate" mặc thêm hậu tố "-ical" và "-ly" để thay đổi diện mạo bên ngoài thành một khối cấp độ [Cơ][Base].</li>
 			
 					<li className="list-none">Chức năng: [automatically] - [Trạng Cơ][Adverb Base] chỉ cách thức.</li>
 			

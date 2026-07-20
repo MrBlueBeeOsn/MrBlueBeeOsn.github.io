@@ -1634,7 +1634,7 @@
 			"categoryDisplay": "Làm rõ",
 			"categorySlug": "vocabulary#verbs-terms",
 			"title": "Clear",
-			"content": "[clear] is a [Verb Base] that means to remove things that are not wanted from a place, or to make something easy to see or understand. [clear] là một [Động Cơ][Verb Base] có nghĩa là dọn dẹp, xóa bỏ những thứ không mong muốn khỏi một nơi nào đó, hoặc làm cho cái gì đó trở nên dễ nhìn, dễ hiểu (rõ ràng).",
+			"content": "[clear] is a [Root Verb Base] that means to remove things that are not wanted from a place, or to make something easy to see or understand. [clear] là một [Rễ Động Cơ][Root Verb Base] có nghĩa là dọn dẹp, xóa bỏ những thứ không mong muốn khỏi một nơi nào đó, hoặc làm cho cái gì đó trở nên dễ nhìn, dễ hiểu (rõ ràng).",
 			"slug": "vocabulary/clear",
 			"date": "2026-06-19"
 		},
@@ -1643,7 +1643,7 @@
 			"categoryDisplay": "Phản hồi",
 			"categorySlug": "vocabulary#verbs-terms",
 			"title": "Respond",
-			"content": "[respond] is a [Verb Base] that means to say or do something as a reaction to something that has been said or done. [respond] là một [Động Cơ][Verb Base] có nghĩa là phản hồi, đáp lại, hoặc phản ứng lại một lời nói, hành động hoặc sự việc nào đó.",
+			"content": "[respond] is a [Root Verb Base] that means to say or do something as a reaction to something that has been said or done. [respond] là một [Rễ Động Cơ][Root Verb Base] có nghĩa là phản hồi, đáp lại, hoặc phản ứng lại một lời nói, hành động hoặc sự việc nào đó.",
 			"slug": "vocabulary/respond",
 			"date": "2026-06-20"
 		},
@@ -1652,7 +1652,7 @@
 			"categoryDisplay": "Tạo ra",
 			"categorySlug": "vocabulary#verbs-terms",
 			"title": "Create",
-			"content": "[create] is a [Verb Base] that means to make something new, or to cause something to happen. [create] là một [Động Cơ][Verb Base] có nghĩa là tạo ra, sáng tạo ra, hoặc làm nảy sinh một sự vật, hiện tạo mới.",
+			"content": "[create] is a [Root Verb Base] that means to make something new, or to cause something to happen. [create] là một [Rễ Động Cơ][Root Verb Base] có nghĩa là tạo ra, sáng tạo ra, hoặc làm nảy sinh một sự vật, hiện tạo mới.",
 			"slug": "vocabulary/create",
 			"date": "2026-07-07"
 		}

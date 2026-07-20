@@ -63,7 +63,7 @@ export default function (): React.JSX.Element {
       
         <ol>
       
-          <li value="1">[<strong>Động Cơ</strong>][<strong>Verb Base</strong>]: </li>
+          <li value="1">[<strong>Rễ Động Cơ</strong>][<strong>Root Verb Base</strong>]: </li>
           <li className="margin-bottom-20 list-none"></li>
       
           <li value="2">[<strong>Thời Động Cơ</strong>][<strong>Tense Verb Base</strong>]: </li>

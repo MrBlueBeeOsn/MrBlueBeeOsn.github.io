@@ -27,9 +27,9 @@ export default function Create(): React.JSX.Element {
 
         <div>
 
-          <p className="margin-bottom-20">[create] is a [Verb Base] that means to make something new, or to cause something to happen.</p>
+          <p className="margin-bottom-20">[create] is a [Root Verb Base] that means to make something new, or to cause something to happen.</p>
 
-          <p>[create] là một [Động Cơ][Verb Base] có nghĩa là tạo ra, sáng tạo ra, hoặc làm nảy sinh một sự vật, hiện tượng mới.</p>
+          <p>[create] là một [Rễ Động Cơ][Root Verb Base] có nghĩa là tạo ra, sáng tạo ra, hoặc làm nảy sinh một sự vật, hiện tượng mới.</p>
 
           <p className="margin-top-20">Ví dụ: /kriˈeɪt/</p>
 
@@ -38,7 +38,7 @@ export default function Create(): React.JSX.Element {
               <li>The system should [create] a secure backup automatically.</li>
               <li className="margin-bottom-20 list-none">Hệ thống nên [tạo] một bản sao lưu an toàn một cách tự động.</li>
 
-              <li className="list-none">Hình thái: [create] - [Thuần Động Cơ][Bare Verb Base] hình thành từ khối [Rễ Cơ][Root Base] nguyên bản "create" đứng sau chịu tác động từ [Ý-Thái Động Cơ][Soft-Modal Verb Base] "should" để thực thi hành động hướng tới đối tượng tiếp nhận "a secure backup".</li>
+              <li className="list-none">Hình thái: [create] - [Thuần Động Cơ][Bare Verb Base] hình thành từ khối [Rễ Động Cơ][Root Verb Base] nguyên bản "create" đứng sau chịu tác động từ [Ý-Thái Động Cơ][Soft-Modal Verb Base] "should" để thực thi hành động hướng tới đối tượng tiếp nhận "a secure backup".</li>
           
             </ul>
 
@@ -65,8 +65,8 @@ export default function Create(): React.JSX.Element {
       
         <ol>
       
-          <li value="1">[<strong>Động Cơ</strong>][<strong>Verb Base</strong>]: create</li>
-          <li className="margin-bottom-20 list-none">Hành động ở dạng [Rễ Cơ][Root Base] nguyên bản chưa qua xử lý gộp hay biến hóa cấu trúc hình thái vật lý.</li>
+          <li value="1">[<strong>Rễ Động Cơ</strong>][<strong>Root Verb Base</strong>]: create</li>
+          <li className="margin-bottom-20 list-none">Hành động ở dạng [Rễ Động Cơ][Root Verb Base] nguyên bản chưa qua xử lý gộp hay biến hóa cấu trúc hình thái vật lý.</li>
       
           <li value="2">[<strong>Hạt Động Cơ</strong>][<strong>Particle Verb Base</strong>]: to</li>
           <li className="margin-bottom-20 list-none">Mã định vị độc lập làm điểm tựa khởi động, đặt nền móng trực tiếp trước lõi vận hành chính.</li>
@@ -207,7 +207,7 @@ export default function Create(): React.JSX.Element {
           <li>The rapid [creation] of new software tools transformed the industry.</li>
           <li className="margin-bottom-20 list-none">[Sự tạo ra] nhanh chóng các công cụ phần mềm mới đã thay đổi ngành công nghiệp.</li>
       
-          <li className="list-none">Hình thái: [creation] - [Diện Cơ][Modified Base] hình thành từ khối [Rễ Cơ][Root Base] nguyên bản "create" mặc thêm hậu tố "-tion" để thay đổi diện mạo bên ngoài thành một khối cấp độ [Cơ][Base] có khả năng định danh thực thể độc lập.</li>
+          <li className="list-none">Hình thái: [creation] - [Diện Danh Cơ][Modified Noun Base] hình thành từ khối [Rễ Động Cơ][Root Verb Base] nguyên bản "create" mặc thêm hậu tố "-tion" để thay đổi diện mạo bên ngoài thành một khối cấp độ [Cơ][Base] có khả năng định danh thực thể độc lập.</li>
       
           <li className="list-none">Chức năng: [creation] - [Danh Cơ][Noun Base] đảm nhận nhiệm vụ làm thành phần định danh nền tảng đứng đầu câu.</li>
       
@@ -223,7 +223,7 @@ export default function Create(): React.JSX.Element {
           <li>Every marketing agency seeks a [creative] director.</li>
           <li className="margin-bottom-20 list-none">Mỗi công ty tiếp thị đều tìm kiếm một giám đốc [sáng tạo].</li>
       
-          <li className="list-none">Hình thái: [creative] - [Diện Cơ][Modified Base] hình thành từ khối [Rễ Cơ][Root Base] nguyên bản "create" mặc thêm hậu tố "-ive" để thay đổi diện mạo bên ngoài thành một khối cấp độ [Cơ][Base] có khả năng mô tả tính chất đặc điểm.</li>
+          <li className="list-none">Hình thái: [creative] - [Diện Tính Cơ][Modified Adjective Base] hình thành từ khối [Rễ Động Cơ][Root Verb Base] nguyên bản "create" mặc thêm hậu tố "-ive" để thay đổi diện mạo bên ngoài thành một khối cấp độ [Cơ][Base] có khả năng mô tả tính chất đặc điểm.</li>
       
           <li className="list-none">Chức năng: [creative] - [Tính Cơ][Adjective Base] kích hoạt bộ quét đặt ngay trước đối tượng "director" để hiển thị đặc điểm của đối tượng đó.</li>
       
@@ -239,7 +239,7 @@ export default function Create(): React.JSX.Element {
           <li>The designer decorated the studio [creatively].</li>
           <li className="margin-bottom-20 list-none">Nhà thiết kế đã trang trí phòng làm việc [một cách sáng tạo].</li>
       
-          <li className="list-none">Hình thái: [creatively] - [Diện Cơ][Modified Base] hình thành từ khối [Rễ Cơ][Root Base] nguyên bản "create" mặc thêm hậu tố "-ive" và "-ly" để thay đổi diện mạo bên ngoài thành một khối cấp độ [Cơ][Base] có khả năng bổ trợ bối cảnh phương thức.</li>
+          <li className="list-none">Hình thái: [creatively] - [Diện Trạng Cơ][Modified Adverb Base] hình thành từ khối [Rễ Động Cơ][Root Verb Base] nguyên bản "create" mặc thêm hậu tố "-ive" và "-ly" để thay đổi diện mạo bên ngoài thành một khối cấp độ [Cơ][Base] có khả năng bổ trợ bối cảnh phương thức.</li>
       
           <li className="list-none">Chức năng: [creatively] - [Trạng Cơ][Adverb Base] làm thành phần bổ nghĩa đứng sau hành động "decorated" để xác định cách thức diễn ra.</li>
       
@@ -357,7 +357,7 @@ export default function Create(): React.JSX.Element {
           <li>They installed a tool [efficient at creating detailed charts].</li>
           <li className="margin-bottom-20 list-none">Họ đã cài đặt một công cụ [hiệu quả trong việc tạo ra các biểu đồ chi tiết].</li>
       
-          <li className="list-none">Hình thái: [efficient at creating detailed charts] - [Rễ Cụm][Root Phrase] hình thành từ khối [Rễ Cơ][Root Base] nguyên bản "efficient", ở trạng thái mộc hoàn toàn, không ăn diện thêm phụ kiện, bắt đầu bằng mã đặc điểm gốc kết hợp mở rộng [Giới Cụm][Prepositional Phrase] phía sau chứa [Tiếp Động Cụm][Progressive Verb Phrase] biến đổi từ lõi hành động sau [Giới Cơ][Prepositional Base] "at".</li>
+          <li className="list-none">Hình thái: [efficient at creating detailed charts] - [Rễ Tính Cụm][Root Adjective Phrase] hình thành từ khối [Rễ Động Cơ][Root Verb Base] nguyên bản "efficient", ở trạng thái mộc hoàn toàn, không ăn diện thêm phụ kiện, bắt đầu bằng mã đặc điểm gốc kết hợp mở rộng [Giới Cụm][Prepositional Phrase] phía sau chứa [Tiếp Động Cụm][Progressive Verb Phrase] biến đổi từ lõi hành động sau [Giới Cơ][Prepositional Base] "at".</li>
       
           <li className="list-none">Chức năng: [efficient at creating detailed charts] - [Tính Cụm][Adjective Phrase] đặt ngay sau đối tượng "tool" để xác định năng lực, đặc điểm của đối tượng đó.</li>
       
@@ -837,7 +837,7 @@ export default function Create(): React.JSX.Element {
           <li>The studio hired a [creative] artist.</li>
           <li className="margin-bottom-20 list-none">Studio đã thuê một nghệ sĩ [sáng tạo].</li>
       
-          <li className="list-none">Hình thái mới: [creative] - [Diện Cơ][Modified Base] hình thành từ khối [Rễ Cơ][Root Base] nguyên bản "create" mặc thêm hậu tố "-ive" để thay đổi diện mạo bên ngoài thành một khối cấp độ [Cơ][Base] có khả năng mô tả đặc điểm, thu gọn hoàn toàn dưới dạng một thành phần tính cơ đơn duy nhất đứng trước đối tượng.</li>
+          <li className="list-none">Hình thái mới: [creative] - [Diện Tính Cơ][Modified Adjective Base] hình thành từ khối [Rễ Động Cơ][Root Verb Base] nguyên bản "create" mặc thêm hậu tố "-ive" để thay đổi diện mạo bên ngoài thành một khối cấp độ [Cơ][Base] có khả năng mô tả đặc điểm, thu gọn hoàn toàn dưới dạng một thành phần tính cơ đơn duy nhất đứng trước đối tượng.</li>
       
           <li className="list-none">Chức năng mới: [creative] - [Tính Cơ][Adjective Base] thiết lập vị trí ngay trước đối tượng để quét và hiển thị ngắn gọn đặc điểm của đối tượng đó.</li>
       

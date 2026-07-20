@@ -167,7 +167,7 @@ export default function ThreeDC2(): React.ReactElement {
 					<li>She has a [______] smile.</li>
 					<li className="margin-bottom-20 list-none">Cô ấy có nụ cười [ấm áp].</li>
 			
-					<li className="list-none">Hình thái: [warm] - [Rễ Cơ][Root Base] hình thành từ khối [Rễ Cơ][Root Base] nguyên bản, ở trạng thái mộc hoàn toàn, không ăn diện thêm phụ kiện, chỉ tính chất</li>
+					<li className="list-none">Hình thái: [warm] - [Rễ Tính Cơ][Root Adjective Base] hình thành từ khối [Rễ Tính Cơ][Root Adjective Base] nguyên bản, ở trạng thái mộc hoàn toàn, không ăn diện thêm phụ kiện, chỉ tính chất</li>
 			
 					<li className="list-none">Chức năng: [warm] - [Tính Cơ][Adjective Base] đứng trước [Danh Cơ] [smile] để mô tả đặc điểm của nụ cười</li>
 			
@@ -216,7 +216,7 @@ export default function ThreeDC2(): React.ReactElement {
 					<li>He answered [______].</li>
 					<li className="margin-bottom-20 list-none">Anh ấy trả lời [chính xác].</li>
 			
-					<li className="list-none">Hình thái: [correctly] - [Diện Cơ][Modified Base] hình thành từ khối [Rễ Cơ][Root Base] nguyên bản "correct" mặc thêm hậu tố "-ly" để thay đổi diện mạo bên ngoài thành một khối cấp độ [Cơ][Base].</li>
+					<li className="list-none">Hình thái: [correctly] - [Diện Trạng Cơ][Modified Adverb Base] hình thành từ khối [Rễ Tính Cơ][Root Adjective Base] nguyên bản "correct" mặc thêm hậu tố "-ly" để thay đổi diện mạo bên ngoài thành một khối cấp độ [Cơ][Base].</li>
 			
 					<li className="list-none">Chức năng: [correctly] - [Trạng Cơ][Adverb Base] bổ nghĩa cho [Động Cơ] [answered], cho biết cách thức hành động diễn ra.</li>
 			
@@ -329,7 +329,7 @@ export default function ThreeDC2(): React.ReactElement {
 					<li>I like the [______] bread.</li>
 					<li className="margin-bottom-20 list-none">Tôi thích ổ bánh mì [tươi].</li>
 			
-					<li className="list-none">Hình thái: [fresh] - [Rễ Cơ][Root Base] hình thành từ khối [Rễ Cơ][Root Base] nguyên bản, ở trạng thái mộc hoàn toàn, không ăn diện thêm phụ kiện.</li>
+					<li className="list-none">Hình thái: [fresh] - [Rễ Tính Cơ][Root Adjective Base] hình thành từ khối [Rễ Tính Cơ][Root Adjective Base] nguyên bản, ở trạng thái mộc hoàn toàn, không ăn diện thêm phụ kiện.</li>
 			
 					<li className="list-none">Chức năng: [fresh] - [Tính Cơ][Adjective Base] bổ nghĩa cho [Danh Cụm] [the bread]</li>
 			

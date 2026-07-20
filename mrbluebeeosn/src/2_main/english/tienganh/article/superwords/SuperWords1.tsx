@@ -84,8 +84,8 @@ export default function SuperWords1(): React.JSX.Element {
 			
 				<ol>
 			
-					<li value="1">[<strong>Động Cơ</strong>][<strong>Verb Base</strong>]: read, drive, speak</li>
-					<li className="margin-bottom-20 list-none">Hành động nguyên bản [Rễ Cơ][Root Base] (Class cha / Root Class) của mọi hành động, nền tảng chưa qua biến đổi để chỉ bản chất công việc.</li>
+					<li value="1">[<strong>Rễ Động Cơ</strong>][<strong>Root Verb Base</strong>]: read, drive, speak</li>
+					<li className="margin-bottom-20 list-none">Hành động nguyên bản [Rễ Động Cơ][Root Verb Base] (Class cha / Root Class) của mọi hành động, nền tảng chưa qua biến đổi để chỉ bản chất công việc.</li>
 			
 					<li value="2">[<strong>Thời Động Cơ</strong>][<strong>Tense Verb Base</strong>]: are, were, does, did</li>
 					<li className="margin-bottom-20 list-none">Một đơn vị chữ chuyên trách xử lý bối cảnh thời gian (hiện tại, quá khứ) hoặc làm mốc neo điều phối.</li>
@@ -482,29 +482,29 @@ export default function SuperWords1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>They delayed the project [owing to the team experiencing technical difficulties].</li>
-					<li className="margin-bottom-20 list-none">Họ đã hoãn dự án [do đội ngũ gặp phải những khó khăn kỹ thuật].</li>
+					<li>They canceled the launch [due to the device overheating under pressure].</li>
+					<li className="margin-bottom-20 list-none">Họ đã hủy bỏ buổi ra mắt [do thiết bị gặp tình trạng quá nhiệt dưới áp lực].</li>
 			
-					<li className="list-none">Hình thái: [owing to the team experiencing technical difficulties] - [Tiếp Động Cụm][Progressive Verb Phrase] thể hiện một khối hành động chứa [Tiếp Động Cơ][Progressive Verb Base] dạng tinh chỉnh experiencing phối hợp bọc lót thông tin.</li>
+					<li className="list-none">Hình thái: [due to the device overheating under pressure] - [Phức Giới Cụm][Complex Prepositional Phrase] thể hiện khối thông tin mở rộng bắt đầu bằng [Phức Giới Cơ][Complex Prepositional Base] "due to", kéo theo danh khối và một dạng động cơ -ing bọc lót đi sau để cụm hóa hành động gốc.</li>
 
-					<li className="list-none">Chức năng: [owing to the team experiencing technical difficulties] - [Trạng Cụm][Adverb Phrase] đang đứng vị trí ở cuối câu giữ nguyên vai trò bổ nghĩa nguyên nhân cho toàn bộ sự việc trong câu lớn.</li>
+					<li className="list-none">Chức năng: [due to the device overheating under pressure] - [Trạng Cụm][Adverb Phrase] đang đứng vị trí ở cuối câu giữ nguyên vai trò bổ nghĩa nguyên nhân cho toàn bộ sự việc trong câu lớn.</li>
 			
 				</ul>
 
 			
 
-			<h5 className="margin-y-30 text-indent-whole">Cách viết lại 2</h5>
+			<h5 className="margin-y-30 text-indent-whole">Cách viết lại 2: Dùng khối [Phức Giới Cụm][Complex Prepositional Phrase]</h5>
 
-			<p className="margin-top-20 text-indent-whole">Rút gọn tối đa: Dùng khối Giới Cụm</p>
+			<p className="margin-top-20 text-indent-whole">Rút gọn tối đa thành một cụm danh khối</p>
 			
 				<ul className="list-square">
 			
-					<li>They delayed the project [because of the technical errors].</li>
-					<li className="margin-bottom-20 list-none">Họ đã hoãn dự án [vì các lỗi kỹ thuật].</li>
+					<li>They canceled the launch [because of the hardware failure].</li>
+					<li className="margin-bottom-20 list-none">Họ đã hủy bỏ buổi ra mắt [vì lỗi phần cứng].</li>
 			
-					<li className="list-none">Hình thái: [because of the technical errors] - [Giới Cụm][Prepositional Phrase] thể hiện một khối thông tin bắt đầu bằng một tổ hợp giới cơ điều phối danh vị phía sau và không chứa hành động.</li>
+					<li className="list-none">Hình thái: [because of the hardware failure] - [Phức Giới Cụm][Complex Prepositional Phrase] thể hiện một khối thông tin không chứa hành động, bắt đầu bằng [Phức Giới Cơ][Complex Prepositional Base] "because of" điều phối trực tiếp một danh khối trung tâm đứng sau.</li>
 
-					<li className="list-none">Chức năng: [because of the technical errors] - [Trạng Cụm][Adverb Phrase] đang đứng vị trí ở cuối câu để làm mốc thiết lập bối cảnh nguyên nhân, bổ nghĩa cho toàn câu lớn.</li>
+					<li className="list-none">Chức năng: [because of the hardware failure] - [Trạng Cụm][Adverb Phrase] đang đứng vị trí ở cuối câu để làm mốc thiết lập bối cảnh nguyên nhân, bổ nghĩa cho toàn câu lớn.</li>
 			
 				</ul>
 			
@@ -514,20 +514,20 @@ export default function SuperWords1(): React.JSX.Element {
 
 			<h3 className="margin-y-50 text-center">Lời Kết: Giải Phóng Tư Duy Ngôn Ngữ</h3>
 
-			<p>Khi bạn gạt bỏ được áp lực từ những tên gọi mang tính học thuật cũ kỹ, tiếng Anh sẽ quay trở về đúng bản chất nguyên bản của nó: Một trò chơi lắp ghép và nâng cấp kích thước các khối hình.</p>
+			<p>Khi bạn gạt bỏ được áp lực từ những tên gọi cũ kỹ, tiếng Anh sẽ quay trở về đúng bản chất nguyên bản của nó: Một trò chơi lắp ghép và nâng cấp kích thước các khối hình.</p>
 
-			<p>Từ nay về sau, khi đối diện với một câu tiếng Anh, bạn không cần phải hoang mang đoán mò cấu trúc hay loay hoay tìm cách viết lại sao cho hoa mỹ. Hãy cứ nhìn vào Hình thái trước:</p>
+			<p>Từ nay về sau, khi đối diện với một câu tiếng Anh, bạn không cần phải hoang mang đoán mò cấu trúc hay loay hoay tìm cách viết lại. Hãy cứ nhìn vào Hình thái trước:</p>
 			
 				<ul className="list-square">
 			
-					<li>Nó thuộc về hệ thống phân loại Động (Cơ, Cụm, Câu) hay thuộc về khối Giới Cụm?</li>
+					<li>Nó thuộc về hệ thống phân loại [Động][Verb]: [Cơ][Base], [Cụm][Phrase], [Câu][Clause] hay thuộc về khối [Giới Cụm][Prepositional Phrase]?</li>
 			
-					<li>Sau đó, hãy nhìn vào vị trí đứng của nó để gọi tên đúng Chức năng Danh — Tính — Trạng.</li>
+					<li>Sau đó, hãy nhìn vào vị trí đứng của nó để gọi tên đúng Chức năng [Danh][Noun] — [Tính][Adjective] — [Trạng][Adverb].</li>
 			
 				</ul>
 			
 			
-			<p className="margin-top-20">Chỉ với chiếc bản đồ tư duy nhất quán này cùng tư duy thay khối thông minh, mọi tầng nghĩa của câu lập tức hiển thị rõ ràng, mạch lạc, giúp bạn bóc tách cấu trúc câu đại tài và làm chủ tiếng Anh một cách tự nhiên nhất!</p>
+			<p className="margin-top-20">Mọi tầng nghĩa lập tức hiển thị rõ ràng, giúp bạn bóc tách cấu trúc câu đại tài và làm chủ ngôn ngữ một cách tự nhiên nhất!</p>
 
 
 			<div className="viewcounter">

@@ -101,8 +101,8 @@ export default function TieredStructure1(): React.JSX.Element {
 			
 				<ol>
 			
-					<li value="1">[<strong>Động Cơ</strong>][<strong>Verb Base</strong>]: run, write, go, look</li>
-					<li className="margin-bottom-20 list-none">Hành động nguyên bản [Rễ Cơ][Root Base] (Class cha/Root Class) của mọi hành động, chưa bị can thiệp bởi bất kỳ bộ lọc thời gian hay chế độ nào.</li>
+					<li value="1">[<strong>Rễ Động Cơ</strong>][<strong>Root Verb Base</strong>]: run, write, go, look</li>
+					<li className="margin-bottom-20 list-none">Hành động nguyên bản [Rễ Động Cơ][Root Verb Base] (Class cha/Root Class) của mọi hành động, chưa bị can thiệp bởi bất kỳ bộ lọc thời gian hay chế độ nào.</li>
 			
 					<li value="2">[<strong>Thời Động Cơ</strong>][<strong>Tense Verb Base</strong>]: is, was, has, had, will, have</li>
 					<li className="margin-bottom-20 list-none">Bộ xử lý bối cảnh thời gian của hệ thống, chịu trách nhiệm xác lập mốc thời gian diễn ra của hành động trong câu.</li>
@@ -221,7 +221,7 @@ export default function TieredStructure1(): React.JSX.Element {
 					<li>He spoke [excitedly].</li>
 					<li className="margin-bottom-20 list-none">Anh ấy đã nói một cách [đầy hứng khởi].</li>
 
-					<li className="list-none">Hình thái: [excitedly] - [Diện Cơ][Modified Base] hình thành từ khối [Rễ Cơ][Root Base] nguyên bản "excite" mặc thêm hậu tố "-ed" và "-ly" để thay đổi diện mạo bên ngoài thành một khối cấp độ [Cơ][Base], tạo ra một từ đơn hành động mang tính chất bổ trợ trạng thái.</li>
+					<li className="list-none">Hình thái: [excitedly] - [Diện Trạng Cơ][Modified Adverb Base] hình thành từ khối [Rễ Động Cơ][Root Verb Base] nguyên bản "excite" mặc thêm hậu tố "-ed" và "-ly" để thay đổi diện mạo bên ngoài thành một khối cấp độ [Cơ][Base], tạo ra một từ đơn hành động mang tính chất bổ trợ trạng thái.</li>
 
 					<li className="list-none">Chức năng: [excitedly] - [Trạng Cơ][Adverb Base] thực thi vai trò bổ nghĩa đứng ngay sau hành động spoke để xác định bối cảnh phương thức, cách thức sự việc diễn ra.</li>
 			
@@ -587,7 +587,7 @@ export default function TieredStructure1(): React.JSX.Element {
 					<li>I bought a [German-built] car.</li>
 					<li className="margin-bottom-20 list-none">Tôi đã mua một chiếc xe hơi [do Đức chế tạo].</li>
 			
-					<li className="list-none">Hình thái mới: [German-built] - [Diện Cơ][Modified Base] hình thành từ khối [Rễ Cơ][Root Base] nguyên bản "build" mặc thêm tiền tố "German-" để thay đổi diện mạo bên ngoài thành một khối cấp độ [Cơ][Base], được thu gọn dưới dạng khối hành động phức tạp đã được cô đọng hoàn toàn về dạng một từ đơn duy nhất thuộc nhóm chức năng mô tả.</li>
+					<li className="list-none">Hình thái mới: [German-built] - [Diện Cơ][Modified Base] hình thành từ khối [Rễ Động Cơ][Root Verb Base] nguyên bản "build" mặc thêm tiền tố "German-" để thay đổi diện mạo bên ngoài thành một khối cấp độ [Cơ][Base], được thu gọn dưới dạng khối hành động phức tạp đã được cô đọng hoàn toàn về dạng một từ đơn duy nhất thuộc nhóm chức năng mô tả.</li>
 			
 					<li className="list-none">Chức năng mới: [German-built] - [Tính Cơ][Adjective Base] thiết lập vị trí ngay trước đối tượng car to quét và hiển thị ngắn gọn đặc điểm của đối tượng đó.</li>
 			

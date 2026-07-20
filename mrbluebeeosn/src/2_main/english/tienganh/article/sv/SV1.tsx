@@ -105,8 +105,8 @@ export default function SV1(): React.JSX.Element {
 			
 				<ol>
 			
-					<li value="1">[<strong>Động Cơ</strong>][<strong>Verb Base</strong>]: sleep, walk, eat, take</li>
-					<li className="margin-bottom-20 list-none">Dạng hành động nguyên bản [Rễ Cơ][Root Base] (Class cha/Root Class) chưa chịu tác động của thời gian hay trạng thái thực thi. Đây là lõi hành động thuần túy nhất.</li>
+					<li value="1">[<strong>Rễ Động Cơ</strong>][<strong>Root Verb Base</strong>]: sleep, walk, eat, take</li>
+					<li className="margin-bottom-20 list-none">Dạng hành động nguyên bản [Rễ Động Cơ][Root Verb Base] (Class cha/Root Class) chưa chịu tác động của thời gian hay trạng thái thực thi. Đây là lõi hành động thuần túy nhất.</li>
 			
 					<li value="2">[<strong>Thời Động Cơ</strong>][<strong>Tense Verb Base</strong>]: are, am, do, did, will, have</li>
 					<li className="margin-bottom-20 list-none">Đơn vị từ đơn lẻ chịu trách nhiệm thiết lập và xử lý bối cảnh thời gian (hiện tại, quá khứ, tương lai) cho câu.</li>
@@ -203,7 +203,7 @@ export default function SV1(): React.JSX.Element {
 					<li>They left [quietly].</li>
 					<li className="margin-bottom-20 list-none">Họ đã rời đi [một cách lặng lẽ].</li>
 			
-					<li className="list-none">Hình thái: [quietly] - [Diện Cơ][Modified Base] hình thành từ khối [Rễ Cơ][Root Base] nguyên bản "quiet" mặc thêm hậu tố "-ly" để thay đổi diện mạo bên ngoài thành một khối cấp độ [Cơ][Base].</li>
+					<li className="list-none">Hình thái: [quietly] - [Diện Trạng Cơ][Modified Adverb Base] hình thành từ khối [Rễ Tính Cơ][Root Adjective Base] nguyên bản "quiet" mặc thêm hậu tố "-ly" để thay đổi diện mạo bên ngoài thành một khối cấp độ [Cơ][Base].</li>
 			
 					<li className="list-none">Chức năng: [quietly] - [Trạng Cơ][Adverb Base] đứng sau hành động nhằm chỉ ra cách thức thực hiện.</li>
 			
@@ -473,7 +473,7 @@ export default function SV1(): React.JSX.Element {
 					<li className="margin-bottom-20 list-none">Cô ấy đã đi bộ [chậm hơn {'{những gì chúng tôi kỳ vọng}'}].</li>
 
 					<li>Phân tích Hình thái:</li>
-					<li className="list-none">Khối tổng thể bao ngoài [slower {'{than we expected}'}] là một [Tầng Diện Cụm][Tiered Modified Phrase] hình thành từ khối [Rễ Cơ][Root Base] nguyên bản "slow" mặc thêm hậu tố "-er" để thay đổi diện mạo bên ngoài thành một khối cấp độ [Cơ][Base] chỉ cách thức và mức độ.</li>
+					<li className="list-none">Khối tổng thể bao ngoài [slower {'{than we expected}'}] là một [Tầng Diện Cụm][Tiered Modified Phrase] hình thành từ khối [Rễ Tính Cơ][Root Adjective Base] nguyên bản "slow" mặc thêm hậu tố "-er" để thay đổi diện mạo bên ngoài thành một khối cấp độ [Cơ][Base] chỉ cách thức và mức độ.</li>
 					<li className="margin-bottom-20 list-none">Khối lồng bên trong {'{than we expected}'} là một [Hiển-Liên Động Câu][Connector Verb Clause] có chứa hệ trục [S][V] (we expected), được bắt đầu và kết nối bằng [Liên Cơ][Connector Base] than, cấu tạo nên cấu trúc [Phụ Câu][Dependent Clause] phụ thuộc.</li>
 			
 					<li>Phân tích Chức năng:</li>
@@ -552,7 +552,7 @@ export default function SV1(): React.JSX.Element {
 					<li>[Knowledge] is power.</li>
 					<li className="margin-bottom-20 list-none">[Tri thức] là sức mạnh.</li>
 			
-					<li className="list-none">➔ Khối [Knowledge] - [Diện Cơ][Modified Base] hình thành từ khối [Rễ Cơ][Root Base] nguyên bản "know" mặc thêm hậu tố "-ledge" để thay đổi diện mạo bên ngoài thành một khối cấp độ [Cơ][Base], giữ chức năng [Danh Cơ][Noun Base] đóng vai trò làm [Danh Chủ][Noun Subject].</li>
+					<li className="list-none">➔ Khối [Knowledge] - [Diện Cơ][Modified Base] hình thành từ khối [Rễ Động Cơ][Root Verb Base] nguyên bản "know" mặc thêm hậu tố "-ledge" để thay đổi diện mạo bên ngoài thành một khối cấp độ [Cơ][Base], giữ chức năng [Danh Cơ][Noun Base] đóng vai trò làm [Danh Chủ][Noun Subject].</li>
 			
 				</ul>
 			

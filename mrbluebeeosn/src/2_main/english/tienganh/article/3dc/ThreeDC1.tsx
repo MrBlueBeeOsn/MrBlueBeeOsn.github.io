@@ -159,8 +159,8 @@ export default function ThreeDC1(): React.ReactElement {
 			
 				<ol>
       
-          <li value="1">[<strong>Động Cơ</strong>][<strong>Verb Base</strong>]: analyze, innovate, transform</li>
-          <li className="margin-bottom-20 list-none">Hành động ở dạng [Rễ Cơ][Root Base] nguyên thủy nhất, chưa thêm bớt hay kết hợp với bất kỳ hành động nào khác.</li>
+          <li value="1">[<strong>Rễ Động Cơ</strong>][<strong>Root Verb Base</strong>]: analyze, innovate, transform</li>
+          <li className="margin-bottom-20 list-none">Hành động ở dạng [Rễ Động Cơ][Root Verb Base] nguyên thủy nhất, chưa thêm bớt hay kết hợp với bất kỳ hành động nào khác.</li>
       
           <li value="2">[<strong>Hạt Động Cơ</strong>][<strong>Particle Verb Base</strong>]: to</li>
           <li className="margin-bottom-20 list-none">[Hạt] "to" đơn lẻ đóng vai trò hạt nhân đầu tiên đứng trước mọi khối hành động để kích hoạt trạng thái nguyên bản.</li>
@@ -251,7 +251,7 @@ export default function ThreeDC1(): React.ReactElement {
 					<li>[Jogging] strengthens the heart.</li>
 					<li className="margin-bottom-20 list-none">[Việc chạy bộ] làm khỏe cơ tim.</li>
 			
-					<li className="list-none">Hình thái: Khối [Jogging] - [Tiếp Động Cơ][Progressive Verb Base] hình thành từ khối [Rễ Cơ][Root Base] nguyên bản "jog" mặc thêm hậu tố "-ing" để thay đổi diện mạo bên ngoài thành một khối cấp độ [Cơ][Base] đại diện cho một hành động danh hóa cô đọng.</li>
+					<li className="list-none">Hình thái: Khối [Jogging] - [Tiếp Động Cơ][Progressive Verb Base] hình thành từ khối [Rễ Động Cơ][Root Verb Base] nguyên bản "jog" mặc thêm hậu tố "-ing" để thay đổi diện mạo bên ngoài thành một khối cấp độ [Cơ][Base] đại diện cho một hành động danh hóa cô đọng.</li>
 			
 					<li className="list-none">Chức năng: Khối [Jogging] - [Danh Cơ][Noun Base] đóng vai trò làm [Danh Chủ][Noun Subject] thực hiện hành động cho cả khối chịu sự quản lý thời gian của [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "strengthens".</li>
 			
@@ -265,7 +265,7 @@ export default function ThreeDC1(): React.ReactElement {
 					<li>We need a [customized] solution.</li>
 					<li className="margin-bottom-20 list-none">Chúng tôi cần một giải pháp [được thiết kế riêng].</li>
 			
-					<li className="list-none">Hình thái: Khối [customized] - [Hoàn Động Cơ][Perfect Verb Base] hình thành từ khối [Rễ Cơ][Root Base] nguyên bản "customize" mặc thêm hậu tố "-ed" để thay đổi diện mạo bên ngoài thành một khối cấp độ [Cơ][Base] mang đặc tính bị động, hoàn tất.</li>
+					<li className="list-none">Hình thái: Khối [customized] - [Hoàn Động Cơ][Perfect Verb Base] hình thành từ khối [Rễ Động Cơ][Root Verb Base] nguyên bản "customize" mặc thêm hậu tố "-ed" để thay đổi diện mạo bên ngoài thành một khối cấp độ [Cơ][Base] mang đặc tính bị động, hoàn tất.</li>
 			
 					<li className="list-none">Chức năng: Khối [customized] - [Tính Cơ][Adjective Base] đứng ngay trước một thực thể để biểu thị đặc tính và bổ nghĩa cho thực thể đó.</li>
 			
@@ -279,7 +279,7 @@ export default function ThreeDC1(): React.ReactElement {
 					<li>The system failed [unexpectedly] fast.</li>
 					<li className="margin-bottom-20 list-none">Hệ thống đã trục trặc nhanh [một cách bất ngờ].</li>
 			
-					<li className="list-none">Hình thái: Khối [unexpectedly] - [Diện Cơ][Modified Base] hình thành từ khối [Rễ Cơ][Root Base] nguyên bản "expect" mặc thêm tiền tố phủ định "un-" cùng tổ hợp các hậu tố biến đổi trạng thái "-ed" và "-ly" để thay đổi diện mạo bên ngoài thành một khối cấp độ [Cơ][Base] biểu thị hoàn cảnh trạng thái đặc biệt.</li>
+					<li className="list-none">Hình thái: Khối [unexpectedly] - [Diện Trạng Cơ][Modified Adverb Base] hình thành từ khối [Rễ Động Cơ][Root Verb Base] nguyên bản "expect" mặc thêm tiền tố phủ định "un-" cùng tổ hợp các hậu tố biến đổi trạng thái "-ed" và "-ly" để thay đổi diện mạo bên ngoài thành một khối cấp độ [Cơ][Base] biểu thị hoàn cảnh trạng thái đặc biệt.</li>
 			
 					<li className="list-none">Chức năng: Khối [unexpectedly] - [Trạng Cơ][Adverb Base] đứng trước để biểu thị mức độ, tính chất bối cảnh và bổ nghĩa trực tiếp cho từ mô tả đặc tính nhanh đứng liền phía sau.</li>
 			
@@ -592,7 +592,7 @@ export default function ThreeDC1(): React.ReactElement {
 					<li>[Accordingly], the system crashed.</li>
 					<li className="margin-bottom-20 list-none">[Theo đó / Do vậy], hệ thống đã bị sập.</li>
 			
-					<li className="list-none">Hình thái: Khối [Accordingly] - [Diện Cơ][Modified Base] hình thành từ khối [Rễ Cơ][Root Base] nguyên bản "accord" mặc thêm hậu tố "-ing" và "-ly" để thay đổi diện mạo bên ngoài thành một khối cấp độ [Cơ][Base] bối cảnh độc lập.</li>
+					<li className="list-none">Hình thái: Khối [Accordingly] - [Diện Trạng Cơ][Modified Adverb Base] hình thành từ khối [Rễ Động Cơ][Root Verb Base] nguyên bản "accord" mặc thêm hậu tố "-ing" và "-ly" để thay đổi diện mạo bên ngoài thành một khối cấp độ [Cơ][Base] bối cảnh độc lập.</li>
 			
 					<li className="list-none">Chức năng: Khối [Accordingly] - [Trạng Cơ][Adverb Base] đứng biệt lập ở đầu câu để bổ nghĩa liên kết logic hệ quả cho toàn bộ nhận định phía sau.</li>
 			
@@ -644,7 +644,7 @@ export default function ThreeDC1(): React.ReactElement {
 					<li>The [rendering-accelerating] code requires optimization.</li>
 					<li className="margin-bottom-20 list-none">Khối mã [tăng-tốc-kết-xuất] cần được tối ưu hóa.</li>
 			
-					<li className="list-none">Hình thái: Khối [rendering-accelerating] - [Diện Cơ][Modified Base] hình thành từ khối [Rễ Cơ][Root Base] nguyên bản "accelerate" mặc thêm thành phần [Tiếp Động Cơ][Progressive Verb Base] "rendering-" và hậu tố "-ing" để thay đổi diện mạo bên ngoài thành một khối cấp độ [Cơ][Base] có cấu hình ghép.</li>
+					<li className="list-none">Hình thái: Khối [rendering-accelerating] - [Diện Cơ][Modified Base] hình thành từ khối [Rễ Động Cơ][Root Verb Base] nguyên bản "accelerate" mặc thêm thành phần [Tiếp Động Cơ][Progressive Verb Base] "rendering-" và hậu tố "-ing" để thay đổi diện mạo bên ngoài thành một khối cấp độ [Cơ][Base] có cấu hình ghép.</li>
 			
 					<li className="list-none">Chức năng: Khối [rendering-accelerating] - [Tính Cơ][Adjective Base] đứng trực tiếp phía trước để bổ nghĩa đặc tính vận hành cho khối biểu thị thực thể "code".</li>
 			
