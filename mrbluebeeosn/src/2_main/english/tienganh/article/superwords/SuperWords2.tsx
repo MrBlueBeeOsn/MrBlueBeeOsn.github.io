@@ -17,7 +17,7 @@ export default function SuperWords2(): React.JSX.Element {
 		
 			<h4><HashLink smooth to="/tieng-anh#functional-thinking-terms"><mark className="highlight-tertiary-padding-4-8">Functional Thinking</mark></HashLink></h4>
 
-			<h1 className="margin-y-50 text-center">Super Words
+			<h1 className="margin-y-50 text-center">[Siêu Động Cơ]
 												
 				<sup><HashLink smooth to="/tieng-anh/super-words-1">&nbsp;1&nbsp;</HashLink>
 				</sup>
