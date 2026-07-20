@@ -552,7 +552,7 @@ export default function SV1(): React.JSX.Element {
 					<li>[Knowledge] is power.</li>
 					<li className="margin-bottom-20 list-none">[Tri thức] là sức mạnh.</li>
 			
-					<li className="list-none">➔ Khối [Knowledge] - [Diện Cơ][Modified Base] hình thành từ khối [Rễ Động Cơ][Root Verb Base] nguyên bản "know" mặc thêm hậu tố "-ledge" để thay đổi diện mạo bên ngoài thành một khối cấp độ [Cơ][Base], giữ chức năng [Danh Cơ][Noun Base] đóng vai trò làm [Danh Chủ][Noun Subject].</li>
+					<li className="list-none">➔ Khối [Knowledge] - [Diện Danh Cơ][Modified Noun Base] hình thành từ khối [Rễ Động Cơ][Root Verb Base] nguyên bản "know" mặc thêm hậu tố "-ledge" để thay đổi diện mạo bên ngoài thành một khối cấp độ [Cơ][Base], giữ chức năng [Danh Cơ][Noun Base] đóng vai trò làm [Danh Chủ][Noun Subject].</li>
 			
 				</ul>
 			

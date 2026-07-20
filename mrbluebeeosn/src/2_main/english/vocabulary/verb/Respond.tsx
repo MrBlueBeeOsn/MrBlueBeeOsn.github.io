@@ -127,7 +127,7 @@ export default function Respond(): React.JSX.Element {
           <li>The [response] from the server was incredibly fast.</li>
           <li className="margin-bottom-20 list-none">[Sự phản hồi] từ máy chủ vô cùng nhanh chóng.</li>
       
-          <li className="list-none">Hình thái: [response] - [Diện Cơ][Modified Base] hình thành từ khối [Rễ Động Cơ][Root Verb Base] nguyên bản "respond" mặc thêm hậu tố "-se" để thay đổi diện mạo bên ngoài thành một khối cấp độ [Cơ][Base], tạo thành một thực thể định danh độc lập.</li>
+          <li className="list-none">Hình thái: [response] - [Diện Danh Cơ][Modified Noun Base] hình thành từ khối [Rễ Động Cơ][Root Verb Base] nguyên bản "respond" mặc thêm hậu tố "-se" để thay đổi diện mạo bên ngoài thành một khối cấp độ [Cơ][Base], tạo thành một thực thể định danh độc lập.</li>
       
           <li className="list-none">Chức năng: [response] - [Danh Cơ][Noun Base] đảm nhận nhiệm vụ làm thành phần nền tảng ở đầu câu để định danh cho một sự việc.</li>
       

@@ -644,7 +644,7 @@ export default function ThreeDC1(): React.ReactElement {
 					<li>The [rendering-accelerating] code requires optimization.</li>
 					<li className="margin-bottom-20 list-none">Khối mã [tăng-tốc-kết-xuất] cần được tối ưu hóa.</li>
 			
-					<li className="list-none">Hình thái: Khối [rendering-accelerating] - [Diện Cơ][Modified Base] hình thành từ khối [Rễ Động Cơ][Root Verb Base] nguyên bản "accelerate" mặc thêm thành phần [Tiếp Động Cơ][Progressive Verb Base] "rendering-" và hậu tố "-ing" để thay đổi diện mạo bên ngoài thành một khối cấp độ [Cơ][Base] có cấu hình ghép.</li>
+					<li className="list-none">Hình thái: Khối [rendering-accelerating] - [Diện Tính Cơ][Modified Adjective Base] hình thành từ khối [Rễ Động Cơ][Root Verb Base] nguyên bản "accelerate" mặc thêm thành phần [Tiếp Động Cơ][Progressive Verb Base] "rendering-" và hậu tố "-ing" để thay đổi diện mạo bên ngoài thành một khối cấp độ [Cơ][Base] có cấu hình ghép.</li>
 			
 					<li className="list-none">Chức năng: Khối [rendering-accelerating] - [Tính Cơ][Adjective Base] đứng trực tiếp phía trước để bổ nghĩa đặc tính vận hành cho khối biểu thị thực thể "code".</li>
 			

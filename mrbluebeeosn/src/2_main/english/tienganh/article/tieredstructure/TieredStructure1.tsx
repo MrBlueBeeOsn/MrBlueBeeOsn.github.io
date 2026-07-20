@@ -587,7 +587,7 @@ export default function TieredStructure1(): React.JSX.Element {
 					<li>I bought a [German-built] car.</li>
 					<li className="margin-bottom-20 list-none">Tôi đã mua một chiếc xe hơi [do Đức chế tạo].</li>
 			
-					<li className="list-none">Hình thái mới: [German-built] - [Diện Cơ][Modified Base] hình thành từ khối [Rễ Động Cơ][Root Verb Base] nguyên bản "build" mặc thêm tiền tố "German-" để thay đổi diện mạo bên ngoài thành một khối cấp độ [Cơ][Base], được thu gọn dưới dạng khối hành động phức tạp đã được cô đọng hoàn toàn về dạng một từ đơn duy nhất thuộc nhóm chức năng mô tả.</li>
+					<li className="list-none">Hình thái mới: [German-built] - [Diện Tính Cơ][Modified Adjective Base] hình thành từ khối [Rễ Động Cơ][Root Verb Base] nguyên bản "build" mặc thêm tiền tố "German-" để thay đổi diện mạo bên ngoài thành một khối cấp độ [Cơ][Base], được thu gọn dưới dạng khối hành động phức tạp đã được cô đọng hoàn toàn về dạng một từ đơn duy nhất thuộc nhóm chức năng mô tả.</li>
 			
 					<li className="list-none">Chức năng mới: [German-built] - [Tính Cơ][Adjective Base] thiết lập vị trí ngay trước đối tượng car to quét và hiển thị ngắn gọn đặc điểm của đối tượng đó.</li>
 			

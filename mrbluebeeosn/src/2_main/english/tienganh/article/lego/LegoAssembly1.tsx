@@ -422,7 +422,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 
 			<p className="text-indent-whole">Khối này dùng để mô tả đặc điểm, tính chất hoặc trạng thái cho một đối tượng hoặc cho [Danh Chủ][Noun Subject].</p>
 
-			<p className="margin-top-20 text-indent-whole">[<strong>Tính Cơ</strong>][<strong>Adjective Base</strong>] cấu tạo từ [Diện Cơ][Modified Base]:</p>
+			<p className="margin-top-20 text-indent-whole">[<strong>Tính Cơ</strong>][<strong>Adjective Base</strong>] cấu tạo từ [Diện Tính Cơ][Modified Adjective Base]:</p>
 			
 				<ul className="list-square">
 			
@@ -517,7 +517,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 
 			<p className="text-indent-whole">Khối này dùng để mở rộng không gian, [Thời] gian, mục đích, cách thức hoặc nguyên nhân cho hành động chính của câu.</p>
 
-			<p className="margin-top-20 text-indent-whole">[<strong>Trạng Cơ</strong>][<strong>Adverb Base</strong>] cấu tạo từ [Diện Cơ][Modified Base]:</p>
+			<p className="margin-top-20 text-indent-whole">[<strong>Trạng Cơ</strong>][<strong>Adverb Base</strong>] cấu tạo từ [Diện Trạng Cơ][Modified Adverb Base]:</p>
 			
 				<ul className="list-square">
 			
