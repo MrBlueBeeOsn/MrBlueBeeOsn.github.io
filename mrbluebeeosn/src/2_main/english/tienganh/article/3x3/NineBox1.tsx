@@ -432,53 +432,53 @@ export default function NineBox1(): React.JSX.Element {
 
 			<h3 className="margin-y-50 text-center">4. Tối Ưu Hóa Kỹ Năng Viết Lại Câu [Paraphrasing] Bằng Quy Tắc Chuyển Đổi Cấp Độ</h3>
 
-			<p>Khi bộ não của bạn đã hình thành phản xạ bóc tách tự động tách biệt hoàn toàn Hình thái thô bên ngoài và Chức năng thực tế bên trong—thì kỹ năng viết lại câu [Paraphrasing] trở thành một bài toán "thay khối cùng chức năng" và không cần thay đổi cấu trúc tổng thể.</p>
+			<p>Khi bộ não của bạn đã hình thành phản xạ bóc tách tự động—tách biệt hoàn toàn hình thái thô bên ngoài và chức năng thực tế bên trong—thì kỹ năng viết lại câu trở thành một bài toán "thay khối cùng chức năng" và không cần thay đổi cấu trúc tổng thể.</p>
 
-			<p>Thay vì đi tìm các từ đồng nghĩa một cách rời rạc hay cố gắng đảo lộn câu một cách may rủi, bạn giữ cố định vị trí Chức năng trên trục ngang của hệ tọa độ, và chỉ thay đổi kích thước của khối hình thái từ mức Cơ lên Cụm, hoặc từ Cụm lên Câu. Bản thiết kế tổng thể của Câu lớn hoàn toàn được giữ vững, không bao giờ lo gãy đổ cấu trúc logic.</p>
+			<p>Thay vì đi tìm các cấu trúc từ ngữ rời rạc hay cố gắng đảo lộn câu một cách may rủi, bạn giữ cố định vị trí chức năng trên trục ngang của hệ tọa độ, và chỉ thay đổi kích thước của khối hình thái từ mức [Cơ][Base] lên [Cụm][Phrase], hoặc từ [Cụm][Phrase] lên [Câu][Clause]. Bản thiết kế tổng thể của Câu lớn hoàn toàn được giữ vững, không bao giờ lo gãy đổ cấu trúc logic.</p>
 
 			<p>Dưới đây là các module hoán đổi dữ liệu mẫu giúp bạn tối ưu hóa văn bản, sắp xếp theo trình tự ưu tiên hệ Động xử lý trước, hệ Giới xử lý sau:</p>
 
 
 			<h4 className="margin-y-40">Nhóm 1: Tịnh tiến ô chức năng DANH [Đối tượng]</h4>
 
-			<p className="margin-top-20 text-indent-whole"><strong>Mức Cấp độ Cơ</strong> [<strong>Hệ Động</strong>]:</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Mức Cấp độ</strong> [<strong>Cơ</strong>][<strong>Base</strong>] - <strong>Hệ</strong> [<strong>Động</strong>][<strong>Verb</strong>]:</p>
 			
 				<ul className="list-square">
 			
-					<li>[Automation] increases workflow efficiency.</li>
-					<li className="margin-bottom-20 list-none">[Tự động hóa] tăng hiệu suất quy trình công việc.</li>
+					<li>[Refactoring] satisfies the system demand.</li>
+					<li className="margin-bottom-20 list-none">[Việc tái cấu trúc mã nguồn] thỏa mãn yêu cầu của hệ thống.</li>
 			
-					<li className="list-none">Hình thái: [automation] - [Diện Danh Cơ][Modified Noun Base] hình thành từ khối [Rễ Động Cơ][Root Verb Base] nguyên bản "automate" mặc thêm hậu tố "-tion" để thay đổi diện mạo bên ngoài thành một khối cấp độ [Cơ][Base], hình thành cấu trúc danh mục thông tin.</li>
+					<li className="list-none">Hình thái: [Refactoring] – [Tiếp Động Cơ][Progressive Verb Base] hình thành từ khối [Rễ Động Cơ][Root Verb Base] nguyên bản "refactor" mặc thêm hậu tố "-ing" để thay đổi diện mạo bên ngoài thành một khối cấp độ [Cơ][Base].</li>
 			
-					<li className="list-none">Chức năng: [Automation] - [Danh Cơ][Noun Base] [Danh Chủ].</li>
+					<li className="list-none">Chức năng: [Refactoring] – [Danh Cơ][Noun Base] đóng vai trò làm [Danh Chủ][Noun Subject], còn demand đóng vai trò làm [Danh Cơ][Noun Base] làm [Danh Nhận][Noun Object].</li>
 			
 				</ul>
 			
 			
-			<p className="margin-top-20 text-indent-whole"><strong>Mức Cấp độ Cụm</strong> [<strong>Hệ Động</strong>]:</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Mức Cấp độ</strong> [<strong>Cụm</strong>][<strong>Phrase</strong>] - <strong>Hệ</strong> [<strong>Động</strong>][<strong>Verb</strong>]:</p>
 			
 				<ul className="list-square">
 			
-					<li>[The deployment of new software tools] increases workflow efficiency.</li>
-					<li className="margin-bottom-20 list-none">[Việc triển khai các công cụ phần mềm mới] tăng hiệu suất quy trình công việc.</li>
+					<li>[The maintenance of cloud architecture] satisfies the system demand.</li>
+					<li className="margin-bottom-20 list-none">[Việc bảo trì kiến trúc đám mây] thỏa mãn yêu cầu của hệ thống.</li>
 			
-					<li className="list-none">Hình thái: [The deployment of new software tools] - [Cụm][Phrase].</li>
+					<li className="list-none">Hình thái: [The maintenance of cloud architecture] – [Diện Danh Cụm][Modified Noun Phrase] hình thành từ khối [Rễ Động Cơ][Root Verb Base] nguyên bản "maintain" biến đổi thành "mainten" kết hợp hậu tố "-ance" để thay đổi diện mạo bên ngoài thành một khối cấp độ [Cụm][Phrase], kéo theo các thành phần bổ ngữ ở phía sau.</li>
 			
-					<li className="list-none">Chức năng: [The deployment of new software tools] - [Danh Cụm][Noun Phrase] [Danh Chủ].</li>
+					<li className="list-none">Chức năng: [The maintenance of cloud architecture] – [Danh Cụm][Noun Phrase] đóng vai trò làm [Danh Chủ][Noun Subject], còn demand đóng vai trò làm [Danh Cơ][Noun Base] làm [Danh Nhận][Noun Object].</li>
 			
 				</ul>
 			
 
-			<p className="margin-top-20 text-indent-whole"><strong>Mức Cấp độ Câu</strong> [<strong>Hệ Động</strong>]:</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Mức Cấp độ</strong> [<strong>Câu</strong>][<strong>Clause</strong>] - <strong>Hệ</strong> [<strong>Động</strong>][<strong>Verb</strong>]:</p>
 			
 				<ul className="list-square">
 			
-					<li>[What the engineering team implemented yesterday] increases workflow efficiency.</li>
-					<li className="margin-bottom-20 list-none">[Những gì đội ngũ kỹ sư triển khai ngày hôm qua] tăng hiệu suất quy trình công việc.</li>
+					<li>[What the DevOps engineer updated this morning] satisfies the system demand.</li>
+					<li className="margin-bottom-20 list-none">[Những gì kỹ sư DevOps cập nhật sáng nay] thỏa mãn yêu cầu của hệ thống.</li>
 			
-					<li className="list-none">Hình thái: [What the engineering team implemented yesterday] - [Hiển-Liên Động Câu][Connector Verb Clause].</li>
+					<li className="list-none">Hình thái: [What the DevOps engineer updated this morning] – [Hiển-Liên Động Câu][Connector Verb Clause] chứa cấu trúc kết nối tường minh "What" kết hợp cùng một cấu trúc câu con xoay quanh [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "updated".</li>
 			
-					<li className="list-none">Chức năng: [What the engineering team implemented yesterday] - [Danh Câu][Noun Clause] [Danh Chủ].</li>
+					<li className="list-none">Chức năng: [What the DevOps engineer updated this morning] – [Danh Câu][Noun Clause] đóng vai trò làm [Danh Chủ][Noun Subject], còn demand đóng vai trò làm [Danh Cơ][Noun Base] làm [Danh Nhận][Noun Object].</li>
 			
 				</ul>
 			
@@ -487,58 +487,58 @@ export default function NineBox1(): React.JSX.Element {
 
 			<h4 className="margin-y-40">Nhóm 2: Tịnh tiến ô chức năng TÍNH [Thuộc tính]</h4>
 					
-			<p className="margin-top-20 text-indent-whole"><strong>Mức Cấp độ Cơ</strong> [<strong>Hệ Động</strong>]:</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Mức Cấp độ</strong> [<strong>Cơ</strong>][<strong>Base</strong>] - <strong>Hệ</strong> [<strong>Động</strong>][<strong>Verb</strong>]:</p>
 			
 				<ul className="list-square">
 			
 					<li>We must replace this [unsecured] connection.</li>
 					<li className="margin-bottom-20 list-none">Chúng ta phải thay thế kết nối [không an toàn] này.</li>
 			
-					<li className="list-none">Hình thái: [unsecured] - [Hoàn Động Cơ][Perfect Verb Base] nguyên bản [Rễ Động Cơ][Root Verb Base] "Secure" thêm tiền tố "un" và đuôi "ed" để hình thành [Hoàn Động Cơ][Perfect Verb Base] dạng phân từ V3/V-ed.</li>
+					<li className="list-none">Hình thái: [unsecured] - [Hoàn Động Cơ][Perfect Verb Base] hình thành từ khối [Rễ Tính Cơ][Root Adjective Base] nguyên bản "secure" kết hợp tiền tố phủ định "un-" và mặc thêm hậu tố "-ed" để thay đổi diện mạo bên ngoài thành một khối cấp độ [Cơ][Base].</li>
 			
-					<li className="list-none">Chức năng: [unsecured] - [Tính Cơ][Adjective Base].</li>
+					<li className="list-none">Chức năng: [unsecured] – [Tính Cơ][Adjective Base] đứng trước để định rõ thuộc tính cho kết nối.</li>
 			
 				</ul>
 			
 			
-			<p className="margin-top-20 text-indent-whole"><strong>Mức Cấp độ Cụm</strong> [<strong>Hệ Động</strong>]:</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Mức Cấp độ</strong> [<strong>Cụm</strong>][<strong>Phrase</strong>] - <strong>Hệ</strong> [<strong>Động</strong>][<strong>Verb</strong>]:</p>
 			
 				<ul className="list-square">
 			
 					<li>We must replace this connection [causing security leaks].</li>
 					<li className="margin-bottom-20 list-none">Chúng ta phải thay thế kết nối [gây ra rò rỉ bảo mật] này.</li>
 			
-					<li className="list-none">Hình thái: [causing security leaks] - [Tiếp Động Cụm][Progressive Verb Phrase].</li>
+					<li className="list-none">Hình thái: [causing security leaks] - [Tiếp Động Cụm][Progressive Verb Phrase] hình thành từ sự phối hợp giữa hạt nhân [Tiếp Động Cơ][Progressive Verb Base] "causing" và mở rộng mục tiêu "security leaks" phía sau.</li>
 			
-					<li className="list-none">Chức năng: [causing security leaks] - [Tính Cụm][Adjective Phrase].</li>
+					<li className="list-none">Chức năng: [causing security leaks] – [Tính Cụm][Adjective Phrase] đứng sau bổ nghĩa thuộc tính diễn tiến cho kết nối.</li>
 			
 				</ul>
 			
 			
-			<p className="margin-top-20 text-indent-whole"><strong>Mức Cấp độ Câu</strong> [<strong>Hệ Động</strong>]:</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Mức Cấp độ</strong> [<strong>Câu</strong>][<strong>Clause</strong>] - <strong>Hệ</strong> [<strong>Động</strong>][<strong>Verb</strong>]:</p>
 			
 				<ul className="list-square">
 			
 					<li>We must replace this connection [which allows unauthorized user access].</li>
 					<li className="margin-bottom-20 list-none">Chúng ta phải thay thế kết nối [mà nó cho phép người dùng không được cấp quyền truy cập vào] này.</li>
 			
-					<li className="list-none">Hình thái: [which allows unauthorized user access] - [Hiển-Liên Động Câu][Connector Verb Clause].</li>
+					<li className="list-none">Hình thái: [which allows unauthorized user access] - [Hiển-Liên Động Câu][Connector Verb Clause] chứa cấu trúc kết nối tường minh "which" kết hợp cùng cấu trúc câu con xoay quanh [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "allows".</li>
 			
-					<li className="list-none">Chức năng: [which allows unauthorized user access] - [Tính Câu][Adjective Clause].</li>
+					<li className="list-none">Chức năng: [which allows unauthorized user access] – [Tính Câu][Adjective Clause] đứng sau làm nhiệm vụ định danh thuộc tính cho kết nối.</li>
 			
 				</ul>
 
 
-			<p className="margin-top-20 text-indent-whole"><strong>Mức Cấp độ Cụm</strong> [<strong>Hệ Giới</strong>]:</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Mức Cấp độ</strong> [<strong>Cụm</strong>][<strong>Phrase</strong>] - <strong>Hệ</strong> [<strong>Giới</strong>][<strong>Preposition</strong>]:</p>
 			
 				<ul className="list-square">
 			
 					<li>We must replace this connection [with multiple security flaws].</li>
 					<li className="margin-bottom-20 list-none">Chúng ta phải thay thế kết nối [với nhiều lỗ hổng bảo mật] này.</li>
 			
-					<li className="list-none">Hình thái: [with multiple security flaws] - [Giới Cụm][Prepositional Phrase].</li>
+					<li className="list-none">Hình thái: [with multiple security flaws] – Khối [Giới Cụm][Prepositional Phrase] bắt đầu bằng [Giới Cơ][Prepositional Base] "with" kết hợp với cụm mục tiêu "multiple security flaws" phía sau.</li>
 			
-					<li className="list-none">Chức năng: [with multiple security flaws] - [Tính Cụm][Adjective Phrase].</li>
+					<li className="list-none">Chức năng: [with multiple security flaws] – [Tính Cụm][Adjective Phrase] đứng sau để bổ nghĩa thuộc tính sở hữu đặc điểm cho kết nối.</li>
 			
 				</ul>
 			
@@ -547,58 +547,58 @@ export default function NineBox1(): React.JSX.Element {
 
 			<h4 className="margin-y-40">Nhóm 3: Tịnh tiến ô chức năng TRẠNG [Bối cảnh]</h4>
 
-			<p className="margin-top-20 text-indent-whole"><strong>Mức Cấp độ Cơ</strong> [<strong>Hệ Động</strong>]:</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Mức Cấp độ</strong> [<strong>Cơ</strong>][<strong>Base</strong>] - <strong>Hệ</strong> [<strong>Động</strong>][<strong>Verb</strong>]:</p>
 			
 				<ul className="list-square">
 			
-					<li>The server updates [automatically].</li>
-					<li className="margin-bottom-20 list-none">Máy chủ cập nhật [một cách tự động].</li>
+					<li>The application syncs data [productively].</li>
+					<li className="margin-bottom-20 list-none">Ứng dụng đồng bộ hóa dữ liệu [một cách đầy năng suất].</li>
 			
-					<li className="list-none">Hình thái: [automatically] - [Diện Trạng Cơ][Modified Adverb Base] hình thành từ khối [Rễ Động Cơ][Root Verb Base] nguyên bản "automate" mặc thêm hậu tố "-ical" và "-ly" để thay đổi diện mạo bên ngoài thành một khối cấp độ [Cơ][Base].</li>
+					<li className="list-none">Hình thái: [productively] - [Diện Trạng Cơ][Modified Adverb Base] hình thành từ khối [Rễ Động Cơ][Root Verb Base] nguyên bản "produce" kết hợp hậu tố "-tive" và "-ly" để thay đổi diện mạo bên ngoài thành một khối cấp độ [Cơ][Base].</li>
 			
-					<li className="list-none">Chức năng: [automatically] - [Trạng Cơ][Adverb Base] chỉ cách thức.</li>
+					<li className="list-none">Chức năng: [productively] – [Trạng Cơ][Adverb Base] bổ nghĩa cách thức vận hành cho hành động đồng bộ hóa.</li>
 			
 				</ul>
 			
 
-			<p className="margin-top-20 text-indent-whole"><strong>Mức Cấp độ Cụm</strong> [<strong>Hệ Động</strong>]:</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Mức Cấp độ</strong> [<strong>Cụm</strong>][<strong>Phrase</strong>] - <strong>Hệ</strong> [<strong>Động</strong>][<strong>Verb</strong>]:</p>
 			
 				<ul className="list-square">
 			
-					<li>The server updates [to enhance overall performance].</li>
-					<li className="margin-bottom-20 list-none">Máy chủ cập nhật [để nâng cao hiệu suất toàn diện].</li>
+					<li>The application syncs data [to eliminate data inconsistency].</li>
+					<li className="margin-bottom-20 list-none">Ứng dụng đồng bộ hóa dữ liệu [để loại bỏ việc dữ liệu không nhất quán].</li>
 			
-					<li className="list-none">Hình thái: [to enhance overall performance] - [Hạt Thuần Động Cụm][Particle Bare Verb Phrase].</li>
+					<li className="list-none">Hình thái: [to eliminate data inconsistency] - [Hạt Thuần Động Cụm][Particle Bare Verb Phrase] hình thành từ sự kết hợp giữa hạt nhân [Hạt Động Cơ][Particle Verb Base] "to" và mở rộng hành động phía sau.</li>
 			
-					<li className="list-none">Chức năng: [to enhance overall performance] - [Trạng Cụm][Adverb Phrase].</li>
+					<li className="list-none">Chức năng: [to eliminate data inconsistency] – [Trạng Cụm][Adverb Phrase] bổ nghĩa bối cảnh mục đích cho hành động đồng bộ hóa.</li>
 			
 				</ul>
 			
 
-			<p className="margin-top-20 text-indent-whole"><strong>Mức Cấp độ Câu</strong> [<strong>Hệ Động</strong>]:</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Mức Cấp độ</strong> [<strong>Câu</strong>][<strong>Clause</strong>] - <strong>Hệ</strong> [<strong>Động</strong>][<strong>Verb</strong>]:</p>
 			
 				<ul className="list-square">
 			
-					<li>The server updates [whenever a new security patch publishes].</li>
-					<li className="margin-bottom-20 list-none">Máy chủ cập nhật [bất cứ khi nào một bản vá bảo mật mới được phát hành].</li>
+					<li>The application syncs data [whenever the background microservice sends a signal].</li>
+					<li className="margin-bottom-20 list-none">Ứng dụng đồng bộ hóa dữ liệu [bất cứ khi nào dịch vụ nhỏ chạy nền gửi tín hiệu].</li>
 			
-					<li className="list-none">Hình thái: [whenever a new security patch publishes] - [Hiển-Liên Động Câu][Connector Verb Clause].</li>
+					<li className="list-none">Hình thái: [whenever the background microservice sends a signal] - [Hiển-Liên Động Câu][Connector Verb Clause] chứa cấu trúc kết nối chỉ bối cảnh điều kiện [Thời] gian "whenever" kết hợp cùng cấu trúc câu con xoay quanh [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "sends".</li>
 			
-					<li className="list-none">Chức năng: [whenever a new security patch publishes] - [Trạng Câu][Adverb Clause].</li>
+					<li className="list-none">Chức năng: [whenever the background microservice sends a signal] – [Trạng Câu][Adverb Clause] bổ nghĩa bối cảnh điều kiện [Thời] gian cho hành động đồng bộ hóa.</li>
 			
 				</ul>
 
 
-			<p className="margin-top-20 text-indent-whole"><strong>Mức Cấp độ Cụm</strong> [<strong>Hệ Giới</strong>]:</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Mức Cấp độ</strong> [<strong>Cụm</strong>][<strong>Phrase</strong>] - <strong>Hệ</strong> [<strong>Giới</strong>][<strong>Preposition</strong>]:</p>
 			
 				<ul className="list-square">
 			
-					<li>The server updates [without any human intervention].</li>
-					<li className="margin-bottom-20 list-none">Máy chủ cập nhật [mà không cần bất kỳ sự can thiệp nào của con người].</li>
+					<li>The application syncs data [because of an automated synchronization policy].</li>
+					<li className="margin-bottom-20 list-none">Ứng dụng đồng bộ hóa dữ liệu [bởi vì một chính sách đồng bộ hóa tự động].</li>
 			
-					<li className="list-none">Hình thái: [without any human intervention] - [Giới Cụm][Prepositional Phrase].</li>
+					<li className="list-none">Hình thái: [because of an automated synchronization policy] — [Phức Giới Cơ][Complex Prepositional Base] kết hợp với khối danh mục mục tiêu phía sau tạo thành một [Phức Giới Cụm][Complex Prepositional Phrase] hoàn chỉnh bổ nghĩa nguyên nhân.</li>
 			
-					<li className="list-none">Chức năng: [without any human intervention] - [Trạng Cụm][Adverb Phrase].</li>
+					<li className="list-none">Chức năng: [because of an automated synchronization policy] – [Trạng Cụm][Adverb Phrase] bổ nghĩa bối cảnh nguyên nhân cho hành động đồng bộ hóa.</li>
 			
 				</ul>
 			
@@ -608,9 +608,9 @@ export default function NineBox1(): React.JSX.Element {
 
 			<h3 className="margin-y-50 text-center">Lời Kết</h3>
 
-			<p>Sự đồng bộ giữa hai trục Chức năng [Danh - Tính - Trạng] và Cấp độ [Base - Phrase - Clause] tạo ra một bộ lọc ngôn ngữ cực kỳ tinh gọn.</p>
+			<p>Sự đồng bộ giữa hai trục Chức năng [Danh - Tính - Trạng] và Cấp độ [Cơ][Base] - [Cụm][Phrase] - [Câu][Clause] tạo ra một bộ lọc cấu trúc cực kỳ tinh gọn.</p>
 
-			<p>Khi bạn chuyển đổi cách nhìn sang việc bóc tách Hình thái trước rồi định hình Chức năng dựa trên vị trí và sự phối hợp chuẩn hóa của 6 mảnh ghép phân loại hệ Động gồm Động Cơ, [Thời Động Cơ], [Tiếp Động Cơ], [Thuần Động Cơ], [Hoàn Động Cơ], [Thái Động Cơ] và [Thời-Thuần Động Cơ] cùng sự điều hướng của các [<strong>Liên Cơ</strong>][<strong>Connector Base</strong>], việc làm chủ hay viết lại bất kỳ câu tiếng Anh chuyên ngành phức tạp nào cũng chỉ còn là việc lắp ráp các khối dữ liệu chuẩn hóa.</p>
+			<p>Khi bạn chuyển đổi cách nhìn sang việc bóc tách hình thái trước rồi định hình chức năng dựa trên vị trí và sự phối hợp chuẩn hóa của 16 mảnh ghép phân loại hệ [Động][Verb] thuộc phân hệ [Cơ][Base]—cùng sự điều hướng theo quy tắc dịch chuyển lên phân hệ [Cụm][Phrase] và phân hệ [Câu][Clause], việc làm chủ hay viết lại bất kỳ cấu trúc ngôn ngữ chuyên ngành phức tạp nào cũng chỉ còn là việc lắp ráp các khối dữ liệu chuẩn hóa.</p>
 			
 
 			<div className="viewcounter">
