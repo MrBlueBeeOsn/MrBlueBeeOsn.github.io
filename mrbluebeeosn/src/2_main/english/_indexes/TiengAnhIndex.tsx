@@ -669,31 +669,31 @@ export default function TiengAnhIndex(): React.JSX.Element {
 
             <li>
               <div className="li-content">
-                <Link to="/tieng-anh/nested-structure-1">Tiered Structure
+                <Link to="/tieng-anh/tiered-structure-1">[CƠ][CỤM][CÂU]
                 <sup>&nbsp;1&nbsp;</sup>
                 </Link>
-                {/* <Link to="/tieng-anh/nested-structure-2">
+                {/* <Link to="/tieng-anh/tiered-structure-2">
                   <sup>&nbsp;2&nbsp;</sup>
                 </Link>
-                <Link to="/tieng-anh/nested-structure-3">
+                <Link to="/tieng-anh/tiered-structure-3">
                   <sup>&nbsp;3&nbsp;</sup>
                 </Link>
-                <Link to="/tieng-anh/nested-structure-4">
+                <Link to="/tieng-anh/tiered-structure-4">
                   <sup>&nbsp;4&nbsp;</sup>
                 </Link>
-                <Link to="/tieng-anh/nested-structure-5">
+                <Link to="/tieng-anh/tiered-structure-5">
                   <sup>&nbsp;5&nbsp;</sup>
                 </Link>
-                <Link to="/tieng-anh/nested-structure-6">
+                <Link to="/tieng-anh/tiered-structure-6">
                   <sup>&nbsp;6&nbsp;</sup>
                 </Link>
-                <Link to="/tieng-anh/nested-structure-7">
+                <Link to="/tieng-anh/tiered-structure-7">
                   <sup>&nbsp;7&nbsp;</sup>
                 </Link>
-                <Link to="/tieng-anh/nested-structure-8">
+                <Link to="/tieng-anh/tiered-structure-8">
                   <sup>&nbsp;8&nbsp;</sup>
                 </Link>
-                <Link to="/tieng-anh/nested-structure-9">
+                <Link to="/tieng-anh/tiered-structure-9">
                   <sup>&nbsp;9&nbsp;</sup>
                 </Link> */}
               

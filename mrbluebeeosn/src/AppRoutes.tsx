@@ -756,7 +756,7 @@ export default function AppRoutes(): React.JSX.Element {
 					<Route path="/tieng-anh/bi-mat-ve-tu-duy-ngon-ngu-2" element={<BiMatVeTuDuyNgonNgu2 />} />
 					<Route path="/tieng-anh/bi-mat-ve-tu-duy-ngon-ngu-3" element={<BiMatVeTuDuyNgonNgu3 />} />
 
-					<Route path="/tieng-anh/nested-structure-1" element={<TieredStructure1 />} />
+					<Route path="/tieng-anh/tiered-structure-1" element={<TieredStructure1 />} />
 					
 					<Route path="/tieng-anh/nine-box-1" element={<NineBox1 />} />
 					

@@ -81,7 +81,7 @@ export default function Create(): React.JSX.Element {
           <li className="margin-bottom-20 list-none">Hành động chỉ [Thái] độ mang tính trực diện, [Áp] đặt thực tế xuống, không chừa lối thoát cho người nghe. Khối phức đặc biệt "have to" được quét như một [Phức Áp-Thái Động Cơ][Complex Assertive-Modal Verb Base] thống nhất.</li>
 
           <li value="6">[<strong>Thuần Động Cơ</strong>][<strong>Bare Verb Base</strong>]: create</li>
-          <li className="margin-bottom-20 list-none">Hành động đứng tự do một mình, hoàn toàn giải phóng và không có to đi kèm (thường đứng sau các hành động ở dạng [Ý-Thái Động Cơ][Soft-Modal Verb Base] hay [Áp-Thái Động Cơ][Assertive-Modal Verb Base]).</li>
+          <li className="margin-bottom-20 list-none">Hành động [Thuần] khiết đứng tự do một mình, hoàn toàn giải phóng và không có to đi kèm (thường đứng sau các hành động ở dạng [Ý-Thái Động Cơ][Soft-Modal Verb Base] hay [Áp-Thái Động Cơ][Assertive-Modal Verb Base]).</li>
       
           <li value="7">[<strong>Hạt Thuần Động Cơ</strong>][<strong>Particle Bare Verb Base</strong>]: to create</li>
           <li className="margin-bottom-20 list-none">Sự tích hợp thẳng hàng giữa điểm tựa khởi động và cấu trúc hành động [Thuần] khiết đứng độc lập phía sau.</li>
