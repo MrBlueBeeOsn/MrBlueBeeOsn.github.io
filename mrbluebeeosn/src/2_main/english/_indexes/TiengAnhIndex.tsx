@@ -705,7 +705,7 @@ export default function TiengAnhIndex(): React.JSX.Element {
 
             <li>
               <div className="li-content">
-                <Link to="/tieng-anh/nine-box-1">Nine Box
+                <Link to="/tieng-anh/nine-box-1">[Kiến trúc Tư duy 3x3]
                 <sup>&nbsp;1&nbsp;</sup>
                 </Link>
                 {/* <Link to="/tieng-anh/nine-box-2">
