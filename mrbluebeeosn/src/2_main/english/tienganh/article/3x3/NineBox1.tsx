@@ -52,7 +52,7 @@ export default function NineBox1(): React.JSX.Element {
 
 			<p>Nếu sở hữu tư duy hệ thống—như cách một kỹ sư phần mềm vận hành các luồng mã nguồn hay một nhà phân tích xử lý các kiến trúc cơ sở dữ liệu—bạn sẽ luôn cảm thấy bế tắc trước cách tiếp cận ngôn ngữ truyền thống. Những quy tắc rời rạc, những định nghĩa mơ hồ và hàng loạt ngoại lệ khiến bộ óc logic của bạn liên tục đòi hỏi một câu trả lời thỏa đáng: "Mô hình cấu trúc cốt lõi ở đây là gì?"</p>
 
-			<p>Thực tế, ngôn ngữ không phải là một tập hợp các quy luật ngẫu nhiên. Nó là một hệ điều hành được vận hành bởi logic tối giản. Để làm chủ tiếng Anh mà không bị rối bời, chúng ta chuyển đổi hoàn toàn sang Tư duy Chức năng.</p>
+			<p>Thực tế, ngôn ngữ không phải là một tập hợp các quy luật ngẫu nhiên. Nó là một hệ điều hành được vận hành bởi logic tối giản. Để làm chủ tiếng Anh mà không bị rối bời, chúng ta chuyển đổi hoàn toàn sang [Tư duy Chức năng][Functional Thinking].</p>
 			
 			<p>Hệ thống [Kiến trúc Tư duy 3x3] phối hợp cùng bộ quy ước song song dưới đây giúp bạn đóng gói và xử lý tiếng Anh chính xác như cách máy tính phân loại và biên dịch các kiểu dữ liệu.</p>
 			
@@ -118,7 +118,7 @@ export default function NineBox1(): React.JSX.Element {
           <li className="margin-bottom-20 list-none">Khối biểu thị [Thái] độ trực diện, mang tính cam kết, ép buộc hoặc [Áp] đặt trực tiếp xuống đối tượng nghe. Khối phức đặc biệt "have to" được quét như một [Phức Áp-Thái Động Cơ][Complex Assertive-Modal Verb Base] thống nhất.</li>
 
           <li value="6">[<strong>Thuần Động Cơ</strong>][<strong>Bare Verb Base</strong>]: analyze, compile, transmit</li>
-          <li className="margin-bottom-20 list-none">Hành động [Thuần] khiết đứng tự do một mình, hoàn toàn giải phóng và không có "to" đi kèm (thường đứng sau các hành động ở dạng [Ý-Thái][Soft-Modal] hay [Áp-Thái Động Cơ][Assertive-Modal Verb Base]).</li>
+          <li className="margin-bottom-20 list-none">Hành động [Thuần] khiết đứng độc lập, hoàn toàn được giải phóng khỏi các liên kết định hướng và không đi kèm to (thường chịu sự điều phối trực tiếp phía sau các khối hành động ở dạng [Ý-Thái][Soft-Modal] hay [Áp-Thái Động Cơ][Assertive-Modal Verb Base]).</li>
       
           <li value="7">[<strong>Hạt Thuần Động Cơ</strong>][<strong>Particle Bare Verb Base</strong>]: to analyze, to transmit</li>
           <li className="margin-bottom-20 list-none">Sự liên kết tuyến tính chặt chẽ giữa hạt định hướng nguyên bản [Hạt Động Cơ][Particle Verb Base] và rễ hành động [Thuần] khiết, nguyên bản.</li>
