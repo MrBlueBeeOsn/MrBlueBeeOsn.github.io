@@ -844,7 +844,7 @@ export default function TiengAnhIndex(): React.JSX.Element {
 
             <li>
               <div className="li-content">
-                <Link to="/tieng-anh/adj-placement-1">ADJ Placement
+                <Link to="/tieng-anh/adj-placement-1">Chức năng [Tính][Adjective]
                 <sup>&nbsp;1&nbsp;</sup>
                 </Link>
                 <Link to="/tieng-anh/adj-placement-2">
