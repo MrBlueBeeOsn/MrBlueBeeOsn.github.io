@@ -654,14 +654,16 @@ export default function TieredStructure1(): React.JSX.Element {
 					<li>We delayed the launch [because of the heavy rain].</li>
 					<li className="margin-bottom-20 list-none">Chúng tôi đã hoãn buổi ra mắt [bởi vì trận mưa lớn].</li>
 			
-					<li className="margin-bottom-20 list-none">Hình thái ban đầu: [because of the heavy rain] - [Phức Giới Cụm][Complex Prepositional Phrase] đóng vai trò làm [Trạng Cụm][Adverb Phrase] bối cảnh nguyên nhân.</li>
+					<li className="list-none">Hình thái: [because of the heavy rain] - [Phức Giới Cụm][Complex Prepositional Phrase] bắt đầu bằng [Phức Giới Cơ][Complex Prepositional Base] "because of" kết hợp với [Danh Khối][Noun Block] "the heavy rain" làm bổ ngữ.</li>
+			
+					<li className="list-none">Chức năng: [because of the heavy rain] - [Trạng Cụm][Adverb Phrase] đảm nhận vai trò bối cảnh nguyên nhân ở cấp độ cụm, đóng vai trò làm [Trạng Cụm][Adverb Phrase] bối cảnh nguyên nhân.</li>
 			
 				</ul>
 
 				<ul className="list-square">
 			
 					<li>We delayed the launch [because it rained heavily].</li>
-					<li className="margin-bottom-20 list-none">Chúng tôi đã hoãn việc ra mắt [bởi vì trời đã mưa rất to].</li>
+					<li className="margin-bottom-20 list-none">Chúng tôi đã hoãn buổi ra mắt [bởi vì trời đã mưa rất dày].</li>
 			
 					<li className="list-none">Hình thái mới: [because it rained heavily] - [Hiển-Liên Động Câu][Connector Verb Clause] hiển thị dưới dạng khối mã chứa đầy đủ chủ thể hành động it và hạt nhân [Thời-Thuần Động Cơ][Tense-Bare Verb Base] rained thiết lập cấu hình tích hợp thời quá khứ.</li>
 			
