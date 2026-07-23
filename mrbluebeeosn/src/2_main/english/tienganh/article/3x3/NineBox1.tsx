@@ -54,7 +54,7 @@ export default function NineBox1(): React.JSX.Element {
 
 			<p>Thực tế, ngôn ngữ không phải là một tập hợp các quy luật ngẫu nhiên. Nó là một hệ điều hành được vận hành bởi logic tối giản. Để làm chủ tiếng Anh mà không bị rối bời, chúng ta chuyển đổi hoàn toàn sang [Tư duy Chức năng][Functional Thinking].</p>
 			
-			<p>Hệ thống [Kiến trúc Tư duy 3x3] phối hợp cùng bộ quy ước song song dưới đây giúp bạn đóng gói và xử lý tiếng Anh chính xác như cách máy tính phân loại và biên dịch các kiểu dữ liệu.</p>
+			<p>Hệ thống [<strong>Kiến trúc Tư duy 3x3</strong>] phối hợp cùng bộ quy ước song song dưới đây giúp bạn đóng gói và xử lý tiếng Anh chính xác như cách máy tính phân loại và biên dịch các kiểu dữ liệu.</p>
 			
 
 			{/* 1.  */}
@@ -65,7 +65,7 @@ export default function NineBox1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li><strong>Chiều Ngang</strong> — <strong>Chức năng</strong> (<strong>Vai trò</strong>): Trả lời câu hỏi "Thành phần này làm nhiệm vụ gì?"</li>
+					<li><strong>Chiều Ngang</strong> — <strong>Chức năng</strong> [<strong>Vai trò</strong>]: Trả lời câu hỏi "Thành phần này làm nhiệm vụ gì?"</li>
 					<li className="margin-bottom-20 list-none">→ [Danh] / [Tính] / [Trạng].</li>
 			
 					<li><strong>Chiều Dọc</strong> — <strong>Cấp độ</strong> (<strong>Quy mô</strong>): Trả lời câu hỏi "Độ phức tạp và cấu trúc quy mô ra sao?"</li>
@@ -430,7 +430,6 @@ export default function NineBox1(): React.JSX.Element {
 			<p className="text-indent-whole">Khối này được nhận diện trực tiếp bằng mắt thông qua cấu trúc dẫn đường: [Giới Cơ][Prepositional Base] hoặc [Phức Giới Cơ][Complex Prepositional Base] đứng đầu, phối hợp cùng một khối danh mục mục tiêu làm [Danh Nhận][Noun Object] phía sau. Khi đưa vào vận hành, khối này chỉ đảm nhận việc kích hoạt thuộc tính hoặc bối cảnh.</p>
 
 
-
 			<p className="margin-top-20 text-indent-whole"><strong>Hình thành Chức năng Tính Cụm</strong> [<strong>Adjective Phrase</strong>]:</p>
 			
 				<ul className="list-square">
@@ -480,7 +479,7 @@ export default function NineBox1(): React.JSX.Element {
 
 					<li className="margin-bottom-20 list-none">Hình thái: Khối tổng thể [To understand {'{how the database handles the workload}'}] - [Hạt Thuần Tầng Động Cụm][Particle Tiered Bare Verb Phrase] ở tầng ngoài. Bên trong chứa bao gói {'{how the database handles the workload}'} - [Hiển-Liên Động Câu][Connector Verb Clause] ở tầng trong.</li>
 			
-					<li className="list-none">Chức năng: Khối {'{how the database handles the workload}'} bên trong đóng vai trò làm [Danh Câu][Noun Clause] làm [Danh Nhận][Noun Object] chịu sự điều phối hành động trực tiếp từ [Rễ Động Cơ][Root Verb Base] nguyên bản understand, và toàn bộ khối tổng thể [To understand {'{how the database handles the workload}'}] vận hành với chức năng Danh Cụm Phân Tầng [Nested Noun Phrase] đóng vai trò làm [Danh Chủ][Noun Subject] chịu trách nhiệm thực thi câu lớn.</li>
+					<li className="list-none">Chức năng: Khối {'{how the database handles the workload}'} bên trong đóng vai trò làm [Danh Câu][Noun Clause] làm [Danh Nhận][Noun Object] chịu sự điều phối hành động trực tiếp từ [Rễ Động Cơ][Root Verb Base] nguyên bản understand, và toàn bộ khối tổng thể [To understand {'{how the database handles the workload}'}] vận hành với chức năng [<strong>Danh Cụm</strong>][<strong>Noun Phrase</strong>] đóng vai trò làm [Danh Chủ][Noun Subject] chịu trách nhiệm thực thi câu lớn.</li>
 			
 				</ul>
 
