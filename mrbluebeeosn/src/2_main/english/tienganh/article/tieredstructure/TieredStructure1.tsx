@@ -58,14 +58,24 @@ export default function TieredStructure1(): React.JSX.Element {
 
 			<p>Đã đến lúc dọn dẹp toàn bộ mớ hỗn độn đó.</p>
 
-			<p>Hãy cùng bước vào một phòng thí nghiệm ngôn ngữ hoàn toàn mới — nơi tiếng Anh được chuẩn hóa theo Tư duy lập trình hệ thống. Chúng ta loại bỏ hoàn toàn các định nghĩa cũ để làm quen với hệ điều hành tối giản nhưng quyền lực bằng sức mạnh của [Thiết kế phân tầng][Tiered Structure] và Khả năng xử lý đệ quy.</p>
+			<p>Hãy cùng bước vào một phòng thí nghiệm ngôn ngữ hoàn toàn mới — nơi tiếng Anh được chuẩn hóa theo <strong>Tư duy lập trình hệ thống</strong>. Chúng ta loại bỏ hoàn toàn các định nghĩa cũ để làm quen với hệ điều hành tối giản nhưng quyền lực bằng sức mạnh của [Thiết Kế Phân Tầng][Tiered Structure] và Khả năng xử lý đệ quy.</p>
 			
 
 			{/* 1.  */}
 
 			<h3 className="margin-y-50 text-center">1. Bản Thiết Kế Kiến Trúc Nhất Quán Song Trục</h3>
 
-			<p>Sai lầm lớn nhất khi học tiếng Anh là đánh đồng <strong>Hình thái</strong> (Diện mạo khối mã trông như thế nào) với <strong>Chức năng</strong> (Khối mã đó dùng để làm gì). Người học thông thường chỉ nhìn thấy Hình thái mà không hề biết Chức năng của nó cho đến khi đặt vào hệ thống vận hành.</p>
+			<p>Sai lầm lớn nhất khi học tiếng Anh là đánh đồng:</p>
+			
+				<ul className="list-square">
+			
+					<li><strong>Hình thái</strong>: Diện mạo khối mã trông như thế nào</li>
+			
+					<li><strong>Chức năng</strong>: Khối mã đó dùng để làm gì</li>
+			
+				</ul>
+			
+			<p className="margin-top-20">Người học thông thường chỉ nhìn thấy Hình thái mà không hề biết Chức năng của nó cho đến khi đặt vào hệ thống vận hành.</p>
 
 			<p>Hệ thống mới thiết lập một bản vẽ nhị phân cực kỳ nhất quán theo hai chiều:</p>
 			
@@ -79,9 +89,7 @@ export default function TieredStructure1(): React.JSX.Element {
 			
 				</ul>
 
-			<p className="margin-top-20">Bản chất của các khối mã trong câu sẽ bắt nguồn từ các gốc Hình thái khác nhau để hình thành và kích hoạt các chức năng này.</p>
-
-			<p>Khi nhìn vào một câu, người học luôn nhận diện Hình thái hiển thị (Hardware) trước, sau đó xác định Cấp độ (Level) để giải mã chính xác Chức năng đầu ra (Software) của nó.</p>
+			<p className="margin-top-20">Bản chất của các khối mã trong câu sẽ bắt nguồn từ các gốc Hình thái khác nhau để hình thành và kích hoạt các chức năng này. Khi nhìn vào một câu, người học luôn nhận diện Hình thái hiển thị (Hardware) trước, sau đó xác định Cấp độ (Level) để giải mã chính xác Chức năng đầu ra (Software) của nó.</p>
 
 
 
@@ -210,15 +218,18 @@ export default function TieredStructure1(): React.JSX.Element {
 			<p className="text-indent-whole"><strong>QUY TẮC CỐT LÕI</strong>:</p>
 
 			<p className="text-indent-whole">Khi bất kỳ thành phần nào thuộc 16 họ [Cơ][Base] trên kéo theo các thành phần phụ thuộc phía sau như [Danh Nhận][Noun Object] (khối nhận diện đối tượng), [Trạng Cơ][Adverb Base], [Trạng Cụm][Adverb Phrase], hoặc [Trạng Câu][Adverb Clause], toàn bộ khối liên kết đó lập tức chuyển đổi cấu trúc và nâng cấp nhãn thành dạng [Cụm][Phrase] tương ứng của chính nó.</p>
+
+			<p className="margin-top-20"></p>
 			
 				<ul className="list-square">
 			
-					<li>exploring [Tiếp Động Cơ] + a new city [Danh Nhận] ➔ exploring a new city [Tiếp Động Cụm][Progressive Verb Phrase].</li>
+					<li>exploring [Tiếp Động Cơ] + a new city [Danh Nhận]</li>
+					<li className="margin-bottom-20 list-none">➔ exploring a new city [Tiếp Động Cụm][Progressive Verb Phrase].</li>
 			
-					<li>has built [Thời Hoàn Động Cơ] + a smart home [Danh Nhận] + recently [Trạng Cơ] ➔ has built a smart home recently [Thời Hoàn Động Cụm][Tense Perfect Verb Phrase].</li>
+					<li>has built [Thời Hoàn Động Cơ] + a smart home [Danh Nhận] + recently [Trạng Cơ]</li>
+					<li className="margin-bottom-20 list-none">➔ has built a smart home recently [Thời Hoàn Động Cụm][Tense Perfect Verb Phrase].</li>
 			
 				</ul>
-			
 
 
 			{/* 3.  */}
@@ -376,9 +387,9 @@ export default function TieredStructure1(): React.JSX.Element {
 			
 
 
-			<h4 className="margin-y-40">D. Phân hệ [Tầng Đóng Gói][Tiered Structure]</h4>
+			<h4 className="margin-y-40">D. Phân hệ [Thiết Kế Phân Tầng][Tiered Structure]</h4>
 					
-			<p className="text-indent-whole">Khi hệ thống vận hành ở mức độ phức tạp, bằng sức mạnh của [Thiết kế phân tầng][Tiered Structure], các khối mã sẽ lồng vào nhau tạo nên các cấu trúc đóng gói tối tân.</p>
+			<p className="text-indent-whole">Khi hệ thống vận hành ở mức độ phức tạp, bằng sức mạnh của [Thiết Kế Phân Tầng][Tiered Structure], các khối mã sẽ lồng vào nhau tạo nên các cấu trúc đóng gói tối tân.</p>
 
 
 			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 9.1</strong>: [<strong>Danh Cụm</strong>][<strong>Noun Phrase</strong>] <strong>làm Khối</strong> [<strong>Danh Chủ</strong>][<strong>Noun Subject</strong>]</p>
@@ -742,7 +753,7 @@ export default function TieredStructure1(): React.JSX.Element {
 				<ol>
 			
 					<li value="1">Xác định <strong>Hình thái</strong> dựa trên ranh giới vùng mã:</li>
-					<li className="margin-bottom-20 list-none">Hệ thống 16 lớp của Phân hệ [Cơ][Base]; Phân hệ [Cụm][Phrase]; hay Phân hệ [Câu][Clause]).</li>
+					<li className="margin-bottom-20 list-none">Hệ thống 16 lớp của Phân hệ [Cơ][Base]; Phân hệ [Cụm][Phrase]; hay Phân hệ [Câu][Clause].</li>
 			
 					<li value="2"><strong>Đóng gói phân tầng</strong> bằng các ký hiệu [...] và {'{...}'}:</li>
 					<li className="list-none">Để nhận diện ngay lập tức Chức năng ([Danh], [Tính], [Trạng]) mà các module đang đảm nhận tại vị trí đó trong câu.</li>
