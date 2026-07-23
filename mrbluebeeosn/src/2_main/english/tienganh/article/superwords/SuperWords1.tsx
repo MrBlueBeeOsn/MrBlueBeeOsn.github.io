@@ -217,9 +217,9 @@ export default function SuperWords1(): React.JSX.Element {
 
 			<p><strong>QUY TẮC CỐT LÕI</strong>:</p>
 
-			<p className="margin-top-20">Khi bất kỳ họ [Cơ][Base] nào thuộc hệ thống 16 mục trên kéo theo các thành phần bổ trợ phía sau như [Danh Nhận][Noun Object], [Trạng Cơ][Adverb Base], [Trạng Cụm][Adverb Phrase], hoặc [Trạng Câu][Adverb Clause], toàn bộ khối thông tin mở rộng đó sẽ lập tức chuyển đổi cấu trúc và dán nhãn thành dạng [Cụm][Phrase] tương ứng của chính nó.</p>
+			<p>Khi bất kỳ họ [Cơ][Base] nào thuộc hệ thống 16 mục trên kéo theo các thành phần bổ trợ phía sau như [Danh Nhận][Noun Object], [Trạng Cơ][Adverb Base], [Trạng Cụm][Adverb Phrase], hoặc [Trạng Câu][Adverb Clause], toàn bộ khối thông tin mở rộng đó sẽ lập tức chuyển đổi cấu trúc và dán nhãn thành dạng [Cụm][Phrase] tương ứng của chính nó.</p>
 
-			<p>Ví dụ:</p>
+			<p className="margin-top-20">Ví dụ:</p>
 			
 				<ul className="list-square">
 			
@@ -505,7 +505,7 @@ export default function SuperWords1(): React.JSX.Element {
 
 					<li>Hình thái: [Evaluating {'{how we allocated the budget}'}] – [Tiếp Tầng Động Cụm][Progressive Tiered Verb Phrase] ở tầng ngoài bắt đầu bằng dạng vận động -ing, bên trong chứa một khối phụ {'{how we allocated the budget}'} là [Hiển-Liên Động Câu][Connector Verb Clause] được dẫn dắt bởi "how".</li>
 			
-					<li>Chức năng: [Evaluating {'{how we allocated the budget}'}] – [Danh Cụm][Noun Phrase] tầng ngoài đóng vai trò làm [Danh Chủ][Noun Subject] đứng ở đầu câu lớn; trong đó khối phụ {'{how we allocated the budget}'} giữ chức năng làm [Danh Câu][Noun Clause] tầng trong đứng vị trí [Danh Nhận][Noun Object] để chịu tác động trực tiếp từ hành động đánh giá.</li>
+					<li>Chức năng: [Evaluating {'{how we allocated the budget}'}] – [<strong>Danh Cụm</strong>][<strong>Noun Phrase</strong>] tầng ngoài đóng vai trò làm [Danh Chủ][Noun Subject] đứng ở đầu câu lớn; trong đó khối phụ {'{how we allocated the budget}'} giữ chức năng làm [Danh Câu][Noun Clause] tầng trong đứng vị trí [Danh Nhận][Noun Object] để chịu tác động trực tiếp từ hành động đánh giá.</li>
 			
 				</ul>
 			
