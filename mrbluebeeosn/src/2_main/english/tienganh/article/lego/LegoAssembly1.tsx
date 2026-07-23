@@ -65,15 +65,15 @@ export default function LegoAssembly1(): React.JSX.Element {
 			<p>Mọi câu lớn có thể đứng độc lập và kết thúc bằng dấu chấm trong tiếng Anh, thực chất chỉ là sự vận hành của ba thành phần cơ bản luôn đóng khung [S], [Head], [Dependent]:</p>
 
 
-			<h4 className="margin-y-40 text-indent-whole">[S] [Head] [Dependent]</h4>
+			<h4 className="margin-y-40 text-indent-whole">[<strong>S</strong>] [<strong>Head</strong>] [<strong>Dependent</strong>]</h4>
 			
 				<ul className="list-square">
 			
-					<li>[S]: Khối [Danh Chủ][Noun Subject] định danh đối tượng hành động.</li>
+					<li>[<strong>S</strong>]: Khối [Danh Chủ][Noun Subject] định danh đối tượng hành động.</li>
 			
-					<li>[Hạt nhân]/[Bộ nguồn][Head]: Khối điều khiển toàn câu, luôn đứng liền kề với [S]. [Hạt nhân]/[Bộ nguồn][Head] là hạt nhân [Thời-Thuần Động Cơ][Tense-Bare Verb Base] hoặc chứa các trợ nguồn [Thời] gian, gánh vác bối cảnh [Thời] gian kết hợp logic thực thi hành động để cấp năng lượng cho toàn câu.</li>
+					<li>[<strong>Hạt nhân</strong>]/[<strong>Bộ nguồn</strong>][<strong>Head</strong>]: Khối điều khiển toàn câu, luôn đứng liền kề với [S]. [Hạt nhân]/[Bộ nguồn][Head] là hạt nhân [Thời-Thuần Động Cơ][Tense-Bare Verb Base] hoặc chứa các trợ nguồn [Thời] gian, gánh vác bối cảnh [Thời] gian kết hợp logic thực thi hành động để cấp năng lượng cho toàn câu.</li>
 			
-					<li>[Phần phụ thuộc][Dependent]: Là tất cả những gì đứng sau [Head]. Chúng mang tư duy "phụ thuộc", sinh ra là để bám vào [Head] và không bao giờ có thể đứng độc lập một mình.</li>
+					<li>[<strong>Phần phụ thuộc</strong>][<strong>Dependent</strong>]: Là tất cả những gì đứng sau [Head]. Chúng mang tư duy "phụ thuộc", sinh ra là để bám vào [Head] và không bao giờ có thể đứng độc lập một mình.</li>
 
 				</ul>
 			
@@ -90,9 +90,9 @@ export default function LegoAssembly1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>Trong câu khẳng định: [Phần phụ thuộc][Dependent] đứng ngay sau [Hạt nhân]/[Bộ nguồn][Head] tích hợp (will launch).</li>
+					<li><strong>Trong câu khẳng định</strong>: [Phần phụ thuộc][Dependent] đứng ngay sau [Hạt nhân]/[Bộ nguồn][Head] tích hợp (will launch).</li>
 			
-					<li>Trong câu phủ định: Khi [Hạt nhân]/[Bộ nguồn][Head] tách ra và chèn thêm NOT, cấu trúc ranh giới lúc này được xác lập lại. Phần [Thuần Động Cơ][Bare Verb Base] vẫn nằm trọn vẹn trong cấu hình của bộ nguồn [Hạt nhân]/[Bộ nguồn][Head], chỉ có chữ not là xen vào giữa. Lúc này, vùng [Phần phụ thuộc][Dependent] sẽ dịch chuyển và đứng ngay sau cấu hình [Hạt nhân]/[Bộ nguồn][Head] phủ định (will NOT launch).</li>
+					<li><strong>Trong câu phủ định</strong>: Khi [Hạt nhân]/[Bộ nguồn][Head] tách ra và chèn thêm NOT, cấu trúc ranh giới lúc này được xác lập lại. Phần [Thuần Động Cơ][Bare Verb Base] vẫn nằm trọn vẹn trong cấu hình của bộ nguồn [Hạt nhân]/[Bộ nguồn][Head], chỉ có chữ not là xen vào giữa. Lúc này, vùng [Phần phụ thuộc][Dependent] sẽ dịch chuyển và đứng ngay sau cấu hình [Hạt nhân]/[Bộ nguồn][Head] phủ định (will NOT launch).</li>
 			
 				</ul>
 			
@@ -108,13 +108,13 @@ export default function LegoAssembly1(): React.JSX.Element {
 				<ol>
       
           <li value="1">[<strong>Rễ Động Cơ</strong>][<strong>Root Verb Base</strong>]: launch, construct, operate</li>
-          <li className="margin-bottom-20 list-none">Hành động ở dạng nguyên thủy nhất, chưa thêm bớt hay kết hợp với bất kỳ hành động nào khác.</li>
+          <li className="margin-bottom-20 list-none">Hành động ở dạng [Rễ Động Cơ][Root Verb Base] nguyên thủy nhất, chưa thêm bớt hay kết hợp với bất kỳ hành động nào khác.</li>
       
           <li value="2">[<strong>Hạt Động Cơ</strong>][<strong>Particle Verb Base</strong>]: "to"</li>
           <li className="margin-bottom-20 list-none">[Hạt] "to" đơn lẻ đóng vai trò hạt nhân đầu tiên đứng trước mọi khối hành động để kích hoạt trạng thái nguyên bản.</li>
 
           <li value="3">[<strong>Thời Động Cơ</strong>][<strong>Tense Verb Base</strong>]: does, did, is, has, was, am, are</li>
-          <li className="margin-bottom-20 list-none">Hành động đơn lẻ xuất hiện để mang năng lượng [Thời] gian / [Thời] trong câu.</li>
+          <li className="margin-bottom-20 list-none">Hành động đơn lẻ xuất hiện để mang năng lượng [Thời] gian / mốc [Thời] gian trong câu.</li>
       
           <li value="4">[<strong>Ý-Thái Động Cơ</strong>][<strong>Soft-Modal Verb Base</strong>]: would, could, should, might</li>
           <li className="margin-bottom-20 list-none">Hành động chỉ [Thái] độ mang tính [Ý] nhị, có [Ý] tứ, mong muốn là thật nhưng cách nói nhường nhịn và triệt tiêu tính ép. Các khối phức đặc biệt "ought to" và "had better" được quét như một [Phức Ý-Thái Động Cơ] [Complex Soft-Modal Verb Base] thống nhất.</li>
@@ -252,18 +252,18 @@ export default function LegoAssembly1(): React.JSX.Element {
 
 			<h3 className="margin-y-50 text-center">5. Giải Mã Vùng Đất [Phần phụ thuộc][Dependent]: Ma Trận Nhất Quán "Hình Thái trước - Chức Năng sau"</h3>
 
-			<p>Điểm mấu chốt của phương pháp [Lego Assembly] là người học chỉ cần nhìn vào Hình thái (bản chất cấu tạo bề ngoài của khối [Lego]) trước, sau đó mới xác định Chức năng của nó dựa vào vị trí đứng trong câ</p>
+			<p>Điểm mấu chốt của phương pháp [Lego Assembly] là người học chỉ cần nhìn vào Hình thái (bản chất cấu tạo bề ngoài của khối [Lego]) trước, sau đó mới xác định Chức năng của nó dựa vào vị trí đứng trong câu.</p>
 
 
 			<h4 className="margin-y-40">Chiều Dọc: Các Cấp Độ Của Hình Thái (Mảnh [Lego] làm bằng gì?)</h4>
 
 				<ul className="list-square">
 			
-					<li>[Cơ][Base]: Mức độ level cơ bản, đơn giản nhất (chỉ gồm 1 gốc đơn lẻ).</li>
+					<li>[<strong>Cơ</strong>][<strong>Base</strong>]: Mức độ level cơ bản, đơn giản nhất (chỉ gồm 1 gốc đơn lẻ).</li>
 			
-					<li>[Cụm][Phrase]: Khối phức hợp làm một chức năng chung nhưng không có lõi [S] và hành động riêng theo quy tắc kéo theo thành phần phụ thuộc.</li>
+					<li>[<strong>Cụm</strong>][<strong>Phrase</strong>]: Khối phức hợp làm một chức năng chung nhưng không có lõi [S] và hành động riêng theo quy tắc kéo theo thành phần phụ thuộc.</li>
 
-					<li>[Câu][Clause]: Một câu con có cấu trúc [S] và hành động riêng bên trong được khóa lại bởi một [Liên Cơ][Connector Base] để đi làm thuê cho câu lớn.</li>
+					<li>[<strong>Câu</strong>][<strong>Clause</strong>]: Một câu con có cấu trúc [S] và hành động riêng bên trong được khóa lại bởi một [Liên Cơ][Connector Base] để đi làm thuê cho câu lớn.</li>
 			
 				</ul>
 
@@ -308,14 +308,14 @@ export default function LegoAssembly1(): React.JSX.Element {
 					<li>[Swimming] improves physical endurance.</li>
 					<li className="margin-bottom-20 list-none">[Việc bơi lội] cải thiện sức bền thể chất.</li>
 
-					<li className="list-none">Hình thái: [Swimming] - [Tiếp Động Cơ][Progressive Verb Base] hình thành từ khối nguyên bản "swim" mặc thêm hậu tố "-ing" để thay đổi diện mạo bên ngoài thành một khối cấp độ [Cơ][Base] biểu đạt một tiến trình hành động được thực hiện hóa.</li>
+					<li className="list-none">Hình thái: [Swimming] - [Tiếp Động Cơ][Progressive Verb Base] hình thành từ khối [Rễ Động Cơ][Root Verb Base] nguyên bản "swim" mặc thêm (kết hợp) hậu tố "-ing" để thay đổi diện mạo bên ngoài thành một khối cấp độ [Cơ][Base] biểu đạt một tiến trình hành động được thực hiện hóa.</li>
 
 					<li className="list-none">Chức năng: [Swimming] - [Danh Cơ][Noun Base] đóng vai trò làm [Danh Chủ][Noun Subject] kích hoạt và cung cấp năng lượng cho bộ nguồn [Thời-Thuần Động Cơ][Tense-Bare Verb Base] improves.</li>
 			
 				</ul>
 
 			
-			<p className="margin-top-20 text-indent-whole">[<strong>Danh Cụm</strong>][<strong>Noun Phrase</strong>] cấu tạo từ [Tiếp Động Cụm][Progressive Verb Phrase] làm [Danh Chủ][Noun Subject]:</p>
+			<p className="margin-top-20 text-indent-whole">[<strong>Danh Cụm</strong>][<strong>Noun Phrase</strong>] <strong>cấu tạo từ</strong> [<strong>Tiếp Động Cụm</strong>][<strong>Progressive Verb Phrase</strong>] <strong>làm</strong> [<strong>Danh Chủ</strong>][<strong>Noun Subject</strong>]:</p>
 			
 				<ul className="list-square">
 			
@@ -329,7 +329,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 				</ul>
 			
 
-			<p className="margin-top-20 text-indent-whole">[<strong>Danh Cụm</strong>][<strong>Noun Phrase</strong>] cấu tạo từ [Tiếp Động Cụm][Progressive Verb Phrase] làm [Danh Nhận][Noun Object]:</p>
+			<p className="margin-top-20 text-indent-whole">[<strong>Danh Cụm</strong>][<strong>Noun Phrase</strong>] <strong>cấu tạo từ</strong> [<strong>Tiếp Động Cụm</strong>][<strong>Progressive Verb Phrase</strong>] <strong>làm</strong> [<strong>Danh Nhận</strong>][<strong>Noun Object</strong>]:</p>
 			
 				<ul className="list-square">
 			
@@ -344,7 +344,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 			
 			
 
-			<p className="margin-top-20 text-indent-whole">[<strong>Danh Cụm</strong>][<strong>Noun Phrase</strong>] cấu tạo từ [Tiếp Tầng Động Cụm][Progressive Tiered Verb Phrase] làm [Danh Chủ][Noun Subject]:</p>
+			<p className="margin-top-20 text-indent-whole">[<strong>Danh Cụm</strong>][<strong>Noun Phrase</strong>] <strong>cấu tạo từ</strong> [<strong>Tiếp Tầng Động Cụm</strong>][<strong>Progressive Tiered Verb Phrase</strong>] <strong>làm</strong> [<strong>Danh Chủ</strong>][<strong>Noun Subject</strong>]:</p>
 			
 				<ul className="list-square">
 			
@@ -355,7 +355,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 
 					<li className="list-none">Khối tổng thể [Investigating {'{why the application failed}'}] là một [Tiếp Tầng Động Cụm][Progressive Tiered Verb Phrase] bắt đầu bằng [Tiếp Động Cơ][Progressive Verb Base] Investigating ôm trọn phần phụ thuộc phức tạp bên trong.</li>
 
-					<li className="margin-bottom-20 list-none">Khối nhỏ bên trong {'{why the application failed}'} là một [Hiển-Liên Động Câu][Connector Verb Clause] bắt đầu bằng [Liên Cơ][Connector Base] why kết hợp với một mệnh đề đầy đủ của riêng nó.</li>
+					<li className="margin-bottom-20 list-none">Khối nhỏ bên trong {'{why the application failed}'} là một [Hiển-Liên Động Câu][Connector Verb Clause] bắt đầu bằng [Liên Cơ][Connector Base] why kết hợp với một nhóm từ đề đầy đủ của riêng nó.</li>
 
 					<li className="list-none">Chức năng:</li>
 
@@ -367,7 +367,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 			
 
 			
-			<p className="margin-top-20 text-indent-whole">[<strong>Danh Cụm</strong>][<strong>Noun Phrase</strong>] cấu tạo từ [Tiếp Tầng Động Cụm][Progressive Tiered Verb Phrase] làm [Danh Nhận][Noun Object]:</p>
+			<p className="margin-top-20 text-indent-whole">[<strong>Danh Cụm</strong>][<strong>Noun Phrase</strong>] <strong>cấu tạo từ</strong> [<strong>Tiếp Tầng Động Cụm</strong>][<strong>Progressive Tiered Verb Phrase</strong>] <strong>làm</strong> [<strong>Danh Nhận</strong>][<strong>Noun Object</strong>]:</p>
 			
 				<ul className="list-square">
 			
@@ -378,7 +378,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 
 					<li className="list-none">Khối tổng thể [predicting {'{how the climate will shift}'}] là một [Tiếp Tầng Động Cụm][Progressive Tiered Verb Phrase] bắt đầu bằng [Tiếp Động Cơ][Progressive Verb Base] predicting kéo theo cấu trúc phụ thuộc nhiều tầng.</li>
 
-					<li className="margin-bottom-20 list-none">Khối nhỏ bên trong {'{how the climate will shift}'} là một [Hiển-Liên Động Câu][Connector Verb Clause] bắt đầu bằng [Liên Cơ][Connector Base] how kết hợp với một mệnh đề chia [Thời] gian ở tương lai.</li>
+					<li className="margin-bottom-20 list-none">Khối nhỏ bên trong {'{how the climate will shift}'} là một [Hiển-Liên Động Câu][Connector Verb Clause] bắt đầu bằng [Liên Cơ][Connector Base] how kết hợp với một cấu trúc [S]-[Head] nội bộ chứa [Áp-Thái Động Cơ][Assertive-Modal Verb Base] will biểu thị thái độ áp đặt đối với tình huống xảy ra ở tương lai.</li>
 
 					<li className="list-none">Chức năng:</li>
 
@@ -389,7 +389,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 				</ul>
 
 			
-			<p className="margin-top-20 text-indent-whole">[<strong>Danh Câu</strong>][<strong>Noun Clause</strong>] cấu tạo từ [Hiển-Liên Động Câu][Connector Verb Clause]:</p>
+			<p className="margin-top-20 text-indent-whole">[<strong>Danh Câu</strong>][<strong>Noun Clause</strong>] <strong>cấu tạo từ</strong> [<strong>Hiển-Liên Động Câu</strong>][<strong>Connector Verb Clause</strong>]:</p>
 			
 				<ul className="list-square">
 			
@@ -403,7 +403,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 				</ul>
 
 			
-			<p className="margin-top-20 text-indent-whole">[<strong>Danh Câu</strong>][<strong>Noun Clause</strong>] cấu tạo từ [Ẩn-Liên Động Câu][Zero-Connector Verb Clause]:</p>
+			<p className="margin-top-20 text-indent-whole">[<strong>Danh Câu</strong>][<strong>Noun Clause</strong>] <strong>cấu tạo từ</strong> [<strong>Ẩn-Liên Động Câu</strong>][<strong>Zero-Connector Verb Clause</strong>]:</p>
 			
 				<ul className="list-square">
 			
@@ -422,21 +422,21 @@ export default function LegoAssembly1(): React.JSX.Element {
 
 			<p className="text-indent-whole">Khối này dùng để mô tả đặc điểm, tính chất hoặc trạng thái cho một đối tượng hoặc cho [Danh Chủ][Noun Subject].</p>
 
-			<p className="margin-top-20 text-indent-whole">[<strong>Tính Cơ</strong>][<strong>Adjective Base</strong>] cấu tạo từ [Diện Tính Cơ][Modified Adjective Base]:</p>
+			<p className="margin-top-20 text-indent-whole">[<strong>Tính Cơ</strong>][<strong>Adjective Base</strong>] <strong>cấu tạo từ</strong> [<strong>Diện Tính Cơ</strong>][<strong>Modified Adjective Base</strong>]:</p>
 			
 				<ul className="list-square">
 			
 					<li>This is an [innovative] solution.</li>
 					<li className="margin-bottom-20 list-none">Đây là một giải pháp [mang tính đổi mới].</li>
 
-					<li className="list-none">Hình thái: [innovative] - [Diện Tính Cơ][Modified Adjective Base] hình thành từ khối nguyên bản "innovate" mặc thêm hậu tố "-ive" để thay đổi diện mạo bên ngoài thành một khối cấp độ [Cơ][Base] có khả năng biểu đạt một đặc tính, thuộc tính tĩnh của sự vật.</li>
+					<li className="list-none">Hình thái: [innovative] - [Diện Tính Cơ][Modified Adjective Base] hình thành từ khối [Rễ Động Cơ][Root Verb Base] nguyên bản "innovate" mặc thêm (kết hợp) hậu tố "-ive" để thay đổi diện mạo bên ngoài thành một khối cấp độ [Cơ][Base] có khả năng biểu đạt một đặc tính, thuộc tính tĩnh của sự vật.</li>
 
 					<li className="list-none">Chức năng: [innovative] - [Tính Cơ][Adjective Base] đứng trước [Danh Cơ][Noun Base] solution để bổ nghĩa và tô màu thuộc tính đặc điểm cho giải pháp.</li>
 			
 				</ul>
 			
 
-			<p className="margin-top-20 text-indent-whole">[<strong>Tính Cụm</strong>][<strong>Adjective Phrase</strong>] cấu tạo từ [Tiếp Động Cụm][Progressive Verb Phrase]:</p>
+			<p className="margin-top-20 text-indent-whole">[<strong>Tính Cụm</strong>][<strong>Adjective Phrase</strong>] <strong>cấu tạo từ</strong> [<strong>Tiếp Động Cụm</strong>][<strong>Progressive Verb Phrase</strong>]:</p>
 			
 				<ul className="list-square">
 			
@@ -450,7 +450,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 				</ul>
 
 
-			<p className="margin-top-20 text-indent-whole">[<strong>Tính Cụm</strong>][<strong>Adjective Phrase</strong>] cấu tạo từ [Giới Cụm][Prepositional Phrase]:</p>
+			<p className="margin-top-20 text-indent-whole">[<strong>Tính Cụm</strong>][<strong>Adjective Phrase</strong>] <strong>cấu tạo từ</strong> [<strong>Giới Cụm</strong>][<strong>Prepositional Phrase</strong>]:</p>
 				<ul className="list-square">
 			
 					<li>The device [with the high-resolution lens] generates sharp visual data.</li>
@@ -463,7 +463,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 				</ul>
 
 			
-			<p className="margin-top-20 text-indent-whole">[<strong>Tính Cụm</strong>][<strong>Adjective Phrase</strong>] cấu tạo từ [Tầng Giới Cụm][Tiered Prepositional Phrase]:</p>
+			<p className="margin-top-20 text-indent-whole">[<strong>Tính Cụm</strong>][<strong>Adjective Phrase</strong>] <strong>cấu tạo từ</strong> [<strong>Tầng Giới Cụm</strong>][<strong>Tiered Prepositional Phrase</strong>]:</p>
 			
 				<ul className="list-square">
 			
@@ -485,7 +485,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 				</ul>
 			
 
-			<p className="margin-top-20 text-indent-whole">[<strong>Tính Câu</strong>][<strong>Adjective Clause</strong>] cấu tạo từ [Hiển-Liên Động Câu][Connector Verb Clause]:</p>
+			<p className="margin-top-20 text-indent-whole">[<strong>Tính Câu</strong>][<strong>Adjective Clause</strong>] <strong>cấu tạo từ</strong> [<strong>Hiển-Liên Động Câu</strong>][<strong>Connector Verb Clause</strong>]:</p>
 			
 				<ul className="list-square">
 			
@@ -499,7 +499,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 				</ul>
 
 
-			<p className="margin-top-20 text-indent-whole">[<strong>Tính Câu</strong>][<strong>Adjective Clause</strong>] cấu tạo từ [Ẩn-Liên Động Câu][Zero-Connector Verb Clause]:</p>
+			<p className="margin-top-20 text-indent-whole">[<strong>Tính Câu</strong>][<strong>Adjective Clause</strong>] <strong>cấu tạo từ</strong> [<strong>Ẩn-Liên Động Câu</strong>][<strong>Zero-Connector Verb Clause</strong>]:</p>
 			
 				<ul className="list-square">
 			
@@ -517,21 +517,21 @@ export default function LegoAssembly1(): React.JSX.Element {
 
 			<p className="text-indent-whole">Khối này dùng để mở rộng không gian, [Thời] gian, mục đích, cách thức hoặc nguyên nhân cho hành động chính của câu.</p>
 
-			<p className="margin-top-20 text-indent-whole">[<strong>Trạng Cơ</strong>][<strong>Adverb Base</strong>] cấu tạo từ [Diện Trạng Cơ][Modified Adverb Base]:</p>
+			<p className="margin-top-20 text-indent-whole">[<strong>Trạng Cơ</strong>][<strong>Adverb Base</strong>] <strong>cấu tạo từ</strong> [<strong>Diện Trạng Cơ</strong>][<strong>Modified Adverb Base</strong>]:</p>
 			
 				<ul className="list-square">
 			
 					<li>The security patch protects the system [effectively].</li>
 					<li className="margin-bottom-20 list-none">Bản vá bảo mật bảo vệ hệ thống [một cách hiệu quả thực tế].</li>
 
-					<li className="list-none">Hình thái: [effectively] - [Diện Trạng Cơ][Modified Adverb Base] hình thành từ khối nguyên bản "effect" mặc thêm hậu tố "-ive" và "-ly" để thay đổi diện mạo bên ngoài thành một khối cấp độ [Cơ][Base] có khả năng bổ nghĩa cách thức, mô hình hóa trạng thái cho hành động.</li>
+					<li className="list-none">Hình thái: [effectively] - [Diện Trạng Cơ][Modified Adverb Base] hình thành từ khối [Rễ Động Cơ][Root Verb Base] nguyên bản "effect" mặc thêm (kết hợp) hậu tố "-ive" và "-ly" để thay đổi diện mạo bên ngoài thành một khối cấp độ [Cơ][Base] có khả năng bổ nghĩa cách thức, mô hình hóa trạng thái cho hành động.</li>
 
 					<li className="list-none">Chức năng: [effectively] - [Trạng Cơ][Adverb Base] bổ nghĩa bối cảnh cách thức vận hành trực tiếp cho hành động protects.</li>
 			
 				</ul>
 
 
-			<p className="margin-top-20 text-indent-whole">[<strong>Trạng Cụm</strong>][<strong>Adverb Phrase</strong>] cấu tạo từ [Hạt Thuần Động Cụm][Particle Bare Verb Phrase]:</p>
+			<p className="margin-top-20 text-indent-whole">[<strong>Trạng Cụm</strong>][<strong>Adverb Phrase</strong>] <strong>cấu tạo từ</strong> [<strong>Hạt Thuần Động Cụm</strong>][<strong>Particle Bare Verb Phrase</strong>]:</p>
 			
 				<ul className="list-square">
 			
@@ -545,26 +545,26 @@ export default function LegoAssembly1(): React.JSX.Element {
 				</ul>
 
 			
-			<p className="margin-top-20 text-indent-whole">[<strong>Trạng Cụm</strong>][<strong>Adverb Phrase</strong>] cấu tạo từ [Giới Cụm][Prepositional Phrase]:</p>
+			<p className="margin-top-20 text-indent-whole">[<strong>Trạng Cụm</strong>][<strong>Adverb Phrase</strong>] <strong>cấu tạo từ</strong> [<strong>Giới Cụm</strong>][<strong>Prepositional Phrase</strong>]:</p>
 			
 				<ul className="list-square">
 			
 					<li>We deployed the application [in the cloud infrastructure].</li>
 					<li className="margin-bottom-20 list-none">Chúng tôi đã triển khai ứng dụng [trong hạ tầng điện toán đám mây].</li>
 
-					<li className="list-none">Hình thái: [in the cloud infrastructure] - [Giới Cụm][Prepositional Phrase] bắt đầu bằng [Giới Cơ][Prepositional Base] in kết hợp một khối chức năng Danh chỉ không gian để xác định phạm vi hoạt động của giới từ.</li>
+					<li className="list-none">Hình thái: [in the cloud infrastructure] - [Giới Cụm][Prepositional Phrase] bắt đầu bằng [Giới Cơ][Prepositional Base] in kết hợp một khối chức năng Danh chỉ không gian để xác định phạm vi hoạt động của [Giới Cơ][Prepositional Base].</li>
 
 					<li className="list-none">Chức năng: [in the cloud infrastructure] - [Trạng Cụm][Adverb Phrase] đứng cuối câu để bổ sung bối cảnh không gian vị trí nơi diễn ra toàn bộ sự việc.</li>
 			
 				</ul>
 			
 
-			<p className="margin-top-20 text-indent-whole">[<strong>Trạng Cụm</strong>][<strong>Adverb Phrase</strong>] cấu tạo từ [Tầng Giới Cụm][Tiered Prepositional Phrase]:</p>
+			<p className="margin-top-20 text-indent-whole">[<strong>Trạng Cụm</strong>][<strong>Adverb Phrase</strong>] <strong>cấu tạo từ</strong> [<strong>Tầng Giới Cụm</strong>][<strong>Tiered Prepositional Phrase</strong>]:</p>
 			
 				<ul className="list-square">
 			
 					<li>They initiated the transition [at the moment {'{when the update completed}'}].</li>
-					<li className="margin-bottom-20 list-none">Họ đã khởi động quá trình chuyển đổi [vào đúng thời điểm {'{khi bản cập nhật [Hoàn] thành}'}].</li>
+					<li className="margin-bottom-20 list-none">Họ đã khởi động quá trình chuyển đổi [vào đúng thời điểm {'{khi bản cập nhật hoàn thành}'}].</li>
 
 					<li className="list-none">Hình thái:</li>
 
@@ -581,7 +581,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 				</ul>
 
 			
-			<p className="margin-top-20 text-indent-whole">[<strong>Trạng Cụm</strong>][<strong>Adverb Phrase</strong>] cấu tạo từ [Phức Giới Cụm][Complex Prepositional Phrase]:</p>
+			<p className="margin-top-20 text-indent-whole">[<strong>Trạng Cụm</strong>][<strong>Adverb Phrase</strong>] <strong>cấu tạo từ</strong> [<strong>Phức Giới Cụm</strong>][<strong>Complex Prepositional Phrase</strong>]:</p>
 			
 				<ul className="list-square">
 			
@@ -595,7 +595,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 				</ul>
 			
 					
-			<p className="margin-top-20 text-indent-whole">[<strong>Trạng Câu</strong>][<strong>Adverb Clause</strong>] cấu tạo từ [Hiển-Liên Động Câu][Connector Verb Clause]:</p>
+			<p className="margin-top-20 text-indent-whole">[<strong>Trạng Câu</strong>][<strong>Adverb Clause</strong>] <strong>cấu tạo từ</strong> [<strong>Hiển-Liên Động Câu</strong>][<strong>Connector Verb Clause</strong>]:</p>
 			
 				<ul className="list-square">
 			
@@ -610,7 +610,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 				</ul>
 
 
-			<p className="margin-top-20 text-indent-whole">[<strong>Trạng Câu</strong>][<strong>Adverb Clause</strong>] cấu tạo từ [Ẩn-Liên Động Câu][Zero-Connector Verb Clause]:</p>
+			<p className="margin-top-20 text-indent-whole">[<strong>Trạng Câu</strong>][<strong>Adverb Clause</strong>] <strong>cấu tạo từ</strong> [<strong>Ẩn-Liên Động Câu</strong>][<strong>Zero-Connector Verb Clause</strong>]:</p>
 			
 				<ul className="list-square">
 			
@@ -634,14 +634,14 @@ export default function LegoAssembly1(): React.JSX.Element {
 
 			<h4 className="margin-y-40">Hướng 1: Tăng giảm kích thước (Từ cấp độ [Cơ][Base] lên cấp độ [Câu][Clause])</h4>
 					
-			<p className="margin-top-20 text-indent-whole"><strong>Khối bối cảnh [TRẠNG] ở cấp độ [Cơ][Base]</strong>:</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Khối bối cảnh</strong> [<strong>TRẠNG</strong>] <strong>ở cấp độ</strong> [<strong>Cơ</strong>][<strong>Base</strong>]:</p>
 			
 				<ul className="list-square">
 			
 					<li>The platform updated [seamlessly].</li>
 					<li className="margin-bottom-20 list-none">Nền tảng đã cập nhật [một cách mượt mà không gián đoạn].</li>
 			
-					<li className="list-none">Hình thái: [seamlessly] - [Diện Trạng Cơ][Modified Adverb Base] hình thành từ khối nguyên bản "seam" mặc thêm hậu tố "-less" và "-ly" để thay đổi diện mạo bên ngoài thành một khối cấp độ [Cơ][Base] có vai trò chỉ trạng thái hoàn hảo, không có vết nối.</li>
+					<li className="list-none">Hình thái: [seamlessly] - [Diện Trạng Cơ][Modified Adverb Base] hình thành từ khối [Rễ Động Cơ][Root Verb Base] nguyên bản "seam" mặc thêm (kết hợp) hậu tố "-less" và "-ly" để thay đổi diện mạo bên ngoài thành một khối cấp độ [Cơ][Base] có vai trò chỉ trạng thái hoàn hảo, không có vết nối.</li>
 
 					<li className="list-none">Chức năng: [seamlessly] - [Trạng Cơ][Adverb Base] bổ nghĩa bối cảnh cách thức vận hành trực tiếp cho hành động updated.</li>
 			
@@ -650,7 +650,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 			
 			<h5 className="margin-y-30 text-indent-whole">Nâng cấp lên cấp độ [Câu][Clause]</h5>
 			
-			<p className="margin-top-20 text-indent-whole"><strong>Giữ nguyên màu [TRẠNG]</strong></p>
+			<p className="margin-top-20 text-indent-whole"><strong>Giữ nguyên màu</strong> [<strong>TRẠNG</strong>]:</p>
 			
 				<ul className="list-square">
 			
@@ -667,7 +667,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 
 			<h4 className="margin-y-40">Hướng 2: Thay đổi cấu trúc bao gói (Giữ nguyên vị trí khung, thay đổi hình thái dữ liệu)</h4>
 					
-			<p className="text-indent-whole"><strong>Sử dụng khối [Động Cụm][Verb Phrase] đóng vai trò [DANH]</strong>:</p>
+			<p className="text-indent-whole"><strong>Sử dụng khối</strong> [<strong>Động Cụm</strong>][<strong>Verb Phrase</strong>] <strong>đóng vai trò</strong> [<strong>DANH</strong>]:</p>
 			
 				<ul className="list-square">
 			
@@ -681,7 +681,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 				</ul>
 			
 			
-			<p className="margin-top-20 text-indent-whole"><strong>Biến đổi sang khối [Động Câu][Verb Clause] đóng vai trò [DANH]</strong>:</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Biến đổi sang khối</strong> [<strong>Động Câu</strong>][<strong>Verb Clause</strong>] <strong>đóng vai trò</strong> [<strong>DANH</strong>]:</p>
 			
 				<ul className="list-square">
 			

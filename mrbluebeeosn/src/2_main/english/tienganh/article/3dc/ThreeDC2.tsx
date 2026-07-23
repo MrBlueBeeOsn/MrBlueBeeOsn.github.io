@@ -246,7 +246,7 @@ export default function ThreeDC2(): React.ReactElement {
 			
 					<li className="list-none">Hình thái: [If you study regularly] - [Hiển-Liên Động Câu][Connector Verb Clause] có cặp [you] và [study]</li>
 			
-					<li className="list-none">Chức năng: [If you study regularly] - [Trạng Câu][Adverb Clause] bổ nghĩa cho mệnh đề chính [you will improve], chỉ điều kiện cần để xảy ra kết quả</li>
+					<li className="list-none">Chức năng: [If you study regularly] - [Trạng Câu][Adverb Clause] bổ nghĩa cho nhóm từ chính [you will improve], chỉ điều kiện cần để xảy ra kết quả</li>
 			
 				</ul>
 

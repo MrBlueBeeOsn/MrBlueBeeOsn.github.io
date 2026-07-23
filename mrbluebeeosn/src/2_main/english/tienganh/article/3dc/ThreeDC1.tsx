@@ -392,7 +392,7 @@ export default function ThreeDC1(): React.ReactElement {
 					<li>The analysis revealed [that the algorithm possessed a bias].</li>
 					<li className="margin-bottom-20 list-none">Kết quả phân tích cho thấy [rằng thuật toán đã có một sự thiên vị].</li>
 			
-					<li className="list-none">Hình thái: Khối [that the algorithm possessed a bias] - [Hiển-Liên Động Câu][Connector Verb Clause] bắt đầu bằng [Liên Cơ][Connector Base] "that" kết hợp với cấu trúc một mệnh đề hoàn chỉnh có [Danh Chủ][Noun Subject] "the algorithm" và [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "possessed".</li>
+					<li className="list-none">Hình thái: Khối [that the algorithm possessed a bias] - [Hiển-Liên Động Câu][Connector Verb Clause] bắt đầu bằng [Liên Cơ][Connector Base] "that" kết hợp với cấu trúc một nhóm từ hoàn chỉnh có [Danh Chủ][Noun Subject] "the algorithm" và [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "possessed".</li>
 			
 					<li className="list-none">Chức năng: Khối [that the algorithm possessed a bias] - [Danh Câu][Noun Clause] làm khối [Danh Nhận][Noun Object] chịu tác động trực tiếp đứng sau điều phối của [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "revealed".</li>
 			
@@ -406,7 +406,7 @@ export default function ThreeDC1(): React.ReactElement {
 					<li>The software [which the team deployed last night] crashed.</li>
 					<li className="margin-bottom-20 list-none">Phần mềm [mà đội ngũ đã triển khai đêm qua] đã gặp sự cố.</li>
 			
-					<li className="list-none">Hình thái: Khối [which the team deployed last night] - [Hiển-Liên Động Câu][Connector Verb Clause] bắt đầu bằng [Liên Cơ][Connector Base] quan hệ "which" kết hợp với cấu trúc một mệnh đề hoàn chỉnh có [Danh Chủ][Noun Subject] "the team" và [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "deployed".</li>
+					<li className="list-none">Hình thái: Khối [which the team deployed last night] - [Hiển-Liên Động Câu][Connector Verb Clause] bắt đầu bằng [Liên Cơ][Connector Base] quan hệ "which" kết hợp với cấu trúc một nhóm từ hoàn chỉnh có [Danh Chủ][Noun Subject] "the team" và [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "deployed".</li>
 			
 					<li className="list-none">Chức năng: Khối [which the team deployed last night] - [Tính Câu][Adjective Clause] đứng ôm ngay sau thực thể "The software" để bổ nghĩa chi tiết cho thực thể đó.</li>
 			
@@ -420,7 +420,7 @@ export default function ThreeDC1(): React.ReactElement {
 					<li>We will halt production [unless the quality standard improves].</li>
 					<li className="margin-bottom-20 list-none">Chúng tôi sẽ dừng sản xuất [trừ khi tiêu chuẩn chất lượng cải thiện].</li>
 			
-					<li className="list-none">Hình thái: Khối [unless the quality standard improves] - [Hiển-Liên Động Câu][Connector Verb Clause] bắt đầu bằng [Liên Cơ][Connector Base] điều kiện "unless" kết hợp với cấu trúc mệnh đề hoàn chỉnh có [Danh Chủ][Noun Subject] "the quality standard" và [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "improves".</li>
+					<li className="list-none">Hình thái: Khối [unless the quality standard improves] - [Hiển-Liên Động Câu][Connector Verb Clause] bắt đầu bằng [Liên Cơ][Connector Base] điều kiện "unless" kết hợp với cấu trúc nhóm từ hoàn chỉnh có [Danh Chủ][Noun Subject] "the quality standard" và [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "improves".</li>
 			
 					<li className="list-none">Chức năng: Khối [unless the quality standard improves] - [Trạng Câu][Adverb Clause] bổ nghĩa bối cảnh tình huống điều kiện cho hành động dừng được định vị bởi [Áp-Thái Động Cơ][Assertive-Modal Verb Base] "will".</li>
 			
@@ -576,7 +576,7 @@ export default function ThreeDC1(): React.ReactElement {
 					<li>The system crashed [because the internal temperature escalated rapidly].</li>
 					<li className="margin-bottom-20 list-none">Hệ thống đã gặp sự cố [vì nhiệt độ bên trong leo thang nhanh chóng].</li>
 			
-					<li className="list-none">Hình thái: Khối [because the internal temperature escalated rapidly] - [Hiển-Liên Động Câu][Connector Verb Clause] bắt đầu bằng [Liên Cơ][Connector Base] "because" kết hợp với cấu trúc mệnh đề hoàn chỉnh có [Danh Chủ][Noun Subject] "the internal temperature" và [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "escalated".</li>
+					<li className="list-none">Hình thái: Khối [because the internal temperature escalated rapidly] - [Hiển-Liên Động Câu][Connector Verb Clause] bắt đầu bằng [Liên Cơ][Connector Base] "because" kết hợp với cấu trúc nhóm từ hoàn chỉnh có [Danh Chủ][Noun Subject] "the internal temperature" và [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "escalated".</li>
 			
 					<li className="list-none">Chức năng: Khối [because the internal temperature escalated rapidly] - [Trạng Câu][Adverb Clause] thực hiện vai trò bổ nghĩa hoàn cảnh nguyên nhân cho hành động sập hệ thống được xác định bởi "crashed".</li>
 			
@@ -627,7 +627,7 @@ export default function ThreeDC1(): React.ReactElement {
 					<li>The code [which accelerates the rendering process] requires optimization.</li>
 					<li className="margin-bottom-20 list-none">Khối mã [mà tăng tốc quy trình kết xuất] cần được tối ưu hóa.</li>
 			
-					<li className="list-none">Hình thái: Khối [which accelerates the rendering process] - [Hiển-Liên Động Câu][Connector Verb Clause] bắt đầu bằng [Liên Cơ][Connector Base] quan hệ "which" đi kèm mệnh đề hoàn chỉnh có hạt nhân hành động "accelerates".</li>
+					<li className="list-none">Hình thái: Khối [which accelerates the rendering process] - [Hiển-Liên Động Câu][Connector Verb Clause] bắt đầu bằng [Liên Cơ][Connector Base] quan hệ "which" đi kèm nhóm từ hoàn chỉnh có hạt nhân hành động "accelerates".</li>
 			
 					<li className="list-none">Chức năng: Khối [which accelerates the rendering process] - [Tính Câu][Adjective Clause] đứng ôm sát phía sau để bổ nghĩa đặc điểm định danh chi tiết cho khối biểu thị thực thể "The code".</li>
 			
@@ -680,7 +680,7 @@ export default function ThreeDC1(): React.ReactElement {
 					<li>The programmer discovered [how he could bypass the security firewall].</li>
 					<li className="margin-bottom-20 list-none">Lập trình viên đã phát hiện ra [cách mà anh ấy có thể vượt qua tường lửa bảo mật].</li>
 			
-					<li className="list-none">Hình thái: Khối [how he could bypass the security firewall] - [Hiển-Liên Động Câu][Connector Verb Clause] bắt đầu bằng [Liên Cơ][Connector Base] "how" lồng mệnh đề chủ vị hoàn chỉnh có trợ động từ thái độ "could".</li>
+					<li className="list-none">Hình thái: Khối [how he could bypass the security firewall] - [Hiển-Liên Động Câu][Connector Verb Clause] bắt đầu bằng [Liên Cơ][Connector Base] "how" lồng nhóm từ chủ vị hoàn chỉnh có trợ động từ thái độ "could".</li>
 			
 					<li className="list-none">Chức năng: Khối [how he could bypass the security firewall] - [Danh Câu][Noun Clause] làm khối [Danh Nhận][Noun Object] nhận tác động trực tiếp của hành động "discovered".</li>
 			
