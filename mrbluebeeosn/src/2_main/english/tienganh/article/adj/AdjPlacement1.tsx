@@ -82,7 +82,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 				<ol>
       
           <li value="1">[<strong>Rễ Động Cơ</strong>][<strong>Root Verb Base</strong>]: originate, formulate</li>
-          <li className="margin-bottom-20 list-none">Hành động ở dạng [Rễ Động Cơ][Root Verb Base] nguyên bản, đơn thuần, chưa bị biến đổi bởi bất kỳ yếu tố nào.</li>
+          <li className="margin-bottom-20 list-none">Hành động ở dạng [Rễ Động Cơ][Root Verb Base] nguyên bản, chưa bị biến đổi bởi bất kỳ yếu tố nào.</li>
       
           <li value="2">[<strong>Hạt Động Cơ</strong>][<strong>Particle Verb Base</strong>]: to</li>
           <li className="margin-bottom-20 list-none">[Hạt] nhân định hướng, giữ vai trò kích hoạt trạng thái nguyên sơ, chuẩn bị nền tảng cho cấu trúc hành động.</li>
@@ -100,7 +100,7 @@ export default function AdjPlacement1(): React.JSX.Element {
           <li className="margin-bottom-20 list-none">Hành động [Thuần] khiết ở dạng tự do hoàn toàn, không có [Hạt] đi kèm, xuất hiện sau các nhóm [Ý-Thái] hoặc [Áp-Thái].</li>
       
           <li value="7">[<strong>Hạt Thuần Động Cơ</strong>][<strong>Particle Bare Verb Base</strong>]: to originate, to formulate</li>
-          <li className="margin-bottom-20 list-none">Sự kết hợp tuyến tính giữa [Hạt] và hành động [Thuần] khiết, tạo nên mẫu hành động nguyên bản</li>
+          <li className="margin-bottom-20 list-none">Sự kết hợp tuyến tính giữa [Hạt] và hành động [Thuần] khiết, tạo nên mẫu hành động nguyên bản.</li>
 
           <li value="8">[<strong>Ý-Thái Thuần Động Cơ</strong>][<strong>Soft-Modal Bare Verb Base</strong>]: would verify, could design</li>
           <li className="margin-bottom-20 list-none">Kết hợp [Thái] độ mềm mỏng với hành động [Thuần] khiết, biểu đạt sự nhường nhịn.</li>
@@ -139,6 +139,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 			<p className=" text-indent-whole">Khi bất kỳ họ [Cơ][Base] nào kéo theo các [Danh Nhận], [Trạng Cơ], [Trạng Cụm], hoặc [Trạng Câu] phía sau, toàn khối đó tự động chuyển cấu trúc thành [Cụm][Phrase].</p>
 
 			<p className=" text-indent-whole">Ví dụ:</p>
+
 			<p className=" text-indent-whole">formulating [Tiếp Động Cơ] + a strategy [Danh Nhận] ➔ formulating a strategy [Tiếp Động Cụm].</p>
 
 			
@@ -237,7 +238,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 					<li>The proposal [which is under review] is on my desk..</li>
 					<li className="margin-bottom-20 list-none">Bản đề xuất [cái đang được xem xét] thì nằm trên bàn của tôi.</li>
 			
-					<li className="list-none">Hình thái: [which is under review] - [Hiển-Liên Động Câu][Connector Verb Clause] bắt đầu bằng [Liên Cơ][Connector Base] "which" kết hợp [Thời Tiếp Động Cơ][Tense Progressive Verb Base] "is" và trạng thái "under review".</li>
+					<li className="list-none">Hình thái: [which is under review] - [Hiển-Liên Động Câu][Connector Verb Clause] bắt đầu bằng [Liên Cơ][Connector Base] "which" kết hợp [Thời-TĐộng Cơ][Tense Progressive Verb Base] "is" và [Giới Cụm][Prepositional Phrase] "under review".</li>
 			
 					<li className="list-none">Chức năng: [which is under review] - [Hiển-Liên Động Câu][Connector Verb Clause] tạo thành khối bổ trợ, vạch rõ bản chất định danh cho [Danh Cơ][Noun Base] "proposal".</li>
 			
@@ -270,7 +271,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li className="list-none">Tầng 1: [of {'{what they investigated}'}] - [Tính Cụm][Adjective Phrase] mở rộng thông tin bổ trợ cho "the analysis".</li>
+					<li className="list-none">Tầng 1: [of {'{what they investigated}'}] - [Tính Cụm][Adjective Phrase] mở rộng thông tin bổ trợ cho [Danh Khối][Noun Block] "the analysis".</li>
 
 					<li className="list-none">Tầng 2: {'{what they investigated}'} - [Danh Câu][Noun Clause] chịu sự điều phối trực tiếp của [Giới Cơ][Prepositional Base] "of".</li>
 			
@@ -336,7 +337,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 					<li>The man [who is standing there] is my boss.</li>
 					<li className="margin-bottom-20 list-none">Người đàn ông [người mà đang đứng đó] là sếp tôi.</li>
 			
-					<li className="list-none">Hình thái: [who is standing there] - [Hiển-Liên Động Câu][Connector Verb Clause] kết hợp [Phức Liên Cơ][Complex Connector Base] "who" và [Thời Tiếp Động Cơ][Tense Progressive Verb Base] "is standing".</li>
+					<li className="list-none">Hình thái: [who is standing there] - [Hiển-Liên Động Câu][Connector Verb Clause] "who" kết hợp [Thời Tiếp Động Cơ][Tense Progressive Verb Base] "is standing".</li>
 			
 					<li className="list-none">Chức năng: [who is standing there] - [Tính Câu][Adjective Clause] định danh chính xác đối tượng thông qua hành động cụ thể đang diễn ra.</li>
 			
@@ -352,7 +353,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 					<li>The policy [which is effective] will be applied.</li>
 					<li className="margin-bottom-20 list-none">Chính sách [cái mà hiệu quả] sẽ được áp dụng.</li>
 			
-					<li className="list-none">Hình thái: [which is effective] - [Hiển-Liên Động Câu][Connector Verb Clause] bắt đầu bằng [Liên Cơ][Connector Base] "which" kết hợp [Thời Động Cơ][Tense Verb Base] "is" và [Rễ Tính Cơ][Root Adjective Base] "effective".</li>
+					<li className="list-none">Hình thái: [which is effective] - [Hiển-Liên Động Câu][Connector Verb Clause] bắt đầu bằng [Liên Cơ][Connector Base] "which" kết hợp [Thời-Động Cơ][Tense Progressive Verb Base] "is" và [Rễ Tính Cơ][Root Adjective Base] "effective".</li>
 			
 					<li className="list-none">Chức năng: [which is effective] - [Tính Câu][Adjective Clause] vạch rõ bản chất định danh cho đối tượng [Danh Cơ][Noun Base].</li>
 			
