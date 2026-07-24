@@ -301,7 +301,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 			<p className="text-indent-whole">Khối này chịu trách nhiệm đóng gói các hành động, thực thể thành một cái tên, một đối tượng để làm [Danh Chủ][Noun Subject] hoặc phần [Danh Nhận][Noun Object] tiếp nhận tác động trong câu.</p>
 			
 
-			<p className="margin-top-20 text-indent-whole">[<strong>Danh Cơ</strong>][<strong>Noun Base</strong>] cấu tạo từ [Tiếp Động Cơ][Progressive Verb Base]:</p>
+			<p className="margin-top-20 text-indent-whole">[<strong>Danh Cơ</strong>][<strong>Noun Base</strong>] <strong>cấu tạo từ</strong> [<strong>Tiếp Động Cơ</strong>][<strong>Progressive Verb Base</strong>]:</p>
 			
 				<ul className="list-square">
 			
