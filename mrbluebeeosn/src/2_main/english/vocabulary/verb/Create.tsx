@@ -124,9 +124,14 @@ export default function Create(): React.JSX.Element {
       <p className="text-indent-whole">Khi bất kỳ họ [Cơ][Base] nào thuộc hệ thống 16 mục trên kéo theo thành phần bổ trợ phía sau (như [Danh Nhận][Noun Object], [Trạng Cơ][Adverb Base], [Trạng Cụm][Adverb Phrase], hoặc [Trạng Câu][Adverb Clause]), toàn bộ cấu trúc đó sẽ ngay lập tức được dán nhãn và nâng cấp thành dạng [Cụm][Phrase] tương ứng của chính nó.</p>
 
       <p className="text-indent-whole">Ví dụ:</p>
-
-      <p className="text-indent-whole">creating [Tiếp Động Cơ][Progressive Verb Base] + value [Danh Nhận][Noun Object] ➔ creating value [Tiếp Động Cụm][Progressive Verb Phrase].</p>
-    
+      
+        <ul className="list-square">
+      
+          <li>creating [Tiếp Động Cơ][Progressive Verb Base] + value [Danh Nhận][Noun Object]</li>
+      
+          <li>➔ creating value [Tiếp Động Cụm][Progressive Verb Phrase].</li>
+      
+        </ul>
     
       
       <h4 className="margin-y-40">PHÂN NHÓM VÀ SƠ ĐỒ PHỐI HỢP MÃ NGUỒN [CREATE]</h4>
@@ -348,7 +353,7 @@ export default function Create(): React.JSX.Element {
         </ul>
       
       
-      <p className="margin-top-20 text-indent-whole">[<strong>Tính Cụm</strong>] <strong>dạng</strong> [<strong>Rễ Cụm</strong>][<strong>Root Phrase</strong>] <strong>nguyên bản</strong>:</p>
+      <p className="margin-top-20 text-indent-whole">[<strong>Tính Cụm</strong>] <strong>dạng</strong> [<strong>Rễ Tính Cụm</strong>][<strong>Root Adjective Phrase</strong>] <strong>nguyên bản</strong>:</p>
 
       <p className="margin-top-20 text-indent-whole">Ví dụ 5e:</p>
       
