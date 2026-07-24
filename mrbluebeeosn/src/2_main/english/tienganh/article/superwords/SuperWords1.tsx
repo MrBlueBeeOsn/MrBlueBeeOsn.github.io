@@ -503,7 +503,7 @@ export default function SuperWords1(): React.JSX.Element {
 					<li>[Evaluating {'{how we allocated the budget}'}] was critical.</li>
 					<li className="margin-bottom-20 list-none">[Việc đánh giá {'{cách chúng ta phân bổ ngân sách}'}] đã mang tính sống còn.</li>
 
-					<li>Hình thái: [Evaluating {'{how we allocated the budget}'}] – [Tiếp Tầng Động Cụm][Progressive Tiered Verb Phrase] ở tầng ngoài bắt đầu bằng dạng vận động -ing, bên trong chứa một khối phụ {'{how we allocated the budget}'} là [Hiển-Liên Động Câu][Connector Verb Clause] được dẫn dắt bởi "how".</li>
+					<li>Hình thái: [Evaluating {'{how we allocated the budget}'}] – [Tầng Tiếp Động Cụm][Tiered Progressive Verb Phrase] ở tầng ngoài bắt đầu bằng dạng vận động -ing, bên trong chứa một khối phụ {'{how we allocated the budget}'} là [Hiển-Liên Động Câu][Connector Verb Clause] được dẫn dắt bởi "how".</li>
 			
 					<li>Chức năng: [Evaluating {'{how we allocated the budget}'}] – [<strong>Danh Cụm</strong>][<strong>Noun Phrase</strong>] tầng ngoài đóng vai trò làm [Danh Chủ][Noun Subject] đứng ở đầu câu lớn; trong đó khối phụ {'{how we allocated the budget}'} giữ chức năng làm [Danh Câu][Noun Clause] tầng trong đứng vị trí [Danh Nhận][Noun Object] để chịu tác động trực tiếp từ hành động đánh giá.</li>
 			
@@ -517,7 +517,7 @@ export default function SuperWords1(): React.JSX.Element {
 					<li>The manager suggested [reviewing {'{what the team accomplished this quarter}'}].</li>
 					<li className="margin-bottom-20 list-none">Người quản lý đã đề xuất [việc xem xét lại {'{những gì đội ngũ đã hoàn thành trong quý này}'}].</li>
 
-					<li>Hình thái: [reviewing {'{what the team accomplished this quarter}'}] – [Tiếp Tầng Động Cụm][Progressive Tiered Verb Phrase] ở tầng ngoài bắt đầu bằng dạng -ing, bên trong lồng ghép một khối phụ {'{what the team accomplished this quarter}'} là [Hiển-Liên Động Câu][Connector Verb Clause] giữ vai trò làm bổ ngữ làm rõ sự việc.</li>
+					<li>Hình thái: [reviewing {'{what the team accomplished this quarter}'}] – [Tầng Tiếp Động Cụm][Tiered Progressive Verb Phrase] ở tầng ngoài bắt đầu bằng dạng -ing, bên trong lồng ghép một khối phụ {'{what the team accomplished this quarter}'} là [Hiển-Liên Động Câu][Connector Verb Clause] giữ vai trò làm bổ ngữ làm rõ sự việc.</li>
 			
 					<li>Chức năng: [reviewing {'{what the team accomplished this quarter}'}] – [<strong>Danh Cụm</strong>][<strong>Noun Phrase</strong>] tầng ngoài đóng vai trò làm [Danh Nhận][Noun Object] lớn đứng sau [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "suggested"; trong đó khối phụ {'{what the team accomplished this quarter}'} giữ chức năng làm [Danh Câu][Noun Clause] tầng trong đứng vị trí [Danh Nhận][Noun Object] nhỏ tiếp nhận tác động từ hành động xem xét.</li>
 			

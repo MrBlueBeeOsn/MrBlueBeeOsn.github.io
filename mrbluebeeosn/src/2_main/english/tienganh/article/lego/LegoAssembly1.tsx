@@ -353,7 +353,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 
 					<li className="list-none">Hình thái:</li>
 
-					<li className="list-none">Khối tổng thể [Investigating {'{why the application failed}'}] là một [Tiếp Tầng Động Cụm][Progressive Tiered Verb Phrase] bắt đầu bằng [Tiếp Động Cơ][Progressive Verb Base] Investigating ôm trọn phần phụ thuộc phức tạp bên trong.</li>
+					<li className="list-none">Khối tổng thể [Investigating {'{why the application failed}'}] là một [Tầng Tiếp Động Cụm][Tiered Progressive Verb Phrase] bắt đầu bằng [Tiếp Động Cơ][Progressive Verb Base] Investigating ôm trọn phần phụ thuộc phức tạp bên trong.</li>
 
 					<li className="margin-bottom-20 list-none">Khối nhỏ bên trong {'{why the application failed}'} là một [Hiển-Liên Động Câu][Connector Verb Clause] bắt đầu bằng [Liên Cơ][Connector Base] why kết hợp với một nhóm từ đề đầy đủ của riêng nó.</li>
 
@@ -376,7 +376,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 
 					<li className="list-none">Hình thái:</li>
 
-					<li className="list-none">Khối tổng thể [predicting {'{how the climate will shift}'}] là một [Tiếp Tầng Động Cụm][Progressive Tiered Verb Phrase] bắt đầu bằng [Tiếp Động Cơ][Progressive Verb Base] predicting kéo theo cấu trúc phụ thuộc nhiều tầng.</li>
+					<li className="list-none">Khối tổng thể [predicting {'{how the climate will shift}'}] là một [Tầng Tiếp Động Cụm][Tiered Progressive Verb Phrase] bắt đầu bằng [Tiếp Động Cơ][Progressive Verb Base] predicting kéo theo cấu trúc phụ thuộc nhiều tầng.</li>
 
 					<li className="margin-bottom-20 list-none">Khối nhỏ bên trong {'{how the climate will shift}'} là một [Hiển-Liên Động Câu][Connector Verb Clause] bắt đầu bằng [Liên Cơ][Connector Base] how kết hợp với một cấu trúc [S]-[Head] nội bộ chứa [Áp-Thái Động Cơ][Assertive-Modal Verb Base] will biểu thị thái độ áp đặt đối với tình huống xảy ra ở tương lai.</li>
 

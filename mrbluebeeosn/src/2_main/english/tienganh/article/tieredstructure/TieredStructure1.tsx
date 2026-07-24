@@ -405,7 +405,7 @@ export default function TieredStructure1(): React.JSX.Element {
 			
 					<ul className="list-square">
 				
-						<li className="list-none">Hình thái: [Explaining {'{how we design this platform}'}] - [Tiếp Tầng Động Cụm][Progressive Tiered Verb Phrase] biểu thị dưới dạng vùng mã lớn bắt đầu bằng [Tiếp Động Cơ][Progressive Verb Base] (Explaining) đứng ở đầu câu.</li>
+						<li className="list-none">Hình thái: [Explaining {'{how we design this platform}'}] - [Tầng Tiếp Động Cụm][Tiered Progressive Verb Phrase] biểu thị dưới dạng vùng mã lớn bắt đầu bằng [Tiếp Động Cơ][Progressive Verb Base] (Explaining) đứng ở đầu câu.</li>
 
 						<li className="list-none">Chức năng: [Explaining {'{how we design this platform}'}] - [<strong>Danh Cụm</strong>][<strong>Noun Phrase</strong>] đóng vai trò làm một phân hệ đầu việc lớn đóng vai trò chủ trì điều phối toàn bộ câu làm Khối [Danh Chủ][Noun Subject].</li>
 				
@@ -436,7 +436,7 @@ export default function TieredStructure1(): React.JSX.Element {
 			
 					<ul className="list-square">
 				
-						<li className="list-none">Hình thái: [analyzing {'{why the system failed}'}] - [Tiếp Tầng Động Cụm][Progressive Tiered Verb Phrase] mở rộng bắt đầu bằng [Tiếp Động Cơ][Progressive Verb Base] (analyzing) đứng ngay sau hành động chính.</li>
+						<li className="list-none">Hình thái: [analyzing {'{why the system failed}'}] - [Tầng Tiếp Động Cụm][Tiered Progressive Verb Phrase] mở rộng bắt đầu bằng [Tiếp Động Cơ][Progressive Verb Base] (analyzing) đứng ngay sau hành động chính.</li>
 
 						<li className="list-none">Chức năng: [analyzing {'{why the system failed}'}] - [<strong>Danh Cụm</strong>][<strong>Noun Phrase</strong>] đóng vai trò làm cấu trúc tổng thể đóng chức năng tiếp nhận toàn bộ mục tiêu tác động của lệnh postpone làm Khối [Danh Nhận][Noun Object].</li>
 				

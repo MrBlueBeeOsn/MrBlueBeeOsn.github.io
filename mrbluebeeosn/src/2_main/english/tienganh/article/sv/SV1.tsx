@@ -495,7 +495,7 @@ export default function SV1(): React.JSX.Element {
 
 					<li className="margin-bottom-20 list-none">Chức năng lớp trung gian {'{}'}: {'{the key <to the room>}'} đóng vai trò là một [Danh Cụm][Noun Phrase] làm điểm tựa [Danh Nhận][Noun Object] chịu sự điều phối trực tiếp của hành động thực thi Finding.</li>
 
-					<li className="list-none">Hình thái tổng thể bao ngoài []: [Finding {'{the key <to the room>}'}] là một [Tiếp Tầng Động Cụm][Progressive Tiered Verb Phrase] bắt đầu bằng [Động Cơ][Verb Base] dạng V-ing.</li>
+					<li className="list-none">Hình thái tổng thể bao ngoài []: [Finding {'{the key <to the room>}'}] là một [Tầng Tiếp Động Cụm][Tiered Progressive Verb Phrase] bắt đầu bằng [Động Cơ][Verb Base] dạng V-ing.</li>
 
 					<li className="list-none">Chức năng tổng thể bao ngoài []: [Finding {'{the key <to the room>}'}] vận hành đồng bộ như một khối [Danh Cụm][Noun Phrase] lớn giữ vai trò làm [Danh Chủ][Noun Subject] điều phối hệ trục thông tin hành động cho toàn bộ [Câu Lớn][Sentence].</li>
 			
@@ -525,7 +525,7 @@ export default function SV1(): React.JSX.Element {
 
 					<li className="list-none">Khối lồng bên trong {'{how the engine works}'} là một [Hiển-Liên Động Câu][Connector Verb Clause] vì chứa đầy đủ hệ trục [S][V] (the engine works), bắt đầu bằng [Liên Cơ][Connector Base] how. Xét về quy mô cấu trúc phụ trợ nằm trong một hệ thống lớn hơn, khối lồng này chính là một [Phụ Câu][Dependent Clause].</li>
 
-					<li className="margin-bottom-20 list-none">Khối tổng thể bao ngoài [Discovering {'{how the engine works}'}] là một khối [Tiếp Tầng Động Cụm][Progressive Tiered Verb Phrase] bắt đầu bằng hành động thực thi [Tiếp Động Cơ][Progressive Verb Base] dạng V-ing Discovering.</li>
+					<li className="margin-bottom-20 list-none">Khối tổng thể bao ngoài [Discovering {'{how the engine works}'}] là một khối [Tầng Tiếp Động Cụm][Tiered Progressive Verb Phrase] bắt đầu bằng hành động thực thi [Tiếp Động Cơ][Progressive Verb Base] dạng V-ing Discovering.</li>
 			
 					<li>Phân tích Chức năng:</li>
 
@@ -547,7 +547,7 @@ export default function SV1(): React.JSX.Element {
 
 					<li className="list-none">Khối lồng bên trong {'{what they had discovered}'} là một [Hiển-Liên Động Câu][Connector Verb Clause] vì chứa đầy đủ hệ trục [S][V] (they had discovered), bắt đầu bằng [Liên Cơ][Connector Base] what. Đây là một cấu trúc [Phụ Câu][Dependent Clause] điển hình đóng vai trò bổ nghĩa phụ trợ.</li>
 
-					<li className="margin-bottom-20 list-none">Khối tổng thể bao ngoài [discussing {'{what they had discovered}'}] là một khối [Tiếp Tầng Động Cụm][Progressive Tiered Verb Phrase] bắt đầu bằng hình thái hành động thực thi [Tiếp Động Cơ][Progressive Verb Base] dạng V-ing discussing.</li>
+					<li className="margin-bottom-20 list-none">Khối tổng thể bao ngoài [discussing {'{what they had discovered}'}] là một khối [Tầng Tiếp Động Cụm][Tiered Progressive Verb Phrase] bắt đầu bằng hình thái hành động thực thi [Tiếp Động Cơ][Progressive Verb Base] dạng V-ing discussing.</li>
 			
 					<li>Phân tích Chức năng:</li>
 
@@ -595,7 +595,7 @@ export default function SV1(): React.JSX.Element {
 
 					<li>Phân tích Hình thái:</li>
 
-					<li className="list-none">Khối tổng thể bao ngoài [slower {'{than we expected}'}] là một [Diện Tầng Tính Cụm][Modified Tiered Adjective Phrase] hình thành từ khối [Rễ Tính Cơ][Root Adjective Base] nguyên bản "slow" kết hợp hậu tố "-er" để thay đổi diện mạo bên ngoài thành một khối cấp độ [Cơ][Base] chỉ cách thức và mức độ.</li>
+					<li className="list-none">Khối tổng thể bao ngoài [slower {'{than we expected}'}] là một [Tầng Tiếp Động Cụm][Tiered Progressive Verb Phrase] hình thành từ khối [Rễ Tính Cơ][Root Adjective Base] nguyên bản "slow" kết hợp hậu tố "-er" để thay đổi diện mạo bên ngoài thành một khối cấp độ [Cơ][Base] chỉ cách thức và mức độ.</li>
 
 					<li className="margin-bottom-20 list-none">Khối lồng bên trong {'{than we expected}'} là một [Hiển-Liên Động Câu][Connector Verb Clause] có chứa hệ trục [S][V] (we expected), được bắt đầu và kết nối bằng [Liên Cơ][Connector Base] than, cấu tạo nên cấu trúc [Phụ Câu][Dependent Clause] phụ thuộc.</li>
 			

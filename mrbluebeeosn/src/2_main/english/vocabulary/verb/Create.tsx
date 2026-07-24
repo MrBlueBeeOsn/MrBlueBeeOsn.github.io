@@ -628,7 +628,7 @@ export default function Create(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li className="list-none">Hình thái: [Analyzing {'{how the program creates automatic reports}'}] - [Tiếp Tầng Động Cụm][Progressive Tiered Verb Phrase] lớn biểu hiện dưới dạng một vùng mã mở rộng bắt đầu bằng [Tiếp Động Cơ][Progressive Verb Base] "Analyzing" và kéo theo thành phần bổ trợ phía sau.</li>
+          <li className="list-none">Hình thái: [Analyzing {'{how the program creates automatic reports}'}] - [Tầng Tiếp Động Cụm][Tiered Progressive Verb Phrase] lớn biểu hiện dưới dạng một vùng mã mở rộng bắt đầu bằng [Tiếp Động Cơ][Progressive Verb Base] "Analyzing" và kéo theo thành phần bổ trợ phía sau.</li>
       
           <li className="list-none">Chức năng: [Analyzing {'{how the program creates automatic reports}'}] - [<strong>Danh Cụm</strong>][<strong>Noun Phrase</strong>] chịu trách nhiệm làm một vùng đầu việc lớn, đảm nhận vai trò làm [Danh Chủ][Noun Subject] để thiết lập nền tảng thông tin đứng đầu toàn câu trước [Thời Động Cơ][Tense Verb Base] "requires".</li>
       
@@ -658,7 +658,7 @@ export default function Create(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li className="list-none">Hình thái: [investigating {'{why the machine created faulty parts}'}] - [Tiếp Tầng Động Cụm][Progressive Tiered Verb Phrase] bắt đầu bằng [Tiếp Động Cơ][Progressive Verb Base] "investigating" kết hợp vùng mã mở rộng phía sau.</li>
+          <li className="list-none">Hình thái: [investigating {'{why the machine created faulty parts}'}] - [Tầng Tiếp Động Cụm][Tiered Progressive Verb Phrase] bắt đầu bằng [Tiếp Động Cơ][Progressive Verb Base] "investigating" kết hợp vùng mã mở rộng phía sau.</li>
       
           <li className="list-none">Chức năng: [investigating {'{why the machine created faulty parts}'}] - [<strong>Danh Cụm</strong>][<strong>Noun Phrase</strong>] đóng vai trò làm [Danh Nhận][Noun Object] đứng ngay sau hạt nhân [Thời Động Cơ][Tense Verb Base] "suggested" để bổ sung trọn vẹn thông tin cho hành động gợi ý này.</li>
       
