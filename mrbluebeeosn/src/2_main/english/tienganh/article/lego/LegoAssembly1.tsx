@@ -344,7 +344,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 			
 			
 
-			<p className="margin-top-20 text-indent-whole">[<strong>Danh Cụm</strong>][<strong>Noun Phrase</strong>] <strong>cấu tạo từ</strong> [<strong>Tiếp Tầng Động Cụm</strong>][<strong>Progressive Tiered Verb Phrase</strong>] <strong>làm</strong> [<strong>Danh Chủ</strong>][<strong>Noun Subject</strong>]:</p>
+			<p className="margin-top-20 text-indent-whole">[<strong>Danh Cụm</strong>][<strong>Noun Phrase</strong>] <strong>cấu tạo từ</strong> [<strong>Tầng Tiếp Động Cụm</strong>][<strong>Tiered Progressive Verb Phrase</strong>] <strong>làm</strong> [<strong>Danh Chủ</strong>][<strong>Noun Subject</strong>]:</p>
 			
 				<ul className="list-square">
 			
@@ -367,7 +367,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 			
 
 			
-			<p className="margin-top-20 text-indent-whole">[<strong>Danh Cụm</strong>][<strong>Noun Phrase</strong>] <strong>cấu tạo từ</strong> [<strong>Tiếp Tầng Động Cụm</strong>][<strong>Progressive Tiered Verb Phrase</strong>] <strong>làm</strong> [<strong>Danh Nhận</strong>][<strong>Noun Object</strong>]:</p>
+			<p className="margin-top-20 text-indent-whole">[<strong>Danh Cụm</strong>][<strong>Noun Phrase</strong>] <strong>cấu tạo từ</strong> [<strong>Tầng Tiếp Động Cụm</strong>][<strong>Tiered Progressive Verb Phrase</strong>] <strong>làm</strong> [<strong>Danh Nhận</strong>][<strong>Noun Object</strong>]:</p>
 			
 				<ul className="list-square">
 			
