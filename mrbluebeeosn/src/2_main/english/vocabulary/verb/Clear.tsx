@@ -526,7 +526,7 @@ export default function Clear(): React.JSX.Element {
 
 
 
-      <h4 className="margin-y-40">5. Phân hệ [Đóng Gói Phân Tầng][Tiered Structure]</h4>
+      <h4 className="margin-y-40">5. Phân hệ [Tầng Đóng Gói][Tiered Structure]</h4>
 
       <p className="margin-top-20 text-indent-whole">Khi hệ thống vận hành ở mức độ phức tạp, các khối mã sẽ lồng vào nhau tạo nên hệ thống phân tầng tối tân.</p>
 

@@ -58,7 +58,7 @@ export default function TieredStructure1(): React.JSX.Element {
 
 			<p>Đã đến lúc dọn dẹp toàn bộ mớ hỗn độn đó.</p>
 
-			<p>Hãy cùng bước vào một phòng thí nghiệm ngôn ngữ hoàn toàn mới — nơi tiếng Anh được chuẩn hóa theo <strong>Tư duy lập trình hệ thống</strong>. Chúng ta loại bỏ hoàn toàn các định nghĩa cũ để làm quen với hệ điều hành tối giản nhưng quyền lực bằng sức mạnh của [Thiết Kế Phân Tầng][Tiered Structure] và Khả năng xử lý đệ quy.</p>
+			<p>Hãy cùng bước vào một phòng thí nghiệm ngôn ngữ hoàn toàn mới — nơi tiếng Anh được chuẩn hóa theo <strong>Tư duy lập trình hệ thống</strong>. Chúng ta loại bỏ hoàn toàn các định nghĩa cũ để làm quen với hệ điều hành tối giản nhưng quyền lực bằng sức mạnh của [Tầng Thiết Kế][Tiered Structure] và Khả năng xử lý đệ quy.</p>
 			
 
 			{/* 1.  */}
@@ -387,9 +387,9 @@ export default function TieredStructure1(): React.JSX.Element {
 			
 
 
-			<h4 className="margin-y-40">D. Phân hệ [Thiết Kế Phân Tầng][Tiered Structure]</h4>
+			<h4 className="margin-y-40">D. Phân hệ [Tầng Thiết Kế][Tiered Structure]</h4>
 					
-			<p className="text-indent-whole">Khi hệ thống vận hành ở mức độ phức tạp, bằng sức mạnh của [Thiết Kế Phân Tầng][Tiered Structure], các khối mã sẽ lồng vào nhau tạo nên các cấu trúc đóng gói tối tân.</p>
+			<p className="text-indent-whole">Khi hệ thống vận hành ở mức độ phức tạp, bằng sức mạnh của [Tầng Thiết Kế][Tiered Structure], các khối mã sẽ lồng vào nhau tạo nên các cấu trúc đóng gói tối tân.</p>
 
 
 			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 9.1</strong>: [<strong>Danh Cụm</strong>][<strong>Noun Phrase</strong>] <strong>làm Khối</strong> [<strong>Danh Chủ</strong>][<strong>Noun Subject</strong>]</p>

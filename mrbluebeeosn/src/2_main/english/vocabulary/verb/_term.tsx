@@ -512,7 +512,7 @@ export default function (): React.JSX.Element {
 
 
 
-      <h4 className="margin-y-40">5. Phân hệ [Đóng Gói Phân Tầng][Tiered Structure]</h4>
+      <h4 className="margin-y-40">5. Phân hệ [Tầng Đóng Gói][Tiered Structure]</h4>
 
       <p className="margin-top-20 text-indent-whole"></p>
 
