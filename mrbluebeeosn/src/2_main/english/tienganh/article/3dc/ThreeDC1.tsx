@@ -510,7 +510,7 @@ export default function ThreeDC1(): React.ReactElement {
 					<li>[To understand {'{why the species went extinct}'}] demands scientific research.</li>
 					<li className="margin-bottom-20 list-none">[Thấu hiểu {'{tại sao loài này tuyệt chủng}'}] đòi hỏi các nghiên cứu khoa học.</li>
 			
-					<li className="list-none">Hình thái: Khối bao ngoài [To understand {'{why the species went extinct}'}] là một [Tầng Hạt Thuần Động Cụm][Particle Tiered Bare Verb Phrase] bắt đầu bằng [Hạt Thuần Động Cơ][Particle Bare Verb Base] "To understand". Bên trong bao gói {'{why the species went extinct}'} là một [Hiển-Liên Động Câu][Connector Verb Clause] dẫn dắt bằng biểu hiện nghi vấn "why".</li>
+					<li className="list-none">Hình thái: Khối bao ngoài [To understand {'{why the species went extinct}'}] là một [Tầng Hạt Thuần Động Cụm][Tiered Particle Bare Verb Phrase] bắt đầu bằng [Hạt Thuần Động Cơ][Particle Bare Verb Base] "To understand". Bên trong bao gói {'{why the species went extinct}'} là một [Hiển-Liên Động Câu][Connector Verb Clause] dẫn dắt bằng biểu hiện nghi vấn "why".</li>
 			
 					<li className="list-none">Chức năng: Khối {'{why the species went extinct}'} bên trong đóng vai trò là [Danh Câu][Noun Clause] làm [Danh Nhận][Noun Object] chịu sự điều phối của [Thuần Động Cơ][Bare Verb Base] "understand". Toàn bộ khối hỗn hợp [To understand {'{why the species went extinct}'}] đóng vai trò tổng thể làm [<strong>Danh Chủ</strong>][<strong>Noun Subject</strong>] thực hiện hành động chính cho [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "demands".</li>
 			
@@ -524,7 +524,7 @@ export default function ThreeDC1(): React.ReactElement {
 					<li>The scientists hope [to demonstrate {'{how the drug works}'}].</li>
 					<li className="margin-bottom-20 list-none">Các nhà khoa học hy vọng [chứng minh được {'{thuốc hoạt động như thế nào}'}].</li>
 			
-					<li className="list-none">Hình thái: Khối bao ngoài [to demonstrate {'{how the drug works}'}] là một [Tầng Hạt Thuần Động Cụm][Particle Tiered Bare Verb Phrase] bắt đầu bằng [Hạt Thuần Động Cơ][Particle Bare Verb Base] "to demonstrate". Bên trong bao gói {'{how the drug works}'} là một [Hiển-Liên Động Câu][Connector Verb Clause] bắt đầu bằng [Liên Cơ][Connector Base] "how".</li>
+					<li className="list-none">Hình thái: Khối bao ngoài [to demonstrate {'{how the drug works}'}] là một [Tầng Hạt Thuần Động Cụm][Tiered Particle Bare Verb Phrase] bắt đầu bằng [Hạt Thuần Động Cơ][Particle Bare Verb Base] "to demonstrate". Bên trong bao gói {'{how the drug works}'} là một [Hiển-Liên Động Câu][Connector Verb Clause] bắt đầu bằng [Liên Cơ][Connector Base] "how".</li>
 			
 					<li className="list-none">Chức năng: Khối {'{how the drug works}'} bên trong đóng vai trò là [Danh Câu][Noun Clause] làm [Danh Nhận][Noun Object] chịu sự điều phối trực tiếp của [Thuần Động Cơ][Bare Verb Base] "demonstrate". Toàn bộ khối hỗn hợp [to demonstrate {'{how the drug works}'}] đóng vai trò tổng thể làm khối [<strong>Danh Nhận</strong>][<strong>Noun Object</strong>] đứng sau [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "hope".</li>
 			

@@ -477,7 +477,7 @@ export default function NineBox1(): React.JSX.Element {
 					<li>[To understand {'{how the database handles the workload}'}] requires deep technical knowledge.</li>
 					<li className="margin-bottom-20 list-none">[Việc hiểu {'{cách cơ sở dữ liệu xử lý khối lượng công việc}'}] yêu cầu kiến thức kỹ thuật chuyên sâu.</li>
 
-					<li className="margin-bottom-20 list-none">Hình thái: Khối tổng thể [To understand {'{how the database handles the workload}'}] - [Tầng Hạt Thuần Động Cụm][Particle Tiered Bare Verb Phrase] ở tầng ngoài. Bên trong chứa bao gói {'{how the database handles the workload}'} - [Hiển-Liên Động Câu][Connector Verb Clause] ở tầng trong.</li>
+					<li className="margin-bottom-20 list-none">Hình thái: Khối tổng thể [To understand {'{how the database handles the workload}'}] - [Tầng Hạt Thuần Động Cụm][Tiered Particle Bare Verb Phrase] ở tầng ngoài. Bên trong chứa bao gói {'{how the database handles the workload}'} - [Hiển-Liên Động Câu][Connector Verb Clause] ở tầng trong.</li>
 			
 					<li className="list-none">Chức năng: Khối {'{how the database handles the workload}'} bên trong đóng vai trò làm [Danh Câu][Noun Clause] làm [Danh Nhận][Noun Object] chịu sự điều phối hành động trực tiếp từ [Rễ Động Cơ][Root Verb Base] nguyên bản understand, và toàn bộ khối tổng thể [To understand {'{how the database handles the workload}'}] vận hành với chức năng [<strong>Danh Cụm</strong>][<strong>Noun Phrase</strong>] đóng vai trò làm [Danh Chủ][Noun Subject] chịu trách nhiệm thực thi câu lớn.</li>
 			
@@ -491,7 +491,7 @@ export default function NineBox1(): React.JSX.Element {
 					<li>The system administrator prefers [to beautify {'{what the legacy script outputs}'}].</li>
 					<li className="margin-bottom-20 list-none">Quản trị viên hệ thống thích [làm đẹp {'{những gì kịch bản cũ xuất ra}'}].</li>
 
-					<li className="margin-bottom-20 list-none">Hình thái: Khối tổng thể [to beautify {'{what the legacy script outputs}'}] - [Tầng Hạt Thuần Động Cụm][Particle Tiered Bare Verb Phrase] ở tầng ngoài. Bên trong chứa bao gói {'{what the legacy script outputs}'} - [Hiển-Liên Động Câu][Connector Verb Clause] ở tầng trong.</li>
+					<li className="margin-bottom-20 list-none">Hình thái: Khối tổng thể [to beautify {'{what the legacy script outputs}'}] - [Tầng Hạt Thuần Động Cụm][Tiered Particle Bare Verb Phrase] ở tầng ngoài. Bên trong chứa bao gói {'{what the legacy script outputs}'} - [Hiển-Liên Động Câu][Connector Verb Clause] ở tầng trong.</li>
 			
 					<li className="list-none">Chức năng: Khối {'{what the legacy script outputs}'} bên trong đóng vai trò làm [Danh Câu][Noun Clause] làm [Danh Nhận][Noun Object] chịu sự điều phối hành động trực tiếp từ [Rễ Động Cơ][Root Verb Base] nguyên bản beautify, và toàn bộ khối tổng thể dữ liệu [to beautify {'{what the legacy script outputs}'}] vận hành với chức năng [<strong>Danh Cụm</strong>][<strong>Noun Phrase</strong>] đóng vai trò làm [Danh Nhận][Noun Object] đứng sau mục tiêu cốt lõi của hành động prefers.</li>
 			
