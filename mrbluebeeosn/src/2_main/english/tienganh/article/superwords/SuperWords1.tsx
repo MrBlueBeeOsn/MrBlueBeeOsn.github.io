@@ -121,7 +121,7 @@ export default function SuperWords1(): React.JSX.Element {
           <li className="margin-bottom-20 list-none">Sự hợp nhất tuyến tính giữa hành động mang [Thời] gian và hành động mang tính [Tiếp] diễn.</li>
 
           <li value="15">[<strong>Thời Hoàn Động Cơ</strong>][<strong>Tense Perfect Verb Base</strong>]: has built, had designed</li>
-          <li className="margin-bottom-20 list-none">Sự hợp nhất tuyến tính giữa hành động mang [Thời] gian và hành động mang tính [Hoàn] thành.</li>
+          <li className="margin-bottom-20 list-none">Sự hợp nhất tuyến tính giữa hành động mang [Thời] gian và hành động mang tính [Tiếp] diễn.</li>
       
           <li value="16">[<strong>Thời Hoàn Tiếp Động Cơ</strong>][<strong>Tense Perfect Progressive Verb Base</strong>]: has been building, had been designing</li>
           <li className="list-none">Sự hợp nhất tuyến tính giữa ba lớp năng lượng [Thời] gian, [Hoàn] thành và [Tiếp] diễn.</li>
@@ -161,11 +161,11 @@ export default function SuperWords1(): React.JSX.Element {
 
         <ul className="list-square">
       
-          <li>be expanding → [Thời][Tense] be (am/is/are, was/were) + [Tiếp Động Cơ][Progressive Verb Base] growing</li>
+          <li>be expanding → [Thời][Tense] be (am/is/are, was/were) + [Tiếp Động Cơ][Progressive Verb Base] expanding</li>
 
-          <li>have been expanding → [Thời + Hoàn][Tense + Perfect] have/has/had + been + [Tiếp Động Cơ][Progressive Verb Base] growing</li>
+          <li>have been expanding → [Thời + Hoàn][Tense + Perfect] have/has/had + been + [Tiếp Động Cơ][Progressive Verb Base] expanding</li>
       
-          <li>have optimized → [Thời + Hoàn][Tense + Perfect] have/has/had + developed</li>
+          <li>have optimized → [Thời + Hoàn][Tense + Perfect] have/has/had + optimized</li>
       
           <li>optimized, optimizes → [Thời-Thuần Động Cơ][Tense-Bare Verb Base] Tích hợp</li>
       
@@ -178,9 +178,9 @@ export default function SuperWords1(): React.JSX.Element {
 
         <ul className="list-square">
       
-          <li>to optimize → [Hạt Động Cơ][Particle Verb Base] to + [Thuần Động Cơ][Bare Verb Base] develop</li>
+          <li>to optimize → [Hạt Động Cơ][Particle Verb Base] to + [Thuần Động Cơ][Bare Verb Base] optimize</li>
       
-          <li>did optimize → [Thời][Tense] did (Nhấn mạnh) + [Thuần Động Cơ][Bare Verb Base] develop</li>
+          <li>did optimize → [Thời][Tense] did (Nhấn mạnh) + [Thuần Động Cơ][Bare Verb Base] optimize</li>
       
         </ul>
       
@@ -191,9 +191,9 @@ export default function SuperWords1(): React.JSX.Element {
 
         <ul className="list-square">
       
-          <li>should consult → [Ý-Thái][Soft-Modal] should (gợi ý) + [Thuần Động Cơ][Bare Verb Base] develop</li>
+          <li>should consult → [Ý-Thái][Soft-Modal] should (gợi ý) + [Thuần Động Cơ][Bare Verb Base] consult</li>
       
-          <li>could upgrade → [Ý-Thái][Soft-Modal] could (khả năng nhẹ) + [Thuần Động Cơ][Bare Verb Base] develop</li>
+          <li>could upgrade → [Ý-Thái][Soft-Modal] could (khả năng nhẹ) + [Thuần Động Cơ][Bare Verb Base] upgrade</li>
       
         </ul>
       
@@ -204,9 +204,9 @@ export default function SuperWords1(): React.JSX.Element {
 
         <ul className="list-square">
       
-          <li>will approve → [Áp-Thái][Assertive-Modal] will (cam kết) + [Thuần Động Cơ][Bare Verb Base] develop</li>
+          <li>will approve → [Áp-Thái][Assertive-Modal] will (cam kết) + [Thuần Động Cơ][Bare Verb Base] approve</li>
       
-          <li>must secure → [Áp-Thái][Assertive-Modal] must (ép buộc) + [Thuần Động Cơ][Bare Verb Base] develop</li>
+          <li>must secure → [Áp-Thái][Assertive-Modal] must (ép buộc) + [Thuần Động Cơ][Bare Verb Base] secure</li>
       
         </ul>
 
@@ -234,7 +234,7 @@ export default function SuperWords1(): React.JSX.Element {
 
 			<h3 className="margin-y-50 text-center">1. Hình thái: [ĐỘNG CƠ][Verb Base]</h3>
 
-			<p>Đây là đơn vị chức năng nhỏ nhất, chỉ gồm đúng 1 chữ đứng độc lập.</p>
+			<p>Đây là đơn vị chức năng nhỏ nhất, chỉ gồm đúng <strong>1 chữ</strong> đứng độc lập.</p>
 
 			<p><strong>Quy ước trực quan</strong>: Sử dụng dấu ngoặc vuông [] bao quanh thành phần đơn lẻ này để bóc tách vai trò của nó.</p>
 
@@ -467,7 +467,7 @@ export default function SuperWords1(): React.JSX.Element {
 					<li>The car [he drove yesterday] belonged to his father.</li>
 					<li className="margin-bottom-20 list-none">Chiếc xe [anh ấy lái hôm qua] thuộc về ba anh ấy.</li>
 			
-					<li className="list-none">Hình thái: [he drove yesterday] – [Ẩn-Liên Động Câu][Zero-Connector Verb Clause] biểu thị một câu con bổ nghĩa nằm ngay sau thành phần danh khối chính mà không xuất hiện các khối liên kết như "which" hay "that" ở đầu.</li>
+					<li className="list-none">Hình thái: [he drove yesterday] – [Ẩn-Liên Động Câu][Zero-Connector Verb Clause] biểu thị một câu con bổ nghĩa nằm ngay sau thành phần [Danh Khối][Noun Block] chính mà không xuất hiện các khối liên kết như "which" hay "that" ở đầu.</li>
 			
 					<li className="list-none">Chức năng: [he drove yesterday] – [Tính Câu][Adjective Clause] đang đứng vị trí bám sát ngay sau [Danh Chủ][Noun Subject] "The car" để bổ nghĩa và định danh riêng cho chiếc xe đó.</li>
 			
@@ -533,7 +533,7 @@ export default function SuperWords1(): React.JSX.Element {
 
 					<li>Hình thái: [in {'{which they test the sample}'}] – [Tầng Giới Cụm][Tiered Prepositional Phrase] mở đầu bằng [Giới Cơ][Prepositional Base] "in", bên trong lồng ghép một khối phụ {'{which they test the sample}'} là [Hiển-Liên Động Câu][Connector Verb Clause] đóng vai trò bổ nghĩa hoàn chỉnh cho bối cảnh nơi chốn.</li>
 			
-					<li>Chức năng: [in {'{which they test the sample}'}] – [<strong>Tính Cụm</strong>][<strong>Adjective Phrase</strong>] tầng ngoài đứng ngay sau thành phần danh khối chính "The laboratory" để bổ nghĩa và khu biệt không gian; trong đó khối phụ {'{which they test the sample}'} giữ chức năng làm [Danh Câu][Noun Clause] tầng trong đứng vị trí làm [Danh Nhận][Noun Object] chịu sự điều phối trực tiếp của [Giới Cơ][Prepositional Base] "in".</li>
+					<li>Chức năng: [in {'{which they test the sample}'}] – [<strong>Tính Cụm</strong>][<strong>Adjective Phrase</strong>] tầng ngoài đứng ngay sau thành phần [Danh Khối][Noun Block] chính "The laboratory" để bổ nghĩa và khu biệt không gian; trong đó khối phụ {'{which they test the sample}'} giữ chức năng làm [Danh Câu][Noun Clause] tầng trong đứng vị trí làm [Danh Nhận][Noun Object] chịu sự điều phối trực tiếp của [Giới Cơ][Prepositional Base] "in".</li>
 			
 				</ul>
 			
@@ -595,14 +595,14 @@ export default function SuperWords1(): React.JSX.Element {
 
 			<h5 className="margin-y-30 text-indent-whole">Cách viết lại 2: Dùng khối [Phức Giới Cụm][Complex Prepositional Phrase]</h5>
 
-			<p className="margin-top-20 text-indent-whole">Rút gọn tối đa thành một cụm danh khối</p>
+			<p className="margin-top-20 text-indent-whole">Rút gọn tối đa thành một cụm [Danh Khối][Noun Block]</p>
 			
 				<ul className="list-square">
 			
 					<li>They canceled the launch [because of the hardware failure].</li>
 					<li className="margin-bottom-20 list-none">Họ đã hủy bỏ buổi ra mắt [vì lỗi phần cứng].</li>
 			
-					<li className="list-none">Hình thái: [because of the hardware failure] – [Phức Giới Cụm][Complex Prepositional Phrase] thể hiện một khối thông tin không chứa hành động, bắt đầu bằng [Phức Giới Cơ][Complex Prepositional Base] "because of" điều phối trực tiếp một danh khối trung tâm đứng sau.</li>
+					<li className="list-none">Hình thái: [because of the hardware failure] – [Phức Giới Cụm][Complex Prepositional Phrase] thể hiện một khối thông tin không chứa hành động, bắt đầu bằng [Phức Giới Cơ][Complex Prepositional Base] "because of" điều phối trực tiếp một [Danh Khối][Noun Block] trung tâm đứng sau.</li>
 
 					<li className="list-none">Chức năng: [because of the hardware failure] – [Trạng Cụm][Adverb Phrase] đang đứng vị trí ở cuối câu để làm mốc thiết lập bối cảnh nguyên nhân, bổ nghĩa cho toàn câu lớn.</li>
 			
