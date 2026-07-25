@@ -451,7 +451,7 @@ export default function NineBox1(): React.JSX.Element {
 					<li>They monitor server nodes [because of the traffic spike].</li>
 					<li className="margin-bottom-20 list-none">Họ giám sát các nút máy chủ [bởi vì sự tăng đột biến của lưu lượng truy cập].</li>
 			
-					<li className="list-none">Hình thái: [because of the traffic spike] — [Phức Giới Cơ][Complex Prepositional Base] kết hợp với khối danh mục mục tiêu phía sau tạo thành một [Giới Cụm][Prepositional Phrase] hoàn chỉnh bổ nghĩa nguyên nhân.</li>
+					<li className="list-none">Hình thái: [because of the traffic spike] — [Phức Giới Cụm][Complex Prepositional Phrase] bắt đầu bằng [Phức Giới Cơ][Complex Prepositional Base] "because of"  kết hợp với [Danh Khối][Noun  Block] "the traffic spike" mục tiêu phía sau hoàn chỉnh bổ nghĩa nguyên nhân.</li>
 			
 					<li className="list-none">Chức năng: [because of the traffic spike] – [Trạng Cụm][Adverb Phrase] bổ nghĩa bối cảnh nguyên nhân cho hành động giám sát.</li>
 			
@@ -465,7 +465,7 @@ export default function NineBox1(): React.JSX.Element {
 
 			<p>Trong các cấu trúc phức tạp, các Module sẽ lồng vào nhau theo kiến trúc hình khối.</p>
 
-			<p><strong>Quy ước</strong>: Dấu [] <strong>bao quanh tầng ngoài và dấu</strong> {'{}'} <strong>bao quanh tầng lồng bên trong</strong>. Hệ thống phân tầng này sẽ quét và lấy trọn vẹn cả các khối Rễ Động Cơ điều phối hành động và các thông số cài đặt bối cảnh đi kèm.</p>
+			<p><strong>Quy ước</strong>: Dấu [] <strong>bao quanh tầng ngoài và dấu</strong> {'{}'} <strong>bao quanh tầng lồng bên trong</strong>. Hệ thống phân tầng này sẽ quét và lấy trọn vẹn cả các khối [Rễ Động Cơ][Root Verb Base] điều phối hành động và các thông số cài đặt bối cảnh đi kèm.</p>
 
 					
 			<p className="margin-top-20 text-indent-whole">Khi các khối dữ liệu lồng ghép chéo nhau theo cấu trúc hình khối, hệ thống vận hành cơ chế phân tầng để bóc tách chính xác từng lớp dữ liệu:</p>
