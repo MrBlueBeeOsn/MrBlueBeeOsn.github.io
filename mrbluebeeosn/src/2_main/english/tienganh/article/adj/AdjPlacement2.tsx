@@ -472,7 +472,7 @@ export default function AdjPlacement2(): React.JSX.Element {
 			
 
 
-			<p className="margin-top-20 text-indent-whole">[<strong>Tính Cụm</strong>] <strong>dạng</strong> [<strong>Giới Cụm</strong>] [<strong>Prepositional Phrase</strong>]: [in the blue dress]</p>
+			<p className="margin-top-20 text-indent-whole">[<strong>Tính Cụm</strong>][<strong>Adjective Phrase</strong>] <strong>cấu tạo từ</strong> [<strong>Giới Cụm</strong>] [<strong>Prepositional Phrase</strong>]: [in the blue dress]</p>
 			
 				<ul className="list-square">
 			
