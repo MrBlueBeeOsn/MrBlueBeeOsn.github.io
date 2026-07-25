@@ -375,7 +375,7 @@ export default function Respond(): React.JSX.Element {
       
       <p className="margin-top-20 text-indent-whole"><strong>Hình thành chức năng Trạng Cụm</strong> [<strong>Adverb Phrase</strong>]</p>
 
-      <p className="margin-top-20 text-indent-whole">[<strong>Trạng Cụm</strong>] <strong>dạng</strong> [<strong>Giới Cụm</strong>]:</p>
+      <p className="margin-top-20 text-indent-whole">[<strong>Trạng Cụm</strong>][<strong>Adverb Phrase</strong>] <strong>cấu tạo từ</strong> [<strong>Giới Cụm</strong>]:</p>
 
       <p className="margin-top-20 text-indent-whole">Ví dụ 8a:</p>
       
@@ -391,7 +391,7 @@ export default function Respond(): React.JSX.Element {
         </ul>
 
 
-      <p className="margin-top-20 text-indent-whole">[<strong>Trạng Cụm</strong>] <strong>dạng</strong> [<strong>Giới Cụm</strong>] (<strong>có dấu phẩy</strong>):</p>
+      <p className="margin-top-20 text-indent-whole">[<strong>Trạng Cụm</strong>][<strong>Adverb Phrase</strong>] <strong>cấu tạo từ</strong> [<strong>Giới Cụm</strong>] (<strong>có dấu phẩy</strong>):</p>
 
       <p className="margin-top-20 text-indent-whole">Ví dụ 8b:</p>
       
