@@ -575,7 +575,7 @@ export default function TieredStructure1(): React.JSX.Element {
 
 			<p className="text-indent-whole">Đây là trạng thái tối tân của ngôn ngữ khi thành phần liên kết bị triệt tiêu hoàn toàn. Khối mã xuất hiện dưới dạng một câu con độc lập về mặt hiển thị, nhưng thực thi trọn vẹn các chức năng hệ thống:</p>
 
-			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 15</strong>: [<strong>Danh Nhận</strong>][<strong>Noun Object</strong>] Ẩn Liên</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 15</strong>: [<strong>Danh Nhận</strong>][<strong>Noun Object</strong>]</p>
 			
 				<ul className="list-square">
 			
@@ -589,7 +589,7 @@ export default function TieredStructure1(): React.JSX.Element {
 				</ul>
 			
 			
-			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 16</strong>: [<strong>Tính Câu</strong>][<strong>Adjective Clause</strong>] Ẩn Liên</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 16</strong>: [<strong>Tính Câu</strong>][<strong>Adjective Clause</strong>]</p>
 			
 				<ul className="list-square">
 			
@@ -603,7 +603,7 @@ export default function TieredStructure1(): React.JSX.Element {
 				</ul>
 			
 			
-			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 17</strong>: [<strong>Trạng Câu</strong>][<strong>Adverb Clause</strong>] Ẩn Liên</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 17</strong>: [<strong>Trạng Câu</strong>][<strong>Adverb Clause</strong>]</p>
 			
 				<ul className="list-square">
 			

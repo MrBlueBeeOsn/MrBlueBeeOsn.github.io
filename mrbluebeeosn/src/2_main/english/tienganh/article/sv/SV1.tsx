@@ -316,9 +316,9 @@ export default function SV1(): React.JSX.Element {
 					<li>The children [playing in the park] are laughing.</li>
 					<li className="margin-bottom-20 list-none">Những đứa trẻ [đang chơi trong công viên] đang cười.</li>
 			
-					<li className="list-none">Hình thái: [playing in the park] - [Tiếp Động Cụm][Progressive Verb Phrase] biểu thị khối hành động chứa nhiều yếu tố kết hợp và không chứa hệ trục [S][V], bắt đầu bằng [Tiếp Động Cơ][Progressive Verb Base] dạng V-ing.</li>
+					<li className="list-none">Hình thái: [playing in the park] - [Tiếp Động Cụm][Progressive Verb Phrase] bắt đầu bằng [Tiếp Động Cơ][Progressive Verb Base] "playing" kết hợp với [Giới Cụm][Prepositional Phrase] "in the park" để bổ nghĩa địa điểm, không chứa hệ trục [S][V].</li>
 			
-					<li className="margin-bottom-20 list-none">Chức năng: [playing in the park] - [Tính Cụm][Adjective Phrase] đứng ngay sau đối tượng khối [Danh Chủ][Noun Subject] "The children", "những đứa trẻ" nhằm mô tả mức độ đặc điểm của khối [Danh Cụm][Noun Phrase] này.</li>
+					<li className="margin-bottom-20 list-none">Chức năng: [playing in the park] - [Tính Cụm][Adjective Phrase] đứng ngay sau đối tượng khối [Danh Chủ][Noun Subject] "The children", "những đứa trẻ" nhằm mô tả mức độ đặc điểm của [Tính Cơ][Adjective Base] này.</li>
 			
 				</ul>
 			
@@ -328,7 +328,7 @@ export default function SV1(): React.JSX.Element {
 					<li>He woke up early [to catch the train].</li>
 					<li className="margin-bottom-20 list-none">Anh ấy đã thức dậy sớm [để bắt kịp chuyến tàu].</li>
 			
-					<li className="list-none">Hình thái: [to catch the train] - [Hạt Thuần Động Cụm][Particle Bare Verb Phrase] xác định khối hành động chứa nhiều yếu tố kết hợp và không chứa hệ trục [S][V], bắt đầu bằng [Hạt Thuần Động Cơ][Particle Bare Verb Base] "to catch" kết hợp với [Danh Khối][Noun Block] "the train".</li>
+					<li className="list-none">Hình thái: [to catch the train] - [Hạt Thuần Động Cụm][Particle Bare Verb Phrase] bắt đầu bằng [Hạt Thuần Động Cơ][Particle Bare Verb Base] "to catch" kết hợp với [Danh Khối][Noun Block] "the train" để làm đối tượng tiếp nhận hành động, không chứa hệ trục [S][V].</li>
 			
 					<li className="list-none">Chức năng: [to catch the train] - [Trạng Cụm][Adverb Phrase] gắn vào phía sau nhằm làm rõ mục đích cho phần thông tin trước đó.</li>
 			
@@ -512,7 +512,7 @@ export default function SV1(): React.JSX.Element {
 
 			<h4 className="margin-y-40">1. [Danh Cụm][Noun Phrase]</h4>
 
-			<p className="text-indent-whole">Khối [Danh Cụm][Noun Phrase] lớn đóng vai trò làm [Danh Chủ][Noun Subject] hoặc [Danh Nhận][Noun Subject], nhưng bên trong nó lại chứa một khối chức năng phụ trợ lồng ghép để làm rõ thông tin.</p>
+			<p className="text-indent-whole">Khối [Danh Cụm][Noun Phrase] lớn đóng vai trò làm [Danh Chủ][Noun Subject] hoặc [Danh Nhận][Noun Object], nhưng bên trong nó lại chứa một khối chức năng phụ trợ lồng ghép để làm rõ thông tin.</p>
 
 			<p><strong>Thể hiện Chức năng</strong> [<strong>Danh Chủ</strong>][<strong>Noun Subject</strong>]</p>
 			
