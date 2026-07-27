@@ -451,7 +451,7 @@ export default function NineBox1(): React.JSX.Element {
 					<li>They monitor server nodes [because of the traffic spike].</li>
 					<li className="margin-bottom-20 list-none">Họ giám sát các nút máy chủ [bởi vì sự tăng đột biến của lưu lượng truy cập].</li>
 			
-					<li className="list-none">Hình thái: [because of the traffic spike] — [Phức Giới Cụm][Complex Prepositional Phrase] bắt đầu bằng [Phức Giới Cơ][Complex Prepositional Base] "because of"  kết hợp với [Danh Khối][Noun  Block] "the traffic spike" mục tiêu phía sau hoàn chỉnh bổ nghĩa nguyên nhân.</li>
+					<li className="list-none">Hình thái: [because of the traffic spike] - [Phức Giới Cụm][Complex Prepositional Phrase] bắt đầu bằng [Phức Giới Cơ][Complex Prepositional Base] "because of" kết hợp với [Danh Khối][Noun Block] "the traffic spike" phía sau tạo thành một khối hoàn chỉnh bổ nghĩa nguyên nhân cho [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "monitor".</li>
 			
 					<li className="list-none">Chức năng: [because of the traffic spike] – [Trạng Cụm][Adverb Phrase] bổ nghĩa bối cảnh nguyên nhân cho hành động giám sát.</li>
 			
@@ -697,7 +697,7 @@ export default function NineBox1(): React.JSX.Element {
 					<li>The application syncs data [because of an automated synchronization policy].</li>
 					<li className="margin-bottom-20 list-none">Ứng dụng đồng bộ hóa dữ liệu [bởi vì một chính sách đồng bộ hóa tự động].</li>
 			
-					<li className="list-none">Hình thái: [because of an automated synchronization policy] — [Phức Giới Cơ][Complex Prepositional Base] kết hợp với khối danh mục mục tiêu phía sau tạo thành một [Phức Giới Cụm][Complex Prepositional Phrase] hoàn chỉnh bổ nghĩa nguyên nhân.</li>
+					<li className="list-none">Hình thái: [because of an automated synchronization policy] - [Phức Giới Cụm][Complex Prepositional Phrase] bắt đầu bằng [Phức Giới Cơ][Complex Prepositional Base] "because of" kết hợp với [Danh Khối][Noun Block] "an automated synchronization policy" phía sau tạo thành một khối hoàn chỉnh bổ nghĩa nguyên nhân cho [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "syncs".</li>
 			
 					<li className="list-none">Chức năng: [because of an automated synchronization policy] – [Trạng Cụm][Adverb Phrase] bổ nghĩa bối cảnh nguyên nhân cho hành động đồng bộ hóa.</li>
 			
