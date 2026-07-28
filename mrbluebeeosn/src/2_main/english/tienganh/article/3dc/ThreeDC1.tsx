@@ -175,7 +175,7 @@ export default function ThreeDC1(): React.ReactElement {
           <li className="margin-bottom-20 list-none">Hành động chỉ [Thái] độ mang tính trực diện, [Áp] đặt thực tế xuống, không chừa lối thoát cho người nghe. Khối phức đặc biệt "have to" được quét như một [Phức Áp-Thái Động Cơ] [Complex Assertive-Modal Verb Base] thống nhất.</li>
 
           <li value="6">[<strong>Thuần Động Cơ</strong>][<strong>Bare Verb Base</strong>]: analyze, innovate, transform</li>
-          <li className="margin-bottom-20 list-none">Hành động [Thuần] khiết đứng tự do một mình, hoàn toàn giải phóng và không có to đi kèm (thường đứng sau các hành động ở dạng [Ý-Thái][Soft-Modal] hay [Áp-Thái Động Cơ][Assertive-Modal Verb Base]).</li>
+          <li className="margin-bottom-20 list-none">Hành động [Thuần] khiết đứng tự do một mình, không có to đi kèm, thường đứng ngay sau [Hạt Động Cơ][Particle Verb Base] "to", [Ý-Thái][Soft-Modal] hay [Áp-Thái Động Cơ][Assertive-Modal Verb Base] hoặc [Rễ Động Cơ][Root Verb Base] make, let, let's, help, have, get, see, hear, watch, feel, notice, observe, smell,...</li>
       
           <li value="7">[<strong>Hạt Thuần Động Cơ</strong>][<strong>Particle Bare Verb Base</strong>]: to analyze, to transform</li>
           <li className="margin-bottom-20 list-none">Sự hợp nhất tuyến tính lấy tên phần tử đầu tiên [Hạt Động Cơ] kết hợp cùng hành động [Thuần] khiết phía sau.</li>
@@ -295,12 +295,12 @@ export default function ThreeDC1(): React.ReactElement {
 			
 				<ul className="list-square">
 			
-					<li>[To secure this contract] demands exceptional negotiation skills.</li>
-					<li className="margin-bottom-20 list-none">[Đạt được hợp đồng này] đòi hỏi kỹ năng đàm phán xuất sắc.</li>
+					<li>It takes exceptional negotiation skills [to secure this contract].</li>
+					<li className="margin-bottom-20 list-none">Cần có kỹ năng đàm phán xuất sắc [để đạt được hợp đồng này].</li>
 			
-					<li className="list-none">Hình thái: Khối [To secure this contract] - [Hạt Thuần Động Cụm][Particle Bare Verb Phrase] bắt đầu bằng [Hạt Thuần Động Cơ][Particle Bare Verb Base] "to secure" kéo theo một [Danh Nhận][Noun Object] phía sau.</li>
+					<li className="list-none">Hình thái: Khối [to secure this contract] - [Hạt Thuần Động Cụm][Particle Bare Verb Phrase] bắt đầu bằng [Hạt Thuần Động Cơ][Particle Bare Verb Base] "to secure" kéo theo một [Danh Nhận][Noun Object] phía sau.</li>
 			
-					<li className="list-none">Chức năng: Khối [To secure this contract] - [Danh Cụm][Noun Phrase] làm khối [Danh Chủ][Noun Subject] đứng đầu câu thực hiện hành động chính, điều phối [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "demands".</li>
+					<li className="list-none">Chức năng: Khối [to secure this contract] - [Danh Cụm][Noun Phrase] đóng vai trò làm [Danh Chủ][Noun Subject] đứng sau [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "takes" để bổ nghĩa cho [Giữ Chủ][Placeholder Subject] "It".</li>
 			
 				</ul>
 
@@ -507,12 +507,12 @@ export default function ThreeDC1(): React.ReactElement {
 
 				<ul className="list-square">
 			
-					<li>[To understand {'{why the species went extinct}'}] demands scientific research.</li>
-					<li className="margin-bottom-20 list-none">[Thấu hiểu {'{tại sao loài này tuyệt chủng}'}] đòi hỏi các nghiên cứu khoa học.</li>
+					<li>It demands scientific research [to understand {'{why the species went extinct}'}].</li>
+					<li className="margin-bottom-20 list-none">Đòi hỏi các nghiên cứu khoa học [để thấu hiểu {'{tại sao loài này tuyệt chủng}'}].</li>
 			
-					<li className="list-none">Hình thái: Khối bao ngoài [To understand {'{why the species went extinct}'}] là một [Tầng Hạt Thuần Động Cụm][Tiered Particle Bare Verb Phrase] bắt đầu bằng [Hạt Thuần Động Cơ][Particle Bare Verb Base] "To understand". Bên trong bao gói {'{why the species went extinct}'} là một [Hiển-Liên Động Câu][Connector Verb Clause] dẫn dắt bằng biểu hiện nghi vấn "why".</li>
+					<li className="list-none">Hình thái: Khối bao ngoài [to understand {'{why the species went extinct}'}] là một [Tầng Hạt Thuần Động Cụm][Tiered Particle Bare Verb Phrase] bắt đầu bằng [Hạt Thuần Động Cơ][Particle Bare Verb Base] "to". Bên trong bao gói {'{why the species went extinct}'} là một [Hiển-Liên Động Câu][Connector Verb Clause] dẫn dắt bằng biểu hiện nghi vấn "why".</li>
 			
-					<li className="list-none">Chức năng: Khối {'{why the species went extinct}'} bên trong đóng vai trò là [Danh Câu][Noun Clause] làm [Danh Nhận][Noun Object] chịu sự điều phối của [Thuần Động Cơ][Bare Verb Base] "understand". Toàn bộ khối hỗn hợp [To understand {'{why the species went extinct}'}] đóng vai trò tổng thể làm [<strong>Danh Chủ</strong>][<strong>Noun Subject</strong>] thực hiện hành động chính cho [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "demands".</li>
+					<li className="list-none">Chức năng: Khối {'{why the species went extinct}'} bên trong đóng vai trò là [Danh Câu][Noun Clause] làm [Danh Nhận][Noun Object] chịu sự điều phối của [Thuần Động Cơ][Bare Verb Base] "understand". Toàn bộ khối hỗn hợp [to understand {'{why the species went extinct}'}] - [<strong>Danh Cụm</strong>][<strong>Noun Phrase</strong>] đóng vai trò làm [Danh Chủ][Noun Subject] đứng sau [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "demands" để bổ nghĩa cho [Giữ Chủ][Placeholder Subject] "It".</li>
 			
 				</ul>
 
