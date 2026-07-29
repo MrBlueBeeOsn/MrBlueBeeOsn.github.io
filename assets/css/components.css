@@ -1040,7 +1040,8 @@ summary::after {
     letter-spacing: 0.02em;
   }
  
-  .pill.s { background: #eeedfe; color: #3c3489; }
+  .pill.teal { background: rgba(166, 239, 241, 0.5);}
+	.pill.s { background: #eeedfe; color: #3c3489; }
   .pill.v { background: #e1f5ee; color: #0f6e56; }
   .pill.o { background: #faece7; color: #712b13; }
   .pill.m { background: #faeeda; color: #633806; }
@@ -1077,7 +1078,8 @@ summary::after {
     color: var(--ink);
   }
  
-  .example-sentence .s { color: #534ab7; }
+  .example-sentence .teal { color: rgba(1, 172, 193, 1); }
+	.example-sentence .s { color: #534ab7; }
   .example-sentence .v { color: #0f6e56; }
   .example-sentence .o { color: #993c1d; }
   .example-sentence .m { color: #854f0b; }
