@@ -118,7 +118,7 @@ export default function NineBox1(): React.JSX.Element {
           <li className="margin-bottom-20 list-none">Khối biểu thị [Thái] độ trực diện, mang tính cam kết, ép buộc hoặc [Áp] đặt trực tiếp xuống đối tượng nghe. Khối phức đặc biệt "have to" được quét như một [Phức Áp-Thái Động Cơ][Complex Assertive-Modal Verb Base] thống nhất.</li>
 
           <li value="6">[<strong>Thuần Động Cơ</strong>][<strong>Bare Verb Base</strong>]: analyze, compile, transmit</li>
-          <li className="margin-bottom-20 list-none">Hành động [Thuần] khiết đứng độc lập, hoàn toàn được giải phóng khỏi các liên kết định hướng và không đi kèm to (thường chịu sự điều phối trực tiếp phía sau các khối hành động ở dạng [Ý-Thái][Soft-Modal] hay [Áp-Thái Động Cơ][Assertive-Modal Verb Base]).</li>
+          <li className="margin-bottom-20 list-none">Hành động [Thuần] khiết đứng độc lập, hoàn toàn được giải phóng khỏi các liên kết định hướng và không đi kèm "to", thường đứng ngay sau [Hạt Động Cơ][Particle Verb Base] "to", [Ý-Thái][Soft-Modal] hay [Áp-Thái Động Cơ][Assertive-Modal Verb Base] hoặc [Rễ Động Cơ][Root Verb Base] sai khiến / tri giác (make, let, let's, help, have, get, see, hear, watch, feel, notice, observe, smell).</li>
       
           <li value="7">[<strong>Hạt Thuần Động Cơ</strong>][<strong>Particle Bare Verb Base</strong>]: to analyze, to transmit</li>
           <li className="margin-bottom-20 list-none">Sự liên kết tuyến tính chặt chẽ giữa hạt định hướng nguyên bản [Hạt Động Cơ][Particle Verb Base] và rễ hành động [Thuần] khiết, nguyên bản.</li>
@@ -276,12 +276,12 @@ export default function NineBox1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>[To encrypt the system communication] takes a lot of time.</li>
-					<li className="margin-bottom-20 list-none">[Việc mã hóa truyền thông hệ thống] tốn rất nhiều thời gian.</li>
+					<li>It takes a lot of time [to encrypt the system communication].</li>
+					<li className="margin-bottom-20 list-none">Nó tốn rất nhiều thời gian [để mã hóa truyền thông hệ thống].</li>
 			
-					<li className="list-none">Hình thái: [To encrypt the system communication] - [Hạt Thuần Động Cụm][Particle Bare Verb Phrase] hình thành từ sự kết hợp giữa hạt nhân [Hạt Thuần Động Cơ][Particle Verb Base] "to" và mở rộng hành động phía sau.</li>
+					<li className="list-none">Hình thái: [to encrypt the system communication] - [Hạt Thuần Động Cụm][Particle Bare Verb Phrase] hình thành từ sự kết hợp giữa hạt nhân [Hạt Thuần Động Cơ][Particle Bare Verb Base] "to encrypt" và mở rộng hành động phía sau.</li>
 			
-					<li className="list-none">Chức năng: [To encrypt the system communication] – [Danh Cụm][Noun Phrase] đóng vai trò làm một khối [Danh Chủ][Noun Subject] chịu trách nhiệm thực thi câu lớn.</li>
+					<li className="list-none">Chức năng: [to encrypt the system communication] – [Danh Cụm][Noun Phrase] đóng vai trò làm [Danh Chủ][Noun Subject] đứng sau [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "takes" để bổ nghĩa cho [Giữ Chủ][Placeholder Subject] "It" chịu trách nhiệm thực thi câu lớn.</li>
 			
 				</ul>
 
@@ -293,7 +293,7 @@ export default function NineBox1(): React.JSX.Element {
 					<li>We choose [to upgrade the cloud infrastructure].</li>
 					<li className="margin-bottom-20 list-none">Chúng tôi chọn [nâng cấp cơ sở hạ tầng đám mây].</li>
 			
-					<li className="list-none">Hình thái: [to upgrade the cloud infrastructure] - [Hạt Thuần Động Cụm][Particle Bare Verb Phrase] hình thành từ sự kết hợp giữa hạt nhân [Hạt Thuần Động Cơ][Particle Verb Base] "to" và mở rộng hành động phía sau.</li>
+					<li className="list-none">Hình thái: [to upgrade the cloud infrastructure] - [Hạt Thuần Động Cụm][Particle Bare Verb Phrase] hình thành từ sự kết hợp giữa hạt nhân [Hạt Thuần Động Cơ][Particle Bare Verb Base] "to upgrade" và mở rộng hành động phía sau.</li>
 			
 					<li className="list-none">Chức năng: [to upgrade the cloud infrastructure] – [Danh Cụm][Noun Phrase] đóng vai trò làm một khối làm [Danh Nhận][Noun Object] đứng sau làm mục tiêu chịu tác động trực tiếp từ hành động "choose".</li>
 			
@@ -321,7 +321,7 @@ export default function NineBox1(): React.JSX.Element {
 					<li>They test the components [to secure the deployment pipeline].</li>
 					<li className="margin-bottom-20 list-none">Họ kiểm thử các thành phần [để bảo mật đường ống triển khai].</li>
 			
-					<li className="list-none">Hình thái: [to secure the deployment pipeline] - [Hạt Thuần Động Cụm][Particle Bare Verb Phrase] hình thành từ sự kết hợp giữa hạt nhân [Hạt Thuần Động Cơ][Particle Verb Base] "to" và mở rộng hành động phía sau.</li>
+					<li className="list-none">Hình thái: [to secure the deployment pipeline] - [Hạt Thuần Động Cụm][Particle Bare Verb Phrase] hình thành từ sự kết hợp giữa hạt nhân [Hạt Thuần Động Cơ][Particle Bare Verb Base] "to secure" và mở rộng hành động phía sau.</li>
 			
 					<li className="list-none">Chức năng: [to secure the deployment pipeline] – [Trạng Cụm][Adverb Phrase] bổ nghĩa bối cảnh mục đích cho hành động kiểm thử.</li>
 			
@@ -474,12 +474,12 @@ export default function NineBox1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>[To understand {'{how the database handles the workload}'}] requires deep technical knowledge.</li>
-					<li className="margin-bottom-20 list-none">[Việc hiểu {'{cách cơ sở dữ liệu xử lý khối lượng công việc}'}] yêu cầu kiến thức kỹ thuật chuyên sâu.</li>
+					<li>It requires deep technical knowledge [to understand {'{how the database handles the workload}'}].</li>
+					<li className="margin-bottom-20 list-none">Nó yêu cầu kiến thức kỹ thuật chuyên sâu [để hiểu {'{cách cơ sở dữ liệu xử lý khối lượng công việc}'}].</li>
 
-					<li className="margin-bottom-20 list-none">Hình thái: Khối tổng thể [To understand {'{how the database handles the workload}'}] - [Tầng Hạt Thuần Động Cụm][Tiered Particle Bare Verb Phrase] ở tầng ngoài. Bên trong chứa bao gói {'{how the database handles the workload}'} - [Hiển-Liên Động Câu][Connector Verb Clause] ở tầng trong.</li>
+					<li className="margin-bottom-20 list-none">Hình thái: Khối tổng thể [to understand {'{how the database handles the workload}'}] - [Tầng Hạt Thuần Động Cụm][Tiered Particle Bare Verb Phrase] ở tầng ngoài bắt đầu bằng [Hạt Thuần Động Cơ][Particle Bare Verb Base] "to understand". Bên trong chứa bao gói {'{how the database handles the workload}'} - [Hiển-Liên Động Câu][Connector Verb Clause] ở tầng trong.</li>
 			
-					<li className="list-none">Chức năng: Khối {'{how the database handles the workload}'} bên trong đóng vai trò làm [Danh Câu][Noun Clause] làm [Danh Nhận][Noun Object] chịu sự điều phối hành động trực tiếp từ [Rễ Động Cơ][Root Verb Base] nguyên bản understand, và toàn bộ khối tổng thể [To understand {'{how the database handles the workload}'}] vận hành với chức năng [<strong>Danh Cụm</strong>][<strong>Noun Phrase</strong>] đóng vai trò làm [Danh Chủ][Noun Subject] chịu trách nhiệm thực thi câu lớn.</li>
+					<li className="list-none">Chức năng: Khối {'{how the database handles the workload}'} bên trong đóng vai trò làm [Danh Câu][Noun Clause] làm [Danh Nhận][Noun Object] chịu sự điều phối hành động trực tiếp từ [Rễ Động Cơ][Root Verb Base] nguyên bản understand, và toàn bộ khối tổng thể [to understand {'{how the database handles the workload}'}] vận hành với chức năng [<strong>Danh Cụm</strong>][<strong>Noun Phrase</strong>] đóng vai trò làm [Danh Chủ][Noun Subject] đứng sau [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "requires" để bổ nghĩa cho [Giữ Chủ][Placeholder Subject] "It" chịu trách nhiệm thực thi câu lớn.</li>
 			
 				</ul>
 
@@ -491,7 +491,7 @@ export default function NineBox1(): React.JSX.Element {
 					<li>The system administrator prefers [to beautify {'{what the legacy script outputs}'}].</li>
 					<li className="margin-bottom-20 list-none">Quản trị viên hệ thống thích [làm đẹp {'{những gì kịch bản cũ xuất ra}'}].</li>
 
-					<li className="margin-bottom-20 list-none">Hình thái: Khối tổng thể [to beautify {'{what the legacy script outputs}'}] - [Tầng Hạt Thuần Động Cụm][Tiered Particle Bare Verb Phrase] ở tầng ngoài. Bên trong chứa bao gói {'{what the legacy script outputs}'} - [Hiển-Liên Động Câu][Connector Verb Clause] ở tầng trong.</li>
+					<li className="margin-bottom-20 list-none">Hình thái: Khối tổng thể [to beautify {'{what the legacy script outputs}'}] - [Tầng Hạt Thuần Động Cụm][Tiered Particle Bare Verb Phrase] ở tầng ngoài bắt đầu bằng [Hạt Thuần Động Cơ][Particle Bare Verb Base] "to beautify". Bên trong chứa bao gói {'{what the legacy script outputs}'} - [Hiển-Liên Động Câu][Connector Verb Clause] ở tầng trong.</li>
 			
 					<li className="list-none">Chức năng: Khối {'{what the legacy script outputs}'} bên trong đóng vai trò làm [Danh Câu][Noun Clause] làm [Danh Nhận][Noun Object] chịu sự điều phối hành động trực tiếp từ [Rễ Động Cơ][Root Verb Base] nguyên bản beautify, và toàn bộ khối tổng thể dữ liệu [to beautify {'{what the legacy script outputs}'}] vận hành với chức năng [<strong>Danh Cụm</strong>][<strong>Noun Phrase</strong>] đóng vai trò làm [Danh Nhận][Noun Object] đứng sau mục tiêu cốt lõi của hành động prefers.</li>
 			
