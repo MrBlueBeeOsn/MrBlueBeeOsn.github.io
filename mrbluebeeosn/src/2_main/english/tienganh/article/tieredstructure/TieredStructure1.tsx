@@ -178,7 +178,7 @@ export default function TieredStructure1(): React.JSX.Element {
           <li className="margin-bottom-20 list-none">Cấu trúc biểu thị [Thái] độ trực diện, [Áp] đặt thực tế và có độ cam kết, ràng buộc cao. Khối phức đặc biệt "have to" được quét như một thực thể [Phức Áp-Thái Động Cơ][Complex Assertive-Modal Verb Base] thống nhất.</li>
 
           <li value="6">[<strong>Thuần Động Cơ</strong>][<strong>Bare Verb Base</strong>]: build, design, explore</li>
-          <li className="margin-bottom-20 list-none">Hành động ở dạng [Thuần] khiết, nguyên bản đã được giải phóng hoàn toàn khỏi hạt to (thường xuất hiện ngay sau các cấu trúc hành động ở dạng [Ý-Thái][Soft-Modal] hay [Áp-Thái Động Cơ][Assertive-Modal Verb Base]).</li>
+          <li className="margin-bottom-20 list-none">Hành động ở dạng [Thuần] khiết, nguyên bản đã được giải phóng hoàn toàn khỏi hạt "to", thường đứng ngay sau [Hạt Động Cơ][Particle Verb Base] "to", [Ý-Thái][Soft-Modal] hay [Áp-Thái Động Cơ][Assertive-Modal Verb Base] hoặc các [Rễ Động Cơ][Root Verb Base] tác động / tri giác như make, let, let's, help, have, get, see, hear, watch, feel, notice, observe, smell, ...</li>
       
           <li value="7">[<strong>Hạt Thuần Động Cơ</strong>][<strong>Particle Bare Verb Base</strong>]: to build, to explore</li>
           <li className="margin-bottom-20 list-none">Sự liên kết tuyến tính chặt chẽ giữa hạt nhân định hướng [Hạt Động Cơ] và hành động [Thuần] khiết phía sau.</li>
@@ -298,12 +298,12 @@ export default function TieredStructure1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>[Designing the interface] requires creativity.</li>
-					<li className="margin-bottom-20 list-none">[Việc thiết kế giao diện] đòi hỏi sự sáng tạo.</li>
+					<li>It requires creativity [to design the interface].</li>
+					<li className="margin-bottom-20 list-none">Nó đòi hỏi sự sáng tạo [để thiết kế giao diện].</li>
 
-					<li className="list-none">Hình thái: [Designing the interface] — [Tiếp Động Cụm][Progressive Verb Phrase] bắt đầu bằng [Tiếp Động Cơ][Progressive Verb Base] (Designing) kéo dài cho đến hết đối tượng của nó.</li>
+					<li className="list-none">Hình thái: [to design the interface] - [Hạt Thuần Động Cụm][Particle Bare Verb Phrase] bắt đầu bằng [Hạt Thuần Động Cơ][Particle Bare Verb Base] "to design" kéo dài cho đến hết đối tượng của nó.</li>
 
-					<li className="list-none">Chức năng: [Designing the interface] — [Danh Cụm][Noun Phrase] đóng vai trò làm một khối đầu việc lớn đứng ở tiền tuyến để điều phối dòng lệnh requires của câu.</li>
+					<li className="list-none">Chức năng: [to design the interface] - [Danh Cụm][Noun Phrase] đóng vai trò làm [Danh Chủ][Noun Subject] đứng sau [Thời-Thuần Động Cụm][Tense-Bare Verb Phrase] "requires creativity" để bổ nghĩa cho [Giữ Chủ][Placeholder Subject] "It".</li>
 			
 				</ul>
 			
@@ -396,8 +396,8 @@ export default function TieredStructure1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>[Explaining {'{how we design this platform}'}] is urgent.</li>
-					<li className="margin-bottom-20 list-none">[Việc giải thích {'{cách mà chúng tôi thiết kế nền tảng này}'}] thì khẩn cấp.</li>
+					<li>It is urgent [to explain {'{how we design this platform}'}].</li>
+					<li className="margin-bottom-20 list-none">Nó thì khẩn cấp [để giải thích {'{cách mà chúng tôi thiết kế nền tảng này}'}].</li>
 			
 				</ul>
 			
@@ -405,9 +405,9 @@ export default function TieredStructure1(): React.JSX.Element {
 			
 					<ul className="list-square">
 				
-						<li className="list-none">Hình thái: [Explaining {'{how we design this platform}'}] - [Tầng Tiếp Động Cụm][Tiered Progressive Verb Phrase] biểu thị dưới dạng vùng mã lớn bắt đầu bằng [Tiếp Động Cơ][Progressive Verb Base] (Explaining) đứng ở đầu câu.</li>
+						<li className="list-none">Hình thái: [to explain {'{how we design this platform}'}] - [Tầng Hạt Thuần Động Cụm][Tiered Particle Bare Verb Phrase] lớn biểu hiện dưới dạng một vùng mã mở rộng bắt đầu bằng [Hạt Thuần Động Cơ][Particle Bare Verb Base] "to explain" và kéo theo khối mệnh đề con bên trong.</li>
 
-						<li className="list-none">Chức năng: [Explaining {'{how we design this platform}'}] - [<strong>Danh Cụm</strong>][<strong>Noun Phrase</strong>] đóng vai trò làm một phân hệ đầu việc lớn đóng vai trò chủ trì điều phối toàn bộ câu làm Khối [Danh Chủ][Noun Subject].</li>
+						<li className="list-none">Chức năng: [to explain {'{how we design this platform}'}] - [<strong>Danh Cụm</strong>][<strong>Noun Phrase</strong>] đóng vai trò chủ trì điều phối toàn bộ câu làm khối [Danh Chủ][Noun Subject] đứng sau [Thời-Thuần Động Cụm][Tense-Bare Verb Phrase] "is urgent" để bổ nghĩa cho [Giữ Chủ][Placeholder Subject] "It".</li>
 				
 					</ul>
 
@@ -631,7 +631,7 @@ export default function TieredStructure1(): React.JSX.Element {
 
 			<h4 className="margin-y-40">Phân hệ Động: Thay đổi các module chứa hành động</h4>
 
-			<h5 className="margin-y-30 text-indent-whole">Case 1: Giữ nguyên cấp độ, thay thế khối mã tương đương</h5>
+			<h5 className="margin-y-30 text-indent-whole">Case 1: Giữ nguyên cấp độ [Cụm][Phrase], thay thế khối mã tương đương</h5>
 			
 				<ul className="list-square">
 			
@@ -712,7 +712,7 @@ export default function TieredStructure1(): React.JSX.Element {
 
 			<h4 className="margin-y-40">Phân hệ Giới: Thay đổi các module chứa cấu trúc định vị</h4>
 
-			<h5 className="margin-y-30 text-indent-whole">Case 4: Kỹ thuật hoán đổi vị trí và thay thế khối mã [Giới Cụm][Prepositional Phrase] tương đương</h5>
+			<h5 className="margin-y-30 text-indent-whole">Case 4: Kỹ thuật hoán đổi vị trí cấp độ [Cụm][Phrase] và thay thế khối mã tương đương</h5>
 			
 				<ul className="list-square">
 			
