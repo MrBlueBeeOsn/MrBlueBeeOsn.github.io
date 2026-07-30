@@ -91,7 +91,7 @@ export default function Create(): React.JSX.Element {
           <li className="margin-bottom-20 list-none">Nhóm Động Cơ Tri Giác / Cảm Nhận: see, hear, watch, feel, notice, observe, smell</li>
       
           <li value="7">[<strong>Hạt Thuần Động Cơ</strong>][<strong>Particle Bare Verb Base</strong>]: to create</li>
-          <li className="margin-bottom-20 list-none">Sự tích hợp thẳng hàng giữa điểm tựa [Hạt] khởi động và cấu trúc hành động [Thuần] khiết đứng độc lập phía sau. Hoặc ngược lại, hành động [Thuần] khiết kết hợp với [Hạt] khởi động tạo thành [Thuần Hạt Động Cơ][Bare Particle Verb Base]: set up, carry out, break down.</li>
+          <li className="margin-bottom-20 list-none">Sự tích hợp thẳng hàng giữa điểm tựa [Hạt] khởi động và cấu trúc hành động [Thuần] khiết đứng độc lập phía sau.</li>
 
           <li value="8">[<strong>Ý-Thái Thuần Động Cơ</strong>][<strong>Soft-Modal Bare Verb Base</strong>]: would create, could create</li>
           <li className="margin-bottom-20 list-none">Sự hợp nhất tuyến tính giữa [Thái] độ, [Ý] nhị, không ép và hành động [Thuần] khiết.</li>
@@ -167,8 +167,6 @@ export default function Create(): React.JSX.Element {
         <ul className="list-square">
       
           <li>to create → [Hạt] to + [Thuần Động Cơ] create</li>
-
-          <li>set up → [Thuần] set + [Hạt Động Cơ] up</li>
       
           <li>did create → [Thời] did (Nhấn mạnh) + [Thuần Động Cơ] create</li>
       

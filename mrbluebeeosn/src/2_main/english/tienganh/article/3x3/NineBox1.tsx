@@ -121,7 +121,7 @@ export default function NineBox1(): React.JSX.Element {
           <li className="margin-bottom-20 list-none">Hành động [Thuần] khiết đứng độc lập, hoàn toàn được giải phóng khỏi các liên kết định hướng và không đi kèm "to", thường đứng ngay sau [Hạt Động Cơ][Particle Verb Base] "to", [Ý-Thái][Soft-Modal] hay [Áp-Thái Động Cơ][Assertive-Modal Verb Base] hoặc [Rễ Động Cơ][Root Verb Base] sai khiến / tri giác (make, let, let's, help, have, get, see, hear, watch, feel, notice, observe, smell).</li>
       
           <li value="7">[<strong>Hạt Thuần Động Cơ</strong>][<strong>Particle Bare Verb Base</strong>]: to analyze, to transmit</li>
-          <li className="margin-bottom-20 list-none">Sự liên kết tuyến tính chặt chẽ giữa hạt định hướng nguyên bản [Hạt Động Cơ][Particle Verb Base] và rễ hành động [Thuần] khiết, nguyên bản. Hoặc ngược lại, hành động [Thuần] khiết kết hợp với [Hạt] khởi động tạo thành [Thuần Hạt Động Cơ][Bare Particle Verb Base]: set up, carry out, break down.</li>
+          <li className="margin-bottom-20 list-none">Sự liên kết tuyến tính chặt chẽ giữa hạt định hướng nguyên bản [Hạt Động Cơ][Particle Verb Base] và rễ hành động [Thuần] khiết, nguyên bản.</li>
 
           <li value="8">[<strong>Ý-Thái Thuần Động Cơ</strong>][<strong>Soft-Modal Bare Verb Base</strong>]: would transmit, could help</li>
           <li className="margin-bottom-20 list-none">Sự phối hợp tuyến tính giữa [Thái] độ nhã nhặn, không áp đặt và rễ hành động [Thuần] khiết, nguyên bản.</li>
@@ -180,8 +180,6 @@ export default function NineBox1(): React.JSX.Element {
         <ul className="list-square">
       
           <li>to resolve → [Hạt Động Cơ] to + [Thuần Động Cơ] resolve</li>
-
-					<li>set up → [Thuần] set + [Hạt Động Cơ] up</li>
       
           <li>did examine → [Thời] did (Nhấn mạnh) + [Thuần Động Cơ] examine</li>
       

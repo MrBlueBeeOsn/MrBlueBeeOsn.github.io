@@ -119,8 +119,6 @@ export default function SV1(): React.JSX.Element {
         <ul className="list-square">
       
           <li>to explore ➔ [Hạt Động Cơ] to + [Thuần Động Cơ] explore</li>
-
-					<li>set up → [Thuần] set + [Hạt Động Cơ] up</li>
       
           <li>did explore ➔ [Thời] did (Nhấn mạnh) + [Thuần Động Cơ] explore</li>
       
@@ -176,7 +174,7 @@ export default function SV1(): React.JSX.Element {
           <li className="margin-bottom-20 list-none">Hành động [Thuần] khiết đứng tự do một mình, đã giải phóng hoàn toàn và không đi kèm to, thường đứng ngay sau [Hạt Động Cơ][Particle Verb Base] "to", [Ý-Thái][Soft-Modal] hay [Áp-Thái Động Cơ][Assertive-Modal Verb Base] hoặc [Rễ Động Cơ][Root Verb Base] như make, let, help, have, see, hear, watch, feel, notice.</li>
       
           <li value="7">[<strong>Hạt Thuần Động Cơ</strong>][<strong>Particle Bare Verb Base</strong>]: to learn, to speak, to build</li>
-          <li className="margin-bottom-20 list-none">Sự hợp nhất tuyến tính giữa [Hạt Động Cơ][Particle Verb Base] và hành động [Thuần Động Cơ][Bare Verb Base] phía sau. Hoặc ngược lại, hành động [Thuần] khiết kết hợp với [Hạt] khởi động tạo thành [Thuần Hạt Động Cơ][Bare Particle Verb Base]: set up, carry out, break down.</li>
+          <li className="margin-bottom-20 list-none">Sự hợp nhất tuyến tính giữa [Hạt Động Cơ][Particle Verb Base] và hành động [Thuần Động Cơ][Bare Verb Base] phía sau.</li>
 
           <li value="8">[<strong>Ý-Thái Thuần Động Cơ</strong>][<strong>Soft-Modal Bare Verb Base</strong>]: would build, could speak</li>
           <li className="margin-bottom-20 list-none">Sự hợp nhất tuyến tính giữa [Thái] độ, [Ý] nhị và hành động [Thuần] khiết.</li>
