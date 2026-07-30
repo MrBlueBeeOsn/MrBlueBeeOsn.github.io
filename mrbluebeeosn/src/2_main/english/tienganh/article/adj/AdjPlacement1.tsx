@@ -248,7 +248,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 					<li>The proposal [which is under review] is on my desk..</li>
 					<li className="margin-bottom-20 list-none">Bản đề xuất [cái đang được xem xét] thì nằm trên bàn của tôi.</li>
 			
-					<li className="list-none">Hình thái: [which is under review] - [Hiển-Liên Động Câu][Connector Verb Clause] bắt đầu bằng [Liên Cơ][Connector Base] "which" kết hợp [Thời-TĐộng Cơ][Tense Progressive Verb Base] "is" và [Giới Cụm][Prepositional Phrase] "under review".</li>
+					<li className="list-none">Hình thái: [which is under review] - [Hiển-Liên Động Câu][Connector Verb Clause] bắt đầu bằng [Liên Cơ][Connector Base] "which" kết hợp [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "is" và [Giới Cụm][Prepositional Phrase] "under review".</li>
 			
 					<li className="list-none">Chức năng: [which is under review] - [Hiển-Liên Động Câu][Connector Verb Clause] tạo thành khối bổ trợ, vạch rõ bản chất định danh cho [Danh Cơ][Noun Base] "proposal".</li>
 			
