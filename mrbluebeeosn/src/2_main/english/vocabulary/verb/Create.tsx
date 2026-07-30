@@ -82,9 +82,16 @@ export default function Create(): React.JSX.Element {
 
           <li value="6">[<strong>Thuần Động Cơ</strong>][<strong>Bare Verb Base</strong>]: create</li>
           <li className="margin-bottom-20 list-none">Hành động [Thuần] khiết đứng tự do một mình, hoàn toàn giải phóng và không có to đi kèm (thường đứng sau các hành động ở dạng [Ý-Thái Động Cơ][Soft-Modal Verb Base] hay [Áp-Thái Động Cơ][Assertive-Modal Verb Base]).</li>
+
+          <li className="list-none">[Hạt Động Cơ][Particle Verb Base]: to</li>
+          <li className="list-none">[Ý-Thái Động Cơ][Soft-Modal Verb Base]: would, could, should, might</li>
+          <li className="list-none">[Áp-Thái Động Cơ][Assertive-Modal Verb Base]: will, shall, can, must, may</li>
+          <li className="list-none">Nhóm Động Cơ Sai Khiến / Cho Phép: make, let, let's, have</li>
+          <li className="list-none">Nhóm Động Cơ Hỗ Trợ / Tương Tác: help, get (khi ở dạng đặc biệt)</li>
+          <li className="margin-bottom-20 list-none">Nhóm Động Cơ Tri Giác / Cảm Nhận: see, hear, watch, feel, notice, observe, smell</li>
       
           <li value="7">[<strong>Hạt Thuần Động Cơ</strong>][<strong>Particle Bare Verb Base</strong>]: to create</li>
-          <li className="margin-bottom-20 list-none">Sự tích hợp thẳng hàng giữa điểm tựa khởi động và cấu trúc hành động [Thuần] khiết đứng độc lập phía sau.</li>
+          <li className="margin-bottom-20 list-none">Sự tích hợp thẳng hàng giữa điểm tựa [Hạt] khởi động và cấu trúc hành động [Thuần] khiết đứng độc lập phía sau. Hoặc ngược lại, hành động [Thuần] khiết kết hợp với [Hạt] khởi động tạo thành [Thuần Hạt Động Cơ][Bare Particle Verb Base]: set up, carry out, break down.</li>
 
           <li value="8">[<strong>Ý-Thái Thuần Động Cơ</strong>][<strong>Soft-Modal Bare Verb Base</strong>]: would create, could create</li>
           <li className="margin-bottom-20 list-none">Sự hợp nhất tuyến tính giữa [Thái] độ, [Ý] nhị, không ép và hành động [Thuần] khiết.</li>
@@ -160,6 +167,8 @@ export default function Create(): React.JSX.Element {
         <ul className="list-square">
       
           <li>to create → [Hạt] to + [Thuần Động Cơ] create</li>
+
+          <li>set up → [Thuần] set + [Hạt Động Cơ] up</li>
       
           <li>did create → [Thời] did (Nhấn mạnh) + [Thuần Động Cơ] create</li>
       
@@ -258,21 +267,21 @@ export default function Create(): React.JSX.Element {
 
       <p className="margin-top-20 text-indent-whole"><strong>2.1</strong> <strong>Hình thành chức năng</strong> [<strong>Danh Cụm</strong>][<strong>Noun Phrase</strong>]</p>
 
-      <p className="margin-top-20 text-indent-whole">Ví dụ 4a: [Danh Chủ][Noun Subject]</p>
+      <p className="margin-top-20 text-indent-whole">[Danh Cụm][Noun Phrase] cấu tạo từ [Tiếp Động Cụm][Progressive Verb Phrase] làm [Danh Chủ][Noun Subject]</p>
       
         <ul className="list-square">
       
-          <li>[Creating a sustainable business model] demands careful planning.</li>
-          <li className="margin-bottom-20 list-none">[Việc tạo ra một mô hình kinh doanh bền vững] đòi hỏi sự lên kế hoạch cẩn thận.</li>
+          <li>It demands careful planning [to create a sustainable business model].</li>
+          <li className="margin-bottom-20 list-none">Nó đòi hỏi sự lên kế hoạch cẩn thận [để tạo ra một mô hình kinh doanh bền vững].</li>
       
-          <li className="list-none">Hình thái: [Creating a sustainable business model] - [Tiếp Động Cụm][Progressive Verb Phrase] hình thành từ [Tiếp Động Cơ][Progressive Verb Base] "creating" tích hợp thêm vùng dữ liệu mở rộng phía sau.</li>
+          <li className="list-none">Hình thái: [to create a sustainable business model] - [Hạt Thuần Động Cụm][Particle Bare Verb Phrase] bắt đầu bằng [Hạt Thuần Động Cơ][Particle Bare Verb Base] "to create" tích hợp thêm vùng dữ liệu mở rộng phía sau.</li>
       
-          <li className="list-none">Chức năng: [Creating a sustainable business model] - [Danh Cụm][Noun Phrase] đóng vai trò làm [Danh Chủ][Noun Subject] để thiết lập nền tảng thông tin đứng đầu toàn câu trước [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "demands".</li>
+          <li className="list-none">Chức năng: [to create a sustainable business model] - [Danh Cụm][Noun Phrase] đóng vai trò làm [Danh Chủ][Noun Subject] đứng sau [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "demands" để bổ nghĩa cho [Giữ Chủ][Placeholder Subject] "It" ở đầu câu.</li>
       
         </ul>
 
       
-      <p className="margin-top-20 text-indent-whole">Ví dụ 4b: [Danh Nhận][Noun Object]</p>
+      <p className="margin-top-20 text-indent-whole">Ví dụ 4b: [Danh Cụm][Noun Phrase] cấu tạo từ [Tiếp Động Cụm][Progressive Verb Phrase] làm [Danh Nhận][Noun Object]</p>
       
         <ul className="list-square">
       
@@ -620,12 +629,12 @@ export default function Create(): React.JSX.Element {
 
       <p className="margin-top-20 text-indent-whole"><strong>5.1</strong> <strong>Hình thành chức năng</strong> [<strong>Danh Cụm</strong>][<strong>Noun Phrase</strong>]</p>
 
-      <p className="margin-top-20 text-indent-whole">Ví dụ 12a: [Danh Chủ][Noun Subject]</p>
+      <p className="margin-top-20 text-indent-whole">Ví dụ 12a: [Danh Cụm][Noun Phrase] cấu tạo từ [Tầng Hạt Thuần Động Cụm][Tiered Particle Bare Verb Phrase] làm [Danh Chủ][Noun Subject]</p>
       
         <ul className="list-square">
       
-          <li>[Analyzing {'{how the program creates automatic reports}'}] requires expert skills.</li>
-          <li className="margin-bottom-20 list-none">[Việc phân tích {'{cách chương trình tạo ra các báo cáo tự động}'}] đòi hỏi các kỹ năng chuyên gia.</li>
+          <li>It requires expert skills [to analyze {'{how the program creates automatic reports}'}].</li>
+          <li className="margin-bottom-20 list-none">Nó đòi hỏi các kỹ năng chuyên gia [để phân tích {'{cách chương trình tạo ra các báo cáo tự động}'}].</li>
       
         </ul>
 
@@ -633,9 +642,9 @@ export default function Create(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li className="list-none">Hình thái: [Analyzing {'{how the program creates automatic reports}'}] - [Tầng Tiếp Động Cụm][Tiered Progressive Verb Phrase] lớn biểu hiện dưới dạng một vùng mã mở rộng bắt đầu bằng [Tiếp Động Cơ][Progressive Verb Base] "Analyzing" và kéo theo thành phần bổ trợ phía sau.</li>
+          <li className="list-none">Hình thái: [to analyze {'{how the program creates automatic reports}'}] - [Tầng Hạt Thuần Động Cụm][Tiered Particle Bare Verb Phrase] lớn biểu hiện dưới dạng một vùng mã mở rộng bắt đầu bằng [Hạt Thuần Động Cơ][Particle Bare Verb Base] "to analyze" và kéo theo thành phần bổ trợ phía sau.</li>
       
-          <li className="list-none">Chức năng: [Analyzing {'{how the program creates automatic reports}'}] - [<strong>Danh Cụm</strong>][<strong>Noun Phrase</strong>] chịu trách nhiệm làm một vùng đầu việc lớn, đảm nhận vai trò làm [Danh Chủ][Noun Subject] để thiết lập nền tảng thông tin đứng đầu toàn câu trước [Thời Động Cơ][Tense Verb Base] "requires".</li>
+          <li className="list-none">Chức năng: [to analyze {'{how the program creates automatic reports}'}] - [<strong>Danh Cụm</strong>][<strong>Noun Phrase</strong>] chịu trách nhiệm làm một vùng đầu việc lớn, đảm nhận vai trò làm [Danh Chủ][Noun Subject] đứng sau [Thời-Thuần Động Cụm][Tense-Bare Verb Phrase] "requires expert skills" để bổ nghĩa cho [Giữ Chủ][Placeholder Subject] "It" ở đầu câu.</li>
       
         </ul>
 
@@ -645,12 +654,12 @@ export default function Create(): React.JSX.Element {
       
           <li className="list-none">Hình thái: {'{how the program creates automatic reports}'} - [Hiển-Liên Động Câu][Connector Verb Clause] định hình dưới dạng một khối mã con nằm gọn hoàn toàn bên trong vùng mã tổng thể, chứa đầy đủ [Danh Chủ][Noun Subject] riêng "the program" và cụm hành động riêng thiết lập theo trục thời hiện tại đi sau [Liên Cơ][Connector Base] "how".</li>
       
-          <li className="list-none">Chức năng: {'{how the program creates automatic reports}'} - [Danh Câu][Noun Clause] đóng vai trò làm [Danh Nhận][Noun Object] chịu sự điều phối trực tiếp từ hạt nhân hành động "Analyzing" ở tầng ngoài, tích hợp chuỗi thông tin tiếp nhận hành động để làm rõ nội dung cho việc phân tích.</li>
+          <li className="list-none">Chức năng: {'{how the program creates automatic reports}'} - [Danh Câu][Noun Clause] đóng vai trò làm [Danh Nhận][Noun Object] chịu sự điều phối trực tiếp từ hạt nhân hành động "analyze" ở tầng ngoài, tích hợp chuỗi thông tin tiếp nhận hành động để làm rõ nội dung cho việc phân tích.</li>
       
         </ul>
 
       
-      <p className="margin-top-20 text-indent-whole">Ví dụ 12b: [Danh Nhận][Noun Object]</p>
+      <p className="margin-top-20 text-indent-whole">Ví dụ 12b: [Danh Cụm][Noun Phrase] cấu tạo từ [Tầng Tiếp Động Cụm][Tiered Progressive Verb Phrase] làm [Danh Nhận][Noun Object]</p>
       
         <ul className="list-square">
       
@@ -754,11 +763,9 @@ export default function Create(): React.JSX.Element {
       <p></p>
 
 
-      <h4 className="margin-y-40">1. Phân hệ [Động]: Thay đổi các module chứa hành động</h4>
+      <h4 className="margin-y-40">1. Phân hệ [Động][Verb]: Thay đổi các module chứa hành động</h4>
 
-      <h5 className="margin-y-30 text-indent-whole">Case 1: Giữ nguyên cấp độ, thay thế khối mã tương đương</h5>
-
-      <p className="margin-top-20 text-indent-whole">[<strong>Cụm</strong>] → [<strong>Cụm</strong>]</p>
+      <p className="margin-top-20 text-indent-whole"><strong>Case 1</strong>: <strong>Giữ nguyên cấp độ</strong> [<strong>Cụm</strong>][<strong>Phrase</strong>]</p>
       
         <ul className="list-square">
       
@@ -772,7 +779,7 @@ export default function Create(): React.JSX.Element {
         </ul>
       
       
-      <p className="margin-top-20 text-indent-whole"><strong>Thế khối tương đương</strong>:</p>
+      <p className="margin-top-20 text-indent-whole"><strong>Thế khối tương đương</strong> [<strong>Tiếp Động Cụm</strong>][<strong>Progressive Verb Phrase</strong>]</p>
       
         <ul className="list-square">
       
@@ -786,10 +793,7 @@ export default function Create(): React.JSX.Element {
         </ul>
 
 
-
-      <h5 className="margin-y-30 text-indent-whole">Case 2: Kỹ thuật nâng cấp từ [Giới Cụm] lên [Động Câu]</h5>
-
-      <p className="margin-top-20 text-indent-whole">[<strong>Phrase</strong>] → [<strong>Clause</strong>]</p>
+      <p className="margin-top-20 text-indent-whole">Case 2: Kỹ thuật nâng cấp từ [Cụm][Phrase] lên [Câu][Clause]</p>
       
         <ul className="list-square">
       
@@ -803,7 +807,7 @@ export default function Create(): React.JSX.Element {
         </ul>
       
       
-      <p className="margin-top-20 text-indent-whole"><strong>Nâng cấp lên</strong> [<strong>Động Câu</strong>]:</p>
+      <p className="margin-top-20 text-indent-whole"><strong>Nâng cấp lên</strong> [<strong>Hiển-Liên Động Câu</strong>][<strong>Connector Verb Clause</strong>]</p>
       
         <ul className="list-square">
       
@@ -817,9 +821,7 @@ export default function Create(): React.JSX.Element {
         </ul>
 
 
-      <h5 className="margin-y-30 text-indent-whole">Case 3: Kỹ thuật hạ cấp từ [Động Câu] về [Động Cơ]</h5>
-
-      <p className="margin-top-20 text-indent-whole">[<strong>Clause</strong>] → [<strong>Base</strong>]</p>
+      <p className="margin-top-20 text-indent-whole"><strong>Case 3</strong>: <strong>Kỹ thuật hạ cấp từ</strong> [<strong>Câu</strong>][<strong>Clause</strong>] <strong>về</strong> [<strong>Cơ</strong>][<strong>Base</strong>]</p>
       
         <ul className="list-square">
       
@@ -833,7 +835,7 @@ export default function Create(): React.JSX.Element {
         </ul>
       
       
-      <p className="margin-top-20 text-indent-whole"><strong>Hạ cấp về</strong> [<strong>Động Cơ</strong>] (<strong>Từ đơn</strong>):</p>
+      <p className="margin-top-20 text-indent-whole"><strong>Hạ cấp về</strong> [<strong>Diện Tính Cơ</strong>][<strong>Modified Adjective Base</strong>]</p>
       
         <ul className="list-square">
       
@@ -847,9 +849,9 @@ export default function Create(): React.JSX.Element {
         </ul>
 
 
-      <h4 className="margin-y-40">2. Phân hệ [Giới]: Thay đổi các module chứa mã định vị</h4>
+      <h4 className="margin-y-40">2. Phân hệ [Giới][Preposition]: Thay đổi các module chứa mã định vị</h4>
 
-      <h5 className="text-indent-whole">Case 4: Kỹ thuật hoán đổi vị trí và thay thế khối mã [Giới Cụm] tương đương</h5>
+      <p className="margin-top-20 text-indent-whole"><strong>Case 4</strong>: <strong>Kỹ thuật hoán đổi vị trí cấp độ</strong> [<strong>Cụm</strong>][<strong>Phrase</strong>]</p>
       
         <ul className="list-square">
       
@@ -863,7 +865,7 @@ export default function Create(): React.JSX.Element {
         </ul>
       
       
-      <p className="margin-top-20 text-indent-whole"><strong>Thế khối</strong> [<strong>Giới Cụm</strong>] <strong>tương đương</strong>:</p>
+      <p className="margin-top-20 text-indent-whole"><strong>Thế khối tương đương</strong> [<strong>Phức Giới Cụm</strong>][<strong>Complex Prepositional Phrase</strong>]</p>
       
         <ul className="list-square">
       

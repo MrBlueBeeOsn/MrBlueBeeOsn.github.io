@@ -121,7 +121,7 @@ export default function NineBox1(): React.JSX.Element {
           <li className="margin-bottom-20 list-none">Hành động [Thuần] khiết đứng độc lập, hoàn toàn được giải phóng khỏi các liên kết định hướng và không đi kèm "to", thường đứng ngay sau [Hạt Động Cơ][Particle Verb Base] "to", [Ý-Thái][Soft-Modal] hay [Áp-Thái Động Cơ][Assertive-Modal Verb Base] hoặc [Rễ Động Cơ][Root Verb Base] sai khiến / tri giác (make, let, let's, help, have, get, see, hear, watch, feel, notice, observe, smell).</li>
       
           <li value="7">[<strong>Hạt Thuần Động Cơ</strong>][<strong>Particle Bare Verb Base</strong>]: to analyze, to transmit</li>
-          <li className="margin-bottom-20 list-none">Sự liên kết tuyến tính chặt chẽ giữa hạt định hướng nguyên bản [Hạt Động Cơ][Particle Verb Base] và rễ hành động [Thuần] khiết, nguyên bản.</li>
+          <li className="margin-bottom-20 list-none">Sự liên kết tuyến tính chặt chẽ giữa hạt định hướng nguyên bản [Hạt Động Cơ][Particle Verb Base] và rễ hành động [Thuần] khiết, nguyên bản. Hoặc ngược lại, hành động [Thuần] khiết kết hợp với [Hạt] khởi động tạo thành [Thuần Hạt Động Cơ][Bare Particle Verb Base]: set up, carry out, break down.</li>
 
           <li value="8">[<strong>Ý-Thái Thuần Động Cơ</strong>][<strong>Soft-Modal Bare Verb Base</strong>]: would transmit, could help</li>
           <li className="margin-bottom-20 list-none">Sự phối hợp tuyến tính giữa [Thái] độ nhã nhặn, không áp đặt và rễ hành động [Thuần] khiết, nguyên bản.</li>
@@ -180,6 +180,8 @@ export default function NineBox1(): React.JSX.Element {
         <ul className="list-square">
       
           <li>to resolve → [Hạt Động Cơ] to + [Thuần Động Cơ] resolve</li>
+
+					<li>set up → [Thuần] set + [Hạt Động Cơ] up</li>
       
           <li>did examine → [Thời] did (Nhấn mạnh) + [Thuần Động Cơ] examine</li>
       
@@ -281,7 +283,7 @@ export default function NineBox1(): React.JSX.Element {
 			
 					<li className="list-none">Hình thái: [to encrypt the system communication] - [Hạt Thuần Động Cụm][Particle Bare Verb Phrase] hình thành từ sự kết hợp giữa hạt nhân [Hạt Thuần Động Cơ][Particle Bare Verb Base] "to encrypt" và mở rộng hành động phía sau.</li>
 			
-					<li className="list-none">Chức năng: [to encrypt the system communication] – [Danh Cụm][Noun Phrase] đóng vai trò làm [Danh Chủ][Noun Subject] đứng sau [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "takes" để bổ nghĩa cho [Giữ Chủ][Placeholder Subject] "It" chịu trách nhiệm thực thi câu lớn.</li>
+					<li className="list-none">Chức năng: [to encrypt the system communication] – [Danh Cụm][Noun Phrase] đóng vai trò làm [Danh Chủ][Noun Subject] đứng sau [Thời-Thuần Động Cụm][Tense-Bare Verb Phrase] "takes a lot of time" để bổ nghĩa cho [Giữ Chủ][Placeholder Subject] "It" chịu trách nhiệm thực thi câu lớn.</li>
 			
 				</ul>
 
@@ -479,7 +481,7 @@ export default function NineBox1(): React.JSX.Element {
 
 					<li className="margin-bottom-20 list-none">Hình thái: Khối tổng thể [to understand {'{how the database handles the workload}'}] - [Tầng Hạt Thuần Động Cụm][Tiered Particle Bare Verb Phrase] ở tầng ngoài bắt đầu bằng [Hạt Thuần Động Cơ][Particle Bare Verb Base] "to understand". Bên trong chứa bao gói {'{how the database handles the workload}'} - [Hiển-Liên Động Câu][Connector Verb Clause] ở tầng trong.</li>
 			
-					<li className="list-none">Chức năng: Khối {'{how the database handles the workload}'} bên trong đóng vai trò làm [Danh Câu][Noun Clause] làm [Danh Nhận][Noun Object] chịu sự điều phối hành động trực tiếp từ [Rễ Động Cơ][Root Verb Base] nguyên bản understand, và toàn bộ khối tổng thể [to understand {'{how the database handles the workload}'}] vận hành với chức năng [<strong>Danh Cụm</strong>][<strong>Noun Phrase</strong>] đóng vai trò làm [Danh Chủ][Noun Subject] đứng sau [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "requires" để bổ nghĩa cho [Giữ Chủ][Placeholder Subject] "It" chịu trách nhiệm thực thi câu lớn.</li>
+					<li className="list-none">Chức năng: Khối {'{how the database handles the workload}'} bên trong đóng vai trò làm [Danh Câu][Noun Clause] làm [Danh Nhận][Noun Object] chịu sự điều phối hành động trực tiếp từ [Rễ Động Cơ][Root Verb Base] nguyên bản understand, và toàn bộ khối tổng thể [to understand {'{how the database handles the workload}'}] vận hành với chức năng [<strong>Danh Cụm</strong>][<strong>Noun Phrase</strong>] đóng vai trò làm [Danh Chủ][Noun Subject] đứng sau [Thời-Thuần Động Cụm][Tense-Bare Verb Phrase] "requires deep technical knowledge" để bổ nghĩa cho [Giữ Chủ][Placeholder Subject] "It" chịu trách nhiệm thực thi câu lớn.</li>
 			
 				</ul>
 

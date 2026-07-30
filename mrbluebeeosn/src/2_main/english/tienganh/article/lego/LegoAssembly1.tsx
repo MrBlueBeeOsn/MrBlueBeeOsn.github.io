@@ -130,7 +130,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 					<li className="margin-bottom-20 list-none">Nhóm Giác quan & Quan sát: see, hear, watch, feel, notice, observe, smell</li>
 
           <li value="7">[<strong>Hạt Thuần Động Cơ</strong>][<strong>Particle Bare Verb Base</strong>]: to launch, to operate</li>
-          <li className="margin-bottom-20 list-none">Sự hợp nhất tuyến tính lấy tên phần tử đầu tiên [Hạt Động Cơ][Particle Verb Base] kết hợp cùng hành động [Thuần] khiết phía sau.</li>
+          <li className="margin-bottom-20 list-none">Sự hợp nhất tuyến tính lấy tên phần tử đầu tiên [Hạt Động Cơ][Particle Verb Base] kết hợp cùng hành động [Thuần] khiết phía sau. Hoặc ngược lại, hành động [Thuần] khiết kết hợp với [Hạt] khởi động tạo thành [Thuần Hạt Động Cơ][Bare Particle Verb Base]: set up, carry out, break down.</li>
 
           <li value="8">[<strong>Ý-Thái Thuần Động Cơ</strong>][<strong>Soft-Modal Bare Verb Base</strong>]: would operate, could help</li>
           <li className="margin-bottom-20 list-none">Sự hợp nhất tuyến tính giữa [Thái] độ, [Ý] nhị, không ép và hành động [Thuần] khiết.</li>
@@ -220,6 +220,8 @@ export default function LegoAssembly1(): React.JSX.Element {
         <ul className="list-square">
       
           <li>to launch → [Hạt Động Cơ][Particle Verb Base] to + [Thuần Động Cơ][Bare Verb Base] launch</li>
+
+					<li>set up → [Thuần] set + [Hạt Động Cơ] up</li>
       
           <li>did launch → [Thời][Tense] did (Nhấn mạnh) + [Thuần Động Cơ][Bare Verb Base] launch</li>
       
