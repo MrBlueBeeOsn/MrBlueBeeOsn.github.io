@@ -48,7 +48,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 
 			</h1>
 
-			<h4 className="margin-bottom-30 text-center">ĐIỂM MẠNH TƯƠNG ĐỒNG: BƯỚC ĐỘT PHÁ GIÚP NGƯỜI VIỆT THỐNG TRỊ TIẾNG ANH HỌC THUẬT VỀ CHỨC NĂNG TÍNH</h4>
+			<h4 className="margin-bottom-30 text-center">ĐIỂM MẠNH TƯƠNG ĐỒNG: BƯỚC ĐỘT PHÁ GIÚP NGƯỜI VIỆT THỐNG TRỊ TIẾNG ANH HỌC THUẬT VỀ [CHỨC NĂNG TÍNH][ADJECTIVE FUNCTION]</h4>
 
 			<p>Lối mòn tư duy kìm hãm thế hệ người học tiếng Anh tại Việt Nam chính là định kiến: cấu trúc tiếng Anh "ngược" với tiếng Việt. Chúng ta thường bị đóng khung trong quy luật sơ cấp: [Tính Cơ][Adjective Base] phải đứng trước [Danh Cơ][Noun Base].</p>
 			
@@ -84,7 +84,7 @@ export default function AdjPlacement1(): React.JSX.Element {
           <li value="1">[<strong>Rễ Động Cơ</strong>][<strong>Root Verb Base</strong>]: originate, formulate</li>
           <li className="margin-bottom-20 list-none">Hành động ở dạng [Rễ Động Cơ][Root Verb Base] nguyên bản, chưa bị biến đổi bởi bất kỳ yếu tố nào.</li>
       
-          <li value="2">[<strong>Hạt Động Cơ</strong>][<strong>Particle Verb Base</strong>]: to</li>
+          <li value="2">[<strong>Hạt Động Cơ</strong>][<strong>Particle Verb Base</strong>]: to, up, out, down, off</li>
           <li className="margin-bottom-20 list-none">[Hạt] nhân định hướng, giữ vai trò kích hoạt trạng thái nguyên sơ, chuẩn bị nền tảng cho cấu trúc hành động.</li>
 
           <li value="3">[<strong>Thời Động Cơ</strong>][<strong>Tense Verb Base</strong>]: is, was, does</li>
@@ -97,7 +97,7 @@ export default function AdjPlacement1(): React.JSX.Element {
           <li className="margin-bottom-20 list-none">Hành động chỉ [Thái] độ trực diện, mang tính xác quyết và thực thi thực tế mạnh mẽ. Các khối phức đặc biệt: [Phức Áp-Thái Động Cơ][Complex Assertive-Modal Verb Base] như have to được quét như một đơn vị thống nhất.</li>
 
           <li value="6">[<strong>Thuần Động Cơ</strong>][<strong>Bare Verb Base</strong>]: originate, formulate</li>
-          <li className="margin-bottom-20 list-none">Hành động [Thuần] khiết ở dạng tự do hoàn toàn, không có [Hạt] đi kèm, xuất hiện sau các nhóm [Ý-Thái] hoặc [Áp-Thái].</li>
+          <li className="margin-bottom-20 list-none">Hành động [Thuần] khiết ở dạng tự do hoàn toàn, thường đứng ngay sau [Hạt Động Cơ][Particle Verb Base] "to", [Ý-Thái][Soft-Modal] hay [Áp-Thái Động Cơ][Assertive-Modal Verb Base] hoặc [Rễ Động Cơ][Root Verb Base] như make, let, help, have, get, see, hear, watch, feel.</li>
       
           <li value="7">[<strong>Hạt Thuần Động Cơ</strong>][<strong>Particle Bare Verb Base</strong>]: to originate, to formulate</li>
           <li className="margin-bottom-20 list-none">Sự kết hợp tuyến tính giữa [Hạt] và hành động [Thuần] khiết, tạo nên mẫu hành động nguyên bản.</li>
@@ -201,9 +201,9 @@ export default function AdjPlacement1(): React.JSX.Element {
 
 			{/* 3.  */}
 
-			<h3 className="margin-y-50 text-center">3. Ví Dụ Phân Tích Hình Thái & Chức Năng</h3>
+			<h3 className="margin-y-50 text-center">3. Chức năng [Tính Cơ][Adjective Base]</h3>
 
-			<p className="margin-top-20 text-indent-whole"><strong>A</strong>. [<strong>Tính Cơ</strong>][<strong>Adjective Base</strong>]</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 1</strong>: [<strong>Tính Cơ</strong>][<strong>Adjective Base</strong>] <strong>cấu tạo từ</strong> [<strong>Rễ Tính Cơ</strong>][<strong>Root Adjective Base</strong>] <strong>nguyên bản</strong></p>
 			
 				<ul className="list-square">
 			
@@ -215,9 +215,14 @@ export default function AdjPlacement1(): React.JSX.Element {
 					<li className="list-none">Chức năng: [elegant] - [Tính Cơ][Adjective Base] cài đặt đặc tính cố định cho [Danh Cơ][Noun Base] "manners".</li>
 			
 				</ul>
+
 			
 
-			<p className="margin-top-20 text-indent-whole"><strong>B</strong>. [<strong>Tính Cụm</strong>][<strong>Adjective Phrase</strong>]</p>
+			{/* 4.  */}
+
+			<h3 className="margin-y-50 text-center">4. Chức năng [Tính Cụm][Adjective Phrase]</h3>
+
+			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 1</strong>: [<strong>Tính Cụm</strong>][<strong>Adjective Phrase</strong>] <strong>cấu tạo từ</strong> [<strong>Tiếp Động Cụm</strong>][<strong>Progressive Verb Phrase</strong>]</p>
 			
 				<ul className="list-square">
 			
@@ -229,9 +234,14 @@ export default function AdjPlacement1(): React.JSX.Element {
 					<li className="list-none">Chức năng: [working in the lab] - [Tính Cụm][Adjective Phrase] mô tả trạng thái hành động đang diễn ra của chủ thể.</li>
 			
 				</ul>
+
 			
 
-			<p className="margin-top-20 text-indent-whole"><strong>C</strong>. [<strong>Tính Câu</strong>][<strong>Adjective Clause</strong>]</p>
+			{/* 5.  */}
+
+			<h3 className="margin-y-50 text-center">5. Chức năng [Tính Câu][Adjective Clause]</h3>
+
+			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 1</strong>: [<strong>Tính Câu</strong>][<strong>Adjective Clause</strong>] <strong>cấu tạo từ</strong> [<strong>Hiển-Liên Động Câu</strong>][<strong>Connector Verb Clause</strong>]</p>
 			
 				<ul className="list-square">
 			
@@ -244,10 +254,13 @@ export default function AdjPlacement1(): React.JSX.Element {
 			
 				</ul>
 
+			
+			{/* 6.  */}
 
+			<h3 className="margin-y-50 text-center">6. [Tầng Cấu trúc][Tiered Structure]</h3>
 			
 
-			<p className="margin-top-20 text-indent-whole"><strong>D</strong>. [<strong>Tầng Giới Cụm</strong>][<strong>Tiered Prepositional Phrase</strong>]</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 1</strong>: [<strong>Tính Cụm</strong>][<strong>Adjective Phrase</strong>] <strong>cấu tạo từ</strong> [<strong>Tầng Giới Cụm</strong>][<strong>Tiered Prepositional Phrase</strong>]</p>
 			
 				<ul className="list-square">
 			
@@ -279,9 +292,9 @@ export default function AdjPlacement1(): React.JSX.Element {
 			
 
 
-			{/* 4. */}
+			{/* 7. */}
 
-			<h3 className="margin-y-50 text-center">4. Paraphrase - Chuyển Đổi Chức Năng (Nâng Cấp Tư Duy)</h3>
+			<h3 className="margin-y-50 text-center">7. Paraphrase - Chuyển Đổi Chức Năng (Nâng Cấp Tư Duy)</h3>
 
 
 			<h4 className="margin-y-40">A. Chuyển từ [Tính Cơ][Adjective Base] ➔ [Tính Cụm][Adjective Phrase]</h4>
@@ -378,7 +391,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 
 			{/* Lời Kết */}
 
-			<h3 className="margin-y-50 text-center">5. Kết Luận</h3>
+			<h3 className="margin-y-50 text-center">Kết Luận</h3>
 
 			<p>Việc duy trì các tầng phân tích giúp bộ não không bị quá tải khi xử lý các cấu trúc học thuật phức tạp. Khi làm chủ được các tầng chức năng Tính và sự phối hợp giữa [Cơ][Base]-[Cụm][Phrase]-[Câu][Clause], tiếng Anh sẽ trở thành công cụ biểu đạt mạnh mẽ, trôi chảy và đầy uy lực trong mọi văn bản học thuật.</p>
 
