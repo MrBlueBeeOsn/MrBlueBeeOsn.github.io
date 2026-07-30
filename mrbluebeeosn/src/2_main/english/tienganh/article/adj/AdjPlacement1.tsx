@@ -207,12 +207,54 @@ export default function AdjPlacement1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>She has [elegant] manners.</li>
-					<li className="margin-bottom-20 list-none">Cô ấy có phong thái [thanh lịch].</li>
+					<li>She has [fluent] communication skills.</li>
+					<li className="margin-bottom-20 list-none">Cô ấy có kỹ năng giao tiếp [trôi chảy].</li>
 			
-					<li className="list-none">Hình thái: [elegant] - [Rễ Tính Cơ][Root Adjective Base] nguyên bản.</li>
+					<li className="list-none">Hình thái: [fluent] - [Rễ Tính Cơ][Root Adjective Base] hình thành từ khối [Rễ Tính Cơ][Root Adjective Base] nguyên bản "fluent".</li>
 			
-					<li className="list-none">Chức năng: [elegant] - [Tính Cơ][Adjective Base] cài đặt đặc tính cố định cho [Danh Cơ][Noun Base] "manners".</li>
+					<li className="list-none">Chức năng: [fluent] - [Tính Cơ][Adjective Base] cài đặt đặc tính cố định cho [Danh Cơ][Noun Base] "skills".</li>
+			
+				</ul>
+
+			
+			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 2</strong>: [<strong>Tính Cơ</strong>][<strong>Adjective Base</strong>] <strong>cấu tạo từ</strong> [<strong>Diện Tính Cơ</strong>][<strong>Modified Adjective Base</strong>]</p>
+			
+				<ul className="list-square">
+			
+					<li>They deployed an [innovative] system.</li>
+					<li className="margin-bottom-20 list-none">Họ đã triển khai một hệ thống [đổi mới, sáng tạo].</li>
+			
+					<li className="list-none">Hình thái: [innovative] - [Diện Tính Cơ][Modified Adjective Base] hình thành từ khối [Rễ Động Cơ][Root Verb Base] nguyên bản "innovate" mặc thêm (kết hợp) hậu tố "-ive" để thay đổi diện mạo bên ngoài thành một khối cấp độ [Cơ][Base] mang đặc tính mới.</li>
+			
+					<li className="list-none">Chức năng: [innovative] - [Tính Cơ][Adjective Base] bổ trợ trực tiếp đặc điểm cho [Danh Cơ][Noun Base] "system".</li>
+			
+				</ul>
+
+
+			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 3</strong>: [<strong>Tính Cơ</strong>][<strong>Adjective Base</strong>] <strong>cấu tạo từ</strong> [<strong>Tiếp Động Cơ</strong>][<strong>Progressive Verb Base</strong>]</p>
+			
+				<ul className="list-square">
+			
+					<li>We observed the [increasing] demand.</li>
+					<li className="margin-bottom-20 list-none">Chúng tôi đã quan sát nhu cầu [đang gia tăng].</li>
+			
+					<li className="list-none">Hình thái: [increasing] - [Tiếp Động Cơ][Progressive Verb Base] hình thành từ khối [Rễ Động Cơ][Root Verb Base] nguyên bản "increase" mặc thêm hậu tố "-ing" để thay đổi diện mạo bên ngoài thành một khối cấp độ [Cơ][Base] biểu thị tính tiếp diễn.</li>
+			
+					<li className="list-none">Chức năng: [increasing] - [Tính Cơ][Adjective Base] định hình trạng thái động đang phát triển cho [Danh Cơ][Noun Base] "demand".</li>
+			
+				</ul>
+
+
+			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 4</strong>: [<strong>Tính Cơ</strong>][<strong>Adjective Base</strong>] <strong>cấu tạo từ</strong> [<strong>Rễ Tính Cơ</strong>][<strong>Root Adjective Base</strong>] <strong>nguyên bản</strong></p>
+			
+				<ul className="list-square">
+			
+					<li>The [structured] report was submitted.</li>
+					<li className="margin-bottom-20 list-none">Bản báo cáo [được cấu trúc hóa] đã được nộp.</li>
+			
+					<li className="list-none">Hình thái: [structured] - [Hoàn Động Cơ][Perfect Verb Base] hình thành từ khối [Rễ Động Cơ][Root Verb Base] nguyên bản "structure" mặc thêm hậu tố "-ed" để thay đổi diện mạo bên ngoài thành một khối cấp độ [Cơ][Base] biểu thị trạng thái hoàn tất.</li>
+			
+					<li className="list-none">Chức năng: [structured] - [Tính Cơ][Adjective Base] xác lập đặc tính kết quả hoàn thành cho [Danh Cơ][Noun Base] "report".</li>
 			
 				</ul>
 
@@ -222,16 +264,114 @@ export default function AdjPlacement1(): React.JSX.Element {
 
 			<h3 className="margin-y-50 text-center">4. Chức năng [Tính Cụm][Adjective Phrase]</h3>
 
-			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 1</strong>: [<strong>Tính Cụm</strong>][<strong>Adjective Phrase</strong>] <strong>cấu tạo từ</strong> [<strong>Tiếp Động Cụm</strong>][<strong>Progressive Verb Phrase</strong>]</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 1</strong>: [<strong>Tính Cụm</strong>][<strong>Adjective Phrase</strong>] <strong>cấu tạo từ</strong> [<strong>Rễ Tính Cụm</strong>][<strong>Root Adjective Phrase</strong>] <strong>nguyên bản</strong></p>
+			
+				{/* <ul className="list-square">
+			
+					<li>They deployed a network [reliable for handling vast data].</li>
+					<li className="margin-bottom-20 list-none">Họ đã triển khai một mạng lưới [đáng tin cậy trong việc xử lý dữ liệu lớn].</li>
+			
+					<li className="list-none">Hình thái: [reliable for handling vast data] - [Rễ Tính Cụm][Root Adjective Phrase] hình thành từ khối [Rễ Tính Cơ][Root Adjective Base] nguyên bản "reliable", ở trạng thái mộc hoàn toàn, không ăn diện thêm phụ kiện, bắt đầu bằng mã đặc điểm gốc kết hợp mở rộng [Giới Cụm][Prepositional Phrase] phía sau chứa [Tiếp Động Cụm][Progressive Verb Phrase] biến đổi từ lõi hành động sau [Giới Cơ][Prepositional Base] "for".</li>
+			
+					<li className="list-none">Chức năng: [reliable for handling vast data] - [Tính Cụm][Adjective Phrase] đặt ngay sau đối tượng "network" để xác định năng lực, đặc điểm của đối tượng đó.</li>
+			
+				</ul> */}
+
+			
+			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 2</strong>: [<strong>Tính Cụm</strong>][<strong>Adjective Phrase</strong>] <strong>cấu tạo từ</strong> [<strong>Diện Tính Cụm</strong>][<strong>Modified Adjective Phrase</strong>]</p>
 			
 				<ul className="list-square">
 			
-					<li>The scientist [working in the lab] discovered the cure.</li>
-					<li className="margin-bottom-20 list-none">Nhà khoa học [đang làm việc trong phòng thí nghiệm] đã tìm ra phương thuốc.</li>
+					<li>An initiative [preventive against system failures] was launched.</li>
+					<li className="margin-bottom-20 list-none">Một sáng kiến [phòng ngừa chống lại các sự cố hệ thống] đã được khởi động.</li>
 			
-					<li className="list-none">Hình thái: [working in the lab] - [Tiếp Động Cụm][Progressive Verb Phrase] bắt đầu bằng [Tiếp Động Cơ][Progressive Verb Base] "working" đi kèm cụm bổ nghĩa.</li>
+					<li className="list-none">Hình thái: [preventive against system failures] - [Diện Tính Cụm][Modified Adjective Phrase] hình thành từ khối [Rễ Động Cơ][Root Verb Base] nguyên bản "prevent" mặc thêm (kết hợp) hậu tố "-ive" để thay đổi diện mạo bên ngoài thành một khối cấp độ [Cơ][Base] mang diện mạo [Diện Tính Cơ][Modified Adjective Base] "preventive", sau đó mở rộng kết hợp với [Giới Cụm][Prepositional Phrase] "against system failures" để tạo thành một khối [Cụm][Phrase] hoàn chỉnh.</li>
 			
-					<li className="list-none">Chức năng: [working in the lab] - [Tính Cụm][Adjective Phrase] mô tả trạng thái hành động đang diễn ra của chủ thể.</li>
+					<li className="list-none">Chức năng: [preventive against system failures] - [Tính Cụm][Adjective Phrase] gắn liền phía sau "initiative" nhằm mở rộng ý nghĩa đánh giá chất lượng.</li>
+			
+				</ul>
+
+			
+			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 3</strong>: [<strong>Tính Cụm</strong>][<strong>Adjective Phrase</strong>] <strong>cấu tạo từ</strong> [<strong>Tiếp Động Cụm</strong>][<strong>Progressive Verb Phrase</strong>] <strong>đang diễn ra</strong>, <strong>chủ động</strong></p>
+			
+				<ul className="list-square">
+			
+					<li>The committee [evaluating the funding requests] convened today.</li>
+					<li className="margin-bottom-20 list-none">Ủy ban [đang đánh giá các yêu cầu tài trợ] đã họp vào hôm nay.</li>
+			
+					<li className="list-none">Hình thái: [evaluating the funding requests] - [Tiếp Động Cụm][Progressive Verb Phrase] phát triển từ [Tiếp Động Cơ][Progressive Verb Base] "evaluating" tích hợp thêm vùng dữ liệu mở rộng biểu thị tính chủ động đang xảy ra.</li>
+			
+					<li className="list-none">Chức năng: [evaluating the funding requests] - [Tính Cụm][Adjective Phrase] đặt ngay sau đối tượng "committee" để hiển thị đặc điểm hành động chủ động của đối tượng đó.</li>
+			
+				</ul>
+
+
+			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 4</strong>: [<strong>Tính Cụm</strong>][<strong>Adjective Phrase</strong>] <strong>cấu tạo từ</strong> [<strong>Hoàn Động Cụm</strong>][<strong>Perfect Verb Phrase</strong>] <strong>đã xong</strong>, <strong>bị động</strong></p>
+			
+				<ul className="list-square">
+			
+					<li>The protocol [designed by external consultants] ensures total security.</li>
+					<li className="margin-bottom-20 list-none">Giao thức [được thiết kế bởi các chuyên gia tư vấn bên ngoài] đảm bảo bảo mật tuyệt đối.</li>
+			
+					<li className="list-none">Hình thái: [designed by external consultants] - [Hoàn Động Cụm][Perfect Verb Phrase] phát triển từ [Hoàn Động Cơ][Perfect Verb Base] "designed" kết hợp mở rộng ở dạng bị động.</li>
+			
+					<li className="list-none">Chức năng: [designed by external consultants] - [Tính Cụm][Adjective Phrase] đặt ngay sau đối tượng "protocol" để mô tả đặc điểm trạng thái bị động hoàn thành.</li>
+			
+				</ul>
+
+
+			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 5</strong>: [<strong>Tính Cụm</strong>][<strong>Adjective Phrase</strong>] <strong>cấu tạo từ</strong> [<strong>Hạt Thuần Động Cụm</strong>][<strong>Particle Bare Verb Phrase</strong>] <strong>sắp xảy ra</strong>, <strong>chủ động</strong></p>
+			
+				<ul className="list-square">
+			
+					<li>The technician [to inspect the servers] arrived early.</li>
+					<li className="margin-bottom-20 list-none">Kỹ thuật viên [sắp sửa kiểm tra các máy chủ] đã đến sớm.</li>
+			
+					<li className="list-none">Hình thái: [to inspect the servers] - [Hạt Thuần Động Cụm][Particle Bare Verb Phrase] phát triển từ cụm [Hạt Thuần Động Cơ][Particle Bare Verb Base] "to inspect" tích hợp thêm vùng dữ liệu mở rộng phía sau.</li>
+			
+					<li className="list-none">Chức năng: [to inspect the servers] - [Tính Cụm][Adjective Phrase] đặt ngay sau đối tượng "technician" để quét và hiển thị đặc điểm hành động sắp xảy ra mang tính chủ động của đối tượng đó.</li>
+			
+				</ul>
+
+
+			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 6</strong>: [<strong>Tính Cụm</strong>][<strong>Adjective Phrase</strong>] <strong>cấu tạo từ</strong> [<strong>Hạt Thuần Hoàn Động Cụm</strong>][<strong>Particle Bare Perfect Verb Phrase</strong>] <strong>sắp xảy ra</strong>, <strong>bị động</strong></p>
+			
+				<ul className="list-square">
+			
+					<li>The software [to be updated next week] requires administrative rights.</li>
+					<li className="margin-bottom-20 list-none">Phần mềm [sắp sửa được cập nhật vào tuần tới] yêu cầu quyền quản trị.</li>
+			
+					<li className="list-none">Hình thái: [to be updated next week] - [Hạt Thuần Hoàn Động Cụm][Particle Bare Perfect Verb Phrase] bắt đầu bằng [Hạt Động Cơ][Particle Verb Base] "to" kéo theo vùng bổ trợ phía sau chứa [Thuần Động Cơ][Bare Verb Base] "be" và [Hoàn Động Cơ][Perfect Verb Base] "updated" để biểu thị trạng thái bị động tương lai.</li>
+			
+					<li className="list-none">Chức năng: [to be updated next week] - [Tính Cụm][Adjective Phrase] kích hoạt bộ quét đặt ngay sau đối tượng "software" để mô tả trạng thái sắp sửa được tác động.</li>
+			
+				</ul>
+
+
+			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 7</strong>: [<strong>Tính Cụm</strong>][<strong>Adjective Phrase</strong>] <strong>cấu tạo từ</strong> [<strong>Giới Cụm</strong>][<strong>Prepositional Phrase</strong>]</p>
+			
+				<ul className="list-square">
+			
+					<li>The manuscript [in the archive] contains historical notes.</li>
+					<li className="margin-bottom-20 list-none">Bản thảo [trong kho lưu trữ] chứa các ghi chú lịch sử.</li>
+			
+					<li className="list-none">Hình thái: [in the archive] - [Giới Cụm][Prepositional Phrase] mở đầu bằng [Giới Cơ][Prepositional Base] "in" kết hợp danh từ định vị.</li>
+			
+					<li className="list-none">Chức năng: [in the archive] - [Tính Cụm][Adjective Phrase] bổ trợ vị trí không gian trực tiếp cho "manuscript".</li>
+			
+				</ul>
+
+
+			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 8</strong>: [<strong>Tính Cụm</strong>][<strong>Adjective Phrase</strong>] <strong>cấu tạo từ</strong> [<strong>Phức Giới Cụm</strong>][<strong>Complex Prepositional Phrase</strong>]</p>
+			
+				<ul className="list-square">
+			
+					<li>Profits [owing to strategic shifts] exceeded expectations.</li>
+					<li className="margin-bottom-20 list-none">Lợi nhuận [nhờ vào các chuyển dịch chiến lược] đã vượt kỳ vọng.</li>
+			
+					<li className="list-none">Hình thái: [owing to strategic shifts] - [Phức Giới Cụm][Complex Prepositional Phrase] bắt đầu bằng [Phức Giới Cơ][Complex Prepositional Base] "owing to".</li>
+			
+					<li className="list-none">Chức năng: [owing to strategic shifts] - [Tính Cụm][Adjective Phrase] thiết lập mối quan hệ nguyên nhân kết quả cho chủ thể "profits".</li>
 			
 				</ul>
 
@@ -245,12 +385,26 @@ export default function AdjPlacement1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>The proposal [which is under review] is on my desk..</li>
+					<li>The proposal [which is under review] is on my desk.</li>
 					<li className="margin-bottom-20 list-none">Bản đề xuất [cái đang được xem xét] thì nằm trên bàn của tôi.</li>
 			
 					<li className="list-none">Hình thái: [which is under review] - [Hiển-Liên Động Câu][Connector Verb Clause] bắt đầu bằng [Liên Cơ][Connector Base] "which" kết hợp [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "is" và [Giới Cụm][Prepositional Phrase] "under review".</li>
 			
 					<li className="list-none">Chức năng: [which is under review] - [Hiển-Liên Động Câu][Connector Verb Clause] tạo thành khối bổ trợ, vạch rõ bản chất định danh cho [Danh Cơ][Noun Base] "proposal".</li>
+			
+				</ul>
+
+			
+			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 2</strong>: [<strong>Tính Câu</strong>][<strong>Adjective Clause</strong>] <strong>cấu tạo từ</strong> [<strong>Hiển-Liên Động Câu</strong>][<strong>Connector Verb Clause</strong>]</p>
+			
+				<ul className="list-square">
+			
+					<li>The parameters [experts recommend] must be tested.</li>
+					<li className="margin-bottom-20 list-none">Các thông số [mà các chuyên gia khuyên dùng] phải được kiểm tra.</li>
+			
+					<li className="list-none">Hình thái: [experts recommend] - [Ẩn-Liên Động Câu][Zero-Connector Verb Clause] bỏ qua liên từ nhưng vẫn giữ nguyên vẹn cấu trúc chủ - vị ngầm định.</li>
+			
+					<li className="list-none">Chức năng: [experts recommend] - [Tính Câu][Adjective Clause] thu gọn không gian biểu đạt để làm rõ đặc điểm đối tượng "parameters".</li>
 			
 				</ul>
 
@@ -261,6 +415,68 @@ export default function AdjPlacement1(): React.JSX.Element {
 			
 
 			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 1</strong>: [<strong>Tính Cụm</strong>][<strong>Adjective Phrase</strong>] <strong>cấu tạo từ</strong> [<strong>Tầng Giới Cụm</strong>][<strong>Tiered Prepositional Phrase</strong>]</p>
+			
+				<ul className="list-square">
+			
+					<li>Students [mastering core theories {'{which are required for advanced placement}'}] will succeed.</li>
+					<li className="margin-bottom-20 list-none">Học viên [làm chủ các lý thuyết cốt lõi {'{cái mà được yêu cầu cho suất học nâng cao}'}] sẽ thành công.</li>
+			
+				</ul>
+			
+				<p className="margin-top-20 text-indent-whole"><strong>Tầng 1</strong> (<strong>Cấp tổng thể</strong> - [...]):</p>
+			
+					<ul className="list-square">
+				
+						<li className="list-none">Tầng 1: [mastering core theories {'{which are required for advanced placement}'}] - [Tầng Tiếp Động Cụm][Tiered Progressive Verb Phrase] mở rộng từ [Tiếp Động Cơ][Progressive Verb Base] "mastering".</li>
+
+						<li className="list-none">Tầng 2: {'{which are required for advanced placement}'} - [Hiển-Liên Động Câu][Connector Verb Clause] lồng ghép bên trong để phân tách chi tiết.</li>
+				
+					</ul>
+
+
+			<p className="margin-top-20 text-indent-whole"><strong>Tầng 2</strong> (<strong>Cấp thành phần</strong> - {'{...}'}):</p>
+			
+				<ul className="list-square">
+			
+					<li className="list-none">Tầng 1: [mastering core theories {'{which are required for advanced placement}'}] - [Tính Cụm][Adjective Phrase] bám sát phía sau "students" nhằm phân lớp đặc điểm đối tượng cực kỳ chặt chẽ.</li>
+
+					<li className="list-none">Tầng 2: {'{which are required for advanced placement}'} - [Tính Câu][Adjective Clause] bổ nghĩa cho [Danh Khối][Noun Block] "core theories" nằm trong tầng 1 để làm rõ đặc tính của lý thuyết.</li>
+			
+				</ul>
+
+			
+			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 2</strong>: [<strong>Tính Cụm</strong>][<strong>Adjective Phrase</strong>] <strong>cấu tạo từ</strong> [<strong>Tầng Hạt Thuần Động Cụm</strong>][<strong>Tiered Particle Bare Verb Phrase</strong>]</p>
+			
+				<ul className="list-square">
+			
+					<li>The decision [to deploy automated systems {'{which optimize workflow}'}] will help enterprises thrive.</li>
+					<li className="margin-bottom-20 list-none">Quyết định [để triển khai hệ thống tự động hóa {'{cái mà tối ưu hóa luồng công việc}'}] sẽ giúp các doanh nghiệp phát triển.</li>
+			
+				</ul>
+			
+				<p className="margin-top-20 text-indent-whole"><strong>Tầng 1</strong> (<strong>Cấp tổng thể</strong> - [...]):</p>
+			
+					<ul className="list-square">
+				
+						<li className="list-none">Tầng 1: [to deploy automated systems {'{which optimize workflow}'}] - [Tầng Hạt Thuần Động Cụm][Tiered Particle Bare Verb Phrase] bắt đầu bằng "to".</li>
+
+						<li className="list-none">Tầng 2: {'{which optimize workflow}'} - [Hiển-Liên Động Câu][Connector Verb Clause] lồng sâu bên trong.</li>
+				
+					</ul>
+
+
+			<p className="margin-top-20 text-indent-whole"><strong>Tầng 2</strong> (<strong>Cấp thành phần</strong> - {'{...}'}):</p>
+			
+				<ul className="list-square">
+			
+					<li className="list-none">Tầng 1: [to deploy automated systems {'{which optimize workflow}'}] - [Tính Cụm][Adjective Phrase] xác lập hành động tương lai gắn kèm điều kiện bổ trợ cho "decision".</li>
+
+					<li className="list-none">Tầng 2: {'{which optimize workflow}'} - [Tính Câu][Adjective Clause] bổ nghĩa cho [Danh Khối][Noun Block] "automated systems" nhằm xác định rõ tính năng của hệ thống.</li>
+			
+				</ul>
+
+			
+			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 3</strong>: [<strong>Tính Cụm</strong>][<strong>Adjective Phrase</strong>] <strong>cấu tạo từ</strong> [<strong>Tầng Giới Cụm</strong>][<strong>Tiered Prepositional Phrase</strong>]</p>
 			
 				<ul className="list-square">
 			
@@ -289,6 +505,37 @@ export default function AdjPlacement1(): React.JSX.Element {
 					<li className="list-none">Tầng 2: {'{what they investigated}'} - [Danh Câu][Noun Clause] chịu sự điều phối trực tiếp của [Giới Cơ][Prepositional Base] "of".</li>
 			
 				</ul>
+
+
+			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 4</strong>: [<strong>Tính Cụm</strong>][<strong>Adjective Phrase</strong>] <strong>cấu tạo từ</strong> [<strong>Tầng Phức Giới Cụm</strong>][<strong>Tiered Complex Prepositional Phrase</strong>]</p>
+			
+				<ul className="list-square">
+			
+					<li>Shifts [due to market fluctuations {'{which affected production}'}] caused losses.</li>
+					<li className="margin-bottom-20 list-none">Những thay đổi [do biến động thị trường {'{cái mà đã ảnh hưởng đến sản xuất}'}] đã gây ra tổn thất.</li>
+			
+				</ul>
+			
+				<p className="margin-top-20 text-indent-whole"><strong>Tầng 1</strong> (<strong>Cấp tổng thể</strong> - [...]):</p>
+			
+					<ul className="list-square">
+				
+						<li className="list-none">Tầng 1: [due to market fluctuations {'{which affected production}'}] - [Tầng Phức Giới Cụm][Tiered Complex Prepositional Phrase] bắt đầu bằng tổ hợp phức hợp "due to".</li>
+
+						<li className="list-none">Tầng 2: {'{which affected production}'} - [Hiển-Liên Động Câu][Connector Verb Clause] tích hợp bổ trợ tầng sâu.</li>
+				
+					</ul>
+
+
+			<p className="margin-top-20 text-indent-whole"><strong>Tầng 2</strong> (<strong>Cấp thành phần</strong> - {'{...}'}):</p>
+			
+				<ul className="list-square">
+			
+					<li className="list-none">Tầng 1: [due to market fluctuations {'{which affected production}'}] - [Tính Cụm][Adjective Phrase] đa tầng bóc tách sâu nguyên nhân và hệ quả cho danh từ "shifts".</li>
+
+					<li className="list-none">Tầng 2: {'{which affected production}'} - [Tính Câu][Adjective Clause] bổ nghĩa cho [Danh Khối][Noun Block] "market fluctuations" để chỉ rõ khía cạnh biến động.</li>
+			
+				</ul>
 			
 
 
@@ -306,7 +553,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 					<li>The [profitable] investment is yours.</li>
 					<li className="margin-bottom-20 list-none">Khoản đầu tư [có lợi nhuận] là của bạn.</li>
 			
-					<li className="list-none">Hình thái: [profitable] - [Rễ Tính Cơ][Root Adjective Base] nguyên bản.</li>
+					<li className="list-none">Hình thái: [profitable] - [Diện Tính Cơ][Modified Adjective Base] hình thành từ khối [Rễ Động Cơ][Root Verb Base] nguyên bản "profit" mặc thêm (kết hợp) hậu tố "-able" để thay đổi diện mạo bên ngoài thành một khối cấp độ [Cơ][Base] mang diện mạo [Diện Tính Cơ][Modified Adjective Base] "profitable", chuyên trách cài đặt đặc tính sinh lợi cho đối tượng đi kèm.</li>
 			
 					<li className="list-none">Chức năng: [profitable] - [Tính Cơ][Adjective Base] cài đặt đặc tính cố định cho [Danh Cơ][Noun Base] "investment".</li>
 			
@@ -366,7 +613,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 					<li>The policy [which is effective] will be applied.</li>
 					<li className="margin-bottom-20 list-none">Chính sách [cái mà hiệu quả] sẽ được áp dụng.</li>
 			
-					<li className="list-none">Hình thái: [which is effective] - [Hiển-Liên Động Câu][Connector Verb Clause] bắt đầu bằng [Liên Cơ][Connector Base] "which" kết hợp [Thời-Động Cơ][Tense Progressive Verb Base] "is" và [Rễ Tính Cơ][Root Adjective Base] "effective".</li>
+					<li className="list-none">Hình thái: [which is effective] - [Hiển-Liên Động Câu][Connector Verb Clause] bắt đầu bằng [Liên Cơ][Connector Base] "which" kết hợp [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "is" và [Rễ Tính Cơ][Root Adjective Base] "effective".</li>
 			
 					<li className="list-none">Chức năng: [which is effective] - [Tính Câu][Adjective Clause] vạch rõ bản chất định danh cho đối tượng [Danh Cơ][Noun Base].</li>
 			
@@ -380,7 +627,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 					<li>The [effective] policy will be applied.</li>
 					<li className="margin-bottom-20 list-none">Chính sách [hiệu quả] sẽ được áp dụng.</li>
 			
-					<li className="list-none">Hình thái: [effective] - [Rễ Tính Cơ][Root Adjective Base] nguyên bản.</li>
+					<li className="list-none">Hình thái: [effective] - [Diện Tính Cơ][Modified Adjective Base] hình thành từ khối [Rễ Động Cơ][Root Verb Base] nguyên bản "effect" mặc thêm (kết hợp) hậu tố "-ive" để thay đổi diện mạo bên ngoài thành một khối cấp độ [Cơ][Base] mang đặc tính mới.</li>
 			
 					<li className="list-none">Chức năng: [effective] - [Tính Cơ][Adjective Base] cài đặt nhãn dán thuộc tính cố định, rút gọn thông tin tối đa cho đối tượng [Danh Cơ][Noun Base].</li>
 			
