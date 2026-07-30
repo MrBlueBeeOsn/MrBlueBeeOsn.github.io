@@ -629,7 +629,7 @@ export default function TieredStructure1(): React.JSX.Element {
 			<p>Bạn có thể tự do nâng cấp hoặc hạ cấp các khối mã giữa các mức độ [Cơ][Base], [Cụm][Phrase], và [Câu][Clause] một cách linh hoạt dựa trên sơ đồ phân loại hình thái:</p>
 
 
-			<h4 className="margin-y-40">Phân hệ Động: Thay đổi các module chứa hành động</h4>
+			<h4 className="margin-y-40">Phân hệ [Động][Verb]: Thay đổi các module chứa hành động</h4>
 
 			<h5 className="margin-y-30 text-indent-whole">Case 1: Giữ nguyên cấp độ [Cụm][Phrase], thay thế khối mã tương đương</h5>
 			
@@ -710,7 +710,7 @@ export default function TieredStructure1(): React.JSX.Element {
 			
 
 
-			<h4 className="margin-y-40">Phân hệ Giới: Thay đổi các module chứa cấu trúc định vị</h4>
+			<h4 className="margin-y-40">Phân hệ [Giới][Preposition]: Thay đổi các module chứa cấu trúc định vị</h4>
 
 			<h5 className="margin-y-30 text-indent-whole">Case 4: Kỹ thuật hoán đổi vị trí cấp độ [Cụm][Phrase] và thay thế khối mã tương đương</h5>
 			
