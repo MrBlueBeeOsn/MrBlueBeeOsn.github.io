@@ -105,8 +105,8 @@ export default function NineBox1(): React.JSX.Element {
           <li value="1">[<strong>Rễ Động Cơ</strong>][<strong>Root Verb Base</strong>]: analyze, compile, transmit</li>
           <li className="margin-bottom-20 list-none">Hành động ở dạng [Rễ Động Cơ][Root Verb Base] trạng thái sơ khai nhất, chưa qua bất kỳ quá trình biến đổi cấu trúc hay tích hợp thêm thành phần nào khác.</li>
       
-          <li value="2">[<strong>Hạt Động Cơ</strong>][<strong>Particle Verb Base</strong>]: to</li>
-          <li className="margin-bottom-20 list-none">[Hạt] định hướng đơn lẻ, hoạt động như một hạt nhân nền tảng đứng trước để kích hoạt trạng thái nguyên thủy cho khối hành động.</li>
+          <li value="2">[<strong>Hạt Động Cơ</strong>][<strong>Particle Verb Base</strong>]: to, away, back, in, over, through</li>
+          <li className="margin-bottom-20 list-none">[Hạt] "to" định hướng đơn lẻ, hoạt động như một hạt nhân nền tảng đứng trước để kích hoạt trạng thái nguyên thủy cho khối hành động. Các [Hạt] như away, back, in, over, through đơn lẻ đứng sau hành động để điều hướng trạng thái, hoàn tất bối cảnh không gian hoặc gia tăng góc độ vận hành cho hạt nhân hành động.</li>
 
           <li value="3">[<strong>Thời Động Cơ</strong>][<strong>Tense Verb Base</strong>]: does, did, is, has, was, am, are</li>
           <li className="margin-bottom-20 list-none">Thành phần đơn lẻ chịu trách nhiệm tải năng lượng [Thời] gian và định vị mốc [Thời] gian xảy ra hành động trên trục số.</li>
