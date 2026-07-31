@@ -84,8 +84,8 @@ export default function AdjPlacement1(): React.JSX.Element {
           <li value="1">[<strong>Rễ Động Cơ</strong>][<strong>Root Verb Base</strong>]: originate, formulate</li>
           <li className="margin-bottom-20 list-none">Hành động ở dạng [Rễ Động Cơ][Root Verb Base] nguyên bản, chưa bị biến đổi bởi bất kỳ yếu tố nào.</li>
       
-          <li value="2">[<strong>Hạt Động Cơ</strong>][<strong>Particle Verb Base</strong>]: to, up, out, down, off</li>
-          <li className="margin-bottom-20 list-none">[Hạt] nhân định hướng, giữ vai trò kích hoạt trạng thái nguyên sơ, chuẩn bị nền tảng cho cấu trúc hành động.</li>
+          <li value="2">[<strong>Hạt Động Cơ</strong>][<strong>Particle Verb Base</strong>]: to, away, back, forth, through</li>
+          <li className="margin-bottom-20 list-none">[Hạt] "to" đơn lẻ đóng vai trò hạt nhân đầu tiên đứng trước mọi khối hành động để kích hoạt trạng thái nguyên bản. Các [Hạt] như away, back, forth, through đơn lẻ đứng sau hành động để tạo ra hướng di chuyển hoặc chuyển hóa trạng thái không gian của hành động đó.</li>
 
           <li value="3">[<strong>Thời Động Cơ</strong>][<strong>Tense Verb Base</strong>]: is, was, does</li>
           <li className="margin-bottom-20 list-none">Các từ khóa mang năng lượng định vị [Thời] gian, thiết lập khung bối cảnh hiện tại hoặc quá khứ cho câu.</li>
@@ -266,16 +266,16 @@ export default function AdjPlacement1(): React.JSX.Element {
 
 			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 1</strong>: [<strong>Tính Cụm</strong>][<strong>Adjective Phrase</strong>] <strong>cấu tạo từ</strong> [<strong>Rễ Tính Cụm</strong>][<strong>Root Adjective Phrase</strong>] <strong>nguyên bản</strong></p>
 			
-				{/* <ul className="list-square">
+				<ul className="list-square">
 			
-					<li>They deployed a network [reliable for handling vast data].</li>
-					<li className="margin-bottom-20 list-none">Họ đã triển khai một mạng lưới [đáng tin cậy trong việc xử lý dữ liệu lớn].</li>
+					<li>They deployed a network [capable of handling vast data].</li>
+					<li className="margin-bottom-20 list-none">Họ đã triển khai một mạng lưới [có khả năng xử lý dữ liệu lớn].</li>
 			
-					<li className="list-none">Hình thái: [reliable for handling vast data] - [Rễ Tính Cụm][Root Adjective Phrase] hình thành từ khối [Rễ Tính Cơ][Root Adjective Base] nguyên bản "reliable", ở trạng thái mộc hoàn toàn, không ăn diện thêm phụ kiện, bắt đầu bằng mã đặc điểm gốc kết hợp mở rộng [Giới Cụm][Prepositional Phrase] phía sau chứa [Tiếp Động Cụm][Progressive Verb Phrase] biến đổi từ lõi hành động sau [Giới Cơ][Prepositional Base] "for".</li>
+					<li className="list-none">Hình thái: [capable of handling vast data] - [Rễ Tính Cụm][Root Adjective Phrase] hình thành từ khối [Rễ Tính Cơ][Root Adjective Base] nguyên bản "capable", ở trạng thái mộc hoàn toàn, không ăn diện thêm phụ kiện, bắt đầu bằng mã đặc điểm gốc kết hợp mở rộng [Giới Cụm][Prepositional Phrase] phía sau chứa [Tiếp Động Cụm][Progressive Verb Phrase] biến đổi từ lõi hành động sau [Giới Cơ][Prepositional Base] "of".</li>
 			
-					<li className="list-none">Chức năng: [reliable for handling vast data] - [Tính Cụm][Adjective Phrase] đặt ngay sau đối tượng "network" để xác định năng lực, đặc điểm của đối tượng đó.</li>
+					<li className="list-none">Chức năng: [capable of handling vast data] - [Tính Cụm][Adjective Phrase] đặt ngay sau đối tượng "network" để xác định năng lực, đặc điểm của đối tượng đó.</li>
 			
-				</ul> */}
+				</ul>
 
 			
 			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 2</strong>: [<strong>Tính Cụm</strong>][<strong>Adjective Phrase</strong>] <strong>cấu tạo từ</strong> [<strong>Diện Tính Cụm</strong>][<strong>Modified Adjective Phrase</strong>]</p>
@@ -627,7 +627,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 					<li>The [effective] policy will be applied.</li>
 					<li className="margin-bottom-20 list-none">Chính sách [hiệu quả] sẽ được áp dụng.</li>
 			
-					<li className="list-none">Hình thái: [effective] - [Diện Tính Cơ][Modified Adjective Base] hình thành từ khối [Rễ Động Cơ][Root Verb Base] nguyên bản "effect" mặc thêm (kết hợp) hậu tố "-ive" để thay đổi diện mạo bên ngoài thành một khối cấp độ [Cơ][Base] mang đặc tính mới.</li>
+					<li className="list-none">Hình thái: [effective] - [Diện Tính Cơ][Modified Adjective Base] hình thành từ khối [Rễ Động Cơ][Root Verb Base] nguyên bản "effect" mặc thêm (kết hợp) hậu tố "-ive" để thay đổi diện mạo bên ngoài thành một khối cấp độ [Cơ][Base] mang diện mạo [Diện Tính Cơ][Modified Adjective Base] "effective", chuyên trách cài đặt đặc tính mang lại kết quả cao cho đối tượng đi kèm.</li>
 			
 					<li className="list-none">Chức năng: [effective] - [Tính Cơ][Adjective Base] cài đặt nhãn dán thuộc tính cố định, rút gọn thông tin tối đa cho đối tượng [Danh Cơ][Noun Base].</li>
 			
