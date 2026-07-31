@@ -4,7 +4,7 @@ import { HashLink } from 'react-router-hash-link';
 import ExternalLink from '@/components/icon/ExternalLink';
 import SearchComponent from '@/components/search/SearchComponent';
 import VideoSearch from '@/components/video/VideoSearch';
-import ADELER from '@/components/method/ADELER';
+import DEALER from '@/components/method/DEALER';
 
 export default function BookkeepingIndex(): React.JSX.Element {
   return (<>
@@ -25,7 +25,7 @@ export default function BookkeepingIndex(): React.JSX.Element {
         
         <VideoSearch />
 
-        <ADELER />
+        <DEALER />
                           
       </div>
 
