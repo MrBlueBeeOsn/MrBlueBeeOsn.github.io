@@ -670,7 +670,7 @@ export default function TiengAnhIndex(): React.JSX.Element {
             <li>
               <div className="li-content">
                 <Link to="/tieng-anh/tiered-structure-1">[CƠ][CỤM][CÂU]
-                <sup>&nbsp;1&nbsp;</sup>
+                {/* <sup>&nbsp;1&nbsp;</sup> */}
                 </Link>
                 {/* <Link to="/tieng-anh/tiered-structure-2">
                   <sup>&nbsp;2&nbsp;</sup>
@@ -706,7 +706,7 @@ export default function TiengAnhIndex(): React.JSX.Element {
             <li>
               <div className="li-content">
                 <Link to="/tieng-anh/nine-box-1">[Kiến trúc Tư duy 3x3]
-                <sup>&nbsp;1&nbsp;</sup>
+                {/* <sup>&nbsp;1&nbsp;</sup> */}
                 </Link>
                 {/* <Link to="/tieng-anh/nine-box-2">
                   <sup>&nbsp;2&nbsp;</sup>
@@ -741,11 +741,11 @@ export default function TiengAnhIndex(): React.JSX.Element {
             <li>
               <div className="li-content">
                 <Link to="/tieng-anh/s-v-1">[3 Chức Năng][3 Cấp Độ]
-                <sup>&nbsp;1&nbsp;</sup>
+                {/* <sup>&nbsp;1&nbsp;</sup> */}
                 </Link>
-                <Link to="/tieng-anh/s-v-2">
+                {/* <Link to="/tieng-anh/s-v-2">
                   <sup>&nbsp;2&nbsp;</sup>
-                </Link>
+                </Link> */}
                 {/* <Link to="/tieng-anh/s-v-3">
                   <sup>&nbsp;3&nbsp;</sup>
                 </Link>
@@ -775,11 +775,11 @@ export default function TiengAnhIndex(): React.JSX.Element {
             <li>
               <div className="li-content">
                 <Link to="/tieng-anh/super-words-1">[Siêu Động Cơ]
-                <sup>&nbsp;1&nbsp;</sup>
+                {/* <sup>&nbsp;1&nbsp;</sup> */}
                 </Link>
-                <Link to="/tieng-anh/super-words-2">
+                {/* <Link to="/tieng-anh/super-words-2">
                   <sup>&nbsp;2&nbsp;</sup>
-                </Link>
+                </Link> */}
                 {/* <Link to="/tieng-anh/super-words-3">
                   <sup>&nbsp;3&nbsp;</sup>
                 </Link>
@@ -810,11 +810,11 @@ export default function TiengAnhIndex(): React.JSX.Element {
             <li>
               <div className="li-content">
                 <Link to="/tieng-anh/three-dc-1">[BỘ 3 PHỤ KHỐI]
-                <sup>&nbsp;1&nbsp;</sup>
+                {/* <sup>&nbsp;1&nbsp;</sup> */}
                 </Link>
-                <Link to="/tieng-anh/three-dc-2">
+                {/* <Link to="/tieng-anh/three-dc-2">
                   <sup>&nbsp;2&nbsp;</sup>
-                </Link>
+                </Link> */}
                 {/* <Link to="/tieng-anh/three-dc-3">
                   <sup>&nbsp;3&nbsp;</sup>
                 </Link>
@@ -844,12 +844,12 @@ export default function TiengAnhIndex(): React.JSX.Element {
 
             <li>
               <div className="li-content">
-                <Link to="/tieng-anh/adj-placement-1">Chức năng [Tính][Adjective]
-                <sup>&nbsp;1&nbsp;</sup>
+                <Link to="/tieng-anh/adj-placement-1">[Tính][Adjective]
+                {/* <sup>&nbsp;1&nbsp;</sup> */}
                 </Link>
-                <Link to="/tieng-anh/adj-placement-2">
+                {/* <Link to="/tieng-anh/adj-placement-2">
                   <sup>&nbsp;2&nbsp;</sup>
-                </Link>
+                </Link> */}
                 {/* <Link to="/tieng-anh/adj-placement-3">
                   <sup>&nbsp;3&nbsp;</sup>
                 </Link>
@@ -881,11 +881,11 @@ export default function TiengAnhIndex(): React.JSX.Element {
             <li>
               <div className="li-content">
                 <Link to="/tieng-anh/lego-assembly-1">[Tư Duy Lắp Ghép]
-                <sup>&nbsp;1&nbsp;</sup>
+                {/* <sup>&nbsp;1&nbsp;</sup> */}
                 </Link>
-                <Link to="/tieng-anh/lego-assembly-2">
+                {/* <Link to="/tieng-anh/lego-assembly-2">
                   <sup>&nbsp;2&nbsp;</sup>
-                </Link>
+                </Link> */}
                 {/* <Link to="/tieng-anh/lego-assembly-3">
                   <sup>&nbsp;3&nbsp;</sup>
                 </Link>

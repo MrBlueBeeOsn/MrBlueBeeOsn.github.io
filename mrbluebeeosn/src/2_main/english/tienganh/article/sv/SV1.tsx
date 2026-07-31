@@ -19,11 +19,11 @@ export default function SV1(): React.JSX.Element {
 
 			<h1 className="margin-y-50 text-center">[3 Chức Năng][3 Cấp Độ]
 												
-				<sup><HashLink smooth to="/tieng-anh/s-v-1">&nbsp;1&nbsp;</HashLink>
+				{/* <sup><HashLink smooth to="/tieng-anh/s-v-1">&nbsp;1&nbsp;</HashLink>
 				</sup>
 
 				<sup><HashLink smooth to="/tieng-anh/s-v-2">&nbsp;2&nbsp;</HashLink>
-				</sup>
+				</sup> */}
 
 				{/* <sup><HashLink smooth to="/tieng-anh/s-v-3">&nbsp;3&nbsp;</HashLink>
 				</sup>

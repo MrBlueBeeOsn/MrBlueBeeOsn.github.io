@@ -149,7 +149,7 @@ export default function SV2(): React.JSX.Element {
 					<li>[Swimming] is my favorite activity.</li>
 					<li className="margin-bottom-20 list-none">[Bơi lội] là hoạt động yêu thích của tôi.</li>
 			
-					<li className="list-none">Hình thái: [Swimming] – [Động Cơ][Verb Base] dạng V-ing, biểu thị hành động được đóng gói thành một khái niệm.</li>
+					<li className="list-none">Hình thái: [Swimming] - [Tiếp Động Cơ][Progressive Verb Base] hình thành từ khối [Rễ Động Cơ][Root Verb Base] nguyên bản "Swim" mặc thêm (kết hợp) hậu tố "-ing" để thay đổi diện mạo bên ngoài thành một khối cấp độ [Cơ][Base], biểu thị hành động được đóng gói thành một khái niệm.</li>
 			
 					<li className="list-none">Chức năng: [Swimming] – [Danh Cơ][Noun Base] đứng ở đầu câu, đóng vai trò thực thể trung tâm mà câu hướng đến.</li>
 			
@@ -163,7 +163,7 @@ export default function SV2(): React.JSX.Element {
 					<li>He enjoys [reading mystery novels].</li>
 					<li className="margin-bottom-20 list-none">Anh ấy thích [đọc tiểu thuyết trinh thám].</li>
 			
-					<li className="list-none">Hình thái: [reading mystery novels] – [Động Cụm][Verb Phrase] bắt đầu bằng động cơ reading dạng V-ing, kèm thêm mystery novels để tạo thành một khối hoàn chỉnh.</li>
+					<li className="list-none">Hình thái: [reading mystery novels] – [Tiếp Động Cụm][Progressive Verb Phrase] bắt đầu bằng động cơ reading dạng V-ing, kèm thêm mystery novels để tạo thành một khối hoàn chỉnh.</li>
 			
 					<li className="list-none">Chức năng: [reading mystery novels] – [Danh Cụm][Noun Phrase] đứng sau động cơ enjoys, là [Danh Nhận] – đối tượng tiếp nhận hành động.</li>
 			
@@ -194,7 +194,7 @@ export default function SV2(): React.JSX.Element {
 					<li>We saw a [shining] star.</li>
 					<li className="margin-bottom-20 list-none">Chúng tôi thấy một ngôi sao [lấp lánh].</li>
 			
-					<li className="list-none">Hình thái: [shining] – [Động Cơ][Verb Base] dạng V-ing, miêu tả trạng thái đang diễn ra.</li>
+					<li className="list-none">Hình thái: [shining] - [Tiếp Động Cơ][Progressive Verb Base] hình thành từ khối [Rễ Động Cơ][Root Verb Base] nguyên bản "shine" mặc thêm (kết hợp) hậu tố "-ing" để thay đổi diện mạo bên ngoài thành một khối cấp độ [Cơ][Base], miêu tả trạng thái đang diễn ra.</li>
 			
 					<li className="list-none">Chức năng: [shining] – [Tính Cơ][Adjective Base] đứng trước star, bổ sung đặc điểm cho thực thể star.</li>
 			
@@ -208,7 +208,7 @@ export default function SV2(): React.JSX.Element {
 					<li>The child seems [exhausted from playing].</li>
 					<li className="margin-bottom-20 list-none">Đứa trẻ có vẻ [kiệt sức vì chơi].</li>
 			
-					<li className="list-none">Hình thái: [exhausted from playing] – [Động Cụm][Verb Phrase] gồm động cơ exhausted dạng có đuôi -ed và phần bổ sung from playing.</li>
+					<li className="list-none">Hình thái: [exhausted from playing] – [Hoàn Động Cụm][Perfect Verb Phrase] gồm động cơ exhausted dạng có đuôi -ed và phần bổ sung from playing.</li>
 			
 					<li className="list-none">Chức năng: [exhausted from playing] – [Tính Cụm][Adjective Phrase] đứng sau động cơ seems, mô tả trạng thái của thực thể The child.</li>
 			
@@ -240,7 +240,7 @@ export default function SV2(): React.JSX.Element {
 					<li>He spoke [calmly].</li>
 					<li className="margin-bottom-20 list-none">Anh ấy nói [một cách bình tĩnh].</li>
 			
-					<li className="list-none">Hình thái: [calmly] – [Động Cơ][Verb Base] gốc calm thêm đuôi -ly, chuyển hóa thành thành phần chỉ cách thức.</li>
+					<li className="list-none">Hình thái: [calmly] - [Diện Trạng Cơ][Modified Adverb Base] hình thành từ khối [Rễ Tính Cơ][Root Adjective Base] nguyên bản "calm" mặc thêm (kết hợp) hậu tố "-ly" để thay đổi diện mạo bên ngoài thành một khối cấp độ [Cơ][Base].</li>
 			
 					<li className="list-none">Chức năng: [calmly] – [Trạng Cơ][Adverb Base] đứng cạnh động cơ spoke, bổ sung ý nghĩa về cách thức thực hiện hành động.</li>
 			
@@ -254,7 +254,7 @@ export default function SV2(): React.JSX.Element {
 					<li>She saves money [to travel abroad].</li>
 					<li className="margin-bottom-20 list-none">Cô ấy tiết kiệm tiền [để đi du lịch nước ngoài].</li>
 			
-					<li className="list-none">Hình thái: [to travel abroad] – [Động Cụm][Verb Phrase] gồm động cơ nguyên mẫu có to và abroad.</li>
+					<li className="list-none">Hình thái: [to travel abroad] – [Hạt Thuần Động Cụm][Particle Bare Verb Phrase] gồm động cơ nguyên mẫu có to và abroad.</li>
 			
 					<li className="list-none">Chức năng: [to travel abroad] – [Trạng Cụm][Adverb Phrase] đứng cuối câu, bổ sung ý nghĩa về mục đích cho hành động saves money.</li>
 			
@@ -293,7 +293,7 @@ export default function SV2(): React.JSX.Element {
 			
 					<li className="margin-bottom-20 list-none">Chức năng lớp trong: {'{why I called her}'} – [Danh Câu][Noun Clause] đóng vai trò là khối thông tin bên trong, được bao bọc bởi lớp ngoài.</li>
 
-					<li className="list-none">Hình thái lớp ngoài: [forgot {'{why I called her}'}] – [Động Cụm][Verb Phrase] bắt đầu bằng động cơ forgot dạng có đuôi -ed, bao trọn động câu bên trong.</li>
+					<li className="list-none">Hình thái lớp ngoài: [forgot {'{why I called her}'}] – [Tầng Thời-Thuần Động Cụm][Tiered Tense-Bare Verb Phrase] bắt đầu bằng [Thời-Thuần Động Cơ][Tense-Bare Verb Base] forgot dạng có đuôi -ed, bao trọn động câu bên trong.</li>
 			
 					<li className="list-none">Chức năng lớp ngoài: [forgot {'{why I called her}'}] – [Danh Cụm][Noun Phrase] toàn bộ khối này nằm sau She, là [Danh Nhận] – đối tượng mà hành động forgot hướng đến.</li>
 			
@@ -318,7 +318,7 @@ export default function SV2(): React.JSX.Element {
 					<li>[Jogging] is beneficial.</li>
 					<li className="margin-bottom-20 list-none">[Chạy bộ] có lợi cho sức khỏe.</li>
 			
-					<li className="list-none">Hình thái: [Jogging] – [Động Cơ][Verb Base] dạng V-ing.</li>
+					<li className="list-none">Hình thái: [Jogging] - [Tiếp Động Cơ][Progressive Verb Base] hình thành từ khối [Rễ Động Cơ][Root Verb Base] nguyên bản "Jog" mặc thêm (kết hợp) hậu tố "-ing" để thay đổi diện mạo bên ngoài thành một khối cấp độ [Cơ][Base].</li>
 			
 					<li className="list-none">Chức năng: [Jogging] – [Danh Cơ][Noun Base] đứng ở đầu câu, là thực thể trung tâm.</li>
 			
@@ -332,7 +332,7 @@ export default function SV2(): React.JSX.Element {
 					<li>[Going for a jog every morning] is beneficial.</li>
 					<li className="margin-bottom-20 list-none">[Đi chạy bộ mỗi sáng] có lợi cho sức khỏe.</li>
 			
-					<li className="list-none">Hình thái: [Going for a jog every morning] – [Động Cụm][Verb Phrase].</li>
+					<li className="list-none">Hình thái: [Going for a jog every morning] – [Tiếp Động Cụm][Progressive Verb Phrase].</li>
 			
 					<li className="list-none">Chức năng: [Going for a jog every morning] – [Danh Cụm][Noun Phrase] vẫn đứng ở đầu câu, cùng vai trò thực thể trung tâm.</li>
 			
@@ -412,7 +412,7 @@ export default function SV2(): React.JSX.Element {
 					<li>She called me [to share the good news].</li>
 					<li className="margin-bottom-20 list-none">Cô ấy gọi cho tôi [để chia sẻ tin vui].</li>
 			
-					<li className="list-none">Hình thái: [to share the good news] – [Động Cụm][Verb Phrase] dạng nguyên mẫu mục đích.</li>
+					<li className="list-none">Hình thái: [to share the good news] – [Hạt Thuần Động Cụm][Particle Bare Verb Phrase] dạng nguyên mẫu mục đích.</li>
 			
 					<li className="list-none">Chức năng: [to share the good news] – [Trạng Cụm][Adverb Phrase] bổ sung ý nghĩa mục đích cho hành động called.</li>
 			
@@ -444,7 +444,7 @@ export default function SV2(): React.JSX.Element {
 					<li>He drives [carefully].</li>
 					<li className="margin-bottom-20 list-none">Anh ấy lái xe [cẩn thận].</li>
 			
-					<li className="list-none">Hình thái: [carefully] – [Động Cơ][Verb Base] thêm -ly.</li>
+					<li className="list-none">Hình thái: [carefully] - [Diện Trạng Cơ][Modified Adverb Base] hình thành từ khối [Rễ Động Cơ][Root Verb Base] nguyên bản "care" mặc thêm (kết hợp) hậu tố "-ful" và "-ly" để thay đổi diện mạo bên ngoài thành một khối cấp độ [Cơ][Base].</li>
 			
 					<li className="list-none">Chức năng: [carefully] – [Trạng Cơ][Adverb Base] bổ nghĩa cho động cơ drives.</li>
 			
@@ -493,7 +493,7 @@ export default function SV2(): React.JSX.Element {
 					<li>[His finishing the race] impressed [everyone].</li>
 					<li className="margin-bottom-20 list-none">[Việc anh ấy hoàn thành cuộc đua] gây ấn tượng [mọi người].</li>
 			
-					<li className="list-none">Hình thái: [His finishing the race] – [Động Cụm][Verb Phrase].</li>
+					<li className="list-none">Hình thái: [His finishing the race] – [Tiếp Động Cụm][Progressive Verb Phrase].</li>
 			
 					<li className="list-none">Chức năng: [His finishing the race] – [Danh Cụm][Noun Phrase] vẫn đứng đầu câu, cùng chức năng.</li>
 			

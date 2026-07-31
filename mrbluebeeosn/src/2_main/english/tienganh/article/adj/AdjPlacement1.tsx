@@ -17,13 +17,13 @@ export default function AdjPlacement1(): React.JSX.Element {
 		
 			<h4><HashLink smooth to="/tieng-anh#functional-thinking-terms"><mark className="highlight-tertiary-padding-4-8">Functional Thinking</mark></HashLink></h4>
 
-			<h1 className="margin-y-50 text-center">Chức năng [Tính][Adjective]
+			<h1 className="margin-y-50 text-center">[Tính][Adjective]
 												
-				<sup><HashLink smooth to="/tieng-anh/adj-placement-1">&nbsp;1&nbsp;</HashLink>
+				{/* <sup><HashLink smooth to="/tieng-anh/adj-placement-1">&nbsp;1&nbsp;</HashLink>
 				</sup>
 
 				<sup><HashLink smooth to="/tieng-anh/adj-placement-2">&nbsp;2&nbsp;</HashLink>
-				</sup>
+				</sup> */}
 
 				{/* <sup><HashLink smooth to="/tieng-anh/adj-placement-3">&nbsp;3&nbsp;</HashLink>
 				</sup>

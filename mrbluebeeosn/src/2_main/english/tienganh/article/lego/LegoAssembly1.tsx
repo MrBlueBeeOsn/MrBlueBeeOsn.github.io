@@ -19,11 +19,11 @@ export default function LegoAssembly1(): React.JSX.Element {
 
 			<h1 className="margin-y-50 text-center">[Tư Duy Lắp Ghép]
 												
-				<sup><HashLink smooth to="/tieng-anh/lego-assembly-1">&nbsp;1&nbsp;</HashLink>
+				{/* <sup><HashLink smooth to="/tieng-anh/lego-assembly-1">&nbsp;1&nbsp;</HashLink>
 				</sup>
 
 				<sup><HashLink smooth to="/tieng-anh/lego-assembly-2">&nbsp;2&nbsp;</HashLink>
-				</sup>
+				</sup> */}
 
 				{/* <sup><HashLink smooth to="/tieng-anh/lego-assembly-3">&nbsp;3&nbsp;</HashLink>
 				</sup>

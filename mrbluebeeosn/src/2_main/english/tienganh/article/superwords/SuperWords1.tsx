@@ -19,11 +19,11 @@ export default function SuperWords1(): React.JSX.Element {
 
 			<h1 className="margin-y-50 text-center">[Siêu Động Cơ]
 												
-				<sup><HashLink smooth to="/tieng-anh/super-words-1">&nbsp;1&nbsp;</HashLink>
+				{/* <sup><HashLink smooth to="/tieng-anh/super-words-1">&nbsp;1&nbsp;</HashLink>
 				</sup>
 
 				<sup><HashLink smooth to="/tieng-anh/super-words-2">&nbsp;2&nbsp;</HashLink>
-				</sup>
+				</sup> */}
 
 				{/* <sup><HashLink smooth to="/tieng-anh/super-words-3">&nbsp;3&nbsp;</HashLink>
 				</sup>

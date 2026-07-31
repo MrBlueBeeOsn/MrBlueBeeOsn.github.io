@@ -19,8 +19,8 @@ export default function TieredStructure1(): React.JSX.Element {
 
 			<h1 className="margin-y-50 text-center">[CƠ][CỤM][CÂU]
 												
-				<sup><HashLink smooth to="/tieng-anh/tiered-structure-1">&nbsp;1&nbsp;</HashLink>
-				</sup>
+				{/* <sup><HashLink smooth to="/tieng-anh/tiered-structure-1">&nbsp;1&nbsp;</HashLink>
+				</sup> */}
 
 				{/* <sup><HashLink smooth to="/tieng-anh/tiered-structure-2">&nbsp;2&nbsp;</HashLink>
 				</sup>
