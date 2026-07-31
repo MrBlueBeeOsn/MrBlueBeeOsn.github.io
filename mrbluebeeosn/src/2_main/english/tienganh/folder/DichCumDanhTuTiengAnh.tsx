@@ -29,7 +29,7 @@ export default function DichCumDanhTuTiengAnh(): React.JSX.Element {
 
 			{/* This is the content of English Learning Term. */}
 
-			<p>Trong quá trình học tiếng Anh, việc dịch các danh cụm (noun phrases) sang tiếng Việt một cách tự nhiên và đúng ngữ pháp là một thách thức lớn đối với người học. Trong tiếng Anh, tính cơ và các bổ ngữ thường đứng trước danh cơ chính, ngược lại với tiếng Việt, nơi danh cơ đứng trước, còn tính cơ và bổ ngữ đứng sau. Để dịch chính xác và tự nhiên, bạn có thể áp dụng nguyên tắc "<strong>Danh Cơ dịch trước</strong>, <strong>Tính Cơ dịch sau</strong>", đồng thời đặt các tính cơ hoặc danh cơ ghép vào dấu ngoặc đơn trong cấu trúc danh cụm để dễ nhớ và xử lý. Bài viết này sẽ hướng dẫn chi tiết cách thực hiện phương pháp này.</p>
+			<p>Trong quá trình học tiếng Anh, việc dịch các danh cụm (noun phrases) sang tiếng Việt một cách tự nhiên và đúng ngữ pháp là một thách thức lớn đối với người học. Trong tiếng Anh, Tính Cơ và các bổ ngữ thường đứng trước Danh Cơ chính, ngược lại với tiếng Việt, nơi Danh Cơ đứng trước, còn Tính Cơ và bổ ngữ đứng sau. Để dịch chính xác và tự nhiên, bạn có thể áp dụng nguyên tắc "<strong>Danh Cơ dịch trước</strong>, <strong>Tính Cơ dịch sau</strong>", đồng thời đặt các Tính Cơ hoặc Danh Cơ ghép vào dấu ngoặc đơn trong cấu trúc danh cụm để dễ nhớ và xử lý. Bài viết này sẽ hướng dẫn chi tiết cách thực hiện phương pháp này.</p>
 
 				<p className="margin-y-50 text-center">
 
@@ -49,25 +49,25 @@ export default function DichCumDanhTuTiengAnh(): React.JSX.Element {
 
 					<li><strong>Danh cơ chính</strong> (<strong>head noun</strong>): Là từ cốt lõi, mang ý nghĩa chính, thường nằm ở vị trí cuối cùng của cụm.</li>
 
-					<li><strong>Các thành phần bổ nghĩa</strong>: Bao gồm tính cơ (adjectives), danh cơ ghép (compound nouns), cụm giới cơ (prepositional phrases), hoặc câu con quan hệ (relative clauses), thường đứng trước danh cơ chính.</li>
+					<li><strong>Các thành phần bổ nghĩa</strong>: Bao gồm Tính Cơ (adjectives), Danh Cơ ghép (compound nouns), cụm giới cơ (prepositional phrases), hoặc câu con quan hệ (relative clauses), thường đứng trước Danh Cơ chính.</li>
 
 				</ul>
 			
-			<p className="margin-top-20">Ví dụ: Trong cụm <strong>a beautiful old stone house</strong>, danh cơ chính là <strong>house</strong>, còn <strong>beautiful</strong>, <strong>old</strong>, <strong>stone</strong> là các tính cơ bổ nghĩa. Khi đặt vào ngoặc đơn, ta có: <strong>a</strong> (<strong>beautiful old stone</strong>) <strong>house</strong>.</p>
+			<p className="margin-top-20">Ví dụ: Trong cụm <strong>a beautiful old stone house</strong>, Danh Cơ chính là <strong>house</strong>, còn <strong>beautiful</strong>, <strong>old</strong>, <strong>stone</strong> là các Tính Cơ bổ nghĩa. Khi đặt vào ngoặc đơn, ta có: <strong>a</strong> (<strong>beautiful old stone</strong>) <strong>house</strong>.</p>
 
-			<p>Khi dịch sang tiếng Việt, cấu trúc này cần được đảo ngược để danh cơ đứng trước, còn các tính cơ và bổ ngữ đứng sau, với các tính cơ hoặc danh cơ ghép được nhận diện từ dấu ngoặc đơn.</p>
+			<p>Khi dịch sang tiếng Việt, cấu trúc này cần được đảo ngược để Danh Cơ đứng trước, còn các Tính Cơ và bổ ngữ đứng sau, với các Tính Cơ hoặc Danh Cơ ghép được nhận diện từ dấu ngoặc đơn.</p>
 
 			<h3 className="margin-y-50 text-center">2. Các bước dịch danh cụm</h3>
 
 			<p>Để dịch danh cụm tiếng Anh sang tiếng Việt, bạn có thể thực hiện theo các bước sau:</p>
 
 			{/* =============================
-					Bước 1: Xác định danh cơ chính
+					Bước 1: Xác định Danh Cơ chính
 			============================= */}
 
 			<div className="margin-y-15 text-border1 table-container">
 
-				<h3 className="margin-y-50 text-center">Bước 1: Xác định danh cơ chính</h3>
+				<h3 className="margin-y-50 text-center">Bước 1: Xác định Danh Cơ chính</h3>
 
 				<p>Danh cơ chính là từ cuối cùng trong danh cụm, đóng vai trò cốt lõi. Đây là từ bạn sẽ dịch đầu tiên.</p>
 				
@@ -82,14 +82,14 @@ export default function DichCumDanhTuTiengAnh(): React.JSX.Element {
 			</div>
 
 			{/* =============================
-					Bước 2: Đặt các tính cơ hoặc danh cơ ghép vào dấu ngoặc đơn
+					Bước 2: Đặt các Tính Cơ hoặc Danh Cơ ghép vào dấu ngoặc đơn
 			============================= */}
 
 			<div className="margin-y-15 text-border1 table-container">
 
-				<h3 className="margin-y-50 text-center">Bước 2: Đặt các tính cơ hoặc danh cơ ghép vào dấu ngoặc đơn</h3>
+				<h3 className="margin-y-50 text-center">Bước 2: Đặt các Tính Cơ hoặc Danh Cơ ghép vào dấu ngoặc đơn</h3>
 
-				<p>Liệt kê các tính cơ hoặc danh cơ ghép đứng trước danh cơ chính và đặt chúng vào dấu ngoặc đơn trong cấu trúc danh cụm. Cụ thể, các thành phần bổ nghĩa đứng trước danh cơ chính sẽ được giữ nguyên thứ tự trong ngoặc.</p>
+				<p>Liệt kê các Tính Cơ hoặc Danh Cơ ghép đứng trước Danh Cơ chính và đặt chúng vào dấu ngoặc đơn trong cấu trúc danh cụm. Cụ thể, các thành phần bổ nghĩa đứng trước Danh Cơ chính sẽ được giữ nguyên thứ tự trong ngoặc.</p>
 
 					<ul className="list-square">
 
@@ -102,28 +102,28 @@ export default function DichCumDanhTuTiengAnh(): React.JSX.Element {
 			</div>
 
 			{/* =============================
-					Bước 3: Dịch danh cơ trước
+					Bước 3: Dịch Danh Cơ trước
 			============================= */}
 
 			<div className="margin-y-15 text-border1 table-container">
 
-				<h3 className="margin-y-50 text-center">Bước 3: Dịch danh cơ trước</h3>
+				<h3 className="margin-y-50 text-center">Bước 3: Dịch Danh Cơ trước</h3>
 
-				<p>Dịch danh cơ chính sang tiếng Việt trước tiên.</p>
+				<p>Dịch Danh Cơ chính sang tiếng Việt trước tiên.</p>
 				
 				<p className="margin-top-20">Ví dụ: <strong>house</strong> → nhà.</p>
 
 			</div>
 
 			{/* =============================
-					Bước 4: Dịch các tính cơ hoặc danh cơ ghép từ phải sang trái
+					Bước 4: Dịch các Tính Cơ hoặc Danh Cơ ghép từ phải sang trái
 			============================= */}
 
 			<div className="margin-y-15 text-border1 table-container">
 
-				<h3 className="margin-y-50 text-center">Bước 4: Dịch các tính cơ hoặc danh cơ ghép từ phải sang trái</h3>
+				<h3 className="margin-y-50 text-center">Bước 4: Dịch các Tính Cơ hoặc Danh Cơ ghép từ phải sang trái</h3>
 
-				<p>Dịch các tính cơ hoặc danh cơ ghép trong dấu ngoặc đơn theo thứ tự từ phải sang trái để phù hợp với ngữ pháp tiếng Việt.</p>
+				<p>Dịch các Tính Cơ hoặc Danh Cơ ghép trong dấu ngoặc đơn theo thứ tự từ phải sang trái để phù hợp với ngữ pháp tiếng Việt.</p>
 
 				<p className="margin-top-20">Ví dụ: <strong>a</strong> (<strong>beautiful old stone</strong>) <strong>house</strong></p>
 
@@ -155,7 +155,7 @@ export default function DichCumDanhTuTiengAnh(): React.JSX.Element {
 
 			<h3 className="margin-y-50 text-center">3. Xử lý các danh cụm phức tạp</h3>
 
-			<p>Khi danh cụm có bổ ngữ phức tạp hơn, như cụm giới cơ hoặc câu con quan hệ, bạn vẫn áp dụng nguyên tắc tương tự, nhưng chỉ đặt tính cơ hoặc danh cơ ghép vào dấu ngoặc đơn, còn các bổ ngữ khác được xử lý riêng.</p>
+			<p>Khi danh cụm có bổ ngữ phức tạp hơn, như cụm giới cơ hoặc câu con quan hệ, bạn vẫn áp dụng nguyên tắc tương tự, nhưng chỉ đặt Tính Cơ hoặc Danh Cơ ghép vào dấu ngoặc đơn, còn các bổ ngữ khác được xử lý riêng.</p>
 
 			<p className="margin-top-20">Ví dụ 1: <strong>a book on the table</strong></p>
 
@@ -165,7 +165,7 @@ export default function DichCumDanhTuTiengAnh(): React.JSX.Element {
 
 					<li>Bổ ngữ: <strong>on the table</strong> (trên bàn).</li>
 
-					<li>Kết quả: sách trên bàn (không có tính cơ nên không cần ngoặc đơn).</li>
+					<li>Kết quả: sách trên bàn (không có Tính Cơ nên không cần ngoặc đơn).</li>
 
 				</ul>
 			
@@ -177,7 +177,7 @@ export default function DichCumDanhTuTiengAnh(): React.JSX.Element {
 
 					<li>Tính câu: <strong>that is parked outside</strong> (được đỗ ngoài trời).</li>
 
-					<li>Kết quả: xe hơi được đỗ ngoài trời (không có tính cơ nên không cần ngoặc đơn).</li>
+					<li>Kết quả: xe hơi được đỗ ngoài trời (không có Tính Cơ nên không cần ngoặc đơn).</li>
 
 				</ul>
 
@@ -187,7 +187,7 @@ export default function DichCumDanhTuTiengAnh(): React.JSX.Element {
 
 					<li>Danh cơ chính: <strong>car</strong> → xe hơi.</li>
 
-					<li>Tính cơ và danh cơ ghép trong ngoặc (từ phải sang trái): <strong>sports</strong> (thể thao), <strong>red</strong> (đỏ), <strong>small</strong> (nhỏ).</li>
+					<li>Tính cơ và Danh Cơ ghép trong ngoặc (từ phải sang trái): <strong>sports</strong> (thể thao), <strong>red</strong> (đỏ), <strong>small</strong> (nhỏ).</li>
 
 					<li>Kết quả: xe hơi thể thao đỏ nhỏ.</li>
 
@@ -197,19 +197,19 @@ export default function DichCumDanhTuTiengAnh(): React.JSX.Element {
 
 				<ul className="list-square">
 
-					<li><strong>Thứ tự tính cơ trong tiếng Anh</strong>: Tiếng Anh có quy tắc sắp xếp tính cơ (ví dụ: opinion → size → age → material). Khi đặt vào dấu ngoặc đơn, bạn giữ nguyên thứ tự này trong cấu trúc như <strong>a</strong> (<strong>tính cơ</strong>) <strong>danh cơ</strong>, nhưng khi dịch, bạn đảo ngược từ phải sang trái để phù hợp với ngữ cảm tiếng Việt.</li>
+					<li><strong>Thứ tự Tính Cơ trong tiếng Anh</strong>: Tiếng Anh có quy tắc sắp xếp Tính Cơ (ví dụ: opinion → size → age → material). Khi đặt vào dấu ngoặc đơn, bạn giữ nguyên thứ tự này trong cấu trúc như <strong>a</strong> (<strong>tính cơ</strong>) <strong>danh cơ</strong>, nhưng khi dịch, bạn đảo ngược từ phải sang trái để phù hợp với ngữ cảm tiếng Việt.</li>
 
-					<li><strong>Ngữ cảm tự nhiên</strong>: Trong một số trường hợp, bạn có thể cần điều chỉnh thứ tự tính cơ để câu văn tiếng Việt nghe mượt mà hơn. Ví dụ: <strong>a</strong> (<strong>beautiful old stone</strong>) <strong>house</strong> được dịch là nhà đá cũ đẹp, nhưng có thể điều chỉnh thành ngôi nhà đá đẹp cổ kính để tăng tính tự nhiên.</li>
+					<li><strong>Ngữ cảm tự nhiên</strong>: Trong một số trường hợp, bạn có thể cần điều chỉnh thứ tự Tính Cơ để câu văn tiếng Việt nghe mượt mà hơn. Ví dụ: <strong>a</strong> (<strong>beautiful old stone</strong>) <strong>house</strong> được dịch là nhà đá cũ đẹp, nhưng có thể điều chỉnh thành ngôi nhà đá đẹp cổ kính để tăng tính tự nhiên.</li>
 
-					<li><strong>Bổ ngữ phức tạp</strong>: Với các cụm có bổ ngữ dài (như câu con quan hệ), chỉ đặt tính cơ hoặc danh cơ ghép vào ngoặc đơn, còn các bổ ngữ khác được dịch sau danh cơ chính theo cách thông thường.</li>
+					<li><strong>Bổ ngữ phức tạp</strong>: Với các cụm có bổ ngữ dài (như câu con quan hệ), chỉ đặt Tính Cơ hoặc Danh Cơ ghép vào ngoặc đơn, còn các bổ ngữ khác được dịch sau Danh Cơ chính theo cách thông thường.</li>
 
-					<li><strong>Danh cơ ghép</strong>: Các danh cơ ghép (như <strong>sports</strong> trong <strong>sports car</strong>) được xử lý tương tự tính cơ, đặt trong ngoặc đơn và dịch sau danh cơ chính.</li>
+					<li><strong>Danh cơ ghép</strong>: Các Danh Cơ ghép (như <strong>sports</strong> trong <strong>sports car</strong>) được xử lý tương tự tính cơ, đặt trong ngoặc đơn và dịch sau Danh Cơ chính.</li>
 
 				</ul>
 
 			<h3 className="margin-y-50 text-center">5. Kết luận</h3>
 			
-			<p>Phương pháp dịch danh cụm tiếng Anh theo nguyên tắc "<strong>Danh Cơ dịch trước</strong>, <strong>Tính Cơ dịch sau</strong>", kết hợp với việc đặt các tính cơ và danh cơ ghép vào dấu ngoặc đơn trong cấu trúc <strong>a</strong> (<strong>tính cơ</strong>) <strong>danh cơ</strong>, giúp người học dễ dàng nhận diện và sắp xếp các thành phần bổ nghĩa. Bằng cách xác định danh cơ chính trước, đặt các tính cơ/danh cơ ghép vào ngoặc, và dịch chúng từ phải sang trái, bạn có thể tạo ra câu văn tiếng Việt tự nhiên và đúng ngữ pháp. Thực hành thường xuyên với các ví dụ cụ thể sẽ giúp bạn nắm vững kỹ năng này.</p>
+			<p>Phương pháp dịch danh cụm tiếng Anh theo nguyên tắc "<strong>Danh Cơ dịch trước</strong>, <strong>Tính Cơ dịch sau</strong>", kết hợp với việc đặt các Tính Cơ và Danh Cơ ghép vào dấu ngoặc đơn trong cấu trúc <strong>a</strong> (<strong>tính cơ</strong>) <strong>danh cơ</strong>, giúp người học dễ dàng nhận diện và sắp xếp các thành phần bổ nghĩa. Bằng cách xác định Danh Cơ chính trước, đặt các tính cơ/danh cơ ghép vào ngoặc, và dịch chúng từ phải sang trái, bạn có thể tạo ra câu văn tiếng Việt tự nhiên và đúng ngữ pháp. Thực hành thường xuyên với các ví dụ cụ thể sẽ giúp bạn nắm vững kỹ năng này.</p>
 
 			<div className="viewcounter">
 			

@@ -106,7 +106,7 @@ export default function ThreeDC6(): React.ReactElement {
 			<p className="margin-top-20"></p>
 
 
-			<h4 className="margin-y-40">Câu con tính cơ / quan hệ (Adjective / Relative clause)</h4>
+			<h4 className="margin-y-40">Câu con Tính Cơ / quan hệ (Adjective / Relative clause)</h4>
 					
 			<p className="text-indent-whole"></p>
 

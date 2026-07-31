@@ -19,15 +19,15 @@ export default function NhanBietTinhTuTiengAnh(): React.JSX.Element {
 
 			<h1 className="margin-y-50 text-center">Bí Quyết Nhận Biết [Tính Cơ] Tiếng Anh Nhanh Như Chớp Qua Đuôi Từ</h1>
 
-			<p>Bạn có bao giờ cảm thấy bối rối khi phải phân biệt <strong>tính cơ</strong> (<strong>adjective</strong>) với các từ loại khác trong câu? Đừng lo! Trong tiếng Anh, hầu hết tính cơ đều để lại “dấu vân tay” rất rõ ràng qua <strong>đuôi từ</strong> (<strong>suffix</strong>). Chỉ cần ghi nhớ khoảng 8–10 đuôi phổ biến nhất, bạn đã có thể đoán đúng đến 85–90% các tính cơ khi làm bài thi, viết luận hay giao tiếp hàng ngày.</p>
+			<p>Bạn có bao giờ cảm thấy bối rối khi phải phân biệt <strong>tính cơ</strong> (<strong>adjective</strong>) với các từ loại khác trong câu? Đừng lo! Trong tiếng Anh, hầu hết Tính Cơ đều để lại “dấu vân tay” rất rõ ràng qua <strong>đuôi từ</strong> (<strong>suffix</strong>). Chỉ cần ghi nhớ khoảng 8–10 đuôi phổ biến nhất, bạn đã có thể đoán đúng đến 85–90% các Tính Cơ khi làm bài thi, viết luận hay giao tiếp hàng ngày.</p>
 			
-			<p>Dưới đây là hướng dẫn chi tiết, sinh động và dễ nhớ nhất để bạn “bắt bài” tính cơ chỉ trong tích tắc!</p>
+			<p>Dưới đây là hướng dẫn chi tiết, sinh động và dễ nhớ nhất để bạn “bắt bài” Tính Cơ chỉ trong tích tắc!</p>
 
-			<h3 className="margin-y-50 text-center">Tại sao đuôi từ lại “bật mí” tính cơ?Tóm tắt các đuôi tính cơ phổ biến nhất</h3>
+			<h3 className="margin-y-50 text-center">Tại sao đuôi từ lại “bật mí” tính cơ? Tóm tắt các đuôi Tính Cơ phổ biến nhất</h3>
 
-			<p>Tính cơ thường được tạo ra từ danh cơ hoặc hành động bằng cách thêm hậu tố. Mỗi hậu tố mang một ý nghĩa đặc trưng, giúp ta nhanh chóng nhận diện vai trò của từ trong câu.</p>
+			<p>Tính cơ thường được tạo ra từ Danh Cơ hoặc hành động bằng cách thêm hậu tố. Mỗi hậu tố mang một ý nghĩa đặc trưng, giúp ta nhanh chóng nhận diện vai trò của từ trong câu.</p>
 					
-			<p>Dưới đây là <strong>bảng tóm tắt các đuôi tính cơ phổ biến nhất</strong> kèm rất nhiều ví dụ thực tế:</p>
+			<p>Dưới đây là <strong>bảng tóm tắt các đuôi Tính Cơ phổ biến nhất</strong> kèm rất nhiều ví dụ thực tế:</p>
 
 			<table className="margin-y-50">
 					<thead>
@@ -115,7 +115,7 @@ export default function NhanBietTinhTuTiengAnh(): React.JSX.Element {
 
 			<h3 className="margin-y-50 text-center">Mẹo “bắt bài” siêu nhanh khi làm bài</h3>
 
-			<p>Gặp các đuôi -<strong>able</strong>, -<strong>ible</strong>, -<strong>ous</strong>, -<strong>ful</strong>, -<strong>less</strong>, -<strong>al</strong>, -<strong>ic</strong>, -<strong>ive</strong>, -<strong>y</strong> → gần như chắc chắn là tính cơ (90% trường hợp).</p>
+			<p>Gặp các đuôi -<strong>able</strong>, -<strong>ible</strong>, -<strong>ous</strong>, -<strong>ful</strong>, -<strong>less</strong>, -<strong>al</strong>, -<strong>ic</strong>, -<strong>ive</strong>, -<strong>y</strong> → gần như chắc chắn là Tính Cơ (90% trường hợp).</p>
 
 			<p>Cặp đôi -<strong>ed</strong> vs -<strong>ing</strong> cực kỳ phổ biến trong bài thi:</p>
 
@@ -151,7 +151,7 @@ export default function NhanBietTinhTuTiengAnh(): React.JSX.Element {
 
 			<p>-<strong>able</strong>/-<strong>ible</strong> – <strong>ous</strong> – <strong>ful</strong> – <strong>less</strong> – <strong>al</strong> – <strong>ic</strong>/-<strong>ical</strong> – <strong>ive</strong> – <strong>y</strong></p>
 					
-			<p>Chỉ cần nắm vững 8 đuôi này, bạn đã có “vũ khí bí mật” để nhận diện tính cơ cực nhanh trong bài đọc hiểu, điền từ, viết câu hay thậm chí khi nói chuyện với người bản xứ.</p>
+			<p>Chỉ cần nắm vững 8 đuôi này, bạn đã có “vũ khí bí mật” để nhận diện Tính Cơ cực nhanh trong bài đọc hiểu, điền từ, viết câu hay thậm chí khi nói chuyện với người bản xứ.</p>
 			
 			<p>Hãy thử áp dụng ngay hôm nay: lấy một bài báo tiếng Anh, gạch chân tất cả từ có đuôi trong danh sách trên và xem bạn đoán đúng bao nhiêu % nhé!</p>
 

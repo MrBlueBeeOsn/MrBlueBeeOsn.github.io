@@ -369,7 +369,7 @@ export default function LegoAssembly5(): React.JSX.Element {
 			
 				</ul>
 
-			<h4 className="margin-y-40">DC bổ nghĩa danh cơ trong S — Relative Clause</h4>
+			<h4 className="margin-y-40">DC bổ nghĩa Danh Cơ trong S — Relative Clause</h4>
 					
 			<p className="text-indent-whole">DC có thể nằm bên trong S để bổ nghĩa cho danh cơ. Khi đó cấu trúc là: S [DC] Head DP.</p>
 

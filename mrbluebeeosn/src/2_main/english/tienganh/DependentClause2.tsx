@@ -267,7 +267,7 @@ export default function DependentClause2(): React.JSX.Element {
 
 			<p className="text-indent-whole">Đôi khi phụ câu làm danh chủ hoặc danh nhận (noun clause).</p>
 
-			<p className="text-indent-whole">Hãy thử thay nó bằng một từ như something hay that thing. Nếu thay được, rất có thể nó là câu con danh cơ – một loại phụ câu.</p>
+			<p className="text-indent-whole">Hãy thử thay nó bằng một từ như something hay that thing. Nếu thay được, rất có thể nó là câu con Danh Cơ – một loại phụ câu.</p>
 			
 				<ul className="list-square">
 		

@@ -103,7 +103,7 @@ export default function AdjPlacement3(): React.JSX.Element {
 
 			<h3 className="margin-y-50 text-center">2. Adjective Clause – Chìa Khóa Mở Ra Cả Một Thế Giới</h3>
 
-			<p>Adjective Clause chính là “<strong>tính cơ dài</strong>” – một câu con được dùng để bổ nghĩa chi tiết cho danh cơ đứng trước.</p>
+			<p>Adjective Clause chính là “<strong>tính cơ dài</strong>” – một câu con được dùng để bổ nghĩa chi tiết cho Danh Cơ đứng trước.</p>
 
 			<p>Nó luôn đứng <strong>sau danh cơ</strong>, tạo nên dòng chảy tự nhiên: giới thiệu đối tượng trước, rồi mới “vẽ” nên bức tranh chi tiết phía sau.</p>
 
@@ -163,7 +163,7 @@ export default function AdjPlacement3(): React.JSX.Element {
 					<li className="margin-bottom-20 list-none">Bổ nghĩa cho động cơ, tính cơ, hoặc cả câu</li>
 			
 					<li value="3"><strong>Noun Clause</strong> (Danh câu)</li>
-					<li className="list-none">Hoạt động như một danh cơ trong câu</li>
+					<li className="list-none">Hoạt động như một Danh Cơ trong câu</li>
 			
 				</ol>
 			
@@ -180,7 +180,7 @@ export default function AdjPlacement3(): React.JSX.Element {
 
 			<p>Nhưng với người Việt, đây lại là lợi thế cạnh tranh</p>
 
-			<p>Tư duy ngôn ngữ của chúng ta vốn đã quen với việc đặt danh cơ trước rồi mô tả sau.</p>
+			<p>Tư duy ngôn ngữ của chúng ta vốn đã quen với việc đặt Danh Cơ trước rồi mô tả sau.</p>
 
 			<p>Khi khai thác tốt điểm tương đồng này, người Việt hoàn toàn có khả năng vượt trội hơn nhiều quốc gia khác trong khu vực Đông Nam Á về khả năng sử dụng tiếng Anh phức tạp và tự nhiên.</p>
 

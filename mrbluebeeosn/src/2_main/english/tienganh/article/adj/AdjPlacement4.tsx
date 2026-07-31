@@ -100,7 +100,7 @@ export default function AdjPlacement4(): React.JSX.Element {
 
 			<h3 className="margin-y-50 text-center">1. Sai Lầm Lớn Nhất Của Người Học Tiếng Anh</h3>
 
-			<p className="margin-top-20">Phần lớn người học dành quá nhiều sự chú ý cho những tính cơ đơn lẻ.</p>
+			<p className="margin-top-20">Phần lớn người học dành quá nhiều sự chú ý cho những Tính Cơ đơn lẻ.</p>
 			
 				<ul className="list-square">
 			
@@ -121,17 +121,17 @@ export default function AdjPlacement4(): React.JSX.Element {
 			
 				</ul>
 			
-			<p className="margin-top-20">Họ học cách đặt tính cơ trước danh cơ.</p>
+			<p className="margin-top-20">Họ học cách đặt Tính Cơ trước danh cơ.</p>
 
-			<p>Họ học cách dùng tính cơ sau hành động be.</p>
+			<p>Họ học cách dùng Tính Cơ sau hành động be.</p>
 
 			<p>Nhưng rất ít người được chỉ ra rằng:</p>
 			
 				<ul className="list-square">
-					<li className="list-none">Những tính cơ đơn lẻ chỉ là tầng cơ bản nhất của ngôn ngữ.</li>
+					<li className="list-none">Những Tính Cơ đơn lẻ chỉ là tầng cơ bản nhất của ngôn ngữ.</li>
 				</ul>
 			
-			<p className="margin-top-20">Khi người bản ngữ muốn diễn đạt những ý tưởng phức tạp hơn, họ không còn phụ thuộc nhiều vào các tính cơ ngắn nữa.</p>
+			<p className="margin-top-20">Khi người bản ngữ muốn diễn đạt những ý tưởng phức tạp hơn, họ không còn phụ thuộc nhiều vào các Tính Cơ ngắn nữa.</p>
 
 			<p>Thay vào đó, họ bắt đầu <strong>mở rộng thông tin</strong>.</p>
 
@@ -189,7 +189,7 @@ export default function AdjPlacement4(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li><strong>Tính cơ</strong> đứng trước danh cơ thường <strong>nhấn mạnh đặc điểm</strong>.</li>
+					<li><strong>Tính cơ</strong> đứng trước Danh Cơ thường <strong>nhấn mạnh đặc điểm</strong>.</li>
 			
 					<li><strong>Danh cơ</strong> đứng trước phần mô tả thường <strong>nhấn mạnh đối tượng</strong>.</li>
 			
@@ -197,7 +197,7 @@ export default function AdjPlacement4(): React.JSX.Element {
 			
 			<p className="margin-top-20">Và khi ngôn ngữ trở nên phức tạp hơn, người bản ngữ gần như luôn cần người nghe biết đối tượng trước.</p>
 
-			<p>Đó là lý do tại sao các cấu trúc mở rộng phía sau danh cơ xuất hiện ở khắp mọi nơi.</p>
+			<p>Đó là lý do tại sao các cấu trúc mở rộng phía sau Danh Cơ xuất hiện ở khắp mọi nơi.</p>
 
 			{/* 3.  */}
 
@@ -402,7 +402,7 @@ export default function AdjPlacement4(): React.JSX.Element {
 
 			<h3 className="margin-y-50 text-center">Kết Luận</h3>
 
-			<p>Phần lớn người học dành nhiều năm để ghi nhớ rằng tính cơ trong tiếng Anh đứng trước danh cơ.</p>
+			<p>Phần lớn người học dành nhiều năm để ghi nhớ rằng Tính Cơ trong tiếng Anh đứng trước danh cơ.</p>
 
 			<p>Điều đó đúng.</p>
 

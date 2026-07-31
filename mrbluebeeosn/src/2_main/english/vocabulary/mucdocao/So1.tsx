@@ -57,7 +57,7 @@ export default function So1(): React.JSX.Element {
 
       </div>
 
-      <p className="margin-top-30 text-indent-whole">1. Rất, quá (trạng cơ mức độ): Dùng để nhấn mạnh mức độ của một tính cơ hoặc trạng cơ.</p>
+      <p className="margin-top-30 text-indent-whole">1. Rất, quá (trạng cơ mức độ): Dùng để nhấn mạnh mức độ của một Tính Cơ hoặc trạng cơ.</p>
 
         <ul className="list-square">
 
@@ -253,7 +253,7 @@ export default function So1(): React.JSX.Element {
 
           <li>"<strong>So</strong>" là một từ rất linh hoạt và có nhiều chức năng khác nhau trong câu.</li>
 
-          <li>Khi "<strong>so</strong>" là trạng cơ chỉ mức độ, nó thường đứng trước tính cơ hoặc trạng cơ.</li>
+          <li>Khi "<strong>so</strong>" là Trạng Cơ chỉ mức độ, nó thường đứng trước Tính Cơ hoặc trạng cơ.</li>
 
           <li className="margin-bottom-20">Khi "<strong>so</strong>" là liên cơ, nó thường đứng ở đầu câu con chỉ kết quả.</li>
 

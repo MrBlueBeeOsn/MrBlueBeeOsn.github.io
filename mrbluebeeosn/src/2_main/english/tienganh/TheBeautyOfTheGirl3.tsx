@@ -88,7 +88,7 @@ export default function TheBeautyOfTheGirl3(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li><strong>Bước 1</strong>: Chuyển tính cơ thành danh cơ</li>
+					<li><strong>Bước 1</strong>: Chuyển Tính Cơ thành danh cơ</li>
 					<li className="list-none">Beautiful (xinh đẹp) → <strong>Beauty</strong> (vẻ đẹp)</li>
 
 					<li className="margin-top-20"><strong>Bước 2</strong>: Đọc thẳng từ trái sang phải</li>

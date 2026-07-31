@@ -87,7 +87,7 @@ export default function ThinkStraightFlowFast2(): React.JSX.Element {
 			
 				</ul>
 
-			<p className="margin-top-20">Còn chúng ta? Chúng ta bị mắc kẹt trong "lời nguyền cấu trúc": <strong>tiếng Việt đòi hỏi danh cơ phải đứng trước tính cơ</strong>.</p>
+			<p className="margin-top-20">Còn chúng ta? Chúng ta bị mắc kẹt trong "lời nguyền cấu trúc": <strong>tiếng Việt đòi hỏi Danh Cơ phải đứng trước tính cơ</strong>.</p>
 
 			<p>Nhưng tôi có tin tốt cho bạn: <strong>Bạn hoàn toàn có thể phá vỡ lời nguyền này</strong>. Và bạn không cần phải sang Đức hay Hàn Quốc để làm điều đó.</p>
 

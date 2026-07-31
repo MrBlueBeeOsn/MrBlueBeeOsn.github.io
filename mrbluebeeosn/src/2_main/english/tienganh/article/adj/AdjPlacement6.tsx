@@ -48,7 +48,7 @@ export default function AdjPlacement6(): React.JSX.Element {
 
 			</h1>
 
-			<h4 className="margin-bottom-30 text-center">Danh cơ trước, tính cơ sau — Chiến lược tư duy giúp người Việt chinh phục tiếng Anh</h4>
+			<h4 className="margin-bottom-30 text-center">Danh cơ trước, Tính Cơ sau — Chiến lược tư duy giúp người Việt chinh phục tiếng Anh</h4>
 
 			<p className="margin-y-40"><strong>Mở đầu</strong></p>
 					
@@ -74,7 +74,7 @@ export default function AdjPlacement6(): React.JSX.Element {
 
 			<p className="margin-top-20">Chính vì vậy nhiều người mặc định rằng “tính cơ phải đứng trước danh cơ” — và cảm thấy bối rối khi gặp những câu dài, phức tạp. </p>
 
-			<p>Thực tế tinh tế hơn: trong văn nói nâng cao và văn viết học thuật, người bản ngữ thường <strong>đưa danh cơ ra trước</strong>, rồi <strong>thả phần mô tả phía sau</strong> bằng một câu con đóng vai trò như tính cơ.</p>
+			<p>Thực tế tinh tế hơn: trong văn nói nâng cao và văn viết học thuật, người bản ngữ thường <strong>đưa Danh Cơ ra trước</strong>, rồi <strong>thả phần mô tả phía sau</strong> bằng một câu con đóng vai trò như tính cơ.</p>
 			
 			<p>Nhận ra điều này là một bước ngoặt: nó biến tiếng Anh từ “khác” thành “quen”, vì trật tự <strong>Danh cơ</strong> → <strong>Mô tả</strong> rất giống cách người Việt suy nghĩ.</p>
 			
@@ -106,7 +106,7 @@ export default function AdjPlacement6(): React.JSX.Element {
 
 			<p>Ba câu con này là <strong>câu con tính cơ</strong>, <strong>câu con trạng ngữ</strong>, và <strong>câu con danh cơ</strong> — chúng là công cụ chính để người bản ngữ xây dựng câu phức, lập luận và dẫn chứng.</p>
 
-			<h4 className="margin-y-40">1. Câu con tính cơ — mô tả đứng sau danh cơ</h4>
+			<h4 className="margin-y-40">1. Câu con Tính Cơ — mô tả đứng sau danh cơ</h4>
 
 			<p className="text-indent-whole"><strong>Chức năng</strong>: bổ sung, phân biệt hoặc mở rộng thông tin về danh cơ.</p>
 
@@ -128,7 +128,7 @@ export default function AdjPlacement6(): React.JSX.Element {
 			
 				</ul>
 			
-			<p className="margin-top-20 text-indent-whole"><strong>Gợi ý thực hành</strong>: khi dịch câu tiếng Việt dạng <strong>Danh cơ</strong> + <strong>mô tả</strong>, hãy thử đặt danh cơ trước rồi thêm câu con tính cơ — cảm giác sẽ rất tự nhiên.</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Gợi ý thực hành</strong>: khi dịch câu tiếng Việt dạng <strong>Danh cơ</strong> + <strong>mô tả</strong>, hãy thử đặt Danh Cơ trước rồi thêm câu con Tính Cơ — cảm giác sẽ rất tự nhiên.</p>
 		
 
 			<h4 className="margin-y-40">2. Trạng câu — nối ý, giải thích hoàn cảnh</h4>
@@ -146,7 +146,7 @@ export default function AdjPlacement6(): React.JSX.Element {
 			
 			<p className="margin-top-20 text-indent-whole"><strong>Vị trí linh hoạt</strong>: có thể đứng đầu câu để nhấn lý do, hoặc cuối câu để bổ sung.</p>
 
-			<p className="text-indent-whole"><strong>Gợi ý thực hành</strong>: khi viết luận, dùng câu con trạng ngữ để dẫn dắt luận điểm, rồi quay lại với danh cơ chính và câu con tính cơ để minh họa.</p>
+			<p className="text-indent-whole"><strong>Gợi ý thực hành</strong>: khi viết luận, dùng câu con trạng ngữ để dẫn dắt luận điểm, rồi quay lại với Danh Cơ chính và câu con Tính Cơ để minh họa.</p>
 
 
 			<h4 className="margin-y-40">3. Danh câu — biến cả cụm thành danh chủ hoặc danh nhận</h4>
@@ -162,7 +162,7 @@ export default function AdjPlacement6(): React.JSX.Element {
 			
 				</ul>
 			
-			<p className="margin-top-20 text-indent-whole"><strong>Gợi ý thực hành</strong>: dùng câu con danh cơ để tóm tắt ý chính trước khi giải thích bằng câu con trạng ngữ và minh họa bằng câu con tính cơ.</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Gợi ý thực hành</strong>: dùng câu con Danh Cơ để tóm tắt ý chính trước khi giải thích bằng câu con trạng ngữ và minh họa bằng câu con tính cơ.</p>
 
 
 			{/* 3.  */}
@@ -173,7 +173,7 @@ export default function AdjPlacement6(): React.JSX.Element {
 			
 					<li value="1" className="margin-bottom-20"><strong>Mở bằng câu con trạng ngữ</strong> để đặt bối cảnh hoặc nêu lý do.</li>
 			
-					<li value="2" className="margin-bottom-20"><strong>Giới thiệu danh cơ chính</strong> - đối tượng của luận điểm.</li>
+					<li value="2" className="margin-bottom-20"><strong>Giới thiệu Danh Cơ chính</strong> - đối tượng của luận điểm.</li>
 
 					<li value="3" className="margin-bottom-20"><strong>Bổ sung bằng câu con tính cơ</strong> để phân biệt hoặc mô tả chi tiết.</li>
 			
@@ -194,13 +194,13 @@ export default function AdjPlacement6(): React.JSX.Element {
 				<ol>
 			
 					<li value="1"><strong>Nhận diện</strong>:</li>
-					<li className="margin-bottom-20 list-none">Khi đọc tiếng Việt, gạch dưới danh cơ chính và phần mô tả.</li>
+					<li className="margin-bottom-20 list-none">Khi đọc tiếng Việt, gạch dưới Danh Cơ chính và phần mô tả.</li>
 			
 					<li value="2"><strong>Dịch theo mẫu</strong>:</li>
-					<li className="margin-bottom-20 list-none">Chuyển mô tả thành câu con tính cơ; đặt danh cơ trước.</li>
+					<li className="margin-bottom-20 list-none">Chuyển mô tả thành câu con tính cơ; đặt Danh Cơ trước.</li>
 
 					<li value="3"><strong>Thử biến thể</strong>:</li>
-					<li className="margin-bottom-20 list-none">Viết cùng một ý bằng tính cơ trước danh cơ, rồi bằng danh cơ + câu con tính cơ; so sánh sắc thái.</li>
+					<li className="margin-bottom-20 list-none">Viết cùng một ý bằng Tính Cơ trước danh cơ, rồi bằng Danh Cơ + câu con tính cơ; so sánh sắc thái.</li>
 			
 					<li value="4"><strong>Ghép mạch</strong>:</li>
 					<li className="margin-bottom-20 list-none">Viết đoạn 4–6 câu dùng cả ba câu con — chú ý dấu câu và nhịp câu.</li>
@@ -245,7 +245,7 @@ export default function AdjPlacement6(): React.JSX.Element {
 
 			<h4 className="margin-y-40">Thử thách 7 ngày:</h4>
 					
-			<p className="text-indent-whole">Mỗi ngày chọn 3 câu tiếng Việt bạn hay dùng, dịch sang tiếng Anh theo mẫu Danh cơ → Mô tả, rồi ghép thành một đoạn 6–8 câu dùng cả ba câu con.</p>
+			<p className="text-indent-whole">Mỗi ngày chọn 3 câu tiếng Việt bạn hay dùng, dịch sang tiếng Anh theo mẫu Danh Cơ → Mô tả, rồi ghép thành một đoạn 6–8 câu dùng cả ba câu con.</p>
 
 			<p className="text-indent-whole">Sau một tuần, bạn sẽ thấy cách tư duy tiếng Anh thay đổi — từ “khó” thành “quen”, từ “lúng túng” thành “tự tin”.</p>
 

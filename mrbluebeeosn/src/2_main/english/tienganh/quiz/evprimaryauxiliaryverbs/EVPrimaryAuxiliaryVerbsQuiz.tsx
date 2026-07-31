@@ -54,7 +54,7 @@ export default function EVPrimaryAuxiliaryVerbsQuiz(): React.JSX.Element {
 				"is"
 			],
 			correctAnswer: 0,
-			explanation: "Câu ở thì Hiện tại tiếp diễn thể bị động (Present Continuous Passive): S + am/is/are + being + V3/ed. \"Statements\" là danh cơ số nhiều nên dùng \"are\"."
+			explanation: "Câu ở thì Hiện tại tiếp diễn thể bị động (Present Continuous Passive): S + am/is/are + being + V3/ed. \"Statements\" là Danh Cơ số nhiều nên dùng \"are\"."
 		},
 		{
 			id: 4,

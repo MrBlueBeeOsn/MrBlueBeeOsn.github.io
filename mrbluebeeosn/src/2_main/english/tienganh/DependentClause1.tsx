@@ -135,9 +135,9 @@ export default function DependentClause1(): React.JSX.Element {
 
 			<p>Mọi phụ câu dù dài hay ngắn đều chỉ đảm nhận vị trí tương đương với một từ loại cơ bản.</p>
 			
-			<h4 className="margin-y-40">Chức năng Tính cơ (Adjective Clause)</h4>
+			<h4 className="margin-y-40">Chức năng Tính Cơ (Adjective Clause)</h4>
 					
-			<p className="text-indent-whole">Nằm ngay sau một danh cơ để định hình hoặc làm rõ đặc điểm cho danh cơ đó.</p>
+			<p className="text-indent-whole">Nằm ngay sau một Danh Cơ để định hình hoặc làm rõ đặc điểm cho Danh Cơ đó.</p>
 			
 				<ul className="list-square">
 			
@@ -146,10 +146,10 @@ export default function DependentClause1(): React.JSX.Element {
 			
 				</ul>
 			
-			<p className="margin-top-20 text-indent-whole">→ Cụm "that is barking" đóng vai trò như một tính cơ lớn để phân biệt con chó này với những con khác</p>
+			<p className="margin-top-20 text-indent-whole">→ Cụm "that is barking" đóng vai trò như một Tính Cơ lớn để phân biệt con chó này với những con khác</p>
 			
 			
-			<h4 className="margin-y-40">Chức năng Trạng cơ (Adverbial Clause)</h4>
+			<h4 className="margin-y-40">Chức năng Trạng Cơ (Adverbial Clause)</h4>
 					
 			<p className="text-indent-whole">Thiết lập bối cảnh cho hành động chính, làm rõ các yếu tố về thời gian, lý do hoặc sự tương phản.</p>
 			
@@ -163,9 +163,9 @@ export default function DependentClause1(): React.JSX.Element {
 			<p className="margin-top-20 text-indent-whole">→ Cụm "because it was cold" giải thích nguyên nhân cho việc ở trong nhà</p>
 			
 			
-			<h4 className="margin-y-40">Chức năng Danh cơ (Noun Clause)</h4>
+			<h4 className="margin-y-40">Chức năng Danh Cơ (Noun Clause)</h4>
 					
-			<p className="text-indent-whole">Chiếm lĩnh vị trí của một danh cơ thông thường để làm Danh chủ hoặc Danh nhận chịu tác động.</p>
+			<p className="text-indent-whole">Chiếm lĩnh vị trí của một Danh Cơ thông thường để làm Danh chủ hoặc Danh nhận chịu tác động.</p>
 			
 				<ul className="list-square">
 			

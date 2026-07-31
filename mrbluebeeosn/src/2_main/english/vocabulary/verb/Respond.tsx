@@ -750,7 +750,7 @@ export default function Respond(): React.JSX.Element {
           <li>I prefer a [responsive] software interface.</li>
           <li className="margin-bottom-20 list-none">Tôi thích một giao diện phần mềm [phản hồi nhanh/nhạy bén].</li>
       
-          <li className="list-none">Hình thái: [responsive] - [Diện Tính Cơ][Modified Adjective Base] hình thành từ khối [Rễ Động Cơ][Root Verb Base] nguyên bản "respond" mặc thêm hậu tố "-sive" để thay đổi diện mạo bên ngoài thành một khối cấp độ [Cơ][Base], thu gọn dưới dạng khối đặc điểm đã được cô đọng hoàn toàn về dạng một thành phần tính cơ đơn duy nhất.</li>
+          <li className="list-none">Hình thái: [responsive] - [Diện Tính Cơ][Modified Adjective Base] hình thành từ khối [Rễ Động Cơ][Root Verb Base] nguyên bản "respond" mặc thêm hậu tố "-sive" để thay đổi diện mạo bên ngoài thành một khối cấp độ [Cơ][Base], thu gọn dưới dạng khối đặc điểm đã được cô đọng hoàn toàn về dạng một thành phần Tính Cơ đơn duy nhất.</li>
       
           <li className="list-none">Chức năng mới: [responsive] - [Tính Cơ][Adjective Base] thiết lập vị trí ngay trước đối tượng để quét và hiển thị ngắn gọn đặc điểm của đối tượng đó.</li>
       

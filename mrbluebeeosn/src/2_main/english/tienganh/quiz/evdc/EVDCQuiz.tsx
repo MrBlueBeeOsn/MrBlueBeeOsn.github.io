@@ -42,7 +42,7 @@ export default function EVDCQuiz(): React.JSX.Element {
 				"what"
 			],
 			correctAnswer: 2,
-			explanation: "Cụm \"that you lent me yesterday\" là một Adjective Clause (Câu con tính ngữ/quan hệ) bổ nghĩa cho danh cơ chỉ vật \"The book\". Ta dùng đại cơ quan hệ \"that\" (hoặc \"which\") làm danh nhận thay thế cho vật. \"What\" không đứng sau danh cơ để bổ nghĩa như vậy."
+			explanation: "Cụm \"that you lent me yesterday\" là một Adjective Clause (Câu con tính ngữ/quan hệ) bổ nghĩa cho Danh Cơ chỉ vật \"The book\". Ta dùng đại cơ quan hệ \"that\" (hoặc \"which\") làm danh nhận thay thế cho vật. \"What\" không đứng sau Danh Cơ để bổ nghĩa như vậy."
 		},
 		{
 			id: 3,
@@ -66,7 +66,7 @@ export default function EVDCQuiz(): React.JSX.Element {
 				"where"
 			],
 			correctAnswer: 0,
-			explanation: "Cụm \"why she left early\" là một Adjective Clause bổ nghĩa cho danh cơ \"The reason\". Trạng cơ quan hệ \"why\" được dùng để chỉ lý do cho danh cơ đứng trước nó."
+			explanation: "Cụm \"why she left early\" là một Adjective Clause bổ nghĩa cho Danh Cơ \"The reason\". Trạng Cơ quan hệ \"why\" được dùng để chỉ lý do cho Danh Cơ đứng trước nó."
 		},
 		{
 			id: 5,

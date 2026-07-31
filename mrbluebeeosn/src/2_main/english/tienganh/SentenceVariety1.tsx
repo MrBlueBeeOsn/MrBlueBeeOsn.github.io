@@ -126,7 +126,7 @@ export default function SentenceVariety1(): React.JSX.Element {
 			
 			<h4 className="margin-y-40">Bước 2 (Nâng cấp danh cơ):</h4>
 					
-			<p className="text-indent-whole">Thay vì dùng tính cơ đứng trước, hãy thử cấu trúc "The [Noun] of...".</p>
+			<p className="text-indent-whole">Thay vì dùng Tính Cơ đứng trước, hãy thử cấu trúc "The [Noun] of...".</p>
 			
 				<ul className="list-square">
 			

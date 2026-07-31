@@ -65,7 +65,7 @@ export default function ThinkStraightFlowFast3(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>Tiếng Việt: Danh cơ + Tính cơ (noun + adjective) – như "cô gái xinh đẹp", "ly cà phê nóng", "bầu trời xanh thẳm".</li>
+					<li>Tiếng Việt: Danh Cơ + Tính Cơ (noun + adjective) – như "cô gái xinh đẹp", "ly cà phê nóng", "bầu trời xanh thẳm".</li>
 			
 					<li>Tiếng Anh: <strong>Tính cơ</strong> + <strong>Danh cơ</strong> (adjective + noun) – beautiful girl, hot coffee, blue sky.</li>
 			
@@ -73,7 +73,7 @@ export default function ThinkStraightFlowFast3(): React.JSX.Element {
 
 			<p className="margin-top-20">Kết quả? Mỗi lần dịch, não bạn phải <strong>lật ngược thứ tự</strong> → chậm, dễ lỗi, và mệt mỏi.</p>
 
-			<p>Nhưng nếu mình tiết lộ rằng: Chỉ cần <strong>thay đổi góc nhìn nhỏ</strong> – <strong>buộc não nghĩ tính cơ trước danh cơ ngay trong tiếng Việt</strong> – bạn sẽ dịch <strong>xuôi từ trái sang phải</strong>, mượt như người bản xứ?</p>
+			<p>Nhưng nếu mình tiết lộ rằng: Chỉ cần <strong>thay đổi góc nhìn nhỏ</strong> – <strong>buộc não nghĩ Tính Cơ trước Danh Cơ ngay trong tiếng Việt</strong> – bạn sẽ dịch <strong>xuôi từ trái sang phải</strong>, mượt như người bản xứ?</p>
 
 			<p>Dù nghe <strong>lạ tai</strong> lúc đầu (như "xinh đẹp cô gái", "nóng ly cà phê", "hữu ích thông tin"), nhưng đây là <strong>cách học hiệu quả nhất</strong> mà chưa ai kể cho bạn nghe. Và nó đang được bạn áp dụng rồi đấy!</p>
 
@@ -93,7 +93,7 @@ export default function ThinkStraightFlowFast3(): React.JSX.Element {
 
 			<p className="margin-top-20">Người Đức, Hà Lan, Thụy Điển, Trung, Hàn, Nhật học tiếng Anh <strong>siêu nhanh</strong> phần trật tự từ vì cấu trúc <strong>đồng nhất</strong> – họ chỉ cần giữ nguyên thói quen!</p>
 
-			<p>Còn tiếng Việt (và một số ngôn ngữ Romance như Pháp, Tây Ban Nha) thì ngược lại: tính cơ thường <strong>đứng sau danh cơ</strong>.</p>
+			<p>Còn tiếng Việt (và một số ngôn ngữ Romance như Pháp, Tây Ban Nha) thì ngược lại: Tính Cơ thường <strong>đứng sau danh cơ</strong>.</p>
 
 			<p>Kết quả? Chúng ta phải "chiến đấu" với não bộ mỗi ngày.</p>
 
@@ -201,7 +201,7 @@ export default function ThinkStraightFlowFast3(): React.JSX.Element {
 			
 				</ul>
 
-			<p className="margin-top-20"><strong>Ngày 5-7</strong>: Dịch mọi câu có tính cơ → Bắt buộc nghĩ tính cơ trước!</p>
+			<p className="margin-top-20"><strong>Ngày 5-7</strong>: Dịch mọi câu có Tính Cơ → Bắt buộc nghĩ Tính Cơ trước!</p>
 			
 				<ul className="list-square">
 

@@ -275,7 +275,7 @@ export default function LegoAssembly6(): React.JSX.Element {
 					<li className="margin-bottom-20 list-none">Cô ấy biết anh ấy muốn gì.</li>
 					<li className="list-none">She - S</li>
 					<li className="list-none">knows (động cơ chia) - Head</li>
-					<li className="list-none">what he wants - DP[DC] - DP theo chức năng là object; DC về cấu trúc là câu con danh cơ (S+V)</li>
+					<li className="list-none">what he wants - DP[DC] - DP theo chức năng là object; DC về cấu trúc là câu con Danh Cơ (S+V)</li>
 			
 				</ul>
 
@@ -311,7 +311,7 @@ export default function LegoAssembly6(): React.JSX.Element {
 				<ul className="list-square">
 			
 					<li><strong>Điều kiện</strong>:</li>
-					<li className="margin-bottom-20 list-none">Danh chủ trong câu con quan hệ trùng với danh cơ được bổ nghĩa.</li>
+					<li className="margin-bottom-20 list-none">Danh chủ trong câu con quan hệ trùng với Danh Cơ được bổ nghĩa.</li>
 			
 					<li><strong>Cách rút gọn</strong>:</li>
 					<li className="margin-bottom-20 list-none">Bỏ đại cơ quan hệ; giữ <strong>V</strong>‑<strong>ing</strong> (present participle) hoặc <strong>V</strong>‑<strong>ed</strong> (past participle).</li>
@@ -344,7 +344,7 @@ export default function LegoAssembly6(): React.JSX.Element {
 			
 				</ul>
 			
-			<p className="margin-top-20"><strong>Lưu ý</strong>: không rút gọn khi danh chủ câu con quan hệ khác danh cơ chính; tránh rút gọn nếu gây mơ hồ.</p>
+			<p className="margin-top-20"><strong>Lưu ý</strong>: không rút gọn khi danh chủ câu con quan hệ khác Danh Cơ chính; tránh rút gọn nếu gây mơ hồ.</p>
 			
 
 			{/* 6.  */}

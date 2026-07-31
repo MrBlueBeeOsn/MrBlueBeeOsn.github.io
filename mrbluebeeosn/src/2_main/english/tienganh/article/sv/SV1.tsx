@@ -454,7 +454,7 @@ export default function SV1(): React.JSX.Element {
 			
 					<li className="list-none">Hình thái: [I couldn't drink it] - [Ẩn-Liên Động Câu][Zero-Connector Verb Clause] đã ẩn đi thành phần liên kết bề nổi.</li>
 			
-					<li className="list-none">Chức năng: [I couldn't drink it] - [Trạng Câu][Adverb Clause] gắn vào phía sau tính cơ "hot" nhằm làm rõ hệ quả và bổ nghĩa cho mức độ đặc điểm của [Tính Cơ][Adjective Base] này.</li>
+					<li className="list-none">Chức năng: [I couldn't drink it] - [Trạng Câu][Adverb Clause] gắn vào phía sau Tính Cơ "hot" nhằm làm rõ hệ quả và bổ nghĩa cho mức độ đặc điểm của [Tính Cơ][Adjective Base] này.</li>
 			
 				</ul>
 			

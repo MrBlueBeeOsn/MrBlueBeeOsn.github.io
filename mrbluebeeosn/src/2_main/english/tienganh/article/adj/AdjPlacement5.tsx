@@ -71,21 +71,21 @@ export default function AdjPlacement5(): React.JSX.Element {
 
 			<h4 className="margin-y-40">Nguyên tắc 1</h4>
 					
-			<p className="text-indent-whole"><strong>Khi danh cơ đứng trước tính cơ</strong>, người nói đang nhấn mạnh vào <strong>đối tượng</strong>. Hãy nhìn vào cái này — rồi ta mới nói về nó.</p>
+			<p className="text-indent-whole"><strong>Khi Danh Cơ đứng trước tính cơ</strong>, người nói đang nhấn mạnh vào <strong>đối tượng</strong>. Hãy nhìn vào cái này — rồi ta mới nói về nó.</p>
 
 
 			<h4 className="margin-y-40">Nguyên tắc 2</h4>
 					
-			<p className="text-indent-whole"><strong>Khi tính cơ đứng trước danh cơ</strong>, người nói đang nhấn mạnh vào <strong>đặc tính</strong>. Đây là thứ đặc biệt như thế này — và nó là một cái gì đó.</p>
+			<p className="text-indent-whole"><strong>Khi Tính Cơ đứng trước danh cơ</strong>, người nói đang nhấn mạnh vào <strong>đặc tính</strong>. Đây là thứ đặc biệt như thế này — và nó là một cái gì đó.</p>
 
-			<p>Nghe có vẻ đơn giản. Nhưng hai nguyên tắc này giải thích tại sao người bản ngữ, trong những câu quan trọng, gần như luôn chọn cách đưa danh cơ ra trước — rồi mới mô tả nó. Và cách đó, chính xác là cách tiếng Việt hoạt động.</p>
+			<p>Nghe có vẻ đơn giản. Nhưng hai nguyên tắc này giải thích tại sao người bản ngữ, trong những câu quan trọng, gần như luôn chọn cách đưa Danh Cơ ra trước — rồi mới mô tả nó. Và cách đó, chính xác là cách tiếng Việt hoạt động.</p>
 
 
 			{/* 2.  */}
 
 			<h3 className="margin-y-50 text-center">2. Cái bẫy ngôn ngữ học của người Việt</h3>
 
-			<p>Hầu hết người Việt rời trường phổ thông với hai mẫu câu tính cơ in đậm trong đầu:</p>
+			<p>Hầu hết người Việt rời trường phổ thông với hai mẫu câu Tính Cơ in đậm trong đầu:</p>
 
 			<p className="margin-top-20"><strong>Mẫu 1</strong> — <strong>Học từ lớp 1</strong></p>
 			
@@ -124,7 +124,7 @@ export default function AdjPlacement5(): React.JSX.Element {
 
 			<h3 className="margin-y-50 text-center">3. Adjective Clause — thứ người bản ngữ dùng nhiều nhất</h3>
 
-			<p><strong>Adjective Clause</strong> là một câu con hoạt động như tính cơ mở rộng. Chức năng: mô tả danh cơ đứng ngay trước nó. Vị trí: luôn đứng sau danh cơ — không bao giờ trước.</p>
+			<p><strong>Adjective Clause</strong> là một câu con hoạt động như Tính Cơ mở rộng. Chức năng: mô tả Danh Cơ đứng ngay trước nó. Vị trí: luôn đứng sau Danh Cơ — không bao giờ trước.</p>
 
 			<p>Và đây là điểm cốt lõi. Hãy nhìn vào hai ngôn ngữ cạnh nhau:</p>
 			
@@ -176,14 +176,14 @@ export default function AdjPlacement5(): React.JSX.Element {
 			
 				</ul>
 			
-			<p className="margin-top-20">Ba lớp <strong>Adjective Clause</strong>, tất cả đứng sau danh cơ, tất cả hoạt động như tính cơ mở rộng. Và tất cả đều vận hành theo đúng logic mà một người Việt đã dùng từ khi còn học nói tiếng mẹ đẻ.</p>
+			<p className="margin-top-20">Ba lớp <strong>Adjective Clause</strong>, tất cả đứng sau danh cơ, tất cả hoạt động như Tính Cơ mở rộng. Và tất cả đều vận hành theo đúng logic mà một người Việt đã dùng từ khi còn học nói tiếng mẹ đẻ.</p>
 			
 
 			{/* 5.  */}
 
 			<h3 className="margin-y-50 text-center">5. Dạng rút gọn — cú vấp ngã thường gặp nhất</h3>
 
-			<p>Người bản ngữ thường xuyên rút gọn Adjective Clause trong văn viết tự nhiên. Người học Việt nhìn vào những cụm này và không nhận ra đây cũng là tính cơ — trong khi chúng lại là những cấu trúc gần tiếng Việt nhất:</p>
+			<p>Người bản ngữ thường xuyên rút gọn Adjective Clause trong văn viết tự nhiên. Người học Việt nhìn vào những cụm này và không nhận ra đây cũng là Tính Cơ — trong khi chúng lại là những cấu trúc gần tiếng Việt nhất:</p>
 
 			<p className="margin-top-20">Ví dụ 1:</p>
 
@@ -312,7 +312,7 @@ export default function AdjPlacement5(): React.JSX.Element {
 
 			<p className="text-indent-whole">Chức năng:</p>
 
-			<p className="text-indent-whole">Mô tả, giới hạn, hoặc làm rõ một danh cơ. Luôn đứng <strong>sau</strong> danh cơ mà nó mô tả — đúng như cách tiếng Việt hoạt động. Đây là câu con người bản ngữ dùng nhiều nhất trong văn viết và hội thoại phức tạp.</p>
+			<p className="text-indent-whole">Mô tả, giới hạn, hoặc làm rõ một danh cơ. Luôn đứng <strong>sau</strong> Danh Cơ mà nó mô tả — đúng như cách tiếng Việt hoạt động. Đây là câu con người bản ngữ dùng nhiều nhất trong văn viết và hội thoại phức tạp.</p>
 
 			<p className="margin-top-20"></p>
 			
@@ -391,7 +391,7 @@ export default function AdjPlacement5(): React.JSX.Element {
 					
 			<p className="text-indent-whole">Cấu trúc câu phức tiếng Việt gần tiếng Anh hơn nhiều ngôn ngữ Đông Nam Á khác</p>
 
-			<p className="text-indent-whole">Cấu trúc Danh cơ + Câu con mô tả trong tiếng Việt vận hành theo đúng logic của Adjective Clause. Người Việt có nền tảng tư duy tự nhiên mà nhiều người học trong khu vực không có.</p>
+			<p className="text-indent-whole">Cấu trúc Danh Cơ + Câu con mô tả trong tiếng Việt vận hành theo đúng logic của Adjective Clause. Người Việt có nền tảng tư duy tự nhiên mà nhiều người học trong khu vực không có.</p>
 
 
 			<h4 className="margin-y-40">Điều cần thay đổi</h4>
@@ -408,13 +408,13 @@ export default function AdjPlacement5(): React.JSX.Element {
 
 			<p>Không cần học lại từ đầu. Chỉ cần thay đổi một cách nhìn.</p>
 
-			<p>Khi đọc tiếng Anh, hãy chủ động tìm danh cơ chính trong câu. Sau đó nhìn vào những gì đứng sau nó và hỏi:</p>
+			<p>Khi đọc tiếng Anh, hãy chủ động tìm Danh Cơ chính trong câu. Sau đó nhìn vào những gì đứng sau nó và hỏi:</p>
 
 			<p><strong>Phần này đang làm gì</strong> — <strong>mô tả danh cơ</strong>, <strong>mô tả hành động</strong>, <strong>hay nhúng một ý vào câu</strong>?</p>
 
 			<p>Khi câu hỏi đó trở thành bản năng, bạn đang đọc tiếng Anh theo đúng cách người bản ngữ viết nó.</p>
 
-			<p>Khi viết, hãy thử thả <strong>Adjective Clause</strong> sau danh cơ — đúng như cách bạn nói trong tiếng Việt — thay vì cố nhồi mọi thứ vào một tính cơ ngắn đặt trước. Câu văn sẽ tự nhiên hơn, có chiều sâu hơn, và — đây là điều thú vị — sẽ nghe "Tây" hơn, vì đó chính xác là cách người bản ngữ viết.</p>
+			<p>Khi viết, hãy thử thả <strong>Adjective Clause</strong> sau Danh Cơ — đúng như cách bạn nói trong tiếng Việt — thay vì cố nhồi mọi thứ vào một Tính Cơ ngắn đặt trước. Câu văn sẽ tự nhiên hơn, có chiều sâu hơn, và — đây là điều thú vị — sẽ nghe "Tây" hơn, vì đó chính xác là cách người bản ngữ viết.</p>
 
 			{/* Để kết lại */}
 

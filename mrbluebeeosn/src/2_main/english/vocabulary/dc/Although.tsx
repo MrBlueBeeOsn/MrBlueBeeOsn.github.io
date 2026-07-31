@@ -61,7 +61,7 @@ export default function Although(): React.JSX.Element {
 
       <h3 className="margin-y-50 text-center">Word Family</h3>
 
-      <p className="margin-bottom-20">Từ "although" là một liên cơ thuần túy và không có các dạng biến đổi trực tiếp như danh cơ, hành động hay tính cơ trong họ từ của riêng nó. Tuy nhiên, nó có mối quan hệ gốc rễ chặt chẽ với từ Though và các từ mang gốc biểu đạt sự nhượng bộ hoặc tương phản liên quan bao gồm:</p>
+      <p className="margin-bottom-20">Từ "although" là một liên cơ thuần túy và không có các dạng biến đổi trực tiếp như danh cơ, hành động hay Tính Cơ trong họ từ của riêng nó. Tuy nhiên, nó có mối quan hệ gốc rễ chặt chẽ với từ Though và các từ mang gốc biểu đạt sự nhượng bộ hoặc tương phản liên quan bao gồm:</p>
 
         <ul className="list-square">
 
@@ -97,7 +97,7 @@ export default function Although(): React.JSX.Element {
 
       <p className="margin-top-20"><strong>1. Though</strong> /ðəʊ/ (UK) hoặc /ðoʊ/ (US)</p>
 
-      <p className="text-indent-whole">Thường dùng phổ biến trong văn nói hàng ngày hơn "although", có tính linh hoạt cao vì vừa làm liên cơ đứng đầu/giữa câu, vừa làm trạng cơ đứng ở cuối câu.</p>
+      <p className="text-indent-whole">Thường dùng phổ biến trong văn nói hàng ngày hơn "although", có tính linh hoạt cao vì vừa làm liên cơ đứng đầu/giữa câu, vừa làm Trạng Cơ đứng ở cuối câu.</p>
 
         <ul className="list-square">
 

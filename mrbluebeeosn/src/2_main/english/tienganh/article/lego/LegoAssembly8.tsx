@@ -106,7 +106,7 @@ export default function LegoAssembly8(): React.JSX.Element {
 					<li>He is tired.</li>
 					<li className="list-none">Anh ấy đang mệt.</li>
 					<li className="list-none">is - Head</li>
-					<li className="margin-bottom-20 list-none">tired - DP - vì tired đứng sau Head, nó là DP, dù truyền thống gọi là tính cơ vị ngữ.[tired]</li>
+					<li className="margin-bottom-20 list-none">tired - DP - vì tired đứng sau Head, nó là DP, dù truyền thống gọi là Tính Cơ vị ngữ.[tired]</li>
 			
 					<li>He does not buy a car.</li>
 					<li className="list-none">Anh ấy không mua một chiếc ô tô.</li>
@@ -184,7 +184,7 @@ export default function LegoAssembly8(): React.JSX.Element {
 			
 				</ul>
 			
-			<p className="margin-top-20 text-indent-whole">"standing over there" giờ trông như DP thường, nhưng việc làm vẫn là của DC. Gọi đây là DP tính cơ cho dễ nhớ.</p>
+			<p className="margin-top-20 text-indent-whole">"standing over there" giờ trông như DP thường, nhưng việc làm vẫn là của DC. Gọi đây là DP Tính Cơ cho dễ nhớ.</p>
 
 			{/* 5.  */}
 

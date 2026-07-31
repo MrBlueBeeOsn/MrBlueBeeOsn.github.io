@@ -152,7 +152,7 @@ export default function ThinkStraightFlowFast4(): React.JSX.Element {
 
 			<p>Cách mình làm rất đơn giản — nhưng hiệu quả đến bất ngờ:</p>
 
-			<p className="margin-top-20 quote"><strong>Chuyển cấu trúc tiếng Việt sang cùng trật tự với tiếng Anh. Tính cơ đứng trước danh cơ</strong></p>
+			<p className="margin-top-20 quote"><strong>Chuyển cấu trúc tiếng Việt sang cùng trật tự với tiếng Anh. Tính Cơ đứng trước danh cơ</strong></p>
 			
 			<p className="margin-top-20">Ví dụ:</p>
 				
@@ -184,7 +184,7 @@ export default function ThinkStraightFlowFast4(): React.JSX.Element {
 				
 				<ul>
 
-					<li>tính cơ đứng trước danh cơ là chuyện bình thường</li>
+					<li>tính cơ đứng trước Danh Cơ là chuyện bình thường</li>
 			
 				</ul>
 			

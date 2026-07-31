@@ -114,7 +114,7 @@ export default function TracNghiemGerundsVaInfinitives(): React.JSX.Element {
 				"found"
 			],
 			correctAnswer: 2,
-			explanation: "Đây là cấu trúc tính cơ dùng với danh chủ giả: \"It + be + Adj + to V\". Cấu trúc này dùng để đưa ra nhận xét hoặc đánh giá về việc thực hiện một hành động nào đó."
+			explanation: "Đây là cấu trúc Tính Cơ dùng với danh chủ giả: \"It + be + Adj + to V\". Cấu trúc này dùng để đưa ra nhận xét hoặc đánh giá về việc thực hiện một hành động nào đó."
 		},
 		{
 			id: 9,

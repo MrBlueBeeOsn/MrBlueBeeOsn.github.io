@@ -61,7 +61,7 @@ export default function Beautiful(): React.JSX.Element {
 
       <h3 className="margin-y-50 text-center">Word Family</h3>
 
-      <p className="margin-bottom-20">Việc hiểu cách chuyển đổi giữa các loại từ giúp bạn linh hoạt hơn trong diễn đạt, đặc biệt là khi áp dụng cấu trúc tập trung vào danh cơ để mô tả tính chất.</p>
+      <p className="margin-bottom-20">Việc hiểu cách chuyển đổi giữa các loại từ giúp bạn linh hoạt hơn trong diễn đạt, đặc biệt là khi áp dụng cấu trúc tập trung vào Danh Cơ để mô tả tính chất.</p>
 
         <ul className="list-square">
 

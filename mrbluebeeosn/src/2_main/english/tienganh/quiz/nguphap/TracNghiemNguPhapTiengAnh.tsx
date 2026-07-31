@@ -78,7 +78,7 @@ export default function TracNghiemNguPhapTiengAnh(): React.JSX.Element {
 				"the day before"
 			],
 			correctAnswer: 2,
-			explanation: "Khi chuyển từ câu trực tiếp sang câu gián tiếp (Reported Speech), trạng cơ chỉ thời gian tomorrow (ngày mai) phải được đổi thành the next day hoặc the following day."
+			explanation: "Khi chuyển từ câu trực tiếp sang câu gián tiếp (Reported Speech), Trạng Cơ chỉ thời gian tomorrow (ngày mai) phải được đổi thành the next day hoặc the following day."
 		},
 		{
 			id: 6,
@@ -138,7 +138,7 @@ export default function TracNghiemNguPhapTiengAnh(): React.JSX.Element {
 				"bores"
 			],
 			correctAnswer: 0,
-			explanation: "Ta dùng tính cơ tận cùng bằng -ing (boring) để mô tả bản chất của sự vật, sự việc (bộ phim mang tính chất buồn chán). Tính cơ tận cùng bằng -ed (bored) dùng để mô tả cảm xúc của con người hoặc sinh vật."
+			explanation: "Ta dùng Tính Cơ tận cùng bằng -ing (boring) để mô tả bản chất của sự vật, sự việc (bộ phim mang tính chất buồn chán). Tính Cơ tận cùng bằng -ed (bored) dùng để mô tả cảm xúc của con người hoặc sinh vật."
 		}
 	];
 

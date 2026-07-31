@@ -33,7 +33,7 @@ export default function DichCauTiengVietSangTiengAnh(): React.JSX.Element {
 
 					<li>Thay <strong>động cơ</strong> + <strong>trạng cơ</strong> (thích → like, đang ăn → are eating, rất → very, vui vẻ → happily…)</li>
 			
-					<li>Thay danh cơ + toàn bộ <strong>danh cụm</strong> (những bông hoa đỏ đẹp → beautiful red flowers)</li>
+					<li>Thay Danh Cơ + toàn bộ <strong>danh cụm</strong> (những bông hoa đỏ đẹp → beautiful red flowers)</li>
 			
 				</ol>
 
@@ -173,7 +173,7 @@ export default function DichCauTiengVietSangTiengAnh(): React.JSX.Element {
 			
 					<li>Bước 2: chỉ thay <strong>động cơ</strong> + <strong>trạng cơ</strong> (đang → -ing, rất → very/really, vui vẻ → happily…).</li>
 			
-					<li>Bước 3: “đảo ngược” toàn bộ <strong>danh cụm</strong>: tính cơ → danh cơ.</li>
+					<li>Bước 3: “đảo ngược” toàn bộ <strong>danh cụm</strong>: Tính Cơ → danh cơ.</li>
 			
 				</ul>
 

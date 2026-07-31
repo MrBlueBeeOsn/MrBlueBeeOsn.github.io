@@ -193,7 +193,7 @@ export default function DichCauHoiTiengAnh(): React.JSX.Element {
 
 				<h3 className="margin-y-50 text-center">Bước 4: Dịch thời hành động (nếu có), hành động chính, và các bổ ngữ hoặc trạng cơ</h3>
 
-				<p>Dịch các thành phần trong dấu ngoặc đơn () từ phải sang trái (bắt đầu từ chủ từ, sau đó là thời hành động hoặc hành động chính), rồi tiếp tục với hành động chính (nếu chưa được dịch) và các bổ ngữ hoặc trạng cơ theo thứ tự tự nhiên trong tiếng Việt.</p>
+				<p>Dịch các thành phần trong dấu ngoặc đơn () từ phải sang trái (bắt đầu từ chủ từ, sau đó là thời hành động hoặc hành động chính), rồi tiếp tục với hành động chính (nếu chưa được dịch) và các bổ ngữ hoặc Trạng Cơ theo thứ tự tự nhiên trong tiếng Việt.</p>
 
 				<p className="margin-top-20">Ví dụ: Trong [<strong>What</strong>] (<strong>is English</strong>)?</p>
 
@@ -255,7 +255,7 @@ export default function DichCauHoiTiengAnh(): React.JSX.Element {
 
 			<h3 className="margin-y-50 text-center">3. Xử lý các câu hỏi phức tạp</h3>
 
-			<p>Khi câu hỏi có bổ ngữ hoặc trạng cơ phức tạp hơn, bạn vẫn áp dụng nguyên tắc tương tự, chỉ đặt hỏi từ trong dấu ngoặc vuông [] và thời hành động (hoặc hành động chính) cùng chủ từ trong dấu ngoặc đơn (), còn các thành phần khác được dịch theo thứ tự tự nhiên trong tiếng Việt.</p>
+			<p>Khi câu hỏi có bổ ngữ hoặc Trạng Cơ phức tạp hơn, bạn vẫn áp dụng nguyên tắc tương tự, chỉ đặt hỏi từ trong dấu ngoặc vuông [] và thời hành động (hoặc hành động chính) cùng chủ từ trong dấu ngoặc đơn (), còn các thành phần khác được dịch theo thứ tự tự nhiên trong tiếng Việt.</p>
 
 			<p className="margin-top-20">Ví dụ 1: [<strong>Why</strong>] (<strong>did he</strong>) <strong>run quickly to the station</strong>?</p>
 

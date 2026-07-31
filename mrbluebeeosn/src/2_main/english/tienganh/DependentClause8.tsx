@@ -153,7 +153,7 @@ export default function DependentClause8(): React.JSX.Element {
 			
 				</ul>
 			
-			<p className="margin-top-20 text-indent-whole"><strong>where</strong> = <strong>at which</strong>. Nó đứng sau danh cơ chỉ nơi chốn. Lỗi phổ biến: "where we first met at". Thừa at vì where đã mang giới cơ rồi.</p>
+			<p className="margin-top-20 text-indent-whole"><strong>where</strong> = <strong>at which</strong>. Nó đứng sau Danh Cơ chỉ nơi chốn. Lỗi phổ biến: "where we first met at". Thừa at vì where đã mang giới cơ rồi.</p>
 
 
 			<h4 className="margin-y-40">6. </h4>
@@ -165,7 +165,7 @@ export default function DependentClause8(): React.JSX.Element {
 			
 				</ul>
 			
-			<p className="margin-top-20 text-indent-whole"><strong>when</strong> = <strong>on which</strong>. Sau danh cơ chỉ thời gian, when tự nhiên hơn that. Nếu bạn viết "the day that everything changed" vẫn đúng, nhưng when tạo cảm giác kể chuyện.</p>
+			<p className="margin-top-20 text-indent-whole"><strong>when</strong> = <strong>on which</strong>. Sau Danh Cơ chỉ thời gian, when tự nhiên hơn that. Nếu bạn viết "the day that everything changed" vẫn đúng, nhưng when tạo cảm giác kể chuyện.</p>
 
 			{/* Nhóm 3: Cho câu một bối cảnh */}
 
@@ -233,7 +233,7 @@ export default function DependentClause8(): React.JSX.Element {
 					<li>Cụm đó thay được bằng "it/something" không?</li>
 					<li className="margin-bottom-20 list-none">→ <strong>noun</strong>.</li>
 			
-					<li>Bỏ đi thì danh cơ có còn rõ không?</li>
+					<li>Bỏ đi thì Danh Cơ có còn rõ không?</li>
 					<li className="margin-bottom-20 list-none">→ <strong>adjective</strong>.</li>
 			
 					<li>Trả lời khi nào/tại sao/dù gì?</li>

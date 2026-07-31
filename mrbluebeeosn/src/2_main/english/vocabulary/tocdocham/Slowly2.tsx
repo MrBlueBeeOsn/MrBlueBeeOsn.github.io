@@ -104,7 +104,7 @@ export default function Slowly2(): React.JSX.Element {
 
       </ol>
 
-      <p>** Các cụm từ trên đều nhấn mạnh tính cơ từ và sự dần dần của một quá trình hoặc hành động. Chúng thường được sử dụng để mô tả những thay đổi nhỏ nhặt nhưng liên tục theo thời gian.</p>
+      <p>** Các cụm từ trên đều nhấn mạnh Tính Cơ từ và sự dần dần của một quá trình hoặc hành động. Chúng thường được sử dụng để mô tả những thay đổi nhỏ nhặt nhưng liên tục theo thời gian.</p>
 
       {/* =============================
             Lưu ý:

@@ -148,7 +148,7 @@ export default function DependentClause3(): React.JSX.Element {
 
 			<h4 className="margin-y-40">3. Danh câu (Noun Clause)</h4>
 					
-			<p className="text-indent-whole">Hoạt động như một danh cơ trong câu.</p>
+			<p className="text-indent-whole">Hoạt động như một Danh Cơ trong câu.</p>
 			
 				<ul className="list-square">
 			

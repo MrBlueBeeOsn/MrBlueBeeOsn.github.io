@@ -116,7 +116,7 @@ export default function Accurately2(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>"<strong>Accurately</strong>" thường được đặt trước tính cơ hoặc trạng cơ để nhấn mạnh ý nghĩa của chúng.</li>
+          <li>"<strong>Accurately</strong>" thường được đặt trước Tính Cơ hoặc Trạng Cơ để nhấn mạnh ý nghĩa của chúng.</li>
 
           <li className="margin-bottom-20">Từ này thường được sử dụng trong văn nói và văn viết để tạo ấn tượng mạnh.</li>
 

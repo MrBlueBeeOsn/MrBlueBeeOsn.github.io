@@ -36,9 +36,9 @@ export default function BiMatVeTuDuyNgonNgu1(): React.JSX.Element {
 					
 			<p>Sự khác biệt về "thứ tự xuất hiện" trong câu nói chính là rào cản lớn nhất khiến chúng ta mãi bị kẹt trong vòng xoáy "dịch thầm". Hôm nay, hãy cùng giải mã <strong>Tấm bản đồ tư duy ngược</strong> – chìa khóa để bạn thực sự làm chủ ngôn ngữ này!</p>
 
-			{/* 1. Nguyên lý "Phác thảo": Tính cơ + Danh cơ (Cái nhìn định tính) */}
+			{/* 1. Nguyên lý "Phác thảo": Tính Cơ + Danh Cơ (Cái nhìn định tính) */}
 
-			<h3 className="margin-y-50 text-center">1. Nguyên lý "Phác thảo": Tính cơ + Danh cơ (Cái nhìn định tính)</h3>
+			<h3 className="margin-y-50 text-center">1. Nguyên lý "Phác thảo": Tính Cơ + Danh Cơ (Cái nhìn định tính)</h3>
 					
 			<p>Hãy tưởng tượng bạn đang nhìn vào một "<strong>Blue sky</strong>" (Bầu trời xanh).</p>
 
@@ -56,15 +56,15 @@ export default function BiMatVeTuDuyNgonNgu1(): React.JSX.Element {
 
 			<p className="margin-top-20"><strong>Ứng dụng</strong>: Hãy tập nhìn thế giới theo kiểu "Đặc điểm dẫn đường". Đừng thấy "Cô gái xinh", hãy thấy "<strong>Sự xinh đẹp</strong> (<strong>Beautiful</strong>)... <strong>của một cô gái</strong> (<strong>Girl</strong>)".</p>
 
-			{/* 2. Nguyên lý "Đạo diễn": Trạng cơ + Hành động (Sắc thái hành động) */}
+			{/* 2. Nguyên lý "Đạo diễn": Trạng Cơ + Hành động (Sắc thái hành động) */}
 
-			<h3 className="margin-y-50 text-center">2. Nguyên lý "Đạo diễn": Trạng cơ + Hành động (Sắc thái hành động)</h3>
+			<h3 className="margin-y-50 text-center">2. Nguyên lý "Đạo diễn": Trạng Cơ + Hành động (Sắc thái hành động)</h3>
 
-			<p>Nếu Tính cơ là màu sắc, thì Trạng cơ chính là <strong>nhạc nền</strong>. Tại sao họ nói "<strong>He QUIETLY opened the door</strong>"?</p>
+			<p>Nếu Tính Cơ là màu sắc, thì Trạng Cơ chính là <strong>nhạc nền</strong>. Tại sao họ nói "<strong>He QUIETLY opened the door</strong>"?</p>
 					
 			<p><strong>Lối mòn cũ</strong>: Tập trung vào hành động (Mở cửa) rồi mới thêm chú thích (Lặng lẽ). Cách này khiến câu nói của bạn bị "trơ", thiếu cảm xúc.</p>
 
-			<p><strong>Tư duy đột phá</strong>: Trạng cơ đứng trước để <strong>thiết lập bầu không khí</strong>.</p>
+			<p><strong>Tư duy đột phá</strong>: Trạng Cơ đứng trước để <strong>thiết lập bầu không khí</strong>.</p>
 			
 				<ul className="list-square">
 		

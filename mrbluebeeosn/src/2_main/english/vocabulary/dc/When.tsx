@@ -64,7 +64,7 @@ export default function When(): React.JSX.Element {
 
       <h3 className="margin-y-50 text-center">Word Family</h3>
 
-      <p className="margin-bottom-20">Từ "when" là một từ chức năng (function word) cốt lõi trong tiếng Anh, bản thân nó không biến đổi thành dạng danh cơ, hành động hay tính cơ bằng cách thêm hậu tố. Tuy nhiên, họ từ của nó bao gồm các từ ghép và trạng cơ chỉ thời gian, thời điểm dựa trên gốc từ này:</p>
+      <p className="margin-bottom-20">Từ "when" là một từ chức năng (function word) cốt lõi trong tiếng Anh, bản thân nó không biến đổi thành dạng danh cơ, hành động hay Tính Cơ bằng cách thêm hậu tố. Tuy nhiên, họ từ của nó bao gồm các từ ghép và Trạng Cơ chỉ thời gian, thời điểm dựa trên gốc từ này:</p>
 
         <ul className="list-square">
 
@@ -76,7 +76,7 @@ export default function When(): React.JSX.Element {
           <li className="list-none"><strong>______</strong> does the movie start?</li>
           <li className="margin-bottom-20 list-none"><strong>Khi nào</strong> thì bộ phim bắt đầu?</li>
 
-          <li><strong>When</strong> (Đại cơ) /wen/ - Dùng để thay thế cho một danh cơ chỉ thời gian đứng trước và nối liền với câu con quan hệ</li>
+          <li><strong>When</strong> (Đại cơ) /wen/ - Dùng để thay thế cho một Danh Cơ chỉ thời gian đứng trước và nối liền với câu con quan hệ</li>
           <li className="list-none">I will never forget the day <strong>______ we first met</strong>.</li>
           <li className="margin-bottom-20 list-none">Tôi sẽ không bao giờ quên cái ngày <strong>mà chúng ta lần đầu gặp gỡ</strong>.</li>
 
@@ -173,7 +173,7 @@ export default function When(): React.JSX.Element {
 
       <p className="margin-top-20"><strong>5. Upon</strong> /əˈpɒn/ (UK) hoặc /əˈpɑːn/ (US)</p>
 
-      <p className="text-indent-whole">Khi, ngay sau khi; giới cơ này thường đi kèm với Danh cơ hoặc V-ing để chỉ một hành động xảy ra ngay lập tức sau một hành động khác (mang sắc thái trang trọng).</p>
+      <p className="text-indent-whole">Khi, ngay sau khi; giới cơ này thường đi kèm với Danh Cơ hoặc V-ing để chỉ một hành động xảy ra ngay lập tức sau một hành động khác (mang sắc thái trang trọng).</p>
 
         <ul className="list-square">
 

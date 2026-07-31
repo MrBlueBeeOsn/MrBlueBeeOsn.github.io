@@ -53,7 +53,7 @@ export default function SapXepCumDanhTuTiengAnh(): React.JSX.Element {
 
 				</p>
 
-			<h3 className="margin-top-30 margin-bottom-50 text-center">1. Tại sao phải “tính cơ bên trái – danh cơ bên phải”?</h3>
+			<h3 className="margin-top-30 margin-bottom-50 text-center">1. Tại sao phải “tính cơ bên trái – Danh Cơ bên phải”?</h3>
 
 			<p>Tiếng Việt: đẹp → lớn → đỏ → hoa</p>
 			
@@ -90,12 +90,12 @@ export default function SapXepCumDanhTuTiengAnh(): React.JSX.Element {
 			</div>
 
 			{/* =============================
-					Bước 2: Đặt danh cơ chính (head noun) vào bên phải cùng
+					Bước 2: Đặt Danh Cơ chính (head noun) vào bên phải cùng
 			============================= */}
 
 			<div className="margin-y-15 text-border1 table-container">
 
-				<h3 className="margin-y-50 text-center">Bước 2: Đặt danh cơ chính (head noun) vào bên phải cùng</h3>
+				<h3 className="margin-y-50 text-center">Bước 2: Đặt Danh Cơ chính (head noun) vào bên phải cùng</h3>
 
 				<p>→ Danh cụm hoàn chỉnh.</p>
 
@@ -107,7 +107,7 @@ export default function SapXepCumDanhTuTiengAnh(): React.JSX.Element {
 
 						<li>Gom bên trái: three + cute + small + black</li>
 
-						<li>Đặt danh cơ bên phải: cat</li>
+						<li>Đặt Danh Cơ bên phải: cat</li>
 
 						<li className="list-none">→ <strong>three cute small black cats</strong></li>
 
@@ -119,7 +119,7 @@ export default function SapXepCumDanhTuTiengAnh(): React.JSX.Element {
 
 						<li>Gom bên trái: a + elegant + long + white + silk + French</li>
 
-						<li>Đặt danh cơ bên phải: dress</li>
+						<li>Đặt Danh Cơ bên phải: dress</li>
 
 						<li className="list-none">→ a elegant long white silk French dress</li>
 
@@ -129,7 +129,7 @@ export default function SapXepCumDanhTuTiengAnh(): React.JSX.Element {
 
 			</div>
 
-			<h3 className="margin-y-50 text-center">3. Thứ tự chuẩn các tính cơ bên trái (nhớ một lần là dùng mãi mãi)</h3>
+			<h3 className="margin-y-50 text-center">3. Thứ tự chuẩn các Tính Cơ bên trái (nhớ một lần là dùng mãi mãi)</h3>
 
 			<p>Khi đã gom hết vào bên trái, bạn chỉ cần sắp chúng theo thứ tự sau (từ trái sang phải):</p>
 
@@ -165,9 +165,9 @@ export default function SapXepCumDanhTuTiengAnh(): React.JSX.Element {
 
 					<li>Mạo từ (a/an/the) và số từ luôn đứng xa nhất bên trái.</li>
 
-					<li>Nếu có danh cơ ghép (sports car, coffee table), coi nó như một khối và đặt nó vào vị trí “material” hoặc “purpose”.</li>
+					<li>Nếu có Danh Cơ ghép (sports car, coffee table), coi nó như một khối và đặt nó vào vị trí “material” hoặc “purpose”.</li>
 
-					<li>Khi không chắc thứ tự → cứ gom hết tính cơ vào bên trái trước, rồi sắp lại theo OSASCOMP sau → vẫn đúng!</li>
+					<li>Khi không chắc thứ tự → cứ gom hết Tính Cơ vào bên trái trước, rồi sắp lại theo OSASCOMP sau → vẫn đúng!</li>
 
 				</ul>
 

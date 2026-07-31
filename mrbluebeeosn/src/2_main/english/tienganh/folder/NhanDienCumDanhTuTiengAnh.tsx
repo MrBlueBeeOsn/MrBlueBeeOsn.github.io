@@ -35,9 +35,9 @@ export default function NhanDienCumDanhTuTiengAnh(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li><strong>Tay trái</strong> = <strong>How</strong> (như thế nào): tính cơ, trạng cơ, mạo từ, số từ, danh cơ ghép…</li>
+					<li><strong>Tay trái</strong> = <strong>How</strong> (như thế nào): tính cơ, trạng cơ, mạo từ, số từ, Danh Cơ ghép…</li>
 			
-					<li><strong>Tay phải</strong> = <strong>What</strong> (cái gì): danh cơ chính luôn nằm cuối cùng</li>
+					<li><strong>Tay phải</strong> = <strong>What</strong> (cái gì): Danh Cơ chính luôn nằm cuối cùng</li>
 			
 				</ul>
 
@@ -61,7 +61,7 @@ export default function NhanDienCumDanhTuTiengAnh(): React.JSX.Element {
 				
 						<li>Một bông hoa đỏ to đẹp</li>
 				
-						<li className="list-none">→ tính cơ ý kiến (beautiful) → kích thước (big) → màu sắc (red) → danh cơ chính (flower).</li>
+						<li className="list-none">→ Tính Cơ ý kiến (beautiful) → kích thước (big) → màu sắc (red) → Danh Cơ chính (flower).</li>
 				
 					</ul>
 
@@ -81,7 +81,7 @@ export default function NhanDienCumDanhTuTiengAnh(): React.JSX.Element {
 				
 						<li>Ba con mèo đen nhỏ dễ thương</li>
 				
-						<li className="list-none">→ số từ (three) → ý kiến (cute) → kích thước (small) → màu (black) → danh cơ chính (cats).</li>
+						<li className="list-none">→ số từ (three) → ý kiến (cute) → kích thước (small) → màu (black) → Danh Cơ chính (cats).</li>
 				
 					</ul>
 
@@ -101,7 +101,7 @@ export default function NhanDienCumDanhTuTiengAnh(): React.JSX.Element {
 				
 						<li>Một chiếc bàn gỗ cũ</li>
 				
-						<li className="list-none">→ mạo từ (an) → tuổi (old) → chất liệu (wooden) → danh cơ chính (table).</li>
+						<li className="list-none">→ mạo từ (an) → tuổi (old) → chất liệu (wooden) → Danh Cơ chính (table).</li>
 				
 					</ul>
 
@@ -121,7 +121,7 @@ export default function NhanDienCumDanhTuTiengAnh(): React.JSX.Element {
 				
 						<li>Hai chiếc váy lụa Pháp thú vị</li>
 				
-						<li className="list-none">→ số từ → ý kiến → nguồn gốc → chất liệu → danh cơ chính.</li>
+						<li className="list-none">→ số từ → ý kiến → nguồn gốc → chất liệu → Danh Cơ chính.</li>
 				
 					</ul>
 
@@ -141,7 +141,7 @@ export default function NhanDienCumDanhTuTiengAnh(): React.JSX.Element {
 				
 						<li>Chiếc laptop mới của em gái tôi</li>
 				
-						<li className="list-none">→ sở hữu → quan hệ → tuổi → danh cơ chính.</li>
+						<li className="list-none">→ sở hữu → quan hệ → tuổi → Danh Cơ chính.</li>
 				
 					</ul>
 
@@ -161,7 +161,7 @@ export default function NhanDienCumDanhTuTiengAnh(): React.JSX.Element {
 				
 						<li>Một chiếc bàn ăn gỗ tròn lớn</li>
 
-						<li className="list-none">→ mạo từ → kích thước → hình dạng → chất liệu → mục đích → danh cơ chính.</li>
+						<li className="list-none">→ mạo từ → kích thước → hình dạng → chất liệu → mục đích → Danh Cơ chính.</li>
 				
 					</ul>
 
@@ -181,7 +181,7 @@ export default function NhanDienCumDanhTuTiengAnh(): React.JSX.Element {
 				
 						<li>Người đàn ông cao ráo đẹp trai mặc vest đen</li>
 				
-						<li className="list-none">→ Mạo từ → chiều cao → ngoại hình → cụm giới cơ bổ sung → danh cơ chính.</li>
+						<li className="list-none">→ Mạo từ → chiều cao → ngoại hình → cụm giới cơ bổ sung → Danh Cơ chính.</li>
 				
 					</ul>
 
@@ -201,7 +201,7 @@ export default function NhanDienCumDanhTuTiengAnh(): React.JSX.Element {
 			
 					<li><strong>Tay trái</strong> = <strong>How</strong>: gom hết tính cơ, mạo từ, số từ, trạng cơ…</li>
 			
-					<li><strong>Tay phải</strong> = <strong>What</strong>: danh cơ chính luôn nằm cuối cùng</li>
+					<li><strong>Tay phải</strong> = <strong>What</strong>: Danh Cơ chính luôn nằm cuối cùng</li>
 			
 				</ul>
 

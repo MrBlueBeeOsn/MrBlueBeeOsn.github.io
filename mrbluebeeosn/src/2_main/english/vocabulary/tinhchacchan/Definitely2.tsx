@@ -48,7 +48,7 @@ export default function Definitely2(): React.JSX.Element {
               
             </span>
               
-            &nbsp;là một trạng cơ thường được sử dụng để nhấn mạnh sự chắc chắn hoặc quyết tâm về một điều gì đó.
+            &nbsp;là một Trạng Cơ thường được sử dụng để nhấn mạnh sự chắc chắn hoặc quyết tâm về một điều gì đó.
 
           </p>
 

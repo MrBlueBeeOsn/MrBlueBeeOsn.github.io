@@ -96,11 +96,11 @@ export default function AdjPlacement7(): React.JSX.Element {
 
 			{/* 1.  */}
 
-			<h3 className="margin-y-50 text-center">1. Danh cơ trước — mô tả sau</h3>
+			<h3 className="margin-y-50 text-center">1. Danh Cơ trước — mô tả sau</h3>
 
 			<p>Điểm tương đồng khiến tiếng Anh “<strong>giống tiếng Việt hơn bạn nghĩ</strong>”</p>
 
-			<p>Trong tiếng Việt, chúng ta đặt mô tả sau danh cơ một cách tự nhiên:</p>
+			<p>Trong tiếng Việt, chúng ta đặt mô tả sau Danh Cơ một cách tự nhiên:</p>
 
 			<p className="margin-top-20"></p>
 			
@@ -116,7 +116,7 @@ export default function AdjPlacement7(): React.JSX.Element {
 			
 			<p className="margin-top-20">Ở tiếng Anh, khi cần cung cấp thông tin chi tiết, mở rộng ý hoặc lập luận chặt chẽ, người bản ngữ cũng làm đúng như vậy:</p>
 
-			<p><strong>Đưa danh cơ ra trước</strong>, rồi <strong>thả một chuỗi mô tả phía sau</strong> bằng câu con hoặc cụm phân từ.</p>
+			<p><strong>Đưa Danh Cơ ra trước</strong>, rồi <strong>thả một chuỗi mô tả phía sau</strong> bằng câu con hoặc cụm phân từ.</p>
 
 			<p className="margin-top-20">Ví dụ:</p>
 			
@@ -150,7 +150,7 @@ export default function AdjPlacement7(): React.JSX.Element {
 			
 			<p className="margin-top-20">Không phải là “thứ gì đó xa lạ”</p>
 
-			<p>Chúng đơn giản là <strong>tính cơ dài</strong>, tức <strong>câu con tính cơ</strong> (<strong>adjective clause</strong>), đóng vai trò mô tả danh cơ đứng ngay trước.</p>
+			<p>Chúng đơn giản là <strong>tính cơ dài</strong>, tức <strong>câu con tính cơ</strong> (<strong>adjective clause</strong>), đóng vai trò mô tả Danh Cơ đứng ngay trước.</p>
 			
 			<p>Về chức năng và vị trí, tiếng Anh ở đây hoàn toàn đồng bộ với tiếng Việt:</p>
 
@@ -158,15 +158,15 @@ export default function AdjPlacement7(): React.JSX.Element {
 
 			{/* 2.  */}
 
-			<h3 className="margin-y-50 text-center">2. Tại sao người bản ngữ lại nhấn mạnh danh cơ trước?</h3>
+			<h3 className="margin-y-50 text-center">2. Tại sao người bản ngữ lại nhấn mạnh Danh Cơ trước?</h3>
 			
 				<ul className="list-square">
 			
 					<li><strong>Rõ ràng và trực tiếp</strong>:</li>
-					<li className="margin-bottom-20 list-none">Mở đầu bằng danh cơ giúp người nghe/đọc biết ngay đối tượng chính, tránh lan man.</li>
+					<li className="margin-bottom-20 list-none">Mở đầu bằng Danh Cơ giúp người nghe/đọc biết ngay đối tượng chính, tránh lan man.</li>
 			
 					<li><strong>Chứa thông tin chi tiết</strong>:</li>
-					<li className="margin-bottom-20 list-none">Câu con theo sau danh cơ cho phép truyền tải nhiều dữ kiện (ai, làm gì, ở đâu, khi nào, vì sao), rất hữu ích khi viết luận, báo chí, hoặc diễn đạt lập luận.</li>
+					<li className="margin-bottom-20 list-none">Câu con theo sau Danh Cơ cho phép truyền tải nhiều dữ kiện (ai, làm gì, ở đâu, khi nào, vì sao), rất hữu ích khi viết luận, báo chí, hoặc diễn đạt lập luận.</li>
 			
 					<li><strong>Tự nhiên và linh hoạt</strong>:</li>
 					<li className="list-none">Câu con có thể được rút gọn thành cụm phân từ để câu ngắn gọn mà vẫn đầy đủ ý — giúp văn phong trở nên mượt mà, chuyên nghiệp.</li>
@@ -190,7 +190,7 @@ export default function AdjPlacement7(): React.JSX.Element {
 
 			<h3 className="margin-y-50 text-center">4. Bộ ba câu con quan trọng</h3>
 
-			<p>Nắm câu con tính cơ — hai câu con còn lại sẽ “tự động” quen</p>
+			<p>Nắm câu con Tính Cơ — hai câu con còn lại sẽ “tự động” quen</p>
 
 			<p>Khi bạn đã thành thạo <strong>câu con tính cơ</strong> (<strong>câu con mô tả</strong> sau danh cơ), hai câu con còn lại — <strong>câu con trạng ngữ</strong> (<strong>Adverbial Clause</strong>) và <strong>câu con danh cơ</strong> (<strong>Noun Clause</strong>) — sẽ trở nên dễ tiếp thu hơn rất nhiều.</p>
 
@@ -204,7 +204,7 @@ export default function AdjPlacement7(): React.JSX.Element {
 			
 			<h4 className="margin-y-40">Nghĩ theo chức năng, không bị tên gọi đánh lừa:</h4>
 					
-			<p className="text-indent-whole">Khi thấy một phần mô tả xuất hiện sau danh cơ bắt đầu bằng:</p>
+			<p className="text-indent-whole">Khi thấy một phần mô tả xuất hiện sau Danh Cơ bắt đầu bằng:</p>
 			
 				<ul className="list-square">
 			
@@ -261,7 +261,7 @@ export default function AdjPlacement7(): React.JSX.Element {
 
 			<h4 className="margin-y-40">Đọc văn viết nhiều:</h4>
 					
-			<p className="text-indent-whole">Chú ý các câu bắt đầu bằng danh cơ rồi theo sau chuỗi bổ nghĩa; bạn sẽ thấy nhịp điệu và logic của tiếng Anh dần quen thuộc.</p>
+			<p className="text-indent-whole">Chú ý các câu bắt đầu bằng Danh Cơ rồi theo sau chuỗi bổ nghĩa; bạn sẽ thấy nhịp điệu và logic của tiếng Anh dần quen thuộc.</p>
 			
 
 			{/* Kết luận */}
@@ -276,7 +276,7 @@ export default function AdjPlacement7(): React.JSX.Element {
 
 			<p>Giống tiếng Việt.</p>
 
-			<p>Hiểu và thực hành câu con tính cơ như một “<strong>tính cơ dài</strong>” đặt sau danh cơ sẽ giúp bạn giảm bớt rào cản tâm lý, viết mạch lạc hơn và tiến bộ nhanh hơn trong tiếng Anh.</p>
+			<p>Hiểu và thực hành câu con Tính Cơ như một “<strong>tính cơ dài</strong>” đặt sau Danh Cơ sẽ giúp bạn giảm bớt rào cản tâm lý, viết mạch lạc hơn và tiến bộ nhanh hơn trong tiếng Anh.</p>
 
 			<p>Khi bạn nắm vững <strong>câu con tính cơ</strong> trước, hai câu con còn lại — <strong>Adverbial Clause</strong> và <strong>Noun Clause</strong> — sẽ trở nên quen thuộc, và bạn sẽ thấy mình làm chủ tiếng Anh một cách tự nhiên và đẳng cấp.</p>
 			

@@ -348,7 +348,7 @@ export default function DependentClause7(): React.JSX.Element {
 			
 			<p className="margin-top-20 text-indent-whole">Dấu hiệu:because, although, when, while, if, since, before, after, until, unless</p>
 
-			<h4 className="margin-y-40">2. Câu con tính cơ (Adjective Clause)</h4>
+			<h4 className="margin-y-40">2. Câu con Tính Cơ (Adjective Clause)</h4>
 					
 			<p className="text-indent-whole">Bổ nghĩa cho <strong>danh cơ</strong> đứng trước nó.</p>
 			
@@ -748,7 +748,7 @@ export default function DependentClause7(): React.JSX.Element {
 			
 				</ul>
 			
-			<p className="margin-top-20">Câu cuối có <strong>ba câu con</strong>, hai phụ câu (because... và although...) và một câu con tính cơ (which...). Đây là mức độ <strong>người bản xứ</strong>.</p>
+			<p className="margin-top-20">Câu cuối có <strong>ba câu con</strong>, hai phụ câu (because... và although...) và một câu con Tính Cơ (which...). Đây là mức độ <strong>người bản xứ</strong>.</p>
 
 			{/* Kết luận */}
 

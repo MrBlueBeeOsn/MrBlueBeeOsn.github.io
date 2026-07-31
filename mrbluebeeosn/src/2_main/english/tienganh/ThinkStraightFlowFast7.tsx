@@ -51,7 +51,7 @@ export default function ThinkStraightFlowFast7(): React.JSX.Element {
 
 			<p>Bạn có bao giờ tự hỏi tại sao người Đức, Hà Lan, hay Nhật Bản học tiếng Anh "như ăn kẹo", trong khi chúng ta – những người Việt – cứ mãi vật lộn với cấu trúc câu? <strong>Bí mật nằm ở cách sắp xếp ngôn ngữ</strong>! Tiếng Anh (và nhiều ngôn ngữ khác) đặt <strong>tính cơ trước danh cơ</strong> (adj-noun), như "beautiful flower" (hoa đẹp). Tiếng Việt thì ngược lại: "hoa đẹp". Kết quả? Não bộ ta phải "quay ngược xe" mỗi khi dịch, làm chậm quá trình học.</p>
 
-			<p>Nhưng mình có cách hack não bộ siêu hiệu quả mà ít ai biết: <strong>Dịch xuôi từ trái sang phải</strong>, <strong>ưu tiên tính cơ trước danh cơ</strong>! Nghe lạ? Thử đi, bạn sẽ nghiện!</p>
+			<p>Nhưng mình có cách hack não bộ siêu hiệu quả mà ít ai biết: <strong>Dịch xuôi từ trái sang phải</strong>, <strong>ưu tiên Tính Cơ trước danh cơ</strong>! Nghe lạ? Thử đi, bạn sẽ nghiện!</p>
 
 			{/* Tại Sao Phương Pháp Này "Thần Thánh"? */}
 

@@ -106,7 +106,7 @@ export default function DependentClause9(): React.JSX.Element {
 
 			<h3 className="margin-y-50 text-center">1. Câu Con Danh Ngữ (Noun Clauses)</h3>
 
-			<p><strong>Bản chất</strong>: Danh câu hoạt động như một danh cơ trong câu. Điều này có nghĩa là chúng có thể đảm nhiệm mọi vai trò mà một danh cơ thông thường có thể làm: danh chủ, danh nhận trực tiếp, danh nhận gián tiếp, bổ ngữ cho danh chủ, hoặc danh nhận của giới cơ. Chúng biến một ý tưởng, một sự kiện thành một đối tượng mà câu có thể tác động hoặc nói về.</p>
+			<p><strong>Bản chất</strong>: Danh câu hoạt động như một Danh Cơ trong câu. Điều này có nghĩa là chúng có thể đảm nhiệm mọi vai trò mà một Danh Cơ thông thường có thể làm: danh chủ, danh nhận trực tiếp, danh nhận gián tiếp, bổ ngữ cho danh chủ, hoặc danh nhận của giới cơ. Chúng biến một ý tưởng, một sự kiện thành một đối tượng mà câu có thể tác động hoặc nói về.</p>
 
 			<p><strong>Từ liên kết điển hình</strong>: Thường bắt đầu bằng that, what, whatever, who, whoever, whom, whomever, whose, which, whichever, when, where, why, how, if, whether.</p>
 
@@ -149,7 +149,7 @@ export default function DependentClause9(): React.JSX.Element {
 			
 				</ul>
 
-			<p className="margin-top-20 text-indent-whole">Ở đây "where she lives" là câu con danh ngữ, làm danh nhận trực tiếp cho hành động "know". Câu con này trả lời cho câu hỏi "know what?" và cung cấp thông tin chi tiết về địa điểm mà người nói không rõ, thay vì chỉ một danh cơ đơn thuần. Nó mở rộng khả năng diễn đạt của động cơ, cho phép nó tác động lên một ý tưởng phức tạp, thể hiện sự thiếu thông tin một cách rõ ràng và tự nhiên hơn.</p>
+			<p className="margin-top-20 text-indent-whole">Ở đây "where she lives" là câu con danh ngữ, làm danh nhận trực tiếp cho hành động "know". Câu con này trả lời cho câu hỏi "know what?" và cung cấp thông tin chi tiết về địa điểm mà người nói không rõ, thay vì chỉ một Danh Cơ đơn thuần. Nó mở rộng khả năng diễn đạt của động cơ, cho phép nó tác động lên một ý tưởng phức tạp, thể hiện sự thiếu thông tin một cách rõ ràng và tự nhiên hơn.</p>
 
 			<p className="text-indent-whole">Thay vì nói:</p>
 			
@@ -184,7 +184,7 @@ export default function DependentClause9(): React.JSX.Element {
 			
 				</ul>
 					
-			<p className="margin-top-20 text-indent-whole">Là câu con danh ngữ, làm bổ ngữ cho danh chủ "The problem". Nó không chỉ nêu vấn đề mà còn định nghĩa bản chất của vấn đề đó, mang lại sự rõ ràng và đầy đủ cho thông tin, giúp người đọc hiểu sâu sắc hơn về tình huống. Đây là cách hiệu quả để cung cấp một lời giải thích toàn diện cho một khái niệm, biến một vấn đề thành một sự thật hiển nhiên, thay vì chỉ một tính cơ đơn thuần như:</p>
+			<p className="margin-top-20 text-indent-whole">Là câu con danh ngữ, làm bổ ngữ cho danh chủ "The problem". Nó không chỉ nêu vấn đề mà còn định nghĩa bản chất của vấn đề đó, mang lại sự rõ ràng và đầy đủ cho thông tin, giúp người đọc hiểu sâu sắc hơn về tình huống. Đây là cách hiệu quả để cung cấp một lời giải thích toàn diện cho một khái niệm, biến một vấn đề thành một sự thật hiển nhiên, thay vì chỉ một Tính Cơ đơn thuần như:</p>
 			
 				<ul className="list-square">
 			
@@ -205,7 +205,7 @@ export default function DependentClause9(): React.JSX.Element {
 			
 				</ul>
 
-			<p className="margin-top-20 text-indent-whole">Nơi "what will happen next" là câu con danh ngữ, làm đối tượng của giới cơ "about". Câu con này cho phép chúng ta diễn đạt sự lo lắng về một sự kiện hoặc tình huống chưa xác định, thay vì chỉ một danh cơ cụ thể, thể hiện sự linh hoạt trong việc biểu đạt cảm xúc và suy nghĩ về tương lai. Nó cho phép giới cơ chi phối một ý tưởng phức tạp, làm cho câu văn trở nên uyển chuyển và giàu sắc thái hơn.</p>
+			<p className="margin-top-20 text-indent-whole">Nơi "what will happen next" là câu con danh ngữ, làm đối tượng của giới cơ "about". Câu con này cho phép chúng ta diễn đạt sự lo lắng về một sự kiện hoặc tình huống chưa xác định, thay vì chỉ một Danh Cơ cụ thể, thể hiện sự linh hoạt trong việc biểu đạt cảm xúc và suy nghĩ về tương lai. Nó cho phép giới cơ chi phối một ý tưởng phức tạp, làm cho câu văn trở nên uyển chuyển và giàu sắc thái hơn.</p>
 					
 			<p className="text-indent-whole">Thay vì:</p>
 			
@@ -223,9 +223,9 @@ export default function DependentClause9(): React.JSX.Element {
 
 			<h3 className="margin-y-50 text-center">2. Câu Con Tính Ngữ (Adjective Clauses / Relative Clauses)</h3>
 
-			<p><strong>Bản chất</strong>: Câu con tính ngữ có chức năng như một tính cơ, tức là chúng bổ nghĩa cho một danh cơ hoặc đại cơ đứng ngay trước nó (gọi là tiền ngữ - antecedent). Chúng cung cấp thông tin chi tiết hơn, giúp làm rõ, xác định hoặc bổ sung thông tin cho danh cơ đó, giống như cách một tính cơ đơn lẻ làm nhưng với khả năng diễn đạt phức tạp hơn, cho phép mô tả cả một hành động hoặc tình huống liên quan đến danh cơ, làm cho danh cơ trở nên cụ thể và sống động hơn.</p>
+			<p><strong>Bản chất</strong>: Câu con tính ngữ có chức năng như một tính cơ, tức là chúng bổ nghĩa cho một Danh Cơ hoặc đại cơ đứng ngay trước nó (gọi là tiền ngữ - antecedent). Chúng cung cấp thông tin chi tiết hơn, giúp làm rõ, xác định hoặc bổ sung thông tin cho Danh Cơ đó, giống như cách một Tính Cơ đơn lẻ làm nhưng với khả năng diễn đạt phức tạp hơn, cho phép mô tả cả một hành động hoặc tình huống liên quan đến danh cơ, làm cho Danh Cơ trở nên cụ thể và sống động hơn.</p>
 
-			<p><strong>Từ liên kết điển hình</strong>: Thường bắt đầu bằng các đại cơ quan hệ (who, whom, whose, which, that) hoặc trạng cơ quan hệ (where, when, why).</p>
+			<p><strong>Từ liên kết điển hình</strong>: Thường bắt đầu bằng các đại cơ quan hệ (who, whom, whose, which, that) hoặc Trạng Cơ quan hệ (where, when, why).</p>
 
 			<p>Phân tích chi tiết các ví dụ:</p>
 
@@ -242,7 +242,7 @@ export default function DependentClause9(): React.JSX.Element {
 			
 				</ul>
 
-			<p className="margin-top-20 text-indent-whole">Làm rõ học sinh nào sẽ thành công. Ở đây, "who studies hard" là câu con tính ngữ, bổ nghĩa cho danh cơ "student". "Who" đóng vai trò danh chủ của câu con tính ngữ, liên kết hành động "studies hard" với danh cơ "student", giúp xác định chính xác đối tượng được nhắc đến và nhấn mạnh phẩm chất của họ. Đây là cách hiệu quả để phân biệt một cá nhân trong một nhóm lớn, mang lại sự rõ ràng và tập trung. </p>
+			<p className="margin-top-20 text-indent-whole">Làm rõ học sinh nào sẽ thành công. Ở đây, "who studies hard" là câu con tính ngữ, bổ nghĩa cho Danh Cơ "student". "Who" đóng vai trò danh chủ của câu con tính ngữ, liên kết hành động "studies hard" với Danh Cơ "student", giúp xác định chính xác đối tượng được nhắc đến và nhấn mạnh phẩm chất của họ. Đây là cách hiệu quả để phân biệt một cá nhân trong một nhóm lớn, mang lại sự rõ ràng và tập trung. </p>
 
 			<p className="text-indent-whole">Nếu chỉ nói:</p>
 			
@@ -278,7 +278,7 @@ export default function DependentClause9(): React.JSX.Element {
 			
 				</ul>
 			
-			<p className="margin-top-20 text-indent-whole">Câu con "that I bought" là câu con tính ngữ, bổ nghĩa cho "book". "That" ở đây đóng vai trò danh nhận của hành động "bought" trong câu con tính ngữ, cho phép chúng ta chỉ định một vật thể thông qua một hành động liên quan đến nó, thay vì chỉ một tính cơ chung chung, làm cho mô tả trở nên cụ thể và dễ hình dung. Điều này giúp tránh sự mơ hồ và làm cho thông tin trở nên chính xác hơn, tạo nên sự rõ ràng trong giao tiếp.</p>
+			<p className="margin-top-20 text-indent-whole">Câu con "that I bought" là câu con tính ngữ, bổ nghĩa cho "book". "That" ở đây đóng vai trò danh nhận của hành động "bought" trong câu con tính ngữ, cho phép chúng ta chỉ định một vật thể thông qua một hành động liên quan đến nó, thay vì chỉ một Tính Cơ chung chung, làm cho mô tả trở nên cụ thể và dễ hình dung. Điều này giúp tránh sự mơ hồ và làm cho thông tin trở nên chính xác hơn, tạo nên sự rõ ràng trong giao tiếp.</p>
 
 			<p className="text-indent-whole">Thay vì:</p>
 
@@ -294,7 +294,7 @@ export default function DependentClause9(): React.JSX.Element {
 
 			<h4 className="margin-y-40">Bổ nghĩa cho nơi chốn/thời gian/lý do:</h4>
 
-			<p className="text-indent-whole">Ngoài ra, các trạng cơ quan hệ như where, when, why được dùng để bổ nghĩa cho nơi chốn, thời gian hoặc lý do.</p>
+			<p className="text-indent-whole">Ngoài ra, các Trạng Cơ quan hệ như where, when, why được dùng để bổ nghĩa cho nơi chốn, thời gian hoặc lý do.</p>
 			
 				<ul className="list-square">
 			
@@ -303,7 +303,7 @@ export default function DependentClause9(): React.JSX.Element {
 			
 				</ul>
 			
-			<p className="margin-top-20 text-indent-whole">Cung cấp thông tin về địa điểm cụ thể của ngôi nhà. "Where I grew up" là câu con tính ngữ, bổ nghĩa cho "house". "Where" liên kết câu con phụ với tiền ngữ và chỉ nơi chốn, không chỉ là một tính cơ mô tả mà là một câu con giải thích cả một quá trình, mang lại cảm giác gần gũi và chi tiết hơn về nơi chốn đó.</p>
+			<p className="margin-top-20 text-indent-whole">Cung cấp thông tin về địa điểm cụ thể của ngôi nhà. "Where I grew up" là câu con tính ngữ, bổ nghĩa cho "house". "Where" liên kết câu con phụ với tiền ngữ và chỉ nơi chốn, không chỉ là một Tính Cơ mô tả mà là một câu con giải thích cả một quá trình, mang lại cảm giác gần gũi và chi tiết hơn về nơi chốn đó.</p>
 					
 			<p className="text-indent-whole">Tương tự:</p>
 			
@@ -321,7 +321,7 @@ export default function DependentClause9(): React.JSX.Element {
 
 			<h3 className="margin-y-50 text-center">3. Câu Con Trạng Ngữ (Adverb Clauses)</h3>
 
-			<p><strong>Bản chất</strong>: Trạng câu hoạt động như một trạng cơ, bổ nghĩa cho động cơ, tính cơ, trạng cơ khác hoặc cả câu con chính. Chúng là những "người kể chuyện" về ngữ cảnh, cung cấp thông tin về thời gian, địa điểm, cách thức, nguyên nhân, mục đích, điều kiện, sự nhượng bộ, kết quả, hoặc so sánh. Đây là loại phụ câu đa dạng và linh hoạt nhất, mang đến sự phong phú cho câu văn, cho phép người viết thêm vào các lớp nghĩa sâu sắc và phức tạp, tạo nên sự liên kết logic chặt chẽ giữa các sự kiện.</p>
+			<p><strong>Bản chất</strong>: Trạng câu hoạt động như một trạng cơ, bổ nghĩa cho động cơ, tính cơ, Trạng Cơ khác hoặc cả câu con chính. Chúng là những "người kể chuyện" về ngữ cảnh, cung cấp thông tin về thời gian, địa điểm, cách thức, nguyên nhân, mục đích, điều kiện, sự nhượng bộ, kết quả, hoặc so sánh. Đây là loại phụ câu đa dạng và linh hoạt nhất, mang đến sự phong phú cho câu văn, cho phép người viết thêm vào các lớp nghĩa sâu sắc và phức tạp, tạo nên sự liên kết logic chặt chẽ giữa các sự kiện.</p>
 
 			<p><strong>Từ liên kết điển hình</strong>: Là nhóm từ phong phú nhất, bao gồm because, although, if, since, while, unless, when, after, before, as, though, even though, whereas, in order that, so that, than, rather than, whether, provided that, as long as, as soon as, by the time, once, till, until, where, wherever, while, why, how, as if, as though, in case, lest, now that, supposing.</p>
 
@@ -434,7 +434,7 @@ export default function DependentClause9(): React.JSX.Element {
 			
 				</ul>
 			
-			<p className="margin-top-20 text-indent-whole">Câu con "so cold that the water froze" là câu con trạng ngữ chỉ kết quả, bổ nghĩa cho tính cơ "cold". Câu con này diễn tả kết quả trực tiếp và không thể tránh khỏi của việc trời lạnh, tạo ra sự liên kết chặt chẽ giữa nguyên nhân và hệ quả, làm cho thông tin trở nên thuyết phục hơn và nhấn mạnh mức độ của tình huống. Nó cho phép người viết thể hiện cường độ của một sự việc một cách ấn tượng.</p>
+			<p className="margin-top-20 text-indent-whole">Câu con "so cold that the water froze" là câu con trạng ngữ chỉ kết quả, bổ nghĩa cho Tính Cơ "cold". Câu con này diễn tả kết quả trực tiếp và không thể tránh khỏi của việc trời lạnh, tạo ra sự liên kết chặt chẽ giữa nguyên nhân và hệ quả, làm cho thông tin trở nên thuyết phục hơn và nhấn mạnh mức độ của tình huống. Nó cho phép người viết thể hiện cường độ của một sự việc một cách ấn tượng.</p>
 
 			{/* Làm Chủ Phụ Câu: Nâng Tầm Tư Duy Ngôn Ngữ */}
 

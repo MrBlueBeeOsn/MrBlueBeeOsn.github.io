@@ -32,7 +32,7 @@ export default function DichCumDongTuTiengAnh(): React.JSX.Element {
 
 			{/* This is the content of English Learning Term. */}
 
-			<p>Trong tiếng Anh, động cụm (verb phrases) thường bao gồm hành động chính kết hợp với các trạng cơ hoặc bổ ngữ, tạo nên ý nghĩa hoàn chỉnh. Khác với tiếng Việt, nơi trạng cơ thường đứng trước động cơ, trong tiếng Anh, trạng cơ hoặc các bổ ngữ thường đứng sau hành động chính. Để dịch động cụm sang tiếng Việt một cách tự nhiên và đúng ngữ pháp, bạn có thể áp dụng nguyên tắc "<strong>Động Cơ dịch trước</strong>, <strong>Trạng Cơ dịch sau</strong>", đồng thời đặt các trạng cơ hoặc bổ ngữ vào dấu ngoặc đơn trong cấu trúc động cụm để dễ nhận diện và xử lý. Bài viết này sẽ hướng dẫn chi tiết cách thực hiện phương pháp này.</p>
+			<p>Trong tiếng Anh, động cụm (verb phrases) thường bao gồm hành động chính kết hợp với các Trạng Cơ hoặc bổ ngữ, tạo nên ý nghĩa hoàn chỉnh. Khác với tiếng Việt, nơi Trạng Cơ thường đứng trước động cơ, trong tiếng Anh, Trạng Cơ hoặc các bổ ngữ thường đứng sau hành động chính. Để dịch động cụm sang tiếng Việt một cách tự nhiên và đúng ngữ pháp, bạn có thể áp dụng nguyên tắc "<strong>Động Cơ dịch trước</strong>, <strong>Trạng Cơ dịch sau</strong>", đồng thời đặt các Trạng Cơ hoặc bổ ngữ vào dấu ngoặc đơn trong cấu trúc động cụm để dễ nhận diện và xử lý. Bài viết này sẽ hướng dẫn chi tiết cách thực hiện phương pháp này.</p>
 
 				<p className="margin-y-50 text-center">
 
@@ -52,13 +52,13 @@ export default function DichCumDongTuTiengAnh(): React.JSX.Element {
 
 					<li><strong>Động cơ chính</strong> (<strong>head verb</strong>): Là từ cốt lõi, mang ý nghĩa chính của hành động, thường nằm ở vị trí đầu tiên trong động cụm.</li>
 
-					<li><strong>Các thành phần bổ nghĩa</strong>: Bao gồm trạng cơ (adverbs), cụm giới cơ (prepositional phrases), hoặc các bổ ngữ khác, thường đứng sau hành động chính để bổ sung ý nghĩa về cách thức, thời gian, địa điểm, hoặc mức độ.</li>
+					<li><strong>Các thành phần bổ nghĩa</strong>: Bao gồm Trạng Cơ (adverbs), cụm giới cơ (prepositional phrases), hoặc các bổ ngữ khác, thường đứng sau hành động chính để bổ sung ý nghĩa về cách thức, thời gian, địa điểm, hoặc mức độ.</li>
 
 				</ul>
 			
-			<p className="margin-top-20">Ví dụ: Trong cụm <strong>run quickly up the hill</strong>, hành động chính là <strong>run</strong>, còn <strong>quickly</strong> và <strong>up the hill</strong> là các trạng cơ và bổ ngữ. Khi đặt vào ngoặc đơn, ta có: <strong>run</strong> (<strong>quickly up the hill</strong>).</p>
+			<p className="margin-top-20">Ví dụ: Trong cụm <strong>run quickly up the hill</strong>, hành động chính là <strong>run</strong>, còn <strong>quickly</strong> và <strong>up the hill</strong> là các Trạng Cơ và bổ ngữ. Khi đặt vào ngoặc đơn, ta có: <strong>run</strong> (<strong>quickly up the hill</strong>).</p>
 
-			<p>Khi dịch sang tiếng Việt, cấu trúc này cần được đảo ngược để hành động đứng trước, còn các trạng cơ và bổ ngữ đứng sau, với các trạng cơ hoặc bổ ngữ được nhận diện từ dấu ngoặc đơn.</p>
+			<p>Khi dịch sang tiếng Việt, cấu trúc này cần được đảo ngược để hành động đứng trước, còn các Trạng Cơ và bổ ngữ đứng sau, với các Trạng Cơ hoặc bổ ngữ được nhận diện từ dấu ngoặc đơn.</p>
 
 			<h3 className="margin-y-50 text-center">2. Các bước dịch động cụm</h3>
 
@@ -85,14 +85,14 @@ export default function DichCumDongTuTiengAnh(): React.JSX.Element {
 			</div>
 
 			{/* =============================
-					Bước 2: Đặt các trạng cơ hoặc bổ ngữ vào dấu ngoặc đơn
+					Bước 2: Đặt các Trạng Cơ hoặc bổ ngữ vào dấu ngoặc đơn
 			============================= */}
 
 			<div className="margin-y-15 text-border1 table-container">
 
-				<h3 className="margin-y-50 text-center">Bước 2: Đặt các trạng cơ hoặc bổ ngữ vào dấu ngoặc đơn</h3>
+				<h3 className="margin-y-50 text-center">Bước 2: Đặt các Trạng Cơ hoặc bổ ngữ vào dấu ngoặc đơn</h3>
 
-				<p>Liệt kê các trạng cơ hoặc bổ ngữ đứng sau hành động chính và đặt chúng vào dấu ngoặc đơn trong cấu trúc động cụm. Các thành phần này sẽ được dịch sau hành động chính.</p>
+				<p>Liệt kê các Trạng Cơ hoặc bổ ngữ đứng sau hành động chính và đặt chúng vào dấu ngoặc đơn trong cấu trúc động cụm. Các thành phần này sẽ được dịch sau hành động chính.</p>
 
 					<ul className="list-square">
 
@@ -119,14 +119,14 @@ export default function DichCumDongTuTiengAnh(): React.JSX.Element {
 			</div>
 
 			{/* =============================
-					Bước 4: Dịch các trạng cơ hoặc bổ ngữ từ phải sang trái
+					Bước 4: Dịch các Trạng Cơ hoặc bổ ngữ từ phải sang trái
 			============================= */}
 
 			<div className="margin-y-15 text-border1 table-container">
 
-				<h3 className="margin-y-50 text-center">Bước 4: Dịch các trạng cơ hoặc bổ ngữ từ phải sang trái</h3>
+				<h3 className="margin-y-50 text-center">Bước 4: Dịch các Trạng Cơ hoặc bổ ngữ từ phải sang trái</h3>
 
-				<p>Dịch các trạng cơ hoặc bổ ngữ trong dấu ngoặc đơn theo thứ tự từ phải sang trái để phù hợp với ngữ pháp tiếng Việt.</p>
+				<p>Dịch các Trạng Cơ hoặc bổ ngữ trong dấu ngoặc đơn theo thứ tự từ phải sang trái để phù hợp với ngữ pháp tiếng Việt.</p>
 
 				<p className="margin-top-20">Ví dụ: <strong>walk</strong> (<strong>slowly in the park</strong>)</p>
 
@@ -158,7 +158,7 @@ export default function DichCumDongTuTiengAnh(): React.JSX.Element {
 
 			<h3 className="margin-y-50 text-center">3. Xử lý các động cụm phức tạp</h3>
 
-			<p>Khi động cụm có bổ ngữ phức tạp hơn, như cụm giới cơ hoặc câu con bổ nghĩa, bạn vẫn áp dụng nguyên tắc tương tự, nhưng chỉ đặt trạng cơ hoặc bổ ngữ trực tiếp liên quan đến cách thức, thời gian, hoặc địa điểm vào dấu ngoặc đơn, còn các thành phần khác được xử lý riêng.</p>
+			<p>Khi động cụm có bổ ngữ phức tạp hơn, như cụm giới cơ hoặc câu con bổ nghĩa, bạn vẫn áp dụng nguyên tắc tương tự, nhưng chỉ đặt Trạng Cơ hoặc bổ ngữ trực tiếp liên quan đến cách thức, thời gian, hoặc địa điểm vào dấu ngoặc đơn, còn các thành phần khác được xử lý riêng.</p>
 
 			<p className="margin-top-20">Ví dụ 1: look carefully at the picture</p>
 
@@ -204,11 +204,11 @@ export default function DichCumDongTuTiengAnh(): React.JSX.Element {
 
 				<ul className="list-square">
 
-					<li><strong>Thứ tự trạng cơ trong tiếng Anh</strong>: Tiếng Anh thường sắp xếp trạng cơ theo thứ tự: cách thức (manner) → địa điểm (place) → thời gian (time). Khi đặt vào dấu ngoặc đơn, bạn giữ nguyên thứ tự này trong cấu trúc như <strong>động cơ</strong> (<strong>trạng cơ bổ ngữ</strong>), nhưng khi dịch, bạn đảo ngược từ phải sang trái để phù hợp với ngữ cảm tiếng Việt.</li>
+					<li><strong>Thứ tự Trạng Cơ trong tiếng Anh</strong>: Tiếng Anh thường sắp xếp Trạng Cơ theo thứ tự: cách thức (manner) → địa điểm (place) → thời gian (time). Khi đặt vào dấu ngoặc đơn, bạn giữ nguyên thứ tự này trong cấu trúc như <strong>động cơ</strong> (<strong>trạng cơ bổ ngữ</strong>), nhưng khi dịch, bạn đảo ngược từ phải sang trái để phù hợp với ngữ cảm tiếng Việt.</li>
 
-					<li><strong>Ngữ cảm tự nhiên</strong>: Trong một số trường hợp, bạn có thể cần điều chỉnh thứ tự trạng cơ để câu văn tiếng Việt nghe mượt mà hơn. Ví dụ: <strong>run</strong> (<strong>quickly up the hill</strong>) được dịch là chạy lên đồi nhanh chóng, nhưng có thể điều chỉnh thành chạy nhanh lên đồi để tự nhiên hơn trong ngữ cảnh cụ thể.</li>
+					<li><strong>Ngữ cảm tự nhiên</strong>: Trong một số trường hợp, bạn có thể cần điều chỉnh thứ tự Trạng Cơ để câu văn tiếng Việt nghe mượt mà hơn. Ví dụ: <strong>run</strong> (<strong>quickly up the hill</strong>) được dịch là chạy lên đồi nhanh chóng, nhưng có thể điều chỉnh thành chạy nhanh lên đồi để tự nhiên hơn trong ngữ cảnh cụ thể.</li>
 
-					<li><strong>Bổ ngữ phức tạp</strong>: Với các cụm có bổ ngữ dài (như câu con bổ nghĩa), chỉ đặt trạng cơ hoặc bổ ngữ trực tiếp vào ngoặc đơn, còn các thành phần khác được dịch sau hành động chính theo cách thông thường.</li>
+					<li><strong>Bổ ngữ phức tạp</strong>: Với các cụm có bổ ngữ dài (như câu con bổ nghĩa), chỉ đặt Trạng Cơ hoặc bổ ngữ trực tiếp vào ngoặc đơn, còn các thành phần khác được dịch sau hành động chính theo cách thông thường.</li>
 
 					<li><strong>Trạng cơ và cụm giới cơ</strong>: Các cụm giới cơ (như <strong>up the hill</strong>, <strong>at the concert</strong>) thường được xem như một đơn vị bổ nghĩa và được dịch nguyên vẹn sau động cơ.</li>
 
@@ -216,7 +216,7 @@ export default function DichCumDongTuTiengAnh(): React.JSX.Element {
 			
 			<h3 className="margin-y-50 text-center">5. Kết luận</h3>
 			
-			<p>Phương pháp dịch động cụm tiếng Anh theo nguyên tắc "<strong>Động Cơ dịch trước</strong>, <strong>Trạng Cơ dịch sau</strong>", kết hợp với việc đặt các trạng cơ và bổ ngữ vào dấu ngoặc đơn trong cấu trúc <strong>động cơ</strong> (<strong>trạng cơ bổ ngữ</strong>), giúp người học dễ dàng nhận diện và sắp xếp các thành phần bổ nghĩa. Bằng cách xác định hành động chính trước, đặt các trạng cơ/bổ ngữ vào ngoặc, và dịch chúng từ phải sang trái, bạn có thể tạo ra câu văn tiếng Việt tự nhiên và đúng ngữ pháp. Thực hành thường xuyên với các ví dụ cụ thể sẽ giúp bạn nắm vững kỹ năng này.</p>
+			<p>Phương pháp dịch động cụm tiếng Anh theo nguyên tắc "<strong>Động Cơ dịch trước</strong>, <strong>Trạng Cơ dịch sau</strong>", kết hợp với việc đặt các Trạng Cơ và bổ ngữ vào dấu ngoặc đơn trong cấu trúc <strong>động cơ</strong> (<strong>trạng cơ bổ ngữ</strong>), giúp người học dễ dàng nhận diện và sắp xếp các thành phần bổ nghĩa. Bằng cách xác định hành động chính trước, đặt các trạng cơ/bổ ngữ vào ngoặc, và dịch chúng từ phải sang trái, bạn có thể tạo ra câu văn tiếng Việt tự nhiên và đúng ngữ pháp. Thực hành thường xuyên với các ví dụ cụ thể sẽ giúp bạn nắm vững kỹ năng này.</p>
 
 			<div className="viewcounter">
 			

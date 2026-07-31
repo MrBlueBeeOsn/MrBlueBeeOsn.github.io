@@ -382,7 +382,7 @@ export default function ThreeDC7(): React.ReactElement {
 
 			{/* 4.  */}
 
-			<h3 className="margin-y-50 text-center">4. Câu con tính cơ (Adjective Clause / Relative Clause)</h3>
+			<h3 className="margin-y-50 text-center">4. Câu con Tính Cơ (Adjective Clause / Relative Clause)</h3>
 
 			<p></p>
 
@@ -418,7 +418,7 @@ export default function ThreeDC7(): React.ReactElement {
 			<p className="margin-top-20 text-indent-whole"></p>
 
 
-			<h4 className="margin-y-40">4.3. Đại cơ & trạng cơ quan hệ thường gặp</h4>
+			<h4 className="margin-y-40">4.3. Đại cơ & Trạng Cơ quan hệ thường gặp</h4>
 
 			<p className="margin-top-20"></p>
 			
@@ -848,7 +848,7 @@ export default function ThreeDC7(): React.ReactElement {
 			<p className="margin-top-20 text-indent-whole"></p>
 
 
-			<h4 className="margin-y-40">Câu con tính cơ (Adjective Clause)</h4>
+			<h4 className="margin-y-40">Câu con Tính Cơ (Adjective Clause)</h4>
 					
 			<p className="text-indent-whole"></p>
 

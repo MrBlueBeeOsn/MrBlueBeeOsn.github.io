@@ -50,7 +50,7 @@ export default function Repeatedly2(): React.JSX.Element {
               
             </span>
               
-            &nbsp;là một trạng cơ chỉ việc làm điều gì đó nhiều lần, liên tục.
+            &nbsp;là một Trạng Cơ chỉ việc làm điều gì đó nhiều lần, liên tục.
 
           </p>
 

@@ -197,7 +197,7 @@ export default function SentenceVariety7(): React.JSX.Element {
 			
 				</ul>
 			
-			<p className="margin-top-20">Câu cuối có ba câu con, hai phụ câu (because... và although...) và một câu con tính cơ (which...). Đây là mức độ người bản xứ.</p>
+			<p className="margin-top-20">Câu cuối có ba câu con, hai phụ câu (because... và although...) và một câu con Tính Cơ (which...). Đây là mức độ người bản xứ.</p>
 
 			{/* Kết luận */}
 

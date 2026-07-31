@@ -48,7 +48,7 @@ export default function Maybe2(): React.JSX.Element {
               
             </span>
               
-            &nbsp;là một trạng cơ thường được dùng để diễn tả sự không chắc chắn, khả năng xảy ra một điều gì đó.
+            &nbsp;là một Trạng Cơ thường được dùng để diễn tả sự không chắc chắn, khả năng xảy ra một điều gì đó.
 
           </p>
 

@@ -48,7 +48,7 @@ export default function Lazily2(): React.JSX.Element {
               
             </span>
               
-            &nbsp;là một trạng cơ dùng để miêu tả một hành động được thực hiện một cách chậm rãi, thiếu năng lượng và không có sự cố gắng.
+            &nbsp;là một Trạng Cơ dùng để miêu tả một hành động được thực hiện một cách chậm rãi, thiếu năng lượng và không có sự cố gắng.
 
           </p>
 

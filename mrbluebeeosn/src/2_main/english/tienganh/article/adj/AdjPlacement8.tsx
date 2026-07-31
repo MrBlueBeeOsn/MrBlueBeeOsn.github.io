@@ -72,9 +72,9 @@ export default function AdjPlacement8(): React.JSX.Element {
 
 			<p>Niềm tin này đủ dùng cho câu đơn. Nhưng càng viết dài, càng thuyết trình, càng làm việc bằng tiếng Anh, niềm tin đó càng kéo lùi.</p>
 			
-			<p>Vì ở tầng cao hơn, tiếng Anh không nhồi tính cơ lên trước. Nó làm đúng như tiếng Việt: </p>
+			<p>Vì ở tầng cao hơn, tiếng Anh không nhồi Tính Cơ lên trước. Nó làm đúng như tiếng Việt: </p>
 
-			<p className="margin-y-20 text-indent-whole"><strong>Nêu danh cơ trước</strong>, rồi <strong>thả cả thế giới mô tả theo sau</strong>.</p>
+			<p className="margin-y-20 text-indent-whole"><strong>Nêu Danh Cơ trước</strong>, rồi <strong>thả cả thế giới mô tả theo sau</strong>.</p>
 	
 			
 			{/* 1.  */}
@@ -83,7 +83,7 @@ export default function AdjPlacement8(): React.JSX.Element {
 
 			<p>Ngôn ngữ là công cụ điều hướng sự chú ý. Tiếng Anh cho hai vị trí, mỗi vị trí là một lựa chọn nhấn.</p>
 
-			<h4 className="margin-y-40">Danh cơ trước, tính cơ sau – nhấn vào vật thể.</h4>
+			<h4 className="margin-y-40">Danh cơ trước, Tính Cơ sau – nhấn vào vật thể.</h4>
 					
 			<p className="text-indent-whole">Bạn muốn người nghe biết đang nói về cái nào trước đã.</p>
 			
@@ -103,7 +103,7 @@ export default function AdjPlacement8(): React.JSX.Element {
 			<p className="margin-top-20 text-indent-whole">Trọng tâm nằm ở <strong>house</strong>, <strong>man</strong>, <strong>something</strong>. Phần sau chỉ là ống kính zoom vào.</p>
 
 			
-			<h4 className="margin-y-40">Tính cơ trước danh cơ – nhấn vào phẩm chất.</h4>
+			<h4 className="margin-y-40">Tính cơ trước Danh Cơ – nhấn vào phẩm chất.</h4>
 					
 			<p className="text-indent-whole">Bạn muốn biến phẩm chất thành nhãn dán.</p>
 			
@@ -134,7 +134,7 @@ export default function AdjPlacement8(): React.JSX.Element {
 
 			<h4 className="margin-y-40">2.1. Adjective Clause – máy quay</h4>
 					
-			<p className="text-indent-whole">Đây là <strong>câu con tính cơ</strong>. Nó không đứng một mình, nó <strong>bám vào danh cơ</strong> và kể chuyện về danh cơ đó.</p>
+			<p className="text-indent-whole">Đây là <strong>câu con tính cơ</strong>. Nó không đứng một mình, nó <strong>bám vào danh cơ</strong> và kể chuyện về Danh Cơ đó.</p>
 
 			<p className="text-indent-whole">Có hai cách dùng tinh tế:</p>
 
@@ -352,7 +352,7 @@ export default function AdjPlacement8(): React.JSX.Element {
 
 			<p>Thực hành không cần giáo trình.</p>
 
-			<p>Lấy một danh cơ bất kỳ trong công việc: <strong>the proposal</strong>, <strong>the decision</strong>, <strong>the risk</strong>.</p>
+			<p>Lấy một Danh Cơ bất kỳ trong công việc: <strong>the proposal</strong>, <strong>the decision</strong>, <strong>the risk</strong>.</p>
 
 			<p className="margin-y-40"><strong>Viết ba phiên bản</strong>:</p>
 

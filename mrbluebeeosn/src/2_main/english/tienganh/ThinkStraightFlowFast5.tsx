@@ -198,7 +198,7 @@ export default function ThinkStraightFlowFast5(): React.JSX.Element {
 					</tbody>
 				</table>
 			
-			<h4 className="margin-y-20">Cách 2: Danh cơ hóa (tự nhiên hơn)</h4>
+			<h4 className="margin-y-20">Cách 2: Danh Cơ hóa (tự nhiên hơn)</h4>
 
 				<table className="margin-top-20 margin-bottom-50">
 					<thead>

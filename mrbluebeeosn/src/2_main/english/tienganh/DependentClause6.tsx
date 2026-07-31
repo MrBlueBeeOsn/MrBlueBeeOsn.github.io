@@ -83,7 +83,7 @@ export default function DependentClause6(): React.JSX.Element {
 					<li>The house <strong>which stands near the river</strong> is old.</li>
 					<li className="margin-bottom-20 list-none">Ngôi nhà nằm cạnh bờ sông đã cũ rồi.</li>
 
-					<li className="margin-bottom-20 list-none">→ “which stands near the river” mô tả danh cơ the house. Đây là câu con quan hệ.</li>
+					<li className="margin-bottom-20 list-none">→ “which stands near the river” mô tả Danh Cơ the house. Đây là câu con quan hệ.</li>
 			
 					<li><strong>What you choose</strong> will affect your future.</li>
 					<li className="margin-bottom-20 list-none">Những gì bạn chọn lựa hôm nay sẽ định hình tương lai của chính bạn.</li>
@@ -129,7 +129,7 @@ export default function DependentClause6(): React.JSX.Element {
 
 			<h4 className="margin-y-40">3. Noun Clause (Danh câu)</h4>
 					
-			<p className="text-indent-whole">Chức năng: đóng vai trò như một danh cơ — làm danh chủ, danh nhận hoặc bổ ngữ.</p>
+			<p className="text-indent-whole">Chức năng: đóng vai trò như một Danh Cơ — làm danh chủ, danh nhận hoặc bổ ngữ.</p>
 			
 				<ul className="list-square">
 			
@@ -160,7 +160,7 @@ export default function DependentClause6(): React.JSX.Element {
 
 			<h4 className="margin-y-40">2. Xác định chức năng:</h4>
 					
-			<p className="text-indent-whole">Trạng ngữ, tính cơ hay danh cơ.</p>
+			<p className="text-indent-whole">Trạng ngữ, Tính Cơ hay danh cơ.</p>
 			
 				<ul className="list-square">
 			
