@@ -116,7 +116,7 @@ export default function Always2(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>"<strong>Always</strong>" thường đứng trước động cơ chính trong câu.</li>
+          <li>"<strong>Always</strong>" thường đứng trước hành động chính trong câu.</li>
 
           <li className="margin-bottom-20">Bạn có thể kết hợp "<strong>always</strong>" với nhiều trạng cơ khác để tạo ra các cụm từ đa dạng hơn.</li>
 

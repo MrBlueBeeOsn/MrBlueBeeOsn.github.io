@@ -228,7 +228,7 @@ export default function SuperWords2(): React.JSX.Element {
 					<li>The baby is [______].</li>
 					<li className="margin-bottom-20 list-none">Em bé đang [ngủ yên bình].</li>
 			
-					<li className="list-none">Hình thái: [sleeping peacefully] - [Tiếp Động Cụm][Progressive Verb Phrase] gồm động cơ chính sleeping và trạng cụm peacefully.</li>
+					<li className="list-none">Hình thái: [sleeping peacefully] - [Tiếp Động Cụm][Progressive Verb Phrase] gồm hành động chính sleeping và trạng cụm peacefully.</li>
 			
 					<li className="list-none">Chức năng: [sleeping peacefully] - [Tính Cụm][Adjective Phrase] miêu tả trạng thái của the baby.</li>
 			

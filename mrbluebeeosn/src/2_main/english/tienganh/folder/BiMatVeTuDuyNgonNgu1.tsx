@@ -56,9 +56,9 @@ export default function BiMatVeTuDuyNgonNgu1(): React.JSX.Element {
 
 			<p className="margin-top-20"><strong>Ứng dụng</strong>: Hãy tập nhìn thế giới theo kiểu "Đặc điểm dẫn đường". Đừng thấy "Cô gái xinh", hãy thấy "<strong>Sự xinh đẹp</strong> (<strong>Beautiful</strong>)... <strong>của một cô gái</strong> (<strong>Girl</strong>)".</p>
 
-			{/* 2. Nguyên lý "Đạo diễn": Trạng cơ + Động cơ (Sắc thái hành động) */}
+			{/* 2. Nguyên lý "Đạo diễn": Trạng cơ + Hành động (Sắc thái hành động) */}
 
-			<h3 className="margin-y-50 text-center">2. Nguyên lý "Đạo diễn": Trạng cơ + Động cơ (Sắc thái hành động)</h3>
+			<h3 className="margin-y-50 text-center">2. Nguyên lý "Đạo diễn": Trạng cơ + Hành động (Sắc thái hành động)</h3>
 
 			<p>Nếu Tính cơ là màu sắc, thì Trạng cơ chính là <strong>nhạc nền</strong>. Tại sao họ nói "<strong>He QUIETLY opened the door</strong>"?</p>
 					

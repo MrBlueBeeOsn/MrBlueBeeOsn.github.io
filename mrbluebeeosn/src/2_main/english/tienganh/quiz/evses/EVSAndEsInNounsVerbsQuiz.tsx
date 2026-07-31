@@ -30,7 +30,7 @@ export default function EVSAndEsInNounsVerbs(): React.JSX.Element {
 				"brushing"
 			],
 			correctAnswer: 1,
-			explanation: "Với danh chủ số ít (My younger brother), động cơ tận cùng là -sh ta thêm -es."
+			explanation: "Với danh chủ số ít (My younger brother), hành động tận cùng là -sh ta thêm -es."
 		},
 		{
 			id: 2,
@@ -102,7 +102,7 @@ export default function EVSAndEsInNounsVerbs(): React.JSX.Element {
 				"relaxing"
 			],
 			correctAnswer: 1,
-			explanation: "Tương tự câu 6, động cơ tận cùng là -x nên ta thêm -es."
+			explanation: "Tương tự câu 6, hành động tận cùng là -x nên ta thêm -es."
 		},
 		{
 			id: 8,

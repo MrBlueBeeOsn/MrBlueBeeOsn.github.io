@@ -85,7 +85,7 @@ export default function Questionably1(): React.JSX.Element {
 
           <li>Question (v) /ˈkwɛstʃən/</li>
           <li className="list-none">I ______ his motives.</li>
-          <li className="margin-bottom-20 list-none">Tôi nghi ngờ động cơ của anh ta.</li>
+          <li className="margin-bottom-20 list-none">Tôi nghi ngờ hành động của anh ta.</li>
 
           <li>Question (n) /ˈkwɛstʃən/</li>
           <li className="list-none">I have a ______ for you.</li>

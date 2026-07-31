@@ -116,7 +116,7 @@ export default function Rarely2(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>"<strong>Rarely</strong>" thường đứng ở đầu câu hoặc trước động cơ để bổ nghĩa.</li>
+          <li>"<strong>Rarely</strong>" thường đứng ở đầu câu hoặc trước hành động để bổ nghĩa.</li>
 
           <li className="margin-bottom-20">Từ này có thể được thay thế bằng các từ đồng nghĩa như "<Link to="/vocabulary/seldom-1">seldom</Link>", "infrequently", "hardly ever" để tạo sự đa dạng trong văn phong.</li>
 

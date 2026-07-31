@@ -116,7 +116,7 @@ export default function Maybe2(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>"<strong>Maybe</strong>" thường đứng ở đầu câu hoặc trước động cơ chính.</li>
+          <li>"<strong>Maybe</strong>" thường đứng ở đầu câu hoặc trước hành động chính.</li>
 
           <li className="margin-bottom-20">Cùng với các từ khác, "<strong>maybe</strong>" tạo thành nhiều cụm từ khác nhau với ý nghĩa đa dạng.</li>
 

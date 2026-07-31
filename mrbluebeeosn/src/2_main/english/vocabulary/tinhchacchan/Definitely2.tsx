@@ -116,7 +116,7 @@ export default function Definitely2(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>"<strong>Definitely</strong>" thường được đặt ở đầu câu hoặc trước động cơ để bổ nghĩa.</li>
+          <li>"<strong>Definitely</strong>" thường được đặt ở đầu câu hoặc trước hành động để bổ nghĩa.</li>
 
           <li className="margin-bottom-20">Từ này có thể được sử dụng trong cả văn nói và văn viết.</li>
 

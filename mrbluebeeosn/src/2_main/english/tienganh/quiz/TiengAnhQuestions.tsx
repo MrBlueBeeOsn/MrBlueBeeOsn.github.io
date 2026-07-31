@@ -126,7 +126,7 @@ export default function TiengAnhQuestions(): React.JSX.Element {
 				"don't be"
 			],
 			correctAnswer: 0,
-			explanation: "Đây là cấu trúc câu gián tiếp với động cơ advise (khuyên bảo). Cấu trúc phủ định là: S + advise + O + not + to-V (nguyên mẫu có to)."
+			explanation: "Đây là cấu trúc câu gián tiếp với hành động advise (khuyên bảo). Cấu trúc phủ định là: S + advise + O + not + to-V (nguyên mẫu có to)."
 		},
 		{
 			id: 10,
@@ -138,7 +138,7 @@ export default function TiengAnhQuestions(): React.JSX.Element {
 				"had he"
 			],
 			correctAnswer: 0,
-			explanation: "Đây là cấu trúc đảo ngữ với cụm từ phủ định Only after... đứng đầu câu. Cấu trúc đúng là: Only after + Câu con quá khứ hoàn thành (hành động trước) + Thời động cơ + S + Động cơ chính (hành động sau). Vì hành động \"realize\" ở quá khứ, ta dùng thời động cơ did."
+			explanation: "Đây là cấu trúc đảo ngữ với cụm từ phủ định Only after... đứng đầu câu. Cấu trúc đúng là: Only after + Câu con quá khứ hoàn thành (hành động trước) + Thời hành động + S + Hành động chính (hành động sau). Vì hành động \"realize\" ở quá khứ, ta dùng thời hành động did."
 		}
 	];
 

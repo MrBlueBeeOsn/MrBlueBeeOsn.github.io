@@ -123,7 +123,7 @@ export default function AdjPlacement4(): React.JSX.Element {
 			
 			<p className="margin-top-20">Họ học cách đặt tính cơ trước danh cơ.</p>
 
-			<p>Họ học cách dùng tính cơ sau động cơ be.</p>
+			<p>Họ học cách dùng tính cơ sau hành động be.</p>
 
 			<p>Nhưng rất ít người được chỉ ra rằng:</p>
 			

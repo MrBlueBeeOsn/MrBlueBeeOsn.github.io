@@ -227,7 +227,7 @@ export default function Not1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>"<strong>Not</strong>" thường đứng trước động cơ chính trong câu.</li>
+          <li>"<strong>Not</strong>" thường đứng trước hành động chính trong câu.</li>
 
           <li className="margin-bottom-20">Nó là một từ phủ định rất quan trọng trong tiếng Anh.</li>
 

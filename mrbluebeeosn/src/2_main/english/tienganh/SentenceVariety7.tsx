@@ -93,10 +93,10 @@ export default function SentenceVariety7(): React.JSX.Element {
 					<li>Có từ nối như <strong>because</strong>/<strong>when</strong>/<strong>if</strong>/<strong>although</strong> ở đầu hoặc giữa câu:</li>
 					<li className="margin-bottom-20 list-none">Khả năng là câu phức.</li>
 			
-					<li><strong>Nhiều động cơ chia chính</strong> trong cùng câu (= nhiều câu con độc lập):</li>
+					<li><strong>Nhiều hành động chia chính</strong> trong cùng câu (= nhiều câu con độc lập):</li>
 					<li className="margin-bottom-20 list-none">Thường là câu ghép hoặc ghép‑phức.</li>
 
-					<li>Câu ngắn, <strong>một động cơ chính</strong>:</li>
+					<li>Câu ngắn, <strong>một hành động chính</strong>:</li>
 					<li className="list-none">Thường là câu đơn.</li>
 			
 				</ul>
@@ -130,7 +130,7 @@ export default function SentenceVariety7(): React.JSX.Element {
 
 				<ul className="list-square">
 
-					<li><strong>Bước 1</strong> — <strong>Khung đơn giản</strong>: Danh chủ + động cơ + (bổ ngữ).</li>
+					<li><strong>Bước 1</strong> — <strong>Khung đơn giản</strong>: Danh chủ + hành động + (bổ ngữ).</li>
 					<li className="margin-bottom-20 list-none">I study English.</li>
 
 					<li><strong>Bước 2</strong> — <strong>Thêm chi tiết</strong>: thêm danh nhận, trạng cơ.</li>

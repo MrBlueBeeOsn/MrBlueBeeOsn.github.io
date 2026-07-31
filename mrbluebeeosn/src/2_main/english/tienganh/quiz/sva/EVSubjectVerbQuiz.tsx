@@ -30,7 +30,7 @@ export default function EVSubjectVerbQuiz(): React.JSX.Element {
 				"have"
 			],
 			correctAnswer: 0,
-			explanation: "Khi danh chủ bắt đầu bằng \"Each of\" (Mỗi trong số...), động cơ luôn chia ở dạng số ít bất kể danh cơ theo sau là số nhiều."
+			explanation: "Khi danh chủ bắt đầu bằng \"Each of\" (Mỗi trong số...), hành động luôn chia ở dạng số ít bất kể danh cơ theo sau là số nhiều."
 		},
 		{
 			id: 2,
@@ -42,7 +42,7 @@ export default function EVSubjectVerbQuiz(): React.JSX.Element {
 				"has been"
 			],
 			correctAnswer: 1,
-			explanation: "Với cấu trúc \"Neither... nor...\" (Không... cũng không...), động cơ phải chia theo danh chủ gần nó nhất (ở đây là \"employees\" - danh cơ số nhiều)."
+			explanation: "Với cấu trúc \"Neither... nor...\" (Không... cũng không...), hành động phải chia theo danh chủ gần nó nhất (ở đây là \"employees\" - danh cơ số nhiều)."
 		},
 		{
 			id: 3,
@@ -54,7 +54,7 @@ export default function EVSubjectVerbQuiz(): React.JSX.Element {
 				"are practicing"
 			],
 			correctAnswer: 1,
-			explanation: "\"Team\" là danh cơ tập hợp (collective noun). Khi cả đội hoạt động như một đơn vị thống nhất, chúng ta chia động cơ ở ngôi thứ 3 số ít."
+			explanation: "\"Team\" là danh cơ tập hợp (collective noun). Khi cả đội hoạt động như một đơn vị thống nhất, chúng ta chia hành động ở ngôi thứ 3 số ít."
 		},
 		{
 			id: 4,
@@ -78,7 +78,7 @@ export default function EVSubjectVerbQuiz(): React.JSX.Element {
 				"has been"
 			],
 			correctAnswer: 2,
-			explanation: "Cấu trúc \"A number of + N số nhiều\" luôn đi với động cơ số nhiều (mang nghĩa là \"Nhiều người/vật\")."
+			explanation: "Cấu trúc \"A number of + N số nhiều\" luôn đi với hành động số nhiều (mang nghĩa là \"Nhiều người/vật\")."
 		},
 		{
 			id: 6,
@@ -90,7 +90,7 @@ export default function EVSubjectVerbQuiz(): React.JSX.Element {
 				"has"
 			],
 			correctAnswer: 1,
-			explanation: "Với cấu trúc \"Either... or...\" (Hoặc... hoặc...), động cơ chia theo danh chủ đứng gần nó nhất là \"parents\" (số nhiều)."
+			explanation: "Với cấu trúc \"Either... or...\" (Hoặc... hoặc...), hành động chia theo danh chủ đứng gần nó nhất là \"parents\" (số nhiều)."
 		},
 		{
 			id: 7,
@@ -114,7 +114,7 @@ export default function EVSubjectVerbQuiz(): React.JSX.Element {
 				"have been"
 			],
 			correctAnswer: 2,
-			explanation: "Mặc dù có hai danh cơ nối bằng \"and\", nhưng \"Bread and butter\" được coi là một món ăn duy nhất (một chỉnh thể), nên dùng động cơ số ít."
+			explanation: "Mặc dù có hai danh cơ nối bằng \"and\", nhưng \"Bread and butter\" được coi là một món ăn duy nhất (một chỉnh thể), nên dùng hành động số ít."
 		},
 		{
 			id: 9,
@@ -126,7 +126,7 @@ export default function EVSubjectVerbQuiz(): React.JSX.Element {
 				"have"
 			],
 			correctAnswer: 2,
-			explanation: "Các đơn vị đo lường (khoảng cách, thời gian, số tiền, trọng lượng) được coi là một khối thống nhất nên đi với động cơ số ít."
+			explanation: "Các đơn vị đo lường (khoảng cách, thời gian, số tiền, trọng lượng) được coi là một khối thống nhất nên đi với hành động số ít."
 		},
 		{
 			id: 10,
@@ -138,7 +138,7 @@ export default function EVSubjectVerbQuiz(): React.JSX.Element {
 				"have needed"
 			],
 			correctAnswer: 1,
-			explanation: "Các đại cơ bất định (Everyone, Someone, No one, Everything...) luôn đi kèm với động cơ chia ở số ít."
+			explanation: "Các đại cơ bất định (Everyone, Someone, No one, Everything...) luôn đi kèm với hành động chia ở số ít."
 		}
 	];
 

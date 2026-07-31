@@ -116,7 +116,7 @@ export default function Slowly2(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>"<strong>Slowly</strong>" thường được đặt trước động cơ để nhấn mạnh tốc độ của hành động.</li>
+          <li>"<strong>Slowly</strong>" thường được đặt trước hành động để nhấn mạnh tốc độ của hành động.</li>
 
           <li className="margin-bottom-20">Từ này có thể được sử dụng trong nhiều ngữ cảnh khác nhau, từ việc mô tả chuyển động của vật thể đến việc diễn tả quá trình phát triển của một sự việc.</li>
 

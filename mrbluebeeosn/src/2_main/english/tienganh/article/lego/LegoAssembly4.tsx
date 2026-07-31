@@ -214,7 +214,7 @@ export default function LegoAssembly4(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>play = động cơ nguyên mẫu</li>
+					<li>play = hành động nguyên mẫu</li>
 					<li>football = danh cơ bổ sung</li>
 			
 				</ul>

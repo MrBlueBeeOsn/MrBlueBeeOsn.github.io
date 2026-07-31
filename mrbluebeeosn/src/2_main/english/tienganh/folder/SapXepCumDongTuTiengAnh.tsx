@@ -53,7 +53,7 @@ export default function SapXepCumDongTuTiengAnh(): React.JSX.Element {
 
 				</p>
 
-			<h3 className="margin-top-30 margin-bottom-50 text-center">1. Tại sao phải “thời động cơ bên trái – động cơ chính bên phải”?</h3>
+			<h3 className="margin-top-30 margin-bottom-50 text-center">1. Tại sao phải “thời hành động bên trái – hành động chính bên phải”?</h3>
 
 			<p>Tiếng Việt: đã → đang → sẽ → không → bị → đánh</p>
 
@@ -61,7 +61,7 @@ export default function SapXepCumDongTuTiengAnh(): React.JSX.Element {
 
 			<p>Nếu bạn cố xếp từ trái sang phải như tiếng Việt, bạn sẽ ra “beaten being been have not will” → sai hoàn toàn.</p>
 
-			<p>Giải pháp đơn giản nhất: <strong>luôn đặt động cơ chính làm mốc bên phải</strong>, <strong>còn lại gom hết vào bên trái</strong>.</p>
+			<p>Giải pháp đơn giản nhất: <strong>luôn đặt hành động chính làm mốc bên phải</strong>, <strong>còn lại gom hết vào bên trái</strong>.</p>
 
 			<h3 className="margin-y-50 text-center">2. Hai bước sắp xếp cực nhanh (chỉ cần nhớ 1 lần)</h3>
 
@@ -92,12 +92,12 @@ export default function SapXepCumDongTuTiengAnh(): React.JSX.Element {
 			</div>
 
 			{/* =============================
-					Bước 2: Đặt động cơ chính (hoặc dạng V3/V-ing) vào bên phải cùng
+					Bước 2: Đặt hành động chính (hoặc dạng V3/V-ing) vào bên phải cùng
 			============================= */}
 
 			<div className="margin-y-15 text-border1 table-container">
 
-				<h3 className="margin-y-50 text-center">Bước 2: Đặt động cơ chính (hoặc dạng V3/V-ing) vào bên phải cùng</h3>
+				<h3 className="margin-y-50 text-center">Bước 2: Đặt hành động chính (hoặc dạng V3/V-ing) vào bên phải cùng</h3>
 
 				<p>→ Động cụm hoàn chỉnh.</p>
 
@@ -109,7 +109,7 @@ export default function SapXepCumDongTuTiengAnh(): React.JSX.Element {
 
 						<li>Gom bên trái: will + have + been + being</li>
 
-						<li>Đặt động cơ bên phải: beaten</li>
+						<li>Đặt hành động bên phải: beaten</li>
 
 						<li className="list-none">→ <strong>will have been being beaten</strong></li>
 
@@ -121,7 +121,7 @@ export default function SapXepCumDongTuTiengAnh(): React.JSX.Element {
 
 						<li>Gom bên trái: could + not + have</li>
 
-						<li>Đặt động cơ bên phải: finished</li>
+						<li>Đặt hành động bên phải: finished</li>
 
 						<li className="list-none">→ <strong>could not have finished</strong></li>
 
@@ -133,7 +133,7 @@ export default function SapXepCumDongTuTiengAnh(): React.JSX.Element {
 
 						<li>Gom bên trái: be + being</li>
 
-						<li>Đặt động cơ bên phải: built</li>
+						<li>Đặt hành động bên phải: built</li>
 
 						<li className="list-none">→ <strong>is</strong>/<strong>are being built</strong></li>
 
@@ -141,7 +141,7 @@ export default function SapXepCumDongTuTiengAnh(): React.JSX.Element {
 
 			</div>
 
-			<h3 className="margin-y-50 text-center">3. Thứ tự chuẩn các thời động cơ bên trái (nhớ 1 lần dùng mãi mãi)</h3>
+			<h3 className="margin-y-50 text-center">3. Thứ tự chuẩn các thời hành động bên trái (nhớ 1 lần dùng mãi mãi)</h3>
 
 			<p>Khi gom hết vào bên trái, chỉ cần sắp theo thứ tự cố định sau (từ trái sang phải):</p>
 
@@ -161,7 +161,7 @@ export default function SapXepCumDongTuTiengAnh(): React.JSX.Element {
 
 				</ol>
 
-				<p className="margin-top-20 text-indent-whole">Phủ định “not” luôn đứng ngay sau modal hoặc thời động cơ đầu tiên.</p>
+				<p className="margin-top-20 text-indent-whole">Phủ định “not” luôn đứng ngay sau modal hoặc thời hành động đầu tiên.</p>
 
 			<h3 className="margin-y-50 text-center">4. Lưu ý cực kỳ quan trọng</h3>
 
@@ -169,11 +169,11 @@ export default function SapXepCumDongTuTiengAnh(): React.JSX.Element {
 
 					<li>Động cơ chính (hoặc dạng V3/V-ing của nó) luôn là từ cuối cùng bên phải.</li>
 
-					<li>Nếu có phủ định → chèn “not” ngay sau thời động cơ đầu tiên.</li>
+					<li>Nếu có phủ định → chèn “not” ngay sau thời hành động đầu tiên.</li>
 
-					<li>Với câu hỏi → chỉ cần đảo thời động cơ đầu tiên lên trước danh chủ (sau khi đã xếp xong cụm).</li>
+					<li>Với câu hỏi → chỉ cần đảo thời hành động đầu tiên lên trước danh chủ (sau khi đã xếp xong cụm).</li>
 
-					<li>Khi không chắc thứ tự → cứ gom hết thời động cơ vào bên trái trước, rồi sắp lại theo M-P-C-P → vẫn đúng 100%!</li>
+					<li>Khi không chắc thứ tự → cứ gom hết thời hành động vào bên trái trước, rồi sắp lại theo M-P-C-P → vẫn đúng 100%!</li>
 
 				</ul>
 

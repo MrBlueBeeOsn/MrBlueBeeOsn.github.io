@@ -174,7 +174,7 @@ export default function DependentClause1(): React.JSX.Element {
 			
 				</ul>
 			
-			<p className="margin-top-20 text-indent-whole">→ Cụm "what you mean" đóng vai trò làm danh nhận đứng sau động cơ "understand"</p>
+			<p className="margin-top-20 text-indent-whole">→ Cụm "what you mean" đóng vai trò làm danh nhận đứng sau hành động "understand"</p>
 
 			{/* 4. Chiến Lược 3 Bước Để Tạo Câu Phức Mượt Mà */}
 
@@ -226,7 +226,7 @@ export default function DependentClause1(): React.JSX.Element {
 
 			<h3 className="margin-y-50 text-center">5. Phương Pháp Làm Chủ Cấu Trúc Khi Đọc Hiểu</h3>
 
-			<p>Khi đối mặt với những câu văn dài trên các trang báo hoặc tài liệu, việc đọc thụ động cơ đầu đến cuối dễ gây quá tải cho bộ não.</p>
+			<p>Khi đối mặt với những câu văn dài trên các trang báo hoặc tài liệu, việc đọc thụ hành động đầu đến cuối dễ gây quá tải cho bộ não.</p>
 
 			<p>Hãy áp dụng kỹ thuật <strong>Cô lập thông tin</strong>:</p>
 

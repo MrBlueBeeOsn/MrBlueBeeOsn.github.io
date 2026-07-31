@@ -42,7 +42,7 @@ export default function TracNghiemNguPhapTiengAnh(): React.JSX.Element {
 				"should"
 			],
 			correctAnswer: 2,
-			explanation: "Ta dùng động cơ khuyết thiếu can't (không thể nào) để diễn tả sự suy luận mang tính phủ định mạnh mẽ, gần như chắc chắn rằng điều gì đó không đúng hoặc không thể xảy ra dựa trên bằng chứng hiện tại (vì anh ta trông quá trẻ)."
+			explanation: "Ta dùng hành động khuyết thiếu can't (không thể nào) để diễn tả sự suy luận mang tính phủ định mạnh mẽ, gần như chắc chắn rằng điều gì đó không đúng hoặc không thể xảy ra dựa trên bằng chứng hiện tại (vì anh ta trông quá trẻ)."
 		},
 		{
 			id: 3,

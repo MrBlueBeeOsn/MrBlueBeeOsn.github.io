@@ -58,7 +58,7 @@ export default function DependentClause5(): React.JSX.Element {
 
 			<p>Bạn chờ. Bạn muốn biết điều gì xảy ra tiếp theo. Cái khoảng trống đó, cái cảm giác chưa xong đó, chính là bản chất của dependent clause.</p>
 					
-			<p>Nó có đủ danh chủ, đủ động cơ — nhưng vẫn cần một câu con chính để trọn vẹn. Và chính sự "chưa xong" ấy lại là công cụ mạnh nhất để bạn viết tiếng Anh có chiều sâu.</p>
+			<p>Nó có đủ danh chủ, đủ hành động — nhưng vẫn cần một câu con chính để trọn vẹn. Và chính sự "chưa xong" ấy lại là công cụ mạnh nhất để bạn viết tiếng Anh có chiều sâu.</p>
 
 			{/* Bốn bước để viết một Dependent Clause đúng và hay */}
 

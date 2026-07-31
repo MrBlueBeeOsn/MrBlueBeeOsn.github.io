@@ -116,7 +116,7 @@ export default function Cheerfully2(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>"<strong>Cheerfully</strong>" thường được đặt trước động cơ để bổ nghĩa.</li>
+          <li>"<strong>Cheerfully</strong>" thường được đặt trước hành động để bổ nghĩa.</li>
 
           <li className="margin-bottom-20">Từ này thường được sử dụng trong các ngữ cảnh không quá trang trọng, thường liên quan đến cuộc sống hàng ngày.</li>
 

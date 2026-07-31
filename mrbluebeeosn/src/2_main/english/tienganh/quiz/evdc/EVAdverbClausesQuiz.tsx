@@ -66,7 +66,7 @@ export default function EVAdverbClausesQuiz(): React.JSX.Element {
 				"because of"
 			],
 			correctAnswer: 2,
-			explanation: "Phía sau khoảng trống là một động cơ nguyên mẫu (boost). Cấu trúc đúng ở đây là in order to + V-inf để chỉ mục đích. Các từ in order that và so that phải đi với một câu con hoàn chỉnh (S + V), còn because of đi với danh cụm/V-ing."
+			explanation: "Phía sau khoảng trống là một hành động nguyên mẫu (boost). Cấu trúc đúng ở đây là in order to + V-inf để chỉ mục đích. Các từ in order that và so that phải đi với một câu con hoàn chỉnh (S + V), còn because of đi với danh cụm/V-ing."
 		},
 		{
 			id: 5,
@@ -90,7 +90,7 @@ export default function EVAdverbClausesQuiz(): React.JSX.Element {
 				"since"
 			],
 			correctAnswer: 0,
-			explanation: "Phía sau là một câu con hoàn chỉnh (he wouldn't miss...), do đó cần liên cơ so that (để mà) để mở đầu câu con trạng ngữ chỉ mục đích. In order to cũng mang nghĩa chỉ mục đích nhưng bắt buộc phải đi trực tiếp với động cơ nguyên mẫu."
+			explanation: "Phía sau là một câu con hoàn chỉnh (he wouldn't miss...), do đó cần liên cơ so that (để mà) để mở đầu câu con trạng ngữ chỉ mục đích. In order to cũng mang nghĩa chỉ mục đích nhưng bắt buộc phải đi trực tiếp với hành động nguyên mẫu."
 		},
 		{
 			id: 7,
@@ -102,7 +102,7 @@ export default function EVAdverbClausesQuiz(): React.JSX.Element {
 				"Because"
 			],
 			correctAnswer: 2,
-			explanation: "Though (mặc dù) là liên cơ mở đầu một câu con trạng ngữ chỉ sự tương phản chứa cả danh chủ và động cơ (the traffic was...). Despite và In spite of cũng mang nghĩa tương tự nhưng theo sau chúng bắt buộc phải là một danh cụm hoặc V-ing."
+			explanation: "Though (mặc dù) là liên cơ mở đầu một câu con trạng ngữ chỉ sự tương phản chứa cả danh chủ và hành động (the traffic was...). Despite và In spite of cũng mang nghĩa tương tự nhưng theo sau chúng bắt buộc phải là một danh cụm hoặc V-ing."
 		},
 		{
 			id: 8,

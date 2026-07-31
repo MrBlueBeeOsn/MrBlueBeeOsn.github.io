@@ -173,7 +173,7 @@ export default function LegoAssembly7(): React.JSX.Element {
 			
 				</ul>
 
-			<h4 className="margin-y-40">Thời động cơ - Head</h4>
+			<h4 className="margin-y-40">Thời hành động - Head</h4>
 
 			<p className="margin-top-20"><strong>does</strong> / <strong>doesn</strong>'<strong>t</strong>: thường không dịch trực tiếp mà thể hiện qua thì và ngữ cảnh - <strong>Head</strong></p>
 			
@@ -243,7 +243,7 @@ export default function LegoAssembly7(): React.JSX.Element {
 			
 			<h4 className="margin-y-40">Head tích hợp là gì?</h4>
 					
-			<p>Động cơ chính đã tích hợp sẵn thời động cơ và thời gian = <strong>Head tích hợp</strong>.</p>
+			<p>Động cơ chính đã tích hợp sẵn thời hành động và thời gian = <strong>Head tích hợp</strong>.</p>
 
 			<p className="margin-top-20">Ví dụ:</p>
 			
@@ -618,7 +618,7 @@ export default function LegoAssembly7(): React.JSX.Element {
 					<li className="margin-bottom-20 list-none">Anh ấy không mua một chiếc ô tô.</li>
 					<li className="list-none">He - S</li>
 					<li className="list-none">does - Head</li>
-					<li className="list-none">not buy a car (not động cơ nguyên mẫu noun phrase) - DP</li>
+					<li className="list-none">not buy a car (not hành động nguyên mẫu noun phrase) - DP</li>
 			
 				</ul>
 			
@@ -711,7 +711,7 @@ export default function LegoAssembly7(): React.JSX.Element {
 			
 					<li>not know [what he does] - DP</li>
 					<li className="margin-bottom-20 list-none">không biết [những gì anh ấy làm]</li>
-					<li className="list-none">not know - động cơ nguyên mẫu</li>
+					<li className="list-none">not know - hành động nguyên mẫu</li>
 					<li className="list-none">[what he does] - DC (noun clause)</li>
 			
 				</ul>
@@ -747,7 +747,7 @@ export default function LegoAssembly7(): React.JSX.Element {
 			
 					<li>not know [what he does] - DP</li>
 					<li className="margin-bottom-20 list-none">không biết [những gì anh ấy làm]</li>
-					<li className="list-none">not know - động cơ nguyên mẫu</li>
+					<li className="list-none">not know - hành động nguyên mẫu</li>
 					<li className="list-none">[what he does] - DC (noun clause)</li>
 			
 				</ul>
@@ -1018,7 +1018,7 @@ export default function LegoAssembly7(): React.JSX.Element {
 			
 					<li>am / will / could / do / did / is / are...</li>
 			
-					<li>Hoặc động cơ chính (Head tích hợp): buys, knows, develops...</li>
+					<li>Hoặc hành động chính (Head tích hợp): buys, knows, develops...</li>
 			
 				</ul>
 
@@ -1157,7 +1157,7 @@ export default function LegoAssembly7(): React.JSX.Element {
 			
 					<li>Subject - <strong>S</strong></li>
 			
-					<li>Head tích hợp hoặc thời động cơ - <strong>Head</strong></li>
+					<li>Head tích hợp hoặc thời hành động - <strong>Head</strong></li>
 			
 					<li>Mọi thứ sau Head - <strong>DP</strong></li>
 			

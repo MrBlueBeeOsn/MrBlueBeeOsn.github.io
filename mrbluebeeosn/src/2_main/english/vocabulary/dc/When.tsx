@@ -64,7 +64,7 @@ export default function When(): React.JSX.Element {
 
       <h3 className="margin-y-50 text-center">Word Family</h3>
 
-      <p className="margin-bottom-20">Từ "when" là một từ chức năng (function word) cốt lõi trong tiếng Anh, bản thân nó không biến đổi thành dạng danh cơ, động cơ hay tính cơ bằng cách thêm hậu tố. Tuy nhiên, họ từ của nó bao gồm các từ ghép và trạng cơ chỉ thời gian, thời điểm dựa trên gốc từ này:</p>
+      <p className="margin-bottom-20">Từ "when" là một từ chức năng (function word) cốt lõi trong tiếng Anh, bản thân nó không biến đổi thành dạng danh cơ, hành động hay tính cơ bằng cách thêm hậu tố. Tuy nhiên, họ từ của nó bao gồm các từ ghép và trạng cơ chỉ thời gian, thời điểm dựa trên gốc từ này:</p>
 
         <ul className="list-square">
 

@@ -123,7 +123,7 @@ export default function DependentClause9(): React.JSX.Element {
 			
 				</ul>
 
-			<p className="margin-top-20 text-indent-whole">Toàn bộ cụm "What he said" là câu con danh ngữ, đóng vai trò là danh chủ của động cơ "surprised". Việc sử dụng câu con danh ngữ ở đây không chỉ đơn thuần là cung cấp thông tin, mà còn biến một hành động (he said) thành một sự vật (what he said) để làm danh chủ. Điều này cho phép người viết trình bày một khái niệm trừu tượng một cách cụ thể, tạo nên sự cô đọng và mạnh mẽ trong diễn đạt, làm cho câu văn trở nên súc tích và có trọng lượng hơn. Nếu không có câu con danh ngữ, chúng ta sẽ phải dùng một danh cụm hoặc một câu khác để diễn đạt ý này</p>
+			<p className="margin-top-20 text-indent-whole">Toàn bộ cụm "What he said" là câu con danh ngữ, đóng vai trò là danh chủ của hành động "surprised". Việc sử dụng câu con danh ngữ ở đây không chỉ đơn thuần là cung cấp thông tin, mà còn biến một hành động (he said) thành một sự vật (what he said) để làm danh chủ. Điều này cho phép người viết trình bày một khái niệm trừu tượng một cách cụ thể, tạo nên sự cô đọng và mạnh mẽ trong diễn đạt, làm cho câu văn trở nên súc tích và có trọng lượng hơn. Nếu không có câu con danh ngữ, chúng ta sẽ phải dùng một danh cụm hoặc một câu khác để diễn đạt ý này</p>
 
 			<p className="text-indent-whole">Ví dụ:</p>
 			
@@ -138,7 +138,7 @@ export default function DependentClause9(): React.JSX.Element {
 
 			<h4 className="margin-y-40">Làm Danh nhận trực tiếp:</h4>
 
-			<p className="text-indent-whole">Nếu câu con danh ngữ làm danh nhận trực tiếp, nó đứng sau động cơ và là đối tượng chịu tác động của hành động, giúp làm rõ thông tin mà động cơ hướng tới.</p>
+			<p className="text-indent-whole">Nếu câu con danh ngữ làm danh nhận trực tiếp, nó đứng sau hành động và là đối tượng chịu tác động của hành động, giúp làm rõ thông tin mà hành động hướng tới.</p>
 
 			<p className="text-indent-whole">Chẳng hạn:</p>
 			
@@ -149,7 +149,7 @@ export default function DependentClause9(): React.JSX.Element {
 			
 				</ul>
 
-			<p className="margin-top-20 text-indent-whole">Ở đây "where she lives" là câu con danh ngữ, làm danh nhận trực tiếp cho động cơ "know". Câu con này trả lời cho câu hỏi "know what?" và cung cấp thông tin chi tiết về địa điểm mà người nói không rõ, thay vì chỉ một danh cơ đơn thuần. Nó mở rộng khả năng diễn đạt của động cơ, cho phép nó tác động lên một ý tưởng phức tạp, thể hiện sự thiếu thông tin một cách rõ ràng và tự nhiên hơn.</p>
+			<p className="margin-top-20 text-indent-whole">Ở đây "where she lives" là câu con danh ngữ, làm danh nhận trực tiếp cho hành động "know". Câu con này trả lời cho câu hỏi "know what?" và cung cấp thông tin chi tiết về địa điểm mà người nói không rõ, thay vì chỉ một danh cơ đơn thuần. Nó mở rộng khả năng diễn đạt của động cơ, cho phép nó tác động lên một ý tưởng phức tạp, thể hiện sự thiếu thông tin một cách rõ ràng và tự nhiên hơn.</p>
 
 			<p className="text-indent-whole">Thay vì nói:</p>
 			
@@ -164,7 +164,7 @@ export default function DependentClause9(): React.JSX.Element {
 
 			<h4 className="margin-y-40">Làm Bổ ngữ cho danh chủ:</h4>
 
-			<p className="text-indent-whole">Chúng cũng có thể làm bổ ngữ cho danh chủ, đứng sau động cơ nối (linking verb) và mô tả danh chủ, giúp định nghĩa hoặc giải thích thêm về danh chủ.</p>
+			<p className="text-indent-whole">Chúng cũng có thể làm bổ ngữ cho danh chủ, đứng sau hành động nối (linking verb) và mô tả danh chủ, giúp định nghĩa hoặc giải thích thêm về danh chủ.</p>
 
 			<p className="text-indent-whole">Ví dụ</p>
 			
@@ -278,7 +278,7 @@ export default function DependentClause9(): React.JSX.Element {
 			
 				</ul>
 			
-			<p className="margin-top-20 text-indent-whole">Câu con "that I bought" là câu con tính ngữ, bổ nghĩa cho "book". "That" ở đây đóng vai trò danh nhận của động cơ "bought" trong câu con tính ngữ, cho phép chúng ta chỉ định một vật thể thông qua một hành động liên quan đến nó, thay vì chỉ một tính cơ chung chung, làm cho mô tả trở nên cụ thể và dễ hình dung. Điều này giúp tránh sự mơ hồ và làm cho thông tin trở nên chính xác hơn, tạo nên sự rõ ràng trong giao tiếp.</p>
+			<p className="margin-top-20 text-indent-whole">Câu con "that I bought" là câu con tính ngữ, bổ nghĩa cho "book". "That" ở đây đóng vai trò danh nhận của hành động "bought" trong câu con tính ngữ, cho phép chúng ta chỉ định một vật thể thông qua một hành động liên quan đến nó, thay vì chỉ một tính cơ chung chung, làm cho mô tả trở nên cụ thể và dễ hình dung. Điều này giúp tránh sự mơ hồ và làm cho thông tin trở nên chính xác hơn, tạo nên sự rõ ràng trong giao tiếp.</p>
 
 			<p className="text-indent-whole">Thay vì:</p>
 
@@ -338,7 +338,7 @@ export default function DependentClause9(): React.JSX.Element {
 			
 				</ul>
 			
-			<p className="margin-top-20 text-indent-whole">Câu con "While she was reading" là câu con trạng ngữ chỉ thời gian, bổ nghĩa cho động cơ "rang" trong câu con chính "her phone rang". Nó không chỉ cho biết thời điểm mà hành động "her phone rang" xảy ra, mà còn mô tả một hành động đang diễn ra song song, tạo ra một bức tranh thời gian sống động hơn. Nó bổ nghĩa cho động cơ "rang" bằng cách trả lời câu hỏi:</p>
+			<p className="margin-top-20 text-indent-whole">Câu con "While she was reading" là câu con trạng ngữ chỉ thời gian, bổ nghĩa cho hành động "rang" trong câu con chính "her phone rang". Nó không chỉ cho biết thời điểm mà hành động "her phone rang" xảy ra, mà còn mô tả một hành động đang diễn ra song song, tạo ra một bức tranh thời gian sống động hơn. Nó bổ nghĩa cho hành động "rang" bằng cách trả lời câu hỏi:</p>
 
 			<ul className="list-square">
 			
@@ -370,7 +370,7 @@ export default function DependentClause9(): React.JSX.Element {
 			
 				</ul>
 			
-			<p className="margin-top-20 text-indent-whole">Thiết lập mối quan hệ nhân quả một cách chặt chẽ và thuyết phục, giúp người đọc hiểu được động cơ của hành động. Điều này làm cho lập luận trở nên logic và dễ hiểu, tăng cường tính thuyết phục của thông tin.</p>
+			<p className="margin-top-20 text-indent-whole">Thiết lập mối quan hệ nhân quả một cách chặt chẽ và thuyết phục, giúp người đọc hiểu được hành động của hành động. Điều này làm cho lập luận trở nên logic và dễ hiểu, tăng cường tính thuyết phục của thông tin.</p>
 
 
 			<h4 className="margin-y-40">3. Điều kiện</h4>
@@ -421,7 +421,7 @@ export default function DependentClause9(): React.JSX.Element {
 			
 				</ul>
 			
-			<p className="margin-top-20 text-indent-whole">Câu con "so that she can get a scholarship" là câu con trạng ngữ chỉ mục đích, bổ nghĩa cho hành động "She studies hard". Câu con này giải thích mục đích sâu xa của việc "she studies hard", làm rõ động cơ đằng sau hành động, giúp người đọc hiểu rõ hơn về ý định của chủ thể và lý do cho hành động đó. Nó tạo ra sự kết nối rõ ràng giữa hành động và mục tiêu, làm cho thông tin trở nên có ý nghĩa hơn.</p>
+			<p className="margin-top-20 text-indent-whole">Câu con "so that she can get a scholarship" là câu con trạng ngữ chỉ mục đích, bổ nghĩa cho hành động "She studies hard". Câu con này giải thích mục đích sâu xa của việc "she studies hard", làm rõ hành động đằng sau hành động, giúp người đọc hiểu rõ hơn về ý định của chủ thể và lý do cho hành động đó. Nó tạo ra sự kết nối rõ ràng giữa hành động và mục tiêu, làm cho thông tin trở nên có ý nghĩa hơn.</p>
 
 			<h4 className="margin-y-40">6. Kết quả</h4>
 					

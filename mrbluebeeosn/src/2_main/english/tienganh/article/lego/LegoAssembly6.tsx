@@ -87,7 +87,7 @@ export default function LegoAssembly6(): React.JSX.Element {
 			
 					<li>Xác định <strong>S</strong> (vị trí danh chủ).</li>
 			
-					<li>Xác định <strong>Head</strong> (động cơ chia / thời động cơ / modal / <strong>be</strong>).</li>
+					<li>Xác định <strong>Head</strong> (động cơ chia / thời hành động / modal / <strong>be</strong>).</li>
 			
 					<li>Phần đứng sau <strong>Head</strong> (hoặc phần đứng trước Head nếu là danh chủ) là <strong>DP</strong> theo vị trí.</li>
 
@@ -137,7 +137,7 @@ export default function LegoAssembly6(): React.JSX.Element {
 					<li className="margin-bottom-20 list-none">→ chèn <strong>not</strong> ngay sau Head.</li>
 			
 					<li>Nếu Head là <strong>động cơ chia</strong> (present/past simple)</li>
-					<li className="list-none">→ thay Head bằng <strong>do</strong>/<strong>does</strong>/<strong>did</strong>; động cơ chính về nguyên mẫu.</li>
+					<li className="list-none">→ thay Head bằng <strong>do</strong>/<strong>does</strong>/<strong>did</strong>; hành động chính về nguyên mẫu.</li>
 			
 				</ul>
 			

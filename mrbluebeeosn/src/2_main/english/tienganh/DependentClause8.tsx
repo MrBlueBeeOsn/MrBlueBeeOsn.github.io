@@ -224,7 +224,7 @@ export default function DependentClause8(): React.JSX.Element {
 
 			<p>1. Tìm <strong>động cơ chính không nằm sau từ nối</strong>. Đó là xương sống.</p>
 
-			<p>2. Phần còn lại có danh chủ + động cơ mà bắt đầu bằng that, what, who, which, where, when, because, although, if, unless... là <strong>dependent</strong>.</p>
+			<p>2. Phần còn lại có danh chủ + hành động mà bắt đầu bằng that, what, who, which, where, when, because, although, if, unless... là <strong>dependent</strong>.</p>
 
 			<p>3. Hỏi:</p>
 			

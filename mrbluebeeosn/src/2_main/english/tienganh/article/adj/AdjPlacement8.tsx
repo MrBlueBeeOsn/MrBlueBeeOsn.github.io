@@ -277,7 +277,7 @@ export default function AdjPlacement8(): React.JSX.Element {
 			
 				</ul>
 			
-			<p className="margin-y-40 text-indent-whole"><strong>Đặt nguyên khối ý tưởng lên trước</strong> hoặc <strong>sau động cơ chính</strong>.</p>
+			<p className="margin-y-40 text-indent-whole"><strong>Đặt nguyên khối ý tưởng lên trước</strong> hoặc <strong>sau hành động chính</strong>.</p>
 			
 			<p className="text-indent-whole">Khi ba loại này phối hợp, câu phức không còn là mê cung:</p>
 			

@@ -116,7 +116,7 @@ export default function Lazily2(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>"<strong>Lazily</strong>" thường được đặt trước động cơ để bổ nghĩa.</li>
+          <li>"<strong>Lazily</strong>" thường được đặt trước hành động để bổ nghĩa.</li>
 
           <li className="margin-bottom-20">Từ này thường mang nghĩa tiêu cực, ám chỉ sự lười biếng và thiếu trách nhiệm.</li>
 

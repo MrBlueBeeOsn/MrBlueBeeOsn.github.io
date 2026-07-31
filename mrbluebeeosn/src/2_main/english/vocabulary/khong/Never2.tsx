@@ -116,7 +116,7 @@ export default function Never2(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>"<strong>Never</strong>" thường đứng ở đầu câu hoặc trước động cơ chính.</li>
+          <li>"<strong>Never</strong>" thường đứng ở đầu câu hoặc trước hành động chính.</li>
 
           <li className="margin-bottom-20">Bạn có thể kết hợp "<strong>never</strong>" với nhiều trạng cơ khác để tạo ra các cụm từ đa dạng hơn.</li>
 

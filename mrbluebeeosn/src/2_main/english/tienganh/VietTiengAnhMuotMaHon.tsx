@@ -84,11 +84,11 @@ export default function VietTiengAnhMuotMaHon(): React.JSX.Element {
 
 			</div>
 
-			{/* 2. Với động cơ (động cơ hỗ trợ). */}
+			{/* 2. Với hành động (động cơ hỗ trợ). */}
 
 			<div className="margin-y-15 text-border1 table-container">
 
-				<h3 className="margin-y-50 text-center">2. Với động cơ (động cơ hỗ trợ)</h3>
+				<h3 className="margin-y-50 text-center">2. Với hành động (động cơ hỗ trợ)</h3>
 
 					<p>Tương tự với thì, thể, câu hỏi:</p>
 

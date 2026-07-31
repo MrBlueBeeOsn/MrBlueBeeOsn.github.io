@@ -30,7 +30,7 @@ export default function EVSingularPluralVerbsQuiz(): React.JSX.Element {
 				"being"
 			],
 			correctAnswer: 0,
-			explanation: "Danh chủ chính là danh cơ số ít \"The list\", không phải \"items\". Vì vậy, động cơ phải chia ở số ít."
+			explanation: "Danh chủ chính là danh cơ số ít \"The list\", không phải \"items\". Vì vậy, hành động phải chia ở số ít."
 		},
 		{
 			id: 2,
@@ -42,7 +42,7 @@ export default function EVSingularPluralVerbsQuiz(): React.JSX.Element {
 				"has wanted"
 			],
 			correctAnswer: 2,
-			explanation: "Với cấu trúc \"Neither... nor...\", động cơ chia theo danh chủ gần nó nhất. \"The students\" là danh cơ số nhiều nên dùng \"want\"."
+			explanation: "Với cấu trúc \"Neither... nor...\", hành động chia theo danh chủ gần nó nhất. \"The students\" là danh cơ số nhiều nên dùng \"want\"."
 		},
 		{
 			id: 3,
@@ -54,7 +54,7 @@ export default function EVSingularPluralVerbsQuiz(): React.JSX.Element {
 				"were"
 			],
 			correctAnswer: 1,
-			explanation: "Một số danh cơ kết thúc bằng \"s\" nhưng là tên môn học, lĩnh vực (Economics, Physics, Mathematics) thì luôn chia động cơ ở số ít."
+			explanation: "Một số danh cơ kết thúc bằng \"s\" nhưng là tên môn học, lĩnh vực (Economics, Physics, Mathematics) thì luôn chia hành động ở số ít."
 		},
 		{
 			id: 4,
@@ -66,7 +66,7 @@ export default function EVSingularPluralVerbsQuiz(): React.JSX.Element {
 				"was"
 			],
 			correctAnswer: 2,
-			explanation: "Cấu trúc \"A number of + danh cơ số nhiều\" luôn đi với động cơ số nhiều. (Ngược lại, \"The number of\" sẽ đi với động cơ số ít)."
+			explanation: "Cấu trúc \"A number of + danh cơ số nhiều\" luôn đi với hành động số nhiều. (Ngược lại, \"The number of\" sẽ đi với hành động số ít)."
 		},
 		{
 			id: 5,
@@ -78,7 +78,7 @@ export default function EVSingularPluralVerbsQuiz(): React.JSX.Element {
 				"are having"
 			],
 			correctAnswer: 0,
-			explanation: "Khi danh chủ bắt đầu bằng \"Every\" hoặc \"Each\", động cơ luôn chia ở số ít bất kể có bao nhiêu danh cơ đi sau."
+			explanation: "Khi danh chủ bắt đầu bằng \"Every\" hoặc \"Each\", hành động luôn chia ở số ít bất kể có bao nhiêu danh cơ đi sau."
 		},
 		{
 			id: 6,
@@ -102,7 +102,7 @@ export default function EVSingularPluralVerbsQuiz(): React.JSX.Element {
 				"have been"
 			],
 			correctAnswer: 2,
-			explanation: "Các khoảng thời gian, số tiền, khoảng cách hoặc trọng lượng được coi là một đơn vị duy nhất nên chia động cơ số ít."
+			explanation: "Các khoảng thời gian, số tiền, khoảng cách hoặc trọng lượng được coi là một đơn vị duy nhất nên chia hành động số ít."
 		},
 		{
 			id: 8,
@@ -114,7 +114,7 @@ export default function EVSingularPluralVerbsQuiz(): React.JSX.Element {
 				"have been"
 			],
 			correctAnswer: 1,
-			explanation: "Với cấu trúc \"Either... or...\", động cơ chia theo danh chủ gần nó nhất là \"my father\" (số ít)."
+			explanation: "Với cấu trúc \"Either... or...\", hành động chia theo danh chủ gần nó nhất là \"my father\" (số ít)."
 		},
 		{
 			id: 9,
@@ -126,7 +126,7 @@ export default function EVSingularPluralVerbsQuiz(): React.JSX.Element {
 				"was"
 			],
 			correctAnswer: 1,
-			explanation: "Danh cơ tập hợp (team, family, staff) dùng động cơ số nhiều khi muốn nhấn mạnh vào hành động riêng rẽ của từng thành viên trong nhóm (ở đây là đang tranh cãi lẫn nhau)."
+			explanation: "Danh cơ tập hợp (team, family, staff) dùng hành động số nhiều khi muốn nhấn mạnh vào hành động riêng rẽ của từng thành viên trong nhóm (ở đây là đang tranh cãi lẫn nhau)."
 		},
 		{
 			id: 10,
@@ -138,7 +138,7 @@ export default function EVSingularPluralVerbsQuiz(): React.JSX.Element {
 				"have been"
 			],
 			correctAnswer: 0,
-			explanation: "Khi hai danh cơ nối với nhau bằng \"and\" nhưng cùng chỉ về một món ăn hoặc một ý tưởng thống nhất, động cơ sẽ chia ở số ít."
+			explanation: "Khi hai danh cơ nối với nhau bằng \"and\" nhưng cùng chỉ về một món ăn hoặc một ý tưởng thống nhất, hành động sẽ chia ở số ít."
 		}
 	];
 

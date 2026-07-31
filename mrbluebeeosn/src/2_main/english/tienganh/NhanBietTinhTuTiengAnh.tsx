@@ -25,7 +25,7 @@ export default function NhanBietTinhTuTiengAnh(): React.JSX.Element {
 
 			<h3 className="margin-y-50 text-center">Tại sao đuôi từ lại “bật mí” tính cơ?Tóm tắt các đuôi tính cơ phổ biến nhất</h3>
 
-			<p>Tính cơ thường được tạo ra từ danh cơ hoặc động cơ bằng cách thêm hậu tố. Mỗi hậu tố mang một ý nghĩa đặc trưng, giúp ta nhanh chóng nhận diện vai trò của từ trong câu.</p>
+			<p>Tính cơ thường được tạo ra từ danh cơ hoặc hành động bằng cách thêm hậu tố. Mỗi hậu tố mang một ý nghĩa đặc trưng, giúp ta nhanh chóng nhận diện vai trò của từ trong câu.</p>
 					
 			<p>Dưới đây là <strong>bảng tóm tắt các đuôi tính cơ phổ biến nhất</strong> kèm rất nhiều ví dụ thực tế:</p>
 

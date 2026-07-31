@@ -50,7 +50,7 @@ export default function SentenceVariety6(): React.JSX.Element {
 
 			<h4 className="margin-bottom-30 text-center">Dependent Clause: Nền tảng để viết tiếng Anh nâng cao</h4>
 
-			<p>Trong tiếng Anh, <strong>dependent clause</strong> (<strong>phụ câu</strong>) là một phần câu có danh chủ + động cơ nhưng không thể đứng một mình. Nó cần một <strong>independent clause</strong> (<strong>câu con chính</strong>) để tạo thành câu hoàn chỉnh.</p>
+			<p>Trong tiếng Anh, <strong>dependent clause</strong> (<strong>phụ câu</strong>) là một phần câu có danh chủ + hành động nhưng không thể đứng một mình. Nó cần một <strong>independent clause</strong> (<strong>câu con chính</strong>) để tạo thành câu hoàn chỉnh.</p>
 					
 			<p>Khi hiểu rõ và sử dụng thành thạo, bạn sẽ viết câu phức tinh tế, đọc hiểu sâu hơn và diễn đạt ý tưởng mạch lạc hơn.</p>
 
@@ -79,7 +79,7 @@ export default function SentenceVariety6(): React.JSX.Element {
 					<li>Although she was tired, she finished the report.</li>
 					<li className="margin-bottom-20 list-none">Mặc dù mệt, cô ấy vẫn hoàn thành xong bản báo cáo.</li>
 
-					<li className="margin-bottom-20 list-none">→ “<strong>Although she was tired</strong>” có danh chủ (she) và động cơ (was tired), nhưng không thể đứng một mình. Nó bổ nghĩa cho câu con chính “she finished the report.”</li>
+					<li className="margin-bottom-20 list-none">→ “<strong>Although she was tired</strong>” có danh chủ (she) và hành động (was tired), nhưng không thể đứng một mình. Nó bổ nghĩa cho câu con chính “she finished the report.”</li>
 			
 					<li>The house which stands near the river is old. </li>
 					<li className="margin-bottom-20 list-none">Ngôi nhà nằm cạnh bờ sông đã cũ rồi.</li>

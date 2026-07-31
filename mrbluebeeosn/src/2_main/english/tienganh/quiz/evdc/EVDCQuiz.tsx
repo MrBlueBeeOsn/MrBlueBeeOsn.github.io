@@ -30,7 +30,7 @@ export default function EVDCQuiz(): React.JSX.Element {
 				"which"
 			],
 			correctAnswer: 1,
-			explanation: "Cụm từ \"whom she is planning to invite to the party\" là một Noun Clause (Danh câu) làm danh nhận cho động cơ \"know\". Trong câu con phụ này, \"she\" là danh chủ và động cơ \"invite\" cần một danh nhận chỉ người đứng trước, do đó ta dùng \"whom\" thay vì \"who\" (làm danh chủ)."
+			explanation: "Cụm từ \"whom she is planning to invite to the party\" là một Noun Clause (Danh câu) làm danh nhận cho hành động \"know\". Trong câu con phụ này, \"she\" là danh chủ và hành động \"invite\" cần một danh nhận chỉ người đứng trước, do đó ta dùng \"whom\" thay vì \"who\" (làm danh chủ)."
 		},
 		{
 			id: 2,
@@ -90,7 +90,7 @@ export default function EVDCQuiz(): React.JSX.Element {
 				"taking"
 			],
 			correctAnswer: 1,
-			explanation: "Cụm \"that he take a few days off...\" là một Noun Clause đi sau động cơ mang tính cầu khiến \"recommended\". Đây là cấu trúc giả định (Subjunctive Mood), động cơ trong câu con \"that\" bắt buộc phải ở dạng nguyên mẫu không \"to\" cho tất cả các ngôi (he take)."
+			explanation: "Cụm \"that he take a few days off...\" là một Noun Clause đi sau hành động mang tính cầu khiến \"recommended\". Đây là cấu trúc giả định (Subjunctive Mood), hành động trong câu con \"that\" bắt buộc phải ở dạng nguyên mẫu không \"to\" cho tất cả các ngôi (he take)."
 		},
 		{
 			id: 7,
@@ -114,7 +114,7 @@ export default function EVDCQuiz(): React.JSX.Element {
 				"has been"
 			],
 			correctAnswer: 2,
-			explanation: "Cụm \"as if she were the boss...\" là một Adverb Clause of Manner (Trạng câu chỉ cách thức) chứa cấu trúc giả định với \"as if\" (như thể là). Vì thực tế cô ấy không phải là sếp (trái thực tế ở hiện tại), động cơ \"to be\" được chia thành \"were\" cho tất cả các ngôi."
+			explanation: "Cụm \"as if she were the boss...\" là một Adverb Clause of Manner (Trạng câu chỉ cách thức) chứa cấu trúc giả định với \"as if\" (như thể là). Vì thực tế cô ấy không phải là sếp (trái thực tế ở hiện tại), hành động \"to be\" được chia thành \"were\" cho tất cả các ngôi."
 		},
 		{
 			id: 9,
@@ -126,7 +126,7 @@ export default function EVDCQuiz(): React.JSX.Element {
 				"Someone"
 			],
 			correctAnswer: 1,
-			explanation: "Toàn bộ cụm \"Whoever wins the competition\" đóng vai trò là một Noun Clause làm danh chủ chính cho động cơ \"will receive\". \"Whoever\" (bất cứ ai) vừa làm từ nối vừa làm danh chủ cho động cơ \"wins\" bên trong câu con phụ. Nếu chọn \"Anyone\", ta phải có thêm \"who\" (Anyone who wins...)."
+			explanation: "Toàn bộ cụm \"Whoever wins the competition\" đóng vai trò là một Noun Clause làm danh chủ chính cho hành động \"will receive\". \"Whoever\" (bất cứ ai) vừa làm từ nối vừa làm danh chủ cho hành động \"wins\" bên trong câu con phụ. Nếu chọn \"Anyone\", ta phải có thêm \"who\" (Anyone who wins...)."
 		},
 		{
 			id: 10,

@@ -30,7 +30,7 @@ export default function EVAdjectiveClausesQuiz(): React.JSX.Element {
 				"whose"
 			],
 			correctAnswer: 1,
-			explanation: "Đại cơ quan hệ thay thế cho danh cơ chỉ người \"The woman\" và đóng vai trò làm danh chủ trong câu con quan hệ (đứng trước động cơ \"lives\")."
+			explanation: "Đại cơ quan hệ thay thế cho danh cơ chỉ người \"The woman\" và đóng vai trò làm danh chủ trong câu con quan hệ (đứng trước hành động \"lives\")."
 		},
 		{
 			id: 2,
@@ -126,7 +126,7 @@ export default function EVAdjectiveClausesQuiz(): React.JSX.Element {
 				"whose"
 			],
 			correctAnswer: 2,
-			explanation: "Thay thế cho danh cơ số nhiều chỉ người \"The students\" và làm danh chủ cho động cơ \"completed\"."
+			explanation: "Thay thế cho danh cơ số nhiều chỉ người \"The students\" và làm danh chủ cho hành động \"completed\"."
 		},
 		{
 			id: 10,

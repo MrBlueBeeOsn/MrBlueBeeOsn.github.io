@@ -80,7 +80,7 @@ export default function Questionably2(): React.JSX.Element {
 
         <li value="5">Questionably <strong>motivated</strong> /ˈmoʊtɪveɪtɪd/</li>
         <li className="list-none">Her sudden change of heart was ______, and I wondered what she was really up to.</li>
-        <li className="list-none margin-bottom-20">Sự thay đổi đột ngột của cô ấy có động cơ đáng ngờ, và tôi tự hỏi cô ấy đang lên kế hoạch gì.</li>
+        <li className="list-none margin-bottom-20">Sự thay đổi đột ngột của cô ấy có hành động đáng ngờ, và tôi tự hỏi cô ấy đang lên kế hoạch gì.</li>
 
         <li value="6">Questionably <strong>obtained</strong> /əbˈteɪnd/</li>
         <li className="list-none">The evidence was ______ and could be inadmissible in court.</li>

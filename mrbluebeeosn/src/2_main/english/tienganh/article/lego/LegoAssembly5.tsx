@@ -50,7 +50,7 @@ export default function LegoAssembly5(): React.JSX.Element {
 
 			<h4 className="margin-bottom-30 text-center">Học ngữ pháp tiếng Anh bằng cách lắp ghép</h4>
 			
-			<p>Học tiếng Anh theo kiểu truyền thống, bạn phải nhớ "thời hiện tại đơn", "thời quá khứ tiếp diễn", rồi hàng chục bảng chia động cơ với đầy ngoại lệ.</p>
+			<p>Học tiếng Anh theo kiểu truyền thống, bạn phải nhớ "thời hiện tại đơn", "thời quá khứ tiếp diễn", rồi hàng chục bảng chia hành động với đầy ngoại lệ.</p>
 
 			<p>[Lego Assembly] đề xuất một cách nhìn hoàn toàn khác:</p>
 
@@ -138,7 +138,7 @@ export default function LegoAssembly5(): React.JSX.Element {
 
 			<h4 className="margin-y-40">Head tách ra</h4>
 
-			<p className="text-indent-whole">Khi câu cần phủ định đầy đủ hoặc đặt câu hỏi, chỉ dấu thời gian tách thành Head riêng. Phần còn lại gộp thành DP — bắt đầu bằng động cơ nguyên mẫu bare (không "to").</p>
+			<p className="text-indent-whole">Khi câu cần phủ định đầy đủ hoặc đặt câu hỏi, chỉ dấu thời gian tách thành Head riêng. Phần còn lại gộp thành DP — bắt đầu bằng hành động nguyên mẫu bare (không "to").</p>
 					
 				<ul className="list-square">
 			
@@ -293,7 +293,7 @@ export default function LegoAssembly5(): React.JSX.Element {
 
 			<h3 className="margin-y-50 text-center">4. DP — Dependent Phrase</h3>
 
-			<p>DP là tất cả những gì đứng sau Head, không có động cơ chia riêng bên trong. Nó có thể là tính cơ, danh cơ, cụm V-ing, cụm nguyên mẫu, trạng cơ, hoặc cụm giới cơ.</p>
+			<p>DP là tất cả những gì đứng sau Head, không có hành động chia riêng bên trong. Nó có thể là tính cơ, danh cơ, cụm V-ing, cụm nguyên mẫu, trạng cơ, hoặc cụm giới cơ.</p>
 
 				<ul className="list-square">
 
@@ -333,9 +333,9 @@ export default function LegoAssembly5(): React.JSX.Element {
 
 			<h3 className="margin-y-50 text-center">5. DC — Dependent Clause</h3>
 					
-			<p>DC là câu con phụ — nó có động cơ chia riêng bên trong. Đây là điểm duy nhất phân biệt DC với DP.</p>
+			<p>DC là câu con phụ — nó có hành động chia riêng bên trong. Đây là điểm duy nhất phân biệt DC với DP.</p>
 					
-			<p>Kiểm tra nhanh: có động cơ đang "chạy" bên trong không? Có → DC. Không → DP.</p>
+			<p>Kiểm tra nhanh: có hành động đang "chạy" bên trong không? Có → DC. Không → DP.</p>
 
 			<h4 className="margin-y-40">DC làm danh nhận — đứng sau Head</h4>
 					

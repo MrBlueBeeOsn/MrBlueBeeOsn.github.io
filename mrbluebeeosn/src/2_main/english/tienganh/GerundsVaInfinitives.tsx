@@ -77,7 +77,7 @@ export default function GerundsVaInfinitives(): React.JSX.Element {
 						<tr>
 								<td>Thường đứng ở vị trí</td>
 								<td>Danh chủ, danh nhận, sau giới cơ</td>
-								<td>Danh nhận của một số động cơ nhất định</td>
+								<td>Danh nhận của một số hành động nhất định</td>
 						</tr>
 
 						<tr>
@@ -139,7 +139,7 @@ export default function GerundsVaInfinitives(): React.JSX.Element {
 						</tr>
 
 						<tr>
-								<td>Một số động cơ đặc biệt</td>
+								<td>Một số hành động đặc biệt</td>
 								<td>admit, deny, practice, miss, postpone, risk</td>
 								<td>manage, fail, afford, deserve, appear, seem, tend</td>
 								<td>regret, go on, mean</td>

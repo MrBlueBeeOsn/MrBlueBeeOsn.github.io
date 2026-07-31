@@ -33,7 +33,7 @@ export default function Bang30PhrasalVerbs(): React.JSX.Element {
 			
 				</ul>
 
-			<p className="margin-top-20">Native speakers dùng phrasal verbs <strong>rất nhiều</strong> trong nói chuyện đời thường – khoảng 80% động cơ trong hội thoại hàng ngày là phrasal verbs. Học chúng không chỉ giúp bạn nghe hiểu tốt hơn mà còn khiến câu nói của bạn tự nhiên, thân mật và ấn tượng hơn rất nhiều.</p>
+			<p className="margin-top-20">Native speakers dùng phrasal verbs <strong>rất nhiều</strong> trong nói chuyện đời thường – khoảng 80% hành động trong hội thoại hàng ngày là phrasal verbs. Học chúng không chỉ giúp bạn nghe hiểu tốt hơn mà còn khiến câu nói của bạn tự nhiên, thân mật và ấn tượng hơn rất nhiều.</p>
 
 			<h3 className="margin-y-50 text-center">Tại sao phrasal verbs quan trọng trong năm 2026?</h3>
 					

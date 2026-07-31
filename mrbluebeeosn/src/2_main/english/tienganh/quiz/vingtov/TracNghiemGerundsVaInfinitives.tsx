@@ -30,7 +30,7 @@ export default function TracNghiemGerundsVaInfinitives(): React.JSX.Element {
 				"to meet"
 			],
 			correctAnswer: 1,
-			explanation: "Cấu trúc \"Look forward to\" là một cụm từ cố định mang ý nghĩa mong đợi một điều gì đó với sự hân hoan. Trong cấu trúc này, từ \"to\" đóng vai trò là một giới cơ chứ không phải là dấu hiệu của động cơ nguyên mẫu (To-infinitive), vì vậy theo quy tắc ngữ pháp, sau giới cơ chúng ta phải sử dụng một danh động cơ (V-ing)."
+			explanation: "Cấu trúc \"Look forward to\" là một cụm từ cố định mang ý nghĩa mong đợi một điều gì đó với sự hân hoan. Trong cấu trúc này, từ \"to\" đóng vai trò là một giới cơ chứ không phải là dấu hiệu của hành động nguyên mẫu (To-infinitive), vì vậy theo quy tắc ngữ pháp, sau giới cơ chúng ta phải sử dụng một danh hành động (V-ing)."
 		},
 		{
 			id: 2,
@@ -42,7 +42,7 @@ export default function TracNghiemGerundsVaInfinitives(): React.JSX.Element {
 				"gone"
 			],
 			correctAnswer: 1,
-			explanation: "Cấu trúc \"Let + someone + V (bare-infinitive)\" được dùng để diễn tả việc cho phép ai đó làm gì. Trong cấu trúc này, động cơ đi sau danh nhận (me) bắt buộc phải ở dạng nguyên thể không có \"to\"."
+			explanation: "Cấu trúc \"Let + someone + V (bare-infinitive)\" được dùng để diễn tả việc cho phép ai đó làm gì. Trong cấu trúc này, hành động đi sau danh nhận (me) bắt buộc phải ở dạng nguyên thể không có \"to\"."
 		},
 		{
 			id: 3,
@@ -54,7 +54,7 @@ export default function TracNghiemGerundsVaInfinitives(): React.JSX.Element {
 				"bought"
 			],
 			correctAnswer: 2,
-			explanation: "Động cơ \"Decide\" (quyết định) là một trong những động cơ luôn đi kèm với động cơ nguyên mẫu có \"to\" (To-infinitive) khi muốn diễn tả quyết định thực hiện một hành động nào đó trong tương lai."
+			explanation: "Động cơ \"Decide\" (quyết định) là một trong những hành động luôn đi kèm với hành động nguyên mẫu có \"to\" (To-infinitive) khi muốn diễn tả quyết định thực hiện một hành động nào đó trong tương lai."
 		},
 		{
 			id: 4,
@@ -66,7 +66,7 @@ export default function TracNghiemGerundsVaInfinitives(): React.JSX.Element {
 				"cried"
 			],
 			correctAnswer: 2,
-			explanation: "\"It’s no use\" là một thành ngữ cố định có nghĩa là \"chẳng ích gì\" hoặc \"vô ích khi làm gì\". Theo quy tắc ngữ pháp, sau cấu trúc này chúng ta luôn sử dụng danh động cơ (V-ing)."
+			explanation: "\"It’s no use\" là một thành ngữ cố định có nghĩa là \"chẳng ích gì\" hoặc \"vô ích khi làm gì\". Theo quy tắc ngữ pháp, sau cấu trúc này chúng ta luôn sử dụng danh hành động (V-ing)."
 		},
 		{
 			id: 5,
@@ -78,7 +78,7 @@ export default function TracNghiemGerundsVaInfinitives(): React.JSX.Element {
 				"gone"
 			],
 			correctAnswer: 2,
-			explanation: "Động cơ \"Suggest\" (gợi ý) khi được theo sau trực tiếp bởi một hành động khác mà không có danh nhận chỉ người thì hành động đó phải được chia ở dạng danh động cơ (V-ing)."
+			explanation: "Động cơ \"Suggest\" (gợi ý) khi được theo sau trực tiếp bởi một hành động khác mà không có danh nhận chỉ người thì hành động đó phải được chia ở dạng danh hành động (V-ing)."
 		},
 		{
 			id: 6,
@@ -126,7 +126,7 @@ export default function TracNghiemGerundsVaInfinitives(): React.JSX.Element {
 				"finished"
 			],
 			correctAnswer: 1,
-			explanation: "Động cơ \"Manage\" mang nghĩa là xoay xở hoặc thành công làm được việc gì đó. Theo sau động cơ này, chúng ta luôn sử dụng dạng nguyên mẫu có \"to\" (To-infinitive)."
+			explanation: "Động cơ \"Manage\" mang nghĩa là xoay xở hoặc thành công làm được việc gì đó. Theo sau hành động này, chúng ta luôn sử dụng dạng nguyên mẫu có \"to\" (To-infinitive)."
 		},
 		{
 			id: 10,
@@ -138,7 +138,7 @@ export default function TracNghiemGerundsVaInfinitives(): React.JSX.Element {
 				"closed"
 			],
 			correctAnswer: 2,
-			explanation: "Trong các câu hỏi lịch sự với \"Do you mind\" hoặc \"Would you mind\" (Bạn có phiền/ngại làm gì đó không), động cơ chính theo sau luôn phải ở dạng danh động cơ (V-ing)."
+			explanation: "Trong các câu hỏi lịch sự với \"Do you mind\" hoặc \"Would you mind\" (Bạn có phiền/ngại làm gì đó không), hành động chính theo sau luôn phải ở dạng danh hành động (V-ing)."
 		}
 	];
 
