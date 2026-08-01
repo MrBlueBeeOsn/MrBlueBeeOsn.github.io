@@ -68,8 +68,8 @@ export default function Create(): React.JSX.Element {
           <li value="1">[<strong>Rễ Động Cơ</strong>][<strong>Root Verb Base</strong>]: create</li>
           <li className="margin-bottom-20 list-none">Hành động ở dạng [Rễ Động Cơ][Root Verb Base] nguyên bản chưa qua xử lý gộp hay biến hóa cấu trúc hình thái vật lý.</li>
       
-          <li value="2">[<strong>Hạt Động Cơ</strong>][<strong>Particle Verb Base</strong>]: to</li>
-          <li className="margin-bottom-20 list-none">Mã định vị độc lập làm điểm tựa khởi động, đặt nền móng trực tiếp trước lõi vận hành chính.</li>
+          <li value="2">[<strong>Hạt Động Cơ</strong>][<strong>Particle Verb Base</strong>]: to, away, back, over, on</li>
+          <li className="margin-bottom-20 list-none">[Hạt] to đơn lẻ đóng vai trò mã định vị độc lập làm điểm tựa khởi động, đặt nền móng trực tiếp trước hành động để kích hoạt trạng thái nguyên bản. Các [Hạt] như away, back, over, on đơn lẻ đứng sau hành động để mở rộng hướng di chuyển, phạm vi tác động, cường độ hoặc trạng thái tiếp diễn/kết thúc của hạt nhân vận hành đó.</li>
 
           <li value="3">[<strong>Thời Động Cơ</strong>][<strong>Tense Verb Base</strong>]: does, did, is, has, was, am, are</li>
           <li className="margin-bottom-20 list-none">Hành động đơn lẻ xuất hiện để mang năng lượng [Thời] gian / [Thời] trong câu.</li>
@@ -265,7 +265,9 @@ export default function Create(): React.JSX.Element {
 
       <p className="margin-top-20 text-indent-whole"><strong>2.1</strong> <strong>Hình thành chức năng</strong> [<strong>Danh Cụm</strong>][<strong>Noun Phrase</strong>]</p>
 
-      <p className="margin-top-20 text-indent-whole">[Danh Cụm][Noun Phrase] cấu tạo từ [Tiếp Động Cụm][Progressive Verb Phrase] làm [Danh Chủ][Noun Subject]</p>
+      <p className="margin-top-20 text-indent-whole">[<strong>Danh Cụm</strong>][<strong>Noun Phrase</strong>] <strong>cấu tạo từ</strong> [<strong>Tiếp Động Cụm</strong>][<strong>Progressive Verb Phrase</strong>] <strong>làm</strong> [<strong>Danh Chủ</strong>][<strong>Noun Subject</strong>]</p>
+
+      <p className="margin-top-20 text-indent-whole">Ví dụ 4a:</p>
       
         <ul className="list-square">
       
@@ -278,8 +280,11 @@ export default function Create(): React.JSX.Element {
       
         </ul>
 
-      
-      <p className="margin-top-20 text-indent-whole">Ví dụ 4b: [Danh Cụm][Noun Phrase] cấu tạo từ [Tiếp Động Cụm][Progressive Verb Phrase] làm [Danh Nhận][Noun Object]</p>
+  
+
+      <p className="margin-top-20 text-indent-whole">[<strong>Danh Cụm</strong>][<strong>Noun Phrase</strong>] <strong>cấu tạo từ</strong> [<strong>Tiếp Động Cụm</strong>][<strong>Progressive Verb Phrase</strong>] <strong>làm</strong> [<strong>Danh Nhận</strong>][<strong>Noun Object</strong>]</p>
+
+      <p className="margin-top-20 text-indent-whole">Ví dụ 4b:</p>
       
         <ul className="list-square">
       
@@ -519,7 +524,26 @@ export default function Create(): React.JSX.Element {
 
       <p className="margin-top-20 text-indent-whole"><strong>4.1.1</strong> <strong>Hình thành chức năng</strong> [<strong>Danh Câu</strong>][<strong>Noun Clause</strong>]</p>
 
-      <p className="margin-top-20 text-indent-whole">Ví dụ 9:</p>
+      <p className="margin-top-20 text-indent-whole">[<strong>Danh Câu</strong>][<strong>Noun Clause</strong>] <strong>cấu tạo từ</strong> [<strong>Hiển-Liên Động Câu</strong>][<strong>Connector Verb Clause</strong>] <strong>làm</strong> [<strong>Danh Chủ</strong>][<strong>Noun Subject</strong>]</p>
+
+      <p className="margin-top-20 text-indent-whole">Ví dụ 9a:</p>
+      
+        <ul className="list-square">
+      
+          <li>[How the team creates customized solutions] impresses every client.</li>
+          <li className="margin-bottom-20 list-none">[Cách đội ngũ tạo ra các giải pháp tùy chỉnh] làm ấn tượng mọi khách hàng.</li>
+      
+          <li className="list-none">Hình thái: [How the team creates customized solutions] - [Hiển-Liên Động Câu][Connector Verb Clause] chứa thành phần liên kết trực quan "How" ở đầu, mang [Danh Chủ][Noun Subject] riêng "the team" và cụm hành động phối hợp phía sau.</li>
+      
+          <li className="list-none">Chức năng: [How the team creates customized solutions] - [Danh Câu][Noun Clause] đóng vai trò làm [Danh Chủ][Noun Subject] quản lý khối thông tin quy trình đứng đầu câu để điều khiển [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "impresses".</li>
+      
+        </ul>
+
+
+
+      <p className="margin-top-20 text-indent-whole">[<strong>Danh Câu</strong>][<strong>Noun Clause</strong>] <strong>cấu tạo từ</strong> [<strong>Hiển-Liên Động Câu</strong>][<strong>Connector Verb Clause</strong>] <strong>làm</strong> [<strong>Danh Nhận</strong>][<strong>Noun Object</strong>]</p>
+
+      <p className="margin-top-20 text-indent-whole">Ví dụ 9b:</p>
       
         <ul className="list-square">
       

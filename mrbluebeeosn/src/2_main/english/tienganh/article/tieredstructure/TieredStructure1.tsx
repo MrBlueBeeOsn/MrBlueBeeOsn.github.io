@@ -165,8 +165,8 @@ export default function TieredStructure1(): React.JSX.Element {
           <li value="1">[<strong>Rễ Động Cơ</strong>][<strong>Root Verb Base</strong>]: build, design, explore</li>
           <li className="margin-bottom-20 list-none">Hành động ở dạng [Rễ Động Cơ][Root Verb Base] trạng thái nguyên thủy, chưa qua bất kỳ bộ lọc chia thời, chia ngôi hay xử lý thái độ nào.</li>
       
-          <li value="2">[<strong>Hạt Động Cơ</strong>][<strong>Particle Verb Base</strong>]: to</li>
-          <li className="margin-bottom-20 list-none">[Hạt] nhân định hướng đứng độc lập, đóng vai trò làm công tắc kích hoạt trạng thái nguyên bản cho chuỗi hành động phía sau.</li>
+          <li value="2">[<strong>Hạt Động Cơ</strong>][<strong>Particle Verb Base</strong>]: to, away, back, over, through, around, ahead</li>
+          <li className="margin-bottom-20 list-none">[Hạt] "to" đơn lẻ đóng vai trò hạt nhân đầu tiên đứng trước mọi khối hành động để làm công tắc kích hoạt trạng thái nguyên bản. Các [Hạt] như away, back, over, through, around, ahead, ... đơn lẻ đứng sau đóng vai trò định hướng hành động để khuếch đại, chuyển giao hoặc làm rõ quỹ đạo chuyển động cho khối hành động.</li>
 
           <li value="3">[<strong>Thời Động Cơ</strong>][<strong>Tense Verb Base</strong>]: does, did, is, has, was, am, are</li>
           <li className="margin-bottom-20 list-none">Từ đơn lẻ đóng vai trò làm bộ định vị, mang năng lượng [Thời] gian thực tế vào trong câu.</li>
@@ -527,7 +527,21 @@ export default function TieredStructure1(): React.JSX.Element {
 			<h5 className="margin-y-30 text-indent-whole">Phân hệ [Hiển-Liên Động Câu][Connector Verb Clause] (Có Từ Kết Nối)</h5>
 
 
-			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 12</strong>: <strong>Hình thành chức năng</strong> [<strong>Danh Câu</strong>][<strong>Noun Clause</strong>]</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 12.1</strong>: <strong>Hình thành chức năng</strong> [<strong>Danh Câu</strong>][<strong>Noun Clause</strong>] <strong>làm Khối</strong> [<strong>Danh Chủ</strong>][<strong>Noun Subject</strong>]</p>
+			
+				<ul className="list-square">
+			
+					<li>[How they build the system] determines success.</li>
+					<li className="margin-bottom-20 list-none">[Cách mà họ xây dựng hệ thống] quyết định sự thành công.</li>
+
+					<li className="list-none">Hình thái: [How they build the system] - [Hiển-Liên Động Câu][Connector Verb Clause] đại diện cho khối mã chứa câu con hoàn chỉnh bắt đầu bằng [Liên Cơ][Connector Base] kết nối how, có chủ thể "they" và [Thời-Thuần Động Cơ][Tense-Bare Verb Base] build.</li>
+
+					<li className="list-none">Chức năng: [How they build the system] - [Danh Câu][Noun Clause] đảm nhận nhiệm vụ làm Khối [Danh Chủ][Noun Subject] ở đầu câu để điều hành và đóng vai trò làm chủ thể thực thi cho hành động "determines".</li>
+			
+				</ul>
+
+
+			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 12.2</strong>: <strong>Hình thành chức năng</strong> [<strong>Danh Câu</strong>][<strong>Noun Clause</strong>] <strong>làm Khối</strong> [<strong>Danh Nhận</strong>][<strong>Noun Object</strong>]</p>
 			
 				<ul className="list-square">
 			
