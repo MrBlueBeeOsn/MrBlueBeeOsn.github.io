@@ -333,7 +333,22 @@ export default function NineBox1(): React.JSX.Element {
 
 			<p className="text-indent-whole">Là đơn vị hành động mở rộng ở quy mô lớn nhất, chứa một cấu trúc câu con bên trong nó. Khi được "gắn" vào hệ thống, khối hình thái này sẽ hình thành nên các chức năng dữ liệu phức hợp:</p>
 
-			<p className="margin-top-20 text-indent-whole"><strong>Hình thành Chức năng</strong> [<strong>Danh Câu</strong>][<strong>Noun Clause</strong>]:</p>
+
+			<p className="margin-top-20 text-indent-whole"><strong>Hình thành Chức năng</strong> [<strong>Danh Câu</strong>][<strong>Noun Clause</strong>] <strong>làm</strong> [<strong>Danh Chủ</strong>][<strong>Noun Subject</strong>]:</p>
+			
+				<ul className="list-square">
+			
+					<li>[How the system encrypted the data] remains a secret.</li>
+					<li className="margin-bottom-20 list-none">[Cách hệ thống mã hóa dữ liệu] vẫn là một bí mật.</li>
+			
+					<li className="list-none">Hình thái: [How the system encrypted the data] – [Hiển-Liên Động Câu][Connector Verb Clause] chứa khối kết nối dẫn đường tường minh "How" kết hợp cùng một cấu trúc câu con xoay quanh [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "encrypted".</li>
+			
+					<li className="list-none">Chức năng: [How the system encrypted the data] – [Danh Câu][Noun Clause] đóng vai trò làm [Danh Chủ][Noun Subject] đứng trước [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "remains" chịu trách nhiệm thực thi câu lớn.</li>
+			
+				</ul>
+			
+
+			<p className="margin-top-20 text-indent-whole"><strong>Hình thành Chức năng</strong> [<strong>Danh Câu</strong>][<strong>Noun Clause</strong>] <strong>làm</strong> [<strong>Danh Nhận</strong>][<strong>Noun Object</strong>]:</p>
 			
 				<ul className="list-square">
 			
@@ -380,7 +395,7 @@ export default function NineBox1(): React.JSX.Element {
 			<p className="text-indent-whole">Trong thực tế vận hành ngôn ngữ, các cấu trúc kết nối thường được lược bỏ. Khối dữ liệu lúc này có hình thái bề ngoài giống hệt như một câu độc lập, nhưng bản chất vẫn là một [Câu][Clause] không thể đứng một mình vì đang bị khóa chặt vào một vị trí chức năng bên trong Câu lớn:</p>
 
 
-			<p className="margin-top-20 text-indent-whole">[<strong>Danh Nhận</strong>][<strong>Noun Object</strong>]:</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Hình thành Chức năng</strong> [<strong>Danh Câu</strong>][<strong>Noun Clause</strong>]:</p>
 			
 				<ul className="list-square">
 			
@@ -394,7 +409,7 @@ export default function NineBox1(): React.JSX.Element {
 				</ul>
 			
 			
-			<p className="margin-top-20 text-indent-whole">[<strong>Tính Câu</strong>][<strong>Adjective Clause</strong>]:</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Hình thành Chức năng</strong> [<strong>Tính Câu</strong>][<strong>Adjective Clause</strong>]:</p>
 			
 				<ul className="list-square">
 			
@@ -408,7 +423,7 @@ export default function NineBox1(): React.JSX.Element {
 				</ul>
 			
 			
-			<p className="margin-top-20 text-indent-whole">[<strong>Trạng Câu</strong>][<strong>Adverb Clause</strong>]:</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Hình thành Chức năng</strong> [<strong>Trạng Câu</strong>][<strong>Adverb Clause</strong>]:</p>
 			
 				<ul className="list-square">
 			
@@ -425,12 +440,12 @@ export default function NineBox1(): React.JSX.Element {
 
 			<h4 className="margin-y-40">2.4. Nhóm Hình Thái KHÔNG Thuộc Hệ Động</h4>
 					
-			<p className="text-indent-whole">Bên cạnh hệ động, cấu trúc ngôn ngữ còn được vận hành bởi các khối liên kết không xuất phát từ gốc hành động, tiêu biểu là <strong>Giới Cụm</strong> [Prepositional Phrase].</p>
+			<p className="text-indent-whole">Bên cạnh hệ động, cấu trúc ngôn ngữ còn được vận hành bởi các khối liên kết không xuất phát từ gốc hành động, tiêu biểu là [Giới Cụm][Prepositional Phrase].</p>
 
 			<p className="text-indent-whole">Khối này được nhận diện trực tiếp bằng mắt thông qua cấu trúc dẫn đường: [Giới Cơ][Prepositional Base] hoặc [Phức Giới Cơ][Complex Prepositional Base] đứng đầu, phối hợp cùng một khối danh mục mục tiêu làm [Danh Nhận][Noun Object] phía sau. Khi đưa vào vận hành, khối này chỉ đảm nhận việc kích hoạt thuộc tính hoặc bối cảnh.</p>
 
 
-			<p className="margin-top-20 text-indent-whole"><strong>Hình thành Chức năng Tính Cụm</strong> [<strong>Adjective Phrase</strong>]:</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Hình thành Chức năng</strong> [<strong>Tính Cụm</strong>][<strong>Adjective Phrase</strong>]:</p>
 			
 				<ul className="list-square">
 			
@@ -444,7 +459,7 @@ export default function NineBox1(): React.JSX.Element {
 				</ul>
 			
 			
-			<p className="margin-top-20 text-indent-whole"><strong>Hình thành Chức năng Trạng Cụm</strong> [<strong>Adverb Phrase</strong>]:</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Hình thành Chức năng</strong> [<strong>Trạng Cụm</strong>][<strong>Adverb Phrase</strong>]:</p>
 			
 				<ul className="list-square">
 			
