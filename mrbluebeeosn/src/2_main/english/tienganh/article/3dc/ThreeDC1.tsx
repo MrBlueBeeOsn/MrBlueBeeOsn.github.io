@@ -385,7 +385,21 @@ export default function ThreeDC1(): React.ReactElement {
 			<p className="text-indent-whole">Là đơn vị hành động mạnh mẽ nhất vì chứa cấu trúc khối hoàn chỉnh bên trong có [Danh Chủ][Noun Subject] và các cấu hình [Động Cơ][Verb Base] riêng biệt, đồng thời được dẫn dắt trực tiếp bởi một [Liên Cơ][Connector Base] tường minh:</p>
 
 
-			<p className="text-indent-whole"><strong>Ví dụ 1</strong>: <strong>Sinh ra</strong> [<strong>DANH CÂU</strong>][<strong>NOUN CLAUSE</strong>]:</p>
+			<p className="text-indent-whole"><strong>Ví dụ 1a</strong>: <strong>Sinh ra</strong> [<strong>DANH CÂU</strong>][<strong>NOUN CLAUSE</strong>] <strong>làm khối</strong> [<strong>Danh Chủ</strong>][<strong>Noun Subject</strong>]</p>
+			
+				<ul className="list-square">
+			
+					<li>[That the algorithm possessed a bias] surprised the engineering team.</li>
+					<li className="margin-bottom-20 list-none">[Rằng thuật toán đã có một sự thiên vị] làm đội ngũ kỹ sư ngạc nhiên.</li>
+			
+					<li className="list-none">Hình thái: Khối [That the algorithm possessed a bias] - [Hiển-Liên Động Câu][Connector Verb Clause] bắt đầu bằng [Liên Cơ][Connector Base] "that" kết hợp với cấu trúc một khối hoàn chỉnh có [Danh Chủ][Noun Subject] "the algorithm" và [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "possessed".</li>
+			
+					<li className="list-none">Chức năng: Khối [That the algorithm possessed a bias] - [Danh Câu][Noun Clause] đóng vai trò làm [Danh Chủ][Noun Subject] đứng trước điều phối [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "surprised".</li>
+			
+				</ul>
+
+
+			<p className="text-indent-whole"><strong>Ví dụ 1b</strong>: <strong>Sinh ra</strong> [<strong>DANH CÂU</strong>][<strong>NOUN CLAUSE</strong>] <strong>làm khối</strong> [<strong>Danh Nhận</strong>][<strong>Noun Object</strong>]</p>
 			
 				<ul className="list-square">
 			

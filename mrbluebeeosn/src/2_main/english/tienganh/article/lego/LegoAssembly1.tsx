@@ -394,7 +394,21 @@ export default function LegoAssembly1(): React.JSX.Element {
 				</ul>
 
 			
-			<p className="margin-top-20 text-indent-whole">[<strong>Danh Câu</strong>][<strong>Noun Clause</strong>] <strong>cấu tạo từ</strong> [<strong>Hiển-Liên Động Câu</strong>][<strong>Connector Verb Clause</strong>]:</p>
+			<p className="margin-top-20 text-indent-whole">[<strong>Danh Câu</strong>][<strong>Noun Clause</strong>] <strong>cấu tạo từ</strong> [<strong>Hiển-Liên Động Câu</strong>][<strong>Connector Verb Clause</strong>] <strong>làm</strong> [<strong>Danh Chủ</strong>][<strong>Noun Subject</strong>]:</p>
+			
+				<ul className="list-square">
+			
+					<li>[How the system operates] determines overall performance.</li>
+					<li className="margin-bottom-20 list-none">[Cách hệ thống vận hành] quyết định hiệu năng tổng thể.</li>
+
+					<li className="list-none">Hình thái: [How the system operates] - [Hiển-Liên Động Câu][Connector Verb Clause] chứa [Liên Cơ][Connector Base] How ở vị trí đầu khối để dẫn dắt, liên kết một cấu trúc hoàn chỉnh có [Danh Chủ][Noun Subject] nội bộ the system và hành động operates ở phía sau.</li>
+
+					<li className="list-none">Chức năng: [How the system operates] - [Danh Câu][Noun Clause] đóng vai trò làm [Danh Chủ][Noun Subject] đứng đầu câu kích hoạt và cung cấp năng lượng cho bộ nguồn [Thời-Thuần Động Cơ][Tense-Bare Verb Base] determines.</li>
+			
+				</ul>
+
+			
+			<p className="margin-top-20 text-indent-whole">[<strong>Danh Câu</strong>][<strong>Noun Clause</strong>] <strong>cấu tạo từ</strong> [<strong>Hiển-Liên Động Câu</strong>][<strong>Connector Verb Clause</strong>] <strong>làm</strong> [<strong>Danh Nhận</strong>][<strong>Noun Object</strong>]:</p>
 			
 				<ul className="list-square">
 			

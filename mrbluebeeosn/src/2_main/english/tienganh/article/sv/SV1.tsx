@@ -158,8 +158,8 @@ export default function SV1(): React.JSX.Element {
           <li value="1">[<strong>Rễ Động Cơ</strong>][<strong>Root Verb Base</strong>]: learn, speak, build</li>
           <li className="margin-bottom-20 list-none">Hành động ở dạng [Rễ Động Cơ][Root Verb Base] nguyên thủy cốt lõi nhất, chưa thêm bớt hay kết hợp với bất kỳ hành động nào khác.</li>
       
-          <li value="2">[<strong>Hạt Động Cơ</strong>][<strong>Particle Verb Base</strong>]: to</li>
-          <li className="margin-bottom-20 list-none">[Hạt] "to" đơn lẻ đóng vai trò hạt nhân đầu tiên đứng trước mọi khối hành động để kích hoạt trạng thái nguyên bản.</li>
+          <li value="2">[<strong>Hạt Động Cơ</strong>][<strong>Particle Verb Base</strong>]: to, in, on, at, by</li>
+          <li className="margin-bottom-20 list-none">[Hạt] "to" đơn lẻ đóng vai trò hạt nhân đầu tiên đứng trước mọi khối hành động để kích hoạt trạng thái nguyên bản. Các [Hạt] như in, on, at, by đơn lẻ đứng sau đóng vai trò định hướng hành động để chỉ rõ không gian hoặc phương thức thực hiện.</li>
 
           <li value="3">[<strong>Thời Động Cơ</strong>][<strong>Tense Verb Base</strong>]: does, did, is, has, was, am, are</li>
           <li className="margin-bottom-20 list-none">Các [Thời Động Cơ][Tense Verb Base] xuất hiện đơn lẻ để gánh vác năng lượng [Thời] gian, [Thời] cho câu.</li>
@@ -368,7 +368,19 @@ export default function SV1(): React.JSX.Element {
 			<h4 className="margin-y-40">4. Hình thái [Hiển-Liên Động Câu][Connector Verb Clause]</h4>
 
 			<p className="text-indent-whole">Đơn vị hành động phức cao cấp, chứa một cấu trúc [Câu][Clause] hoàn chỉnh ở bên trong có chứa hệ trục [S][V].</p>
+
+
+			<ul className="list-square">
 			
+					<li>[That he won the competition] surprised everyone.</li>
+					<li className="margin-bottom-20 list-none">[Việc anh ấy chiến thắng cuộc thi] đã làm mọi người ngạc nhiên.</li>
+			
+					<li className="list-none">Hình thái: [That he won the competition] - [Hiển-Liên Động Câu][Connector Verb Clause] tạo nên khối hành động phức có chứa hệ trục [S][V] ("he won the competition"), bắt đầu bằng [Liên Cơ][Connector Base] "that".</li>
+			
+					<li className="margin-bottom-20 list-none">Chức năng: [That he won the competition] - [Danh Câu][Noun Clause] đảm nhận nhiệm vụ của một khối đối tượng đứng trước [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "surprised" để làm [Danh Chủ][Noun Subject] điều phối toàn bộ thông tin cho [Câu Lớn][Sentence].</li>
+			
+				</ul>
+
 				<ul className="list-square">
 			
 					<li>Everyone knows [that water boils at 100 degrees].</li>
@@ -379,7 +391,6 @@ export default function SV1(): React.JSX.Element {
 					<li className="margin-bottom-20 list-none">Chức năng: [that water boils at 100 degrees] - [Danh Câu][Noun Clause] đảm nhận nhiệm vụ của một khối đối tượng đứng sau [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "knows" để làm [Danh Nhận][Noun Object] dưới sự điều phối của nó.</li>
 			
 				</ul>
-
 
 			
 				<ul className="list-square">

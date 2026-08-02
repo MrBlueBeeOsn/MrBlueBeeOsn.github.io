@@ -81,8 +81,8 @@ export default function SuperWords1(): React.JSX.Element {
           <li value="1">[<strong>Rễ Động Cơ</strong>][<strong>Root Verb Base</strong>]: build, design, test</li>
           <li className="margin-bottom-20 list-none">Hành động ở dạng [Rễ Động Cơ][Root Verb Base] nguyên thủy nhất, chưa thêm bớt hay kết hợp với bất kỳ hành động nào khác.</li>
       
-          <li value="2">[<strong>Hạt Động Cơ</strong>][<strong>Particle Verb Base</strong>]: to</li>
-          <li className="margin-bottom-20 list-none">[Hạt] "to" đơn lẻ đóng vai trò hạt nhân đầu tiên đứng trước mọi khối hành động để kích hoạt trạng thái nguyên bản.</li>
+          <li value="2">[<strong>Hạt Động Cơ</strong>][<strong>Particle Verb Base</strong>]: to, in, on, away, back</li>
+          <li className="margin-bottom-20 list-none">[Hạt] "to" đơn lẻ đóng vai trò hạt nhân đầu tiên đứng trước mọi khối hành động để kích hoạt trạng thái nguyên bản. Các [Hạt] như in, on, away, back đơn lẻ đứng sau đóng vai trò định hướng hành động để mở rộng không gian, phương hướng hoặc trạng thái vận động cho hành động chính.</li>
 
           <li value="3">[<strong>Thời Động Cơ</strong>][<strong>Tense Verb Base</strong>]: does, did, is, has, was, am, are</li>
           <li className="margin-bottom-20 list-none">Hành động đơn lẻ xuất hiện để mang năng lượng [Thời] gian hoặc chia mốc thời trong câu.</li>
@@ -240,7 +240,7 @@ export default function SuperWords1(): React.JSX.Element {
 
 			<p>Khi nhìn thấy hình thái [ĐỘNG CƠ][Verb Base], chức năng của nó sẽ được quyết định bởi vị trí đứng:</p>
 
-			<p className="margin-top-20"><strong>Ví dụ 1</strong>:</p>
+			<p className="margin-top-20"><strong>Ví dụ 1</strong>: [<strong>Danh Cơ</strong>][<strong>Noun Base</strong>]</p>
 			
 				<ul className="list-square">
 			
@@ -254,7 +254,7 @@ export default function SuperWords1(): React.JSX.Element {
 				</ul>
 			
 			
-			<p className="margin-top-20"><strong>Ví dụ 2</strong>:</p>
+			<p className="margin-top-20"><strong>Ví dụ 2</strong>: [<strong>Tính Cơ</strong>][<strong>Adjective Base</strong>]</p>
 			
 				<ul className="list-square">
 			
@@ -268,7 +268,7 @@ export default function SuperWords1(): React.JSX.Element {
 				</ul>
 			
 			
-			<p className="margin-top-20"><strong>Ví dụ 3</strong>:</p>
+			<p className="margin-top-20"><strong>Ví dụ 3</strong>: [<strong>Trạng Cơ</strong>][<strong>Adverb Base</strong>]</p>
 			
 				<ul className="list-square">
 			
@@ -290,7 +290,7 @@ export default function SuperWords1(): React.JSX.Element {
 
 			<p>Áp dụng quy tắc cốt lõi, đây là khối hành động mở rộng chứa nhiều chữ phối hợp bọc lót cho nhau nhưng chưa tạo thành một câu con hoàn chỉnh. Chức năng của [ĐỘNG CỤM][Verb Phrase] sẽ được quyết định dựa vào vị trí đứng trong câu lớn:</p>
 
-			<p className="margin-top-20"><strong>Ví dụ 1</strong>: <strong>Làm</strong> [<strong>Danh Chủ</strong>][<strong>Noun Subject</strong>]:</p>
+			<p className="margin-top-20"><strong>Ví dụ 1a</strong>: [<strong>Danh Cụm</strong>][<strong>Noun Phrase</strong>] <strong>làm</strong> [<strong>Danh Chủ</strong>][<strong>Noun Subject</strong>]</p>
 			
 				<ul className="list-square">
 			
@@ -304,7 +304,7 @@ export default function SuperWords1(): React.JSX.Element {
 				</ul>
 			
 
-			<p className="margin-top-20"><strong>Ví dụ 2</strong>: <strong>Làm</strong> [<strong>Danh Nhận</strong>][<strong>Noun Object</strong>]:</p>
+			<p className="margin-top-20"><strong>Ví dụ 1b</strong>: [<strong>Danh Cụm</strong>][<strong>Noun Phrase</strong>] <strong>làm</strong> [<strong>Danh Nhận</strong>][<strong>Noun Object</strong>]</p>
 			
 				<ul className="list-square">
 			
@@ -318,7 +318,7 @@ export default function SuperWords1(): React.JSX.Element {
 				</ul>
 			
 			
-			<p className="margin-top-20"><strong>Ví dụ 3</strong>: <strong>Làm</strong> [<strong>Tính Cụm</strong>][<strong>Adjective Phrase</strong>]:</p>
+			<p className="margin-top-20"><strong>Ví dụ 2</strong>: [<strong>Tính Cụm</strong>][<strong>Adjective Phrase</strong>]</p>
 			
 				<ul className="list-square">
 			
@@ -332,7 +332,7 @@ export default function SuperWords1(): React.JSX.Element {
 				</ul>
 			
 			
-			<p className="margin-top-20"><strong>Ví dụ 4</strong>: <strong>Làm</strong> [<strong>Trạng Cụm</strong>][<strong>Adverb Phrase</strong>]:</p>
+			<p className="margin-top-20"><strong>Ví dụ 3</strong>: [<strong>Trạng Cụm</strong>][<strong>Adverb Phrase</strong>]</p>
 			
 				<ul className="list-square">
 			
@@ -355,7 +355,7 @@ export default function SuperWords1(): React.JSX.Element {
 			<p>Khi nhìn thấy hình thái [GIỚI CỤM][Prepositional Phrase], chức năng của nó được xác định như sau:</p>
 
 
-			<p className="margin-top-20"><strong>Ví dụ 1</strong>:</p>
+			<p className="margin-top-20"><strong>Ví dụ 1</strong>: [<strong>Tính Cụm</strong>][<strong>Adjective Phrase</strong>]</p>
 			
 				<ul className="list-square">
 			
@@ -369,7 +369,7 @@ export default function SuperWords1(): React.JSX.Element {
 				</ul>
 			
 			
-			<p className="margin-top-20"><strong>Ví dụ 2</strong>:</p>
+			<p className="margin-top-20"><strong>Ví dụ 2</strong>: [<strong>Trạng Cụm</strong>][<strong>Adverb Phrase</strong>]</p>
 			
 				<ul className="list-square">
 			
@@ -395,7 +395,21 @@ export default function SuperWords1(): React.JSX.Element {
 
 			<p>Khi nhìn thấy hình thái [Hiển-Liên Động Câu][Connector Verb Clause], ta xác định chức năng dựa trên khuôn mẫu như sau:</p>
 
-			<p className="margin-top-20"><strong>Ví dụ 1</strong>:</p>
+			<p className="margin-top-20"><strong>Ví dụ 1a</strong>: [<strong>Danh Câu</strong>][<strong>Noun Clause</strong>] <strong>làm</strong> [<strong>Danh Chủ</strong>][<strong>Noun Subject</strong>]</p>
+			
+				<ul className="list-square">
+			
+					<li>[Whatever you decide] will shape our future.</li>
+					<li className="margin-bottom-20 list-none">[Bất cứ điều gì bạn quyết định] sẽ định hình tương lai của chúng ta.</li>
+			
+					<li className="list-none">Hình thái: [Whatever you decide] – [Hiển-Liên Động Câu][Connector Verb Clause] biểu thị một cấu trúc câu con hoàn chỉnh bắt đầu bằng [Liên Cơ][Connector Base] "whatever".</li>
+			
+					<li className="list-none">Chức năng: [Whatever you decide] – [Danh Câu][Noun Clause] đang đứng ở đầu câu lớn để giữ vai trò làm [Danh Chủ][Noun Subject] thực hiện hành động "will shape".</li>
+			
+				</ul>
+			
+
+			<p className="margin-top-20"><strong>Ví dụ 1b</strong>: [<strong>Danh Câu</strong>][<strong>Noun Clause</strong>] <strong>làm</strong> [<strong>Danh Nhận</strong>][<strong>Noun Object</strong>]</p>
 			
 				<ul className="list-square">
 			
@@ -409,7 +423,7 @@ export default function SuperWords1(): React.JSX.Element {
 				</ul>
 			
 			
-			<p className="margin-top-20"><strong>Ví dụ 2</strong>:</p>
+			<p className="margin-top-20"><strong>Ví dụ 2</strong>: [<strong>Tính Câu</strong>][<strong>Adjective Clause</strong>]</p>
 			
 				<ul className="list-square">
 			
@@ -423,7 +437,7 @@ export default function SuperWords1(): React.JSX.Element {
 				</ul>
 			
 			
-			<p className="margin-top-20"><strong>Ví dụ 3</strong>:</p>
+			<p className="margin-top-20"><strong>Ví dụ 3</strong>: [<strong>Trạng Câu</strong>][<strong>Adverb Clause</strong>]</p>
 			
 				<ul className="list-square">
 			
@@ -446,7 +460,7 @@ export default function SuperWords1(): React.JSX.Element {
 			<p>Về hình thái trực quan, các khối này trông giống hệt như một câu con độc lập có đầy đủ [Danh Chủ][Noun Subject] và hành động riêng, nhưng về bản chất, chúng không thể đứng tách rời một mình mà phải cắm chặt vào cấu trúc tổng thể:</p>
 
 
-			<p className="margin-top-20"><strong>Ví dụ 1</strong>:</p>
+			<p className="margin-top-20"><strong>Ví dụ 1</strong>: [<strong>Danh Câu</strong>][<strong>Noun Clause</strong>]</p>
 			
 				<ul className="list-square">
 			
@@ -460,7 +474,7 @@ export default function SuperWords1(): React.JSX.Element {
 				</ul>
 			
 			
-			<p className="margin-top-20"><strong>Ví dụ 2</strong>:</p>
+			<p className="margin-top-20"><strong>Ví dụ 2</strong>: [<strong>Tính Câu</strong>][<strong>Adjective Clause</strong>]</p>
 			
 				<ul className="list-square">
 			
@@ -474,7 +488,7 @@ export default function SuperWords1(): React.JSX.Element {
 				</ul>
 			
 			
-			<p className="margin-top-20"><strong>Ví dụ 3</strong>:</p>
+			<p className="margin-top-20"><strong>Ví dụ 3</strong>: [<strong>Trạng Câu</strong>][<strong>Adverb Clause</strong>]</p>
 			
 				<ul className="list-square">
 			
