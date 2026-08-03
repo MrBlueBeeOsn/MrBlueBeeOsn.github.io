@@ -389,12 +389,12 @@ export default function ThreeDC1(): React.ReactElement {
 			
 				<ul className="list-square">
 			
-					<li>[That the algorithm possessed a bias] surprised the engineering team.</li>
-					<li className="margin-bottom-20 list-none">[Rằng thuật toán đã có một sự thiên vị] làm đội ngũ kỹ sư ngạc nhiên.</li>
+					<li>[How the team secures the funding] remains a critical question.</li>
+					<li className="margin-bottom-20 list-none">[Cách mà đội ngũ đảm bảo nguồn vốn] vẫn là một câu hỏi then chốt.</li>
 			
-					<li className="list-none">Hình thái: Khối [That the algorithm possessed a bias] - [Hiển-Liên Động Câu][Connector Verb Clause] bắt đầu bằng [Liên Cơ][Connector Base] "that" kết hợp với cấu trúc một khối hoàn chỉnh có [Danh Chủ][Noun Subject] "the algorithm" và [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "possessed".</li>
+					<li className="list-none">Hình thái: Khối [How the team secures the funding] - [Hiển-Liên Động Câu][Connector Verb Clause] bắt đầu bằng [Liên Cơ][Connector Base] "How" kết hợp với cấu trúc một khối hoàn chỉnh có [Danh Chủ][Noun Subject] "the team" và [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "secures".</li>
 			
-					<li className="list-none">Chức năng: Khối [That the algorithm possessed a bias] - [Danh Câu][Noun Clause] đóng vai trò làm [Danh Chủ][Noun Subject] đứng trước điều phối [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "surprised".</li>
+					<li className="list-none">Chức năng: Khối [How the team secures the funding] - [Danh Câu][Noun Clause] đóng vai trò làm [Danh Chủ][Noun Subject] đứng trước điều phối [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "remains".</li>
 			
 				</ul>
 

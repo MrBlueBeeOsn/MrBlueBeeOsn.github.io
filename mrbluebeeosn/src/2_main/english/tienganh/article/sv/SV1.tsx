@@ -375,7 +375,7 @@ export default function SV1(): React.JSX.Element {
 					<li>[That he won the competition] surprised everyone.</li>
 					<li className="margin-bottom-20 list-none">[Việc anh ấy chiến thắng cuộc thi] đã làm mọi người ngạc nhiên.</li>
 			
-					<li className="list-none">Hình thái: [That he won the competition] - [Hiển-Liên Động Câu][Connector Verb Clause] tạo nên khối hành động phức có chứa hệ trục [S][V] ("he won the competition"), bắt đầu bằng [Liên Cơ][Connector Base] "that".</li>
+					<li className="list-none">Hình thái: [That he won the competition] - [Hiển-Liên Động Câu][Connector Verb Clause] tạo nên khối hành động phức có chứa hệ trục [S][V] "he won the competition", bắt đầu bằng [Liên Cơ][Connector Base] "that".</li>
 			
 					<li className="margin-bottom-20 list-none">Chức năng: [That he won the competition] - [Danh Câu][Noun Clause] đảm nhận nhiệm vụ của một khối đối tượng đứng trước [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "surprised" để làm [Danh Chủ][Noun Subject] điều phối toàn bộ thông tin cho [Câu Lớn][Sentence].</li>
 			
@@ -386,7 +386,7 @@ export default function SV1(): React.JSX.Element {
 					<li>Everyone knows [that water boils at 100 degrees].</li>
 					<li className="margin-bottom-20 list-none">Mọi người đều biết [rằng nước sôi ở 100 độ].</li>
 			
-					<li className="list-none">Hình thái: [that water boils at 100 degrees] - [Hiển-Liên Động Câu][Connector Verb Clause] tạo nên khối hành động phức có chứa hệ trục [S][V], bắt đầu bằng [Liên Cơ][Connector Base] "that".</li>
+					<li className="list-none">Hình thái: [that water boils at 100 degrees] - [Hiển-Liên Động Câu][Connector Verb Clause] tạo nên khối hành động phức có chứa hệ trục [S][V] "water boils at 100 degrees", bắt đầu bằng [Liên Cơ][Connector Base] "that".</li>
 			
 					<li className="margin-bottom-20 list-none">Chức năng: [that water boils at 100 degrees] - [Danh Câu][Noun Clause] đảm nhận nhiệm vụ của một khối đối tượng đứng sau [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "knows" để làm [Danh Nhận][Noun Object] dưới sự điều phối của nó.</li>
 			
@@ -398,7 +398,7 @@ export default function SV1(): React.JSX.Element {
 					<li>The laptop [which I bought last week] works perfectly.</li>
 					<li className="margin-bottom-20 list-none">Chiếc máy tính xách tay [mà tôi mua tuần trước] hoạt động hoàn hảo.</li>
 			
-					<li className="list-none">Hình thái: [which I bought last week] - [Hiển-Liên Động Câu][Connector Verb Clause] định hình khối hành động phức có chứa hệ trục [S][V], bắt đầu bằng [Liên Cơ][Connector Base] "which".</li>
+					<li className="list-none">Hình thái: [which I bought last week] - [Hiển-Liên Động Câu][Connector Verb Clause] định hình khối hành động phức có chứa hệ trục [S][V] "I bought last week", bắt đầu bằng [Liên Cơ][Connector Base] "which".</li>
 			
 					<li className="margin-bottom-20 list-none">Chức năng: [which I bought last week] - [Tính Câu][Adjective Clause] thực hiện nhiệm vụ đứng sau định danh và mô tả đặc điểm riêng cho [Danh Cơ][Noun Base] laptop.</li>
 			
@@ -410,7 +410,7 @@ export default function SV1(): React.JSX.Element {
 					<li>We cancelled the picnic [because it rained heavily].</li>
 					<li className="margin-bottom-20 list-none">Chúng tôi đã hủy buổi dã ngoại [vì trời mưa to].</li>
 			
-					<li className="list-none">Hình thái: [because it rained heavily] - [Hiển-Liên Động Câu][Connector Verb Clause] thể hiện khối hành động phức có chứa hệ trục [S][V], bắt đầu bằng [Liên Cơ][Connector Base] "because".</li>
+					<li className="list-none">Hình thái: [because it rained heavily] - [Hiển-Liên Động Câu][Connector Verb Clause] thể hiện khối hành động phức có chứa hệ trục [S][V] "it rained heavily", bắt đầu bằng [Liên Cơ][Connector Base] "because".</li>
 			
 					<li className="list-none">Chức năng: [because it rained heavily] - [Trạng Câu][Adverb Clause] chịu trách nhiệm cung cấp hoàn cảnh nguyên nhân cho toàn bộ hành động hủy bỏ trước đó.</li>
 			
@@ -534,7 +534,7 @@ export default function SV1(): React.JSX.Element {
 
 					<li>Phân tích Hình thái:</li>
 
-					<li className="list-none">Khối lồng bên trong {'{how the engine works}'} là một [Hiển-Liên Động Câu][Connector Verb Clause] vì chứa đầy đủ hệ trục [S][V] (the engine works), bắt đầu bằng [Liên Cơ][Connector Base] how. Xét về quy mô cấu trúc phụ trợ nằm trong một hệ thống lớn hơn, khối lồng này chính là một [Phụ Câu][Dependent Clause].</li>
+					<li className="list-none">Khối lồng bên trong {'{how the engine works}'} là một [Hiển-Liên Động Câu][Connector Verb Clause] vì chứa đầy đủ hệ trục [S][V] "the engine works", bắt đầu bằng [Liên Cơ][Connector Base] how. Xét về quy mô cấu trúc phụ trợ nằm trong một hệ thống lớn hơn, khối lồng này chính là một [Phụ Câu][Dependent Clause].</li>
 
 					<li className="margin-bottom-20 list-none">Khối tổng thể bao ngoài [Discovering {'{how the engine works}'}] là một khối [Tầng Tiếp Động Cụm][Tiered Progressive Verb Phrase] bắt đầu bằng hành động thực thi [Tiếp Động Cơ][Progressive Verb Base] dạng V-ing Discovering.</li>
 			
@@ -556,7 +556,7 @@ export default function SV1(): React.JSX.Element {
 
 					<li>Phân tích Hình thái:</li>
 
-					<li className="list-none">Khối lồng bên trong {'{what they had discovered}'} là một [Hiển-Liên Động Câu][Connector Verb Clause] vì chứa đầy đủ hệ trục [S][V] (they had discovered), bắt đầu bằng [Liên Cơ][Connector Base] what. Đây là một cấu trúc [Phụ Câu][Dependent Clause] điển hình đóng vai trò bổ nghĩa phụ trợ.</li>
+					<li className="list-none">Khối lồng bên trong {'{what they had discovered}'} là một [Hiển-Liên Động Câu][Connector Verb Clause] vì chứa đầy đủ hệ trục [S][V] "they had discovered", bắt đầu bằng [Liên Cơ][Connector Base] what. Đây là một cấu trúc [Phụ Câu][Dependent Clause] điển hình đóng vai trò bổ nghĩa phụ trợ.</li>
 
 					<li className="margin-bottom-20 list-none">Khối tổng thể bao ngoài [discussing {'{what they had discovered}'}] là một khối [Tầng Tiếp Động Cụm][Tiered Progressive Verb Phrase] bắt đầu bằng hình thái hành động thực thi [Tiếp Động Cơ][Progressive Verb Base] dạng V-ing discussing.</li>
 			
@@ -583,7 +583,7 @@ export default function SV1(): React.JSX.Element {
 
 					<li className="list-none">Khối tổng thể bao ngoài [about {'{how she succeeded}'}] là một [Tầng Giới Cụm][Tiered Prepositional Phrase] bắt đầu bằng [Giới Cơ][Prepositional Base] about.</li>
 
-					<li className="margin-bottom-20 list-none">Khối lồng bên trong {'{how she succeeded}'} là một [Hiển-Liên Động Câu][Connector Verb Clause] có chứa hệ trục [S][V], bắt đầu bằng [Liên Cơ][Connector Base] "how", đóng vai trò cấu trúc của một [Phụ Câu][Dependent Clause].</li>
+					<li className="margin-bottom-20 list-none">Khối lồng bên trong {'{how she succeeded}'} là một [Hiển-Liên Động Câu][Connector Verb Clause] có chứa hệ trục [S][V] "she succeeded", bắt đầu bằng [Liên Cơ][Connector Base] "how", đóng vai trò cấu trúc của một [Phụ Câu][Dependent Clause].</li>
 			
 					<li>Phân tích Chức năng:</li>
 
@@ -608,7 +608,7 @@ export default function SV1(): React.JSX.Element {
 
 					<li className="list-none">Khối tổng thể bao ngoài [slower {'{than we expected}'}] là một [Tầng Diện Tính Cụm][Tiered Modified Adjective Phrase] hình thành từ khối [Rễ Tính Cơ][Root Adjective Base] nguyên bản "slow" kết hợp hậu tố "-er" để thay đổi diện mạo bên ngoài thành một khối cấp độ [Cơ][Base] chỉ cách thức và mức độ.</li>
 
-					<li className="margin-bottom-20 list-none">Khối lồng bên trong {'{than we expected}'} là một [Hiển-Liên Động Câu][Connector Verb Clause] có chứa hệ trục [S][V] (we expected), được bắt đầu và kết nối bằng [Liên Cơ][Connector Base] than, cấu tạo nên cấu trúc [Phụ Câu][Dependent Clause] phụ thuộc.</li>
+					<li className="margin-bottom-20 list-none">Khối lồng bên trong {'{than we expected}'} là một [Hiển-Liên Động Câu][Connector Verb Clause] có chứa hệ trục [S][V] "we expected", được bắt đầu và kết nối bằng [Liên Cơ][Connector Base] than, cấu tạo nên cấu trúc [Phụ Câu][Dependent Clause] phụ thuộc.</li>
 			
 					<li>Phân tích Chức năng:</li>
 

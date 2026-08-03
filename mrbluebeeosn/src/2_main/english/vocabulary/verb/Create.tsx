@@ -394,7 +394,7 @@ export default function Create(): React.JSX.Element {
       
           <li className="list-none">Hình thái: [to create a better user experience] - [Hạt Thuần Động Cụm][Particle Bare Verb Phrase] phát triển từ cụm [Hạt Thuần Động Cơ][Particle Bare Verb Base] "to create" kết hợp mở rộng đứng cuối chuỗi thông tin.</li>
       
-          <li className="list-none">Chức năng: [to create a better user experience] - [Trạng Cụm][Adverb Phrase] đảm nhận vai trò làm một khối bối cảnh mục đích đứng sau để bổ nghĩa cho hành động "updated".</li>
+          <li className="list-none">Chức năng: [to create a better user experience] - [Trạng Cụm][Adverb Phrase] đảm nhận vai trò làm một khối bối cảnh mục đích đứng sau để bổ nghĩa cho hành động [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "updated".</li>
       
         </ul>
 
@@ -533,7 +533,7 @@ export default function Create(): React.JSX.Element {
           <li>[How the team creates customized solutions] impresses every client.</li>
           <li className="margin-bottom-20 list-none">[Cách đội ngũ tạo ra các giải pháp tùy chỉnh] làm ấn tượng mọi khách hàng.</li>
       
-          <li className="list-none">Hình thái: [How the team creates customized solutions] - [Hiển-Liên Động Câu][Connector Verb Clause] chứa thành phần liên kết trực quan "How" ở đầu, mang [Danh Chủ][Noun Subject] riêng "the team" và cụm hành động phối hợp phía sau.</li>
+          <li className="list-none">Hình thái: [How the team creates customized solutions] - [Hiển-Liên Động Câu][Connector Verb Clause] chứa thành phần [Liên Cơ][Connector Base] "How" ở đầu, mang [Danh Chủ][Noun Subject] riêng "the team" và cụm hành động phối hợp phía sau.</li>
       
           <li className="list-none">Chức năng: [How the team creates customized solutions] - [Danh Câu][Noun Clause] đóng vai trò làm [Danh Chủ][Noun Subject] quản lý khối thông tin quy trình đứng đầu câu để điều khiển [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "impresses".</li>
       
@@ -550,7 +550,7 @@ export default function Create(): React.JSX.Element {
           <li>The guide demonstrates [how you create a dynamic database].</li>
           <li className="margin-bottom-20 list-none">Sách hướng dẫn trình bày [cách bạn tạo ra một cơ sở dữ liệu động].</li>
       
-          <li className="list-none">Hình thái: [how you create a dynamic database] - [Hiển-Liên Động Câu][Connector Verb Clause] chứa thành phần liên kết trực quan "how" ở đầu, có [Danh Chủ][Noun Subject] "you" và cụm hành động phối hợp phía sau.</li>
+          <li className="list-none">Hình thái: [how you create a dynamic database] - [Hiển-Liên Động Câu][Connector Verb Clause] chứa thành phần [Liên Cơ][Connector Base] "how" ở đầu, có [Danh Chủ][Noun Subject] "you" và cụm hành động phối hợp phía sau.</li>
       
           <li className="list-none">Chức năng: [how you create a dynamic database] - [Danh Câu][Noun Clause] trở thành [Danh Nhận][Noun Object] chứa dữ liệu mục tiêu chịu tác động từ hành động "demonstrates".</li>
       
@@ -760,7 +760,7 @@ export default function Create(): React.JSX.Element {
       
           <li className="list-none">Hình thái: [on {'{where the hacker created the network vulnerability}'}] - [Tầng Giới Cụm][Tiered Prepositional Phrase] biểu thị dưới dạng một vùng mã xác lập không gian lớn bắt đầu bằng [Giới Cơ][Prepositional Base] "on".</li>
       
-          <li className="list-none">Chức năng: [on {'{where the hacker created the network vulnerability}'}] - [<strong>Trạng Cụm</strong>][<strong>Adverb Phrase</strong>] đảm nhận vai trò làm một khối bối cảnh địa điểm/nội dung tổng thể đứng sau bổ nghĩa cho hành động "focused".</li>
+          <li className="list-none">Chức năng: [on {'{where the hacker created the network vulnerability}'}] - [<strong>Trạng Cụm</strong>][<strong>Adverb Phrase</strong>] đảm nhận vai trò làm một khối bối cảnh địa điểm/nội dung tổng thể đứng sau bổ nghĩa cho hành động [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "focused".</li>
       
         </ul>
 
@@ -824,7 +824,7 @@ export default function Create(): React.JSX.Element {
       
           <li className="list-none">Hình thái gốc: [by creating a better user experience] - [Giới Cụm][Prepositional Phrase] hiển thị dưới dạng một vùng mã chứa [Giới Cơ][Prepositional Base] phương thức "by" đi kèm cụm hành động phía sau.</li>
       
-          <li className="list-none">Chức năng: [by creating a better user experience] - [Trạng Cụm][Adverb Phrase] đảm nhận vai trò làm một khối bối cảnh phương thức đứng sau bổ nghĩa cho hành động chính.</li>
+          <li className="list-none">Chức năng: [by creating a better user experience] - [Trạng Cụm][Adverb Phrase] đảm nhận vai trò làm một khối bối cảnh phương thức đứng sau bổ nghĩa cho hành động [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "updated".</li>
       
         </ul>
       
@@ -850,7 +850,7 @@ export default function Create(): React.JSX.Element {
           <li>The studio hired an artist [who creates digital murals effortlessly].</li>
           <li className="margin-bottom-20 list-none">Studio đã thuê một nghệ sĩ [người mà tạo ra các bức tranh tường kỹ thuật số một cách dễ dàng].</li>
       
-          <li className="list-none">Hình thái gốc: [who creates digital murals effortlessly] - [Hiển-Liên Động Câu][Connector Verb Clause] thiết lập theo dạng phân hệ hệ con đầy đủ bổ nghĩa đứng sau một khối tên gọi, chứa thành phần liên kết "who" và cụm hành động phía sau.</li>
+          <li className="list-none">Hình thái gốc: [who creates digital murals effortlessly] - [Hiển-Liên Động Câu][Connector Verb Clause] thiết lập theo dạng phân hệ hệ con đầy đủ bổ nghĩa đứng sau một khối tên gọi, chứa thành phần [Liên Cơ][Connector Base] "who" và cụm hành động phía sau.</li>
       
           <li className="list-none">Chức năng: [who creates digital murals effortlessly] - [Tính Câu][Adjective Clause] đóng vai trò một module lọc nhằm định nghĩa đặc điểm cho đối tượng "artist".</li>
       
@@ -896,7 +896,7 @@ export default function Create(): React.JSX.Element {
       
           <li className="list-none">Hình thái mới: [due to the creation of the controversial policy] - [Phức Giới Cụm][Complex Prepositional Phrase] mới, bắt đầu bằng [Phức Giới Cơ][Complex Prepositional Base] "due to" được đưa vào thế chỗ.</li>
       
-          <li className="list-none">Chức năng mới: [due to the creation of the controversial policy] - [Trạng Cụm][Adverb Phrase] đảm nhận vai trò thiết lập khối bối cảnh nguyên nhân tổng thể đứng sau bổ nghĩa cho hành động chính mà không làm biến dạng sơ đồ sắp xếp tổng thể của câu.</li>
+          <li className="list-none">Chức năng: [due to the creation of the controversial policy] - [Trạng Cụm][Adverb Phrase] đảm nhận vai trò thiết lập khối bối cảnh nguyên nhân tổng thể đứng sau bổ nghĩa cho hành động [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "resigned" mà không làm biến dạng sơ đồ sắp xếp tổng thể của câu.</li>
       
         </ul>
 
