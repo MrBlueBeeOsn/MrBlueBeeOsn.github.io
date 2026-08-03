@@ -258,6 +258,17 @@ export default function SV1(): React.JSX.Element {
 					<li className="margin-bottom-20 list-none">Chức năng: [Writing] - [Danh Cơ][Noun Base] đứng ở đầu câu tạo nên [Danh Chủ][Noun Subject] cho toàn câu.</li>
 			
 				</ul>
+
+				<ul className="list-square">
+			
+					<li>She enjoys [learning].</li>
+					<li className="margin-bottom-20 list-none">Cô ấy thích [việc học].</li>
+			
+					<li className="list-none">Hình thái: [learning] – [Tiếp Động Cơ][Progressive Verb Base] có dạng đuôi -ing.</li>
+			
+					<li className="margin-bottom-20 list-none">Chức năng: [learning] – [Danh Cơ][Noun Base] đứng sau [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "enjoys" để làm [Danh Nhận][Noun Object] gánh chịu trực tiếp tác động từ hành động yêu thích của chủ thể.</li>
+			
+				</ul>
 			
 				<ul className="list-square">
 			

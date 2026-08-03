@@ -224,7 +224,21 @@ export default function NineBox1(): React.JSX.Element {
 			
 					<li className="list-none">Hình thái: [Configuring] - [Tiếp Động Cơ][Progressive Verb Base] hình thành từ khối [Rễ Động Cơ][Root Verb Base] nguyên bản "configure" mặc thêm hậu tố "-ing" để thay đổi diện mạo bên ngoài thành một khối cấp độ [Cơ][Base].</li>
 			
-					<li className="list-none">Chức năng: [Configuring] – [Danh Cơ][Noun Base] đóng vai trò làm Danh Chủ chịu trách nhiệm thực thi câu lớn.</li>
+					<li className="list-none">Chức năng: [Configuring] – [Danh Cơ][Noun Base] đóng vai trò làm [Danh Chủ][Noun Subject] chịu trách nhiệm thực thi câu lớn.</li>
+			
+				</ul>
+			
+				
+			<p className="margin-top-20 text-indent-whole"><strong>Hình thành Chức năng</strong> [<strong>Danh Cơ</strong>][<strong>Noun Base</strong>] <strong>làm</strong> [<strong>Danh Nhận</strong>][<strong>Noun Object</strong>]:</p>
+			
+				<ul className="list-square">
+			
+					<li>The system supports [debugging].</li>
+					<li className="margin-bottom-20 list-none">Hệ thống hỗ trợ [việc gỡ lỗi].</li>
+			
+					<li className="list-none">Hình thái: [debugging] - [Tiếp Động Cơ][Progressive Verb Base] hình thành từ khối [Rễ Động Cơ][Root Verb Base] nguyên bản "debug" mặc thêm hậu tố "-ing" để thay đổi diện mạo bên ngoài thành một khối cấp độ [Cơ][Base].</li>
+			
+					<li className="list-none">Chức năng: [debugging] – [Danh Cơ][Noun Base] đóng vai trò làm Danh Nhận đứng sau làm mục tiêu chịu tác động trực tiếp từ hành động "supports".</li>
 			
 				</ul>
 			
