@@ -244,7 +244,7 @@ export default function TieredStructure1(): React.JSX.Element {
 			<p className="text-indent-whole">Khi nhìn vào một từ đơn hành động, người học nhận diện diện mạo vật lý gốc của nó thuộc 1 trong 16 loại cấu trúc [Cơ][Base]. Khi đặt vào câu, chính hình thái này sẽ hình thành nên các chức năng độc lập:</p>
 
 
-			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 2</strong>: <strong>Hình thành chức năng</strong> [<strong>Danh Cơ</strong>] [<strong>Noun Base</strong>]:</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 1.1</strong>: <strong>Hình thành chức năng</strong> [<strong>Danh Cơ</strong>] [<strong>Noun Base</strong>] <strong>làm khối</strong> [<strong>Danh Chủ</strong>][<strong>Noun Subject</strong>]:</p>
 			
 				<ul className="list-square">
 			
@@ -253,7 +253,21 @@ export default function TieredStructure1(): React.JSX.Element {
 
 					<li className="list-none">Hình thái: [Exploring] - [Tiếp Động Cơ][Progressive Verb Base] hình thành từ khối [Rễ Động Cơ][Root Verb Base] nguyên bản "explore" mặc thêm hậu tố "-ing" để thay đổi diện mạo bên ngoài thành một khối cấp độ [Cơ][Base] thể hiện một hành động đơn lẻ.</li>
 
-					<li className="list-none">Chức năng: [Exploring] - [Danh Cơ][Noun Base] đảm nhận nhiệm vụ làm Khối [Danh Chủ][Noun Subject] ở đầu câu để định danh cho một hoạt động.</li>
+					<li className="list-none">Chức năng: [Exploring] - [Danh Cơ][Noun Base] đảm nhận nhiệm vụ làm khối [Danh Chủ][Noun Subject] ở đầu câu để định danh cho một hoạt động.</li>
+			
+				</ul>
+
+			
+			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 1.2</strong>: <strong>Hình thành chức năng</strong> [<strong>Danh Cơ</strong>] [<strong>Noun Base</strong>] <strong>làm khối</strong> [<strong>Danh Nhận</strong>][<strong>Noun Object</strong>]:</p>
+			
+				<ul className="list-square">
+			
+					<li>They enjoy [exploring].</li>
+					<li className="margin-bottom-20 list-none">Họ yêu thích [việc khám phá].</li>
+
+					<li className="list-none">Hình thái: [exploring] - [Tiếp Động Cơ][Progressive Verb Base] giữ hình thái hành động dạng "-ing" ở cấp độ [Cơ][Base] đơn lẻ đứng phía sau một hành động khác.</li>
+
+					<li className="list-none">Chức năng: [exploring] - [Danh Cơ][Noun Base] đóng vai trò làm khối [Danh Nhận][Noun Object] tiếp nhận trực tiếp sự tác động từ hành động "enjoy".</li>
 			
 				</ul>
 			
@@ -294,7 +308,7 @@ export default function TieredStructure1(): React.JSX.Element {
 			<p className="text-indent-whole">Khi người học nhìn thấy một vùng mã chứa nhiều từ đi kèm hành động, họ nhận diện ngay diện mạo vật lý [Động Cụm][Verb Phrase]. Khối hình thái này sẽ hình thành đầy đủ các chương trình chức năng đầu ra:</p>
 
 			
-			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 4.1</strong>: [<strong>Danh Cụm</strong>][<strong>Noun Phrase</strong>] <strong>làm Khối</strong> [<strong>Danh Chủ</strong>][<strong>Noun Subject</strong>]</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 4.1</strong>: [<strong>Danh Cụm</strong>][<strong>Noun Phrase</strong>] <strong>làm khối</strong> [<strong>Danh Chủ</strong>][<strong>Noun Subject</strong>]</p>
 			
 				<ul className="list-square">
 			
@@ -308,7 +322,7 @@ export default function TieredStructure1(): React.JSX.Element {
 				</ul>
 			
 
-			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 4.2</strong>: [<strong>Danh Cụm</strong>][<strong>Noun Phrase</strong>] <strong>làm Khối</strong> [<strong>Danh Nhận</strong>][<strong>Noun Object</strong>]</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 4.2</strong>: [<strong>Danh Cụm</strong>][<strong>Noun Phrase</strong>] <strong>làm khối</strong> [<strong>Danh Nhận</strong>][<strong>Noun Object</strong>]</p>
 			
 				<ul className="list-square">
 			
@@ -317,7 +331,7 @@ export default function TieredStructure1(): React.JSX.Element {
 
 					<li className="list-none">Hình thái: [exploring the wilderness] — [Tiếp Động Cụm][Progressive Verb Phrase] bắt đầu bằng [Tiếp Động Cơ][Progressive Verb Base] (exploring) cùng với đối tượng của nó.</li>
 
-					<li className="list-none">Chức năng: [exploring the wilderness] — [Danh Cụm][Noun Phrase] đóng vai trò làm Khối [Danh Nhận][Noun Object] tiếp nhận dữ liệu đầu vào và chịu sự tác động trực tiếp từ hành động support.</li>
+					<li className="list-none">Chức năng: [exploring the wilderness] — [Danh Cụm][Noun Phrase] đóng vai trò làm khối [Danh Nhận][Noun Object] tiếp nhận dữ liệu đầu vào và chịu sự tác động trực tiếp từ hành động support.</li>
 			
 				</ul>
 			
@@ -392,7 +406,7 @@ export default function TieredStructure1(): React.JSX.Element {
 			<p className="text-indent-whole">Khi hệ thống vận hành ở mức độ phức tạp, bằng sức mạnh của [Tầng Thiết Kế][Tiered Structure], các khối mã sẽ lồng vào nhau tạo nên các cấu trúc đóng gói tối tân.</p>
 
 
-			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 9.1</strong>: [<strong>Danh Cụm</strong>][<strong>Noun Phrase</strong>] <strong>làm Khối</strong> [<strong>Danh Chủ</strong>][<strong>Noun Subject</strong>]</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 9.1</strong>: [<strong>Danh Cụm</strong>][<strong>Noun Phrase</strong>] <strong>làm khối</strong> [<strong>Danh Chủ</strong>][<strong>Noun Subject</strong>]</p>
 			
 				<ul className="list-square">
 			
@@ -418,12 +432,12 @@ export default function TieredStructure1(): React.JSX.Element {
 			
 					<li className="list-none">Hình thái: {'{how we design this platform}'} - [Hiển-Liên Động Câu][Connector Verb Clause] định hình dưới dạng khối mã con nằm gọn bên trong, chứa đầy đủ chủ thể hành động riêng "we" và hạt nhân [Thời-Thuần Động Cơ][Tense-Bare Verb Base] design, bắt đầu từ [Liên Cơ][Connector Base] how.</li>
 
-					<li className="list-none">Chức năng: {'{how we design this platform}'} - [Danh Câu][Noun Clause] đóng vai trò làm Khối [Danh Nhận][Noun Object] (nạp tham số dữ liệu đầu vào) chịu sự điều phối trực tiếp của phân hệ ngoài.</li>
+					<li className="list-none">Chức năng: {'{how we design this platform}'} - [Danh Câu][Noun Clause] đóng vai trò làm khối [Danh Nhận][Noun Object] (nạp tham số dữ liệu đầu vào) chịu sự điều phối trực tiếp của phân hệ ngoài.</li>
 			
 				</ul>
 
 
-			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 9.2</strong>: [<strong>Danh Cụm</strong>][<strong>Noun Phrase</strong>] <strong>làm Khối</strong> [<strong>Danh Nhận</strong>][<strong>Noun Object</strong>]</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 9.2</strong>: [<strong>Danh Cụm</strong>][<strong>Noun Phrase</strong>] <strong>làm khối</strong> [<strong>Danh Nhận</strong>][<strong>Noun Object</strong>]</p>
 			
 				<ul className="list-square">
 			
@@ -438,7 +452,7 @@ export default function TieredStructure1(): React.JSX.Element {
 				
 						<li className="list-none">Hình thái: [analyzing {'{why the system failed}'}] - [Tầng Tiếp Động Cụm][Tiered Progressive Verb Phrase] mở rộng bắt đầu bằng [Tiếp Động Cơ][Progressive Verb Base] (analyzing) đứng ngay sau hành động chính.</li>
 
-						<li className="list-none">Chức năng: [analyzing {'{why the system failed}'}] - [<strong>Danh Cụm</strong>][<strong>Noun Phrase</strong>] đóng vai trò làm cấu trúc tổng thể đóng chức năng tiếp nhận toàn bộ mục tiêu tác động của lệnh postpone làm Khối [Danh Nhận][Noun Object].</li>
+						<li className="list-none">Chức năng: [analyzing {'{why the system failed}'}] - [<strong>Danh Cụm</strong>][<strong>Noun Phrase</strong>] đóng vai trò làm cấu trúc tổng thể đóng chức năng tiếp nhận toàn bộ mục tiêu tác động của lệnh postpone làm khối [Danh Nhận][Noun Object].</li>
 				
 					</ul>
 
@@ -449,7 +463,7 @@ export default function TieredStructure1(): React.JSX.Element {
 			
 					<li className="list-none">Hình thái: {'{why the system failed}'} - [Hiển-Liên Động Câu][Connector Verb Clause] nằm gọn bên trong làm tham số bổ trợ, tích hợp sẵn [Liên Cơ][Connector Base] why kết nối cùng chủ thể "the system" và [Thời-Thuần Động Cơ][Tense-Bare Verb Base] failed.</li>
 
-					<li className="list-none">Chức năng: {'{why the system failed}'} - [Danh Câu][Noun Clause] đóng vai trò cấp con chịu sự điều phối của [Tiếp Động Cơ][Progressive Verb Base] tầng ngoài làm Khối [Danh Nhận][Noun Object].</li>
+					<li className="list-none">Chức năng: {'{why the system failed}'} - [Danh Câu][Noun Clause] đóng vai trò cấp con chịu sự điều phối của [Tiếp Động Cơ][Progressive Verb Base] tầng ngoài làm khối [Danh Nhận][Noun Object].</li>
 			
 				</ul>
 			
@@ -481,7 +495,7 @@ export default function TieredStructure1(): React.JSX.Element {
 			
 					<li className="list-none">Hình thái: {'{how this team designed the app}'} - [Hiển-Liên Động Câu][Connector Verb Clause] định hình dưới dạng khối mã con nằm gọn bên trong, chứa chủ thể "this team" và [Thời-Thuần Động Cơ][Tense-Bare Verb Base] designed.</li>
 
-					<li className="list-none">Chức năng: {'{how this team designed the app}'} - [Danh Câu][Noun Clause] đóng vai trò làm Khối [Danh Nhận][Noun Object] chịu sự điều phối trực tiếp của [Giới Cơ][Prepositional Base] about ở tầng ngoài.</li>
+					<li className="list-none">Chức năng: {'{how this team designed the app}'} - [Danh Câu][Noun Clause] đóng vai trò làm khối [Danh Nhận][Noun Object] chịu sự điều phối trực tiếp của [Giới Cơ][Prepositional Base] about ở tầng ngoài.</li>
 			
 				</ul>
 
@@ -513,7 +527,7 @@ export default function TieredStructure1(): React.JSX.Element {
 			
 					<li className="list-none">Hình thái: {'{where they build the software}'} - [Hiển-Liên Động Câu][Connector Verb Clause] định hình dưới dạng khối mã con nằm gọn bên trong, chứa chủ thể riêng "they" cùng hạt nhân [Thời-Thuần Động Cơ][Tense-Bare Verb Base] build.</li>
 
-					<li className="list-none">Chức năng: {'{where they build the software}'} - [Danh Câu][Noun Clause] đóng vai trò làm Khối [Danh Nhận][Noun Object] chịu sự điều phối trực tiếp của [Giới Cơ][Prepositional Base] at ở tầng ngoài.</li>
+					<li className="list-none">Chức năng: {'{where they build the software}'} - [Danh Câu][Noun Clause] đóng vai trò làm khối [Danh Nhận][Noun Object] chịu sự điều phối trực tiếp của [Giới Cơ][Prepositional Base] at ở tầng ngoài.</li>
 			
 				</ul>
 
@@ -527,7 +541,7 @@ export default function TieredStructure1(): React.JSX.Element {
 			<h5 className="margin-y-30 text-indent-whole">Phân hệ [Hiển-Liên Động Câu][Connector Verb Clause] (Có Từ Kết Nối)</h5>
 
 
-			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 12.1</strong>: <strong>Hình thành chức năng</strong> [<strong>Danh Câu</strong>][<strong>Noun Clause</strong>] <strong>làm Khối</strong> [<strong>Danh Chủ</strong>][<strong>Noun Subject</strong>]</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 12.1</strong>: <strong>Hình thành chức năng</strong> [<strong>Danh Câu</strong>][<strong>Noun Clause</strong>] <strong>làm khối</strong> [<strong>Danh Chủ</strong>][<strong>Noun Subject</strong>]</p>
 			
 				<ul className="list-square">
 			
@@ -536,12 +550,12 @@ export default function TieredStructure1(): React.JSX.Element {
 
 					<li className="list-none">Hình thái: [How they build the system] - [Hiển-Liên Động Câu][Connector Verb Clause] đại diện cho khối mã chứa câu con hoàn chỉnh bắt đầu bằng [Liên Cơ][Connector Base] kết nối how, có chủ thể "they" và [Thời-Thuần Động Cơ][Tense-Bare Verb Base] build.</li>
 
-					<li className="list-none">Chức năng: [How they build the system] - [Danh Câu][Noun Clause] đảm nhận nhiệm vụ làm Khối [Danh Chủ][Noun Subject] ở đầu câu để điều hành và đóng vai trò làm chủ thể thực thi cho hành động "determines".</li>
+					<li className="list-none">Chức năng: [How they build the system] - [Danh Câu][Noun Clause] đảm nhận nhiệm vụ làm khối [Danh Chủ][Noun Subject] ở đầu câu để điều hành và đóng vai trò làm chủ thể thực thi cho hành động "determines".</li>
 			
 				</ul>
 
 
-			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 12.2</strong>: <strong>Hình thành chức năng</strong> [<strong>Danh Câu</strong>][<strong>Noun Clause</strong>] <strong>làm Khối</strong> [<strong>Danh Nhận</strong>][<strong>Noun Object</strong>]</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 12.2</strong>: <strong>Hình thành chức năng</strong> [<strong>Danh Câu</strong>][<strong>Noun Clause</strong>] <strong>làm khối</strong> [<strong>Danh Nhận</strong>][<strong>Noun Object</strong>]</p>
 			
 				<ul className="list-square">
 			
@@ -598,7 +612,7 @@ export default function TieredStructure1(): React.JSX.Element {
 			
 					<li className="list-none">Hình thái: [you build great things] - [Ẩn-Liên Động Câu][Zero-Connector Verb Clause] mang diện mạo của một dòng lệnh độc lập với chủ thể "you" và [Thời-Thuần Động Cơ][Tense-Bare Verb Base] build, hoàn toàn ẩn đi [Liên Cơ][Connector Base] kết nối.</li>
 			
-					<li className="list-none">Chức năng: [you build great things] - [Danh Câu][Noun Clause] đóng vai trò làm Khối [Danh Nhận][Noun Object] nạp dữ liệu trực tiếp cho [Rễ Động Cơ][Root Verb Base] "believe".</li>
+					<li className="list-none">Chức năng: [you build great things] - [Danh Câu][Noun Clause] đóng vai trò làm khối [Danh Nhận][Noun Object] nạp dữ liệu trực tiếp cho [Rễ Động Cơ][Root Verb Base] "believe".</li>
 			
 				</ul>
 			
@@ -666,7 +680,7 @@ export default function TieredStructure1(): React.JSX.Element {
 			
 					<li className="list-none">Hình thái mới: [Evaluating metrics] - [Tiếp Động Cụm][Progressive Verb Phrase] xuất hiện dưới dạng khối mở rộng mới chứa [Tiếp Động Cơ][Progressive Verb Base] evaluating được đưa vào thế chỗ.</li>
 			
-					<li className="list-none">Chức năng mới: [Evaluating metrics] - [Danh Cụm][Noun Phrase] duy trì chính xác chức năng làm Khối [Danh Chủ][Noun Subject] của khối cũ.</li>
+					<li className="list-none">Chức năng mới: [Evaluating metrics] - [Danh Cụm][Noun Phrase] duy trì chính xác chức năng làm khối [Danh Chủ][Noun Subject] của khối cũ.</li>
 			
 				</ul>
 
