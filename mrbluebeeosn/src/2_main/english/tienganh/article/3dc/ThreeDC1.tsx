@@ -244,7 +244,7 @@ export default function ThreeDC1(): React.ReactElement {
 			<p className="text-indent-whole">Là đơn vị hành động hạt nhân nhỏ nhất, chỉ gồm đúng 1 từ. Vị trí đứng trong khối sẽ quyết định chức năng của khối hành động này:</p>
 
 
-			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 1</strong>: <strong>Sinh ra</strong> [<strong>DANH CƠ</strong>][<strong>NOUN BASE</strong>]:</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 1a</strong>: <strong>Sinh ra</strong> [<strong>DANH CƠ</strong>][<strong>NOUN BASE</strong>] <strong>làm khối</strong> [<strong>Danh Chủ</strong>][<strong>Noun Subject</strong>]</p>
 			
 				<ul className="list-square">
 			
@@ -254,6 +254,20 @@ export default function ThreeDC1(): React.ReactElement {
 					<li className="list-none">Hình thái: Khối [Jogging] - [Tiếp Động Cơ][Progressive Verb Base] hình thành từ khối [Rễ Động Cơ][Root Verb Base] nguyên bản "jog" mặc thêm hậu tố "-ing" để thay đổi diện mạo bên ngoài thành một khối cấp độ [Cơ][Base] đại diện cho một hành động danh hóa cô đọng.</li>
 			
 					<li className="list-none">Chức năng: Khối [Jogging] - [Danh Cơ][Noun Base] đóng vai trò làm [Danh Chủ][Noun Subject] thực hiện hành động cho cả khối chịu sự quản lý thời gian của [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "strengthens".</li>
+			
+				</ul>
+
+			
+			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 1b</strong>: <strong>Sinh ra</strong> [<strong>DANH CƠ</strong>][<strong>NOUN BASE</strong>] <strong>làm khối</strong> [<strong>Danh Nhận</strong>][<strong>Noun Object</strong>]</p>
+			
+				<ul className="list-square">
+			
+					<li>She enjoys [swimming].</li>
+					<li className="margin-bottom-20 list-none">Cô ấy thích [việc bơi lội].</li>
+			
+					<li className="list-none">Hình thái: Khối [swimming] - [Tiếp Động Cơ][Progressive Verb Base] hình thành từ khối [Rễ Động Cơ][Root Verb Base] nguyên bản "swim" mặc thêm hậu tố "-ing" để thay đổi diện mạo bên ngoài thành một khối cấp độ [Cơ][Base] đại diện cho một hành động danh hóa cô đọng.</li>
+			
+					<li className="list-none">Chức năng: Khối [swimming] - [Danh Cơ][Noun Base] đóng vai trò làm [Danh Nhận][Noun Object] chịu sự điều phối trực tiếp của [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "enjoys".</li>
 			
 				</ul>
 			

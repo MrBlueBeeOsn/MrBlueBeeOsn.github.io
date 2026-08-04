@@ -306,7 +306,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 			<p className="text-indent-whole">Khối này chịu trách nhiệm đóng gói các hành động, thực thể thành một cái tên, một đối tượng để làm [Danh Chủ][Noun Subject] hoặc phần [Danh Nhận][Noun Object] tiếp nhận tác động trong câu.</p>
 			
 
-			<p className="margin-top-20 text-indent-whole">[<strong>Danh Cơ</strong>][<strong>Noun Base</strong>] <strong>cấu tạo từ</strong> [<strong>Tiếp Động Cơ</strong>][<strong>Progressive Verb Base</strong>]:</p>
+			<p className="margin-top-20 text-indent-whole">[<strong>Danh Cơ</strong>][<strong>Noun Base</strong>] <strong>cấu tạo từ</strong> [<strong>Tiếp Động Cơ</strong>][<strong>Progressive Verb Base</strong>] <strong>làm</strong> [<strong>Danh Chủ</strong>][<strong>Noun Subject</strong>]:</p>
 			
 				<ul className="list-square">
 			
@@ -316,6 +316,20 @@ export default function LegoAssembly1(): React.JSX.Element {
 					<li className="list-none">Hình thái: [Swimming] - [Tiếp Động Cơ][Progressive Verb Base] hình thành từ khối [Rễ Động Cơ][Root Verb Base] nguyên bản "swim" mặc thêm (kết hợp) hậu tố "-ing" để thay đổi diện mạo bên ngoài thành một khối cấp độ [Cơ][Base] biểu đạt một tiến trình hành động được thực hiện hóa.</li>
 
 					<li className="list-none">Chức năng: [Swimming] - [Danh Cơ][Noun Base] đóng vai trò làm [Danh Chủ][Noun Subject] kích hoạt và cung cấp năng lượng cho bộ nguồn [Thời-Thuần Động Cơ][Tense-Bare Verb Base] improves.</li>
+			
+				</ul>
+
+			
+			<p className="margin-top-20 text-indent-whole">[<strong>Danh Cơ</strong>][<strong>Noun Base</strong>] <strong>cấu tạo từ</strong> [<strong>Tiếp Động Cơ</strong>][<strong>Progressive Verb Base</strong>] <strong>làm</strong> [<strong>Danh Nhận</strong>][<strong>Noun Object</strong>]:</p>
+			
+				<ul className="list-square">
+			
+					<li>The corporate team emphasizes [training].</li>
+					<li className="margin-bottom-20 list-none">Đội ngũ doanh nghiệp chú trọng [việc đào tạo].</li>
+
+					<li className="list-none">Hình thái: [training] - [Tiếp Động Cơ][Progressive Verb Base] hình thành từ khối [Rễ Động Cơ][Root Verb Base] nguyên bản "train" mặc thêm (kết hợp) hậu tố "-ing" để thay đổi diện mạo bên ngoài thành một khối cấp độ [Cơ][Base] biểu đạt một tiến trình hành động được thực hiện hóa.</li>
+
+					<li className="list-none">Chức năng: [training] - [Danh Cơ][Noun Base] đóng vai trò làm [Danh Nhận][Noun Object] tiếp nhận sự chú trọng tác động trực tiếp đứng ngay sau bộ nguồn [Thời-Thuần Động Cơ][Tense-Bare Verb Base] emphasizes.</li>
 			
 				</ul>
 

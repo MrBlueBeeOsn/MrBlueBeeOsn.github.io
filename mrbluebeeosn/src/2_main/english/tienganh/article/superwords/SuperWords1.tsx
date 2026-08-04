@@ -240,7 +240,7 @@ export default function SuperWords1(): React.JSX.Element {
 
 			<p>Khi nhìn thấy hình thái [ĐỘNG CƠ][Verb Base], chức năng của nó sẽ được quyết định bởi vị trí đứng:</p>
 
-			<p className="margin-top-20"><strong>Ví dụ 1</strong>: [<strong>Danh Cơ</strong>][<strong>Noun Base</strong>]</p>
+			<p className="margin-top-20"><strong>Ví dụ 1a</strong>: [<strong>Danh Cơ</strong>][<strong>Noun Base</strong>] <strong>làm</strong> [<strong>Danh Chủ</strong>][<strong>Noun Subject</strong>]</p>
 			
 				<ul className="list-square">
 			
@@ -250,6 +250,20 @@ export default function SuperWords1(): React.JSX.Element {
 					<li className="list-none">Hình thái: [Optimizing] – [Tiếp Động Cơ][Progressive Verb Base] hình thành từ khối [Rễ Động Cơ][Root Verb Base] nguyên bản "optimize" mặc thêm hậu tố "-ing" để thay đổi diện mạo bên ngoài thành một khối cấp độ [Cơ][Base] hoạt động độc lập.</li>
 			
 					<li className="list-none">Chức năng: [Optimizing] – [Danh Cơ][Noun Base] đang đứng vị trí khởi đầu để làm [Danh Chủ][Noun Subject] cho toàn câu lớn.</li>
+			
+				</ul>
+
+			
+			<p className="margin-top-20"><strong>Ví dụ 1b</strong>: [<strong>Danh Cơ</strong>][<strong>Noun Base</strong>] <strong>làm</strong> [<strong>Danh Nhận</strong>][<strong>Noun Object</strong>]</p>
+			
+				<ul className="list-square">
+			
+					<li>She enjoys [designing].</li>
+					<li className="margin-bottom-20 list-none">Cô ấy yêu thích [việc thiết kế].</li>
+			
+					<li className="list-none">Hình thái: [designing] – [Tiếp Động Cơ][Progressive Verb Base] hình thành từ [Rễ Động Cơ][Root Verb Base] nguyên bản "design" mặc thêm hậu tố "-ing" để tạo thành một khối cấp độ [Cơ][Base] độc lập.</li>
+			
+					<li className="list-none">Chức năng: [designing] – [Danh Cơ][Noun Base] đang đứng vị trí sau [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "enjoys" để làm [Danh Nhận][Noun Object] tiếp nhận hành động yêu thích.</li>
 			
 				</ul>
 			
