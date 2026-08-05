@@ -238,7 +238,7 @@ export default function NineBox1(): React.JSX.Element {
 			
 					<li className="list-none">Hình thái: [debugging] - [Tiếp Động Cơ][Progressive Verb Base] hình thành từ khối [Rễ Động Cơ][Root Verb Base] nguyên bản "debug" mặc thêm hậu tố "-ing" để thay đổi diện mạo bên ngoài thành một khối cấp độ [Cơ][Base].</li>
 			
-					<li className="list-none">Chức năng: [debugging] – [Danh Cơ][Noun Base] đóng vai trò làm Danh Nhận đứng sau làm mục tiêu chịu tác động trực tiếp từ hành động "supports".</li>
+					<li className="list-none">Chức năng: [debugging] – [Danh Cơ][Noun Base] đóng vai trò làm [Danh Nhận][Noun Object] đứng sau làm mục tiêu chịu tác động trực tiếp từ hành động "supports".</li>
 			
 				</ul>
 			
@@ -280,7 +280,7 @@ export default function NineBox1(): React.JSX.Element {
 
 			<p className="text-indent-whole">Ví dụ chuyển đổi hình thái hạt nhân:</p>
 
-			<p className="text-indent-whole">learning [Tiếp Động Cơ][Progressive Verb Base] + a new language (Danh Nhận) → learning a new language [Tiếp Động Cụm][Progressive Verb Phrase].</p>
+			<p className="text-indent-whole">learning [Tiếp Động Cơ][Progressive Verb Base] + a new language [Danh Nhận][Noun Object] → learning a new language [Tiếp Động Cụm][Progressive Verb Phrase].</p>
 
 
 			<p className="text-indent-whole">Khi đứng vào cấu trúc câu lớn, các khối hình thái này sẽ vận hành các chức năng dữ liệu cụ thể:</p>
@@ -508,7 +508,7 @@ export default function NineBox1(): React.JSX.Element {
 
 					<li className="margin-bottom-20 list-none">Hình thái: Khối tổng thể [to understand {'{how the database handles the workload}'}] - [Tầng Hạt Thuần Động Cụm][Tiered Particle Bare Verb Phrase] ở tầng ngoài bắt đầu bằng [Hạt Thuần Động Cơ][Particle Bare Verb Base] "to understand". Bên trong chứa bao gói {'{how the database handles the workload}'} - [Hiển-Liên Động Câu][Connector Verb Clause] ở tầng trong.</li>
 			
-					<li className="list-none">Chức năng: Khối {'{how the database handles the workload}'} bên trong đóng vai trò làm [Danh Câu][Noun Clause] làm [Danh Nhận][Noun Object] chịu sự điều phối hành động trực tiếp từ [Rễ Động Cơ][Root Verb Base] nguyên bản understand, và toàn bộ khối tổng thể [to understand {'{how the database handles the workload}'}] vận hành với chức năng [<strong>Danh Cụm</strong>][<strong>Noun Phrase</strong>] đóng vai trò làm [Danh Chủ][Noun Subject] đứng sau [Thời-Thuần Động Cụm][Tense-Bare Verb Phrase] "requires deep technical knowledge" để bổ nghĩa cho [Giữ Chủ][Placeholder Subject] "It" chịu trách nhiệm thực thi câu lớn.</li>
+					<li className="list-none">Chức năng: Khối {'{how the database handles the workload}'} bên trong đóng vai trò làm [Danh Câu][Noun Clause] làm [Danh Nhận][Noun Object] chịu sự điều phối hành động trực tiếp từ [Hạt Thuần Động Cơ][Particle Bare Verb Base] "to understand", và toàn bộ khối tổng thể [to understand {'{how the database handles the workload}'}] vận hành với chức năng [<strong>Danh Cụm</strong>][<strong>Noun Phrase</strong>] đóng vai trò làm [Danh Chủ][Noun Subject] đứng sau [Thời-Thuần Động Cụm][Tense-Bare Verb Phrase] "requires deep technical knowledge" để bổ nghĩa cho [Giữ Chủ][Placeholder Subject] "It" chịu trách nhiệm thực thi câu lớn.</li>
 			
 				</ul>
 
@@ -522,7 +522,7 @@ export default function NineBox1(): React.JSX.Element {
 
 					<li className="margin-bottom-20 list-none">Hình thái: Khối tổng thể [to beautify {'{what the legacy script outputs}'}] - [Tầng Hạt Thuần Động Cụm][Tiered Particle Bare Verb Phrase] ở tầng ngoài bắt đầu bằng [Hạt Thuần Động Cơ][Particle Bare Verb Base] "to beautify". Bên trong chứa bao gói {'{what the legacy script outputs}'} - [Hiển-Liên Động Câu][Connector Verb Clause] ở tầng trong.</li>
 			
-					<li className="list-none">Chức năng: Khối {'{what the legacy script outputs}'} bên trong đóng vai trò làm [Danh Câu][Noun Clause] làm [Danh Nhận][Noun Object] chịu sự điều phối hành động trực tiếp từ [Rễ Động Cơ][Root Verb Base] nguyên bản beautify, và toàn bộ khối tổng thể dữ liệu [to beautify {'{what the legacy script outputs}'}] vận hành với chức năng [<strong>Danh Cụm</strong>][<strong>Noun Phrase</strong>] đóng vai trò làm [Danh Nhận][Noun Object] đứng sau mục tiêu cốt lõi của hành động prefers.</li>
+					<li className="list-none">Chức năng: Khối {'{what the legacy script outputs}'} bên trong đóng vai trò làm [Danh Câu][Noun Clause] làm [Danh Nhận][Noun Object] chịu sự điều phối hành động trực tiếp từ [Hạt Thuần Động Cơ][Particle Bare Verb Base] "to beautify", và toàn bộ khối tổng thể dữ liệu [to beautify {'{what the legacy script outputs}'}] vận hành với chức năng [<strong>Danh Cụm</strong>][<strong>Noun Phrase</strong>] đóng vai trò làm [Danh Nhận][Noun Object] đứng sau mục tiêu cốt lõi của hành động prefers.</li>
 			
 				</ul>
 			
@@ -580,7 +580,7 @@ export default function NineBox1(): React.JSX.Element {
 			
 					<li className="list-none">Hình thái: [Refactoring] – [Tiếp Động Cơ][Progressive Verb Base] hình thành từ khối [Rễ Động Cơ][Root Verb Base] nguyên bản "refactor" mặc thêm hậu tố "-ing" để thay đổi diện mạo bên ngoài thành một khối cấp độ [Cơ][Base].</li>
 			
-					<li className="list-none">Chức năng: [Refactoring] – [Danh Cơ][Noun Base] đóng vai trò làm [Danh Chủ][Noun Subject], còn demand đóng vai trò làm [Danh Cơ][Noun Base] làm [Danh Nhận][Noun Object].</li>
+					<li className="list-none">Chức năng: [Refactoring] – [Danh Cơ][Noun Base] đóng vai trò làm [Danh Chủ][Noun Subject], còn "the system demand" đóng vai trò làm [Danh Khối][Noun Block] làm [Danh Nhận][Noun Object].</li>
 			
 				</ul>
 			
@@ -594,7 +594,7 @@ export default function NineBox1(): React.JSX.Element {
 			
 					<li className="list-none">Hình thái: [The maintenance of cloud architecture] – [Diện Danh Cụm][Modified Noun Phrase] hình thành từ khối [Rễ Động Cơ][Root Verb Base] nguyên bản "maintain" biến đổi thành "mainten" kết hợp hậu tố "-ance" để thay đổi diện mạo bên ngoài thành một khối cấp độ [Cụm][Phrase], kéo theo các thành phần bổ ngữ ở phía sau.</li>
 			
-					<li className="list-none">Chức năng: [The maintenance of cloud architecture] – [Danh Cụm][Noun Phrase] đóng vai trò làm [Danh Chủ][Noun Subject], còn demand đóng vai trò làm [Danh Cơ][Noun Base] làm [Danh Nhận][Noun Object].</li>
+					<li className="list-none">Chức năng: [The maintenance of cloud architecture] – [Danh Cụm][Noun Phrase] đóng vai trò làm [Danh Chủ][Noun Subject], còn "the system demand" đóng vai trò làm [Danh Khối][Noun Block] làm [Danh Nhận][Noun Object].</li>
 			
 				</ul>
 			
@@ -608,7 +608,7 @@ export default function NineBox1(): React.JSX.Element {
 			
 					<li className="list-none">Hình thái: [What the DevOps engineer updated this morning] – [Hiển-Liên Động Câu][Connector Verb Clause] chứa cấu trúc kết nối tường minh "What" kết hợp cùng một cấu trúc câu con xoay quanh [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "updated".</li>
 			
-					<li className="list-none">Chức năng: [What the DevOps engineer updated this morning] – [Danh Câu][Noun Clause] đóng vai trò làm [Danh Chủ][Noun Subject], còn demand đóng vai trò làm [Danh Cơ][Noun Base] làm [Danh Nhận][Noun Object].</li>
+					<li className="list-none">Chức năng: [What the DevOps engineer updated this morning] – [Danh Câu][Noun Clause] đóng vai trò làm [Danh Chủ][Noun Subject], còn "the system demand" đóng vai trò làm [Danh Khối][Noun Block] làm [Danh Nhận][Noun Object].</li>
 			
 				</ul>
 			
