@@ -17,7 +17,7 @@ export default function Softly2(): React.JSX.Element {
     
       <h4><HashLink smooth to="/vocabulary#tinh-nhe-nhang-terms"><mark className="highlight-tertiary-padding-4-8">Tính nhẹ nhàng</mark></HashLink></h4>
       
-      <h1 className="margin-y-50 text-center">softly
+      <h1 className="margin-y-50 text-center">SOFTly
         <sup>
           <Link to="/vocabulary/softly-1">&nbsp;1&nbsp;</Link>
         </sup>
@@ -28,7 +28,7 @@ export default function Softly2(): React.JSX.Element {
 
       {/* This is the content of Vocabulary Term. */}
 
-      <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>softly</strong>" (một cách nhẹ nhàng) và các cụm từ hay đi kèm nhé.</p>
+      <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>SOFTly</strong>" (một cách nhẹ nhàng) và các cụm từ hay đi kèm nhé.</p>
 
       <div className="text-border1 padding-10 highlight-238-padding-4-8 bee-container">
 
@@ -36,13 +36,13 @@ export default function Softly2(): React.JSX.Element {
 
           <p className="margin-y-10">
             
-            <strong>Softly&nbsp;</strong>
+            <strong>SOFTly&nbsp;</strong>
             
             <span className="highlight-255-padding-3-6">
               
               /ˈsɒftli/ + /
               
-              <Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">softly</Link>/ 
+              <Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">SOFTly</Link>/ 
               
               <sup>&nbsp;⬤• (2x)</sup>
               

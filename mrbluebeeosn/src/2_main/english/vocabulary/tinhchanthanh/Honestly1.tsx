@@ -17,7 +17,7 @@ export default function Honestly1(): React.JSX.Element {
     
       <h4><HashLink smooth to="/vocabulary#tinh-chan-thanh-terms"><mark className="highlight-tertiary-padding-4-8">Tính chân thành</mark></HashLink></h4>
       
-      <h1 className="margin-y-50 text-center">honestly
+      <h1 className="margin-y-50 text-center">HONestly
         <sup><Link to="/vocabulary/honestly-1">&nbsp;1&nbsp;</Link>
         </sup>
         <sup><Link to="/vocabulary/honestly-2">&nbsp;2&nbsp;</Link>
@@ -26,19 +26,19 @@ export default function Honestly1(): React.JSX.Element {
 
       {/* This is the content of Vocabulary Term. */}
       
-      <p>Tuyệt vời! Chúng ta cùng khám phá từ "<strong>honestly</strong>" nhé.</p>
+      <p>Tuyệt vời! Chúng ta cùng khám phá từ "<strong>HONestly</strong>" nhé.</p>
 
       <div className="text-border1 padding-top-20 padding-bottom-10 highlight-238-padding-4-8 bee-container">
 
         <div>
 
-          <p className="margin-bottom-20"><strong>Honestly</strong></p>
+          <p className="margin-bottom-20"><strong>HONestly</strong></p>
 
           <ul className="list-square padding-left-40">
 
             <li>
               <span className="highlight-255-padding-3-6">
-                /ˈɒnɪstli/ + /<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">honėstly</Link>/
+                /ˈɒnɪstli/ + /<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">HONėstly</Link>/
                 <sup>&nbsp;⬤•• (3x)</sup>
               </span>
             </li>
@@ -57,7 +57,7 @@ export default function Honestly1(): React.JSX.Element {
 
       </div>
 
-      <p className="margin-top-30 text-indent-whole">Từ "<strong>honestly</strong>" được dùng để nhấn mạnh rằng một điều gì đó được nói ra là hoàn toàn đúng sự thật, không có sự gian dối hoặc phóng đại. Nó thường được dùng để thể hiện sự chân thành, thẳng thắn của người nói.</p>
+      <p className="margin-top-30 text-indent-whole">Từ "<strong>HONestly</strong>" được dùng để nhấn mạnh rằng một điều gì đó được nói ra là hoàn toàn đúng sự thật, không có sự gian dối hoặc phóng đại. Nó thường được dùng để thể hiện sự chân thành, thẳng thắn của người nói.</p>
 
       <p className="text-indent-whole">Ví dụ:</p>
 

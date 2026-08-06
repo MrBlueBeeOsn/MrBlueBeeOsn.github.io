@@ -17,7 +17,7 @@ export default function Tenderly2(): React.JSX.Element {
     
       <h4><HashLink smooth to="/vocabulary#tinh-nhe-nhang-terms"><mark className="highlight-tertiary-padding-4-8">Tính nhẹ nhàng</mark></HashLink></h4>
       
-      <h1 className="margin-y-50 text-center">tenderly
+      <h1 className="margin-y-50 text-center">TENderly
         <sup>
           <Link to="/vocabulary/tenderly-1">&nbsp;1&nbsp;</Link>
         </sup>
@@ -28,7 +28,7 @@ export default function Tenderly2(): React.JSX.Element {
 
       {/* This is the content of Vocabulary Term. */}
 
-      <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>tenderly</strong>" (một cách dịu dàng) và các cụm từ hay đi kèm nhé.</p>
+      <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>TENderly</strong>" (một cách dịu dàng) và các cụm từ hay đi kèm nhé.</p>
 
       <div className="text-border1 padding-10 highlight-238-padding-4-8 bee-container">
 
@@ -36,13 +36,13 @@ export default function Tenderly2(): React.JSX.Element {
 
           <p className="margin-y-10">
             
-            <strong>Tenderly&nbsp;</strong>
+            <strong>TENderly&nbsp;</strong>
             
             <span className="highlight-255-padding-3-6">
               
               /ˈten.dər.li/ + /
               
-              <Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">tende̛rly</Link>/ 
+              <Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">TENde̛rly</Link>/ 
               
               <sup>&nbsp;⬤•• (3x)</sup>
               

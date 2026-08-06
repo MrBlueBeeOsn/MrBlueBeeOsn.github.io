@@ -15,13 +15,13 @@ export default function Grateful(): React.JSX.Element {
 
     <article>
     
-      <h4><HashLink smooth to="/vocabulary#adjectives-terms"><mark className="highlight-tertiary-padding-4-8">Adjectives</mark></HashLink></h4>
+      <h4><HashLink smooth to="/vocabulary#adjectives-terms"><mark className="highlight-tertiary-padding-4-8">ADjectives</mark></HashLink></h4>
       
-      <h1 className="margin-y-50 text-center">Grateful</h1>
+      <h1 className="margin-y-50 text-center">GRATEful</h1>
 
       {/* This is the content of Vocabulary Term. */}
 
-      <p className="margin-bottom-30"><strong>Grateful</strong> (tính cơ): Biết ơn, cảm kích. Từ này thể hiện lòng biết ơn hoặc sự trân trọng đối với những gì người khác đã làm cho mình hoặc những điều tốt đẹp mà mình nhận được.</p>
+      <p className="margin-bottom-30"><strong>GRATEful</strong> (tính cơ): Biết ơn, cảm kích. Từ này thể hiện lòng biết ơn hoặc sự trân trọng đối với những gì người khác đã làm cho mình hoặc những điều tốt đẹp mà mình nhận được.</p>
 
         <ul className="list-square">
       

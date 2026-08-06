@@ -17,7 +17,7 @@ export default function Softly1(): React.JSX.Element {
     
       <h4><HashLink smooth to="/vocabulary#tinh-nhe-nhang-terms"><mark className="highlight-tertiary-padding-4-8">Tính nhẹ nhàng</mark></HashLink></h4>
       
-      <h1 className="margin-y-50 text-center">softly
+      <h1 className="margin-y-50 text-center">SOFTly
         <sup><Link to="/vocabulary/softly-1">&nbsp;1&nbsp;</Link>
         </sup>
         <sup><Link to="/vocabulary/softly-2">&nbsp;2&nbsp;</Link>
@@ -26,19 +26,19 @@ export default function Softly1(): React.JSX.Element {
 
       {/* This is the content of Vocabulary Term. */}
       
-      <p>Tuyệt vời! Chúng ta cùng tìm hiểu về từ "<strong>softly</strong>" nhé.</p>
+      <p>Tuyệt vời! Chúng ta cùng tìm hiểu về từ "<strong>SOFTly</strong>" nhé.</p>
 
       <div className="text-border1 padding-top-20 padding-bottom-10 highlight-238-padding-4-8 bee-container">
 
         <div>
 
-          <p className="margin-bottom-20"><strong>Softly</strong></p>
+          <p className="margin-bottom-20"><strong>SOFTly</strong></p>
 
           <ul className="list-square padding-left-40">
 
             <li>
               <span className="highlight-255-padding-3-6">
-                /ˈsɒftli/ + /<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">softly</Link>/
+                /ˈsɒftli/ + /<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">SOFTly</Link>/
                 <sup>&nbsp;⬤• (2x)</sup>
               </span>
             </li>
@@ -57,7 +57,7 @@ export default function Softly1(): React.JSX.Element {
 
       </div>
 
-      <p className="margin-top-30 text-indent-whole">Từ "<strong>softly</strong>" được dùng để miêu tả một hành động được thực hiện một cách nhẹ nhàng, không mạnh mẽ, thường mang ý nghĩa êm dịu, thoải mái. Nó cũng có thể dùng để miêu tả âm thanh nhẹ nhàng, không ồn ào.</p>
+      <p className="margin-top-30 text-indent-whole">Từ "<strong>SOFTly</strong>" được dùng để miêu tả một hành động được thực hiện một cách nhẹ nhàng, không mạnh mẽ, thường mang ý nghĩa êm dịu, thoải mái. Nó cũng có thể dùng để miêu tả âm thanh nhẹ nhàng, không ồn ào.</p>
 
       <p className="text-indent-whole">Ví dụ:</p>
 

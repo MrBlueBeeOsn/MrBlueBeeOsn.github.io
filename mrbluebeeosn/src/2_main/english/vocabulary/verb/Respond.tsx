@@ -15,10 +15,10 @@ export default function Respond(): React.JSX.Element {
 
     <article>
     
-      <h4><HashLink smooth to="/vocabulary#verbs-terms"><mark className="highlight-tertiary-padding-4-8">Verbs</mark></HashLink></h4>
+      <h4><HashLink smooth to="/vocabulary#verbs-terms"><mark className="highlight-tertiary-padding-4-8">VERBs</mark></HashLink></h4>
       
             
-      <h1 className="margin-y-50 text-center">[respond]</h1>
+      <h1 className="margin-y-50 text-center">[reSPOND]</h1>
 
       {/* This is the content of Vocabulary Term. */}
 
@@ -27,9 +27,9 @@ export default function Respond(): React.JSX.Element {
 
         <div>
 
-          <p className="margin-bottom-20">[respond] is a [Root Verb Base] that means to say or do something as a reaction to something that has been said or done.</p>
+          <p className="margin-bottom-20">[reSPOND] is a [Root Verb Base] that means to say or do something as a reaction to something that has been said or done.</p>
 
-          <p>[respond] là một [Rễ Động Cơ][Root Verb Base] có nghĩa là phản hồi, đáp lại, hoặc phản ứng lại một lời nói, hành động hoặc sự việc nào đó.</p>
+          <p>[reSPOND] là một [Rễ Động Cơ][Root Verb Base] có nghĩa là phản hồi, đáp lại, hoặc phản ứng lại một lời nói, hành động hoặc sự việc nào đó.</p>
 
           <p className="margin-top-20">Ví dụ: /rɪˈspɒnd/</p>
 

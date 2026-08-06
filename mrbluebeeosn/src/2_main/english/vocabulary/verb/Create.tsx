@@ -15,10 +15,10 @@ export default function Create(): React.JSX.Element {
 
     <article>
     
-      <h4><HashLink smooth to="/vocabulary#verbs-terms"><mark className="highlight-tertiary-padding-4-8">Verbs</mark></HashLink></h4>
+      <h4><HashLink smooth to="/vocabulary#verbs-terms"><mark className="highlight-tertiary-padding-4-8">VERBs</mark></HashLink></h4>
       
             
-      <h1 className="margin-y-50 text-center">[CREATE]</h1>
+      <h1 className="margin-y-50 text-center">[creATE]</h1>
 
       {/* This is the content of Vocabulary Term. */}
 
@@ -28,9 +28,9 @@ export default function Create(): React.JSX.Element {
 
         <div>
 
-          <p className="margin-bottom-20">[create] is a [Root Verb Base] that means to make something new, or to cause something to happen.</p>
+          <p className="margin-bottom-20">[creATE] is a [Root Verb Base] that means to make something new, or to cause something to happen.</p>
 
-          <p>[create] là một [Rễ Động Cơ][Root Verb Base] có nghĩa là tạo ra, sáng tạo ra, hoặc làm nảy sinh một sự vật, hiện tượng mới.</p>
+          <p>[creATE] là một [Rễ Động Cơ][Root Verb Base] có nghĩa là tạo ra, sáng tạo ra, hoặc làm nảy sinh một sự vật, hiện tượng mới.</p>
 
           <p className="margin-top-20">Phát âm: /kriˈeɪt/</p>
 

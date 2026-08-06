@@ -15,13 +15,13 @@ export default function Beautiful(): React.JSX.Element {
 
     <article>
     
-      <h4><HashLink smooth to="/vocabulary#adjectives-terms"><mark className="highlight-tertiary-padding-4-8">Adjectives</mark></HashLink></h4>
+      <h4><HashLink smooth to="/vocabulary#adjectives-terms"><mark className="highlight-tertiary-padding-4-8">ADjectives</mark></HashLink></h4>
       
-      <h1 className="margin-y-50 text-center">Beautiful</h1>
+      <h1 className="margin-y-50 text-center">BEAUtiful</h1>
 
       {/* This is the content of Vocabulary Term. */}
 
-      <p className="margin-bottom-30"><strong>Beautiful</strong> (tính cơ): Đẹp, có những phẩm chất mang lại sự hài lòng hoặc thỏa mãn cho các giác quan (đặc biệt là thị giác) hoặc tâm trí. Từ này thường ám chỉ sự hài hòa, xuất sắc hoặc giá trị thẩm mỹ cao.</p>
+      <p className="margin-bottom-30"><strong>BEAUtiful</strong> (tính cơ): Đẹp, có những phẩm chất mang lại sự hài lòng hoặc thỏa mãn cho các giác quan (đặc biệt là thị giác) hoặc tâm trí. Từ này thường ám chỉ sự hài hòa, xuất sắc hoặc giá trị thẩm mỹ cao.</p>
 
         <ul className="list-square">
       

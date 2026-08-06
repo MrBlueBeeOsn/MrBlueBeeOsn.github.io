@@ -17,7 +17,7 @@ export default function Gently1(): React.JSX.Element {
     
       <h4><HashLink smooth to="/vocabulary#tinh-nhe-nhang-terms"><mark className="highlight-tertiary-padding-4-8">Tính nhẹ nhàng</mark></HashLink></h4>
       
-      <h1 className="margin-y-50 text-center">gently
+      <h1 className="margin-y-50 text-center">GENTly
         <sup><Link to="/vocabulary/gently-1">&nbsp;1&nbsp;</Link>
         </sup>
         <sup><Link to="/vocabulary/gently-2">&nbsp;2&nbsp;</Link>
@@ -26,19 +26,19 @@ export default function Gently1(): React.JSX.Element {
 
       {/* This is the content of Vocabulary Term. */}
       
-      <p>Tuyệt vời! Chúng ta cùng đi sâu vào từ "<strong>gently</strong>" nhé.</p>
+      <p>Tuyệt vời! Chúng ta cùng đi sâu vào từ "<strong>GENTly</strong>" nhé.</p>
 
       <div className="text-border1 padding-top-20 padding-bottom-10 highlight-238-padding-4-8 bee-container">
 
         <div>
 
-          <p className="margin-bottom-20"><strong>Gently</strong></p>
+          <p className="margin-bottom-20"><strong>GENTly</strong></p>
 
           <ul className="list-square padding-left-40">
 
             <li>
               <span className="highlight-255-padding-3-6">
-                /ˈdʒɛntli/ + /<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">gently</Link>/
+                /ˈdʒɛntli/ + /<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">GENTly</Link>/
                 <sup>&nbsp;⬤• (2x)</sup>
               </span>
             </li>
@@ -57,7 +57,7 @@ export default function Gently1(): React.JSX.Element {
 
       </div>
 
-      <p className="margin-top-30 text-indent-whole">Từ "<strong>gently</strong>" được dùng để miêu tả một hành động được thực hiện một cách nhẹ nhàng, không mạnh bạo, không gây tổn thương. Nó có thể áp dụng cho nhiều tình huống khác nhau, từ việc chạm vào một vật dễ vỡ đến việc nói chuyện với ai đó một cách dịu dàng.</p>
+      <p className="margin-top-30 text-indent-whole">Từ "<strong>GENTly</strong>" được dùng để miêu tả một hành động được thực hiện một cách nhẹ nhàng, không mạnh bạo, không gây tổn thương. Nó có thể áp dụng cho nhiều tình huống khác nhau, từ việc chạm vào một vật dễ vỡ đến việc nói chuyện với ai đó một cách dịu dàng.</p>
 
       <p className="text-indent-whole">Ví dụ:</p>
 

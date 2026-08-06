@@ -17,7 +17,7 @@ export default function Openly2(): React.JSX.Element {
     
       <h4><HashLink smooth to="/vocabulary#tinh-chan-thanh-terms"><mark className="highlight-tertiary-padding-4-8">Tính chân thành</mark></HashLink></h4>
       
-      <h1 className="margin-y-50 text-center">openly
+      <h1 className="margin-y-50 text-center">Openly
         <sup>
           <Link to="/vocabulary/openly-1">&nbsp;1&nbsp;</Link>
         </sup>
@@ -28,7 +28,7 @@ export default function Openly2(): React.JSX.Element {
 
       {/* This is the content of Vocabulary Term. */}
 
-      <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>openly</strong>" (một cách công khai) và các cụm từ hay đi kèm nhé.</p>
+      <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>Openly</strong>" (một cách công khai) và các cụm từ hay đi kèm nhé.</p>
 
       <div className="text-border1 padding-10 highlight-238-padding-4-8 bee-container">
 
@@ -42,7 +42,7 @@ export default function Openly2(): React.JSX.Element {
               
               /ˈoʊpənli/ + /
               
-              <Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">ōpe̛nly</Link>/ 
+              <Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">Ōpe̛nly</Link>/ 
               
               <sup>&nbsp;⬤•• (3x)</sup>
               

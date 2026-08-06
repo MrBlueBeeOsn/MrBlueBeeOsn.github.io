@@ -17,7 +17,7 @@ export default function Faithfully2(): React.JSX.Element {
     
       <h4><HashLink smooth to="/vocabulary#tinh-chan-thanh-terms"><mark className="highlight-tertiary-padding-4-8">Tính chân thành</mark></HashLink></h4>
       
-      <h1 className="margin-y-50 text-center">faithfully
+      <h1 className="margin-y-50 text-center">FAITHfully
         <sup>
           <Link to="/vocabulary/faithfully-1">&nbsp;1&nbsp;</Link>
         </sup>
@@ -28,7 +28,7 @@ export default function Faithfully2(): React.JSX.Element {
 
       {/* This is the content of Vocabulary Term. */}
 
-      <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>faithfully</strong>" (một cách trung thành, tin cậy) và các cụm từ hay đi kèm nhé.</p>
+      <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>FAITHfully</strong>" (một cách trung thành, tin cậy) và các cụm từ hay đi kèm nhé.</p>
 
       <div className="text-border1 padding-10 highlight-238-padding-4-8 bee-container">
 
@@ -36,13 +36,13 @@ export default function Faithfully2(): React.JSX.Element {
 
           <p className="margin-y-10">
             
-            <strong>Faithfully&nbsp;</strong>
+            <strong>FAITHfully&nbsp;</strong>
             
             <span className="highlight-255-padding-3-6">
               
               /ˈfeɪθfʊli/ + /
               
-              <Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">fāithfưlly</Link>/ 
+              <Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">FĀITHfully</Link>/ 
               
               <sup>&nbsp;⬤•• (3x)</sup>
               

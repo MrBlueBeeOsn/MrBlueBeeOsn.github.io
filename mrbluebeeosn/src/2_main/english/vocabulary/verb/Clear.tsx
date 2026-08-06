@@ -15,10 +15,10 @@ export default function Clear(): React.JSX.Element {
 
     <article>
     
-      <h4><HashLink smooth to="/vocabulary#verbs-terms"><mark className="highlight-tertiary-padding-4-8">Verbs</mark></HashLink></h4>
+      <h4><HashLink smooth to="/vocabulary#verbs-terms"><mark className="highlight-tertiary-padding-4-8">VERBs</mark></HashLink></h4>
 
       
-      <h1 className="margin-y-50 text-center">[clear]</h1>
+      <h1 className="margin-y-50 text-center">[CLEAR]</h1>
 
       {/* This is the content of Vocabulary Term. */}
 
@@ -27,9 +27,9 @@ export default function Clear(): React.JSX.Element {
 
         <div>
 
-          <p className="margin-bottom-20">[clear] is a [Root Verb Base] that means to remove things that are not wanted from a place, or to make something easy to see or understand.</p>
+          <p className="margin-bottom-20">[CLEAR] is a [Root Verb Base] that means to remove things that are not wanted from a place, or to make something easy to see or understand.</p>
 
-          <p>[clear] là một [Rễ Động Cơ][Root Verb Base] có nghĩa là dọn dẹp, xóa bỏ những thứ không mong muốn khỏi một nơi nào đó, hoặc làm cho cái gì đó trở nên dễ nhìn, dễ hiểu (rõ ràng).</p>
+          <p>[CLEAR] là một [Rễ Động Cơ][Root Verb Base] có nghĩa là dọn dẹp, xóa bỏ những thứ không mong muốn khỏi một nơi nào đó, hoặc làm cho cái gì đó trở nên dễ nhìn, dễ hiểu (rõ ràng).</p>
 
           <p className="margin-top-20">Ví dụ: /klɪə(r)/</p>
 

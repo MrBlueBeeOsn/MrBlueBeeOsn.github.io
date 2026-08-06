@@ -17,7 +17,7 @@ export default function Sincerely2(): React.JSX.Element {
     
       <h4><HashLink smooth to="/vocabulary#tinh-chan-thanh-terms"><mark className="highlight-tertiary-padding-4-8">Tính chân thành</mark></HashLink></h4>
       
-      <h1 className="margin-y-50 text-center">sincerely
+      <h1 className="margin-y-50 text-center">sinCEREly
         <sup>
           <Link to="/vocabulary/sincerely-1">&nbsp;1&nbsp;</Link>
         </sup>
@@ -28,7 +28,7 @@ export default function Sincerely2(): React.JSX.Element {
 
       {/* This is the content of Vocabulary Term. */}
 
-      <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>sincerely</strong>" (một cách chân thành) và các cụm từ hay đi kèm nhé.</p>
+      <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>sinCEREly</strong>" (một cách chân thành) và các cụm từ hay đi kèm nhé.</p>
 
       <div className="text-border1 padding-10 highlight-238-padding-4-8 bee-container">
 
@@ -36,13 +36,13 @@ export default function Sincerely2(): React.JSX.Element {
 
           <p className="margin-y-10">
             
-            <strong>Sincerely&nbsp;</strong>
+            <strong>sinCEREly&nbsp;</strong>
             
             <span className="highlight-255-padding-3-6">
               
               /sɪnˈsɪrlɪ/ + /
               
-              <Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">sincėrely</Link>/ 
+              <Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">sinCĖREly</Link>/ 
               
               <sup>&nbsp;•⬤• (3x)</sup>
               

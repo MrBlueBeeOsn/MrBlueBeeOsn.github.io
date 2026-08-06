@@ -105,20 +105,20 @@ export default function VocabularyIndex(): React.JSX.Element {
 
 				<details className="sub-box-fix">
 			
-					<summary id="verbs-terms"><mark className="highlight-secondary-padding-2-4">Verbs</mark></summary>
+					<summary id="verbs-terms"><mark className="highlight-secondary-padding-2-4">VERBs</mark></summary>
 
 					<ul className="list-border1">
 
 						<li>
-							<Link to="/vocabulary/clear">clear</Link>
+							<Link to="/vocabulary/clear">[CLEAR]</Link>
 						</li>
 
 						<li>
-							<Link to="/vocabulary/respond">respond</Link> 	
+							<Link to="/vocabulary/respond">[reSPOND]</Link> 	
 						</li>
 
 						<li>
-							<Link to="/vocabulary/create">create</Link> 	
+							<Link to="/vocabulary/create">[creATE]</Link> 	
 						</li>
 
 						
@@ -140,20 +140,20 @@ export default function VocabularyIndex(): React.JSX.Element {
 
 				<details className="sub-box-fix">
 			
-					<summary id="adjectives-terms"><mark className="highlight-secondary-padding-2-4">Adjectives</mark></summary>
+					<summary id="adjectives-terms"><mark className="highlight-secondary-padding-2-4">ADjectives</mark></summary>
 
 					<ul className="list-border1">
 
 						<li>
-							<Link to="/vocabulary/beautiful">beautiful</Link> 	
+							<Link to="/vocabulary/beautiful">BEAUtiful</Link> 	
 						</li>
 
 						<li>
-							<Link to="/vocabulary/attractive">attractive</Link> 	
+							<Link to="/vocabulary/attractive">atTRACtive</Link> 	
 						</li>
 
 						<li>
-							<Link to="/vocabulary/grateful">grateful</Link> 	
+							<Link to="/vocabulary/grateful">GRATEful</Link> 	
 						</li>
 						
 
@@ -1187,7 +1187,7 @@ export default function VocabularyIndex(): React.JSX.Element {
 					<ul className="list-border1">
 
 						<li>
-							<Link to="/vocabulary/sincerely-1">sincerely
+							<Link to="/vocabulary/sincerely-1">sinCEREly
 								<sup>&nbsp;1&nbsp;</sup>
 									</Link> 
 									<Link to="/vocabulary/sincerely-2">
@@ -1196,7 +1196,7 @@ export default function VocabularyIndex(): React.JSX.Element {
 						</li>
 
 						<li>
-							<Link to="/vocabulary/honestly-1">honestly
+							<Link to="/vocabulary/honestly-1">HONestly
 								<sup>&nbsp;1&nbsp;</sup>
 									</Link> 
 									<Link to="/vocabulary/honestly-2">
@@ -1205,7 +1205,7 @@ export default function VocabularyIndex(): React.JSX.Element {
 						</li>
 
 						<li>
-							<Link to="/vocabulary/faithfully-1">faithfully
+							<Link to="/vocabulary/faithfully-1">FAITHfully
 								<sup>&nbsp;1&nbsp;</sup>
 									</Link> 
 									<Link to="/vocabulary/faithfully-2">
@@ -1214,7 +1214,7 @@ export default function VocabularyIndex(): React.JSX.Element {
 						</li>
 
 						<li>
-							<Link to="/vocabulary/openly-1">openly
+							<Link to="/vocabulary/openly-1">Openly
 								<sup>&nbsp;1&nbsp;</sup>
 									</Link> 
 									<Link to="/vocabulary/openly-2">
@@ -1237,7 +1237,7 @@ export default function VocabularyIndex(): React.JSX.Element {
 					<ul className="list-border1">
 
 						<li>
-							<Link to="/vocabulary/gently-1">gently
+							<Link to="/vocabulary/gently-1">GENTly
 								<sup>&nbsp;1&nbsp;</sup>
 									</Link> 
 									<Link to="/vocabulary/gently-2">
@@ -1246,7 +1246,7 @@ export default function VocabularyIndex(): React.JSX.Element {
 						</li>
 
 						<li>
-							<Link to="/vocabulary/softly-1">softly
+							<Link to="/vocabulary/softly-1">SOFTly
 								<sup>&nbsp;1&nbsp;</sup>
 									</Link> 
 									<Link to="/vocabulary/softly-2">
@@ -1255,7 +1255,7 @@ export default function VocabularyIndex(): React.JSX.Element {
 						</li>
 
 						<li>
-							<Link to="/vocabulary/tenderly-1">tenderly
+							<Link to="/vocabulary/tenderly-1">TENderly
 								<sup>&nbsp;1&nbsp;</sup>
 									</Link> 
 									<Link to="/vocabulary/tenderly-2">
@@ -1264,7 +1264,7 @@ export default function VocabularyIndex(): React.JSX.Element {
 						</li>
 
 						<li>
-							<Link to="/vocabulary/delicately-1">delicately
+							<Link to="/vocabulary/delicately-1">DELicately
 								<sup>&nbsp;1&nbsp;</sup>
 									</Link> 
 									<Link to="/vocabulary/delicately-2">
