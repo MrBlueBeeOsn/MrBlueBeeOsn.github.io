@@ -669,7 +669,7 @@ export default function TiengAnhIndex(): React.JSX.Element {
 
             <li>
               <div className="li-content">
-                <Link to="/tieng-anh/tiered-structure-1">[CƠ][CỤM][CÂU]
+                <Link to="/tieng-anh/tiered-structure-1">[BASE][PHRASE][CLAUSE]
                 {/* <sup>&nbsp;1&nbsp;</sup> */}
                 </Link>
                 {/* <Link to="/tieng-anh/tiered-structure-2">
