@@ -22,7 +22,7 @@ export default function (): React.JSX.Element {
 				<sup><HashLink smooth to="/tieng-anh/three-dc-1">&nbsp;1&nbsp;</HashLink>
 				</sup>
 
-				<sup><HashLink smooth to="/tieng-anh/three-dc-2">&nbsp;2&nbsp;</HashLink>
+				{/* <sup><HashLink smooth to="/tieng-anh/three-dc-2">&nbsp;2&nbsp;</HashLink>
 				</sup>
 
 				<sup><HashLink smooth to="/tieng-anh/three-dc-3">&nbsp;3&nbsp;</HashLink>
@@ -38,7 +38,7 @@ export default function (): React.JSX.Element {
 				</sup>
 
 				<sup><HashLink smooth to="/tieng-anh/three-dc-7">&nbsp;7&nbsp;</HashLink>
-				</sup>
+				</sup> */}
 
 				<sup><HashLink smooth to="/tieng-anh/three-dc-8">&nbsp;8&nbsp;</HashLink>
 				</sup>
