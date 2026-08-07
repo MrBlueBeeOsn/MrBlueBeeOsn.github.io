@@ -60,7 +60,7 @@ export default function ThreeDC1(): React.ReactElement {
 
 			<h3 className="margin-y-50 text-center">I. HỆ THỐNG TƯ DUY HAI CHIỀU: HÌNH THÁI TRƯỚC, CHỨC NĂNG SAU</h3>
 
-			<p>Để bẻ khóa tiếng Anh nâng cao, người học cần nhìn nhận một khối biểu hiện dựa trên <strong>Hình thái</strong> biểu hiện của nó trước, sau đó mới xác định <strong>Chức năng</strong> dựa vào vị trí đứng trong câu. Hệ thống này được đồng bộ hóa một cách nhất quán theo hai trục:</p>
+			<p>Để bẻ khóa tiếng Anh nâng cao, người học cần nhìn nhận một khối biểu hiện dựa trên <strong>Hình thái biểu hiện</strong> của nó trước, sau đó mới xác định <strong>Chức năng</strong> dựa vào vị trí đứng trong câu. Hệ thống này được đồng bộ hóa một cách nhất quán theo hai trục:</p>
 			
 				<ul className="list-square">
 			
@@ -326,7 +326,7 @@ export default function ThreeDC1(): React.ReactElement {
 					<li>The management resolved [to liquidate the underperforming assets].</li>
 					<li className="margin-bottom-20 list-none">Ban quản lý đã quyết định [thanh lý các tài sản kém hiệu quả].</li>
 			
-					<li className="list-none">Chức năng: Khối [to liquidate the underperforming assets] - [Danh Cụm][Noun Phrase] làm khối [Danh Nhận][Noun Object] mục tiêu cần thực hiện, đứng sau chịu sự điều phối của [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "resolved".</li>
+					<li className="list-none">Hình thái: Khối [to liquidate the underperforming assets] - [Hạt Thuần Động Cụm][Particle Bare Verb Phrase] bắt đầu bằng [Hạt Thuần Động Cơ][Particle Bare Verb Base] "to liquidate" kéo theo một cụm [Danh Nhận][Noun Object] phức hợp phía sau.</li>
 			
 					<li className="list-none">Chức năng: Khối [to liquidate the underperforming assets] - [Danh Cụm][Noun Phrase] làm khối [Danh Nhận][Noun Object] mục tiêu cần thực hiện, đứng sau chịu sự điều phối của [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "resolved".</li>
 			
@@ -463,22 +463,6 @@ export default function ThreeDC1(): React.ReactElement {
 
 
 			<p className="margin-top-20"><strong>Ví dụ 1</strong>: [<strong>DANH CÂU</strong>][<strong>NOUN CLAUSE</strong>]:</p>
-
-			<p className="margin-top-20 text-indent-whole"><strong>Làm</strong> [<strong>Danh Chủ</strong>][<strong>Noun Subject</strong>]:</p>
-			
-				<ul className="list-square">
-			
-					<li>[The team fails to deliver the prototype] worries the stakeholders.</li>
-					<li className="margin-bottom-20 list-none">[Việc đội ngũ không giao được bản mẫu] làm các bên liên quan lo lắng.</li>
-			
-					<li className="list-none">Hình thái: Khối [The team fails to deliver the prototype] - [Ẩn-Liên Động Câu][Zero-Connector Verb Clause] mang cấu trúc một câu hoàn chỉnh nhưng thiếu vắng [Liên Cơ][Connector Base] mở đầu.</li>
-			
-					<li className="list-none">Chức năng: Khối [The team fails to deliver the prototype] thực thi chức năng [Danh Câu][Noun Clause] làm nhiệm vụ của một [Danh Chủ][Noun Subject] để điều phối [Thời-Thuần Động Cơ][Tense-Bare Verb Base] worries.</li>
-			
-				</ul>
-			
-
-			<p className="margin-top-20 text-indent-whole"><strong>Làm</strong> [<strong>Danh Nhận</strong>][<strong>Noun Object</strong>]:</p>
 			
 				<ul className="list-square">
 			
@@ -554,7 +538,7 @@ export default function ThreeDC1(): React.ReactElement {
 			
 					<li className="list-none">Hình thái: Khối bao ngoài [to demonstrate {'{how the drug works}'}] là một [Tầng Hạt Thuần Động Cụm][Tiered Particle Bare Verb Phrase] bắt đầu bằng [Hạt Thuần Động Cơ][Particle Bare Verb Base] "to demonstrate". Bên trong bao gói {'{how the drug works}'} là một [Hiển-Liên Động Câu][Connector Verb Clause] bắt đầu bằng [Liên Cơ][Connector Base] "how".</li>
 			
-					<li className="list-none">Chức năng: Khối {'{how the drug works}'} bên trong đóng vai trò là [Danh Câu][Noun Clause] làm [Danh Nhận][Noun Object] chịu sự điều phối trực tiếp của [Thuần Động Cơ][Bare Verb Base] "demonstrate". Toàn bộ khối hỗn hợp [to demonstrate {'{how the drug works}'}] đóng vai trò tổng thể làm khối [<strong>Danh Nhận</strong>][<strong>Noun Object</strong>] đứng sau [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "hope".</li>
+					<li className="list-none">Chức năng: Khối {'{how the drug works}'} bên trong đóng vai trò là [Danh Câu][Noun Clause] làm [Danh Nhận][Noun Object] chịu sự điều phối trực tiếp của [Thuần Động Cơ][Bare Verb Base] "demonstrate". Toàn bộ khối hỗn hợp [to demonstrate {'{how the drug works}'}] - [<strong>Danh Cụm</strong>][<strong>Noun Phrase</strong>] đóng vai trò tổng thể làm khối [Danh Nhận][Noun Object] đứng sau [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "hope".</li>
 			
 				</ul>
 			
@@ -569,7 +553,7 @@ export default function ThreeDC1(): React.ReactElement {
 			
 					<li className="list-none">Hình thái: Khối tổng thể [over {'{whether the company should merge}'}] là một [Tầng Giới Cụm][Tiered Prepositional Phrase] bắt đầu bằng [Giới Cơ][Prepositional Base] "over". Bên trong bao gói {'{whether the company should merge}'} là một [Hiển-Liên Động Câu][Connector Verb Clause] được mở đầu bằng [Liên Cơ][Connector Base] "whether".</li>
 			
-					<li className="list-none">Chức năng: Khối {'{whether the company should merge}'} bên trong thực thi chức năng [Danh Câu][Noun Clause] làm [Danh Nhận][Noun Object] nhận quan hệ trực tiếp đứng sau [Giới Cơ][Prepositional Base] over. Toàn bộ khối hỗn hợp [over {'{whether the company should merge}'}] vận hành với chức năng [Tính Cụm][Adjective Phrase] ở tầng ngoài để ôm sau bổ nghĩa đặc điểm cho cụm The dispute.</li>
+					<li className="list-none">Chức năng: Khối {'{whether the company should merge}'} bên trong thực thi chức năng [Danh Câu][Noun Clause] làm [Danh Nhận][Noun Object] nhận quan hệ trực tiếp đứng sau [Giới Cơ][Prepositional Base] over. Toàn bộ khối hỗn hợp [over {'{whether the company should merge}'}] vận hành với chức năng [<strong>Tính Cụm</strong>][<strong>Adjective Phrase</strong>] ở tầng ngoài để ôm sau bổ nghĩa đặc điểm cho cụm The dispute.</li>
 			
 				</ul>
 
@@ -593,7 +577,7 @@ export default function ThreeDC1(): React.ReactElement {
 
 			<h3 className="margin-y-50 text-center">VIII. ĐỈNH CAO PARAPHRASING: TƯ DUY THAY THẾ [KHỐI] CÙNG CHỨC NĂNG</h3>
 
-			<h4 className="margin-y-40">1. Paraphrasing cho chức năng [TRẠNG][ADVERB]: Mô tả hoàn cảnh, bối cảnh</h4>
+			<h4 className="margin-y-40">1. Paraphrasing cho chức năng [TRẠNG][ADVERB] (Mô tả hoàn cảnh, bối cảnh)</h4>
 
 			<h5 className="margin-y-30 text-indent-whole">Gốc:</h5>
 					
@@ -644,7 +628,7 @@ export default function ThreeDC1(): React.ReactElement {
 			
 
 
-			<h4 className="margin-y-40">2. Paraphrasing cho chức năng [TÍNH][ADJECTIVE]: Mô tả, định danh thực thể</h4>
+			<h4 className="margin-y-40">2. Paraphrasing cho chức năng [TÍNH][ADJECTIVE] (Mô tả, định danh thực thể)</h4>
 
 			<h5 className="margin-y-30 text-indent-whole">Gốc:</h5>
 
@@ -929,7 +913,7 @@ export default function ThreeDC1(): React.ReactElement {
 
 			<p>Tư duy tiếng Anh theo mô hình phân tầng khối là chìa khóa tối thượng để chuyển hóa từ trạng thái dịch cơ học sang phản xạ bản xứ tự nhiên. Việc làm chủ sự biến đổi linh hoạt giữa Hình thái và Chức năng của các mảnh ghép – đặc biệt là sự kết nối trong "[BỘ 3 PHỤ KHỐI]" – sẽ giúp bạn giải phóng hoàn toàn khả năng ngôn ngữ của mình.</p>
 
-			<p>Hãy rèn luyện thói quen quét cấu trúc dưới dạng các khối thông tin đa năng; bạn sẽ thấy việc viết những cấu trúc phức tạp, chặt chẽ hay việc paraphrasing nâng cao trở nên trực quan, chính xác và dễ dàng hơn bao giờ hết.</p>
+			<p> Hãy rèn luyện thói quen quét cấu trúc dưới dạng các khối thông tin đa năng; bạn sẽ thấy việc viết những cấu trúc phức tạp, chặt chẽ hay việc paraphrasing nâng cao trở nên trực quan, chính xác và dễ dàng hơn bao giờ hết.</p>
 			
 
 			<div className="viewcounter">
