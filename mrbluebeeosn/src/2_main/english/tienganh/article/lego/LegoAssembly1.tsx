@@ -50,7 +50,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 
 			<h4 className="margin-bottom-30 text-center">Phá Vỡ 12 Thời: Học Tiếng Anh Theo [Tư Duy Lắp Ghép][Lego Assembly]</h4>
 
-			<p>Bạn đã dành bao nhiêu năm cuộc đời để học thuộc lòng những công thức cấu trúc phức tạp? Để rồi mỗi khi định mở miệng nói một câu, bộ não lại mất vài giây "đóng băng" để lục tìm trong trí nhớ xem phải chia các mảnh ghép [Lego] ra sao?</p>
+			<p>Bạn đã dành bao nhiêu năm cuộc đời để học thuộc lòng những công thức cấu trúc phức tạp? Để rồi mỗi khi định mở miệng nói một câu, bộ nền não lại mất vài giây "đóng băng" để lục tìm trong trí nhớ xem phải chia các mảnh ghép [Lego] ra sao?</p>
 
 			<p>Đó là cách học cũ kỹ – cách học biến tiếng Anh thành một môn toán học đầy tính đánh đố.</p>
 
@@ -260,7 +260,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 			<p>Điểm mấu chốt của phương pháp [Lego Assembly] là người học chỉ cần nhìn vào Hình thái (bản chất cấu tạo bề ngoài của khối [Lego]) trước, sau đó mới xác định Chức năng của nó dựa vào vị trí đứng trong câu.</p>
 
 
-			<h4 className="margin-y-40">Chiều Dọc: Các Cấp Độ Của Hình Thái (Mảnh [Lego] làm bằng gì?)</h4>
+			<h4 className="margin-y-40">Chiều Dọc Cấp độ: [Cơ][Base] - [Cụm][Phrase] - [Câu][Clause] (Mảnh [Lego] làm bằng gì?)</h4>
 
 				<ul className="list-square">
 			
@@ -273,7 +273,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 				</ul>
 
 			
-			<h4 className="margin-y-40">Chiều Ngang: 3 Chức Năng (Mảnh [Lego] dùng để làm gì?)</h4>
+			<h4 className="margin-y-40">Chiều Ngang Chức năng: [Danh][Noun] / [Tính][Adjective] / [Trạng][Adverb] (Mảnh [Lego] dùng để làm gì?)</h4>
 
 			<p className="text-indent-whole">Khi một Hình thái được đặt vào một vị trí cụ thể trong khung câu, nó sẽ kích hoạt một trong ba chức năng cốt lõi: [<strong>Danh</strong>] / [<strong>Tính</strong>] / [<strong>Trạng</strong>].</p>
 
@@ -281,7 +281,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>[Động Cơ][Verb Base] hình thành nên chức năng [Danh Cơ][Noun Base], [Tính Cơ][Adjective Base], [Trạng Cơ][Adverb Base].</li>
+					<li>[Rễ Động Cơ][Root Verb Base] hình thành nên chức năng [Danh Cơ][Noun Base], [Tính Cơ][Adjective Base], [Trạng Cơ][Adverb Base].</li>
 			
 					<li>[Động Cụm][Verb Phrase] hình thành nên chức năng [Danh Cụm][Noun Phrase], [Tính Cụm][Adjective Phrase], [Trạng Cụm][Adverb Phrase].</li>
 
@@ -374,7 +374,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 
 					<li className="list-none">Khối tổng thể [Investigating {'{why the application failed}'}] là một [Tầng Tiếp Động Cụm][Tiered Progressive Verb Phrase] bắt đầu bằng [Tiếp Động Cơ][Progressive Verb Base] Investigating ôm trọn phần phụ thuộc phức tạp bên trong.</li>
 
-					<li className="margin-bottom-20 list-none">Khối nhỏ bên trong {'{why the application failed}'} là một [Hiển-Liên Động Câu][Connector Verb Clause] bắt đầu bằng [Liên Cơ][Connector Base] why kết hợp với một nhóm từ đề đầy đủ của riêng nó.</li>
+					<li className="margin-bottom-20 list-none">Khối nhỏ bên trong {'{why the application failed}'} là một [Hiển-Liên Động Câu][Connector Verb Clause] bắt đầu bằng [Liên Cơ][Connector Base] why kết hợp với một cấu trúc [S]-[Head] nội bộ của riêng nó.</li>
 
 					<li className="list-none">Chức năng:</li>
 
@@ -603,7 +603,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 
 					<li className="list-none">Khối tổng thể [at the moment {'{when the update completed}'}] là một [Tầng Giới Cụm][Tiered Prepositional Phrase] bắt đầu bằng [Giới Cơ][Prepositional Base] at ôm lấy cấu trúc phức hợp tầng dưới nhằm định vị [Thời] gian.</li>
 
-					<li className="margin-bottom-20 list-none">Khối nhỏ bên trong {'{when the update completed}'} là một [Hiển-Liên Động Câu][Connector Verb Clause] chứa [Liên Cơ][Connector Base] when liên kết một câu hoàn chỉnh có chủ vị riêng.</li>
+					<li className="margin-bottom-20 list-none">Khối nhỏ bên trong {'{when the update completed}'} là một [Hiển-Liên Động Câu][Connector Verb Clause] chứa [Liên Cơ][Connector Base] when liên kết một câu con hoàn chỉnh có chủ vị riêng.</li>
 
 					<li className="list-none">Chức năng:</li>
 
