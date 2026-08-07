@@ -262,12 +262,12 @@ export default function TieredStructure1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>They enjoy [exploring].</li>
-					<li className="margin-bottom-20 list-none">Họ yêu thích [việc khám phá].</li>
+					<li>They delay [launching].</li>
+					<li className="margin-bottom-20 list-none">Họ hoãn [việc khởi chạy].</li>
 
-					<li className="list-none">Hình thái: [exploring] - [Tiếp Động Cơ][Progressive Verb Base] giữ hình thái hành động dạng "-ing" ở cấp độ [Cơ][Base] đơn lẻ đứng phía sau một hành động khác.</li>
+					<li className="list-none">Hình thái: [launching] — [Tiếp Động Cơ][Progressive Verb Base] giữ hình thái hành động dạng "-ing" ở cấp độ [Cơ][Base] đơn lẻ đứng phía sau một hành động [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "delay".</li>
 
-					<li className="list-none">Chức năng: [exploring] - [Danh Cơ][Noun Base] đóng vai trò làm khối [Danh Nhận][Noun Object] tiếp nhận trực tiếp sự tác động từ hành động "enjoy".</li>
+					<li className="list-none">Chức năng: [launching] — [Danh Cơ][Noun Base] đóng vai trò làm khối [Danh Nhận][Noun Object] tiếp nhận trực tiếp sự tác động từ hành động "delay".</li>
 			
 				</ul>
 			
