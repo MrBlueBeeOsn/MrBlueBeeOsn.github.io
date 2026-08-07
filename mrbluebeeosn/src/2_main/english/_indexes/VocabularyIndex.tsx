@@ -58,43 +58,8 @@ export default function VocabularyIndex(): React.JSX.Element {
 
 			</div>
 
-			<div className="vocabulary-container margin-top-20">
-						
-				{/* =============================
-							Adverbs
-				============================= */}
+			<hr className="hr-short"/>
 
-
-				<details className="sub-box-fix">
-			
-					<summary id="dc-terms"><mark className="highlight-secondary-padding-2-4">DC</mark></summary>
-
-					<ul className="list-border1">
-
-
-
-						<li>
-							<Link to="/vocabulary/when">when</Link> 	
-						</li>
-
-						<li>
-							<Link to="/vocabulary/if">if</Link> 	
-						</li>
-
-						<li>
-							<Link to="/vocabulary/although">although</Link> 	
-						</li>
-						
-						<li>
-							<Link to="/vocabulary/because">because</Link> 	
-						</li>
-
-					</ul>
-
-
-				</details>
-
-			</div>
 
 			<div className="vocabulary-container margin-top-20">
 						
@@ -131,6 +96,8 @@ export default function VocabularyIndex(): React.JSX.Element {
 
 			</div>
 
+			<hr className="hr-short"/>
+
 			<div className="vocabulary-container margin-top-20">
 						
 				{/* =============================
@@ -164,15 +131,53 @@ export default function VocabularyIndex(): React.JSX.Element {
 
 			</div>
 
+			<hr className="hr-short"/>
+
+			<div className="vocabulary-container margin-top-20">
+						
+				{/* =============================
+							Adverbs
+				============================= */}
+
+
+				<details className="sub-box-fix">
+			
+					<summary id="dc-terms"><mark className="highlight-secondary-padding-2-4">ADverbs: DC</mark></summary>
+
+					<ul className="list-border1">
+
+						<li>
+							<Link to="/vocabulary/when">when</Link> 	
+						</li>
+
+						<li>
+							<Link to="/vocabulary/if">if</Link> 	
+						</li>
+
+						<li>
+							<Link to="/vocabulary/although">although</Link> 	
+						</li>
+						
+						<li>
+							<Link to="/vocabulary/because">because</Link> 	
+						</li>
+
+					</ul>
+
+
+				</details>
+
+			</div>
+
 			<div className="vocabulary-container margin-top-20">
 
 				{/* =============================
-							Mức độ cao
+							ADverbs: mức độ cao
 				============================= */}
 
 				<details className="sub-box-fix">
 			
-					<summary id="muc-do-cao-terms"><mark className="highlight-secondary-padding-2-4">Mức độ cao</mark></summary>
+					<summary id="muc-do-cao-terms"><mark className="highlight-secondary-padding-2-4">ADverbs: mức độ cao</mark></summary>
 
 					<ul className="list-border1">
 
@@ -226,12 +231,12 @@ export default function VocabularyIndex(): React.JSX.Element {
 				</details>
 
 				{/* =============================
-							Không chắc chắn
+							ADverbs: không chắc
 				============================= */}
 
 				<details className="sub-box-fix">
 			
-					<summary id="khong-chac-chan-terms"><mark className="highlight-secondary-padding-2-4">Không chắc chắn</mark></summary>
+					<summary id="khong-chac-chan-terms"><mark className="highlight-secondary-padding-2-4">ADverbs: không chắc</mark></summary>
 
 					<ul className="list-border1">
 
@@ -294,12 +299,12 @@ export default function VocabularyIndex(): React.JSX.Element {
 				</details>
 
 				{/* =============================
-							Không
+							ADverbs: không
 				============================= */}
 
 				<details className="sub-box-fix">
 			
-					<summary id="khong-terms"><mark className="highlight-secondary-padding-2-4">Không</mark></summary>
+					<summary id="khong-terms"><mark className="highlight-secondary-padding-2-4">ADverbs: không</mark></summary>
 
 					<ul className="list-border1">
 
@@ -335,12 +340,12 @@ export default function VocabularyIndex(): React.JSX.Element {
 				</details>
 
 				{/* =============================
-							Có
+							ADverbs: có
 				============================= */}
 
 				<details className="sub-box-fix">
 			
-					<summary id="co-terms"><mark className="highlight-secondary-padding-2-4">Có</mark></summary>
+					<summary id="co-terms"><mark className="highlight-secondary-padding-2-4">ADverbs: có</mark></summary>
 
 					<ul className="list-border1">
 
@@ -376,12 +381,12 @@ export default function VocabularyIndex(): React.JSX.Element {
 				</details>
 
 				{/* =============================
-							Điểm nhấn đặc biệt
+							ADverbs: đặc biệt
 				============================= */}
 
 				<details className="sub-box-fix">
 			
-					<summary id="diem-nhan-dac-biet-terms"><mark className="highlight-secondary-padding-2-4">Điểm nhấn đặc biệt</mark></summary>
+					<summary id="diem-nhan-dac-biet-terms"><mark className="highlight-secondary-padding-2-4">ADverbs: đặc biệt</mark></summary>
 
 					<ul className="list-border1">
 
@@ -410,12 +415,12 @@ export default function VocabularyIndex(): React.JSX.Element {
 				</details>
 
 				{/* =============================
-							Thời gian lặp lại
+							ADverbs: lặp lại
 				============================= */}
 
 				<details className="sub-box-fix">
 			
-					<summary id="thoi-gian-lap-lai-terms"><mark className="highlight-secondary-padding-2-4">Thời gian lặp lại</mark></summary>
+					<summary id="thoi-gian-lap-lai-terms"><mark className="highlight-secondary-padding-2-4">ADverbs: lặp lại</mark></summary>
 
 					<ul className="list-border1">
 
@@ -469,12 +474,12 @@ export default function VocabularyIndex(): React.JSX.Element {
 				</details>
 
 				{/* =============================
-							Thời gian tương lai
+							ADverbs: tương lai
 				============================= */}
 
 				<details className="sub-box-fix">
 			
-					<summary id="thoi-gian-tuong-lai-terms"><mark className="highlight-secondary-padding-2-4">Thời gian tương lai</mark></summary>
+					<summary id="thoi-gian-tuong-lai-terms"><mark className="highlight-secondary-padding-2-4">ADverbs: tương lai</mark></summary>
 
 					<ul className="list-border1">
 
@@ -503,12 +508,12 @@ export default function VocabularyIndex(): React.JSX.Element {
 				</details>
 
 				{/* =============================
-							Thời gian hiện tại
+							ADverbs: hiện tại
 				============================= */}
 
 				<details className="sub-box-fix">
 			
-					<summary id="thoi-gian-hien-tai-terms"><mark className="highlight-secondary-padding-2-4">Thời gian hiện tại</mark></summary>
+					<summary id="thoi-gian-hien-tai-terms"><mark className="highlight-secondary-padding-2-4">ADverbs: hiện tại</mark></summary>
 
 					<ul className="list-border1">
 
@@ -553,12 +558,12 @@ export default function VocabularyIndex(): React.JSX.Element {
 				</details>
 
 				{/* =============================
-							Thời gian hiếm
+							ADverbs: hiếm
 				============================= */}
 
 				<details className="sub-box-fix">
 			
-					<summary id="thoi-gian-hiem-terms"><mark className="highlight-secondary-padding-2-4">Thời gian hiếm</mark></summary>
+					<summary id="thoi-gian-hiem-terms"><mark className="highlight-secondary-padding-2-4">ADverbs: hiếm</mark></summary>
 
 					<ul className="list-border1">
 
@@ -603,12 +608,12 @@ export default function VocabularyIndex(): React.JSX.Element {
 				</details>
 
 				{/* =============================
-							Về cơ bản
+							ADverbs: về cơ bản
 				============================= */}
 
 				<details className="sub-box-fix">
 			
-					<summary id="ve-co-ban-terms"><mark className="highlight-secondary-padding-2-4">Về cơ bản</mark></summary>
+					<summary id="ve-co-ban-terms"><mark className="highlight-secondary-padding-2-4">ADverbs: về cơ bản</mark></summary>
 
 					<ul className="list-border1">
 
@@ -627,12 +632,12 @@ export default function VocabularyIndex(): React.JSX.Element {
 				</details>
 
 				{/* =============================
-							Tốc độ nhanh
+							ADverbs: nhanh
 				============================= */}
 
 				<details className="sub-box-fix">
 			
-					<summary id="toc-do-nhanh-terms"><mark className="highlight-secondary-padding-2-4">Tốc độ nhanh</mark></summary>
+					<summary id="toc-do-nhanh-terms"><mark className="highlight-secondary-padding-2-4">ADverbs: nhanh</mark></summary>
 
 					<ul className="list-border1">
 
@@ -677,12 +682,12 @@ export default function VocabularyIndex(): React.JSX.Element {
 				</details>
 
 				{/* =============================
-							Tốc độ chậm
+							ADverbs: chậm
 				============================= */}
 
 				<details className="sub-box-fix">
 			
-					<summary id="toc-do-cham-terms"><mark className="highlight-secondary-padding-2-4">Tốc độ chậm</mark></summary>
+					<summary id="toc-do-cham-terms"><mark className="highlight-secondary-padding-2-4">ADverbs: chậm</mark></summary>
 
 					<ul className="list-border1">
 
@@ -727,12 +732,12 @@ export default function VocabularyIndex(): React.JSX.Element {
 				</details>
 
 				{/* =============================
-							Tính tích cực
+							ADverbs: tích cực
 				============================= */}
 
 				<details className="sub-box-fix">
 			
-					<summary id="tinh-tich-cuc-terms"><mark className="highlight-secondary-padding-2-4">Tính tích cực</mark></summary>
+					<summary id="tinh-tich-cuc-terms"><mark className="highlight-secondary-padding-2-4">ADverbs: tích cực</mark></summary>
 
 					<ul className="list-border1">
 
@@ -777,12 +782,12 @@ export default function VocabularyIndex(): React.JSX.Element {
 				</details>
 
 				{/* =============================
-							Tính kiên nhẫn
+							ADverbs: kiên nhẫn
 				============================= */}
 
 				<details className="sub-box-fix">
 			
-					<summary id="tinh-can-than-terms"><mark className="highlight-secondary-padding-2-4">Tính cẩn thận</mark></summary>
+					<summary id="tinh-can-than-terms"><mark className="highlight-secondary-padding-2-4">ADverbs: cẩn thận</mark></summary>
 
 					<ul className="list-border1">
 
@@ -827,12 +832,12 @@ export default function VocabularyIndex(): React.JSX.Element {
 				</details>
 
 				{/* =============================
-							Tính kiên nhẫn
+							ADverbs: kiên nhẫn
 				============================= */}
 
 				<details className="sub-box-fix">
 			
-					<summary id="tinh-kien-nhan-terms"><mark className="highlight-secondary-padding-2-4">Tính kiên nhẫn</mark></summary>
+					<summary id="tinh-kien-nhan-terms"><mark className="highlight-secondary-padding-2-4">ADverbs: kiên nhẫn</mark></summary>
 
 					<ul className="list-border1">
 
@@ -877,12 +882,12 @@ export default function VocabularyIndex(): React.JSX.Element {
 				</details>
 
 				{/* =============================
-							Tính hiệu quả
+							ADverbs: hiệu quả
 				============================= */}
 
 				<details className="sub-box-fix">
 			
-					<summary id="tinh-hieu-qua-terms"><mark className="highlight-secondary-padding-2-4">Tính hiệu quả</mark></summary>
+					<summary id="tinh-hieu-qua-terms"><mark className="highlight-secondary-padding-2-4">ADverbs: hiệu quả</mark></summary>
 
 					<ul className="list-border1">
 
@@ -927,12 +932,12 @@ export default function VocabularyIndex(): React.JSX.Element {
 				</details>
 
 				{/* =============================
-							Tính chính xác
+							ADverbs: chính xác
 				============================= */}
 
 				<details className="sub-box-fix">
 			
-					<summary id="tinh-chinh-xac-terms"><mark className="highlight-secondary-padding-2-4">Tính chính xác</mark></summary>
+					<summary id="tinh-chinh-xac-terms"><mark className="highlight-secondary-padding-2-4">ADverbs: chính xác</mark></summary>
 
 					<ul className="list-border1">
 						
@@ -977,12 +982,12 @@ export default function VocabularyIndex(): React.JSX.Element {
 				</details>
 
 				{/* =============================
-							Tính tỉ mỉ
+							ADverbs: tỉ mỉ
 				============================= */}
 
 				<details className="sub-box-fix">
 	
-					<summary id="tinh-ti-mi-terms"><mark className="highlight-secondary-padding-2-4">Tính tỉ mỉ</mark></summary>
+					<summary id="tinh-ti-mi-terms"><mark className="highlight-secondary-padding-2-4">ADverbs: tỉ mỉ</mark></summary>
 
 					<ul className="list-border1">
 
@@ -1027,12 +1032,12 @@ export default function VocabularyIndex(): React.JSX.Element {
 				</details>
 
 				{/* =============================
-							Tính rõ ràng
+							ADverbs: rõ ràng
 					============================= */}
 
 				<details className="sub-box-fix">
 
-					<summary id="tinh-ro-rang-terms"><mark className="highlight-secondary-padding-2-4">Tính rõ ràng</mark></summary>
+					<summary id="tinh-ro-rang-terms"><mark className="highlight-secondary-padding-2-4">ADverbs: rõ ràng</mark></summary>
 
 					<ul className="list-border1">
 
@@ -1077,12 +1082,12 @@ export default function VocabularyIndex(): React.JSX.Element {
 				</details>
 
 				{/* =============================
-							Tính rõ ràng
+							ADverbs: rõ ràng
 				============================= */}
 
 				<details className="sub-box-fix">
 			
-					<summary id="tinh-xac-thuc-terms"><mark className="highlight-secondary-padding-2-4">Tính xác thực</mark></summary>
+					<summary id="tinh-xac-thuc-terms"><mark className="highlight-secondary-padding-2-4">ADverbs: xác thực</mark></summary>
 
 					<ul className="list-border1">
 
@@ -1127,12 +1132,12 @@ export default function VocabularyIndex(): React.JSX.Element {
 				</details>
 
 				{/* =============================
-							Tính chắc chắn
+							ADverbs: chắc chắn
 				============================= */}
 
 				<details className="sub-box-fix">
 			
-					<summary id="tinh-chac-chan-terms"><mark className="highlight-secondary-padding-2-4">Tính chắc chắn</mark></summary>
+					<summary id="tinh-chac-chan-terms"><mark className="highlight-secondary-padding-2-4">ADverbs: chắc chắn</mark></summary>
 
 					<ul className="list-border1">
 
@@ -1177,12 +1182,12 @@ export default function VocabularyIndex(): React.JSX.Element {
 				</details>
 
 				{/* =============================
-							Tính chân thành
+							ADverbs: chân thành
 				============================= */}
 
 				<details className="sub-box-fix">
 			
-					<summary id="tinh-chan-thanh-terms"><mark className="highlight-secondary-padding-2-4">Tính chân thành</mark></summary>
+					<summary id="tinh-chan-thanh-terms"><mark className="highlight-secondary-padding-2-4">ADverbs: chân thành</mark></summary>
 
 					<ul className="list-border1">
 
@@ -1227,12 +1232,12 @@ export default function VocabularyIndex(): React.JSX.Element {
 				</details>
 
 				{/* =============================
-							Tính nhẹ nhàng
+							ADverbs: nhẹ nhàng
 				============================= */}
 
 				<details className="sub-box-fix">
 			
-					<summary id="tinh-nhe-nhang-terms"><mark className="highlight-secondary-padding-2-4">Tính nhẹ nhàng</mark></summary>
+					<summary id="tinh-nhe-nhang-terms"><mark className="highlight-secondary-padding-2-4">ADverbs: nhẹ nhàng</mark></summary>
 
 					<ul className="list-border1">
 
