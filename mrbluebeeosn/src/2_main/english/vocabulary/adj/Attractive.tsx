@@ -17,11 +17,11 @@ export default function Attractive(): React.JSX.Element {
     
       <h4><HashLink smooth to="/vocabulary#adjectives-terms"><mark className="highlight-tertiary-padding-4-8">ADjectives</mark></HashLink></h4>
       
-      <h1 className="margin-y-50 text-center">atTRACtive</h1>
+      <h1 className="margin-y-50 text-center">attractive</h1>
 
       {/* This is the content of Vocabulary Term. */}
 
-      <p className="margin-bottom-30"><strong>atTRACtive</strong> (tính cơ): Lôi cuốn, hấp dẫn, có sức hút. Từ này dùng để chỉ người hoặc vật có những đặc điểm gây ra sự chú ý, hứng thú hoặc thiện cảm.</p>
+      <p className="margin-bottom-30"><strong>attractive</strong> (tính cơ): Lôi cuốn, hấp dẫn, có sức hút. Từ này dùng để chỉ người hoặc vật có những đặc điểm gây ra sự chú ý, hứng thú hoặc thiện cảm.</p>
 
         <ul className="list-square">
       

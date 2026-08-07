@@ -17,7 +17,7 @@ export default function Delicately1(): React.JSX.Element {
     
       <h4><HashLink smooth to="/vocabulary#tinh-nhe-nhang-terms"><mark className="highlight-tertiary-padding-4-8">Tính nhẹ nhàng</mark></HashLink></h4>
       
-      <h1 className="margin-y-50 text-center">DELicately
+      <h1 className="margin-y-50 text-center">delicately
         <sup><Link to="/vocabulary/delicately-1">&nbsp;1&nbsp;</Link>
         </sup>
         <sup><Link to="/vocabulary/delicately-2">&nbsp;2&nbsp;</Link>
@@ -26,20 +26,20 @@ export default function Delicately1(): React.JSX.Element {
 
       {/* This is the content of Vocabulary Term. */}
       
-      <p>Tuyệt vời! Chúng ta cùng khám phá từ "<strong>DELicately</strong>" nhé.</p>
+      <p>Tuyệt vời! Chúng ta cùng khám phá từ "<strong>delicately</strong>" nhé.</p>
 
       <div className="text-border1 padding-top-20 padding-bottom-10 highlight-238-padding-4-8 bee-container">
 
         <div>
 
-          <p className="margin-bottom-20"><strong>DELicately</strong></p>
+          <p className="margin-bottom-20"><strong>delicately</strong></p>
 
           <ul className="list-square padding-left-40">
 
             <li>
               <span className="highlight-255-padding-3-6">
-                /ˈdɛlɪkətli/ + /<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">DELica̛tely</Link>/
-                <sup>&nbsp;⬤••• (4x)</sup>
+                [DELicately: DEL-i-cate-ly] /ˈdɛlɪkətli/ + /<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">delica̛tely</Link>/
+                &nbsp;⬤••• (4x)
               </span>
             </li>
 
@@ -57,7 +57,7 @@ export default function Delicately1(): React.JSX.Element {
 
       </div>
 
-      <p className="margin-top-30 text-indent-whole">Từ "<strong>DELicately</strong>" thường được dùng để mô tả một hành động được thực hiện một cách cẩn thận, nhẹ nhàng, tránh gây tổn hại hoặc làm phiền đến người khác hoặc vật khác. Nó cũng có thể ám chỉ sự tinh tế trong cách diễn đạt hoặc xử lý một vấn đề.</p>
+      <p className="margin-top-30 text-indent-whole">Từ "<strong>delicately</strong>" thường được dùng để mô tả một hành động được thực hiện một cách cẩn thận, nhẹ nhàng, tránh gây tổn hại hoặc làm phiền đến người khác hoặc vật khác. Nó cũng có thể ám chỉ sự tinh tế trong cách diễn đạt hoặc xử lý một vấn đề.</p>
 
       <p className="text-indent-whole">Ví dụ:</p>
 

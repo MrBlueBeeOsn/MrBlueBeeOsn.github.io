@@ -17,7 +17,7 @@ export default function Delicately2(): React.JSX.Element {
     
       <h4><HashLink smooth to="/vocabulary#tinh-nhe-nhang-terms"><mark className="highlight-tertiary-padding-4-8">Tính nhẹ nhàng</mark></HashLink></h4>
       
-      <h1 className="margin-y-50 text-center">DELicately
+      <h1 className="margin-y-50 text-center">delicately
         <sup>
           <Link to="/vocabulary/delicately-1">&nbsp;1&nbsp;</Link>
         </sup>
@@ -28,7 +28,7 @@ export default function Delicately2(): React.JSX.Element {
 
       {/* This is the content of Vocabulary Term. */}
 
-      <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>DELicately</strong>" (một cách tinh tế, khéo léo) và các cụm từ hay đi kèm nhé.</p>
+      <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>delicately</strong>" (một cách tinh tế, khéo léo) và các cụm từ hay đi kèm nhé.</p>
 
       <div className="text-border1 padding-10 highlight-238-padding-4-8 bee-container">
 
@@ -36,15 +36,15 @@ export default function Delicately2(): React.JSX.Element {
 
           <p className="margin-y-10">
             
-            <strong>DELicately&nbsp;</strong>
+            <strong>delicately&nbsp;</strong>
             
             <span className="highlight-255-padding-3-6">
               
-              /ˈdɛlɪkətli/ + /
+              [DELicately: DEL-i-cate-ly] /ˈdɛlɪkətli/ + /
               
-              <Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">DELica̛tely</Link>/ 
+              <Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">delica̛tely</Link>/ 
               
-              <sup>&nbsp;⬤••• (4x)</sup>
+              &nbsp;⬤••• (4x)
               
             </span>
               

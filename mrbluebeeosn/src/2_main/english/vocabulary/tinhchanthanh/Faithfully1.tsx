@@ -17,7 +17,7 @@ export default function Faithfully1(): React.JSX.Element {
     
       <h4><HashLink smooth to="/vocabulary#tinh-chan-thanh-terms"><mark className="highlight-tertiary-padding-4-8">Tính chân thành</mark></HashLink></h4>
       
-      <h1 className="margin-y-50 text-center">FAITHfully
+      <h1 className="margin-y-50 text-center">faithfully
         <sup><Link to="/vocabulary/faithfully-1">&nbsp;1&nbsp;</Link>
         </sup>
         <sup><Link to="/vocabulary/faithfully-2">&nbsp;2&nbsp;</Link>
@@ -26,20 +26,20 @@ export default function Faithfully1(): React.JSX.Element {
 
       {/* This is the content of Vocabulary Term. */}
       
-      <p>Tuyệt vời! Chúng ta cùng đi sâu vào từ "<strong>FAITHfully</strong>" nhé.</p>
+      <p>Tuyệt vời! Chúng ta cùng đi sâu vào từ "<strong>faithfully</strong>" nhé.</p>
 
       <div className="text-border1 padding-top-20 padding-bottom-10 highlight-238-padding-4-8 bee-container">
 
         <div>
 
-          <p className="margin-bottom-20"><strong>FAITHfully</strong></p>
+          <p className="margin-bottom-20"><strong>faithfully</strong></p>
 
           <ul className="list-square padding-left-40">
 
             <li>
               <span className="highlight-255-padding-3-6">
-                /ˈfeɪθfəli/ + /<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">FĀITHfully</Link>/
-                <sup>&nbsp;⬤•• (3x)</sup>
+                [FAITHfully: FAITH-ful-ly] /ˈfeɪθfəli/ + /<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">fāithfưlly</Link>/
+                &nbsp;⬤•• (3x)
               </span>
             </li>
 
@@ -57,7 +57,7 @@ export default function Faithfully1(): React.JSX.Element {
 
       </div>
 
-      <p className="margin-top-30 text-indent-whole">Từ "<strong>FAITHfully</strong>" được dùng để mô tả một hành động được thực hiện một cách trung thành, tin cậy và đáng tin cường. Nó thường liên quan đến việc giữ lời hứa, thực hiện nhiệm vụ một cách tận tâm và trung thực.</p>
+      <p className="margin-top-30 text-indent-whole">Từ "<strong>faithfully</strong>" được dùng để mô tả một hành động được thực hiện một cách trung thành, tin cậy và đáng tin cường. Nó thường liên quan đến việc giữ lời hứa, thực hiện nhiệm vụ một cách tận tâm và trung thực.</p>
 
       <p className="text-indent-whole">Ví dụ:</p>
 

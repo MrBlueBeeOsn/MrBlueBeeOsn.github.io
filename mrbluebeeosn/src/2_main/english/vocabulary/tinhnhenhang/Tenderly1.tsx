@@ -17,7 +17,7 @@ export default function Tenderly1(): React.JSX.Element {
     
       <h4><HashLink smooth to="/vocabulary#tinh-nhe-nhang-terms"><mark className="highlight-tertiary-padding-4-8">Tính nhẹ nhàng</mark></HashLink></h4>
       
-      <h1 className="margin-y-50 text-center">TENderly
+      <h1 className="margin-y-50 text-center">tenderly
         <sup><Link to="/vocabulary/tenderly-1">&nbsp;1&nbsp;</Link>
         </sup>
         <sup><Link to="/vocabulary/tenderly-2">&nbsp;2&nbsp;</Link>
@@ -26,20 +26,20 @@ export default function Tenderly1(): React.JSX.Element {
 
       {/* This is the content of Vocabulary Term. */}
       
-      <p>Tuyệt vời! Chúng ta cùng khám phá từ "<strong>TENderly</strong>" nhé.</p>
+      <p>Tuyệt vời! Chúng ta cùng khám phá từ "<strong>tenderly</strong>" nhé.</p>
 
       <div className="text-border1 padding-top-20 padding-bottom-10 highlight-238-padding-4-8 bee-container">
 
         <div>
 
-          <p className="margin-bottom-20"><strong>TENderly</strong></p>
+          <p className="margin-bottom-20"><strong>tenderly</strong></p>
 
           <ul className="list-square padding-left-40">
 
             <li>
               <span className="highlight-255-padding-3-6">
-                /ˈten.dər.li/ + /<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">TENde̛rly</Link>/
-                <sup>&nbsp;⬤•• (3x)</sup>
+                [TENderly: TEN-der-ly] /ˈten.dər.li/ + /<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">tende̛rly</Link>/
+                &nbsp;⬤•• (3x)
               </span>
             </li>
 
@@ -57,7 +57,7 @@ export default function Tenderly1(): React.JSX.Element {
 
       </div>
 
-      <p className="margin-top-30 text-indent-whole">Từ "<strong>TENderly</strong>" miêu tả một hành động hoặc lời nói được thực hiện một cách dịu dàng, trìu mến, thể hiện sự quan tâm, yêu thương và lòng trắc ẩn.
+      <p className="margin-top-30 text-indent-whole">Từ "<strong>tenderly</strong>" miêu tả một hành động hoặc lời nói được thực hiện một cách dịu dàng, trìu mến, thể hiện sự quan tâm, yêu thương và lòng trắc ẩn.
 
 </p>
 

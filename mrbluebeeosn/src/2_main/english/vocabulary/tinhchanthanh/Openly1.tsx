@@ -17,7 +17,7 @@ export default function Openly1(): React.JSX.Element {
     
       <h4><HashLink smooth to="/vocabulary#tinh-chan-thanh-terms"><mark className="highlight-tertiary-padding-4-8">Tính chân thành</mark></HashLink></h4>
       
-      <h1 className="margin-y-50 text-center">Openly
+      <h1 className="margin-y-50 text-center">openly
         <sup><Link to="/vocabulary/openly-1">&nbsp;1&nbsp;</Link>
         </sup>
         <sup><Link to="/vocabulary/openly-2">&nbsp;2&nbsp;</Link>
@@ -26,20 +26,20 @@ export default function Openly1(): React.JSX.Element {
 
       {/* This is the content of Vocabulary Term. */}
       
-      <p>Tuyệt vời! Chúng ta cùng khám phá từ "<strong>Openly</strong>" nhé.</p>
+      <p>Tuyệt vời! Chúng ta cùng khám phá từ "<strong>openly</strong>" nhé.</p>
 
       <div className="text-border1 padding-top-20 padding-bottom-10 highlight-238-padding-4-8 bee-container">
 
         <div>
 
-          <p className="margin-bottom-20"><strong>Openly</strong></p>
+          <p className="margin-bottom-20"><strong>openly</strong></p>
 
           <ul className="list-square padding-left-40">
 
             <li>
               <span className="highlight-255-padding-3-6">
-                /ˈoʊpənli/ + /<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">Ōpe̛nly</Link>/
-                <sup>&nbsp;⬤•• (3x)</sup>
+                [Openly: O-pen-ly] /ˈoʊpənli/ + /<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">ōpe̛nly</Link>/
+                &nbsp;⬤•• (3x)
               </span>
             </li>
 
@@ -57,7 +57,7 @@ export default function Openly1(): React.JSX.Element {
 
       </div>
 
-      <p className="margin-top-30 text-indent-whole">Từ "<strong>Openly</strong>" được dùng để miêu tả một hành động được thực hiện một cách công khai, không che giấu, không kín đáo. Nó thể hiện sự thẳng thắn, rõ ràng và không có ý định giấu diếm.</p>
+      <p className="margin-top-30 text-indent-whole">Từ "<strong>openly</strong>" được dùng để miêu tả một hành động được thực hiện một cách công khai, không che giấu, không kín đáo. Nó thể hiện sự thẳng thắn, rõ ràng và không có ý định giấu diếm.</p>
 
       <p className="text-indent-whole">Ví dụ:</p>
 

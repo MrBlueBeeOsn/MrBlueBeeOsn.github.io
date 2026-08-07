@@ -110,15 +110,15 @@ export default function VocabularyIndex(): React.JSX.Element {
 					<ul className="list-border1">
 
 						<li>
-							<Link to="/vocabulary/clear">[CLEAR]</Link>
+							<Link to="/vocabulary/clear">[clear]</Link>
 						</li>
 
 						<li>
-							<Link to="/vocabulary/respond">[reSPOND]</Link> 	
+							<Link to="/vocabulary/respond">[respond]</Link> 	
 						</li>
 
 						<li>
-							<Link to="/vocabulary/create">[creATE]</Link> 	
+							<Link to="/vocabulary/create">[create]</Link> 	
 						</li>
 
 						
@@ -145,15 +145,15 @@ export default function VocabularyIndex(): React.JSX.Element {
 					<ul className="list-border1">
 
 						<li>
-							<Link to="/vocabulary/beautiful">BEAUtiful</Link> 	
+							<Link to="/vocabulary/beautiful">beautiful</Link> 	
 						</li>
 
 						<li>
-							<Link to="/vocabulary/attractive">atTRACtive</Link> 	
+							<Link to="/vocabulary/attractive">attractive</Link> 	
 						</li>
 
 						<li>
-							<Link to="/vocabulary/grateful">GRATEful</Link> 	
+							<Link to="/vocabulary/grateful">grateful</Link> 	
 						</li>
 						
 
@@ -1187,7 +1187,7 @@ export default function VocabularyIndex(): React.JSX.Element {
 					<ul className="list-border1">
 
 						<li>
-							<Link to="/vocabulary/sincerely-1">sinCEREly
+							<Link to="/vocabulary/sincerely-1">sincerely
 								<sup>&nbsp;1&nbsp;</sup>
 									</Link> 
 									<Link to="/vocabulary/sincerely-2">
@@ -1196,7 +1196,7 @@ export default function VocabularyIndex(): React.JSX.Element {
 						</li>
 
 						<li>
-							<Link to="/vocabulary/honestly-1">HONestly
+							<Link to="/vocabulary/honestly-1">honestly
 								<sup>&nbsp;1&nbsp;</sup>
 									</Link> 
 									<Link to="/vocabulary/honestly-2">
@@ -1205,7 +1205,7 @@ export default function VocabularyIndex(): React.JSX.Element {
 						</li>
 
 						<li>
-							<Link to="/vocabulary/faithfully-1">FAITHfully
+							<Link to="/vocabulary/faithfully-1">faithfully
 								<sup>&nbsp;1&nbsp;</sup>
 									</Link> 
 									<Link to="/vocabulary/faithfully-2">
@@ -1214,7 +1214,7 @@ export default function VocabularyIndex(): React.JSX.Element {
 						</li>
 
 						<li>
-							<Link to="/vocabulary/openly-1">Openly
+							<Link to="/vocabulary/openly-1">openly
 								<sup>&nbsp;1&nbsp;</sup>
 									</Link> 
 									<Link to="/vocabulary/openly-2">
@@ -1237,7 +1237,7 @@ export default function VocabularyIndex(): React.JSX.Element {
 					<ul className="list-border1">
 
 						<li>
-							<Link to="/vocabulary/gently-1">GENTly
+							<Link to="/vocabulary/gently-1">gently
 								<sup>&nbsp;1&nbsp;</sup>
 									</Link> 
 									<Link to="/vocabulary/gently-2">
@@ -1246,7 +1246,7 @@ export default function VocabularyIndex(): React.JSX.Element {
 						</li>
 
 						<li>
-							<Link to="/vocabulary/softly-1">SOFTly
+							<Link to="/vocabulary/softly-1">softly
 								<sup>&nbsp;1&nbsp;</sup>
 									</Link> 
 									<Link to="/vocabulary/softly-2">
@@ -1255,7 +1255,7 @@ export default function VocabularyIndex(): React.JSX.Element {
 						</li>
 
 						<li>
-							<Link to="/vocabulary/tenderly-1">TENderly
+							<Link to="/vocabulary/tenderly-1">tenderly
 								<sup>&nbsp;1&nbsp;</sup>
 									</Link> 
 									<Link to="/vocabulary/tenderly-2">
@@ -1264,7 +1264,7 @@ export default function VocabularyIndex(): React.JSX.Element {
 						</li>
 
 						<li>
-							<Link to="/vocabulary/delicately-1">DELicately
+							<Link to="/vocabulary/delicately-1">delicately
 								<sup>&nbsp;1&nbsp;</sup>
 									</Link> 
 									<Link to="/vocabulary/delicately-2">
