@@ -38,8 +38,8 @@ export default function Obviously1(): React.JSX.Element {
 
             <li>
               <span className="highlight-255-padding-3-6">
-                /ˈɒbviəsli/ + /<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">Obviơusly</Link>/
-                <sup>&nbsp;⬤••• (4x)</sup>
+                [OBviously: OB-vi-ous-ly] /ˈɒbviəsli/ + /<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">obviơusly</Link>/
+                &nbsp;⬤••• (4x)
               </span>
             </li>
 

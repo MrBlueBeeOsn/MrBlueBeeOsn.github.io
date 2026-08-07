@@ -40,11 +40,11 @@ export default function Actually2(): React.JSX.Element {
 						
 						<span className="highlight-255-padding-3-6">
 							
-							/ˈækʃuəli/ + /
+							[ACtually: AC-tu-al-ly] /ˈækʃuəli/ + /
 							
 							<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">actua̛lly</Link>/ 
 							
-							<sup>&nbsp;⬤•• (3x)</sup>
+							&nbsp;⬤••• (4x)
 							
 						</span>
 							

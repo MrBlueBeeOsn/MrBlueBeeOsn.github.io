@@ -40,11 +40,11 @@ export default function Very2(): React.JSX.Element {
             
             <span className="highlight-255-padding-3-6">
               
-              /ˈveri/ + /
+              [VEry: VER-y] /ˈveri/ + /
               
               <Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">very</Link>/ 
               
-              <sup>&nbsp;⬤• (2x)</sup>
+              &nbsp;⬤• (2x)
               
             </span>
               

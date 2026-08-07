@@ -38,8 +38,8 @@ export default function Probably1(): React.JSX.Element {
 
             <li>
               <span className="highlight-255-padding-3-6">
-                /ˈprɒbəbli/ + /<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">proba̛bly</Link>/
-                <sup>&nbsp;⬤•• (3x)</sup>
+                [PROBably: PROB-a-bly] /ˈprɒbəbli/ + /<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">proba̛bly</Link>/
+                &nbsp;⬤•• (3x)
               </span>
             </li>
 

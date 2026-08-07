@@ -40,11 +40,11 @@ export default function Positively2(): React.JSX.Element {
             
             <span className="highlight-255-padding-3-6">
               
-              /ˈpɒz.ə.tɪv.li/ + /
+              [POSitively: POS-i-tive-ly] /ˈpɒz.ə.tɪv.li/ + /
               
               <Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">posi̛tively</Link>/ 
               
-              <sup>&nbsp;⬤••• (4x)</sup>
+              &nbsp;⬤••• (4x)
               
             </span>
               

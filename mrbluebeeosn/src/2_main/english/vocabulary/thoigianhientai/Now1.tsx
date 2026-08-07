@@ -38,8 +38,8 @@ export default function Now1(): React.JSX.Element {
 
             <li>
               <span className="highlight-255-padding-3-6">
-                /naʊ/ + /<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">now</Link>/
-                <sup>&nbsp;⬤ (1x)</sup>
+                [NOW: NOW] /naʊ/ + /<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">now</Link>/
+                &nbsp;⬤ (1x)
               </span>
             </li>
 

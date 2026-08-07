@@ -40,11 +40,11 @@ export default function Correctly2(): React.JSX.Element {
             
             <span className="highlight-255-padding-3-6">
               
-              /kəˈrektli/ + /
+               [corRECTly: cor-RECT-ly] /kəˈrektli/ + /
               
               <Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">cơrrectly</Link>/
               
-              <sup>&nbsp;•⬤• (3x)</sup>
+              &nbsp;•⬤• (3x)
               
             </span>
               

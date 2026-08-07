@@ -40,11 +40,11 @@ export default function Attentively2(): React.JSX.Element {
             
             <span className="highlight-255-padding-3-6">
               
-              /əˈten.tɪv.li/ + /
+              [atTENtively: at-TEN-tive-ly] /əˈten.tɪv.li/ + /
               
               <Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">a̛ttentively</Link>/ 
               
-              <sup>&nbsp;•⬤•• (4x)</sup>
+              &nbsp;•⬤•• (4x)
               
             </span>
               

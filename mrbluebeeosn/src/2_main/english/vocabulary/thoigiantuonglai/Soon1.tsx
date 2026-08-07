@@ -38,8 +38,8 @@ export default function Soon1(): React.JSX.Element {
 
             <li>
               <span className="highlight-255-padding-3-6">
-                /suːn/ + /<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">so͞on</Link>/
-                <sup>&nbsp;⬤ (1x)</sup>
+                [SOON: SOON] /suːn/ + /<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">so͞on</Link>/
+                &nbsp;⬤ (1x)
               </span>
             </li>
 

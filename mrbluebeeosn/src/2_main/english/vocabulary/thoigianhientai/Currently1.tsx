@@ -38,8 +38,8 @@ export default function Currently1(): React.JSX.Element {
 
             <li>
               <span className="highlight-255-padding-3-6">
-                /ˈkʌrəntli/ + /<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">cûrre̛ntly</Link>/
-                <sup>&nbsp;⬤•• (3x)</sup>
+                [CURrently: CUR-rent-ly] /ˈkʌrəntli/ + /<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">cûrre̛ntly</Link>/
+                &nbsp;⬤•• (3x)
               </span>
             </li>
 

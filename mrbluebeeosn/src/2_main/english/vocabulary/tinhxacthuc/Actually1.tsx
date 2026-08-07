@@ -38,8 +38,8 @@ export default function Actually1(): React.JSX.Element {
 
             <li>
               <span className="highlight-255-padding-3-6">
-                /ˈækʧuəli/ + /<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">actua̛lly</Link>/
-                <sup>&nbsp;⬤•• (3x)</sup>
+                [ACtually: AC-tu-al-ly] /ˈækʧuəli/ + /<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">actua̛lly</Link>/
+                &nbsp;⬤••• (4x)
               </span>
             </li>
 

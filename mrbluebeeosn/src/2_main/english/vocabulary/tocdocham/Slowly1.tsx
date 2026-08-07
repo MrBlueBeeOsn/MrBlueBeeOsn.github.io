@@ -38,8 +38,8 @@ export default function Slowly1(): React.JSX.Element {
 
             <li>
               <span className="highlight-255-padding-3-6">
-                /ˈsləʊli/ + /<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">slōwly</Link>/
-                <sup>&nbsp;⬤• (2x)</sup>
+                [SLOWly: SLOW-ly] /ˈsləʊli/ + /<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">slōwly</Link>/
+                &nbsp;⬤• (2x)
               </span>
             </li>
 

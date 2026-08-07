@@ -40,11 +40,11 @@ export default function Possibly2(): React.JSX.Element {
             
             <span className="highlight-255-padding-3-6">
               
-              /ˈpɒsəbli/+ /
+              [POSsibly: POS-si-bly] /ˈpɒsəbli/+ /
               
               <Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">possi̛bly</Link>/ 
               
-              <sup>&nbsp;⬤•• (3x)</sup>
+              &nbsp;⬤•• (3x)
               
             </span>
               

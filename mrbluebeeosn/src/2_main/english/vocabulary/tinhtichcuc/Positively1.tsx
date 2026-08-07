@@ -38,8 +38,8 @@ export default function Positively1(): React.JSX.Element {
 
             <li>
               <span className="highlight-255-padding-3-6">
-                /ˈpɒz.ə.tɪv.li/ + /<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">posi̛tively</Link>/
-                <sup>&nbsp;⬤••• (4x)</sup>
+                [POSitively: POS-i-tive-ly] /ˈpɒz.ə.tɪv.li/ + /<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">posi̛tively</Link>/
+                &nbsp;⬤••• (4x)
               </span>
             </li>
 

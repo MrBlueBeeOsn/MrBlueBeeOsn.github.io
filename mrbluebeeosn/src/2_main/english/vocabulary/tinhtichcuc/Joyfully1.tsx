@@ -38,8 +38,8 @@ export default function Joyfully1(): React.JSX.Element {
 
             <li>
               <span className="highlight-255-padding-3-6">
-                /ˈdʒɔɪfəli/ + /<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">joyfưlly</Link>/
-                <sup>&nbsp;⬤•• (3x)</sup>
+                [JOYfully: JOY-ful-ly] /ˈdʒɔɪfəli/ + /<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">joyfưlly</Link>/
+                &nbsp;⬤•• (3x)
               </span>
             </li>
 

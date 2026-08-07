@@ -40,11 +40,11 @@ export default function Maybe2(): React.JSX.Element {
             
             <span className="highlight-255-padding-3-6">
               
-              /ˈmeɪ.bi/ + /
+              [MAYbe: MAY-be] /ˈmeɪ.bi/ + /
               
               <Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">māybē</Link>/ 
               
-              <sup>&nbsp;⬤• (2x)</sup>
+              &nbsp;⬤• (2x)
               
             </span>
               

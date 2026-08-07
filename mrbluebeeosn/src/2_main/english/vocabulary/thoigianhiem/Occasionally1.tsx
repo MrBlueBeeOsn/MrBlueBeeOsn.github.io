@@ -38,8 +38,8 @@ export default function Occasionally1(): React.JSX.Element {
 
             <li>
               <span className="highlight-255-padding-3-6">
-                /əˈkeɪʒənəli/ + /<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">ơccāsiơna̛lly</Link>/
-                <sup>&nbsp;•⬤••• (5x)</sup>
+                [ocCAsionally: oc-CA-sion-al-ly] /əˈkeɪʒənəli/ + /<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">ơccāsiơna̛lly</Link>/
+                &nbsp;•⬤••• (5x)
               </span>
             </li>
 

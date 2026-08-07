@@ -40,11 +40,11 @@ export default function Rapidly2(): React.JSX.Element {
             
             <span className="highlight-255-padding-3-6">
               
-              /ˈræpɪdli/ + /
+              [RAPidly: RAP-id-ly] /ˈræpɪdli/ + /
               
               <Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">rapidly</Link>/ 
               
-              <sup>&nbsp;⬤•• (3x)</sup>
+              &nbsp;⬤•• (3x)
               
             </span>
               

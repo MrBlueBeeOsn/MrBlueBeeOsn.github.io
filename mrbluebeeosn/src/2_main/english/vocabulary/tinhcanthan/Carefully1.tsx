@@ -38,8 +38,8 @@ export default function Carefully1(): React.JSX.Element {
 
             <li>
               <span className="highlight-255-padding-3-6">
-                /ˈkerfəli/ + /<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">cā̄refưlly</Link>/
-                <sup>&nbsp;⬤•• (3x)</sup>
+                [CAREfully: CARE-ful-ly] /ˈkerfəli/ + /<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">cā̄refưlly</Link>/
+                &nbsp;⬤•• (3x)
               </span>
             </li>
 

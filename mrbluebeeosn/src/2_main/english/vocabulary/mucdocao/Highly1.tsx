@@ -38,8 +38,8 @@ export default function Highly1(): React.JSX.Element {
 
             <li>
               <span className="highlight-255-padding-3-6">
-                /ˈhaɪli/ + /<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">hīghly</Link>/
-                <sup>&nbsp;⬤• (2x)</sup>
+                [HIGHly: HIGH-ly] /ˈhaɪli/ + /<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">hīghly</Link>/
+                &nbsp;⬤• (2x)
               </span>
             </li>
 

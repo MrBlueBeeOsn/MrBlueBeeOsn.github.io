@@ -40,11 +40,11 @@ export default function Always2(): React.JSX.Element {
             
             <span className="highlight-255-padding-3-6">
               
-              /ˈɔːl.weɪz/ + /
+              [ALways: AL-ways] /ˈɔːl.weɪz/ + /
               
               <Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">ålwāys</Link>/ 
               
-              <sup>&nbsp;⬤• (2x)</sup>
+              &nbsp;⬤• (2x)
               
             </span>
               

@@ -40,11 +40,11 @@ export default function Highly2(): React.JSX.Element {
             
             <span className="highlight-255-padding-3-6">
               
-              /ˈhaɪli/ + /
+              [HIGHly: HIGH-ly] /ˈhaɪli/ + /
               
               <Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">hīghly</Link>/ 
               
-              <sup>&nbsp;⬤• (2x)</sup>
+              &nbsp;⬤• (2x)
               
             </span>
               

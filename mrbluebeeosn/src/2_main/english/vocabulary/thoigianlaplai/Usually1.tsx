@@ -38,8 +38,8 @@ export default function Usually1(): React.JSX.Element {
 
             <li>
               <span className="highlight-255-padding-3-6">
-                /ˈjuːʒuəli/ + /<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">ūsua̛lly</Link>/
-                <sup>&nbsp;⬤•• (3x)</sup>
+                [Usually: U-su-al-ly]  /ˈjuːʒuəli/ + /<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">ūsua̛lly</Link>/
+                &nbsp;⬤••• (4x)
               </span>
             </li>
 

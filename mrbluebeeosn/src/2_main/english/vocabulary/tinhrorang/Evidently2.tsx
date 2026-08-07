@@ -40,11 +40,11 @@ export default function Evidently2(): React.JSX.Element {
 						
 						<span className="highlight-255-padding-3-6">
 							
-							/ˈevɪdəntli/ + /
+							[EVidently: EV-i-dent-ly] /ˈevɪdəntli/ + /
 							
 							<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">Evide̛ntly</Link>/ 
 							
-							<sup>&nbsp;⬤••• (4x)</sup>
+							&nbsp;⬤••• (4x)
 							
 						</span>
 							

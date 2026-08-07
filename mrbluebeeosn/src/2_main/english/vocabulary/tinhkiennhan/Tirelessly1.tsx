@@ -38,8 +38,8 @@ export default function Tirelessly1(): React.JSX.Element {
 
             <li>
               <span className="highlight-255-padding-3-6">
-                /ˈtaɪrləsli/ + /<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">tīrele̛ssly</Link>/
-                <sup>&nbsp;⬤•• (3x)</sup>
+                [TIRElessly: TIRE-less-ly] /ˈtaɪrləsli/ + /<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">tīrele̛ssly</Link>/
+                &nbsp;⬤•• (3x)
               </span>
             </li>
 

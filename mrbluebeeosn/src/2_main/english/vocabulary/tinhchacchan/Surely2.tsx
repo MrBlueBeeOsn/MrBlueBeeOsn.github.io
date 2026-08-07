@@ -42,11 +42,11 @@ export default function Surely2(): React.JSX.Element {
             
             <span className="highlight-255-padding-3-6">
               
-              /ˈʃʊrli/ + /
+              [SUREly: SURE-ly] /ˈʃʊrli/ + /
               
               <Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">surely</Link>/ 
               
-              <sup>&nbsp;⬤• (2x)</sup>
+              &nbsp;⬤• (2x)
               
             </span>
               

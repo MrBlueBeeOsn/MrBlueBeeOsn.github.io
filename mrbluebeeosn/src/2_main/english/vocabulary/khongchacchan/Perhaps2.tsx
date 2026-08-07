@@ -40,11 +40,11 @@ export default function Perhaps2(): React.JSX.Element {
             
             <span className="highlight-255-padding-3-6">
               
-              /pəˈhæps/ + /
+              [perHAPS: per-HAPS] /pəˈhæps/ + /
               
               <Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">pe̛rhaps</Link>/ 
               
-              <sup>&nbsp;•⬤ (2x)</sup>
+              &nbsp;•⬤ (2x)
               
             </span>
               

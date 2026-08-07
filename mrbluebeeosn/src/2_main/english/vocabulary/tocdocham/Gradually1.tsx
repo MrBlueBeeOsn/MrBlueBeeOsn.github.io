@@ -38,8 +38,8 @@ export default function Gradually1(): React.JSX.Element {
 
             <li>
               <span className="highlight-255-padding-3-6">
-                /ˈɡrædʒuəli/ + /<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">gradua̛lly</Link>/
-                <sup>&nbsp;⬤••• (4x)</sup>
+                 [GRADually: GRAD-u-al-ly] /ˈɡrædʒuəli/ + /<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">gradua̛lly</Link>/
+                &nbsp;⬤••• (4x)
               </span>
             </li>
 

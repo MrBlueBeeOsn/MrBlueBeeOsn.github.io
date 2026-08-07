@@ -40,11 +40,11 @@ export default function So2(): React.JSX.Element {
             
             <span className="highlight-255-padding-3-6">
               
-              /soʊ/ + /
+              [SO: SO] /soʊ/ + /
               
               <Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">sō</Link>/ 
               
-              <sup>&nbsp;⬤ (1x)</sup>
+              &nbsp;⬤ (1x)
               
             </span>
               

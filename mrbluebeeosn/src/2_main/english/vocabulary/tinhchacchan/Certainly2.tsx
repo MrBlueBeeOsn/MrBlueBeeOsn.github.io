@@ -40,11 +40,11 @@ export default function Certainly2(): React.JSX.Element {
             
             <span className="highlight-255-padding-3-6">
               
-              /ˈsɜːrtnli/ + /
+              [CERtainly: CER-tain-ly] /ˈsɜːrtnli/ + /
               
               <Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">ce̛rta̛inly</Link>/ 
               
-              <sup>&nbsp;/ˈsɜːrtnli/ ⬤•• (3x)</sup>
+              &nbsp;⬤•• (3x)
               
             </span>
               

@@ -38,8 +38,8 @@ export default function Truly1(): React.JSX.Element {
 
             <li>
               <span className="highlight-255-padding-3-6">
-                /ˈtruːli/ + /<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">trüly</Link>/
-                <sup>&nbsp;⬤• (2x)</sup>
+                [TRUly: TRU-ly] /ˈtruːli/ + /<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">trüly</Link>/
+                &nbsp;⬤• (2x)
               </span>
             </li>
 

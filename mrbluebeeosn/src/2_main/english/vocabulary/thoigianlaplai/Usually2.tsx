@@ -40,11 +40,11 @@ export default function Usually2(): React.JSX.Element {
             
             <span className="highlight-255-padding-3-6">
               
-              /ˈjuːʒuəli/ + /
+              [Usually: U-su-al-ly] /ˈjuːʒuəli/ + /
               
               <Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">ūsua̛lly</Link>/ 
               
-              <sup>&nbsp;⬤•• (3x)</sup>
+              &nbsp;⬤••• (4x)
               
             </span>
               

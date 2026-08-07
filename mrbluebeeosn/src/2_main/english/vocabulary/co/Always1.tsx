@@ -38,8 +38,8 @@ export default function Always1(): React.JSX.Element {
 
             <li>
               <span className="highlight-255-padding-3-6">
-                /ˈɔːl.weɪz/ + /<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">ålwāys</Link>/
-                <sup>&nbsp;⬤• (2x)</sup>
+                [ALways: AL-ways] /ˈɔːl.weɪz/ + /<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">ålwāys</Link>/
+                &nbsp;⬤• (2x)
               </span>
             </li>
 

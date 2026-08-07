@@ -38,8 +38,8 @@ export default function Yes1(): React.JSX.Element {
 
             <li>
               <span className="highlight-255-padding-3-6">
-                /jɛs/ + /<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">yes</Link>/
-                <sup>&nbsp;⬤ (1x)</sup>
+                [YES: YES] /jɛs/ + /<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">yes</Link>/
+                &nbsp;⬤ (1x)
               </span>
             </li>
 

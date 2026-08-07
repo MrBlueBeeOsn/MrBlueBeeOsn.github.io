@@ -38,8 +38,8 @@ export default function Absolutely1(): React.JSX.Element {
 
             <li>
               <span className="highlight-255-padding-3-6">
-                /ˌæbsə'luːtli/ + /<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">absơlütely</Link>/
-                <sup>&nbsp;••⬤• (4x)</sup>
+                [ABsolutely: AB-so-lute-ly] /ˈæbsəluːtli/ + /<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">absơlütely</Link>/
+                &nbsp;⬤••• (4x)
               </span>
             </li>
 

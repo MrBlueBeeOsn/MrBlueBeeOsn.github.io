@@ -40,11 +40,11 @@ export default function Meticulously2(): React.JSX.Element {
             
             <span className="highlight-255-padding-3-6">
               
-              /məˈtɪkjələsli/ + /
+              [meTIculously: me-TI-cu-lous-ly] /məˈtɪkjələsli/ + /
               
               <Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">me̛ticư̇lơusly</Link>/ 
               
-              <sup>&nbsp;•⬤••• (5x)</sup>
+              &nbsp;•⬤••• (5x)
               
             </span>
               

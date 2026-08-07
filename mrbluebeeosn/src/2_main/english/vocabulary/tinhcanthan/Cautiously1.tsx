@@ -38,8 +38,8 @@ export default function Cautiously1(): React.JSX.Element {
 
             <li>
               <span className="highlight-255-padding-3-6">
-                /ˈkɔː.ʃəs.li/ + /<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">cā̄utiơusly</Link>/
-                <sup>&nbsp;⬤•• (3x)</sup>
+                [CAUtiously: CAU-tious-ly] /ˈkɔː.ʃəs.li/ + /<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">cā̄utiơusly</Link>/
+                &nbsp;⬤•• (3x)
               </span>
             </li>
 

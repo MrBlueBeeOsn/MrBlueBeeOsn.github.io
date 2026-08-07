@@ -40,11 +40,11 @@ export default function Today2(): React.JSX.Element {
             
             <span className="highlight-255-padding-3-6">
               
-              /təˈdeɪ/ + /
+              [toDAY: to-DAY] /təˈdeɪ/ + /
               
               <Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">tơdāy</Link>/ 
               
-              <sup>&nbsp;•⬤ (2x)</sup>
+              &nbsp;•⬤ (2x)
               
             </span>
               

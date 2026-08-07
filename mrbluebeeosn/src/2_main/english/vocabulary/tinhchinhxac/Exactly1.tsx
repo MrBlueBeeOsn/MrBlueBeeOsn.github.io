@@ -38,8 +38,8 @@ export default function Exactly1(): React.JSX.Element {
 
             <li>
               <span className="highlight-255-padding-3-6">
-                /ɪɡˈzæktli/ + /<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">ėxactly</Link>/
-                <sup>&nbsp;•⬤• (3x)</sup>
+                [exACTly: ex-ACT-ly] /ɪɡˈzæktli/ + /<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">ėxactly</Link>/
+                &nbsp;•⬤• (3x)
               </span>
             </li>
 

@@ -38,8 +38,8 @@ export default function Sometimes1(): React.JSX.Element {
 
             <li>
               <span className="highlight-255-padding-3-6">
-                /ˈsʌmtaɪmz/ + /<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">sômetīmes</Link>/
-                <sup>&nbsp;⬤• (2x)</sup>
+                [SOMEtimes: SOME-times] /ˈsʌmtaɪmz/ + /<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">sômetīmes</Link>/
+                &nbsp;⬤• (2x)
               </span>
             </li>
 

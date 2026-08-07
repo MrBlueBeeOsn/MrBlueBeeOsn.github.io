@@ -40,11 +40,11 @@ export default function Diligently2(): React.JSX.Element {
             
             <span className="highlight-255-padding-3-6">
               
-              /ˈdɪl.ə.dʒənt.li/ + /
+              [DILigently: DIL-i-gent-ly] /ˈdɪl.ə.dʒənt.li/ + /
               
               <Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">dili̛ge̛ntly</Link>/
               
-              <sup>&nbsp;⬤••• (4x)</sup>
+              &nbsp;⬤••• (4x)
               
               </span>
 

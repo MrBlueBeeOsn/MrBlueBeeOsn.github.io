@@ -40,11 +40,11 @@ export default function Sometimes2(): React.JSX.Element {
             
             <span className="highlight-255-padding-3-6">
               
-              /ˈsʌmtaɪmz/ + /
+              [SOMEtimes: SOME-times] /ˈsʌmtaɪmz/ + /
               
               <Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">sômetīmes</Link>/ 
               
-              <sup>&nbsp;/ˈsʌmtaɪmz/ ⬤• (2x)</sup>
+              &nbsp;⬤• (2x)
               
             </span>
               

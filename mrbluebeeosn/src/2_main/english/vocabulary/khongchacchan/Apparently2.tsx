@@ -40,11 +40,11 @@ export default function Apparently2(): React.JSX.Element {
             
             <span className="highlight-255-padding-3-6">
               
-              /əˈpærəntli/ + /
+              [apPArently: ap-PAR-ent-ly] /əˈpærəntli/ + /
               
               <Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">appare̛ntly</Link>/ 
               
-              <sup>&nbsp;•⬤•• (4x)</sup>
+              &nbsp;•⬤•• (4x)
               
             </span>
               

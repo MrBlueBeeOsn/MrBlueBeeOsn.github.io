@@ -38,8 +38,8 @@ export default function Particularly1(): React.JSX.Element {
 
             <li>
               <span className="highlight-255-padding-3-6">
-                /pəˈtɪkjələrli/ + /<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">pa̛rticư̇la̛rly</Link>/
-                <sup>&nbsp;•⬤••• (5x)</sup>
+                [parTIcularly: par-TIC-u-lar-ly] /pəˈtɪkjələrli/ + /<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">pa̛rticư̇la̛rly</Link>/
+                &nbsp;•⬤••• (5x)
               </span>
             </li>
 

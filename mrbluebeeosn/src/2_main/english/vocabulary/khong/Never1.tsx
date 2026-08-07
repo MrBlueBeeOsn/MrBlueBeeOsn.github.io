@@ -38,8 +38,8 @@ export default function Never1(): React.JSX.Element {
 
             <li>
               <span className="highlight-255-padding-3-6">
-                /ˈnevər/ + /<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">neve̛r</Link>/
-                <sup>&nbsp;⬤• (2x)</sup>
+                [NEver: NEv-er] /ˈnevər/ + /<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">neve̛r</Link>/
+                &nbsp;⬤• (2x)
               </span>
             </li>
 

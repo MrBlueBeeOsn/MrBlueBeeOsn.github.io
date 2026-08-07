@@ -40,11 +40,11 @@ export default function Really2(): React.JSX.Element {
             
             <span className="highlight-255-padding-3-6">
               
-              /ˈriːəli/ + /
+              [REALly: REAL-ly] /ˈriːəli/ + /
               
               <Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">rėa̛lly</Link>/ 
               
-              <sup>&nbsp;⬤• (2x)</sup>
+              &nbsp;⬤• (2x)
               
             </span>
               

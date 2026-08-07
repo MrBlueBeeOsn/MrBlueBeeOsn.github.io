@@ -40,11 +40,11 @@ export default function Not2(): React.JSX.Element {
             
             <span className="highlight-255-padding-3-6">
               
-              /nɒt/ + /
+              [NOT: NOT] /nɒt/ + /
               
               <Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">not</Link>/ 
               
-              <sup>&nbsp;⬤ (1x)</sup>
+              &nbsp;⬤ (1x)
               
             </span>
               

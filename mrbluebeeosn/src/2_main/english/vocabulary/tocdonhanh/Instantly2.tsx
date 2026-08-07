@@ -40,11 +40,11 @@ export default function Instantly2(): React.JSX.Element {
             
             <span className="highlight-255-padding-3-6">
               
-              /ˈɪnstəntli/ + /
+              [INstantly: IN-stant-ly] /ˈɪnstəntli/ + /
               
               <Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">insta̛ntly</Link>/ 
               
-              <sup>&nbsp;⬤•• (3x)</sup>
+              &nbsp;⬤•• (3x)
               
             </span>
               

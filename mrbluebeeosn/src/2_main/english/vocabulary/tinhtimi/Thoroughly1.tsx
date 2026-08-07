@@ -38,8 +38,8 @@ export default function Thoroughly1(): React.JSX.Element {
               
             <li>
               <span className="highlight-255-padding-3-6">
-                /ˈθʌrəli/ + /<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">thôrơughly</Link>/
-                <sup>&nbsp;⬤•• (3x)</sup>
+                [THOroughly: THO-rough-ly] /ˈθʌrəli/ + /<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">thôrơughly</Link>/
+                &nbsp;⬤•• (3x)
               </span>
             </li>
             

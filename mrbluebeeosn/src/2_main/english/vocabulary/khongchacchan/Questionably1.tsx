@@ -38,8 +38,8 @@ export default function Questionably1(): React.JSX.Element {
 
             <li>
               <span className="highlight-255-padding-3-6">
-                /ˈkwɛstʃənəbli/ + /<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">questiơna̛bly</Link>/
-                <sup>&nbsp;⬤••• (4x)</sup>
+                [QUEStionably: QUES-tion-a-bly] /ˈkwɛstʃənəbli/ + /<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">questiơna̛bly</Link>/
+                &nbsp;⬤••• (4x)
               </span>
             </li>
 

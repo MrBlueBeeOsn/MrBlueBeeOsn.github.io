@@ -40,11 +40,11 @@ export default function Suddenly2(): React.JSX.Element {
             
             <span className="highlight-255-padding-3-6">
               
-              /ˈsʌdənli/ + /
+              [SUDdenly: SUD-den-ly] /ˈsʌdənli/ + /
               
               <Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">sûdde̛nly</Link>/ 
               
-              <sup>&nbsp;⬤•• (3x)</sup>
+              &nbsp;⬤•• (3x)
               
             </span>
               

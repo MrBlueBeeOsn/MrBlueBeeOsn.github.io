@@ -40,11 +40,11 @@ export default function Particularly2(): React.JSX.Element {
             
             <span className="highlight-255-padding-3-6">
               
-              /pəˈtɪkjələrli/ + /
+              [parTIcularly: par-TIC-u-lar-ly] /pəˈtɪkjələrli/ + /
               
               <Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">pa̛rticư̇la̛rly</Link>/ 
               
-              <sup>&nbsp;•⬤••• (5x)</sup>
+              &nbsp;•⬤••• (5x)
               
             </span>
               

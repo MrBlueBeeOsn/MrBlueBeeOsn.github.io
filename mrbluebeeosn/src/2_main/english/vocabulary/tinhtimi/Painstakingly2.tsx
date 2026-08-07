@@ -40,11 +40,11 @@ export default function Painstakingly2(): React.JSX.Element {
             
             <span className="highlight-255-padding-3-6">
               
-              /ˈpeɪnzˌteɪ.kɪŋ.li/ + /
+               [PAINStakingly: PAINS-tak-ing-ly] /ˈpeɪnzˌteɪ.kɪŋ.li/ + /
               
               <Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">pāinstākingly</Link>/
               
-              <sup>&nbsp;⬤••• (4x)</sup>
+              &nbsp;⬤••• (4x)
             
             </span>
             
