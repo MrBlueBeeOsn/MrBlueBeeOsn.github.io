@@ -42,7 +42,7 @@ export default function Beautiful(): React.JSX.Element {
 
           <ul className="list-square padding-left-40">
 
-            <li>IPA: /ˈbjuː.tɪ.fəl/</li>
+            <li>IPA: beautiful - [BEAUtiful: BEAU-ti-ful] /ˈbjuː.tɪ.fəl/</li>
             <li>Phonetic Breakdown: BYOO-tih-ful</li>
 
           </ul>
