@@ -276,15 +276,20 @@ export default function NineBox1(): React.JSX.Element {
 
 			<p className="text-indent-whole"><strong>QUY TẮC CỐT LÕI</strong>:</p>
 
-			<p className="text-indent-whole">"Khi bất kỳ họ [Cơ][Base] nào thuộc 16 trạng thái hình thái trên kéo theo các [Danh Nhận], [Trạng Cơ][Adverb Base], [Trạng Cụm][Adverb Phrase], hoặc [Trạng Câu][Adverb Clause] ở phía sau, toàn bộ khối thông tin đó sẽ lập tiếp chuyển đổi cấu trúc và được dán nhãn thành dạng [Cụm][Phrase] tương ứng của chính nó."</p>
+			<p className="text-indent-whole">"Khi bất kỳ họ [Cơ][Base] nào thuộc 16 trạng thái hình thái trên kéo theo các [Danh Nhận][Noun Object], [Trạng Cơ][Adverb Base], [Trạng Cụm][Adverb Phrase], hoặc [Trạng Câu][Adverb Clause] ở phía sau, toàn bộ khối thông tin đó sẽ lập tiếp chuyển đổi cấu trúc và được dán nhãn thành dạng [Cụm][Phrase] tương ứng của chính nó."</p>
 
 			<p className="text-indent-whole">Ví dụ chuyển đổi hình thái hạt nhân:</p>
+			
+				<ul className="list-square">
+			
+					<li>learning [Tiếp Động Cơ][Progressive Verb Base] + a new language [Danh Nhận][Noun Object]</li>
+					
+					<li>→ learning a new language [Tiếp Động Cụm][Progressive Verb Phrase].</li>
+			
+				</ul>
 
-			<p className="text-indent-whole">learning [Tiếp Động Cơ][Progressive Verb Base] + a new language [Danh Nhận][Noun Object] → learning a new language [Tiếp Động Cụm][Progressive Verb Phrase].</p>
 
-
-			<p className="text-indent-whole">Khi đứng vào cấu trúc câu lớn, các khối hình thái này sẽ vận hành các chức năng dữ liệu cụ thể:</p>
-
+			<p className="margin-top-20 text-indent-whole">Khi đứng vào cấu trúc câu lớn, các khối hình thái này sẽ vận hành các chức năng dữ liệu cụ thể:</p>
 
 			<p className="margin-top-20 text-indent-whole"><strong>Hình thành Chức năng</strong> [<strong>Danh Cụm</strong>][<strong>Noun Phrase</strong>] <strong>làm</strong> [<strong>Danh Chủ</strong>][<strong>Noun Subject</strong>]:</p>
 			
@@ -418,7 +423,7 @@ export default function NineBox1(): React.JSX.Element {
 			
 					<li className="list-none">Hình thái: [the firewall blocks the packet] – [Ẩn-Liên Động Câu][Zero-Connector Verb Clause] vắng bóng thành phần kết nối dẫn đường nhưng có đầy đủ kết cấu câu con xoay quanh [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "blocks".</li>
 			
-					<li className="list-none">Chức năng: [the firewall blocks the packet] – [Danh Câu][Noun Clause] đóng vai trò làm làm [Danh Nhận][Noun Object] dữ liệu trực tiếp đứng sau sự điều phối của hành động nghi ngờ.</li>
+					<li className="list-none">Chức năng: [the firewall blocks the packet] – [Danh Câu][Noun Clause] đóng vai trò làm [Danh Nhận][Noun Object] dữ liệu trực tiếp đứng sau sự điều phối của hành động nghi ngờ.</li>
 			
 				</ul>
 			
@@ -698,7 +703,7 @@ export default function NineBox1(): React.JSX.Element {
 					<li>The application syncs data [to eliminate data inconsistency].</li>
 					<li className="margin-bottom-20 list-none">Ứng dụng đồng bộ hóa dữ liệu [để loại bỏ việc dữ liệu không nhất quán].</li>
 			
-					<li className="list-none">Hình thái: [to eliminate data inconsistency] - [Hạt Thuần Động Cụm][Particle Bare Verb Phrase] hình thành từ sự kết hợp giữa hạt nhân [Hạt Động Cơ][Particle Verb Base] "to" và mở rộng hành động phía sau.</li>
+					<li className="list-none">Hình thái: [to eliminate data inconsistency] - [Hạt Thuần Động Cụm][Particle Bare Verb Phrase] hình thành từ sự kết hợp giữa hạt nhân [Hạt Thuần Động Cơ][Particle Bare Verb Base] "to eliminate" và mở rộng hành động phía sau.</li>
 			
 					<li className="list-none">Chức năng: [to eliminate data inconsistency] – [Trạng Cụm][Adverb Phrase] bổ nghĩa bối cảnh mục đích cho hành động đồng bộ hóa.</li>
 			

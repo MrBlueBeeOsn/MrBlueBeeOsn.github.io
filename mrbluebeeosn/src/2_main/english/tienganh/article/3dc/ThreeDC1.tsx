@@ -913,7 +913,7 @@ export default function ThreeDC1(): React.ReactElement {
 
 			<p>Tư duy tiếng Anh theo mô hình phân tầng khối là chìa khóa tối thượng để chuyển hóa từ trạng thái dịch cơ học sang phản xạ bản xứ tự nhiên. Việc làm chủ sự biến đổi linh hoạt giữa Hình thái và Chức năng của các mảnh ghép – đặc biệt là sự kết nối trong "[BỘ 3 PHỤ KHỐI]" – sẽ giúp bạn giải phóng hoàn toàn khả năng ngôn ngữ của mình.</p>
 
-			<p> Hãy rèn luyện thói quen quét cấu trúc dưới dạng các khối thông tin đa năng; bạn sẽ thấy việc viết những cấu trúc phức tạp, chặt chẽ hay việc paraphrasing nâng cao trở nên trực quan, chính xác và dễ dàng hơn bao giờ hết.</p>
+			<p>Hãy rèn luyện thói quen quét cấu trúc dưới dạng các khối thông tin đa năng; bạn sẽ thấy việc viết những cấu trúc phức tạp, chặt chẽ hay việc paraphrasing nâng cao trở nên trực quan, chính xác và dễ dàng hơn bao giờ hết.</p>
 			
 
 			<div className="viewcounter">
