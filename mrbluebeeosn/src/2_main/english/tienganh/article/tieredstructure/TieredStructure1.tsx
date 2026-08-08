@@ -564,7 +564,7 @@ export default function TieredStructure1(): React.JSX.Element {
 
 					<li className="list-none">Hình thái: [where you explore] - [Hiển-Liên Động Câu][Connector Verb Clause] đại diện cho khối mã chứa câu con hoàn chỉnh bắt đầu bằng [Liên Cơ][Connector Base] kết nối where, có chủ thể "you" và [Rễ Động Cơ][Root Verb Base] explore.</li>
 
-					<li className="list-none">Chức năng: [where you explore] - [Danh Câu][Noun Clause] trở thành Khối [Danh Nhận][Noun Object] chứa dữ liệu mục tiêu chịu tác động từ hệ thống lệnh ngoài.</li>
+					<li className="list-none">Chức năng: [where you explore] - [Danh Câu][Noun Clause] trở thành khối [Danh Nhận][Noun Object] chứa dữ liệu mục tiêu chịu tác động từ hệ thống lệnh ngoài.</li>
 			
 				</ul>
 			
@@ -668,7 +668,7 @@ export default function TieredStructure1(): React.JSX.Element {
 			
 					<li className="list-none">Hình thái: [Exploring options] - [Tiếp Động Cụm][Progressive Verb Phrase] biểu hiện dưới dạng khối mã mở rộng chứa [Tiếp Động Cơ][Progressive Verb Base] exploring và đối tượng đi kèm.</li>
 			
-					<li className="margin-bottom-20 list-none">Chức năng: [Exploring options] - [Danh Cụm][Noun Phrase] vận hành như một phân hệ nền tảng để quản lý một đầu việc (Khối [Danh Chủ][Noun Subject]).</li>
+					<li className="margin-bottom-20 list-none">Chức năng: [Exploring options] - [Danh Cụm][Noun Phrase] vận hành như một phân hệ nền tảng để quản lý một đầu việc (khối [Danh Chủ][Noun Subject]).</li>
 			
 				</ul>
 
