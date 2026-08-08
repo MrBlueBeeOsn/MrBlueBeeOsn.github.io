@@ -121,7 +121,7 @@ export default function SuperWords1(): React.JSX.Element {
           <li className="margin-bottom-20 list-none">Sự hợp nhất tuyến tính giữa hành động mang [Thời] gian và hành động mang tính [Tiếp] diễn.</li>
 
           <li value="15">[<strong>Thời Hoàn Động Cơ</strong>][<strong>Tense Perfect Verb Base</strong>]: has built, had designed</li>
-          <li className="margin-bottom-20 list-none">Sự hợp nhất tuyến tính giữa hành động mang [Thời] gian và hành động mang tính [Tiếp] diễn.</li>
+          <li className="margin-bottom-20 list-none">Sự hợp nhất tuyến tính giữa hành động mang [Thời] gian và hành động mang tính [Hoàn] thành.</li>
       
           <li value="16">[<strong>Thời Hoàn Tiếp Động Cơ</strong>][<strong>Tense Perfect Progressive Verb Base</strong>]: has been building, had been designing</li>
           <li className="list-none">Sự hợp nhất tuyến tính giữa ba lớp năng lượng [Thời] gian, [Hoàn] thành và [Tiếp] diễn.</li>
@@ -311,7 +311,7 @@ export default function SuperWords1(): React.JSX.Element {
 					<li>[Analyzing this data] is vital for the launch.</li>
 					<li className="margin-bottom-20 list-none">[Việc phân tích dữ liệu này] là tối quan trọng cho việc ra mắt.</li>
 			
-					<li className="list-none">Hình thái: [Analyzing this data] – [Tiếp Động Cụm][Progressive Verb Phrase] biểu thị khối hành động mở rộng bắt đầu bằng một dạng hành động thêm đuôi -ing kết hợp cùng đối tượng tác động phía sau để mô tả trọn vẹn một sự việc.</li>
+					<li className="list-none">Hình thái: [Analyzing this data] – [Tiếp Động Cụm][Progressive Verb Phrase] biểu thị khối hành động mở rộng bắt đầu bằng một dạng động cơ thêm đuôi -ing kết hợp cùng đối tượng tác động phía sau để mô tả trọn vẹn một sự việc.</li>
 			
 					<li className="list-none">Chức năng: [Analyzing this data] – [Danh Cụm][Noun Phrase] đang đứng vị trí đầu câu để đóng vai trò làm [Danh Chủ][Noun Subject] cho toàn câu lớn.</li>
 			
@@ -376,7 +376,7 @@ export default function SuperWords1(): React.JSX.Element {
 					<li>The presentation [about renewable energy] attracted investors.</li>
 					<li className="margin-bottom-20 list-none">Bài thuyết trình [về năng lượng tái tạo] đã thu hút các nhà đầu tư.</li>
 			
-					<li className="list-none">Hình thái: [about renewable energy] – [Giới Cụm][Prepositional Phrase] thể hiện một khối thông tin định vị thời gian bắt đầu bằng [Giới Cơ][Prepositional Base] "about".</li>
+					<li className="list-none">Hình thái: [about renewable energy] – [Giới Cụm][Prepositional Phrase] thể hiện một khối thông tin định vị chủ đề bắt đầu bằng [Giới Cơ][Prepositional Base] "about".</li>
 			
 					<li className="list-none">Chức năng: [about renewable energy] – [Tính Cụm][Adjective Phrase] đang đứng vị trí ngay sau một đối tượng để bổ nghĩa, mô tả tính chất và định danh riêng cho bài thuyết trình đó.</li>
 			
@@ -524,7 +524,7 @@ export default function SuperWords1(): React.JSX.Element {
 
 			<h4 className="margin-y-40">1. [Danh Cụm][Noun Phrase]</h4>
 
-			<p className="text-indent-whole"><strong>Kịch bản B</strong>: <strong>Làm</strong> [<strong>Danh Chủ</strong>][<strong>Noun Subject</strong>]:</p>
+			<p className="text-indent-whole"><strong>Kịch bản A</strong>: <strong>Làm</strong> [<strong>Danh Chủ</strong>][<strong>Noun Subject</strong>]:</p>
 			
 				<ul className="list-square">
 			
@@ -576,7 +576,7 @@ export default function SuperWords1(): React.JSX.Element {
 
 					<li>Hình thái: [through {'{what she discovered during research}'}] – [Tầng Giới Cụm][Tiered Prepositional Phrase] mở đầu bằng [Giới Cơ][Prepositional Base] phương thức "through", bên trong chứa một khối phụ {'{what she discovered during research}'} là [Hiển-Liên Động Câu][Connector Verb Clause] biểu thị một sự việc có thực tế diễn ra.</li>
 			
-					<li>Chức năng: [through {'{what she discovered during research}'}] – [<strong>Trạng Cụm</strong>][<strong>Adverb Phrase</strong>] tầng ngoài đứng vị trí sau để làm rõ phương thức bổ nghĩa cho hành động thích nghi của câu lớn; trong đó khối phụ {'{what she discovered during research}'} giữ chức năng làm [Danh Câu][Noun Clause] tầng trong đứng vị trí làm [Danh Nhận][Noun Object] tiếp nhận mối quan hệ phương tiện từ [Giới Cơ][Prepositional Base] "through".</li>
+					<li>Chức năng: Chức năng: [through {'{what she discovered during research}'}] – [<strong>Trạng Cụm</strong>][<strong>Adverb Phrase</strong>] tầng ngoài đứng vị trí sau để làm rõ phương thức bổ nghĩa cho hành động thích nghi của câu lớn; trong đó khối phụ {'{what she discovered during research}'} giữ chức năng làm [Danh Câu][Noun Clause] tầng trong đứng vị trí làm [Danh Nhận][Noun Object] tiếp nhận mối quan hệ phương tiện từ [Giới Cơ][Prepositional Base] "through".</li>
 			
 				</ul>
 		
