@@ -15,7 +15,7 @@ export default function Efficiently1(): React.JSX.Element {
 
     <article>
     
-      <h4><HashLink smooth to="/vocabulary#tinh-hieu-qua-terms"><mark className="highlight-tertiary-padding-4-8">Tính hiệu quả</mark></HashLink></h4>
+      <h4><HashLink smooth to="/vocabulary#tinh-hieu-qua-terms"><mark className="highlight-tertiary-padding-4-8">ADverbs: hiệu quả</mark></HashLink></h4>
       
       <h1 className="margin-y-50 text-center">efficiently
         <sup><Link to="/vocabulary/efficiently-1">&nbsp;1&nbsp;</Link>

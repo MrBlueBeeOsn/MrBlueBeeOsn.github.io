@@ -15,7 +15,7 @@ export default function Exactly1(): React.JSX.Element {
 
     <article>
     
-      <h4><HashLink smooth to="/vocabulary#tinh-chinh-xac-terms"><mark className="highlight-tertiary-padding-4-8">Tính chính xác</mark></HashLink></h4>
+      <h4><HashLink smooth to="/vocabulary#tinh-chinh-xac-terms"><mark className="highlight-tertiary-padding-4-8">ADverbs: chính xác</mark></HashLink></h4>
       
       <h1 className="margin-y-50 text-center">exactly
         <sup><Link to="/vocabulary/exactly-1">&nbsp;1&nbsp;</Link>

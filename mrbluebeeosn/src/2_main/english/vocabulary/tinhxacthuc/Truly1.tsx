@@ -15,7 +15,7 @@ export default function Truly1(): React.JSX.Element {
 
     <article>
     
-      <h4><HashLink smooth to="/vocabulary#tinh-xac-thuc-terms"><mark className="highlight-tertiary-padding-4-8">Tính xác thực</mark></HashLink></h4>
+      <h4><HashLink smooth to="/vocabulary#tinh-xac-thuc-terms"><mark className="highlight-tertiary-padding-4-8">ADverbs: xác thực</mark></HashLink></h4>
       
       <h1 className="margin-y-50 text-center">truly
         <sup><Link to="/vocabulary/truly-1">&nbsp;1&nbsp;</Link>

@@ -15,7 +15,7 @@ export default function Openly1(): React.JSX.Element {
 
     <article>
     
-      <h4><HashLink smooth to="/vocabulary#tinh-chan-thanh-terms"><mark className="highlight-tertiary-padding-4-8">Tính chân thành</mark></HashLink></h4>
+      <h4><HashLink smooth to="/vocabulary#tinh-chan-thanh-terms"><mark className="highlight-tertiary-padding-4-8">ADverbs: chân thành</mark></HashLink></h4>
       
       <h1 className="margin-y-50 text-center">openly
         <sup><Link to="/vocabulary/openly-1">&nbsp;1&nbsp;</Link>

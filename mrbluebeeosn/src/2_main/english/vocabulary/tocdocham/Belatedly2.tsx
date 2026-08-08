@@ -15,7 +15,7 @@ export default function Belatedly2(): React.JSX.Element {
 
     <article>
     
-      <h4><HashLink smooth to="/vocabulary#toc-do-cham-terms"><mark className="highlight-tertiary-padding-4-8">Tốc độ chậm</mark></HashLink></h4>
+      <h4><HashLink smooth to="/vocabulary#toc-do-cham-terms"><mark className="highlight-tertiary-padding-4-8">ADverbs: chậm</mark></HashLink></h4>
       
       <h1 className="margin-y-50 text-center">belatedly
         <sup>
