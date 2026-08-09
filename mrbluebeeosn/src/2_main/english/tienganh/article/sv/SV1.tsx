@@ -387,12 +387,12 @@ export default function SV1(): React.JSX.Element {
 
 			<ul className="list-square">
 			
-					<li>[That he won the competition] surprised everyone.</li>
-					<li className="margin-bottom-20 list-none">[Việc anh ấy chiến thắng cuộc thi] đã làm mọi người ngạc nhiên.</li>
+					<li>[What you said] surprised me.</li>
+					<li className="margin-bottom-20 list-none">[Những gì bạn đã nói] đã làm tôi ngạc nhiên.</li>
 			
-					<li className="list-none">Hình thái: [That he won the competition] - [Hiển-Liên Động Câu][Connector Verb Clause] tạo nên khối hành động phức có chứa hệ trục [S][V] "he won the competition", bắt đầu bằng [Liên Cơ][Connector Base] "that".</li>
+					<li className="list-none">Hình thái: [What you said] - [Hiển-Liên Động Câu][Connector Verb Clause] tạo nên khối hành động phức có chứa hệ trục [Danh Chủ][Noun Subject] "you" và [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "said", bắt đầu bằng [Liên Cơ][Connector Base] "what".</li>
 			
-					<li className="margin-bottom-20 list-none">Chức năng: [That he won the competition] - [Danh Câu][Noun Clause] đảm nhận nhiệm vụ của một khối đối tượng đứng trước [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "surprised" để làm [Danh Chủ][Noun Subject] điều phối toàn bộ thông tin cho [Câu Lớn][Sentence].</li>
+					<li className="margin-bottom-20 list-none">Chức năng: [What you said] - [Danh Câu][Noun Clause] đảm nhận nhiệm vụ của một khối đối tượng đứng trước [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "surprised" để làm [Danh Chủ][Noun Subject] điều phối hành động cho toàn bộ [Câu Lớn][Sentence].</li>
 			
 				</ul>
 
@@ -401,7 +401,7 @@ export default function SV1(): React.JSX.Element {
 					<li>Everyone knows [that water boils at 100 degrees].</li>
 					<li className="margin-bottom-20 list-none">Mọi người đều biết [rằng nước sôi ở 100 độ].</li>
 			
-					<li className="list-none">Hình thái: [that water boils at 100 degrees] - [Hiển-Liên Động Câu][Connector Verb Clause] tạo nên khối hành động phức có chứa hệ trục [S][V] "water boils at 100 degrees", bắt đầu bằng [Liên Cơ][Connector Base] "that".</li>
+					<li className="list-none">Hình thái: [that water boils at 100 degrees] - [Hiển-Liên Động Câu][Connector Verb Clause] tạo nên khối hành động phức có chứa hệ trục [Danh Chủ][Noun Subject] "water" và [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "boils", bắt đầu bằng [Liên Cơ][Connector Base] "that".</li>
 			
 					<li className="margin-bottom-20 list-none">Chức năng: [that water boils at 100 degrees] - [Danh Câu][Noun Clause] đảm nhận nhiệm vụ của một khối đối tượng đứng sau [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "knows" để làm [Danh Nhận][Noun Object] dưới sự điều phối của nó.</li>
 			

@@ -446,12 +446,12 @@ export default function NineBox1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>[The compilation completed], the operations team triggered the deployment.</li>
-					<li className="margin-bottom-20 list-none">[Việc biên dịch đã hoàn thành xong], đội ngũ vận hành đã kích hoạt triển khai.</li>
+					<li>[Should the compilation complete], the operations team will trigger the deployment.</li>
+					<li className="margin-bottom-20 list-none">[Nếu việc biên dịch hoàn thành], đội ngũ vận hành sẽ kích hoạt triển khai.</li>
 			
-					<li className="list-none">Hình thái: [The compilation completed] – [Ẩn-Liên Động Câu][Zero-Connector Verb Clause] vắng bóng cấu trúc kết nối chỉ bối cảnh nhưng chứa kết cấu câu con biểu thị sự kiện, xoay quanh [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "completed".</li>
+					<li className="list-none">Hình thái: [Should the compilation complete] - [Ẩn-Liên Động Câu][Zero-Connector Verb Clause] vận hành ở trạng thái ẩn thành phần [Liên Cơ][Connector Base] điều kiện "if" bằng cách đảo khối [Ý-Thái Động Cơ][Soft-Modal Verb Base] "Should" lên trước khối [Danh Chủ][Noun Subject] "the compilation", kéo theo [Thuần Động Cơ][Bare Verb Base] "complete".</li>
 			
-					<li className="list-none">Chức năng: [The compilation completed] – [Trạng Câu][Adverb Clause] bổ nghĩa bối cảnh [Thời] gian/nguyên nhân nền cho toàn bộ hệ thống hành động phía sau.</li>
+					<li className="list-none">Chức năng: [Should the compilation complete] – [Trạng Câu][Adverb Clause] bổ nghĩa bối cảnh điều kiện giả định cho hệ thống hành động phía sau.</li>
 			
 				</ul>
 
@@ -540,7 +540,7 @@ export default function NineBox1(): React.JSX.Element {
 					<li>The source code [for {'{what the team deployed yesterday}'}] requires a security audit.</li>
 					<li className="margin-bottom-20 list-none">Mã nguồn [cho {'{những gì đội ngũ triển khai ngày hôm qua}'}] yêu cầu một cuộc kiểm toán bảo mật.</li>
 
-					<li className="margin-bottom-20 list-none">Hình thái: Khối tổng thể [for {'{what the team deployed yesterday}'}] - [Tầng Giới Cụm][Tiered Prepositional Phrase] ở tầng ngoài. Bên trong chứa bao gói {'{what the team deployed yesterday}'} - [Hiển-Liên Động Câu][Connector Verb Clause] ở tầng trong.</li>
+					<li className="margin-bottom-20 list-none">Hình thái: Khối tổng thể [for {'{what the team deployed yesterday}'}] - [Tầng Giới Cụm][Tiered Prepositional Phrase] ở tầng ngoài bắt đầu bằng [Giới Cơ][Prepositional Base] "for". Bên trong chứa bao gói {'{what the team deployed yesterday}'} - [Hiển-Liên Động Câu][Connector Verb Clause] ở tầng trong bắt đầu bằng [Liên Cơ][Connector Base] "what".</li>
 			
 					<li className="list-none">Chức năng: Khối {'{what the team deployed yesterday}'} bên trong đóng vai trò làm [Danh Câu][Noun Clause] làm [Danh Nhận][Noun Object] chịu sự điều phối trực tiếp từ [Giới Cơ][Prepositional Base] đứng trước, và toàn bộ khối tổng thể [for {'{what the team deployed yesterday}'}] vận hành với chức năng [<strong>Tính Cụm</strong>][<strong>Adjective Phrase</strong>] nhằm mô tả thuộc tính định danh cho khối [Danh Cụm][Noun Phrase] "The source code" phía trước.</li>
 			
@@ -555,7 +555,7 @@ export default function NineBox1(): React.JSX.Element {
 					<li>The analyst reviews the ledger [at {'{where the system stores financial logs}'}].</li>
 					<li className="margin-bottom-20 list-none">Nhà phân tích kiểm tra sổ cái [tại {'{nơi mà hệ thống lưu trữ nhật ký tài chính}'}].</li>
 
-					<li className="margin-bottom-20 list-none">Hình thái: Khối tổng thể [at {'{where the system stores financial logs}'}] - [Tầng Giới Cụm][Tiered Prepositional Phrase] ở tầng ngoài. Bên trong chứa bao gói {'{where the system stores financial logs}'} - [Hiển-Liên Động Câu][Connector Verb Clause] ở tầng trong.</li>
+					<li className="margin-bottom-20 list-none">Hình thái: Khối tổng thể [at {'{where the system stores financial logs}'}] - [Tầng Giới Cụm][Tiered Prepositional Phrase] ở tầng ngoài bắt đầu bằng [Giới Cơ][Prepositional Base] "at". Bên trong chứa bao gói {'{where the system stores financial logs}'} - [Hiển-Liên Động Câu][Connector Verb Clause] ở tầng trong bắt đầu bằng [Liên Cơ][Connector Base] "where".</li>
 			
 					<li className="list-none">Chức năng: Khối {'{where the system stores financial logs}'} bên trong đóng vai trò làm [Danh Câu][Noun Clause] làm [Danh Nhận][Noun Object] chịu sự điều phối trực tiếp từ [Giới Cơ][Prepositional Base] chỉ vị trí, và toàn bộ khối tổng thể [at {'{where the system stores financial logs}'}] vận hành với chức năng [<strong>Trạng Cụm</strong>][<strong>Adverb Phrase</strong>] nhằm bổ nghĩa bối cảnh không gian cho hành động kiểm tra sổ cái.</li>
 			
@@ -631,7 +631,7 @@ export default function NineBox1(): React.JSX.Element {
 			
 					<li className="list-none">Hình thái: [unsecured] - [Hoàn Động Cơ][Perfect Verb Base] hình thành từ khối [Rễ Tính Cơ][Root Adjective Base] nguyên bản "secure" kết hợp tiền tố phủ định "un-" và mặc thêm hậu tố "-ed" để thay đổi diện mạo bên ngoài thành một khối cấp độ [Cơ][Base].</li>
 			
-					<li className="list-none">Chức năng: [unsecured] – [Tính Cơ][Adjective Base] đứng trước để định rõ thuộc tính cho kết nối.</li>
+					<li className="list-none">Chức năng: [unsecured] – [Tính Cơ][Adjective Base] đứng trước để định rõ thuộc tính cho [Diện Danh Cơ][Modified Noun Base] "connection" kết nối.</li>
 			
 				</ul>
 			
@@ -645,7 +645,7 @@ export default function NineBox1(): React.JSX.Element {
 			
 					<li className="list-none">Hình thái: [causing security leaks] - [Tiếp Động Cụm][Progressive Verb Phrase] hình thành từ sự phối hợp giữa hạt nhân [Tiếp Động Cơ][Progressive Verb Base] "causing" và mở rộng mục tiêu "security leaks" phía sau.</li>
 			
-					<li className="list-none">Chức năng: [causing security leaks] – [Tính Cụm][Adjective Phrase] đứng sau bổ nghĩa thuộc tính diễn tiến cho kết nối.</li>
+					<li className="list-none">Chức năng: [causing security leaks] – [Tính Cụm][Adjective Phrase] đứng sau bổ nghĩa thuộc tính diễn tiến cho [Diện Danh Cơ][Modified Noun Base] "connection" kết nối.</li>
 			
 				</ul>
 			
@@ -659,7 +659,7 @@ export default function NineBox1(): React.JSX.Element {
 			
 					<li className="list-none">Hình thái: [which allows unauthorized user access] - [Hiển-Liên Động Câu][Connector Verb Clause] chứa cấu trúc kết nối tường minh "which" kết hợp cùng cấu trúc câu con xoay quanh [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "allows".</li>
 			
-					<li className="list-none">Chức năng: [which allows unauthorized user access] – [Tính Câu][Adjective Clause] đứng sau làm nhiệm vụ định danh thuộc tính cho kết nối.</li>
+					<li className="list-none">Chức năng: [which allows unauthorized user access] – [Tính Câu][Adjective Clause] đứng sau làm nhiệm vụ định danh thuộc tính cho [Diện Danh Cơ][Modified Noun Base] "connection" kết nối.</li>
 			
 				</ul>
 
@@ -673,7 +673,7 @@ export default function NineBox1(): React.JSX.Element {
 			
 					<li className="list-none">Hình thái: [with multiple security flaws] – Khối [Giới Cụm][Prepositional Phrase] bắt đầu bằng [Giới Cơ][Prepositional Base] "with" kết hợp với cụm mục tiêu "multiple security flaws" phía sau.</li>
 			
-					<li className="list-none">Chức năng: [with multiple security flaws] – [Tính Cụm][Adjective Phrase] đứng sau để bổ nghĩa thuộc tính sở hữu đặc điểm cho kết nối.</li>
+					<li className="list-none">Chức năng: [with multiple security flaws] – [Tính Cụm][Adjective Phrase] đứng sau để bổ nghĩa thuộc tính sở hữu đặc điểm cho [Diện Danh Cơ][Modified Noun Base] "connection" kết nối.</li>
 			
 				</ul>
 			
@@ -689,9 +689,9 @@ export default function NineBox1(): React.JSX.Element {
 					<li>The application syncs data [productively].</li>
 					<li className="margin-bottom-20 list-none">Ứng dụng đồng bộ hóa dữ liệu [một cách đầy năng suất].</li>
 			
-					<li className="list-none">Hình thái: [productively] - [Diện Trạng Cơ][Modified Adverb Base] hình thành từ khối [Rễ Động Cơ][Root Verb Base] nguyên bản "produce" kết hợp hậu tố "-tive" và "-ly" để thay đổi diện mạo bên ngoài thành một khối cấp độ [Cơ][Base].</li>
+					<li className="list-none">Hình thái: [productively] - [Diện Trạng Cơ][Modified Adverb Base] hình thành từ khối [Hạt Thuần Động Cơ][Particle Bare Verb Base] "to produce" kết hợp hậu tố "-tive" và "-ly" để thay đổi diện mạo bên ngoài thành một khối cấp độ [Cơ][Base].</li>
 			
-					<li className="list-none">Chức năng: [productively] – [Trạng Cơ][Adverb Base] bổ nghĩa cách thức vận hành cho hành động đồng bộ hóa.</li>
+					<li className="list-none">Chức năng: [productively] – [Trạng Cơ][Adverb Base] bổ nghĩa cách thức vận hành cho hành động [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "syncs" đồng bộ hóa.</li>
 			
 				</ul>
 			
@@ -705,7 +705,7 @@ export default function NineBox1(): React.JSX.Element {
 			
 					<li className="list-none">Hình thái: [to eliminate data inconsistency] - [Hạt Thuần Động Cụm][Particle Bare Verb Phrase] hình thành từ sự kết hợp giữa hạt nhân [Hạt Thuần Động Cơ][Particle Bare Verb Base] "to eliminate" và mở rộng hành động phía sau.</li>
 			
-					<li className="list-none">Chức năng: [to eliminate data inconsistency] – [Trạng Cụm][Adverb Phrase] bổ nghĩa bối cảnh mục đích cho hành động đồng bộ hóa.</li>
+					<li className="list-none">Chức năng: [to eliminate data inconsistency] – [Trạng Cụm][Adverb Phrase] bổ nghĩa bối cảnh mục đích cho hành động [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "syncs" đồng bộ hóa.</li>
 			
 				</ul>
 			
@@ -719,7 +719,7 @@ export default function NineBox1(): React.JSX.Element {
 			
 					<li className="list-none">Hình thái: [whenever the background microservice sends a signal] - [Hiển-Liên Động Câu][Connector Verb Clause] chứa cấu trúc kết nối chỉ bối cảnh điều kiện [Thời] gian "whenever" kết hợp cùng cấu trúc câu con xoay quanh [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "sends".</li>
 			
-					<li className="list-none">Chức năng: [whenever the background microservice sends a signal] – [Trạng Câu][Adverb Clause] bổ nghĩa bối cảnh điều kiện [Thời] gian cho hành động đồng bộ hóa.</li>
+					<li className="list-none">Chức năng: [whenever the background microservice sends a signal] – [Trạng Câu][Adverb Clause] bổ nghĩa bối cảnh điều kiện [Thời] gian cho hành động [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "syncs" đồng bộ hóa.</li>
 			
 				</ul>
 
@@ -733,7 +733,7 @@ export default function NineBox1(): React.JSX.Element {
 			
 					<li className="list-none">Hình thái: [because of an automated synchronization policy] - [Phức Giới Cụm][Complex Prepositional Phrase] bắt đầu bằng [Phức Giới Cơ][Complex Prepositional Base] "because of" kết hợp với [Danh Khối][Noun Block] "an automated synchronization policy" phía sau tạo thành một khối hoàn chỉnh bổ nghĩa nguyên nhân cho [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "syncs".</li>
 			
-					<li className="list-none">Chức năng: [because of an automated synchronization policy] – [Trạng Cụm][Adverb Phrase] bổ nghĩa bối cảnh nguyên nhân cho hành động đồng bộ hóa.</li>
+					<li className="list-none">Chức năng: [because of an automated synchronization policy] – [Trạng Cụm][Adverb Phrase] bổ nghĩa bối cảnh nguyên nhân cho hành động [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "syncs" đồng bộ hóa.</li>
 			
 				</ul>
 			
@@ -743,7 +743,7 @@ export default function NineBox1(): React.JSX.Element {
 
 			<h3 className="margin-y-50 text-center">Lời Kết</h3>
 
-			<p>Sự đồng bộ giữa hai trục Chức năng [Danh - Tính - Trạng] và Cấp độ [Cơ][Base] - [Cụm][Phrase] - [Câu][Clause] tạo ra một bộ lọc cấu trúc cực kỳ tinh gọn.</p>
+			<p>Sự đồng bộ giữa hai trục Chức năng [Danh - Tính - Trạng][Noun - Adjective - Adverb] và Cấp độ [Cơ][Base] - [Cụm][Phrase] - [Câu][Clause] tạo ra một bộ lọc cấu trúc cực kỳ tinh gọn.</p>
 
 			<p>Khi bạn chuyển đổi cách nhìn sang việc bóc tách hình thái trước rồi định hình chức năng dựa trên vị trí và sự phối hợp chuẩn hóa của 16 mảnh ghép phân loại hệ [Động][Verb] thuộc phân hệ [Cơ][Base]—cùng sự điều hướng theo quy tắc dịch chuyển lên phân hệ [Cụm][Phrase] và phân hệ [Câu][Clause], việc làm chủ hay viết lại bất kỳ cấu trúc ngôn ngữ chuyên ngành phức tạp nào cũng chỉ còn là việc lắp ráp các khối dữ liệu chuẩn hóa.</p>
 			
