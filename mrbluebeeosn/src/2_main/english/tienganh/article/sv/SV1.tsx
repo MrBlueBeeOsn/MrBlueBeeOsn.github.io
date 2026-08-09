@@ -448,7 +448,7 @@ export default function SV1(): React.JSX.Element {
 					<li>I believe [you will pass the exam].</li>
 					<li className="margin-bottom-20 list-none">Tôi tin [bạn sẽ vượt qua kỳ thi].</li>
 			
-					<li className="list-none">Hình thái: [you will pass the exam] - [Ẩn-Liên Động Câu][Zero-Connector Verb Clause] đã ẩn đi thành phần liên kết bề nổi.</li>
+					<li className="list-none">Hình thái: [you will pass the exam] - [Ẩn-Liên Động Câu][Zero-Connector Verb Clause] đã ẩn đi thành phần liên kết bề nổi, bên trong chứa hệ trục [Danh Chủ][Noun Subject] "you" và [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "will pass" (với "will" là [Áp-Thái Thuần Động Cơ][Assertive-Modal Bare Verb Base] kết hợp [Thuần Động Cơ][Bare Verb Base] "pass").</li>
 			
 					<li className="list-none">Chức năng: [you will pass the exam] - [Danh Câu][Noun Clause] đứng sau [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "believe" như một [Danh Nhận][Noun Object] thực thi.</li>
 			
@@ -463,7 +463,7 @@ export default function SV1(): React.JSX.Element {
 					<li>The book [she lent me] was fascinating.</li>
 					<li className="margin-bottom-20 list-none">Cuốn sách [cô ấy cho tôi mượn] rất hấp dẫn.</li>
 			
-					<li className="list-none">Hình thái: [she lent me] - [Ẩn-Liên Động Câu][Zero-Connector Verb Clause] đã ẩn đi thành phần liên kết bề nổi.</li>
+					<li className="list-none">Hình thái: [she lent me] - [Ẩn-Liên Động Câu][Zero-Connector Verb Clause] đã ẩn đi thành phần liên kết bề nổi, bên trong chứa hệ trục [Danh Chủ][Noun Subject] "she" và [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "lent".</li>
 			
 					<li className="list-none">Chức năng: [she lent me] - [Tính Câu][Adjective Clause] đứng ngay sau đối tượng cuốn sách nhằm mô tả đặc điểm riêng biệt cho [Danh Cơ][Noun Base] book.</li>
 			
@@ -478,9 +478,9 @@ export default function SV1(): React.JSX.Element {
 					<li>The tea was so hot [I couldn't drink it].</li>
 					<li className="margin-bottom-20 list-none">Trà quá nóng [đến mức tôi không thể uống được].</li>
 			
-					<li className="list-none">Hình thái: [I couldn't drink it] - [Ẩn-Liên Động Câu][Zero-Connector Verb Clause] đã ẩn đi thành phần liên kết bề nổi, bên trong chứa hệ trục [Danh Chủ][Noun Subject] "I" và [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "couldn't drink" (với "couldn't" là [Ý-Thái Động Cơ][Soft-Modal Verb Base] kết hợp [Thuần Động Cơ][Bare Verb Base] "drink").</li>
+					<li className="list-none">Hình thái: [I couldn't drink it] - [Ẩn-Liên Động Câu][Zero-Connector Verb Clause] đã ẩn đi thành phần liên kết bề nổi, bên trong chứa hệ trục [Danh Chủ][Noun Subject] "I" và cụm hành động gồm [Ý-Thái Động Cơ][Soft-Modal Verb Base] "couldn't" kết hợp với [Thuần Động Cơ][Bare Verb Base] "drink".</li>
 			
-					<li className="list-none">Chức năng: [I couldn't drink it] - [Trạng Câu][Adverb Clause] gắn vào phía sau tính cơ "hot" nhằm làm rõ hệ quả và bổ nghĩa cho mức độ đặc điểm của tính cơ này.</li>
+					<li className="list-none">Chức năng: [I couldn't drink it] - [Trạng Câu][Adverb Clause] gắn vào phía sau [Tính Cơ][Adjective Base] "hot" nhằm làm rõ hệ quả và bổ nghĩa cho mức độ đặc điểm của [Tính Cơ][Adjective Base] này.</li>
 			
 				</ul>
 			
@@ -547,13 +547,13 @@ export default function SV1(): React.JSX.Element {
 					<li>[Discovering {'{how the engine works}'}] is interesting.</li>
 					<li className="margin-bottom-20 list-none">[Việc phát hiện ra {'{cách thức mà hành động hoạt động}'}] thì thú vị.</li>
 
-					<li>Phân tích Hình thái:</li>
+					<li>Hình thái:</li>
 
 					<li className="list-none">Tầng trong: Khối lồng bên trong {'{how the engine works}'} là một [Hiển-Liên Động Câu][Connector Verb Clause] vì chứa đầy đủ hệ trục [Danh Chủ][Noun Subject] "the engine" và [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "works", bắt đầu bằng [Liên Cơ][Connector Base] how.</li>
 
 					<li className="margin-bottom-20 list-none">Tầng ngoài: Khối tổng thể bao ngoài [Discovering {'{how the engine works}'}] là một khối [Tầng Tiếp Động Cụm][Tiered Progressive Verb Phrase] bắt đầu bằng hành động thực thi [Tiếp Động Cơ][Progressive Verb Base] dạng V-ing Discovering.</li>
 			
-					<li>Phân tích Chức năng:</li>
+					<li>Chức năng:</li>
 
 					<li className="list-none">Tầng trong: Lớp trong {'{how the engine works}'} đóng vai trò là một [Danh Câu][Noun Clause], neo ngay sau hành động thực thi [Tiếp Động Cơ][Progressive Verb Base] Discovering để làm [Danh Nhận][Noun Object] cho hành động đó.</li>
 
@@ -569,13 +569,13 @@ export default function SV1(): React.JSX.Element {
 					<li>He avoided [discussing {'{what they had discovered}'}].</li>
 					<li className="margin-bottom-20 list-none">Anh ấy đã tránh [thảo luận về {'{những gì họ đã phát hiện ra}'}].</li>
 
-					<li>Phân tích Hình thái:</li>
+					<li>Hình thái:</li>
 
 					<li className="list-none">Tầng trong: Khối lồng bên trong {'{what they had discovered}'} là một [Hiển-Liên Động Câu][Connector Verb Clause] chứa hệ trục [Danh Chủ][Noun Subject] "they" và [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "had discovered", bắt đầu bằng [Liên Cơ][Connector Base] what.</li>
 
 					<li className="margin-bottom-20 list-none">Tầng ngoài: Khối tổng thể bao ngoài [discussing {'{what they had discovered}'}] là một khối [Tầng Tiếp Động Cụm][Tiered Progressive Verb Phrase] bắt đầu bằng [Tiếp Động Cơ][Progressive Verb Base] discussing.</li>
 			
-					<li>Phân tích Chức năng:</li>
+					<li>Chức năng:</li>
 
 					<li className="list-none">Tầng trong: Lớp trong {'{what they had discovered}'} đóng vai trò là một [Danh Câu][Noun Clause], neo ngay sau hành động thực thi discussing để làm [Danh Nhận][Noun Object].</li>
 
@@ -629,7 +629,7 @@ export default function SV1(): React.JSX.Element {
 
 					<li className="list-none">Tầng trong: Lớp trong {'{than we expected}'} đóng vai trò là một [Trạng Câu][Adverb Clause] phụ thuộc, neo vào sau [Diện Trạng Cơ][Modified Adverb Base] dạng so sánh slower để làm rõ mức độ cho cấu trúc so sánh.</li>
 
-					<li className="list-none">Tầng trong: Lớp trong [slower {'{than we expected}'}] vận hành đồng bộ như một khối [Trạng Cụm][Adverb Phrase] tổng thể gắn sau [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "walked" nhằm làm rõ hoàn cảnh cách thức hành động được thực hiện.</li>
+					<li className="list-none">Tầng trong: Lớp trong [slower {'{than we expected}'}] vận hành đồng bộ như một khối [<strong>Trạng Cụm</strong>][<strong>Adverb Phrase</strong>] tổng thể gắn sau [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "walked" nhằm làm rõ hoàn cảnh cách thức hành động được thực hiện.</li>
 			
 				</ul>
 
