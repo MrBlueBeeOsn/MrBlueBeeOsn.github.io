@@ -305,7 +305,7 @@ export default function ThreeDC1(): React.ReactElement {
 
 			<p className="text-indent-whole">Là một khối hành động chứa nhiều từ kết hợp với nhau nhưng chưa có cấu trúc câu phức tạp hoàn chỉnh. Khối [Động Cụm][Verb Phrase] này sẽ đảm nhận các vai trò:</p>
 
-			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 1</strong>: <strong>Sinh ra</strong> [<strong>DANH CỤM</strong>][<strong>NOUN PHRASE</strong>] làm khối [Danh Chủ][Noun Subject]</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 1a</strong>: <strong>Sinh ra</strong> [<strong>DANH CỤM</strong>][<strong>NOUN PHRASE</strong>] <strong>làm khối</strong> [<strong>Danh Chủ</strong>][<strong>Noun Subject</strong>]</p>
 			
 				<ul className="list-square">
 			
@@ -319,7 +319,7 @@ export default function ThreeDC1(): React.ReactElement {
 				</ul>
 
 
-			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 1</strong>: <strong>Sinh ra</strong> [<strong>DANH CỤM</strong>][<strong>NOUN PHRASE</strong>] làm khối [Danh Nhận][Noun Object]</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 1b</strong>: <strong>Sinh ra</strong> [<strong>DANH CỤM</strong>][<strong>NOUN PHRASE</strong>] <strong>làm khối</strong> [<strong>Danh Nhận</strong>][<strong>Noun Object</strong>]</p>
 			
 				<ul className="list-square">
 			
@@ -510,7 +510,7 @@ export default function ThreeDC1(): React.ReactElement {
 
 			<h3 className="margin-y-50 text-center">VII. BẢN CHẤT PHÂN [TẦNG][TIERED] VÀ NGUYÊN TẮC "ĐIỂM NEO"</h3>
 
-			<p>Trong các cấu trúc nâng cao, các hình thái lồng ghép vào nhau như các module linh kiện. Ranh giới ngoài cùng [] luôn đại diện cho khối bao quét tầng ngoài, và dấu {} sẽ bao quét khối lồng bên trong để thể hiện rõ mối quan hệ điều phối hệ thống.</p>
+			<p>Trong các cấu trúc nâng cao, các hình thái lồng ghép vào nhau như các module linh kiện. Ranh giới ngoài cùng [] luôn đại diện cho khối bao quét tầng ngoài, và dấu {'{}'} sẽ bao quét khối lồng bên trong để thể hiện rõ mối quan hệ điều phối hệ thống.</p>
 
 
 			<h4 className="margin-y-40">1. [DANH CỤM][NOUN PHRASE]</h4>
@@ -524,7 +524,7 @@ export default function ThreeDC1(): React.ReactElement {
 			
 					<li className="list-none">Hình thái: Khối bao ngoài [to understand {'{why the species went extinct}'}] là một [Tầng Hạt Thuần Động Cụm][Tiered Particle Bare Verb Phrase] bắt đầu bằng [Hạt Thuần Động Cơ][Particle Bare Verb Base] "to". Bên trong bao gói {'{why the species went extinct}'} là một [Hiển-Liên Động Câu][Connector Verb Clause] dẫn dắt bằng biểu hiện nghi vấn "why".</li>
 			
-					<li className="list-none">Chức năng: Khối {'{why the species went extinct}'} bên trong đóng vai trò là [Danh Câu][Noun Clause] làm [Danh Nhận][Noun Object] chịu sự điều phối của [Thuần Động Cơ][Bare Verb Base] "understand". Toàn bộ khối hỗn hợp [to understand {'{why the species went extinct}'}] vận hành với chức năng [<strong>Danh Cụm</strong>][<strong>Noun Phrase</strong>] đóng vai trò tổng thể làm khối [Danh Chủ][Noun Subject] đứng sau [Thời-Thuần Động Cụm][Tense-Bare Verb Phrase] demands scientific research để bổ nghĩa cho [Giữ Chủ][Placeholder Subject] "It".</li>
+					<li className="list-none">Chức năng: Khối {'{why the species went extinct}'} bên trong đóng vai trò là [Danh Câu][Noun Clause] làm [Danh Nhận][Noun Object] chịu sự điều phối của [Thuần Động Cơ][Bare Verb Base] "understand". Toàn bộ khối hỗn hợp [to understand {'{why the species went extinct}'}] vận hành với chức năng [<strong>Danh Cụm</strong>][<strong>Noun Phrase</strong>] đóng vai trò tổng thể làm khối [Danh Chủ][Noun Subject] đứng sau [Thời-Thuần Động Cụm][Tense-Bare Verb Phrase] demands scientific research để bổ nghĩa cho [Giữ Chủ][Placeholder Subject] It.</li>
 			
 				</ul>
 
@@ -579,7 +579,7 @@ export default function ThreeDC1(): React.ReactElement {
 
 			<h4 className="margin-y-40">1. Paraphrasing cho chức năng [TRẠNG][ADVERB] (Mô tả hoàn cảnh, bối cảnh)</h4>
 
-			<h5 className="margin-y-30 text-indent-whole">Gốc:</h5>
+			<p className="margin-y-30 text-indent-whole"><strong>Gốc</strong>:</p>
 					
 			<p className="margin-top-20 text-indent-whole"><strong>Dùng hình thái</strong> [<strong>Hiển-Liên Động Câu</strong>][<strong>Connector Verb Clause</strong>]</p>
 			
@@ -595,7 +595,7 @@ export default function ThreeDC1(): React.ReactElement {
 				</ul>
 			
 			
-			<h5 className="margin-y-30 text-indent-whole">Viết lại 1</h5>
+			<p className="margin-y-30 text-indent-whole"><strong>Viết lại 1</strong></p>
 			
 			<p className="margin-top-20 text-indent-whole"><strong>Đổi sang hình thái</strong> [<strong>Diện Trạng Cơ</strong>][<strong>Modified Adverb Base</strong>]</p>
 			
@@ -630,7 +630,7 @@ export default function ThreeDC1(): React.ReactElement {
 
 			<h4 className="margin-y-40">2. Paraphrasing cho chức năng [TÍNH][ADJECTIVE] (Mô tả, định danh thực thể)</h4>
 
-			<h5 className="margin-y-30 text-indent-whole">Gốc:</h5>
+			<p className="margin-y-30 text-indent-whole"><strong>Gốc</strong>:</p>
 
 			<p className="text-indent-whole"><strong>Dùng hình thái</strong> [<strong>Hiển-Liên Động Câu</strong>][<strong>Connector Verb Clause</strong>]</p>
 			
@@ -647,7 +647,7 @@ export default function ThreeDC1(): React.ReactElement {
 
 
 			
-			<h5 className="margin-y-30 text-indent-whole">Viết lại 1</h5>
+			<p className="margin-y-30 text-indent-whole"><strong>Viết lại 1</strong></p>
 			
 			<p className="margin-top-20 text-indent-whole"><strong>Đổi sang hình thái</strong> [<strong>Diện Tính Cơ</strong>][<strong>Modified Adjective Base</strong>]</p>
 			
@@ -664,7 +664,7 @@ export default function ThreeDC1(): React.ReactElement {
 			
 
 			
-			<h5 className="margin-y-30 text-indent-whole">Viết lại 2</h5>
+			<p className="margin-y-30 text-indent-whole"><strong>Viết lại 2</strong></p>
 
 			<p className="margin-top-20 text-indent-whole"><strong>Đổi sang hình thái</strong> [<strong>Tiếp Động Cụm</strong>][<strong>Progressive Verb Phrase</strong>]</p>
 			
@@ -682,9 +682,9 @@ export default function ThreeDC1(): React.ReactElement {
 
 			<h4 className="margin-y-40">3. Paraphrasing cho chức năng [DANH][NOUN]</h4>
 
-			<h5 className="margin-y-30 text-indent-whole">Gốc: Làm [Danh Chủ][Noun Subject]</h5>
+			<p className="margin-y-30 text-indent-whole"><strong>Gốc</strong>: <strong>Dùng hình thái</strong> [<strong>Hiển-Liên Động Câu</strong>][<strong>Connector Verb Clause</strong>]</p>
 
-			<p className="margin-top-20 text-indent-whole"><strong>Dùng hình thái</strong> [<strong>Hiển-Liên Động Câu</strong>][<strong>Connector Verb Clause</strong>]</p>
+			<p className="margin-top-20 text-indent-whole">Làm [Danh Chủ][Noun Subject]</p>
 
 			
 				<ul className="list-square">
@@ -692,16 +692,16 @@ export default function ThreeDC1(): React.ReactElement {
 					<li>The programmer discovered [how he could bypass the security firewall].</li>
 					<li className="margin-bottom-20 list-none">Lập trình viên đã phát hiện ra [cách mà anh ấy có thể vượt qua tường lửa bảo mật].</li>
 			
-					<li className="list-none">Hình thái: Khối [how he could bypass the security firewall] - [Hiển-Liên Động Câu][Connector Verb Clause] bắt đầu bằng [Liên Cơ][Connector Base] "how" lồng khối chủ vị hoàn chỉnh có trợ động từ thái độ "could".</li>
+					<li className="list-none">Hình thái: Khối [how he could bypass the security firewall] - [Hiển-Liên Động Câu][Connector Verb Clause] bắt đầu bằng [Liên Cơ][Connector Base] "how" lồng khối chủ vị hoàn chỉnh có [Ý-Thái Thuần Động Cơ][Soft-Modal Bare Verb Base] "could".</li>
 			
 					<li className="list-none">Chức năng: Khối [how he could bypass the security firewall] - [Danh Câu][Noun Clause] làm khối [Danh Nhận][Noun Object] nhận tác động trực tiếp của hành động "discovered".</li>
 			
 				</ul>
 			
 
-			<h5 className="margin-y-30 text-indent-whole">Viết lại: Làm [Danh Nhận][Noun Object]</h5>
+			<p className="margin-y-30 text-indent-whole"><strong>Viết lại</strong>: <strong>Đổi sang hình thái</strong> [<strong>Hiển-Liên Hạt Thuần Động Cụm</strong>][<strong>Connector Particle Bare Verb Phrase</strong>]</p>
 
-			<p className="margin-top-20 text-indent-whole"><strong>Đổi sang hình thái</strong> [<strong>Hiển-Liên Hạt Thuần Động Cụm</strong>][<strong>Connector Particle Bare Verb Phrase</strong>]</p>
+			<p className="margin-top-20 text-indent-whole">Làm [Danh Nhận][Noun Object]</p>
 			
 				<ul className="list-square">
 			
@@ -741,11 +741,11 @@ export default function ThreeDC1(): React.ReactElement {
 			<h5 className="margin-y-30">Thử thách phá án 3 cấu trúc có cùng hình thái [Hiển-Liên Động Câu][Connector Verb Clause] chứa biểu hiện [Liên Cơ][Connector Base] "<strong>where</strong>":</h5>
 			
 
-			<p className="margin-top-20">Trường hợp A: The technician will deploy the software [where the signal peaks].</p>
+			<p className="margin-top-20">Trường hợp A: Thử thế thân bằng [Trạng Cơ][Adverb Base] "<strong>there</strong>"</p>
 			
 				<ul className="list-square">
 			
-					<li>Thử thế thân bằng [Trạng Cơ][Adverb Base] "<strong>there</strong>":</li>
+					<li>The technician will deploy the software [where the signal peaks].</li>
 					<li className="margin-bottom-20 list-none">The technician will deploy the software there.</li>
 			
 					<li className="list-none">→ Hợp lý! Khối [where the signal peaks] thực thi chức năng [Trạng Câu][Adverb Clause] chỉ bối cảnh vị trí.</li>
@@ -753,11 +753,11 @@ export default function ThreeDC1(): React.ReactElement {
 				</ul>
 			
 			
-			<p className="margin-top-20">Trường hợp B: This is the server room [where the signal peaks].</p>
+			<p className="margin-top-20">Trường hợp B: Thử thế thân bằng [Tính Cơ][Adjective Base] "<strong>new</strong>"</p>
 			
 				<ul className="list-square">
 			
-					<li>Thử thế thân bằng [Tính Cơ][Adjective Base] "<strong>new</strong>":</li>
+					<li>This is the server room [where the signal peaks].</li>
 					<li className="margin-bottom-20 list-none">This is the new server room.</li>
 			
 					<li className="list-none">→ Hợp lý! Khối [where the signal peaks] hoàn thành chức năng [Tính Câu][Adjective Clause] bổ nghĩa đặc điểm cho khối định danh đứng trước.</li>
@@ -765,11 +765,11 @@ export default function ThreeDC1(): React.ReactElement {
 				</ul>
 			
 			
-			<p className="margin-top-20">Trường hợp C: The system monitors [where the signal peaks].</p>
+			<p className="margin-top-20">Trường hợp C: Thử thế thân bằng [Danh Cơ][Noun Base] "<strong>something</strong>"</p>
 			
 				<ul className="list-square">
 			
-					<li>Thử thế thân bằng [Danh Cơ][Noun Base] "<strong>something</strong>":</li>
+					<li>The system monitors [where the signal peaks].</li>
 					<li className="margin-bottom-20 list-none">The system monitors something.</li>
 			
 					<li className="list-none">→ Hợp lý! Khối [where the signal peaks] đáp ứng chức năng [Danh Câu][Noun Clause] đóng vai trò làm [Danh Nhận][Noun Object] trực tiếp đứng sau hành động "monitors".</li>
