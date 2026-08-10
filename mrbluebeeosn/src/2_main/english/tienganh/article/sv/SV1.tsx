@@ -67,9 +67,9 @@ export default function SV1(): React.JSX.Element {
 			
 					<li>[<strong>Cơ</strong>][<strong>Base</strong>]: Đơn vị từ đơn lẻ gốc.</li>
 			
-					<li>[<strong>Cụm</strong>][<strong>Phrase</strong>]: Tập hợp nhiều từ kết hợp, không chứa hệ trục [Danh Chủ][Noun Subject] - [Động Cơ][Verb Base].</li>
+					<li>[<strong>Cụm</strong>][<strong>Phrase</strong>]: Tập hợp nhiều từ kết hợp, không chứa hệ trục [Danh Chủ][Noun Subject] - [Thời-Thuần Động Cơ][Tense-Bare Verb Base].</li>
 			
-					<li>[<strong>Câu</strong>][<strong>Clause</strong>]: Khối cấu trúc hoàn chỉnh chứa hệ trục [Danh Chủ][Noun Subject] - [Động Cơ][Verb Base].</li>
+					<li>[<strong>Câu</strong>][<strong>Clause</strong>]: Khối cấu trúc hoàn chỉnh chứa hệ trục [Danh Chủ][Noun Subject] - [Thời-Thuần Động Cơ][Tense-Bare Verb Base].</li>
 			
 				</ul>
 
@@ -118,7 +118,7 @@ export default function SV1(): React.JSX.Element {
       
       <p className="margin-top-20 text-indent-whole"><strong>Nhóm 2</strong>: [<strong>Thuần Động Cơ</strong>][<strong>Bare Verb Base</strong>]</p>
 
-      <p className="text-indent-whole">Nhóm giữ nguyên hình thái gốc nguyên bản, tuyệt đối không chia theo thời hay chủ ngữ.</p>
+      <p className="text-indent-whole">Nhóm giữ nguyên hình thái gốc nguyên bản, tuyệt đối không chia theo thời hay thực thể khơi nguồn.</p>
 
         <ul className="list-square">
       
@@ -160,7 +160,7 @@ export default function SV1(): React.JSX.Element {
 				<ol>
       
           <li value="1">[<strong>Rễ Động Cơ</strong>][<strong>Root Verb Base</strong>]: learn, speak, build</li>
-          <li className="margin-bottom-20 list-none">Hành động ở dạng [Rễ Động Cơ][Root Verb Base] nguyên thủy cốt lõi nhất, chưa thêm bớt hay kết hợp với bất kỳ hành động nào khác.</li>
+          <li className="margin-bottom-20 list-none">Hành động ở dạng nguyên thủy cốt lõi nhất, chưa thêm bớt hay kết hợp với bất kỳ hành động nào khác.</li>
       
           <li value="2">[<strong>Hạt Động Cơ</strong>][<strong>Particle Verb Base</strong>]: to, in, on, at, by</li>
           <li className="margin-bottom-20 list-none">[Hạt] "to" đơn lẻ đóng vai trò hạt nhân đầu tiên đứng trước mọi khối hành động để kích hoạt trạng thái nguyên bản. Các [Hạt] như in, on, at, by đơn lẻ đứng sau đóng vai trò định hướng hành động để chỉ rõ không gian hoặc phương thức thực hiện.</li>
@@ -187,10 +187,10 @@ export default function SV1(): React.JSX.Element {
           <li className="margin-bottom-20 list-none">Sự hợp nhất tuyến tính giữa [Thái] độ, [Áp] đặt thực tế và hành động [Thuần] khiết.</li>
 
           <li value="10">[<strong>Thời Thuần Động Cơ</strong>][<strong>Tense Bare Verb Base</strong>]: did speak, does build</li>
-          <li className="margin-bottom-20 list-none">Trạng thái [Thời] gian và hành động [Thuần] khiết song hành, được ngăn cách bằng một khoảng trắng.</li>
+          <li className="margin-bottom-20 list-none">Trạng thái [Thời] gian và hành động [Thuần] khiết song hành, được ngăn cách bởi một khoảng trắng.</li>
 
-          <li value="11">[<strong>Thời-Thuần Động Cơ</strong>][<strong>Tense-Bare Verb Base</strong>]: spoke, speaks, builds</li>
-          <li className="margin-bottom-20 list-none">Trạng thái [Thời] gian và hành động [Thuần] khiết hòa tan, tích hợp gọn gàng vào một chữ duy nhất.</li>
+          <li value="11">[<strong>Thời-Thuần Động Cơ</strong>][<strong>Tense-Bare Verb Base</strong>]: spoke, speaks, builds, works</li>
+          <li className="margin-bottom-20 list-none">Hành động chính mang thời (chia thì đơn), tích hợp trọn vẹn trạng thái [Thời] gian và hành động [Thuần] khiết hòa tan gọn gàng vào một chữ duy nhất.</li>
       
           <li value="12">[<strong>Tiếp Động Cơ</strong>][<strong>Progressive Verb Base</strong>]: learning, speaking, building</li>
           <li className="margin-bottom-20 list-none">Hành động mang đuôi -ing, biểu thị tính chất đang [Tiếp] diễn, kéo dài.</li>
@@ -216,29 +216,7 @@ export default function SV1(): React.JSX.Element {
 
 			<p>📌 <strong>QUY TẮC CỐT LÕI</strong>:</p>
 
-			<p className="margin-top-20">"Khi bất kỳ họ [Cơ][Base] nào thuộc 16 mục trên kéo theo các [Danh Nhận][Noun Object], [Trạng Cơ][Adverb Base], [Trạng Cụm][Adverb Phrase], hoặc [Trạng Câu][Adverb Clause] phía sau, toàn bộ khối đó lập tiếp chuyển đổi cấu trúc và được dán nhãn thành dạng [Cụm][Phrase] tương ứng của chính nó."</p>
-
-			<p className="margin-top-20">Bất kỳ hình thái nào ở trên khi được đóng gói sẽ đi làm các chức năng: [Danh Cơ][Noun Base], [Tính Cơ][Adjective Base], hoặc [Trạng Cơ][Adverb Base] tùy theo vị trí neo của chúng.</p>
-			
-				<ol>
-			
-					<li>[<strong>Giới Cơ</strong>][<strong>Prepositional Base</strong>]: Đơn vị gốc liên kết vị trí, không gian, thời gian đơn lẻ như in, on, at, to, under.</li>
-			
-					<li>[<strong>Phức Giới Cơ</strong>][<strong>Complex Prepositional Base</strong>]: Tổ hợp nhiều đơn vị liên kết vận hành đồng bộ như because of, in front of, thanks to, due to.</li>
-			
-					<li>[<strong>Liên Cơ</strong>][<strong>Connector Base</strong>]: Đơn vị nối giữ vai trò thiết lập quan hệ phụ thuộc hoặc liên kết giữa các thành phần cấu trúc.</li>
-
-					<li>[<strong>Động Cụm</strong>][<strong>Verb Phrase</strong>]: Khối hành động chứa nhiều yếu tố kết hợp, không chứa hệ trục [S][V]. Hình thái này sẽ đi làm các chức năng: [Danh Cụm][Noun Phrase], [Tính Cụm][Adjective Phrase], hoặc [Trạng Cụm][Adverb Phrase].</li>
-			
-					<li>[<strong>Giới Cụm</strong>][<strong>Prepositional Phrase</strong>]: Khối liên kết không chứa xung lực hành động, không chứa hệ trục [S][V]. Hình thái này sẽ đi làm các chức năng đặc thù: [Tính Cụm][Adjective Phrase] hoặc [Trạng Cụm][Adverb Phrase].</li>
-			
-					<li>[<strong>Phức Giới Cụm</strong>][<strong>Complex Prepositional Phrase</strong>]: Khối liên kết xây dựng từ [Phức Giới Cơ][Complex Prepositional Base] kết hợp phần bổ nghĩa, không chứa hệ trục [S][V].</li>
-
-					<li>[<strong>Động Câu</strong>][<strong>Verb Clause</strong>]: Khối hành động chứa một cấu trúc [Câu][Clause] hoàn chỉnh, có chứa hệ trục [S][V]. Hình thái này sẽ đi làm các chức năng: [Danh Câu][Noun Clause], [Tính Câu][Adjective Clause], hoặc [Trạng Câu][Adverb Clause].</li>
-			
-					<li>[<strong>Hiển-Liên Động Câu</strong>][<strong>Connector Verb Clause</strong>]: Khối hành động phức có chứa hệ trục [S][V], bắt đầu bằng [Liên Cơ][Connector Base] (như who, which, that, how, because) để thiết lập mối quan hệ phụ thuộc.</li>
-			
-				</ol>
+			<p className="margin-top-20">📌 QUY TẮC CỐT LÕI: "Khi bất kỳ họ [Cơ][Base] nào thuộc 16 mục trên kéo theo các [Danh Nhận][Noun Object], [Trạng Cơ][Adverb Base], [Trạng Cụm][Adverb Phrase], hoặc [Trạng Câu][Adverb Clause] phía sau, toàn bộ khối đó lập tức chuyển đổi cấu trúc và được dán nhãn thành dạng [Cụm][Phrase] tương ứng của chính nó."</p>
 			
 
 			{/* V.  */}
@@ -301,14 +279,14 @@ export default function SV1(): React.JSX.Element {
 
 			<h4 className="margin-y-40">2. Hình thái [Động Cụm][Verb Phrase]</h4>
 
-			<p className="text-indent-whole">Đơn vị hành động chứa nhiều yếu tố kết hợp, cấu trúc không chứa hệ trục [S][V]. Khi các dạng [Cơ][Base] kết hợp với thành phần phụ trợ sau nó, chúng dán nhãn thành dạng cụm tương ứng:</p>
+			<p className="text-indent-whole">Đơn vị hành động chứa nhiều yếu tố kết hợp, cấu trúc không chứa hệ trục [Danh Chủ][Noun Subject] - [Thời-Thuần Động Cơ][Tense-Bare Verb Base]. Khi các dạng [Cơ][Base] kết hợp với thành phần phụ trợ sau nó, chúng dán nhãn thành dạng cụm tương ứng:</p>
 
 			<ul className="list-square">
 			
 					<li>[Learning a new language] requires patience.</li>
 					<li className="margin-bottom-20 list-none">[Việc học một ngôn ngữ mới] đòi hỏi sự kiên nhẫn.</li>
 			
-					<li className="list-none">Hình thái: [Learning a new language] - [Tiếp Động Cụm][Progressive Verb Phrase] cấu thành khối hành động chứa nhiều yếu tố kết hợp và không chứa hệ trục [S][V].</li>
+					<li className="list-none">Hình thái: [Learning a new language] - [Tiếp Động Cụm][Progressive Verb Phrase] cấu thành khối hành động chứa nhiều yếu tố kết hợp và không chứa hệ trục [Danh Chủ][Noun Subject] - [Thời-Thuần Động Cơ][Tense-Bare Verb Base].</li>
 			
 					<li className="margin-bottom-20 list-none">Chức năng: [Learning a new language] - [Danh Cụm][Noun Phrase] đứng ở vị trí đầu câu để làm [Danh Chủ][Noun Subject] điều phối thông tin.</li>
 			
@@ -319,9 +297,9 @@ export default function SV1(): React.JSX.Element {
 					<li>She promised [to finish the report].</li>
 					<li className="margin-bottom-20 list-none">Cô ấy đã hứa [hoàn thành bản báo cáo].</li>
 			
-					<li className="list-none">Hình thái: [to finish the report] - [Hạt Thuần Động Cụm][Particle Bare Verb Phrase] cấu thành khối hành động chứa nhiều yếu tố kết hợp và không chứa hệ trục [S][V].</li>
+					<li className="list-none">Hình thái: [to finish the report] - [Hạt Thuần Động Cụm][Particle Bare Verb Phrase] cấu thành khối hành động chứa nhiều yếu tố kết hợp và không chứa hệ trục [Danh Chủ][Noun Subject] - [Thời-Thuần Động Cơ][Tense-Bare Verb Base].</li>
 			
-					<li className="margin-bottom-20 list-none">Chức năng: [to finish the report] - [Danh Cụm][Noun Phrase] đứng sau [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "promised" để làm [Danh Nhận][Noun Object].</li>
+					<li className="margin-bottom-20 list-none">Chức năng: [to finish the report] - [Danh Cụm][Noun Phrase] đứng sau [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "promised" để làm [Danh Nhận][Noun Object] thực thi [Tiếp Động Cơ][Progressive Verb Base].</li>
 			
 				</ul>
 			
@@ -331,9 +309,9 @@ export default function SV1(): React.JSX.Element {
 					<li>The children [playing in the park] are laughing.</li>
 					<li className="margin-bottom-20 list-none">Những đứa trẻ [đang chơi trong công viên] đang cười.</li>
 			
-					<li className="list-none">Hình thái: [playing in the park] - [Tiếp Động Cụm][Progressive Verb Phrase] bắt đầu bằng [Tiếp Động Cơ][Progressive Verb Base] "playing" kết hợp với [Giới Cụm][Prepositional Phrase] "in the park" để bổ nghĩa địa điểm, không chứa hệ trục [S][V].</li>
+					<li className="list-none">Hình thái: [playing in the park] - [Tiếp Động Cụm][Progressive Verb Phrase] biểu thị khối hành động chứa nhiều yếu tố kết hợp và không chứa hệ trục [Danh Chủ][Noun Subject] - [Thời-Thuần Động Cơ][Tense-Bare Verb Base], bắt đầu bằng [Tiếp Động Cơ][Progressive Verb Base] dạng V-ing.</li>
 			
-					<li className="margin-bottom-20 list-none">Chức năng: [playing in the park] - [Tính Cụm][Adjective Phrase] đứng ngay sau đối tượng khối [Danh Chủ][Noun Subject] "The children", "những đứa trẻ" nhằm mô tả mức độ đặc điểm của [Tính Cơ][Adjective Base] này.</li>
+					<li className="margin-bottom-20 list-none">Chức năng: [playing in the park] - [Tính Cụm][Adjective Phrase] đứng ngay sau đối tượng những đứa trẻ nhằm mô tả mức độ đặc điểm của [Tính Cơ][Adjective Base] này.</li>
 			
 				</ul>
 			
@@ -343,7 +321,7 @@ export default function SV1(): React.JSX.Element {
 					<li>He woke up early [to catch the train].</li>
 					<li className="margin-bottom-20 list-none">Anh ấy đã thức dậy sớm [để bắt kịp chuyến tàu].</li>
 			
-					<li className="list-none">Hình thái: [to catch the train] - [Hạt Thuần Động Cụm][Particle Bare Verb Phrase] bắt đầu bằng [Hạt Thuần Động Cơ][Particle Bare Verb Base] "to catch" kết hợp với [Danh Khối][Noun Block] "the train" để làm đối tượng tiếp nhận hành động, không chứa hệ trục [S][V].</li>
+					<li className="list-none">Hình thái: [to catch the train] - [Hạt Thuần Động Cụm][Particle Bare Verb Phrase] xác định khối hành động chứa nhiều yếu tố kết hợp và không chứa hệ trục [Danh Chủ][Noun Subject] - [Thời-Thuần Động Cơ][Tense-Bare Verb Base], bắt đầu bằng [Tiếp Động Cơ][Progressive Verb Base] dạng V-ing trong các cấu trúc biến thể hoặc liên kết mở rộng.</li>
 			
 					<li className="list-none">Chức năng: [to catch the train] - [Trạng Cụm][Adverb Phrase] gắn vào phía sau nhằm làm rõ mục đích cho phần thông tin trước đó.</li>
 			
@@ -353,14 +331,14 @@ export default function SV1(): React.JSX.Element {
 
 			<h4 className="margin-y-40">3. Hình thái [Giới Cụm][Prepositional Phrase]</h4>
 
-			<p className="text-indent-whole">Khối liên kết không gian, thời gian hoặc sở hữu, hoàn toàn tách biệt khỏi cấu trúc hành động và không chứa hệ trục [S][V]. Hình thái này chuyên biệt tạo nên hai chức năng [Tính Cụm][Adjective Phrase] và [Trạng Cụm][Adverb Phrase].</p>
+			<p className="text-indent-whole">Khối liên kết không gian, thời gian hoặc sở hữu, hoàn toàn tách biệt khỏi cấu trúc hành động và không chứa hệ trục [Danh Chủ][Noun Subject] - [Thời-Thuần Động Cơ][Tense-Bare Verb Base]. Hình thái này chuyên biệt tạo nên hai chức năng [Tính Cụm][Adjective Phrase] và [Trạng Cụm][Adverb Phrase].</p>
 			
 				<ul className="list-square">
 			
 					<li>The cat [under the black car] is sleeping.</li>
 					<li className="margin-bottom-20 list-none">Con mèo [ở dưới chiếc xe màu đen] thì đang ngủ.</li>
 			
-					<li className="list-none">Hình thái: [under the black car] - [Giới Cụm][Prepositional Phrase] cấu thành khối bắt bằng một [Giới Cơ][Prepositional Base] mốc vị trí.</li>
+					<li className="list-none">Hình thái: [under the black car] - [Giới Cụm][Prepositional Phrase] cấu thành khối bắt đầu bằng một [Giới Cơ][Prepositional Base] mốc vị trí.</li>
 			
 					<li className="margin-bottom-20 list-none">Chức năng: [under the black car] - [Tính Cụm][Adjective Phrase] neo ngay sau đối tượng con mèo để mô tả đặc điểm vị trí nhận diện riêng biệt cho nó.</li>
 			
@@ -382,7 +360,7 @@ export default function SV1(): React.JSX.Element {
 
 			<h4 className="margin-y-40">4. Hình thái [Hiển-Liên Động Câu][Connector Verb Clause]</h4>
 
-			<p className="text-indent-whole">Đơn vị hành động phức cao cấp, chứa một cấu trúc [Câu][Clause] hoàn chỉnh ở bên trong có chứa hệ trục [S][V].</p>
+			<p className="text-indent-whole">Đơn vị hành động phức cao cấp, chứa một cấu trúc [Câu][Clause] hoàn chỉnh ở bên trong có chứa hệ trục [Danh Chủ][Noun Subject] - [Thời-Thuần Động Cơ][Tense-Bare Verb Base].</p>
 
 
 			<ul className="list-square">
@@ -413,7 +391,7 @@ export default function SV1(): React.JSX.Element {
 					<li>The laptop [which I bought last week] works perfectly.</li>
 					<li className="margin-bottom-20 list-none">Chiếc máy tính xách tay [mà tôi mua tuần trước] hoạt động hoàn hảo.</li>
 			
-					<li className="list-none">Hình thái: [which I bought last week] - [Hiển-Liên Động Câu][Connector Verb Clause] định hình khối hành động phức có chứa hệ trục [S][V] "I bought last week", bắt đầu bằng [Liên Cơ][Connector Base] "which".</li>
+					<li className="list-none">Hình thái: [which I bought last week] - [Hiển-Liên Động Câu][Connector Verb Clause] định hình khối hành động phức có chứa hệ trục [Danh Chủ][Noun Subject] "I" và [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "bought", bắt đầu bằng [Liên Cơ][Connector Base] "which".</li>
 			
 					<li className="margin-bottom-20 list-none">Chức năng: [which I bought last week] - [Tính Câu][Adjective Clause] thực hiện nhiệm vụ đứng sau định danh và mô tả đặc điểm riêng cho [Danh Cơ][Noun Base] laptop.</li>
 			
@@ -425,7 +403,7 @@ export default function SV1(): React.JSX.Element {
 					<li>We cancelled the picnic [because it rained heavily].</li>
 					<li className="margin-bottom-20 list-none">Chúng tôi đã hủy buổi dã ngoại [vì trời mưa to].</li>
 			
-					<li className="list-none">Hình thái: [because it rained heavily] - [Hiển-Liên Động Câu][Connector Verb Clause] thể hiện khối hành động phức có chứa hệ trục [S][V] "it rained heavily", bắt đầu bằng [Liên Cơ][Connector Base] "because".</li>
+					<li className="list-none">Hình thái: [because it rained heavily] - [Hiển-Liên Động Câu][Connector Verb Clause] thể hiện khối hành động phức có chứa hệ trục [Danh Chủ][Noun Subject] "it" và [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "rained", bắt đầu bằng [Liên Cơ][Connector Base] "because".</li>
 			
 					<li className="list-none">Chức năng: [because it rained heavily] - [Trạng Câu][Adverb Clause] chịu trách nhiệm cung cấp hoàn cảnh nguyên nhân cho toàn bộ hành động hủy bỏ trước đó.</li>
 			
@@ -436,7 +414,7 @@ export default function SV1(): React.JSX.Element {
 
 			<h3 className="margin-y-50 text-center">VI. Hiện Tượng [Ẩn-Liên Động Câu][Zero-Connector Verb Clause]</h3>
 
-			<p>Trong tiếng Anh tự nhiên, người bản ngữ rất thường xuyên lược bỏ hoàn toàn thành phần kết nối bề nổi. Nếu khối này ẩn đi thành phần kết nối nhưng vẫn chứa hệ trục [S][V] nằm bên trong cấu trúc lớn hơn, nó thực chất là một dạng [Câu][Clause] đặc thù.</p>
+			<p>Trong tiếng Anh tự nhiên, người bản ngữ rất thường xuyên lược bỏ hoàn toàn thành phần kết nối bề nổi. Nếu khối này ẩn đi thành phần kết nối nhưng vẫn chứa hệ trục [Danh Chủ][Noun Subject] - [Thời-Thuần Động Cơ][Tense-Bare Verb Base] nằm bên trong cấu trúc lớn hơn, nó thực chất là một dạng [Câu][Clause] đặc thù.</p>
 
 			<p>Lúc này, khối [Ẩn-Liên Động Câu][Zero-Connector Verb Clause] hoàn toàn không chứa [Liên Cơ][Connector Base], hiển thị cấu hình giống hệt như một câu độc lập nhưng thực chất phải neo chặt vào hệ thống để làm tròn 3 chức năng:</p>
 
@@ -448,7 +426,7 @@ export default function SV1(): React.JSX.Element {
 					<li>I believe [you will pass the exam].</li>
 					<li className="margin-bottom-20 list-none">Tôi tin [bạn sẽ vượt qua kỳ thi].</li>
 			
-					<li className="list-none">Hình thái: [you will pass the exam] - [Ẩn-Liên Động Câu][Zero-Connector Verb Clause] đã ẩn đi thành phần liên kết bề nổi, bên trong chứa hệ trục [Danh Chủ][Noun Subject] "you" và [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "will pass" (với "will" là [Áp-Thái Thuần Động Cơ][Assertive-Modal Bare Verb Base] kết hợp [Thuần Động Cơ][Bare Verb Base] "pass").</li>
+					<li className="list-none">Hình thái: [you will pass the exam] - [Ẩn-Liên Động Câu][Zero-Connector Verb Clause] đã ẩn đi thành phần liên kết bề nổi, bên trong chứa hệ trục [Danh Chủ][Noun Subject] "you" và khối hành động gồm [Áp-Thái Thuần Động Cơ][Assertive-Modal Bare Verb Base] "will" kết hợp với [Thuần Động Cơ][Bare Verb Base] "pass".</li>
 			
 					<li className="list-none">Chức năng: [you will pass the exam] - [Danh Câu][Noun Clause] đứng sau [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "believe" như một [Danh Nhận][Noun Object] thực thi.</li>
 			
