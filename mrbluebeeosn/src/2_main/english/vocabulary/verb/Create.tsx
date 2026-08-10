@@ -766,7 +766,7 @@ export default function Create(): React.JSX.Element {
         </ul>
 
 
-      <p className="margin-top-20 text-indent-whole">Case 2: Kỹ thuật nâng cấp từ [Cụm][Phrase] lên [Câu][Clause]</p>
+      <p className="margin-top-20 text-indent-whole"><strong>Case 2</strong>: <strong>Kỹ thuật nâng cấp từ</strong> [<strong>Cụm</strong>][<strong>Phrase</strong>] <strong>lên</strong> [<strong>Câu</strong>][<strong>Clause</strong>]</p>
       
         <ul className="list-square">
       

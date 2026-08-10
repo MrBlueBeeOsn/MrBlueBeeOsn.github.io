@@ -488,20 +488,26 @@ export default function SV1(): React.JSX.Element {
 
 				<ul className="list-square">
 			
-					<li>[Finding {'{the key <to the room>}'}] is difficult.</li>
-					<li className="margin-bottom-20 list-none">[Việc tìm kiếm {'{chiếc chìa khóa <của căn phòng đó>}'}] thì khó khăn.</li>
+					<li>[Finding the key {'{which opens <what is hidden>}'}] is difficult.</li>
+					<li className="margin-bottom-20 list-none">[Việc tìm kiếm chiếc chìa khóa {'{mà mở <thứ đang bị giấu>}'}] thì khó khăn.</li>
+					
+					<li><strong>Tầng 3</strong> &lt;&gt;:</li>
 
-					<li className="list-none">Hình thái lớp trong cùng &lt; &gt;: &lt;to the room&gt; là một [Giới Cụm][Prepositional Phrase] bắt đầu bằng [Giới Cơ][Prepositional Base] to.</li>
+					<li className="list-none">Hình thái lớp trong cùng &lt;&gt;: &lt;what is hidden&gt; là một [Hiển-Liên Động Câu][Connector Verb Clause] bắt đầu bằng [Liên Cơ][Connector Base] what.</li>
 
-					<li className="margin-bottom-20 list-none">Chức năng lớp trong cùng &lt; &gt;: &lt;to the room&gt; đóng vai trò là một [Tính Cụm][Adjective Phrase] neo ngay sau [Danh Cơ][Noun Base] key để bổ nghĩa và định danh trực tiếp cho chiếc chìa khóa đó.</li>
+					<li className="margin-bottom-20 list-none">Chức năng lớp trong cùng &lt;&gt;: &lt;what is hidden&gt; đóng vai trò là một [Danh Câu][Noun Clause] làm điểm tựa [Danh Nhận][Noun Object] dưới sự điều phối của hành động mở opens.</li>
 
-					<li className="list-none">Hình thái lớp trung gian {'{}'}: {'{the key <to the room>}'} là một [Rễ Danh Cụm][Root Noun Phrase] hình thành từ khối [Rễ Danh Cơ][Root Noun Base] nguyên bản key kết hợp [Định Cơ][Determiner Base] the, ở trạng thái mộc hoàn toàn, không ăn diện thêm phụ kiện, kết hợp phần [Giới Cụm][Prepositional Phrase] bổ nghĩa đi kèm.</li>
+					<li><strong>Tầng 2</strong> {'{}'}:</li>
 
-					<li className="margin-bottom-20 list-none">Chức năng lớp trung gian {'{}'}: {'{the key <to the room>}'} đóng vai trò là một [Danh Cụm][Noun Phrase] làm điểm tựa [Danh Nhận][Noun Object] chịu sự điều phối trực tiếp của hành động thực thi Finding.</li>
+					<li className="list-none">Hình thái lớp trung gian {'{}'}: {'{which opens <what is hidden>}'} là một [Hiển-Liên Động Câu][Connector Verb Clause] bắt đầu bằng [Liên Cơ][Connector Base] which.</li>
 
-					<li className="list-none">Hình thái tổng thể bao ngoài []: [Finding {'{the key <to the room>}'}] là một [Tiếp Tầng Động Cụm][Progressive Tiered Verb Phrase] bắt đầu bằng [Động Cơ][Verb Base] dạng V-ing.</li>
+					<li className="margin-bottom-20 list-none">Chức năng lớp trung gian {'{}'}: {'{which opens <what is hidden>}'} đóng vai trò là một [Tính Câu][Adjective Clause] neo ngay sau [Danh Cơ][Noun Base] key để bổ nghĩa và định danh trực tiếp cho chiếc chìa khóa đó.</li>
 
-					<li className="list-none">Chức năng lớp tổng thể bao ngoài []: [Finding {'{the key to the room}'}] vận hành đồng bộ như một khối [Danh Cụm][Noun Phrase] lớn giữ vai trò làm [Danh Chủ][Noun Subject] điều phối hệ trục thông tin hành động cho toàn bộ [Câu Lớn][Sentence].</li>
+					<li><strong>Tầng 1</strong> []:</li>
+
+					<li className="list-none">Hình thái tổng thể bao ngoài []: [Finding the key {'{which opens <what is hidden>}'}] là một khối [Tiếp Động Cụm][Progressive Verb Phrase] bắt đầu bằng [Tiếp Động Cơ][Progressive Verb Base] dạng V-ing Finding.</li>
+
+					<li className="list-none">Chức năng lớp tổng thể bao ngoài []: [Finding the key {'{which opens <what is hidden>}'}] vận hành đồng bộ như một khối [Danh Cụm][Noun Phrase] lớn giữ vai trò làm [Danh Chủ][Noun Subject] điều phối hệ trục thông tin hành động cho toàn bộ [Câu Lớn][Sentence].</li>
 			
 				</ul>
 			
