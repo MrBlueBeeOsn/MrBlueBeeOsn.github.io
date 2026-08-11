@@ -52,7 +52,7 @@ export default function NineBox1(): React.JSX.Element {
 
 			<p>Nếu sở hữu tư duy hệ thống—như cách một kỹ sư phần mềm vận hành các luồng mã nguồn hay một nhà phân tích xử lý các kiến trúc cơ sở dữ liệu—bạn sẽ luôn cảm thấy bế tắc trước cách tiếp cận ngôn ngữ truyền thống. Những quy tắc rời rạc, những định nghĩa mơ hồ và hàng loạt ngoại lệ khiến bộ óc logic của bạn liên tục đòi hỏi một câu trả lời thỏa đáng: "Mô hình cấu trúc cốt lõi ở đây là gì?"</p>
 
-			<p>Thực tế, ngôn ngữ không phải là một tập hợp các quy luật ngẫu nhiên. Nó là một hệ điều hành được vận hành bởi logic tối giản. Để làm chủ tiếng Anh mà không bị rối bời, chúng ta chuyển đổi hoàn toàn sang [Tư duy Chức năng][Functional Thinking].</p>
+			<p>Thực tế, ngôn ngữ không phải là một tập hợp các quy luật ngẫu nhiên. Nó là một hệ điều hành được vận hành bởi logic tối giản. Để làm chủ tiếng Anh mà không bị rối bời, chúng ta chuyển đổi hoàn toàn sang [Functional Thinking].</p>
 			
 			<p>Hệ thống [<strong>Kiến trúc Tư duy 3x3</strong>] phối hợp cùng bộ quy ước song song dưới đây giúp bạn đóng gói và xử lý tiếng Anh chính xác như cách máy tính phân loại và biên dịch các kiểu dữ liệu.</p>
 			
@@ -73,9 +73,9 @@ export default function NineBox1(): React.JSX.Element {
 			
 				</ul>
 
-			<p className="margin-top-20">Bằng cách liên kết hai chiều này, mọi cấu trúc tiếng Anh được làm sạch hoàn toàn về mặt thuật ngữ và đưa vào một ma trận đồng bộ tuyệt đối. Khi ghép các khối lại, 3 cấp độ [Cơ][Base], [Cụm][Phrase], [Câu][Clause] luôn được viết hoa để biểu thị tính đóng gói dữ liệu:</p>
+			<p className="margin-top-20">Bằng cách liên kết hai chiều này, mọi cấu trúc tiếng Anh được làm sạch hoàn toàn về mặt thuật ngữ và đưa vào một ma trận đồng bộ tuyệt đối.</p>
 
-			<p className="margin-top-20"></p>
+			<p>Khi ghép các khối lại, 3 cấp độ [Cơ][Base], [Cụm][Phrase], [Câu][Clause] luôn được viết hoa để biểu thị tính đóng gói dữ liệu:</p>
 			
 				<ul className="list-square">
 			
@@ -222,7 +222,7 @@ export default function NineBox1(): React.JSX.Element {
 					<li>[Configuring] requires proper formatting rules.</li>
 					<li className="margin-bottom-20 list-none">[Việc cấu hình] yêu cầu các quy tắc định dạng phù hợp.</li>
 			
-					<li className="list-none">Hình thái: [Configuring] - [Tiếp Động Cơ][Progressive Verb Base] hình thành từ khối [Rễ Động Cơ][Root Verb Base] nguyên bản "configure" mặc thêm hậu tố "-ing" để thay đổi diện mạo bên ngoài thành một khối cấp độ [Cơ][Base].</li>
+					<li className="list-none">Hình thái: [Configuring] - [Tiếp Động Cơ][Progressive Verb Base] hình thành từ khối [Rễ Động Cơ][Root Verb Base] "configure" mặc thêm hậu tố "-ing" để thay đổi diện mạo bên ngoài thành một khối cấp độ [Cơ][Base].</li>
 			
 					<li className="list-none">Chức năng: [Configuring] – [Danh Cơ][Noun Base] đóng vai trò làm [Danh Chủ][Noun Subject] chịu trách nhiệm thực thi câu lớn.</li>
 			
@@ -236,7 +236,7 @@ export default function NineBox1(): React.JSX.Element {
 					<li>The system supports [debugging].</li>
 					<li className="margin-bottom-20 list-none">Hệ thống hỗ trợ [việc gỡ lỗi].</li>
 			
-					<li className="list-none">Hình thái: [debugging] - [Tiếp Động Cơ][Progressive Verb Base] hình thành từ khối [Rễ Động Cơ][Root Verb Base] nguyên bản "debug" mặc thêm hậu tố "-ing" để thay đổi diện mạo bên ngoài thành một khối cấp độ [Cơ][Base].</li>
+					<li className="list-none">Hình thái: [debugging] - [Tiếp Động Cơ][Progressive Verb Base] hình thành từ khối [Rễ Động Cơ][Root Verb Base] "debug" mặc thêm hậu tố "-ing" để thay đổi diện mạo bên ngoài thành một khối cấp độ [Cơ][Base].</li>
 			
 					<li className="list-none">Chức năng: [debugging] – [Danh Cơ][Noun Base] đóng vai trò làm [Danh Nhận][Noun Object] đứng sau làm mục tiêu chịu tác động trực tiếp từ hành động "supports".</li>
 			
@@ -250,7 +250,7 @@ export default function NineBox1(): React.JSX.Element {
 					<li>The analyst provided an [integrated] source code file.</li>
 					<li className="margin-bottom-20 list-none">Nhà phân tích đã cung cấp một tệp mã nguồn [được tích hợp].</li>
 			
-					<li className="list-none">Hình thái: [integrated] - [Hoàn Động Cơ][Perfect Verb Base] hình thành từ khối [Rễ Động Cơ][Root Verb Base] nguyên bản "integrate" mặc thêm hậu tố "-ed" để thay đổi diện mạo bên ngoài thành một khối cấp độ [Cơ][Base].</li>
+					<li className="list-none">Hình thái: [integrated] - [Hoàn Động Cơ][Perfect Verb Base] hình thành từ khối [Rễ Động Cơ][Root Verb Base] "integrate" mặc thêm hậu tố "-ed" để thay đổi diện mạo bên ngoài thành một khối cấp độ [Cơ][Base].</li>
 			
 					<li className="list-none">Chức năng: [integrated] – [Tính Cơ][Adjective Base] đứng ngay trước đối tượng để mô tả thuộc tính.</li>
 			
@@ -264,7 +264,7 @@ export default function NineBox1(): React.JSX.Element {
 					<li>The system script formats the layout [productively].</li>
 					<li className="margin-bottom-20 list-none">Kịch bản hệ thống định dạng bố cục [một cách đầy năng suất].</li>
 			
-					<li className="list-none">Hình thái: [productively] - [Diện Trạng Cơ][Modified Adverb Base] hình thành từ khối [Rễ Động Cơ][Root Verb Base] nguyên bản "produce" kết hợp hậu tố "-tive" và "-ly" để thay đổi diện mạo bên ngoài thành một khối cấp độ [Cơ][Base].</li>
+					<li className="list-none">Hình thái: [productively] - [Diện Trạng Cơ][Modified Adverb Base] hình thành từ khối [Rễ Động Cơ][Root Verb Base] "produce" kết hợp hậu tố "-tive" và "-ly" để thay đổi diện mạo bên ngoài thành một khối cấp độ [Cơ][Base].</li>
 			
 					<li className="list-none">Chức năng: [productively] – [Trạng Cơ][Adverb Base] đứng sau nhằm bổ nghĩa cách thức hành động cho việc định dạng.</li>
 			
@@ -314,7 +314,7 @@ export default function NineBox1(): React.JSX.Element {
 			
 					<li className="list-none">Hình thái: [to upgrade the cloud infrastructure] - [Hạt Thuần Động Cụm][Particle Bare Verb Phrase] hình thành từ sự kết hợp giữa hạt nhân [Hạt Thuần Động Cơ][Particle Bare Verb Base] "to upgrade" và mở rộng hành động phía sau.</li>
 			
-					<li className="list-none">Chức năng: [to upgrade the cloud infrastructure] – [Danh Cụm][Noun Phrase] đóng vai trò làm một khối làm [Danh Nhận][Noun Object] đứng sau làm mục tiêu chịu tác động trực tiếp từ hành động "choose".</li>
+					<li className="list-none">Chức năng: [to upgrade the cloud infrastructure] – [Danh Cụm][Noun Phrase] đóng vai trò làm [Danh Nhận][Noun Object] đứng sau làm mục tiêu chịu tác động trực tiếp từ hành động "choose".</li>
 			
 				</ul>
 			
@@ -499,7 +499,7 @@ export default function NineBox1(): React.JSX.Element {
 
 			<p>Trong các cấu trúc phức tạp, các Module sẽ lồng vào nhau theo kiến trúc hình khối.</p>
 
-			<p><strong>Quy ước</strong>: Dấu [] <strong>bao quanh tầng ngoài và dấu</strong> {'{}'} <strong>bao quanh tầng lồng bên trong</strong>. Hệ thống phân tầng này sẽ quét và lấy trọn vẹn cả các khối [Rễ Động Cơ][Root Verb Base] điều phối hành động và các thông số cài đặt bối cảnh đi kèm.</p>
+			<p><strong>Quy ước</strong>: Dấu [] <strong>bao quanh tầng ngoài và dấu</strong> {'{}'} <strong>bao quanh tầng lồng bên trong</strong>. Hệ thống phân tầng này sẽ quét và lấy trọn vẹn cả các khối [Hạt Thuần Động Cơ][Particle Bare Verb Base] điều phối hành động và các thông số cài đặt bối cảnh đi kèm.</p>
 
 					
 			<p className="margin-top-20 text-indent-whole">Khi các khối dữ liệu lồng ghép chéo nhau theo cấu trúc hình khối, hệ thống vận hành cơ chế phân tầng để bóc tách chính xác từng lớp dữ liệu:</p>
@@ -583,7 +583,7 @@ export default function NineBox1(): React.JSX.Element {
 					<li>[Refactoring] satisfies the system demand.</li>
 					<li className="margin-bottom-20 list-none">[Việc tái cấu trúc mã nguồn] thỏa mãn yêu cầu của hệ thống.</li>
 			
-					<li className="list-none">Hình thái: [Refactoring] – [Tiếp Động Cơ][Progressive Verb Base] hình thành từ khối [Rễ Động Cơ][Root Verb Base] nguyên bản "refactor" mặc thêm hậu tố "-ing" để thay đổi diện mạo bên ngoài thành một khối cấp độ [Cơ][Base].</li>
+					<li className="list-none">Hình thái: [Refactoring] – [Tiếp Động Cơ][Progressive Verb Base] hình thành từ khối [Rễ Động Cơ][Root Verb Base] "refactor" mặc thêm hậu tố "-ing" để thay đổi diện mạo bên ngoài thành một khối cấp độ [Cơ][Base].</li>
 			
 					<li className="list-none">Chức năng: [Refactoring] – [Danh Cơ][Noun Base] đóng vai trò làm [Danh Chủ][Noun Subject], còn "the system demand" đóng vai trò làm [Danh Khối][Noun Block] làm [Danh Nhận][Noun Object].</li>
 			
@@ -597,7 +597,7 @@ export default function NineBox1(): React.JSX.Element {
 					<li>[The maintenance of cloud architecture] satisfies the system demand.</li>
 					<li className="margin-bottom-20 list-none">[Việc bảo trì kiến trúc đám mây] thỏa mãn yêu cầu của hệ thống.</li>
 			
-					<li className="list-none">Hình thái: [The maintenance of cloud architecture] – [Diện Danh Cụm][Modified Noun Phrase] hình thành từ khối [Rễ Động Cơ][Root Verb Base] nguyên bản "maintain" biến đổi thành "mainten" kết hợp hậu tố "-ance" để thay đổi diện mạo bên ngoài thành một khối cấp độ [Cụm][Phrase], kéo theo các thành phần bổ ngữ ở phía sau.</li>
+					<li className="list-none">Hình thái: [The maintenance of cloud architecture] – [Diện Danh Cụm][Modified Noun Phrase] hình thành từ khối [Rễ Động Cơ][Root Verb Base] nguyên bản "maintain" biến đổi thành "mainten" kết hợp hậu tố "-ance" và [Hạn Định Cơ][Determiner Base] "the" để thay đổi diện mạo bên ngoài thành một khối cấp độ [Cụm][Phrase], kéo theo các thành phần bổ ngữ [Giới Cụm][Prepositional Phrase] ở phía sau.</li>
 			
 					<li className="list-none">Chức năng: [The maintenance of cloud architecture] – [Danh Cụm][Noun Phrase] đóng vai trò làm [Danh Chủ][Noun Subject], còn "the system demand" đóng vai trò làm [Danh Khối][Noun Block] làm [Danh Nhận][Noun Object].</li>
 			
@@ -689,7 +689,7 @@ export default function NineBox1(): React.JSX.Element {
 					<li>The application syncs data [productively].</li>
 					<li className="margin-bottom-20 list-none">Ứng dụng đồng bộ hóa dữ liệu [một cách đầy năng suất].</li>
 			
-					<li className="list-none">Hình thái: [productively] - [Diện Trạng Cơ][Modified Adverb Base] hình thành từ khối [Hạt Thuần Động Cơ][Particle Bare Verb Base] "to produce" kết hợp hậu tố "-tive" và "-ly" để thay đổi diện mạo bên ngoài thành một khối cấp độ [Cơ][Base].</li>
+					<li className="list-none">Hình thái: [productively] - [Diện Trạng Cơ][Modified Adverb Base] hình thành từ khối [Rễ Động Cơ][Root Verb Base] "produce" kết hợp hậu tố "-tive" và "-ly" để thay đổi diện mạo bên ngoài thành một khối cấp độ [Cơ][Base].</li>
 			
 					<li className="list-none">Chức năng: [productively] – [Trạng Cơ][Adverb Base] bổ nghĩa cách thức vận hành cho hành động [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "syncs" đồng bộ hóa.</li>
 			
