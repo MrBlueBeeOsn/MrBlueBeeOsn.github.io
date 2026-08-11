@@ -338,18 +338,18 @@ export default function Create(): React.JSX.Element {
         </ul>
       
       
-      <p className="margin-top-20 text-indent-whole">[<strong>Tính Cụm</strong>][<strong>Adjective Phrase</strong>] <strong>cấu tạo từ</strong> [<strong>Rễ Tính Cụm</strong>][<strong>Root Adjective Phrase</strong>] <strong>nguyên bản</strong>:</p>
+      <p className="margin-top-20 text-indent-whole">[<strong>Tính Cụm</strong>][<strong>Adjective Phrase</strong>] <strong>cấu tạo từ</strong> [<strong>Diện Tính Cụm</strong>][<strong>Modified Adjective Phrase</strong>]:</p>
 
       <p className="margin-top-20 text-indent-whole">Ví dụ 5e:</p>
       
         <ul className="list-square">
       
-          <li>They installed a tool [efficient at creating detailed charts].</li>
-          <li className="margin-bottom-20 list-none">Họ đã cài đặt một công cụ [hiệu quả trong việc tạo ra các biểu đồ chi tiết].</li>
+          <li>We need someone [creative to design these charts].</li>
+          <li className="margin-bottom-20 list-none">Chúng tôi cần ai đó [sáng tạo để thiết kế những biểu đồ này].</li>
       
-          <li className="list-none">Hình thái: [efficient at creating detailed charts] - [Rễ Tính Cụm][Root Adjective Phrase] hình thành từ khối [Rễ Tính Cơ][Root Adjective Base] nguyên bản "efficient", ở trạng thái mộc hoàn toàn, không ăn diện thêm phụ kiện, bắt đầu bằng mã đặc điểm gốc kết hợp mở rộng [Giới Cụm][Prepositional Phrase] phía sau chứa [Tiếp Động Cụm][Progressive Verb Phrase] biến đổi từ lõi hành động sau [Giới Cơ][Prepositional Base] "at".</li>
+          <li className="list-none">Hình thái: [creative to design these charts] - [Diện Tính Cụm][Modified Adjective Phrase] hình thành từ khối [Rễ Động Cơ][Root Verb Base] nguyên bản "create" qua việc thêm hậu tố "-ive" và kết hợp mở rộng với một [Giới Cụm][Prepositional Phrase] phía sau.</li>
       
-          <li className="list-none">Chức năng: [efficient at creating detailed charts] - [Tính Cụm][Adjective Phrase] đặt ngay sau đối tượng "tool" để xác định năng lực, đặc điểm của đối tượng đó.</li>
+          <li className="list-none">Chức năng: [creative to design these charts] - [Tính Cụm][Adjective Phrase] đặt ngay sau đối tượng "someone" để xác định năng lực, đặc điểm của đối tượng đó.</li>
       
         </ul>
       
@@ -424,8 +424,6 @@ export default function Create(): React.JSX.Element {
       <h4 className="margin-y-40">3. Phân hệ [Giới Cụm][Prepositional Phrase]</h4>
       
       <p className="margin-top-20 text-indent-whole"><strong>3.1</strong> <strong>Hình thành chức năng</strong> [<strong>Tính Cụm</strong>][<strong>Adjective Phrase</strong>]</p>
-
-      <p className="margin-top-20 text-indent-whole">[<strong>Tính Cụm</strong>][<strong>Adjective Phrase</strong>] <strong>cấu tạo từ</strong> [<strong>Giới Cụm</strong>]:</p>
 
       <p className="margin-top-20 text-indent-whole">Ví dụ 7:</p>
       
