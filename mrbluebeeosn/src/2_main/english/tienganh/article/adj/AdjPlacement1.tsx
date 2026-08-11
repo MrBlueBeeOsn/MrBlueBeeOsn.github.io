@@ -48,7 +48,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 
 			</h1>
 
-			<h4 className="margin-bottom-30 text-center">ĐIỂM MẠNH TƯƠNG ĐỒNG: BƯỚC ĐỘT PHÁ GIÚP NGƯỜI VIỆT THỐNG TRỊ TIẾNG ANH HỌC THUẬT VỀ [CHỨC NĂNG TÍNH][ADJECTIVE FUNCTION]</h4>
+			<h4 className="margin-bottom-30 text-center">ĐIỂM MẠNH TƯƠNG ĐỒNG: BƯỚC ĐỘT PHÁ GIÚP NGƯỜI VIỆT THỐNG TRỊ TIẾNG ANH HỌC THUẬT VỀ CHỨC NĂNG [TÍNH][ADJECTIVE]</h4>
 
 			<p>Lối mòn tư duy kìm hãm thế hệ người học tiếng Anh tại Việt Nam chính là định kiến: cấu trúc tiếng Anh "ngược" với tiếng Việt. Chúng ta thường bị đóng khung trong quy luật sơ cấp: [Tính Cơ][Adjective Base] phải đứng trước [Danh Cơ][Noun Base].</p>
 			
@@ -61,10 +61,12 @@ export default function AdjPlacement1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>[<strong>Tính Cơ</strong>][<strong>Adjective Base</strong>] <strong>đứng trước</strong> [<strong>Danh Cơ</strong>][<strong>Noun Base</strong>] (<strong>Nhấn mạnh Đặc điểm</strong>):</li>
+					<li>[<strong>Tính Cơ</strong>][<strong>Adjective Base</strong>] <strong>đứng trước</strong> [<strong>Danh Cơ</strong>][<strong>Noun Base</strong>]:</li>
+					<li className="list-none">→ <strong>Nhấn mạnh Đặc điểm</strong></li>
 					<li className="margin-bottom-20 list-none">Dành cho các thành phần đặc tính đơn lẻ, ngắn gọn. Đặc điểm được xác lập ngay trước khi gọi tên đối tượng.</li>
 			
-					<li>[<strong>Danh Cơ</strong>][<strong>Noun Base</strong>] <strong>đứng trước thành phần bổ nghĩa</strong> (<strong>Nhấn mạnh Đối tượng</strong>):</li>
+					<li>[<strong>Danh Cơ</strong>][<strong>Noun Base</strong>] <strong>đứng trước thành phần bổ nghĩa</strong>:</li>
+					<li className="list-none">→ <strong>Nhấn mạnh Đối tượng</strong></li>
 					<li className="list-none">Khi muốn đối tượng chính làm "mỏ neo", người bản ngữ đặt [Danh Cơ][Noun Base] lên đầu, sau đó mới thả chuỗi thông tin bổ trợ phía sau bằng [Tính Cụm][Adjective Phrase] hoặc [Tính Câu][Adjective Clause].</li>
 			
 				</ul>
@@ -136,11 +138,17 @@ export default function AdjPlacement1(): React.JSX.Element {
 
 			<p className=" text-indent-whole"><strong>QUY TẮC CỐT LÕI</strong>:</p>
 
-			<p className=" text-indent-whole">Khi bất kỳ họ [Cơ][Base] nào kéo theo các [Danh Nhận], [Trạng Cơ], [Trạng Cụm], hoặc [Trạng Câu] phía sau, toàn khối đó tự động chuyển cấu trúc thành [Cụm][Phrase].</p>
+			<p className=" text-indent-whole">Khi bất kỳ họ [Cơ][Base] nào kéo theo các [Danh Nhận][Noun Object], [Trạng Cơ][Adverb Base], [Trạng Cụm][Adverb Phrase], hoặc [Trạng Câu][Adverb Clause] phía sau, toàn khối đó tự động chuyển cấu trúc thành [Cụm][Phrase].</p>
 
-			<p className=" text-indent-whole">Ví dụ:</p>
-
-			<p className=" text-indent-whole">formulating [Tiếp Động Cơ] + a strategy [Danh Nhận] ➔ formulating a strategy [Tiếp Động Cụm].</p>
+			<p className="text-indent-whole margin-top-20">Ví dụ:</p>
+			
+				<ul className="list-square">
+			
+					<li>formulating [Tiếp Động Cơ][Progressive Verb Base] + a strategy [Danh Nhận][Noun Object]</li>
+			
+					<li>➔ formulating a strategy [Tiếp Động Cụm][Progressive Verb Phrase].</li>
+			
+				</ul>
 
 			
 			<h4 className="margin-y-40">C. Nhóm Phân Loại Năng Lượng Hành Động</h4>
@@ -149,13 +157,13 @@ export default function AdjPlacement1(): React.JSX.Element {
 
         <ul className="list-square">
       
-          <li>is originating [Thời] be + [Tiếp Động Cơ] originating</li>
+          <li>is originating → [Thời][Tense] be + [Tiếp Động Cơ][Progressive Verb Base] originating</li>
 
-          <li>has been formulating [Thời + Hoàn] has + been + [Tiếp Động Cơ] formulating</li>
+          <li>has been formulating → [Thời + Hoàn][Tense + Perfect] has + been + [Tiếp Động Cơ][Progressive Verb Base] formulating</li>
       
-          <li>has originated [Thời + Hoàn] has + [Hoàn Động Cơ] originated</li>
+          <li>has originated → [Thời][Tense] has + [Hoàn Động Cơ][Perfect Verb Base] originated</li>
       
-          <li>formulates/originated [Thời-Thuần Động Cơ] tích hợp</li>
+          <li>formulates/originated → [Thời-Thuần Động Cơ][Tense-Bare Verb Base] tích hợp</li>
       
         </ul>
       
@@ -166,9 +174,9 @@ export default function AdjPlacement1(): React.JSX.Element {
 
         <ul className="list-square">
       
-          <li>to formulate [Hạt] to + [Thuần Động Cơ] formulate</li>
+          <li>to formulate → [Hạt][Particle] to + [Thuần Động Cơ][Bare Verb Base] formulate</li>
       
-          <li>did originate [Thời] did + [Thuần Động Cơ] originate</li>
+          <li>did originate → [Thời][Tense] did + [Thuần Động Cơ][Bare Verb Base] originate</li>
       
         </ul>
       
@@ -179,9 +187,9 @@ export default function AdjPlacement1(): React.JSX.Element {
 
         <ul className="list-square">
       
-          <li>should formulate [Ý-Thái] should + [Thuần Động Cơ] formulate</li>
+          <li>should formulate → [Ý-Thái][Soft-Modal] should + [Thuần Động Cơ][Bare Verb Base] formulate</li>
       
-          <li>could originate [Ý-Thái] could + [Thuần Động Cơ] originate</li>
+          <li>could originate → [Ý-Thái][Soft-Modal] could + [Thuần Động Cơ][Bare Verb Base] originate</li>
       
         </ul>
       
@@ -192,9 +200,9 @@ export default function AdjPlacement1(): React.JSX.Element {
 
         <ul className="list-square">
       
-          <li>will formulate [Áp-Thái] will + [Thuần Động Cơ] formulate</li>
+          <li>will formulate → [Áp-Thái][Assertive-Modal] will + [Thuần Động Cơ][Bare Verb Base] formulate</li>
       
-          <li>must originate [Áp-Thái] must + [Thuần Động Cơ] originate</li>
+          <li>must originate → [Áp-Thái][Assertive-Modal] must + [Thuần Động Cơ][Bare Verb Base] originate</li>
       
         </ul>
  
@@ -207,12 +215,12 @@ export default function AdjPlacement1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>She has [fluent] communication skills.</li>
-					<li className="margin-bottom-20 list-none">Cô ấy có kỹ năng giao tiếp [trôi chảy].</li>
+					<li>She has [swift] communication skills.</li>
+					<li className="margin-bottom-20 list-none">Cô ấy có kỹ năng giao tiếp [nhanh chóng].</li>
 			
-					<li className="list-none">Hình thái: [fluent] - [Rễ Tính Cơ][Root Adjective Base] hình thành từ khối [Rễ Tính Cơ][Root Adjective Base] nguyên bản "fluent".</li>
+					<li className="list-none">Hình thái: [swift] - [Rễ Tính Cơ][Root Adjective Base] hình thành từ khối [Rễ Tính Cơ][Root Adjective Base] nguyên bản "swift".</li>
 			
-					<li className="list-none">Chức năng: [fluent] - [Tính Cơ][Adjective Base] cài đặt đặc tính cố định cho [Danh Cơ][Noun Base] "skills".</li>
+					<li className="list-none">Chức năng: [swift] - [Tính Cơ][Adjective Base] cài đặt đặc tính cố định cho [Danh Cơ][Noun Base] "skills".</li>
 			
 				</ul>
 
@@ -388,9 +396,9 @@ export default function AdjPlacement1(): React.JSX.Element {
 					<li>The proposal [which is under review] is on my desk.</li>
 					<li className="margin-bottom-20 list-none">Bản đề xuất [cái đang được xem xét] thì nằm trên bàn của tôi.</li>
 			
-					<li className="list-none">Hình thái: [which is under review] - [Hiển-Liên Động Câu][Connector Verb Clause] bắt đầu bằng [Liên Cơ][Connector Base] "which" kết hợp [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "is" và [Giới Cụm][Prepositional Phrase] "under review".</li>
+					<li className="list-none">Hình thái: [which governs market regulations] - [Hiển-Liên Động Câu][Connector Verb Clause] mở đầu bằng [Liên Cơ][Connector Base] "which" nối tiếp chuỗi hành động chia thời.</li>
 			
-					<li className="list-none">Chức năng: [which is under review] - [Hiển-Liên Động Câu][Connector Verb Clause] tạo thành khối bổ trợ, vạch rõ bản chất định danh cho [Danh Cơ][Noun Base] "proposal".</li>
+					<li className="list-none">Chức năng: [which governs market regulations] - [Tính Câu][Adjective Clause] định danh bản chất chức năng của "framework".</li>
 			
 				</ul>
 
@@ -423,7 +431,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 			
 				</ul>
 			
-				<p className="margin-top-20 text-indent-whole"><strong>Tầng 1</strong> (<strong>Cấp tổng thể</strong> - [...]):</p>
+				<p className="margin-top-20 text-indent-whole"><strong>Tầng 1</strong>:</p>
 			
 					<ul className="list-square">
 				
@@ -434,7 +442,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 					</ul>
 
 
-			<p className="margin-top-20 text-indent-whole"><strong>Tầng 2</strong> (<strong>Cấp thành phần</strong> - {'{...}'}):</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Tầng 2</strong>:</p>
 			
 				<ul className="list-square">
 			
@@ -454,7 +462,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 			
 				</ul>
 			
-				<p className="margin-top-20 text-indent-whole"><strong>Tầng 1</strong> (<strong>Cấp tổng thể</strong> - [...]):</p>
+				<p className="margin-top-20 text-indent-whole"><strong>Tầng 1</strong>:</p>
 			
 					<ul className="list-square">
 				
@@ -465,7 +473,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 					</ul>
 
 
-			<p className="margin-top-20 text-indent-whole"><strong>Tầng 2</strong> (<strong>Cấp thành phần</strong> - {'{...}'}):</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Tầng 2</strong>:</p>
 			
 				<ul className="list-square">
 			
@@ -485,7 +493,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 			
 				</ul>
 			
-				<p className="margin-top-20 text-indent-whole"><strong>Tầng 1</strong> (<strong>Cấp tổng thể</strong> - [...]):</p>
+				<p className="margin-top-20 text-indent-whole"><strong>Tầng 1</strong>:</p>
 			
 					<ul className="list-square">
 				
@@ -496,7 +504,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 					</ul>
 
 
-			<p className="margin-top-20 text-indent-whole"><strong>Tầng 2</strong> (<strong>Cấp thành phần</strong> - {'{...}'}):</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Tầng 2</strong>:</p>
 			
 				<ul className="list-square">
 			
@@ -516,7 +524,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 			
 				</ul>
 			
-				<p className="margin-top-20 text-indent-whole"><strong>Tầng 1</strong> (<strong>Cấp tổng thể</strong> - [...]):</p>
+				<p className="margin-top-20 text-indent-whole"><strong>Tầng 1</strong>:</p>
 			
 					<ul className="list-square">
 				
@@ -527,7 +535,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 					</ul>
 
 
-			<p className="margin-top-20 text-indent-whole"><strong>Tầng 2</strong> (<strong>Cấp thành phần</strong> - {'{...}'}):</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Tầng 2</strong>:</p>
 			
 				<ul className="list-square">
 			
@@ -613,7 +621,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 					<li>The policy [which is effective] will be applied.</li>
 					<li className="margin-bottom-20 list-none">Chính sách [cái mà hiệu quả] sẽ được áp dụng.</li>
 			
-					<li className="list-none">Hình thái: [which is effective] - [Hiển-Liên Động Câu][Connector Verb Clause] bắt đầu bằng [Liên Cơ][Connector Base] "which" kết hợp [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "is" và [Rễ Tính Cơ][Root Adjective Base] "effective".</li>
+					<li className="list-none">Hình thái: [which is effective] - [Hiển-Liên Động Câu][Connector Verb Clause] bắt đầu bằng [Liên Cơ][Connector Base] "which" kết hợp [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "is" và [Diện Tính Cơ][Modified Adjective Base] "effective".</li>
 			
 					<li className="list-none">Chức năng: [which is effective] - [Tính Câu][Adjective Clause] vạch rõ bản chất định danh cho đối tượng [Danh Cơ][Noun Base].</li>
 			
