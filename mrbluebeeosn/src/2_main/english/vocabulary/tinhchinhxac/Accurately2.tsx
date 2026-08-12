@@ -40,7 +40,7 @@ export default function Accurately2(): React.JSX.Element {
             
             <span className="highlight-255-padding-3-6">
               
-              [ACcurately: AC-cu-rate-ly] /ˈækjərətli/ + /
+              [ACcurately][AC-cu-rate-ly] /ˈækjərətli/ + /
               
               <Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">accư̇ra̛tely</Link>/ 
               

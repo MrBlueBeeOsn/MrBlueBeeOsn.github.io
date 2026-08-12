@@ -38,7 +38,7 @@ export default function Ever1(): React.JSX.Element {
 
             <li>
               <span className="highlight-255-padding-3-6">
-                [Ever: Ev-er] /ˈev.ər/ + /<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">eve̛r</Link>/
+                [Ever][Ev-er] /ˈev.ər/ + /<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">eve̛r</Link>/
                 &nbsp;⬤• (2x)
               </span>
             </li>

@@ -32,7 +32,7 @@ export default function Create(): React.JSX.Element {
 
           <p>[create] là một [Rễ Động Cơ][Root Verb Base] có nghĩa là tạo ra, sáng tạo, hoặc gây ra một điều gì đó mới.</p>
 
-          <p className="margin-top-20">Phát âm: create - [creATE: cre-ATE] /kriˈeɪt/</p>
+          <p className="margin-top-20">Phát âm: create [creATE][cre-ATE] /kriˈeɪt/</p>
 
             <ul className="list-square">
           
@@ -190,7 +190,7 @@ export default function Create(): React.JSX.Element {
           
       <p className="margin-top-20 text-indent-whole"><strong>1.1</strong> <strong>Hình thành chức năng</strong> [<strong>Danh Cơ</strong>][<strong>Noun Base</strong>]</p>
 
-      <p className="margin-top-20 text-indent-whole">Ví dụ 1: </p>
+      <p className="margin-top-20 text-indent-whole">Ví dụ 1: creation [creAtion][cre-A-tion] /kriˈeɪʃn/</p>
       
         <ul className="list-square">
       
@@ -206,7 +206,7 @@ export default function Create(): React.JSX.Element {
       
       <p className="margin-top-20 text-indent-whole"><strong>1.2</strong> <strong>Hình thành chức năng</strong> [<strong>Tính Cơ</strong>][<strong>Adjective Base</strong>]</p>
 
-      <p className="margin-top-20 text-indent-whole">Ví dụ 2: creative - [creAtive: cre-A-tive] /kriˈeɪtɪv/</p>
+      <p className="margin-top-20 text-indent-whole">Ví dụ 2: creative [creAtive][cre-A-tive] /kriˈeɪtɪv/</p>
       
         <ul className="list-square">
       
@@ -222,7 +222,7 @@ export default function Create(): React.JSX.Element {
       
       <p className="margin-top-20 text-indent-whole"><strong>1.3</strong> <strong>Hình thành chức năng</strong> [<strong>Trạng Cơ</strong>][<strong>Adverb Base</strong>]</p>
 
-      <p className="margin-top-20 text-indent-whole">Ví dụ 3: creatively - [creAtively: cre-A-tive-ly] /kriˈeɪtɪvli/</p>
+      <p className="margin-top-20 text-indent-whole">Ví dụ 3: creatively [creAtively][cre-A-tive-ly] /kriˈeɪtɪvli/</p>
       
         <ul className="list-square">
       

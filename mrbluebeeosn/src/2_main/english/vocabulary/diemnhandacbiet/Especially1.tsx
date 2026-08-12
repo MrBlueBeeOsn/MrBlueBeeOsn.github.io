@@ -38,7 +38,7 @@ export default function Especially1(): React.JSX.Element {
 
             <li>
               <span className="highlight-255-padding-3-6">
-                [esPEcially: es-PE-cial-ly] /ɪˈspɛʃəli/ + /<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">ėspecia̛lly</Link>/
+                [esPEcially][es-PE-cial-ly] /ɪˈspɛʃəli/ + /<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">ėspecia̛lly</Link>/
                 &nbsp;•⬤•• (4x)
               </span>
             </li>

@@ -40,7 +40,7 @@ export default function Definitely2(): React.JSX.Element {
             
             <span className="highlight-255-padding-3-6">
               
-              [DEFinitely: DEF-i-nite-ly] /ˈdɛfɪnətli/ + /
+              [DEFinitely][DEF-i-nite-ly] /ˈdɛfɪnətli/ + /
               
               <Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">defini̛tely</Link>/ 
               

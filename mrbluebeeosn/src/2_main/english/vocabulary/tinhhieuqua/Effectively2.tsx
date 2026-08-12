@@ -40,7 +40,7 @@ export default function Effectively2(): React.JSX.Element {
             
             <span className="highlight-255-padding-3-6">
               
-               [efFECtively: ef-FEC-tive-ly] /ɪˈfektɪvli/ + /
+               [efFECtively][ef-FEC-tive-ly] /ɪˈfektɪvli/ + /
               
               <Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">ėffectively</Link>/ 
               

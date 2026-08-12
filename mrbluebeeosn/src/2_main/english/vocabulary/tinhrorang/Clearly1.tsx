@@ -38,7 +38,7 @@ export default function Clearly1(): React.JSX.Element {
 
             <li>
               <span className="highlight-255-padding-3-6">
-                [CLEARly: CLEAR-ly] /ˈklɪərli/ + /<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">clėarly</Link>/
+                [CLEARly][CLEAR-ly] /ˈklɪərli/ + /<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">clėarly</Link>/
                 &nbsp;⬤• (2x)
               </span>
             </li>

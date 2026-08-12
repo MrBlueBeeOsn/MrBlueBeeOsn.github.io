@@ -40,7 +40,7 @@ export default function Happily2(): React.JSX.Element {
             
             <span className="highlight-255-padding-3-6">
               
-              [HAPpily: HAP-pi-ly] /ˈhæpəli/ + /
+              [HAPpily][HAP-pi-ly] /ˈhæpəli/ + /
               
               <Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">happi̛ly</Link>/ 
               

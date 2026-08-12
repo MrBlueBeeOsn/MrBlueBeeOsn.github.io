@@ -40,7 +40,7 @@ export default function Quickly2(): React.JSX.Element {
             
             <span className="highlight-255-padding-3-6">
               
-              [QUICKly: QUICK-ly] /ˈkwɪkli/ + /
+              [QUICKly][QUICK-ly] /ˈkwɪkli/ + /
               
               <Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">quickly</Link>/ 
               

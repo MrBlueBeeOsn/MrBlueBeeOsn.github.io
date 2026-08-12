@@ -32,7 +32,7 @@ export default function Respond(): React.JSX.Element {
 
           <p>[respond] là một [Rễ Động Cơ][Root Verb Base] có nghĩa là phản hồi, trả lời, hoặc phản ứng lại một hành động, sự việc.</p>
 
-          <p className="margin-top-20">Phát âm: respond - [resPOND: res-POND] /rɪˈspɑːnd/</p>
+          <p className="margin-top-20">Phát âm: respond [resPOND][res-POND] /rɪˈspɑːnd/</p>
 
             <ul className="list-square">
           
@@ -206,7 +206,7 @@ export default function Respond(): React.JSX.Element {
       
       <p className="margin-top-20 text-indent-whole"><strong>1.2</strong> <strong>Hình thành chức năng</strong> [<strong>Tính Cơ</strong>][<strong>Adjective Base</strong>]</p>
 
-      <p className="margin-top-20 text-indent-whole">Ví dụ 2: responsive - [resPONSive: res-PON-sive] /rɪˈspɑːnsɪv/</p>
+      <p className="margin-top-20 text-indent-whole">Ví dụ 2: responsive [resPONSive][res-PON-sive] /rɪˈspɑːnsɪv/</p>
       
         <ul className="list-square">
       
@@ -222,7 +222,7 @@ export default function Respond(): React.JSX.Element {
       
       <p className="margin-top-20 text-indent-whole"><strong>1.3</strong> <strong>Hình thành chức năng</strong> [<strong>Trạng Cơ</strong>][<strong>Adverb Base</strong>]</p>
 
-      <p className="margin-top-20 text-indent-whole">Ví dụ 3: responsively - [resPONSively: res-PON-sive-ly] /rɪˈspɑːnsɪvli/</p>
+      <p className="margin-top-20 text-indent-whole">Ví dụ 3: responsively [resPONSively][res-PON-sive-ly] /rɪˈspɑːnsɪvli/</p>
       
         <ul className="list-square">
       

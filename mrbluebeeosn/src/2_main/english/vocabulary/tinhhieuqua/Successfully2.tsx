@@ -40,7 +40,7 @@ export default function Successfully2(): React.JSX.Element {
             
             <span className="highlight-255-padding-3-6">
               
-              [sucCESSfully: suc-CESS-ful-ly] /səkˈsesfəli/ + /
+              [sucCESSfully][suc-CESS-ful-ly] /səkˈsesfəli/ + /
               
               <Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">sưccessfưlly</Link>/ 
               

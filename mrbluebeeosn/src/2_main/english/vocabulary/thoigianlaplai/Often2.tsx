@@ -40,7 +40,7 @@ export default function Often2(): React.JSX.Element {
             
             <span className="highlight-255-padding-3-6">
               
-              [OFten: OF-ten] /ˈɒf.ən/ + /
+              [OFten][OF-ten] /ˈɒf.ən/ + /
               
               <Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">ofte̛n</Link>/ 
               

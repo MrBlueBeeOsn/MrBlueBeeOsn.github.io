@@ -38,7 +38,7 @@ export default function Patiently1(): React.JSX.Element {
 
             <li>
               <span className="highlight-255-padding-3-6">
-                [PAtiently: PA-tient-ly] /ˈpeɪ.ʃənt.li/ + /<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">pātie̛ntly</Link>/
+                [PAtiently][PA-tient-ly] /ˈpeɪ.ʃənt.li/ + /<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">pātie̛ntly</Link>/
                 &nbsp;⬤•• (3x)
               </span>
             </li>

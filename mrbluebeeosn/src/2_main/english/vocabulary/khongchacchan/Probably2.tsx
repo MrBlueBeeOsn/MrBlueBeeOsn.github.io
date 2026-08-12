@@ -40,7 +40,7 @@ export default function Probably2(): React.JSX.Element {
             
             <span className="highlight-255-padding-3-6">
               
-              [PROBably: PROB-a-bly] /ˈprɒbəbli/ + /
+              [PROBably][PROB-a-bly] /ˈprɒbəbli/ + /
               
               <Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">proba̛bly</Link>/ 
               

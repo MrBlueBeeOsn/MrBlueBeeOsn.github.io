@@ -40,7 +40,7 @@ export default function Carefully2(): React.JSX.Element {
             
             <span className="highlight-255-padding-3-6">
               
-              [CAREfully: CARE-ful-ly] /ˈkerfəli/ + /
+              [CAREfully][CARE-ful-ly] /ˈkerfəli/ + /
               
               <Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">cā̄refưlly</Link>/ 
               

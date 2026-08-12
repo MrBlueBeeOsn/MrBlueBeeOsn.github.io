@@ -40,7 +40,7 @@ export default function Lazily2(): React.JSX.Element {
             
             <span className="highlight-255-padding-3-6">
               
-              [LAzily: LA-zi-ly] /ˈleɪzəli/ + /
+              [LAzily][LA-zi-ly] /ˈleɪzəli/ + /
               
               <Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">lāzi̛ly</Link>/ 
               

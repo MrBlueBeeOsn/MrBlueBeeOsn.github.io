@@ -40,7 +40,7 @@ export default function Honestly2(): React.JSX.Element {
             
             <span className="highlight-255-padding-3-6">
               
-              [HONestly: HON-est-ly] /ˈɒnɪstli/ + /
+              [HONestly][HON-est-ly] /ˈɒnɪstli/ + /
               
               <Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">honėstly</Link>/ 
               

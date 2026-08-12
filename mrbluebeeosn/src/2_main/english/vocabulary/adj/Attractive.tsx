@@ -42,7 +42,7 @@ export default function Attractive(): React.JSX.Element {
 
           <ul className="list-square padding-left-40">
 
-            <li>IPA: attractive - [atTRACtive: at-TRAC-tive] /əˈtræk.tɪv/</li>
+            <li>IPA: attractive [atTRACtive][at-TRAC-tive] /əˈtræk.tɪv/</li>
             <li>Phonetic Breakdown: uh-TRAK-tiv</li>
 
           </ul>

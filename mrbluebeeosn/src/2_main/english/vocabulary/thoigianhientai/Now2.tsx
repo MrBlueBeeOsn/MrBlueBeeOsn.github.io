@@ -40,7 +40,7 @@ export default function Now2(): React.JSX.Element {
             
             <span className="highlight-255-padding-3-6">
               
-              [NOW: NOW] /naʊ/ + /
+              [NOW][NOW] /naʊ/ + /
               
               <Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">now</Link>/ 
               

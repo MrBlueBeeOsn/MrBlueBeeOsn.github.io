@@ -40,7 +40,7 @@ export default function Occasionally2(): React.JSX.Element {
             
             <span className="highlight-255-padding-3-6">
               
-              [ocCAsionally: oc-CA-sion-al-ly] /əˈkeɪʒənəli/ + /
+              [ocCAsionally][oc-CA-sion-al-ly] /əˈkeɪʒənəli/ + /
               
               <Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">ơccāsiơna̛lly</Link>/ 
               

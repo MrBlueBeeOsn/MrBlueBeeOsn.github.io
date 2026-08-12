@@ -38,7 +38,7 @@ export default function Effectively1(): React.JSX.Element {
 
             <li>
               <span className="highlight-255-padding-3-6">
-                 [efFECtively: ef-FEC-tive-ly] /ɪˈfektɪvli/ + /<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">ėffectively</Link>/
+                 [efFECtively][ef-FEC-tive-ly] /ɪˈfektɪvli/ + /<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">ėffectively</Link>/
                 &nbsp;•⬤•• (4x)
               </span>
             </li>

@@ -40,7 +40,7 @@ export default function Sincerely2(): React.JSX.Element {
             
             <span className="highlight-255-padding-3-6">
               
-              [sinCEREly: sin-CERE-ly] /sɪnˈsɪrlɪ/ + /
+              [sinCEREly][sin-CERE-ly] /sɪnˈsɪrlɪ/ + /
               
               <Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">sincėrely</Link>/ 
               

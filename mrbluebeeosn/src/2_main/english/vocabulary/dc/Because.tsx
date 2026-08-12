@@ -42,7 +42,7 @@ export default function Because(): React.JSX.Element {
 
           <ul className="list-square padding-left-40">
 
-            <li>IPA: /bɪˈkɒz/ (UK) hoặc /bɪˈkɔːz/ (US)</li>
+            <li>IPA: [beCAUSE][be-CAUSE] /bɪˈkɒz/ (UK) hoặc /bɪˈkɔːz/ (US)</li>
             <li>Phonetic Breakdown: bih-KAWZ</li>
 
           </ul>

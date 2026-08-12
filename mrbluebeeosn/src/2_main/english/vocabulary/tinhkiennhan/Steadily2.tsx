@@ -40,7 +40,7 @@ export default function Steadily2(): React.JSX.Element {
             
             <span className="highlight-255-padding-3-6">
               
-              [STEAdily: STEA-di-ly] /ˈsted.ə.li/ + /
+              [STEAdily][STEA-di-ly] /ˈsted.ə.li/ + /
               
               <Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">steadi̛ly</Link>/ 
               

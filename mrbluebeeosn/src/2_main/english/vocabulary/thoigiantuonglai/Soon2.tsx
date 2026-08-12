@@ -40,7 +40,7 @@ export default function Soon2(): React.JSX.Element {
             
             <span className="highlight-255-padding-3-6">
               
-              [SOON: SOON] /suːn/ + /
+              [SOON][SOON] /suːn/ + /
               
               <Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">so͞on</Link>/ 
               

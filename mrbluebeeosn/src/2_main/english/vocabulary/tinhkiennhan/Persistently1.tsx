@@ -38,7 +38,7 @@ export default function Persistently1(): React.JSX.Element {
 
             <li>
               <span className="highlight-255-padding-3-6">
-                [perSIStently: per-SIS-tent-ly] /pəˈsɪs.tənt.li/ + /<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">pe̛rsiste̛ntly</Link>/
+                [perSIStently][per-SIS-tent-ly] /pəˈsɪs.tənt.li/ + /<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">pe̛rsiste̛ntly</Link>/
                 &nbsp;•⬤•• (4x)
               </span>
             </li>

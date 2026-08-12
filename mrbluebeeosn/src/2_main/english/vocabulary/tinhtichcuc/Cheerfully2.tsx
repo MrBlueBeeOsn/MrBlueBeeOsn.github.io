@@ -40,7 +40,7 @@ export default function Cheerfully2(): React.JSX.Element {
             
             <span className="highlight-255-padding-3-6">
               
-              [CHEERfully: CHEER-ful-ly] /ˈtʃɪrfəli/ + /
+              [CHEERfully][CHEER-ful-ly] /ˈtʃɪrfəli/ + /
               
               <Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">cheerfưlly</Link>/ 
               

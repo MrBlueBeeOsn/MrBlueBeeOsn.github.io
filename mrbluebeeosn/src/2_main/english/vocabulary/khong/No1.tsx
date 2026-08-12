@@ -38,7 +38,7 @@ export default function No1(): React.JSX.Element {
 
             <li>
               <span className="highlight-255-padding-3-6">
-                [NO: NO] /noʊ/ + /<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">nō</Link>/
+                [NO][NO] /noʊ/ + /<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">nō</Link>/
                 &nbsp;⬤ (1x)
               </span>
             </li>

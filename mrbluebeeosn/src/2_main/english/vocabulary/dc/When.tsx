@@ -43,7 +43,7 @@ export default function When(): React.JSX.Element {
 
           <ul className="list-square padding-left-40">
 
-            <li>IPA: /wen/</li>
+            <li>IPA: [when][when] /wen/</li>
             <li className="margin-bottom-20 list-none">Lưu ý: Một số vùng tại Anh hoặc Mỹ (giọng Scotland hoặc miền Nam nước Mỹ) có thể phát âm là /hwen/, nhưng /wen/ là phát âm phổ biến nhất hiện nay.</li>
             
             <li>Phonetic Breakdown: wen</li>

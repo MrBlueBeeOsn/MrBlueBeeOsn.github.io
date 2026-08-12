@@ -42,7 +42,7 @@ export default function If(): React.JSX.Element {
 
           <ul className="list-square padding-left-40">
 
-            <li>IPA: /ɪf/</li>
+            <li>IPA: [if][if] /ɪf/</li>
             <li>Phonetic Breakdown: if</li>
 
           </ul>
