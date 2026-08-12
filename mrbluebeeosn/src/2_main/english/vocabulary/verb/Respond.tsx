@@ -130,6 +130,8 @@ export default function Respond(): React.JSX.Element {
       <p className="text-indent-whole"><strong>QUY TẮC CỐT LÕI</strong>:</p>
 
       <p className="text-indent-whole">Khi bất kỳ họ [Cơ][Base] nào thuộc hệ thống 16 mục trên kéo theo thành phần bổ trợ phía sau (như [Danh Nhận][Noun Object], [Trạng Cơ][Adverb Base], [Trạng Cụm][Adverb Phrase], hoặc [Trạng Câu][Adverb Clause]), toàn bộ cấu trúc đó sẽ ngay lập tức được dán nhãn và nâng cấp thành dạng [Cụm][Phrase] tương ứng của chính nó.</p>
+
+      
       
       <h4 className="margin-y-40">PHÂN NHÓM VÀ SƠ ĐỒ PHỐI HỢP MÃ NGUỒN [RESPOND]</h4>
           

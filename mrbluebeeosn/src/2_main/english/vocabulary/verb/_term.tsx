@@ -130,6 +130,8 @@ export default function (): React.JSX.Element {
       <p className="text-indent-whole"><strong>QUY TẮC CỐT LÕI</strong>:</p>
 
       <p className="text-indent-whole"></p>
+
+      
       
       <h4 className="margin-y-40"></h4>
           
