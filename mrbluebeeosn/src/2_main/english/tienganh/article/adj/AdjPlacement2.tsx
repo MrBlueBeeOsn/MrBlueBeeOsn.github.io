@@ -554,7 +554,7 @@ export default function AdjPlacement2(): React.JSX.Element {
 					<li>The laptop [<strong>I</strong> (<strong>S</strong>) <strong>bought</strong> (<strong>V</strong>)] is expensive.</li>
 					<li className="margin-bottom-20 list-none">Chiếc laptop [<strong>tôi</strong> (<strong>S</strong>) <strong>đã mua</strong> (<strong>V</strong>)] thì mắc.</li>
 			
-					<li className="list-none">Hình thái: [I bought] – [Ẩn Liên Câu][Zero Conjunctional Clause] dạng rút gọn (không có O).</li>
+					<li className="list-none">Hình thái: [I bought] – [Ẩn-Liên Câu][Zero-Conjunctional Clause] dạng rút gọn (không có O).</li>
 			
 					<li className="list-none">Chức năng: [I bought] – [Tính Câu][Adjective Clause] bổ nghĩa cho The laptop.</li>
 			
@@ -568,7 +568,7 @@ export default function AdjPlacement2(): React.JSX.Element {
 					<li>The cake [<strong>you</strong> (<strong>S</strong>) <strong>baked</strong> (<strong>V</strong>)] tastes amazing.</li>
 					<li className="margin-bottom-20 list-none">Chiếc bánh [<strong>bạn</strong> (<strong>S</strong>) <strong>đã nướng</strong> (<strong>V</strong>)] vị tuyệt vời.</li>
 			
-					<li className="list-none">Hình thái: [you baked] – [Ẩn Liên Câu][Zero Conjunctional Clause] dạng rút gọn.</li>
+					<li className="list-none">Hình thái: [you baked] – [Ẩn-Liên Câu][Zero-Conjunctional Clause] dạng rút gọn.</li>
 			
 					<li className="list-none">Chức năng: [you baked] – [Tính Câu][Adjective Clause] bổ nghĩa cho The cake.</li>
 			
@@ -582,7 +582,7 @@ export default function AdjPlacement2(): React.JSX.Element {
 					<li>The song [<strong>we</strong> (<strong>S</strong>) <strong>heard</strong> (<strong>V</strong>] is stuck in my head.</li>
 					<li className="margin-bottom-20 list-none">Bài hát [<strong>chúng tôi</strong> (<strong>S</strong>) <strong>đã nghe</strong> (<strong>V</strong>)] cứ văng vẳng trong đầu tôi.</li>
 			
-					<li className="list-none">Hình thái: [we heard] – [Ẩn Liên Câu][Zero Conjunctional Clause] dạng rút gọn.</li>
+					<li className="list-none">Hình thái: [we heard] – [Ẩn-Liên Câu][Zero-Conjunctional Clause] dạng rút gọn.</li>
 			
 					<li className="list-none">Chức năng: [we heard] – [Tính Câu][Adjective Clause] bổ nghĩa cho The song.</li>
 			
@@ -634,7 +634,7 @@ export default function AdjPlacement2(): React.JSX.Element {
 					<li className="margin-bottom-20 list-none">Chức năng: [đội mũ đen] – [Tính Cụm][Adjective Phrase] bổ nghĩa cho Người đàn ông, chỉ đặc điểm nhận dạng.</li>
 			
 					<li>Cuốn sách [<strong>tôi đọc dở dang</strong>] vẫn nằm trên bàn.</li>
-					<li className="list-none">Hình thái: [tôi đọc dở dang] – [Ẩn Liên Câu][Zero Conjunctional Clause] bên trong có cặp tôi + đọc.</li>
+					<li className="list-none">Hình thái: [tôi đọc dở dang] – [Ẩn-Liên Câu][Zero-Conjunctional Clause] bên trong có cặp tôi + đọc.</li>
 					<li className="margin-bottom-20 list-none">Chức năng: [tôi đọc dở dang] – [Tính Câu][Adjective Clause] bổ nghĩa cho Cuốn sách, xác định cuốn sách nào.</li>
 			
 					<li>Cô gái [<strong>đang hát kia</strong>] là ca sĩ nổi tiếng.</li>

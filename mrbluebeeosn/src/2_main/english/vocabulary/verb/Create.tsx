@@ -548,7 +548,7 @@ export default function Create(): React.JSX.Element {
 
 
 
-      <h5 className="margin-y-30 text-indent-whole">4.2 Phân hệ [Ẩn Liên Câu][Zero Conjunctional Clause]</h5>
+      <h5 className="margin-y-30 text-indent-whole">4.2 Phân hệ [Ẩn-Liên Câu][Zero-Conjunctional Clause]</h5>
 
       <p className="margin-top-20 text-indent-whole"><strong>4.2.1</strong> <strong>Hình thành chức năng</strong> [<strong>Danh Câu</strong>][<strong>Noun Clause</strong>]</p>
 
@@ -559,7 +559,7 @@ export default function Create(): React.JSX.Element {
           <li>They believe [the startup created a revolutionary product].</li>
           <li className="margin-bottom-20 list-none">Họ tin rằng [công ty khởi nghiệp đã tạo ra một sản phẩm mang tính cách mạng].</li>
       
-          <li className="list-none">Hình thái: [the startup created a revolutionary product] - [Ẩn Liên Câu][Zero Conjunctional Clause] đã ẩn thành phần [Liên Cơ][Conjunctional Base] định hướng "that", chỉ còn hiển thị trọn vẹn khối [Danh Chủ][Noun Subject] "the startup" và cụm hành động phía sau.</li>
+          <li className="list-none">Hình thái: [the startup created a revolutionary product] - [Ẩn-Liên Câu][Zero-Conjunctional Clause] đã ẩn thành phần [Liên Cơ][Conjunctional Base] định hướng "that", chỉ còn hiển thị trọn vẹn khối [Danh Chủ][Noun Subject] "the startup" và cụm hành động phía sau.</li>
       
           <li className="list-none">Chức năng: [the startup created a revolutionary product] - [Danh Câu][Noun Clause] đóng vai trò làm [Danh Nhận][Noun Object] nhận toàn bộ năng lượng từ [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "believe".</li>
       
@@ -575,7 +575,7 @@ export default function Create(): React.JSX.Element {
           <li>The design [she created] won first place in the competition.</li>
           <li className="margin-bottom-20 list-none">Thiết kế [mà cô ấy đã tạo ra] đã giành giải nhất trong cuộc thi.</li>
       
-          <li className="list-none">Hình thái: [she created] - [Ẩn Liên Câu][Zero Conjunctional Clause] đã ẩn thành phần [Liên Cơ][Conjunctional Base] vật thể đứng trước, giữ lại khối [Danh Chủ][Noun Subject] "she" và [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "created".</li>
+          <li className="list-none">Hình thái: [she created] - [Ẩn-Liên Câu][Zero-Conjunctional Clause] đã ẩn thành phần [Liên Cơ][Conjunctional Base] vật thể đứng trước, giữ lại khối [Danh Chủ][Noun Subject] "she" và [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "created".</li>
       
           <li className="list-none">Chức năng: [she created] - [Tính Câu][Adjective Clause] đóng vai trò như bộ quét đặt ngay sau đối tượng "The design" để làm rõ đặc điểm cho đối tượng này.</li>
       
@@ -591,7 +591,7 @@ export default function Create(): React.JSX.Element {
           <li>[Should the system create duplicate entries], run the cleanup script.</li>
           <li className="margin-bottom-20 list-none">[Nếu hệ thống tạo ra các mục trùng lặp], hãy chạy kịch bản dọn dẹp.</li>
       
-          <li className="list-none">Hình thái: [Should the system create duplicate entries] - [Ẩn Liên Câu][Zero Conjunctional Clause] vận hành ở trạng thái ẩn thành phần [Liên Cơ][Conjunctional Base] điều kiện "if" bằng giải pháp đảo [Áp-Thái Động Cơ][Assertive-Modal Verb Base] "Should" lên trước, tuy thiết lập bề mặt biến đổi nhưng bản chất vẫn giữ trọn vẹn [Danh Chủ][Noun Subject] "the system" và [Thuần Động Cơ][Bare Verb Base] "create duplicate entries".</li>
+          <li className="list-none">Hình thái: [Should the system create duplicate entries] - [Ẩn-Liên Câu][Zero-Conjunctional Clause] vận hành ở trạng thái ẩn thành phần [Liên Cơ][Conjunctional Base] điều kiện "if" bằng giải pháp đảo [Áp-Thái Động Cơ][Assertive-Modal Verb Base] "Should" lên trước, tuy thiết lập bề mặt biến đổi nhưng bản chất vẫn giữ trọn vẹn [Danh Chủ][Noun Subject] "the system" và [Thuần Động Cơ][Bare Verb Base] "create duplicate entries".</li>
       
           <li className="list-none">Chức năng: [Should the system create duplicate entries] - [Trạng Câu][Adverb Clause] đảm nhận nhiệm vụ thiết lập khối bối cảnh giả định/điều kiện để bổ nghĩa cho toàn bộ phần diện thông tin chính phía sau.</li>
       

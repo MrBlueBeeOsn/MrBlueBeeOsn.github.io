@@ -598,7 +598,7 @@ export default function TieredStructure1(): React.JSX.Element {
 
 			
 
-			<h5 className="margin-y-30 text-indent-whole">Phân hệ [Ẩn Liên Câu][Zero Conjunctional Clause] (Không Chứa Từ Kết Nối)</h5>
+			<h5 className="margin-y-30 text-indent-whole">Phân hệ [Ẩn-Liên Câu][Zero-Conjunctional Clause] (Không Chứa Từ Kết Nối)</h5>
 			
 
 			<p className="text-indent-whole">Đây là trạng thái tối tân của ngôn ngữ khi thành phần liên kết bị triệt tiêu hoàn toàn. Khối mã xuất hiện dưới dạng một câu con độc lập về mặt hiển thị, nhưng thực thi trọn vẹn các chức năng hệ thống:</p>
@@ -610,7 +610,7 @@ export default function TieredStructure1(): React.JSX.Element {
 					<li>I believe [you build great things].</li>
 					<li className="margin-bottom-20 list-none">Tôi tin [bạn xây dựng những điều tuyệt vời].</li>
 			
-					<li className="list-none">Hình thái: [you build great things] - [Ẩn Liên Câu][Zero Conjunctional Clause] mang diện mạo của một dòng lệnh độc lập với chủ thể "you" và [Thời-Thuần Động Cơ][Tense-Bare Verb Base] build, hoàn toàn ẩn đi [Liên Cơ][Conjunctional Base] kết nối.</li>
+					<li className="list-none">Hình thái: [you build great things] - [Ẩn-Liên Câu][Zero-Conjunctional Clause] mang diện mạo của một dòng lệnh độc lập với chủ thể "you" và [Thời-Thuần Động Cơ][Tense-Bare Verb Base] build, hoàn toàn ẩn đi [Liên Cơ][Conjunctional Base] kết nối.</li>
 			
 					<li className="list-none">Chức năng: [you build great things] - [Danh Câu][Noun Clause] đóng vai trò làm khối [Danh Nhận][Noun Object] nạp dữ liệu trực tiếp cho [Rễ Động Cơ][Root Verb Base] "believe".</li>
 			
@@ -624,7 +624,7 @@ export default function TieredStructure1(): React.JSX.Element {
 					<li>The plan [I designed yesterday] is lost.</li>
 					<li className="margin-bottom-20 list-none">Bản kế hoạch [tôi thiết kế ngày hôm qua] thì bị mất.</li>
 			
-					<li className="list-none">Hình thái: [I designed yesterday] - [Ẩn Liên Câu][Zero Conjunctional Clause] chứa chủ thể "I" và [Thời-Thuần Động Cơ][Tense-Bare Verb Base] designed, đứng lọt thỏm ngay sau một khối tên gọi mà không cần bất kỳ [Liên Cơ][Conjunctional Base] định vị nào dẫn đường.</li>
+					<li className="list-none">Hình thái: [I designed yesterday] - [Ẩn-Liên Câu][Zero-Conjunctional Clause] chứa chủ thể "I" và [Thời-Thuần Động Cơ][Tense-Bare Verb Base] designed, đứng lọt thỏm ngay sau một khối tên gọi mà không cần bất kỳ [Liên Cơ][Conjunctional Base] định vị nào dẫn đường.</li>
 			
 					<li className="list-none">Chức năng: [I designed yesterday] - [Tính Câu][Adjective Clause] vận hành như bộ lọc đặc điểm sở hữu để xác định mục tiêu chính xác cho đối tượng "plan" đứng trước.</li>
 			
@@ -638,7 +638,7 @@ export default function TieredStructure1(): React.JSX.Element {
 					<li>[Had I designed the software], I would have tested it.</li>
 					<li className="margin-bottom-20 list-none">[Giá mà tôi thiết kế phần mềm], tôi đã kiểm tra nó rồi.</li>
 			
-					<li className="list-none">Hình thái: [Had I designed the software] - [Ẩn Liên Câu][Zero Conjunctional Clause] sử dụng cấu trúc đảo chip [Thời Động Cơ][Tense Verb Base] had lên trước chủ thể "I", xóa bỏ hoàn toàn [Liên Cơ][Conjunctional Base] điều kiện và đồng hành cùng [Hoàn Động Cơ][Perfect Verb Base] designed.</li>
+					<li className="list-none">Hình thái: [Had I designed the software] - [Ẩn-Liên Câu][Zero-Conjunctional Clause] sử dụng cấu trúc đảo chip [Thời Động Cơ][Tense Verb Base] had lên trước chủ thể "I", xóa bỏ hoàn toàn [Liên Cơ][Conjunctional Base] điều kiện và đồng hành cùng [Hoàn Động Cơ][Perfect Verb Base] designed.</li>
 			
 					<li className="list-none">Chức năng: [Had I designed the software] - [Trạng Câu][Adverb Clause] làm nhiệm vụ thiết lập bối cảnh giả định nền tảng cho toàn bộ hệ thống thực thi ở vế sau.</li>
 			

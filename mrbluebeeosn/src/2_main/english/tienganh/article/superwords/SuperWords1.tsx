@@ -467,7 +467,7 @@ export default function SuperWords1(): React.JSX.Element {
 
 			{/* .  */}
 
-			<h3 className="margin-y-50 text-center">Đột Phá Nâng Cao: Bản Chất Của [Ẩn Liên Câu][Zero Conjunctional Clause]</h3>
+			<h3 className="margin-y-50 text-center">Đột Phá Nâng Cao: Bản Chất Của [Ẩn-Liên Câu][Zero-Conjunctional Clause]</h3>
 
 			<p>Trong văn phong bản ngữ, người ta thường lược bỏ các cơ liên kết nhằm đẩy tốc độ truyền tải thông tin lên tối đa.</p>
 
@@ -481,7 +481,7 @@ export default function SuperWords1(): React.JSX.Element {
 					<li>I believe [you took the correct steps].</li>
 					<li className="margin-bottom-20 list-none">Tôi tin [bạn đã đi đúng hướng].</li>
 			
-					<li className="list-none">Hình thái: [you took the correct steps] – [Ẩn Liên Câu][Zero Conjunctional Clause] biểu thị một câu con hoàn chỉnh đóng vai trò phụ thuộc đã được triệt tiêu khối liên kết "that" dẫn đầu nhằm rút gọn kết cấu nói.</li>
+					<li className="list-none">Hình thái: [you took the correct steps] – [Ẩn-Liên Câu][Zero-Conjunctional Clause] biểu thị một câu con hoàn chỉnh đóng vai trò phụ thuộc đã được triệt tiêu khối liên kết "that" dẫn đầu nhằm rút gọn kết cấu nói.</li>
 			
 					<li className="list-none">Chức năng: [you took the correct steps] – [Danh Câu][Noun Clause] đang đứng vị trí [Danh Nhận][Noun Object] để làm rõ sự việc chịu tác động trực tiếp từ hành động "believe".</li>
 			
@@ -495,7 +495,7 @@ export default function SuperWords1(): React.JSX.Element {
 					<li>The car [he drove yesterday] belonged to his father.</li>
 					<li className="margin-bottom-20 list-none">Chiếc xe [anh ấy lái hôm qua] thuộc về ba anh ấy.</li>
 			
-					<li className="list-none">Hình thái: [he drove yesterday] – [Ẩn Liên Câu][Zero Conjunctional Clause] biểu thị một câu con bổ nghĩa nằm ngay sau thành phần [Danh Khối][Noun Block] chính mà không xuất hiện các khối liên kết như "which" hay "that" ở đầu.</li>
+					<li className="list-none">Hình thái: [he drove yesterday] – [Ẩn-Liên Câu][Zero-Conjunctional Clause] biểu thị một câu con bổ nghĩa nằm ngay sau thành phần [Danh Khối][Noun Block] chính mà không xuất hiện các khối liên kết như "which" hay "that" ở đầu.</li>
 			
 					<li className="list-none">Chức năng: [he drove yesterday] – [Tính Câu][Adjective Clause] đang đứng vị trí bám sát ngay sau [Danh Chủ][Noun Subject] "The car" để bổ nghĩa và định danh riêng cho chiếc xe đó.</li>
 			
@@ -509,7 +509,7 @@ export default function SuperWords1(): React.JSX.Element {
 					<li>[Should they request assistance], the support line will open.</li>
 					<li className="margin-bottom-20 list-none">[Nếu họ yêu cầu sự hỗ trợ], đường dây trợ giúp sẽ mở cửa.</li>
 			
-					<li className="list-none">Hình thái: [Should they request assistance] – [Ẩn Liên Câu][Zero Conjunctional Clause] biểu thị cấu trúc câu con đặc biệt sử dụng hình thức đảo năng lượng ý thái lên đầu nhằm loại bỏ hoàn toàn khối liên kết chỉ điều kiện "if".</li>
+					<li className="list-none">Hình thái: [Should they request assistance] – [Ẩn-Liên Câu][Zero-Conjunctional Clause] biểu thị cấu trúc câu con đặc biệt sử dụng hình thức đảo năng lượng ý thái lên đầu nhằm loại bỏ hoàn toàn khối liên kết chỉ điều kiện "if".</li>
 			
 					<li className="list-none">Chức năng: [Should they request assistance] – [Trạng Câu][Adverb Clause] đang đứng vị trí độc lập ở đầu câu để thiết lập bối cảnh giả định, bổ nghĩa điều kiện cho toàn bộ sự việc phía sau.</li>
 			

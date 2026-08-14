@@ -410,7 +410,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 					<li>The parameters [experts recommend] must be tested.</li>
 					<li className="margin-bottom-20 list-none">Các thông số [mà các chuyên gia khuyên dùng] phải được kiểm tra.</li>
 			
-					<li className="list-none">Hình thái: [experts recommend] - [Ẩn Liên Câu][Zero Conjunctional Clause] bỏ qua liên từ nhưng vẫn giữ nguyên vẹn cấu trúc chủ - vị ngầm định.</li>
+					<li className="list-none">Hình thái: [experts recommend] - [Ẩn-Liên Câu][Zero-Conjunctional Clause] bỏ qua liên từ nhưng vẫn giữ nguyên vẹn cấu trúc chủ - vị ngầm định.</li>
 			
 					<li className="list-none">Chức năng: [experts recommend] - [Tính Câu][Adjective Clause] thu gọn không gian biểu đạt để làm rõ đặc điểm đối tượng "parameters".</li>
 			

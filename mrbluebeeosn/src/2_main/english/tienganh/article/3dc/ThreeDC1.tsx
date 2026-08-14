@@ -469,7 +469,7 @@ export default function ThreeDC1(): React.ReactElement {
 					<li>The executive assumed [the board would approve the budget].</li>
 					<li className="margin-bottom-20 list-none">Vị giám đốc điều hành đã giả định [ban quản trị sẽ phê duyệt ngân sách].</li>
 			
-					<li className="list-none">Hình thái: Khối [the board would approve the budget] - [Ẩn Liên Câu][Zero Conjunctional Clause] lồng ghép trực tiếp đứng sau hành động chính mà không cần sự hỗ trợ của [Liên Cơ][Conjunctional Base] "that".</li>
+					<li className="list-none">Hình thái: Khối [the board would approve the budget] - [Ẩn-Liên Câu][Zero-Conjunctional Clause] lồng ghép trực tiếp đứng sau hành động chính mà không cần sự hỗ trợ của [Liên Cơ][Conjunctional Base] "that".</li>
 			
 					<li className="list-none">Chức năng: Khối [the board would approve the budget] thực thi chức năng [Danh Câu][Noun Clause] làm nhiệm vụ của một [Danh Nhận][Noun Object] chịu tác động trực tiếp đứng sau sự điều phối của [Thời-Thuần Động Cơ][Tense-Bare Verb Base] assumed.</li>
 			
@@ -483,7 +483,7 @@ export default function ThreeDC1(): React.ReactElement {
 					<li>The mentor [I consulted yesterday] provided invaluable advice.</li>
 					<li className="margin-bottom-20 list-none">Người cố vấn [tôi đã xin ý kiến ngày hôm qua] đã đưa ra lời khuyên vô giá.</li>
 			
-					<li className="list-none">Hình thái: Khối [I consulted yesterday] - [Ẩn Liên Câu][Zero Conjunctional Clause] có sự lược bỏ [Liên Cơ][Conjunctional Base] dẫn dắt đối tượng nhưng vẫn đảm bảo cấu trúc chủ-vị hoàn chỉnh ở bên trong.</li>
+					<li className="list-none">Hình thái: Khối [I consulted yesterday] - [Ẩn-Liên Câu][Zero-Conjunctional Clause] có sự lược bỏ [Liên Cơ][Conjunctional Base] dẫn dắt đối tượng nhưng vẫn đảm bảo cấu trúc chủ-vị hoàn chỉnh ở bên trong.</li>
 			
 					<li className="list-none">Chức năng: Khối [I consulted yesterday] thực thi chức năng [Tính Câu][Adjective Clause] đứng ôm ngay sau thực thể "The mentor" để bổ nghĩa đặc điểm định danh cho thực thể đó.</li>
 			
@@ -497,7 +497,7 @@ export default function ThreeDC1(): React.ReactElement {
 					<li>The higher the pressure rises, [the faster the chemical reacts].</li>
 					<li className="margin-bottom-20 list-none">Áp suất càng tăng cao, [hóa chất càng phản ứng nhanh hơn].</li>
 			
-					<li className="list-none">Hình thái: Khối [the faster the chemical reacts] - [Ẩn Liên Câu][Zero Conjunctional Clause] mang cấu trúc so sánh lũy tiến song hành đặc trưng nhưng không sử dụng [Liên Cơ][Conjunctional Base] phụ thuộc truyền thống.</li>
+					<li className="list-none">Hình thái: Khối [the faster the chemical reacts] - [Ẩn-Liên Câu][Zero-Conjunctional Clause] mang cấu trúc so sánh lũy tiến song hành đặc trưng nhưng không sử dụng [Liên Cơ][Conjunctional Base] phụ thuộc truyền thống.</li>
 			
 					<li className="list-none">Chức năng: Khối [the faster the chemical reacts] thực thi chức năng [Trạng Câu][Adverb Clause] đóng vai trò một khối bối cảnh tương quan hệ quả để bổ nghĩa bối cảnh hệ quả cho vế điều kiện phía trước.</li>
 			

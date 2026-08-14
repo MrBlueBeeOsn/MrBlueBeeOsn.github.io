@@ -436,14 +436,14 @@ export default function LegoAssembly1(): React.JSX.Element {
 				</ul>
 
 			
-			<p className="margin-top-20 text-indent-whole">[<strong>Danh Câu</strong>][<strong>Noun Clause</strong>] <strong>cấu tạo từ</strong> [<strong>Ẩn Liên Câu</strong>][<strong>Zero Conjunctional Clause</strong>]:</p>
+			<p className="margin-top-20 text-indent-whole">[<strong>Danh Câu</strong>][<strong>Noun Clause</strong>] <strong>cấu tạo từ</strong> [<strong>Ẩn-Liên Câu</strong>][<strong>Zero-Conjunctional Clause</strong>]:</p>
 			
 				<ul className="list-square">
 			
 					<li>Management dynamic believes [the strategy drives growth].</li>
 					<li className="margin-bottom-20 list-none">Ban quản lý tin tưởng [chiến lược thúc đẩy tăng trưởng].</li>
 
-					<li className="list-none">Hình thái: [the strategy drives growth] - [Ẩn Liên Câu][Zero Conjunctional Clause] có đầy đủ cấu hình [Danh Chủ][Noun Subject] nội bộ và hành động nhưng đã bị chủ động lược bỏ đi [Liên Cơ][Conjunctional Base] that ở đầu khối nhằm tối giản cấu trúc bề mặt.</li>
+					<li className="list-none">Hình thái: [the strategy drives growth] - [Ẩn-Liên Câu][Zero-Conjunctional Clause] có đầy đủ cấu hình [Danh Chủ][Noun Subject] nội bộ và hành động nhưng đã bị chủ động lược bỏ đi [Liên Cơ][Conjunctional Base] that ở đầu khối nhằm tối giản cấu trúc bề mặt.</li>
 
 					<li className="list-none">Chức năng: [the strategy drives growth] - [Danh Câu][Noun Clause] đóng vai trò làm [Danh Nhận][Noun Object] tiếp nhận nội dung thông tin trực tiếp cho hành động believes.</li>
 			
@@ -532,14 +532,14 @@ export default function LegoAssembly1(): React.JSX.Element {
 				</ul>
 
 
-			<p className="margin-top-20 text-indent-whole">[<strong>Tính Câu</strong>][<strong>Adjective Clause</strong>] <strong>cấu tạo từ</strong> [<strong>Ẩn Liên Câu</strong>][<strong>Zero Conjunctional Clause</strong>]:</p>
+			<p className="margin-top-20 text-indent-whole">[<strong>Tính Câu</strong>][<strong>Adjective Clause</strong>] <strong>cấu tạo từ</strong> [<strong>Ẩn-Liên Câu</strong>][<strong>Zero-Conjunctional Clause</strong>]:</p>
 			
 				<ul className="list-square">
 			
 					<li>The policy [they implemented last month] decreased overhead.</li>
 					<li className="margin-bottom-20 list-none">Chính sách [họ triển khai tháng trước] đã làm giảm chi phí vận hành.</li>
 
-					<li className="list-none">Hình thái: [they implemented last month] - [Ẩn Liên Câu][Zero Conjunctional Clause] có cấu trúc [S]-[Head] đầy đủ nhưng đã bị chủ động lược bỏ [Liên Cơ][Conjunctional Base] which/that ở đầu khối để tăng tốc độ truyền đạt của dòng thông tin.</li>
+					<li className="list-none">Hình thái: [they implemented last month] - [Ẩn-Liên Câu][Zero-Conjunctional Clause] có cấu trúc [S]-[Head] đầy đủ nhưng đã bị chủ động lược bỏ [Liên Cơ][Conjunctional Base] which/that ở đầu khối để tăng tốc độ truyền đạt của dòng thông tin.</li>
 
 					<li className="list-none">Chức năng: [they implemented last month] - [Tính Câu][Adjective Clause] làm nhiệm vụ giới hạn, bổ nghĩa đặc điểm thuộc tính cho thực thể The policy.</li>
 			
@@ -643,14 +643,14 @@ export default function LegoAssembly1(): React.JSX.Element {
 				</ul>
 
 
-			<p className="margin-top-20 text-indent-whole">[<strong>Trạng Câu</strong>][<strong>Adverb Clause</strong>] <strong>cấu tạo từ</strong> [<strong>Ẩn Liên Câu</strong>][<strong>Zero Conjunctional Clause</strong>]:</p>
+			<p className="margin-top-20 text-indent-whole">[<strong>Trạng Câu</strong>][<strong>Adverb Clause</strong>] <strong>cấu tạo từ</strong> [<strong>Ẩn-Liên Câu</strong>][<strong>Zero-Conjunctional Clause</strong>]:</p>
 			
 				<ul className="list-square">
 			
 					<li>[Had the warning triggered sooner], we would have mitigated risks.</li>
 					<li className="margin-bottom-20 list-none">[Nếu cảnh báo kích hoạt sớm hơn], chúng tôi đã giảm thiểu được các rủi ro.</li>
 
-					<li className="list-none">Hình thái: [Had the warning triggered sooner] - [Ẩn Liên Câu][Zero Conjunctional Clause] giả định đã triệt tiêu hoàn toàn [Liên Cơ][Conjunctional Base] điều kiện bằng phương pháp đảo cấu trúc đảo khối [Thời Động Cơ][Tense Verb Base] Had lên đứng trước [Danh Chủ][Noun Subject] nội bộ the warning.</li>
+					<li className="list-none">Hình thái: [Had the warning triggered sooner] - [Ẩn-Liên Câu][Zero-Conjunctional Clause] giả định đã triệt tiêu hoàn toàn [Liên Cơ][Conjunctional Base] điều kiện bằng phương pháp đảo cấu trúc đảo khối [Thời Động Cơ][Tense Verb Base] Had lên đứng trước [Danh Chủ][Noun Subject] nội bộ the warning.</li>
 
 					<li className="list-none">Chức năng: [Had the warning triggered sooner] - [Trạng Câu][Adverb Clause] đóng vai trò cung cấp cảnh báo nền tảng giả định bối cảnh điều kiện tiên quyết cho hệ quả của câu lớn phía sau.</li>
 					
@@ -690,7 +690,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 					<li>The platform updated [as soon as the code patch went live].</li>
 					<li className="margin-bottom-20 list-none">Nền tảng đã cập nhật [ngay khi bản vá mã nguồn được kích hoạt trực tuyến].</li>
 			
-					<li className="list-none">Hình thái: [as soon as the code patch went live] - [Phức Liên Câu][Complex Conjunctional Base] cấp độ [Câu][Clause], chứa [Phức Liên Cơ][Complex Conjunctional Base] as soon as kết hợp với một bộ cấu trúc [S]-[Head] hoàn chỉnh bên trong để mô tả một mốc sự kiện kích hoạt tức thời.</li>
+					<li className="list-none">Hình thái: [as soon as the code patch went live] - [Phức Liên Câu][Complex Conjunctional Clause] cấp độ [Câu][Clause], chứa [Phức Liên Cơ][Complex Conjunctional Base] as soon as kết hợp với một bộ cấu trúc [S]-[Head] hoàn chỉnh bên trong để mô tả một mốc sự kiện kích hoạt tức thời.</li>
 
 					<li className="list-none">Chức năng: [as soon as the code patch went live] - [Trạng Câu][Adverb Clause] thay thế vị trí của [Trạng Cơ][Adverb Base] cũ, mở rộng quy mô thông tin thành bối cảnh [Thời] gian cho hành động chính updated nhưng vẫn giữ nguyên màu sắc chức năng cung cấp bối cảnh.</li>
 			

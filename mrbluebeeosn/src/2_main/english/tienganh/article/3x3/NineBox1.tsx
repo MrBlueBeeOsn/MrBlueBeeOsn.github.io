@@ -421,7 +421,7 @@ export default function NineBox1(): React.JSX.Element {
 					<li>The network architect suspects [the firewall blocks the packet].</li>
 					<li className="margin-bottom-20 list-none">Kiến trúc sư mạng nghi ngờ [tường lửa chặn gói tin].</li>
 			
-					<li className="list-none">Hình thái: [the firewall blocks the packet] – [Ẩn Liên Câu][Zero Conjunctional Clause] vắng bóng thành phần kết nối dẫn đường nhưng có đầy đủ kết cấu câu con xoay quanh [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "blocks".</li>
+					<li className="list-none">Hình thái: [the firewall blocks the packet] – [Ẩn-Liên Câu][Zero-Conjunctional Clause] vắng bóng thành phần kết nối dẫn đường nhưng có đầy đủ kết cấu câu con xoay quanh [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "blocks".</li>
 			
 					<li className="list-none">Chức năng: [the firewall blocks the packet] – [Danh Câu][Noun Clause] đóng vai trò làm [Danh Nhận][Noun Object] dữ liệu trực tiếp đứng sau sự điều phối của hành động nghi ngờ.</li>
 			
@@ -435,7 +435,7 @@ export default function NineBox1(): React.JSX.Element {
 					<li>The API [the vendor provided yesterday] throws exceptions.</li>
 					<li className="margin-bottom-20 list-none">Giao diện lập trình ứng dụng [nhà cung cấp cung cấp ngày hôm qua] ném ra các ngoại lệ.</li>
 			
-					<li className="list-none">Hình thái: [the vendor provided yesterday] – [Ẩn Liên Câu][Zero Conjunctional Clause] vắng bóng thành phần kết nối nhưng có đầy đủ kết cấu câu con lồng ghép xoay quanh [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "provided".</li>
+					<li className="list-none">Hình thái: [the vendor provided yesterday] – [Ẩn-Liên Câu][Zero-Conjunctional Clause] vắng bóng thành phần kết nối nhưng có đầy đủ kết cấu câu con lồng ghép xoay quanh [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "provided".</li>
 			
 					<li className="list-none">Chức năng: [the vendor provided yesterday] – [Tính Câu][Adjective Clause] đóng vai trò định danh thuộc tính để chỉ rõ loại API nào, bổ nghĩa trực tiếp cho khối [Danh Chủ][Noun Subject] phía trước.</li>
 			
@@ -449,7 +449,7 @@ export default function NineBox1(): React.JSX.Element {
 					<li>[Should the compilation complete], the operations team will trigger the deployment.</li>
 					<li className="margin-bottom-20 list-none">[Nếu việc biên dịch hoàn thành], đội ngũ vận hành sẽ kích hoạt triển khai.</li>
 			
-					<li className="list-none">Hình thái: [Should the compilation complete] - [Ẩn Liên Câu][Zero Conjunctional Clause] vận hành ở trạng thái ẩn thành phần [Liên Cơ][Conjunctional Base] điều kiện "if" bằng cách đảo khối [Ý-Thái Động Cơ][Soft-Modal Verb Base] "Should" lên trước khối [Danh Chủ][Noun Subject] "the compilation", kéo theo [Thuần Động Cơ][Bare Verb Base] "complete".</li>
+					<li className="list-none">Hình thái: [Should the compilation complete] - [Ẩn-Liên Câu][Zero-Conjunctional Clause] vận hành ở trạng thái ẩn thành phần [Liên Cơ][Conjunctional Base] điều kiện "if" bằng cách đảo khối [Ý-Thái Động Cơ][Soft-Modal Verb Base] "Should" lên trước khối [Danh Chủ][Noun Subject] "the compilation", kéo theo [Thuần Động Cơ][Bare Verb Base] "complete".</li>
 			
 					<li className="list-none">Chức năng: [Should the compilation complete] – [Trạng Câu][Adverb Clause] bổ nghĩa bối cảnh điều kiện giả định cho hệ thống hành động phía sau.</li>
 			
