@@ -478,11 +478,11 @@ export default function Create(): React.JSX.Element {
 
       <h4 className="margin-y-40">4. Phân hệ [Động Câu][Verb Clause]</h4>
           
-      <h5 className="margin-y-30 text-indent-whole">4.1 Phân hệ [Hiển-Liên Động Câu][Connector Verb Clause]</h5>
+      <h5 className="margin-y-30 text-indent-whole">4.1 Phân hệ [Liên Câu][Conjunctional Base]</h5>
 
       <p className="margin-top-20 text-indent-whole"><strong>4.1.1</strong> <strong>Hình thành chức năng</strong> [<strong>Danh Câu</strong>][<strong>Noun Clause</strong>]</p>
 
-      <p className="margin-top-20 text-indent-whole">[<strong>Danh Câu</strong>][<strong>Noun Clause</strong>] <strong>cấu tạo từ</strong> [<strong>Hiển-Liên Động Câu</strong>][<strong>Connector Verb Clause</strong>] <strong>làm</strong> [<strong>Danh Chủ</strong>][<strong>Noun Subject</strong>]</p>
+      <p className="margin-top-20 text-indent-whole">[<strong>Danh Câu</strong>][<strong>Noun Clause</strong>] <strong>cấu tạo từ</strong> [<strong>Liên Câu</strong>][<strong>Conjunctional Base</strong>] <strong>làm</strong> [<strong>Danh Chủ</strong>][<strong>Noun Subject</strong>]</p>
 
       <p className="margin-top-20 text-indent-whole">Ví dụ 9a:</p>
       
@@ -491,7 +491,7 @@ export default function Create(): React.JSX.Element {
           <li>[How the software creates automated reports] determines its usefulness.</li>
           <li className="margin-bottom-20 list-none">[Cách phần mềm tạo ra các báo cáo tự động] quyết định tính hữu ích của nó.</li>
       
-          <li className="list-none">Hình thái: [How the software creates automated reports] - [Hiển-Liên Động Câu][Connector Verb Clause] chứa thành phần [Liên Cơ][Connector Base] "How" ở đầu, mang [Danh Chủ][Noun Subject] riêng "the software" và cụm hành động phối hợp phía sau.</li>
+          <li className="list-none">Hình thái: [How the software creates automated reports] - [Liên Câu][Conjunctional Base] chứa thành phần [Liên Cơ][Conjunctional Base] "How" ở đầu, mang [Danh Chủ][Noun Subject] riêng "the software" và cụm hành động phối hợp phía sau.</li>
       
           <li className="list-none">Chức năng: [How the software creates automated reports] - [Danh Câu][Noun Clause] đóng vai trò làm [Danh Chủ][Noun Subject] quản lý khối thông tin quy trình đứng đầu câu để điều khiển [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "determines".</li>
       
@@ -499,7 +499,7 @@ export default function Create(): React.JSX.Element {
 
 
 
-      <p className="margin-top-20 text-indent-whole">[<strong>Danh Câu</strong>][<strong>Noun Clause</strong>] <strong>cấu tạo từ</strong> [<strong>Hiển-Liên Động Câu</strong>][<strong>Connector Verb Clause</strong>] <strong>làm</strong> [<strong>Danh Nhận</strong>][<strong>Noun Object</strong>]</p>
+      <p className="margin-top-20 text-indent-whole">[<strong>Danh Câu</strong>][<strong>Noun Clause</strong>] <strong>cấu tạo từ</strong> [<strong>Liên Câu</strong>][<strong>Conjunctional Base</strong>] <strong>làm</strong> [<strong>Danh Nhận</strong>][<strong>Noun Object</strong>]</p>
 
       <p className="margin-top-20 text-indent-whole">Ví dụ 9b:</p>
       
@@ -508,7 +508,7 @@ export default function Create(): React.JSX.Element {
           <li>The manager explained [how the system creates new user profiles].</li>
           <li className="margin-bottom-20 list-none">Người quản lý đã giải thích [cách hệ thống tạo ra các hồ sơ người dùng mới].</li>
       
-          <li className="list-none">Hình thái: [how the system creates new user profiles] - [Hiển-Liên Động Câu][Connector Verb Clause] chứa thành phần [Liên Cơ][Connector Base] "how" ở đầu, có [Danh Chủ][Noun Subject] "the system" và cụm hành động phối hợp phía sau.</li>
+          <li className="list-none">Hình thái: [how the system creates new user profiles] - [Liên Câu][Conjunctional Base] chứa thành phần [Liên Cơ][Conjunctional Base] "how" ở đầu, có [Danh Chủ][Noun Subject] "the system" và cụm hành động phối hợp phía sau.</li>
       
           <li className="list-none">Chức năng: [how the system creates new user profiles] - [Danh Câu][Noun Clause] trở thành [Danh Nhận][Noun Object] chứa dữ liệu mục tiêu chịu tác động từ hành động [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "explained".</li>
       
@@ -524,7 +524,7 @@ export default function Create(): React.JSX.Element {
           <li>The tool [which creates high-resolution images] was recently updated.</li>
           <li className="margin-bottom-20 list-none">Công cụ [cái mà tạo ra các hình ảnh độ phân giải cao] gần đây đã được cập nhật.</li>
       
-          <li className="list-none">Hình thái: [which creates high-resolution images] - [Hiển-Liên Động Câu][Connector Verb Clause] chứa thành phần [Liên Cơ][Connector Base] vật thể "which" ở đầu, mang hạt nhân hành động xử lý bối cảnh thuộc trục thời hiện tại.</li>
+          <li className="list-none">Hình thái: [which creates high-resolution images] - [Liên Câu][Conjunctional Base] chứa thành phần [Liên Cơ][Conjunctional Base] vật thể "which" ở đầu, mang hạt nhân hành động xử lý bối cảnh thuộc trục thời hiện tại.</li>
       
           <li className="list-none">Chức năng: [which creates high-resolution images] - [Tính Câu][Adjective Clause] hoạt động như một module lọc bổ sung đặt sau một khối tên gọi để nhận diện đối tượng "tool".</li>
       
@@ -540,7 +540,7 @@ export default function Create(): React.JSX.Element {
           <li>The project succeeded [because the team created a comprehensive strategy].</li>
           <li className="margin-bottom-20 list-none">Dự án đã thành công [vì đội ngũ đã tạo ra một chiến lược toàn diện].</li>
       
-          <li className="list-none">Hình thái: [because the team created a comprehensive strategy] - [Hiển-Liên Động Câu][Connector Verb Clause] kích hoạt ngay sau thành phần [Liên Cơ][Connector Base] nguyên nhân "because", chứa [Danh Chủ][Noun Subject] "the team" và cụm hành động mang dấu mốc trục thời quá khứ.</li>
+          <li className="list-none">Hình thái: [because the team created a comprehensive strategy] - [Liên Câu][Conjunctional Base] kích hoạt ngay sau thành phần [Liên Cơ][Conjunctional Base] nguyên nhân "because", chứa [Danh Chủ][Noun Subject] "the team" và cụm hành động mang dấu mốc trục thời quá khứ.</li>
       
           <li className="list-none">Chức năng: [because the team created a comprehensive strategy] - [Trạng Câu][Adverb Clause] thiết lập module bối cảnh để bổ nghĩa cho toàn bộ phần diện thông tin chính "The project succeeded" đứng trước.</li>
       
@@ -548,7 +548,7 @@ export default function Create(): React.JSX.Element {
 
 
 
-      <h5 className="margin-y-30 text-indent-whole">4.2 Phân hệ [Ẩn-Liên Động Câu][Zero-Connector Verb Clause]</h5>
+      <h5 className="margin-y-30 text-indent-whole">4.2 Phân hệ [Ẩn Liên Câu][Zero Conjunctional Clause]</h5>
 
       <p className="margin-top-20 text-indent-whole"><strong>4.2.1</strong> <strong>Hình thành chức năng</strong> [<strong>Danh Câu</strong>][<strong>Noun Clause</strong>]</p>
 
@@ -559,7 +559,7 @@ export default function Create(): React.JSX.Element {
           <li>They believe [the startup created a revolutionary product].</li>
           <li className="margin-bottom-20 list-none">Họ tin rằng [công ty khởi nghiệp đã tạo ra một sản phẩm mang tính cách mạng].</li>
       
-          <li className="list-none">Hình thái: [the startup created a revolutionary product] - [Ẩn-Liên Động Câu][Zero-Connector Verb Clause] đã ẩn thành phần [Liên Cơ][Connector Base] định hướng "that", chỉ còn hiển thị trọn vẹn khối [Danh Chủ][Noun Subject] "the startup" và cụm hành động phía sau.</li>
+          <li className="list-none">Hình thái: [the startup created a revolutionary product] - [Ẩn Liên Câu][Zero Conjunctional Clause] đã ẩn thành phần [Liên Cơ][Conjunctional Base] định hướng "that", chỉ còn hiển thị trọn vẹn khối [Danh Chủ][Noun Subject] "the startup" và cụm hành động phía sau.</li>
       
           <li className="list-none">Chức năng: [the startup created a revolutionary product] - [Danh Câu][Noun Clause] đóng vai trò làm [Danh Nhận][Noun Object] nhận toàn bộ năng lượng từ [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "believe".</li>
       
@@ -575,7 +575,7 @@ export default function Create(): React.JSX.Element {
           <li>The design [she created] won first place in the competition.</li>
           <li className="margin-bottom-20 list-none">Thiết kế [mà cô ấy đã tạo ra] đã giành giải nhất trong cuộc thi.</li>
       
-          <li className="list-none">Hình thái: [she created] - [Ẩn-Liên Động Câu][Zero-Connector Verb Clause] đã ẩn thành phần [Liên Cơ][Connector Base] vật thể đứng trước, giữ lại khối [Danh Chủ][Noun Subject] "she" và [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "created".</li>
+          <li className="list-none">Hình thái: [she created] - [Ẩn Liên Câu][Zero Conjunctional Clause] đã ẩn thành phần [Liên Cơ][Conjunctional Base] vật thể đứng trước, giữ lại khối [Danh Chủ][Noun Subject] "she" và [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "created".</li>
       
           <li className="list-none">Chức năng: [she created] - [Tính Câu][Adjective Clause] đóng vai trò như bộ quét đặt ngay sau đối tượng "The design" để làm rõ đặc điểm cho đối tượng này.</li>
       
@@ -591,7 +591,7 @@ export default function Create(): React.JSX.Element {
           <li>[Should the system create duplicate entries], run the cleanup script.</li>
           <li className="margin-bottom-20 list-none">[Nếu hệ thống tạo ra các mục trùng lặp], hãy chạy kịch bản dọn dẹp.</li>
       
-          <li className="list-none">Hình thái: [Should the system create duplicate entries] - [Ẩn-Liên Động Câu][Zero-Connector Verb Clause] vận hành ở trạng thái ẩn thành phần [Liên Cơ][Connector Base] điều kiện "if" bằng giải pháp đảo [Áp-Thái Động Cơ][Assertive-Modal Verb Base] "Should" lên trước, tuy thiết lập bề mặt biến đổi nhưng bản chất vẫn giữ trọn vẹn [Danh Chủ][Noun Subject] "the system" và [Thuần Động Cơ][Bare Verb Base] "create duplicate entries".</li>
+          <li className="list-none">Hình thái: [Should the system create duplicate entries] - [Ẩn Liên Câu][Zero Conjunctional Clause] vận hành ở trạng thái ẩn thành phần [Liên Cơ][Conjunctional Base] điều kiện "if" bằng giải pháp đảo [Áp-Thái Động Cơ][Assertive-Modal Verb Base] "Should" lên trước, tuy thiết lập bề mặt biến đổi nhưng bản chất vẫn giữ trọn vẹn [Danh Chủ][Noun Subject] "the system" và [Thuần Động Cơ][Bare Verb Base] "create duplicate entries".</li>
       
           <li className="list-none">Chức năng: [Should the system create duplicate entries] - [Trạng Câu][Adverb Clause] đảm nhận nhiệm vụ thiết lập khối bối cảnh giả định/điều kiện để bổ nghĩa cho toàn bộ phần diện thông tin chính phía sau.</li>
       
@@ -628,7 +628,7 @@ export default function Create(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li className="list-none">Hình thái: {'{how the platform creates personalized content}'} - [Hiển-Liên Động Câu][Connector Verb Clause] định hình dưới dạng một khối mã con nằm gọn hoàn toàn bên trong vùng mã tổng thể, chứa đầy đủ [Danh Chủ][Noun Subject] riêng "the platform" và cụm hành động riêng thiết lập theo trục thời hiện tại đi sau thành phần [Liên Cơ][Connector Base] "how".</li>
+          <li className="list-none">Hình thái: {'{how the platform creates personalized content}'} - [Liên Câu][Conjunctional Base] định hình dưới dạng một khối mã con nằm gọn hoàn toàn bên trong vùng mã tổng thể, chứa đầy đủ [Danh Chủ][Noun Subject] riêng "the platform" và cụm hành động riêng thiết lập theo trục thời hiện tại đi sau thành phần [Liên Cơ][Conjunctional Base] "how".</li>
       
           <li className="list-none">Chức năng: {'{how the platform creates personalized content}'} - [Danh Câu][Noun Clause] đóng vai trò làm [Danh Nhận][Noun Object] chịu sự điều phối trực tiếp từ hạt nhân hành động "analyze" ở tầng ngoài, tích hợp chuỗi thông tin tiếp nhận hành động để làm rõ nội dung cho việc phân tích.</li>
       
@@ -660,7 +660,7 @@ export default function Create(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li className="list-none">Hình thái: {'{why the campaign created mixed reactions}'} - [Hiển-Liên Động Câu][Connector Verb Clause] định hình dưới dạng một khối mã con nằm gọn hoàn toàn bên trong vùng mã tổng thể, chứa đầy đủ [Danh Chủ][Noun Subject] riêng "the campaign" và cụm hành động riêng thiết lập theo trục thời quá khứ đi sau thành thành phần [Liên Cơ][Connector Base] "why".</li>
+          <li className="list-none">Hình thái: {'{why the campaign created mixed reactions}'} - [Liên Câu][Conjunctional Base] định hình dưới dạng một khối mã con nằm gọn hoàn toàn bên trong vùng mã tổng thể, chứa đầy đủ [Danh Chủ][Noun Subject] riêng "the campaign" và cụm hành động riêng thiết lập theo trục thời quá khứ đi sau thành thành phần [Liên Cơ][Conjunctional Base] "why".</li>
       
           <li className="list-none">Chức năng: {'{why the campaign created mixed reactions}'} - [Danh Câu][Noun Clause] đóng vai trò làm [Danh Nhận][Noun Object] chịu sự điều phối trực tiếp từ hạt nhân hành động "exploring" ở tầng ngoài, làm rõ nội dung cho việc khám phá.</li>
       
@@ -692,7 +692,7 @@ export default function Create(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li className="list-none">Hình thái: {'{how the system creates database backups}'} - [Hiển-Liên Động Câu][Connector Verb Clause] định hình dưới dạng khối mã con nằm gọn bên trong, chứa [Danh Chủ][Noun Subject] "the system" và cụm hành động đi sau thành phần [Liên Cơ][Connector Base] "how".</li>
+          <li className="list-none">Hình thái: {'{how the system creates database backups}'} - [Liên Câu][Conjunctional Base] định hình dưới dạng khối mã con nằm gọn bên trong, chứa [Danh Chủ][Noun Subject] "the system" và cụm hành động đi sau thành phần [Liên Cơ][Conjunctional Base] "how".</li>
       
           <li className="list-none">Chức năng: {'{how the system creates database backups}'} - [Danh Câu][Noun Clause] đóng vai trò làm [Danh Nhận][Noun Object] chịu sự điều phối trực tiếp ở tầng ngoài.</li>
       
@@ -724,7 +724,7 @@ export default function Create(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li className="list-none">Hình thái: {'{why the department created excessive expenses}'} - [Hiển-Liên Động Câu][Connector Verb Clause] định hình dưới dạng khối mã con nằm gọn bên trong, chứa [Danh Chủ][Noun Subject] riêng "the department" và cụm hành động riêng thuộc trục thời quá khứ đi sau thành phần [Liên Cơ][Connector Base] "why".</li>
+          <li className="list-none">Hình thái: {'{why the department created excessive expenses}'} - [Liên Câu][Conjunctional Base] định hình dưới dạng khối mã con nằm gọn bên trong, chứa [Danh Chủ][Noun Subject] riêng "the department" và cụm hành động riêng thuộc trục thời quá khứ đi sau thành phần [Liên Cơ][Conjunctional Base] "why".</li>
       
           <li className="list-none">Chức năng: {'{why the department created excessive expenses}'} - [Danh Câu][Noun Clause] đóng vai trò làm [Danh Nhận][Noun Object] chịu sự điều phối trực tiếp của [Giới Cơ][Prepositional Base] "on" ở tầng ngoài.</li>
       
@@ -780,14 +780,14 @@ export default function Create(): React.JSX.Element {
         </ul>
       
       
-      <p className="margin-top-20 text-indent-whole"><strong>Nâng cấp lên</strong> [<strong>Hiển-Liên Động Câu</strong>][<strong>Connector Verb Clause</strong>]</p>
+      <p className="margin-top-20 text-indent-whole"><strong>Nâng cấp lên</strong> [<strong>Liên Câu</strong>][<strong>Conjunctional Base</strong>]</p>
       
         <ul className="list-square">
       
           <li>The company boosted sales [because the team created innovative marketing campaigns].</li>
           <li className="margin-bottom-20 list-none">Công ty đã tăng doanh số [vì đội ngũ đã tạo ra các chiến dịch tiếp thị đổi mới].</li>
       
-          <li className="list-none">Hình thái mới: [because the team created innovative marketing campaigns] - [Hiển-Liên Động Câu][Connector Verb Clause] hiển thị dưới dạng khối mã chứa đầy đủ [Danh Chủ][Noun Subject] "the team" và cụm hành động đi sau thành phần [Liên Cơ][Connector Base] "because".</li>
+          <li className="list-none">Hình thái mới: [because the team created innovative marketing campaigns] - [Liên Câu][Conjunctional Base] hiển thị dưới dạng khối mã chứa đầy đủ [Danh Chủ][Noun Subject] "the team" và cụm hành động đi sau thành phần [Liên Cơ][Conjunctional Base] "because".</li>
       
           <li className="list-none">Chức năng mới: [because the team created innovative marketing campaigns] - [Trạng Câu][Adverb Clause] đảm nhận vai trò bối cảnh nguyên nhân ở cấp độ cao cấp hơn, bổ nghĩa cho toàn bộ phần diện thông tin chính.</li>
       
@@ -801,7 +801,7 @@ export default function Create(): React.JSX.Element {
           <li>The firm hired an agency [which creates promotional materials effectively].</li>
           <li className="margin-bottom-20 list-none">Công ty đã thuê một đại lý [cái mà tạo ra các tài liệu quảng cáo một cách hiệu quả].</li>
       
-          <li className="list-none">Hình thái gốc: [which creates promotional materials effectively] - [Hiển-Liên Động Câu][Connector Verb Clause] thiết lập theo dạng phân hệ hệ con đầy đủ bổ nghĩa đứng sau một khối tên gọi, chứa thành phần [Liên Cơ][Connector Base] "which" và cụm hành động phía sau.</li>
+          <li className="list-none">Hình thái gốc: [which creates promotional materials effectively] - [Liên Câu][Conjunctional Base] thiết lập theo dạng phân hệ hệ con đầy đủ bổ nghĩa đứng sau một khối tên gọi, chứa thành phần [Liên Cơ][Conjunctional Base] "which" và cụm hành động phía sau.</li>
       
           <li className="list-none">Chức năng: [which creates promotional materials effectively] - [Tính Câu][Adjective Clause] đóng vai trò một module lọc nhằm định nghĩa đặc điểm cho đối tượng "agency".</li>
       

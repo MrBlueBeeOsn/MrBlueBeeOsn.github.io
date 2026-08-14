@@ -58,7 +58,7 @@ export default function (): React.JSX.Element {
 				"[Adverb Clause]"
 			],
 			correctAnswer: 0,
-			explanation: "Morphology: [while reconciling the bank statement] - [Hiển-Liên Tiếp Động Cụm][Connector Progressive Verb Phrase] structured as a reduced adverbial phrase containing a time conjunction and a gerund phrase. \n\n Function: [while reconciling the bank statement] - [Trạng Cụm][Adverb Phrase] modifying the main action \"found\" by establishing the exact accounting timeframe."
+			explanation: "Morphology: [while reconciling the bank statement] - [Liên Tiếp Động Cụm][Conjunctional Phrase] structured as a reduced adverbial phrase containing a time conjunction and a gerund phrase. \n\n Function: [while reconciling the bank statement] - [Trạng Cụm][Adverb Phrase] modifying the main action \"found\" by establishing the exact accounting timeframe."
 		},
 		{
 			id: 5,
@@ -68,7 +68,7 @@ export default function (): React.JSX.Element {
 				"[Noun Clause]"
 			],
 			correctAnswer: 1,
-			explanation: "Morphology: [That the company's annual revenue increased] - [Hiển-Liên Động Câu][Connector Verb Clause] containing a subordinate conjunction, a clear corporate subject, and an intransitive past tense verb. \n\n Function: [That the company's annual revenue increased] - [Danh Câu][Noun Clause] functioning as the complete grammatical subject that triggered the psychological reaction of the investors."
+			explanation: "Morphology: [That the company's annual revenue increased] - [Liên Câu][Conjunctional Base] containing a subordinate conjunction, a clear corporate subject, and an intransitive past tense verb. \n\n Function: [That the company's annual revenue increased] - [Danh Câu][Noun Clause] functioning as the complete grammatical subject that triggered the psychological reaction of the investors."
 		},
 		{
 			id: 6,
@@ -88,7 +88,7 @@ export default function (): React.JSX.Element {
 				"[Adverb Clause]"
 			],
 			correctAnswer: 1,
-			explanation: "Morphology: [Because the travel expenses were not authorized] - [Hiển-Liên Động Câu][Connector Verb Clause] utilizing a causal conjunction coupled with a complete financial subject and a passive voice verb structure. \n\n Function: [Because the travel expenses were not authorized] - [Trạng Câu][Adverb Clause] modifying the independent clause by providing the regulatory reason why the reimbursement failed."
+			explanation: "Morphology: [Because the travel expenses were not authorized] - [Liên Câu][Conjunctional Base] utilizing a causal conjunction coupled with a complete financial subject and a passive voice verb structure. \n\n Function: [Because the travel expenses were not authorized] - [Trạng Câu][Adverb Clause] modifying the independent clause by providing the regulatory reason why the reimbursement failed."
 		},
 		{
 			id: 8,
@@ -118,7 +118,7 @@ export default function (): React.JSX.Element {
 				"[Adjective Clause]"
 			],
 			correctAnswer: 0,
-			explanation: "Morphology: [whether the general ledger was updated] - [Hiển-Liên Động Câu][Connector Verb Clause] introduced by an interrogative subordinator followed by a passive financial clause layout. \n\n Function: [whether the general ledger was updated] - [Danh Câu][Noun Clause] completing the predicate of the sentence by acting as the direct noun object for the inquiry verb \"asked\"."
+			explanation: "Morphology: [whether the general ledger was updated] - [Liên Câu][Conjunctional Base] introduced by an interrogative subordinator followed by a passive financial clause layout. \n\n Function: [whether the general ledger was updated] - [Danh Câu][Noun Clause] completing the predicate of the sentence by acting as the direct noun object for the inquiry verb \"asked\"."
 		}
 	];
 

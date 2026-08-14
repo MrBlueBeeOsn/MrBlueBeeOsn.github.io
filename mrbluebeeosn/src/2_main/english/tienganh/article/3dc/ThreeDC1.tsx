@@ -394,9 +394,9 @@ export default function ThreeDC1(): React.ReactElement {
 
 
 
-			<h4 className="margin-y-40">4. Hình thái [HIỂN-LIÊN ĐỘNG CÂU][CONNECTOR VERB CLAUSE]</h4>
+			<h4 className="margin-y-40">4. Hình thái [LIÊN CÂU][CONJUNCTIONAL CLAUSE]</h4>
 
-			<p className="text-indent-whole">Là đơn vị hành động mạnh mẽ nhất vì chứa cấu trúc khối hoàn chỉnh bên trong có [Danh Chủ][Noun Subject] và các cấu hình [Động Cơ][Verb Base] riêng biệt, đồng thời được dẫn dắt trực tiếp bởi một [Liên Cơ][Connector Base] tường minh:</p>
+			<p className="text-indent-whole">Là đơn vị hành động mạnh mẽ nhất vì chứa cấu trúc khối hoàn chỉnh bên trong có [Danh Chủ][Noun Subject] và các cấu hình [Động Cơ][Verb Base] riêng biệt, đồng thời được dẫn dắt trực tiếp bởi một [Liên Cơ][Conjunctional Base] tường minh:</p>
 
 
 			<p className="text-indent-whole"><strong>Ví dụ 1a</strong>: <strong>Sinh ra</strong> [<strong>DANH CÂU</strong>][<strong>NOUN CLAUSE</strong>] <strong>làm khối</strong> [<strong>Danh Chủ</strong>][<strong>Noun Subject</strong>]</p>
@@ -406,7 +406,7 @@ export default function ThreeDC1(): React.ReactElement {
 					<li>[How the team secures the funding] remains a critical question.</li>
 					<li className="margin-bottom-20 list-none">[Cách mà đội ngũ đảm bảo nguồn vốn] vẫn là một câu hỏi then chốt.</li>
 			
-					<li className="list-none">Hình thái: Khối [How the team secures the funding] - [Hiển-Liên Động Câu][Connector Verb Clause] bắt đầu bằng [Liên Cơ][Connector Base] "How" kết hợp với cấu trúc một khối hoàn chỉnh có [Danh Chủ][Noun Subject] "the team" và [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "secures".</li>
+					<li className="list-none">Hình thái: Khối [How the team secures the funding] - [Liên Câu][Conjunctional Base] bắt đầu bằng [Liên Cơ][Conjunctional Base] "How" kết hợp với cấu trúc một khối hoàn chỉnh có [Danh Chủ][Noun Subject] "the team" và [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "secures".</li>
 			
 					<li className="list-none">Chức năng: Khối [How the team secures the funding] - [Danh Câu][Noun Clause] đóng vai trò làm [Danh Chủ][Noun Subject] đứng trước điều phối [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "remains".</li>
 			
@@ -420,7 +420,7 @@ export default function ThreeDC1(): React.ReactElement {
 					<li>The analysis revealed [that the algorithm possessed a bias].</li>
 					<li className="margin-bottom-20 list-none">Kết quả phân tích cho thấy [rằng thuật toán đã có một sự thiên vị].</li>
 			
-					<li className="list-none">Hình thái: Khối [that the algorithm possessed a bias] - [Hiển-Liên Động Câu][Connector Verb Clause] bắt đầu bằng [Liên Cơ][Connector Base] "that" kết hợp với cấu trúc một khối hoàn chỉnh có [Danh Chủ][Noun Subject] "the algorithm" và [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "possessed".</li>
+					<li className="list-none">Hình thái: Khối [that the algorithm possessed a bias] - [Liên Câu][Conjunctional Base] bắt đầu bằng [Liên Cơ][Conjunctional Base] "that" kết hợp với cấu trúc một khối hoàn chỉnh có [Danh Chủ][Noun Subject] "the algorithm" và [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "possessed".</li>
 			
 					<li className="list-none">Chức năng: Khối [that the algorithm possessed a bias] - [Danh Câu][Noun Clause] làm khối [Danh Nhận][Noun Object] chịu tác động trực tiếp đứng sau điều phối của [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "revealed".</li>
 			
@@ -434,7 +434,7 @@ export default function ThreeDC1(): React.ReactElement {
 					<li>The software [which the team deployed last night] crashed.</li>
 					<li className="margin-bottom-20 list-none">Phần mềm [mà đội ngũ đã triển khai đêm qua] đã gặp sự cố.</li>
 			
-					<li className="list-none">Hình thái: Khối [which the team deployed last night] - [Hiển-Liên Động Câu][Connector Verb Clause] bắt đầu bằng [Liên Cơ][Connector Base] quan hệ "which" kết hợp với cấu trúc một khối hoàn chỉnh có [Danh Chủ][Noun Subject] "the team" và [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "deployed".</li>
+					<li className="list-none">Hình thái: Khối [which the team deployed last night] - [Liên Câu][Conjunctional Base] bắt đầu bằng [Liên Cơ][Conjunctional Base] quan hệ "which" kết hợp với cấu trúc một khối hoàn chỉnh có [Danh Chủ][Noun Subject] "the team" và [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "deployed".</li>
 			
 					<li className="list-none">Chức năng: Khối [which the team deployed last night] - [Tính Câu][Adjective Clause] đứng ôm ngay sau thực thể "The software" để bổ nghĩa chi tiết cho thực thể đó.</li>
 			
@@ -448,7 +448,7 @@ export default function ThreeDC1(): React.ReactElement {
 					<li>We will halt production [unless the quality standard improves].</li>
 					<li className="margin-bottom-20 list-none">Chúng tôi sẽ dừng sản xuất [trừ khi tiêu chuẩn chất lượng cải thiện].</li>
 			
-					<li className="list-none">Hình thái: Khối [unless the quality standard improves] - [Hiển-Liên Động Câu][Connector Verb Clause] bắt đầu bằng [Liên Cơ][Connector Base] điều kiện "unless" kết hợp với cấu trúc khối hoàn chỉnh có [Danh Chủ][Noun Subject] "the quality standard" và [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "improves".</li>
+					<li className="list-none">Hình thái: Khối [unless the quality standard improves] - [Liên Câu][Conjunctional Base] bắt đầu bằng [Liên Cơ][Conjunctional Base] điều kiện "unless" kết hợp với cấu trúc khối hoàn chỉnh có [Danh Chủ][Noun Subject] "the quality standard" và [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "improves".</li>
 			
 					<li className="list-none">Chức năng: Khối [unless the quality standard improves] - [Trạng Câu][Adverb Clause] bổ nghĩa bối cảnh tình huống điều kiện cho hành động dừng được định vị bởi [Áp-Thái Động Cơ][Assertive-Modal Verb Base] "will".</li>
 			
@@ -457,9 +457,9 @@ export default function ThreeDC1(): React.ReactElement {
 
 			{/* VI. */}
 
-			<h3 className="margin-y-50 text-center">VI. HIỆN TƯỢNG [ẨN-LIÊN ĐỘNG CÂU][ZERO-CONNECTOR VERB CLAUSE]</h3>
+			<h3 className="margin-y-50 text-center">VI. HIỆN TƯỢNG [ẨN LIÊN CÂU][ZERO CONJUNCTIONAL CLAUSE]</h3>
 
-			<p>Trong thực tế, rất nhiều khối [Động Câu][Verb Clause] được lược bỏ hoàn toàn [Liên Cơ][Connector Base] dẫn dắt. Lúc này, khối biểu hiện có hình thái bề ngoài giống hệt như một câu độc lập, nhưng chúng bắt buộc phải gắn kết chặt chẽ vào hệ thống để thực thi các chức năng cốt lõi:</p>
+			<p>Trong thực tế, rất nhiều khối [Động Câu][Verb Clause] được lược bỏ hoàn toàn [Liên Cơ][Conjunctional Base] dẫn dắt. Lúc này, khối biểu hiện có hình thái bề ngoài giống hệt như một câu độc lập, nhưng chúng bắt buộc phải gắn kết chặt chẽ vào hệ thống để thực thi các chức năng cốt lõi:</p>
 
 
 			<p className="margin-top-20"><strong>Ví dụ 1</strong>: [<strong>DANH CÂU</strong>][<strong>NOUN CLAUSE</strong>]:</p>
@@ -469,7 +469,7 @@ export default function ThreeDC1(): React.ReactElement {
 					<li>The executive assumed [the board would approve the budget].</li>
 					<li className="margin-bottom-20 list-none">Vị giám đốc điều hành đã giả định [ban quản trị sẽ phê duyệt ngân sách].</li>
 			
-					<li className="list-none">Hình thái: Khối [the board would approve the budget] - [Ẩn-Liên Động Câu][Zero-Connector Verb Clause] lồng ghép trực tiếp đứng sau hành động chính mà không cần sự hỗ trợ của [Liên Cơ][Connector Base] "that".</li>
+					<li className="list-none">Hình thái: Khối [the board would approve the budget] - [Ẩn Liên Câu][Zero Conjunctional Clause] lồng ghép trực tiếp đứng sau hành động chính mà không cần sự hỗ trợ của [Liên Cơ][Conjunctional Base] "that".</li>
 			
 					<li className="list-none">Chức năng: Khối [the board would approve the budget] thực thi chức năng [Danh Câu][Noun Clause] làm nhiệm vụ của một [Danh Nhận][Noun Object] chịu tác động trực tiếp đứng sau sự điều phối của [Thời-Thuần Động Cơ][Tense-Bare Verb Base] assumed.</li>
 			
@@ -483,7 +483,7 @@ export default function ThreeDC1(): React.ReactElement {
 					<li>The mentor [I consulted yesterday] provided invaluable advice.</li>
 					<li className="margin-bottom-20 list-none">Người cố vấn [tôi đã xin ý kiến ngày hôm qua] đã đưa ra lời khuyên vô giá.</li>
 			
-					<li className="list-none">Hình thái: Khối [I consulted yesterday] - [Ẩn-Liên Động Câu][Zero-Connector Verb Clause] có sự lược bỏ [Liên Cơ][Connector Base] dẫn dắt đối tượng nhưng vẫn đảm bảo cấu trúc chủ-vị hoàn chỉnh ở bên trong.</li>
+					<li className="list-none">Hình thái: Khối [I consulted yesterday] - [Ẩn Liên Câu][Zero Conjunctional Clause] có sự lược bỏ [Liên Cơ][Conjunctional Base] dẫn dắt đối tượng nhưng vẫn đảm bảo cấu trúc chủ-vị hoàn chỉnh ở bên trong.</li>
 			
 					<li className="list-none">Chức năng: Khối [I consulted yesterday] thực thi chức năng [Tính Câu][Adjective Clause] đứng ôm ngay sau thực thể "The mentor" để bổ nghĩa đặc điểm định danh cho thực thể đó.</li>
 			
@@ -497,7 +497,7 @@ export default function ThreeDC1(): React.ReactElement {
 					<li>The higher the pressure rises, [the faster the chemical reacts].</li>
 					<li className="margin-bottom-20 list-none">Áp suất càng tăng cao, [hóa chất càng phản ứng nhanh hơn].</li>
 			
-					<li className="list-none">Hình thái: Khối [the faster the chemical reacts] - [Ẩn-Liên Động Câu][Zero-Connector Verb Clause] mang cấu trúc so sánh lũy tiến song hành đặc trưng nhưng không sử dụng [Liên Cơ][Connector Base] phụ thuộc truyền thống.</li>
+					<li className="list-none">Hình thái: Khối [the faster the chemical reacts] - [Ẩn Liên Câu][Zero Conjunctional Clause] mang cấu trúc so sánh lũy tiến song hành đặc trưng nhưng không sử dụng [Liên Cơ][Conjunctional Base] phụ thuộc truyền thống.</li>
 			
 					<li className="list-none">Chức năng: Khối [the faster the chemical reacts] thực thi chức năng [Trạng Câu][Adverb Clause] đóng vai trò một khối bối cảnh tương quan hệ quả để bổ nghĩa bối cảnh hệ quả cho vế điều kiện phía trước.</li>
 			
@@ -522,7 +522,7 @@ export default function ThreeDC1(): React.ReactElement {
 					<li>It demands scientific research [to understand {'{why the species went extinct}'}].</li>
 					<li className="margin-bottom-20 list-none">Đòi hỏi các nghiên cứu khoa học [để thấu hiểu {'{tại sao loài này tuyệt chủng}'}].</li>
 			
-					<li className="list-none">Hình thái: Khối bao ngoài [to understand {'{why the species went extinct}'}] là một [Tầng Hạt Thuần Động Cụm][Tiered Particle Bare Verb Phrase] bắt đầu bằng [Hạt Thuần Động Cơ][Particle Bare Verb Base] "to". Bên trong bao gói {'{why the species went extinct}'} là một [Hiển-Liên Động Câu][Connector Verb Clause] dẫn dắt bằng biểu hiện nghi vấn "why".</li>
+					<li className="list-none">Hình thái: Khối bao ngoài [to understand {'{why the species went extinct}'}] là một [Tầng Hạt Thuần Động Cụm][Tiered Particle Bare Verb Phrase] bắt đầu bằng [Hạt Thuần Động Cơ][Particle Bare Verb Base] "to". Bên trong bao gói {'{why the species went extinct}'} là một [Liên Câu][Conjunctional Base] dẫn dắt bằng biểu hiện nghi vấn "why".</li>
 			
 					<li className="list-none">Chức năng: Khối {'{why the species went extinct}'} bên trong đóng vai trò là [Danh Câu][Noun Clause] làm [Danh Nhận][Noun Object] chịu sự điều phối của [Thuần Động Cơ][Bare Verb Base] "understand". Toàn bộ khối hỗn hợp [to understand {'{why the species went extinct}'}] vận hành với chức năng [<strong>Danh Cụm</strong>][<strong>Noun Phrase</strong>] đóng vai trò tổng thể làm khối [Danh Chủ][Noun Subject] đứng sau [Thời-Thuần Động Cụm][Tense-Bare Verb Phrase] demands scientific research để bổ nghĩa cho [Giữ Chủ][Placeholder Subject] It.</li>
 			
@@ -536,7 +536,7 @@ export default function ThreeDC1(): React.ReactElement {
 					<li>The scientists hope [to demonstrate {'{how the drug works}'}].</li>
 					<li className="margin-bottom-20 list-none">Các nhà khoa học hy vọng [chứng minh được {'{thuốc hoạt động như thế nào}'}].</li>
 			
-					<li className="list-none">Hình thái: Khối bao ngoài [to demonstrate {'{how the drug works}'}] là một [Tầng Hạt Thuần Động Cụm][Tiered Particle Bare Verb Phrase] bắt đầu bằng [Hạt Thuần Động Cơ][Particle Bare Verb Base] "to demonstrate". Bên trong bao gói {'{how the drug works}'} là một [Hiển-Liên Động Câu][Connector Verb Clause] bắt đầu bằng [Liên Cơ][Connector Base] "how".</li>
+					<li className="list-none">Hình thái: Khối bao ngoài [to demonstrate {'{how the drug works}'}] là một [Tầng Hạt Thuần Động Cụm][Tiered Particle Bare Verb Phrase] bắt đầu bằng [Hạt Thuần Động Cơ][Particle Bare Verb Base] "to demonstrate". Bên trong bao gói {'{how the drug works}'} là một [Liên Câu][Conjunctional Base] bắt đầu bằng [Liên Cơ][Conjunctional Base] "how".</li>
 			
 					<li className="list-none">Chức năng: Khối {'{how the drug works}'} bên trong đóng vai trò là [Danh Câu][Noun Clause] làm [Danh Nhận][Noun Object] chịu sự điều phối trực tiếp của [Thuần Động Cơ][Bare Verb Base] "demonstrate". Toàn bộ khối hỗn hợp [to demonstrate {'{how the drug works}'}] vận hành với chức năng [<strong>Danh Cụm</strong>][<strong>Noun Phrase</strong>] đóng vai trò tổng thể làm khối [Danh Nhận][Noun Object] chịu sự điều phối trực tiếp của [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "hope".</li>
 			
@@ -551,7 +551,7 @@ export default function ThreeDC1(): React.ReactElement {
 					<li>The dispute [over {'{whether the company should merge}'}] delayed the negotiation.</li>
 					<li className="margin-bottom-20 list-none">Cuộc tranh chấp [về việc {'{liệu công ty có nên sáp nhập hay không}'}] đã làm trì hoãn cuộc đàm phán.</li>
 			
-					<li className="list-none">Hình thái: Khối tổng thể [over {'{whether the company should merge}'}] là một [Tầng Giới Cụm][Tiered Prepositional Phrase] bắt đầu bằng [Giới Cơ][Prepositional Base] "over". Bên trong bao gói {'{whether the company should merge}'} là một [Hiển-Liên Động Câu][Connector Verb Clause] được mở đầu bằng [Liên Cơ][Connector Base] "whether".</li>
+					<li className="list-none">Hình thái: Khối tổng thể [over {'{whether the company should merge}'}] là một [Tầng Giới Cụm][Tiered Prepositional Phrase] bắt đầu bằng [Giới Cơ][Prepositional Base] "over". Bên trong bao gói {'{whether the company should merge}'} là một [Liên Câu][Conjunctional Base] được mở đầu bằng [Liên Cơ][Conjunctional Base] "whether".</li>
 			
 					<li className="list-none">Chức năng: Khối {'{whether the company should merge}'} bên trong thực thi chức năng [Danh Câu][Noun Clause] làm [Danh Nhận][Noun Object] nhận quan hệ trực tiếp đứng sau [Giới Cơ][Prepositional Base] over. Toàn bộ khối hỗn hợp [over {'{whether the company should merge}'}] vận hành với chức năng [<strong>Tính Cụm</strong>][<strong>Adjective Phrase</strong>] ở tầng ngoài để ôm sau bổ nghĩa đặc điểm cho cụm The dispute.</li>
 			
@@ -565,7 +565,7 @@ export default function ThreeDC1(): React.ReactElement {
 					<li>They redesigned the network [because of {'{how frequently the server crashed}'}].</li>
 					<li className="margin-bottom-20 list-none">Họ đã thiết kế lại hệ thống mạng [bởi vì {'{máy chủ đã trục trặc thường xuyên như thế nào}'}].</li>
 			
-					<li className="list-none">Hình thái: Khối tổng thể [because of {'{how frequently the server crashed}'}] là một [Tầng Phức Giới Cụm][Tiered Complex Prepositional Phrase] bắt đầu bằng [Phức Giới Cơ][Complex Prepositional Base] "because of". Bên trong bao gói {'{how frequently the server crashed}'} là một [Hiển-Liên Động Câu][Connector Verb Clause] bắt đầu bằng tổ hợp tuyến tính gồm [Liên Cơ][Connector Base] "how" kết hợp cùng [Trạng Cơ][Adverb Base] "frequently".</li>
+					<li className="list-none">Hình thái: Khối tổng thể [because of {'{how frequently the server crashed}'}] là một [Tầng Phức Giới Cụm][Tiered Complex Prepositional Phrase] bắt đầu bằng [Phức Giới Cơ][Complex Prepositional Base] "because of". Bên trong bao gói {'{how frequently the server crashed}'} là một [Liên Câu][Conjunctional Base] bắt đầu bằng tổ hợp tuyến tính gồm [Liên Cơ][Conjunctional Base] "how" kết hợp cùng [Trạng Cơ][Adverb Base] "frequently".</li>
 			
 					<li className="list-none">Chức năng: Khối {'{how frequently the server crashed}'} bên trong thực thi chức năng [Danh Câu][Noun Clause] làm [Danh Nhận][Noun Object] nhận quan hệ trực tiếp đứng sau [Phức Giới Cơ][Complex Prepositional Base] because of. Toàn bộ khối hỗn hợp [because of {'{how frequently the server crashed}'}] thực thi chức năng [<strong>Trạng Cụm</strong>][<strong>Adverb Phrase</strong>] tổng thể đứng cuối để bổ nghĩa hoàn cảnh nguyên nhân cho [Thời-Thuần Động Cơ][Tense-Bare Verb Base] redesigned.</li>
 			
@@ -581,14 +581,14 @@ export default function ThreeDC1(): React.ReactElement {
 
 			<p className="margin-y-30 text-indent-whole"><strong>Gốc</strong>:</p>
 					
-			<p className="margin-top-20 text-indent-whole"><strong>Dùng hình thái</strong> [<strong>Hiển-Liên Động Câu</strong>][<strong>Connector Verb Clause</strong>]</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Dùng hình thái</strong> [<strong>Liên Câu</strong>][<strong>Conjunctional Base</strong>]</p>
 			
 				<ul className="list-square">
 			
 					<li>The system crashed [because the internal temperature escalated rapidly].</li>
 					<li className="margin-bottom-20 list-none">Hệ thống đã gặp sự cố [vì nhiệt độ bên trong leo thang nhanh chóng].</li>
 			
-					<li className="list-none">Hình thái: Khối [because the internal temperature escalated rapidly] - [Hiển-Liên Động Câu][Connector Verb Clause] bắt đầu bằng [Liên Cơ][Connector Base] "because" kết hợp với cấu trúc khối hoàn chỉnh có [Danh Chủ][Noun Subject] "the internal temperature" và [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "escalated".</li>
+					<li className="list-none">Hình thái: Khối [because the internal temperature escalated rapidly] - [Liên Câu][Conjunctional Base] bắt đầu bằng [Liên Cơ][Conjunctional Base] "because" kết hợp với cấu trúc khối hoàn chỉnh có [Danh Chủ][Noun Subject] "the internal temperature" và [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "escalated".</li>
 			
 					<li className="list-none">Chức năng: Khối [because the internal temperature escalated rapidly] - [Trạng Câu][Adverb Clause] thực hiện vai trò bổ nghĩa hoàn cảnh nguyên nhân cho hành động sập hệ thống được xác định bởi "crashed".</li>
 			
@@ -632,14 +632,14 @@ export default function ThreeDC1(): React.ReactElement {
 
 			<p className="margin-y-30 text-indent-whole"><strong>Gốc</strong>:</p>
 
-			<p className="text-indent-whole"><strong>Dùng hình thái</strong> [<strong>Hiển-Liên Động Câu</strong>][<strong>Connector Verb Clause</strong>]</p>
+			<p className="text-indent-whole"><strong>Dùng hình thái</strong> [<strong>Liên Câu</strong>][<strong>Conjunctional Base</strong>]</p>
 			
 				<ul className="list-square">
 			
 					<li>The code [which accelerates the rendering process] requires optimization.</li>
 					<li className="margin-bottom-20 list-none">Khối mã [mà tăng tốc quy trình kết xuất] cần được tối ưu hóa.</li>
 			
-					<li className="list-none">Hình thái: Khối [which accelerates the rendering process] - [Hiển-Liên Động Câu][Connector Verb Clause] bắt đầu bằng [Liên Cơ][Connector Base] quan hệ "which" đi kèm khối hoàn chỉnh có hạt nhân hành động "accelerates".</li>
+					<li className="list-none">Hình thái: Khối [which accelerates the rendering process] - [Liên Câu][Conjunctional Base] bắt đầu bằng [Liên Cơ][Conjunctional Base] quan hệ "which" đi kèm khối hoàn chỉnh có hạt nhân hành động "accelerates".</li>
 			
 					<li className="list-none">Chức năng: Khối [which accelerates the rendering process] - [Tính Câu][Adjective Clause] đứng ôm sát phía sau để bổ nghĩa đặc điểm định danh chi tiết cho khối biểu thị thực thể "The code".</li>
 			
@@ -682,7 +682,7 @@ export default function ThreeDC1(): React.ReactElement {
 
 			<h4 className="margin-y-40">3. Paraphrasing cho chức năng [DANH][NOUN]</h4>
 
-			<p className="margin-y-30 text-indent-whole"><strong>Gốc</strong>: <strong>Dùng hình thái</strong> [<strong>Hiển-Liên Động Câu</strong>][<strong>Connector Verb Clause</strong>]</p>
+			<p className="margin-y-30 text-indent-whole"><strong>Gốc</strong>: <strong>Dùng hình thái</strong> [<strong>Liên Câu</strong>][<strong>Conjunctional Base</strong>]</p>
 
 			<p className="margin-top-20 text-indent-whole">Làm [Danh Chủ][Noun Subject]</p>
 
@@ -692,14 +692,14 @@ export default function ThreeDC1(): React.ReactElement {
 					<li>The programmer discovered [how he could bypass the security firewall].</li>
 					<li className="margin-bottom-20 list-none">Lập trình viên đã phát hiện ra [cách mà anh ấy có thể vượt qua tường lửa bảo mật].</li>
 			
-					<li className="list-none">Hình thái: Khối [how he could bypass the security firewall] - [Hiển-Liên Động Câu][Connector Verb Clause] bắt đầu bằng [Liên Cơ][Connector Base] "how" lồng khối chủ vị hoàn chỉnh có [Ý-Thái Thuần Động Cơ][Soft-Modal Bare Verb Base] "could".</li>
+					<li className="list-none">Hình thái: Khối [how he could bypass the security firewall] - [Liên Câu][Conjunctional Base] bắt đầu bằng [Liên Cơ][Conjunctional Base] "how" lồng khối chủ vị hoàn chỉnh có [Ý-Thái Thuần Động Cơ][Soft-Modal Bare Verb Base] "could".</li>
 			
 					<li className="list-none">Chức năng: Khối [how he could bypass the security firewall] - [Danh Câu][Noun Clause] làm khối [Danh Nhận][Noun Object] nhận tác động trực tiếp của hành động "discovered".</li>
 			
 				</ul>
 			
 
-			<p className="margin-y-30 text-indent-whole"><strong>Viết lại</strong>: <strong>Đổi sang hình thái</strong> [<strong>Hiển-Liên Hạt Thuần Động Cụm</strong>][<strong>Connector Particle Bare Verb Phrase</strong>]</p>
+			<p className="margin-y-30 text-indent-whole"><strong>Viết lại</strong>: <strong>Đổi sang hình thái</strong> [<strong>Liên Hạt Thuần Động Cụm</strong>][<strong>Conjunctional Phrase</strong>]</p>
 
 			<p className="margin-top-20 text-indent-whole">Làm [Danh Nhận][Noun Object]</p>
 			
@@ -708,7 +708,7 @@ export default function ThreeDC1(): React.ReactElement {
 					<li>The programmer discovered [how to bypass the security firewall].</li>
 					<li className="margin-bottom-20 list-none">Lập trình viên đã phát hiện ra [cách vượt qua tường lửa bảo mật].</li>
 			
-					<li className="list-none">Hình thái: Khối [how to bypass the security firewall] - [Hiển-Liên Hạt Thuần Động Cụm][Connector Particle Bare Verb Phrase] bắt đầu bằng biểu hiện nghi vấn "how" dẫn dắt trực tiếp một cấu trúc hành động dạng "to + bare verb".</li>
+					<li className="list-none">Hình thái: Khối [how to bypass the security firewall] - [Liên Hạt Thuần Động Cụm][Conjunctional Phrase] bắt đầu bằng biểu hiện nghi vấn "how" dẫn dắt trực tiếp một cấu trúc hành động dạng "to + bare verb".</li>
 			
 					<li className="list-none">Chức năng: Khối [how to bypass the security firewall] - [Danh Cụm][Noun Phrase] làm khối [Danh Nhận][Noun Object] chịu sự điều phối của hành động "discovered".</li>
 			
@@ -718,9 +718,9 @@ export default function ThreeDC1(): React.ReactElement {
 
 			{/* IX. */}
 
-			<h3 className="margin-y-50 text-center">IX. TUYỆT CHIÊU PHÂN BIỆT [HIỂN-LIÊN ĐỘNG CÂU][CONNECTOR VERB CLAUSE] THẦN TỐC BẰNG MẸO [THẾ THÂN]</h3>
+			<h3 className="margin-y-50 text-center">IX. TUYỆT CHIÊU PHÂN BIỆT [LIÊN CÂU][CONJUNCTIONAL CLAUSE] THẦN TỐC BẰNG MẸO [THẾ THÂN]</h3>
 
-			<p>Khi gặp các khối [Hiển-Liên Động Câu][Connector Verb Clause] có hình thái giống hệt nhau (ví dụ: đều bắt đầu bằng một từ đa năng làm [Liên Cơ][Connector Base] như that, when, where), người học rất dễ bị bối rối.</p>
+			<p>Khi gặp các khối [Liên Câu][Conjunctional Base] có hình thái giống hệt nhau (ví dụ: đều bắt đầu bằng một từ đa năng làm [Liên Cơ][Conjunctional Base] như that, when, where), người học rất dễ bị bối rối.</p>
 
 			<p>Hãy áp dụng ngay phương pháp [<strong>Thế thân</strong>][<strong>Substitution</strong>] dựa trên nguyên lý thay thế bằng một khối từ mức độ [Cơ][Base] cơ bản:</p>
 			
@@ -738,7 +738,7 @@ export default function ThreeDC1(): React.ReactElement {
 				</ul>
 
 			
-			<h5 className="margin-y-30">Thử thách phá án 3 cấu trúc có cùng hình thái [Hiển-Liên Động Câu][Connector Verb Clause] chứa biểu hiện [Liên Cơ][Connector Base] "<strong>where</strong>":</h5>
+			<h5 className="margin-y-30">Thử thách phá án 3 cấu trúc có cùng hình thái [Liên Câu][Conjunctional Base] chứa biểu hiện [Liên Cơ][Conjunctional Base] "<strong>where</strong>":</h5>
 			
 
 			<p className="margin-top-20">Trường hợp A: Thử thế thân bằng [Trạng Cơ][Adverb Base] "<strong>there</strong>"</p>

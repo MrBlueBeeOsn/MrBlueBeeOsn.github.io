@@ -177,7 +177,7 @@ export default function SV2(): React.JSX.Element {
 					<li>[How she solved the puzzle] amazed everyone.</li>
 					<li className="margin-bottom-20 list-none">[Cách cô ấy giải câu đố] làm mọi người kinh ngạc.</li>
 			
-					<li className="list-none">Hình thái: [How she solved the puzzle] – [Hiển-Liên Động Câu][Connector Verb Clause] có một thành phần thực hiện hành động là she, hành động solved ở dạng có đuôi -ed, và the puzzle.</li>
+					<li className="list-none">Hình thái: [How she solved the puzzle] – [Liên Câu][Conjunctional Base] có một thành phần thực hiện hành động là she, hành động solved ở dạng có đuôi -ed, và the puzzle.</li>
 			
 					<li className="list-none">Chức năng: [How she solved the puzzle] – [Danh Câu][Noun Clause] đứng ở đầu câu, đảm nhận vai trò thực thể gây ra trạng thái amazed.</li>
 			
@@ -222,7 +222,7 @@ export default function SV2(): React.JSX.Element {
 					<li>The café [where we first met] has closed.</li>
 					<li className="margin-bottom-20 list-none">Quán cà phê [nơi chúng tôi gặp nhau lần đầu] đã đóng cửa.</li>
 			
-					<li className="list-none">Hình thái: [where we first met] – [Hiển-Liên Động Câu][Connector Verb Clause] có we là thành phần thực hiện hành động, met là hành động dạng có đuôi -ed, first là thành phần bổ sung.</li>
+					<li className="list-none">Hình thái: [where we first met] – [Liên Câu][Conjunctional Base] có we là thành phần thực hiện hành động, met là hành động dạng có đuôi -ed, first là thành phần bổ sung.</li>
 			
 					<li className="list-none">Chức năng: [where we first met] – [Tính Câu][Adjective Clause] đứng ngay sau The café, xác định rõ thực thể đang được nói đến.</li>
 			
@@ -268,7 +268,7 @@ export default function SV2(): React.JSX.Element {
 					<li>[Although it was late], they continued working.</li>
 					<li className="margin-bottom-20 list-none">[Mặc dù trời đã muộn], họ vẫn tiếp tục làm việc.</li>
 			
-					<li className="list-none">Hình thái: [Although it was late] – [Hiển-Liên Động Câu][Connector Verb Clause] có it là thành phần thực hiện hành động, was là động cơ, late là thành phần bổ sung.</li>
+					<li className="list-none">Hình thái: [Although it was late] – [Liên Câu][Conjunctional Base] có it là thành phần thực hiện hành động, was là động cơ, late là thành phần bổ sung.</li>
 			
 					<li className="list-none">Chức năng: [Although it was late] – [Trạng Câu][Adverb Clause] đứng đầu câu, bổ sung ý nghĩa về sự nhượng bộ cho toàn bộ câu chính.</li>
 			
@@ -289,7 +289,7 @@ export default function SV2(): React.JSX.Element {
 					<li>She [forgot {'{why I called her}'}].</li>
 					<li className="margin-bottom-20 list-none">Cô ấy [quên {'{tại sao tôi gọi cho cô ấy}'}].</li>
 			
-					<li className="list-none">Hình thái lớp trong: {'{why I called her}'} – [Hiển-Liên Động Câu][Connector Verb Clause] có I là thành phần thực hiện hành động, called là hành động dạng có đuôi -ed, her là đối tượng.</li>
+					<li className="list-none">Hình thái lớp trong: {'{why I called her}'} – [Liên Câu][Conjunctional Base] có I là thành phần thực hiện hành động, called là hành động dạng có đuôi -ed, her là đối tượng.</li>
 			
 					<li className="margin-bottom-20 list-none">Chức năng lớp trong: {'{why I called her}'} – [Danh Câu][Noun Clause] đóng vai trò là khối thông tin bên trong, được bao bọc bởi lớp ngoài.</li>
 
@@ -363,7 +363,7 @@ export default function SV2(): React.JSX.Element {
 					<li>I remember [that he was kind to me].</li>
 					<li className="margin-bottom-20 list-none">Tôi nhớ [rằng anh ấy đã tốt với tôi].</li>
 			
-					<li className="list-none">Hình thái: [that he was kind to me] – [Hiển-Liên Động Câu][Connector Verb Clause].</li>
+					<li className="list-none">Hình thái: [that he was kind to me] – [Liên Câu][Conjunctional Base].</li>
 			
 					<li className="list-none">Chức năng: [that he was kind to me] – [Danh Câu][Noun Clause] vẫn đứng sau hành động remember, cùng chức năng Danh Nhận.</li>
 			
@@ -381,7 +381,7 @@ export default function SV2(): React.JSX.Element {
 					<li>The student [who sits in the front row] always answers first.</li>
 					<li className="margin-bottom-20 list-none">Học sinh [ngồi ở hàng ghế đầu] luôn trả lời đầu tiên.</li>
 			
-					<li className="list-none">Hình thái: [who sits in the front row] – [Hiển-Liên Động Câu][Connector Verb Clause] có thành phần thực hiện hành động là who, hành động sits, và phần bổ sung in the front row.</li>
+					<li className="list-none">Hình thái: [who sits in the front row] – [Liên Câu][Conjunctional Base] có thành phần thực hiện hành động là who, hành động sits, và phần bổ sung in the front row.</li>
 			
 					<li className="list-none">Chức năng: [who sits in the front row] – [Tính Câu][Adjective Clause] đứng ngay sau The student, bổ sung đặc điểm.</li>
 			
@@ -426,7 +426,7 @@ export default function SV2(): React.JSX.Element {
 					<li>She called me [so that she could share the good news].</li>
 					<li className="margin-bottom-20 list-none">Cô ấy gọi cho tôi [để mà cô ấy có thể chia sẻ tin vui].</li>
 			
-					<li className="list-none">Hình thái: [so that she could share the good news] – [Hiển-Liên Động Câu][Connector Verb Clause].</li>
+					<li className="list-none">Hình thái: [so that she could share the good news] – [Liên Câu][Conjunctional Base].</li>
 			
 					<li className="list-none">Chức năng: [so that she could share the good news] – [Trạng Câu][Adverb Clause] vẫn bổ sung ý nghĩa mục đích.</li>
 			
@@ -477,7 +477,7 @@ export default function SV2(): React.JSX.Element {
 					<li>[That he finished the race] impressed [everyone].</li>
 					<li className="margin-bottom-20 list-none">[Việc anh ấy hoàn thành cuộc đua] gây ấn tượng [mọi người].</li>
 
-					<li className="list-none">Hình thái: [That he finished the race] – [Hiển-Liên Động Câu][Connector Verb Clause].</li>
+					<li className="list-none">Hình thái: [That he finished the race] – [Liên Câu][Conjunctional Base].</li>
 					<li className="margin-bottom-20 list-none">Chức năng: [That he finished the race] – [Danh Câu][Noun Clause] đứng ở đầu câu, là thực thể gây ra ấn tượng.</li>
 			
 					<li className="list-none">Hình thái: [everyone] – một khối [Danh Cơ] thuần túy.</li>

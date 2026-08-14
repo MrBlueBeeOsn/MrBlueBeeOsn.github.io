@@ -418,9 +418,9 @@ export default function Clear(): React.JSX.Element {
       <p className="margin-top-20 text-indent-whole">Dựa trên sự xuất hiện của mã kết nối, [Động Câu] được chia làm 2 phân hệ vận hành:</p>
 
           
-      <h5 className="margin-y-30 text-indent-whole">4.1 Phân hệ [Hiển-Liên Động Câu][Connector Verb Clause]</h5>
+      <h5 className="margin-y-30 text-indent-whole">4.1 Phân hệ [Liên Câu][Conjunctional Base]</h5>
 
-      <p className="margin-top-20 text-indent-whole">Phân hệ này sử dụng các mã kết nối ([Liên Cơ][Connector Base] hoặc mã định vị) xuất hiện trực tiếp ở đầu hệ con để làm điểm tựa liên kết dữ liệu.</p>
+      <p className="margin-top-20 text-indent-whole">Phân hệ này sử dụng các mã kết nối ([Liên Cơ][Conjunctional Base] hoặc mã định vị) xuất hiện trực tiếp ở đầu hệ con để làm điểm tựa liên kết dữ liệu.</p>
 
 
       <p className="margin-top-20 text-indent-whole"><strong>Hình thành chức năng Danh Câu</strong> [<strong>Noun Clause</strong>]</p>
@@ -432,7 +432,7 @@ export default function Clear(): React.JSX.Element {
           <li>I know [how you clear these system logs].</li>
           <li className="margin-bottom-20 list-none">Tôi biết [cách mà bạn xóa các nhật ký hệ thống này].</li>
       
-          <li className="list-none">Hình thái: [how you clear these system logs] - [Hiển-Liên Động Câu][Connector Verb Clause] chứa thành phần liên kết trực quan ở đầu, có [Danh Chủ][Noun Subject] "you" và [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "clear" thiết lập phối hợp hành động.</li>
+          <li className="list-none">Hình thái: [how you clear these system logs] - [Liên Câu][Conjunctional Base] chứa thành phần liên kết trực quan ở đầu, có [Danh Chủ][Noun Subject] "you" và [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "clear" thiết lập phối hợp hành động.</li>
       
           <li className="list-none">Chức năng: [how you clear these system logs] - [Danh Câu][Noun Clause] trở thành [Danh Nhận][Noun Object] chứa dữ liệu mục tiêu chịu tác động từ hành động "know".</li>
       
@@ -448,7 +448,7 @@ export default function Clear(): React.JSX.Element {
           <li>The engineer [who cleared the error codes] fixed the server.</li>
           <li className="margin-bottom-20 list-none">Người kỹ sư [người mà đã xóa các mã lỗi] đã sửa chữa máy chủ.</li>
       
-          <li className="list-none">Hình thái: [who cleared the error codes] - [Hiển-Liên Động Câu][Connector Verb Clause] chứa mã liên kết chỉ người đứng đầu, mang hạt nhân [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "cleared" xử lý bối cảnh thuộc trục thời quá khứ.</li>
+          <li className="list-none">Hình thái: [who cleared the error codes] - [Liên Câu][Conjunctional Base] chứa mã liên kết chỉ người đứng đầu, mang hạt nhân [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "cleared" xử lý bối cảnh thuộc trục thời quá khứ.</li>
       
           <li className="list-none">Chức năng: [who cleared the error codes] - [Tính Câu][Adjective Clause] hoạt động như một module lọc bổ sung đặt sau một khối tên gọi để nhận diện đối tượng "engineer".</li>
       
@@ -464,7 +464,7 @@ export default function Clear(): React.JSX.Element {
           <li>The team celebrated [because the leader cleared the project budget].</li>
           <li className="margin-bottom-20 list-none">Đội ngũ đã ăn mừng [vì người trưởng nhóm đã thông qua ngân sách dự án].</li>
       
-          <li className="list-none">Hình thái: [because the leader cleared the project budget] - [Hiển-Liên Động Câu][Connector Verb Clause] kích hoạt ngay sau [Liên Cơ][Connector Base] nguyên nhân "because", chứa [Danh Chủ][Noun Subject] "the leader" và [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "cleared" mang dấu mốc trục thời quá khứ.</li>
+          <li className="list-none">Hình thái: [because the leader cleared the project budget] - [Liên Câu][Conjunctional Base] kích hoạt ngay sau [Liên Cơ][Conjunctional Base] nguyên nhân "because", chứa [Danh Chủ][Noun Subject] "the leader" và [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "cleared" mang dấu mốc trục thời quá khứ.</li>
       
           <li className="list-none">Chức năng: [because the leader cleared the project budget] - [Trạng Câu][Adverb Clause] thiết lập module bối cảnh để bổ nghĩa cho toàn bộ phần diện thông tin chính "The team celebrated" đứng trước.</li>
       
@@ -472,7 +472,7 @@ export default function Clear(): React.JSX.Element {
 
 
 
-      <h5 className="margin-y-30 text-indent-whole">4.2 Phân hệ [Ẩn-Liên Động Câu][Zero-Connector Verb Clause]</h5>
+      <h5 className="margin-y-30 text-indent-whole">4.2 Phân hệ [Ẩn Liên Câu][Zero Conjunctional Clause]</h5>
 
       <p className="margin-top-20 text-indent-whole">Ở phân hệ này, các thành phần liên kết đã được người bản ngữ chủ động lược bỏ để tối ưu tốc độ truyền tải thông tin. Về diện mạo vật lý, khối mã này nhìn hoàn toàn giống như một hệ con độc lập có đầy đủ cặp bài trùng [Danh Chủ][Noun Subject] và Động Cơ, tuy nhiên chức năng của nó vẫn là chức năng phụ thuộc và vẫn sinh ra đầy đủ 3 đầu ra: Danh, Tính, Trạng.</p>
 
@@ -486,7 +486,7 @@ export default function Clear(): React.JSX.Element {
           <li>I believe [you cleared the storage space].</li>
           <li className="margin-bottom-20 list-none">Tôi tin [bạn đã dọn sạch không gian lưu trữ].</li>
       
-          <li className="list-none">Hình thái: [you cleared the storage space] - [Hiển-Liên Động Câu][Connector Verb Clause] đã ẩn [Liên Cơ][Connector Base] định hướng "that", chỉ còn hiển thị trọn vẹn khối [Danh Chủ][Noun Subject] "you" và [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "cleared".</li>
+          <li className="list-none">Hình thái: [you cleared the storage space] - [Liên Câu][Conjunctional Base] đã ẩn [Liên Cơ][Conjunctional Base] định hướng "that", chỉ còn hiển thị trọn vẹn khối [Danh Chủ][Noun Subject] "you" và [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "cleared".</li>
       
           <li className="list-none">Chức năng: [you cleared the storage space] - [Danh Câu][Noun Clause] đóng vai trò làm [Danh Nhận][Noun Object] nhận toàn bộ năng lượng niềm tin từ [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "believe".</li>
       
@@ -502,7 +502,7 @@ export default function Clear(): React.JSX.Element {
           <li>The desk [the employee cleared] looked very neat.</li>
           <li className="margin-bottom-20 list-none">Chiếc bàn làm việc [mà người nhân viên đã dọn dẹp] trông rất gọn gàng.</li>
       
-          <li className="list-none">Hình thái: [the employee cleared] - [Hiển-Liên Động Câu][Connector Verb Clause] đã ẩn mã liên kết vật thể đứng trước, giữ lại khối [Danh Chủ][Noun Subject] "the employee" và [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "cleared".</li>
+          <li className="list-none">Hình thái: [the employee cleared] - [Liên Câu][Conjunctional Base] đã ẩn mã liên kết vật thể đứng trước, giữ lại khối [Danh Chủ][Noun Subject] "the employee" và [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "cleared".</li>
       
           <li className="list-none">Chức năng: [the employee cleared] - [Tính Câu][Adjective Clause] đóng vai trò như bộ quét đặt ngay sau đối tượng "The desk" để làm rõ đặc điểm cho đối tượng này.</li>
       
@@ -518,7 +518,7 @@ export default function Clear(): React.JSX.Element {
           <li>[Should you clear the pending tasks today], we will start the new plan.</li>
           <li className="margin-bottom-20 list-none">[Nếu bạn giải quyết xong các nhiệm vụ còn tồn đọng trong hôm nay], chúng tôi sẽ bắt đầu kế hoạch mới.</li>
       
-          <li className="list-none">Hình thái: [Should you clear the pending tasks today] - [Hiển-Liên Động Câu][Connector Verb Clause] vận hành ở trạng thái ẩn [Liên Cơ][Connector Base] điều kiện "if" bằng giải pháp đảo [Ý-Thái Thuần Động Cơ][Soft-Modal Bare Verb Base] "Should" lên trước, tuy thiết lập bề mặt biến đổi nhưng bản chất vẫn giữ trọn vẹn [Danh Chủ][Noun Subject] "you" và [Thuần Động Cơ][Bare Verb Base] "clear".</li>
+          <li className="list-none">Hình thái: [Should you clear the pending tasks today] - [Liên Câu][Conjunctional Base] vận hành ở trạng thái ẩn [Liên Cơ][Conjunctional Base] điều kiện "if" bằng giải pháp đảo [Ý-Thái Thuần Động Cơ][Soft-Modal Bare Verb Base] "Should" lên trước, tuy thiết lập bề mặt biến đổi nhưng bản chất vẫn giữ trọn vẹn [Danh Chủ][Noun Subject] "you" và [Thuần Động Cơ][Bare Verb Base] "clear".</li>
       
           <li className="list-none">Chức năng: [Should you clear the pending tasks today] - [Trạng Câu][Adverb Clause] đảm nhận nhiệm vụ thiết lập khối bối cảnh giả định/điều kiện để bổ nghĩa cho toàn bộ phần diện thông tin chính phía sau.</li>
       
@@ -556,7 +556,7 @@ export default function Clear(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li className="list-none">Hình thái: {'{how the program clears metadata}'} - [Hiển-Liên Động Câu][Connector Verb Clause] định hình dưới dạng một khối mã con nằm gọn hoàn toàn bên trong vùng mã tổng thể, chứa đầy đủ [Danh Chủ][Noun Subject] riêng "the program" và [Thời-Thuần Động Cơ][Tense-Bare Verb Base] riêng "clears" thiết lập theo trục thời hiện tại.</li>
+          <li className="list-none">Hình thái: {'{how the program clears metadata}'} - [Liên Câu][Conjunctional Base] định hình dưới dạng một khối mã con nằm gọn hoàn toàn bên trong vùng mã tổng thể, chứa đầy đủ [Danh Chủ][Noun Subject] riêng "the program" và [Thời-Thuần Động Cơ][Tense-Bare Verb Base] riêng "clears" thiết lập theo trục thời hiện tại.</li>
       
           <li className="list-none">Chức năng: {'{how the program clears metadata}'} - [Danh Câu][Noun Clause] đóng vai trò làm [Danh Nhận][Noun Object] chịu sự điều phối trực tiếp từ hạt nhân hành động "Analyzing" ở tầng ngoài, tích hợp chuỗi thông tin tiếp nhận hành động để làm rõ nội dung cho việc phân tích.</li>
       
@@ -586,7 +586,7 @@ export default function Clear(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li className="list-none">Hình thái: {'{why the database clears sessions}'} - [Hiển-Liên Động Câu][Connector Verb Clause] định hình dưới dạng một khối mã con nằm gọn hoàn toàn bên trong vùng mã tổng thể, chứa đầy đủ [Danh Chủ][Noun Subject] riêng "the database" và [Thời-Thuần Động Cơ][Tense-Bare Verb Base] riêng "clears" thiết lập theo trục thời hiện tại đi sau liên từ "why".</li>
+          <li className="list-none">Hình thái: {'{why the database clears sessions}'} - [Liên Câu][Conjunctional Base] định hình dưới dạng một khối mã con nằm gọn hoàn toàn bên trong vùng mã tổng thể, chứa đầy đủ [Danh Chủ][Noun Subject] riêng "the database" và [Thời-Thuần Động Cơ][Tense-Bare Verb Base] riêng "clears" thiết lập theo trục thời hiện tại đi sau liên từ "why".</li>
       
           <li className="list-none">Chức năng: {'{why the database clears sessions}'} - [Danh Câu][Noun Clause] đóng vai trò làm [Danh Nhận][Noun Object] chịu sự điều phối trực tiếp từ hạt nhân hành động "monitoring" ở tầng ngoài, làm rõ nội dung cho việc giám sát.</li>
       
@@ -618,7 +618,7 @@ export default function Clear(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li className="list-none">Hình thái: {'{how they clear the security check}'} - [Hiển-Liên Động Câu][Connector Verb Clause] định hình dưới dạng khối mã con nằm gọn bên trong, chứa [Danh Chủ][Noun Subject] "they" và [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "clear".</li>
+          <li className="list-none">Hình thái: {'{how they clear the security check}'} - [Liên Câu][Conjunctional Base] định hình dưới dạng khối mã con nằm gọn bên trong, chứa [Danh Chủ][Noun Subject] "they" và [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "clear".</li>
       
           <li className="list-none">Chức năng: {'{how they clear the security check}'} - [Danh Câu][Noun Clause] đóng vai trò làm [Danh Nhận][Noun Object] chịu sự điều phối trực tiếp của [Giới Cơ] "about" ở tầng ngoài.</li>
       
@@ -651,7 +651,7 @@ export default function Clear(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li className="list-none">Hình thái: {'{where the team cleared the land}'} - [Hiển-Liên Động Câu][Connector Verb Clause] định hình dưới dạng khối mã con nằm gọn bên trong, chứa [Danh Chủ][Noun Subject] riêng "the team" và [Thời-Thuần Động Cơ][Tense-Bare Verb Base] riêng "cleared" thuộc trục thời quá khứ.</li>
+          <li className="list-none">Hình thái: {'{where the team cleared the land}'} - [Liên Câu][Conjunctional Base] định hình dưới dạng khối mã con nằm gọn bên trong, chứa [Danh Chủ][Noun Subject] riêng "the team" và [Thời-Thuần Động Cơ][Tense-Bare Verb Base] riêng "cleared" thuộc trục thời quá khứ.</li>
       
           <li className="list-none">Chức năng: {'{where the team cleared the land}'} - [Danh Câu][Noun Clause] đóng vai trò làm [Danh Nhận][Noun Object] chịu sự điều phối trực tiếp của [Giới Cơ] "at" ở tầng ngoài.</li>
       
@@ -722,7 +722,7 @@ export default function Clear(): React.JSX.Element {
           <li>We improved the performance [because the system cleared all junk data].</li>
           <li className="margin-bottom-20 list-none">Chúng tôi đã cải thiện hiệu suất [vì hệ thống đã dọn sạch tất cả dữ liệu rác].</li>
       
-          <li className="list-none">Hình thái mới: [because the system cleared all junk data] - [Hiển-Liên Động Câu][Connector Verb Clause] hiển thị dưới dạng khối mã chứa đầy đủ [Danh Chủ][Noun Subject] "the system" và hạt nhân [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "cleared" đi sau [Liên Cơ][Connector Base] "because".</li>
+          <li className="list-none">Hình thái mới: [because the system cleared all junk data] - [Liên Câu][Conjunctional Base] hiển thị dưới dạng khối mã chứa đầy đủ [Danh Chủ][Noun Subject] "the system" và hạt nhân [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "cleared" đi sau [Liên Cơ][Conjunctional Base] "because".</li>
       
           <li className="list-none">Chức năng mới: [because the system cleared all junk data] - [Trạng Câu][Adverb Clause] đảm nhận vai trò bối cảnh nguyên nhân ở cấp độ cao cấp hơn, bổ nghĩa cho toàn bộ phần diện thông tin chính.</li>
       
@@ -738,7 +738,7 @@ export default function Clear(): React.JSX.Element {
           <li>I like an application [which clears storage smoothly].</li>
           <li className="margin-bottom-20 list-none">Tôi thích một ứng dụng [cái mà dọn dẹp dung lượng một cách mượt mà].</li>
       
-          <li className="list-none">Hình thái gốc: [which clears storage smoothly] - [Hiển-Liên Động Câu][Connector Verb Clause] thiết lập theo dạng phân hệ hệ con đầy đủ bổ nghĩa đứng sau một khối tên gọi, chứa thành phần liên kết "which" và [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "clears".</li>
+          <li className="list-none">Hình thái gốc: [which clears storage smoothly] - [Liên Câu][Conjunctional Base] thiết lập theo dạng phân hệ hệ con đầy đủ bổ nghĩa đứng sau một khối tên gọi, chứa thành phần liên kết "which" và [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "clears".</li>
       
           <li className="list-none">Chức năng: [which clears storage smoothly] - [Tính Câu][Adjective Clause] đóng vai trò một module lọc nhằm định nghĩa đặc điểm cho đối tượng "application".</li>
       

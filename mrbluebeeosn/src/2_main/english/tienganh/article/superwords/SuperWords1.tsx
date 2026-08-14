@@ -401,13 +401,13 @@ export default function SuperWords1(): React.JSX.Element {
 
 			{/* 4.  */}
 
-			<h3 className="margin-y-50 text-center">4. Hình thái: [Hiển-Liên Động Câu][Connector Verb Clause]</h3>
+			<h3 className="margin-y-50 text-center">4. Hình thái: [Liên Câu][Conjunctional Base]</h3>
 
 			<p>Đây là hình thái hoàn chỉnh khi nó chứa cả một cấu trúc câu con có đầy đủ hệ thống hành động và được kết nối tường minh bởi một khối chữ liên kết đứng đầu.</p>
 
 			<p><strong>Quy ước trực quan</strong>: Dấu [] sẽ xác định ranh giới của câu con này.</p>
 
-			<p>Khi nhìn thấy hình thái [Hiển-Liên Động Câu][Connector Verb Clause], ta xác định chức năng dựa trên khuôn mẫu như sau:</p>
+			<p>Khi nhìn thấy hình thái [Liên Câu][Conjunctional Base], ta xác định chức năng dựa trên khuôn mẫu như sau:</p>
 
 			<p className="margin-top-20"><strong>Ví dụ 1a</strong>: [<strong>Danh Câu</strong>][<strong>Noun Clause</strong>] <strong>làm</strong> [<strong>Danh Chủ</strong>][<strong>Noun Subject</strong>]</p>
 			
@@ -416,7 +416,7 @@ export default function SuperWords1(): React.JSX.Element {
 					<li>[Whatever you decide] will shape our future.</li>
 					<li className="margin-bottom-20 list-none">[Bất cứ điều gì bạn quyết định] sẽ định hình tương lai của chúng ta.</li>
 			
-					<li className="list-none">Hình thái: [Whatever you decide] – [Hiển-Liên Động Câu][Connector Verb Clause] biểu thị một cấu trúc câu con hoàn chỉnh bắt đầu bằng [Liên Cơ][Connector Base] "whatever".</li>
+					<li className="list-none">Hình thái: [Whatever you decide] – [Liên Câu][Conjunctional Base] biểu thị một cấu trúc câu con hoàn chỉnh bắt đầu bằng [Liên Cơ][Conjunctional Base] "whatever".</li>
 			
 					<li className="list-none">Chức năng: [Whatever you decide] – [Danh Câu][Noun Clause] đang đứng ở đầu câu lớn để giữ vai trò làm [Danh Chủ][Noun Subject] thực hiện hành động "will shape".</li>
 			
@@ -430,7 +430,7 @@ export default function SuperWords1(): React.JSX.Element {
 					<li>I discovered [that she spoke the truth].</li>
 					<li className="margin-bottom-20 list-none">Tôi đã phát hiện ra [rằng cô ấy đã nói sự thật].</li>
 			
-					<li className="list-none">Hình thái: [that she spoke the truth] – [Hiển-Liên Động Câu][Connector Verb Clause] biểu thị một cấu trúc câu con hoàn chỉnh có đầy đủ chủ vị và được dẫn dắt hiển lộ bởi [Liên Cơ][Connector Base] "that".</li>
+					<li className="list-none">Hình thái: [that she spoke the truth] – [Liên Câu][Conjunctional Base] biểu thị một cấu trúc câu con hoàn chỉnh có đầy đủ chủ vị và được dẫn dắt hiển lộ bởi [Liên Cơ][Conjunctional Base] "that".</li>
 			
 					<li className="list-none">Chức năng: [that she spoke the truth] – [Danh Câu][Noun Clause] đang đứng vị trí [Danh Nhận][Noun Object] để tiếp nhận hành động từ hành động "discovered" của [Danh Chủ][Noun Subject] "I".</li>
 			
@@ -444,7 +444,7 @@ export default function SuperWords1(): React.JSX.Element {
 					<li>The author [who wrote this article] is an expert.</li>
 					<li className="margin-bottom-20 list-none">Tác giả [người mà đã viết bài báo này] là một chuyên gia.</li>
 			
-					<li className="list-none">Hình thái: [who wrote this article] – [Hiển-Liên Động Câu][Connector Verb Clause] biểu thị một cấu trúc câu con phụ thuộc bắt đầu bằng khối liên kết chỉ người "who" làm nhiệm vụ thế mạng và thực hiện trực tiếp hành động phía sau.</li>
+					<li className="list-none">Hình thái: [who wrote this article] – [Liên Câu][Conjunctional Base] biểu thị một cấu trúc câu con phụ thuộc bắt đầu bằng khối liên kết chỉ người "who" làm nhiệm vụ thế mạng và thực hiện trực tiếp hành động phía sau.</li>
 			
 					<li className="list-none">Chức năng: [who wrote this article] – [Tính Câu][Adjective Clause] đang đứng vị trí ngay sau một đối tượng để định danh và làm rõ nghĩa cho tác giả đó.</li>
 			
@@ -458,7 +458,7 @@ export default function SuperWords1(): React.JSX.Element {
 					<li>We will start [when the manager signals].</li>
 					<li className="margin-bottom-20 list-none">Chúng tôi sẽ bắt đầu [khi người quản lý ra hiệu].</li>
 			
-					<li className="list-none">Hình thái: [when the manager signals] – [Hiển-Liên Động Câu][Connector Verb Clause] biểu thị một cấu trúc câu con hoàn chỉnh được kết nối thông qua khối liên kết chỉ thời điểm "when" để chỉ định rõ mốc thời gian.</li>
+					<li className="list-none">Hình thái: [when the manager signals] – [Liên Câu][Conjunctional Base] biểu thị một cấu trúc câu con hoàn chỉnh được kết nối thông qua khối liên kết chỉ thời điểm "when" để chỉ định rõ mốc thời gian.</li>
 			
 					<li className="list-none">Chức năng: [when the manager signals] – [Trạng Câu][Adverb Clause] đang đứng vị trí sau để mô tả bối cảnh thời gian cho hành động bắt đầu của câu lớn.</li>
 			
@@ -467,7 +467,7 @@ export default function SuperWords1(): React.JSX.Element {
 
 			{/* .  */}
 
-			<h3 className="margin-y-50 text-center">Đột Phá Nâng Cao: Bản Chất Của [Ẩn-Liên Động Câu][Zero-Connector Verb Clause]</h3>
+			<h3 className="margin-y-50 text-center">Đột Phá Nâng Cao: Bản Chất Của [Ẩn Liên Câu][Zero Conjunctional Clause]</h3>
 
 			<p>Trong văn phong bản ngữ, người ta thường lược bỏ các cơ liên kết nhằm đẩy tốc độ truyền tải thông tin lên tối đa.</p>
 
@@ -481,7 +481,7 @@ export default function SuperWords1(): React.JSX.Element {
 					<li>I believe [you took the correct steps].</li>
 					<li className="margin-bottom-20 list-none">Tôi tin [bạn đã đi đúng hướng].</li>
 			
-					<li className="list-none">Hình thái: [you took the correct steps] – [Ẩn-Liên Động Câu][Zero-Connector Verb Clause] biểu thị một câu con hoàn chỉnh đóng vai trò phụ thuộc đã được triệt tiêu khối liên kết "that" dẫn đầu nhằm rút gọn kết cấu nói.</li>
+					<li className="list-none">Hình thái: [you took the correct steps] – [Ẩn Liên Câu][Zero Conjunctional Clause] biểu thị một câu con hoàn chỉnh đóng vai trò phụ thuộc đã được triệt tiêu khối liên kết "that" dẫn đầu nhằm rút gọn kết cấu nói.</li>
 			
 					<li className="list-none">Chức năng: [you took the correct steps] – [Danh Câu][Noun Clause] đang đứng vị trí [Danh Nhận][Noun Object] để làm rõ sự việc chịu tác động trực tiếp từ hành động "believe".</li>
 			
@@ -495,7 +495,7 @@ export default function SuperWords1(): React.JSX.Element {
 					<li>The car [he drove yesterday] belonged to his father.</li>
 					<li className="margin-bottom-20 list-none">Chiếc xe [anh ấy lái hôm qua] thuộc về ba anh ấy.</li>
 			
-					<li className="list-none">Hình thái: [he drove yesterday] – [Ẩn-Liên Động Câu][Zero-Connector Verb Clause] biểu thị một câu con bổ nghĩa nằm ngay sau thành phần [Danh Khối][Noun Block] chính mà không xuất hiện các khối liên kết như "which" hay "that" ở đầu.</li>
+					<li className="list-none">Hình thái: [he drove yesterday] – [Ẩn Liên Câu][Zero Conjunctional Clause] biểu thị một câu con bổ nghĩa nằm ngay sau thành phần [Danh Khối][Noun Block] chính mà không xuất hiện các khối liên kết như "which" hay "that" ở đầu.</li>
 			
 					<li className="list-none">Chức năng: [he drove yesterday] – [Tính Câu][Adjective Clause] đang đứng vị trí bám sát ngay sau [Danh Chủ][Noun Subject] "The car" để bổ nghĩa và định danh riêng cho chiếc xe đó.</li>
 			
@@ -509,7 +509,7 @@ export default function SuperWords1(): React.JSX.Element {
 					<li>[Should they request assistance], the support line will open.</li>
 					<li className="margin-bottom-20 list-none">[Nếu họ yêu cầu sự hỗ trợ], đường dây trợ giúp sẽ mở cửa.</li>
 			
-					<li className="list-none">Hình thái: [Should they request assistance] – [Ẩn-Liên Động Câu][Zero-Connector Verb Clause] biểu thị cấu trúc câu con đặc biệt sử dụng hình thức đảo năng lượng ý thái lên đầu nhằm loại bỏ hoàn toàn khối liên kết chỉ điều kiện "if".</li>
+					<li className="list-none">Hình thái: [Should they request assistance] – [Ẩn Liên Câu][Zero Conjunctional Clause] biểu thị cấu trúc câu con đặc biệt sử dụng hình thức đảo năng lượng ý thái lên đầu nhằm loại bỏ hoàn toàn khối liên kết chỉ điều kiện "if".</li>
 			
 					<li className="list-none">Chức năng: [Should they request assistance] – [Trạng Câu][Adverb Clause] đang đứng vị trí độc lập ở đầu câu để thiết lập bối cảnh giả định, bổ nghĩa điều kiện cho toàn bộ sự việc phía sau.</li>
 			
@@ -531,7 +531,7 @@ export default function SuperWords1(): React.JSX.Element {
 					<li>[Evaluating {'{how we allocated the budget}'}] was critical.</li>
 					<li className="margin-bottom-20 list-none">[Việc đánh giá {'{cách chúng ta phân bổ ngân sách}'}] đã mang tính sống còn.</li>
 
-					<li>Hình thái: [Evaluating {'{how we allocated the budget}'}] – [Tầng Tiếp Động Cụm][Tiered Progressive Verb Phrase] ở tầng ngoài bắt đầu bằng dạng vận động -ing, bên trong chứa một khối phụ {'{how we allocated the budget}'} là [Hiển-Liên Động Câu][Connector Verb Clause] được dẫn dắt bởi "how".</li>
+					<li>Hình thái: [Evaluating {'{how we allocated the budget}'}] – [Tầng Tiếp Động Cụm][Tiered Progressive Verb Phrase] ở tầng ngoài bắt đầu bằng dạng vận động -ing, bên trong chứa một khối phụ {'{how we allocated the budget}'} là [Liên Câu][Conjunctional Base] được dẫn dắt bởi "how".</li>
 			
 					<li>Chức năng: [Evaluating {'{how we allocated the budget}'}] – [<strong>Danh Cụm</strong>][<strong>Noun Phrase</strong>] tầng ngoài đóng vai trò làm [Danh Chủ][Noun Subject] đứng ở đầu câu lớn; trong đó khối phụ {'{how we allocated the budget}'} giữ chức năng làm [Danh Câu][Noun Clause] tầng trong đứng vị trí [Danh Nhận][Noun Object] để chịu tác động trực tiếp từ hành động đánh giá.</li>
 			
@@ -545,7 +545,7 @@ export default function SuperWords1(): React.JSX.Element {
 					<li>The manager suggested [reviewing {'{what the team accomplished this quarter}'}].</li>
 					<li className="margin-bottom-20 list-none">Người quản lý đã đề xuất [việc xem xét lại {'{những gì đội ngũ đã hoàn thành trong quý này}'}].</li>
 
-					<li>Hình thái: [reviewing {'{what the team accomplished this quarter}'}] – [Tầng Tiếp Động Cụm][Tiered Progressive Verb Phrase] ở tầng ngoài bắt đầu bằng dạng -ing, bên trong lồng ghép một khối phụ {'{what the team accomplished this quarter}'} là [Hiển-Liên Động Câu][Connector Verb Clause] giữ vai trò làm bổ ngữ làm rõ sự việc.</li>
+					<li>Hình thái: [reviewing {'{what the team accomplished this quarter}'}] – [Tầng Tiếp Động Cụm][Tiered Progressive Verb Phrase] ở tầng ngoài bắt đầu bằng dạng -ing, bên trong lồng ghép một khối phụ {'{what the team accomplished this quarter}'} là [Liên Câu][Conjunctional Base] giữ vai trò làm bổ ngữ làm rõ sự việc.</li>
 			
 					<li>Chức năng: [reviewing {'{what the team accomplished this quarter}'}] – [<strong>Danh Cụm</strong>][<strong>Noun Phrase</strong>] tầng ngoài đóng vai trò làm [Danh Nhận][Noun Object] lớn đứng sau [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "suggested"; trong đó khối phụ {'{what the team accomplished this quarter}'} giữ chức năng làm [Danh Câu][Noun Clause] tầng trong đứng vị trí [Danh Nhận][Noun Object] nhỏ tiếp nhận tác động từ hành động xem xét.</li>
 			
@@ -559,7 +559,7 @@ export default function SuperWords1(): React.JSX.Element {
 					<li>The laboratory [in {'{which they test the sample}'}] is secure.</li>
 					<li className="margin-bottom-20 list-none">Phòng thí nghiệm [trong {'{nơi mà họ kiểm tra mẫu thử}'}] thì an toàn.</li>
 
-					<li>Hình thái: [in {'{which they test the sample}'}] – [Tầng Giới Cụm][Tiered Prepositional Phrase] mở đầu bằng [Giới Cơ][Prepositional Base] "in", bên trong lồng ghép một khối phụ {'{which they test the sample}'} là [Hiển-Liên Động Câu][Connector Verb Clause] đóng vai trò bổ nghĩa hoàn chỉnh cho bối cảnh nơi chốn.</li>
+					<li>Hình thái: [in {'{which they test the sample}'}] – [Tầng Giới Cụm][Tiered Prepositional Phrase] mở đầu bằng [Giới Cơ][Prepositional Base] "in", bên trong lồng ghép một khối phụ {'{which they test the sample}'} là [Liên Câu][Conjunctional Base] đóng vai trò bổ nghĩa hoàn chỉnh cho bối cảnh nơi chốn.</li>
 			
 					<li>Chức năng: [in {'{which they test the sample}'}] – [<strong>Tính Cụm</strong>][<strong>Adjective Phrase</strong>] tầng ngoài đứng ngay sau thành phần [Danh Khối][Noun Block] chính "The laboratory" để bổ nghĩa và khu biệt không gian; trong đó khối phụ {'{which they test the sample}'} giữ chức năng làm [Danh Câu][Noun Clause] tầng trong đứng vị trí làm [Danh Nhận][Noun Object] chịu sự điều phối trực tiếp của [Giới Cơ][Prepositional Base] "in".</li>
 			
@@ -574,7 +574,7 @@ export default function SuperWords1(): React.JSX.Element {
 					<li>She adapted [through {'{what she discovered during research}'}].</li>
 					<li className="margin-bottom-20 list-none">Cô ấy đã thích nghi [thông qua {'{những gì cô ấy khám phá ra trong lúc nghiên cứu}'}].</li>
 
-					<li>Hình thái: [through {'{what she discovered during research}'}] – [Tầng Giới Cụm][Tiered Prepositional Phrase] mở đầu bằng [Giới Cơ][Prepositional Base] phương thức "through", bên trong chứa một khối phụ {'{what she discovered during research}'} là [Hiển-Liên Động Câu][Connector Verb Clause] biểu thị một sự việc có thực tế diễn ra.</li>
+					<li>Hình thái: [through {'{what she discovered during research}'}] – [Tầng Giới Cụm][Tiered Prepositional Phrase] mở đầu bằng [Giới Cơ][Prepositional Base] phương thức "through", bên trong chứa một khối phụ {'{what she discovered during research}'} là [Liên Câu][Conjunctional Base] biểu thị một sự việc có thực tế diễn ra.</li>
 			
 					<li>Chức năng: Chức năng: [through {'{what she discovered during research}'}] – [<strong>Trạng Cụm</strong>][<strong>Adverb Phrase</strong>] tầng ngoài đứng vị trí sau để làm rõ phương thức bổ nghĩa cho hành động thích nghi của câu lớn; trong đó khối phụ {'{what she discovered during research}'} giữ chức năng làm [Danh Câu][Noun Clause] tầng trong đứng vị trí làm [Danh Nhận][Noun Object] tiếp nhận mối quan hệ phương tiện từ [Giới Cơ][Prepositional Base] "through".</li>
 			
@@ -589,14 +589,14 @@ export default function SuperWords1(): React.JSX.Element {
 
 			<h3 className="margin-y-50 text-center">Ứng Dụng Đột Phá: Paraphrasing Bằng Tư Duy "Thay [Khối] Cùng Chức Năng"</h3>
 
-			<h5 className="text-indent-whole">Câu gốc: Sử dụng khối [Hiển-Liên Động Câu][Connector Verb Clause]</h5>
+			<h5 className="text-indent-whole">Câu gốc: Sử dụng khối [Liên Câu][Conjunctional Base]</h5>
 			
 				<ul className="list-square">
 			
 					<li>They canceled the launch [because the device overheated under pressure].</li>
 					<li className="margin-bottom-20 list-none">Họ đã hủy bỏ buổi ra mắt [vì thiết bị quá nhiệt dưới áp lực].</li>
 			
-					<li className="list-none">Hình thái: [because the device overheated under pressure] – [Hiển-Liên Động Câu][Connector Verb Clause] thể hiện một cấu trúc câu con hoàn chỉnh có khối liên kết chỉ nguyên nhân "because" dẫn dắt ở đầu.</li>
+					<li className="list-none">Hình thái: [because the device overheated under pressure] – [Liên Câu][Conjunctional Base] thể hiện một cấu trúc câu con hoàn chỉnh có khối liên kết chỉ nguyên nhân "because" dẫn dắt ở đầu.</li>
 
 					<li className="list-none">Chức năng: [because the device overheated under pressure] – [Trạng Câu][Adverb Clause] đang đứng vị trí ở cuối để bổ nghĩa cho toàn câu lớn bằng cách thiết lập nguyên nhân diễn ra sự việc.</li>
 			

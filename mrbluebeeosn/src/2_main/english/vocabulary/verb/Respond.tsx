@@ -528,11 +528,11 @@ export default function Respond(): React.JSX.Element {
 
       <h4 className="margin-y-40">4. Phân hệ [Động Câu][Verb Clause]</h4>
           
-      <h5 className="margin-y-30 text-indent-whole">4.1 Phân hệ [Hiển-Liên Động Câu][Connector Verb Clause]</h5>
+      <h5 className="margin-y-30 text-indent-whole">4.1 Phân hệ [Liên Câu][Conjunctional Base]</h5>
 
       <p className="margin-top-20 text-indent-whole"><strong>4.1.1</strong> <strong>Hình thành chức năng</strong> [<strong>Danh Câu</strong>][<strong>Noun Clause</strong>]</p>
 
-      <p className="margin-top-20 text-indent-whole">[<strong>Danh Câu</strong>][<strong>Noun Clause</strong>] <strong>cấu tạo từ</strong> [<strong>Hiển-Liên Động Câu</strong>][<strong>Connector Verb Clause</strong>] <strong>làm</strong> [<strong>Danh Chủ</strong>][<strong>Noun Subject</strong>]</p>
+      <p className="margin-top-20 text-indent-whole">[<strong>Danh Câu</strong>][<strong>Noun Clause</strong>] <strong>cấu tạo từ</strong> [<strong>Liên Câu</strong>][<strong>Conjunctional Base</strong>] <strong>làm</strong> [<strong>Danh Chủ</strong>][<strong>Noun Subject</strong>]</p>
 
       <p className="margin-top-20 text-indent-whole">Ví dụ 9a:</p>
       
@@ -549,7 +549,7 @@ export default function Respond(): React.JSX.Element {
 
 
 
-      <p className="margin-top-20 text-indent-whole">[<strong>Danh Câu</strong>][<strong>Noun Clause</strong>] <strong>cấu tạo từ</strong> [<strong>Hiển-Liên Động Câu</strong>][<strong>Connector Verb Clause</strong>] <strong>làm</strong> [<strong>Danh Nhận</strong>][<strong>Noun Object</strong>]</p>
+      <p className="margin-top-20 text-indent-whole">[<strong>Danh Câu</strong>][<strong>Noun Clause</strong>] <strong>cấu tạo từ</strong> [<strong>Liên Câu</strong>][<strong>Conjunctional Base</strong>] <strong>làm</strong> [<strong>Danh Nhận</strong>][<strong>Noun Object</strong>]</p>
 
       <p className="margin-top-20 text-indent-whole">Ví dụ 9b:</p>
       
@@ -598,7 +598,7 @@ export default function Respond(): React.JSX.Element {
 
 
 
-      <h5 className="margin-y-30 text-indent-whole">4.2 Phân hệ [Ẩn-Liên Động Câu][Zero-Connector Verb Clause]</h5>
+      <h5 className="margin-y-30 text-indent-whole">4.2 Phân hệ [Ẩn Liên Câu][Zero Conjunctional Clause]</h5>
 
       <p className="margin-top-20 text-indent-whole"><strong>4.2.1</strong> <strong>Hình thành chức năng</strong> [<strong>Danh Câu</strong>][<strong>Noun Clause</strong>]</p>
 
@@ -839,7 +839,7 @@ export default function Respond(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li className="list-none">Hình thái: {'{how the organization responds to market crises}'} - [Hiển-Liên Động Câu][Connector Verb Clause] định hình dưới dạng khối mã con nằm gọn bên trong, chứa [Danh Chủ][Noun Subject] "the organization" và cụm hành động đi sau thành phần [Liên Cơ][Connector Base] "how".</li>
+          <li className="list-none">Hình thái: {'{how the organization responds to market crises}'} - [Liên Câu][Conjunctional Base] định hình dưới dạng khối mã con nằm gọn bên trong, chứa [Danh Chủ][Noun Subject] "the organization" và cụm hành động đi sau thành phần [Liên Cơ][Conjunctional Base] "how".</li>
       
           <li className="list-none">Chức năng: {'{how the organization responds to market crises}'} - [Danh Câu][Noun Clause] đóng vai trò làm [Danh Nhận][Noun Object] chịu sự điều phối trực tiếp ở tầng ngoài.</li>
       
@@ -871,7 +871,7 @@ export default function Respond(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li className="list-none">Hình thái: {'{why the government responded slowly to the emergency}'} - [Hiển-Liên Động Câu][Connector Verb Clause] định hình dưới dạng khối mã con nằm gọn bên trong, chứa [Danh Chủ][Noun Subject] riêng "the government" và cụm hành động riêng thuộc trục thời quá khứ đi sau thành phần [Liên Cơ][Connector Base] "why".</li>
+          <li className="list-none">Hình thái: {'{why the government responded slowly to the emergency}'} - [Liên Câu][Conjunctional Base] định hình dưới dạng khối mã con nằm gọn bên trong, chứa [Danh Chủ][Noun Subject] riêng "the government" và cụm hành động riêng thuộc trục thời quá khứ đi sau thành phần [Liên Cơ][Conjunctional Base] "why".</li>
       
           <li className="list-none">Chức năng: {'{why the government responded slowly to the emergency}'} - [Danh Câu][Noun Clause] đóng vai trò làm [Danh Nhận][Noun Object] chịu sự điều phối trực tiếp của [Giới Cơ][Prepositional Base] "on" ở tầng ngoài.</li>
       
@@ -927,14 +927,14 @@ export default function Respond(): React.JSX.Element {
         </ul>
       
       
-      <p className="margin-top-20 text-indent-whole"><strong>Nâng cấp lên</strong> [<strong>Hiển-Liên Động Câu</strong>][<strong>Connector Verb Clause</strong>]</p>
+      <p className="margin-top-20 text-indent-whole"><strong>Nâng cấp lên</strong> [<strong>Liên Câu</strong>][<strong>Conjunctional Base</strong>]</p>
       
         <ul className="list-square">
       
           <li>The company improved satisfaction [because the team responded quickly to support tickets].</li>
           <li className="margin-bottom-20 list-none">Công ty đã cải thiện sự hài lòng [vì đội ngũ đã phản hồi nhanh chóng các phiếu hỗ trợ].</li>
       
-          <li className="list-none">Hình thái mới: [because the team responded quickly to support tickets] - [Hiển-Liên Động Câu][Connector Verb Clause] hiển thị dưới dạng khối mã chứa đầy đủ [Danh Chủ][Noun Subject] "the team" và cụm hành động đi sau thành phần [Liên Cơ][Connector Base] "because".</li>
+          <li className="list-none">Hình thái mới: [because the team responded quickly to support tickets] - [Liên Câu][Conjunctional Base] hiển thị dưới dạng khối mã chứa đầy đủ [Danh Chủ][Noun Subject] "the team" và cụm hành động đi sau thành phần [Liên Cơ][Conjunctional Base] "because".</li>
       
           <li className="list-none">Chức năng mới: [because the team responded quickly to support tickets] - [Trạng Câu][Adverb Clause] đảm nhận vai trò bối cảnh nguyên nhân ở cấp độ cao cấp hơn, bổ nghĩa cho toàn bộ phần diện thông tin chính.</li>
       
@@ -948,7 +948,7 @@ export default function Respond(): React.JSX.Element {
           <li>The firm hired a service [which responds to system issues automatically].</li>
           <li className="margin-bottom-20 list-none">Công ty đã thuê một dịch vụ [cái mà phản hồi các sự cố hệ thống một cách tự động].</li>
       
-          <li className="list-none">Hình thái gốc: [which responds to system issues automatically] - [Hiển-Liên Động Câu][Connector Verb Clause] thiết lập theo dạng phân hệ hệ con đầy đủ bổ nghĩa đứng sau một khối tên gọi, chứa thành phần [Liên Cơ][Connector Base] "which" và cụm hành động phía sau.</li>
+          <li className="list-none">Hình thái gốc: [which responds to system issues automatically] - [Liên Câu][Conjunctional Base] thiết lập theo dạng phân hệ hệ con đầy đủ bổ nghĩa đứng sau một khối tên gọi, chứa thành phần [Liên Cơ][Conjunctional Base] "which" và cụm hành động phía sau.</li>
       
           <li className="list-none">Chức năng: [which responds to system issues automatically] - [Tính Câu][Adjective Clause] đóng vai trò một module lọc nhằm định nghĩa đặc điểm cho đối tượng "service".</li>
       

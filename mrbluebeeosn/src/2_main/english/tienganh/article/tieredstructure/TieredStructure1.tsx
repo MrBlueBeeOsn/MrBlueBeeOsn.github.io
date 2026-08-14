@@ -430,7 +430,7 @@ export default function TieredStructure1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li className="list-none">Hình thái: {'{how we design this platform}'} - [Hiển-Liên Động Câu][Connector Verb Clause] định hình dưới dạng khối mã con nằm gọn bên trong, chứa đầy đủ chủ thể hành động riêng "we" và hạt nhân [Thời-Thuần Động Cơ][Tense-Bare Verb Base] design, bắt đầu từ [Liên Cơ][Connector Base] how.</li>
+					<li className="list-none">Hình thái: {'{how we design this platform}'} - [Liên Câu][Conjunctional Base] định hình dưới dạng khối mã con nằm gọn bên trong, chứa đầy đủ chủ thể hành động riêng "we" và hạt nhân [Thời-Thuần Động Cơ][Tense-Bare Verb Base] design, bắt đầu từ [Liên Cơ][Conjunctional Base] how.</li>
 
 					<li className="list-none">Chức năng: {'{how we design this platform}'} - [Danh Câu][Noun Clause] đóng vai trò làm khối [Danh Nhận][Noun Object] (nạp tham số dữ liệu đầu vào) chịu sự điều phối trực tiếp của phân hệ ngoài.</li>
 			
@@ -461,7 +461,7 @@ export default function TieredStructure1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li className="list-none">Hình thái: {'{why the system failed}'} - [Hiển-Liên Động Câu][Connector Verb Clause] nằm gọn bên trong làm tham số bổ trợ, tích hợp sẵn [Liên Cơ][Connector Base] why kết nối cùng chủ thể "the system" và [Thời-Thuần Động Cơ][Tense-Bare Verb Base] failed.</li>
+					<li className="list-none">Hình thái: {'{why the system failed}'} - [Liên Câu][Conjunctional Base] nằm gọn bên trong làm tham số bổ trợ, tích hợp sẵn [Liên Cơ][Conjunctional Base] why kết nối cùng chủ thể "the system" và [Thời-Thuần Động Cơ][Tense-Bare Verb Base] failed.</li>
 
 					<li className="list-none">Chức năng: {'{why the system failed}'} - [Danh Câu][Noun Clause] đóng vai trò cấp con chịu sự điều phối của [Tiếp Động Cơ][Progressive Verb Base] tầng ngoài làm khối [Danh Nhận][Noun Object].</li>
 			
@@ -493,7 +493,7 @@ export default function TieredStructure1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li className="list-none">Hình thái: {'{how this team designed the app}'} - [Hiển-Liên Động Câu][Connector Verb Clause] định hình dưới dạng khối mã con nằm gọn bên trong, chứa chủ thể "this team" và [Thời-Thuần Động Cơ][Tense-Bare Verb Base] designed.</li>
+					<li className="list-none">Hình thái: {'{how this team designed the app}'} - [Liên Câu][Conjunctional Base] định hình dưới dạng khối mã con nằm gọn bên trong, chứa chủ thể "this team" và [Thời-Thuần Động Cơ][Tense-Bare Verb Base] designed.</li>
 
 					<li className="list-none">Chức năng: {'{how this team designed the app}'} - [Danh Câu][Noun Clause] đóng vai trò làm khối [Danh Nhận][Noun Object] chịu sự điều phối trực tiếp của [Giới Cơ][Prepositional Base] about ở tầng ngoài.</li>
 			
@@ -525,7 +525,7 @@ export default function TieredStructure1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li className="list-none">Hình thái: {'{where they build the software}'} - [Hiển-Liên Động Câu][Connector Verb Clause] định hình dưới dạng khối mã con nằm gọn bên trong, chứa chủ thể riêng "they" cùng hạt nhân [Thời-Thuần Động Cơ][Tense-Bare Verb Base] build.</li>
+					<li className="list-none">Hình thái: {'{where they build the software}'} - [Liên Câu][Conjunctional Base] định hình dưới dạng khối mã con nằm gọn bên trong, chứa chủ thể riêng "they" cùng hạt nhân [Thời-Thuần Động Cơ][Tense-Bare Verb Base] build.</li>
 
 					<li className="list-none">Chức năng: {'{where they build the software}'} - [Danh Câu][Noun Clause] đóng vai trò làm khối [Danh Nhận][Noun Object] chịu sự điều phối trực tiếp của [Giới Cơ][Prepositional Base] at ở tầng ngoài.</li>
 			
@@ -538,7 +538,7 @@ export default function TieredStructure1(): React.JSX.Element {
 			<p className="text-indent-whole">Khi vùng mã mở rộng thành một phân hệ chứa một câu con hoàn chỉnh có cả chủ thể hành động riêng và các phân nhánh hành động riêng, người học xác định được diện mạo vật lý Động Câu [Verb Clause].</p>
 
 					
-			<h5 className="margin-y-30 text-indent-whole">Phân hệ [Hiển-Liên Động Câu][Connector Verb Clause] (Có Từ Kết Nối)</h5>
+			<h5 className="margin-y-30 text-indent-whole">Phân hệ [Liên Câu][Conjunctional Base] (Có Từ Kết Nối)</h5>
 
 
 			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 12.1</strong>: <strong>Hình thành chức năng</strong> [<strong>Danh Câu</strong>][<strong>Noun Clause</strong>] <strong>làm khối</strong> [<strong>Danh Chủ</strong>][<strong>Noun Subject</strong>]</p>
@@ -548,7 +548,7 @@ export default function TieredStructure1(): React.JSX.Element {
 					<li>[How they build the system] determines success.</li>
 					<li className="margin-bottom-20 list-none">[Cách mà họ xây dựng hệ thống] quyết định sự thành công.</li>
 
-					<li className="list-none">Hình thái: [How they build the system] - [Hiển-Liên Động Câu][Connector Verb Clause] đại diện cho khối mã chứa câu con hoàn chỉnh bắt đầu bằng [Liên Cơ][Connector Base] kết nối how, có chủ thể "they" và [Thời-Thuần Động Cơ][Tense-Bare Verb Base] build.</li>
+					<li className="list-none">Hình thái: [How they build the system] - [Liên Câu][Conjunctional Base] đại diện cho khối mã chứa câu con hoàn chỉnh bắt đầu bằng [Liên Cơ][Conjunctional Base] kết nối how, có chủ thể "they" và [Thời-Thuần Động Cơ][Tense-Bare Verb Base] build.</li>
 
 					<li className="list-none">Chức năng: [How they build the system] - [Danh Câu][Noun Clause] đảm nhận nhiệm vụ làm khối [Danh Chủ][Noun Subject] ở đầu câu để điều hành và đóng vai trò làm chủ thể thực thi cho hành động "determines".</li>
 			
@@ -562,7 +562,7 @@ export default function TieredStructure1(): React.JSX.Element {
 					<li>I know [where you explore].</li>
 					<li className="margin-bottom-20 list-none">Tôi biết [nơi mà bạn khám phá].</li>
 
-					<li className="list-none">Hình thái: [where you explore] - [Hiển-Liên Động Câu][Connector Verb Clause] đại diện cho khối mã chứa câu con hoàn chỉnh bắt đầu bằng [Liên Cơ][Connector Base] kết nối where, có chủ thể "you" và [Rễ Động Cơ][Root Verb Base] explore.</li>
+					<li className="list-none">Hình thái: [where you explore] - [Liên Câu][Conjunctional Base] đại diện cho khối mã chứa câu con hoàn chỉnh bắt đầu bằng [Liên Cơ][Conjunctional Base] kết nối where, có chủ thể "you" và [Rễ Động Cơ][Root Verb Base] explore.</li>
 
 					<li className="list-none">Chức năng: [where you explore] - [Danh Câu][Noun Clause] trở thành khối [Danh Nhận][Noun Object] chứa dữ liệu mục tiêu chịu tác động từ hệ thống lệnh ngoài.</li>
 			
@@ -576,7 +576,7 @@ export default function TieredStructure1(): React.JSX.Element {
 					<li>The architect [who is designing the building] is busy.</li>
 					<li className="margin-bottom-20 list-none">Người kiến trúc sư [người mà đang thiết kế tòa nhà] thì đang bận.</li>
 
-					<li className="list-none">Hình thái: [who is designing the building] - [Hiển-Liên Động Câu][Connector Verb Clause] hiện diện dưới dạng khối câu bắt đầu bằng [Liên Cơ][Connector Base] kết nối who, chứa [Thời Tiếp Động Cơ][Tense Progressive Verb Base] is designing riêng biệt.</li>
+					<li className="list-none">Hình thái: [who is designing the building] - [Liên Câu][Conjunctional Base] hiện diện dưới dạng khối câu bắt đầu bằng [Liên Cơ][Conjunctional Base] kết nối who, chứa [Thời Tiếp Động Cơ][Tense Progressive Verb Base] is designing riêng biệt.</li>
 
 					<li className="list-none">Chức năng: [who is designing the building] - [Tính Câu][Adjective Clause] hoạt động như một module lọc bổ ngữ đặt sau một khối tên gọi để nhận diện đối tượng "architect".</li>
 			
@@ -590,7 +590,7 @@ export default function TieredStructure1(): React.JSX.Element {
 					<li>We stayed inside [because it rained heavily].</li>
 					<li className="margin-bottom-20 list-none">Chúng tôi đã ở bên trong [bởi vì trời đã mưa rất dày].</li>
 
-					<li className="list-none">Hình thái: [because it rained heavily] - [Hiển-Liên Động Câu][Connector Verb Clause] kích hoạt ngay sau [Liên Cơ][Connector Base] kết nối because, chứa chủ thể "it" và [Thời-Thuần Động Cơ][Tense-Bare Verb Base] rained mang dấu mốc tích hợp quá khứ.</li>
+					<li className="list-none">Hình thái: [because it rained heavily] - [Liên Câu][Conjunctional Base] kích hoạt ngay sau [Liên Cơ][Conjunctional Base] kết nối because, chứa chủ thể "it" và [Thời-Thuần Động Cơ][Tense-Bare Verb Base] rained mang dấu mốc tích hợp quá khứ.</li>
 					
 					<li className="list-none">Chức năng: [because it rained heavily] - [Trạng Câu][Adverb Clause] thiết lập module định hình bối cảnh nguyên nhân cho toàn bộ sự việc đứng trước.</li>
 			
@@ -598,7 +598,7 @@ export default function TieredStructure1(): React.JSX.Element {
 
 			
 
-			<h5 className="margin-y-30 text-indent-whole">Phân hệ [Ẩn-Liên Động Câu][Zero-Connector Verb Clause] (Không Chứa Từ Kết Nối)</h5>
+			<h5 className="margin-y-30 text-indent-whole">Phân hệ [Ẩn Liên Câu][Zero Conjunctional Clause] (Không Chứa Từ Kết Nối)</h5>
 			
 
 			<p className="text-indent-whole">Đây là trạng thái tối tân của ngôn ngữ khi thành phần liên kết bị triệt tiêu hoàn toàn. Khối mã xuất hiện dưới dạng một câu con độc lập về mặt hiển thị, nhưng thực thi trọn vẹn các chức năng hệ thống:</p>
@@ -610,7 +610,7 @@ export default function TieredStructure1(): React.JSX.Element {
 					<li>I believe [you build great things].</li>
 					<li className="margin-bottom-20 list-none">Tôi tin [bạn xây dựng những điều tuyệt vời].</li>
 			
-					<li className="list-none">Hình thái: [you build great things] - [Ẩn-Liên Động Câu][Zero-Connector Verb Clause] mang diện mạo của một dòng lệnh độc lập với chủ thể "you" và [Thời-Thuần Động Cơ][Tense-Bare Verb Base] build, hoàn toàn ẩn đi [Liên Cơ][Connector Base] kết nối.</li>
+					<li className="list-none">Hình thái: [you build great things] - [Ẩn Liên Câu][Zero Conjunctional Clause] mang diện mạo của một dòng lệnh độc lập với chủ thể "you" và [Thời-Thuần Động Cơ][Tense-Bare Verb Base] build, hoàn toàn ẩn đi [Liên Cơ][Conjunctional Base] kết nối.</li>
 			
 					<li className="list-none">Chức năng: [you build great things] - [Danh Câu][Noun Clause] đóng vai trò làm khối [Danh Nhận][Noun Object] nạp dữ liệu trực tiếp cho [Rễ Động Cơ][Root Verb Base] "believe".</li>
 			
@@ -624,7 +624,7 @@ export default function TieredStructure1(): React.JSX.Element {
 					<li>The plan [I designed yesterday] is lost.</li>
 					<li className="margin-bottom-20 list-none">Bản kế hoạch [tôi thiết kế ngày hôm qua] thì bị mất.</li>
 			
-					<li className="list-none">Hình thái: [I designed yesterday] - [Ẩn-Liên Động Câu][Zero-Connector Verb Clause] chứa chủ thể "I" và [Thời-Thuần Động Cơ][Tense-Bare Verb Base] designed, đứng lọt thỏm ngay sau một khối tên gọi mà không cần bất kỳ [Liên Cơ][Connector Base] định vị nào dẫn đường.</li>
+					<li className="list-none">Hình thái: [I designed yesterday] - [Ẩn Liên Câu][Zero Conjunctional Clause] chứa chủ thể "I" và [Thời-Thuần Động Cơ][Tense-Bare Verb Base] designed, đứng lọt thỏm ngay sau một khối tên gọi mà không cần bất kỳ [Liên Cơ][Conjunctional Base] định vị nào dẫn đường.</li>
 			
 					<li className="list-none">Chức năng: [I designed yesterday] - [Tính Câu][Adjective Clause] vận hành như bộ lọc đặc điểm sở hữu để xác định mục tiêu chính xác cho đối tượng "plan" đứng trước.</li>
 			
@@ -638,7 +638,7 @@ export default function TieredStructure1(): React.JSX.Element {
 					<li>[Had I designed the software], I would have tested it.</li>
 					<li className="margin-bottom-20 list-none">[Giá mà tôi thiết kế phần mềm], tôi đã kiểm tra nó rồi.</li>
 			
-					<li className="list-none">Hình thái: [Had I designed the software] - [Ẩn-Liên Động Câu][Zero-Connector Verb Clause] sử dụng cấu trúc đảo chip [Thời Động Cơ][Tense Verb Base] had lên trước chủ thể "I", xóa bỏ hoàn toàn [Liên Cơ][Connector Base] điều kiện và đồng hành cùng [Hoàn Động Cơ][Perfect Verb Base] designed.</li>
+					<li className="list-none">Hình thái: [Had I designed the software] - [Ẩn Liên Câu][Zero Conjunctional Clause] sử dụng cấu trúc đảo chip [Thời Động Cơ][Tense Verb Base] had lên trước chủ thể "I", xóa bỏ hoàn toàn [Liên Cơ][Conjunctional Base] điều kiện và đồng hành cùng [Hoàn Động Cơ][Perfect Verb Base] designed.</li>
 			
 					<li className="list-none">Chức năng: [Had I designed the software] - [Trạng Câu][Adverb Clause] làm nhiệm vụ thiết lập bối cảnh giả định nền tảng cho toàn bộ hệ thống thực thi ở vế sau.</li>
 			
@@ -704,7 +704,7 @@ export default function TieredStructure1(): React.JSX.Element {
 					<li>We delayed the launch [because it rained heavily].</li>
 					<li className="margin-bottom-20 list-none">Chúng tôi đã hoãn buổi ra mắt [bởi vì trời đã mưa rất dày].</li>
 			
-					<li className="list-none">Hình thái mới: [because it rained heavily] - [Hiển-Liên Động Câu][Connector Verb Clause] hiển thị dưới dạng khối mã chứa đầy đủ chủ thể hành động it và hạt nhân [Thời-Thuần Động Cơ][Tense-Bare Verb Base] rained thiết lập cấu hình tích hợp thời quá khứ.</li>
+					<li className="list-none">Hình thái mới: [because it rained heavily] - [Liên Câu][Conjunctional Base] hiển thị dưới dạng khối mã chứa đầy đủ chủ thể hành động it và hạt nhân [Thời-Thuần Động Cơ][Tense-Bare Verb Base] rained thiết lập cấu hình tích hợp thời quá khứ.</li>
 			
 					<li className="list-none">Chức năng mới: [because it rained heavily] - [Trạng Câu][Adverb Clause] đảm nhận vai trò bối cảnh nguyên nhân ở cấp độ cao cấp hơn nhưng giữ nguyên giá trị nội dung.</li>
 			
@@ -719,7 +719,7 @@ export default function TieredStructure1(): React.JSX.Element {
 					<li>I bought a device [which was built in Japan].</li>
 					<li className="margin-bottom-20 list-none">Tôi đã mua một thiết bị [cái mà đã được xây dựng tại Nhật].</li>
 			
-					<li className="list-none">Hình thái: [which was built in Japan] - [Hiển-Liên Động Câu][Connector Verb Clause] thiết lập theo dạng phân hệ câu con đầy đủ bổ nghĩa đứng sau một khối tên gọi.</li>
+					<li className="list-none">Hình thái: [which was built in Japan] - [Liên Câu][Conjunctional Base] thiết lập theo dạng phân hệ câu con đầy đủ bổ nghĩa đứng sau một khối tên gọi.</li>
 			
 					<li className="margin-bottom-20 list-none">Chức năng: [which was built in Japan] - [Tính Câu][Adjective Clause] đóng vai trò một module lọc nhằm định nghĩa đặc điểm cho đối tượng "device".</li>
 			

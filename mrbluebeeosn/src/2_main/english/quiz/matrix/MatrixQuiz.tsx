@@ -88,7 +88,7 @@ export default function MatrixQuiz(): React.JSX.Element {
 				"[Noun Clause]"
 			],
 			correctAnswer: 0,
-			explanation: "Morphology: [where they conduct medical experiments] - [Hiển-Liên Động Câu][Connector Verb Clause] formed by the relative adverb \"where\" followed by a full clause containing the subject \"they\" and finite verb \"conduct\". \n\n Function: [where they conduct medical experiments] - [Tính Câu][Adjective Clause] post-modifies and defines the spatial traits of the head noun \"laboratory\"."
+			explanation: "Morphology: [where they conduct medical experiments] - [Liên Câu][Conjunctional Base] formed by the relative adverb \"where\" followed by a full clause containing the subject \"they\" and finite verb \"conduct\". \n\n Function: [where they conduct medical experiments] - [Tính Câu][Adjective Clause] post-modifies and defines the spatial traits of the head noun \"laboratory\"."
 		},
 		{
 			id: 8,
@@ -98,7 +98,7 @@ export default function MatrixQuiz(): React.JSX.Element {
 				"[Adverb Clause]"
 			],
 			correctAnswer: 1,
-			explanation: "Morphology: [Although the team faced severe budget cuts] - [Hiển-Liên Động Câu][Connector Verb Clause] formed by the subordinating conjunction \"Although\" followed by a full clause containing the subject \"the team\" and finite verb \"faced\". \n\n Function: [Although the team faced severe budget cuts] - [Trạng Câu][Adverb Clause] modifies the entire main clause by providing a situational context of concession."
+			explanation: "Morphology: [Although the team faced severe budget cuts] - [Liên Câu][Conjunctional Base] formed by the subordinating conjunction \"Although\" followed by a full clause containing the subject \"the team\" and finite verb \"faced\". \n\n Function: [Although the team faced severe budget cuts] - [Trạng Câu][Adverb Clause] modifies the entire main clause by providing a situational context of concession."
 		},
 		{
 			id: 9,
@@ -118,7 +118,7 @@ export default function MatrixQuiz(): React.JSX.Element {
 				"[Noun Clause]"
 			],
 			correctAnswer: 0,
-			explanation: "Morphology: [suggested {that we postpone the corporate audit}] - [Tầng Động Cụm][Tiered Verb Phrase] containing an outer finite verb \"suggested\" and an embedded finite clause layer \"{that we postpone the corporate audit}\". \n\n Function: [suggested {that we postpone the corporate audit}] - [Danh Cụm] Phân Tầng [Tiered Noun Phrase] acts as the primary nominal predicate block, where the outer layer forms a direct object phrase block, within which sits an embedded finite clause layer \"{that we postpone...}\", which is morphologically an [Hiển-Liên Động Câu][Connector Verb Clause] functioning as a [Danh Câu][Noun Clause] acting as the direct object of the internal verb \"suggested\"."
+			explanation: "Morphology: [suggested {that we postpone the corporate audit}] - [Tầng Động Cụm][Tiered Verb Phrase] containing an outer finite verb \"suggested\" and an embedded finite clause layer \"{that we postpone the corporate audit}\". \n\n Function: [suggested {that we postpone the corporate audit}] - [Danh Cụm] Phân Tầng [Tiered Noun Phrase] acts as the primary nominal predicate block, where the outer layer forms a direct object phrase block, within which sits an embedded finite clause layer \"{that we postpone...}\", which is morphologically an [Liên Câu][Conjunctional Base] functioning as a [Danh Câu][Noun Clause] acting as the direct object of the internal verb \"suggested\"."
 		}
 	];
 

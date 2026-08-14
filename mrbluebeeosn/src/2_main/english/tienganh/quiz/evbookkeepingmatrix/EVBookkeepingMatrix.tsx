@@ -88,7 +88,7 @@ export default function (): React.JSX.Element {
 				"[Tiered Noun Phrase]"
 			],
 			correctAnswer: 1,
-			explanation: "Hình thái: [Finalizing {what the auditors requested} on time] - [Tiếp Động Cụm][Progressive Verb Phrase] lồng ghép phân tầng. {what the auditors requested} - [Hiển-Liên Động Câu][Connector Verb Clause] bắt đầu bằng \"what\", có chứa chủ thể \"the auditors\" và hành động \"requested\" xác định theo thời quá khứ. \n\n Chức năng: [Finalizing {what the auditors requested} on time] - [Danh Cụm] Phân Tầng [Tiered Noun Phrase] tầng 1 bên ngoài dùng [] giữ vai trò thành phần đứng đầu chính. {what the auditors requested} - [Danh Câu][Noun Clause] giữ vai trò làm thành phần chịu tác động trực tiếp cho hành động \"Finalizing\" ở phía trước."
+			explanation: "Hình thái: [Finalizing {what the auditors requested} on time] - [Tiếp Động Cụm][Progressive Verb Phrase] lồng ghép phân tầng. {what the auditors requested} - [Liên Câu][Conjunctional Base] bắt đầu bằng \"what\", có chứa chủ thể \"the auditors\" và hành động \"requested\" xác định theo thời quá khứ. \n\n Chức năng: [Finalizing {what the auditors requested} on time] - [Danh Cụm] Phân Tầng [Tiered Noun Phrase] tầng 1 bên ngoài dùng [] giữ vai trò thành phần đứng đầu chính. {what the auditors requested} - [Danh Câu][Noun Clause] giữ vai trò làm thành phần chịu tác động trực tiếp cho hành động \"Finalizing\" ở phía trước."
 		},
 		{
 			id: 8,
@@ -98,7 +98,7 @@ export default function (): React.JSX.Element {
 				"[Noun Phrase]"
 			],
 			correctAnswer: 0,
-			explanation: "Hình thái: [that the bookkeeper made a serious error] - [Hiển-Liên Động Câu][Connector Verb Clause] bắt đầu bằng \"that\", có chứa chủ thể \"the bookkeeper\" và hành động \"made\" xác định theo thời quá khứ. \n\n Chức năng: [that the bookkeeper made a serious error] - [Danh Câu][Noun Clause] đứng sau hành động \"realized\" giữ vai trò tiếp nhận tác động từ hành động này."
+			explanation: "Hình thái: [that the bookkeeper made a serious error] - [Liên Câu][Conjunctional Base] bắt đầu bằng \"that\", có chứa chủ thể \"the bookkeeper\" và hành động \"made\" xác định theo thời quá khứ. \n\n Chức năng: [that the bookkeeper made a serious error] - [Danh Câu][Noun Clause] đứng sau hành động \"realized\" giữ vai trò tiếp nhận tác động từ hành động này."
 		},
 		{
 			id: 9,
@@ -108,7 +108,7 @@ export default function (): React.JSX.Element {
 				"[Adjective Clause]"
 			],
 			correctAnswer: 1,
-			explanation: "Hình thái: [who audits our books every year] - [Hiển-Liên Động Câu][Connector Verb Clause] bắt đầu bằng thành phần liên kết \"who\", có chứa hành động \"audits\" xác định theo thời hiện tại. \n\n Chức năng: [who audits our books every year] - [Tính Câu][Adjective Clause] đứng sau \"The accountant\" đứng ra bổ nghĩa cho thành phần này."
+			explanation: "Hình thái: [who audits our books every year] - [Liên Câu][Conjunctional Base] bắt đầu bằng thành phần liên kết \"who\", có chứa hành động \"audits\" xác định theo thời hiện tại. \n\n Chức năng: [who audits our books every year] - [Tính Câu][Adjective Clause] đứng sau \"The accountant\" đứng ra bổ nghĩa cho thành phần này."
 		},
 		{
 			id: 10,
@@ -118,7 +118,7 @@ export default function (): React.JSX.Element {
 				"[Adverb Phrase]"
 			],
 			correctAnswer: 0,
-			explanation: "[Because the tax laws changed recently] - [Hiển-Liên Động Câu][Connector Verb Clause] bắt đầu bằng thành phần liên kết \"Because\", có chứa chủ thể \"the tax laws\" và hành động \"changed\" xác định theo thời quá khứ. \n\n Chức năng: [Because the tax laws changed recently] - [Trạng Câu][Adverb Clause] đứng độc lập đứng ra bổ nghĩa cho toàn bộ phần còn lại theo góc độ nguyên nhân."
+			explanation: "[Because the tax laws changed recently] - [Liên Câu][Conjunctional Base] bắt đầu bằng thành phần liên kết \"Because\", có chứa chủ thể \"the tax laws\" và hành động \"changed\" xác định theo thời quá khứ. \n\n Chức năng: [Because the tax laws changed recently] - [Trạng Câu][Adverb Clause] đứng độc lập đứng ra bổ nghĩa cho toàn bộ phần còn lại theo góc độ nguyên nhân."
 		}
 	];
 
