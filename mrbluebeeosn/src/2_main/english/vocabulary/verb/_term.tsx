@@ -130,54 +130,6 @@ export default function (): React.JSX.Element {
       <p className="text-indent-whole"><strong>QUY TẮC CỐT LÕI</strong>:</p>
 
       <p className="text-indent-whole"></p>
-
-      
-      
-      <h4 className="margin-y-40"></h4>
-          
-      <p className="margin-top-20 text-indent-whole"><strong>Nhóm 1</strong>: [<strong>Thời Động Cơ</strong>][<strong>Tense Verb Base</strong>]</p>
-
-        <ul className="list-square">
-      
-          <li> → </li>
-
-          <li> → </li>
-
-          <li> → </li>
-
-          <li> → </li>
-      
-        </ul>
-      
-      
-      <p className="margin-top-20 text-indent-whole"><strong>Nhóm 2</strong>: [<strong>Thuần Động Cơ</strong>][<strong>Bare Verb Base</strong>]</p>
-
-        <ul className="list-square">
-      
-          <li> → </li>
-          <li> → </li>
-      
-        </ul>
-      
-
-      <p className="margin-top-20 text-indent-whole"><strong>Nhóm 3</strong>: [<strong>Ý-Thái Thuần Động Cơ</strong>][<strong>Soft-Modal Bare Verb Base</strong>]</p>
-
-        <ul className="list-square">
-      
-          <li> → </li>
-          <li> → </li>
-      
-        </ul>
-      
-
-      <p className="margin-top-20 text-indent-whole"><strong>Nhóm 4</strong>: [<strong>Áp-Thái Thuần Động Cơ</strong>][<strong>Assertive-Modal Bare Verb Base</strong>]</p>
-
-        <ul className="list-square">
-      
-          <li> → </li>
-          <li> → </li>
-      
-        </ul>
       
 
 
