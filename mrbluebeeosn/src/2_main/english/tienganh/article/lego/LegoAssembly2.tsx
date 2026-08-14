@@ -66,7 +66,7 @@ export default function LegoAssembly2(): React.JSX.Element {
 			
 			<p className="margin-top-20">Dependent được tổ chức theo <strong>3 cấp độ</strong> (Cơ → Cụm → Câu) và <strong>3 chức năng</strong> (Danh – Tính – Trạng). Nguyên lý xuyên suốt: <strong>Hình thái trước</strong> – <strong>Chức năng sau</strong>.</p>
 
-			<p>Đầu tiên nhận diện Dependent là một [Rễ Động Cơ][Root Verb Base], [Động Cụm][Verb Phrase] hay [Động Câu][Verb Clause]. Sau đó, dựa vào vị trí trong câu lớn, suy ra nó đang đảm nhận chức năng Danh, Tính hay Trạng.</p>
+			<p>Đầu tiên nhận diện Dependent là một [Rễ Động Cơ][Root Verb Base], [Động Cụm][Verb Phrase] hay [Liên Câu][Conjunctional Base]. Sau đó, dựa vào vị trí trong câu lớn, suy ra nó đang đảm nhận chức năng Danh, Tính hay Trạng.</p>
 
 			<p>Khi đã thuần thục, bạn có thể <strong>viết lại câu</strong> (<strong>paraphrasing</strong>) chỉ bằng cách thay khối Dependent này bằng một khối Dependent khác <strong>cùng chức năng</strong> – giống như đổi một miếng Lego cùng hình dạng nhưng khác màu.</p>
 
@@ -225,7 +225,7 @@ export default function LegoAssembly2(): React.JSX.Element {
 
 			<h3 className="margin-y-50 text-center">🧩 Cấu trúc phân tầng: Danh cụm lồng Danh câu</h3>
 
-			<p className="margin-top-20">Đôi khi một [Động Cụm] lại chứa bên trong một Động Câu, tạo thành khối nhiều lớp.</p>
+			<p className="margin-top-20">Đôi khi một [Động Cụm] lại chứa bên trong một Liên Câu, tạo thành khối nhiều lớp.</p>
 			
 				<ul className="list-square">
 			
@@ -233,7 +233,7 @@ export default function LegoAssembly2(): React.JSX.Element {
 					<li className="margin-bottom-20 list-none">Anh ấy [đã quên {'{rằng cô ấy cần tài liệu}'}].</li>
 			
 					<li className="list-none">Hình thái tổng thể: [forgot {'{that she needed the document}'}] – [Tầng Thời-Thuần Động Cụm][Tiered Tense-Bare Verb Phrase] tầng ngoài [Thời-Thuần Động Cơ][Tense-Bare Verb Base] forgot</li>
-					<li className="margin-bottom-20 list-none">Hình thái bên trong: {'{that she needed the document}'} – [Liên Câu][Conjunctional Base][Động Câu][Verb Clause] tầng trong</li>
+					<li className="margin-bottom-20 list-none">Hình thái bên trong: {'{that she needed the document}'} – [Liên Câu][Conjunctional Base][Liên Câu][Conjunctional Base] tầng trong</li>
 
 					<li className="list-none">Chức năng của khối trong: {'{that she needed the document}'} – [Danh Câu][Noun Clause]</li>
 					<li className="list-none">Chức năng của khối ngoài: [forgot {'{that she needed the document}'}] – [Danh Cụm][Noun Phrase] toàn bộ là khối mở rộng sau He</li>
@@ -431,7 +431,7 @@ export default function LegoAssembly2(): React.JSX.Element {
 			
 					<li>Xác định <strong>Head</strong> (hạt nhân điều khiển).</li>
 			
-					<li>Nhìn <strong>Dependent</strong>, nhận diện <strong>Hình thái</strong> (Động Cơ / [Động Cụm] / Động Câu).</li>
+					<li>Nhìn <strong>Dependent</strong>, nhận diện <strong>Hình thái</strong> (Động Cơ / [Động Cụm] / Liên Câu).</li>
 
 					<li>Suy ra <strong>Chức năng</strong> (Danh / Tính / Trạng) dựa vào vị trí.</li>
 			

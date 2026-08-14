@@ -415,7 +415,7 @@ export default function Create(): React.JSX.Element {
           <li>[Creating unique marketing strategies], the startup attracted global investors.</li>
           <li className="margin-bottom-20 list-none">[Tạo ra các chiến lược tiếp thị độc đáo], công ty khởi nghiệp đã thu hút các nhà đầu tư toàn cầu.</li>
       
-          <li className="list-none">Hình thái: [Creating unique marketing strategies] - [Tiếp Động Cụm][Progressive Verb Phrase] đứng biệt lập ở đầu câu, ngăn cách bằng dấu phẩy, mang [Tiếp Động Cơ][Progressive Verb Base] kết hợp mở rộng do được rút gọn từ một hệ [Động Câu][Verb Clause] trạng phụ thuộc có cùng thành phần lõi [Danh Chủ][Noun Subject].</li>
+          <li className="list-none">Hình thái: [Creating unique marketing strategies] - [Tiếp Động Cụm][Progressive Verb Phrase] đứng biệt lập ở đầu câu, ngăn cách bằng dấu phẩy, mang [Tiếp Động Cơ][Progressive Verb Base] kết hợp mở rộng do được rút gọn từ một hệ [Liên Câu][Conjunctional Base] trạng phụ thuộc có cùng thành phần lõi [Danh Chủ][Noun Subject].</li>
       
           <li className="list-none">Chức năng: [Creating unique marketing strategies] - [Trạng Cụm][Adverb Phrase] đóng vai trò làm một khối bối cảnh nguyên nhân/phương thức tổng thể để bổ nghĩa cho toàn bộ phần diện thông tin chính phía sau.</li>
       
@@ -476,7 +476,7 @@ export default function Create(): React.JSX.Element {
 
 
 
-      <h4 className="margin-y-40">4. Phân hệ [Động Câu][Verb Clause]</h4>
+      <h4 className="margin-y-40">4. Phân hệ [Liên Câu][Conjunctional Base]</h4>
           
       <h5 className="margin-y-30 text-indent-whole">4.1 Phân hệ [Liên Câu][Conjunctional Base]</h5>
 

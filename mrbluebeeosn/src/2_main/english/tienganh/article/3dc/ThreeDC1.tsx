@@ -64,7 +64,7 @@ export default function ThreeDC1(): React.ReactElement {
 			
 				<ul className="list-square">
 			
-					<li><strong>Chiều dọc</strong> – <strong>4 Cấp độ Hình thái</strong>: [Động Cơ][Verb Base] → [Động Cụm][Verb Phrase] → [Giới Cụm][Prepositional Phrase] → [Động Câu][Verb Clause]. Người học khi nhìn vào một câu chỉ cần nhận diện khối biểu hiện đang ở hình thái nào.</li>
+					<li><strong>Chiều dọc</strong> – <strong>4 Cấp độ Hình thái</strong>: [Động Cơ][Verb Base] → [Động Cụm][Verb Phrase] → [Giới Cụm][Prepositional Phrase] → [Liên Câu][Conjunctional Base]. Người học khi nhìn vào một câu chỉ cần nhận diện khối biểu hiện đang ở hình thái nào.</li>
 			
 					<li><strong>Chiều ngang</strong> – <strong>3 Chức năng</strong>: [Danh][Noun] / [Tính][Adjective] / [Trạng][Adverb]. Tùy thuộc vào vị trí đứng, các Hình thái trên sẽ "hóa thân" để thực thi một trong ba chức năng này.</li>
 			
@@ -81,7 +81,7 @@ export default function ThreeDC1(): React.ReactElement {
 			
 					<li><strong>Ở cấp độ</strong> [<strong>Giới Cụm</strong>][<strong>Prepositional Phrase</strong>]: Sinh ra [Tính Cụm][Adjective Phrase], [Trạng Cụm][Adverb Phrase].</li>
 
-					<li><strong>Ở cấp độ</strong> [<strong>Động Câu</strong>][<strong>Verb Clause</strong>]: Sinh ra [Danh Câu][Noun Clause], [Tính Câu][Adjective Clause], [Trạng Câu][Adverb Clause].</li>
+					<li><strong>Ở cấp độ</strong> [<strong>Liên Câu</strong>][<strong>Conjunctional Base</strong>]: Sinh ra [Danh Câu][Noun Clause], [Tính Câu][Adjective Clause], [Trạng Câu][Adverb Clause].</li>
 			
 				</ul>
 
@@ -459,7 +459,7 @@ export default function ThreeDC1(): React.ReactElement {
 
 			<h3 className="margin-y-50 text-center">VI. HIỆN TƯỢNG [ẨN LIÊN CÂU][ZERO CONJUNCTIONAL CLAUSE]</h3>
 
-			<p>Trong thực tế, rất nhiều khối [Động Câu][Verb Clause] được lược bỏ hoàn toàn [Liên Cơ][Conjunctional Base] dẫn dắt. Lúc này, khối biểu hiện có hình thái bề ngoài giống hệt như một câu độc lập, nhưng chúng bắt buộc phải gắn kết chặt chẽ vào hệ thống để thực thi các chức năng cốt lõi:</p>
+			<p>Trong thực tế, rất nhiều khối [Liên Câu][Conjunctional Base] được lược bỏ hoàn toàn [Liên Cơ][Conjunctional Base] dẫn dắt. Lúc này, khối biểu hiện có hình thái bề ngoài giống hệt như một câu độc lập, nhưng chúng bắt buộc phải gắn kết chặt chẽ vào hệ thống để thực thi các chức năng cốt lõi:</p>
 
 
 			<p className="margin-top-20"><strong>Ví dụ 1</strong>: [<strong>DANH CÂU</strong>][<strong>NOUN CLAUSE</strong>]:</p>

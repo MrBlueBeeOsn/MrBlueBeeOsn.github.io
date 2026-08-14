@@ -70,7 +70,7 @@ export default function SuperWords2(): React.JSX.Element {
 			
 			<p className="margin-top-20">Mỗi đơn vị khi xuất hiện đều có một <strong>Hình thái</strong> (hình dáng bên ngoài) và một <strong>Chức năng</strong> (việc nó làm).</p>
 
-			<p>Hình thái thường bắt nguồn từ [<strong>Động Cơ</strong>][<strong>Verb Base</strong>], [<strong>Động Cụm</strong>][<strong>Verb Phrase</strong>] hoặc <strong>Động Câu</strong> [<strong>Verb Clause</strong>].</p>
+			<p>Hình thái thường bắt nguồn từ [<strong>Động Cơ</strong>][<strong>Verb Base</strong>], [<strong>Động Cụm</strong>][<strong>Verb Phrase</strong>] hoặc <strong>Liên Câu</strong> [<strong>Conjunctional Base</strong>].</p>
 
 			<p>Sau khi xác định Hình thái, bạn nhìn vào vị trí của nó trong câu lớn để biết Chức năng: <strong>Danh</strong>, <strong>Tính</strong> hay <strong>Trạng</strong>.</p>
 
@@ -285,7 +285,7 @@ export default function SuperWords2(): React.JSX.Element {
 
 			<h3 className="margin-y-50 text-center">III. Cấp độ CÂU – câu con có đủ cặp chủ‑vị, không đứng một mình</h3>
 
-			<p>Một <strong>Động Câu</strong> [<strong>Verb Clause</strong>] (có cặp chủ – vị hoàn chỉnh) có thể mang ba chức năng.</p>
+			<p>Một <strong>Liên Câu</strong> [<strong>Conjunctional Base</strong>] (có cặp chủ – vị hoàn chỉnh) có thể mang ba chức năng.</p>
 
 
 			<h4 className="margin-y-40">7. [Danh Câu][Noun Clause]</h4>
@@ -384,7 +384,7 @@ export default function SuperWords2(): React.JSX.Element {
 
 			<h4 className="margin-y-40">Mở rộng: [Danh Cụm][Noun Phrase]</h4>
 
-			<p className="text-indent-whole">Đôi khi bạn thấy một [Động Cụm] bên ngoài bao bọc một {'{Động Câu}'} bên trong. Cả hai tầng đều làm việc Danh, nhưng khác cấp độ.</p>
+			<p className="text-indent-whole">Đôi khi bạn thấy một [Động Cụm] bên ngoài bao bọc một {'{Liên Câu}'} bên trong. Cả hai tầng đều làm việc Danh, nhưng khác cấp độ.</p>
 			
 
 			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ</strong>: [knows {'{what you did}'}]</p>
@@ -415,7 +415,7 @@ export default function SuperWords2(): React.JSX.Element {
 				</ul>
 			
 			
-			<p className="margin-top-20 text-indent-whole">Ký hiệu: [] cho [Động Cụm] → Chức năng Danh Cụm. {} cho [Động Câu] → Chức năng Danh Câu.</p>
+			<p className="margin-top-20 text-indent-whole">Ký hiệu: [] cho [Động Cụm] → Chức năng Danh Cụm. {} cho [Liên Câu] → Chức năng Danh Câu.</p>
 
 			
 
@@ -579,7 +579,7 @@ export default function SuperWords2(): React.JSX.Element {
 			
 					<li>Mọi đơn vị đều nằm trong lưới 3 chức năng × 3 cấp độ.</li>
 			
-					<li>Mỗi đơn vị có Hình thái (Động Cơ / [Động Cụm] / Động Câu) và Chức năng (Danh / Tính / Trạng). Hình thái được xác định qua dấu hiệu bên ngoài; Chức năng được suy ra từ vị trí trong câu lớn.</li>
+					<li>Mỗi đơn vị có Hình thái (Động Cơ / [Động Cụm] / Liên Câu) và Chức năng (Danh / Tính / Trạng). Hình thái được xác định qua dấu hiệu bên ngoài; Chức năng được suy ra từ vị trí trong câu lớn.</li>
 			
 					<li>Paraphrasing đơn giản là thay một khối bằng một khối khác cùng chức năng – giữ nguyên khung câu, chỉ thay phần bên trong.</li>
 			
@@ -592,7 +592,7 @@ export default function SuperWords2(): React.JSX.Element {
 
 			<h3 className="margin-y-50 text-center">Lời kết:</h3>
 
-			<p>Hãy tập thói quen: khi gặp một câu, hãy <strong>đặt các khối vào</strong> [], xác định Hình thái của chúng (Động Cơ / [Động Cụm] / Động Câu), sau đó suy ra Chức năng (Danh / Tính / Trạng). Rồi thử thay khối đó bằng một khối khác cùng chức năng – bạn đã biết cách viết lại câu một cách thông minh.</p>
+			<p>Hãy tập thói quen: khi gặp một câu, hãy <strong>đặt các khối vào</strong> [], xác định Hình thái của chúng (Động Cơ / [Động Cụm] / Liên Câu), sau đó suy ra Chức năng (Danh / Tính / Trạng). Rồi thử thay khối đó bằng một khối khác cùng chức năng – bạn đã biết cách viết lại câu một cách thông minh.</p>
 
 			<p><strong>Cơ</strong> – <strong>Cụm</strong> – <strong>Câu</strong> biến câu văn thành trò chơi xếp hình với ba màu (Danh, Tính, Trạng) và ba kích thước (Cơ, Cụm, Câu). Hãy chia sẻ để bạn bè cùng khám phá nhé! 🇻🇳</p>
 

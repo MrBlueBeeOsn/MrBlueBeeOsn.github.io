@@ -291,7 +291,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 
 					<li>[Giới Cụm][Prepositional Phrase] hình thành nên chức năng [Tính Cụm][Adjective Phrase], [Trạng Cụm][Adverb Phrase].</li>
 			
-					<li>[Động Câu][Verb Clause] hình thành nên chức năng [Danh Câu][Noun Clause], [Tính Câu][Adjective Clause], [Trạng Câu][Adverb Clause].</li>
+					<li>[Liên Câu][Conjunctional Base] hình thành nên chức năng [Danh Câu][Noun Clause], [Tính Câu][Adjective Clause], [Trạng Câu][Adverb Clause].</li>
 			
 				</ul>
 			
@@ -714,7 +714,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 				</ul>
 			
 			
-			<p className="margin-top-20 text-indent-whole"><strong>Biến đổi sang khối</strong> [<strong>Động Câu</strong>][<strong>Verb Clause</strong>] <strong>đóng vai trò</strong> [<strong>DANH</strong>]:</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Biến đổi sang khối</strong> [<strong>Liên Câu</strong>][<strong>Conjunctional Base</strong>] <strong>đóng vai trò</strong> [<strong>DANH</strong>]:</p>
 			
 				<ul className="list-square">
 			

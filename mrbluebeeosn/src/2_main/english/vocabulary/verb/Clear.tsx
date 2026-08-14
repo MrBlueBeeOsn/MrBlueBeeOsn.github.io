@@ -343,7 +343,7 @@ export default function Clear(): React.JSX.Element {
           <li className="margin-bottom-20 list-none">[Do dọn dẹp không gian làm việc sớm], anh ấy đã rời văn phòng với tâm trí thảnh thơi.</li>
       
           <li className="list-none">Hình thái: [Clearing the workspace early] - [Tiếp Động Cụm][Progressive Verb Phrase]
- đứng biệt lập ở đầu câu, ngăn cách bằng dấu phẩy, mang [Tiếp Động Cơ][Progressive Verb Base] dạng "-ing" do được rút gọn từ một hệ [Động Câu] Trạng phụ thuộc có cùng thành phần lõi [Danh Chủ][Noun Subject].</li>
+ đứng biệt lập ở đầu câu, ngăn cách bằng dấu phẩy, mang [Tiếp Động Cơ][Progressive Verb Base] dạng "-ing" do được rút gọn từ một hệ [Liên Câu] Trạng phụ thuộc có cùng thành phần lõi [Danh Chủ][Noun Subject].</li>
       
           <li className="list-none">Chức năng: [Clearing the workspace early] - [Trạng Cụm][Adverb Phrase] đóng vai trò làm một khối bối cảnh nguyên nhân/phương thức tổng thể để bổ nghĩa cho toàn bộ phần diện thông tin chính phía sau.</li>
       
@@ -409,13 +409,13 @@ export default function Clear(): React.JSX.Element {
 
 
 
-      <h4 className="margin-y-40">4. Phân hệ [Động Câu][Verb Clause]</h4>
+      <h4 className="margin-y-40">4. Phân hệ [Liên Câu][Conjunctional Base]</h4>
 
-      <p className="margin-top-20 text-indent-whole">Khi vùng mã mở rộng thành một phân hệ chứa một hệ con hoàn chỉnh có cả thành phần nền tảng [Danh Chủ][Noun Subject] riêng và [Động Cơ] riêng, người học xác định được diện mạo vật lý [Động Câu][Verb Clause].</p>
+      <p className="margin-top-20 text-indent-whole">Khi vùng mã mở rộng thành một phân hệ chứa một hệ con hoàn chỉnh có cả thành phần nền tảng [Danh Chủ][Noun Subject] riêng và [Động Cơ] riêng, người học xác định được diện mạo vật lý [Liên Câu][Conjunctional Base].</p>
 
-      <p className="margin-top-20 text-indent-whole"><strong>Bản chất vật lý</strong>: [Động Câu] tuy mang hình thái của một hệ con đầy đủ nhưng <strong>không thể đứng một mình độc lập</strong> để tạo thành một thông điệp trọn vẹn. Nó luôn lồng ghép vào sơ đồ tổng thể để thực thi một chức năng phụ thuộc.</p>
+      <p className="margin-top-20 text-indent-whole"><strong>Bản chất vật lý</strong>: [Liên Câu] tuy mang hình thái của một hệ con đầy đủ nhưng <strong>không thể đứng một mình độc lập</strong> để tạo thành một thông điệp trọn vẹn. Nó luôn lồng ghép vào sơ đồ tổng thể để thực thi một chức năng phụ thuộc.</p>
 
-      <p className="margin-top-20 text-indent-whole">Dựa trên sự xuất hiện của mã kết nối, [Động Câu] được chia làm 2 phân hệ vận hành:</p>
+      <p className="margin-top-20 text-indent-whole">Dựa trên sự xuất hiện của mã kết nối, [Liên Câu] được chia làm 2 phân hệ vận hành:</p>
 
           
       <h5 className="margin-y-30 text-indent-whole">4.1 Phân hệ [Liên Câu][Conjunctional Base]</h5>
@@ -699,7 +699,7 @@ export default function Clear(): React.JSX.Element {
 
 
 
-      <h5 className="margin-y-30 text-indent-whole">Case 2: Kỹ thuật nâng cấp từ [Giới Cụm] lên Động Câu</h5>
+      <h5 className="margin-y-30 text-indent-whole">Case 2: Kỹ thuật nâng cấp từ [Giới Cụm] lên Liên Câu</h5>
 
       <p className="margin-top-20 text-indent-whole">[<strong>Phrase</strong> → <strong>Clause</strong>]</p>
       
@@ -715,7 +715,7 @@ export default function Clear(): React.JSX.Element {
         </ul>
       
       
-      <p className="margin-top-20 text-indent-whole"><strong>Nâng cấp lên Động Câu</strong>:</p>
+      <p className="margin-top-20 text-indent-whole"><strong>Nâng cấp lên Liên Câu</strong>:</p>
       
         <ul className="list-square">
       
@@ -729,7 +729,7 @@ export default function Clear(): React.JSX.Element {
         </ul>
 
 
-      <h5 className="margin-y-30 text-indent-whole">Case 3: Kỹ thuật hạ cấp từ [Động Câu] về Động Cơ</h5>
+      <h5 className="margin-y-30 text-indent-whole">Case 3: Kỹ thuật hạ cấp từ [Liên Câu] về Động Cơ</h5>
 
       <p className="margin-top-20 text-indent-whole">[<strong>Clause</strong> → <strong>Base</strong>]</p>
       

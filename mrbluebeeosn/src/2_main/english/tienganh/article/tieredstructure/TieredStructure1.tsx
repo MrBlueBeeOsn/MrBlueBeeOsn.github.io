@@ -533,9 +533,9 @@ export default function TieredStructure1(): React.JSX.Element {
 
 
 
-			<h4 className="margin-y-40">E. Phân hệ [Động Câu][Verb Clause]</h4>
+			<h4 className="margin-y-40">E. Phân hệ [Liên Câu][Conjunctional Base]</h4>
 
-			<p className="text-indent-whole">Khi vùng mã mở rộng thành một phân hệ chứa một câu con hoàn chỉnh có cả chủ thể hành động riêng và các phân nhánh hành động riêng, người học xác định được diện mạo vật lý Động Câu [Verb Clause].</p>
+			<p className="text-indent-whole">Khi vùng mã mở rộng thành một phân hệ chứa một câu con hoàn chỉnh có cả chủ thể hành động riêng và các phân nhánh hành động riêng, người học xác định được diện mạo vật lý Liên Câu [Conjunctional Base].</p>
 
 					
 			<h5 className="margin-y-30 text-indent-whole">Phân hệ [Liên Câu][Conjunctional Base] (Có Từ Kết Nối)</h5>

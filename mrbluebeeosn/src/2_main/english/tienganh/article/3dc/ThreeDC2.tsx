@@ -413,7 +413,7 @@ export default function ThreeDC2(): React.ReactElement {
 			
 				<ul className="list-square">
 			
-					<li><strong>Hình thái</strong> cho biết khối ở cấp độ nào: Động Cơ, [Động Cụm] hay Động Câu.</li>
+					<li><strong>Hình thái</strong> cho biết khối ở cấp độ nào: Động Cơ, [Động Cụm] hay Liên Câu.</li>
 			
 					<li><strong>Chức năng</strong> cho biết khối đang làm nhiệm vụ gì trong câu: Danh, Tính hay Trạng.</li>
 			

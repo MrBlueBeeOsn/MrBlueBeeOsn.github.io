@@ -191,7 +191,7 @@ export default function AdjPlacement2(): React.JSX.Element {
 			
 				</ul>
 			
-			<p className="margin-top-20">Nguyên lý xuyên suốt: Hình thái (Động Cơ, Động Cụm, Động Câu, Giới Cụm) được "đóng gói" và đặt vào vị trí của một trong ba chức năng (Danh, Tính, Trạng). Bạn chỉ cần nhìn hình thái trước, sau đó xác định chức năng dựa vào vị trí trong câu.</p>
+			<p className="margin-top-20">Nguyên lý xuyên suốt: Hình thái (Động Cơ, Động Cụm, Liên Câu, Giới Cụm) được "đóng gói" và đặt vào vị trí của một trong ba chức năng (Danh, Tính, Trạng). Bạn chỉ cần nhìn hình thái trước, sau đó xác định chức năng dựa vào vị trí trong câu.</p>
 
 
 
@@ -278,7 +278,7 @@ export default function AdjPlacement2(): React.JSX.Element {
 
 			<p className="margin-top-20 text-indent-whole">🌟 <strong>Danh Cụm phân tầng</strong> [<strong>Tiered Noun Phrase</strong>]: [knows {'{where she hides the key}'}]</p>
 
-			<p className="margin-top-20 text-indent-whole">Khi một [Động Câu] được lồng bên trong một Động Cụm, ta có một [Danh Cụm] phân tầng – cấu trúc cực kỳ phổ biến trong tiếng Anh đẳng cấp.</p>
+			<p className="margin-top-20 text-indent-whole">Khi một [Liên Câu] được lồng bên trong một Động Cụm, ta có một [Danh Cụm] phân tầng – cấu trúc cực kỳ phổ biến trong tiếng Anh đẳng cấp.</p>
 			
 				<ul className="list-square">
 			
@@ -714,7 +714,7 @@ export default function AdjPlacement2(): React.JSX.Element {
 
 			<h3 className="margin-y-50 text-center">7. Khi đã quen nhận diện Hình thái → Chức năng, Paraphrasing trở thành bài toán "thay khối cùng chức năng"</h3>
 
-			<p>Bạn có nhận ra một điều kỳ diệu không? Một khi bạn đã xác định được một khối (có thể là một Động Cơ, Động Cụm, Động Câu, hay Giới Cụm) đang đảm nhận một chức năng cụ thể (Danh, Tính, hoặc Trạng), bạn có thể thay thế khối đó bằng bất kỳ khối nào khác có cùng chức năng – mà không cần thay đổi cấu trúc tổng thể của Câu Lớn.</p>
+			<p>Bạn có nhận ra một điều kỳ diệu không? Một khi bạn đã xác định được một khối (có thể là một Động Cơ, Động Cụm, Liên Câu, hay Giới Cụm) đang đảm nhận một chức năng cụ thể (Danh, Tính, hoặc Trạng), bạn có thể thay thế khối đó bằng bất kỳ khối nào khác có cùng chức năng – mà không cần thay đổi cấu trúc tổng thể của Câu Lớn.</p>
 
 			<p>Điều này biến việc viết lại câu (paraphrasing) từ một bài toán "đoán mò" thành một bài toán "lắp ghép" cực kỳ đơn giản và có hệ thống.</p>
 

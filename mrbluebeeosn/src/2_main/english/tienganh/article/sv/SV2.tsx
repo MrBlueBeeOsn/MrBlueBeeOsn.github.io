@@ -52,7 +52,7 @@ export default function SV2(): React.JSX.Element {
 
 			<p>Bạn từng nghĩ viết lại câu (paraphrasing) là phải thay đổi cả cấu trúc?</p>
 
-			<p>Thực ra, khi đã nhận diện được Hình thái (Động Cơ / [Động Cụm] / [Động Câu] / Giới Cụm) và Chức năng (Danh / Tính / Trạng) của từng khối, paraphrase trở thành bài toán đơn giản: thay một khối bằng một khối khác có cùng Chức năng. Câu vẫn đúng, ý nghĩa không đổi.</p>
+			<p>Thực ra, khi đã nhận diện được Hình thái (Động Cơ / [Động Cụm] / [Liên Câu] / Giới Cụm) và Chức năng (Danh / Tính / Trạng) của từng khối, paraphrase trở thành bài toán đơn giản: thay một khối bằng một khối khác có cùng Chức năng. Câu vẫn đúng, ý nghĩa không đổi.</p>
 			
 			<p>Dưới đây là toàn bộ hệ thống, từ ba cấp độ cơ bản đến kỹ thuật paraphrase linh hoạt, với ví dụ minh họa theo đúng mẫu.</p>
 			
@@ -74,7 +74,7 @@ export default function SV2(): React.JSX.Element {
 					<li>[Giới Cụm][Prepositional Phrase]</li>
 					<li className="margin-bottom-20 list-none">Nhóm từ bắt đầu bằng một thành phần chỉ quan hệ không gian, thời gian, cách thức, mục đích, nguyên nhân (như in, on, at, for, with, by, of, to,...).</li>
 			
-					<li>[Động Câu][Verb Clause]</li>
+					<li>[Liên Câu][Conjunctional Base]</li>
 					<li className="list-none">Một câu con có đầy đủ một thành phần thực hiện hành động và một động cơ.</li>
 			
 				</ul>
@@ -101,7 +101,7 @@ export default function SV2(): React.JSX.Element {
 			
 				<ol>
 			
-					<li>Hình thái của nó là Động Cơ, Động Cụm, [Giới Cụm] hay Động Câu?</li>
+					<li>Hình thái của nó là Động Cơ, Động Cụm, [Giới Cụm] hay Liên Câu?</li>
 			
 					<li>Nó đang đứng ở vị trí nào? Đầu câu? Sau một [Danh Cơ]? Bên cạnh một động cơ?</li>
 			
@@ -170,7 +170,7 @@ export default function SV2(): React.JSX.Element {
 				</ul>
 			
 			
-			<p className="margin-top-20 text-indent-whole">Danh Câu – Hình thái: Động Câu</p>
+			<p className="margin-top-20 text-indent-whole">Danh Câu – Hình thái: Liên Câu</p>
 			
 				<ul className="list-square">
 			
@@ -215,7 +215,7 @@ export default function SV2(): React.JSX.Element {
 				</ul>
 			
 			
-			<p className="margin-top-20 text-indent-whole">Tính Câu – Hình thái: Động Câu</p>
+			<p className="margin-top-20 text-indent-whole">Tính Câu – Hình thái: Liên Câu</p>
 			
 				<ul className="list-square">
 			
@@ -261,7 +261,7 @@ export default function SV2(): React.JSX.Element {
 				</ul>
 			
 			
-			<p className="margin-top-20 text-indent-whole">Trạng Câu – Hình thái: Động Câu</p>
+			<p className="margin-top-20 text-indent-whole">Trạng Câu – Hình thái: Liên Câu</p>
 			
 				<ul className="list-square">
 			
@@ -282,7 +282,7 @@ export default function SV2(): React.JSX.Element {
 
 			<h3 className="margin-y-50 text-center">4. DANH CỤM PHÂN TẦNG (NESTED NOUN PHRASE)</h3>
 
-			<p>Khi một [Động Cụm] bên ngoài bao bọc bên trong một Động Câu, ta có cấu trúc phân tầng. Lớp ngoài mang chức năng Danh Cụm, lớp trong mang chức năng Danh Câu.</p>
+			<p>Khi một [Động Cụm] bên ngoài bao bọc bên trong một Liên Câu, ta có cấu trúc phân tầng. Lớp ngoài mang chức năng Danh Cụm, lớp trong mang chức năng Danh Câu.</p>
 			
 				<ul className="list-square">
 			
@@ -524,7 +524,7 @@ export default function SV2(): React.JSX.Element {
 
 			<h3 className="margin-y-50 text-center">7. KẾT LUẬN – PARAPHRASING LÀ TRÒ CHƠI THAY KHỐI CÙNG CHỨC NĂNG</h3>
 
-			<p>Hệ thống Cơ – Cụm – Câu và việc phân biệt rõ Hình thái (Động Cơ, Động Cụm, Giới Cụm, Động Câu) với Chức năng Danh / Tính / Trạng không chỉ giúp người học hiểu sâu cấu trúc câu. Nó còn biến paraphrase thành một thao tác đơn giản, có thể thực hành một cách có ý thức:</p>
+			<p>Hệ thống Cơ – Cụm – Câu và việc phân biệt rõ Hình thái (Động Cơ, Động Cụm, Giới Cụm, Liên Câu) với Chức năng Danh / Tính / Trạng không chỉ giúp người học hiểu sâu cấu trúc câu. Nó còn biến paraphrase thành một thao tác đơn giản, có thể thực hành một cách có ý thức:</p>
 			
 				<ul className="list-square">
 			
@@ -532,7 +532,7 @@ export default function SV2(): React.JSX.Element {
 					<li className="margin-bottom-20 list-none">Xác định khối cần thay – nó đang mang Chức năng gì? Danh, Tính hay Trạng?</li>
 			
 					<li>Bước 2:</li>
-					<li className="margin-bottom-20 list-none">Chọn một khối khác (có Hình thái bất kỳ: Động Cơ, Động Cụm, Giới Cụm, hay Động Câu) nhưng phải đảm bảo cùng Chức năng.</li>
+					<li className="margin-bottom-20 list-none">Chọn một khối khác (có Hình thái bất kỳ: Động Cơ, Động Cụm, Giới Cụm, hay Liên Câu) nhưng phải đảm bảo cùng Chức năng.</li>
 			
 					<li>Bước 3:</li>
 					<li className="list-none">Thế vào vị trí cũ, giữ nguyên phần còn lại của câu.</li>

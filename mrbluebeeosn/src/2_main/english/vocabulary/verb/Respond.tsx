@@ -526,7 +526,7 @@ export default function Respond(): React.JSX.Element {
 
 
 
-      <h4 className="margin-y-40">4. Phân hệ [Động Câu][Verb Clause]</h4>
+      <h4 className="margin-y-40">4. Phân hệ [Liên Câu][Conjunctional Base]</h4>
           
       <h5 className="margin-y-30 text-indent-whole">4.1 Phân hệ [Liên Câu][Conjunctional Base]</h5>
 
