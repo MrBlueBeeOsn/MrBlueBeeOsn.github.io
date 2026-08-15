@@ -708,7 +708,7 @@ export default function ThreeDC1(): React.ReactElement {
 					<li>The programmer discovered [how to bypass the security firewall].</li>
 					<li className="margin-bottom-20 list-none">Lập trình viên đã phát hiện ra [cách vượt qua tường lửa bảo mật].</li>
 			
-					<li className="list-none">Hình thái: Khối [how to bypass the security firewall] - [Liên Hạt Thuần Động Cụm][Conjunctional Phrase] bắt đầu bằng biểu hiện nghi vấn "how" dẫn dắt trực tiếp một cấu trúc hành động dạng "to + bare verb".</li>
+					<li className="list-none">Hình thái: Khối [how to bypass the security firewall] - [Hiển-Liên Hạt Thuần Động Cụm][Connector Particle Bare Verb Phrase] bắt đầu bằng biểu hiện nghi vấn "how" dẫn dắt trực tiếp một cấu trúc hành động dạng "to + bare verb".</li>
 			
 					<li className="list-none">Chức năng: Khối [how to bypass the security firewall] - [Danh Cụm][Noun Phrase] làm khối [Danh Nhận][Noun Object] chịu sự điều phối của hành động "discovered".</li>
 			
@@ -738,7 +738,7 @@ export default function ThreeDC1(): React.ReactElement {
 				</ul>
 
 			
-			<h5 className="margin-y-30">Thử thách phá án 3 cấu trúc có cùng hình thái [Liên Câu][Conjunctional Clause] chứa biểu hiện [Liên Cơ][Conjunctional Base] "<strong>where</strong>":</h5>
+			<h5 className="margin-y-30">Thử thách phá án 3 cấu trúc có cùng hình thái [LIÊN CÂU][CONJUNCTIONAL CLAUSE] chứa biểu hiện [Liên Cơ][Conjunctional Base] "<strong>where</strong>":</h5>
 			
 
 			<p className="margin-top-20">Trường hợp A: Thử thế thân bằng [Trạng Cơ][Adverb Base] "<strong>there</strong>"</p>
@@ -748,7 +748,7 @@ export default function ThreeDC1(): React.ReactElement {
 					<li>The technician will deploy the software [where the signal peaks].</li>
 					<li className="margin-bottom-20 list-none">The technician will deploy the software there.</li>
 			
-					<li className="list-none">→ Hợp lý! Khối [where the signal peaks] thực thi chức năng [Trạng Câu][Adverb Clause] chỉ bối cảnh vị trí.</li>
+					<li className="list-none">→ Hợp lý! Khối [where the signal peaks] thực thi chức năng [<strong>Trạng Câu</strong>][<strong>Adverb Clause</strong>] chỉ bối cảnh vị trí.</li>
 			
 				</ul>
 			
@@ -760,7 +760,7 @@ export default function ThreeDC1(): React.ReactElement {
 					<li>This is the server room [where the signal peaks].</li>
 					<li className="margin-bottom-20 list-none">This is the new server room.</li>
 			
-					<li className="list-none">→ Hợp lý! Khối [where the signal peaks] hoàn thành chức năng [Tính Câu][Adjective Clause] bổ nghĩa đặc điểm cho khối định danh đứng trước.</li>
+					<li className="list-none">→ Hợp lý! Khối [where the signal peaks] hoàn thành chức năng [<strong>Tính Câu</strong>][<strong>Adjective Clause</strong>] bổ nghĩa đặc điểm cho khối định danh đứng trước.</li>
 			
 				</ul>
 			
@@ -772,7 +772,7 @@ export default function ThreeDC1(): React.ReactElement {
 					<li>The system monitors [where the signal peaks].</li>
 					<li className="margin-bottom-20 list-none">The system monitors something.</li>
 			
-					<li className="list-none">→ Hợp lý! Khối [where the signal peaks] đáp ứng chức năng [Danh Câu][Noun Clause] đóng vai trò làm [Danh Nhận][Noun Object] trực tiếp đứng sau hành động "monitors".</li>
+					<li className="list-none">→ Hợp lý! Khối [where the signal peaks] đáp ứng chức năng [<strong>Danh Câu</strong>][<strong>Noun Clause</strong>] đóng vai trò làm [Danh Nhận][Noun Object] trực tiếp đứng sau hành động "monitors".</li>
 			
 				</ul>
 
