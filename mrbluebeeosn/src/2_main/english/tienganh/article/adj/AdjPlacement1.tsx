@@ -50,7 +50,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 
 			<h4 className="margin-bottom-30 text-center">ĐIỂM MẠNH TƯƠNG ĐỒNG: BƯỚC ĐỘT PHÁ GIÚP NGƯỜI VIỆT THỐNG TRỊ TIẾNG ANH HỌC THUẬT VỀ CHỨC NĂNG [TÍNH][ADJECTIVE]</h4>
 
-			<p>Lối mòn tư duy kìm hãm thế hệ người học tiếng Anh tại Việt Nam chính là định kiến: cấu trúc tiếng Anh "ngược" với tiếng Việt. Chúng ta thường bị đóng khung trong quy luật sơ cấp: [Tính Cơ][Adjective Base] phải đứng trước [Danh Cơ][Noun Base].</p>
+			<p>Lối mòn tư duy kìm hãm thế hệ người học tại Việt Nam chính là định kiến: cấu trúc tiếng Anh "ngược" với tiếng Việt. Chúng ta thường bị đóng khung trong quy luật sơ cấp: [Tính Cơ][Adjective Base] phải đứng trước [Danh Cơ][Noun Base].</p>
 			
 			<p>Tuy nhiên, trong văn viết học thuật và các cấu trúc câu phức, người bản ngữ ưu tiên sử dụng trật tự [Danh Cơ][Noun Base] đứng trước, thành phần bổ nghĩa mang chức năng [Tính][Adjective] đứng sau. Đây chính là "khóa vàng" giúp người Việt sở hữu tư duy ngôn ngữ đẳng cấp.</p>
 			
@@ -67,7 +67,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 			
 					<li>[<strong>Danh Cơ</strong>][<strong>Noun Base</strong>] <strong>đứng trước thành phần bổ nghĩa</strong>:</li>
 					<li className="list-none">→ <strong>Nhấn mạnh Đối tượng</strong></li>
-					<li className="list-none">Khi muốn đối tượng chính làm "mỏ neo", người bản ngữ đặt [Danh Cơ][Noun Base] lên đầu, sau đó mới thả chuỗi thông tin bổ trợ phía sau bằng [Tính Cụm][Adjective Phrase] hoặc [Tính Câu][Adjective Clause].</li>
+					<li className="list-none">Khi muốn đối tượng chính làm "mỏ neo", người bản ngữ đặt [Danh Cơ][Noun Base] lên đầu, sau đó mới thả chuỗi thông tin bổ trợ phía sau bằng [Tính Cụm][Adjective Phrase] hoặc [Liên Câu][Conjunctional Clause].</li>
 			
 				</ul>
 
@@ -393,8 +393,8 @@ export default function AdjPlacement1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>The proposal [which is under review] is on my desk.</li>
-					<li className="margin-bottom-20 list-none">Bản đề xuất [cái đang được xem xét] thì nằm trên bàn của tôi.</li>
+					<li>The framework [which governs market regulations] is robust.</li>
+					<li className="margin-bottom-20 list-none">Khung [cái mà chi phối các quy định thị trường] thì vô cùng vững chắc.</li>
 			
 					<li className="list-none">Hình thái: [which governs market regulations] - [Liên Câu][Conjunctional Clause] mở đầu bằng [Liên Cơ][Conjunctional Base] "which" nối tiếp chuỗi hành động chia thời.</li>
 			
@@ -466,7 +466,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 			
 					<ul className="list-square">
 				
-						<li className="list-none">Tầng 1: [to deploy automated systems {'{which optimize workflow}'}] - [Tầng Hạt Thuần Động Cụm][Tiered Particle Bare Verb Phrase] bắt đầu bằng "to".</li>
+						<li className="list-none">Tầng 1: [to deploy automated systems {'{which optimize workflow}'}] - [Tầng Hạt Thuần Động Cụm][Tiered Particle Bare Verb Phrase] bắt đầu bằng [Hạt Thuần Động Cơ][Particle Bare Verb Base] "to deploy" kết hợp mở rộng cấu trúc.</li>
 
 						<li className="list-none">Tầng 2: {'{which optimize workflow}'} - [Liên Câu][Conjunctional Clause] lồng sâu bên trong.</li>
 				
@@ -477,7 +477,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li className="list-none">Tầng 1: [to deploy automated systems {'{which optimize workflow}'}] - [Tính Cụm][Adjective Phrase] xác lập hành động tương lai gắn kèm điều kiện bổ trợ cho "decision".</li>
+					<li className="list-none">Tầng 1: [to deploy automated systems {'{which optimize workflow}'}] - [Tính Cụm][Adjective Phrase] xác lập hành động tương lai gắn kèm điều kiện bổ trợ cho [Danh Khối][Noun Block] "The decision".</li>
 
 					<li className="list-none">Tầng 2: {'{which optimize workflow}'} - [Tính Câu][Adjective Clause] bổ nghĩa cho [Danh Khối][Noun Block] "automated systems" nhằm xác định rõ tính năng của hệ thống.</li>
 			
@@ -528,7 +528,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 			
 					<ul className="list-square">
 				
-						<li className="list-none">Tầng 1: [due to market fluctuations {'{which affected production}'}] - [Tầng Phức Giới Cụm][Tiered Complex Prepositional Phrase] bắt đầu bằng tổ hợp phức hợp "due to".</li>
+						<li className="list-none">Tầng 1: [due to market fluctuations {'{which affected production}'}] - [Tầng Phức Giới Cụm][Tiered Complex Prepositional Phrase] bắt đầu bằng [Phức Giới Cơ][Complex Prepositional Base] "due to" kết hợp tổ hợp phức hợp.</li>
 
 						<li className="list-none">Tầng 2: {'{which affected production}'} - [Liên Câu][Conjunctional Clause] tích hợp bổ trợ tầng sâu.</li>
 				
@@ -621,7 +621,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 					<li>The policy [which is effective] will be applied.</li>
 					<li className="margin-bottom-20 list-none">Chính sách [cái mà hiệu quả] sẽ được áp dụng.</li>
 			
-					<li className="list-none">Hình thái: [which is effective] - [Liên Câu][Conjunctional Clause] bắt đầu bằng [Liên Cơ][Conjunctional Base] "which" kết hợp [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "is" và [Diện Tính Cơ][Modified Adjective Base] "effective".</li>
+					<li className="list-none">Hình thái: [which is effective] - [Liên Câu][Conjunctional Clause] mở đầu bằng [Liên Cơ][Conjunctional Base] "which" kết hợp [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "is" và [Diện Tính Cơ][Modified Adjective Base] "effective".</li>
 			
 					<li className="list-none">Chức năng: [which is effective] - [Tính Câu][Adjective Clause] vạch rõ bản chất định danh cho đối tượng [Danh Cơ][Noun Base].</li>
 			
