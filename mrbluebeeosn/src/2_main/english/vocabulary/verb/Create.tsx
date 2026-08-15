@@ -18,7 +18,7 @@ export default function Create(): React.JSX.Element {
       <h4><HashLink smooth to="/vocabulary#verbs-terms"><mark className="highlight-tertiary-padding-4-8">VERBs</mark></HashLink></h4>
       
             
-      <h1 className="margin-y-50 text-center">[CREATE]</h1>
+      <h1 className="margin-y-50 text-center"></h1>
 
       {/* This is the content of Vocabulary Term. */}
 
@@ -28,18 +28,18 @@ export default function Create(): React.JSX.Element {
 
         <div>
 
-          <p className="margin-bottom-20">[create] is a [Root Verb Base] that means to cause something to exist, or to make something new.</p>
+          <p className="margin-bottom-20">[create] is a [Root Verb Base] that means to bring something into existence, or to cause something to happen.</p>
 
-          <p>[create] là một [Rễ Động Cơ][Root Verb Base] có nghĩa là tạo ra, sáng tạo, hoặc gây ra một điều gì đó mới.</p>
+          <p>[create] là một [Rễ Động Cơ][Root Verb Base] có nghĩa là tạo ra, sáng tạo, hoặc làm cho một điều gì đó xuất hiện.</p>
 
-          <p className="margin-top-20">Phát âm: create [creATE][cre-ATE] /kriˈeɪt/</p>
+          <p className="margin-top-20">Phát âm: create [creATE][cre-ATE] /kriːˈeɪt/</p>
 
             <ul className="list-square">
           
-              <li>The team should [create] a new software program.</li>
-              <li className="margin-bottom-20 list-none">Đội ngũ nên [tạo ra] một chương trình phần mềm mới.</li>
+              <li>The team should [create] a new marketing strategy immediately.</li>
+              <li className="margin-bottom-20 list-none">Đội ngũ nên [tạo ra] một chiến lược tiếp thị mới ngay lập tức.</li>
 
-              <li className="list-none">Hình thái: [create] - [Thuần Động Cơ][Bare Verb Base] hình thành từ khối [Rễ Động Cơ][Root Verb Base] nguyên bản "create" đứng sau chịu tác động từ [Ý-Thái Động Cơ][Soft-Modal Verb Base] "should" để thực thi hành động hướng tới đối tượng tiếp nhận trực tiếp "a new software program".</li>
+              <li className="list-none">Hình thái: [create] - [Thuần Động Cơ][Bare Verb Base] hình thành từ khối [Rễ Động Cơ][Root Verb Base] nguyên bản "create" đứng sau chịu tác động từ [Ý-Thái Động Cơ][Soft-Modal Verb Base] "should" để thực thi hành động hướng tới đối tượng tiếp nhận trực tiếp "a new marketing strategy".</li>
           
             </ul>
 
@@ -69,8 +69,8 @@ export default function Create(): React.JSX.Element {
           <li value="1">[<strong>Rễ Động Cơ</strong>][<strong>Root Verb Base</strong>]: create</li>
           <li className="margin-bottom-20 list-none">Hành động ở dạng [Rễ Động Cơ][Root Verb Base] nguyên bản chưa qua xử lý gộp hay biến hóa cấu trúc hình thái vật lý.</li>
       
-          <li value="2">[<strong>Hạt Động Cơ</strong>][<strong>Particle Verb Base</strong>]: to, out, in, with, back</li>
-          <li className="margin-bottom-20 list-none">[Hạt] to đơn lẻ đóng vai trò mã định vị độc lập làm điểm tựa khởi động, đặt nền móng trực tiếp trước hành động để kích hoạt trạng thái nguyên bản. Các [Hạt] như out, in, with, back đơn lẻ đứng sau hành động để mở rộng hướng di chuyển, phạm vi tác động, cường độ hoặc trạng thái tiếp diễn/kết thúc của hạt nhân vận hành đó.</li>
+          <li value="2">[<strong>Hạt Động Cơ</strong>][<strong>Particle Verb Base</strong>]: to, out, in, up, back</li>
+          <li className="margin-bottom-20 list-none">[Hạt] to đơn lẻ đóng vai trò mã định vị độc lập làm điểm tựa khởi động, đặt nền móng trực tiếp trước hành động để kích hoạt trạng thái nguyên bản hoặc định hướng tác động đến đối tượng. Các [Hạt] như out, in, up, back đơn lẻ đứng sau hành động để mở rộng hướng di chuyển, phạm vi tác động, cường độ hoặc trạng thái tiếp diễn/kết thúc của hạt nhân vận hành đó.</li>
 
           <li value="3">[<strong>Thời Động Cơ</strong>][<strong>Tense Verb Base</strong>]: does, did, is, has, was, am, are</li>
           <li className="margin-bottom-20 list-none">Hành động đơn lẻ xuất hiện để mang năng lượng [Thời] gian / [Thời] trong câu.</li>
@@ -81,7 +81,7 @@ export default function Create(): React.JSX.Element {
           <li value="5">[<strong>Áp-Thái Động Cơ</strong>][<strong>Assertive-Modal Verb Base</strong>]: will, shall, can, must, may</li>
           <li className="margin-bottom-20 list-none">Hành động chỉ [Thái] độ mang tính trực diện, [Áp] đặt thực tế xuống, không chừa lối thoát cho người nghe. Khối phức đặc biệt "have to" được quét như một [Phức Áp-Thái Động Cơ][Complex Assertive-Modal Verb Base] thống nhất.</li>
 
-          <li value="6">[<strong>Thuần Động Cơ</strong>][<strong>Bare Verb Base</strong>]: create</li>
+          <li value="6">[<strong>Thuần Động Cơ</strong>][<strong>Bare Verb Base</strong>]: </li>
           <li className="margin-bottom-20 list-none">Hành động [Thuần] khiết đứng tự do một mình, hoàn toàn giải phóng và không có "to" đi kèm, thường đứng ngay sau:</li>
 
           <li className="list-none">[Hạt Động Cơ][Particle Verb Base]: to</li>
@@ -91,7 +91,7 @@ export default function Create(): React.JSX.Element {
           <li className="list-none">Nhóm Động Cơ Hỗ Trợ / Tương Tác: help, get (khi ở dạng đặc biệt)</li>
           <li className="margin-bottom-20 list-none">Nhóm Động Cơ Tri Giác / Cảm Nhận: see, hear, watch, feel, notice, observe, smell</li>
       
-          <li value="7">[<strong>Hạt Thuần Động Cơ</strong>][<strong>Particle Bare Verb Base</strong>]: to create</li>
+          <li value="7">[<strong>Hạt Thuần Động Cơ</strong>][<strong>Particle Bare Verb Base</strong>]: </li>
           <li className="margin-bottom-20 list-none">Sự tích hợp thẳng hàng giữa điểm tựa khởi động và cấu trúc hành động [Thuần] khiết đứng độc lập phía sau.</li>
 
           <li value="8">[<strong>Ý-Thái Thuần Động Cơ</strong>][<strong>Soft-Modal Bare Verb Base</strong>]: would create, could create, should create</li>
@@ -103,7 +103,7 @@ export default function Create(): React.JSX.Element {
           <li value="10">[<strong>Thời Thuần Động Cơ</strong>][<strong>Tense Bare Verb Base</strong>]: did create, does create</li>
           <li className="margin-bottom-20 list-none">Trạng thái [Thời] gian và hành động [Thuần] khiết song hành, được tách riêng biệt bằng một khoảng trắng trong câu.</li>
 
-          <li value="11">[<strong>Thời-Thuần Động Cơ</strong>][<strong>Tense-Bare Verb Base</strong>]: created, creates</li>
+          <li value="11">[<strong>Thời-Thuần Động Cơ</strong>][<strong>Tense-Bare Verb Base</strong>]: created, creates, is</li>
           <li className="margin-bottom-20 list-none">Trạng thái [Thời] (Quá khứ/Hiện tại) và hành động [Thuần] khiết hòa tan, gộp chung hoàn toàn vào trong cùng một chữ đơn duy nhất.</li>
       
           <li value="12">[<strong>Tiếp Động Cơ</strong>][<strong>Progressive Verb Base</strong>]: creating</li>
@@ -130,54 +130,6 @@ export default function Create(): React.JSX.Element {
       <p className="text-indent-whole"><strong>QUY TẮC CỐT LÕI</strong>:</p>
 
       <p className="text-indent-whole">Khi bất kỳ họ [Cơ][Base] nào thuộc hệ thống 16 mục trên kéo theo thành phần bổ trợ phía sau (như [Danh Nhận][Noun Object], [Trạng Cơ][Adverb Base], [Trạng Cụm][Adverb Phrase], hoặc [Trạng Câu][Adverb Clause]), toàn bộ cấu trúc đó sẽ ngay lập tức được dán nhãn và nâng cấp thành dạng [Cụm][Phrase] tương ứng của chính nó.</p>
-
-
-      
-      <h4 className="margin-y-40">PHÂN NHÓM VÀ SƠ ĐỒ PHỐI HỢP MÃ NGUỒN [CREATE]</h4>
-          
-      <p className="margin-top-20 text-indent-whole"><strong>Nhóm 1</strong>: [<strong>Thời Động Cơ</strong>][<strong>Tense Verb Base</strong>]</p>
-
-        <ul className="list-square">
-      
-          <li>be creating → [Thời] be (am/is/are, was/were) + [Tiếp Động Cơ] creating</li>
-
-          <li>have been creating → [Thời + Hoàn] have/has/had + been + [Tiếp Động Cơ] creating</li>
-
-          <li>have created → [Thời + Hoàn] have/has/had + created</li>
-
-          <li>creates, created → [Thời-Thuần Động Cơ] Tích hợp</li>
-      
-        </ul>
-      
-      
-      <p className="margin-top-20 text-indent-whole"><strong>Nhóm 2</strong>: [<strong>Thuần Động Cơ</strong>][<strong>Bare Verb Base</strong>]</p>
-
-        <ul className="list-square">
-      
-          <li>to create → [Hạt] to + [Thuần Động Cơ] create</li>
-          <li>did create → [Thời] did (Nhấn mạnh) + [Thuần Động Cơ] create</li>
-      
-        </ul>
-      
-
-      <p className="margin-top-20 text-indent-whole"><strong>Nhóm 3</strong>: [<strong>Ý-Thái Thuần Động Cơ</strong>][<strong>Soft-Modal Bare Verb Base</strong>]</p>
-
-        <ul className="list-square">
-      
-          <li>should create → [Ý-Thái Động Cơ] should (gợi ý) + [Thuần Động Cơ] create</li>
-          <li>could create → [Ý-Thái Động Cơ] could (khả năng nhẹ) + [Thuần Động Cơ] create</li>
-      
-        </ul>
-      
-
-      <p className="margin-top-20 text-indent-whole"><strong>Nhóm 4</strong>: [<strong>Áp-Thái Thuần Động Cơ</strong>][<strong>Assertive-Modal Bare Verb Base</strong>]</p>
-
-        <ul className="list-square">
-      
-          <li>will create → [Áp-Thái Động Cơ] will (cam kết) + [Thuần Động Cơ] create</li>
-          <li>must create → [Áp-Thái Động Cơ] must (ép buộc) + [Thuần Động Cơ] create</li>
-      
-        </ul>
       
 
 
@@ -190,12 +142,12 @@ export default function Create(): React.JSX.Element {
           
       <p className="margin-top-20 text-indent-whole"><strong>1.1</strong> <strong>Hình thành chức năng</strong> [<strong>Danh Cơ</strong>][<strong>Noun Base</strong>]</p>
 
-      <p className="margin-top-20 text-indent-whole">Ví dụ 1: creation [creAtion][cre-A-tion] /kriˈeɪʃn/</p>
+      <p className="margin-top-20 text-indent-whole">Ví dụ 1: creation [creAtion: cre-A-tion] /kriːˈeɪʃn/</p>
       
         <ul className="list-square">
       
-          <li>The rapid [creation] of new digital assets impressed the investors.</li>
-          <li className="margin-bottom-20 list-none">Sự [tạo ra] nhanh chóng các tài sản kỹ thuật số mới đã làm ấn tượng các nhà đầu tư.</li>
+          <li>The artistic [creation] from the local designer impressed the audience.</li>
+          <li className="margin-bottom-20 list-none">Tác phẩm [sáng tạo] từ nhà thiết kế địa phương đã làm ấn tượng khán giả.</li>
       
           <li className="list-none">Hình thái: [creation] - [Diện Danh Cơ][Modified Noun Base] hình thành từ khối [Rễ Động Cơ][Root Verb Base] nguyên bản "create" biến đổi cấu trúc đuôi "-tion" để thay đổi diện mạo bên ngoài thành một khối cấp độ [Cơ][Base] có khả năng định danh thực thể độc lập.</li>
       
@@ -206,32 +158,32 @@ export default function Create(): React.JSX.Element {
       
       <p className="margin-top-20 text-indent-whole"><strong>1.2</strong> <strong>Hình thành chức năng</strong> [<strong>Tính Cơ</strong>][<strong>Adjective Base</strong>]</p>
 
-      <p className="margin-top-20 text-indent-whole">Ví dụ 2: creative [creAtive][cre-A-tive] /kriˈeɪtɪv/</p>
+      <p className="margin-top-20 text-indent-whole">Ví dụ 2: creative [creAtive][cre-A-tive] /kriːˈeɪtɪv/</p>
       
         <ul className="list-square">
       
-          <li>Every marketing campaign requires a [creative] approach.</li>
-          <li className="margin-bottom-20 list-none">Mỗi chiến dịch tiếp thị đều yêu cầu một phương pháp tiếp cận [sáng tạo].</li>
+          <li>Every product design department requires a [creative] team.</li>
+          <li className="margin-bottom-20 list-none">Mỗi bộ phận thiết kế sản phẩm đều yêu cầu một đội ngũ [có tính sáng tạo].</li>
       
           <li className="list-none">Hình thái: [creative] - [Diện Tính Cơ][Modified Adjective Base] hình thành từ khối [Rễ Động Cơ][Root Verb Base] nguyên bản "create" kết hợp biến đổi đuôi và hậu tố "-ive" để thay đổi diện mạo bên ngoài thành một khối cấp độ [Cơ][Base] có khả năng mô tả tính chất đặc điểm.</li>
       
-          <li className="list-none">Chức năng: [creative] - [Tính Cơ][Adjective Base] kích hoạt bộ quét đặt ngay trước đối tượng "approach" để hiển thị đặc điểm của đối tượng đó.</li>
+          <li className="list-none">Chức năng: [creative] - [Tính Cơ][Adjective Base] kích hoạt bộ quét đặt ngay trước đối tượng "team" để hiển thị đặc điểm của đối tượng đó.</li>
       
         </ul>
       
       
       <p className="margin-top-20 text-indent-whole"><strong>1.3</strong> <strong>Hình thành chức năng</strong> [<strong>Trạng Cơ</strong>][<strong>Adverb Base</strong>]</p>
 
-      <p className="margin-top-20 text-indent-whole">Ví dụ 3: creatively [creAtively][cre-A-tive-ly] /kriˈeɪtɪvli/</p>
+      <p className="margin-top-20 text-indent-whole">Ví dụ 3: creatively [creAtively][cre-A-tive-ly] /kriːˈeɪtɪvli/</p>
       
         <ul className="list-square">
       
-          <li>The designer solved the layout problem [creatively] during the meeting.</li>
-          <li className="margin-bottom-20 list-none">Nhà thiết kế đã giải quyết vấn đề bố cục [một cách sáng tạo] trong cuộc họp.</li>
+          <li>The artist solved the problem [creatively] during the project.</li>
+          <li className="margin-bottom-20 list-none">Nghệ sĩ đã giải quyết vấn đề [một cách sáng tạo] trong suốt dự án.</li>
       
-          <li className="list-none">Hình thái: [creatively] - [Diện Trạng Cơ][Modified Adverb Base] hình thành từ khối [Rễ Động Cơ][Root Verb Base] nguyên bản "create" qua biến thể tính từ và thêm hậu tố "-ly" để thay đổi diện mạo bên ngoài thành một khối cấp độ [Cơ][Base] có khả năng bổ trợ bối cảnh phương thức.</li>
+          <li className="list-none">Hình thái: [creatively] - [Diện Trạng Cơ][Modified Adverb Base] hình thành từ khối [Rễ Động Cơ][Root Verb Base] nguyên bản "create" qua biến thể mô tả đặc điểm và thêm hậu tố "-ly" để thay đổi diện mạo bên ngoài thành một khối cấp độ [Cơ][Base] có khả năng bổ trợ bối cảnh phương thức.</li>
       
-          <li className="list-none">Chức năng: [creatively] - [Trạng Cơ][Adverb Base] làm thành phần bổ nghĩa đứng sau hành động [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "solved" để xác định cách thức diễn ra.</li>
+          <li className="list-none">Chức năng: [creatively] - [Trạng Cơ][Adverb Base] làm thành phần bổ nghĩa cho hành động [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "solved" để xác định cách thức diễn ra.</li>
       
         </ul>
 
@@ -246,12 +198,12 @@ export default function Create(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>[Creating automated workflows for clients] requires technical expertise.</li>
-          <li className="margin-bottom-20 list-none">[Việc tạo ra các quy trình làm việc tự động cho khách hàng] đòi hỏi chuyên môn kỹ thuật.</li>
+          <li>[Creating modern digital solutions] requires deep technical knowledge.</li>
+          <li className="margin-bottom-20 list-none">[Việc tạo ra các giải pháp kỹ thuật số hiện đại] đòi hỏi kiến thức kỹ thuật sâu rộng.</li>
       
-          <li className="list-none">Hình thái: [Creating automated workflows for clients] - [Tiếp Động Cụm][Progressive Verb Phrase] phát triển từ [Tiếp Động Cơ][Progressive Verb Base] "creating" tích hợp thêm vùng dữ liệu mở rộng phía sau.</li>
+          <li className="list-none">Hình thái: [Creating modern digital solutions] - [Tiếp Động Cụm][Progressive Verb Phrase] phát triển từ [Tiếp Động Cơ][Progressive Verb Base] "creating" tích hợp thêm vùng dữ liệu mở rộng phía sau.</li>
       
-          <li className="list-none">Chức năng: [Creating automated workflows for clients] - [Danh Cụm][Noun Phrase] đóng vai trò làm [Danh Chủ][Noun Subject] đứng trước [Thời-Thuần Động Cụm][Tense-Bare Verb Phrase] "requires technical expertise" để quản lý một đầu việc lớn ở đầu câu.</li>
+          <li className="list-none">Chức năng: [Creating modern digital solutions] - [Danh Cụm][Noun Phrase] đóng vai trò làm [Danh Chủ][Noun Subject] đứng trước hành động [Thời-Thuần Động Cụm][Tense-Bare Verb Phrase] "requires deep technical knowledge" để quản lý một đầu việc lớn ở đầu câu.</li>
       
         </ul>
 
@@ -263,63 +215,112 @@ export default function Create(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>The development team prioritized [creating interactive user interfaces].</li>
-          <li className="margin-bottom-20 list-none">Đội ngũ phát triển đã ưu tiên [việc tạo ra các giao diện người dùng tương tác].</li>
+          <li>The startup team prioritized [creating engaging user content].</li>
+          <li className="margin-bottom-20 list-none">Đội ngũ khởi nghiệp đã ưu tiên [việc tạo ra nội dung thu hút người dùng].</li>
       
-          <li className="list-none">Hình thái: [creating interactive user interfaces] - [Tiếp Động Cụm][Progressive Verb Phrase] hình thành từ [Tiếp Động Cơ][Progressive Verb Base] "creating" tích hợp thêm vùng dữ liệu mở rộng phía sau.</li>
+          <li className="list-none">Hình thái: [creating engaging user content] - [Tiếp Động Cụm][Progressive Verb Phrase] hình thành từ [Tiếp Động Cơ][Progressive Verb Base] "creating" tích hợp thêm vùng dữ liệu mở rộng phía sau.</li>
       
-          <li className="list-none">Chức năng: [creating interactive user interfaces] - [Danh Cụm][Noun Phrase] đóng vai trò làm [Danh Nhận][Noun Object] tích hợp chuỗi dữ liệu đầu việc đứng ngay sau cặp phối hợp [Danh Chủ][Noun Subject] và [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "prioritized".</li>
+          <li className="list-none">Chức năng: [creating engaging user content] - [Danh Cụm][Noun Phrase] đóng vai trò làm [Danh Nhận][Noun Object] tiếp nhận trực tiếp mục tiêu của hành động [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "prioritized".</li>
       
         </ul>
 
+      
+      <p className="margin-top-20 text-indent-whole">[<strong>Danh Cụm</strong>][<strong>Noun Phrase</strong>] <strong>cấu tạo từ</strong> [<strong>Hạt Thuần Động Cụm</strong>][<strong>Particle Bare Verb Phrase</strong>] <strong>làm</strong> [<strong>Danh Chủ</strong>][<strong>Noun Subject</strong>]</p>
+
+      <p className="margin-top-20 text-indent-whole">Ví dụ 4c:</p>
+      
+        <ul className="list-square">
+      
+          <li>[To create sustainable energy systems] is the foundation's main goal.</li>
+          <li className="margin-bottom-20 list-none">[Việc tạo ra các hệ thống năng lượng bền vững] là mục tiêu chính của quỹ.</li>
+      
+          <li className="list-none">Hình thái: [To create sustainable energy systems] - [Hạt Thuần Động Cụm][Particle Bare Verb Phrase] phát triển từ cụm [Hạt Thuần Động Cơ][Particle Bare Verb Base] "to create" tích hợp thêm vùng dữ liệu mở rộng phía sau.</li>
+      
+          <li className="list-none">Chức năng: [To create sustainable energy systems] - [Danh Cụm][Noun Phrase] đóng vai trò làm [Danh Chủ][Noun Subject] đứng trước hành động [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "is" để định danh đầu việc làm chủ thể đầu câu.</li>
+      
+        </ul>
+
+  
+      <p className="margin-top-20 text-indent-whole">[<strong>Danh Cụm</strong>][<strong>Noun Phrase</strong>] <strong>cấu tạo từ</strong> [<strong>Hạt Thuần Động Cụm</strong>][<strong>Particle Bare Verb Phrase</strong>] <strong>làm</strong> [<strong>Danh Nhận</strong>][<strong>Noun Object</strong>]</p>
+
+      <p className="margin-top-20 text-indent-whole">Ví dụ 4d:</p>
+      
+        <ul className="list-square">
+      
+          <li>The company aims [to create innovative products for consumers].</li>
+          <li className="margin-bottom-20 list-none">Công ty hướng tới [việc tạo ra các sản phẩm đổi mới cho người tiêu dùng].</li>
+      
+          <li className="list-none">Hình thái: [to create innovative products for consumers] - [Hạt Thuần Động Cụm][Particle Bare Verb Phrase] phát triển từ cụm [Hạt Thuần Động Cơ][Particle Bare Verb Base] "to create" tích hợp thêm vùng dữ liệu mở rộng phía sau.</li>
+      
+          <li className="list-none">Chức năng: [to create innovative products for consumers] - [Danh Cụm][Noun Phrase] đóng vai trò làm [Danh Nhận][Noun Object] tiếp nhận trực tiếp mục tiêu tác động cho hành động [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "aims".</li>
+      
+        </ul>
+      
+
+      <p className="margin-top-20 text-indent-whole">[<strong>Danh Cụm</strong>][<strong>Noun Phrase</strong>] <strong>cấu tạo từ</strong> [<strong>Hạt Thuần Động Cụm</strong>][<strong>Particle Bare Verb Phrase</strong>] <strong>làm</strong> [<strong>Danh Chủ</strong>][<strong>Noun Subject</strong>] <strong>bổ nghĩa</strong> [<strong>Giữ Chủ</strong>][<strong>Placeholder Subject</strong>]</p>
+
+      <p className="margin-top-20 text-indent-whole">Ví dụ 4e:</p>
+      
+        <ul className="list-square">
+      
+          <li>It is essential [to create strong security protocols].</li>
+          <li className="margin-bottom-20 list-none">Việc [tạo ra các giao thức bảo mật mạnh mẽ] là điều thiết yếu.</li>
+      
+          <li className="list-none">Hình thái: [to create strong security protocols] - [Hạt Thuần Động Cụm][Particle Bare Verb Phrase] phát triển từ cụm [Hạt Thuần Động Cơ][Particle Bare Verb Base] "to create" tích hợp thêm vùng dữ liệu mở rộng phía sau.</li>
+      
+          <li className="list-none">Chức năng: [to create strong security protocols] - [Danh Cụm][Noun Phrase] đảm nhận vai trò làm [Danh Chủ][Noun Subject] bổ nghĩa cho [Giữ Chủ][Placeholder Subject] "It" trong cấu trúc [Thời-Thuần Động Cụm][Tense-Bare Verb Phrase] "is essential".</li>
+      
+        </ul>
 
       
       <p className="margin-top-20 text-indent-whole"><strong>2.2</strong> <strong>Hình thành chức năng</strong> [<strong>Tính Cụm</strong>][<strong>Adjective Phrase</strong>]</p>
 
-      <p className="margin-top-20 text-indent-whole">[<strong>Tính Cụm</strong>][<strong>Adjective Phrase</strong>] <strong>cấu tạo từ</strong> [<strong>Hạt Thuần Động Cụm</strong>][<strong>Particle Bare Verb Phrase</strong>] <strong>sắp xảy ra</strong>, <strong>chủ động</strong>:</p>
+      
+      <p className="margin-top-20 text-indent-whole">[<strong>Tính Cụm</strong>][<strong>Adjective Phrase</strong>] <strong>cấu tạo từ</strong> [<strong>Tiếp Động Cụm</strong>][<strong>Progressive Verb Phrase</strong>] <strong>đang diễn ra</strong>, <strong>chủ động</strong>:</p>
 
       <p className="margin-top-20 text-indent-whole">Ví dụ 5a:</p>
       
         <ul className="list-square">
       
-          <li>The designer [to create the new brand identity] has been hired.</li>
-          <li className="margin-bottom-20 list-none">Nhà thiết kế [sắp sửa tạo ra nhận diện thương hiệu mới] đã được thuê.</li>
+          <li>The engineer [creating the core software] found an efficient method.</li>
+          <li className="margin-bottom-20 list-none">Kỹ sư [đang tạo ra phần mềm cốt lõi] đã tìm ra một phương pháp hiệu quả.</li>
       
-          <li className="list-none">Hình thái: [to create the new brand identity] - [Hạt Thuần Động Cụm][Particle Bare Verb Phrase] phát triển từ cụm [Hạt Thuần Động Cơ][Particle Bare Verb Base] "to create" tích hợp thêm vùng dữ liệu mở rộng phía sau.</li>
+          <li className="list-none">Hình thái: [creating the core software] - [Tiếp Động Cụm][Progressive Verb Phrase] phát triển từ [Tiếp Động Cơ][Progressive Verb Base] "creating" tích hợp thêm vùng dữ liệu mở rộng biểu thị tính chủ động đang xảy ra.</li>
       
-          <li className="list-none">Chức năng: [to create the new brand identity] - [Tính Cụm][Adjective Phrase] đặt ngay sau đối tượng "designer" để quét và hiển thị đặc điểm hành động sắp xảy ra mang tính chủ động của đối tượng đó.</li>
+          <li className="list-none">Chức năng: [creating the core software] - [Tính Cụm][Adjective Phrase] đặt ngay sau đối tượng "engineer" để hiển thị đặc điểm và bổ nghĩa cho đối tượng đó.</li>
       
         </ul>
       
-      
-      <p className="margin-top-20 text-indent-whole">[<strong>Tính Cụm</strong>][<strong>Adjective Phrase</strong>] <strong>cấu tạo từ</strong> [<strong>Hạt Thuần Hoàn Động Cụm</strong>][<strong>Particle Bare Perfect Verb Phrase</strong>] <strong>sắp xảy ra</strong>, <strong>bị động</strong>:</p>
+    
+
+      <p className="margin-top-20 text-indent-whole">[<strong>Tính Cụm</strong>][<strong>Adjective Phrase</strong>] <strong>cấu tạo từ</strong> [<strong>Hạt Thuần Động Cụm</strong>][<strong>Particle Bare Verb Phrase</strong>] <strong>sắp xảy ra</strong>, <strong>chủ động</strong>:</p>
 
       <p className="margin-top-20 text-indent-whole">Ví dụ 5b:</p>
       
         <ul className="list-square">
       
-          <li>The artwork [to be created by the artist] will be displayed in the gallery.</li>
-          <li className="margin-bottom-20 list-none">Tác phẩm nghệ thuật [sắp sửa được tạo ra bởi nghệ sĩ] sẽ được trưng bày trong phòng triển lãm.</li>
+          <li>The architect [to create the building blueprints] has been appointed.</li>
+          <li className="margin-bottom-20 list-none">Kiến trúc sư [sắp sửa tạo ra bản thiết kế tòa nhà] đã được bổ nhiệm.</li>
       
-          <li className="list-none">Hình thái: [to be created by the artist] - [Hạt Thuần Hoàn Động Cụm][Particle Bare Perfect Verb Phrase] bắt đầu bằng [Hạt Động Cơ][Particle Verb Base] "to" kéo theo vùng bổ trợ phía sau chứa [Thuần Động Cơ][Bare Verb Base] "be" và [Hoàn Động Cơ][Perfect Verb Base] "created" để biểu thị trạng thái bị động tương lai.</li>
+          <li className="list-none">Hình thái: [to create the building blueprints] - [Hạt Thuần Động Cụm][Particle Bare Verb Phrase] phát triển từ cụm [Hạt Thuần Động Cơ][Particle Bare Verb Base] "to create" tích hợp thêm vùng dữ liệu mở rộng phía sau.</li>
       
-          <li className="list-none">Chức năng: [to be created by the artist] - [Tính Cụm][Adjective Phrase] kích hoạt bộ quét đặt ngay sau đối tượng "artwork" để mô tả trạng thái sắp sửa được tác động.</li>
+          <li className="list-none">Chức năng: [to create the building blueprints] - [Tính Cụm][Adjective Phrase] đặt ngay sau đối tượng "architect" để quét và hiển thị đặc điểm sắp xảy ra mang tính chủ động của đối tượng đó.</li>
       
         </ul>
       
 
-      <p className="margin-top-20 text-indent-whole">[<strong>Tính Cụm</strong>][<strong>Adjective Phrase</strong>] <strong>cấu tạo từ</strong> [<strong>Tiếp Động Cụm</strong>][<strong>Progressive Verb Phrase</strong>] <strong>đang diễn ra</strong>, <strong>chủ động</strong>:</p>
+      <p className="margin-top-20 text-indent-whole">[<strong>Tính Cụm</strong>][<strong>Adjective Phrase</strong>] <strong>cấu tạo từ</strong> [<strong>Hạt Thuần Hoàn Động Cụm</strong>][<strong>Particle Bare Perfect Verb Phrase</strong>] <strong>sắp xảy ra</strong>, <strong>bị động</strong>:</p>
 
       <p className="margin-top-20 text-indent-whole">Ví dụ 5c:</p>
       
         <ul className="list-square">
       
-          <li>The programmer [creating the database structure] found a critical bug.</li>
-          <li className="margin-bottom-20 list-none">Lập trình viên [đang tạo ra cấu trúc cơ sở dữ liệu] đã phát hiện một lỗi nghiêm trọng.</li>
+          <li>The artwork [to be created by the master] will be exhibited tomorrow.</li>
+          <li className="margin-bottom-20 list-none">Tác phẩm nghệ thuật [sắp sửa được tạo ra bởi bậc thầy] sẽ được triển lãm vào ngày mai.</li>
       
-          <li className="list-none">Hình thái: [creating the database structure] - [Tiếp Động Cụm][Progressive Verb Phrase] phát triển từ [Tiếp Động Cơ][Progressive Verb Base] "creating" tích hợp thêm vùng dữ liệu mở rộng biểu thị tính chủ động đang xảy ra.</li>
+          <li className="list-none">Hình thái: [to be created by the master] - [Hạt Thuần Hoàn Động Cụm][Particle Bare Perfect Verb Phrase] bắt đầu bằng [Hạt Động Cơ][Particle Verb Base] "to" kéo theo vùng bổ trợ phía sau chứa [Thuần Động Cơ][Bare Verb Base] "be" và [Hoàn Động Cơ][Perfect Verb Base] "created" để biểu thị trạng thái bị động tương lai.</li>
       
-          <li className="list-none">Chức năng: [creating the database structure] - [Tính Cụm][Adjective Phrase] đặt ngay sau đối tượng "programmer" để hiển thị đặc điểm hành động chủ động của đối tượng đó.</li>
+          <li className="list-none">Chức năng: [to be created by the master] - [Tính Cụm][Adjective Phrase] kích hoạt bộ quét đặt ngay sau đối tượng "artwork" để mô tả trạng thái sắp sửa được tác động.</li>
       
         </ul>
       
@@ -330,12 +331,12 @@ export default function Create(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>The report [created by the research department] was presented yesterday.</li>
-          <li className="margin-bottom-20 list-none">Báo cáo [đã được tạo ra bởi bộ phận nghiên cứu] đã được thuyết trình ngày hôm qua.</li>
+          <li>The system [created by the tech team] was launched yesterday.</li>
+          <li className="margin-bottom-20 list-none">Hệ thống [đã được tạo ra bởi đội ngũ công nghệ] đã được ra mắt ngày hôm qua.</li>
       
-          <li className="list-none">Hình thái: [created by the research department] - [Hoàn Động Cụm][Perfect Verb Phrase] phát triển từ [Hoàn Động Cơ][Perfect Verb Base] "created" kết hợp mở rộng ở dạng bị động thuộc trục thời quá khứ.</li>
+          <li className="list-none">Hình thái: [created by the tech team] - [Hoàn Động Cụm][Perfect Verb Phrase] phát triển từ [Hoàn Động Cơ][Perfect Verb Base] "created" kết hợp mở rộng ở dạng bị động thuộc trục thời quá khứ.</li>
       
-          <li className="list-none">Chức năng: [created by the research department] - [Tính Cụm][Adjective Phrase] đặt ngay sau đối tượng "report" để mô tả đặc điểm trạng thái bị động hoàn thành.</li>
+          <li className="list-none">Chức năng: [created by the tech team] - [Tính Cụm][Adjective Phrase] đặt ngay sau đối tượng "system" để mô tả đặc điểm trạng thái bị động hoàn thành cho đối tượng này.</li>
       
         </ul>
       
@@ -346,78 +347,79 @@ export default function Create(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>They need a team [creative in finding solutions].</li>
-          <li className="margin-bottom-20 list-none">Họ cần một đội ngũ [sáng tạo trong việc tìm kiếm các giải pháp].</li>
+          <li>They need a strategy [creative in its execution].</li>
+          <li className="margin-bottom-20 list-none">Họ cần một chiến lược [sáng tạo trong cách thức thực thi].</li>
       
-          <li className="list-none">Hình thái: [creative in finding solutions] - [Diện Tính Cụm][Modified Adjective Phrase] hình thành từ khối [Rễ Động Cơ][Root Verb Base] nguyên bản "create" qua việc thêm hậu tố "-ive" và kết hợp mở rộng với một [Giới Cụm][Prepositional Phrase] phía sau.</li>
+          <li className="list-none">Hình thái: [creative in its execution] - [Diện Tính Cụm][Modified Adjective Phrase] hình thành từ khối [Rễ Động Cơ][Root Verb Base] nguyên bản "create" qua việc thêm hậu tố "-ive" và kết hợp mở rộng với một [Giới Cụm][Prepositional Phrase] phía sau.</li>
       
-          <li className="list-none">Chức năng: [creative in finding solutions] - [Tính Cụm][Adjective Phrase] đứng ngay sau danh từ "team" để bổ nghĩa, xác định đặc điểm và năng lực trực tiếp cho đối tượng đó.</li>
+          <li className="list-none">Chức năng: [creative in its execution] - [Tính Cụm][Adjective Phrase] đứng ngay sau [Danh Khối][Noun Block] "strategy" để bổ nghĩa, xác định đặc điểm và năng lực trực tiếp cho đối tượng đó.</li>
       
         </ul>
       
       
       <p className="margin-top-20 text-indent-whole"><strong>2.3</strong> <strong>Hình thành chức năng</strong> [<strong>Trạng Cụm</strong>][<strong>Adverb Phrase</strong>]</p>
 
-      <p className="margin-top-20 text-indent-whole">[<strong>Trạng Cụm</strong>][<strong>Adverb Phrase</strong>] <strong>cấu tạo từ</strong> [<strong>Hạt Thuần Động Cụm</strong>][<strong>Particle Bare Verb Phrase</strong>]:</p>
+
+      <p className="margin-top-20 text-indent-whole">[<strong>Trạng Cụm</strong>][<strong>Adverb Phrase</strong>] <strong>cấu tạo từ</strong> [<strong>Tiếp Động Cụm</strong>][<strong>Progressive Verb Phrase</strong>] <strong>có dấu phẩy</strong>:</p>
 
       <p className="margin-top-20 text-indent-whole">Ví dụ 6a:</p>
       
         <ul className="list-square">
       
-          <li>The engineer launched the tool [to create custom reports].</li>
-          <li className="margin-bottom-20 list-none">Kỹ sư đã khởi chạy công cụ [để tạo ra các báo cáo tùy chỉnh].</li>
+          <li>[Creating a new visual identity], the brand launched its campaign.</li>
+          <li className="margin-bottom-20 list-none">[Tạo ra một bộ nhận diện hình ảnh mới], thương hiệu đã ra mắt chiến dịch của mình.</li>
       
-          <li className="list-none">Hình thái: [to create custom reports] - [Hạt Thuần Động Cụm][Particle Bare Verb Phrase] phát triển từ cụm [Hạt Thuần Động Cơ][Particle Bare Verb Base] "to create" kết hợp mở rộng đứng cuối chuỗi thông tin.</li>
+          <li className="list-none">Hình thái: [Creating a new visual identity] - [Tiếp Động Cụm][Progressive Verb Phrase] đứng biệt lập ở đầu câu, ngăn cách bằng dấu phẩy, mang [Tiếp Động Cơ][Progressive Verb Base] kết hợp mở rộng do được rút gọn từ một hệ [Liên Câu][Conjunctional Clause] phụ thuộc có cùng thành phần lõi [Danh Chủ][Noun Subject].</li>
       
-          <li className="list-none">Chức năng: [to create custom reports] - [Trạng Cụm][Adverb Phrase] đảm nhận vai trò làm một khối bối cảnh mục đích đứng sau để bổ nghĩa cho hành động [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "launched".</li>
-      
-        </ul>
-
-      
-      <p className="margin-top-20 text-indent-whole">[<strong>Trạng Cụm</strong>][<strong>Adverb Phrase</strong>] <strong>cấu tạo từ</strong> [<strong>Hạt Thuần Động Cụm</strong>][<strong>Particle Bare Verb Phrase</strong>] <strong>có dấu phẩy</strong>:</p>
-
-      <p className="margin-top-20 text-indent-whole">Ví dụ 6b:</p>
-      
-        <ul className="list-square">
-      
-          <li>[To create a seamless user experience], the designers simplified the menu.</li>
-          <li className="margin-bottom-20 list-none">[Để tạo ra một trải nghiệm người dùng mượt mà], các nhà thiết kế đã đơn giản hóa menu.</li>
-      
-          <li className="list-none">Hình thái: [To create a seamless user experience] - [Hạt Thuần Động Cụm][Particle Bare Verb Phrase] phát triển từ cụm [Hạt Thuần Động Cơ][Particle Bare Verb Base] "to create" kết hợp mở rộng, được đảo lên đứng biệt lập ở đầu câu và ngăn cách bằng dấu phẩy.</li>
-      
-          <li className="list-none">Chức năng: [To create a seamless user experience], - [Trạng Cụm][Adverb Phrase] đảm nhận nhiệm vụ làm khối bối cảnh mục đích nhấn mạnh cho toàn bộ phần diện thông tin chính phía sau.</li>
+          <li className="list-none">Chức năng: [Creating a new visual identity] - [Trạng Cụm][Adverb Phrase] đóng vai trò làm một khối bối cảnh nguyên nhân/phương thức tổng thể, bổ nghĩa cho hành động [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "launched" và toàn bộ mệnh đề chính.</li>
       
         </ul>
 
 
       <p className="margin-top-20 text-indent-whole">[<strong>Trạng Cụm</strong>][<strong>Adverb Phrase</strong>] <strong>cấu tạo từ</strong> [<strong>Tiếp Động Cụm</strong>][<strong>Progressive Verb Phrase</strong>]:</p>
 
-      <p className="margin-top-20 text-indent-whole">Ví dụ 6c:</p>
+      <p className="margin-top-20 text-indent-whole">Ví dụ 6b:</p>
       
         <ul className="list-square">
       
-          <li>The company invested resources [creating advanced security protocols].</li>
-          <li className="margin-bottom-20 list-none">Công ty đã đầu tư các nguồn lực [vào việc tạo ra các giao thức bảo mật nâng cao].</li>
+          <li>The agency allocated resources [creating custom software tools].</li>
+          <li className="margin-bottom-20 list-none">Cơ quan đã phân bổ các nguồn lực [với mục đích tạo ra các công cụ phần mềm tùy chỉnh].</li>
       
-          <li className="list-none">Hình thái: [creating advanced security protocols] - [Tiếp Động Cụm][Progressive Verb Phrase] phát triển từ [Tiếp Động Cơ][Progressive Verb Base] "creating" kết hợp mở rộng đứng ở phần sau câu nhằm làm rõ tiến trình nội dung.</li>
+          <li className="list-none">Hình thái: [creating custom software tools] - [Tiếp Động Cụm][Progressive Verb Phrase] phát triển từ [Tiếp Động Cơ][Progressive Verb Base] "creating" kết hợp mở rộng đứng ở phần sau câu nhằm làm rõ tiến trình nội dung.</li>
       
-          <li className="list-none">Chức năng: [creating advanced security protocols] - [Trạng Cụm][Adverb Phrase] đóng vai trò làm khối bối cảnh cách thức đi kèm để bổ nghĩa trực tiếp cho hành động [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "invested" phía trước.</li>
+          <li className="list-none">Chức năng: [creating custom software tools] - [Trạng Cụm][Adverb Phrase] đóng vai trò làm khối bối cảnh cách thức, bổ nghĩa trực tiếp cho hành động [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "allocated".</li>
       
         </ul>
 
 
-      <p className="margin-top-20 text-indent-whole">[<strong>Trạng Cụm</strong>][<strong>Adverb Phrase</strong>] <strong>cấu tạo từ</strong> [<strong>Tiếp Động Cụm</strong>][<strong>Progressive Verb Phrase</strong>] <strong>có dấu phẩy</strong>:</p>
+      <p className="margin-top-20 text-indent-whole">[<strong>Trạng Cụm</strong>][<strong>Adverb Phrase</strong>] <strong>cấu tạo từ</strong> [<strong>Hạt Thuần Động Cụm</strong>][<strong>Particle Bare Verb Phrase</strong>] <strong>có dấu phẩy</strong>:</p>
+
+      <p className="margin-top-20 text-indent-whole">Ví dụ 6c:</p>
+      
+        <ul className="list-square">
+      
+          <li>[To create high-quality products], the team upgraded their machines.</li>
+          <li className="margin-bottom-20 list-none">[Để tạo ra các sản phẩm chất lượng cao], đội ngũ đã nâng cấp máy móc của họ.</li>
+      
+          <li className="list-none">Hình thái: [To create high-quality products] - [Hạt Thuần Động Cụm][Particle Bare Verb Phrase] phát triển từ cụm [Hạt Thuần Động Cơ][Particle Bare Verb Base] "to create" kết hợp mở rộng, được đảo lên đứng biệt lập ở đầu câu và ngăn cách bằng dấu phẩy.</li>
+      
+          <li className="list-none">Chức năng: [To create high-quality products] - [Trạng Cụm][Adverb Phrase] đảm nhận nhiệm vụ làm khối bối cảnh mục đích, bổ nghĩa cho hành động [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "upgraded" và toàn bộ diễn biến phía sau.</li>
+      
+        </ul>
+
+
+      <p className="margin-top-20 text-indent-whole">[<strong>Trạng Cụm</strong>][<strong>Adverb Phrase</strong>] <strong>cấu tạo từ</strong> [<strong>Hạt Thuần Động Cụm</strong>][<strong>Particle Bare Verb Phrase</strong>]:</p>
 
       <p className="margin-top-20 text-indent-whole">Ví dụ 6d:</p>
       
         <ul className="list-square">
       
-          <li>[Creating unique marketing strategies], the startup attracted global investors.</li>
-          <li className="margin-bottom-20 list-none">[Tạo ra các chiến lược tiếp thị độc đáo], công ty khởi nghiệp đã thu hút các nhà đầu tư toàn cầu.</li>
+          <li>The designer stayed late [to create the final prototype].</li>
+          <li className="margin-bottom-20 list-none">Nhà thiết kế đã ở lại muộn [để tạo ra mẫu nguyên mẫu cuối cùng].</li>
       
-          <li className="list-none">Hình thái: [Creating unique marketing strategies] - [Tiếp Động Cụm][Progressive Verb Phrase] đứng biệt lập ở đầu câu, ngăn cách bằng dấu phẩy, mang [Tiếp Động Cơ][Progressive Verb Base] kết hợp mở rộng do được rút gọn từ một hệ [Liên Câu][Conjunctional Base] trạng phụ thuộc có cùng thành phần lõi [Danh Chủ][Noun Subject].</li>
+          <li className="list-none">Hình thái: [to create the final prototype] - [Hạt Thuần Động Cụm][Particle Bare Verb Phrase] phát triển từ cụm [Hạt Thuần Động Cơ][Particle Bare Verb Base] "to create" kết hợp mở rộng đứng cuối chuỗi thông tin.</li>
       
-          <li className="list-none">Chức năng: [Creating unique marketing strategies] - [Trạng Cụm][Adverb Phrase] đóng vai trò làm một khối bối cảnh nguyên nhân/phương thức tổng thể để bổ nghĩa cho toàn bộ phần diện thông tin chính phía sau.</li>
+          <li className="list-none">Chức năng: [to create the final prototype] - [Trạng Cụm][Adverb Phrase] đảm nhận vai trò làm một khối bối cảnh mục đích, bổ nghĩa trực tiếp cho hành động [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "stayed".</li>
       
         </ul>
 
@@ -431,46 +433,46 @@ export default function Create(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>The innovation [in the creation of renewable energy systems] gained worldwide attention.</li>
-          <li className="margin-bottom-20 list-none">Sự đổi mới [trong việc tạo ra các hệ thống năng lượng tái tạo] đã thu hút sự chú ý trên toàn thế giới.</li>
+          <li>The delay [in the creation of the new portal] raised several concerns.</li>
+          <li className="margin-bottom-20 list-none">Sự chậm trễ [trong việc tạo ra cổng thông tin mới] đã dấy lên nhiều lo ngại.</li>
       
-          <li className="list-none">Hình thái: [in the creation of renewable energy systems] - [Giới Cụm][Prepositional Phrase] xuất hiện dưới dạng một vùng mã định vị không chứa hạt nhân hành động, bắt đầu bằng [Giới Cơ][Prepositional Base] "in".</li>
+          <li className="list-none">Hình thái: [in the creation of the new portal] - [Giới Cụm][Prepositional Phrase] xuất hiện dưới dạng một vùng mã định vị không chứa hạt nhân hành động, bắt đầu bằng [Giới Cơ][Prepositional Base] "in".</li>
       
-          <li className="list-none">Chức năng: [in the creation of renewable energy systems] - [Tính Cụm][Adjective Phrase] vận hành như một bộ quét đặt ngay phía sau đối tượng "innovation" để hiển thị và mô tả phạm vi thuộc về của đối tượng đó.</li>
+          <li className="list-none">Chức năng: [in the creation of the new portal] - [Tính Cụm][Adjective Phrase] vận hành như một bộ quét đặt ngay phía sau đối tượng "delay" để hiển thị và mô tả phạm vi thuộc về của đối tượng đó.</li>
       
         </ul>
       
       
       <p className="margin-top-20 text-indent-whole"><strong>3.2</strong> <strong>Hình thành chức năng</strong> [<strong>Trạng Cụm</strong>][<strong>Adverb Phrase</strong>]</p>
 
-      <p className="margin-top-20 text-indent-whole">[<strong>Trạng Cụm</strong>][<strong>Adverb Phrase</strong>] <strong>cấu tạo từ</strong> [<strong>Giới Cụm</strong>][<strong>Prepositional Phrase</strong>]:</p>
+      <p className="margin-top-20 text-indent-whole">[<strong>Trạng Cụm</strong>][<strong>Adverb Phrase</strong>] <strong>cấu tạo từ</strong> [<strong>Giới Cụm</strong>][<strong>Prepositional Phrase</strong>] (<strong>có dấu phẩy</strong>):</p>
 
       <p className="margin-top-20 text-indent-whole">Ví dụ 8a:</p>
       
         <ul className="list-square">
       
-          <li>The system shut down [for the creation of a system backup].</li>
-          <li className="margin-bottom-20 list-none">Hệ thống đã tắt [phục vụ cho việc tạo ra một bản sao lưu hệ thống].</li>
+          <li>[For the creation of better services], the firm investment increased.</li>
+          <li className="margin-bottom-20 list-none">[Nhằm phục vụ cho việc tạo ra các dịch vụ tốt hơn], khoản đầu tư của công ty đã tăng lên.</li>
       
-          <li className="list-none">Hình thái: [for the creation of a system backup] - [Giới Cụm][Prepositional Phrase] xuất hiện dưới dạng một vùng mã xác lập lý do / bối cảnh, bắt đầu bằng [Giới Cơ][Prepositional Base] "for".</li>
+          <li className="list-none">Hình thái: [For the creation of better services] - [Giới Cụm][Prepositional Phrase] bắt đầu bằng [Giới Cơ][Prepositional Base] "For" kéo theo vùng [Danh Nhận][Noun Object] phía sau, được đảo lên đứng biệt lập ở đầu câu và ngăn cách bằng dấu phẩy.</li>
       
-          <li className="list-none">Chức năng: [for the creation of a system backup] - [Trạng Cụm][Adverb Phrase] đảm nhận vai trò làm một khối bối cảnh mục đích / nguyên nhân đứng sau để xác định cơ sở cho hành động [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "shut down".</li>
+          <li className="list-none">Chức năng: [For the creation of better services] - [Trạng Cụm][Adverb Phrase] đảm nhận nhiệm vụ thiết lập khối bối cảnh nguyên nhân / phương tiện, bổ nghĩa cho hành động [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "increased".</li>
       
         </ul>
 
 
-      <p className="margin-top-20 text-indent-whole">[<strong>Trạng Cụm</strong>][<strong>Adverb Phrase</strong>] <strong>cấu tạo từ</strong> [<strong>Giới Cụm</strong>][<strong>Prepositional Phrase</strong>] (<strong>có dấu phẩy</strong>):</p>
+      <p className="margin-top-20 text-indent-whole">[<strong>Trạng Cụm</strong>][<strong>Adverb Phrase</strong>] <strong>cấu tạo từ</strong> [<strong>Giới Cụm</strong>][<strong>Prepositional Phrase</strong>]:</p>
 
       <p className="margin-top-20 text-indent-whole">Ví dụ 8b:</p>
       
         <ul className="list-square">
       
-          <li>[With the creation of new digital tools], the team improved productivity.</li>
-          <li className="margin-bottom-20 list-none">[Với sự tạo ra các công cụ kỹ thuật số mới], đội ngũ đã cải thiện năng suất.</li>
+          <li>The team gathered [for the creation of a new project plan].</li>
+          <li className="margin-bottom-20 list-none">Đội ngũ đã tập hợp [phục vụ cho việc tạo ra một kế hoạch dự án mới].</li>
       
-          <li className="list-none">Hình thái: [With the creation of new digital tools] - [Giới Cụm][Prepositional Phrase] bắt đầu bằng [Giới Cơ][Prepositional Base] "With" kéo theo vùng danh cụm phía sau, được đảo lên đứng biệt lập ở đầu câu và ngăn cách bằng dấu phẩy.</li>
+          <li className="list-none">Hình thái: [for the creation of a new project plan] - [Giới Cụm][Prepositional Phrase] xuất hiện dưới dạng một vùng mã xác lập lý do / bối cảnh, bắt đầu bằng [Giới Cơ][Prepositional Base] "for".</li>
       
-          <li className="list-none">Chức năng: [With the creation of new digital tools] - [Trạng Cụm][Adverb Phrase] đảm nhận nhiệm vụ thiết lập một khối bối cảnh nguyên nhân / phương tiện tổng thể để bổ nghĩa cho toàn bộ phần diện thông tin chính phía sau.</li>
+          <li className="list-none">Chức năng: [for the creation of a new project plan] - [Trạng Cụm][Adverb Phrase] đảm nhận vai trò làm khối bối cảnh mục đích / nguyên nhân, bổ nghĩa cho hành động [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "gathered".</li>
       
         </ul>
 
@@ -488,12 +490,12 @@ export default function Create(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>[How the software creates automated reports] determines its usefulness.</li>
-          <li className="margin-bottom-20 list-none">[Cách phần mềm tạo ra các báo cáo tự động] quyết định tính hữu ích của nó.</li>
+          <li>[How the artist creates unique sculptures] fascinates the audience.</li>
+          <li className="margin-bottom-20 list-none">[Cách người nghệ sĩ tạo ra các bức tượng điêu khắc độc đáo] cuốn hút khán giả.</li>
       
-          <li className="list-none">Hình thái: [How the software creates automated reports] - [Liên Câu][Conjunctional Base] chứa thành phần [Liên Cơ][Conjunctional Base] "How" ở đầu, mang [Danh Chủ][Noun Subject] riêng "the software" và cụm hành động phối hợp phía sau.</li>
+          <li className="list-none">Hình thái: [How the artist creates unique sculptures] - [Liên Câu][Conjunctional Clause] chứa thành phần [Liên Cơ][Conjunctional Base] "How" ở đầu, mang [Danh Chủ][Noun Subject] riêng "the artist" và cụm hành động phối hợp phía sau.</li>
       
-          <li className="list-none">Chức năng: [How the software creates automated reports] - [Danh Câu][Noun Clause] đóng vai trò làm [Danh Chủ][Noun Subject] quản lý khối thông tin quy trình đứng đầu câu để điều khiển [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "determines".</li>
+          <li className="list-none">Chức năng: [How the artist creates unique sculptures] - [Danh Câu][Noun Clause] đóng vai trò làm [Danh Chủ][Noun Subject] quản lý khối thông tin quy trình, điều khiển chính cho hành động [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "fascinates".</li>
       
         </ul>
 
@@ -505,12 +507,12 @@ export default function Create(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>The manager explained [how the system creates new user profiles].</li>
-          <li className="margin-bottom-20 list-none">Người quản lý đã giải thích [cách hệ thống tạo ra các hồ sơ người dùng mới].</li>
+          <li>The director explained [how the team creates effective advertisements].</li>
+          <li className="margin-bottom-20 list-none">Giám đốc đã giải thích [cách đội ngũ tạo ra các quảng cáo hiệu quả].</li>
       
-          <li className="list-none">Hình thái: [how the system creates new user profiles] - [Liên Câu][Conjunctional Base] chứa thành phần [Liên Cơ][Conjunctional Base] "how" ở đầu, có [Danh Chủ][Noun Subject] "the system" và cụm hành động phối hợp phía sau.</li>
+          <li className="list-none">Hình thái: [how the team creates effective advertisements] - [Liên Câu][Conjunctional Clause] chứa thành phần [Liên Cơ][Conjunctional Base] "how" ở đầu, có [Danh Chủ][Noun Subject] "the team" và cụm hành động phối hợp phía sau.</li>
       
-          <li className="list-none">Chức năng: [how the system creates new user profiles] - [Danh Câu][Noun Clause] trở thành [Danh Nhận][Noun Object] chứa dữ liệu mục tiêu chịu tác động từ hành động [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "explained".</li>
+          <li className="list-none">Chức năng: [how the team creates effective advertisements] - [Danh Câu][Noun Clause] trở thành [Danh Nhận][Noun Object] chứa dữ liệu mục tiêu tiếp nhận cho hành động [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "explained".</li>
       
         </ul>
       
@@ -521,12 +523,12 @@ export default function Create(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>The tool [which creates high-resolution images] was recently updated.</li>
-          <li className="margin-bottom-20 list-none">Công cụ [cái mà tạo ra các hình ảnh độ phân giải cao] gần đây đã được cập nhật.</li>
+          <li>The engine [which creates solar energy] was recently installed.</li>
+          <li className="margin-bottom-20 list-none">Động cơ [cái mà tạo ra năng lượng mặt trời] gần đây đã được lắp đặt.</li>
       
-          <li className="list-none">Hình thái: [which creates high-resolution images] - [Liên Câu][Conjunctional Base] chứa thành phần [Liên Cơ][Conjunctional Base] vật thể "which" ở đầu, mang hạt nhân hành động xử lý bối cảnh thuộc trục thời hiện tại.</li>
+          <li className="list-none">Hình thái: [which creates solar energy] - [Liên Câu][Conjunctional Clause] chứa thành phần [Liên Cơ][Conjunctional Base] vật thể "which" ở đầu, mang hạt nhân hành động xử lý bối cảnh thuộc trục thời hiện tại.</li>
       
-          <li className="list-none">Chức năng: [which creates high-resolution images] - [Tính Câu][Adjective Clause] hoạt động như một module lọc bổ sung đặt sau một khối tên gọi để nhận diện đối tượng "tool".</li>
+          <li className="list-none">Chức năng: [which creates solar energy] - [Tính Câu][Adjective Clause] hoạt động như một module lọc bổ sung đặt sau khối tên gọi để nhận diện và mô tả đặc điểm cho đối tượng "engine".</li>
       
         </ul>
       
@@ -537,12 +539,12 @@ export default function Create(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>The project succeeded [because the team created a comprehensive strategy].</li>
-          <li className="margin-bottom-20 list-none">Dự án đã thành công [vì đội ngũ đã tạo ra một chiến lược toàn diện].</li>
+          <li>The venture succeeded [because the founder created a clear vision].</li>
+          <li className="margin-bottom-20 list-none">Dự án đã thành công [vì nhà sáng lập đã tạo ra một tầm nhìn rõ ràng].</li>
       
-          <li className="list-none">Hình thái: [because the team created a comprehensive strategy] - [Liên Câu][Conjunctional Base] kích hoạt ngay sau thành phần [Liên Cơ][Conjunctional Base] nguyên nhân "because", chứa [Danh Chủ][Noun Subject] "the team" và cụm hành động mang dấu mốc trục thời quá khứ.</li>
+          <li className="list-none">Hình thái: [because the founder created a clear vision] - [Liên Câu][Conjunctional Clause] kích hoạt ngay sau thành phần [Liên Cơ][Conjunctional Base] nguyên nhân "because", chứa [Danh Chủ][Noun Subject] "the founder" và cụm hành động mang dấu mốc trục thời quá khứ.</li>
       
-          <li className="list-none">Chức năng: [because the team created a comprehensive strategy] - [Trạng Câu][Adverb Clause] thiết lập module bối cảnh để bổ nghĩa cho toàn bộ phần diện thông tin chính "The project succeeded" đứng trước.</li>
+          <li className="list-none">Chức năng: [because the founder created a clear vision] - [Trạng Câu][Adverb Clause] thiết lập module bối cảnh, bổ nghĩa cho hành động [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "succeeded" và toàn bộ mệnh đề chính trước đó.</li>
       
         </ul>
 
@@ -556,12 +558,12 @@ export default function Create(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>They believe [the startup created a revolutionary product].</li>
-          <li className="margin-bottom-20 list-none">Họ tin rằng [công ty khởi nghiệp đã tạo ra một sản phẩm mang tính cách mạng].</li>
+          <li>They believe [the agency created a reliable system].</li>
+          <li className="margin-bottom-20 list-none">Họ tin rằng [cơ quan đã tạo ra một hệ thống đáng tin cậy].</li>
       
-          <li className="list-none">Hình thái: [the startup created a revolutionary product] - [Ẩn-Liên Câu][Zero-Conjunctional Clause] đã ẩn thành phần [Liên Cơ][Conjunctional Base] định hướng "that", chỉ còn hiển thị trọn vẹn khối [Danh Chủ][Noun Subject] "the startup" và cụm hành động phía sau.</li>
+          <li className="list-none">Hình thái: [the agency created a reliable system] - [Ẩn-Liên Câu][Zero-Conjunctional Clause] đã ẩn thành phần [Liên Cơ][Conjunctional Base] định hướng "that", chỉ còn hiển thị trọn vẹn khối [Danh Chủ][Noun Subject] "the agency" và cụm hành động phía sau.</li>
       
-          <li className="list-none">Chức năng: [the startup created a revolutionary product] - [Danh Câu][Noun Clause] đóng vai trò làm [Danh Nhận][Noun Object] nhận toàn bộ năng lượng từ [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "believe".</li>
+          <li className="list-none">Chức năng: [the agency created a reliable system] - [Danh Câu][Noun Clause] đóng vai trò làm [Danh Nhận][Noun Object] tiếp nhận trực tiếp nội dung cho hành động [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "believe".</li>
       
         </ul>
       
@@ -572,12 +574,12 @@ export default function Create(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>The design [she created] won first place in the competition.</li>
-          <li className="margin-bottom-20 list-none">Thiết kế [mà cô ấy đã tạo ra] đã giành giải nhất trong cuộc thi.</li>
+          <li>The design [she created for the client] won a prestigious award.</li>
+          <li className="margin-bottom-20 list-none">Mẫu thiết kế [mà cô ấy đã tạo ra cho khách hàng] đã giành một giải thưởng uy tín.</li>
       
-          <li className="list-none">Hình thái: [she created] - [Ẩn-Liên Câu][Zero-Conjunctional Clause] đã ẩn thành phần [Liên Cơ][Conjunctional Base] vật thể đứng trước, giữ lại khối [Danh Chủ][Noun Subject] "she" và [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "created".</li>
+          <li className="list-none">Hình thái: [she created for the client] - [Ẩn-Liên Câu][Zero-Conjunctional Clause] đã ẩn thành phần [Liên Cơ][Conjunctional Base] vật thể đứng trước, giữ lại khối [Danh Chủ][Noun Subject] "she" và cụm [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "created for the client".</li>
       
-          <li className="list-none">Chức năng: [she created] - [Tính Câu][Adjective Clause] đóng vai trò như bộ quét đặt ngay sau đối tượng "The design" để làm rõ đặc điểm cho đối tượng này.</li>
+          <li className="list-none">Chức năng: [she created for the client] - [Tính Câu][Adjective Clause] đóng vai trò như bộ quét đặt ngay sau đối tượng "The design" để làm rõ đặc điểm cho đối tượng này.</li>
       
         </ul>
       
@@ -588,12 +590,12 @@ export default function Create(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>[Should the system create duplicate entries], run the cleanup script.</li>
-          <li className="margin-bottom-20 list-none">[Nếu hệ thống tạo ra các mục trùng lặp], hãy chạy kịch bản dọn dẹp.</li>
+          <li>[Should the program create technical errors], alert the system administrator.</li>
+          <li className="margin-bottom-20 list-none">[Nếu chương trình tạo ra các lỗi kỹ thuật], hãy báo cho quản trị viên hệ thống.</li>
       
-          <li className="list-none">Hình thái: [Should the system create duplicate entries] - [Ẩn-Liên Câu][Zero-Conjunctional Clause] vận hành ở trạng thái ẩn thành phần [Liên Cơ][Conjunctional Base] điều kiện "if" bằng giải pháp đảo [Áp-Thái Động Cơ][Assertive-Modal Verb Base] "Should" lên trước, tuy thiết lập bề mặt biến đổi nhưng bản chất vẫn giữ trọn vẹn [Danh Chủ][Noun Subject] "the system" và [Thuần Động Cơ][Bare Verb Base] "create duplicate entries".</li>
+          <li className="list-none">Hình thái: [Should the program create technical errors] - [Ẩn-Liên Câu][Zero-Conjunctional Clause] vận hành ở trạng thái ẩn thành phần [Liên Cơ][Conjunctional Base] điều kiện "if" bằng giải pháp đảo [Áp-Thái Động Cơ][Assertive-Modal Verb Base] "Should" lên trước, tuy thiết lập bề mặt biến đổi nhưng bản chất vẫn giữ trọn vẹn [Danh Chủ][Noun Subject] "the program" và [Thuần Động Cụm][Bare Verb Phrase] "create technical errors".</li>
       
-          <li className="list-none">Chức năng: [Should the system create duplicate entries] - [Trạng Câu][Adverb Clause] đảm nhận nhiệm vụ thiết lập khối bối cảnh giả định/điều kiện để bổ nghĩa cho toàn bộ phần diện thông tin chính phía sau.</li>
+          <li className="list-none">Chức năng: [Should the program create technical errors] - [Trạng Câu][Adverb Clause] đảm nhận nhiệm vụ thiết lập khối bối cảnh giả định/điều kiện, bổ nghĩa cho hành động và câu lệnh phía sau.</li>
       
         </ul>
 
@@ -603,14 +605,14 @@ export default function Create(): React.JSX.Element {
 
       <p className="margin-top-20 text-indent-whole"><strong>5.1</strong> <strong>Hình thành chức năng</strong> [<strong>Danh Cụm</strong>][<strong>Noun Phrase</strong>]</p>
 
-      <p className="margin-top-20 text-indent-whole">[<strong>Danh Cụm</strong>][<strong>Noun Phrase</strong>] <strong>cấu tạo từ</strong> [<strong>Tầng Hạt Thuần Động Cụm</strong>][<strong>Tiered Particle Bare Verb Phrase</strong>] <strong>làm</strong> [<strong>Danh Chủ</strong>][<strong>Noun Subject</strong>]</p>
+      <p className="margin-top-20 text-indent-whole">[<strong>Danh Cụm</strong>][<strong>Noun Phrase</strong>] <strong>cấu tạo từ</strong> [<strong>Tầng Tiếp Động Cụm</strong>][<strong>Tiered Progressive Verb Phrase</strong>] <strong>làm</strong> [<strong>Danh Chủ</strong>][<strong>Noun Subject</strong>]</p>
       
       <p className="margin-top-20 text-indent-whole">Ví dụ 12a:</p>
       
         <ul className="list-square">
       
-          <li>It requires technical skills [to analyze {'{how the platform creates personalized content}'}].</li>
-          <li className="margin-bottom-20 list-none">Nó đòi hỏi các kỹ năng kỹ thuật [để phân tích {'{cách nền tảng tạo ra nội dung cá nhân hóa}'}].</li>
+          <li>[Creating solutions for {'{what clients struggle with}'}] builds market value.</li>
+          <li className="margin-bottom-20 list-none">[Việc tạo ra các giải pháp cho {'{những gì khách hàng đang gặp khó khăn}'}] xây dựng giá trị thị trường.</li>
       
         </ul>
 
@@ -618,9 +620,9 @@ export default function Create(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li className="list-none">Hình thái: [to analyze {'{how the platform creates personalized content}'}] - [Tầng Hạt Thuần Động Cụm][Tiered Particle Bare Verb Phrase] lớn biểu hiện dưới dạng một vùng mã mở rộng bắt đầu bằng [Hạt Thuần Động Cơ][Particle Bare Verb Base] "to analyze" và kéo theo thành phần bổ trợ phía sau.</li>
+          <li className="list-none">Hình thái: [Creating solutions for {'{what clients struggle with}'}] - [Tầng Tiếp Động Cụm][Tiered Progressive Verb Phrase] lớn phát triển từ [Tiếp Động Cơ][Progressive Verb Base] "Creating" mở rộng kéo theo thành phần bổ trợ phía sau.</li>
       
-          <li className="list-none">Chức năng: [to analyze {'{how the platform creates personalized content}'}] - [<strong>Danh Cụm</strong>][<strong>Noun Phrase</strong>] chịu trách nhiệm làm một vùng đầu việc lớn, đảm nhận vai trò làm [Danh Chủ][Noun Subject] đứng sau [Thời-Thuần Động Cụm][Tense-Bare Verb Phrase] "requires technical skills" để bổ nghĩa cho [Giữ Chủ][Placeholder Subject] "It" ở đầu câu.</li>
+          <li className="list-none">Chức năng: [Creating solutions for {'{what clients struggle with}'}] - [<strong>Danh Cụm</strong>][<strong>Noun Phrase</strong>] chịu trách nhiệm làm một khối đầu việc lớn, đảm nhận vai trò làm [Danh Chủ][Noun Subject] đứng trước hành động [Thời-Thuần Động Cụm][Tense-Bare Verb Phrase] "builds market value".</li>
       
         </ul>
 
@@ -628,9 +630,9 @@ export default function Create(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li className="list-none">Hình thái: {'{how the platform creates personalized content}'} - [Liên Câu][Conjunctional Base] định hình dưới dạng một khối mã con nằm gọn hoàn toàn bên trong vùng mã tổng thể, chứa đầy đủ [Danh Chủ][Noun Subject] riêng "the platform" và cụm hành động riêng thiết lập theo trục thời hiện tại đi sau thành phần [Liên Cơ][Conjunctional Base] "how".</li>
+          <li className="list-none">Hình thái: {'{what clients struggle with}'} - [Liên Câu][Conjunctional Clause] định hình dưới dạng khối mã con nằm gọn bên trong, chứa [Danh Chủ][Noun Subject] riêng "clients" và cụm hành động riêng đi sau thành phần [Liên Cơ][Conjunctional Base] "what".</li>
       
-          <li className="list-none">Chức năng: {'{how the platform creates personalized content}'} - [Danh Câu][Noun Clause] đóng vai trò làm [Danh Nhận][Noun Object] chịu sự điều phối trực tiếp từ hạt nhân hành động "analyze" ở tầng ngoài, tích hợp chuỗi thông tin tiếp nhận hành động để làm rõ nội dung cho việc phân tích.</li>
+          <li className="list-none">Chức năng: {'{what clients struggle with}'} - [Danh Câu][Noun Clause] đóng vai trò làm [Danh Nhận][Noun Object] chịu sự điều phối trực tiếp của [Giới Cơ][Prepositional Base] "for" ở tầng ngoài.</li>
       
         </ul>
 
@@ -641,8 +643,8 @@ export default function Create(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>The company suggested [exploring {'{why the campaign created mixed reactions}'}].</li>
-          <li className="margin-bottom-20 list-none">Công ty đã gợi ý [việc khám phá {'{lý do tại sao chiến dịch lại tạo ra những phản ứng trái chiều}'}].</li>
+          <li>The manager suggested [exploring {'{why the team created outdated designs}'}].</li>
+          <li className="margin-bottom-20 list-none">Người quản lý đã gợi ý [việc tìm hiểu {'{lý do tại sao đội ngũ lại tạo ra các thiết kế lỗi thời}'}].</li>
       
         </ul>
 
@@ -650,9 +652,9 @@ export default function Create(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li className="list-none">Hình thái: [exploring {'{why the campaign created mixed reactions}'}] - [Tầng Tiếp Động Cụm][Tiered Progressive Verb Phrase] bắt đầu bằng [Tiếp Động Cơ][Progressive Verb Base] "exploring" kết hợp vùng mã mở rộng phía sau.</li>
+          <li className="list-none">Hình thái: [exploring {'{why the team created outdated designs}'}] - [Tầng Tiếp Động Cụm][Tiered Progressive Verb Phrase] bắt đầu bằng [Tiếp Động Cơ][Progressive Verb Base] "exploring" kết hợp vùng mã mở rộng phía sau.</li>
       
-          <li className="list-none">Chức năng: [exploring {'{why the campaign created mixed reactions}'}] - [<strong>Danh Cụm</strong>][<strong>Noun Phrase</strong>] đóng vai trò làm [Danh Nhận][Noun Object] đứng ngay sau hạt nhân [Thời Động Cơ][Tense Verb Base] "suggested" để bổ bổ sung trọn vẹn thông tin cho hành động gợi ý này.</li>
+          <li className="list-none">Chức năng: [exploring {'{why the team created outdated designs}'}] - [<strong>Danh Cụm</strong>][<strong>Noun Phrase</strong>] đóng vai trò làm [Danh Nhận][Noun Object] tiếp nhận nội dung cho hành động [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "suggested".</li>
       
         </ul>
 
@@ -660,11 +662,108 @@ export default function Create(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li className="list-none">Hình thái: {'{why the campaign created mixed reactions}'} - [Liên Câu][Conjunctional Base] định hình dưới dạng một khối mã con nằm gọn hoàn toàn bên trong vùng mã tổng thể, chứa đầy đủ [Danh Chủ][Noun Subject] riêng "the campaign" và cụm hành động riêng thiết lập theo trục thời quá khứ đi sau thành thành phần [Liên Cơ][Conjunctional Base] "why".</li>
+          <li className="list-none">Hình thái: {'{why the team created outdated designs}'} - [Liên Câu][Conjunctional Clause] định hình dưới dạng một khối mã con nằm gọn hoàn toàn bên trong vùng mã tổng thể, chứa đầy đủ [Danh Chủ][Noun Subject] riêng "the team" và cụm hành động riêng thiết lập theo trục thời quá khứ đi sau thành phần [Liên Cơ][Conjunctional Base] "why".</li>
       
-          <li className="list-none">Chức năng: {'{why the campaign created mixed reactions}'} - [Danh Câu][Noun Clause] đóng vai trò làm [Danh Nhận][Noun Object] chịu sự điều phối trực tiếp từ hạt nhân hành động "exploring" ở tầng ngoài, làm rõ nội dung cho việc khám phá.</li>
+          <li className="list-none">Chức năng: {'{why the team created outdated designs}'} - [Danh Câu][Noun Clause] đóng vai trò làm [Danh Nhận][Noun Object] chịu sự điều phối trực tiếp từ hạt nhân "exploring" ở tầng ngoài, làm rõ nội dung cho việc tìm hiểu.</li>
       
         </ul>
+
+      
+      <p className="margin-top-20 text-indent-whole">[<strong>Danh Cụm</strong>][<strong>Noun Phrase</strong>] <strong>cấu tạo từ</strong> [<strong>Tầng Hạt Thuần Động Cụm</strong>][<strong>Tiered Particle Bare Verb Phrase</strong>] <strong>làm</strong> [<strong>Danh Chủ</strong>][<strong>Noun Subject</strong>]</p>
+      
+      <p className="margin-top-20 text-indent-whole">Ví dụ 12c:</p>
+      
+        <ul className="list-square">
+      
+          <li>[To understand {'{how the system creates automated reports}'}] requires technical skills.</li>
+          <li className="margin-bottom-20 list-none">[Việc hiểu {'{cách hệ thống tạo ra các báo cáo tự động}'}] đòi hỏi các kỹ năng kỹ thuật.</li>
+      
+        </ul>
+
+      <p className="margin-top-20 text-indent-whole"><strong>Tầng 1</strong> (<strong>Cấp tổng thể</strong> - [...]):</p>
+      
+        <ul className="list-square">
+      
+          <li className="list-none">Hình thái: [To understand {'{how the system creates automated reports}'}] - [Tầng Hạt Thuần Động Cụm][Tiered Particle Bare Verb Phrase] bắt đầu bằng [Hạt Thuần Động Cơ][Particle Bare Verb Base] "To understand" kết hợp vùng mã mở rộng phía sau.</li>
+      
+          <li className="list-none">Chức năng: [To understand {'{how the system creates automated reports}'}] - [<strong>Danh Cụm</strong>][<strong>Noun Phrase</strong>] đóng vai trò làm [Danh Chủ][Noun Subject] đứng trước hành động [Thời-Thuần Động Cụm][Tense-Bare Verb Phrase] "requires technical skills" để quản lý khối đầu việc ở đầu câu.</li>
+      
+        </ul>
+
+      <p className="margin-top-20 text-indent-whole"><strong>Tầng 2</strong> (<strong>Cấp thành phần</strong> - {'{...}'}):</p>
+      
+        <ul className="list-square">
+      
+          <li className="list-none">Hình thái: {'{how the system creates automated reports}'} - [Liên Câu][Conjunctional Clause] định hình dưới dạng khối mã con nằm gọn bên trong, chứa [Danh Chủ][Noun Subject] "the system" và cụm hành động riêng đi sau thành phần [Liên Cơ][Conjunctional Base] "how".</li>
+      
+          <li className="list-none">Chức năng: {'{how the system creates automated reports}'} - [Danh Câu][Noun Clause] đóng vai trò làm [Danh Nhận][Noun Object] chịu sự điều phối trực tiếp từ hạt nhân "understand" ở tầng ngoài.</li>
+      
+        </ul>
+
+      
+      <p className="margin-top-20 text-indent-whole">[<strong>Danh Cụm</strong>][<strong>Noun Phrase</strong>] <strong>cấu tạo từ</strong> [<strong>Tầng Hạt Thuần Động Cụm</strong>][<strong>Tiered Particle Bare Verb Phrase</strong>] <strong>làm</strong> [<strong>Danh Nhận</strong>][<strong>Noun Object</strong>]</p>
+      
+      <p className="margin-top-20 text-indent-whole">Ví dụ 12d:</p>
+      
+        <ul className="list-square">
+      
+          <li>The firm plans [to study {'{how users create personal profiles}'}].</li>
+          <li className="margin-bottom-20 list-none">Công ty có kế hoạch [nghiên cứu {'{cách người dùng tạo ra các hồ sơ cá nhân}'}].</li>
+      
+        </ul>
+
+      <p className="margin-top-20 text-indent-whole"><strong>Tầng 1</strong> (<strong>Cấp tổng thể</strong> - [...]):</p>
+      
+        <ul className="list-square">
+      
+          <li className="list-none">Hình thái: [to study {'{how users create personal profiles}'}] - [Tầng Hạt Thuần Động Cụm][Tiered Particle Bare Verb Phrase] bắt đầu bằng [Hạt Thuần Động Cơ][Particle Bare Verb Base] "to study" kéo theo vùng mã bổ trợ phía sau.</li>
+      
+          <li className="list-none">Chức năng: [to study {'{how users create personal profiles}'}] - [<strong>Danh Cụm</strong>][<strong>Noun Phrase</strong>] đóng vai trò làm [Danh Nhận][Noun Object] tiếp nhận mục tiêu kế hoạch cho hành động [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "plans".</li>
+      
+        </ul>
+
+      <p className="margin-top-20 text-indent-whole"><strong>Tầng 2</strong> (<strong>Cấp thành phần</strong> - {'{...}'}):</p>
+      
+        <ul className="list-square">
+      
+          <li className="list-none">Hình thái: {'{how users create personal profiles}'} - [Liên Câu][Conjunctional Clause] nằm gọn hoàn toàn bên trong vùng mã tổng thể, chứa [Danh Chủ][Noun Subject] riêng "users" và cụm hành động riêng đi sau thành phần [Liên Cơ][Conjunctional Base] "how".</li>
+      
+          <li className="list-none">Chức năng: {'{how users create personal profiles}'} - [Danh Câu][Noun Clause] đóng vai trò làm [Danh Nhận][Noun Object] chịu sự điều phối trực tiếp từ hạt nhân "study" ở tầng ngoài.</li>
+      
+        </ul>
+
+      
+      <p className="margin-top-20 text-indent-whole">[<strong>Danh Cụm</strong>][<strong>Noun Phrase</strong>] <strong>cấu tạo từ</strong> [<strong>Tầng Hạt Thuần Động Cụm</strong>][<strong>Tiered Particle Bare Verb Phrase</strong>] <strong>làm</strong> [<strong>Danh Chủ</strong>][<strong>Noun Subject</strong>] <strong>bổ nghĩa</strong> [<strong>Giữ Chủ</strong>][<strong>Placeholder Subject</strong>]</p>
+      
+      <p className="margin-top-20 text-indent-whole">Ví dụ 12e:</p>
+      
+        <ul className="list-square">
+      
+          <li>It takes expertise [to evaluate {'{how the application creates user logs}'}].</li>
+          <li className="margin-bottom-20 list-none">Nó đòi hỏi chuyên môn [để đánh giá {'{cách ứng dụng tạo ra các nhật ký người dùng}'}].</li>
+      
+        </ul>
+
+      <p className="margin-top-20 text-indent-whole"><strong>Tầng 1</strong> (<strong>Cấp tổng thể</strong> - [...]):</p>
+      
+        <ul className="list-square">
+      
+          <li className="list-none">Hình thái: [to evaluate {'{how the application creates user logs}'}] - [Tầng Hạt Thuần Động Cụm][Tiered Particle Bare Verb Phrase] lớn biểu hiện dưới dạng một vùng mã mở rộng bắt đầu bằng [Hạt Thuần Động Cơ][Particle Bare Verb Base] "to evaluate" và kéo theo thành phần bổ trợ phía sau.</li>
+      
+          <li className="list-none">Chức năng: [to evaluate {'{how the application creates user logs}'}] - [<strong>Danh Cụm</strong>][<strong>Noun Phrase</strong>] chịu trách nhiệm làm một vùng đầu việc lớn, đóng vai trò [Danh Chủ][Noun Subject] bổ nghĩa cho [Giữ Chủ][Placeholder Subject] "It" trong cấu trúc [Thời-Thuần Động Cụm][Tense-Bare Verb Phrase] "takes expertise".</li>
+      
+        </ul>
+
+      <p className="margin-top-20 text-indent-whole"><strong>Tầng 2</strong> (<strong>Cấp thành phần</strong> - {'{...}'}):</p>
+      
+        <ul className="list-square">
+      
+          <li className="list-none">Hình thái: {'{how the application creates user logs}'} - [Liên Câu][Conjunctional Clause] định hình dưới dạng một khối mã con nằm gọn hoàn toàn bên trong vùng mã tổng thể, chứa đầy đủ [Danh Chủ][Noun Subject] riêng "the application" và cụm hành động riêng thiết lập theo trục thời hiện tại đi sau thành phần [Liên Cơ][Conjunctional Base] "how".</li>
+      
+          <li className="list-none">Chức năng: {'{how the application creates user logs}'} - [Danh Câu][Noun Clause] đóng vai trò làm [Danh Nhận][Noun Object] chịu sự điều phối trực tiếp từ hạt nhân "evaluate" ở tầng ngoài, tích hợp chuỗi thông tin tiếp nhận hành động để làm rõ nội dung cho việc đánh giá.</li>
+      
+        </ul>
+      
       
 
       <p className="margin-top-20 text-indent-whole"><strong>5.2</strong> <strong>Hình thành chức năng</strong> [<strong>Tính Cụm</strong>][<strong>Adjective Phrase</strong>]</p>
@@ -673,8 +772,8 @@ export default function Create(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>The committee reviewed documents [concerning {'{how the system creates database backups}'}].</li>
-          <li className="margin-bottom-20 list-none">Ủy ban đã xem xét các tài liệu [liên quan đến {'{cách hệ thống tạo ra các bản sao lưu cơ sở dữ liệu}'}].</li>
+          <li>The board reviewed proposals [regarding {'{how the team creates new marketing channels}'}].</li>
+          <li className="margin-bottom-20 list-none">Hội đồng đã xem xét các đề xuất [liên quan đến {'{cách đội ngũ tạo ra các kênh tiếp thị mới}'}].</li>
       
         </ul>
 
@@ -682,9 +781,9 @@ export default function Create(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li className="list-none">Hình thái: [concerning {'{how the system creates database backups}'}] - [Tầng Giới Cụm][Tiered Prepositional Phrase] (với "concerning" đóng vai trò [Giới Cơ][Prepositional Base]) biểu thị dưới dạng một vùng mã lớn.</li>
+          <li className="list-none">Hình thái: [regarding {'{how the team creates new marketing channels}'}] - [Tầng Giới Cụm][Tiered Prepositional Phrase] (với "regarding" đóng vai trò [Giới Cơ][Prepositional Base]) biểu thị dưới dạng một vùng mã lớn.</li>
       
-          <li className="list-none">Chức năng: [concerning {'{how the system creates database backups}'}] - [<strong>Tính Cụm</strong>][<strong>Adjective Phrase</strong>] vận hành như một bộ quét tổng thể đặt ngay phía sau để mô tả đặc điểm nội dung cho [Danh Cơ][Noun Base] "documents" đứng trước nó.</li>
+          <li className="list-none">Chức năng: [regarding {'{how the team creates new marketing channels}'}] - [<strong>Tính Cụm</strong>][<strong>Adjective Phrase</strong>] vận hành như một bộ quét tổng thể đặt ngay phía sau đối tượng "proposals" để mô tả đặc điểm nội dung cho [Danh Cơ][Noun Base] này.</li>
       
         </ul>
 
@@ -692,9 +791,9 @@ export default function Create(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li className="list-none">Hình thái: {'{how the system creates database backups}'} - [Liên Câu][Conjunctional Base] định hình dưới dạng khối mã con nằm gọn bên trong, chứa [Danh Chủ][Noun Subject] "the system" và cụm hành động đi sau thành phần [Liên Cơ][Conjunctional Base] "how".</li>
+          <li className="list-none">Hình thái: {'{how the team creates new marketing channels}'} - [Liên Câu][Conjunctional Clause] định hình dưới dạng khối mã con nằm gọn bên trong, chứa [Danh Chủ][Noun Subject] "the team" và cụm hành động đi sau thành phần [Liên Cơ][Conjunctional Base] "how".</li>
       
-          <li className="list-none">Chức năng: {'{how the system creates database backups}'} - [Danh Câu][Noun Clause] đóng vai trò làm [Danh Nhận][Noun Object] chịu sự điều phối trực tiếp ở tầng ngoài.</li>
+          <li className="list-none">Chức năng: {'{how the team creates new marketing channels}'} - [Danh Câu][Noun Clause] đóng vai trò làm [Danh Nhận][Noun Object] chịu sự điều phối trực tiếp ở tầng ngoài.</li>
       
         </ul>
 
@@ -705,8 +804,8 @@ export default function Create(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>The audit focused [on {'{why the department created excessive expenses}'}].</li>
-          <li className="margin-bottom-20 list-none">Việc kiểm toán đã tập trung [vào {'{lý do tại sao bộ phận lại tạo ra các khoản chi phí quá mức}'}].</li>
+          <li>The meeting focused [on {'{why the designer created complex layouts}'}].</li>
+          <li className="margin-bottom-20 list-none">Cuộc họp đã tập trung [vào {'{lý do tại sao nhà thiết kế lại tạo ra các bố cục phức tạp}'}].</li>
       
         </ul>
 
@@ -714,9 +813,9 @@ export default function Create(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li className="list-none">Hình thái: [on {'{why the department created excessive expenses}'}] - [Tầng Giới Cụm][Tiered Prepositional Phrase] biểu thị dưới dạng một vùng mã xác lập nội dung lớn bắt đầu bằng [Giới Cơ][Prepositional Base] "on".</li>
+          <li className="list-none">Hình thái: [on {'{why the designer created complex layouts}'}] - [Tầng Giới Cụm][Tiered Prepositional Phrase] biểu thị dưới dạng một vùng mã xác lập nội dung lớn bắt đầu bằng [Giới Cơ][Prepositional Base] "on".</li>
       
-          <li className="list-none">Chức năng: [on {'{why the department created excessive expenses}'}] - [<strong>Trạng Cụm</strong>][<strong>Adverb Phrase</strong>] đảm nhận vai trò làm một khối bối cảnh địa điểm/nội dung tổng thể đứng sau bổ nghĩa cho hành động [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "focused".</li>
+          <li className="list-none">Chức năng: [on {'{why the designer created complex layouts}'}] - [<strong>Trạng Cụm</strong>][<strong>Adverb Phrase</strong>] đảm nhận vai trò làm một khối bối cảnh địa điểm/nội dung tổng thể, bổ nghĩa cho hành động [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "focused".</li>
       
         </ul>
 
@@ -724,9 +823,9 @@ export default function Create(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li className="list-none">Hình thái: {'{why the department created excessive expenses}'} - [Liên Câu][Conjunctional Base] định hình dưới dạng khối mã con nằm gọn bên trong, chứa [Danh Chủ][Noun Subject] riêng "the department" và cụm hành động riêng thuộc trục thời quá khứ đi sau thành phần [Liên Cơ][Conjunctional Base] "why".</li>
+          <li className="list-none">Hình thái: {'{why the designer created complex layouts}'} - [Liên Câu][Conjunctional Clause] định hình dưới dạng khối mã con nằm gọn bên trong, chứa [Danh Chủ][Noun Subject] riêng "the designer" và cụm hành động riêng thuộc trục thời quá khứ đi sau thành phần [Liên Cơ][Conjunctional Base] "why".</li>
       
-          <li className="list-none">Chức năng: {'{why the department created excessive expenses}'} - [Danh Câu][Noun Clause] đóng vai trò làm [Danh Nhận][Noun Object] chịu sự điều phối trực tiếp của [Giới Cơ][Prepositional Base] "on" ở tầng ngoài.</li>
+          <li className="list-none">Chức năng: {'{why the designer created complex layouts}'} - [Danh Câu][Noun Clause] đóng vai trò làm [Danh Nhận][Noun Object] chịu sự điều phối trực tiếp của [Giới Cơ][Prepositional Base] "on" ở tầng ngoài.</li>
       
         </ul>
       
@@ -742,12 +841,12 @@ export default function Create(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>[Creating automated workflows for clients] requires technical expertise.</li>
-          <li className="margin-bottom-20 list-none">[Việc tạo ra các quy trình làm việc tự động cho khách hàng] đòi hỏi chuyên môn kỹ thuật.</li>
+          <li>[Creating high-impact content] requires professional dedication.</li>
+          <li className="margin-bottom-20 list-none">[Việc tạo ra nội dung có sức tác động cao] đòi hỏi sự tận tụy chuyên nghiệp.</li>
       
-          <li className="list-none">Hình thái gốc: [Creating automated workflows for clients] - [Tiếp Động Cụm][Progressive Verb Phrase] biểu hiện dưới dạng khối mã mở rộng chứa hành động và đối tượng đi kèm.</li>
+          <li className="list-none">Hình thái gốc: [Creating high-impact content] - [Tiếp Động Cụm][Progressive Verb Phrase] biểu hiện dưới dạng khối mã mở rộng chứa hành động và đối tượng đi kèm.</li>
       
-          <li className="list-none">Chức năng: [Creating automated workflows for clients] - [Danh Cụm][Noun Phrase] vận hành như một phân hệ [Danh Chủ][Noun Subject] để quản lý một đầu việc lớn ở đầu câu.</li>
+          <li className="list-none">Chức năng: [Creating high-impact content] - [Danh Cụm][Noun Phrase] vận hành như một phân hệ [Danh Chủ][Noun Subject] đứng trước hành động [Thời-Thuần Động Cụm][Tense-Bare Verb Phrase] "requires professional dedication" để quản lý một đầu việc lớn ở đầu câu.</li>
       
         </ul>
       
@@ -756,12 +855,12 @@ export default function Create(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>[Developing customized software tools for users] requires technical expertise.</li>
-          <li className="margin-bottom-20 list-none">[Việc phát triển các công cụ phần mềm tùy chỉnh cho người dùng] đòi hỏi chuyên môn kỹ thuật.</li>
+          <li>[Developing effective promotional material] requires professional dedication.</li>
+          <li className="margin-bottom-20 list-none">[Việc phát triển tài liệu quảng bá hiệu quả] đòi hỏi sự tận tụy chuyên nghiệp.</li>
       
-          <li className="list-none">Hình thái mới: [Developing customized software tools for users] - [Tiếp Động Cụm][Progressive Verb Phrase] mới chứa một hành động tiếp diễn khác cùng chuỗi dữ liệu mở rộng được đưa vào thế chỗ.</li>
+          <li className="list-none">Hình thái mới: [Developing effective promotional material] - [Tiếp Động Cụm][Progressive Verb Phrase] mới chứa một hành động tiếp diễn khác cùng chuỗi dữ liệu mở rộng được đưa vào thế chỗ.</li>
       
-          <li className="list-none">Chức năng mới: [Developing customized software tools for users] - [Danh Cụm][Noun Phrase] duy trì chính xác chức năng làm thành phần [Danh Chủ][Noun Subject] của khối cũ.</li>
+          <li className="list-none">Chức năng mới: [Developing effective promotional material] - [Danh Cụm][Noun Phrase] duy trì chính xác chức năng làm thành phần [Danh Chủ][Noun Subject] đứng trước hành động [Thời-Thuần Động Cụm][Tense-Bare Verb Phrase] "requires professional dedication" của khối cũ.</li>
       
         </ul>
 
@@ -770,12 +869,12 @@ export default function Create(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>The company boosted sales [by creating innovative marketing campaigns].</li>
-          <li className="margin-bottom-20 list-none">Công ty đã tăng doanh số [bằng cách tạo ra các chiến dịch tiếp thị đổi mới].</li>
+          <li>The company boosted value [by creating unique products].</li>
+          <li className="margin-bottom-20 list-none">Công ty đã gia tăng giá trị [bằng cách tạo ra các sản phẩm độc đáo].</li>
       
-          <li className="list-none">Hình thái gốc: [by creating innovative marketing campaigns] - [Giới Cụm][Prepositional Phrase] hiển thị dưới dạng một vùng mã chứa [Giới Cơ][Prepositional Base] phương thức "by" đi kèm cụm hành động phía sau.</li>
+          <li className="list-none">Hình thái gốc: [by creating unique products] - [Giới Cụm][Prepositional Phrase] hiển thị dưới dạng một vùng mã chứa [Giới Cơ][Prepositional Base] phương thức "by" đi kèm cụm hành động phía sau.</li>
       
-          <li className="list-none">Chức năng: [by creating innovative marketing campaigns] - [Trạng Cụm][Adverb Phrase] đảm nhận vai trò làm một khối bối cảnh phương thức đứng sau bổ nghĩa cho hành động [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "boosted".</li>
+          <li className="list-none">Chức năng: [by creating unique products] - [Trạng Cụm][Adverb Phrase] đảm nhận vai trò làm khối bối cảnh phương thức, bổ nghĩa cho hành động [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "boosted".</li>
       
         </ul>
       
@@ -784,12 +883,12 @@ export default function Create(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>The company boosted sales [because the team created innovative marketing campaigns].</li>
-          <li className="margin-bottom-20 list-none">Công ty đã tăng doanh số [vì đội ngũ đã tạo ra các chiến dịch tiếp thị đổi mới].</li>
+          <li>The company boosted value [because the developers created unique products].</li>
+          <li className="margin-bottom-20 list-none">Công ty đã gia tăng giá trị [vì các nhà phát triển đã tạo ra các sản phẩm độc đáo].</li>
       
-          <li className="list-none">Hình thái mới: [because the team created innovative marketing campaigns] - [Liên Câu][Conjunctional Base] hiển thị dưới dạng khối mã chứa đầy đủ [Danh Chủ][Noun Subject] "the team" và cụm hành động đi sau thành phần [Liên Cơ][Conjunctional Base] "because".</li>
+          <li className="list-none">Hình thái mới: [because the developers created unique products] - [Liên Câu][Conjunctional Clause] hiển thị dưới dạng khối mã chứa đầy đủ [Danh Chủ][Noun Subject] "the developers" và cụm hành động đi sau thành phần [Liên Cơ][Conjunctional Base] "because".</li>
       
-          <li className="list-none">Chức năng mới: [because the team created innovative marketing campaigns] - [Trạng Câu][Adverb Clause] đảm nhận vai trò bối cảnh nguyên nhân ở cấp độ cao cấp hơn, bổ nghĩa cho toàn bộ phần diện thông tin chính.</li>
+          <li className="list-none">Chức năng mới: [because the developers created unique products] - [Trạng Câu][Adverb Clause] đảm nhận vai trò bối cảnh nguyên nhân ở cấp độ cao cấp hơn, bổ nghĩa cho hành động [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "boosted" và toàn bộ diễn biến phía trước.</li>
       
         </ul>
 
@@ -798,12 +897,12 @@ export default function Create(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>The firm hired an agency [which creates promotional materials effectively].</li>
-          <li className="margin-bottom-20 list-none">Công ty đã thuê một đại lý [cái mà tạo ra các tài liệu quảng cáo một cách hiệu quả].</li>
+          <li>The studio hired a team [which creates interactive art projects].</li>
+          <li className="margin-bottom-20 list-none">Xưởng phim đã thuê một đội ngũ [nhóm mà tạo ra các dự án nghệ thuật tương tác].</li>
       
-          <li className="list-none">Hình thái gốc: [which creates promotional materials effectively] - [Liên Câu][Conjunctional Base] thiết lập theo dạng phân hệ hệ con đầy đủ bổ nghĩa đứng sau một khối tên gọi, chứa thành phần [Liên Cơ][Conjunctional Base] "which" và cụm hành động phía sau.</li>
+          <li className="list-none">Hình thái gốc: [which creates interactive art projects] - [Liên Câu][Conjunctional Clause] thiết lập theo dạng phân hệ hệ con đầy đủ bổ nghĩa đứng sau một khối tên gọi, chứa thành phần [Liên Cơ][Conjunctional Base] "which" và cụm hành động phía sau.</li>
       
-          <li className="list-none">Chức năng: [which creates promotional materials effectively] - [Tính Câu][Adjective Clause] đóng vai trò một module lọc nhằm định nghĩa đặc điểm cho đối tượng "agency".</li>
+          <li className="list-none">Chức năng: [which creates interactive art projects] - [Tính Câu][Adjective Clause] đóng vai trò một module lọc nhằm định nghĩa đặc điểm cho đối tượng "team".</li>
       
         </ul>
       
@@ -812,10 +911,10 @@ export default function Create(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>The firm hired a [creative] agency.</li>
-          <li className="margin-bottom-20 list-none">Công ty đã thuê một đại lý [sáng tạo].</li>
+          <li>The studio hired a [creative] team.</li>
+          <li className="margin-bottom-20 list-none">Xưởng phim đã thuê một đội ngũ [sáng tạo].</li>
       
-          <li className="list-none">Hình thái mới: [creative] - [Diện Tính Cơ][Modified Adjective Base] hình thành từ khối [Rễ Động Cơ][Root Verb Base] nguyên bản "create" kết hợp đuôi "-ive" để thay đổi diện mạo bên ngoài thành một khối cấp độ [Cơ][Base] có khả năng mô tả đặc điểm, thu gọn hoàn toàn dưới dạng một thành phần tính đơn duy nhất đứng trước đối tượng.</li>
+          <li className="list-none">Hình thái mới: [creative] - [Diện Tính Cơ][Modified Adjective Base] hình thành từ khối [Rễ Động Cơ][Root Verb Base] nguyên bản "create" kết hợp đuôi "-ive" để thay đổi diện mạo bên ngoài thành một khối cấp độ [Cơ][Base] có khả năng mô tả đặc điểm, thu gọn hoàn toàn dưới dạng một thành phần mô tả đặc điểm đơn duy nhất đứng trước đối tượng.</li>
       
           <li className="list-none">Chức năng mới: [creative] - [Tính Cơ][Adjective Base] thiết lập vị trí ngay trước đối tượng để quét và hiển thị ngắn gọn đặc điểm của đối tượng đó.</li>
       
@@ -828,26 +927,26 @@ export default function Create(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>The system rebooted [for the creation of a system backup].</li>
-          <li className="margin-bottom-20 list-none">Hệ thống đã khởi động lại [phục vụ cho việc tạo ra một bản sao lưu hệ thống].</li>
+          <li>The team allocated time [for the creation of the system interface].</li>
+          <li className="margin-bottom-20 list-none">Đội ngũ đã phân bổ thời gian [phục vụ cho việc tạo ra giao diện hệ thống].</li>
       
-          <li className="list-none">Hình thái gốc: [for the creation of a system backup] - [Giới Cụm][Prepositional Phrase] bắt đầu bằng [Giới Cơ][Prepositional Base] chỉ lý do / bối cảnh "for" để kéo theo khối danh cụm phía sau.</li>
+          <li className="list-none">Hình thái gốc: [for the creation of the system interface] - [Giới Cụm][Prepositional Phrase] bắt đầu bằng [Giới Cơ][Prepositional Base] chỉ lý do / bối cảnh "for" để kéo theo khối [Danh Nhận][Noun Object] phía sau.</li>
       
-          <li className="list-none">Chức năng: [for the creation of a system backup] - [Trạng Cụm][Adverb Phrase] thực thi vai trò làm khối bối cảnh nguyên nhân / mục đích đứng sau để xác định cơ sở cho hành động [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "rebooted".</li>
+          <li className="list-none">Chức năng: [for the creation of the system interface] - [Trạng Cụm][Adverb Phrase] thực thi vai trò làm khối bối cảnh nguyên nhân / mục đích, bổ nghĩa cho hành động [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "allocated".</li>
       
         </ul>
       
       
-      <p className="margin-top-20 text-indent-whole"><strong>Thế khối tương đương</strong> [<strong>Phức Giới Cụm</strong>][<strong>Complex Prepositional Phrase</strong>]:</p>
+      <p className="margin-top-20 text-indent-whole"><strong>Thế khối tương đương</strong> [<strong>Hạt Thuần Động Cụm</strong>][<strong>Particle Bare Verb Phrase</strong>]:</p>
       
         <ul className="list-square">
       
-          <li>The system rebooted [because of the creation of a system backup].</li>
-          <li className="margin-bottom-20 list-none">Hệ thống đã khởi động lại [bởi vì việc tạo ra một bản sao lưu hệ thống].</li>
+          <li>The team allocated time [to create the system interface].</li>
+          <li className="margin-bottom-20 list-none">Đội ngũ đã phân bổ thời gian [để tạo ra giao diện hệ thống].</li>
       
-          <li className="list-none">Hình thái mới: [because of the creation of a system backup] - [Phức Giới Cụm][Complex Prepositional Phrase] mới, bắt đầu bằng [Phức Giới Cơ][Complex Prepositional Base] "because of" được đưa vào thế chỗ.</li>
+          <li className="list-none">Hình thái mới: [to create the system interface] - [Hạt Thuần Động Cụm][Particle Bare Verb Phrase] mới, bắt đầu bằng [Hạt Thuần Động Cơ][Particle Bare Verb Base] "to create" được đưa vào thế chỗ.</li>
       
-          <li className="list-none">Chức năng mới: [because of the creation of a system backup] - [Trạng Cụm][Adverb Phrase] đảm nhận vai trò thiết lập khối bối cảnh nguyên nhân tổng thể đứng sau bổ nghĩa cho hành động [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "rebooted" mà không làm biến dạng sơ đồ sắp xếp tổng thể của câu.</li>
+          <li className="list-none">Chức năng mới: [to create the system interface] - [Trạng Cụm][Adverb Phrase] đảm nhận vai trò thiết lập khối bối cảnh mục đích tổng thể, bổ nghĩa cho hành động [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "allocated" mà không làm biến dạng sơ đồ sắp xếp tổng thể của câu.</li>
       
         </ul>
 
