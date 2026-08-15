@@ -81,7 +81,7 @@ export default function ThreeDC1(): React.ReactElement {
 			
 					<li><strong>Ở cấp độ</strong> [<strong>Giới Cụm</strong>][<strong>Prepositional Phrase</strong>]: Sinh ra [Tính Cụm][Adjective Phrase], [Trạng Cụm][Adverb Phrase].</li>
 
-					<li><strong>Ở cấp độ</strong> [<strong>Liên Câu</strong>][<strong>Conjunctional Base</strong>]: Sinh ra [Danh Câu][Noun Clause], [Tính Câu][Adjective Clause], [Trạng Câu][Adverb Clause].</li>
+					<li><strong>Ở cấp độ</strong> [<strong>Liên Câu</strong>][<strong>Conjunctional Clause</strong>]: Sinh ra [Danh Câu][Noun Clause], [Tính Câu][Adjective Clause], [Trạng Câu][Adverb Clause].</li>
 			
 				</ul>
 
@@ -581,7 +581,7 @@ export default function ThreeDC1(): React.ReactElement {
 
 			<p className="margin-y-30 text-indent-whole"><strong>Gốc</strong>:</p>
 					
-			<p className="margin-top-20 text-indent-whole"><strong>Dùng hình thái</strong> [<strong>Liên Câu</strong>][<strong>Conjunctional Base</strong>]</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Dùng hình thái</strong> [<strong>Liên Câu</strong>][<strong>Conjunctional Clause</strong>]</p>
 			
 				<ul className="list-square">
 			
@@ -632,7 +632,7 @@ export default function ThreeDC1(): React.ReactElement {
 
 			<p className="margin-y-30 text-indent-whole"><strong>Gốc</strong>:</p>
 
-			<p className="text-indent-whole"><strong>Dùng hình thái</strong> [<strong>Liên Câu</strong>][<strong>Conjunctional Base</strong>]</p>
+			<p className="text-indent-whole"><strong>Dùng hình thái</strong> [<strong>Liên Câu</strong>][<strong>Conjunctional Clause</strong>]</p>
 			
 				<ul className="list-square">
 			
@@ -682,7 +682,7 @@ export default function ThreeDC1(): React.ReactElement {
 
 			<h4 className="margin-y-40">3. Paraphrasing cho chức năng [DANH][NOUN]</h4>
 
-			<p className="margin-y-30 text-indent-whole"><strong>Gốc</strong>: <strong>Dùng hình thái</strong> [<strong>Liên Câu</strong>][<strong>Conjunctional Base</strong>]</p>
+			<p className="margin-y-30 text-indent-whole"><strong>Gốc</strong>: <strong>Dùng hình thái</strong> [<strong>Liên Câu</strong>][<strong>Conjunctional Clause</strong>]</p>
 
 			<p className="margin-top-20 text-indent-whole">Làm [Danh Chủ][Noun Subject]</p>
 
