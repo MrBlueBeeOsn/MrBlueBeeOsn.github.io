@@ -291,7 +291,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 
 					<li>[Giới Cụm][Prepositional Phrase] hình thành nên chức năng [Tính Cụm][Adjective Phrase], [Trạng Cụm][Adverb Phrase].</li>
 			
-					<li>[Liên Câu][Conjunctional Base] hình thành nên chức năng [Danh Câu][Noun Clause], [Tính Câu][Adjective Clause], [Trạng Câu][Adverb Clause].</li>
+					<li>[Liên Câu][Conjunctional Clause] hình thành nên chức năng [Danh Câu][Noun Clause], [Tính Câu][Adjective Clause], [Trạng Câu][Adverb Clause].</li>
 			
 				</ul>
 			
@@ -374,7 +374,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 
 					<li className="list-none">Khối tổng thể [Investigating {'{why the application failed}'}] là một [Tầng Tiếp Động Cụm][Tiered Progressive Verb Phrase] bắt đầu bằng [Tiếp Động Cơ][Progressive Verb Base] Investigating ôm trọn phần phụ thuộc phức tạp bên trong.</li>
 
-					<li className="margin-bottom-20 list-none">Khối nhỏ bên trong {'{why the application failed}'} là một [Liên Câu][Conjunctional Base] bắt đầu bằng [Liên Cơ][Conjunctional Base] why kết hợp với một cấu trúc [S]-[Head] nội bộ của riêng nó.</li>
+					<li className="margin-bottom-20 list-none">Khối nhỏ bên trong {'{why the application failed}'} là một [Liên Câu][Conjunctional Clause] bắt đầu bằng [Liên Cơ][Conjunctional Base] why kết hợp với một cấu trúc [S]-[Head] nội bộ của riêng nó.</li>
 
 					<li className="list-none">Chức năng:</li>
 
@@ -397,7 +397,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 
 					<li className="list-none">Khối tổng thể [predicting {'{how the climate will shift}'}] là một [Tầng Tiếp Động Cụm][Tiered Progressive Verb Phrase] bắt đầu bằng [Tiếp Động Cơ][Progressive Verb Base] predicting kéo theo cấu trúc phụ thuộc nhiều tầng.</li>
 
-					<li className="margin-bottom-20 list-none">Khối nhỏ bên trong {'{how the climate will shift}'} là một [Liên Câu][Conjunctional Base] bắt đầu bằng [Liên Cơ][Conjunctional Base] how kết hợp với một cấu trúc [S]-[Head] nội bộ chứa [Áp-Thái Động Cơ][Assertive-Modal Verb Base] will biểu thị thái độ áp đặt đối với tình huống xảy ra ở tương lai.</li>
+					<li className="margin-bottom-20 list-none">Khối nhỏ bên trong {'{how the climate will shift}'} là một [Liên Câu][Conjunctional Clause] bắt đầu bằng [Liên Cơ][Conjunctional Base] how kết hợp với một cấu trúc [S]-[Head] nội bộ chứa [Áp-Thái Động Cơ][Assertive-Modal Verb Base] will biểu thị thái độ áp đặt đối với tình huống xảy ra ở tương lai.</li>
 
 					<li className="list-none">Chức năng:</li>
 
@@ -415,7 +415,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 					<li>[How the system operates] determines overall performance.</li>
 					<li className="margin-bottom-20 list-none">[Cách hệ thống vận hành] quyết định hiệu năng tổng thể.</li>
 
-					<li className="list-none">Hình thái: [How the system operates] - [Liên Câu][Conjunctional Base] chứa [Liên Cơ][Conjunctional Base] How ở vị trí đầu khối để dẫn dắt, liên kết một cấu trúc hoàn chỉnh có [Danh Chủ][Noun Subject] nội bộ the system và hành động operates ở phía sau.</li>
+					<li className="list-none">Hình thái: [How the system operates] - [Liên Câu][Conjunctional Clause] chứa [Liên Cơ][Conjunctional Base] How ở vị trí đầu khối để dẫn dắt, liên kết một cấu trúc hoàn chỉnh có [Danh Chủ][Noun Subject] nội bộ the system và hành động operates ở phía sau.</li>
 
 					<li className="list-none">Chức năng: [How the system operates] - [Danh Câu][Noun Clause] đóng vai trò làm [Danh Chủ][Noun Subject] đứng đầu câu kích hoạt và cung cấp năng lượng cho bộ nguồn [Thời-Thuần Động Cơ][Tense-Bare Verb Base] determines.</li>
 			
@@ -429,7 +429,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 					<li>Auditors check [how technicians secure data].</li>
 					<li className="margin-bottom-20 list-none">Kiểm toán viên kiểm tra [cách các kỹ thuật viên bảo mật dữ liệu].</li>
 
-					<li className="list-none">Hình thái: [how technicians secure data] - [Liên Câu][Conjunctional Base] chứa [Liên Cơ][Conjunctional Base] how ở vị trí đầu khối để dẫn dắt, liên kết một cấu trúc hoàn chỉnh có [Danh Chủ][Noun Subject] nội bộ technicians và hành động secure ở phía sau.</li>
+					<li className="list-none">Hình thái: [how technicians secure data] - [Liên Câu][Conjunctional Clause] chứa [Liên Cơ][Conjunctional Base] how ở vị trí đầu khối để dẫn dắt, liên kết một cấu trúc hoàn chỉnh có [Danh Chủ][Noun Subject] nội bộ technicians và hành động secure ở phía sau.</li>
 
 					<li className="list-none">Chức năng: [how technicians secure data] - [Danh Câu][Noun Clause] đóng vai trò làm [Danh Nhận][Noun Object] tiếp nhận nội dung thông tin trực tiếp, đứng sau [Thời-Thuần Động Cơ][Tense-Bare Verb Base] check.</li>
 			
@@ -507,7 +507,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 
 					<li className="list-none">Khối tổng thể [with the perspective {'{that facts guide development}'}] là một [Tầng Giới Cụm][Tiered Prepositional Phrase] bắt đầu bằng [Giới Cơ][Prepositional Base] with bao bọc lấy các cấu trúc phụ thuộc tầng dưới tạo nên chiều sâu thông tin.</li>
 
-					<li className="margin-bottom-20 list-none">Khối nhỏ bên trong {'{that facts guide development}'} là một [Liên Câu][Conjunctional Base] chứa [Liên Cơ][Conjunctional Base] that kết hợp với một cấu hình [S]-[Head] nội bộ đã được chia [Thời] gian.</li>
+					<li className="margin-bottom-20 list-none">Khối nhỏ bên trong {'{that facts guide development}'} là một [Liên Câu][Conjunctional Clause] chứa [Liên Cơ][Conjunctional Base] that kết hợp với một cấu hình [S]-[Head] nội bộ đã được chia [Thời] gian.</li>
 
 					<li className="list-none">Chức năng:</li>
 
@@ -525,7 +525,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 					<li>The server administrator secured the file [which contains the report].</li>
 					<li className="margin-bottom-20 list-none">Quản trị viên máy chủ đã bảo mật tập tin [chứa báo cáo].</li>
 
-					<li className="list-none">Hình thái: [which contains the report] - [Liên Câu][Conjunctional Base] chứa [Liên Cơ][Conjunctional Base] which đóng vai trò thế cho danh từ đứng trước, đồng thời làm nhiệm vụ làm [Danh Chủ][Noun Subject] nội bộ kết hợp liền mạch với hành động contains.</li>
+					<li className="list-none">Hình thái: [which contains the report] - [Liên Câu][Conjunctional Clause] chứa [Liên Cơ][Conjunctional Base] which đóng vai trò thế cho danh từ đứng trước, đồng thời làm nhiệm vụ làm [Danh Chủ][Noun Subject] nội bộ kết hợp liền mạch với hành động contains.</li>
 
 					<li className="list-none">Chức năng: [which contains the report] - [Tính Câu][Adjective Clause] bổ nghĩa trực tiếp để giới hạn và xác định đặc điểm rõ ràng cho [Danh Cụm][Noun Phrase] the file.</li>
 			
@@ -603,7 +603,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 
 					<li className="list-none">Khối tổng thể [at the moment {'{when the update completed}'}] là một [Tầng Giới Cụm][Tiered Prepositional Phrase] bắt đầu bằng [Giới Cơ][Prepositional Base] at ôm lấy cấu trúc phức hợp tầng dưới nhằm định vị [Thời] gian.</li>
 
-					<li className="margin-bottom-20 list-none">Khối nhỏ bên trong {'{when the update completed}'} là một [Liên Câu][Conjunctional Base] chứa [Liên Cơ][Conjunctional Base] when liên kết một câu con hoàn chỉnh có chủ vị riêng.</li>
+					<li className="margin-bottom-20 list-none">Khối nhỏ bên trong {'{when the update completed}'} là một [Liên Câu][Conjunctional Clause] chứa [Liên Cơ][Conjunctional Base] when liên kết một câu con hoàn chỉnh có chủ vị riêng.</li>
 
 					<li className="list-none">Chức năng:</li>
 
@@ -635,7 +635,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 					<li>We will pause development [because the client requested alterations].</li>
 					<li className="margin-bottom-20 list-none">Chúng tôi sẽ tạm dừng phát triển [bởi vì khách hàng yêu cầu những thay đổi].</li>
 
-					<li className="list-none">Hình thái: [because the client requested alterations] - [Liên Câu][Conjunctional Base] chứa [Liên Cơ][Conjunctional Base] because và một bộ khung [S]-[Head] hoàn chỉnh bên trong câu con được chia ở thì quá khứ.</li>
+					<li className="list-none">Hình thái: [because the client requested alterations] - [Liên Câu][Conjunctional Clause] chứa [Liên Cơ][Conjunctional Base] because và một bộ khung [S]-[Head] hoàn chỉnh bên trong câu con được chia ở thì quá khứ.</li>
 
 					<li className="list-none">Chức năng: [because the client requested alterations] - [Trạng Câu][Adverb Clause] bổ nghĩa cho hành động chính của bộ nguồn [Ý-Thái][Soft-Modal] hay [Áp-Thái Động Cơ][Assertive-Modal Verb Base] will pause, mở rộng bối cảnh nguyên nhân dẫn đến quyết định dừng lại.</li>
 					
@@ -721,7 +721,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 					<li>Directors approve [that the department increases the budget].</li>
 					<li className="margin-bottom-20 list-none">Các giám đốc phê duyệt [rằng phòng ban sẽ tăng ngân sách].</li>
 			
-					<li className="list-none">Hình thái: [that the department increases the budget] - [Liên Câu][Conjunctional Base] bắt đầu bằng [Liên Cơ][Conjunctional Base] that bao bọc lấy một kết cấu câu hoàn chỉnh có chủ vị phân định rõ ràng.</li>
+					<li className="list-none">Hình thái: [that the department increases the budget] - [Liên Câu][Conjunctional Clause] bắt đầu bằng [Liên Cơ][Conjunctional Base] that bao bọc lấy một kết cấu câu hoàn chỉnh có chủ vị phân định rõ ràng.</li>
 					
 					<li className="list-none">Chức năng: [that the department increases the budget] - [Danh Câu][Noun Clause] giữ nguyên vị trí chức năng [Danh Nhận][Noun Object] đứng sau approve nhưng cấu trúc hình thái được bung mở thành một câu con đầy đủ cấu trúc [S]-[Head] bên trong để chi tiết hóa thông tin.</li>
 			

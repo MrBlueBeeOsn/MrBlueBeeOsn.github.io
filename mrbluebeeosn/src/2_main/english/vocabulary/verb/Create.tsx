@@ -478,9 +478,9 @@ export default function Create(): React.JSX.Element {
 
 
 
-      <h4 className="margin-y-40">4. Phân hệ [Liên Câu][Conjunctional Base]</h4>
+      <h4 className="margin-y-40">4. Phân hệ [Liên Câu][Conjunctional Clause]</h4>
           
-      <h5 className="margin-y-30 text-indent-whole">4.1 Phân hệ [Liên Câu][Conjunctional Base]</h5>
+      <h5 className="margin-y-30 text-indent-whole">4.1 Phân hệ [Liên Câu][Conjunctional Clause]</h5>
 
       <p className="margin-top-20 text-indent-whole"><strong>4.1.1</strong> <strong>Hình thành chức năng</strong> [<strong>Danh Câu</strong>][<strong>Noun Clause</strong>]</p>
 

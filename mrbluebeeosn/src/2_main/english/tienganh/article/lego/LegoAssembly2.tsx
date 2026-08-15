@@ -66,7 +66,7 @@ export default function LegoAssembly2(): React.JSX.Element {
 			
 			<p className="margin-top-20">Dependent được tổ chức theo <strong>3 cấp độ</strong> (Cơ → Cụm → Câu) và <strong>3 chức năng</strong> (Danh – Tính – Trạng). Nguyên lý xuyên suốt: <strong>Hình thái trước</strong> – <strong>Chức năng sau</strong>.</p>
 
-			<p>Đầu tiên nhận diện Dependent là một [Rễ Động Cơ][Root Verb Base], [Động Cụm][Verb Phrase] hay [Liên Câu][Conjunctional Base]. Sau đó, dựa vào vị trí trong câu lớn, suy ra nó đang đảm nhận chức năng Danh, Tính hay Trạng.</p>
+			<p>Đầu tiên nhận diện Dependent là một [Rễ Động Cơ][Root Verb Base], [Động Cụm][Verb Phrase] hay [Liên Câu][Conjunctional Clause]. Sau đó, dựa vào vị trí trong câu lớn, suy ra nó đang đảm nhận chức năng Danh, Tính hay Trạng.</p>
 
 			<p>Khi đã thuần thục, bạn có thể <strong>viết lại câu</strong> (<strong>paraphrasing</strong>) chỉ bằng cách thay khối Dependent này bằng một khối Dependent khác <strong>cùng chức năng</strong> – giống như đổi một miếng Lego cùng hình dạng nhưng khác màu.</p>
 
@@ -116,7 +116,7 @@ export default function LegoAssembly2(): React.JSX.Element {
 					<li>I remember [what you told me].</li>
 					<li className="margin-bottom-20 list-none">Tôi nhớ [những gì bạn đã nói với tôi].</li>
 			
-					<li className="list-none">Hình thái: [what you told me] – [Liên Câu][Conjunctional Base] có you làm trung tâm và [Động Cơ] told</li>
+					<li className="list-none">Hình thái: [what you told me] – [Liên Câu][Conjunctional Clause] có you làm trung tâm và [Động Cơ] told</li>
 			
 					<li className="list-none">Chức năng: [what you told me] – [Danh Câu][Noun Clause] làm phần được remember tác động đến</li>
 			
@@ -163,7 +163,7 @@ export default function LegoAssembly2(): React.JSX.Element {
 					<li>The laptop [that I bought yesterday] is already broken.</li>
 					<li className="margin-bottom-20 list-none">Chiếc máy tính [mà tôi đã mua hôm qua] thì đã hỏng.</li>
 			
-					<li className="list-none">Hình thái: [that I bought yesterday] – [Liên Câu][Conjunctional Base] có I và [Động Cơ] bought</li>
+					<li className="list-none">Hình thái: [that I bought yesterday] – [Liên Câu][Conjunctional Clause] có I và [Động Cơ] bought</li>
 			
 					<li className="list-none">Chức năng: [that I bought yesterday] – [Tính Câu][Adjective Clause] bổ sung thông tin cho [Danh Cơ] The laptop</li>
 			
@@ -212,7 +212,7 @@ export default function LegoAssembly2(): React.JSX.Element {
 					<li>I will stay home [because it is raining].</li>
 					<li className="margin-bottom-20 list-none">Tôi sẽ ở nhà [bởi vì trời đang mưa].</li>
 			
-					<li className="list-none">Hình thái: [because it is raining] – [Liên Câu][Conjunctional Base] có it và [Động Cơ] is raining</li>
+					<li className="list-none">Hình thái: [because it is raining] – [Liên Câu][Conjunctional Clause] có it và [Động Cơ] is raining</li>
 			
 					<li className="list-none">Chức năng: [because it is raining] – [Trạng Câu][Adverb Clause] giải thích nguyên nhân cho hành động will stay home</li>
 			
@@ -233,7 +233,7 @@ export default function LegoAssembly2(): React.JSX.Element {
 					<li className="margin-bottom-20 list-none">Anh ấy [đã quên {'{rằng cô ấy cần tài liệu}'}].</li>
 			
 					<li className="list-none">Hình thái tổng thể: [forgot {'{that she needed the document}'}] – [Tầng Thời-Thuần Động Cụm][Tiered Tense-Bare Verb Phrase] tầng ngoài [Thời-Thuần Động Cơ][Tense-Bare Verb Base] forgot</li>
-					<li className="margin-bottom-20 list-none">Hình thái bên trong: {'{that she needed the document}'} – [Liên Câu][Conjunctional Base][Liên Câu][Conjunctional Base] tầng trong</li>
+					<li className="margin-bottom-20 list-none">Hình thái bên trong: {'{that she needed the document}'} – [Liên Câu][Conjunctional Clause][Liên Câu][Conjunctional Clause] tầng trong</li>
 
 					<li className="list-none">Chức năng của khối trong: {'{that she needed the document}'} – [Danh Câu][Noun Clause]</li>
 					<li className="list-none">Chức năng của khối ngoài: [forgot {'{that she needed the document}'}] – [Danh Cụm][Noun Phrase] toàn bộ là khối mở rộng sau He</li>
@@ -270,7 +270,7 @@ export default function LegoAssembly2(): React.JSX.Element {
 					<li>She wants [______].</li>
 					<li className="margin-bottom-20 list-none">Cô ấy muốn [rằng cô ấy có thể nói tiếng Anh tốt].</li>
 			
-					<li className="list-none">[that she can speak English well] – [Liên Câu][Conjunctional Base] → chức năng [Danh Câu][Noun Clause]</li>
+					<li className="list-none">[that she can speak English well] – [Liên Câu][Conjunctional Clause] → chức năng [Danh Câu][Noun Clause]</li>
 			
 				</ul>
 			
@@ -300,7 +300,7 @@ export default function LegoAssembly2(): React.JSX.Element {
 					<li>The girl [______] is my friend.</li>
 					<li className="margin-bottom-20 list-none">Cô gái [người mà đang ngồi trên ghế dài] là bạn tôi.</li>
 			
-					<li className="list-none">[who is sitting on the bench] – [Liên Câu][Conjunctional Base] → chức năng [Tính Câu][Adjective Clause]</li>
+					<li className="list-none">[who is sitting on the bench] – [Liên Câu][Conjunctional Clause] → chức năng [Tính Câu][Adjective Clause]</li>
 			
 				</ul>
 			
@@ -327,7 +327,7 @@ export default function LegoAssembly2(): React.JSX.Element {
 					<li>He works hard [______].</li>
 					<li className="margin-bottom-20 list-none">Anh ấy làm việc chăm chỉ [để mà anh ấy có thể kiếm thêm tiền].</li>
 			
-					<li className="list-none">[so that he can earn more money] – [Liên Câu][Conjunctional Base] → chức năng [Trạng Câu][Adverb Clause]</li>
+					<li className="list-none">[so that he can earn more money] – [Liên Câu][Conjunctional Clause] → chức năng [Trạng Câu][Adverb Clause]</li>
 			
 				</ul>
 

@@ -396,7 +396,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 					<li>The proposal [which is under review] is on my desk.</li>
 					<li className="margin-bottom-20 list-none">Bản đề xuất [cái đang được xem xét] thì nằm trên bàn của tôi.</li>
 			
-					<li className="list-none">Hình thái: [which governs market regulations] - [Liên Câu][Conjunctional Base] mở đầu bằng [Liên Cơ][Conjunctional Base] "which" nối tiếp chuỗi hành động chia thời.</li>
+					<li className="list-none">Hình thái: [which governs market regulations] - [Liên Câu][Conjunctional Clause] mở đầu bằng [Liên Cơ][Conjunctional Base] "which" nối tiếp chuỗi hành động chia thời.</li>
 			
 					<li className="list-none">Chức năng: [which governs market regulations] - [Tính Câu][Adjective Clause] định danh bản chất chức năng của "framework".</li>
 			
@@ -437,7 +437,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 				
 						<li className="list-none">Tầng 1: [mastering core theories {'{which are required for advanced placement}'}] - [Tầng Tiếp Động Cụm][Tiered Progressive Verb Phrase] mở rộng từ [Tiếp Động Cơ][Progressive Verb Base] "mastering".</li>
 
-						<li className="list-none">Tầng 2: {'{which are required for advanced placement}'} - [Liên Câu][Conjunctional Base] lồng ghép bên trong để phân tách chi tiết.</li>
+						<li className="list-none">Tầng 2: {'{which are required for advanced placement}'} - [Liên Câu][Conjunctional Clause] lồng ghép bên trong để phân tách chi tiết.</li>
 				
 					</ul>
 
@@ -468,7 +468,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 				
 						<li className="list-none">Tầng 1: [to deploy automated systems {'{which optimize workflow}'}] - [Tầng Hạt Thuần Động Cụm][Tiered Particle Bare Verb Phrase] bắt đầu bằng "to".</li>
 
-						<li className="list-none">Tầng 2: {'{which optimize workflow}'} - [Liên Câu][Conjunctional Base] lồng sâu bên trong.</li>
+						<li className="list-none">Tầng 2: {'{which optimize workflow}'} - [Liên Câu][Conjunctional Clause] lồng sâu bên trong.</li>
 				
 					</ul>
 
@@ -499,7 +499,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 				
 						<li className="list-none">Tầng 1: [of {'{what they investigated}'}] - [Tầng Giới Cụm][Tiered Prepositional Phrase] vận hành như bộ quét nội dung tổng thể, bắt đầu bằng [Giới Cơ][Prepositional Base] "of".</li>
 
-						<li className="list-none">Tầng 2: {'{what they investigated}'} - [Liên Câu][Conjunctional Base] kết hợp [Liên Cơ][Conjunctional Base] "what" tạo nên lõi thông tin.</li>
+						<li className="list-none">Tầng 2: {'{what they investigated}'} - [Liên Câu][Conjunctional Clause] kết hợp [Liên Cơ][Conjunctional Base] "what" tạo nên lõi thông tin.</li>
 				
 					</ul>
 
@@ -530,7 +530,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 				
 						<li className="list-none">Tầng 1: [due to market fluctuations {'{which affected production}'}] - [Tầng Phức Giới Cụm][Tiered Complex Prepositional Phrase] bắt đầu bằng tổ hợp phức hợp "due to".</li>
 
-						<li className="list-none">Tầng 2: {'{which affected production}'} - [Liên Câu][Conjunctional Base] tích hợp bổ trợ tầng sâu.</li>
+						<li className="list-none">Tầng 2: {'{which affected production}'} - [Liên Câu][Conjunctional Clause] tích hợp bổ trợ tầng sâu.</li>
 				
 					</ul>
 
@@ -605,7 +605,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 					<li>The man [who is standing there] is my boss.</li>
 					<li className="margin-bottom-20 list-none">Người đàn ông [người mà đang đứng đó] là sếp tôi.</li>
 			
-					<li className="list-none">Hình thái: [who is standing there] - [Liên Câu][Conjunctional Base] "who" kết hợp [Thời Tiếp Động Cơ][Tense Progressive Verb Base] "is standing".</li>
+					<li className="list-none">Hình thái: [who is standing there] - [Liên Câu][Conjunctional Clause] "who" kết hợp [Thời Tiếp Động Cơ][Tense Progressive Verb Base] "is standing".</li>
 			
 					<li className="list-none">Chức năng: [who is standing there] - [Tính Câu][Adjective Clause] định danh chính xác đối tượng thông qua hành động cụ thể đang diễn ra.</li>
 			
@@ -621,7 +621,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 					<li>The policy [which is effective] will be applied.</li>
 					<li className="margin-bottom-20 list-none">Chính sách [cái mà hiệu quả] sẽ được áp dụng.</li>
 			
-					<li className="list-none">Hình thái: [which is effective] - [Liên Câu][Conjunctional Base] bắt đầu bằng [Liên Cơ][Conjunctional Base] "which" kết hợp [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "is" và [Diện Tính Cơ][Modified Adjective Base] "effective".</li>
+					<li className="list-none">Hình thái: [which is effective] - [Liên Câu][Conjunctional Clause] bắt đầu bằng [Liên Cơ][Conjunctional Base] "which" kết hợp [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "is" và [Diện Tính Cơ][Modified Adjective Base] "effective".</li>
 			
 					<li className="list-none">Chức năng: [which is effective] - [Tính Câu][Adjective Clause] vạch rõ bản chất định danh cho đối tượng [Danh Cơ][Noun Base].</li>
 			

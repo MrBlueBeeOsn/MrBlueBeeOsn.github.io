@@ -360,7 +360,7 @@ export default function SV1(): React.JSX.Element {
 			
 			
 
-			<h4 className="margin-y-40">4. Hình thái [Liên Câu][Conjunctional Base]</h4>
+			<h4 className="margin-y-40">4. Hình thái [Liên Câu][Conjunctional Clause]</h4>
 
 			<p className="text-indent-whole">Đơn vị hành động phức cao cấp, chứa một cấu trúc [Câu][Clause] hoàn chỉnh ở bên trong có chứa hệ trục [Danh Chủ][Noun Subject] - [Thời-Thuần Động Cơ][Tense-Bare Verb Base].</p>
 
@@ -370,7 +370,7 @@ export default function SV1(): React.JSX.Element {
 					<li>[What you said] surprised me.</li>
 					<li className="margin-bottom-20 list-none">[Những gì bạn đã nói] đã làm tôi ngạc nhiên.</li>
 			
-					<li className="list-none">Hình thái: [What you said] - [Liên Câu][Conjunctional Base] tạo nên khối hành động phức có chứa hệ trục [Danh Chủ][Noun Subject] "you" và [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "said", bắt đầu bằng [Liên Cơ][Conjunctional Base] "what".</li>
+					<li className="list-none">Hình thái: [What you said] - [Liên Câu][Conjunctional Clause] tạo nên khối hành động phức có chứa hệ trục [Danh Chủ][Noun Subject] "you" và [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "said", bắt đầu bằng [Liên Cơ][Conjunctional Base] "what".</li>
 			
 					<li className="margin-bottom-20 list-none">Chức năng: [What you said] - [Danh Câu][Noun Clause] đảm nhận nhiệm vụ của một khối đối tượng đứng trước [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "surprised" để làm [Danh Chủ][Noun Subject] điều phối hành động cho toàn bộ [Câu Lớn][Sentence].</li>
 			
@@ -381,7 +381,7 @@ export default function SV1(): React.JSX.Element {
 					<li>Everyone knows [that water boils at 100 degrees].</li>
 					<li className="margin-bottom-20 list-none">Mọi người đều biết [rằng nước sôi ở 100 độ].</li>
 			
-					<li className="list-none">Hình thái: [that water boils at 100 degrees] - [Liên Câu][Conjunctional Base] tạo nên khối hành động phức có chứa hệ trục [Danh Chủ][Noun Subject] "water" và [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "boils", bắt đầu bằng [Liên Cơ][Conjunctional Base] "that".</li>
+					<li className="list-none">Hình thái: [that water boils at 100 degrees] - [Liên Câu][Conjunctional Clause] tạo nên khối hành động phức có chứa hệ trục [Danh Chủ][Noun Subject] "water" và [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "boils", bắt đầu bằng [Liên Cơ][Conjunctional Base] "that".</li>
 			
 					<li className="margin-bottom-20 list-none">Chức năng: [that water boils at 100 degrees] - [Danh Câu][Noun Clause] đảm nhận nhiệm vụ của một khối đối tượng đứng sau [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "knows" để làm [Danh Nhận][Noun Object] dưới sự điều phối của nó.</li>
 			
@@ -393,7 +393,7 @@ export default function SV1(): React.JSX.Element {
 					<li>The laptop [which I bought last week] works perfectly.</li>
 					<li className="margin-bottom-20 list-none">Chiếc máy tính xách tay [mà tôi mua tuần trước] hoạt động hoàn hảo.</li>
 			
-					<li className="list-none">Hình thái: [which I bought last week] - [Liên Câu][Conjunctional Base] định hình khối hành động phức có chứa hệ trục [Danh Chủ][Noun Subject] "I" và [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "bought", bắt đầu bằng [Liên Cơ][Conjunctional Base] "which".</li>
+					<li className="list-none">Hình thái: [which I bought last week] - [Liên Câu][Conjunctional Clause] định hình khối hành động phức có chứa hệ trục [Danh Chủ][Noun Subject] "I" và [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "bought", bắt đầu bằng [Liên Cơ][Conjunctional Base] "which".</li>
 			
 					<li className="margin-bottom-20 list-none">Chức năng: [which I bought last week] - [Tính Câu][Adjective Clause] thực hiện nhiệm vụ đứng sau định danh và mô tả đặc điểm riêng cho [Danh Cơ][Noun Base] laptop.</li>
 			
@@ -405,7 +405,7 @@ export default function SV1(): React.JSX.Element {
 					<li>We cancelled the picnic [because it rained heavily].</li>
 					<li className="margin-bottom-20 list-none">Chúng tôi đã hủy buổi dã ngoại [vì trời mưa to].</li>
 			
-					<li className="list-none">Hình thái: [because it rained heavily] - [Liên Câu][Conjunctional Base] thể hiện khối hành động phức có chứa hệ trục [Danh Chủ][Noun Subject] "it" và [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "rained", bắt đầu bằng [Liên Cơ][Conjunctional Base] "because".</li>
+					<li className="list-none">Hình thái: [because it rained heavily] - [Liên Câu][Conjunctional Clause] thể hiện khối hành động phức có chứa hệ trục [Danh Chủ][Noun Subject] "it" và [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "rained", bắt đầu bằng [Liên Cơ][Conjunctional Base] "because".</li>
 			
 					<li className="list-none">Chức năng: [because it rained heavily] - [Trạng Câu][Adverb Clause] chịu trách nhiệm cung cấp hoàn cảnh nguyên nhân cho toàn bộ hành động hủy bỏ trước đó.</li>
 			
@@ -495,13 +495,13 @@ export default function SV1(): React.JSX.Element {
 					
 					<li><strong>Tầng 3</strong> &lt;&gt;:</li>
 
-					<li className="list-none">Hình thái lớp trong cùng &lt;&gt;: &lt;what is hidden&gt; là một [Liên Câu][Conjunctional Base] bắt đầu bằng [Liên Cơ][Conjunctional Base] what.</li>
+					<li className="list-none">Hình thái lớp trong cùng &lt;&gt;: &lt;what is hidden&gt; là một [Liên Câu][Conjunctional Clause] bắt đầu bằng [Liên Cơ][Conjunctional Base] what.</li>
 
 					<li className="margin-bottom-20 list-none">Chức năng lớp trong cùng &lt;&gt;: &lt;what is hidden&gt; đóng vai trò là một [Danh Câu][Noun Clause] làm điểm tựa [Danh Nhận][Noun Object] dưới sự điều phối của hành động mở opens.</li>
 
 					<li><strong>Tầng 2</strong> {'{}'}:</li>
 
-					<li className="list-none">Hình thái lớp trung gian {'{}'}: {'{which opens <what is hidden>}'} là một [Liên Câu][Conjunctional Base] bắt đầu bằng [Liên Cơ][Conjunctional Base] which.</li>
+					<li className="list-none">Hình thái lớp trung gian {'{}'}: {'{which opens <what is hidden>}'} là một [Liên Câu][Conjunctional Clause] bắt đầu bằng [Liên Cơ][Conjunctional Base] which.</li>
 
 					<li className="margin-bottom-20 list-none">Chức năng lớp trung gian {'{}'}: {'{which opens <what is hidden>}'} đóng vai trò là một [Tính Câu][Adjective Clause] neo ngay sau [Danh Cơ][Noun Base] key để bổ nghĩa và định danh trực tiếp cho chiếc chìa khóa đó.</li>
 
@@ -535,7 +535,7 @@ export default function SV1(): React.JSX.Element {
 
 					<li>Hình thái:</li>
 
-					<li className="list-none">Tầng trong: Khối lồng bên trong {'{how the engine works}'} là một [Liên Câu][Conjunctional Base] vì chứa đầy đủ hệ trục [Danh Chủ][Noun Subject] "the engine" và [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "works", bắt đầu bằng [Liên Cơ][Conjunctional Base] how.</li>
+					<li className="list-none">Tầng trong: Khối lồng bên trong {'{how the engine works}'} là một [Liên Câu][Conjunctional Clause] vì chứa đầy đủ hệ trục [Danh Chủ][Noun Subject] "the engine" và [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "works", bắt đầu bằng [Liên Cơ][Conjunctional Base] how.</li>
 
 					<li className="margin-bottom-20 list-none">Tầng ngoài: Khối tổng thể bao ngoài [Discovering {'{how the engine works}'}] là một khối [Tầng Tiếp Động Cụm][Tiered Progressive Verb Phrase] bắt đầu bằng hành động thực thi [Tiếp Động Cơ][Progressive Verb Base] dạng V-ing Discovering.</li>
 			
@@ -557,7 +557,7 @@ export default function SV1(): React.JSX.Element {
 
 					<li>Hình thái:</li>
 
-					<li className="list-none">Tầng trong: Khối lồng bên trong {'{what they had discovered}'} là một [Liên Câu][Conjunctional Base] chứa hệ trục [Danh Chủ][Noun Subject] "they" và [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "had discovered", bắt đầu bằng [Liên Cơ][Conjunctional Base] what.</li>
+					<li className="list-none">Tầng trong: Khối lồng bên trong {'{what they had discovered}'} là một [Liên Câu][Conjunctional Clause] chứa hệ trục [Danh Chủ][Noun Subject] "they" và [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "had discovered", bắt đầu bằng [Liên Cơ][Conjunctional Base] what.</li>
 
 					<li className="margin-bottom-20 list-none">Tầng ngoài: Khối tổng thể bao ngoài [discussing {'{what they had discovered}'}] là một khối [Tầng Tiếp Động Cụm][Tiered Progressive Verb Phrase] bắt đầu bằng [Tiếp Động Cơ][Progressive Verb Base] discussing.</li>
 			
@@ -582,7 +582,7 @@ export default function SV1(): React.JSX.Element {
 
 					<li>Hình thái:</li>
 
-					<li className="list-none">Tầng trong: Khối lồng bên trong {'{how she succeeded}'} là một [Liên Câu][Conjunctional Base] có chứa hệ trục [Danh Chủ][Noun Subject] "she" và [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "succeeded", bắt đầu bằng [Liên Cơ][Conjunctional Base] how.</li>
+					<li className="list-none">Tầng trong: Khối lồng bên trong {'{how she succeeded}'} là một [Liên Câu][Conjunctional Clause] có chứa hệ trục [Danh Chủ][Noun Subject] "she" và [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "succeeded", bắt đầu bằng [Liên Cơ][Conjunctional Base] how.</li>
 
 					<li className="margin-bottom-20 list-none">Tầng ngoài: Khối tổng thể bao ngoài [about {'{how she succeeded}'}] là một khối [Tầng Giới Cụm][Tiered Prepositional Phrase] bắt đầu bằng [Giới Cơ][Prepositional Base] about.</li>
 			
@@ -607,7 +607,7 @@ export default function SV1(): React.JSX.Element {
 
 					<li>Hình thái:</li>
 
-					<li className="list-none">Tầng trong: Khối lồng bên trong {'{than we expected}'} là một [Liên Câu][Conjunctional Base] có chứa hệ trục [Danh Chủ][Noun Subject] "we" và [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "expected", được bắt đầu bằng [Liên Cơ][Conjunctional Base] than.</li>
+					<li className="list-none">Tầng trong: Khối lồng bên trong {'{than we expected}'} là một [Liên Câu][Conjunctional Clause] có chứa hệ trục [Danh Chủ][Noun Subject] "we" và [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "expected", được bắt đầu bằng [Liên Cơ][Conjunctional Base] than.</li>
 
 					<li className="margin-bottom-20 list-none">Tầng ngoài: Khối tổng thể bao ngoài [slower {'{than we expected}'}] là một khối [Tầng Diện Trạng Cụm][Tiered Modified Adverb Phrase] hình thành từ khối [Rễ Tính Cơ][Root Adjective Base] nguyên bản slow kết hợp hậu tố -er.</li>
 			
@@ -627,7 +627,7 @@ export default function SV1(): React.JSX.Element {
 
 			<p>Khi tư duy hình khối [Cơ][Base] - [Cụm][Phrase] - [Câu][Clause] đã trở thành bản năng, kỹ thuật viết lại câu (paraphrasing) không còn là việc đổi yếu tố cấu trúc một cách khiên cưỡng. Việc làm mới câu văn giờ đây thực chất là một bài toán hình học sắp xếp module: Thay đổi Cấp Độ cấu trúc nhưng giữ nguyên vẹn Chức Năng ở cùng một vị trí neo.</p>
 
-			<p>Chỉ cần xác định vị trí đó đang đảm nhận chức năng gì thông qua việc phối hợp cùng ma trận [Danh] - [Tính] - [Trạng], người học có toàn quyền nhấc một khối [Cơ][Base] ra và đặt một khối [Cụm][Phrase] như [Động Cụm][Verb Phrase], [Giới Cụm][Prepositional Phrase] hoặc một khối [Câu][Clause] như [Liên Câu][Conjunctional Base] vào để thế chỗ. Cấu trúc tổng thể của [Câu Lớn][Sentence] hoàn toàn không bị phá vỡ hay xáo trộn.</p>
+			<p>Chỉ cần xác định vị trí đó đang đảm nhận chức năng gì thông qua việc phối hợp cùng ma trận [Danh] - [Tính] - [Trạng], người học có toàn quyền nhấc một khối [Cơ][Base] ra và đặt một khối [Cụm][Phrase] như [Động Cụm][Verb Phrase], [Giới Cụm][Prepositional Phrase] hoặc một khối [Câu][Clause] như [Liên Câu][Conjunctional Clause] vào để thế chỗ. Cấu trúc tổng thể của [Câu Lớn][Sentence] hoàn toàn không bị phá vỡ hay xáo trộn.</p>
 
 			<p>Kỹ thuật dịch chuyển khối cùng chức năng này giúp người học tự do thực hiện việc chuyển đổi mượt mà giữa [Động][Verb], [Giới][Preposition] và [Câu][Clause] theo ý muốn. Hãy xem cách chúng ta biến đổi linh hoạt một thông điệp thông qua việc hoán đổi các khối cấu trúc cùng giữ Chức năng [Trạng]:</p>
 
@@ -681,7 +681,7 @@ export default function SV1(): React.JSX.Element {
 					<li>We arrived [after the rain stopped].</li>
 					<li className="margin-bottom-20 list-none">Chúng tôi đã đến [sau khi cơn mưa tạnh].</li>
 			
-					<li className="list-none">Hình thái: [after the rain stopped] - [Liên Câu][Conjunctional Base] thể hiện khối hành động phức có chứa hệ trục [Danh Chủ][Noun Subject] "the rain" và [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "stopped", bắt đầu bằng [Liên Cơ][Conjunctional Base] "after".</li>
+					<li className="list-none">Hình thái: [after the rain stopped] - [Liên Câu][Conjunctional Clause] thể hiện khối hành động phức có chứa hệ trục [Danh Chủ][Noun Subject] "the rain" và [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "stopped", bắt đầu bằng [Liên Cơ][Conjunctional Base] "after".</li>
 
 					<li className="list-none">Chức năng: [after the rain stopped] - [Trạng Câu][Adverb Clause] gắn vào phía sau [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "arrived" chịu trách nhiệm cung cấp hoàn cảnh thời gian cho toàn bộ hành động phía trước.</li>
 			
@@ -725,7 +725,7 @@ export default function SV1(): React.JSX.Element {
 					<li>[What you know] is power.</li>
 					<li className="margin-bottom-20 list-none">[Những gì bạn biết] tạo nên sức mạnh.</li>
 			
-					<li className="list-none">Hình thái: [What you know] - [Liên Câu][Conjunctional Base] tạo nên khối hành động phức có chứa hệ trục [Danh Chủ][Noun Subject] "you" và [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "know", bắt đầu bằng [Liên Cơ][Conjunctional Base] "what".</li>
+					<li className="list-none">Hình thái: [What you know] - [Liên Câu][Conjunctional Clause] tạo nên khối hành động phức có chứa hệ trục [Danh Chủ][Noun Subject] "you" và [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "know", bắt đầu bằng [Liên Cơ][Conjunctional Base] "what".</li>
 
 					<li className="list-none">Chức năng: [What you know] - [Danh Câu][Noun Clause] đứng ở đầu câu tạo nên [Danh Chủ][Noun Subject] cho toàn câu.</li>
 			

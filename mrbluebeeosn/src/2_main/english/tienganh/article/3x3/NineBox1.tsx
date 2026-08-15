@@ -360,7 +360,7 @@ export default function NineBox1(): React.JSX.Element {
 					<li>[How the system encrypted the data] remains a secret.</li>
 					<li className="margin-bottom-20 list-none">[Cách hệ thống mã hóa dữ liệu] vẫn là một bí mật.</li>
 			
-					<li className="list-none">Hình thái: [How the system encrypted the data] – [Liên Câu][Conjunctional Base] chứa khối kết nối dẫn đường tường minh "How" kết hợp cùng một cấu trúc câu con xoay quanh [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "encrypted".</li>
+					<li className="list-none">Hình thái: [How the system encrypted the data] – [Liên Câu][Conjunctional Clause] chứa khối kết nối dẫn đường tường minh "How" kết hợp cùng một cấu trúc câu con xoay quanh [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "encrypted".</li>
 			
 					<li className="list-none">Chức năng: [How the system encrypted the data] – [Danh Câu][Noun Clause] đóng vai trò làm [Danh Chủ][Noun Subject] đứng trước [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "remains" chịu trách nhiệm thực thi câu lớn.</li>
 			
@@ -374,7 +374,7 @@ export default function NineBox1(): React.JSX.Element {
 					<li>The console verifies [that the background task failed].</li>
 					<li className="margin-bottom-20 list-none">Bảng điều khiển xác nhận [rằng tác vụ chạy nền đã thất bại].</li>
 			
-					<li className="list-none">Hình thái: [that the background task failed] – [Liên Câu][Conjunctional Base] chứa khối kết nối dẫn đường tường minh "that" kết hợp cùng một cấu trúc câu con xoay quanh [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "failed".</li>
+					<li className="list-none">Hình thái: [that the background task failed] – [Liên Câu][Conjunctional Clause] chứa khối kết nối dẫn đường tường minh "that" kết hợp cùng một cấu trúc câu con xoay quanh [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "failed".</li>
 			
 					<li className="list-none">Chức năng: [that the background task failed] – [Danh Câu][Noun Clause] hoạt động như một khối làm [Danh Nhận][Noun Object] dữ liệu đứng sau để làm rõ mục tiêu được xác nhận.</li>
 			
@@ -388,7 +388,7 @@ export default function NineBox1(): React.JSX.Element {
 					<li>The algorithm [which computes the encryption key] works fast.</li>
 					<li className="margin-bottom-20 list-none">Thuật toán [mà nó tính toán khóa mã hóa] hoạt động nhanh.</li>
 			
-					<li className="list-none">Hình thái: [which computes the encryption key] – [Liên Câu][Conjunctional Base] chứa khối kết nối định danh tường minh "which" kết hợp cùng một cấu trúc câu con xoay quanh [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "computes".</li>
+					<li className="list-none">Hình thái: [which computes the encryption key] – [Liên Câu][Conjunctional Clause] chứa khối kết nối định danh tường minh "which" kết hợp cùng một cấu trúc câu con xoay quanh [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "computes".</li>
 			
 					<li className="list-none">Chức năng: [which computes the encryption key] – [Tính Câu][Adjective Clause] đóng vai trò định danh thuộc tính để bổ nghĩa, chỉ rõ loại thuật toán nào cho khối đứng trước.</li>
 			
@@ -402,7 +402,7 @@ export default function NineBox1(): React.JSX.Element {
 					<li>The backup initiates [because the database space filled].</li>
 					<li className="margin-bottom-20 list-none">Việc sao lưu bắt đầu [bởi vì dung lượng cơ sở dữ liệu đã đầy].</li>
 			
-					<li className="list-none">Hình thái: [because the database space filled] – [Liên Câu][Conjunctional Base] chứa khối kết nối chỉ nguyên nhân "because" kết hợp cùng câu con xoay quanh [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "filled".</li>
+					<li className="list-none">Hình thái: [because the database space filled] – [Liên Câu][Conjunctional Clause] chứa khối kết nối chỉ nguyên nhân "because" kết hợp cùng câu con xoay quanh [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "filled".</li>
 			
 					<li className="list-none">Chức năng: [because the database space filled] – [Trạng Câu][Adverb Clause] bổ nghĩa bối cảnh nguyên nhân cho hành động bắt đầu của việc sao lưu.</li>
 			
@@ -511,7 +511,7 @@ export default function NineBox1(): React.JSX.Element {
 					<li>It requires deep technical knowledge [to understand {'{how the database handles the workload}'}].</li>
 					<li className="margin-bottom-20 list-none">Nó yêu cầu kiến thức kỹ thuật chuyên sâu [để hiểu {'{cách cơ sở dữ liệu xử lý khối lượng công việc}'}].</li>
 
-					<li className="margin-bottom-20 list-none">Hình thái: Khối tổng thể [to understand {'{how the database handles the workload}'}] - [Tầng Hạt Thuần Động Cụm][Tiered Particle Bare Verb Phrase] ở tầng ngoài bắt đầu bằng [Hạt Thuần Động Cơ][Particle Bare Verb Base] "to understand". Bên trong chứa bao gói {'{how the database handles the workload}'} - [Liên Câu][Conjunctional Base] ở tầng trong.</li>
+					<li className="margin-bottom-20 list-none">Hình thái: Khối tổng thể [to understand {'{how the database handles the workload}'}] - [Tầng Hạt Thuần Động Cụm][Tiered Particle Bare Verb Phrase] ở tầng ngoài bắt đầu bằng [Hạt Thuần Động Cơ][Particle Bare Verb Base] "to understand". Bên trong chứa bao gói {'{how the database handles the workload}'} - [Liên Câu][Conjunctional Clause] ở tầng trong.</li>
 			
 					<li className="list-none">Chức năng: Khối {'{how the database handles the workload}'} bên trong đóng vai trò làm [Danh Câu][Noun Clause] làm [Danh Nhận][Noun Object] chịu sự điều phối hành động trực tiếp từ [Hạt Thuần Động Cơ][Particle Bare Verb Base] "to understand", và toàn bộ khối tổng thể [to understand {'{how the database handles the workload}'}] vận hành với chức năng [<strong>Danh Cụm</strong>][<strong>Noun Phrase</strong>] đóng vai trò làm [Danh Chủ][Noun Subject] đứng sau [Thời-Thuần Động Cụm][Tense-Bare Verb Phrase] "requires deep technical knowledge" để bổ nghĩa cho [Giữ Chủ][Placeholder Subject] "It" chịu trách nhiệm thực thi câu lớn.</li>
 			
@@ -525,7 +525,7 @@ export default function NineBox1(): React.JSX.Element {
 					<li>The system administrator prefers [to beautify {'{what the legacy script outputs}'}].</li>
 					<li className="margin-bottom-20 list-none">Quản trị viên hệ thống thích [làm đẹp {'{những gì kịch bản cũ xuất ra}'}].</li>
 
-					<li className="margin-bottom-20 list-none">Hình thái: Khối tổng thể [to beautify {'{what the legacy script outputs}'}] - [Tầng Hạt Thuần Động Cụm][Tiered Particle Bare Verb Phrase] ở tầng ngoài bắt đầu bằng [Hạt Thuần Động Cơ][Particle Bare Verb Base] "to beautify". Bên trong chứa bao gói {'{what the legacy script outputs}'} - [Liên Câu][Conjunctional Base] ở tầng trong.</li>
+					<li className="margin-bottom-20 list-none">Hình thái: Khối tổng thể [to beautify {'{what the legacy script outputs}'}] - [Tầng Hạt Thuần Động Cụm][Tiered Particle Bare Verb Phrase] ở tầng ngoài bắt đầu bằng [Hạt Thuần Động Cơ][Particle Bare Verb Base] "to beautify". Bên trong chứa bao gói {'{what the legacy script outputs}'} - [Liên Câu][Conjunctional Clause] ở tầng trong.</li>
 			
 					<li className="list-none">Chức năng: Khối {'{what the legacy script outputs}'} bên trong đóng vai trò làm [Danh Câu][Noun Clause] làm [Danh Nhận][Noun Object] chịu sự điều phối hành động trực tiếp từ [Hạt Thuần Động Cơ][Particle Bare Verb Base] "to beautify", và toàn bộ khối tổng thể dữ liệu [to beautify {'{what the legacy script outputs}'}] vận hành với chức năng [<strong>Danh Cụm</strong>][<strong>Noun Phrase</strong>] đóng vai trò làm [Danh Nhận][Noun Object] đứng sau mục tiêu cốt lõi của hành động prefers.</li>
 			
@@ -540,7 +540,7 @@ export default function NineBox1(): React.JSX.Element {
 					<li>The source code [for {'{what the team deployed yesterday}'}] requires a security audit.</li>
 					<li className="margin-bottom-20 list-none">Mã nguồn [cho {'{những gì đội ngũ triển khai ngày hôm qua}'}] yêu cầu một cuộc kiểm toán bảo mật.</li>
 
-					<li className="margin-bottom-20 list-none">Hình thái: Khối tổng thể [for {'{what the team deployed yesterday}'}] - [Tầng Giới Cụm][Tiered Prepositional Phrase] ở tầng ngoài bắt đầu bằng [Giới Cơ][Prepositional Base] "for". Bên trong chứa bao gói {'{what the team deployed yesterday}'} - [Liên Câu][Conjunctional Base] ở tầng trong bắt đầu bằng [Liên Cơ][Conjunctional Base] "what".</li>
+					<li className="margin-bottom-20 list-none">Hình thái: Khối tổng thể [for {'{what the team deployed yesterday}'}] - [Tầng Giới Cụm][Tiered Prepositional Phrase] ở tầng ngoài bắt đầu bằng [Giới Cơ][Prepositional Base] "for". Bên trong chứa bao gói {'{what the team deployed yesterday}'} - [Liên Câu][Conjunctional Clause] ở tầng trong bắt đầu bằng [Liên Cơ][Conjunctional Base] "what".</li>
 			
 					<li className="list-none">Chức năng: Khối {'{what the team deployed yesterday}'} bên trong đóng vai trò làm [Danh Câu][Noun Clause] làm [Danh Nhận][Noun Object] chịu sự điều phối trực tiếp từ [Giới Cơ][Prepositional Base] đứng trước, và toàn bộ khối tổng thể [for {'{what the team deployed yesterday}'}] vận hành với chức năng [<strong>Tính Cụm</strong>][<strong>Adjective Phrase</strong>] nhằm mô tả thuộc tính định danh cho khối [Danh Cụm][Noun Phrase] "The source code" phía trước.</li>
 			
@@ -555,7 +555,7 @@ export default function NineBox1(): React.JSX.Element {
 					<li>The analyst reviews the ledger [at {'{where the system stores financial logs}'}].</li>
 					<li className="margin-bottom-20 list-none">Nhà phân tích kiểm tra sổ cái [tại {'{nơi mà hệ thống lưu trữ nhật ký tài chính}'}].</li>
 
-					<li className="margin-bottom-20 list-none">Hình thái: Khối tổng thể [at {'{where the system stores financial logs}'}] - [Tầng Giới Cụm][Tiered Prepositional Phrase] ở tầng ngoài bắt đầu bằng [Giới Cơ][Prepositional Base] "at". Bên trong chứa bao gói {'{where the system stores financial logs}'} - [Liên Câu][Conjunctional Base] ở tầng trong bắt đầu bằng [Liên Cơ][Conjunctional Base] "where".</li>
+					<li className="margin-bottom-20 list-none">Hình thái: Khối tổng thể [at {'{where the system stores financial logs}'}] - [Tầng Giới Cụm][Tiered Prepositional Phrase] ở tầng ngoài bắt đầu bằng [Giới Cơ][Prepositional Base] "at". Bên trong chứa bao gói {'{where the system stores financial logs}'} - [Liên Câu][Conjunctional Clause] ở tầng trong bắt đầu bằng [Liên Cơ][Conjunctional Base] "where".</li>
 			
 					<li className="list-none">Chức năng: Khối {'{where the system stores financial logs}'} bên trong đóng vai trò làm [Danh Câu][Noun Clause] làm [Danh Nhận][Noun Object] chịu sự điều phối trực tiếp từ [Giới Cơ][Prepositional Base] chỉ vị trí, và toàn bộ khối tổng thể [at {'{where the system stores financial logs}'}] vận hành với chức năng [<strong>Trạng Cụm</strong>][<strong>Adverb Phrase</strong>] nhằm bổ nghĩa bối cảnh không gian cho hành động kiểm tra sổ cái.</li>
 			
@@ -611,7 +611,7 @@ export default function NineBox1(): React.JSX.Element {
 					<li>[What the DevOps engineer updated this morning] satisfies the system demand.</li>
 					<li className="margin-bottom-20 list-none">[Những gì kỹ sư DevOps cập nhật sáng nay] thỏa mãn yêu cầu của hệ thống.</li>
 			
-					<li className="list-none">Hình thái: [What the DevOps engineer updated this morning] – [Liên Câu][Conjunctional Base] chứa cấu trúc kết nối tường minh "What" kết hợp cùng một cấu trúc câu con xoay quanh [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "updated".</li>
+					<li className="list-none">Hình thái: [What the DevOps engineer updated this morning] – [Liên Câu][Conjunctional Clause] chứa cấu trúc kết nối tường minh "What" kết hợp cùng một cấu trúc câu con xoay quanh [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "updated".</li>
 			
 					<li className="list-none">Chức năng: [What the DevOps engineer updated this morning] – [Danh Câu][Noun Clause] đóng vai trò làm [Danh Chủ][Noun Subject], còn "the system demand" đóng vai trò làm [Danh Khối][Noun Block] làm [Danh Nhận][Noun Object].</li>
 			
@@ -657,7 +657,7 @@ export default function NineBox1(): React.JSX.Element {
 					<li>We must replace this connection [which allows unauthorized user access].</li>
 					<li className="margin-bottom-20 list-none">Chúng ta phải thay thế kết nối [mà nó cho phép người dùng không được cấp quyền truy cập vào] này.</li>
 			
-					<li className="list-none">Hình thái: [which allows unauthorized user access] - [Liên Câu][Conjunctional Base] chứa cấu trúc kết nối tường minh "which" kết hợp cùng cấu trúc câu con xoay quanh [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "allows".</li>
+					<li className="list-none">Hình thái: [which allows unauthorized user access] - [Liên Câu][Conjunctional Clause] chứa cấu trúc kết nối tường minh "which" kết hợp cùng cấu trúc câu con xoay quanh [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "allows".</li>
 			
 					<li className="list-none">Chức năng: [which allows unauthorized user access] – [Tính Câu][Adjective Clause] đứng sau làm nhiệm vụ định danh thuộc tính cho [Diện Danh Cơ][Modified Noun Base] "connection" kết nối.</li>
 			
@@ -717,7 +717,7 @@ export default function NineBox1(): React.JSX.Element {
 					<li>The application syncs data [whenever the background microservice sends a signal].</li>
 					<li className="margin-bottom-20 list-none">Ứng dụng đồng bộ hóa dữ liệu [bất cứ khi nào dịch vụ nhỏ chạy nền gửi tín hiệu].</li>
 			
-					<li className="list-none">Hình thái: [whenever the background microservice sends a signal] - [Liên Câu][Conjunctional Base] chứa cấu trúc kết nối chỉ bối cảnh điều kiện [Thời] gian "whenever" kết hợp cùng cấu trúc câu con xoay quanh [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "sends".</li>
+					<li className="list-none">Hình thái: [whenever the background microservice sends a signal] - [Liên Câu][Conjunctional Clause] chứa cấu trúc kết nối chỉ bối cảnh điều kiện [Thời] gian "whenever" kết hợp cùng cấu trúc câu con xoay quanh [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "sends".</li>
 			
 					<li className="list-none">Chức năng: [whenever the background microservice sends a signal] – [Trạng Câu][Adverb Clause] bổ nghĩa bối cảnh điều kiện [Thời] gian cho hành động [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "syncs" đồng bộ hóa.</li>
 			

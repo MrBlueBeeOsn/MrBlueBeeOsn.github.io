@@ -74,7 +74,7 @@ export default function ThreeDC2(): React.ReactElement {
 					<li className="margin-bottom-20 list-none">Hình thái: [eat an apple] - [Thuần Động Cụm][Bare Verb Phrase] gồm [Động Cơ] [eat] và một tân thể [an apple], nhưng không có chủ thể riêng bên trong</li>
 			
 					<li>[<strong>that she sings well</strong>]</li>
-					<li className="list-none">Hình thái: [that she sings well] - [Liên Câu][Conjunctional Base] có cặp chủ thể [she] và hành động [sings] bên trong, nhưng không thể đứng độc lập thành câu hoàn chỉnh</li>
+					<li className="list-none">Hình thái: [that she sings well] - [Liên Câu][Conjunctional Clause] có cặp chủ thể [she] và hành động [sings] bên trong, nhưng không thể đứng độc lập thành câu hoàn chỉnh</li>
 			
 				</ul>
 
@@ -128,7 +128,7 @@ export default function ThreeDC2(): React.ReactElement {
 					<li>[______] upset me.</li>
 					<li className="margin-bottom-20 list-none">[Việc bạn quên sinh nhật tôi] làm tôi buồn.</li>
 			
-					<li className="list-none">Hình thái: [That you forgot my birthday] - [Liên Câu][Conjunctional Base] có cặp [you] và [forgot] bên trong</li>
+					<li className="list-none">Hình thái: [That you forgot my birthday] - [Liên Câu][Conjunctional Clause] có cặp [you] và [forgot] bên trong</li>
 			
 					<li className="list-none">Chức năng: [That you forgot my birthday] - [Danh Câu][Noun Clause] đứng đầu câu, là toàn bộ sự kiện gây ra tác động [upset me]</li>
 			
@@ -144,7 +144,7 @@ export default function ThreeDC2(): React.ReactElement {
 			
 					<li className="list-none">Hình thái khối ngoài: [ heard {'{ ... }'} ] - [Tầng Động Cụm][Tiered Verb Phrase] gồm [Động Cơ] [heard] và một khối bên trong</li>
 			
-					<li className="margin-bottom-20 list-none">Hình thái khối trong: {'{ that she had won }'} - [Liên Câu][Conjunctional Base] có cặp [she] và [had won]</li>
+					<li className="margin-bottom-20 list-none">Hình thái khối trong: {'{ that she had won }'} - [Liên Câu][Conjunctional Clause] có cặp [she] và [had won]</li>
 
 					<li className="list-none">Chức năng khối trong: {'{ that she had won }'} - [Danh Câu][Noun Clause] là nội dung của hành động nghe</li>
 			
@@ -195,7 +195,7 @@ export default function ThreeDC2(): React.ReactElement {
 					<li>The laptop [______] still works.</li>
 					<li className="margin-bottom-20 list-none">Chiếc laptop [mà tôi làm rơi hôm qua] vẫn chạy.</li>
 			
-					<li className="list-none">Hình thái: [which I dropped yesterday] - [Liên Câu][Conjunctional Base] có cặp [I] và [dropped]</li>
+					<li className="list-none">Hình thái: [which I dropped yesterday] - [Liên Câu][Conjunctional Clause] có cặp [I] và [dropped]</li>
 			
 					<li className="list-none">Chức năng: [which I dropped yesterday] - [Tính Câu][Adjective Clause] bổ nghĩa cho [Danh Cơ] [The laptop], giúp phân biệt nó với các laptop khác</li>
 			
@@ -244,7 +244,7 @@ export default function ThreeDC2(): React.ReactElement {
 					<li>[______], you will improve.</li>
 					<li className="margin-bottom-20 list-none">[Nếu bạn học đều đặn], bạn sẽ tiến bộ.</li>
 			
-					<li className="list-none">Hình thái: [If you study regularly] - [Liên Câu][Conjunctional Base] có cặp [you] và [study]</li>
+					<li className="list-none">Hình thái: [If you study regularly] - [Liên Câu][Conjunctional Clause] có cặp [you] và [study]</li>
 			
 					<li className="list-none">Chức năng: [If you study regularly] - [Trạng Câu][Adverb Clause] bổ nghĩa cho nhóm từ chính [you will improve], chỉ điều kiện cần để xảy ra kết quả</li>
 			
@@ -295,7 +295,7 @@ export default function ThreeDC2(): React.ReactElement {
 					<li>[______] is relaxing.</li>
 					<li className="margin-bottom-20 list-none">[Việc bạn chạy mỗi sáng] thì thư giãn.</li>
 			
-					<li className="list-none">Hình thái: [That you run every morning] - [Liên Câu][Conjunctional Base] có cặp [you] và [run]</li>
+					<li className="list-none">Hình thái: [That you run every morning] - [Liên Câu][Conjunctional Clause] có cặp [you] và [run]</li>
 			
 					<li className="list-none">Chức năng: [That you run every morning] - [Danh Câu][Noun Clause] cùng chức năng chủ thể</li>
 			
@@ -343,7 +343,7 @@ export default function ThreeDC2(): React.ReactElement {
 					<li>I like the bread [______].</li>
 					<li className="margin-bottom-20 list-none">Tôi thích ổ bánh mì [mà bà tôi đã làm].</li>
 			
-					<li className="list-none">Hình thái: [which my grandmother made] - [Liên Câu][Conjunctional Base] có cặp [my grandmother] và [made]</li>
+					<li className="list-none">Hình thái: [which my grandmother made] - [Liên Câu][Conjunctional Clause] có cặp [my grandmother] và [made]</li>
 			
 					<li className="list-none">Chức năng: [which my grandmother made] - [Tính Câu][Adjective Clause] bổ nghĩa cho [Danh Cơ] [the bread]</li>
 			
@@ -360,7 +360,7 @@ export default function ThreeDC2(): React.ReactElement {
 					<li>She passed the exam [______].</li>
 					<li className="margin-bottom-20 list-none">Cô ấy đỗ kỳ thi [vì cô ấy học chăm chỉ].</li>
 			
-					<li className="list-none">Hình thái: [because she studied hard] - [Liên Câu][Conjunctional Base] có cặp [she] và [studied]</li>
+					<li className="list-none">Hình thái: [because she studied hard] - [Liên Câu][Conjunctional Clause] có cặp [she] và [studied]</li>
 			
 					<li className="list-none">Chức năng: [because she studied hard] - [Trạng Câu][Adverb Clause] chỉ lý do, bổ nghĩa cho [Động Cụm] [passed the exam]</li>
 			
