@@ -40,7 +40,7 @@ export default function Slowly2(): React.JSX.Element {
             
             <span className="highlight-255-padding-3-6">
               
-              [SLOWly][SLOW-ly] /ˈsləʊli/ + /
+              [SLOWly][SLOW ly] /ˈsləʊli/ + /
               
               <Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">slōwly</Link>/ 
               

@@ -38,7 +38,7 @@ export default function Openly1(): React.JSX.Element {
 
             <li>
               <span className="highlight-255-padding-3-6">
-                [Openly][O-pen-ly] /ˈoʊpənli/ + /<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">ōpe̛nly</Link>/
+                [Openly][O pen ly] /ˈoʊpənli/ + /<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">ōpe̛nly</Link>/
                 &nbsp;⬤•• (3x)
               </span>
             </li>

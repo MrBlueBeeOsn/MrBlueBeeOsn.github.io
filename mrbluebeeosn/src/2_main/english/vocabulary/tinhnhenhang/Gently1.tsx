@@ -38,7 +38,7 @@ export default function Gently1(): React.JSX.Element {
 
             <li>
               <span className="highlight-255-padding-3-6">
-                [GEntly][GEn-tly] /ˈdʒɛntli/ + /<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">gently</Link>/
+                [GEntly][GEn tly] /ˈdʒɛntli/ + /<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">gently</Link>/
                 &nbsp;⬤• (2x)
               </span>
             </li>

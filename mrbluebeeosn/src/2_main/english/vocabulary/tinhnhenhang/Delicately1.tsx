@@ -38,7 +38,7 @@ export default function Delicately1(): React.JSX.Element {
 
             <li>
               <span className="highlight-255-padding-3-6">
-                [DELicately][DEL-i-cate-ly] /ˈdɛlɪkətli/ + /<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">delica̛tely</Link>/
+                [DELicately][DEL i cate ly] /ˈdɛlɪkətli/ + /<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">delica̛tely</Link>/
                 &nbsp;⬤••• (4x)
               </span>
             </li>

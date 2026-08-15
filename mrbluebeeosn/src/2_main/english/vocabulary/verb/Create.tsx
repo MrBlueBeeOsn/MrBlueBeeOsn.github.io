@@ -32,7 +32,7 @@ export default function Create(): React.JSX.Element {
 
           <p>[create] là một [Rễ Động Cơ][Root Verb Base] có nghĩa là tạo ra, sáng tạo, hoặc làm cho một điều gì đó xuất hiện.</p>
 
-          <p className="margin-top-20">Phát âm: create [creATE][cre-ATE] /kriːˈeɪt/</p>
+          <p className="margin-top-20">Phát âm: create [creATE][cre ATE] /kriːˈeɪt/</p>
 
             <ul className="list-square">
           
@@ -158,7 +158,7 @@ export default function Create(): React.JSX.Element {
       
       <p className="margin-top-20 text-indent-whole"><strong>1.2</strong> <strong>Hình thành chức năng</strong> [<strong>Tính Cơ</strong>][<strong>Adjective Base</strong>]</p>
 
-      <p className="margin-top-20 text-indent-whole">Ví dụ 2: creative [creAtive][cre-A-tive] /kriːˈeɪtɪv/</p>
+      <p className="margin-top-20 text-indent-whole">Ví dụ 2: creative [creAtive][cre A tive] /kriːˈeɪtɪv/</p>
       
         <ul className="list-square">
       
@@ -174,7 +174,7 @@ export default function Create(): React.JSX.Element {
       
       <p className="margin-top-20 text-indent-whole"><strong>1.3</strong> <strong>Hình thành chức năng</strong> [<strong>Trạng Cơ</strong>][<strong>Adverb Base</strong>]</p>
 
-      <p className="margin-top-20 text-indent-whole">Ví dụ 3: creatively [creAtively][cre-A-tive-ly] /kriːˈeɪtɪvli/</p>
+      <p className="margin-top-20 text-indent-whole">Ví dụ 3: creatively [creAtively][cre A tive ly] /kriːˈeɪtɪvli/</p>
       
         <ul className="list-square">
       

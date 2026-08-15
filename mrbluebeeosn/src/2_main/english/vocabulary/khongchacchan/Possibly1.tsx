@@ -38,7 +38,7 @@ export default function Possibly1(): React.JSX.Element {
 
             <li>
               <span className="highlight-255-padding-3-6">
-                [POSsibly][POS-si-bly] /ˈpɒsəbli/ + /<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">possi̛bly</Link>/
+                [POSsibly][POS si bly] /ˈpɒsəbli/ + /<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">possi̛bly</Link>/
                 &nbsp;⬤•• (3x)
               </span>
             </li>

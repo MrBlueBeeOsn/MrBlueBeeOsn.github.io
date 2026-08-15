@@ -40,7 +40,7 @@ export default function (): React.JSX.Element {
             
             <span className="highlight-255-padding-3-6">
               
-              [GENuinely][GEN-u-ine-ly] /ˈdʒenjuɪnli/ + /
+              [GENuinely][GEN u ine ly] /ˈdʒenjuɪnli/ + /
               
               <Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">genūinely</Link>/ 
               

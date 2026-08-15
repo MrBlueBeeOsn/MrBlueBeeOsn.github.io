@@ -40,7 +40,7 @@ export default function Obviously2(): React.JSX.Element {
 						
 						<span className="highlight-255-padding-3-6">
 							
-							[OBviously][OB-vi-ous-ly] /ˈɒbviəsli/ + /
+							[OBviously][OB vi ous ly] /ˈɒbviəsli/ + /
 							
 							<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">obviơusly</Link>/ 
 							

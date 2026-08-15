@@ -42,7 +42,7 @@ export default function Grateful(): React.JSX.Element {
 
           <ul className="list-square padding-left-40">
 
-            <li>IPA: grateful [GRATEful][GRATE-ful] /ˈɡreɪt.fəl/</li>
+            <li>IPA: grateful [GRATEful][GRATE ful] /ˈɡreɪt.fəl/</li>
             <li>Phonetic Breakdown: GRAYT-ful</li>
 
           </ul>

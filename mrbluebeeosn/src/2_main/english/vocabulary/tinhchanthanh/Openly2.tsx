@@ -40,7 +40,7 @@ export default function Openly2(): React.JSX.Element {
             
             <span className="highlight-255-padding-3-6">
               
-              [Openly][O-pen-ly] /ˈoʊpənli/ + /
+              [Openly][O pen ly] /ˈoʊpənli/ + /
               
               <Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">ōpe̛nly</Link>/ 
               

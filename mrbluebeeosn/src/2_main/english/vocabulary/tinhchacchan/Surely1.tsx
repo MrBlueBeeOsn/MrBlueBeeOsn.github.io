@@ -38,7 +38,7 @@ export default function Surely1(): React.JSX.Element {
 
             <li>
               <span className="highlight-255-padding-3-6">
-                [SUREly][SURE-ly] /ˈʃʊrli/ + /<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">surely</Link>/
+                [SUREly][SURE ly] /ˈʃʊrli/ + /<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">surely</Link>/
                 &nbsp;⬤• (2x)
               </span>
             </li>

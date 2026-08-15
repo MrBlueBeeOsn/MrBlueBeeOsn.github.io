@@ -40,7 +40,7 @@ export default function Tenderly2(): React.JSX.Element {
             
             <span className="highlight-255-padding-3-6">
               
-              [TENderly][TEN-der-ly] /ˈten.dər.li/ + /
+              [TENderly][TEN der ly] /ˈten.dər.li/ + /
               
               <Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">tende̛rly</Link>/ 
               

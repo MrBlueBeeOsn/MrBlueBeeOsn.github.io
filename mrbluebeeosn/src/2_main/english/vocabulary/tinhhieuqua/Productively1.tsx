@@ -38,7 +38,7 @@ export default function Productively1(): React.JSX.Element {
 
             <li>
               <span className="highlight-255-padding-3-6">
-                [proDUCtively][pro-DUC-tive-ly] /prəˈdʌk.tɪv.li/ + /<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">prơdûctively</Link>/
+                [proDUCtively][pro DUC tive ly] /prəˈdʌk.tɪv.li/ + /<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">prơdûctively</Link>/
                 &nbsp;•⬤•• (4x)
               </span>
             </li>

@@ -42,7 +42,7 @@ export default function Although(): React.JSX.Element {
 
           <ul className="list-square padding-left-40">
 
-            <li>IPA: [alTHOUGH][al-THOUGH] /ɔːlˈðəʊ/ (UK) hoặc /ɑːlˈðoʊ/ (US)</li>
+            <li>IPA: [alTHOUGH][al THOUGH] /ɔːlˈðəʊ/ (UK) hoặc /ɑːlˈðoʊ/ (US)</li>
             <li>Phonetic Breakdown: awl-DHOH</li>
 
           </ul>

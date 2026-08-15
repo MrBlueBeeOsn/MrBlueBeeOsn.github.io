@@ -38,7 +38,7 @@ export default function Tenderly1(): React.JSX.Element {
 
             <li>
               <span className="highlight-255-padding-3-6">
-                [TENderly][TEN-der-ly] /ˈten.dər.li/ + /<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">tende̛rly</Link>/
+                [TENderly][TEN der ly] /ˈten.dər.li/ + /<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">tende̛rly</Link>/
                 &nbsp;⬤•• (3x)
               </span>
             </li>

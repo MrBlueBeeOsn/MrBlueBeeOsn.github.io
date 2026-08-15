@@ -40,7 +40,7 @@ export default function Tirelessly2(): React.JSX.Element {
             
             <span className="highlight-255-padding-3-6">
               
-              [TIRElessly][TIRE-less-ly] /ˈtaɪrləsli/ + /
+              [TIRElessly][TIRE less ly] /ˈtaɪrləsli/ + /
               
               <Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">tīrele̛ssly</Link>/ 
               

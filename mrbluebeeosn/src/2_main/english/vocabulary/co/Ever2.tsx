@@ -40,7 +40,7 @@ export default function Ever2(): React.JSX.Element {
             
             <span className="highlight-255-padding-3-6">
               
-              [Ever][Ev-er] /ˈev.ər/ + /
+              [Ever][Ev er] /ˈev.ər/ + /
               
               <Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">eve̛r</Link>/ 
               

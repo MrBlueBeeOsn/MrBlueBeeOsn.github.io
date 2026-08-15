@@ -38,7 +38,7 @@ export default function Today1(): React.JSX.Element {
 
             <li>
               <span className="highlight-255-padding-3-6">
-                [toDAY][to-DAY] /təˈdeɪ/ + /<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">tơdāy</Link>/
+                [toDAY][to DAY] /təˈdeɪ/ + /<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">tơdāy</Link>/
                 &nbsp;•⬤ (2x)
               </span>
             </li>

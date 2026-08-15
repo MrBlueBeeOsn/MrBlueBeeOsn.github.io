@@ -40,7 +40,7 @@ export default function Again2(): React.JSX.Element {
             
             <span className="highlight-255-padding-3-6">
               
-              [aGAIN][a-GAIN] /əˈɡen/ + /
+              [aGAIN][a GAIN] /əˈɡen/ + /
               
               <Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">a̛gā̄in</Link>/ 
               

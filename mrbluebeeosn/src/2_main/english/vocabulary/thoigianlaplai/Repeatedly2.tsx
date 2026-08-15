@@ -42,7 +42,7 @@ export default function Repeatedly2(): React.JSX.Element {
             
             <span className="highlight-255-padding-3-6">
               
-              [rePEAtedly][re-PEAT-ed-ly] /rɪˈpiːtɪdli/ + /
+              [rePEAtedly][re PEAT ed ly] /rɪˈpiːtɪdli/ + /
               
               <Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">rėpēatėdly</Link>/ 
               

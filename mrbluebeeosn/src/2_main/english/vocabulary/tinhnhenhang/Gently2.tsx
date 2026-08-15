@@ -40,7 +40,7 @@ export default function Gently2(): React.JSX.Element {
             
             <span className="highlight-255-padding-3-6">
               
-              [GEntly][GEn-tly] /ˈdʒɛntlɪ/ + /
+              [GEntly][GEn tly] /ˈdʒɛntlɪ/ + /
               
               <Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">gently</Link>/ 
               

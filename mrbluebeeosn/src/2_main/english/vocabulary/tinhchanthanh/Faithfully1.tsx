@@ -38,7 +38,7 @@ export default function Faithfully1(): React.JSX.Element {
 
             <li>
               <span className="highlight-255-padding-3-6">
-                [FAITHfully][FAITH-ful-ly] /ˈfeɪθfəli/ + /<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">fāithfưlly</Link>/
+                [FAITHfully][FAITH ful ly] /ˈfeɪθfəli/ + /<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">fāithfưlly</Link>/
                 &nbsp;⬤•• (3x)
               </span>
             </li>

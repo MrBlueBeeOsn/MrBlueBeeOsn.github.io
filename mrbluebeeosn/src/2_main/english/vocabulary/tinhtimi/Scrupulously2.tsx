@@ -40,7 +40,7 @@ export default function Scrupulously2(): React.JSX.Element {
 
             <span className="highlight-255-padding-3-6">
 
-              [SCRUpulously][SCRU-pu-lous-ly] /ˈskruː.pjə.ləs.li/ + /
+              [SCRUpulously][SCRU pu lous ly] /ˈskruː.pjə.ləs.li/ + /
 
               <Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">scrüpư̇lơusly</Link>/
 

@@ -40,7 +40,7 @@ export default function Clearly2(): React.JSX.Element {
 						
 						<span className="highlight-255-padding-3-6">
 							
-							[CLEARly][CLEAR-ly] /ˈklɪərli/ + /
+							[CLEARly][CLEAR ly] /ˈklɪərli/ + /
 							
 							<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">clėarly</Link>/ 
 							

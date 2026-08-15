@@ -40,7 +40,7 @@ export default function Belatedly2(): React.JSX.Element {
             
             <span className="highlight-255-padding-3-6">
               
-              [beLAtedly][be-LAt-ed-ly] /bɪˈleɪ.tɪd.li/ + /
+              [beLAtedly][be LA ted ly] /bɪˈleɪ.tɪd.li/ + /
               
               <Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">bėlātėdly</Link>/ 
               
