@@ -184,7 +184,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 			
 				</ul>
 			
-			<p className="margin-top-20">Tư duy này giúp bạn giải phóng bộ não khỏi việc ghi nhớ thủ công hàng trăm cụm từ đơn lẻ, chỉ cần nhận diện khối [Cơ][Base] gốc và quét toàn bộ phần phụ thuộc bám đuôi để định hình nhãn [Cụm][Phrase] trong một nốt nhạc.</p>
+			<p className="margin-top-20">Tư duy này giúp bạn giải phóng bộ nền nào khỏi việc ghi nhớ thủ công hàng trăm cụm từ đơn lẻ, chỉ cần nhận diện khối [Cơ][Base] gốc và quét toàn bộ phần phụ thuộc bám đuôi để định hình nhãn [Cụm][Phrase] trong một nốt nhạc.</p>
 			
 
 
@@ -525,7 +525,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 					<li>The server administrator secured the file [which contains the report].</li>
 					<li className="margin-bottom-20 list-none">Quản trị viên máy chủ đã bảo mật tập tin [chứa báo cáo].</li>
 
-					<li className="list-none">Hình thái: [which contains the report] - [Liên Câu][Conjunctional Clause] chứa [Liên Cơ][Conjunctional Base] which đóng vai trò thế cho danh từ đứng trước, đồng thời làm nhiệm vụ làm [Danh Chủ][Noun Subject] nội bộ kết hợp liền mạch với hành động contains.</li>
+					<li className="list-none">Hình thái: [which contains the report] - [Liên Câu][Conjunctional Clause] chứa [Liên Cơ][Conjunctional Base] which đóng vai trò thế cho khối định danh đứng trước, đồng thời làm nhiệm vụ làm [Danh Chủ][Noun Subject] nội bộ kết hợp liền mạch với hành động contains.</li>
 
 					<li className="list-none">Chức năng: [which contains the report] - [Tính Câu][Adjective Clause] bổ nghĩa trực tiếp để giới hạn và xác định đặc điểm rõ ràng cho [Danh Cụm][Noun Phrase] the file.</li>
 			
@@ -571,7 +571,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 					<li>The technician tests weekly [to prevent system failures].</li>
 					<li className="margin-bottom-20 list-none">Kỹ thuật viên kiểm tra hàng tuần [để ngăn ngừa sự cố hệ thống].</li>
 
-					<li className="list-none">Hình thái: [to prevent system failures] - [Hạt Thuần Động Cụm][Particle Bare Verb Phrase] bắt đầu bằng một [Hạt Thuần Động Cơ][Particle Bare Verb Base] to prevent phối hợp với khối định danh danh từ chịu tác động phía sau.</li>
+					<li className="list-none">Hình thái: [to prevent system failures] - [Hạt Thuần Động Cụm][Particle Bare Verb Phrase] bắt đầu bằng một [Hạt Thuần Động Cơ][Particle Bare Verb Base] to prevent phối hợp với khối định danh chịu tác động phía sau.</li>
 
 					<li className="list-none">Chức năng: [to prevent system failures] - [Trạng Cụm][Adverb Phrase] đứng cuối câu để làm rõ bối cảnh mục đích hướng tới của hành động thực thi trước đó.</li>
 			
@@ -621,7 +621,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 					<li>The program crashed [due to a memory leak].</li>
 					<li className="margin-bottom-20 list-none">Chương trình đã bị sập [vì lỗi rò rỉ bộ nhớ].</li>
 
-					<li className="list-none">Hình thái: [due to a memory leak] - [Phức Giới Cụm][Complex Prepositional Phrase] bắt đầu bằng một [Phức Giới Cơ][Complex Prepositional Base] due to kết hợp khối danh từ đi kèm phía sau để chỉ nguyên nhân khách quan.</li>
+					<li className="list-none">Hình thái: [due to a memory leak] - [Phức Giới Cụm][Complex Prepositional Phrase] bắt đầu bằng một [Phức Giới Cơ][Complex Prepositional Base] due to kết hợp khối định danh đi kèm phía sau để chỉ nguyên nhân khách quan.</li>
 
 					<li className="list-none">Chức năng: [due to a memory leak] - [Trạng Cụm][Adverb Phrase] mở rộng bối cảnh nguyên nhân lý do cho trạng thái sự việc crashed.</li>
 			
