@@ -224,8 +224,8 @@ export default function ThreeDC1(): React.ReactElement {
 					<li>Ví dụ 1: upgrading [Tiếp Động Cơ][Progressive Verb Base] + the system [Danh Nhận][Noun Object]</li>
 					<li className="margin-bottom-20 list-none">→ upgrading the system [Tiếp Động Cụm][Progressive Verb Phrase].</li>
 			
-					<li>Ví dụ 2: to coordinate [Hạt Động Cơ][Particle Verb Base] + efficiently [Trạng Cơ][Adverb Base]</li>
-					<li className="margin-bottom-20 list-none">→ to coordinate efficiently [Hạt Động Cụm][Particle Verb Phrase].</li>
+					<li>Ví dụ 2: to coordinate [Hạt Thuần Động Cơ][Particle Bare Verb Base] + efficiently [Trạng Cơ][Adverb Base]</li>
+					<li className="margin-bottom-20 list-none">→ to coordinate efficiently [Hạt Thuần Động Cụm][Particle Bare Verb Phrase].</li>
 			
 					<li>Ví dụ 3: will implement [Áp-Thái Thuần Động Cơ][Assertive-Modal Bare Verb Base] + the strategy [Danh Nhận][Noun Object]</li>
 					<li className="list-none">→ will implement the strategy [Áp-Thái Thuần Động Cụm][Assertive-Modal Bare Verb Phrase].</li>
@@ -251,7 +251,7 @@ export default function ThreeDC1(): React.ReactElement {
 					<li>[Jogging] strengthens the heart.</li>
 					<li className="margin-bottom-20 list-none">[Việc chạy bộ] làm khỏe cơ tim.</li>
 			
-					<li className="list-none">Hình thái: Khối [Jogging] - [Tiếp Động Cơ][Progressive Verb Base] hình thành từ khối [Rễ Động Cơ][Root Verb Base] nguyên bản "jog" mặc thêm hậu tố "-ing" để thay đổi diện mạo bên ngoài thành một khối cấp độ [Cơ][Base] đại diện cho một hành động danh hóa cô đọng.</li>
+					<li className="list-none">Hình thái: Khối [Jogging] - [Tiếp Động Cơ][Progressive Verb Base] hình thành từ khối [Rễ Động Cơ][Root Verb Base] nguyên bản "jog" mặc thêm hậu tố "-ing" để thay đổi diện mạo bên ngoài thành một khối cấp độ [Cơ][Base] đại diện cho một hành động biểu hiện khối cô đọng.</li>
 			
 					<li className="list-none">Chức năng: Khối [Jogging] - [Danh Cơ][Noun Base] đóng vai trò làm [Danh Chủ][Noun Subject] thực hiện hành động cho cả khối chịu sự quản lý thời gian của [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "strengthens".</li>
 			
@@ -265,7 +265,7 @@ export default function ThreeDC1(): React.ReactElement {
 					<li>She enjoys [swimming].</li>
 					<li className="margin-bottom-20 list-none">Cô ấy thích [việc bơi lội].</li>
 			
-					<li className="list-none">Hình thái: Khối [swimming] - [Tiếp Động Cơ][Progressive Verb Base] hình thành từ khối [Rễ Động Cơ][Root Verb Base] nguyên bản "swim" mặc thêm hậu tố "-ing" để thay đổi diện mạo bên ngoài thành một khối cấp độ [Cơ][Base] đại diện cho một hành động danh hóa cô đọng.</li>
+					<li className="list-none">Hình thái: Khối [swimming] - [Tiếp Động Cơ][Progressive Verb Base] hình thành từ khối [Rễ Động Cơ][Root Verb Base] nguyên bản "swim" mặc thêm hậu tố "-ing" để thay đổi diện mạo bên ngoài thành một khối cấp độ [Cơ][Base] đại diện cho một hành động biểu hiện khối cô đọng.</li>
 			
 					<li className="list-none">Chức năng: Khối [swimming] - [Danh Cơ][Noun Base] đóng vai trò làm [Danh Nhận][Noun Object] chịu sự điều phối trực tiếp của [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "enjoys".</li>
 			
@@ -342,7 +342,7 @@ export default function ThreeDC1(): React.ReactElement {
 			
 					<li className="list-none">Hình thái: Khối [supervising the audit] - [Tiếp Động Cụm][Progressive Verb Phrase] bắt đầu bằng một [Tiếp Động Cơ][Progressive Verb Base] "supervising" kết hợp với một [Danh Nhận][Noun Object] phía sau.</li>
 			
-					<li className="list-none">Chức năng: Khối [supervising the audit] - [Tính Cụm][Adjective Phrase] đứng ngay sau thực thể "The officer" để bổ nghĩa đặc điểm định danh cho thực thể đó.</li>
+					<li className="list-none">Chức năng: Khối [supervising the audit] - [Tính Cụm][Adjective Phrase] đứng ngay sau thực thể "The officer" để bổ nghĩa đặc điểm xác định cho thực thể đó.</li>
 			
 				</ul>
 			
@@ -374,7 +374,7 @@ export default function ThreeDC1(): React.ReactElement {
 			
 					<li className="list-none">Hình thái: Khối [on the top floor] - [Giới Cụm][Prepositional Phrase] bắt đầu bằng [Giới Cơ][Prepositional Base] "on" liên kết quan hệ không gian trực tiếp với cụm [Danh Nhận][Noun Object] "the top floor".</li>
 			
-					<li className="list-none">Chức năng: Khối [on the top floor] - [Tính Cụm][Adjective Phrase] đứng ôm sát ngay sau khối định danh "The office" để bổ nghĩa chỉ bối cảnh vị trí đặc trưng cho văn phòng đó.</li>
+					<li className="list-none">Chức năng: Khối [on the top floor] - [Tính Cụm][Adjective Phrase] đứng ôm sát ngay sau khối biểu thị thực thể "The office" để bổ nghĩa chỉ bối cảnh vị trí đặc trưng cho văn phòng đó.</li>
 			
 				</ul>
 			
@@ -485,7 +485,7 @@ export default function ThreeDC1(): React.ReactElement {
 			
 					<li className="list-none">Hình thái: Khối [I consulted yesterday] - [Ẩn-Liên Câu][Zero-Conjunctional Clause] có sự lược bỏ [Liên Cơ][Conjunctional Base] dẫn dắt đối tượng nhưng vẫn đảm bảo cấu trúc chủ-vị hoàn chỉnh ở bên trong.</li>
 			
-					<li className="list-none">Chức năng: Khối [I consulted yesterday] thực thi chức năng [Tính Câu][Adjective Clause] đứng ôm ngay sau thực thể "The mentor" để bổ nghĩa đặc điểm định danh cho thực thể đó.</li>
+					<li className="list-none">Chức năng: Khối [I consulted yesterday] thực thi chức năng [Tính Câu][Adjective Clause] đứng ôm ngay sau thực thể "The mentor" để bổ nghĩa đặc điểm xác định cho thực thể đó.</li>
 			
 				</ul>
 			
@@ -538,7 +538,7 @@ export default function ThreeDC1(): React.ReactElement {
 			
 					<li className="list-none">Hình thái: Khối bao ngoài [to demonstrate {'{how the drug works}'}] là một [Tầng Hạt Thuần Động Cụm][Tiered Particle Bare Verb Phrase] bắt đầu bằng [Hạt Thuần Động Cơ][Particle Bare Verb Base] "to demonstrate". Bên trong bao gói {'{how the drug works}'} là một [Liên Câu][Conjunctional Clause] bắt đầu bằng [Liên Cơ][Conjunctional Base] "how".</li>
 			
-					<li className="list-none">Chức năng: Khối {'{how the drug works}'} bên trong đóng vai trò là [Danh Câu][Noun Clause] làm [Danh Nhận][Noun Object] chịu sự điều phối trực tiếp của [Thuần Động Cơ][Bare Verb Base] "demonstrate". Toàn bộ khối hỗn hợp [to demonstrate {'{how the drug works}'}] vận hành với chức năng [<strong>Danh Cụm</strong>][<strong>Noun Phrase</strong>] đóng vai trò tổng thể làm khối [Danh Nhận][Noun Object] chịu sự điều phối trực tiếp của [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "hope".</li>
+					<li className="list-none">Chức năng: Khối {'{how the drug works}'} bên trong đóng vai trò là [Danh Câu][Noun Clause] làm [Danh Nhận][Noun Object] chịu sự điều phối trực tiếp của [Thuần Động Cơ][Bare Verb Base] "demonstrate". Toàn bộ khối hỗn hợp [to demonstrate {'{how the drug works}'}] vận hành với chức năng [<strong>Danh Cụm</strong>][<strong>Noun Phrase</strong>] đóng vai trò tổng thể làm khối [Danh Nhận][Noun Object] chịu sự điều phối trực tiếp của [Thời-Thuần Động Cơ][Tense-Bare Verb Base] hope.</li>
 			
 				</ul>
 			
@@ -620,7 +620,7 @@ export default function ThreeDC1(): React.ReactElement {
 					<li>The system crashed [due to the rapid temperature escalation].</li>
 					<li className="margin-bottom-20 list-none">Hệ thống đã gặp sự cố [do sự leo thang nhiệt độ nhanh chóng].</li>
 			
-					<li className="list-none">Hình thái: Khối [due to the rapid temperature escalation] - [Phức Giới Cụm][Complex Prepositional Phrase] bắt đầu bằng [Phức Giới Cơ][Complex Prepositional Base] "due to" điều phối một cấu trúc định danh phức hợp phía sau.</li>
+					<li className="list-none">Hình thái: Khối [due to the rapid temperature escalation] - [Phức Giới Cụm][Complex Prepositional Phrase] bắt đầu bằng [Phức Giới Cơ][Complex Prepositional Base] "due to" điều phối một cấu trúc biểu thị thực thể phức hợp phía sau.</li>
 			
 					<li className="list-none">Chức năng: Khối [due to the rapid temperature escalation] - [Trạng Cụm][Adverb Phrase] thực hiện chức năng cung cấp bối cảnh nguyên nhân rút gọn cho hành động chính "crashed".</li>
 			
@@ -641,7 +641,7 @@ export default function ThreeDC1(): React.ReactElement {
 			
 					<li className="list-none">Hình thái: Khối [which accelerates the rendering process] - [Liên Câu][Conjunctional Clause] bắt đầu bằng [Liên Cơ][Conjunctional Base] quan hệ "which" đi kèm khối hoàn chỉnh có hạt nhân hành động "accelerates".</li>
 			
-					<li className="list-none">Chức năng: Khối [which accelerates the rendering process] - [Tính Câu][Adjective Clause] đứng ôm sát phía sau để bổ nghĩa đặc điểm định danh chi tiết cho khối biểu thị thực thể "The code".</li>
+					<li className="list-none">Chức năng: Khối [which accelerates the rendering process] - [Tính Câu][Adjective Clause] đứng ôm sát phía sau để bổ nghĩa đặc điểm xác định chi tiết cho khối biểu thị thực thể "The code".</li>
 			
 				</ul>
 
@@ -699,7 +699,7 @@ export default function ThreeDC1(): React.ReactElement {
 				</ul>
 			
 
-			<p className="margin-y-30 text-indent-whole"><strong>Viết lại</strong>: <strong>Đổi sang hình thái</strong> [<strong>Liên Hạt Thuần Động Cụm</strong>][<strong>Conjunctional Phrase</strong>]</p>
+			<p className="margin-y-30 text-indent-whole"><strong>Viết lại</strong>: <strong>Đổi sang hình thái</strong> [<strong>Liên Cụm</strong>][<strong>Conjunctional Phrase</strong>]</p>
 
 			<p className="margin-top-20 text-indent-whole">Làm [Danh Nhận][Noun Object]</p>
 			
@@ -708,7 +708,7 @@ export default function ThreeDC1(): React.ReactElement {
 					<li>The programmer discovered [how to bypass the security firewall].</li>
 					<li className="margin-bottom-20 list-none">Lập trình viên đã phát hiện ra [cách vượt qua tường lửa bảo mật].</li>
 			
-					<li className="list-none">Hình thái: Khối [how to bypass the security firewall] - [Hiển-Liên Hạt Thuần Động Cụm][Connector Particle Bare Verb Phrase] bắt đầu bằng biểu hiện nghi vấn "how" dẫn dắt trực tiếp một cấu trúc hành động dạng "to + bare verb".</li>
+					<li className="list-none">Hình thái: Khối [how to bypass the security firewall] - [Liên Cụm][Conjunctional Phrase] bắt đầu bằng biểu hiện nghi vấn [Liên Cơ][Conjunctional Base] "how" dẫn dắt trực tiếp một cấu trúc hành động dạng "to + bare verb".</li>
 			
 					<li className="list-none">Chức năng: Khối [how to bypass the security firewall] - [Danh Cụm][Noun Phrase] làm khối [Danh Nhận][Noun Object] chịu sự điều phối của hành động "discovered".</li>
 			
@@ -746,7 +746,7 @@ export default function ThreeDC1(): React.ReactElement {
 				<ul className="list-square">
 			
 					<li>The technician will deploy the software [where the signal peaks].</li>
-					<li className="margin-bottom-20 list-none">The technician will deploy the software there.</li>
+					<li className="margin-bottom-20 list-none">The technician will deploy the software [there].</li>
 			
 					<li className="list-none">→ Hợp lý! Khối [where the signal peaks] thực thi chức năng [<strong>Trạng Câu</strong>][<strong>Adverb Clause</strong>] chỉ bối cảnh vị trí.</li>
 			
@@ -758,7 +758,7 @@ export default function ThreeDC1(): React.ReactElement {
 				<ul className="list-square">
 			
 					<li>This is the server room [where the signal peaks].</li>
-					<li className="margin-bottom-20 list-none">This is the new server room.</li>
+					<li className="margin-bottom-20 list-none">This is the [new] server room.</li>
 			
 					<li className="list-none">→ Hợp lý! Khối [where the signal peaks] hoàn thành chức năng [<strong>Tính Câu</strong>][<strong>Adjective Clause</strong>] bổ nghĩa đặc điểm cho khối định danh đứng trước.</li>
 			
@@ -770,7 +770,7 @@ export default function ThreeDC1(): React.ReactElement {
 				<ul className="list-square">
 			
 					<li>The system monitors [where the signal peaks].</li>
-					<li className="margin-bottom-20 list-none">The system monitors something.</li>
+					<li className="margin-bottom-20 list-none">The system monitors [something].</li>
 			
 					<li className="list-none">→ Hợp lý! Khối [where the signal peaks] đáp ứng chức năng [<strong>Danh Câu</strong>][<strong>Noun Clause</strong>] đóng vai trò làm [Danh Nhận][Noun Object] trực tiếp đứng sau hành động "monitors".</li>
 			
