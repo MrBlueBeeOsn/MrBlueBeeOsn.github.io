@@ -78,52 +78,52 @@ export default function SuperWords1(): React.JSX.Element {
 			
 				<ol>
       
-          <li value="1">[<strong>Rễ Động Cơ</strong>][<strong>Root Verb Base</strong>]: build, design, test</li>
+          <li value="1">[<strong>Rễ Động Cơ</strong>][<strong>Root Verb Base</strong>]: BUILD, deSIGN, TEST</li>
           <li className="margin-bottom-20 list-none">Hành động ở dạng [Rễ Động Cơ][Root Verb Base] nguyên thủy nhất, chưa thêm bớt hay kết hợp với bất kỳ hành động nào khác.</li>
       
-          <li value="2">[<strong>Hạt Động Cơ</strong>][<strong>Particle Verb Base</strong>]: to, in, on, away, back</li>
+          <li value="2">[<strong>Hạt Động Cơ</strong>][<strong>Particle Verb Base</strong>]: to, IN, ON, aWAY, BACK</li>
           <li className="margin-bottom-20 list-none">[Hạt] "to" đơn lẻ đóng vai trò hạt nhân đầu tiên đứng trước mọi khối hành động để kích hoạt trạng thái nguyên bản. Các [Hạt] như in, on, away, back đơn lẻ đứng sau đóng vai trò định hướng hành động để mở rộng không gian, phương hướng hoặc trạng thái vận động cho hành động chính.</li>
 
           <li value="3">[<strong>Thời Động Cơ</strong>][<strong>Tense Verb Base</strong>]: does, did, is, has, was, am, are</li>
           <li className="margin-bottom-20 list-none">Hành động đơn lẻ xuất hiện để mang năng lượng [Thời] gian hoặc chia mốc thời trong câu.</li>
       
-          <li value="4">[<strong>Ý-Thái Động Cơ</strong>][<strong>Soft-Modal Verb Base</strong>]: would, could, should, might, ought to, had better</li>
+          <li value="4">[<strong>Ý-Thái Động Cơ</strong>][<strong>Soft-Modal Verb Base</strong>]: would, could, should, might, ought to, had BETter</li>
           <li className="margin-bottom-20 list-none">Hành động chỉ [Thái] độ mang tính [Ý] nhị, có [Ý] tứ, mong muốn là thật nhưng cách nói nhường nhịn và triệt tiêu tính ép buộc. Các khối phức đặc biệt "ought to" và "had better" được quét như một [Phức Ý-Thái Động Cơ][Complex Soft-Modal Verb Base] thống nhất.</li>
 
-          <li value="5">[<strong>Áp-Thái Động Cơ</strong>][<strong>Assertive-Modal Verb Base</strong>]: will, shall, can, must, have to, may</li>
+          <li value="5">[<strong>Áp-Thái Động Cơ</strong>][<strong>Assertive-Modal Verb Base</strong>]: will, shall, can, must, HAVE to, may</li>
           <li className="margin-bottom-20 list-none">Hành động chỉ [Thái] độ mang tính trực diện, [Áp] đặt thực tế xuống, khẳng định chắc chắn. Khối phức đặc biệt "have to" được quét như một [Phức Áp-Thái Động Cơ][Complex Assertive-Modal Verb Base] thống nhất.</li>
 
-          <li value="6">[<strong>Thuần Động Cơ</strong>][<strong>Bare Verb Base</strong>]: build, design, test</li>
+          <li value="6">[<strong>Thuần Động Cơ</strong>][<strong>Bare Verb Base</strong>]: BUILD, deSIGN, TEST</li>
           <li className="margin-bottom-20 list-none">Hành động [Thuần] khiết đứng tự do một mình, không có to đi kèm, thường đứng ngay sau [Hạt Động Cơ][Particle Verb Base] "to", [Ý-Thái][Soft-Modal] hay [Áp-Thái Động Cơ][Assertive-Modal Verb Base] hoặc [Rễ Động Cơ][Root Verb Base] make, let, let's, help, have, see, hear, watch, feel, notice, observe, smell.</li>
       
-          <li value="7">[<strong>Hạt Thuần Động Cơ</strong>][<strong>Particle Bare Verb Base</strong>]: to build, to design</li>
+          <li value="7">[<strong>Hạt Thuần Động Cơ</strong>][<strong>Particle Bare Verb Base</strong>]: to BUILD, to deSIGN</li>
           <li className="margin-bottom-20 list-none">Sự hợp nhất tuyến tính lấy tên phần tử đầu tiên [Hạt Động Cơ] kết hợp cùng hành động [Thuần] khiết phía sau.</li>
 
-          <li value="8">[<strong>Ý-Thái Thuần Động Cơ</strong>][<strong>Soft-Modal Bare Verb Base</strong>]: would build, could design</li>
+          <li value="8">[<strong>Ý-Thái Thuần Động Cơ</strong>][<strong>Soft-Modal Bare Verb Base</strong>]: would BUILD, could deSIGN</li>
           <li className="margin-bottom-20 list-none">Sự hợp nhất tuyến tính giữa [Thái] độ, [Ý] nhị và hành động [Thuần] khiết.</li>
       
-          <li value="9">[<strong>Áp-Thái Thuần Động Cơ</strong>][<strong>Assertive-Modal Bare Verb Base</strong>]: will build, can design</li>
+          <li value="9">[<strong>Áp-Thái Thuần Động Cơ</strong>][<strong>Assertive-Modal Bare Verb Base</strong>]: will BUILD, can deSIGN</li>
           <li className="margin-bottom-20 list-none">Sự hợp nhất tuyến tính giữa [Thái] độ, [Áp] đặt thực tế và hành động [Thuần] khiết.</li>
 
-          <li value="10">[<strong>Thời Thuần Động Cơ</strong>][<strong>Tense Bare Verb Base</strong>]: did build, does design</li>
+          <li value="10">[<strong>Thời Thuần Động Cơ</strong>][<strong>Tense Bare Verb Base</strong>]: did BUILD, does deSIGN</li>
           <li className="margin-bottom-20 list-none">Trạng thái [Thời] và hành động [Thuần] khiết song hành, được tách riêng biệt bằng một khoảng trắng trong câu.</li>
 
-          <li value="11">[<strong>Thời-Thuần Động Cơ</strong>][<strong>Tense-Bare Verb Base</strong>]: built, builds, designs</li>
+          <li value="11">[<strong>Thời-Thuần Động Cơ</strong>][<strong>Tense-Bare Verb Base</strong>]: BUILT, BUILDS, deSIGNS</li>
           <li className="margin-bottom-20 list-none">Trạng thái [Thời] (Quá khứ/Hiện tại) và hành động [Thuần] khiết hòa tan, gộp chung hoàn toàn vào trong cùng một chữ đơn duy nhất.</li>
       
-          <li value="12">[<strong>Tiếp Động Cơ</strong>][<strong>Progressive Verb Base</strong>]: building, designing, testing</li>
+          <li value="12">[<strong>Tiếp Động Cơ</strong>][<strong>Progressive Verb Base</strong>]: BUILDing, deSIGNing, TESTing</li>
           <li className="margin-bottom-20 list-none">Hành động mang đuôi -ing thể hiện tính chất đang [Tiếp] diễn, vận động hoặc kéo dài.</li>
 
-          <li value="13">[<strong>Hoàn Động Cơ</strong>][<strong>Perfect Verb Base</strong>]: built, designed, been</li>
+          <li value="13">[<strong>Hoàn Động Cơ</strong>][<strong>Perfect Verb Base</strong>]: BUILT, deSIGNED, been</li>
           <li className="margin-bottom-20 list-none">Hành động ở dạng cột 3 hoặc thêm đuôi -ed thể hiện tính chất đã trọn vẹn, [Hoàn] thành và để lại kết quả.</li>
       
-          <li value="14">[<strong>Thời Tiếp Động Cơ</strong>][<strong>Tense Progressive Verb Base</strong>]: is building, was designing</li>
+          <li value="14">[<strong>Thời Tiếp Động Cơ</strong>][<strong>Tense Progressive Verb Base</strong>]: is BUILDing, was deSIGNing</li>
           <li className="margin-bottom-20 list-none">Sự hợp nhất tuyến tính giữa hành động mang [Thời] gian và hành động mang tính [Tiếp] diễn.</li>
 
-          <li value="15">[<strong>Thời Hoàn Động Cơ</strong>][<strong>Tense Perfect Verb Base</strong>]: has built, had designed</li>
+          <li value="15">[<strong>Thời Hoàn Động Cơ</strong>][<strong>Tense Perfect Verb Base</strong>]: has BUILT, had deSIGNED</li>
           <li className="margin-bottom-20 list-none">Sự hợp nhất tuyến tính giữa hành động mang [Thời] gian và hành động mang tính [Hoàn] thành.</li>
       
-          <li value="16">[<strong>Thời Hoàn Tiếp Động Cơ</strong>][<strong>Tense Perfect Progressive Verb Base</strong>]: has been building, had been designing</li>
+          <li value="16">[<strong>Thời Hoàn Tiếp Động Cơ</strong>][<strong>Tense Perfect Progressive Verb Base</strong>]: has been BUILDing, had been deSIGNing</li>
           <li className="list-none">Sự hợp nhất tuyến tính giữa ba lớp năng lượng [Thời] gian, [Hoàn] thành và [Tiếp] diễn.</li>
       
         </ol>
@@ -161,13 +161,13 @@ export default function SuperWords1(): React.JSX.Element {
 
         <ul className="list-square">
       
-          <li>be expanding → [Thời][Tense] be (am/is/are, was/were) + [Tiếp Động Cơ][Progressive Verb Base] expanding</li>
+          <li>be exPANDing → [Thời][Tense] be (am/is/are, was/were) + [Tiếp Động Cơ][Progressive Verb Base] exPANDing</li>
 
-          <li>have been expanding → [Thời + Hoàn][Tense + Perfect] have/has/had + been + [Tiếp Động Cơ][Progressive Verb Base] expanding</li>
+          <li>have been exPANDing → [Thời + Hoàn][Tense + Perfect] have/has/had + been + [Tiếp Động Cơ][Progressive Verb Base] exPANDing</li>
       
-          <li>have optimized → [Thời + Hoàn][Tense + Perfect] have/has/had + optimized</li>
+          <li>have OPtimized → [Thời + Hoàn][Tense + Perfect] have/has/had + OPtimized</li>
       
-          <li>optimized, optimizes → [Thời-Thuần Động Cơ][Tense-Bare Verb Base] Tích hợp</li>
+          <li>OPtimized, OPtimizes → [Thời-Thuần Động Cơ][Tense-Bare Verb Base] Tích hợp</li>
       
         </ul>
       
@@ -178,35 +178,35 @@ export default function SuperWords1(): React.JSX.Element {
 
         <ul className="list-square">
       
-          <li>to optimize → [Hạt Động Cơ][Particle Verb Base] to + [Thuần Động Cơ][Bare Verb Base] optimize</li>
+          <li>to OPtimized → [Hạt Động Cơ][Particle Verb Base] to + [Thuần Động Cơ][Bare Verb Base] OPtimized</li>
       
-          <li>did optimize → [Thời][Tense] did (Nhấn mạnh) + [Thuần Động Cơ][Bare Verb Base] optimize</li>
+          <li>did OPtimized → [Thời][Tense] did (Nhấn mạnh) + [Thuần Động Cơ][Bare Verb Base] OPtimized</li>
       
         </ul>
       
 
       <p className="margin-top-20 text-indent-whole"><strong>Nhóm 3</strong>: [<strong>Ý-Thái Thuần Động Cơ</strong>][<strong>Soft-Modal Bare Verb Base</strong>]</p>
 
-      <p className="text-indent-whole">Nhóm tình huống lịch sự, gợi ý: would (nhã nhặn), should (gợi ý), could (khả năng nhẹ), might (khả năng thấp), ought to (khuyên bảo), had better (khuyên nhủ).</p>
+      <p className="text-indent-whole">Nhóm tình huống lịch sự, gợi ý: would (nhã nhặn), should (gợi ý), could (khả năng nhẹ), might (khả năng thấp), ought to (khuyên bảo), had BETter (khuyên nhủ).</p>
 
         <ul className="list-square">
       
-          <li>should consult → [Ý-Thái][Soft-Modal] should (gợi ý) + [Thuần Động Cơ][Bare Verb Base] consult</li>
+          <li>should conSULT → [Ý-Thái][Soft-Modal] should (gợi ý) + [Thuần Động Cơ][Bare Verb Base] conSULT</li>
       
-          <li>could upgrade → [Ý-Thái][Soft-Modal] could (khả năng nhẹ) + [Thuần Động Cơ][Bare Verb Base] upgrade</li>
+          <li>could upGRADE → [Ý-Thái][Soft-Modal] could (khả năng nhẹ) + [Thuần Động Cơ][Bare Verb Base] upGRADE</li>
       
         </ul>
       
 
       <p className="margin-top-20 text-indent-whole"><strong>Nhóm 4</strong>: [<strong>Áp-Thái Thuần Động Cơ</strong>][<strong>Assertive-Modal Bare Verb Base</strong>]</p>
 
-      <p className="text-indent-whole">Nhóm tình huống ép buộc, chắc chắn: will (cam kết), shall (chắc chắn), can (năng lực), must (ép buộc), have to (bắt buộc), may (khả năng).</p>
+      <p className="text-indent-whole">Nhóm tình huống ép buộc, chắc chắn: will (cam kết), shall (chắc chắn), can (năng lực), must (ép buộc), HAVE to (bắt buộc), may (khả năng).</p>
 
         <ul className="list-square">
       
-          <li>will approve → [Áp-Thái][Assertive-Modal] will (cam kết) + [Thuần Động Cơ][Bare Verb Base] approve</li>
+          <li>will apPROVE → [Áp-Thái][Assertive-Modal] will (cam kết) + [Thuần Động Cơ][Bare Verb Base] apPROVE</li>
       
-          <li>must secure → [Áp-Thái][Assertive-Modal] must (ép buộc) + [Thuần Động Cơ][Bare Verb Base] secure</li>
+          <li>must seCURE → [Áp-Thái][Assertive-Modal] must (ép buộc) + [Thuần Động Cơ][Bare Verb Base] seCURE</li>
       
         </ul>
 
@@ -223,8 +223,8 @@ export default function SuperWords1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>expanding [Tiếp Động Cơ][Progressive Verb Base] + the business [Danh Nhận][Noun Object]</li>
-					<li className="margin-bottom-20 list-none">→ expanding the business [Tiếp Động Cụm][Progressive Verb Phrase].</li>
+					<li>exPANDing [Tiếp Động Cơ][Progressive Verb Base] + the business [Danh Nhận][Noun Object]</li>
+					<li className="margin-bottom-20 list-none">→ exPANDing the BUSIness [Tiếp Động Cụm][Progressive Verb Phrase].</li>
 			
 				</ul>
 			

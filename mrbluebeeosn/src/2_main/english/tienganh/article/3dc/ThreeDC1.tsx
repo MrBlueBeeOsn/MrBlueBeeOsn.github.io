@@ -159,52 +159,52 @@ export default function ThreeDC1(): React.ReactElement {
 			
 				<ol>
       
-          <li value="1">[<strong>Rễ Động Cơ</strong>][<strong>Root Verb Base</strong>]: analyze, innovate, transform</li>
+          <li value="1">[<strong>Rễ Động Cơ</strong>][<strong>Root Verb Base</strong>]: ANalyze, INnovate, transFORM</li>
           <li className="margin-bottom-20 list-none">Hành động ở dạng [Rễ Động Cơ][Root Verb Base] nguyên thủy nhất, chưa thêm bớt hay kết hợp với bất kỳ hành động nào khác.</li>
       
-          <li value="2">[<strong>Hạt Động Cơ</strong>][<strong>Particle Verb Base</strong>]: to, up, out, down, off, on, in, away, back, over,...</li>
-          <li className="margin-bottom-20 list-none">[Hạt] "to" đơn lẻ đóng vai trò hạt nhân đầu tiên đứng trước mọi khối hành động để kích hoạt trạng thái nguyên bản. Các [Hạt] như up, out, down, off, on, in, away, back, over,... đơn lẻ đứng sau hành động để điều hướng không gian, hoàn tất hoặc biến đổi sắc thái ý nghĩa của hành động gốc.</li>
+          <li value="2">[<strong>Hạt Động Cơ</strong>][<strong>Particle Verb Base</strong>]: to, UP, OUT, DOWN, OFF, ON, IN, aWAY, BACK, Over,...</li>
+          <li className="margin-bottom-20 list-none">[Hạt] "to" đơn lẻ đóng vai trò hạt nhân đầu tiên đứng trước mọi khối hành động để kích hoạt trạng thái nguyên bản. Các [Hạt] như UP, OUT, DOWN, OFF, ON, IN, aWAY, BACK, Over,... đơn lẻ đứng sau hành động để điều hướng không gian, hoàn tất hoặc biến đổi sắc thái ý nghĩa của hành động gốc.</li>
 
           <li value="3">[<strong>Thời Động Cơ</strong>][<strong>Tense Verb Base</strong>]: does, did, is, has, was, am, are</li>
           <li className="margin-bottom-20 list-none">Hành động đơn lẻ xuất hiện để mang năng lượng [Thời] gian / [Thời] trong câu.</li>
       
-          <li value="4">[<strong>Ý-Thái Động Cơ</strong>][<strong>Soft-Modal Verb Base</strong>]: would, could, should, might, ought to, had better</li>
-          <li className="margin-bottom-20 list-none">Hành động chỉ [Thái] độ mang tính [Ý] nhị, có [Ý] tứ, mong muốn là thật nhưng cách nói nhường nhịn và triệt tiêu tính ép. Các khối phức đặc biệt "ought to" và "had better" được quét như một [Phức Ý-Thái Động Cơ] [Complex Soft-Modal Verb Base] thống nhất.</li>
+          <li value="4">[<strong>Ý-Thái Động Cơ</strong>][<strong>Soft-Modal Verb Base</strong>]: would, could, should, might, ought to, had BETter</li>
+          <li className="margin-bottom-20 list-none">Hành động chỉ [Thái] độ mang tính [Ý] nhị, có [Ý] tứ, mong muốn là thật nhưng cách nói nhường nhịn và triệt tiêu tính ép. Các khối phức đặc biệt "ought to" và "had BETter" được quét như một [Phức Ý-Thái Động Cơ] [Complex Soft-Modal Verb Base] thống nhất.</li>
 
           <li value="5">[<strong>Áp-Thái Động Cơ</strong>][<strong>Assertive-Modal Verb Base</strong>]: will, shall, can, must, have to, may</li>
           <li className="margin-bottom-20 list-none">Hành động chỉ [Thái] độ mang tính trực diện, [Áp] đặt thực tế xuống, không chừa lối thoát cho người nghe. Khối phức đặc biệt "have to" được quét như một [Phức Áp-Thái Động Cơ] [Complex Assertive-Modal Verb Base] thống nhất.</li>
 
-          <li value="6">[<strong>Thuần Động Cơ</strong>][<strong>Bare Verb Base</strong>]: analyze, innovate, transform</li>
+          <li value="6">[<strong>Thuần Động Cơ</strong>][<strong>Bare Verb Base</strong>]: ANalyze, INnovate, transFORM</li>
           <li className="margin-bottom-20 list-none">Hành động [Thuần] khiết đứng tự do một mình, không có to đi kèm, thường đứng ngay sau [Hạt Động Cơ][Particle Verb Base] "to", [Ý-Thái][Soft-Modal] hay [Áp-Thái Động Cơ][Assertive-Modal Verb Base] hoặc [Rễ Động Cơ][Root Verb Base] make, let, let's, help, have, get, see, hear, watch, feel, notice, observe, smell,...</li>
       
-          <li value="7">[<strong>Hạt Thuần Động Cơ</strong>][<strong>Particle Bare Verb Base</strong>]: to analyze, to transform</li>
+          <li value="7">[<strong>Hạt Thuần Động Cơ</strong>][<strong>Particle Bare Verb Base</strong>]: to ANalyze, to transFORM</li>
           <li className="margin-bottom-20 list-none">Sự hợp nhất tuyến tính lấy tên phần tử đầu tiên [Hạt Động Cơ] kết hợp cùng hành động [Thuần] khiết phía sau.</li>
 
-          <li value="8">[<strong>Ý-Thái Thuần Động Cơ</strong>][<strong>Soft-Modal Bare Verb Base</strong>]: would transform, should analyze</li>
+          <li value="8">[<strong>Ý-Thái Thuần Động Cơ</strong>][<strong>Soft-Modal Bare Verb Base</strong>]: would transFORM, should ANalyze</li>
           <li className="margin-bottom-20 list-none">Sự hợp nhất tuyến tính giữa [Thái] độ, [Ý] nhị, không ép và hành động [Thuần] khiết.</li>
       
-          <li value="9">[<strong>Áp-Thái Thuần Động Cơ</strong>][<strong>Assertive-Modal Bare Verb Base</strong>]: will transform, can analyze</li>
+          <li value="9">[<strong>Áp-Thái Thuần Động Cơ</strong>][<strong>Assertive-Modal Bare Verb Base</strong>]: will transFORM, can ANalyze</li>
           <li className="margin-bottom-20 list-none">Sự hợp nhất tuyến tính giữa [Thái] độ, [Áp] đặt thực tế xuống và hành động [Thuần] khiết.</li>
 
-          <li value="10">[<strong>Thời Thuần Động Cơ</strong>][<strong>Tense Bare Verb Base</strong>]: did analyze, does transform</li>
+          <li value="10">[<strong>Thời Thuần Động Cơ</strong>][<strong>Tense Bare Verb Base</strong>]: did ANalyze, does transFORM</li>
           <li className="margin-bottom-20 list-none">Trạng thái [Thời] và hành động [Thuần] khiết song hành, được tách riêng biệt bằng một khoảng trắng trong câu.</li>
 
-          <li value="11">[<strong>Thời-Thuần Động Cơ</strong>][<strong>Tense-Bare Verb Base</strong>]: analyzed, analyzes, transforms</li>
+          <li value="11">[<strong>Thời-Thuần Động Cơ</strong>][<strong>Tense-Bare Verb Base</strong>]: ANalyzed, ANalyzes, transFORMS</li>
           <li className="margin-bottom-20 list-none">Trạng thái [Thời] (Quá khứ/Hiện tại) và hành động [Thuần] khiết hòa tan, gộp chung hoàn toàn vào trong cùng một chữ đơn duy nhất.</li>
       
-          <li value="12">[<strong>Tiếp Động Cơ</strong>][<strong>Progressive Verb Base</strong>]: analyzing, innovating, transforming</li>
+          <li value="12">[<strong>Tiếp Động Cơ</strong>][<strong>Progressive Verb Base</strong>]: ANalyzing, INnovating, transFORMing</li>
           <li className="margin-bottom-20 list-none">Hành động mang đuôi -ing thể hiện tính chất đang [Tiếp] diễn, kéo dài.</li>
 
-          <li value="13">[<strong>Hoàn Động Cơ</strong>][<strong>Perfect Verb Base</strong>]: analyzed, innovated, been, transformed</li>
+          <li value="13">[<strong>Hoàn Động Cơ</strong>][<strong>Perfect Verb Base</strong>]: ANalyzed, INnovated, been, transFORMED</li>
           <li className="margin-bottom-20 list-none">Hành động ở dạng cột 3 hoặc thêm đuôi -ed thể hiện tính chất đã trọn vẹn, [Hoàn] thành.</li>
       
-          <li value="14">[<strong>Thời Tiếp Động Cơ</strong>][<strong>Tense Progressive Verb Base</strong>]: is analyzing, was transforming</li>
+          <li value="14">[<strong>Thời Tiếp Động Cơ</strong>][<strong>Tense Progressive Verb Base</strong>]: is ANalyzing, was transFORMing</li>
           <li className="margin-bottom-20 list-none">Sự hợp nhất tuyến tính giữa hành động mang [Thời] gian và hành động mang tính [Tiếp] diễn.</li>
 
-          <li value="15">[<strong>Thời Hoàn Động Cơ</strong>][<strong>Tense Perfect Verb Base</strong>]: has analyzed, had transformed</li>
+          <li value="15">[<strong>Thời Hoàn Động Cơ</strong>][<strong>Tense Perfect Verb Base</strong>]: has ANalyzed, had transFORMED</li>
           <li className="margin-bottom-20 list-none">Sự hợp nhất tuyến tính giữa hành động mang [Thời] và hành động mang tính [Hoàn] thành.</li>
       
-          <li value="16">[<strong>Thời Hoàn Tiếp Động Cơ</strong>][<strong>Tense Perfect Progressive Verb Base</strong>]: has been analyzing, had been transforming</li>
+          <li value="16">[<strong>Thời Hoàn Tiếp Động Cơ</strong>][<strong>Tense Perfect Progressive Verb Base</strong>]: has been ANalyzing, had been transFORMing</li>
           <li className="list-none">Sự hợp nhất tuyến tính giữa ba lớp năng lượng [Thời] gian, [Hoàn] thành và [Tiếp] diễn.</li>
       
         </ol>
@@ -221,14 +221,14 @@ export default function ThreeDC1(): React.ReactElement {
 			
 				<ul className="list-square">
 			
-					<li>Ví dụ 1: upgrading [Tiếp Động Cơ][Progressive Verb Base] + the system [Danh Nhận][Noun Object]</li>
-					<li className="margin-bottom-20 list-none">→ upgrading the system [Tiếp Động Cụm][Progressive Verb Phrase].</li>
+					<li>Ví dụ 1: upGRADing [Tiếp Động Cơ][Progressive Verb Base] + the SYStem [Danh Nhận][Noun Object]</li>
+					<li className="margin-bottom-20 list-none">→ upGRADing the SYStem [Tiếp Động Cụm][Progressive Verb Phrase].</li>
 			
-					<li>Ví dụ 2: to coordinate [Hạt Thuần Động Cơ][Particle Bare Verb Base] + efficiently [Trạng Cơ][Adverb Base]</li>
-					<li className="margin-bottom-20 list-none">→ to coordinate efficiently [Hạt Thuần Động Cụm][Particle Bare Verb Phrase].</li>
+					<li>Ví dụ 2: to coORdinate [Hạt Thuần Động Cơ][Particle Bare Verb Base] + efFIciently [Trạng Cơ][Adverb Base]</li>
+					<li className="margin-bottom-20 list-none">→ to coORdinate efFIciently [Hạt Thuần Động Cụm][Particle Bare Verb Phrase].</li>
 			
-					<li>Ví dụ 3: will implement [Áp-Thái Thuần Động Cơ][Assertive-Modal Bare Verb Base] + the strategy [Danh Nhận][Noun Object]</li>
-					<li className="list-none">→ will implement the strategy [Áp-Thái Thuần Động Cụm][Assertive-Modal Bare Verb Phrase].</li>
+					<li>Ví dụ 3: will IMplement [Áp-Thái Thuần Động Cơ][Assertive-Modal Bare Verb Base] + the STRATegy [Danh Nhận][Noun Object]</li>
+					<li className="list-none">→ will IMplement the STRATegy [Áp-Thái Thuần Động Cụm][Assertive-Modal Bare Verb Phrase].</li>
 			
 				</ul>
 			

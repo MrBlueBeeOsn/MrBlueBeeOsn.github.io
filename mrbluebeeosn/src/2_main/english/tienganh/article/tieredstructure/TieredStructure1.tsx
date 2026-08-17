@@ -108,13 +108,13 @@ export default function TieredStructure1(): React.JSX.Element {
 
         <ul className="list-square">
       
-          <li>be exploring ➔ [Thời Động Cơ]be (am/is/are, was/were) + [Tiếp Động Cơ]exploring</li>
+          <li>be exPLORing ➔ [Thời Động Cơ]be (am/is/are, was/were) + [Tiếp Động Cơ] exPLORing</li>
 
-          <li>have been exploring ➔ [Thời Động Cơ]have/has/had + been + [Tiếp Động Cơ]exploring</li>
+          <li>have been exPLORing ➔ [Thời Động Cơ]have/has/had + been + [Tiếp Động Cơ] exPLORing</li>
       
-          <li>explores, explored ➔ [Thời-Thuần Động Cơ] Tích hợp năng lượng thời gian trực tiếp vào chữ đơn.</li>
+          <li>have exPLORED ➔ [Thời Động Cơ]have/has/had + [Hoàn Động Cơ]exPLORED</li>
       
-          <li>explores, explored ➔ [Thời-Thuần Động Cơ] Tích hợp năng lượng thời gian trực tiếp vào chữ đơn.</li>
+          <li>exPLORES, exPLORED ➔ [Thời-Thuần Động Cơ] Tích hợp năng lượng thời gian trực tiếp vào chữ đơn.</li>
       
         </ul>
       
@@ -125,35 +125,35 @@ export default function TieredStructure1(): React.JSX.Element {
 
         <ul className="list-square">
       
-          <li>to explore ➔ [Hạt Động Cơ] to + [Thuần Động Cơ] explore</li>
+          <li>to exPLORE ➔ [Hạt Động Cơ] to + [Thuần Động Cơ] exPLORE</li>
       
-          <li>did explore ➔ [Thời Động Cơ] did (Nhấn mạnh) + [Thuần Động Cơ] explore</li>
+          <li>did exPLORE ➔ [Thời Động Cơ] did (Nhấn mạnh) + [Thuần Động Cơ] exPLORE</li>
       
         </ul>
       
 
       <p className="margin-top-20 text-indent-whole"><strong>Nhóm 3</strong>: [<strong>Ý-Thái Thuần Động Cơ</strong>][<strong>Soft-Modal Bare Verb Base</strong>]</p>
 
-      <p className="text-indent-whole">Nhóm diễn đạt các tình huống giao tiếp lịch sự, nhã nhặn hoặc đưa ra lời khuyên, gợi ý nhẹ nhàng: would (nhã nhặn), should (gợi ý), could (khả năng nhẹ), might (khả năng thấp), ought to (khuyên bảo), had better (khuyên nhủ).</p>
+      <p className="text-indent-whole">Nhóm diễn đạt các tình huống giao tiếp lịch sự, nhã nhặn hoặc đưa ra lời khuyên, gợi ý nhẹ nhàng: would (nhã nhặn), should (gợi ý), could (khả năng nhẹ), might (khả năng thấp), ought to (khuyên bảo), had BETter (khuyên nhủ).</p>
 
         <ul className="list-square">
       
-          <li>should explore ➔ [Ý-Thái Động Cơ] should (gợi ý) + [Thuần Động Cơ] explore</li>
+          <li>should exPLORE ➔ [Ý-Thái Động Cơ] should (gợi ý) + [Thuần Động Cơ] exPLORE</li>
       
-          <li>could explore ➔ [Ý-Thái Động Cơ] could (khả năng nhẹ) + [Thuần Động Cơ] explore</li>
+          <li>could exPLORE ➔ [Ý-Thái Động Cơ] could (khả năng nhẹ) + [Thuần Động Cơ] exPLORE</li>
       
         </ul>
       
 
       <p className="margin-top-20 text-indent-whole"><strong>Nhóm 4</strong>: [<strong>Áp-Thái Thuần Động Cơ</strong>][<strong>Assertive-Modal Bare Verb Base</strong>]</p>
 
-      <p className="text-indent-whole">Nhóm biểu thị tính ép buộc, cam kết hoặc chắc chắn cao, không để lại lối thoát cho người nghe: will (cam kết), shall (chắc chắn), can (năng lực), must (ép buộc), have to (bắt buộc), may (khả năng).</p>
+      <p className="text-indent-whole">Nhóm biểu thị tính ép buộc, cam kết hoặc chắc chắn cao, không để lại lối thoát cho người nghe: will (cam kết), shall (chắc chắn), can (năng lực), must (ép buộc), HAVE to (bắt buộc), may (khả năng).</p>
 
         <ul className="list-square">
       
-          <li>will explore ➔ [Áp-Thái Động Cơ] will (cam kết) + [Thuần Động Cơ] explore</li>
+          <li>will exPLORE ➔ [Áp-Thái Động Cơ] will (cam kết) + [Thuần Động Cơ] exPLORE</li>
       
-          <li>must explore ➔ [Áp-Thái Động Cơ] must (ép buộc) + [Thuần Động Cơ] explore</li>
+          <li>must exPLORE ➔ [Áp-Thái Động Cơ] must (ép buộc) + [Thuần Động Cơ] exPLORE</li>
       
         </ul>
 
@@ -162,52 +162,52 @@ export default function TieredStructure1(): React.JSX.Element {
 
 			<ol>
       
-          <li value="1">[<strong>Rễ Động Cơ</strong>][<strong>Root Verb Base</strong>]: build, design, explore</li>
+          <li value="1">[<strong>Rễ Động Cơ</strong>][<strong>Root Verb Base</strong>]: BUILD deSIGN exPLORE</li>
           <li className="margin-bottom-20 list-none">Hành động ở dạng [Rễ Động Cơ][Root Verb Base] trạng thái nguyên thủy, chưa qua bất kỳ bộ lọc chia thời, chia ngôi hay xử lý thái độ nào.</li>
       
-          <li value="2">[<strong>Hạt Động Cơ</strong>][<strong>Particle Verb Base</strong>]: to, away, back, over, through, around, ahead</li>
+          <li value="2">[<strong>Hạt Động Cơ</strong>][<strong>Particle Verb Base</strong>]: to, aWAY, BACK, Over, THROUGH, aROUND, aHEAD</li>
           <li className="margin-bottom-20 list-none">[Hạt] "to" đơn lẻ đóng vai trò hạt nhân đầu tiên đứng trước mọi khối hành động để làm công tắc kích hoạt trạng thái nguyên bản. Các [Hạt] như away, back, over, through, around, ahead, ... đơn lẻ đứng sau đóng vai trò định hướng hành động để khuếch đại, chuyển giao hoặc làm rõ quỹ đạo chuyển động cho khối hành động.</li>
 
           <li value="3">[<strong>Thời Động Cơ</strong>][<strong>Tense Verb Base</strong>]: does, did, is, has, was, am, are</li>
           <li className="margin-bottom-20 list-none">Từ đơn lẻ đóng vai trò làm bộ định vị, mang năng lượng [Thời] gian thực tế vào trong câu.</li>
       
           <li value="4">[<strong>Ý-Thái Động Cơ</strong>][<strong>Soft-Modal Verb Base</strong>]: would, could, should, might</li>
-          <li className="margin-bottom-20 list-none">Cấu trúc biểu thị [Thái] độ uyển chuyển, nhường nhịn và triệt tiêu tính ép buộc. Các khối phức đặc biệt "ought to" và "had better" được quét như một thực thể [Phức Ý-Thái Động Cơ][Complex Soft-Modal Verb Base] thống nhất.</li>
+          <li className="margin-bottom-20 list-none">Cấu trúc biểu thị [Thái] độ uyển chuyển, nhường nhịn và triệt tiêu tính ép buộc. Các khối phức đặc biệt "ought to" và "had BETter" được quét như một thực thể [Phức Ý-Thái Động Cơ][Complex Soft-Modal Verb Base] thống nhất.</li>
 
           <li value="5">[<strong>Áp-Thái Động Cơ</strong>][<strong>Assertive-Modal Verb Base</strong>]: will, shall, can, must, may</li>
           <li className="margin-bottom-20 list-none">Cấu trúc biểu thị [Thái] độ trực diện, [Áp] đặt thực tế và có độ cam kết, ràng buộc cao. Khối phức đặc biệt "have to" được quét như một thực thể [Phức Áp-Thái Động Cơ][Complex Assertive-Modal Verb Base] thống nhất.</li>
 
-          <li value="6">[<strong>Thuần Động Cơ</strong>][<strong>Bare Verb Base</strong>]: build, design, explore</li>
+          <li value="6">[<strong>Thuần Động Cơ</strong>][<strong>Bare Verb Base</strong>]: BUILD, deSIGN, exPLORE</li>
           <li className="margin-bottom-20 list-none">Hành động ở dạng [Thuần] khiết, nguyên bản đã được giải phóng hoàn toàn khỏi hạt "to", thường đứng ngay sau [Hạt Động Cơ][Particle Verb Base] "to", [Ý-Thái][Soft-Modal] hay [Áp-Thái Động Cơ][Assertive-Modal Verb Base] hoặc các [Rễ Động Cơ][Root Verb Base] tác động / tri giác như make, let, let's, help, have, get, see, hear, watch, feel, notice, observe, smell, ...</li>
       
-          <li value="7">[<strong>Hạt Thuần Động Cơ</strong>][<strong>Particle Bare Verb Base</strong>]: to build, to explore</li>
+          <li value="7">[<strong>Hạt Thuần Động Cơ</strong>][<strong>Particle Bare Verb Base</strong>]: to BUILD, to exPLORE</li>
           <li className="margin-bottom-20 list-none">Sự liên kết tuyến tính chặt chẽ giữa hạt nhân định hướng [Hạt Động Cơ] và hành động [Thuần] khiết phía sau.</li>
 
-          <li value="8">[<strong>Ý-Thái Thuần Động Cơ</strong>][<strong>Soft-Modal Bare Verb Base</strong>]: would explore, could design</li>
+          <li value="8">[<strong>Ý-Thái Thuần Động Cơ</strong>][<strong>Soft-Modal Bare Verb Base</strong>]: would exPLORE, could deSIGN</li>
           <li className="margin-bottom-20 list-none">Sự hợp nhất cấu trúc giữa bộ lọc [Thái] độ nhã nhặn và hành động [Thuần] khiết.</li>
       
-          <li value="9">[<strong>Áp-Thái Thuần Động Cơ</strong>][<strong>Assertive-Modal Bare Verb Base</strong>]: will explore, can build</li>
+          <li value="9">[<strong>Áp-Thái Thuần Động Cơ</strong>][<strong>Assertive-Modal Bare Verb Base</strong>]: will exPLORE, can BUILD</li>
           <li className="margin-bottom-20 list-none">Sự hợp nhất cấu trúc giữa bộ lọc [Thái] độ khẳng định, [Áp] đặt và hành động [Thuần] khiết.</li>
 
-          <li value="10">[<strong>Thời Thuần Động Cơ</strong>][<strong>Tense Bare Verb Base</strong>]: did build, does design</li>
+          <li value="10">[<strong>Thời Thuần Động Cơ</strong>][<strong>Tense Bare Verb Base</strong>]: did BUILD, does deSIGN</li>
           <li className="margin-bottom-20 list-none">Tổ hợp song hành giữ nguyên khoảng trắng phân tách nhằm định vị [Thời] gian và hành động [Thuần] khiết.</li>
 
-          <li value="11">[<strong>Thời-Thuần Động Cơ</strong>][<strong>Tense-Bare Verb Base</strong>]: built, builds, designs</li>
+          <li value="11">[<strong>Thời-Thuần Động Cơ</strong>][<strong>Tense-Bare Verb Base</strong>]: BUILT, BUILDS, deSIGNS</li>
           <li className="margin-bottom-20 list-none">Trạng thái tích hợp tối giản khi năng lượng [Thời] gian và hành động [Thuần] khiết hòa tan làm một chữ duy nhất.</li>
       
-          <li value="12">[<strong>Tiếp Động Cơ</strong>][<strong>Progressive Verb Base</strong>]: building, designing, exploring</li>
+          <li value="12">[<strong>Tiếp Động Cơ</strong>][<strong>Progressive Verb Base</strong>]: BUILDing, deSIGNing, exPLORing</li>
           <li className="margin-bottom-20 list-none">Hình thái hành động mang đuôi -ing biểu thị trạng thái [Tiếp] diễn, vận hành liên tục.</li>
 
-          <li value="13">[<strong>Hoàn Động Cơ</strong>][<strong>Perfect Verb Base</strong>]: built, designed, been, explored</li>
+          <li value="13">[<strong>Hoàn Động Cơ</strong>][<strong>Perfect Verb Base</strong>]: BUILT, deSIGNED, been, exPLORED</li>
           <li className="margin-bottom-20 list-none">Hình thái hành động ở dạng hoàn thành (cột 3 hoặc thêm đuôi -ed) biểu thị tính chất trọn vẹn, [Hoàn] thành.</li>
       
-          <li value="14">[<strong>Thời Tiếp Động Cơ</strong>][<strong>Tense Progressive Verb Base</strong>]: is building, was designing</li>
+          <li value="14">[<strong>Thời Tiếp Động Cơ</strong>][<strong>Tense Progressive Verb Base</strong>]: is BUILDing, was deSIGNing</li>
           <li className="margin-bottom-20 list-none">Sự kết hợp tuyến tính mang lại trạng thái đang diễn ra tại một mốc [Thời] gian cụ thể.</li>
 
-          <li value="15">[<strong>Thời Hoàn Động Cơ</strong>][<strong>Tense Perfect Verb Base</strong>]: has built, had designed</li>
+          <li value="15">[<strong>Thời Hoàn Động Cơ</strong>][<strong>Tense Perfect Verb Base</strong>]: has BUILT, had deSIGNED</li>
           <li className="margin-bottom-20 list-none">Sự kết hợp tuyến tính mang lại trạng thái đã [Hoàn] tất tính đến một mốc [Thời] gian cụ thể.</li>
       
-          <li value="16">[<strong>Thời Hoàn Tiếp Động Cơ</strong>][<strong>Tense Perfect Progressive Verb Base</strong>]: has been building, had been designing</li>
+          <li value="16">[<strong>Thời Hoàn Tiếp Động Cơ</strong>][<strong>Tense Perfect Progressive Verb Base</strong>]: has been BUILDing, had been deSIGNing</li>
           <li className="list-none">Cấu trúc tích hợp sâu sắc nhất, giao thoa cả ba lớp năng lượng: mốc [Thời] gian, tính [Hoàn] thành và tính [Tiếp] diễn.</li>
       
         </ol>
@@ -223,11 +223,11 @@ export default function TieredStructure1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>exploring [Tiếp Động Cơ] + a new city [Danh Nhận]</li>
-					<li className="margin-bottom-20 list-none">➔ exploring a new city [Tiếp Động Cụm][Progressive Verb Phrase].</li>
+					<li>exPLORing [Tiếp Động Cơ] + a NEW CIty [Danh Nhận]</li>
+					<li className="margin-bottom-20 list-none">➔ exPLORing a NEW CIty [Tiếp Động Cụm][Progressive Verb Phrase].</li>
 			
-					<li>has built [Thời Hoàn Động Cơ] + a smart home [Danh Nhận] + recently [Trạng Cơ]</li>
-					<li className="margin-bottom-20 list-none">➔ has built a smart home recently [Thời Hoàn Động Cụm][Tense Perfect Verb Phrase].</li>
+					<li>has BUILT [Thời Hoàn Động Cơ] + a SMART HOME [Danh Nhận] + REcently [Trạng Cơ]</li>
+					<li className="margin-bottom-20 list-none">➔ has BUILT a SMART HOME REcently [Thời Hoàn Động Cụm][Tense Perfect Verb Phrase].</li>
 			
 				</ul>
 

@@ -107,13 +107,13 @@ export default function SV1(): React.JSX.Element {
 
         <ul className="list-square">
       
-          <li>be exploring ➔ [Thời] be (am/is/are, was/were) + [Tiếp Động Cơ] exploring</li>
+          <li>be exPLOREing ➔ [Thời] be (am/is/are, was/were) + [Tiếp Động Cơ] exPLOREing</li>
 
-          <li>have been exploring ➔ [Thời + Hoàn] have/has/had + been + [Tiếp Động Cơ] exploring</li>
+          <li>have been exPLOREing ➔ [Thời + Hoàn] have/has/had + been + [Tiếp Động Cơ] exPLOREing</li>
       
-          <li>have explored ➔ [Thời + Hoàn] have/has/had + explored</li>
+          <li>have exPLORED ➔ [Thời + Hoàn] have/has/had + exPLORED</li>
       
-          <li>explores, explored ➔ [Thời-Thuần Động Cơ] Tích hợp hoàn toàn</li>
+          <li>exPLORES, exPLORED ➔ [Thời-Thuần Động Cơ] Tích hợp hoàn toàn</li>
       
         </ul>
       
@@ -124,9 +124,9 @@ export default function SV1(): React.JSX.Element {
 
         <ul className="list-square">
       
-          <li>to explore ➔ [Hạt Động Cơ] to + [Thuần Động Cơ] explore</li>
+          <li>to exPLORE ➔ [Hạt Động Cơ] to + [Thuần Động Cơ] exPLORE</li>
       
-          <li>did explore ➔ [Thời] did (Nhấn mạnh) + [Thuần Động Cơ] explore</li>
+          <li>did exPLORE ➔ [Thời] did (Nhấn mạnh) + [Thuần Động Cơ] exPLORE</li>
       
         </ul>
       
@@ -137,9 +137,9 @@ export default function SV1(): React.JSX.Element {
 
         <ul className="list-square">
       
-          <li>should explore ➔ [Ý-Thái] should (gợi ý) + [Thuần Động Cơ] explore</li>
+          <li>should exPLORE ➔ [Ý-Thái] should (gợi ý) + [Thuần Động Cơ] exPLORE</li>
       
-          <li>could explore ➔ [Ý-Thái] could (khả năng nhẹ) + [Thuần Động Cơ] explore</li>
+          <li>could exPLORE ➔ [Ý-Thái] could (khả năng nhẹ) + [Thuần Động Cơ] exPLORE</li>
       
         </ul>
       
@@ -150,9 +150,9 @@ export default function SV1(): React.JSX.Element {
 
         <ul className="list-square">
       
-          <li>will explore ➔ [Áp-Thái] will (cam kết) + [Thuần Động Cơ] explore</li>
+          <li>will exPLORE ➔ [Áp-Thái] will (cam kết) + [Thuần Động Cơ] exPLORE</li>
       
-          <li>must explore ➔ [Áp-Thái] must (ép buộc) + [Thuần Động Cơ] explore</li>
+          <li>must exPLORE ➔ [Áp-Thái] must (ép buộc) + [Thuần Động Cơ] exPLORE</li>
       
         </ul>
 
@@ -161,52 +161,52 @@ export default function SV1(): React.JSX.Element {
 			
 				<ol>
       
-          <li value="1">[<strong>Rễ Động Cơ</strong>][<strong>Root Verb Base</strong>]: learn, speak, build</li>
+          <li value="1">[<strong>Rễ Động Cơ</strong>][<strong>Root Verb Base</strong>]: LEARN, SPEAK, BUILD</li>
           <li className="margin-bottom-20 list-none">Hành động ở dạng nguyên thủy cốt lõi nhất, chưa thêm bớt hay kết hợp với bất kỳ hành động nào khác.</li>
       
-          <li value="2">[<strong>Hạt Động Cơ</strong>][<strong>Particle Verb Base</strong>]: to, in, on, at, by</li>
+          <li value="2">[<strong>Hạt Động Cơ</strong>][<strong>Particle Verb Base</strong>]: to, IN, ON, AT, BY</li>
           <li className="margin-bottom-20 list-none">[Hạt] "to" đơn lẻ đóng vai trò hạt nhân đầu tiên đứng trước mọi khối hành động để kích hoạt trạng thái nguyên bản. Các [Hạt] như in, on, at, by đơn lẻ đứng sau đóng vai trò định hướng hành động để chỉ rõ không gian hoặc phương thức thực hiện.</li>
 
           <li value="3">[<strong>Thời Động Cơ</strong>][<strong>Tense Verb Base</strong>]: does, did, is, has, was, am, are</li>
           <li className="margin-bottom-20 list-none">Các [Thời Động Cơ][Tense Verb Base] xuất hiện đơn lẻ để gánh vác năng lượng [Thời] gian, [Thời] cho câu.</li>
       
-          <li value="4">[<strong>Ý-Thái Động Cơ</strong>][<strong>Soft-Modal Verb Base</strong>]: would, could, should, might, ought to, had better</li>
+          <li value="4">[<strong>Ý-Thái Động Cơ</strong>][<strong>Soft-Modal Verb Base</strong>]: would, could, should, might, ought to, had BETter</li>
           <li className="margin-bottom-20 list-none">Hành động thể hiện [Thái] độ nhã nhặn, triệt tiêu tính ép buộc. Các khối phức đặc biệt "ought to" và "had better" được quét như một [Phức Ý-Thái Động Cơ][Complex Soft-Modal Verb Base] thống nhất.</li>
 
-          <li value="5">[<strong>Áp-Thái Động Cơ</strong>][<strong>Assertive-Modal Verb Base</strong>]: will, shall, can, must, have to, may</li>
+          <li value="5">[<strong>Áp-Thái Động Cơ</strong>][<strong>Assertive-Modal Verb Base</strong>]: will, shall, can, must, HAVE to, may</li>
           <li className="margin-bottom-20 list-none">Hành động mang tính trực diện, [Áp] đặt thực tế xuống người nghe. Khối phức đặc biệt "have to" được quét như một [Phức Áp-Thái Động Cơ][Complex Assertive-Modal Verb Base] thống nhất.</li>
 
-          <li value="6">[<strong>Thuần Động Cơ</strong>][<strong>Bare Verb Base</strong>]: learn, speak, build</li>
+          <li value="6">[<strong>Thuần Động Cơ</strong>][<strong>Bare Verb Base</strong>]: LEARN, SPEAK, BUILD</li>
           <li className="margin-bottom-20 list-none">Hành động [Thuần] khiết đứng tự do một mình, đã giải phóng hoàn toàn và không đi kèm to, thường đứng ngay sau [Hạt Động Cơ][Particle Verb Base] "to", [Ý-Thái][Soft-Modal] hay [Áp-Thái Động Cơ][Assertive-Modal Verb Base] hoặc [Rễ Động Cơ][Root Verb Base] như make, let, help, have, see, hear, watch, feel, notice.</li>
       
-          <li value="7">[<strong>Hạt Thuần Động Cơ</strong>][<strong>Particle Bare Verb Base</strong>]: to learn, to speak, to build</li>
+          <li value="7">[<strong>Hạt Thuần Động Cơ</strong>][<strong>Particle Bare Verb Base</strong>]: to LEARN, to SPEAK, to BUILD</li>
           <li className="margin-bottom-20 list-none">Sự hợp nhất tuyến tính giữa [Hạt Động Cơ][Particle Verb Base] và hành động [Thuần Động Cơ][Bare Verb Base] phía sau.</li>
 
-          <li value="8">[<strong>Ý-Thái Thuần Động Cơ</strong>][<strong>Soft-Modal Bare Verb Base</strong>]: would build, could speak</li>
+          <li value="8">[<strong>Ý-Thái Thuần Động Cơ</strong>][<strong>Soft-Modal Bare Verb Base</strong>]: would BUILD, could SPEAK</li>
           <li className="margin-bottom-20 list-none">Sự hợp nhất tuyến tính giữa [Thái] độ, [Ý] nhị và hành động [Thuần] khiết.</li>
       
-          <li value="9">[<strong>Áp-Thái Thuần Động Cơ</strong>][<strong>Assertive-Modal Bare Verb Base</strong>]: will build, can speak</li>
+          <li value="9">[<strong>Áp-Thái Thuần Động Cơ</strong>][<strong>Assertive-Modal Bare Verb Base</strong>]: will BUILD, can SPEAK</li>
           <li className="margin-bottom-20 list-none">Sự hợp nhất tuyến tính giữa [Thái] độ, [Áp] đặt thực tế và hành động [Thuần] khiết.</li>
 
-          <li value="10">[<strong>Thời Thuần Động Cơ</strong>][<strong>Tense Bare Verb Base</strong>]: did speak, does build</li>
+          <li value="10">[<strong>Thời Thuần Động Cơ</strong>][<strong>Tense Bare Verb Base</strong>]: did SPEAK, does BUILD</li>
           <li className="margin-bottom-20 list-none">Trạng thái [Thời] gian và hành động [Thuần] khiết song hành, được ngăn cách bởi một khoảng trắng.</li>
 
-          <li value="11">[<strong>Thời-Thuần Động Cơ</strong>][<strong>Tense-Bare Verb Base</strong>]: spoke, speaks, builds, works</li>
+          <li value="11">[<strong>Thời-Thuần Động Cơ</strong>][<strong>Tense-Bare Verb Base</strong>]: SPOKE, SPEAKS, BUILDS, WORKS</li>
           <li className="margin-bottom-20 list-none">Hành động chính mang thời (chia thì đơn), tích hợp trọn vẹn trạng thái [Thời] gian và hành động [Thuần] khiết hòa tan gọn gàng vào một chữ duy nhất.</li>
       
-          <li value="12">[<strong>Tiếp Động Cơ</strong>][<strong>Progressive Verb Base</strong>]: learning, speaking, building</li>
+          <li value="12">[<strong>Tiếp Động Cơ</strong>][<strong>Progressive Verb Base</strong>]: LEARNing, SPEAKing, BUILDing</li>
           <li className="margin-bottom-20 list-none">Hành động mang đuôi -ing, biểu thị tính chất đang [Tiếp] diễn, kéo dài.</li>
 
-          <li value="13">[<strong>Hoàn Động Cơ</strong>][<strong>Perfect Verb Base</strong>]: learnt, spoken, built, been</li>
+          <li value="13">[<strong>Hoàn Động Cơ</strong>][<strong>Perfect Verb Base</strong>]: LEARNT, SPOKEN, BUILT, been</li>
           <li className="margin-bottom-20 list-none">Hành động ở dạng hoàn tất (cột 3/-ed), biểu thị tính chất trọn vẹn, [Hoàn] thành.</li>
       
-          <li value="14">[<strong>Thời Tiếp Động Cơ</strong>][<strong>Tense Progressive Verb Base</strong>]: is speaking, was building</li>
+          <li value="14">[<strong>Thời Tiếp Động Cơ</strong>][<strong>Tense Progressive Verb Base</strong>]: is SPEAKing, was BUILDing</li>
           <li className="margin-bottom-20 list-none">Sự hợp nhất tuyến tính giữa từ mang [Thời] gian và hành động mang tính [Tiếp] diễn.</li>
 
-          <li value="15">[<strong>Thời Hoàn Động Cơ</strong>][<strong>Tense Perfect Verb Base</strong>]: has spoken, had built</li>
+          <li value="15">[<strong>Thời Hoàn Động Cơ</strong>][<strong>Tense Perfect Verb Base</strong>]: has SPOken, had BUILT</li>
           <li className="margin-bottom-20 list-none">Sự hợp nhất tuyến tính giữa từ mang [Thời] và hành động mang tính [Hoàn] thành.</li>
       
-          <li value="16">[<strong>Thời Hoàn Tiếp Động Cơ</strong>][<strong>Tense Perfect Progressive Verb Base</strong>]: has been speaking, had been building</li>
+          <li value="16">[<strong>Thời Hoàn Tiếp Động Cơ</strong>][<strong>Tense Perfect Progressive Verb Base</strong>]: has been SPEAKing, had been BUILDing</li>
           <li className="list-none">Sự hợp nhất tuyến tính đồng thời của ba lớp năng lượng: [Thời] gian, [Hoàn] thành và [Tiếp] diễn.</li>
       
         </ol>

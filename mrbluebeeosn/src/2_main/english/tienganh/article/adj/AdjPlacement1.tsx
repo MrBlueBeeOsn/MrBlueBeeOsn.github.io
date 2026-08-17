@@ -83,10 +83,10 @@ export default function AdjPlacement1(): React.JSX.Element {
 			
 				<ol>
       
-          <li value="1">[<strong>Rễ Động Cơ</strong>][<strong>Root Verb Base</strong>]: originate, formulate</li>
+          <li value="1">[<strong>Rễ Động Cơ</strong>][<strong>Root Verb Base</strong>]: oRIGinate, FORMulate</li>
           <li className="margin-bottom-20 list-none">Hành động ở dạng [Rễ Động Cơ][Root Verb Base] nguyên bản, chưa bị biến đổi bởi bất kỳ yếu tố nào.</li>
       
-          <li value="2">[<strong>Hạt Động Cơ</strong>][<strong>Particle Verb Base</strong>]: to, away, back, forth, through</li>
+          <li value="2">[<strong>Hạt Động Cơ</strong>][<strong>Particle Verb Base</strong>]: to, aWAY, BACK, FORTH, THROUGH</li>
           <li className="margin-bottom-20 list-none">[Hạt] "to" đơn lẻ đóng vai trò hạt nhân đầu tiên đứng trước mọi khối hành động để kích hoạt trạng thái nguyên bản. Các [Hạt] như away, back, forth, through đơn lẻ đứng sau hành động để tạo ra hướng di chuyển hoặc chuyển hóa trạng thái không gian của hành động đó.</li>
 
           <li value="3">[<strong>Thời Động Cơ</strong>][<strong>Tense Verb Base</strong>]: is, was, does</li>
@@ -98,37 +98,37 @@ export default function AdjPlacement1(): React.JSX.Element {
           <li value="5">[<strong>Áp-Thái Động Cơ</strong>][<strong>Assertive-Modal Verb Base</strong>]: will, must, can</li>
           <li className="margin-bottom-20 list-none">Hành động chỉ [Thái] độ trực diện, mang tính xác quyết và thực thi thực tế mạnh mẽ. Các khối phức đặc biệt: [Phức Áp-Thái Động Cơ][Complex Assertive-Modal Verb Base] như have to được quét như một đơn vị thống nhất.</li>
 
-          <li value="6">[<strong>Thuần Động Cơ</strong>][<strong>Bare Verb Base</strong>]: originate, formulate</li>
+          <li value="6">[<strong>Thuần Động Cơ</strong>][<strong>Bare Verb Base</strong>]: oRIGinate, FORMulate</li>
           <li className="margin-bottom-20 list-none">Hành động [Thuần] khiết ở dạng tự do hoàn toàn, thường đứng ngay sau [Hạt Động Cơ][Particle Verb Base] "to", [Ý-Thái][Soft-Modal] hay [Áp-Thái Động Cơ][Assertive-Modal Verb Base] hoặc [Rễ Động Cơ][Root Verb Base] như make, let, help, have, get, see, hear, watch, feel.</li>
       
-          <li value="7">[<strong>Hạt Thuần Động Cơ</strong>][<strong>Particle Bare Verb Base</strong>]: to originate, to formulate</li>
+          <li value="7">[<strong>Hạt Thuần Động Cơ</strong>][<strong>Particle Bare Verb Base</strong>]: to oRIGinate, to FORMulate</li>
           <li className="margin-bottom-20 list-none">Sự kết hợp tuyến tính giữa [Hạt] và hành động [Thuần] khiết, tạo nên mẫu hành động nguyên bản.</li>
 
-          <li value="8">[<strong>Ý-Thái Thuần Động Cơ</strong>][<strong>Soft-Modal Bare Verb Base</strong>]: would verify, could design</li>
+          <li value="8">[<strong>Ý-Thái Thuần Động Cơ</strong>][<strong>Soft-Modal Bare Verb Base</strong>]: would VERify, could deSIGN</li>
           <li className="margin-bottom-20 list-none">Kết hợp [Thái] độ mềm mỏng với hành động [Thuần] khiết, biểu đạt sự nhường nhịn.</li>
       
-          <li value="9">[<strong>Áp-Thái Thuần Động Cơ</strong>][<strong>Assertive-Modal Bare Verb Base</strong>]: will verify, can design</li>
+          <li value="9">[<strong>Áp-Thái Thuần Động Cơ</strong>][<strong>Assertive-Modal Bare Verb Base</strong>]: will VERify, can deSIGN</li>
           <li className="margin-bottom-20 list-none">Sự hợp nhất tính xác quyết với hành động [Thuần] khiết, tạo nên khả năng thực tế rõ ràng.</li>
 
-          <li value="10">[<strong>Thời Thuần Động Cơ</strong>][<strong>Tense Bare Verb Base</strong>]: did originate, does formulate</li>
+          <li value="10">[<strong>Thời Thuần Động Cơ</strong>][<strong>Tense Bare Verb Base</strong>]: did oRIGinate, does FORMulate</li>
           <li className="margin-bottom-20 list-none">Cấu trúc song hành tách biệt giữa yếu tố [Thời] và hành động [Thuần] khiết.</li>
 
-          <li value="11">[<strong>Thời-Thuần Động Cơ</strong>][<strong>Tense-Bare Verb Base</strong>]: originated, formulates</li>
+          <li value="11">[<strong>Thời-Thuần Động Cơ</strong>][<strong>Tense-Bare Verb Base</strong>]: oRIGinated, FORMulates</li>
           <li className="margin-bottom-20 list-none">Sự tích hợp hoàn toàn năng lượng [Thời] và hành động [Thuần] khiết vào một đơn vị từ duy nhất.</li>
       
-          <li value="12">[<strong>Tiếp Động Cơ</strong>][<strong>Progressive Verb Base</strong>]: originating, formulating</li>
+          <li value="12">[<strong>Tiếp Động Cơ</strong>][<strong>Progressive Verb Base</strong>]: oRIGinating, FORMulating</li>
           <li className="margin-bottom-20 list-none">Hành động mang hậu tố "-ing", diễn tả trạng thái đang [Tiếp] diễn, kéo dài.</li>
 
-          <li value="13">[<strong>Hoàn Động Cơ</strong>][<strong>Perfect Verb Base</strong>]: originated, formulated</li>
+          <li value="13">[<strong>Hoàn Động Cơ</strong>][<strong>Perfect Verb Base</strong>]: oRIGinated, FORMulated</li>
           <li className="margin-bottom-20 list-none">Dạng phân bổ trợ hoặc đuôi "-ed", xác lập trạng thái hành động đã trọn vẹn, [Hoàn] tất.</li>
       
-          <li value="14">[<strong>Thời Tiếp Động Cơ</strong>][<strong>Tense Progressive Verb Base</strong>]: is originating, was formulating</li>
+          <li value="14">[<strong>Thời Tiếp Động Cơ</strong>][<strong>Tense Progressive Verb Base</strong>]: is oRIGinating, was FORMulating</li>
           <li className="margin-bottom-20 list-none">Sự hợp nhất tuyến tính giữa yếu tố [Thời] và trạng thái hành động đang diễn ra.</li>
 
-          <li value="15">[<strong>Thời Hoàn Động Cơ</strong>][<strong>Tense Perfect Verb Base</strong>]: has originated, had formulated</li>
+          <li value="15">[<strong>Thời Hoàn Động Cơ</strong>][<strong>Tense Perfect Verb Base</strong>]: has oRIGinated, had FORMulated</li>
           <li className="margin-bottom-20 list-none">Sự hợp nhất tuyến tính giữa yếu tố [Thời] và trạng thái hành động đã [Hoàn] thành.</li>
       
-          <li value="16">[<strong>Thời Hoàn Tiếp Động Cơ</strong>][<strong>Tense Perfect Progressive Verb Base</strong>]: has been originating, had been formulating</li>
+          <li value="16">[<strong>Thời Hoàn Tiếp Động Cơ</strong>][<strong>Tense Perfect Progressive Verb Base</strong>]: has been oRIGinating, had been FORMulating</li>
           <li className="list-none">Phức hợp ba tầng năng lượng: [Thời] gian, [Hoàn] thành và [Tiếp] diễn.</li>
       
         </ol>
@@ -144,9 +144,9 @@ export default function AdjPlacement1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>formulating [Tiếp Động Cơ][Progressive Verb Base] + a strategy [Danh Nhận][Noun Object]</li>
+					<li>FORMulating [Tiếp Động Cơ][Progressive Verb Base] + a STRATegy [Danh Nhận][Noun Object]</li>
 			
-					<li>➔ formulating a strategy [Tiếp Động Cụm][Progressive Verb Phrase].</li>
+					<li>➔ FORMulating a STRATegy [Tiếp Động Cụm][Progressive Verb Phrase].</li>
 			
 				</ul>
 
@@ -157,13 +157,13 @@ export default function AdjPlacement1(): React.JSX.Element {
 
         <ul className="list-square">
       
-          <li>is originating → [Thời][Tense] be + [Tiếp Động Cơ][Progressive Verb Base] originating</li>
+          <li>is oRIGinating → [Thời][Tense] be + [Tiếp Động Cơ][Progressive Verb Base] oRIGinating</li>
 
-          <li>has been formulating → [Thời + Hoàn][Tense + Perfect] has + been + [Tiếp Động Cơ][Progressive Verb Base] formulating</li>
+          <li>has been FORMulating → [Thời + Hoàn][Tense + Perfect] has + been + [Tiếp Động Cơ][Progressive Verb Base] FORMulating</li>
       
-          <li>has originated → [Thời][Tense] has + [Hoàn Động Cơ][Perfect Verb Base] originated</li>
+          <li>has oRIGinated → [Thời][Tense] has + [Hoàn Động Cơ][Perfect Verb Base] oRIGinated</li>
       
-          <li>formulates/originated → [Thời-Thuần Động Cơ][Tense-Bare Verb Base] tích hợp</li>
+          <li>FORMulates/oRIGinated → [Thời-Thuần Động Cơ][Tense-Bare Verb Base] tích hợp</li>
       
         </ul>
       
@@ -174,9 +174,9 @@ export default function AdjPlacement1(): React.JSX.Element {
 
         <ul className="list-square">
       
-          <li>to formulate → [Hạt][Particle] to + [Thuần Động Cơ][Bare Verb Base] formulate</li>
+          <li>to FORMulate → [Hạt][Particle] to + [Thuần Động Cơ][Bare Verb Base] FORMulate</li>
       
-          <li>did originate → [Thời][Tense] did + [Thuần Động Cơ][Bare Verb Base] originate</li>
+          <li>did oRIGinate → [Thời][Tense] did + [Thuần Động Cơ][Bare Verb Base] oRIGinate</li>
       
         </ul>
       
@@ -187,9 +187,9 @@ export default function AdjPlacement1(): React.JSX.Element {
 
         <ul className="list-square">
       
-          <li>should formulate → [Ý-Thái][Soft-Modal] should + [Thuần Động Cơ][Bare Verb Base] formulate</li>
+          <li>should FORMulate → [Ý-Thái][Soft-Modal] should + [Thuần Động Cơ][Bare Verb Base] FORMulate</li>
       
-          <li>could originate → [Ý-Thái][Soft-Modal] could + [Thuần Động Cơ][Bare Verb Base] originate</li>
+          <li>could oRIGinate → [Ý-Thái][Soft-Modal] could + [Thuần Động Cơ][Bare Verb Base] oRIGinate</li>
       
         </ul>
       
@@ -200,9 +200,9 @@ export default function AdjPlacement1(): React.JSX.Element {
 
         <ul className="list-square">
       
-          <li>will formulate → [Áp-Thái][Assertive-Modal] will + [Thuần Động Cơ][Bare Verb Base] formulate</li>
+          <li>will FORMulate → [Áp-Thái][Assertive-Modal] will + [Thuần Động Cơ][Bare Verb Base] FORMulate</li>
       
-          <li>must originate → [Áp-Thái][Assertive-Modal] must + [Thuần Động Cơ][Bare Verb Base] originate</li>
+          <li>must oRIGinate → [Áp-Thái][Assertive-Modal] must + [Thuần Động Cơ][Bare Verb Base] oRIGinate</li>
       
         </ul>
  

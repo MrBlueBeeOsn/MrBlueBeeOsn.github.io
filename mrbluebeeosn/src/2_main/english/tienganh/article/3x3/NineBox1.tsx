@@ -102,52 +102,52 @@ export default function NineBox1(): React.JSX.Element {
 			
 				<ol>
       
-          <li value="1">[<strong>Rễ Động Cơ</strong>][<strong>Root Verb Base</strong>]: analyze, compile, transmit</li>
+          <li value="1">[<strong>Rễ Động Cơ</strong>][<strong>Root Verb Base</strong>]: ANalyze, comPILE, transMIT</li>
           <li className="margin-bottom-20 list-none">Hành động ở dạng [Rễ Động Cơ][Root Verb Base] trạng thái sơ khai nhất, chưa qua bất kỳ quá trình biến đổi cấu trúc hay tích hợp thêm thành phần nào khác.</li>
       
-          <li value="2">[<strong>Hạt Động Cơ</strong>][<strong>Particle Verb Base</strong>]: to, away, back, in, over, through</li>
+          <li value="2">[<strong>Hạt Động Cơ</strong>][<strong>Particle Verb Base</strong>]: to, aWAY, BACK, IN, Over, THROUGH</li>
           <li className="margin-bottom-20 list-none">[Hạt] "to" định hướng đơn lẻ, hoạt động như một hạt nhân nền tảng đứng trước để kích hoạt trạng thái nguyên thủy cho khối hành động. Các [Hạt] như away, back, in, over, through đơn lẻ đứng sau hành động để điều hướng trạng thái, hoàn tất bối cảnh không gian hoặc gia tăng góc độ vận hành cho hạt nhân hành động.</li>
 
           <li value="3">[<strong>Thời Động Cơ</strong>][<strong>Tense Verb Base</strong>]: does, did, is, has, was, am, are</li>
           <li className="margin-bottom-20 list-none">Thành phần đơn lẻ chịu trách nhiệm tải năng lượng [Thời] gian và định vị mốc [Thời] gian xảy ra hành động trên trục số.</li>
       
-          <li value="4">[<strong>Ý-Thái Động Cơ</strong>][<strong>Soft-Modal Verb Base</strong>]: would, could, should, might, ought to, had better</li>
-          <li className="margin-bottom-20 list-none">Khối biểu thị [Thái] độ mang tính [Ý] nhị, nhường nhịn, triệt tiêu tính áp đặt nhưng vẫn giữ nguyên mong muốn thực tế. Các khối phức đặc biệt "ought to" và "had better" được quét như một [Phức Ý-Thái Động Cơ][Complex Soft-Modal Verb Base] thống nhất.</li>
+          <li value="4">[<strong>Ý-Thái Động Cơ</strong>][<strong>Soft-Modal Verb Base</strong>]: would, could, should, might, ought to, had BETTER</li>
+          <li className="margin-bottom-20 list-none">Khối biểu thị [Thái] độ mang tính [Ý] nhị, nhường nhịn, triệt tiêu tính áp đặt nhưng vẫn giữ nguyên mong muốn thực tế. Các khối phức đặc biệt "ought to" và "had BETter" được quét như một [Phức Ý-Thái Động Cơ][Complex Soft-Modal Verb Base] thống nhất.</li>
 
-          <li value="5">[<strong>Áp-Thái Động Cơ</strong>][<strong>Assertive-Modal Verb Base</strong>]: will, shall, can, must, have to, may</li>
+          <li value="5">[<strong>Áp-Thái Động Cơ</strong>][<strong>Assertive-Modal Verb Base</strong>]: will, shall, can, must, HAVE to, may</li>
           <li className="margin-bottom-20 list-none">Khối biểu thị [Thái] độ trực diện, mang tính cam kết, ép buộc hoặc [Áp] đặt trực tiếp xuống đối tượng nghe. Khối phức đặc biệt "have to" được quét như một [Phức Áp-Thái Động Cơ][Complex Assertive-Modal Verb Base] thống nhất.</li>
 
-          <li value="6">[<strong>Thuần Động Cơ</strong>][<strong>Bare Verb Base</strong>]: analyze, compile, transmit</li>
+          <li value="6">[<strong>Thuần Động Cơ</strong>][<strong>Bare Verb Base</strong>]: ANalyze, comPILE, transMIT</li>
           <li className="margin-bottom-20 list-none">Hành động [Thuần] khiết đứng độc lập, hoàn toàn được giải phóng khỏi các liên kết định hướng và không đi kèm "to", thường đứng ngay sau [Hạt Động Cơ][Particle Verb Base] "to", [Ý-Thái][Soft-Modal] hay [Áp-Thái Động Cơ][Assertive-Modal Verb Base] hoặc [Rễ Động Cơ][Root Verb Base] sai khiến / tri giác (make, let, let's, help, have, get, see, hear, watch, feel, notice, observe, smell).</li>
       
-          <li value="7">[<strong>Hạt Thuần Động Cơ</strong>][<strong>Particle Bare Verb Base</strong>]: to analyze, to transmit</li>
+          <li value="7">[<strong>Hạt Thuần Động Cơ</strong>][<strong>Particle Bare Verb Base</strong>]: to ANalyze, to transMIT</li>
           <li className="margin-bottom-20 list-none">Sự liên kết tuyến tính chặt chẽ giữa hạt định hướng nguyên bản [Hạt Động Cơ][Particle Verb Base] và rễ hành động [Thuần] khiết, nguyên bản.</li>
 
-          <li value="8">[<strong>Ý-Thái Thuần Động Cơ</strong>][<strong>Soft-Modal Bare Verb Base</strong>]: would transmit, could help</li>
+          <li value="8">[<strong>Ý-Thái Thuần Động Cơ</strong>][<strong>Soft-Modal Bare Verb Base</strong>]: would transMIT, could HELP</li>
           <li className="margin-bottom-20 list-none">Sự phối hợp tuyến tính giữa [Thái] độ nhã nhặn, không áp đặt và rễ hành động [Thuần] khiết, nguyên bản.</li>
       
-          <li value="9">[<strong>Áp-Thái Thuần Động Cơ</strong>][<strong>Assertive-Modal Bare Verb Base</strong>]: will transmit, can analyze</li>
+          <li value="9">[<strong>Áp-Thái Thuần Động Cơ</strong>][<strong>Assertive-Modal Bare Verb Base</strong>]: will transMIT, can ANalyze</li>
           <li className="margin-bottom-20 list-none">Sự phối hợp tuyến tính giữa [Thái] độ khẳng định, [Áp] đặt thực tế và rễ hành động [Thuần] khiết, nguyên bản.</li>
 
-          <li value="10">[<strong>Thời Thuần Động Cơ</strong>][<strong>Tense Bare Verb Base</strong>]: did analyze, does compile</li>
+          <li value="10">[<strong>Thời Thuần Động Cơ</strong>][<strong>Tense Bare Verb Base</strong>]: did ANalyze, does comPILE</li>
           <li className="margin-bottom-20 list-none">Sự song hành trực tiếp giữa thành phần mang năng lượng [Thời] gian và rễ hành động [Thuần] khiết, được phân tách rõ ràng bằng một khoảng trắng trong câu.</li>
 
-          <li value="11">[<strong>Thời-Thuần Động Cơ</strong>][<strong>Tense-Bare Verb Base</strong>]: analyzed, analyzes, compiles</li>
+          <li value="11">[<strong>Thời-Thuần Động Cơ</strong>][<strong>Tense-Bare Verb Base</strong>]: ANalyzed, ANalyzes, comPILES</li>
           <li className="margin-bottom-20 list-none">Sự hòa tan tuyệt đối khi năng lượng [Thời] gian và rễ hành động [Thuần] khiết, nguyên bản chung vào trong cùng một chữ duy nhất.</li>
       
-          <li value="12">[<strong>Tiếp Động Cơ</strong>][<strong>Progressive Verb Base</strong>]: analyzing, compiling, transmitting</li>
+          <li value="12">[<strong>Tiếp Động Cơ</strong>][<strong>Progressive Verb Base</strong>]: ANalyzing, comPILing, transMITting</li>
           <li className="margin-bottom-20 list-none">Hành động tích hợp thêm đuôi -ing nhằm biểu thị trạng thái đang diễn ra, kéo dài liên tục tại thời điểm nói.</li>
 
-          <li value="13">[<strong>Hoàn Động Cơ</strong>][<strong>Perfect Verb Base</strong>]: analyzed, compiled, been, transmitted</li>
+          <li value="13">[<strong>Hoàn Động Cơ</strong>][<strong>Perfect Verb Base</strong>]: ANalyzed, comPILED, been, transMITted</li>
           <li className="margin-bottom-20 list-none">Hành động được chuyển đổi sang dạng biến đổi cột ba hoặc thêm đuôi -ed nhằm biểu thị tính chất trọn vẹn, [Hoàn] thành hoặc mang sắc thái bị động.</li>
       
-          <li value="14">[<strong>Thời Tiếp Động Cơ</strong>][<strong>Tense Progressive Verb Base</strong>]: is analyzing, was compiling</li>
+          <li value="14">[<strong>Thời Tiếp Động Cơ</strong>][<strong>Tense Progressive Verb Base</strong>]: is ANalyzing, was comPILing</li>
           <li className="margin-bottom-20 list-none">Sự kết hợp tuyến tính chặt chẽ giữa thành phần mang mốc [Thời] gian và trạng thái hành động đang diễn tiến.</li>
 
-          <li value="15">[<strong>Thời Hoàn Động Cơ</strong>][<strong>Tense Perfect Verb Base</strong>]: has analyzed, had compiled</li>
+          <li value="15">[<strong>Thời Hoàn Động Cơ</strong>][<strong>Tense Perfect Verb Base</strong>]: has ANalyzed, had comPILED</li>
           <li className="margin-bottom-20 list-none">Sự kết hợp tuyến tính chặt chẽ giữa thành phần mang mốc [Thời] gian và trạng thái hành động đã [Hoàn] thành.</li>
       
-          <li value="16">[<strong>Thời Hoàn Tiếp Động Cơ</strong>][<strong>Tense Perfect Progressive Verb Base</strong>]: has been analyzing, had been compiling</li>
+          <li value="16">[<strong>Thời Hoàn Tiếp Động Cơ</strong>][<strong>Tense Perfect Progressive Verb Base</strong>]: has been ANalyzing, had been comPILing</li>
           <li className="list-none">Sự tích hợp tuyến tính đa tầng, nén đồng thời ba nguồn năng lượng: mốc [Thời] gian, tính [Hoàn] thành và tính [Tiếp] diễn vào cùng một khối.</li>
       
         </ol>
@@ -162,13 +162,13 @@ export default function NineBox1(): React.JSX.Element {
 
         <ul className="list-square">
       
-          <li>is configuring → [Thời] is + [Tiếp Động Cơ] configuring</li>
+          <li>is conFIGuring → [Thời] is + [Tiếp Động Cơ] conFIGuring</li>
 
-          <li>have been inspecting → [Thời + Hoàn] have/has/had + been + [Tiếp Động Cơ] inspecting</li>
+          <li>have been inSPECTing → [Thời + Hoàn] have/has/had + been + [Tiếp Động Cơ] inSPECTing</li>
       
-          <li>has compiled → [Thời + Hoàn] has + compiled</li>
+          <li>has comPILED → [Thời + Hoàn] has + comPILED</li>
       
-          <li>evaluates, evaluated → [Thời-Thuần Động Cơ] Tích hợp</li>
+          <li>eVALuates, eVALuated → [Thời-Thuần Động Cơ] Tích hợp</li>
       
         </ul>
       
@@ -179,9 +179,9 @@ export default function NineBox1(): React.JSX.Element {
 
         <ul className="list-square">
       
-          <li>to resolve → [Hạt Động Cơ] to + [Thuần Động Cơ] resolve</li>
+          <li>to reSOLVE → [Hạt Động Cơ] to + [Thuần Động Cơ] reSOLVE</li>
       
-          <li>did examine → [Thời] did (Nhấn mạnh) + [Thuần Động Cơ] examine</li>
+          <li>did exAMine → [Thời] did (Nhấn mạnh) + [Thuần Động Cơ] exAMine</li>
       
         </ul>
       
@@ -192,9 +192,9 @@ export default function NineBox1(): React.JSX.Element {
 
         <ul className="list-square">
       
-          <li>should evaluate → [Ý-Thái Động Cơ] should (gợi ý) + [Thuần Động Cơ] evaluate</li>
+          <li>should eVALuate → [Ý-Thái Động Cơ] should (gợi ý) + [Thuần Động Cơ] eVALuate</li>
       
-          <li>could upgrade → [Ý-Thái Động Cơ] could (khả năng nhẹ) + [Thuần Động Cơ] upgrade</li>
+          <li>could upGRADE → [Ý-Thái Động Cơ] could (khả năng nhẹ) + [Thuần Động Cơ] upGRADE</li>
       
         </ul>
       
@@ -205,9 +205,9 @@ export default function NineBox1(): React.JSX.Element {
 
         <ul className="list-square">
       
-          <li>will encrypt → [Áp-Thái Động Cơ] will (cam kết) + [Thuần Động Cơ] encrypt</li>
+          <li>will enCRYPT → [Áp-Thái Động Cơ] will (cam kết) + [Thuần Động Cơ] enCRYPT</li>
       
-          <li>must secure → [Áp-Thái Động Cơ] must (ép buộc) + [Thuần Động Cơ] secure</li>
+          <li>must seCURE → [Áp-Thái Động Cơ] must (ép buộc) + [Thuần Động Cơ] seCURE</li>
       
         </ul>
 
@@ -282,9 +282,9 @@ export default function NineBox1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>learning [Tiếp Động Cơ][Progressive Verb Base] + a new language [Danh Nhận][Noun Object]</li>
+					<li>LEARNing [Tiếp Động Cơ][Progressive Verb Base] + a NEW LANguage [Danh Nhận][Noun Object]</li>
 					
-					<li>→ learning a new language [Tiếp Động Cụm][Progressive Verb Phrase].</li>
+					<li>→ LEARNing a NEW LANguage [Tiếp Động Cụm][Progressive Verb Phrase].</li>
 			
 				</ul>
 
