@@ -66,7 +66,7 @@ export default function NineBox1(): React.JSX.Element {
 				<ul className="list-square">
 			
 					<li><strong>Chiều Ngang</strong> — <strong>Chức năng</strong> [<strong>Vai trò</strong>]: Trả lời câu hỏi "Thành phần này làm nhiệm vụ gì?"</li>
-					<li className="margin-bottom-20 list-none">→ [Danh] / [Tính] / [Trạng].</li>
+					<li className="margin-bottom-20 list-none">→ [Danh - Tính - Trạng][Noun - Adjective - Adverb].</li>
 			
 					<li><strong>Chiều Dọc</strong> — <strong>Cấp độ</strong> (<strong>Quy mô</strong>): Trả lời câu hỏi "Độ phức tạp và cấu trúc quy mô ra sao?"</li>
 					<li className="list-none">→ Quy tắc 3 chữ C: [Cơ][Base] → [Cụm][Phrase] → [Câu][Clause].</li>
