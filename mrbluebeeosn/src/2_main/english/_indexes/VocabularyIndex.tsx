@@ -57,7 +57,7 @@ export default function VocabularyIndex(): React.JSX.Element {
 						</li>
 
 						<li>
-							<Link to="/vocabulary/create">[create]</Link> 	
+							<Link to="/vocabulary/create">[creATE]</Link> 	
 						</li>
 
 						
