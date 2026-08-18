@@ -17,7 +17,7 @@ export default function Basically2(): React.JSX.Element {
     
       <h4><HashLink smooth to="/vocabulary#ve-co-ban-terms"><mark className="highlight-tertiary-padding-4-8">ADverbs: về cơ bản</mark></HashLink></h4>
       
-      <h1 className="margin-y-50 text-center">basically
+      <h1 className="margin-y-50 text-center">BAsically
         <sup>
           <Link to="/vocabulary/basically-1">&nbsp;1&nbsp;</Link>
         </sup>
@@ -28,15 +28,13 @@ export default function Basically2(): React.JSX.Element {
 
       {/* This is the content of Vocabulary Term. */}
 
-      <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>basically</strong>" (về cơ bản) và các cụm từ thường đi kèm nhé.</p>
+      <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>BAsically</strong>" (về cơ bản) và các cụm từ thường đi kèm nhé.</p>
 
       <div className="text-border1 padding-10 highlight-238-padding-4-8 bee-container">
 
         <div>
 
           <p className="margin-y-10">
-            
-            <strong>Basically&nbsp;</strong>
             
             <span className="highlight-255-padding-3-6">
               
@@ -62,44 +60,34 @@ export default function Basically2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1">Basically <strong>the same</strong> /ðə seɪm/</li>
-        <li className="list-none">These two products are ______.</li>
+        <li value="1">These TWO PROducts are [BAsically the SAME].</li>
         <li className="list-none margin-bottom-20">Hai sản phẩm này về cơ bản là giống nhau.</li>
 
-        <li value="2">Basically <strong>impossible</strong> /ɪmˈpɒsɪbl/</li>
-        <li className="list-none">It's ______ to finish this task in one day.</li>
+        <li value="2">It's [BAsically imPOSsible] to FInish this TASK in ONE DAY.</li>
         <li className="list-none margin-bottom-20">Về cơ bản là không thể hoàn thành nhiệm vụ này trong một ngày.</li>
 
-        <li value="3">Basically <strong>true</strong> /truː/</li>
-        <li className="list-none">What he said was ______.</li>
+        <li value="3">What he SAID was [BAsically TRUE].</li>
         <li className="list-none margin-bottom-20">Những gì anh ấy nói về cơ bản là đúng.</li>
 
-        <li value="4">Basically <strong>finished</strong> /ˈfɪnɪʃt/</li>
-        <li className="list-none">The project is ______.</li>
+        <li value="4">The PROject is [BAsically FInished].</li>
         <li className="list-none margin-bottom-20">Dự án về cơ bản là đã hoàn thành.</li>
 
-        <li value="5">Basically <strong>the same thing</strong> /ðə seɪm θɪŋ/</li>
-        <li className="list-none">Apples and pears are ______.</li>
+        <li value="5">APples and PEARS are [BAsically the SAME THING].</li>
         <li className="list-none margin-bottom-20">Táo và lê về cơ bản là một loại quả.</li>
 
-        <li value="6">Basically <strong>a waste of time</strong> /ə weɪst əv taɪm/</li>
-        <li className="list-none">Watching that movie was ______.</li>
+        <li value="6">WATCHing that MOvie was [BAsically a WASTE of TIME].</li>
         <li className="list-none margin-bottom-20">Xem bộ phim đó về cơ bản là lãng phí thời gian.</li>
 
-        <li value="7">Basically, <strong>the idea is</strong> /ðə aɪˈdiːə ɪz/</li>
-        <li className="list-none">______ to simplify the process.</li>
+        <li value="7">[BAsically the iDEA is] to SIMplify the PROcess.</li>
         <li className="list-none margin-bottom-20">Về cơ bản, ý tưởng là đơn giản hóa quy trình.</li>
 
-        <li value="8">Basically <strong>understood</strong> /ˌʌndəˈstʊd/</li>
-        <li className="list-none">I think everyone ______ the instructions.</li>
+        <li value="8">I THINK everyone [BAsically underSTOOD] the inSTRUCtions.</li>
         <li className="list-none margin-bottom-20">Tôi nghĩ mọi người về cơ bản là đã hiểu các hướng dẫn.</li>
 
-        <li value="9">Basically <strong>the same as</strong> /ðə seɪm æz/</li>
-        <li className="list-none">This new model is ______ the old one.</li>
+        <li value="9">This NEW MOdel is [BAsically the SAME as] the OLD one.</li>
         <li className="list-none margin-bottom-20">Mô hình mới này về cơ bản là giống như mô hình cũ.</li>
 
-        <li value="10">Basically <strong>speaking</strong> /ˈspiːkɪŋ/</li>
-        <li className="list-none">______, we need more time to finish the project.</li>
+        <li value="10">[BAsically SPEAKing], we NEED MORE TIME to FInish the PROject.</li>
         <li className="list-none margin-bottom-20">Nói một cách đơn giản, chúng ta cần thêm thời gian để hoàn thành dự án.</li>
 
       </ol>
@@ -116,7 +104,7 @@ export default function Basically2(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>"<strong>Basically</strong>" thường được đặt ở đầu câu hoặc trước một cụm từ để nhấn mạnh ý nghĩa.</li>
+          <li>"[<strong>BAsically</strong>]" thường được đặt ở đầu câu hoặc trước một cụm từ để nhấn mạnh ý nghĩa.</li>
 
           <li className="margin-bottom-20">Từ này có thể được sử dụng trong nhiều ngữ cảnh khác nhau, từ cuộc trò chuyện hàng ngày đến các bài thuyết trình.</li>
 
