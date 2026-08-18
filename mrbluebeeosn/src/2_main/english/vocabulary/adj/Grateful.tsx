@@ -17,15 +17,15 @@ export default function Grateful(): React.JSX.Element {
     
       <h4><HashLink smooth to="/vocabulary#adjectives-terms"><mark className="highlight-tertiary-padding-4-8">ADjectives</mark></HashLink></h4>
       
-      <h1 className="margin-y-50 text-center">grateful</h1>
+      <h1 className="margin-y-50 text-center">[GRATEful]</h1>
 
       {/* This is the content of Vocabulary Term. */}
 
-      <p className="margin-bottom-30"><strong>grateful</strong> (tính cơ): Biết ơn, cảm kích. Từ này thể hiện lòng biết ơn hoặc sự trân trọng đối với những gì người khác đã làm cho mình hoặc những điều tốt đẹp mà mình nhận được.</p>
+      <p className="margin-bottom-30">[<strong>GRATEful</strong>] (ADjective): Biết ơn, cảm kích. Từ này thể hiện lòng biết ơn hoặc sự trân trọng đối với những gì người khác đã làm cho mình hoặc những điều tốt đẹp mà mình nhận được.</p>
 
         <ul className="list-square">
       
-          <li>I am deeply ______ for your support during this difficult time.</li>
+          <li>I am DEEPly [GRATEful] for your supPORT during this DIFFicult TIME.</li>
           <li className="list-none">Tôi vô cùng biết ơn sự hỗ trợ của bạn trong khoảng thời gian khó khăn này.</li>
       
         </ul>
@@ -42,7 +42,7 @@ export default function Grateful(): React.JSX.Element {
 
           <ul className="list-square padding-left-40">
 
-            <li>IPA: grateful [GRATEful][GRATE ful] /ˈɡreɪt.fəl/</li>
+            <li>IPA: [GRATEful][GRATE ful] /ˈɡreɪt.fəl/</li>
             <li>Phonetic Breakdown: GRAYT-ful</li>
 
           </ul>
@@ -65,20 +65,20 @@ export default function Grateful(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li><strong>Grateful</strong> (Tính cơ) /ˈɡreɪt.fəl/</li>
-          <li className="list-none">She felt ______ for the warm hospitality of her hosts.</li>
+          <li>[<strong>GRATEful</strong>] (ADjective) /ˈɡreɪt.fəl/</li>
+          <li className="list-none">She FELT [GRATEful] for the WARM hospiTALity of her HOSTS.</li>
           <li className="margin-bottom-20 list-none">Cô cảm thấy biết ơn vì sự hiếu khách nồng hậu của những người chủ nhà.</li>
 
-          <li><strong>Gratefully</strong> (Trạng cơ) /ˈɡreɪt.fə.li/</li>
-          <li className="list-none">He ______ accepted the offer of a hot meal.</li>
+          <li>[<strong>GRATEfully</strong>] (ADverb) /ˈɡreɪt.fə.li/</li>
+          <li className="list-none">He [GRATEfully] acCEPted the OFFer of a HOT MEAL.</li>
           <li className="margin-bottom-20 list-none">Anh ấy đã trân trọng đón nhận lời đề nghị về một bữa ăn nóng sốt.</li>
 
-          <li><strong>Gratitude</strong> (Danh cơ) /ˈɡræt.ɪ.tuːd/</li>
-          <li className="list-none">The simplest way to express your ______ is by saying thank you.</li>
+          <li>[<strong>GRATitude</strong>] (NOUN) /ˈɡræt.ɪ.tuːd/</li>
+          <li className="list-none">The SIMplest WAY to exPRESS your [GRATitude] is by SAYing THANK YOU.</li>
           <li className="margin-bottom-20 list-none">Cách đơn giản nhất để bày tỏ lòng biết ơn của bạn là nói lời cảm ơn.</li>
 
-          <li><strong>Gratefulness</strong> (Danh cơ) /ˈɡreɪt.fəl.nəs/</li>
-          <li className="list-none">A deep sense of ______ filled her heart when she saw her family safe.</li>
+          <li>[<strong>GRATEfulness</strong>] (NOUN) /ˈɡreɪt.fəl.nəs/</li>
+          <li className="list-none">A DEEP SENSE of [GRATEfulness] FILLED her HEART when she SAW her FAMily SAFE.</li>
           <li className="list-none">Một cảm giác biết ơn sâu sắc tràn ngập trái tim cô khi thấy gia đình mình bình an.</li>
 
         </ul>
@@ -95,13 +95,13 @@ export default function Grateful(): React.JSX.Element {
             1. 
       ============================= */}
 
-      <p className="margin-top-20"><strong>1. Thankful</strong> /ˈθæŋk.fəl/</p>
+      <p className="margin-top-20"><strong>1. [THANKful] </strong> (ADjective) /ˈθæŋk.fəl/</p>
 
       <p className="text-indent-whole">Biết ơn, thường đi kèm cảm giác vui mừng hoặc nhẹ nhõm vì một điều tồi tệ đã không xảy ra hoặc một điều tốt đẹp đã đến.</p>
 
         <ul className="list-square">
 
-          <li>We were ______ that the storm passed without causing any damage.</li>
+          <li>We were [THANKful] that the STORM PASSED without CAUSing any DAMage.</li>
           <li className="list-none">Chúng tôi cảm thấy biết ơn vì cơn bão đã qua đi mà không gây ra bất kỳ thiệt hại nào.</li>
 
         </ul>
@@ -110,13 +110,13 @@ export default function Grateful(): React.JSX.Element {
             2. 
       ============================= */}
 
-      <p className="margin-top-20"><strong>2. Appreciative</strong> /əˈpriː.ʃə.tɪv/</p>
+      <p className="margin-top-20"><strong>2. [apPREciative] </strong> (ADjective) /əˈpriː.ʃə.tɪv/</p>
 
       <p className="text-indent-whole">Biết trân trọng, thể hiện sự tán thưởng và hiểu rõ giá trị của một hành động hoặc sự giúp đỡ.</p>
 
         <ul className="list-square">
 
-          <li>The company is highly ______ of your hard work and dedication.</li>
+          <li>The COMpany is HIGHly [apPREciative] of your HARD WORK and dediCAtion.</li>
           <li className="list-none">Công ty rất trân trọng sự chăm chỉ và cống hiến của bạn.</li>
 
         </ul>
@@ -125,13 +125,13 @@ export default function Grateful(): React.JSX.Element {
             3. 
       ============================= */}
 
-      <p className="margin-top-20"><strong>3. Obliged</strong> /əˈblaɪdʒd/</p>
+      <p className="margin-top-20"><strong>3. [obLIGED] </strong> (ADjective) /əˈblaɪdʒd/</p>
 
       <p className="text-indent-whole">Biết ơn hoặc cảm thấy có bổn phận phải cảm ơn ai đó vì một ân huệ, thường dùng trong bối cảnh trang trọng.</p>
 
         <ul className="list-square">
 
-          <li>I would be much ______ if you could send me the project details.</li>
+          <li>I would be MUCH [obLIGED] if you could SEND me the PROject DEtails.</li>
           <li className="list-none">Tôi sẽ rất biết ơn nếu bạn có thể gửi cho tôi các chi tiết của dự án.</li>
 
         </ul>
@@ -140,13 +140,13 @@ export default function Grateful(): React.JSX.Element {
             4. 
       ============================= */}
 
-      <p className="margin-top-20"><strong>4. Indebted</strong> /ɪnˈdet.ɪd/</p>
+      <p className="margin-top-20"><strong>4. [inDEBTed] </strong> (ADjective) /ɪnˈdet.ɪd/</p>
 
       <p className="text-indent-whole">Mang ơn, biết ơn sâu sắc vì ai đó đã giúp đỡ mình vượt qua hoàn cảnh ngặt nghèo (như thể mắc một món nợ ân nghĩa).</p>
 
         <ul className="list-square">
 
-          <li>I am forever ______ to the doctors who saved my life.</li>
+          <li>I am forEVer [inDEBTed] to the DOCtors who SAVED my LIFE.</li>
           <li className="list-none">Tôi mãi mãi mang ơn các bác sĩ đã cứu mạng tôi.</li>
 
         </ul>
@@ -155,13 +155,13 @@ export default function Grateful(): React.JSX.Element {
             5. 
       ============================= */}
 
-      <p className="margin-top-20"><strong>5. Beholden</strong> /bɪˈhəʊl.dən/</p>
+      <p className="margin-top-20"><strong>5. [beHOLDen] </strong> (ADjective) /bɪˈhəʊl.dən/</p>
 
       <p className="text-indent-whole">Mắc nợ ân nghĩa, cảm thấy bị ràng buộc hoặc phụ thuộc vào ai đó do nhận sự giúp đỡ từ họ.</p>
 
         <ul className="list-square">
 
-          <li>She did not want to be ______ to anyone for her financial success.</li>
+          <li>She did NOT WANT to be [beHOLDen] to ANyone for her fiNANcial sucCESS.</li>
           <li className="list-none">Cô không muốn phải mắc nợ bất kỳ ai cho sự thành công tài chính của mình.</li>
 
         </ul>

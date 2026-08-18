@@ -21,11 +21,11 @@ export default function Attractive(): React.JSX.Element {
 
       {/* This is the content of Vocabulary Term. */}
 
-      <p className="margin-bottom-30"><strong>attractive</strong> (tính cơ): Lôi cuốn, hấp dẫn, có sức hút. Từ này dùng để chỉ người hoặc vật có những đặc điểm gây ra sự chú ý, hứng thú hoặc thiện cảm.</p>
+      <p className="margin-bottom-30">[<strong>atTRACtive</strong>] (ADjective): Lôi cuốn, hấp dẫn, có sức hút. Từ này dùng để chỉ người hoặc vật có những đặc điểm gây ra sự chú ý, hứng thú hoặc thiện cảm.</p>
 
         <ul className="list-square">
       
-          <li>The new job offer came with a very ______ salary.</li>
+          <li>The NEW JOB offer CAME with a VEry [atTRACtive] SALary.</li>
           <li className="list-none">Lời đề nghị công việc mới đi kèm với một mức lương rất hấp dẫn.</li>
       
         </ul>
@@ -42,7 +42,7 @@ export default function Attractive(): React.JSX.Element {
 
           <ul className="list-square padding-left-40">
 
-            <li>IPA: attractive [atTRACtive][at TRAC tive] /əˈtræk.tɪv/</li>
+            <li>IPA: [atTRACtive][at TRAC tive] /əˈtræk.tɪv/</li>
             <li>Phonetic Breakdown: uh-TRAK-tiv</li>
 
           </ul>
@@ -65,24 +65,24 @@ export default function Attractive(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li><strong>Attractive</strong> (Tính cơ) /əˈtræk.tɪv/</li>
-          <li className="list-none">He has a very ______ smile.</li>
+          <li>[<strong>atTRACtive</strong>] (ADjective) /əˈtræk.tɪv/</li>
+          <li className="list-none">He HAS a VEry [atTRACtive] SMILE.</li>
           <li className="margin-bottom-20 list-none">Anh ấy có một nụ cười rất cuốn hút.</li>
 
-          <li><strong>Attract</strong> (Động cơ) /əˈtrækt/</li>
-          <li className="list-none">Bright colors often ______ butterflies to the garden.</li>
+          <li>[<strong>atTRACT</strong>] (VERB) /əˈtrækt/</li>
+          <li className="list-none">BRIGHT COLors OFten [atTRACT] BUTterflies to the GARden.</li>
           <li className="margin-bottom-20 list-none">Màu sắc rực rỡ thường thu hút bướm đến vườn.</li>
 
-          <li><strong>Attraction</strong> (Danh cơ) /əˈtrækʃn/</li>
-          <li className="list-none">The Eiffel Tower is a major tourist ______ in Paris.</li>
+          <li>[<strong>atTRACtion</strong>] (NOUN) /əˈtrækʃn/</li>
+          <li className="list-none">The Eiffel TOWer is a MAjor TOUrist [atTRACtion] in PAris.</li>
           <li className="margin-bottom-20 list-none">Tháp Eiffel là một điểm thu hút khách du lịch lớn ở Paris.</li>
 
-          <li><strong>Attractiveness</strong> (Danh cơ - Trừu tượng) /əˈtræktɪvnəs/</li>
-          <li className="list-none">The physical ______ of the product design helped increase sales.</li>
+          <li>[<strong>atTRACtiveness</strong>] (NOUN - Trừu tượng) /əˈtræktɪvnəs/</li>
+          <li className="list-none">The PHYSical [atTRACtiveness] of the PROduct deSIGN HELPED inCREASE SALES.</li>
           <li className="margin-bottom-20 list-none">Sự hấp dẫn về mặt hình thức của thiết kế sản phẩm đã giúp tăng doanh số bán hàng.</li>
 
-          <li><strong>Attractively</strong> (Trạng cơ) /əˈtræktɪvli/</li>
-          <li className="list-none">The table was ______ decorated with flowers and candles.</li>
+          <li>[<strong>atTRACtively</strong>] (ADverb) /əˈtræktɪvli/</li>
+          <li className="list-none">The TAble was [atTRACtively] DEcorated with FLOWers and CANdles.</li>
           <li className="list-none">Chiếc bàn được trang trí một cách lôi cuốn với hoa và nến.</li>
 
         </ul>
@@ -99,13 +99,13 @@ export default function Attractive(): React.JSX.Element {
             1. 
       ============================= */}
 
-      <p className="margin-top-20"><strong>1. Appealing</strong> /əˈpiːlɪŋ/</p>
+      <p className="margin-top-20"><strong>1. [apPEALing]</strong> (ADjective) /əˈpiːlɪŋ/</p>
 
       <p className="text-indent-whole">Gợi lên sự thích thú hoặc ham muốn; thường dùng cho các ý tưởng hoặc lựa chọn.</p>
 
         <ul className="list-square">
 
-          <li>The idea of a long vacation is very ______ to me right now.</li>
+          <li>The iDEA of a LONG vaCAtion is VEry [apPEALing] to me RIGHT NOW.</li>
           <li className="list-none">Ý tưởng về một kỳ nghỉ dài ngày rất hấp dẫn đối với tôi vào lúc này.</li>
 
         </ul>
@@ -114,13 +114,13 @@ export default function Attractive(): React.JSX.Element {
             2. 
       ============================= */}
 
-      <p className="margin-top-20"><strong>2. Alluring</strong> /əˈlʊərɪŋ/</p>
+      <p className="margin-top-20"><strong>2. [alLURing]</strong> (ADjective) /əˈlʊərɪŋ/</p>
 
       <p className="text-indent-whole">Có sức quyến rũ mạnh mẽ, thường mang tính huyền bí hoặc cám dỗ.</p>
 
         <ul className="list-square">
 
-          <li>The tropical island has an ______ atmosphere that draws visitors every year.</li>
+          <li>The TROPical Island HAS an [alLURing] ATmosphere that DRAWS VISitors every YEAR.</li>
           <li className="list-none">Hòn đảo nhiệt đới có một bầu không khí quyến rũ thu hút du khách mỗi năm.</li>
 
         </ul>
@@ -129,13 +129,13 @@ export default function Attractive(): React.JSX.Element {
             3. 
       ============================= */}
 
-      <p className="margin-top-20"><strong>3. Captivating</strong> /ˈkæptɪveɪtɪŋ/</p>
+      <p className="margin-top-20"><strong>3. [CAPtivating]</strong> (ADjective) /ˈkæptɪveɪtɪŋ/</p>
 
       <p className="text-indent-whole">Làm say đắm, thu hút toàn bộ sự chú ý của một người.</p>
 
         <ul className="list-square">
 
-          <li>Her ______ performance held the audience’s attention until the very end.</li>
+          <li>Her [CAPtivating] perFORmance HELD the AUdience’s atTENtion until the VEry END.</li>
           <li className="list-none">Màn trình diễn say đắm của cô ấy đã giữ được sự chú ý của khán giả cho đến tận cuối cùng.</li>
 
         </ul>
@@ -144,13 +144,13 @@ export default function Attractive(): React.JSX.Element {
             4. 
       ============================= */}
 
-      <p className="margin-top-20"><strong>4. Charming</strong> /ˈtʃɑːmɪŋ/</p>
+      <p className="margin-top-20"><strong>4. [CHARMing]</strong> (ADjective) /ˈtʃɑːmɪŋ/</p>
 
       <p className="text-indent-whole">Duyên dáng, có sức hút nhẹ nhàng và dễ mến.</p>
 
         <ul className="list-square">
 
-          <li>We stayed in a ______ little cottage by the sea.</li>
+          <li>We STAYED in a [CHARMing] LITtle COTtage by the SEA.</li>
           <li className="list-none">Chúng tôi đã ở trong một ngôi nhà nhỏ duyên dáng bên bờ biển.</li>
 
         </ul>
@@ -159,13 +159,13 @@ export default function Attractive(): React.JSX.Element {
             5.  
       ============================= */}
 
-      <p className="margin-top-20"><strong>5. Engaging</strong> /ɪnˈɡeɪdʒɪŋ/</p>
+      <p className="margin-top-20"><strong>5. [enGAging]</strong> (ADjective) /ɪnˈɡeɪdʒɪŋ/</p>
 
       <p className="text-indent-whole">Lôi cuốn, khiến người khác muốn tham gia hoặc tương tác cùng.</p>
 
         <ul className="list-square">
 
-          <li>The speaker had an ______ personality that made the lecture enjoyable.</li>
+          <li>The SPEAker HAD an [enGAging] persoNALity that MADE the LECture enJOYable.</li>
           <li className="list-none">Diễn giả có một tính cách lôi cuốn khiến bài giảng trở nên thú vị.</li>
 
         </ul>
@@ -174,13 +174,13 @@ export default function Attractive(): React.JSX.Element {
             6. 
       ============================= */}
 
-      <p className="margin-top-20"><strong>6. Fascinating</strong> /ˈfæsɪneɪtɪŋ/</p>
+      <p className="margin-top-20"><strong>6. [FAScinating]</strong> (ADjective) /ˈfæsɪneɪtɪŋ/</p>
 
       <p className="text-indent-whole">Cực kỳ thú vị, khiến người ta không thể rời mắt hay ngừng suy nghĩ về nó.</p>
 
         <ul className="list-square">
 
-          <li>I found the documentary about deep-sea creatures absolutely ______.</li>
+          <li>I FOUND the docuMENtary about DEEP-SEA CREAtures absoLUTEly [FAScinating].</li>
           <li className="list-none">Tôi thấy bộ phim tài liệu về các sinh vật biển sâu hoàn toàn thú vị.</li>
 
         </ul>

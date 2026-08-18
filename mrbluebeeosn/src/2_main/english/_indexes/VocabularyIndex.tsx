@@ -86,15 +86,15 @@ export default function VocabularyIndex(): React.JSX.Element {
 					<ul className="list-border1">
 
 						<li>
-							<Link to="/vocabulary/beautiful">beautiful</Link> 	
+							<Link to="/vocabulary/beautiful">BEAUtiful</Link> 	
 						</li>
 
 						<li>
-							<Link to="/vocabulary/attractive">attractive</Link> 	
+							<Link to="/vocabulary/attractive">atTRACtive</Link> 	
 						</li>
 
 						<li>
-							<Link to="/vocabulary/grateful">grateful</Link> 	
+							<Link to="/vocabulary/grateful">GRATEful</Link> 	
 						</li>
 						
 
