@@ -181,7 +181,7 @@ export default function NineBox1(): React.JSX.Element {
       
           <li>to reSOLVE → [Hạt Động Cơ] to + [Thuần Động Cơ] reSOLVE</li>
       
-          <li>did exAMine → [Thời] did (Nhấn mạnh) + [Thuần Động Cơ] exAMine</li>
+          <li>DID exAMine → [Thời] did (Nhấn mạnh) + [Thuần Động Cơ] exAMine</li>
       
         </ul>
       

@@ -127,7 +127,7 @@ export default function TieredStructure1(): React.JSX.Element {
       
           <li>to exPLORE ➔ [Hạt Động Cơ] to + [Thuần Động Cơ] exPLORE</li>
       
-          <li>did exPLORE ➔ [Thời Động Cơ] did (Nhấn mạnh) + [Thuần Động Cơ] exPLORE</li>
+          <li>DID exPLORE ➔ [Thời Động Cơ] did (Nhấn mạnh) + [Thuần Động Cơ] exPLORE</li>
       
         </ul>
       

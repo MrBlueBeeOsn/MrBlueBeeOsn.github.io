@@ -126,7 +126,7 @@ export default function SV1(): React.JSX.Element {
       
           <li>to exPLORE ➔ [Hạt Động Cơ] to + [Thuần Động Cơ] exPLORE</li>
       
-          <li>did exPLORE ➔ [Thời] did (Nhấn mạnh) + [Thuần Động Cơ] exPLORE</li>
+          <li>DID exPLORE ➔ [Thời] did (Nhấn mạnh) + [Thuần Động Cơ] exPLORE</li>
       
         </ul>
       

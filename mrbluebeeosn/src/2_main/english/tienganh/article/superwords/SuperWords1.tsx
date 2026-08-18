@@ -180,7 +180,7 @@ export default function SuperWords1(): React.JSX.Element {
       
           <li>to OPtimized → [Hạt Động Cơ][Particle Verb Base] to + [Thuần Động Cơ][Bare Verb Base] OPtimized</li>
       
-          <li>did OPtimized → [Thời][Tense] did (Nhấn mạnh) + [Thuần Động Cơ][Bare Verb Base] OPtimized</li>
+          <li>DID OPtimized → [Thời][Tense] did (Nhấn mạnh) + [Thuần Động Cơ][Bare Verb Base] OPtimized</li>
       
         </ul>
       
