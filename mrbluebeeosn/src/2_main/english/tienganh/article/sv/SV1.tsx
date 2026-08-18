@@ -167,7 +167,7 @@ export default function SV1(): React.JSX.Element {
           <li value="2">[<strong>Hạt Động Cơ</strong>][<strong>Particle Verb Base</strong>]: to, IN, ON, AT, BY</li>
           <li className="margin-bottom-20 list-none">[Hạt] "to" đơn lẻ đóng vai trò hạt nhân đầu tiên đứng trước mọi khối hành động để kích hoạt trạng thái nguyên bản. Các [Hạt] như in, on, at, by đơn lẻ đứng sau đóng vai trò định hướng hành động để chỉ rõ không gian hoặc phương thức thực hiện.</li>
 
-          <li value="3">[<strong>Thời Động Cơ</strong>][<strong>Tense Verb Base</strong>]: does, did, is, has, was, am, are</li>
+          <li value="3">[<strong>Thời Động Cơ</strong>][<strong>Tense Verb Base</strong>]: DOES, DID, is, has, was, am, are</li>
           <li className="margin-bottom-20 list-none">Các [Thời Động Cơ][Tense Verb Base] xuất hiện đơn lẻ để gánh vác năng lượng [Thời] gian, [Thời] cho câu.</li>
       
           <li value="4">[<strong>Ý-Thái Động Cơ</strong>][<strong>Soft-Modal Verb Base</strong>]: would, could, should, might, ought to, had BETter</li>
@@ -234,46 +234,46 @@ export default function SV1(): React.JSX.Element {
 
 			<ul className="list-square">
 			
-					<li>[Writing] sharpens the intellect.</li>
+					<li>[WRIting] SHARPens the INtellect.</li>
 					<li className="margin-bottom-20 list-none">[Việc viết lách] mài sắc trí tuệ.</li>
 			
-					<li className="list-none">Hình thái: [Writing] - [Tiếp Động Cơ][Progressive Verb Base] hình thành từ khối [Rễ Động Cơ][Root Verb Base] nguyên bản "write" mặc thêm hậu tố "-ing" để thay đổi diện mạo bên ngoài thành một khối cấp độ [Cơ][Base], đóng vai trò làm hạt nhân hành động đơn lẻ cho cấu trúc câu.</li>
+					<li className="list-none">Hình thái: [WRIting] - [Tiếp Động Cơ][Progressive Verb Base] hình thành từ khối [Rễ Động Cơ][Root Verb Base] nguyên bản "WRITE" mặc thêm hậu tố "-ing" để thay đổi diện mạo bên ngoài thành một khối cấp độ [Cơ][Base], đóng vai trò làm hạt nhân hành động đơn lẻ cho cấu trúc câu.</li>
 			
-					<li className="margin-bottom-20 list-none">Chức năng: [Writing] - [Danh Cơ][Noun Base] đứng ở đầu câu tạo nên [Danh Chủ][Noun Subject] cho toàn câu.</li>
+					<li className="margin-bottom-20 list-none">Chức năng: [WRIting] - [Danh Cơ][Noun Base] đứng ở đầu câu tạo nên [Danh Chủ][Noun Subject] cho toàn câu.</li>
 			
 				</ul>
 
 				<ul className="list-square">
 			
-					<li>She practices [reading].</li>
+					<li>She PRACtices [READing].</li>
 					<li className="margin-bottom-20 list-none">Cô ấy luyện tập [việc đọc].</li>
 			
-					<li className="list-none">Hình thái: [reading] - [Tiếp Động Cơ][Progressive Verb Base] hình thành từ khối [Rễ Động Cơ][Root Verb Base] nguyên bản "read" mặc thêm hậu tố "-ing" để thay đổi diện mạo bên ngoài thành một khối cấp độ [Cơ][Base], đóng vai trò làm hạt nhân hành động tiếp diễn.</li>
+					<li className="list-none">Hình thái: [READing] - [Tiếp Động Cơ][Progressive Verb Base] hình thành từ khối [Rễ Động Cơ][Root Verb Base] nguyên bản "READ" mặc thêm hậu tố "-ing" để thay đổi diện mạo bên ngoài thành một khối cấp độ [Cơ][Base], đóng vai trò làm hạt nhân hành động tiếp diễn.</li>
 			
-					<li className="margin-bottom-20 list-none">Chức năng: [reading] - [Danh Cơ][Noun Base] đứng sau [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "practices" làm [Danh Nhận][Noun Object] gánh chịu trực tiếp tác động từ hành động luyện tập của thực thể khơi nguồn.</li>
+					<li className="margin-bottom-20 list-none">Chức năng: [READing] - [Danh Cơ][Noun Base] đứng sau [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "PRACtices" làm [Danh Nhận][Noun Object] gánh chịu trực tiếp tác động từ hành động luyện tập của thực thể khơi nguồn.</li>
 			
 				</ul>
 			
 				<ul className="list-square">
 			
-					<li>The [growing] demand requires action.</li>
+					<li>The [GROWing] deMAND reQUIRES ACtion.</li>
 					<li className="margin-bottom-20 list-none">Nhu cầu [đang tăng cao] đòi hỏi phải hành động.</li>
 			
-					<li className="list-none">Hình thái: [growing] - [Tiếp Động Cơ][Progressive Verb Base] hình thành từ khối [Rễ Động Cơ][Root Verb Base] nguyên bản "grow" mặc thêm hậu tố "-ing" để thay đổi diện mạo bên ngoài thành một khối cấp độ [Cơ][Base] phản ánh trạng thái đang vận động liên tục.</li>
+					<li className="list-none">Hình thái: [GROWing] - [Tiếp Động Cơ][Progressive Verb Base] hình thành từ khối [Rễ Động Cơ][Root Verb Base] nguyên bản "GROW" mặc thêm hậu tố "-ing" để thay đổi diện mạo bên ngoài thành một khối cấp độ [Cơ][Base] phản ánh trạng thái đang vận động liên tục.</li>
 			
-					<li className="margin-bottom-20 list-none">Chức năng: [growing] - [Tính Cơ][Adjective Base] đứng trước [Danh Cơ][Noun Base] "demand" nhằm mô tả đặc điểm của đối tượng.</li>
+					<li className="margin-bottom-20 list-none">Chức năng: [GROWing] - [Tính Cơ][Adjective Base] đứng trước [Danh Cơ][Noun Base] "deMAND" nhằm mô tả đặc điểm của đối tượng.</li>
 			
 				</ul>
 			
 			
 				<ul className="list-square">
 			
-					<li>The team cooperated [harmoniously].</li>
+					<li>The TEAM coOPered [harMOniously].</li>
 					<li className="margin-bottom-20 list-none">Đội ngũ đã hợp tác [một cách hài hòa].</li>
 			
-					<li className="list-none">Hình thái: [harmoniously] – [Diện Trạng Cơ][Modified Adverb Base] hình thành từ khối [Rễ Động Cơ][Root Verb Base] nguyên bản "harmonize" kết hợp các hậu tố "-ous" và "-ly" để thay đổi diện mạo bên ngoài thành một khối cấp độ [Cơ][Base] mang tính chất phương thức vận hành.</li>
+					<li className="list-none">Hình thái: [harMOniously] – [Diện Trạng Cơ][Modified Adverb Base] hình thành từ khối [Rễ Động Cơ][Root Verb Base] nguyên bản "HARmonize" kết hợp các hậu tố "-ous" và "-ly" để thay đổi diện mạo bên ngoài thành một khối cấp độ [Cơ][Base] mang tính chất phương thức vận hành.</li>
 			
-					<li className="margin-bottom-20 list-none">Chức năng: [harmoniously] - [Trạng Cơ][Adverb Base] đứng sau hành động nhằm chỉ ra cách thức thực hiện.</li>
+					<li className="margin-bottom-20 list-none">Chức năng: [harMOniously] - [Trạng Cơ][Adverb Base] đứng sau hành động nhằm chỉ ra cách thức thực hiện.</li>
 			
 				</ul>
 			
@@ -285,47 +285,47 @@ export default function SV1(): React.JSX.Element {
 
 			<ul className="list-square">
 			
-					<li>[Learning a new language] requires patience.</li>
+					<li>[LEARNing a New LANguage] reQUIRES PAtience.</li>
 					<li className="margin-bottom-20 list-none">[Việc học một ngôn ngữ mới] đòi hỏi sự kiên nhẫn.</li>
 			
-					<li className="list-none">Hình thái: [Learning a new language] - [Tiếp Động Cụm][Progressive Verb Phrase] cấu thành khối hành động chứa nhiều yếu tố kết hợp và không chứa hệ trục [Danh Chủ][Noun Subject] - [Thời-Thuần Động Cơ][Tense-Bare Verb Base].</li>
+					<li className="list-none">Hình thái: [LEARNing a New LANguage] - [Tiếp Động Cụm][Progressive Verb Phrase] cấu thành khối hành động chứa nhiều yếu tố kết hợp và không chứa hệ trục [Danh Chủ][Noun Subject] - [Thời-Thuần Động Cơ][Tense-Bare Verb Base].</li>
 			
-					<li className="margin-bottom-20 list-none">Chức năng: [Learning a new language] - [Danh Cụm][Noun Phrase] đứng ở vị trí đầu câu để làm [Danh Chủ][Noun Subject] điều phối thông tin.</li>
+					<li className="margin-bottom-20 list-none">Chức năng: [LEARNing a New LANguage] - [Danh Cụm][Noun Phrase] đứng ở vị trí đầu câu để làm [Danh Chủ][Noun Subject] điều phối thông tin.</li>
 			
 				</ul>
 			
 				<ul className="list-square">
 			
-					<li>She promised [to finish the report].</li>
+					<li>She PROMised [to FINish the rePORT].</li>
 					<li className="margin-bottom-20 list-none">Cô ấy đã hứa [hoàn thành bản báo cáo].</li>
 			
-					<li className="list-none">Hình thái: [to finish the report] - [Hạt Thuần Động Cụm][Particle Bare Verb Phrase] cấu thành khối hành động chứa nhiều yếu tố kết hợp và không chứa hệ trục [Danh Chủ][Noun Subject] - [Thời-Thuần Động Cơ][Tense-Bare Verb Base].</li>
+					<li className="list-none">Hình thái: [to FINish the rePORT] - [Hạt Thuần Động Cụm][Particle Bare Verb Phrase] cấu thành khối hành động chứa nhiều yếu tố kết hợp và không chứa hệ trục [Danh Chủ][Noun Subject] - [Thời-Thuần Động Cơ][Tense-Bare Verb Base].</li>
 			
-					<li className="margin-bottom-20 list-none">Chức năng: [to finish the report] - [Danh Cụm][Noun Phrase] đứng sau [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "promised" để làm [Danh Nhận][Noun Object] thực thi [Tiếp Động Cơ][Progressive Verb Base].</li>
+					<li className="margin-bottom-20 list-none">Chức năng: [to FINish the rePORT] - [Danh Cụm][Noun Phrase] đứng sau [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "PROMised" để làm [Danh Nhận][Noun Object] thực thi [Tiếp Động Cơ][Progressive Verb Base].</li>
 			
 				</ul>
 			
 			
 				<ul className="list-square">
 			
-					<li>The children [playing in the park] are laughing.</li>
+					<li>The CHILdren [PLAYing in the PARK] are LAUGHing.</li>
 					<li className="margin-bottom-20 list-none">Những đứa trẻ [đang chơi trong công viên] đang cười.</li>
 			
-					<li className="list-none">Hình thái: [playing in the park] - [Tiếp Động Cụm][Progressive Verb Phrase] biểu thị khối hành động chứa nhiều yếu tố kết hợp và không chứa hệ trục [Danh Chủ][Noun Subject] - [Thời-Thuần Động Cơ][Tense-Bare Verb Base], bắt đầu bằng [Tiếp Động Cơ][Progressive Verb Base] dạng V-ing.</li>
+					<li className="list-none">Hình thái: [PLAYing in the PARK] - [Tiếp Động Cụm][Progressive Verb Phrase] biểu thị khối hành động chứa nhiều yếu tố kết hợp và không chứa hệ trục [Danh Chủ][Noun Subject] - [Thời-Thuần Động Cơ][Tense-Bare Verb Base], bắt đầu bằng [Tiếp Động Cơ][Progressive Verb Base] dạng V-ing.</li>
 			
-					<li className="margin-bottom-20 list-none">Chức năng: [playing in the park] - [Tính Cụm][Adjective Phrase] đứng ngay sau đối tượng những đứa trẻ nhằm mô tả mức độ đặc điểm của [Tính Cơ][Adjective Base] này.</li>
+					<li className="margin-bottom-20 list-none">Chức năng: [PLAYing in the PARK] - [Tính Cụm][Adjective Phrase] đứng ngay sau đối tượng những đứa trẻ nhằm mô tả mức độ đặc điểm của [Tính Cơ][Adjective Base] này.</li>
 			
 				</ul>
 			
 			
 				<ul className="list-square">
 			
-					<li>He woke up early [to catch the train].</li>
+					<li>He WOKE UP EARly [to CATCH the TRAIN].</li>
 					<li className="margin-bottom-20 list-none">Anh ấy đã thức dậy sớm [để bắt kịp chuyến tàu].</li>
 			
-					<li className="list-none">Hình thái: [to catch the train] - [Hạt Thuần Động Cụm][Particle Bare Verb Phrase] xác định khối hành động chứa nhiều yếu tố kết hợp và không chứa hệ trục [Danh Chủ][Noun Subject] - [Thời-Thuần Động Cơ][Tense-Bare Verb Base], bắt đầu bằng [Tiếp Động Cơ][Progressive Verb Base] dạng V-ing trong các cấu trúc biến thể hoặc liên kết mở rộng.</li>
+					<li className="list-none">Hình thái: [to CATCH the TRAIN] - [Hạt Thuần Động Cụm][Particle Bare Verb Phrase] xác định khối hành động chứa nhiều yếu tố kết hợp và không chứa hệ trục [Danh Chủ][Noun Subject] - [Thời-Thuần Động Cơ][Tense-Bare Verb Base], bắt đầu bằng [Tiếp Động Cơ][Progressive Verb Base] dạng V-ing trong các cấu trúc biến thể hoặc liên kết mở rộng.</li>
 			
-					<li className="list-none">Chức năng: [to catch the train] - [Trạng Cụm][Adverb Phrase] gắn vào phía sau nhằm làm rõ mục đích cho phần thông tin trước đó.</li>
+					<li className="list-none">Chức năng: [to CATCH the TRAIN] - [Trạng Cụm][Adverb Phrase] gắn vào phía sau nhằm làm rõ mục đích cho phần thông tin trước đó.</li>
 			
 				</ul>
 			
@@ -337,24 +337,24 @@ export default function SV1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>The cat [under the black car] is sleeping.</li>
+					<li>The CAT [under the BLACK CAR] is SLEEPing.</li>
 					<li className="margin-bottom-20 list-none">Con mèo [ở dưới chiếc xe màu đen] thì đang ngủ.</li>
 			
-					<li className="list-none">Hình thái: [under the black car] - [Giới Cụm][Prepositional Phrase] cấu thành khối bắt đầu bằng một [Giới Cơ][Prepositional Base] mốc vị trí.</li>
+					<li className="list-none">Hình thái: [under the BLACK CAR] - [Giới Cụm][Prepositional Phrase] cấu thành khối bắt đầu bằng một [Giới Cơ][Prepositional Base] mốc vị trí.</li>
 			
-					<li className="margin-bottom-20 list-none">Chức năng: [under the black car] - [Tính Cụm][Adjective Phrase] neo ngay sau đối tượng con mèo để mô tả đặc điểm vị trí nhận diện riêng biệt cho nó.</li>
+					<li className="margin-bottom-20 list-none">Chức năng: [under the BLACK CAR] - [Tính Cụm][Adjective Phrase] neo ngay sau đối tượng con mèo để mô tả đặc điểm vị trí nhận diện riêng biệt cho nó.</li>
 			
 				</ul>
 			
 			
 				<ul className="list-square">
 			
-					<li>We arrived [at midnight].</li>
+					<li>We arRIVED [at MIDnight].</li>
 					<li className="margin-bottom-20 list-none">Chúng tôi đã đến [vào lúc nửa đêm].</li>
 			
-					<li className="list-none">Hình thái: [at midnight] - [Giới Cụm][Prepositional Phrase] cấu thành khối bắt đầu bằng một [Giới Cơ][Prepositional Base] mốc thời gian.</li>
+					<li className="list-none">Hình thái: [at MIDnight] - [Giới Cụm][Prepositional Phrase] cấu thành khối bắt đầu bằng một [Giới Cơ][Prepositional Base] mốc thời gian.</li>
 			
-					<li className="list-none">Chức năng: [at midnight] - [Trạng Cụm][Adverb Phrase] gắn vào cuối câu chịu trách nhiệm cung cấp hoàn cảnh thời điểm cho sự việc.</li>
+					<li className="list-none">Chức năng: [at MIDnight] - [Trạng Cụm][Adverb Phrase] gắn vào cuối câu chịu trách nhiệm cung cấp hoàn cảnh thời điểm cho sự việc.</li>
 			
 				</ul>
 			
@@ -367,47 +367,47 @@ export default function SV1(): React.JSX.Element {
 
 			<ul className="list-square">
 			
-					<li>[What you said] surprised me.</li>
+					<li>[What you SAID] surPRISED me.</li>
 					<li className="margin-bottom-20 list-none">[Những gì bạn đã nói] đã làm tôi ngạc nhiên.</li>
 			
-					<li className="list-none">Hình thái: [What you said] - [Liên Câu][Conjunctional Clause] tạo nên khối hành động phức có chứa hệ trục [Danh Chủ][Noun Subject] "you" và [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "said", bắt đầu bằng [Liên Cơ][Conjunctional Base] "what".</li>
+					<li className="list-none">Hình thái: [What you SAID] - [Liên Câu][Conjunctional Clause] tạo nên khối hành động phức có chứa hệ trục [Danh Chủ][Noun Subject] "you" và [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "SAID", bắt đầu bằng [Liên Cơ][Conjunctional Base] "what".</li>
 			
-					<li className="margin-bottom-20 list-none">Chức năng: [What you said] - [Danh Câu][Noun Clause] đảm nhận nhiệm vụ của một khối đối tượng đứng trước [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "surprised" để làm [Danh Chủ][Noun Subject] điều phối hành động cho toàn bộ [Câu Lớn][Sentence].</li>
+					<li className="margin-bottom-20 list-none">Chức năng: [What you SAID] - [Danh Câu][Noun Clause] đảm nhận nhiệm vụ của một khối đối tượng đứng trước [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "surPRISED" để làm [Danh Chủ][Noun Subject] điều phối hành động cho toàn bộ [Câu Lớn][Sentence].</li>
 			
 				</ul>
 
 				<ul className="list-square">
 			
-					<li>Everyone knows [that water boils at 100 degrees].</li>
+					<li>EVEryone KNOWS [that WAter BOILS at ONE HUNdred deGREES].</li>
 					<li className="margin-bottom-20 list-none">Mọi người đều biết [rằng nước sôi ở 100 độ].</li>
 			
-					<li className="list-none">Hình thái: [that water boils at 100 degrees] - [Liên Câu][Conjunctional Clause] tạo nên khối hành động phức có chứa hệ trục [Danh Chủ][Noun Subject] "water" và [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "boils", bắt đầu bằng [Liên Cơ][Conjunctional Base] "that".</li>
+					<li className="list-none">Hình thái: [that WAter BOILS at ONE HUNdred deGREES] - [Liên Câu][Conjunctional Clause] tạo nên khối hành động phức có chứa hệ trục [Danh Chủ][Noun Subject] "WAter" và [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "BOILS", bắt đầu bằng [Liên Cơ][Conjunctional Base] "that".</li>
 			
-					<li className="margin-bottom-20 list-none">Chức năng: [that water boils at 100 degrees] - [Danh Câu][Noun Clause] đảm nhận nhiệm vụ của một khối đối tượng đứng sau [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "knows" để làm [Danh Nhận][Noun Object] dưới sự điều phối của nó.</li>
+					<li className="margin-bottom-20 list-none">Chức năng: [that WAter BOILS at ONE HUNdred deGREES] - [Danh Câu][Noun Clause] đảm nhận nhiệm vụ của một khối đối tượng đứng sau [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "KNOWS" để làm [Danh Nhận][Noun Object] dưới sự điều phối của nó.</li>
 			
 				</ul>
 
 			
 				<ul className="list-square">
 			
-					<li>The laptop [which I bought last week] works perfectly.</li>
+					<li>The LAPtop [which I BOUGHT LAST WEEK] WORKS PERfectly.</li>
 					<li className="margin-bottom-20 list-none">Chiếc máy tính xách tay [mà tôi mua tuần trước] hoạt động hoàn hảo.</li>
 			
-					<li className="list-none">Hình thái: [which I bought last week] - [Liên Câu][Conjunctional Clause] định hình khối hành động phức có chứa hệ trục [Danh Chủ][Noun Subject] "I" và [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "bought", bắt đầu bằng [Liên Cơ][Conjunctional Base] "which".</li>
+					<li className="list-none">Hình thái: [which I BOUGHT LAST WEEK] - [Liên Câu][Conjunctional Clause] định hình khối hành động phức có chứa hệ trục [Danh Chủ][Noun Subject] "I" và [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "BOUGHT", bắt đầu bằng [Liên Cơ][Conjunctional Base] "which".</li>
 			
-					<li className="margin-bottom-20 list-none">Chức năng: [which I bought last week] - [Tính Câu][Adjective Clause] thực hiện nhiệm vụ đứng sau định danh và mô tả đặc điểm riêng cho [Danh Cơ][Noun Base] laptop.</li>
+					<li className="margin-bottom-20 list-none">Chức năng: [which I BOUGHT LAST WEEK] - [Tính Câu][Adjective Clause] thực hiện nhiệm vụ đứng sau định danh và mô tả đặc điểm riêng cho [Danh Cơ][Noun Base] LAPtop.</li>
 			
 				</ul>
 		
 			
 				<ul className="list-square">
 			
-					<li>We cancelled the picnic [because it rained heavily].</li>
+					<li>We CANcelled the PICnic [because it RAINED HEAVily].</li>
 					<li className="margin-bottom-20 list-none">Chúng tôi đã hủy buổi dã ngoại [vì trời mưa to].</li>
 			
-					<li className="list-none">Hình thái: [because it rained heavily] - [Liên Câu][Conjunctional Clause] thể hiện khối hành động phức có chứa hệ trục [Danh Chủ][Noun Subject] "it" và [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "rained", bắt đầu bằng [Liên Cơ][Conjunctional Base] "because".</li>
+					<li className="list-none">Hình thái: [because it RAINED HEAVily] - [Liên Câu][Conjunctional Clause] thể hiện khối hành động phức có chứa hệ trục [Danh Chủ][Noun Subject] "it" và [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "RAINED", bắt đầu bằng [Liên Cơ][Conjunctional Base] "because".</li>
 			
-					<li className="list-none">Chức năng: [because it rained heavily] - [Trạng Câu][Adverb Clause] chịu trách nhiệm cung cấp hoàn cảnh nguyên nhân cho toàn bộ hành động hủy bỏ trước đó.</li>
+					<li className="list-none">Chức năng: [because it RAINED HEAVily] - [Trạng Câu][Adverb Clause] chịu trách nhiệm cung cấp hoàn cảnh nguyên nhân cho toàn bộ hành động hủy bỏ trước đó.</li>
 			
 				</ul>
 
@@ -425,12 +425,12 @@ export default function SV1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>I believe [you will pass the exam].</li>
+					<li>I beLIEVE [you will PASS the exAM].</li>
 					<li className="margin-bottom-20 list-none">Tôi tin [bạn sẽ vượt qua kỳ thi].</li>
 			
-					<li className="list-none">Hình thái: [you will pass the exam] - [Ẩn-Liên Câu][Zero-Conjunctional Clause] đã ẩn đi thành phần liên kết bề nổi, bên trong chứa hệ trục [Danh Chủ][Noun Subject] "you" và khối hành động gồm [Áp-Thái Thuần Động Cơ][Assertive-Modal Bare Verb Base] "will" kết hợp với [Thuần Động Cơ][Bare Verb Base] "pass".</li>
+					<li className="list-none">Hình thái: [you will PASS the exAM] - [Ẩn-Liên Câu][Zero-Conjunctional Clause] đã ẩn đi thành phần liên kết bề nổi, bên trong chứa hệ trục [Danh Chủ][Noun Subject] "you" và khối hành động gồm [Áp-Thái Thuần Động Cơ][Assertive-Modal Bare Verb Base] "will" kết hợp với [Thuần Động Cơ][Bare Verb Base] "PASS".</li>
 			
-					<li className="list-none">Chức năng: [you will pass the exam] - [Danh Câu][Noun Clause] đứng sau [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "believe" như một [Danh Nhận][Noun Object] thực thi.</li>
+					<li className="list-none">Chức năng: [you will PASS the exAM] - [Danh Câu][Noun Clause] đứng sau [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "beLIEVE" như một [Danh Nhận][Noun Object] thực thi.</li>
 			
 				</ul>
 			
@@ -440,12 +440,12 @@ export default function SV1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>The book [she lent me] was fascinating.</li>
+					<li>The BOOK [she LENT me] was FAScinating.</li>
 					<li className="margin-bottom-20 list-none">Cuốn sách [cô ấy cho tôi mượn] rất hấp dẫn.</li>
 			
-					<li className="list-none">Hình thái: [she lent me] - [Ẩn-Liên Câu][Zero-Conjunctional Clause] đã ẩn đi thành phần liên kết bề nổi, bên trong chứa hệ trục [Danh Chủ][Noun Subject] "she" và [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "lent".</li>
+					<li className="list-none">Hình thái: [she LENT me] - [Ẩn-Liên Câu][Zero-Conjunctional Clause] đã ẩn đi thành phần liên kết bề nổi, bên trong chứa hệ trục [Danh Chủ][Noun Subject] "she" và [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "LENT".</li>
 			
-					<li className="list-none">Chức năng: [she lent me] - [Tính Câu][Adjective Clause] đứng ngay sau đối tượng cuốn sách nhằm mô tả đặc điểm riêng biệt cho [Danh Cơ][Noun Base] book.</li>
+					<li className="list-none">Chức năng: [she LENT me] - [Tính Câu][Adjective Clause] đứng ngay sau đối tượng cuốn sách nhằm mô tả đặc điểm riêng biệt cho [Danh Cơ][Noun Base] book.</li>
 			
 				</ul>
 			
@@ -455,12 +455,12 @@ export default function SV1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>The tea was so hot [I couldn't drink it].</li>
+					<li>The TEA was so HOT [I COULDN'T DRINK it].</li>
 					<li className="margin-bottom-20 list-none">Trà quá nóng [đến mức tôi không thể uống được].</li>
 			
-					<li className="list-none">Hình thái: [I couldn't drink it] - [Ẩn-Liên Câu][Zero-Conjunctional Clause] đã ẩn đi thành phần liên kết bề nổi, bên trong chứa hệ trục [Danh Chủ][Noun Subject] "I" và cụm hành động gồm [Ý-Thái Động Cơ][Soft-Modal Verb Base] "couldn't" kết hợp với [Thuần Động Cơ][Bare Verb Base] "drink".</li>
+					<li className="list-none">Hình thái: [I COULDN'T DRINK it] - [Ẩn-Liên Câu][Zero-Conjunctional Clause] đã ẩn đi thành phần liên kết bề nổi, bên trong chứa hệ trục [Danh Chủ][Noun Subject] "I" và cụm hành động gồm [Ý-Thái Động Cơ][Soft-Modal Verb Base] "COULDN'T" kết hợp với [Thuần Động Cơ][Bare Verb Base] "DRINK".</li>
 			
-					<li className="list-none">Chức năng: [I couldn't drink it] - [Trạng Câu][Adverb Clause] gắn vào phía sau [Tính Cơ][Adjective Base] "hot" nhằm làm rõ hệ quả và bổ nghĩa cho mức độ đặc điểm của [Tính Cơ][Adjective Base] này.</li>
+					<li className="list-none">Chức năng: [I COULDN'T DRINK it] - [Trạng Câu][Adverb Clause] gắn vào phía sau [Tính Cơ][Adjective Base] "HOT" nhằm làm rõ hệ quả và bổ nghĩa cho mức độ đặc điểm của [Tính Cơ][Adjective Base] này.</li>
 			
 				</ul>
 			
@@ -490,26 +490,26 @@ export default function SV1(): React.JSX.Element {
 
 				<ul className="list-square">
 			
-					<li>[Finding the key {'{which opens <what is hidden>}'}] is difficult.</li>
+					<li>[FINDing the KEY {'{which Opens <what is HIDden>}'}]  is DIFficult.</li>
 					<li className="margin-bottom-20 list-none">[Việc tìm kiếm chiếc chìa khóa {'{mà mở <thứ đang bị giấu>}'}] thì khó khăn.</li>
 					
 					<li><strong>Tầng 3</strong> &lt;&gt;:</li>
 
-					<li className="list-none">Hình thái lớp trong cùng &lt;&gt;: &lt;what is hidden&gt; là một [Liên Câu][Conjunctional Clause] bắt đầu bằng [Liên Cơ][Conjunctional Base] what.</li>
+					<li className="list-none">Hình thái lớp trong cùng &lt;&gt;: &lt;what is HIDden&gt; là một [Liên Câu][Conjunctional Clause] bắt đầu bằng [Liên Cơ][Conjunctional Base] what.</li>
 
-					<li className="margin-bottom-20 list-none">Chức năng lớp trong cùng &lt;&gt;: &lt;what is hidden&gt; đóng vai trò là một [Danh Câu][Noun Clause] làm điểm tựa [Danh Nhận][Noun Object] dưới sự điều phối của hành động mở opens.</li>
+					<li className="margin-bottom-20 list-none">Chức năng lớp trong cùng &lt;&gt;: &lt;what is HIDden&gt; đóng vai trò là một [Danh Câu][Noun Clause] làm điểm tựa [Danh Nhận][Noun Object] dưới sự điều phối của hành động mở opens.</li>
 
 					<li><strong>Tầng 2</strong> {'{}'}:</li>
 
-					<li className="list-none">Hình thái lớp trung gian {'{}'}: {'{which opens <what is hidden>}'} là một [Liên Câu][Conjunctional Clause] bắt đầu bằng [Liên Cơ][Conjunctional Base] which.</li>
+					<li className="list-none">Hình thái lớp trung gian {'{}'}: {'{which Opens <what is HIDden>}'} là một [Liên Câu][Conjunctional Clause] bắt đầu bằng [Liên Cơ][Conjunctional Base] which.</li>
 
-					<li className="margin-bottom-20 list-none">Chức năng lớp trung gian {'{}'}: {'{which opens <what is hidden>}'} đóng vai trò là một [Tính Câu][Adjective Clause] neo ngay sau [Danh Cơ][Noun Base] key để bổ nghĩa và định danh trực tiếp cho chiếc chìa khóa đó.</li>
+					<li className="margin-bottom-20 list-none">Chức năng lớp trung gian {'{}'}: {'{which Opens <what is HIDden>}'} đóng vai trò là một [Tính Câu][Adjective Clause] neo ngay sau [Danh Cơ][Noun Base] key để bổ nghĩa và định danh trực tiếp cho chiếc chìa khóa đó.</li>
 
 					<li><strong>Tầng 1</strong> []:</li>
 
-					<li className="list-none">Hình thái tổng thể bao ngoài []: [Finding the key {'{which opens <what is hidden>}'}] là một khối [Tiếp Động Cụm][Progressive Verb Phrase] bắt đầu bằng [Tiếp Động Cơ][Progressive Verb Base] dạng V-ing Finding.</li>
+					<li className="list-none">Hình thái tổng thể bao ngoài []: [FINDing the KEY {'{which Opens <what is HIDden>}'}] là một khối [Tiếp Động Cụm][Progressive Verb Phrase] bắt đầu bằng [Tiếp Động Cơ][Progressive Verb Base] dạng V-ing FINDing.</li>
 
-					<li className="list-none">Chức năng lớp tổng thể bao ngoài []: [Finding the key {'{which opens <what is hidden>}'}] vận hành đồng bộ như một khối [Danh Cụm][Noun Phrase] lớn giữ vai trò làm [Danh Chủ][Noun Subject] điều phối hệ trục thông tin hành động cho toàn bộ [Câu Lớn][Sentence].</li>
+					<li className="list-none">Chức năng lớp tổng thể bao ngoài []: [FINDing the KEY {'{which Opens <what is HIDden>}'}] vận hành đồng bộ như một khối [Danh Cụm][Noun Phrase] lớn giữ vai trò làm [Danh Chủ][Noun Subject] điều phối hệ trục thông tin hành động cho toàn bộ [Câu Lớn][Sentence].</li>
 			
 				</ul>
 			
@@ -530,42 +530,42 @@ export default function SV1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>[Discovering {'{how the engine works}'}] is interesting.</li>
+					<li>[disCOVering {'{how the ENgine WORKS}'}] is INteresting.</li>
 					<li className="margin-bottom-20 list-none">[Việc phát hiện ra {'{cách thức mà hành động hoạt động}'}] thì thú vị.</li>
 
-					<li>Hình thái:</li>
+					<li className="list-none">Hình thái:</li>
 
-					<li className="list-none">Tầng trong: Khối lồng bên trong {'{how the engine works}'} là một [Liên Câu][Conjunctional Clause] vì chứa đầy đủ hệ trục [Danh Chủ][Noun Subject] "the engine" và [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "works", bắt đầu bằng [Liên Cơ][Conjunctional Base] how.</li>
+					<li className="list-none">Tầng trong: Khối lồng bên trong {'{how the ENgine WORKS}'} là một [Liên Câu][Conjunctional Clause] vì chứa đầy đủ hệ trục [Danh Chủ][Noun Subject] "the ENgine" và [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "WORKS", bắt đầu bằng [Liên Cơ][Conjunctional Base] how.</li>
 
-					<li className="margin-bottom-20 list-none">Tầng ngoài: Khối tổng thể bao ngoài [Discovering {'{how the engine works}'}] là một khối [Tầng Tiếp Động Cụm][Tiered Progressive Verb Phrase] bắt đầu bằng hành động thực thi [Tiếp Động Cơ][Progressive Verb Base] dạng V-ing Discovering.</li>
+					<li className="margin-bottom-20 list-none">Tầng ngoài: Khối tổng thể bao ngoài [disCOVering {'{how the ENgine WORKS}'}] là một khối [Tầng Tiếp Động Cụm][Tiered Progressive Verb Phrase] bắt đầu bằng hành động thực thi [Tiếp Động Cơ][Progressive Verb Base] dạng V-ing disCOVering.</li>
 			
-					<li>Chức năng:</li>
+					<li className="list-none">Chức năng:</li>
 
-					<li className="list-none">Tầng trong: Lớp trong {'{how the engine works}'} đóng vai trò là một [Danh Câu][Noun Clause], neo ngay sau hành động thực thi [Tiếp Động Cơ][Progressive Verb Base] Discovering để làm [Danh Nhận][Noun Object] cho hành động đó.</li>
+					<li className="list-none">Tầng trong: Lớp trong {'{how the ENgine WORKS}'} đóng vai trò là một [Danh Câu][Noun Clause], neo ngay sau hành động thực thi [Tiếp Động Cơ][Progressive Verb Base] disCOVering để làm [Danh Nhận][Noun Object] cho hành động đó.</li>
 
-					<li className="list-none">Tầng ngoài: Lớp ngoài [Discovering {'{how the engine works}'}] vận hành đồng bộ như một khối [<strong>Danh Cụm</strong>][<strong>Noun Phrase</strong>] lớn, đứng ở đầu câu giữ vai trò làm [Danh Chủ][Noun Subject] điều phối trục thông tin hành động cho toàn bộ [Câu Lớn][Sentence].</li>
+					<li className="list-none">Tầng ngoài: Lớp ngoài [disCOVering {'{how the ENgine WORKS}'}] vận hành đồng bộ như một khối [<strong>Danh Cụm</strong>][<strong>Noun Phrase</strong>] lớn, đứng ở đầu câu giữ vai trò làm [Danh Chủ][Noun Subject] điều phối trục thông tin hành động cho toàn bộ [Câu Lớn][Sentence].</li>
 			
 				</ul>
 
 
-			<p><strong>Thể hiện Chức năng</strong> [<strong>Danh Nhận</strong>][<strong>Noun Object</strong>]</p>
+			<p className="margin-top-20"><strong>Thể hiện Chức năng</strong> [<strong>Danh Nhận</strong>][<strong>Noun Object</strong>]</p>
 			
 				<ul className="list-square">
 			
-					<li>He avoided [discussing {'{what they had discovered}'}].</li>
+					<li>He aVOIDed [disCUSSing {'{what they had disCOVered}'}].</li>
 					<li className="margin-bottom-20 list-none">Anh ấy đã tránh [thảo luận về {'{những gì họ đã phát hiện ra}'}].</li>
 
-					<li>Hình thái:</li>
+					<li className="list-none">Hình thái:</li>
 
-					<li className="list-none">Tầng trong: Khối lồng bên trong {'{what they had discovered}'} là một [Liên Câu][Conjunctional Clause] chứa hệ trục [Danh Chủ][Noun Subject] "they" và [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "had discovered", bắt đầu bằng [Liên Cơ][Conjunctional Base] what.</li>
+					<li className="list-none">Tầng trong: Khối lồng bên trong {'{what they had disCOVered}'} là một [Liên Câu][Conjunctional Clause] chứa hệ trục [Danh Chủ][Noun Subject] "they" và [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "had disCOVered", bắt đầu bằng [Liên Cơ][Conjunctional Base] what.</li>
 
-					<li className="margin-bottom-20 list-none">Tầng ngoài: Khối tổng thể bao ngoài [discussing {'{what they had discovered}'}] là một khối [Tầng Tiếp Động Cụm][Tiered Progressive Verb Phrase] bắt đầu bằng [Tiếp Động Cơ][Progressive Verb Base] discussing.</li>
+					<li className="margin-bottom-20 list-none">Tầng ngoài: Khối tổng thể bao ngoài [disCUSSing {'{what they had disCOVered}'}] là một khối [Tầng Tiếp Động Cụm][Tiered Progressive Verb Phrase] bắt đầu bằng [Tiếp Động Cơ][Progressive Verb Base] disCUSSing.</li>
 			
-					<li>Chức năng:</li>
+					<li className="list-none">Chức năng:</li>
 
-					<li className="list-none">Tầng trong: Lớp trong {'{what they had discovered}'} đóng vai trò là một [Danh Câu][Noun Clause], neo ngay sau hành động thực thi discussing để làm [Danh Nhận][Noun Object].</li>
+					<li className="list-none">Tầng trong: Lớp trong {'{what they had disCOVered}'} đóng vai trò là một [Danh Câu][Noun Clause], neo ngay sau hành động thực thi disCUSSing để làm [Danh Nhận][Noun Object].</li>
 
-					<li className="list-none">Tầng ngoài: Lớp ngoài [discussing {'{what they had discovered}'}] vận hành như một khối [<strong>Danh Cụm</strong>][<strong>Noun Phrase</strong>] lớn đứng ngay sau [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "avoided" nhằm làm [Danh Nhận][Noun Object] chịu sự điều phối trực tiếp từ nó.</li>
+					<li className="list-none">Tầng ngoài: Lớp ngoài [disCUSSing {'{what they had disCOVered}'}] vận hành như một khối [<strong>Danh Cụm</strong>][<strong>Noun Phrase</strong>] lớn đứng ngay sau [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "aVOIDed" nhằm làm [Danh Nhận][Noun Object] chịu sự điều phối trực tiếp từ nó.</li>
 			
 				</ul>
 
@@ -577,20 +577,20 @@ export default function SV1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>The article [about {'{how she succeeded}'}] is inspiring.</li>
+					<li>The ARticle [about {'{how she sucCEEDed}'}] is inSPIring.</li>
 					<li className="margin-bottom-20 list-none">Bài báo [về {'{cách cô ấy thành công}'}] rất truyền cảm hứng.</li>
 
-					<li>Hình thái:</li>
+					<li className="list-none">Hình thái:</li>
 
-					<li className="list-none">Tầng trong: Khối lồng bên trong {'{how she succeeded}'} là một [Liên Câu][Conjunctional Clause] có chứa hệ trục [Danh Chủ][Noun Subject] "she" và [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "succeeded", bắt đầu bằng [Liên Cơ][Conjunctional Base] how.</li>
+					<li className="list-none">Tầng trong: Khối lồng bên trong {'{how she sucCEEDed}'} là một [Liên Câu][Conjunctional Clause] có chứa hệ trục [Danh Chủ][Noun Subject] "she" và [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "sucCEEDed", bắt đầu bằng [Liên Cơ][Conjunctional Base] how.</li>
 
-					<li className="margin-bottom-20 list-none">Tầng ngoài: Khối tổng thể bao ngoài [about {'{how she succeeded}'}] là một khối [Tầng Giới Cụm][Tiered Prepositional Phrase] bắt đầu bằng [Giới Cơ][Prepositional Base] about.</li>
+					<li className="margin-bottom-20 list-none">Tầng ngoài: Khối tổng thể bao ngoài [about {'{how she sucCEEDed}'}] là một khối [Tầng Giới Cụm][Tiered Prepositional Phrase] bắt đầu bằng [Giới Cơ][Prepositional Base] about.</li>
 			
-					<li>Chức năng:</li>
+					<li className="list-none">Chức năng:</li>
 
-					<li className="list-none">Tầng trong: Lớp trong {'{how she succeeded}'} đóng vai trò là một [Danh Câu][Noun Clause] đứng làm điểm tựa [Danh Nhận][Noun Object] dưới sự điều phối của [Giới Cơ][Prepositional Base] about.</li>
+					<li className="list-none">Tầng trong: Lớp trong {'{how she sucCEEDed}'} đóng vai trò là một [Danh Câu][Noun Clause] đứng làm điểm tựa [Danh Nhận][Noun Object] dưới sự điều phối của [Giới Cơ][Prepositional Base] about.</li>
 
-					<li className="list-none">Tầng ngoài: Lớp ngoài [about {'{how she succeeded}'}] đóng vai trò là một [<strong>Tính Cụm</strong>][<strong>Adjective Phrase</strong>] tổng thể bổ nghĩa cho [Danh Cụm][Noun Phrase] "The article" đứng trước nó.</li>
+					<li className="list-none">Tầng ngoài: Lớp ngoài [about {'{how she sucCEEDed}'}] đóng vai trò là một [<strong>Tính Cụm</strong>][<strong>Adjective Phrase</strong>] tổng thể bổ nghĩa cho [Danh Cụm][Noun Phrase] "The ARticle" đứng trước nó.</li>
 			
 				</ul>
 
@@ -602,20 +602,20 @@ export default function SV1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>She walked [slower {'{than we expected}'}].</li>
+					<li>She WALKED [SLOWer {'{than we exPECTed}'}].</li>
 					<li className="margin-bottom-20 list-none">Cô ấy đã đi bộ [chậm hơn {'{những gì chúng tôi kỳ vọng}'}].</li>
 
-					<li>Hình thái:</li>
+					<li className="list-none">Hình thái:</li>
 
-					<li className="list-none">Tầng trong: Khối lồng bên trong {'{than we expected}'} là một [Liên Câu][Conjunctional Clause] có chứa hệ trục [Danh Chủ][Noun Subject] "we" và [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "expected", được bắt đầu bằng [Liên Cơ][Conjunctional Base] than.</li>
+					<li className="list-none">Tầng trong: Khối lồng bên trong {'{than we exPECTed}'} là một [Liên Câu][Conjunctional Clause] có chứa hệ trục [Danh Chủ][Noun Subject] "we" và [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "exPECTed", được bắt đầu bằng [Liên Cơ][Conjunctional Base] than.</li>
 
-					<li className="margin-bottom-20 list-none">Tầng ngoài: Khối tổng thể bao ngoài [slower {'{than we expected}'}] là một khối [Tầng Diện Trạng Cụm][Tiered Modified Adverb Phrase] hình thành từ khối [Rễ Tính Cơ][Root Adjective Base] nguyên bản slow kết hợp hậu tố -er.</li>
+					<li className="margin-bottom-20 list-none">Tầng ngoài: Khối tổng thể bao ngoài [SLOWer {'{than we exPECTed}'}] là một khối [Tầng Diện Trạng Cụm][Tiered Modified Adverb Phrase] hình thành từ khối [Rễ Tính Cơ][Root Adjective Base] nguyên bản SLOW kết hợp hậu tố -er.</li>
 			
-					<li>Chức năng:</li>
+					<li className="list-none">Chức năng:</li>
 
-					<li className="list-none">Tầng trong: Lớp trong {'{than we expected}'} đóng vai trò là một [Trạng Câu][Adverb Clause] phụ thuộc, neo vào sau [Diện Trạng Cơ][Modified Adverb Base] dạng so sánh slower để làm rõ mức độ cho cấu trúc so sánh.</li>
+					<li className="list-none">Tầng trong: Lớp trong {'{than we exPECTed}'} đóng vai trò là một [Trạng Câu][Adverb Clause] phụ thuộc, neo vào sau [Diện Trạng Cơ][Modified Adverb Base] dạng so sánh SLOWer để làm rõ mức độ cho cấu trúc so sánh.</li>
 
-					<li className="list-none">Tầng trong: Lớp trong [slower {'{than we expected}'}] vận hành đồng bộ như một khối [<strong>Trạng Cụm</strong>][<strong>Adverb Phrase</strong>] tổng thể gắn sau [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "walked" nhằm làm rõ hoàn cảnh cách thức hành động được thực hiện.</li>
+					<li className="list-none">Tầng trong: Lớp trong [SLOWer {'{than we exPECTed}'}] vận hành đồng bộ như một khối [<strong>Trạng Cụm</strong>][<strong>Adverb Phrase</strong>] tổng thể gắn sau [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "WALKED" nhằm làm rõ hoàn cảnh cách thức hành động được thực hiện.</li>
 			
 				</ul>
 
@@ -636,12 +636,12 @@ export default function SV1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>We arrived [late].</li>
+					<li>We arRIVED [LATE].</li>
 					<li className="margin-bottom-20 list-none">Chúng tôi đã đến [muộn].</li>
 			
-					<li className="list-none">Hình thái: [late] - [Rễ Trạng Cơ][Root Adverb Base] hình thành từ khối [Rễ Tính Cơ][Root Adjective Base] nguyên bản "late" đóng vai trò diện mạo đơn lẻ ở cấp độ [Cơ][Base].</li>
+					<li className="list-none">Hình thái: [LATE] - [Rễ Trạng Cơ][Root Adverb Base] hình thành từ khối [Rễ Tính Cơ][Root Adjective Base] nguyên bản "LATE" đóng vai trò diện mạo đơn lẻ ở cấp độ [Cơ][Base].</li>
 
-					<li className="list-none">Chức năng: [late] - [Trạng Cơ][Adverb Base] đứng sau [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "arrived" làm [Trạng Cơ][Adverb Base] bổ nghĩa hoàn cảnh thời gian cho hành động.</li>
+					<li className="list-none">Chức năng: [LATE] - [Trạng Cơ][Adverb Base] đứng sau [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "arRIVED" làm [Trạng Cơ][Adverb Base] bổ nghĩa hoàn cảnh thời gian cho hành động.</li>
 			
 				</ul>
 
@@ -650,12 +650,12 @@ export default function SV1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>We arrived [to help our friends].</li>
+					<li>We arRIVED [to HELP our FRIENDS].</li>
 					<li className="margin-bottom-20 list-none">Chúng tôi đã đến [để giúp đỡ bạn bè của chúng tôi].</li>
 			
-					<li className="list-none">Hình thái: [to help our friends] - [Hạt Thuần Động Cụm][Particle Bare Verb Phrase] cấu thành khối hành động chứa nhiều yếu tố kết hợp và không chứa hệ trục [Danh Chủ][Noun Subject] - [Thời-Thuần Động Cơ][Tense-Bare Verb Base], bắt đầu bằng [Hạt Động Cơ][Particle Verb Base] "to".</li>
+					<li className="list-none">Hình thái: [to HELP our FRIENDS] - [Hạt Thuần Động Cụm][Particle Bare Verb Phrase] cấu thành khối hành động chứa nhiều yếu tố kết hợp và không chứa hệ trục [Danh Chủ][Noun Subject] - [Thời-Thuần Động Cơ][Tense-Bare Verb Base], bắt đầu bằng [Hạt Động Cơ][Particle Verb Base] "to".</li>
 
-					<li className="list-none">Chức năng: [to help our friends] - [Trạng Cụm][Adverb Phrase] đứng sau [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "arrived" nhằm làm rõ mục đích cho phần thông tin trước đó.</li>
+					<li className="list-none">Chức năng: [to HELP our FRIENDS] - [Trạng Cụm][Adverb Phrase] đứng sau [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "arRIVED" nhằm làm rõ mục đích cho phần thông tin trước đó.</li>
 			
 				</ul>
 			
@@ -664,12 +664,12 @@ export default function SV1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>We arrived [at noon].</li>
+					<li>We arRIVED [at NOON].</li>
 					<li className="margin-bottom-20 list-none">Chúng tôi đã đến [vào buổi trưa].</li>
 			
-					<li className="list-none">Hình thái: [at noon] - [Giới Cụm][Prepositional Phrase] cấu thành khối bắt đầu bằng một [Giới Cơ][Prepositional Base] mốc thời gian.</li>
+					<li className="list-none">Hình thái: [at NOON] - [Giới Cụm][Prepositional Phrase] cấu thành khối bắt đầu bằng một [Giới Cơ][Prepositional Base] mốc thời gian.</li>
 
-					<li className="list-none">Chức năng: [at noon] - [Trạng Cụm][Adverb Phrase] gắn vào phía sau [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "arrived" chịu trách nhiệm cung cấp hoàn cảnh thời điểm cho sự việc.</li>
+					<li className="list-none">Chức năng: [at NOON] - [Trạng Cụm][Adverb Phrase] gắn vào phía sau [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "arRIVED" chịu trách nhiệm cung cấp hoàn cảnh thời điểm cho sự việc.</li>
 			
 				</ul>
 			
@@ -678,12 +678,12 @@ export default function SV1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>We arrived [after the rain stopped].</li>
+					<li>We arRIVED [after the RAIN STOPPED].</li>
 					<li className="margin-bottom-20 list-none">Chúng tôi đã đến [sau khi cơn mưa tạnh].</li>
 			
-					<li className="list-none">Hình thái: [after the rain stopped] - [Liên Câu][Conjunctional Clause] thể hiện khối hành động phức có chứa hệ trục [Danh Chủ][Noun Subject] "the rain" và [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "stopped", bắt đầu bằng [Liên Cơ][Conjunctional Base] "after".</li>
+					<li className="list-none">Hình thái: [after the RAIN STOPPED] - [Liên Câu][Conjunctional Clause] thể hiện khối hành động phức có chứa hệ trục [Danh Chủ][Noun Subject] "the RAIN" và [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "STOPPED", bắt đầu bằng [Liên Cơ][Conjunctional Base] "after".</li>
 
-					<li className="list-none">Chức năng: [after the rain stopped] - [Trạng Câu][Adverb Clause] gắn vào phía sau [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "arrived" chịu trách nhiệm cung cấp hoàn cảnh thời gian cho toàn bộ hành động phía trước.</li>
+					<li className="list-none">Chức năng: [after the RAIN STOPPED] - [Trạng Câu][Adverb Clause] gắn vào phía sau [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "arRIVED" chịu trách nhiệm cung cấp hoàn cảnh thời gian cho toàn bộ hành động phía trước.</li>
 			
 				</ul>
 			
@@ -694,12 +694,12 @@ export default function SV1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>[Knowledge] is power.</li>
+					<li>[KNOWledge] is POWer.</li>
 					<li className="margin-bottom-20 list-none">[Tri thức] là sức mạnh.</li>
 			
-					<li className="list-none">Hình thái: [Knowledge] - [Diện Danh Cơ][Modified Noun Base] hình thành từ khối [Rễ Động Cơ][Root Verb Base] nguyên bản "know" kết hợp hậu tố "-ledge" để thay đổi diện mạo bên ngoài thành một khối cấp độ [Cơ][Base].</li>
+					<li className="list-none">Hình thái: [KNOWledge] - [Diện Danh Cơ][Modified Noun Base] hình thành từ khối [Rễ Động Cơ][Root Verb Base] nguyên bản "KNOW" kết hợp hậu tố "-ledge" để thay đổi diện mạo bên ngoài thành một khối cấp độ [Cơ][Base].</li>
 
-					<li className="list-none">Chức năng: [Knowledge] - [Danh Cơ][Noun Base] đứng ở đầu câu tạo nên [Danh Chủ][Noun Subject] cho toàn câu.</li>
+					<li className="list-none">Chức năng: [KNOWledge] - [Danh Cơ][Noun Base] đứng ở đầu câu tạo nên [Danh Chủ][Noun Subject] cho toàn câu.</li>
 			
 				</ul>
 			
@@ -708,12 +708,12 @@ export default function SV1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>[Learning a new language] is a huge advantage.</li>
+					<li>[LEARNing a New LANguage] is a HUGE adVANtage.</li>
 					<li className="margin-bottom-20 list-none">[Việc học một ngôn ngữ mới] là một lợi thế lớn.</li>
 			
-					<li className="list-none">Hình thái: [Learning a new language] - [Tiếp Động Cụm][Progressive Verb Phrase] cấu thành khối hành động chứa nhiều yếu tố kết hợp và không chứa hệ trục [Danh Chủ][Noun Subject] - [Thời-Thuần Động Cơ][Tense-Bare Verb Base].</li>
+					<li className="list-none">Hình thái: [LEARNing a New LANguage] - [Tiếp Động Cụm][Progressive Verb Phrase] cấu thành khối hành động chứa nhiều yếu tố kết hợp và không chứa hệ trục [Danh Chủ][Noun Subject] - [Thời-Thuần Động Cơ][Tense-Bare Verb Base].</li>
 
-					<li className="list-none">Chức năng: [Learning a new language] - [Danh Cụm][Noun Phrase] đứng ở vị trí đầu câu để làm [Danh Chủ][Noun Subject] điều phối thông tin.</li>
+					<li className="list-none">Chức năng: [LEARNing a New LANguage] - [Danh Cụm][Noun Phrase] đứng ở vị trí đầu câu để làm [Danh Chủ][Noun Subject] điều phối thông tin.</li>
 			
 				</ul>
 			
@@ -722,12 +722,12 @@ export default function SV1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>[What you know] is power.</li>
+					<li>[What you KNOW] is POWer.</li>
 					<li className="margin-bottom-20 list-none">[Những gì bạn biết] tạo nên sức mạnh.</li>
 			
-					<li className="list-none">Hình thái: [What you know] - [Liên Câu][Conjunctional Clause] tạo nên khối hành động phức có chứa hệ trục [Danh Chủ][Noun Subject] "you" và [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "know", bắt đầu bằng [Liên Cơ][Conjunctional Base] "what".</li>
+					<li className="list-none">Hình thái: [What you KNOW] - [Liên Câu][Conjunctional Clause] tạo nên khối hành động phức có chứa hệ trục [Danh Chủ][Noun Subject] "you" và [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "KNOW", bắt đầu bằng [Liên Cơ][Conjunctional Base] "what".</li>
 
-					<li className="list-none">Chức năng: [What you know] - [Danh Câu][Noun Clause] đứng ở đầu câu tạo nên [Danh Chủ][Noun Subject] cho toàn câu.</li>
+					<li className="list-none">Chức năng: [What you KNOW] - [Danh Câu][Noun Clause] đứng ở đầu câu tạo nên [Danh Chủ][Noun Subject] cho toàn câu.</li>
 			
 				</ul>
 			

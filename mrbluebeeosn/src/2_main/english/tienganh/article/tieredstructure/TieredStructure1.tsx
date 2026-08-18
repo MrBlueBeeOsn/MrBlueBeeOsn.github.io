@@ -168,7 +168,7 @@ export default function TieredStructure1(): React.JSX.Element {
           <li value="2">[<strong>Hạt Động Cơ</strong>][<strong>Particle Verb Base</strong>]: to, aWAY, BACK, Over, THROUGH, aROUND, aHEAD</li>
           <li className="margin-bottom-20 list-none">[Hạt] "to" đơn lẻ đóng vai trò hạt nhân đầu tiên đứng trước mọi khối hành động để làm công tắc kích hoạt trạng thái nguyên bản. Các [Hạt] như away, back, over, through, around, ahead, ... đơn lẻ đứng sau đóng vai trò định hướng hành động để khuếch đại, chuyển giao hoặc làm rõ quỹ đạo chuyển động cho khối hành động.</li>
 
-          <li value="3">[<strong>Thời Động Cơ</strong>][<strong>Tense Verb Base</strong>]: does, did, is, has, was, am, are</li>
+          <li value="3">[<strong>Thời Động Cơ</strong>][<strong>Tense Verb Base</strong>]: DOES, DID, is, has, was, am, are</li>
           <li className="margin-bottom-20 list-none">Từ đơn lẻ đóng vai trò làm bộ định vị, mang năng lượng [Thời] gian thực tế vào trong câu.</li>
       
           <li value="4">[<strong>Ý-Thái Động Cơ</strong>][<strong>Soft-Modal Verb Base</strong>]: would, could, should, might</li>
