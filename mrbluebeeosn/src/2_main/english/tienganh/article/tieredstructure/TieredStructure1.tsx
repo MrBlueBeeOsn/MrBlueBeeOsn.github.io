@@ -189,7 +189,7 @@ export default function TieredStructure1(): React.JSX.Element {
           <li value="9">[<strong>Áp-Thái Thuần Động Cơ</strong>][<strong>Assertive-Modal Bare Verb Base</strong>]: will exPLORE, can BUILD</li>
           <li className="margin-bottom-20 list-none">Sự hợp nhất cấu trúc giữa bộ lọc [Thái] độ khẳng định, [Áp] đặt và hành động [Thuần] khiết.</li>
 
-          <li value="10">[<strong>Thời Thuần Động Cơ</strong>][<strong>Tense Bare Verb Base</strong>]: did BUILD, does deSIGN</li>
+          <li value="10">[<strong>Thời Thuần Động Cơ</strong>][<strong>Tense Bare Verb Base</strong>]: DID BUILD, DOES deSIGN</li>
           <li className="margin-bottom-20 list-none">Tổ hợp song hành giữ nguyên khoảng trắng phân tách nhằm định vị [Thời] gian và hành động [Thuần] khiết.</li>
 
           <li value="11">[<strong>Thời-Thuần Động Cơ</strong>][<strong>Tense-Bare Verb Base</strong>]: BUILT, BUILDS, deSIGNS</li>

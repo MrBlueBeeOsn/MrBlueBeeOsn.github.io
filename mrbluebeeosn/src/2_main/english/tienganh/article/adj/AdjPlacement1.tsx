@@ -110,7 +110,7 @@ export default function AdjPlacement1(): React.JSX.Element {
           <li value="9">[<strong>Áp-Thái Thuần Động Cơ</strong>][<strong>Assertive-Modal Bare Verb Base</strong>]: will VERify, can deSIGN</li>
           <li className="margin-bottom-20 list-none">Sự hợp nhất tính xác quyết với hành động [Thuần] khiết, tạo nên khả năng thực tế rõ ràng.</li>
 
-          <li value="10">[<strong>Thời Thuần Động Cơ</strong>][<strong>Tense Bare Verb Base</strong>]: did oRIGinate, does FORMulate</li>
+          <li value="10">[<strong>Thời Thuần Động Cơ</strong>][<strong>Tense Bare Verb Base</strong>]: DID oRIGinate, DOES FORMulate</li>
           <li className="margin-bottom-20 list-none">Cấu trúc song hành tách biệt giữa yếu tố [Thời] và hành động [Thuần] khiết.</li>
 
           <li value="11">[<strong>Thời-Thuần Động Cơ</strong>][<strong>Tense-Bare Verb Base</strong>]: oRIGinated, FORMulates</li>

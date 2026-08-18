@@ -129,7 +129,7 @@ export default function NineBox1(): React.JSX.Element {
           <li value="9">[<strong>Áp-Thái Thuần Động Cơ</strong>][<strong>Assertive-Modal Bare Verb Base</strong>]: will transMIT, can ANalyze</li>
           <li className="margin-bottom-20 list-none">Sự phối hợp tuyến tính giữa [Thái] độ khẳng định, [Áp] đặt thực tế và rễ hành động [Thuần] khiết, nguyên bản.</li>
 
-          <li value="10">[<strong>Thời Thuần Động Cơ</strong>][<strong>Tense Bare Verb Base</strong>]: did ANalyze, does comPILE</li>
+          <li value="10">[<strong>Thời Thuần Động Cơ</strong>][<strong>Tense Bare Verb Base</strong>]: DID ANalyze, DOES comPILE</li>
           <li className="margin-bottom-20 list-none">Sự song hành trực tiếp giữa thành phần mang năng lượng [Thời] gian và rễ hành động [Thuần] khiết, được phân tách rõ ràng bằng một khoảng trắng trong câu.</li>
 
           <li value="11">[<strong>Thời-Thuần Động Cơ</strong>][<strong>Tense-Bare Verb Base</strong>]: ANalyzed, ANalyzes, comPILES</li>
