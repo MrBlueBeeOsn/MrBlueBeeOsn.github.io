@@ -96,7 +96,7 @@ export default function AdjPlacement1(): React.JSX.Element {
           <li className="margin-bottom-20 list-none">Hành động chỉ [Thái] độ nhẹ nhàng, gợi [Ý], giảm bớt tính áp đặt, tạo sự [Ý] nhị. Các khối phức đặc biệt: [Phức Ý-Thái Động Cơ][Complex Soft-Modal Verb Base] như ought to, had BETter được quét như một đơn vị thống nhất.</li>
 
           <li value="5">[<strong>Áp-Thái Động Cơ</strong>][<strong>Assertive-Modal Verb Base</strong>]: will, must, can</li>
-          <li className="margin-bottom-20 list-none">Hành động chỉ [Thái] độ trực diện, mang tính xác quyết và thực thi thực tế mạnh mẽ. Các khối phức đặc biệt: [Phức Áp-Thái Động Cơ][Complex Assertive-Modal Verb Base] như HAVE to được quét như một đơn vị thống nhất.</li>
+          <li className="margin-bottom-20 list-none">Hành động chỉ [Thái] độ trực diện, mang tính xác quyết và thực thi thực tế mạnh mẽ. Các khối phức đặc biệt: [Phức Áp-Thái Động Cơ][Complex Assertive-Modal Verb Base] như have to được quét như một đơn vị thống nhất.</li>
 
           <li value="6">[<strong>Thuần Động Cơ</strong>][<strong>Bare Verb Base</strong>]: oRIGinate, FORMulate</li>
           <li className="margin-bottom-20 list-none">Hành động [Thuần] khiết ở dạng tự do hoàn toàn, thường đứng ngay sau [Hạt Động Cơ][Particle Verb Base] "to", [Ý-Thái][Soft-Modal] hay [Áp-Thái Động Cơ][Assertive-Modal Verb Base] hoặc [Rễ Động Cơ][Root Verb Base] như MAKE, LET, HELP, HAVE, GET, SEE, HEAR, WATCH, FEEL.</li>
@@ -176,7 +176,7 @@ export default function AdjPlacement1(): React.JSX.Element {
       
           <li>to FORMulate → [Hạt][Particle] to + [Thuần Động Cơ][Bare Verb Base] FORMulate</li>
       
-          <li>did oRIGinate → [Thời][Tense] did + [Thuần Động Cơ][Bare Verb Base] oRIGinate</li>
+          <li>DID oRIGinate → [Thời][Tense] did + [Thuần Động Cơ][Bare Verb Base] oRIGinate</li>
       
         </ul>
       

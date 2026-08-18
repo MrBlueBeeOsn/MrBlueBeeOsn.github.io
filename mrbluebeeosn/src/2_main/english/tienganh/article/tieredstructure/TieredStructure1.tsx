@@ -147,7 +147,7 @@ export default function TieredStructure1(): React.JSX.Element {
 
       <p className="margin-top-20 text-indent-whole"><strong>Nhóm 4</strong>: [<strong>Áp-Thái Thuần Động Cơ</strong>][<strong>Assertive-Modal Bare Verb Base</strong>]</p>
 
-      <p className="text-indent-whole">Nhóm biểu thị tính ép buộc, cam kết hoặc chắc chắn cao, không để lại lối thoát cho người nghe: will (cam kết), shall (chắc chắn), can (năng lực), must (ép buộc), HAVE to (bắt buộc), may (khả năng).</p>
+      <p className="text-indent-whole">Nhóm biểu thị tính ép buộc, cam kết hoặc chắc chắn cao, không để lại lối thoát cho người nghe: will (cam kết), shall (chắc chắn), can (năng lực), must (ép buộc), have to (bắt buộc), may (khả năng).</p>
 
         <ul className="list-square">
       

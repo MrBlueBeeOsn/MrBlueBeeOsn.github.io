@@ -222,7 +222,7 @@ export default function LegoAssembly1(): React.JSX.Element {
       
           <li>to LAUNCH → [Hạt Động Cơ][Particle Verb Base] to + [Thuần Động Cơ][Bare Verb Base] LAUNCH</li>
       
-          <li>did LAUNCH → [Thời][Tense] did (Nhấn mạnh) + [Thuần Động Cơ][Bare Verb Base] LAUNCH</li>
+          <li>DID LAUNCH → [Thời][Tense] did (Nhấn mạnh) + [Thuần Động Cơ][Bare Verb Base] LAUNCH</li>
       
         </ul>
       
