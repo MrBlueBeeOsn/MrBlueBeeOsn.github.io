@@ -114,7 +114,7 @@ export default function LegoAssembly1(): React.JSX.Element {
           <li className="list-none">[Hạt] "to" đơn lẻ đóng vai trò hạt nhân đầu tiên đứng trước mọi khối hành động để kích hoạt trạng thái nguyên bản (ví dụ: to anALyze, to dePLOY).</li>
 					<li className="margin-bottom-20 list-none">Các [Hạt] như aWAY, BACK, FORward, Over, ... đơn lẻ đứng sau hành động để điều hướng hướng đi, khuếch đại thái độ hoặc biến đổi hoàn toàn sắc thái ý nghĩa của hành động gốc (ví dụ: PASS aWAY, PAY BACK, BRING FORward, TAKE Over).</li>
 
-          <li value="3">[<strong>Thời Động Cơ</strong>][<strong>Tense Verb Base</strong>]: DOES, DID, is, has, was, am, are</li>
+          <li value="3">[<strong>Thời Động Cơ</strong>][<strong>Tense Verb Base</strong>]: does, did, is, has, was, am, are</li>
           <li className="margin-bottom-20 list-none">Hành động đơn lẻ xuất hiện để mang năng lượng [Thời] gian / mốc [Thời] gian trong câu.</li>
       
           <li value="4">[<strong>Ý-Thái Động Cơ</strong>][<strong>Soft-Modal Verb Base</strong>]: would, could, should, might</li>
