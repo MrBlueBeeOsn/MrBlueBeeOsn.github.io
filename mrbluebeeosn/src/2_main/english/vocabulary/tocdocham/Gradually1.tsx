@@ -145,7 +145,7 @@ export default function Gradually1(): React.JSX.Element {
           <li className="list-none">The meeting ended ______.</li>
           <li className="margin-bottom-20 list-none">Cuộc họp kết thúc đột ngột.</li>
 
-          <li><Link to="/vocabulary/rapidly-1">Rapidly</Link> /ˈræpɪdli/</li>
+          <li><Link to="/vocabulary/RAPidly-1">Rapidly</Link> /ˈræpɪdli/</li>
           <li className="list-none">The car accelerated ______.</li>
           <li className="list-none">Chiếc xe tăng tốc nhanh chóng.</li>
 
@@ -217,7 +217,7 @@ export default function Gradually1(): React.JSX.Element {
 
           <ol>
 
-            <li>The plant grew <Link to="/vocabulary/quickly-1">quickly</Link>.</li>
+            <li>The plant grew <Link to="/vocabulary/QUICKly-1">quickly</Link>.</li>
             <li className="list-none margin-bottom-20">Cây lớn nhanh.</li>
 
             <li value="2">The plant grew ______ over the summer.</li>

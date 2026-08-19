@@ -5,9 +5,9 @@ import EyeIcon from '@/components/view/EyeIcon';
 import ViewCounter from '@/components/view/ViewCounter';
 import LikeButton from '@/components/like/LikeButton';
 
-export default function Quickly1(): React.JSX.Element {
+export default function QUICKly1(): React.JSX.Element {
 
-  const postId = "Quickly1";
+  const postId = "QUICKly1";
 
   return (<>
 
@@ -18,9 +18,9 @@ export default function Quickly1(): React.JSX.Element {
       <h4><HashLink smooth to="/vocabulary#toc-do-nhanh-terms"><mark className="highlight-tertiary-padding-4-8">ADverbs: nhanh</mark></HashLink></h4>
       
       <h1 className="margin-y-50 text-center">QUICKly
-        <sup><Link to="/vocabulary/quickly-1">&nbsp;1&nbsp;</Link>
+        <sup><Link to="/vocabulary/QUICKly-1">&nbsp;1&nbsp;</Link>
         </sup>
-        <sup><Link to="/vocabulary/quickly-2">&nbsp;2&nbsp;</Link>
+        <sup><Link to="/vocabulary/QUICKly-2">&nbsp;2&nbsp;</Link>
         </sup>
       </h1>
 
@@ -103,7 +103,7 @@ export default function Quickly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>The diSEASE SPREAD <Link to="/vocabulary/rapidly-1">RAPidly</Link>.</li>
+          <li>The diSEASE SPREAD <Link to="/vocabulary/RAPidly-1">RAPidly</Link>.</li>
           <li className="margin-bottom-20 list-none">Bệnh lây lan rất nhanh.</li>
 
           <li>The BIRD FLEW SWIFTly through the AIR.</li>

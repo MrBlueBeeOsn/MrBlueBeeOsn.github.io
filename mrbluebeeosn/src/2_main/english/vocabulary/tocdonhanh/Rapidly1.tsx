@@ -5,9 +5,9 @@ import EyeIcon from '@/components/view/EyeIcon';
 import ViewCounter from '@/components/view/ViewCounter';
 import LikeButton from '@/components/like/LikeButton';
 
-export default function Rapidly1(): React.JSX.Element {
+export default function RAPidly1(): React.JSX.Element {
 
-  const postId = "Rapidly1";
+  const postId = "RAPidly1";
 
   return (<>
 
@@ -18,9 +18,9 @@ export default function Rapidly1(): React.JSX.Element {
       <h4><HashLink smooth to="/vocabulary#toc-do-nhanh-terms"><mark className="highlight-tertiary-padding-4-8">ADverbs: nhanh</mark></HashLink></h4>
       
       <h1 className="margin-y-50 text-center">RAPidly
-        <sup><Link to="/vocabulary/rapidly-1">&nbsp;1&nbsp;</Link>
+        <sup><Link to="/vocabulary/RAPidly-1">&nbsp;1&nbsp;</Link>
         </sup>
-        <sup><Link to="/vocabulary/rapidly-2">&nbsp;2&nbsp;</Link>
+        <sup><Link to="/vocabulary/RAPidly-2">&nbsp;2&nbsp;</Link>
         </sup>
       </h1>
 
@@ -103,7 +103,7 @@ export default function Rapidly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>She RAN <Link to="/vocabulary/quickly-1">QUICKly</Link> to CATCH the BUS.</li>
+          <li>She RAN <Link to="/vocabulary/QUICKly-1">QUICKly</Link> to CATCH the BUS.</li>
           <li className="margin-bottom-20 list-none">Cô ấy chạy nhanh để bắt xe buýt.</li>
 
           <li>The BIRD FLEW SWIFTly through the AIR.</li>
@@ -225,7 +225,7 @@ export default function Rapidly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Mức độ nhanh: "<strong>RAPidly</strong>" thường chỉ sự nhanh chóng ở mức độ cao hơn so với "<Link to="/vocabulary/quickly-1">QUICKly</Link>".</li>
+          <li>Mức độ nhanh: "<strong>RAPidly</strong>" thường chỉ sự nhanh chóng ở mức độ cao hơn so với "<Link to="/vocabulary/QUICKly-1">QUICKly</Link>".</li>
 
           <li className="margin-bottom-20">Ngữ cảnh: Ý nghĩa của "<strong>RAPidly</strong>" có thể thay đổi tùy thuộc vào ngữ cảnh câu.</li>
 

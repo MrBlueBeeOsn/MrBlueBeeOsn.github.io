@@ -5,9 +5,9 @@ import EyeIcon from '@/components/view/EyeIcon';
 import ViewCounter from '@/components/view/ViewCounter';
 import LikeButton from '@/components/like/LikeButton';
 
-export default function Suddenly2(): React.JSX.Element {
+export default function SUDdenly2(): React.JSX.Element {
 
-  const postId = "Suddenly2";
+  const postId = "SUDdenly2";
 
   return (<>
 
@@ -19,10 +19,10 @@ export default function Suddenly2(): React.JSX.Element {
       
       <h1 className="margin-y-50 text-center">SUDdenly
         <sup>
-          <Link to="/vocabulary/suddenly-1">&nbsp;1&nbsp;</Link>
+          <Link to="/vocabulary/SUDdenly-1">&nbsp;1&nbsp;</Link>
         </sup>
         <sup>
-          <Link to="/vocabulary/suddenly-2">&nbsp;2&nbsp;</Link>
+          <Link to="/vocabulary/SUDdenly-2">&nbsp;2&nbsp;</Link>
         </sup>
       </h1>
 

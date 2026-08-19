@@ -27,8 +27,8 @@ export default function VocabularyIndex(): React.JSX.Element {
 			<div className="table-search margin-bottom-50">
 			
 				<SearchComponent />
-        
-        <VideoSearch2 />
+				
+				<VideoSearch2 />
 							
 			</div>
 
@@ -592,10 +592,10 @@ export default function VocabularyIndex(): React.JSX.Element {
 					<ul className="list-border1">
 
 						<li>
-							<Link to="/vocabulary/basically-1">BAsically
+							<Link to="/vocabulary/BAsically-1">BAsically
 								<sup>&nbsp;1&nbsp;</sup>
 									</Link> 
-									<Link to="/vocabulary/basically-2">
+									<Link to="/vocabulary/BAsically-2">
 								<sup>&nbsp;2&nbsp;</sup>
 							</Link>
 						</li>
@@ -616,37 +616,37 @@ export default function VocabularyIndex(): React.JSX.Element {
 					<ul className="list-border1">
 
 						<li>
-							<Link to="/vocabulary/quickly-1">quickly
+							<Link to="/vocabulary/QUICKly-1">QUICKly
 								<sup>&nbsp;1&nbsp;</sup>
 									</Link> 
-									<Link to="/vocabulary/quickly-2">
+									<Link to="/vocabulary/QUICKly-2">
 								<sup>&nbsp;2&nbsp;</sup>
 							</Link>
 						</li>
 						
 						<li>
-							<Link to="/vocabulary/rapidly-1">rapidly
+							<Link to="/vocabulary/RAPidly-1">RAPidly
 								<sup>&nbsp;1&nbsp;</sup>
 									</Link> 
-									<Link to="/vocabulary/rapidly-2">
+									<Link to="/vocabulary/RAPidly-2">
 								<sup>&nbsp;2&nbsp;</sup>
 							</Link>
 						</li>
 
 						<li>
-							<Link to="/vocabulary/instantly-1">instantly
+							<Link to="/vocabulary/INstantly-1">INstantly
 								<sup>&nbsp;1&nbsp;</sup>
 									</Link> 
-									<Link to="/vocabulary/instantly-2">
+									<Link to="/vocabulary/INstantly-2">
 								<sup>&nbsp;2&nbsp;</sup>
 							</Link>
 						</li>
 						
 						<li>
-							<Link to="/vocabulary/suddenly-1">suddenly
+							<Link to="/vocabulary/SUDdenly-1">SUDdenly
 								<sup>&nbsp;1&nbsp;</sup>
 									</Link> 
-									<Link to="/vocabulary/suddenly-2">
+									<Link to="/vocabulary/SUDdenly-2">
 								<sup>&nbsp;2&nbsp;</sup>
 							</Link>
 						</li>

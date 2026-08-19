@@ -5,9 +5,9 @@ import EyeIcon from '@/components/view/EyeIcon';
 import ViewCounter from '@/components/view/ViewCounter';
 import LikeButton from '@/components/like/LikeButton';
 
-export default function Quickly2(): React.JSX.Element {
+export default function QUICKly2(): React.JSX.Element {
 
-  const postId = "Quickly2";
+  const postId = "QUICKly2";
 
   return (<>
 
@@ -19,10 +19,10 @@ export default function Quickly2(): React.JSX.Element {
       
       <h1 className="margin-y-50 text-center">QUICKly
         <sup>
-          <Link to="/vocabulary/quickly-1">&nbsp;1&nbsp;</Link>
+          <Link to="/vocabulary/QUICKly-1">&nbsp;1&nbsp;</Link>
         </sup>
         <sup>
-          <Link to="/vocabulary/quickly-2">&nbsp;2&nbsp;</Link>
+          <Link to="/vocabulary/QUICKly-2">&nbsp;2&nbsp;</Link>
         </sup>
       </h1>
 

@@ -5,9 +5,9 @@ import EyeIcon from '@/components/view/EyeIcon';
 import ViewCounter from '@/components/view/ViewCounter';
 import LikeButton from '@/components/like/LikeButton';
 
-export default function Basically2(): React.JSX.Element {
+export default function BAsically2(): React.JSX.Element {
 
-  const postId = "Basically2";
+  const postId = "BAsically2";
 
   return (<>
 
@@ -19,10 +19,10 @@ export default function Basically2(): React.JSX.Element {
       
       <h1 className="margin-y-50 text-center">BAsically
         <sup>
-          <Link to="/vocabulary/basically-1">&nbsp;1&nbsp;</Link>
+          <Link to="/vocabulary/BAsically-1">&nbsp;1&nbsp;</Link>
         </sup>
         <sup>
-          <Link to="/vocabulary/basically-2">&nbsp;2&nbsp;</Link>
+          <Link to="/vocabulary/BAsically-2">&nbsp;2&nbsp;</Link>
         </sup>
       </h1>
 

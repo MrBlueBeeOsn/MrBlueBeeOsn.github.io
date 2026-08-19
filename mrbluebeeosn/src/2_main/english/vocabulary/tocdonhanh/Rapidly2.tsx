@@ -5,9 +5,9 @@ import EyeIcon from '@/components/view/EyeIcon';
 import ViewCounter from '@/components/view/ViewCounter';
 import LikeButton from '@/components/like/LikeButton';
 
-export default function Rapidly2(): React.JSX.Element {
+export default function RAPidly2(): React.JSX.Element {
 
-  const postId = "Rapidly2";
+  const postId = "RAPidly2";
 
   return (<>
 
@@ -19,10 +19,10 @@ export default function Rapidly2(): React.JSX.Element {
       
       <h1 className="margin-y-50 text-center">RAPidly
         <sup>
-          <Link to="/vocabulary/rapidly-1">&nbsp;1&nbsp;</Link>
+          <Link to="/vocabulary/RAPidly-1">&nbsp;1&nbsp;</Link>
         </sup>
         <sup>
-          <Link to="/vocabulary/rapidly-2">&nbsp;2&nbsp;</Link>
+          <Link to="/vocabulary/RAPidly-2">&nbsp;2&nbsp;</Link>
         </sup>
       </h1>
 
@@ -42,7 +42,7 @@ export default function Rapidly2(): React.JSX.Element {
               
               [RAPidly][RAP id ly] /ˈræpɪdli/ + /
               
-              <Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">RApidly</Link>/ 
+              <Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">RAPidly</Link>/ 
               
               &nbsp;⬤•• (3x)
               

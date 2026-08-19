@@ -129,11 +129,11 @@ export default function Slowly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li><Link to="/vocabulary/quickly-1">Quickly</Link> /ˈkwɪkli/</li>
+          <li><Link to="/vocabulary/QUICKly-1">Quickly</Link> /ˈkwɪkli/</li>
           <li className="list-none">He ran ______ to catch the bus.</li>
           <li className="margin-bottom-20 list-none">Anh ấy chạy nhanh để bắt xe buýt.</li>
 
-          <li><Link to="/vocabulary/rapidly-1">Rapidly</Link> /ˈræpɪdli/</li>
+          <li><Link to="/vocabulary/RAPidly-1">Rapidly</Link> /ˈræpɪdli/</li>
           <li className="list-none">The disease spread ______.</li>
           <li className="list-none">Bệnh lây lan rất nhanh.</li>
 

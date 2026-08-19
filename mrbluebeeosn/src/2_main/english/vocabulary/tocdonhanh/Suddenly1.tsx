@@ -5,9 +5,9 @@ import EyeIcon from '@/components/view/EyeIcon';
 import ViewCounter from '@/components/view/ViewCounter';
 import LikeButton from '@/components/like/LikeButton';
 
-export default function Suddenly1(): React.JSX.Element {
+export default function SUDdenly1(): React.JSX.Element {
 
-  const postId = "Suddenly1";
+  const postId = "SUDdenly1";
 
   return (<>
 
@@ -18,9 +18,9 @@ export default function Suddenly1(): React.JSX.Element {
       <h4><HashLink smooth to="/vocabulary#toc-do-nhanh-terms"><mark className="highlight-tertiary-padding-4-8">ADverbs: nhanh</mark></HashLink></h4>
       
       <h1 className="margin-y-50 text-center">SUDdenly
-        <sup><Link to="/vocabulary/suddenly-1">&nbsp;1&nbsp;</Link>
+        <sup><Link to="/vocabulary/SUDdenly-1">&nbsp;1&nbsp;</Link>
         </sup>
-        <sup><Link to="/vocabulary/suddenly-2">&nbsp;2&nbsp;</Link>
+        <sup><Link to="/vocabulary/SUDdenly-2">&nbsp;2&nbsp;</Link>
         </sup>
       </h1>
 

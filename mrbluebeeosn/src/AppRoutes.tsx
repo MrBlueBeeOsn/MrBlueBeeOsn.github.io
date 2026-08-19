@@ -524,8 +524,8 @@ const Posts = lazy(() => import('@/data/Posts'));
 	const Particularly2 = lazy(() => import('@/2_main/english/vocabulary/diemnhandacbiet/Particularly2'));
 
 	// 18. Vocabulary - Về cơ bản
-	const Basically1 = lazy(() => import('@/2_main/english/vocabulary/vecoban/Basically1'));
-	const Basically2 = lazy(() => import('@/2_main/english/vocabulary/vecoban/Basically2'));
+	const BAsically1 = lazy(() => import('@/2_main/english/vocabulary/vecoban/BAsically1'));
+	const BAsically2 = lazy(() => import('@/2_main/english/vocabulary/vecoban/BAsically2'));
 
 	// 19. Vocabulary - Tính hiệu quả
 	const Effectively1 = lazy(() => import('@/2_main/english/vocabulary/tinhhieuqua/Effectively1'));
@@ -538,14 +538,14 @@ const Posts = lazy(() => import('@/data/Posts'));
 	const Productively2 = lazy(() => import('@/2_main/english/vocabulary/tinhhieuqua/Productively2'));
 
 	// 20. Vocabulary - Tốc độ nhanh
-	const Quickly1 = lazy(() => import('@/2_main/english/vocabulary/tocdonhanh/Quickly1'));
-	const Quickly2 = lazy(() => import('@/2_main/english/vocabulary/tocdonhanh/Quickly2'));
-	const Rapidly1 = lazy(() => import('@/2_main/english/vocabulary/tocdonhanh/Rapidly1'));
-	const Rapidly2 = lazy(() => import('@/2_main/english/vocabulary/tocdonhanh/Rapidly2'));
-	const Instantly1 = lazy(() => import('@/2_main/english/vocabulary/tocdonhanh/Instantly1'));
-	const Instantly2 = lazy(() => import('@/2_main/english/vocabulary/tocdonhanh/Instantly2'));
-	const Suddenly1 = lazy(() => import('@/2_main/english/vocabulary/tocdonhanh/Suddenly1'));
-	const Suddenly2 = lazy(() => import('@/2_main/english/vocabulary/tocdonhanh/Suddenly2'));
+	const QUICKly1 = lazy(() => import('@/2_main/english/vocabulary/tocdonhanh/QUICKly1'));
+	const QUICKly2 = lazy(() => import('@/2_main/english/vocabulary/tocdonhanh/QUICKly2'));
+	const RAPidly1 = lazy(() => import('@/2_main/english/vocabulary/tocdonhanh/RAPidly1'));
+	const RAPidly2 = lazy(() => import('@/2_main/english/vocabulary/tocdonhanh/RAPidly2'));
+	const INstantly1 = lazy(() => import('@/2_main/english/vocabulary/tocdonhanh/INstantly1'));
+	const INstantly2 = lazy(() => import('@/2_main/english/vocabulary/tocdonhanh/INstantly2'));
+	const SUDdenly1 = lazy(() => import('@/2_main/english/vocabulary/tocdonhanh/SUDdenly1'));
+	const SUDdenly2 = lazy(() => import('@/2_main/english/vocabulary/tocdonhanh/SUDdenly2'));
 
 	// 21. Vocabulary - Tính kiên nhẫn
 	const Patiently1 = lazy(() => import('@/2_main/english/vocabulary/tinhkiennhan/Patiently1'));
@@ -1129,8 +1129,8 @@ export default function AppRoutes(): React.JSX.Element {
 					<Route path="/vocabulary/particularly-2" element={<Particularly2 />} />
 
 					{/* 18. Vocabulary - Về cơ bản */}
-					<Route path="/vocabulary/basically-1" element={<Basically1 />} />
-					<Route path="/vocabulary/basically-2" element={<Basically2 />} />
+					<Route path="/vocabulary/BAsically-1" element={<BAsically1 />} />
+					<Route path="/vocabulary/BAsically-2" element={<BAsically2 />} />
 
 					{/* 19. Vocabulary - Tính hiệu quả */}
 					<Route path="/vocabulary/effectively-1" element={<Effectively1 />} />
@@ -1143,14 +1143,14 @@ export default function AppRoutes(): React.JSX.Element {
 					<Route path="/vocabulary/productively-2" element={<Productively2 />} />
 
 					{/* 20. Vocabulary - Tốc độ nhanh */}
-					<Route path="/vocabulary/quickly-1" element={<Quickly1 />} />
-					<Route path="/vocabulary/quickly-2" element={<Quickly2 />} />
-					<Route path="/vocabulary/rapidly-1" element={<Rapidly1 />} />
-					<Route path="/vocabulary/rapidly-2" element={<Rapidly2 />} />
-					<Route path="/vocabulary/instantly-1" element={<Instantly1 />} />
-					<Route path="/vocabulary/instantly-2" element={<Instantly2 />} />
-					<Route path="/vocabulary/suddenly-1" element={<Suddenly1 />} />
-					<Route path="/vocabulary/suddenly-2" element={<Suddenly2 />} />
+					<Route path="/vocabulary/QUICKly-1" element={<QUICKly1 />} />
+					<Route path="/vocabulary/QUICKly-2" element={<QUICKly2 />} />
+					<Route path="/vocabulary/RAPidly-1" element={<RAPidly1 />} />
+					<Route path="/vocabulary/RAPidly-2" element={<RAPidly2 />} />
+					<Route path="/vocabulary/INstantly-1" element={<INstantly1 />} />
+					<Route path="/vocabulary/INstantly-2" element={<INstantly2 />} />
+					<Route path="/vocabulary/SUDdenly-1" element={<SUDdenly1 />} />
+					<Route path="/vocabulary/SUDdenly-2" element={<SUDdenly2 />} />
 
 					{/* 21. Vocabulary - Tính kiên nhẫn */}
 					<Route path="/vocabulary/patiently-1" element={<Patiently1 />} />

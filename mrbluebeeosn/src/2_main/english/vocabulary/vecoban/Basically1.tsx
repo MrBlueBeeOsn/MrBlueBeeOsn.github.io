@@ -5,9 +5,9 @@ import EyeIcon from '@/components/view/EyeIcon';
 import ViewCounter from '@/components/view/ViewCounter';
 import LikeButton from '@/components/like/LikeButton';
 
-export default function Basically1(): React.JSX.Element {
+export default function BAsically1(): React.JSX.Element {
 
-  const postId = "Basically1";
+  const postId = "BAsically1";
 
   return (<>
 
@@ -18,9 +18,9 @@ export default function Basically1(): React.JSX.Element {
       <h4><HashLink smooth to="/vocabulary#ve-co-ban-terms"><mark className="highlight-tertiary-padding-4-8">ADverbs: về cơ bản</mark></HashLink></h4>
       
       <h1 className="margin-y-50 text-center">BAsically
-        <sup><Link to="/vocabulary/basically-1">&nbsp;1&nbsp;</Link>
+        <sup><Link to="/vocabulary/BAsically-1">&nbsp;1&nbsp;</Link>
         </sup>
-        <sup><Link to="/vocabulary/basically-2">&nbsp;2&nbsp;</Link>
+        <sup><Link to="/vocabulary/BAsically-2">&nbsp;2&nbsp;</Link>
         </sup>
       </h1>
 
