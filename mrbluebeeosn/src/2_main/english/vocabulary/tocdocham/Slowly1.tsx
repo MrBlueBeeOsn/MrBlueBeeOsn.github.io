@@ -101,7 +101,7 @@ export default function SLOWly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>The PLANT GREW <Link to="/vocabulary/gradually-1">GRADually</Link> TALler.</li>
+          <li>The PLANT GREW <Link to="/vocabulary/GRADually-1">GRADually</Link> TALler.</li>
           <li className="margin-bottom-20 list-none">Cây dần dần cao lên.</li>
 
           <li>SLOWly but <Link to="/vocabulary/surely-1">SUREly</Link>, she was MAKing PROgress.</li>

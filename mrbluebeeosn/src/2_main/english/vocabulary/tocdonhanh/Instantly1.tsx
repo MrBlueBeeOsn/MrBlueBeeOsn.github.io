@@ -123,7 +123,7 @@ export default function INstantly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>The PLANT GREW <Link to="/vocabulary/gradually-1">GRADually</Link>.</li>
+          <li>The PLANT GREW <Link to="/vocabulary/GRADually-1">GRADually</Link>.</li>
           <li className="margin-bottom-20 list-none">Cây lớn dần lên.</li>
 
           <li>She WALKED <Link to="/vocabulary/SLOWly-1">SLOWly</Link>.</li>
@@ -222,7 +222,7 @@ export default function INstantly1(): React.JSX.Element {
 
           <li>Thời gian cực ngắn: "<strong>Instantly</strong>" nhấn mạnh vào sự xảy ra của một sự việc trong một khoảng thời gian cực kỳ ngắn.</li>
 
-          <li className="margin-bottom-20">Không có sự trì hoãn: Nó đối lập với các Trạng Cơ như "gradually" hay "slowly".</li>
+          <li className="margin-bottom-20">Không có sự trì hoãn: Nó đối lập với các Trạng Cơ như "<Link to="/vocabulary/GRADually-1">GRADually</Link>" hay "<Link to="/vocabulary/SLOWly-1">SLOWly</Link>".</li>
 
         </ul>
 

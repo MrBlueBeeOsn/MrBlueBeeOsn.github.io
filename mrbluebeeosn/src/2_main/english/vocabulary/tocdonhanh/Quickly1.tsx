@@ -128,7 +128,7 @@ export default function QUICKly1(): React.JSX.Element {
           <li>She WALKED <Link to="/vocabulary/SLOWly-1">SLOWly</Link> down the STREET.</li>
           <li className="margin-bottom-20 list-none">Cô ấy đi bộ chậm rãi trên đường phố.</li>
 
-          <li>The PLANT GREW <Link to="/vocabulary/gradually-1">GRADually</Link> TALLer.</li>
+          <li>The PLANT GREW <Link to="/vocabulary/GRADually-1">GRADually</Link> TALLer.</li>
           <li className="list-none">Cây lớn dần lên.</li>
 
         </ul>
