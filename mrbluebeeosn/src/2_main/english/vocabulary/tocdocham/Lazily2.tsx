@@ -5,9 +5,9 @@ import EyeIcon from '@/components/view/EyeIcon';
 import ViewCounter from '@/components/view/ViewCounter';
 import LikeButton from '@/components/like/LikeButton';
 
-export default function Lazily2(): React.JSX.Element {
+export default function LAzily2(): React.JSX.Element {
 
-  const postId = "Lazily2";
+  const postId = "LAzily2";
 
   return (<>
 
@@ -17,18 +17,18 @@ export default function Lazily2(): React.JSX.Element {
     
       <h4><HashLink smooth to="/vocabulary#toc-do-cham-terms"><mark className="highlight-tertiary-padding-4-8">ADverbs: chậm</mark></HashLink></h4>
       
-      <h1 className="margin-y-50 text-center">lazily
+      <h1 className="margin-y-50 text-center">LAzily
         <sup>
-          <Link to="/vocabulary/lazily-1">&nbsp;1&nbsp;</Link>
+          <Link to="/vocabulary/LAzily-1">&nbsp;1&nbsp;</Link>
         </sup>
         <sup>
-          <Link to="/vocabulary/lazily-2">&nbsp;2&nbsp;</Link>
+          <Link to="/vocabulary/LAzily-2">&nbsp;2&nbsp;</Link>
         </sup>
       </h1>
 
       {/* This is the content of Vocabulary Term. */}
 
-      <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>lazily</strong>" (một cách lười biếng) và các cụm từ hay đi kèm nhé.</p>
+      <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>LAzily</strong>" (một cách lười biếng) và các cụm từ hay đi kèm nhé.</p>
 
       <div className="text-border1 padding-10 highlight-238-padding-4-8 bee-container">
 
@@ -36,13 +36,11 @@ export default function Lazily2(): React.JSX.Element {
 
           <p className="margin-y-10">
             
-            <strong>Lazily&nbsp;</strong>
-            
             <span className="highlight-255-padding-3-6">
               
               [LAzily][LA zi ly] /ˈleɪzəli/ + /
               
-              <Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">lāzi̛ly</Link>/ 
+              <Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">LĀzi̛ly</Link>/ 
               
               &nbsp;⬤•• (3x)
               
@@ -62,44 +60,34 @@ export default function Lazily2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1">Lazily <strong>stretched</strong> /streʧt/</li>
-        <li className="list-none">After a long day, he ______ out on the couch.</li>
+        <li value="1">After a LONG DAY, he LAzily STRETCHED OUT on the COUCH.</li>
         <li className="list-none margin-bottom-20">Sau một ngày dài, anh ấy lười biếng nằm dài ra ghế sofa.</li>
 
-        <li value="2">Lazily <strong>wandered</strong> /ˈwɒndərd/</li>
-        <li className="list-none">She ______ through the park, enjoying the sunshine.</li>
+        <li value="2">She LAzily WANdered through the PARK, enJOYing the SUNshine.</li>
         <li className="list-none margin-bottom-20">Cô ấy lười biếng đi lang thang trong công viên, tận hưởng ánh nắng mặt trời.</li>
 
-        <li value="3">Lazily <strong>flipped</strong> /flɪpt/</li>
-        <li className="list-none">He ______ through the channels on TV.</li>
+        <li value="3">He LAzily FLIPPED through the CHANnels on TV.</li>
         <li className="list-none margin-bottom-20">Anh ấy lười biếng lật qua lật lại các kênh trên TV.</li>
 
-        <li value="4">Lazily <strong>ate</strong> /eɪt/</li>
-        <li className="list-none">The cat ______ its food.</li>
+        <li value="4">The CAT LAzily ATE its FOOD.</li>
         <li className="list-none margin-bottom-20">Con mèo lười biếng ăn thức ăn của nó.</li>
 
-        <li value="5">Lazily <strong>lounged</strong> /laʊndʒd/</li>
-        <li className="list-none">She ______ by the pool.</li>
+        <li value="5">She LAzily LOUNGED by the POOL.</li>
         <li className="list-none margin-bottom-20">Cô ấy lười biếng nằm dài bên hồ bơi.</li>
 
-        <li value="6">Lazily <strong>read</strong> /red/</li>
-        <li className="list-none">He ______ the newspaper.</li>
+        <li value="6">He LAzily READ the NEWSpaper.</li>
         <li className="list-none margin-bottom-20">Anh ấy lười biếng đọc báo.</li>
 
-        <li value="7">Lazily <strong>watched</strong> /wɒtʃt/</li>
-        <li className="list-none">They ______ the clouds drift by.</li>
+        <li value="7">They LAzily WATCHED the CLOUDS DRIFT BY.</li>
         <li className="list-none margin-bottom-20">Họ lười biếng ngắm nhìn những đám mây trôi.</li>
 
-        <li value="8">Lazily <strong>spoke</strong> /spəʊk/</li>
-        <li className="list-none">She ______ into the phone.</li>
+        <li value="8">She LAzily SPOKE into the PHONE.</li>
         <li className="list-none margin-bottom-20">Cô ấy lười biếng nói vào điện thoại.</li>
 
-        <li value="9">Lazily <strong>walked</strong> /ˈleɪzəli wɔːkt/</li>
-        <li className="list-none">The dog ______ across the yard.</li>
+        <li value="9">The DOG LAzily WALKED aCROSS the YARD.</li>
         <li className="list-none margin-bottom-20">Con chó lười biếng đi qua sân.</li>
 
-        <li value="10">Lazily <strong>sunbathed</strong> /ˈsʌnbeɪðd/</li>
-        <li className="list-none">She ______ on the beach.</li>
+        <li value="10">She LAzily SUNbathed on the BEACH.</li>
         <li className="list-none margin-bottom-20">Cô ấy lười biếng tắm nắng trên bãi biển.</li>
 
       </ol>
@@ -116,7 +104,7 @@ export default function Lazily2(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>"<strong>Lazily</strong>" thường được đặt trước hành động để bổ nghĩa.</li>
+          <li>"<strong>LAzily</strong>" thường được đặt trước hành động để bổ nghĩa.</li>
 
           <li className="margin-bottom-20">Từ này thường mang nghĩa tiêu cực, ám chỉ sự lười biếng và thiếu trách nhiệm.</li>
 
