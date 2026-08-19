@@ -83,10 +83,10 @@ export default function Suddenly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>A [SUDden] STORM CAUSED the POWer OUtage.</li>
+          <li>A SUDden STORM CAUSED the POWer OUtage.</li>
           <li className="margin-bottom-20 list-none">Một cơn bão đột ngột đã gây ra mất điện.</li>
 
-          <li>The [SUDdenness] of the ACcident SHOCKED EVEryone.</li>
+          <li>The SUDdenness of the ACcident SHOCKED EVEryone.</li>
           <li className="list-none">Sự đột ngột của tai nạn khiến mọi người sốc.</li>
 
         </ul>
@@ -103,10 +103,10 @@ export default function Suddenly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>The MUsic STOPPED [aBRUPTly].</li>
+          <li>The MUsic STOPPED aBRUPTly.</li>
           <li className="margin-bottom-20 list-none">Âm nhạc dừng lại đột ngột.</li>
 
-          <li>I [unexPECtedly] RAN into an OLD FRIEND.</li>
+          <li>I unexPECtedly RAN into an OLD FRIEND.</li>
           <li className="list-none">Tôi tình cờ gặp lại một người bạn cũ.</li>
 
         </ul>
@@ -125,10 +125,10 @@ export default function Suddenly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>The PLANT GREW [GRADually] TALler.</li>
+          <li>The PLANT GREW GRADually TALler.</li>
           <li className="margin-bottom-20 list-none">Cây dần dần cao lên.</li>
 
-          <li>[As exPECted], it STARted to RAIN.</li>
+          <li>As exPECted, it STARted to RAIN.</li>
           <li className="list-none">Như dự kiến, trời bắt đầu mưa.</li>
 
         </ul>

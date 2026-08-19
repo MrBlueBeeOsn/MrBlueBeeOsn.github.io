@@ -17,7 +17,7 @@ export default function Rapidly1(): React.JSX.Element {
     
       <h4><HashLink smooth to="/vocabulary#toc-do-nhanh-terms"><mark className="highlight-tertiary-padding-4-8">ADverbs: nhanh</mark></HashLink></h4>
       
-      <h1 className="margin-y-50 text-center">rapidly
+      <h1 className="margin-y-50 text-center">RAPidly
         <sup><Link to="/vocabulary/rapidly-1">&nbsp;1&nbsp;</Link>
         </sup>
         <sup><Link to="/vocabulary/rapidly-2">&nbsp;2&nbsp;</Link>
@@ -26,13 +26,13 @@ export default function Rapidly1(): React.JSX.Element {
 
       {/* This is the content of Vocabulary Term. */}
       
-      <p>Tuyệt vời! Chúng ta cùng đi sâu vào từ "<strong>rapidly</strong>" nhé.</p>
+      <p>Tuyệt vời! Chúng ta cùng đi sâu vào từ "<strong>RAPidly</strong>" nhé.</p>
 
       <div className="text-border1 padding-top-20 padding-bottom-10 highlight-238-padding-4-8 bee-container">
 
         <div>
 
-          <p className="margin-bottom-20"><strong>Rapidly</strong></p>
+          {/* <p className="margin-bottom-20"><strong>Rapidly</strong></p> */}
 
           <ul className="list-square padding-left-40">
 
@@ -57,16 +57,16 @@ export default function Rapidly1(): React.JSX.Element {
 
       </div>
 
-      <p className="margin-top-30 text-indent-whole">Từ "<strong>rapidly</strong>" được dùng để miêu tả một hành động hoặc quá trình diễn ra với tốc độ cao, nhanh chóng. Nó nhấn mạnh sự nhanh nhẹn và sự thay đổi diễn ra trong một khoảng thời gian ngắn.</p>
+      <p className="margin-top-30 text-indent-whole">Từ "<strong>RAPidly</strong>" được dùng để miêu tả một hành động hoặc quá trình diễn ra với tốc độ cao, nhanh chóng. Nó nhấn mạnh sự nhanh nhẹn và sự thay đổi diễn ra trong một khoảng thời gian ngắn.</p>
 
       <p className="text-indent-whole">Ví dụ:</p>
 
         <ul className="list-square">
 
-          <li>Technology is advancing ______.</li>
+          <li>techNOlogy is adVANCEing RAPidly.</li>
           <li className="margin-bottom-20 list-none">Công nghệ đang phát triển rất nhanh.</li>
 
-          <li>The child grew ______ during her first year.</li>
+          <li>The CHILD GREW RAPidly during her FIRST YEAR.</li>
           <li className="list-none">Đứa trẻ lớn rất nhanh trong năm đầu đời.</li>
 
         </ul>
@@ -83,12 +83,10 @@ export default function Rapidly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Rapid (adj) /ˈræpɪd/</li>
-          <li className="list-none">The river has a ______ current.</li>
+          <li>The RIVer HAS a RAPid CURrent.</li>
           <li className="margin-bottom-20 list-none">Con sông có dòng chảy siết.</li>
 
-          <li>Rapidity (n) /ræˈpɪdəti/</li>
-          <li className="list-none">The ______ of change surprised us.</li>
+          <li>The raPIDity of CHANGE surPRISED us.</li>
           <li className="list-none">Tốc độ thay đổi khiến chúng tôi ngạc nhiên.</li>
 
         </ul>
@@ -105,12 +103,10 @@ export default function Rapidly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li><Link to="/vocabulary/quickly-1">Quickly</Link> /ˈkwɪkli/</li>
-          <li className="list-none">She ran ______ to catch the bus.</li>
+          <li>She RAN <Link to="/vocabulary/quickly-1">QUICKly</Link> to CATCH the BUS.</li>
           <li className="margin-bottom-20 list-none">Cô ấy chạy nhanh để bắt xe buýt.</li>
 
-          <li>Swiftly /ˈswɪftli/</li>
-          <li className="list-none">The bird flew ______ through the air.</li>
+          <li>The BIRD FLEW SWIFTly through the AIR.</li>
           <li className="list-none">Con chim bay nhanh qua không trung.</li>
 
         </ul>
@@ -129,12 +125,10 @@ export default function Rapidly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li><Link to="/vocabulary/slowly-1">Slowly</Link> /ˈsloʊli/</li>
-          <li className="list-none">The snail moved ______ across the leaf.</li>
+          <li>The SNAIL MOVED <Link to="/vocabulary/slowly-1">SLOWly</Link> across the LEAF.</li>
           <li className="margin-bottom-20 list-none">Con ốc sên di chuyển chậm trên lá.</li>
 
-          <li><Link to="/vocabulary/gradually-1">Gradually</Link> /ˈɡrædʒuəli/</li>
-          <li className="list-none">The plant grew ______ taller.</li>
+          <li>The PLANT GREW <Link to="/vocabulary/gradually-1">GRADually</Link> TALler.</li>
           <li className="list-none">Cây dần dần cao lên.</li>
 
         </ul>
@@ -160,10 +154,10 @@ export default function Rapidly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>The race car moved ______ down the track.</li>
+          <li>The RACE CAR MOVED RAPidly down the TRACK.</li>
           <li className="margin-bottom-20 list-none">Chiếc xe đua di chuyển nhanh chóng trên đường đua.</li>
 
-          <li>The ball fell ______ towards the ground.</li>
+          <li>The BALL FELL RAPidly towards the GROUND.</li>
           <li className="list-none">Quả bóng rơi nhanh chóng xuống đất.</li>
 
         </ul>
@@ -183,7 +177,7 @@ export default function Rapidly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>The news spread ______ throughout the town.</li>
+          <li>The NEWS SPREAD RAPidly throughout the TOWN.</li>
           <li className="list-none">Tin tức lan truyền rất nhanh khắp thị trấn.</li>
 
         </ul>
@@ -205,10 +199,10 @@ export default function Rapidly1(): React.JSX.Element {
 
           <ol>
 
-            <li>The train is moving.</li>
+            <li>The TRAIN is MOVing.</li>
             <li className="list-none margin-bottom-20">Tàu đang chạy.</li>
 
-            <li value="2">The train is moving ______.</li>
+            <li value="2">The TRAIN is MOVing RAPidly.</li>
             <li className="list-none margin-bottom-20">Tàu đang chạy rất nhanh.</li>
 
           </ol>
@@ -231,9 +225,9 @@ export default function Rapidly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Mức độ nhanh: "<strong>Rapidly</strong>" thường chỉ sự nhanh chóng ở mức độ cao hơn so với "<Link to="/vocabulary/quickly-1">quickly</Link>".</li>
+          <li>Mức độ nhanh: "<strong>RAPidly</strong>" thường chỉ sự nhanh chóng ở mức độ cao hơn so với "<Link to="/vocabulary/quickly-1">QUICKly</Link>".</li>
 
-          <li className="margin-bottom-20">Ngữ cảnh: Ý nghĩa của "<strong>rapidly</strong>" có thể thay đổi tùy thuộc vào ngữ cảnh câu.</li>
+          <li className="margin-bottom-20">Ngữ cảnh: Ý nghĩa của "<strong>RAPidly</strong>" có thể thay đổi tùy thuộc vào ngữ cảnh câu.</li>
 
         </ul>
 

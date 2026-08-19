@@ -17,7 +17,7 @@ export default function Rapidly2(): React.JSX.Element {
     
       <h4><HashLink smooth to="/vocabulary#toc-do-nhanh-terms"><mark className="highlight-tertiary-padding-4-8">ADverbs: nhanh</mark></HashLink></h4>
       
-      <h1 className="margin-y-50 text-center">rapidly
+      <h1 className="margin-y-50 text-center">RAPidly
         <sup>
           <Link to="/vocabulary/rapidly-1">&nbsp;1&nbsp;</Link>
         </sup>
@@ -28,7 +28,7 @@ export default function Rapidly2(): React.JSX.Element {
 
       {/* This is the content of Vocabulary Term. */}
 
-      <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>rapidly</strong>" (một cách nhanh chóng) và các cụm từ hay đi kèm nhé.</p>
+      <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>RAPidly</strong>" (một cách nhanh chóng) và các cụm từ hay đi kèm nhé.</p>
 
       <div className="text-border1 padding-10 highlight-238-padding-4-8 bee-container">
 
@@ -36,13 +36,13 @@ export default function Rapidly2(): React.JSX.Element {
 
           <p className="margin-y-10">
             
-            <strong>Rapidly&nbsp;</strong>
+            {/* <strong>Rapidly&nbsp;</strong> */}
             
             <span className="highlight-255-padding-3-6">
               
               [RAPidly][RAP id ly] /ˈræpɪdli/ + /
               
-              <Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">rapidly</Link>/ 
+              <Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">RApidly</Link>/ 
               
               &nbsp;⬤•• (3x)
               
@@ -62,44 +62,34 @@ export default function Rapidly2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1">Rapidly <strong>growing</strong> /ˈɡroʊɪŋ/</li>
-        <li className="list-none">The city's population is ______.</li>
+        <li value="1">The CITy's popuLAtion is RAPidly GROWing.</li>
         <li className="list-none margin-bottom-20">Dân số thành phố đang tăng trưởng nhanh chóng.</li>
 
-        <li value="2">Rapidly <strong>changing</strong> /ˈtʃeɪndʒɪŋ/</li>
-        <li className="list-none">The world is ______ due to technological advancements.</li>
+        <li value="2">The WORLD is RAPidly CHANGing due to technoLOGical adVANCEments.</li>
         <li className="list-none margin-bottom-20">Thế giới đang thay đổi nhanh chóng do sự phát triển của công nghệ.</li>
 
-        <li value="3">Rapidly <strong>spreading</strong> /ˈsprɛdɪŋ/</li>
-        <li className="list-none">The disease is ______ throughout the country.</li>
+        <li value="3">The disEASE is RAPidly SPREADing throughout the COUNtry.</li>
         <li className="list-none margin-bottom-20">Bệnh đang lan rộng nhanh chóng khắp cả nước.</li>
 
-        <li value="4">Rapidly <strong>declining</strong> /dɪˈklaɪnɪŋ/</li>
-        <li className="list-none">The number of endangered species is ______.</li>
+        <li value="4">The NUMber of enDANgered SPEcies is RAPidly deCLINing.</li>
         <li className="list-none margin-bottom-20">Số lượng các loài động vật có nguy cơ tuyệt chủng đang giảm nhanh chóng.</li>
 
-        <li value="5">Rapidly <strong>evolving</strong> /ɪˈvɒlvɪŋ/</li>
-        <li className="list-none">Technology is ______, making our lives easier.</li>
+        <li value="5">techNOlogy is RAPidly eVOLVing, MAKing our LIVES EAsier.</li>
         <li className="list-none margin-bottom-20">Công nghệ đang phát triển nhanh chóng, giúp cuộc sống của chúng ta dễ dàng hơn.</li>
 
-        <li value="6">Rapidly <strong>approaching</strong> /əˈproʊtʃɪŋ/</li>
-        <li className="list-none">The deadline is ______.</li>
+        <li value="6">The DEADline is RAPidly apPROACHing.</li>
         <li className="list-none margin-bottom-20">Hạn chót đang đến gần.</li>
 
-        <li value="7">Rapidly <strong>expanding</strong> /ɪkˈspændɪŋ/</li>
-        <li className="list-none">The company is ______ into new markets.</li>
+        <li value="7">The COMpany is RAPidly exPANding into NEW MARkets.</li>
         <li className="list-none margin-bottom-20">Công ty đang mở rộng nhanh chóng vào các thị trường mới.</li>
 
-        <li value="8">Rapidly <strong>deteriorating</strong> /dɪˈtɪəriəreɪtɪŋ/</li>
-        <li className="list-none">The old building is ______.</li>
+        <li value="8">The OLD BUILDing is RAPidly deTERiorating.</li>
         <li className="list-none margin-bottom-20">Tòa nhà cũ đang xuống cấp nhanh chóng.</li>
 
-        <li value="9">Rapidly <strong>accelerated</strong> /əkˈsɛləreɪtɪd/</li>
-        <li className="list-none">The car ______ down the highway.</li>
+        <li value="9">The CAR RAPidly acCELerated down the HIGHway.</li>
         <li className="list-none margin-bottom-20">Chiếc xe tăng tốc nhanh chóng trên đường cao tốc.</li>
 
-        <li value="10">Rapidly <strong>disappearing</strong> /dɪsəˈpɪərɪŋ/</li>
-        <li className="list-none">The rainforest is ______ due to deforestation.</li>
+        <li value="10">The RAINforest is RAPidly disapPEARing due to deforesTAtion.</li>
         <li className="list-none margin-bottom-20">Rừng nhiệt đới đang biến mất nhanh chóng do nạn phá rừng.</li>
 
       </ol>
@@ -116,7 +106,7 @@ export default function Rapidly2(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>"<strong>Rapidly</strong>" thường được đặt trước hành động để bổ nghĩa.</li>
+          <li>"<strong>RAPidly</strong>" thường được đặt trước hành động để bổ nghĩa.</li>
 
           <li className="margin-bottom-20">Từ này thường được sử dụng trong các ngữ cảnh liên quan đến khoa học, kinh tế, xã hội và môi trường.</li>
 
