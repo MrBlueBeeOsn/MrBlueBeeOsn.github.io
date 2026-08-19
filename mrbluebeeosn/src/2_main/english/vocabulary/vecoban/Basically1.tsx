@@ -38,7 +38,7 @@ export default function Basically1(): React.JSX.Element {
 
             <li>
               <span className="highlight-255-padding-3-6">
-                [BAsically][BA sical ly] /ˈbeɪsɪkli/ + /<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">bāsica̛lly</Link>/
+                [BAsically][BA sical ly] /ˈbeɪsɪkli/ + /<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">BĀsica̛lly</Link>/
                 &nbsp;⬤•• (3x)
               </span>
             </li>
@@ -63,10 +63,10 @@ export default function Basically1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li><strong>BAsically</strong>, I JUST WANT to reLAX.</li>
+          <li>BAsically, I JUST WANT to reLAX.</li>
           <li className="margin-bottom-20 list-none">Về cơ bản, tôi chỉ muốn thư giãn.</li>
 
-          <li><strong>BAsically</strong>, the PROBlem is that we DON'T HAVE eNOUGH MONey.</li>
+          <li>BAsically, the PROBlem is that we DON'T HAVE eNOUGH MONey.</li>
           <li className="list-none">Về cơ bản, vấn đề là chúng ta không đủ tiền.</li>
 
         </ul>
@@ -154,7 +154,7 @@ export default function Basically1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>The BUILDing is <strong>BAsically</strong> BUILT on a STRONG founDAtion.</li>
+          <li>The BUILDing is BAsically BUILT on a STRONG founDAtion.</li>
           <li className="list-none">Tòa nhà cơ bản được xây dựng trên một nền móng vững chắc.</li>
 
         </ul>
@@ -174,7 +174,7 @@ export default function Basically1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li><strong>BAsically</strong>, I JUST NEED some TIME to THINK.</li>
+          <li>BAsically, I JUST NEED some TIME to THINK.</li>
           <li className="list-none">Về cơ bản, tôi chỉ cần một chút thời gian để suy nghĩ.</li>
 
         </ul>
@@ -199,7 +199,7 @@ export default function Basically1(): React.JSX.Element {
             <li>I LIKE to EAT VEGEtables.</li>
             <li className="list-none margin-bottom-20">Tôi thích ăn rau.</li>
 
-            <li value="2"><strong>BAsically</strong>, I LIKE to EAT HEALthy FOOD.</li>
+            <li value="2">BAsically, I LIKE to EAT HEALthy FOOD.</li>
             <li className="list-none margin-bottom-20">Về cơ bản, tôi thích ăn thức ăn lành mạnh.</li>
 
           </ol>

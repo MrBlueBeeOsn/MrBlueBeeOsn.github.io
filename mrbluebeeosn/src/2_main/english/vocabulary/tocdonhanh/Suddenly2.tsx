@@ -17,7 +17,7 @@ export default function Suddenly2(): React.JSX.Element {
     
       <h4><HashLink smooth to="/vocabulary#toc-do-nhanh-terms"><mark className="highlight-tertiary-padding-4-8">ADverbs: nhanh</mark></HashLink></h4>
       
-      <h1 className="margin-y-50 text-center">suddenly
+      <h1 className="margin-y-50 text-center">SUDdenly
         <sup>
           <Link to="/vocabulary/suddenly-1">&nbsp;1&nbsp;</Link>
         </sup>
@@ -28,7 +28,7 @@ export default function Suddenly2(): React.JSX.Element {
 
       {/* This is the content of Vocabulary Term. */}
 
-      <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>suddenly</strong>" (một cách đột ngột) và các cụm từ hay đi kèm nhé.</p>
+      <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>SUDdenly</strong>" (một cách đột ngột) và các cụm từ hay đi kèm nhé.</p>
 
       <div className="text-border1 padding-10 highlight-238-padding-4-8 bee-container">
 
@@ -42,7 +42,7 @@ export default function Suddenly2(): React.JSX.Element {
               
               [SUDdenly][SUD den ly] /ˈsʌdənli/ + /
               
-              <Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">sûdde̛nly</Link>/ 
+              <Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">SÛDde̛nly</Link>/ 
               
               &nbsp;⬤•• (3x)
               
@@ -62,44 +62,34 @@ export default function Suddenly2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1">Suddenly <strong>stopped</strong> /stɒpt/</li>
-        <li className="list-none">The car ______ in the middle of the road.</li>
+        <li value="1">The CAR SUDdenly STOPPED in the MIDdle of the ROAD.</li>
         <li className="list-none margin-bottom-20">Chiếc xe đột ngột dừng lại giữa đường.</li>
 
-        <li value="2">Suddenly <strong>realized</strong> /ˈriːəlaɪzd/</li>
-        <li className="list-none">I ______ that I had forgotten my keys.</li>
+        <li value="2">I SUDdenly REalized that I had forGOTten my KEYS.</li>
         <li className="list-none margin-bottom-20">Tôi đột nhiên nhận ra rằng mình đã quên chìa khóa.</li>
 
-        <li value="3">Suddenly <strong>appeared</strong> /əˈpɪərd/</li>
-        <li className="list-none">A ghost ______ in the mirror.</li>
+        <li value="3">A GHOST SUDdenly apPEARED in the MIRror.</li>
         <li className="list-none margin-bottom-20">Một bóng ma đột nhiên xuất hiện trong gương.</li>
 
-        <li value="4">Suddenly <strong>changed</strong> /tʃeɪndʒd/</li>
-        <li className="list-none">The weather ______ and it started to rain.</li>
+        <li value="4">The WEAther SUDdenly CHANGED and it STARted to RAIN.</li>
         <li className="list-none margin-bottom-20">Thời tiết đột nhiên thay đổi và bắt đầu mưa.</li>
 
-        <li value="5">Suddenly <strong>felt</strong> /felt/</li>
-        <li className="list-none">I ______ a sharp pain in my stomach.</li>
+        <li value="5">I SUDdenly FELT a SHARP PAIN in my STOMach.</li>
         <li className="list-none margin-bottom-20">Tôi đột nhiên cảm thấy một cơn đau nhói ở bụng.</li>
 
-        <li value="6">Suddenly <strong>remembered</strong> /rɪˈmembərd/</li>
-        <li className="list-none">I ______ where I had left my phone.</li>
+        <li value="6">The SUDdenly reMEMbered where I had LEFT my PHONE.</li>
         <li className="list-none margin-bottom-20">Tôi đột nhiên nhớ ra mình đã để điện thoại ở đâu.</li>
 
-        <li value="7">Suddenly <strong>disappeared</strong> /ˌdɪsəˈpɪərd/</li>
-        <li className="list-none">The magician ______ in a puff of smoke.</li>
+        <li value="7">The maGIcian SUDdenly disapPEARED in a PUFF of SMOKE.</li>
         <li className="list-none margin-bottom-20">Nhà ảo thuật đột nhiên biến mất trong một làn khói.</li>
 
-        <li value="8">Suddenly <strong>became</strong> /bɪˈkeɪm/</li>
-        <li className="list-none">The sky ______ dark and stormy.</li>
+        <li value="8">The sky SUDdenly beCAME DARK and STORmy.</li>
         <li className="list-none margin-bottom-20">Bầu trời đột nhiên trở nên tối tăm và bão tố.</li>
 
-        <li value="9">Suddenly <strong>realized</strong> /ˈriːəlaɪzd/</li>
-        <li className="list-none">I ______ that I had been walking in circles.</li>
+        <li value="9">I SUDdenly REalized that I had been WALking in CIRcles.</li>
         <li className="list-none margin-bottom-20">Tôi đột nhiên nhận ra rằng mình đã đi vòng tròn.</li>
 
-        <li value="10">Suddenly <strong>stoped working</strong> /stɒpt ˈwɜːkɪŋ/</li>
-        <li className="list-none">The computer ______</li>
+        <li value="10">The comPUter SUDdenly STOPPED WORking.</li>
         <li className="list-none margin-bottom-20">Máy tính đột nhiên ngừng hoạt động.</li>
 
       </ol>
@@ -116,7 +106,7 @@ export default function Suddenly2(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>"<strong>Suddenly</strong>" thường được đặt ở đầu câu hoặc trước hành động để nhấn mạnh ý nghĩa.</li>
+          <li>"<strong>SUDdenly</strong>" thường được đặt ở đầu câu hoặc trước hành động để nhấn mạnh ý nghĩa.</li>
 
           <li className="margin-bottom-20">Từ này có thể được sử dụng trong nhiều ngữ cảnh khác nhau, từ việc mô tả các sự kiện hàng ngày đến các câu chuyện hư cấu.</li>
 

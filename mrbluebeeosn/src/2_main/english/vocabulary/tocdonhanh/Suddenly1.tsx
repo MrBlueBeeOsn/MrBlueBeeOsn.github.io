@@ -17,7 +17,7 @@ export default function Suddenly1(): React.JSX.Element {
     
       <h4><HashLink smooth to="/vocabulary#toc-do-nhanh-terms"><mark className="highlight-tertiary-padding-4-8">ADverbs: nhanh</mark></HashLink></h4>
       
-      <h1 className="margin-y-50 text-center">suddenly
+      <h1 className="margin-y-50 text-center">SUDdenly
         <sup><Link to="/vocabulary/suddenly-1">&nbsp;1&nbsp;</Link>
         </sup>
         <sup><Link to="/vocabulary/suddenly-2">&nbsp;2&nbsp;</Link>
@@ -26,19 +26,19 @@ export default function Suddenly1(): React.JSX.Element {
 
       {/* This is the content of Vocabulary Term. */}
       
-      <p>Tuyệt vời! Chúng ta cùng khám phá từ "<strong>suddenly</strong>" nhé.</p>
+      <p>Tuyệt vời! Chúng ta cùng khám phá từ "<strong>SUDdenly</strong>" nhé.</p>
 
       <div className="text-border1 padding-top-20 padding-bottom-10 highlight-238-padding-4-8 bee-container">
 
         <div>
 
-          <p className="margin-bottom-20"><strong>Suddenly</strong></p>
+          {/* <p className="margin-bottom-20"><strong>SUDdenly</strong></p> */}
 
           <ul className="list-square padding-left-40">
 
             <li>
               <span className="highlight-255-padding-3-6">
-                [SUDdenly][SUD den ly] /ˈsʌdənli/ + /<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">sûdde̛nly</Link>/
+                [SUDdenly][SUD den ly] /ˈsʌdənli/ + /<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">SÛdde̛nly</Link>/
                 &nbsp;⬤•• (3x)
               </span>
             </li>
@@ -57,16 +57,16 @@ export default function Suddenly1(): React.JSX.Element {
 
       </div>
 
-      <p className="margin-top-30 text-indent-whole">Từ "<strong>suddenly</strong>" dùng để miêu tả một sự kiện hoặc hành động xảy ra một cách nhanh chóng, không báo trước và thường gây ngạc nhiên.</p>
+      <p className="margin-top-30 text-indent-whole">Từ "<strong>SUDdenly</strong>" dùng để miêu tả một sự kiện hoặc hành động xảy ra một cách nhanh chóng, không báo trước và thường gây ngạc nhiên.</p>
 
       <p className="text-indent-whole">Ví dụ:</p>
 
         <ul className="list-square">
 
-          <li>______, the lights went out.</li>
+          <li>SUDdenly, the LIGHTS WENT OUT.</li>
           <li className="margin-bottom-20 list-none">Đột nhiên, đèn tắt.</li>
 
-          <li>She ______ realized she had left her phone at home.</li>
+          <li>She SUDdenly REalized she had LEFT her PHONE at HOME.</li>
           <li className="list-none">Cô ấy đột nhiên nhận ra mình đã để quên điện thoại ở nhà.</li>
 
         </ul>
@@ -83,12 +83,10 @@ export default function Suddenly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Sudden (adj) /ˈsʌdən/</li>
-          <li className="list-none">A ______ storm caused the power outage.</li>
+          <li>A [SUDden] STORM CAUSED the POWer OUtage.</li>
           <li className="margin-bottom-20 list-none">Một cơn bão đột ngột đã gây ra mất điện.</li>
 
-          <li>Suddenness (n) /ˈsʌdən.nəs/</li>
-          <li className="list-none">The ______ of the accident shocked everyone.</li>
+          <li>The [SUDdenness] of the ACcident SHOCKED EVEryone.</li>
           <li className="list-none">Sự đột ngột của tai nạn khiến mọi người sốc.</li>
 
         </ul>
@@ -105,12 +103,10 @@ export default function Suddenly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Abruptly /əˈbrʌpt.li/</li>
-          <li className="list-none">The music stopped ______.</li>
+          <li>The MUsic STOPPED [aBRUPTly].</li>
           <li className="margin-bottom-20 list-none">Âm nhạc dừng lại đột ngột.</li>
 
-          <li>Unexpectedly /ʌn.ɪkˈspekt.ɪd.li/</li>
-          <li className="list-none">I ______ ran into an old friend.</li>
+          <li>I [unexPECtedly] RAN into an OLD FRIEND.</li>
           <li className="list-none">Tôi tình cờ gặp lại một người bạn cũ.</li>
 
         </ul>
@@ -129,12 +125,10 @@ export default function Suddenly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Gradually /ˈɡrædʒ.u.ə.li/</li>
-          <li className="list-none">The plant grew ______ taller.</li>
+          <li>The PLANT GREW [GRADually] TALler.</li>
           <li className="margin-bottom-20 list-none">Cây dần dần cao lên.</li>
 
-          <li>As expected /əz ɪkˈspektɪd/</li>
-          <li className="list-none">______, it started to rain.</li>
+          <li>[As exPECted], it STARted to RAIN.</li>
           <li className="list-none">Như dự kiến, trời bắt đầu mưa.</li>
 
         </ul>
@@ -160,7 +154,7 @@ export default function Suddenly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>The ball ______ fell from the sky.</li>
+          <li>The BALL SUDdenly FELL from the SKY.</li>
           <li className="list-none">Quả bóng đột ngột rơi từ trên trời xuống.</li>
 
         </ul>
@@ -180,7 +174,7 @@ export default function Suddenly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>While I was walking, I ______ heard a loud noise.</li>
+          <li>While I was WALking, I SUDdenly HEARD a LOUD NOISE.</li>
           <li className="list-none">Khi tôi đang đi, đột nhiên tôi nghe thấy một tiếng động lớn.</li>
 
         </ul>
@@ -202,10 +196,10 @@ export default function Suddenly1(): React.JSX.Element {
 
           <ol>
 
-            <li>The train arrived.</li>
+            <li>The TRAIN arRIVED.</li>
             <li className="list-none margin-bottom-20">Tàu đến.</li>
 
-            <li value="2">The train ______ arrived.</li>
+            <li value="2">The TRAIN SUDdenly arRIVED.</li>
             <li className="list-none margin-bottom-20">Tàu đột ngột đến.</li>
 
           </ol>
@@ -228,7 +222,7 @@ export default function Suddenly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Tính chất bất ngờ: "<strong>Suddenly</strong>" nhấn mạnh tính chất bất ngờ, không thể dự đoán trước của một sự kiện.</li>
+          <li>Tính chất bất ngờ: "<strong>SUDdenly</strong>" nhấn mạnh tính chất bất ngờ, không thể dự đoán trước của một sự kiện.</li>
 
           <li className="margin-bottom-20">Tạo cảm giác hồi hộp: Từ này thường được sử dụng trong các câu chuyện để tạo ra cảm giác hồi hộp, bất ngờ cho người đọc hoặc người nghe.</li>
 
