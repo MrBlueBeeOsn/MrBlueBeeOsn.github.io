@@ -43,7 +43,7 @@ export default function Gradually1(): React.JSX.Element {
               </span>
             </li>
 
-            <li>ADverb (<Link to="/grammar/what-is-an-adverb?">adverb</Link>)</li>
+            <li><Link to="/grammar/what-is-an-adverb?">ADverb</Link></li>
 
             <li>Dần dần, từ từ</li>
 
@@ -109,7 +109,7 @@ export default function Gradually1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li><Link to="/vocabulary/slowly-1">Slowly</Link> /ˈsləʊli/</li>
+          <li><Link to="/vocabulary/SLOWly-1">Slowly</Link> /ˈsləʊli/</li>
           <li className="list-none">The clock ______ ticked.</li>
           <li className="margin-bottom-20 list-none">Đồng hồ chạy chậm.</li>
 

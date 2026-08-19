@@ -43,7 +43,7 @@ export default function QUICKly1(): React.JSX.Element {
               </span>
             </li>
 
-            <li>ADverb (<Link to="/grammar/what-is-an-adverb?">adverb</Link>)</li>
+            <li><Link to="/grammar/what-is-an-adverb?">ADverb</Link></li>
 
             <li>Một cách nhanh chóng</li>
 
@@ -125,7 +125,7 @@ export default function QUICKly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>She WALKED <Link to="/vocabulary/slowly-1">SLOWly</Link> down the STREET.</li>
+          <li>She WALKED <Link to="/vocabulary/SLOWly-1">SLOWly</Link> down the STREET.</li>
           <li className="margin-bottom-20 list-none">Cô ấy đi bộ chậm rãi trên đường phố.</li>
 
           <li>The PLANT GREW <Link to="/vocabulary/gradually-1">GRADually</Link> TALLer.</li>

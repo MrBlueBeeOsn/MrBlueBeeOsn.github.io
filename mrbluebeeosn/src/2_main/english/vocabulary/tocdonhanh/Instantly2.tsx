@@ -36,8 +36,6 @@ export default function INstantly2(): React.JSX.Element {
 
           <p className="margin-y-10">
             
-            <strong>INstantly&nbsp;</strong>
-            
             <span className="highlight-255-padding-3-6">
               
               [INstantly][IN stant ly] /ˈɪnstəntli/ + /

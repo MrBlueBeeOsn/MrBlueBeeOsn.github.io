@@ -43,7 +43,7 @@ export default function Truly1(): React.JSX.Element {
               </span>
             </li>
 
-            <li>ADverb (<Link to="/grammar/what-is-an-adverb?">adverb</Link>)</li>
+            <li><Link to="/grammar/what-is-an-adverb?">ADverb</Link></li>
 
             <li>Thực sự, thật sự</li>
 

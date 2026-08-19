@@ -36,8 +36,6 @@ export default function QUICKly2(): React.JSX.Element {
 
           <p className="margin-y-10">
             
-            {/* <strong>QUICKly&nbsp;</strong> */}
-            
             <span className="highlight-255-padding-3-6">
               
               [QUICKly][QUICK ly] /ˈkwɪkli/ + /

@@ -43,7 +43,7 @@ export default function RAPidly1(): React.JSX.Element {
               </span>
             </li>
 
-            <li>ADverb (<Link to="/grammar/what-is-an-adverb?">adverb</Link>)</li>
+            <li><Link to="/grammar/what-is-an-adverb?">ADverb</Link></li>
 
             <li>Một cách nhanh chóng</li>
 
@@ -125,7 +125,7 @@ export default function RAPidly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>The SNAIL MOVED <Link to="/vocabulary/slowly-1">SLOWly</Link> across the LEAF.</li>
+          <li>The SNAIL MOVED <Link to="/vocabulary/SLOWly-1">SLOWly</Link> across the LEAF.</li>
           <li className="margin-bottom-20 list-none">Con ốc sên di chuyển chậm trên lá.</li>
 
           <li>The PLANT GREW <Link to="/vocabulary/gradually-1">GRADually</Link> TALler.</li>

@@ -43,7 +43,7 @@ export default function Tirelessly1(): React.JSX.Element {
               </span>
             </li>
 
-            <li>ADverb (<Link to="/grammar/what-is-an-adverb?">adverb</Link>)</li>
+            <li><Link to="/grammar/what-is-an-adverb?">ADverb</Link></li>
 
             <li>Một cách không biết mệt mỏi, kiên trì</li>
 

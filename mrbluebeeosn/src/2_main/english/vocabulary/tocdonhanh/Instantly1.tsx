@@ -32,8 +32,6 @@ export default function INstantly1(): React.JSX.Element {
 
         <div>
 
-          <p className="margin-bottom-20"><strong>INstantly</strong></p>
-
           <ul className="list-square padding-left-40">
 
             <li>
@@ -43,7 +41,7 @@ export default function INstantly1(): React.JSX.Element {
               </span>
             </li>
 
-            <li>ADverb (<Link to="/grammar/what-is-an-adverb?">adverb</Link>)</li>
+            <li><Link to="/grammar/what-is-an-adverb?">ADverb</Link></li>
 
             <li>Ngay lập tức, tức thì</li>
 
@@ -128,7 +126,7 @@ export default function INstantly1(): React.JSX.Element {
           <li>The PLANT GREW <Link to="/vocabulary/gradually-1">GRADually</Link>.</li>
           <li className="margin-bottom-20 list-none">Cây lớn dần lên.</li>
 
-          <li>She WALKED <Link to="/vocabulary/slowly-1">SLOWly</Link>.</li>
+          <li>She WALKED <Link to="/vocabulary/SLOWly-1">SLOWly</Link>.</li>
           <li className="list-none">Cô ấy đi chậm rãi.</li>
 
         </ul>
