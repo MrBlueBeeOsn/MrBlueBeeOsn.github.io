@@ -17,7 +17,7 @@ export default function Quickly2(): React.JSX.Element {
     
       <h4><HashLink smooth to="/vocabulary#toc-do-nhanh-terms"><mark className="highlight-tertiary-padding-4-8">ADverbs: nhanh</mark></HashLink></h4>
       
-      <h1 className="margin-y-50 text-center">quickly
+      <h1 className="margin-y-50 text-center">QUICKly
         <sup>
           <Link to="/vocabulary/quickly-1">&nbsp;1&nbsp;</Link>
         </sup>
@@ -28,7 +28,7 @@ export default function Quickly2(): React.JSX.Element {
 
       {/* This is the content of Vocabulary Term. */}
 
-      <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>quickly</strong>" (một cách nhanh chóng) và các cụm từ thường đi kèm nhé.</p>
+      <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>QUICKly</strong>" (một cách nhanh chóng) và các cụm từ thường đi kèm nhé.</p>
 
       <div className="text-border1 padding-10 highlight-238-padding-4-8 bee-container">
 
@@ -36,13 +36,13 @@ export default function Quickly2(): React.JSX.Element {
 
           <p className="margin-y-10">
             
-            <strong>Quickly&nbsp;</strong>
+            {/* <strong>QUICKly&nbsp;</strong> */}
             
             <span className="highlight-255-padding-3-6">
               
               [QUICKly][QUICK ly] /ˈkwɪkli/ + /
               
-              <Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">quickly</Link>/ 
+              <Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">QUICKly</Link>/ 
               
               &nbsp;⬤• (2x)
               
@@ -62,44 +62,34 @@ export default function Quickly2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1">Quickly <strong>growing</strong> /ˈɡroʊɪŋ/</li>
-        <li className="list-none">The city is ______ and expanding.</li>
+        <li value="1">The CIty is QUICKly GROWing and exPANding.</li>
         <li className="list-none margin-bottom-20">Thành phố đang phát triển và mở rộng rất nhanh.</li>
 
-        <li value="2">Quickly <strong>faded</strong> /ˈfeɪdɪd/</li>
-        <li className="list-none">The sun ______ behind the clouds.</li>
+        <li value="2">The SUN QUICKly FADed behind the CLOUDS.</li>
         <li className="list-none margin-bottom-20">Mặt trời nhanh chóng biến mất sau những đám mây.</li>
 
-        <li value="3">Quickly <strong>changing</strong> /ˈtʃeɪndʒɪŋ/</li>
-        <li className="list-none">The fashion industry is ______.</li>
+        <li value="3">The FASHion INdustry is QUICKly CHANGing.</li>
         <li className="list-none margin-bottom-20">Ngành công nghiệp thời trang đang thay đổi rất nhanh.</li>
 
-        <li value="4">Quickly <strong>realized</strong> /ˈriːəlaɪzd/</li>
-        <li className="list-none">I ______ my mistake.</li>
+        <li value="4">I QUICKly REalized my misTAKE.</li>
         <li className="list-none margin-bottom-20">Tôi nhanh chóng nhận ra lỗi lầm của mình.</li>
 
-        <li value="5">Quickly <strong>forgotten</strong> /fərˈɡɒtən/</li>
-        <li className="list-none">The incident was ______.</li>
+        <li value="5">The INcident was QUICKly forGOTten.</li>
         <li className="list-none margin-bottom-20">Vụ việc đó nhanh chóng bị lãng quên.</li>
 
-        <li value="6">Quickly <strong>spread</strong> /ˈsprɛd/</li>
-        <li className="list-none">The rumor ______ throughout the school.</li>
+        <li value="6">The RUmor QUICKly SPREAD throughout the SCHOOL.</li>
         <li className="list-none margin-bottom-20">Tin đồn nhanh chóng lan truyền khắp trường học.</li>
 
-        <li value="7">Quickly <strong>solved</strong> /sɒlvd/</li>
-        <li className="list-none">The problem was ______.</li>
+        <li value="7">The PROBlem was QUICKly SOLVED.</li>
         <li className="list-none margin-bottom-20">Vấn đề đã được giải quyết nhanh chóng.</li>
 
-        <li value="8">Quickly <strong>tired</strong> /ˈtaɪərd/</li>
-        <li className="list-none">After a long day, I was ______.</li>
+        <li value="8">After a LONG DAY, I was QUICKly TIRED.</li>
         <li className="list-none margin-bottom-20">Sau một ngày dài, tôi nhanh chóng cảm thấy mệt mỏi.</li>
 
-        <li value="9">Quickly <strong>became bored</strong> /bɪˈkeɪm bɔːrd/</li>
-        <li className="list-none">She ______ with the movie.</li>
+        <li value="9">She QUICKly beCAME BORED with the MOVie.</li>
         <li className="list-none margin-bottom-20">Cô ấy nhanh chóng cảm thấy chán bộ phim.</li>
 
-        <li value="10">Quickly <strong>eaten</strong> /ˈiːtən/</li>
-        <li className="list-none">The cake was ______ by the children.</li>
+        <li value="10">The CAKE was QUICKly EATen by the CHILdren.</li>
         <li className="list-none margin-bottom-20">Cái bánh nhanh chóng bị bọn trẻ ăn hết.</li>
 
       </ol>
@@ -116,7 +106,7 @@ export default function Quickly2(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>"<strong>Quickly</strong>" thường được đặt trước hành động để nhấn mạnh ý nghĩa của chúng.</li>
+          <li>"<strong>QUICKly</strong>" thường được đặt trước hành động để nhấn mạnh ý nghĩa của chúng.</li>
 
           <li className="margin-bottom-20">Từ này thường được sử dụng trong văn viết và văn nói để mô tả sự thay đổi, sự phát triển hoặc sự kết thúc của một sự việc.</li>
 
