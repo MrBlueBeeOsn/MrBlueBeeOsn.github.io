@@ -13,15 +13,15 @@ export default function MrBeeOsnTopic() {
       <div  className="flex-topic">
 
         <HashLink smooth to="/about">
-          <mark className="highlight-tertiary-padding-2-4">About</mark>
+          <mark className="highlight-tertiary-padding-2-4">about</mark>
         </HashLink>
 
         <HashLink smooth to="/project">
-          <mark className="highlight-tertiary-padding-2-4">Project</mark>
+          <mark className="highlight-tertiary-padding-2-4">PROject</mark>
         </HashLink>
 
         <HashLink smooth to="/journey">
-          <mark className="highlight-tertiary-padding-2-4">Journey</mark>
+          <mark className="highlight-tertiary-padding-2-4">JOURney</mark>
         </HashLink>
 
       </div>

@@ -22,7 +22,7 @@ export default function MrBeeOsnTopic(): React.JSX.Element {
             background: isActive ? 'var(--accent-color-50)' : '',
           })}
         >
-          <mark className="highlight-tertiary-padding-2-4">About</mark>
+          <mark className="highlight-tertiary-padding-2-4">about</mark>
         </NavLink>
 
         <NavLink to="/project"
@@ -31,7 +31,7 @@ export default function MrBeeOsnTopic(): React.JSX.Element {
             background: isActive ? 'var(--accent-color-50)' : '',
           })}
         >
-          <mark className="highlight-tertiary-padding-2-4">Project</mark>
+          <mark className="highlight-tertiary-padding-2-4">PROject</mark>
         </NavLink>
 
         <NavLink to="/journey"
@@ -40,7 +40,7 @@ export default function MrBeeOsnTopic(): React.JSX.Element {
             background: isActive ? 'var(--accent-color-50)' : '',
           })}
         >
-          <mark className="highlight-tertiary-padding-2-4">Journey</mark>
+          <mark className="highlight-tertiary-padding-2-4">JOURney</mark>
         </NavLink>
 
         <NavLink to="/contact"
@@ -49,7 +49,7 @@ export default function MrBeeOsnTopic(): React.JSX.Element {
             background: isActive ? 'var(--accent-color-50)' : '',
           })}
         >
-          <mark className="highlight-tertiary-padding-2-4">Contact</mark>
+          <mark className="highlight-tertiary-padding-2-4">CONtact</mark>
         </NavLink>
 
       </div>

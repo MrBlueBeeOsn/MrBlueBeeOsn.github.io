@@ -22,7 +22,7 @@ export default function Header({ showControls, onToggleControls }: HeaderProps):
 
         <div className="branding">
           <NavLink to="/"><Branding /></NavLink>
-          <span className="logo-text">👋&nbsp;Hello!&nbsp;</span>
+          <span className="logo-text">👋&nbsp;helLO!&nbsp;</span>
         </div>
 
         <div className="nav-bar">
@@ -33,7 +33,7 @@ export default function Header({ showControls, onToggleControls }: HeaderProps):
               background: isActive ? 'var(--accent-color-50)' : '',
             })}
           >
-            🅱️ookkeeping
+            🅱️OOKkeeping
           </NavLink>
 
           <NavLink to="/english"
@@ -42,7 +42,7 @@ export default function Header({ showControls, onToggleControls }: HeaderProps):
               background: isActive ? 'var(--accent-color-50)' : '',
             })}
           >
-            🅴nglish
+            🅴NGlish
           </NavLink>
 
           <NavLink to="/search" className="nav-link">

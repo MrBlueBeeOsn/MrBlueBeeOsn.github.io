@@ -7,7 +7,7 @@ export default function Footer(): React.JSX.Element {
 
     <footer className="site-footer">
       
-      <h4 className="font-normal">© 2025 <span className="bee">🐝</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mr. ßee - a Diligent Bee📘</h4>
+      <h4 className="font-normal">© 2025 <span className="bee">🐝</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;MR. ßEE - a DILigent BEE📘</h4>
 
       <Link to="/"><ins>๏</ins></Link>
 
