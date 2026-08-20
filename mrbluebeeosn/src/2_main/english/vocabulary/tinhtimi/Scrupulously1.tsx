@@ -5,9 +5,9 @@ import EyeIcon from '@/components/view/EyeIcon';
 import ViewCounter from '@/components/view/ViewCounter';
 import LikeButton from '@/components/like/LikeButton';
 
-export default function Scrupulously1(): React.JSX.Element {
+export default function SCRUpulously1(): React.JSX.Element {
 
-  const postId = "Scrupulously1";
+  const postId = "SCRUpulously1";
 
   return (<>
 
@@ -17,28 +17,26 @@ export default function Scrupulously1(): React.JSX.Element {
 
       <h4><HashLink smooth to="/vocabulary#tinh-ti-mi-terms"><mark className="highlight-tertiary-padding-4-8">ADverbs: tỉ mỉ</mark></HashLink></h4>
       
-      <h1 className="margin-y-50 text-center">scrupulously
-        <sup><Link to="/vocabulary/scrupulously-1">&nbsp;1&nbsp;</Link>
+      <h1 className="margin-y-50 text-center">SCRUpulously
+        <sup><Link to="/vocabulary/SCRUpulously-1">&nbsp;1&nbsp;</Link>
         </sup>
-        <sup><Link to="/vocabulary/scrupulously-2">&nbsp;2&nbsp;</Link>
+        <sup><Link to="/vocabulary/SCRUpulously-2">&nbsp;2&nbsp;</Link>
         </sup>
       </h1>
 
       {/* This is the content of Vocabulary Term. */}
       
-      <p>Tuyệt vời! Chúng ta cùng khám phá từ "<strong>scrupulously</strong>" nhé.</p>
+      <p>Tuyệt vời! Chúng ta cùng khám phá từ "<strong>SCRUpulously</strong>" nhé.</p>
 
       <div className="text-border1 padding-top-20 padding-bottom-10 highlight-238-padding-4-8 bee-container">
 
         <div>
 
-          <p className="margin-bottom-20"><strong>Scrupulously</strong></p>
-
           <ul className="list-square padding-left-40">
               
             <li>
               <span className="highlight-255-padding-3-6">
-                [SCRUpulously][SCRU pu lous ly] /ˈskruː.pjə.ləs.li/ + /<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">scrüpư̇lơusly</Link>/
+                [SCRUpulously][SCRU pu lous ly] /ˈskruː.pjə.ləs.li/ + /<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">SCRÜpư̇lơusly</Link>/
                 &nbsp;⬤••• (4x)
               </span>
             </li>
@@ -57,16 +55,16 @@ export default function Scrupulously1(): React.JSX.Element {
       
       </div>
 
-      <p className="margin-top-30 text-indent-whole">Từ "<strong>scrupulously</strong>" miêu tả một hành động hoặc trạng thái được thực hiện một cách tỉ mỉ, cẩn trọng, chu đáo, thể hiện sự chú ý đến từng chi tiết và sự tuân thủ nghiêm ngặt các nguyên tắc hoặc quy tắc.</p>
+      <p className="margin-top-30 text-indent-whole">Từ "<strong>SCRUpulously</strong>" miêu tả một hành động hoặc trạng thái được thực hiện một cách tỉ mỉ, cẩn trọng, chu đáo, thể hiện sự chú ý đến từng chi tiết và sự tuân thủ nghiêm ngặt các nguyên tắc hoặc quy tắc.</p>
 
       <p className="text-indent-whole">Ví dụ:</p>
 
         <ul className="list-square">
 
-          <li>He followed the instructions ______.</li>
+          <li>he FOLlowed the inSTRUCtions SCRUpulously.</li>
           <li className="margin-bottom-20 list-none">Anh ấy tuân theo các hướng dẫn một cách tỉ mỉ.</li>
 
-          <li>She cleaned the house ______.</li>
+          <li>she CLEANED the HOUSE SCRUpulously.</li>
           <li className="list-none">Cô ấy lau nhà một cách chu đáo.</li>
 
         </ul>
@@ -83,12 +81,10 @@ export default function Scrupulously1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Scrupulous (adj) /ˈskruː.pjə.ləs/</li>
-          <li className="list-none">He is a ______ person.</li>
+          <li>he is a SCRUpulous PERson.</li>
           <li className="margin-bottom-20 list-none">Anh ấy là một người chu đáo.</li>
 
-          <li>Scrupulousness (n) /ˈskruː.pjə.ləs.nəs/</li>
-          <li className="list-none">Her ______ impressed everyone.</li>
+          <li>her SCRUpulousness imPRESSED EVEryone.</li>
           <li className="list-none">Sự chu đáo của cô ấy gây ấn tượng với mọi người.</li>
 
         </ul>
@@ -105,16 +101,13 @@ export default function Scrupulously1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Meticulously /məˈtɪk.jə.ləs.li/</li>
-          <li className="list-none">He planned the event ______.</li>
+          <li>he PLANNED the eVENT <Link to="/vocabulary/meTICulously-1">meTICulously</Link>.</li>
           <li className="margin-bottom-20 list-none">Anh ấy lên kế hoạch cho sự kiện một cách kỹ lưỡng.</li>
 
-          <li>Carefully /ˈker.fə.li/</li>
-          <li className="list-none">He handled the glass ______.</li>
+          <li>he HANdled the GLASS <Link to="/vocabulary/CAREfully-1">CAREfully</Link>.</li>
           <li className="margin-bottom-20 list-none">Anh ấy xử lý cái ly một cách cẩn thận.</li>
 
-          <li><Link to="/vocabulary/THORoughly-1">Thoroughly</Link> /ˈθɜːr.ə.li/</li>
-          <li className="list-none">He checked the documents ______.</li>
+          <li className="list-none">he CHECKED the DOCuments <Link to="/vocabulary/THORoughly-1">THORoughly</Link>.</li>
           <li className="list-none">Anh ấy kiểm tra các tài liệu một cách kỹ lưỡng.</li>
 
         </ul>
@@ -131,16 +124,13 @@ export default function Scrupulously1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Carelessly /ˈker.ləs.li/</li>
-          <li className="list-none">He handled the glass ______.</li>
+          <li>he HANdled the GLASS CARElessly.</li>
           <li className="margin-bottom-20 list-none">Anh ấy xử lý cái ly một cách bất cẩn.</li>
 
-          <li>Negligently /ˈneɡ.lɪ.dʒənt.li/</li>
-          <li className="list-none">He performed his duties ______.</li>
+          <li>he perFORMED his DUties NEGligently.</li>
           <li className="margin-bottom-20 list-none">Anh ấy thực hiện nhiệm vụ của mình một cách cẩu thả.</li>
 
-          <li>Sloppily /ˈslɑː.pɪ.li/</li>
-          <li className="list-none">The report was written ______, with many grammatical mistakes.</li>
+          <li>the rePORT was WRITten SLOPpily, with many gramMATical misTAKES.</li>
           <li className="list-none">Báo cáo được viết một cách ẩu tả, với nhiều lỗi ngữ pháp.</li>
 
         </ul>
@@ -166,10 +156,10 @@ export default function Scrupulously1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>He examined the document ______.</li>
+          <li>he exAMined the DOCument SCRUpulously.</li>
           <li className="margin-bottom-20 list-none">Anh ấy kiểm tra tài liệu một cách tỉ mỉ.</li>
 
-          <li>She cleaned the house ______.</li>
+          <li>she CLEANED the HOUSE SCRUpulously.</li>
           <li className="list-none">Cô ấy lau dọn nhà cửa một cách tỉ mỉ.</li>
 
         </ul>
@@ -189,7 +179,7 @@ export default function Scrupulously1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>The accountant checked the figures ______.</li>
+          <li>the acCOUNtant CHECKED the FIGures SCRUpulously.</li>
           <li className="list-none">Kế toán kiểm tra các số liệu một cách tỉ mỉ.</li>
 
         </ul>
@@ -211,10 +201,10 @@ export default function Scrupulously1(): React.JSX.Element {
 
           <ol>
 
-            <li>He followed the instructions.</li>
+            <li>he FOLlowed the inSTRUCtions.</li>
             <li className="list-none margin-bottom-20">Anh ấy tuân theo các hướng dẫn.</li>
 
-            <li value="2">He followed the instructions ______.</li>
+            <li value="2">he FOLlowed the inSTRUCtions SCRUpulously.</li>
             <li className="list-none margin-bottom-20">Anh ấy tuân theo các hướng dẫn một cách tỉ mỉ.</li>
 
           </ol>
@@ -235,7 +225,7 @@ export default function Scrupulously1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Nhấn mạnh sự tỉ mỉ và cẩn trọng: "<strong>Scrupulously</strong>" nhấn mạnh sự tỉ mỉ, cẩn trọng và chú ý đến từng chi tiết.</li>
+          <li>Nhấn mạnh sự tỉ mỉ và cẩn trọng: "<strong>SCRUpulously</strong>" nhấn mạnh sự tỉ mỉ, cẩn trọng và chú ý đến từng chi tiết.</li>
 
           <li className="margin-bottom-20">Thường dùng để miêu tả hành động tuân thủ nguyên tắc hoặc quy tắc: Từ này thường được sử dụng để miêu tả hành động tuân thủ nghiêm ngặt các nguyên tắc hoặc quy tắc.</li>
 

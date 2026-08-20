@@ -390,12 +390,12 @@ const Posts = lazy(() => import('@/data/Posts'));
 	// 5. Vocabulary - Tính tỉ mỉ
 	const Painstakingly1 = lazy(() => import('@/2_main/english/vocabulary/tinhtimi/Painstakingly1'));
 	const Painstakingly2 = lazy(() => import('@/2_main/english/vocabulary/tinhtimi/Painstakingly2'));
-	const THORoughly1 = lazy(() => import('@/2_main/english/vocabulary/tinhtimi/Thoroughly1'));
-	const THORoughly2 = lazy(() => import('@/2_main/english/vocabulary/tinhtimi/Thoroughly2'));
+	const THORoughly1 = lazy(() => import('@/2_main/english/vocabulary/tinhtimi/THORoughly1'));
+	const THORoughly2 = lazy(() => import('@/2_main/english/vocabulary/tinhtimi/THORoughly2'));
 	const Diligently1 = lazy(() => import('@/2_main/english/vocabulary/tinhtimi/Diligently1'));
 	const Diligently2 = lazy(() => import('@/2_main/english/vocabulary/tinhtimi/Diligently2'));
-	const Scrupulously1 = lazy(() => import('@/2_main/english/vocabulary/tinhtimi/Scrupulously1'));
-	const Scrupulously2 = lazy(() => import('@/2_main/english/vocabulary/tinhtimi/Scrupulously2'));
+	const SCRUpulously1 = lazy(() => import('@/2_main/english/vocabulary/tinhtimi/SCRUpulously1'));
+	const SCRUpulously2 = lazy(() => import('@/2_main/english/vocabulary/tinhtimi/SCRUpulously2'));
 
 	// 5. Vocabulary - Tính rõ ràng
 	const Clearly1 = lazy(() => import('@/2_main/english/vocabulary/tinhrorang/Clearly1'));
@@ -999,8 +999,8 @@ export default function AppRoutes(): React.JSX.Element {
 					<Route path="/vocabulary/THORoughly-2" element={<THORoughly2 />} />
 					<Route path="/vocabulary/diligently-1" element={<Diligently1 />} />
 					<Route path="/vocabulary/diligently-2" element={<Diligently2 />} />
-					<Route path="/vocabulary/scrupulously-1" element={<Scrupulously1 />} />
-					<Route path="/vocabulary/scrupulously-2" element={<Scrupulously2 />} />
+					<Route path="/vocabulary/SCRUpulously-1" element={<SCRUpulously1 />} />
+					<Route path="/vocabulary/SCRUpulously-2" element={<SCRUpulously2 />} />
 
 					{/* 5. Vocabulary - Tính rõ ràng */}
 					<Route path="/vocabulary/clearly-1" element={<Clearly1 />} />

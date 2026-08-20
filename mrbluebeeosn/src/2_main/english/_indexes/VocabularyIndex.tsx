@@ -993,10 +993,10 @@ export default function VocabularyIndex(): React.JSX.Element {
 						</li>
 
 						<li>
-							<Link to="/vocabulary/scrupulously-1">scrupulously
+							<Link to="/vocabulary/SCRUpulously-1">SCRUpulously
 								<sup>&nbsp;1&nbsp;</sup>
 									</Link> 
-									<Link to="/vocabulary/scrupulously-2">
+									<Link to="/vocabulary/SCRUpulously-2">
 								<sup>&nbsp;2&nbsp;</sup>
 							</Link>
 						</li>
