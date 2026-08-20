@@ -5,9 +5,9 @@ import EyeIcon from '@/components/view/EyeIcon';
 import ViewCounter from '@/components/view/ViewCounter';
 import LikeButton from '@/components/like/LikeButton';
 
-export default function Really1(): React.JSX.Element {
+export default function REALly1(): React.JSX.Element {
 
-  const postId = "Really1";
+  const postId = "REALly1";
 
   return (<>
 
@@ -17,28 +17,26 @@ export default function Really1(): React.JSX.Element {
     
       <h4><HashLink smooth to="/vocabulary#tinh-xac-thuc-terms"><mark className="highlight-tertiary-padding-4-8">ADverbs: xác thực</mark></HashLink></h4>
       
-      <h1 className="margin-y-50 text-center">really
-        <sup><Link to="/vocabulary/really-1">&nbsp;1&nbsp;</Link>
+      <h1 className="margin-y-50 text-center">REALly
+        <sup><Link to="/vocabulary/REALly-1">&nbsp;1&nbsp;</Link>
         </sup>
-        <sup><Link to="/vocabulary/really-2">&nbsp;2&nbsp;</Link>
+        <sup><Link to="/vocabulary/REALly-2">&nbsp;2&nbsp;</Link>
         </sup>
       </h1>
 
       {/* This is the content of Vocabulary Term. */}
       
-      <p>Tuyệt vời! Chúng ta cùng khám phá từ "<strong>really</strong>" nhé.</p>
+      <p>Tuyệt vời! Chúng ta cùng khám phá từ "<strong>REALly</strong>" nhé.</p>
 
       <div className="text-border1 padding-top-20 padding-bottom-10 highlight-238-padding-4-8 bee-container">
 
         <div>
 
-          <p className="margin-bottom-20"><strong>Really</strong></p>
-
           <ul className="list-square padding-left-40">
 
             <li>
               <span className="highlight-255-padding-3-6">
-                [REALly][REAL ly] /ˈriːəli/ + /<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">rėa̛lly</Link>/
+                [REALly][REAL ly] /ˈriːəli/ + /<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">RĖA̛Lly</Link>/
                 &nbsp;⬤• (2x)
               </span>
             </li>
@@ -57,19 +55,19 @@ export default function Really1(): React.JSX.Element {
 
       </div>
 
-      <p className="margin-top-30 text-indent-whole">Từ "<strong>really</strong>" có nhiều cách sử dụng, nhưng chủ yếu để nhấn mạnh một ý kiến, cảm xúc hoặc sự thật. Nó có thể biểu thị sự ngạc nhiên, sự đồng ý, hoặc đơn giản là làm cho câu nói trở nên mạnh mẽ hơn.</p>
+      <p className="margin-top-30 text-indent-whole">Từ "<strong>REALly</strong>" có nhiều cách sử dụng, nhưng chủ yếu để nhấn mạnh một ý kiến, cảm xúc hoặc sự thật. Nó có thể biểu thị sự ngạc nhiên, sự đồng ý, hoặc đơn giản là làm cho câu nói trở nên mạnh mẽ hơn.</p>
 
       <p className="text-indent-whole">Ví dụ:</p>
 
         <ul className="list-square">
 
-          <li>That's ______ interesting.</li>
+          <li>That's REALly INteresting.</li>
           <li className="margin-bottom-20 list-none">Điều đó thật sự thú vị.</li>
 
-          <li>I'm ______ tired.</li>
+          <li>I'm REALly TIred.</li>
           <li className="margin-bottom-20 list-none">Tôi mệt mỏi lắm.</li>
 
-          <li>Do you ______ think so?</li>
+          <li>Do you REALly THINK so?</li>
           <li className="list-none">Bạn có thực sự nghĩ vậy không?</li>
 
         </ul>
@@ -86,8 +84,7 @@ export default function Really1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Real (adj) /riːəl/</li>
-          <li className="list-none">Is this a ______ diamond?</li>
+          <li>Is this a REAL DIamond?</li>
           <li className="list-none">Đây có phải là kim cương thật không?</li>
 
         </ul>
@@ -104,12 +101,10 @@ export default function Really1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li><Link to="/vocabulary/TRUly-1">Truly</Link> /ˈtruːli/</li>
-          <li className="list-none">I ______ appreciate your help.</li>
+          <li>I <Link to="/vocabulary/TRUly-1">TRUly</Link> apPREciate your HELP.</li>
           <li className="margin-bottom-20 list-none">Tôi thực sự biết ơn sự giúp đỡ của bạn.</li>
 
-          <li>Very /ˈveri/</li>
-          <li className="list-none">It's ______ cold today.</li>
+          <li>It's VEry COLD toDAY.</li>
           <li className="list-none">Hôm nay lạnh lắm.</li>
 
         </ul>
@@ -128,12 +123,10 @@ export default function Really1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Falsely /ˈfɔːlsli/</li>
-          <li className="list-none">He ______ accused her.</li>
+          <li>He FALSEly acCUSED her.</li>
           <li className="margin-bottom-20 list-none">Anh ta đã buộc tội cô ấy một cách giả dối.</li>
 
-          <li>Not at all /nɒt ət ɔːl/</li>
-          <li className="list-none">I do ______ like coffee ______.</li>
+          <li>I do NOT LIKE COFfee at ALL.</li>
           <li className="list-none">Tôi không thích cà phê chút nào.</li>
 
         </ul>
@@ -159,7 +152,7 @@ export default function Really1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>No way! ______?</li>
+          <li>NO WAY! REALly?</li>
           <li className="list-none">Không thể nào! Thật không?</li>
 
         </ul>
@@ -179,7 +172,7 @@ export default function Really1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>I'm ______ excited about the trip.</li>
+          <li>I'm REALly exCITed about the TRIP.</li>
           <li className="list-none">Tôi rất háo hức về chuyến đi.</li>
 
         </ul>
@@ -195,16 +188,16 @@ export default function Really1(): React.JSX.Element {
         <strong>&nbsp;thường xuyên</strong>:
       </p>
 
-      <p className="text-indent-whole margin-bottom-20">Thường xuyên sử dụng "<strong>really</strong>" trong cuộc hội thoại để làm quen với từ này.</p>
+      <p className="text-indent-whole margin-bottom-20">Thường xuyên sử dụng "<strong>REALly</strong>" trong cuộc hội thoại để làm quen với từ này.</p>
 
         <p className="text-indent-whole">Ví dụ để so sánh (sự khác biệt):</p>
 
           <ol>
 
-            <li>I like pizza.</li>
+            <li>I LIKE PIZza.</li>
             <li className="list-none margin-bottom-20">Tôi thích pizza.</li>
 
-            <li value="2">I ______ like pizza.</li>
+            <li value="2">I REALly LIKE PIZza.</li>
             <li className="list-none margin-bottom-20">Tôi rất thích pizza.</li>
 
           </ol>
@@ -227,9 +220,9 @@ export default function Really1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Nhiều nghĩa: "<strong>Really</strong>" có thể được sử dụng trong nhiều ngữ cảnh khác nhau và có thể mang nhiều ý nghĩa khác nhau tùy thuộc vào ngữ cảnh.</li>
+          <li>Nhiều nghĩa: "<strong>REALly</strong>" có thể được sử dụng trong nhiều ngữ cảnh khác nhau và có thể mang nhiều ý nghĩa khác nhau tùy thuộc vào ngữ cảnh.</li>
 
-          <li className="margin-bottom-20">Cường điệu: Đôi khi, "<strong>really</strong>" được sử dụng để cường điệu hóa một cảm xúc hoặc ý kiến.</li>
+          <li className="margin-bottom-20">Cường điệu: Đôi khi, "<strong>REALly</strong>" được sử dụng để cường điệu hóa một cảm xúc hoặc ý kiến.</li>
 
         </ul>
 

@@ -101,7 +101,7 @@ export default function TRUly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>I'm <Link to="/vocabulary/really-1">REALly</Link> TIred.</li>
+          <li>I'm <Link to="/vocabulary/REALly-1">REALly</Link> TIred.</li>
           <li className="margin-bottom-20 list-none">Tôi thực sự mệt mỏi.</li>
 
           <li>inDEED, it was a BEAUtiful DAY.</li>

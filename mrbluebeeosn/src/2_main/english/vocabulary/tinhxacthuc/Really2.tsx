@@ -5,9 +5,9 @@ import EyeIcon from '@/components/view/EyeIcon';
 import ViewCounter from '@/components/view/ViewCounter';
 import LikeButton from '@/components/like/LikeButton';
 
-export default function Really2(): React.JSX.Element {
+export default function REALly2(): React.JSX.Element {
 
-  const postId = "Really2";
+  const postId = "REALly2";
 
   return (<>
 
@@ -17,18 +17,18 @@ export default function Really2(): React.JSX.Element {
     
       <h4><HashLink smooth to="/vocabulary#tinh-xac-thuc-terms"><mark className="highlight-tertiary-padding-4-8">ADverbs: xác thực</mark></HashLink></h4>
       
-      <h1 className="margin-y-50 text-center">really
+      <h1 className="margin-y-50 text-center">REALly
         <sup>
-          <Link to="/vocabulary/really-1">&nbsp;1&nbsp;</Link>
+          <Link to="/vocabulary/REALly-1">&nbsp;1&nbsp;</Link>
         </sup>
         <sup>
-          <Link to="/vocabulary/really-2">&nbsp;2&nbsp;</Link>
+          <Link to="/vocabulary/REALly-2">&nbsp;2&nbsp;</Link>
         </sup>
       </h1>
 
       {/* This is the content of Vocabulary Term. */}
 
-      <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>really</strong>" (thực sự, rất) và các cụm từ hay đi kèm nhé.</p>
+      <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>REALly</strong>" (thực sự, rất) và các cụm từ hay đi kèm nhé.</p>
 
       <div className="text-border1 padding-10 highlight-238-padding-4-8 bee-container">
 
@@ -36,13 +36,11 @@ export default function Really2(): React.JSX.Element {
 
           <p className="margin-y-10">
             
-            <strong>Really&nbsp;</strong>
-            
             <span className="highlight-255-padding-3-6">
               
               [REALly][REAL ly] /ˈriːəli/ + /
               
-              <Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">rėa̛lly</Link>/ 
+              <Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">RĖA̛Lly</Link>/ 
               
               &nbsp;⬤• (2x)
               
@@ -62,44 +60,34 @@ export default function Really2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1">Really <strong>like</strong> /laɪk/</li>
-        <li className="list-none">I ______ pizza.</li>
+        <li value="1">I REALly LIKE PIZza.</li>
         <li className="list-none margin-bottom-20">Tôi rất thích pizza.</li>
 
-        <li value="2">Really <strong>want</strong> /wɒnt/</li>
-        <li className="list-none">I ______ to go to Paris.</li>
+        <li value="2">I REALly WANT to GO to PAris.</li>
         <li className="list-none margin-bottom-20">Tôi rất muốn đến Paris.</li>
 
-        <li value="3">Really <strong>well</strong> /wɛl/</li>
-        <li className="list-none">She speaks English ______.</li>
+        <li value="3">She SPEAKS ENGlish REALly WELL.</li>
         <li className="list-none margin-bottom-20">Cô ấy nói tiếng Anh rất tốt.</li>
 
-        <li value="4">Really <strong>big</strong> /bɪɡ/</li>
-        <li className="list-none">His house is ______.</li>
+        <li value="4">His HOUSE is REALly BIG.</li>
         <li className="list-none margin-bottom-20">Nhà của anh ấy rất lớn.</li>
 
-        <li value="5">Really <strong>fast</strong> /fɑːst/</li>
-        <li className="list-none">The car can go ______.</li>
+        <li value="5">The CAR can GO REALly FAST.</li>
         <li className="list-none margin-bottom-20">Chiếc xe có thể chạy rất nhanh.</li>
 
-        <li value="6">Really <strong>hard</strong> /hɑːrd/</li>
-        <li className="list-none">This math problem is ______.</li>
+        <li value="6">This MATH PROBlem is REALly HARD.</li>
         <li className="list-none margin-bottom-20">Bài toán này rất khó.</li>
 
-        <li value="7">Really <strong>funny</strong> /ˈfʌni/</li>
-        <li className="list-none">That joke was ______.</li>
+        <li value="7">That JOKE was REALly FUNny.</li>
         <li className="list-none margin-bottom-20">Câu đùa đó thật hài hước.</li>
 
-        <li value="8">Really <strong>tired</strong> /ˈtaɪərd/</li>
-        <li className="list-none">I'm ______ after work.</li>
+        <li value="8">I'm REALly TIred after WORK.</li>
         <li className="list-none margin-bottom-20">Tôi rất mệt sau khi làm việc.</li>
 
-        <li value="9">Really <strong>happy</strong> /ˈhæpi/</li>
-        <li className="list-none">I'm ______ to see you.</li>
+        <li value="9">I'm REALly HAPpy to SEE you.</li>
         <li className="list-none margin-bottom-20">Tôi rất vui khi gặp bạn.</li>
 
-        <li value="10">Really <strong>surprised</strong> /səˈpraɪzd/</li>
-        <li className="list-none">I was ______ by the news.</li>
+        <li value="10">I was REALly surPRISED by the NEWS.</li>
         <li className="list-none margin-bottom-20">Tôi rất ngạc nhiên khi nghe tin đó.</li>
 
       </ol>
@@ -116,7 +104,7 @@ export default function Really2(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>"<strong>Really</strong>" có thể đứng trước hoặc sau Tính Cơ hoặc trạng cơ.</li>
+          <li>"<strong>REALly</strong>" có thể đứng trước hoặc sau Tính Cơ hoặc trạng cơ.</li>
 
           <li className="margin-bottom-20">Từ này rất phổ biến trong ngôn ngữ hàng ngày và được sử dụng trong nhiều ngữ cảnh khác nhau.</li>
 

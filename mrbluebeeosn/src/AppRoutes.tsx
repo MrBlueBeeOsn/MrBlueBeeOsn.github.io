@@ -412,8 +412,8 @@ const Posts = lazy(() => import('@/data/Posts'));
 	const Actually2 = lazy(() => import('@/2_main/english/vocabulary/tinhxacthuc/Actually2'));
 	const TRUly1 = lazy(() => import('@/2_main/english/vocabulary/tinhxacthuc/TRUly1'));
 	const TRUly2 = lazy(() => import('@/2_main/english/vocabulary/tinhxacthuc/TRUly2'));
-	const Really1 = lazy(() => import('@/2_main/english/vocabulary/tinhxacthuc/Really1'));
-	const Really2 = lazy(() => import('@/2_main/english/vocabulary/tinhxacthuc/Really2'));
+	const REALly1 = lazy(() => import('@/2_main/english/vocabulary/tinhxacthuc/REALly1'));
+	const REALly2 = lazy(() => import('@/2_main/english/vocabulary/tinhxacthuc/REALly2'));
 	const Genuinely1 = lazy(() => import('@/2_main/english/vocabulary/tinhxacthuc/Genuinely1'));
 	const Genuinely2 = lazy(() => import('@/2_main/english/vocabulary/tinhxacthuc/Genuinely2'));
 
@@ -1017,8 +1017,8 @@ export default function AppRoutes(): React.JSX.Element {
 					<Route path="/vocabulary/actually-2" element={<Actually2 />} />
 					<Route path="/vocabulary/TRUly-1" element={<TRUly1 />} />
 					<Route path="/vocabulary/TRUly-2" element={<TRUly2 />} />
-					<Route path="/vocabulary/really-1" element={<Really1 />} />
-					<Route path="/vocabulary/really-2" element={<Really2 />} />
+					<Route path="/vocabulary/REALly-1" element={<REALly1 />} />
+					<Route path="/vocabulary/REALly-2" element={<REALly2 />} />
 					<Route path="/vocabulary/genuinely-1" element={<Genuinely1 />} />
 					<Route path="/vocabulary/genuinely-2" element={<Genuinely2 />} />
 
