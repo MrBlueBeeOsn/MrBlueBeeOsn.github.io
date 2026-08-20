@@ -408,14 +408,14 @@ const Posts = lazy(() => import('@/data/Posts'));
 	const Visibly2 = lazy(() => import('@/2_main/english/vocabulary/tinhrorang/Visibly2'));
 
 	// 6. Vocabulary - Tính xác thực
-	const Actually1 = lazy(() => import('@/2_main/english/vocabulary/tinhxacthuc/Actually1'));
-	const Actually2 = lazy(() => import('@/2_main/english/vocabulary/tinhxacthuc/Actually2'));
-	const TRUly1 = lazy(() => import('@/2_main/english/vocabulary/tinhxacthuc/TRUly1'));
-	const TRUly2 = lazy(() => import('@/2_main/english/vocabulary/tinhxacthuc/TRUly2'));
-	const REALly1 = lazy(() => import('@/2_main/english/vocabulary/tinhxacthuc/REALly1'));
-	const REALly2 = lazy(() => import('@/2_main/english/vocabulary/tinhxacthuc/REALly2'));
-	const GENuinely1 = lazy(() => import('@/2_main/english/vocabulary/tinhxacthuc/GENuinely1'));
-	const GENuinely2 = lazy(() => import('@/2_main/english/vocabulary/tinhxacthuc/GENuinely2'));
+	const ACtually1 = lazy(() => import('@/2_main/english/vocabulary/tinhxacthuc/Actually1'));
+	const ACtually2 = lazy(() => import('@/2_main/english/vocabulary/tinhxacthuc/Actually2'));
+	const TRUly1 = lazy(() => import('@/2_main/english/vocabulary/tinhxacthuc/Truly1'));
+	const TRUly2 = lazy(() => import('@/2_main/english/vocabulary/tinhxacthuc/Truly2'));
+	const REALly1 = lazy(() => import('@/2_main/english/vocabulary/tinhxacthuc/Really1'));
+	const REALly2 = lazy(() => import('@/2_main/english/vocabulary/tinhxacthuc/Really2'));
+	const GENuinely1 = lazy(() => import('@/2_main/english/vocabulary/tinhxacthuc/Genuinely1'));
+	const GENuinely2 = lazy(() => import('@/2_main/english/vocabulary/tinhxacthuc/Genuinely2'));
 
 	// 7. Vocabulary - Tính chắc chắn
 	const Certainly1 = lazy(() => import('@/2_main/english/vocabulary/tinhchacchan/Certainly1'));
@@ -1013,8 +1013,8 @@ export default function AppRoutes(): React.JSX.Element {
 					<Route path="/vocabulary/visibly-2" element={<Visibly2 />} />
 
 					{/* 6. Vocabulary - Tính xác thực */}
-					<Route path="/vocabulary/actually-1" element={<Actually1 />} />
-					<Route path="/vocabulary/actually-2" element={<Actually2 />} />
+					<Route path="/vocabulary/ACtually-1" element={<ACtually1 />} />
+					<Route path="/vocabulary/ACtually-2" element={<ACtually2 />} />
 					<Route path="/vocabulary/TRUly-1" element={<TRUly1 />} />
 					<Route path="/vocabulary/TRUly-2" element={<TRUly2 />} />
 					<Route path="/vocabulary/REALly-1" element={<REALly1 />} />

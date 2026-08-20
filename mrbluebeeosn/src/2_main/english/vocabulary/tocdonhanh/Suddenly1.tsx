@@ -66,7 +66,7 @@ export default function SUDdenly1(): React.JSX.Element {
           <li>SUDdenly, the LIGHTS WENT OUT.</li>
           <li className="margin-bottom-20 list-none">Đột nhiên, đèn tắt.</li>
 
-          <li>She SUDdenly REalized she had LEFT her PHONE at HOME.</li>
+          <li>she SUDdenly REalized she had LEFT her PHONE at HOME.</li>
           <li className="list-none">Cô ấy đột nhiên nhận ra mình đã để quên điện thoại ở nhà.</li>
 
         </ul>
@@ -86,7 +86,7 @@ export default function SUDdenly1(): React.JSX.Element {
           <li>A SUDden STORM CAUSED the POWer OUtage.</li>
           <li className="margin-bottom-20 list-none">Một cơn bão đột ngột đã gây ra mất điện.</li>
 
-          <li>The SUDdenness of the ACcident SHOCKED EVEryone.</li>
+          <li>the SUDdenness of the ACcident SHOCKED EVEryone.</li>
           <li className="list-none">Sự đột ngột của tai nạn khiến mọi người sốc.</li>
 
         </ul>
@@ -103,10 +103,10 @@ export default function SUDdenly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>The MUsic STOPPED aBRUPTly.</li>
+          <li>the MUsic STOPPED aBRUPTly.</li>
           <li className="margin-bottom-20 list-none">Âm nhạc dừng lại đột ngột.</li>
 
-          <li>I unexPECtedly RAN into an OLD FRIEND.</li>
+          <li>i unexPECtedly RAN into an OLD FRIEND.</li>
           <li className="list-none">Tôi tình cờ gặp lại một người bạn cũ.</li>
 
         </ul>
@@ -125,10 +125,10 @@ export default function SUDdenly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>The PLANT GREW GRADually TALler.</li>
+          <li>the PLANT GREW GRADually TALler.</li>
           <li className="margin-bottom-20 list-none">Cây dần dần cao lên.</li>
 
-          <li>As exPECted, it STARted to RAIN.</li>
+          <li>as exPECted, it STARted to RAIN.</li>
           <li className="list-none">Như dự kiến, trời bắt đầu mưa.</li>
 
         </ul>
@@ -154,7 +154,7 @@ export default function SUDdenly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>The BALL SUDdenly FELL from the SKY.</li>
+          <li>the BALL SUDdenly FELL from the SKY.</li>
           <li className="list-none">Quả bóng đột ngột rơi từ trên trời xuống.</li>
 
         </ul>
@@ -174,7 +174,7 @@ export default function SUDdenly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>While I was WALking, I SUDdenly HEARD a LOUD NOISE.</li>
+          <li>While i was WALking, i SUDdenly HEARD a LOUD NOISE.</li>
           <li className="list-none">Khi tôi đang đi, đột nhiên tôi nghe thấy một tiếng động lớn.</li>
 
         </ul>
@@ -196,10 +196,10 @@ export default function SUDdenly1(): React.JSX.Element {
 
           <ol>
 
-            <li>The TRAIN arRIVED.</li>
+            <li>the TRAIN arRIVED.</li>
             <li className="list-none margin-bottom-20">Tàu đến.</li>
 
-            <li value="2">The TRAIN SUDdenly arRIVED.</li>
+            <li value="2">the TRAIN SUDdenly arRIVED.</li>
             <li className="list-none margin-bottom-20">Tàu đột ngột đến.</li>
 
           </ol>

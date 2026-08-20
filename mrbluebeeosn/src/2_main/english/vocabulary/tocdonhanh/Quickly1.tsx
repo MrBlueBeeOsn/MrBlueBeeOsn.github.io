@@ -63,10 +63,10 @@ export default function QUICKly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>She RAN QUICKly to CATCH the BUS.</li>
+          <li>she RAN QUICKly to CATCH the BUS.</li>
           <li className="margin-bottom-20 list-none">Cô ấy chạy nhanh để bắt xe buýt.</li>
 
-          <li>Please rePLY to the Email as QUICKly as POSsible.</li>
+          <li>please rePLY to the Email as QUICKly as POSsible.</li>
           <li className="list-none">Vui lòng trả lời email càng sớm càng tốt.</li>
 
         </ul>
@@ -83,10 +83,10 @@ export default function QUICKly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>He is a QUICK LEARNer.</li>
+          <li>he is a QUICK LEARNer.</li>
           <li className="margin-bottom-20 list-none">Anh ấy là một người học nhanh.</li>
 
-          <li>His QUICKness imPRESSED everyone.</li>
+          <li>his QUICKness imPRESSED everyone.</li>
           <li className="list-none">Sự nhanh nhẹn của anh ấy đã gây ấn tượng với mọi người.</li>
 
         </ul>
@@ -103,10 +103,10 @@ export default function QUICKly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>The diSEASE SPREAD <Link to="/vocabulary/RAPidly-1">RAPidly</Link>.</li>
+          <li>the diSEASE SPREAD <Link to="/vocabulary/RAPidly-1">RAPidly</Link>.</li>
           <li className="margin-bottom-20 list-none">Bệnh lây lan rất nhanh.</li>
 
-          <li>The BIRD FLEW SWIFTly through the AIR.</li>
+          <li>the BIRD FLEW SWIFTly through the AIR.</li>
           <li className="list-none">Con chim bay nhanh qua không trung.</li>
 
         </ul>
@@ -125,10 +125,10 @@ export default function QUICKly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>She WALKED <Link to="/vocabulary/SLOWly-1">SLOWly</Link> down the STREET.</li>
+          <li>she WALKED <Link to="/vocabulary/SLOWly-1">SLOWly</Link> down the STREET.</li>
           <li className="margin-bottom-20 list-none">Cô ấy đi bộ chậm rãi trên đường phố.</li>
 
-          <li>The PLANT GREW <Link to="/vocabulary/GRADually-1">GRADually</Link> TALLer.</li>
+          <li>the PLANT GREW <Link to="/vocabulary/GRADually-1">GRADually</Link> TALLer.</li>
           <li className="list-none">Cây lớn dần lên.</li>
 
         </ul>
@@ -154,7 +154,7 @@ export default function QUICKly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>The RABbit is RUNning very QUICKly.</li>
+          <li>the RABbit is RUNning very QUICKly.</li>
           <li className="list-none">Con thỏ đang chạy rất nhanh.</li>
 
         </ul>
@@ -174,7 +174,7 @@ export default function QUICKly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Please reSPOND to my MESsage QUICKly.</li>
+          <li>please reSPOND to my MESsage QUICKly.</li>
           <li className="list-none">Vui lòng trả lời tin nhắn của tôi nhanh nhé.</li>
 
         </ul>
@@ -196,10 +196,10 @@ export default function QUICKly1(): React.JSX.Element {
 
           <ol>
 
-            <li>He FINished the TASK.</li>
+            <li>he FINished the TASK.</li>
             <li className="list-none margin-bottom-20">Anh ấy đã hoàn thành công việc.</li>
 
-            <li value="2">He QUICKly FINished the TASK.</li>
+            <li value="2">he QUICKly FINished the TASK.</li>
             <li className="list-none margin-bottom-20">Anh ấy đã hoàn thành công việc rất nhanh.</li>
 
           </ol>

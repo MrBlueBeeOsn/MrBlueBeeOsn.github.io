@@ -60,34 +60,34 @@ export default function QUICKly2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1">The CIty is QUICKly GROWing and exPANding.</li>
+        <li value="1">the CIty is QUICKly GROWing and exPANding.</li>
         <li className="list-none margin-bottom-20">Thành phố đang phát triển và mở rộng rất nhanh.</li>
 
-        <li value="2">The SUN QUICKly FADed behind the CLOUDS.</li>
+        <li value="2">the SUN QUICKly FADed behind the CLOUDS.</li>
         <li className="list-none margin-bottom-20">Mặt trời nhanh chóng biến mất sau những đám mây.</li>
 
-        <li value="3">The FASHion INdustry is QUICKly CHANGing.</li>
+        <li value="3">the FASHion INdustry is QUICKly CHANGing.</li>
         <li className="list-none margin-bottom-20">Ngành công nghiệp thời trang đang thay đổi rất nhanh.</li>
 
-        <li value="4">I QUICKly REalized my misTAKE.</li>
+        <li value="4">i QUICKly REalized my misTAKE.</li>
         <li className="list-none margin-bottom-20">Tôi nhanh chóng nhận ra lỗi lầm của mình.</li>
 
-        <li value="5">The INcident was QUICKly forGOTten.</li>
+        <li value="5">the INcident was QUICKly forGOTten.</li>
         <li className="list-none margin-bottom-20">Vụ việc đó nhanh chóng bị lãng quên.</li>
 
-        <li value="6">The RUmor QUICKly SPREAD throughout the SCHOOL.</li>
+        <li value="6">the RUmor QUICKly SPREAD throughout the SCHOOL.</li>
         <li className="list-none margin-bottom-20">Tin đồn nhanh chóng lan truyền khắp trường học.</li>
 
-        <li value="7">The PROBlem was QUICKly SOLVED.</li>
+        <li value="7">the PROBlem was QUICKly SOLVED.</li>
         <li className="list-none margin-bottom-20">Vấn đề đã được giải quyết nhanh chóng.</li>
 
-        <li value="8">After a LONG DAY, I was QUICKly TIRED.</li>
+        <li value="8">after a LONG DAY, i was QUICKly TIRED.</li>
         <li className="list-none margin-bottom-20">Sau một ngày dài, tôi nhanh chóng cảm thấy mệt mỏi.</li>
 
-        <li value="9">She QUICKly beCAME BORED with the MOVie.</li>
+        <li value="9">she QUICKly beCAME BORED with the MOVie.</li>
         <li className="list-none margin-bottom-20">Cô ấy nhanh chóng cảm thấy chán bộ phim.</li>
 
-        <li value="10">The CAKE was QUICKly EATen by the CHILdren.</li>
+        <li value="10">the CAKE was QUICKly EATen by the CHILdren.</li>
         <li className="list-none margin-bottom-20">Cái bánh nhanh chóng bị bọn trẻ ăn hết.</li>
 
       </ol>

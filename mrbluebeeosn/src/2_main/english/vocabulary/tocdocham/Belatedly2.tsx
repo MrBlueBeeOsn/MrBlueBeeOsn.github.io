@@ -60,34 +60,34 @@ export default function beLAtedly2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1">He beLAtedly REALized he had forGOTten his WALlet.</li>
+        <li value="1">he beLAtedly REALized he had forGOTten his WALlet.</li>
         <li className="list-none margin-bottom-20">Anh ấy muộn màng nhận ra mình đã quên ví.</li>
 
-        <li value="2">She beLAtedly aPOLogized for her RUDE beHAVior.</li>
+        <li value="2">she beLAtedly aPOLogized for her RUDE beHAVior.</li>
         <li className="list-none margin-bottom-20">Cô ấy muộn màng xin lỗi vì hành vi thô lỗ của mình.</li>
 
-        <li value="3">They beLAtedly arRIVED at the MEEting due to TRAFfic.</li>
+        <li value="3">they beLAtedly arRIVED at the MEEting due to TRAFfic.</li>
         <li className="list-none margin-bottom-20">Họ đến cuộc họp một cách muộn màng do tắc đường.</li>
 
-        <li value="4">He beLAtedly SENT the BIRTHday CARD, WEEKS after the ACtual DATE.</li>
+        <li value="4">he beLAtedly SENT the BIRTHday CARD, WEEKS after the ACtual DATE.</li>
         <li className="list-none margin-bottom-20">Anh ấy gửi thiệp sinh nhật một cách muộn màng, vài tuần sau ngày sinh nhật thật.</li>
 
-        <li value="5">She beLAtedly reSPONded to his EMail after a LONG deLAY.</li>
+        <li value="5">she beLAtedly reSPONded to his EMail after a LONG deLAY.</li>
         <li className="list-none margin-bottom-20">Cô ấy trả lời email của anh ấy một cách muộn màng sau một thời gian dài trì hoãn.</li>
 
-        <li value="6">They beLAtedly conGRATulated the NEW PArents on the BIRTH of their BAby.</li>
+        <li value="6">they beLAtedly conGRATulated the NEW PArents on the BIRTH of their BAby.</li>
         <li className="list-none margin-bottom-20">Họ muộn màng chúc mừng cặp vợ chồng mới sinh em bé.</li>
 
-        <li value="7">The COMpany beLAtedly acKNOWledged the ERror in their PRODuct.</li>
+        <li value="7">the COMpany beLAtedly acKNOWledged the ERror in their PRODuct.</li>
         <li className="list-none margin-bottom-20">Công ty muộn màng thừa nhận lỗi trong sản phẩm của họ.</li>
 
-        <li value="8">They beLAtedly disCOVered the MISSing DOCuments.</li>
+        <li value="8">they beLAtedly disCOVered the MISSing DOCuments.</li>
         <li className="list-none margin-bottom-20">Họ muộn màng phát hiện ra những tài liệu bị thiếu.</li>
 
-        <li value="9">He beLAtedly UNderSTOOD the MEANing of her CRYPtic MESsage.</li>
+        <li value="9">he beLAtedly UNderSTOOD the MEANing of her CRYPtic MESsage.</li>
         <li className="list-none margin-bottom-20">Anh ấy muộn màng hiểu ra ý nghĩa của tin nhắn khó hiểu của cô ấy.</li>
 
-        <li value="10">The COMpany beLAtedly OFfered compenSAtion to the afFECted CUStomers.</li>
+        <li value="10">the COMpany beLAtedly OFfered compenSAtion to the afFECted CUStomers.</li>
         <li className="list-none margin-bottom-20">Công ty muộn màng đề nghị bồi thường cho những khách hàng bị ảnh hưởng.</li>
 
       </ol>

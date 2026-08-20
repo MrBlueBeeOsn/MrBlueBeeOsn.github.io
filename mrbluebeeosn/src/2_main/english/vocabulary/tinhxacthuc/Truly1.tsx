@@ -61,10 +61,10 @@ export default function TRUly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>She is TRUly a TAlented ARtist.</li>
+          <li>she is TRUly a TAlented ARtist.</li>
           <li className="margin-bottom-20 list-none">Cô ấy thực sự là một nghệ sĩ tài năng.</li>
 
-          <li>I TRUly apPREciate your HELP.</li>
+          <li>i TRUly apPREciate your HELP.</li>
           <li className="list-none">Tôi thực sự biết ơn sự giúp đỡ của bạn.</li>
 
         </ul>
@@ -84,7 +84,7 @@ export default function TRUly1(): React.JSX.Element {
           <li>That is a TRUE STOry.</li>
           <li className="margin-bottom-20 list-none">Đó là một câu chuyện có thật.</li>
 
-          <li>The TRUTH will SET you FREE.</li>
+          <li>the TRUTH will SET you FREE.</li>
           <li className="list-none">Sự thật sẽ giải phóng bạn.</li>
 
         </ul>
@@ -101,7 +101,7 @@ export default function TRUly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>I'm <Link to="/vocabulary/REALly-1">REALly</Link> TIred.</li>
+          <li>i'm <Link to="/vocabulary/REALly-1">REALly</Link> TIred.</li>
           <li className="margin-bottom-20 list-none">Tôi thực sự mệt mỏi.</li>
 
           <li>inDEED, it was a BEAUtiful DAY.</li>
@@ -123,7 +123,7 @@ export default function TRUly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>He FALSEly acCUSED her of STEALing.</li>
+          <li>he FALSEly acCUSED her of STEALing.</li>
           <li className="margin-bottom-20 list-none">Anh ta đã vu khống cô ấy ăn trộm.</li>
 
           <li>apPArently, he is LEAVing the COMpany.</li>
@@ -152,7 +152,7 @@ export default function TRUly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>I'm TRUly HAPpy for you.</li>
+          <li>i'm TRUly HAPpy for you.</li>
           <li className="list-none">Tôi thực sự vui mừng cho bạn.</li>
 
         </ul>
@@ -172,7 +172,7 @@ export default function TRUly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>TRUly, I apPREciate your KINDness.</li>
+          <li>TRUly, i apPREciate your KINDness.</li>
           <li className="list-none">Thật lòng, tôi rất trân trọng lòng tốt của bạn.</li>
 
         </ul>
@@ -194,10 +194,10 @@ export default function TRUly1(): React.JSX.Element {
 
           <ol>
 
-            <li>I LIKE PIZza.</li>
+            <li>i LIKE PIZza.</li>
             <li className="list-none margin-bottom-20">Tôi thích pizza.</li>
 
-            <li value="2">I TRUly LOVE PIZza.</li>
+            <li value="2">i TRUly LOVE PIZza.</li>
             <li className="list-none margin-bottom-20">Tôi thực sự yêu pizza.</li>
 
           </ol>

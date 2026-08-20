@@ -61,10 +61,10 @@ export default function INstantly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>When I TURNED ON the LIGHT, the ROOM beCAME INstantly BRIGHter.</li>
+          <li>When i TURNED ON the LIGHT, the ROOM beCAME INstantly BRIGHter.</li>
           <li className="margin-bottom-20 list-none">Khi tôi bật đèn lên, căn phòng sáng lên ngay lập tức.</li>
 
-          <li>She reCOGnized him INstantly.</li>
+          <li>she reCOGnized him INstantly.</li>
           <li className="list-none">Cô ấy nhận ra anh ta ngay lập tức.</li>
 
         </ul>
@@ -81,10 +81,10 @@ export default function INstantly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>This is an INstant COFfee.</li>
+          <li>this is an INstant COFfee.</li>
           <li className="margin-bottom-20 list-none">Đây là cà phê hòa tan.</li>
 
-          <li>The reACtion was instanTAneous.</li>
+          <li>the reACtion was instanTAneous.</li>
           <li className="list-none">Phản ứng diễn ra tức thì.</li>
 
         </ul>
@@ -101,7 +101,7 @@ export default function INstantly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>I rePLIED imMEdiately.</li>
+          <li>i rePLIED imMEdiately.</li>
           <li className="margin-bottom-20 list-none">Tôi trả lời ngay lập tức.</li>
 
           <li>COME HERE at ONCE!/</li>
@@ -123,10 +123,10 @@ export default function INstantly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>The PLANT GREW <Link to="/vocabulary/GRADually-1">GRADually</Link>.</li>
+          <li>the PLANT GREW <Link to="/vocabulary/GRADually-1">GRADually</Link>.</li>
           <li className="margin-bottom-20 list-none">Cây lớn dần lên.</li>
 
-          <li>She WALKED <Link to="/vocabulary/SLOWly-1">SLOWly</Link>.</li>
+          <li>she WALKED <Link to="/vocabulary/SLOWly-1">SLOWly</Link>.</li>
           <li className="list-none">Cô ấy đi chậm rãi.</li>
 
         </ul>
@@ -152,7 +152,7 @@ export default function INstantly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>As soon as I TURNED on the SWITCH, the LIGHT BULB CAME on INstantly.</li>
+          <li>as soon as i TURNED on the SWITCH, the LIGHT BULB CAME on INstantly.</li>
           <li className="list-none">Ngay khi tôi bật công tắc, bóng đèn sáng lên ngay lập tức.</li>
 
         </ul>
@@ -172,7 +172,7 @@ export default function INstantly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>She FELL aSLEEP INstantly after she CLOSED her EYES.</li>
+          <li>she FELL aSLEEP INstantly after she CLOSED her EYES.</li>
           <li className="list-none">Cô ấy ngủ thiếp đi ngay lập tức sau khi nhắm mắt lại.</li>
 
         </ul>
@@ -194,10 +194,10 @@ export default function INstantly1(): React.JSX.Element {
 
           <ol>
 
-            <li>The WAter BOILED.</li>
+            <li>the WAter BOILED.</li>
             <li className="list-none margin-bottom-20">Nước sôi.</li>
 
-            <li value="2">The WAter BOILED INstantly.</li>
+            <li value="2">the WAter BOILED INstantly.</li>
             <li className="list-none margin-bottom-20">Nước sôi ngay lập tức.</li>
 
           </ol>

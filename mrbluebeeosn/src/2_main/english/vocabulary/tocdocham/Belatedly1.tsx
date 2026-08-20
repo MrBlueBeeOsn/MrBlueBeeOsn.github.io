@@ -61,13 +61,13 @@ export default function beLAtedly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>He beLAtedly REALized his misTAKE.</li>
+          <li>he beLAtedly REALized his misTAKE.</li>
           <li className="margin-bottom-20 list-none">Anh ấy muộn màng nhận ra sai lầm của mình.</li>
 
-          <li>The BIRTHday CARD arRIVED beLAtedly.</li>
+          <li>the BIRTHday CARD arRIVED beLAtedly.</li>
           <li className="margin-bottom-20 list-none">Tấm thiệp sinh nhật đến muộn.</li>
 
-          <li>She beLAtedly aPOLogized for her beHAVior.</li>
+          <li>she beLAtedly aPOLogized for her beHAVior.</li>
           <li className="list-none">Cô ấy muộn màng xin lỗi về hành vi của mình.</li>
 
         </ul>
@@ -84,10 +84,10 @@ export default function beLAtedly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>He OFfered a beLAted aPOLogy.</li>
+          <li>he OFfered a beLAted aPOLogy.</li>
           <li className="margin-bottom-20 list-none">Anh ấy đưa ra một lời xin lỗi muộn màng.</li>
 
-          <li>We reCEIVED a beLAted inviTAtion.</li>
+          <li>we reCEIVED a beLAted inviTAtion.</li>
           <li className="list-none">Chúng tôi nhận được một lời mời muộn.</li>
 
         </ul>
@@ -104,16 +104,16 @@ export default function beLAtedly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>He arRIVED LATE for the MEEting.</li>
+          <li>he arRIVED LATE for the MEEting.</li>
           <li className="margin-bottom-20 list-none">Anh ấy đến muộn cho cuộc họp.</li>
 
-          <li>The TRAIN arRIVED TARdily.</li>
+          <li>the TRAIN arRIVED TARdily.</li>
           <li className="margin-bottom-20 list-none">Chuyến tàu đến muộn.</li>
 
-          <li>The PROJect is RUNning beHIND SCHEDule.</li>
+          <li>the PROJect is RUNning beHIND SCHEDule.</li>
           <li className="margin-bottom-20 list-none">Dự án đang bị chậm hơn lịch trình.</li>
 
-          <li>It was TOO LATE to aPOLogize.</li>
+          <li>it was TOO LATE to aPOLogize.</li>
           <li className="list-none">Đã quá muộn để xin lỗi.</li>
 
         </ul>
@@ -132,16 +132,16 @@ export default function beLAtedly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>He arRIVED EARly for the apPOINTment.</li>
+          <li>he arRIVED EARly for the apPOINTment.</li>
           <li className="margin-bottom-20 list-none">Anh ấy đến sớm cho cuộc hẹn.</li>
 
-          <li>She rePLIED PROMPTly to the EMail.</li>
+          <li>she rePLIED PROMPTly to the EMail.</li>
           <li className="margin-bottom-20 list-none">Cô ấy trả lời email một cách nhanh chóng.</li>
 
-          <li>The MEEting STARted PUNCtually.</li>
+          <li>the MEEting STARted PUNCtually.</li>
           <li className="margin-bottom-20 list-none">Cuộc họp bắt đầu đúng giờ.</li>
 
-          <li>Please rePORT any ISsues imMEdiately.</li>
+          <li>please rePORT any ISsues imMEdiately.</li>
           <li className="list-none">Vui lòng báo cáo mọi vấn đề ngay lập tức.</li>
 
         </ul>
@@ -167,13 +167,13 @@ export default function beLAtedly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>The BIRTHday GIFT arRIVED beLAtedly.</li>
+          <li>the BIRTHday GIFT arRIVED beLAtedly.</li>
           <li className="margin-bottom-20 list-none">Món quà sinh nhật đến muộn.</li>
 
-          <li>He beLAtedly REALized his misTAKE after the CONsequences.</li>
+          <li>he beLAtedly REALized his misTAKE after the CONsequences.</li>
           <li className="margin-bottom-20 list-none">Anh ấy muộn màng nhận ra lỗi lầm sau hậu quả.</li>
 
-          <li>The aPOLogy was OFfered beLAtedly to MEND the reLAtionship.</li>
+          <li>the aPOLogy was OFfered beLAtedly to MEND the reLAtionship.</li>
           <li className="list-none">Lời xin lỗi được đưa ra muộn màng để hàn gắn mối quan hệ.</li>
 
         </ul>
@@ -193,7 +193,7 @@ export default function beLAtedly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>The FIRE dePARTment arRIVED beLAtedly at the SCENE.</li>
+          <li>the FIRE dePARTment arRIVED beLAtedly at the SCENE.</li>
           <li className="list-none">Sở cứu hỏa đến hiện trường một cách muộn màng.</li>
 
         </ul>
@@ -215,10 +215,10 @@ export default function beLAtedly1(): React.JSX.Element {
 
           <ol>
 
-            <li>He REALized his misTAKE.</li>
+            <li>he REALized his misTAKE.</li>
             <li className="list-none margin-bottom-20">Anh ấy nhận ra sai lầm của mình.</li>
 
-            <li value="2">He beLAtedly REALized his misTAKE.</li>
+            <li value="2">he beLAtedly REALized his misTAKE.</li>
             <li className="list-none margin-bottom-20">Anh ấy muộn màng nhận ra sai lầm của mình.</li>
 
           </ol>
@@ -231,10 +231,10 @@ export default function beLAtedly1(): React.JSX.Element {
 
          <ol>
 
-            <li>The BIRTHday CARD arRIVED.</li>
+            <li>the BIRTHday CARD arRIVED.</li>
             <li className="list-none margin-bottom-20">Tấm thiệp sinh nhật đã đến.</li>
 
-            <li value="2">The BIRTHday CARD arRIVED beLAtedly.</li>
+            <li value="2">the BIRTHday CARD arRIVED beLAtedly.</li>
             <li className="list-none margin-bottom-20">Tấm thiệp sinh nhật đến muộn.</li>
 
           </ol>

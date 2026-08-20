@@ -60,34 +60,34 @@ export default function REALly2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1">I REALly LIKE PIZza.</li>
+        <li value="1">i REALly LIKE PIZza.</li>
         <li className="list-none margin-bottom-20">Tôi rất thích pizza.</li>
 
-        <li value="2">I REALly WANT to GO to PAris.</li>
+        <li value="2">i REALly WANT to GO to PAris.</li>
         <li className="list-none margin-bottom-20">Tôi rất muốn đến Paris.</li>
 
-        <li value="3">She SPEAKS ENGlish REALly WELL.</li>
+        <li value="3">she SPEAKS ENGlish REALly WELL.</li>
         <li className="list-none margin-bottom-20">Cô ấy nói tiếng Anh rất tốt.</li>
 
-        <li value="4">His HOUSE is REALly BIG.</li>
+        <li value="4">his HOUSE is REALly BIG.</li>
         <li className="list-none margin-bottom-20">Nhà của anh ấy rất lớn.</li>
 
-        <li value="5">The CAR can GO REALly FAST.</li>
+        <li value="5">the CAR can GO REALly FAST.</li>
         <li className="list-none margin-bottom-20">Chiếc xe có thể chạy rất nhanh.</li>
 
-        <li value="6">This MATH PROBlem is REALly HARD.</li>
+        <li value="6">this MATH PROBlem is REALly HARD.</li>
         <li className="list-none margin-bottom-20">Bài toán này rất khó.</li>
 
         <li value="7">That JOKE was REALly FUNny.</li>
         <li className="list-none margin-bottom-20">Câu đùa đó thật hài hước.</li>
 
-        <li value="8">I'm REALly TIred after WORK.</li>
+        <li value="8">i'm REALly TIred after WORK.</li>
         <li className="list-none margin-bottom-20">Tôi rất mệt sau khi làm việc.</li>
 
-        <li value="9">I'm REALly HAPpy to SEE you.</li>
+        <li value="9">i'm REALly HAPpy to SEE you.</li>
         <li className="list-none margin-bottom-20">Tôi rất vui khi gặp bạn.</li>
 
-        <li value="10">I was REALly surPRISED by the NEWS.</li>
+        <li value="10">i was REALly surPRISED by the NEWS.</li>
         <li className="list-none margin-bottom-20">Tôi rất ngạc nhiên khi nghe tin đó.</li>
 
       </ol>

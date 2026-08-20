@@ -64,7 +64,7 @@ export default function REALly1(): React.JSX.Element {
           <li>That's REALly INteresting.</li>
           <li className="margin-bottom-20 list-none">Điều đó thật sự thú vị.</li>
 
-          <li>I'm REALly TIred.</li>
+          <li>i'm REALly TIred.</li>
           <li className="margin-bottom-20 list-none">Tôi mệt mỏi lắm.</li>
 
           <li>Do you REALly THINK so?</li>
@@ -101,10 +101,10 @@ export default function REALly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>I <Link to="/vocabulary/TRUly-1">TRUly</Link> apPREciate your HELP.</li>
+          <li>i <Link to="/vocabulary/TRUly-1">TRUly</Link> apPREciate your HELP.</li>
           <li className="margin-bottom-20 list-none">Tôi thực sự biết ơn sự giúp đỡ của bạn.</li>
 
-          <li>It's VEry COLD toDAY.</li>
+          <li>it's VEry COLD toDAY.</li>
           <li className="list-none">Hôm nay lạnh lắm.</li>
 
         </ul>
@@ -123,10 +123,10 @@ export default function REALly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>He FALSEly acCUSED her.</li>
+          <li>he FALSEly acCUSED her.</li>
           <li className="margin-bottom-20 list-none">Anh ta đã buộc tội cô ấy một cách giả dối.</li>
 
-          <li>I do NOT LIKE COFfee at ALL.</li>
+          <li>i do NOT LIKE COFfee at ALL.</li>
           <li className="list-none">Tôi không thích cà phê chút nào.</li>
 
         </ul>
@@ -172,7 +172,7 @@ export default function REALly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>I'm REALly exCITed about the TRIP.</li>
+          <li>i'm REALly exCITed about the TRIP.</li>
           <li className="list-none">Tôi rất háo hức về chuyến đi.</li>
 
         </ul>
@@ -194,10 +194,10 @@ export default function REALly1(): React.JSX.Element {
 
           <ol>
 
-            <li>I LIKE PIZza.</li>
+            <li>i LIKE PIZza.</li>
             <li className="list-none margin-bottom-20">Tôi thích pizza.</li>
 
-            <li value="2">I REALly LIKE PIZza.</li>
+            <li value="2">i REALly LIKE PIZza.</li>
             <li className="list-none margin-bottom-20">Tôi rất thích pizza.</li>
 
           </ol>

@@ -63,13 +63,13 @@ export default function BAsically2(): React.JSX.Element {
         <li value="1">These TWO PROducts are BAsically the SAME.</li>
         <li className="list-none margin-bottom-20">Hai sản phẩm này về cơ bản là giống nhau.</li>
 
-        <li value="2">It's BAsically imPOSsible to FInish this TASK in ONE DAY.</li>
+        <li value="2">it's BAsically imPOSsible to FInish this TASK in ONE DAY.</li>
         <li className="list-none margin-bottom-20">Về cơ bản là không thể hoàn thành nhiệm vụ này trong một ngày.</li>
 
-        <li value="3">What he SAID was BAsically TRUE.</li>
+        <li value="3">what he SAID was BAsically TRUE.</li>
         <li className="list-none margin-bottom-20">Những gì anh ấy nói về cơ bản là đúng.</li>
 
-        <li value="4">The PROject is BAsically FInished.</li>
+        <li value="4">the PROject is BAsically FInished.</li>
         <li className="list-none margin-bottom-20">Dự án về cơ bản là đã hoàn thành.</li>
 
         <li value="5">APples and PEARS are BAsically the SAME THING.</li>
@@ -81,10 +81,10 @@ export default function BAsically2(): React.JSX.Element {
         <li value="7">BAsically the iDEA is to SIMplify the PROcess.</li>
         <li className="list-none margin-bottom-20">Về cơ bản, ý tưởng là đơn giản hóa quy trình.</li>
 
-        <li value="8">I THINK everyone BAsically underSTOOD the inSTRUCtions.</li>
+        <li value="8">i THINK everyone BAsically underSTOOD the inSTRUCtions.</li>
         <li className="list-none margin-bottom-20">Tôi nghĩ mọi người về cơ bản là đã hiểu các hướng dẫn.</li>
 
-        <li value="9">This NEW MOdel is BAsically the SAME as the OLD one.</li>
+        <li value="9">this NEW MOdel is BAsically the SAME as the OLD one.</li>
         <li className="list-none margin-bottom-20">Mô hình mới này về cơ bản là giống như mô hình cũ.</li>
 
         <li value="10">BAsically SPEAKing, we NEED MORE TIME to FInish the PROject.</li>

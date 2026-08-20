@@ -61,7 +61,7 @@ export default function GRADually1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>The SUN GRADually ROSE over the hoRIzon.</li>
+          <li>the SUN GRADually ROSE over the hoRIzon.</li>
           <li className="margin-bottom-20 list-none">Mặt trời dần dần mọc lên trên đường chân trời.</li>
 
           <li>Her HEALTH is GRADually imPROVing.</li>
@@ -84,10 +84,10 @@ export default function GRADually1(): React.JSX.Element {
           <li>There was a GRADual inCREASE in TEMperature.</li>
           <li className="margin-bottom-20 list-none">Có một sự gia tăng nhiệt độ dần dần.</li>
 
-          <li>The TEAcher GRADed the STUdents' ESsays.</li>
+          <li>the TEAcher GRADed the STUdents' ESsays.</li>
           <li className="margin-bottom-20 list-none">Giáo viên chấm bài luận của học sinh.</li>
 
-          <li>She is in the FIFTH GRADE.</li>
+          <li>she is in the FIFTH GRADE.</li>
           <li className="list-none">Cô ấy học lớp năm.</li>
 
         </ul>
@@ -104,13 +104,13 @@ export default function GRADually1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>The CLOCK <Link to="/vocabulary/SLOWly-1">SLOWly</Link> TICKED.</li>
+          <li>the CLOCK <Link to="/vocabulary/SLOWly-1">SLOWly</Link> TICKED.</li>
           <li className="margin-bottom-20 list-none">Đồng hồ chạy chậm.</li>
 
-          <li>The popuLAtion is <Link to="/vocabulary/steadily-1">STEADily</Link> inCREASing.</li>
+          <li>the popuLAtion is <Link to="/vocabulary/steadily-1">STEADily</Link> inCREASing.</li>
           <li className="margin-bottom-20 list-none">Dân số đang tăng đều đặn.</li>
 
-          <li>The diSEASE was deVELoping proGRESsively.</li>
+          <li>the diSEASE was deVELoping proGRESsively.</li>
           <li className="list-none">Căn bệnh đang phát triển một cách tuần tiến</li>
 
         </ul>
@@ -129,13 +129,13 @@ export default function GRADually1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>The LIGHTS <Link to="/vocabulary/SUDdenly-1">SUDdenly</Link> WENT OUT.</li>
+          <li>the LIGHTS <Link to="/vocabulary/SUDdenly-1">SUDdenly</Link> WENT OUT.</li>
           <li className="margin-bottom-20 list-none">Đèn đột ngột tắt.</li>
 
-          <li>The MEEting ENDed abRUPTly.</li>
+          <li>the MEEting ENDed abRUPTly.</li>
           <li className="margin-bottom-20 list-none">Cuộc họp kết thúc đột ngột.</li>
 
-          <li>The CAR acCELerated <Link to="/vocabulary/RAPidly-1">RAPidly</Link>.</li>
+          <li>the CAR acCELerated <Link to="/vocabulary/RAPidly-1">RAPidly</Link>.</li>
           <li className="list-none">Chiếc xe tăng tốc nhanh chóng.</li>
 
         </ul>
@@ -161,10 +161,10 @@ export default function GRADually1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>The TREE GREW GRADually over the YEARS.</li>
+          <li>the TREE GREW GRADually over the YEARS.</li>
           <li className="margin-bottom-20 list-none">Cây xanh lớn dần theo năm tháng.</li>
 
-          <li>She GRADually beCAME MORE proFIcient in the NEW SKILL.</li>
+          <li>she GRADually beCAME MORE proFIcient in the NEW SKILL.</li>
           <li className="list-none">Cô ấy dần dần thành thạo hơn trong kỹ năng mới.</li>
 
         </ul>
@@ -184,7 +184,7 @@ export default function GRADually1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>The WEATHer is GRADually GETting WARMer.</li>
+          <li>the WEATHer is GRADually GETting WARMer.</li>
           <li className="list-none">Thời tiết đang dần trở nên ấm hơn.</li>
 
         </ul>
@@ -206,10 +206,10 @@ export default function GRADually1(): React.JSX.Element {
 
           <ol>
 
-            <li>The PLANT GREW <Link to="/vocabulary/QUICKly-1">QUICKly</Link>.</li>
+            <li>the PLANT GREW <Link to="/vocabulary/QUICKly-1">QUICKly</Link>.</li>
             <li className="list-none margin-bottom-20">Cây lớn nhanh.</li>
 
-            <li value="2">The PLANT GREW GRADually over the SUMmer.</li>
+            <li value="2">the PLANT GREW GRADually over the SUMmer.</li>
             <li className="list-none margin-bottom-20">Cây lớn dần trong suốt mùa hè.</li>
 
           </ol>

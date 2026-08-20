@@ -60,34 +60,34 @@ export default function SLOWly2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1">She is SLOWly but SUREly MAKing PROgress in her STUDies.</li>
+        <li value="1">she is SLOWly but SUREly MAKing PROgress in her STUDies.</li>
         <li className="list-none margin-bottom-20">Cô ấy đang tiến bộ trong học tập một cách chậm mà chắc.</li>
 
-        <li value="2">The SOUND of the MUsic SLOWly FADed into the NIGHT.</li>
+        <li value="2">the SOUND of the MUsic SLOWly FADed into the NIGHT.</li>
         <li className="list-none margin-bottom-20">Âm thanh của nhạc dần dần mờ nhạt vào đêm.</li>
 
-        <li value="3">He is SLOWly reCOVering from his ILLness.</li>
+        <li value="3">he is SLOWly reCOVering from his ILLness.</li>
         <li className="list-none margin-bottom-20">Anh ấy đang dần dần hồi phục sau khi ốm.</li>
 
-        <li value="4">The PLANT is SLOWly GROWing TALler.</li>
+        <li value="4">the PLANT is SLOWly GROWing TALler.</li>
         <li className="list-none margin-bottom-20">Cây đang dần dần cao lớn hơn.</li>
 
-        <li value="5">The CLImate is SLOWly CHANGing due to GLObal WARMing.</li>
+        <li value="5">the CLImate is SLOWly CHANGing due to GLObal WARMing.</li>
         <li className="list-none margin-bottom-20">Khí hậu đang dần dần thay đổi do biến đổi khí hậu toàn cầu.</li>
 
-        <li value="6">The SNAIL was SLOWly MOVing across the LEAF.</li>
+        <li value="6">the SNAIL was SLOWly MOVing across the LEAF.</li>
         <li className="list-none margin-bottom-20">Con ốc sên di chuyển chậm chạp trên lá.</li>
 
-        <li value="7">The OLD TREE was SLOWly DYing.</li>
+        <li value="7">the OLD TREE was SLOWly DYing.</li>
         <li className="list-none margin-bottom-20">Cây già đang dần dần chết.</li>
 
-        <li value="8">The SHIP was SLOWly SINKing into the OCean.</li>
+        <li value="8">the SHIP was SLOWly SINKing into the OCean.</li>
         <li className="list-none margin-bottom-20">Con tàu đang dần dần chìm xuống đại dương.</li>
 
-        <li value="9">The STORM was SLOWly apPROACHing the COAST.</li>
+        <li value="9">the STORM was SLOWly apPROACHing the COAST.</li>
         <li className="list-none margin-bottom-20">Cơn bão đang dần dần tiến lại gần bờ biển.</li>
 
-        <li value="10">She was SLOWly REALizing the TRUTH.</li>
+        <li value="10">she was SLOWly REALizing the TRUTH.</li>
         <li className="list-none margin-bottom-20">Cô ấy đang dần dần nhận ra sự thật.</li>
 
       </ol>

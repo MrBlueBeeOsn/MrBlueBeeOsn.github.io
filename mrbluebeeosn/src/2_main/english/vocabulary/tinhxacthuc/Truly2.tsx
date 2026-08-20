@@ -60,34 +60,34 @@ export default function TRUly2(): React.JSX.Element {
 
 			<ol className="margin-top-30 padding-left-30">
 
-				<li value="1">I TRUly apPREciate your HELP.</li>
+				<li value="1">i TRUly apPREciate your HELP.</li>
 				<li className="list-none margin-bottom-20">Tôi thật sự trân trọng sự giúp đỡ của bạn.</li>
 
-				<li value="2">I TRUly beLIEVE in the POWer of LOVE.</li>
+				<li value="2">i TRUly beLIEVE in the POWer of LOVE.</li>
 				<li className="list-none margin-bottom-20">Tôi thật sự tin vào sức mạnh của tình yêu.</li>
 
-				<li value="3">I TRUly underSTAND how you FEEL.</li>
+				<li value="3">i TRUly underSTAND how you FEEL.</li>
 				<li className="list-none margin-bottom-20">Tôi thật sự hiểu cảm giác của bạn.</li>
 
-				<li value="4">I am TRUly SORry for what I SAID.</li>
+				<li value="4">i am TRUly SORry for what i SAID.</li>
 				<li className="list-none margin-bottom-20">Tôi thật sự xin lỗi về những gì tôi đã nói.</li>
 
 				<li value="5">Her perFORmance was TRUly reMARKable.</li>
 				<li className="list-none margin-bottom-20">Màn trình diễn của cô ấy thật sự đáng chú ý.</li>
 
-				<li value="6">His STOry is TRUly inSPIring.</li>
+				<li value="6">his STOry is TRUly inSPIring.</li>
 				<li className="list-none margin-bottom-20">Câu chuyện của anh ấy thật sự truyền cảm hứng.</li>
 
 				<li value="7">Her ARTwork is TRUly uNIQUE.</li>
 				<li className="list-none margin-bottom-20">Tác phẩm nghệ thuật của cô ấy thật sự độc đáo.</li>
 
-				<li value="8">I am TRUly GRATEful for your supPORT.</li>
+				<li value="8">i am TRUly GRATEful for your supPORT.</li>
 				<li className="list-none margin-bottom-20">Tôi thật sự biết ơn sự ủng hộ của bạn.</li>
 
-				<li value="9">I FEEL TRUly BLESSED to HAVE such GOOD FRIENDS.</li>
+				<li value="9">i FEEL TRUly BLESSED to HAVE such GOOD FRIENDS.</li>
 				<li className="list-none margin-bottom-20">Tôi cảm thấy thật sự may mắn khi có những người bạn tốt như vậy.</li>
 
-				<li value="10">It was a TRUly unforGETtable exPErience.</li>
+				<li value="10">it was a TRUly unforGETtable exPErience.</li>
 				<li className="list-none margin-bottom-20">Đó là một trải nghiệm thật sự khó quên.</li>
 
 			</ol>

@@ -61,10 +61,10 @@ export default function SLOWly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>She WALKED SLOWly down the STREET.</li>
+          <li>she WALKED SLOWly down the STREET.</li>
           <li className="margin-bottom-20 list-none">Cô ấy đi bộ chậm rãi trên đường phố.</li>
 
-          <li>TIME PASSED SLOWly as I WAITed.</li>
+          <li>TIME PASSED SLOWly as i WAITed.</li>
           <li className="list-none">Thời gian trôi qua chậm rãi khi tôi chờ đợi.</li>
 
         </ul>
@@ -81,10 +81,10 @@ export default function SLOWly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>He is a SLOW RUNner.</li>
+          <li>he is a SLOW RUNner.</li>
           <li className="margin-bottom-20 list-none">Anh ấy là một người chạy chậm.</li>
 
-          <li>The SLOWness of the TRAFfic anNOYED me.</li>
+          <li>the SLOWness of the TRAFfic anNOYED me.</li>
           <li className="list-none">Sự chậm chạp của giao thông làm tôi khó chịu.</li>
 
         </ul>
@@ -101,7 +101,7 @@ export default function SLOWly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>The PLANT GREW <Link to="/vocabulary/GRADually-1">GRADually</Link> TALler.</li>
+          <li>the PLANT GREW <Link to="/vocabulary/GRADually-1">GRADually</Link> TALler.</li>
           <li className="margin-bottom-20 list-none">Cây dần dần cao lên.</li>
 
           <li>SLOWly but <Link to="/vocabulary/surely-1">SUREly</Link>, she was MAKing PROgress.</li>
@@ -123,10 +123,10 @@ export default function SLOWly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>He RAN <Link to="/vocabulary/QUICKly-1">QUICKly</Link> to CATCH the BUS.</li>
+          <li>he RAN <Link to="/vocabulary/QUICKly-1">QUICKly</Link> to CATCH the BUS.</li>
           <li className="margin-bottom-20 list-none">Anh ấy chạy nhanh để bắt xe buýt.</li>
 
-          <li>The diSEASE SPREAD <Link to="/vocabulary/RAPidly-1">RAPidly</Link>.</li>
+          <li>the diSEASE SPREAD <Link to="/vocabulary/RAPidly-1">RAPidly</Link>.</li>
           <li className="list-none">Bệnh lây lan rất nhanh.</li>
 
         </ul>
@@ -152,7 +152,7 @@ export default function SLOWly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>The TURtle MOVES as SLOWly as a SNAIL.</li>
+          <li>the TURtle MOVES as SLOWly as a SNAIL.</li>
           <li className="list-none">Con rùa di chuyển chậm như ốc sên.</li>
 
         </ul>
@@ -172,7 +172,7 @@ export default function SLOWly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>The CLOCK TICKED SLOWly.</li>
+          <li>the CLOCK TICKED SLOWly.</li>
           <li className="list-none">Đồng hồ tích tắc chậm rãi.</li>
 
         </ul>
@@ -194,10 +194,10 @@ export default function SLOWly1(): React.JSX.Element {
 
           <ol>
 
-            <li>He FINished his WORK.</li>
+            <li>he FINished his WORK.</li>
             <li className="list-none margin-bottom-20">Anh ấy đã hoàn thành công việc.</li>
 
-            <li value="2">He SLOWly FINished his WORK.</li>
+            <li value="2">he SLOWly FINished his WORK.</li>
             <li className="list-none margin-bottom-20">Anh ấy đã hoàn thành công việc một cách chậm rãi.</li>
 
           </ol>

@@ -258,7 +258,7 @@ export default function SuperWords1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>She enJOYS [deSIGNing].</li>
+					<li>she enJOYS [deSIGNing].</li>
 					<li className="margin-bottom-20 list-none">Cô ấy yêu thích [việc thiết kế].</li>
 			
 					<li className="list-none">Hình thái: [deSIGNing] – [Tiếp Động Cơ][Progressive Verb Base] hình thành từ [Rễ Động Cơ][Root Verb Base] nguyên bản "deSIGN" mặc thêm hậu tố "-ing" để tạo thành một khối cấp độ [Cơ][Base] độc lập.</li>
@@ -272,7 +272,7 @@ export default function SuperWords1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>We FOUND an [unexPECted] soLUtion.</li>
+					<li>we FOUND an [unexPECted] soLUtion.</li>
 					<li className="margin-bottom-20 list-none">Chúng tôi đã tìm ra một giải pháp [bất ngờ/không mong đợi].</li>
 			
 					<li className="list-none">Hình thái: [unexPECted] – [Hoàn Động Cơ][Perfect Verb Base] hình thành từ khối [Rễ Động Cơ][Root Verb Base] nguyên bản "exPECT" mặc thêm tiền tố phủ định "un-" kết hợp với hậu tố "-ed" để thay đổi diện mạo bên ngoài thành một khối cấp độ [Cơ][Base] mang tính mô tả tĩnh.</li>
@@ -286,7 +286,7 @@ export default function SuperWords1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>The SYStem FAILED [rePEAtedly].</li>
+					<li>the SYStem FAILED [rePEAtedly].</li>
 					<li className="margin-bottom-20 list-none">Hệ thống đã bị lỗi [một cách lặp đi lặp lại].</li>
 			
 					<li className="list-none">Hình thái: [rePEAtedly] – [Diện Trạng Cơ][Modified Adverb Base] hình thành từ [Rễ Động Cơ][Root Verb Base] nguyên bản "rePEAT" kết hợp các hậu tố "-ed" và "-ly" để thay đổi diện mạo bên ngoài thành một khối cấp độ [Cơ][Base] chỉ phương thức hoạt động.</li>
@@ -322,7 +322,7 @@ export default function SuperWords1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>The TEAM aVOIDed [disCUSSing the BUDget].</li>
+					<li>the TEAM aVOIDed [disCUSSing the BUDget].</li>
 					<li className="margin-bottom-20 list-none">Đội ngũ đã né tránh [việc thảo luận về ngân sách].</li>
 			
 					<li className="list-none">Hình thái: [disCUSSing the BUDget] – [Tiếp Động Cụm][Progressive Verb Phrase] biểu thị khối hành động phát triển từ một hình thái -ing kéo theo thành phần thông tin bổ trợ phía sau để hoàn thiện nghĩa cho đối tượng bị tác động.</li>
@@ -336,12 +336,12 @@ export default function SuperWords1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>The deVELopers have been [OPtimizing the appliCAtion].</li>
+					<li>the deVELopers have been [OPtimizing the appliCAtion].</li>
 					<li className="margin-bottom-20 list-none">Các lập trình viên đã và đang [tối ưu hóa ứng dụng].</li>
 			
 					<li className="list-none">Hình thái: [OPtimizing the appliCAtion] – [Tiếp Động Cụm][Progressive Verb Phrase] biểu thị khối hành động mở rộng mở đầu bằng dạng vận động -ing nhằm biểu thị tiến trình của một hành động chưa kết thúc.</li>
 			
-					<li className="list-none">Chức năng: [OPtimizing the appliCAtion] – [Tính Cụm][Adjective Phrase] đang đứng vị trí sau để bổ nghĩa, mô tả trạng thái thực thi đang diễn ra của [Danh Chủ][Noun Subject] "The deVELopers".</li>
+					<li className="list-none">Chức năng: [OPtimizing the appliCAtion] – [Tính Cụm][Adjective Phrase] đang đứng vị trí sau để bổ nghĩa, mô tả trạng thái thực thi đang diễn ra của [Danh Chủ][Noun Subject] "the deVELopers".</li>
 			
 				</ul>
 			
@@ -350,7 +350,7 @@ export default function SuperWords1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>She STUDied HARD [to PASS the examiNAtion].</li>
+					<li>she STUDied HARD [to PASS the examiNAtion].</li>
 					<li className="margin-bottom-20 list-none">Cô ấy đã học tập chăm chỉ [để vượt qua kỳ thi].</li>
 			
 					<li className="list-none">Hình thái: [to PASS the examiNAtion] – [Hạt Thuần Động Cụm][Particle Bare Verb Phrase] biểu thị khối hành động được dẫn dắt bởi hạt "to" kết hợp với hành động [Thuần] khiết và các thành phần bổ ngữ phía sau.</li>
@@ -373,7 +373,7 @@ export default function SuperWords1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>The presenTAtion [about reNEWable ENergy] atTRACted inVEStors.</li>
+					<li>the presenTAtion [about reNEWable ENergy] atTRACted inVEStors.</li>
 					<li className="margin-bottom-20 list-none">Bài thuyết trình [về năng lượng tái tạo] đã thu hút các nhà đầu tư.</li>
 			
 					<li className="list-none">Hình thái: [about reNEWable ENergy] – [Giới Cụm][Prepositional Phrase] thể hiện một khối thông tin định vị chủ đề bắt đầu bằng [Giới Cơ][Prepositional Base] "about".</li>
@@ -387,7 +387,7 @@ export default function SuperWords1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>We SCHEDuled the CONference [in the AFternoon].</li>
+					<li>we SCHEDuled the CONference [in the AFternoon].</li>
 					<li className="margin-bottom-20 list-none">Chúng tôi đã lên lịch cuộc họp [vào buổi chiều].</li>
 			
 					<li className="list-none">Hình thái: [in the AFternoon] – [Giới Cụm][Prepositional Phrase] thể hiện một khối thông tin định vị thời gian bắt đầu bằng [Giới Cơ][Prepositional Base] "in".</li>
@@ -427,7 +427,7 @@ export default function SuperWords1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>I disCOVered [that she SPOKE the TRUTH].</li>
+					<li>i disCOVered [that she SPOKE the TRUTH].</li>
 					<li className="margin-bottom-20 list-none">Tôi đã phát hiện ra [rằng cô ấy đã nói sự thật].</li>
 			
 					<li className="list-none">Hình thái: [that she SPOKE the TRUTH] – [Liên Câu][Conjunctional Clause] biểu thị một cấu trúc câu con hoàn chỉnh có đầy đủ chủ vị và được dẫn dắt hiển lộ bởi [Liên Cơ][Conjunctional Base] "that".</li>
@@ -441,7 +441,7 @@ export default function SuperWords1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>The AUthor [who WROTE this ARticle] is an EXpert.</li>
+					<li>the AUthor [who WROTE this ARticle] is an EXpert.</li>
 					<li className="margin-bottom-20 list-none">Tác giả [người mà đã viết bài báo này] là một chuyên gia.</li>
 			
 					<li className="list-none">Hình thái: [who WROTE this ARticle] – [Liên Câu][Conjunctional Clause] biểu thị một cấu trúc câu con phụ thuộc bắt đầu bằng khối liên kết chỉ người "who" làm nhiệm vụ thế mạng và thực hiện trực tiếp hành động phía sau.</li>
@@ -455,7 +455,7 @@ export default function SuperWords1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>We will START [when the MANager SIGnals].</li>
+					<li>we will START [when the MANager SIGnals].</li>
 					<li className="margin-bottom-20 list-none">Chúng tôi sẽ bắt đầu [khi người quản lý ra hiệu].</li>
 			
 					<li className="list-none">Hình thái: [when the MANager SIGnals] – [Liên Câu][Conjunctional Clause] biểu thị một cấu trúc câu con hoàn chỉnh được kết nối thông qua khối liên kết chỉ thời điểm "when" để chỉ định rõ mốc thời gian.</li>
@@ -478,7 +478,7 @@ export default function SuperWords1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>I beLIEVE [you TOOK the corRECT STEPS].</li>
+					<li>i beLIEVE [you TOOK the corRECT STEPS].</li>
 					<li className="margin-bottom-20 list-none">Tôi tin [bạn đã đi đúng hướng].</li>
 			
 					<li className="list-none">Hình thái: [you TOOK the corRECT STEPS] – [Ẩn-Liên Câu][Zero-Conjunctional Clause] biểu thị một câu con hoàn chỉnh đóng vai trò phụ thuộc đã được triệt tiêu khối liên kết "that" dẫn đầu nhằm rút gọn kết cấu nói.</li>
@@ -492,12 +492,12 @@ export default function SuperWords1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>The CAR [he DROVE YESterday] beLONGED to his FAther.</li>
+					<li>the CAR [he DROVE YESterday] beLONGED to his FAther.</li>
 					<li className="margin-bottom-20 list-none">Chiếc xe [anh ấy lái hôm qua] thuộc về ba anh ấy.</li>
 			
 					<li className="list-none">Hình thái: [he DROVE YESterday] – [Ẩn-Liên Câu][Zero-Conjunctional Clause] biểu thị một câu con bổ nghĩa nằm ngay sau thành phần [Danh Khối][Noun Block] chính mà không xuất hiện các khối liên kết như "which" hay "that" ở đầu.</li>
 			
-					<li className="list-none">Chức năng: [he DROVE YESterday] – [Tính Câu][Adjective Clause] đang đứng vị trí bám sát ngay sau [Danh Chủ][Noun Subject] "The CAR" để bổ nghĩa và định danh riêng cho chiếc xe đó.</li>
+					<li className="list-none">Chức năng: [he DROVE YESterday] – [Tính Câu][Adjective Clause] đang đứng vị trí bám sát ngay sau [Danh Chủ][Noun Subject] "the CAR" để bổ nghĩa và định danh riêng cho chiếc xe đó.</li>
 			
 				</ul>
 			
@@ -506,12 +506,12 @@ export default function SuperWords1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>[Should they reQUEST asSIStance], the supPORT LINE will OPEN.</li>
+					<li>[should they reQUEST asSIStance], the supPORT LINE will OPEN.</li>
 					<li className="margin-bottom-20 list-none">[Nếu họ yêu cầu sự hỗ trợ], đường dây trợ giúp sẽ mở cửa.</li>
 			
-					<li className="list-none">Hình thái: [Should they reQUEST asSIStance] – [Ẩn-Liên Câu][Zero-Conjunctional Clause] biểu thị cấu trúc câu con đặc biệt sử dụng hình thức đảo năng lượng ý thái lên đầu nhằm loại bỏ hoàn toàn khối liên kết chỉ điều kiện "if".</li>
+					<li className="list-none">Hình thái: [should they reQUEST asSIStance] – [Ẩn-Liên Câu][Zero-Conjunctional Clause] biểu thị cấu trúc câu con đặc biệt sử dụng hình thức đảo năng lượng ý thái lên đầu nhằm loại bỏ hoàn toàn khối liên kết chỉ điều kiện "if".</li>
 			
-					<li className="list-none">Chức năng: [Should they reQUEST asSIStance] – [Trạng Câu][Adverb Clause] đang đứng vị trí độc lập ở đầu câu để thiết lập bối cảnh giả định, bổ nghĩa điều kiện cho toàn bộ sự việc phía sau.</li>
+					<li className="list-none">Chức năng: [should they reQUEST asSIStance] – [Trạng Câu][Adverb Clause] đang đứng vị trí độc lập ở đầu câu để thiết lập bối cảnh giả định, bổ nghĩa điều kiện cho toàn bộ sự việc phía sau.</li>
 			
 				</ul>
 			
@@ -550,7 +550,7 @@ export default function SuperWords1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>The MANager sugGESted [reVIEWing {'{what the TEAM acCOMplished this QUARter}'}].</li>
+					<li>the MANager sugGESted [reVIEWing {'{what the TEAM acCOMplished this QUARter}'}].</li>
 					<li className="margin-bottom-20 list-none">Người quản lý đã đề xuất [việc xem xét lại {'{những gì đội ngũ đã hoàn thành trong quý này}'}].</li>
 
 					<li className="list-none">Hình thái:</li>
@@ -572,7 +572,7 @@ export default function SuperWords1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>The LABoratory [in {'{which they TEST the SAMple}'}] is seCURE.</li>
+					<li>the LABoratory [in {'{which they TEST the SAMple}'}] is seCURE.</li>
 					<li className="margin-bottom-20 list-none">Phòng thí nghiệm [trong {'{nơi mà họ kiểm tra mẫu thử}'}] thì an toàn.</li>
 
 					<li className="list-none">Hình thái:</li>
@@ -583,7 +583,7 @@ export default function SuperWords1(): React.JSX.Element {
 			
 					<li className="list-none">Chức năng:</li>
 
-					<li className="list-none">[in {'{which they TEST the SAMple}'}] – [<strong>Tính Cụm</strong>][<strong>Adjective Phrase</strong>] tầng ngoài đứng ngay sau thành phần [Danh Khối][Noun Block] chính "The LABoratory" để bổ nghĩa và khu biệt không gian.</li>
+					<li className="list-none">[in {'{which they TEST the SAMple}'}] – [<strong>Tính Cụm</strong>][<strong>Adjective Phrase</strong>] tầng ngoài đứng ngay sau thành phần [Danh Khối][Noun Block] chính "the LABoratory" để bổ nghĩa và khu biệt không gian.</li>
 
 					<li className="list-none">Trong đó khối phụ {'{which they TEST the SAMple}'} giữ chức năng làm [Danh Câu][Noun Clause] tầng trong đứng vị trí làm [Danh Nhận][Noun Object] chịu sự điều phối trực tiếp của [Giới Cơ][Prepositional Base] "in".</li>
 			
@@ -595,7 +595,7 @@ export default function SuperWords1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>She aDAPted [through {'{what she disCOVered during REsearch}'}].</li>
+					<li>she aDAPted [through {'{what she disCOVered during REsearch}'}].</li>
 					<li className="margin-bottom-20 list-none">Cô ấy đã thích nghi [thông qua {'{những gì cô ấy khám phá ra trong lúc nghiên cứu}'}].</li>
 
 					<li className="list-none">Hình thái:</li>
@@ -626,7 +626,7 @@ export default function SuperWords1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>They CANceled the LAUNCH [because the deVICE overHEATed under PRESsure].</li>
+					<li>they CANceled the LAUNCH [because the deVICE overHEATed under PRESsure].</li>
 					<li className="margin-bottom-20 list-none">Họ đã hủy bỏ buổi ra mắt [vì thiết bị quá nhiệt dưới áp lực].</li>
 			
 					<li className="list-none">Hình thái: [because the deVICE overHEATed under PRESsure] – [Liên Câu][Conjunctional Clause] thể hiện một cấu trúc câu con hoàn chỉnh có khối liên kết chỉ nguyên nhân "because" dẫn dắt ở đầu.</li>
@@ -643,7 +643,7 @@ export default function SuperWords1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>They CANceled the LAUNCH [due to the deVICE overHEATing under PRESsure].</li>
+					<li>they CANceled the LAUNCH [due to the deVICE overHEATing under PRESsure].</li>
 					<li className="margin-bottom-20 list-none">Họ đã hủy bỏ buổi ra mắt [do thiết bị gặp tình trạng quá nhiệt dưới áp lực].</li>
 			
 					<li className="list-none">Hình thái: [due to the deVICE overHEATing under PRESsure] – [Phức Giới Cụm][Complex Prepositional Phrase] thể hiện khối thông tin mở rộng bắt đầu bằng [Phức Giới Cơ][Complex Prepositional Base] "due to", kéo theo [Danh Khối][Noun Block] "the deVICE" và một dạng [Tiếp Động Cơ][Progressive Verb Base] "overheating" được bọc lót -ing đi sau để cụm hóa [Rễ Động Cơ][Root Verb Base] "overheat".</li>
@@ -660,7 +660,7 @@ export default function SuperWords1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>They CANceled the LAUNCH [because of the HARDware FAIlure].</li>
+					<li>they CANceled the LAUNCH [because of the HARDware FAIlure].</li>
 					<li className="margin-bottom-20 list-none">Họ đã hủy bỏ buổi ra mắt [vì lỗi phần cứng].</li>
 			
 					<li className="list-none">Hình thái: [because of the HARDware FAIlure] – [Phức Giới Cụm][Complex Prepositional Phrase] thể hiện một khối thông tin không chứa hành động, bắt đầu bằng [Phức Giới Cơ][Complex Prepositional Base] "because of" điều phối trực tiếp một [Danh Khối][Noun Block] trung tâm đứng sau.</li>

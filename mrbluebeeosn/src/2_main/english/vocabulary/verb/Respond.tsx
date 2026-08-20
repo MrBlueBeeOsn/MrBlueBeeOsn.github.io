@@ -36,7 +36,7 @@ export default function Respond(): React.JSX.Element {
 
             <ul className="list-square">
           
-              <li>The TEAM should [reSPOND] to the CLIent reQUEST imMEDIately.</li>
+              <li>the TEAM should [reSPOND] to the CLIent reQUEST imMEDIately.</li>
               <li className="margin-bottom-20 list-none">Đội ngũ nên [phản hồi] yêu cầu của khách hàng ngay lập tức.</li>
 
               <li className="list-none">Hình thái: [reSPOND] - [Thuần Động Cơ][Bare Verb Base] hình thành từ khối [Rễ Động Cơ][Root Verb Base] nguyên bản "reSPOND" đứng sau chịu tác động từ [Ý-Thái Động Cơ][Soft-Modal Verb Base] "should" để thực thi hành động hướng tới đối tượng tiếp nhận trực tiếp "to the CLIent reQUEST".</li>
@@ -146,7 +146,7 @@ export default function Respond(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>The RAPid [reSPONSE] from the supPORT TEAM imPRESSED the CUStomers.</li>
+          <li>the RAPid [reSPONSE] from the supPORT TEAM imPRESSED the CUStomers.</li>
           <li className="margin-bottom-20 list-none">Sự [phản hồi] nhanh chóng từ đội ngũ hỗ trợ đã làm ấn tượng các khách hàng.</li>
       
           <li className="list-none">Hình thái: [reSPONSE] - [Diện Danh Cơ][Modified Noun Base] hình thành từ khối [Rễ Động Cơ][Root Verb Base] nguyên bản "reSPOND" biến đổi cấu trúc đuôi "-se" để thay đổi diện mạo bên ngoài thành một khối cấp độ [Cơ][Base] có khả năng định danh thực thể độc lập.</li>
@@ -178,7 +178,7 @@ export default function Respond(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>The SYStem SOLVED the QUEry [reSPONsively] during the TEST.</li>
+          <li>the SYStem SOLVED the QUEry [reSPONsively] during the TEST.</li>
           <li className="margin-bottom-20 list-none">Hệ thống đã giải quyết truy vấn [một cách nhanh nhạy] trong suốt bài kiểm tra.</li>
       
           <li className="list-none">Hình thái: [reSPONsively] - [Diện Trạng Cơ][Modified Adverb Base] hình thành từ khối [Rễ Động Cơ][Root Verb Base] nguyên bản "reSPOND" qua biến thể mô tả đặc điểm và thêm hậu tố "-ly" để thay đổi diện mạo bên ngoài thành một khối cấp độ [Cơ][Base] có khả năng bổ trợ bối cảnh phương thức.</li>
@@ -215,7 +215,7 @@ export default function Respond(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>The supPORT TEAM priORitized [reSPONDing to USer FEEDback].</li>
+          <li>the supPORT TEAM priORitized [reSPONDing to USer FEEDback].</li>
           <li className="margin-bottom-20 list-none">Đội ngũ hỗ trợ đã ưu tiên [việc phản hồi các phản hồi của người dùng].</li>
       
           <li className="list-none">Hình thái: [reSPONDing to USer FEEDback] - [Tiếp Động Cụm][Progressive Verb Phrase] hình thành từ [Tiếp Động Cơ][Progressive Verb Base] "reSPONDing" tích hợp thêm vùng dữ liệu mở rộng phía sau.</li>
@@ -247,7 +247,7 @@ export default function Respond(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>The SYStem AIMS [to reSPOND autoMATically to NETwork eVENTS].</li>
+          <li>the SYStem AIMS [to reSPOND autoMATically to NETwork eVENTS].</li>
           <li className="margin-bottom-20 list-none">Hệ thống hướng tới [việc phản hồi tự động đối với các sự kiện mạng].</li>
       
           <li className="list-none">Hình thái: [to reSPOND autoMATically to NETwork eVENTS] - [Hạt Thuần Động Cụm][Particle Bare Verb Phrase] phát triển từ cụm [Hạt Thuần Động Cơ][Particle Bare Verb Base] "to reSPOND" tích hợp thêm vùng dữ liệu mở rộng phía sau.</li>
@@ -263,7 +263,7 @@ export default function Respond(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>It is esSENtial [to reSPOND QUICKly to CUStomer comPLAINts].</li>
+          <li>it is esSENtial [to reSPOND QUICKly to CUStomer comPLAINts].</li>
           <li className="margin-bottom-20 list-none">Việc [phản hồi nhanh chóng các khiếu nại của khách hàng] là điều thiết yếu.</li>
       
           <li className="list-none">Hình thái: [to reSPOND QUICKly to CUStomer comPLAINts] - [Hạt Thuần Động Cụm][Particle Bare Verb Phrase] phát triển từ cụm [Hạt Thuần Động Cơ][Particle Bare Verb Base] "to reSPOND" tích hợp thêm vùng dữ liệu mở rộng phía sau.</li>
@@ -282,7 +282,7 @@ export default function Respond(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>The AGent [reSPONDing to the CRIsis] FOUND an efFECtive soLUtion.</li>
+          <li>the AGent [reSPONDing to the CRIsis] FOUND an efFECtive soLUtion.</li>
           <li className="margin-bottom-20 list-none">Nhân viên [đang phản hồi/xử lý cuộc khủng hoảng] đã tìm ra một giải pháp hiệu quả.</li>
       
           <li className="list-none">Hình thái: [reSPONDing to the CRIsis] - [Tiếp Động Cụm][Progressive Verb Phrase] phát triển từ [Tiếp Động Cơ][Progressive Verb Base] "reSPONDing" tích hợp thêm vùng dữ liệu mở rộng biểu thị tính chủ động đang xảy ra.</li>
@@ -299,7 +299,7 @@ export default function Respond(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>The OFficer [to reSPOND to the inQUIRy] has been asSIGNED.</li>
+          <li>the OFficer [to reSPOND to the inQUIRy] has been asSIGNED.</li>
           <li className="margin-bottom-20 list-none">Sĩ quan [sắp sửa phản hồi truy vấn] đã được phân công.</li>
       
           <li className="list-none">Hình thái: [to reSPOND to the inQUIRy] - [Hạt Thuần Động Cụm][Particle Bare Verb Phrase] phát triển từ cụm [Hạt Thuần Động Cơ][Particle Bare Verb Base] "to reSPOND" tích hợp thêm vùng dữ liệu mở rộng phía sau.</li>
@@ -315,7 +315,7 @@ export default function Respond(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>The EmaiL [to be reSPONDed to by the MANager] will be SENT toMORrow.</li>
+          <li>the EmaiL [to be reSPONDed to by the MANager] will be SENT toMORrow.</li>
           <li className="margin-bottom-20 list-none">Email [sắp sửa được phản hồi bởi người quản lý] sẽ được gửi vào ngày mai.</li>
       
           <li className="list-none">Hình thái: [to be reSPONDed to by the MANager] - [Hạt Thuần Hoàn Động Cụm][Particle Bare Perfect Verb Phrase] bắt đầu bằng [Hạt Động Cơ][Particle Verb Base] "to" kéo theo vùng bổ trợ phía sau chứa [Thuần Động Cơ][Bare Verb Base] "be" và [Hoàn Động Cơ][Perfect Verb Base] "reSPONDed" để biểu thị trạng thái bị động tương lai.</li>
@@ -331,7 +331,7 @@ export default function Respond(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>The comPLAINT [reSPONDed to by the SERvice dePARTment] was reSOLVED YESterday.</li>
+          <li>the comPLAINT [reSPONDed to by the SERvice dePARTment] was reSOLVED YESterday.</li>
           <li className="margin-bottom-20 list-none">Khiếu nại [đã được phản hồi bởi bộ phận dịch vụ] đã được giải quyết ngày hôm qua.</li>
       
           <li className="list-none">Hình thái: [reSPONDed to by the SERvice dePARTment] - [Hoàn Động Cụm][Perfect Verb Phrase] phát triển từ [Hoàn Động Cơ][Perfect Verb Base] "reSPONDed" kết hợp mở rộng ở dạng bị động thuộc trục thời quá khứ.</li>
@@ -347,7 +347,7 @@ export default function Respond(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>They NEED a SYStem [reSPONsive to MARket CHANges].</li>
+          <li>they NEED a SYStem [reSPONsive to MARket CHANges].</li>
           <li className="margin-bottom-20 list-none">Họ cần một hệ thống [có độ phản hồi linh hoạt với các thay đổi thị trường].</li>
       
           <li className="list-none">Hình thái: [reSPONsive to MARket CHANges] - [Diện Tính Cụm][Modified Adjective Phrase] hình thành từ khối [Rễ Động Cơ][Root Verb Base] nguyên bản "resPOND" qua việc thêm hậu tố "-ive" và kết hợp mở rộng với một [Giới Cụm][Prepositional Phrase] phía sau.</li>
@@ -382,7 +382,7 @@ export default function Respond(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>The COMpany ALlocated FUNDS [reSPONDing to URgent MARket RISKS].</li>
+          <li>the COMpany ALlocated FUNDS [reSPONDing to URgent MARket RISKS].</li>
           <li className="margin-bottom-20 list-none">Công ty đã phân bổ các khoản kinh phí [để ứng phó/phản hồi với các rủi ro thị trường khẩn cấp].</li>
       
           <li className="list-none">Hình thái: [reSPONDing to URgent MARket RISKS] - [Tiếp Động Cụm][Progressive Verb Phrase] phát triển từ [Tiếp Động Cơ][Progressive Verb Base] "reSPONDing" kết hợp mở rộng đứng ở phần sau câu nhằm làm rõ tiến trình nội dung.</li>
@@ -414,7 +414,7 @@ export default function Respond(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>The techNICian arRIVED [to reSPOND to the NETwork aLERT].</li>
+          <li>the techNICian arRIVED [to reSPOND to the NETwork aLERT].</li>
           <li className="margin-bottom-20 list-none">Kỹ thuật viên đã đến [để phản hồi/xử lý cảnh báo mạng].</li>
       
           <li className="list-none">Hình thái: [to reSPOND to the NETwork aLERT] - [Hạt Thuần Động Cụm][Particle Bare Verb Phrase] phát triển từ cụm [Hạt Thuần Động Cơ][Particle Bare Verb Base] "to reSPOND" kết hợp mở rộng đứng cuối chuỗi thông tin.</li>
@@ -433,7 +433,7 @@ export default function Respond(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>The deLAY [in the reSPONSE to the ofFIcial STATEment] CAUSED PUBlic conCERNS.</li>
+          <li>the deLAY [in the reSPONSE to the ofFIcial STATEment] CAUSED PUBlic conCERNS.</li>
           <li className="margin-bottom-20 list-none">Sự chậm trễ [trong việc phản hồi đối với tuyên bố chính thức] đã gây ra những lo ngại trong công chúng.</li>
       
           <li className="list-none">Hình thái: [in the reSPONSE to the ofFIcial STATEment] - [Giới Cụm][Prepositional Phrase] xuất hiện dưới dạng một vùng mã định vị không chứa hạt nhân hành động, bắt đầu bằng [Giới Cơ][Prepositional Base] "in".</li>
@@ -451,12 +451,12 @@ export default function Respond(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>[In reSPONSE to NEW seCUrity reguLAtions], the SYStem upDATed autoMATically.</li>
+          <li>[in reSPONSE to NEW seCUrity reguLAtions], the SYStem upDATed autoMATically.</li>
           <li className="margin-bottom-20 list-none">[Nhằm phản hồi/đáp lại các quy định bảo mật mới], hệ thống đã tự động cập nhật.</li>
       
-          <li className="list-none">Hình thái: [In reSPONSE to NEW seCUrity reguLAtions] - [Giới Cụm][Prepositional Phrase] bắt đầu bằng [Giới Cơ][Prepositional Base] "In" kéo theo vùng [Danh Nhận][Noun Object] phía sau, được đảo lên đứng biệt lập ở đầu câu và ngăn cách bằng dấu phẩy.</li>
+          <li className="list-none">Hình thái: [in reSPONSE to NEW seCUrity reguLAtions] - [Giới Cụm][Prepositional Phrase] bắt đầu bằng [Giới Cơ][Prepositional Base] "In" kéo theo vùng [Danh Nhận][Noun Object] phía sau, được đảo lên đứng biệt lập ở đầu câu và ngăn cách bằng dấu phẩy.</li>
       
-          <li className="list-none">Chức năng: [In reSPONSE to NEW seCUrity reguLAtions] - [Trạng Cụm][Adverb Phrase] đảm nhận nhiệm vụ thiết lập khối bối cảnh nguyên nhân / phương tiện, bổ nghĩa cho hành động [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "upDATed".</li>
+          <li className="list-none">Chức năng: [in reSPONSE to NEW seCUrity reguLAtions] - [Trạng Cụm][Adverb Phrase] đảm nhận nhiệm vụ thiết lập khối bối cảnh nguyên nhân / phương tiện, bổ nghĩa cho hành động [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "upDATed".</li>
       
         </ul>
 
@@ -467,7 +467,7 @@ export default function Respond(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>The TEAM GATHered [for a QUICK reSPONSE to the INcident].</li>
+          <li>the TEAM GATHered [for a QUICK reSPONSE to the INcident].</li>
           <li className="margin-bottom-20 list-none">Đội ngũ đã tập hợp [phục vụ cho một phản hồi nhanh chóng đối với sự cố].</li>
       
           <li className="list-none">Hình thái: [for a QUICK reSPONSE to the INcident] - [Giới Cụm][Prepositional Phrase] xuất hiện dưới dạng một vùng mã xác lập lý do / bối cảnh, bắt đầu bằng [Giới Cơ][Prepositional Base] "for".</li>
@@ -490,12 +490,12 @@ export default function Respond(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>[How the SYStem reSPONDS to seCUrity THREATS] deTERmines its reliaBILity.</li>
+          <li>[how the SYStem reSPONDS to seCUrity THREATS] deTERmines its reliaBILity.</li>
           <li className="margin-bottom-20 list-none">[Cách hệ thống phản hồi đối với các mối đe dọa bảo mật] quyết định độ tin cậy của nó.</li>
       
-          <li className="list-none">Hình thái: [How the SYStem reSPONDS to seCUrity THREATS] - [Liên Câu][Conjunctional Clause] chứa thành phần [Liên Cơ][Conjunctional Base] "How" ở đầu, mang [Danh Chủ][Noun Subject] riêng "the SYStem" và cụm hành động phối hợp phía sau.</li>
+          <li className="list-none">Hình thái: [how the SYStem reSPONDS to seCUrity THREATS] - [Liên Câu][Conjunctional Clause] chứa thành phần [Liên Cơ][Conjunctional Base] "How" ở đầu, mang [Danh Chủ][Noun Subject] riêng "the SYStem" và cụm hành động phối hợp phía sau.</li>
       
-          <li className="list-none">Chức năng: [How the SYStem reSPONDS to seCUrity THREATS] - [Danh Câu][Noun Clause] đóng vai trò làm [Danh Chủ][Noun Subject] quản lý khối thông tin quy trình, điều khiển chính cho hành động [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "deTERmines".</li>
+          <li className="list-none">Chức năng: [how the SYStem reSPONDS to seCUrity THREATS] - [Danh Câu][Noun Clause] đóng vai trò làm [Danh Chủ][Noun Subject] quản lý khối thông tin quy trình, điều khiển chính cho hành động [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "deTERmines".</li>
       
         </ul>
 
@@ -507,7 +507,7 @@ export default function Respond(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>The diRECtor exPLAINED [how the TEAM reSPONDS to URgent inQUIRies].</li>
+          <li>the diRECtor exPLAINED [how the TEAM reSPONDS to URgent inQUIRies].</li>
           <li className="margin-bottom-20 list-none">Giám đốc đã giải thích [cách đội ngũ phản hồi các truy vấn khẩn cấp].</li>
       
           <li className="list-none">Hình thái: [how the TEAM reSPONDS to URgent inQUIRies] - [Liên Câu][Conjunctional Clause] chứa thành phần [Liên Cơ][Conjunctional Base] "how" ở đầu, có [Danh Chủ][Noun Subject] "the TEAM" và cụm hành động phối hợp phía sau.</li>
@@ -523,7 +523,7 @@ export default function Respond(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>The SERver [which reSPONDS to USer reQUESTS] was REcently upGRADed.</li>
+          <li>the SERver [which reSPONDS to USer reQUESTS] was REcently upGRADed.</li>
           <li className="margin-bottom-20 list-none">Máy chủ [cái mà phản hồi các yêu cầu của người dùng] gần đây đã được nâng cấp.</li>
       
           <li className="list-none">Hình thái: [which reSPONDS to USer reQUESTS] - [Liên Câu][Conjunctional Clause] chứa thành phần [Liên Cơ][Conjunctional Base] vật thể "which" ở đầu, mang hạt nhân hành động xử lý bối cảnh thuộc trục thời hiện tại.</li>
@@ -539,7 +539,7 @@ export default function Respond(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>The camPAIGN sucCEEDed [because the TEAM reSPONDed to MARket CHANges].</li>
+          <li>the camPAIGN sucCEEDed [because the TEAM reSPONDed to MARket CHANges].</li>
           <li className="margin-bottom-20 list-none">Chiến dịch đã thành công [vì đội ngũ đã phản hồi/thích ứng kịp thời với các thay đổi thị trường].</li>
       
           <li className="list-none">Hình thái: [because the TEAM reSPONDed to MARket CHANges] - [Liên Câu][Conjunctional Clause] kích hoạt ngay sau thành phần [Liên Cơ][Conjunctional Base] nguyên nhân "because", chứa [Danh Chủ][Noun Subject] "the TEAM" và cụm hành động mang dấu mốc trục thời quá khứ.</li>
@@ -558,7 +558,7 @@ export default function Respond(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>They beLIEVE [the TEAM reSPONDed apPROpriately to the WARNing].</li>
+          <li>they beLIEVE [the TEAM reSPONDed apPROpriately to the WARNing].</li>
           <li className="margin-bottom-20 list-none">Họ tin rằng [đội ngũ đã phản hồi/xử lý một cách thích hợp đối với cảnh báo].</li>
       
           <li className="list-none">Hình thái: [the TEAM reSPONDed apPROpriately to the WARNing] - [Ẩn-Liên Câu][Zero-Conjunctional Clause] đã ẩn thành phần [Liên Cơ][Conjunctional Base] định hướng "that", chỉ còn hiển thị trọn vẹn khối [Danh Chủ][Noun Subject] "the TEAM" và cụm hành động phía sau.</li>
@@ -574,12 +574,12 @@ export default function Respond(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>The Email [she reSPONDed to] conTAINED CRUcial inforMAtion.</li>
+          <li>the Email [she reSPONDed to] conTAINED CRUcial inforMAtion.</li>
           <li className="margin-bottom-20 list-none">Email [mà cô ấy đã phản hồi] chứa đựng thông tin quan trọng.</li>
       
           <li className="list-none">Hình thái: [she reSPONDed to] - [Ẩn-Liên Câu][Zero-Conjunctional Clause] đã ẩn thành phần [Liên Cơ][Conjunctional Base] vật thể đứng trước, giữ lại khối [Danh Chủ][Noun Subject] "she" và cụm [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "reSPONDed to".</li>
       
-          <li className="list-none">Chức năng: [she reSPONDed to] - [Tính Câu][Adjective Clause] đóng vai trò như bộ quét đặt ngay sau đối tượng "The Email" để làm rõ đặc điểm cho đối tượng này.</li>
+          <li className="list-none">Chức năng: [she reSPONDed to] - [Tính Câu][Adjective Clause] đóng vai trò như bộ quét đặt ngay sau đối tượng "the Email" để làm rõ đặc điểm cho đối tượng này.</li>
       
         </ul>
       
@@ -590,12 +590,12 @@ export default function Respond(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>[Should the SERver reSPOND SLOWly], reSTART the appliCAtion.</li>
+          <li>[should the SERver reSPOND SLOWly], reSTART the appliCAtion.</li>
           <li className="margin-bottom-20 list-none">[Nếu máy chủ phản hồi chậm], hãy khởi động lại ứng dụng.</li>
       
-          <li className="list-none">Hình thái: [Should the SERver reSPOND SLOWly] - [Ẩn-Liên Câu][Zero-Conjunctional Clause] vận hành ở trạng thái ẩn thành phần [Liên Cơ][Conjunctional Base] điều kiện "if" bằng giải pháp đảo [Áp-Thái Động Cơ][Assertive-Modal Verb Base] "Should" lên trước, tuy thiết lập bề mặt biến đổi nhưng bản chất vẫn giữ trọn vẹn [Danh Chủ][Noun Subject] "the SERver" và [Thuần Động Cụm][Bare Verb Phrase] "reSPOND SLOWly".</li>
+          <li className="list-none">Hình thái: [should the SERver reSPOND SLOWly] - [Ẩn-Liên Câu][Zero-Conjunctional Clause] vận hành ở trạng thái ẩn thành phần [Liên Cơ][Conjunctional Base] điều kiện "if" bằng giải pháp đảo [Áp-Thái Động Cơ][Assertive-Modal Verb Base] "Should" lên trước, tuy thiết lập bề mặt biến đổi nhưng bản chất vẫn giữ trọn vẹn [Danh Chủ][Noun Subject] "the SERver" và [Thuần Động Cụm][Bare Verb Phrase] "reSPOND SLOWly".</li>
       
-          <li className="list-none">Chức năng: [Should the SERver reSPOND SLOWly] - [Trạng Câu][Adverb Clause] đảm nhận nhiệm vụ thiết lập khối bối cảnh giả định/điều kiện, bổ nghĩa cho hành động và câu lệnh phía sau.</li>
+          <li className="list-none">Chức năng: [should the SERver reSPOND SLOWly] - [Trạng Câu][Adverb Clause] đảm nhận nhiệm vụ thiết lập khối bối cảnh giả định/điều kiện, bổ nghĩa cho hành động và câu lệnh phía sau.</li>
       
         </ul>
 
@@ -643,7 +643,7 @@ export default function Respond(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>The MANager sugGESTed [inVESTigating {'{why the TEAM reSPONDed POORly to the FEEDback}'}].</li>
+          <li>the MANager sugGESTed [inVESTigating {'{why the TEAM reSPONDed POORly to the FEEDback}'}].</li>
           <li className="margin-bottom-20 list-none">Người quản lý đã gợi ý [việc điều tra {'{lý do tại sao đội ngũ lại phản hồi kém trước những ý kiến đóng góp}'}].</li>
       
         </ul>
@@ -707,7 +707,7 @@ export default function Respond(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>The COMpany PLANS [to ANalyze {'{how USers reSPOND to NEW INterface deSIGNS}'}].</li>
+          <li>the COMpany PLANS [to ANalyze {'{how USers reSPOND to NEW INterface deSIGNS}'}].</li>
           <li className="margin-bottom-20 list-none">Công ty có kế hoạch [phân tích {'{cách người dùng phản hồi với các thiết kế giao diện mới}'}].</li>
       
         </ul>
@@ -739,7 +739,7 @@ export default function Respond(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>It reQUIRES experTISE [to eVALuate {'{how the appliCAtion reSPONDS to HIGH TRAFfic}'}].</li>
+          <li>it reQUIRES experTISE [to eVALuate {'{how the appliCAtion reSPONDS to HIGH TRAFfic}'}].</li>
           <li className="margin-bottom-20 list-none">Nó đòi hỏi chuyên môn [để đánh giá {'{cách ứng dụng phản hồi đối với lưu lượng truy cập cao}'}].</li>
       
         </ul>
@@ -772,7 +772,7 @@ export default function Respond(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>The BOARD reVIEWED rePORTS [regarding {'{how the organiZAtion reSPONDS to MARket CRIses}'}].</li>
+          <li>the BOARD reVIEWED rePORTS [regarding {'{how the organiZAtion reSPONDS to MARket CRIses}'}].</li>
           <li className="margin-bottom-20 list-none">Hội đồng đã xem xét các báo cáo [liên quan đến {'{cách tổ chức ứng phó/phản hồi với các khủng hoảng thị trường}'}].</li>
       
         </ul>
@@ -804,7 +804,7 @@ export default function Respond(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>The deBATE FOcused [on {'{why the GOVernment reSPONDed SLOWly to the eMERgency}'}].</li>
+          <li>the deBATE FOcused [on {'{why the GOVernment reSPONDed SLOWly to the eMERgency}'}].</li>
           <li className="margin-bottom-20 list-none">Cuộc tranh luận đã tập trung [vào {'{lý do tại sao chính phủ lại phản ứng chậm trễ trước tình trạng khẩn cấp}'}].</li>
       
         </ul>
@@ -869,7 +869,7 @@ export default function Respond(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>The COMpany imPROVED satisFACtion [by reSPONDing QUICKly to supPORT TICKets].</li>
+          <li>the COMpany imPROVED satisFACtion [by reSPONDing QUICKly to supPORT TICKets].</li>
           <li className="margin-bottom-20 list-none">Công ty đã cải thiện sự hài lòng [bằng cách phản hồi nhanh chóng các phiếu hỗ trợ].</li>
       
           <li className="list-none">Hình thái gốc: [by reSPONDing QUICKly to supPORT TICKets] - [Giới Cụm][Prepositional Phrase] hiển thị dưới dạng một vùng mã chứa [Giới Cơ][Prepositional Base] phương thức "by" đi kèm cụm hành động phía sau.</li>
@@ -883,7 +883,7 @@ export default function Respond(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>The COMpany imPROVED satisFACtion [because the TEAM reSPONDED QUICKly to supPORT TICKets].</li>
+          <li>the COMpany imPROVED satisFACtion [because the TEAM reSPONDED QUICKly to supPORT TICKets].</li>
           <li className="margin-bottom-20 list-none">Công ty đã cải thiện sự hài lòng [vì đội ngũ đã phản hồi nhanh chóng các phiếu hỗ trợ].</li>
       
           <li className="list-none">Hình thái mới: [because the TEAM reSPONDED QUICKly to supPORT TICKets] - [Liên Câu][Conjunctional Clause] hiển thị dưới dạng khối mã chứa đầy đủ [Danh Chủ][Noun Subject] "the team" và cụm hành động đi sau thành phần [Liên Cơ][Conjunctional Base] "because".</li>
@@ -897,7 +897,7 @@ export default function Respond(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>The FIRM HIRED a SERvice [which reSPONDS to SYStem ISsues autoMATically].</li>
+          <li>the FIRM HIRED a SERvice [which reSPONDS to SYStem ISsues autoMATically].</li>
           <li className="margin-bottom-20 list-none">Công ty đã thuê một dịch vụ [cái mà phản hồi các sự cố hệ thống một cách tự động].</li>
       
           <li className="list-none">Hình thái gốc: [which reSPONDS to SYStem ISsues autoMATically] - [Liên Câu][Conjunctional Clause] thiết lập theo dạng phân hệ hệ con đầy đủ bổ nghĩa đứng sau một khối tên gọi, chứa thành phần [Liên Cơ][Conjunctional Base] "which" và cụm hành động phía sau.</li>
@@ -911,7 +911,7 @@ export default function Respond(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>The FIRM HIRED a [reSPONsive] SERvice.</li>
+          <li>the FIRM HIRED a [reSPONsive] SERvice.</li>
           <li className="margin-bottom-20 list-none">Công ty đã thuê một dịch vụ [có độ phản hồi nhanh nhạy/linh hoạt].</li>
       
           <li className="list-none">Hình thái mới: [reSPONsive] - [Diện Tính Cơ][Modified Adjective Base] hình thành từ khối [Rễ Động Cơ][Root Verb Base] nguyên bản "reSPOND" kết hợp đuôi "-ive" để thay đổi diện mạo bên ngoài thành một khối cấp độ [Cơ][Base] có khả năng mô tả đặc điểm, thu gọn hoàn toàn dưới dạng một thành phần mô tả đặc điểm đơn duy nhất đứng trước đối tượng.</li>
@@ -927,7 +927,7 @@ export default function Respond(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>The SYStem reSTARted [for a FULL resPONSE to the seCUrity PATCH].</li>
+          <li>the SYStem reSTARted [for a FULL resPONSE to the seCUrity PATCH].</li>
           <li className="margin-bottom-20 list-none">Hệ thống đã khởi động lại [phục vụ cho một phản ứng trọn vẹn với bản vá bảo mật].</li>
       
           <li className="list-none">Hình thái gốc: [for a FULL resPONSE to the seCUrity PATCH] - [Giới Cụm][Prepositional Phrase] bắt đầu bằng [Giới Cơ][Prepositional Base] chỉ lý do / bối cảnh "for" để kéo theo khối [Danh Nhận][Noun Object] phía sau.</li>
@@ -941,7 +941,7 @@ export default function Respond(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>The SYStem reSTARted [in resPONSE to the seCUrity PATCH].</li>
+          <li>the SYStem reSTARted [in resPONSE to the seCUrity PATCH].</li>
           <li className="margin-bottom-20 list-none">Hệ thống đã khởi động lại [để ứng phó/phản hồi với bản vá bảo mật].</li>
       
           <li className="list-none">Hình thái mới: [in resPONSE to the seCUrity PATCH] - [Phức Giới Cụm][Complex Prepositional Phrase] mới, bắt đầu bằng [Phức Giới Cơ][Complex Prepositional Base] "in resPONSE to" được đưa vào thế chỗ.</li>

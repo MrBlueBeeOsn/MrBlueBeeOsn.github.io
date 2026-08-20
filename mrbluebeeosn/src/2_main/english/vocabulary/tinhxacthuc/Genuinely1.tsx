@@ -61,10 +61,10 @@ export default function (): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>She GENuinely CARES about her FRIENDS.</li>
+          <li>she GENuinely CARES about her FRIENDS.</li>
           <li className="margin-bottom-20 list-none">Cô ấy thực sự quan tâm đến bạn bè của mình.</li>
 
-          <li>He was GENuinely surPRISED by the GIFT.</li>
+          <li>he was GENuinely surPRISED by the GIFT.</li>
           <li className="list-none">Anh ấy thực sự ngạc nhiên bởi món quà.</li>
 
         </ul>
@@ -81,10 +81,10 @@ export default function (): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>He HAS a GENuine INterest in ART.</li>
+          <li>he HAS a GENuine INterest in ART.</li>
           <li className="margin-bottom-20 list-none">Anh ấy có một sự quan tâm chân thành đến nghệ thuật.</li>
 
-          <li>The WIND TURbine GENerates elecTRICity.</li>
+          <li>the WIND TURbine GENerates elecTRICity.</li>
           <li className="list-none">Tuabin gió tạo ra điện.</li>
 
         </ul>
@@ -101,10 +101,10 @@ export default function (): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>She THANKED him sinCEREly for his HELP.</li>
+          <li>she THANKED him sinCEREly for his HELP.</li>
           <li className="margin-bottom-20 list-none">Cô ấy chân thành cảm ơn anh ấy vì sự giúp đỡ.</li>
 
-          <li>I <Link to="/vocabulary/TRUly-1">TRUly</Link> beLIEVE in what he SAID.</li>
+          <li>i <Link to="/vocabulary/TRUly-1">TRUly</Link> beLIEVE in what he SAID.</li>
           <li className="list-none">Tôi thực sự tin vào những gì anh ấy nói.</li>
 
         </ul>
@@ -123,10 +123,10 @@ export default function (): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>He SMILED insinCEREly.</li>
+          <li>he SMILED insinCEREly.</li>
           <li className="margin-bottom-20 list-none">Anh ấy cười một cách không chân thành.</li>
 
-          <li>He SPOKE hypoCRITically about HONEsty.</li>
+          <li>he SPOKE hypoCRITically about HONEsty.</li>
           <li className="list-none">Anh ta nói về sự trung thực một cách đạo đức giả.</li>
 
         </ul>
@@ -152,7 +152,7 @@ export default function (): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>He is GENuinely GRATEful for the THOUGHTful PREsent.</li>
+          <li>he is GENuinely GRATEful for the THOUGHTful PREsent.</li>
           <li className="list-none">Anh ấy thực sự biết ơn món quà chu đáo này.</li>
 
         </ul>
@@ -172,7 +172,7 @@ export default function (): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>He GENuinely enJOYS SPENding TIME with his FAMily.</li>
+          <li>he GENuinely enJOYS SPENding TIME with his FAMily.</li>
           <li className="list-none">Anh ấy thực sự thích dành thời gian cùng gia đình.</li>
 
         </ul>
@@ -194,10 +194,10 @@ export default function (): React.JSX.Element {
 
           <ol>
 
-            <li>He SAID he LIKED my PAINting.</li>
+            <li>he SAID he LIKED my PAINting.</li>
             <li className="list-none margin-bottom-20">Anh ấy nói rằng anh ấy thích bức tranh của tôi.</li>
 
-            <li value="2">He GENuinely adMIREd my PAINting.</li>
+            <li value="2">he GENuinely adMIREd my PAINting.</li>
             <li className="list-none margin-bottom-20">Anh ấy thực sự ngưỡng mộ bức tranh của tôi.</li>
 
           </ol>

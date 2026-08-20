@@ -60,34 +60,34 @@ export default function GRADually2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1">The TEMperature GRADually inCREASED throughout the DAY.</li>
+        <li value="1">the TEMperature GRADually inCREASED throughout the DAY.</li>
         <li className="list-none margin-bottom-20">Nhiệt độ tăng dần suốt cả ngày.</li>
 
-        <li value="2">The NOISE GRADually deCREASED as we MOVED FARther aWAY.</li>
+        <li value="2">the NOISE GRADually deCREASED as we MOVED FARther aWAY.</li>
         <li className="list-none margin-bottom-20">Tiếng ồn giảm dần khi chúng tôi đi xa hơn.</li>
 
-        <li value="3">She GRADually reCOVered from her ILLness.</li>
+        <li value="3">she GRADually reCOVered from her ILLness.</li>
         <li className="list-none margin-bottom-20">Cô ấy dần dần hồi phục sức khỏe sau khi ốm.</li>
 
-        <li value="4">The CLImate GRADually CHANGED over MILlions of YEARS.</li>
+        <li value="4">the CLImate GRADually CHANGED over MILlions of YEARS.</li>
         <li className="list-none margin-bottom-20">Khí hậu thay đổi dần trong hàng triệu năm.</li>
 
-        <li value="5">His ENGlish GRADually imPROVED after STUDying for a YEAR.</li>
+        <li value="5">his ENGlish GRADually imPROVED after STUDying for a YEAR.</li>
         <li className="list-none margin-bottom-20">Tiếng Anh của anh ấy cải thiện dần sau khi học một năm.</li>
 
-        <li value="6">The SUNlight GRADually FADed as the DAY TURNED into NIGHT.</li>
+        <li value="6">the SUNlight GRADually FADed as the DAY TURNED into NIGHT.</li>
         <li className="list-none margin-bottom-20">Ánh nắng mặt trời dần dần mờ nhạt khi ngày chuyển sang đêm.</li>
 
-        <li value="7">The PAIN GRADually disapPEARED after TAKing the MEDicine.</li>
+        <li value="7">the PAIN GRADually disapPEARED after TAKing the MEDicine.</li>
         <li className="list-none margin-bottom-20">Cơn đau dần dần biến mất sau khi uống thuốc.</li>
 
-        <li value="8">The CIty GRADually deVELoped into a MAjor meTROPolis.</li>
+        <li value="8">the CIty GRADually deVELoped into a MAjor meTROPolis.</li>
         <li className="list-none margin-bottom-20">Thành phố dần dần phát triển thành một đô thị lớn.</li>
 
-        <li value="9">She GRADually aDAPTed to the NEW enVIronment.</li>
+        <li value="9">she GRADually aDAPTed to the NEW enVIronment.</li>
         <li className="list-none margin-bottom-20">Cô ấy dần dần thích nghi với môi trường mới.</li>
 
-        <li value="10">His HEALTH GRADually deCLINED after the ACcident.</li>
+        <li value="10">his HEALTH GRADually deCLINED after the ACcident.</li>
         <li className="list-none margin-bottom-20">Sức khỏe của ông ấy dần dần suy giảm sau tai nạn.</li>
 
       </ol>

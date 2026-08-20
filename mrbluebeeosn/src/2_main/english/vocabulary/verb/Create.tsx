@@ -36,7 +36,7 @@ export default function Create(): React.JSX.Element {
 
             <ul className="list-square">
           
-              <li>The TEAM should [creATE] a NEW MARketing STRATegy imMEdiately.</li>
+              <li>the TEAM should [creATE] a NEW MARketing STRATegy imMEdiately.</li>
               <li className="margin-bottom-20 list-none">Đội ngũ nên [tạo ra] một chiến lược tiếp thị mới ngay lập tức.</li>
 
               <li className="list-none">Hình thái: [creATE] - [Thuần Động Cơ][Bare Verb Base] hình thành từ khối [Rễ Động Cơ][Root Verb Base] nguyên bản "create" đứng sau chịu tác động từ [Ý-Thái Động Cơ][Soft-Modal Verb Base] "should" để thực thi hành động hướng tới đối tượng tiếp nhận trực tiếp "a NEW MARketing STRATegy".</li>
@@ -146,7 +146,7 @@ export default function Create(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>The arTIStic [creAtion] from the LOcal deSIGner imPRESSED the AUdience.</li>
+          <li>the arTIStic [creAtion] from the LOcal deSIGner imPRESSED the AUdience.</li>
           <li className="margin-bottom-20 list-none">Tác phẩm [sáng tạo] từ nhà thiết kế địa phương đã làm ấn tượng khán giả.</li>
       
           <li className="list-none">Hình thái: [creAtion] - [Diện Danh Cơ][Modified Noun Base] hình thành từ khối [Rễ Động Cơ][Root Verb Base] nguyên bản "creATE" biến đổi cấu trúc đuôi "-tion" để thay đổi diện mạo bên ngoài thành một khối cấp độ [Cơ][Base] có khả năng định danh thực thể độc lập.</li>
@@ -178,7 +178,7 @@ export default function Create(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>The ARtist SOLVED the PROBlem [creAtively] during the PROject.</li>
+          <li>the ARtist SOLVED the PROBlem [creAtively] during the PROject.</li>
           <li className="margin-bottom-20 list-none">Nghệ sĩ đã giải quyết vấn đề [một cách sáng tạo] trong suốt dự án.</li>
       
           <li className="list-none">Hình thái: [creAtively] - [Diện Trạng Cơ][Modified Adverb Base] hình thành từ khối [Rễ Động Cơ][Root Verb Base] nguyên bản "creATE" qua biến thể mô tả đặc điểm và thêm hậu tố "-ly" để thay đổi diện mạo bên ngoài thành một khối cấp độ [Cơ][Base] có khả năng bổ trợ bối cảnh phương thức.</li>
@@ -215,7 +215,7 @@ export default function Create(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>The STARtup TEAM priORitized [creAting enGAging User CONtent].</li>
+          <li>the STARtup TEAM priORitized [creAting enGAging User CONtent].</li>
           <li className="margin-bottom-20 list-none">Đội ngũ khởi nghiệp đã ưu tiên [việc tạo ra nội dung thu hút người dùng].</li>
       
           <li className="list-none">Hình thái: [creAting enGAging User CONtent] - [Tiếp Động Cụm][Progressive Verb Phrase] hình thành từ [Tiếp Động Cơ][Progressive Verb Base] "creAting" tích hợp thêm vùng dữ liệu mở rộng phía sau.</li>
@@ -247,7 +247,7 @@ export default function Create(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>The COMpany AIMS [to creATE INnovative PROducts for conSUmers].</li>
+          <li>the COMpany AIMS [to creATE INnovative PROducts for conSUmers].</li>
           <li className="margin-bottom-20 list-none">Công ty hướng tới [việc tạo ra các sản phẩm đổi mới cho người tiêu dùng].</li>
       
           <li className="list-none">Hình thái: [to creATE INnovative PROducts for conSUmers] - [Hạt Thuần Động Cụm][Particle Bare Verb Phrase] phát triển từ cụm [Hạt Thuần Động Cơ][Particle Bare Verb Base] "to creATE" tích hợp thêm vùng dữ liệu mở rộng phía sau.</li>
@@ -263,7 +263,7 @@ export default function Create(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>It is esSENtial [to creATE STRONG seCUrity PROtocols].</li>
+          <li>it is esSENtial [to creATE STRONG seCUrity PROtocols].</li>
           <li className="margin-bottom-20 list-none">Việc [tạo ra các giao thức bảo mật mạnh mẽ] là điều thiết yếu.</li>
       
           <li className="list-none">Hình thái: [to creATE STRONG seCUrity PROtocols] - [Hạt Thuần Động Cụm][Particle Bare Verb Phrase] phát triển từ cụm [Hạt Thuần Động Cơ][Particle Bare Verb Base] "to creATE" tích hợp thêm vùng dữ liệu mở rộng phía sau.</li>
@@ -282,7 +282,7 @@ export default function Create(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>The engiNEER [creAting the CORE SOFTware] FOUND an efFIcient MEthod.</li>
+          <li>the engiNEER [creAting the CORE SOFTware] FOUND an efFIcient MEthod.</li>
           <li className="margin-bottom-20 list-none">Kỹ sư [đang tạo ra phần mềm cốt lõi] đã tìm ra một phương pháp hiệu quả.</li>
       
           <li className="list-none">Hình thái: [creAting the CORE SOFTware] - [Tiếp Động Cụm][Progressive Verb Phrase] phát triển từ [Tiếp Động Cơ][Progressive Verb Base] "creAting" tích hợp thêm vùng dữ liệu mở rộng biểu thị tính chủ động đang xảy ra.</li>
@@ -299,7 +299,7 @@ export default function Create(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>The ARchitect [to creATE the BUILDing BLUEprints] has been apPOINted.</li>
+          <li>the ARchitect [to creATE the BUILDing BLUEprints] has been apPOINted.</li>
           <li className="margin-bottom-20 list-none">Kiến trúc sư [sắp sửa tạo ra bản thiết kế tòa nhà] đã được bổ nhiệm.</li>
       
           <li className="list-none">Hình thái: [to creATE the BUILDing BLUEprints] - [Hạt Thuần Động Cụm][Particle Bare Verb Phrase] phát triển từ cụm [Hạt Thuần Động Cơ][Particle Bare Verb Base] "to creATE" tích hợp thêm vùng dữ liệu mở rộng phía sau.</li>
@@ -315,7 +315,7 @@ export default function Create(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>The ARTwork [to be creAted by the MASter] will be exHIBited toMORrow.</li>
+          <li>the ARTwork [to be creAted by the MASter] will be exHIBited toMORrow.</li>
           <li className="margin-bottom-20 list-none">Tác phẩm nghệ thuật [sắp sửa được tạo ra bởi bậc thầy] sẽ được triển lãm vào ngày mai.</li>
       
           <li className="list-none">Hình thái: [to be creAted by the MASter] - [Hạt Thuần Hoàn Động Cụm][Particle Bare Perfect Verb Phrase] bắt đầu bằng [Hạt Động Cơ][Particle Verb Base] "to" kéo theo vùng bổ trợ phía sau chứa [Thuần Động Cơ][Bare Verb Base] "be" và [Hoàn Động Cơ][Perfect Verb Base] "creAted" để biểu thị trạng thái bị động tương lai.</li>
@@ -331,7 +331,7 @@ export default function Create(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>The SYStem [creAted by the TECH TEAM] was LAUNCHED YESterday.</li>
+          <li>the SYStem [creAted by the TECH TEAM] was LAUNCHED YESterday.</li>
           <li className="margin-bottom-20 list-none">Hệ thống [đã được tạo ra bởi đội ngũ công nghệ] đã được ra mắt ngày hôm qua.</li>
       
           <li className="list-none">Hình thái: [creAted by the TECH TEAM] - [Hoàn Động Cụm][Perfect Verb Phrase] phát triển từ [Hoàn Động Cơ][Perfect Verb Base] "creAted" kết hợp mở rộng ở dạng bị động thuộc trục thời quá khứ.</li>
@@ -347,7 +347,7 @@ export default function Create(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>They NEED a STRATegy [creAtive in its exeCUtion].</li>
+          <li>they NEED a STRATegy [creAtive in its exeCUtion].</li>
           <li className="margin-bottom-20 list-none">Họ cần một chiến lược [sáng tạo trong cách thức thực thi].</li>
       
           <li className="list-none">Hình thái: [creAtive in its exeCUtion] - [Diện Tính Cụm][Modified Adjective Phrase] hình thành từ khối [Rễ Động Cơ][Root Verb Base] nguyên bản "creATE" qua việc thêm hậu tố "-ive" và kết hợp mở rộng với một [Giới Cụm][Prepositional Phrase] phía sau.</li>
@@ -382,7 +382,7 @@ export default function Create(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>The Agency ALlocated REsources [creAting CUStom SOFTware TOOLS].</li>
+          <li>the Agency ALlocated REsources [creAting CUStom SOFTware TOOLS].</li>
           <li className="margin-bottom-20 list-none">Cơ quan đã phân bổ các nguồn lực [với mục đích tạo ra các công cụ phần mềm tùy chỉnh].</li>
       
           <li className="list-none">Hình thái: [creAting CUStom SOFTware TOOLS] - [Tiếp Động Cụm][Progressive Verb Phrase] phát triển từ [Tiếp Động Cơ][Progressive Verb Base] "creAting" kết hợp mở rộng đứng ở phần sau câu nhằm làm rõ tiến trình nội dung.</li>
@@ -414,7 +414,7 @@ export default function Create(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>The deSIGner STAYED LATE [to creATE the FInal PROtotype].</li>
+          <li>the deSIGner STAYED LATE [to creATE the FInal PROtotype].</li>
           <li className="margin-bottom-20 list-none">Nhà thiết kế đã ở lại muộn [để tạo ra mẫu nguyên mẫu cuối cùng].</li>
       
           <li className="list-none">Hình thái: [to creATE the FInal PROtotype] - [Hạt Thuần Động Cụm][Particle Bare Verb Phrase] phát triển từ cụm [Hạt Thuần Động Cơ][Particle Bare Verb Base] "to creATE" kết hợp mở rộng đứng cuối chuỗi thông tin.</li>
@@ -433,7 +433,7 @@ export default function Create(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>The deLAY [in the creAtion of the NEW PORtal] RAISED SEVeral conCERNS.</li>
+          <li>the deLAY [in the creAtion of the NEW PORtal] RAISED SEVeral conCERNS.</li>
           <li className="margin-bottom-20 list-none">Sự chậm trễ [trong việc tạo ra cổng thông tin mới] đã dấy lên nhiều lo ngại.</li>
       
           <li className="list-none">Hình thái: [in the creAtion of the NEW PORtal] - [Giới Cụm][Prepositional Phrase] xuất hiện dưới dạng một vùng mã định vị không chứa hạt nhân hành động, bắt đầu bằng [Giới Cơ][Prepositional Base] "in".</li>
@@ -467,7 +467,7 @@ export default function Create(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>The TEAM GAthered [for the creAtion of a NEW PROject PLAN].</li>
+          <li>the TEAM GAthered [for the creAtion of a NEW PROject PLAN].</li>
           <li className="margin-bottom-20 list-none">Đội ngũ đã tập hợp [phục vụ cho việc tạo ra một kế hoạch dự án mới].</li>
       
           <li className="list-none">Hình thái: [for the creAtion of a NEW PROject PLAN] - [Giới Cụm][Prepositional Phrase] xuất hiện dưới dạng một vùng mã xác lập lý do / bối cảnh, bắt đầu bằng [Giới Cơ][Prepositional Base] "for".</li>
@@ -490,12 +490,12 @@ export default function Create(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>[How the ARtist creATES uNIQUE SCULPtures] FAScinates the AUdience.</li>
+          <li>[how the ARtist creATES uNIQUE SCULPtures] FAScinates the AUdience.</li>
           <li className="margin-bottom-20 list-none">[Cách người nghệ sĩ tạo ra các bức tượng điêu khắc độc đáo] cuốn hút khán giả.</li>
       
-          <li className="list-none">Hình thái: [How the ARtist creATES uNIQUE SCULPtures] - [Liên Câu][Conjunctional Clause] chứa thành phần [Liên Cơ][Conjunctional Base] "How" ở đầu, mang [Danh Chủ][Noun Subject] riêng "the ARtist" và cụm hành động phối hợp phía sau.</li>
+          <li className="list-none">Hình thái: [how the ARtist creATES uNIQUE SCULPtures] - [Liên Câu][Conjunctional Clause] chứa thành phần [Liên Cơ][Conjunctional Base] "How" ở đầu, mang [Danh Chủ][Noun Subject] riêng "the ARtist" và cụm hành động phối hợp phía sau.</li>
       
-          <li className="list-none">Chức năng: [How the ARtist creATES uNIQUE SCULPtures] - [Danh Câu][Noun Clause] đóng vai trò làm [Danh Chủ][Noun Subject] quản lý khối thông tin quy trình, điều khiển chính cho hành động [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "FAScinates".</li>
+          <li className="list-none">Chức năng: [how the ARtist creATES uNIQUE SCULPtures] - [Danh Câu][Noun Clause] đóng vai trò làm [Danh Chủ][Noun Subject] quản lý khối thông tin quy trình, điều khiển chính cho hành động [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "FAScinates".</li>
       
         </ul>
 
@@ -507,7 +507,7 @@ export default function Create(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>The diRECtor exPLAINED [how the TEAM creATES efFECtive adVERtisements].</li>
+          <li>the diRECtor exPLAINED [how the TEAM creATES efFECtive adVERtisements].</li>
           <li className="margin-bottom-20 list-none">Giám đốc đã giải thích [cách đội ngũ tạo ra các quảng cáo hiệu quả].</li>
       
           <li className="list-none">Hình thái: [how the TEAM creATES efFECtive adVERtisements] - [Liên Câu][Conjunctional Clause] chứa thành phần [Liên Cơ][Conjunctional Base] "how" ở đầu, có [Danh Chủ][Noun Subject] "the TEAM" và cụm hành động phối hợp phía sau.</li>
@@ -523,7 +523,7 @@ export default function Create(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>The ENgine [which creATES SOlar ENergy] was REcently inSTALLED.</li>
+          <li>the ENgine [which creATES SOlar ENergy] was REcently inSTALLED.</li>
           <li className="margin-bottom-20 list-none">Động cơ [cái mà tạo ra năng lượng mặt trời] gần đây đã được lắp đặt.</li>
       
           <li className="list-none">Hình thái: [which creATES SOlar ENergy] - [Liên Câu][Conjunctional Clause] chứa thành phần [Liên Cơ][Conjunctional Base] vật thể "which" ở đầu, mang hạt nhân hành động xử lý bối cảnh thuộc trục thời hiện tại.</li>
@@ -539,7 +539,7 @@ export default function Create(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>The VENture sucCEEded [because the FOUNder creAted a CLEAR VIsion].</li>
+          <li>the VENture sucCEEded [because the FOUNder creAted a CLEAR VIsion].</li>
           <li className="margin-bottom-20 list-none">Dự án đã thành công [vì nhà sáng lập đã tạo ra một tầm nhìn rõ ràng].</li>
       
           <li className="list-none">Hình thái: [because the FOUNder creAted a CLEAR VIsion] - [Liên Câu][Conjunctional Clause] kích hoạt ngay sau thành phần [Liên Cơ][Conjunctional Base] nguyên nhân "because", chứa [Danh Chủ][Noun Subject] "the FOUNder" và cụm hành động mang dấu mốc trục thời quá khứ.</li>
@@ -558,7 +558,7 @@ export default function Create(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>They beLIEVE [the Agency creAted a reLIable SYStem].</li>
+          <li>they beLIEVE [the Agency creAted a reLIable SYStem].</li>
           <li className="margin-bottom-20 list-none">Họ tin rằng [cơ quan đã tạo ra một hệ thống đáng tin cậy].</li>
       
           <li className="list-none">Hình thái: [the Agency creAted a reLIable SYStem] - [Ẩn-Liên Câu][Zero-Conjunctional Clause] đã ẩn thành phần [Liên Cơ][Conjunctional Base] định hướng "that", chỉ còn hiển thị trọn vẹn khối [Danh Chủ][Noun Subject] "the Agency" và cụm hành động phía sau.</li>
@@ -574,12 +574,12 @@ export default function Create(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>The deSIGN [she creAted for the CLIent] WON a presTIgious aWARD.</li>
+          <li>the deSIGN [she creAted for the CLIent] WON a presTIgious aWARD.</li>
           <li className="margin-bottom-20 list-none">Mẫu thiết kế [mà cô ấy đã tạo ra cho khách hàng] đã giành một giải thưởng uy tín.</li>
       
           <li className="list-none">Hình thái: [she creAted for the CLIent] - [Ẩn-Liên Câu][Zero-Conjunctional Clause] đã ẩn thành phần [Liên Cơ][Conjunctional Base] vật thể đứng trước, giữ lại khối [Danh Chủ][Noun Subject] "she" và cụm [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "creAted for the CLIent".</li>
       
-          <li className="list-none">Chức năng: [she creAted for the CLIent] - [Tính Câu][Adjective Clause] đóng vai trò như bộ quét đặt ngay sau đối tượng "The deSIGN" để làm rõ đặc điểm cho đối tượng này.</li>
+          <li className="list-none">Chức năng: [she creAted for the CLIent] - [Tính Câu][Adjective Clause] đóng vai trò như bộ quét đặt ngay sau đối tượng "the deSIGN" để làm rõ đặc điểm cho đối tượng này.</li>
       
         </ul>
       
@@ -590,12 +590,12 @@ export default function Create(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>[Should the PROgram creATE TECHnical ERrors], aLERT the SYStem adMINistrator.</li>
+          <li>[should the PROgram creATE TECHnical ERrors], aLERT the SYStem adMINistrator.</li>
           <li className="margin-bottom-20 list-none">[Nếu chương trình tạo ra các lỗi kỹ thuật], hãy báo cho quản trị viên hệ thống.</li>
       
-          <li className="list-none">Hình thái: [Should the PROgram creATE TECHnical ERrors] - [Ẩn-Liên Câu][Zero-Conjunctional Clause] vận hành ở trạng thái ẩn thành phần [Liên Cơ][Conjunctional Base] điều kiện "if" bằng giải pháp đảo [Áp-Thái Động Cơ][Assertive-Modal Verb Base] "Should" lên trước, tuy thiết lập bề mặt biến đổi nhưng bản chất vẫn giữ trọn vẹn [Danh Chủ][Noun Subject] "the PROgram" và [Thuần Động Cụm][Bare Verb Phrase] "creATE TECHnical ERrors".</li>
+          <li className="list-none">Hình thái: [should the PROgram creATE TECHnical ERrors] - [Ẩn-Liên Câu][Zero-Conjunctional Clause] vận hành ở trạng thái ẩn thành phần [Liên Cơ][Conjunctional Base] điều kiện "if" bằng giải pháp đảo [Áp-Thái Động Cơ][Assertive-Modal Verb Base] "Should" lên trước, tuy thiết lập bề mặt biến đổi nhưng bản chất vẫn giữ trọn vẹn [Danh Chủ][Noun Subject] "the PROgram" và [Thuần Động Cụm][Bare Verb Phrase] "creATE TECHnical ERrors".</li>
       
-          <li className="list-none">Chức năng: [Should the PROgram creATE TECHnical ERrors] - [Trạng Câu][Adverb Clause] đảm nhận nhiệm vụ thiết lập khối bối cảnh giả định/điều kiện, bổ nghĩa cho hành động và câu lệnh phía sau.</li>
+          <li className="list-none">Chức năng: [should the PROgram creATE TECHnical ERrors] - [Trạng Câu][Adverb Clause] đảm nhận nhiệm vụ thiết lập khối bối cảnh giả định/điều kiện, bổ nghĩa cho hành động và câu lệnh phía sau.</li>
       
         </ul>
 
@@ -643,7 +643,7 @@ export default function Create(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>The MANager sugGESted [exPLORing {'{why the TEAM creAted outDAted deSIGNS}'}].</li>
+          <li>the MANager sugGESted [exPLORing {'{why the TEAM creAted outDAted deSIGNS}'}].</li>
           <li className="margin-bottom-20 list-none">Người quản lý đã gợi ý [việc tìm hiểu {'{lý do tại sao đội ngũ lại tạo ra các thiết kế lỗi thời}'}].</li>
       
         </ul>
@@ -707,7 +707,7 @@ export default function Create(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>The FIRM PLANS [to STUdy {'{how Users creATE PERsonal PROfiles}'}].</li>
+          <li>the FIRM PLANS [to STUdy {'{how Users creATE PERsonal PROfiles}'}].</li>
           <li className="margin-bottom-20 list-none">Công ty có kế hoạch [nghiên cứu {'{cách người dùng tạo ra các hồ sơ cá nhân}'}].</li>
       
         </ul>
@@ -739,7 +739,7 @@ export default function Create(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>It TAKES experTISE [to eVAluate {'{how the appliCAtion creATES User LOGS}'}].</li>
+          <li>it TAKES experTISE [to eVAluate {'{how the appliCAtion creATES User LOGS}'}].</li>
           <li className="margin-bottom-20 list-none">Nó đòi hỏi chuyên môn [để đánh giá {'{cách ứng dụng tạo ra các nhật ký người dùng}'}].</li>
       
         </ul>
@@ -772,7 +772,7 @@ export default function Create(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>The BOARD reVIEWED proPOsals [regarding {'{how the TEAM creATES NEW MARketing CHANnels}'}].</li>
+          <li>the BOARD reVIEWED proPOsals [regarding {'{how the TEAM creATES NEW MARketing CHANnels}'}].</li>
           <li className="margin-bottom-20 list-none">Hội đồng đã xem xét các đề xuất [liên quan đến {'{cách đội ngũ tạo ra các kênh tiếp thị mới}'}].</li>
       
         </ul>
@@ -804,7 +804,7 @@ export default function Create(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>The MEEting FOcused [on {'{why the deSIGner creAted COMplex LAYouts}'}].</li>
+          <li>the MEEting FOcused [on {'{why the deSIGner creAted COMplex LAYouts}'}].</li>
           <li className="margin-bottom-20 list-none">Cuộc họp đã tập trung [vào {'{lý do tại sao nhà thiết kế lại tạo ra các bố cục phức tạp}'}].</li>
       
         </ul>
@@ -869,7 +869,7 @@ export default function Create(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>The COMpany BOOSted VAlue [by creAting uNIQUE PROducts].</li>
+          <li>the COMpany BOOSted VAlue [by creAting uNIQUE PROducts].</li>
           <li className="margin-bottom-20 list-none">Công ty đã gia tăng giá trị [bằng cách tạo ra các sản phẩm độc đáo].</li>
       
           <li className="list-none">Hình thái gốc: [by creAting uNIQUE PROducts] - [Giới Cụm][Prepositional Phrase] hiển thị dưới dạng một vùng mã chứa [Giới Cơ][Prepositional Base] phương thức "by" đi kèm cụm hành động phía sau.</li>
@@ -883,7 +883,7 @@ export default function Create(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>The COMpany BOOSted VAlue [because the deVElopers creAted uNIQUE PROducts].</li>
+          <li>the COMpany BOOSted VAlue [because the deVElopers creAted uNIQUE PROducts].</li>
           <li className="margin-bottom-20 list-none">Công ty đã gia tăng giá trị [vì các nhà phát triển đã tạo ra các sản phẩm độc đáo].</li>
       
           <li className="list-none">Hình thái mới: [because the deVElopers creAted uNIQUE PROducts] - [Liên Câu][Conjunctional Clause] hiển thị dưới dạng khối mã chứa đầy đủ [Danh Chủ][Noun Subject] "the deVElopers" và cụm hành động đi sau thành phần [Liên Cơ][Conjunctional Base] "because".</li>
@@ -897,7 +897,7 @@ export default function Create(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>The STUdio HIRED a TEAM [which creATES interACtive ART PROjects].</li>
+          <li>the STUdio HIRED a TEAM [which creATES interACtive ART PROjects].</li>
           <li className="margin-bottom-20 list-none">Xưởng phim đã thuê một đội ngũ [nhóm mà tạo ra các dự án nghệ thuật tương tác].</li>
       
           <li className="list-none">Hình thái gốc: [which creATES interACtive ART PROjects] - [Liên Câu][Conjunctional Clause] thiết lập theo dạng phân hệ hệ con đầy đủ bổ nghĩa đứng sau một khối tên gọi, chứa thành phần [Liên Cơ][Conjunctional Base] "which" và cụm hành động phía sau.</li>
@@ -911,7 +911,7 @@ export default function Create(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>The STUdio HIRED a [creAtive] TEAM.</li>
+          <li>the STUdio HIRED a [creAtive] TEAM.</li>
           <li className="margin-bottom-20 list-none">Xưởng phim đã thuê một đội ngũ [sáng tạo].</li>
       
           <li className="list-none">Hình thái mới: [creAtive] - [Diện Tính Cơ][Modified Adjective Base] hình thành từ khối [Rễ Động Cơ][Root Verb Base] nguyên bản "creATE" kết hợp đuôi "-ive" để thay đổi diện mạo bên ngoài thành một khối cấp độ [Cơ][Base] có khả năng mô tả đặc điểm, thu gọn hoàn toàn dưới dạng một thành phần mô tả đặc điểm đơn duy nhất đứng trước đối tượng.</li>
@@ -927,7 +927,7 @@ export default function Create(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>The TEAM ALlocated TIME [for the creAtion of the SYStem INterface].</li>
+          <li>the TEAM ALlocated TIME [for the creAtion of the SYStem INterface].</li>
           <li className="margin-bottom-20 list-none">Đội ngũ đã phân bổ thời gian [phục vụ cho việc tạo ra giao diện hệ thống].</li>
       
           <li className="list-none">Hình thái gốc: [for the creAtion of the SYStem INterface] - [Giới Cụm][Prepositional Phrase] bắt đầu bằng [Giới Cơ][Prepositional Base] chỉ lý do / bối cảnh "for" để kéo theo khối [Danh Nhận][Noun Object] phía sau.</li>
@@ -941,7 +941,7 @@ export default function Create(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>The TEAM ALlocated TIME [to creATE the SYStem INterface].</li>
+          <li>the TEAM ALlocated TIME [to creATE the SYStem INterface].</li>
           <li className="margin-bottom-20 list-none">Đội ngũ đã phân bổ thời gian [để tạo ra giao diện hệ thống].</li>
       
           <li className="list-none">Hình thái mới: [to creATE the SYStem INterface] - [Hạt Thuần Động Cụm][Particle Bare Verb Phrase] mới, bắt đầu bằng [Hạt Thuần Động Cơ][Particle Bare Verb Base] "to creATE" được đưa vào thế chỗ.</li>

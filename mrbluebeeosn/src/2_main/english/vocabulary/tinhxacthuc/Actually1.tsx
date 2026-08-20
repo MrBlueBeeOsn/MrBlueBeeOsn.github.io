@@ -5,9 +5,9 @@ import EyeIcon from '@/components/view/EyeIcon';
 import ViewCounter from '@/components/view/ViewCounter';
 import LikeButton from '@/components/like/LikeButton';
 
-export default function Actually1(): React.JSX.Element {
+export default function ACtually1(): React.JSX.Element {
 
-  const postId = "Actually1";
+  const postId = "ACtually1";
 
   return (<>
 
@@ -17,29 +17,27 @@ export default function Actually1(): React.JSX.Element {
     
       <h4><HashLink smooth to="/vocabulary#tinh-xac-thuc-terms"><mark className="highlight-tertiary-padding-4-8">ADverbs: xác thực</mark></HashLink></h4>
       
-      <h1 className="margin-y-50 text-center">actually
-        <sup><Link to="/vocabulary/actually-1">&nbsp;1&nbsp;</Link>
+      <h1 className="margin-y-50 text-center">ACtually
+        <sup><Link to="/vocabulary/ACtually-1">&nbsp;1&nbsp;</Link>
         </sup>
-        <sup><Link to="/vocabulary/actually-2">&nbsp;2&nbsp;</Link>
+        <sup><Link to="/vocabulary/ACtually-2">&nbsp;2&nbsp;</Link>
         </sup>
       </h1>
 
       {/* This is the content of Vocabulary Term. */}
       
-      <p>Tuyệt vời! Chúng ta cùng đi sâu vào từ "<strong>actually</strong>" nhé.</p>
+      <p>Tuyệt vời! Chúng ta cùng đi sâu vào từ "<strong>ACtually</strong>" nhé.</p>
 
       <div className="text-border1 padding-top-20 padding-bottom-10 highlight-238-padding-4-8 bee-container">
 
         <div>
 
-          <p className="margin-bottom-20"><strong>actually</strong></p>
-
           <ul className="list-square padding-left-40">
 
             <li>
               <span className="highlight-255-padding-3-6">
-                [ACtually][AC tu al ly] /ˈækʧuəli/ + /<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">actua̛lly</Link>/
-                &nbsp;⬤••• (4x)
+                [ACtually][AC tual ly] /ˈæk.tʃəl.i/ + /<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">ACtua̛lly</Link>/
+                &nbsp;⬤•• (3x)
               </span>
             </li>
 
@@ -57,16 +55,16 @@ export default function Actually1(): React.JSX.Element {
 
       </div>
 
-      <p className="margin-top-30 text-indent-whole">Từ "<strong>actually</strong>" được sử dụng để nhấn mạnh một sự thật hoặc một thông tin nào đó, thường là để sửa chữa hoặc bổ sung cho một thông tin đã được đưa ra trước đó. Nó cũng có thể được dùng để giới thiệu một thông tin mới hoặc bất ngờ.</p>
+      <p className="margin-top-30 text-indent-whole">Từ "<strong>ACtually</strong>" được sử dụng để nhấn mạnh một sự thật hoặc một thông tin nào đó, thường là để sửa chữa hoặc bổ sung cho một thông tin đã được đưa ra trước đó. Nó cũng có thể được dùng để giới thiệu một thông tin mới hoặc bất ngờ.</p>
 
       <p className="text-indent-whole">Ví dụ:</p>
 
         <ul className="list-square">
 
-          <li>I thought she was a doctor, but ______, she's a nurse.</li>
+          <li>i THOUGHT she was a DOCtor, but ACtually, she's a NURSE.</li>
           <li className="margin-bottom-20 list-none">Tôi tưởng cô ấy là bác sĩ, nhưng thực ra cô ấy là y tá.</li>
 
-          <li>I'm going to the library today. - ______, I'm going to the gym.</li>
+          <li>i'm GOing to the LIbrary toDAY. - ACtually, i'm GOing to the GYM.</li>
           <li className="list-none">Tôi sẽ đến thư viện hôm nay. - Thực ra, tôi sẽ đến phòng tập.</li>
 
         </ul>
@@ -83,12 +81,10 @@ export default function Actually1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Actual (adj) /ˈækʧuəl/</li>
-          <li className="list-none">The ______ cost of the project was higher than expected.</li>
+          <li>the ACtual COST of the PROject was HIGHer than exPECTed.</li>
           <li className="margin-bottom-20 list-none">Chi phí thực tế của dự án cao hơn dự kiến.</li>
 
-          <li>Actuality (n) /ækˈʧuæləti/</li>
-          <li className="list-none">The ______ of the situation is much worse than we thought.</li>
+          <li>the actuALity of the situAtion is MUCH WORSE than i THOUGHT.</li>
           <li className="list-none">Thực tế của tình hình tồi tệ hơn nhiều so với chúng ta nghĩ.</li>
 
         </ul>
@@ -105,12 +101,10 @@ export default function Actually1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>In fact /ɪn fækt/</li>
-          <li className="list-none">______, I don't know the answer.</li>
+          <li>in FACT, i do NOT KNOW the ANswer.</li>
           <li className="margin-bottom-20 list-none">Thực tế, tôi không biết câu trả lời.</li>
 
-          <li>As a matter of fact /æz ə ˈmætər əv fækt/</li>
-          <li className="list-none">______, I've already seen that movie.</li>
+          <li>as a MATter of FACT, i've alREDy SEEN that MOVie.</li>
           <li className="list-none">Thực tế, tôi đã xem bộ phim đó rồi.</li>
 
         </ul>
@@ -127,12 +121,10 @@ export default function Actually1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Theoretically /θiːəˈrɛtɪkli/</li>
-          <li className="list-none">______, it's possible, but not very likely.</li>
+          <li>theoRETically, it's POSsible, but NOT VEry LIKEly.</li>
           <li className="margin-bottom-20 list-none">Về mặt lý thuyết thì có thể, nhưng không có khả năng xảy ra lắm.</li>
 
-          <li>Hypothetically /ˌhaɪpəˈθɛtɪkli/</li>
-          <li className="list-none">______, if I won the lottery, I would travel around the world.</li>
+          <li>hypoTHETically, if i WON the LOTtery, i would TRAvel aROUND the WORLD.</li>
           <li className="list-none">Giả sử mà nói, nếu tôi trúng số, tôi sẽ đi du lịch vòng quanh thế giới.</li>
 
         </ul>
@@ -158,7 +150,7 @@ export default function Actually1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>I thought the capital of Australia was Sydney, but ______, it's Canberra.</li>
+          <li>i THOUGHT the CApital of ausTRAlia was SYDney, but ACtually, it's CANberra.</li>
           <li className="list-none">Tôi nghĩ thủ đô của Úc là Sydney, nhưng thực ra là Canberra.</li>
 
         </ul>
@@ -178,7 +170,7 @@ export default function Actually1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Do you like coffee? - Well, ______, I prefer tea.</li>
+          <li>Do you LIKE COFfee? - WELL, ACtually, i preFER TEA.</li>
           <li className="list-none">Bạn có thích cà phê không? - Thật ra thì tôi thích trà hơn.</li>
 
         </ul>
@@ -200,17 +192,17 @@ export default function Actually1(): React.JSX.Element {
 
           <ol>
 
-            <li>I think I'll have the pizza.</li>
+            <li>i THINK i'll HAVE the PIZza.</li>
             <li className="list-none margin-bottom-20">Tôi nghĩ tôi sẽ ăn pizza.</li>
 
-            <li value="2">______, I'm feeling kind of hungry, so I'll have the burger.</li>
+            <li value="2">ACtually, i'm FEELing KIND of HUNgry, so i'll HAVE the BURger.</li>
             <li className="list-none margin-bottom-20">Thực ra, tôi cảm thấy hơi đói, vì vậy tôi sẽ ăn hamburger.</li>
 
           </ol>
 
       <div className="margin-bottom-20 padding-top-20 text-border1 padding-10 highlight-238-padding-4-8 bee-container">
 
-        <p className="margin-y-10">Sự khác biệt: Câu thứ hai sử dụng "<strong>actually</strong>" <span className="highlight-255-padding-0-4">để thay đổi quyết định ban đầu</span> và đưa ra một lựa chọn khác.</p>
+        <p className="margin-y-10">Sự khác biệt: Câu thứ hai sử dụng "<strong>ACtually</strong>" <span className="highlight-255-padding-0-4">để thay đổi quyết định ban đầu</span> và đưa ra một lựa chọn khác.</p>
 
         {/* <span className="highlight-255-padding-0-4"></span> */}
 
@@ -226,11 +218,11 @@ export default function Actually1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Sửa chữa thông tin: "<strong>Actually</strong>" thường được dùng để sửa chữa một thông tin sai hoặc không chính xác.</li>
+          <li>Sửa chữa thông tin: "<strong>ACtually</strong>" thường được dùng để sửa chữa một thông tin sai hoặc không chính xác.</li>
 
           <li>Thêm thông tin: Nó cũng có thể được dùng để bổ sung thêm thông tin chi tiết.</li>
 
-          <li className="margin-bottom-20">Nhấn mạnh: "<strong>Actually</strong>" giúp nhấn mạnh một sự thật hoặc một quan điểm.</li>
+          <li className="margin-bottom-20">Nhấn mạnh: "<strong>ACtually</strong>" giúp nhấn mạnh một sự thật hoặc một quan điểm.</li>
 
         </ul>
 

@@ -60,34 +60,34 @@ export default function LAzily2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1">After a LONG DAY, he LAzily STRETCHED OUT on the COUCH.</li>
+        <li value="1">after a LONG DAY, he LAzily STRETCHED OUT on the COUCH.</li>
         <li className="list-none margin-bottom-20">Sau một ngày dài, anh ấy lười biếng nằm dài ra ghế sofa.</li>
 
-        <li value="2">She LAzily WANdered through the PARK, enJOYing the SUNshine.</li>
+        <li value="2">she LAzily WANdered through the PARK, enJOYing the SUNshine.</li>
         <li className="list-none margin-bottom-20">Cô ấy lười biếng đi lang thang trong công viên, tận hưởng ánh nắng mặt trời.</li>
 
-        <li value="3">He LAzily FLIPPED through the CHANnels on TV.</li>
+        <li value="3">he LAzily FLIPPED through the CHANnels on TV.</li>
         <li className="list-none margin-bottom-20">Anh ấy lười biếng lật qua lật lại các kênh trên TV.</li>
 
-        <li value="4">The CAT LAzily ATE its FOOD.</li>
+        <li value="4">the CAT LAzily ATE its FOOD.</li>
         <li className="list-none margin-bottom-20">Con mèo lười biếng ăn thức ăn của nó.</li>
 
-        <li value="5">She LAzily LOUNGED by the POOL.</li>
+        <li value="5">she LAzily LOUNGED by the POOL.</li>
         <li className="list-none margin-bottom-20">Cô ấy lười biếng nằm dài bên hồ bơi.</li>
 
-        <li value="6">He LAzily READ the NEWSpaper.</li>
+        <li value="6">he LAzily READ the NEWSpaper.</li>
         <li className="list-none margin-bottom-20">Anh ấy lười biếng đọc báo.</li>
 
-        <li value="7">They LAzily WATCHED the CLOUDS DRIFT BY.</li>
+        <li value="7">they LAzily WATCHED the CLOUDS DRIFT BY.</li>
         <li className="list-none margin-bottom-20">Họ lười biếng ngắm nhìn những đám mây trôi.</li>
 
-        <li value="8">She LAzily SPOKE into the PHONE.</li>
+        <li value="8">she LAzily SPOKE into the PHONE.</li>
         <li className="list-none margin-bottom-20">Cô ấy lười biếng nói vào điện thoại.</li>
 
-        <li value="9">The DOG LAzily WALKED aCROSS the YARD.</li>
+        <li value="9">the DOG LAzily WALKED aCROSS the YARD.</li>
         <li className="list-none margin-bottom-20">Con chó lười biếng đi qua sân.</li>
 
-        <li value="10">She LAzily SUNbathed on the BEACH.</li>
+        <li value="10">she LAzily SUNbathed on the BEACH.</li>
         <li className="list-none margin-bottom-20">Cô ấy lười biếng tắm nắng trên bãi biển.</li>
 
       </ol>

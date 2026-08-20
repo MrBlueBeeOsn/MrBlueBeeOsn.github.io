@@ -60,34 +60,34 @@ export default function (): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1">She was GENuinely HAPpy to SEE her OLD FRIENDS.</li>
+        <li value="1">she was GENuinely HAPpy to SEE her OLD FRIENDS.</li>
         <li className="list-none margin-bottom-20">Cô ấy rất vui khi gặp lại bạn bè cũ.</li>
 
-        <li value="2">He was GENuinely conCERNED about her WELL-BEing.</li>
+        <li value="2">he was GENuinely conCERNED about her WELL-BEing.</li>
         <li className="list-none margin-bottom-20">Anh ấy rất quan tâm đến sức khỏe của cô ấy.</li>
 
-        <li value="3">I am GENuinely GRATEful for your HELP.</li>
+        <li value="3">i am GENuinely GRATEful for your HELP.</li>
         <li className="list-none margin-bottom-20">Tôi thật sự biết ơn sự giúp đỡ của bạn.</li>
 
-        <li value="4">He was GENuinely SORry for his  misTAKE.</li>
+        <li value="4">he was GENuinely SORry for his  misTAKE.</li>
         <li className="list-none margin-bottom-20">Anh ấy rất hối hận về lỗi lầm của mình.</li>
 
-        <li value="5">She was GENuinely INterested in his STOry.</li>
+        <li value="5">she was GENuinely INterested in his STOry.</li>
         <li className="list-none margin-bottom-20">Cô ấy rất quan tâm đến câu chuyện của anh ấy.</li>
 
-        <li value="6">I GENuinely beLIEVE in the POWer of LOVE.</li>
+        <li value="6">i GENuinely beLIEVE in the POWer of LOVE.</li>
         <li className="list-none margin-bottom-20">Tôi thật sự tin vào sức mạnh của tình yêu.</li>
 
-        <li value="7">I GENuinely adMIRE her COUrage.</li>
+        <li value="7">i GENuinely adMIRE her COUrage.</li>
         <li className="list-none margin-bottom-20">Tôi rất ngưỡng mộ sự dũng cảm của cô ấy.</li>
 
-        <li value="8">I GENuinely apPREciate your KINDness.</li>
+        <li value="8">i GENuinely apPREciate your KINDness.</li>
         <li className="list-none margin-bottom-20">Tôi thật sự trân trọng lòng tốt của bạn.</li>
 
-        <li value="9">She GENuinely CARES about the WELfare of OTHers.</li>
+        <li value="9">she GENuinely CARES about the WELfare of OTHers.</li>
         <li className="list-none margin-bottom-20">Cô ấy thật sự quan tâm đến phúc lợi của người khác.</li>
 
-        <li value="10">He GENuinely LOVES his FAMily.</li>
+        <li value="10">he GENuinely LOVES his FAMily.</li>
         <li className="list-none margin-bottom-20">Anh ấy thật sự yêu thương gia đình của mình.</li>
 
       </ol>
