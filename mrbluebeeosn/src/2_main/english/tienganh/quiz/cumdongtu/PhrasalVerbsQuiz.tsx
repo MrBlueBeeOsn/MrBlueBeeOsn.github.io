@@ -46,7 +46,7 @@ export default function PhrasalVerbsQuiz(): React.JSX.Element {
 		},
 		{
 			id: 3,
-			question: "The police are investigating how the suspect managed to get away from the custody. What does \"get away\" mean?",
+			question: "The police are inVESTigating how the suspect managed to get away from the custody. What does \"get away\" mean?",
 			options: [
 				"To confess",
 				"To escape",

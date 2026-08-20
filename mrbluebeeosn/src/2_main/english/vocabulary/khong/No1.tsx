@@ -66,7 +66,7 @@ export default function No1(): React.JSX.Element {
           <li>Are you coming to the party? - ______, I'm not.</li>
           <li className="margin-bottom-20 list-none">Bạn có đến bữa tiệc không? - Không, tôi không.</li>
 
-          <li>Do you like coffee? - ______, I prefer tea.</li>
+          <li>do you LIKE COFfee? - ______, I prefer tea.</li>
           <li className="list-none">Bạn có thích cà phê không? - Không, tôi thích trà hơn.</li>
 
         </ul>

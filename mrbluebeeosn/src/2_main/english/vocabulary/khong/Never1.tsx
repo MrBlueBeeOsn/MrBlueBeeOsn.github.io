@@ -104,7 +104,7 @@ export default function Never1(): React.JSX.Element {
           <li className="margin-bottom-20 list-none">Tôi chưa bao giờ thấy một cảnh hoàng hôn đẹp như vậy.</li>
 
           <li>At no time /æt noʊ taɪm/</li>
-          <li className="list-none">______ did I suspect him of cheating.</li>
+          <li className="list-none">______ did i suspect him of cheating.</li>
           <li className="list-none">Tôi không hề nghi ngờ anh ta gian lận.</li>
 
         </ul>

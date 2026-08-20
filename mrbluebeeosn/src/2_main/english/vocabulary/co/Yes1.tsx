@@ -66,7 +66,7 @@ export default function Yes1(): React.JSX.Element {
           <li>Are you coming to the party? - ______, I am.</li>
           <li className="margin-bottom-20 list-none">Bạn có đến bữa tiệc không? - Có, tôi sẽ đến.</li>
 
-          <li>Do you like coffee? - ______, I do.</li>
+          <li>do you LIKE COFfee? - ______, I do.</li>
           <li className="list-none">Bạn có thích cà phê không? - Có, tôi thích.</li>
 
         </ul>

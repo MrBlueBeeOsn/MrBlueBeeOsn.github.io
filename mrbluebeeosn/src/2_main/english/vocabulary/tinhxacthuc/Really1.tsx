@@ -61,13 +61,13 @@ export default function REALly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>That's REALly INteresting.</li>
+          <li>that's REALly INteresting.</li>
           <li className="margin-bottom-20 list-none">Điều đó thật sự thú vị.</li>
 
           <li>i'm REALly TIred.</li>
           <li className="margin-bottom-20 list-none">Tôi mệt mỏi lắm.</li>
 
-          <li>Do you REALly THINK so?</li>
+          <li>do you REALly THINK so?</li>
           <li className="list-none">Bạn có thực sự nghĩ vậy không?</li>
 
         </ul>
@@ -84,7 +84,7 @@ export default function REALly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Is this a REAL DIamond?</li>
+          <li>is this a REAL DIamond?</li>
           <li className="list-none">Đây có phải là kim cương thật không?</li>
 
         </ul>

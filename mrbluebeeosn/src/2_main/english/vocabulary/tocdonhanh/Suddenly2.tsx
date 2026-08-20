@@ -66,7 +66,7 @@ export default function SUDdenly2(): React.JSX.Element {
         <li value="2">i SUDdenly REalized that i had forGOTten my KEYS.</li>
         <li className="list-none margin-bottom-20">Tôi đột nhiên nhận ra rằng mình đã quên chìa khóa.</li>
 
-        <li value="3">A GHOST SUDdenly apPEARED in the MIRror.</li>
+        <li value="3">a GHOST SUDdenly apPEARED in the MIRror.</li>
         <li className="list-none margin-bottom-20">Một bóng ma đột nhiên xuất hiện trong gương.</li>
 
         <li value="4">the WEAther SUDdenly CHANGED and it STARted to RAIN.</li>

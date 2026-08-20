@@ -46,7 +46,7 @@ export default function NounClausesQuiz(): React.JSX.Element {
 		},
 		{
 			id: 3,
-			question: "________ surprised the entire board of directors was his sudden decision to resign.",
+			question: "________ surprised the entire board of diRECtors was his sudden decision to resign.",
 			options: [
 				"That",
 				"Which",
@@ -66,7 +66,7 @@ export default function NounClausesQuiz(): React.JSX.Element {
 				"which"
 			],
 			correctAnswer: 0,
-			explanation: "The sentence looks for the reason behind the event. \"Why\" introduces a noun clause that functions as the direct object of the verb \"verify\". While \"that\" is grammatically possible, \"why\" fits the contextual meaning of investigating a discrepancy much better."
+			explanation: "The sentence looks for the reason behind the event. \"Why\" introduces a noun clause that functions as the direct object of the verb \"verify\". While \"that\" is grammatically possible, \"why\" fits the contextual meaning of inVESTigating a discrepancy much better."
 		},
 		{
 			id: 5,
@@ -114,7 +114,7 @@ export default function NounClausesQuiz(): React.JSX.Element {
 				"that"
 			],
 			correctAnswer: 0,
-			explanation: "Here, \"whatever\" acts as a determiner modifying the noun \"documents\" within the noun clause \"whatever documents are submitted through the portal\". It means \"any documents that\", which perfectly fits the open-ended nature of the submission process."
+			explanation: "Here, \"whatever\" acts as a determiner modifying the noun \"documents\" within the noun clause \"whatEVer documents are submitted through the portal\". It means \"any documents that\", which perfectly fits the open-ended nature of the submission process."
 		},
 		{
 			id: 9,

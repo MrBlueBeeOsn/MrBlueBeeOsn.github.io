@@ -81,7 +81,7 @@ export default function GRADually1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>There was a GRADual inCREASE in TEMperature.</li>
+          <li>there was a GRADual inCREASE in TEMperature.</li>
           <li className="margin-bottom-20 list-none">Có một sự gia tăng nhiệt độ dần dần.</li>
 
           <li>the TEAcher GRADed the STUdents' ESsays.</li>

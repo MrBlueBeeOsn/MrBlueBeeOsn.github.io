@@ -61,7 +61,7 @@ export default function INstantly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>When i TURNED ON the LIGHT, the ROOM beCAME INstantly BRIGHter.</li>
+          <li>when i TURNED ON the LIGHT, the ROOM beCAME INstantly BRIGHter.</li>
           <li className="margin-bottom-20 list-none">Khi tôi bật đèn lên, căn phòng sáng lên ngay lập tức.</li>
 
           <li>she reCOGnized him INstantly.</li>

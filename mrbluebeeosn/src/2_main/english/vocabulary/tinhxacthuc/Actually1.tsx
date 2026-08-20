@@ -170,7 +170,7 @@ export default function ACtually1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Do you LIKE COFfee? - WELL, ACtually, i preFER TEA.</li>
+          <li>do you LIKE COFfee? - WELL, ACtually, i preFER TEA.</li>
           <li className="list-none">Bạn có thích cà phê không? - Thật ra thì tôi thích trà hơn.</li>
 
         </ul>

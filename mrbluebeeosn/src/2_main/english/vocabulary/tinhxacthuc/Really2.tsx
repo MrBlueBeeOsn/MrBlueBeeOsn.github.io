@@ -78,7 +78,7 @@ export default function REALly2(): React.JSX.Element {
         <li value="6">this MATH PROBlem is REALly HARD.</li>
         <li className="list-none margin-bottom-20">Bài toán này rất khó.</li>
 
-        <li value="7">That JOKE was REALly FUNny.</li>
+        <li value="7">that JOKE was REALly FUNny.</li>
         <li className="list-none margin-bottom-20">Câu đùa đó thật hài hước.</li>
 
         <li value="8">i'm REALly TIred after WORK.</li>
