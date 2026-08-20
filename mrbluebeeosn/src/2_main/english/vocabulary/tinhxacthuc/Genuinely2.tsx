@@ -17,18 +17,18 @@ export default function (): React.JSX.Element {
     
       <h4><HashLink smooth to="/vocabulary#tinh-xac-thuc-terms"><mark className="highlight-tertiary-padding-4-8">ADverbs: xác thực</mark></HashLink></h4>
       
-      <h1 className="margin-y-50 text-center">genuinely
+      <h1 className="margin-y-50 text-center">GENuinely
         <sup>
-          <Link to="/vocabulary/genuinely-1">&nbsp;1&nbsp;</Link>
+          <Link to="/vocabulary/GENuinely-1">&nbsp;1&nbsp;</Link>
         </sup>
         <sup>
-          <Link to="/vocabulary/genuinely-2">&nbsp;2&nbsp;</Link>
+          <Link to="/vocabulary/GENuinely-2">&nbsp;2&nbsp;</Link>
         </sup>
       </h1>
 
       {/* This is the content of Vocabulary Term. */}
 
-      <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>genuinely</strong>" (một cách chân thành) và các cụm từ thường đi kèm nhé.</p>
+      <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>GENuinely</strong>" (một cách chân thành) và các cụm từ thường đi kèm nhé.</p>
 
       <div className="text-border1 padding-10 highlight-238-padding-4-8 bee-container">
 
@@ -36,13 +36,11 @@ export default function (): React.JSX.Element {
 
           <p className="margin-y-10">
             
-            <strong>Genuinely&nbsp;</strong>
-            
             <span className="highlight-255-padding-3-6">
               
               [GENuinely][GEN u ine ly] /ˈdʒenjuɪnli/ + /
               
-              <Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">genūinely</Link>/ 
+              <Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">GENūinely</Link>/ 
               
               &nbsp;⬤••• (4x)
               
@@ -62,44 +60,34 @@ export default function (): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1">Genuinely <strong>happy</strong> /ˈhæpi/</li>
-        <li className="list-none">She was ______ to see her old friends.</li>
+        <li value="1">She was GENuinely HAPpy to SEE her OLD FRIENDS.</li>
         <li className="list-none margin-bottom-20">Cô ấy rất vui khi gặp lại bạn bè cũ.</li>
 
-        <li value="2">Genuinely <strong>concerned</strong> /kənˈsɜːnd/</li>
-        <li className="list-none">He was ______ about her well-being.</li>
+        <li value="2">He was GENuinely conCERNED about her WELL-BEing.</li>
         <li className="list-none margin-bottom-20">Anh ấy rất quan tâm đến sức khỏe của cô ấy.</li>
 
-        <li value="3">Genuinel <strong>grateful</strong> /ˈɡreɪtfəl/</li>
-        <li className="list-none">I am ______ for your help.</li>
+        <li value="3">I am GENuinely GRATEful for your HELP.</li>
         <li className="list-none margin-bottom-20">Tôi thật sự biết ơn sự giúp đỡ của bạn.</li>
 
-        <li value="4">Genuinely <strong>sorry</strong> /ˈsɒri/</li>
-        <li className="list-none">He was ______ for his mistake.</li>
+        <li value="4">He was GENuinely SORry for his  misTAKE.</li>
         <li className="list-none margin-bottom-20">Anh ấy rất hối hận về lỗi lầm của mình.</li>
 
-        <li value="5">Genuinely <strong>interested</strong> /ˈɪntrəstɪd/</li>
-        <li className="list-none">She was ______ in his story.</li>
+        <li value="5">She was GENuinely INterested in his STOry.</li>
         <li className="list-none margin-bottom-20">Cô ấy rất quan tâm đến câu chuyện của anh ấy.</li>
 
-        <li value="6">Genuinely <strong>believe</strong> /bɪˈliːv/</li>
-        <li className="list-none">I ______ in the power of love.</li>
+        <li value="6">I GENuinely beLIEVE in the POWer of LOVE.</li>
         <li className="list-none margin-bottom-20">Tôi thật sự tin vào sức mạnh của tình yêu.</li>
 
-        <li value="7">Genuinely <strong>admire</strong> /ədˈmaɪər/</li>
-        <li className="list-none">I ______ her courage.</li>
+        <li value="7">I GENuinely adMIRE her COUrage.</li>
         <li className="list-none margin-bottom-20">Tôi rất ngưỡng mộ sự dũng cảm của cô ấy.</li>
 
-        <li value="8">Genuinely <strong>appreciate</strong> /əˈpriːʃieɪt/</li>
-        <li className="list-none">I ______ your kindness.</li>
+        <li value="8">I GENuinely apPREciate your KINDness.</li>
         <li className="list-none margin-bottom-20">Tôi thật sự trân trọng lòng tốt của bạn.</li>
 
-        <li value="9">Genuinely <strong>cares</strong> /keərz/</li>
-        <li className="list-none">She ______ about the welfare of others.</li>
+        <li value="9">She GENuinely CARES about the WELfare of OTHers.</li>
         <li className="list-none margin-bottom-20">Cô ấy thật sự quan tâm đến phúc lợi của người khác.</li>
 
-        <li value="10">Genuinely <strong>loves</strong> /lʌvz/</li>
-        <li className="list-none">He ______ his family.</li>
+        <li value="10">He GENuinely LOVES his FAMily.</li>
         <li className="list-none margin-bottom-20">Anh ấy thật sự yêu thương gia đình của mình.</li>
 
       </ol>
@@ -116,7 +104,7 @@ export default function (): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>"<strong>Genuinely</strong>" thường được đặt trước Tính Cơ để nhấn mạnh ý nghĩa của chúng.</li>
+          <li>"<strong>GENuinely</strong>" thường được đặt trước Tính Cơ để nhấn mạnh ý nghĩa của chúng.</li>
 
           <li className="margin-bottom-20">Từ này thường được sử dụng trong các tình huống giao tiếp đòi hỏi sự chân thành và tin cậy.</li>
 
