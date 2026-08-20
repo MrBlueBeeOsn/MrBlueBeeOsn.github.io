@@ -111,7 +111,7 @@ export default function Painstakingly1(): React.JSX.Element {
           <li className="list-none">He examined the document ______.</li>
           <li className="margin-bottom-20 list-none">Anh ấy xem xét tài liệu một cách cẩn thận.</li>
 
-          <li><Link to="/vocabulary/thoroughly-1">Thoroughly</Link> /ˈθʌr.ə.li/</li>
+          <li><Link to="/vocabulary/THORoughly-1">Thoroughly</Link> /ˈθʌr.ə.li/</li>
           <li className="list-none">They searched the house ______.</li>
           <li className="list-none">Họ tìm kiếm căn nhà một cách kỹ lưỡng.</li>
 

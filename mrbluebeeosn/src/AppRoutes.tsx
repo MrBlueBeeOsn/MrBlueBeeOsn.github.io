@@ -390,8 +390,8 @@ const Posts = lazy(() => import('@/data/Posts'));
 	// 5. Vocabulary - Tính tỉ mỉ
 	const Painstakingly1 = lazy(() => import('@/2_main/english/vocabulary/tinhtimi/Painstakingly1'));
 	const Painstakingly2 = lazy(() => import('@/2_main/english/vocabulary/tinhtimi/Painstakingly2'));
-	const Thoroughly1 = lazy(() => import('@/2_main/english/vocabulary/tinhtimi/Thoroughly1'));
-	const Thoroughly2 = lazy(() => import('@/2_main/english/vocabulary/tinhtimi/Thoroughly2'));
+	const THORoughly1 = lazy(() => import('@/2_main/english/vocabulary/tinhtimi/Thoroughly1'));
+	const THORoughly2 = lazy(() => import('@/2_main/english/vocabulary/tinhtimi/Thoroughly2'));
 	const Diligently1 = lazy(() => import('@/2_main/english/vocabulary/tinhtimi/Diligently1'));
 	const Diligently2 = lazy(() => import('@/2_main/english/vocabulary/tinhtimi/Diligently2'));
 	const Scrupulously1 = lazy(() => import('@/2_main/english/vocabulary/tinhtimi/Scrupulously1'));
@@ -408,14 +408,14 @@ const Posts = lazy(() => import('@/data/Posts'));
 	const Visibly2 = lazy(() => import('@/2_main/english/vocabulary/tinhrorang/Visibly2'));
 
 	// 6. Vocabulary - Tính xác thực
-	const ACtually1 = lazy(() => import('@/2_main/english/vocabulary/tinhxacthuc/Actually1'));
-	const ACtually2 = lazy(() => import('@/2_main/english/vocabulary/tinhxacthuc/Actually2'));
-	const TRUly1 = lazy(() => import('@/2_main/english/vocabulary/tinhxacthuc/Truly1'));
-	const TRUly2 = lazy(() => import('@/2_main/english/vocabulary/tinhxacthuc/Truly2'));
-	const REALly1 = lazy(() => import('@/2_main/english/vocabulary/tinhxacthuc/Really1'));
-	const REALly2 = lazy(() => import('@/2_main/english/vocabulary/tinhxacthuc/Really2'));
-	const GENuinely1 = lazy(() => import('@/2_main/english/vocabulary/tinhxacthuc/Genuinely1'));
-	const GENuinely2 = lazy(() => import('@/2_main/english/vocabulary/tinhxacthuc/Genuinely2'));
+	const ACtually1 = lazy(() => import('@/2_main/english/vocabulary/tinhxacthuc/ACtually1'));
+	const ACtually2 = lazy(() => import('@/2_main/english/vocabulary/tinhxacthuc/ACtually2'));
+	const TRUly1 = lazy(() => import('@/2_main/english/vocabulary/tinhxacthuc/TRUly1'));
+	const TRUly2 = lazy(() => import('@/2_main/english/vocabulary/tinhxacthuc/TRUly2'));
+	const REALly1 = lazy(() => import('@/2_main/english/vocabulary/tinhxacthuc/REALly1'));
+	const REALly2 = lazy(() => import('@/2_main/english/vocabulary/tinhxacthuc/REALly2'));
+	const GENuinely1 = lazy(() => import('@/2_main/english/vocabulary/tinhxacthuc/GENuinely1'));
+	const GENuinely2 = lazy(() => import('@/2_main/english/vocabulary/tinhxacthuc/GENuinely2'));
 
 	// 7. Vocabulary - Tính chắc chắn
 	const Certainly1 = lazy(() => import('@/2_main/english/vocabulary/tinhchacchan/Certainly1'));
@@ -995,8 +995,8 @@ export default function AppRoutes(): React.JSX.Element {
 					{/* 5. Vocabulary - Tính tỉ mỉ */}
 					<Route path="/vocabulary/painstakingly-1" element={<Painstakingly1 />} />
 					<Route path="/vocabulary/painstakingly-2" element={<Painstakingly2 />} />
-					<Route path="/vocabulary/thoroughly-1" element={<Thoroughly1 />} />
-					<Route path="/vocabulary/thoroughly-2" element={<Thoroughly2 />} />
+					<Route path="/vocabulary/THORoughly-1" element={<THORoughly1 />} />
+					<Route path="/vocabulary/THORoughly-2" element={<THORoughly2 />} />
 					<Route path="/vocabulary/diligently-1" element={<Diligently1 />} />
 					<Route path="/vocabulary/diligently-2" element={<Diligently2 />} />
 					<Route path="/vocabulary/scrupulously-1" element={<Scrupulously1 />} />

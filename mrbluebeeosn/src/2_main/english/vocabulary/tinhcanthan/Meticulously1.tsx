@@ -109,7 +109,7 @@ export default function Meticulously1(): React.JSX.Element {
           <li className="list-none">She ______ wrapped the gift.</li>
           <li className="margin-bottom-20 list-none">Cô ấy gói quà rất cẩn thận.</li>
 
-          <li><Link to="/vocabulary/thoroughly-1">Thoroughly</Link> /ˈθɜːrəli/</li>
+          <li><Link to="/vocabulary/THORoughly-1">Thoroughly</Link> /ˈθɜːrəli/</li>
           <li className="list-none">He ______ cleaned the room.</li>
           <li className="list-none">Anh ấy đã lau dọn phòng rất kỹ lưỡng.</li>
 

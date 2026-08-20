@@ -113,7 +113,7 @@ export default function Scrupulously1(): React.JSX.Element {
           <li className="list-none">He handled the glass ______.</li>
           <li className="margin-bottom-20 list-none">Anh ấy xử lý cái ly một cách cẩn thận.</li>
 
-          <li><Link to="/vocabulary/thoroughly-1">Thoroughly</Link> /ˈθɜːr.ə.li/</li>
+          <li><Link to="/vocabulary/THORoughly-1">Thoroughly</Link> /ˈθɜːr.ə.li/</li>
           <li className="list-none">He checked the documents ______.</li>
           <li className="list-none">Anh ấy kiểm tra các tài liệu một cách kỹ lưỡng.</li>
 

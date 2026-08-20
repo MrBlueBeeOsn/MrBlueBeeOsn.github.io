@@ -5,9 +5,9 @@ import EyeIcon from '@/components/view/EyeIcon';
 import ViewCounter from '@/components/view/ViewCounter';
 import LikeButton from '@/components/like/LikeButton';
 
-export default function Thoroughly1(): React.JSX.Element {
+export default function THORoughly1(): React.JSX.Element {
 
-  const postId = "Thoroughly1";
+  const postId = "THORoughly1";
 
   return (<>
 
@@ -17,28 +17,26 @@ export default function Thoroughly1(): React.JSX.Element {
     
       <h4><HashLink smooth to="/vocabulary#tinh-ti-mi-terms"><mark className="highlight-tertiary-padding-4-8">ADverbs: tỉ mỉ</mark></HashLink></h4>
       
-      <h1 className="margin-y-50 text-center">thoroughly
-        <sup><Link to="/vocabulary/thoroughly-1">&nbsp;1&nbsp;</Link>
+      <h1 className="margin-y-50 text-center">THORoughly
+        <sup><Link to="/vocabulary/THORoughly-1">&nbsp;1&nbsp;</Link>
         </sup>
-        <sup><Link to="/vocabulary/thoroughly-2">&nbsp;2&nbsp;</Link>
+        <sup><Link to="/vocabulary/THORoughly-2">&nbsp;2&nbsp;</Link>
         </sup>
       </h1>
 
       {/* This is the content of Vocabulary Term. */}
       
-      <p>Tuyệt vời! Chúng ta cùng khám phá từ "<strong>thoroughly</strong>" nhé.</p>
+      <p>Tuyệt vời! Chúng ta cùng khám phá từ "<strong>THORoughly</strong>" nhé.</p>
 
       <div className="text-border1 padding-top-20 padding-bottom-10 highlight-238-padding-4-8 bee-container">
 
         <div>
 
-          <p className="margin-bottom-20"><strong>Thoroughly</strong></p>
-
           <ul className="list-square padding-left-40">
               
             <li>
               <span className="highlight-255-padding-3-6">
-                [THOroughly][THO rough ly] /ˈθʌrəli/ + /<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">thôrơughly</Link>/
+                [THOroughly][THO rough ly] /ˈθʌrəli/ + /<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">THÔRơughly</Link>/
                 &nbsp;⬤•• (3x)
               </span>
             </li>
@@ -57,16 +55,16 @@ export default function Thoroughly1(): React.JSX.Element {
       
       </div>
 
-      <p className="margin-top-30 text-indent-whole">Từ "<strong>thoroughly</strong>" được dùng để mô tả một hành động được thực hiện một cách kỹ lưỡng, tỉ mỉ, không bỏ sót bất kỳ chi tiết nào. Nó thể hiện sự hoàn toàn, kỹ lưỡng và chu đáo trong việc thực hiện một công việc gì đó.</p>
+      <p className="margin-top-30 text-indent-whole">Từ "<strong>THORoughly</strong>" được dùng để mô tả một hành động được thực hiện một cách kỹ lưỡng, tỉ mỉ, không bỏ sót bất kỳ chi tiết nào. Nó thể hiện sự hoàn toàn, kỹ lưỡng và chu đáo trong việc thực hiện một công việc gì đó.</p>
 
       <p className="text-indent-whole">Ví dụ:</p>
 
         <ul className="list-square">
 
-          <li>She ______ cleaned the house before the guests arrived.</li>
+          <li>she THORoughly CLEANED the HOUSE before the GUESTS arRIVED.</li>
           <li className="margin-bottom-20 list-none">Cô ấy đã dọn dẹp nhà cửa thật kỹ trước khi khách đến.</li>
 
-          <li>I have ______ researched this topic.</li>
+          <li>i HAVE THORoughly reSEARCHED this TOpic.</li>
           <li className="list-none">Tôi đã nghiên cứu kỹ lưỡng về chủ đề này.</li>
 
         </ul>
@@ -83,8 +81,7 @@ export default function Thoroughly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Thorough (adj) /ˈθɜːrə/</li>
-          <li className="list-none">He gave a ______ explanation.</li>
+          <li>he GAVE a THORough explaNAtion.</li>
           <li className="list-none">Anh ấy đã đưa ra một lời giải thích rất kỹ lưỡng.</li>
 
         </ul>
@@ -101,12 +98,10 @@ export default function Thoroughly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Completely /kəmˈpliːtli/</li>
-          <li className="list-none">I ______ agree with you.</li>
+          <li>i comPLEtely aGREE with you.</li>
           <li className="margin-bottom-20 list-none">Tôi hoàn toàn đồng ý với bạn.</li>
 
-          <li>Totally /ˈtəʊtəli/</li>
-          <li className="list-none">I am ______ exhausted.</li>
+          <li>i am TOtally exHAUSTed.</li>
           <li className="list-none">Tôi hoàn toàn kiệt sức.</li>
 
         </ul>
@@ -123,12 +118,10 @@ export default function Thoroughly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Superficially /ˌsuːpərˈfɪʃəli/</li>
-          <li className="list-none">They discussed the problem ______, without going into any detail.</li>
+          <li>they disCUSSED the PROblem superFICially, without GOing into any DEtail.</li>
           <li className="margin-bottom-20 list-none">Họ thảo luận về vấn đề một cách hời hợt, không đi vào chi tiết.</li>
 
-          <li>Partially /ˈpɑːrʃəli/</li>
-          <li className="list-none">The task was only ______ completed.</li>
+          <li>the TASK was ONly PARtially comPLEted.</li>
           <li className="list-none">Công việc chỉ được hoàn thành một phần.</li>
 
         </ul>
@@ -154,7 +147,7 @@ export default function Thoroughly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>She is ______ cleaning the glass table.</li>
+          <li>she is THORoughly CLEANing the GLASS TAble.</li>
           <li className="list-none">Cô ấy đang lau chùi bàn kính rất kỹ.</li>
 
         </ul>
@@ -174,7 +167,7 @@ export default function Thoroughly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>I ______ enjoyed the movie.</li>
+          <li>i THORoughly enJOYed the MOvie.</li>
           <li className="list-none">Tôi đã rất thích bộ phim đó.</li>
 
         </ul>
@@ -196,10 +189,10 @@ export default function Thoroughly1(): React.JSX.Element {
 
           <ol>
 
-            <li>He read the book.</li>
+            <li>he READ the BOOK.</li>
             <li className="list-none margin-bottom-20">Anh ấy đã đọc cuốn sách.</li>
 
-            <li value="2">He ______ read the book and understood every detail.</li>
+            <li value="2">he THORoughly READ the BOOK and underSTOOD every DEtail.</li>
             <li className="list-none margin-bottom-20">Anh ấy đã đọc kỹ cuốn sách và hiểu rõ từng chi tiết.</li>
 
           </ol>
@@ -220,7 +213,7 @@ export default function Thoroughly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Chi tiết: "<strong>Thoroughly</strong>" nhấn mạnh việc chú ý đến từng chi tiết nhỏ.</li>
+          <li>Chi tiết: "<strong>THORoughly</strong>" nhấn mạnh việc chú ý đến từng chi tiết nhỏ.</li>
 
           <li className="margin-bottom-20">Hoàn thành: Nó thường được sử dụng để chỉ ra rằng một việc gì đó đã được hoàn thành một cách triệt để.</li>
 
