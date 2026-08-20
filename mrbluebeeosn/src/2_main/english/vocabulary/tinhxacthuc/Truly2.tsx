@@ -5,9 +5,9 @@ import EyeIcon from '@/components/view/EyeIcon';
 import ViewCounter from '@/components/view/ViewCounter';
 import LikeButton from '@/components/like/LikeButton';
 
-export default function Truly2(): React.JSX.Element {
+export default function TRUly2(): React.JSX.Element {
 
-	const postId = "Truly2";
+	const postId = "TRUly2";
 
 	return (<>
 
@@ -17,18 +17,18 @@ export default function Truly2(): React.JSX.Element {
 		
 			<h4><HashLink smooth to="/vocabulary#tinh-xac-thuc-terms"><mark className="highlight-tertiary-padding-4-8">ADverbs: xác thực</mark></HashLink></h4>
 			
-			<h1 className="margin-y-50 text-center">truly
+			<h1 className="margin-y-50 text-center">TRUly
 				<sup>
-					<Link to="/vocabulary/truly-1">&nbsp;1&nbsp;</Link>
+					<Link to="/vocabulary/TRUly-1">&nbsp;1&nbsp;</Link>
 				</sup>
 				<sup>
-					<Link to="/vocabulary/truly-2">&nbsp;2&nbsp;</Link>
+					<Link to="/vocabulary/TRUly-2">&nbsp;2&nbsp;</Link>
 				</sup>
 			</h1>
 
 			{/* This is the content of Vocabulary Term. */}
 
-			<p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>truly</strong>" (thật sự, thực sự) và các cụm từ hay đi kèm nhé.</p>
+			<p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>TRUly</strong>" (thật sự, thực sự) và các cụm từ hay đi kèm nhé.</p>
 
 			<div className="text-border1 padding-10 highlight-238-padding-4-8 bee-container">
 
@@ -36,13 +36,11 @@ export default function Truly2(): React.JSX.Element {
 
 					<p className="margin-y-10">
 						
-						<strong>Truly&nbsp;</strong>
-						
 						<span className="highlight-255-padding-3-6">
 							
 							[TRUly][TRU ly] /ˈtruːli/ + /
 							
-							<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">trüly</Link>/ 
+							<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">TRÜly</Link>/ 
 							
 							&nbsp;⬤• (2x)
 							
@@ -62,44 +60,34 @@ export default function Truly2(): React.JSX.Element {
 
 			<ol className="margin-top-30 padding-left-30">
 
-				<li value="1">Truly <strong>appreciate</strong> /əˈpriːʃieɪt/</li>
-				<li className="list-none">I ______ your help.</li>
+				<li value="1">I TRUly apPREciate your HELP.</li>
 				<li className="list-none margin-bottom-20">Tôi thật sự trân trọng sự giúp đỡ của bạn.</li>
 
-				<li value="2">Truly <strong>believe</strong> /bɪˈliːv/</li>
-				<li className="list-none">I ______ in the power of love.</li>
+				<li value="2">I TRUly beLIEVE in the POWer of LOVE.</li>
 				<li className="list-none margin-bottom-20">Tôi thật sự tin vào sức mạnh của tình yêu.</li>
 
-				<li value="3">Truly <strong>understand</strong> /ʌndərˈstænd/</li>
-				<li className="list-none">I ______ how you feel.</li>
+				<li value="3">I TRUly underSTAND how you FEEL.</li>
 				<li className="list-none margin-bottom-20">Tôi thật sự hiểu cảm giác của bạn.</li>
 
-				<li value="4">Truly <strong>sorry</strong> /ˈsɔːri/</li>
-				<li className="list-none">I am ______ for what I said.</li>
+				<li value="4">I am TRUly SORry for what I SAID.</li>
 				<li className="list-none margin-bottom-20">Tôi thật sự xin lỗi về những gì tôi đã nói.</li>
 
-				<li value="5">Truly <strong>remarkable</strong> /rɪˈmɑːrkəbl/</li>
-				<li className="list-none">Her performance was ______.</li>
+				<li value="5">Her perFORmance was TRUly reMARKable.</li>
 				<li className="list-none margin-bottom-20">Màn trình diễn của cô ấy thật sự đáng chú ý.</li>
 
-				<li value="6">Truly <strong>inspiring</strong> /ɪnˈspaɪərɪŋ/</li>
-				<li className="list-none">His story is ______.</li>
+				<li value="6">His STOry is TRUly inSPIring.</li>
 				<li className="list-none margin-bottom-20">Câu chuyện của anh ấy thật sự truyền cảm hứng.</li>
 
-				<li value="7">Truly <strong>unique</strong> /juːˈniːk/</li>
-				<li className="list-none">Her artwork is ______.</li>
+				<li value="7">Her ARTwork is TRUly uNIQUE.</li>
 				<li className="list-none margin-bottom-20">Tác phẩm nghệ thuật của cô ấy thật sự độc đáo.</li>
 
-				<li value="8">Truly <strong>grateful</strong> /ˈɡreɪtfəl/</li>
-				<li className="list-none">I am ______ for your support.</li>
+				<li value="8">I am TRUly GRATEful for your supPORT.</li>
 				<li className="list-none margin-bottom-20">Tôi thật sự biết ơn sự ủng hộ của bạn.</li>
 
-				<li value="9">Truly <strong>blessed</strong> /blɛst/</li>
-				<li className="list-none">I feel ______ to have such good friends.</li>
+				<li value="9">I FEEL TRUly BLESSED to HAVE such GOOD FRIENDS.</li>
 				<li className="list-none margin-bottom-20">Tôi cảm thấy thật sự may mắn khi có những người bạn tốt như vậy.</li>
 
-				<li value="10">Truly <strong>unforgettable</strong> /ʌn.fərˈɡɛt.ə.bəl/</li>
-				<li className="list-none">It was a ______ experience.</li>
+				<li value="10">It was a TRUly unforGETtable exPErience.</li>
 				<li className="list-none margin-bottom-20">Đó là một trải nghiệm thật sự khó quên.</li>
 
 			</ol>
@@ -116,7 +104,7 @@ export default function Truly2(): React.JSX.Element {
 
 				<ul className="list-square">
 
-					<li>"<strong>Truly</strong>" thường được đặt trước Tính Cơ hoặc hành động để nhấn mạnh ý nghĩa.</li>
+					<li>"<strong>TRUly</strong>" thường được đặt trước Tính Cơ hoặc hành động để nhấn mạnh ý nghĩa.</li>
 
 					<li className="margin-bottom-20">Từ này thường được sử dụng trong các văn nói và văn viết trang trọng.</li>
 

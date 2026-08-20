@@ -105,7 +105,7 @@ export default function Honestly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li><Link to="/vocabulary/truly-1">Truly</Link> /ˈtruːli/</li>
+          <li><Link to="/vocabulary/TRUly-1">Truly</Link> /ˈtruːli/</li>
           <li className="list-none">I ______ believe in you.</li>
           <li className="margin-bottom-20 list-none">Tôi thực sự tin tưởng bạn.</li>
 

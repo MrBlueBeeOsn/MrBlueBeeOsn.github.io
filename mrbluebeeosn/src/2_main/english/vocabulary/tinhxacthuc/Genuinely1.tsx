@@ -109,7 +109,7 @@ export default function (): React.JSX.Element {
           <li className="list-none">She thanked him ______ for his help.</li>
           <li className="margin-bottom-20 list-none">Cô ấy chân thành cảm ơn anh ấy vì sự giúp đỡ.</li>
 
-          <li><Link to="/vocabulary/truly-1">Truly</Link> /ˈtruːli/</li>
+          <li><Link to="/vocabulary/TRUly-1">Truly</Link> /ˈtruːli/</li>
           <li className="list-none">I ______ believe in what he said.</li>
           <li className="list-none">Tôi thực sự tin vào những gì anh ấy nói.</li>
 
