@@ -5,9 +5,9 @@ import EyeIcon from '@/components/view/EyeIcon';
 import ViewCounter from '@/components/view/ViewCounter';
 import LikeButton from '@/components/like/LikeButton';
 
-export default function Cheerfully1(): React.JSX.Element {
+export default function CHEERfully1(): React.JSX.Element {
 
-  const postId = "Cheerfully1";
+  const postId = "CHEERfully1";
 
   return (<>
 
@@ -17,29 +17,26 @@ export default function Cheerfully1(): React.JSX.Element {
     
       <h4><HashLink smooth to="/vocabulary#tinh-tich-cuc-terms"><mark className="highlight-tertiary-padding-4-8">ADverbs: tích cực</mark></HashLink></h4>
       
-      <h1 className="margin-y-50 text-center">cheerfully
-        <sup><Link to="/vocabulary/cheerfully-1">&nbsp;1&nbsp;</Link>
+      <h1 className="margin-y-50 text-center">CHEERfully
+        <sup><Link to="/vocabulary/CHEERfully-1">&nbsp;1&nbsp;</Link>
         </sup>
-        <sup><Link to="/vocabulary/cheerfully-2">&nbsp;2&nbsp;</Link>
+        <sup><Link to="/vocabulary/CHEERfully-2">&nbsp;2&nbsp;</Link>
         </sup>
       </h1>
 
       {/* This is the content of Vocabulary Term. */}
       
-      <p>Tuyệt vời! Chúng ta cùng khám phá từ "<strong>cheerfully</strong>" nhé.</p>
+      <p>Tuyệt vời! Chúng ta cùng khám phá từ "<strong>CHEERfully</strong>" nhé.</p>
 
       <div className="text-border1 padding-top-20 padding-bottom-10 highlight-238-padding-4-8 bee-container">
 
         <div>
 
-          <p className="margin-bottom-20"><strong>Cheerfully</strong></p>
-
           <ul className="list-square padding-left-40">
 
             <li>
               <span className="highlight-255-padding-3-6">
-                [CHEERfully][CHEER ful ly] /ˈtʃɪrfəli/ + /<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">cheerfưlly</Link>/
-                &nbsp;⬤•• (3x)
+                [CHEERfully][<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">CHEER fưl ly</Link>] /ˈtʃɪrfəli/ ⬤•• (3x)
               </span>
             </li>
 
@@ -57,16 +54,16 @@ export default function Cheerfully1(): React.JSX.Element {
 
       </div>
 
-      <p className="margin-top-30 text-indent-whole">Từ "<strong>cheerfully</strong>" được dùng để miêu tả một hành động hoặc thái độ được thực hiện một cách vui vẻ, lạc quan, thể hiện sự hài lòng hoặc hứng thú.</p>
+      <p className="margin-top-30 text-indent-whole">Từ "<strong>CHEERfully</strong>" được dùng để miêu tả một hành động hoặc thái độ được thực hiện một cách vui vẻ, lạc quan, thể hiện sự hài lòng hoặc hứng thú.</p>
 
       <p className="margin-top-20 text-indent-whole">Ví dụ:</p>
 
         <ul className="list-square">
 
-          <li>She greeted me ______ this morning.</li>
+          <li>she GREETed me CHEERfully this MORning.</li>
           <li className="margin-bottom-20 list-none">Cô ấy chào tôi một cách vui vẻ vào sáng nay.</li>
 
-          <li>He whistled ______ as he worked.</li>
+          <li>he WHISTled CHEERfully as he WORKED.</li>
           <li className="list-none">Anh ấy huýt sáo vui vẻ khi làm việc.</li>
 
         </ul>
@@ -83,16 +80,13 @@ export default function Cheerfully1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Cheered (v) /tʃɪərd/</li>
-          <li className="list-none">The crowd ______ the team on.</li>
+          <li>the CROWD CHEERED the TEAM ON.</li>
           <li className="margin-bottom-20 list-none">Đám đông cổ vũ đội bóng.</li>
 
-          <li>Cheer (n) /tʃɪər/</li>
-          <li className="list-none">Her ______ brightened up the room.</li>
+          <li>her CHEER BRIGHtened UP the ROOM.</li>
           <li className="margin-bottom-20 list-none">Sự vui vẻ của cô ấy làm căn phòng sáng bừng lên.</li>
 
-          <li>Cheerful (adj) /ˈtʃɪərfəl/</li>
-          <li className="list-none">She has a ______ personality.</li>
+          <li>she HAS a CHEERful persoNALity.</li>
           <li className="list-none">Cô ấy có một tính cách vui vẻ.</li>
 
         </ul>
@@ -109,12 +103,10 @@ export default function Cheerfully1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li><Link to="/vocabulary/HAPpily-1">Happily</Link> /ˈhæpɪli/</li>
-          <li className="list-none">They lived ______ ever after.</li>
+          <li>they LIVED <Link to="/vocabulary/HAPpily-1">HAPpily</Link> EVer after..</li>
           <li className="margin-bottom-20 list-none">Họ sống hạnh phúc mãi mãi.</li>
 
-          <li><Link to="/vocabulary/JOYfully-1">Joyfully</Link> /ˈdʒɔɪfəli/</li>
-          <li className="list-none">She danced ______.</li>
+          <li>she DANCED <Link to="/vocabulary/JOYfully-1">JOYfully</Link>.</li>
           <li className="list-none">Cô ấy nhảy múa một cách vui mừng.</li>
 
         </ul>
@@ -133,12 +125,10 @@ export default function Cheerfully1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Sadly /ˈsædli/</li>
-          <li className="list-none">He shook his head ______.</li>
+          <li>he SHOOK his HEAD SADly.</li>
           <li className="margin-bottom-20 list-none">Anh ấy lắc đầu một cách buồn bã.</li>
 
-          <li>Grumpily /ˈɡrʌmpɪli/</li>
-          <li className="list-none">He answered ______.</li>
+          <li>he ANswered GRUMpily.</li>
           <li className="list-none">Anh ấy trả lời một cách cáu kỉnh.</li>
 
         </ul>
@@ -164,7 +154,7 @@ export default function Cheerfully1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>They are grinning ______.</li>
+          <li>they are GRINning CHEERfully.</li>
           <li className="list-none">Họ đang cười toe toét.</li>
 
         </ul>
@@ -184,7 +174,7 @@ export default function Cheerfully1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>She ______ agreed to help me with the project.</li>
+          <li>she CHEERfully aGREED to HELP me with the PROject.</li>
           <li className="list-none">Cô ấy vui vẻ đồng ý giúp tôi làm dự án.</li>
 
         </ul>
@@ -206,10 +196,10 @@ export default function Cheerfully1(): React.JSX.Element {
 
           <ol>
 
-            <li>He answered the question.</li>
+            <li>he ANswered the QUEStion.</li>
             <li className="list-none margin-bottom-20">Anh ấy trả lời câu hỏi.</li>
 
-            <li value="2">He answered the question ______.</li>
+            <li value="2">he ANswered the QUEStion CHEERfully.</li>
             <li className="list-none margin-bottom-20">Anh ấy trả lời câu hỏi một cách vui vẻ.</li>
 
           </ol>
@@ -232,7 +222,7 @@ export default function Cheerfully1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Cảm xúc: "<strong>Cheerfully</strong>" thường liên quan đến cảm xúc tích cực như vui mừng, hạnh phúc.</li>
+          <li>Cảm xúc: "<strong>CHEERfully</strong>" thường liên quan đến cảm xúc tích cực như vui mừng, hạnh phúc.</li>
 
           <li className="margin-bottom-20">Thái độ: Nó miêu tả một thái độ lạc quan, sẵn sàng đối mặt với mọi thứ.</li>
 
