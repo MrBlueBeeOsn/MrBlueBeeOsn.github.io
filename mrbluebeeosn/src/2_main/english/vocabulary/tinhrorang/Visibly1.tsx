@@ -103,7 +103,7 @@ export default function VISibly1(): React.JSX.Element {
           <li>he <Link to="/vocabulary/clearly-1">CLEARly</Link> STAted his oPINion.</li>
           <li className="margin-bottom-20 list-none">Anh ấy đã nêu rõ quan điểm của mình.</li>
 
-          <li>it was <Link to="/vocabulary/obviously-1">OBviously</Link> a misTAKE.</li>
+          <li>it was <Link to="/vocabulary/OBviously-1">OBviously</Link> a misTAKE.</li>
           <li className="list-none">Rõ ràng đó là một sai lầm.</li>
 
         </ul>

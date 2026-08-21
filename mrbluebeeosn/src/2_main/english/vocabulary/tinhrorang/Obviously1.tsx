@@ -5,9 +5,9 @@ import EyeIcon from '@/components/view/EyeIcon';
 import ViewCounter from '@/components/view/ViewCounter';
 import LikeButton from '@/components/like/LikeButton';
 
-export default function Obviously1(): React.JSX.Element {
+export default function OBviously1(): React.JSX.Element {
 
-  const postId = "Obviously1";
+  const postId = "OBviously1";
 
   return (<>
 
@@ -17,29 +17,26 @@ export default function Obviously1(): React.JSX.Element {
     
       <h4><HashLink smooth to="/vocabulary#tinh-ro-rang-terms"><mark className="highlight-tertiary-padding-4-8">ADverbs: rõ ràng</mark></HashLink></h4>
       
-      <h1 className="margin-y-50 text-center">obviously
-        <sup><Link to="/vocabulary/obviously-1">&nbsp;1&nbsp;</Link>
+      <h1 className="margin-y-50 text-center">OBviously
+        <sup><Link to="/vocabulary/OBviously-1">&nbsp;1&nbsp;</Link>
         </sup>
-        <sup><Link to="/vocabulary/obviously-2">&nbsp;2&nbsp;</Link>
+        <sup><Link to="/vocabulary/OBviously-2">&nbsp;2&nbsp;</Link>
         </sup>
       </h1>
 
       {/* This is the content of Vocabulary Term. */}
       
-      <p>Tuyệt vời! Chúng ta cùng khám phá từ "<strong>obviously</strong>" nhé.</p>
+      <p>Tuyệt vời! Chúng ta cùng khám phá từ "<strong>OBviously</strong>" nhé.</p>
 
       <div className="text-border1 padding-top-20 padding-bottom-10 highlight-238-padding-4-8 bee-container">
 
         <div>
 
-          <p className="margin-bottom-20"><strong>Obviously</strong></p>
-
           <ul className="list-square padding-left-40">
 
             <li>
               <span className="highlight-255-padding-3-6">
-                [OBviously][OB vi ous ly] /ˈɒbviəsli/ + /<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">obviơusly</Link>/
-                &nbsp;⬤••• (4x)
+                [OBviously][<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">OB vi ơus ly</Link>] /ˈɒbviəsli/ ⬤••• (4x)
               </span>
             </li>
 
@@ -57,16 +54,16 @@ export default function Obviously1(): React.JSX.Element {
 
       </div>
 
-      <p className="margin-top-30 text-indent-whole">Từ "<strong>obviously</strong>" được dùng để nhấn mạnh rằng một điều gì đó rất dễ thấy, dễ hiểu và không cần phải giải thích thêm. Nó thể hiện sự chắc chắn và rõ ràng về một thông tin hoặc một sự kiện.</p>
+      <p className="margin-top-30 text-indent-whole">Từ "<strong>OBviously</strong>" được dùng để nhấn mạnh rằng một điều gì đó rất dễ thấy, dễ hiểu và không cần phải giải thích thêm. Nó thể hiện sự chắc chắn và rõ ràng về một thông tin hoặc một sự kiện.</p>
 
       <p className="margin-top-20 text-indent-whole">Ví dụ:</p>
 
         <ul className="list-square">
 
-          <li>______, the sun rises in the east.</li>
+          <li>OBviously, the SUN RIses in the EAST.</li>
           <li className="margin-bottom-20 list-none">Rõ ràng, mặt trời mọc ở hướng đông.</li>
 
-          <li>She was ______ upset.</li>
+          <li>she was OBviously upSET.</li>
           <li className="list-none">Rõ ràng cô ấy rất buồn.</li>
 
         </ul>
@@ -83,8 +80,7 @@ export default function Obviously1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Obvious (adj) /ˈɒbviəs/</li>
-          <li className="list-none">It's ______ that he's lying.</li>
+          <li>it's OBvious that he's LYing.</li>
           <li className="list-none">Rõ ràng là anh ta đang nói dối.</li>
 
         </ul>
@@ -101,12 +97,10 @@ export default function Obviously1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li><Link to="/vocabulary/clearly-1">Clearly</Link> /ˈklɪərli/</li>
-          <li className="list-none">______, you don't understand.</li>
+          <li><Link to="/vocabulary/clearly-1">CLEARly</Link>, you DON'T underSTAND.</li>
           <li className="margin-bottom-20 list-none">Rõ ràng là bạn không hiểu.</li>
 
-          <li>Evidently /ˈevɪdəntli/</li>
-          <li className="list-none">______, she is the best candidate.</li>
+          <li><Link to="/vocabulary/evidently-1">EVidently</Link>, she is the BEST CANdidate.</li>
           <li className="list-none">Rõ ràng, cô ấy là ứng viên tốt nhất.</li>
 
         </ul>
@@ -123,12 +117,10 @@ export default function Obviously1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Unclearly /ʌnˈklɪərli/</li>
-          <li className="list-none">He explained the problem ______.</li>
+          <li>he exPLAINED the PROBlem unCLEARly.</li>
           <li className="margin-bottom-20 list-none">Anh ấy giải thích vấn đề không rõ ràng.</li>
 
-          <li>Ambiguously /æmˈbɪɡjuəsli/</li>
-          <li className="list-none">Imagine a traffic sign designed clearly, not ______.</li>
+          <li>iMAgine a TRAFfic SIGN deSIGNED CLEARly, NOT amBIGuously.</li>
           <li className="list-none">Hãy tưởng tượng một biển báo giao thông rõ ràng, không mập mờ.</li>
 
         </ul>
@@ -154,7 +146,7 @@ export default function Obviously1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>The traffic sign with a red circle and a diagonal line is ______ a 'no entry' sign.</li>
+          <li>the TRAFfic SIGN with a RED CIRcle and a diAGonal LINE is OBviously a 'NO ENtry' SIGN.</li>
           <li className="list-none">Biển báo giao thông có hình tròn đỏ và đường chéo rõ ràng là biển cấm đi vào.</li>
 
         </ul>
@@ -174,7 +166,7 @@ export default function Obviously1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>______, you need to study harder if you want to pass the exam.</li>
+          <li>OBviously, you NEED to STUdy HARder if you WANT to PASS the exAM.</li>
           <li className="list-none">Rõ ràng, bạn cần học chăm chỉ hơn nếu muốn vượt qua kỳ thi.</li>
 
         </ul>
@@ -196,17 +188,17 @@ export default function Obviously1(): React.JSX.Element {
 
           <ol>
 
-            <li>He is tired.</li>
+            <li>he is TIRED.</li>
             <li className="list-none margin-bottom-20">Anh ấy mệt.</li>
 
-            <li value="2">______, he is tired. He has been working all night.</li>
+            <li value="2">OBviously, he is TIRED. he has been WORKing ALL NIGHT.</li>
             <li className="list-none margin-bottom-20">Rõ ràng, anh ấy mệt. Anh ấy đã làm việc cả đêm.</li>
 
           </ol>
 
       <div className="margin-bottom-20 padding-top-20 text-border1 padding-10 highlight-238-padding-4-8 bee-container">
 
-        <p className="margin-y-10">Sự khác biệt: Câu thứ hai sử dụng "<strong>obviously</strong>" để <span className="highlight-255-padding-0-4">nhấn mạnh rằng việc</span> anh ấy <span className="highlight-255-padding-0-4">mệt mỏi là một điều dễ hiểu</span> và không cần phải giải thích thêm, vì có lý do rõ ràng cho điều đó.</p>
+        <p className="margin-y-10">Sự khác biệt: Câu thứ hai sử dụng "<strong>OBviously</strong>" để <span className="highlight-255-padding-0-4">nhấn mạnh rằng việc</span> anh ấy <span className="highlight-255-padding-0-4">mệt mỏi là một điều dễ hiểu</span> và không cần phải giải thích thêm, vì có lý do rõ ràng cho điều đó.</p>
 
       </div>
 
@@ -220,7 +212,7 @@ export default function Obviously1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Sự chắc chắn: "<strong>Obviously</strong>" thể hiện sự chắc chắn của người nói về một thông tin nào đó.</li>
+          <li>Sự chắc chắn: "<strong>OBviously</strong>" thể hiện sự chắc chắn của người nói về một thông tin nào đó.</li>
 
           <li className="margin-bottom-20">Không cần giải thích: Nó thường được dùng để nhấn mạnh rằng một điều gì đó quá rõ ràng để cần phải giải thích.</li>
 

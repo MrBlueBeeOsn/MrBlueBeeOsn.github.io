@@ -400,8 +400,8 @@ const Posts = lazy(() => import('@/data/Posts'));
 	// 5. Vocabulary - Tính rõ ràng
 	const Clearly1 = lazy(() => import('@/2_main/english/vocabulary/tinhrorang/Clearly1'));
 	const Clearly2 = lazy(() => import('@/2_main/english/vocabulary/tinhrorang/Clearly2'));
-	const Obviously1 = lazy(() => import('@/2_main/english/vocabulary/tinhrorang/Obviously1'));
-	const Obviously2 = lazy(() => import('@/2_main/english/vocabulary/tinhrorang/Obviously2'));
+	const OBviously1 = lazy(() => import('@/2_main/english/vocabulary/tinhrorang/OBviously1'));
+	const OBviously2 = lazy(() => import('@/2_main/english/vocabulary/tinhrorang/OBviously2'));
 	const Evidently1 = lazy(() => import('@/2_main/english/vocabulary/tinhrorang/Evidently1'));
 	const Evidently2 = lazy(() => import('@/2_main/english/vocabulary/tinhrorang/Evidently2'));
 	const VISibly1 = lazy(() => import('@/2_main/english/vocabulary/tinhrorang/VISibly1'));
@@ -1005,8 +1005,8 @@ export default function AppRoutes(): React.JSX.Element {
 					{/* 5. Vocabulary - Tính rõ ràng */}
 					<Route path="/vocabulary/clearly-1" element={<Clearly1 />} />
 					<Route path="/vocabulary/clearly-2" element={<Clearly2 />} />
-					<Route path="/vocabulary/obviously-1" element={<Obviously1 />} />
-					<Route path="/vocabulary/obviously-2" element={<Obviously2 />} />
+					<Route path="/vocabulary/OBviously-1" element={<OBviously1 />} />
+					<Route path="/vocabulary/OBviously-2" element={<OBviously2 />} />
 					<Route path="/vocabulary/evidently-1" element={<Evidently1 />} />
 					<Route path="/vocabulary/evidently-2" element={<Evidently2 />} />
 					<Route path="/vocabulary/VISibly-1" element={<VISibly1 />} />

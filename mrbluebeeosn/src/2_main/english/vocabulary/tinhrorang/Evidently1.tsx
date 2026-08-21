@@ -109,7 +109,7 @@ export default function Evidently1(): React.JSX.Element {
           <li className="list-none">She ______ stated her position.</li>
           <li className="margin-bottom-20 list-none">Cô ấy đã nêu rõ quan điểm của mình.</li>
 
-          <li><Link to="/vocabulary/obviously-1">Obviously</Link> /ˈɒbviəsli/</li>
+          <li><Link to="/vocabulary/OBviously-1">Obviously</Link> /ˈɒbviəsli/</li>
           <li className="list-none">It was ______ a mistake.</li>
           <li className="list-none">Rõ ràng đó là một sai lầm.</li>
 

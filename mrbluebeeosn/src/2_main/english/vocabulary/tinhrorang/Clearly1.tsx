@@ -105,7 +105,7 @@ export default function Clearly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li><Link to="/vocabulary/obviously-1">Obviously</Link> /ˈɒbviəsli/</li>
+          <li><Link to="/vocabulary/OBviously-1">Obviously</Link> /ˈɒbviəsli/</li>
           <li className="list-none">______, he's lying.</li>
           <li className="margin-bottom-20 list-none">Rõ ràng, anh ta đang nói dối.</li>
 
