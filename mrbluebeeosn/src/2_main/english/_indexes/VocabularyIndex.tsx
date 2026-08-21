@@ -1043,10 +1043,10 @@ export default function VocabularyIndex(): React.JSX.Element {
 						</li>
 
 						<li>
-							<Link to="/vocabulary/visibly-1">visibly
+							<Link to="/vocabulary/VISibly-1">VISibly
 								<sup>&nbsp;1&nbsp;</sup>
 									</Link> 
-									<Link to="/vocabulary/visibly-2">
+									<Link to="/vocabulary/VISibly-2">
 								<sup>&nbsp;2&nbsp;</sup>
 							</Link>
 						</li>
