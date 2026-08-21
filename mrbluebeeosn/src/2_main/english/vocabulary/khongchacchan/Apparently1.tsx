@@ -111,7 +111,7 @@ export default function Apparently1(): React.JSX.Element {
 
         </ul>
 
-        {/* <Link to="/vocabulary/clearly-1">Clearly</Link> */}
+        {/* <Link to="/vocabulary/CLEARly-1">Clearly</Link> */}
 
       {/* =============================
             Từ trái nghĩa:
@@ -224,7 +224,7 @@ export default function Apparently1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Mức độ chắc chắn: "<strong>Apparently</strong>" thể hiện mức độ chắc chắn thấp hơn so với các từ như "<Link to="/vocabulary/clearly-1">clearly</Link>" (rõ ràng) hoặc "<Link to="/vocabulary/definitely-1">definitely</Link>" (chắc chắn).</li>
+          <li>Mức độ chắc chắn: "<strong>Apparently</strong>" thể hiện mức độ chắc chắn thấp hơn so với các từ như "<Link to="/vocabulary/CLEARly-1">clearly</Link>" (rõ ràng) hoặc "<Link to="/vocabulary/definitely-1">definitely</Link>" (chắc chắn).</li>
 
           <li className="margin-bottom-20">Nguồn tin: Thông tin được đưa ra bằng "<strong>apparently</strong>" có thể đến từ nhiều nguồn khác nhau, chẳng hạn như lời đồn, tin đồn, hoặc quan sát cá nhân.</li>
 

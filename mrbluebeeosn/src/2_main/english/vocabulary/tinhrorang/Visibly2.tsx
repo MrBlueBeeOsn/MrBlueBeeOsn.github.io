@@ -103,7 +103,7 @@ export default function VISibly1(): React.JSX.Element {
 
           <li>"<strong>Visibly</strong>" thường đứng trước Tính Cơ để bổ nghĩa.</li>
 
-          <li className="margin-bottom-20">Từ này có thể được thay thế bằng các từ đồng nghĩa như "<Link to="/vocabulary/clearly-1">CLEARly</Link>", "<Link to="/vocabulary/OBviously-1">OBviously</Link>", "<Link to="/vocabulary/EVidently-1">EVidently</Link>" để tạo sự đa dạng trong văn phong.</li>
+          <li className="margin-bottom-20">Từ này có thể được thay thế bằng các từ đồng nghĩa như "<Link to="/vocabulary/CLEARly-1">CLEARly</Link>", "<Link to="/vocabulary/OBviously-1">OBviously</Link>", "<Link to="/vocabulary/EVidently-1">EVidently</Link>" để tạo sự đa dạng trong văn phong.</li>
 
         </ul>
 

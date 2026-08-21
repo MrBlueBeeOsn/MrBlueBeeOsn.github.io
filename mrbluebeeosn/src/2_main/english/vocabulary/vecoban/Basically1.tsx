@@ -110,7 +110,7 @@ export default function BAsically1(): React.JSX.Element {
 
         </ul>
 
-        {/* <Link to="/vocabulary/clearly-1">Clearly</Link> */}
+        {/* <Link to="/vocabulary/CLEARly-1">Clearly</Link> */}
 
       {/* =============================
             Từ trái nghĩa:

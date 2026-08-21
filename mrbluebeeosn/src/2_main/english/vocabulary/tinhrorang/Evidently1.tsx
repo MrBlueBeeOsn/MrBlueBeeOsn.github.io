@@ -100,7 +100,7 @@ export default function EVidently1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>she <Link to="/vocabulary/clearly-1">CLEARly</Link> STAted her poSItion.</li>
+          <li>she <Link to="/vocabulary/CLEARly-1">CLEARly</Link> STAted her poSItion.</li>
           <li className="margin-bottom-20 list-none">Cô ấy đã nêu rõ quan điểm của mình.</li>
 
           <li>it was <Link to="/vocabulary/OBviously-1">OBviously</Link> a misTAKE.</li>
