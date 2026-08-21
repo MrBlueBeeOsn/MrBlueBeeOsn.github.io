@@ -100,7 +100,7 @@ export default function OBviously1(): React.JSX.Element {
           <li><Link to="/vocabulary/clearly-1">CLEARly</Link>, you DON'T underSTAND.</li>
           <li className="margin-bottom-20 list-none">Rõ ràng là bạn không hiểu.</li>
 
-          <li><Link to="/vocabulary/evidently-1">EVidently</Link>, she is the BEST CANdidate.</li>
+          <li><Link to="/vocabulary/EVidently-1">EVidently</Link>, she is the BEST CANdidate.</li>
           <li className="list-none">Rõ ràng, cô ấy là ứng viên tốt nhất.</li>
 
         </ul>
