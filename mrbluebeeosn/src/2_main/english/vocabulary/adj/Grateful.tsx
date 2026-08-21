@@ -5,9 +5,9 @@ import EyeIcon from '@/components/view/EyeIcon';
 import ViewCounter from '@/components/view/ViewCounter';
 import LikeButton from '@/components/like/LikeButton';
 
-export default function Grateful(): React.JSX.Element {
+export default function GRATEful(): React.JSX.Element {
 
-  const postId = "Grateful";
+  const postId = "GRATEful";
 
   return (<>
 
@@ -42,7 +42,7 @@ export default function Grateful(): React.JSX.Element {
 
           <ul className="list-square padding-left-40">
 
-            <li>IPA: [GRATEful][GRATE ful] /ˈɡreɪt.fəl/</li>
+            <li>IPA: [GRATEful][GRĀTE ful] /ˈɡreɪt.fəl/</li>
             <li>Phonetic Breakdown: GRAYT-ful</li>
 
           </ul>

@@ -5,9 +5,9 @@ import EyeIcon from '@/components/view/EyeIcon';
 import ViewCounter from '@/components/view/ViewCounter';
 import LikeButton from '@/components/like/LikeButton';
 
-export default function Attractive(): React.JSX.Element {
+export default function atTRACtive(): React.JSX.Element {
 
-  const postId = "Attractive";
+  const postId = "atTRACtive";
 
   return (<>
 
@@ -17,7 +17,7 @@ export default function Attractive(): React.JSX.Element {
     
       <h4><HashLink smooth to="/vocabulary#adjectives-terms"><mark className="highlight-tertiary-padding-4-8">ADjectives</mark></HashLink></h4>
       
-      <h1 className="margin-y-50 text-center">attractive</h1>
+      <h1 className="margin-y-50 text-center">atTRACtive</h1>
 
       {/* This is the content of Vocabulary Term. */}
 
@@ -42,7 +42,7 @@ export default function Attractive(): React.JSX.Element {
 
           <ul className="list-square padding-left-40">
 
-            <li>IPA: [atTRACtive][at TRAC tive] /əˈtræk.tɪv/</li>
+            <li>IPA: [atTRACtive][a̛t TRAC tive] /əˈtræk.tɪv/</li>
             <li>Phonetic Breakdown: uh-TRAK-tiv</li>
 
           </ul>

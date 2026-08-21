@@ -3785,23 +3785,23 @@
       "likes": 0
     },
     {
-      "id": "Beautiful",
+      "id": "BEAUtiful",
       "categoryDisplay": "Đẹp",
       "categorySlug": "vocabulary#adjectives-terms",
       "title": "BEAUtiful",
       "content": "[BEAUtiful] (ADjective): Đẹp, có những phẩm chất đem lại sự hài lòng hoặc thỏa mãn cho các giác quan (đặc biệt là thị giác) hoặc cho tâm trí. Thường ám chỉ sự hài hòa, xuất sắc hoặc có tính thẩm mỹ cao.",
-      "slug": "vocabulary/beautiful",
+      "slug": "vocabulary/BEAUtiful",
       "date": "2026-04-26",
       "views": 0,
       "likes": 0
     },
     {
-      "id": "Attractive",
+      "id": "atTRACtive",
       "categoryDisplay": "Hấp dẫn",
       "categorySlug": "vocabulary#adjectives-terms",
       "title": "atTRACtive",
       "content": "[atTRACtive] (ADjective): Hấp dẫn, lôi cuốn, có sức hút. Từ này dùng để mô tả người hoặc vật có những đặc điểm làm hài lòng thị giác hoặc thu hút sự chú ý, quan tâm của người khác.",
-      "slug": "vocabulary/attractive",
+      "slug": "vocabulary/atTRACtive",
       "date": "2026-04-27",
       "views": 0,
       "likes": 0
@@ -3818,12 +3818,12 @@
       "likes": 0
     },
     {
-      "id": "Grateful",
+      "id": "GRATEful",
       "categoryDisplay": "Biết ơn, cảm kích.",
       "categorySlug": "vocabulary#adjectives-terms",
       "title": "GRATEful",
       "content": "[GRATEful] (ADjective): Biết ơn, cảm kích. Từ này thể hiện lòng biết ơn hoặc sự trân trọng đối với những gì người khác đã làm cho mình hoặc những điều tốt đẹp mà mình nhận được.",
-      "slug": "vocabulary/grateful",
+      "slug": "vocabulary/GRATEful",
       "date": "2026-05-18",
       "views": 0,
       "likes": 0
@@ -3834,7 +3834,7 @@
       "categorySlug": "vocabulary#dc-terms",
       "title": "although",
       "content": "Although (liên cơ): Mặc dù, dẫu cho. Từ này được dùng để mở đầu cho một câu con chỉ sự nhượng bộ, thể hiện một kết quả bất ngờ hoặc tương phản với thực tế được nhắc đến trong câu con đó.",
-      "slug": "vocabulary/grateful",
+      "slug": "vocabulary/although",
       "date": "2026-05-19",
       "views": 0,
       "likes": 0

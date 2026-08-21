@@ -5,9 +5,9 @@ import EyeIcon from '@/components/view/EyeIcon';
 import ViewCounter from '@/components/view/ViewCounter';
 import LikeButton from '@/components/like/LikeButton';
 
-export default function Beautiful(): React.JSX.Element {
+export default function BEAUtiful(): React.JSX.Element {
 
-  const postId = "Beautiful";
+  const postId = "BEAUtiful";
 
   return (<>
 
@@ -42,7 +42,7 @@ export default function Beautiful(): React.JSX.Element {
 
           <ul className="list-square padding-left-40">
 
-            <li>IPA: [BEAUtiful][BEAU ti ful] /ˈbjuː.tɪ.fəl/</li>
+            <li>IPA: [BEAUtiful][BĖAU ti fưl] /ˈbjuː.tɪ.fəl/</li>
             <li>Phonetic Breakdown: BYOO-tih-ful</li>
 
           </ul>
