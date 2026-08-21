@@ -101,7 +101,7 @@ export default function Gently1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li><Link to="/vocabulary/softly-1">Softly</Link> /ˈsɒftli/</li>
+          <li><Link to="/vocabulary/SOFTly-1">Softly</Link> /ˈsɒftli/</li>
           <li className="list-none">She spoke ______.</li>
           <li className="margin-bottom-20 list-none">Cô ấy nói nhỏ nhẹ.</li>
 

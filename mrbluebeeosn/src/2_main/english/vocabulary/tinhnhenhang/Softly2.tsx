@@ -5,9 +5,9 @@ import EyeIcon from '@/components/view/EyeIcon';
 import ViewCounter from '@/components/view/ViewCounter';
 import LikeButton from '@/components/like/LikeButton';
 
-export default function Softly2(): React.JSX.Element {
+export default function SOFTly2(): React.JSX.Element {
 
-  const postId = "Softly2";
+  const postId = "SOFTly2";
 
   return (<>
 
@@ -17,18 +17,18 @@ export default function Softly2(): React.JSX.Element {
     
       <h4><HashLink smooth to="/vocabulary#tinh-nhe-nhang-terms"><mark className="highlight-tertiary-padding-4-8">ADverbs: nhẹ nhàng</mark></HashLink></h4>
       
-      <h1 className="margin-y-50 text-center">softly
+      <h1 className="margin-y-50 text-center">SOFTly
         <sup>
-          <Link to="/vocabulary/softly-1">&nbsp;1&nbsp;</Link>
+          <Link to="/vocabulary/SOFTly-1">&nbsp;1&nbsp;</Link>
         </sup>
         <sup>
-          <Link to="/vocabulary/softly-2">&nbsp;2&nbsp;</Link>
+          <Link to="/vocabulary/SOFTly-2">&nbsp;2&nbsp;</Link>
         </sup>
       </h1>
 
       {/* This is the content of Vocabulary Term. */}
 
-      <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>softly</strong>" (một cách nhẹ nhàng) và các cụm từ hay đi kèm nhé.</p>
+      <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>SOFTly</strong>" (một cách nhẹ nhàng) và các cụm từ hay đi kèm nhé.</p>
 
       <div className="text-border1 padding-10 highlight-238-padding-4-8 bee-container">
 
@@ -36,15 +36,9 @@ export default function Softly2(): React.JSX.Element {
 
           <p className="margin-y-10">
             
-            <strong>softly&nbsp;</strong>
-            
             <span className="highlight-255-padding-3-6">
               
-              [SOFTly][SOFT ly] /ˈsɒftli/ + /
-              
-              <Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">softly</Link>/ 
-              
-              &nbsp;⬤• (2x)
+              [SOFTly][<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">SOFT ly</Link>] /ˈsɒftli/ ⬤• (2x)
               
             </span>
               
@@ -62,44 +56,34 @@ export default function Softly2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1"><strong>Softly</strong> spoken: Nói nhỏ nhẹ /ˈsɒftli ˈspoʊkən/</li>
-        <li className="list-none">She ______ to the baby to calm it down.</li>
+        <li value="1">she SOFTly SPOken to the BAby to CALM it DOWN.</li>
         <li className="list-none margin-bottom-20">Cô ấy nói nhỏ nhẹ với em bé để dỗ nó nín.</li>
 
-        <li value="2">Softly <strong>lit</strong> /lɪt/</li>
-        <li className="list-none">The room was ______ by candlelight.</li>
+        <li value="2">the ROOM was SOFTly LIT by CANdlelight.</li>
         <li className="list-none margin-bottom-20">Căn phòng được chiếu sáng dịu nhẹ bởi ánh nến.</li>
 
-        <li value="3">Softly <strong>padded</strong> /ˈpædɪd/</li>
-        <li className="list-none">The chair was ______ for comfort.</li>
+        <li value="3">the CHAIR was SOFTly PADded for COMfort.</li>
         <li className="list-none margin-bottom-20">Chiếc ghế được đệm mềm mại để tạo cảm giác thoải mái.</li>
 
-        <li value="4">Softly <strong>played</strong> /pleɪd/</li>
-        <li className="list-none">The music was ______ in the background.</li>
+        <li value="4">the MUsic was SOFTly PLAYED in the BACKground.</li>
         <li className="list-none margin-bottom-20">Âm nhạc được chơi nhẹ nhàng ở nền.</li>
 
-        <li value="5">Softly <strong>brushed</strong> /brʌʃt/</li>
-        <li className="list-none">She ______ her hair with a wooden comb.</li>
+        <li value="5">she SOFTly BRUSHED her HAIR with a WOODen COMB.</li>
         <li className="list-none margin-bottom-20">Cô ấy chải nhẹ nhàng mái tóc bằng chiếc lược gỗ.</li>
 
-        <li value="6">Softly <strong>whispered</strong> /ˈwɪspərd/</li>
-        <li className="list-none">He ______ in her ear.</li>
+        <li value="6">he SOFTly WHISpered in her EAR.</li>
         <li className="list-none margin-bottom-20">Anh ấy thì thầm nhẹ nhàng vào tai cô ấy.</li>
 
-        <li value="7">Softly <strong>closed</strong> /kloʊzd/</li>
-        <li className="list-none">She ______ the door behind her.</li>
+        <li value="7">she SOFTly CLOSED the DOOR behind her.</li>
         <li className="list-none margin-bottom-20">Cô ấy đóng nhẹ nhàng cánh cửa sau lưng.</li>
 
-        <li value="8">Softly <strong>glowing</strong> /ˈɡloʊɪŋ/</li>
-        <li className="list-none">The fireflies were ______ in the darkness.</li>
+        <li value="8">the FIREflies were SOFTly GLOWing in the DARKness.</li>
         <li className="list-none margin-bottom-20">Những con đom đóm phát ra ánh sáng dịu nhẹ trong bóng tối.</li>
 
-        <li value="9">Softly <strong>falling</strong> /ˈfɔːlɪŋ/</li>
-        <li className="list-none">Snowflakes were ______ from the sky.</li>
+        <li value="9">SNOWflakes were SOFTly FALLing from the SKY.</li>
         <li className="list-none margin-bottom-20">Những bông tuyết rơi nhẹ nhàng từ trên trời xuống.</li>
 
-        <li value="10">Softly <strong>landed</strong> /ˈlændɪd/</li>
-        <li className="list-none">The bird ______ on the branch.</li>
+        <li value="10">the BIRD SOFTly LANDed on the BRANCH.</li>
         <li className="list-none margin-bottom-20">Con chim hạ cánh nhẹ nhàng trên cành cây.</li>
 
       </ol>
@@ -116,9 +100,9 @@ export default function Softly2(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>"<strong>Softly</strong>" thường đứng trước hành động để bổ nghĩa.</li>
+          <li>"<strong>SOFTly</strong>" thường đứng trước hành động để bổ nghĩa.</li>
 
-          <li className="margin-bottom-20">Từ này có thể được thay thế bằng các từ đồng nghĩa như "<Link to="/vocabulary/gently-1">gently</Link>", "quietly" để tạo sự đa dạng trong văn phong.</li>
+          <li className="margin-bottom-20">Từ này có thể được thay thế bằng các từ đồng nghĩa như "<Link to="/vocabulary/gently-1">gently</Link>", "QUIetly" để tạo sự đa dạng trong văn phong.</li>
 
         </ul>
 

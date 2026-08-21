@@ -1225,10 +1225,10 @@ export default function VocabularyIndex(): React.JSX.Element {
 						</li>
 
 						<li>
-							<Link to="/vocabulary/softly-1">softly
+							<Link to="/vocabulary/SOFTly-1">SOFTly
 								<sup>&nbsp;1&nbsp;</sup>
 									</Link> 
-									<Link to="/vocabulary/softly-2">
+									<Link to="/vocabulary/SOFTly-2">
 								<sup>&nbsp;2&nbsp;</sup>
 							</Link>
 						</li>
