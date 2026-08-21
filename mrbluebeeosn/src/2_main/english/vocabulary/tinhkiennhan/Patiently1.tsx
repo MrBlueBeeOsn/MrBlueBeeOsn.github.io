@@ -59,7 +59,7 @@ export default function Patiently1(): React.JSX.Element {
 
       <p className="margin-top-30 text-indent-whole">Từ "<strong>patiently</strong>" miêu tả một hành động hoặc trạng thái được thực hiện một cách kiên nhẫn, không vội vàng, không dễ cáu kỉnh hoặc khó chịu.</p>
 
-      <p className="text-indent-whole">Ví dụ:</p>
+      <p className="margin-top-20 text-indent-whole">Ví dụ:</p>
 
         <ul className="list-square">
 

@@ -59,7 +59,7 @@ export default function Delicately1(): React.JSX.Element {
 
       <p className="margin-top-30 text-indent-whole">Từ "<strong>delicately</strong>" thường được dùng để mô tả một hành động được thực hiện một cách cẩn thận, nhẹ nhàng, tránh gây tổn hại hoặc làm phiền đến người khác hoặc vật khác. Nó cũng có thể ám chỉ sự tinh tế trong cách diễn đạt hoặc xử lý một vấn đề.</p>
 
-      <p className="text-indent-whole">Ví dụ:</p>
+      <p className="margin-top-20 text-indent-whole">Ví dụ:</p>
 
         <ul className="list-square">
 

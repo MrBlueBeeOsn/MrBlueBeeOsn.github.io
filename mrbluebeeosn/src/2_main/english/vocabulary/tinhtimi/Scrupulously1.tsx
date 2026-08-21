@@ -56,7 +56,7 @@ export default function SCRUpulously1(): React.JSX.Element {
 
       <p className="margin-top-30 text-indent-whole">Từ "<strong>SCRUpulously</strong>" miêu tả một hành động hoặc trạng thái được thực hiện một cách tỉ mỉ, cẩn trọng, chu đáo, thể hiện sự chú ý đến từng chi tiết và sự tuân thủ nghiêm ngặt các nguyên tắc hoặc quy tắc.</p>
 
-      <p className="text-indent-whole">Ví dụ:</p>
+      <p className="margin-top-20 text-indent-whole">Ví dụ:</p>
 
         <ul className="list-square">
 

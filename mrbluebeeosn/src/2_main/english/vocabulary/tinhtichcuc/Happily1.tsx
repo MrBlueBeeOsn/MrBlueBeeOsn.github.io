@@ -59,7 +59,7 @@ export default function Happily1(): React.JSX.Element {
 
       <p className="margin-top-30 text-indent-whole">Từ "<strong>happily</strong>" được dùng để mô tả một hành động, trạng thái hoặc tình huống diễn ra trong niềm vui, sự hài lòng và mãn nguyện. Nó thể hiện cảm xúc tích cực của con người.</p>
 
-      <p className="text-indent-whole">Ví dụ:</p>
+      <p className="margin-top-20 text-indent-whole">Ví dụ:</p>
 
         <ul className="list-square">
 
@@ -105,7 +105,7 @@ export default function Happily1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li><Link to="/vocabulary/joyfully-1">Joyfully</Link> /ˈdʒɔɪfəli/</li>
+          <li><Link to="/vocabulary/JOYfully-1">Joyfully</Link> /ˈdʒɔɪfəli/</li>
           <li className="list-none">The children played ______.</li>
           <li className="margin-bottom-20 list-none">Những đứa trẻ chơi một cách vui mừng.</li>
 

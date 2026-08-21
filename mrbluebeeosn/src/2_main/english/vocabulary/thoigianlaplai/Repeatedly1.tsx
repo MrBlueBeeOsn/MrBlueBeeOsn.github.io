@@ -59,7 +59,7 @@ export default function Repeatedly1(): React.JSX.Element {
 
       <p className="margin-top-30 text-indent-whole">Từ "<strong>repeatedly</strong>" dùng để mô tả một hành động được thực hiện nhiều lần, liên tục. Nó nhấn mạnh tính thường xuyên và sự lặp đi lặp lại của một sự việc.</p>
 
-      <p className="text-indent-whole">Ví dụ:</p>
+      <p className="margin-top-20 text-indent-whole">Ví dụ:</p>
 
         <ul className="list-square">
 

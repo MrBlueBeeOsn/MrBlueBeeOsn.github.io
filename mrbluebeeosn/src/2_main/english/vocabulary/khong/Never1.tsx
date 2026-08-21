@@ -59,7 +59,7 @@ export default function Never1(): React.JSX.Element {
 
       <p className="margin-top-30 text-indent-whole">Chỉ sự phủ định hoàn toàn về một hành động, sự việc xảy ra ở bất kỳ thời điểm nào trong quá khứ, hiện tại hoặc tương lai.</p>
 
-      <p className="text-indent-whole">Ví dụ:</p>
+      <p className="margin-top-20 text-indent-whole">Ví dụ:</p>
 
         <ul className="list-square">
 

@@ -56,7 +56,7 @@ export default function THORoughly1(): React.JSX.Element {
 
       <p className="margin-top-30 text-indent-whole">Từ "<strong>THORoughly</strong>" được dùng để mô tả một hành động được thực hiện một cách kỹ lưỡng, tỉ mỉ, không bỏ sót bất kỳ chi tiết nào. Nó thể hiện sự hoàn toàn, kỹ lưỡng và chu đáo trong việc thực hiện một công việc gì đó.</p>
 
-      <p className="text-indent-whole">Ví dụ:</p>
+      <p className="margin-top-20 text-indent-whole">Ví dụ:</p>
 
         <ul className="list-square">
 

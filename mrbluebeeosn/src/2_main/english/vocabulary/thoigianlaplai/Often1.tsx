@@ -59,7 +59,7 @@ export default function Often1(): React.JSX.Element {
 
       <p className="margin-top-30 text-indent-whole">Chỉ sự lặp đi lặp lại của một hành động hoặc sự kiện trong một khoảng thời gian.</p>
 
-      <p className="text-indent-whole">Ví dụ:</p>
+      <p className="margin-top-20 text-indent-whole">Ví dụ:</p>
 
         <ul className="list-square">
 

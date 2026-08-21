@@ -56,7 +56,7 @@ export default function SLOWly1(): React.JSX.Element {
 
       <p className="margin-top-30 text-indent-whole">Từ "<strong>SLOWly</strong>" được dùng để miêu tả một hành động được thực hiện ở tốc độ chậm, không nhanh. Nó có thể diễn tả sự chậm chạp, từ tốn hoặc sự trì hoãn.</p>
 
-      <p className="text-indent-whole">Ví dụ:</p>
+      <p className="margin-top-20 text-indent-whole">Ví dụ:</p>
 
         <ul className="list-square">
 

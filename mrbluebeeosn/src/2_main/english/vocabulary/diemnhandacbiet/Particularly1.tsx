@@ -59,7 +59,7 @@ export default function Particularly1(): React.JSX.Element {
 
       <p className="margin-top-30 text-indent-whole">Từ "<strong>particularly</strong>" dùng để nhấn mạnh một điều gì đó hơn những điều khác. Nó thường được dùng để chỉ ra một sự việc, tính chất hoặc người nào đó nổi bật hơn so với những cái còn lại.</p>
 
-      <p className="text-indent-whole">Ví dụ:</p>
+      <p className="margin-top-20 text-indent-whole">Ví dụ:</p>
 
         <ul className="list-square">
 

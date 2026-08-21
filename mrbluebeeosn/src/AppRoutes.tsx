@@ -582,8 +582,8 @@ const Posts = lazy(() => import('@/data/Posts'));
 	const Happily2 = lazy(() => import('@/2_main/english/vocabulary/tinhtichcuc/Happily2'));
 	const POSitively1 = lazy(() => import('@/2_main/english/vocabulary/tinhtichcuc/POSitively1'));
 	const POSitively2 = lazy(() => import('@/2_main/english/vocabulary/tinhtichcuc/POSitively2'));
-	const Joyfully1 = lazy(() => import('@/2_main/english/vocabulary/tinhtichcuc/Joyfully1'));
-	const Joyfully2 = lazy(() => import('@/2_main/english/vocabulary/tinhtichcuc/Joyfully2'));
+	const JOYfully1 = lazy(() => import('@/2_main/english/vocabulary/tinhtichcuc/JOYfully1'));
+	const JOYfully2 = lazy(() => import('@/2_main/english/vocabulary/tinhtichcuc/JOYfully2'));
 	const Cheerfully1 = lazy(() => import('@/2_main/english/vocabulary/tinhtichcuc/Cheerfully1'));
 	const Cheerfully2 = lazy(() => import('@/2_main/english/vocabulary/tinhtichcuc/Cheerfully2'));
 
@@ -1187,8 +1187,8 @@ export default function AppRoutes(): React.JSX.Element {
 					<Route path="/vocabulary/happily-2" element={<Happily2 />} />
 					<Route path="/vocabulary/POSitively-1" element={<POSitively1 />} />
 					<Route path="/vocabulary/POSitively-2" element={<POSitively2 />} />
-					<Route path="/vocabulary/joyfully-1" element={<Joyfully1 />} />
-					<Route path="/vocabulary/joyfully-2" element={<Joyfully2 />} />
+					<Route path="/vocabulary/JOYfully-1" element={<JOYfully1 />} />
+					<Route path="/vocabulary/JOYfully-2" element={<JOYfully2 />} />
 					<Route path="/vocabulary/cheerfully-1" element={<Cheerfully1 />} />
 					<Route path="/vocabulary/cheerfully-2" element={<Cheerfully2 />} />
 

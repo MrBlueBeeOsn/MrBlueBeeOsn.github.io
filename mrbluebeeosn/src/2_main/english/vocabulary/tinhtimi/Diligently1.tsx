@@ -56,7 +56,7 @@ export default function DILigently1(): React.JSX.Element {
 
       <p className="margin-top-30 text-indent-whole">Từ "<strong>DILigently</strong>" được dùng để miêu tả một hành động được thực hiện với sự chăm chỉ, nỗ lực và sự tập trung cao độ. Nó thể hiện một thái độ làm việc nghiêm túc và hiệu quả.</p>
 
-      <p className="text-indent-whole">Ví dụ:</p>
+      <p className="margin-top-20 text-indent-whole">Ví dụ:</p>
 
         <ul className="list-square">
 

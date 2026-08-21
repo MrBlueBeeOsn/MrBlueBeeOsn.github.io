@@ -59,7 +59,7 @@ export default function Extremely1(): React.JSX.Element {
 
       <p className="margin-top-30 text-indent-whole">Từ "<strong>extremely</strong>" được dùng để nhấn mạnh một đặc điểm, tính chất hoặc mức độ nào đó ở mức độ rất cao, vượt quá mức bình thường.</p>
 
-      <p className="text-indent-whole">Ví dụ:</p>
+      <p className="margin-top-20 text-indent-whole">Ví dụ:</p>
 
         <ul className="list-square">
 

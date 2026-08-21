@@ -59,7 +59,7 @@ export default function Honestly1(): React.JSX.Element {
 
       <p className="margin-top-30 text-indent-whole">Từ "<strong>honestly</strong>" được dùng để nhấn mạnh rằng một điều gì đó được nói ra là hoàn toàn đúng sự thật, không có sự gian dối hoặc phóng đại. Nó thường được dùng để thể hiện sự chân thành, thẳng thắn của người nói.</p>
 
-      <p className="text-indent-whole">Ví dụ:</p>
+      <p className="margin-top-20 text-indent-whole">Ví dụ:</p>
 
         <ul className="list-square">
 

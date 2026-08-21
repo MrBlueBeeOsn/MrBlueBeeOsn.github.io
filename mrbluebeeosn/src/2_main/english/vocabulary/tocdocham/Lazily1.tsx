@@ -56,7 +56,7 @@ export default function LAzily1(): React.JSX.Element {
 
       <p className="margin-top-30 text-indent-whole">Từ "<strong>LAzily</strong>" dùng để miêu tả một hành động được thực hiện một cách chậm chạp, không nhiệt tình, hoặc không muốn nỗ lực. Nó thể hiện sự thiếu động lực, sự lười biếng trong việc hoàn thành một công việc nào đó.</p>
 
-      <p className="text-indent-whole">Ví dụ:</p>
+      <p className="margin-top-20 text-indent-whole">Ví dụ:</p>
 
         <ul className="list-square">
 

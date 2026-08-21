@@ -83,7 +83,7 @@ export default function TRUly2(): React.JSX.Element {
 				<li value="9">i FEEL TRUly BLESSED to HAVE such GOOD FRIENDS.</li>
 				<li className="list-none margin-bottom-20">Tôi cảm thấy thật sự may mắn khi có những người bạn tốt như vậy.</li>
 
-				<li value="10">it was a TRUly unforGETtable exPErience.</li>
+				<li value="10">it was a TRUly unforGETtable exPERience.</li>
 				<li className="list-none margin-bottom-20">Đó là một trải nghiệm thật sự khó quên.</li>
 
 			</ol>

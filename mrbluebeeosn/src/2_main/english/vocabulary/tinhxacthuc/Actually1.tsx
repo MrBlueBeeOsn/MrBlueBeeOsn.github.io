@@ -56,7 +56,7 @@ export default function ACtually1(): React.JSX.Element {
 
       <p className="margin-top-30 text-indent-whole">Từ "<strong>ACtually</strong>" được sử dụng để nhấn mạnh một sự thật hoặc một thông tin nào đó, thường là để sửa chữa hoặc bổ sung cho một thông tin đã được đưa ra trước đó. Nó cũng có thể được dùng để giới thiệu một thông tin mới hoặc bất ngờ.</p>
 
-      <p className="text-indent-whole">Ví dụ:</p>
+      <p className="margin-top-20 text-indent-whole">Ví dụ:</p>
 
         <ul className="list-square">
 

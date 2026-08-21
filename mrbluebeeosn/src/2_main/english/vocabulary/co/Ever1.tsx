@@ -61,7 +61,7 @@ export default function Ever1(): React.JSX.Element {
 
       <p className="text-indent-whole">Sử dụng trong câu khẳng định để nhấn mạnh một trải nghiệm hoặc sự kiện đã xảy ra hoặc có thể xảy ra.</p>
 
-      <p className="text-indent-whole">Ví dụ:</p>
+      <p className="margin-top-20 text-indent-whole">Ví dụ:</p>
 
         <ul className="list-square">
 

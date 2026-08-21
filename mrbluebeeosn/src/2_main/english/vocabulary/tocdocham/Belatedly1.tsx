@@ -56,7 +56,7 @@ export default function beLAtedly1(): React.JSX.Element {
 
       <p className="margin-top-30 text-indent-whole">Từ "<strong>beLAtedly</strong>" miêu tả một hành động hoặc sự kiện xảy ra muộn hơn so với thời điểm dự kiến hoặc mong đợi. Nó thường gợi lên cảm giác hối tiếc hoặc nhận ra điều gì đó quá muộn.</p>
 
-      <p className="text-indent-whole">Ví dụ:</p>
+      <p className="margin-top-20 text-indent-whole">Ví dụ:</p>
 
         <ul className="list-square">
 

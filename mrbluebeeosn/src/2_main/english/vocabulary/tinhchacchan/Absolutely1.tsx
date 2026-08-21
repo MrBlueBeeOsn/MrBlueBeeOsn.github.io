@@ -59,7 +59,7 @@ export default function Absolutely1(): React.JSX.Element {
 
       <p className="margin-top-30 text-indent-whole">Từ "<strong>absolutely</strong>" được dùng để nhấn mạnh một ý kiến, một khẳng định hoặc một câu trả lời một cách mạnh mẽ và không có bất kỳ sự nghi ngờ nào. Nó thường được dùng để thể hiện sự đồng ý hoàn toàn hoặc sự phản đối hoàn toàn.</p>
 
-      <p className="text-indent-whole">Ví dụ:</p>
+      <p className="margin-top-20 text-indent-whole">Ví dụ:</p>
 
         <ul className="list-square">
 

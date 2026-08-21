@@ -58,7 +58,7 @@ export default function SUDdenly1(): React.JSX.Element {
 
       <p className="margin-top-30 text-indent-whole">Từ "<strong>SUDdenly</strong>" dùng để miêu tả một sự kiện hoặc hành động xảy ra một cách nhanh chóng, không báo trước và thường gây ngạc nhiên.</p>
 
-      <p className="text-indent-whole">Ví dụ:</p>
+      <p className="margin-top-20 text-indent-whole">Ví dụ:</p>
 
         <ul className="list-square">
 

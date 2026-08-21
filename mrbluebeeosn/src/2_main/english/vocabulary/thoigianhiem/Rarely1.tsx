@@ -59,7 +59,7 @@ export default function Rarely1(): React.JSX.Element {
 
       <p className="margin-top-30 text-indent-whole">Từ "<strong>rarely</strong>" dùng để diễn tả một hành động, sự việc xảy ra không thường xuyên, ít gặp. Nó cho thấy tần suất thấp của một sự kiện.</p>
 
-      <p className="text-indent-whole">Ví dụ:</p>
+      <p className="margin-top-20 text-indent-whole">Ví dụ:</p>
 
         <ul className="list-square">
 

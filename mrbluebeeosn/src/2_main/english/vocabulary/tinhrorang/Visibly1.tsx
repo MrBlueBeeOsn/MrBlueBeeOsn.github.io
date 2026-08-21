@@ -59,7 +59,7 @@ export default function Visibly1(): React.JSX.Element {
 
       <p className="margin-top-30 text-indent-whole">Từ "<strong>visibly</strong>" được dùng để mô tả một điều gì đó dễ dàng nhận thấy bằng mắt thường, một cách rõ ràng và không thể phủ nhận. Nó thường được sử dụng để nhấn mạnh sự hiển nhiên của một trạng thái, cảm xúc hoặc sự thay đổi.</p>
 
-      <p className="text-indent-whole">Ví dụ:</p>
+      <p className="margin-top-20 text-indent-whole">Ví dụ:</p>
 
         <ul className="list-square">
 

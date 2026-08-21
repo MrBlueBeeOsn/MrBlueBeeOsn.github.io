@@ -59,7 +59,7 @@ export default function Persistently1(): React.JSX.Element {
 
       <p className="margin-top-30 text-indent-whole">Từ "<strong>persistently</strong>" dùng để miêu tả một hành động được thực hiện một cách kiên quyết, không dễ dàng từ bỏ, dù gặp phải khó khăn hoặc trở ngại. Nó thể hiện sự quyết tâm và bền bỉ của một người.</p>
 
-      <p className="text-indent-whole">Ví dụ:</p>
+      <p className="margin-top-20 text-indent-whole">Ví dụ:</p>
 
         <ul className="list-square">
 

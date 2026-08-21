@@ -59,7 +59,7 @@ export default function Cheerfully1(): React.JSX.Element {
 
       <p className="margin-top-30 text-indent-whole">Từ "<strong>cheerfully</strong>" được dùng để miêu tả một hành động hoặc thái độ được thực hiện một cách vui vẻ, lạc quan, thể hiện sự hài lòng hoặc hứng thú.</p>
 
-      <p className="text-indent-whole">Ví dụ:</p>
+      <p className="margin-top-20 text-indent-whole">Ví dụ:</p>
 
         <ul className="list-square">
 
@@ -113,7 +113,7 @@ export default function Cheerfully1(): React.JSX.Element {
           <li className="list-none">They lived ______ ever after.</li>
           <li className="margin-bottom-20 list-none">Họ sống hạnh phúc mãi mãi.</li>
 
-          <li><Link to="/vocabulary/joyfully-1">Joyfully</Link> /ˈdʒɔɪfəli/</li>
+          <li><Link to="/vocabulary/JOYfully-1">Joyfully</Link> /ˈdʒɔɪfəli/</li>
           <li className="list-none">She danced ______.</li>
           <li className="list-none">Cô ấy nhảy múa một cách vui mừng.</li>
 

@@ -59,7 +59,7 @@ export default function Tomorrow1(): React.JSX.Element {
 
       <p className="margin-top-30 text-indent-whole">Chỉ thời điểm sau thời điểm hiện tại 24 giờ, ngày tiếp theo sau ngày hôm nay.</p>
 
-      <p className="text-indent-whole">Ví dụ:</p>
+      <p className="margin-top-20 text-indent-whole">Ví dụ:</p>
 
         <ul className="list-square">
 

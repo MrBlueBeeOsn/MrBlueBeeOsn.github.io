@@ -59,7 +59,7 @@ export default function Successfully1(): React.JSX.Element {
 
       <p className="margin-top-30 text-indent-whole">Từ "<strong>successfully</strong>" được dùng để mô tả một hành động, một nhiệm vụ hoặc một mục tiêu đã được hoàn thành một cách tốt đẹp, đạt được kết quả mong muốn. Nó thể hiện sự thành công, thắng lợi hoặc đạt được mục tiêu.</p>
 
-      <p className="text-indent-whole">Ví dụ:</p>
+      <p className="margin-top-20 text-indent-whole">Ví dụ:</p>
 
         <ul className="list-square">
 

@@ -59,7 +59,7 @@ export default function Occasionally1(): React.JSX.Element {
 
       <p className="margin-top-30 text-indent-whole">Từ "<strong>occasionally</strong>" được dùng để diễn tả một hành động xảy ra không thường xuyên, mà chỉ xảy ra trong một vài trường hợp hoặc một vài lần. Nó thể hiện sự không đều đặn, không liên tục của một sự việc.</p>
 
-      <p className="text-indent-whole">Ví dụ:</p>
+      <p className="margin-top-20 text-indent-whole">Ví dụ:</p>
 
         <ul className="list-square">
 

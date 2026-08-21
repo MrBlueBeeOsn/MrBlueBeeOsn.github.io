@@ -59,7 +59,7 @@ export default function Now1(): React.JSX.Element {
 
       <p className="margin-top-30 text-indent-whole">Chỉ thời điểm hiện tại, ngay lúc này.</p>
 
-      <p className="text-indent-whole">Ví dụ:</p>
+      <p className="margin-top-20 text-indent-whole">Ví dụ:</p>
 
         <ul className="list-square">
 

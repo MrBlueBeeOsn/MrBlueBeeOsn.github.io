@@ -59,7 +59,7 @@ export default function Productively1(): React.JSX.Element {
 
       <p className="margin-top-30 text-indent-whole">Từ "<strong>productively</strong>" miêu tả cách một người làm việc, sử dụng thời gian hoặc tài nguyên để tạo ra kết quả tốt, có giá trị hoặc đạt được mục tiêu một cách hiệu quả.</p>
 
-      <p className="text-indent-whole">Ví dụ:</p>
+      <p className="margin-top-20 text-indent-whole">Ví dụ:</p>
 
         <ul className="list-square">
 

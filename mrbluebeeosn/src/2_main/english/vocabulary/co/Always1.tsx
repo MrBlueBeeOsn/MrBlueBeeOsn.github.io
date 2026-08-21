@@ -59,7 +59,7 @@ export default function Always1(): React.JSX.Element {
 
       <p className="margin-top-30 text-indent-whole">Diễn tả một hành động, sự việc xảy ra liên tục, không thay đổi trong mọi trường hợp và thời gian.</p>
 
-      <p className="text-indent-whole">Ví dụ:</p>
+      <p className="margin-top-20 text-indent-whole">Ví dụ:</p>
 
         <ul className="list-square">
 

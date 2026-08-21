@@ -59,7 +59,7 @@ export default function Tirelessly1(): React.JSX.Element {
 
       <p className="margin-top-30 text-indent-whole">Từ "<strong>tirelessly</strong>" được dùng để miêu tả một hành động được thực hiện một cách liên tục, không ngừng nghỉ, dù phải đối mặt với khó khăn. Nó thể hiện sự kiên trì, quyết tâm cao độ của người thực hiện.</p>
 
-      <p className="text-indent-whole">Ví dụ:</p>
+      <p className="margin-top-20 text-indent-whole">Ví dụ:</p>
 
         <ul className="list-square">
 

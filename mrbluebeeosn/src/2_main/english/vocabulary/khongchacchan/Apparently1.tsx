@@ -59,7 +59,7 @@ export default function Apparently1(): React.JSX.Element {
 
       <p className="margin-top-30 text-indent-whole">Từ "<strong>apparently</strong>" được dùng để diễn tả một điều gì đó được cho là đúng hoặc có thật dựa trên thông tin hiện có, mặc dù người nói không hoàn toàn chắc chắn về điều đó. Nó thường được sử dụng khi người nói đang truyền đạt thông tin mà họ đã nghe được từ người khác hoặc dựa trên những gì họ quan sát được.</p>
 
-      <p className="text-indent-whole">Ví dụ:</p>
+      <p className="margin-top-20 text-indent-whole">Ví dụ:</p>
 
         <ul className="list-square">
 

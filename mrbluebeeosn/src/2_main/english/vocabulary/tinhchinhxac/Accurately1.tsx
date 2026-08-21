@@ -59,7 +59,7 @@ export default function Accurately1(): React.JSX.Element {
 
       <p className="margin-top-30 text-indent-whole">Từ "<strong>accurately</strong>" được dùng để nhấn mạnh sự chính xác tuyệt đối trong một hành động, một kết quả hoặc một thông tin nào đó. Nó thể hiện sự tỉ mỉ, cẩn thận và không có sai sót.</p>
 
-      <p className="text-indent-whole">Ví dụ:</p>
+      <p className="margin-top-20 text-indent-whole">Ví dụ:</p>
 
         <ul className="list-square">
 

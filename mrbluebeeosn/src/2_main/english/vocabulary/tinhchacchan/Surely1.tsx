@@ -59,7 +59,7 @@ export default function Surely1(): React.JSX.Element {
 
       <p className="margin-top-30 text-indent-whole">Từ "<strong>surely</strong>" được dùng để thể hiện sự chắc chắn, tin tưởng vào một điều gì đó. Nó thường được đặt ở đầu câu hoặc giữa câu để nhấn mạnh ý kiến của người nói.</p>
 
-      <p className="text-indent-whole">Ví dụ:</p>
+      <p className="margin-top-20 text-indent-whole">Ví dụ:</p>
 
         <ul className="list-square">
 

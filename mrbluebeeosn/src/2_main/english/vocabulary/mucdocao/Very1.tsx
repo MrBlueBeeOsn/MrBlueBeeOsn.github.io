@@ -59,7 +59,7 @@ export default function Very1(): React.JSX.Element {
 
       <p className="margin-top-30 text-indent-whole">Dùng để nhấn mạnh mức độ của một Tính Cơ hoặc một Trạng Cơ khác, cho thấy một đặc điểm nào đó ở mức độ cao.</p>
 
-      <p className="text-indent-whole">Ví dụ:</p>
+      <p className="margin-top-20 text-indent-whole">Ví dụ:</p>
 
         <ul className="list-square">
 

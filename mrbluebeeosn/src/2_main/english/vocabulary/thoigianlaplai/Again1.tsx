@@ -59,7 +59,7 @@ export default function Again1(): React.JSX.Element {
 
       <p className="margin-top-30 text-indent-whole">Chỉ việc lặp lại một hành động, sự việc hoặc trạng thái.</p>
 
-      <p className="text-indent-whole">Ví dụ:</p>
+      <p className="margin-top-20 text-indent-whole">Ví dụ:</p>
 
         <ul className="list-square">
 

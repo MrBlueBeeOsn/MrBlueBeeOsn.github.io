@@ -59,7 +59,7 @@ export default function Usually1(): React.JSX.Element {
 
       <p className="margin-top-30 text-indent-whole">Từ "<strong>usually</strong>" được dùng để mô tả một hành động, sự kiện hoặc tình huống xảy ra một cách thông thường, quen thuộc và có thể dự đoán được. Nó diễn tả tần suất của một việc gì đó.</p>
 
-      <p className="text-indent-whole">Ví dụ:</p>
+      <p className="margin-top-20 text-indent-whole">Ví dụ:</p>
 
         <ul className="list-square">
 

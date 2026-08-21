@@ -59,7 +59,7 @@ export default function Openly1(): React.JSX.Element {
 
       <p className="margin-top-30 text-indent-whole">Từ "<strong>openly</strong>" được dùng để miêu tả một hành động được thực hiện một cách công khai, không che giấu, không kín đáo. Nó thể hiện sự thẳng thắn, rõ ràng và không có ý định giấu diếm.</p>
 
-      <p className="text-indent-whole">Ví dụ:</p>
+      <p className="margin-top-20 text-indent-whole">Ví dụ:</p>
 
         <ul className="list-square">
 

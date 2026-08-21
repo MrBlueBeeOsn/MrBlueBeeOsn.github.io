@@ -56,7 +56,7 @@ export default function GRADually1(): React.JSX.Element {
 
       <p className="margin-top-30 text-indent-whole">Từ "<strong>GRADually</strong>" dùng để miêu tả một quá trình diễn ra chậm rãi, từng bước một, không đột ngột.</p>
 
-      <p className="text-indent-whole">Ví dụ:</p>
+      <p className="margin-top-20 text-indent-whole">Ví dụ:</p>
 
         <ul className="list-square">
 

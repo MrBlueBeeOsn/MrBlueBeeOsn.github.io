@@ -58,7 +58,7 @@ export default function RAPidly1(): React.JSX.Element {
 
       <p className="margin-top-30 text-indent-whole">Từ "<strong>RAPidly</strong>" được dùng để miêu tả một hành động hoặc quá trình diễn ra với tốc độ cao, nhanh chóng. Nó nhấn mạnh sự nhanh nhẹn và sự thay đổi diễn ra trong một khoảng thời gian ngắn.</p>
 
-      <p className="text-indent-whole">Ví dụ:</p>
+      <p className="margin-top-20 text-indent-whole">Ví dụ:</p>
 
         <ul className="list-square">
 

@@ -83,7 +83,7 @@ export default function PAINStakingly2(): React.JSX.Element {
         <li value="9">the mOdel AIRplane was PAINStakingly asSEMbled over SEVEral WEEks.</li>
         <li className="list-none margin-bottom-20">Mô hình máy bay được lắp ráp một cách tỉ mỉ trong vài tuần.</li>
 
-        <li value="10">the eVent was PAINStakingly ORganized to enSURE a SMOOTH exPErience.</li>
+        <li value="10">the eVent was PAINStakingly ORganized to enSURE a SMOOTH exPERience.</li>
         <li className="list-none margin-bottom-20">Sự kiện được tổ chức một cách tỉ mỉ để đảm bảo trải nghiệm suôn sẻ.</li>
 
       </ol>

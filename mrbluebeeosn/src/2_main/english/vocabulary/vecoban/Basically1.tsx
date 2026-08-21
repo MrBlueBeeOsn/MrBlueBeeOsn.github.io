@@ -58,7 +58,7 @@ export default function BAsically1(): React.JSX.Element {
 
       <p className="margin-top-30 text-indent-whole">Từ "<strong>BAsically</strong>" được sử dụng để nhấn mạnh ý chính hoặc điểm quan trọng nhất của một vấn đề, một ý tưởng hoặc một tình huống. Nó có nghĩa là "nói một cách đơn giản" hoặc "về cơ bản".</p>
 
-      <p className="text-indent-whole">Ví dụ:</p>
+      <p className="margin-top-20 text-indent-whole">Ví dụ:</p>
 
         <ul className="list-square">
 

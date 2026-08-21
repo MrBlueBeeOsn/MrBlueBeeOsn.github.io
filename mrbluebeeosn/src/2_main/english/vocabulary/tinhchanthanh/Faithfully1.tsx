@@ -59,7 +59,7 @@ export default function Faithfully1(): React.JSX.Element {
 
       <p className="margin-top-30 text-indent-whole">Từ "<strong>faithfully</strong>" được dùng để mô tả một hành động được thực hiện một cách trung thành, tin cậy và đáng tin cường. Nó thường liên quan đến việc giữ lời hứa, thực hiện nhiệm vụ một cách tận tâm và trung thực.</p>
 
-      <p className="text-indent-whole">Ví dụ:</p>
+      <p className="margin-top-20 text-indent-whole">Ví dụ:</p>
 
         <ul className="list-square">
 

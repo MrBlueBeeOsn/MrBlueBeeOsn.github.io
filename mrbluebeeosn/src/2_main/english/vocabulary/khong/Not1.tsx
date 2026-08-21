@@ -61,7 +61,7 @@ export default function Not1(): React.JSX.Element {
 
       <p className="margin-top-30 text-indent-whole">Dùng để phủ định một hành động, tính chất, hoặc sự kiện.</p>
 
-      <p className="text-indent-whole">Ví dụ:</p>
+      <p className="margin-top-20 text-indent-whole">Ví dụ:</p>
 
         <ul className="list-square">
 

@@ -61,7 +61,7 @@ export default function Tenderly1(): React.JSX.Element {
 
 </p>
 
-      <p className="text-indent-whole">Ví dụ:</p>
+      <p className="margin-top-20 text-indent-whole">Ví dụ:</p>
 
         <ul className="list-square">
 

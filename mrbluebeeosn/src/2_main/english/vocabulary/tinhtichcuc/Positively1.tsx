@@ -66,7 +66,7 @@ export default function POSitively1(): React.JSX.Element {
       
         </ol>
 
-      <p className="text-indent-whole">Ví dụ:</p>
+      <p className="margin-top-20 text-indent-whole">Ví dụ:</p>
 
         <ul className="list-square">
 
@@ -96,7 +96,7 @@ export default function POSitively1(): React.JSX.Element {
           <li>he HAS a POSitive ATtitude.</li>
           <li className="margin-bottom-20 list-none">Anh ấy có thái độ tích cực.</li>
 
-          <li className="list-none">the TEST reSULT was POSitive.</li>
+          <li>the TEST reSULT was POSitive.</li>
           <li className="margin-bottom-20 list-none">Kết quả xét nghiệm là dương tính.</li>
 
           <li>her posiTIVity is conTAgious.</li>

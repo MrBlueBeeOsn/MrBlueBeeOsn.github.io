@@ -56,7 +56,7 @@ export default function INstantly1(): React.JSX.Element {
 
       <p className="margin-top-30 text-indent-whole">Từ "<strong>INstantly</strong>" được dùng để miêu tả một hành động, sự việc xảy ra một cách rất nhanh, không có sự trì hoãn. Nó diễn tả sự tức thời, ngay lập tức.</p>
 
-      <p className="text-indent-whole">Ví dụ:</p>
+      <p className="margin-top-20 text-indent-whole">Ví dụ:</p>
 
         <ul className="list-square">
 

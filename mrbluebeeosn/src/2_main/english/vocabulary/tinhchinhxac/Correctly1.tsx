@@ -59,7 +59,7 @@ export default function Correctly1(): React.JSX.Element {
 
       <p className="margin-top-30 text-indent-whole">Từ "<strong>correctly</strong>" được sử dụng để chỉ ra rằng một hành động, câu trả lời, hoặc thông tin là đúng, không có lỗi. Nó thể hiện sự chính xác và chuẩn xác.</p>
 
-      <p className="text-indent-whole">Ví dụ:</p>
+      <p className="margin-top-20 text-indent-whole">Ví dụ:</p>
 
         <ul className="list-square">
 

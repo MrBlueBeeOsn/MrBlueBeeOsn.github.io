@@ -58,7 +58,7 @@ export default function QUICKly1(): React.JSX.Element {
 
       <p className="margin-top-30 text-indent-whole">Từ "<strong>QUICKly</strong>" được dùng để mô tả một hành động được thực hiện trong một khoảng thời gian ngắn, nhanh chóng. Nó thể hiện sự gấp rút, tốc độ và sự hiệu quả trong việc hoàn thành một việc gì đó.</p>
 
-      <p className="text-indent-whole">Ví dụ:</p>
+      <p className="margin-top-20 text-indent-whole">Ví dụ:</p>
 
         <ul className="list-square">
 

@@ -59,7 +59,7 @@ export default function Greatly1(): React.JSX.Element {
 
       <p className="margin-top-30 text-indent-whole">Từ "<strong>greatly</strong>" được dùng để nhấn mạnh mức độ cao của một Tính Cơ hoặc Trạng Cơ đi kèm. Nó thể hiện sự tăng cường về mức độ, cường độ hoặc quy mô của một hành động, trạng thái hoặc sự vật.</p>
 
-      <p className="text-indent-whole">Ví dụ:</p>
+      <p className="margin-top-20 text-indent-whole">Ví dụ:</p>
 
         <ul className="list-square">
 
