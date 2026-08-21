@@ -5,9 +5,9 @@ import EyeIcon from '@/components/view/EyeIcon';
 import ViewCounter from '@/components/view/ViewCounter';
 import LikeButton from '@/components/like/LikeButton';
 
-export default function Tenderly2(): React.JSX.Element {
+export default function TENderly2(): React.JSX.Element {
 
-  const postId = "Tenderly2";
+  const postId = "TENderly2";
 
   return (<>
 
@@ -17,18 +17,18 @@ export default function Tenderly2(): React.JSX.Element {
     
       <h4><HashLink smooth to="/vocabulary#tinh-nhe-nhang-terms"><mark className="highlight-tertiary-padding-4-8">ADverbs: nhẹ nhàng</mark></HashLink></h4>
       
-      <h1 className="margin-y-50 text-center">tenderly
+      <h1 className="margin-y-50 text-center">TENderly
         <sup>
-          <Link to="/vocabulary/tenderly-1">&nbsp;1&nbsp;</Link>
+          <Link to="/vocabulary/TENderly-1">&nbsp;1&nbsp;</Link>
         </sup>
         <sup>
-          <Link to="/vocabulary/tenderly-2">&nbsp;2&nbsp;</Link>
+          <Link to="/vocabulary/TENderly-2">&nbsp;2&nbsp;</Link>
         </sup>
       </h1>
 
       {/* This is the content of Vocabulary Term. */}
 
-      <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>tenderly</strong>" (một cách dịu dàng) và các cụm từ hay đi kèm nhé.</p>
+      <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>TENderly</strong>" (một cách dịu dàng) và các cụm từ hay đi kèm nhé.</p>
 
       <div className="text-border1 padding-10 highlight-238-padding-4-8 bee-container">
 
@@ -36,15 +36,9 @@ export default function Tenderly2(): React.JSX.Element {
 
           <p className="margin-y-10">
             
-            <strong>tenderly&nbsp;</strong>
-            
             <span className="highlight-255-padding-3-6">
               
-              [TENderly][TEN der ly] /ˈten.dər.li/ + /
-              
-              <Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">tende̛rly</Link>/ 
-              
-              &nbsp;⬤•• (3x)
+              [TENderly][<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">TEN de̛r ly</Link>] /ˈten.dər.li/ ⬤•• (3x)
               
             </span>
               
@@ -62,44 +56,34 @@ export default function Tenderly2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1">Tenderly <strong>held</strong> /hɛld/</li>
-        <li className="list-none">She ______ the baby in her arms.</li>
+        <li value="1">she TENderly HELD the BAby in her ARMS.</li>
         <li className="list-none margin-bottom-20">Cô ấy ôm đứa bé một cách dịu dàng trong vòng tay.</li>
 
-        <li value="2">Tenderly <strong>touched</strong> /tʌtʃt/</li>
-        <li className="list-none">He ______ her cheek.</li>
+        <li value="2">he TENderly TOUCHED her CHEEK.</li>
         <li className="list-none margin-bottom-20">Anh ấy chạm nhẹ vào má cô ấy một cách dịu dàng.</li>
 
-        <li value="3">Tenderly <strong>kissed</strong> /kɪst/</li>
-        <li className="list-none">They ______ goodbye.</li>
+        <li value="3">they TENderly KISSED GOODbye.</li>
         <li className="list-none margin-bottom-20">Họ hôn tạm biệt nhau một cách dịu dàng.</li>
 
-        <li value="4">Tenderly <strong>cared</strong> /keərd/</li>
-        <li className="list-none">She ______ for her sick mother.</li>
+        <li value="4">she TENderly CARED for her SICK MOTHer.</li>
         <li className="list-none margin-bottom-20">Cô ấy chăm sóc người mẹ ốm yếu của mình một cách dịu dàng.</li>
 
-        <li value="5">Tenderly <strong>spoke</strong> /spoʊk/</li>
-        <li className="list-none">He ______ to her about her fears.</li>
+        <li value="5">he TENderly SPOKE to her about her FEARS.</li>
         <li className="list-none margin-bottom-20">Anh ấy nói chuyện với cô ấy về nỗi sợ hãi của cô ấy một cách dịu dàng.</li>
 
-        <li value="6">Tenderly <strong>looked</strong> /lʊkt/</li>
-        <li className="list-none">She ______ at her sleeping child.</li>
+        <li value="6">she TENderly LOOKED at her SLEEPing CHILD.</li>
         <li className="list-none margin-bottom-20">Cô ấy nhìn đứa con đang ngủ của mình một cách dịu dàng.</li>
 
-        <li value="7">Tenderly <strong>smiled</strong> /smaɪld/</li>
-        <li className="list-none">He ______ at her.</li>
+        <li value="7">he TENderly SMILED at her.</li>
         <li className="list-none margin-bottom-20">Anh ấy mỉm cười với cô ấy một cách dịu dàng.</li>
 
-        <li value="8">Tenderly <strong>embraced</strong> /ɪmˈbreɪst/</li>
-        <li className="list-none">They ______ after their long separation.</li>
+        <li value="8">they TENderly emBRACED after their LONG sepaRAtion.</li>
         <li className="list-none margin-bottom-20">Họ ôm ấp nhau một cách dịu dàng sau thời gian dài xa cách.</li>
 
-        <li value="9">Tenderly <strong>comforted</strong> /ˈkʌmfərtɪd/</li>
-        <li className="list-none">She ______ her friend who was crying.</li>
+        <li value="9">she TENderly COMforted her FRIEND who was CRYing.</li>
         <li className="list-none margin-bottom-20">Cô ấy an ủi người bạn đang khóc của mình một cách dịu dàng.</li>
 
-        <li value="10">Tenderly <strong>caressed</strong> /kəˈrest/</li>
-        <li className="list-none">He ______ her hair.</li>
+        <li value="10">he TENderly caRESSED her HAIR.</li>
         <li className="list-none margin-bottom-20">Anh ấy vuốt ve mái tóc cô ấy một cách dịu dàng.</li>
 
       </ol>
@@ -116,7 +100,7 @@ export default function Tenderly2(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>"<strong>Tenderly</strong>" thường đứng trước hành động để bổ nghĩa.</li>
+          <li>"<strong>TENderly</strong>" thường đứng trước hành động để bổ nghĩa.</li>
 
           <li className="margin-bottom-20">Từ này mang nghĩa tích cực, thể hiện sự dịu dàng, trìu mến.</li>
 
