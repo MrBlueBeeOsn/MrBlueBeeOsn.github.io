@@ -128,7 +128,7 @@ export default function Verb(): React.JSX.Element {
       <div className="viewcounter">
       
         <div className="post-date no-margin">
-          <span>July 9, 2024 · by 💎Gem ·</span>
+          <span>July 9, 2024 · by 💎GEM ·</span>
         </div>
 
         <div className="eye-icon no-margin">

@@ -113,7 +113,7 @@ export default function POSitively2(): React.JSX.Element {
       <div className="viewcounter">
       
         <div className="post-date no-margin">
-          <span>March 29, 2025 · by 💎Gem ·</span>
+          <span>March 29, 2025 · by 💎GEM ·</span>
         </div>
 
         <div className="eye-icon no-margin">

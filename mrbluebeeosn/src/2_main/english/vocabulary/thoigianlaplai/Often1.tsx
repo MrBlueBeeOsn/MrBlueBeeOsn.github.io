@@ -229,7 +229,7 @@ export default function Often1(): React.JSX.Element {
       <div className="viewcounter">
       
         <div className="post-date no-margin">
-          <span>November 4, 2024 · by 💎Gem ·</span>
+          <span>November 4, 2024 · by 💎GEM ·</span>
         </div>
 
         <div className="eye-icon no-margin">

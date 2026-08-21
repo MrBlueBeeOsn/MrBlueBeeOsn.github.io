@@ -954,7 +954,7 @@ export default function Respond(): React.JSX.Element {
 			<div className="viewcounter">
 			
 				<div className="post-date no-margin">
-					<span>June 20, 2026 · by 💎Gem ·</span>
+					<span>June 20, 2026 · by 💎GEM ·</span>
 				</div>
 
 				<div className="eye-icon no-margin">

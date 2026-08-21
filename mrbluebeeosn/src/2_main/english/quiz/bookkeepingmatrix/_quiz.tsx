@@ -140,7 +140,7 @@ export default function (): React.JSX.Element {
 				<div className="viewcounter">
 	
 					<div className="post-date no-margin">
-						<span>June 16, 2026 · by 💎Gem ·</span>
+						<span>June 16, 2026 · by 💎GEM ·</span>
 					</div>
 	
 				</div>

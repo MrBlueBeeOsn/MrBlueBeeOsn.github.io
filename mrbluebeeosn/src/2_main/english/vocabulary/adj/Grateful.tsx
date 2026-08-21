@@ -169,7 +169,7 @@ export default function GRATEful(): React.JSX.Element {
       <div className="viewcounter">
       
         <div className="post-date no-margin">
-          <span>May 18, 2026 · by 💎Gem ·</span>
+          <span>May 18, 2026 · by 💎GEM ·</span>
         </div>
 
         <div className="eye-icon no-margin">

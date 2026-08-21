@@ -163,7 +163,7 @@ export default function (): React.JSX.Element {
       
       */}
 
-      <p className="margin-top-50 text-small"> · by 💎Gem ·</p>
+      <p className="margin-top-50 text-small"> · by 💎GEM ·</p>
 
     </article>
 

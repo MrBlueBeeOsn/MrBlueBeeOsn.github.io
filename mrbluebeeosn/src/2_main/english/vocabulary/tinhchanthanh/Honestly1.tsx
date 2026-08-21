@@ -247,7 +247,7 @@ export default function Honestly1(): React.JSX.Element {
       <div className="viewcounter">
       
         <div className="post-date no-margin">
-          <span>November 5, 2024 · by 💎Gem ·</span>
+          <span>November 5, 2024 · by 💎GEM ·</span>
         </div>
 
         <div className="eye-icon no-margin">

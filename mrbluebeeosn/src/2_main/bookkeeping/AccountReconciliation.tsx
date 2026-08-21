@@ -125,7 +125,7 @@ export default function AccountReconciliation(): React.JSX.Element {
       <div className="viewcounter">
       
         <div className="post-date no-margin">
-          <span>April 22, 2024 · by 💎Gem ·</span>
+          <span>April 22, 2024 · by 💎GEM ·</span>
         </div>
 
         <div className="eye-icon no-margin">

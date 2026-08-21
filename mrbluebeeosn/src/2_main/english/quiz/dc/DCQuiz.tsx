@@ -160,7 +160,7 @@ export default function DCQuiz(): React.JSX.Element {
 				<div className="viewcounter">
 	
 					<div className="post-date no-margin">
-						<span>May 23, 2023 · by 💎Gem ·</span>
+						<span>May 23, 2023 · by 💎GEM ·</span>
 					</div>
 	
 				</div>

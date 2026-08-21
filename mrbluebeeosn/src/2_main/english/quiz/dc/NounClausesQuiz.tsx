@@ -160,7 +160,7 @@ export default function NounClausesQuiz(): React.JSX.Element {
 				<div className="viewcounter">
 	
 					<div className="post-date no-margin">
-						<span>May 25, 2026 · by 💎Gem ·</span>
+						<span>May 25, 2026 · by 💎GEM ·</span>
 					</div>
 	
 				</div>

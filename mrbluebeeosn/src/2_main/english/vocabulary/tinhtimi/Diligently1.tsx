@@ -228,7 +228,7 @@ export default function DILigently1(): React.JSX.Element {
       <div className="viewcounter">
       
         <div className="post-date no-margin">
-          <span>December 26, 2024 · by 💎Gem ·</span>
+          <span>December 26, 2024 · by 💎GEM ·</span>
         </div>
 
         <div className="eye-icon no-margin">

@@ -129,7 +129,7 @@ export default function Greatly2(): React.JSX.Element {
       <div className="viewcounter">
       
         <div className="post-date no-margin">
-          <span>November 6, 2024 · by 💎Gem ·</span>
+          <span>November 6, 2024 · by 💎GEM ·</span>
         </div>
 
         <div className="eye-icon no-margin">

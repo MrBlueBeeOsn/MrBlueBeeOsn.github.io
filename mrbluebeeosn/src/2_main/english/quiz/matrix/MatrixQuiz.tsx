@@ -140,7 +140,7 @@ export default function MatrixQuiz(): React.JSX.Element {
 				<div className="viewcounter">
 	
 					<div className="post-date no-margin">
-						<span>June 14, 2026 · by 💎Gem ·</span>
+						<span>June 14, 2026 · by 💎GEM ·</span>
 					</div>
 	
 				</div>

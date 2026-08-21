@@ -160,7 +160,7 @@ export default function EnglishGrammarQuestions2(): React.JSX.Element {
 				<div className="viewcounter">
 	
 					<div className="post-date no-margin">
-						<span>December 10, 2025 · by 💎Gem ·</span>
+						<span>December 10, 2025 · by 💎GEM ·</span>
 					</div>
 	
 				</div>

@@ -160,7 +160,7 @@ export default function EVPrimaryAuxiliaryVerbsQuiz(): React.JSX.Element {
 				<div className="viewcounter">
 	
 					<div className="post-date no-margin">
-						<span>March 26, 2026 · by 💎Gem ·</span>
+						<span>March 26, 2026 · by 💎GEM ·</span>
 					</div>
 	
 				</div>

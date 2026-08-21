@@ -63,7 +63,7 @@ export default function GRADually1(): React.JSX.Element {
           <li>the SUN GRADually ROSE over the hoRIzon.</li>
           <li className="margin-bottom-20 list-none">Mặt trời dần dần mọc lên trên đường chân trời.</li>
 
-          <li>Her HEALTH is GRADually imPROVing.</li>
+          <li>her HEALTH is GRADually imPROVing.</li>
           <li className="list-none">Sức khỏe của cô ấy đang dần cải thiện.</li>
 
         </ul>
@@ -244,7 +244,7 @@ export default function GRADually1(): React.JSX.Element {
       <div className="viewcounter">
       
         <div className="post-date no-margin">
-          <span>November 10, 2024 · by 💎Gem ·</span>
+          <span>November 10, 2024 · by 💎GEM ·</span>
         </div>
 
         <div className="eye-icon no-margin">

@@ -274,7 +274,7 @@ export default function DependentClause1(): React.JSX.Element {
 			<div className="viewcounter">
 			
 				<div className="post-date no-margin">
-					<span>May 16, 2026 · by 💎Gem and 🐝Mr. Bee Osn ·</span>
+					<span>May 16, 2026 · by 💎GEM and 🐝Mr. Bee Osn ·</span>
 				</div>
 
 				<div className="eye-icon no-margin">

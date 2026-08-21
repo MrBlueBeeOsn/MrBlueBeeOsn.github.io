@@ -134,7 +134,7 @@ export default function So2(): React.JSX.Element {
       <div className="viewcounter">
       
         <div className="post-date no-margin">
-          <span>June 26, 2025 · by 💎Gem ·</span>
+          <span>June 26, 2025 · by 💎GEM ·</span>
         </div>
 
         <div className="eye-icon no-margin">
