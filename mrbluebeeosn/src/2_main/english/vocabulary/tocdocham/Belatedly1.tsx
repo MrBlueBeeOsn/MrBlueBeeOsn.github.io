@@ -36,8 +36,7 @@ export default function beLAtedly1(): React.JSX.Element {
 
             <li>
               <span className="highlight-255-padding-3-6">
-                [beLAtedly][be LA ted ly] /bɪˈleɪ.tɪd.li/ + /<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">bėLĀtėdly</Link>/
-                &nbsp;•⬤•• (4x)
+                [beLAtedly][<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">bė LĀ tėd ly</Link>] /bɪˈleɪ.tɪd.li/ •⬤•• (4x)
               </span>
             </li>
 

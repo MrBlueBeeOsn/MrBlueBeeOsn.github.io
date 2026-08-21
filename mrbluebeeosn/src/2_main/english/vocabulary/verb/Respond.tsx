@@ -32,7 +32,7 @@ export default function Respond(): React.JSX.Element {
 
           <p>[reSPOND] là một [Rễ Động Cơ][Root Verb Base] có nghĩa là phản hồi, trả lời, hoặc phản ứng lại một tác động trước đó.</p>
 
-          <p className="margin-top-20">Phát âm: [resPOND][res POND] /rɪˈspɒnd/</p>
+          <p className="margin-top-20">Phát âm: [resPOND][rės POND] /rɪˈspɒnd/</p>
 
             <ul className="list-square">
           
@@ -142,7 +142,7 @@ export default function Respond(): React.JSX.Element {
           
       <p className="margin-top-20 text-indent-whole"><strong>1.1</strong> <strong>Hình thành chức năng</strong> [<strong>Danh Cơ</strong>][<strong>Noun Base</strong>]</p>
 
-      <p className="margin-top-20 text-indent-whole">Ví dụ 1: [resPONSE][res PONSE] /rɪˈspɒns/</p>
+      <p className="margin-top-20 text-indent-whole">Ví dụ 1: [resPONSE][rės PONSE] /rɪˈspɒns/</p>
       
         <ul className="list-square">
       
@@ -158,7 +158,7 @@ export default function Respond(): React.JSX.Element {
       
       <p className="margin-top-20 text-indent-whole"><strong>1.2</strong> <strong>Hình thành chức năng</strong> [<strong>Tính Cơ</strong>][<strong>Adjective Base</strong>]</p>
 
-      <p className="margin-top-20 text-indent-whole">Ví dụ 2: [resPONsive][res PON sive] /rɪˈspɒnsɪv/</p>
+      <p className="margin-top-20 text-indent-whole">Ví dụ 2: [resPONsive][rės PON sive] /rɪˈspɒnsɪv/</p>
       
         <ul className="list-square">
       
@@ -174,7 +174,7 @@ export default function Respond(): React.JSX.Element {
       
       <p className="margin-top-20 text-indent-whole"><strong>1.3</strong> <strong>Hình thành chức năng</strong> [<strong>Trạng Cơ</strong>][<strong>Adverb Base</strong>]</p>
 
-      <p className="margin-top-20 text-indent-whole">Ví dụ 3: [resPONsively][res PON sive ly] /rɪˈspɒnsɪvli/</p>
+      <p className="margin-top-20 text-indent-whole">Ví dụ 3: [resPONsively][rės PON sive ly] /rɪˈspɒnsɪvli/</p>
       
         <ul className="list-square">
       

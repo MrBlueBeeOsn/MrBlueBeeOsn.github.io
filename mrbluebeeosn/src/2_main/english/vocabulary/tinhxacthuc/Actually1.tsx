@@ -36,8 +36,7 @@ export default function ACtually1(): React.JSX.Element {
 
             <li>
               <span className="highlight-255-padding-3-6">
-                [ACtually][AC tual ly] /ˈæk.tʃəl.i/ + /<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">ACtua̛lly</Link>/
-                &nbsp;⬤•• (3x)
+                [ACtually][<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">AC tưa̛l ly</Link>] /ˈæk.tʃəl.i/ ⬤•• (3x)
               </span>
             </li>
 

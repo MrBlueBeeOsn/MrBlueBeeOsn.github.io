@@ -36,8 +36,7 @@ export default function THORoughly1(): React.JSX.Element {
               
             <li>
               <span className="highlight-255-padding-3-6">
-                [THOroughly][THO rough ly] /ˈθʌrəli/ + /<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">THÔRơughly</Link>/
-                &nbsp;⬤•• (3x)
+                [THOroughly][<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">THÔR ơugh ly</Link>] /ˈθʌrəli/ ⬤•• (3x)
               </span>
             </li>
             

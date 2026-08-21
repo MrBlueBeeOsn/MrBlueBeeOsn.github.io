@@ -38,11 +38,7 @@ export default function LAzily2(): React.JSX.Element {
             
             <span className="highlight-255-padding-3-6">
               
-              [LAzily][LA zi ly] /ˈleɪzəli/ + /
-              
-              <Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">LĀzi̛ly</Link>/ 
-              
-              &nbsp;⬤•• (3x)
+              [LAzily][<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">LĀ zi̛ ly</Link>] /ˈleɪzəli/ ⬤•• (3x)
               
             </span>
               

@@ -38,11 +38,7 @@ export default function BAsically2(): React.JSX.Element {
             
             <span className="highlight-255-padding-3-6">
               
-              [BAsically][BA sical ly] /ˈbeɪsɪkli/ + /
-              
-              <Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">BĀsica̛lly</Link>/ 
-              
-              &nbsp;⬤•• (3x)
+              [BAsically][<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">BĀ sic a̛lly</Link>] /ˈbeɪsɪkli/ ⬤•• (3x)
               
             </span>
               

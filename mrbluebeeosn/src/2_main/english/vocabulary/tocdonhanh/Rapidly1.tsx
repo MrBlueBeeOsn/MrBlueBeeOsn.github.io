@@ -38,8 +38,7 @@ export default function RAPidly1(): React.JSX.Element {
 
             <li>
               <span className="highlight-255-padding-3-6">
-                [RAPidly][RAP id ly] /ˈræpɪdli/ + /<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">RAPidly</Link>/
-                &nbsp;⬤•• (3x)
+                [RAPidly][<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">RAP id ly</Link>] /ˈræpɪdli/ ⬤•• (3x)
               </span>
             </li>
 
