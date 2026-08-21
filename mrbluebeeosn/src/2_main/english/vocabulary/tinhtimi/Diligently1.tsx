@@ -5,9 +5,9 @@ import EyeIcon from '@/components/view/EyeIcon';
 import ViewCounter from '@/components/view/ViewCounter';
 import LikeButton from '@/components/like/LikeButton';
 
-export default function Diligently1(): React.JSX.Element {
+export default function DILigently1(): React.JSX.Element {
 
-  const postId = "Diligently1";
+  const postId = "DILigently1";
 
   return (<>
 
@@ -17,29 +17,26 @@ export default function Diligently1(): React.JSX.Element {
     
       <h4><HashLink smooth to="/vocabulary#tinh-ti-mi-terms"><mark className="highlight-tertiary-padding-4-8">ADverbs: tỉ mỉ</mark></HashLink></h4>
       
-      <h1 className="margin-y-50 text-center">diligently
-        <sup><Link to="/vocabulary/diligently-1">&nbsp;1&nbsp;</Link>
+      <h1 className="margin-y-50 text-center">DILigently
+        <sup><Link to="/vocabulary/DILigently-1">&nbsp;1&nbsp;</Link>
         </sup>
-        <sup><Link to="/vocabulary/diligently-2">&nbsp;2&nbsp;</Link>
+        <sup><Link to="/vocabulary/DILigently-2">&nbsp;2&nbsp;</Link>
         </sup>
       </h1>
 
       {/* This is the content of Vocabulary Term. */}
       
-      <p>Tuyệt vời! Chúng ta cùng khám phá từ "<strong>diligently</strong>" nhé.</p>
+      <p>Tuyệt vời! Chúng ta cùng khám phá từ "<strong>DILigently</strong>" nhé.</p>
 
       <div className="text-border1 padding-top-20 padding-bottom-10 highlight-238-padding-4-8 bee-container">
 
         <div>
 
-          <p className="margin-bottom-20"><strong>Diligently</strong></p>
-
           <ul className="list-square padding-left-40">
               
             <li>
               <span className="highlight-255-padding-3-6">
-                [DILigently][DIL i gent ly] /ˈdɪl.ə.dʒənt.li/ + /<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">dili̛ge̛ntly</Link>/
-                &nbsp;⬤••• (4x)
+                [DILigently][<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">DIL i̛ ge̛nt ly</Link>] /ˈdɪl.ə.dʒənt.li/ ⬤••• (4x)
               </span>
             </li>
             
@@ -57,16 +54,16 @@ export default function Diligently1(): React.JSX.Element {
       
       </div>
 
-      <p className="margin-top-30 text-indent-whole">Từ "<strong>diligently</strong>" được dùng để miêu tả một hành động được thực hiện với sự chăm chỉ, nỗ lực và sự tập trung cao độ. Nó thể hiện một thái độ làm việc nghiêm túc và hiệu quả.</p>
+      <p className="margin-top-30 text-indent-whole">Từ "<strong>DILigently</strong>" được dùng để miêu tả một hành động được thực hiện với sự chăm chỉ, nỗ lực và sự tập trung cao độ. Nó thể hiện một thái độ làm việc nghiêm túc và hiệu quả.</p>
 
       <p className="text-indent-whole">Ví dụ:</p>
 
         <ul className="list-square">
 
-          <li>She ______ studied for the exam.</li>
+          <li>she DILigently STUdied for the exAM.</li>
           <li className="margin-bottom-20 list-none">Cô ấy đã chăm chỉ học bài để chuẩn bị cho kỳ thi.</li>
 
-          <li>The workers ______ repaired the road.</li>
+          <li>the WORKers DILigently rePAIRED the ROAD.</li>
           <li className="list-none">Các công nhân đã chăm chỉ sửa chữa con đường.</li>
 
         </ul>
@@ -83,12 +80,10 @@ export default function Diligently1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Diligent (adj) /ˈdɪl.ɪ.dʒənt/</li>
-          <li className="list-none">He is a ______ student.</li>
+          <li>he is a DILigent STUdent.</li>
           <li className="margin-bottom-20 list-none">Anh ấy là một học sinh chăm chỉ.</li>
 
-          <li>Diligence (n) /ˈdɪl.ɪ.dʒəns/</li>
-          <li className="list-none">Her ______ was rewarded.</li>
+          <li>her DILigence was reWARded.</li>
           <li className="list-none">Sự chăm chỉ của cô ấy đã được đền đáp.</li>
 
         </ul>
@@ -105,12 +100,10 @@ export default function Diligently1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Industriously /ɪnˈdʌs.tri.əs.li/</li>
-          <li className="list-none">The bees ______ gathered pollen.</li>
+          <li>the BEES inDUStriously GATHered POLlen.</li>
           <li className="margin-bottom-20 list-none">Những con ong cần cù thu thập phấn hoa.</li>
 
-          <li>Assiduously /əˈsɪd.ju.əs.li/</li>
-          <li className="list-none">He ______ worked on his project.</li>
+          <li>he asSIDuously WORKED on his PROject.</li>
           <li className="list-none">Anh ấy siêng năng làm việc trên dự án của mình.</li>
 
         </ul>
@@ -127,12 +120,10 @@ export default function Diligently1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Lazily /ˈleɪ.zɪ.li/</li>
-          <li className="list-none">He ______ sat on the couch.</li>
+          <li>he <Link to="/vocabulary/LAzily-1">LAzily</Link> SAT on the COUCH.</li>
           <li className="margin-bottom-20 list-none">Anh ấy lười biếng ngồi trên ghế sofa.</li>
 
-          <li>Carelessly /ˈkeə.ləs.li/</li>
-          <li className="list-none">She ______ threw her papers on the floor.</li>
+          <li>she CARElessly THREW her PApers on the FLOOR.</li>
           <li className="list-none">Cô ấy vứt giấy tờ xuống sàn một cách cẩu thả.</li>
 
         </ul>
@@ -158,7 +149,7 @@ export default function Diligently1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>She is putting in a lot of effort, studying ______ for the exam.</li>
+          <li>she is PUTting in a LOT of EFfort, STUdied DILigently for the exAM.</li>
           <li className="list-none">Cô ấy đang nỗ lực rất nhiều, chăm chỉ học bài để chuẩn bị cho kỳ thi.</li>
 
         </ul>
@@ -178,7 +169,7 @@ export default function Diligently1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>She ______ cleaned the house.</li>
+          <li>she DILigently CLEANED the HOUSE.</li>
           <li className="list-none">Cô ấy đã chăm chỉ dọn dẹp nhà cửa.</li>
 
         </ul>
@@ -200,10 +191,10 @@ export default function Diligently1(): React.JSX.Element {
 
           <ol>
 
-            <li>He worked on the project.</li>
+            <li>he WORKED on the PROject.</li>
             <li className="list-none margin-bottom-20">Anh ấy đã làm việc trên dự án.</li>
 
-            <li value="2">He ______ worked on the project for hours.</li>
+            <li value="2">he DILigently WORKED on the PROject for HOURS.</li>
             <li className="list-none margin-bottom-20">Anh ấy đã chăm chỉ làm việc trên dự án trong nhiều giờ.</li>
 
           </ol>
@@ -224,7 +215,7 @@ export default function Diligently1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Nhấn mạnh sự nỗ lực: "<strong>Diligently</strong>" luôn nhấn mạnh sự nỗ lực và sự cống hiến trong việc hoàn thành một nhiệm vụ.</li>
+          <li>Nhấn mạnh sự nỗ lực: "<strong>DILigently</strong>" luôn nhấn mạnh sự nỗ lực và sự cống hiến trong việc hoàn thành một nhiệm vụ.</li>
 
           <li className="margin-bottom-20">Dùng trong ngữ cảnh tích cực: Từ này thường được sử dụng trong ngữ cảnh tích cực để miêu tả những hành động đáng khen ngợi.</li>
 

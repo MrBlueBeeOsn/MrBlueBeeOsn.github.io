@@ -122,7 +122,7 @@ export default function LAzily1(): React.JSX.Element {
           <li>he WORKED enerGETically on the PROJect.</li>
           <li className="margin-bottom-20 list-none">Anh ấy làm việc rất năng động trong dự án.</li>
 
-          <li>she STUDied <Link to="/vocabulary/diligently-1">DILigently</Link> for the exAM.</li>
+          <li>she STUDied <Link to="/vocabulary/DILigently-1">DILigently</Link> for the exAM.</li>
           <li className="list-none">Cô ấy học hành rất siêng năng để chuẩn bị cho kỳ thi.</li>
 
         </ul>
