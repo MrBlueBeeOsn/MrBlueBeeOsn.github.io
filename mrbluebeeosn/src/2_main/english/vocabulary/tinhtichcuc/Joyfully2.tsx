@@ -102,7 +102,7 @@ export default function JOYfully2(): React.JSX.Element {
 
           <li>"<strong>JOYfully</strong>" thường đứng trước hành động để bổ nghĩa.</li>
 
-          <li className="margin-bottom-20">Từ này có thể được thay thế bằng các từ đồng nghĩa như "<Link to="/vocabulary/happily-1">HAPpily</Link>", "GLADly", "<Link to="/vocabulary/cheerfully-1">CHEERfully</Link>" để tạo sự đa dạng trong văn phong.</li>
+          <li className="margin-bottom-20">Từ này có thể được thay thế bằng các từ đồng nghĩa như "<Link to="/vocabulary/HAPpily-1">HAPpily</Link>", "GLADly", "<Link to="/vocabulary/cheerfully-1">CHEERfully</Link>" để tạo sự đa dạng trong văn phong.</li>
 
         </ul>
 

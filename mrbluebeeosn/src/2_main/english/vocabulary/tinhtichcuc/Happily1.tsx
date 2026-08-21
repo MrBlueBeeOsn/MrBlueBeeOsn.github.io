@@ -5,9 +5,9 @@ import EyeIcon from '@/components/view/EyeIcon';
 import ViewCounter from '@/components/view/ViewCounter';
 import LikeButton from '@/components/like/LikeButton';
 
-export default function Happily1(): React.JSX.Element {
+export default function HAPpily1(): React.JSX.Element {
 
-  const postId = "Happily1";
+  const postId = "HAPpily1";
 
   return (<>
 
@@ -17,29 +17,26 @@ export default function Happily1(): React.JSX.Element {
     
       <h4><HashLink smooth to="/vocabulary#tinh-tich-cuc-terms"><mark className="highlight-tertiary-padding-4-8">ADverbs: tích cực</mark></HashLink></h4>
       
-      <h1 className="margin-y-50 text-center">happily
-        <sup><Link to="/vocabulary/happily-1">&nbsp;1&nbsp;</Link>
+      <h1 className="margin-y-50 text-center">HAPpily
+        <sup><Link to="/vocabulary/HAPpily-1">&nbsp;1&nbsp;</Link>
         </sup>
-        <sup><Link to="/vocabulary/happily-2">&nbsp;2&nbsp;</Link>
+        <sup><Link to="/vocabulary/HAPpily-2">&nbsp;2&nbsp;</Link>
         </sup>
       </h1>
 
       {/* This is the content of Vocabulary Term. */}
       
-      <p>Tuyệt vời! Chúng ta cùng khám phá từ "<strong>happily</strong>" nhé.</p>
+      <p>Tuyệt vời! Chúng ta cùng khám phá từ "<strong>HAPpily</strong>" nhé.</p>
 
       <div className="text-border1 padding-top-20 padding-bottom-10 highlight-238-padding-4-8 bee-container">
 
         <div>
 
-          <p className="margin-bottom-20"><strong>Happily</strong></p>
-
           <ul className="list-square padding-left-40">
 
             <li>
               <span className="highlight-255-padding-3-6">
-                [HAPpily][HAP pi ly] /ˈhæpəli/ + /<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">happi̛ly</Link>/
-                &nbsp;⬤•• (3x)
+                [HAPpily][<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">HAP pi̛ ly</Link>] /ˈhæpəli/ ⬤•• (3x)
               </span>
             </li>
 
@@ -57,16 +54,16 @@ export default function Happily1(): React.JSX.Element {
 
       </div>
 
-      <p className="margin-top-30 text-indent-whole">Từ "<strong>happily</strong>" được dùng để mô tả một hành động, trạng thái hoặc tình huống diễn ra trong niềm vui, sự hài lòng và mãn nguyện. Nó thể hiện cảm xúc tích cực của con người.</p>
+      <p className="margin-top-30 text-indent-whole">Từ "<strong>HAPpily</strong>" được dùng để mô tả một hành động, trạng thái hoặc tình huống diễn ra trong niềm vui, sự hài lòng và mãn nguyện. Nó thể hiện cảm xúc tích cực của con người.</p>
 
       <p className="margin-top-20 text-indent-whole">Ví dụ:</p>
 
         <ul className="list-square">
 
-          <li>They lived ______ ever after.</li>
+          <li>they LIVED HAPpily EVer after.</li>
           <li className="margin-bottom-20 list-none">Họ sống hạnh phúc mãi mãi.</li>
 
-          <li>She smiled ______.</li>
+          <li>she SMILED HAPpily.</li>
           <li className="list-none">Cô ấy cười một cách hạnh phúc.</li>
 
         </ul>
@@ -83,12 +80,10 @@ export default function Happily1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Happy (adj) /ˈhæpi/</li>
-          <li className="list-none">I am very ______ to see you.</li>
+          <li>i am VERY HAPpy to SEE you.</li>
           <li className="margin-bottom-20 list-none">Tôi rất vui khi gặp bạn.</li>
 
-          <li>Happiness (n) /ˈhæpinəs/</li>
-          <li className="list-none">______ is the key to a good life.</li>
+          <li>HAPpiness is the KEY to a GOOD LIFE.</li>
           <li className="list-none">Hạnh phúc là chìa khóa cho một cuộc sống tốt đẹp.</li>
 
         </ul>
@@ -105,12 +100,10 @@ export default function Happily1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li><Link to="/vocabulary/JOYfully-1">Joyfully</Link> /ˈdʒɔɪfəli/</li>
-          <li className="list-none">The children played ______.</li>
+          <li>the CHILdren PLAYED <Link to="/vocabulary/JOYfully-1">JOYfully</Link>.</li>
           <li className="margin-bottom-20 list-none">Những đứa trẻ chơi một cách vui mừng.</li>
 
-          <li>Gladly /ˈɡlædli/</li>
-          <li className="list-none">I will ______ help you.</li>
+          <li>i will GLADly HELP you.</li>
           <li className="list-none">Tôi rất vui lòng giúp bạn.</li>
 
         </ul>
@@ -129,12 +122,10 @@ export default function Happily1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Sadly /ˈsædli/</li>
-          <li className="list-none">______, he lost his job.</li>
+          <li>SADly, he LOST his JOB.</li>
           <li className="margin-bottom-20 list-none">Buồn thay, anh ấy mất việc.</li>
 
-          <li>Unhappily /ʌnˈhæpɪli/</li>
-          <li className="list-none">She lived ______ ever after.</li>
+          <li>she LIVED unHAPpily EVer after.</li>
           <li className="list-none">Cô ấy sống bất hạnh mãi mãi.</li>
 
         </ul>
@@ -160,7 +151,7 @@ export default function Happily1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>She is ______ cuddling a puppy.</li>
+          <li>she is HAPpily CUDdling a PUPpy.</li>
           <li className="list-none">Cô ấy đang ôm một chú chó con một cách hạnh phúc.</li>
 
         </ul>
@@ -180,7 +171,7 @@ export default function Happily1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>She ______ graduated from university.</li>
+          <li>she HAPpily GRADuated from uniVERsity.</li>
           <li className="list-none">Cô ấy đã tốt nghiệp đại học một cách vui vẻ.</li>
 
         </ul>
@@ -202,17 +193,17 @@ export default function Happily1(): React.JSX.Element {
 
           <ol>
 
-            <li>She went to work.</li>
+            <li>she WENT to WORK.</li>
             <li className="list-none margin-bottom-20">Cô ấy đi làm.</li>
 
-            <li value="2">She went to work ______.</li>
+            <li value="2">she WENT to WORK HAPpily.</li>
             <li className="list-none margin-bottom-20">Cô ấy đi làm một cách vui vẻ.</li>
 
           </ol>
 
       <div className="margin-bottom-20 padding-top-20 text-border1 padding-10 highlight-238-padding-4-8 bee-container">
 
-        <p className="margin-y-10">Sự khác biệt: Câu thứ hai sử dụng "<strong>happily</strong>" để <span className="highlight-255-padding-0-4">nhấn mạnh</span> rằng cô ấy cảm thấy <span className="highlight-255-padding-0-4">vui vẻ khi đi làm</span>, không chỉ đơn thuần là đi làm.</p>
+        <p className="margin-y-10">Sự khác biệt: Câu thứ hai sử dụng "<strong>HAPpily</strong>" để <span className="highlight-255-padding-0-4">nhấn mạnh</span> rằng cô ấy cảm thấy <span className="highlight-255-padding-0-4">vui vẻ khi đi làm</span>, không chỉ đơn thuần là đi làm.</p>
 
       </div>
 
@@ -228,7 +219,7 @@ export default function Happily1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Cảm xúc tích cực: "<strong>Happily</strong>" luôn liên quan đến những cảm xúc tích cực như vui vẻ, hài lòng.</li>
+          <li>Cảm xúc tích cực: "<strong>HAPpily</strong>" luôn liên quan đến những cảm xúc tích cực như vui vẻ, hài lòng.</li>
 
           <li className="margin-bottom-20">Trạng thái tâm lý: Nó thường được dùng để mô tả trạng thái tâm lý của một người trong một tình huống cụ thể.</li>
 

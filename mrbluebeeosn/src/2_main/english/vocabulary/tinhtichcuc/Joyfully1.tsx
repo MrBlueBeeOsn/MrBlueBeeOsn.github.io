@@ -100,7 +100,7 @@ export default function JOYfully1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>they LIVED <Link to="/vocabulary/happily-1">HAPpily</Link> EVer after.</li>
+          <li>they LIVED <Link to="/vocabulary/HAPpily-1">HAPpily</Link> EVer after.</li>
           <li className="margin-bottom-20 list-none">Họ sống hạnh phúc mãi mãi.</li>
 
           <li>i will GLADly HELP you.</li>

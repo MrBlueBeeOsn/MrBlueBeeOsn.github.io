@@ -109,7 +109,7 @@ export default function Cheerfully1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li><Link to="/vocabulary/happily-1">Happily</Link> /ˈhæpɪli/</li>
+          <li><Link to="/vocabulary/HAPpily-1">Happily</Link> /ˈhæpɪli/</li>
           <li className="list-none">They lived ______ ever after.</li>
           <li className="margin-bottom-20 list-none">Họ sống hạnh phúc mãi mãi.</li>
 
