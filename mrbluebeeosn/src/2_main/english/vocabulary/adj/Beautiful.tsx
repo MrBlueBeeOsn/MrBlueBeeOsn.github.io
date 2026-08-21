@@ -25,7 +25,7 @@ export default function BEAUtiful(): React.JSX.Element {
 
         <ul className="list-square">
       
-          <li>The SUNset over the Ocean was TRUly [BEAUtiful].</li>
+          <li>the SUNset over the Ocean was TRUly [BEAUtiful].</li>
           <li className="list-none">Cảnh hoàng hôn trên biển thực sự rất đẹp.</li>
       
         </ul>
@@ -70,7 +70,7 @@ export default function BEAUtiful(): React.JSX.Element {
           <li className="margin-bottom-20 list-none">Thật là một cảnh hoàng hôn đẹp tuyệt vời!</li>
 
           <li>[<strong>BEAUty</strong>] (NOUN) /ˈbjuːti/</li>
-          <li className="list-none">The [BEAUty] of the LANDscape TOOK my BREATH aWAY.</li>
+          <li className="list-none">the [BEAUty] of the LANDscape TOOK my BREATH aWAY.</li>
           <li className="margin-bottom-20 list-none">Vẻ đẹp của phong cảnh đã khiến tôi sững sờ.</li>
 
           <li>[<strong>BEAUtify</strong>] (VERB) /ˈbjuːtɪfaɪ/</li>
@@ -78,15 +78,15 @@ export default function BEAUtiful(): React.JSX.Element {
           <li className="margin-bottom-20 list-none">Họ quyết định làm đẹp khu vườn bằng những loài hoa theo mùa.</li>
 
           <li>[<strong>BEAUtifully</strong>] (ADverb) /ˈbjuːtɪfəli/</li>
-          <li className="list-none">The MUsic was [BEAUtifully] comPOSED and MOVED the enTIRE AUdience.</li>
+          <li className="list-none">the MUsic was [BEAUtifully] comPOSED and MOVED the enTIRE AUdience.</li>
           <li className="margin-bottom-20 list-none">Bản nhạc được sáng tác một cách tuyệt đẹp và đã làm lay động toàn bộ khán giả.</li>
 
           <li>[<strong>beauTIcian</strong>] (NOUN - Chỉ người) /bjuːˈtɪʃn/</li>
-          <li className="list-none">The proFESsional [beauTIcian] prePARED the ACtors for the FILM.</li>
+          <li className="list-none">the proFESsional [beauTIcian] prePARED the ACtors for the FILM.</li>
           <li className="margin-bottom-20 list-none">Chuyên gia thẩm mỹ chuyên nghiệp đã chuẩn bị cho các diễn viên trong bộ phim.</li>
 
           <li>[<strong>BEAUteous</strong>] (ADjective - Văn chương) /ˈbjuːtiəs/</li>
-          <li className="list-none">The POet WROTE about the [BEAUteous] STARS in the NIGHT SKY.</li>
+          <li className="list-none">the POet WROTE about the [BEAUteous] STARS in the NIGHT SKY.</li>
           <li className="list-none">Nhà thơ đã viết về những ngôi sao tuyệt đẹp trên bầu trời đêm.</li>
 
         </ul>
@@ -109,7 +109,7 @@ export default function BEAUtiful(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>The BRIDE LOOKED absoLUTEly [GORgeous] in her LACE GOWN.</li>
+          <li>the BRIDE LOOKED absoLUTEly [GORgeous] in her LACE GOWN.</li>
           <li className="list-none">Cô dâu trông hoàn toàn rực rỡ trong chiếc váy ren.</li>
 
         </ul>
@@ -124,7 +124,7 @@ export default function BEAUtiful(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>The PENThouse OFfers a [STUNning] VIEW of the CIty SKYline.</li>
+          <li>the PENThouse OFfers a [STUNning] VIEW of the CIty SKYline.</li>
           <li className="list-none">Căn hộ tầng thượng mang đến một tầm nhìn choáng ngợp ra đường chân trời của thành phố.</li>
 
         </ul>
@@ -139,7 +139,7 @@ export default function BEAUtiful(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>The muSEum disPLAYED a colLECtion of [exQUISite] HAND-PAINted ceRAMics.</li>
+          <li>the muSEum disPLAYED a colLECtion of [exQUISite] HAND-PAINted ceRAMics.</li>
           <li className="list-none">Bảo tàng trưng bày một bộ sưu tập đồ gốm vẽ tay tinh xảo.</li>
 
         </ul>
@@ -154,7 +154,7 @@ export default function BEAUtiful(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>We HAD a [LOVEly] afterNOON WALKing through the boTANical GARdens.</li>
+          <li>we HAD a [LOVEly] afterNOON WALKing through the boTANical GARdens.</li>
           <li className="list-none">Chúng tôi đã có một buổi chiều dễ chịu khi đi dạo qua các vườn bách thảo.</li>
 
         </ul>
@@ -169,7 +169,7 @@ export default function BEAUtiful(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>She GAVE a [RAdiant] SMILE that INstantly BRIGHtened the ROOM.</li>
+          <li>she GAVE a [RAdiant] SMILE that INstantly BRIGHtened the ROOM.</li>
           <li className="list-none">Cô ấy nở một nụ cười rạng rỡ khiến căn phòng bừng sáng ngay lập tức.</li>
 
         </ul>
@@ -184,7 +184,7 @@ export default function BEAUtiful(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>The NEW FURniture was CHOsen for PUREly [aesTHETic] REAsons.</li>
+          <li>the NEW FURniture was CHOsen for PUREly [aesTHETic] REAsons.</li>
           <li className="list-none">Đồ nội thất mới được chọn hoàn toàn vì những lý do thẩm mỹ.</li>
 
         </ul>
@@ -199,7 +199,7 @@ export default function BEAUtiful(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>The [magNIFicent] ARchitecture of the caTHEdral DATES BACK to the TWELFTH CENtury.</li>
+          <li>the [magNIFicent] ARchitecture of the caTHEdral DATES BACK to the TWELFTH CENtury.</li>
           <li className="list-none">Kiến trúc hùng vĩ của nhà thờ có niên đại cơ thế kỷ 12.</li>
 
         </ul>

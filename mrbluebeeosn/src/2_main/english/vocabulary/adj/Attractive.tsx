@@ -25,7 +25,7 @@ export default function atTRACtive(): React.JSX.Element {
 
         <ul className="list-square">
       
-          <li>The NEW JOB offer CAME with a VEry [atTRACtive] SALary.</li>
+          <li>the NEW JOB offer CAME with a VEry [atTRACtive] SALary.</li>
           <li className="list-none">Lời đề nghị công việc mới đi kèm với một mức lương rất hấp dẫn.</li>
       
         </ul>
@@ -66,7 +66,7 @@ export default function atTRACtive(): React.JSX.Element {
         <ul className="list-square">
 
           <li>[<strong>atTRACtive</strong>] (ADjective) /əˈtræk.tɪv/</li>
-          <li className="list-none">He HAS a VEry [atTRACtive] SMILE.</li>
+          <li className="list-none">he HAS a VEry [atTRACtive] SMILE.</li>
           <li className="margin-bottom-20 list-none">Anh ấy có một nụ cười rất cuốn hút.</li>
 
           <li>[<strong>atTRACT</strong>] (VERB) /əˈtrækt/</li>
@@ -74,15 +74,15 @@ export default function atTRACtive(): React.JSX.Element {
           <li className="margin-bottom-20 list-none">Màu sắc rực rỡ thường thu hút bướm đến vườn.</li>
 
           <li>[<strong>atTRACtion</strong>] (NOUN) /əˈtrækʃn/</li>
-          <li className="list-none">The Eiffel TOWer is a MAjor TOUrist [atTRACtion] in PAris.</li>
+          <li className="list-none">the Eiffel TOWer is a MAjor TOUrist [atTRACtion] in PAris.</li>
           <li className="margin-bottom-20 list-none">Tháp Eiffel là một điểm thu hút khách du lịch lớn ở Paris.</li>
 
           <li>[<strong>atTRACtiveness</strong>] (NOUN - Trừu tượng) /əˈtræktɪvnəs/</li>
-          <li className="list-none">The PHYSical [atTRACtiveness] of the PROduct deSIGN HELPED inCREASE SALES.</li>
+          <li className="list-none">the PHYSical [atTRACtiveness] of the PROduct deSIGN HELPED inCREASE SALES.</li>
           <li className="margin-bottom-20 list-none">Sự hấp dẫn về mặt hình thức của thiết kế sản phẩm đã giúp tăng doanh số bán hàng.</li>
 
           <li>[<strong>atTRACtively</strong>] (ADverb) /əˈtræktɪvli/</li>
-          <li className="list-none">The TAble was [atTRACtively] DEcorated with FLOWers and CANdles.</li>
+          <li className="list-none">the TAble was [atTRACtively] DEcorated with FLOWers and CANdles.</li>
           <li className="list-none">Chiếc bàn được trang trí một cách lôi cuốn với hoa và nến.</li>
 
         </ul>
@@ -105,7 +105,7 @@ export default function atTRACtive(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>The iDEA of a LONG vaCAtion is VEry [apPEALing] to me RIGHT NOW.</li>
+          <li>the iDEA of a LONG vaCAtion is VEry [apPEALing] to me RIGHT NOW.</li>
           <li className="list-none">Ý tưởng về một kỳ nghỉ dài ngày rất hấp dẫn đối với tôi vào lúc này.</li>
 
         </ul>
@@ -120,7 +120,7 @@ export default function atTRACtive(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>The TROPical Island HAS an [alLURing] ATmosphere that DRAWS VISitors every YEAR.</li>
+          <li>the TROPical Island HAS an [alLURing] ATmosphere that DRAWS VISitors every YEAR.</li>
           <li className="list-none">Hòn đảo nhiệt đới có một bầu không khí quyến rũ thu hút du khách mỗi năm.</li>
 
         </ul>
@@ -135,7 +135,7 @@ export default function atTRACtive(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Her [CAPtivating] perFORmance HELD the AUdience’s atTENtion until the VEry END.</li>
+          <li>her [CAPtivating] perFORmance HELD the AUdience’s atTENtion until the VEry END.</li>
           <li className="list-none">Màn trình diễn say đắm của cô ấy đã giữ được sự chú ý của khán giả cho đến tận cuối cùng.</li>
 
         </ul>
@@ -150,7 +150,7 @@ export default function atTRACtive(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>We STAYED in a [CHARMing] LITtle COTtage by the SEA.</li>
+          <li>we STAYED in a [CHARMing] LITtle COTtage by the SEA.</li>
           <li className="list-none">Chúng tôi đã ở trong một ngôi nhà nhỏ duyên dáng bên bờ biển.</li>
 
         </ul>
@@ -165,7 +165,7 @@ export default function atTRACtive(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>The SPEAker HAD an [enGAging] persoNALity that MADE the LECture enJOYable.</li>
+          <li>the SPEAker HAD an [enGAging] persoNALity that MADE the LECture enJOYable.</li>
           <li className="list-none">Diễn giả có một tính cách lôi cuốn khiến bài giảng trở nên thú vị.</li>
 
         </ul>
@@ -180,7 +180,7 @@ export default function atTRACtive(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>I FOUND the docuMENtary about DEEP-SEA CREAtures absoLUTEly [FAScinating].</li>
+          <li>i FOUND the docuMENtary about DEEP-SEA CREAtures absoLUTEly [FAScinating].</li>
           <li className="list-none">Tôi thấy bộ phim tài liệu về các sinh vật biển sâu hoàn toàn thú vị.</li>
 
         </ul>
