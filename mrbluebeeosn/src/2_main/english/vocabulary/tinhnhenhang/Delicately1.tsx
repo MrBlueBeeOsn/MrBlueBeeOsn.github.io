@@ -101,7 +101,7 @@ export default function Delicately1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li><Link to="/vocabulary/gently-1">Gently</Link> /ˈdʒɛntli/</li>
+          <li><Link to="/vocabulary/GENTly-1">Gently</Link> /ˈdʒɛntli/</li>
           <li className="list-none">She ______ closed the door.</li>
           <li className="margin-bottom-20 list-none">Cô ấy nhẹ nhàng đóng cửa.</li>
 

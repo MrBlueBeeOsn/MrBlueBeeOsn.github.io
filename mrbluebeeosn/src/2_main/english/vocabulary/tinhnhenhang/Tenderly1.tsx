@@ -106,7 +106,7 @@ export default function TENderly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>he TOUCHED her HAND <Link to="/vocabulary/gently-1">GENtly</Link>.</li>
+          <li>he TOUCHED her HAND <Link to="/vocabulary/GENTly-1">GENtly</Link>.</li>
           <li className="margin-bottom-20 list-none">Anh ấy chạm nhẹ vào tay cô ấy.</li>
 
           <li>she SMILED afFECtionately at HIM.</li>

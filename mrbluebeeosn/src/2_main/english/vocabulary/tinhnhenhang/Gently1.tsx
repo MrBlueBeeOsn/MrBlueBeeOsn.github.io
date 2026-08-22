@@ -5,9 +5,9 @@ import EyeIcon from '@/components/view/EyeIcon';
 import ViewCounter from '@/components/view/ViewCounter';
 import LikeButton from '@/components/like/LikeButton';
 
-export default function Gently1(): React.JSX.Element {
+export default function GENTly1(): React.JSX.Element {
 
-  const postId = "Gently1";
+  const postId = "GENTly1";
 
   return (<>
 
@@ -17,29 +17,26 @@ export default function Gently1(): React.JSX.Element {
     
       <h4><HashLink smooth to="/vocabulary#tinh-nhe-nhang-terms"><mark className="highlight-tertiary-padding-4-8">ADverbs: nhẹ nhàng</mark></HashLink></h4>
       
-      <h1 className="margin-y-50 text-center">gently
-        <sup><Link to="/vocabulary/gently-1">&nbsp;1&nbsp;</Link>
+      <h1 className="margin-y-50 text-center">GENTly
+        <sup><Link to="/vocabulary/GENTly-1">&nbsp;1&nbsp;</Link>
         </sup>
-        <sup><Link to="/vocabulary/gently-2">&nbsp;2&nbsp;</Link>
+        <sup><Link to="/vocabulary/GENTly-2">&nbsp;2&nbsp;</Link>
         </sup>
       </h1>
 
       {/* This is the content of Vocabulary Term. */}
       
-      <p>Tuyệt vời! Chúng ta cùng đi sâu vào từ "<strong>gently</strong>" nhé.</p>
+      <p>Tuyệt vời! Chúng ta cùng đi sâu vào từ "<strong>GENTly</strong>" nhé.</p>
 
       <div className="text-border1 padding-top-20 padding-bottom-10 highlight-238-padding-4-8 bee-container">
 
         <div>
 
-          <p className="margin-bottom-20"><strong>gently</strong></p>
-
           <ul className="list-square padding-left-40">
 
             <li>
               <span className="highlight-255-padding-3-6">
-                [GEntly][GEn tly] /ˈdʒɛntli/ + /<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">gently</Link>/
-                &nbsp;⬤• (2x)
+                [GENTly][<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">GENT ly</Link>] /ˈdʒɛntli/ ⬤• (2x)
               </span>
             </li>
 
@@ -57,16 +54,16 @@ export default function Gently1(): React.JSX.Element {
 
       </div>
 
-      <p className="margin-top-30 text-indent-whole">Từ "<strong>gently</strong>" được dùng để miêu tả một hành động được thực hiện một cách nhẹ nhàng, không mạnh bạo, không gây tổn thương. Nó có thể áp dụng cho nhiều tình huống khác nhau, từ việc chạm vào một vật dễ vỡ đến việc nói chuyện với ai đó một cách dịu dàng.</p>
+      <p className="margin-top-30 text-indent-whole">Từ "<strong>GENTly</strong>" được dùng để miêu tả một hành động được thực hiện một cách nhẹ nhàng, không mạnh bạo, không gây tổn thương. Nó có thể áp dụng cho nhiều tình huống khác nhau, từ việc chạm vào một vật dễ vỡ đến việc nói chuyện với ai đó một cách dịu dàng.</p>
 
       <p className="margin-top-20 text-indent-whole">Ví dụ:</p>
 
         <ul className="list-square">
 
-          <li>She closed the door ______.</li>
+          <li>she CLOSED the DOOR GENTly.</li>
           <li className="margin-bottom-20 list-none">Cô ấy đóng cửa nhẹ nhàng.</li>
 
-          <li>Please speak ______ to the child.</li>
+          <li>please SPEAK GENTly to the CHILD.</li>
           <li className="list-none">Làm ơn nói chuyện nhẹ nhàng với đứa trẻ.</li>
 
         </ul>
@@ -83,8 +80,7 @@ export default function Gently1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Gentle (adj) /ˈdʒɛntl/</li>
-          <li className="list-none">She has a ______ nature.</li>
+          <li>she HAS a GENTle NAture.</li>
           <li className="list-none">Cô ấy có một tính cách dịu dàng.</li>
 
         </ul>
@@ -101,12 +97,10 @@ export default function Gently1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li><Link to="/vocabulary/SOFTly-1">Softly</Link> /ˈsɒftli/</li>
-          <li className="list-none">She spoke ______.</li>
+          <li>she SPOKE <Link to="/vocabulary/SOFTly-1">SOFTly</Link>.</li>
           <li className="margin-bottom-20 list-none">Cô ấy nói nhỏ nhẹ.</li>
 
-          <li><Link to="/vocabulary/carefully-1">Carefully</Link> /ˈkeəfəli/</li>
-          <li className="list-none">Handle the glass ______.</li>
+          <li>HANdle the GLASS <Link to="/vocabulary/carefully-1">CAREfully</Link>.</li>
           <li className="list-none">Nhẹ nhàng cầm cái ly.</li>
 
         </ul>
@@ -125,12 +119,10 @@ export default function Gently1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Roughly /ˈrʌfli/</li>
-          <li className="list-none">He handled the package ______.</li>
+          <li>he HANdled the PACKage ROUGHly.</li>
           <li className="margin-bottom-20 list-none">Anh ấy cầm gói hàng một cách thô bạo.</li>
 
-          <li>Violently /ˈvaɪələntli/</li>
-          <li className="list-none">The storm raged ______.</li>
+          <li>the STORM RAGED VIolently.</li>
           <li className="list-none">Bão nổi lên dữ dội.</li>
 
         </ul>
@@ -156,7 +148,7 @@ export default function Gently1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>She is ______ petting the cat.</li>
+          <li>she is GENTly PETting the CAT.</li>
           <li className="list-none">Cô ấy đang vuốt ve con mèo một cách nhẹ nhàng.</li>
 
         </ul>
@@ -176,7 +168,7 @@ export default function Gently1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>She closed the book ______ and put it down.</li>
+          <li>she CLOSED the BOOK GENTly and PUT it DOWN.</li>
           <li className="list-none">Cô ấy đóng sách nhẹ nhàng và đặt nó xuống.</li>
 
         </ul>
@@ -198,10 +190,10 @@ export default function Gently1(): React.JSX.Element {
 
           <ol>
 
-            <li>He pushed the door.</li>
+            <li>he PUSHED the DOOR.</li>
             <li className="list-none margin-bottom-20">Anh ấy đẩy cửa.</li>
 
-            <li value="2">He pushed the door ______.</li>
+            <li value="2">he PUSHED the DOOR GENTly.</li>
             <li className="list-none margin-bottom-20">Anh ấy đẩy cửa nhẹ nhàng.</li>
 
           </ol>
@@ -224,7 +216,7 @@ export default function Gently1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Cảm xúc: "<strong>Gently</strong>" thường liên quan đến cảm xúc tích cực như sự dịu dàng, ân cần.</li>
+          <li>Cảm xúc: "<strong>GENTly</strong>" thường liên quan đến cảm xúc tích cực như sự dịu dàng, ân cần.</li>
 
           <li className="margin-bottom-20">Hành động: Nó có thể được sử dụng để miêu tả cả hành động vật lý và hành động bằng lời nói.</li>
 

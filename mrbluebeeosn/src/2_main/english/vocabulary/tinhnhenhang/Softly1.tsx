@@ -97,7 +97,7 @@ export default function SOFTly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>she <Link to="/vocabulary/gently-1">GENtly</Link> STROKED the CAT.</li>
+          <li>she <Link to="/vocabulary/GENTly-1">GENtly</Link> STROKED the CAT.</li>
           <li className="margin-bottom-20 list-none">Cô ấy vuốt ve con mèo một cách nhẹ nhàng.</li>
 
           <li>she WALKED QUIetly OUT of the ROOM.</li>

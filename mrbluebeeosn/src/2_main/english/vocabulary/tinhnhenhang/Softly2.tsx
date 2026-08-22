@@ -102,7 +102,7 @@ export default function SOFTly2(): React.JSX.Element {
 
           <li>"<strong>SOFTly</strong>" thường đứng trước hành động để bổ nghĩa.</li>
 
-          <li className="margin-bottom-20">Từ này có thể được thay thế bằng các từ đồng nghĩa như "<Link to="/vocabulary/gently-1">gently</Link>", "QUIetly" để tạo sự đa dạng trong văn phong.</li>
+          <li className="margin-bottom-20">Từ này có thể được thay thế bằng các từ đồng nghĩa như "<Link to="/vocabulary/GENTly-1">gently</Link>", "QUIetly" để tạo sự đa dạng trong văn phong.</li>
 
         </ul>
 

@@ -18,9 +18,9 @@ export default function DILigently1(): React.JSX.Element {
       <h4><HashLink smooth to="/vocabulary#tinh-ti-mi-terms"><mark className="highlight-tertiary-padding-4-8">ADverbs: tỉ mỉ</mark></HashLink></h4>
       
       <h1 className="margin-y-50 text-center">DILigently
-        <sup><Link to="/vocabulary/DILigently-1">&nbsp;1&nbsp;</Link>
+        <sup><Link to="/vocabulary/DILiGENTly-1">&nbsp;1&nbsp;</Link>
         </sup>
-        <sup><Link to="/vocabulary/DILigently-2">&nbsp;2&nbsp;</Link>
+        <sup><Link to="/vocabulary/DILiGENTly-2">&nbsp;2&nbsp;</Link>
         </sup>
       </h1>
 

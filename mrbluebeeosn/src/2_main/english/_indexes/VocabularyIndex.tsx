@@ -984,10 +984,10 @@ export default function VocabularyIndex(): React.JSX.Element {
 						</li>
 						
 						<li>
-							<Link to="/vocabulary/DILigently-1">DILigently
+							<Link to="/vocabulary/DILiGENTly-1">DILigently
 								<sup>&nbsp;1&nbsp;</sup>
 									</Link> 
-									<Link to="/vocabulary/DILigently-2">
+									<Link to="/vocabulary/DILiGENTly-2">
 								<sup>&nbsp;2&nbsp;</sup>
 							</Link>
 						</li>
@@ -1216,10 +1216,10 @@ export default function VocabularyIndex(): React.JSX.Element {
 					<ul className="list-border1">
 
 						<li>
-							<Link to="/vocabulary/gently-1">gently
+							<Link to="/vocabulary/GENTly-1">GENTly
 								<sup>&nbsp;1&nbsp;</sup>
 									</Link> 
-									<Link to="/vocabulary/gently-2">
+									<Link to="/vocabulary/GENTly-2">
 								<sup>&nbsp;2&nbsp;</sup>
 							</Link>
 						</li>

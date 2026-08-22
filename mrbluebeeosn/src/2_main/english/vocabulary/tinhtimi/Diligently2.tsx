@@ -19,10 +19,10 @@ export default function DILigently2(): React.JSX.Element {
       
       <h1 className="margin-y-50 text-center">DILigently
         <sup>
-          <Link to="/vocabulary/DILigently-1">&nbsp;1&nbsp;</Link>
+          <Link to="/vocabulary/DILiGENTly-1">&nbsp;1&nbsp;</Link>
         </sup>
         <sup>
-          <Link to="/vocabulary/DILigently-2">&nbsp;2&nbsp;</Link>
+          <Link to="/vocabulary/DILiGENTly-2">&nbsp;2&nbsp;</Link>
         </sup>
       </h1>
 

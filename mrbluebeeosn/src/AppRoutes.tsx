@@ -588,8 +588,8 @@ const Posts = lazy(() => import('@/data/Posts'));
 	const CHEERfully2 = lazy(() => import('@/2_main/english/vocabulary/tinhtichcuc/CHEERfully2'));
 
 	// 24. Vocabulary - Tính nhẹ nhàng
-	const Gently1 = lazy(() => import('@/2_main/english/vocabulary/tinhnhenhang/Gently1'));
-	const Gently2 = lazy(() => import('@/2_main/english/vocabulary/tinhnhenhang/Gently2'));
+	const GENTly1 = lazy(() => import('@/2_main/english/vocabulary/tinhnhenhang/GENTly1'));
+	const GENTly2 = lazy(() => import('@/2_main/english/vocabulary/tinhnhenhang/GENTly2'));
 	const Delicately2 = lazy(() => import('@/2_main/english/vocabulary/tinhnhenhang/Delicately2'));
 	const Delicately1 = lazy(() => import('@/2_main/english/vocabulary/tinhnhenhang/Delicately1'));
 	const SOFTly1 = lazy(() => import('@/2_main/english/vocabulary/tinhnhenhang/SOFTly1'));
@@ -997,8 +997,8 @@ export default function AppRoutes(): React.JSX.Element {
 					<Route path="/vocabulary/PAINStakingly-2" element={<PAINStakingly2 />} />
 					<Route path="/vocabulary/THORoughly-1" element={<THORoughly1 />} />
 					<Route path="/vocabulary/THORoughly-2" element={<THORoughly2 />} />
-					<Route path="/vocabulary/DILigently-1" element={<DILigently1 />} />
-					<Route path="/vocabulary/DILigently-2" element={<DILigently2 />} />
+					<Route path="/vocabulary/DILiGENTly-1" element={<DILigently1 />} />
+					<Route path="/vocabulary/DILiGENTly-2" element={<DILigently2 />} />
 					<Route path="/vocabulary/SCRUpulously-1" element={<SCRUpulously1 />} />
 					<Route path="/vocabulary/SCRUpulously-2" element={<SCRUpulously2 />} />
 
@@ -1193,8 +1193,8 @@ export default function AppRoutes(): React.JSX.Element {
 					<Route path="/vocabulary/CHEERfully-2" element={<CHEERfully2 />} />
 
 					{/* 24. Vocabulary - Tính nhẹ nhàng */}
-					<Route path="/vocabulary/gently-1" element={<Gently1 />} />
-					<Route path="/vocabulary/gently-2" element={<Gently2 />} />
+					<Route path="/vocabulary/GENTly-1" element={<GENTly1 />} />
+					<Route path="/vocabulary/GENTly-2" element={<GENTly2 />} />
 					<Route path="/vocabulary/delicately-1" element={<Delicately1 />} />
 					<Route path="/vocabulary/delicately-2" element={<Delicately2 />} />
 					<Route path="/vocabulary/SOFTly-1" element={<SOFTly1 />} />
