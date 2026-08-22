@@ -523,6 +523,920 @@ export default function Bang50DongTuBatQuyTac(): React.JSX.Element {
 					</tbody>
 				</table>
 
+			
+			<table className="margin-y-50">
+					<thead>
+						<tr>
+							<th>STT</th>
+							<th>Ví dụ</th>
+						</tr>
+					</thead>
+
+					<tbody>
+
+						<tr>
+							<td>01</td>
+							<td>
+									<br/>
+									<br/><br/>
+
+									<br/>
+									<br/><br/>
+
+									<br/>
+									<br/><br/>
+
+							</td>
+						</tr>
+
+						<tr>
+							<td>02</td>
+							<td>
+									<br/>
+									<br/><br/>
+
+									<br/>
+									<br/><br/>
+
+									<br/>
+									<br/><br/>
+
+							</td>
+						</tr>
+						
+						<tr>
+							<td>03</td>
+							<td>
+									<br/>
+									<br/><br/>
+
+									<br/>
+									<br/><br/>
+
+									<br/>
+									<br/><br/>
+
+							</td>
+						</tr>
+
+						<tr>
+							<td>04</td>
+							<td>
+									<br/>
+									<br/><br/>
+
+									<br/>
+									<br/><br/>
+
+									<br/>
+									<br/><br/>
+
+							</td>
+						</tr>
+
+						<tr>
+							<td>05</td>
+							<td>
+									<br/>
+									<br/><br/>
+
+									<br/>
+									<br/><br/>
+
+									<br/>
+									<br/><br/>
+
+							</td>
+						</tr>
+						
+						<tr>
+							<td>06</td>
+							<td>
+									<br/>
+									<br/><br/>
+
+									<br/>
+									<br/><br/>
+
+									<br/>
+									<br/><br/>
+
+							</td>
+						</tr>
+
+						<tr>
+							<td>07</td>
+							<td>
+									<br/>
+									<br/><br/>
+
+									<br/>
+									<br/><br/>
+
+									<br/>
+									<br/><br/>
+
+							</td>
+						</tr>
+
+						<tr>
+							<td>08</td>
+							<td>
+									<br/>
+									<br/><br/>
+
+									<br/>
+									<br/><br/>
+
+									<br/>
+									<br/><br/>
+
+							</td>
+						</tr>
+						
+						<tr>
+							<td>09</td>
+							<td>
+									<br/>
+									<br/><br/>
+
+									<br/>
+									<br/><br/>
+
+									<br/>
+									<br/><br/>
+
+							</td>
+						</tr>
+
+						<tr>
+							<td>10</td>
+							<td>
+									<br/>
+									<br/><br/>
+
+									<br/>
+									<br/><br/>
+
+									<br/>
+									<br/><br/>
+
+							</td>
+						</tr>
+
+						<tr>
+							<td>11</td>
+							<td>
+									<br/>
+									<br/><br/>
+
+									<br/>
+									<br/><br/>
+
+									<br/>
+									<br/><br/>
+
+							</td>
+						</tr>
+
+						<tr>
+							<td>12</td>
+							<td>
+									<br/>
+									<br/><br/>
+
+									<br/>
+									<br/><br/>
+
+									<br/>
+									<br/><br/>
+
+							</td>
+						</tr>
+						
+						<tr>
+							<td>13</td>
+							<td>
+									<br/>
+									<br/><br/>
+
+									<br/>
+									<br/><br/>
+
+									<br/>
+									<br/><br/>
+
+							</td>
+						</tr>
+
+						<tr>
+							<td>14</td>
+							<td>
+									<br/>
+									<br/><br/>
+
+									<br/>
+									<br/><br/>
+
+									<br/>
+									<br/><br/>
+
+							</td>
+						</tr>
+
+						<tr>
+							<td>15</td>
+							<td>
+									<br/>
+									<br/><br/>
+
+									<br/>
+									<br/><br/>
+
+									<br/>
+									<br/><br/>
+
+							</td>
+						</tr>
+						
+						<tr>
+							<td>16</td>
+							<td>
+									<br/>
+									<br/><br/>
+
+									<br/>
+									<br/><br/>
+
+									<br/>
+									<br/><br/>
+
+							</td>
+						</tr>
+
+						<tr>
+							<td>17</td>
+							<td>
+									<br/>
+									<br/><br/>
+
+									<br/>
+									<br/><br/>
+
+									<br/>
+									<br/><br/>
+
+							</td>
+						</tr>
+
+						<tr>
+							<td>18</td>
+							<td>
+									<br/>
+									<br/><br/>
+
+									<br/>
+									<br/><br/>
+
+									<br/>
+									<br/><br/>
+
+							</td>
+						</tr>
+						
+						<tr>
+							<td>19</td>
+							<td>
+									<br/>
+									<br/><br/>
+
+									<br/>
+									<br/><br/>
+
+									<br/>
+									<br/><br/>
+
+							</td>
+						</tr>
+
+						<tr>
+							<td>20</td>
+							<td>
+									<br/>
+									<br/><br/>
+
+									<br/>
+									<br/><br/>
+
+									<br/>
+									<br/><br/>
+
+							</td>
+						</tr>
+
+						<tr>
+							<td>21</td>
+							<td>
+									<br/>
+									<br/><br/>
+
+									<br/>
+									<br/><br/>
+
+									<br/>
+									<br/><br/>
+
+							</td>
+						</tr>
+
+						<tr>
+							<td>22</td>
+							<td>
+									<br/>
+									<br/><br/>
+
+									<br/>
+									<br/><br/>
+
+									<br/>
+									<br/><br/>
+
+							</td>
+						</tr>
+						
+						<tr>
+							<td>23</td>
+							<td>
+									<br/>
+									<br/><br/>
+
+									<br/>
+									<br/><br/>
+
+									<br/>
+									<br/><br/>
+
+							</td>
+						</tr>
+
+						<tr>
+							<td>24</td>
+							<td>
+									<br/>
+									<br/><br/>
+
+									<br/>
+									<br/><br/>
+
+									<br/>
+									<br/><br/>
+
+							</td>
+						</tr>
+
+						<tr>
+							<td>25</td>
+							<td>
+									<br/>
+									<br/><br/>
+
+									<br/>
+									<br/><br/>
+
+									<br/>
+									<br/><br/>
+
+							</td>
+						</tr>
+						
+						<tr>
+							<td>26</td>
+							<td>
+									<br/>
+									<br/><br/>
+
+									<br/>
+									<br/><br/>
+
+									<br/>
+									<br/><br/>
+
+							</td>
+						</tr>
+
+						<tr>
+							<td>27</td>
+							<td>
+									<br/>
+									<br/><br/>
+
+									<br/>
+									<br/><br/>
+
+									<br/>
+									<br/><br/>
+
+							</td>
+						</tr>
+
+						<tr>
+							<td>28</td>
+							<td>
+									<br/>
+									<br/><br/>
+
+									<br/>
+									<br/><br/>
+
+									<br/>
+									<br/><br/>
+
+							</td>
+						</tr>
+						
+						<tr>
+							<td>29</td>
+							<td>
+									<br/>
+									<br/><br/>
+
+									<br/>
+									<br/><br/>
+
+									<br/>
+									<br/><br/>
+
+							</td>
+						</tr>
+
+						<tr>
+							<td>30</td>
+							<td>
+									<br/>
+									<br/><br/>
+
+									<br/>
+									<br/><br/>
+
+									<br/>
+									<br/><br/>
+
+							</td>
+						</tr>
+
+						<tr>
+							<td>31</td>
+							<td>
+									<br/>
+									<br/><br/>
+
+									<br/>
+									<br/><br/>
+
+									<br/>
+									<br/><br/>
+
+							</td>
+						</tr>
+
+						<tr>
+							<td>32</td>
+							<td>
+									<br/>
+									<br/><br/>
+
+									<br/>
+									<br/><br/>
+
+									<br/>
+									<br/><br/>
+
+							</td>
+						</tr>
+						
+						<tr>
+							<td>33</td>
+							<td>
+									<br/>
+									<br/><br/>
+
+									<br/>
+									<br/><br/>
+
+									<br/>
+									<br/><br/>
+
+							</td>
+						</tr>
+
+						<tr>
+							<td>34</td>
+							<td>
+									<br/>
+									<br/><br/>
+
+									<br/>
+									<br/><br/>
+
+									<br/>
+									<br/><br/>
+
+							</td>
+						</tr>
+
+						<tr>
+							<td>35</td>
+							<td>
+									<br/>
+									<br/><br/>
+
+									<br/>
+									<br/><br/>
+
+									<br/>
+									<br/><br/>
+
+							</td>
+						</tr>
+						
+						<tr>
+							<td>36</td>
+							<td>
+									<br/>
+									<br/><br/>
+
+									<br/>
+									<br/><br/>
+
+									<br/>
+									<br/><br/>
+
+							</td>
+						</tr>
+
+						<tr>
+							<td>37</td>
+							<td>
+									<br/>
+									<br/><br/>
+
+									<br/>
+									<br/><br/>
+
+									<br/>
+									<br/><br/>
+
+							</td>
+						</tr>
+
+						<tr>
+							<td>38</td>
+							<td>
+									<br/>
+									<br/><br/>
+
+									<br/>
+									<br/><br/>
+
+									<br/>
+									<br/><br/>
+
+							</td>
+						</tr>
+						
+						<tr>
+							<td>39</td>
+							<td>
+									<br/>
+									<br/><br/>
+
+									<br/>
+									<br/><br/>
+
+									<br/>
+									<br/><br/>
+
+							</td>
+						</tr>
+
+						<tr>
+							<td>40</td>
+							<td>
+									<br/>
+									<br/><br/>
+
+									<br/>
+									<br/><br/>
+
+									<br/>
+									<br/><br/>
+
+							</td>
+						</tr>
+
+						<tr>
+							<td>41</td>
+							<td>
+									<br/>
+									<br/><br/>
+
+									<br/>
+									<br/><br/>
+
+									<br/>
+									<br/><br/>
+
+							</td>
+						</tr>
+
+						<tr>
+							<td>42</td>
+							<td>
+									<br/>
+									<br/><br/>
+
+									<br/>
+									<br/><br/>
+
+									<br/>
+									<br/><br/>
+
+							</td>
+						</tr>
+						
+						<tr>
+							<td>43</td>
+							<td>
+									<br/>
+									<br/><br/>
+
+									<br/>
+									<br/><br/>
+
+									<br/>
+									<br/><br/>
+
+							</td>
+						</tr>
+
+						<tr>
+							<td>44</td>
+							<td>
+									<br/>
+									<br/><br/>
+
+									<br/>
+									<br/><br/>
+
+									<br/>
+									<br/><br/>
+
+							</td>
+						</tr>
+
+						<tr>
+							<td>45</td>
+							<td>
+									<br/>
+									<br/><br/>
+
+									<br/>
+									<br/><br/>
+
+									<br/>
+									<br/><br/>
+
+							</td>
+						</tr>
+						
+						<tr>
+							<td>46</td>
+							<td>
+									<br/>
+									<br/><br/>
+
+									<br/>
+									<br/><br/>
+
+									<br/>
+									<br/><br/>
+
+							</td>
+						</tr>
+
+						<tr>
+							<td>47</td>
+							<td>
+									<br/>
+									<br/><br/>
+
+									<br/>
+									<br/><br/>
+
+									<br/>
+									<br/><br/>
+
+							</td>
+						</tr>
+
+						<tr>
+							<td>48</td>
+							<td>
+									<br/>
+									<br/><br/>
+
+									<br/>
+									<br/><br/>
+
+									<br/>
+									<br/><br/>
+
+							</td>
+						</tr>
+						
+						<tr>
+							<td>49</td>
+							<td>
+									<br/>
+									<br/><br/>
+
+									<br/>
+									<br/><br/>
+
+									<br/>
+									<br/><br/>
+
+							</td>
+						</tr>
+						
+						<tr>
+							<td>50</td>
+							<td>
+									<br/>
+									<br/><br/>
+
+									<br/>
+									<br/><br/>
+
+									<br/>
+									<br/><br/>
+
+							</td>
+						</tr>
+
+						<tr>
+							<td>51</td>
+							<td>
+									<br/>
+									<br/><br/>
+
+									<br/>
+									<br/><br/>
+
+									<br/>
+									<br/><br/>
+
+							</td>
+						</tr>
+
+						<tr>
+							<td>52</td>
+							<td>
+									<br/>
+									<br/><br/>
+
+									<br/>
+									<br/><br/>
+
+									<br/>
+									<br/><br/>
+
+							</td>
+						</tr>
+						
+						<tr>
+							<td>53</td>
+							<td>
+									<br/>
+									<br/><br/>
+
+									<br/>
+									<br/><br/>
+
+									<br/>
+									<br/><br/>
+
+							</td>
+						</tr>
+
+						<tr>
+							<td>54</td>
+							<td>
+									<br/>
+									<br/><br/>
+
+									<br/>
+									<br/><br/>
+
+									<br/>
+									<br/><br/>
+
+							</td>
+						</tr>
+
+						<tr>
+							<td>55</td>
+							<td>
+									<br/>
+									<br/><br/>
+
+									<br/>
+									<br/><br/>
+
+									<br/>
+									<br/><br/>
+
+							</td>
+						</tr>
+						
+						<tr>
+							<td>56</td>
+							<td>
+									<br/>
+									<br/><br/>
+
+									<br/>
+									<br/><br/>
+
+									<br/>
+									<br/><br/>
+
+							</td>
+						</tr>
+
+						<tr>
+							<td>57</td>
+							<td>
+									<br/>
+									<br/><br/>
+
+									<br/>
+									<br/><br/>
+
+									<br/>
+									<br/><br/>
+
+							</td>
+						</tr>
+
+						<tr>
+							<td>58</td>
+							<td>
+									<br/>
+									<br/><br/>
+
+									<br/>
+									<br/><br/>
+
+									<br/>
+									<br/><br/>
+
+							</td>
+						</tr>
+						
+						<tr>
+							<td>59</td>
+							<td>
+									<br/>
+									<br/><br/>
+
+									<br/>
+									<br/><br/>
+
+									<br/>
+									<br/><br/>
+
+							</td>
+						</tr>
+
+						<tr>
+							<td>60</td>
+							<td>
+									he <strong>THROWS</strong> the BALL to his DOG in the PARK EVERy afterNOON.<br/>
+									Anh ấy <strong>ném</strong> quả bóng cho chú chó của mình ở công viên vào mỗi buổi chiều. (Thời hiện tại đơn)<br/><br/>
+
+									she <strong>THREW</strong> the EMPty PLAStic BOTtle into the reCYcling BIN YESterday.<br/>
+									Cô ấy <strong>đã ném</strong> chai nhựa rỗng vào thùng rác tái chế vào ngày hôm qua. (Thời quá khứ đơn)<br/><br/>
+
+									the OLD comPUter has been <strong>THROWN aWAY</strong> because it no LONger WORKS.<br/>
+									Chiếc máy tính cũ đã bị <strong>vứt đi</strong> vì nó không còn hoạt động nữa. (Thời hiện tại hoàn thành - Câu bị động)<br/><br/>
+
+							</td>
+						</tr>
+						
+					</tbody>
+				</table>
+
 			<h3 className="margin-y-50 text-center">Cách sử dụng 3 cột V1 – V2 – V3 một cách dễ nhớ</h3>
 
 			{/* V1: Nguyên thể / Hiện tại */}
@@ -533,7 +1447,8 @@ export default function Bang50DongTuBatQuyTac(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>She <strong>goes</strong> to school every day.</li>
+					<li>she GOES to SCHOOL EVERy DAY.</li>
+					<li className="list-none">Cô ấy đi học mỗi ngày. (Thời hiện tại đơn)</li>
 			
 				</ul>
 
@@ -545,7 +1460,8 @@ export default function Bang50DongTuBatQuyTac(): React.JSX.Element {
 			
 				<ul className="list-square">
 
-					<li>Yesterday I <strong>went</strong> to the cinema.</li>
+					<li>YESterday, i WENT to the CINema.</li>
+					<li className="list-none">Hôm qua tôi đã đi xem phim (đi rạp chiếu phim). (Thời quá khứ đơn)</li>
 			
 				</ul>
 
@@ -559,7 +1475,8 @@ export default function Bang50DongTuBatQuyTac(): React.JSX.Element {
 			
 				<ul className="list-square">
 
-					<li>I <strong>have just gone</strong> home.</li>
+					<li>i have just GONE HOME.</li>
+					<li className="list-none">Tôi vừa mới về nhà. (Thời hiện tại hoàn thành)</li>
 			
 				</ul>
 
@@ -569,7 +1486,8 @@ export default function Bang50DongTuBatQuyTac(): React.JSX.Element {
 			
 				<ul className="list-square">
 
-					<li>I <strong>had finished</strong> my homework before dinner.</li>
+					<li>i had FINished my HOMEwork before DINner.</li>
+					<li className="list-none">Tôi đã hoàn thành xong bài tập về nhà trước bữa tối. (Thời quá khứ hoàn thành)</li>
 			
 				</ul>
 
@@ -579,7 +1497,8 @@ export default function Bang50DongTuBatQuyTac(): React.JSX.Element {
 			
 				<ul className="list-square">
 
-					<li>I <strong>will have finished</strong> my homework by 9 p.m.</li>
+					<li>i will have FINished my HOMEwork by NINE p.m.</li>
+					<li className="list-none">Tôi sẽ hoàn thành xong bài tập về nhà trước 9 giờ tối. (Thời tương lai hoàn thành)</li>
 			
 				</ul>
 					
@@ -589,7 +1508,8 @@ export default function Bang50DongTuBatQuyTac(): React.JSX.Element {
 			
 				<ul className="list-square">
 
-					<li>The letter <strong>was written</strong> by her.</li>
+					<li>the LETter was WRITten by her.</li>
+					<li className="list-none">Bức thư đã được viết bởi cô ấy. (Câu bị động thời quá khứ đơn)</li>
 			
 				</ul>
 
