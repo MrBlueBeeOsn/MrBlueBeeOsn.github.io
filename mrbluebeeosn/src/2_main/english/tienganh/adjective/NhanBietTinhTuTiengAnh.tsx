@@ -31,23 +31,23 @@ export default function NhanBietTinhTuTiengAnh(): React.JSX.Element {
 
 			<h4 className="margin-y-40">1. Có thể… / đáng…: -able / -ible</h4>
 					
-			<p className="margin-top-20 text-indent-whole">comfortable, responsible, flexible, visible, incredible</p>
+			<p className="margin-top-20 text-indent-whole">COMFORTable, reSPONsible, FLEXible, VISible, inCREDible</p>
 			
 				<ul className="list-square">
 			
-					<li>After a long day at work, I love relaxing on my comfortable sofa with a good book.</li>
+					<li>after a LONG DAY at WORK, I LOVE reLAXing on my <strong>COMFORTable</strong> SOfa with a GOOD BOOK.</li>
 					<li className="margin-bottom-20 list-none">Sau một ngày dài làm việc, tôi thích thư giãn trên chiếc ghế sofa <strong>thoải mái</strong> của mình với một cuốn sách hay.</li>
 			
-					<li>As a team leader, he is responsible for making sure all projects are completed on time.</li>
+					<li>as a TEAM LEADer, he is <strong>reSPONsible</strong> for MAking SURE ALL PROJects are comPLEted on TIME.</li>
 					<li className="margin-bottom-20 list-none">Với tư cách là trưởng nhóm, anh ấy <strong>chịu trách nhiệm</strong> đảm bảo tất cả các dự án được hoàn thành đúng hạn.</li>
 
-					<li>Our company offers flexible working hours, allowing employees to start work between 8 AM and 10 AM.</li>
+					<li>our COMpany OFfers <strong>FLEXible</strong> WORKing HOURS, alLOWing emPLOYees to START WORK between EIGHT AM and TEN AM.</li>
 					<li className="margin-bottom-20 list-none">Công ty chúng tôi cung cấp giờ làm việc <strong>linh hoạt</strong>, cho phép nhân viên bắt đầu làm việc trong khoảng từ 8 giờ sáng đến 10 giờ sáng.</li>
 			
-					<li>The stars are clearly visible tonight because the sky is completely free of clouds.</li>
+					<li>the STARS are CLEARly <strong>VISible</strong> toNIGHT because the SKY is comPLETEly FREE of CLOUDS.</li>
 					<li className="margin-bottom-20 list-none">Các vì sao có thể nhìn thấy <strong>rõ ràng</strong> vào đêm nay vì bầu trời hoàn toàn không có mây.</li>
 			
-					<li>The acrobat performed an incredible stunt that left the audience cheering in amazement.</li>
+					<li>the ACrobat perFORMED an <strong>inCREDible</strong> STUNT that LEFT the AUdience CHEERing in aMAZEment.</li>
 					<li className="list-none">Người biểu diễn nhào lộn đã thực hiện một pha biểu diễn <strong>đáng kinh ngạc</strong> khiến khán giả hò reo trong ngạc nhiên.</li>
 			
 				</ul>
@@ -56,72 +56,72 @@ export default function NhanBietTinhTuTiengAnh(): React.JSX.Element {
 
 			<h4 className="margin-y-40">2. Đầy… / có nhiều…: -ous</h4>
 					
-			<p className="margin-top-20 text-indent-whole">DANgerous, FAmous, deLICious, CUrious, eNORmous</p>
+			<p className="margin-top-20 text-indent-whole">DANgerous, FAmous, deLICious, CURious, eNORmous</p>
 			
 				<ul className="list-square">
 			
-					<li>Swimming in this deep river during a heavy storm is extremely dangerous.</li>
+					<li>SWIMming in this DEEP RIVer DURing a HEAVy STORM is exTREMEly <strong>DANgerous</strong>.</li>
 					<li className="margin-bottom-20 list-none">Bơi lội ở dòng sông sâu này trong một trận bão lớn là cực kỳ <strong>nguy hiểm</strong>.</li>
 			
-					<li>Paris is famous for its romantic atmosphere and iconic landmarks like the Eiffel Tower.</li>
+					<li>PARis is FAmous for its <strong>roMANtic</strong> ATmosphere and iCONic LANDmarks like the EIFFel TOWer.</li>
 					<li className="margin-bottom-20 list-none">Paris nổi tiếng với bầu không khí <strong>lãng mạn</strong> và các thắng cảnh biểu tượng như Tháp Eiffel.</li>
 
-					<li>My mother baked a delicious chocolate cake for my birthday party.</li>
+					<li>my MOTHer BAKED a <strong>deLICious</strong> CHOCOlate CAKE for my BIRTHday PARty.</li>
 					<li className="margin-bottom-20 list-none">Mẹ tôi đã nướng một chiếc bánh sô-cô-la <strong>ngon tuyệt</strong> cho bữa tiệc sinh nhật của tôi.</li>
 			
-					<li>Children are naturally curious about the world around them and always ask many questions.</li>
+					<li>CHILdren are NATurally <strong>CURious</strong> about the WORLD around them and ALWAYS ASK MANy QUEStions.</li>
 					<li className="margin-bottom-20 list-none">Trẻ em vốn dĩ <strong>tò mò</strong> về thế giới xung quanh và luôn đặt ra rất nhiều câu hỏi.</li>
 			
-					<li>The company made an enormous profit this year after launching their new product line.</li>
+					<li>the COMpany MADE an <strong>eNORmous</strong> PROFit this YEAR after LAUNCHing their NEW PRODuct LINE.</li>
 					<li className="list-none">Công ty đã thu về lợi nhuận <strong>khổng lồ</strong> trong năm nay sau khi ra mắt dòng sản phẩm mới của họ.</li>
 			
 				</ul>
 			
 
 
-			<h4 className="margin-y-40">3. Đầy… / có chất lượng tốt: -ful:</h4>
+			<h4 className="margin-y-40">3. Đầy… / có chất lượng tốt: -ful</h4>
 					
-			<p className="margin-top-20 text-indent-whole">beautiful, careful, helpful, successful, powerful</p>
+			<p className="margin-top-20 text-indent-whole">BEAUtiful, CAREful, HELPful, sucCESSful, POWerful</p>
 			
 				<ul className="list-square">
 			
-					<li>We watched a beautiful sunset over the ocean on our last evening of the holiday.</li>
+					<li>we WATCHED a <strong>BEAUtiful</strong> SUNset over the Ocean on our last EVening of the HOLiday.</li>
 					<li className="margin-bottom-20 list-none">Chúng tôi đã ngắm nhìn một hoàng hôn <strong>đẹp tuyệt vời</strong> trên đại dương vào buổi tối cuối cùng của kỳ nghỉ.</li>
 			
-					<li>Please be careful with that fragile glass vase while moving it to the living room.</li>
+					<li>please be <strong>CAREful</strong> with that FRAGile GLASS VASE while MOving it to the LIVing ROOM.</li>
 					<li className="margin-bottom-20 list-none">Xin hãy <strong>cẩn thận</strong> với chiếc bình thủy tinh dễ vỡ đó khi chuyển nó vào phòng khách.</li>
 
-					<li>The local tourist guide gave us helpful advice on where to find the best street food.</li>
+					<li>the LOcal TOURist GUIDE GAVE us <strong>HELPful</strong> adVICE on where to FIND the BEST STREET FOOD.</li>
 					<li className="margin-bottom-20 list-none">Hướng dẫn viên du lịch địa phương đã cho chúng tôi những lời khuyên <strong>hữu ích</strong> về nơi tìm thấy những món ăn đường phố ngon nhất.</li>
 			
-					<li>After years of hard work, her tech startup finally became a successful global company.</li>
+					<li>after years of HARD WORK, her TECH STARtup FInally beCAME a <strong>sucCESSful</strong> GLObal COMpany.</li>
 					<li className="margin-bottom-20 list-none">Sau nhiều năm làm việc chăm chỉ, công ty khởi nghiệp công nghệ của cô ấy cuối cùng đã trở thành một công ty toàn cầu <strong>thành công</strong>.</li>
 			
-					<li>The CEO delivered a powerful speech that inspired all the employees at the meeting.</li>
+					<li>the CEO deLIVered a <strong>POWerful</strong> SPEECH that inSPIRED ALL the emPLOYees at the MEETing.</li>
 					<li className="list-none">Giám đốc điều hành đã có một bài phát biểu <strong>mạnh mẽ</strong> truyền cảm hứng cho tất cả nhân viên trong cuộc họp.</li>
 			
 				</ul>
 			
 
-			<h4 className="margin-y-40">4. Không… / thiếu…: - less</h4>
+			<h4 className="margin-y-40">4. Không… / thiếu…: -less</h4>
 					
-			<p className="margin-top-20 text-indent-whole">hopeless, careless, homeless, endless, useless</p>
+			<p className="margin-top-20 text-indent-whole">HOPEless, CAREless, HOMEless, ENDless, USEless</p>
 			
 				<ul className="list-square">
 			
-					<li>He felt hopeless after failing the exam for the third time, but his teacher encouraged him to try again.</li>
+					<li>he FELT <strong>HOPEless</strong> after FAILing the exAM for the THIRD TIME, but his TEACHer enCOURaged him to TRY aGAIN.</li>
 					<li className="margin-bottom-20 list-none">Anh ấy cảm thấy <strong>tuyệt vọng</strong> sau khi trượt kỳ thi lần thứ ba, nhưng giáo viên của anh ấy đã động viên anh thử lại.</li>
 			
-					<li>Making a careless mistake on the final math test cost him the highest grade in the class.</li>
+					<li>MAking a <strong>CAREless</strong> misTAKE on the FInal MATH TEST COST him the HIGHest GRADE in the CLASS.</li>
 					<li className="margin-bottom-20 list-none">Việc mắc một lỗi <strong>bất cẩn</strong> trong bài kiểm tra toán cuối kỳ đã khiến cậu ấy mất đi điểm số cao nhất lớp.</li>
 
-					<li>The local charity organization provides food and shelter for homeless people during the cold winter months.</li>
+					<li>the LOcal CHARity ORganization proVIDES FOOD and SHELter for <strong>HOMEless</strong> PEOple DURing the COLD WINter MONTHS.</li>
 					<li className="margin-bottom-20 list-none">Tổ chức từ thiện địa phương cung cấp thức ăn và chỗ ở cho những người <strong>vô gia cư</strong> trong những tháng mùa đông lạnh giá.</li>
 			
-					<li>We were stuck in endless traffic on the highway for over two hours.</li>
+					<li>we were STUCK in <strong>ENDless</strong> TRAFfic on the HIGHway for over TWO HOURS.</li>
 					<li className="margin-bottom-20 list-none">Chúng tôi đã mắc kẹt trong dòng xe cộ <strong>vô tận</strong> trên đường cao tốc hơn hai tiếng đồng hồ.</li>
 			
-					<li>Throwing away broken electronics is better than keeping them around as useless clutter.</li>
+					<li>THROWing aWAY BROken elecTRONics is BETter than KEEPing them aROUND as <strong>USEless</strong> CLUTter.</li>
 					<li className="list-none">Vứt bỏ đồ điện tử bị hỏng đi còn hơn là giữ chúng lại xung quanh như những thứ bề bộn <strong>vô dụng</strong>.</li>
 			
 				</ul>
@@ -202,7 +202,7 @@ export default function NhanBietTinhTuTiengAnh(): React.JSX.Element {
 				</ul>
 
 
-			<h4 className="margin-y-40">8. Có đặc điểm… / giống như…: - y</h4>
+			<h4 className="margin-y-40">8. Có đặc điểm… / giống như…: -y</h4>
 					
 			<p className="margin-top-20 text-indent-whole">HAPpy, RAIny, SUNny, HEALthy, TAsty, CLOUdy</p>
 			
@@ -230,7 +230,7 @@ export default function NhanBietTinhTuTiengAnh(): React.JSX.Element {
 			
 
 
-			<h4 className="margin-y-40">9. Cảm thấy… (phân từ quá khứ): - ed</h4>
+			<h4 className="margin-y-40">9. Cảm thấy…: -ed</h4>
 					
 			<p className="margin-top-20 text-indent-whole">BORED, TIRED, exCIted, INterested, surPRISED</p>
 			
@@ -255,7 +255,7 @@ export default function NhanBietTinhTuTiengAnh(): React.JSX.Element {
 			
 
 
-			<h4 className="margin-y-40">10. Gây ra cảm giác… (phân từ hiện tại): - ing</h4>
+			<h4 className="margin-y-40">10. Gây ra cảm giác…: -ing</h4>
 					
 			<p className="margin-top-20 text-indent-whole">BORing, TIRing, INteresting, exCIting, conFUsing</p>
 
@@ -286,15 +286,37 @@ export default function NhanBietTinhTuTiengAnh(): React.JSX.Element {
 
 			<p>Cặp đôi -<strong>ed</strong> vs -<strong>ing</strong> cực kỳ phổ biến trong bài thi:</p>
 
+			<p className="margin-top-20">-<strong>ed</strong> → cảm xúc của <strong>người</strong></p>
+			
 				<ul className="list-square">
 			
-					<li>-<strong>ed</strong> → cảm xúc của <strong>người</strong></li>
-					<li className="margin-bottom-20 list-none">i’m INterested / BORED / TIRED</li>
+					<li>i’m INterested.</li>
+					<li className="margin-bottom-20 list-none">Tôi quan tâm.</li>
 			
-					<li>-<strong>ing</strong> → đặc điểm của <strong>sự việc</strong></li>
-					<li className="list-none">The LESson is INteresting / BORing / TIRing…</li>
+					<li>i’m BORED.</li>
+					<li className="margin-bottom-20 list-none">Tôi chán quá.</li>
+			
+					<li>i’m TIRED.</li>
+					<li className="list-none">Tôi mệt.</li>
 			
 				</ul>
+
+			
+			<p className="margin-top-20">-<strong>ing</strong> → đặc điểm của <strong>sự việc</strong></p>
+			
+				<ul className="list-square">
+			
+					<li>The LESson is INteresting.</li>
+					<li className="margin-bottom-20 list-none">Bài học thì rất thú vị.</li>
+			
+					<li>The LESson is BORing.</li>
+					<li className="margin-bottom-20 list-none">Bài học thật chán quá.</li>
+			
+					<li>The LESson is TIRing.</li>
+					<li className="list-none">Buổi học thật mệt mỏi.</li>
+			
+				</ul>
+			
 
 			<h3 className="margin-y-50 text-center">Một số ví dụ minh họa sinh động</h3>
 
