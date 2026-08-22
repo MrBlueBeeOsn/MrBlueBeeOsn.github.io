@@ -15,7 +15,7 @@ export default function Bang50DongTuBatQuyTac(): React.JSX.Element {
 
 		<article>
 		
-			<h4><HashLink smooth to="/tieng-anh#tieng-anh-terms"><mark className="highlight-tertiary-padding-4-8">Tiếng Anh</mark></HashLink></h4>
+			<h4><HashLink smooth to="/tieng-anh#verbs-terms"><mark className="highlight-tertiary-padding-4-8">VERBS</mark></HashLink></h4>
 
 			<h1 className="margin-y-50 text-center">Động cơ bất quy tắc</h1>
 

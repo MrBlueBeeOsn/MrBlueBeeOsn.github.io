@@ -427,10 +427,10 @@ export default function TiengAnhIndex(): React.JSX.Element {
         <div className="sub-box">
 
           {/* =============================
-              Phát âm
+              pronunciAtion
           ============================= */}
       
-          <p id="tinh-chinh-xac-terms"><mark className="highlight-secondary-padding-2-4">Phát âm</mark></p>
+          <p id="pronunciation-terms"><mark className="highlight-secondary-padding-2-4">pronunciAtion</mark></p>
 
           <ul className="list-border1">
 
@@ -466,10 +466,10 @@ export default function TiengAnhIndex(): React.JSX.Element {
         <div className="sub-box">
 
           {/* =============================
-              Động cơ
+              VERBS
           ============================= */}
       
-          <p id="tieng-anh-terms"><mark className="highlight-secondary-padding-2-4">Động cơ</mark></p>
+          <p id="verbs-terms"><mark className="highlight-secondary-padding-2-4">VERBS</mark></p>
 
           <ul className="list-border1">
 
@@ -632,10 +632,10 @@ export default function TiengAnhIndex(): React.JSX.Element {
         <div className="sub-box">
 
           {/* =============================
-              Tính cơ
+              ADjective
           ============================= */}
       
-          <p id="tieng-anh-terms"><mark className="highlight-secondary-padding-2-4">Tính cơ</mark></p>
+          <p id="adjective-terms"><mark className="highlight-secondary-padding-2-4">ADjective</mark></p>
 
           <ul className="list-border1">
 
@@ -660,10 +660,10 @@ export default function TiengAnhIndex(): React.JSX.Element {
         <div className="sub-box">
 
           {/* =============================
-               Functional Thinking
+               FUNCtional THINKing
           ============================= */}
       
-          <p id="functional-thinking-terms"><mark className="highlight-secondary-padding-2-4">Functional Thinking</mark></p>
+          <p id="functional-thinking-terms"><mark className="highlight-secondary-padding-2-4">FUNCtional THINKing</mark></p>
 
           <ul className="list-border1">
 
@@ -919,10 +919,10 @@ export default function TiengAnhIndex(): React.JSX.Element {
         <div className="sub-box">
 
           {/* =============================
-              Thinking
+              THINKing
           ============================= */}
       
-          <p id="tieng-anh-terms"><mark className="highlight-secondary-padding-2-4">Thinking</mark></p>
+          <p id="thinking-terms"><mark className="highlight-secondary-padding-2-4">THINKing</mark></p>
 
           <ul className="list-border1">
 

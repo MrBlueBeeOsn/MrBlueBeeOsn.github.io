@@ -15,7 +15,7 @@ export default function NineBox1(): React.JSX.Element {
 
 		<article>
 		
-			<h4><HashLink smooth to="/tieng-anh#functional-thinking-terms"><mark className="highlight-tertiary-padding-4-8">Functional Thinking</mark></HashLink></h4>
+			<h4><HashLink smooth to="/tieng-anh#functional-thinking-terms"><mark className="highlight-tertiary-padding-4-8">FUNCtional THINKing</mark></HashLink></h4>
 
 			<h1 className="margin-y-50 text-center">[Kiến trúc Tư duy 3x3]
 												
@@ -52,7 +52,7 @@ export default function NineBox1(): React.JSX.Element {
 
 			<p>Nếu sở hữu tư duy hệ thống—như cách một kỹ sư phần mềm vận hành các luồng mã nguồn hay một nhà phân tích xử lý các kiến trúc cơ sở dữ liệu—bạn sẽ luôn cảm thấy bế tắc trước cách tiếp cận ngôn ngữ truyền thống. Những quy tắc rời rạc, những định nghĩa mơ hồ và hàng loạt ngoại lệ khiến bộ óc logic của bạn liên tục đòi hỏi một câu trả lời thỏa đáng: "Mô hình cấu trúc cốt lõi ở đây là gì?"</p>
 
-			<p>Thực tế, ngôn ngữ không phải là một tập hợp các quy luật ngẫu nhiên. Nó là một hệ điều hành được vận hành bởi logic tối giản. Để làm chủ tiếng Anh mà không bị rối bời, chúng ta chuyển đổi hoàn toàn sang [Functional Thinking].</p>
+			<p>Thực tế, ngôn ngữ không phải là một tập hợp các quy luật ngẫu nhiên. Nó là một hệ điều hành được vận hành bởi logic tối giản. Để làm chủ tiếng Anh mà không bị rối bời, chúng ta chuyển đổi hoàn toàn sang [FUNCtional THINKing].</p>
 			
 			<p>Hệ thống [<strong>Kiến trúc Tư duy 3x3</strong>] phối hợp cùng bộ quy ước song song dưới đây giúp bạn đóng gói và xử lý tiếng Anh chính xác như cách máy tính phân loại và biên dịch các kiểu dữ liệu.</p>
 			

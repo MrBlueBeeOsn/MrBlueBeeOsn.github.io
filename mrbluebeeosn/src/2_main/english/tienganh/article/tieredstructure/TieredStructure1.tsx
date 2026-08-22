@@ -15,7 +15,7 @@ export default function TieredStructure1(): React.JSX.Element {
 
 		<article>
 		
-			<h4><HashLink smooth to="/tieng-anh#functional-thinking-terms"><mark className="highlight-tertiary-padding-4-8">Functional Thinking</mark></HashLink></h4>
+			<h4><HashLink smooth to="/tieng-anh#functional-thinking-terms"><mark className="highlight-tertiary-padding-4-8">FUNCtional THINKing</mark></HashLink></h4>
 
 			<h1 className="margin-y-50 text-center">[BASE][PHRASE][CLAUSE]
 												
