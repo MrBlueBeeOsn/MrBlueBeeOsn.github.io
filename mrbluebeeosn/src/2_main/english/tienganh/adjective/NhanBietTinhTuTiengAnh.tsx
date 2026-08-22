@@ -29,89 +29,256 @@ export default function NhanBietTinhTuTiengAnh(): React.JSX.Element {
 					
 			<p>Dưới đây là <strong>bảng tóm tắt các đuôi Tính Cơ phổ biến nhất</strong> kèm rất nhiều ví dụ thực tế:</p>
 
-			<table className="margin-y-50">
-					<thead>
-						<tr>
-							<td>Đuôi từ</td>
-							<th>Ý nghĩa chính</th>
-							<th>Ví dụ điển hình (rất hay gặp)</th>
-							<th>Câu ví dụ minh họa</th>
-						</tr>
-					</thead>
+			<h4 className="margin-y-40">1. Có thể… / đáng…: -able / -ible</h4>
+					
+			<p className="margin-top-20 text-indent-whole">comfortable, responsible, flexible, visible, incredible</p>
+			
+				<ul className="list-square">
+			
+					<li>After a long day at work, I love relaxing on my comfortable sofa with a good book.</li>
+					<li className="margin-bottom-20 list-none">Sau một ngày dài làm việc, tôi thích thư giãn trên chiếc ghế sofa <strong>thoải mái</strong> của mình với một cuốn sách hay.</li>
+			
+					<li>As a team leader, he is responsible for making sure all projects are completed on time.</li>
+					<li className="margin-bottom-20 list-none">Với tư cách là trưởng nhóm, anh ấy <strong>chịu trách nhiệm</strong> đảm bảo tất cả các dự án được hoàn thành đúng hạn.</li>
 
-					<tbody>
+					<li>Our company offers flexible working hours, allowing employees to start work between 8 AM and 10 AM.</li>
+					<li className="margin-bottom-20 list-none">Công ty chúng tôi cung cấp giờ làm việc <strong>linh hoạt</strong>, cho phép nhân viên bắt đầu làm việc trong khoảng từ 8 giờ sáng đến 10 giờ sáng.</li>
+			
+					<li>The stars are clearly visible tonight because the sky is completely free of clouds.</li>
+					<li className="margin-bottom-20 list-none">Các vì sao có thể nhìn thấy <strong>rõ ràng</strong> vào đêm nay vì bầu trời hoàn toàn không có mây.</li>
+			
+					<li>The acrobat performed an incredible stunt that left the audience cheering in amazement.</li>
+					<li className="list-none">Người biểu diễn nhào lộn đã thực hiện một pha biểu diễn <strong>đáng kinh ngạc</strong> khiến khán giả hò reo trong ngạc nhiên.</li>
+			
+				</ul>
+			
 
-						<tr>
-								<td>-<strong>able</strong> / -<strong>ible</strong></td>
-								<td>Có thể… / đáng…</td>
-								<td>comfortable, responsible, flexible, visible, incredible</td>
-								<td>This chair is very <strong>comfortable</strong>.</td>
-						</tr>
-						
-						<tr>
-								<td>-<strong>ous</strong></td>
-								<td>Đầy… / có nhiều…</td>
-								<td>dangerous, famous, delicious, curious, enormous</td>
-								<td>Be careful! The road is <strong>dangerous</strong> at night.</td>
-						</tr>
-						
-						<tr>
-								<td>-<strong>ful</strong></td>
-								<td>Đầy… / có chất lượng tốt</td>
-								<td>beautiful, careful, helpful, successful, powerful</td>
-								<td>She gave me a <strong>helpful</strong> suggestion.</td>
-						</tr>
 
-						<tr>
-								<td>-<strong>less</strong></td>
-								<td>Không… / thiếu…</td>
-								<td>hopeless, careless, homeless, endless, useless</td>
-								<td>It’s <strong>useless</strong> to argue with him.</td>
-						</tr>
+			<h4 className="margin-y-40">2. Đầy… / có nhiều…: -ous</h4>
+					
+			<p className="margin-top-20 text-indent-whole">DANgerous, FAmous, deLICious, CUrious, eNORmous</p>
+			
+				<ul className="list-square">
+			
+					<li>Swimming in this deep river during a heavy storm is extremely dangerous.</li>
+					<li className="margin-bottom-20 list-none">Bơi lội ở dòng sông sâu này trong một trận bão lớn là cực kỳ <strong>nguy hiểm</strong>.</li>
+			
+					<li>Paris is famous for its romantic atmosphere and iconic landmarks like the Eiffel Tower.</li>
+					<li className="margin-bottom-20 list-none">Paris nổi tiếng với bầu không khí <strong>lãng mạn</strong> và các thắng cảnh biểu tượng như Tháp Eiffel.</li>
 
-						<tr>
-								<td>-<strong>al</strong></td>
-								<td>Thuộc về… / liên quan đến…</td>
-								<td>national, personal, natural, social, traditional</td>
-								<td>We celebrated the <strong>national</strong> holiday yesterday.</td>
-						</tr>
+					<li>My mother baked a delicious chocolate cake for my birthday party.</li>
+					<li className="margin-bottom-20 list-none">Mẹ tôi đã nướng một chiếc bánh sô-cô-la <strong>ngon tuyệt</strong> cho bữa tiệc sinh nhật của tôi.</li>
+			
+					<li>Children are naturally curious about the world around them and always ask many questions.</li>
+					<li className="margin-bottom-20 list-none">Trẻ em vốn dĩ <strong>tò mò</strong> về thế giới xung quanh và luôn đặt ra rất nhiều câu hỏi.</li>
+			
+					<li>The company made an enormous profit this year after launching their new product line.</li>
+					<li className="list-none">Công ty đã thu về lợi nhuận <strong>khổng lồ</strong> trong năm nay sau khi ra mắt dòng sản phẩm mới của họ.</li>
+			
+				</ul>
+			
 
-						<tr>
-								<td>-<strong>ic</strong> / -<strong>ical</strong></td>
-								<td>Có tính chất… / thuộc về…</td>
-								<td>economic, scientific, historic, romantic, psychological</td>
-								<td>This is a very <strong>romantic</strong> place for couples.</td>
-						</tr>
-						
-						<tr>
-								<td>-<strong>ive</strong></td>
-								<td>Có xu hướng… / mang tính…</td>
-								<td>active, creative, attractive, effective, sensitive</td>
-								<td>She is a very <strong>creative</strong> designer.</td>
-						</tr>
-						
-						<tr>
-								<td>-<strong>y</strong></td>
-								<td>Có đặc điểm… / giống như…</td>
-								<td>happy, rainy, sunny, healthy, tasty, cloudy</td>
-								<td>The weather is <strong>sunny</strong> and perfect for a picnic!</td>
-						</tr>
 
-						<tr>
-								<td>-<strong>ed</strong></td>
-								<td>Cảm thấy… (phân từ quá khứ)</td>
-								<td>bored, tired, excited, interested, surprised</td>
-								<td>I felt really <strong>excited</strong> when I heard the news.</td>
-						</tr>
+			<h4 className="margin-y-40">3. Đầy… / có chất lượng tốt: -ful:</h4>
+					
+			<p className="margin-top-20 text-indent-whole">beautiful, careful, helpful, successful, powerful</p>
+			
+				<ul className="list-square">
+			
+					<li>We watched a beautiful sunset over the ocean on our last evening of the holiday.</li>
+					<li className="margin-bottom-20 list-none">Chúng tôi đã ngắm nhìn một hoàng hôn <strong>đẹp tuyệt vời</strong> trên đại dương vào buổi tối cuối cùng của kỳ nghỉ.</li>
+			
+					<li>Please be careful with that fragile glass vase while moving it to the living room.</li>
+					<li className="margin-bottom-20 list-none">Xin hãy <strong>cẩn thận</strong> với chiếc bình thủy tinh dễ vỡ đó khi chuyển nó vào phòng khách.</li>
 
-						<tr>
-								<td>-<strong>ing</strong></td>
-								<td>Gây ra cảm giác… (phân từ hiện tại)</td>
-								<td>boring, tiring, interesting, exciting, confusing</td>
-								<td>The movie was so <strong>boring</strong> that I fell asleep.</td>
-						</tr>
-					</tbody>
-				</table>
+					<li>The local tourist guide gave us helpful advice on where to find the best street food.</li>
+					<li className="margin-bottom-20 list-none">Hướng dẫn viên du lịch địa phương đã cho chúng tôi những lời khuyên <strong>hữu ích</strong> về nơi tìm thấy những món ăn đường phố ngon nhất.</li>
+			
+					<li>After years of hard work, her tech startup finally became a successful global company.</li>
+					<li className="margin-bottom-20 list-none">Sau nhiều năm làm việc chăm chỉ, công ty khởi nghiệp công nghệ của cô ấy cuối cùng đã trở thành một công ty toàn cầu <strong>thành công</strong>.</li>
+			
+					<li>The CEO delivered a powerful speech that inspired all the employees at the meeting.</li>
+					<li className="list-none">Giám đốc điều hành đã có một bài phát biểu <strong>mạnh mẽ</strong> truyền cảm hứng cho tất cả nhân viên trong cuộc họp.</li>
+			
+				</ul>
+			
+
+			<h4 className="margin-y-40">4. Không… / thiếu…: - less</h4>
+					
+			<p className="margin-top-20 text-indent-whole">hopeless, careless, homeless, endless, useless</p>
+			
+				<ul className="list-square">
+			
+					<li>He felt hopeless after failing the exam for the third time, but his teacher encouraged him to try again.</li>
+					<li className="margin-bottom-20 list-none">Anh ấy cảm thấy <strong>tuyệt vọng</strong> sau khi trượt kỳ thi lần thứ ba, nhưng giáo viên của anh ấy đã động viên anh thử lại.</li>
+			
+					<li>Making a careless mistake on the final math test cost him the highest grade in the class.</li>
+					<li className="margin-bottom-20 list-none">Việc mắc một lỗi <strong>bất cẩn</strong> trong bài kiểm tra toán cuối kỳ đã khiến cậu ấy mất đi điểm số cao nhất lớp.</li>
+
+					<li>The local charity organization provides food and shelter for homeless people during the cold winter months.</li>
+					<li className="margin-bottom-20 list-none">Tổ chức từ thiện địa phương cung cấp thức ăn và chỗ ở cho những người <strong>vô gia cư</strong> trong những tháng mùa đông lạnh giá.</li>
+			
+					<li>We were stuck in endless traffic on the highway for over two hours.</li>
+					<li className="margin-bottom-20 list-none">Chúng tôi đã mắc kẹt trong dòng xe cộ <strong>vô tận</strong> trên đường cao tốc hơn hai tiếng đồng hồ.</li>
+			
+					<li>Throwing away broken electronics is better than keeping them around as useless clutter.</li>
+					<li className="list-none">Vứt bỏ đồ điện tử bị hỏng đi còn hơn là giữ chúng lại xung quanh như những thứ bề bộn <strong>vô dụng</strong>.</li>
+			
+				</ul>
+			
+
+
+			<h4 className="margin-y-40">5. Thuộc về… / liên quan đến…: -al</h4>
+					
+			<p className="margin-top-20 text-indent-whole">NATional, PERsonal, NATural, SOcial, traDITional</p>
+			
+				<ul className="list-square">
+			
+					<li>indePENdence DAY is a MAjor <strong>NATional</strong> HOLiday CELibrated aCROSS the COUNtry.</li>
+					<li className="margin-bottom-20 list-none">Ngày Quốc khánh là một ngày lễ lớn của <strong>quốc gia</strong> được kỷ niệm trên khắp đất nước.</li>
+			
+					<li>she KEEPS her <strong>PERsonal</strong> DIary LOCKED in a DRAWer where NO ONE ELSE can READ it.</li>
+					<li className="margin-bottom-20 list-none">Cô ấy giữ cuốn nhật ký <strong>cá nhân</strong> của mình khóa trong một ngăn kéo nơi không ai khác có thể đọc được.</li>
+
+					<li>HONey is a deLICious and HEALthy <strong>NATural</strong> SWEETener USED in MANy RECipes.</li>
+					<li className="margin-bottom-20 list-none">Mật ong là một chất làm ngọt <strong>tự nhiên</strong> ngon miệng và lành mạnh được sử dụng trong nhiều công thức nấu ăn.</li>
+			
+					<li>volunTEERing at the LOcal FOOD BANK is a GREAT WAY to BUILD STRONG <strong>SOcial</strong> conNECtions.</li>
+					<li className="margin-bottom-20 list-none">Làm tình nguyện tại ngân hàng thực phẩm địa phương là một cách tuyệt vời để xây dựng các mối quan hệ <strong>xã hội</strong> khăng khít.</li>
+			
+					<li>my FAMIly ALways GATHers to COOK <strong>traDITional</strong> DISHes DURing the LUnar NEW YEAR.</li>
+					<li className="list-none">Gia đình tôi luôn quây quần nấu các món ăn <strong>truyền thống</strong> trong dịp Tết Nguyên Đán.</li>
+			
+				</ul>
+			
+
+
+			<h4 className="margin-y-40">6. Có tính chất… / thuộc về…: -ic / -ical</h4>
+					
+			<p className="margin-top-20 text-indent-whole">ecoNOMic, scienTIFic, hisTORic, roMANtic, psychoLOgical</p>
+			
+				<ul className="list-square">
+			
+					<li>the COUNtry is CURrently FAcing MAjor <strong>ecoNOMic</strong> CHALlenges due to inFLAtion.</li>
+					<li className="margin-bottom-20 list-none">Đất nước hiện đang phải đối mặt với những thách thức <strong>kinh tế</strong> lớn do lạm phát.</li>
+			
+					<li>REsearchers USED <strong>scienTIFic</strong> MEthods to TEST the SAFEty of the NEW MEDicine.</li>
+					<li className="margin-bottom-20 list-none">Các nhà nghiên cứu đã sử dụng các phương pháp <strong>khoa học</strong> để kiểm tra độ an toàn của loại thuốc mới.</li>
+
+					<li>the TWO NAtions SIGNED a <strong>hisTORic</strong> PEACE aGREEment after DEcades of CONflict.</li>
+					<li className="margin-bottom-20 list-none">Hai quốc gia đã ký kết một hiệp định hòa bình <strong>mang tính lịch sử</strong> sau nhiều thập kỷ xung đột.</li>
+			
+					<li>he PLANNED a <strong>roMANtic</strong> DINner by the BEACH with CANdles and SOFT MUsic.</li>
+					<li className="margin-bottom-20 list-none">Anh ấy đã lên kế hoạch cho một bữa tối <strong>lãng mạn</strong> bên bờ biển với nến và âm nhạc du dương.</li>
+			
+					<li>STRESS and anXIety can HAVE SERious <strong>psychoLOgical</strong> and PHYSical efFECTS on a PERson.</li>
+					<li className="list-none">Căng thẳng và lo âu có thể gây ra những ảnh hưởng nghiêm trọng về mặt <strong>tâm lý</strong> và thể chất đối với một người.</li>
+			
+				</ul>
+			
+
+
+			<h4 className="margin-y-40">7. Có xu hướng… / mang tính…: -ive</h4>
+					
+			<p className="margin-top-20 text-indent-whole">ACtive, creAtive, atTRACtive, efFECtive, SENsitive</p>
+			
+				<ul className="list-square">
+			
+					<li>Even in her SEVenties, she reMAINS VEry <strong>ACtive</strong> and GOES JOGging every MORning.</li>
+					<li className="margin-bottom-20 list-none">Dù đã ở tuổi bảy mươi, bà ấy vẫn rất <strong>năng động</strong> và đi chạy bộ mỗi buổi sáng.</li>
+			
+					<li>the MARketing TEAM CAME UP with a <strong>creAtive</strong> camPAIGN to atTRACT YOUNGer CUStomers.</li>
+					<li className="margin-bottom-20 list-none">Đội ngũ tiếp thị đã đưa ra một chiến dịch <strong>sáng tạo</strong> để thu hút khách hàng trẻ tuổi.</li>
+
+					<li>the hisTORical TOWN HAS MAny ANcient BUILDings and an <strong>atTRACtive</strong> OLD-WORLD CHARM.</li>
+					<li className="margin-bottom-20 list-none">Thị trấn lịch sử này có rất nhiều tòa nhà cổ và một vẻ đẹp <strong>quyến rũ</strong> mang hơi hướng hoài cổ.</li>
+			
+					<li>REGular HANDwashing is ONE of the MOST <strong>efFECtive</strong> WAYS to preVENT the SPREAD of ILLness.</li>
+					<li className="margin-bottom-20 list-none">Rửa tay thường xuyên là một trong những cách <strong>hiệu quả</strong> nhất để ngăn chặn sự lây lan của bệnh tật.</li>
+			
+					<li>you NEED to be CAREful with your WORDS because she is VEry <strong>SENsitive</strong> to CRITicism.</li>
+					<li className="list-none">Bạn cần cẩn thận với lời nói của mình vì cô ấy rất <strong>nhạy cảm</strong> với những lời chỉ trích.</li>
+			
+				</ul>
+
+
+			<h4 className="margin-y-40">8. Có đặc điểm… / giống như…: - y</h4>
+					
+			<p className="margin-top-20 text-indent-whole">HAPpy, RAIny, SUNny, HEALthy, TAsty, CLOUdy</p>
+			
+				<ul className="list-square">
+
+					<li>she LOOKED VEry <strong>HAPpy</strong> when she reCEIVED the GOOD NEWS about her proMOtion.</li>
+					<li className="margin-bottom-20 list-none">Cô ấy trông rất <strong>vui vẻ</strong> khi nhận được tin vui về việc được thăng chức.</li>
+			
+					<li>it was a COLD and <strong>RAIny</strong> afterNOON, so we deCIDed to STAY inDOORS and WATCH a MOvie.</li>
+					<li className="margin-bottom-20 list-none">Đó là một buổi chiều lạnh và <strong>có mưa</strong>, vì vậy chúng tôi quyết định ở trong nhà và xem phim.</li>
+			
+					<li>we SPENT our WEEKend at the BEACH because the WEAther was BRIGHT and <strong>SUNny</strong>.</li>
+					<li className="margin-bottom-20 list-none">Chúng tôi đã dành cuối tuần ở bãi biển vì thời tiết sáng sủa và <strong>có nhiều nắng</strong>.</li>
+
+					<li>EATing PLENty of FRESH VEGETables and EXercising REGularly KEEPS your BOdy <strong>HEALthy</strong>.</li>
+					<li className="margin-bottom-20 list-none">Ăn nhiều rau tươi và tập thể dục thường xuyên giúp cơ thể bạn <strong>khỏe mạnh</strong>.</li>
+			
+					<li>my GRANDmother COOKED a <strong>TAsty</strong> BOWL of BEEF NOOdle SOUP for BREAKfast.</li>
+					<li className="margin-bottom-20 list-none">Bà của tôi đã nấu một bát phở bò <strong>ngon miệng</strong> cho bữa sáng.</li>
+			
+					<li>the SKY beCAME <strong>CLOUdy</strong> in the afterNOON, but THANKfully it DIDn't RAIN.</li>
+					<li className="list-none">Bầu trời trở nên <strong>nhiều mây</strong> vào buổi chiều, nhưng may mắn là trời không mưa.</li>
+			
+				</ul>
+			
+
+
+			<h4 className="margin-y-40">9. Cảm thấy… (phân từ quá khứ): - ed</h4>
+					
+			<p className="margin-top-20 text-indent-whole">BORED, TIRED, exCIted, INterested, surPRISED</p>
+			
+				<ul className="list-square">
+			
+					<li>he FELT <strong>BORED</strong> because there was NOthing to DO on a RAIny SUNday afterNOON.</li>
+					<li className="margin-bottom-20 list-none">Anh ấy cảm thấy <strong>chán nản</strong> vì chẳng có việc gì để làm vào một buổi chiều Chủ Nhật mưa gió.</li>
+			
+					<li>after WORKing for TEN HOURS STRAIGHT, she was TOO <strong>TIRED</strong> to COOK DINner.</li>
+					<li className="margin-bottom-20 list-none">Sau khi làm việc suốt mười tiếng đồng hồ, cô ấy quá <strong>mệt mỏi</strong> để nấu bữa tối.</li>
+
+					<li>the KIDS were SO <strong>exCIted</strong> about GOing to the aMUSEment PARK toMORrow.</li>
+					<li className="margin-bottom-20 list-none">Bọn trẻ rất <strong>hào hứng</strong> về việc đi công viên giải trí vào ngày mai.</li>
+			
+					<li>i am VEry <strong>INterested</strong> in LEARNing MORE about artiFIcial inTELligence.</li>
+					<li className="margin-bottom-20 list-none">Tôi rất <strong>quan tâm</strong> đến việc tìm hiểu thêm về trí tuệ nhân tạo.</li>
+			
+					<li>we were <strong>surPRISED</strong> by the unexPECted BIRTHday PARty our FRIENDS THREW for us.</li>
+					<li className="list-none">Chúng tôi đã rất <strong>ngạc nhiên</strong> trước bữa tiệc sinh nhật bất ngờ mà những người bạn tổ chức cho mình.</li>
+			
+				</ul>
+			
+
+
+			<h4 className="margin-y-40">10. Gây ra cảm giác… (phân từ hiện tại): - ing</h4>
+					
+			<p className="margin-top-20 text-indent-whole">BORing, TIRing, INteresting, exCIting, conFUsing</p>
+
+			
+				<ul className="list-square">
+			
+					<li>the LECture was SO <strong>BORing</strong> that MOST of the STUdents FELL aSLEEP.</li>
+					<li className="margin-bottom-20 list-none">Bài giảng <strong>nhàm chán</strong> đến mức phần lớn học sinh đã ngủ gật.</li>
+			
+					<li>HIKing UP the MOUNtain ALL DAY was VEry <strong>TIRing</strong>, but the VIEW at the TOP was WORTH it.</li>
+					<li className="margin-bottom-20 list-none">Việc đi bộ đường dài lên núi suốt cả ngày rất <strong>mệt</strong>, nhưng phong cảnh trên đỉnh thì rất đáng giá.</li>
+
+					<li>she TOLD me an <strong>INteresting</strong> STOry about her TRIP to jaPAN.</li>
+					<li className="margin-bottom-20 list-none">Cô ấy kể cho tôi nghe một câu chuyện <strong>thú vị</strong> về chuyến đi Nhật Bản của cô ấy.</li>
+			
+					<li>WINning the CHAMpionship MATCH was the MOST <strong>exCIting</strong> MOment of his caREER.</li>
+					<li className="margin-bottom-20 list-none">Chiến thắng trận chung kết là khoảnh khắc <strong>hào hứng</strong> nhất trong sự nghiệp của anh ấy.</li>
+			
+					<li>the inSTRUCtions for asSEMbling the BOOKshelf were TOO <strong>conFUsing</strong> to FOLlow.</li>
+					<li className="list-none">Hướng dẫn lắp ráp chiếc kệ sách quá <strong>khó hiểu</strong> để có thể làm theo.</li>
+			
+				</ul>
+			
 
 			<h3 className="margin-y-50 text-center">Mẹo “bắt bài” siêu nhanh khi làm bài</h3>
 
@@ -121,9 +288,11 @@ export default function NhanBietTinhTuTiengAnh(): React.JSX.Element {
 
 				<ul className="list-square">
 			
-					<li>-<strong>ed</strong> → cảm xúc của <strong>người</strong> (I’m interested / bored / tired…)</li>
+					<li>-<strong>ed</strong> → cảm xúc của <strong>người</strong></li>
+					<li className="margin-bottom-20 list-none">i’m INterested / BORED / TIRED</li>
 			
-					<li>-<strong>ing</strong> → đặc điểm của <strong>sự việc</strong> (The lesson is interesting / boring / tiring…)</li>
+					<li>-<strong>ing</strong> → đặc điểm của <strong>sự việc</strong></li>
+					<li className="list-none">The LESson is INteresting / BORing / TIRing…</li>
 			
 				</ul>
 
@@ -133,15 +302,15 @@ export default function NhanBietTinhTuTiengAnh(): React.JSX.Element {
 			
 				<ul className="list-square">
 
-					<li>Cô ấy rất <strong>careful</strong> khi lái xe → cẩn thận (người cảm thấy)</li>
+					<li>Cô ấy rất <strong>CAREful</strong> khi lái xe → cẩn thận (người cảm thấy)</li>
 
-					<li>Con đường này <strong>dangerous</strong> lắm! → nguy hiểm (đặc điểm của đường)</li>
+					<li>Con đường này <strong>DANgerous</strong> lắm! → nguy hiểm (đặc điểm của đường)</li>
 
-					<li>Món ăn này <strong>delicious</strong> quá! → ngon tuyệt (mô tả món ăn)</li>
+					<li>Món ăn này <strong>deLICious</strong> quá! → ngon tuyệt (mô tả món ăn)</li>
 
-					<li>Tôi cảm thấy <strong>hopeless</strong> khi thi trượt lần thứ ba → tuyệt vọng (cảm xúc cá nhân)</li>
+					<li>Tôi cảm thấy <strong>HOPEless</strong> khi thi trượt lần thứ ba → tuyệt vọng (cảm xúc cá nhân)</li>
 			
-					<li>Bộ phim đó <strong>exciting</strong> từ đầu đến cuối → hấp dẫn, gây hứng thú</li>
+					<li>Bộ phim đó <strong>exCITing</strong> từ đầu đến cuối → hấp dẫn, gây hứng thú</li>
 			
 				</ul>
 
