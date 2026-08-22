@@ -78,16 +78,16 @@ export default function BayDauPhuPhienAmTiengAnh2(): React.JSX.Element {
           </p>
 
           <ul className="list-square">
-            <li>cat = /kæt/</li>
-            <li>get = /get/</li>
-            <li>sit = /sɪt/</li>
-            <li>hot = /hɑːt/ (<HashLink smooth to="#ga">GA</HashLink>) = /hɒt/ (<HashLink smooth to="#rp">RP</HashLink>)</li>
-            <li>put = /pʊt/</li>
+            <li>[CAT][CAT] /kæt/</li>
+            <li>[GET][GET] /get/</li>
+            <li>[SIT][SIT] /sɪt/</li>
+            <li>[HOT][HOT] /hɑːt/ (<HashLink smooth to="#ga">GA</HashLink>) = /hɒt/ (<HashLink smooth to="#rp">RP</HashLink>)</li>
+            <li>[PUT][PUT] /pʊt/</li>
 
-            <li>book = /bʊk/</li>
-            <li>myth = /mɪθ/</li>
+            <li>[BOOK][BOOK] /bʊk/</li>
+            <li>[MYTH][MYTH] /mɪθ/</li>
 
-            <li>bee = /biː/</li>
+            <li>[BEE][BEE] /biː/</li>
             
           </ul>
 
@@ -118,14 +118,14 @@ export default function BayDauPhuPhienAmTiengAnh2(): React.JSX.Element {
           </p>
 
           <ul className="list-square">
-            <li>cāke = /keɪk/</li>
-            <li>hē = /hi:/</li>
-            <li>tīme = /taɪm/</li>
-            <li>gō = /ɡoʊ/ (<HashLink smooth to="#ga">GA</HashLink>) = /ɡəʊ/ (<HashLink smooth to="#rp">RP</HashLink>)</li>
-            <li>cute = cūte = /kjuːt/</li>
+            <li>[CAKE][CĀKE] /keɪk/</li>
+            <li>[he][hė] /hiː/ (từ chức năng)</li>
+            <li>[TIME][TĪME] /taɪm/</li>
+            <li>[GO][GŌ] /ɡoʊ/ (<HashLink smooth to="#ga">GA</HashLink>) = /ɡəʊ/ (<HashLink smooth to="#rp">RP</HashLink>)</li>
+            <li>[CUTE][CŪTE] /kjuːt/</li>
 
-            <li>fo͞od = /fuːd/</li>
-            <li>whȳ = /waɪ/</li>
+            <li>[FOOD][FO͞OD] /fuːd/</li>
+            <li>[why][whȳ] /waɪ/</li>
           </ul>
 
         </div>
@@ -155,9 +155,9 @@ export default function BayDauPhuPhienAmTiengAnh2(): React.JSX.Element {
           </p>
 
           <ul className="list-square">
-            <li>bėcâuse = /bɪˈkʌz/</li>
-            <li>ôther = /ˈʌð.ɚ/</li>
-            <li>bûttơn = /ˈbʌt.ən/</li>
+            <li>[beCAUSE][bė CAUSE] /bɪˈkɒz/ (từ chức năng)</li>
+            <li>[OTHer][ÔTH er] /ˈʌð.ər/</li>
+            <li>[BUTton][BÛT tơn] /ˈbʌt.ən/</li>
           </ul>
 
         </div>
@@ -187,12 +187,12 @@ export default function BayDauPhuPhienAmTiengAnh2(): React.JSX.Element {
           </p>
 
           <ul className="list-square">
-            <li>imȧge = /ˈɪm.ɪdʒ/</li>
-            <li>ėxpense = /ɪkˈspens/</li>
-            <li>fit = /fɪt/ (i có dấu chấm trong fit)</li>
-            <li>wȯmėn = /ˈwɪm.ɪn/</li>
-            <li>bu̇sinėss = /ˈbɪz.nɪs/</li>
-            <li>accư̇ra̛te = /ˈæk.jɚ.ət/</li>
+            <li>[IMage][IM ȧge] /ˈɪm.ɪdʒ/</li>
+            <li>[exPENSE][ėx PENSE] /ɪkˈspens/</li>
+            <li>[FIT][FIT] /fɪt/ (i có dấu chấm trong fit)</li>
+            <li>[WOMen][WȮM ėn] /ˈwɪm.ɪn/</li>
+            <li>[BUSIness][BU̇SI nėss] /ˈbɪz.nɪs/</li>
+            <li>[ACcurate][AC cư̇r a̛te] /ˈæk.jə.rət/</li>
             <li className="list-none">u̇+ư = /j+ə/</li>
           </ul>
 
@@ -223,11 +223,11 @@ export default function BayDauPhuPhienAmTiengAnh2(): React.JSX.Element {
           </p>
 
           <ul className="list-square">
-            <li>a̛bout = /əˈbaʊt/</li>
-            <li>tāke̛n = /ˈteɪ.kən/</li>
-            <li>penci̛l = /əˈbaʊt/</li>
-            <li>lemơn = /ˈlem.ən/</li>
-            <li>sưppört = /səˈpɔːrt/</li>
+            <li>[aBOUT][a̛ BOUT] /əˈbaʊt/ (từ chức năng)</li>
+            <li>[TAken][TĀ ke̛n] /ˈteɪ.kən/</li>
+            <li>[PENcil][PEN ci̛l] /ˈpen.səl/</li>
+            <li>[LEMon][LEM ơn] /ˈlem.ən/</li>
+            <li>[supPORT][sưp PÖRT] /səˈpɔːrt/</li>
           </ul>
 
           <p className="margin-y-20 text-word-spacing-1">
@@ -241,10 +241,10 @@ export default function BayDauPhuPhienAmTiengAnh2(): React.JSX.Element {
           </p>
 
           <ul className="list-square">
-            <li>he̛r = /hɝː/</li>
-            <li>bi̛rd = /bɝːd/</li>
-            <li>wơrd = /wɝːd/</li>
-            <li>nưrse = /nɝːs/</li>
+            <li>[her][he̛r] /hər/ (từ chức năng)</li>
+            <li>[BIRD][BI̛RD] /bɜːrd/</li>
+            <li>[WORD][WƠRD] /wɜːrd/</li>
+            <li>[NURSE][NƯRSE] /nɜːrs/</li>
           </ul>
 
         </div>
@@ -274,11 +274,11 @@ export default function BayDauPhuPhienAmTiengAnh2(): React.JSX.Element {
           </p>
 
           <ul className="list-square">
-            <li>cär = /kɑːr/</li>
-            <li>äutưmn = /ˈɑː.t̬əm/</li>
-            <li>pïzza̛ = /ˈpiːt.sə/</li>
-            <li>shöre = /ʃɔːr/</li>
-            <li>Tüesday = /ˈtuːz.deɪ/ (trường hợp /juː/ hoặc /uː/ tuỳ từ)</li>
+            <li>[CAR][CÄR] /kɑːr</li>
+            <li>[AUtumn][ÄU tumn] /ˈɑː.t̬əm/</li>
+            <li>[PIZza][PÏZ za̛] /ˈpiːt.sə/</li>
+            <li>[SHORE][SHÖRE] /ʃɔːr/</li>
+            <li>[TUESday][TÜES dāy] /ˈtʃuːz.deɪ/ (trường hợp /juː/ hoặc /uː/ tuỳ từ)</li>
           </ul>
 
         </div>
@@ -309,17 +309,17 @@ export default function BayDauPhuPhienAmTiengAnh2(): React.JSX.Element {
 
             <ul className="list-square">
 
-              <li>mā̄ny = /ˈmen.i/</li>
-              <li>lībrā̄ry = /ˈlaɪ.brer.i/</li>
-              <li className="margin-bottom-50">squā̄re = /skwer/ (<HashLink smooth to="#ga">GA</HashLink>) = /skweər/ (<HashLink smooth to="#rp">RP</HashLink>)</li>
+              <li>[MANy][MĀ̄N y] /ˈmen.i/</li>
+              <li>[LIbrary][LĪ brā̄r y] /ˈlaɪ.brer.i/</li>
+              <li className="margin-bottom-50">[SQUARE][SQUĀ̄RE] /skwer/ (<HashLink smooth to="#ga">GA</HashLink>) = /skweər/ (<HashLink smooth to="#rp">RP</HashLink>)</li>
 
-              <li className="margin-bottom-50">gē̄nre = /ˈʒɑːn.rə/</li>
+              <li className="margin-bottom-50">[GENre][GĒ̄Nre] /ˈʒɑːn.rə/</li>
 
-              <li>dō̄ = /duː/</li>
-              <li>mō̄ve =  /muːv/</li>
-              <li className="margin-bottom-20">whō̄ = /huː/</li>
+              <li>[do][dō̄] /duː/ (từ chức năng)</li>
+              <li>[MOVE][MŌ̄VE] /muːv/</li>
+              <li className="margin-bottom-20">[whose][whō̄se] /huːz/ (từ chức năng)</li>
 
-              <li className="margin-bottom-20">bū̄ry = /ˈber.i/</li>
+              <li className="margin-bottom-20">[BURy][BŪ̄R y] /ˈber.i/</li>
 
             </ul>
 
@@ -350,7 +350,7 @@ export default function BayDauPhuPhienAmTiengAnh2(): React.JSX.Element {
           </p>
 
             <ul className="list-square">
-              <li className="margin-bottom-50">wår = /wɔːr/</li>
+              <li className="margin-bottom-50">[WAR][WÅR] /wɔːr/</li>
             </ul>
 
         </div>
@@ -365,9 +365,9 @@ export default function BayDauPhuPhienAmTiengAnh2(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li id="ga">Trong GA (General American: Anh–Mỹ)</li>
+          <li id="ga">Trong GA (GENeral aMERican: Anh–Mỹ)</li>
           
-          <li id="rp">Trong RP (Received Pronunciation: Anh–Anh)</li>
+          <li id="rp">Trong RP (reCEIVED pronunciAtion: Anh–Anh)</li>
 
         </ul>
 
@@ -381,9 +381,21 @@ export default function BayDauPhuPhienAmTiengAnh2(): React.JSX.Element {
 
           <li>Bao phủ toàn bộ <Link to="/tieng-anh/nguyen-am-don#nguyen-am-don">nguyên âm đơn</Link> + <Link to="/tieng-anh/nguyen-am-doi#nguyen-am-doi">nguyên âm đôi</Link>.</li>
 
-          <li>Phân biệt rõ fo͞od = /fuːd/, dō̄ = /duː/, Tüesday = /ˈtuːz.deɪ/ và cūte = /kjuːt/</li>
+          <li>Phân biệt rõ:</li>
 
-          <li className="margin-bottom-30">Dựa trên dấu tiếng Việt — dễ nhớ, dễ gõ, dễ học hơn IPA, AHD gốc.</li>
+            <ul className="list-square">
+        
+              <li>[FOOD][FO͞OD] /fuːd/</li>
+
+              <li>[do][dō̄] /duː/ (từ chức năng)</li>
+
+              <li>[TUESday][TÜES dāy] /ˈtʃuːz.deɪ/</li>
+
+              <li>[CUTE][CŪTE] /kjuːt/</li>
+        
+            </ul>
+
+          <li className="margin-top-20 margin-bottom-30">Dựa trên dấu tiếng Việt — dễ nhớ, dễ gõ, dễ học hơn IPA, AHD gốc.</li>
 
         </ul>
 

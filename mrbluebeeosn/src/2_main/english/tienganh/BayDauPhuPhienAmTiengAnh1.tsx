@@ -80,42 +80,42 @@ export default function BayDauPhuPhienAmTiengAnh1(): React.JSX.Element {
           <tbody>
             <tr>
                 <td><strong>a</strong> = /æ/</td>
-                <td>cat = /kæt/</td>
+                <td>[CAT][CAT] /kæt/</td>
             </tr>
             
             <tr>
                 <td><strong>e</strong> = /e/</td>
-                <td>bed = /bed/</td>
+                <td>[BED][BED] /bed//</td>
             </tr>
 
             <tr>
                 <td><strong>i</strong> = /ɪ/</td>
-                <td>sit = /sɪt/</td>
+                <td>[SIT][SIT] /sɪt/</td>
             </tr>
 
             <tr>
                 <td><strong>o</strong> = /ɑː/ (<HashLink smooth to="#ga">GA</HashLink>) <br/>&nbsp; = /ɒ/ (<HashLink smooth to="#rp">RP</HashLink>)</td>
-                <td>hot = /hɑːt/ (<HashLink smooth to="#ga">GA</HashLink>) <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; = /hɒt/ (<HashLink smooth to="#rp">RP</HashLink>)</td>
+                <td>[HOT][HOT] /hɑːt/ (<HashLink smooth to="#ga">GA</HashLink>) <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; = /hɒt/ (<HashLink smooth to="#rp">RP</HashLink>)</td>
             </tr>
 
             <tr>
                 <td><strong>u</strong> = /ʊ/</td>
-                <td>put = /pʊt/</td>
+                <td>[PUT][PUT] /pʊt/</td>
             </tr>
 
             <tr>
                 <td><strong>oo</strong> = /ʊ/</td>
-                <td>book = /bʊk/, good = /ɡʊd/</td>
+                <td>[BOOK][BOOK] /bʊk/, [GOOD][GOOD] /ɡʊd/</td>
             </tr>
 
             <tr>
                 <td><strong>y</strong> = /ɪ/</td>
-                <td>myth = /mɪθ/</td>
+                <td>[MYTH][MYTH] /mɪθ/</td>
             </tr>
 
             <tr>
                 <td><strong>ee</strong> = /iː/</td>
-                <td>bee = /biː/</td>
+                <td>[BEE][BEE] /biː/</td>
             </tr>
           </tbody>
         </table>
@@ -142,37 +142,37 @@ export default function BayDauPhuPhienAmTiengAnh1(): React.JSX.Element {
           <tbody>
             <tr>
                 <td><strong>ā</strong> = /eɪ/</td>
-                <td>cāke = /keɪk/</td>
+                <td>[CAKE][CĀKE] /keɪk/</td>
             </tr>
             
             <tr>
                 <td><strong>ē</strong> = /iː/</td>
-                <td>hē = /hiː/</td>
+                <td>[he][hė] /hiː/ (từ chức năng)</td>
             </tr>
 
             <tr>
                 <td><strong>ī</strong> = /aɪ/</td>
-                <td>tīme = /taɪm/</td>
+                <td>[TIME][TĪME] /taɪm/</td>
             </tr>
 
             <tr>
                 <td><strong>ō</strong> = /oʊ/ (<HashLink smooth to="#ga">GA</HashLink>) <br/>&nbsp; = /əʊ/ (<HashLink smooth to="#rp">RP</HashLink>)</td>
-                <td>gō = /ɡoʊ/ (<HashLink smooth to="#ga">GA</HashLink>) <br/>&nbsp;&nbsp;&nbsp;&nbsp; = /ɡəʊ/ (<HashLink smooth to="#rp">RP</HashLink>)</td>
+                <td>[GO][GŌ] /ɡoʊ/ (<HashLink smooth to="#ga">GA</HashLink>) <br/>&nbsp;&nbsp;&nbsp;&nbsp; = /ɡəʊ/ (<HashLink smooth to="#rp">RP</HashLink>)</td>
             </tr>
 
             <tr>
                 <td><strong>ū</strong> = /juː/</td>
-                <td>cūte = /kjuːt/</td>
+                <td>[CUTE][CŪTE] /kjuːt/</td>
             </tr>
 
             <tr>
                 <td><strong>o͞o</strong> = /uː/</td>
-                <td>fo͞od = /fuːd/, scho͞ol = /skuːl/</td>
+                <td>[FOOD][FO͞OD] /fuːd/, [SCHOOL][SCHO͞OL] /skuːl/</td>
             </tr>
 
             <tr>
                 <td><strong>ȳ</strong> = /aɪ/</td>
-                <td>whȳ = /waɪ/</td>
+                <td>[why][whȳ] /waɪ/ (từ chức năng)</td>
             </tr>
           </tbody>
         </table>
@@ -199,17 +199,17 @@ export default function BayDauPhuPhienAmTiengAnh1(): React.JSX.Element {
           <tbody>
             <tr>
                 <td><strong>â</strong> = /ʌ/</td>
-                <td>bėcâuse = /bɪˈkʌz/</td>
+                <td>[beCAUSE][bė CAUSE] /bɪˈkɒz/ (từ chức năng)</td>
             </tr>
 
             <tr>
                 <td><strong>ô</strong> = /ʌ/</td>
-                <td>ôthe̛r = /ˈʌð.ɚ/</td>
+                <td>[OTHer][ÔTH er] /ˈʌð.ər/</td>
             </tr>
 
             <tr>
                 <td><strong>û</strong> = /ʌ/</td>
-                <td>sûn = /sʌn/</td>
+                <td>[SUN][SÛN]/sʌn/</td>
             </tr>
           </tbody>
         </table>
@@ -236,27 +236,27 @@ export default function BayDauPhuPhienAmTiengAnh1(): React.JSX.Element {
           <tbody>
             <tr>
                 <td><strong>ȧ</strong> = /ɪ/</td>
-                <td>imȧge = /ˈɪm.ɪdʒ/</td>
+                <td>[IMage][IM ȧge] /ˈɪm.ɪdʒ/</td>
             </tr>
 
             <tr>
                 <td><strong>ė</strong> = /ɪ/</td>
-                <td>ėxpense = /ɪkˈspens/</td>
+                <td>[exPENSE][ėx PENSE] /ɪkˈspens/</td>
             </tr>
 
             <tr>
                 <td><strong>i̇</strong> = /ɪ/</td>
-                <td>fit = /fɪt/ (i có dấu chấm trong fit)</td>
+                <td>[FIT][FIT] /fɪt/ (i có dấu chấm trong fit)</td>
             </tr>
 
             <tr>
                 <td><strong>ȯ</strong></td>
-                <td>wȯmėn = /ˈwɪm.ɪn/</td>
+                <td>[WOMen][WȮM ėn] /ˈwɪm.ɪn/</td>
             </tr>
 
             <tr>
                 <td><strong>u̇</strong> = /ɪ/</td>
-                <td>bu̇sinėss = /ˈbɪz.nɪs/</td>
+                <td>[BUSIness][BU̇SI nėss] /ˈbɪz.nɪs/</td>
             </tr>
 
             <tr>
@@ -264,7 +264,7 @@ export default function BayDauPhuPhienAmTiengAnh1(): React.JSX.Element {
                 </br> 
                 <strong>u̇+ư</strong> = /j+ə/</td>
 
-                <td>accư̇ra̛te = /ˈæk.jɚ.ət/ </td>
+                <td>[ACcurate][AC cư̇r a̛te] /ˈæk.jə.rət/</td>
             </tr>
           </tbody>
         </table>
@@ -291,27 +291,27 @@ export default function BayDauPhuPhienAmTiengAnh1(): React.JSX.Element {
           <tbody>
             <tr>
               <td><strong>a̛</strong> = /ə/</td>
-              <td>a̛bout =  /əˈbaʊt/</td>
+              <td>[aBOUT][a̛ BOUT] /əˈbaʊt/ (từ chức năng)</td>
             </tr>
 
             <tr>
               <td><strong>e̛</strong> = /ə/</td>
-              <td>tāke̛n = /ˈteɪ.kən/</td>
+              <td>[TAken][TĀ ke̛n] /ˈteɪ.kən/</td>
             </tr>
 
             <tr>
               <td><strong>i̛</strong> = /ə/</td>
-              <td>penci̛l = /ˈpen.səl/</td>
+              <td>[PENcil][PEN ci̛l] /ˈpen.səl/</td>
             </tr>
 
             <tr>
               <td><strong>ơ</strong> = /ə/</td>
-              <td>lemơn = /ˈlem.ən/</td>
+              <td>[LEMon][LEM ơn] /ˈlem.ən/</td>
             </tr>
 
             <tr>
               <td><strong>ư</strong> = /ə/</td>
-              <td>sưppört = /səˈpɔːrt/</td>
+              <td>[supPORT][sưp PÖRT] /səˈpɔːrt/</td>
             </tr>
 
             <tr>
@@ -320,22 +320,22 @@ export default function BayDauPhuPhienAmTiengAnh1(): React.JSX.Element {
 
             <tr>
               <td><strong>e̛r</strong> = /ɜːr/</td>
-              <td>he̛r = /hɝː/</td>
+              <td>[her][he̛r] /hər/ (từ chức năng)</td>
             </tr>
 
             <tr>
               <td><strong>i̛r</strong> = /ɜːr/</td>
-              <td>bi̛rd = /bɝːd/</td>
+              <td>[BIRD][BI̛RD] /bɜːrd/</td>
             </tr>
 
             <tr>
               <td><strong>ơr</strong> = /ɜːr/</td>
-              <td>wơrd = /wɝːd/</td>
+              <td>[WORD][WƠRD] /wɜːrd/</td>
             </tr>
 
             <tr>
               <td><strong>ưr</strong> = /ɜːr/</td>
-              <td>nưrse = /nɝːs/</td>
+              <td>[NURSE][NƯRSE] /nɜːrs/</td>
             </tr>
           </tbody>
         </table>
@@ -362,22 +362,22 @@ export default function BayDauPhuPhienAmTiengAnh1(): React.JSX.Element {
           <tbody>
             <tr>
               <td><strong>ä</strong> = /ɑː/</td>
-              <td>cär = /kɑːr/, äutưmn = /ˈɑː.t̬əm/</td>
+              <td>[CAR][CÄR] /kɑːr, [AUtumn][ÄU tumn] /ˈɑː.t̬əm/</td>
             </tr>
 
             <tr>
               <td><strong>ï</strong> = /iː/</td>
-              <td>pïzza̛ = /ˈpiːt.sə/</td>
+              <td>[PIZza][PÏZ za̛] /ˈpiːt.sə/</td>
             </tr>
 
             <tr>
               <td><strong>ö</strong> = /ɔː/</td>
-              <td>shöre = /ʃɔːr/</td>
+              <td>[SHORE][SHÖRE] /ʃɔːr/</td>
             </tr>
 
             <tr>
               <td><strong>ü</strong> = /uː/</td>
-              <td>Tüesday = /ˈtuːz.deɪ/</td>
+              <td>[TUESday][TÜES dāy] /ˈtʃuːz.deɪ/</td>
             </tr>
           </tbody>
         </table>
@@ -404,22 +404,22 @@ export default function BayDauPhuPhienAmTiengAnh1(): React.JSX.Element {
           <tbody>
             <tr>
                 <td><strong>ā̄</strong> = /e/ (<HashLink smooth to="#ga">GA</HashLink>) <br/>&nbsp;&nbsp;&nbsp; = /eə/ (<HashLink smooth to="#rp">RP</HashLink>)</td>
-                <td>squā̄re = /skwer/ (<HashLink smooth to="#ga">GA</HashLink>) <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; = /skweər/ (<HashLink smooth to="#rp">RP</HashLink>)</td>
+                <td>[SQUARE][SQUĀ̄RE] /skwer/ (<HashLink smooth to="#ga">GA</HashLink>) <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; = /skweər/ (<HashLink smooth to="#rp">RP</HashLink>)</td>
             </tr>
 
             <tr>
                 <td><strong>ē̄</strong> = /ɑː/</td>
-                <td>gē̄nre = /ˈʒɑːn.rə/</td>
+                <td>[GENre][GĒ̄Nre] /ˈʒɑːn.rə/</td>
             </tr>
 
             <tr>
                 <td><strong>ō̄</strong> = /uː/</td>
-                <td>dō̄ = /duː/, whō̄se = /huːz/</td>
+                <td>[do][dō̄] /duː/, [whose][whō̄se] /huːz/</td>
             </tr>
 
             <tr>
                 <td><strong>ū̄</strong> = /e/</td>
-                <td>bū̄ry = /ˈber.i/</td>
+                <td>[BURy][BŪ̄R y] /ˈber.i/</td>
             </tr>
           </tbody>
         </table>
@@ -446,7 +446,7 @@ export default function BayDauPhuPhienAmTiengAnh1(): React.JSX.Element {
           <tbody>
             <tr>
                 <td><strong>å</strong> = /ɔː/</td>
-                <td>wår /wɔːr/</td>
+                <td>[WAR][WÅR] /wɔːr/</td>
             </tr>
           </tbody>
         </table>
@@ -459,14 +459,18 @@ export default function BayDauPhuPhienAmTiengAnh1(): React.JSX.Element {
       <p className="margin-top-20 text-indent-whole">Short vowels mặc định viết không dấu (aeiou, oo y) và long vowels (ee). Dấu chỉ dùng khi cần phân biệt hoặc cho âm dài/đặc biệt.</p>
 
       <h3 className="margin-top-30">🔹 /uː/ và /juː/ được tách rõ:</h3>
+      
+        <ul className="margin-top-20 list-square">
+      
+          <li>[FOOD][FO͞OD] /fuːd/</li>
 
-      <ul className="list-square">
+          <li>[do][dō̄] /duː/ (từ chức năng)</li>
 
-          <li className="margin-top-20">fo͞od = /fuːd/, dō̄ = /duː/, Tüesday = /ˈtuːz.deɪ/</li>
+          <li>[TUESday][TÜES dāy] /ˈtʃuːz.deɪ/</li>
 
-          <li>cūte = /kjuːt/</li>
-
-      </ul>
+          <li>[CUTE][CŪTE] /kjuːt/</li>
+      
+        </ul>
 
       <h3 className="margin-top-30">🔹 o mặc định có hai giá trị theo giọng:</h3>
 
@@ -474,19 +478,55 @@ export default function BayDauPhuPhienAmTiengAnh1(): React.JSX.Element {
 
       <h3 className="margin-top-30">🔹 Dot above (˙)</h3>
 
-      <p className="margin-top-20 text-indent-whole">Là nơi đặt nhiều biến thể “chữ viết khác → phát âm /ɪ/” (imȧge, wȯmėn, bu̇sinėss, fit, ėxpense...), và ư̇ cho /jə/ (accư̇ra̛te).</p>
+      <p className="margin-top-20 text-indent-whole">Là nơi đặt nhiều biến thể “chữ viết khác → phát âm /ɪ/”:</p>
+      
+        <ul className="list-square">
+      
+          <li>[IMage][IM ȧge] /ˈɪm.ɪdʒ/</li>
+      
+          <li>[WOMen][WȮM ėn] wȯmėn</li>
+      
+          <li>[BUSIness][BU̇SI nėss] /ˈbɪz.nɪs/</li>
+
+          <li>[FIT][FIT] /fɪt/</li> 
+      
+          <li>[exPENSE][ėx PENSE] /ɪkˈspens/</li>
+      
+      
+        </ul>
+
+
+      <p className="margin-top-20 text-indent-whole">và ư̇ cho /jə/:</p>
+
+      <ul className="list-square">
+      
+          <li>[ACcurate][AC cư̇r a̛te] /ˈæk.jə.rət/</li>
+      
+        </ul>
+
 
       <h3 className="margin-top-30">🔹 Hook (dấu móc)</h3>
 
-      <p className="margin-top-20 text-indent-whole">Gom cả schwa /ə/ và schwa + r (ví dụ he̛r, bi̛rd).</p>
+      <p className="margin-top-20 text-indent-whole">Gom cả schwa /ə/ và schwa + r</p>
+
+      <p className="margin-top-20 text-indent-whole">Ví dụ</p>
+
+        <ul className="list-square">
+
+          <li>[her][he̛r] /hər/</li>
+          
+          <li>[BIRD][BI̛RD] /bɜːrd/</li>
+
+        </ul>
+
 
       <p className="margin-top-30">❗Chú thích:</p>
 
         <ul className="list-square">
 
-          <li id="ga">Trong GA (General American: Anh–Mỹ)</li>
+          <li id="ga">Trong GA (GENeral aMERican: Anh–Mỹ)</li>
           
-          <li id="rp">Trong RP (Received Pronunciation: Anh–Anh)</li>
+          <li id="rp">Trong RP (reCEIVED pronunciAtion: Anh–Anh)</li>
 
         </ul>
 
