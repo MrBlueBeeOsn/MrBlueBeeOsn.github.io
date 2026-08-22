@@ -43,42 +43,54 @@ export default function NguyenAmDoi(): React.JSX.Element {
           <tbody>
             <tr>
                 <td>/aɪ/</td>
-                <td>tīme = /taɪm/; whȳ = /waɪ/</td>
+                <td>
+                  [TIME][TĪME] /taɪm/<br/>
+                  [why][whȳ] /waɪ/
+                </td>
             </tr>
             
             <tr>
                 <td>/eɪ/</td>
-                <td>cāke = /keɪk/</td>
+                <td>[CAKE][CĀKE] /keɪk/</td>
             </tr>
 
             <tr>
                 <td>/oʊ/</td>
-                <td>gō = /ɡoʊ/ (<HashLink smooth to="#ga">GA</HashLink>) = /ɡəʊ/ (<HashLink smooth to="#rp">RP</HashLink>)</td>
+                <td>
+                  [GO][GŌ] /ɡoʊ/ (<HashLink smooth to="#ga">GA</HashLink>)<br/>
+                  [GO][GŌ] /ɡəʊ/ (<HashLink smooth to="#rp">RP</HashLink>)
+                </td>
             </tr>
 
             <tr>
                 <td>/aʊ/</td>
-                <td>house = /haʊs/, now = /naʊ/</td>
+                <td>
+                  [HOUSE][HOUSE] /haʊs/<br/>
+                  [NOW][NOW] /naʊ/
+                </td>
             </tr>
 
             <tr>
                 <td>/ɔɪ/</td>
-                <td>boy = /bɔɪ/</td>
+                <td>[BOY][BOY] /bɔɪ/</td>
             </tr>
 
             <tr>
                 <td>/juː/</td>
-                <td>cūte = /kjuːt/</td>
+                <td>[CUTE][CŪTE] /kjuːt/</td>
             </tr>
 
             <tr>
                 <td>/jə/ (u̇+ư)</td>
-                <td>accư̇ra̛te = /ˈæk.jɚ.ət/ </td>
+                <td>[ACcurate][AC cư̇r a̛te] /ˈæk.jə.rət/</td>
             </tr>
 
             <tr>
                 <td>/eə/ (<HashLink smooth to="#rp">RP</HashLink>)</td>
-                <td>squā̄re = /skweər/ (<HashLink smooth to="#rp">RP</HashLink>) = /skwer/ (<HashLink smooth to="#ga">GA</HashLink>)</td>
+                <td>
+                  [SQUARE][SQUĀ̄RE] /skwer/ (<HashLink smooth to="#ga">GA</HashLink>)<br/>
+                  [SQUARE][SQUĀ̄RE] /skweər/ (<HashLink smooth to="#rp">RP</HashLink>)
+                  </td>
             </tr>
           </tbody>
         </table>
@@ -89,9 +101,9 @@ export default function NguyenAmDoi(): React.JSX.Element {
 
           <ul className="list-square">
 
-            <li id="ga">Trong GA (General American: Anh–Mỹ)</li>
+            <li id="ga">Trong GA (GENeral aMERican: Anh–Mỹ)</li>
             
-            <li id="rp">Trong RP (Received Pronunciation: Anh–Anh)</li>
+            <li id="rp">Trong RP (reCEIVED pronunciAtion: Anh–Anh)</li>
 
           </ul>
           

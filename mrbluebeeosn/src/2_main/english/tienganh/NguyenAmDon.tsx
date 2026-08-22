@@ -46,62 +46,109 @@ export default function NguyenAmDon(): React.JSX.Element {
 
             <tr>
               <td>/æ/</td>
-              <td>cat = /kæt/</td>
+              <td>[CAT][CAT] /kæt/</td>
             </tr>
 
             <tr>
               <td>/e/</td>
-              <td>bed = /bed/; squā̄re = /skwer/ (<HashLink smooth to="#ga">GA</HashLink>) = /skweər/ (<HashLink smooth to="#rp">RP</HashLink>)= ; bū̄ry = /ˈber.i/</td>
+              <td>
+                [BED][BED] /bed/<br/>
+                [SQUARE][SQUĀ̄RE] /skwer/ (<HashLink smooth to="#ga">GA</HashLink>)<br/>
+                [SQUARE][SQUĀ̄RE] /skweər/ (<HashLink smooth to="#rp">RP</HashLink>)<br/>
+                [BURy][BŪ̄R y] /ˈber.i/
+              </td>
             </tr>
 
             <tr>
               <td>/ɪ/</td>
-              <td>imȧge = /ˈɪm.ɪdʒ/; ėxpense = /ɪkˈspens/, sit = /sɪt/; wȯmėn = /ˈwɪm.ɪn/; bu̇sinėss = /ˈbɪz.nɪs/, myth = /mɪθ/;</td>
+              <td>
+                [IMage][IM ȧge] /ˈɪm.ɪdʒ/<br/>
+                [exPENSE][ėx PENSE] /ɪkˈspens/<br/>
+                [SIT][SIT] /sɪt/<br/>
+                [WOMen][WȮM ėn] /ˈwɪm.ɪn/<br/>
+                [BUSIness][BU̇SI nėss] /ˈbɪz.nɪs/<br/>
+                [MYTH][MYTH] /mɪθ/
+              </td>
             </tr>
       
             <tr>
               <td>/iː/</td>
-              <td>bee = /biː/; hē = /hiː/; pïzza̛ = /ˈpiːt.sə/</td>
+              <td>
+                [BEE][BEE] /biː/<br/>
+                [he][hė] /hiː/ (function word)<br/>
+                [PIZza][PÏZ za̛] /ˈpiːt.sə/
+              </td>
             </tr>
 
             <tr>
               <td>/ɑː/</td>
-              <td>hot = /hɑːt/ (<HashLink smooth to="#ga">GA</HashLink>) = /hɒt/ (<HashLink smooth to="#rp">RP</HashLink>)</td>
+              <td>
+                [HOT][HOT] /hɑːt/ (<HashLink smooth to="#ga">GA</HashLink>)<br/>
+                [HOT][HOT] /hɒt/ (<HashLink smooth to="#rp">RP</HashLink>)
+              </td>
             </tr>
 
             <tr>
               <td>/ʌ/</td>
-              <td>bėcâuse = /bɪˈkʌz/; ôthe̛r = /ˈʌð.ɚ/; sûn = /sʌn/</td>
+              <td>
+                [beCAUSE][bė CAUSE] /bɪˈkɒz/ (function word)<br/>
+                [OTHer][ÔTH er] /ˈʌð.ər/<br/>
+                [SUN][SÛN]/sʌn/
+              </td>
             </tr>
 
             <tr>
               <td>/ʊ/</td>
-              <td>put = /pʊt/; book = /bʊk/</td>
+              <td>
+                [PUT][PUT] /pʊt/<br/>
+                [BOOK][BOOK] /bʊk/
+              </td>
             </tr>
 
             <tr>
               <td>/uː/</td>
-              <td>fo͞od = /fuːd/; dō̄ = /duː/; Tüesday = /ˈtuːz.deɪ/</td>
+              <td>
+                [FOOD][FO͞OD] /fuːd/<br/>
+                [do][dō̄] /duː/ (function word)<br/>
+                [TUESday][TÜES dāy] /ˈtʃuːz.deɪ/
+              </td>
             </tr>
 
             <tr>
               <td>/ɔː/</td>
-              <td>shöre = /ʃɔːr/; wår = /wɔːr/</td>
+              <td>
+                [SHORE][SHÖRE] /ʃɔːr/<br/>
+                [WAR][WÅR] /wɔːr/
+              </td>
             </tr>
 
             <tr>
               <td>/ɑː/</td>
-              <td>cär = /kɑːr/; gē̄nre = /ˈʒɑːn.rə/</td>
+              <td>
+                [CAR][CÄR] /kɑːr/<br/>
+                [GENre][GĒ̄Nre] /ˈʒɑːn.rə/
+              </td>
             </tr>
 
             <tr>
               <td>/ə/</td>
-              <td>a̛bout = /əˈbaʊt/, tāke̛n = /ˈteɪ.kən/, penci̛l = /ˈpen.səl/, lemơn = /ˈlem.ən/, sưppört = /səˈpɔːrt/</td>
+              <td>
+                [aBOUT][a̛ BOUT] /əˈbaʊt/ (function word)<br/>
+                [TAken][TĀ ke̛n] /ˈteɪ.kən//<br/>
+                [PENcil][PEN ci̛l] /ˈpen.səl/<br/>
+                [LEMon][LEM ơn] /ˈlem.ən/<br/>
+                [supPORT][sưp PÖRT] /səˈpɔːrt/
+              </td>
             </tr>
 
             <tr>
               <td>/ɜːr/</td>
-              <td>he̛r = /hɝː/, bi̛rd = /bɝːd/, wơrd = /wɝːd/, nưrse = /nɝːs/</td>
+              <td>
+                [her][he̛r] /hər/ (function word)<br/>
+                [BIRD][BI̛RD] /bɜːrd/<br/>
+                [WORD][WƠRD] /wɜːrd/<br/>
+                [NURSE][NƯRSE] /nɜːrs/
+              </td>
             </tr>
 
           </tbody>
@@ -113,9 +160,9 @@ export default function NguyenAmDon(): React.JSX.Element {
 
           <ul className="list-square">
 
-            <li id="ga">Trong GA (General American: Anh–Mỹ)</li>
+            <li id="ga">Trong GA (GENeral aMERican: Anh–Mỹ)</li>
             
-            <li id="rp">Trong RP (Received Pronunciation: Anh–Anh)</li>
+            <li id="rp">Trong RP (reCEIVED pronunciAtion: Anh–Anh)</li>
 
           </ul>
 

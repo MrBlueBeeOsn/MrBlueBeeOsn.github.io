@@ -85,7 +85,7 @@ export default function BayDauPhuPhienAmTiengAnh1(): React.JSX.Element {
             
             <tr>
                 <td><strong>e</strong> = /e/</td>
-                <td>[BED][BED] /bed//</td>
+                <td>[BED][BED] /bed/</td>
             </tr>
 
             <tr>
@@ -95,7 +95,11 @@ export default function BayDauPhuPhienAmTiengAnh1(): React.JSX.Element {
 
             <tr>
                 <td><strong>o</strong> = /ɑː/ (<HashLink smooth to="#ga">GA</HashLink>) <br/>&nbsp; = /ɒ/ (<HashLink smooth to="#rp">RP</HashLink>)</td>
-                <td>[HOT][HOT] /hɑːt/ (<HashLink smooth to="#ga">GA</HashLink>) <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; = /hɒt/ (<HashLink smooth to="#rp">RP</HashLink>)</td>
+
+                <td>
+                  [HOT][HOT] /hɑːt/ (<HashLink smooth to="#ga">GA</HashLink>) <br/>
+                  [HOT][HOT] /hɒt/ (<HashLink smooth to="#rp">RP</HashLink>)
+                </td>
             </tr>
 
             <tr>
@@ -105,7 +109,10 @@ export default function BayDauPhuPhienAmTiengAnh1(): React.JSX.Element {
 
             <tr>
                 <td><strong>oo</strong> = /ʊ/</td>
-                <td>[BOOK][BOOK] /bʊk/, [GOOD][GOOD] /ɡʊd/</td>
+                <td>
+                  [BOOK][BOOK] /bʊk/<br/>
+                  [GOOD][GOOD] /ɡʊd/
+                </td>
             </tr>
 
             <tr>
@@ -147,7 +154,7 @@ export default function BayDauPhuPhienAmTiengAnh1(): React.JSX.Element {
             
             <tr>
                 <td><strong>ē</strong> = /iː/</td>
-                <td>[he][hė] /hiː/ (từ chức năng)</td>
+                <td>[he][hė] /hiː/ (function word)</td>
             </tr>
 
             <tr>
@@ -157,7 +164,11 @@ export default function BayDauPhuPhienAmTiengAnh1(): React.JSX.Element {
 
             <tr>
                 <td><strong>ō</strong> = /oʊ/ (<HashLink smooth to="#ga">GA</HashLink>) <br/>&nbsp; = /əʊ/ (<HashLink smooth to="#rp">RP</HashLink>)</td>
-                <td>[GO][GŌ] /ɡoʊ/ (<HashLink smooth to="#ga">GA</HashLink>) <br/>&nbsp;&nbsp;&nbsp;&nbsp; = /ɡəʊ/ (<HashLink smooth to="#rp">RP</HashLink>)</td>
+
+                <td>
+                  [GO][GŌ] /ɡoʊ/ (<HashLink smooth to="#ga">GA</HashLink>)<br/>
+                  [GO][GŌ] /ɡəʊ/ (<HashLink smooth to="#rp">RP</HashLink>)
+                </td>
             </tr>
 
             <tr>
@@ -167,12 +178,15 @@ export default function BayDauPhuPhienAmTiengAnh1(): React.JSX.Element {
 
             <tr>
                 <td><strong>o͞o</strong> = /uː/</td>
-                <td>[FOOD][FO͞OD] /fuːd/, [SCHOOL][SCHO͞OL] /skuːl/</td>
+                <td>
+                  [FOOD][FO͞OD] /fuːd/<br/>
+                  [SCHOOL][SCHO͞OL] /skuːl/
+                </td>
             </tr>
 
             <tr>
                 <td><strong>ȳ</strong> = /aɪ/</td>
-                <td>[why][whȳ] /waɪ/ (từ chức năng)</td>
+                <td>[why][whȳ] /waɪ/ (function word)</td>
             </tr>
           </tbody>
         </table>
@@ -199,7 +213,7 @@ export default function BayDauPhuPhienAmTiengAnh1(): React.JSX.Element {
           <tbody>
             <tr>
                 <td><strong>â</strong> = /ʌ/</td>
-                <td>[beCAUSE][bė CAUSE] /bɪˈkɒz/ (từ chức năng)</td>
+                <td>[beCAUSE][bė CAUSE] /bɪˈkɒz/ (function word)</td>
             </tr>
 
             <tr>
@@ -291,7 +305,7 @@ export default function BayDauPhuPhienAmTiengAnh1(): React.JSX.Element {
           <tbody>
             <tr>
               <td><strong>a̛</strong> = /ə/</td>
-              <td>[aBOUT][a̛ BOUT] /əˈbaʊt/ (từ chức năng)</td>
+              <td>[aBOUT][a̛ BOUT] /əˈbaʊt/ (function word)</td>
             </tr>
 
             <tr>
@@ -320,7 +334,7 @@ export default function BayDauPhuPhienAmTiengAnh1(): React.JSX.Element {
 
             <tr>
               <td><strong>e̛r</strong> = /ɜːr/</td>
-              <td>[her][he̛r] /hər/ (từ chức năng)</td>
+              <td>[her][he̛r] /hər/ (function word)</td>
             </tr>
 
             <tr>
@@ -362,7 +376,10 @@ export default function BayDauPhuPhienAmTiengAnh1(): React.JSX.Element {
           <tbody>
             <tr>
               <td><strong>ä</strong> = /ɑː/</td>
-              <td>[CAR][CÄR] /kɑːr, [AUtumn][ÄU tumn] /ˈɑː.t̬əm/</td>
+              <td>
+                [CAR][CÄR] /kɑːr/<br/>
+                [AUtumn][ÄU tumn] /ˈɑː.t̬əm/
+              </td>
             </tr>
 
             <tr>
@@ -403,8 +420,12 @@ export default function BayDauPhuPhienAmTiengAnh1(): React.JSX.Element {
           
           <tbody>
             <tr>
-                <td><strong>ā̄</strong> = /e/ (<HashLink smooth to="#ga">GA</HashLink>) <br/>&nbsp;&nbsp;&nbsp; = /eə/ (<HashLink smooth to="#rp">RP</HashLink>)</td>
-                <td>[SQUARE][SQUĀ̄RE] /skwer/ (<HashLink smooth to="#ga">GA</HashLink>) <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; = /skweər/ (<HashLink smooth to="#rp">RP</HashLink>)</td>
+                <td><strong>ā̄</strong> = /e/ (<HashLink smooth to="#ga">GA</HashLink>)<br/>&nbsp;&nbsp; = /eə/ (<HashLink smooth to="#rp">RP</HashLink>)</td>
+                
+                <td>
+                  [SQUARE][SQUĀ̄RE] /skwer/ (<HashLink smooth to="#ga">GA</HashLink>)<br/>
+                  [SQUARE][SQUĀ̄RE] /skweər/ (<HashLink smooth to="#rp">RP</HashLink>)
+                 </td>
             </tr>
 
             <tr>
@@ -414,7 +435,10 @@ export default function BayDauPhuPhienAmTiengAnh1(): React.JSX.Element {
 
             <tr>
                 <td><strong>ō̄</strong> = /uː/</td>
-                <td>[do][dō̄] /duː/, [whose][whō̄se] /huːz/</td>
+                <td>
+                  [do][dō̄] /duː/<br/>
+                  [whose][whō̄se] /huːz/
+                </td>
             </tr>
 
             <tr>
@@ -464,7 +488,7 @@ export default function BayDauPhuPhienAmTiengAnh1(): React.JSX.Element {
       
           <li>[FOOD][FO͞OD] /fuːd/</li>
 
-          <li>[do][dō̄] /duː/ (từ chức năng)</li>
+          <li>[do][dō̄] /duː/ (function word)</li>
 
           <li>[TUESday][TÜES dāy] /ˈtʃuːz.deɪ/</li>
 

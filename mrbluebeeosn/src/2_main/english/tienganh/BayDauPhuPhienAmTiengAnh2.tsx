@@ -81,7 +81,8 @@ export default function BayDauPhuPhienAmTiengAnh2(): React.JSX.Element {
             <li>[CAT][CAT] /kæt/</li>
             <li>[GET][GET] /get/</li>
             <li>[SIT][SIT] /sɪt/</li>
-            <li>[HOT][HOT] /hɑːt/ (<HashLink smooth to="#ga">GA</HashLink>) = /hɒt/ (<HashLink smooth to="#rp">RP</HashLink>)</li>
+            <li>[HOT][HOT] /hɑːt/ (<HashLink smooth to="#ga">GA</HashLink>)</li>
+            <li className="list-none">[HOT][HOT] /hɒt/ (<HashLink smooth to="#rp">RP</HashLink>)</li>
             <li>[PUT][PUT] /pʊt/</li>
 
             <li>[BOOK][BOOK] /bʊk/</li>
@@ -119,9 +120,10 @@ export default function BayDauPhuPhienAmTiengAnh2(): React.JSX.Element {
 
           <ul className="list-square">
             <li>[CAKE][CĀKE] /keɪk/</li>
-            <li>[he][hė] /hiː/ (từ chức năng)</li>
+            <li>[he][hė] /hiː/ (function word)</li>
             <li>[TIME][TĪME] /taɪm/</li>
-            <li>[GO][GŌ] /ɡoʊ/ (<HashLink smooth to="#ga">GA</HashLink>) = /ɡəʊ/ (<HashLink smooth to="#rp">RP</HashLink>)</li>
+            <li>[GO][GŌ] /ɡoʊ/ (<HashLink smooth to="#ga">GA</HashLink>)</li>
+            <li className="list-none">[GO][GŌ] /ɡəʊ/ (<HashLink smooth to="#rp">RP</HashLink>)</li>
             <li>[CUTE][CŪTE] /kjuːt/</li>
 
             <li>[FOOD][FO͞OD] /fuːd/</li>
@@ -155,7 +157,7 @@ export default function BayDauPhuPhienAmTiengAnh2(): React.JSX.Element {
           </p>
 
           <ul className="list-square">
-            <li>[beCAUSE][bė CAUSE] /bɪˈkɒz/ (từ chức năng)</li>
+            <li>[beCAUSE][bė CAUSE] /bɪˈkɒz/ (function word)</li>
             <li>[OTHer][ÔTH er] /ˈʌð.ər/</li>
             <li>[BUTton][BÛT tơn] /ˈbʌt.ən/</li>
           </ul>
@@ -223,7 +225,7 @@ export default function BayDauPhuPhienAmTiengAnh2(): React.JSX.Element {
           </p>
 
           <ul className="list-square">
-            <li>[aBOUT][a̛ BOUT] /əˈbaʊt/ (từ chức năng)</li>
+            <li>[aBOUT][a̛ BOUT] /əˈbaʊt/ (function word)</li>
             <li>[TAken][TĀ ke̛n] /ˈteɪ.kən/</li>
             <li>[PENcil][PEN ci̛l] /ˈpen.səl/</li>
             <li>[LEMon][LEM ơn] /ˈlem.ən/</li>
@@ -241,7 +243,7 @@ export default function BayDauPhuPhienAmTiengAnh2(): React.JSX.Element {
           </p>
 
           <ul className="list-square">
-            <li>[her][he̛r] /hər/ (từ chức năng)</li>
+            <li>[her][he̛r] /hər/ (function word)</li>
             <li>[BIRD][BI̛RD] /bɜːrd/</li>
             <li>[WORD][WƠRD] /wɜːrd/</li>
             <li>[NURSE][NƯRSE] /nɜːrs/</li>
@@ -274,7 +276,7 @@ export default function BayDauPhuPhienAmTiengAnh2(): React.JSX.Element {
           </p>
 
           <ul className="list-square">
-            <li>[CAR][CÄR] /kɑːr</li>
+            <li>[CAR][CÄR] /kɑːr/</li>
             <li>[AUtumn][ÄU tumn] /ˈɑː.t̬əm/</li>
             <li>[PIZza][PÏZ za̛] /ˈpiːt.sə/</li>
             <li>[SHORE][SHÖRE] /ʃɔːr/</li>
@@ -311,13 +313,14 @@ export default function BayDauPhuPhienAmTiengAnh2(): React.JSX.Element {
 
               <li>[MANy][MĀ̄N y] /ˈmen.i/</li>
               <li>[LIbrary][LĪ brā̄r y] /ˈlaɪ.brer.i/</li>
-              <li className="margin-bottom-50">[SQUARE][SQUĀ̄RE] /skwer/ (<HashLink smooth to="#ga">GA</HashLink>) = /skweər/ (<HashLink smooth to="#rp">RP</HashLink>)</li>
+              <li>[SQUARE][SQUĀ̄RE] /skwer/ (<HashLink smooth to="#ga">GA</HashLink>)</li>
+              <li className="list-none margin-bottom-50">[SQUARE][SQUĀ̄RE] /skweər/ (<HashLink smooth to="#rp">RP</HashLink>)</li>
 
               <li className="margin-bottom-50">[GENre][GĒ̄Nre] /ˈʒɑːn.rə/</li>
 
-              <li>[do][dō̄] /duː/ (từ chức năng)</li>
+              <li>[do][dō̄] /duː/ (function word)</li>
               <li>[MOVE][MŌ̄VE] /muːv/</li>
-              <li className="margin-bottom-20">[whose][whō̄se] /huːz/ (từ chức năng)</li>
+              <li className="margin-bottom-20">[whose][whō̄se] /huːz/ (function word)</li>
 
               <li className="margin-bottom-20">[BURy][BŪ̄R y] /ˈber.i/</li>
 
@@ -387,7 +390,7 @@ export default function BayDauPhuPhienAmTiengAnh2(): React.JSX.Element {
         
               <li>[FOOD][FO͞OD] /fuːd/</li>
 
-              <li>[do][dō̄] /duː/ (từ chức năng)</li>
+              <li>[do][dō̄] /duː/ (function word)</li>
 
               <li>[TUESday][TÜES dāy] /ˈtʃuːz.deɪ/</li>
 
