@@ -140,12 +140,12 @@ const Posts = lazy(() => import('@/data/Posts'));
 
 	const GiaoVienTiengAnh = lazy(() => import('@/2_main/english/tienganh/GiaoVienTiengAnh'));
 
-	const SauDangDongTuTiengAnh1 = lazy(() => import('@/2_main/english/tienganh/article/verbs/SauDangDongTuTiengAnh1'));
-	const SauDangDongTuTiengAnh2 = lazy(() => import('@/2_main/english/tienganh/article/verbs/SauDangDongTuTiengAnh2'));
+	const SauDangDongTuTiengAnh1 = lazy(() => import('@/2_main/english/tienganh/verbs/SauDangDongTuTiengAnh1'));
+	const SauDangDongTuTiengAnh2 = lazy(() => import('@/2_main/english/tienganh/verbs/SauDangDongTuTiengAnh2'));
 
-	const HieuDungVeThiHienTaiHoanThanh = lazy(() => import('@/2_main/english/tienganh/article/verbs/HieuDungVeThiHienTaiHoanThanh'));
+	const HieuDungVeThiHienTaiHoanThanh = lazy(() => import('@/2_main/english/tienganh/verbs/HieuDungVeThiHienTaiHoanThanh'));
 
-	const GerundsVaInfinitives = lazy(() => import('@/2_main/english/tienganh/article/verbs/GerundsVaInfinitives'));
+	const GerundsVaInfinitives = lazy(() => import('@/2_main/english/tienganh/verbs/GerundsVaInfinitives'));
 	const NhanBietTinhTuTiengAnh = lazy(() => import('@/2_main/english/tienganh/adjective/NhanBietTinhTuTiengAnh'));
 
 	const BiMatVeTuDuyNgonNgu1 = lazy(() => import('@/2_main/english/tienganh/folder/BiMatVeTuDuyNgonNgu1'));
@@ -277,8 +277,8 @@ const Posts = lazy(() => import('@/data/Posts'));
 
 	const VietTiengAnhMuotMaHon = lazy(() => import('@/2_main/english/tienganh/VietTiengAnhMuotMaHon'))
 
-	const Bang50DongTuBatQuyTac = lazy(() => import('@/2_main/english/tienganh/article/verbs/Bang50DongTuBatQuyTac'))
-	const Bang30PhrasalVerbs = lazy(() => import('@/2_main/english/tienganh/article/verbs/Bang30PhrasalVerbs'))
+	const Bang50DongTuBatQuyTac = lazy(() => import('@/2_main/english/tienganh/verbs/Bang50DongTuBatQuyTac'))
+	const Bang30PhrasalVerbs = lazy(() => import('@/2_main/english/tienganh/verbs/Bang30PhrasalVerbs'))
 	
 	
 
