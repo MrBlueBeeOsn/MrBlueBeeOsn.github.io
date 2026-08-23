@@ -57,7 +57,7 @@ export default function ThinkStraightFlowFast1(): React.JSX.Element {
 
 			<h3 className="margin-y-50 text-center">1. Thói quen "Đảo chiều" – Rào cản vô hình của phản xạ</h3>
 
-			<p>Hầu hết chúng ta khi bắt gặp một cụm từ như "<strong>Useful information</strong>", bộ não thường có xu hướng chạy sang phải để hiểu chữ Information (Thông tin) trước, rồi mới quay ngược lại bên trái để lấy chữ Useful (Hữu ích).</p>
+			<p>Hầu hết chúng ta khi bắt gặp một cụm từ như "<strong>USEful inforMAtion</strong>", bộ não thường có xu hướng chạy sang phải để hiểu chữ inforMAtion (Thông tin) trước, rồi mới quay ngược lại bên trái để lấy chữ USEful (Hữu ích).</p>
 
 			<p>Việc phải "đảo chiều" liên tục như vậy tạo ra một độ trễ nhất định. Nó khiến dòng chảy ngôn ngữ bị ngắt quãng, làm bạn nhanh mệt và khó theo kịp những cuộc hội thoại tốc độ cao. Đây chính là nút thắt ngăn cản bạn đạt đến sự tự nhiên trong giao tiếp.</p>
 
@@ -93,9 +93,9 @@ export default function ThinkStraightFlowFast1(): React.JSX.Element {
 
 			<h3 className="margin-y-50 text-center">4. Xây dựng "Khối hình ảnh" thay vì lắp ghép từ đơn</h3>
 
-			<p>Những người giao tiếp xuất sắc không bao giờ đợi đọc hết câu mới bắt đầu hiểu. Họ tiếp nhận thông tin theo từng "Dòng chảy" (Flow).</p>
+			<p>Những người giao tiếp xuất sắc không bao giờ đợi đọc hết câu mới bắt đầu hiểu. Họ tiếp nhận thông tin theo từng "Dòng chảy" (FLOW).</p>
 
-			<p>Khi bạn nhìn thấy cụm "<strong>Modern</strong>, <strong>spacious office</strong>", đừng đợi đến khi thấy chữ "Office" mới bắt đầu hình dung. Hãy để sự "Hiện đại" và "Rộng rãi" lấp đầy tâm trí bạn trước, rồi cuối cùng mới đóng khung nó lại thành hình ảnh "Văn phòng". Việc nắn lại tư duy này giúp bạn hiểu câu nói ngay khi người bản xứ vừa phát âm, đạt đến trạng thái "nghĩ bằng tiếng Anh" thực thụ.</p>
+			<p>Khi bạn nhìn thấy cụm "<strong>MODern</strong>, <strong>SPAcious OFfice</strong>", đừng đợi đến khi thấy chữ "OFfice" mới bắt đầu hình dung. Hãy để sự "Hiện đại" và "Rộng rãi" lấp đầy tâm trí bạn trước, rồi cuối cùng mới đóng khung nó lại thành hình ảnh "Văn phòng". Việc nắn lại tư duy này giúp bạn hiểu câu nói ngay khi người bản xứ vừa phát âm, đạt đến trạng thái "nghĩ bằng tiếng Anh" thực thụ.</p>
 
 			{/* 5. Kết quả của sự thay đổi tư duy */}
 

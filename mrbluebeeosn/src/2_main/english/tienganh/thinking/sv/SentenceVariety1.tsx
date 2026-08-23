@@ -58,51 +58,51 @@ export default function SentenceVariety1(): React.JSX.Element {
 
 			<h3 className="margin-y-50 text-center">1. Phân loại "Bản vẽ" Cấu trúc câu</h3>
 
-			<p>Để nhận biết chúng, hãy nhìn vào số lượng <strong>câu con</strong> (danh chủ + động cơ) và <strong>từ nối</strong>.</p>
+			<p>Để nhận biết chúng, hãy nhìn vào số lượng <strong>câu con</strong> (Chủ thể + Hành động) và <strong>từ nối</strong>.</p>
 
-			<h4 className="margin-y-40">1. Simple (Câu đơn)</h4>
+			<h4 className="margin-y-40">1. SIMple (Câu đơn)</h4>
 					
 			<p className="text-indent-whole">Chỉ có 1 ý duy nhất.</p>
 			
 				<ul className="list-square">
 			
-					<li>The project failed.</li>
+					<li>the PROJect FAILED.</li>
 					<li className="list-none">Dự án đã thất bại.</li>
 			
 				</ul>
 			
 			
-			<h4 className="margin-y-40">2. Compound (Câu ghép)</h4>
+			<h4 className="margin-y-40">2. COMpound (Câu ghép)</h4>
 					
 			<p className="text-indent-whole">2 ý ngang hàng, nối bằng: and, but, or, so, yet...</p>
 			
 				<ul className="list-square">
 			
-					<li>The project failed, <strong>but</strong> we learned a lot.</li>
+					<li>the PROJect FAILED, but we LEARNED a LOT.</li>
 					<li className="list-none">Dự án đã thất bại, nhưng chúng tôi đã học hỏi được rất nhiều điều.</li>
 			
 				</ul>
 			
 			
-			<h4 className="margin-y-40">3. Complex (Câu phức)</h4>
+			<h4 className="margin-y-40">3. COMplex (Câu phức)</h4>
 					
 			<p className="text-indent-whole">1 ý chính + 1 ý phụ (bắt đầu bằng because, although, if, when...)</p>
 			
 				<ul className="list-square">
 			
-					<li><strong>Although</strong> the project failed, we gained experience.</li>
+					<li>although the PROJect FAILED, we GAINED exPERience.</li>
 					<li className="list-none">Mặc dù dự án thất bại, chúng ta đã gặt hái được những kinh nghiệm quý báu.</li>
 			
 				</ul>
 			
 			
-			<h4 className="margin-y-40">4. Compound-Complex</h4>
+			<h4 className="margin-y-40">4. COMpound-COMplex</h4>
 					
 			<p className="text-indent-whole">Kết hợp cả 2 loại trên (ít nhất 2 ý chính + 1 ý phụ).</p>
 			
 				<ul className="list-square">
 			
-					<li><strong>Although</strong> the project failed, we gained experience, <strong>and</strong> we are ready for the next one.</li>
+					<li>although the PROJect FAILED, we GAINED exPERience, and we are READy for the NEXT ONE.</li>
 					<li className="list-none">Mặc dù dự án thất bại, chúng ta đã gặt hái được những kinh nghiệm quý báu và hiện đã chuẩn bị sẵn sàng cho thử thách kế tiếp.</li>
 			
 				</ul>
@@ -118,7 +118,7 @@ export default function SentenceVariety1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>The girl is beautiful.</li>
+					<li>the GIRL is BEAUtiful.</li>
 					<li className="list-none">Cô gái ấy thật xinh đẹp.</li>
 			
 				</ul>
@@ -126,11 +126,11 @@ export default function SentenceVariety1(): React.JSX.Element {
 			
 			<h4 className="margin-y-40">Bước 2 (Nâng cấp danh cơ):</h4>
 					
-			<p className="text-indent-whole">Thay vì dùng Tính Cơ đứng trước, hãy thử cấu trúc "The [Noun] of...".</p>
+			<p className="text-indent-whole">Thay vì dùng Tính Cơ đứng trước, hãy thử cấu trúc "the NOUN of...".</p>
 			
 				<ul className="list-square">
 			
-					<li>The beauty <strong>of</strong> the girl impressed everyone.</li>
+					<li>the BEAUty of the GIRL imPRESSes EVERyone.</li>
 					<li className="list-none">Vẻ đẹp của cô gái đã gây ấn tượng với mọi người.</li>
 			
 				</ul>
@@ -144,8 +144,8 @@ export default function SentenceVariety1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li><strong>Whenever</strong> she smiles, the beauty of the girl impresses everyone.</li>
-					<li className="list-none">Bất cứ khi nào cô gái ấy mỉm cười, vẻ đẹp của cô đều để lại ấn tượng cho mọi người.</li>
+					<li>whenever she SMILES, the BEAUty of the GIRL imPRESSes EVERyone.</li>
+					<li className="margin-bottom-20 list-none">Mỗi khi cô ấy cười, vẻ đẹp của cô gái đó lại làm ấn tượng tất cả mọi người.</li>
 			
 				</ul>
 			
@@ -156,7 +156,7 @@ export default function SentenceVariety1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li><strong>Whenever</strong> she smiles, the beauty of the girl impresses everyone, <strong>and</strong> the room seems to brighten up.</li>
+					<li>whenever she SMILES, the BEAUty of the GIRL imPRESSes EVERyone, and the ROOM SEEMS to BRIGHTEN UP.</li>
 					<li className="list-none">Bất cứ khi nào cô gái ấy mỉm cười, vẻ đẹp của cô đều để lại ấn tượng sâu sắc cho mọi người, và căn phòng dường như trở nên tươi sáng hơn.</li>
 			
 				</ul>
@@ -174,7 +174,7 @@ export default function SentenceVariety1(): React.JSX.Element {
 					<li className="margin-bottom-20 list-none">[Whenever she smiles] / [the beauty of the girl] / [impresses everyone].</li>
 			
 					<li><strong>Săn tìm từ nối</strong>:</li>
-					<li className="margin-bottom-20 list-none">Khi đọc báo hoặc xem phim, hãy tập trung vào các từ như while, whereas, nonetheless. Chúng là "keo dán" quyết định cấu trúc câu đó là gì.</li>
+					<li className="margin-bottom-20 list-none">Khi đọc báo hoặc xem phim, hãy tập trung vào các từ như while, wherEAS, nonetheLESS. Chúng là "keo dán" quyết định cấu trúc câu đó là gì.</li>
 
 					<li><strong>Kỹ thuật</strong> "<strong>Viết không trung gian</strong>"</li>
 					<li className="list-none">Thử diễn đạt một ý tưởng bằng 3 cách khác nhau (1 câu đơn, 1 câu ghép, 1 câu phức). Việc này ép não bộ phải tìm cách kết nối các logic khác nhau.</li>
@@ -185,21 +185,35 @@ export default function SentenceVariety1(): React.JSX.Element {
 
 			<h3 className="margin-y-50 text-center">4. Bí kíp để áp dụng vào bài viết chuyên nghiệp</h3>
 
-			<p><strong>Sử dụng câu đơn để chốt hạ</strong>: Sau một chuỗi giải thích dài bằng câu phức, hãy dùng một câu đơn ngắn gọn để tạo điểm nhấn (Punchline).</p>
+			<p><strong>Sử dụng câu đơn để chốt hạ</strong>: Sau một chuỗi giải thích dài bằng câu phức, hãy dùng một câu đơn ngắn gọn để tạo điểm nhấn (PUNCHline).</p>
 
 			<ul className="list-square">
 
-					<li>Ví dụ: "... (giải thích dài). It works."</li>
+					<li>Ví dụ: "... (giải thích dài). it WORKS."</li>
 			
 				</ul>
 
 			<p className="margin-top-20"><strong>Đảo ngữ để tạo bất ngờ</strong>: Thay vì bắt đầu bằng danh chủ, hãy đưa các trạng cụm chỉ thời gian hoặc nơi chốn lên đầu.</p>
+
+			<p className="text-indent-whole">inSTEAD of:</p>
+
+				<ul className="list-square">
+
+					<li>sucCESS COMES after HARD WORK.</li>
+					<li className="margin-bottom-20 list-none">Thành công đến sau sự nỗ lực chăm chỉ.</li>
+
+					<li className="list-none">Đây là một câu trần thuật cơ bản với trật tự từ thông thường (Chủ thể + Hành động).</li>
+			
+				</ul>
+
+				<p className="margin-top-20 text-indent-whole">TRY:</p>
 			
 				<ul className="list-square">
 
-					<li>Instead of: "Success comes after hard work."</li>
+					<li>ONly after HARD WORK does sucCESS COME.</li>
+					<li className="margin-bottom-20 list-none">Chỉ sau khi làm việc chăm chỉ, thành công mới đến.</li>
 
-					<li>Try: "<strong>Only after hard work</strong> does success come."</li>
+					<li className="list-none">Đây là cấu trúc đảo ngữ (Inversion) trong tiếng Anh. Cụm từ ONly after được đưa lên đầu câu để nhấn mạnh điều kiện thiết yếu (phải làm việc chăm chỉ), do đó trợ hành động does được đảo lên trước chủ thể sucCESS.</li>
 			
 				</ul>
 

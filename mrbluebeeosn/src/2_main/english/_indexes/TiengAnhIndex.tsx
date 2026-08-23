@@ -1060,7 +1060,7 @@ export default function TiengAnhIndex(): React.JSX.Element {
 
             <li>
               <div className="li-content">
-                <Link to="/tieng-anh/the-beauty-of-the-girl-1">The Beauty of the Girl
+                <Link to="/tieng-anh/the-beauty-of-the-girl-1">the BEAUty of the GIRL
                 <sup>&nbsp;1&nbsp;</sup>
                 </Link>
                 <Link to="/tieng-anh/the-beauty-of-the-girl-2">

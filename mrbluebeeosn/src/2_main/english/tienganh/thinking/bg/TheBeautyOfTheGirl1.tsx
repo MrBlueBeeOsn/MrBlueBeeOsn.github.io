@@ -17,7 +17,7 @@ export default function TheBeautyOfTheGirl1(): React.JSX.Element {
 		
 			<h4><HashLink smooth to="/tieng-anh#thinking-terms"><mark className="highlight-tertiary-padding-4-8">THINKing</mark></HashLink></h4>
 
-			<h1 className="margin-y-50 text-center">The Beauty of the Girl
+			<h1 className="margin-y-50 text-center">the BEAUty of the GIRL
 												
 				<sup><HashLink smooth to="/tieng-anh/the-beauty-of-the-girl-1">&nbsp;1&nbsp;</HashLink>
 				</sup>
@@ -38,7 +38,7 @@ export default function TheBeautyOfTheGirl1(): React.JSX.Element {
 
 			<h4 className="margin-bottom-30 text-center">ĐỌC TIẾNG ANH "XUÔI DÒNG": TUYỆT CHIÊU XÓA BỎ CẢM GIÁC NGƯỢC ĐỜI</h4>
 
-			<p>Bạn có bao giờ thấy mệt não khi đọc tiếng Anh không? Nguyên nhân rất đơn giản: Tiếng Việt nói "<strong>Cô gái</strong> (<strong>1</strong>) <strong>đẹp</strong> (<strong>2</strong>)", nhưng tiếng Anh lại viết "<strong>Beautiful</strong> (<strong>2</strong>) <strong>girl</strong> (<strong>1</strong>)".</p>
+			<p>Bạn có bao giờ thấy mệt não khi đọc tiếng Anh không? Nguyên nhân rất đơn giản: Tiếng Việt nói "<strong>Cô gái</strong> (<strong>1</strong>) <strong>đẹp</strong> (<strong>2</strong>)", nhưng tiếng Anh lại viết "<strong>BEAUtiful</strong> (<strong>2</strong>) <strong>GIRL</strong> (<strong>1</strong>)".</p>
 			
 			<p>Khi đọc, mắt bạn đi từ trái sang phải, nhưng não lại bắt bạn phải đợi đọc hết từ cuối rồi mới được "lộn ngược" lại để hiểu. Chính cái vòng lặp <strong>đọc xuôi</strong> - <strong>dịch ngược</strong> này là rào cản khiến chúng ta đọc chậm và nhanh mỏi mắt.</p>
 					
@@ -54,10 +54,10 @@ export default function TheBeautyOfTheGirl1(): React.JSX.Element {
 			
 				<ul className="list-square">
 		
-					<li><strong>Cách cũ</strong> (<strong>Dịch ngược</strong>): Đọc Beautiful... (não chờ)... girl.</li>
+					<li><strong>Cách cũ</strong> (<strong>Dịch ngược</strong>): Đọc BEAUtiful... (não chờ)... GIRL.</li>
 					<li className="list-none">→ À, là "<strong>Cô gái đẹp</strong>".</li>
 			
-					<li className="margin-top-20"><strong>Cách mới</strong> (<strong>Dịch xuôi</strong>): Đọc Beautiful → nghĩ ngay "<strong>Vẻ đẹp</strong>". Đọc tiếp girl</li>
+					<li className="margin-top-20"><strong>Cách mới</strong> (<strong>Dịch xuôi</strong>): Đọc BEAUtiful → nghĩ ngay "<strong>Vẻ đẹp</strong>". Đọc tiếp GIRL</li>
 					<li className="list-none">→ ghép thành "<strong>vẻ đẹp của cô gái</strong>".</li>
 			
 				</ul>
@@ -72,13 +72,13 @@ export default function TheBeautyOfTheGirl1(): React.JSX.Element {
 			
 				<ul className="list-square">
 
-					<li><strong>Hot coffee</strong>: Đừng dịch "Cà phê nóng". Hãy đọc xuôi: "<strong>Cái nóng của cà phê</strong>".</li>
+					<li><strong>HOT COFfee</strong>: Đừng dịch "Cà phê nóng". Hãy đọc xuôi: "<strong>Cái nóng của cà phê</strong>".</li>
 
-					<li><strong>Wide road</strong>: Đừng dịch "Con đường rộng". Hãy đọc xuôi: "<strong>Độ rộng của con đường</strong>".</li>
+					<li><strong>WIDE ROAD</strong>: Đừng dịch "Con đường rộng". Hãy đọc xuôi: "<strong>Độ rộng của con đường</strong>".</li>
 
-					<li><strong>Old house</strong>: Đừng dịch "Ngôi nhà cũ". Hãy đọc xuôi: "<strong>Sự cũ kỹ của ngôi nhà</strong>".</li>
+					<li><strong>OLD HOUSE</strong>: Đừng dịch "Ngôi nhà cũ". Hãy đọc xuôi: "<strong>Sự cũ kỹ của ngôi nhà</strong>".</li>
 
-					<li><strong>Blue sky</strong>: Đừng dịch "Bầu trời xanh". Hãy đọc xuôi: "<strong>Sắc xanh của bầu trời</strong>".</li>
+					<li><strong>BLUE SKY</strong>: Đừng dịch "Bầu trời xanh". Hãy đọc xuôi: "<strong>Sắc xanh của bầu trời</strong>".</li>
 			
 				</ul>
 
@@ -94,9 +94,9 @@ export default function TheBeautyOfTheGirl1(): React.JSX.Element {
 
 					<li><strong>Giảm tải cho não</strong>: Não không còn phải "tạm giữ" các từ rời rạc để chờ ghép hình. Bạn sẽ thấy đọc một trang sách tiếng Anh nhẹ nhàng như đọc báo tiếng Việt.</li>
 
-					<li><strong>Tư duy như người bản xứ</strong>: Trong các văn bản trang trọng, người Tây rất thích dùng cách nói này (ví dụ: The beauty of the girl). Khi bạn dịch xuôi như vậy, bạn vô tình đang làm quen với lối tư duy cao cấp của họ.</li>
+					<li><strong>Tư duy như người bản xứ</strong>: Trong các văn bản trang trọng, người Tây rất thích dùng cách nói này (ví dụ: the BEAUty of the GIRL). Khi bạn dịch xuôi như vậy, bạn vô tình đang làm quen với lối tư duy cao cấp của họ.</li>
 
-					<li><strong>Dễ dàng xử lý câu dài</strong>: Với những cụm từ phức tạp như "An extremely expensive car", bạn chỉ cần đọc xuôi: "<strong>Sự đắt đỏ cực kỳ của chiếc xe</strong>". Xong! Cực kỳ đơn giản.</li>
+					<li><strong>Dễ dàng xử lý câu dài</strong>: Với những cụm từ phức tạp như "an exTREMELy exPENsive CAR", bạn chỉ cần đọc xuôi: "<strong>Sự đắt đỏ cực kỳ của chiếc xe</strong>". Xong! Cực kỳ đơn giản.</li>
 			
 				</ul>
 
@@ -104,7 +104,7 @@ export default function TheBeautyOfTheGirl1(): React.JSX.Element {
 			
 			<h3 className="margin-y-50 text-center">4. Lời kết: Hãy để mắt và não "về cùng một đội"</h3>
 
-			<p>Ngôn ngữ không nên là một bài toán đố về vị trí từ. Bằng cách mượn cấu trúc "<strong>Vẻ đẹp của cô gái</strong>" để dịch cho cụm "<strong>Beautiful girl</strong>", bạn đã giải phóng bộ não khỏi sự ngược ngào của ngữ pháp.</p>
+			<p>Ngôn ngữ không nên là một bài toán đố về vị trí từ. Bằng cách mượn cấu trúc "<strong>Vẻ đẹp của cô gái</strong>" để dịch cho cụm "<strong>BEAUtiful GIRL</strong>", bạn đã giải phóng bộ não khỏi sự ngược ngào của ngữ pháp.</p>
 
 			<p className="margin-top-20">Ngay bây giờ, hãy nhìn xung quanh phòng, tìm một đồ vật cùng một Tính Cơ đi kèm, và tập "dịch xuôi" theo cách này. Bạn sẽ thấy tiếng Anh trở nên thân thiện hơn bao giờ hết!</p>
 

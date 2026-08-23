@@ -17,7 +17,7 @@ export default function TheBeautyOfTheGirl5(): React.JSX.Element {
 		
 			<h4><HashLink smooth to="/tieng-anh#thinking-terms"><mark className="highlight-tertiary-padding-4-8">THINKing</mark></HashLink></h4>
 
-			<h1 className="margin-y-50 text-center">The Beauty of the Girl
+			<h1 className="margin-y-50 text-center">the BEAUty of the GIRL
 															
 				<sup><HashLink smooth to="/tieng-anh/the-beauty-of-the-girl-1">&nbsp;1&nbsp;</HashLink>
 				</sup>
