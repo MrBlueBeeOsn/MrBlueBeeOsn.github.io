@@ -5,9 +5,9 @@ import EyeIcon from '@/components/view/EyeIcon';
 import ViewCounter from '@/components/view/ViewCounter';
 import LikeButton from '@/components/like/LikeButton';
 
-export default function SauDangDongTuTiengAnh2(): React.JSX.Element {
+export default function SauDangHanhDong2(): React.JSX.Element {
 
-	const postId = "SauDangDongTuTiengAnh2";
+	const postId = "SauDangHanhDong2";
 
 	return (<>
 
@@ -17,12 +17,12 @@ export default function SauDangDongTuTiengAnh2(): React.JSX.Element {
 		
 			<h4><HashLink smooth to="/tieng-anh#verbs-terms"><mark className="highlight-tertiary-padding-4-8">VERBS</mark></HashLink></h4>
 
-			<h1 className="margin-y-50 text-center">6 Dạng [Động Cơ] Tiếng Anh
+			<h1 className="margin-y-50 text-center">6 Dạng [Hành Động]
 												
-				<sup><HashLink smooth to="/tieng-anh/6-dang-dong-tu-tieng-anh-1">&nbsp;1&nbsp;</HashLink>
+				<sup><HashLink smooth to="/tieng-anh/6-dang-hanh-dong-1">&nbsp;1&nbsp;</HashLink>
 				</sup>
 
-				<sup><HashLink smooth to="/tieng-anh/6-dang-dong-tu-tieng-anh-2">&nbsp;2&nbsp;</HashLink>
+				<sup><HashLink smooth to="/tieng-anh/6-dang-hanh-dong-2">&nbsp;2&nbsp;</HashLink>
 				</sup>
 
 			</h1>

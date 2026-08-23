@@ -140,8 +140,8 @@ const Posts = lazy(() => import('@/data/Posts'));
 
 	const GiaoVienTiengAnh = lazy(() => import('@/2_main/english/tienganh/GiaoVienTiengAnh'));
 
-	const SauDangDongTuTiengAnh1 = lazy(() => import('@/2_main/english/tienganh/verbs/SauDangDongTuTiengAnh1'));
-	const SauDangDongTuTiengAnh2 = lazy(() => import('@/2_main/english/tienganh/verbs/SauDangDongTuTiengAnh2'));
+	const SauDangHanhDong1 = lazy(() => import('@/2_main/english/tienganh/verbs/SauDangHanhDong1'));
+	const SauDangHanhDong2 = lazy(() => import('@/2_main/english/tienganh/verbs/SauDangHanhDong2'));
 
 	const PREsentPERfect = lazy(() => import('@/2_main/english/tienganh/verbs/PREsentPERfect'));
 
@@ -744,8 +744,8 @@ export default function AppRoutes(): React.JSX.Element {
 
 					<Route path="/tieng-anh/giao-vien-tieng-anh-la-gi" element={<GiaoVienTiengAnh />} />
 
-					<Route path="/tieng-anh/6-dang-dong-tu-tieng-anh-1" element={<SauDangDongTuTiengAnh1 />} />
-					<Route path="/tieng-anh/6-dang-dong-tu-tieng-anh-2" element={<SauDangDongTuTiengAnh2 />} />
+					<Route path="/tieng-anh/6-dang-hanh-dong-1" element={<SauDangHanhDong1 />} />
+					<Route path="/tieng-anh/6-dang-hanh-dong-2" element={<SauDangHanhDong2 />} />
 
 					<Route path="/tieng-anh/present-perfect" element={<PREsentPERfect />} />
 
