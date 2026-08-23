@@ -237,14 +237,14 @@ const Posts = lazy(() => import('@/data/Posts'));
 	const SVOMPT7 = lazy(() => import('@/2_main/english/tienganh/thinking/svompt/SVOMPT7'));
 	const SVOMPT8 = lazy(() => import('@/2_main/english/tienganh/thinking/svompt/SVOMPT8'));
 
-	const ThinkStraightFlowFast1 = lazy(() => import('@/2_main/english/tienganh/thinking/sf/ThinkStraightFlowFast1'));
-	const ThinkStraightFlowFast2 = lazy(() => import('@/2_main/english/tienganh/thinking/sf/ThinkStraightFlowFast2'));
-	const ThinkStraightFlowFast3 = lazy(() => import('@/2_main/english/tienganh/thinking/sf/ThinkStraightFlowFast3'));
-	const ThinkStraightFlowFast4 = lazy(() => import('@/2_main/english/tienganh/thinking/sf/ThinkStraightFlowFast4'));
-	const ThinkStraightFlowFast5 = lazy(() => import('@/2_main/english/tienganh/thinking/sf/ThinkStraightFlowFast5'));
-	const ThinkStraightFlowFast6 = lazy(() => import('@/2_main/english/tienganh/thinking/sf/ThinkStraightFlowFast6'));
-	const ThinkStraightFlowFast7 = lazy(() => import('@/2_main/english/tienganh/thinking/sf/ThinkStraightFlowFast8'));
-	const ThinkStraightFlowFast8 = lazy(() => import('@/2_main/english/tienganh/thinking/sf/ThinkStraightFlowFast7'));
+	const ThinkStraightFlowFast1 = lazy(() => import('@/2_main/english/tienganh/thinking/tsff/ThinkStraightFlowFast1'));
+	const ThinkStraightFlowFast2 = lazy(() => import('@/2_main/english/tienganh/thinking/tsff/ThinkStraightFlowFast2'));
+	const ThinkStraightFlowFast3 = lazy(() => import('@/2_main/english/tienganh/thinking/tsff/ThinkStraightFlowFast3'));
+	const ThinkStraightFlowFast4 = lazy(() => import('@/2_main/english/tienganh/thinking/tsff/ThinkStraightFlowFast4'));
+	const ThinkStraightFlowFast5 = lazy(() => import('@/2_main/english/tienganh/thinking/tsff/ThinkStraightFlowFast5'));
+	const ThinkStraightFlowFast6 = lazy(() => import('@/2_main/english/tienganh/thinking/tsff/ThinkStraightFlowFast6'));
+	const ThinkStraightFlowFast7 = lazy(() => import('@/2_main/english/tienganh/thinking/tsff/ThinkStraightFlowFast8'));
+	const ThinkStraightFlowFast8 = lazy(() => import('@/2_main/english/tienganh/thinking/tsff/ThinkStraightFlowFast7'));
 
 	const TheBeautyOfTheGirl1 = lazy(() => import('@/2_main/english/tienganh/thinking/bg/TheBeautyOfTheGirl1'));
 	const TheBeautyOfTheGirl2 = lazy(() => import('@/2_main/english/tienganh/thinking/bg/TheBeautyOfTheGirl2'));

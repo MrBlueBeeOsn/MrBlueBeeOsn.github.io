@@ -20,7 +20,7 @@ export default function SVOMPT1(): React.JSX.Element {
 
 			<h1 className="margin-y-50 text-center">SVOMPT
 												
-				<sup><HashLink smooth to="/tieng-anh/SVOMPT-1">&nbsp;1&nbsp;</HashLink>
+				{/* <sup><HashLink smooth to="/tieng-anh/SVOMPT-1">&nbsp;1&nbsp;</HashLink>
 				</sup>
 
 				<sup><HashLink smooth to="/tieng-anh/SVOMPT-2">&nbsp;2&nbsp;</HashLink>
@@ -42,7 +42,7 @@ export default function SVOMPT1(): React.JSX.Element {
 				</sup>
 
 				<sup><HashLink smooth to="/tieng-anh/SVOMPT-8">&nbsp;8&nbsp;</HashLink>
-				</sup>
+				</sup> */}
 
 			</h1>
 

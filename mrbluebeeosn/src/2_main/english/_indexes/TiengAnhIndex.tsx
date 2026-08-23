@@ -931,8 +931,8 @@ export default function TiengAnhIndex(): React.JSX.Element {
 
             <li>
               <div className="li-content">
-                <Link to="/tieng-anh/dependent-clause-1">DC
-                <sup>&nbsp;1&nbsp;</sup>
+                <Link to="/tieng-anh/dependent-clause-1">dePENdent CLAUSE
+                {/* <sup>&nbsp;1&nbsp;</sup> */}
                 </Link>
                 {/* <Link to="/tieng-anh/dependent-clause-2">
                   <sup>&nbsp;2&nbsp;</sup>
@@ -966,9 +966,9 @@ export default function TiengAnhIndex(): React.JSX.Element {
             <li>
               <div className="li-content">
                 <Link to="/tieng-anh/SVOMPT-1">SVOMPT
-                <sup>&nbsp;1&nbsp;</sup>
+                {/* <sup>&nbsp;1&nbsp;</sup> */}
                 </Link>
-                <Link to="/tieng-anh/SVOMPT-2">
+                {/* <Link to="/tieng-anh/SVOMPT-2">
                   <sup>&nbsp;2&nbsp;</sup>
                 </Link>
                 <Link to="/tieng-anh/SVOMPT-3">
@@ -988,7 +988,7 @@ export default function TiengAnhIndex(): React.JSX.Element {
                 </Link>
                 <Link to="/tieng-anh/SVOMPT-8">
                   <sup>&nbsp;8&nbsp;</sup>
-                </Link>
+                </Link> */}
               
               </div>
               
@@ -997,7 +997,7 @@ export default function TiengAnhIndex(): React.JSX.Element {
             <li>
               <div className="li-content">
                 <Link to="/tieng-anh/sentence-variety-1">Sentence Variety
-                <sup>&nbsp;1&nbsp;</sup>
+                {/* <sup>&nbsp;1&nbsp;</sup> */}
                 </Link>
                 {/* <Link to="/tieng-anh/sentence-variety-2">
                   <sup>&nbsp;2&nbsp;</sup>
@@ -1031,10 +1031,10 @@ export default function TiengAnhIndex(): React.JSX.Element {
 
             <li>
               <div className="li-content">
-                <Link to="/tieng-anh/think-straight-flow-fast-1">Think straight
-                <sup>&nbsp;1&nbsp;</sup>
+                <Link to="/tieng-anh/think-straight-flow-fast-1">THINK STRAIGHT FLOW FAST
+                {/* <sup>&nbsp;1&nbsp;</sup> */}
                 </Link>
-                <Link to="/tieng-anh/think-straight-flow-fast-2">
+                {/* <Link to="/tieng-anh/think-straight-flow-fast-2">
                   <sup>&nbsp;2&nbsp;</sup>
                 </Link>
                 <Link to="/tieng-anh/think-straight-flow-fast-3">
@@ -1054,16 +1054,16 @@ export default function TiengAnhIndex(): React.JSX.Element {
                 </Link>
                 <Link to="/tieng-anh/think-straight-flow-fast-8">
                   <sup>&nbsp;8&nbsp;</sup>
-                </Link>
+                </Link> */}
               </div>
             </li>
 
             <li>
               <div className="li-content">
                 <Link to="/tieng-anh/the-beauty-of-the-girl-1">the BEAUty of the GIRL
-                <sup>&nbsp;1&nbsp;</sup>
+                {/* <sup>&nbsp;1&nbsp;</sup> */}
                 </Link>
-                <Link to="/tieng-anh/the-beauty-of-the-girl-2">
+                {/* <Link to="/tieng-anh/the-beauty-of-the-girl-2">
                   <sup>&nbsp;2&nbsp;</sup>
                 </Link>
                 <Link to="/tieng-anh/the-beauty-of-the-girl-3">
@@ -1074,7 +1074,7 @@ export default function TiengAnhIndex(): React.JSX.Element {
                 </Link>
                 <Link to="/tieng-anh/the-beauty-of-the-girl-5">
                   <sup>&nbsp;5&nbsp;</sup>
-                </Link>
+                </Link> */}
               </div>
             </li>
 

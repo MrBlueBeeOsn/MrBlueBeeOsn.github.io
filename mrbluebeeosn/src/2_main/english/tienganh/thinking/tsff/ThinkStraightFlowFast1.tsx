@@ -17,9 +17,9 @@ export default function ThinkStraightFlowFast1(): React.JSX.Element {
 		
 			<h4><HashLink smooth to="/tieng-anh#thinking-terms"><mark className="highlight-tertiary-padding-4-8">THINKing</mark></HashLink></h4>
 
-			<h1 className="margin-y-50 text-center">Think straight
+			<h1 className="margin-y-50 text-center">THINK STRAIGHT FLOW FAST
 												
-				<sup><HashLink smooth to="/tieng-anh/think-straight-flow-fast-1">&nbsp;1&nbsp;</HashLink>
+				{/* <sup><HashLink smooth to="/tieng-anh/think-straight-flow-fast-1">&nbsp;1&nbsp;</HashLink>
 				</sup>
 
 				<sup><HashLink smooth to="/tieng-anh/think-straight-flow-fast-2">&nbsp;2&nbsp;</HashLink>
@@ -41,11 +41,9 @@ export default function ThinkStraightFlowFast1(): React.JSX.Element {
 				</sup>
 
 				<sup><HashLink smooth to="/tieng-anh/think-straight-flow-fast-8">&nbsp;8&nbsp;</HashLink>
-				</sup>
+				</sup> */}
 
 			</h1>
-
-			<h2 className="margin-bottom-50 text-center">Flow fast</h2>
 
 			<h4 className="margin-bottom-30 text-center">PHÁ VỠ "RÀO CẢN NGƯỢC": BÍ MẬT DÒNG CHẢY TỰ NHIÊN GIÚP BẠN ĐỘT PHÁ TIẾNG ANH!</h4>
 

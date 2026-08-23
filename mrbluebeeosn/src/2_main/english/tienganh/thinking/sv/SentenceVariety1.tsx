@@ -19,8 +19,8 @@ export default function SentenceVariety1(): React.JSX.Element {
 
 			<h1 className="margin-y-50 text-center">Sentence Variety
 												
-				<sup><HashLink smooth to="/tieng-anh/sentence-variety-1">&nbsp;1&nbsp;</HashLink>
-				</sup>
+				{/* <sup><HashLink smooth to="/tieng-anh/sentence-variety-1">&nbsp;1&nbsp;</HashLink>
+				</sup> */}
 
 				{/* <sup><HashLink smooth to="/tieng-anh/sentence-variety-2">&nbsp;2&nbsp;</HashLink>
 				</sup>

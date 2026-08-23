@@ -19,7 +19,7 @@ export default function TheBeautyOfTheGirl1(): React.JSX.Element {
 
 			<h1 className="margin-y-50 text-center">the BEAUty of the GIRL
 												
-				<sup><HashLink smooth to="/tieng-anh/the-beauty-of-the-girl-1">&nbsp;1&nbsp;</HashLink>
+				{/* <sup><HashLink smooth to="/tieng-anh/the-beauty-of-the-girl-1">&nbsp;1&nbsp;</HashLink>
 				</sup>
 
 				<sup><HashLink smooth to="/tieng-anh/the-beauty-of-the-girl-2">&nbsp;2&nbsp;</HashLink>
@@ -32,7 +32,7 @@ export default function TheBeautyOfTheGirl1(): React.JSX.Element {
 				</sup>
 
 				<sup><HashLink smooth to="/tieng-anh/the-beauty-of-the-girl-5">&nbsp;5&nbsp;</HashLink>
-				</sup>
+				</sup> */}
 
 			</h1>
 
