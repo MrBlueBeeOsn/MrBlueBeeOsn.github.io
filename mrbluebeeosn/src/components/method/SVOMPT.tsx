@@ -35,27 +35,27 @@ export default function SVOMPT(): React.JSX.Element {
 
 					{/* T — farthest */}
 					<rect x="136" y="26" width="48" height="18" rx="9" fill="#f1efe8" stroke="#b4b2a9" stroke-width="0.5"/>
-					<text x="160" y="38" text-anchor="middle" font-family="DM Sans, sans-serif" font-size="10" fill="#444441" dominant-baseline="central">Time</text>
+					<text x="160" y="38" text-anchor="middle" font-family="DM Sans, sans-serif" font-size="10" fill="#444441" dominant-baseline="central">TIME</text>
 
 					{/* P */}
 					<rect x="130" y="62" width="60" height="22" rx="11" fill="#e6f1fb" stroke="#85b7eb" stroke-width="0.5"/>
-					<text x="160" y="75" text-anchor="middle" font-family="DM Sans, sans-serif" font-size="11" fill="#0c447c" dominant-baseline="central">Place</text>
+					<text x="160" y="75" text-anchor="middle" font-family="DM Sans, sans-serif" font-size="11" fill="#0c447c" dominant-baseline="central">PLACE</text>
 
 					{/* M */}
 					<rect x="122" y="110" width="76" height="26" rx="13" fill="#faeeda" stroke="#ef9f27" stroke-width="0.5"/>
-					<text x="160" y="125" text-anchor="middle" font-family="DM Sans, sans-serif" font-size="12" fill="#633806" dominant-baseline="central">Manner</text>
+					<text x="160" y="125" text-anchor="middle" font-family="DM Sans, sans-serif" font-size="12" fill="#633806" dominant-baseline="central">MANner</text>
 
 					{/* O */}
 					<rect x="112" y="170" width="96" height="30" rx="15" fill="#faece7" stroke="#f0997b" stroke-width="0.5"/>
-					<text x="160" y="187" text-anchor="middle" font-family="DM Sans, sans-serif" font-size="13" fill="#712b13" dominant-baseline="central">Object</text>
+					<text x="160" y="187" text-anchor="middle" font-family="DM Sans, sans-serif" font-size="13" fill="#712b13" dominant-baseline="central">OBject</text>
 
 					{/* V */}
 					<rect x="100" y="242" width="120" height="36" rx="18" fill="#e1f5ee" stroke="#5dcaa5" stroke-width="0.5"/>
-					<text x="160" y="262" text-anchor="middle" font-family="DM Sans, sans-serif" font-size="14" font-weight="500" fill="#085041" dominant-baseline="central">Verb</text>
+					<text x="160" y="262" text-anchor="middle" font-family="DM Sans, sans-serif" font-size="14" font-weight="500" fill="#085041" dominant-baseline="central">VERB</text>
 
 					{/* S — closest, largest */}
 					<rect x="84" y="322" width="152" height="44" rx="22" fill="#eeedfe" stroke="#afa9ec" stroke-width="0.5"/>
-					<text x="160" y="346" text-anchor="middle" font-family="DM Sans, sans-serif" font-size="16" font-weight="500" fill="#26215c" dominant-baseline="central">Subject</text>
+					<text x="160" y="346" text-anchor="middle" font-family="DM Sans, sans-serif" font-size="16" font-weight="500" fill="#26215c" dominant-baseline="central">SUBject</text>
 				</svg>
 
 				<p className="road-caption">Gần bạn nhất là S — vừa bước ra. Xa dần là V, O, M, P, T.

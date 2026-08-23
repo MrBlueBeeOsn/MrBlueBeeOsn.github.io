@@ -6,9 +6,9 @@ import ViewCounter from '@/components/view/ViewCounter';
 import LikeButton from '@/components/like/LikeButton';
 import SVOMPT from '@/components/method/SVOMPT';
 
-export default function TheGaitOfEnglish1(): React.JSX.Element {
+export default function SVOMPT1(): React.JSX.Element {
 
-	const postId = "TheGaitOfEnglish1";
+	const postId = "SVOMPT1";
 
 	return (<>
 
@@ -18,30 +18,30 @@ export default function TheGaitOfEnglish1(): React.JSX.Element {
 		
 			<h4><HashLink smooth to="/tieng-anh#thinking-terms"><mark className="highlight-tertiary-padding-4-8">THINKing</mark></HashLink></h4>
 
-			<h1 className="margin-y-50 text-center">IC
+			<h1 className="margin-y-50 text-center">SVOMPT
 												
-				<sup><HashLink smooth to="/tieng-anh/the-gait-of-english-1">&nbsp;1&nbsp;</HashLink>
+				<sup><HashLink smooth to="/tieng-anh/SVOMPT-1">&nbsp;1&nbsp;</HashLink>
 				</sup>
 
-				<sup><HashLink smooth to="/tieng-anh/the-gait-of-english-2">&nbsp;2&nbsp;</HashLink>
+				<sup><HashLink smooth to="/tieng-anh/SVOMPT-2">&nbsp;2&nbsp;</HashLink>
 				</sup>
 
-				<sup><HashLink smooth to="/tieng-anh/the-gait-of-english-3">&nbsp;3&nbsp;</HashLink>
+				<sup><HashLink smooth to="/tieng-anh/SVOMPT-3">&nbsp;3&nbsp;</HashLink>
 				</sup>
 
-				<sup><HashLink smooth to="/tieng-anh/the-gait-of-english-4">&nbsp;4&nbsp;</HashLink>
+				<sup><HashLink smooth to="/tieng-anh/SVOMPT-4">&nbsp;4&nbsp;</HashLink>
 				</sup>
 
-				<sup><HashLink smooth to="/tieng-anh/the-gait-of-english-5">&nbsp;5&nbsp;</HashLink>
+				<sup><HashLink smooth to="/tieng-anh/SVOMPT-5">&nbsp;5&nbsp;</HashLink>
 				</sup>
 
-				<sup><HashLink smooth to="/tieng-anh/the-gait-of-english-6">&nbsp;6&nbsp;</HashLink>
+				<sup><HashLink smooth to="/tieng-anh/SVOMPT-6">&nbsp;6&nbsp;</HashLink>
 				</sup>
 
-				<sup><HashLink smooth to="/tieng-anh/the-gait-of-english-7">&nbsp;7&nbsp;</HashLink>
+				<sup><HashLink smooth to="/tieng-anh/SVOMPT-7">&nbsp;7&nbsp;</HashLink>
 				</sup>
 
-				<sup><HashLink smooth to="/tieng-anh/the-gait-of-english-8">&nbsp;8&nbsp;</HashLink>
+				<sup><HashLink smooth to="/tieng-anh/SVOMPT-8">&nbsp;8&nbsp;</HashLink>
 				</sup>
 
 			</h1>
@@ -51,6 +51,41 @@ export default function TheGaitOfEnglish1(): React.JSX.Element {
 			<p className="margin-top-20">Bạn đã bao giờ thấy mình bị "đứng hình" khi đang nói tiếng Anh vì mải lo sắp xếp từ ngữ sao cho đúng ngữ pháp?</p>
 
 			<p>Hãy quên đi những cấu trúc khô khan trên sách vở.</p>
+
+			<p className="margin-top-20"><strong>SVOMPT</strong> là một quy tắc về trật tự từ trong câu tiếng Anh.</p>
+			
+				<ul className="list-square">
+			
+					<li><strong>S</strong> (<strong>SUBject</strong>): Ai hoặc cái gì thực hiện hành động.</li>
+			
+					<li><strong>V</strong> (<strong>VERB</strong>): Hành động trong câu.</li>
+			
+					<li><strong>O</strong> (<strong>OBject</strong>): Người hoặc vật chịu tác động của hành động.</li>
+
+					<li><strong>M</strong> (<strong>MANner</strong>): Hành động diễn ra như thế nào (ví dụ: WELL, FAST, QUIetly).</li>
+			
+					<li><strong>P</strong> (<strong>PLACE</strong>): Hành động diễn ra ở đâu (ví dụ: at HOME, in the PARK).</li>
+
+					<li><strong>T</strong> (<strong>TIME</strong>): Hành động diễn ra khi nào (ví dụ: toDAY, YESterday, at 5 pM).</li>
+		
+			
+				</ul>
+			
+			<p className="margin-top-20">Ví dụ:</p>
+			
+			<div className="example">
+
+				<p className="example-sentence">
+					<span className="s">he</span> &nbsp;<span className="v">PLAYS</span> &nbsp;<span className="o">FOOTball</span> &nbsp;<span className="m">WELL</span> &nbsp;<span className="p">at the CLUB</span> &nbsp;<span className="t">on SUNdays</span>.
+				</p>
+
+				<p className="example-sentence">
+					<span className="s">Anh ấy</span> &nbsp;<span className="v">chơi</span> &nbsp;<span className="o">bóng đá</span> &nbsp;<span className="m">rất giỏi</span> &nbsp;<span className="p">ở câu lạc bộ</span> &nbsp;<span className="t">vào các ngày Chủ nhật</span>.
+				</p>
+
+				<p>Câu này sử dụng thời hiện tại đơn để diễn tả một thói quen hoặc một hoạt động diễn ra thường xuyên định kỳ vào mỗi ngày Chủ nhật hàng tuần.</p>
+
+			</div>
 
 			<p>Hãy tưởng tượng tiếng Anh là một <strong>đường thẳng tắp</strong> phóng từ bạn về phía trước.</p>
 
@@ -69,7 +104,7 @@ export default function TheGaitOfEnglish1(): React.JSX.Element {
 					<li><strong>O</strong>, <strong>M</strong>, <strong>P</strong>, <strong>T</strong>:</li>
 					<li className="margin-bottom-20 list-none">Là những cột mốc tiếp theo nằm xa dần trên con đường đó.</li>
 
-					<li><strong>V</strong> (<strong>Verb</strong> - <strong>Động cơ</strong>):</li>
+					<li><strong>V</strong> (<strong>Verb</strong> - <strong>Hành động</strong>):</li>
 					<li className="margin-bottom-20 list-none">Là bước tiến đầu tiên. "Làm gì" là lực đẩy để bạn đi tiếp.</li>
 
 					<li><strong>S</strong> (<strong>Subject</strong> - <strong>Danh chủ</strong>):</li>
@@ -85,42 +120,44 @@ export default function TheGaitOfEnglish1(): React.JSX.Element {
 
 			<p className="margin-top-20">Hãy thử áp dụng đường thẳng này vào một câu nói cụ thể.</p>
 
+			<div className="example">
+
+				<p className="example-label">Ví dụ</p>
+
+				<p className="example-sentence">
+					<span className="s">my FRIEND</span> &nbsp;<span className="v">PLAYS</span> &nbsp;<span className="o">piANo</span> &nbsp;<span className="m">BEAUtifully</span> &nbsp;<span className="p">at the HALL</span> &nbsp;<span className="t">toNIGHT</span>.
+				</p>
+
+				<p className="example-sentence">
+					<span className="s">Bạn tôi</span> &nbsp;<span className="v">chơi</span> &nbsp;<span className="o">piANo</span> &nbsp;<span className="m">rất hay</span> &nbsp;<span className="p">ở hội trường</span> &nbsp;<span className="t">tối nay</span>.
+				</p>
+
+				<p>Trong ngữ cảnh này, "plays" dùng thời hiện tại đơn có thể diễn tả một lịch trình, sự kiện đã được lên kế hoạch sẵn diễn ra trong tương lai gần (tối nay). Ngoài ra, câu này cũng có thể dùng thời hiện tại tiếp diễn (is PLAYing) để nói về hành động sẽ xảy ra vào tối nay, nhưng với thời hiện tại đơn thì câu mang sắc thái như một lịch trình chính thức.</p>
+
+			</div>
+
 			<p>Nếu nhìn theo đường thẳng tiến tới, bạn sẽ thấy:</p>
 
 			<div className="pill-row">
 
 				<ul className="list-square">
 
-					<li className="list-none">Chân trời xa nhất: <span className="pill t">tonight (tối nay) — T</span> - Khi nào?</li>
+					<li className="margin-bottom-20 list-none"><span className="pill t">toNIGHT (tối nay)</span> TIME: Chân trời xa nhất - Khi nào?</li>
 
-					<li className="list-none">↑</li>
-					<li className="list-none">Không gian: <span className="pill p">at the hall (tại sảnh) — P</span> - Ở đâu?</li>
+					<li className="margin-bottom-20 list-none"><span className="pill p">at the HALL (tại sảnh)</span> PLACE: Không gian - Ở đâu?</li>
 
-					<li className="list-none">↑</li>
-					<li className="list-none">Cảm giác: <span className="pill m">beautifully (hay) — M</span> - Chơi như thế nào?</li>
+					<li className="margin-bottom-20 list-none"><span className="pill m">BEAUtifully (hay)</span> MANner: Cảm giác - Chơi như thế nào?</li>
 
-					<li className="list-none">↑</li>
-					<li className="list-none">Vật gặp trên đường: <span className="pill o">piano — O</span> - Chơi cái gì?</li>
+					<li className="margin-bottom-20 list-none"><span className="pill o">piANo</span> OBject: Vật gặp trên đường - Chơi cái gì?</li>
 
-					<li className="list-none">↑</li>
-					<li className="list-none">Bước tiến: <span className="pill v">plays (chơi) — V</span> - Hành động xuất hiện tiếp theo.</li>
+					<li className="margin-bottom-20 list-none"><span className="pill v">PLAYS (chơi)</span> VERB: Bước tiến - Hành động xuất hiện tiếp theo</li>
 
-					<li className="list-none">↑</li>
-					<li className="margin-bottom-20 list-none">Điểm xuất phát: <span className="pill s">My friend (Bạn tôi) — S</span> - Vừa nghĩ đến là nói ngay.</li>
-			
+					<li className="list-none"><span className="pill s">my FRIEND (Bạn tôi)</span> SUBject: Điểm xuất phát - Vừa nghĩ đến là nói ngay</li>
+
 				</ul>
 
 			</div>
 
-			<div className="example">
-
-				<p className="example-label">Ví dụ</p>
-
-				<p className="example-sentence">
-					<span className="s">My friend (S)</span> &nbsp;<span className="v">plays (V)</span> &nbsp;<span className="o">piano (O)</span> &nbsp;<span className="m">beautifully (M)</span> &nbsp;<span className="p">at the hall (P)</span> &nbsp;<span className="t">tonight (T)</span>.
-				</p>
-
-			</div>
 
 			<p className="margin-top-20">Tất cả nằm trên một đường chạy duy nhất.</p>
 
@@ -135,7 +172,7 @@ export default function TheGaitOfEnglish1(): React.JSX.Element {
 				<ul className="list-square">
 			
 					<li><strong>Nói</strong> (<strong>Tư duy Đường thẳng</strong>):</li>
-					<li className="margin-bottom-20 list-none">Từ ngữ có tính thời điểm. Khi đã nói ra là nó "biến mất" về phía xa. Tư duy này giúp bạn bớt lo lắng về lỗi sai. Bạn chỉ việc tập trung vào việc: "Tiếp theo là toa tàu nào?" trên đường thẳng SVOMPT.</li>
+					<li className="margin-bottom-20 list-none">Từ ngữ có tính thời điểm. Khi đã nói ra là nó "biến mất" về phía xa. Tư duy này giúp bạn bớt lo lắng về lỗi sai. Bạn chỉ việc tập trung vào việc: "Tiếp theo là toa tàu nào?" trên đường thẳng <strong>SVOMPT</strong>.</li>
 
 					<li><strong>Viết</strong> (<strong>Tư duy Hàng ngang</strong>):</li>
 					<li className="list-none">Chữ nằm trên giấy nên bạn hay có thói quen nhìn tới nhìn lui để sửa. Điều này rất tốt khi làm văn, nhưng lại là "kẻ thù" của phản xạ nói.</li>
@@ -152,7 +189,7 @@ export default function TheGaitOfEnglish1(): React.JSX.Element {
 			
 					<li><strong>Ưu tiên cái cụ thể trước</strong> (<strong>Nhỏ trước</strong>, <strong>Lớn sau</strong>):</li>
 					<li className="list-none">Nếu có hai mốc thời gian hay địa điểm, cái nào cụ thể hơn thì đặt ở gần hơn trên đường thẳng.</li>
-					<li className="margin-bottom-20 list-none">Ví dụ: At 8 o'clock (gần) on Monday (xa).</li>
+					<li className="margin-bottom-20 list-none">Ví dụ: at 8 o'CLOCK (gần) on MONday (xa).</li>
 
 					<li><strong>Mắt luôn nhìn về phía trước</strong>:</li>
 					<li className="list-none">Đừng cố dịch ngược từ tiếng Việt. Hãy cứ để các từ <strong>S</strong>-<strong>V</strong>-<strong>O</strong>-<strong>M</strong>-<strong>P</strong>-<strong>T</strong> nối đuôi nhau phóng đi.</li>

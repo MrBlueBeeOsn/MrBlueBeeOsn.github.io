@@ -228,14 +228,14 @@ const Posts = lazy(() => import('@/data/Posts'));
 	const SentenceVariety9 = lazy(() => import('@/2_main/english/tienganh/thinking/sv/SentenceVariety9'));
 
 
-	const TheGaitOfEnglish1 = lazy(() => import('@/2_main/english/tienganh/thinking/ic/TheGaitOfEnglish1'));
-	const TheGaitOfEnglish2 = lazy(() => import('@/2_main/english/tienganh/thinking/ic/TheGaitOfEnglish2'));
-	const TheGaitOfEnglish3 = lazy(() => import('@/2_main/english/tienganh/thinking/ic/TheGaitOfEnglish3'));
-	const TheGaitOfEnglish4 = lazy(() => import('@/2_main/english/tienganh/thinking/ic/TheGaitOfEnglish4'));
-	const TheGaitOfEnglish5 = lazy(() => import('@/2_main/english/tienganh/thinking/ic/TheGaitOfEnglish5'));
-	const TheGaitOfEnglish6 = lazy(() => import('@/2_main/english/tienganh/thinking/ic/TheGaitOfEnglish6'));
-	const TheGaitOfEnglish7 = lazy(() => import('@/2_main/english/tienganh/thinking/ic/TheGaitOfEnglish7'));
-	const TheGaitOfEnglish8 = lazy(() => import('@/2_main/english/tienganh/thinking/ic/TheGaitOfEnglish8'));
+	const SVOMPT1 = lazy(() => import('@/2_main/english/tienganh/thinking/svompt/SVOMPT1'));
+	const SVOMPT2 = lazy(() => import('@/2_main/english/tienganh/thinking/svompt/SVOMPT2'));
+	const SVOMPT3 = lazy(() => import('@/2_main/english/tienganh/thinking/svompt/SVOMPT3'));
+	const SVOMPT4 = lazy(() => import('@/2_main/english/tienganh/thinking/svompt/SVOMPT4'));
+	const SVOMPT5 = lazy(() => import('@/2_main/english/tienganh/thinking/svompt/SVOMPT5'));
+	const SVOMPT6 = lazy(() => import('@/2_main/english/tienganh/thinking/svompt/SVOMPT6'));
+	const SVOMPT7 = lazy(() => import('@/2_main/english/tienganh/thinking/svompt/SVOMPT7'));
+	const SVOMPT8 = lazy(() => import('@/2_main/english/tienganh/thinking/svompt/SVOMPT8'));
 
 	const ThinkStraightFlowFast1 = lazy(() => import('@/2_main/english/tienganh/thinking/sf/ThinkStraightFlowFast1'));
 	const ThinkStraightFlowFast2 = lazy(() => import('@/2_main/english/tienganh/thinking/sf/ThinkStraightFlowFast2'));
@@ -831,14 +831,14 @@ export default function AppRoutes(): React.JSX.Element {
 					<Route path="/tieng-anh/sentence-variety-9" element={<SentenceVariety9 />} />
 
 
-					<Route path="/tieng-anh/the-gait-of-english-1" element={<TheGaitOfEnglish1 />} />
-					<Route path="/tieng-anh/the-gait-of-english-2" element={<TheGaitOfEnglish2 />} />
-					<Route path="/tieng-anh/the-gait-of-english-3" element={<TheGaitOfEnglish3 />} />
-					<Route path="/tieng-anh/the-gait-of-english-4" element={<TheGaitOfEnglish4 />} />
-					<Route path="/tieng-anh/the-gait-of-english-5" element={<TheGaitOfEnglish5 />} />
-					<Route path="/tieng-anh/the-gait-of-english-6" element={<TheGaitOfEnglish6 />} />
-					<Route path="/tieng-anh/the-gait-of-english-7" element={<TheGaitOfEnglish7 />} />
-					<Route path="/tieng-anh/the-gait-of-english-8" element={<TheGaitOfEnglish8 />} />
+					<Route path="/tieng-anh/SVOMPT-1" element={<SVOMPT1 />} />
+					<Route path="/tieng-anh/SVOMPT-2" element={<SVOMPT2 />} />
+					<Route path="/tieng-anh/SVOMPT-3" element={<SVOMPT3 />} />
+					<Route path="/tieng-anh/SVOMPT-4" element={<SVOMPT4 />} />
+					<Route path="/tieng-anh/SVOMPT-5" element={<SVOMPT5 />} />
+					<Route path="/tieng-anh/SVOMPT-6" element={<SVOMPT6 />} />
+					<Route path="/tieng-anh/SVOMPT-7" element={<SVOMPT7 />} />
+					<Route path="/tieng-anh/SVOMPT-8" element={<SVOMPT8 />} />
 
 					<Route path="/tieng-anh/think-straight-flow-fast-1" element={<ThinkStraightFlowFast1 />} />
 					<Route path="/tieng-anh/think-straight-flow-fast-2" element={<ThinkStraightFlowFast2 />} />

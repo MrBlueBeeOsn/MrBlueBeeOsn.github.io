@@ -965,28 +965,28 @@ export default function TiengAnhIndex(): React.JSX.Element {
 
             <li>
               <div className="li-content">
-                <Link to="/tieng-anh/the-gait-of-english-1">IC
+                <Link to="/tieng-anh/SVOMPT-1">SVOMPT
                 <sup>&nbsp;1&nbsp;</sup>
                 </Link>
-                <Link to="/tieng-anh/the-gait-of-english-2">
+                <Link to="/tieng-anh/SVOMPT-2">
                   <sup>&nbsp;2&nbsp;</sup>
                 </Link>
-                <Link to="/tieng-anh/the-gait-of-english-3">
+                <Link to="/tieng-anh/SVOMPT-3">
                   <sup>&nbsp;3&nbsp;</sup>
                 </Link>
-                <Link to="/tieng-anh/the-gait-of-english-4">
+                <Link to="/tieng-anh/SVOMPT-4">
                   <sup>&nbsp;4&nbsp;</sup>
                 </Link>
-                <Link to="/tieng-anh/the-gait-of-english-5">
+                <Link to="/tieng-anh/SVOMPT-5">
                   <sup>&nbsp;5&nbsp;</sup>
                 </Link>
-                <Link to="/tieng-anh/the-gait-of-english-6">
+                <Link to="/tieng-anh/SVOMPT-6">
                   <sup>&nbsp;6&nbsp;</sup>
                 </Link>
-                <Link to="/tieng-anh/the-gait-of-english-7">
+                <Link to="/tieng-anh/SVOMPT-7">
                   <sup>&nbsp;7&nbsp;</sup>
                 </Link>
-                <Link to="/tieng-anh/the-gait-of-english-8">
+                <Link to="/tieng-anh/SVOMPT-8">
                   <sup>&nbsp;8&nbsp;</sup>
                 </Link>
               

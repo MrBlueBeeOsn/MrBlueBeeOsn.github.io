@@ -6,9 +6,9 @@ import ViewCounter from '@/components/view/ViewCounter';
 import LikeButton from '@/components/like/LikeButton';
 import SVOMPT from '@/components/method/SVOMPT';
 
-export default function TheGaitOfEnglish8(): React.JSX.Element {
+export default function SVOMPT8(): React.JSX.Element {
 
-	const postId = "TheGaitOfEnglish8";
+	const postId = "SVOMPT8";
 
 	return (<>
 
@@ -18,30 +18,30 @@ export default function TheGaitOfEnglish8(): React.JSX.Element {
 		
 			<h4><HashLink smooth to="/tieng-anh#thinking-terms"><mark className="highlight-tertiary-padding-4-8">THINKing</mark></HashLink></h4>
 
-			<h1 className="margin-y-50 text-center">IC
+			<h1 className="margin-y-50 text-center">SVOMPT
 												
-				<sup><HashLink smooth to="/tieng-anh/the-gait-of-english-1">&nbsp;1&nbsp;</HashLink>
+				<sup><HashLink smooth to="/tieng-anh/SVOMPT-1">&nbsp;1&nbsp;</HashLink>
 				</sup>
 								
-				<sup><HashLink smooth to="/tieng-anh/the-gait-of-english-2">&nbsp;2&nbsp;</HashLink>
+				<sup><HashLink smooth to="/tieng-anh/SVOMPT-2">&nbsp;2&nbsp;</HashLink>
 				</sup>
 
-				<sup><HashLink smooth to="/tieng-anh/the-gait-of-english-3">&nbsp;3&nbsp;</HashLink>
+				<sup><HashLink smooth to="/tieng-anh/SVOMPT-3">&nbsp;3&nbsp;</HashLink>
 				</sup>
 
-				<sup><HashLink smooth to="/tieng-anh/the-gait-of-english-4">&nbsp;4&nbsp;</HashLink>
+				<sup><HashLink smooth to="/tieng-anh/SVOMPT-4">&nbsp;4&nbsp;</HashLink>
 				</sup>
 
-				<sup><HashLink smooth to="/tieng-anh/the-gait-of-english-5">&nbsp;5&nbsp;</HashLink>
+				<sup><HashLink smooth to="/tieng-anh/SVOMPT-5">&nbsp;5&nbsp;</HashLink>
 				</sup>
 
-				<sup><HashLink smooth to="/tieng-anh/the-gait-of-english-6">&nbsp;6&nbsp;</HashLink>
+				<sup><HashLink smooth to="/tieng-anh/SVOMPT-6">&nbsp;6&nbsp;</HashLink>
 				</sup>
 
-				<sup><HashLink smooth to="/tieng-anh/the-gait-of-english-7">&nbsp;7&nbsp;</HashLink>
+				<sup><HashLink smooth to="/tieng-anh/SVOMPT-7">&nbsp;7&nbsp;</HashLink>
 				</sup>
 
-				<sup><HashLink smooth to="/tieng-anh/the-gait-of-english-8">&nbsp;8&nbsp;</HashLink>
+				<sup><HashLink smooth to="/tieng-anh/SVOMPT-8">&nbsp;8&nbsp;</HashLink>
 				</sup>
 
 			</h1>
