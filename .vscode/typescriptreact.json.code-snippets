@@ -2199,6 +2199,15 @@
 // 		"description": "className list-none"
 // 	},
 
+// 	// .list-none-marginbottom20
+// 	"template className lnmarginbottom20": {
+// 		"prefix": ".list-none-marginbottom20",
+// 		"body": [
+// 			" className=\"margin-bottom-20 list-none\""
+// 		],
+// 		"description": "className list-none"
+// 	},
+
 // 	// .value="1"
 // 	"template value": {
 // 		"prefix": ".value",

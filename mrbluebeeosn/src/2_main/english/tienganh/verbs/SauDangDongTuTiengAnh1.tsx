@@ -115,7 +115,7 @@ export default function SauDangDongTuTiengAnh1(): React.JSX.Element {
 
 				<p className="margin-top-20 text-indent-whole"><strong>Mẹo nhớ cặp 2</strong>: “Chuyện xưa đã xong, có ngày tháng rõ ràng → dùng worked. Chuyện xưa nhưng vẫn ‘ám ảnh’ hiện tại hoặc chưa kết thúc → dùng have/has/had worked!”</p>
 
-				<p><Link to="/tieng-anh/hieu-dung-ve-thi-hien-tai-hoan-thanh" className="text-indent-whole">Hiểu Đúng Về Thì Hiện Tại Hoàn Thành</Link></p>
+				<p><Link to="/tieng-anh/present-perfect" className="text-indent-whole">Hiểu Đúng Về Thì Hiện Tại Hoàn Thành</Link></p>
 
 			</div>
 

@@ -143,7 +143,7 @@ const Posts = lazy(() => import('@/data/Posts'));
 	const SauDangDongTuTiengAnh1 = lazy(() => import('@/2_main/english/tienganh/verbs/SauDangDongTuTiengAnh1'));
 	const SauDangDongTuTiengAnh2 = lazy(() => import('@/2_main/english/tienganh/verbs/SauDangDongTuTiengAnh2'));
 
-	const HieuDungVeThiHienTaiHoanThanh = lazy(() => import('@/2_main/english/tienganh/verbs/HieuDungVeThiHienTaiHoanThanh'));
+	const PREsentPERfect = lazy(() => import('@/2_main/english/tienganh/verbs/PREsentPERfect'));
 
 	const GerundsVaInfinitives = lazy(() => import('@/2_main/english/tienganh/verbs/GerundsVaInfinitives'));
 	const NhanBietTinhTuTiengAnh = lazy(() => import('@/2_main/english/tienganh/adjective/NhanBietTinhTuTiengAnh'));
@@ -747,7 +747,7 @@ export default function AppRoutes(): React.JSX.Element {
 					<Route path="/tieng-anh/6-dang-dong-tu-tieng-anh-1" element={<SauDangDongTuTiengAnh1 />} />
 					<Route path="/tieng-anh/6-dang-dong-tu-tieng-anh-2" element={<SauDangDongTuTiengAnh2 />} />
 
-					<Route path="/tieng-anh/hieu-dung-ve-thi-hien-tai-hoan-thanh" element={<HieuDungVeThiHienTaiHoanThanh />} />
+					<Route path="/tieng-anh/present-perfect" element={<PREsentPERfect />} />
 
 					<Route path="/tieng-anh/gerunds-va-infinitives" element={<GerundsVaInfinitives />} />
 					<Route path="/tieng-anh/bi-quyet-nhan-biet-tinh-tu-trong-tieng-anh" element={<NhanBietTinhTuTiengAnh />} />
