@@ -25,13 +25,17 @@ export default function GerundsVaInfinitives(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>I enjoy <strong>swimming</strong> → đúng</li>
+					<li>i enJOY SWIMming. → đúng</li>
+					<li className="list-none">Tôi thích bơi lội. (Thời hiện tại đơn)</li>
+					<li className="margin-bottom-20 list-none">Từ enJOY thường được theo sau bởi một từ chỉ hành động được thêm đuôi -ing (cụ thể ở đây là SWIMming) để diễn tả một sở thích hoặc niềm vui chung chung ở hiện tại.</li>
 			
-					<li>I enjoy <strong>to swim</strong> → sai</li>
+					<li className="margin-bottom-20">i enJOY to SWIM. → sai</li>
 			
-					<li>I want <strong>to go</strong> → đúng</li>
+					<li>i WANT to GO. → đúng</li>
+					<li className="list-none">Tôi muốn đi. (Thời hiện tại đơn)</li>
+					<li className="margin-bottom-20 list-none">Từ WANT dùng để diễn tả mong muốn ở hiện tại, và nó được nối tiếp ngay bằng một từ chỉ hành động có chữ to đi kèm ở phía trước (to GO).</li>
 
-					<li>I want <strong>going</strong> → sai kinh khủng</li>
+					<li>i WANT GOing → sai kinh khủng</li>
 			
 				</ul>
 
@@ -39,9 +43,13 @@ export default function GerundsVaInfinitives(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>I stopped <strong>smoking</strong> (nghỉ hút thuốc)</li>
+					<li>i STOPPED SMOKing.</li>
+					<li className="list-none">Tôi đã bỏ hút thuốc (rồi). (Thời quá khứ đơn)</li>
+					<li className="margin-bottom-20 list-none">Cấu trúc stop đi kèm với từ chỉ hành động có đuôi -ing (SMOKing) mang ý nghĩa là ngừng hẳn hoặc từ bỏ một thói quen (tôi đã từng hút thuốc và bây giờ không làm việc đó nữa).</li>
 			
-					<li>I stopped <strong>to smoke</strong> (dừng lại để… hút thuốc)</li>
+					<li>i STOPPED to SMOKE.</li>
+					<li className="list-none">Tôi đã dừng lại để hút thuốc. (Thời quá khứ đơn)</li>
+					<li className="margin-bottom-20 list-none">Cấu trúc stop đi kèm với từ chỉ hành động có chữ to ở trước (to SMOKE) mang ý nghĩa là tạm dừng một việc đang làm lại để chuyển sang thực hiện một việc khác (ví dụ: đang đi dọc đường thì dừng chân lại để hút thuốc).</li>
 			
 				</ul>
 			
@@ -224,51 +232,49 @@ export default function GerundsVaInfinitives(): React.JSX.Element {
 
 				<ol>
 
-					<li>I’m looking forward to __________ (see) you next week.</li>
+					<li>i’m LOOKing FORward to __________ (SEE) you next WEEK.</li>
 
-					<li>She admitted __________ (steal) the cookies.</li>
+					<li>she adMITted __________ (STEAL) the COOKies..</li>
 
-					<li>Would you mind __________ (not/play) music so loud?</li>
+					<li>would you MIND __________ (NOT/PLAY) MUsic SO LOUD?</li>
 			
-					<li>I tried __________ (open) the jar but I couldn’t.</li>
+					<li>i TRIED __________ (Open) the JAR but i COULDn't.</li>
 			
-					<li>We regret __________ (inform) you that the event has been canceled.</li>
+					<li>we reGRET __________ (inFORM) you that the eVENT has been CANceled.</li>
 			
 				</ol>
 
-			<p className="margin-top-20">(Đáp án ở cuối bài – đừng nhìn vội nhé!)</p>
+			<p className="margin-top-20"><strong>Đáp án bài test nhỏ</strong></p>
+			
+				<ol>
+			
+					<li>SEEing</li>
+			
+					<li>STEALing / having STOlen (cả hai đều đúng, nhưng stealing phổ biến hơn)</li>
+			
+					<li>NOT PLAYing</li>
+
+					<li>to OPen</li>
+			
+					<li>to inFORM</li>
+			
+				</ol>
 
 			<h3 className="margin-y-50 text-center">Kết luận: Đừng sợ, hãy "làm quen" với họ</h3>
 
-			<p>Gerunds và Infinitives không phải là quy tắc cần học thuộc lòng, mà là <strong>hai cách nhìn khác nhau về hành động</strong>:</p>
+			<p>GERunds và inFINitives không phải là quy tắc cần học thuộc lòng, mà là <strong>hai cách nhìn khác nhau về hành động</strong>:</p>
 			
 				<ul className="list-square">
 
-					<li>Gerund (V-ing) = hành động được xem như <strong>một thứ</strong>, <strong>một trải nghiệm</strong></li>
+					<li>GERund (V-ing) = hành động được xem như <strong>một thứ</strong>, <strong>một trải nghiệm</strong></li>
 			
-					<li>Infinitive (to V) = hành động được xem như <strong>một mục tiêu</strong>, <strong>một ý định</strong></li>
+					<li>inFINitive (to V) = hành động được xem như <strong>một mục tiêu</strong>, <strong>một ý định</strong></li>
 			
 				</ul>
 
 			<p className="margin-top-20">Khi bạn bắt đầu nghĩ theo cách này thay vì cố nhớ từng động cơ, bạn sẽ thấy chúng… thân thiện hơn rất nhiều.</p>
 
 			<p>Hãy thử nói to một câu với cả hai cách và cảm nhận sự khác biệt. Bạn sẽ thấy ngay: ngôn ngữ không chỉ là quy tắc, mà còn là <strong>cảm giác</strong>.</p>
-
-			<p className="margin-top-20"><strong>Đáp án bài test nhỏ</strong></p>
-			
-				<ol>
-			
-					<li>seeing</li>
-			
-					<li>stealing / having stolen (cả hai đều đúng, nhưng stealing phổ biến hơn)</li>
-			
-					<li>not playing</li>
-
-					<li>to open</li>
-			
-					<li>to inform</li>
-			
-				</ol>
 
 			<p className="margin-top-20">Chúc bạn sớm "hòa hợp" với hai người bạn Gerund & Infinitive nhé! 💙</p>
 

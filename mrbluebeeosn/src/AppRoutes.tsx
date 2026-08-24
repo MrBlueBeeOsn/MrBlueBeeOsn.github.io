@@ -277,8 +277,8 @@ const Posts = lazy(() => import('@/data/Posts'));
 
 	const VietTiengAnhMuotMaHon = lazy(() => import('@/2_main/english/tienganh/VietTiengAnhMuotMaHon'))
 
-	const Bang50DongTuBatQuyTac = lazy(() => import('@/2_main/english/tienganh/verbs/Bang50DongTuBatQuyTac'))
-	const Bang30PhrasalVerbs = lazy(() => import('@/2_main/english/tienganh/verbs/Bang30PhrasalVerbs'))
+	const IrregularVerbs = lazy(() => import('@/2_main/english/tienganh/verbs/IrregularVerbs'))
+	const PhrasalVerbs = lazy(() => import('@/2_main/english/tienganh/verbs/PhrasalVerbs'))
 	
 	
 
@@ -882,8 +882,8 @@ export default function AppRoutes(): React.JSX.Element {
 					
 					<Route path="/tieng-anh/meo-hay-de-viet-tieng-anh-muot-ma-hon" element={<VietTiengAnhMuotMaHon />} />
 
-					<Route path="/tieng-anh/bang-dong-tu-bat-quy-tac-pho-bien" element={<Bang50DongTuBatQuyTac />} />
-					<Route path="/tieng-anh/bang-30-phrasal-verbs-pho-bien" element={<Bang30PhrasalVerbs />} />
+					<Route path="/tieng-anh/bang-dong-tu-bat-quy-tac-pho-bien" element={<IrregularVerbs />} />
+					<Route path="/tieng-anh/phrasal-verbs" element={<PhrasalVerbs />} />
 
 
 

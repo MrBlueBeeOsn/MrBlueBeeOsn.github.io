@@ -5,9 +5,9 @@ import EyeIcon from '@/components/view/EyeIcon';
 import ViewCounter from '@/components/view/ViewCounter';
 import LikeButton from '@/components/like/LikeButton';
 
-export default function Bang50DongTuBatQuyTac(): React.JSX.Element {
+export default function IrregularVerbs(): React.JSX.Element {
 
-	const postId = "Bang50DongTuBatQuyTac";
+	const postId = "IrregularVerbs";
 
 	return (<>
 
@@ -17,13 +17,13 @@ export default function Bang50DongTuBatQuyTac(): React.JSX.Element {
 		
 			<h4><HashLink smooth to="/tieng-anh#verbs-terms"><mark className="highlight-tertiary-padding-4-8">VERBS</mark></HashLink></h4>
 
-			<h1 className="margin-y-50 text-center">Động cơ bất quy tắc</h1>
+			<h1 className="margin-y-50 text-center">irREGular VERBS</h1>
 
 			<h4 className="margin-bottom-30 text-center">Bảng đầy đủ & cách sử dụng chi tiết nhất (2025) </h4>
 
-			<p>Động cơ bất quy tắc (irregular verbs) là “cơn ác mộng” của rất nhiều người học tiếng Anh, vì chúng không theo quy tắc thêm -ed như hành động thường. Tuy nhiên, chỉ cần nắm vững khoảng <strong>60–70 hành động phổ biến nhất</strong>, bạn đã có thể giao tiếp tự tin, viết email chuyên nghiệp, thi IELTS/TOEIC đạt điểm cao và thậm chí nói chuyện như người bản xứ ở mức trung cấp – cao cấp.</p>
+			<p>Hành động bất quy tắc (irregular verbs) là “cơn ác mộng” của rất nhiều người học tiếng Anh, vì chúng không theo quy tắc thêm -ed như hành động thường. Tuy nhiên, chỉ cần nắm vững khoảng <strong>60–70 hành động phổ biến nhất</strong>, bạn đã có thể giao tiếp tự tin, viết email chuyên nghiệp, thi IELTS/TOEIC đạt điểm cao và thậm chí nói chuyện như người bản xứ ở mức trung cấp – cao cấp.</p>
 
-			<p>Dưới đây là bảng <strong>động cơ bất quy tắc phổ biến nhất</strong> (được cập nhật theo mức độ sử dụng thực tế năm 2025), kèm giải thích cách dùng rõ ràng, dễ nhớ.</p>
+			<p>Dưới đây là bảng <strong>hành động bất quy tắc phổ biến nhất</strong> (được cập nhật theo mức độ sử dụng thực tế năm 2025), kèm giải thích cách dùng rõ ràng, dễ nhớ.</p>
 
 			<h3 className="margin-y-50 text-center">Bảng hành động bất quy tắc phổ biến nhất</h3>
 
@@ -503,939 +503,86 @@ export default function Bang50DongTuBatQuyTac(): React.JSX.Element {
 								<td>built</td>
 								<td>xây dựng</td>
 						</tr>
-
-						<tr>
-								<td>59</td>
-								<td>catches</td>
-								<td>caught</td>
-								<td>caught</td>
-								<td>bắt, nắm lấy</td>
-						</tr>
-
-						<tr>
-								<td>60</td>
-								<td>throws</td>
-								<td>threw</td>
-								<td>thrown</td>
-								<td>ném, quăng</td>
-						</tr>
 						
 					</tbody>
 				</table>
 
 			
-			<table className="margin-y-50">
-					<thead>
-						<tr>
-							<th>STT</th>
-							<th>Ví dụ</th>
-						</tr>
-					</thead>
-
-					<tbody>
-
-						<tr>
-							<td>01</td>
-							<td>
-									<br/>
-									<br/><br/>
-
-									<br/>
-									<br/><br/>
-
-									<br/>
-									<br/><br/>
-
-							</td>
-						</tr>
-
-						<tr>
-							<td>02</td>
-							<td>
-									<br/>
-									<br/><br/>
-
-									<br/>
-									<br/><br/>
-
-									<br/>
-									<br/><br/>
-
-							</td>
-						</tr>
-						
-						<tr>
-							<td>03</td>
-							<td>
-									<br/>
-									<br/><br/>
-
-									<br/>
-									<br/><br/>
-
-									<br/>
-									<br/><br/>
-
-							</td>
-						</tr>
-
-						<tr>
-							<td>04</td>
-							<td>
-									<br/>
-									<br/><br/>
-
-									<br/>
-									<br/><br/>
-
-									<br/>
-									<br/><br/>
-
-							</td>
-						</tr>
-
-						<tr>
-							<td>05</td>
-							<td>
-									<br/>
-									<br/><br/>
-
-									<br/>
-									<br/><br/>
-
-									<br/>
-									<br/><br/>
-
-							</td>
-						</tr>
-						
-						<tr>
-							<td>06</td>
-							<td>
-									<br/>
-									<br/><br/>
-
-									<br/>
-									<br/><br/>
-
-									<br/>
-									<br/><br/>
-
-							</td>
-						</tr>
-
-						<tr>
-							<td>07</td>
-							<td>
-									<br/>
-									<br/><br/>
-
-									<br/>
-									<br/><br/>
-
-									<br/>
-									<br/><br/>
-
-							</td>
-						</tr>
-
-						<tr>
-							<td>08</td>
-							<td>
-									<br/>
-									<br/><br/>
-
-									<br/>
-									<br/><br/>
-
-									<br/>
-									<br/><br/>
-
-							</td>
-						</tr>
-						
-						<tr>
-							<td>09</td>
-							<td>
-									<br/>
-									<br/><br/>
-
-									<br/>
-									<br/><br/>
-
-									<br/>
-									<br/><br/>
-
-							</td>
-						</tr>
-
-						<tr>
-							<td>10</td>
-							<td>
-									<br/>
-									<br/><br/>
-
-									<br/>
-									<br/><br/>
-
-									<br/>
-									<br/><br/>
-
-							</td>
-						</tr>
-
-						<tr>
-							<td>11</td>
-							<td>
-									<br/>
-									<br/><br/>
-
-									<br/>
-									<br/><br/>
-
-									<br/>
-									<br/><br/>
-
-							</td>
-						</tr>
-
-						<tr>
-							<td>12</td>
-							<td>
-									<br/>
-									<br/><br/>
-
-									<br/>
-									<br/><br/>
-
-									<br/>
-									<br/><br/>
-
-							</td>
-						</tr>
-						
-						<tr>
-							<td>13</td>
-							<td>
-									<br/>
-									<br/><br/>
-
-									<br/>
-									<br/><br/>
-
-									<br/>
-									<br/><br/>
-
-							</td>
-						</tr>
-
-						<tr>
-							<td>14</td>
-							<td>
-									<br/>
-									<br/><br/>
-
-									<br/>
-									<br/><br/>
-
-									<br/>
-									<br/><br/>
-
-							</td>
-						</tr>
-
-						<tr>
-							<td>15</td>
-							<td>
-									<br/>
-									<br/><br/>
-
-									<br/>
-									<br/><br/>
-
-									<br/>
-									<br/><br/>
-
-							</td>
-						</tr>
-						
-						<tr>
-							<td>16</td>
-							<td>
-									<br/>
-									<br/><br/>
-
-									<br/>
-									<br/><br/>
-
-									<br/>
-									<br/><br/>
-
-							</td>
-						</tr>
-
-						<tr>
-							<td>17</td>
-							<td>
-									<br/>
-									<br/><br/>
-
-									<br/>
-									<br/><br/>
-
-									<br/>
-									<br/><br/>
-
-							</td>
-						</tr>
-
-						<tr>
-							<td>18</td>
-							<td>
-									<br/>
-									<br/><br/>
-
-									<br/>
-									<br/><br/>
-
-									<br/>
-									<br/><br/>
-
-							</td>
-						</tr>
-						
-						<tr>
-							<td>19</td>
-							<td>
-									<br/>
-									<br/><br/>
-
-									<br/>
-									<br/><br/>
-
-									<br/>
-									<br/><br/>
-
-							</td>
-						</tr>
-
-						<tr>
-							<td>20</td>
-							<td>
-									<br/>
-									<br/><br/>
-
-									<br/>
-									<br/><br/>
-
-									<br/>
-									<br/><br/>
-
-							</td>
-						</tr>
-
-						<tr>
-							<td>21</td>
-							<td>
-									<br/>
-									<br/><br/>
-
-									<br/>
-									<br/><br/>
-
-									<br/>
-									<br/><br/>
-
-							</td>
-						</tr>
-
-						<tr>
-							<td>22</td>
-							<td>
-									<br/>
-									<br/><br/>
-
-									<br/>
-									<br/><br/>
-
-									<br/>
-									<br/><br/>
-
-							</td>
-						</tr>
-						
-						<tr>
-							<td>23</td>
-							<td>
-									<br/>
-									<br/><br/>
-
-									<br/>
-									<br/><br/>
-
-									<br/>
-									<br/><br/>
-
-							</td>
-						</tr>
-
-						<tr>
-							<td>24</td>
-							<td>
-									<br/>
-									<br/><br/>
-
-									<br/>
-									<br/><br/>
-
-									<br/>
-									<br/><br/>
-
-							</td>
-						</tr>
-
-						<tr>
-							<td>25</td>
-							<td>
-									<br/>
-									<br/><br/>
-
-									<br/>
-									<br/><br/>
-
-									<br/>
-									<br/><br/>
-
-							</td>
-						</tr>
-						
-						<tr>
-							<td>26</td>
-							<td>
-									<br/>
-									<br/><br/>
-
-									<br/>
-									<br/><br/>
-
-									<br/>
-									<br/><br/>
-
-							</td>
-						</tr>
-
-						<tr>
-							<td>27</td>
-							<td>
-									<br/>
-									<br/><br/>
-
-									<br/>
-									<br/><br/>
-
-									<br/>
-									<br/><br/>
-
-							</td>
-						</tr>
-
-						<tr>
-							<td>28</td>
-							<td>
-									<br/>
-									<br/><br/>
-
-									<br/>
-									<br/><br/>
-
-									<br/>
-									<br/><br/>
-
-							</td>
-						</tr>
-						
-						<tr>
-							<td>29</td>
-							<td>
-									<br/>
-									<br/><br/>
-
-									<br/>
-									<br/><br/>
-
-									<br/>
-									<br/><br/>
-
-							</td>
-						</tr>
-
-						<tr>
-							<td>30</td>
-							<td>
-									<br/>
-									<br/><br/>
-
-									<br/>
-									<br/><br/>
-
-									<br/>
-									<br/><br/>
-
-							</td>
-						</tr>
-
-						<tr>
-							<td>31</td>
-							<td>
-									<br/>
-									<br/><br/>
-
-									<br/>
-									<br/><br/>
-
-									<br/>
-									<br/><br/>
-
-							</td>
-						</tr>
-
-						<tr>
-							<td>32</td>
-							<td>
-									<br/>
-									<br/><br/>
-
-									<br/>
-									<br/><br/>
-
-									<br/>
-									<br/><br/>
-
-							</td>
-						</tr>
-						
-						<tr>
-							<td>33</td>
-							<td>
-									<br/>
-									<br/><br/>
-
-									<br/>
-									<br/><br/>
-
-									<br/>
-									<br/><br/>
-
-							</td>
-						</tr>
-
-						<tr>
-							<td>34</td>
-							<td>
-									<br/>
-									<br/><br/>
-
-									<br/>
-									<br/><br/>
-
-									<br/>
-									<br/><br/>
-
-							</td>
-						</tr>
-
-						<tr>
-							<td>35</td>
-							<td>
-									<br/>
-									<br/><br/>
-
-									<br/>
-									<br/><br/>
-
-									<br/>
-									<br/><br/>
-
-							</td>
-						</tr>
-						
-						<tr>
-							<td>36</td>
-							<td>
-									<br/>
-									<br/><br/>
-
-									<br/>
-									<br/><br/>
-
-									<br/>
-									<br/><br/>
-
-							</td>
-						</tr>
-
-						<tr>
-							<td>37</td>
-							<td>
-									<br/>
-									<br/><br/>
-
-									<br/>
-									<br/><br/>
-
-									<br/>
-									<br/><br/>
-
-							</td>
-						</tr>
-
-						<tr>
-							<td>38</td>
-							<td>
-									<br/>
-									<br/><br/>
-
-									<br/>
-									<br/><br/>
-
-									<br/>
-									<br/><br/>
-
-							</td>
-						</tr>
-						
-						<tr>
-							<td>39</td>
-							<td>
-									<br/>
-									<br/><br/>
-
-									<br/>
-									<br/><br/>
-
-									<br/>
-									<br/><br/>
-
-							</td>
-						</tr>
-
-						<tr>
-							<td>40</td>
-							<td>
-									<br/>
-									<br/><br/>
-
-									<br/>
-									<br/><br/>
-
-									<br/>
-									<br/><br/>
-
-							</td>
-						</tr>
-
-						<tr>
-							<td>41</td>
-							<td>
-									<br/>
-									<br/><br/>
-
-									<br/>
-									<br/><br/>
-
-									<br/>
-									<br/><br/>
-
-							</td>
-						</tr>
-
-						<tr>
-							<td>42</td>
-							<td>
-									<br/>
-									<br/><br/>
-
-									<br/>
-									<br/><br/>
-
-									<br/>
-									<br/><br/>
-
-							</td>
-						</tr>
-						
-						<tr>
-							<td>43</td>
-							<td>
-									<br/>
-									<br/><br/>
-
-									<br/>
-									<br/><br/>
-
-									<br/>
-									<br/><br/>
-
-							</td>
-						</tr>
-
-						<tr>
-							<td>44</td>
-							<td>
-									<br/>
-									<br/><br/>
-
-									<br/>
-									<br/><br/>
-
-									<br/>
-									<br/><br/>
-
-							</td>
-						</tr>
-
-						<tr>
-							<td>45</td>
-							<td>
-									<br/>
-									<br/><br/>
-
-									<br/>
-									<br/><br/>
-
-									<br/>
-									<br/><br/>
-
-							</td>
-						</tr>
-						
-						<tr>
-							<td>46</td>
-							<td>
-									<br/>
-									<br/><br/>
-
-									<br/>
-									<br/><br/>
-
-									<br/>
-									<br/><br/>
-
-							</td>
-						</tr>
-
-						<tr>
-							<td>47</td>
-							<td>
-									<br/>
-									<br/><br/>
-
-									<br/>
-									<br/><br/>
-
-									<br/>
-									<br/><br/>
-
-							</td>
-						</tr>
-
-						<tr>
-							<td>48</td>
-							<td>
-									<br/>
-									<br/><br/>
-
-									<br/>
-									<br/><br/>
-
-									<br/>
-									<br/><br/>
-
-							</td>
-						</tr>
-						
-						<tr>
-							<td>49</td>
-							<td>
-									<br/>
-									<br/><br/>
-
-									<br/>
-									<br/><br/>
-
-									<br/>
-									<br/><br/>
-
-							</td>
-						</tr>
-						
-						<tr>
-							<td>50</td>
-							<td>
-									<br/>
-									<br/><br/>
-
-									<br/>
-									<br/><br/>
-
-									<br/>
-									<br/><br/>
-
-							</td>
-						</tr>
-
-						<tr>
-							<td>51</td>
-							<td>
-									<br/>
-									<br/><br/>
-
-									<br/>
-									<br/><br/>
-
-									<br/>
-									<br/><br/>
-
-							</td>
-						</tr>
-
-						<tr>
-							<td>52</td>
-							<td>
-									<br/>
-									<br/><br/>
-
-									<br/>
-									<br/><br/>
-
-									<br/>
-									<br/><br/>
-
-							</td>
-						</tr>
-						
-						<tr>
-							<td>53</td>
-							<td>
-									<br/>
-									<br/><br/>
-
-									<br/>
-									<br/><br/>
-
-									<br/>
-									<br/><br/>
-
-							</td>
-						</tr>
-
-						<tr>
-							<td>54</td>
-							<td>
-									<br/>
-									<br/><br/>
-
-									<br/>
-									<br/><br/>
-
-									<br/>
-									<br/><br/>
-
-							</td>
-						</tr>
-
-						<tr>
-							<td>55</td>
-							<td>
-									<br/>
-									<br/><br/>
-
-									<br/>
-									<br/><br/>
-
-									<br/>
-									<br/><br/>
-
-							</td>
-						</tr>
-						
-						<tr>
-							<td>56</td>
-							<td>
-									<br/>
-									<br/><br/>
-
-									<br/>
-									<br/><br/>
-
-									<br/>
-									<br/><br/>
-
-							</td>
-						</tr>
-
-						<tr>
-							<td>57</td>
-							<td>
-									<br/>
-									<br/><br/>
-
-									<br/>
-									<br/><br/>
-
-									<br/>
-									<br/><br/>
-
-							</td>
-						</tr>
-
-						<tr>
-							<td>58</td>
-							<td>
-									<br/>
-									<br/><br/>
-
-									<br/>
-									<br/><br/>
-
-									<br/>
-									<br/><br/>
-
-							</td>
-						</tr>
-						
-						<tr>
-							<td>59</td>
-							<td>
-									<br/>
-									<br/><br/>
-
-									<br/>
-									<br/><br/>
-
-									<br/>
-									<br/><br/>
-
-							</td>
-						</tr>
-
-						<tr>
-							<td>60</td>
-							<td>
-									he <strong>THROWS</strong> the BALL to his DOG in the PARK EVERy afterNOON.<br/>
-									Anh ấy <strong>ném</strong> quả bóng cho chú chó của mình ở công viên vào mỗi buổi chiều. (Thời hiện tại đơn)<br/><br/>
-
-									she <strong>THREW</strong> the EMPty PLAStic BOTtle into the reCYcling BIN YESterday.<br/>
-									Cô ấy <strong>đã ném</strong> chai nhựa rỗng vào thùng rác tái chế vào ngày hôm qua. (Thời quá khứ đơn)<br/><br/>
-
-									the OLD comPUter has been <strong>THROWN aWAY</strong> because it no LONger WORKS.<br/>
-									Chiếc máy tính cũ đã bị <strong>vứt đi</strong> vì nó không còn hoạt động nữa. (Thời hiện tại hoàn thành - Câu bị động)<br/><br/>
-
-							</td>
-						</tr>
-						
-					</tbody>
-				</table>
+			<h4 className="margin-y-40">58. BUILD</h4>
+			
+				<ul className="list-square">
+			
+					<li>he BUILDS a NEW HOUSE for his PARents.</li>
+					<li className="list-none">Anh ấy xây một ngôi nhà mới cho ba mẹ mình.</li>
+					<li className="margin-bottom-20 list-none">Dùng thời hiện tại đơn với dạng BUILDS (cho chủ thể ngôi thứ ba số ít he) để chỉ việc làm diễn ra mang tính thường xuyên hoặc kế hoạch đang thực hiện.</li>
+			
+					<li>they BUILT a SMALL BRIDGE over the RIVER LAST YEAR.</li>
+					<li className="list-none">Họ đã xây một cây cầu nhỏ bắc qua sông vào năm ngoái.</li>
+					<li className="margin-bottom-20 list-none">Dùng thời quá khứ đơn với dạng BUILT để chỉ việc đã hoàn tất hoàn toàn trong quá khứ, đi kèm mốc thời gian rõ ràng là LAST YEAR.</li>
+			
+					<li>this WEBsite has been BUILT with GREAT CARE.</li>
+					<li className="list-none">Trang web này đã được xây dựng rất cẩn thận.</li>
+					<li className="list-none">Cấu trúc này dùng từ chỉ hành động ở dạng hoàn thành (BUILT) đi sau has been để nói về một việc đã hoàn tất và để lại kết quả ở hiện tại, với chủ thể chịu tác động là this WEBsite (trang WEB này).</li>
+			
+				</ul>
+
+			
+			<h4 className="margin-y-40">59. CATCH</h4>
+			
+				<ul className="list-square">
+			
+					<li>he <strong>CATCHes</strong> the BUS to WORK EVERy MORNing.</li>
+					<li className="list-none">Anh ấy bắt xe buýt đi làm vào mỗi buổi sáng.</li>
+					<li className="margin-bottom-20 list-none">Dùng thời hiện tại đơn với dạng CATCHes (cho chủ thể ngôi thứ ba số ít he) để chỉ thói quen lặp lại.</li>
+			
+					<li>she <strong>CAUGHT</strong> a BIG FISH YESterday.</li>
+					<li className="list-none">Cô ấy đã bắt được một con cá lớn vào ngày hôm qua.</li>
+					<li className="margin-bottom-20 list-none">Dùng thời quá khứ đơn với dạng CAUGHT để chỉ hành động đã xảy ra và kết thúc trong quá khứ.</li>
+			
+					<li>they have <strong>CAUGHT</strong> the TRAIN JUST in TIME.</li>
+					<li className="list-none">Họ vừa mới bắt kịp chuyến tàu đúng lúc.</li>
+					<li className="list-none">Dùng thời hiện tại hoàn thành với dạng phân từ CAUGHT đi sau have để chỉ hành động vừa mới hoàn tất ảnh hưởng đến hiện tại.</li>
+			
+				</ul>
+
+
+			<h4 className="margin-y-40">60. THROW</h4>
+			
+				<ul className="list-square">
+			
+					<li>he <strong>THROWS</strong> the BALL to his DOG in the PARK.</li>
+					<li className="list-none">Anh ấy ném quả bóng cho chú chó của mình ở công viên.</li>
+					<li className="margin-bottom-20 list-none">Dùng thời hiện tại đơn với dạng throws (cho chủ thể ngôi thứ ba số ít he) để chỉ thói quen hoặc hành động diễn ra thường xuyên.</li>
+			
+					<li>she <strong>THREW aWAY</strong> the OLD LETters LAST NIGHT.</li>
+					<li className="list-none">Cô ấy đã vứt bỏ những bức thư cũ vào tối qua.</li>
+					<li className="margin-bottom-20 list-none">Dùng thời quá khứ đơn với dạng THREW để chỉ hành động đã xảy ra và kết thúc trong quá khứ (cụm THREW aWAY có nghĩa là vứt đi).</li>
+			
+					<li>the WINdow has been <strong>THROWN</strong> Open by the WIND.</li>
+					<li className="list-none">Cửa sổ đã bị gió thổi tung mở ra.</li>
+					<li className="list-none">Cấu trúc này dùng từ chỉ hành động ở dạng hoàn thành (THROWN) đi sau has been để nói về một việc đã xảy ra và để lại kết quả ở hiện tại, với chủ thể chịu tác động là the WINdow (cửa sổ).</li>
+			
+				</ul>
+
+			
+			<h4 className="margin-y-40"></h4>
+			
+				<ul className="list-square">
+			
+					<li></li>
+					<li className="list-none"></li>
+					<li className="margin-bottom-20 list-none"></li>
+			
+					<li></li>
+					<li className="list-none"></li>
+					<li className="margin-bottom-20 list-none"></li>
+			
+					<li></li>
+					<li className="list-none"></li>
+					<li className="list-none"></li>
+			
+				</ul>
+			
 
 			<h3 className="margin-y-50 text-center">Cách sử dụng 3 cột V1 – V2 – V3 một cách dễ nhớ</h3>
 

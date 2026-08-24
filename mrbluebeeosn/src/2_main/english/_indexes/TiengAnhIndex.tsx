@@ -498,13 +498,13 @@ export default function TiengAnhIndex(): React.JSX.Element {
 
             <li>
               <div className="li-content">
-                <Link to="/tieng-anh/bang-dong-tu-bat-quy-tac-pho-bien">Bảng hành động bất quy tắc phổ biến</Link>
+                <Link to="/tieng-anh/irregular-verbs">irREGular VERBS</Link>
               </div>
             </li>
 
             <li>
               <div className="li-content">
-                <Link to="/tieng-anh/bang-30-phrasal-verbs-pho-bien">Bảng 30 phrasal verbs phổ biến</Link>
+                <Link to="/tieng-anh/phrasal-verbs">PHRAsal VERBS</Link>
               </div>
             </li>
 

@@ -5,9 +5,9 @@ import EyeIcon from '@/components/view/EyeIcon';
 import ViewCounter from '@/components/view/ViewCounter';
 import LikeButton from '@/components/like/LikeButton';
 
-export default function Bang30PhrasalVerbs(): React.JSX.Element {
+export default function PhrasalVerbs(): React.JSX.Element {
 
-	const postId = "Bang30PhrasalVerbs";
+	const postId = "PhrasalVerbs";
 
 	return (<>
 
@@ -17,9 +17,9 @@ export default function Bang30PhrasalVerbs(): React.JSX.Element {
 		
 			<h4><HashLink smooth to="/tieng-anh#verbs-terms"><mark className="highlight-tertiary-padding-4-8">VERBS</mark></HashLink></h4>
 
-			<h1 className="margin-y-50 text-center">Bảng 30 phrasal verbs phổ biến nhất</h1>
+			<h1 className="margin-y-50 text-center">PHRAsal VERBS</h1>
 
-			<h4 className="margin-bottom-30 text-center">Phrasal Verbs trong tiếng Anh – Bí quyết nói tự nhiên như người bản xứ (Cập nhật 2026)</h4>
+			<h4 className="margin-bottom-30 text-center">PHRAsal VERBS trong tiếng Anh – Bí quyết nói tự nhiên như người bản xứ (Cập nhật 2026)</h4>
 
 			<p>Phrasal verbs là “vũ khí bí mật” giúp bạn nâng tầm tiếng Anh giao tiếp, đặc biệt trong IELTS Speaking, TOEIC Speaking hay cuộc sống hàng ngày. Đây là những cụm từ gồm <strong>động cơ</strong> + <strong>giới cơ</strong>/<strong>trạng cơ</strong> (như UP, DOWN, OUT, ON, OFF…), tạo nên nghĩa hoàn toàn mới, không đoán được từ nghĩa riêng lẻ.</p>
 
