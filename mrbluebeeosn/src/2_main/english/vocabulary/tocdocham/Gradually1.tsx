@@ -106,7 +106,7 @@ export default function GRADually1(): React.JSX.Element {
           <li>the CLOCK <Link to="/vocabulary/SLOWly-1">SLOWly</Link> TICKED.</li>
           <li className="margin-bottom-20 list-none">Đồng hồ chạy chậm.</li>
 
-          <li>the popuLAtion is <Link to="/vocabulary/steadily-1">STEADily</Link> inCREASing.</li>
+          <li>the popuLAtion is <Link to="/vocabulary/STEADily-1">STEADily</Link> inCREASing.</li>
           <li className="margin-bottom-20 list-none">Dân số đang tăng đều đặn.</li>
 
           <li>the diSEASE was deVELoping proGRESsively.</li>

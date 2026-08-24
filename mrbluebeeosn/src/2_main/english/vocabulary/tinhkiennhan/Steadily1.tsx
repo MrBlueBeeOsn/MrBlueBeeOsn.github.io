@@ -5,9 +5,9 @@ import EyeIcon from '@/components/view/EyeIcon';
 import ViewCounter from '@/components/view/ViewCounter';
 import LikeButton from '@/components/like/LikeButton';
 
-export default function Steadily1(): React.JSX.Element {
+export default function STEADily1(): React.JSX.Element {
 
-  const postId = "Steadily1";
+  const postId = "STEADily1";
 
   return (<>
 
@@ -17,29 +17,26 @@ export default function Steadily1(): React.JSX.Element {
     
       <h4><HashLink smooth to="/vocabulary#tinh-kien-nhan-terms"><mark className="highlight-tertiary-padding-4-8">ADverbs: kiên nhẫn</mark></HashLink></h4>
       
-      <h1 className="margin-y-50 text-center">steadily
-        <sup><Link to="/vocabulary/steadily-1">&nbsp;1&nbsp;</Link>
+      <h1 className="margin-y-50 text-center">STEADily
+        <sup><Link to="/vocabulary/STEADily-1">&nbsp;1&nbsp;</Link>
         </sup>
-        <sup><Link to="/vocabulary/steadily-2">&nbsp;2&nbsp;</Link>
+        <sup><Link to="/vocabulary/STEADily-2">&nbsp;2&nbsp;</Link>
         </sup>
       </h1>
 
       {/* This is the content of Vocabulary Term. */}
       
-      <p>Tuyệt vời! Chúng ta cùng khám phá từ "<strong>steadily</strong>" nhé.</p>
+      <p>Tuyệt vời! Chúng ta cùng khám phá từ "<strong>STEADily</strong>" nhé.</p>
 
       <div className="text-border1 padding-top-20 padding-bottom-10 highlight-238-padding-4-8 bee-container">
 
         <div>
 
-          <p className="margin-bottom-20"><strong>Steadily</strong></p>
-
           <ul className="list-square padding-left-40">
 
             <li>
               <span className="highlight-255-padding-3-6">
-                [STEAdily][STEA di ly] /ˈsted.ə.li/ + /<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">steadi̛ly</Link>/
-                &nbsp;⬤•• (3x)
+                [STEAdily][<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">STEAD i̛ ly</Link>] /ˈsted.ə.li/ ⬤•• (3x)
               </span>
             </li>
 
@@ -57,19 +54,19 @@ export default function Steadily1(): React.JSX.Element {
 
       </div>
 
-      <p className="margin-top-30 text-indent-whole">Từ "<strong>steadily</strong>" miêu tả cách một hành động, quá trình hoặc trạng thái diễn ra một cách liên tục, không có sự thay đổi đột ngột hoặc dao động lớn, thường cho thấy sự ổn định và chắc chắn.</p>
+      <p className="margin-top-30 text-indent-whole">Từ "<strong>STEADily</strong>" miêu tả cách một hành động, quá trình hoặc trạng thái diễn ra một cách liên tục, không có sự thay đổi đột ngột hoặc dao động lớn, thường cho thấy sự ổn định và chắc chắn.</p>
 
       <p className="margin-top-20 text-indent-whole">Ví dụ:</p>
 
         <ul className="list-square">
 
-          <li>The rain fell ______ throughout the night.</li>
+          <li>the RAIN FELL STEADily throughout the NIGHT.</li>
           <li className="margin-bottom-20 list-none">Mưa rơi đều đặn suốt đêm.</li>
 
-          <li>The company's profits have been increasing ______ for the past year.</li>
+          <li>the COMpany's PROFits have been inCREASing STEADily for the PAST YEAR.</li>
           <li className="margin-bottom-20 list-none">Lợi nhuận của công ty đã tăng trưởng ổn định trong năm qua.</li>
 
-          <li>He walked ______ along the path.</li>
+          <li>he WALKED STEADily along the PATH.</li>
           <li className="list-none">Anh ấy bước đi vững chắc dọc theo con đường.</li>
 
         </ul>
@@ -86,16 +83,13 @@ export default function Steadily1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Steady (adj) /ˈsted.i/</li>
-          <li className="list-none">He has a ______ job. ổn định.)</li>
+          <li>he has a STEADy JOB.</li>
           <li className="margin-bottom-20 list-none">Anh ấy có một công việc ổn định.</li>
         
-          <li>Steady (v) /ˈsted.i/</li>
-          <li className="list-none"> ______ yourself!</li>
+          <li>STEADy yourSELF!</li>
           <li className="margin-bottom-20 list-none">Hãy giữ vững!</li>
 
-          <li>Steadiness (n) /ˈsted.i.nəs/</li>
-          <li className="list-none">He admired her ______ under pressure.</li>
+          <li>he adMIRED her STEADiness under PRESsure.</li>
           <li className="list-none">Anh ấy ngưỡng mộ sự ổn định của cô ấy khi chịu áp lực.</li>
 
         </ul>
@@ -112,20 +106,16 @@ export default function Steadily1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Regularly /ˈreɡ.jə.lər.li/</li>
-          <li className="list-none">He exercises ______.</li>
+          <li>he EXercises REGularly.</li>
           <li className="margin-bottom-20 list-none">Anh ấy tập thể dục thường xuyên.</li>
 
-          <li>Constantly /ˈkɒn.stənt.li/</li>
-          <li className="list-none">The noise was ______ irritating.</li>
+          <li>the NOISE was CONstantly IRritating.</li>
           <li className="margin-bottom-20 list-none">Tiếng ồn liên tục gây khó chịu.</li>
 
-          <li>Continuously /kənˈtɪn.ju.əs.li/</li>
-          <li className="list-none">The water flowed ______.</li>
+          <li>the WAter FLOWED conTINuously.</li>
           <li className="margin-bottom-20 list-none">Nước chảy liên tục.</li>
 
-          <li>Firmly /ˈfɜːrm.li/</li>
-          <li className="list-none">He held the railing ______.</li>
+          <li>he HELD the RAILing FIRMly.</li>
           <li className="list-none">Anh ấy nắm chặt lan can.</li>
 
         </ul>
@@ -144,20 +134,16 @@ export default function Steadily1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Irregularly /ɪˈreɡ.jə.lər.li/</li>
-          <li className="list-none">He attended ______.</li>
+          <li>he atTENDed irREGularly.</li>
           <li className="margin-bottom-20 list-none">Anh ấy tham gia/đi học một cách không đều đặn.</li>
 
-          <li>Fluctuatingly /ˈflʌk.tʃu.eɪ.tɪŋ.li/</li>
-          <li className="list-none">The prices changed ______.</li>
-          <li className="margin-bottom-20 list-none">Giá cả thay đổi một cách dao động.</li>
+          <li>the PRICes CHANGED unpreDICTably.</li>
+          <li className="margin-bottom-20 list-none">Giá cả thay đổi một cách không thể dự đoán trước được.</li>
 
-          <li>Erratically /ɪˈræt.ɪ.kli/</li>
-          <li className="list-none">He behaved ______.</li>
+          <li>he beHAVED erRATically.</li>
           <li className="margin-bottom-20 list-none">Anh ấy cư xử một cách thất thường.</li>
 
-          <li>Unsteadily /ʌnˈsted.ɪ.li/</li>
-          <li className="list-none">He walked ______ after the injury.</li>
+          <li>he WALKED unSTEADily after the INjury.</li>
           <li className="list-none">Anh ấy bước đi không vững chắc sau chấn thương.</li>
 
         </ul>
@@ -183,13 +169,13 @@ export default function Steadily1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>The fire burned ______.</li>
+          <li>The fire burned steadily.</li>
           <li className="margin-bottom-20 list-none">Ngọn lửa cháy đều đặn.</li>
 
-          <li>The chart trended upward ______.</li>
+          <li>the CHART TRENDed UPward STEADily.</li>
           <li className="margin-bottom-20 list-none">Biểu đồ có xu hướng tăng đều đặn.</li>
 
-          <li>He walked ______ with firm steps.</li>
+          <li>he WALKED STEADily with FIRM STEPS.</li>
           <li className="list-none">Anh ấy bước đi vững chắc.</li>
 
         </ul>
@@ -209,7 +195,7 @@ export default function Steadily1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>The sun rose ______ in the east.</li>
+          <li>the SUN ROSE STEADily in the EAST.</li>
           <li className="list-none">Mặt trời mọc đều đặn ở phía đông.</li>
 
         </ul>
@@ -231,10 +217,10 @@ export default function Steadily1(): React.JSX.Element {
 
           <ol>
 
-            <li>The rain fell throughout the night.</li>
+            <li>the RAIN FELL throughout the NIGHT.</li>
             <li className="list-none margin-bottom-20">Mưa rơi suốt đêm.</li>
 
-            <li value="2">The rain fell ______ throughout the night.</li>
+            <li value="2">the RAIN FELL STEADily throughout the NIGHT.</li>
             <li className="list-none margin-bottom-20">Mưa rơi đều đặn suốt đêm.</li>
 
           </ol>
@@ -247,10 +233,10 @@ export default function Steadily1(): React.JSX.Element {
 
           <ol>
 
-            <li>The company's profits have been increasing for the past year.</li>
+            <li>the COMpany's PROFits have been inCREASing for the PAST YEAR.</li>
             <li className="list-none margin-bottom-20">Lợi nhuận của công ty đã tăng trưởng trong năm qua.</li>
 
-            <li value="2">The company's profits have been increasing ______ for the past year.</li>
+            <li value="2">the COMpany's PROFits have been inCREASing STEADily for the PAST YEAR.</li>
             <li className="list-none margin-bottom-20">Lợi nhuận của công ty đã tăng trưởng ổn định trong năm qua.</li>
 
           </ol>
@@ -263,10 +249,10 @@ export default function Steadily1(): React.JSX.Element {
 
           <ol>
 
-            <li>He walked along the path.</li>
+            <li>he WALKED along the PATH.</li>
             <li className="list-none margin-bottom-20">Anh ấy bước đi dọc theo con đường.</li>
 
-            <li value="2">He walked ______ along the path.</li>
+            <li value="2">he WALKED STEADily along the PATH.</li>
             <li className="list-none margin-bottom-20">Anh ấy bước đi vững chắc dọc theo con đường.</li>
 
           </ol>
@@ -289,7 +275,7 @@ export default function Steadily1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Nhấn mạnh sự liên tục và thiếu sự thay đổi đột ngột: "<strong>Steadily</strong>" thường mang ý nghĩa tích cực về sự ổn định và đáng tin cậy.</li>
+          <li>Nhấn mạnh sự liên tục và thiếu sự thay đổi đột ngột: "<strong>STEADily</strong>" thường mang ý nghĩa tích cực về sự ổn định và đáng tin cậy.</li>
 
           <li className="margin-bottom-20">Có thể áp dụng cho thời tiết, tài chính, tốc độ, sự tiến bộ hoặc bất kỳ quá trình nào diễn ra theo thời gian: Từ này mô tả một xu hướng ổn định.</li>
 
