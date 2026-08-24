@@ -116,8 +116,8 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 
 						<tr>
 								<td>Cảm xúc & sở thích</td>
-								<td>enjoy, like*, love*, hate*, mind, fancy</td>
-								<td>want, would like, would love, would hate*</td>
+								<td>enjoy, like*, love*, hate*, mind</td>
+								<td>want, would like, would love*</td>
 								<td></td>
 						</tr>
 						
@@ -146,16 +146,16 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 								<td>Một số hành động đặc biệt</td>
 								<td>admit, deny, practice, miss, postpone, risk</td>
 								<td>manage, fail, afford, deserve, appear, seem, tend</td>
-								<td>regret, go on, mean</td>
+								<td></td>
 						</tr>
 					</tbody>
 				</table>
 					
 			<p className="margin-top-20">(*nhóm like/love/hate/prefer: dùng cả hai đều được, nhưng -ing mang tính "tổng quát, thường xuyên", to V mang tính "cụ thể, tình huống riêng lẻ")</p>
 
-			{/* 3. Những cặp "anh em sinh đôi nhưng tính cách trái ngược" – dễ nhầm nhất */}
+			{/* 2. Những cặp "anh em sinh đôi nhưng tính cách trái ngược" – dễ nhầm nhất */}
 
-			<h3 className="margin-y-50 text-center">3. Những cặp "anh em sinh đôi nhưng tính cách trái ngược" – dễ nhầm nhất</h3>
+			<h3 className="margin-y-50 text-center">2. Những cặp "anh em sinh đôi nhưng tính cách trái ngược" – dễ nhầm nhất</h3>
 					
 			<p>Cặp đôi đáng sợ nhất mà ai cũng từng bị lừa:</p>
 			
@@ -338,6 +338,36 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 				</ul>
 
 			
+			<h4 className="margin-y-40">13. MEAN</h4>
+			
+				<ul className="list-square">
+			
+					<li>CHANGing the rePORTing SOFTware <strong>MEANS</strong> reWRIting all the old DAta FILES.</li>
+					<li className="list-none">Việc thay đổi phần mềm báo cáo có nghĩa là phải viết lại tất cả các tệp dữ liệu cũ.</li>
+					<li className="margin-bottom-20 list-none">Cụm CHANGing the rePORTing SOFTware là chủ thể. Cấu trúc MEAN + V-ing dùng để chỉ hệ quả, sự việc hoặc kết quả tất yếu mà một hành động dẫn đến.</li>
+			
+					<li>he <strong>MEANT</strong> to FINish the fiNANcial AUdit rePORT YESterday, but he RAN OUT of TIME.</li>
+					<li className="list-none">Anh ấy đã có ý định hoàn thành báo cáo kiểm toán tài chính vào ngày hôm qua, nhưng anh ấy đã hết thời gian.</li>
+					<li className="list-none">he là chủ thể. Cấu trúc MEAN + to V dùng để diễn tả ý định, dự định hoặc mong muốn thực hiện một việc gì đó (thường dùng trong dạng quá khứ MEANT to để giải thích cho việc chưa hoàn thành).</li>
+			
+				</ul>
+
+			
+			<h4 className="margin-y-40">14. GO ON</h4>
+			
+				<ul className="list-square">
+			
+					<li>after a SHORT COFfee BREAK, she <strong>WENT ON</strong> WORKing on the MONTHly TAX rePORTS.</li>
+					<li className="list-none">Sau một khoảng nghỉ uống cà phê ngắn, cô ấy đã tiếp tục làm các báo cáo thuế hàng tháng.</li>
+					<li className="margin-bottom-20 list-none">she là chủ thể. Cấu trúc GO ON + V-ing dùng để chỉ việc tiếp tục một hành động đang làm trước đó mà không bị gián đoạn hay thay đổi công việc.</li>
+			
+					<li>the acCOUNtant FINished reVIEWing the INvoices and then <strong>WENT ON</strong> to CHECK the BANK STATEments.</li>
+					<li className="list-none">Người kế toán đã xem xét xong các hóa đơn và sau đó chuyển sang kiểm tra các sao kê ngân hàng.</li>
+					<li className="list-none">the acCOUNtant là chủ thể. Cấu trúc GO ON + to V dùng khi hoàn thành xong một hành động/giai đoạn này và bước sang thực hiện một hành động, giai đoạn mới tiếp theo.</li>
+			
+				</ul>
+
+			
 			<h4 className="margin-y-40"></h4>
 			
 				<ul className="list-square">
@@ -351,12 +381,62 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 					<li className="list-none"></li>
 			
 				</ul>
-
 			
 
-			{/* 4. Mẹo nhớ siêu nhanh cho người Việt (2025 edition) */}
 
-			<h3 className="margin-y-50 text-center">4. Mẹo nhớ siêu nhanh cho người Việt (2025 edition)</h3>
+			
+			{/* 3. Chỉ dùng Gerund (-ing) */}
+
+			<h3 className="margin-y-50 text-center">3. Chỉ dùng Gerund (-ing)</h3>
+			
+			
+			<h4 className="margin-y-40">1. FANcy</h4>
+			
+				<ul className="list-square">
+			
+					<li>do you <strong>FANcy</strong> GRABbing a CUP of traDITional vietnaMESE COFfee this AFternoon?</li>
+					<li className="list-none">Bạn có hứng thú đi uống một ly cà phê truyền thống Việt Nam vào chiều nay không?</li>
+					<li className="list-none">you là chủ thể. Cấu trúc FANcy + V-ing (thường dùng nhiều trong tiếng Anh Anh) mang nghĩa muốn hoặc có hứng thú trải nghiệm một hành động nào đó, thường dùng trong câu hỏi mời mọc hoặc diễn tả sở thích bất chợt.</li>
+			
+				</ul>
+			
+			
+			
+			
+			{/* 4. Chỉ dùng Infinitive (to V) */}
+
+			<h3 className="margin-y-50 text-center">4. Chỉ dùng Infinitive (to V)</h3>
+
+
+			<h4 className="margin-y-40">1. would HATE</h4>
+			
+				<ul className="list-square">
+			
+					<li>i <strong>would HATE</strong> to MISS the DEADline for subMITting the fiNANcial AUdit rePORTS.</li>
+					<li className="list-none">Tôi sẽ rất không muốn bị lỡ hạn chót nộp báo cáo kiểm toán tài chính.</li>
+					<li className="list-none">i là chủ thể. Cấu trúc would HATE + to V dùng để bày tỏ cảm giác áy ngại, sợ hãi hoặc không muốn một sự việc cụ thể nào đó xảy ra trong tương lai hoặc trong một tình huống giả định.</li>
+			
+				</ul>
+			
+			
+			
+			
+			
+			<h4 className="margin-y-40"></h4>
+			
+				<ul className="list-square">
+			
+					<li></li>
+					<li className="list-none"></li>
+					<li className="list-none"></li>
+			
+				</ul>
+
+
+
+			{/* 5. Mẹo nhớ siêu nhanh cho người Việt (2025 edition) */}
+
+			<h3 className="margin-y-50 text-center">5. Mẹo nhớ siêu nhanh cho người Việt (2025 edition)</h3>
 			
 				<ul className="list-square">
 			
@@ -376,7 +456,8 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 			
 				</ul>
 
-			<h3 className="margin-y-50 text-center">5. Bài test nhỏ để kiểm tra ngay (chỉ 5 câu)</h3>
+			
+			<h3 className="margin-y-50 text-center">6. Bài test nhỏ để kiểm tra ngay (chỉ 5 câu)</h3>
 
 				<ol>
 
