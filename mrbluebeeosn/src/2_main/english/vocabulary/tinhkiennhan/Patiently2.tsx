@@ -5,9 +5,9 @@ import EyeIcon from '@/components/view/EyeIcon';
 import ViewCounter from '@/components/view/ViewCounter';
 import LikeButton from '@/components/like/LikeButton';
 
-export default function Patiently2(): React.JSX.Element {
+export default function PAtiently2(): React.JSX.Element {
 
-  const postId = "Patiently2";
+  const postId = "PAtiently2";
 
   return (<>
 
@@ -17,18 +17,18 @@ export default function Patiently2(): React.JSX.Element {
     
       <h4><HashLink smooth to="/vocabulary#tinh-kien-nhan-terms"><mark className="highlight-tertiary-padding-4-8">ADverbs: kiên nhẫn</mark></HashLink></h4>
       
-      <h1 className="margin-y-50 text-center">patiently
+      <h1 className="margin-y-50 text-center">PAtiently
         <sup>
-          <Link to="/vocabulary/patiently-1">&nbsp;1&nbsp;</Link>
+          <Link to="/vocabulary/PAtiently-1">&nbsp;1&nbsp;</Link>
         </sup>
         <sup>
-          <Link to="/vocabulary/patiently-2">&nbsp;2&nbsp;</Link>
+          <Link to="/vocabulary/PAtiently-2">&nbsp;2&nbsp;</Link>
         </sup>
       </h1>
 
       {/* This is the content of Vocabulary Term. */}
 
-      <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>patiently</strong>" (một cách kiên nhẫn) và các cụm từ hay đi kèm nhé.</p>
+      <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>PAtiently</strong>" (một cách kiên nhẫn) và các cụm từ hay đi kèm nhé.</p>
 
       <div className="text-border1 padding-10 highlight-238-padding-4-8 bee-container">
 
@@ -36,15 +36,9 @@ export default function Patiently2(): React.JSX.Element {
 
           <p className="margin-y-10">
             
-            <strong>Patiently&nbsp;</strong>
-            
             <span className="highlight-255-padding-3-6">
               
-              [PAtiently][PA tient ly] /ˈpeɪ.ʃənt.li/ + /
-              
-              <Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">pātie̛ntly</Link>/ 
-              
-              &nbsp;⬤•• (3x)
+              [PAtiently][<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">PĀ tie̛nt ly</Link>] /ˈpeɪ.ʃənt.li/ ⬤•• (3x)
               
             </span>
               
@@ -62,44 +56,34 @@ export default function Patiently2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1">Patiently <strong>waited</strong> /weɪtɪd/</li>
-        <li className="list-none">She ______ for her turn.</li>
+        <li value="1">she PAtiently WAITed for her TURN.</li>
         <li className="list-none margin-bottom-20">Cô ấy kiên nhẫn chờ đến lượt mình.</li>
 
-        <li value="2">Patiently <strong>listened</strong> /ˈlɪsənd/</li>
-        <li className="list-none">He ______ to the long explanation.</li>
+        <li value="2">he PAtiently LIStened to the LONG explaNAtion.</li>
         <li className="list-none margin-bottom-20">Anh ấy kiên nhẫn lắng nghe lời giải thích dài dòng.</li>
 
-        <li value="3">Patiently <strong>explained</strong> /ɪkˈspleɪnd/</li>
-        <li className="list-none">The teacher ______ the lesson again.</li>
+        <li value="3">the TEAcher PAtiently exPLAINED the LESson aGAIN.</li>
         <li className="list-none margin-bottom-20">Giáo viên kiên nhẫn giải thích lại bài học.</li>
 
-        <li value="4">Patiently <strong>taught</strong> /tɔːt/</li>
-        <li className="list-none">She ______ her child how to read.</li>
+        <li value="4">she PAtiently TAUGHT her CHILD how to READ.</li>
         <li className="list-none margin-bottom-20">Cô ấy kiên nhẫn dạy con mình đọc.</li>
 
-        <li value="5">Patiently <strong>worked</strong> /wɜːrkd/</li>
-        <li className="list-none">They ______ on the difficult project.</li>
+        <li value="5">they PAtiently WORKED on the DIFficult PROJect.</li>
         <li className="list-none margin-bottom-20">Họ kiên nhẫn làm việc cho dự án khó khăn.</li>
 
-        <li value="6">Patiently <strong>endured</strong> /ɪnˈdʊrd/</li>
-        <li className="list-none">He ______ the pain.</li>
+        <li value="6">he PAtiently enDURED the PAIN.</li>
         <li className="list-none margin-bottom-20">Anh ấy kiên nhẫn chịu đựng cơn đau.</li>
 
-        <li value="7">Patiently <strong>guided</strong> /ɡaɪdɪd/</li>
-        <li className="list-none">The tour guide ______ the group through the museum.</li>
+        <li value="7">the TOUR GUIDE PAtiently GUIded the GROUP through the muSEum.</li>
         <li className="list-none margin-bottom-20">Hướng dẫn viên du lịch kiên nhẫn hướng dẫn đoàn qua viện bảo tàng.</li>
 
-        <li value="8">Patiently <strong>observed</strong> /əbˈzɜːrvd/</li>
-        <li className="list-none">The scientist ______ the experiment.</li>
+        <li value="8">the SCIentist PAtiently obSERVED the exPERiment.</li>
         <li className="list-none margin-bottom-20">Nhà khoa học kiên nhẫn quan sát thí nghiệm.</li>
 
-        <li value="9">Patiently <strong>corrected</strong> /kəˈrɛktɪd/</li>
-        <li className="list-none">She ______ the student's mistakes.</li>
+        <li value="9">she PAtiently corRECted the STUdent's misTAKES.</li>
         <li className="list-none margin-bottom-20">Cô ấy kiên nhẫn sửa lỗi cho học sinh.</li>
 
-        <li value="10">Patiently <strong>nurtured</strong> /ˈnɜːrtʃərd/</li>
-        <li className="list-none">They ______ the young plants.</li>
+        <li value="10">they PAtiently NURtured the YOUNG PLANTS.</li>
         <li className="list-none margin-bottom-20">Họ kiên nhẫn nuôi dưỡng những cây non.</li>
 
       </ol>
@@ -116,7 +100,7 @@ export default function Patiently2(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>"<strong>Patiently</strong>" thường đứng trước hành động để bổ nghĩa.</li>
+          <li>"<strong>PAtiently</strong>" thường đứng trước hành động để bổ nghĩa.</li>
 
           <li className="margin-bottom-20">Từ này mang nghĩa tích cực, thể hiện sự kiên nhẫn, bình tĩnh.</li>
 
