@@ -62,43 +62,43 @@ export default function Successfully2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1">Successfully <strong>completed</strong> /kəmˈpliːtɪd/</li>
+        <li value="1"><strong>successfully completed</strong> /kəmˈpliːtɪd/</li>
         <li className="list-none">The project was ______ on time.</li>
         <li className="list-none margin-bottom-20">Dự án đã được hoàn thành đúng hạn.</li>
 
-        <li value="2">Successfully <strong>launched</strong> /lɔːntʃt/</li>
+        <li value="2"><strong>successfully launched</strong> /lɔːntʃt/</li>
         <li className="list-none">The new product was ______ in the market.</li>
         <li className="list-none margin-bottom-20">Sản phẩm mới đã được ra mắt thành công trên thị trường.</li>
 
-        <li value="3">Successfully <strong>implemented</strong> /ˈɪmplɪmentɪd/</li>
+        <li value="3"><strong>successfully implemented</strong> /ˈɪmplɪmentɪd/</li>
         <li className="list-none">The new policy was ______.</li>
         <li className="list-none margin-bottom-20">Chính sách mới đã được thực hiện thành công.</li>
 
-        <li value="4">Successfully <strong>negotiated</strong> /nɪˈɡoʊʃieɪtɪd/</li>
+        <li value="4"><strong>successfully negotiated</strong> /nɪˈɡoʊʃieɪtɪd/</li>
         <li className="list-none">The contract was ______.</li>
         <li className="list-none margin-bottom-20">Hợp đồng đã được thương lượng thành công.</li>
 
-        <li value="5">Successfully <strong>adapted</strong> /əˈdæptɪd/</li>
+        <li value="5"><strong>successfully adapted</strong> /əˈdæptɪd/</li>
         <li className="list-none">She ______ to the new environment.</li>
         <li className="list-none margin-bottom-20">Cô ấy đã thích nghi thành công với môi trường mới.</li>
 
-        <li value="6">Successfully <strong>defended</strong> /dɪˈfendɪd/</li>
+        <li value="6"><strong>successfully defended</strong> /dɪˈfendɪd/</li>
         <li className="list-none">The castle was ______ against the attack.</li>
         <li className="list-none margin-bottom-20">Lâu đài đã được bảo vệ thành công trước cuộc tấn công.</li>
 
-        <li value="7">Successfully <strong>recovered</strong> /rɪˈkʌvərd/</li>
+        <li value="7"><strong>successfully recovered</strong> /rɪˈkʌvərd/</li>
         <li className="list-none">He ______ from the illness.</li>
         <li className="list-none margin-bottom-20">Anh ấy đã hồi phục hoàn toàn sau cơn bệnh.</li>
 
-        <li value="8">Successfully <strong>integrated</strong> /ˈɪntɪɡreɪtɪd/</li>
+        <li value="8"><strong>successfully integrated</strong> /ˈɪntɪɡreɪtɪd/</li>
         <li className="list-none">The new system was ______ into the existing one.</li>
         <li className="list-none margin-bottom-20">Hệ thống mới đã được tích hợp thành công vào hệ thống hiện có.</li>
 
-        <li value="9">Successfully <strong>overcame</strong> /ˈoʊvərˈkeɪm/</li>
+        <li value="9"><strong>successfully overcame</strong> /ˈoʊvərˈkeɪm/</li>
         <li className="list-none">She ______ her fear of public speaking.</li>
         <li className="list-none margin-bottom-20">Cô ấy đã vượt qua nỗi sợ nói trước đám đông một cách thành công.</li>
 
-        <li value="10">Successfully <strong>persuaded</strong> /pərˈsweɪdɪd/</li>
+        <li value="10"><strong>successfully persuaded</strong> /pərˈsweɪdɪd/</li>
         <li className="list-none">He ______ her to change her mind.</li>
         <li className="list-none margin-bottom-20">Anh ấy đã thuyết phục cô ấy thay đổi ý kiến một cách thành công.</li>
 
