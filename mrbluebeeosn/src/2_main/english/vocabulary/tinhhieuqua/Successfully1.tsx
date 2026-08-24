@@ -5,9 +5,9 @@ import EyeIcon from '@/components/view/EyeIcon';
 import ViewCounter from '@/components/view/ViewCounter';
 import LikeButton from '@/components/like/LikeButton';
 
-export default function Successfully1(): React.JSX.Element {
+export default function sucCESSfully1(): React.JSX.Element {
 
-  const postId = "Successfully1";
+  const postId = "sucCESSfully1";
 
   return (<>
 
@@ -17,29 +17,26 @@ export default function Successfully1(): React.JSX.Element {
     
       <h4><HashLink smooth to="/vocabulary#tinh-hieu-qua-terms"><mark className="highlight-tertiary-padding-4-8">ADverbs: hiệu quả</mark></HashLink></h4>
       
-      <h1 className="margin-y-50 text-center">successfully
-        <sup><Link to="/vocabulary/successfully-1">&nbsp;1&nbsp;</Link>
+      <h1 className="margin-y-50 text-center">sucCESSfully
+        <sup><Link to="/vocabulary/sucCESSfully-1">&nbsp;1&nbsp;</Link>
         </sup>
-        <sup><Link to="/vocabulary/successfully-2">&nbsp;2&nbsp;</Link>
+        <sup><Link to="/vocabulary/sucCESSfully-2">&nbsp;2&nbsp;</Link>
         </sup>
       </h1>
 
       {/* This is the content of Vocabulary Term. */}
       
-      <p>Tuyệt vời! Chúng ta cùng đi sâu vào từ "<strong>successfully</strong>" nhé.</p>
+      <p>Tuyệt vời! Chúng ta cùng đi sâu vào từ "<strong>sucCESSfully</strong>" nhé.</p>
 
       <div className="text-border1 padding-top-20 padding-bottom-10 highlight-238-padding-4-8 bee-container">
 
         <div>
 
-          <p className="margin-bottom-20"><strong>Successfully</strong></p>
-
           <ul className="list-square padding-left-40">
 
             <li>
               <span className="highlight-255-padding-3-6">
-                [sucCESSfully][suc CESS ful ly] /səkˈsesfəli/ + /<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">sưccessfưlly</Link>/
-                &nbsp;•⬤•• (4x)
+                [sucCESSfully][<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">sưc CESS fưl ly</Link>] /səkˈsesfəli/ •⬤•• (4x)
               </span>
             </li>
 
@@ -57,16 +54,16 @@ export default function Successfully1(): React.JSX.Element {
 
       </div>
 
-      <p className="margin-top-30 text-indent-whole">Từ "<strong>successfully</strong>" được dùng để mô tả một hành động, một nhiệm vụ hoặc một mục tiêu đã được hoàn thành một cách tốt đẹp, đạt được kết quả mong muốn. Nó thể hiện sự thành công, thắng lợi hoặc đạt được mục tiêu.</p>
+      <p className="margin-top-30 text-indent-whole">Từ "<strong>sucCESSfully</strong>" được dùng để mô tả một hành động, một nhiệm vụ hoặc một mục tiêu đã được hoàn thành một cách tốt đẹp, đạt được kết quả mong muốn. Nó thể hiện sự thành công, thắng lợi hoặc đạt được mục tiêu.</p>
 
       <p className="margin-top-20 text-indent-whole">Ví dụ:</p>
 
         <ul className="list-square">
 
-          <li>She ______ passed the exam.</li>
+          <li>she sucCESSfully PASSED the exAM.</li>
           <li className="margin-bottom-20 list-none">Cô ấy đã vượt qua kỳ thi một cách thành công.</li>
 
-          <li>The project was ______ completed on time.</li>
+          <li>the PROBlem was comPLEted on TIME.</li>
           <li className="list-none">Dự án đã được hoàn thành đúng hạn.</li>
 
         </ul>
@@ -83,12 +80,10 @@ export default function Successfully1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Success (n) /səkˈses/</li>
-          <li className="list-none">His ______ was due to hard work.</li>
+          <li>his sucCESS was due to HARD WORK.</li>
           <li className="margin-bottom-20 list-none">Sự thành công của anh ấy là nhờ làm việc chăm chỉ.</li>
 
-          <li>Successful (adj) /səkˈsesfəl/</li>
-          <li className="list-none">The party was a ______ event.</li>
+          <li>the PARty was a sucCESSful eVENT.</li>
           <li className="list-none">Bữa tiệc là một sự kiện thành công.</li>
 
         </ul>
@@ -105,12 +100,10 @@ export default function Successfully1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Triumphantly /traɪˈʌmfəntli/</li>
-          <li className="list-none">The team ______ won the championship.</li>
+          <li>the TEAM triUMphantly WON the CHAMpionship.</li>
           <li className="margin-bottom-20 list-none">Đội đã chiến thắng giải vô địch một cách vẻ vang.</li>
 
-          <li>Satisfactorily /ˌsætɪsˈfæktərili/</li>
-          <li className="list-none">The problem was ______ resolved.</li>
+          <li>the PROBlem was satisFACtorily reSOLVED.</li>
           <li className="list-none">Vấn đề đã được giải quyết một cách thỏa đáng.</li>
 
         </ul>
@@ -129,12 +122,10 @@ export default function Successfully1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Unsuccessfully (/ʌnˌsəkˈsesfʊli/)</li>
-          <li className="list-none">He ______ tried to open the door.</li>
+          <li>he unsucCESSfully TRIED to Open the DOOR.</li>
           <li className="margin-bottom-20 list-none">Anh ấy đã cố gắng mở cửa nhưng không thành công.</li>
 
-          <li>Unsatisfactorily (/ʌnˌsætɪsˈfæktərili/)</li>
-          <li className="list-none">The task was completed ______.</li>
+          <li>the TASK was comPLEted unsatisFACtorily.</li>
           <li className="list-none">Công việc đã được hoàn thành một cách không thỏa đáng.</li>
 
         </ul>
@@ -160,7 +151,7 @@ export default function Successfully1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>She has ______ won the award.</li>
+          <li>she has sucCESSfully WON the aWARD.</li>
           <li className="list-none">Cô ấy đã giành được giải thưởng.</li>
 
         </ul>
@@ -180,7 +171,7 @@ export default function Successfully1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>She ______ defended her thesis.</li>
+          <li>she sucCESSfully deFENded her THEsis.</li>
           <li className="list-none">Cô ấy đã bảo vệ thành công luận văn của mình.</li>
 
         </ul>
@@ -202,10 +193,10 @@ export default function Successfully1(): React.JSX.Element {
 
           <ol>
 
-            <li>He tried to climb the mountain.</li>
+            <li>he TRIED to CLIMB the MOUNtain.</li>
             <li className="list-none margin-bottom-20">Anh ấy đã cố gắng leo lên núi.</li>
 
-            <li value="2">He ______ climbed the mountain.</li>
+            <li value="2">he sucCESSfully CLIMBED the MOUNtain.</li>
             <li className="list-none margin-bottom-20">Anh ấy đã leo lên núi một cách thành công.</li>
 
           </ol>
@@ -228,9 +219,9 @@ export default function Successfully1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Kết quả: "<strong>Successfully</strong>" luôn liên quan đến một kết quả tích cực.</li>
+          <li>Kết quả: "<strong>sucCESSfully</strong>" luôn liên quan đến một kết quả tích cực.</li>
 
-          <li className="margin-bottom-20">Ngữ cảnh: Ý nghĩa của "<strong>successfully</strong>" có thể thay đổi tùy thuộc vào ngữ cảnh câu.</li>
+          <li className="margin-bottom-20">Ngữ cảnh: Ý nghĩa của "<strong>sucCESSfully</strong>" có thể thay đổi tùy thuộc vào ngữ cảnh câu.</li>
 
         </ul>
 
