@@ -456,71 +456,120 @@ export default function IrregularVerbs(): React.JSX.Element {
 								<td>bay</td>
 						</tr>
 						
-						<tr>
-								<td>53</td>
-								<td>falls</td>
-								<td>fell</td>
-								<td>fallen</td>
-								<td>ngã, rơi</td>
-						</tr>
 
-						<tr>
-								<td>54</td>
-								<td>cuts</td>
-								<td>cut</td>
-								<td>cut</td>
-								<td>cắt</td>
-						</tr>
-
-						<tr>
-								<td>55</td>
-								<td>hits</td>
-								<td>hit</td>
-								<td>hit</td>
-								<td>đánh, đập</td>
-						</tr>
-
-						<tr>
-								<td>56</td>
-								<td>hurts</td>
-								<td>hurt</td>
-								<td>hurt</td>
-								<td>làm đau</td>
-						</tr>
-
-						<tr>
-								<td>57</td>
-								<td>costs</td>
-								<td>cost</td>
-								<td>cost</td>
-								<td>có giá, tốn</td>
-						</tr>
-
-						<tr>
-								<td>58</td>
-								<td>builds</td>
-								<td>built</td>
-								<td>built</td>
-								<td>xây dựng</td>
-						</tr>
 						
 					</tbody>
 				</table>
 
 			
+			<h4 className="margin-y-40">53. FALL</h4>
+			
+				<ul className="list-square">
+			
+					<li>the RAIN <strong>FALLS</strong> HEAVily on the ROOF.</li>
+					<li className="list-none">Trời mưa rơi nặng hạt trên mái nhà.</li>
+					<li className="margin-bottom-20 list-none">Dùng thời hiện tại đơn với dạng FALLS (cho chủ thể ngôi thứ ba số ít the RAIN) để chỉ hiện tượng hoặc sự việc diễn ra theo quy luật tự nhiên.</li>
+			
+					<li>he <strong>FELL</strong> from the CAMera eQUIPment while WORKing outSIDE.</li>
+					<li className="list-none">Anh ấy đã bị ngã từ chỗ thiết bị máy quay trong lúc làm việc ngoài trời.</li>
+					<li className="margin-bottom-20 list-none">Dùng thời quá khứ đơn với dạng FELL để chỉ việc đã xảy ra và kết thúc trong quá khứ.</li>
+			
+					<li>SEVERal OLD TREES have <strong>FALLen</strong> DOWN DURing the STORM.</li>
+					<li className="list-none">Một số cây cổ thụ đã bị đổ sập trong cơn bão.</li>
+					<li className="list-none">Cấu trúc này dùng từ chỉ hành động ở dạng hoàn thành (FALLen) đi sau have để nói về sự việc đã xảy ra và để lại kết quả ở hiện tại, với chủ thể là SEVERal OLD TREES (một số cây cổ thụ).</li>
+			
+				</ul>
+			
+			
+			<h4 className="margin-y-40">54. CUT</h4>
+			
+				<ul className="list-square">
+			
+					<li>he <strong>CUTS</strong> the VEGETables for COOKing.</li>
+					<li className="list-none">Anh ấy cắt rau củ để nấu ăn.</li>
+					<li className="margin-bottom-20 list-none">Dùng thời hiện tại đơn với dạng CUTS (cho chủ thể ngôi thứ ba số ít He) để chỉ việc làm diễn ra thường xuyên.</li>
+			
+					<li>she <strong>CUT</strong> a PIECE of CAKE for me YESterday.</li>
+					<li className="list-none">Cô ấy đã cắt một miếng bánh ngọt cho tôi vào ngày hôm qua.</li>
+					<li className="margin-bottom-20 list-none">Dùng thời quá khứ đơn với dạng cut để chỉ việc đã xảy ra và kết thúc trong quá khứ (từ này giữ nguyên hình thức không đổi ở dạng quá khứ).</li>
+			
+					<li>the GRASS has been <strong>CUT</strong> SHORT in the GARden.</li>
+					<li className="list-none">Bãi cỏ trong vườn đã được cắt ngắn.</li>
+					<li className="list-none">Cấu trúc này dùng từ chỉ hành động ở dạng hoàn thành (cut) đi sau has been để nói về một việc đã hoàn tất và để lại kết quả ở hiện tại, với chủ thể chịu tác động là The grass (bãi cỏ).</li>
+			
+				</ul>
+			
+			
+			<h4 className="margin-y-40">55. HIT</h4>
+			
+				<ul className="list-square">
+			
+					<li>he <strong>HITS</strong> the TENnis BALL with GREAT FORCE.</li>
+					<li className="list-none">Anh ấy đánh quả bóng quần vợt với một lực rất mạnh.</li>
+					<li className="margin-bottom-20 list-none">Dùng thời hiện tại đơn với dạng HITS (cho chủ thể ngôi thứ ba số ít he) để chỉ hành động diễn ra mang tính thường xuyên hoặc kỹ thuật trong thể thao.</li>
+			
+					<li>the CAR <strong>HIT</strong> a TREE on the SIDE of the ROAD LAST NIGHT.</li>
+					<li className="list-none">Chiếc ô tô đã đâm vào một cái cây bên vệ đường vào tối qua.</li>
+					<li className="margin-bottom-20 list-none">Dùng thời quá khứ đơn với dạng HIT để chỉ sự việc đã xảy ra và kết thúc trong quá khứ (từ này giữ nguyên hình thức không đổi ở dạng quá khứ).</li>
+			
+					<li>the TARget has been <strong>HIT</strong> sucCESSfully by the ARcher.</li>
+					<li className="list-none">Mục tiêu đã bị bắn trúng thành công bởi cung thủ.</li>
+					<li className="list-none">Cấu trúc này dùng từ chỉ hành động ở dạng hoàn thành (HIT) đi sau has been để nói về một việc đã hoàn tất và để lại kết quả ở hiện tại, với chủ thể chịu tác động là the TARget (mục tiêu).</li>
+			
+				</ul>
+			
+			
+			<h4 className="margin-y-40">56. HURT</h4>
+			
+				<ul className="list-square">
+			
+					<li>he <strong>HURTS</strong> his KNEE when PLAYing FOOTball.</li>
+					<li className="list-none">Anh ấy làm đau đầu gối của mình khi đá bóng.</li>
+					<li className="margin-bottom-20 list-none">Dùng thời hiện tại đơn với dạng HURTS (cho chủ thể ngôi thứ ba số ít he) để chỉ việc xảy ra thường xuyên hoặc một thói quen khi chơi thể thao.</li>
+			
+					<li>she <strong>HURT</strong> her FINger while COOKing YESterday.</li>
+					<li className="list-none">Cô ấy đã làm đứt tay (làm đau ngón tay) trong lúc nấu ăn vào ngày hôm qua.</li>
+					<li className="margin-bottom-20 list-none">Dùng thời quá khứ đơn với dạng HURT để chỉ việc đã xảy ra và kết thúc trong quá khứ (từ này giữ nguyên hình thức không đổi ở dạng quá khứ).</li>
+			
+					<li>his FEELings have been <strong>HURT</strong> by those HARSH WORDS.</li>
+					<li className="list-none">Cảm xúc của anh ấy đã bị tổn thương bởi những lời lẽ cay nghiệt đó.</li>
+					<li className="list-none">Cấu trúc này dùng từ chỉ hành động ở dạng hoàn thành (HURT) đi sau have been để nói về một việc đã tác động và để lại kết quả ở hiện tại, với chủ thể chịu tác động là his FEELings (cảm xúc của anh ấy).</li>
+			
+				</ul>
+			
+			
+			<h4 className="margin-y-40">57. COST</h4>
+			
+				<ul className="list-square">
+			
+					<li>this NEW PHONE <strong>COSTS</strong> a LOT of MONey.</li>
+					<li className="list-none">Chiếc điện thoại mới này tốn rất nhiều tiền.</li>
+					<li className="margin-bottom-20 list-none">Dùng thời hiện tại đơn với dạng COSTS (cho chủ thể ngôi thứ ba số ít this NEW PHONE) để chỉ một sự thật hoặc mức giá ở hiện tại.</li>
+			
+					<li>the TRIP <strong>COST</strong> us a FORtune LAST SUMmer.</li>
+					<li className="list-none">Chuyến đi đó đã ngốn của chúng tôi một gia tài vào mùa hè năm ngoái.</li>
+					<li className="margin-bottom-20 list-none">Dùng thời quá khứ đơn với dạng COST để chỉ sự việc đã xảy ra và kết thúc trong quá khứ (đặc biệt từ này giữ nguyên hình thức ở dạng quá khứ).</li>
+			
+					<li>a LOT of TIME has been <strong>COST</strong> by this deLAY.</li>
+					<li className="list-none">Rất nhiều thời gian đã bị lãng phí/thiệt hại bởi sự chậm trễ này.</li>
+					<li className="list-none">Cấu trúc này dùng từ chỉ hành động ở dạng hoàn thành (COST) đi sau has been để nói về một việc đã tác động đến hiện tại, với chủ thể chịu tác động là a LOT of TIME (rất nhiều thời gian).</li>
+			
+				</ul>
+			
+			
 			<h4 className="margin-y-40">58. BUILD</h4>
 			
 				<ul className="list-square">
 			
-					<li>he BUILDS a NEW HOUSE for his PARents.</li>
+					<li>he <strong>BUILDS</strong> a NEW HOUSE for his PARents.</li>
 					<li className="list-none">Anh ấy xây một ngôi nhà mới cho ba mẹ mình.</li>
 					<li className="margin-bottom-20 list-none">Dùng thời hiện tại đơn với dạng BUILDS (cho chủ thể ngôi thứ ba số ít he) để chỉ việc làm diễn ra mang tính thường xuyên hoặc kế hoạch đang thực hiện.</li>
 			
-					<li>they BUILT a SMALL BRIDGE over the RIVER LAST YEAR.</li>
+					<li>they <strong>BUILT</strong> a SMALL BRIDGE over the RIVER LAST YEAR.</li>
 					<li className="list-none">Họ đã xây một cây cầu nhỏ bắc qua sông vào năm ngoái.</li>
 					<li className="margin-bottom-20 list-none">Dùng thời quá khứ đơn với dạng BUILT để chỉ việc đã hoàn tất hoàn toàn trong quá khứ, đi kèm mốc thời gian rõ ràng là LAST YEAR.</li>
 			
-					<li>this WEBsite has been BUILT with GREAT CARE.</li>
+					<li>this WEBsite has been <strong>BUILT</strong> with GREAT CARE.</li>
 					<li className="list-none">Trang web này đã được xây dựng rất cẩn thận.</li>
 					<li className="list-none">Cấu trúc này dùng từ chỉ hành động ở dạng hoàn thành (BUILT) đi sau has been để nói về một việc đã hoàn tất và để lại kết quả ở hiện tại, với chủ thể chịu tác động là this WEBsite (trang WEB này).</li>
 			

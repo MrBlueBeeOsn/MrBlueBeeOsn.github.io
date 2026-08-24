@@ -162,49 +162,97 @@ export default function GerundsVaInfinitives(): React.JSX.Element {
 			<h3 className="margin-y-50 text-center">3. Những cặp "anh em sinh đôi nhưng tính cách trái ngược" – dễ nhầm nhất</h3>
 					
 			<p>Cặp đôi đáng sợ nhất mà ai cũng từng bị lừa:</p>
-
-				<table className="margin-y-50">
-					<thead>
-						<tr>
-							<td>Động cơ</td>
-							<th>V-ing (thường là trải nghiệm đã xảy ra)</th>
-							<th>to V (hành động sau đó, có chủ đích)</th>
-						</tr>
-					</thead>
-
-					<tbody>
-
-						<tr>
-								<td>remember</td>
-								<td>Remember <strong>locking</strong> the door? (Nhớ là đã khóa chưa?)</td>
-								<td>Remember <strong>to lock</strong> the door. (Nhớ khóa cửa nhé!)</td>
-						</tr>
-						
-						<tr>
-								<td>forget</td>
-								<td>I’ll never forget <strong>meeting</strong> you. (không bao giờ quên việc gặp bạn)</td>
-								<td>Don’t forget <strong>to buy</strong> milk. (đừng quên mua sữa)</td>
-						</tr>
-						
-						<tr>
-								<td>stop</td>
-								<td>I stopped <strong>smoking</strong>. (bỏ thuốc lá)</td>
-								<td>I stopped <strong>to smoke</strong>. (dừng lại để… hút điếu thuốc)</td>
-						</tr>
-
-						<tr>
-								<td>try</td>
-								<td>Try <strong>eating</strong> less sugar. (thử xem ăn ít đường có ổn không)</td>
-								<td>Try <strong>to eat</strong> less sugar. (cố gắng hết sức để ăn ít đường)</td>
-						</tr>
-
-						<tr>
-								<td>regret</td>
-								<td>I regret <strong>telling</strong> her the truth. (hối hận vì đã nói)</td>
-								<td>I regret <strong>to tell</strong> you that… (tiếc phải thông báo rằng…) – rất trang trọng</td>
-						</tr>
-					</tbody>
-				</table>
+			
+			<h4 className="margin-y-40">1. reMEMber</h4>
+			
+				<ul className="list-square">
+			
+					<li>Do you <strong>reMEMber</strong> LOCKing the DOOR?</li>
+					<li className="list-none">Bạn có nhớ là đã khóa cửa chưa?</li>
+					<li className="margin-bottom-20 list-none">You là chủ thể. Cấu trúc reMEMber + hành động thêm đuôi -ing dùng để hỏi hoặc nhắc lại một sự việc, hành động đã xảy ra trong quá khứ (hành động khóa cửa đã làm rồi, giờ hỏi lại xem có nhớ việc đó không).</li>
+			
+					<li><strong>reMEMber</strong> to LOCK the DOOR.</li>
+					<li className="list-none">Hãy nhớ khóa cửa nhé.</li>
+					<li className="list-none">Câu mệnh lệnh ngầm hiểu chủ thể là You. Cấu trúc reMEMber + to + hành động nguyên mẫu dùng để nhắc nhở ai đó thực hiện một nhiệm vụ, một việc chưa làm ở tương lai (cửa chưa khóa, cần nhớ để làm).</li>
+			
+				</ul>
+			
+			
+			<h4 className="margin-y-40">2. forGET</h4>
+			
+				<ul className="list-square">
+			
+					<li>i’ll NEVer <strong>forGET</strong> MEETing you at the COFfee SHOP LAST SUMmer.</li>
+					<li className="list-none">Tôi sẽ không bao giờ quên lần gặp bạn ở quán cà phê vào mùa hè năm ngoái.</li>
+					<li className="margin-bottom-20 list-none">i là chủ thể. Cấu trúc forGET + hành động thêm đuôi -ing dùng để diễn tả việc không bao giờ quên một sự việc, kỷ niệm đã xảy ra trong quá khứ.</li>
+			
+					<li>DON’T <strong>forGET</strong> to BUY MILK on your WAY HOME from WORK toDAY.</li>
+					<li className="list-none">Đừng quên mua sữa trên đường đi làm về hôm nay nhé.</li>
+					<li className="list-none">Câu mệnh lệnh ngầm hiểu chủ thể là you. Cấu trúc forGET + to + hành động nguyên mẫu nhắc nhở ai đó nhớ thực hiện một nhiệm vụ, một việc chưa làm ở tương lai.</li>
+			
+				</ul>
+			
+			
+			<h4 className="margin-y-40">3. STOP</h4>
+			
+				<ul className="list-square">
+			
+					<li>he <strong>STOPPED</strong> SMOking LAST YEAR to imPROVE his HEALTH.</li>
+					<li className="list-none">Anh ấy đã bỏ hút thuốc vào năm ngoái để cải thiện sức khỏe.</li>
+					<li className="margin-bottom-20 list-none">he là chủ thể. Cấu trúc stop + hành động thêm đuôi -ing mang nghĩa dừng hẳn hoặc từ bỏ một việc đang làm/thói quen cũ.</li>
+			
+					<li>he <strong>STOPPED</strong> to SMOKE a cigaRETTE on his WAY HOME from WORK.</li>
+					<li className="list-none">Anh ấy đã dừng lại để hút một điếu thuốc trên đường đi làm về.</li>
+					<li className="list-none">he là chủ thể. Cấu trúc stop + to + hành động nguyên mẫu mang nghĩa dừng việc đang làm lại nhằm mục đích thực hiện hành động tiếp theo.</li>
+			
+				</ul>
+			
+			
+			<h4 className="margin-y-40">4. TRY</h4>
+			
+				<ul className="list-square">
+			
+					<li>you should <strong>TRY</strong> EATing LESS SUGar.</li>
+					<li className="list-none">Bạn nên thử ăn ít đường đi xem sao.</li>
+					<li className="margin-bottom-20 list-none">you là chủ thể, kết hợp với cấu trúc thử nghiệm một việc để xem kết quả.</li>
+			
+					<li>you NEED to <strong>TRY</strong> to EAT LESS SUGar.</li>
+					<li className="list-none">Bạn cần phải cố gắng ăn ít đường lại.</li>
+					<li className="list-none">you là chủ thể, kết hợp với cấu trúc thể hiện sự nỗ lực vượt qua khó khăn để thực hiện một hành động.</li>
+			
+				</ul>
+			
+			
+			<h4 className="margin-y-40">5. reGRET</h4>
+			
+				<ul className="list-square">
+			
+					<li>i <strong>reGRET</strong> TELLing her the TRUTH.</li>
+					<li className="list-none">Tôi hối hận vì đã nói cho cô ấy sự thật.</li>
+					<li className="margin-bottom-20 list-none">Cấu trúc "reGRET + hành động thêm đuôi -ing": Dùng để diễn tả sự hối hận về một việc đã xảy ra trong quá khứ.</li>
+			
+					<li>i <strong>reGRET</strong> to TELL you that your appliCAtion has been reJECTed.</li>
+					<li className="list-none">Tôi rất tiếc phải thông báo với bạn rằng đơn xin việc của bạn đã bị từ chối.</li>
+					<li className="list-none">Cấu trúc "reGRET to + hành động nguyên mẫu": Thường dùng ở dạng trang trọng (đặc biệt với các từ chỉ việc thông báo như inFORM, TELL, anNOUNCE) để thông báo một tin buồn hoặc không mấy tốt đẹp ngay tại thời điểm nói.</li>
+			
+				</ul>
+			
+			
+			<h4 className="margin-y-40"></h4>
+			
+				<ul className="list-square">
+			
+					<li></li>
+					<li className="list-none"></li>
+					<li className="margin-bottom-20 list-none"></li>
+			
+					<li></li>
+					<li className="list-none"></li>
+					<li className="list-none"></li>
+			
+				</ul>
+			
+			
 
 			{/* 4. Mẹo nhớ siêu nhanh cho người Việt (2025 edition) */}
 

@@ -882,7 +882,7 @@ export default function AppRoutes(): React.JSX.Element {
 					
 					<Route path="/tieng-anh/meo-hay-de-viet-tieng-anh-muot-ma-hon" element={<VietTiengAnhMuotMaHon />} />
 
-					<Route path="/tieng-anh/bang-dong-tu-bat-quy-tac-pho-bien" element={<IrregularVerbs />} />
+					<Route path="/tieng-anh/irregular-verbs" element={<IrregularVerbs />} />
 					<Route path="/tieng-anh/phrasal-verbs" element={<PhrasalVerbs />} />
 
 
