@@ -17,7 +17,7 @@ interface Question {
 	explanation: string;
 }
 
-export default function TracNghiemGerundsVaInfinitives(): React.JSX.Element {
+export default function TracNghiemGerundsAndInfinitives(): React.JSX.Element {
 	// Danh sách câu hỏi về Gerunds (V-ing) và Infinitives (To V/V nguyên thể) cơ bản
 	const questions: Question[] = [
 		{

@@ -17,7 +17,7 @@ export default function SentenceVariety8(): React.JSX.Element {
 		
 			<h4><HashLink smooth to="/tieng-anh#thinking-terms"><mark className="highlight-tertiary-padding-4-8">THINKing</mark></HashLink></h4>
 
-			<h1 className="margin-y-50 text-center">Sentence Variety
+			<h1 className="margin-y-50 text-center">SENtence vaRIety
 												
 				<sup><HashLink smooth to="/tieng-anh/sentence-variety-1">&nbsp;1&nbsp;</HashLink>
 				</sup>

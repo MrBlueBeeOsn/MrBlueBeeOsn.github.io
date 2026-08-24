@@ -66,7 +66,7 @@ const Posts = lazy(() => import('@/data/Posts'));
 	const PhrasalVerbsQuestions = lazy(() => import('@/2_main/english/quiz/phrasalverbs/PhrasalVerbsQuestions'));
 
 	// Gerunds and Infinitives
-	const GerundsandInfinitivesQuiz = lazy(() => import('@/2_main/english/quiz/vingtov/GerundsandInfinitivesQuiz'));
+	const GerundsAndInfinitivesQuiz = lazy(() => import('@/2_main/english/quiz/vingtov/GerundsandInfinitivesQuiz'));
 
 	// Subject-Verb Agreement
 	const ENSubjectVerbQuiz = lazy(() => import('@/2_main/english/quiz/sva/ENSubjectVerbQuiz'));
@@ -145,7 +145,7 @@ const Posts = lazy(() => import('@/data/Posts'));
 
 	const PREsentPERfect = lazy(() => import('@/2_main/english/tienganh/verbs/PREsentPERfect'));
 
-	const GerundsVaInfinitives = lazy(() => import('@/2_main/english/tienganh/verbs/GerundsVaInfinitives'));
+	const GerundsAndInfinitives = lazy(() => import('@/2_main/english/tienganh/verbs/GerundsAndInfinitives'));
 	const NhanBietTinhTuTiengAnh = lazy(() => import('@/2_main/english/tienganh/adjective/NhanBietTinhTuTiengAnh'));
 
 	const BiMatVeTuDuyNgonNgu1 = lazy(() => import('@/2_main/english/tienganh/folder/BiMatVeTuDuyNgonNgu1'));
@@ -295,7 +295,7 @@ const Posts = lazy(() => import('@/data/Posts'));
 	const TracNghiemThiTiengAnh = lazy(() => import('@/2_main/english/tienganh/quiz/thi/TracNghiemThiTiengAnh'));
 
 	// Gerunds and Infinitives
-	const TracNghiemGerundsVaInfinitives = lazy(() => import('@/2_main/english/tienganh/quiz/vingtov/TracNghiemGerundsVaInfinitives'));
+	const TracNghiemGerundsAndInfinitives = lazy(() => import('@/2_main/english/tienganh/quiz/vingtov/TracNghiemGerundsAndInfinitives'));
 
 	// Subject-Verb Agreement
 	const EVSubjectVerbQuiz = lazy(() => import('@/2_main/english/tienganh/quiz/sva/EVSubjectVerbQuiz'));
@@ -668,7 +668,7 @@ export default function AppRoutes(): React.JSX.Element {
 					<Route path="/english/phrasal-verbs-questions" element={<PhrasalVerbsQuestions />} />
 
 					{/* Gerunds and Infinitives */}
-					<Route path="/english/gerunds-and-infinitives-quiz" element={<GerundsandInfinitivesQuiz />} />
+					<Route path="/english/gerunds-and-infinitives-quiz" element={<GerundsAndInfinitivesQuiz />} />
 
 					{/* Subject-Verb Agreement */}
 					<Route path="/english/en-subject-verb-quiz" element={<ENSubjectVerbQuiz />} />
@@ -749,7 +749,7 @@ export default function AppRoutes(): React.JSX.Element {
 
 					<Route path="/tieng-anh/present-perfect" element={<PREsentPERfect />} />
 
-					<Route path="/tieng-anh/gerunds-va-infinitives" element={<GerundsVaInfinitives />} />
+					<Route path="/tieng-anh/gerunds-and-infinitives" element={<GerundsAndInfinitives />} />
 					<Route path="/tieng-anh/bi-quyet-nhan-biet-tinh-tu-trong-tieng-anh" element={<NhanBietTinhTuTiengAnh />} />
 
 					<Route path="/tieng-anh/bi-mat-ve-tu-duy-ngon-ngu-1" element={<BiMatVeTuDuyNgonNgu1 />} />
@@ -900,7 +900,7 @@ export default function AppRoutes(): React.JSX.Element {
 					<Route path="/tieng-anh/trac-nghiem-thi-tieng-anh" element={<TracNghiemThiTiengAnh />} />
 
 					{/* Gerunds and Infinitives */}
-					<Route path="/tieng-anh/trac-nghiem-gerunds-va-infinitives" element={<TracNghiemGerundsVaInfinitives />} />
+					<Route path="/tieng-anh/trac-nghiem-gerunds-and-infinitives" element={<TracNghiemGerundsAndInfinitives />} />
 
 					{/* Subject-Verb Agreement */}
 					<Route path="/tieng-anh/ev-subject-verb-quiz" element={<EVSubjectVerbQuiz />} />

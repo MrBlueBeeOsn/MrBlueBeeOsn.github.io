@@ -17,7 +17,7 @@ interface Question {
 	explanation: string;
 }
 
-export default function GerundsandInfinitivesQuiz(): React.JSX.Element {
+export default function GerundsAndInfinitivesQuiz(): React.JSX.Element {
 	// Danh sách câu hỏi về Gerunds and Infinitives cơ bản
 	const questions: Question[] = [
 		{

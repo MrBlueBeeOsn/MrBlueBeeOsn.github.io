@@ -5,9 +5,9 @@ import EyeIcon from '@/components/view/EyeIcon';
 import ViewCounter from '@/components/view/ViewCounter';
 import LikeButton from '@/components/like/LikeButton';
 
-export default function GerundsVaInfinitives(): React.JSX.Element {
+export default function GerundsAndInfinitives(): React.JSX.Element {
 
-	const postId = "GerundsVaInfinitives";
+	const postId = "GerundsAndInfinitives";
 
 	return (<>
 
@@ -17,37 +17,49 @@ export default function GerundsVaInfinitives(): React.JSX.Element {
 		
 			<h4><HashLink smooth to="/tieng-anh#verbs-terms"><mark className="highlight-tertiary-padding-4-8">VERBS</mark></HashLink></h4>
 
-			<h1 className="margin-y-50 text-center">Gerunds và Infinitives</h1>
+			<h1 className="margin-y-50 text-center">GERunds and inFINitives</h1>
 
 			<h4 className="margin-bottom-30 text-center">“Kẻ thù” lớn nhất của người học tiếng Anh… nhưng thực ra rất dễ thương nếu bạn hiểu đúng cách</h4>
 
 			<p className="margin-top-20">Bạn đã bao giờ cảm thấy hoang mang khi đứng trước những câu như:</p>
+
+			<h4 className="margin-y-40">enJOY</h4>
 			
 				<ul className="list-square">
 			
-					<li>i enJOY SWIMming. → đúng</li>
+					<li>i <strong>enJOY</strong> SWIMming. → đúng</li>
 					<li className="list-none">Tôi thích bơi lội. (Thời hiện tại đơn)</li>
 					<li className="margin-bottom-20 list-none">Từ enJOY thường được theo sau bởi một từ chỉ hành động được thêm đuôi -ing (cụ thể ở đây là SWIMming) để diễn tả một sở thích hoặc niềm vui chung chung ở hiện tại.</li>
 			
-					<li className="margin-bottom-20">i enJOY to SWIM. → sai</li>
-			
-					<li>i WANT to GO. → đúng</li>
-					<li className="list-none">Tôi muốn đi. (Thời hiện tại đơn)</li>
-					<li className="margin-bottom-20 list-none">Từ WANT dùng để diễn tả mong muốn ở hiện tại, và nó được nối tiếp ngay bằng một từ chỉ hành động có chữ to đi kèm ở phía trước (to GO).</li>
-
-					<li>i WANT GOing → sai kinh khủng</li>
+					<li>i <strong>enJOY</strong> to SWIM. → sai</li>
 			
 				</ul>
 
-			<p className="margin-top-20">Rồi đột nhiên lại gặp những câu "phản bội" kiểu:</p>
+			
+			<h4 className="margin-y-40">WANT</h4>
 			
 				<ul className="list-square">
 			
-					<li>i STOPPED SMOKing.</li>
+					<li>i <strong>WANT</strong> to GO. → đúng</li>
+					<li className="list-none">Tôi muốn đi. (Thời hiện tại đơn)</li>
+					<li className="margin-bottom-20 list-none">Từ WANT dùng để diễn tả mong muốn ở hiện tại, và nó được nối tiếp ngay bằng một từ chỉ hành động có chữ to đi kèm ở phía trước (to GO).</li>
+
+					<li>i <strong>WANT</strong> GOing → sai kinh khủng</li>
+			
+				</ul>
+			
+
+			<p className="margin-top-20 text-indent-whole">Rồi đột nhiên lại gặp những câu "phản bội" kiểu:</p>
+
+			<h4 className="margin-y-40">STOP</h4>
+			
+				<ul className="list-square">
+			
+					<li>i <strong>STOPPED</strong> SMOKing.</li>
 					<li className="list-none">Tôi đã bỏ hút thuốc (rồi). (Thời quá khứ đơn)</li>
 					<li className="margin-bottom-20 list-none">Cấu trúc stop đi kèm với từ chỉ hành động có đuôi -ing (SMOKing) mang ý nghĩa là ngừng hẳn hoặc từ bỏ một thói quen (tôi đã từng hút thuốc và bây giờ không làm việc đó nữa).</li>
 			
-					<li>i STOPPED to SMOKE.</li>
+					<li>i <strong>STOPPED</strong> to SMOKE.</li>
 					<li className="list-none">Tôi đã dừng lại để hút thuốc. (Thời quá khứ đơn)</li>
 					<li className="margin-bottom-20 list-none">Cấu trúc stop đi kèm với từ chỉ hành động có chữ to ở trước (to SMOKE) mang ý nghĩa là tạm dừng một việc đang làm lại để chuyển sang thực hiện một việc khác (ví dụ: đang đi dọc đường thì dừng chân lại để hút thuốc).</li>
 			
@@ -59,48 +71,32 @@ export default function GerundsVaInfinitives(): React.JSX.Element {
 
 			<h3 className="margin-y-50 text-center">1. Hai nhân vật chính và tính cách cơ bản</h3>
 
-				<table className="margin-y-50">
-					<thead>
-						<tr>
-							<td>Đặc điểm</td>
-							<th>Gerund (V-ing)</th>
-							<th>Infinitive (to + V)</th>
-						</tr>
-					</thead>
 
-					<tbody>
-
-						<tr>
-								<td>Bản chất</td>
-								<td>Danh cơ hóa động cơ</td>
-								<td>Động cơ nguyên mẫu có "to"</td>
-						</tr>
-						
-						<tr>
-								<td>Cảm giác</td>
-								<td>Hành động như một <strong>hoạt động</strong>/<strong>sự việc</strong></td>
-								<td>Hành động như một <strong>mục đích</strong>/<strong>ý định</strong></td>
-						</tr>
-						
-						<tr>
-								<td>Thường đứng ở vị trí</td>
-								<td>Danh chủ, danh nhận, sau giới cơ</td>
-								<td>Danh nhận của một số hành động nhất định</td>
-						</tr>
-
-						<tr>
-								<td>Cảm giác thời gian</td>
-								<td>Thường mang tính <strong>chung chung</strong>, <strong>thói quen</strong>, <strong>trải nghiệm</strong></td>
-								<td>Thường mang tính <strong>tương lai</strong>, <strong>dự định</strong></td>
-						</tr>
-
-						<tr>
-								<td>Ví dụ cảm tính</td>
-								<td>"Swimming makes me happy" (việc bơi lội nói chung)</td>
-								<td>"I want to swim in Maldives" (tôi muốn đi bơi ở Maldives – ý định cụ thể)</td>
-						</tr>
-					</tbody>
-				</table>
+			<h4 className="margin-y-40">SWIMming</h4>
+			
+				<ul className="list-square">
+			
+					<li><strong>SWIMming</strong> in the COOL BLUE SEA on a HOT SUMmer MORNing MAKES me exTREMEly HAPpy.</li>
+					<li className="list-none">Bơi lội ở làn nước biển xanh mát vào một buổi sáng mùa hè nóng nực làm tôi vô cùng hạnh phúc.</li>
+					<li className="margin-bottom-20 list-none">Cụm SWIMming (việc bơi lội) đóng vai trò là chủ thể của câu, kết hợp với động từ MAKES và từ "me" làm danh nhận (đối tượng nhận tác động trở nên hạnh phúc).</li>
+			
+					<li>i WANT <strong>to SWIM</strong> in the NEWly Open inFINity POOL at the ROOFtop hoTEL this WEEKEND.</li>
+					<li className="list-none">Tôi muốn bơi ở bể bơi vô cực mới mở trên tầng thượng của khách sạn vào cuối tuần này.</li>
+					<li className="list-none">i là chủ thể, kết hợp với cấu trúc WANT to + hành động nguyên mẫu và cụm từ chỉ địa điểm đóng vai trò là danh nhận nơi chốn phía sau.</li>
+			
+				</ul>
+			
+			
+			<p className="margin-top-20">Tóm tắt điểm khác biệt cấu trúc</p>
+			
+				<ul className="list-square">
+			
+					<li>Dạng V-ing làm chủ thể: Khi một hành động đứng ở đầu câu làm trung tâm gây ra sự việc (chủ thể chính), nó thường được chia ở dạng thêm đuôi -ing.</li>
+			
+					<li>Dạng want to + hành động: Dùng để diễn tả mong muốn của chủ thể khi thực hiện một hành động nào đó.</li>
+			
+				</ul>
+			
 
 			{/* 2. Bảng phân loại siêu thực dụng (cập nhật 2025) */}
 

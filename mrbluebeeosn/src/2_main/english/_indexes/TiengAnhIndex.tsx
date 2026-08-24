@@ -123,18 +123,18 @@ export default function TiengAnhIndex(): React.JSX.Element {
         </details>
 
         {/* =============================
-              Gerunds và Infinitives Quiz
+              GERunds and inFINitives Quiz
         ============================= */}
 
         <details className="sub-box-fix-2">
       
-          <summary id="ving-tov-basic-practice"><mark className="highlight-secondary-padding-2-4">Gerunds và Infinitives</mark></summary>
+          <summary id="ving-tov-basic-practice"><mark className="highlight-secondary-padding-2-4">GERunds and inFINitives</mark></summary>
 
           <ul className="list-border1">
 
             <li>
               <div className="li-content">
-                <Link to="/tieng-anh/trac-nghiem-gerunds-va-infinitives">Trắc Nghiệm Gerunds và Infinitives</Link>
+                <Link to="/tieng-anh/trac-nghiem-gerunds-and-infinitives">Trắc Nghiệm Gerunds và Infinitives</Link>
               </div>
             </li>
 
@@ -492,7 +492,7 @@ export default function TiengAnhIndex(): React.JSX.Element {
 
             <li>
               <div className="li-content">
-                <Link to="/tieng-anh/gerunds-va-infinitives">Gerunds và Infinitives</Link>
+                <Link to="/tieng-anh/gerunds-and-infinitives">GERunds and inFINitives</Link>
               </div>
             </li>
 
@@ -660,16 +660,16 @@ export default function TiengAnhIndex(): React.JSX.Element {
         <div className="sub-box">
 
           {/* =============================
-               FUNCtional THINKing
+               [BASE][PHRASE][CLAUSE]
           ============================= */}
       
-          <p id="functional-thinking-terms"><mark className="highlight-secondary-padding-2-4">FUNCtional THINKing</mark></p>
+          <p id="base-phrase-clause-terms"><mark className="highlight-secondary-padding-2-4">[BASE][PHRASE][CLAUSE]</mark></p>
 
           <ul className="list-border1">
 
             <li>
               <div className="li-content">
-                <Link to="/tieng-anh/tiered-structure-1">[BASE][PHRASE][CLAUSE]
+                <Link to="/tieng-anh/tiered-structure-1">[TIERED STRUCture]
                 {/* <sup>&nbsp;1&nbsp;</sup> */}
                 </Link>
                 {/* <Link to="/tieng-anh/tiered-structure-2">
@@ -705,7 +705,7 @@ export default function TiengAnhIndex(): React.JSX.Element {
 
             <li>
               <div className="li-content">
-                <Link to="/tieng-anh/nine-box-1">[Kiến trúc Tư duy 3x3]
+                <Link to="/tieng-anh/nine-box-1">[FUNCtional THINKing]
                 {/* <sup>&nbsp;1&nbsp;</sup> */}
                 </Link>
                 {/* <Link to="/tieng-anh/nine-box-2">
@@ -740,7 +740,7 @@ export default function TiengAnhIndex(): React.JSX.Element {
 
             <li>
               <div className="li-content">
-                <Link to="/tieng-anh/s-v-1">[3 Chức Năng][3 Cấp Độ]
+                <Link to="/tieng-anh/s-v-1">[FUNCtions][LEVels]
                 {/* <sup>&nbsp;1&nbsp;</sup> */}
                 </Link>
                 {/* <Link to="/tieng-anh/s-v-2">
@@ -774,7 +774,7 @@ export default function TiengAnhIndex(): React.JSX.Element {
 
             <li>
               <div className="li-content">
-                <Link to="/tieng-anh/super-words-1">[Super Verb Base]
+                <Link to="/tieng-anh/super-words-1">[SUper VERB BASE]
                 {/* <sup>&nbsp;1&nbsp;</sup> */}
                 </Link>
                 {/* <Link to="/tieng-anh/super-words-2">
@@ -809,7 +809,7 @@ export default function TiengAnhIndex(): React.JSX.Element {
 
             <li>
               <div className="li-content">
-                <Link to="/tieng-anh/three-dc-1">[BỘ 3 PHỤ KHỐI]
+                <Link to="/tieng-anh/three-dc-1">[FORMS][FUNCtions]
                 {/* <sup>&nbsp;1&nbsp;</sup> */}
                 </Link>
                 {/* <Link to="/tieng-anh/three-dc-2">
@@ -844,7 +844,7 @@ export default function TiengAnhIndex(): React.JSX.Element {
 
             <li>
               <div className="li-content">
-                <Link to="/tieng-anh/adj-placement-1">[Tính][Adjective]
+                <Link to="/tieng-anh/adj-placement-1">[ADjective FUNCtion]
                 {/* <sup>&nbsp;1&nbsp;</sup> */}
                 </Link>
                 {/* <Link to="/tieng-anh/adj-placement-2">
@@ -880,7 +880,7 @@ export default function TiengAnhIndex(): React.JSX.Element {
 
             <li>
               <div className="li-content">
-                <Link to="/tieng-anh/lego-assembly-1">[Tư Duy Lắp Ghép]
+                <Link to="/tieng-anh/lego-assembly-1">[LEGo asSEMbly]
                 {/* <sup>&nbsp;1&nbsp;</sup> */}
                 </Link>
                 {/* <Link to="/tieng-anh/lego-assembly-2">
@@ -996,7 +996,7 @@ export default function TiengAnhIndex(): React.JSX.Element {
 
             <li>
               <div className="li-content">
-                <Link to="/tieng-anh/sentence-variety-1">Sentence Variety
+                <Link to="/tieng-anh/sentence-variety-1">SENtence vaRIety
                 {/* <sup>&nbsp;1&nbsp;</sup> */}
                 </Link>
                 {/* <Link to="/tieng-anh/sentence-variety-2">

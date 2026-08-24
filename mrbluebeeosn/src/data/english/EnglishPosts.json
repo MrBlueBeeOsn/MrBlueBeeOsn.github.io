@@ -73,7 +73,7 @@
       "date": "2025-12-10"
     },
     { 
-      "id": "GerundsandInfinitivesQuiz",
+      "id": "GerundsAndInfinitivesQuiz",
       "categoryDisplay": "English",
       "categorySlug": "english",
       "title": "Quiz",
@@ -203,7 +203,7 @@
 			"categoryDisplay": "Tiếng Anh",
 			"categorySlug": "tieng-anh",
 			"title": "Matrix Quiz",
-			"content": "Morphology × Function Matrix Mastery",
+			"content": "Form × Function Matrix Mastery",
 			"slug": "tieng-anh/matrix-quiz",
 			"date": "2026-06-14"
 		},

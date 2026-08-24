@@ -15,9 +15,9 @@ export default function NineBox1(): React.JSX.Element {
 
 		<article>
 		
-			<h4><HashLink smooth to="/tieng-anh#functional-thinking-terms"><mark className="highlight-tertiary-padding-4-8">FUNCtional THINKing</mark></HashLink></h4>
+			<h4><HashLink smooth to="/tieng-anh#base-phrase-clause-terms"><mark className="highlight-tertiary-padding-4-8">[BASE][PHRASE][CLAUSE]</mark></HashLink></h4>
 
-			<h1 className="margin-y-50 text-center">[Kiến trúc Tư duy 3x3]
+			<h1 className="margin-y-50 text-center">[FUNCtional THINKing]
 												
 				{/* <sup><HashLink smooth to="/tieng-anh/nine-box-1">&nbsp;1&nbsp;</HashLink>
 				</sup>

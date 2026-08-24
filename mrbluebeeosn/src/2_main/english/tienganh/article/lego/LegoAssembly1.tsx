@@ -15,9 +15,9 @@ export default function LegoAssembly1(): React.JSX.Element {
 
 		<article>
 		
-			<h4><HashLink smooth to="/tieng-anh#functional-thinking-terms"><mark className="highlight-tertiary-padding-4-8">FUNCtional THINKing</mark></HashLink></h4>
+			<h4><HashLink smooth to="/tieng-anh#base-phrase-clause-terms"><mark className="highlight-tertiary-padding-4-8">[BASE][PHRASE][CLAUSE]</mark></HashLink></h4>
 
-			<h1 className="margin-y-50 text-center">[Tư Duy Lắp Ghép]
+			<h1 className="margin-y-50 text-center">[LEGo asSEMbly]
 												
 				{/* <sup><HashLink smooth to="/tieng-anh/lego-assembly-1">&nbsp;1&nbsp;</HashLink>
 				</sup>
@@ -48,7 +48,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 
 			</h1>
 
-			<h4 className="margin-bottom-30 text-center">Phá Vỡ 12 Thời: Học Tiếng Anh Theo [Tư Duy Lắp Ghép][Lego Assembly]</h4>
+			<h4 className="margin-bottom-30 text-center">Phá Vỡ 12 Thời: Học Tiếng Anh Theo [Tư Duy Lắp Ghép][LEGo asSEMbly]</h4>
 
 			<p>Bạn đã dành bao nhiêu năm cuộc đời để học thuộc lòng những công thức cấu trúc phức tạp? Để rồi mỗi khi định mở miệng nói một câu, bộ nền não lại mất vài giây "đóng băng" để lục tìm trong trí nhớ xem phải chia các mảnh ghép [Lego] ra sao?</p>
 
