@@ -552,8 +552,8 @@ const Posts = lazy(() => import('@/data/Posts'));
 	const Patiently2 = lazy(() => import('@/2_main/english/vocabulary/tinhkiennhan/Patiently2'));
 	const TIRElessly1 = lazy(() => import('@/2_main/english/vocabulary/tinhkiennhan/TIRElessly1'));
 	const TIRElessly2 = lazy(() => import('@/2_main/english/vocabulary/tinhkiennhan/TIRElessly2'));
-	const Persistently1 = lazy(() => import('@/2_main/english/vocabulary/tinhkiennhan/Persistently1'));
-	const Persistently2 = lazy(() => import('@/2_main/english/vocabulary/tinhkiennhan/Persistently2'));
+	const PerSIStently1 = lazy(() => import('@/2_main/english/vocabulary/tinhkiennhan/perSIStently1'));
+	const PerSIStently2 = lazy(() => import('@/2_main/english/vocabulary/tinhkiennhan/perSIStently2'));
 	const STEADily1 = lazy(() => import('@/2_main/english/vocabulary/tinhkiennhan/STEADily1'));
 	const STEADily2 = lazy(() => import('@/2_main/english/vocabulary/tinhkiennhan/STEADily2'));
 
@@ -1157,8 +1157,8 @@ export default function AppRoutes(): React.JSX.Element {
 					<Route path="/vocabulary/patiently-2" element={<Patiently2 />} />
 					<Route path="/vocabulary/TIRElessly-1" element={<TIRElessly1 />} />
 					<Route path="/vocabulary/TIRElessly-2" element={<TIRElessly2 />} />
-					<Route path="/vocabulary/persistently-1" element={<Persistently1 />} />
-					<Route path="/vocabulary/persistently-2" element={<Persistently2 />} />
+					<Route path="/vocabulary/perSIStently-1" element={<PerSIStently1 />} />
+					<Route path="/vocabulary/perSIStently-2" element={<PerSIStently2 />} />
 					<Route path="/vocabulary/STEADily-1" element={<STEADily1 />} />
 					<Route path="/vocabulary/STEADily-2" element={<STEADily2 />} />
 

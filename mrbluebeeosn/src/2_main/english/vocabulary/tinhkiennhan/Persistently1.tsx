@@ -5,9 +5,9 @@ import EyeIcon from '@/components/view/EyeIcon';
 import ViewCounter from '@/components/view/ViewCounter';
 import LikeButton from '@/components/like/LikeButton';
 
-export default function Persistently1(): React.JSX.Element {
+export default function perSIStently1(): React.JSX.Element {
 
-  const postId = "Persistently1";
+  const postId = "perSIStently1";
 
   return (<>
 
@@ -17,29 +17,26 @@ export default function Persistently1(): React.JSX.Element {
     
       <h4><HashLink smooth to="/vocabulary#tinh-kien-nhan-terms"><mark className="highlight-tertiary-padding-4-8">ADverbs: kiên nhẫn</mark></HashLink></h4>
       
-      <h1 className="margin-y-50 text-center">persistently
-        <sup><Link to="/vocabulary/persistently-1">&nbsp;1&nbsp;</Link>
+      <h1 className="margin-y-50 text-center">perSIStently
+        <sup><Link to="/vocabulary/perSIStently-1">&nbsp;1&nbsp;</Link>
         </sup>
-        <sup><Link to="/vocabulary/persistently-2">&nbsp;2&nbsp;</Link>
+        <sup><Link to="/vocabulary/perSIStently-2">&nbsp;2&nbsp;</Link>
         </sup>
       </h1>
 
       {/* This is the content of Vocabulary Term. */}
       
-      <p>Tuyệt vời! Chúng ta cùng khám phá từ "<strong>persistently</strong>" nhé.</p>
+      <p>Tuyệt vời! Chúng ta cùng khám phá từ "<strong>perSIStently</strong>" nhé.</p>
 
       <div className="text-border1 padding-top-20 padding-bottom-10 highlight-238-padding-4-8 bee-container">
 
         <div>
 
-          <p className="margin-bottom-20"><strong>Persistently</strong></p>
-
           <ul className="list-square padding-left-40">
 
             <li>
               <span className="highlight-255-padding-3-6">
-                [perSIStently][per SIS tent ly] /pəˈsɪs.tənt.li/ + /<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">pe̛rsiste̛ntly</Link>/
-                &nbsp;•⬤•• (4x)
+                [perSIStently][<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">pe̛r SIS te̛nt ly</Link>] /pəˈsɪs.tənt.li/ •⬤•• (4x)
               </span>
             </li>
 
@@ -57,16 +54,16 @@ export default function Persistently1(): React.JSX.Element {
 
       </div>
 
-      <p className="margin-top-30 text-indent-whole">Từ "<strong>persistently</strong>" dùng để miêu tả một hành động được thực hiện một cách kiên quyết, không dễ dàng từ bỏ, dù gặp phải khó khăn hoặc trở ngại. Nó thể hiện sự quyết tâm và bền bỉ của một người.</p>
+      <p className="margin-top-30 text-indent-whole">Từ "<strong>perSIStently</strong>" dùng để miêu tả một hành động được thực hiện một cách kiên quyết, không dễ dàng từ bỏ, dù gặp phải khó khăn hoặc trở ngại. Nó thể hiện sự quyết tâm và bền bỉ của một người.</p>
 
       <p className="margin-top-20 text-indent-whole">Ví dụ:</p>
 
         <ul className="list-square">
 
-          <li>She ______ asked questions until she got an answer.</li>
+          <li>she perSIStently ASKED QUEStions until she GOT an ANswer.</li>
           <li className="margin-bottom-20 list-none">Cô ấy liên tục hỏi cho đến khi nhận được câu trả lời.</li>
 
-          <li>The rain fell ______ throughout the night.</li>
+          <li>the RAIN FELL perSIStently throughout the NIGHT.</li>
           <li className="list-none">Mưa rơi liên tục suốt đêm.</li>
 
         </ul>
@@ -83,16 +80,13 @@ export default function Persistently1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Persisted (v) /pərˈsɪstɪd/</li>
-          <li className="list-none">Despite the difficulties, she ______ in her studies.</li>
+          <li>despite the DIFficulties, she perSISted in her STUDies.</li>
           <li className="margin-bottom-20 list-none">Dù gặp khó khăn, cô ấy vẫn kiên trì học tập.</li>
 
-          <li>Persistent (adj) /pəˈsɪs.tənt/</li>
-          <li className="list-none">She's a very ______ person.</li>
+          <li>she's a VEry perSIStent PERson.</li>
           <li className="margin-bottom-20 list-none">Cô ấy là một người rất kiên trì.</li>
 
-          <li>Persistence (n) /pəˈsɪs.təns/</li>
-          <li className="list-none">Her ______ paid off.</li>
+          <li>her perSIStence PAID OFF.</li>
           <li className="list-none">Sự kiên trì của cô ấy đã được đền đáp.</li>
 
         </ul>
@@ -109,12 +103,10 @@ export default function Persistently1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Continuously /kənˈtɪn.ju.əs.li/</li>
-          <li className="list-none">The machine ran ______ for hours.</li>
+          <li>the maCHINE RAN conTINuously for HOURS.</li>
           <li className="margin-bottom-20 list-none">Máy chạy liên tục trong nhiều giờ.</li>
 
-          <li>Incessantly /ɪnˈses.ənt.li/</li>
-          <li className="list-none">The baby cried ______.</li>
+          <li>the BAby CRIED inCESsantly.</li>
           <li className="list-none">Đứa bé khóc không ngừng.</li>
 
         </ul>
@@ -133,12 +125,10 @@ export default function Persistently1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li><Link to="/vocabulary/occasionally-1">Occasionally</Link> /əˈkeɪ.ʒən.əl.i/</li>
-          <li className="list-none">I ______ visit my parents.</li>
+          <li>i <Link to="/vocabulary/occasionally-1">ocCAsionally</Link> VISit my PARents.</li>
           <li className="margin-bottom-20 list-none">Thỉnh thoảng tôi đến thăm ba mẹ.</li>
 
-          <li>Sporadically /spəˈræd.ɪk.li/</li>
-          <li className="list-none">The rain fell ______ throughout the day.</li>
+          <li>the RAIN FELL spoRADically throughout the DAY.</li>
           <li className="list-none">Mưa rơi rải rác suốt cả ngày.</li>
 
         </ul>
@@ -164,7 +154,7 @@ export default function Persistently1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>He is so focused, ______ working on this equation.</li>
+          <li>he is so FOcused, perSIStently WORKing on this eQUAtion.</li>
           <li className="list-none">Anh ấy rất tập trung, kiên trì làm việc với phương trình này.</li>
 
         </ul>
@@ -184,7 +174,7 @@ export default function Persistently1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>She ______ knocked on the door until someone answered.</li>
+          <li>she perSIStently KNOCKED on the DOOR until SOMEone ANswered.</li>
           <li className="list-none">Cô ấy liên tục gõ cửa cho đến khi có người mở cửa.</li>
 
         </ul>
@@ -206,10 +196,10 @@ export default function Persistently1(): React.JSX.Element {
 
           <ol>
 
-            <li>He tried to fix the car.</li>
+            <li>he TRIED to FIX the CAR.</li>
             <li className="list-none margin-bottom-20">Anh ấy cố sửa chiếc xe.</li>
 
-            <li value="2">He ______ tried to fix the car for hours.</li>
+            <li value="2">he perSIStently TRIED to FIX the CAR for HOURS.</li>
             <li className="list-none margin-bottom-20">Anh ấy kiên trì cố sửa chiếc xe trong nhiều giờ.</li>
 
           </ol>
@@ -232,7 +222,7 @@ export default function Persistently1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Mang tính tích cực hoặc tiêu cực: "<strong>Persistently</strong>" có thể mang cả ý nghĩa tích cực (khi mô tả sự kiên trì để đạt được mục tiêu) hoặc tiêu cực (khi mô tả sự làm phiền, quấy rối).</li>
+          <li>Mang tính tích cực hoặc tiêu cực: "<strong>perSIStently</strong>" có thể mang cả ý nghĩa tích cực (khi mô tả sự kiên trì để đạt được mục tiêu) hoặc tiêu cực (khi mô tả sự làm phiền, quấy rối).</li>
 
           <li className="margin-bottom-20">Dùng để nhấn mạnh sự kiên trì: Từ này thường được dùng để nhấn mạnh sự kiên trì, không bỏ cuộc của một người hoặc một quá trình.</li>
 
