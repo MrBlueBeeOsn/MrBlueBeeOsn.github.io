@@ -118,7 +118,7 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 								<td>Cảm xúc & sở thích</td>
 								<td>enjoy, like*, love*, hate*, mind, fancy</td>
 								<td>want, would like, would love, would hate*</td>
-								<td>like / love / hate / prefer</td>
+								<td></td>
 						</tr>
 						
 						<tr>
@@ -165,11 +165,11 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 			
 					<li>Do you <strong>reMEMber</strong> LOCKing the DOOR?</li>
 					<li className="list-none">Bạn có nhớ là đã khóa cửa chưa?</li>
-					<li className="margin-bottom-20 list-none">You là chủ thể. Cấu trúc reMEMber + hành động thêm đuôi -ing dùng để hỏi hoặc nhắc lại một sự việc, hành động đã xảy ra trong quá khứ (hành động khóa cửa đã làm rồi, giờ hỏi lại xem có nhớ việc đó không).</li>
+					<li className="margin-bottom-20 list-none">you là chủ thể. Cấu trúc reMEMber + hành động thêm đuôi -ing dùng để hỏi hoặc nhắc lại một sự việc, hành động đã xảy ra trong quá khứ (hành động khóa cửa đã làm rồi, giờ hỏi lại xem có nhớ việc đó không).</li>
 			
 					<li><strong>reMEMber</strong> to LOCK the DOOR.</li>
 					<li className="list-none">Hãy nhớ khóa cửa nhé.</li>
-					<li className="list-none">Câu mệnh lệnh ngầm hiểu chủ thể là You. Cấu trúc reMEMber + to + hành động nguyên mẫu dùng để nhắc nhở ai đó thực hiện một nhiệm vụ, một việc chưa làm ở tương lai (cửa chưa khóa, cần nhớ để làm).</li>
+					<li className="list-none">Câu mệnh lệnh ngầm hiểu chủ thể là you. Cấu trúc reMEMber + to + hành động nguyên mẫu dùng để nhắc nhở ai đó thực hiện một nhiệm vụ, một việc chưa làm ở tương lai (cửa chưa khóa, cần nhớ để làm).</li>
 			
 				</ul>
 			
@@ -254,7 +254,7 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 			
 					<li>it <strong>beGAN</strong> RAINing HEAVily JUST as we STEPPED OUT of the RESTaurant.</li>
 					<li className="list-none">Trời bắt đầu đổ mưa lớn ngay khi chúng tôi bước ra khỏi nhà hàng.</li>
-					<li className="margin-bottom-20 list-none">It là chủ thể. Cấu trúc này thường được dùng khi miêu tả một quá trình hoặc sự việc tự nhiên bắt đầu diễn ra.</li>
+					<li className="margin-bottom-20 list-none">it là chủ thể. Cấu trúc này thường được dùng khi miêu tả một quá trình hoặc sự việc tự nhiên bắt đầu diễn ra.</li>
 			
 					<li>he <strong>beGAN</strong> to exPLAIN the NEW acCOUNting RULES to the TEAM MEMbers.</li>
 					<li className="list-none">Anh ấy bắt đầu giải thích các quy tắc kế toán mới cho các thành viên trong nhóm.</li>
@@ -269,14 +269,74 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 			
 					<li>the CAR <strong>STARTed</strong> MAking a STRANGE NOISE on the WAY HOME.</li>
 					<li className="list-none">Chiếc xe bắt đầu phát ra một tiếng động lạ trên đường về nhà.</li>
-					<li className="margin-bottom-20 list-none">The car là chủ thể. Cấu trúc này thường được dùng để chỉ sự khởi đầu của một sự việc, hiện tượng hoặc quá trình đang diễn ra.</li>
+					<li className="margin-bottom-20 list-none">the CAR là chủ thể. Cấu trúc này thường được dùng để chỉ sự khởi đầu của một sự việc, hiện tượng hoặc quá trình đang diễn ra.</li>
 			
 					<li>she <strong>STARTed</strong> to CHECK the MONTHly fiNANcial rePORTS on her comPUter.</li>
 					<li className="list-none">Cô ấy bắt đầu kiểm tra các báo cáo tài chính hàng tháng trên máy tính của mình.</li>
-					<li className="list-none">She là chủ thể. Cấu trúc này thường nhấn mạnh vào thời điểm mà một người bắt tay vào thực hiện một hành động có ý thức.</li>
+					<li className="list-none">she là chủ thể. Cấu trúc này thường nhấn mạnh vào thời điểm mà một người bắt tay vào thực hiện một hành động có ý thức.</li>
 			
 				</ul>
 			
+			
+			<h4 className="margin-y-40">9. preFER</h4>
+			
+				<ul className="list-square">
+			
+					<li>he <strong>preFERS</strong> WORKing with RAW DAta RATHer than SUMmarizing TEXT.</li>
+					<li className="list-none">Anh ấy thích làm việc với dữ liệu thô hơn là tóm tắt văn bản.</li>
+					<li className="margin-bottom-20 list-none">he là chủ thể. Cấu trúc preFER + V-ing thường dùng để diễn tả một sở thích chung mang tính lâu dài hoặc thói quen.</li>
+			
+					<li>RIGHT NOW, she <strong>preFERS</strong> to STAY HOME and READ a BOOK inSTEAD of GOing OUT.</li>
+					<li className="list-none">Ngay lúc này, cô ấy thích ở nhà đọc sách hơn là đi chơi bên ngoài.</li>
+					<li className="list-none">she là chủ thể. Cấu trúc preFER + to V thường dùng khi nhấn mạnh vào một sở thích hoặc sự lựa chọn trong một tình huống cụ thể (thường đi kèm với từ would preFER hoặc các trạng từ chỉ thời điểm như now).</li>
+			
+				</ul>
+			
+			
+			<h4 className="margin-y-40">10. HATE</h4>
+			
+				<ul className="list-square">
+			
+					<li>he <strong>HATES</strong> WAking UP EARly on FREEzing WINter MORnings.</li>
+					<li className="list-none">Anh ấy ghét việc thức dậy sớm vào những buổi sáng mùa đông lạnh giá.</li>
+					<li className="margin-bottom-20 list-none">he là chủ thể. Cấu trúc HATE + V-ing thường dùng để diễn tả sự khó chịu, không thích một thói quen, một hoạt động nói chung hoặc một trải nghiệm lặp đi lặp lại.</li>
+			
+					<li>i <strong>HATE</strong> to interRUPT your WORK, but we NEED to CHECK the fiNANcial rePORTS RIGHT NOW.</li>
+					<li className="list-none">Tôi rất không muốn làm gián đoạn công việc của bạn, nhưng chúng ta cần kiểm tra các báo cáo tài chính ngay bây giờ.</li>
+					<li className="list-none">i là chủ thể. Cấu trúc HATE + to V thường dùng để nói về việc không muốn phải làm một hành động cụ thể nào đó (thường dùng trong các tình huống giao tiếp lịch sự, áy náy khi phải làm phiền ai đó, ví dụ như i HATE to SAY this, but ...).</li>
+			
+				</ul>
+
+			
+			<h4 className="margin-y-40">11. LOVE</h4>
+			
+				<ul className="list-square">
+			
+					<li>she <strong>LOVES</strong> BREWing traDITional vietnaMESE COFfee Using a PHIN FILter every MORning.</li>
+					<li className="list-none">Cô ấy rất thích pha cà phê truyền thống Việt Nam bằng phin vào mỗi buổi sáng.</li>
+					<li className="margin-bottom-20 list-none">she là chủ thể. Cấu trúc LOVE + V-ing dùng để diễn tả niềm đam mê, sở thích lâu dài hoặc cảm giác tận hưởng khi làm một việc gì đó nói chung.</li>
+			
+					<li>i <strong>LOVE</strong> to READ SPECialized acCOUNting and PROgramming BLOGS on the WEEKend.</li>
+					<li className="list-none">Tôi rất thích đọc các bài viết chuyên sâu về kế toán và lập trình vào dịp cuối tuần.</li>
+					<li className="list-none">i là chủ thể. Cấu trúc LOVE + to V nhấn mạnh vào sự lựa chọn hoặc thói quen mà chủ thể cho là hợp lý, đáng làm, hoặc rất hào hứng muốn thực hiện. (Ngoài ra, cấu trúc i'd LOVE to... cũng rất hay dùng để bày tỏ mong muốn làm gì đó, ví dụ: i'd LOVE to JOIN your TEAM).</li>
+			
+				</ul>
+			
+
+			<h4 className="margin-y-40">12. LIKE</h4>
+			
+				<ul className="list-square">
+			
+					<li>he <strong>LIKES</strong> exPERimenting with DIFferent PHIN FILter techNIQUES to MAKE his COFfee STRONGer.</li>
+					<li className="list-none">Anh ấy thích thử nghiệm các kỹ thuật dùng phin khác nhau để làm cho cà phê của mình đậm đà hơn.</li>
+					<li className="margin-bottom-20 list-none">he là chủ thể. Cấu trúc LIKE + V-ing nhấn mạnh vào sự tận hưởng, cảm giác thích thú khi hành động đó đang diễn ra hoặc sở thích chung.</li>
+			
+					<li>she <strong>LIKES</strong> to ORganize her acCOUNting DOCuments CAREfully before LEAVing the OFfice.</li>
+					<li className="list-none">Cô ấy thích sắp xếp các tài liệu kế toán của mình một cách cẩn thận trước khi rời văn phòng.</li>
+					<li className="list-none">she là chủ thể. Cấu trúc LIKE + to V thường thể hiện thói quen, sự lựa chọn có ý thức hoặc việc mà chủ thể cho là hợp lý, cần thiết phải làm như vậy.</li>
+			
+				</ul>
+
 			
 			<h4 className="margin-y-40"></h4>
 			
@@ -291,7 +351,7 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 					<li className="list-none"></li>
 			
 				</ul>
-			
+
 			
 
 			{/* 4. Mẹo nhớ siêu nhanh cho người Việt (2025 edition) */}
