@@ -125,7 +125,7 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 								<td>Thói quen / bắt đầu / kết thúc</td>
 								<td>finish, keep, avoid, consider, imagine, suggest</td>
 								<td>decide, plan, hope, promise, refuse, learn, agree</td>
-								<td>start, begin, continue, stop, try, remember, forget</td>
+								<td></td>
 						</tr>
 						
 						<tr>
@@ -230,6 +230,50 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 					<li>i <strong>reGRET</strong> to TELL you that your appliCAtion has been reJECTed.</li>
 					<li className="list-none">Tôi rất tiếc phải thông báo với bạn rằng đơn xin việc của bạn đã bị từ chối.</li>
 					<li className="list-none">Cấu trúc "reGRET to + hành động nguyên mẫu": Thường dùng ở dạng trang trọng (đặc biệt với các từ chỉ việc thông báo như inFORM, TELL, anNOUNCE) để thông báo một tin buồn hoặc không mấy tốt đẹp ngay tại thời điểm nói.</li>
+			
+				</ul>
+			
+			
+			<h4 className="margin-y-40">6. conTINued</h4>
+			
+				<ul className="list-square">
+			
+					<li>she <strong>conTINued</strong> WORKing on her rePORT EVen after EVERyone ELSE had LEFT the OFfice.</li>
+					<li className="list-none">Cô ấy vẫn tiếp tục làm bản báo cáo của mình ngay cả khi tất cả mọi người khác đã rời khỏi văn phòng.</li>
+					<li className="margin-bottom-20 list-none">she là chủ thể. Cấu trúc này dùng khi một hành động đang diễn ra và được tiếp tục thực hiện liên tục không gián đoạn.</li>
+			
+					<li>after FINishing her COFfee, she <strong>conTINued</strong> to WRITE the Emails.</li>
+					<li className="list-none">Sau khi uống xong cà phê, cô ấy tiếp tục viết các Emails tiếp theo.</li>
+					<li className="list-none">she là chủ thể. Cấu trúc này dùng khi chuyển sang một hành động mới hoặc tiếp tục một việc sau một khoảng dừng (tuy nhiên, trong phần lớn các trường hợp thông thường, hai cấu trúc này có nghĩa gần như tương đương nhau).</li>
+			
+				</ul>
+			
+			<h4 className="margin-y-40">7. beGIN</h4>
+			
+				<ul className="list-square">
+			
+					<li>it <strong>beGAN</strong> RAINing HEAVily JUST as we STEPPED OUT of the RESTaurant.</li>
+					<li className="list-none">Trời bắt đầu đổ mưa lớn ngay khi chúng tôi bước ra khỏi nhà hàng.</li>
+					<li className="margin-bottom-20 list-none">It là chủ thể. Cấu trúc này thường được dùng khi miêu tả một quá trình hoặc sự việc tự nhiên bắt đầu diễn ra.</li>
+			
+					<li>he <strong>beGAN</strong> to exPLAIN the NEW acCOUNting RULES to the TEAM MEMbers.</li>
+					<li className="list-none">Anh ấy bắt đầu giải thích các quy tắc kế toán mới cho các thành viên trong nhóm.</li>
+					<li className="list-none">he là chủ thể. Cấu trúc này thường nhấn mạnh vào thời điểm một hành động có chủ ý chính thức được khởi đầu.</li>
+			
+				</ul>
+			
+			
+			<h4 className="margin-y-40">8. START</h4>
+			
+				<ul className="list-square">
+			
+					<li>the CAR <strong>STARTed</strong> MAking a STRANGE NOISE on the WAY HOME.</li>
+					<li className="list-none">Chiếc xe bắt đầu phát ra một tiếng động lạ trên đường về nhà.</li>
+					<li className="margin-bottom-20 list-none">The car là chủ thể. Cấu trúc này thường được dùng để chỉ sự khởi đầu của một sự việc, hiện tượng hoặc quá trình đang diễn ra.</li>
+			
+					<li>she <strong>STARTed</strong> to CHECK the MONTHly fiNANcial rePORTS on her comPUter.</li>
+					<li className="list-none">Cô ấy bắt đầu kiểm tra các báo cáo tài chính hàng tháng trên máy tính của mình.</li>
+					<li className="list-none">She là chủ thể. Cấu trúc này thường nhấn mạnh vào thời điểm mà một người bắt tay vào thực hiện một hành động có ý thức.</li>
 			
 				</ul>
 			
