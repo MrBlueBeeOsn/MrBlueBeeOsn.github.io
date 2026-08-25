@@ -114,16 +114,10 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 
 					<tbody>
 						
-						<tr>
-								<td>Thói quen / bắt đầu / kết thúc</td>
-								<td>finish, keep, avoid</td>
-								<td>decide, plan, hope, promise</td>
-								<td></td>
-						</tr>
 						
 						<tr>
 								<td>Sau giới cơ</td>
-								<td>interested in, good at, tired of, look forward to, be used to, give up</td>
+								<td>interested in, tired of, look forward to, be used to, give up</td>
 								<td>(không có)</td>
 								<td>-</td>
 						</tr>
@@ -131,7 +125,7 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 						<tr>
 								<td>Động cơ + danh nhận + to V</td>
 								<td>(không có)</td>
-								<td>ask, allow, tell, force, expect, need, help sb to do</td>
+								<td>ask, allow, tell, force, expect, need</td>
 								<td>-</td>
 						</tr>
 
@@ -437,16 +431,38 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 				</ul>
 			
 			
-			<h4 className="margin-y-40"></h4>
+			<h4 className="margin-y-40">6. aVOIDed disCUSSing</h4>
 			
 				<ul className="list-square">
 			
-					<li></li>
-					<li className="list-none"></li>
-					<li className="list-none"></li>
+					<li>she <strong>aVOIDed disCUSSing</strong> the COMplex TAX ISsues during the MEETing.</li>
+					<li className="list-none">Cô ấy đã tránh thảo luận về các vấn đề thuế phức tạp trong cuộc họp.</li>
+					<li className="list-none">she là chủ thể. Sau động từ aVOID, hành động tiếp theo bắt buộc phải ở dạng -ing (disCUSSing), dùng để chỉ việc cố gắng né tránh hoặc không làm một hành động nào đó.</li>
 			
 				</ul>
 
+			
+			<h4 className="margin-y-40">7. KEPT WORKing</h4>
+			
+				<ul className="list-square">
+			
+					<li>she <strong>KEPT WORKing</strong> on the acCOUNting LEDGer despite the LATE HOUR.</li>
+					<li className="list-none">Cô ấy đã tiếp tục làm việc với sổ sách kế toán mặc dù đã muộn.</li>
+					<li className="list-none">she là chủ thể. Sau động từ KEEP (hoặc KEEP ON), hành động tiếp theo bắt buộc phải ở dạng -ing (WORKing), diễn tả sự việc diễn ra liên tục hoặc lặp đi lặp lại không ngừng.</li>
+			
+				</ul>
+			
+
+			<h4 className="margin-y-40">8. FINished TYping</h4>
+			
+				<ul className="list-square">
+			
+					<li>she <strong>FINished TYping</strong> the fiNANcial rePORT before LEAVing the OFfice.</li>
+					<li className="list-none">Cô ấy đã hoàn thành việc đánh máy báo cáo tài chính trước khi rời khỏi văn phòng.</li>
+					<li className="list-none">she là chủ thể. Sau động từ FINish, hành động tiếp theo bắt buộc phải ở dạng -ing (TYping), dùng để chỉ việc kết thúc hoặc hoàn tất hoàn toàn một quá trình/hành động nào đó.</li>
+			
+				</ul>
+			
 			
 			<h4 className="margin-y-40"></h4>
 			
@@ -530,6 +546,40 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 			
 				</ul>
 			
+			
+			<h4 className="margin-y-40">7. HOPES to FINish</h4>
+			
+				<ul className="list-square">
+			
+					<li>he <strong>HOPES to FINish</strong> the WEB deVELopment PROJect before the END of the MONTH.</li>
+					<li className="list-none">Anh ấy hy vọng sẽ hoàn thành dự án phát triển web trước cuối tháng.</li>
+					<li className="list-none">he là chủ thể. Sau động từ HOPE, hành động tiếp theo bắt buộc phải ở dạng to V (to FINish), thể hiện mong ước, sự kỳ vọng sẽ thực hiện được một hành động cụ thể trong tương lai.</li>
+			
+				</ul>
+			
+			
+			<h4 className="margin-y-40">8. deCIded to BUY</h4>
+			
+				<ul className="list-square">
+			
+					<li>he <strong>deCIded to BUY</strong> a NEW CAST Iron WOK for his COOKing exPERiments.</li>
+					<li className="list-none">Anh ấy đã quyết định mua một chiếc chảo wok bằng gang mới cho các thí nghiệm nấu nướng của mình.</li>
+					<li className="list-none">he là chủ thể. Sau động từ deCIDE, hành động tiếp theo bắt buộc phải ở dạng to V (to BUY), thể hiện sự lựa chọn hoặc quyết định thực hiện một hành động cụ thể sau khi đã cân nhắc.</li>
+			
+				</ul>
+
+			
+			<h4 className="margin-y-40">9. HELP his COLleague to FIX</h4>
+			
+				<ul className="list-square">
+			
+					<li>he <strong>HELPED his COLleague to FIX</strong> the WEB deVELopment BUG on the PLATform.</li>
+					<li className="list-none">Anh ấy đã giúp đồng nghiệp của mình sửa lỗi phát triển web trên nền tảng.</li>
+					<li className="list-none">he là chủ thể chính, his COLleague là chủ thể nhận sự giúp đỡ. Sau HELP + sb, bạn có thể dùng trực tiếp to V (to FIX) hoặc bỏ to đi để dùng nguyên mẫu (FIX đều được).</li>
+			
+				</ul>
+			
+
 			
 			<h4 className="margin-y-40"></h4>
 			
