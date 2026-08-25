@@ -847,7 +847,7 @@ export default function ThreeDC1(): React.ReactElement {
 		
 					<ul className="list-square">
 				
-						<li>i [have NEVer] SEEN such a proFESsional acCOUNting SYStem.</li>
+						<li>i [have NEVer] SEEN such a proFESsional acCOUNTing SYStem.</li>
 						<li className="margin-bottom-20 list-none">Tôi [đã chưa từng bao giờ] thấy một hệ thống kế toán nào chuyên nghiệp đến thế.</li>
 				
 					</ul>
@@ -857,7 +857,7 @@ export default function ThreeDC1(): React.ReactElement {
 
 					<ul className="list-square">
 
-						<li>[NEVer have] i SEEN such a proFESsional acCOUNting SYStem.</li>
+						<li>[NEVer have] i SEEN such a proFESsional acCOUNTing SYStem.</li>
 						<li className="margin-bottom-20 list-none">[Đã chưa từng bao giờ] tôi thấy một hệ thống kế toán nào chuyên nghiệp đến thế.</li>
 
 						<li className="list-none">→ Việc đưa [NEVer have] - <strong>Trạng Cơ phủ định</strong> [<strong>Negative Adverb Base</strong>] "NEVer" và [Thời Động Cơ][Tense Verb Base] "have" lên đầu câu làm cho câu văn mang sắc thái nhấn mạnh cực độ, thể hiện sự ngạc nhiên hoặc khẳng định mạnh mẽ.</li>

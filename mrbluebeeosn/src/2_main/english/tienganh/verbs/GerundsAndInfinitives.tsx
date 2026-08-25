@@ -56,7 +56,7 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 				<ul className="list-square">
 			
 					<li>i <strong>STOPPED</strong> SMOKing.</li>
-					<li className="list-none">Tôi đã bỏ hút thuốc (rồi). (Thời quá khứ đơn)</li>
+					<li className="list-none">Tôi <strong>đã bỏ hút thuốc</strong> (rồi). (Thời quá khứ đơn)</li>
 					<li className="margin-bottom-20 list-none">Cấu trúc stop đi kèm với từ chỉ hành động có đuôi -ing (SMOKing) mang ý nghĩa là ngừng hẳn hoặc từ bỏ một thói quen (tôi đã từng hút thuốc và bây giờ không làm việc đó nữa).</li>
 			
 					<li>i <strong>STOPPED</strong> to SMOKE.</li>
@@ -77,11 +77,11 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 				<ul className="list-square">
 			
 					<li><strong>SWIMming</strong> in the COOL BLUE SEA on a HOT SUMmer MORNing MAKES me exTREMEly HAPpy.</li>
-					<li className="list-none">Bơi lội ở làn nước biển xanh mát vào một buổi sáng mùa hè nóng nực làm tôi vô cùng hạnh phúc.</li>
+					<li className="list-none"><strong>Bơi lội</strong> ở làn nước biển xanh mát vào một buổi sáng mùa hè nóng nực làm tôi vô cùng hạnh phúc.</li>
 					<li className="margin-bottom-20 list-none">Cụm SWIMming (việc bơi lội) đóng vai trò là chủ thể của câu, kết hợp với hành động MAKES và từ "me" làm danh nhận (đối tượng nhận tác động trở nên hạnh phúc).</li>
 			
-					<li>i WANT <strong>to SWIM</strong> in the NEWly Open inFINity POOL at the ROOFtop hoTEL this WEEKEND.</li>
-					<li className="list-none">Tôi muốn bơi ở bể bơi vô cực mới mở trên tầng thượng của khách sạn vào cuối tuần này.</li>
+					<li>i <strong>WANT to SWIM</strong> in the NEWly Open inFINity POOL at the ROOFtop hoTEL this WEEKEND.</li>
+					<li className="list-none">Tôi <strong>muốn bơi</strong> ở bể bơi vô cực mới mở trên tầng thượng của khách sạn vào cuối tuần này.</li>
 					<li className="list-none">i là chủ thể, kết hợp với cấu trúc WANT to + hành động nguyên mẫu và cụm từ chỉ địa điểm đóng vai trò là danh nhận nơi chốn phía sau.</li>
 			
 				</ul>
@@ -101,27 +101,6 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 			{/* II. Bảng phân loại siêu thực dụng (cập nhật 2025) */}
 
 			<h3 className="margin-y-50 text-center">II. Bảng phân loại siêu thực dụng (cập nhật 2025)</h3>
-
-				<table className="margin-y-50">
-					<thead>
-						<tr>
-							<td>Nhóm</td>
-							<th>Chỉ dùng Gerund (-ing)</th>
-							<th>Chỉ dùng Infinitive (to V)</th>
-							<th>Cả hai nhưng NGHĨA KHÁC NHAU</th>
-						</tr>
-					</thead>
-
-					<tbody>
-
-						<tr>
-								<td>Một số hành động đặc biệt</td>
-								<td>admit, deny, practice, miss</td>
-								<td>manage, fail, afford, deserve, appear, seem</td>
-								<td></td>
-						</tr>
-					</tbody>
-				</table>
 					
 			<p className="margin-top-20">(*nhóm like/love/hate/prefer: dùng cả hai đều được, nhưng -ing mang tính "tổng quát, thường xuyên", to V mang tính "cụ thể, tình huống riêng lẻ")</p>
 
@@ -136,11 +115,11 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 				<ul className="list-square">
 			
 					<li>Do you <strong>reMEMber LOCKing</strong> the DOOR?</li>
-					<li className="list-none">Bạn có nhớ là đã khóa cửa chưa?</li>
+					<li className="list-none">Bạn có <strong>nhớ là đã khóa</strong> cửa chưa?</li>
 					<li className="margin-bottom-20 list-none">you là chủ thể. Cấu trúc reMEMber + hành động thêm đuôi -ing dùng để hỏi hoặc nhắc lại một sự việc, hành động đã xảy ra trong quá khứ (hành động khóa cửa đã làm rồi, giờ hỏi lại xem có nhớ việc đó không).</li>
 			
 					<li><strong>reMEMber to LOCK</strong> the DOOR.</li>
-					<li className="list-none">Hãy nhớ khóa cửa nhé.</li>
+					<li className="list-none">Hãy <strong>nhớ khóa</strong> cửa nhé.</li>
 					<li className="list-none">Câu mệnh lệnh ngầm hiểu chủ thể là you. Cấu trúc reMEMber + to + hành động nguyên mẫu dùng để nhắc nhở ai đó thực hiện một nhiệm vụ, một việc chưa làm ở tương lai (cửa chưa khóa, cần nhớ để làm).</li>
 			
 				</ul>
@@ -151,11 +130,11 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 				<ul className="list-square">
 			
 					<li>i’ll NEVer <strong>forGET MEETing</strong> you at the COFfee SHOP LAST SUMmer.</li>
-					<li className="list-none">Tôi sẽ không bao giờ quên lần gặp bạn ở quán cà phê vào mùa hè năm ngoái.</li>
+					<li className="list-none">Tôi sẽ không bao giờ <strong>quên lần gặp</strong> bạn ở quán cà phê vào mùa hè năm ngoái.</li>
 					<li className="margin-bottom-20 list-none">i là chủ thể. Cấu trúc forGET + hành động thêm đuôi -ing dùng để diễn tả việc không bao giờ quên một sự việc, kỷ niệm đã xảy ra trong quá khứ.</li>
 			
 					<li>DON’T <strong>forGET to BUY</strong> MILK on your WAY HOME from WORK toDAY.</li>
-					<li className="list-none">Đừng quên mua sữa trên đường đi làm về hôm nay nhé.</li>
+					<li className="list-none">Đừng <strong>quên mua</strong> sữa trên đường đi làm về hôm nay nhé.</li>
 					<li className="list-none">Câu mệnh lệnh ngầm hiểu chủ thể là you. Cấu trúc forGET + to + hành động nguyên mẫu nhắc nhở ai đó nhớ thực hiện một nhiệm vụ, một việc chưa làm ở tương lai.</li>
 			
 				</ul>
@@ -170,7 +149,7 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 					<li className="margin-bottom-20 list-none">he là chủ thể. Cấu trúc stop + hành động thêm đuôi -ing mang nghĩa dừng hẳn hoặc từ bỏ một việc đang làm/thói quen cũ.</li>
 			
 					<li>he <strong>STOPPED to SMOKE</strong> a cigaRETTE on his WAY HOME from WORK.</li>
-					<li className="list-none">Anh ấy đã dừng lại để hút một điếu thuốc trên đường đi làm về.</li>
+					<li className="list-none">Anh ấy đã <strong>dừng lại để hút</strong> một điếu thuốc trên đường đi làm về.</li>
 					<li className="list-none">he là chủ thể. Cấu trúc stop + to + hành động nguyên mẫu mang nghĩa dừng việc đang làm lại nhằm mục đích thực hiện hành động tiếp theo.</li>
 			
 				</ul>
@@ -181,11 +160,11 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 				<ul className="list-square">
 			
 					<li>you should <strong>TRY EATing</strong> LESS SUGar.</li>
-					<li className="list-none">Bạn nên thử ăn ít đường đi xem sao.</li>
+					<li className="list-none">Bạn nên <strong>thử ăn</strong> ít đường đi xem sao.</li>
 					<li className="margin-bottom-20 list-none">you là chủ thể, kết hợp với cấu trúc thử nghiệm một việc để xem kết quả.</li>
 			
 					<li>you NEED to <strong>TRY to EAT</strong> LESS SUGar.</li>
-					<li className="list-none">Bạn cần phải cố gắng ăn ít đường lại.</li>
+					<li className="list-none">Bạn cần phải <strong>cố gắng ăn</strong> ít đường lại.</li>
 					<li className="list-none">you là chủ thể, kết hợp với cấu trúc thể hiện sự nỗ lực vượt qua khó khăn để thực hiện một hành động.</li>
 			
 				</ul>
@@ -196,11 +175,11 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 				<ul className="list-square">
 			
 					<li>i <strong>reGRET TELLing</strong> her the TRUTH.</li>
-					<li className="list-none">Tôi hối hận vì đã nói cho cô ấy sự thật.</li>
+					<li className="list-none">Tôi <strong>hối hận vì đã nói</strong> cho cô ấy sự thật.</li>
 					<li className="margin-bottom-20 list-none">Cấu trúc "reGRET + hành động thêm đuôi -ing": Dùng để diễn tả sự hối hận về một việc đã xảy ra trong quá khứ.</li>
 			
 					<li>i <strong>reGRET to TELL</strong> you that your appliCAtion has been reJECTed.</li>
-					<li className="list-none">Tôi rất tiếc phải thông báo với bạn rằng đơn xin việc của bạn đã bị từ chối.</li>
+					<li className="list-none">Tôi <strong>rất tiếc phải thông báo</strong> với bạn rằng đơn xin việc của bạn đã bị từ chối.</li>
 					<li className="list-none">Cấu trúc "reGRET to + hành động nguyên mẫu": Thường dùng ở dạng trang trọng (đặc biệt với các từ chỉ việc thông báo như inFORM, TELL, anNOUNCE) để thông báo một tin buồn hoặc không mấy tốt đẹp ngay tại thời điểm nói.</li>
 			
 				</ul>
@@ -211,11 +190,11 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 				<ul className="list-square">
 			
 					<li>she <strong>conTINued WORKing</strong> on her rePORT EVen after EVERyone ELSE had LEFT the OFfice.</li>
-					<li className="list-none">Cô ấy vẫn tiếp tục làm bản báo cáo của mình ngay cả khi tất cả mọi người khác đã rời khỏi văn phòng.</li>
+					<li className="list-none">Cô ấy <strong>vẫn tiếp tục làm</strong> bản báo cáo của mình ngay cả khi tất cả mọi người khác đã rời khỏi văn phòng.</li>
 					<li className="margin-bottom-20 list-none">she là chủ thể. Cấu trúc này dùng khi một hành động đang diễn ra và được tiếp tục thực hiện liên tục không gián đoạn.</li>
 			
 					<li>after FINishing her COFfee, she <strong>conTINued to WRITE</strong> the Emails.</li>
-					<li className="list-none">Sau khi uống xong cà phê, cô ấy tiếp tục viết các Emails tiếp theo.</li>
+					<li className="list-none">Sau khi uống xong cà phê, cô ấy <strong>tiếp tục viết</strong> các Emails tiếp theo.</li>
 					<li className="list-none">she là chủ thể. Cấu trúc này dùng khi chuyển sang một hành động mới hoặc tiếp tục một việc sau một khoảng dừng (tuy nhiên, trong phần lớn các trường hợp thông thường, hai cấu trúc này có nghĩa gần như tương đương nhau).</li>
 			
 				</ul>
@@ -225,11 +204,11 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 				<ul className="list-square">
 			
 					<li>it <strong>beGAN RAINing</strong> HEAVily JUST as we STEPPED OUT of the RESTaurant.</li>
-					<li className="list-none">Trời bắt đầu đổ mưa lớn ngay khi chúng tôi bước ra khỏi nhà hàng.</li>
+					<li className="list-none">Trời <strong>bắt đầu đổ mưa</strong> lớn ngay khi chúng tôi bước ra khỏi nhà hàng.</li>
 					<li className="margin-bottom-20 list-none">it là chủ thể. Cấu trúc này thường được dùng khi miêu tả một quá trình hoặc sự việc tự nhiên bắt đầu diễn ra.</li>
 			
-					<li>he <strong>beGAN to exPLAIN</strong> the NEW acCOUNting RULES to the TEAM MEMbers.</li>
-					<li className="list-none">Anh ấy bắt đầu giải thích các quy tắc kế toán mới cho các thành viên trong nhóm.</li>
+					<li>he <strong>beGAN to exPLAIN</strong> the NEW acCOUNTing RULES to the TEAM MEMbers.</li>
+					<li className="list-none">Anh ấy <strong>bắt đầu giải thích</strong> các quy tắc kế toán mới cho các thành viên trong nhóm.</li>
 					<li className="list-none">he là chủ thể. Cấu trúc này thường nhấn mạnh vào thời điểm một hành động có chủ ý chính thức được khởi đầu.</li>
 			
 				</ul>
@@ -240,11 +219,11 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 				<ul className="list-square">
 			
 					<li>the CAR <strong>STARTed MAking</strong> a STRANGE NOISE on the WAY HOME.</li>
-					<li className="list-none">Chiếc xe bắt đầu phát ra một tiếng động lạ trên đường về nhà.</li>
+					<li className="list-none">Chiếc xe <strong>bắt đầu phát ra</strong> một tiếng động lạ trên đường về nhà.</li>
 					<li className="margin-bottom-20 list-none">the CAR là chủ thể. Cấu trúc này thường được dùng để chỉ sự khởi đầu của một sự việc, hiện tượng hoặc quá trình đang diễn ra.</li>
 			
 					<li>she <strong>STARTed to CHECK</strong> the MONTHly fiNANcial rePORTS on her comPUter.</li>
-					<li className="list-none">Cô ấy bắt đầu kiểm tra các báo cáo tài chính hàng tháng trên máy tính của mình.</li>
+					<li className="list-none">Cô ấy <strong>bắt đầu kiểm tra</strong> các báo cáo tài chính hàng tháng trên máy tính của mình.</li>
 					<li className="list-none">she là chủ thể. Cấu trúc này thường nhấn mạnh vào thời điểm mà một người bắt tay vào thực hiện một hành động có ý thức.</li>
 			
 				</ul>
@@ -255,11 +234,11 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 				<ul className="list-square">
 			
 					<li>he <strong>preFERS WORKing</strong> with RAW DAta RATHer than SUMmarizing TEXT.</li>
-					<li className="list-none">Anh ấy thích làm việc với dữ liệu thô hơn là tóm tắt văn bản.</li>
+					<li className="list-none">Anh ấy <strong>thích làm việc</strong> với dữ liệu thô hơn là tóm tắt văn bản.</li>
 					<li className="margin-bottom-20 list-none">he là chủ thể. Cấu trúc preFER + V-ing thường dùng để diễn tả một sở thích chung mang tính lâu dài hoặc thói quen.</li>
 			
 					<li>RIGHT NOW, she <strong>preFERS to STAY</strong> HOME and READ a BOOK inSTEAD of GOing OUT.</li>
-					<li className="list-none">Ngay lúc này, cô ấy thích ở nhà đọc sách hơn là đi chơi bên ngoài.</li>
+					<li className="list-none">Ngay lúc này, cô ấy <strong>thích ở nhà</strong> đọc sách hơn là đi chơi bên ngoài.</li>
 					<li className="list-none">she là chủ thể. Cấu trúc preFER + to V thường dùng khi nhấn mạnh vào một sở thích hoặc sự lựa chọn trong một tình huống cụ thể (thường đi kèm với từ would preFER hoặc các trạng từ chỉ thời điểm như now).</li>
 			
 				</ul>
@@ -270,11 +249,11 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 				<ul className="list-square">
 			
 					<li>he <strong>HATES WAking UP</strong> EARly on FREEzing WINter MORnings.</li>
-					<li className="list-none">Anh ấy ghét việc thức dậy sớm vào những buổi sáng mùa đông lạnh giá.</li>
+					<li className="list-none">Anh ấy <strong>ghét việc thức dậy</strong> sớm vào những buổi sáng mùa đông lạnh giá.</li>
 					<li className="margin-bottom-20 list-none">he là chủ thể. Cấu trúc HATE + V-ing thường dùng để diễn tả sự khó chịu, không thích một thói quen, một hoạt động nói chung hoặc một trải nghiệm lặp đi lặp lại.</li>
 			
 					<li>i <strong>HATE to interRUPT</strong> your WORK, but we NEED to CHECK the fiNANcial rePORTS RIGHT NOW.</li>
-					<li className="list-none">Tôi rất không muốn làm gián đoạn công việc của bạn, nhưng chúng ta cần kiểm tra các báo cáo tài chính ngay bây giờ.</li>
+					<li className="list-none">Tôi <strong>rất không muốn làm gián đoạn</strong> công việc của bạn, nhưng chúng ta cần kiểm tra các báo cáo tài chính ngay bây giờ.</li>
 					<li className="list-none">i là chủ thể. Cấu trúc HATE + to V thường dùng để nói về việc không muốn phải làm một hành động cụ thể nào đó (thường dùng trong các tình huống giao tiếp lịch sự, áy náy khi phải làm phiền ai đó, ví dụ như i HATE to SAY this, but ...).</li>
 			
 				</ul>
@@ -285,11 +264,11 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 				<ul className="list-square">
 			
 					<li>she <strong>LOVES BREWing</strong> traDITional vietnaMESE COFfee Using a PHIN FILter every MORning.</li>
-					<li className="list-none">Cô ấy rất thích pha cà phê truyền thống Việt Nam bằng phin vào mỗi buổi sáng.</li>
+					<li className="list-none">Cô ấy <strong>rất thích pha</strong> cà phê truyền thống Việt Nam bằng phin vào mỗi buổi sáng.</li>
 					<li className="margin-bottom-20 list-none">she là chủ thể. Cấu trúc LOVE + V-ing dùng để diễn tả niềm đam mê, sở thích lâu dài hoặc cảm giác tận hưởng khi làm một việc gì đó nói chung.</li>
 			
-					<li>i <strong>LOVE to READ</strong> SPECialized acCOUNting and PROgramming BLOGS on the WEEKend.</li>
-					<li className="list-none">Tôi rất thích đọc các bài viết chuyên sâu về kế toán và lập trình vào dịp cuối tuần.</li>
+					<li>i <strong>LOVE to READ</strong> SPECialized acCOUNTing and PROgramming BLOGS on the WEEKend.</li>
+					<li className="list-none">Tôi <strong>rất thích đọc</strong> các bài viết chuyên sâu về kế toán và lập trình vào dịp cuối tuần.</li>
 					<li className="list-none">i là chủ thể. Cấu trúc LOVE + to V nhấn mạnh vào sự lựa chọn hoặc thói quen mà chủ thể cho là hợp lý, đáng làm, hoặc rất hào hứng muốn thực hiện. (Ngoài ra, cấu trúc i'd LOVE to... cũng rất hay dùng để bày tỏ mong muốn làm gì đó, ví dụ: i'd LOVE to JOIN your TEAM).</li>
 			
 				</ul>
@@ -300,11 +279,11 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 				<ul className="list-square">
 			
 					<li>he <strong>LIKES exPERimenting</strong> with DIFferent PHIN FILter techNIQUES to MAKE his COFfee STRONGer.</li>
-					<li className="list-none">Anh ấy thích thử nghiệm các kỹ thuật dùng phin khác nhau để làm cho cà phê của mình đậm đà hơn.</li>
+					<li className="list-none">Anh ấy <strong>thích thử nghiệm</strong> các kỹ thuật dùng phin khác nhau để làm cho cà phê của mình đậm đà hơn.</li>
 					<li className="margin-bottom-20 list-none">he là chủ thể. Cấu trúc LIKE + V-ing nhấn mạnh vào sự tận hưởng, cảm giác thích thú khi hành động đó đang diễn ra hoặc sở thích chung.</li>
 			
-					<li>she <strong>LIKES to ORganize</strong> her acCOUNting DOCuments CAREfully before LEAVing the OFfice.</li>
-					<li className="list-none">Cô ấy thích sắp xếp các tài liệu kế toán của mình một cách cẩn thận trước khi rời văn phòng.</li>
+					<li>she <strong>LIKES to ORganize</strong> her acCOUNTing DOCuments CAREfully before LEAVing the OFfice.</li>
+					<li className="list-none">Cô ấy <strong>thích sắp xếp</strong> các tài liệu kế toán của mình một cách cẩn thận trước khi rời văn phòng.</li>
 					<li className="list-none">she là chủ thể. Cấu trúc LIKE + to V thường thể hiện thói quen, sự lựa chọn có ý thức hoặc việc mà chủ thể cho là hợp lý, cần thiết phải làm như vậy.</li>
 			
 				</ul>
@@ -315,11 +294,11 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 				<ul className="list-square">
 			
 					<li>CHANGing the rePORTing SOFTware <strong>MEANS reWRIting</strong> all the old DAta FILES.</li>
-					<li className="list-none">Việc thay đổi phần mềm báo cáo có nghĩa là phải viết lại tất cả các tệp dữ liệu cũ.</li>
+					<li className="list-none">Việc thay đổi phần mềm báo cáo <strong>có nghĩa là phải viết lại</strong> tất cả các tệp dữ liệu cũ.</li>
 					<li className="margin-bottom-20 list-none">Cụm CHANGing the rePORTing SOFTware là chủ thể. Cấu trúc MEAN + V-ing dùng để chỉ hệ quả, sự việc hoặc kết quả tất yếu mà một hành động dẫn đến.</li>
 			
 					<li>he <strong>MEANT to FINish</strong> the fiNANcial AUdit rePORT YESterday, but he RAN OUT of TIME.</li>
-					<li className="list-none">Anh ấy đã có ý định hoàn thành báo cáo kiểm toán tài chính vào ngày hôm qua, nhưng anh ấy đã hết thời gian.</li>
+					<li className="list-none">Anh ấy <strong>đã có ý định hoàn thành</strong> báo cáo kiểm toán tài chính vào ngày hôm qua, nhưng anh ấy đã hết thời gian.</li>
 					<li className="list-none">he là chủ thể. Cấu trúc MEAN + to V dùng để diễn tả ý định, dự định hoặc mong muốn thực hiện một việc gì đó (thường dùng trong dạng quá khứ MEANT to để giải thích cho việc chưa hoàn thành).</li>
 			
 				</ul>
@@ -330,11 +309,11 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 				<ul className="list-square">
 			
 					<li>after a SHORT COFfee BREAK, she <strong>WENT ON WORKing</strong> on the MONTHly TAX rePORTS.</li>
-					<li className="list-none">Sau một khoảng nghỉ uống cà phê ngắn, cô ấy đã tiếp tục làm các báo cáo thuế hàng tháng.</li>
+					<li className="list-none">Sau một khoảng nghỉ uống cà phê ngắn, cô ấy <strong>đã tiếp tục làm</strong> các báo cáo thuế hàng tháng.</li>
 					<li className="margin-bottom-20 list-none">she là chủ thể. Cấu trúc GO ON + V-ing dùng để chỉ việc tiếp tục một hành động đang làm trước đó mà không bị gián đoạn hay thay đổi công việc.</li>
 			
 					<li>the acCOUNtant FINished reVIEWing the INvoices and then <strong>WENT ON to CHECK</strong> the BANK STATEments.</li>
-					<li className="list-none">Người kế toán đã xem xét xong các hóa đơn và sau đó chuyển sang kiểm tra các sao kê ngân hàng.</li>
+					<li className="list-none">Người kế toán đã xem xét xong các hóa đơn và sau đó <strong>chuyển sang kiểm tra</strong> các sao kê ngân hàng.</li>
 					<li className="list-none">the acCOUNtant là chủ thể. Cấu trúc GO ON + to V dùng khi hoàn thành xong một hành động/giai đoạn này và bước sang thực hiện một hành động, giai đoạn mới tiếp theo.</li>
 			
 				</ul>
@@ -345,11 +324,11 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 				<ul className="list-square">
 			
 					<li>the COMpany <strong>alLOWS emPLOYees to WORK</strong> from HOME TWICE a WEEK.</li>
-					<li className="list-none">Công ty cho phép nhân viên làm việc tại nhà hai lần một tuần.</li>
+					<li className="list-none">Công ty <strong>cho phép nhân viên làm việc</strong> tại nhà hai lần một tuần.</li>
 					<li className="margin-bottom-20 list-none">the COMpany là chủ thể cấp phép, và employees là chủ thể nhận sự cho phép. Sau alLOW + sb, hành động tiếp theo bắt buộc phải ở dạng to V (to WORK). (Lưu ý: Nếu không có chủ thể phụ đứng ngay sau alLOW, động từ tiếp theo sẽ ở dạng V-ing, ví dụ: alLOWS WORKing).</li>
 			
 					<li>the COMpany <strong>alLOWS WORKing</strong> reMOTEly during the RAINy SEAson.</li>
-					<li className="list-none">Công ty cho phép làm việc từ xa trong mùa mưa.</li>
+					<li className="list-none">Công ty <strong>cho phép làm việc</strong> từ xa trong mùa mưa.</li>
 					<li className="list-none">the COMpany là chủ thể. Ngay sau động từ alLOW không có ai nhận hành động (không có chủ thể phụ như emPLOYees), nên hành động tiếp theo bắt buộc phải ở dạng -ing (WORKing), dùng để chỉ chính sách hoặc sự cho phép chung chung đối với một hoạt động.</li>
 			
 				</ul>
@@ -366,7 +345,7 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 				<ul className="list-square">
 			
 					<li>do you <strong>FANcy GRABbing</strong> a CUP of traDITional vietnaMESE COFfee this AFternoon?</li>
-					<li className="list-none">Bạn có hứng thú đi uống một ly cà phê truyền thống Việt Nam vào chiều nay không?</li>
+					<li className="list-none">Bạn <strong>có hứng thú đi uống</strong> một ly cà phê truyền thống Việt Nam vào chiều nay không?</li>
 					<li className="list-none">you là chủ thể. Cấu trúc FANcy + V-ing (thường dùng nhiều trong tiếng Anh Anh) mang nghĩa muốn hoặc có hứng thú trải nghiệm một hành động nào đó, thường dùng trong câu hỏi mời mọc hoặc diễn tả sở thích bất chợt.</li>
 			
 				</ul>
@@ -377,7 +356,7 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 				<ul className="list-square">
 			
 					<li>i DON'T <strong>MIND WORKing</strong> Overtime to DOUble-CHECK the fiNANcial FIGures.</li>
-					<li className="list-none">Tôi không ngại làm việc thêm giờ để kiểm tra lại các số liệu tài chính.</li>
+					<li className="list-none">Tôi không <strong>ngại làm việc</strong> thêm giờ để kiểm tra lại các số liệu tài chính.</li>
 					<li className="list-none">I là chủ thể. Cấu trúc MIND + V-ing thường được dùng trong câu phủ định (ví dụ: DON'T MIND - không ngại) hoặc câu hỏi (ví dụ: would you MIND...? - Bạn có phiền...) để hỏi ý kiến hoặc bày tỏ cảm giác không bị làm phiền bởi một hành động cụ thể.</li>
 			
 				</ul>
@@ -388,7 +367,7 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 				<ul className="list-square">
 			
 					<li>she <strong>sugGESTed TRYing</strong> a NEW PHIN FILter techNIQUE to MAKE the COFfee TASTE BETter.</li>
-					<li className="list-none">Cô ấy đã gợi ý thử một kỹ thuật dùng phin mới để làm cho cà phê có vị ngon hơn.</li>
+					<li className="list-none">Cô ấy <strong>đã gợi ý thử</strong> một kỹ thuật dùng phin mới để làm cho cà phê có vị ngon hơn.</li>
 					<li className="list-none">she là chủ thể. Sau động từ sugGEST, hành động tiếp theo bắt buộc phải ở dạng -ing (TRYing), dùng để đưa ra một ý kiến, đề xuất chung cho mọi người cùng xem xét.</li>
 			
 				</ul>
@@ -399,7 +378,7 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 				<ul className="list-square">
 			
 					<li>she <strong>iMAGines LIVing</strong> in a QUIet COUNtryside HOUSE surROUNDed by GREEN NAture.</li>
-					<li className="list-none">Cô ấy tưởng tượng cảnh sống trong một ngôi nhà vùng quê yên tĩnh được bao quanh bởi thiên nhiên xanh mát.</li>
+					<li className="list-none">Cô ấy <strong>tưởng tượng cảnh sống</strong> trong một ngôi nhà vùng quê yên tĩnh được bao quanh bởi thiên nhiên xanh mát.</li>
 					<li className="list-none">she là chủ thể. Sau động từ iMAGine, hành động tiếp theo bắt buộc phải ở dạng -ing (LIVing), dùng để diễn tả sự hình dung hoặc tưởng tượng trong tâm trí về một cảnh tượng hoặc sự việc.</li>
 			
 				</ul>
@@ -410,7 +389,7 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 				<ul className="list-square">
 			
 					<li>she <strong>conSIDered CHANGing</strong> her caREER PATH to FOcus enTIREly on NEW WEB deVELopment.</li>
-					<li className="list-none">Cô ấy đã cân nhắc việc thay đổi con đường sự nghiệp của mình để tập trung hoàn toàn vào việc phát triển web.</li>
+					<li className="list-none">Cô ấy <strong>đã cân nhắc việc thay đổi</strong> con đường sự nghiệp của mình để tập trung hoàn toàn vào việc phát triển web.</li>
 					<li className="list-none">she là chủ thể. Sau động từ conSIDer, hành động tiếp theo bắt buộc phải ở dạng -ing (CHANGing), dùng để chỉ việc suy nghĩ, cân nhắc kỹ lưỡng về một khả năng hoặc hành động nào đó.</li>
 			
 				</ul>
@@ -421,7 +400,7 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 				<ul className="list-square">
 			
 					<li>she <strong>aVOIDed disCUSSing</strong> the COMplex TAX ISsues during the MEETing.</li>
-					<li className="list-none">Cô ấy đã tránh thảo luận về các vấn đề thuế phức tạp trong cuộc họp.</li>
+					<li className="list-none">Cô ấy <strong>đã tránh thảo luận</strong> về các vấn đề thuế phức tạp trong cuộc họp.</li>
 					<li className="list-none">she là chủ thể. Sau động từ aVOID, hành động tiếp theo bắt buộc phải ở dạng -ing (disCUSSing), dùng để chỉ việc cố gắng né tránh hoặc không làm một hành động nào đó.</li>
 			
 				</ul>
@@ -431,8 +410,8 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>she <strong>KEPT WORKing</strong> on the acCOUNting LEDGer despite the LATE HOUR.</li>
-					<li className="list-none">Cô ấy đã tiếp tục làm việc với sổ sách kế toán mặc dù đã muộn.</li>
+					<li>she <strong>KEPT WORKing</strong> on the acCOUNTing LEDGer despite the LATE HOUR.</li>
+					<li className="list-none">Cô ấy <strong>đã tiếp tục làm việc</strong> với sổ sách kế toán mặc dù đã muộn.</li>
 					<li className="list-none">she là chủ thể. Sau động từ KEEP (hoặc KEEP ON), hành động tiếp theo bắt buộc phải ở dạng -ing (WORKing), diễn tả sự việc diễn ra liên tục hoặc lặp đi lặp lại không ngừng.</li>
 			
 				</ul>
@@ -443,7 +422,7 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 				<ul className="list-square">
 			
 					<li>she <strong>FINished TYping</strong> the fiNANcial rePORT before LEAVing the OFfice.</li>
-					<li className="list-none">Cô ấy đã hoàn thành việc đánh máy báo cáo tài chính trước khi rời khỏi văn phòng.</li>
+					<li className="list-none">Cô ấy <strong>đã hoàn thành việc đánh máy</strong> báo cáo tài chính trước khi rời khỏi văn phòng.</li>
 					<li className="list-none">she là chủ thể. Sau động từ FINish, hành động tiếp theo bắt buộc phải ở dạng -ing (TYping), dùng để chỉ việc kết thúc hoặc hoàn tất hoàn toàn một quá trình/hành động nào đó.</li>
 			
 				</ul>
@@ -454,7 +433,7 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 				<ul className="list-square">
 			
 					<li>he <strong>GAVE UP DRINKing</strong> INstant COFfee and SWITCHED enTIREly to traDITional PHIN BREWS.</li>
-					<li className="list-none">Anh ấy đã từ bỏ việc uống cà phê hòa tan và chuyển hoàn toàn sang cà phê phin truyền thống.</li>
+					<li className="list-none">Anh ấy <strong>đã từ bỏ việc uống</strong> cà phê hòa tan và chuyển hoàn toàn sang cà phê phin truyền thống.</li>
 					<li className="list-none">he là chủ thể. Sau cụm động từ GIVE UP, hành động tiếp theo bắt buộc phải ở dạng -ing (DRINKing), dùng để chỉ việc từ bỏ hoặc chấm dứt một thói quen, hành động nào đó.</li>
 			
 				</ul>
@@ -464,8 +443,8 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>he <strong>is USED to WORKing</strong> LONG HOURS under HIGH PRESsure in the acCOUNting dePARTment.</li>
-					<li className="list-none">Anh ấy đã quen với việc làm việc nhiều giờ liền dưới áp lực cao trong phòng kế toán.</li>
+					<li>he <strong>is USED to WORKing</strong> LONG HOURS under HIGH PRESsure in the acCOUNTing dePARTment.</li>
+					<li className="list-none">Anh ấy <strong>đã quen với việc làm việc</strong> nhiều giờ liền dưới áp lực cao trong phòng kế toán.</li>
 					<li className="list-none">he là chủ thể. Sau cụm từ be USED to (quen với), hành động tiếp theo bắt buộc phải ở dạng -ing (WORKing). (Lưu ý phân biệt với cấu trúc USED to + V nguyên mẫu dùng để chỉ thói quen trong quá khứ).</li>
 			
 				</ul>
@@ -476,7 +455,7 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 				<ul className="list-square">
 			
 					<li>she <strong>LOOKS FORward to VISiting</strong> the NEW COFfee ROASTing WORKshop NEXT WEEKend.</li>
-					<li className="list-none">Cô ấy rất mong chờ được đến thăm xưởng rang cà phê mới vào cuối tuần tới.</li>
+					<li className="list-none">Cô ấy <strong>rất mong chờ được đến thăm</strong> xưởng rang cà phê mới vào cuối tuần tới.</li>
 					<li className="list-none">she là chủ thể. Sau cụm từ LOOK FORward to, từ to ở đây là một giới nên hành động tiếp theo bắt buộc phải ở dạng -ing (VISiting), thể hiện cảm giác hào hứng, mong mỏi.</li>
 			
 				</ul>
@@ -487,7 +466,7 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 				<ul className="list-square">
 			
 					<li>she is <strong>TIRED of FIXing</strong> the SAME SOFTware BUGS every SINgle DAY.</li>
-					<li className="list-none">Cô ấy đã mệt mỏi vì phải sửa các lỗi phần mềm giống nhau mỗi ngày.</li>
+					<li className="list-none">Cô ấy <strong>đã mệt mỏi vì phải sửa</strong> các lỗi phần mềm giống nhau mỗi ngày.</li>
 					<li className="list-none">she là chủ thể. Sau cụm tính kết hợp giới TIRED of, hành động tiếp theo bắt buộc phải ở dạng -ing (FIXing), thể hiện cảm giác chán nản hoặc kiệt sức vì một việc lặp đi lặp lại.</li>
 			
 				</ul>
@@ -498,7 +477,7 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 				<ul className="list-square">
 			
 					<li>she is <strong>INterested in LEARNing</strong> adVANCED WEB deVELopment techNIQUES to imPROVE her ONline PROJects.</li>
-					<li className="list-none">Cô ấy quan tâm đến việc học các kỹ thuật phát triển web nâng cao để cải thiện các dự án trực tuyến của mình.</li>
+					<li className="list-none">Cô ấy <strong>quan tâm đến việc học</strong> các kỹ thuật phát triển web nâng cao để cải thiện các dự án trực tuyến của mình.</li>
 					<li className="list-none">she là chủ thể. Sau cụm tính từ đi với giới từ INterested in, hành động tiếp theo bắt buộc phải ở dạng -ing (LEARNing), thể hiện sự hứng thú hoặc muốn tìm hiểu về một lĩnh vực, hoạt động nào đó.</li>
 			
 				</ul>
@@ -526,13 +505,46 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 				</ul>
 
 			
-			<h4 className="margin-y-40"></h4>
+			<h4 className="margin-y-40">16. MISS CATCHing</h4>
 			
 				<ul className="list-square">
 			
-					<li></li>
-					<li className="list-none"></li>
-					<li className="list-none"></li>
+					<li>she <strong>MISSED CATCHing</strong> the EARly BUS because she SPENT TOO MUCH TIME reVIEWing the fiNANcial SPREADsheets.</li>
+					<li className="list-none">Cô ấy <strong>đã suýt lỡ chuyến</strong> xe buýt sớm vì dành quá nhiều thời gian xem lại các bảng tính tài chính.</li>
+					<li className="list-none">she là chủ thể. Sau động từ MISS, hành động tiếp theo bắt buộc phải ở dạng -ing (CATCHing), dùng để diễn tả việc bỏ lỡ, trượt mất hoặc suýt không làm kịp một hành động nào đó.</li>
+			
+				</ul>
+			
+			
+			<h4 className="margin-y-40">17. PRACtice TYping</h4>
+			
+				<ul className="list-square">
+			
+					<li>she <strong>PRACticed TYping</strong> fiNANcial DATA QUICKly to imPROVE her DAIly WORKflow.</li>
+					<li className="list-none">Cô ấy <strong>đã luyện tập gõ</strong> dữ liệu tài chính nhanh chóng để cải thiện quy trình làm việc hằng ngày của mình.</li>
+					<li className="list-none">she là chủ thể. Sau động từ PRACtice, hành động tiếp theo bắt buộc phải ở dạng -ing (TYping), dùng để chỉ việc lặp lại một hành động nhằm rèn luyện kỹ năng hoặc tay nghề.</li>
+			
+				</ul>
+
+			
+			<h4 className="margin-y-40">18. deNY MAking</h4>
+			
+				<ul className="list-square">
+			
+					<li>he <strong>deNIED MAking</strong> any ERrors in the MONTHly fiNANcial BALance SHEET.</li>
+					<li className="list-none">Anh ấy <strong>đã phủ nhận việc mắc</strong> bất kỳ lỗi nào trong bảng cân đối tài chính hàng tháng.</li>
+					<li className="list-none">he là chủ thể. Sau động từ deNY, hành động tiếp theo bắt buộc phải ở dạng -ing (MAking), dùng để chỉ việc chối bỏ hoặc không nhận một hành động mà mình đã thực hiện.</li>
+			
+				</ul>
+
+			
+			<h4 className="margin-y-40">19. adMIT MAking</h4>
+			
+				<ul className="list-square">
+			
+					<li>he <strong>adMITted MAking</strong> a SLIGHT misTAKE in the acCOUNTing SPREADsheet.</li>
+					<li className="list-none">Anh ấy <strong>đã thừa nhận việc mắc</strong> một lỗi nhỏ trong bảng tính kế toán.</li>
+					<li className="list-none">He là chủ thể. Sau động từ adMIT, hành động tiếp theo bắt buộc phải ở dạng -ing (MAking), dùng để chỉ việc công nhận hoặc thú nhận một hành động đã xảy ra trong quá khứ.</li>
 			
 				</ul>
 
@@ -548,7 +560,7 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 				<ul className="list-square">
 			
 					<li>i <strong>would HATE to MISS</strong> the DEADline for subMITting the fiNANcial AUdit rePORTS.</li>
-					<li className="list-none">Tôi sẽ rất không muốn bị lỡ hạn chót nộp báo cáo kiểm toán tài chính.</li>
+					<li className="list-none">Tôi <strong>sẽ rất không muốn bị lỡ</strong> hạn chót nộp báo cáo kiểm toán tài chính.</li>
 					<li className="list-none">i là chủ thể. Cấu trúc would HATE + to V dùng để bày tỏ cảm giác áy ngại, sợ hãi hoặc không muốn một sự việc cụ thể nào đó xảy ra trong tương lai hoặc trong một tình huống giả định.</li>
 			
 				</ul>
@@ -559,7 +571,7 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 				<ul className="list-square">
 			
 					<li>i <strong>would LOVE to disCUSS</strong> the NEW WEB PROJect with you toMORrow.</li>
-					<li className="list-none">Tôi rất muốn thảo luận về dự án phát triển web mới với bạn vào ngày mai.</li>
+					<li className="list-none">Tôi <strong>rất muốn thảo luận</strong> về dự án phát triển web mới với bạn vào ngày mai.</li>
 					<li className="list-none">I là chủ thể. Cấu trúc would LOVE + to V (thường được viết tắt là 'd LOVE to) dùng để bày tỏ một mong muốn mãnh liệt một cách lịch sự về một dự định trong tương lai, hoặc thường dùng để vui vẻ nhận lời mời của ai đó.</li>
 			
 				</ul>
@@ -570,7 +582,7 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 				<ul className="list-square">
 			
 					<li>i <strong>would LIKE to CHECK</strong> the BANK STATEments and INvoices before LEAVing the OFfice.</li>
-					<li className="list-none">Tôi muốn kiểm tra các bản sao kê ngân hàng và hóa đơn trước khi rời khỏi văn phòng.</li>
+					<li className="list-none">Tôi <strong>muốn kiểm tra</strong> các bản sao kê ngân hàng và hóa đơn trước khi rời khỏi văn phòng.</li>
 					<li className="list-none">i là chủ thể. Cấu trúc would LIKE + to V (thường được viết tắt là 'd LIKE to) là cách nói trang trọng và lịch sự hơn của từ WANT, dùng để diễn tả mong muốn hoặc yêu cầu thực hiện một hành động cụ thể ở hiện tại hoặc tương lai.</li>
 			
 				</ul>
@@ -580,8 +592,8 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>he <strong>aGREED to HELP</strong> reVIEW the MONthly fiNANcial rePORTs before the DEADline.</li>
-					<li className="list-none">Anh ấy đã đồng ý giúp kiểm tra lại các báo cáo tài chính hàng tháng trước hạn chót.</li>
+					<li>he <strong>aGREED to HELP</strong> reVIEW the MONTHly fiNANcial rePORTs before the DEADline.</li>
+					<li className="list-none">Anh ấy <strong>đã đồng ý giúp</strong> kiểm tra lại các báo cáo tài chính hàng tháng trước hạn chót.</li>
 					<li className="list-none">He là chủ thể. Sau động từ aGREE, hành động tiếp theo bắt buộc phải ở dạng to V (to HELP), thể hiện sự chấp thuận hoặc cam kết thực hiện một hành động cụ thể.</li>
 			
 				</ul>
@@ -592,7 +604,7 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 				<ul className="list-square">
 			
 					<li>he <strong>LEARNED to COOK</strong> traDITional vietnaMESE DISHes USing a CAST Iron DUTCH OVen.</li>
-					<li className="list-none">Anh ấy đã học cách nấu các món ăn truyền thống của Việt Nam bằng một chiếc nồi gang Hà Lan.</li>
+					<li className="list-none">Anh ấy <strong>đã học cách nấu</strong> các món ăn truyền thống của Việt Nam bằng một chiếc nồi gang Hà Lan.</li>
 					<li className="list-none">he là chủ thể. Sau động từ LEARN, hành động tiếp theo bắt buộc phải ở dạng to V (to COOK), thể hiện quá trình tiếp thu kỹ năng hoặc kiến thức mới để làm một việc cụ thể.</li>
 			
 				</ul>
@@ -603,7 +615,7 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 				<ul className="list-square">
 			
 					<li>he <strong>reFUSED to SIGN</strong> the fiNANcial AUdit rePORT until all ERrors were corRECTed.</li>
-					<li className="list-none">Anh ấy đã từ chối ký báo cáo kiểm toán tài chính cho đến khi tất cả các lỗi được sửa chữa.</li>
+					<li className="list-none">Anh ấy <strong>đã từ chối ký</strong> báo cáo kiểm toán tài chính cho đến khi tất cả các lỗi được sửa chữa.</li>
 					<li className="list-none">he là chủ thể. Sau động từ reFUSE, hành động tiếp theo bắt buộc phải ở dạng to V (to SIGN), thể hiện thái độ không đồng ý hoặc kiên quyết không thực hiện một hành động cụ thể.</li>
 			
 				</ul>
@@ -614,7 +626,7 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 				<ul className="list-square">
 			
 					<li>he <strong>HOPES to FINish</strong> the WEB deVELopment PROJect before the END of the MONTH.</li>
-					<li className="list-none">Anh ấy hy vọng sẽ hoàn thành dự án phát triển web trước cuối tháng.</li>
+					<li className="list-none">Anh ấy <strong>hy vọng sẽ hoàn thành</strong> dự án phát triển web trước cuối tháng.</li>
 					<li className="list-none">he là chủ thể. Sau động từ HOPE, hành động tiếp theo bắt buộc phải ở dạng to V (to FINish), thể hiện mong ước, sự kỳ vọng sẽ thực hiện được một hành động cụ thể trong tương lai.</li>
 			
 				</ul>
@@ -625,7 +637,7 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 				<ul className="list-square">
 			
 					<li>he <strong>deCIded to BUY</strong> a NEW CAST Iron WOK for his COOKing exPERiments.</li>
-					<li className="list-none">Anh ấy đã quyết định mua một chiếc chảo wok bằng gang mới cho các thí nghiệm nấu nướng của mình.</li>
+					<li className="list-none">Anh ấy <strong>đã quyết định mua</strong> một chiếc chảo wok bằng gang mới cho các thí nghiệm nấu nướng của mình.</li>
 					<li className="list-none">he là chủ thể. Sau động từ deCIDE, hành động tiếp theo bắt buộc phải ở dạng to V (to BUY), thể hiện sự lựa chọn hoặc quyết định thực hiện một hành động cụ thể sau khi đã cân nhắc.</li>
 			
 				</ul>
@@ -636,7 +648,7 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 				<ul className="list-square">
 			
 					<li>he <strong>HELPED his COLleague to FIX</strong> the WEB deVELopment BUG on the PLATform.</li>
-					<li className="list-none">Anh ấy đã giúp đồng nghiệp của mình sửa lỗi phát triển web trên nền tảng.</li>
+					<li className="list-none">Anh ấy <strong>đã giúp đồng nghiệp của mình sửa</strong> lỗi phát triển web trên nền tảng.</li>
 					<li className="list-none">he là chủ thể chính, his COLleague là chủ thể nhận sự giúp đỡ. Sau HELP + sb, bạn có thể dùng trực tiếp to V (to FIX) hoặc bỏ to đi để dùng nguyên mẫu (FIX đều được).</li>
 			
 				</ul>
@@ -647,7 +659,7 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 				<ul className="list-square">
 			
 					<li>she <strong>NEEDS to reVIEW</strong> the fiNANcial STATEments before subMITting them to the MANager.</li>
-					<li className="list-none">Cô ấy cần phải xem lại các báo cáo tài chính trước khi nộp chúng cho người quản lý.</li>
+					<li className="list-none">Cô ấy <strong>cần phải xem lại</strong> các báo cáo tài chính trước khi nộp chúng cho người quản lý.</li>
 					<li className="list-none">she là chủ thể. Sau động từ NEED (khi chỉ nhu cầu của chủ thể), hành động tiếp theo bắt buộc phải ở dạng to V (to reVIEW), thể hiện một việc cần thiết phải thực hiện.</li>
 			
 				</ul>
@@ -657,8 +669,8 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>she <strong>exPECTS to reCEIVE</strong> a POSitive reSPONSE from the CLIent regarding the NEW acCOUNting SOFTware.</li>
-					<li className="list-none">Cô ấy mong đợi sẽ nhận được phản hồi tích cực từ khách hàng về phần mềm kế toán mới.</li>
+					<li>she <strong>exPECTS to reCEIVE</strong> a POSitive reSPONSE from the CLIent regarding the NEW acCOUNTing SOFTware.</li>
+					<li className="list-none">Cô ấy <strong>mong đợi sẽ nhận được</strong> phản hồi tích cực từ khách hàng về phần mềm kế toán mới.</li>
 					<li className="list-none">she là chủ thể. Sau động từ exPECT, hành động tiếp theo ở dạng to V (to reCEIVE), diễn tả sự trông đợi hoặc dự đoán một sự việc sẽ diễn ra trong tương lai.</li>
 			
 				</ul>
@@ -668,8 +680,8 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>the SUDden SYStem ERror <strong>FORCED her to reWRITE</strong> the enTIRE acCOUNting rePORT from SCRATCH.</li>
-					<li className="list-none">Lỗi hệ thống bất ngờ đã buộc cô ấy phải viết lại toàn bộ báo cáo kế toán từ đầu.</li>
+					<li>the SUDden SYStem ERror <strong>FORCED her to reWRITE</strong> the enTIRE acCOUNTing rePORT from SCRATCH.</li>
+					<li className="list-none">Lỗi hệ thống bất ngờ <strong>đã buộc cô ấy phải viết lại</strong> toàn bộ báo cáo kế toán từ đầu.</li>
 					<li className="list-none">the SUDden SYStem ERror là chủ thể gây ra hành động, và her là chủ thể nhận sự tác động bị bắt buộc. Sau FORCE + sb, hành động tiếp theo bắt buộc phải ở dạng to V (to reWRITE).</li>
 			
 				</ul>
@@ -680,7 +692,7 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 				<ul className="list-square">
 			
 					<li>the MANager <strong>TOLD her to subMIT</strong> the fiNANcial SPREADsheet by this AFternoon.</li>
-					<li className="list-none">Người quản lý đã bảo cô ấy nộp bảng tính tài chính trước chiều nay.</li>
+					<li className="list-none">Người quản lý <strong>đã bảo cô ấy nộp</strong> bảng tính tài chính trước chiều nay.</li>
 					<li className="list-none">the MANager là chủ thể ra lệnh/nhắn nhủ, và her là chủ thể nhận yêu cầu. Sau TELL + sb, hành động tiếp theo bắt buộc phải ở dạng to V (to subMIT), dùng để ra lệnh, dặn dò hoặc hướng dẫn ai đó làm gì.</li>
 			
 				</ul>
@@ -701,20 +713,75 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>he <strong>TENDS to CHECK</strong> the ACcuracy of the acCOUNting rePORTs TWICE before subMITting them.</li>
-					<li className="list-none">Anh ấy <strong>có xu hướng kiểm tra độ</strong> chính xác của các báo cáo kế toán hai lần trước khi nộp chúng.</li>
+					<li>he <strong>TENDS to CHECK</strong> the ACcuracy of the acCOUNTing rePORTs TWICE before subMITting them.</li>
+					<li className="list-none">Anh ấy <strong>có xu hướng kiểm tra</strong> độ chính xác của các báo cáo kế toán hai lần trước khi nộp chúng.</li>
 					<li className="list-none">he là chủ thể. Sau động từ TEND, hành động tiếp theo bắt buộc phải ở dạng to V (to CHECK), diễn tả một thói quen hoặc khuynh hướng hành xử thường thấy của chủ thể trong một hoàn cảnh nhất định.</li>
 			
 				</ul>
 			
 			
-			<h4 className="margin-y-40"></h4>
+			<h4 className="margin-y-40">16. SEEM to underSTAND</h4>
 			
 				<ul className="list-square">
 			
-					<li></li>
-					<li className="list-none"></li>
-					<li className="list-none"></li>
+					<li>he <strong>SEEMS to underSTAND</strong> the NEW WEB deVELopment FRAMEwork VERy QUICKly.</li>
+					<li className="list-none">Anh ấy <strong>dường như hiểu</strong> khung làm việc phát triển web mới rất nhanh.</li>
+					<li className="list-none">he là chủ thể. Sau động từ SEEM, hành động tiếp theo bắt buộc phải ở dạng to V (to underSTAND), dùng để thể hiện phỏng đoán hoặc trạng thái có vẻ như đang xảy ra ở hiện tại.</li>
+			
+				</ul>
+			
+			
+			<h4 className="margin-y-40">17. apPEAR to SOLVE</h4>
+			
+				<ul className="list-square">
+			
+					<li>he <strong>apPEARS to SOLVE</strong> the WEBsite BUG that TROUBled the deVELopment TEAM YESterday.</li>
+					<li className="list-none">Anh ấy <strong>dường như đã giải quyết được</strong> lỗi trang web từng làm phiền đội ngũ phát triển vào ngày hôm qua.</li>
+					<li className="list-none">He là chủ thể. Sau động từ apPEAR, hành động tiếp theo bắt buộc phải ở dạng to V (to SOLVE), dùng để diễn tả sự việc trông có vẻ như đang xảy ra hoặc đúng là như vậy dựa trên quan sát thực tế.</li>
+			
+				</ul>
+
+			
+			<h4 className="margin-y-40">18. deSERVE to reCEIVE</h4>
+			
+				<ul className="list-square">
+			
+					<li>she <strong>deSERVES to reCEIVE</strong> a BOnus for her HARD WORK on the NEW WEB PROJect.</li>
+					<li className="list-none">Cô ấy <strong>xứng đáng nhận được</strong> một khoản tiền thưởng cho sự chăm chỉ của mình trong dự án web mới.</li>
+					<li className="list-none">she là chủ thể. Sau động từ deSERVE, hành động tiếp theo bắt buộc phải ở dạng to V (to reCEIVE), diễn tả việc một chủ thể hoàn toàn xứng đáng đạt được hoặc nhận lấy một kết quả, hành động nào đó.</li>
+			
+				</ul>
+
+			
+			<h4 className="margin-y-40">19. afFORD to BUY</h4>
+			
+				<ul className="list-square">
+			
+					<li>she <strong>afFORDS to BUY</strong> a NEW proFESsional CAMERa to CAPture BEAUtiful LANDscapes.</li>
+					<li className="list-none">Cô ấy <strong>có đủ khả năng mua</strong> một chiếc máy ảnh chuyên nghiệp mới để ghi lại những khung cảnh thiên nhiên tươi đẹp.</li>
+					<li className="list-none">she là chủ thể. Sau động từ afFORD (thường dùng ở thể phủ định hoặc nghi vấn nhiều hơn, nhưng dạng khẳng định vẫn chính xác khi nói về tiềm lực), hành động tiếp theo bắt buộc phải ở dạng to V (to BUY).</li>
+			
+				</ul>
+
+			
+			<h4 className="margin-y-40">20. MANage to FINish</h4>
+			
+				<ul className="list-square">
+			
+					<li>he <strong>MANaged to FINish</strong> the COMplex acCOUNTing rePORT before the STRICT DEADline.</li>
+					<li className="list-none">Anh ấy <strong>đã xoay sở hoàn thành</strong> báo cáo kế toán phức tạp trước thời hạn nghiêm ngặt.</li>
+					<li className="list-none">He là chủ thể. Sau động từ MANage, hành động tiếp theo bắt buộc phải ở dạng to V (to FINish), dùng để nhấn mạnh việc vượt qua khó khăn hoặc trở ngại để hoàn tất thành công một công việc nào đó.</li>
+			
+				</ul>
+
+			
+			<h4 className="margin-y-40">21. FAIL to subMIT</h4>
+			
+				<ul className="list-square">
+			
+					<li>she <strong>FAILED to subMIT</strong> the WEBsite UPdate on TIME due to unexPECTed TECHnical ERrors.</li>
+					<li className="list-none">Cô ấy <strong>đã không thể nộp</strong> bản cập nhật trang web đúng hạn do những lỗi kỹ thuật bất ngờ.</li>
+					<li className="list-none">She là chủ thể. Sau động từ FAIL, hành động tiếp theo bắt buộc phải ở dạng to V (to subMIT), diễn tả việc không hoàn thành hoặc không thực hiện được một nhiệm vụ, hành động đã định.</li>
 			
 				</ul>
 
@@ -728,15 +795,15 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 				<ul className="list-square">
 			
 					<li>she <strong>enJOYS DANcing</strong> to traDITional MUsic during FAMILy GATHerings.</li>
-					<li className="list-none">Cô ấy thích nhảy múa theo điệu nhạc truyền thống trong các buổi tụ họp gia đình.</li>
+					<li className="list-none">Cô ấy <strong>thích nhảy múa</strong> theo điệu nhạc truyền thống trong các buổi tụ họp gia đình.</li>
 					<li className="margin-bottom-20 list-none">she là chủ thể. Sau hành động enJOY, hành động tiếp theo bắt buộc phải ở dạng -ing (DANcing), diễn tả sự tận hưởng và niềm vui khi thực hiện hành động đó.</li>
 			
 					<li>he <strong>HATES WAITing</strong> in LONG LINES at the COFfee SHOP during PEAK HOURS.</li>
-					<li className="list-none">Anh ấy ghét việc phải xếp hàng dài ở quán cà phê vào giờ cao điểm.</li>
+					<li className="list-none">Anh ấy <strong>ghét việc phải xếp hàng</strong> dài ở quán cà phê vào giờ cao điểm.</li>
 					<li className="margin-bottom-20 list-none">he là chủ thể. Sau hành động HATE, hành động ở dạng -ing (WAITing) dùng để diễn tả sự khó chịu đối với một trải nghiệm hoặc thói quen chung. (Như đã phân tích ở các phần trước, HATE + to V dùng cho việc cụ thể sắp phải làm).</li>
 			
 					<li>would you <strong>MIND HELPing</strong> me CARry these HEAVy CAST Iron COOKware BOXes?</li>
-					<li className="list-none">Bạn có phiền giúp tôi khiêng những chiếc hộp dụng cụ nấu ăn bằng gang nặng này không?</li>
+					<li className="list-none">Bạn <strong>có phiền giúp</strong> tôi khiêng những chiếc hộp dụng cụ nấu ăn bằng gang nặng này không?</li>
 					<li className="list-none">you là chủ thể. Sau hành động MIND, hành động tiếp theo luôn ở dạng -ing (HELPing). Cấu trúc này thường dùng trong câu hỏi lịch sự hoặc câu phủ định để hỏi xem ai đó có cảm thấy khó chịu khi làm việc gì hay không.</li>
 			
 				</ul>
@@ -746,15 +813,15 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 				<ul className="list-square">
 			
 					<li>she <strong>WANTS to TRAVel</strong> to NEW CITies to exPLORE LOcal COFfee CULtures.</li>
-					<li className="list-none">Cô ấy muốn đi du lịch đến các thành phố mới để khám phá văn hóa cà phê địa phương.</li>
+					<li className="list-none">Cô ấy <strong>muốn đi du lịch</strong> đến các thành phố mới để khám phá văn hóa cà phê địa phương.</li>
 					<li className="margin-bottom-20 list-none">she là chủ thể. Sau hành động WANT, hành động tiếp theo phải ở dạng to V (to TRAVel).</li>
 			
 					<li>he <strong>PROMised to CALL</strong> his PARents as soon as he arRIVED in the CITy.</li>
-					<li className="list-none">Anh ấy đã hứa sẽ gọi điện cho bố mẹ ngay khi đến thành phố.</li>
+					<li className="list-none">Anh ấy <strong>đã hứa sẽ gọi điện</strong> cho bố mẹ ngay khi đến thành phố.</li>
 					<li className="margin-bottom-20 list-none">he là chủ thể. Sau hành động PROMise, hành động tiếp theo phải ở dạng to V (to CALL).</li>
 			
 					<li>they <strong>PLAN to MOVE</strong> to a BIGger aPARTment near their WORKplace NEXT MONTH.</li>
-					<li className="list-none">Họ dự định chuyển đến một căn hộ lớn hơn gần nơi làm việc vào tháng tới.</li>
+					<li className="list-none">Họ <strong>dự định chuyển đến</strong> một căn hộ lớn hơn gần nơi làm việc vào tháng tới.</li>
 					<li className="list-none">they là chủ thể. Sau hành động plan, hành động tiếp theo phải ở dạng to V (to MOVE).</li>
 			
 				</ul>
@@ -764,15 +831,15 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 				<ul className="list-square">
 			
 					<li>he <strong>DREAMS of beCOMing</strong> a proFESsional WEB deVELoper and BUILDing USEful appliCAtions.</li>
-					<li className="list-none">Anh ấy mơ ước trở thành một lập trình viên web chuyên nghiệp và xây dựng các ứng dụng hữu ích.</li>
+					<li className="list-none">Anh ấy <strong>mơ ước trở thành</strong> một lập trình viên web chuyên nghiệp và xây dựng các ứng dụng hữu ích.</li>
 					<li className="margin-bottom-20 list-none">he là chủ thể. Sau giới of, hành động beCOME phải được chuyển thành dạng -ing (beCOMing).</li>
 			
-					<li>she <strong>aPOLogized for being</strong> MORning acCOUNting MEETing.</li>
-					<li className="list-none">Cô ấy đã xin lỗi vì đến muộn trong buổi họp kế toán buổi sáng.</li>
+					<li>she <strong>aPOLogized for being</strong> MORning acCOUNTing MEETing.</li>
+					<li className="list-none">Cô ấy <strong>đã xin lỗi vì đến muộn</strong> trong buổi họp kế toán buổi sáng.</li>
 					<li className="margin-bottom-20 list-none">she là chủ thể. Sau giới for, hành động be phải được chuyển thành dạng -ing (being).</li>
 			
 					<li>he is <strong>GOOD at SINGing</strong> traDITional SONGS and PLAYing MUsical INstruments.</li>
-					<li className="list-none">Anh ấy giỏi ca hát các bài hát truyền thống và chơi nhạc cụ.</li>
+					<li className="list-none">Anh ấy <strong>giỏi ca hát</strong> các bài hát truyền thống và chơi nhạc cụ.</li>
 					<li className="list-none">he là chủ thể. Sau cụm tính kết hợp giới GOOD at, hành động SING phải được chuyển thành dạng -ing (SINGing).</li>
 			
 				</ul>
