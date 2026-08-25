@@ -67,9 +67,9 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 			
 			<p className="margin-top-20">Hai cấu trúc này khiến hàng triệu người học tiếng Anh phát điên. Nhưng nếu bạn hiểu được "tâm lý" và "tính cách" của chúng, mọi thứ sẽ trở nên… đáng yêu hơn rất nhiều.</p>
 
-			{/* 1. Hai nhân vật chính và tính cách cơ bản */}
+			{/* II. Hai nhân vật chính và tính cách cơ bản */}
 
-			<h3 className="margin-y-50 text-center">1. Hai nhân vật chính và tính cách cơ bản</h3>
+			<h3 className="margin-y-50 text-center">I. Hai nhân vật chính và tính cách cơ bản</h3>
 
 
 			<h4 className="margin-y-40">SWIMming</h4>
@@ -98,9 +98,9 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 				</ul>
 			
 
-			{/* 2. Bảng phân loại siêu thực dụng (cập nhật 2025) */}
+			{/* II. Bảng phân loại siêu thực dụng (cập nhật 2025) */}
 
-			<h3 className="margin-y-50 text-center">2. Bảng phân loại siêu thực dụng (cập nhật 2025)</h3>
+			<h3 className="margin-y-50 text-center">II. Bảng phân loại siêu thực dụng (cập nhật 2025)</h3>
 
 				<table className="margin-y-50">
 					<thead>
@@ -113,13 +113,6 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 					</thead>
 
 					<tbody>
-
-						<tr>
-								<td>Cảm xúc & sở thích</td>
-								<td>enjoy, like*, love*, hate*, mind</td>
-								<td>want, would like, would love*</td>
-								<td></td>
-						</tr>
 						
 						<tr>
 								<td>Thói quen / bắt đầu / kết thúc</td>
@@ -138,7 +131,7 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 						<tr>
 								<td>Động cơ + danh nhận + to V</td>
 								<td>(không có)</td>
-								<td>ask, allow, tell, force, want, expect, need, help sb to do</td>
+								<td>ask, allow, tell, force, expect, need, help sb to do</td>
 								<td>-</td>
 						</tr>
 
@@ -385,9 +378,9 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 
 
 			
-			{/* 3. Chỉ dùng Gerund (-ing) */}
+			{/* III. Chỉ dùng Gerund (-ing) */}
 
-			<h3 className="margin-y-50 text-center">3. Chỉ dùng Gerund (-ing)</h3>
+			<h3 className="margin-y-50 text-center">III. Chỉ dùng Gerund (-ing)</h3>
 			
 			
 			<h4 className="margin-y-40">1. FANcy</h4>
@@ -401,11 +394,20 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 				</ul>
 			
 			
+			<h4 className="margin-y-40">2. MIND</h4>
+			
+				<ul className="list-square">
+			
+					<li>i DON'T MIND WORKing Overtime to DOUble-CHECK the fiNANcial FIGures.</li>
+					<li className="list-none">Tôi không ngại làm việc thêm giờ để kiểm tra lại các số liệu tài chính.</li>
+					<li className="list-none">I là chủ thể. Cấu trúc MIND + V-ing thường được dùng trong câu phủ định (ví dụ: DON'T MIND - không ngại) hoặc câu hỏi (ví dụ: would you MIND...? - Bạn có phiền...) để hỏi ý kiến hoặc bày tỏ cảm giác không bị làm phiền bởi một hành động cụ thể.</li>
+			
+				</ul>
 			
 			
-			{/* 4. Chỉ dùng Infinitive (to V) */}
+			{/* IV. Chỉ dùng Infinitive (to V) */}
 
-			<h3 className="margin-y-50 text-center">4. Chỉ dùng Infinitive (to V)</h3>
+			<h3 className="margin-y-50 text-center">IV. Chỉ dùng Infinitive (to V)</h3>
 
 
 			<h4 className="margin-y-40">1. would HATE</h4>
@@ -419,6 +421,26 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 				</ul>
 			
 			
+			<h4 className="margin-y-40">2. would LOVE</h4>
+			
+				<ul className="list-square">
+			
+					<li>i <strong>would LOVE</strong> to disCUSS the NEW WEB PROJect with you toMORrow.</li>
+					<li className="list-none">Tôi rất muốn thảo luận về dự án phát triển web mới với bạn vào ngày mai.</li>
+					<li className="list-none">I là chủ thể. Cấu trúc would LOVE + to V (thường được viết tắt là 'd LOVE to) dùng để bày tỏ một mong muốn mãnh liệt một cách lịch sự về một dự định trong tương lai, hoặc thường dùng để vui vẻ nhận lời mời của ai đó.</li>
+			
+				</ul>
+			
+			
+			<h4 className="margin-y-40">3. would LIKE</h4>
+			
+				<ul className="list-square">
+			
+					<li>i <strong>would LIKE</strong> to CHECK the BANK STATEments and INvoices before LEAVing the OFfice.</li>
+					<li className="list-none">Tôi muốn kiểm tra các bản sao kê ngân hàng và hóa đơn trước khi rời khỏi văn phòng.</li>
+					<li className="list-none">i là chủ thể. Cấu trúc would LIKE + to V (thường được viết tắt là 'd LIKE to) là cách nói trang trọng và lịch sự hơn của từ WANT, dùng để diễn tả mong muốn hoặc yêu cầu thực hiện một hành động cụ thể ở hiện tại hoặc tương lai.</li>
+			
+				</ul>
 			
 			
 			
@@ -434,9 +456,9 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 
 
 
-			{/* 5. Mẹo nhớ siêu nhanh cho người Việt (2025 edition) */}
+			{/* V. Mẹo nhớ siêu nhanh cho người Việt (2025 edition) */}
 
-			<h3 className="margin-y-50 text-center">5. Mẹo nhớ siêu nhanh cho người Việt (2025 edition)</h3>
+			<h3 className="margin-y-50 text-center">V. Mẹo nhớ siêu nhanh cho người Việt (2025 edition)</h3>
 			
 				<ul className="list-square">
 			
