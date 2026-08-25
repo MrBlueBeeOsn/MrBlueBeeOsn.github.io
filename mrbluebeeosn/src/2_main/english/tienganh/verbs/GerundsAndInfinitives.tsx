@@ -113,26 +113,11 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 					</thead>
 
 					<tbody>
-						
-						
-						<tr>
-								<td>Sau giới cơ</td>
-								<td>interested in, tired of</td>
-								<td>(không có)</td>
-								<td>-</td>
-						</tr>
-
-						<tr>
-								<td>Động cơ + danh nhận + to V</td>
-								<td>(không có)</td>
-								<td>ask, allow, tell</td>
-								<td>-</td>
-						</tr>
 
 						<tr>
 								<td>Một số hành động đặc biệt</td>
-								<td>admit, deny, practice, miss, postpone, risk</td>
-								<td>manage, fail, afford, deserve, appear, seem, tend</td>
+								<td>admit, deny, practice, miss</td>
+								<td>manage, fail, afford, deserve, appear, seem</td>
 								<td></td>
 						</tr>
 					</tbody>
@@ -355,17 +340,17 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 				</ul>
 
 			
-			<h4 className="margin-y-40"></h4>
+			<h4 className="margin-y-40">15. alLOW</h4>
 			
 				<ul className="list-square">
 			
-					<li></li>
-					<li className="list-none"></li>
-					<li className="margin-bottom-20 list-none"></li>
+					<li>the COMpany <strong>alLOWS emPLOYees to WORK</strong> from HOME TWICE a WEEK.</li>
+					<li className="list-none">Công ty cho phép nhân viên làm việc tại nhà hai lần một tuần.</li>
+					<li className="margin-bottom-20 list-none">the COMpany là chủ thể cấp phép, và employees là chủ thể nhận sự cho phép. Sau alLOW + sb, hành động tiếp theo bắt buộc phải ở dạng to V (to WORK). (Lưu ý: Nếu không có chủ thể phụ đứng ngay sau alLOW, động từ tiếp theo sẽ ở dạng V-ing, ví dụ: alLOWS WORKing).</li>
 			
-					<li></li>
-					<li className="list-none"></li>
-					<li className="list-none"></li>
+					<li>the COMpany <strong>alLOWS WORKing</strong> reMOTEly during the RAINy SEAson.</li>
+					<li className="list-none">Công ty cho phép làm việc từ xa trong mùa mưa.</li>
+					<li className="list-none">the COMpany là chủ thể. Ngay sau động từ alLOW không có ai nhận hành động (không có chủ thể phụ như emPLOYees), nên hành động tiếp theo bắt buộc phải ở dạng -ing (WORKing), dùng để chỉ chính sách hoặc sự cho phép chung chung đối với một hoạt động.</li>
 			
 				</ul>
 			
@@ -493,6 +478,50 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 					<li>she <strong>LOOKS FORward to VISiting</strong> the NEW COFfee ROASTing WORKshop NEXT WEEKend.</li>
 					<li className="list-none">Cô ấy rất mong chờ được đến thăm xưởng rang cà phê mới vào cuối tuần tới.</li>
 					<li className="list-none">she là chủ thể. Sau cụm từ LOOK FORward to, từ to ở đây là một giới nên hành động tiếp theo bắt buộc phải ở dạng -ing (VISiting), thể hiện cảm giác hào hứng, mong mỏi.</li>
+			
+				</ul>
+
+			
+			<h4 className="margin-y-40">12. TIRED of FIXing</h4>
+			
+				<ul className="list-square">
+			
+					<li>she is <strong>TIRED of FIXing</strong> the SAME SOFTware BUGS every SINgle DAY.</li>
+					<li className="list-none">Cô ấy đã mệt mỏi vì phải sửa các lỗi phần mềm giống nhau mỗi ngày.</li>
+					<li className="list-none">she là chủ thể. Sau cụm tính kết hợp giới TIRED of, hành động tiếp theo bắt buộc phải ở dạng -ing (FIXing), thể hiện cảm giác chán nản hoặc kiệt sức vì một việc lặp đi lặp lại.</li>
+			
+				</ul>
+
+			
+			<h4 className="margin-y-40">13. INterested in LEARNing</h4>
+			
+				<ul className="list-square">
+			
+					<li>she is <strong>INterested in LEARNing</strong> adVANCED WEB deVELopment techNIQUES to imPROVE her ONline PROJects.</li>
+					<li className="list-none">Cô ấy quan tâm đến việc học các kỹ thuật phát triển web nâng cao để cải thiện các dự án trực tuyến của mình.</li>
+					<li className="list-none">she là chủ thể. Sau cụm tính từ đi với giới từ INterested in, hành động tiếp theo bắt buộc phải ở dạng -ing (LEARNing), thể hiện sự hứng thú hoặc muốn tìm hiểu về một lĩnh vực, hoạt động nào đó.</li>
+			
+				</ul>
+
+			
+			<h4 className="margin-y-40">14. RISK LOsing</h4>
+			
+				<ul className="list-square">
+			
+					<li>she <strong>RISKED LOsing</strong> all her fiNANcial DATA by NOT BACKing UP the SYStem REGularly.</li>
+					<li className="list-none">Cô ấy <strong>đã liều lĩnh để mất</strong> tất cả dữ liệu tài chính của mình vì không sao lưu hệ thống thường xuyên.</li>
+					<li className="list-none">she là chủ thể. Sau động từ risk, hành động tiếp theo bắt buộc phải ở dạng -ing (LOsing), dùng để diễn tả việc chấp nhận mạo hiểm đối mặt với một kết quả bất lợi.</li>
+			
+				</ul>
+
+			
+			<h4 className="margin-y-40">15. postPONE upDAting</h4>
+			
+				<ul className="list-square">
+			
+					<li>she <strong>postPONED upDAting</strong> the fiNANcial RECords until the NEW SOFTware was FULLy inSTALLED.</li>
+					<li className="list-none">Cô ấy <strong>đã hoãn việc cập nhật</strong> hồ sơ tài chính cho đến khi phần mềm mới được cài đặt hoàn chỉnh.</li>
+					<li className="list-none">she là chủ thể. Sau động từ postPONE, hành động tiếp theo bắt buộc phải ở dạng -ing (upDAting), dùng để chỉ việc trì hoãn hoặc dời lại một kế hoạch, hành động sang một thời điểm khác.</li>
 			
 				</ul>
 
@@ -645,6 +674,39 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 			
 				</ul>
 
+			
+			<h4 className="margin-y-40">13. TELL her to subMIT</h4>
+			
+				<ul className="list-square">
+			
+					<li>the MANager <strong>TOLD her to subMIT</strong> the fiNANcial SPREADsheet by this AFternoon.</li>
+					<li className="list-none">Người quản lý đã bảo cô ấy nộp bảng tính tài chính trước chiều nay.</li>
+					<li className="list-none">the MANager là chủ thể ra lệnh/nhắn nhủ, và her là chủ thể nhận yêu cầu. Sau TELL + sb, hành động tiếp theo bắt buộc phải ở dạng to V (to subMIT), dùng để ra lệnh, dặn dò hoặc hướng dẫn ai đó làm gì.</li>
+			
+				</ul>
+
+			
+			<h4 className="margin-y-40">14. ASK to LEAVE</h4>
+			
+				<ul className="list-square">
+			
+					<li>he <strong>ASKED to LEAVE</strong> EARly to atTEND an imPORtant EVEning MEETing.</li>
+					<li className="list-none">Anh ấy <strong>đã xin phép về</strong> sớm để tham dự một cuộc họp buổi tối quan trọng.</li>
+					<li className="list-none">he là chủ thể. Khi sau ASK không có chủ thể phụ (như sb), mà chủ thể chính tự thực hiện hành động tiếp theo, ta dùng cấu trúc ASK + to V (to LEAVE), thể hiện việc xin phép hoặc đề nghị được làm gì.</li>
+			
+				</ul>
+
+			
+			<h4 className="margin-y-40">15. TEND to CHECK</h4>
+			
+				<ul className="list-square">
+			
+					<li>he <strong>TENDS to CHECK</strong> the ACcuracy of the acCOUNting rePORTs TWICE before subMITting them.</li>
+					<li className="list-none">Anh ấy <strong>có xu hướng kiểm tra độ</strong> chính xác của các báo cáo kế toán hai lần trước khi nộp chúng.</li>
+					<li className="list-none">he là chủ thể. Sau động từ TEND, hành động tiếp theo bắt buộc phải ở dạng to V (to CHECK), diễn tả một thói quen hoặc khuynh hướng hành xử thường thấy của chủ thể trong một hoàn cảnh nhất định.</li>
+			
+				</ul>
+			
 			
 			<h4 className="margin-y-40"></h4>
 			
