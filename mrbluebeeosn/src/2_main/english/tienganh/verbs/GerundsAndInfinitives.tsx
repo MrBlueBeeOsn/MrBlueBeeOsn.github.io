@@ -116,8 +116,8 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 						
 						<tr>
 								<td>Thói quen / bắt đầu / kết thúc</td>
-								<td>finish, keep, avoid, consider, imagine, suggest</td>
-								<td>decide, plan, hope, promise, refuse, learn, agree</td>
+								<td>finish, keep, avoid</td>
+								<td>decide, plan, hope, promise</td>
 								<td></td>
 						</tr>
 						
@@ -382,7 +382,7 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 			<h3 className="margin-y-50 text-center">III. Chỉ dùng Gerund (-ing)</h3>
 			
 			
-			<h4 className="margin-y-40">FANcy GRABbing</h4>
+			<h4 className="margin-y-40">1. FANcy GRABbing</h4>
 			
 				<ul className="list-square">
 			
@@ -393,7 +393,7 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 				</ul>
 			
 			
-			<h4 className="margin-y-40">MIND WORKing</h4>
+			<h4 className="margin-y-40">2. MIND WORKing</h4>
 			
 				<ul className="list-square">
 			
@@ -402,6 +402,62 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 					<li className="list-none">I là chủ thể. Cấu trúc MIND + V-ing thường được dùng trong câu phủ định (ví dụ: DON'T MIND - không ngại) hoặc câu hỏi (ví dụ: would you MIND...? - Bạn có phiền...) để hỏi ý kiến hoặc bày tỏ cảm giác không bị làm phiền bởi một hành động cụ thể.</li>
 			
 				</ul>
+
+			
+			<h4 className="margin-y-40">3. sugGESTed TRYing</h4>
+			
+				<ul className="list-square">
+			
+					<li>she <strong>sugGESTed TRYing</strong> a NEW PHIN FILter techNIQUE to MAKE the COFfee TASTE BETter.</li>
+					<li className="list-none">Cô ấy đã gợi ý thử một kỹ thuật dùng phin mới để làm cho cà phê có vị ngon hơn.</li>
+					<li className="list-none">she là chủ thể. Sau động từ sugGEST, hành động tiếp theo bắt buộc phải ở dạng -ing (TRYing), dùng để đưa ra một ý kiến, đề xuất chung cho mọi người cùng xem xét.</li>
+			
+				</ul>
+
+			
+			<h4 className="margin-y-40">4. iMAGines LIVing</h4>
+			
+				<ul className="list-square">
+			
+					<li>she <strong>iMAGines LIVing</strong> in a QUIet COUNtryside HOUSE surROUNDed by GREEN NAture.</li>
+					<li className="list-none">Cô ấy tưởng tượng cảnh sống trong một ngôi nhà vùng quê yên tĩnh được bao quanh bởi thiên nhiên xanh mát.</li>
+					<li className="list-none">she là chủ thể. Sau động từ iMAGine, hành động tiếp theo bắt buộc phải ở dạng -ing (LIVing), dùng để diễn tả sự hình dung hoặc tưởng tượng trong tâm trí về một cảnh tượng hoặc sự việc.</li>
+			
+				</ul>
+
+			
+			<h4 className="margin-y-40">5. conSIDered CHANGing</h4>
+			
+				<ul className="list-square">
+			
+					<li>she <strong>conSIDered CHANGing</strong> her caREER PATH to FOcus enTIREly on NEW WEB deVELopment.</li>
+					<li className="list-none">Cô ấy đã cân nhắc việc thay đổi con đường sự nghiệp của mình để tập trung hoàn toàn vào việc phát triển web.</li>
+					<li className="list-none">she là chủ thể. Sau động từ conSIDer, hành động tiếp theo bắt buộc phải ở dạng -ing (CHANGing), dùng để chỉ việc suy nghĩ, cân nhắc kỹ lưỡng về một khả năng hoặc hành động nào đó.</li>
+			
+				</ul>
+			
+			
+			<h4 className="margin-y-40"></h4>
+			
+				<ul className="list-square">
+			
+					<li></li>
+					<li className="list-none"></li>
+					<li className="list-none"></li>
+			
+				</ul>
+
+			
+			<h4 className="margin-y-40"></h4>
+			
+				<ul className="list-square">
+			
+					<li></li>
+					<li className="list-none"></li>
+					<li className="list-none"></li>
+			
+				</ul>
+
 			
 			
 			{/* IV. Chỉ dùng Infinitive (to V) */}
@@ -409,7 +465,7 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 			<h3 className="margin-y-50 text-center">IV. Chỉ dùng Infinitive (to V)</h3>
 
 
-			<h4 className="margin-y-40">would HATE to MISS</h4>
+			<h4 className="margin-y-40">1. would HATE to MISS</h4>
 			
 				<ul className="list-square">
 			
@@ -420,7 +476,7 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 				</ul>
 			
 			
-			<h4 className="margin-y-40">would LOVE to disCUSS</h4>
+			<h4 className="margin-y-40">2. would LOVE to disCUSS</h4>
 			
 				<ul className="list-square">
 			
@@ -431,13 +487,57 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 				</ul>
 			
 			
-			<h4 className="margin-y-40">would LIKE to CHECK</h4>
+			<h4 className="margin-y-40">3. would LIKE to CHECK</h4>
 			
 				<ul className="list-square">
 			
 					<li>i <strong>would LIKE to CHECK</strong> the BANK STATEments and INvoices before LEAVing the OFfice.</li>
 					<li className="list-none">Tôi muốn kiểm tra các bản sao kê ngân hàng và hóa đơn trước khi rời khỏi văn phòng.</li>
 					<li className="list-none">i là chủ thể. Cấu trúc would LIKE + to V (thường được viết tắt là 'd LIKE to) là cách nói trang trọng và lịch sự hơn của từ WANT, dùng để diễn tả mong muốn hoặc yêu cầu thực hiện một hành động cụ thể ở hiện tại hoặc tương lai.</li>
+			
+				</ul>
+
+			
+			<h4 className="margin-y-40">4. aGREED to HELP</h4>
+			
+				<ul className="list-square">
+			
+					<li>he <strong>aGREED to HELP</strong> reVIEW the MONthly fiNANcial rePORTs before the DEADline.</li>
+					<li className="list-none">Anh ấy đã đồng ý giúp kiểm tra lại các báo cáo tài chính hàng tháng trước hạn chót.</li>
+					<li className="list-none">He là chủ thể. Sau động từ aGREE, hành động tiếp theo bắt buộc phải ở dạng to V (to HELP), thể hiện sự chấp thuận hoặc cam kết thực hiện một hành động cụ thể.</li>
+			
+				</ul>
+
+			
+			<h4 className="margin-y-40">5. LEARNED to COOK</h4>
+			
+				<ul className="list-square">
+			
+					<li>he <strong>LEARNED to COOK</strong> traDITional vietnaMESE DISHes USing a CAST Iron DUTCH OVen.</li>
+					<li className="list-none">Anh ấy đã học cách nấu các món ăn truyền thống của Việt Nam bằng một chiếc nồi gang Hà Lan.</li>
+					<li className="list-none">he là chủ thể. Sau động từ LEARN, hành động tiếp theo bắt buộc phải ở dạng to V (to COOK), thể hiện quá trình tiếp thu kỹ năng hoặc kiến thức mới để làm một việc cụ thể.</li>
+			
+				</ul>
+
+			
+			<h4 className="margin-y-40">6. reFUSED to SIGN</h4>
+			
+				<ul className="list-square">
+			
+					<li>he <strong>reFUSED to SIGN</strong> the fiNANcial AUdit rePORT until all ERrors were corRECTed.</li>
+					<li className="list-none">Anh ấy đã từ chối ký báo cáo kiểm toán tài chính cho đến khi tất cả các lỗi được sửa chữa.</li>
+					<li className="list-none">he là chủ thể. Sau động từ reFUSE, hành động tiếp theo bắt buộc phải ở dạng to V (to SIGN), thể hiện thái độ không đồng ý hoặc kiên quyết không thực hiện một hành động cụ thể.</li>
+			
+				</ul>
+			
+			
+			<h4 className="margin-y-40"></h4>
+			
+				<ul className="list-square">
+			
+					<li></li>
+					<li className="list-none"></li>
+					<li className="list-none"></li>
 			
 				</ul>
 
