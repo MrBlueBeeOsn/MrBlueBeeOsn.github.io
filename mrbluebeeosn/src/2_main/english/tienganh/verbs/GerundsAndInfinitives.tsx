@@ -117,7 +117,7 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 						
 						<tr>
 								<td>Sau giới cơ</td>
-								<td>interested in, tired of, look forward to, be used to, give up</td>
+								<td>interested in, tired of</td>
 								<td>(không có)</td>
 								<td>-</td>
 						</tr>
@@ -125,7 +125,7 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 						<tr>
 								<td>Động cơ + danh nhận + to V</td>
 								<td>(không có)</td>
-								<td>ask, allow, tell, force, expect, need</td>
+								<td>ask, allow, tell</td>
 								<td>-</td>
 						</tr>
 
@@ -464,6 +464,39 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 				</ul>
 			
 			
+			<h4 className="margin-y-40">9. GIVE UP DRINKing</h4>
+			
+				<ul className="list-square">
+			
+					<li>he <strong>GAVE UP DRINKing</strong> INstant COFfee and SWITCHED enTIREly to traDITional PHIN BREWS.</li>
+					<li className="list-none">Anh ấy đã từ bỏ việc uống cà phê hòa tan và chuyển hoàn toàn sang cà phê phin truyền thống.</li>
+					<li className="list-none">he là chủ thể. Sau cụm động từ GIVE UP, hành động tiếp theo bắt buộc phải ở dạng -ing (DRINKing), dùng để chỉ việc từ bỏ hoặc chấm dứt một thói quen, hành động nào đó.</li>
+			
+				</ul>
+
+			
+			<h4 className="margin-y-40">10. is USED to WORKing</h4>
+			
+				<ul className="list-square">
+			
+					<li>he <strong>is USED to WORKing</strong> LONG HOURS under HIGH PRESsure in the acCOUNting dePARTment.</li>
+					<li className="list-none">Anh ấy đã quen với việc làm việc nhiều giờ liền dưới áp lực cao trong phòng kế toán.</li>
+					<li className="list-none">he là chủ thể. Sau cụm từ be USED to (quen với), hành động tiếp theo bắt buộc phải ở dạng -ing (WORKing). (Lưu ý phân biệt với cấu trúc USED to + V nguyên mẫu dùng để chỉ thói quen trong quá khứ).</li>
+			
+				</ul>
+
+			
+			<h4 className="margin-y-40">11. LOOK FORward to VISiting</h4>
+			
+				<ul className="list-square">
+			
+					<li>she <strong>LOOKS FORward to VISiting</strong> the NEW COFfee ROASTing WORKshop NEXT WEEKend.</li>
+					<li className="list-none">Cô ấy rất mong chờ được đến thăm xưởng rang cà phê mới vào cuối tuần tới.</li>
+					<li className="list-none">she là chủ thể. Sau cụm từ LOOK FORward to, từ to ở đây là một giới nên hành động tiếp theo bắt buộc phải ở dạng -ing (VISiting), thể hiện cảm giác hào hứng, mong mỏi.</li>
+			
+				</ul>
+
+			
 			<h4 className="margin-y-40"></h4>
 			
 				<ul className="list-square">
@@ -579,6 +612,38 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 			
 				</ul>
 			
+			
+			<h4 className="margin-y-40">10. NEED to reVIEW</h4>
+			
+				<ul className="list-square">
+			
+					<li>she <strong>NEEDS to reVIEW</strong> the fiNANcial STATEments before subMITting them to the MANager.</li>
+					<li className="list-none">Cô ấy cần phải xem lại các báo cáo tài chính trước khi nộp chúng cho người quản lý.</li>
+					<li className="list-none">she là chủ thể. Sau động từ NEED (khi chỉ nhu cầu của chủ thể), hành động tiếp theo bắt buộc phải ở dạng to V (to reVIEW), thể hiện một việc cần thiết phải thực hiện.</li>
+			
+				</ul>
+
+			
+			<h4 className="margin-y-40">11. exPECT to reCEIVE</h4>
+			
+				<ul className="list-square">
+			
+					<li>she <strong>exPECTS to reCEIVE</strong> a POSitive reSPONSE from the CLIent regarding the NEW acCOUNting SOFTware.</li>
+					<li className="list-none">Cô ấy mong đợi sẽ nhận được phản hồi tích cực từ khách hàng về phần mềm kế toán mới.</li>
+					<li className="list-none">she là chủ thể. Sau động từ exPECT, hành động tiếp theo ở dạng to V (to reCEIVE), diễn tả sự trông đợi hoặc dự đoán một sự việc sẽ diễn ra trong tương lai.</li>
+			
+				</ul>
+
+			
+			<h4 className="margin-y-40">12. FORCE her to reWRITE</h4>
+			
+				<ul className="list-square">
+			
+					<li>the SUDden SYStem ERror <strong>FORCED her to reWRITE</strong> the enTIRE acCOUNting rePORT from SCRATCH.</li>
+					<li className="list-none">Lỗi hệ thống bất ngờ đã buộc cô ấy phải viết lại toàn bộ báo cáo kế toán từ đầu.</li>
+					<li className="list-none">the SUDden SYStem ERror là chủ thể gây ra hành động, và her là chủ thể nhận sự tác động bị bắt buộc. Sau FORCE + sb, hành động tiếp theo bắt buộc phải ở dạng to V (to reWRITE).</li>
+			
+				</ul>
 
 			
 			<h4 className="margin-y-40"></h4>
