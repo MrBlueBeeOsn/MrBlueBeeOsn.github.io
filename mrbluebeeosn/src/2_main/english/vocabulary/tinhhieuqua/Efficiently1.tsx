@@ -109,7 +109,7 @@ export default function Efficiently1(): React.JSX.Element {
           <li className="list-none">The medicine worked ______.</li>
           <li className="margin-bottom-20 list-none">Thuốc có tác dụng hiệu quả.</li>
 
-          <li><Link to="/vocabulary/productively-1">Productively</Link> /prəˈdʌktɪvli/</li>
+          <li><Link to="/vocabulary/proDUCtively-1">Productively</Link> /prəˈdʌktɪvli/</li>
           <li className="list-none">We need to work more ______ to meet the deadline.</li>
           <li className="list-none">Chúng ta cần làm việc năng suất hơn để kịp tiến độ.</li>
 

@@ -5,9 +5,9 @@ import EyeIcon from '@/components/view/EyeIcon';
 import ViewCounter from '@/components/view/ViewCounter';
 import LikeButton from '@/components/like/LikeButton';
 
-export default function Productively1(): React.JSX.Element {
+export default function proDUCtively1(): React.JSX.Element {
 
-  const postId = "Productively1";
+  const postId = "proDUCtively1";
 
   return (<>
 
@@ -17,29 +17,26 @@ export default function Productively1(): React.JSX.Element {
     
       <h4><HashLink smooth to="/vocabulary#tinh-hieu-qua-terms"><mark className="highlight-tertiary-padding-4-8">ADverbs: hiệu quả</mark></HashLink></h4>
       
-      <h1 className="margin-y-50 text-center">productively
-        <sup><Link to="/vocabulary/productively-1">&nbsp;1&nbsp;</Link>
+      <h1 className="margin-y-50 text-center">proDUCtively
+        <sup><Link to="/vocabulary/proDUCtively-1">&nbsp;1&nbsp;</Link>
         </sup>
-        <sup><Link to="/vocabulary/productively-2">&nbsp;2&nbsp;</Link>
+        <sup><Link to="/vocabulary/proDUCtively-2">&nbsp;2&nbsp;</Link>
         </sup>
       </h1>
 
       {/* This is the content of Vocabulary Term. */}
       
-      <p>Tuyệt vời! Chúng ta cùng khám phá từ "<strong>productively</strong>" nhé.</p>
+      <p>Tuyệt vời! Chúng ta cùng khám phá từ "<strong>proDUCtively</strong>" nhé.</p>
 
       <div className="text-border1 padding-top-20 padding-bottom-10 highlight-238-padding-4-8 bee-container">
 
         <div>
 
-          <p className="margin-bottom-20"><strong>Productively</strong></p>
-
           <ul className="list-square padding-left-40">
 
             <li>
               <span className="highlight-255-padding-3-6">
-                [proDUCtively][pro DUC tive ly] /prəˈdʌk.tɪv.li/ + /<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">prơdûctively</Link>/
-                &nbsp;•⬤•• (4x)
+                [proDUCtively][<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">prơ DÛC tive ly</Link>] /prəˈdʌk.tɪv.li/ •⬤•• (4x)
               </span>
             </li>
 
@@ -57,19 +54,19 @@ export default function Productively1(): React.JSX.Element {
 
       </div>
 
-      <p className="margin-top-30 text-indent-whole">Từ "<strong>productively</strong>" miêu tả cách một người làm việc, sử dụng thời gian hoặc tài nguyên để tạo ra kết quả tốt, có giá trị hoặc đạt được mục tiêu một cách hiệu quả.</p>
+      <p className="margin-top-30 text-indent-whole">Từ "<strong>proDUCtively</strong>" miêu tả cách một người làm việc, sử dụng thời gian hoặc tài nguyên để tạo ra kết quả tốt, có giá trị hoặc đạt được mục tiêu một cách hiệu quả.</p>
 
       <p className="margin-top-20 text-indent-whole">Ví dụ:</p>
 
         <ul className="list-square">
 
-          <li>She spent her morning ______, finishing several important tasks.</li>
+          <li>she SPENT her MORning proDUCtively, FINishING SEVERal imPORtant TASKS.</li>
           <li className="margin-bottom-20 list-none">Cô ấy đã dành buổi sáng của mình một cách hiệu quả, hoàn thành nhiều nhiệm vụ quan trọng.</li>
 
-          <li>The team worked ______ together to meet the deadline.</li>
+          <li>the TEAM WORKED proDUCtively toGETHer to MEET the DEADline.</li>
           <li className="margin-bottom-20 list-none">Cả đội đã làm việc hiệu quả cùng nhau để kịp thời hạn.</li>
 
-          <li>He used his free time ______ by learning a new skill.</li>
+          <li>he USED his FREE TIME proDUCtively by LEARNing a NEW SKILL.</li>
           <li className="list-none">Anh ấy đã sử dụng thời gian rảnh rỗi của mình một cách có ích bằng cách học một kỹ năng mới.</li>
 
         </ul>
@@ -86,23 +83,19 @@ export default function Productively1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Productive (adj) /prəˈdʌk.tɪv/</li>
-          <li className="list-none">It was a very ______ meeting.</li>
+          <li>it was a VERy proDUCtive MEEting.</li>
           <li className="margin-bottom-20 list-none">Đó là một cuộc họp rất hiệu quả.</li>
 
-          <li className="list-none">He is a ______ member of the team.</li>
+          <li className="list-none">he is a proDUCtive MEMber of the TEAM.</li>
           <li className="margin-bottom-20 list-none">Anh ấy là một thành viên năng suất của đội.</li>
 
-          <li>Produces (v) /prəˈdjuːs/</li>
-          <li className="list-none">The factory ______ cars.</li>
+          <li>the FACtory proDUces CARS.</li>
           <li className="margin-bottom-20 list-none">Nhà máy sản xuất ô tô.</li>
 
-          <li>Produce (n) /ˈprɒd.juːs/</li>
-          <li className="list-none">They sell fresh ______ at the market.</li>
+          <li>they SELL FRESH PROduce at the MARket.</li>
           <li className="margin-bottom-20 list-none">Họ bán nông sản tươi tại chợ.</li>
 
-          <li>Productivity (n) /ˌprɒd.ʌkˈtɪv.ə.ti/</li>
-          <li className="list-none">The company is focused on improving ______.</li>
+          <li>the COMpany is FOcused on imPROVing producTIVity.</li>
           <li className="list-none">Công ty đang tập trung vào việc cải thiện năng suất.</li>
 
         </ul>
@@ -119,20 +112,16 @@ export default function Productively1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li><Link to="/vocabulary/efficiently-1">Efficiently</Link> /ɪˈfɪʃ.ənt.li/</li>
-          <li className="list-none">The work was done ______.</li>
+          <li>the WORK was DONE <Link to="/vocabulary/efficiently-1">efFICiently</Link>.</li>
           <li className="margin-bottom-20 list-none">Công việc đã được hoàn thành một cách hiệu quả.</li>
 
-          <li><Link to="/vocabulary/effectively-1">Effectively</Link> /ɪˈfek.tɪv.li/</li>
-          <li className="list-none">The new strategy was implemented ______.</li>
+          <li>the NEW STRATegy was IMplemented <Link to="/vocabulary/effectively-1">efFECtively</Link>.</li>
           <li className="margin-bottom-20 list-none">Chiến lược mới đã được triển khai một cách hiệu quả.</li>
 
-          <li>Fruitfully /ˈfruːt.fəl.i/</li>
-          <li className="list-none">They collaborated ______ on the project.</li>
+          <li>they colLABorated FRUITfully on the PROJect.</li>
           <li className="margin-bottom-20 list-none">Họ đã hợp tác hiệu quả trong dự án.</li>
 
-          <li>Usefully /ˈjuːs.fəl.i/</li>
-          <li className="list-none">He spent his time ______ volunteering.</li>
+          <li>he SPENT his TIME USEfully volunTEERing.</li>
           <li className="list-none">Anh ấy đã dành thời gian của mình một cách hữu ích để tình nguyện.</li>
 
         </ul>
@@ -151,20 +140,17 @@ export default function Productively1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Inefficiently /ˌɪn.ɪˈfɪʃ.ənt.li/</li>
-          <li className="list-none">The process was managed ______.</li>
+          <li>the PROJect was MANaged inefFICiently.</li>
           <li className="margin-bottom-20 list-none">Quy trình đã được quản lý một cách không hiệu quả.</li>
 
-          <li>Unproductively /ˌʌn.prəˈdʌk.tɪv.li/</li>
-          <li className="list-none">He spent the whole day ______.</li>
+          <li>he SPENT the WHOLE DAY unproDUCtively.</li>
+          <li className="list-none">He spent the whole day unproductively.</li>
           <li className="margin-bottom-20 list-none">Anh ấy đã dành cả ngày một cách không hiệu quả.</li>
 
-          <li>Wastefully /ˈweɪst.fəl.i/</li>
-          <li className="list-none">They used resources ______.</li>
+          <li>they USED REsources WASTEfully.</li>
           <li className="margin-bottom-20 list-none">Họ đã sử dụng tài nguyên một cách lãng phí.</li>
 
-          <li>Idly /ˈaɪd.li/</li>
-          <li className="list-none">He sat ______ by while others worked.</li>
+          <li>he SAT Idly by while OTHers WORKED.</li>
           <li className="list-none">Anh ấy ngồi nhàn rỗi trong khi những người khác làm việc.</li>
 
         </ul>
@@ -190,13 +176,13 @@ export default function Productively1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>He worked ______ and accomplished a lot.</li>
+          <li>he WORKED proDUCtively and acCOMplished a LOT.</li>
           <li className="margin-bottom-20 list-none">Anh ấy làm việc hiệu quả và hoàn thành nhiều việc.</li>
 
-          <li>The garden grew ______, yielding abundant fruits and flowers.</li>
+          <li>the GARden GREW proDUCtively, YIELding aBUNdant FRUITS and FLOWers.</li>
           <li className="margin-bottom-20 list-none">Khu vườn phát triển tươi tốt, cho nhiều hoa trái.</li>
 
-          <li>The team met ______, generating numerous ideas.</li>
+          <li>the TEAM MET proDUCtively, GENerating NUmerous iDEAS.</li>
           <li className="list-none">Nhóm đã họp hiệu quả, đưa ra nhiều ý tưởng.</li>
 
         </ul>
@@ -216,7 +202,7 @@ export default function Productively1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>I plan to use my commute time ______ by listening to podcasts.</li>
+          <li>i PLAN to USE my comMUTE TIME proDUCtively by LIStening to PODcasts.</li>
           <li className="list-none">Tôi dự định sử dụng thời gian đi làm một cách hiệu quả bằng cách nghe podcast.</li>
 
         </ul>
@@ -238,10 +224,10 @@ export default function Productively1(): React.JSX.Element {
 
           <ol>
 
-            <li>She spent her morning working.</li>
+            <li>she SPENT her MORning WORKing.</li>
             <li className="list-none margin-bottom-20">Cô ấy đã dành buổi sáng của mình để làm việc.</li>
 
-            <li value="2">She spent her morning ______, finishing several important tasks.</li>
+            <li value="2">she SPENT her MORning proDUCtively, FINishING SEVERal imPORtant TASKS.</li>
             <li className="list-none margin-bottom-20">Cô ấy đã dành buổi sáng của mình một cách hiệu quả, hoàn thành nhiều nhiệm vụ quan trọng.</li>
 
           </ol>
@@ -254,10 +240,10 @@ export default function Productively1(): React.JSX.Element {
 
       <ol>
 
-            <li>The team worked together to meet the deadline.</li>
+            <li>the TEAM WORKED toGETHer to MEET the DEADline.</li>
             <li className="list-none margin-bottom-20">Cả đội đã làm việc cùng nhau để kịp thời hạn.</li>
 
-            <li value="2">The team worked ______ together to meet the deadline.</li>
+            <li value="2">the TEAM WORKED proDUCtively toGETHer to MEET the DEADline.</li>
             <li className="list-none margin-bottom-20">Cả đội đã làm việc hiệu quả cùng nhau để kịp thời hạn.</li>
 
           </ol>
@@ -270,10 +256,10 @@ export default function Productively1(): React.JSX.Element {
 
           <ol>
 
-            <li>He used his free time by learning a new skill.</li>
+            <li>he USED his FREE TIME by LEARNing a NEW SKILL.</li>
             <li className="list-none margin-bottom-20">Anh ấy đã sử dụng thời gian rảnh rỗi của mình bằng cách học một kỹ năng mới.</li>
 
-            <li value="2">He used his free time ______ by learning a new skill.</li>
+            <li value="2">he USED his FREE TIME proDUCtively by LEARNing a NEW SKILL.</li>
             <li className="list-none margin-bottom-20">Anh ấy đã sử dụng thời gian rảnh rỗi của mình một cách có ích bằng cách học một kỹ năng mới.</li>
 
           </ol>
