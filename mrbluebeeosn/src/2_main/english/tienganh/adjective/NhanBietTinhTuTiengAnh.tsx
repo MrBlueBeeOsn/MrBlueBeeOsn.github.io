@@ -146,7 +146,7 @@ export default function NhanBietTinhTuTiengAnh(): React.JSX.Element {
 					<li>volunTEERing at the LOcal FOOD BANK is a GREAT WAY to BUILD STRONG <strong>SOcial</strong> conNECtions.</li>
 					<li className="margin-bottom-20 list-none">Làm tình nguyện tại ngân hàng thực phẩm địa phương là một cách tuyệt vời để xây dựng các mối quan hệ <strong>xã hội</strong> khăng khít.</li>
 			
-					<li>my FAMIly ALways GATHers to COOK <strong>traDITional</strong> DISHes DURing the LUnar NEW YEAR.</li>
+					<li>my FAMILy ALways GATHers to COOK <strong>traDITional</strong> DISHes DURing the LUnar NEW YEAR.</li>
 					<li className="list-none">Gia đình tôi luôn quây quần nấu các món ăn <strong>truyền thống</strong> trong dịp Tết Nguyên Đán.</li>
 			
 				</ul>
