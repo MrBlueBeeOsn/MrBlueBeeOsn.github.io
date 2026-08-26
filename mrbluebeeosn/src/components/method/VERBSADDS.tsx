@@ -23,7 +23,7 @@ export default function VERBSADDS(): React.JSX.Element {
         <div className="example">
 
           <p className="example-sentence">
-            🟦 <span className="s">1st Person (Ngôi thứ nhất): The Speaker. This is you. You use I (singular) or We (plural).</span>
+            🟦 <span className="s">1st Person (Ngôi thứ nhất): <strong>The Speaker</strong>. This is you. You use I (singular) or We (plural).</span>
           </p>
 
         </div>
@@ -31,7 +31,7 @@ export default function VERBSADDS(): React.JSX.Element {
         <div className="example">
 
           <p className="example-sentence">
-            🟦 <span className="v">2nd Person (Ngôi thứ hai): The Listener. This is the person right in front of you. You use You (both singular and plural).</span>
+            🟦 <span className="v">2nd Person (Ngôi thứ hai): <strong>The Listener</strong>. This is the person right in front of you. You use You (both singular and plural).</span>
           </p>
 
         </div>
@@ -39,7 +39,7 @@ export default function VERBSADDS(): React.JSX.Element {
         <div className="example">
 
           <p className="example-sentence">
-            🟦 <span className="o">3rd Person (Ngôi thứ ba): The Outsider. This is anyone or anything outside of the direct conversation. You are talking about them, not to them.</span>
+            🟦 <span className="o">3rd Person (Ngôi thứ ba): <strong>The Outsider</strong>. This is anyone or anything outside of the direct conversation. You are talking about them, not to them.</span>
           </p>
 
           <p className="example-sentence">
