@@ -56,7 +56,7 @@ export default function GRADually2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1">the TEMperature GRADually inCREASED throughout the DAY.</li>
+        <li value="1">the TEMPERature GRADually inCREASED throughout the DAY.</li>
         <li className="list-none margin-bottom-20">Nhiệt độ tăng dần suốt cả ngày.</li>
 
         <li value="2">the NOISE GRADually deCREASED as we MOVED FARther aWAY.</li>

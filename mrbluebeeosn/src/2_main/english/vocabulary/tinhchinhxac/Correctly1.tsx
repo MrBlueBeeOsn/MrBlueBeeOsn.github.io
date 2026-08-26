@@ -109,7 +109,7 @@ export default function Correctly1(): React.JSX.Element {
           <li className="list-none">The data was recorded ______.</li>
           <li className="margin-bottom-20 list-none">Dữ liệu đã được ghi lại một cách chính xác.</li>
 
-          <li><Link to="/vocabulary/precisely-1">Precisely</Link> /prɪˈsaɪsli/</li>
+          <li><Link to="/vocabulary/preCISEly-1">Precisely</Link> /prɪˈsaɪsli/</li>
           <li className="list-none">He explained the situation ______.</li>
           <li className="list-none">Anh ấy đã giải thích tình hình một cách chính xác.</li>
 

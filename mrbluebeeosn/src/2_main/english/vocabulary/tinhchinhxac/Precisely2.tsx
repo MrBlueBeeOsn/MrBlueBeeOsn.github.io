@@ -5,9 +5,9 @@ import EyeIcon from '@/components/view/EyeIcon';
 import ViewCounter from '@/components/view/ViewCounter';
 import LikeButton from '@/components/like/LikeButton';
 
-export default function Precisely2(): React.JSX.Element {
+export default function preCISEly2(): React.JSX.Element {
 
-  const postId = "Precisely2";
+  const postId = "preCISEly2";
 
   return (<>
 
@@ -17,18 +17,18 @@ export default function Precisely2(): React.JSX.Element {
     
       <h4><HashLink smooth to="/vocabulary#tinh-chinh-xac-terms"><mark className="highlight-tertiary-padding-4-8">ADverbs: chính xác</mark></HashLink></h4>
       
-      <h1 className="margin-y-50 text-center">precisely
+      <h1 className="margin-y-50 text-center">preCISEly
         <sup>
-          <Link to="/vocabulary/precisely-1">&nbsp;1&nbsp;</Link>
+          <Link to="/vocabulary/preCISEly-1">&nbsp;1&nbsp;</Link>
         </sup>
         <sup>
-          <Link to="/vocabulary/precisely-2">&nbsp;2&nbsp;</Link>
+          <Link to="/vocabulary/preCISEly-2">&nbsp;2&nbsp;</Link>
         </sup>
       </h1>
 
       {/* This is the content of Vocabulary Term. */}
 
-      <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>precisely</strong>" (một cách chính xác) và các cụm từ hay đi kèm nhé.</p>
+      <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>preCISEly</strong>" (một cách chính xác) và các cụm từ hay đi kèm nhé.</p>
 
       <div className="text-border1 padding-10 highlight-238-padding-4-8 bee-container">
 
@@ -36,15 +36,9 @@ export default function Precisely2(): React.JSX.Element {
       
           <p className="margin-y-10">
 
-            <strong>Precisely&nbsp;</strong>
-
             <span className="highlight-255-padding-3-6">
 
-              [preCISEly][pre CISE ly] /prɪˈsaɪs.li/ + /
-
-              <Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">prėcīsely</Link>/
-
-              &nbsp;•⬤• (3x)
+              [preCISEly][<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">prė CĪSE ly</Link>] /prɪˈsaɪs.li/ •⬤• (3x)
 
             </span>
               
@@ -62,44 +56,34 @@ export default function Precisely2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1">Precisely <strong>measureed</strong> /ˈmɛʒərd/</li>
-        <li className="list-none">The scientist ______ the chemicals.</li>
+        <li value="1">the SCIentist preCISEly MEASured the CHEMicals.</li>
         <li className="list-none margin-bottom-20">Nhà khoa học đo lường các hóa chất một cách chính xác.</li>
 
-        <li value="2">Precisely <strong>calculated</strong> /ˈkælkjʊleɪtɪd/</li>
-        <li className="list-none">The engineer ______ the dimensions.</li>
+        <li value="2">the engiNEER preCISEly CALculated the diMENsions.</li>
         <li className="list-none margin-bottom-20">Kỹ sư tính toán các kích thước một cách chính xác.</li>
 
-        <li value="3">Precisely <strong>defines</strong> /dɪˈfaɪnz/</li>
-        <li className="list-none">The law ______ the terms.</li>
+        <li value="3">the LAW preCISEly deFINES the TERMS.</li>
         <li className="list-none margin-bottom-20">Luật định nghĩa các điều khoản một cách chính xác.</li>
 
-        <li value="4">Precisely <strong>located</strong> /loʊˈkeɪtɪd/</li>
-        <li className="list-none">The map ______ the treasure.</li>
+        <li value="4">the MAP preCISEly loCAted the TREAsure.</li>
         <li className="list-none margin-bottom-20">Bản đồ xác định vị trí kho báu một cách chính xác.</li>
 
-        <li value="5">Precisely <strong>followed</strong> /ˈfɒloʊd/</li>
-        <li className="list-none">The chef ______ the recipe.</li>
+        <li value="5">the CHEF preCISEly FOLlowed the RECipe.</li>
         <li className="list-none margin-bottom-20">Đầu bếp tuân theo công thức một cách chính xác.</li>
 
-        <li value="6">Precisely <strong>described</strong> /dɪˈskraɪbd/</li>
-        <li className="list-none">The witness ______ the suspect.</li>
+        <li value="6">the WITness preCISEly deSCRIBED the SUSpect.</li>
         <li className="list-none margin-bottom-20">Nhân chứng miêu tả nghi phạm một cách chính xác.</li>
 
-        <li value="7">Precisely <strong>explained</strong> /ɪkˈspleɪnd/</li>
-        <li className="list-none">The teacher ______ the concept.</li>
+        <li value="7">the TEACHer preCISEly exPLAINED the CONcept.</li>
         <li className="list-none margin-bottom-20">Giáo viên giải thích khái niệm một cách chính xác.</li>
 
-        <li value="8">Precisely <strong>controlled</strong> /kənˈtroʊld/</li>
-        <li className="list-none">The machine ______ the temperature.</li>
+        <li value="8">the maCHINE preCISEly conTROLLED the TEMPERature.</li>
         <li className="list-none margin-bottom-20">Máy móc kiểm soát nhiệt độ một cách chính xác.</li>
 
-        <li value="9">Precisely <strong>aligned</strong> /əˈlaɪnd/</li>
-        <li className="list-none">The parts were ______.</li>
+        <li value="9">the PARTS were preCISEly aLIGNED.</li>
         <li className="list-none margin-bottom-20">Các bộ phận được căn chỉnh một cách chính xác.</li>
 
-        <li value="10">Precisely <strong>timed</strong> /taɪmd/</li>
-        <li className="list-none">The event was ______.</li>
+        <li value="10">the eVENT was preCISEly TIMED.</li>
         <li className="list-none margin-bottom-20">Sự kiện được định thời gian một cách chính xác.</li>
 
       </ol>
@@ -116,7 +100,7 @@ export default function Precisely2(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>"<strong>Precisely</strong>" thường đứng trước hành động để bổ nghĩa.</li>
+          <li>"<strong>preCISEly</strong>" thường đứng trước hành động để bổ nghĩa.</li>
 
           <li className="margin-bottom-20">Từ này mang nghĩa tích cực, thể hiện sự cẩn thận và độ chính xác cao.</li>
 
