@@ -447,35 +447,1020 @@ export default function IrregularVerbs(): React.JSX.Element {
 								<td>worn</td>
 								<td>mặc, đeo</td>
 						</tr>
-						
-						<tr>
-								<td>52</td>
-								<td>flies</td>
-								<td>flew</td>
-								<td>flown</td>
-								<td>bay</td>
-						</tr>
-						
+				
 
 						
 					</tbody>
 				</table>
 
 			
+			
+			<h4 className="margin-y-40">1. </h4>
+			
+				<ul className="list-square">
+			
+					<li></li>
+					<li className="list-none"></li>
+					<li className="margin-bottom-20 list-none"></li>
+			
+					<li></li>
+					<li className="list-none"></li>
+					<li className="margin-bottom-20 list-none"></li>
+			
+					<li></li>
+					<li className="list-none"></li>
+					<li className="list-none"></li>
+			
+				</ul>
+			
+			
+			<h4 className="margin-y-40">2. </h4>
+			
+				<ul className="list-square">
+			
+					<li></li>
+					<li className="list-none"></li>
+					<li className="margin-bottom-20 list-none"></li>
+			
+					<li></li>
+					<li className="list-none"></li>
+					<li className="margin-bottom-20 list-none"></li>
+			
+					<li></li>
+					<li className="list-none"></li>
+					<li className="list-none"></li>
+			
+				</ul>
+
+			
+			<h4 className="margin-y-40">3. </h4>
+			
+				<ul className="list-square">
+			
+					<li></li>
+					<li className="list-none"></li>
+					<li className="margin-bottom-20 list-none"></li>
+			
+					<li></li>
+					<li className="list-none"></li>
+					<li className="margin-bottom-20 list-none"></li>
+			
+					<li></li>
+					<li className="list-none"></li>
+					<li className="list-none"></li>
+			
+				</ul>
+			
+			
+			<h4 className="margin-y-40">4. </h4>
+			
+				<ul className="list-square">
+			
+					<li></li>
+					<li className="list-none"></li>
+					<li className="margin-bottom-20 list-none"></li>
+			
+					<li></li>
+					<li className="list-none"></li>
+					<li className="margin-bottom-20 list-none"></li>
+			
+					<li></li>
+					<li className="list-none"></li>
+					<li className="list-none"></li>
+			
+				</ul>
+			
+
+			<h4 className="margin-y-40">5. </h4>
+			
+				<ul className="list-square">
+			
+					<li></li>
+					<li className="list-none"></li>
+					<li className="margin-bottom-20 list-none"></li>
+			
+					<li></li>
+					<li className="list-none"></li>
+					<li className="margin-bottom-20 list-none"></li>
+			
+					<li></li>
+					<li className="list-none"></li>
+					<li className="list-none"></li>
+			
+				</ul>
+			
+			
+			<h4 className="margin-y-40">6. </h4>
+			
+				<ul className="list-square">
+			
+					<li></li>
+					<li className="list-none"></li>
+					<li className="margin-bottom-20 list-none"></li>
+			
+					<li></li>
+					<li className="list-none"></li>
+					<li className="margin-bottom-20 list-none"></li>
+			
+					<li></li>
+					<li className="list-none"></li>
+					<li className="list-none"></li>
+			
+				</ul>
+
+			
+			<h4 className="margin-y-40">7. </h4>
+			
+				<ul className="list-square">
+			
+					<li></li>
+					<li className="list-none"></li>
+					<li className="margin-bottom-20 list-none"></li>
+			
+					<li></li>
+					<li className="list-none"></li>
+					<li className="margin-bottom-20 list-none"></li>
+			
+					<li></li>
+					<li className="list-none"></li>
+					<li className="list-none"></li>
+			
+				</ul>
+
+			
+			<h4 className="margin-y-40">8. </h4>
+			
+				<ul className="list-square">
+			
+					<li></li>
+					<li className="list-none"></li>
+					<li className="margin-bottom-20 list-none"></li>
+			
+					<li></li>
+					<li className="list-none"></li>
+					<li className="margin-bottom-20 list-none"></li>
+			
+					<li></li>
+					<li className="list-none"></li>
+					<li className="list-none"></li>
+			
+				</ul>
+
+
+			<h4 className="margin-y-40">9. </h4>
+			
+				<ul className="list-square">
+			
+					<li></li>
+					<li className="list-none"></li>
+					<li className="margin-bottom-20 list-none"></li>
+			
+					<li></li>
+					<li className="list-none"></li>
+					<li className="margin-bottom-20 list-none"></li>
+			
+					<li></li>
+					<li className="list-none"></li>
+					<li className="list-none"></li>
+			
+				</ul>
+
+			
+			<h4 className="margin-y-40">10. </h4>
+			
+				<ul className="list-square">
+			
+					<li></li>
+					<li className="list-none"></li>
+					<li className="margin-bottom-20 list-none"></li>
+			
+					<li></li>
+					<li className="list-none"></li>
+					<li className="margin-bottom-20 list-none"></li>
+			
+					<li></li>
+					<li className="list-none"></li>
+					<li className="list-none"></li>
+			
+				</ul>
+			
+			
+			
+			<h4 className="margin-y-40">11. </h4>
+			
+				<ul className="list-square">
+			
+					<li></li>
+					<li className="list-none"></li>
+					<li className="margin-bottom-20 list-none"></li>
+			
+					<li></li>
+					<li className="list-none"></li>
+					<li className="margin-bottom-20 list-none"></li>
+			
+					<li></li>
+					<li className="list-none"></li>
+					<li className="list-none"></li>
+			
+				</ul>
+			
+			
+			<h4 className="margin-y-40">12. </h4>
+			
+				<ul className="list-square">
+			
+					<li></li>
+					<li className="list-none"></li>
+					<li className="margin-bottom-20 list-none"></li>
+			
+					<li></li>
+					<li className="list-none"></li>
+					<li className="margin-bottom-20 list-none"></li>
+			
+					<li></li>
+					<li className="list-none"></li>
+					<li className="list-none"></li>
+			
+				</ul>
+
+			
+			<h4 className="margin-y-40">13. </h4>
+			
+				<ul className="list-square">
+			
+					<li></li>
+					<li className="list-none"></li>
+					<li className="margin-bottom-20 list-none"></li>
+			
+					<li></li>
+					<li className="list-none"></li>
+					<li className="margin-bottom-20 list-none"></li>
+			
+					<li></li>
+					<li className="list-none"></li>
+					<li className="list-none"></li>
+			
+				</ul>
+			
+			
+			<h4 className="margin-y-40">14. </h4>
+			
+				<ul className="list-square">
+			
+					<li></li>
+					<li className="list-none"></li>
+					<li className="margin-bottom-20 list-none"></li>
+			
+					<li></li>
+					<li className="list-none"></li>
+					<li className="margin-bottom-20 list-none"></li>
+			
+					<li></li>
+					<li className="list-none"></li>
+					<li className="list-none"></li>
+			
+				</ul>
+			
+
+			<h4 className="margin-y-40">15. </h4>
+			
+				<ul className="list-square">
+			
+					<li></li>
+					<li className="list-none"></li>
+					<li className="margin-bottom-20 list-none"></li>
+			
+					<li></li>
+					<li className="list-none"></li>
+					<li className="margin-bottom-20 list-none"></li>
+			
+					<li></li>
+					<li className="list-none"></li>
+					<li className="list-none"></li>
+			
+				</ul>
+			
+			
+			<h4 className="margin-y-40">16. </h4>
+			
+				<ul className="list-square">
+			
+					<li></li>
+					<li className="list-none"></li>
+					<li className="margin-bottom-20 list-none"></li>
+			
+					<li></li>
+					<li className="list-none"></li>
+					<li className="margin-bottom-20 list-none"></li>
+			
+					<li></li>
+					<li className="list-none"></li>
+					<li className="list-none"></li>
+			
+				</ul>
+
+			
+			<h4 className="margin-y-40">17. </h4>
+			
+				<ul className="list-square">
+			
+					<li></li>
+					<li className="list-none"></li>
+					<li className="margin-bottom-20 list-none"></li>
+			
+					<li></li>
+					<li className="list-none"></li>
+					<li className="margin-bottom-20 list-none"></li>
+			
+					<li></li>
+					<li className="list-none"></li>
+					<li className="list-none"></li>
+			
+				</ul>
+
+			
+			<h4 className="margin-y-40">18. </h4>
+			
+				<ul className="list-square">
+			
+					<li></li>
+					<li className="list-none"></li>
+					<li className="margin-bottom-20 list-none"></li>
+			
+					<li></li>
+					<li className="list-none"></li>
+					<li className="margin-bottom-20 list-none"></li>
+			
+					<li></li>
+					<li className="list-none"></li>
+					<li className="list-none"></li>
+			
+				</ul>
+
+
+			<h4 className="margin-y-40">19. </h4>
+			
+				<ul className="list-square">
+			
+					<li></li>
+					<li className="list-none"></li>
+					<li className="margin-bottom-20 list-none"></li>
+			
+					<li></li>
+					<li className="list-none"></li>
+					<li className="margin-bottom-20 list-none"></li>
+			
+					<li></li>
+					<li className="list-none"></li>
+					<li className="list-none"></li>
+			
+				</ul>
+
+
+			<h4 className="margin-y-40">20. </h4>
+			
+				<ul className="list-square">
+			
+					<li></li>
+					<li className="list-none"></li>
+					<li className="margin-bottom-20 list-none"></li>
+			
+					<li></li>
+					<li className="list-none"></li>
+					<li className="margin-bottom-20 list-none"></li>
+			
+					<li></li>
+					<li className="list-none"></li>
+					<li className="list-none"></li>
+			
+				</ul>
+			
+			
+			
+			<h4 className="margin-y-40">21. </h4>
+			
+				<ul className="list-square">
+			
+					<li></li>
+					<li className="list-none"></li>
+					<li className="margin-bottom-20 list-none"></li>
+			
+					<li></li>
+					<li className="list-none"></li>
+					<li className="margin-bottom-20 list-none"></li>
+			
+					<li></li>
+					<li className="list-none"></li>
+					<li className="list-none"></li>
+			
+				</ul>
+			
+			
+			<h4 className="margin-y-40">22. </h4>
+			
+				<ul className="list-square">
+			
+					<li></li>
+					<li className="list-none"></li>
+					<li className="margin-bottom-20 list-none"></li>
+			
+					<li></li>
+					<li className="list-none"></li>
+					<li className="margin-bottom-20 list-none"></li>
+			
+					<li></li>
+					<li className="list-none"></li>
+					<li className="list-none"></li>
+			
+				</ul>
+
+			
+			<h4 className="margin-y-40">23. </h4>
+			
+				<ul className="list-square">
+			
+					<li></li>
+					<li className="list-none"></li>
+					<li className="margin-bottom-20 list-none"></li>
+			
+					<li></li>
+					<li className="list-none"></li>
+					<li className="margin-bottom-20 list-none"></li>
+			
+					<li></li>
+					<li className="list-none"></li>
+					<li className="list-none"></li>
+			
+				</ul>
+			
+			
+			<h4 className="margin-y-40">24. </h4>
+			
+				<ul className="list-square">
+			
+					<li></li>
+					<li className="list-none"></li>
+					<li className="margin-bottom-20 list-none"></li>
+			
+					<li></li>
+					<li className="list-none"></li>
+					<li className="margin-bottom-20 list-none"></li>
+			
+					<li></li>
+					<li className="list-none"></li>
+					<li className="list-none"></li>
+			
+				</ul>
+			
+
+			<h4 className="margin-y-40">25. </h4>
+			
+				<ul className="list-square">
+			
+					<li></li>
+					<li className="list-none"></li>
+					<li className="margin-bottom-20 list-none"></li>
+			
+					<li></li>
+					<li className="list-none"></li>
+					<li className="margin-bottom-20 list-none"></li>
+			
+					<li></li>
+					<li className="list-none"></li>
+					<li className="list-none"></li>
+			
+				</ul>
+			
+			
+			<h4 className="margin-y-40">26. </h4>
+			
+				<ul className="list-square">
+			
+					<li></li>
+					<li className="list-none"></li>
+					<li className="margin-bottom-20 list-none"></li>
+			
+					<li></li>
+					<li className="list-none"></li>
+					<li className="margin-bottom-20 list-none"></li>
+			
+					<li></li>
+					<li className="list-none"></li>
+					<li className="list-none"></li>
+			
+				</ul>
+
+			
+			<h4 className="margin-y-40">27. </h4>
+			
+				<ul className="list-square">
+			
+					<li></li>
+					<li className="list-none"></li>
+					<li className="margin-bottom-20 list-none"></li>
+			
+					<li></li>
+					<li className="list-none"></li>
+					<li className="margin-bottom-20 list-none"></li>
+			
+					<li></li>
+					<li className="list-none"></li>
+					<li className="list-none"></li>
+			
+				</ul>
+
+			
+			<h4 className="margin-y-40">28. </h4>
+			
+				<ul className="list-square">
+			
+					<li></li>
+					<li className="list-none"></li>
+					<li className="margin-bottom-20 list-none"></li>
+			
+					<li></li>
+					<li className="list-none"></li>
+					<li className="margin-bottom-20 list-none"></li>
+			
+					<li></li>
+					<li className="list-none"></li>
+					<li className="list-none"></li>
+			
+				</ul>
+
+
+			<h4 className="margin-y-40">29. </h4>
+			
+				<ul className="list-square">
+			
+					<li></li>
+					<li className="list-none"></li>
+					<li className="margin-bottom-20 list-none"></li>
+			
+					<li></li>
+					<li className="list-none"></li>
+					<li className="margin-bottom-20 list-none"></li>
+			
+					<li></li>
+					<li className="list-none"></li>
+					<li className="list-none"></li>
+			
+				</ul>
+
+			
+			<h4 className="margin-y-40">30. </h4>
+			
+				<ul className="list-square">
+			
+					<li></li>
+					<li className="list-none"></li>
+					<li className="margin-bottom-20 list-none"></li>
+			
+					<li></li>
+					<li className="list-none"></li>
+					<li className="margin-bottom-20 list-none"></li>
+			
+					<li></li>
+					<li className="list-none"></li>
+					<li className="list-none"></li>
+			
+				</ul>
+			
+			
+			
+			<h4 className="margin-y-40">31. </h4>
+			
+				<ul className="list-square">
+			
+					<li></li>
+					<li className="list-none"></li>
+					<li className="margin-bottom-20 list-none"></li>
+			
+					<li></li>
+					<li className="list-none"></li>
+					<li className="margin-bottom-20 list-none"></li>
+			
+					<li></li>
+					<li className="list-none"></li>
+					<li className="list-none"></li>
+			
+				</ul>
+			
+			
+			<h4 className="margin-y-40">32. </h4>
+			
+				<ul className="list-square">
+			
+					<li></li>
+					<li className="list-none"></li>
+					<li className="margin-bottom-20 list-none"></li>
+			
+					<li></li>
+					<li className="list-none"></li>
+					<li className="margin-bottom-20 list-none"></li>
+			
+					<li></li>
+					<li className="list-none"></li>
+					<li className="list-none"></li>
+			
+				</ul>
+
+			
+			<h4 className="margin-y-40">33. </h4>
+			
+				<ul className="list-square">
+			
+					<li></li>
+					<li className="list-none"></li>
+					<li className="margin-bottom-20 list-none"></li>
+			
+					<li></li>
+					<li className="list-none"></li>
+					<li className="margin-bottom-20 list-none"></li>
+			
+					<li></li>
+					<li className="list-none"></li>
+					<li className="list-none"></li>
+			
+				</ul>
+			
+			
+			<h4 className="margin-y-40">34. </h4>
+			
+				<ul className="list-square">
+			
+					<li></li>
+					<li className="list-none"></li>
+					<li className="margin-bottom-20 list-none"></li>
+			
+					<li></li>
+					<li className="list-none"></li>
+					<li className="margin-bottom-20 list-none"></li>
+			
+					<li></li>
+					<li className="list-none"></li>
+					<li className="list-none"></li>
+			
+				</ul>
+			
+
+			<h4 className="margin-y-40">35. </h4>
+			
+				<ul className="list-square">
+			
+					<li></li>
+					<li className="list-none"></li>
+					<li className="margin-bottom-20 list-none"></li>
+			
+					<li></li>
+					<li className="list-none"></li>
+					<li className="margin-bottom-20 list-none"></li>
+			
+					<li></li>
+					<li className="list-none"></li>
+					<li className="list-none"></li>
+			
+				</ul>
+			
+			
+			<h4 className="margin-y-40">36. </h4>
+			
+				<ul className="list-square">
+			
+					<li></li>
+					<li className="list-none"></li>
+					<li className="margin-bottom-20 list-none"></li>
+			
+					<li></li>
+					<li className="list-none"></li>
+					<li className="margin-bottom-20 list-none"></li>
+			
+					<li></li>
+					<li className="list-none"></li>
+					<li className="list-none"></li>
+			
+				</ul>
+
+			
+			<h4 className="margin-y-40">37. </h4>
+			
+				<ul className="list-square">
+			
+					<li></li>
+					<li className="list-none"></li>
+					<li className="margin-bottom-20 list-none"></li>
+			
+					<li></li>
+					<li className="list-none"></li>
+					<li className="margin-bottom-20 list-none"></li>
+			
+					<li></li>
+					<li className="list-none"></li>
+					<li className="list-none"></li>
+			
+				</ul>
+
+			
+			<h4 className="margin-y-40">38. </h4>
+			
+				<ul className="list-square">
+			
+					<li></li>
+					<li className="list-none"></li>
+					<li className="margin-bottom-20 list-none"></li>
+			
+					<li></li>
+					<li className="list-none"></li>
+					<li className="margin-bottom-20 list-none"></li>
+			
+					<li></li>
+					<li className="list-none"></li>
+					<li className="list-none"></li>
+			
+				</ul>
+
+
+			<h4 className="margin-y-40">39. </h4>
+			
+				<ul className="list-square">
+			
+					<li></li>
+					<li className="list-none"></li>
+					<li className="margin-bottom-20 list-none"></li>
+			
+					<li></li>
+					<li className="list-none"></li>
+					<li className="margin-bottom-20 list-none"></li>
+			
+					<li></li>
+					<li className="list-none"></li>
+					<li className="list-none"></li>
+			
+				</ul>
+
+
+			<h4 className="margin-y-40">40. </h4>
+			
+				<ul className="list-square">
+			
+					<li></li>
+					<li className="list-none"></li>
+					<li className="margin-bottom-20 list-none"></li>
+			
+					<li></li>
+					<li className="list-none"></li>
+					<li className="margin-bottom-20 list-none"></li>
+			
+					<li></li>
+					<li className="list-none"></li>
+					<li className="list-none"></li>
+			
+				</ul>
+			
+			
+			
+			<h4 className="margin-y-40">41. </h4>
+			
+				<ul className="list-square">
+			
+					<li></li>
+					<li className="list-none"></li>
+					<li className="margin-bottom-20 list-none"></li>
+			
+					<li></li>
+					<li className="list-none"></li>
+					<li className="margin-bottom-20 list-none"></li>
+			
+					<li></li>
+					<li className="list-none"></li>
+					<li className="list-none"></li>
+			
+				</ul>
+			
+			
+			<h4 className="margin-y-40">42. </h4>
+			
+				<ul className="list-square">
+			
+					<li></li>
+					<li className="list-none"></li>
+					<li className="margin-bottom-20 list-none"></li>
+			
+					<li></li>
+					<li className="list-none"></li>
+					<li className="margin-bottom-20 list-none"></li>
+			
+					<li></li>
+					<li className="list-none"></li>
+					<li className="list-none"></li>
+			
+				</ul>
+
+			
+			<h4 className="margin-y-40">43. </h4>
+			
+				<ul className="list-square">
+			
+					<li></li>
+					<li className="list-none"></li>
+					<li className="margin-bottom-20 list-none"></li>
+			
+					<li></li>
+					<li className="list-none"></li>
+					<li className="margin-bottom-20 list-none"></li>
+			
+					<li></li>
+					<li className="list-none"></li>
+					<li className="list-none"></li>
+			
+				</ul>
+			
+			
+			<h4 className="margin-y-40">44. </h4>
+			
+				<ul className="list-square">
+			
+					<li></li>
+					<li className="list-none"></li>
+					<li className="margin-bottom-20 list-none"></li>
+			
+					<li></li>
+					<li className="list-none"></li>
+					<li className="margin-bottom-20 list-none"></li>
+			
+					<li></li>
+					<li className="list-none"></li>
+					<li className="list-none"></li>
+			
+				</ul>
+			
+
+			<h4 className="margin-y-40">45. </h4>
+			
+				<ul className="list-square">
+			
+					<li></li>
+					<li className="list-none"></li>
+					<li className="margin-bottom-20 list-none"></li>
+			
+					<li></li>
+					<li className="list-none"></li>
+					<li className="margin-bottom-20 list-none"></li>
+			
+					<li></li>
+					<li className="list-none"></li>
+					<li className="list-none"></li>
+			
+				</ul>
+			
+			
+			<h4 className="margin-y-40">46. </h4>
+			
+				<ul className="list-square">
+			
+					<li></li>
+					<li className="list-none"></li>
+					<li className="margin-bottom-20 list-none"></li>
+			
+					<li></li>
+					<li className="list-none"></li>
+					<li className="margin-bottom-20 list-none"></li>
+			
+					<li></li>
+					<li className="list-none"></li>
+					<li className="list-none"></li>
+			
+				</ul>
+
+			
+			<h4 className="margin-y-40">47. </h4>
+			
+				<ul className="list-square">
+			
+					<li></li>
+					<li className="list-none"></li>
+					<li className="margin-bottom-20 list-none"></li>
+			
+					<li></li>
+					<li className="list-none"></li>
+					<li className="margin-bottom-20 list-none"></li>
+			
+					<li></li>
+					<li className="list-none"></li>
+					<li className="list-none"></li>
+			
+				</ul>
+
+			
+			<h4 className="margin-y-40">48. </h4>
+			
+				<ul className="list-square">
+			
+					<li></li>
+					<li className="list-none"></li>
+					<li className="margin-bottom-20 list-none"></li>
+			
+					<li></li>
+					<li className="list-none"></li>
+					<li className="margin-bottom-20 list-none"></li>
+			
+					<li></li>
+					<li className="list-none"></li>
+					<li className="list-none"></li>
+			
+				</ul>
+
+
+			<h4 className="margin-y-40">49. </h4>
+			
+				<ul className="list-square">
+			
+					<li></li>
+					<li className="list-none"></li>
+					<li className="margin-bottom-20 list-none"></li>
+			
+					<li></li>
+					<li className="list-none"></li>
+					<li className="margin-bottom-20 list-none"></li>
+			
+					<li></li>
+					<li className="list-none"></li>
+					<li className="list-none"></li>
+			
+				</ul>
+
+			
+			<h4 className="margin-y-40">50. </h4>
+			
+				<ul className="list-square">
+			
+					<li></li>
+					<li className="list-none"></li>
+					<li className="margin-bottom-20 list-none"></li>
+			
+					<li></li>
+					<li className="list-none"></li>
+					<li className="margin-bottom-20 list-none"></li>
+			
+					<li></li>
+					<li className="list-none"></li>
+					<li className="list-none"></li>
+			
+				</ul>
+
+
+			<h4 className="margin-y-40">51. </h4>
+			
+				<ul className="list-square">
+			
+					<li></li>
+					<li className="list-none"></li>
+					<li className="margin-bottom-20 list-none"></li>
+			
+					<li></li>
+					<li className="list-none"></li>
+					<li className="margin-bottom-20 list-none"></li>
+			
+					<li></li>
+					<li className="list-none"></li>
+					<li className="list-none"></li>
+			
+				</ul>
+
+
+			<h4 className="margin-y-40">52. FLY</h4>
+			
+				<ul className="list-square">
+			
+					<li>a PLANE <strong>FLIES HIGH</strong> above the CLOUDS.</li>
+					<li className="list-none">Một chiếc máy bay <strong>bay cao</strong> trên những tầng mây.</li>
+					<li className="margin-bottom-20 list-none">Dùng thời hiện tại đơn với dạng flies kết hợp với trạng từ high (cho chủ thể ngôi thứ ba số ít A plane) để chỉ sự thật hoặc hành động diễn ra theo quy luật.</li>
+			
+					<li>the BIRD <strong>FLEW aWAY</strong> QUICKly when i CAME CLOSE.</li>
+					<li className="list-none">Con chim <strong>đã bay vụt đi</strong> nhanh chóng khi tôi đến gần.</li>
+					<li className="margin-bottom-20 list-none">Dùng thời quá khứ đơn với cụm động từ flew away để chỉ việc đã xảy ra và kết thúc trong quá khứ.</li>
+			
+					<li>he <strong>has FLOWN</strong> to VietNAM on a BUSIness TRIP.</li>
+					<li className="list-none">Anh ấy <strong>đã bay</strong> đến Việt Nam trong một chuyến công tác.</li>
+					<li className="list-none">Cấu trúc này dùng từ chỉ hành động ở dạng hoàn thành (has flown) để nói về sự việc đã hoàn tất và liên quan đến hiện tại, với chủ thể là He (anh ấy).</li>
+			
+				</ul>
+			
+			
 			<h4 className="margin-y-40">53. FALL</h4>
 			
 				<ul className="list-square">
 			
-					<li>the RAIN <strong>FALLS</strong> HEAVily on the ROOF.</li>
-					<li className="list-none">Trời mưa rơi nặng hạt trên mái nhà.</li>
+					<li>the RAIN <strong>FALLS HEAVily</strong> on the ROOF.</li>
+					<li className="list-none">Trời mưa <strong>rơi nặng hạt</strong> trên mái nhà.</li>
 					<li className="margin-bottom-20 list-none">Dùng thời hiện tại đơn với dạng FALLS (cho chủ thể ngôi thứ ba số ít the RAIN) để chỉ hiện tượng hoặc sự việc diễn ra theo quy luật tự nhiên.</li>
 			
 					<li>he <strong>FELL</strong> from the CAMera eQUIPment while WORKing outSIDE.</li>
-					<li className="list-none">Anh ấy đã bị ngã từ chỗ thiết bị máy quay trong lúc làm việc ngoài trời.</li>
+					<li className="list-none">Anh ấy <strong>đã bị ngã</strong> từ chỗ thiết bị máy quay trong lúc làm việc ngoài trời.</li>
 					<li className="margin-bottom-20 list-none">Dùng thời quá khứ đơn với dạng FELL để chỉ việc đã xảy ra và kết thúc trong quá khứ.</li>
 			
-					<li>SEVERal OLD TREES have <strong>FALLen</strong> DOWN DURing the STORM.</li>
-					<li className="list-none">Một số cây cổ thụ đã bị đổ sập trong cơn bão.</li>
+					<li>SEVERal OLD TREES <strong>have FALLen</strong> DOWN DURing the STORM.</li>
+					<li className="list-none">Một số cây cổ thụ <strong>đã bị đổ sập</strong> trong cơn bão.</li>
 					<li className="list-none">Cấu trúc này dùng từ chỉ hành động ở dạng hoàn thành (FALLen) đi sau have để nói về sự việc đã xảy ra và để lại kết quả ở hiện tại, với chủ thể là SEVERal OLD TREES (một số cây cổ thụ).</li>
 			
 				</ul>
@@ -486,15 +1471,15 @@ export default function IrregularVerbs(): React.JSX.Element {
 				<ul className="list-square">
 			
 					<li>he <strong>CUTS</strong> the VEGETables for COOKing.</li>
-					<li className="list-none">Anh ấy cắt rau củ để nấu ăn.</li>
+					<li className="list-none">Anh ấy <strong>cắt</strong> rau củ để nấu ăn.</li>
 					<li className="margin-bottom-20 list-none">Dùng thời hiện tại đơn với dạng CUTS (cho chủ thể ngôi thứ ba số ít He) để chỉ việc làm diễn ra thường xuyên.</li>
 			
 					<li>she <strong>CUT</strong> a PIECE of CAKE for me YESterday.</li>
-					<li className="list-none">Cô ấy đã cắt một miếng bánh ngọt cho tôi vào ngày hôm qua.</li>
+					<li className="list-none">Cô ấy <strong>đã cắt</strong> một miếng bánh ngọt cho tôi vào ngày hôm qua.</li>
 					<li className="margin-bottom-20 list-none">Dùng thời quá khứ đơn với dạng cut để chỉ việc đã xảy ra và kết thúc trong quá khứ (từ này giữ nguyên hình thức không đổi ở dạng quá khứ).</li>
 			
-					<li>the GRASS has been <strong>CUT</strong> SHORT in the GARden.</li>
-					<li className="list-none">Bãi cỏ trong vườn đã được cắt ngắn.</li>
+					<li>the GRASS <strong>has been CUT</strong> SHORT in the GARden.</li>
+					<li className="list-none">Bãi cỏ trong vườn <strong>đã được cắt</strong> ngắn.</li>
 					<li className="list-none">Cấu trúc này dùng từ chỉ hành động ở dạng hoàn thành (cut) đi sau has been để nói về một việc đã hoàn tất và để lại kết quả ở hiện tại, với chủ thể chịu tác động là The grass (bãi cỏ).</li>
 			
 				</ul>
@@ -505,15 +1490,15 @@ export default function IrregularVerbs(): React.JSX.Element {
 				<ul className="list-square">
 			
 					<li>he <strong>HITS</strong> the TENnis BALL with GREAT FORCE.</li>
-					<li className="list-none">Anh ấy đánh quả bóng quần vợt với một lực rất mạnh.</li>
+					<li className="list-none">Anh ấy <strong>đánh</strong> quả bóng quần vợt với một lực rất mạnh.</li>
 					<li className="margin-bottom-20 list-none">Dùng thời hiện tại đơn với dạng HITS (cho chủ thể ngôi thứ ba số ít he) để chỉ hành động diễn ra mang tính thường xuyên hoặc kỹ thuật trong thể thao.</li>
 			
 					<li>the CAR <strong>HIT</strong> a TREE on the SIDE of the ROAD LAST NIGHT.</li>
-					<li className="list-none">Chiếc ô tô đã đâm vào một cái cây bên vệ đường vào tối qua.</li>
+					<li className="list-none">Chiếc ô tô <strong>đã đâm</strong> vào một cái cây bên vệ đường vào tối qua.</li>
 					<li className="margin-bottom-20 list-none">Dùng thời quá khứ đơn với dạng HIT để chỉ sự việc đã xảy ra và kết thúc trong quá khứ (từ này giữ nguyên hình thức không đổi ở dạng quá khứ).</li>
 			
-					<li>the TARget has been <strong>HIT</strong> sucCESSfully by the ARcher.</li>
-					<li className="list-none">Mục tiêu đã bị bắn trúng thành công bởi cung thủ.</li>
+					<li>the TARget <strong>has been HIT sucCESSfully</strong> by the ARcher.</li>
+					<li className="list-none">Mục tiêu <strong>đã bị bắn trúng thành công</strong> bởi cung thủ.</li>
 					<li className="list-none">Cấu trúc này dùng từ chỉ hành động ở dạng hoàn thành (HIT) đi sau has been để nói về một việc đã hoàn tất và để lại kết quả ở hiện tại, với chủ thể chịu tác động là the TARget (mục tiêu).</li>
 			
 				</ul>
@@ -524,15 +1509,15 @@ export default function IrregularVerbs(): React.JSX.Element {
 				<ul className="list-square">
 			
 					<li>he <strong>HURTS</strong> his KNEE when PLAYing FOOTball.</li>
-					<li className="list-none">Anh ấy làm đau đầu gối của mình khi đá bóng.</li>
+					<li className="list-none">Anh ấy <strong>làm đau</strong> đầu gối của mình khi đá bóng.</li>
 					<li className="margin-bottom-20 list-none">Dùng thời hiện tại đơn với dạng HURTS (cho chủ thể ngôi thứ ba số ít he) để chỉ việc xảy ra thường xuyên hoặc một thói quen khi chơi thể thao.</li>
 			
 					<li>she <strong>HURT</strong> her FINger while COOKing YESterday.</li>
-					<li className="list-none">Cô ấy đã làm đứt tay (làm đau ngón tay) trong lúc nấu ăn vào ngày hôm qua.</li>
+					<li className="list-none">Cô ấy <strong>đã làm đứt</strong> tay (<strong>làm đau</strong> ngón tay) trong lúc nấu ăn vào ngày hôm qua.</li>
 					<li className="margin-bottom-20 list-none">Dùng thời quá khứ đơn với dạng HURT để chỉ việc đã xảy ra và kết thúc trong quá khứ (từ này giữ nguyên hình thức không đổi ở dạng quá khứ).</li>
 			
-					<li>his FEELings have been <strong>HURT</strong> by those HARSH WORDS.</li>
-					<li className="list-none">Cảm xúc của anh ấy đã bị tổn thương bởi những lời lẽ cay nghiệt đó.</li>
+					<li>his FEELings <strong>have been HURT</strong> by those HARSH WORDS.</li>
+					<li className="list-none">Cảm xúc của anh ấy <strong>đã bị tổn thương</strong> bởi những lời lẽ cay nghiệt đó.</li>
 					<li className="list-none">Cấu trúc này dùng từ chỉ hành động ở dạng hoàn thành (HURT) đi sau have been để nói về một việc đã tác động và để lại kết quả ở hiện tại, với chủ thể chịu tác động là his FEELings (cảm xúc của anh ấy).</li>
 			
 				</ul>
@@ -543,15 +1528,15 @@ export default function IrregularVerbs(): React.JSX.Element {
 				<ul className="list-square">
 			
 					<li>this NEW PHONE <strong>COSTS</strong> a LOT of MONey.</li>
-					<li className="list-none">Chiếc điện thoại mới này tốn rất nhiều tiền.</li>
+					<li className="list-none">Chiếc điện thoại mới này <strong>tốn</strong> rất nhiều tiền.</li>
 					<li className="margin-bottom-20 list-none">Dùng thời hiện tại đơn với dạng COSTS (cho chủ thể ngôi thứ ba số ít this NEW PHONE) để chỉ một sự thật hoặc mức giá ở hiện tại.</li>
 			
 					<li>the TRIP <strong>COST</strong> us a FORtune LAST SUMmer.</li>
-					<li className="list-none">Chuyến đi đó đã ngốn của chúng tôi một gia tài vào mùa hè năm ngoái.</li>
+					<li className="list-none">Chuyến đi đó <strong>đã ngốn</strong> của chúng tôi một gia tài vào mùa hè năm ngoái.</li>
 					<li className="margin-bottom-20 list-none">Dùng thời quá khứ đơn với dạng COST để chỉ sự việc đã xảy ra và kết thúc trong quá khứ (đặc biệt từ này giữ nguyên hình thức ở dạng quá khứ).</li>
 			
-					<li>a LOT of TIME has been <strong>COST</strong> by this deLAY.</li>
-					<li className="list-none">Rất nhiều thời gian đã bị lãng phí/thiệt hại bởi sự chậm trễ này.</li>
+					<li>a LOT of TIME <strong>has been COST</strong> by this deLAY.</li>
+					<li className="list-none">Rất nhiều thời gian <strong>đã bị lãng phí</strong>/<strong>thiệt hại</strong> bởi sự chậm trễ này.</li>
 					<li className="list-none">Cấu trúc này dùng từ chỉ hành động ở dạng hoàn thành (COST) đi sau has been để nói về một việc đã tác động đến hiện tại, với chủ thể chịu tác động là a LOT of TIME (rất nhiều thời gian).</li>
 			
 				</ul>
@@ -562,15 +1547,15 @@ export default function IrregularVerbs(): React.JSX.Element {
 				<ul className="list-square">
 			
 					<li>he <strong>BUILDS</strong> a NEW HOUSE for his PARents.</li>
-					<li className="list-none">Anh ấy xây một ngôi nhà mới cho ba mẹ mình.</li>
+					<li className="list-none">Anh ấy <strong>xây</strong> một ngôi nhà mới cho ba mẹ mình.</li>
 					<li className="margin-bottom-20 list-none">Dùng thời hiện tại đơn với dạng BUILDS (cho chủ thể ngôi thứ ba số ít he) để chỉ việc làm diễn ra mang tính thường xuyên hoặc kế hoạch đang thực hiện.</li>
 			
 					<li>they <strong>BUILT</strong> a SMALL BRIDGE over the RIVER LAST YEAR.</li>
-					<li className="list-none">Họ đã xây một cây cầu nhỏ bắc qua sông vào năm ngoái.</li>
+					<li className="list-none">Họ <strong>đã xây</strong> một cây cầu nhỏ bắc qua sông vào năm ngoái.</li>
 					<li className="margin-bottom-20 list-none">Dùng thời quá khứ đơn với dạng BUILT để chỉ việc đã hoàn tất hoàn toàn trong quá khứ, đi kèm mốc thời gian rõ ràng là LAST YEAR.</li>
 			
-					<li>this WEBsite has been <strong>BUILT</strong> with GREAT CARE.</li>
-					<li className="list-none">Trang web này đã được xây dựng rất cẩn thận.</li>
+					<li>this WEBsite <strong>has been BUILT</strong> with GREAT CARE.</li>
+					<li className="list-none">Trang web này <strong>đã được xây dựng</strong> rất cẩn thận.</li>
 					<li className="list-none">Cấu trúc này dùng từ chỉ hành động ở dạng hoàn thành (BUILT) đi sau has been để nói về một việc đã hoàn tất và để lại kết quả ở hiện tại, với chủ thể chịu tác động là this WEBsite (trang WEB này).</li>
 			
 				</ul>
@@ -581,15 +1566,15 @@ export default function IrregularVerbs(): React.JSX.Element {
 				<ul className="list-square">
 			
 					<li>he <strong>CATCHes</strong> the BUS to WORK EVERy MORNing.</li>
-					<li className="list-none">Anh ấy bắt xe buýt đi làm vào mỗi buổi sáng.</li>
+					<li className="list-none">Anh ấy <strong>bắt</strong> xe buýt đi làm vào mỗi buổi sáng.</li>
 					<li className="margin-bottom-20 list-none">Dùng thời hiện tại đơn với dạng CATCHes (cho chủ thể ngôi thứ ba số ít he) để chỉ thói quen lặp lại.</li>
 			
 					<li>she <strong>CAUGHT</strong> a BIG FISH YESterday.</li>
-					<li className="list-none">Cô ấy đã bắt được một con cá lớn vào ngày hôm qua.</li>
+					<li className="list-none">Cô ấy <strong>đã bắt được</strong> một con cá lớn vào ngày hôm qua.</li>
 					<li className="margin-bottom-20 list-none">Dùng thời quá khứ đơn với dạng CAUGHT để chỉ hành động đã xảy ra và kết thúc trong quá khứ.</li>
 			
-					<li>they have <strong>CAUGHT</strong> the TRAIN JUST in TIME.</li>
-					<li className="list-none">Họ vừa mới bắt kịp chuyến tàu đúng lúc.</li>
+					<li>they <strong>have CAUGHT</strong> the TRAIN JUST in TIME.</li>
+					<li className="list-none">Họ <strong>vừa mới bắt kịp</strong> chuyến tàu đúng lúc.</li>
 					<li className="list-none">Dùng thời hiện tại hoàn thành với dạng phân từ CAUGHT đi sau have để chỉ hành động vừa mới hoàn tất ảnh hưởng đến hiện tại.</li>
 			
 				</ul>
@@ -600,35 +1585,16 @@ export default function IrregularVerbs(): React.JSX.Element {
 				<ul className="list-square">
 			
 					<li>he <strong>THROWS</strong> the BALL to his DOG in the PARK.</li>
-					<li className="list-none">Anh ấy ném quả bóng cho chú chó của mình ở công viên.</li>
+					<li className="list-none">Anh ấy <strong>ném</strong> quả bóng cho chú chó của mình ở công viên.</li>
 					<li className="margin-bottom-20 list-none">Dùng thời hiện tại đơn với dạng throws (cho chủ thể ngôi thứ ba số ít he) để chỉ thói quen hoặc hành động diễn ra thường xuyên.</li>
 			
 					<li>she <strong>THREW aWAY</strong> the OLD LETters LAST NIGHT.</li>
-					<li className="list-none">Cô ấy đã vứt bỏ những bức thư cũ vào tối qua.</li>
+					<li className="list-none">Cô ấy <strong>đã vứt bỏ</strong> những bức thư cũ vào tối qua.</li>
 					<li className="margin-bottom-20 list-none">Dùng thời quá khứ đơn với dạng THREW để chỉ hành động đã xảy ra và kết thúc trong quá khứ (cụm THREW aWAY có nghĩa là vứt đi).</li>
 			
-					<li>the WINdow has been <strong>THROWN</strong> Open by the WIND.</li>
-					<li className="list-none">Cửa sổ đã bị gió thổi tung mở ra.</li>
+					<li>the WINdow <strong>has been THROWN</strong> Open by the WIND.</li>
+					<li className="list-none">Cửa sổ <strong>đã bị gió thổi tung</strong> mở ra.</li>
 					<li className="list-none">Cấu trúc này dùng từ chỉ hành động ở dạng hoàn thành (THROWN) đi sau has been để nói về một việc đã xảy ra và để lại kết quả ở hiện tại, với chủ thể chịu tác động là the WINdow (cửa sổ).</li>
-			
-				</ul>
-
-			
-			<h4 className="margin-y-40"></h4>
-			
-				<ul className="list-square">
-			
-					<li></li>
-					<li className="list-none"></li>
-					<li className="margin-bottom-20 list-none"></li>
-			
-					<li></li>
-					<li className="list-none"></li>
-					<li className="margin-bottom-20 list-none"></li>
-			
-					<li></li>
-					<li className="list-none"></li>
-					<li className="list-none"></li>
 			
 				</ul>
 			
