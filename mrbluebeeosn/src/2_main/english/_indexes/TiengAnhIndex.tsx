@@ -490,24 +490,6 @@ export default function TiengAnhIndex(): React.JSX.Element {
               </div>
             </li>
 
-            <li>
-              <div className="li-content">
-                <Link to="/tieng-anh/gerunds-and-infinitives">GERunds and inFINitives</Link>
-              </div>
-            </li>
-
-            <li>
-              <div className="li-content">
-                <Link to="/tieng-anh/irregular-verbs">irREGular VERBS</Link>
-              </div>
-            </li>
-
-            <li>
-              <div className="li-content">
-                <Link to="/tieng-anh/phrasal-verbs">PHRAsal VERBS</Link>
-              </div>
-            </li>
-
             
 
             {/* <li>

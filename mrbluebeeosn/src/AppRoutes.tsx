@@ -145,7 +145,7 @@ const Posts = lazy(() => import('@/data/Posts'));
 
 	const PREsentPERfect = lazy(() => import('@/2_main/english/tienganh/verbs/PREsentPERfect'));
 
-	const GerundsAndInfinitives = lazy(() => import('@/2_main/english/tienganh/verbs/GerundsAndInfinitives'));
+	const GerundsAndInfinitives = lazy(() => import('@/2_main/english/vocabulary/verb/GerundsAndInfinitives'));
 	const NhanBietTinhTuTiengAnh = lazy(() => import('@/2_main/english/tienganh/adjective/NhanBietTinhTuTiengAnh'));
 
 	const BiMatVeTuDuyNgonNgu1 = lazy(() => import('@/2_main/english/tienganh/folder/BiMatVeTuDuyNgonNgu1'));
@@ -277,8 +277,8 @@ const Posts = lazy(() => import('@/data/Posts'));
 
 	const VietTiengAnhMuotMaHon = lazy(() => import('@/2_main/english/tienganh/VietTiengAnhMuotMaHon'))
 
-	const IrregularVerbs = lazy(() => import('@/2_main/english/tienganh/verbs/IrregularVerbs'))
-	const PhrasalVerbs = lazy(() => import('@/2_main/english/tienganh/verbs/PhrasalVerbs'))
+	const IrregularVerbs = lazy(() => import('@/2_main/english/vocabulary/verb/IrregularVerbs'))
+	const PhrasalVerbs = lazy(() => import('@/2_main/english/vocabulary/verb/PhrasalVerbs'))
 	
 	
 

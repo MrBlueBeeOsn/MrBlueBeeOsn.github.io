@@ -15,7 +15,7 @@ export default function Respond(): React.JSX.Element {
 
 		<article>
 		
-			<h4><HashLink smooth to="/vocabulary#verbs-terms"><mark className="highlight-tertiary-padding-4-8">VERBs</mark></HashLink></h4>
+			<h4><HashLink smooth to="/vocabulary#verbs-functions-terms"><mark className="highlight-tertiary-padding-4-8">VERBS: FUNCtions</mark></HashLink></h4>
 			
 						
 			<h1 className="margin-y-50 text-center">[reSPOND]</h1>

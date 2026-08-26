@@ -44,7 +44,7 @@ export default function VocabularyIndex(): React.JSX.Element {
 
 				<details className="sub-box-fix">
 			
-					<summary id="verbs-terms"><mark className="highlight-secondary-padding-2-4">VERBs</mark></summary>
+					<summary id="verbs-functions-terms"><mark className="highlight-secondary-padding-2-4">VERBS: FUNCtions</mark></summary>
 
 					<ul className="list-border1">
 
@@ -67,6 +67,45 @@ export default function VocabularyIndex(): React.JSX.Element {
 
 
 				</details>
+
+
+				{/* =============================
+							Verbs
+				============================= */}
+
+
+				<details className="sub-box-fix">
+			
+					<summary id="verbs-terms"><mark className="highlight-secondary-padding-2-4">VERBS</mark></summary>
+
+					<ul className="list-border1">
+
+						<li>
+              <div className="li-content">
+                <Link to="/tieng-anh/gerunds-and-infinitives">GERunds and inFINitives</Link>
+              </div>
+            </li>
+
+            <li>
+              <div className="li-content">
+                <Link to="/tieng-anh/irregular-verbs">irREGular VERBS</Link>
+              </div>
+            </li>
+
+            <li>
+              <div className="li-content">
+                <Link to="/tieng-anh/phrasal-verbs">PHRAsal VERBS</Link>
+              </div>
+            </li>
+
+						
+						
+
+					</ul>
+
+
+				</details>
+
 
 			</div>
 

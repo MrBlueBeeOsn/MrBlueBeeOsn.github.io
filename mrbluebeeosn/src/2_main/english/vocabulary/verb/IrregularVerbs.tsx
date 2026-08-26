@@ -15,7 +15,7 @@ export default function IrregularVerbs(): React.JSX.Element {
 
 		<article>
 		
-			<h4><HashLink smooth to="/tieng-anh#verbs-terms"><mark className="highlight-tertiary-padding-4-8">VERBS</mark></HashLink></h4>
+			<h4><HashLink smooth to="/vocabulary#verbs-terms"><mark className="highlight-tertiary-padding-4-8">VERBS</mark></HashLink></h4>
 
 			<h1 className="margin-y-50 text-center">irREGular VERBS</h1>
 
@@ -360,62 +360,6 @@ export default function IrregularVerbs(): React.JSX.Element {
 								<td>quên</td>
 						</tr>
 
-						<tr>
-								<td>41</td>
-								<td>hears</td>
-								<td>heard</td>
-								<td>heard</td>
-								<td>nghe</td>
-						</tr>
-						
-						<tr>
-								<td>42</td>
-								<td>holds</td>
-								<td>held</td>
-								<td>held</td>
-								<td>cầm, nắm, tổ chức</td>
-						</tr>
-						
-						<tr>
-								<td>43</td>
-								<td>learns</td>
-								<td>learnt / learned</td>
-								<td>learnt / learned</td>
-								<td>học, biết được</td>
-						</tr>
-
-						<tr>
-								<td>44</td>
-								<td>sends</td>
-								<td>sent</td>
-								<td>sent</td>
-								<td>gửi</td>
-						</tr>
-
-						<tr>
-								<td>45</td>
-								<td>shows</td>
-								<td>showed</td>
-								<td>shown / showed</td>
-								<td>chỉ, cho xem</td>
-						</tr>
-
-						<tr>
-								<td>46</td>
-								<td>sleeps</td>
-								<td>slept</td>
-								<td>slept</td>
-								<td>ngủ</td>
-						</tr>
-
-						<tr>
-								<td>47</td>
-								<td>swims</td>
-								<td>swam</td>
-								<td>swum</td>
-								<td>bơi</td>
-						</tr>
-				
 
 						
 					</tbody>
@@ -1187,116 +1131,116 @@ export default function IrregularVerbs(): React.JSX.Element {
 			
 			
 			
-			<h4 className="margin-y-40">41. </h4>
+			<h4 className="margin-y-40">41. HEAR</h4>
 			
 				<ul className="list-square">
 			
-					<li></li>
-					<li className="list-none"></li>
-					<li className="margin-bottom-20 list-none"></li>
+					<li>he <strong>HEARS</strong> a STRANGE NOISE outside his WINdow.</li>
+					<li className="list-none">Anh ấy <strong>nghe thấy</strong> một tiếng động lạ bên ngoài cửa sổ.</li>
+					<li className="margin-bottom-20 list-none">Dùng thời hiện tại đơn với dạng HEARS (cho chủ thể ngôi thứ ba số ít he) để chỉ sự việc diễn ra theo quy luật.</li>
 			
-					<li></li>
-					<li className="list-none"></li>
-					<li className="margin-bottom-20 list-none"></li>
+					<li>she <strong>HEARD</strong> the GOOD NEWS YESterday.</li>
+					<li className="list-none">Cô ấy <strong>đã nghe</strong> tin vui vào ngày hôm qua.</li>
+					<li className="margin-bottom-20 list-none">Dùng thời quá khứ đơn với dạng HEARD để chỉ việc đã xảy ra và kết thúc trong quá khứ.</li>
 			
-					<li></li>
-					<li className="list-none"></li>
-					<li className="list-none"></li>
+					<li>we <strong>have HEARD</strong> about this PLAN beFORE.</li>
+					<li className="list-none">Chúng ta <strong>đã nghe</strong> về kế hoạch này trước đây.</li>
+					<li className="list-none">Cấu trúc này dùng dạng hoàn thành với have HEARD, nói về sự việc đã hoàn tất và liên quan đến hiện tại.</li>
 			
 				</ul>
 			
 			
-			<h4 className="margin-y-40">42. </h4>
+			<h4 className="margin-y-40">42. HOLD</h4>
 			
 				<ul className="list-square">
 			
-					<li></li>
-					<li className="list-none"></li>
-					<li className="margin-bottom-20 list-none"></li>
+					<li>she <strong>HOLDS</strong> a MEETing every MONday MORning.</li>
+					<li className="list-none">Cô ấy <strong>tổ chức</strong> một cuộc họp vào mỗi sáng thứ Hai.</li>
+					<li className="margin-bottom-20 list-none">Dùng thời hiện tại đơn với dạng HOLDS (cho chủ thể ngôi thứ ba số ít she) để chỉ sự việc diễn ra theo quy luật.</li>
 			
-					<li></li>
-					<li className="list-none"></li>
-					<li className="margin-bottom-20 list-none"></li>
+					<li>he <strong>HELD</strong> the umBRELla for me in the RAIN.</li>
+					<li className="list-none">Anh ấy <strong>đã giữ</strong> chiếc ô giúp tôi trong cơn mưa.</li>
+					<li className="margin-bottom-20 list-none">Dùng thời quá khứ đơn với dạng HELD để chỉ việc đã xảy ra và kết thúc trong quá khứ.</li>
 			
-					<li></li>
-					<li className="list-none"></li>
-					<li className="list-none"></li>
+					<li>they <strong>have HELD</strong> this poSITion for THREE YEARS.</li>
+					<li className="list-none">Họ <strong>đã nắm giữ</strong> vị trí này được ba năm.</li>
+					<li className="list-none">Cấu trúc này dùng dạng hoàn thành với have HELD, nói về sự việc đã hoàn tất và liên quan đến hiện tại.</li>
 			
 				</ul>
 
 			
-			<h4 className="margin-y-40">43. </h4>
+			<h4 className="margin-y-40">43. LEARN</h4>
 			
 				<ul className="list-square">
 			
-					<li></li>
-					<li className="list-none"></li>
-					<li className="margin-bottom-20 list-none"></li>
+					<li>he <strong>LEARNS</strong> a NEW LANguage every year.</li>
+					<li className="list-none">Anh ấy <strong>học</strong> một ngôn ngữ mới mỗi năm.</li>
+					<li className="margin-bottom-20 list-none">Dùng thời hiện tại đơn với dạng LEARNS (cho chủ thể ngôi thứ ba số ít he) để chỉ sự việc diễn ra theo quy luật.</li>
 			
-					<li></li>
-					<li className="list-none"></li>
-					<li className="margin-bottom-20 list-none"></li>
+					<li>she <strong>LEARNED</strong> a LOT from the exPERIence.</li>
+					<li className="list-none">Cô ấy <strong>đã học</strong> được rất nhiều từ kinh nghiệm đó.</li>
+					<li className="margin-bottom-20 list-none">Dùng thời quá khứ đơn với dạng LEARNED để chỉ việc đã xảy ra và kết thúc trong quá khứ.</li>
 			
-					<li></li>
-					<li className="list-none"></li>
-					<li className="list-none"></li>
+					<li>we <strong>have LEARNT</strong> HOW to SOLVE the PROBlem.</li>
+					<li className="list-none">Chúng ta <strong>đã học</strong> cách giải quyết vấn đề.</li>
+					<li className="list-none">Cấu trúc này dùng dạng hoàn thành với have LEARNT, nói về sự việc đã hoàn tất và liên quan đến hiện tại.</li>
 			
 				</ul>
 			
 			
-			<h4 className="margin-y-40">44. </h4>
+			<h4 className="margin-y-40">44. SEND</h4>
 			
 				<ul className="list-square">
 			
-					<li></li>
-					<li className="list-none"></li>
-					<li className="margin-bottom-20 list-none"></li>
+					<li>she <strong>SENDS</strong> a WEEkly rePORT to her MANager.</li>
+					<li className="list-none">Cô ấy <strong>gửi</strong> báo cáo hàng tuần cho quản lý của mình.</li>
+					<li className="margin-bottom-20 list-none">Dùng thời hiện tại đơn với dạng sends (cho chủ thể ngôi thứ ba số ít She) để chỉ sự việc diễn ra theo quy luật.</li>
 			
-					<li></li>
-					<li className="list-none"></li>
-					<li className="margin-bottom-20 list-none"></li>
+					<li>he <strong>SENT</strong> an imPORtant Email YESterday.</li>
+					<li className="list-none">Anh ấy <strong>đã gửi</strong> một email quan trọng vào ngày hôm qua.</li>
+					<li className="margin-bottom-20 list-none">Dùng thời quá khứ đơn với dạng SENT để chỉ việc đã xảy ra và kết thúc trong quá khứ.</li>
 			
-					<li></li>
-					<li className="list-none"></li>
-					<li className="list-none"></li>
+					<li>they <strong>have SENT</strong> the PACKage sucCESSfully.</li>
+					<li className="list-none">Họ <strong>đã gửi</strong> bưu phẩm thành công.</li>
+					<li className="list-none">Cấu trúc này dùng dạng hoàn thành với has SENT / have SENT, nói về sự việc đã hoàn tất và liên quan đến hiện tại.</li>
 			
 				</ul>
 			
 
-			<h4 className="margin-y-40">45. </h4>
+			<h4 className="margin-y-40">45. SHOW</h4>
 			
 				<ul className="list-square">
 			
-					<li></li>
-					<li className="list-none"></li>
-					<li className="margin-bottom-20 list-none"></li>
+					<li>the CHART SHOWS the ANnual SALES GROWTH CLEARly.</li>
+					<li className="list-none">Biểu đồ <strong>thể hiện rõ ràng</strong> sự tăng trưởng doanh số hàng năm.</li>
+					<li className="margin-bottom-20 list-none">Dùng thời hiện tại đơn với dạng SHOWS (cho chủ thể ngôi thứ ba số ít the CHART) để chỉ sự việc diễn ra theo quy luật.</li>
 			
-					<li></li>
-					<li className="list-none"></li>
-					<li className="margin-bottom-20 list-none"></li>
+					<li>he <strong>SHOWED</strong> his NEW PROJect PROUDly at the MEETing.</li>
+					<li className="list-none">Anh ấy <strong>đã thể hiện</strong> một cách tự hào dự án mới của mình tại cuộc họp.</li>
+					<li className="margin-bottom-20 list-none">Dùng thời quá khứ đơn với dạng SHOWED để chỉ việc đã xảy ra và kết thúc trong quá khứ.</li>
 			
-					<li></li>
-					<li className="list-none"></li>
-					<li className="list-none"></li>
+					<li>she <strong>has SHOWN</strong> GREAT imPROVEment REcently.</li>
+					<li className="list-none">Cô ấy <strong>đã thể hiện</strong> sự tiến bộ lớn gần đây.</li>
+					<li className="list-none">Cấu trúc này dùng dạng hoàn thành với has SHOWN, nói về sự việc đã hoàn tất và liên quan đến hiện tại.</li>
 			
 				</ul>
 			
 			
-			<h4 className="margin-y-40">46. </h4>
+			<h4 className="margin-y-40">46. SLEEP</h4>
 			
 				<ul className="list-square">
 			
-					<li></li>
-					<li className="list-none"></li>
-					<li className="margin-bottom-20 list-none"></li>
+					<li>the BAby <strong>SLEEPS</strong> for EIGHT HOURS every NIGHT.</li>
+					<li className="list-none">Em bé <strong>ngủ</strong> tám tiếng mỗi đêm.</li>
+					<li className="margin-bottom-20 list-none">Dùng thời hiện tại đơn với dạng SLEEPS (cho chủ thể ngôi thứ ba số ít the BAby) để chỉ thói quen hoặc sự việc diễn ra theo quy luật.</li>
 			
-					<li></li>
-					<li className="list-none"></li>
-					<li className="margin-bottom-20 list-none"></li>
+					<li>he <strong>SLEPT SOUNDly</strong> through the NIGHT.</li>
+					<li className="list-none">Anh ấy <strong>đã ngủ ngon giấc</strong> suốt cả đêm.</li>
+					<li className="margin-bottom-20 list-none">Dùng thời quá khứ đơn với dạng SLEPT để chỉ việc đã xảy ra và kết thúc trong quá khứ.</li>
 			
-					<li></li>
-					<li className="list-none"></li>
-					<li className="list-none"></li>
+					<li>she <strong>has SLEPT</strong> for a LONG TIME.</li>
+					<li className="list-none">Cô ấy <strong>đã ngủ</strong> trong một thời gian dài.</li>
+					<li className="list-none">Cấu trúc này dùng dạng hoàn thành với has SLEPT, nói về sự việc đã hoàn tất và liên quan đến hiện tại.</li>
 			
 				</ul>
 
