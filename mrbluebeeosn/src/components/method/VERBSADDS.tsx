@@ -20,39 +20,38 @@ export default function VERBSADDS(): React.JSX.Element {
 
       <p className="margin-top-20 text-center">
 
-          <p className="example-sentence">
-            🟦 <span className="pill s">He</span> &nbsp;<span className="pill v">She</span> &nbsp;<span className="pill o">It</span> &nbsp;<span className="pill m">One</span> &nbsp;<span className="pill p">Everyone</span> — &nbsp;<span className="pill t">5 goe5 with 🆂</span>! 🔵
-          </p>
-
         <div className="example">
 
           <p className="example-sentence">
-            🟦 <span className="s">He</span>, &nbsp;<span className="v">She</span>, &nbsp;<span className="o">It</span>, &nbsp;<span className="m">One</span>, &nbsp;<span className=" p">Everyone</span> — &nbsp;<span className="t">5 goe5 with 🆂</span>! 🔵
+            🟦 <span className="s">1st Person (Ngôi thứ nhất): The Speaker. This is you. You use I (singular) or We (plural).</span>
           </p>
 
         </div>
 
-        <span className="highlight-255-padding-0-4 text-border">
-          🟦 He, She, It, One, Everyone — 5 goe5 with 🆂! 🔵
-        </span>
+        <div className="example">
 
-        <hr className="margin-y-20"/>
+          <p className="example-sentence">
+            🟦 <span className="v">2nd Person (Ngôi thứ hai): The Listener. This is the person right in front of you. You use You (both singular and plural).</span>
+          </p>
 
-        <span className="highlight-255-padding-0-4 text-border">
-          <strong>Visualize Superman</strong>: Imagine <HashLink smooth to="/grammar/how-to-remember-verbs-add-s#asuperman">an "S" on the chest of a superhero</HashLink> that jumps onto the verb when the subject is he, she, or it.
-        </span>
+        </div>
 
-        <hr className="margin-y-20"/>
+        <div className="example">
 
-        <span className="highlight-255-padding-0-4 text-border">
-          🟦 <HashLink smooth to="/grammar/how-to-remember-verbs-add-s#hesheorit">He, she, or it?</HashLink> 🆂 goes with it! 🔵
-        </span>
+          <p className="example-sentence">
+            🟦 <span className="o">3rd Person (Ngôi thứ ba): The Outsider. This is anyone or anything outside of the direct conversation. You are talking about them, not to them.</span>
+          </p>
 
-        <hr className="margin-y-20"/>
+          <p className="example-sentence">
+            <span className="p">Whenever you talk about one outsider (He/She/It), you are technically "<strong>gossiping</strong>" about them, so you must add the "<strong>S</strong>" (<strong>Sấu</strong>) to the action: He speak<strong>s</strong> (Anh ấy nói...), She laugh<strong>s</strong> (Cô ấy cười...), It hurt<strong>s</strong> (Nó đau...). You don't add "S" when talking to the person right in front of you (You) or about yourself (I), because that is a direct conversation, not gossip!</span>
+          </p>
 
-        <span className="highlight-255-padding-0-4 text-border">
-          🟦 <HashLink smooth to="/grammar/how-to-remember-verbs-add-s#hesheit">He, she, it,</HashLink> S muss mit ✨
-        </span>
+          <p className="example-sentence">
+            <span className="pill s">He</span> &nbsp;<span className="pill v">She</span> &nbsp;<span className="pill o">It</span> &nbsp;<span className="pill m">One</span> &nbsp;<span className="pill p">Everyone</span> — &nbsp;<span className="pill t">go🆂🆂ping</span>
+          </p>
+
+        </div>
+
 
         <hr className="margin-y-20"/>
 
