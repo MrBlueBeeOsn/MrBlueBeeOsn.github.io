@@ -5,9 +5,9 @@ import EyeIcon from '@/components/view/EyeIcon';
 import ViewCounter from '@/components/view/ViewCounter';
 import LikeButton from '@/components/like/LikeButton';
 
-export default function Efficiently1(): React.JSX.Element {
+export default function efFICiently1(): React.JSX.Element {
 
-  const postId = "Efficiently1";
+  const postId = "efFICiently1";
 
   return (<>
 
@@ -17,29 +17,26 @@ export default function Efficiently1(): React.JSX.Element {
     
       <h4><HashLink smooth to="/vocabulary#tinh-hieu-qua-terms"><mark className="highlight-tertiary-padding-4-8">ADverbs: hiệu quả</mark></HashLink></h4>
       
-      <h1 className="margin-y-50 text-center">efficiently
-        <sup><Link to="/vocabulary/efficiently-1">&nbsp;1&nbsp;</Link>
+      <h1 className="margin-y-50 text-center">efFICiently
+        <sup><Link to="/vocabulary/efFICiently-1">&nbsp;1&nbsp;</Link>
         </sup>
-        <sup><Link to="/vocabulary/efficiently-2">&nbsp;2&nbsp;</Link>
+        <sup><Link to="/vocabulary/efFICiently-2">&nbsp;2&nbsp;</Link>
         </sup>
       </h1>
 
       {/* This is the content of Vocabulary Term. */}
       
-      <p>Tuyệt vời! Chúng ta cùng đi sâu vào từ "<strong>efficiently</strong>" nhé.</p>
+      <p>Tuyệt vời! Chúng ta cùng đi sâu vào từ "<strong>efFICiently</strong>" nhé.</p>
 
       <div className="text-border1 padding-top-20 padding-bottom-10 highlight-238-padding-4-8 bee-container">
 
         <div>
 
-          <p className="margin-bottom-20"><strong>Efficiently</strong></p>
-
           <ul className="list-square padding-left-40">
 
             <li>
               <span className="highlight-255-padding-3-6">
-                [efFIciently][ef FI cient ly] /ɪˈfɪʃəntli/ + /<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">ėfficie̛ntly</Link>/
-                &nbsp;•⬤•• (4x)
+                [efFIciently][<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">ėf FIC ie̛nt ly</Link>] /ɪˈfɪʃəntli/ •⬤•• (4x)
               </span>
             </li>
 
@@ -57,16 +54,16 @@ export default function Efficiently1(): React.JSX.Element {
 
       </div>
 
-      <p className="margin-top-30 text-indent-whole">Từ "<strong>efficiently</strong>" được dùng để mô tả một hành động được thực hiện một cách nhanh chóng, tiết kiệm và đạt được kết quả tốt nhất với ít công sức và tài nguyên nhất. Nó thể hiện sự tối ưu hóa trong việc sử dụng thời gian, năng lượng và các nguồn lực khác.</p>
+      <p className="margin-top-30 text-indent-whole">Từ "<strong>efFICiently</strong>" được dùng để mô tả một hành động được thực hiện một cách nhanh chóng, tiết kiệm và đạt được kết quả tốt nhất với ít công sức và tài nguyên nhất. Nó thể hiện sự tối ưu hóa trong việc sử dụng thời gian, năng lượng và các nguồn lực khác.</p>
 
       <p className="margin-top-20 text-indent-whole">Ví dụ:</p>
 
         <ul className="list-square">
 
-          <li>She completed the task ______.</li>
+          <li>she comPLETed the TASK efFICiently.</li>
           <li className="margin-bottom-20 list-none">Cô ấy hoàn thành công việc một cách hiệu quả.</li>
 
-          <li>This new software will help us work more ______.</li>
+          <li>this NEW SOFTware will HELP us WORK MORE efFICiently.</li>
           <li className="list-none">Phần mềm mới này sẽ giúp chúng ta làm việc hiệu quả hơn.</li>
 
         </ul>
@@ -83,12 +80,10 @@ export default function Efficiently1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Efficient (adj) /ɪˈfɪʃənt/</li>
-          <li className="list-none">He is a very ______ worker.</li>
+          <li>he is a VERy efFICient WORKer.</li>
           <li className="margin-bottom-20 list-none">Anh ấy là một người lao động rất hiệu quả.</li>
 
-          <li>Efficiency (n) /ɪˈfɪʃənsi/</li>
-          <li className="list-none">The ______ of this machine is remarkable.</li>
+          <li>the efFICiency of this maCHINE is reMARKable.</li>
           <li className="list-none">Hiệu quả của máy này thật đáng chú ý.</li>
 
         </ul>
@@ -105,12 +100,10 @@ export default function Efficiently1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li><Link to="/vocabulary/effectively-1">Effectively</Link> /ɪˈfektɪvli/</li>
-          <li className="list-none">The medicine worked ______.</li>
+          <li>the MEDicine WORKED <Link to="/vocabulary/effectively-1">efFECtively</Link>.</li>
           <li className="margin-bottom-20 list-none">Thuốc có tác dụng hiệu quả.</li>
 
-          <li><Link to="/vocabulary/proDUCtively-1">Productively</Link> /prəˈdʌktɪvli/</li>
-          <li className="list-none">We need to work more ______ to meet the deadline.</li>
+          <li>we NEED to WORK MORE <Link to="/vocabulary/proDUCtively-1">proDUCtively</Link> to MEET the DEADline.</li>
           <li className="list-none">Chúng ta cần làm việc năng suất hơn để kịp tiến độ.</li>
 
         </ul>
@@ -129,12 +122,10 @@ export default function Efficiently1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Inefficiently /ˌɪnɪˈfɪʃəntli/</li>
-          <li className="list-none">The old system worked ______.</li>
+          <li>the OLD SYStem WORKED inefFICiently.</li>
           <li className="margin-bottom-20 list-none">Hệ thống cũ hoạt động không hiệu quả.</li>
 
-          <li>Wastefully /ˈweɪstfəli/</li>
-          <li className="list-none">He spent his money ______.</li>
+          <li>he SPENT his MONey WASTEfully.</li>
           <li className="list-none">Anh ta tiêu tiền một cách lãng phí.</li>
 
         </ul>
@@ -160,7 +151,7 @@ export default function Efficiently1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>He is working very ______ to finish the task.</li>
+          <li>he is WORKing VERy efFICiently to FINish the TASK.</li>
           <li className="list-none">Anh ấy đang làm việc rất hiệu quả để hoàn thành công việc.</li>
 
         </ul>
@@ -176,11 +167,11 @@ export default function Efficiently1(): React.JSX.Element {
         <strong>&nbsp;ví dụ</strong>:
       </p>
 
-      <p className="text-indent-whole">Tự tạo các câu ví dụ khác nhau với từ "<strong>efficiently</strong>" trong nhiều ngữ cảnh khác nhau.</p>
+      <p className="text-indent-whole">Tự tạo các câu ví dụ khác nhau với từ "<strong>efFICiently</strong>" trong nhiều ngữ cảnh khác nhau.</p>
 
         <ul className="list-square">
 
-          <li>She ______ managed her time to finish all her tasks.</li>
+          <li>she efFICiently MANaged her TIME to FINish all her TASKS.</li>
           <li className="list-none">Cô ấy đã quản lý thời gian một cách hiệu quả để hoàn thành tất cả công việc của mình.</li>
 
         </ul>
@@ -202,10 +193,10 @@ export default function Efficiently1(): React.JSX.Element {
 
           <ol>
 
-            <li>He finished the report.</li>
+            <li>he FINished the rePORT.</li>
             <li className="list-none margin-bottom-20">Anh ấy đã hoàn thành báo cáo.</li>
 
-            <li value="2">He finished the report ______ in just one hour.</li>
+            <li value="2">he FINished the rePORT efFICiently in JUST ONE HOUR.</li>
             <li className="list-none margin-bottom-20">Anh ấy đã hoàn thành báo cáo một cách hiệu quả chỉ trong một giờ.</li>
 
           </ol>
@@ -228,7 +219,7 @@ export default function Efficiently1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Tối ưu hóa: "<strong>Efficiently</strong>" nhấn mạnh việc tối ưu hóa các nguồn lực để đạt được mục tiêu.</li>
+          <li>Tối ưu hóa: "<strong>efFICiently</strong>" nhấn mạnh việc tối ưu hóa các nguồn lực để đạt được mục tiêu.</li>
 
           <li className="margin-bottom-20">Kết quả: Nó thường được liên kết với việc đạt được kết quả mong muốn với ít nỗ lực nhất.</li>
 

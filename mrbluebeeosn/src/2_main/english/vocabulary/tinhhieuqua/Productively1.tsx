@@ -112,7 +112,7 @@ export default function proDUCtively1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>the WORK was DONE <Link to="/vocabulary/efficiently-1">efFICiently</Link>.</li>
+          <li>the WORK was DONE <Link to="/vocabulary/efFICiently-1">efFICiently</Link>.</li>
           <li className="margin-bottom-20 list-none">Công việc đã được hoàn thành một cách hiệu quả.</li>
 
           <li>the NEW STRATegy was IMplemented <Link to="/vocabulary/effectively-1">efFECtively</Link>.</li>

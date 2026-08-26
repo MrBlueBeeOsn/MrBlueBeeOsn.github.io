@@ -530,8 +530,8 @@ const Posts = lazy(() => import('@/data/Posts'));
 	// 19. Vocabulary - Tính hiệu quả
 	const Effectively1 = lazy(() => import('@/2_main/english/vocabulary/tinhhieuqua/Effectively1'));
 	const Effectively2 = lazy(() => import('@/2_main/english/vocabulary/tinhhieuqua/Effectively2'));
-	const Efficiently1 = lazy(() => import('@/2_main/english/vocabulary/tinhhieuqua/Efficiently1'));
-	const Efficiently2 = lazy(() => import('@/2_main/english/vocabulary/tinhhieuqua/Efficiently2'));
+	const EfFICiently1 = lazy(() => import('@/2_main/english/vocabulary/tinhhieuqua/efFICiently1'));
+	const EfFICiently2 = lazy(() => import('@/2_main/english/vocabulary/tinhhieuqua/efFICiently2'));
 	const SucCESSfully1 = lazy(() => import('@/2_main/english/vocabulary/tinhhieuqua/sucCESSfully1'));
 	const SucCESSfully2 = lazy(() => import('@/2_main/english/vocabulary/tinhhieuqua/sucCESSfully2'));
 	const ProDUCtively1 = lazy(() => import('@/2_main/english/vocabulary/tinhhieuqua/proDUCtively1'));
@@ -1135,8 +1135,8 @@ export default function AppRoutes(): React.JSX.Element {
 					{/* 19. Vocabulary - Tính hiệu quả */}
 					<Route path="/vocabulary/effectively-1" element={<Effectively1 />} />
 					<Route path="/vocabulary/effectively-2" element={<Effectively2 />} />
-					<Route path="/vocabulary/efficiently-1" element={<Efficiently1 />} />
-					<Route path="/vocabulary/efficiently-2" element={<Efficiently2 />} />
+					<Route path="/vocabulary/efFICiently-1" element={<EfFICiently1 />} />
+					<Route path="/vocabulary/efFICiently-2" element={<EfFICiently2 />} />
 					<Route path="/vocabulary/sucCESSfully-1" element={<SucCESSfully1 />} />
 					<Route path="/vocabulary/sucCESSfully-2" element={<SucCESSfully2 />} />
 					<Route path="/vocabulary/proDUCtively-1" element={<ProDUCtively1 />} />

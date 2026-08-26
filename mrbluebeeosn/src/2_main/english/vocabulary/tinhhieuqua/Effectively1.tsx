@@ -105,7 +105,7 @@ export default function Effectively1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li><Link to="/vocabulary/efficiently-1">Efficiently</Link> /ɪˈfɪʃəntli/</li>
+          <li><Link to="/vocabulary/efFICiently-1">Efficiently</Link> /ɪˈfɪʃəntli/</li>
           <li className="list-none">She works very ______.</li>
           <li className="margin-bottom-20 list-none">Cô ấy làm việc rất hiệu quả.</li>
 
