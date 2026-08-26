@@ -415,38 +415,6 @@ export default function IrregularVerbs(): React.JSX.Element {
 								<td>swum</td>
 								<td>bơi</td>
 						</tr>
-
-						<tr>
-								<td>48</td>
-								<td>teaches</td>
-								<td>taught</td>
-								<td>taught</td>
-								<td>dạy</td>
-						</tr>
-
-						<tr>
-								<td>49</td>
-								<td>understands</td>
-								<td>understood</td>
-								<td>understood</td>
-								<td>hiểu</td>
-						</tr>
-
-						<tr>
-								<td>50</td>
-								<td>wins</td>
-								<td>won</td>
-								<td>won</td>
-								<td>thắng</td>
-						</tr>
-
-						<tr>
-								<td>51</td>
-								<td>wears</td>
-								<td>wore</td>
-								<td>worn</td>
-								<td>mặc, đeo</td>
-						</tr>
 				
 
 						
@@ -1333,97 +1301,97 @@ export default function IrregularVerbs(): React.JSX.Element {
 				</ul>
 
 			
-			<h4 className="margin-y-40">47. </h4>
+			<h4 className="margin-y-40">47. SWIM</h4>
 			
 				<ul className="list-square">
 			
-					<li></li>
-					<li className="list-none"></li>
-					<li className="margin-bottom-20 list-none"></li>
+					<li>he <strong>SWIMS</strong> in the POOL EVERy MORning.</li>
+					<li className="list-none">Anh ấy <strong>bơi</strong> ở hồ bơi mỗi buổi sáng.</li>
+					<li className="margin-bottom-20 list-none">Dùng thời hiện tại đơn với dạng SWIMS (cho chủ thể ngôi thứ ba số ít he) để chỉ thói quen hoặc sự việc diễn ra theo quy luật.</li>
 			
-					<li></li>
-					<li className="list-none"></li>
-					<li className="margin-bottom-20 list-none"></li>
+					<li>she <strong>SWAM</strong> across the RIVer YESterday.</li>
+					<li className="list-none">Cô ấy <strong>đã bơi</strong> qua sông vào ngày hôm qua.</li>
+					<li className="margin-bottom-20 list-none">Dùng thời quá khứ đơn với dạng SWAM để chỉ việc đã xảy ra và kết thúc trong quá khứ.</li>
 			
-					<li></li>
-					<li className="list-none"></li>
-					<li className="list-none"></li>
+					<li>they <strong>have SWUM</strong> in this LAKE MANy TIMES.</li>
+					<li className="list-none">Họ <strong>đã bơi</strong> ở cái hồ này nhiều lần.</li>
+					<li className="list-none">Cấu trúc này dùng dạng hoàn thành với have SWUM, nói về sự việc đã hoàn tất và liên quan đến hiện tại.</li>
 			
 				</ul>
 
 			
-			<h4 className="margin-y-40">48. </h4>
+			<h4 className="margin-y-40">48. TEACH</h4>
 			
 				<ul className="list-square">
 			
-					<li></li>
-					<li className="list-none"></li>
-					<li className="margin-bottom-20 list-none"></li>
+					<li>she <strong>TEACHes</strong> ENGlish at a LOcal SCHOOL.</li>
+					<li className="list-none">Cô ấy <strong>dạy</strong> tiếng Anh ở một trường học địa phương.</li>
+					<li className="margin-bottom-20 list-none">Dùng thời hiện tại đơn với dạng TEACHes (cho chủ thể ngôi thứ ba số ít she) để chỉ thói quen hoặc sự việc diễn ra theo quy luật.</li>
 			
-					<li></li>
-					<li className="list-none"></li>
-					<li className="margin-bottom-20 list-none"></li>
+					<li>he <strong>TAUGHT</strong> us a VALuable LESson YESterday.</li>
+					<li className="list-none">Anh ấy <strong>đã dạy</strong> chúng tôi một bài học quý giá vào ngày hôm qua.</li>
+					<li className="margin-bottom-20 list-none">Dùng thời quá khứ đơn với dạng TAUGHT để chỉ việc đã xảy ra và kết thúc trong quá khứ.</li>
 			
-					<li></li>
-					<li className="list-none"></li>
-					<li className="list-none"></li>
+					<li>they <strong>have TAUGHT</strong> this SUBject for FIVE YEARS.</li>
+					<li className="list-none">Họ <strong>đã dạy</strong> môn học này được năm năm.</li>
+					<li className="list-none">Cấu trúc này dùng dạng hoàn thành với have TAUGHT, nói về sự việc đã hoàn tất và liên quan đến hiện tại.</li>
 			
 				</ul>
 
 
-			<h4 className="margin-y-40">49. </h4>
+			<h4 className="margin-y-40">49. underSTAND</h4>
 			
 				<ul className="list-square">
 			
-					<li></li>
-					<li className="list-none"></li>
-					<li className="margin-bottom-20 list-none"></li>
+					<li>the TEACHer <strong>underSTANDS</strong> the STUdent's PROBlem.</li>
+					<li className="list-none">Giáo viên <strong>hiểu</strong> vấn đề của học sinh.</li>
+					<li className="margin-bottom-20 list-none">Dùng thời hiện tại đơn với dạng underSTANDS (cho chủ thể ngôi thứ ba số ít the TEACHer) để chỉ sự việc diễn ra theo quy luật.</li>
 			
-					<li></li>
-					<li className="list-none"></li>
-					<li className="margin-bottom-20 list-none"></li>
+					<li>she <strong>underSTOOD</strong> the LESson CLEARly AFTER the explaNAtion.</li>
+					<li className="list-none">Cô ấy <strong>đã hiểu</strong> bài học một cách rõ ràng sau lời giải thích.</li>
+					<li className="margin-bottom-20 list-none">Dùng thời quá khứ đơn với dạng underSTOOD để chỉ việc đã xảy ra và kết thúc trong quá khứ.</li>
 			
-					<li></li>
-					<li className="list-none"></li>
-					<li className="list-none"></li>
+					<li>he <strong>has underSTOOD</strong> the CORE CONcept THORoughly.</li>
+					<li className="list-none">Anh ấy <strong>đã hiểu</strong> khái niệm cốt lõi một cách thấu đáo.</li>
+					<li className="list-none">Cấu trúc này dùng dạng hoàn thành với has underSTOOD, nói về sự việc đã hoàn tất và liên quan đến hiện tại.</li>
 			
 				</ul>
 
 			
-			<h4 className="margin-y-40">50. </h4>
+			<h4 className="margin-y-40">50. WIN</h4>
 			
 				<ul className="list-square">
 			
-					<li></li>
-					<li className="list-none"></li>
-					<li className="margin-bottom-20 list-none"></li>
+					<li>our TEAM <strong>WINS</strong> EVERy GAME this SEAson.</li>
+					<li className="list-none">Đội của chúng ta <strong>thắng</strong> mọi trận đấu trong mùa giải này.</li>
+					<li className="margin-bottom-20 list-none">Dùng thời hiện tại đơn với dạng WINS (cho chủ thể ngôi thứ ba số ít our TEAM) để chỉ sự việc diễn ra theo quy luật.</li>
 			
-					<li></li>
-					<li className="list-none"></li>
-					<li className="margin-bottom-20 list-none"></li>
+					<li>she <strong>WON</strong> the FIRST PRIZE in the compeTITion YESterday.</li>
+					<li className="list-none">Cô ấy <strong>đã giành được</strong> giải nhất trong cuộc thi ngày hôm qua.</li>
+					<li className="margin-bottom-20 list-none">Dùng thời quá khứ đơn với dạng WON để chỉ việc đã xảy ra và kết thúc trong quá khứ.</li>
 			
-					<li></li>
-					<li className="list-none"></li>
-					<li className="list-none"></li>
+					<li>he <strong>has WON</strong> ALL the MATCHes EASily.</li>
+					<li className="list-none">Anh ấy <strong>đã thắng</strong> tất cả các trận đấu một cách dễ dàng.</li>
+					<li className="list-none">Cấu trúc này dùng dạng hoàn thành với has WON, nói về sự việc đã hoàn tất và liên quan đến hiện tại.</li>
 			
 				</ul>
 
 
-			<h4 className="margin-y-40">51. </h4>
+			<h4 className="margin-y-40">51. WEAR</h4>
 			
 				<ul className="list-square">
 			
-					<li></li>
-					<li className="list-none"></li>
-					<li className="margin-bottom-20 list-none"></li>
+					<li>a MAN <strong>WEARS</strong> a WARM COAT in the COLD WEATHer.</li>
+					<li className="list-none">Một người đàn ông <strong>mặc</strong> một chiếc áo khoác ấm trong thời tiết lạnh.</li>
+					<li className="margin-bottom-20 list-none">Dùng thời hiện tại đơn với dạng wears (cho chủ thể ngôi thứ ba số ít A man) để chỉ thói quen hoặc sự việc diễn ra theo điều kiện thời tiết.</li>
 			
-					<li></li>
-					<li className="list-none"></li>
-					<li className="margin-bottom-20 list-none"></li>
+					<li>she <strong>WORE</strong> a LOVEly DRESS to the PARty LAST NIGHT.</li>
+					<li className="list-none">Cô ấy <strong>đã mặc</strong> một chiếc váy xinh xắn đến bữa tiệc vào tối qua.</li>
+					<li className="margin-bottom-20 list-none">Dùng thời quá khứ đơn với dạng wore để chỉ việc đã xảy ra và kết thúc hoàn toàn trong quá khứ.</li>
 			
-					<li></li>
-					<li className="list-none"></li>
-					<li className="list-none"></li>
+					<li>this PAIR of SHOES <strong>has been WORN OUT comPLETely</strong>.</li>
+					<li className="list-none">Đôi giày này <strong>đã bị mòn đi hoàn toàn</strong> rồi.</li>
+					<li className="list-none">Cấu trúc này dùng dạng hoàn thành bị động với cụm động WORN OUT (trong đó OUT là trạng đi liền sau động worn), nói về sự việc đã hoàn tất và để lại kết quả ở hiện tại.</li>
 			
 				</ul>
 
@@ -1434,15 +1402,15 @@ export default function IrregularVerbs(): React.JSX.Element {
 			
 					<li>a PLANE <strong>FLIES HIGH</strong> above the CLOUDS.</li>
 					<li className="list-none">Một chiếc máy bay <strong>bay cao</strong> trên những tầng mây.</li>
-					<li className="margin-bottom-20 list-none">Dùng thời hiện tại đơn với dạng flies kết hợp với trạng từ high (cho chủ thể ngôi thứ ba số ít A plane) để chỉ sự thật hoặc hành động diễn ra theo quy luật.</li>
+					<li className="margin-bottom-20 list-none">Dùng thời hiện tại đơn với dạng FLIES kết hợp với trạng HIGH (cho chủ thể ngôi thứ ba số ít a PLANE) để chỉ sự thật hoặc hành động diễn ra theo quy luật.</li>
 			
 					<li>the BIRD <strong>FLEW aWAY</strong> QUICKly when i CAME CLOSE.</li>
 					<li className="list-none">Con chim <strong>đã bay vụt đi</strong> nhanh chóng khi tôi đến gần.</li>
-					<li className="margin-bottom-20 list-none">Dùng thời quá khứ đơn với cụm động từ flew away để chỉ việc đã xảy ra và kết thúc trong quá khứ.</li>
+					<li className="margin-bottom-20 list-none">Dùng thời quá khứ đơn với cụm động FLEW aWAY để chỉ việc đã xảy ra và kết thúc trong quá khứ.</li>
 			
 					<li>he <strong>has FLOWN</strong> to VietNAM on a BUSIness TRIP.</li>
 					<li className="list-none">Anh ấy <strong>đã bay</strong> đến Việt Nam trong một chuyến công tác.</li>
-					<li className="list-none">Cấu trúc này dùng từ chỉ hành động ở dạng hoàn thành (has flown) để nói về sự việc đã hoàn tất và liên quan đến hiện tại, với chủ thể là He (anh ấy).</li>
+					<li className="list-none">Cấu trúc này dùng từ chỉ hành động ở dạng hoàn thành (has FLOWN) để nói về sự việc đã hoàn tất và liên quan đến hiện tại, với chủ thể là he (anh ấy).</li>
 			
 				</ul>
 			
@@ -1476,11 +1444,11 @@ export default function IrregularVerbs(): React.JSX.Element {
 			
 					<li>she <strong>CUT</strong> a PIECE of CAKE for me YESterday.</li>
 					<li className="list-none">Cô ấy <strong>đã cắt</strong> một miếng bánh ngọt cho tôi vào ngày hôm qua.</li>
-					<li className="margin-bottom-20 list-none">Dùng thời quá khứ đơn với dạng cut để chỉ việc đã xảy ra và kết thúc trong quá khứ (từ này giữ nguyên hình thức không đổi ở dạng quá khứ).</li>
+					<li className="margin-bottom-20 list-none">Dùng thời quá khứ đơn với dạng CUT để chỉ việc đã xảy ra và kết thúc trong quá khứ (từ này giữ nguyên hình thức không đổi ở dạng quá khứ).</li>
 			
 					<li>the GRASS <strong>has been CUT</strong> SHORT in the GARden.</li>
 					<li className="list-none">Bãi cỏ trong vườn <strong>đã được cắt</strong> ngắn.</li>
-					<li className="list-none">Cấu trúc này dùng từ chỉ hành động ở dạng hoàn thành (cut) đi sau has been để nói về một việc đã hoàn tất và để lại kết quả ở hiện tại, với chủ thể chịu tác động là The grass (bãi cỏ).</li>
+					<li className="list-none">Cấu trúc này dùng từ chỉ hành động ở dạng hoàn thành (CUT) đi sau has been để nói về một việc đã hoàn tất và để lại kết quả ở hiện tại, với chủ thể chịu tác động là the GRASS (bãi cỏ).</li>
 			
 				</ul>
 			
