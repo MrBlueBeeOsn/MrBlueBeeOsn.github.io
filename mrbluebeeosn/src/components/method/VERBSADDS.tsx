@@ -43,7 +43,7 @@ export default function VERBSADDS(): React.JSX.Element {
           </p>
 
           <p className="example-sentence">
-            <span className="p">Whenever you talk about one outsider (He/She/It), you are technically "<strong>gossiping</strong>" about them, so you must add the "<strong>S</strong>" (<strong>Sấu</strong>) to the action: He speak<strong>s</strong> (Anh ấy nói...), She laugh<strong>s</strong> (Cô ấy cười...), It hurt<strong>s</strong> (Nó đau...). You don't add "S" when talking to the person right in front of you (You) or about yourself (I), because that is a direct conversation, not gossip!</span>
+            <span className="p">Whenever you talk about one outsider (He/She/It), you are technically "go<strong>ss</strong>iping" about them, so you must add the "<strong>S</strong>" (go<strong>SS</strong>iping) to the action: <br/>He speak<strong>s</strong> (Anh ấy nói...)<br/> She laugh<strong>s</strong> (Cô ấy cười...)<br/> It hurt<strong>s</strong> (Nó đau...)<br/> You don't add "S" when talking to the person right in front of you (You) or about yourself (I), because that is a direct conversation, not gossip!</span>
           </p>
 
           <p className="example-sentence">
