@@ -130,6 +130,15 @@ export default function VERBSADDS(): React.JSX.Element {
         </p>
 
 
+        <p className="example-sentence">
+            <span className="pill s">[one two THREE]</span> &nbsp;<span className="pill p">[four five SIX]</span> &nbsp;<span className="pill v">[SEVen EIGHT][nine TEN]</span>
+        </p>
+
+        <p className="example-sentence">
+            <span className="pill s">[underSTAND]</span> &nbsp;<span className="pill p">[VietnamMESE]</span> &nbsp;<span className="pill v">[do you THINK]</span>
+        </p>
+
+
 
       </p>
 
