@@ -1214,10 +1214,10 @@ export default function VocabularyIndex(): React.JSX.Element {
 						</li>
 
 						<li>
-							<Link to="/vocabulary/honestly-1">honestly
+							<Link to="/vocabulary/HONestly-1">HONestly
 								<sup>&nbsp;1&nbsp;</sup>
 									</Link> 
-									<Link to="/vocabulary/honestly-2">
+									<Link to="/vocabulary/HONestly-2">
 								<sup>&nbsp;2&nbsp;</sup>
 							</Link>
 						</li>

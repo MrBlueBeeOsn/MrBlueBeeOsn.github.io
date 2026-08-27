@@ -5,9 +5,9 @@ import EyeIcon from '@/components/view/EyeIcon';
 import ViewCounter from '@/components/view/ViewCounter';
 import LikeButton from '@/components/like/LikeButton';
 
-export default function Honestly1(): React.JSX.Element {
+export default function HONestly1(): React.JSX.Element {
 
-  const postId = "Honestly1";
+  const postId = "HONestly1";
 
   return (<>
 
@@ -17,29 +17,26 @@ export default function Honestly1(): React.JSX.Element {
     
       <h4><HashLink smooth to="/vocabulary#adverbs-chan-thanh-terms"><mark className="highlight-tertiary-padding-4-8">ADverbs: chân thành</mark></HashLink></h4>
       
-      <h1 className="margin-y-50 text-center">honestly
-        <sup><Link to="/vocabulary/honestly-1">&nbsp;1&nbsp;</Link>
+      <h1 className="margin-y-50 text-center">HONestly
+        <sup><Link to="/vocabulary/HONestly-1">&nbsp;1&nbsp;</Link>
         </sup>
-        <sup><Link to="/vocabulary/honestly-2">&nbsp;2&nbsp;</Link>
+        <sup><Link to="/vocabulary/HONestly-2">&nbsp;2&nbsp;</Link>
         </sup>
       </h1>
 
       {/* This is the content of Vocabulary Term. */}
       
-      <p>Tuyệt vời! Chúng ta cùng khám phá từ "<strong>honestly</strong>" nhé.</p>
+      <p>Tuyệt vời! Chúng ta cùng khám phá từ "<strong>HONestly</strong>" nhé.</p>
 
       <div className="text-border1 padding-top-20 padding-bottom-10 highlight-238-padding-4-8 bee-container">
 
         <div>
 
-          <p className="margin-bottom-20"><strong>honestly</strong></p>
-
           <ul className="list-square padding-left-40">
 
             <li>
               <span className="highlight-255-padding-3-6">
-                [HONestly][HON est ly] /ˈɒnɪstli/ + /<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">honėstly</Link>/
-                &nbsp;⬤•• (3x)
+                [HONestly][<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">HON ėst ly</Link>] /ˈɒnɪstli/ ⬤•• (3x)
               </span>
             </li>
 
@@ -57,16 +54,16 @@ export default function Honestly1(): React.JSX.Element {
 
       </div>
 
-      <p className="margin-top-30 text-indent-whole">Từ "<strong>honestly</strong>" được dùng để nhấn mạnh rằng một điều gì đó được nói ra là hoàn toàn đúng sự thật, không có sự gian dối hoặc phóng đại. Nó thường được dùng để thể hiện sự chân thành, thẳng thắn của người nói.</p>
+      <p className="margin-top-30 text-indent-whole">Từ "<strong>HONestly</strong>" được dùng để nhấn mạnh rằng một điều gì đó được nói ra là hoàn toàn đúng sự thật, không có sự gian dối hoặc phóng đại. Nó thường được dùng để thể hiện sự chân thành, thẳng thắn của người nói.</p>
 
       <p className="margin-top-20 text-indent-whole">Ví dụ:</p>
 
         <ul className="list-square">
 
-          <li>______, I don't know the answer.</li>
+          <li>HONestly, i DON'T KNOW the ANswer.</li>
           <li className="margin-bottom-20 list-none">Thật sự, tôi không biết câu trả lời.</li>
 
-          <li>______, I think you should reconsider your decision.</li>
+          <li>HONestly, i THINK you should reconSIDer your deCIsion.</li>
           <li className="list-none">Thành thật mà nói, tôi nghĩ bạn nên xem xét lại quyết định của mình.</li>
 
         </ul>
@@ -83,12 +80,10 @@ export default function Honestly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Honest (adj) /ˈɒnɪst/</li>
-          <li className="list-none">He is an ______ man.</li>
+          <li>he is an HONest MAN.</li>
           <li className="margin-bottom-20 list-none">Anh ấy là một người đàn ông trung thực.</li>
 
-          <li>Honesty (n) /ˈɒnəsti/</li>
-          <li className="list-none">______ is the best policy.</li>
+          <li>HONesty is the BEST POLicy.</li>
           <li className="list-none">Trung thực là chính sách tốt nhất.</li>
 
         </ul>
@@ -105,12 +100,10 @@ export default function Honestly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li><Link to="/vocabulary/TRUly-1">Truly</Link> /ˈtruːli/</li>
-          <li className="list-none">I ______ believe in you.</li>
+          <li>i <Link to="/vocabulary/TRUly-1">TRUly</Link> beLIEVE in you.</li>
           <li className="margin-bottom-20 list-none">Tôi thực sự tin tưởng bạn.</li>
 
-          <li><Link to="/vocabulary/sinCEREly-1">Sincerely</Link> /sɪnˈsɪərli/</li>
-          <li className="list-none">I ______ apologize for my mistake.</li>
+          <li>i <Link to="/vocabulary/sinCEREly-1">sinCEREly</Link> aPOLogize for my misTAKE.</li>
           <li className="list-none">Tôi xin lỗi chân thành vì lỗi lầm của mình.</li>
 
         </ul>
@@ -129,12 +122,10 @@ export default function Honestly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Dishonestly /dɪsˈɒnɪstli/</li>
-          <li className="list-none">He lied ______ about his qualifications.</li>
+          <li>he LIED disHONestly about his qualifiCAtions.</li>
           <li className="margin-bottom-20 list-none">Anh ta đã nói dối một cách không trung thực về trình độ của mình.</li>
 
-          <li>Deceitfully /dɪˈsiːtfəli/</li>
-          <li className="list-none">She deceived him ______.</li>
+          <li>she deCEIVED him deCEITfully.</li>
           <li className="list-none">Cô ấy đã lừa dối anh ta một cách xảo quyệt.</li>
 
         </ul>
@@ -160,7 +151,7 @@ export default function Honestly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>______, I feel so grateful.</li>
+          <li>HONestly, i FEEL so GRATEful.</li>
           <li className="list-none">Thật lòng mà nói, tôi cảm thấy rất biết ơn.</li>
 
         </ul>
@@ -176,14 +167,11 @@ export default function Honestly1(): React.JSX.Element {
         <strong>&nbsp;ví dụ</strong>:
       </p>
 
-      <p className="text-indent-whole">Tạo các câu ví dụ khác nhau với từ "<strong>honestly</strong>" trong nhiều ngữ cảnh.</p>
+      <p className="text-indent-whole">Tạo các câu ví dụ khác nhau với từ "<strong>HONestly</strong>" trong nhiều ngữ cảnh.</p>
 
         <ul className="list-square">
 
-          {/* <li></li>
-          <li className="margin-bottom-20 list-none"></li> */}
-
-          <li>______, I don't care what you think.</li>
+          <li>HONestly, i DON'T CARE what you THINK.</li>
           <li className="list-none">Thật sự, tôi không quan tâm bạn nghĩ gì.</li>
 
         </ul>
@@ -205,17 +193,17 @@ export default function Honestly1(): React.JSX.Element {
 
           <ol>
 
-            <li>I like pizza.</li>
-            <li className="list-none margin-bottom-20">Tôi thích pizza.</li>
+            <li>i LIKE PIZza.</li>
+            <li className="list-none margin-bottom-20">Tôi thích PIZza.</li>
 
-            <li value="2">______, I love pizza. It's my favorite food.</li>
-            <li className="list-none margin-bottom-20">Thật sự, tôi yêu pizza. Đó là món ăn yêu thích của tôi.</li>
+            <li value="2">HONestly, i LOVE PIZza. it's my FAvorite FOOD.</li>
+            <li className="list-none margin-bottom-20">Thật sự, tôi yêu PIZza. Đó là món ăn yêu thích của tôi.</li>
 
           </ol>
 
       <div className="margin-bottom-20 padding-top-20 text-border1 padding-10 highlight-238-padding-4-8 bee-container">
 
-        <p className="margin-y-10">Sự khác biệt: Câu thứ hai sử dụng "<strong>honestly</strong>" để <span className="highlight-255-padding-0-4">nhấn mạnh mức độ yêu thích</span> của người nói đối với pizza.</p>
+        <p className="margin-y-10">Sự khác biệt: Câu thứ hai sử dụng "<strong>HONestly</strong>" để <span className="highlight-255-padding-0-4">nhấn mạnh mức độ yêu thích</span> của người nói đối với pizza.</p>
 
       </div>
 
@@ -231,11 +219,11 @@ export default function Honestly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Nhấn mạnh sự chân thật: "<strong>Honestly</strong>" thường được dùng để nhấn mạnh rằng người nói đang nói sự thật.</li>
+          <li>Nhấn mạnh sự chân thật: "<strong>HONestly</strong>" thường được dùng để nhấn mạnh rằng người nói đang nói sự thật.</li>
 
-          <li>Câu hỏi tu từ: Đôi khi, "<strong>honestly</strong>" được dùng trong câu hỏi tu từ để thể hiện sự ngạc nhiên hoặc không đồng tình.</li>
+          <li>Câu hỏi tu từ: Đôi khi, "<strong>HONestly</strong>" được dùng trong câu hỏi tu từ để thể hiện sự ngạc nhiên hoặc không đồng tình.</li>
 
-          <li>______, how could you do that?</li>
+          <li>HONestly, HOW could you DO that?</li>
           <li className="list-none margin-bottom-20">Thật sự, làm sao bạn có thể làm như vậy được?</li>
 
         </ul>

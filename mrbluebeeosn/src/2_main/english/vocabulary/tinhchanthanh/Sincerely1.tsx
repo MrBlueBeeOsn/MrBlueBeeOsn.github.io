@@ -103,7 +103,7 @@ export default function sinCEREly1(): React.JSX.Element {
           <li>i <Link to="/vocabulary/TRUly-1">TRUly</Link> beLIEVE in you.</li>
           <li className="margin-bottom-20 list-none">Tôi thật sự tin tưởng bạn.</li>
 
-          <li><Link to="/vocabulary/honestly-1">HONestly</Link>, i DON'T KNOW the ANswer.</li>
+          <li><Link to="/vocabulary/HONestly-1">HONestly</Link>, i DON'T KNOW the ANswer.</li>
           <li className="list-none">Thật lòng, tôi không biết câu trả lời.</li>
 
         </ul>
