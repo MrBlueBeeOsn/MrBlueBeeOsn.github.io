@@ -23,7 +23,7 @@ export default function VERBSADDS(): React.JSX.Element {
         <div className="example">
 
           <p className="example-sentence">
-            🟦 <span className="s">1st Person (Ngôi thứ nhất): <strong>The Speaker</strong>. This is you. You use I (singular) or We (plural).</span>
+            🟦 <span className="s">1st Person (Ngôi thứ nhất): <strong>the SPEAKer</strong>. This is you. You use I (singular) or We (plural).</span>
           </p>
 
         </div>
@@ -31,7 +31,7 @@ export default function VERBSADDS(): React.JSX.Element {
         <div className="example">
 
           <p className="example-sentence">
-            🟦 <span className="v">2nd Person (Ngôi thứ hai): <strong>The Listener</strong>. This is the person right in front of you. You use You (both singular and plural).</span>
+            🟦 <span className="v">2nd Person (Ngôi thứ hai): <strong>the LIStener</strong>. This is the person right in front of you. You use You (both singular and plural).</span>
           </p>
 
         </div>
@@ -39,15 +39,19 @@ export default function VERBSADDS(): React.JSX.Element {
         <div className="example">
 
           <p className="example-sentence">
-            🟦 <span className="o">3rd Person (Ngôi thứ ba): <strong>The Outsider</strong>. This is anyone or anything outside of the direct conversation. You are talking about them, not to them.</span>
+            🟦 <span className="o">3rd Person (Ngôi thứ ba): <strong>the outSIder</strong>. This is anyone or anything outside of the direct conversation. You are talking about them, not to them.</span>
           </p>
 
           <p className="example-sentence">
-            <span className="p">Whenever you talk about one outsider (He/She/It), you are technically "go<strong>ss</strong>iping" about them, so you must add the "<strong>S</strong>" (go<strong>SS</strong>iping) to the action: <br/>He speak<strong>s</strong> (Anh ấy nói...)<br/> She laugh<strong>s</strong> (Cô ấy cười...)<br/> It hurt<strong>s</strong> (Nó đau...)<br/> You don't add "S" when talking to the person right in front of you (You) or about yourself (I), because that is a direct conversation, not gossip!</span>
+            <span className="p">Whenever you talk about <strong>one outSIder</strong> (he/she/it), you are technically "GO<strong>Ss</strong>iping" about them, so you must add the "<strong>S</strong>" (GO<strong>Ss</strong>iping) to the action: <br/>
+            he SPEAK<strong>🆂</strong> (Anh ấy nói...)<br/>
+            she LAUGH<strong>🆂</strong> (Cô ấy cười...)<br/>
+            it HURT<strong>🆂</strong> (Nó đau...)<br/>
+            You don't add "<strong>S</strong>" when talking to the person right in front of you (You) or about yourself (I), because that is a direct conversation, not gossip!</span>
           </p>
 
           <p className="example-sentence">
-            <span className="pill s">He</span> &nbsp;<span className="pill v">She</span> &nbsp;<span className="pill o">It</span> &nbsp;<span className="pill m">One</span> &nbsp;<span className="pill p">Everyone</span> — &nbsp;<span className="pill t">go🆂🆂ping</span>
+            <span className="pill s">he</span> &nbsp;<span className="pill v">she</span> &nbsp;<span className="pill o">it</span> &nbsp;<span className="pill m">one</span> &nbsp;<span className="pill p">EVERyone</span> — &nbsp;<span className="pill t">GO🆂siping</span>
           </p>
 
         </div>
