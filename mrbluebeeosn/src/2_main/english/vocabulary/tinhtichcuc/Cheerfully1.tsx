@@ -86,7 +86,7 @@ export default function CHEERfully1(): React.JSX.Element {
           <li>her CHEER BRIGHtened UP the ROOM.</li>
           <li className="margin-bottom-20 list-none">Sự vui vẻ của cô ấy làm căn phòng sáng bừng lên.</li>
 
-          <li>she HAS a CHEERful persoNALity.</li>
+          <li>she has a CHEERful persoNALity.</li>
           <li className="list-none">Cô ấy có một tính cách vui vẻ.</li>
 
         </ul>

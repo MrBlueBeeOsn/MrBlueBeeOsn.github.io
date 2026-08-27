@@ -82,7 +82,7 @@ export default function RAPidly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>the RIVer HAS a RAPid CURrent.</li>
+          <li>the RIVer has a RAPid CURrent.</li>
           <li className="margin-bottom-20 list-none">Con sông có dòng chảy siết.</li>
 
           <li>the raPIDity of CHANGE surPRISED us.</li>

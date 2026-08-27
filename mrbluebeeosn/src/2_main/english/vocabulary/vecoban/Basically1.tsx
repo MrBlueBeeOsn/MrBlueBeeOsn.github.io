@@ -65,7 +65,7 @@ export default function BAsically1(): React.JSX.Element {
           <li>BAsically, i JUST WANT to reLAX.</li>
           <li className="margin-bottom-20 list-none">Về cơ bản, tôi chỉ muốn thư giãn.</li>
 
-          <li>BAsically, the PROBlem is that we DON'T HAVE eNOUGH MONey.</li>
+          <li>BAsically, the PROBlem is that we DON'T have eNOUGH MONey.</li>
           <li className="list-none">Về cơ bản, vấn đề là chúng ta không đủ tiền.</li>
 
         </ul>

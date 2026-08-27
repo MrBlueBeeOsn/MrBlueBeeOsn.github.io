@@ -154,7 +154,7 @@ export default function BEAUtiful(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>we HAD a [LOVEly] afterNOON WALKing through the boTANical GARdens.</li>
+          <li>we had a [LOVEly] afterNOON WALKing through the boTANical GARdens.</li>
           <li className="list-none">Chúng tôi đã có một buổi chiều dễ chịu khi đi dạo qua các vườn bách thảo.</li>
 
         </ul>

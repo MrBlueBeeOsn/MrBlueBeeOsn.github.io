@@ -93,7 +93,7 @@ export default function POSitively1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>he HAS a POSitive ATtitude.</li>
+          <li>he has a POSitive ATtitude.</li>
           <li className="margin-bottom-20 list-none">Anh ấy có thái độ tích cực.</li>
 
           <li>the TEST reSULT was POSitive.</li>

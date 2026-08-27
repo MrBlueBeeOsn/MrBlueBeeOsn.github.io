@@ -59,7 +59,7 @@ export default function DELicately2(): React.JSX.Element {
         <li value="1">the Ecosystem was DELicately BALanced before HUman interVENtion.</li>
         <li className="list-none margin-bottom-20">Hệ sinh thái đã được cân bằng một cách tinh tế trước khi con người can thiệp.</li>
 
-        <li value="2">the TEA HAS a DELicately FLORal aROma.</li>
+        <li value="2">the TEA has a DELicately FLORal aROma.</li>
         <li className="list-none margin-bottom-20">Trà có hương thơm hoa rất tinh tế.</li>
 
         <li value="3">the PAINting was DELicately SHAded, creAting a SOFT, eTHEreal ATmosphere.</li>

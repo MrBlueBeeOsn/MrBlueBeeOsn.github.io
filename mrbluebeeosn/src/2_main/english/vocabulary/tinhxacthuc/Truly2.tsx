@@ -80,7 +80,7 @@ export default function TRUly2(): React.JSX.Element {
 				<li value="8">i am TRUly GRATEful for your supPORT.</li>
 				<li className="list-none margin-bottom-20">Tôi thật sự biết ơn sự ủng hộ của bạn.</li>
 
-				<li value="9">i FEEL TRUly BLESSED to HAVE such GOOD FRIENDS.</li>
+				<li value="9">i FEEL TRUly BLESSED to have such GOOD FRIENDS.</li>
 				<li className="list-none margin-bottom-20">Tôi cảm thấy thật sự may mắn khi có những người bạn tốt như vậy.</li>
 
 				<li value="10">it was a TRUly unforGETtable exPERience.</li>

@@ -171,7 +171,7 @@ export default function NhanBietTinhTuTiengAnh(): React.JSX.Element {
 					<li>he PLANNED a <strong>roMANtic</strong> DINner by the BEACH with CANdles and SOFT MUsic.</li>
 					<li className="margin-bottom-20 list-none">Anh ấy đã lên kế hoạch cho một bữa tối <strong>lãng mạn</strong> bên bờ biển với nến và âm nhạc du dương.</li>
 			
-					<li>STRESS and anXIety can HAVE SERious <strong>psychoLOgical</strong> and PHYSical efFECTS on a PERson.</li>
+					<li>STRESS and anXIety can have SERious <strong>psychoLOgical</strong> and PHYSical efFECTS on a PERson.</li>
 					<li className="list-none">Căng thẳng và lo âu có thể gây ra những ảnh hưởng nghiêm trọng về mặt <strong>tâm lý</strong> và thể chất đối với một người.</li>
 			
 				</ul>
@@ -190,7 +190,7 @@ export default function NhanBietTinhTuTiengAnh(): React.JSX.Element {
 					<li>the MARketing TEAM CAME UP with a <strong>creAtive</strong> camPAIGN to atTRACT YOUNGer CUStomers.</li>
 					<li className="margin-bottom-20 list-none">Đội ngũ tiếp thị đã đưa ra một chiến dịch <strong>sáng tạo</strong> để thu hút khách hàng trẻ tuổi.</li>
 
-					<li>the hisTORical TOWN HAS MAny ANcient BUILDings and an <strong>atTRACtive</strong> OLD-WORLD CHARM.</li>
+					<li>the hisTORical TOWN has MAny ANcient BUILDings and an <strong>atTRACtive</strong> OLD-WORLD CHARM.</li>
 					<li className="margin-bottom-20 list-none">Thị trấn lịch sử này có rất nhiều tòa nhà cổ và một vẻ đẹp <strong>quyến rũ</strong> mang hơi hướng hoài cổ.</li>
 			
 					<li>REGular HANDwashing is ONE of the MOST <strong>efFECtive</strong> WAYS to preVENT the SPREAD of ILLness.</li>

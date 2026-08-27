@@ -191,10 +191,10 @@ export default function ACtually1(): React.JSX.Element {
 
           <ol>
 
-            <li>i THINK i'll HAVE the PIZza.</li>
+            <li>i THINK i'll have the PIZza.</li>
             <li className="list-none margin-bottom-20">Tôi nghĩ tôi sẽ ăn pizza.</li>
 
-            <li value="2">ACtually, i'm FEELing KIND of HUNgry, so i'll HAVE the BURger.</li>
+            <li value="2">ACtually, i'm FEELing KIND of HUNgry, so i'll have the BURger.</li>
             <li className="list-none margin-bottom-20">Thực ra, tôi cảm thấy hơi đói, vì vậy tôi sẽ ăn hamburger.</li>
 
           </ol>

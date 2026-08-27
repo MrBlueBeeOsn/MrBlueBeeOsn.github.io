@@ -80,7 +80,7 @@ export default function (): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>he HAS a GENuine INterest in ART.</li>
+          <li>he has a GENuine INterest in ART.</li>
           <li className="margin-bottom-20 list-none">Anh ấy có một sự quan tâm chân thành đến nghệ thuật.</li>
 
           <li>the WIND TURbine GENerates elecTRICity.</li>

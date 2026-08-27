@@ -336,30 +336,6 @@ export default function IrregularVerbs(): React.JSX.Element {
 								<td>lái xe</td>
 						</tr>
 
-						<tr>
-								<td>38</td>
-								<td>breaks</td>
-								<td>broke</td>
-								<td>broken</td>
-								<td>làm vỡ, hỏng</td>
-						</tr>
-
-						<tr>
-								<td>39</td>
-								<td>chooses</td>
-								<td>chose</td>
-								<td>chosen</td>
-								<td>chọn</td>
-						</tr>
-
-						<tr>
-								<td>40</td>
-								<td>forgets</td>
-								<td>forgot</td>
-								<td>forgotten</td>
-								<td>quên</td>
-						</tr>
-
 
 						
 					</tbody>
@@ -1054,78 +1030,78 @@ export default function IrregularVerbs(): React.JSX.Element {
 				</ul>
 
 			
-			<h4 className="margin-y-40">37. </h4>
+			<h4 className="margin-y-40">37. DRIVE</h4>
 			
 				<ul className="list-square">
 			
-					<li></li>
-					<li className="list-none"></li>
-					<li className="margin-bottom-20 list-none"></li>
+					<li>he <strong>DRIVES</strong> to WORK every MORning.</li>
+					<li className="list-none">Anh ấy lái xe đi làm mỗi buổi sáng.</li>
+					<li className="margin-bottom-20 list-none">Dùng thời hiện tại đơn với dạng DRIVES (cho chủ thể ngôi thứ ba số ít he) để chỉ thói quen hoặc sự việc diễn ra theo quy luật.</li>
 			
-					<li></li>
-					<li className="list-none"></li>
-					<li className="margin-bottom-20 list-none"></li>
+					<li>she <strong>DROVE</strong> to the COUNtryside LAST WEEKend.</li>
+					<li className="list-none">Cô ấy đã lái xe về vùng quê vào cuối tuần trước.</li>
+					<li className="margin-bottom-20 list-none">Dùng thời quá khứ đơn với dạng DROVE để chỉ việc đã xảy ra và kết thúc trong quá khứ.</li>
 			
-					<li></li>
-					<li className="list-none"></li>
-					<li className="list-none"></li>
+					<li>hey <strong>have DRIVen</strong> for FIVE HOURS STRAIGHT.</li>
+					<li className="list-none">Họ đã lái xe suốt năm tiếng đồng hồ.</li>
+					<li className="list-none">Cấu trúc này dùng dạng hoàn thành với have DRIVen, nói về sự việc đã hoàn tất và liên quan đến hiện tại.</li>
 			
 				</ul>
 
 			
-			<h4 className="margin-y-40">38. </h4>
+			<h4 className="margin-y-40">38. BREAK</h4>
 			
 				<ul className="list-square">
 			
-					<li></li>
-					<li className="list-none"></li>
-					<li className="margin-bottom-20 list-none"></li>
+					<li>he <strong>BREAKS</strong> the RECord every YEAR.</li>
+					<li className="list-none">Anh ấy <strong>phá</strong> kỷ lục mỗi năm.</li>
+					<li className="margin-bottom-20 list-none">Dùng thời hiện tại đơn với dạng BREAKS (cho chủ thể ngôi thứ ba số ít he) để chỉ sự việc diễn ra theo quy luật.</li>
 			
-					<li></li>
-					<li className="list-none"></li>
-					<li className="margin-bottom-20 list-none"></li>
+					<li>she <strong>BROKE</strong> her FAvorite COFfee CUP LAST DAY.</li>
+					<li className="list-none">Cô ấy <strong>đã làm vỡ</strong> chiếc cốc uống cà phê yêu thích của mình vào ngày hôm qua.</li>
+					<li className="margin-bottom-20 list-none">Dùng thời quá khứ đơn với dạng BROKE để chỉ việc đã xảy ra và kết thúc trong quá khứ.</li>
 			
-					<li></li>
-					<li className="list-none"></li>
-					<li className="list-none"></li>
+					<li>they <strong>have BROken</strong> the OLD maCHINE comPLETEly.</li>
+					<li className="list-none">Họ <strong>đã làm hỏng</strong> chiếc máy cũ hoàn toàn.</li>
+					<li className="list-none">Cấu trúc này dùng dạng hoàn thành với have BROken, nói về sự việc đã hoàn tất và liên quan đến hiện tại.</li>
 			
 				</ul>
 
 
-			<h4 className="margin-y-40">39. </h4>
+			<h4 className="margin-y-40">39. CHOOSE</h4>
 			
 				<ul className="list-square">
 			
-					<li></li>
-					<li className="list-none"></li>
-					<li className="margin-bottom-20 list-none"></li>
+					<li>she <strong>CHOOses</strong> the BEST OPtion for the PROJect.</li>
+					<li className="list-none">Cô ấy <strong>chọn</strong> lựa chọn tốt nhất cho dự án.</li>
+					<li className="margin-bottom-20 list-none">Dùng thời hiện tại đơn với dạng CHOOses (cho chủ thể ngôi thứ ba số ít she ) để chỉ sự việc diễn ra theo quy luật.</li>
 			
-					<li></li>
-					<li className="list-none"></li>
-					<li className="margin-bottom-20 list-none"></li>
+					<li>he <strong>CHOSE</strong> a NEW CAR LAST WEEK.</li>
+					<li className="list-none">Anh ấy <strong>đã chọn</strong> một chiếc xe hơi mới vào tuần trước.</li>
+					<li className="margin-bottom-20 list-none">Dùng thời quá khứ đơn với dạng CHOSE để chỉ việc đã xảy ra và kết thúc trong quá khứ.</li>
 			
-					<li></li>
-					<li className="list-none"></li>
-					<li className="list-none"></li>
+					<li>they <strong>have CHOsen</strong> the WINning TEAM.</li>
+					<li className="list-none">Họ <strong>đã chọn</strong> ra đội chiến thắng.</li>
+					<li className="list-none">Cấu trúc này dùng dạng hoàn thành với have CHOsen, nói về sự việc đã hoàn tất và liên quan đến hiện tại.</li>
 			
 				</ul>
 
 
-			<h4 className="margin-y-40">40. </h4>
+			<h4 className="margin-y-40">40. forGET</h4>
 			
 				<ul className="list-square">
 			
-					<li></li>
-					<li className="list-none"></li>
-					<li className="margin-bottom-20 list-none"></li>
+					<li>he <strong>forGETS</strong> his KEYS ALmost every DAY.</li>
+					<li className="list-none">Anh ấy <strong>quên</strong> chìa khóa của mình hầu như mỗi ngày.</li>
+					<li className="margin-bottom-20 list-none">Dùng thời hiện tại đơn với dạng forGETS (cho chủ thể ngôi thứ ba số ít he) để chỉ sự việc diễn ra theo quy luật.</li>
 			
-					<li></li>
-					<li className="list-none"></li>
-					<li className="margin-bottom-20 list-none"></li>
+					<li>she <strong>forGOT</strong> to rePLY to my MESsage YESterday.</li>
+					<li className="list-none">Cô ấy <strong>đã quên</strong> trả lời tin nhắn của tôi vào ngày hôm qua.</li>
+					<li className="margin-bottom-20 list-none">Dùng thời quá khứ đơn với dạng forGOT để chỉ việc đã xảy ra và kết thúc trong quá khứ.</li>
 			
-					<li></li>
-					<li className="list-none"></li>
-					<li className="list-none"></li>
+					<li>they <strong>have forGOTten</strong> all about the apPOINTment.</li>
+					<li className="list-none">Họ <strong>đã quên</strong> hết về cuộc hẹn đó rồi.</li>
+					<li className="list-none">Cấu trúc này dùng dạng hoàn thành với have forGOTten, nói về sự việc đã hoàn tất và liên quan đến hiện tại.</li>
 			
 				</ul>
 			

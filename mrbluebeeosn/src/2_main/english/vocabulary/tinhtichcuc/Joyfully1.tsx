@@ -83,7 +83,7 @@ export default function JOYfully1(): React.JSX.Element {
           <li>the CHILdren FELT GREAT JOY at reCEIVinɡ the GIFTS.</li>
           <li className="margin-bottom-20 list-none">Những đứa trẻ cảm thấy rất vui khi nhận được quà.</li>
 
-          <li>she HAD a JOYful exPRESsion on her FACE.</li>
+          <li>she had a JOYful exPRESsion on her FACE.</li>
           <li className="list-none">Cô ấy có một biểu cảm vui mừng trên khuôn mặt.</li>
 
         </ul>
