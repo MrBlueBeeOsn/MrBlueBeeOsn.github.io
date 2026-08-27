@@ -257,7 +257,7 @@ export default function PhrasalVerbs(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>MANy PEOple <strong>GIVE UP</strong> EAsily when THINGS <strong>GET TOUGH</strong>.</li>
+					<li>many PEOple <strong>GIVE UP</strong> EAsily when THINGS <strong>GET TOUGH</strong>.</li>
 					<li className="list-none">Nhiều người dễ dàng <strong>từ bỏ</strong> khi mọi thứ trở nên <strong>khó khăn</strong>.</li>
 			
 				</ul>

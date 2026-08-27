@@ -1176,7 +1176,7 @@ export default function IrregularVerbs(): React.JSX.Element {
 					<li className="list-none">Cô ấy <strong>đã bơi</strong> qua sông vào ngày hôm qua.</li>
 					<li className="margin-bottom-20 list-none">Dùng thời quá khứ đơn với dạng SWAM để chỉ việc đã xảy ra và kết thúc trong quá khứ.</li>
 			
-					<li>they <strong>have SWUM</strong> in this LAKE MANy TIMES.</li>
+					<li>they <strong>have SWUM</strong> in this LAKE many TIMES.</li>
 					<li className="list-none">Họ <strong>đã bơi</strong> ở cái hồ này nhiều lần.</li>
 					<li className="list-none">Cấu trúc này dùng dạng hoàn thành với have SWUM, nói về sự việc đã hoàn tất và liên quan đến hiện tại.</li>
 			

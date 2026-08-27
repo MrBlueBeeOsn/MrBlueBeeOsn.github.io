@@ -1232,10 +1232,10 @@ export default function VocabularyIndex(): React.JSX.Element {
 						</li>
 
 						<li>
-							<Link to="/vocabulary/openly-1">openly
+							<Link to="/vocabulary/Openly-1">Openly
 								<sup>&nbsp;1&nbsp;</sup>
 									</Link> 
-									<Link to="/vocabulary/openly-2">
+									<Link to="/vocabulary/Openly-2">
 								<sup>&nbsp;2&nbsp;</sup>
 							</Link>
 						</li>

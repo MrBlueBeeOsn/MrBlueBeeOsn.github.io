@@ -1119,8 +1119,8 @@ export default function AppRoutes(): React.JSX.Element {
 					<Route path="/vocabulary/honestly-2" element={<Honestly2 />} />
 					<Route path="/vocabulary/faithfully-1" element={<Faithfully1 />} />
 					<Route path="/vocabulary/faithfully-2" element={<Faithfully2 />} />
-					<Route path="/vocabulary/openly-1" element={<Openly1 />} />
-					<Route path="/vocabulary/openly-2" element={<Openly2 />} />
+					<Route path="/vocabulary/Openly-1" element={<Openly1 />} />
+					<Route path="/vocabulary/Openly-2" element={<Openly2 />} />
 
 					{/* 17. Vocabulary - Điểm nhấn đặc biệt */}
 					<Route path="/vocabulary/especially-1" element={<Especially1 />} />

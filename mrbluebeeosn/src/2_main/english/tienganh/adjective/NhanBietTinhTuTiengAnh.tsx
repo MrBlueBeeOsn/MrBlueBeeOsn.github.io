@@ -69,7 +69,7 @@ export default function NhanBietTinhTuTiengAnh(): React.JSX.Element {
 					<li>my MOTHer BAKED a <strong>deLICious</strong> CHOCOlate CAKE for my BIRTHday PARty.</li>
 					<li className="margin-bottom-20 list-none">Mẹ tôi đã nướng một chiếc bánh sô-cô-la <strong>ngon tuyệt</strong> cho bữa tiệc sinh nhật của tôi.</li>
 			
-					<li>CHILdren are NATurally <strong>CURious</strong> about the WORLD around them and ALWAYS ASK MANy QUEStions.</li>
+					<li>CHILdren are NATurally <strong>CURious</strong> about the WORLD around them and ALWAYS ASK many QUEStions.</li>
 					<li className="margin-bottom-20 list-none">Trẻ em vốn dĩ <strong>tò mò</strong> về thế giới xung quanh và luôn đặt ra rất nhiều câu hỏi.</li>
 			
 					<li>the COMpany MADE an <strong>eNORmous</strong> PROFit this YEAR after LAUNCHing their NEW PRODuct LINE.</li>
@@ -140,7 +140,7 @@ export default function NhanBietTinhTuTiengAnh(): React.JSX.Element {
 					<li>she KEEPS her <strong>PERsonal</strong> DIary LOCKED in a DRAWer where NO ONE ELSE can READ it.</li>
 					<li className="margin-bottom-20 list-none">Cô ấy giữ cuốn nhật ký <strong>cá nhân</strong> của mình khóa trong một ngăn kéo nơi không ai khác có thể đọc được.</li>
 
-					<li>HONey is a deLICious and HEALthy <strong>NATural</strong> SWEETener USED in MANy RECipes.</li>
+					<li>HONey is a deLICious and HEALthy <strong>NATural</strong> SWEETener USED in many RECipes.</li>
 					<li className="margin-bottom-20 list-none">Mật ong là một chất làm ngọt <strong>tự nhiên</strong> ngon miệng và lành mạnh được sử dụng trong nhiều công thức nấu ăn.</li>
 			
 					<li>volunTEERing at the LOcal FOOD BANK is a GREAT WAY to BUILD STRONG <strong>SOcial</strong> conNECtions.</li>

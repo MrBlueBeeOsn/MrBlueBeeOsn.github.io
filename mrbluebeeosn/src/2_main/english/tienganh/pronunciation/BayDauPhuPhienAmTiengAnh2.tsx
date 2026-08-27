@@ -311,7 +311,7 @@ export default function BayDauPhuPhienAmTiengAnh2(): React.JSX.Element {
 
             <ul className="list-square">
 
-              <li>[MANy][MĀ̄N y] /ˈmen.i/</li>
+              <li>[many][MĀ̄N y] /ˈmen.i/</li>
               <li>[LIbrary][LĪ brā̄r y] /ˈlaɪ.brer.i/</li>
               <li>[SQUARE][SQUĀ̄RE] /skwer/ (<HashLink smooth to="#ga">GA</HashLink>)</li>
               <li className="list-none margin-bottom-50">[SQUARE][SQUĀ̄RE] /skweər/ (<HashLink smooth to="#rp">RP</HashLink>)</li>
