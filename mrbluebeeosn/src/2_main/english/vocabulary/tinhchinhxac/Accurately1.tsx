@@ -105,7 +105,7 @@ export default function Accurately1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li><Link to="/vocabulary/exactly-1">Exactly</Link> /ɪɡˈzæktli/</li>
+          <li><Link to="/vocabulary/exACTly-1">Exactly</Link> /ɪɡˈzæktli/</li>
           <li className="list-none">I know ______ what you mean.</li>
           <li className="margin-bottom-20 list-none">Tôi hiểu chính xác ý của bạn.</li>
 
