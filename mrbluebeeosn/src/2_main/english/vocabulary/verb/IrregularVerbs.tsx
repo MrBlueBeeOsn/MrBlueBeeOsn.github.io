@@ -240,45 +240,6 @@ export default function IrregularVerbs(): React.JSX.Element {
 								<td>cho phép</td>
 						</tr>
 
-						<tr>
-								<td>26</td>
-								<td>sets</td>
-								<td>set</td>
-								<td>set</td>
-								<td>đặt, thiết lập</td>
-						</tr>
-
-						<tr>
-								<td>27</td>
-								<td>reads</td>
-								<td>read [red]</td>
-								<td>read [red]</td>
-								<td>đọc</td>
-						</tr>
-
-						<tr>
-								<td>28</td>
-								<td>buys</td>
-								<td>bought</td>
-								<td>bought</td>
-								<td>mua</td>
-						</tr>
-
-						<tr>
-								<td>29</td>
-								<td>sits</td>
-								<td>sat</td>
-								<td>sat</td>
-								<td>ngồi</td>
-						</tr>
-
-						<tr>
-								<td>30</td>
-								<td>stands</td>
-								<td>stood</td>
-								<td>stood</td>
-								<td>đứng</td>
-						</tr>
 
 						
 					</tbody>
@@ -763,97 +724,97 @@ export default function IrregularVerbs(): React.JSX.Element {
 				</ul>
 			
 			
-			<h4 className="margin-y-40">26. </h4>
+			<h4 className="margin-y-40">26. SET</h4>
 			
 				<ul className="list-square">
 			
-					<li></li>
-					<li className="list-none"></li>
-					<li className="margin-bottom-20 list-none"></li>
+					<li>he <strong>SETS</strong> a CLEAR GOAL at the beGINning of EVERy MONTH.</li>
+					<li className="list-none">Anh ấy <strong>đặt ra</strong> một mục tiêu rõ ràng vào đầu mỗi tháng.</li>
+					<li className="margin-bottom-20 list-none">Dùng thời hiện tại đơn với dạng SETS (cho chủ thể ngôi thứ ba số ít he) để chỉ thói quen hoặc sự việc diễn ra theo quy luật.</li>
 			
-					<li></li>
-					<li className="list-none"></li>
-					<li className="margin-bottom-20 list-none"></li>
+					<li>she <strong>SET</strong> her aLARM CLOCK EARly YESterday.</li>
+					<li className="list-none">Cô ấy <strong>đã đặt</strong> đồng hồ báo thức sớm vào ngày hôm qua.</li>
+					<li className="margin-bottom-20 list-none">Dùng thời quá khứ đơn với dạng SET để chỉ việc đã xảy ra và kết thúc trong quá khứ.</li>
 			
-					<li></li>
-					<li className="list-none"></li>
-					<li className="list-none"></li>
+					<li>they <strong>have SET</strong> ALL the RULES for the NEW PROJect.</li>
+					<li className="list-none">Họ <strong>đã thiết lập</strong> tất cả các quy tắc cho dự án mới rồi.</li>
+					<li className="list-none">Cấu trúc này dùng dạng hoàn thành với have SET, nói về sự việc đã hoàn tất và liên quan đến hiện tại.</li>
 			
 				</ul>
 
 			
-			<h4 className="margin-y-40">27. </h4>
+			<h4 className="margin-y-40">27. READ</h4>
 			
 				<ul className="list-square">
 			
-					<li></li>
-					<li className="list-none"></li>
-					<li className="margin-bottom-20 list-none"></li>
+					<li>he <strong>READS</strong> SPEcialized TECHnical BLOGS EVERy EVENing.</li>
+					<li className="list-none">Anh ấy <strong>đọc</strong> các blog kỹ thuật chuyên ngành vào mỗi buổi tối.</li>
+					<li className="margin-bottom-20 list-none">Dùng thời hiện tại đơn với dạng READS (cho chủ thể ngôi thứ ba số ít he) để chỉ thói quen hoặc sự việc diễn ra theo quy luật.</li>
 			
-					<li></li>
-					<li className="list-none"></li>
-					<li className="margin-bottom-20 list-none"></li>
+					<li>she <strong>READ</strong> an INteresting BOOK LAST WEEK.</li>
+					<li className="list-none">Cô ấy <strong>đã đọc</strong> một cuốn sách hay vào tuần trước.</li>
+					<li className="margin-bottom-20 list-none">Dùng thời quá khứ đơn với dạng READ (phát âm là /red/) để chỉ việc đã xảy ra và kết thúc trong quá khứ.</li>
 			
-					<li></li>
-					<li className="list-none"></li>
-					<li className="list-none"></li>
+					<li>they <strong>have READ</strong> the NEW PROJect GUIDElines THORoughly.</li>
+					<li className="list-none">Họ <strong>đã đọc</strong> kỹ các hướng dẫn dự án mới rồi.</li>
+					<li className="list-none">Cấu trúc này dùng dạng hoàn thành với have READ (phát âm là /red/), nói về sự việc đã hoàn tất và liên quan đến hiện tại.</li>
 			
 				</ul>
 
 			
-			<h4 className="margin-y-40">28. </h4>
+			<h4 className="margin-y-40">28. BUY</h4>
 			
 				<ul className="list-square">
 			
-					<li></li>
-					<li className="list-none"></li>
-					<li className="margin-bottom-20 list-none"></li>
+					<li>he <strong>BUYS</strong> FRESH roBUSta BEANS EVERy MONTH.</li>
+					<li className="list-none">Anh ấy <strong>mua</strong> hạt cà phê robusta tươi mỗi tháng.</li>
+					<li className="margin-bottom-20 list-none">Dùng thời hiện tại đơn với dạng BUYS (cho chủ thể ngôi thứ ba số ít he) để chỉ thói quen hoặc sự việc diễn ra theo quy luật.</li>
 			
-					<li></li>
-					<li className="list-none"></li>
-					<li className="margin-bottom-20 list-none"></li>
+					<li>she <strong>BOUGHT</strong> a NEW CAST IRON PAN YESterday.</li>
+					<li className="list-none">Cô ấy <strong>đã mua</strong> một chiếc chảo gang mới vào ngày hôm qua.</li>
+					<li className="margin-bottom-20 list-none">Dùng thời quá khứ đơn với dạng BOUGHT để chỉ việc đã xảy ra và kết thúc trong quá khứ.</li>
 			
-					<li></li>
-					<li className="list-none"></li>
-					<li className="list-none"></li>
+					<li>they <strong>have BOUGHT</strong> ALL the NECessary inGREdients.</li>
+					<li className="list-none">Họ <strong>đã mua</strong> tất cả các nguyên liệu cần thiết rồi.</li>
+					<li className="list-none">Cấu trúc này dùng dạng hoàn thành với have BOUGHT, nói về sự việc đã hoàn tất và liên quan đến hiện tại.</li>
 			
 				</ul>
 
 
-			<h4 className="margin-y-40">29. </h4>
+			<h4 className="margin-y-40">29. SIT</h4>
 			
 				<ul className="list-square">
 			
-					<li></li>
-					<li className="list-none"></li>
-					<li className="margin-bottom-20 list-none"></li>
+					<li>he <strong>SITS</strong> at his DESK EVERy MORNing to WORK.</li>
+					<li className="list-none">Anh ấy <strong>ngồi</strong> vào bàn làm việc của mình vào mỗi buổi sáng.</li>
+					<li className="margin-bottom-20 list-none">Dùng thời hiện tại đơn với dạng SITS (cho chủ thể ngôi thứ ba số ít he) để chỉ thói quen hoặc sự việc diễn ra theo quy luật.</li>
 			
-					<li></li>
-					<li className="list-none"></li>
-					<li className="margin-bottom-20 list-none"></li>
+					<li>she <strong>SAT</strong> on the BENCH in the PARK YESterday.</li>
+					<li className="list-none">Cô ấy <strong>đã ngồi</strong> trên băng ghế ở công viên vào ngày hôm qua.</li>
+					<li className="margin-bottom-20 list-none">Dùng thời quá khứ đơn với dạng SAT để chỉ việc đã xảy ra và kết thúc trong quá khứ.</li>
 			
-					<li></li>
-					<li className="list-none"></li>
-					<li className="list-none"></li>
+					<li>they <strong>have SAT</strong> in the MEETing ROOM for over an HOUR.</li>
+					<li className="list-none">Họ <strong>đã ngồi</strong> trong phòng họp hơn một tiếng đồng hồ rồi.</li>
+					<li className="list-none">Cấu trúc này dùng dạng hoàn thành với have SAT, nói về sự việc đã hoàn tất và liên quan đến hiện tại.</li>
 			
 				</ul>
 
 			
-			<h4 className="margin-y-40">30. </h4>
+			<h4 className="margin-y-40">30. STAND</h4>
 			
 				<ul className="list-square">
 			
-					<li></li>
-					<li className="list-none"></li>
-					<li className="margin-bottom-20 list-none"></li>
+					<li>he <strong>STANDS</strong> by the WINdow EVERy MORNing to WATCH the SUNrise.</li>
+					<li className="list-none">Anh ấy <strong>đứng</strong> cạnh cửa sổ vào mỗi buổi sáng để ngắm bình minh.</li>
+					<li className="margin-bottom-20 list-none">Dùng thời hiện tại đơn với dạng STANDS (cho chủ thể ngôi thứ ba số ít he) để chỉ thói quen hoặc sự việc diễn ra theo quy luật.</li>
 			
-					<li></li>
-					<li className="list-none"></li>
-					<li className="margin-bottom-20 list-none"></li>
+					<li>she <strong>STOOD</strong> in the RAIN for a LONG TIME YESterday.</li>
+					<li className="list-none">Cô ấy <strong>đã đứng</strong> dưới cơn mưa trong một thời gian dài vào ngày hôm qua.</li>
+					<li className="margin-bottom-20 list-none">Dùng thời quá khứ đơn với dạng STOOD để chỉ việc đã xảy ra và kết thúc trong quá khứ.</li>
 			
-					<li></li>
-					<li className="list-none"></li>
-					<li className="list-none"></li>
+					<li>they <strong>have STOOD</strong> FIRM against ALL the DIFficulties.</li>
+					<li className="list-none">Họ <strong>đã đứng</strong> vững vàng trước mọi khó khăn.</li>
+					<li className="list-none">Cấu trúc này dùng dạng hoàn thành với have STOOD, nói về sự việc đã hoàn tất và liên quan đến hiện tại.</li>
 			
 				</ul>
 			
@@ -1516,7 +1477,7 @@ export default function IrregularVerbs(): React.JSX.Element {
 			
 					<li>Nhóm đổi nguyên âm: sings-sang-sung / drinks-drank-drunk / swims-swam-swum</li>
 			
-					<li>Nhóm V2 & V3 giống nhau: buys-bought-bought / brings-brought-brought</li>
+					<li>Nhóm V2 & V3 giống nhau: BUYS-BOUGHT-BOUGHT / brings-brought-brought</li>
 
 					<li>Nhóm “đi & đến” đặc biệt: goes-went-gone / comes-came-come</li>
 			
