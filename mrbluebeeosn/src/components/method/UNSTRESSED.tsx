@@ -121,6 +121,14 @@ export default function VERBSADDS(): React.JSX.Element {
 
         </div>
 
+        <p className="example-sentence">
+            <span className="pill s">[YOgurt][YŌ gurt]</span> &nbsp;<span className="pill p">YO: LONG, Open SPACE</span> &nbsp;<span className="pill v">/ˈjoʊɡərt/</span>
+        </p>
+
+        <p className="example-sentence">
+            <span className="pill s">[YOGurt][YOG urt]</span> &nbsp;<span className="pill p">YOG: SHORT, CLOSED SPACE</span> &nbsp;<span className="pill v">/ˈjɒɡət/</span>
+        </p>
+
 
 
       </p>
