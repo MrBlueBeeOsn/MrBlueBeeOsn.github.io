@@ -508,8 +508,8 @@ const Posts = lazy(() => import('@/data/Posts'));
 	const Tomorrow2 = lazy(() => import('@/2_main/english/vocabulary/thoigiantuonglai/Tomorrow2'));
 
 	// 16. Vocabulary - Tính chân thành
-	const Sincerely1 = lazy(() => import('@/2_main/english/vocabulary/tinhchanthanh/Sincerely1'));
-	const Sincerely2 = lazy(() => import('@/2_main/english/vocabulary/tinhchanthanh/Sincerely2'));
+	const SinCEREly1 = lazy(() => import('@/2_main/english/vocabulary/tinhchanthanh/sinCEREly1'));
+	const SinCEREly2 = lazy(() => import('@/2_main/english/vocabulary/tinhchanthanh/sinCEREly2'));
 	const Honestly1 = lazy(() => import('@/2_main/english/vocabulary/tinhchanthanh/Honestly1'));
 	const Honestly2 = lazy(() => import('@/2_main/english/vocabulary/tinhchanthanh/Honestly2'));
 	const Faithfully1 = lazy(() => import('@/2_main/english/vocabulary/tinhchanthanh/Faithfully1'));
@@ -1113,8 +1113,8 @@ export default function AppRoutes(): React.JSX.Element {
 					<Route path="/vocabulary/tomorrow-2" element={<Tomorrow2 />} />
 
 					{/* 16. Vocabulary - Tính chân thành */}
-					<Route path="/vocabulary/sincerely-1" element={<Sincerely1 />} />
-					<Route path="/vocabulary/sincerely-2" element={<Sincerely2 />} />
+					<Route path="/vocabulary/sinCEREly-1" element={<SinCEREly1 />} />
+					<Route path="/vocabulary/sinCEREly-2" element={<SinCEREly2 />} />
 					<Route path="/vocabulary/honestly-1" element={<Honestly1 />} />
 					<Route path="/vocabulary/honestly-2" element={<Honestly2 />} />
 					<Route path="/vocabulary/faithfully-1" element={<Faithfully1 />} />

@@ -109,7 +109,7 @@ export default function Honestly1(): React.JSX.Element {
           <li className="list-none">I ______ believe in you.</li>
           <li className="margin-bottom-20 list-none">Tôi thực sự tin tưởng bạn.</li>
 
-          <li><Link to="/vocabulary/sincerely-1">Sincerely</Link> /sɪnˈsɪərli/</li>
+          <li><Link to="/vocabulary/sinCEREly-1">Sincerely</Link> /sɪnˈsɪərli/</li>
           <li className="list-none">I ______ apologize for my mistake.</li>
           <li className="list-none">Tôi xin lỗi chân thành vì lỗi lầm của mình.</li>
 

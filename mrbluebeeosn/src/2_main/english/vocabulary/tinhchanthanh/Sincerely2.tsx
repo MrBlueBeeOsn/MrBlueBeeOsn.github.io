@@ -5,9 +5,9 @@ import EyeIcon from '@/components/view/EyeIcon';
 import ViewCounter from '@/components/view/ViewCounter';
 import LikeButton from '@/components/like/LikeButton';
 
-export default function Sincerely2(): React.JSX.Element {
+export default function sinCEREly2(): React.JSX.Element {
 
-  const postId = "Sincerely2";
+  const postId = "sinCEREly2";
 
   return (<>
 
@@ -17,18 +17,18 @@ export default function Sincerely2(): React.JSX.Element {
     
       <h4><HashLink smooth to="/vocabulary#adverbs-chan-thanh-terms"><mark className="highlight-tertiary-padding-4-8">ADverbs: chân thành</mark></HashLink></h4>
       
-      <h1 className="margin-y-50 text-center">sincerely
+      <h1 className="margin-y-50 text-center">sinCEREly
         <sup>
-          <Link to="/vocabulary/sincerely-1">&nbsp;1&nbsp;</Link>
+          <Link to="/vocabulary/sinCEREly-1">&nbsp;1&nbsp;</Link>
         </sup>
         <sup>
-          <Link to="/vocabulary/sincerely-2">&nbsp;2&nbsp;</Link>
+          <Link to="/vocabulary/sinCEREly-2">&nbsp;2&nbsp;</Link>
         </sup>
       </h1>
 
       {/* This is the content of Vocabulary Term. */}
 
-      <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>sincerely</strong>" (một cách chân thành) và các cụm từ hay đi kèm nhé.</p>
+      <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>sinCEREly</strong>" (một cách chân thành) và các cụm từ hay đi kèm nhé.</p>
 
       <div className="text-border1 padding-10 highlight-238-padding-4-8 bee-container">
 
@@ -36,15 +36,9 @@ export default function Sincerely2(): React.JSX.Element {
 
           <p className="margin-y-10">
             
-            <strong>sincerely&nbsp;</strong>
-            
             <span className="highlight-255-padding-3-6">
               
-              [sinCEREly][sin CERE ly] /sɪnˈsɪrlɪ/ + /
-              
-              <Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">sincėrely</Link>/ 
-              
-              &nbsp;•⬤• (3x)
+              [sinCEREly][<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">sin CĖRE ly</Link>] /sɪnˈsɪrlɪ/ •⬤• (3x)
               
             </span>
               
@@ -62,45 +56,35 @@ export default function Sincerely2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1">Sincerely <strong>apologize</strong> /əˈpɒlədʒaɪz/</li>
-        <li className="list-none">I ______ for my mistake.</li>
+        <li value="1">i sinCEREly aPOLogize for my misTAKE.</li>
         <li className="list-none margin-bottom-20">Tôi xin lỗi chân thành vì lỗi lầm của mình.</li>
 
-        <li value="2">Sincerely <strong>appreciate</strong> /əˈpriːʃieɪt/</li>
-        <li className="list-none">I ______ your help.</li>
+        <li value="2"> sinCEREly apPREciate your HELP.</li>
         <li className="list-none margin-bottom-20">Tôi rất trân trọng sự giúp đỡ của bạn.</li>
 
-        <li value="3">Sincerely <strong>hope</strong> /hoʊp/</li>
-        <li className="list-none">I ______ that everything goes well for you.</li>
+        <li value="3">i sinCEREly HOPE that EVERything GOES WELL for you.</li>
         <li className="list-none margin-bottom-20">Tôi thật lòng hy vọng mọi việc sẽ diễn ra tốt đẹp với bạn.</li>
 
-        <li value="4">Sincerely <strong>yours</strong> /jɔːrz/</li>
-        <li className="list-none">______</li>
-        <li className="list-none margin-bottom-20">[Tên của bạn] Thân ái</li>
+        <li value="4">sinCEREly YOURS.</li>
+        <li className="list-none margin-bottom-20">Thân ái.</li>
 
-        <li value="5">Sincerely <strong>believe</strong> /bɪˈliːv/</li>
-        <li className="list-none">I ______ in the power of love.</li>
+        <li value="5">i sinCEREly beLIEVE in the POWer of LOVE.</li>
         <li className="list-none margin-bottom-20">Tôi thật lòng tin vào sức mạnh của tình yêu.</li>
 
-        <li value="6">Sincerely <strong>regret</strong> /rɪˈɡrɛt/</li>
-        <li className="list-none">I ______ not being able to attend your wedding.</li>
+        <li value="6">i sinCEREly reGRET NOT BEing ABle to atTEND your WEDding.</li>
         <li className="list-none margin-bottom-20">Tôi thật lòng hối hận vì không thể tham dự đám cưới của bạn.</li>
 
-        <li value="7">Sincerely <strong>thank</strong> /θæŋk/</li>
-        <li className="list-none">I would like to ______ you for your support.</li>
+        <li value="7">i sinCEREly THANK you for your supPORT.</li>
         <li className="list-none margin-bottom-20">Tôi muốn chân thành cảm ơn bạn vì sự ủng hộ của bạn.</li>
 
-        <li value="8">Sincerely <strong>wish</strong> /wɪʃ/</li>
-        <li className="list-none">I ______ you all the best in your new job.</li>
+        <li value="8">i sinCEREly WISH you all the BEST in your NEW JOB.</li>
         <li className="list-none margin-bottom-20">Tôi chúc bạn thật lòng mọi điều tốt đẹp nhất trong công việc mới.</li>
 
-        <li value="9">Sincerely <strong>yours</strong>, <strong>faithfully</strong> /jɔːrz ˈfeɪθfəli/</li>
-        <li className="list-none">______</li>
-        <li className="list-none margin-bottom-20">[Tên của bạn] Trân trọng, một cách trung thành, [Tên của bạn]</li>
+        <li value="9">sinCEREly YOURS, FAITHfully.</li>
+        <li className="list-none margin-bottom-20">Trân trọng, một cách trung thành.</li>
 
-        <li value="10">Sincerely <strong>yours</strong>, <strong>with love</strong> /jɔːrz, wɪð lʌv/</li>
-        <li className="list-none">______</li>
-        <li className="list-none margin-bottom-20">[Tên của bạn] Trân trọng, với tình yêu thương</li>
+        <li value="10">sinCEREly YOURS, with LOVE.</li>
+        <li className="list-none margin-bottom-20">Trân trọng, với tình yêu thương</li>
 
       </ol>
 
@@ -116,7 +100,7 @@ export default function Sincerely2(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>"<strong>Sincerely</strong>" thường được đặt ở đầu hoặc cuối câu.</li>
+          <li>"<strong>sinCEREly</strong>" thường được đặt ở đầu hoặc cuối câu.</li>
 
           <li className="margin-bottom-20">Từ này thường được sử dụng trong văn viết trang trọng hơn là văn nói hàng ngày.</li>
 
