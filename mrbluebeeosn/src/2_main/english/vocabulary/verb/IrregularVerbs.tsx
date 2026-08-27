@@ -280,63 +280,6 @@ export default function IrregularVerbs(): React.JSX.Element {
 								<td>đứng</td>
 						</tr>
 
-						<tr>
-								<td>31</td>
-								<td>loses</td>
-								<td>lost</td>
-								<td>lost</td>
-								<td>mất, thua</td>
-						</tr>
-						
-						<tr>
-								<td>32</td>
-								<td>pays</td>
-								<td>paid</td>
-								<td>paid</td>
-								<td>trả tiền</td>
-						</tr>
-						
-						<tr>
-								<td>33</td>
-								<td>meets</td>
-								<td>met</td>
-								<td>met</td>
-								<td>gặp</td>
-						</tr>
-
-						<tr>
-								<td>34</td>
-								<td>runs</td>
-								<td>ran</td>
-								<td>run</td>
-								<td>chạy</td>
-						</tr>
-
-						<tr>
-								<td>35</td>
-								<td>eats</td>
-								<td>ate</td>
-								<td>eaten</td>
-								<td>ăn</td>
-						</tr>
-
-						<tr>
-								<td>36</td>
-								<td>drinks</td>
-								<td>drank</td>
-								<td>drunk</td>
-								<td>uống</td>
-						</tr>
-
-						<tr>
-								<td>37</td>
-								<td>drives</td>
-								<td>drove</td>
-								<td>driven</td>
-								<td>lái xe</td>
-						</tr>
-
-
 						
 					</tbody>
 				</table>
@@ -916,116 +859,116 @@ export default function IrregularVerbs(): React.JSX.Element {
 			
 			
 			
-			<h4 className="margin-y-40">31. </h4>
+			<h4 className="margin-y-40">31. LOSE</h4>
 			
 				<ul className="list-square">
 			
-					<li></li>
-					<li className="list-none"></li>
-					<li className="margin-bottom-20 list-none"></li>
+					<li>he <strong>LOses</strong> his KEYS whenever he is in a HURry.</li>
+					<li className="list-none">Anh ấy <strong>hay làm mất</strong> chìa khóa mỗi khi vội vã.</li>
+					<li className="margin-bottom-20 list-none">Dùng thời hiện tại đơn với dạng LOses (cho chủ thể ngôi thứ ba số ít he) để chỉ thói quen hoặc sự việc diễn ra theo quy luật.</li>
 			
-					<li></li>
-					<li className="list-none"></li>
-					<li className="margin-bottom-20 list-none"></li>
+					<li>she <strong>LOST</strong> her FAvorite CAMERa in the PARK LAST WEEK.</li>
+					<li className="list-none">Cô ấy <strong>đã làm mất</strong> chiếc máy ảnh yêu thích của mình ở công viên vào tuần trước.</li>
+					<li className="margin-bottom-20 list-none">Dùng thời quá khứ đơn với dạng LOST để chỉ việc đã xảy ra và kết thúc trong quá khứ.</li>
 			
-					<li></li>
-					<li className="list-none"></li>
-					<li className="list-none"></li>
+					<li>they <strong>have LOST</strong> their WAY in the unfaMILiar NEIGHborhood.</li>
+					<li className="list-none">Họ <strong>đã lạc đường</strong> ở khu phố lạ lẫm đó.</li>
+					<li className="list-none">Cấu trúc này dùng dạng hoàn thành với have LOST, nói về sự việc đã hoàn tất và liên quan đến hiện tại.</li>
 			
 				</ul>
 			
 			
-			<h4 className="margin-y-40">32. </h4>
+			<h4 className="margin-y-40">32. PAY</h4>
 			
 				<ul className="list-square">
 			
-					<li></li>
-					<li className="list-none"></li>
-					<li className="margin-bottom-20 list-none"></li>
+					<li>he <strong>PAYS</strong> his BILLS at the beGINning of every MONTH.</li>
+					<li className="list-none">Anh ấy <strong>thanh toán</strong> các hóa đơn của mình vào đầu mỗi tháng.</li>
+					<li className="margin-bottom-20 list-none">Dùng thời hiện tại đơn với dạng PAYS (cho chủ thể ngôi thứ ba số ít he) để chỉ thói quen hoặc sự việc diễn ra theo quy luật.</li>
 			
-					<li></li>
-					<li className="list-none"></li>
-					<li className="margin-bottom-20 list-none"></li>
+					<li>she <strong>PAID</strong> for the NEW COFfee GRINDer YESterday.</li>
+					<li className="list-none">Cô ấy <strong>đã trả tiền</strong> cho chiếc máy xay cà phê mới vào ngày hôm qua.</li>
+					<li className="margin-bottom-20 list-none">Dùng thời quá khứ đơn với dạng PAID để chỉ việc đã xảy ra và kết thúc trong quá khứ.</li>
 			
-					<li></li>
-					<li className="list-none"></li>
-					<li className="list-none"></li>
+					<li>they <strong>have PAID</strong> for the SERvice in adVANCE.</li>
+					<li className="list-none">Họ <strong>đã thanh toán</strong> trước cho dịch vụ này rồi.</li>
+					<li className="list-none">Cấu trúc này dùng dạng hoàn thành với have PAID, nói về sự việc đã hoàn tất và liên quan đến hiện tại.</li>
 			
 				</ul>
 
 			
-			<h4 className="margin-y-40">33. </h4>
+			<h4 className="margin-y-40">33. MEET</h4>
 			
 				<ul className="list-square">
 			
-					<li></li>
-					<li className="list-none"></li>
-					<li className="margin-bottom-20 list-none"></li>
+					<li>he <strong>MEETS</strong> his CLIents every TUESday.</li>
+					<li className="list-none">Anh ấy <strong>gặp gỡ</strong> các khách hàng của mình vào mỗi thứ Ba.</li>
+					<li className="margin-bottom-20 list-none">Dùng thời hiện tại đơn với dạng MEETS (cho chủ thể ngôi thứ ba số ít he) để chỉ thói quen hoặc sự việc diễn ra theo quy luật.</li>
 			
-					<li></li>
-					<li className="list-none"></li>
-					<li className="margin-bottom-20 list-none"></li>
+					<li>she <strong>MET</strong> an OLD FRIEND YESterday.</li>
+					<li className="list-none">Cô ấy <strong>đã gặp</strong> một người bạn cũ vào ngày hôm qua.</li>
+					<li className="margin-bottom-20 list-none">Dùng thời quá khứ đơn với dạng MET để chỉ việc đã xảy ra và kết thúc trong quá khứ.</li>
 			
-					<li></li>
-					<li className="list-none"></li>
-					<li className="list-none"></li>
+					<li>they <strong>have MET beFORE</strong> at the CONference.</li>
+					<li className="list-none">Họ <strong>đã gặp nhau trước</strong> đây ở hội nghị.</li>
+					<li className="list-none">Cấu trúc này dùng dạng hoàn thành với have MET, nói về sự việc đã hoàn tất và liên quan đến hiện tại.</li>
 			
 				</ul>
 			
 			
-			<h4 className="margin-y-40">34. </h4>
+			<h4 className="margin-y-40">34. RUN</h4>
 			
 				<ul className="list-square">
 			
-					<li></li>
-					<li className="list-none"></li>
-					<li className="margin-bottom-20 list-none"></li>
+					<li>he <strong>RUNS</strong> in the PARK every afterNOON.</li>
+					<li className="list-none">Anh ấy <strong>chạy bộ</strong> ở công viên vào mỗi buổi chiều.</li>
+					<li className="margin-bottom-20 list-none">Dùng thời hiện tại đơn với dạng RUNS (cho chủ thể ngôi thứ ba số ít he) để chỉ thói quen hoặc sự việc diễn ra theo quy luật.</li>
 			
-					<li></li>
-					<li className="list-none"></li>
-					<li className="margin-bottom-20 list-none"></li>
+					<li>she <strong>RAN</strong> to CATCH the BUS this MORning.</li>
+					<li className="list-none">Cô ấy <strong>đã chạy</strong> để bắt xe buýt vào sáng nay.</li>
+					<li className="margin-bottom-20 list-none">Dùng thời quá khứ đơn với dạng RAN để chỉ việc đã xảy ra và kết thúc trong quá khứ.</li>
 			
-					<li></li>
-					<li className="list-none"></li>
-					<li className="list-none"></li>
+					<li>they <strong>have RUN</strong> FIVE kiLOMeters so FAR.</li>
+					<li className="list-none">Họ <strong>đã chạy</strong> được năm ki-lô-mét cho đến nay.</li>
+					<li className="list-none">Cấu trúc này dùng dạng hoàn thành với have RUN, nói về sự việc đã hoàn tất và liên quan đến hiện tại.</li>
 			
 				</ul>
 			
 
-			<h4 className="margin-y-40">35. </h4>
+			<h4 className="margin-y-40">35. EAT</h4>
 			
 				<ul className="list-square">
 			
-					<li></li>
-					<li className="list-none"></li>
-					<li className="margin-bottom-20 list-none"></li>
+					<li>he <strong>EATS</strong> a HEALTHy BREAKfast every day.</li>
+					<li className="list-none">Anh ấy <strong>ăn</strong> một bữa sáng lành mạnh mỗi ngày.</li>
+					<li className="margin-bottom-20 list-none">Dùng thời hiện tại đơn với dạng EATS (cho chủ thể ngôi thứ ba số ít he) để chỉ thói quen hoặc sự việc diễn ra theo quy luật.</li>
 			
-					<li></li>
-					<li className="list-none"></li>
-					<li className="margin-bottom-20 list-none"></li>
+					<li>she <strong>ATE</strong> a deLICious MEAL LAST NIGHT.</li>
+					<li className="list-none">Cô ấy <strong>đã ăn</strong> một bữa ăn ngon vào tối hôm qua.</li>
+					<li className="margin-bottom-20 list-none">Dùng thời quá khứ đơn với dạng ATE để chỉ việc đã xảy ra và kết thúc trong quá khứ.</li>
 			
-					<li></li>
-					<li className="list-none"></li>
-					<li className="list-none"></li>
+					<li>they <strong>have EAten</strong> all the FOOD on the TAble.</li>
+					<li className="list-none">Họ <strong>đã ăn</strong> hết sạch thức ăn trên bàn rồi.</li>
+					<li className="list-none">Cấu trúc này dùng dạng hoàn thành với have EAten, nói về sự việc đã hoàn tất và liên quan đến hiện tại.</li>
 			
 				</ul>
 			
 			
-			<h4 className="margin-y-40">36. </h4>
+			<h4 className="margin-y-40">36. DRINK</h4>
 			
 				<ul className="list-square">
 			
-					<li></li>
-					<li className="list-none"></li>
-					<li className="margin-bottom-20 list-none"></li>
+					<li>he <strong>DRINKS</strong> a LARGE CUP of roBUSta COFfee every MORning.</li>
+					<li className="list-none">Anh ấy <strong>uống</strong> một cốc cà phê robusta lớn mỗi buổi sáng.</li>
+					<li className="margin-bottom-20 list-none">Dùng thời hiện tại đơn với dạng DRINKS (cho chủ thể ngôi thứ ba số ít he) để chỉ thói quen hoặc sự việc diễn ra theo quy luật.</li>
 			
-					<li></li>
-					<li className="list-none"></li>
-					<li className="margin-bottom-20 list-none"></li>
+					<li>she <strong>DRANK</strong> a GLASS of FRESH JUICE YESterday.</li>
+					<li className="list-none">Cô ấy <strong>đã uống</strong> một cốc nước ép tươi vào ngày hôm qua.</li>
+					<li className="margin-bottom-20 list-none">Dùng thời quá khứ đơn với dạng DRANK để chỉ việc đã xảy ra và kết thúc trong quá khứ.</li>
 			
-					<li></li>
-					<li className="list-none"></li>
-					<li className="list-none"></li>
+					<li>they <strong>have DRUNK</strong> all the WAter in the BOTtle.</li>
+					<li className="list-none">Họ <strong>đã uống</strong> hết sạch nước trong chai rồi.</li>
+					<li className="list-none">Cấu trúc này dùng dạng hoàn thành với have DRUNK, nói về sự việc đã hoàn tất và liên quan đến hiện tại.</li>
 			
 				</ul>
 
@@ -1035,15 +978,15 @@ export default function IrregularVerbs(): React.JSX.Element {
 				<ul className="list-square">
 			
 					<li>he <strong>DRIVES</strong> to WORK every MORning.</li>
-					<li className="list-none">Anh ấy lái xe đi làm mỗi buổi sáng.</li>
+					<li className="list-none">Anh ấy <strong>lái xe</strong> đi làm mỗi buổi sáng.</li>
 					<li className="margin-bottom-20 list-none">Dùng thời hiện tại đơn với dạng DRIVES (cho chủ thể ngôi thứ ba số ít he) để chỉ thói quen hoặc sự việc diễn ra theo quy luật.</li>
 			
 					<li>she <strong>DROVE</strong> to the COUNtryside LAST WEEKend.</li>
-					<li className="list-none">Cô ấy đã lái xe về vùng quê vào cuối tuần trước.</li>
+					<li className="list-none">Cô ấy <strong>đã lái xe</strong> về vùng quê vào cuối tuần trước.</li>
 					<li className="margin-bottom-20 list-none">Dùng thời quá khứ đơn với dạng DROVE để chỉ việc đã xảy ra và kết thúc trong quá khứ.</li>
 			
 					<li>hey <strong>have DRIVen</strong> for FIVE HOURS STRAIGHT.</li>
-					<li className="list-none">Họ đã lái xe suốt năm tiếng đồng hồ.</li>
+					<li className="list-none">Họ <strong>đã lái xe</strong> suốt năm tiếng đồng hồ.</li>
 					<li className="list-none">Cấu trúc này dùng dạng hoàn thành với have DRIVen, nói về sự việc đã hoàn tất và liên quan đến hiện tại.</li>
 			
 				</ul>
@@ -1074,7 +1017,7 @@ export default function IrregularVerbs(): React.JSX.Element {
 			
 					<li>she <strong>CHOOses</strong> the BEST OPtion for the PROJect.</li>
 					<li className="list-none">Cô ấy <strong>chọn</strong> lựa chọn tốt nhất cho dự án.</li>
-					<li className="margin-bottom-20 list-none">Dùng thời hiện tại đơn với dạng CHOOses (cho chủ thể ngôi thứ ba số ít she ) để chỉ sự việc diễn ra theo quy luật.</li>
+					<li className="margin-bottom-20 list-none">Dùng thời hiện tại đơn với dạng CHOOses (cho chủ thể ngôi thứ ba số ít she) để chỉ sự việc diễn ra theo quy luật.</li>
 			
 					<li>he <strong>CHOSE</strong> a NEW CAR LAST WEEK.</li>
 					<li className="list-none">Anh ấy <strong>đã chọn</strong> một chiếc xe hơi mới vào tuần trước.</li>
