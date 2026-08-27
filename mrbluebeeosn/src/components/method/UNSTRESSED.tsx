@@ -30,7 +30,7 @@ export default function VERBSADDS(): React.JSX.Element {
           </p>
 
           <p className="example-sentence">
-            <span className="s">the: Đọc là <strong>ðờ</strong> (/ðə/ - âm Schwa) → Sau nó là một PHỤ ÂM:<br/>
+            <span className="s">the: Đọc là <strong>ðə</strong> (/ðə/ - âm Schwa) → Sau nó là một PHỤ ÂM:<br/>
             the BOOK → đọc là <strong>ðə</strong> BOOK.<br/>
             the CAR → đọc là <strong>ðə</strong> CAR.
             </span>
@@ -48,7 +48,7 @@ export default function VERBSADDS(): React.JSX.Element {
           </p>
 
           <p className="example-sentence">
-            <span className="v">to: Đọc là <strong>tờ</strong> / TỪ (/tə/ - âm Schwa) → Sau nó là một PHỤ ÂM:<br/>
+            <span className="v">to: Đọc là <strong>tə</strong> / TỪ (/tə/ - âm Schwa) → Sau nó là một PHỤ ÂM:<br/>
             GO to SCHOOL → đọc là GO <strong>tə</strong> SCHOOL.<br/>
             to me → đọc là <strong>tə</strong> me.
             </span>
