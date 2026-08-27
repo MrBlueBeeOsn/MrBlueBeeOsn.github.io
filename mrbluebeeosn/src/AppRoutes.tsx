@@ -382,8 +382,8 @@ const Posts = lazy(() => import('@/data/Posts'));
 	const Accurately2 = lazy(() => import('@/2_main/english/vocabulary/tinhchinhxac/Accurately2'));
 	const PreCISEly1 = lazy(() => import('@/2_main/english/vocabulary/tinhchinhxac/preCISEly1'));
 	const PreCISEly2 = lazy(() => import('@/2_main/english/vocabulary/tinhchinhxac/preCISEly2'));
-	const Correctly1 = lazy(() => import('@/2_main/english/vocabulary/tinhchinhxac/Correctly1'));
-	const Correctly2 = lazy(() => import('@/2_main/english/vocabulary/tinhchinhxac/Correctly2'));
+	const CorRECTly1 = lazy(() => import('@/2_main/english/vocabulary/tinhchinhxac/corRECTly1'));
+	const CorRECTly2 = lazy(() => import('@/2_main/english/vocabulary/tinhchinhxac/corRECTly2'));
 	const ExACTly1 = lazy(() => import('@/2_main/english/vocabulary/tinhchinhxac/exACTly1'));
 	const ExACTly2 = lazy(() => import('@/2_main/english/vocabulary/tinhchinhxac/exACTly2'));
 
@@ -987,8 +987,8 @@ export default function AppRoutes(): React.JSX.Element {
 					<Route path="/vocabulary/accurately-2" element={<Accurately2 />} />
 					<Route path="/vocabulary/preCISEly-1" element={<PreCISEly1 />} />
 					<Route path="/vocabulary/preCISEly-2" element={<PreCISEly2 />} />
-					<Route path="/vocabulary/correctly-1" element={<Correctly1 />} />
-					<Route path="/vocabulary/correctly-2" element={<Correctly2 />} />
+					<Route path="/vocabulary/corRECTly-1" element={<CorRECTly1 />} />
+					<Route path="/vocabulary/corRECTly-2" element={<CorRECTly2 />} />
 					<Route path="/vocabulary/exACTly-1" element={<ExACTly1 />} />
 					<Route path="/vocabulary/exACTly-2" element={<ExACTly2 />} />
 
