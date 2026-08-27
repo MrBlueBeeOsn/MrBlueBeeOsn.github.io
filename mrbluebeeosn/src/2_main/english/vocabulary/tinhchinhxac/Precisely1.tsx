@@ -15,7 +15,7 @@ export default function preCISEly1(): React.JSX.Element {
 
     <article>
     
-      <h4><HashLink smooth to="/vocabulary#tinh-chinh-xac-terms"><mark className="highlight-tertiary-padding-4-8">ADverbs: chính xác</mark></HashLink></h4>
+      <h4><HashLink smooth to="/vocabulary#adverbs-chinh-xac-terms"><mark className="highlight-tertiary-padding-4-8">ADverbs: chính xác</mark></HashLink></h4>
       
       <h1 className="margin-y-50 text-center">preCISEly
         <sup><Link to="/vocabulary/preCISEly-1">&nbsp;1&nbsp;</Link>
@@ -100,7 +100,7 @@ export default function preCISEly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>he rePORTed the FACTS <Link to="/vocabulary/accurately-1">ACcurately</Link>.</li>
+          <li>he rePORTed the FACTS <Link to="/vocabulary/ACcurately-1">ACcurately</Link>.</li>
           <li className="margin-bottom-20 list-none">Anh ấy báo cáo sự thật một cách chính xác.</li>
 
           <li>that's <Link to="/vocabulary/exACTly-1">exACTly</Link> what I MEANT.</li>

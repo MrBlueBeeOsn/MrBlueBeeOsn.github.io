@@ -15,7 +15,7 @@ export default function STEADily1(): React.JSX.Element {
 
     <article>
     
-      <h4><HashLink smooth to="/vocabulary#tinh-kien-nhan-terms"><mark className="highlight-tertiary-padding-4-8">ADverbs: kiên nhẫn</mark></HashLink></h4>
+      <h4><HashLink smooth to="/vocabulary#adverbs-kien-nhan-terms"><mark className="highlight-tertiary-padding-4-8">ADverbs: kiên nhẫn</mark></HashLink></h4>
       
       <h1 className="margin-y-50 text-center">STEADily
         <sup><Link to="/vocabulary/STEADily-1">&nbsp;1&nbsp;</Link>

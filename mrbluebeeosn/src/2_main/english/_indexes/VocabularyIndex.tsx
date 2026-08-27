@@ -955,10 +955,10 @@ export default function VocabularyIndex(): React.JSX.Element {
 					<ul className="list-border1">
 						
 						<li>
-							<Link to="/vocabulary/accurately-1">accurately
+							<Link to="/vocabulary/ACcurately-1">ACcurately
 								<sup>&nbsp;1&nbsp;</sup>
 									</Link> 
-									<Link to="/vocabulary/accurately-2">
+									<Link to="/vocabulary/ACcurately-2">
 								<sup>&nbsp;2&nbsp;</sup>
 							</Link>
 						</li>

@@ -15,7 +15,7 @@ export default function Carefully1(): React.JSX.Element {
 
     <article>
     
-      <h4><HashLink smooth to="/vocabulary#tinh-can-than-terms"><mark className="highlight-tertiary-padding-4-8">ADverbs: cẩn thận</mark></HashLink></h4>
+      <h4><HashLink smooth to="/vocabulary#adverbs-can-than-terms"><mark className="highlight-tertiary-padding-4-8">ADverbs: cẩn thận</mark></HashLink></h4>
       
       <h1 className="margin-y-50 text-center">carefully
         <sup><Link to="/vocabulary/carefully-1">&nbsp;1&nbsp;</Link>

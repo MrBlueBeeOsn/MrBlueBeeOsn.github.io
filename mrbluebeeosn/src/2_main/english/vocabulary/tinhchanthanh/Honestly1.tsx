@@ -15,7 +15,7 @@ export default function Honestly1(): React.JSX.Element {
 
     <article>
     
-      <h4><HashLink smooth to="/vocabulary#tinh-chan-thanh-terms"><mark className="highlight-tertiary-padding-4-8">ADverbs: chân thành</mark></HashLink></h4>
+      <h4><HashLink smooth to="/vocabulary#adverbs-chan-thanh-terms"><mark className="highlight-tertiary-padding-4-8">ADverbs: chân thành</mark></HashLink></h4>
       
       <h1 className="margin-y-50 text-center">honestly
         <sup><Link to="/vocabulary/honestly-1">&nbsp;1&nbsp;</Link>

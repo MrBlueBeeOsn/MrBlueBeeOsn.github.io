@@ -5,9 +5,9 @@ import EyeIcon from '@/components/view/EyeIcon';
 import ViewCounter from '@/components/view/ViewCounter';
 import LikeButton from '@/components/like/LikeButton';
 
-export default function Accurately1(): React.JSX.Element {
+export default function ACcurately1(): React.JSX.Element {
 
-  const postId = "Accurately1";
+  const postId = "ACcurately1";
 
   return (<>
 
@@ -15,31 +15,28 @@ export default function Accurately1(): React.JSX.Element {
 
     <article>
     
-      <h4><HashLink smooth to="/vocabulary#tinh-chinh-xac-terms"><mark className="highlight-tertiary-padding-4-8">ADverbs: chính xác</mark></HashLink></h4>
+      <h4><HashLink smooth to="/vocabulary#adverbs-chinh-xac-terms"><mark className="highlight-tertiary-padding-4-8">ADverbs: chính xác</mark></HashLink></h4>
       
-      <h1 className="margin-y-50 text-center">accurately
-        <sup><Link to="/vocabulary/accurately-1">&nbsp;1&nbsp;</Link>
+      <h1 className="margin-y-50 text-center">ACcurately
+        <sup><Link to="/vocabulary/ACcurately-1">&nbsp;1&nbsp;</Link>
         </sup>
-        <sup><Link to="/vocabulary/accurately-2">&nbsp;2&nbsp;</Link>
+        <sup><Link to="/vocabulary/ACcurately-2">&nbsp;2&nbsp;</Link>
         </sup>
       </h1>
 
       {/* This is the content of Vocabulary Term. */}
       
-      <p>Tuyệt vời! Chúng ta cùng đi sâu vào từ "<strong>accurately</strong>" nhé.</p>
+      <p>Tuyệt vời! Chúng ta cùng đi sâu vào từ "<strong>ACcurately</strong>" nhé.</p>
 
       <div className="text-border1 padding-top-20 padding-bottom-10 highlight-238-padding-4-8 bee-container">
 
         <div>
 
-          <p className="margin-bottom-20"><strong>Accurately</strong></p>
-
           <ul className="list-square padding-left-40">
 
             <li>
               <span className="highlight-255-padding-3-6">
-                [ACcurately][AC cu rate ly] /ˈækjərətli/ + /<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">accư̇ra̛tely</Link>/
-                &nbsp;⬤••• (4x)
+                [ACcurately][<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">AC cư̇ ra̛te ly</Link>] /ˈækjərətli/ ⬤••• (4x)
               </span>
             </li>
 
@@ -57,16 +54,16 @@ export default function Accurately1(): React.JSX.Element {
 
       </div>
 
-      <p className="margin-top-30 text-indent-whole">Từ "<strong>accurately</strong>" được dùng để nhấn mạnh sự chính xác tuyệt đối trong một hành động, một kết quả hoặc một thông tin nào đó. Nó thể hiện sự tỉ mỉ, cẩn thận và không có sai sót.</p>
+      <p className="margin-top-30 text-indent-whole">Từ "<strong>ACcurately</strong>" được dùng để nhấn mạnh sự chính xác tuyệt đối trong một hành động, một kết quả hoặc một thông tin nào đó. Nó thể hiện sự tỉ mỉ, cẩn thận và không có sai sót.</p>
 
       <p className="margin-top-20 text-indent-whole">Ví dụ:</p>
 
         <ul className="list-square">
 
-          <li>She ______ measured the ingredients.</li>
+          <li>she ACcurately MEASured the inGREdients.</li>
           <li className="margin-bottom-20 list-none">Cô ấy đã đo đạc nguyên liệu một cách chính xác.</li>
 
-          <li>The data was ______ recorded.</li>
+          <li>the DAta was inACcurately reCORDed.</li>
           <li className="list-none">Dữ liệu đã được ghi lại chính xác.</li>
 
         </ul>
@@ -83,12 +80,10 @@ export default function Accurately1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Accurate (adj) /ˈækjərət/</li>
-          <li className="list-none">His information is always ______.</li>
+          <li>his inforMAtion is ALways ACcurate.</li>
           <li className="margin-bottom-20 list-none">Thông tin của anh ấy luôn chính xác.</li>
 
-          <li>Accuracy (n) /ˈækjərəsi/</li>
-          <li className="list-none">The ______ of the test results is crucial.</li>
+          <li>the ACcuracy of the TEST reSULTS is CRUcial.</li>
           <li className="list-none">Độ chính xác của kết quả kiểm tra là rất quan trọng.</li>
 
         </ul>
@@ -105,12 +100,10 @@ export default function Accurately1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li><Link to="/vocabulary/exACTly-1">Exactly</Link> /ɪɡˈzæktli/</li>
-          <li className="list-none">I know ______ what you mean.</li>
+          <li>i KNOW <Link to="/vocabulary/exACTly-1">exACTly</Link> what you MEAN.</li>
           <li className="margin-bottom-20 list-none">Tôi hiểu chính xác ý của bạn.</li>
 
-          <li><Link to="/vocabulary/preCISEly-1">Precisely</Link> /prɪˈsaɪsli/</li>
-          <li className="list-none">The time was ______ 3:00 pm.</li>
+          <li>the TIME was <Link to="/vocabulary/preCISEly-1">preCISEly</Link> THREE PM.</li>
           <li className="list-none">Thời gian chính xác là 3 giờ chiều.</li>
 
         </ul>
@@ -127,12 +120,10 @@ export default function Accurately1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Inaccurately /ɪnˈækjərətli/</li>
-          <li className="list-none">The information was ______ reported.</li>
+          <li>the inforMAtion was inACcurately rePORTed.</li>
           <li className="margin-bottom-20 list-none">Thông tin đã được báo cáo không chính xác.</li>
 
-          <li>Approximately /əˈprɒksɪmətli/</li>
-          <li className="list-none">There were ______ 100 people at the party.</li>
+          <li>there were apPROXimately a HUNdred PEOple at the PARty.</li>
           <li className="list-none">Có khoảng 100 người tại bữa tiệc.</li>
 
         </ul>
@@ -158,7 +149,7 @@ export default function Accurately1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>The jeweler is ______ measuring the diamond with a precise tool.</li>
+          <li>the JEWeler is ACcurately MEASuring the DIamond with a preCISE TOOL.</li>
           <li className="list-none">Người thợ kim hoàn đang đo viên kim cương một cách chính xác bằng một dụng cụ đo lường.</li>
 
         </ul>
@@ -174,11 +165,11 @@ export default function Accurately1(): React.JSX.Element {
         <strong>&nbsp;ví dụ</strong>:
       </p>
 
-      <p className="text-indent-whole">Tạo các câu ví dụ khác nhau với từ "<strong>accurately</strong>" trong nhiều ngữ cảnh khác nhau.</p>
+      <p className="text-indent-whole">Tạo các câu ví dụ khác nhau với từ "<strong>ACcurately</strong>" trong nhiều ngữ cảnh khác nhau.</p>
 
         <ul className="list-square">
 
-          <li>The scientist ______ predicted the outcome of the experiment.</li>
+          <li>the SCIentist ACcurately preDICTed the OUTcome of the exPERiment.</li>
           <li className="list-none">Nhà khoa học đã dự đoán chính xác kết quả của thí nghiệm.</li>
 
         </ul>
@@ -200,17 +191,17 @@ export default function Accurately1(): React.JSX.Element {
 
           <ol>
 
-            <li>He estimated the cost.</li>
+            <li>he EStimated the COST.</li>
             <li className="list-none margin-bottom-20">Anh ấy ước tính chi phí.</li>
 
-            <li value="2">He ______ calculated the cost.</li>
+            <li value="2">he ACcurately CALculated the COST.</li>
             <li className="list-none margin-bottom-20">Anh ấy tính toán chi phí một cách chính xác.</li>
 
           </ol>
 
       <div className="margin-bottom-20 padding-top-20 text-border1 padding-10 highlight-238-padding-4-8 bee-container">
 
-        <p className="margin-y-10">Sự khác biệt: Câu thứ hai sử dụng "<strong>accurately</strong>" để <span className="highlight-255-padding-0-4">nhấn mạnh rằng việc tính toán</span> chi phí đã được thực hiện <span className="highlight-255-padding-0-4">một cách tỉ mỉ và chính xác.</span></p>
+        <p className="margin-y-10">Sự khác biệt: Câu thứ hai sử dụng "<strong>ACcurately</strong>" để <span className="highlight-255-padding-0-4">nhấn mạnh rằng việc tính toán</span> chi phí đã được thực hiện <span className="highlight-255-padding-0-4">một cách tỉ mỉ và chính xác.</span></p>
 
       </div>
 
@@ -224,7 +215,7 @@ export default function Accurately1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Sự chính xác tuyệt đối: "<strong>Accurately</strong>" nhấn mạnh sự chính xác tuyệt đối, không có sai số.</li>
+          <li>Sự chính xác tuyệt đối: "<strong>ACcurately</strong>" nhấn mạnh sự chính xác tuyệt đối, không có sai số.</li>
 
           <li className="margin-bottom-20">Tính tỉ mỉ: Nó thường được sử dụng trong các ngữ cảnh liên quan đến đo lường, tính toán hoặc ghi chép thông tin.</li>
 

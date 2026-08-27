@@ -15,7 +15,7 @@ export default function exACTly1(): React.JSX.Element {
 
     <article>
     
-      <h4><HashLink smooth to="/vocabulary#tinh-chinh-xac-terms"><mark className="highlight-tertiary-padding-4-8">ADverbs: chính xác</mark></HashLink></h4>
+      <h4><HashLink smooth to="/vocabulary#adverbs-chinh-xac-terms"><mark className="highlight-tertiary-padding-4-8">ADverbs: chính xác</mark></HashLink></h4>
       
       <h1 className="margin-y-50 text-center">exACTly
         <sup><Link to="/vocabulary/exACTly-1">&nbsp;1&nbsp;</Link>
@@ -100,7 +100,7 @@ export default function exACTly1(): React.JSX.Element {
           <li>that's <Link to="/vocabulary/preCISEly-1">preCISEly</Link> what i MEANT.</li>
           <li className="margin-bottom-20 list-none">Đó chính xác là điều tôi muốn nói.</li>
 
-          <li>the MEASurement was <Link to="/vocabulary/accurately-1">ACcurately</Link> TAken.</li>
+          <li>the MEASurement was <Link to="/vocabulary/ACcurately-1">ACcurately</Link> TAken.</li>
           <li className="list-none">Đo lường đã được thực hiện chính xác.</li>
 
         </ul>

@@ -5,9 +5,9 @@ import EyeIcon from '@/components/view/EyeIcon';
 import ViewCounter from '@/components/view/ViewCounter';
 import LikeButton from '@/components/like/LikeButton';
 
-export default function Accurately2(): React.JSX.Element {
+export default function ACcurately2(): React.JSX.Element {
 
-  const postId = "Accurately2";
+  const postId = "ACcurately2";
 
   return (<>
 
@@ -15,20 +15,20 @@ export default function Accurately2(): React.JSX.Element {
 
     <article>
     
-      <h4><HashLink smooth to="/vocabulary#tinh-chinh-xac-terms"><mark className="highlight-tertiary-padding-4-8">ADverbs: chính xác</mark></HashLink></h4>
+      <h4><HashLink smooth to="/vocabulary#adverbs-chinh-xac-terms"><mark className="highlight-tertiary-padding-4-8">ADverbs: chính xác</mark></HashLink></h4>
       
-      <h1 className="margin-y-50 text-center">accurately
+      <h1 className="margin-y-50 text-center">ACcurately
         <sup>
-          <Link to="/vocabulary/accurately-1">&nbsp;1&nbsp;</Link>
+          <Link to="/vocabulary/ACcurately-1">&nbsp;1&nbsp;</Link>
         </sup>
         <sup>
-          <Link to="/vocabulary/accurately-2">&nbsp;2&nbsp;</Link>
+          <Link to="/vocabulary/ACcurately-2">&nbsp;2&nbsp;</Link>
         </sup>
       </h1>
 
       {/* This is the content of Vocabulary Term. */}
 
-      <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>Accurately</strong>" và các cụm từ thường đi kèm nhé.</p>
+      <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>ACcurately</strong>" và các cụm từ thường đi kèm nhé.</p>
 
       <div className="text-border1 padding-10 highlight-238-padding-4-8 bee-container">
 
@@ -36,15 +36,9 @@ export default function Accurately2(): React.JSX.Element {
 
           <p className="margin-y-10">
             
-            <strong>Accurately&nbsp;</strong>
-            
             <span className="highlight-255-padding-3-6">
               
-              [ACcurately][AC cu rate ly] /ˈækjərətli/ + /
-              
-              <Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">accư̇ra̛tely</Link>/ 
-              
-              &nbsp;⬤••• (4x)
+              [ACcurately][<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">AC cư̇ ra̛te ly</Link>] /ˈækjərətli/ ⬤••• (4x)
               
             </span>
               
@@ -62,44 +56,34 @@ export default function Accurately2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1">Accurately <strong>reflect</strong> /rɪˈflekt/</li>
-        <li className="list-none">The statistics ______ the current economic situation.</li>
+        <li value="1">the staTIStics ACcurately reFLECT the CURrent ecoNOMic situAtion.</li>
         <li className="list-none margin-bottom-20">Thống kê phản ánh chính xác tình hình kinh tế hiện tại.</li>
 
-        <li value="2">Accurately <strong>measured</strong> /ˈmɛʒərd/</li>
-        <li className="list-none">The scientist ______ the temperature of the solution.</li>
+        <li value="2">the SCIentist ACcurately MEASured the TEMPERature of the soLUtion.</li>
         <li className="list-none margin-bottom-20">Nhà khoa học đã đo chính xác nhiệt độ của dung dịch.</li>
 
-        <li value="3">Accurately <strong>predicted</strong> /prɪˈdɪktɪd/</li>
-        <li className="list-none">The meteorologist ______ the arrival of the storm.</li>
+        <li value="3">the meteoROLogist ACcurately preDICTed the arRIval of the STORM.</li>
         <li className="list-none margin-bottom-20">Nhà khí tượng đã dự báo chính xác thời điểm cơn bão đến.</li>
 
-        <li value="4">Accurately <strong>described</strong> /dɪˈskraɪbd/</li>
-        <li className="list-none">The witness ______ the suspect to the police.</li>
+        <li value="4">the WITness ACcurately deSCRIBED the SUSpect to the poLICE.</li>
         <li className="list-none margin-bottom-20">Nhân chứng đã mô tả chính xác nghi phạm cho cảnh sát.</li>
 
-        <li value="5">Accurately <strong>identified</strong> /aɪˈdɛntɪfaɪd/</li>
-        <li className="list-none">The expert ______ the rare bird species.</li>
+        <li value="5">the EXpert ACcurately iDENtified the RARE BIRD SPEcies.</li>
         <li className="list-none margin-bottom-20">Chuyên gia đã nhận dạng chính xác loài chim quý hiếm.</li>
 
-        <li value="6">Accurately <strong>calculated</strong> /ˈkælkjʊleɪtɪd/</li>
-        <li className="list-none">The engineer ______ the load-bearing capacity of the bridge.</li>
+        <li value="6">the engiNEER ACcurately CALculated the LOAD-BEARing caPACity of the BRIDGE.</li>
         <li className="list-none margin-bottom-20">Kỹ sư đã tính toán chính xác khả năng chịu tải của cây cầu.</li>
 
-        <li value="7">Accurately <strong>translated</strong> /trænzˈleɪtɪd/</li>
-        <li className="list-none">The translator ______ the document from English into Spanish.</li>
+        <li value="7">the transLAtor ACcurately transLAted the DOCument from ENGlish into SPANish.</li>
         <li className="list-none margin-bottom-20">Người phiên dịch đã dịch chính xác tài liệu từ tiếng Anh sang tiếng Tây Ban Nha.</li>
 
-        <li value="8">Accurately <strong>represents</strong> /ˌreprɪˈzɛnts/</li>
-        <li className="list-none">The model ______ the structure of the molecule.</li>
+        <li value="8">the MODel ACcurately repreSENTS the STRUCture of the MOLecule.</li>
         <li className="list-none margin-bottom-20">Mô hình đại diện chính xác cấu trúc của phân tử.</li>
 
-        <li value="9">Accurately <strong>assessed</strong> /əˈsɛst/</li>
-        <li className="list-none">The teacher ______ the student's performance.</li>
+        <li value="9">the TEACHer ACcurately asSESSED the STUdent's perFORmance.</li>
         <li className="list-none margin-bottom-20">Giáo viên đã đánh giá chính xác kết quả học tập của học sinh.</li>
 
-        <li value="10">Accurately <strong>reproduced</strong> /ˌriːprəˈduːst/</li>
-        <li className="list-none">The artist ______ the scene in her painting.</li>
+        <li value="10">the ARTist ACcurately reproDUCED the SCENE in her PAINTing.</li>
         <li className="list-none margin-bottom-20">Họa sĩ đã tái tạo cảnh vật một cách chính xác trong bức tranh của mình.</li>
 
       </ol>
@@ -116,7 +100,7 @@ export default function Accurately2(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>"<strong>Accurately</strong>" thường được đặt trước Tính Cơ hoặc Trạng Cơ để nhấn mạnh ý nghĩa của chúng.</li>
+          <li>"<strong>ACcurately</strong>" thường được đặt trước Tính Cơ hoặc Trạng Cơ để nhấn mạnh ý nghĩa của chúng.</li>
 
           <li className="margin-bottom-20">Từ này thường được sử dụng trong văn nói và văn viết để tạo ấn tượng mạnh.</li>
 
