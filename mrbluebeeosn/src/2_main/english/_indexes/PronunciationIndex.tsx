@@ -4,6 +4,7 @@ import { HashLink } from 'react-router-hash-link';
 import EnglishTopic from '@/components/topic/EnglishTopic';
 import SearchComponent from '@/components/search/SearchComponent';
 import VideoSearch2 from '@/components/video/test/VideoSearch2';
+import UNSTRESSED from '@/components/method/UNSTRESSED';
 
 export default function PronunciationIndex(): React.JSX.Element {
   return (<>
@@ -29,6 +30,8 @@ export default function PronunciationIndex(): React.JSX.Element {
         <SearchComponent />
         
         <VideoSearch2 />
+
+        <UNSTRESSED />
                           
       </div>
 
