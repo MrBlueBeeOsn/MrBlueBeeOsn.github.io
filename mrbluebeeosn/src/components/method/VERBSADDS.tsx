@@ -47,7 +47,7 @@ export default function VERBSADDS(): React.JSX.Element {
             he SPEAK<strong>🆂</strong> (Anh ấy nói...)<br/>
             she LAUGH<strong>🆂</strong> (Cô ấy cười...)<br/>
             it HURT<strong>🆂</strong> (Nó đau...)<br/>
-            You don't add "<strong>S</strong>" when talking to the person right in front of you (You) or about yourself (I), because that is a direct conversation, not gossip!</span>
+            You don't add "<strong>S</strong>" when talking to the person right in front of you (You) or about yourself (I), because that is a direct conversation, not GO<strong>Ss</strong>ip!</span>
           </p>
 
           <p className="example-sentence">
@@ -60,14 +60,16 @@ export default function VERBSADDS(): React.JSX.Element {
         <hr className="margin-y-20"/>
 
         <span className="highlight-255-padding-0-4 text-border">
-          <strong>Verbs</strong>: Add s <HashLink smooth to="/grammar/how-to-remember-verbs-add-s#verbs">to make them singular</HashLink> (the cat sleeps, the cats sleep).
+          <strong>VERBS</strong>: ADD 🆂 to MAKE them SINGular<br/>
         </span>
+          the CAT SLEEP🆂.
 
         <hr className="margin-y-20"/>
       
         <span className="highlight-255-padding-0-4 text-border">
-          <strong>Nouns</strong>: Add s <HashLink smooth to="/grammar/how-to-remember-verbs-add-s#nouns">to make them plural</HashLink> (one cat, two cats).
+          <strong>NOUNS</strong>: ADD 🆂 to MAKE them PLURal<br/>
         </span>
+        ONE CAT, TWO CAT🆂, the CAT🆂 SLEEP.
 
       </p>
 
