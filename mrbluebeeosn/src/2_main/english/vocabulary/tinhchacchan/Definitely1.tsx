@@ -105,7 +105,7 @@ export default function DEFinitely1(): React.JSX.Element {
           <li><Link to="/vocabulary/CERtainly-1">CERtainly</Link>, i can HELP you.</li>
           <li className="margin-bottom-20 list-none">Chắc chắn rồi, tôi có thể giúp bạn.</li>
 
-          <li>that's <Link to="/vocabulary/absolutely-1">ABsolutely</Link> RIGHT.</li>
+          <li>that's <Link to="/vocabulary/absoLUTEly-1">absoLUTEly</Link> RIGHT.</li>
           <li className="list-none">Điều đó hoàn toàn đúng.</li>
 
         </ul>

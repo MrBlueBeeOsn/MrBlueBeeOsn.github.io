@@ -203,7 +203,7 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>it <strong>beGAN RAINing</strong> HEAVily JUST as we STEPPED OUT of the RESTaurant.</li>
+					<li>it <strong>beGAN RAINing</strong> HEAVily JUST as we STEPPED OUT of the RESTAURant.</li>
 					<li className="list-none">Trời <strong>bắt đầu đổ mưa</strong> lớn ngay khi chúng tôi bước ra khỏi nhà hàng.</li>
 					<li className="margin-bottom-20 list-none">it là chủ thể. Cấu trúc này thường được dùng khi miêu tả một quá trình hoặc sự việc tự nhiên bắt đầu diễn ra.</li>
 			

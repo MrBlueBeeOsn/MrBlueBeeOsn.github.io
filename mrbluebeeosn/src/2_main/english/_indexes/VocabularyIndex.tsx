@@ -1173,10 +1173,10 @@ export default function VocabularyIndex(): React.JSX.Element {
 						</li>
 
 						<li>
-							<Link to="/vocabulary/absolutely-1">absolutely
+							<Link to="/vocabulary/absoLUTEly-1">absoLUTEly
 								<sup>&nbsp;1&nbsp;</sup>
 									</Link> 
-									<Link to="/vocabulary/absolutely-2">
+									<Link to="/vocabulary/absoLUTEly-2">
 								<sup>&nbsp;2&nbsp;</sup>
 							</Link>
 						</li>

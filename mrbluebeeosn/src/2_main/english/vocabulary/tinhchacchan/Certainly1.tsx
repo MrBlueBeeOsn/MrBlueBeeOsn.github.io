@@ -103,7 +103,7 @@ export default function CERtainly1(): React.JSX.Element {
           <li>i will <Link to="/vocabulary/DEFinitely-1">DEFinitely</Link> GO to the PARty.</li>
           <li className="margin-bottom-20 list-none">Tôi chắc chắn sẽ đi dự tiệc.</li>
 
-          <li>i <Link to="/vocabulary/absolutely-1">ABsolutely</Link> aGREE with you.</li>
+          <li>i <Link to="/vocabulary/absoLUTEly-1">absoLUTEly</Link> aGREE with you.</li>
           <li className="list-none">Tôi hoàn toàn đồng ý với bạn.</li>
 
         </ul>

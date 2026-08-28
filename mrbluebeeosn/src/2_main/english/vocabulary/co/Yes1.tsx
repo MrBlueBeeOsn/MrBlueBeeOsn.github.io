@@ -103,7 +103,7 @@ export default function Yes1(): React.JSX.Element {
           <li className="list-none">Can I help you? - ______.</li>
           <li className="margin-bottom-20 list-none">Tôi có thể giúp gì cho bạn? - Chắc chắn rồi.</li>
 
-          <li><Link to="/vocabulary/absolutely-1">Absolutely</Link> /ˈæbsəluːtli/</li>
+          <li><Link to="/vocabulary/absoLUTEly-1">Absolutely</Link> /ˈæbsəluːtli/</li>
           <li className="list-none">Is that true? - ______.</li>
           <li className="list-none">Điều đó có đúng không? - Hoàn toàn đúng.</li>
 
@@ -180,7 +180,7 @@ export default function Yes1(): React.JSX.Element {
           <li>______, please.</li>
           <li className="margin-bottom-20 list-none">Vâng, làm ơn.</li>
 
-          <li><Link to="/vocabulary/absolutely-1">Absolutely</Link>!</li>
+          <li><Link to="/vocabulary/absoLUTEly-1">Absolutely</Link>!</li>
           <li className="list-none">Hoàn toàn!</li>
 
         </ul>
