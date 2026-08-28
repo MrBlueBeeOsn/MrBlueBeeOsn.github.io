@@ -248,7 +248,7 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>he <strong>HATES WAking UP</strong> EARly on FREEzing WINter MORnings.</li>
+					<li>he <strong>HATES WAking UP</strong> EARly on FREEzing WINter MORNings.</li>
 					<li className="list-none">Anh ấy <strong>ghét việc thức dậy</strong> sớm vào những buổi sáng mùa đông lạnh giá.</li>
 					<li className="margin-bottom-20 list-none">he là chủ thể. Cấu trúc HATE + V-ing thường dùng để diễn tả sự khó chịu, không thích một thói quen, một hoạt động nói chung hoặc một trải nghiệm lặp đi lặp lại.</li>
 			
@@ -263,7 +263,7 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>she <strong>LOVES BREWing</strong> traDITional vietnaMESE COFfee Using a PHIN FILter every MORning.</li>
+					<li>she <strong>LOVES BREWing</strong> traDITional vietnaMESE COFfee Using a PHIN FILter every MORNing.</li>
 					<li className="list-none">Cô ấy <strong>rất thích pha</strong> cà phê truyền thống Việt Nam bằng phin vào mỗi buổi sáng.</li>
 					<li className="margin-bottom-20 list-none">she là chủ thể. Cấu trúc LOVE + V-ing dùng để diễn tả niềm đam mê, sở thích lâu dài hoặc cảm giác tận hưởng khi làm một việc gì đó nói chung.</li>
 			
@@ -834,7 +834,7 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 					<li className="list-none">Anh ấy <strong>mơ ước trở thành</strong> một lập trình viên web chuyên nghiệp và xây dựng các ứng dụng hữu ích.</li>
 					<li className="margin-bottom-20 list-none">he là chủ thể. Sau giới of, hành động beCOME phải được chuyển thành dạng -ing (beCOMing).</li>
 			
-					<li>she <strong>aPOLogized for being</strong> MORning acCOUNTing MEETing.</li>
+					<li>she <strong>aPOLogized for being</strong> MORNing acCOUNTing MEETing.</li>
 					<li className="list-none">Cô ấy <strong>đã xin lỗi vì đến muộn</strong> trong buổi họp kế toán buổi sáng.</li>
 					<li className="margin-bottom-20 list-none">she là chủ thể. Sau giới for, hành động be phải được chuyển thành dạng -ing (being).</li>
 			

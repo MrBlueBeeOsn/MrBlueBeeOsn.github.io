@@ -248,7 +248,7 @@ export default function DependentClause1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>the COFfee <span className="pill p">[<strong>that i BOUGHT this MORning</strong>]</span> is HOT.</li>
+					<li>the COFfee <span className="pill p">[<strong>that i BOUGHT this MORNing</strong>]</span> is HOT.</li>
 			
 				</ul>
 

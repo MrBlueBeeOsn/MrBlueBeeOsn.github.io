@@ -80,7 +80,7 @@ export default function JOYfully2(): React.JSX.Element {
         <li value="8">the TRAVelers JOYfully reTURNED HOME.</li>
         <li className="list-none margin-bottom-20">Những người du lịch đã vui vẻ trở về nhà.</li>
 
-        <li value="9">the BIRDS JOYfully SANG in the MORning.</li>
+        <li value="9">the BIRDS JOYfully SANG in the MORNing.</li>
         <li className="list-none margin-bottom-20">Những chú chim hót líu lo một cách vui vẻ vào buổi sáng.</li>
 
         <li value="10">the CHILdren JOYfully DANCED to the MUsic.</li>
