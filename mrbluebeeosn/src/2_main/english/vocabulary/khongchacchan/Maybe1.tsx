@@ -123,7 +123,7 @@ export default function Maybe1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li><Link to="/vocabulary/definitely-1">Definitely</Link> /ˈdef.ən.ət.li/</li>
+          <li><Link to="/vocabulary/DEFinitely-1">Definitely</Link> /ˈdef.ən.ət.li/</li>
           <li className="list-none">I ______ want to go.</li>
           <li className="margin-bottom-20 list-none">Tôi chắc chắn muốn đi.</li>
 

@@ -129,7 +129,7 @@ export default function Possibly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li><Link to="/vocabulary/definitely-1">Definitely</Link> /ˈdefɪnətli/</li>
+          <li><Link to="/vocabulary/DEFinitely-1">Definitely</Link> /ˈdefɪnətli/</li>
           <li className="list-none">I will ______ be there.</li>
           <li className="margin-bottom-20 list-none">Tôi chắc chắn sẽ đến đó.</li>
 
@@ -228,7 +228,7 @@ export default function Possibly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Mức độ chắc chắn: "<strong>Possibly</strong>" thể hiện mức độ chắc chắn thấp hơn so với "<Link to="/vocabulary/definitely-1">definitely</Link>" hoặc "certainly".</li>
+          <li>Mức độ chắc chắn: "<strong>Possibly</strong>" thể hiện mức độ chắc chắn thấp hơn so với "<Link to="/vocabulary/DEFinitely-1">definitely</Link>" hoặc "certainly".</li>
 
           <li className="margin-bottom-20">Dùng trong câu hỏi: Thường được sử dụng trong câu hỏi để hỏi về khả năng xảy ra của một sự việc.</li>
 

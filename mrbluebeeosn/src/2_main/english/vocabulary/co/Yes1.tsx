@@ -127,7 +127,7 @@ export default function Yes1(): React.JSX.Element {
           <li className="list-none">Are you coming to the party? - ______, I'm not.</li>
           <li className="margin-bottom-20 list-none">Bạn có đến bữa tiệc không? - Không, tôi không.</li>
 
-          <li><Link to="/vocabulary/definitely-1">Definitely</Link> <Link to="/vocabulary/not-1">not</Link> /ˈdefɪnətli nɒt/</li>
+          <li><Link to="/vocabulary/DEFinitely-1">Definitely</Link> <Link to="/vocabulary/not-1">not</Link> /ˈdefɪnətli nɒt/</li>
           <li className="list-none">Are you going to quit your job? - ______.</li>
           <li className="list-none">Bạn có định nghỉ việc không? - Chắc chắn là không.</li>
 

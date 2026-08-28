@@ -420,8 +420,8 @@ const Posts = lazy(() => import('@/data/Posts'));
 	// 7. Vocabulary - Tính chắc chắn
 	const Certainly1 = lazy(() => import('@/2_main/english/vocabulary/tinhchacchan/Certainly1'));
 	const Certainly2 = lazy(() => import('@/2_main/english/vocabulary/tinhchacchan/Certainly2'));
-	const Definitely1 = lazy(() => import('@/2_main/english/vocabulary/tinhchacchan/Definitely1'));
-	const Definitely2 = lazy(() => import('@/2_main/english/vocabulary/tinhchacchan/Definitely2'));
+	const DEFinitely1 = lazy(() => import('@/2_main/english/vocabulary/tinhchacchan/DEFinitely1'));
+	const DEFinitely2 = lazy(() => import('@/2_main/english/vocabulary/tinhchacchan/DEFinitely2'));
 	const Absolutely1 = lazy(() => import('@/2_main/english/vocabulary/tinhchacchan/Absolutely1'));
 	const Absolutely2 = lazy(() => import('@/2_main/english/vocabulary/tinhchacchan/Absolutely2'));
 	const SUREly1 = lazy(() => import('@/2_main/english/vocabulary/tinhchacchan/SUREly1'));
@@ -1025,8 +1025,8 @@ export default function AppRoutes(): React.JSX.Element {
 					{/* 7. Vocabulary - Tính chắc chắn */}
 					<Route path="/vocabulary/certainly-1" element={<Certainly1 />} />
 					<Route path="/vocabulary/certainly-2" element={<Certainly2 />} />
-					<Route path="/vocabulary/definitely-1" element={<Definitely1 />} />
-					<Route path="/vocabulary/definitely-2" element={<Definitely2 />} />
+					<Route path="/vocabulary/DEFinitely-1" element={<DEFinitely1 />} />
+					<Route path="/vocabulary/DEFinitely-2" element={<DEFinitely2 />} />
 					<Route path="/vocabulary/absolutely-1" element={<Absolutely1 />} />
 					<Route path="/vocabulary/absolutely-2" element={<Absolutely2 />} />
 					<Route path="/vocabulary/SUREly-1" element={<SUREly1 />} />

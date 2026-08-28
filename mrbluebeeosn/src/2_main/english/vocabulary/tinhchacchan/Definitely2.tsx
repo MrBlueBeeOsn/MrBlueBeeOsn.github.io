@@ -5,9 +5,9 @@ import EyeIcon from '@/components/view/EyeIcon';
 import ViewCounter from '@/components/view/ViewCounter';
 import LikeButton from '@/components/like/LikeButton';
 
-export default function Definitely2(): React.JSX.Element {
+export default function DEFinitely2(): React.JSX.Element {
 
-  const postId = "Definitely2";
+  const postId = "DEFinitely2";
 
   return (<>
 
@@ -17,18 +17,18 @@ export default function Definitely2(): React.JSX.Element {
     
       <h4><HashLink smooth to="/vocabulary#adverbs-chac-chan-terms"><mark className="highlight-tertiary-padding-4-8">ADverbs: chắc chắn</mark></HashLink></h4>
       
-      <h1 className="margin-y-50 text-center">definitely
+      <h1 className="margin-y-50 text-center">DEFinitely
         <sup>
-          <Link to="/vocabulary/definitely-1">&nbsp;1&nbsp;</Link>
+          <Link to="/vocabulary/DEFinitely-1">&nbsp;1&nbsp;</Link>
         </sup>
         <sup>
-          <Link to="/vocabulary/definitely-2">&nbsp;2&nbsp;</Link>
+          <Link to="/vocabulary/DEFinitely-2">&nbsp;2&nbsp;</Link>
         </sup>
       </h1>
 
       {/* This is the content of Vocabulary Term. */}
 
-      <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>definitely</strong>" (chắc chắn) và các cụm từ hay đi kèm nhé.</p>
+      <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>DEFinitely</strong>" (chắc chắn) và các cụm từ hay đi kèm nhé.</p>
 
       <div className="text-border1 padding-10 highlight-238-padding-4-8 bee-container">
 
@@ -36,15 +36,9 @@ export default function Definitely2(): React.JSX.Element {
 
           <p className="margin-y-10">
             
-            <strong>Definitely&nbsp;</strong>
-            
             <span className="highlight-255-padding-3-6">
               
-              [DEFinitely][DEF i nite ly] /ˈdɛfɪnətli/ + /
-              
-              <Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">defini̛tely</Link>/ 
-              
-              &nbsp;⬤••• (4x)
+              [DEFinitely][<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">DEF i̛ ni̛te ly</Link>] /ˈdɛfɪnətli/ ⬤••• (4x)
               
             </span>
               
@@ -62,44 +56,34 @@ export default function Definitely2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1">Definitely <strong>not</strong> /nɒt/</li>
-        <li className="list-none">I ______ going to that party.</li>
+        <li value="1">i DEFinitely NOT GOing to that PARty.</li>
         <li className="list-none margin-bottom-20">Tôi chắc chắn sẽ không đi bữa tiệc đó.</li>
 
-        <li value="2">Definitely <strong>will</strong> /wɪl/</li>
-        <li className="list-none">I ______ be there on time.</li>
+        <li value="2">i DEFinitely will be THERE on TIME.</li>
         <li className="list-none margin-bottom-20">Tôi chắc chắn sẽ đến đúng giờ.</li>
 
-        <li value="3">Definitely <strong>the best</strong> /ðə bɛst/</li>
-        <li className="list-none">This is ______ pizza I've ever had.</li>
+        <li value="3">this is DEFinitely the BEST PIZza i've EVer had.</li>
         <li className="list-none margin-bottom-20">Đây chắc chắn là pizza ngon nhất mà tôi từng ăn.</li>
 
-        <li value="4">Definitely <strong>need</strong> /niːd/</li>
-        <li className="list-none">I ______ a vacation.</li>
+        <li value="4">i DEFinitely NEED a vaCAtion.</li>
         <li className="list-none margin-bottom-20">Tôi chắc chắn cần một kỳ nghỉ.</li>
 
-        <li value="5">Definitely <strong>worth it</strong> /wɜːθ ɪt/</li>
-        <li className="list-none">The movie was ______ watching.</li>
+        <li value="5">the MOvie was DEFinitely WORTH it WATChing.</li>
         <li className="list-none margin-bottom-20">Bộ phim đó chắc chắn đáng xem.</li>
 
-        <li value="6">Definitely <strong>know</strong> /noʊ/</li>
-        <li className="list-none">I ______ the answer to that question.</li>
+        <li value="6">i DEFinitely KNOW the ANswer to that QUEStion.</li>
         <li className="list-none margin-bottom-20">Tôi chắc chắn biết câu trả lời cho câu hỏi đó.</li>
 
-        <li value="7">Definitely <strong>recommend</strong> /ˌrekəˈmɛnd/</li>
-        <li className="list-none">I ______ this restaurant.</li>
+        <li value="7">i DEFinitely recomMEND this REStaurant.</li>
         <li className="list-none margin-bottom-20">Tôi chắc chắn đề xuất nhà hàng này.</li>
 
-        <li value="8">Definitely <strong>agree</strong> /əˈɡriː/</li>
-        <li className="list-none">I ______ with you.</li>
+        <li value="8">i DEFinitely aGREE with you.</li>
         <li className="list-none margin-bottom-20">Tôi hoàn toàn đồng ý với bạn.</li>
 
-        <li value="9">Definitely <strong>not true</strong> /nɒt truː/</li>
-        <li className="list-none">That story is ______.</li>
+        <li value="9">that STOry is DEFinitely NOT TRUE.</li>
         <li className="list-none margin-bottom-20">Câu chuyện đó chắc chắn không đúng.</li>
 
-        <li value="10">Definitely <strong>the best choice</strong> /ðə bɛst tʃɔɪs/</li>
-        <li className="list-none">Buying this house is ______.</li>
+        <li value="10">BUYing this HOUSE is DEFinitely the BEST CHOICE.</li>
         <li className="list-none margin-bottom-20">Mua căn nhà này chắc chắn là lựa chọn tốt nhất.</li>
 
       </ol>
@@ -116,7 +100,7 @@ export default function Definitely2(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>"<strong>Definitely</strong>" thường được đặt ở đầu câu hoặc trước hành động để bổ nghĩa.</li>
+          <li>"<strong>DEFinitely</strong>" thường được đặt ở đầu câu hoặc trước hành động để bổ nghĩa.</li>
 
           <li className="margin-bottom-20">Từ này có thể được sử dụng trong cả văn nói và văn viết.</li>
 

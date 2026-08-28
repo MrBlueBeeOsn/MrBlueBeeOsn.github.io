@@ -100,7 +100,7 @@ export default function SUREly1(): React.JSX.Element {
           <li><Link to="/vocabulary/certainly-1">CERtainly</Link>, i can HELP you.</li>
           <li className="margin-bottom-20 list-none">Chắc chắn rồi, tôi có thể giúp bạn.</li>
 
-          <li>i <Link to="/vocabulary/definitely-1">DEFinitely</Link> WANT to GO.</li>
+          <li>i <Link to="/vocabulary/DEFinitely-1">DEFinitely</Link> WANT to GO.</li>
           <li className="list-none">Tôi chắc chắn muốn đi.</li>
 
         </ul>
@@ -216,7 +216,7 @@ export default function SUREly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Mức độ chắc chắn: "<strong>SUREly</strong>" thể hiện một mức độ chắc chắn cao hơn so với "<Link to="/vocabulary/certainly-1">CERtainly</Link>" hoặc "<Link to="/vocabulary/definitely-1">DEFinitely</Link>".</li>
+          <li>Mức độ chắc chắn: "<strong>SUREly</strong>" thể hiện một mức độ chắc chắn cao hơn so với "<Link to="/vocabulary/certainly-1">CERtainly</Link>" hoặc "<Link to="/vocabulary/DEFinitely-1">DEFinitely</Link>".</li>
 
           <li className="margin-bottom-20">Câu hỏi: "<strong>SUREly</strong>" thường được sử dụng trong câu hỏi để thể hiện sự ngạc nhiên hoặc không đồng tình.</li>
 

@@ -133,7 +133,7 @@ export default function Questionably1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li><Link to="/vocabulary/definitely-1">Definitely</Link> /ˈdɛfɪnɪtli/</li>
+          <li><Link to="/vocabulary/DEFinitely-1">Definitely</Link> /ˈdɛfɪnɪtli/</li>
           <li className="list-none">I ______ know the answer.</li>
           <li className="margin-bottom-20 list-none">Tôi chắc chắn biết câu trả lời.</li>
 
