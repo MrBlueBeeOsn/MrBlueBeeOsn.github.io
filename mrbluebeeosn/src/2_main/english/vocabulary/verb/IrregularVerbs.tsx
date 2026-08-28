@@ -27,130 +27,78 @@ export default function IrregularVerbs(): React.JSX.Element {
 
 			<h3 className="margin-y-50 text-center">Bảng hành động bất quy tắc phổ biến nhất</h3>
 
-			<table className="margin-y-50">
-					<thead>
-						<tr>
-							<th>STT</th>
-							<th>Hiện tại đơn (thêm -s/es)</th>
-							<th>Quá khứ đơn (V2)</th>
-							<th>Quá khứ phân từ (V3)</th>
-							<th>Nghĩa phổ biến</th>
-						</tr>
-					</thead>
-
-					<tbody>
-
-						<tr>
-								<td>1</td>
-								<td>is</td>
-								<td>was / were</td>
-								<td>been</td>
-								<td>là, thì, ở</td>
-						</tr>
-						
-						<tr>
-								<td>2</td>
-								<td>has</td>
-								<td>had</td>
-								<td>had</td>
-								<td>có</td>
-						</tr>
-						
-						<tr>
-								<td>3</td>
-								<td>does</td>
-								<td>did</td>
-								<td>done</td>
-								<td>làm</td>
-						</tr>
-
-						<tr>
-								<td>4</td>
-								<td>goes</td>
-								<td>went</td>
-								<td>gone</td>
-								<td>đi</td>
-						</tr>
-
-
-						
-					</tbody>
-				</table>
-
-			
-			
-			<h4 className="margin-y-40">1. </h4>
+			<h4 className="margin-y-40">1. is</h4>
 			
 				<ul className="list-square">
 			
-					<li></li>
-					<li className="list-none"></li>
-					<li className="margin-bottom-20 list-none"></li>
+					<li>he <strong>is</strong> ALways CAREfully when reVIEWing the fiNANcial NUMbers <strong>EVERy EVEning</strong>.</li>
+					<li className="list-none">Anh ấy <strong>luôn</strong> cẩn thận khi xem xét các con số tài chính <strong>vào mỗi buổi tối</strong>.</li>
+					<li className="margin-bottom-20 list-none">Dùng thời hiện tại đơn với dạng is (cho chủ thể ngôi thứ ba số ít he) để chỉ trạng thái hoặc tính chất ở hiện tại.</li>
 			
-					<li></li>
-					<li className="list-none"></li>
-					<li className="margin-bottom-20 list-none"></li>
+					<li>she <strong>was</strong> VERy BUSy ORganizing her phoTOGraphy portFOlio <strong>YESterday</strong>.</li>
+					<li className="list-none">Cô ấy <strong>đã</strong> rất bận rộn sắp xếp danh mục đầu tư nhiếp ảnh của mình <strong>vào ngày hôm qua</strong>.</li>
+					<li className="margin-bottom-20 list-none">Dùng thời quá khứ đơn với dạng was (cho chủ thể số ít she) để chỉ trạng thái trong quá khứ, đi kèm với trạng từ yesterday.</li>
 			
-					<li></li>
-					<li className="list-none"></li>
-					<li className="list-none"></li>
+					<li>they <strong>have been</strong> WORKing on the WEB deVELopment PROJect for HOURS.</li>
+					<li className="list-none">Họ <strong>đã và đang</strong> làm việc trong dự án phát triển WEB suốt nhiều giờ <strong>rồi</strong>.</li>
+					<li className="list-none">Cấu trúc này dùng dạng hoàn thành với have been kết hợp với thể tiếp diễn, chỉ hành động bắt đầu trong quá khứ và vẫn tiếp tục kéo dài đến hiện tại.</li>
 			
 				</ul>
 			
 			
-			<h4 className="margin-y-40">2. </h4>
+			<h4 className="margin-y-40">2. has</h4>
 			
 				<ul className="list-square">
 			
-					<li></li>
-					<li className="list-none"></li>
-					<li className="margin-bottom-20 list-none"></li>
+					<li>he <strong>has</strong> an ENGlish LESson on his LEARNing APP <strong>EVERy EVEning</strong>.</li>
+					<li className="list-none">Anh ấy <strong>có</strong> một bài học tiếng Anh trên ứng dụng học tập của mình <strong>vào mỗi buổi tối</strong>.</li>
+					<li className="margin-bottom-20 list-none">Dùng thời hiện tại đơn với dạng has (cho chủ thể ngôi thứ ba số ít he) để chỉ thói quen hoặc sự việc diễn ra theo quy luật.</li>
 			
-					<li></li>
-					<li className="list-none"></li>
-					<li className="margin-bottom-20 list-none"></li>
+					<li>she <strong>had</strong> a proDUCtive MEETing with the acCOUNTing TEAM <strong>YESterday</strong>.</li>
+					<li className="list-none">Cô ấy <strong>đã có</strong> một cuộc họp hiệu quả với nhóm kế toán <strong>vào ngày hôm qua</strong>.</li>
+					<li className="margin-bottom-20 list-none">Dùng thời quá khứ đơn với dạng had để chỉ việc đã xảy ra và kết thúc trong quá khứ.</li>
 			
-					<li></li>
-					<li className="list-none"></li>
-					<li className="list-none"></li>
+					<li>they <strong>have had</strong> SEVeral disCUSsions about the NEW WEB PROJect.</li>
+					<li className="list-none">Họ <strong>đã có</strong> vài cuộc thảo luận về dự án web mới <strong>rồi</strong>.</li>
+					<li className="list-none">Cấu trúc này dùng dạng hoàn thành với have had (trong đó have là trợ động, còn had là động chính ở dạng phân từ hai), nói về sự việc đã diễn ra và vẫn có liên quan hoặc để lại kết quả ở hiện tại.</li>
 			
 				</ul>
 
 			
-			<h4 className="margin-y-40">3. </h4>
+			<h4 className="margin-y-40">3. DO</h4>
 			
 				<ul className="list-square">
 			
-					<li></li>
-					<li className="list-none"></li>
-					<li className="margin-bottom-20 list-none"></li>
+					<li>he <strong>DOES</strong> his WEB deVELopment WORK CAREfully <strong>EVERy EVEning</strong>.</li>
+					<li className="list-none">Anh ấy <strong>làm</strong> công việc phát triển web của mình một cách cẩn thận <strong>vào mỗi buổi tối</strong>.</li>
+					<li className="margin-bottom-20 list-none">Dùng thời hiện tại đơn với dạng DOES (cho chủ thể ngôi thứ ba số ít he) để chỉ thói quen hoặc sự việc diễn ra theo quy luật.</li>
 			
-					<li></li>
-					<li className="list-none"></li>
-					<li className="margin-bottom-20 list-none"></li>
+					<li>she <strong>DID</strong> a THORough CHECK of the acCOUNTing RECords <strong>YESterday</strong>.</li>
+					<li className="list-none">Cô ấy <strong>đã kiểm tra</strong> kỹ lưỡng các hồ sơ kế toán <strong>vào ngày hôm qua</strong>.</li>
+					<li className="margin-bottom-20 list-none">Dùng thời quá khứ đơn với dạng DID để chỉ việc đã xảy ra và kết thúc trong quá khứ.</li>
 			
-					<li></li>
-					<li className="list-none"></li>
-					<li className="list-none"></li>
+					<li>they <strong>have DONE</strong> a GREAT JOB UPdating the fiNANcial SOFTware.</li>
+					<li className="list-none">Họ <strong>đã làm</strong> một công việc tuyệt vời trong việc cập nhật phần mềm tài chính <strong>rồi</strong>.</li>
+					<li className="list-none">Cấu trúc này dùng dạng hoàn thành với have DONE, nói về sự việc đã hoàn tất và liên quan đến hiện tại.</li>
 			
 				</ul>
 			
 			
-			<h4 className="margin-y-40">4. </h4>
+			<h4 className="margin-y-40">4. GO</h4>
 			
 				<ul className="list-square">
 			
-					<li></li>
-					<li className="list-none"></li>
-					<li className="margin-bottom-20 list-none"></li>
+					<li>he <strong>GOES</strong> to the LOcal COFfee SHOP to BUY FRESH roBUSta BEANS <strong>EVERy EVEning</strong>.</li>
+					<li className="list-none">Anh ấy <strong>đi</strong> đến quán cà phê địa phương để mua hạt robusta tươi <strong>vào mỗi buổi tối</strong>.</li>
+					<li className="margin-bottom-20 list-none">Dùng thời hiện tại đơn với dạng GOES (cho chủ thể ngôi thứ ba số ít he) để chỉ thói quen hoặc sự việc diễn ra theo quy luật.</li>
 			
-					<li></li>
-					<li className="list-none"></li>
-					<li className="margin-bottom-20 list-none"></li>
+					<li>she <strong>WENT</strong> to the PARK to CAPture PICtures of the KITE FLYers <strong>YESterday</strong>.</li>
+					<li className="list-none">Cô ấy <strong>đã đi</strong> đến công viên để chụp lại những bức ảnh về người thả diều <strong>vào ngày hôm qua</strong>.</li>
+					<li className="margin-bottom-20 list-none">Dùng thời quá khứ đơn với dạng WENT để chỉ việc đã xảy ra và kết thúc trong quá khứ.</li>
 			
-					<li></li>
-					<li className="list-none"></li>
-					<li className="list-none"></li>
+					<li>they <strong>have GONE</strong> to the OFfice to FInalize the QUARterly fiNANcial STATEments.</li>
+					<li className="list-none">Họ <strong>đã đi</strong> đến văn phòng để hoàn thiện các báo cáo tài chính quý <strong>rồi</strong>.</li>
+					<li className="list-none">Cấu trúc này dùng dạng hoàn thành với have GONE, nói về sự việc đã hoàn tất và liên quan đến hiện tại.</li>
 			
 				</ul>
 			
@@ -1221,6 +1169,25 @@ export default function IrregularVerbs(): React.JSX.Element {
 					<li className="list-none">Cấu trúc này dùng từ chỉ hành động ở dạng hoàn thành (THROWN) đi sau has been để nói về một việc đã xảy ra và để lại kết quả ở hiện tại, với chủ thể chịu tác động là the WINdow (cửa sổ).</li>
 			
 				</ul>
+
+			
+			<h4 className="margin-y-40">61. SING</h4>
+			
+				<ul className="list-square">
+			
+					<li>he <strong>SINGS</strong> aLONG to his FAVOrite SONGS while CODing <strong>EVERy EVEning</strong>.</li>
+					<li className="list-none">Anh ấy <strong>hát</strong> theo những bài hát yêu thích của mình trong lúc lập trình <strong>vào mỗi buổi tối</strong>.</li>
+					<li className="margin-bottom-20 list-none">Dùng thời hiện tại đơn với dạng SINGS (cho chủ thể ngôi thứ ba số ít he) để chỉ thói quen hoặc sự việc diễn ra theo quy luật.</li>
+			
+					<li>she <strong>SANG</strong> a traDITional SONG at the FAMILy GATHering <strong>YESterday</strong>.</li>
+					<li className="list-none">Cô ấy <strong>đã hát</strong> một bài hát truyền thống trong buổi sum họp gia đình <strong>vào ngày hôm qua</strong>.</li>
+					<li className="margin-bottom-20 list-none">Dùng thời quá khứ đơn với dạng SANG để chỉ việc đã xảy ra và kết thúc trong quá khứ.</li>
+			
+					<li>they <strong>have SUNG</strong> toGETHer at many comMUnity eVENTs.</li>
+					<li className="list-none">Họ <strong>đã hát</strong> cùng nhau tại nhiều sự kiện cộng đồng <strong>rồi</strong>.</li>
+					<li className="list-none">Cấu trúc này dùng dạng hoàn thành với have SUNG, nói về sự việc đã hoàn tất và liên quan đến hiện tại.</li>
+			
+				</ul>
 			
 
 			<h3 className="margin-y-50 text-center">Cách sử dụng 3 cột V1 – V2 – V3 một cách dễ nhớ</h3>
@@ -1233,8 +1200,8 @@ export default function IrregularVerbs(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>she GOES to SCHOOL EVERy DAY.</li>
-					<li className="list-none">Cô ấy đi học mỗi ngày. (Thời hiện tại đơn)</li>
+					<li>she <strong>GOES</strong> to SCHOOL <strong>EVERy DAY</strong>.</li>
+					<li className="list-none">Cô ấy <strong>đi</strong> học <strong>mỗi ngày</strong>. (Thời hiện tại đơn)</li>
 			
 				</ul>
 
@@ -1246,8 +1213,8 @@ export default function IrregularVerbs(): React.JSX.Element {
 			
 				<ul className="list-square">
 
-					<li>YESterday, i WENT to the CINema.</li>
-					<li className="list-none">Hôm qua tôi đã đi xem phim (đi rạp chiếu phim). (Thời quá khứ đơn)</li>
+					<li><strong>YESterday</strong>, i <strong>WENT</strong> to the CINema.</li>
+					<li className="list-none"><strong>Hôm qua</strong> tôi <strong>đã đi</strong> xem phim (đi rạp chiếu phim). (Thời quá khứ đơn)</li>
 			
 				</ul>
 
@@ -1261,8 +1228,8 @@ export default function IrregularVerbs(): React.JSX.Element {
 			
 				<ul className="list-square">
 
-					<li>i have just GONE HOME.</li>
-					<li className="list-none">Tôi vừa mới về nhà. (Thời hiện tại hoàn thành)</li>
+					<li>i <strong>have just GONE</strong> HOME.</li>
+					<li className="list-none">Tôi <strong>vừa mới về</strong> nhà <strong>rồi</strong>. (Thời hiện tại hoàn thành)</li>
 			
 				</ul>
 
@@ -1272,8 +1239,8 @@ export default function IrregularVerbs(): React.JSX.Element {
 			
 				<ul className="list-square">
 
-					<li>i had FINished my HOMEwork before DINner.</li>
-					<li className="list-none">Tôi đã hoàn thành xong bài tập về nhà trước bữa tối. (Thời quá khứ hoàn thành)</li>
+					<li>i <strong>had FINished</strong> my HOMEwork before DINner.</li>
+					<li className="list-none">Tôi <strong>đã hoàn thành xong</strong> bài tập về nhà trước bữa tối <strong>rồi</strong>. (Thời quá khứ hoàn thành)</li>
 			
 				</ul>
 
@@ -1283,8 +1250,8 @@ export default function IrregularVerbs(): React.JSX.Element {
 			
 				<ul className="list-square">
 
-					<li>i will have FINished my HOMEwork by NINE p.m.</li>
-					<li className="list-none">Tôi sẽ hoàn thành xong bài tập về nhà trước 9 giờ tối. (Thời tương lai hoàn thành)</li>
+					<li>i <strong>will have FINished</strong> my HOMEwork by NINE p.m.</li>
+					<li className="list-none">Tôi <strong>sẽ hoàn thành xong</strong> bài tập về nhà trước 9 giờ tối <strong>rồi</strong>. (Thời tương lai hoàn thành)</li>
 			
 				</ul>
 					
@@ -1294,8 +1261,8 @@ export default function IrregularVerbs(): React.JSX.Element {
 			
 				<ul className="list-square">
 
-					<li>the LETter was WRITten by her.</li>
-					<li className="list-none">Bức thư đã được viết bởi cô ấy. (Câu bị động thời quá khứ đơn)</li>
+					<li>the LETter <strong>was WRITten</strong> by her.</li>
+					<li className="list-none">Bức thư <strong>đã được viết</strong> bởi cô ấy. (Câu bị động thời quá khứ đơn)</li>
 			
 				</ul>
 
@@ -1311,27 +1278,38 @@ export default function IrregularVerbs(): React.JSX.Element {
 			
 					<li>Nhóm V2 & V3 giống nhau: BUYS-BOUGHT-BOUGHT / BRINGS-BROUGHT-BROUGHT</li>
 
-					<li>Nhóm “đi & đến” đặc biệt: goes-went-gone / COMES-CAME-COME</li>
+					<li>Nhóm “đi & đến” đặc biệt: GOES-WENT-GONE / COMES-CAME-COME</li>
 			
 				</ul>
 
-			<h4 className="margin-top-30 margin-bottom-20">2. Học theo câu chuyện ngắn:</h4>
+			
+			<h4 className="margin-y-40">2. Học theo câu chuyện ngắn:</h4>
 			
 				<ul className="list-square">
 			
-					<li>Yesterday I <strong>took</strong> a photo, but today I have <strong>taken</strong> many photos already.</li>
+					<li><strong>YESterday</strong> i <strong>TOOK</strong> a PHOto, but toDAY i <strong>have TAken</strong> MANy PHOtos <strong>alREADy</strong>.</li>
+					<li className="margin-bottom-20 list-none"><strong>Ngày hôm qua</strong> tôi <strong>đã chụp</strong> một bức ảnh, nhưng hôm nay tôi <strong>đã chụp</strong> rất nhiều bức ảnh <strong>rồi</strong>.</li>
+			
+					<li><strong>YESterday</strong> i <strong>TOOK</strong> a PHOto:</li>
+					<li className="list-none">Cấu trúc này dùng thời quá khứ đơn với dạng TOOK của hành động TAKE.</li>
+					<li className="margin-bottom-20 list-none">Được dùng để diễn tả một hành động chụp ảnh đã xảy ra và kết thúc hoàn toàn trong quá khứ, đi kèm với trạng từ chỉ thời gian cụ thể là YESterday (ngày hôm qua).</li>
+			
+					<li>...but <strong>toDAY</strong> i <strong>have TAken</strong> MANy PHOtos <strong>alREADy</strong>:</li>
+					<li className="list-none">Cấu trúc này dùng thời hiện tại hoàn thành với dạng have TAken.</li>
+					<li className="list-none">Được dùng để nhấn mạnh kết quả hoặc số lượng ảnh đã chụp được tính đến thời điểm hiện tại trong ngày, kết hợp với trạng từ toDAY (hôm nay) và alREADy (đã... rồi).</li>
 			
 				</ul>
+			
 			
 			<h4 className="margin-top-30 margin-bottom-20">3. Flashcard 3 mặt (rất mạnh):</h4>
 					
 				<ul className="list-square">
 			
-					<li>Mặt 1: <strong>goes</strong></li>
+					<li>Mặt 1: <strong>GOES</strong></li>
 			
-					<li>Mặt 2: <strong>went</strong></li>
+					<li>Mặt 2: <strong>WENT</strong></li>
 			
-					<li>Mặt 3: <strong>gone</strong> + câu ví dụ</li>
+					<li>Mặt 3: <strong>GONE</strong> + câu ví dụ</li>
 			
 				</ul>
 
