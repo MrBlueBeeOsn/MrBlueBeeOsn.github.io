@@ -5,9 +5,9 @@ import EyeIcon from '@/components/view/EyeIcon';
 import ViewCounter from '@/components/view/ViewCounter';
 import LikeButton from '@/components/like/LikeButton';
 
-export default function Surely2(): React.JSX.Element {
+export default function SUREly2(): React.JSX.Element {
 
-  const postId = "Surely2";
+  const postId = "SUREly2";
 
   return (<>
 
@@ -17,18 +17,18 @@ export default function Surely2(): React.JSX.Element {
     
       <h4><HashLink smooth to="/vocabulary#adverbs-chac-chan-terms"><mark className="highlight-tertiary-padding-4-8">ADverbs: chắc chắn</mark></HashLink></h4>
       
-      <h1 className="margin-y-50 text-center">surely
+      <h1 className="margin-y-50 text-center">SUREly
         <sup>
-          <Link to="/vocabulary/surely-1">&nbsp;1&nbsp;</Link>
+          <Link to="/vocabulary/SUREly-1">&nbsp;1&nbsp;</Link>
         </sup>
         <sup>
-          <Link to="/vocabulary/surely-2">&nbsp;2&nbsp;</Link>
+          <Link to="/vocabulary/SUREly-2">&nbsp;2&nbsp;</Link>
         </sup>
       </h1>
 
       {/* This is the content of Vocabulary Term. */}
 
-      <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>surely</strong>" (chắc chắn) và các cụm từ hay đi kèm nhé.
+      <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>SUREly</strong>" (chắc chắn) và các cụm từ hay đi kèm nhé.
 
 </p>
 
@@ -38,15 +38,9 @@ export default function Surely2(): React.JSX.Element {
 
           <p className="margin-y-10">
             
-            <strong>Surely&nbsp;</strong>
-            
             <span className="highlight-255-padding-3-6">
               
-              [SUREly][SURE ly] /ˈʃʊrli/ + /
-              
-              <Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">surely</Link>/ 
-              
-              &nbsp;⬤• (2x)
+              [SUREly][<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">SURE ly</Link>] /ˈʃʊrli/ ⬤• (2x)
               
             </span>
               
@@ -64,44 +58,34 @@ export default function Surely2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1">Surely <strong>enough</strong> /ɪˈnʌf/</li>
-        <li className="list-none">I thought I left my keys on the table, and ______, there they were.</li>
+        <li value="1">i THOUGHT i LEFT my KEYS on the TAble, and SUREly eNOUGH, THERE they WERE.</li>
         <li className="list-none margin-bottom-20">Tôi nghĩ rằng tôi để chìa khóa trên bàn, và quả nhiên, chúng ở đó.</li>
 
-        <li value="2">Surely <strong>must</strong> /mʌst/</li>
-        <li className="list-none">She worked so hard; she ______ get a promotion.</li>
+        <li value="2">she WORKED so HARD; she SUREly must GET a proMOtion.</li>
         <li className="list-none margin-bottom-20">Cô ấy làm việc rất chăm chỉ, chắc chắn cô ấy phải được thăng chức.</li>
 
-        <li value="3">Surely <strong>you know</strong> /juː noʊ/</li>
-        <li className="list-none">______ the answer to this question.</li>
+        <li value="3">SUREly you KNOW the ANswer to this QUEStion.</li>
         <li className="list-none margin-bottom-20">Chắc chắn bạn biết câu trả lời cho câu hỏi này.</li>
 
-        <li value="4">Surely <strong>can</strong> /kæn/</li>
-        <li className="list-none">______ you ______ finish this task by tomorrow.</li>
+        <li value="4">SUREly you can FINish this TASK by toMORrow.</li>
         <li className="list-none margin-bottom-20">Chắc chắn bạn có thể hoàn thành công việc này vào ngày mai.</li>
 
-        <li value="5">Surely <strong>will</strong> /wɪl/</li>
-        <li className="list-none">The weather forecast says it will rain tomorrow, so ______ we ______ need umbrellas.</li>
+        <li value="5">the WEATHer FOREcast SAYS it will RAIN toMORrow, so SUREly we will NEED umBRELlas.</li>
         <li className="list-none margin-bottom-20">Dự báo thời tiết nói rằng trời sẽ mưa vào ngày mai, vì vậy chắc chắn chúng ta sẽ cần ô.</li>
 
-        <li value="6">Surely <strong>understand</strong> /ˌʌndərˈstænd/</li>
-        <li className="list-none">______ you ______ the importance of this project.</li>
+        <li value="6">SUREly you underSTAND the imPORtance of this PROJect.</li>
         <li className="list-none margin-bottom-20">Chắc chắn bạn hiểu tầm quan trọng của dự án này.</li>
 
-        <li value="7"><strong>Surely</strong> agree /əˈɡriː/</li>
-        <li className="list-none">______ you ______ that this is the best solution.</li>
+        <li value="7">SUREly you aGREE that this is the BEST soLUtion.</li>
         <li className="list-none margin-bottom-20">Chắc chắn bạn đồng ý rằng đây là giải pháp tốt nhất.</li>
 
-        <li value="8"><strong>Surely</strong> remember /rɪˈmembər/</li>
-        <li className="list-none">______ you ______ the day we met.</li>
+        <li value="8">SUREly you reMEMber the DAY we MET.</li>
         <li className="list-none margin-bottom-20">Chắc chắn bạn nhớ ngày chúng ta gặp nhau.</li>
 
-        <li value="9">Surely <strong>realize</strong> /ˈriːəlaɪz/</li>
-        <li className="list-none">______ you ______ the consequences of your actions.</li>
+        <li value="9">SUREly you REalize the CONsequences of your ACtions.</li>
         <li className="list-none margin-bottom-20">Chắc chắn bạn nhận ra hậu quả của hành động của mình.</li>
 
-        <li value="10">Surely <strong>appreciate</strong> /əˈpriːʃieɪt/</li>
-        <li className="list-none">______ all the hard work we've put into this.</li>
+        <li value="10">SUREly apPREciate all the HARD WORK we've PUT into THIS.</li>
         <li className="list-none margin-bottom-20">Chắc chắn bạn đánh giá cao tất cả những nỗ lực mà chúng ta đã bỏ ra.</li>
 
       </ol>
@@ -118,7 +102,7 @@ export default function Surely2(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>"<strong>Surely</strong>" có thể đứng ở đầu câu, giữa câu hoặc cuối câu để tạo ra các sắc thái khác nhau trong câu.</li>
+          <li>"<strong>SUREly</strong>" có thể đứng ở đầu câu, giữa câu hoặc cuối câu để tạo ra các sắc thái khác nhau trong câu.</li>
 
           <li className="margin-bottom-20">Từ này thường được sử dụng trong các tình huống giao tiếp thông thường hoặc trong văn viết trang trọng.</li>
 

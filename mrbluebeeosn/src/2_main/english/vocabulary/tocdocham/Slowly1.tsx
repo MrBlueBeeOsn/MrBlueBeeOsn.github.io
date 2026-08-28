@@ -103,7 +103,7 @@ export default function SLOWly1(): React.JSX.Element {
           <li>the PLANT GREW <Link to="/vocabulary/GRADually-1">GRADually</Link> TALler.</li>
           <li className="margin-bottom-20 list-none">Cây dần dần cao lên.</li>
 
-          <li>SLOWly but <Link to="/vocabulary/surely-1">SUREly</Link>, she was MAKing PROgress.</li>
+          <li>SLOWly but <Link to="/vocabulary/SUREly-1">SUREly</Link>, she was MAKing PROgress.</li>
           <li className="list-none">Chậm mà chắc, cô ấy đang tiến bộ.</li>
 
         </ul>

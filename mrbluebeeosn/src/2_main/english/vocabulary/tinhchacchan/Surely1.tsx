@@ -5,9 +5,9 @@ import EyeIcon from '@/components/view/EyeIcon';
 import ViewCounter from '@/components/view/ViewCounter';
 import LikeButton from '@/components/like/LikeButton';
 
-export default function Surely1(): React.JSX.Element {
+export default function SUREly1(): React.JSX.Element {
 
-  const postId = "Surely1";
+  const postId = "SUREly1";
 
   return (<>
 
@@ -17,29 +17,26 @@ export default function Surely1(): React.JSX.Element {
     
       <h4><HashLink smooth to="/vocabulary#adverbs-chac-chan-terms"><mark className="highlight-tertiary-padding-4-8">ADverbs: chắc chắn</mark></HashLink></h4>
       
-      <h1 className="margin-y-50 text-center">surely
-        <sup><Link to="/vocabulary/surely-1">&nbsp;1&nbsp;</Link>
+      <h1 className="margin-y-50 text-center">SUREly
+        <sup><Link to="/vocabulary/SUREly-1">&nbsp;1&nbsp;</Link>
         </sup>
-        <sup><Link to="/vocabulary/surely-2">&nbsp;2&nbsp;</Link>
+        <sup><Link to="/vocabulary/SUREly-2">&nbsp;2&nbsp;</Link>
         </sup>
       </h1>
 
       {/* This is the content of Vocabulary Term. */}
       
-      <p>Tuyệt vời! Chúng ta cùng khám phá từ "<strong>surely</strong>" nhé.</p>
+      <p>Tuyệt vời! Chúng ta cùng khám phá từ "<strong>SUREly</strong>" nhé.</p>
 
       <div className="text-border1 padding-top-20 padding-bottom-10 highlight-238-padding-4-8 bee-container">
 
         <div>
 
-          <p className="margin-bottom-20"><strong>Surely</strong></p>
-
           <ul className="list-square padding-left-40">
 
             <li>
               <span className="highlight-255-padding-3-6">
-                [SUREly][SURE ly] /ˈʃʊrli/ + /<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">surely</Link>/
-                &nbsp;⬤• (2x)
+                [SUREly][<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">SURE ly</Link>] /ˈʃʊrli/ ⬤• (2x)
               </span>
             </li>
 
@@ -57,16 +54,16 @@ export default function Surely1(): React.JSX.Element {
 
       </div>
 
-      <p className="margin-top-30 text-indent-whole">Từ "<strong>surely</strong>" được dùng để thể hiện sự chắc chắn, tin tưởng vào một điều gì đó. Nó thường được đặt ở đầu câu hoặc giữa câu để nhấn mạnh ý kiến của người nói.</p>
+      <p className="margin-top-30 text-indent-whole">Từ "<strong>SUREly</strong>" được dùng để thể hiện sự chắc chắn, tin tưởng vào một điều gì đó. Nó thường được đặt ở đầu câu hoặc giữa câu để nhấn mạnh ý kiến của người nói.</p>
 
       <p className="margin-top-20 text-indent-whole">Ví dụ:</p>
 
         <ul className="list-square">
 
-          <li>______, you're joking!</li>
+          <li>SUREly, you're JOking!</li>
           <li className="margin-bottom-20 list-none">Chắc chắn bạn đang đùa chứ?</li>
 
-          <li>He will ______ win the prize.</li>
+          <li>he will SUREly WIN the PRIZE.</li>
           <li className="list-none">Anh ấy chắc chắn sẽ giành được giải thưởng.</li>
 
         </ul>
@@ -83,8 +80,7 @@ export default function Surely1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Sure (adj) /ʃʊər/</li>
-          <li className="list-none">Are you ______ about that?</li>
+          <li>are you SURE about that?</li>
           <li className="list-none">Bạn có chắc chắn về điều đó không?</li>
 
         </ul>
@@ -101,12 +97,10 @@ export default function Surely1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li><Link to="/vocabulary/certainly-1">Certainly</Link> /ˈsɜːrtnli/</li>
-          <li className="list-none">______, I can help you.</li>
+          <li><Link to="/vocabulary/certainly-1">CERtainly</Link>, i can HELP you.</li>
           <li className="margin-bottom-20 list-none">Chắc chắn rồi, tôi có thể giúp bạn.</li>
 
-          <li><Link to="/vocabulary/definitely-1">Definitely</Link> /ˈdefɪnətli/</li>
-          <li className="list-none">I ______ want to go.</li>
+          <li>i <Link to="/vocabulary/definitely-1">DEFinitely</Link> WANT to GO.</li>
           <li className="list-none">Tôi chắc chắn muốn đi.</li>
 
         </ul>
@@ -125,12 +119,10 @@ export default function Surely1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Uncertainly /ʌnˈsɜːrtnli/</li>
-          <li className="list-none">He spoke ______.</li>
+          <li>he SPOKE unCERtainly.</li>
           <li className="margin-bottom-20 list-none">Anh ấy nói một cách không chắc chắn.</li>
 
-          <li>Doubtfully /ˈdaʊtfəli/</li>
-          <li className="list-none">She looked ______ at the proposal.</li>
+          <li>she LOOKED DOUBTfully at the proPOsal.</li>
           <li className="list-none">Cô ấy nhìn đề xuất một cách nghi ngờ.</li>
 
         </ul>
@@ -156,7 +148,7 @@ export default function Surely1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>He nodded ______, agreeing with the proposal.</li>
+          <li>he NODded SUREly, aGREEing with the proPOsal.</li>
           <li className="list-none">Anh ấy gật đầu chắc chắn, đồng ý với đề xuất.</li>
 
         </ul>
@@ -176,7 +168,7 @@ export default function Surely1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>______ you would like another cup of tea.</li>
+          <li>SUREly you would LIKE anOTHer CUP of TEA.</li>
           <li className="list-none">Chắc chắn bạn muốn một tách trà nữa chứ.</li>
 
         </ul>
@@ -198,10 +190,10 @@ export default function Surely1(): React.JSX.Element {
 
           <ol>
 
-            <li>He will win the game.</li>
+            <li>he will WIN the GAME.</li>
             <li className="list-none margin-bottom-20">Anh ấy sẽ thắng trận đấu.</li>
 
-            <li value="2">______ he will win the game. He's been practicing so hard.</li>
+            <li value="2">SUREly he will WIN the GAME. he's been PRACticing so HARD</li>
             <li className="list-none margin-bottom-20">Chắc chắn anh ấy sẽ thắng trận đấu. Anh ấy đã luyện tập rất chăm chỉ.</li>
 
           </ol>
@@ -224,9 +216,9 @@ export default function Surely1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Mức độ chắc chắn: "<strong>Surely</strong>" thể hiện một mức độ chắc chắn cao hơn so với "<Link to="/vocabulary/certainly-1">certainly</Link>" hoặc "<Link to="/vocabulary/definitely-1">definitely</Link>".</li>
+          <li>Mức độ chắc chắn: "<strong>SUREly</strong>" thể hiện một mức độ chắc chắn cao hơn so với "<Link to="/vocabulary/certainly-1">CERtainly</Link>" hoặc "<Link to="/vocabulary/definitely-1">DEFinitely</Link>".</li>
 
-          <li className="margin-bottom-20">Câu hỏi: "<strong>Surely</strong>" thường được sử dụng trong câu hỏi để thể hiện sự ngạc nhiên hoặc không đồng tình.</li>
+          <li className="margin-bottom-20">Câu hỏi: "<strong>SUREly</strong>" thường được sử dụng trong câu hỏi để thể hiện sự ngạc nhiên hoặc không đồng tình.</li>
 
         </ul>
 
