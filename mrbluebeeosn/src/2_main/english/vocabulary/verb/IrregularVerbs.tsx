@@ -112,47 +112,6 @@ export default function IrregularVerbs(): React.JSX.Element {
 								<td>biết</td>
 						</tr>
 
-						<tr>
-								<td>10</td>
-								<td>takes</td>
-								<td>took</td>
-								<td>taken</td>
-								<td>cầm, lấy, đi</td>
-						</tr>
-
-						<tr>
-								<td>11</td>
-								<td>gives</td>
-								<td>gave</td>
-								<td>given</td>
-								<td>cho, tặng</td>
-						</tr>
-						
-						<tr>
-								<td>12</td>
-								<td>writes</td>
-								<td>wrote</td>
-								<td>written</td>
-								<td>viết</td>
-						</tr>
-						
-						<tr>
-								<td>13</td>
-								<td>speaks</td>
-								<td>spoke</td>
-								<td>spoken</td>
-								<td>nói, nói chuyện</td>
-						</tr>
-
-						<tr>
-								<td>14</td>
-								<td>finds</td>
-								<td>found</td>
-								<td>found</td>
-								<td>tìm thấy</td>
-						</tr>
-
-
 						
 					</tbody>
 				</table>
@@ -330,98 +289,98 @@ export default function IrregularVerbs(): React.JSX.Element {
 				</ul>
 
 			
-			<h4 className="margin-y-40">10. </h4>
+			<h4 className="margin-y-40">10. TAKE</h4>
 			
 				<ul className="list-square">
 			
-					<li></li>
-					<li className="list-none"></li>
-					<li className="margin-bottom-20 list-none"></li>
+					<li>he <strong>TAKES</strong> a SHORT BREAK to enJOY a CUP of COFfee <strong>EVERy EVEning</strong>.</li>
+					<li className="list-none">Anh ấy <strong>dành</strong> một khoảng nghỉ ngắn để thưởng thức tách cà phê <strong>vào mỗi buổi tối</strong>.</li>
+					<li className="margin-bottom-20 list-none">Dùng thời hiện tại đơn với dạng TAKES (cho chủ thể ngôi thứ ba số ít he) để chỉ thói quen hoặc sự việc diễn ra theo quy luật.</li>
 			
-					<li></li>
-					<li className="list-none"></li>
-					<li className="margin-bottom-20 list-none"></li>
+					<li>she <strong>TOOK</strong> STUNning PHOtos at the KITE FIELD <strong>YESterday</strong>.</li>
+					<li className="list-none">Cô ấy <strong>đã chụp</strong> những bức ảnh tuyệt đẹp tại cánh đồng thả diều <strong>vào ngày hôm qua</strong>.</li>
+					<li className="margin-bottom-20 list-none">Dùng thời quá khứ đơn với dạng TOOK để chỉ việc đã xảy ra và kết thúc trong quá khứ.</li>
 			
-					<li></li>
-					<li className="list-none"></li>
-					<li className="list-none"></li>
+					<li>they <strong>have TAken</strong> all the fiNANcial RECords for AUditing.</li>
+					<li className="list-none">Họ <strong>đã lấy</strong> tất cả các hồ sơ tài chính để kiểm toán <strong>rồi</strong>.</li>
+					<li className="list-none">Cấu trúc này dùng dạng hoàn thành với have TAken, nói về sự việc đã hoàn tất và liên quan đến hiện tại.</li>
 			
 				</ul>
 			
 			
 			
-			<h4 className="margin-y-40">11. </h4>
+			<h4 className="margin-y-40">11. GIVE</h4>
 			
 				<ul className="list-square">
 			
-					<li></li>
-					<li className="list-none"></li>
-					<li className="margin-bottom-20 list-none"></li>
+					<li>he <strong>GIVES</strong> HELPful adVICE on WEB deVELopment <strong>EVERy EVEning</strong>.</li>
+					<li className="list-none">Anh ấy <strong>đưa ra</strong> những lời khuyên hữu ích về phát triển web <strong>vào mỗi buổi tối</strong>.</li>
+					<li className="margin-bottom-20 list-none">Dùng thời hiện tại đơn với dạng GIVES (cho chủ thể ngôi thứ ba số ít he) để chỉ thói quen hoặc sự việc diễn ra theo quy luật.</li>
 			
-					<li></li>
-					<li className="list-none"></li>
-					<li className="margin-bottom-20 list-none"></li>
+					<li>she <strong>GAVE</strong> a presenTAtion about her phoTOGraphy portFOlio <strong>YESterday</strong>.</li>
+					<li className="list-none">Cô ấy <strong>đã thuyết trình</strong> về danh mục đầu tư nhiếp ảnh của mình <strong>vào ngày hôm qua</strong>.</li>
+					<li className="margin-bottom-20 list-none">Dùng thời quá khứ đơn với dạng GAVE để chỉ việc đã xảy ra và kết thúc trong quá khứ.</li>
 			
-					<li></li>
-					<li className="list-none"></li>
-					<li className="list-none"></li>
+					<li>they <strong>have GIVen</strong> all the NECessary DAta to the acCOUNTing dePARTment.</li>
+					<li className="list-none">Họ <strong>đã cung cấp</strong> tất cả dữ liệu cần thiết cho phòng kế toán <strong>rồi</strong>.</li>
+					<li className="list-none">Cấu trúc này dùng dạng hoàn thành với have GIVen, nói về sự việc đã hoàn tất và liên quan đến hiện tại.</li>
 			
 				</ul>
 			
 			
-			<h4 className="margin-y-40">12. </h4>
+			<h4 className="margin-y-40">12. WRITES</h4>
 			
 				<ul className="list-square">
 			
-					<li></li>
-					<li className="list-none"></li>
-					<li className="margin-bottom-20 list-none"></li>
+					<li>he <strong>WRITES</strong> CODE for his WEB deVELopment PROJects <strong>EVERy EVEning</strong>.</li>
+					<li className="list-none">Anh ấy <strong>viết</strong> mã cho các dự án phát triển web của mình <strong>vào mỗi buổi tối</strong>.</li>
+					<li className="margin-bottom-20 list-none">Dùng thời hiện tại đơn với dạng WRITES (cho chủ thể ngôi thứ ba số ít he) để chỉ thói quen hoặc sự việc diễn ra theo quy luật.</li>
 			
-					<li></li>
-					<li className="list-none"></li>
-					<li className="margin-bottom-20 list-none"></li>
+					<li>she <strong>WROTE</strong> an ARticle about her phoTOGraphy JOURney <strong>YESterday</strong>.</li>
+					<li className="list-none">Cô ấy <strong>đã viết</strong> một bài báo về hành trình nhiếp ảnh của mình <strong>vào ngày hôm qua</strong>.</li>
+					<li className="margin-bottom-20 list-none">Dùng thời quá khứ đơn với dạng WROTE để chỉ việc đã xảy ra và kết thúc trong quá khứ.</li>
 			
-					<li></li>
-					<li className="list-none"></li>
-					<li className="list-none"></li>
+					<li>they <strong>have WRITten</strong> a compreHENsive fiNANcial rePORT for the COMpany.</li>
+					<li className="list-none">Họ <strong>đã viết</strong> một báo cáo tài chính toàn diện cho công ty <strong>rồi</strong>.</li>
+					<li className="list-none">Cấu trúc này dùng dạng hoàn thành với have WRITten, nói về sự việc đã hoàn tất và liên quan đến hiện tại.</li>
 			
 				</ul>
 
 			
-			<h4 className="margin-y-40">13. </h4>
+			<h4 className="margin-y-40">13. SPEAK</h4>
 			
 				<ul className="list-square">
 			
-					<li></li>
-					<li className="list-none"></li>
-					<li className="margin-bottom-20 list-none"></li>
+					<li>he <strong>SPEAKS</strong> ENGlish FLUently after PRACticing with his LANGuage APP <strong>EVERy EVEning</strong>.</li>
+					<li className="list-none">Anh ấy <strong>nói</strong> tiếng Anh trôi chảy sau khi luyện tập với ứng dụng ngôn ngữ của mình <strong>vào mỗi buổi tối</strong>.</li>
+					<li className="margin-bottom-20 list-none">Dùng thời hiện tại đơn với dạng SPEAKS (cho chủ thể ngôi thứ ba số ít he) để chỉ thói quen hoặc sự việc diễn ra theo quy luật.</li>
 			
-					<li></li>
-					<li className="list-none"></li>
-					<li className="margin-bottom-20 list-none"></li>
+					<li>she <strong>SPOKE</strong> to the phoTOGraphy CLIent about the PROJect DEtails <strong>YESterday</strong>.</li>
+					<li className="list-none">Cô ấy <strong>đã nói chuyện</strong> với khách hàng về các chi tiết dự án nhiếp ảnh <strong>vào ngày hôm qua</strong>.</li>
+					<li className="margin-bottom-20 list-none">Dùng thời quá khứ đơn với dạng SPOKE để chỉ việc đã xảy ra và kết thúc trong quá khứ.</li>
 			
-					<li></li>
-					<li className="list-none"></li>
-					<li className="list-none"></li>
+					<li>they <strong>have SPOken</strong> about the NEW acCOUNTing STRATegies <strong>alREADy</strong>.</li>
+					<li className="list-none">Họ <strong>đã bàn bạc</strong> về các chiến lược kế toán mới <strong>rồi</strong>.</li>
+					<li className="list-none">Cấu trúc này dùng dạng hoàn thành với have SPOken, nói về sự việc đã hoàn tất và liên quan đến hiện tại.</li>
 			
 				</ul>
 			
 			
-			<h4 className="margin-y-40">14. </h4>
+			<h4 className="margin-y-40">14. FIND</h4>
 			
 				<ul className="list-square">
 			
-					<li></li>
-					<li className="list-none"></li>
-					<li className="margin-bottom-20 list-none"></li>
+					<li>he <strong>FINDS</strong> NEW inspirAtion for his WEB PROJects <strong>EVERy EVEning</strong>.</li>
+					<li className="list-none">Anh ấy <strong>tìm thấy</strong> nguồn cảm hứng mới cho các dự án web của mình <strong>vào mỗi buổi tối</strong>.</li>
+					<li className="margin-bottom-20 list-none">Dùng thời hiện tại đơn với dạng FINDS (cho chủ thể ngôi thứ ba số ít he) để chỉ thói quen hoặc sự việc diễn ra theo quy luật.</li>
 			
-					<li></li>
-					<li className="list-none"></li>
-					<li className="margin-bottom-20 list-none"></li>
+					<li>she <strong>FOUND</strong> a GREAT DEAL on a CAMERa LENS <strong>YESterday</strong>.</li>
+					<li className="list-none">Cô ấy <strong>đã tìm thấy</strong> một món hời về ống kính máy ảnh <strong>vào ngày hôm qua</strong>.</li>
+					<li className="margin-bottom-20 list-none">Dùng thời quá khứ đơn với dạng FOUND để chỉ việc đã xảy ra và kết thúc trong quá khứ.</li>
 			
-					<li></li>
-					<li className="list-none"></li>
-					<li className="list-none"></li>
+					<li>they <strong>have FOUND</strong> a soLUtion to the acCOUNTing disCREPancy.</li>
+					<li className="list-none">Họ <strong>đã tìm ra</strong> giải pháp cho khoản chênh lệch kế toán <strong>rồi</strong>.</li>
+					<li className="list-none">Cấu trúc này dùng dạng hoàn thành với have FOUND, nói về sự việc đã hoàn tất và liên quan đến hiện tại.</li>
 			
 				</ul>
 			
