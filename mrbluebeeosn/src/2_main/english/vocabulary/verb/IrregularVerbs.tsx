@@ -72,45 +72,6 @@ export default function IrregularVerbs(): React.JSX.Element {
 								<td>đi</td>
 						</tr>
 
-						<tr>
-								<td>5</td>
-								<td>comes</td>
-								<td>came</td>
-								<td>come</td>
-								<td>đến, tới</td>
-						</tr>
-
-						<tr>
-								<td>6</td>
-								<td>sees</td>
-								<td>saw</td>
-								<td>seen</td>
-								<td>nhìn, thấy</td>
-						</tr>
-
-						<tr>
-								<td>7</td>
-								<td>gets</td>
-								<td>got</td>
-								<td>got / gotten (AmE)</td>
-								<td>lấy, nhận, trở nên</td>
-						</tr>
-
-						<tr>
-								<td>8</td>
-								<td>makes</td>
-								<td>made</td>
-								<td>made</td>
-								<td>làm, chế tạo</td>
-						</tr>
-
-						<tr>
-								<td>9</td>
-								<td>knows</td>
-								<td>knew</td>
-								<td>known</td>
-								<td>biết</td>
-						</tr>
 
 						
 					</tbody>
@@ -194,97 +155,97 @@ export default function IrregularVerbs(): React.JSX.Element {
 				</ul>
 			
 
-			<h4 className="margin-y-40">5. </h4>
+			<h4 className="margin-y-40">5. COME</h4>
 			
 				<ul className="list-square">
 			
-					<li></li>
-					<li className="list-none"></li>
-					<li className="margin-bottom-20 list-none"></li>
+					<li>he <strong>COMES</strong> HOME from WORK to enJOY a WARM CUP of COFfee <strong>EVERy EVEning</strong>.</li>
+					<li className="list-none">Anh ấy <strong>trở về</strong> nhà sau giờ làm việc để thưởng thức một tách cà phê ấm vào mỗi buổi tối.</li>
+					<li className="margin-bottom-20 list-none">Dùng thời hiện tại đơn với dạng COMES (cho chủ thể ngôi thứ ba số ít he) để chỉ thói quen hoặc sự việc diễn ra theo quy luật.</li>
 			
-					<li></li>
-					<li className="list-none"></li>
-					<li className="margin-bottom-20 list-none"></li>
+					<li>she <strong>CAME</strong> to the LOcal PARK to TAKE PHOtos of the KITES <strong>YESterday</strong>.</li>
+					<li className="list-none">Cô ấy <strong>đã đến</strong> công viên địa phương để chụp ảnh những con diều vào ngày hôm qua.</li>
+					<li className="margin-bottom-20 list-none">Dùng thời quá khứ đơn với dạng CAME để chỉ việc đã xảy ra và kết thúc trong quá khứ.</li>
 			
-					<li></li>
-					<li className="list-none"></li>
-					<li className="list-none"></li>
+					<li>they <strong>have COME UP</strong> with a NEW STRATegy for the WEB PROJect.</li>
+					<li className="list-none">Họ <strong>đã đưa ra</strong> một chiến lược mới cho dự án web <strong>rồi</strong>.</li>
+					<li className="list-none">Cấu trúc này dùng dạng hoàn thành với have COME, nói về sự việc đã hoàn tất và liên quan đến hiện tại.</li>
 			
 				</ul>
 			
 			
-			<h4 className="margin-y-40">6. </h4>
+			<h4 className="margin-y-40">6. SEE</h4>
 			
 				<ul className="list-square">
 			
-					<li></li>
-					<li className="list-none"></li>
-					<li className="margin-bottom-20 list-none"></li>
+					<li>he <strong>SEES</strong> the SUNset CLEARly from his BALcony <strong>EVERy EVEning</strong>.</li>
+					<li className="list-none">Anh ấy <strong>nhìn thấy</strong> hoàng hôn rõ ràng từ ban công của mình <strong>vào mỗi buổi tối</strong>.</li>
+					<li className="margin-bottom-20 list-none">Dùng thời hiện tại đơn với dạng SEES (cho chủ thể ngôi thứ ba số ít he) để chỉ thói quen hoặc sự việc diễn ra theo quy luật.</li>
 			
-					<li></li>
-					<li className="list-none"></li>
-					<li className="margin-bottom-20 list-none"></li>
+					<li>she <strong>SAW</strong> a BEAUtiful KITE FLYing HIGH in the SKY <strong>YESterday</strong>.</li>
+					<li className="list-none">Cô ấy <strong>đã nhìn thấy</strong> một con diều đẹp bay cao trên bầu trời <strong>vào ngày hôm qua</strong>.</li>
+					<li className="margin-bottom-20 list-none">Dùng thời quá khứ đơn với dạng SAW để chỉ việc đã xảy ra và kết thúc trong quá khứ.</li>
 			
-					<li></li>
-					<li className="list-none"></li>
-					<li className="list-none"></li>
+					<li>they <strong>have SEEN</strong> sigNIFicant imPROVEments in the acCOUNTing SOFTware.</li>
+					<li className="list-none">Họ <strong>đã thấy</strong> những cải tiến đáng kể trong phần mềm kế toán <strong>rồi</strong>.</li>
+					<li className="list-none">Cấu trúc này dùng dạng hoàn thành với have SEEN, nói về sự việc đã hoàn tất và liên quan đến hiện tại.</li>
 			
 				</ul>
 
 			
-			<h4 className="margin-y-40">7. </h4>
+			<h4 className="margin-y-40">7. GET</h4>
 			
 				<ul className="list-square">
 			
-					<li></li>
-					<li className="list-none"></li>
-					<li className="margin-bottom-20 list-none"></li>
+					<li>he <strong>GETS</strong> FRESH COFfee BEANS deLIVered to his HOUSE <strong>EVERy EVEning</strong>.</li>
+					<li className="list-none">Anh ấy <strong>nhận</strong> những hạt cà phê tươi được giao đến nhà <strong>vào mỗi buổi tối</strong>.</li>
+					<li className="margin-bottom-20 list-none">Dùng thời hiện tại đơn với dạng GETS (cho chủ thể ngôi thứ ba số ít he) để chỉ thói quen hoặc sự việc diễn ra theo quy luật.</li>
 			
-					<li></li>
-					<li className="list-none"></li>
-					<li className="margin-bottom-20 list-none"></li>
+					<li>she <strong>GOT</strong> a GREAT DEAL on a NEW CAMERa LENS <strong>YESterday</strong>.</li>
+					<li className="list-none">Cô ấy <strong>đã mua</strong> được một món hời cho chiếc ống kính máy ảnh mới <strong>vào ngày hôm qua</strong>.</li>
+					<li className="margin-bottom-20 list-none">Dùng thời quá khứ đơn với dạng GOT để chỉ việc đã xảy ra và kết thúc trong quá khứ.</li>
 			
-					<li></li>
-					<li className="list-none"></li>
-					<li className="list-none"></li>
+					<li>they <strong>have GOTten</strong> all the fiNANcial rePORTs READy for the MEETing.</li>
+					<li className="list-none">Họ <strong>đã chuẩn bị xong</strong> tất cả các báo cáo tài chính cho cuộc họp <strong>rồi</strong>.</li>
+					<li className="list-none">Cấu trúc này dùng dạng hoàn thành với have GOTten, nói về sự việc đã hoàn tất và liên quan đến hiện tại.</li>
 			
 				</ul>
 
 			
-			<h4 className="margin-y-40">8. </h4>
+			<h4 className="margin-y-40">8. MAKE</h4>
 			
 				<ul className="list-square">
 			
-					<li></li>
-					<li className="list-none"></li>
-					<li className="margin-bottom-20 list-none"></li>
+					<li>he <strong>MAKES</strong> a STRONG CUP of PHIN COFfee <strong>EVERy EVEning</strong>.</li>
+					<li className="list-none">Anh ấy <strong>pha</strong> một tách cà phê phin đậm đặc <strong>vào mỗi buổi tối</strong>.</li>
+					<li className="margin-bottom-20 list-none">Dùng thời hiện tại đơn với dạng MAKES (cho chủ thể ngôi thứ ba số ít he) để chỉ thói quen hoặc sự việc diễn ra theo quy luật.</li>
 			
-					<li></li>
-					<li className="list-none"></li>
-					<li className="margin-bottom-20 list-none"></li>
+					<li>she <strong>MADE</strong> a deLIcious BRAISED DISH in her CAST Iron PAN <strong>YESterday</strong>.</li>
+					<li className="list-none">Cô ấy <strong>đã làm</strong> một món kho ngon trong chiếc chảo gang của mình <strong>vào ngày hôm qua</strong>.</li>
+					<li className="margin-bottom-20 list-none">Dùng thời quá khứ đơn với dạng MADE để chỉ việc đã xảy ra và kết thúc trong quá khứ.</li>
 			
-					<li></li>
-					<li className="list-none"></li>
-					<li className="list-none"></li>
+					<li>they <strong>have MADE</strong> sigNIFicant UPdates to the WEB deVELopment PROJect.</li>
+					<li className="list-none">Họ <strong>đã thực hiện</strong> những cập nhật quan trọng cho dự án phát triển web <strong>rồi</strong>.</li>
+					<li className="list-none">Cấu trúc này dùng dạng hoàn thành với have MADE, nói về sự việc đã hoàn tất và liên quan đến hiện tại.</li>
 			
 				</ul>
 
 
-			<h4 className="margin-y-40">9. </h4>
+			<h4 className="margin-y-40">9. KNOW</h4>
 			
 				<ul className="list-square">
 			
-					<li></li>
-					<li className="list-none"></li>
-					<li className="margin-bottom-20 list-none"></li>
+					<li>he <strong>KNOWS</strong> how to OPtimize WEBsite perFORmance <strong>EVERy EVEning</strong>.</li>
+					<li className="list-none">Anh ấy <strong>biết</strong> cách tối ưu hóa hiệu suất trang web <strong>vào mỗi buổi tối</strong>.</li>
+					<li className="margin-bottom-20 list-none">Dùng thời hiện tại đơn với dạng KNOWS (cho chủ thể ngôi thứ ba số ít he) để chỉ thói quen hoặc sự việc diễn ra theo quy luật.</li>
 			
-					<li></li>
-					<li className="list-none"></li>
-					<li className="margin-bottom-20 list-none"></li>
+					<li>she <strong>KNEW</strong> how to FIX her CAMERa SETtings <strong>YESterday</strong>.</li>
+					<li className="list-none">Cô ấy <strong>đã biết</strong> cách chỉnh cài đặt máy ảnh của mình <strong>vào ngày hôm qua</strong>.</li>
+					<li className="margin-bottom-20 list-none">Dùng thời quá khứ đơn với dạng KNEW để chỉ việc đã xảy ra và kết thúc trong quá khứ.</li>
 			
-					<li></li>
-					<li className="list-none"></li>
-					<li className="list-none"></li>
+					<li>they <strong>have KNOWN</strong> about the NEW acCOUNTing reguLAtions for WEEKS.</li>
+					<li className="list-none">Họ <strong>đã biết</strong> về các quy định kế toán mới trong nhiều tuần <strong>rồi</strong>.</li>
+					<li className="list-none">Cấu trúc này dùng dạng hoàn thành với have KNOWN, nói về sự việc đã hoàn tất và liên quan đến hiện tại.</li>
 			
 				</ul>
 
@@ -1344,13 +1305,13 @@ export default function IrregularVerbs(): React.JSX.Element {
 					
 				<ul className="list-square">
 			
-					<li>Nhóm nguyên vẹn: cuts-cut-cut / hits-hit-hit / PUTS-PUT-PUT</li>
+					<li>Nhóm nguyên vẹn: CUTS-CUT-CUT / HITS-HIT-HIT / PUTS-PUT-PUT</li>
 			
-					<li>Nhóm đổi nguyên âm: sings-sang-sung / drinks-drank-drunk / swims-swam-swum</li>
+					<li>Nhóm đổi nguyên âm: sings-sang-sung / DRINKS-DRANK-DRUNK / SWIMS-SWAM-SWUM</li>
 			
 					<li>Nhóm V2 & V3 giống nhau: BUYS-BOUGHT-BOUGHT / BRINGS-BROUGHT-BROUGHT</li>
 
-					<li>Nhóm “đi & đến” đặc biệt: goes-went-gone / comes-came-come</li>
+					<li>Nhóm “đi & đến” đặc biệt: goes-went-gone / COMES-CAME-COME</li>
 			
 				</ul>
 
