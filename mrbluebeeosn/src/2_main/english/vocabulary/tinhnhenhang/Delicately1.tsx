@@ -100,7 +100,7 @@ export default function DELicately1(): React.JSX.Element {
           <li>she <Link to="/vocabulary/GENTly-1">GENTly</Link> CLOSED the DOOR.</li>
           <li className="margin-bottom-20 list-none">Cô ấy nhẹ nhàng đóng cửa.</li>
 
-          <li>he <Link to="/vocabulary/carefully-1">CAREfully</Link> PACKED the BOX.</li>
+          <li>he <Link to="/vocabulary/CAREfully-1">CAREfully</Link> PACKED the BOX.</li>
           <li className="list-none">Anh ấy cẩn thận đóng gói hộp.</li>
 
         </ul>

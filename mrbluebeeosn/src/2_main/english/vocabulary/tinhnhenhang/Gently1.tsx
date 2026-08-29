@@ -100,7 +100,7 @@ export default function GENTly1(): React.JSX.Element {
           <li>she SPOKE <Link to="/vocabulary/SOFTly-1">SOFTly</Link>.</li>
           <li className="margin-bottom-20 list-none">Cô ấy nói nhỏ nhẹ.</li>
 
-          <li>HANdle the GLASS <Link to="/vocabulary/carefully-1">CAREfully</Link>.</li>
+          <li>HANdle the GLASS <Link to="/vocabulary/CAREfully-1">CAREfully</Link>.</li>
           <li className="list-none">Nhẹ nhàng cầm cái ly.</li>
 
         </ul>

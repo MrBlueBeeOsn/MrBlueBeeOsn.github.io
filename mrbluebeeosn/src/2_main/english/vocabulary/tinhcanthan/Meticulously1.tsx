@@ -100,7 +100,7 @@ export default function meTICulously1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>she <Link to="/vocabulary/carefully-1">CAREfully</Link> WRAPPED the GIFT.</li>
+          <li>she <Link to="/vocabulary/CAREfully-1">CAREfully</Link> WRAPPED the GIFT.</li>
           <li className="margin-bottom-20 list-none">Cô ấy gói quà rất cẩn thận.</li>
 
           <li>he <Link to="/vocabulary/THORoughly-1">THORoughly</Link> CLEANED the ROOM.</li>

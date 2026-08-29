@@ -5,9 +5,9 @@ import EyeIcon from '@/components/view/EyeIcon';
 import ViewCounter from '@/components/view/ViewCounter';
 import LikeButton from '@/components/like/LikeButton';
 
-export default function Carefully2(): React.JSX.Element {
+export default function CAREfully2(): React.JSX.Element {
 
-  const postId = "Carefully2";
+  const postId = "CAREfully2";
 
   return (<>
 
@@ -17,18 +17,18 @@ export default function Carefully2(): React.JSX.Element {
     
       <h4><HashLink smooth to="/vocabulary#adverbs-can-than-terms"><mark className="highlight-tertiary-padding-4-8">ADverbs: cẩn thận</mark></HashLink></h4>
       
-      <h1 className="margin-y-50 text-center">carefully
+      <h1 className="margin-y-50 text-center">CAREfully
         <sup>
-          <Link to="/vocabulary/carefully-1">&nbsp;1&nbsp;</Link>
+          <Link to="/vocabulary/CAREfully-1">&nbsp;1&nbsp;</Link>
         </sup>
         <sup>
-          <Link to="/vocabulary/carefully-2">&nbsp;2&nbsp;</Link>
+          <Link to="/vocabulary/CAREfully-2">&nbsp;2&nbsp;</Link>
         </sup>
       </h1>
 
       {/* This is the content of Vocabulary Term. */}
 
-      <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>carefully</strong>" (một cách cẩn thận) và các cụm từ thường đi kèm nhé.</p>
+      <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>CAREfully</strong>" (một cách cẩn thận) và các cụm từ thường đi kèm nhé.</p>
 
       <div className="text-border1 padding-10 highlight-238-padding-4-8 bee-container">
 
@@ -36,15 +36,9 @@ export default function Carefully2(): React.JSX.Element {
 
           <p className="margin-y-10">
             
-            <strong>Carefully&nbsp;</strong>
-            
             <span className="highlight-255-padding-3-6">
               
-              [CAREfully][CARE ful ly] /ˈkerfəli/ + /
-              
-              <Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">cā̄refưlly</Link>/ 
-              
-              &nbsp;⬤•• (3x)
+              [CAREfully][<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">CĀ̄RE fưl ly</Link>] /ˈkerfəli/ ⬤•• (3x)
               
             </span>
               
@@ -62,44 +56,34 @@ export default function Carefully2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1">Carefully <strong>considered</strong> /kənˈsɪdərd/</li>
-        <li className="list-none">The proposal was ______ by the committee.</li>
+        <li value="1">the proPOsal was CAREfully conSIDered by the comMITtee.</li>
         <li className="list-none margin-bottom-20">Đề xuất đã được ủy ban cân nhắc kỹ lưỡng.</li>
 
-        <li value="2">Carefully <strong>examined</strong> /ɪɡˈzæmɪnd/</li>
-        <li className="list-none">The doctor ______ the patient.</li>
+        <li value="2">the DOCtor CAREfully exAMined the PAtient.</li>
         <li className="list-none margin-bottom-20">Bác sĩ đã khám bệnh nhân rất kỹ lưỡng.</li>
 
-        <li value="3">Carefully <strong>selected</strong> /sɪˈlɛktɪd/</li>
-        <li className="list-none">The ingredients were ______ for the dish.</li>
+        <li value="3">the inGREdients were CAREfully seLECTed for the DISH.</li>
         <li className="list-none margin-bottom-20">Nguyên liệu đã được chọn lựa kỹ lưỡng cho món ăn.</li>
 
-        <li value="4">Carefully <strong>wrapped</strong> /ræpt/</li>
-        <li className="list-none">The fragile item was ______ to prevent breakage.</li>
+        <li value="4">the FRAGile Item was CAREfully WRAPPED to preVENT BREAKage.</li>
         <li className="list-none margin-bottom-20">Vật liệu dễ vỡ đã được gói cẩn thận để tránh bị vỡ.</li>
 
-        <li value="5">Carefully <strong>listened</strong> /ˈlɪsnd/</li>
-        <li className="list-none">She ______ to his explanation.</li>
+        <li value="5">she CAREfully LIStened to his explaNAtion.</li>
         <li className="list-none margin-bottom-20">Cô ấy lắng nghe lời giải thích của anh ấy rất cẩn thận.</li>
 
-        <li value="6">Carefully <strong>measured</strong> /ˈmɛʒərd/</li>
-        <li className="list-none">The ingredients were ______ to ensure the perfect taste.</li>
+        <li value="6">the inGREdients were CAREfully MEASured to enSURE the PERfect TASTE.</li>
         <li className="list-none margin-bottom-20">Nguyên liệu đã được đo lường cẩn thận để đảm bảo hương vị hoàn hảo.</li>
 
-        <li value="7">Carefully <strong>planned</strong> /plænd/</li>
-        <li className="list-none">The trip was ______ to avoid any problems.</li>
+        <li value="7">the TRIP was CAREfully PLANNED to aVOID any PROBlems.</li>
         <li className="list-none margin-bottom-20">Chuyến đi đã được lên kế hoạch cẩn thận để tránh bất kỳ vấn đề nào.</li>
 
-        <li value="8">Carefully <strong>monitored</strong> /ˈmɒnɪtərd/</li>
-        <li className="list-none">The patient's condition was ______.</li>
+        <li value="8">the PAtient's conDITion was CAREfully MONitored.</li>
         <li className="list-none margin-bottom-20">Tình trạng của bệnh nhân đã được theo dõi chặt chẽ.</li>
 
-        <li value="9">Carefully <strong>preserved</strong> /prɪˈzɜːvd/</li>
-        <li className="list-none">The antique vase was ______ for generations.</li>
+        <li value="9">the anTIQUE VASE was CAREfully preSERVED for generAtions.</li>
         <li className="list-none margin-bottom-20">Cái bình cổ đã được bảo quản cẩn thận qua nhiều thế hệ.</li>
 
-        <li value="10">Carefully <strong>handled</strong> /ˈhændld/</li>
-        <li className="list-none">The fragile glass was ______.</li>
+        <li value="10">the FRAGile GLASS was CAREfully HANDled.</li>
         <li className="list-none margin-bottom-20">Cái ly thủy tinh dễ vỡ đã được xử lý cẩn thận.</li>
 
       </ol>
@@ -116,7 +100,7 @@ export default function Carefully2(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>"<strong>Carefully</strong>" thường được đặt trước hành động để nhấn mạnh cách thức thực hiện một hành động.</li>
+          <li>"<strong>CAREfully</strong>" thường được đặt trước hành động để nhấn mạnh cách thức thực hiện một hành động.</li>
 
           <li className="margin-bottom-20">Từ này thường được sử dụng trong các văn bản hướng dẫn, báo cáo hoặc các văn bản mang tính chuyên môn.</li>
 

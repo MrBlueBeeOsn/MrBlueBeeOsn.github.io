@@ -105,7 +105,7 @@ export default function Attentively1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li><Link to="/vocabulary/carefully-1">Carefully</Link> /ˈkeə.fə.li/</li>
+          <li><Link to="/vocabulary/CAREfully-1">Carefully</Link> /ˈkeə.fə.li/</li>
           <li className="list-none">He handled the fragile object ______.</li>
           <li className="margin-bottom-20 list-none">Anh ấy xử lý vật dễ vỡ một cách cẩn thận.</li>
 

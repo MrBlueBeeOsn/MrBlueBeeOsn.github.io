@@ -109,7 +109,7 @@ export default function CAUtiously1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>READ the inSTRUCtions <Link to="/vocabulary/carefully-1">CAREfully</Link>.</li>
+          <li>READ the inSTRUCtions <Link to="/vocabulary/CAREfully-1">CAREfully</Link>.</li>
           <li className="margin-bottom-20 list-none">Hãy đọc kỹ hướng dẫn.</li>
 
           <li>he inVESTed his MONey PRUdently.</li>
