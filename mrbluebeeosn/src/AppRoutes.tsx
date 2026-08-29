@@ -1041,8 +1041,8 @@ export default function AppRoutes(): React.JSX.Element {
 					<Route path="/vocabulary/repeatedly-2" element={<Repeatedly2 />} />
 					<Route path="/vocabulary/frequently-1" element={<Frequently1 />} />
 					<Route path="/vocabulary/frequently-2" element={<Frequently2 />} />
-					<Route path="/vocabulary/usually-1" element={<Usually1 />} />
-					<Route path="/vocabulary/usually-2" element={<Usually2 />} />
+					<Route path="/vocabulary/Usually-1" element={<Usually1 />} />
+					<Route path="/vocabulary/Usually-2" element={<Usually2 />} />
 
 					{/* 9. Vocabulary - Tính hiếm */}
 					<Route path="/vocabulary/seldom-1" element={<Seldom1 />} />

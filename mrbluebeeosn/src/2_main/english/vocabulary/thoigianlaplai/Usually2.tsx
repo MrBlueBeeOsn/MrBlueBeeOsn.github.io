@@ -17,18 +17,18 @@ export default function Usually2(): React.JSX.Element {
     
       <h4><HashLink smooth to="/vocabulary#thoi-gian-lap-lai-terms"><mark className="highlight-tertiary-padding-4-88">ADverbs: lặp lại</mark></HashLink></h4>
       
-      <h1 className="margin-y-50 text-center">usually
+      <h1 className="margin-y-50 text-center">Usually
         <sup>
-          <Link to="/vocabulary/usually-1">&nbsp;1&nbsp;</Link>
+          <Link to="/vocabulary/Usually-1">&nbsp;1&nbsp;</Link>
         </sup>
         <sup>
-          <Link to="/vocabulary/usually-2">&nbsp;2&nbsp;</Link>
+          <Link to="/vocabulary/Usually-2">&nbsp;2&nbsp;</Link>
         </sup>
       </h1>
 
       {/* This is the content of Vocabulary Term. */}
 
-      <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>usually</strong>" (thường xuyên) và các cụm từ thường đi kèm nhé.</p>
+      <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>Usually</strong>" (thường xuyên) và các cụm từ thường đi kèm nhé.</p>
 
       <div className="text-border1 padding-10 highlight-238-padding-4-8 bee-container">
 
@@ -36,15 +36,9 @@ export default function Usually2(): React.JSX.Element {
 
           <p className="margin-y-10">
             
-            <strong>Usually&nbsp;</strong>
-            
             <span className="highlight-255-padding-3-6">
               
-              [Usually][U su al ly] /ˈjuːʒuəli/ + /
-              
-              <Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">ūsua̛lly</Link>/ 
-              
-              &nbsp;⬤••• (4x)
+              [Usually][<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">Ū su a̛l ly</Link>] /ˈjuːʒuəli/ ⬤••• (4x)
               
             </span>
               
@@ -62,44 +56,34 @@ export default function Usually2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1">Usually <strong>does</strong> /dəz/</li>
-        <li className="list-none">She ______ her homework after dinner.</li>
+        <li value="1">she Usually DOES her HOMEwork after DINner.</li>
         <li className="list-none margin-bottom-20">Cô ấy thường làm bài tập về nhà sau bữa tối.</li>
 
-        <li value="2">Usually <strong>goes</strong> /ɡəʊz/</li>
-        <li className="list-none">He ______ to bed at 10 pm.</li>
+        <li value="2">he Usually GOES to BED at 10 PM.</li>
         <li className="list-none margin-bottom-20">Anh ấy thường đi ngủ lúc 10 giờ tối.</li>
 
-        <li value="3">Usually <strong>rains</strong> /reɪnz/</li>
-        <li className="list-none">It ______ in the winter.</li>
+        <li value="3">it Usually RAINS in the WINter.</li>
         <li className="list-none margin-bottom-20">Mùa đông thường mưa.</li>
 
-        <li value="4">Usually <strong>takes</strong> /teɪks/</li>
-        <li className="list-none">It ______ me an hour to get to work.</li>
+        <li value="4">it Usually TAKES me an HOUR to GET to WORK.</li>
         <li className="list-none margin-bottom-20">Tôi thường mất một giờ để đi làm.</li>
 
-        <li value="5">Usually <strong>feels</strong> /fiːlz/</li>
-        <li className="list-none">She ______ happy after exercising.</li>
+        <li value="5">she Usually FEELS HAPpy after EXercising.</li>
         <li className="list-none margin-bottom-20">Cô ấy thường cảm thấy vui vẻ sau khi tập thể dục.</li>
 
-        <li value="6">Usually <strong>looks</strong> /lʊks/</li>
-        <li className="list-none">He ______ tired in the morning.</li>
+        <li value="6">he Usually LOOKS TIRED in the MORNing.</li>
         <li className="list-none margin-bottom-20">Anh ấy thường trông mệt mỏi vào buổi sáng.</li>
 
-        <li value="7">Usually <strong>eats</strong> /iːts/</li>
-        <li className="list-none">She ______ fruits for breakfast.</li>
+        <li value="7">she Usually EATS FRUITS for BREAKfast.</li>
         <li className="list-none margin-bottom-20">Cô ấy thường ăn trái cây vào bữa sáng.</li>
 
-        <li value="8">Usually <strong>lives</strong> /lɪvz/</li>
-        <li className="list-none">He ______ in a small apartment.</li>
+        <li value="8">he Usually LIVES in a SMALL aPARTment.</li>
         <li className="list-none margin-bottom-20">Anh ấy thường sống trong một căn hộ nhỏ.</li>
 
-        <li value="9">Usually <strong>works</strong> /wɜːks/</li>
-        <li className="list-none">She ______ from home on Fridays.</li>
+        <li value="9">she Usually WORKS from HOME on FRIdays.</li>
         <li className="list-none margin-bottom-20">Cô ấy thường làm việc tại nhà vào thứ Sáu.</li>
 
-        <li value="10">Usually <strong>plays</strong> /pleɪz/</li>
-        <li className="list-none">He ______ basketball with his friends on weekends.</li>
+        <li value="10">he Usually PLAYS BASketball with his FRIENDS on WEEKends.</li>
         <li className="list-none margin-bottom-20">Anh ấy thường chơi bóng rổ với bạn bè vào cuối tuần.</li>
 
       </ol>
@@ -118,7 +102,7 @@ export default function Usually2(): React.JSX.Element {
 
           <li>"<strong>Usually</strong>" thường đứng ở đầu câu hoặc trước hành động để nhấn mạnh tính thường xuyên của một hành động.</li>
 
-          <li className="margin-bottom-20">Từ này có thể được thay thế bằng các từ đồng nghĩa như: <Link to="/vocabulary/often-1">often</Link>, generally, commonly.</li>
+          <li className="margin-bottom-20">Từ này có thể được thay thế bằng các từ đồng nghĩa như: <Link to="/vocabulary/often-1">OFten</Link>, GENERally, COMmonly.</li>
 
         </ul>
 
