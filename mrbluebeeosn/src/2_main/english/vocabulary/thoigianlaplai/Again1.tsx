@@ -105,7 +105,7 @@ export default function Again1(): React.JSX.Element {
           <li className="list-none">Let's try ______.</li>
           <li className="margin-bottom-20 list-none">Chúng ta hãy thử thêm một lần nữa.</li>
 
-          <li><Link to="/vocabulary/repeatedly-1">Repeatedly</Link> /rɪˈpiː.tɪd.li/</li>
+          <li><Link to="/vocabulary/rePEATedly-1">Repeatedly</Link> /rɪˈpiː.tɪd.li/</li>
           <li className="list-none">He ______ made the same mistake.</li>
           <li className="list-none">Anh ấy liên tục mắc cùng một lỗi lầm.</li>
 

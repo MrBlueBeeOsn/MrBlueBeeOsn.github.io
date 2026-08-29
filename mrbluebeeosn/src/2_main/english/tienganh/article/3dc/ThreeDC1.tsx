@@ -896,7 +896,7 @@ export default function ThreeDC1(): React.ReactElement {
 			
 					<ul className="list-square">
 				
-						<li>[she NOT ONly] WRITES CLEAN CODE [but ALso] deSIGNS BEAUtiful INterfaces.</li>
+						<li>[she NOT Only] WRITES CLEAN CODE [but ALso] deSIGNS BEAUtiful INterfaces.</li>
 						<li className="list-none">Cô ấy [không chỉ] viết mã sạch [mà còn] thiết kế các giao diện đẹp mắt.</li>
 				
 					</ul>
@@ -906,10 +906,10 @@ export default function ThreeDC1(): React.ReactElement {
 
 					<ul className="list-square">
 
-						<li>[NOT ONly does] she WRITE CLEAN CODE, [but she ALso] deSIGNS BEAUtiful INterfaces.</li>
+						<li>[NOT Only does] she WRITE CLEAN CODE, [but she ALso] deSIGNS BEAUtiful INterfaces.</li>
 						<li className="margin-bottom-20 list-none">[Không chỉ thực sự] cô ấy viết mã sạch, [mà] cô ấy [còn] thiết kế được các giao diện đẹp mắt.</li>
 
-						<li className="list-none">→ Việc đưa [NOT ONly does] - <strong>Trạng Cụm phủ định</strong> [<strong>Negative Adverb Phrase</strong>] "NOT ONly" và [Thời Động Cơ][Tense Verb Base] "does" lên đầu câu nhấn mạnh rằng kỹ năng của cô ấy không dừng lại ở việc viết mã mà còn vượt xa hơn thế ở mảng thiết kế.</li>
+						<li className="list-none">→ Việc đưa [NOT Only does] - <strong>Trạng Cụm phủ định</strong> [<strong>Negative Adverb Phrase</strong>] "NOT Only" và [Thời Động Cơ][Tense Verb Base] "does" lên đầu câu nhấn mạnh rằng kỹ năng của cô ấy không dừng lại ở việc viết mã mà còn vượt xa hơn thế ở mảng thiết kế.</li>
 
 				
 					</ul>

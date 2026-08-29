@@ -120,7 +120,7 @@ export default function THORoughly1(): React.JSX.Element {
           <li>they disCUSSED the PROblem superFICially, without GOing into any DEtail.</li>
           <li className="margin-bottom-20 list-none">Họ thảo luận về vấn đề một cách hời hợt, không đi vào chi tiết.</li>
 
-          <li>the TASK was ONly PARtially comPLEted.</li>
+          <li>the TASK was Only PARtially comPLEted.</li>
           <li className="list-none">Công việc chỉ được hoàn thành một phần.</li>
 
         </ul>

@@ -5,9 +5,9 @@ import EyeIcon from '@/components/view/EyeIcon';
 import ViewCounter from '@/components/view/ViewCounter';
 import LikeButton from '@/components/like/LikeButton';
 
-export default function Repeatedly2(): React.JSX.Element {
+export default function rePEATedly2(): React.JSX.Element {
 
-  const postId = "Repeatedly2";
+  const postId = "rePEATedly2";
 
   return (<>
 
@@ -17,18 +17,18 @@ export default function Repeatedly2(): React.JSX.Element {
     
       <h4><HashLink smooth to="/vocabulary#thoi-gian-lap-lai-terms"><mark className="highlight-tertiary-padding-4-88">ADverbs: lặp lại</mark></HashLink></h4>
       
-      <h1 className="margin-y-50 text-center">repeatedly
+      <h1 className="margin-y-50 text-center">rePEATedly
         <sup>
-          <Link to="/vocabulary/repeatedly-1">&nbsp;1&nbsp;</Link>
+          <Link to="/vocabulary/rePEATedly-1">&nbsp;1&nbsp;</Link>
         </sup>
         <sup>
-          <Link to="/vocabulary/repeatedly-2">&nbsp;2&nbsp;</Link>
+          <Link to="/vocabulary/rePEATedly-2">&nbsp;2&nbsp;</Link>
         </sup>
       </h1>
 
       {/* This is the content of Vocabulary Term. */}
 
-      <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>repeatedly</strong>" (một cách lặp đi lặp lại) và các cụm từ hay đi kèm nhé.
+      <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>rePEATedly</strong>" (một cách lặp đi lặp lại) và các cụm từ hay đi kèm nhé.
 
 </p>
 
@@ -38,15 +38,9 @@ export default function Repeatedly2(): React.JSX.Element {
 
           <p className="margin-y-10">
             
-            <strong>Repeatedly&nbsp;</strong>
-            
             <span className="highlight-255-padding-3-6">
               
-              [rePEAtedly][re PEAT ed ly] /rɪˈpiːtɪdli/ + /
-              
-              <Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">rėpēatėdly</Link>/ 
-              
-              &nbsp;•⬤•• (4x)
+              [rePEATedly][<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">rė PĒAT ėd ly</Link>] /rɪˈpiːtɪdli/ •⬤•• (4x)
               
             </span>
               
@@ -64,44 +58,34 @@ export default function Repeatedly2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1">Repeatedly <strong>asked</strong> /ɑːst/</li>
-        <li className="list-none">She ______ him to turn down the music.</li>
+        <li value="1">she rePEATedly ASKED him to TURN DOWN the MUsic.</li>
         <li className="list-none margin-bottom-20">Cô ấy liên tục yêu cầu anh ấy vặn nhỏ tiếng nhạc.</li>
 
-        <li value="2">Repeatedly <strong>failed</strong> /feɪld/</li>
-        <li className="list-none">He ______ his driving test.</li>
+        <li value="2">he rePEATedly FAILED his DRIving TEST.</li>
         <li className="list-none margin-bottom-20">Anh ấy thi bằng lái nhiều lần nhưng đều trượt.</li>
 
-        <li value="3">Repeatedly <strong>warned</strong> /wɔːnd/</li>
-        <li className="list-none">She was ______ about the dangers of speeding.</li>
+        <li value="3">she was rePEATedly WARNED about the DANGers of SPEEDing.</li>
         <li className="list-none margin-bottom-20">Cô ấy đã được cảnh báo nhiều lần về nguy hiểm của việc lái xe quá tốc độ.</li>
 
-        <li value="4">Repeatedly <strong>emphasized</strong> /ˈɛmfəsaɪzd/</li>
-        <li className="list-none">The teacher ______ the importance of studying.</li>
+        <li value="4">the TEACHer rePEATedly EMphasized the imPORtance of STUDying.</li>
         <li className="list-none margin-bottom-20">Giáo viên đã nhấn mạnh nhiều lần tầm quan trọng của việc học.</li>
 
-        <li value="5">Repeatedly <strong>tested</strong> /ˈtɛstɪd/</li>
-        <li className="list-none">The new drug was ______ for safety.</li>
+        <li value="5">the NEW DRUG was rePEATedly TESTed for SAFEty.</li>
         <li className="list-none margin-bottom-20">Loại thuốc mới đã được kiểm tra độ an toàn nhiều lần.</li>
 
-        <li value="6">Repeatedly <strong>exposed</strong> /ɪkˈspəʊzd/</li>
-        <li className="list-none">She was ______ to loud noise.</li>
+        <li value="6">she was rePEATedly exPOSED to LOUD NOISE.</li>
         <li className="list-none margin-bottom-20">Cô ấy thường xuyên tiếp xúc với tiếng ồn lớn.</li>
 
-        <li value="7">Repeatedly <strong>delayed</strong> /dɪˈleɪd/</li>
-        <li className="list-none">The project was ______ due to funding issues.</li>
+        <li value="7">the PROJect was rePEATedly deLAYED due to FUNding ISsues.</li>
         <li className="list-none margin-bottom-20">Dự án đã bị trì hoãn nhiều lần do vấn đề về tài chính.</li>
 
-        <li value="8">Repeatedly <strong>mentioned</strong> /ˈmɛnʃənd/</li>
-        <li className="list-none">He ______ his desire to travel.</li>
+        <li value="8">he rePEATedly MENtioned his deSIre to TRAVel.</li>
         <li className="list-none margin-bottom-20">Anh ấy đã đề cập nhiều lần về mong muốn được đi du lịch.</li>
 
-        <li value="9">Repeatedly <strong>observed</strong> /əbˈzɜːvd/</li>
-        <li className="list-none">The scientists ______ the behavior of the animals.</li>
+        <li value="9">the SCIentists rePEATedly obSERVED the beHAvior of the ANimals.</li>
         <li className="list-none margin-bottom-20">Các nhà khoa học đã quan sát hành vi của động vật nhiều lần.</li>
 
-        <li value="10">Repeatedly <strong>practiced</strong> /ˈpræktɪst/</li>
-        <li className="list-none">She ______ the piano piece until she could play it perfectly.</li>
+        <li value="10">she rePEATedly PRACticed the piANo PIECE until she could PLAY it PERfectly.</li>
         <li className="list-none margin-bottom-20">Cô ấy đã luyện tập bài piano đó nhiều lần cho đến khi chơi được hoàn hảo.</li>
 
       </ol>
@@ -118,7 +102,7 @@ export default function Repeatedly2(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>"<strong>Repeatedly</strong>" thường được đặt trước hành động để bổ nghĩa.</li>
+          <li>"<strong>rePEATedly</strong>" thường được đặt trước hành động để bổ nghĩa.</li>
 
           <li className="margin-bottom-20">Từ này thường được sử dụng để nhấn mạnh tính thường xuyên và sự kiên trì của một hành động.</li>
 

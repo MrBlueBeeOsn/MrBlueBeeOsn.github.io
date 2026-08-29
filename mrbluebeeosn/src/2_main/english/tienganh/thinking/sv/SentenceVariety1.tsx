@@ -210,10 +210,10 @@ export default function SentenceVariety1(): React.JSX.Element {
 			
 				<ul className="list-square">
 
-					<li>ONly after HARD WORK does sucCESS COME.</li>
+					<li>Only after HARD WORK does sucCESS COME.</li>
 					<li className="margin-bottom-20 list-none">Chỉ sau khi làm việc chăm chỉ, thành công mới đến.</li>
 
-					<li className="list-none">Đây là cấu trúc đảo ngữ (Inversion) trong tiếng Anh. Cụm từ ONly after được đưa lên đầu câu để nhấn mạnh điều kiện thiết yếu (phải làm việc chăm chỉ), do đó trợ hành động does được đảo lên trước chủ thể sucCESS.</li>
+					<li className="list-none">Đây là cấu trúc đảo ngữ (Inversion) trong tiếng Anh. Cụm từ Only after được đưa lên đầu câu để nhấn mạnh điều kiện thiết yếu (phải làm việc chăm chỉ), do đó trợ hành động does được đảo lên trước chủ thể sucCESS.</li>
 			
 				</ul>
 

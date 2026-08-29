@@ -77,7 +77,7 @@ export default function meTICulously2(): React.JSX.Element {
         <li value="7">the hisTORian meTICulously reCORDed EVERy DEtail of the eVent.</li>
         <li className="list-none margin-bottom-20">Nhà sử học ghi chép tỉ mỉ mọi chi tiết của sự kiện.</li>
 
-        <li value="8">the CHEF meTICulously prePARED the MEAL, Using ONly the FRESHest inGREdients</li>
+        <li value="8">the CHEF meTICulously prePARED the MEAL, Using Only the FRESHest inGREdients</li>
         <li className="list-none margin-bottom-20">Đầu bếp chuẩn bị món ăn một cách tỉ mỉ, chỉ sử dụng những nguyên liệu tươi ngon nhất.</li>
 
         <li value="9">the MODel was meTICulously asSEMbled FOLlowing the inSTRUCtions exACTly.</li>
