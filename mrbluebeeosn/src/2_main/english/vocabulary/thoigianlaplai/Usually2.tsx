@@ -71,7 +71,7 @@ export default function Usually2(): React.JSX.Element {
         <li value="5">she Usually FEELS HAPpy after EXercising.</li>
         <li className="list-none margin-bottom-20">Cô ấy thường cảm thấy vui vẻ sau khi tập thể dục.</li>
 
-        <li value="6">he Usually LOOKS TIRED in the MORNing.</li>
+        <li value="6">he Usually LOOKS TIRED in the MORning.</li>
         <li className="list-none margin-bottom-20">Anh ấy thường trông mệt mỏi vào buổi sáng.</li>
 
         <li value="7">she Usually EATS FRUITS for BREAKfast.</li>
@@ -102,7 +102,7 @@ export default function Usually2(): React.JSX.Element {
 
           <li>"<strong>Usually</strong>" thường đứng ở đầu câu hoặc trước hành động để nhấn mạnh tính thường xuyên của một hành động.</li>
 
-          <li className="margin-bottom-20">Từ này có thể được thay thế bằng các từ đồng nghĩa như: <Link to="/vocabulary/often-1">OFten</Link>, GENERally, COMmonly.</li>
+          <li className="margin-bottom-20">Từ này có thể được thay thế bằng các từ đồng nghĩa như: <Link to="/vocabulary/OFten-1">OFten</Link>, GENERally, COMmonly.</li>
 
         </ul>
 

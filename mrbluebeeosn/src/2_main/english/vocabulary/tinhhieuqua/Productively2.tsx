@@ -62,7 +62,7 @@ export default function proDUCtively2(): React.JSX.Element {
         <li value="2">she proDUCtively USED her TIME to LEARN a NEW SKILL.</li>
         <li className="list-none margin-bottom-20">Cô ấy đã sử dụng thời gian của mình một cách hiệu quả để học một kỹ năng mới.</li>
 
-        <li value="3">he proDUCtively SPENT his MORNing WRITing rePORTS.</li>
+        <li value="3">he proDUCtively SPENT his MORning WRITing rePORTS.</li>
         <li className="list-none">He productively spent his morning writing reports.</li>
         <li className="list-none margin-bottom-20">Anh ấy đã dành buổi sáng của mình một cách hiệu quả để viết báo cáo.</li>
 

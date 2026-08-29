@@ -129,7 +129,7 @@ export default function Rarely1(): React.JSX.Element {
           <li className="list-none">I ______ go to the gym.</li>
           <li className="margin-bottom-20 list-none">Tôi thường xuyên đến phòng tập thể dục.</li>
 
-          <li><Link to="/vocabulary/often-1">Often</Link> /ˈɔːfən/</li>
+          <li><Link to="/vocabulary/OFten-1">Often</Link> /ˈɔːfən/</li>
           <li className="list-none">She ______ cooks dinner.</li>
           <li className="list-none">Cô ấy thường nấu bữa tối.</li>
 

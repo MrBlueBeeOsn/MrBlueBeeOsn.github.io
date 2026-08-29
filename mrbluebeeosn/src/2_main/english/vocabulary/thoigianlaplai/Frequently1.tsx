@@ -105,7 +105,7 @@ export default function Frequently1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li><Link to="/vocabulary/often-1">Often</Link>______ /ˈɔːfən/</li>
+          <li><Link to="/vocabulary/OFten-1">Often</Link>______ /ˈɔːfən/</li>
           <li className="list-none">I ______ go for a walk in the park.</li>
           <li className="margin-bottom-20 list-none">Tôi thường đi dạo trong công viên.</li>
 
@@ -228,7 +228,7 @@ export default function Frequently1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Mức độ thường xuyên: "<strong>requently</strong>" cho thấy một mức độ thường xuyên cao hơn so với "<Link to="/vocabulary/often-1">often</Link>".</li>
+          <li>Mức độ thường xuyên: "<strong>requently</strong>" cho thấy một mức độ thường xuyên cao hơn so với "<Link to="/vocabulary/OFten-1">often</Link>".</li>
 
           <li className="margin-bottom-20">Tính lặp lại: Nó nhấn mạnh tính lặp đi lặp lại của một hành động hoặc sự kiện.</li>
 

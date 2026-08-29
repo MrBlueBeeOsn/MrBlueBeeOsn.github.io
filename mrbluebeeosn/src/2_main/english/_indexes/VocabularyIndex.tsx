@@ -447,10 +447,10 @@ export default function VocabularyIndex(): React.JSX.Element {
 						</li>
 						
 						<li>
-							<Link to="/vocabulary/often-1">often
+							<Link to="/vocabulary/OFten-1">OFten
 								<sup>&nbsp;1&nbsp;</sup>
 									</Link> 
-									<Link to="/vocabulary/often-2">
+									<Link to="/vocabulary/OFten-2">
 								<sup>&nbsp;2&nbsp;</sup>
 							</Link>
 						</li>

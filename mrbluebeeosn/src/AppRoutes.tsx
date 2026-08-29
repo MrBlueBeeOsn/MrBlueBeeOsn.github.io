@@ -430,8 +430,8 @@ const Posts = lazy(() => import('@/data/Posts'));
 	// 8. Vocabulary - Tính lặp lại
 	const Again1 = lazy(() => import('@/2_main/english/vocabulary/thoigianlaplai/Again1'));
 	const Again2 = lazy(() => import('@/2_main/english/vocabulary/thoigianlaplai/Again2'));
-	const Often1 = lazy(() => import('@/2_main/english/vocabulary/thoigianlaplai/Often1'));
-	const Often2 = lazy(() => import('@/2_main/english/vocabulary/thoigianlaplai/Often2'));
+	const OFten1 = lazy(() => import('@/2_main/english/vocabulary/thoigianlaplai/OFten1'));
+	const OFten2 = lazy(() => import('@/2_main/english/vocabulary/thoigianlaplai/OFten2'));
 	const RePEATedly1 = lazy(() => import('@/2_main/english/vocabulary/thoigianlaplai/rePEATedly1'));
 	const RePEATedly2 = lazy(() => import('@/2_main/english/vocabulary/thoigianlaplai/rePEATedly2'));
 	const Frequently1 = lazy(() => import('@/2_main/english/vocabulary/thoigianlaplai/Frequently1'));
@@ -1035,8 +1035,8 @@ export default function AppRoutes(): React.JSX.Element {
 					{/* 8. Vocabulary - Thời gian lặp lại */}
 					<Route path="/vocabulary/again-1" element={<Again1 />} />
 					<Route path="/vocabulary/again-2" element={<Again2 />} />
-					<Route path="/vocabulary/often-1" element={<Often1 />} />
-					<Route path="/vocabulary/often-2" element={<Often2 />} />
+					<Route path="/vocabulary/OFten-1" element={<OFten1 />} />
+					<Route path="/vocabulary/OFten-2" element={<OFten2 />} />
 					<Route path="/vocabulary/rePEATedly-1" element={<RePEATedly1 />} />
 					<Route path="/vocabulary/rePEATedly-2" element={<RePEATedly2 />} />
 					<Route path="/vocabulary/frequently-1" element={<Frequently1 />} />

@@ -123,7 +123,7 @@ export default function Seldom1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li><Link to="/vocabulary/often-1">Often</Link> /ˈɒf.ən/</li>
+          <li><Link to="/vocabulary/OFten-1">Often</Link> /ˈɒf.ən/</li>
           <li className="list-none">I ______ go for a walk in the park.</li>
           <li className="margin-bottom-20 list-none">Tôi thường đi dạo trong công viên.</li>
 
