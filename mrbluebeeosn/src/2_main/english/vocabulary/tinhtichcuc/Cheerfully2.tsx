@@ -74,7 +74,7 @@ export default function CHEERfully2(): React.JSX.Element {
         <li value="6">the STUdents CHEERfully parTICipated in the GAME.</li>
         <li className="list-none margin-bottom-20">Học sinh vui vẻ tham gia trò chơi.</li>
 
-        <li value="7">the BIRDS CHEERfully SANG in the MORning.</li>
+        <li value="7">the BIRDS CHEERfully SANG in the MORNing.</li>
         <li className="list-none margin-bottom-20">Những chú chim vui vẻ hót líu lo vào buổi sáng.</li>
 
         <li value="8">the CHILdren CHEERfully DANCED to the MUsic.</li>

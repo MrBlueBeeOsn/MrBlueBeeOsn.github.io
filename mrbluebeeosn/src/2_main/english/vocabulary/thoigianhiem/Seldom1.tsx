@@ -127,7 +127,7 @@ export default function Seldom1(): React.JSX.Element {
           <li className="list-none">I ______ go for a walk in the park.</li>
           <li className="margin-bottom-20 list-none">Tôi thường đi dạo trong công viên.</li>
 
-          <li><Link to="/vocabulary/frequently-1">Frequently</Link> /ˈfriː.kwənt.li/</li>
+          <li><Link to="/vocabulary/FREquently-1">Frequently</Link> /ˈfriː.kwənt.li/</li>
           <li className="list-none">He ______ travels abroad.</li>
           <li className="list-none">Anh ấy thường xuyên đi du lịch nước ngoài.</li>
 

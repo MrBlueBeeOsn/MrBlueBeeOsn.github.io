@@ -96,7 +96,7 @@ export default function OFten1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>she <Link to="/vocabulary/frequently-1">FREquently</Link> VISits her GRANDparents.</li>
+          <li>she <Link to="/vocabulary/FREquently-1">FREquently</Link> VISits her GRANDparents.</li>
           <li className="margin-bottom-20 list-none">Cô ấy thường xuyên thăm ông bà.</li>
 
           <li>they EXercise REGularly.</li>
@@ -189,7 +189,7 @@ export default function OFten1(): React.JSX.Element {
 
           <ol>
 
-            <li value="1">she <Link to="/vocabulary/frequently-1">FREquently</Link> atTENDS CONFERences.</li>
+            <li value="1">she <Link to="/vocabulary/FREquently-1">FREquently</Link> atTENDS CONFERences.</li>
             <li className="list-none">Cô ấy thường xuyên tham dự hội nghị.</li>
             <li className="list-none margin-bottom-20">Cách nói trang trọng hơn, nhấn mạnh tính thường xuyên.</li>
 

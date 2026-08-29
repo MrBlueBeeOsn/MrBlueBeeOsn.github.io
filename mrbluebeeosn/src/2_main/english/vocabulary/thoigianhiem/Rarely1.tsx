@@ -125,7 +125,7 @@ export default function Rarely1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li><Link to="/vocabulary/frequently-1">Frequently</Link> /ˈfriːkwəntli/</li>
+          <li><Link to="/vocabulary/FREquently-1">Frequently</Link> /ˈfriːkwəntli/</li>
           <li className="list-none">I ______ go to the gym.</li>
           <li className="margin-bottom-20 list-none">Tôi thường xuyên đến phòng tập thể dục.</li>
 

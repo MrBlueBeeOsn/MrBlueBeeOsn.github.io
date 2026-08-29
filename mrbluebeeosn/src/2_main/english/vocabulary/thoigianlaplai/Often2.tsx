@@ -74,7 +74,7 @@ export default function OFten2(): React.JSX.Element {
         <li value="6">i do NOT OFten WATCH tV, but SOMEtimes i do.</li>
         <li className="list-none margin-bottom-20">Tôi không thường xuyên xem TV, nhưng thỉnh thoảng tôi cũng xem.</li>
 
-        <li value="7">i OFten DRINK COFfee in the MORning.</li>
+        <li value="7">i OFten DRINK COFfee in the MORNing.</li>
         <li className="list-none margin-bottom-20">Tôi thường uống cà phê vào buổi sáng.</li>
 
         <li value="8">he OFten WORKS LATE at NIGHT.</li>

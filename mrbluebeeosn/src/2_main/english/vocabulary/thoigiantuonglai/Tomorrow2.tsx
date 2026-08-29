@@ -58,7 +58,7 @@ export default function toMORrow2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1">i have a MEETing toMORrow MORning.</li>
+        <li value="1">i have a MEETing toMORrow MORNing.</li>
         <li className="list-none margin-bottom-20">Tôi có một cuộc họp vào sáng mai.</li>
 
         <li value="2">let's GO to the BEACH toMORrow afterNOON.</li>
