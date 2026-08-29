@@ -504,8 +504,8 @@ const Posts = lazy(() => import('@/data/Posts'));
 	// 15. Vocabulary - Thời gian tương lai
 	const Soon1 = lazy(() => import('@/2_main/english/vocabulary/thoigiantuonglai/Soon1'));
 	const Soon2 = lazy(() => import('@/2_main/english/vocabulary/thoigiantuonglai/Soon2'));
-	const Tomorrow1 = lazy(() => import('@/2_main/english/vocabulary/thoigiantuonglai/Tomorrow1'));
-	const Tomorrow2 = lazy(() => import('@/2_main/english/vocabulary/thoigiantuonglai/Tomorrow2'));
+	const ToMORrow1 = lazy(() => import('@/2_main/english/vocabulary/thoigiantuonglai/toMORrow1'));
+	const ToMORrow2 = lazy(() => import('@/2_main/english/vocabulary/thoigiantuonglai/toMORrow2'));
 
 	// 16. Vocabulary - Tính chân thành
 	const SinCEREly1 = lazy(() => import('@/2_main/english/vocabulary/tinhchanthanh/sinCEREly1'));
@@ -1109,8 +1109,8 @@ export default function AppRoutes(): React.JSX.Element {
 					{/* 15. Vocabulary - Thời gian tương lai */}
 					<Route path="/vocabulary/soon-1" element={<Soon1 />} />
 					<Route path="/vocabulary/soon-2" element={<Soon2 />} />
-					<Route path="/vocabulary/tomorrow-1" element={<Tomorrow1 />} />
-					<Route path="/vocabulary/tomorrow-2" element={<Tomorrow2 />} />
+					<Route path="/vocabulary/toMORrow-1" element={<ToMORrow1 />} />
+					<Route path="/vocabulary/toMORrow-2" element={<ToMORrow2 />} />
 
 					{/* 16. Vocabulary - Tính chân thành */}
 					<Route path="/vocabulary/sinCEREly-1" element={<SinCEREly1 />} />

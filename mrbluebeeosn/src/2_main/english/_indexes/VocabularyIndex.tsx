@@ -506,10 +506,10 @@ export default function VocabularyIndex(): React.JSX.Element {
 						</li>
 
 						<li>
-							<Link to="/vocabulary/tomorrow-1">tomorrow
+							<Link to="/vocabulary/toMORrow-1">toMORrow
 								<sup>&nbsp;1&nbsp;</sup>
 									</Link> 
-									<Link to="/vocabulary/tomorrow-2">
+									<Link to="/vocabulary/toMORrow-2">
 								<sup>&nbsp;2&nbsp;</sup>
 							</Link>
 						</li>

@@ -133,7 +133,7 @@ export default function Today1(): React.JSX.Element {
           <li className="list-none">I went to the park ______.</li>
           <li className="margin-bottom-20 list-none">Hôm qua tôi đã đến công viên.</li>
 
-          <li><Link to="/vocabulary/tomorrow-1">Tomorrow</Link> /təˈmɔː.roʊ/</li>
+          <li><Link to="/vocabulary/toMORrow-1">Tomorrow</Link> /təˈmɔː.roʊ/</li>
           <li className="list-none">I will go to the beach ______.</li>
           <li className="list-none">Ngày mai tôi sẽ đi biển.</li>
 

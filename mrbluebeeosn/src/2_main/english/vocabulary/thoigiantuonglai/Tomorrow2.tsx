@@ -5,9 +5,9 @@ import EyeIcon from '@/components/view/EyeIcon';
 import ViewCounter from '@/components/view/ViewCounter';
 import LikeButton from '@/components/like/LikeButton';
 
-export default function Tomorrow2(): React.JSX.Element {
+export default function toMORrow2(): React.JSX.Element {
 
-  const postId = "Tomorrow2";
+  const postId = "toMORrow2";
 
   return (<>
 
@@ -17,18 +17,18 @@ export default function Tomorrow2(): React.JSX.Element {
     
       <h4><HashLink smooth to="/vocabulary#thoi-gian-tuong-lai-terms"><mark className="highlight-tertiary-padding-4-88">ADverbs: tương lai</mark></HashLink></h4>
       
-      <h1 className="margin-y-50 text-center">tomorrow
+      <h1 className="margin-y-50 text-center">toMORrow
         <sup>
-          <Link to="/vocabulary/tomorrow-1">&nbsp;1&nbsp;</Link>
+          <Link to="/vocabulary/toMORrow-1">&nbsp;1&nbsp;</Link>
         </sup>
         <sup>
-          <Link to="/vocabulary/tomorrow-2">&nbsp;2&nbsp;</Link>
+          <Link to="/vocabulary/toMORrow-2">&nbsp;2&nbsp;</Link>
         </sup>
       </h1>
 
       {/* This is the content of Vocabulary Term. */}
 
-      <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về cách sử dụng từ "<strong>tomorrow</strong>" (ngày mai) trong tiếng Anh nhé.
+      <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về cách sử dụng từ "<strong>toMORrow</strong>" (ngày mai) trong tiếng Anh nhé.
 
 </p>
 
@@ -38,15 +38,9 @@ export default function Tomorrow2(): React.JSX.Element {
 
           <p className="margin-y-10">
             
-            <strong>Tomorrow&nbsp;</strong>
-            
             <span className="highlight-255-padding-3-6">
               
-              [toMORrow][to MOR row] /təˈmɔː.roʊ/ + /
-              
-              <Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">tơmörrōw</Link>/ 
-              
-              &nbsp;•⬤• (3x)
+              [toMORrow][<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">tơ MÖR rōw</Link>] /təˈmɔː.roʊ/ •⬤• (3x)
               
             </span>
               
@@ -64,44 +58,34 @@ export default function Tomorrow2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1">Tomorrow <strong>morning</strong> /ˈmɔːrnɪŋ/</li>
-        <li className="list-none">I have a meeting ______.</li>
+        <li value="1">i have a MEETing toMORrow MORNing.</li>
         <li className="list-none margin-bottom-20">Tôi có một cuộc họp vào sáng mai.</li>
 
-        <li value="2">Tomorrow <strong>afternoon</strong> /ˌɑːftərˈnuːn/</li>
-        <li className="list-none">Let's go to the beach ______.</li>
+        <li value="2">let's GO to the BEACH toMORrow afterNOON.</li>
         <li className="list-none margin-bottom-20">Chúng ta hãy đi biển vào chiều mai.</li>
 
-        <li value="3">Tomorrow <strong>evening</strong> /ˈiːvnɪŋ/</li>
-        <li className="list-none">I'm going to a party ______.</li>
+        <li value="3">i'm GOing to a PARty toMORrow EVEning.</li>
         <li className="list-none margin-bottom-20">Tôi sẽ đi dự tiệc vào tối mai.</li>
 
-        <li value="4">Tomorrow <strong>night</strong> /naɪt/</li>
-        <li className="list-none">It will be cold ______.</li>
+        <li value="4">it will be COLD toMORrow NIGHT.</li>
         <li className="list-none margin-bottom-20">Đêm mai sẽ lạnh.</li>
 
-        <li value="5"><strong>Day after</strong> tomorrow /deɪ ˈɑːftər/</li>
-        <li className="list-none">I'll see you ______.</li>
+        <li value="5">i'll SEE you DAY AFter toMORrow.</li>
         <li className="list-none margin-bottom-20">Tôi sẽ gặp bạn vào ngày kia.</li>
 
-        <li value="6"><strong>The day after</strong> tomorrow /ðə deɪ ˈɑːftər/</li>
-        <li className="list-none">I have a dentist appointment ______.</li>
+        <li value="6">i have a DENtist apPOINTment the DAY AFter toMORrow.</li>
         <li className="list-none margin-bottom-20">Tôi có hẹn với nha sĩ vào ngày kia.</li>
 
-        <li value="7">Tomorrow <strong>week</strong> /wiːk/</li>
-        <li className="list-none">I'm going on vacation ______.</li>
+        <li value="7">i'm going on vaCAtion toMORrow WEEK.</li>
         <li className="list-none margin-bottom-20">Tôi sẽ đi nghỉ mát vào tuần sau.</li>
 
-        <li value="8">Tomorrow <strong>month</strong> /mʌnθ/</li>
-        <li className="list-none">My birthday is ______.</li>
+        <li value="8">my BIRTHday is toMORrow MONTH.</li>
         <li className="list-none margin-bottom-20">Sinh nhật tôi vào tháng sau.</li>
 
-        <li value="9">Tomorrow <strong>and the next day</strong> /ænd ðə nekst deɪ/</li>
-        <li className="list-none">I'll be busy ______.</li>
+        <li value="9">i'll be BUSy toMORrow and the NEXT DAY.</li>
         <li className="list-none margin-bottom-20">Tôi sẽ bận rộn vào ngày mai và ngày kia.</li>
 
-        <li value="10">Tomorrow <strong>or the day after</strong> /ɔːr ðə deɪ ˈɑːftər/</li>
-        <li className="list-none">We can meet ______.</li>
+        <li value="10">we can MEET toMORrow or the DAY AFter.</li>
         <li className="list-none margin-bottom-20">Chúng ta có thể gặp nhau vào ngày mai hoặc ngày kia.</li>
 
       </ol>
@@ -118,9 +102,9 @@ export default function Tomorrow2(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>"<strong>Tomorrow</strong>" thường được dùng để chỉ một thời điểm gần trong tương lai.</li>
+          <li>"<strong>toMORrow</strong>" thường được dùng để chỉ một thời điểm gần trong tương lai.</li>
 
-          <li className="margin-bottom-20">Bạn có thể kết hợp "<strong>tomorrow</strong>" với nhiều Trạng Cơ khác để tạo ra các cụm từ đa dạng hơn.</li>
+          <li className="margin-bottom-20">Bạn có thể kết hợp "<strong>toMORrow</strong>" với nhiều Trạng Cơ khác để tạo ra các cụm từ đa dạng hơn.</li>
 
         </ul>
 
