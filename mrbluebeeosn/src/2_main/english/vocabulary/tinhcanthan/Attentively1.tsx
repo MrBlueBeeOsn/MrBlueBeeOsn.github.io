@@ -5,9 +5,9 @@ import EyeIcon from '@/components/view/EyeIcon';
 import ViewCounter from '@/components/view/ViewCounter';
 import LikeButton from '@/components/like/LikeButton';
 
-export default function Attentively1(): React.JSX.Element {
+export default function atTENtively1(): React.JSX.Element {
 
-  const postId = "Attentively1";
+  const postId = "atTENtively1";
 
   return (<>
 
@@ -17,29 +17,26 @@ export default function Attentively1(): React.JSX.Element {
     
       <h4><HashLink smooth to="/vocabulary#adverbs-can-than-terms"><mark className="highlight-tertiary-padding-4-8">ADverbs: cẩn thận</mark></HashLink></h4>
       
-      <h1 className="margin-y-50 text-center">attentively
-        <sup><Link to="/vocabulary/attentively-1">&nbsp;1&nbsp;</Link>
+      <h1 className="margin-y-50 text-center">atTENtively
+        <sup><Link to="/vocabulary/atTENtively-1">&nbsp;1&nbsp;</Link>
         </sup>
-        <sup><Link to="/vocabulary/attentively-2">&nbsp;2&nbsp;</Link>
+        <sup><Link to="/vocabulary/atTENtively-2">&nbsp;2&nbsp;</Link>
         </sup>
       </h1>
 
       {/* This is the content of Vocabulary Term. */}
       
-      <p>Tuyệt vời! Chúng ta cùng khám phá từ "<strong>attentively</strong>" nhé.</p>
+      <p>Tuyệt vời! Chúng ta cùng khám phá từ "<strong>atTENtively</strong>" nhé.</p>
 
       <div className="text-border1 padding-top-20 padding-bottom-10 highlight-238-padding-4-8 bee-container">
 
         <div>
 
-          <p className="margin-bottom-20"><strong>Attentively</strong></p>
-
           <ul className="list-square padding-left-40">
 
             <li>
               <span className="highlight-255-padding-3-6">
-                [atTENtively][at TEN tive ly] /əˈten.tɪv.li/ + /<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">a̛ttentively</Link>/
-                &nbsp;•⬤•• (4x)
+                [atTENtively][<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">a̛t TEN tive ly</Link>] /əˈten.tɪv.li/ •⬤•• (4x)
               </span>
             </li>
 
@@ -57,16 +54,16 @@ export default function Attentively1(): React.JSX.Element {
 
       </div>
 
-      <p className="margin-top-30 text-indent-whole">Từ "<strong>attentively</strong>" miêu tả một hành động hoặc trạng thái được thực hiện một cách cẩn thận, chú ý, tập trung vào chi tiết.</p>
+      <p className="margin-top-30 text-indent-whole">Từ "<strong>atTENtively</strong>" miêu tả một hành động hoặc trạng thái được thực hiện một cách cẩn thận, chú ý, tập trung vào chi tiết.</p>
 
       <p className="margin-top-20 text-indent-whole">Ví dụ:</p>
 
         <ul className="list-square">
 
-          <li>He listened ______ to the teacher's instructions.</li>
+          <li>he LIStened atTENtively to the TEACHer's inSTRUCtions.</li>
           <li className="margin-bottom-20 list-none">Anh ấy lắng nghe chăm chú những hướng dẫn của giáo viên.</li>
 
-          <li>She watched the performance ______.</li>
+          <li>she WATCHED the perFORmance atTENtively.</li>
           <li className="list-none">Cô ấy xem buổi biểu diễn một cách chú ý.</li>
 
         </ul>
@@ -83,12 +80,10 @@ export default function Attentively1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Attentive (adj) /əˈten.tɪv/</li>
-          <li className="list-none">He is an ______ student.</li>
+          <li>he is an atTENtive STUdent.</li>
           <li className="margin-bottom-20 list-none">Anh ấy là một học sinh chăm chú.</li>
 
-          <li>Attention (n) /əˈten.ʃən/</li>
-          <li className="list-none">He paid ______ to the details.</li>
+          <li>he PAID atTENtion to the DEtails.</li>
           <li className="list-none">Anh ấy chú ý đến các chi tiết.</li>
 
         </ul>
@@ -105,16 +100,13 @@ export default function Attentively1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li><Link to="/vocabulary/CAREfully-1">Carefully</Link> /ˈkeə.fə.li/</li>
-          <li className="list-none">He handled the fragile object ______.</li>
+          <li>he HANDled the FRAgile OBject <Link to="/vocabulary/CAREfully-1">CAREfully</Link>.</li>
           <li className="margin-bottom-20 list-none">Anh ấy xử lý vật dễ vỡ một cách cẩn thận.</li>
 
-          <li>Closely /ˈkləʊs.li/</li>
-          <li className="list-none">He examined the document ______.</li>
+          <li>he exAMined the DOCument CLOSEly.</li>
           <li className="margin-bottom-20 list-none">Anh ấy kiểm tra kỹ lưỡng tài liệu.</li>
 
-          <li>Watchfully /ˈwɒtʃ.fə.li/</li>
-          <li className="list-none">He watched the children ______.</li>
+          <li>he WATCHED the CHILdren WATCHfully.</li>
           <li className="list-none">Anh ấy trông chừng bọn trẻ một cách cảnh giác.</li>
 
         </ul>
@@ -133,16 +125,13 @@ export default function Attentively1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Inattentively /ˌɪn.əˈten.tɪv.li/</li>
-          <li className="list-none">He listened to the lecture ______.</li>
+          <li>he LIStened to the LECture inatTENtively.</li>
           <li className="margin-bottom-20 list-none">Anh ấy nghe bài giảng một cách lơ đãng.</li>
 
-          <li>Carelessly /ˈkeə.ləs.li/</li>
-          <li className="list-none">He drove ______ and caused an accident.</li>
+          <li>he DROVE CARElessly and CAUSED an ACcident.</li>
           <li className="margin-bottom-20 list-none">Anh ấy lái xe bất cẩn và gây ra tai nạn.</li>
 
-          <li>Neglectfully /nɪˈɡlekt.fə.li/</li>
-          <li className="list-none">He treated his duties ______.</li>
+          <li>he TREAted his DUties neGLECTfully.</li>
           <li className="list-none">Anh ấy xử lý công việc của mình một cách lơ là.</li>
 
         </ul>
@@ -168,10 +157,10 @@ export default function Attentively1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>He listened ______.</li>
+          <li>he LIStened atTENtively.</li>
           <li className="margin-bottom-20 list-none">Anh ấy lắng nghe một cách chăm chú.</li>
 
-          <li>She read the book ______.</li>
+          <li>she READ the BOOK atTENtively.</li>
           <li className="list-none">Cô ấy đọc sách một cách tập trung.</li>
 
         </ul>
@@ -191,7 +180,7 @@ export default function Attentively1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>The surgeon performed the operation ______.</li>
+          <li>the SURgeon perFORMED the operAtion atTENtively.</li>
           <li className="list-none">Bác sĩ phẫu thuật thực hiện ca phẫu thuật một cách cẩn thận.</li>
 
         </ul>
@@ -213,10 +202,10 @@ export default function Attentively1(): React.JSX.Element {
 
           <ol>
 
-            <li>He listened to the lecture.</li>
+            <li>he LIStened to the LECture.</li>
             <li className="list-none margin-bottom-20">Anh ấy nghe bài giảng.</li>
 
-            <li value="2">He listened to the lecture ______.</li>
+            <li value="2">he LIStened to the LECture atTENtively.</li>
             <li className="list-none margin-bottom-20">Anh ấy nghe bài giảng một cách chăm chú.</li>
 
           </ol>
@@ -239,7 +228,7 @@ export default function Attentively1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Nhấn mạnh sự chú ý và tập trung: "<strong>Attentively</strong>" nhấn mạnh sự chú ý, tập trung và cẩn thận trong hành động hoặc lắng nghe.</li>
+          <li>Nhấn mạnh sự chú ý và tập trung: "<strong>atTENtively</strong>" nhấn mạnh sự chú ý, tập trung và cẩn thận trong hành động hoặc lắng nghe.</li>
 
           <li className="margin-bottom-20">Thường dùng trong các tình huống cần sự tập trung cao độ: Từ này thường được sử dụng trong các tình huống cần sự tập trung cao độ, chẳng hạn như trong lớp học, trong công việc hoặc khi lắng nghe hướng dẫn.</li>
 
