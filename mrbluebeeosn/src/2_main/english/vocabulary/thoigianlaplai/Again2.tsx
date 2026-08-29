@@ -5,9 +5,9 @@ import EyeIcon from '@/components/view/EyeIcon';
 import ViewCounter from '@/components/view/ViewCounter';
 import LikeButton from '@/components/like/LikeButton';
 
-export default function Again2(): React.JSX.Element {
+export default function aGAIN2(): React.JSX.Element {
 
-  const postId = "Again2";
+  const postId = "aGAIN2";
 
   return (<>
 
@@ -17,18 +17,18 @@ export default function Again2(): React.JSX.Element {
     
       <h4><HashLink smooth to="/vocabulary#thoi-gian-lap-lai-terms"><mark className="highlight-tertiary-padding-4-88">ADverbs: lặp lại</mark></HashLink></h4>
       
-      <h1 className="margin-y-50 text-center">again
+      <h1 className="margin-y-50 text-center">aGAIN
         <sup>
-          <Link to="/vocabulary/again-1">&nbsp;1&nbsp;</Link>
+          <Link to="/vocabulary/aGAIN-1">&nbsp;1&nbsp;</Link>
         </sup>
         <sup>
-          <Link to="/vocabulary/again-2">&nbsp;2&nbsp;</Link>
+          <Link to="/vocabulary/aGAIN-2">&nbsp;2&nbsp;</Link>
         </sup>
       </h1>
 
       {/* This is the content of Vocabulary Term. */}
 
-      <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về cách sử dụng từ "<strong>again</strong>" (lại) trong tiếng Anh nhé.</p>
+      <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về cách sử dụng từ "<strong>aGAIN</strong>" (lại) trong tiếng Anh nhé.</p>
 
       <div className="text-border1 padding-10 highlight-238-padding-4-8 bee-container">
 
@@ -36,15 +36,9 @@ export default function Again2(): React.JSX.Element {
 
           <p className="margin-y-10">
             
-            <strong>Again&nbsp;</strong>
-            
             <span className="highlight-255-padding-3-6">
               
-              [aGAIN][a GAIN] /əˈɡen/ + /
-              
-              <Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">a̛gā̄in</Link>/ 
-              
-              &nbsp;•⬤ (2x)
+              [aGAIN][<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">a̛ GĀ̄IN</Link>] /əˈɡen/ •⬤ (2x)
               
             </span>
               
@@ -62,44 +56,34 @@ export default function Again2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1">Again <strong>and</strong> again /ænd/</li>
-        <li className="list-none">He made the same mistake ______.</li>
+        <li value="1">he MADE the SAME misTAKE aGAIN and aGAIN.</li>
         <li className="list-none margin-bottom-20">Anh ấy lặp lại cùng một sai lầm nhiều lần.</li>
 
-        <li value="2"><strong>Once</strong> again /wʌns/</li>
-        <li className="list-none">Let's try that ______.</li>
+        <li value="2">let's TRY that ONCE aGAIN.</li>
         <li className="list-none margin-bottom-20">Hãy thử lại một lần nữa.</li>
 
-        <li value="3"><strong>Time and</strong> again /taɪm ænd/</li>
-        <li className="list-none">I've told you ______ not to do that.</li>
+        <li value="3">i've TOLD you TIME and aGAIN NOT to DO that.</li>
         <li className="list-none margin-bottom-20">Tôi đã nói với bạn nhiều lần rồi đấy.</li>
 
-        <li value="4"><strong>Over and over</strong> again /ˈoʊvər ænd ˈoʊvər/</li>
-        <li className="list-none">She played the same song ______.</li>
+        <li value="4">she PLAYED the SAME SONG Over and Over aGAIN</li>
         <li className="list-none margin-bottom-20">Cô ấy nghe đi nghe lại cùng một bài hát.</li>
 
-        <li value="5"><strong>All over</strong> again /ɔːl ˈoʊvər/</li>
-        <li className="list-none">We had to start ______.</li>
+        <li value="5">we had to START ALL OVER aGAIN.</li>
         <li className="list-none margin-bottom-20">Chúng ta phải bắt đầu lại từ đầu.</li>
 
-        <li value="6">Again <strong>soon</strong> /suːn/</li>
-        <li className="list-none">I hope to see you ______.</li>
+        <li value="6">i HOPE to SEE you aGAIN SOON.</li>
         <li className="list-none margin-bottom-20">Tôi hy vọng sẽ gặp lại bạn sớm.</li>
 
-        <li value="7">Again, <strong>please</strong> /pliːz/</li>
-        <li className="list-none">Could you say that ______?</li>
+        <li value="7">could you SAY that aGAIN, please?</li>
         <li className="list-none margin-bottom-20">Bạn có thể nói lại được không?</li>
 
-        <li value="8"><strong>Not</strong> again /nɒt/</li>
-        <li className="list-none">______! I've lost my keys.</li>
+        <li value="8">NOT aGAIN! i've LOST my KEYS.</li>
         <li className="list-none margin-bottom-20">Không phải lần nữa! Tôi lại làm mất chìa khóa rồi.</li>
 
-        <li value="9"><strong>Once more</strong> /wʌns mɔːr/</li>
-        <li className="list-none">Could you read that ______?</li>
+        <li value="9">could you READ that ONCE MORE?</li>
         <li className="list-none margin-bottom-20">Bạn có thể đọc lại một lần nữa được không?</li>
 
-        <li value="10"><strong>As before</strong> /æz bɪˈfɔːr/</li>
-        <li className="list-none">Please do it ______.</li>
+        <li value="10">please DO it as beFORE.</li>
         <li className="list-none margin-bottom-20">Làm ơn làm như trước đây.</li>
 
       </ol>
@@ -116,7 +100,7 @@ export default function Again2(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>"<strong>Again</strong>" có thể được sử dụng để nhấn mạnh sự lặp lại, sự thất vọng, hoặc một mong muốn.</li>
+          <li>"<strong>aGAIN</strong>" có thể được sử dụng để nhấn mạnh sự lặp lại, sự thất vọng, hoặc một mong muốn.</li>
 
           <li className="margin-bottom-20">Ý nghĩa chính xác của cụm từ phụ thuộc vào ngữ cảnh sử dụng.</li>
 
@@ -124,7 +108,7 @@ export default function Again2(): React.JSX.Element {
 
       </div>
 
-      <p className="margin-top-50">Hy vọng những thông tin này sẽ giúp bạn hiểu rõ hơn về cách sử dụng từ "<strong>again</strong>" trong tiếng Anh! 🐝</p>
+      <p className="margin-top-50">Hy vọng những thông tin này sẽ giúp bạn hiểu rõ hơn về cách sử dụng từ "<strong>aGAIN</strong>" trong tiếng Anh! 🐝</p>
 
       <div className="viewcounter">
       

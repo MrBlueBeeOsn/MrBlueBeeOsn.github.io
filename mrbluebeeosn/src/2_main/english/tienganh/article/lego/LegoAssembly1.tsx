@@ -126,7 +126,7 @@ export default function LegoAssembly1(): React.JSX.Element {
           <li value="6">[<strong>Thuần Động Cơ</strong>][<strong>Bare Verb Base</strong>]: LAUNCH, conSTRUCT, OPerate</li>
           <li className="margin-bottom-20 list-none">Hành động [Thuần] khiết đứng tự do một mình, không có "to" đi kèm, thường đứng ngay sau [Hạt Động Cơ][Particle Verb Base] "to", [Ý-Thái][Soft-Modal] hay [Áp-Thái Động Cơ][Assertive-Modal Verb Base] hoặc các [Rễ Động Cơ][Root Verb Base] kích hoạt/giác quan:</li>
 
-					<li className="list-none">Nhóm Sai khiến & Cho phép: MAKE, LET, LET'S, HAVE</li>
+					<li className="list-none">Nhóm Sai khiến & Cho phép: MAKE, LET, let's, HAVE</li>
 					<li className="list-none">Nhóm Hỗ trợ & Nhờ vả: HELP, GET (trong trường hợp đặc biệt)</li>
 					<li className="margin-bottom-20 list-none">Nhóm Giác quan & Quan sát: SEE, HEAR, WATCH, FEEL, NOtice, obSERVE, SMELL</li>
 

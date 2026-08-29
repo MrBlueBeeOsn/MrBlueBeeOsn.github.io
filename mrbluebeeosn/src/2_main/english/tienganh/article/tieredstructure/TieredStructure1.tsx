@@ -178,7 +178,7 @@ export default function TieredStructure1(): React.JSX.Element {
           <li className="margin-bottom-20 list-none">Cấu trúc biểu thị [Thái] độ trực diện, [Áp] đặt thực tế và có độ cam kết, ràng buộc cao. Khối phức đặc biệt "have to" được quét như một thực thể [Phức Áp-Thái Động Cơ][Complex Assertive-Modal Verb Base] thống nhất.</li>
 
           <li value="6">[<strong>Thuần Động Cơ</strong>][<strong>Bare Verb Base</strong>]: BUILD, deSIGN, exPLORE</li>
-          <li className="margin-bottom-20 list-none">Hành động ở dạng [Thuần] khiết, nguyên bản đã được giải phóng hoàn toàn khỏi hạt "to", thường đứng ngay sau [Hạt Động Cơ][Particle Verb Base] "to", [Ý-Thái][Soft-Modal] hay [Áp-Thái Động Cơ][Assertive-Modal Verb Base] hoặc các [Rễ Động Cơ][Root Verb Base] tác động / tri giác như MAKE, LET, LET'S, HELP, HAVE, GET, SEE, HEAR, WATCH, FEEL, NOTICE, obSERVE, SMELL, ...</li>
+          <li className="margin-bottom-20 list-none">Hành động ở dạng [Thuần] khiết, nguyên bản đã được giải phóng hoàn toàn khỏi hạt "to", thường đứng ngay sau [Hạt Động Cơ][Particle Verb Base] "to", [Ý-Thái][Soft-Modal] hay [Áp-Thái Động Cơ][Assertive-Modal Verb Base] hoặc các [Rễ Động Cơ][Root Verb Base] tác động / tri giác như MAKE, LET, let's, HELP, HAVE, GET, SEE, HEAR, WATCH, FEEL, NOTICE, obSERVE, SMELL, ...</li>
       
           <li value="7">[<strong>Hạt Thuần Động Cơ</strong>][<strong>Particle Bare Verb Base</strong>]: to BUILD, to exPLORE</li>
           <li className="margin-bottom-20 list-none">Sự liên kết tuyến tính chặt chẽ giữa hạt nhân định hướng [Hạt Động Cơ] và hành động [Thuần] khiết phía sau.</li>

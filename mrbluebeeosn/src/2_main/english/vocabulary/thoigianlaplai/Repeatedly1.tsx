@@ -103,7 +103,7 @@ export default function rePEATedly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>he TRIED <Link to="/vocabulary/again-1">aGAIN</Link> and <Link to="/vocabulary/again-1">aGAIN</Link>.</li>
+          <li>he TRIED <Link to="/vocabulary/aGAIN-1">aGAIN</Link> and <Link to="/vocabulary/aGAIN-1">aGAIN</Link>.</li>
           <li className="margin-bottom-20 list-none">Anh ấy đã thử lại nhiều lần.</li>
 
           <li>she SAID it Over and Over.</li>

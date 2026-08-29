@@ -87,7 +87,7 @@ export default function Respond(): React.JSX.Element {
           <li className="list-none">[Hạt Động Cơ][Particle Verb Base]: to</li>
           <li className="list-none">[Ý-Thái Động Cơ][Soft-Modal Verb Base]: would, could, should, might</li>
           <li className="list-none">[Áp-Thái Động Cơ][Assertive-Modal Verb Base]: will, shall, can, must, may</li>
-          <li className="list-none">Nhóm Động Cơ Sai Khiến / Cho Phép: MAKE, LET, LET'S, HAVE</li>
+          <li className="list-none">Nhóm Động Cơ Sai Khiến / Cho Phép: MAKE, LET, let's, HAVE</li>
           <li className="list-none">Nhóm Động Cơ Hỗ Trợ / Tương Tác: HELP, GET (khi ở dạng đặc biệt)</li>
           <li className="margin-bottom-20 list-none">Nhóm Động Cơ Tri Giác / Cảm Nhận: SEE, HEAR, WATCH, FEEL, NOtice, obSERVE, SMELL</li>
       
