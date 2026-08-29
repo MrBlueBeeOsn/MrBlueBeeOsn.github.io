@@ -5,9 +5,9 @@ import EyeIcon from '@/components/view/EyeIcon';
 import ViewCounter from '@/components/view/ViewCounter';
 import LikeButton from '@/components/like/LikeButton';
 
-export default function Cautiously2(): React.JSX.Element {
+export default function CAUtiously2(): React.JSX.Element {
 
-  const postId = "Cautiously2";
+  const postId = "CAUtiously2";
 
   return (<>
 
@@ -17,18 +17,18 @@ export default function Cautiously2(): React.JSX.Element {
     
       <h4><HashLink smooth to="/vocabulary#adverbs-can-than-terms"><mark className="highlight-tertiary-padding-4-8">ADverbs: cẩn thận</mark></HashLink></h4>
       
-      <h1 className="margin-y-50 text-center">cautiously
+      <h1 className="margin-y-50 text-center">CAUtiously
         <sup>
-          <Link to="/vocabulary/cautiously-1">&nbsp;1&nbsp;</Link>
+          <Link to="/vocabulary/CAUtiously-1">&nbsp;1&nbsp;</Link>
         </sup>
         <sup>
-          <Link to="/vocabulary/cautiously-2">&nbsp;2&nbsp;</Link>
+          <Link to="/vocabulary/CAUtiously-2">&nbsp;2&nbsp;</Link>
         </sup>
       </h1>
 
       {/* This is the content of Vocabulary Term. */}
 
-      <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>autiously</strong>" (một cách thận trọng) và các cụm từ hay đi kèm nhé.</p>
+      <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>CAUtiously</strong>" (một cách thận trọng) và các cụm từ hay đi kèm nhé.</p>
 
       <div className="text-border1 padding-10 highlight-238-padding-4-8 bee-container">
 
@@ -36,15 +36,9 @@ export default function Cautiously2(): React.JSX.Element {
 
           <p className="margin-y-10">
             
-            <strong>Cautiously&nbsp;</strong>
-            
             <span className="highlight-255-padding-3-6">
               
-              [CAUtiously][CAU tious ly] /ˈkɔː.ʃəs.li/ + /
-              
-              <Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">cā̄utiơusly</Link>/ 
-              
-              &nbsp;⬤•• (3x)
+              [CAUtiously][<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">CÅU tiơus ly</Link>] /ˈkɔː.ʃəs.li/ ⬤•• (3x)
               
             </span>
               
@@ -62,44 +56,34 @@ export default function Cautiously2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1">Cautiously <strong>approached</strong> /əˈproʊtʃt/</li>
-        <li className="list-none">The cat ______ the unfamiliar object.</li>
+        <li value="1">the CAT CAUtiously apPROACHed the unfaMILiar OBject.</li>
         <li className="list-none margin-bottom-20">Con mèo thận trọng tiếp cận vật thể lạ.</li>
 
-        <li value="2">Cautiously <strong>moved</strong> /muːvd/</li>
-        <li className="list-none">He ______ through the dark room, feeling for obstacles.</li>
+        <li value="2">he CAUtiously MOVED through the DARK ROOM, FEEling for OBstacles.</li>
         <li className="list-none margin-bottom-20">Anh ấy thận trọng di chuyển trong căn phòng tối, dò dẫm tìm vật cản.</li>
 
-        <li value="3">Cautiously <strong>spoke</strong> /spəʊk/</li>
-        <li className="list-none">She ______ about the sensitive topic.</li>
+        <li value="3">she CAUtiously SPOKE about the SENsitive TOPic.</li>
         <li className="list-none margin-bottom-20">Cô ấy thận trọng nói về chủ đề nhạy cảm.</li>
 
-        <li value="4">Cautiously <strong>examined</strong> /ɪɡˈzæmɪnd/</li>
-        <li className="list-none">The scientist ______ the unknown substance.</li>
+        <li value="4">the SCIentist CAUtiously exAMined the unKNOWN SUBstance.</li>
         <li className="list-none margin-bottom-20">Nhà khoa học thận trọng kiểm tra chất lạ.</li>
 
-        <li value="5">Cautiously <strong>proceeded</strong> /prəˈsiːdɪd/</li>
-        <li className="list-none">They ______ with the negotiations.</li>
+        <li value="5">they CAUtiously proCEEDed with the negotiAtions.</li>
         <li className="list-none margin-bottom-20">Họ thận trọng tiến hành các cuộc đàm phán.</li>
 
-        <li value="6">Cautiously <strong>invested</strong> /ɪnˈvɛstɪd/</li>
-        <li className="list-none">He ______ a small portion of his savings.</li>
+        <li value="6">he CAUtiously inVESTed a SMALL PORtion of his SAvings.</li>
         <li className="list-none margin-bottom-20">Anh ấy thận trọng đầu tư một phần nhỏ số tiền tiết kiệm của mình.</li>
 
-        <li value="7">Cautiously <strong>approached the edge</strong> /əˈproʊtʃt ðə ɛdʒ/</li>
-        <li className="list-none">The child ______ of the cliff.</li>
+        <li value="7">the CHILD CAUtiously apPROACHed the EDGE of the CLIFF.</li>
         <li className="list-none margin-bottom-20">Đứa trẻ thận trọng tiếp cận mép vách đá.</li>
 
-        <li value="8">Cautiously <strong>opened</strong> /ˈoʊpənd/</li>
-        <li className="list-none">She ______ the creaking door.</li>
+        <li value="8">she CAUtiously Opened the CREAKing DOOR.</li>
         <li className="list-none margin-bottom-20">Cô ấy thận trọng mở cánh cửa kêu cót két.</li>
 
-        <li value="9">Cautiously <strong>tasted</strong> /teɪstɪd/</li>
-        <li className="list-none">He ______ the unfamiliar dish.</li>
+        <li value="9">he CAUtiously TAsted the unfaMILiar DISH.</li>
         <li className="list-none margin-bottom-20">Anh ấy thận trọng nếm món ăn lạ.</li>
 
-        <li value="10">Cautiously <strong>agreed</strong> /əˈɡriːd/</li>
-        <li className="list-none">They ______ to the proposal, with several conditions.</li>
+        <li value="10">they CAUtiously aGREED to the proPOsal, with SEVERal conDITions.</li>
         <li className="list-none margin-bottom-20">Họ thận trọng đồng ý với đề xuất, kèm theo một vài điều kiện.</li>
 
       </ol>
@@ -116,7 +100,7 @@ export default function Cautiously2(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>"<strong>Cautiously</strong>" thường đứng trước hành động để bổ nghĩa.</li>
+          <li>"<strong>CAUtiously</strong>" thường đứng trước hành động để bổ nghĩa.</li>
 
           <li className="margin-bottom-20">Từ này mang nghĩa về phương thức thận trọng.</li>
 

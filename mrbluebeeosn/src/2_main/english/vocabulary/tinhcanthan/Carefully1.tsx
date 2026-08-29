@@ -105,7 +105,7 @@ export default function Carefully1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li><Link to="/vocabulary/cautiously-1">Cautiously</Link> /ˈkɔːʃəsli/</li>
+          <li><Link to="/vocabulary/CAUtiously-1">Cautiously</Link> /ˈkɔːʃəsli/</li>
           <li className="list-none">He walked ______ across the icy road.</li>
           <li className="margin-bottom-20 list-none">Anh ấy đi thận trọng trên con đường băng.</li>
 
