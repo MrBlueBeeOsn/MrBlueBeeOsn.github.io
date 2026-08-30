@@ -549,10 +549,10 @@ export default function VocabularyIndex(): React.JSX.Element {
 						</li>
 
 						<li>
-							<Link to="/vocabulary/today-1">today
+							<Link to="/vocabulary/toDAY-1">toDAY
 								<sup>&nbsp;1&nbsp;</sup>
 									</Link> 
-									<Link to="/vocabulary/today-2">
+									<Link to="/vocabulary/toDAY-2">
 								<sup>&nbsp;2&nbsp;</sup>
 							</Link>
 						</li>

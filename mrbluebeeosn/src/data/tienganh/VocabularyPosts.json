@@ -829,21 +829,21 @@
 			"date": "2024-11-06"
 		},
 		{ 
-			"id": "Today1",
+			"id": "toDAY1",
 			"categoryDisplay": "Thời gian hiện tại",
 			"categorySlug": "vocabulary#thoi-gian-hien-tai-terms",
-			"title": "today 1",
-			"content": "Chỉ thời điểm hiện tại, ngày mà người nói hoặc người nghe đang trải qua.",
-			"slug": "vocabulary/today-1",
+			"title": "toDAY 1",
+			"content": "toDAY: Chỉ thời điểm hiện tại, ngày mà người nói hoặc người nghe đang trải qua.",
+			"slug": "vocabulary/toDAY-1",
 			"date": "2024-11-04"
 		},
 		{ 
-			"id": "Today2",
+			"id": "toDAY2",
 			"categoryDisplay": "Thời gian hiện tại",
 			"categorySlug": "vocabulary#thoi-gian-hien-tai-terms",
-			"title": "today 2",
-			"content": "Today /təˈdeɪ/ •⬤ (2x) là một Trạng Cơ chỉ thời gian rất phổ biến, thường được dùng để chỉ thời điểm hiện tại.",
-			"slug": "vocabulary/today-2",
+			"title": "toDAY 2",
+			"content": "[toDAY][tơ DĀY] /təˈdeɪ/ •⬤ (2x) là một Trạng Cơ chỉ thời gian rất phổ biến, thường được dùng để chỉ thời điểm hiện tại.",
+			"slug": "vocabulary/toDAY-2",
 			"date": "2024-11-04"
 		},
 		{ 

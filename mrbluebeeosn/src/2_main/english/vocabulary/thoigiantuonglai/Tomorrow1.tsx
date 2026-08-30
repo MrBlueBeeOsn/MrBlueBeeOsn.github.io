@@ -125,7 +125,7 @@ export default function toMORrow1(): React.JSX.Element {
           <li>i WENT to the PARK YESterday.</li>
           <li className="margin-bottom-20 list-none">Hôm qua tôi đã đến công viên.</li>
 
-          <li>it is SUNny <Link to="/vocabulary/today-1">toDAY</Link>.</li>
+          <li>it is SUNny <Link to="/vocabulary/toDAY-1">toDAY</Link>.</li>
           <li className="list-none">Trời nắng vào hôm nay.</li>
 
         </ul>
