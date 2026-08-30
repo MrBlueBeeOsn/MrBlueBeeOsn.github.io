@@ -43,16 +43,48 @@ export default function VERBSADDS(): React.JSX.Element {
           </p>
 
           <p className="example-sentence">
-            <span className="p">Whenever you talk about <strong>one outSIder</strong> (he/she/it), you are technically "GO<strong>Ss</strong>iping" about them, so you must add the "<strong>S</strong>" (GO<strong>Ss</strong>iping) to the action: <br/>
-            he SPEAK<strong>🆂</strong> (Anh ấy nói...)<br/>
-            she LAUGH<strong>🆂</strong> (Cô ấy cười...)<br/>
-            it HURT<strong>🆂</strong> (Nó đau...)<br/>
-            You don't add "<strong>S</strong>" when talking to the person right in front of you (You) or about yourself (I), because that is a direct conversation, not GO<strong>Ss</strong>ip!</span>
+            <span className="t">Whenever you talk about <strong>one outSIder</strong> (he/she/it), you are technically "GO<strong>Ss</strong>iping" about them, so you must add the "<strong>S</strong>" (GO<strong>Ss</strong>iping) to the action: <br/>
+            </span>
           </p>
 
           <p className="example-sentence">
             <span className="pill s">he...🆂</span> &nbsp;<span className="pill v">she...🆂</span> &nbsp;<span className="pill o">it...🆂</span> &nbsp;<span className="pill m">one...🆂</span> &nbsp;<span className="pill p">EVERyone...🆂</span>
           </p>
+
+          <p className="example-sentence">
+            <span className="s">
+            he SPEAK<strong>🆂</strong> (Anh ấy nói...)
+            </span>
+          </p>
+
+          <p className="example-sentence">
+            <span className="v">
+            she LAUGH<strong>🆂</strong> (Cô ấy cười...)
+            </span>
+          </p>
+
+          <p className="example-sentence">
+            <span className="o">
+            it HURT<strong>🆂</strong> (Nó đau...)
+            </span>
+          </p>
+
+          <p className="example-sentence">
+            <span className="m">
+            One SPEAK<strong>🆂</strong> (Một người nói...)
+            </span>
+          </p>
+
+          <p className="example-sentence">
+            <span className="p">
+            Everyone LAUGH<strong>🆂</strong> (Mọi người đều cười...)
+            </span>
+          </p>
+
+          {/* <p className="example-sentence">
+            <span className="t">You don't add "<strong>S</strong>" when talking to the person right in front of you (You) or about yourself (I), because that is a direct conversation, not GO<strong>Ss</strong>ip!</span>
+          </p> */}
+
 
         </div>
 
