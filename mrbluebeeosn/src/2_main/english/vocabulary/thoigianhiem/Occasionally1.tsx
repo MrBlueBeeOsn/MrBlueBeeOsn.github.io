@@ -5,9 +5,9 @@ import EyeIcon from '@/components/view/EyeIcon';
 import ViewCounter from '@/components/view/ViewCounter';
 import LikeButton from '@/components/like/LikeButton';
 
-export default function Occasionally1(): React.JSX.Element {
+export default function ocCAsionally1(): React.JSX.Element {
 
-  const postId = "Occasionally1";
+  const postId = "ocCAsionally1";
 
   return (<>
 
@@ -17,29 +17,26 @@ export default function Occasionally1(): React.JSX.Element {
     
       <h4><HashLink smooth to="/vocabulary#thoi-gian-hiem-terms"><mark className="highlight-tertiary-padding-4-88">ADverbs: hiếm</mark></HashLink></h4>
       
-      <h1 className="margin-y-50 text-center">occasionally
-        <sup><Link to="/vocabulary/occasionally-1">&nbsp;1&nbsp;</Link>
+      <h1 className="margin-y-50 text-center">ocCAsionally
+        <sup><Link to="/vocabulary/ocCAsionally-1">&nbsp;1&nbsp;</Link>
         </sup>
-        <sup><Link to="/vocabulary/occasionally-2">&nbsp;2&nbsp;</Link>
+        <sup><Link to="/vocabulary/ocCAsionally-2">&nbsp;2&nbsp;</Link>
         </sup>
       </h1>
 
       {/* This is the content of Vocabulary Term. */}
       
-      <p>Tuyệt vời! Chúng ta cùng khám phá từ "<strong>occasionally</strong>" nhé.</p>
+      <p>Tuyệt vời! Chúng ta cùng khám phá từ "<strong>ocCAsionally</strong>" nhé.</p>
 
       <div className="text-border1 padding-top-20 padding-bottom-10 highlight-238-padding-4-8 bee-container">
 
         <div>
 
-          <p className="margin-bottom-20"><strong>Occasionally</strong></p>
-
           <ul className="list-square padding-left-40">
 
             <li>
               <span className="highlight-255-padding-3-6">
-                [ocCAsionally][oc CA sion al ly] /əˈkeɪʒənəli/ + /<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">ơccāsiơna̛lly</Link>/
-                &nbsp;•⬤••• (5x)
+                [ocCAsionally][<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">ơc CĀ siơn a̛l ly</Link>] /əˈkeɪʒənəli/ •⬤••• (5x)
               </span>
             </li>
 
@@ -57,16 +54,16 @@ export default function Occasionally1(): React.JSX.Element {
 
       </div>
 
-      <p className="margin-top-30 text-indent-whole">Từ "<strong>occasionally</strong>" được dùng để diễn tả một hành động xảy ra không thường xuyên, mà chỉ xảy ra trong một vài trường hợp hoặc một vài lần. Nó thể hiện sự không đều đặn, không liên tục của một sự việc.</p>
+      <p className="margin-top-30 text-indent-whole">Từ "<strong>ocCAsionally</strong>" được dùng để diễn tả một hành động xảy ra không thường xuyên, mà chỉ xảy ra trong một vài trường hợp hoặc một vài lần. Nó thể hiện sự không đều đặn, không liên tục của một sự việc.</p>
 
       <p className="margin-top-20 text-indent-whole">Ví dụ:</p>
 
         <ul className="list-square">
 
-          <li>I ______ go to the gym.</li>
+          <li>i ocCAsionally GO to the GYM.</li>
           <li className="margin-bottom-20 list-none">Tôi thỉnh thoảng đi tập gym.</li>
 
-          <li>It rains ______ in the desert.</li>
+          <li>it RAINS ocCAsionally in the DESert.</li>
           <li className="list-none">Ở sa mạc thỉnh thoảng cũng có mưa.</li>
 
         </ul>
@@ -83,8 +80,7 @@ export default function Occasionally1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Occasions (n): Dịp, cơ hội /əˈkeɪʒnz/</li>
-          <li className="list-none">On special ______, we wear formal clothes.</li>
+          <li>on SPEcial ocCAsions, we WEAR FORmal CLOTHES.</li>
           <li className="list-none">Trong những dịp đặc biệt, chúng ta mặc quần áo trang trọng.</li>
 
         </ul>
@@ -101,12 +97,10 @@ export default function Occasionally1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li><Link to="/vocabulary/SOMEtimes-1">Sometimes</Link> /ˈsʌmtaɪmz/</li>
-          <li className="list-none">______ I feel lonely.</li>
+          <li><Link to="/vocabulary/SOMEtimes-1">SOMEtimes</Link> i FEEL LONEly.</li>
           <li className="margin-bottom-20 list-none">Đôi khi tôi cảm thấy cô đơn.</li>
 
-          <li>Now and then /naʊ ænd ðen/</li>
-          <li className="list-none">We meet up for coffee ______.</li>
+          <li>we MEET UP for COFfee NOW and THEN.</li>
           <li className="list-none">Chúng tôi gặp nhau uống cà phê thỉnh thoảng.</li>
 
         </ul>
@@ -125,12 +119,10 @@ export default function Occasionally1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li><Link to="/vocabulary/always-1">Always</Link> /ˈɔːlweɪz/</li>
-          <li className="list-none">She is ______ on time.</li>
+          <li>she is <Link to="/vocabulary/always-1">ALways</Link> on TIME.</li>
           <li className="margin-bottom-20 list-none">Cô ấy luôn đúng giờ.</li>
 
-          <li><Link to="/vocabulary/never-1">Never</Link> /ˈnevər/</li>
-          <li className="list-none">I ______ eat fast food.</li>
+          <li>i <Link to="/vocabulary/never-1">NEVer</Link> EAT FAST FOOD.</li>
           <li className="list-none">Tôi không bao giờ ăn đồ ăn nhanh.</li>
 
         </ul>
@@ -156,7 +148,7 @@ export default function Occasionally1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>She only reads books and newspapers ______.</li>
+          <li>she Only READS BOOKS and NEWSpapers ocCAsionally.</li>
           <li className="list-none">Cô ấy chỉ thỉnh thoảng đọc sách báo.</li>
 
         </ul>
@@ -172,11 +164,11 @@ export default function Occasionally1(): React.JSX.Element {
         <strong>&nbsp;ví dụ</strong>:
       </p>
 
-      <p className="text-indent-whole">Tạo các câu ví dụ khác nhau với từ "<strong>occasionally</strong>" trong nhiều ngữ cảnh khác nhau.</p>
+      <p className="text-indent-whole">Tạo các câu ví dụ khác nhau với từ "<strong>ocCAsionally</strong>" trong nhiều ngữ cảnh khác nhau.</p>
 
         <ul className="list-square">
 
-          <li>I ______ bake cookies on weekends.</li>
+          <li>i ocCAsionally BAKE COOKies on WEEKends.</li>
           <li className="list-none">Tôi thỉnh thoảng nướng bánh quy vào cuối tuần.</li>
 
         </ul>
@@ -198,17 +190,17 @@ export default function Occasionally1(): React.JSX.Element {
 
           <ol>
 
-            <li>I go to the movies.</li>
+            <li value="1">i GO to the MOvies.</li>
             <li className="list-none margin-bottom-20">Tôi đi xem phim.</li>
 
-            <li value="2">I ______ go to the movies.</li>
+            <li value="2">i ocCAsionally GO to the MOvies.</li>
             <li className="list-none margin-bottom-20">Tôi thỉnh thoảng đi xem phim.</li>
 
           </ol>
 
       <div className="margin-bottom-20 padding-top-20 text-border1 padding-10 highlight-238-padding-4-8 bee-container">
 
-        <p className="margin-y-10">Sự khác biệt: Câu thứ hai sử dụng "<strong>occasionally</strong>" để <span className="highlight-255-padding-0-4">nhấn mạnh rằng việc đi xem</span> phim <span className="highlight-255-padding-0-4">không phải là một hoạt động thường xuyên</span> của người nói.</p>
+        <p className="margin-y-10">Sự khác biệt: Câu thứ hai sử dụng "<strong>ocCAsionally</strong>" để <span className="highlight-255-padding-0-4">nhấn mạnh rằng việc đi xem</span> phim <span className="highlight-255-padding-0-4">không phải là một hoạt động thường xuyên</span> của người nói.</p>
 
       </div>
 
@@ -224,7 +216,7 @@ export default function Occasionally1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Tần suất: "<strong>Occasionally</strong>" chỉ ra một tần suất thấp của một hành động.</li>
+          <li>Tần suất: "<strong>ocCAsionally</strong>" chỉ ra một tần suất thấp của một hành động.</li>
 
           <li className="margin-bottom-20">Không thường xuyên: Nó nhấn mạnh sự không đều đặn, không liên tục.</li>
 

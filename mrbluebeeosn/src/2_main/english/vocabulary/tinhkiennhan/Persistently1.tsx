@@ -125,7 +125,7 @@ export default function perSIStently1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>i <Link to="/vocabulary/occasionally-1">ocCAsionally</Link> VISit my PARents.</li>
+          <li>i <Link to="/vocabulary/ocCAsionally-1">ocCAsionally</Link> VISit my PARents.</li>
           <li className="margin-bottom-20 list-none">Thỉnh thoảng tôi đến thăm ba mẹ.</li>
 
           <li>the RAIN FELL spoRADically throughout the DAY.</li>

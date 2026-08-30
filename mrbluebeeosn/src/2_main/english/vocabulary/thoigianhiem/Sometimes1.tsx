@@ -96,7 +96,7 @@ export default function SOMEtimes1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>we <Link to="/vocabulary/occasionally-1">ocCAsionall</Link> MEET for COFfee.</li>
+          <li>we <Link to="/vocabulary/ocCAsionally-1">ocCAsionall</Link> MEET for COFfee.</li>
           <li className="margin-bottom-20 list-none">Chúng tôi thỉnh thoảng gặp nhau để uống cà phê.</li>
 
           <li>from TIME to TIME, I LIKE to WATCH MOvies.</li>
@@ -189,7 +189,7 @@ export default function SOMEtimes1(): React.JSX.Element {
 
           <ol>
 
-            <li value="1">we <Link to="/vocabulary/occasionally-1">ocCAsionally</Link> MEET for LUNCH.</li>
+            <li value="1">we <Link to="/vocabulary/ocCAsionally-1">ocCAsionally</Link> MEET for LUNCH.</li>
             <li className="list-none">Chúng tôi thỉnh thoảng gặp nhau để ăn trưa.</li>
             <li className="list-none margin-bottom-20">Mang ý nghĩa lịch sự hơn và nhấn mạnh tính ngẫu nhiên.</li>
 
