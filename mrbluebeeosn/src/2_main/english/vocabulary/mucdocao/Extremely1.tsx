@@ -105,7 +105,7 @@ export default function Extremely1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li><Link to="/vocabulary/very-1">Very</Link> /ˈveri/</li>
+          <li><Link to="/vocabulary/VERy-1">Very</Link> /ˈveri/</li>
           <li className="list-none">It's ______ hot today.</li>
           <li className="margin-bottom-20 list-none">Hôm nay rất nóng.</li>
 

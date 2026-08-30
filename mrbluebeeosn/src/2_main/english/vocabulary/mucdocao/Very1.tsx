@@ -5,9 +5,9 @@ import EyeIcon from '@/components/view/EyeIcon';
 import ViewCounter from '@/components/view/ViewCounter';
 import LikeButton from '@/components/like/LikeButton';
 
-export default function Very1(): React.JSX.Element {
+export default function VERy1(): React.JSX.Element {
 
-  const postId = "Very1";
+  const postId = "VERy1";
 
   return (<>
 
@@ -17,29 +17,26 @@ export default function Very1(): React.JSX.Element {
     
       <h4><HashLink smooth to="/vocabulary#muc-do-cao-terms"><mark className="highlight-tertiary-padding-4-8">ADverbs: mức độ cao</mark></HashLink></h4>
       
-      <h1 className="margin-y-50 text-center">very
-        <sup><Link to="/vocabulary/very-1">&nbsp;1&nbsp;</Link>
+      <h1 className="margin-y-50 text-center">VERy
+        <sup><Link to="/vocabulary/VERy-1">&nbsp;1&nbsp;</Link>
         </sup>
-        <sup><Link to="/vocabulary/very-2">&nbsp;2&nbsp;</Link>
+        <sup><Link to="/vocabulary/VERy-2">&nbsp;2&nbsp;</Link>
         </sup>
       </h1>
 
       {/* This is the content of Vocabulary Term. */}
       
-      <p>Tuyệt vời! Chúng ta cùng đi sâu vào phân tích từ "<strong>very</strong>" nhé.</p>
+      <p>Tuyệt vời! Chúng ta cùng đi sâu vào phân tích từ "<strong>VERy</strong>" nhé.</p>
 
       <div className="text-border1 padding-top-20 padding-bottom-10 highlight-238-padding-4-8 bee-container">
 
         <div>
 
-          <p className="margin-bottom-20"><strong>Very</strong></p>
-
           <ul className="list-square padding-left-40">
 
             <li>
               <span className="highlight-255-padding-3-6">
-                [VEry][VER y] /ˈveri/ + /<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">very</Link>/
-                &nbsp;⬤• (2x)
+                [VEry][<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">VER y</Link>] /ˈveri/ ⬤• (2x)
               </span>
             </li>
 
@@ -63,10 +60,10 @@ export default function Very1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>She is ______ beautiful.</li>
+          <li>she is VERy BEAUtiful.</li>
           <li className="margin-bottom-20 list-none">Cô ấy rất đẹp.</li>
 
-          <li>He runs ______ fast.</li>
+          <li>he RUNS VERy FAST.</li>
           <li className="list-none">Anh ấy chạy rất nhanh.</li>
 
         </ul>
@@ -83,7 +80,7 @@ export default function Very1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li className="list-none">Không có gia đình từ trực tiếp cho "<strong>very</strong>". Tuy nhiên, "<strong>very</strong>" thường được kết hợp với các Tính Cơ và Trạng Cơ khác để tạo thành các cụm từ mới.</li>
+          <li className="list-none">Không có gia đình từ trực tiếp cho "<strong>VERy</strong>". Tuy nhiên, "<strong>VERy</strong>" thường được kết hợp với các Tính Cơ và Trạng Cơ khác để tạo thành các cụm từ mới.</li>
 
         </ul>
 
@@ -99,12 +96,10 @@ export default function Very1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li><Link to="/vocabulary/extremely-1">Extremely</Link> /ɪkˈstriːm.li/</li>
-          <li className="list-none">She is ______ intelligent.</li>
+          <li>she <Link to="/vocabulary/extremely-1">exTREMEly</Link> inTELligent.</li>
           <li className="margin-bottom-20 list-none">Cô ấy cực kỳ thông minh.</li>
 
-          <li><Link to="/vocabulary/highly-1">Highly</Link> /ˈhaɪ.li/</li>
-          <li className="list-none">He is ______ motivated.</li>
+          <li>he <Link to="/vocabulary/highly-1">HIGHly</Link> MOtivated.</li>
           <li className="list-none">Anh ấy có động lực rất cao.</li>
 
         </ul>
@@ -123,12 +118,10 @@ export default function Very1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Slightly /ˈslaɪt.li/</li>
-          <li className="list-none">I'm ______ tired.</li>
+          <li>i'm SLIGHTly TIRED.</li>
           <li className="margin-bottom-20 list-none">Tôi hơi mệt.</li>
 
-          <li><Link to="/vocabulary/not-1">Not</Link> <strong>very</strong> /nɒt ˈveri/</li>
-          <li className="list-none">She is ______ tall.</li>
+          <li>she <Link to="/vocabulary/not-1">NOT</Link> VERy TALL.</li>
           <li className="list-none">Cô ấy không cao lắm.</li>
 
         </ul>
@@ -154,7 +147,7 @@ export default function Very1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>The apple is ______ red.</li>
+          <li>the APple VERy RED.</li>
           <li className="list-none">Quả táo rất đỏ.</li>
 
         </ul>
@@ -170,11 +163,11 @@ export default function Very1(): React.JSX.Element {
         <strong>&nbsp;ví dụ</strong>:
       </p>
 
-      <p className="text-indent-whole">Thử tạo càng nhiều câu ví dụ càng tốt với "<strong>very</strong>".</p>
+      <p className="text-indent-whole">Thử tạo càng nhiều câu ví dụ càng tốt với "<strong>VERy</strong>".</p>
 
         <ul className="list-square">
 
-          <li>She has ______ long hair.</li>
+          <li>she has VERy LONG HAIR.</li>
           <li className="list-none">Cô ấy có mái tóc rất dài.</li>
 
         </ul>
@@ -190,19 +183,19 @@ export default function Very1(): React.JSX.Element {
         <strong>&nbsp;thường xuyên</strong>:
       </p>
 
-      <p className="text-indent-whole margin-bottom-20">Đọc và viết nhiều để củng cố vốn từ vựng và cách sử dụng của "<strong>very</strong>".</p>
+      <p className="text-indent-whole margin-bottom-20">Đọc và viết nhiều để củng cố vốn từ vựng và cách sử dụng của "<strong>VERy</strong>".</p>
 
-        <p className="text-indent-whole">Ví dụ để so sánh (sự khác biệt giữa extremely và <strong>very</strong>):</p>
+        <p className="text-indent-whole">Ví dụ để so sánh (sự khác biệt giữa exTREMEly và <strong>VERy</strong>):</p>
 
           <ol>
 
-            <li><Link to="/vocabulary/extremely-1">Extremely</Link>: Nhấn mạnh một mức độ cực kỳ cao.</li>
-            <li className="list-none">She is ______ happy.</li>
-            <li className="list-none margin-bottom-20">Cô ấy vui sướng vô cùng.</li>
+            <li value="1">she <Link to="/vocabulary/extremely-1">exTREMEly</Link> HAPpy.</li>
+            <li className="list-none">Cô ấy vui sướng vô cùng.</li>
+            <li className="list-none margin-bottom-20">Nhấn mạnh một mức độ cực kỳ cao.</li>
 
-            <li value="2"><strong>Very</strong>: <span className="highlight-255-padding-0-4">Nhấn mạnh một mức độ cao</span>.</li>
-            <li className="list-none">She is ______ happy.</li>
-            <li className="list-none margin-bottom-20">Cô ấy rất vui.</li>
+            <li value="2">she VERy HAPpy.</li>
+            <li className="list-none">Cô ấy rất vui.</li>
+            <li className="list-none"><span className="highlight-255-padding-0-4">Nhấn mạnh một mức độ cao</span>.</li>
 
           </ol>
 
@@ -218,11 +211,11 @@ export default function Very1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>"<strong>Very</strong>" thường đứng trước Tính Cơ hoặc trạng cơ.</li>
+          <li>"<strong>VERy</strong>" thường đứng trước Tính Cơ hoặc trạng cơ.</li>
 
-          <li>"<strong>Very</strong>" có thể được sử dụng để nhấn mạnh cả tính chất tích cực và tiêu cực.</li>
+          <li>"<strong>VERy</strong>" có thể được sử dụng để nhấn mạnh cả tính chất tích cực và tiêu cực.</li>
 
-          <li className="margin-bottom-20">Để tránh lạm dụng "<strong>very</strong>", bạn có thể sử dụng các Tính Cơ hoặc Trạng Cơ mạnh hơn hoặc các cấu trúc so sánh hơn.</li>
+          <li className="margin-bottom-20">Để tránh lạm dụng "<strong>VERy</strong>", bạn có thể sử dụng các Tính Cơ hoặc Trạng Cơ mạnh hơn hoặc các cấu trúc so sánh hơn.</li>
 
         </ul>
 

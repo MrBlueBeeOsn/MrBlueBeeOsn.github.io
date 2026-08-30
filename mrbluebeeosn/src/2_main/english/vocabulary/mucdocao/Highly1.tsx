@@ -105,7 +105,7 @@ export default function Highly1(): React.JSX.Element {
           <li className="list-none">The food was ______ spicy.</li>
           <li className="margin-bottom-20 list-none">Món ăn rất cay.</li>
 
-          <li><Link to="/vocabulary/very-1">Very</Link> /ˈveri/</li>
+          <li><Link to="/vocabulary/VERy-1">Very</Link> /ˈveri/</li>
           <li className="list-none">He is ______ intelligent.</li>
           <li className="list-none">Anh ấy rất thông minh.</li>
 

@@ -114,7 +114,7 @@ export default function So1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li><Link to="/vocabulary/very-1">Very</Link> (adv) /ˈveri/</li>
+          <li><Link to="/vocabulary/VERy-1">Very</Link> (adv) /ˈveri/</li>
           <li className="list-none">The food was ______ delicious.</li>
           <li className="margin-bottom-20 list-none">Món ăn rất ngon.</li>
 
@@ -227,7 +227,7 @@ export default function So1(): React.JSX.Element {
 
           <ol>
 
-            <li><Link to="/vocabulary/very-1">Very</Link> (adv - mức độ): Dùng để chỉ mức độ cao nhưng thường mang tính chất khách quan hơn, ít cảm xúc hơn.</li>
+            <li><Link to="/vocabulary/VERy-1">Very</Link> (adv - mức độ): Dùng để chỉ mức độ cao nhưng thường mang tính chất khách quan hơn, ít cảm xúc hơn.</li>
             <li className="list-none">She was ______ happy.</li>
             <li className="list-none">Cô ấy rất hạnh phúc.</li>
             <li className="list-none margin-bottom-20">- Đơn thuần chỉ mức độ</li>
