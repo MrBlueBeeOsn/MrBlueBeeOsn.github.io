@@ -99,7 +99,7 @@ export default function NOW1(): React.JSX.Element {
           <li>at PRESent, i am WORKing on a NEW PROJect.</li>
           <li className="margin-bottom-20 list-none">Hiện tại, tôi đang làm việc trên một dự án mới.</li>
 
-          <li><Link to="/vocabulary/currently-1">CURrently</Link>, the TEMPERature is THIRty deGREES.</li>
+          <li><Link to="/vocabulary/CURrently-1">CURrently</Link>, the TEMPERature is THIRty deGREES.</li>
           <li className="list-none">Hiện nay, nhiệt độ là 30 độ.</li>
 
         </ul>
