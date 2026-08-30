@@ -101,7 +101,7 @@ export default function Occasionally1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li><Link to="/vocabulary/sometimes-1">Sometimes</Link> /ˈsʌmtaɪmz/</li>
+          <li><Link to="/vocabulary/SOMEtimes-1">Sometimes</Link> /ˈsʌmtaɪmz/</li>
           <li className="list-none">______ I feel lonely.</li>
           <li className="margin-bottom-20 list-none">Đôi khi tôi cảm thấy cô đơn.</li>
 

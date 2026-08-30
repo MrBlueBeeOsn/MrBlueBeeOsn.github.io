@@ -118,7 +118,7 @@ export default function Occasionally2(): React.JSX.Element {
 
           <li>"<strong>Occasionally</strong>" thường đứng ở đầu câu hoặc trước hành động để nhấn mạnh tính không thường xuyên của một hành động.</li>
 
-          <li className="margin-bottom-20">Từ này có thể được thay thế bằng các từ đồng nghĩa như: <Link to="/vocabulary/sometimes-1">sometimes</Link>, now and then, from time to time.</li>
+          <li className="margin-bottom-20">Từ này có thể được thay thế bằng các từ đồng nghĩa như: <Link to="/vocabulary/SOMEtimes-1">sometimes</Link>, now and then, from time to time.</li>
 
         </ul>
 
