@@ -531,7 +531,7 @@ export default function IrregularVerbs(): React.JSX.Element {
 					<li className="list-none">Anh ấy <strong>đọc</strong> các blog kỹ thuật chuyên ngành <strong>vào mỗi buổi tối</strong>.</li>
 					<li className="margin-bottom-20 list-none">Dùng thời hiện tại đơn với dạng READS (cho chủ thể ngôi thứ ba số ít he) để chỉ thói quen hoặc sự việc diễn ra theo quy luật.</li>
 			
-					<li>she <strong>READ</strong> an INteresting BOOK <strong>LAST WEEK</strong>.</li>
+					<li>she <strong>READ</strong> an INTEResting BOOK <strong>LAST WEEK</strong>.</li>
 					<li className="list-none">Cô ấy <strong>đã đọc</strong> một cuốn sách hay <strong>vào tuần trước</strong>.</li>
 					<li className="margin-bottom-20 list-none">Dùng thời quá khứ đơn với dạng READ (phát âm là /red/) để chỉ việc đã xảy ra và kết thúc trong quá khứ.</li>
 			

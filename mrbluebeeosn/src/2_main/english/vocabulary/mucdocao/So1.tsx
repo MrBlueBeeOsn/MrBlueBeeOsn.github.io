@@ -5,9 +5,9 @@ import EyeIcon from '@/components/view/EyeIcon';
 import ViewCounter from '@/components/view/ViewCounter';
 import LikeButton from '@/components/like/LikeButton';
 
-export default function So1(): React.JSX.Element {
+export default function SO1(): React.JSX.Element {
 
-  const postId = "So1";
+  const postId = "SO1";
 
   return (<>
 
@@ -17,29 +17,26 @@ export default function So1(): React.JSX.Element {
     
       <h4><HashLink smooth to="/vocabulary#muc-do-cao-terms"><mark className="highlight-tertiary-padding-4-8">ADverbs: mức độ cao</mark></HashLink></h4>
       
-      <h1 className="margin-y-50 text-center">so
-        <sup><Link to="/vocabulary/so-1">&nbsp;1&nbsp;</Link>
+      <h1 className="margin-y-50 text-center">SO
+        <sup><Link to="/vocabulary/SO-1">&nbsp;1&nbsp;</Link>
         </sup>
-        <sup><Link to="/vocabulary/so-2">&nbsp;2&nbsp;</Link>
+        <sup><Link to="/vocabulary/SO-2">&nbsp;2&nbsp;</Link>
         </sup>
       </h1>
 
       {/* This is the content of Vocabulary Term. */}
       
-      <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>so</strong>" nhé.</p>
+      <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>SO</strong>" nhé.</p>
 
       <div className="text-border1 padding-top-20 padding-bottom-10 highlight-238-padding-4-8 bee-container">
 
         <div>
 
-          <p className="margin-bottom-20"><strong>So</strong></p>
-
           <ul className="list-square padding-left-40">
 
             <li>
               <span className="highlight-255-padding-3-6">
-                [SO][SO] /soʊ/ + /<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">sō</Link>/
-                &nbsp;⬤ (1x)
+                [SO][<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">SŌ</Link>] /soʊ/ ⬤ (1x)
               </span>
             </li>
 
@@ -61,10 +58,10 @@ export default function So1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>The movie was ______ good.</li>
+          <li>the MOvie was SO GOOD.</li>
           <li className="margin-bottom-20 list-none">Bộ phim rất hay.</li>
 
-          <li>She sings ______ beautifully.</li>
+          <li>she SINGS SO BEAUtifully.</li>
           <li className="list-none">Cô ấy hát rất hay.</li>
 
         </ul>
@@ -73,10 +70,10 @@ export default function So1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Is he coming? - "I think ______."</li>
+          <li>is he COMing? - "i THINK SO."</li>
           <li className="margin-bottom-20 list-none">Anh ấy có đến không? - "Tôi nghĩ thế."</li>
 
-          <li>She said she would help, and ______ she did.</li>
+          <li>she SAID she would HELP, and SO she DID.</li>
           <li className="list-none">Cô ấy nói sẽ giúp, và cô ấy đã làm như vậy.</li>
 
         </ul>
@@ -93,11 +90,10 @@ export default function So1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li><strong>So</strong> (prep) /soʊ/</li>
-          <li className="list-none">It was raining, ______ we stayed home.</li>
+          <li>it was RAINing, SO we STAYED HOME.</li>
           <li className="margin-bottom-20 list-none">Trời đang mưa, vì vậy chúng tôi ở nhà.</li>
 
-          <li className="list-none">He worked hard, ______ he got a promotion.</li>
+          <li>he WORKED HARD, SO he GOT a proMOtion.</li>
           <li className="list-none">Anh ấy đã làm việc chăm chỉ, do đó anh ấy được thăng chức.</li>
 
         </ul>
@@ -114,12 +110,10 @@ export default function So1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li><Link to="/vocabulary/VERy-1">Very</Link> (adv) /ˈveri/</li>
-          <li className="list-none">The food was ______ delicious.</li>
+          <li>the FOOD was <Link to="/vocabulary/VERy-1">VERy</Link> deLICious.</li>
           <li className="margin-bottom-20 list-none">Món ăn rất ngon.</li>
 
-          <li>Therefore (adv) /ˈðɛərfɔːr/</li>
-          <li className="list-none">He was ill; ______, he could not attend the meeting.</li>
+          <li>he was ILL; THEREfore, he could NOT atTEND the MEETing.</li>
           <li className="list-none">Anh ấy bị ốm; do đó, anh ấy không thể tham dự cuộc họp.</li>
 
         </ul>
@@ -138,12 +132,10 @@ export default function So1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li><Link to="/vocabulary/not-1">Not</Link> very (adv) /nɒt ˈveri/</li>
-          <li className="list-none">The movie was ______ interesting.</li>
+          <li>the MOvie was <Link to="/vocabulary/not-1">NOT</Link> INTEResting.</li>
           <li className="margin-bottom-20 list-none">Bộ phim không mấy thú vị.</li>
 
-          <li>However (adv) /haʊˈevər/</li>
-          <li className="list-none">It was cold; ______, we still went for a walk.</li>
+          <li>it was COLD; howEVer, we still WENT for a WALK.</li>
           <li className="list-none">Trời lạnh; tuy nhiên, chúng tôi vẫn đi dạo.</li>
 
         </ul>
@@ -169,7 +161,7 @@ export default function So1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>That is ______ cool!</li>
+          <li>that is SO COOL!</li>
           <li className="margin-bottom-20 list-none">Cái đó thật là ngầu quá xá!</li>
 
         </ul>
@@ -179,7 +171,7 @@ export default function So1(): React.JSX.Element {
         <ul className="list-square">
 
 
-          <li>It started to rain, ______ we went home.</li>
+          <li>it STARTed to RAIN, SO we WENT HOME.</li>
           <li className="list-none">Trời bắt đầu mưa, vì vậy chúng tôi đi về nhà.</li>
 
         </ul>
@@ -195,17 +187,17 @@ export default function So1(): React.JSX.Element {
         <strong>&nbsp;ví dụ</strong>:
       </p>
 
-      <p className="text-indent-whole">Tập trung tạo các câu mà "<strong>so</strong>" thể hiện các chức năng khác nhau của nó: nhấn mạnh, thay thế, hoặc chỉ kết quả.</p>
+      <p className="text-indent-whole">Tập trung tạo các câu mà "<strong>SO</strong>" thể hiện các chức năng khác nhau của nó: nhấn mạnh, thay thế, hoặc chỉ kết quả.</p>
 
         <ul className="list-square">
 
-          <li>She was ______ tired that she fell asleep immediately.</li>
+          <li>she was SO TIRED that she FELL aSLEEP imMEdiately.</li>
           <li className="margin-bottom-20 list-none">Cô ấy mệt đến nỗi cô ấy ngủ thiếp đi ngay lập tức.</li>
 
-          <li>Are you coming to the party? "I think ______."</li>
+          <li>are you COMing to the PARty? "i THINK SO."</li>
           <li className="margin-bottom-20 list-none">Bạn có đến bữa tiệc không? "Tôi nghĩ vậy."</li>
 
-          <li>It started raining heavily, ______ we decided to go home.</li>
+          <li>it STARted RAINing HEAVily, SO we deCIded to GO HOME.</li>
           <li className="list-none">Trời bắt đầu mưa to, do đó/vì vậy chúng tôi quyết định về nhà.</li>
 
         </ul>
@@ -221,21 +213,19 @@ export default function So1(): React.JSX.Element {
         <strong>&nbsp;thường xuyên</strong>:
       </p>
 
-      <p className="text-indent-whole margin-bottom-20">Thường xuyên sử dụng "<strong>so</strong>" trong giao tiếp hàng ngày và khi viết.</p>
+      <p className="text-indent-whole margin-bottom-20">Thường xuyên sử dụng "<strong>SO</strong>" trong giao tiếp hàng ngày và khi viết.</p>
 
-        <p className="text-indent-whole">Ví dụ để so sánh (sự khác biệt giữa very và <strong>so</strong>):</p>
+        <p className="text-indent-whole">Ví dụ để so sánh (sự khác biệt giữa VERy và <strong>SO</strong>):</p>
 
           <ol>
 
-            <li><Link to="/vocabulary/VERy-1">Very</Link> (adv - mức độ): Dùng để chỉ mức độ cao nhưng thường mang tính chất khách quan hơn, ít cảm xúc hơn.</li>
-            <li className="list-none">She was ______ happy.</li>
+            <li value="1">she was <Link to="/vocabulary/VERy-1">VERy</Link> HAPpy.</li>
             <li className="list-none">Cô ấy rất hạnh phúc.</li>
-            <li className="list-none margin-bottom-20">- Đơn thuần chỉ mức độ</li>
+            <li className="list-none margin-bottom-20">Đơn thuần chỉ mức độ. Dùng để chỉ mức độ cao nhưng thường mang tính chất khách quan hơn, ít cảm xúc hơn.</li>
 
-            <li value="2"><strong>So</strong> (adv - nhấn mạnh): Thường dùng <span className="highlight-255-padding-0-4">để thể hiện cảm xúc mạnh hơn</span> hoặc bất ngờ về mức độ. Đôi khi có thể đi kèm với câu con "that".</li>
-            <li className="list-none">She was ______ happy that she cried.</li>
+            <li value="2">she was SO HAPpy that she CRIED.</li>
             <li className="list-none">Cô ấy hạnh phúc đến nỗi bật khóc.</li>
-            <li className="list-none margin-bottom-20">- Nhấn mạnh cảm xúc và kết quả.</li>
+            <li className="list-none">Nhấn mạnh cảm xúc và kết quả. Thường dùng <span className="highlight-255-padding-0-4">để thể hiện cảm xúc mạnh hơn</span> hoặc bất ngờ về mức độ. Đôi khi có thể đi kèm với câu con "that".</li>
 
           </ol>
 
@@ -251,11 +241,11 @@ export default function So1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>"<strong>So</strong>" là một từ rất linh hoạt và có nhiều chức năng khác nhau trong câu.</li>
+          <li>"<strong>SO</strong>" là một từ rất linh hoạt và có nhiều chức năng khác nhau trong câu.</li>
 
-          <li>Khi "<strong>so</strong>" là Trạng Cơ chỉ mức độ, nó thường đứng trước Tính Cơ hoặc trạng cơ.</li>
+          <li>Khi "<strong>SO</strong>" là Trạng Cơ chỉ mức độ, nó thường đứng trước Tính Cơ hoặc trạng cơ.</li>
 
-          <li className="margin-bottom-20">Khi "<strong>so</strong>" là liên cơ, nó thường đứng ở đầu câu con chỉ kết quả.</li>
+          <li className="margin-bottom-20">Khi "<strong>SO</strong>" là liên cơ, nó thường đứng ở đầu câu con chỉ kết quả.</li>
 
         </ul>
 

@@ -257,7 +257,7 @@ export default function NhanBietTinhTuTiengAnh(): React.JSX.Element {
 
 			<h4 className="margin-y-40">10. Gây ra cảm giác…: -ing</h4>
 					
-			<p className="margin-top-20 text-indent-whole">BORing, TIRing, INteresting, exCIting, conFUsing</p>
+			<p className="margin-top-20 text-indent-whole">BORing, TIRing, INTEResting, exCIting, conFUsing</p>
 
 			
 				<ul className="list-square">
@@ -268,7 +268,7 @@ export default function NhanBietTinhTuTiengAnh(): React.JSX.Element {
 					<li>HIKing UP the MOUNtain ALL DAY was VEry <strong>TIRing</strong>, but the VIEW at the TOP was WORTH it.</li>
 					<li className="margin-bottom-20 list-none">Việc đi bộ đường dài lên núi suốt cả ngày rất <strong>mệt</strong>, nhưng phong cảnh trên đỉnh thì rất đáng giá.</li>
 
-					<li>she TOLD me an <strong>INteresting</strong> STOry about her TRIP to jaPAN.</li>
+					<li>she TOLD me an <strong>INTEResting</strong> STOry about her TRIP to jaPAN.</li>
 					<li className="margin-bottom-20 list-none">Cô ấy kể cho tôi nghe một câu chuyện <strong>thú vị</strong> về chuyến đi Nhật Bản của cô ấy.</li>
 			
 					<li>WINning the CHAMpionship MATCH was the MOST <strong>exCIting</strong> MOment of his caREER.</li>
@@ -306,7 +306,7 @@ export default function NhanBietTinhTuTiengAnh(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>The LESson is INteresting.</li>
+					<li>The LESson is INTEResting.</li>
 					<li className="margin-bottom-20 list-none">Bài học thì rất thú vị.</li>
 			
 					<li>The LESson is BORing.</li>

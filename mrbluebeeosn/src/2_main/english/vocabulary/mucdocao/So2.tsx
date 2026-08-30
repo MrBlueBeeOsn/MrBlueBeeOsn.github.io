@@ -5,9 +5,9 @@ import EyeIcon from '@/components/view/EyeIcon';
 import ViewCounter from '@/components/view/ViewCounter';
 import LikeButton from '@/components/like/LikeButton';
 
-export default function So2(): React.JSX.Element {
+export default function SO2(): React.JSX.Element {
 
-  const postId = "So2";
+  const postId = "SO2";
 
   return (<>
 
@@ -17,18 +17,18 @@ export default function So2(): React.JSX.Element {
     
       <h4><HashLink smooth to="/vocabulary#muc-do-cao-terms"><mark className="highlight-tertiary-padding-4-8">ADverbs: mức độ cao</mark></HashLink></h4>
       
-      <h1 className="margin-y-50 text-center">so
+      <h1 className="margin-y-50 text-center">SO
         <sup>
-          <Link to="/vocabulary/so-1">&nbsp;1&nbsp;</Link>
+          <Link to="/vocabulary/SO-1">&nbsp;1&nbsp;</Link>
         </sup>
         <sup>
-          <Link to="/vocabulary/so-2">&nbsp;2&nbsp;</Link>
+          <Link to="/vocabulary/SO-2">&nbsp;2&nbsp;</Link>
         </sup>
       </h1>
 
       {/* This is the content of Vocabulary Term. */}
 
-      <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về cách sử dụng từ "<strong>so</strong>" (quá, rất; như vậy) khi nó đóng vai trò là một Trạng Cơ trong tiếng Anh nhé.</p>
+      <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về cách sử dụng từ "<strong>SO</strong>" (quá, rất; như vậy) khi nó đóng vai trò là một Trạng Cơ trong tiếng Anh nhé.</p>
 
       <div className="text-border1 padding-10 highlight-238-padding-4-8 bee-container">
 
@@ -36,15 +36,9 @@ export default function So2(): React.JSX.Element {
 
           <p className="margin-y-10">
             
-            <strong>So&nbsp;</strong>
-            
             <span className="highlight-255-padding-3-6">
               
-              [SO][SO] /soʊ/ + /
-              
-              <Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">sō</Link>/ 
-              
-              &nbsp;⬤ (1x)
+              [SO][<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">SŌ</Link>] /soʊ/ ⬤ (1x)
               
             </span>
               
@@ -62,47 +56,37 @@ export default function So2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1">So <strong>much</strong> /mʌtʃ/</li>
-        <li className="list-none">Thank you ______ for your help!</li>
+        <li value="1">THANK you SO MUCH for your HELP!</li>
         <li className="list-none margin-bottom-20">Cảm ơn bạn rất nhiều vì sự giúp đỡ của bạn!</li>
 
-        <li value="2">So <strong>many</strong> /ˈmɛni/</li>
-        <li className="list-none">There are ______ people here today.</li>
+        <li value="2">there are SO many PEOple here toDAY.</li>
         <li className="list-none margin-bottom-20">Hôm nay có quá nhiều người ở đây.</li>
 
-        <li value="3">So <strong>good</strong> /ɡʊd/</li>
-        <li className="list-none">This cake is ______!</li>
+        <li value="3">this CAKE is SO GOOD!</li>
         <li className="list-none margin-bottom-20">Cái bánh này ngon quá!</li>
 
-        <li value="4">So <strong>carefully</strong> /ˈkɛərfəli/</li>
-        <li className="list-none">She drove ______ through the narrow streets.</li>
+        <li value="4">she DROVE SO CAREfully through the NARrow STREETS.</li>
         <li className="list-none margin-bottom-20">Cô ấy lái xe rất cẩn thận qua những con phố hẹp.</li>
 
-        <li value="5">So <strong>fast</strong> /fɑːst/</li>
-        <li className="list-none">Time flies ______ when you're having fun.</li>
+        <li value="5">TIME FLIES SO FAST when you're HAVing FUN.</li>
         <li className="list-none margin-bottom-20">Thời gian trôi rất nhanh khi bạn vui vẻ.</li>
 
-        <li value="6">So <strong>that</strong> /ðæt/</li>
-        <li className="list-none">He studied hard ______ he could pass the exam.</li>
+        <li value="6">he STUDied HARD so that he could PASS the exAM.</li>
         <li className="list-none margin-bottom-20">Anh ấy học chăm chỉ để mà anh ấy có thể vượt qua kỳ thi.</li>
 
-        <li value="7">So <strong>long</strong> /lɒŋ/</li>
-        <li className="list-none">Well, ______ for now!</li>
+        <li value="7">Well, SO LONG for NOW!</li>
         <li className="list-none margin-bottom-20">Tạm biệt nhé!</li>
 
-        <li className="list-none">It's been ______ since we last met.</li>
+        <li className="list-none">it's been SO LONG since we LAST MET.</li>
         <li className="list-none margin-bottom-20">Đã quá lâu rồi kể từ lần cuối chúng ta gặp nhau.</li>
 
-        <li value="8">So <strong>what</strong>? /wɒt/</li>
-        <li className="list-none">I made a mistake. "______? Everyone makes mistakes."</li>
+        <li value="8">i MADE a misTAKE. "SO WHAT? EVERyone MAKES misTAKES".</li>
         <li className="list-none margin-bottom-20">Tôi đã mắc lỗi. "Thì sao chứ? Ai cũng mắc lỗi mà."</li>
 
-        <li value="9"><strong>And</strong> so <strong>on</strong> /ænd ɒn/</li>
-        <li className="list-none">We discussed the budget, the timeline, the resources, ______.</li>
+        <li value="9">we disCUSSED the BUDget, the TIMEline, the reSOURces, and SO ON.</li>
         <li className="list-none margin-bottom-20">Chúng tôi đã thảo luận về ngân sách, thời gian biểu, nguồn lực, và cứ thế.</li>
 
-        <li value="10">So <strong>do I</strong> /duː aɪ/, So <strong>am I</strong> /æm aɪ/</li>
-        <li className="list-none">I love chocolate. "______."</li>
+        <li value="10">i LOVE CHOColate. "SO do i.", "SO am i".</li>
         <li className="list-none margin-bottom-20">Tôi thích sô cô la. "Tôi cũng vậy."</li>
 
       </ol>
@@ -119,11 +103,17 @@ export default function So2(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Nhấn mạnh mức độ: "<strong>So</strong>" thường được dùng để nhấn mạnh Tính Cơ hoặc Trạng Cơ (ví dụ: <strong>so</strong> beautiful, <strong>so</strong> quickly).</li>
+          <li><strong>SO</strong> BEAUtiful, <strong>SO</strong> QUICKly</li>
+          <li className="list-none">Đẹp quá, nhanh quá!</li>
+          <li className="list-none margin-bottom-20">Nhấn mạnh mức độ: "<strong>SO</strong>" thường được dùng để nhấn mạnh Tính Cơ hoặc Trạng Cơ.</li>
+          
 
-          <li>Chỉ kết quả: "<strong>So</strong>" có thể dùng để giới thiệu kết quả của một hành động hoặc tình huống (ví dụ: It rained heavily, <strong>so</strong> we stayed home).</li>
+          <li>it RAINED HEAVily, <strong>SO</strong> we STAYED HOME.</li>
+          <li className="list-none">Trời mưa rất to, nên chúng tôi ở nhà.</li>
+          <li className="list-none margin-bottom-20">Chỉ kết quả: "<strong>So</strong>" có thể dùng để giới thiệu kết quả của một hành động hoặc tình huống.</li>
+          
 
-          <li className="margin-bottom-20">Đa dạng ngữ cảnh: "<strong>So</strong>" là một từ rất phổ biến và có nhiều cách dùng khác nhau tùy thuộc vào ngữ cảnh.</li>
+          <li>Đa dạng ngữ cảnh: "<strong>SO</strong>" là một từ rất phổ biến và có nhiều cách dùng khác nhau tùy thuộc vào ngữ cảnh.</li>
 
         </ul>
 
