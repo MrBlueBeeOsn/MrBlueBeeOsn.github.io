@@ -5,9 +5,9 @@ import EyeIcon from '@/components/view/EyeIcon';
 import ViewCounter from '@/components/view/ViewCounter';
 import LikeButton from '@/components/like/LikeButton';
 
-export default function Seldom1(): React.JSX.Element {
+export default function SELdom1(): React.JSX.Element {
 
-  const postId = "Seldom1";
+  const postId = "SELdom1";
 
   return (<>
 
@@ -17,29 +17,26 @@ export default function Seldom1(): React.JSX.Element {
     
       <h4><HashLink smooth to="/vocabulary#thoi-gian-hiem-terms"><mark className="highlight-tertiary-padding-4-88">ADverbs: hiếm</mark></HashLink></h4>
       
-      <h1 className="margin-y-50 text-center">seldom
-        <sup><Link to="/vocabulary/seldom-1">&nbsp;1&nbsp;</Link>
+      <h1 className="margin-y-50 text-center">SELdom
+        <sup><Link to="/vocabulary/SELdom-1">&nbsp;1&nbsp;</Link>
         </sup>
-        <sup><Link to="/vocabulary/seldom-2">&nbsp;2&nbsp;</Link>
+        <sup><Link to="/vocabulary/SELdom-2">&nbsp;2&nbsp;</Link>
         </sup>
       </h1>
 
       {/* This is the content of Vocabulary Term. */}
       
-      <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>seldom</strong>" nhé.</p>
+      <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>SELdom</strong>" nhé.</p>
 
       <div className="text-border1 padding-top-20 padding-bottom-10 highlight-238-padding-4-8 bee-container">
 
         <div>
 
-          <p className="margin-bottom-20"><strong>Seldom</strong></p>
-
           <ul className="list-square padding-left-40">
 
             <li>
               <span className="highlight-255-padding-3-6">
-                [SELdom][SEL dom] /ˈsɛldəm/ + /<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">seldơm</Link>/
-                &nbsp;⬤• (2x)
+                [SELdom][<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">SEL dơm</Link>] /ˈsɛldəm/ ⬤• (2x)
               </span>
             </li>
 
@@ -63,10 +60,10 @@ export default function Seldom1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>I ______ go to the movies.</li>
+          <li>i SELdom GO to the MOvies.</li>
           <li className="margin-bottom-20 list-none">Tôi hiếm khi đi xem phim.</li>
 
-          <li>She ______ makes mistakes.</li>
+          <li>she SELdom MAKES misTAKES.</li>
           <li className="list-none">Cô ấy hiếm khi mắc lỗi.</li>
 
         </ul>
@@ -99,12 +96,10 @@ export default function Seldom1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li><Link to="/vocabulary/rarely-1">Rarely</Link> /ˈreər.li/</li>
-          <li className="list-none">I ______ eat meat.</li>
+          <li>i <Link to="/vocabulary/rarely-1">RAREly</Link> EAT MEAT.</li>
           <li className="margin-bottom-20 list-none">Tôi hiếm khi ăn thịt.</li>
 
-          <li>Infrequently /ɪnˈfriː.kwənt.li/</li>
-          <li className="list-none">She ______ visits her parents.</li>
+          <li>she inFREquently VISits her PARents.</li>
           <li className="list-none">Cô ấy ít khi đến thăm ba mẹ.</li>
 
         </ul>
@@ -123,12 +118,10 @@ export default function Seldom1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li><Link to="/vocabulary/OFten-1">Often</Link> /ˈɒf.ən/</li>
-          <li className="list-none">I ______ go for a walk in the park.</li>
+          <li>i <Link to="/vocabulary/OFten-1">OFten</Link> GO for a WALK in the PARK.</li>
           <li className="margin-bottom-20 list-none">Tôi thường đi dạo trong công viên.</li>
 
-          <li><Link to="/vocabulary/FREquently-1">Frequently</Link> /ˈfriː.kwənt.li/</li>
-          <li className="list-none">He ______ travels abroad.</li>
+          <li>he <Link to="/vocabulary/FREquently-1">FREquently</Link> TRAVels aBROAD.</li>
           <li className="list-none">Anh ấy thường xuyên đi du lịch nước ngoài.</li>
 
         </ul>
@@ -154,10 +147,10 @@ export default function Seldom1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>The watch ______ keeps accurate time.</li>
+          <li>the WATCH SELdom KEEPS ACcurate TIME.</li>
           <li className="margin-bottom-20 list-none">Chiếc đồng hồ hiếm khi chạy đúng giờ.</li>
 
-          <li>This type of flower ______ blooms.</li>
+          <li>this TYPE of FLOWer SELdom BLOOMS.</li>
           <li className="list-none">Loại hoa này hiếm khi nở.</li>
 
         </ul>
@@ -173,11 +166,11 @@ export default function Seldom1(): React.JSX.Element {
         <strong>&nbsp;ví dụ</strong>:
       </p>
 
-      <p className="text-indent-whole">Thử tạo càng nhiều câu với "<strong>seldom</strong>" trong các ngữ cảnh khác nhau.</p>
+      <p className="text-indent-whole">Thử tạo càng nhiều câu với "<strong>SELdom</strong>" trong các ngữ cảnh khác nhau.</p>
 
         <ul className="list-square">
 
-          <li>She ______ complains about her job.</li>
+          <li>she SELdom comPLAINS about her JOB.</li>
           <li className="list-none">Cô ấy hiếm khi phàn nàn về công việc.</li>
 
         </ul>
@@ -195,17 +188,17 @@ export default function Seldom1(): React.JSX.Element {
 
       <p className="text-indent-whole margin-bottom-20">Đọc và viết nhiều để làm quen với từ này.</p>
 
-        <p className="text-indent-whole">Ví dụ để so sánh (sự khác biệt giữa rarely và <strong>seldom</strong>):</p>
+        <p className="text-indent-whole">Ví dụ để so sánh (sự khác biệt giữa RAREly và <strong>SELdom</strong>):</p>
 
           <ol>
 
-            <li><Link to="/vocabulary/rarely-1">Rarely</Link>: Có thể có một vài lần xảy ra, nhưng không thường xuyên.</li>
-            <li className="list-none">I ______ eat spicy food.</li>
-            <li className="list-none margin-bottom-20">Tôi hiếm khi ăn đồ ăn cay.</li>
+            <li value="1">i <Link to="/vocabulary/rarely-1">RAREly</Link> EAT SPIcy FOOD.</li>
+            <li className="list-none">Tôi hiếm khi ăn đồ ăn cay.</li>
+            <li className="list-none margin-bottom-20">Có thể có một vài lần xảy ra, nhưng không thường xuyên.</li>
 
-            <li value="2"><strong>Seldom</strong>: <span className="highlight-255-padding-0-4">Nhấn mạnh sự hiếm hoi tuyệt đối</span>.</li>
-            <li className="list-none">I ______ see him anymore.</li>
-            <li className="list-none margin-bottom-20">Tôi hầu như không bao giờ gặp anh ấy nữa.</li>
+            <li value="2">i SELdom SEE him anyMORE.</li>
+            <li className="list-none">Tôi hầu như không bao giờ gặp anh ấy nữa.</li>
+            <li className="list-none"><span className="highlight-255-padding-0-4">Nhấn mạnh sự hiếm hoi tuyệt đối</span>.</li>
 
           </ol>
 
@@ -219,9 +212,9 @@ export default function Seldom1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>"<strong>Seldom</strong>" thường đứng trước hành động chính trong câu.</li>
+          <li>"<strong>SELdom</strong>" thường đứng trước hành động chính trong câu.</li>
 
-          <li className="margin-bottom-20">"<strong>Seldom</strong>" mang nghĩa phủ định, tức là một việc gì đó không xảy ra thường xuyên.</li>
+          <li className="margin-bottom-20">"<strong>SELdom</strong>" mang nghĩa phủ định, tức là một việc gì đó không xảy ra thường xuyên.</li>
 
         </ul>
 

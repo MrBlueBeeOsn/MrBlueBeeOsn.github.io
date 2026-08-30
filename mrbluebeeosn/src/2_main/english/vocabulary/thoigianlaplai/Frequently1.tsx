@@ -125,7 +125,7 @@ export default function FREquently1(): React.JSX.Element {
           <li>i <Link to="/vocabulary/rarely-1">RAREly</Link> EAT MEAT.</li>
           <li className="margin-bottom-20 list-none">Tôi hiếm khi ăn thịt.</li>
 
-          <li>she <Link to="/vocabulary/seldom-1">SELdom</Link> GOES to the MOvies.</li>
+          <li>she <Link to="/vocabulary/SELdom-1">SELdom</Link> GOES to the MOvies.</li>
           <li className="list-none">Cô ấy ít khi đi xem phim.</li>
 
         </ul>

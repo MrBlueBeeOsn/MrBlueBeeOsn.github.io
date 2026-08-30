@@ -127,7 +127,7 @@ export default function Always1(): React.JSX.Element {
           <li className="list-none">I have ______ been to Paris.</li>
           <li className="margin-bottom-20 list-none">Tôi chưa bao giờ đến Paris.</li>
 
-          <li><Link to="/vocabulary/seldom-1">Seldom</Link> (adv) /ˈsel.dəm/</li>
+          <li><Link to="/vocabulary/SELdom-1">Seldom</Link> (adv) /ˈsel.dəm/</li>
           <li className="list-none">She ______ goes to the cinema.</li>
           <li className="list-none">Cô ấy hiếm khi đi xem phim.</li>
 

@@ -440,8 +440,8 @@ const Posts = lazy(() => import('@/data/Posts'));
 	const Usually2 = lazy(() => import('@/2_main/english/vocabulary/thoigianlaplai/Usually2'));
 
 	// 9. Vocabulary - Tính hiếm
-	const Seldom1 = lazy(() => import('@/2_main/english/vocabulary/thoigianhiem/Seldom1'));
-	const Seldom2 = lazy(() => import('@/2_main/english/vocabulary/thoigianhiem/Seldom2'));
+	const SELdom1 = lazy(() => import('@/2_main/english/vocabulary/thoigianhiem/SELdom1'));
+	const SELdom2 = lazy(() => import('@/2_main/english/vocabulary/thoigianhiem/SELdom2'));
 	const SOMEtimes1 = lazy(() => import('@/2_main/english/vocabulary/thoigianhiem/SOMEtimes1'));
 	const SOMEtimes2 = lazy(() => import('@/2_main/english/vocabulary/thoigianhiem/SOMEtimes2'));
 	const Rarely1 = lazy(() => import('@/2_main/english/vocabulary/thoigianhiem/Rarely1'));
@@ -1045,8 +1045,8 @@ export default function AppRoutes(): React.JSX.Element {
 					<Route path="/vocabulary/Usually-2" element={<Usually2 />} />
 
 					{/* 9. Vocabulary - Tính hiếm */}
-					<Route path="/vocabulary/seldom-1" element={<Seldom1 />} />
-					<Route path="/vocabulary/seldom-2" element={<Seldom2 />} />
+					<Route path="/vocabulary/SELdom-1" element={<SELdom1 />} />
+					<Route path="/vocabulary/SELdom-2" element={<SELdom2 />} />
 					<Route path="/vocabulary/SOMEtimes-1" element={<SOMEtimes1 />} />
 					<Route path="/vocabulary/SOMEtimes-2" element={<SOMEtimes2 />} />
 					<Route path="/vocabulary/rarely-1" element={<Rarely1 />} />
