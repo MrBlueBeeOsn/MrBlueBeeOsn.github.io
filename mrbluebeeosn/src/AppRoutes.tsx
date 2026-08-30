@@ -492,8 +492,8 @@ const Posts = lazy(() => import('@/data/Posts'));
 	const Apparently2 = lazy(() => import('@/2_main/english/vocabulary/khongchacchan/Apparently2'));
 
 	// 14. Vocabulary - Thời gian hiện tại
-	const Now1 = lazy(() => import('@/2_main/english/vocabulary/thoigianhientai/Now1'));
-	const Now2 = lazy(() => import('@/2_main/english/vocabulary/thoigianhientai/Now2'));
+	const NOW1 = lazy(() => import('@/2_main/english/vocabulary/thoigianhientai/NOW1'));
+	const NOW2 = lazy(() => import('@/2_main/english/vocabulary/thoigianhientai/NOW2'));
 	const ToDAY1 = lazy(() => import('@/2_main/english/vocabulary/thoigianhientai/toDAY1'));
 	const ToDAY2 = lazy(() => import('@/2_main/english/vocabulary/thoigianhientai/toDAY2'));
 	const Currently1 = lazy(() => import('@/2_main/english/vocabulary/thoigianhientai/Currently1'));
@@ -1097,8 +1097,8 @@ export default function AppRoutes(): React.JSX.Element {
 					<Route path="/vocabulary/apparently-2" element={<Apparently2 />} />
 
 					{/* 14. Vocabulary - Thời gian hiện tại */}
-					<Route path="/vocabulary/now-1" element={<Now1 />} />
-					<Route path="/vocabulary/now-2" element={<Now2 />} />
+					<Route path="/vocabulary/NOW-1" element={<NOW1 />} />
+					<Route path="/vocabulary/NOW-2" element={<NOW2 />} />
 					<Route path="/vocabulary/toDAY-1" element={<ToDAY1 />} />
 					<Route path="/vocabulary/toDAY-2" element={<ToDAY2 />} />
 					<Route path="/vocabulary/currently-1" element={<Currently1 />} />

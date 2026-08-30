@@ -100,7 +100,7 @@ export default function toDAY1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>i'm GOing to BED <Link to="/vocabulary/now-1">NOW</Link>.</li>
+          <li>i'm GOing to BED <Link to="/vocabulary/NOW-1">NOW</Link>.</li>
           <li className="margin-bottom-20 list-none">Bây giờ tôi sẽ đi ngủ.</li>
 
           <li>at PRESent, i am WORKing on a new PROJect.</li>
@@ -193,7 +193,7 @@ export default function toDAY1(): React.JSX.Element {
 
           <ol>
 
-            <li value="1">i'm EATing <Link to="/vocabulary/now-1">NOW</Link>.</li>
+            <li value="1">i'm EATing <Link to="/vocabulary/NOW-1">NOW</Link>.</li>
             <li className="list-none">Bây giờ tôi đang ăn.</li>
             <li className="list-none margin-bottom-20">Chỉ thời điểm chính xác tại thời điểm nói.</li>
 

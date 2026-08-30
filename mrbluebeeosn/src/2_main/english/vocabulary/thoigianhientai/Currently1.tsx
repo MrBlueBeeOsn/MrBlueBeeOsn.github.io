@@ -109,7 +109,7 @@ export default function Currently1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li><Link to="/vocabulary/now-1">Now</Link> (adv) /naʊ/</li>
+          <li><Link to="/vocabulary/NOW-1">Now</Link> (adv) /naʊ/</li>
           <li className="list-none">I am working ______.</li>
           <li className="margin-bottom-20 list-none">Tôi đang làm việc bây giờ.</li>
 
