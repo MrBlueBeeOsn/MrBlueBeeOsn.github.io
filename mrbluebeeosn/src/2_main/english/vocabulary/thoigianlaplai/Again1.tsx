@@ -194,7 +194,7 @@ export default function aGAIN1(): React.JSX.Element {
             <li className="list-none">Chúng ta hãy thử thêm một lần nữa.</li>
             <li className="list-none margin-bottom-20">Thường được dùng để nhấn mạnh sự lặp lại cuối cùng hoặc một nỗ lực cuối cùng.</li>
 
-            <li value="2">please rePEAT that aGAIN.</li>
+            <li value="2">PLEASE rePEAT that aGAIN.</li>
             <li className="list-none">Làm ơn lặp lại điều đó.</li>
             <li className="list-none margin-bottom-20">Thường được dùng trong các tình huống thông thường</li>
 

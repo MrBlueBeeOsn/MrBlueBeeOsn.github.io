@@ -121,7 +121,7 @@ export default function VERy1(): React.JSX.Element {
           <li>i'm SLIGHTly TIRED.</li>
           <li className="margin-bottom-20 list-none">Tôi hơi mệt.</li>
 
-          <li>she <Link to="/vocabulary/not-1">NOT</Link> VERy TALL.</li>
+          <li>she <Link to="/vocabulary/NOT-1">NOT</Link> VERy TALL.</li>
           <li className="list-none">Cô ấy không cao lắm.</li>
 
         </ul>

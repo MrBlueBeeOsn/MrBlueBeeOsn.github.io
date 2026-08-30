@@ -99,7 +99,7 @@ export default function No1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li><Link to="/vocabulary/not-1">Not</Link> (adv) /nɒt/</li>
+          <li><Link to="/vocabulary/NOT-1">Not</Link> (adv) /nɒt/</li>
           <li className="list-none">I am ______ going.</li>
           <li className="margin-bottom-20 list-none">Tôi không đi.</li>
 
@@ -177,7 +177,7 @@ export default function No1(): React.JSX.Element {
           <li className="list-none">Would you like some coffee?</li>
           <li className=" margin-bottom-20 list-none">Bạn có muốn uống cà phê không?</li>
 
-          <li>Yes, please.</li>
+          <li>Yes, PLEASE.</li>
           <li className=" margin-bottom-20 list-none">Vâng, làm ơn.</li>
 
           <li>______, thank you. I'm not thirsty.</li>
@@ -202,7 +202,7 @@ export default function No1(): React.JSX.Element {
 
           <ol>
 
-            <li><Link to="/vocabulary/not-1">Not</Link>: Được sử dụng để tạo thành câu phủ định đầy đủ.</li>
+            <li><Link to="/vocabulary/NOT-1">Not</Link>: Được sử dụng để tạo thành câu phủ định đầy đủ.</li>
             <li className="list-none">I do ______ want any milk.</li>
             <li className="list-none margin-bottom-20">Tôi không muốn bất kỳ sữa nào.</li>
 

@@ -82,7 +82,7 @@ export default function Yes2(): React.JSX.Element {
         <li className="list-none">Would you like some help? ______.</li>
         <li className="list-none margin-bottom-20">Bạn có muốn tôi giúp không? Vâng, chắc chắn rồi.</li>
 
-        <li value="6">Yes, <strong>please</strong> /pliːz/</li>
+        <li value="6">Yes, <strong>PLEASE</strong> /pliːz/</li>
         <li className="list-none">Would you like another piece of cake? ______.</li>
         <li className="list-none margin-bottom-20">Bạn có muốn thêm một miếng bánh không? Vâng, xin vui lòng.</li>
 

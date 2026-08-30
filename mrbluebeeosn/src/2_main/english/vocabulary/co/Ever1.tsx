@@ -129,7 +129,7 @@ export default function Ever1(): React.JSX.Element {
           <li className="list-none">I have ______ been to Paris.</li>
           <li className="margin-bottom-20 list-none">Tôi chưa bao giờ đến Paris.</li>
 
-          <li><Link to="/vocabulary/not-1">Not</Link> once /nɒt wʌns/</li>
+          <li><Link to="/vocabulary/NOT-1">Not</Link> once /nɒt wʌns/</li>
           <li className="list-none">I have not ______ regretted my decision.</li>
           <li className="list-none">Tôi chưa bao giờ hối hận về quyết định của mình.</li>
 

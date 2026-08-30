@@ -63,7 +63,7 @@ export default function GENTly1(): React.JSX.Element {
           <li>she CLOSED the DOOR GENTly.</li>
           <li className="margin-bottom-20 list-none">Cô ấy đóng cửa nhẹ nhàng.</li>
 
-          <li>please SPEAK GENTly to the CHILD.</li>
+          <li>PLEASE SPEAK GENTly to the CHILD.</li>
           <li className="list-none">Làm ơn nói chuyện nhẹ nhàng với đứa trẻ.</li>
 
         </ul>

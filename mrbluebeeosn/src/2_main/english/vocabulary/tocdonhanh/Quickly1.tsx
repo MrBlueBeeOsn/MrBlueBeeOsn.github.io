@@ -65,7 +65,7 @@ export default function QUICKly1(): React.JSX.Element {
           <li>she RAN QUICKly to CATCH the BUS.</li>
           <li className="margin-bottom-20 list-none">Cô ấy chạy nhanh để bắt xe buýt.</li>
 
-          <li>please rePLY to the Email as QUICKly as POSsible.</li>
+          <li>PLEASE rePLY to the Email as QUICKly as POSsible.</li>
           <li className="list-none">Vui lòng trả lời email càng sớm càng tốt.</li>
 
         </ul>
@@ -173,7 +173,7 @@ export default function QUICKly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>please reSPOND to my MESsage QUICKly.</li>
+          <li>PLEASE reSPOND to my MESsage QUICKly.</li>
           <li className="list-none">Vui lòng trả lời tin nhắn của tôi nhanh nhé.</li>
 
         </ul>

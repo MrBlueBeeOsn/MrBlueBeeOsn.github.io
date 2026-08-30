@@ -74,11 +74,11 @@ export default function VERy2(): React.JSX.Element {
         <li value="6">she RUN VERy QUICKly.</li>
         <li className="list-none margin-bottom-20">Cô ấy có thể chạy rất nhanh.</li>
 
-        <li value="7">please SPEAK VERy SLOWly.</li>
+        <li value="7">PLEASE SPEAK VERy SLOWly.</li>
   
         <li className="list-none margin-bottom-20">Làm ơn nói chậm lại.</li>
 
-        <li value="8">please HANdle this GLASS VERy CAREfully.</li>
+        <li value="8">PLEASE HANdle this GLASS VERy CAREfully.</li>
         <li className="list-none margin-bottom-20">Làm ơn cầm ly này thật cẩn thận.</li>
 
         <li value="9">i LIKE COFfee VERy MUCH.</li>

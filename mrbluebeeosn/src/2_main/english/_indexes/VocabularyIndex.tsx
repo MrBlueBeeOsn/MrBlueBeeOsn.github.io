@@ -331,10 +331,10 @@ export default function VocabularyIndex(): React.JSX.Element {
 						</li>
 
 						<li>
-							<Link to="/vocabulary/not-1">not
+							<Link to="/vocabulary/NOT-1">NOT
 								<sup>&nbsp;1&nbsp;</sup>
 									</Link> 
-									<Link to="/vocabulary/not-2">
+									<Link to="/vocabulary/NOT-2">
 								<sup>&nbsp;2&nbsp;</sup>
 							</Link>
 						</li>

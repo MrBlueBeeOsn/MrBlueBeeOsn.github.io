@@ -168,7 +168,7 @@ export default function SOFTly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>"can you please SPEAK SOFTly?" she WHISpered.</li>
+          <li>"can you PLEASE SPEAK SOFTly?" she WHISpered.</li>
           <li className="list-none">Cô ấy thì thầm: "Bạn có thể nói nhỏ nhẹ được không?"</li>
 
         </ul>

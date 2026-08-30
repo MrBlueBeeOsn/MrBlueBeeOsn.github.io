@@ -80,7 +80,7 @@ export default function rePEATedly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>please rePEAT that.</li>
+          <li>PLEASE rePEAT that.</li>
           <li className="margin-bottom-20 list-none">Làm ơn lặp lại điều đó.</li>
 
           <li>the repeTITion of the SAME misTAKE is unacCEPTable.</li>

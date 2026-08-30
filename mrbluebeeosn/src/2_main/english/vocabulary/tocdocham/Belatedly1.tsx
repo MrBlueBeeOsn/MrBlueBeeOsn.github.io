@@ -140,7 +140,7 @@ export default function beLAtedly1(): React.JSX.Element {
           <li>the MEEting STARted PUNCtually.</li>
           <li className="margin-bottom-20 list-none">Cuộc họp bắt đầu đúng giờ.</li>
 
-          <li>please rePORT any ISsues imMEdiately.</li>
+          <li>PLEASE rePORT any ISsues imMEdiately.</li>
           <li className="list-none">Vui lòng báo cáo mọi vấn đề ngay lập tức.</li>
 
         </ul>

@@ -63,7 +63,7 @@ export default function corRECTly1(): React.JSX.Element {
           <li>she ANswered all the QUEStions corRECTly.</li>
           <li className="margin-bottom-20 list-none">Cô ấy đã trả lời tất cả các câu hỏi một cách chính xác.</li>
 
-          <li>please MAKE SURE you FILL in the FORM corRECTly.</li>
+          <li>PLEASE MAKE SURE you FILL in the FORM corRECTly.</li>
           <li className="list-none">Vui lòng đảm bảo bạn điền vào mẫu đơn một cách chính xác.</li>
 
         </ul>

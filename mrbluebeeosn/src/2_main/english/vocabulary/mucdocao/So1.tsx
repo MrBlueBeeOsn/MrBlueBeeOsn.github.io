@@ -132,7 +132,7 @@ export default function SO1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>the MOvie was <Link to="/vocabulary/not-1">NOT</Link> INTEResting.</li>
+          <li>the MOvie was <Link to="/vocabulary/NOT-1">NOT</Link> INTEResting.</li>
           <li className="margin-bottom-20 list-none">Bộ phim không mấy thú vị.</li>
 
           <li>it was COLD; howEVer, we still WENT for a WALK.</li>

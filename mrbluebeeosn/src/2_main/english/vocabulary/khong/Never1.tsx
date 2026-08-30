@@ -99,7 +99,7 @@ export default function Never1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li><Link to="/vocabulary/not-1">Not</Link> ever /nɒt ˈevər/</li>
+          <li><Link to="/vocabulary/NOT-1">Not</Link> ever /nɒt ˈevər/</li>
           <li className="list-none">I have ______ seen such a beautiful sunset.</li>
           <li className="margin-bottom-20 list-none">Tôi chưa bao giờ thấy một cảnh hoàng hôn đẹp như vậy.</li>
 

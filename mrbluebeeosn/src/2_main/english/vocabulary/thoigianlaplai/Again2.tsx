@@ -74,7 +74,7 @@ export default function aGAIN2(): React.JSX.Element {
         <li value="6">i HOPE to SEE you aGAIN SOON.</li>
         <li className="list-none margin-bottom-20">Tôi hy vọng sẽ gặp lại bạn sớm.</li>
 
-        <li value="7">could you SAY that aGAIN, please?</li>
+        <li value="7">could you SAY that aGAIN, PLEASE?</li>
         <li className="list-none margin-bottom-20">Bạn có thể nói lại được không?</li>
 
         <li value="8">NOT aGAIN! i've LOST my KEYS.</li>
@@ -83,7 +83,7 @@ export default function aGAIN2(): React.JSX.Element {
         <li value="9">could you READ that ONCE MORE?</li>
         <li className="list-none margin-bottom-20">Bạn có thể đọc lại một lần nữa được không?</li>
 
-        <li value="10">please DO it as beFORE.</li>
+        <li value="10">PLEASE DO it as beFORE.</li>
         <li className="list-none margin-bottom-20">Làm ơn làm như trước đây.</li>
 
       </ol>

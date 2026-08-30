@@ -2597,23 +2597,23 @@
       "likes": 0
     },
     {
-      "id": "Not1",
+      "id": "NOT1",
       "categoryDisplay": "Không",
       "categorySlug": "vocabulary#khong-terms",
-      "title": "not 1",
-      "content": "Dùng để phủ định một hành động, tính chất, hoặc sự kiện.",
-      "slug": "vocabulary/not-1",
+      "title": "NOT 1",
+      "content": "NOT: Dùng để phủ định một hành động, tính chất, hoặc sự kiện.",
+      "slug": "vocabulary/NOT-1",
       "date": "2024-11-08",
       "views": 0,
       "likes": 0
     },
     {
-      "id": "Not2",
+      "id": "NOT2",
       "categoryDisplay": "Không",
       "categorySlug": "vocabulary#khong-terms",
-      "title": "not 2",
-      "content": "Not /nɒt/ ⬤ (1x) là một từ phủ định rất quan trọng, được dùng để tạo ra câu phủ định.",
-      "slug": "vocabulary/not-2",
+      "title": "NOT 2",
+      "content": "[NOT][NOT] /nɒt/ ⬤ (1x) là một từ phủ định rất quan trọng, được dùng để tạo ra câu phủ định.",
+      "slug": "vocabulary/NOT-2",
       "date": "2024-11-08",
       "views": 0,
       "likes": 0

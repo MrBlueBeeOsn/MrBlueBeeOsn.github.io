@@ -60,7 +60,7 @@ export default function CAREfully1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>please READ the inSTRUCtions CAREfully before you START.</li>
+          <li>PLEASE READ the inSTRUCtions CAREfully before you START.</li>
           <li className="margin-bottom-20 list-none">Vui lòng đọc kỹ hướng dẫn trước khi bắt đầu.</li>
 
           <li>she CAREfully PACKED her SUITcase for the TRIP.</li>

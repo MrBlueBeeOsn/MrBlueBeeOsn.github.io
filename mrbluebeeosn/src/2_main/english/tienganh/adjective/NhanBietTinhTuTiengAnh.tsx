@@ -88,7 +88,7 @@ export default function NhanBietTinhTuTiengAnh(): React.JSX.Element {
 					<li>we WATCHED a <strong>BEAUtiful</strong> SUNset over the Ocean on our last EVening of the HOLiday.</li>
 					<li className="margin-bottom-20 list-none">Chúng tôi đã ngắm nhìn một hoàng hôn <strong>đẹp tuyệt vời</strong> trên đại dương vào buổi tối cuối cùng của kỳ nghỉ.</li>
 			
-					<li>please be <strong>CAREful</strong> with that FRAGile GLASS VASE while MOving it to the LIVing ROOM.</li>
+					<li>PLEASE be <strong>CAREful</strong> with that FRAGile GLASS VASE while MOving it to the LIVing ROOM.</li>
 					<li className="margin-bottom-20 list-none">Xin hãy <strong>cẩn thận</strong> với chiếc bình thủy tinh dễ vỡ đó khi chuyển nó vào phòng khách.</li>
 
 					<li>the LOcal TOURist GUIDE GAVE us <strong>HELPful</strong> adVICE on where to FIND the BEST STREET FOOD.</li>
