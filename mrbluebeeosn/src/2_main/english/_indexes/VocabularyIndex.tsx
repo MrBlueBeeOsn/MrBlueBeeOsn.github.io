@@ -558,10 +558,10 @@ export default function VocabularyIndex(): React.JSX.Element {
 						</li>
 
 						<li>
-							<Link to="/vocabulary/presently-1">presently
+							<Link to="/vocabulary/PRESently-1">PRESently
 								<sup>&nbsp;1&nbsp;</sup>
 									</Link> 
-									<Link to="/vocabulary/presently-2">
+									<Link to="/vocabulary/PRESently-2">
 								<sup>&nbsp;2&nbsp;</sup>
 							</Link>
 						</li>

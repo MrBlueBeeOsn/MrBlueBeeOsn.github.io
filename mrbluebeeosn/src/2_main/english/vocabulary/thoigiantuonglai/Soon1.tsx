@@ -103,7 +103,7 @@ export default function SOON1(): React.JSX.Element {
 					<li>i will be with you SHORTly.</li>
 					<li className="margin-bottom-20 list-none">Tôi sẽ đến với bạn ngay thôi.</li>
 
-					<li>i'll be with you <Link to="/vocabulary/presently-1">PREsently</Link>.</li>
+					<li>i'll be with you <Link to="/vocabulary/PRESently-1">PREsently</Link>.</li>
 					<li className="list-none">Tôi sẽ đến với bạn ngay bây giờ.</li>
 
 				</ul>

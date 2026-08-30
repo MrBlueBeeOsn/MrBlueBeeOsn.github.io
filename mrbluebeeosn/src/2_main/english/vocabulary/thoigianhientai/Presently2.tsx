@@ -5,9 +5,9 @@ import EyeIcon from '@/components/view/EyeIcon';
 import ViewCounter from '@/components/view/ViewCounter';
 import LikeButton from '@/components/like/LikeButton';
 
-export default function Presently2(): React.JSX.Element {
+export default function PRESently2(): React.JSX.Element {
 
-  const postId = "Presently2";
+  const postId = "PRESently2";
 
   return (<>
 
@@ -17,18 +17,18 @@ export default function Presently2(): React.JSX.Element {
     
       <h4><HashLink smooth to="/vocabulary#thoi-gian-hien-tai-terms"><mark className="highlight-tertiary-padding-4-88">ADverbs: hiện tại</mark></HashLink></h4>
       
-      <h1 className="margin-y-50 text-center">presently
+      <h1 className="margin-y-50 text-center">PRESently
         <sup>
-          <Link to="/vocabulary/presently-1">&nbsp;1&nbsp;</Link>
+          <Link to="/vocabulary/PRESently-1">&nbsp;1&nbsp;</Link>
         </sup>
         <sup>
-          <Link to="/vocabulary/presently-2">&nbsp;2&nbsp;</Link>
+          <Link to="/vocabulary/PRESently-2">&nbsp;2&nbsp;</Link>
         </sup>
       </h1>
 
       {/* This is the content of Vocabulary Term. */}
 
-      <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>presently</strong>" (hiện tại) và các cụm từ hay đi kèm nhé.</p>
+      <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>PRESently</strong>" (hiện tại) và các cụm từ hay đi kèm nhé.</p>
 
       <div className="text-border1 padding-10 highlight-238-padding-4-8 bee-container">
 
@@ -36,15 +36,9 @@ export default function Presently2(): React.JSX.Element {
 
           <p className="margin-y-10">
             
-            <strong>Presently&nbsp;</strong>
-            
             <span className="highlight-255-padding-3-6">
               
-              [PRESently][PRES ent ly] /ˈprezəntli/ + /
-              
-              <Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">prese̛ntly</Link>/ 
-              
-              &nbsp;⬤•• (3x)
+              [PRESently][<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">PRES e̛nt ly</Link>] /ˈprezəntli/ ⬤•• (3x)
               
             </span>
               
@@ -62,44 +56,34 @@ export default function Presently2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1">Presently <strong>engaged</strong> /ɛnˈɡeɪdʒd/</li>
-        <li className="list-none">The manager is ______ in a meeting.</li>
+        <li value="1">the MANager is PRESently enGAGED in a MEETing.</li>
         <li className="list-none margin-bottom-20">Quản lý đang bận họp.</li>
 
-        <li value="2">Presently <strong>working</strong> /ˈwɜːkɪŋ/</li>
-        <li className="list-none">The engineers are ______ on a new project.</li>
+        <li value="2">engiNEERS are PRESently WORKing on a NEW PROJect.</li>
         <li className="list-none margin-bottom-20">Các kỹ sư đang làm việc trên một dự án mới.</li>
 
-        <li value="3">Presently <strong>available</strong> /əˈveɪləbl/</li>
-        <li className="list-none">The product is ______ in all our stores.</li>
+        <li value="3">the PRODuct is PRESently aVAILable in all our STORES.</li>
         <li className="list-none margin-bottom-20">Sản phẩm hiện đang có sẵn tại tất cả các cửa hàng của chúng tôi.</li>
 
-        <li value="4">Presently <strong>under construction</strong> /ˈʌndər kənˈstrʌkʃn/</li>
-        <li className="list-none">The new bridge is ______.</li>
+        <li value="4">the NEW BRIDGE is PRESently under conSTRUCtion.</li>
         <li className="list-none margin-bottom-20">Cây cầu mới đang được xây dựng.</li>
 
-        <li value="5">Presently <strong>living</strong> /ˈlɪvɪŋ/</li>
-        <li className="list-none">She is ______ in London.</li>
+        <li value="5">he is PRESently LIVing in LONdon.</li>
         <li className="list-none margin-bottom-20">Cô ấy hiện đang sống ở London.</li>
 
-        <li value="6">Presently <strong>considering</strong> /kənˈsɪdərɪŋ/</li>
-        <li className="list-none">We are ______ different options.</li>
+        <li value="6">we are PRESently conSIDering DIFFERent OPtions.</li>
         <li className="list-none margin-bottom-20">Chúng tôi đang cân nhắc các lựa chọn khác nhau.</li>
 
-        <li value="7">Presently <strong>studying</strong> /ˈstʌdiɪŋ/</li>
-        <li className="list-none">He is ______ for his exams.</li>
+        <li value="7">he is PRESently STUDying for his EXams.</li>
         <li className="list-none margin-bottom-20">Anh ấy đang ôn thi.</li>
 
-        <li value="8">Presently <strong>serving</strong> /ˈsɜːvɪŋ/</li>
-        <li className="list-none">The waiter is ______ the customers.</li>
+        <li value="8">the WEIter is PRESently SERving the CUStomers.</li>
         <li className="list-none margin-bottom-20">Người phục vụ đang phục vụ khách hàng.</li>
 
-        <li value="9">Presently <strong>attending</strong> /əˈtɛndɪŋ/</li>
-        <li className="list-none">She is ______ a conference in Paris.</li>
+        <li value="9">she is PRESently atTENDing a CONFERence in PAris.</li>
         <li className="list-none margin-bottom-20">Cô ấy hiện đang tham dự một hội nghị ở Paris.</li>
 
-        <li value="10">Presently <strong>experiencing</strong> /ɪkˈspɪəriənsɪŋ/</li>
-        <li className="list-none">The city is ______ a heat wave.</li>
+        <li value="10">the CITy is PRESently exPEriencing a HEAT WAVE.</li>
         <li className="list-none margin-bottom-20">Thành phố hiện đang trải qua một đợt nắng nóng.</li>
 
       </ol>
@@ -116,9 +100,9 @@ export default function Presently2(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>"<strong>Presently</strong>" thường đứng trước hành động để bổ nghĩa.</li>
+          <li>"<strong>PRESently</strong>" thường đứng trước hành động để bổ nghĩa.</li>
 
-          <li className="margin-bottom-20">Từ này có thể được thay thế bằng các từ đồng nghĩa như "<Link to="/vocabulary/currently-1">currently</Link>", "<Link to="/vocabulary/now-1">now</Link>", "at the moment" để tạo sự đa dạng trong văn phong.</li>
+          <li className="margin-bottom-20">Từ này có thể được thay thế bằng các từ đồng nghĩa như "<Link to="/vocabulary/currently-1">CURrently</Link>", "<Link to="/vocabulary/now-1">NOW</Link>", "at the MOment" để tạo sự đa dạng trong văn phong.</li>
 
         </ul>
 
