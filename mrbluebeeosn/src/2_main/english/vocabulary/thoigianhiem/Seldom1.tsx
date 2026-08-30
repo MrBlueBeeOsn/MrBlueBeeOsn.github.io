@@ -96,7 +96,7 @@ export default function SELdom1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>i <Link to="/vocabulary/rarely-1">RAREly</Link> EAT MEAT.</li>
+          <li>i <Link to="/vocabulary/RAREly-1">RAREly</Link> EAT MEAT.</li>
           <li className="margin-bottom-20 list-none">Tôi hiếm khi ăn thịt.</li>
 
           <li>she inFREquently VISits her PARents.</li>
@@ -192,7 +192,7 @@ export default function SELdom1(): React.JSX.Element {
 
           <ol>
 
-            <li value="1">i <Link to="/vocabulary/rarely-1">RAREly</Link> EAT SPIcy FOOD.</li>
+            <li value="1">i <Link to="/vocabulary/RAREly-1">RAREly</Link> EAT SPIcy FOOD.</li>
             <li className="list-none">Tôi hiếm khi ăn đồ ăn cay.</li>
             <li className="list-none margin-bottom-20">Có thể có một vài lần xảy ra, nhưng không thường xuyên.</li>
 

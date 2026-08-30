@@ -122,7 +122,7 @@ export default function Usually1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>i <Link to="/vocabulary/rarely-1">RAREly</Link> EAT SPIcy FOOD.</li>
+          <li>i <Link to="/vocabulary/RAREly-1">RAREly</Link> EAT SPIcy FOOD.</li>
           <li className="margin-bottom-20 list-none">Tôi hiếm khi ăn đồ ăn cay.</li>
 
           <li>i <Link to="/vocabulary/never-1">NEVer</Link> DRINK COFfee.</li>

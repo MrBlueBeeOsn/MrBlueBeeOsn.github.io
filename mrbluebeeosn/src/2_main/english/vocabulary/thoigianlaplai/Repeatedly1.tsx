@@ -128,7 +128,7 @@ export default function rePEATedly1(): React.JSX.Element {
           <li>i've Only DONE it ONCE.</li>
           <li className="margin-bottom-20 list-none">Tôi chỉ làm điều đó một lần.</li>
 
-          <li>he <Link to="/vocabulary/rarely-1">RAREly</Link> VISits us.</li>
+          <li>he <Link to="/vocabulary/RAREly-1">RAREly</Link> VISits us.</li>
           <li className="list-none">Anh ấy hiếm khi đến thăm chúng tôi.</li>
 
         </ul>

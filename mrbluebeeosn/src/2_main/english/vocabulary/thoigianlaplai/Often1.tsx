@@ -118,7 +118,7 @@ export default function OFten1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>i <Link to="/vocabulary/rarely-1">RAREly</Link> EAT FAST FOOD.</li>
+          <li>i <Link to="/vocabulary/RAREly-1">RAREly</Link> EAT FAST FOOD.</li>
           <li className="margin-bottom-20 list-none">Tôi hiếm khi ăn đồ ăn nhanh.</li>
 
           <li>she <Link to="/vocabulary/never-1">NEVer</Link> LIES.</li>
