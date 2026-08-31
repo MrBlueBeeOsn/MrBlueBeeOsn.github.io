@@ -191,7 +191,7 @@ export default function SO1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>she was SO TIRED that she FELL aSLEEP imMEdiately.</li>
+          <li>she was SO TIred that she FELL aSLEEP imMEdiately.</li>
           <li className="margin-bottom-20 list-none">Cô ấy mệt đến nỗi cô ấy ngủ thiếp đi ngay lập tức.</li>
 
           <li>are you COMing to the PARty? "i THINK SO."</li>

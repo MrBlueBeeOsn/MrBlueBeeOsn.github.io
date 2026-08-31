@@ -59,7 +59,7 @@ export default function VERy2(): React.JSX.Element {
         <li value="1">i VERy HAPpy to SEE you.</li>
         <li className="list-none margin-bottom-20">Tôi rất vui khi gặp bạn.</li>
 
-        <li value="2">i VERy TIRED after WORK.</li>
+        <li value="2">i VERy TIred after WORK.</li>
         <li className="list-none margin-bottom-20">Tôi rất mệt sau khi làm việc.</li>
 
         <li value="3">i VERy HUNgry. can we EAT NOW?</li>

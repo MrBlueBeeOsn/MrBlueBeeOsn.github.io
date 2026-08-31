@@ -105,7 +105,7 @@ export default function Possibly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li><Link to="/vocabulary/perhaps-1">Perhaps</Link> /pəˈhæps/</li>
+          <li><Link to="/vocabulary/perHAPS-1">Perhaps</Link> /pəˈhæps/</li>
           <li className="list-none">______ she is busy.</li>
           <li className="margin-bottom-20 list-none">Có lẽ cô ấy đang bận.</li>
 

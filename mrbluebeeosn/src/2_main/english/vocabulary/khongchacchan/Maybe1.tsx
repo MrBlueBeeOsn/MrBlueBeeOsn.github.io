@@ -99,7 +99,7 @@ export default function Maybe1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li><Link to="/vocabulary/perhaps-1">Perhaps</Link> (adv) /pərˈhæps/</li>
+          <li><Link to="/vocabulary/perHAPS-1">Perhaps</Link> (adv) /pərˈhæps/</li>
           <li className="list-none">______ we can meet later.</li>
           <li className="margin-bottom-20 list-none">Có lẽ chúng ta có thể gặp nhau sau.</li>
 
@@ -196,7 +196,7 @@ export default function Maybe1(): React.JSX.Element {
 
           <ol>
 
-            <li><Link to="/vocabulary/perhaps-1">Perhaps</Link>: </li>
+            <li><Link to="/vocabulary/perHAPS-1">Perhaps</Link>: </li>
             <li value="1">Perhaps you could help me with this problem.</li>
             <li className="list-none">Có lẽ anh/chị có thể giúp tôi giải quyết vấn đề này.</li>
             <li className="list-none margin-bottom-20">Cách nói lịch sự hơn, thường dùng trong văn viết hoặc các tình huống trang trọng.</li>

@@ -65,7 +65,7 @@ export default function HAPpily2(): React.JSX.Element {
         <li value="3">she was HAPpily surPRISED to SEE him.</li>
         <li className="list-none margin-bottom-20">Cô ấy rất vui mừng khi gặp anh ấy.</li>
 
-        <li value="4">my GRANDfather is HAPpily reTIRED and enJOYS GARdening.</li>
+        <li value="4">my GRANDfather is HAPpily reTIred and enJOYS GARdening.</li>
         <li className="list-none margin-bottom-20">Ông nội tôi đã vui vẻ nghỉ hưu và thích làm vườn.</li>
 
         <li value="5">the COUPle is HAPpily enGAGED and PLANning their WEDding.</li>

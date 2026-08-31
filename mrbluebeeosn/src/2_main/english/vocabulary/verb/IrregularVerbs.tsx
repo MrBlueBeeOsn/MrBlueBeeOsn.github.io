@@ -397,7 +397,7 @@ export default function IrregularVerbs(): React.JSX.Element {
 					<li className="list-none">Anh ấy <strong>cảm thấy</strong> thư thái sau khi uống một tách cà phê nóng <strong>vào mỗi buổi tối</strong>.</li>
 					<li className="margin-bottom-20 list-none">Dùng thời hiện tại đơn với dạng FEELS (cho chủ thể ngôi thứ ba số ít he) để chỉ thói quen hoặc sự việc diễn ra theo quy luật.</li>
 			
-					<li>she <strong>FELT</strong> TIRED after CARrying her CAMERa BAG <strong>YESterday</strong>.</li>
+					<li>she <strong>FELT</strong> TIred after CARrying her CAMERa BAG <strong>YESterday</strong>.</li>
 					<li className="list-none">Cô ấy <strong>đã cảm thấy</strong> mệt mỏi sau khi đeo chiếc túi đựng máy ảnh <strong>vào ngày hôm qua</strong>.</li>
 					<li className="margin-bottom-20 list-none">Dùng thời quá khứ đơn với dạng FELT để chỉ việc đã xảy ra và kết thúc trong quá khứ.</li>
 			

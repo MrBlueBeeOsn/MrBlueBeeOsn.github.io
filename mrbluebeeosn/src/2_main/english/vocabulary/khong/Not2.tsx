@@ -77,7 +77,7 @@ export default function NOT2(): React.JSX.Element {
         <li value="7">she is NOT as TALL as her BROTHer.</li>
         <li className="list-none margin-bottom-20">Cô ấy không cao bằng anh trai mình.</li>
 
-        <li value="8">i am NOT a BIT TIRED.</li>
+        <li value="8">i am NOT a BIT TIred.</li>
         <li className="list-none margin-bottom-20">Tôi không mệt mỏi chút nào.</li>
 
         <li value="9">this TASK is NOT NEARly as DIFficult as i THOUGHT.</li>

@@ -263,10 +263,10 @@ export default function VocabularyIndex(): React.JSX.Element {
 						</li>
 
 						<li>
-							<Link to="/vocabulary/perhaps-1">perhaps
+							<Link to="/vocabulary/perHAPS-1">perHAPS
 								<sup>&nbsp;1&nbsp;</sup>
 									</Link> 
-									<Link to="/vocabulary/perhaps-2">
+									<Link to="/vocabulary/perHAPS-2">
 								<sup>&nbsp;2&nbsp;</sup>
 							</Link>
 						</li>

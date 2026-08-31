@@ -188,10 +188,10 @@ export default function OBviously1(): React.JSX.Element {
 
           <ol>
 
-            <li>he is TIRED.</li>
+            <li>he is TIred.</li>
             <li className="list-none margin-bottom-20">Anh ấy mệt.</li>
 
-            <li value="2">OBviously, he is TIRED. he has been WORKing ALL NIGHT.</li>
+            <li value="2">OBviously, he is TIred. he has been WORKing ALL NIGHT.</li>
             <li className="list-none margin-bottom-20">Rõ ràng, anh ấy mệt. Anh ấy đã làm việc cả đêm.</li>
 
           </ol>

@@ -118,7 +118,7 @@ export default function Probably2(): React.JSX.Element {
 
           <li>"<strong>Probably</strong>" thường đứng ở đầu câu hoặc trước hành động để bổ nghĩa.</li>
 
-          <li className="margin-bottom-20">Từ này có thể được thay thế bằng các từ đồng nghĩa như "likely", "<Link to="/vocabulary/possibly-1">possibly</Link>", "<Link to="/vocabulary/perhaps-1">perhaps</Link>" để tạo sự đa dạng trong văn phong.</li>
+          <li className="margin-bottom-20">Từ này có thể được thay thế bằng các từ đồng nghĩa như "likely", "<Link to="/vocabulary/possibly-1">possibly</Link>", "<Link to="/vocabulary/perHAPS-1">perhaps</Link>" để tạo sự đa dạng trong văn phong.</li>
 
         </ul>
 

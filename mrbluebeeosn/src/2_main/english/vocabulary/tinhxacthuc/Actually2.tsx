@@ -56,7 +56,7 @@ export default function ACtually2(): React.JSX.Element {
 
 			<ol className="margin-top-30 padding-left-30">
 
-				<li value="1">i THOUGHT he was ANgry, but ACtually, i THINK he was JUST TIred.</li>
+				<li value="1">i THOUGHT he was ANGry, but ACtually, i THINK he was JUST TIred.</li>
 				<li className="list-none margin-bottom-20">Tôi tưởng anh ấy tức giận, nhưng thực ra, tôi nghĩ anh ấy chỉ mệt mỏi thôi.</li>
 
 				<li value="2">i THOUGHT it was a CAT, but ACtually, it's a racCOON.</li>
