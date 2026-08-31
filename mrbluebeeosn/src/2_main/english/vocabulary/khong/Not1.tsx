@@ -124,7 +124,7 @@ export default function NOT1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li><Link to="/vocabulary/yes-1">YES</Link>, i can SPEAK ENGlish.</li>
+          <li><Link to="/vocabulary/YES-1">YES</Link>, i can SPEAK ENGlish.</li>
           <li className="margin-bottom-20 list-none">Có, tôi có thể nói tiếng Anh.</li>
 
           <li>she <Link to="/vocabulary/always-1">ALways</Link> COMES to CLASS on TIME.</li>

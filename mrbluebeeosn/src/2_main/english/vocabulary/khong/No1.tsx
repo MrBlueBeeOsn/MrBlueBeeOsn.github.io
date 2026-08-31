@@ -118,7 +118,7 @@ export default function NO1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>are you HUNgry? - <Link to="/vocabulary/yes-1">YES</Link>, i am.</li>
+          <li>are you HUNgry? - <Link to="/vocabulary/YES-1">YES</Link>, i am.</li>
           <li className="margin-bottom-20 list-none">Bạn có đói không? - Có, tôi đói.</li>
 
           <li>can i HELP you? - <Link to="/vocabulary/CERtainly-1">CERtainly</Link>.</li>

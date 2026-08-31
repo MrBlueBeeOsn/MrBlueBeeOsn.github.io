@@ -363,10 +363,10 @@ export default function VocabularyIndex(): React.JSX.Element {
 					<ul className="list-border1">
 
 						<li>
-							<Link to="/vocabulary/yes-1">yes
+							<Link to="/vocabulary/YES-1">YES
 								<sup>&nbsp;1&nbsp;</sup>
 									</Link> 
-									<Link to="/vocabulary/yes-2">
+									<Link to="/vocabulary/YES-2">
 								<sup>&nbsp;2&nbsp;</sup>
 							</Link>
 						</li>
