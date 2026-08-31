@@ -100,7 +100,7 @@ export default function parTICularly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>i <Link to="/vocabulary/especially-1">esPECially</Link> LIKE the COLor BLUE.</li>
+          <li>i <Link to="/vocabulary/esPECially-1">esPECially</Link> LIKE the COLor BLUE.</li>
           <li className="margin-bottom-20 list-none">Tôi đặc biệt thích màu xanh dương.</li>
 
           <li>i'm LOOKing for a JOB speCIFically in MARketing.</li>

@@ -5,9 +5,9 @@ import EyeIcon from '@/components/view/EyeIcon';
 import ViewCounter from '@/components/view/ViewCounter';
 import LikeButton from '@/components/like/LikeButton';
 
-export default function Especially2(): React.JSX.Element {
+export default function esPECially2(): React.JSX.Element {
 
-  const postId = "Especially2";
+  const postId = "esPECially2";
 
   return (<>
 
@@ -17,18 +17,18 @@ export default function Especially2(): React.JSX.Element {
     
       <h4><HashLink smooth to="/vocabulary#diem-nhan-dac-biet-terms"><mark className="highlight-tertiary-padding-4-8">ADverbs: đặc biệt</mark></HashLink></h4>
       
-      <h1 className="margin-y-50 text-center">especially
+      <h1 className="margin-y-50 text-center">esPECially
         <sup>
-          <Link to="/vocabulary/especially-1">&nbsp;1&nbsp;</Link>
+          <Link to="/vocabulary/esPECially-1">&nbsp;1&nbsp;</Link>
         </sup>
         <sup>
-          <Link to="/vocabulary/especially-2">&nbsp;2&nbsp;</Link>
+          <Link to="/vocabulary/esPECially-2">&nbsp;2&nbsp;</Link>
         </sup>
       </h1>
 
       {/* This is the content of Vocabulary Term. */}
 
-      <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>especially</strong>" (đặc biệt là) và các cụm từ hay đi kèm nhé.</p>
+      <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>esPECially</strong>" (đặc biệt là) và các cụm từ hay đi kèm nhé.</p>
 
       <div className="text-border1 padding-10 highlight-238-padding-4-8 bee-container">
 
@@ -36,15 +36,9 @@ export default function Especially2(): React.JSX.Element {
 
           <p className="margin-y-10">
             
-            <strong>Especially&nbsp;</strong>
-            
             <span className="highlight-255-padding-3-6">
               
-              [esPECIALly][es PECIAL ly] /ɪˈspɛʃəli/ + /
-              
-              <Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">ėspecia̛lly</Link>/ 
-              
-              &nbsp;•⬤• (3x)
+              [esPECIALly][<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">ės PEC ia̛l ly</Link>] /ɪˈspɛʃəli/ •⬤• (3x)
               
             </span>
               
@@ -62,44 +56,34 @@ export default function Especially2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1">Especially <strong>interested in</strong> /ˈɪntrəstɪd ɪn/</li>
-        <li className="list-none">I am ______ learning about different cultures.</li>
+        <li value="1">i am esPECially INTERested in LEARNing about DIFferent CULtures.</li>
         <li className="list-none margin-bottom-20">Tôi đặc biệt quan tâm đến việc tìm hiểu về các nền văn hóa khác nhau.</li>
 
-        <li value="2">Especially <strong>good at</strong> /ɡʊd æt/</li>
-        <li className="list-none">She is ______ playing the piano.</li>
+        <li value="2">she is esPECially GOOD at PLAYing the piANo.</li>
         <li className="list-none margin-bottom-20">Cô ấy đặc biệt giỏi chơi piano.</li>
 
-        <li value="3">Especially <strong>important</strong> /ɪmˈpɔːrtənt/</li>
-        <li className="list-none">Sleep is ______ for growing children.</li>
+        <li value="3">the SLEEP is esPECially imPORTant for GROWing CHILdren.</li>
         <li className="list-none margin-bottom-20">Giấc ngủ đặc biệt quan trọng đối với trẻ em đang lớn.</li>
 
-        <li value="4">Especially <strong>difficult</strong> /ˈdɪfɪkəlt/</li>
-        <li className="list-none">The final exam was ______.</li>
+        <li value="4">the FInal exAM was esPECially DIFficult.</li>
         <li className="list-none margin-bottom-20">Bài thi cuối kỳ đặc biệt khó.</li>
 
-        <li value="5">Especially <strong>true of</strong> /truː ʌv/</li>
-        <li className="list-none">This is ______ people who live in big cities.</li>
+        <li value="5">this is esPECially TRUE of PEOple who LIVE in BIG CITies.</li>
         <li className="list-none margin-bottom-20">Điều này đặc biệt đúng với những người sống ở các thành phố lớn.</li>
 
-        <li value="6">Especially <strong>when</strong> /wɛn/</li>
-        <li className="list-none">I enjoy walking in the park, ______ the weather is nice.</li>
+        <li value="6">i enJOY WALKing in the PARK, esPECially when the WEATHer is NICE.</li>
         <li className="list-none margin-bottom-20">Tôi thích đi dạo trong công viên, đặc biệt là khi trời đẹp.</li>
 
-        <li value="7">Especially <strong>like</strong> /laɪk/</li>
-        <li className="list-none">I ______ chocolate ice cream.</li>
+        <li value="7">i esPECially LIKE CHOCOLate ICE CREAM.</li>
         <li className="list-none margin-bottom-20">Tôi đặc biệt thích kem sô cô la.</li>
 
-        <li value="8">Especially <strong>since</strong> /sɪns/</li>
-        <li className="list-none">I've been feeling tired lately, ______ I've been working so hard.</li>
+        <li value="8">i've been FEELing TIred LATEly, esPECially since i've been WORKing so HARD.</li>
         <li className="list-none margin-bottom-20">Gần đây tôi cảm thấy mệt mỏi, đặc biệt là từ khi tôi làm việc quá nhiều.</li>
 
-        <li value="9">Especially <strong>for</strong> /fɔːr/</li>
-        <li className="list-none">This book is ______ beginners.</li>
+        <li value="9">this BOOK is esPECially for beGINners.</li>
         <li className="list-none margin-bottom-20">Cuốn sách này đặc biệt dành cho người mới bắt đầu.</li>
 
-        <li value="10">Especially <strong>considering</strong> /kənˈsɪdərɪŋ/</li>
-        <li className="list-none">It's a good deal, ______ the quality.</li>
+        <li value="10">it's a GOOD DEAL, esPECially conSIDering the QUALity.</li>
         <li className="list-none margin-bottom-20">Đó là một giao dịch tốt, đặc biệt khi xét đến chất lượng.</li>
 
       </ol>
@@ -116,7 +100,7 @@ export default function Especially2(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>"<strong>Especially</strong>" thường được đặt trước danh cơ, Tính Cơ hoặc câu con.</li>
+          <li>"<strong>esPECially</strong>" thường được đặt trước danh cơ, Tính Cơ hoặc câu con.</li>
 
           <li className="margin-bottom-20">Từ này thường được sử dụng trong văn nói và văn viết để làm cho câu nói thêm phần nhấn mạnh.</li>
 
