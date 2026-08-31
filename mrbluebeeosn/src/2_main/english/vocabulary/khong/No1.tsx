@@ -99,7 +99,7 @@ export default function NO1(): React.JSX.Element {
           <li>i am <Link to="/vocabulary/NOT-1">NOT</Link> GOing.</li>
           <li className="margin-bottom-20 list-none">Tôi không đi.</li>
 
-          <li>i will <Link to="/vocabulary/never-1">NEVer</Link> forGET you.</li>
+          <li>i will <Link to="/vocabulary/NEVer-1">NEVer</Link> forGET you.</li>
           <li className="list-none">Tôi sẽ không bao giờ quên bạn.</li>
 
         </ul>

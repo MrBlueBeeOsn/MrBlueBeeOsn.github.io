@@ -5,9 +5,9 @@ import EyeIcon from '@/components/view/EyeIcon';
 import ViewCounter from '@/components/view/ViewCounter';
 import LikeButton from '@/components/like/LikeButton';
 
-export default function Never1(): React.JSX.Element {
+export default function NEVer1(): React.JSX.Element {
 
-  const postId = "Never1";
+  const postId = "NEVer1";
 
   return (<>
 
@@ -17,29 +17,26 @@ export default function Never1(): React.JSX.Element {
     
       <h4><HashLink smooth to="/vocabulary#khong-terms"><mark className="highlight-tertiary-padding-4-8">ADverbs: không</mark></HashLink></h4>
       
-      <h1 className="margin-y-50 text-center">never
-        <sup><Link to="/vocabulary/never-1">&nbsp;1&nbsp;</Link>
+      <h1 className="margin-y-50 text-center">NEVer
+        <sup><Link to="/vocabulary/NEVer-1">&nbsp;1&nbsp;</Link>
         </sup>
-        <sup><Link to="/vocabulary/never-2">&nbsp;2&nbsp;</Link>
+        <sup><Link to="/vocabulary/NEVer-2">&nbsp;2&nbsp;</Link>
         </sup>
       </h1>
 
       {/* This is the content of Vocabulary Term. */}
       
-      <p>Tuyệt vời! Chúng ta cùng đi sâu vào phân tích từ "<strong>never</strong>" nhé.</p>
+      <p>Tuyệt vời! Chúng ta cùng đi sâu vào phân tích từ "<strong>NEVer</strong>" nhé.</p>
 
       <div className="text-border1 padding-top-20 padding-bottom-10 highlight-238-padding-4-8 bee-container">
 
         <div>
 
-          <p className="margin-bottom-20"><strong>Never</strong></p>
-
           <ul className="list-square padding-left-40">
 
             <li>
               <span className="highlight-255-padding-3-6">
-                [NEver][NEv er] /ˈnevər/ + /<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">neve̛r</Link>/
-                &nbsp;⬤• (2x)
+                [NEver][<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">NEV e̛r</Link>] /ˈnevər/ ⬤• (2x)
               </span>
             </li>
 
@@ -63,10 +60,10 @@ export default function Never1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>I have ______ been to Paris.</li>
+          <li>i have NEVer BEEN to PARis.</li>
           <li className="margin-bottom-20 list-none">Tôi chưa bao giờ đến Paris.</li>
 
-          <li>She will ______ forget that day.</li>
+          <li>she will NEVer forGET that DAY.</li>
           <li className="list-none">Cô ấy sẽ không bao giờ quên ngày hôm đó.</li>
 
         </ul>
@@ -83,7 +80,7 @@ export default function Never1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li className="list-none">Không có gia đình từ trực tiếp cho "<strong>never</strong>".</li>
+          <li className="list-none">Không có gia đình từ trực tiếp cho "<strong>NEVer</strong>".</li>
 
         </ul>
 
@@ -99,12 +96,10 @@ export default function Never1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li><Link to="/vocabulary/NOT-1">Not</Link> ever /nɒt ˈevər/</li>
-          <li className="list-none">I have ______ seen such a beautiful sunset.</li>
+          <li>i have <Link to="/vocabulary/NOT-1">NOT</Link> EVer SEEN such a BEAUtiful SUNset.</li>
           <li className="margin-bottom-20 list-none">Tôi chưa bao giờ thấy một cảnh hoàng hôn đẹp như vậy.</li>
 
-          <li>At no time /æt noʊ taɪm/</li>
-          <li className="list-none">______ did i suspect him of cheating.</li>
+          <li>at NO TIME did i susPECT him of CHEATing.</li>
           <li className="list-none">Tôi không hề nghi ngờ anh ta gian lận.</li>
 
         </ul>
@@ -123,12 +118,10 @@ export default function Never1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li><Link to="/vocabulary/always-1">Always</Link> /ˈɔːl.weɪz/</li>
-          <li className="list-none">She is ______ on time.</li>
+          <li>she <Link to="/vocabulary/always-1">ALways</Link> COMES on TIME.</li>
           <li className="margin-bottom-20 list-none">Cô ấy luôn đúng giờ.</li>
 
-          <li><Link to="/vocabulary/ever-1">Ever</Link> /ˈev.ər/</li>
-          <li className="list-none">Have you ______ been to Japan?</li>
+          <li>have you <Link to="/vocabulary/ever-1">EVer</Link> BEEN to jaPAN?</li>
           <li className="list-none">Bạn đã từng đến Nhật Bản chưa?</li>
 
         </ul>
@@ -150,11 +143,11 @@ export default function Never1(): React.JSX.Element {
         <strong>&nbsp;với hình ảnh</strong>:
       </p>
 
-      <p className="text-indent-whole">Hãy tưởng tượng một chiếc bảng với dòng chữ "<strong>Never</strong> give up" (Không bao giờ bỏ cuộc), bạn có thể liên tưởng đến việc kiên trì theo đuổi mục tiêu.</p>
+      <p className="text-indent-whole">Hãy tưởng tượng một chiếc bảng với dòng chữ "<strong>NEVer</strong> GIVE UP" (Không bao giờ bỏ cuộc), bạn có thể liên tưởng đến việc kiên trì theo đuổi mục tiêu.</p>
 
         <ul className="list-square">
 
-          <li>Every time I feel like giving up, I think of the "______ give up" sign and keep going.</li>
+          <li>EVery TIME i FEEL like GIVing UP, i THINK of the "NEVer GIVE UP" SIGN and KEEP GOing.</li>
           <li className="list-none">Mỗi khi muốn bỏ cuộc, tôi nghĩ đến dòng chữ "Không bao giờ bỏ cuộc" và tiếp tục cố gắng.</li>
 
         </ul>
@@ -170,11 +163,11 @@ export default function Never1(): React.JSX.Element {
         <strong>&nbsp;ví dụ</strong>:
       </p>
 
-      <p className="text-indent-whole">Thử tạo càng nhiều câu ví dụ càng tốt với "<strong>never</strong>".</p>
+      <p className="text-indent-whole">Thử tạo càng nhiều câu ví dụ càng tốt với "<strong>NEVer</strong>".</p>
 
         <ul className="list-square">
 
-          <li>They have ______ seen snow.</li>
+          <li>they have NEVer SEEN SNOW.</li>
           <li className="list-none">Họ chưa bao giờ thấy tuyết.</li>
 
         </ul>
@@ -190,16 +183,16 @@ export default function Never1(): React.JSX.Element {
         <strong>&nbsp;thường xuyên</strong>:
       </p>
 
-      <p className="text-indent-whole margin-bottom-20">Đọc và viết nhiều để củng cố vốn từ vựng và cách sử dụng của "<strong>never</strong>".</p>
+      <p className="text-indent-whole margin-bottom-20">Đọc và viết nhiều để củng cố vốn từ vựng và cách sử dụng của "<strong>NEVer</strong>".</p>
 
-        <p className="text-indent-whole">Ví dụ để so sánh (sự khác biệt giữa not ever và <strong>never</strong>):</p>
+        <p className="text-indent-whole">Ví dụ để so sánh (sự khác biệt giữa NOT EVer và <strong>NEVer</strong>):</p>
 
           <ol>
 
-            <li>I have ______ seen such a beautiful sunset.</li>
+            <li value="1">i have <Link to="/vocabulary/NOT-1">NOT</Link> EVer SEEN such a BEAUtiful SUNset.</li>
             <li className="list-none margin-bottom-20">Tôi chưa bao giờ thấy một cảnh hoàng hôn đẹp như vậy.</li>
 
-            <li value="2">I have ______ been to Paris.</li>
+            <li value="2">i have NEVer BEEN to PARis.</li>
             <li className="list-none margin-bottom-20">Tôi chưa bao giờ đến Paris.</li>
     
 
@@ -207,7 +200,7 @@ export default function Never1(): React.JSX.Element {
 
       <div className="margin-bottom-20 padding-top-20 text-border1 padding-10 highlight-238-padding-4-8 bee-container">
 
-        <p className="margin-y-10">Sự khác biệt: Cả hai từ đều có nghĩa là "không bao giờ" nhưng "not ever" thường được coi là cách nói nhấn mạnh hơn.</p>
+        <p className="margin-y-10">Sự khác biệt: Cả hai từ đều có nghĩa là "không bao giờ" nhưng "NOT EVer" thường được coi là cách nói nhấn mạnh hơn.</p>
 
       </div>
 
@@ -223,9 +216,9 @@ export default function Never1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>"<strong>Never</strong>" thường được đặt ở đầu câu hoặc trước hành động chính.</li>
+          <li>"<strong>NEVer</strong>" thường được đặt ở đầu câu hoặc trước hành động chính.</li>
 
-          <li className="margin-bottom-20">"<strong>Never</strong>" thường được dùng để nhấn mạnh sự phủ định hoàn toàn.</li>
+          <li className="margin-bottom-20">"<strong>NEVer</strong>" thường được dùng để nhấn mạnh sự phủ định hoàn toàn.</li>
 
         </ul>
 

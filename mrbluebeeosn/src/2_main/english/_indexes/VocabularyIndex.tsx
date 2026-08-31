@@ -340,10 +340,10 @@ export default function VocabularyIndex(): React.JSX.Element {
 						</li>
 
 						<li>
-							<Link to="/vocabulary/never-1">never
+							<Link to="/vocabulary/NEVer-1">NEVer
 								<sup>&nbsp;1&nbsp;</sup>
 									</Link> 
-									<Link to="/vocabulary/never-2">
+									<Link to="/vocabulary/NEVer-2">
 								<sup>&nbsp;2&nbsp;</sup>
 							</Link>
 						</li>

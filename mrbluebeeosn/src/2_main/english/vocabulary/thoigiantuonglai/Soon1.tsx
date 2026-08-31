@@ -125,7 +125,7 @@ export default function SOON1(): React.JSX.Element {
 					<li>let's MEET LAter.</li>
 					<li className="margin-bottom-20 list-none">Chúng ta gặp nhau sau nhé.</li>
 
-					<li>i will <Link to="/vocabulary/never-1">NEVer</Link> forGET you.</li>
+					<li>i will <Link to="/vocabulary/NEVer-1">NEVer</Link> forGET you.</li>
 					<li className="list-none">Tôi sẽ không bao giờ quên bạn.</li>
 
 				</ul>

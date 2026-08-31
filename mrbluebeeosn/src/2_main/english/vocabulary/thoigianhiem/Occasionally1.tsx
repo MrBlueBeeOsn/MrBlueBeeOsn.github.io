@@ -122,7 +122,7 @@ export default function ocCAsionally1(): React.JSX.Element {
           <li>she is <Link to="/vocabulary/always-1">ALways</Link> on TIME.</li>
           <li className="margin-bottom-20 list-none">Cô ấy luôn đúng giờ.</li>
 
-          <li>i <Link to="/vocabulary/never-1">NEVer</Link> EAT FAST FOOD.</li>
+          <li>i <Link to="/vocabulary/NEVer-1">NEVer</Link> EAT FAST FOOD.</li>
           <li className="list-none">Tôi không bao giờ ăn đồ ăn nhanh.</li>
 
         </ul>

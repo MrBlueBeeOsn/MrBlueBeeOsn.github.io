@@ -105,7 +105,7 @@ export default function NOT1(): React.JSX.Element {
           <li><Link to="/vocabulary/NO-1">NO</Link>, i don't WANT to GO.</li>
           <li className="margin-bottom-20 list-none">Không, tôi không muốn đi.</li>
 
-          <li>i will <Link to="/vocabulary/never-1">NEVer</Link> forGET you.</li>
+          <li>i will <Link to="/vocabulary/NEVer-1">NEVer</Link> forGET you.</li>
           <li className="list-none">Tôi sẽ không bao giờ quên bạn.</li>
 
         </ul>

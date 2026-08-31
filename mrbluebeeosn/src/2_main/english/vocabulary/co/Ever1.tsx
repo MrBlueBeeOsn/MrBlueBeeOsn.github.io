@@ -125,7 +125,7 @@ export default function Ever1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li><Link to="/vocabulary/never-1">Never</Link> /ˈnev.ər/</li>
+          <li><Link to="/vocabulary/NEVer-1">Never</Link> /ˈnev.ər/</li>
           <li className="list-none">I have ______ been to Paris.</li>
           <li className="margin-bottom-20 list-none">Tôi chưa bao giờ đến Paris.</li>
 
@@ -198,7 +198,7 @@ export default function Ever1(): React.JSX.Element {
 
           <ol>
 
-            <li><Link to="/vocabulary/never-1">Never</Link>: </li>
+            <li><Link to="/vocabulary/NEVer-1">Never</Link>: </li>
             <li value="1">I have never been to the beach.</li>
             <li className="list-none">Tôi chưa bao giờ đi biển.</li>
             <li className="list-none margin-bottom-20">Dùng để phủ định hoàn toàn một trải nghiệm.</li>

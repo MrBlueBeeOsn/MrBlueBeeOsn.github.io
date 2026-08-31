@@ -121,7 +121,7 @@ export default function SOMEtimes1(): React.JSX.Element {
           <li>she <Link to="/vocabulary/always-1">ALways</Link> COMES to CLASS on TIME.</li>
           <li className="margin-bottom-20 list-none">Cô ấy luôn đến lớp đúng giờ.</li>
 
-          <li>I have <Link to="/vocabulary/never-1">NEVer</Link> BEEN to PARis.</li>
+          <li>I have <Link to="/vocabulary/NEVer-1">NEVer</Link> BEEN to PARis.</li>
           <li className="list-none">Tôi chưa bao giờ đến Paris.</li>
 
         </ul>
