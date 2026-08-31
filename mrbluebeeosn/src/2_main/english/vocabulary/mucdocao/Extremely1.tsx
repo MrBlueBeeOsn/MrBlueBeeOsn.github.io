@@ -109,7 +109,7 @@ export default function Extremely1(): React.JSX.Element {
           <li className="list-none">It's ______ hot today.</li>
           <li className="margin-bottom-20 list-none">Hôm nay rất nóng.</li>
 
-          <li><Link to="/vocabulary/highly-1">Highly</Link> /ˈhaɪli/</li>
+          <li><Link to="/vocabulary/HIGHly-1">Highly</Link> /ˈhaɪli/</li>
           <li className="list-none">She is ______ regarded in her field.</li>
           <li className="list-none">Cô ấy được đánh giá rất cao trong lĩnh vực của mình.</li>
 

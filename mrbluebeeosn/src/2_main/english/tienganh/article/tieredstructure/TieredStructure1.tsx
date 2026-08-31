@@ -744,7 +744,7 @@ export default function TieredStructure1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>the FILES [on the DESK] are imPORtant.</li>
+					<li>the FILES [on the DESK] are imPORTant.</li>
 					<li className="margin-bottom-20 list-none">Các tệp tài liệu [ở trên bàn làm việc] thì quan trọng.</li>
 			
 					<li className="list-none">Hình thái: [on the DESK] - [Giới Cụm][Prepositional Phrase] bắt đầu bằng từ định vị vị trí bề mặt [Giới Cơ][Prepositional Base] on.</li>
@@ -756,7 +756,7 @@ export default function TieredStructure1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>the FILES [inSIDE the CABinet] are imPORtant.</li>
+					<li>the FILES [inSIDE the CABinet] are imPORTant.</li>
 					<li className="margin-bottom-20 list-none">Các tệp tài liệu [ở bên trong tủ chứa] thì quan trọng.</li>
 			
 					<li className="list-none">Hình thái mới: [inSIDE the CABinet] - [Giới Cụm][Prepositional Phrase] mới bắt đầu bằng [Giới Cơ][Prepositional Base] định vị không gian inSIDE được đưa vào thế chỗ.</li>

@@ -856,7 +856,7 @@ export default function IrregularVerbs(): React.JSX.Element {
 					<li className="list-none">Cô ấy <strong>gửi</strong> báo cáo <strong>hàng tuần</strong> cho quản lý của mình.</li>
 					<li className="margin-bottom-20 list-none">Dùng thời hiện tại đơn với dạng sends (cho chủ thể ngôi thứ ba số ít She) để chỉ sự việc diễn ra theo quy luật.</li>
 			
-					<li>he <strong>SENT</strong> an imPORtant Email <strong>YESterday</strong>.</li>
+					<li>he <strong>SENT</strong> an imPORTant Email <strong>YESterday</strong>.</li>
 					<li className="list-none">Anh ấy <strong>đã gửi</strong> một email quan trọng <strong>vào ngày hôm qua</strong>.</li>
 					<li className="margin-bottom-20 list-none">Dùng thời quá khứ đơn với dạng SENT để chỉ việc đã xảy ra và kết thúc trong quá khứ.</li>
 			

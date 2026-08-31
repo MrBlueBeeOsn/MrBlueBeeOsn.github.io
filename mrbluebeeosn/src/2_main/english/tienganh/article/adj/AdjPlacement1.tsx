@@ -488,7 +488,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>reVIEWing the aNALysis [of {'{what they inVEStigated}'}] is imPORtant.</li>
+					<li>reVIEWing the aNALysis [of {'{what they inVEStigated}'}] is imPORTant.</li>
 					<li className="margin-bottom-20 list-none">Việc xem xét bản phân tích [về {'{những gì họ đã điều tra}'}] là quan trọng.</li>
 			
 				</ul>

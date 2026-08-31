@@ -5,9 +5,9 @@ import EyeIcon from '@/components/view/EyeIcon';
 import ViewCounter from '@/components/view/ViewCounter';
 import LikeButton from '@/components/like/LikeButton';
 
-export default function Highly1(): React.JSX.Element {
+export default function HIGHly1(): React.JSX.Element {
 
-  const postId = "Highly1";
+  const postId = "HIGHly1";
 
   return (<>
 
@@ -17,29 +17,26 @@ export default function Highly1(): React.JSX.Element {
     
       <h4><HashLink smooth to="/vocabulary#muc-do-cao-terms"><mark className="highlight-tertiary-padding-4-8">ADverbs: mức độ cao</mark></HashLink></h4>
       
-      <h1 className="margin-y-50 text-center">highly
-        <sup><Link to="/vocabulary/highly-1">&nbsp;1&nbsp;</Link>
+      <h1 className="margin-y-50 text-center">HIGHly
+        <sup><Link to="/vocabulary/HIGHly-1">&nbsp;1&nbsp;</Link>
         </sup>
-        <sup><Link to="/vocabulary/highly-2">&nbsp;2&nbsp;</Link>
+        <sup><Link to="/vocabulary/HIGHly-2">&nbsp;2&nbsp;</Link>
         </sup>
       </h1>
 
       {/* This is the content of Vocabulary Term. */}
       
-      <p>Tuyệt vời! Chúng ta cùng đi sâu vào từ "<strong>highly</strong>" nhé.</p>
+      <p>Tuyệt vời! Chúng ta cùng đi sâu vào từ "<strong>HIGHly</strong>" nhé.</p>
 
       <div className="text-border1 padding-top-20 padding-bottom-10 highlight-238-padding-4-8 bee-container">
 
         <div>
 
-          <p className="margin-bottom-20"><strong>Highly</strong></p>
-
           <ul className="list-square padding-left-40">
 
             <li>
               <span className="highlight-255-padding-3-6">
-                [HIGHly][HIGH ly] /ˈhaɪli/ + /<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">hīghly</Link>/
-                &nbsp;⬤• (2x)
+                [HIGHly][<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">HĪGH ly</Link>] /ˈhaɪli/ ⬤• (2x)
               </span>
             </li>
 
@@ -57,16 +54,16 @@ export default function Highly1(): React.JSX.Element {
 
       </div>
 
-      <p className="margin-top-30 text-indent-whole">Từ "<strong>highly</strong>" được sử dụng để nhấn mạnh mức độ cao của một tính chất, phẩm chất, hoặc cường độ của một hành động. Nó có thể biểu thị sự đánh giá cao, mức độ quan trọng, hoặc cường độ mạnh mẽ.</p>
+      <p className="margin-top-30 text-indent-whole">Từ "<strong>HIGHly</strong>" được sử dụng để nhấn mạnh mức độ cao của một tính chất, phẩm chất, hoặc cường độ của một hành động. Nó có thể biểu thị sự đánh giá cao, mức độ quan trọng, hoặc cường độ mạnh mẽ.</p>
 
       <p className="margin-top-20 text-indent-whole">Ví dụ:</p>
 
         <ul className="list-square">
 
-          <li>She is a ______ skilled musician.</li>
+          <li>she is a HIGHly SKILLED muSICian.</li>
           <li className="margin-bottom-20 list-none">Cô ấy là một nhạc sĩ rất tài năng.</li>
 
-          <li>The project is ______ important to the company.</li>
+          <li>the PROJect is HIGHly imPORTant to the COMpany.</li>
           <li className="list-none">Dự án này rất quan trọng đối với công ty.</li>
 
         </ul>
@@ -83,8 +80,7 @@ export default function Highly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>High (adj) /haɪ/</li>
-          <li className="list-none">The mountain is very ______.</li>
+          <li>the MOUNtain is VERy HIGH.</li>
           <li className="list-none">Ngọn núi rất cao.</li>
 
         </ul>
@@ -101,12 +97,10 @@ export default function Highly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li><Link to="/vocabulary/extremely-1">Extremely</Link> /ɪkˈstriːmli/</li>
-          <li className="list-none">The food was ______ spicy.</li>
+          <li>the FOOD was <Link to="/vocabulary/extremely-1">exTREMEly</Link> SPIcy.</li>
           <li className="margin-bottom-20 list-none">Món ăn rất cay.</li>
 
-          <li><Link to="/vocabulary/VERy-1">Very</Link> /ˈveri/</li>
-          <li className="list-none">He is ______ intelligent.</li>
+          <li>he is <Link to="/vocabulary/VERy-1">VERy</Link> inTELligent.</li>
           <li className="list-none">Anh ấy rất thông minh.</li>
 
         </ul>
@@ -125,12 +119,10 @@ export default function Highly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Lowly (adj) /ˈloʊli/</li>
-          <li className="list-none">She has a ______ position in the company.</li>
+          <li>she has a LOWly poSITion in the COMpany.</li>
           <li className="margin-bottom-20 list-none">Cô ấy có một vị trí thấp trong công ty.</li>
 
-          <li>Slightly /ˈslaɪtli/</li>
-          <li className="list-none">I am ______ hungry.</li>
+          <li>i am SLIGHTly HUNGry.</li>
           <li className="list-none">Tôi hơi đói.</li>
 
         </ul>
@@ -156,10 +148,10 @@ export default function Highly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>The ______ towering mountain pierced the clouds.</li>
+          <li>the HIGHly TOWering MOUNtain PIERCED the CLOUDS.</li>
           <li className="margin-bottom-20 list-none">Ngọn núi cao chót vót xuyên thủng mây.</li>
 
-          <li>The ______ tall skyscraper dominated the skyline.</li>
+          <li>the HIGHly TALL SKYscraper DOMinated the SKYline.</li>
           <li className="list-none">Tòa nhà chọc trời cao ngút thống trị đường chân trời.</li>
 
         </ul>
@@ -179,7 +171,7 @@ export default function Highly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>I ______ recommend this book.</li>
+          <li>i HIGHly recomMEND this BOOK.</li>
           <li className="list-none">Tôi rất khuyến khích bạn đọc cuốn sách này.</li>
 
         </ul>
@@ -201,10 +193,10 @@ export default function Highly1(): React.JSX.Element {
 
           <ol>
 
-            <li>The task is difficult.</li>
+            <li value="1">the TASK is DIFficult.</li>
             <li className="list-none margin-bottom-20">Công việc này khó.</li>
 
-            <li value="2">The task is ______ difficult.</li>
+            <li value="2">the TASK is HIGHly DIFficult.</li>
             <li className="list-none margin-bottom-20">Công việc này rất khó.</li>
 
           </ol>
@@ -227,7 +219,7 @@ export default function Highly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Mức độ: "<strong>Highly</strong>" thường được sử dụng để nhấn mạnh mức độ cao hơn so với bình thường.</li>
+          <li>Mức độ: "<strong>HIGHly</strong>" thường được sử dụng để nhấn mạnh mức độ cao hơn so với bình thường.</li>
 
           <li className="margin-bottom-20">Đánh giá: Nó có thể mang tính chủ quan, thể hiện sự đánh giá của người nói.</li>
 

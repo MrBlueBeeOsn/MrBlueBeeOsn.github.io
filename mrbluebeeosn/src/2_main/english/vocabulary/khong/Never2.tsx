@@ -62,7 +62,7 @@ export default function NEVer2(): React.JSX.Element {
         <li value="2">i will NEVer aGAIN MAKE that misTAKE.</li>
         <li className="list-none margin-bottom-20">Tôi sẽ không bao giờ lặp lại sai lầm đó nữa.</li>
 
-        <li value="3">NEVer MIND, it's NOT imPORtant.</li>
+        <li value="3">NEVer MIND, it's NOT imPORTant.</li>
         <li className="list-none margin-bottom-20">Thôi đi, không quan trọng đâu.</li>
 
         <li value="4">i have NEVer SEEN such a BIG DOG.</li>

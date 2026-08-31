@@ -99,7 +99,7 @@ export default function VERy1(): React.JSX.Element {
           <li>she <Link to="/vocabulary/extremely-1">exTREMEly</Link> inTELligent.</li>
           <li className="margin-bottom-20 list-none">Cô ấy cực kỳ thông minh.</li>
 
-          <li>he <Link to="/vocabulary/highly-1">HIGHly</Link> MOtivated.</li>
+          <li>he <Link to="/vocabulary/HIGHly-1">HIGHly</Link> MOtivated.</li>
           <li className="list-none">Anh ấy có động lực rất cao.</li>
 
         </ul>

@@ -80,7 +80,7 @@ export default function FREquently2(): React.JSX.Element {
         <li value="8">this TYPE of ERror is FREquently enCOUNTered in this SOFTware.</li>
         <li className="list-none margin-bottom-20">Loại lỗi này thường gặp phải trong phần mềm này.</li>
 
-        <li value="9">this imPORtant DEtail is FREquently overLOOKED by PEOple.</li>
+        <li value="9">this imPORTant DEtail is FREquently overLOOKED by PEOple.</li>
         <li className="list-none margin-bottom-20">Chi tiết quan trọng này thường bị mọi người bỏ qua.</li>
 
         <li value="10">this BOOK is FREquently recomMENDed by TEACHers.</li>

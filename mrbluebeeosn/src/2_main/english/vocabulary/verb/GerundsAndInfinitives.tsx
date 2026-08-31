@@ -702,7 +702,7 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>he <strong>ASKED to LEAVE</strong> EARly to atTEND an imPORtant EVEning MEETing.</li>
+					<li>he <strong>ASKED to LEAVE</strong> EARly to atTEND an imPORTant EVEning MEETing.</li>
 					<li className="list-none">Anh ấy <strong>đã xin phép về</strong> sớm để tham dự một cuộc họp buổi tối quan trọng.</li>
 					<li className="list-none">he là chủ thể. Khi sau ASK không có chủ thể phụ (như sb), mà chủ thể chính tự thực hiện hành động tiếp theo, ta dùng cấu trúc ASK + to V (to LEAVE), thể hiện việc xin phép hoặc đề nghị được làm gì.</li>
 			
