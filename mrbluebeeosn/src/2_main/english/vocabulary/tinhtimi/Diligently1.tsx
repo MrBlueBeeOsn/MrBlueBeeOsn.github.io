@@ -63,7 +63,7 @@ export default function DILigently1(): React.JSX.Element {
           <li>she DILigently STUdied for the exAM.</li>
           <li className="margin-bottom-20 list-none">Cô ấy đã chăm chỉ học bài để chuẩn bị cho kỳ thi.</li>
 
-          <li>the WORKers DILigently rePAIRED the ROAD.</li>
+          <li>the WORKers DILigently rePAIred the ROAD.</li>
           <li className="list-none">Các công nhân đã chăm chỉ sửa chữa con đường.</li>
 
         </ul>

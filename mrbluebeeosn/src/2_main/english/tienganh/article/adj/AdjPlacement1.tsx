@@ -426,7 +426,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>STUdents [MAStering CORE THEories {'{which are reQUIRED for adVANCED PLACEment}'}] will sucCEED.</li>
+					<li>STUdents [MAStering CORE THEories {'{which are reQUIred for adVANCED PLACEment}'}] will sucCEED.</li>
 					<li className="margin-bottom-20 list-none">Học viên [làm chủ các lý thuyết cốt lõi {'{cái mà được yêu cầu cho suất học nâng cao}'}] sẽ thành công.</li>
 			
 				</ul>
@@ -435,9 +435,9 @@ export default function AdjPlacement1(): React.JSX.Element {
 			
 					<ul className="list-square">
 				
-						<li className="list-none">Tầng 1: [MAStering CORE THEories {'{which are reQUIRED for adVANCED PLACEment}'}] - [Tầng Tiếp Động Cụm][Tiered Progressive Verb Phrase] mở rộng từ [Tiếp Động Cơ][Progressive Verb Base] "MAStering".</li>
+						<li className="list-none">Tầng 1: [MAStering CORE THEories {'{which are reQUIred for adVANCED PLACEment}'}] - [Tầng Tiếp Động Cụm][Tiered Progressive Verb Phrase] mở rộng từ [Tiếp Động Cơ][Progressive Verb Base] "MAStering".</li>
 
-						<li className="list-none">Tầng 2: {'{which are reQUIRED for adVANCED PLACEment}'} - [Liên Câu][Conjunctional Clause] lồng ghép bên trong để phân tách chi tiết.</li>
+						<li className="list-none">Tầng 2: {'{which are reQUIred for adVANCED PLACEment}'} - [Liên Câu][Conjunctional Clause] lồng ghép bên trong để phân tách chi tiết.</li>
 				
 					</ul>
 
@@ -446,9 +446,9 @@ export default function AdjPlacement1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li className="list-none">Tầng 1: [MAStering CORE THEories {'{which are reQUIRED for adVANCED PLACEment}'}] - [Tính Cụm][Adjective Phrase] bám sát phía sau "STUdents" nhằm phân lớp đặc điểm đối tượng cực kỳ chặt chẽ.</li>
+					<li className="list-none">Tầng 1: [MAStering CORE THEories {'{which are reQUIred for adVANCED PLACEment}'}] - [Tính Cụm][Adjective Phrase] bám sát phía sau "STUdents" nhằm phân lớp đặc điểm đối tượng cực kỳ chặt chẽ.</li>
 
-					<li className="list-none">Tầng 2: {'{which are reQUIRED for adVANCED PLACEment}'} - [Tính Câu][Adjective Clause] bổ nghĩa cho [Danh Khối][Noun Block] "CORE THEories" nằm trong tầng 1 để làm rõ đặc tính của lý thuyết.</li>
+					<li className="list-none">Tầng 2: {'{which are reQUIred for adVANCED PLACEment}'} - [Tính Câu][Adjective Clause] bổ nghĩa cho [Danh Khối][Noun Block] "CORE THEories" nằm trong tầng 1 để làm rõ đặc tính của lý thuyết.</li>
 			
 				</ul>
 

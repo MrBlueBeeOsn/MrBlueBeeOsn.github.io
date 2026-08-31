@@ -97,7 +97,7 @@ export default function NhanBietTinhTuTiengAnh(): React.JSX.Element {
 					<li>after years of HARD WORK, her TECH STARtup FInally beCAME a <strong>sucCESSful</strong> GLObal COMpany.</li>
 					<li className="margin-bottom-20 list-none">Sau nhiều năm làm việc chăm chỉ, công ty khởi nghiệp công nghệ của cô ấy cuối cùng đã trở thành một công ty toàn cầu <strong>thành công</strong>.</li>
 			
-					<li>the CEO deLIVered a <strong>POWerful</strong> SPEECH that inSPIRED ALL the emPLOYees at the MEETing.</li>
+					<li>the CEO deLIVered a <strong>POWerful</strong> SPEECH that inSPIred ALL the emPLOYees at the MEETing.</li>
 					<li className="list-none">Giám đốc điều hành đã có một bài phát biểu <strong>mạnh mẽ</strong> truyền cảm hứng cho tất cả nhân viên trong cuộc họp.</li>
 			
 				</ul>

@@ -897,7 +897,7 @@ export default function Create(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>the STUdio HIRED a TEAM [which creATES interACtive ART PROjects].</li>
+          <li>the STUdio HIred a TEAM [which creATES interACtive ART PROjects].</li>
           <li className="margin-bottom-20 list-none">Xưởng phim đã thuê một đội ngũ [nhóm mà tạo ra các dự án nghệ thuật tương tác].</li>
       
           <li className="list-none">Hình thái gốc: [which creATES interACtive ART PROjects] - [Liên Câu][Conjunctional Clause] thiết lập theo dạng phân hệ hệ con đầy đủ bổ nghĩa đứng sau một khối tên gọi, chứa thành phần [Liên Cơ][Conjunctional Base] "which" và cụm hành động phía sau.</li>
@@ -911,7 +911,7 @@ export default function Create(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>the STUdio HIRED a [creAtive] TEAM.</li>
+          <li>the STUdio HIred a [creAtive] TEAM.</li>
           <li className="margin-bottom-20 list-none">Xưởng phim đã thuê một đội ngũ [sáng tạo].</li>
       
           <li className="list-none">Hình thái mới: [creAtive] - [Diện Tính Cơ][Modified Adjective Base] hình thành từ khối [Rễ Động Cơ][Root Verb Base] nguyên bản "creATE" kết hợp đuôi "-ive" để thay đổi diện mạo bên ngoài thành một khối cấp độ [Cơ][Base] có khả năng mô tả đặc điểm, thu gọn hoàn toàn dưới dạng một thành phần mô tả đặc điểm đơn duy nhất đứng trước đối tượng.</li>

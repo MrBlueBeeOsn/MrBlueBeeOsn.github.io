@@ -897,7 +897,7 @@ export default function Respond(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>the FIRM HIRED a SERvice [which reSPONDS to SYStem ISsues autoMATically].</li>
+          <li>the FIRM HIred a SERvice [which reSPONDS to SYStem ISsues autoMATically].</li>
           <li className="margin-bottom-20 list-none">Công ty đã thuê một dịch vụ [cái mà phản hồi các sự cố hệ thống một cách tự động].</li>
       
           <li className="list-none">Hình thái gốc: [which reSPONDS to SYStem ISsues autoMATically] - [Liên Câu][Conjunctional Clause] thiết lập theo dạng phân hệ hệ con đầy đủ bổ nghĩa đứng sau một khối tên gọi, chứa thành phần [Liên Cơ][Conjunctional Base] "which" và cụm hành động phía sau.</li>
@@ -911,7 +911,7 @@ export default function Respond(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>the FIRM HIRED a [reSPONsive] SERvice.</li>
+          <li>the FIRM HIred a [reSPONsive] SERvice.</li>
           <li className="margin-bottom-20 list-none">Công ty đã thuê một dịch vụ [có độ phản hồi nhanh nhạy/linh hoạt].</li>
       
           <li className="list-none">Hình thái mới: [reSPONsive] - [Diện Tính Cơ][Modified Adjective Base] hình thành từ khối [Rễ Động Cơ][Root Verb Base] nguyên bản "reSPOND" kết hợp đuôi "-ive" để thay đổi diện mạo bên ngoài thành một khối cấp độ [Cơ][Base] có khả năng mô tả đặc điểm, thu gọn hoàn toàn dưới dạng một thành phần mô tả đặc điểm đơn duy nhất đứng trước đối tượng.</li>

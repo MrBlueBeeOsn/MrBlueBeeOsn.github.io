@@ -474,8 +474,8 @@ const Posts = lazy(() => import('@/data/Posts'));
 	const Extremely2 = lazy(() => import('@/2_main/english/vocabulary/mucdocao/Extremely2'));
 	const HIGHly1 = lazy(() => import('@/2_main/english/vocabulary/mucdocao/HIGHly1'));
 	const HIGHly2 = lazy(() => import('@/2_main/english/vocabulary/mucdocao/HIGHly2'));
-	const Greatly1 = lazy(() => import('@/2_main/english/vocabulary/mucdocao/Greatly1'));
-	const Greatly2 = lazy(() => import('@/2_main/english/vocabulary/mucdocao/Greatly2'));
+	const GREATly1 = lazy(() => import('@/2_main/english/vocabulary/mucdocao/GREATly1'));
+	const GREATly2 = lazy(() => import('@/2_main/english/vocabulary/mucdocao/GREATly2'));
 
 	// 13. Vocabulary - Không chắc chắn
 	const MAYbe1 = lazy(() => import('@/2_main/english/vocabulary/khongchacchan/MAYbe1'));
@@ -1079,8 +1079,8 @@ export default function AppRoutes(): React.JSX.Element {
 					<Route path="/vocabulary/extremely-2" element={<Extremely2 />} />
 					<Route path="/vocabulary/HIGHly-1" element={<HIGHly1 />} />
 					<Route path="/vocabulary/HIGHly-2" element={<HIGHly2 />} />
-					<Route path="/vocabulary/greatly-1" element={<Greatly1 />} />
-					<Route path="/vocabulary/greatly-2" element={<Greatly2 />} />
+					<Route path="/vocabulary/GREATly-1" element={<GREATly1 />} />
+					<Route path="/vocabulary/GREATly-2" element={<GREATly2 />} />
 
 					{/* 13. Vocabulary - Không chắc chắn */}
 					<Route path="/vocabulary/MAYbe-1" element={<MAYbe1 />} />

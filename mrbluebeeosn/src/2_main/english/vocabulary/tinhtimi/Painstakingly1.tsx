@@ -155,7 +155,7 @@ export default function PAINStakingly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>he PAINStakingly rePAIRED the anTIQUE CLOCK.</li>
+          <li>he PAINStakingly rePAIred the anTIQUE CLOCK.</li>
           <li className="margin-bottom-20 list-none">Anh ấy PAINStakingly sửa chữa chiếc đồng hồ cổ.</li>
 
           <li>the SCIentist PAINStakingly exAMined the TIny SPEcimen.</li>

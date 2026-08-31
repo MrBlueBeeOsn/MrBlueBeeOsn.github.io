@@ -5,9 +5,9 @@ import EyeIcon from '@/components/view/EyeIcon';
 import ViewCounter from '@/components/view/ViewCounter';
 import LikeButton from '@/components/like/LikeButton';
 
-export default function Greatly2(): React.JSX.Element {
+export default function GREATly2(): React.JSX.Element {
 
-  const postId = "Greatly2";
+  const postId = "GREATly2";
 
   return (<>
 
@@ -17,18 +17,18 @@ export default function Greatly2(): React.JSX.Element {
     
       <h4><HashLink smooth to="/vocabulary#muc-do-cao-terms"><mark className="highlight-tertiary-padding-4-8">ADverbs: mức độ cao</mark></HashLink></h4>
       
-      <h1 className="margin-y-50 text-center">greatly
+      <h1 className="margin-y-50 text-center">GREATly
         <sup>
-          <Link to="/vocabulary/greatly-1">&nbsp;1&nbsp;</Link>
+          <Link to="/vocabulary/GREATly-1">&nbsp;1&nbsp;</Link>
         </sup>
         <sup>
-          <Link to="/vocabulary/greatly-2">&nbsp;2&nbsp;</Link>
+          <Link to="/vocabulary/GREATly-2">&nbsp;2&nbsp;</Link>
         </sup>
       </h1>
 
       {/* This is the content of Vocabulary Term. */}
 
-      <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>greatly</strong>" (rất nhiều, rất lớn) và các cụm từ hay đi kèm nhé.</p>
+      <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>GREATly</strong>" (rất nhiều, rất lớn) và các cụm từ hay đi kèm nhé.</p>
 
       <div className="text-border1 padding-10 highlight-238-padding-4-8 bee-container">
 
@@ -36,15 +36,9 @@ export default function Greatly2(): React.JSX.Element {
 
           <p className="margin-y-10">
             
-            <strong>Greatly&nbsp;</strong>
-            
             <span className="highlight-255-padding-3-6">
               
-              [GREATly][GREAT ly] /ˈɡreɪtli/ + /
-              
-              <Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">greȧtly</Link>/ 
-              
-              &nbsp;⬤• (2x)
+              [GREATly][<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">GREȦT ly</Link>] /ˈɡreɪtli/ ⬤• (2x)
               
             </span>
               
@@ -62,44 +56,34 @@ export default function Greatly2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1">Greatly <strong>appreciated</strong> /əˈpriːʃieɪtɪd/</li>
-        <li className="list-none">Your help is ______.</li>
+        <li value="1">your HELP is GREATly apPREciated.</li>
         <li className="list-none margin-bottom-20">Tôi rất biết ơn sự giúp đỡ của bạn.</li>
 
-        <li value="2">Greatly <strong>improved</strong> /ɪmˈpruːvd/</li>
-        <li className="list-none">His health has ______ since he started exercising.</li>
+        <li value="2">his HEALTH has GREATly imPROVED since he STARTed EXercising.</li>
         <li className="list-none margin-bottom-20">Sức khỏe của anh ấy đã cải thiện đáng kể kể từ khi anh ấy bắt đầu tập thể dục.</li>
 
-        <li value="3">Greatly <strong>influenced</strong> /ˈɪnflʊənst/</li>
-        <li className="list-none">His parents ______ his decision.</li>
+        <li value="3">his PARents GREATly INfluenced his deCISion.</li>
         <li className="list-none margin-bottom-20">Cha mẹ anh ấy đã ảnh hưởng rất lớn đến quyết định của anh ấy.</li>
 
-        <li value="4">Greatly <strong>admired</strong> /ədˈmaɪərd/</li>
-        <li className="list-none">She is ______ for her courage.</li>
+        <li value="4">she is GREATly adMIred for her COURage.</li>
         <li className="list-none margin-bottom-20">Cô ấy được rất nhiều người ngưỡng mộ vì sự dũng cảm của mình.</li>
 
-        <li value="5">Greatly <strong>reduced</strong> /rɪˈdjuːst/</li>
-        <li className="list-none">The price of the product has been ______.</li>
+        <li value="5">the PRICE of the PRODuct has been GREATly reDUCED.</li>
         <li className="list-none margin-bottom-20">Giá của sản phẩm đã giảm đáng kể.</li>
 
-        <li value="6">Greatly <strong>increased</strong> /ɪnˈkriːst/</li>
-        <li className="list-none">Sales have ______ since the new marketing campaign.</li>
+        <li value="6">SALES have GREATly inCREASED since the NEW MARketing camPAIGN.</li>
         <li className="list-none margin-bottom-20">Doanh số đã tăng lên đáng kể kể từ khi chiến dịch tiếp thị mới được triển khai.</li>
 
-        <li value="7">Greatly <strong>concerned</strong> /kənˈsɜːnd/</li>
-        <li className="list-none">I am ______ about the environment.</li>
+        <li value="7">i am GREATly conCERNED about the enVIronment.</li>
         <li className="list-none margin-bottom-20">Tôi rất lo lắng về môi trường.</li>
 
-        <li value="8">Greatly <strong>disappointed</strong> /dɪsəˈpɔɪntɪd/</li>
-        <li className="list-none">I was ______ with the results.</li>
+        <li value="8">i was GREATly disapPOINTed with the reSULTS.</li>
         <li className="list-none margin-bottom-20">Tôi rất thất vọng với kết quả.</li>
 
-        <li value="9">Greatly <strong>exaggerated</strong> /ɪɡˈzædʒəreɪtɪd/</li>
-        <li className="list-none">The story was ______.</li>
+        <li value="9">the STORy was GREATly exAGgerated.</li>
         <li className="list-none margin-bottom-20">Câu chuyện đã bị phóng đại quá mức.</li>
 
-        <li value="10">Greatly <strong>benefited</strong> /ˈbenɪfɪtɪd/</li>
-        <li className="list-none">He has ______ from the new program.</li>
+        <li value="10">he has GREATly BENefited from the NEW PROgram.</li>
         <li className="list-none margin-bottom-20">Anh ấy đã được lợi rất nhiều từ chương trình mới.</li>
 
       </ol>
@@ -116,9 +100,9 @@ export default function Greatly2(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>"<strong>Greatly</strong>" thường đứng trước hành động hoặc Tính Cơ để bổ nghĩa.</li>
+          <li>"<strong>GREATly</strong>" thường đứng trước hành động hoặc Tính Cơ để bổ nghĩa.</li>
 
-          <li className="margin-bottom-20">Từ này có thể được thay thế bằng các từ đồng nghĩa như "significantly", "substantially", "considerably" để tạo sự đa dạng trong văn phong.</li>
+          <li className="margin-bottom-20">Từ này có thể được thay thế bằng các từ đồng nghĩa như "sigNIFicantly", "subSTANtially", "conSIDerably" để tạo sự đa dạng trong văn phong.</li>
 
         </ul>
 
