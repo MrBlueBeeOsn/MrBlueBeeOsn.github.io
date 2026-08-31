@@ -196,13 +196,14 @@ export default function Maybe1(): React.JSX.Element {
 
           <ol>
 
-            <li><Link to="/vocabulary/perhaps-1">Perhaps</Link>: Cách nói lịch sự hơn, thường dùng trong văn viết hoặc các tình huống trang trọng.</li>
-            <li className="list-none">______ you could help me with this problem.</li>
-            <li className="list-none margin-bottom-20">Có lẽ anh/chị có thể giúp tôi giải quyết vấn đề này.</li>
+            <li><Link to="/vocabulary/perhaps-1">Perhaps</Link>: </li>
+            <li value="1">Perhaps you could help me with this problem.</li>
+            <li className="list-none">Có lẽ anh/chị có thể giúp tôi giải quyết vấn đề này.</li>
+            <li className="list-none margin-bottom-20">Cách nói lịch sự hơn, thường dùng trong văn viết hoặc các tình huống trang trọng.</li>
 
-            <li value="2"><strong>Maybe</strong>: Cách nói thông thường, <span className="highlight-255-padding-0-4">thường dùng trong giao tiếp hàng ngày</span>.</li>
-            <li className="list-none">______ we can go to the movies tonight.</li>
-            <li className="list-none margin-bottom-20">Có lẽ tối nay chúng ta có thể đi xem phim.</li>
+            <li value="2">Maybe we can go to the movies tonight.</li>
+            <li className="list-none">Có lẽ tối nay chúng ta có thể đi xem phim.</li>
+            <li className="list-none">Cách nói thông thường, <span className="highlight-255-padding-0-4">thường dùng trong giao tiếp hàng ngày</span>.</li>
 
           </ol>
 

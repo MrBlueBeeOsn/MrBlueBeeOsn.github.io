@@ -198,13 +198,14 @@ export default function Perhaps1(): React.JSX.Element {
 
           <ol>
 
-            <li><Link to="/vocabulary/maybe-1">Maybe</Link>: Thông dụng hơn và thường được sử dụng trong giao tiếp hàng ngày.</li>
-            <li className="list-none">______ we can go out for dinner tonight.</li>
+            <li><Link to="/vocabulary/maybe-1">Maybe</Link>: </li>
+            <li value="1">Maybe we can go out for dinner tonight.</li>
             <li className="list-none margin-bottom-20">Có lẽ tối nay chúng ta có thể đi ăn tối.</li>
+            <li className="list-none margin-bottom-20">Thông dụng hơn và thường được sử dụng trong giao tiếp hàng ngày.</li>
 
-            <li value="2"><strong>Perhaps</strong>: <span className="highlight-255-padding-0-4">Mang tính trang trọng hơn một chút</span> so với "maybe".</li>
-            <li className="list-none">______ we should reconsider our decision.</li>
-            <li className="list-none margin-bottom-20">Có lẽ chúng ta nên xem xét lại quyết định của mình.</li>
+            <li value="2">Perhaps we should reconsider our decision.</li>
+            <li className="list-none">Có lẽ chúng ta nên xem xét lại quyết định của mình.</li>
+            <li className="list-none"><span className="highlight-255-padding-0-4">Mang tính trang trọng hơn một chút</span> so với "maybe".</li>
 
           </ol>
 
