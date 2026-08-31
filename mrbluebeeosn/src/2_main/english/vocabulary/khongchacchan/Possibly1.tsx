@@ -109,7 +109,7 @@ export default function Possibly1(): React.JSX.Element {
           <li className="list-none">______ she is busy.</li>
           <li className="margin-bottom-20 list-none">Có lẽ cô ấy đang bận.</li>
 
-          <li><Link to="/vocabulary/maybe-1">Maybe</Link> /ˈmeɪbi/</li>
+          <li><Link to="/vocabulary/MAYbe-1">Maybe</Link> /ˈmeɪbi/</li>
           <li className="list-none">______ he will call you later.</li>
           <li className="list-none">Có thể anh ấy sẽ gọi cho bạn sau.</li>
 

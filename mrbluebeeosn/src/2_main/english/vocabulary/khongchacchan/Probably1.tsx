@@ -57,7 +57,7 @@ export default function Probably1(): React.JSX.Element {
 
       </div>
 
-      <p className="margin-top-30 text-indent-whole">Từ "<strong>probably</strong>" được dùng để diễn tả sự không chắc chắn hoàn toàn nhưng có khả năng cao một sự việc nào đó sẽ xảy ra. Nó thể hiện một mức độ tin tưởng cao hơn "<Link to="/vocabulary/maybe-1">maybe</Link>" nhưng thấp hơn "certainly".</p>
+      <p className="margin-top-30 text-indent-whole">Từ "<strong>probably</strong>" được dùng để diễn tả sự không chắc chắn hoàn toàn nhưng có khả năng cao một sự việc nào đó sẽ xảy ra. Nó thể hiện một mức độ tin tưởng cao hơn "<Link to="/vocabulary/MAYbe-1">maybe</Link>" nhưng thấp hơn "certainly".</p>
 
       <p className="margin-top-20 text-indent-whole">Ví dụ:</p>
 

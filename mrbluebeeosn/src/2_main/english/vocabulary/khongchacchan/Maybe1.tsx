@@ -5,9 +5,9 @@ import EyeIcon from '@/components/view/EyeIcon';
 import ViewCounter from '@/components/view/ViewCounter';
 import LikeButton from '@/components/like/LikeButton';
 
-export default function Maybe1(): React.JSX.Element {
+export default function MAYbe1(): React.JSX.Element {
 
-  const postId = "Maybe1";
+  const postId = "MAYbe1";
 
   return (<>
 
@@ -17,29 +17,26 @@ export default function Maybe1(): React.JSX.Element {
     
       <h4><HashLink smooth to="/vocabulary#khong-chac-chan-terms"><mark className="highlight-tertiary-padding-4-8">ADverbs: không chắc</mark></HashLink></h4>
       
-      <h1 className="margin-y-50 text-center">maybe
-        <sup><Link to="/vocabulary/maybe-1">&nbsp;1&nbsp;</Link>
+      <h1 className="margin-y-50 text-center">MAYbe
+        <sup><Link to="/vocabulary/MAYbe-1">&nbsp;1&nbsp;</Link>
         </sup>
-        <sup><Link to="/vocabulary/maybe-2">&nbsp;2&nbsp;</Link>
+        <sup><Link to="/vocabulary/MAYbe-2">&nbsp;2&nbsp;</Link>
         </sup>
       </h1>
 
       {/* This is the content of Vocabulary Term. */}
       
-      <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>maybe</strong>" nhé.</p>
+      <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>MAYbe</strong>" nhé.</p>
 
       <div className="text-border1 padding-top-20 padding-bottom-10 highlight-238-padding-4-8 bee-container">
 
         <div>
 
-          <p className="margin-bottom-20"><strong>Maybe</strong></p>
-
           <ul className="list-square padding-left-40">
 
             <li>
               <span className="highlight-255-padding-3-6">
-                [MAYbe][MAY be] /ˈmeɪ.bi/ + /<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">māybē</Link>/
-                &nbsp;⬤• (2x)
+                [MAYbe][<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">MĀY bē</Link>] /ˈmeɪ.bi/ ⬤• (2x)
               </span>
             </li>
 
@@ -63,10 +60,10 @@ export default function Maybe1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>______ it will rain tomorrow.</li>
+          <li>MAYbe it will RAIN toMORrow.</li>
           <li className="margin-bottom-20 list-none">Có lẽ trời sẽ mưa vào ngày mai.</li>
 
-          <li>______ you should call her.</li>
+          <li>MAYbe you should CALL her.</li>
           <li className="list-none">Có lẽ bạn nên gọi cho cô ấy.</li>
 
         </ul>
@@ -83,7 +80,7 @@ export default function Maybe1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li className="list-none">Không có gia đình từ trực tiếp cho "<strong>maybe</strong>" vì nó là một từ đơn lẻ.</li>
+          <li className="list-none">Không có gia đình từ trực tiếp cho "<strong>MAYbe</strong>" vì nó là một từ đơn lẻ.</li>
 
         </ul>
 
@@ -99,12 +96,10 @@ export default function Maybe1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li><Link to="/vocabulary/perHAPS-1">Perhaps</Link> (adv) /pərˈhæps/</li>
-          <li className="list-none">______ we can meet later.</li>
+          <li><Link to="/vocabulary/perHAPS-1">perHAPS</Link> we can MEET UP LAter.</li>
           <li className="margin-bottom-20 list-none">Có lẽ chúng ta có thể gặp nhau sau.</li>
 
-          <li><Link to="/vocabulary/possibly-1">Possibly</Link> /ˈpɑː.sə.bli/</li>
-          <li className="list-none">It's ______ the best day of my life.</li>
+          <li>it's <Link to="/vocabulary/possibly-1">POSsibly</Link> the BEST DAY of my LIFE.</li>
           <li className="list-none">Có thể đây là ngày tuyệt vời nhất trong đời tôi.</li>
 
         </ul>
@@ -123,12 +118,10 @@ export default function Maybe1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li><Link to="/vocabulary/DEFinitely-1">Definitely</Link> /ˈdef.ən.ət.li/</li>
-          <li className="list-none">I ______ want to go.</li>
+          <li>i <Link to="/vocabulary/DEFinitely-1">DEFinitely</Link> WANT to GO.</li>
           <li className="margin-bottom-20 list-none">Tôi chắc chắn muốn đi.</li>
 
-          <li>Certainly /ˈsɜːr.tən.li/</li>
-          <li className="list-none">______, you can borrow my book.</li>
+          <li><Link to="/vocabulary/CERtainly-1">CERtainly</Link>, you can BORrow my BOOK.</li>
           <li className="list-none">Chắc chắn rồi, bạn có thể mượn sách của tôi.</li>
 
         </ul>
@@ -154,7 +147,7 @@ export default function Maybe1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>______ you know the answer?</li>
+          <li>MAYbe you KNOW the ANswer?</li>
           <li className="list-none">Có lẽ bạn biết câu trả lời?</li>
 
         </ul>
@@ -170,11 +163,11 @@ export default function Maybe1(): React.JSX.Element {
         <strong>&nbsp;ví dụ</strong>:
       </p>
 
-      <p className="text-indent-whole">Tạo nhiều câu với "<strong>maybe</strong>" trong các tình huống khác nhau, ví dụ khi đưa ra quyết định hoặc dự đoán.</p>
+      <p className="text-indent-whole">Tạo nhiều câu với "<strong>MAYbe</strong>" trong các tình huống khác nhau, ví dụ khi đưa ra quyết định hoặc dự đoán.</p>
 
         <ul className="list-square">
 
-          <li>I'm not sure, ______ I'll go to the party.</li>
+          <li>i'm NOT SURE, MAYbe i'll GO to the PARty.</li>
           <li className="list-none">Tôi không chắc, có lẽ tôi sẽ đến bữa tiệc.</li>
 
         </ul>
@@ -190,18 +183,17 @@ export default function Maybe1(): React.JSX.Element {
         <strong>&nbsp;thường xuyên</strong>:
       </p>
 
-      <p className="text-indent-whole margin-bottom-20">Thường xuyên sử dụng "<strong>maybe</strong>" trong giao tiếp hàng ngày.</p>
+      <p className="text-indent-whole margin-bottom-20">Thường xuyên sử dụng "<strong>MAYbe</strong>" trong giao tiếp hàng ngày.</p>
 
-        <p className="text-indent-whole">Ví dụ để so sánh (sự khác biệt giữa perhaps và <strong>maybe</strong>):</p>
+        <p className="text-indent-whole">Ví dụ để so sánh (sự khác biệt giữa perHAPS và <strong>MAYbe</strong>):</p>
 
           <ol>
 
-            <li><Link to="/vocabulary/perHAPS-1">Perhaps</Link>: </li>
-            <li value="1">Perhaps you could help me with this problem.</li>
+            <li value="1"><Link to="/vocabulary/perHAPS-1">perHAPS</Link> you could HELP me with this PROJect.</li>
             <li className="list-none">Có lẽ anh/chị có thể giúp tôi giải quyết vấn đề này.</li>
             <li className="list-none margin-bottom-20">Cách nói lịch sự hơn, thường dùng trong văn viết hoặc các tình huống trang trọng.</li>
 
-            <li value="2">Maybe we can go to the movies tonight.</li>
+            <li value="2">MAYbe we can GO to the MOvies toNIGHT.</li>
             <li className="list-none">Có lẽ tối nay chúng ta có thể đi xem phim.</li>
             <li className="list-none">Cách nói thông thường, <span className="highlight-255-padding-0-4">thường dùng trong giao tiếp hàng ngày</span>.</li>
 
@@ -219,7 +211,7 @@ export default function Maybe1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>"<strong>Maybe</strong>" thường đứng ở đầu câu hoặc trước hành động chính.</li>
+          <li>"<strong>MAYbe</strong>" thường đứng ở đầu câu hoặc trước hành động chính.</li>
 
           <li className="margin-bottom-20">Nó thể hiện sự do dự hoặc không chắc chắn của người nói.</li>
 
