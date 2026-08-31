@@ -520,8 +520,8 @@ const Posts = lazy(() => import('@/data/Posts'));
 	// 17. Vocabulary - Điểm nhấn đặc biệt
 	const Especially1 = lazy(() => import('@/2_main/english/vocabulary/diemnhandacbiet/Especially1'));
 	const Especially2 = lazy(() => import('@/2_main/english/vocabulary/diemnhandacbiet/Especially2'));
-	const Particularly1 = lazy(() => import('@/2_main/english/vocabulary/diemnhandacbiet/Particularly1'));
-	const Particularly2 = lazy(() => import('@/2_main/english/vocabulary/diemnhandacbiet/Particularly2'));
+	const ParTICularly1 = lazy(() => import('@/2_main/english/vocabulary/diemnhandacbiet/parTICularly1'));
+	const ParTICularly2 = lazy(() => import('@/2_main/english/vocabulary/diemnhandacbiet/parTICularly2'));
 
 	// 18. Vocabulary - Về cơ bản
 	const BAsically1 = lazy(() => import('@/2_main/english/vocabulary/vecoban/BAsically1'));
@@ -1125,8 +1125,8 @@ export default function AppRoutes(): React.JSX.Element {
 					{/* 17. Vocabulary - Điểm nhấn đặc biệt */}
 					<Route path="/vocabulary/especially-1" element={<Especially1 />} />
 					<Route path="/vocabulary/especially-2" element={<Especially2 />} />
-					<Route path="/vocabulary/particularly-1" element={<Particularly1 />} />
-					<Route path="/vocabulary/particularly-2" element={<Particularly2 />} />
+					<Route path="/vocabulary/parTICularly-1" element={<ParTICularly1 />} />
+					<Route path="/vocabulary/parTICularly-2" element={<ParTICularly2 />} />
 
 					{/* 18. Vocabulary - Về cơ bản */}
 					<Route path="/vocabulary/BAsically-1" element={<BAsically1 />} />

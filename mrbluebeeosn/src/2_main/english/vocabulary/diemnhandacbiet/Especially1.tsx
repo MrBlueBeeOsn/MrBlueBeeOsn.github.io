@@ -101,7 +101,7 @@ export default function Especially1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li><Link to="/vocabulary/particularly-1">Particularly</Link> /pərˈtɪkjələrli/</li>
+          <li><Link to="/vocabulary/parTICularly-1">Particularly</Link> /pərˈtɪkjələrli/</li>
           <li className="list-none">I'm ______ fond of this painting.</li>
           <li className="margin-bottom-20 list-none">Tôi đặc biệt thích bức tranh này.</li>
 

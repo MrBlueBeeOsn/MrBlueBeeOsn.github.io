@@ -5,9 +5,9 @@ import EyeIcon from '@/components/view/EyeIcon';
 import ViewCounter from '@/components/view/ViewCounter';
 import LikeButton from '@/components/like/LikeButton';
 
-export default function Particularly2(): React.JSX.Element {
+export default function parTICularly2(): React.JSX.Element {
 
-  const postId = "Particularly2";
+  const postId = "parTICularly2";
 
   return (<>
 
@@ -17,18 +17,18 @@ export default function Particularly2(): React.JSX.Element {
     
       <h4><HashLink smooth to="/vocabulary#diem-nhan-dac-biet-terms"><mark className="highlight-tertiary-padding-4-8">ADverbs: đặc biệt</mark></HashLink></h4>
       
-      <h1 className="margin-y-50 text-center">particularly
+      <h1 className="margin-y-50 text-center">parTICularly
         <sup>
-          <Link to="/vocabulary/particularly-1">&nbsp;1&nbsp;</Link>
+          <Link to="/vocabulary/parTICularly-1">&nbsp;1&nbsp;</Link>
         </sup>
         <sup>
-          <Link to="/vocabulary/particularly-2">&nbsp;2&nbsp;</Link>
+          <Link to="/vocabulary/parTICularly-2">&nbsp;2&nbsp;</Link>
         </sup>
       </h1>
 
       {/* This is the content of Vocabulary Term. */}
 
-      <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>particularly</strong>" (đặc biệt) và các cụm từ thường đi kèm nhé.</p>
+      <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>parTICularly</strong>" (đặc biệt) và các cụm từ thường đi kèm nhé.</p>
 
       <div className="text-border1 padding-10 highlight-238-padding-4-8 bee-container">
 
@@ -36,15 +36,9 @@ export default function Particularly2(): React.JSX.Element {
 
           <p className="margin-y-10">
             
-            <strong>Particularly&nbsp;</strong>
-            
             <span className="highlight-255-padding-3-6">
               
-              [parTIcularly][par TIC u lar ly] /pəˈtɪkjələrli/ + /
-              
-              <Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">pa̛rticư̇la̛rly</Link>/ 
-              
-              &nbsp;•⬤••• (5x)
+              [parTICularly][<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">pa̛r TIC ư̇ la̛r ly</Link>] /pəˈtɪkjələrli/ •⬤••• (5x)
               
             </span>
               
@@ -62,44 +56,34 @@ export default function Particularly2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1">Particularly <strong>interested in</strong> /ˈɪntrəstɪd ɪn/</li>
-        <li className="list-none">I am ______ history.</li>
+        <li value="1">i am parTICularly INTERested in HIStory.</li>
         <li className="list-none margin-bottom-20">Tôi đặc biệt quan tâm đến lịch sử.</li>
 
-        <li value="2">Particularly <strong>fond of</strong> /fɒnd ɒv/</li>
-        <li className="list-none">She is ______ chocolate.</li>
+        <li value="2">she is parTICularly CHOCOLate.</li>
         <li className="list-none margin-bottom-20">Cô ấy đặc biệt thích sô cô la.</li>
 
-        <li value="3">Particularly <strong>good at</strong> /ɡʊd æt/</li>
-        <li className="list-none">He is ______ playing the piano.</li>
+        <li value="3">he is parTICularly GOOD at PLAYing the piANo.</li>
         <li className="list-none margin-bottom-20">Anh ấy đặc biệt giỏi chơi piano.</li>
 
-        <li value="4">Particularly <strong>challenging</strong> /ˈtʃælɪndʒɪŋ/</li>
-        <li className="list-none">This task is ______.</li>
+        <li value="4">this TASK is parTICularly CHALlenging.</li>
         <li className="list-none margin-bottom-20">Nhiệm vụ này đặc biệt khó khăn.</li>
 
-        <li value="5">Particularly <strong>relevant</strong> /ˈreləvənt/</li>
-        <li className="list-none">This information is ______ to our discussion.</li>
+        <li value="5">this inforMAtion is parTICularly RELevant to our disCUSsion.</li>
         <li className="list-none margin-bottom-20">Thông tin này đặc biệt liên quan đến cuộc thảo luận của chúng ta.</li>
 
-        <li value="6">Particularly <strong>beautiful</strong> /ˈbjuːtɪfl/</li>
-        <li className="list-none">The sunset was ______ today.</li>
+        <li value="6">the SUNset was parTICularly BEAUtiful toDAY.</li>
         <li className="list-none margin-bottom-20">Hoàng hôn hôm nay đặc biệt đẹp.</li>
 
-        <li value="7">Particularly <strong>important</strong> /ɪmˈpɔːtnt/</li>
-        <li className="list-none">It is ______ to arrive on time for the meeting.</li>
+        <li value="7">it is parTICularly imPORTant to arRIVE on TIME for the MEETing.</li>
         <li className="list-none margin-bottom-20">Việc đến đúng giờ cho cuộc họp là đặc biệt quan trọng.</li>
 
-        <li value="8">Particularly <strong>difficult</strong> /ˈdɪfɪkəlt/</li>
-        <li className="list-none">This problem is ______ to solve.</li>
+        <li value="8">this PROBlem is parTICularly DIFficult to SOLVE.</li>
         <li className="list-none margin-bottom-20">Vấn đề này đặc biệt khó giải quyết.</li>
 
-        <li value="9">Particularly <strong>effective</strong> /ɪˈfektɪv/</li>
-        <li className="list-none">This medicine is ______ for treating headaches.</li>
+        <li value="9">this MEDicine is parTICularly efFECtive for TREATing HEADaches.</li>
         <li className="list-none margin-bottom-20">Thuốc này đặc biệt hiệu quả trong việc điều trị đau đầu.</li>
 
-        <li value="10">Particularly <strong>suitable</strong> /ˈsuːtəbl/</li>
-        <li className="list-none">This book is ______ for beginners.</li>
+        <li value="10">this BOOK is parTICularly SUITable for beGINners.</li>
         <li className="list-none margin-bottom-20">Cuốn sách này đặc biệt phù hợp cho người mới bắt đầu.</li>
 
       </ol>
@@ -116,7 +100,7 @@ export default function Particularly2(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>"<strong>Particularly</strong>" thường được đặt trước Tính Cơ hoặc Danh Cơ để nhấn mạnh ý nghĩa của chúng.</li>
+          <li>"<strong>parTICularly</strong>" thường được đặt trước Tính Cơ hoặc Danh Cơ để nhấn mạnh ý nghĩa của chúng.</li>
 
           <li className="margin-bottom-20">Từ này thường được sử dụng trong các văn bản viết và nói để làm cho câu văn trở nên sinh động và hấp dẫn hơn.</li>
 
