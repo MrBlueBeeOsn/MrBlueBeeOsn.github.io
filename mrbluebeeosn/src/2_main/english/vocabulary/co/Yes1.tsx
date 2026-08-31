@@ -123,7 +123,7 @@ export default function Yes1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li><Link to="/vocabulary/no-1">No</Link> (adv) /noʊ/</li>
+          <li><Link to="/vocabulary/NO-1">No</Link> (adv) /noʊ/</li>
           <li className="list-none">Are you coming to the party? - ______, I'm not.</li>
           <li className="margin-bottom-20 list-none">Bạn có đến bữa tiệc không? - Không, tôi không.</li>
 
@@ -202,13 +202,13 @@ export default function Yes1(): React.JSX.Element {
 
           <ol>
 
-            <li>Certainly: Là câu trả lời nhấn mạnh, thể hiện sự sẵn lòng hoặc đồng ý một cách nhiệt tình.</li>
-            <li className="list-none">Can I borrow your pen? - ______.</li>
-            <li className="list-none margin-bottom-20">Tôi có thể mượn bút của bạn không? - Chắc chắn rồi.</li>
+            <li value="1">Can I borrow your pen? - Certainly.</li>
+            <li className="list-none">Tôi có thể mượn bút của bạn không? - Chắc chắn rồi.</li>
+            <li className="list-none margin-bottom-20">Là câu trả lời nhấn mạnh, thể hiện sự sẵn lòng hoặc đồng ý một cách nhiệt tình.</li>
 
-            <li value="2"><strong>Yes</strong>: Là câu trả lời đơn giản cho một câu hỏi.</li>
-            <li className="list-none">Do you like chocolate? - ______.</li>
-            <li className="list-none margin-bottom-20">Bạn có thích sô cô la không? - Có.</li>
+            <li value="2">Do you like chocolate? - Yes.</li>
+            <li className="list-none">Bạn có thích sô cô la không? - Có.</li>
+            <li className="list-none">Là câu trả lời đơn giản cho một câu hỏi.</li>
 
           </ol>
 

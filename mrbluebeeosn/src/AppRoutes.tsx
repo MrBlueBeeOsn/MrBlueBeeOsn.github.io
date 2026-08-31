@@ -458,8 +458,8 @@ const Posts = lazy(() => import('@/data/Posts'));
 	const Ever2 = lazy(() => import('@/2_main/english/vocabulary/co/Ever2'));
 
 	// 11. Vocabulary - Tính không liên tục
-	const No1 = lazy(() => import('@/2_main/english/vocabulary/khong/No1'));
-	const No2 = lazy(() => import('@/2_main/english/vocabulary/khong/No2'));
+	const NO1 = lazy(() => import('@/2_main/english/vocabulary/khong/NO1'));
+	const NO2 = lazy(() => import('@/2_main/english/vocabulary/khong/NO2'));
 	const NOT1 = lazy(() => import('@/2_main/english/vocabulary/khong/NOT1'));
 	const NOT2 = lazy(() => import('@/2_main/english/vocabulary/khong/NOT2'));
 	const Never1 = lazy(() => import('@/2_main/english/vocabulary/khong/Never1'));
@@ -1063,8 +1063,8 @@ export default function AppRoutes(): React.JSX.Element {
 					<Route path="/vocabulary/ever-2" element={<Ever2 />} />
 
 					{/* 11. Vocabulary - Tính không liên tục */}
-					<Route path="/vocabulary/no-1" element={<No1 />} />
-					<Route path="/vocabulary/no-2" element={<No2 />} />
+					<Route path="/vocabulary/NO-1" element={<NO1 />} />
+					<Route path="/vocabulary/NO-2" element={<NO2 />} />
 					<Route path="/vocabulary/NOT-1" element={<NOT1 />} />
 					<Route path="/vocabulary/NOT-2" element={<NOT2 />} />
 					<Route path="/vocabulary/never-1" element={<Never1 />} />

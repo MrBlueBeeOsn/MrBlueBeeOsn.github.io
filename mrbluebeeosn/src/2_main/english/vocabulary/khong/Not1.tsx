@@ -102,7 +102,7 @@ export default function NOT1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li><Link to="/vocabulary/no-1">NO</Link>, i don't WANT to GO.</li>
+          <li><Link to="/vocabulary/NO-1">NO</Link>, i don't WANT to GO.</li>
           <li className="margin-bottom-20 list-none">Không, tôi không muốn đi.</li>
 
           <li>i will <Link to="/vocabulary/never-1">NEVer</Link> forGET you.</li>
@@ -149,7 +149,7 @@ export default function NOT1(): React.JSX.Element {
         <strong>&nbsp;với hình ảnh</strong>:
       </p>
 
-      <p className="text-indent-whole">Hình dung một dấu hiệu "<Link to="/vocabulary/no-1">NO</Link>" để biểu thị sự phủ định.</p>
+      <p className="text-indent-whole">Hình dung một dấu hiệu "<Link to="/vocabulary/NO-1">NO</Link>" để biểu thị sự phủ định.</p>
 
         <ul className="list-square">
 
@@ -196,7 +196,7 @@ export default function NOT1(): React.JSX.Element {
 
           <ol>
 
-            <li value="1">do you WANT COFfee? - <Link to="/vocabulary/no-1">NO</Link>, THANK you.</li>
+            <li value="1">do you WANT COFfee? - <Link to="/vocabulary/NO-1">NO</Link>, THANK you.</li>
             <li className="list-none">Bạn có muốn cà phê không? - Không, cảm ơn.</li>
             <li className="list-none margin-bottom-20">Thường dùng để trả lời một câu hỏi hoặc làm một câu trả lời ngắn gọn.</li>
 

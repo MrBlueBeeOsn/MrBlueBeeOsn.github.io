@@ -5,9 +5,9 @@ import EyeIcon from '@/components/view/EyeIcon';
 import ViewCounter from '@/components/view/ViewCounter';
 import LikeButton from '@/components/like/LikeButton';
 
-export default function No1(): React.JSX.Element {
+export default function NO1(): React.JSX.Element {
 
-  const postId = "No1";
+  const postId = "NO1";
 
   return (<>
 
@@ -17,29 +17,26 @@ export default function No1(): React.JSX.Element {
     
       <h4><HashLink smooth to="/vocabulary#khong-terms"><mark className="highlight-tertiary-padding-4-8">ADverbs: không</mark></HashLink></h4>
       
-      <h1 className="margin-y-50 text-center">no
-        <sup><Link to="/vocabulary/no-1">&nbsp;1&nbsp;</Link>
+      <h1 className="margin-y-50 text-center">NO
+        <sup><Link to="/vocabulary/NO-1">&nbsp;1&nbsp;</Link>
         </sup>
-        <sup><Link to="/vocabulary/no-2">&nbsp;2&nbsp;</Link>
+        <sup><Link to="/vocabulary/NO-2">&nbsp;2&nbsp;</Link>
         </sup>
       </h1>
 
       {/* This is the content of Vocabulary Term. */}
       
-      <p>Tuyệt vời! Chúng ta cùng đi sâu vào phân tích từ "<strong>no</strong>" nhé.</p>
+      <p>Tuyệt vời! Chúng ta cùng đi sâu vào phân tích từ "<strong>NO</strong>" nhé.</p>
 
       <div className="text-border1 padding-top-20 padding-bottom-10 highlight-238-padding-4-8 bee-container">
 
         <div>
 
-          <p className="margin-bottom-20"><strong>No</strong></p>
-
           <ul className="list-square padding-left-40">
 
             <li>
               <span className="highlight-255-padding-3-6">
-                [NO][NO] /noʊ/ + /<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">nō</Link>/
-                &nbsp;⬤ (1x)
+                [NO][<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">NŌ</Link>] /noʊ/ ⬤ (1x)
               </span>
             </li>
 
@@ -63,10 +60,10 @@ export default function No1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Are you coming to the party? - ______, I'm not.</li>
+          <li>are you COMing to the PARty? - NO, i'm <Link to="/vocabulary/NOT-1">NOT</Link>.</li>
           <li className="margin-bottom-20 list-none">Bạn có đến bữa tiệc không? - Không, tôi không.</li>
 
-          <li>do you LIKE COFfee? - ______, I prefer tea.</li>
+          <li>do you LIKE COFfee? - NO, i preFER TEA.</li>
           <li className="list-none">Bạn có thích cà phê không? - Không, tôi thích trà hơn.</li>
 
         </ul>
@@ -83,7 +80,7 @@ export default function No1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li className="list-none">Không có gia đình từ trực tiếp cho "<strong>no</strong>" vì đây là một từ đơn và rất cơ bản.</li>
+          <li className="list-none">Không có gia đình từ trực tiếp cho "<strong>NO</strong>" vì đây là một từ đơn và rất cơ bản.</li>
 
         </ul>
 
@@ -99,12 +96,10 @@ export default function No1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li><Link to="/vocabulary/NOT-1">Not</Link> (adv) /nɒt/</li>
-          <li className="list-none">I am ______ going.</li>
+          <li>i am <Link to="/vocabulary/NOT-1">NOT</Link> GOing.</li>
           <li className="margin-bottom-20 list-none">Tôi không đi.</li>
 
-          <li><Link to="/vocabulary/never-1">Never</Link> (adv) /ˈnevər/</li>
-          <li className="list-none">I will ______ forget you.</li>
+          <li>i will <Link to="/vocabulary/never-1">NEVer</Link> forGET you.</li>
           <li className="list-none">Tôi sẽ không bao giờ quên bạn.</li>
 
         </ul>
@@ -123,12 +118,10 @@ export default function No1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li><Link to="/vocabulary/yes-1">Yes</Link> (adv) /jes/</li>
-          <li className="list-none">Are you hungry? - ______, I am.</li>
+          <li>are you HUNgry? - <Link to="/vocabulary/yes-1">YES</Link>, i am.</li>
           <li className="margin-bottom-20 list-none">Bạn có đói không? - Có, tôi đói.</li>
 
-          <li>Certainly (adv) /ˈsɜːrtnli/</li>
-          <li className="list-none">Can I help you? - ______.</li>
+          <li>can i HELP you? - <Link to="/vocabulary/CERtainly-1">CERtainly</Link>.</li>
           <li className="list-none">Tôi có thể giúp gì cho bạn? - Chắc chắn rồi.</li>
 
         </ul>
@@ -154,7 +147,7 @@ export default function No1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>______.</li>
+          <li>NO.</li>
           <li className="list-none"> Không. (Dùng khi muốn cấm một hành động nào đó mà không cần chỉ rõ.)</li>
 
         </ul>
@@ -170,17 +163,17 @@ export default function No1(): React.JSX.Element {
         <strong>&nbsp;ví dụ</strong>:
       </p>
 
-      <p className="text-indent-whole">Tạo nhiều câu hỏi và câu trả lời với "<strong>no</strong>" trong các tình huống khác nhau.</p>
+      <p className="text-indent-whole">Tạo nhiều câu hỏi và câu trả lời với "<strong>NO</strong>" trong các tình huống khác nhau.</p>
 
         <ul className="list-square">
           
-          <li className="list-none">Would you like some coffee?</li>
+          <li>would you LIKE some COFfee?</li>
           <li className=" margin-bottom-20 list-none">Bạn có muốn uống cà phê không?</li>
 
-          <li>Yes, PLEASE.</li>
+          <li>YES, PLEASE.</li>
           <li className=" margin-bottom-20 list-none">Vâng, làm ơn.</li>
 
-          <li>______, thank you. I'm not thirsty.</li>
+          <li>NO, THANK you. i'm NOT THIRsty.</li>
           <li className="list-none">Không, cảm ơn. Tôi không khát.</li>
 
         </ul>
@@ -196,19 +189,19 @@ export default function No1(): React.JSX.Element {
         <strong>&nbsp;thường xuyên</strong>:
       </p>
 
-      <p className="text-indent-whole margin-bottom-20">Thường xuyên sử dụng "<strong>no</strong>" trong giao tiếp hàng ngày.</p>
+      <p className="text-indent-whole margin-bottom-20">Thường xuyên sử dụng "<strong>NO</strong>" trong giao tiếp hàng ngày.</p>
 
-        <p className="text-indent-whole">Ví dụ để so sánh (sự khác biệt giữa not và <strong>no</strong>):</p>
+        <p className="text-indent-whole">Ví dụ để so sánh (sự khác biệt giữa NOT và <strong>NO</strong>):</p>
 
           <ol>
 
-            <li><Link to="/vocabulary/NOT-1">Not</Link>: Được sử dụng để tạo thành câu phủ định đầy đủ.</li>
-            <li className="list-none">I do ______ want any milk.</li>
-            <li className="list-none margin-bottom-20">Tôi không muốn bất kỳ sữa nào.</li>
+            <li value="1">i do <Link to="/vocabulary/NOT-1">NOT</Link> WANT any MILK.</li>
+            <li className="list-none">Tôi không muốn bất kỳ sữa nào.</li>
+            <li className="list-none margin-bottom-20">Được sử dụng để tạo thành câu phủ định đầy đủ.</li>
 
-            <li value="2"><strong>No</strong>: <span className="highlight-255-padding-0-4">Thường được dùng như một câu trả lời ngắn gọn</span>.</li>
-            <li className="list-none">Do you want some milk? - ______.</li>
-            <li className="list-none margin-bottom-20">Bạn có muốn một ít sữa không? - Không.</li>
+            <li value="2">do you WANT some MILK? - NO.</li>
+            <li className="list-none">Bạn có muốn một ít sữa không? - Không.</li>
+            <li className="list-none"><span className="highlight-255-padding-0-4">Thường được dùng như một câu trả lời ngắn gọn</span>.</li>
 
           </ol>
 
@@ -224,9 +217,9 @@ export default function No1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>"<strong>No</strong>" có thể đứng một mình để trả lời câu hỏi hoặc đặt ở đầu câu để phủ định một câu con.</li>
+          <li>"<strong>NO</strong>" có thể đứng một mình để trả lời câu hỏi hoặc đặt ở đầu câu để phủ định một câu con.</li>
 
-          <li className="margin-bottom-20">"<strong>No</strong>" cũng có thể được dùng để tạo thành câu phủ định với hành động "to be" (am, is, are, was, were).</li>
+          <li className="margin-bottom-20">"<strong>NO</strong>" cũng có thể được dùng để tạo thành câu phủ định với hành động "to be" (am, is, are, was, were).</li>
 
         </ul>
 

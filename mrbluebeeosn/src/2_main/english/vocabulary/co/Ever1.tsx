@@ -198,13 +198,14 @@ export default function Ever1(): React.JSX.Element {
 
           <ol>
 
-            <li><Link to="/vocabulary/never-1">Never</Link>: Dùng để phủ định hoàn toàn một trải nghiệm.</li>
-            <li className="list-none">I have ______ been to the beach.</li>
-            <li className="list-none margin-bottom-20">Tôi chưa bao giờ đi biển.</li>
+            <li><Link to="/vocabulary/never-1">Never</Link>: </li>
+            <li value="1">I have never been to the beach.</li>
+            <li className="list-none">Tôi chưa bao giờ đi biển.</li>
+            <li className="list-none margin-bottom-20">Dùng để phủ định hoàn toàn một trải nghiệm.</li>
 
-            <li value="2"><strong>Ever</strong>: Sử dụng trong <span className="highlight-255-padding-0-4">câu hỏi</span> hoặc <span className="highlight-255-padding-0-4">câu khẳng định</span> để <span className="highlight-255-padding-0-4">nhấn mạnh một trải nghiệm</span>.</li>
-            <li className="list-none">Have you ______ been to the beach?</li>
-            <li className="list-none margin-bottom-20">Bạn đã từng đi biển chưa?</li>
+            <li value="2">Have you ever been to the beach?</li>
+            <li className="list-none">Bạn đã từng đi biển chưa?</li>
+            <li className="list-none">Sử dụng trong <span className="highlight-255-padding-0-4">câu hỏi</span> hoặc <span className="highlight-255-padding-0-4">câu khẳng định</span> để <span className="highlight-255-padding-0-4">nhấn mạnh một trải nghiệm</span>.</li>
 
           </ol>
 

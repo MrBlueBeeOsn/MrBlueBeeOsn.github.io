@@ -196,13 +196,13 @@ export default function Always1(): React.JSX.Element {
 
           <ol>
 
-            <li>Constantly: Nhấn mạnh tính chất liên tục và lặp đi lặp lại của một hành động.</li>
-            <li className="list-none">She is ______ talking on the phone.</li>
-            <li className="list-none margin-bottom-20">Cô ấy liên tục nói chuyện điện thoại.</li>
+            <li value="1">She is constantly talking on the phone.</li>
+            <li className="list-none">Cô ấy liên tục nói chuyện điện thoại.</li>
+            <li className="list-none margin-bottom-20">Nhấn mạnh tính chất liên tục và lặp đi lặp lại của một hành động.</li>
 
-            <li value="2"><strong>Always</strong>: <span className="highlight-255-padding-0-4">Nhấn mạnh tính chất vĩnh cửu và tuyệt đối của một hành động</span>.</li>
-            <li className="list-none">The sun ______ rises in the east.</li>
-            <li className="list-none margin-bottom-20">Mặt trời luôn mọc ở hướng đông.</li>
+            <li value="2">The sun always rises in the east.</li>
+            <li className="list-none">Mặt trời luôn mọc ở hướng đông.</li>
+            <li className="list-none"><span className="highlight-255-padding-0-4">Nhấn mạnh tính chất vĩnh cửu và tuyệt đối của một hành động</span>.</li>
 
           </ol>
 
