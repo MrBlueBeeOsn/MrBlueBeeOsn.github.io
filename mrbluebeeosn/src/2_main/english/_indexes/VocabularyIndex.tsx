@@ -381,10 +381,10 @@ export default function VocabularyIndex(): React.JSX.Element {
 						</li>
 
 						<li>
-							<Link to="/vocabulary/ever-1">ever
+							<Link to="/vocabulary/EVer-1">EVer
 								<sup>&nbsp;1&nbsp;</sup>
 									</Link> 
-									<Link to="/vocabulary/ever-2">
+									<Link to="/vocabulary/EVer-2">
 								<sup>&nbsp;2&nbsp;</sup>
 							</Link>
 						</li>

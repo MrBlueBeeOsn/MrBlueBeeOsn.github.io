@@ -121,7 +121,7 @@ export default function NEVer1(): React.JSX.Element {
           <li>she <Link to="/vocabulary/always-1">ALways</Link> COMES on TIME.</li>
           <li className="margin-bottom-20 list-none">Cô ấy luôn đúng giờ.</li>
 
-          <li>have you <Link to="/vocabulary/ever-1">EVer</Link> BEEN to jaPAN?</li>
+          <li>have you <Link to="/vocabulary/EVer-1">EVer</Link> BEEN to jaPAN?</li>
           <li className="list-none">Bạn đã từng đến Nhật Bản chưa?</li>
 
         </ul>

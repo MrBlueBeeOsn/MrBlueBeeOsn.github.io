@@ -5,9 +5,9 @@ import EyeIcon from '@/components/view/EyeIcon';
 import ViewCounter from '@/components/view/ViewCounter';
 import LikeButton from '@/components/like/LikeButton';
 
-export default function Ever1(): React.JSX.Element {
+export default function EVer1(): React.JSX.Element {
 
-  const postId = "Ever1";
+  const postId = "EVer1";
 
   return (<>
 
@@ -17,29 +17,26 @@ export default function Ever1(): React.JSX.Element {
     
       <h4><HashLink smooth to="/vocabulary#co-terms"><mark className="highlight-tertiary-padding-4-8">ADverbs: có</mark></HashLink></h4>
       
-      <h1 className="margin-y-50 text-center">ever
-        <sup><Link to="/vocabulary/ever-1">&nbsp;1&nbsp;</Link>
+      <h1 className="margin-y-50 text-center">EVer
+        <sup><Link to="/vocabulary/EVer-1">&nbsp;1&nbsp;</Link>
         </sup>
-        <sup><Link to="/vocabulary/ever-2">&nbsp;2&nbsp;</Link>
+        <sup><Link to="/vocabulary/EVer-2">&nbsp;2&nbsp;</Link>
         </sup>
       </h1>
 
       {/* This is the content of Vocabulary Term. */}
       
-      <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>ever</strong>" nhé.</p>
+      <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>EVer</strong>" nhé.</p>
 
       <div className="text-border1 padding-top-20 padding-bottom-10 highlight-238-padding-4-8 bee-container">
 
         <div>
 
-          <p className="margin-bottom-20"><strong>Ever</strong></p>
-
           <ul className="list-square padding-left-40">
 
             <li>
               <span className="highlight-255-padding-3-6">
-                [Ever][Ev er] /ˈev.ər/ + /<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">eve̛r</Link>/
-                &nbsp;⬤• (2x)
+                [EVer][<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">EV e̛r</Link>] /ˈev.ər/ ⬤• (2x)
               </span>
             </li>
 
@@ -65,10 +62,10 @@ export default function Ever1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Have you ______ been to Paris?</li>
+          <li>have you EVer been to PARis?</li>
           <li className="margin-bottom-20 list-none">Bạn đã từng đến Paris chưa?</li>
 
-          <li>She is the kindest person I have ______ met.</li>
+          <li>she is the KINDest PERson i have EVer MET.</li>
           <li className="list-none">Cô ấy là người tốt bụng nhất mà tôi từng gặp.</li>
 
         </ul>
@@ -85,7 +82,7 @@ export default function Ever1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li className="list-none">Không có gia đình từ trực tiếp cho "<strong>ever</strong>".</li>
+          <li className="list-none">Không có gia đình từ trực tiếp cho "<strong>EVer</strong>".</li>
 
         </ul>
 
@@ -101,12 +98,10 @@ export default function Ever1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>At any time /æt ˈeni taɪm/</li>
-          <li className="list-none">Have you <strong>ever</strong>, ______, seen a UFO?</li>
+          <li>have you EVer, at ANy TIME, SEEN a UFO?</li>
           <li className="margin-bottom-20 list-none">Bạn đã từng, bất cứ lúc nào, nhìn thấy UFO chưa?</li>
 
-          <li>On any occasion /ɒn ˈeni əˈkeɪʒən/</li>
-          <li className="list-none">______, she is always the first to arrive.</li>
+          <li>on ANy ocCAsion, she is ALways the FIRST to arRIVE.</li>
           <li className="list-none">Bất cứ dịp nào, cô ấy luôn là người đến đầu tiên.</li>
 
         </ul>
@@ -125,12 +120,10 @@ export default function Ever1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li><Link to="/vocabulary/NEVer-1">Never</Link> /ˈnev.ər/</li>
-          <li className="list-none">I have ______ been to Paris.</li>
+          <li>i have <Link to="/vocabulary/NEVer-1">NEVer</Link> been to PARis.</li>
           <li className="margin-bottom-20 list-none">Tôi chưa bao giờ đến Paris.</li>
 
-          <li><Link to="/vocabulary/NOT-1">Not</Link> once /nɒt wʌns/</li>
-          <li className="list-none">I have not ______ regretted my decision.</li>
+          <li>i have <Link to="/vocabulary/NOT-1">NOT</Link> ONCE reGRETted my deCISion.</li>
           <li className="list-none">Tôi chưa bao giờ hối hận về quyết định của mình.</li>
 
         </ul>
@@ -156,7 +149,7 @@ export default function Ever1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Have you ______ seen such a beautiful photo?</li>
+          <li>have you EVer SEEN such a BEAUtiful PHOto?</li>
           <li className="list-none">Bạn đã từng thấy một bức ảnh đẹp như vậy chưa?</li>
 
         </ul>
@@ -172,11 +165,11 @@ export default function Ever1(): React.JSX.Element {
         <strong>&nbsp;ví dụ</strong>:
       </p>
 
-      <p className="text-indent-whole">Thử tạo càng nhiều câu ví dụ càng tốt với "<strong>ever</strong>".</p>
+      <p className="text-indent-whole">Thử tạo càng nhiều câu ví dụ càng tốt với "<strong>EVer</strong>".</p>
 
         <ul className="list-square">
 
-          <li>Has she ______ tried sushi?</li>
+          <li>has she EVer TRIED SUshi?</li>
           <li className="list-none">Cô ấy đã từng thử sushi chưa?</li>
 
         </ul>
@@ -192,18 +185,17 @@ export default function Ever1(): React.JSX.Element {
         <strong>&nbsp;thường xuyên</strong>:
       </p>
 
-      <p className="text-indent-whole margin-bottom-20">Đọc và viết nhiều để củng cố vốn từ vựng và cách sử dụng của "<strong>ever</strong>".</p>
+      <p className="text-indent-whole margin-bottom-20">Đọc và viết nhiều để củng cố vốn từ vựng và cách sử dụng của "<strong>EVer</strong>".</p>
 
-        <p className="text-indent-whole">Ví dụ để so sánh (sự khác biệt giữa never và <strong>ever</strong>):</p>
+        <p className="text-indent-whole">Ví dụ để so sánh (sự khác biệt giữa NEVer và <strong>EVer</strong>):</p>
 
           <ol>
 
-            <li><Link to="/vocabulary/NEVer-1">Never</Link>: </li>
-            <li value="1">I have never been to the beach.</li>
+            <li value="1">i have <Link to="/vocabulary/NEVer-1">NEVer</Link> been to the BEACH.</li>
             <li className="list-none">Tôi chưa bao giờ đi biển.</li>
             <li className="list-none margin-bottom-20">Dùng để phủ định hoàn toàn một trải nghiệm.</li>
 
-            <li value="2">Have you ever been to the beach?</li>
+            <li value="2">have you EVer been to the BEACH?</li>
             <li className="list-none">Bạn đã từng đi biển chưa?</li>
             <li className="list-none">Sử dụng trong <span className="highlight-255-padding-0-4">câu hỏi</span> hoặc <span className="highlight-255-padding-0-4">câu khẳng định</span> để <span className="highlight-255-padding-0-4">nhấn mạnh một trải nghiệm</span>.</li>
 
@@ -221,9 +213,9 @@ export default function Ever1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>"<strong>Ever</strong>" thường được đặt ở cuối câu hỏi hoặc sau hành động chính trong câu khẳng định.</li>
+          <li>"<strong>EVer</strong>" thường được đặt ở cuối câu hỏi hoặc sau hành động chính trong câu khẳng định.</li>
 
-          <li className="margin-bottom-20">"<strong>Ever</strong>" có thể được dùng để nhấn mạnh một trải nghiệm đặc biệt hoặc một khoảng thời gian dài.</li>
+          <li className="margin-bottom-20">"<strong>EVer</strong>" có thể được dùng để nhấn mạnh một trải nghiệm đặc biệt hoặc một khoảng thời gian dài.</li>
 
         </ul>
 

@@ -115,7 +115,7 @@ export default function PREsentPERfect(): React.JSX.Element {
 
 						<li className="list-none">→ Trong cuộc đời đến nay, anh ấy đã đến Nhật 3 lần.</li>
 
-						<li className="margin-top-20">Thường dùng với <Link to="/vocabulary/ever-1">EVer</Link>, <Link to="/vocabulary/NEVer-1">NEVer</Link>, alREAdy, YET, JUST, REcently..</li>
+						<li className="margin-top-20">Thường dùng với <Link to="/vocabulary/EVer-1">EVer</Link>, <Link to="/vocabulary/NEVer-1">NEVer</Link>, alREAdy, YET, JUST, REcently..</li>
 
 					</ul>
 			</div>
