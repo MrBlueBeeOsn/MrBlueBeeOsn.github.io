@@ -5,9 +5,9 @@ import EyeIcon from '@/components/view/EyeIcon';
 import ViewCounter from '@/components/view/ViewCounter';
 import LikeButton from '@/components/like/LikeButton';
 
-export default function Extremely2(): React.JSX.Element {
+export default function exTREMEly2(): React.JSX.Element {
 
-  const postId = "Extremely2";
+  const postId = "exTREMEly2";
 
   return (<>
 
@@ -17,18 +17,18 @@ export default function Extremely2(): React.JSX.Element {
     
       <h4><HashLink smooth to="/vocabulary#muc-do-cao-terms"><mark className="highlight-tertiary-padding-4-8">ADverbs: mức độ cao</mark></HashLink></h4>
       
-      <h1 className="margin-y-50 text-center">extremely
+      <h1 className="margin-y-50 text-center">exTREMEly
         <sup>
-          <Link to="/vocabulary/extremely-1">&nbsp;1&nbsp;</Link>
+          <Link to="/vocabulary/exTREMEly-1">&nbsp;1&nbsp;</Link>
         </sup>
         <sup>
-          <Link to="/vocabulary/extremely-2">&nbsp;2&nbsp;</Link>
+          <Link to="/vocabulary/exTREMEly-2">&nbsp;2&nbsp;</Link>
         </sup>
       </h1>
 
       {/* This is the content of Vocabulary Term. */}
 
-      <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>extremely</strong>" (cực kỳ) và các cụm từ hay đi kèm nhé.</p>
+      <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>exTREMEly</strong>" (cực kỳ) và các cụm từ hay đi kèm nhé.</p>
 
       <div className="text-border1 padding-10 highlight-238-padding-4-8 bee-container">
 
@@ -36,15 +36,9 @@ export default function Extremely2(): React.JSX.Element {
 
           <p className="margin-y-10">
             
-            <strong>Extremely&nbsp;</strong>
-            
             <span className="highlight-255-padding-3-6">
               
-              [exTREMEly][ex TREME ly] /ɪkˈstriːmli/ + /
-              
-              <Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">ėxtrēmely</Link>/ 
-              
-              &nbsp;•⬤• (3x)
+              [exTREMEly][<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">ėx TRĒME ly</Link>] /ɪkˈstriːmli/ •⬤• (3x)
               
             </span>
               
@@ -62,44 +56,34 @@ export default function Extremely2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1">Extremely <strong>happy</strong> /ˈhæpi/</li>
-        <li className="list-none">She was ______ to see her family.</li>
+        <li value="1">she was exTREMEly HAPpy to SEE her FAMILy.</li>
         <li className="list-none margin-bottom-20">Cô ấy rất vui khi gặp lại gia đình.</li>
 
-        <li value="2">Extremely <strong>tired</strong> /ˈtaɪərd/</li>
-        <li className="list-none">After working all night, he was ______.</li>
+        <li value="2">after WORKing all NIGHT, he was exTREMEly TIred.</li>
         <li className="list-none margin-bottom-20">Sau khi làm việc cả đêm, anh ấy rất mệt mỏi.</li>
 
-        <li value="3">Extremely <strong>difficult</strong> /ˈdɪfɪkəlt/</li>
-        <li className="list-none">The exam was ______.</li>
+        <li value="3">the exAM was exTREMEly DIFficult.</li>
         <li className="list-none margin-bottom-20">Bài kiểm tra rất khó.</li>
 
-        <li value="4">Extremely <strong>dangerous</strong> /ˈdeɪndʒərəs/</li>
-        <li className="list-none">It's ______ to swim in this river.</li>
+        <li value="4">it's exTREMEly DANgerous to SWIM in this RIVer.</li>
         <li className="list-none margin-bottom-20">Bơi ở con sông này rất nguy hiểm.</li>
 
-        <li value="5">Extremely <strong>talented</strong> /ˈtæləntɪd/</li>
-        <li className="list-none">She is an ______ musician.</li>
+        <li value="5">she is an exTREMEly TALented muSICian.</li>
         <li className="list-none margin-bottom-20">Cô ấy là một nhạc sĩ rất tài năng.</li>
 
-        <li value="6">Extremely <strong>beautiful</strong> /ˈbjuːtɪfəl/</li>
-        <li className="list-none">The sunset was ______.</li>
+        <li value="6">the SUNset was exTREMEly BEAUtiful.</li>
         <li className="list-none margin-bottom-20">Hoàng hôn rất đẹp.</li>
 
-        <li value="7">Extremely <strong>rich</strong> /rɪtʃ/</li>
-        <li className="list-none">He is an ______ businessman.</li>
+        <li value="7">he is an exTREMEly RICH BUSInessman.</li>
         <li className="list-none margin-bottom-20">Ông ấy là một doanh nhân rất giàu có.</li>
 
-        <li value="8">Extremely <strong>cold</strong> /koʊld/</li>
-        <li className="list-none">It's ______ outside today.</li>
+        <li value="8">it's exTREMEly COLD outSIDE toDAY.</li>
         <li className="list-none margin-bottom-20">Trời hôm nay lạnh quá.</li>
 
-        <li value="9">Extremely <strong>hungry</strong> /ˈhʌŋɡri/</li>
-        <li className="list-none">After playing sports all day, I was ______.</li>
+        <li value="9">after PLAYing SPORTS all DAY, i was exTREMEly HUNGry.</li>
         <li className="list-none margin-bottom-20">Sau khi chơi thể thao cả ngày, tôi rất đói.</li>
 
-        <li value="10">Extremely <strong>angry</strong> /ˈæŋɡri/</li>
-        <li className="list-none">She was ______ when she heard the news.</li>
+        <li value="10">she was exTREMEly ANGry when she HEARD the NEWS.</li>
         <li className="list-none margin-bottom-20">Cô ấy rất tức giận khi nghe tin đó.</li>
 
       </ol>
@@ -116,7 +100,7 @@ export default function Extremely2(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>"<strong>Extremely</strong>" thường được đặt trước Tính Cơ hoặc Trạng Cơ để bổ nghĩa.</li>
+          <li>"<strong>exTREMEly</strong>" thường được đặt trước Tính Cơ hoặc Trạng Cơ để bổ nghĩa.</li>
 
           <li className="margin-bottom-20">Từ này có thể được sử dụng trong cả văn nói và văn viết.</li>
 

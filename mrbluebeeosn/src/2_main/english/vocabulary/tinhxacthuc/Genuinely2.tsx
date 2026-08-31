@@ -83,7 +83,7 @@ export default function (): React.JSX.Element {
         <li value="9">she GENuinely CARES about the WELfare of OTHers.</li>
         <li className="list-none margin-bottom-20">Cô ấy thật sự quan tâm đến phúc lợi của người khác.</li>
 
-        <li value="10">he GENuinely LOVES his FAMily.</li>
+        <li value="10">he GENuinely LOVES his FAMILy.</li>
         <li className="list-none margin-bottom-20">Anh ấy thật sự yêu thương gia đình của mình.</li>
 
       </ol>

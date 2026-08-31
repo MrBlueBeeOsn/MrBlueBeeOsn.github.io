@@ -470,8 +470,8 @@ const Posts = lazy(() => import('@/data/Posts'));
 	const SO2 = lazy(() => import('@/2_main/english/vocabulary/mucdocao/SO2'));
 	const VERy1 = lazy(() => import('@/2_main/english/vocabulary/mucdocao/VERy1'));
 	const VERy2 = lazy(() => import('@/2_main/english/vocabulary/mucdocao/VERy2'));
-	const Extremely1 = lazy(() => import('@/2_main/english/vocabulary/mucdocao/Extremely1'));
-	const Extremely2 = lazy(() => import('@/2_main/english/vocabulary/mucdocao/Extremely2'));
+	const ExTREMEly1 = lazy(() => import('@/2_main/english/vocabulary/mucdocao/exTREMEly1'));
+	const ExTREMEly2 = lazy(() => import('@/2_main/english/vocabulary/mucdocao/exTREMEly2'));
 	const HIGHly1 = lazy(() => import('@/2_main/english/vocabulary/mucdocao/HIGHly1'));
 	const HIGHly2 = lazy(() => import('@/2_main/english/vocabulary/mucdocao/HIGHly2'));
 	const GREATly1 = lazy(() => import('@/2_main/english/vocabulary/mucdocao/GREATly1'));
@@ -1075,8 +1075,8 @@ export default function AppRoutes(): React.JSX.Element {
 					<Route path="/vocabulary/SO-2" element={<SO2 />} />
 					<Route path="/vocabulary/VERy-1" element={<VERy1 />} />
 					<Route path="/vocabulary/VERy-2" element={<VERy2 />} />
-					<Route path="/vocabulary/extremely-1" element={<Extremely1 />} />
-					<Route path="/vocabulary/extremely-2" element={<Extremely2 />} />
+					<Route path="/vocabulary/exTREMEly-1" element={<ExTREMEly1 />} />
+					<Route path="/vocabulary/exTREMEly-2" element={<ExTREMEly2 />} />
 					<Route path="/vocabulary/HIGHly-1" element={<HIGHly1 />} />
 					<Route path="/vocabulary/HIGHly-2" element={<HIGHly2 />} />
 					<Route path="/vocabulary/GREATly-1" element={<GREATly1 />} />

@@ -97,7 +97,7 @@ export default function HIGHly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>the FOOD was <Link to="/vocabulary/extremely-1">exTREMEly</Link> SPIcy.</li>
+          <li>the FOOD was <Link to="/vocabulary/exTREMEly-1">exTREMEly</Link> SPIcy.</li>
           <li className="margin-bottom-20 list-none">Món ăn rất cay.</li>
 
           <li>he is <Link to="/vocabulary/VERy-1">VERy</Link> inTELligent.</li>

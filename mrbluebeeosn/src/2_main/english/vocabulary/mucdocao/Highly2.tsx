@@ -102,7 +102,7 @@ export default function HIGHly2(): React.JSX.Element {
 
           <li>"<strong>HIGHly</strong>" thường đứng trước Tính Cơ hoặc Trạng Cơ để bổ nghĩa.</li>
 
-          <li className="margin-bottom-20">Từ này có thể được thay thế bằng các từ đồng nghĩa như "<Link to="/vocabulary/extremely-1">exTREMEly</Link>", "<Link to="/vocabulary/VERy-1">VERy</Link>", "reMARKably" để tạo sự đa dạng trong văn phong.</li>
+          <li className="margin-bottom-20">Từ này có thể được thay thế bằng các từ đồng nghĩa như "<Link to="/vocabulary/exTREMEly-1">exTREMEly</Link>", "<Link to="/vocabulary/VERy-1">VERy</Link>", "reMARKably" để tạo sự đa dạng trong văn phong.</li>
 
         </ul>
 

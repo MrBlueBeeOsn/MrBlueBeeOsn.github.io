@@ -103,7 +103,7 @@ export default function VERy2(): React.JSX.Element {
 
           <li>"<strong>VERy</strong>" thường đứng trước Tính Cơ hoặc Trạng Cơ để nhấn mạnh ý nghĩa của chúng.</li>
 
-          <li className="margin-bottom-20">Có nhiều Trạng Cơ khác cũng có thể được sử dụng để thay thế cho "<strong>VERy</strong>" như: <Link to="/vocabulary/extremely-1">exTREMEly</Link>, inCREDibly, <Link to="/vocabulary/HIGHly-1">HIGHly</Link>, DEEPly, và nhiều hơn nữa.</li>
+          <li className="margin-bottom-20">Có nhiều Trạng Cơ khác cũng có thể được sử dụng để thay thế cho "<strong>VERy</strong>" như: <Link to="/vocabulary/exTREMEly-1">exTREMEly</Link>, inCREDibly, <Link to="/vocabulary/HIGHly-1">HIGHly</Link>, DEEPly, và nhiều hơn nữa.</li>
 
         </ul>
 
