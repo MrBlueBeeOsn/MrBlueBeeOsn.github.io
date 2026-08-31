@@ -372,10 +372,10 @@ export default function VocabularyIndex(): React.JSX.Element {
 						</li>
 
 						<li>
-							<Link to="/vocabulary/always-1">always
+							<Link to="/vocabulary/ALways-1">ALways
 								<sup>&nbsp;1&nbsp;</sup>
 									</Link> 
-									<Link to="/vocabulary/always-2">
+									<Link to="/vocabulary/ALways-2">
 								<sup>&nbsp;2&nbsp;</sup>
 							</Link>
 						</li>

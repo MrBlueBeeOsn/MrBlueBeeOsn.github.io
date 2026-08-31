@@ -118,7 +118,7 @@ export default function NEVer1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>she <Link to="/vocabulary/always-1">ALways</Link> COMES on TIME.</li>
+          <li>she <Link to="/vocabulary/ALways-1">ALways</Link> COMES on TIME.</li>
           <li className="margin-bottom-20 list-none">Cô ấy luôn đúng giờ.</li>
 
           <li>have you <Link to="/vocabulary/EVer-1">EVer</Link> BEEN to jaPAN?</li>

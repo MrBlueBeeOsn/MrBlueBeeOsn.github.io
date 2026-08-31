@@ -59,7 +59,7 @@ export default function Usually2(): React.JSX.Element {
         <li value="1">she Usually DOES her HOMEwork after DINner.</li>
         <li className="list-none margin-bottom-20">Cô ấy thường làm bài tập về nhà sau bữa tối.</li>
 
-        <li value="2">he Usually GOES to BED at 10 PM.</li>
+        <li value="2">he Usually GOES to BED at 10 P.M.</li>
         <li className="list-none margin-bottom-20">Anh ấy thường đi ngủ lúc 10 giờ tối.</li>
 
         <li value="3">it Usually RAINS in the WINter.</li>

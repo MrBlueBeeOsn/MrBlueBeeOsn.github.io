@@ -106,7 +106,7 @@ export default function TracNghiemNguPhapTiengAnh(): React.JSX.Element {
 		},
 		{
 			id: 8,
-			question: "The meeting is scheduled to start _________ 2:30 PM.",
+			question: "The meeting is scheduled to start _________ 2:30 P.M.",
 			options: [
 				"in",
 				"on",

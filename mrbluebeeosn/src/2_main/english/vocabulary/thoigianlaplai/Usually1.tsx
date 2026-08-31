@@ -103,7 +103,7 @@ export default function Usually1(): React.JSX.Element {
           <li>TYPically, i EAT BREAKfast at 8 AM.</li>
           <li className="margin-bottom-20 list-none">Điển hình là, tôi ăn sáng lúc 8 giờ.</li>
 
-          <li>NORmally, i GO to BED at 10 PM.</li>
+          <li>NORmally, i GO to BED at 10 P.M.</li>
           <li className="list-none">Bình thường, tôi đi ngủ lúc 10 giờ tối.</li>
 
         </ul>

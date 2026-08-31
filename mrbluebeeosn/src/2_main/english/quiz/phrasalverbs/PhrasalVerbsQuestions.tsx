@@ -118,7 +118,7 @@ export default function PhrasalVerbsQuestions(): React.JSX.Element {
 		},
 		{
 			id: 9,
-			question: "All students must hand in their essays before Friday at 5 PM. What does \"hand in\" mean?",
+			question: "All students must hand in their essays before Friday at 5 P.M. What does \"hand in\" mean?",
 			options: [
 				"Submit",
 				"Distribute",

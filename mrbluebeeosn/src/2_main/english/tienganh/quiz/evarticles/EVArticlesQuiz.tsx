@@ -94,7 +94,7 @@ export default function EVArticlesQuiz(): React.JSX.Element {
 		},
 		{
 			id: 7,
-			question: "We usually have ______ lunch at 12:30 PM.",
+			question: "We usually have ______ lunch at 12:30 P.M.",
 			options: [
 				"a",
 				"an",

@@ -171,7 +171,7 @@ export default function toMORrow1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>let's MEET at the CAFe toMORrow at 2 PM.</li>
+          <li>let's MEET at the CAFe toMORrow at 2 P.M.</li>
           <li className="list-none">Chúng ta gặp nhau ở quán cà phê lúc 2 giờ chiều ngày mai nhé.</li>
 
         </ul>

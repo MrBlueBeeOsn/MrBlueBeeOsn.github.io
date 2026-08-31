@@ -119,7 +119,7 @@ export default function ocCAsionally1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>she is <Link to="/vocabulary/always-1">ALways</Link> on TIME.</li>
+          <li>she is <Link to="/vocabulary/ALways-1">ALways</Link> on TIME.</li>
           <li className="margin-bottom-20 list-none">Cô ấy luôn đúng giờ.</li>
 
           <li>i <Link to="/vocabulary/NEVer-1">NEVer</Link> EAT FAST FOOD.</li>

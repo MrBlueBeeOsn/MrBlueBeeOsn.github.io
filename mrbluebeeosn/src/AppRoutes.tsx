@@ -450,8 +450,8 @@ const Posts = lazy(() => import('@/data/Posts'));
 	const OcCAsionally2 = lazy(() => import('@/2_main/english/vocabulary/thoigianhiem/ocCAsionally2'));
 
 	// 10. Vocabulary - Tính liên tục
-	const Always1 = lazy(() => import('@/2_main/english/vocabulary/co/Always1'));
-	const Always2 = lazy(() => import('@/2_main/english/vocabulary/co/Always2'));
+	const ALways1 = lazy(() => import('@/2_main/english/vocabulary/co/ALways1'));
+	const ALways2 = lazy(() => import('@/2_main/english/vocabulary/co/ALways2'));
 	const YES1 = lazy(() => import('@/2_main/english/vocabulary/co/YES1'));
 	const YES2 = lazy(() => import('@/2_main/english/vocabulary/co/YES2'));
 	const EVer1 = lazy(() => import('@/2_main/english/vocabulary/co/EVer1'));
@@ -1055,8 +1055,8 @@ export default function AppRoutes(): React.JSX.Element {
 					<Route path="/vocabulary/ocCAsionally-2" element={<OcCAsionally2 />} />
 
 					{/* 10. Vocabulary - Tính liên tục */}
-					<Route path="/vocabulary/always-1" element={<Always1 />} />
-					<Route path="/vocabulary/always-2" element={<Always2 />} />
+					<Route path="/vocabulary/ALways-1" element={<ALways1 />} />
+					<Route path="/vocabulary/ALways-2" element={<ALways2 />} />
 					<Route path="/vocabulary/YES-1" element={<YES1 />} />
 					<Route path="/vocabulary/YES-2" element={<YES2 />} />
 					<Route path="/vocabulary/EVer-1" element={<EVer1 />} />

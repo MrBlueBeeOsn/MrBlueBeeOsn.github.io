@@ -98,8 +98,8 @@ export default function Nho12ThiTiengAnh(): React.JSX.Element {
 						<li className="list-none">Bị động: Football <strong>was played</strong> yesterday. (Bóng đá được chơi hôm qua)</li>
 
 						<li className="margin-top-20"><strong>B2</strong> – <strong>Past Continuous</strong></li>
-						<li className="list-none">Chủ động: She <strong>was playing</strong> football at 5 PM. (Cô ấy đang chơi bóng đá lúc 5 giờ)</li>
-						<li className="list-none">Bị động: Football <strong>was being played</strong> at 5 PM. (Bóng đá đang được chơi lúc 5 giờ)</li>
+						<li className="list-none">Chủ động: She <strong>was playing</strong> football at 5 P.M. (Cô ấy đang chơi bóng đá lúc 5 giờ)</li>
+						<li className="list-none">Bị động: Football <strong>was being played</strong> at 5 P.M. (Bóng đá đang được chơi lúc 5 giờ)</li>
 
 						<li className="margin-top-20"><strong>B3</strong> – <strong>Past Perfect</strong></li>
 						<li className="list-none">Chủ động: They <strong>had played</strong> football before dinner. (Họ đã chơi bóng đá trước bữa tối)</li>
@@ -130,8 +130,8 @@ export default function Nho12ThiTiengAnh(): React.JSX.Element {
 						<li className="list-none">Bị động: Football <strong>will be being played</strong> tomorrow. (Bóng đá sẽ đang được chơi ngày mai)</li>
 
 						<li><strong>C3</strong> – <strong>Future Perfect</strong></li>
-						<li className="list-none">Chủ động: They <strong>will have played</strong> football by 6 PM. (Họ sẽ đã chơi xong bóng đá trước 6 giờ)</li>
-						<li className="list-none">Bị động: Football <strong>will have been played</strong> by 6 PM. (Bóng đá sẽ đã được chơi trước 6 giờ)</li>
+						<li className="list-none">Chủ động: They <strong>will have played</strong> football by 6 P.M. (Họ sẽ đã chơi xong bóng đá trước 6 giờ)</li>
+						<li className="list-none">Bị động: Football <strong>will have been played</strong> by 6 P.M. (Bóng đá sẽ đã được chơi trước 6 giờ)</li>
 
 						<li className="margin-top-20"><strong>C4</strong> – <strong>Future Perfect Continuous</strong></li>
 						<li className="list-none">Chủ động: I <strong>will have been playing</strong> football for 4 hours. (Tôi sẽ đã đang chơi bóng đá 4 tiếng)</li>
