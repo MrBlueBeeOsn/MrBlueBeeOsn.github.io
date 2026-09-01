@@ -290,10 +290,10 @@ export default function VocabularyIndex(): React.JSX.Element {
 						</li>
 
 						<li>
-							<Link to="/vocabulary/probably-1">probably
+							<Link to="/vocabulary/PROBably-1">PROBably
 								<sup>&nbsp;1&nbsp;</sup>
 									</Link> 
-									<Link to="/vocabulary/probably-2">
+									<Link to="/vocabulary/PROBably-2">
 								<sup>&nbsp;2&nbsp;</sup>
 							</Link>
 						</li>

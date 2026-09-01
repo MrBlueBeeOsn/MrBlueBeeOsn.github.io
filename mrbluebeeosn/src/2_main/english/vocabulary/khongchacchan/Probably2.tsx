@@ -5,9 +5,9 @@ import EyeIcon from '@/components/view/EyeIcon';
 import ViewCounter from '@/components/view/ViewCounter';
 import LikeButton from '@/components/like/LikeButton';
 
-export default function Probably2(): React.JSX.Element {
+export default function PROBably2(): React.JSX.Element {
 
-  const postId = "Probably2";
+  const postId = "PROBably2";
 
   return (<>
 
@@ -17,18 +17,18 @@ export default function Probably2(): React.JSX.Element {
     
       <h4><HashLink smooth to="/vocabulary#khong-chac-chan-terms"><mark className="highlight-tertiary-padding-4-8">ADverbs: không chắc</mark></HashLink></h4>
       
-      <h1 className="margin-y-50 text-center">probably
+      <h1 className="margin-y-50 text-center">PROBably
         <sup>
-          <Link to="/vocabulary/probably-1">&nbsp;1&nbsp;</Link>
+          <Link to="/vocabulary/PROBably-1">&nbsp;1&nbsp;</Link>
         </sup>
         <sup>
-          <Link to="/vocabulary/probably-2">&nbsp;2&nbsp;</Link>
+          <Link to="/vocabulary/PROBably-2">&nbsp;2&nbsp;</Link>
         </sup>
       </h1>
 
       {/* This is the content of Vocabulary Term. */}
 
-      <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>probably</strong>" (có lẽ) và các cụm từ hay đi kèm nhé.</p>
+      <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>PROBably</strong>" (có lẽ) và các cụm từ hay đi kèm nhé.</p>
 
       <div className="text-border1 padding-10 highlight-238-padding-4-8 bee-container">
 
@@ -36,15 +36,9 @@ export default function Probably2(): React.JSX.Element {
 
           <p className="margin-y-10">
             
-            <strong>Probably&nbsp;</strong>
-            
             <span className="highlight-255-padding-3-6">
               
-              [PROBAbly][PROBA bly] /ˈprɒbli/ + /
-              
-              <Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">proba̛ly</Link>/ 
-              
-              &nbsp;⬤• (3x)
+              [PROBably][<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">PROB a̛ ly</Link>] /ˈprɒbli/ ⬤• (3x)
               
             </span>
               
@@ -62,44 +56,34 @@ export default function Probably2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1">Probably <strong>the best</strong> /ðə bɛst/</li>
-        <li className="list-none">This is ______ restaurant in town.</li>
+        <li value="1">this is PROBably the BEST RESTAURant in TOWN.</li>
         <li className="list-none margin-bottom-20">Đây có lẽ là nhà hàng ngon nhất trong thị trấn.</li>
 
-        <li value="2">Probably <strong>not</strong> /nɒt/</li>
-        <li className="list-none">I ______ will ______ be able to make it to the party.</li>
+        <li value="2">i PROBably will NOT be ABle to MAKE it to the PARty.</li>
         <li className="list-none margin-bottom-20">Có lẽ tôi sẽ không đến được buổi tiệc.</li>
 
-        <li value="3"><strong>Most</strong> probably /məʊst/</li>
-        <li className="list-none">______, she will arrive late.</li>
+        <li value="3">the MOST PROBably, she will arRIVE LATE.</li>
         <li className="list-none margin-bottom-20">Rất có thể cô ấy sẽ đến muộn.</li>
 
-        <li value="4"><strong>Will</strong> probably /wɪl/</li>
-        <li className="list-none">I ______ go to the movies tomorrow.</li>
+        <li value="4">i will PROBably GO to the MOvies toMORrow.</li>
         <li className="list-none margin-bottom-20">Tôi sẽ có lẽ đi xem phim vào ngày mai.</li>
 
-        <li value="5">Probably <strong>due to</strong> /djuː tuː/</li>
-        <li className="list-none">The delay was ______ the traffic.</li>
+        <li value="5">the deLAY was PROBably due to the TRAFfic.</li>
         <li className="list-none margin-bottom-20">Sự chậm trễ có lẽ là do giao thông.</li>
 
-        <li value="6"><strong>It is</strong> probably /ɪt ɪz/</li>
-        <li className="list-none">______ the best decision you can make.</li>
+        <li value="6">it is PROBably the BEST deCISion you can MAKE.</li>
         <li className="list-none margin-bottom-20">Có lẽ đó là quyết định tốt nhất bạn có thể đưa ra.</li>
 
-        <li value="7">Probably <strong>the reason is</strong> /ðə ˈriːzən ɪz/</li>
-        <li className="list-none">______ that he's tired.</li>
+        <li value="7">PROBably the REAson is that he's TIred.</li>
         <li className="list-none margin-bottom-20">Có lẽ lý do là anh ấy mệt.</li>
 
-        <li value="8">Probably <strong>the best way is</strong> /ðə bɛst weɪ ɪz/</li>
-        <li className="list-none">______ to call him first.</li>
+        <li value="8">PROBably the BEST WAY is to CALL him FIRST.</li>
         <li className="list-none margin-bottom-20">Có lẽ cách tốt nhất là gọi điện cho anh ấy trước.</li>
 
-        <li value="9">Probably <strong>because</strong> /bɪˈkɒz/</li>
-        <li className="list-none">She's ______ upset ______ he didn't call.</li>
+        <li value="9">she's PROBably upSET because he DIDN'T CALL.</li>
         <li className="list-none margin-bottom-20">Cô ấy có lẽ buồn vì anh ấy không gọi điện.</li>
 
-        <li value="10">Probably <strong>the most</strong> /ðə məʊst/</li>
-        <li className="list-none">This is ______ difficult task I've ever had.</li>
+        <li value="10">this is PROBably the MOST DIFficult TASK i've ever HAD.</li>
         <li className="list-none margin-bottom-20">Đây có lẽ là nhiệm vụ khó khăn nhất mà tôi từng làm.</li>
 
       </ol>
@@ -116,9 +100,9 @@ export default function Probably2(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>"<strong>Probably</strong>" thường đứng ở đầu câu hoặc trước hành động để bổ nghĩa.</li>
+          <li>"<strong>PROBably</strong>" thường đứng ở đầu câu hoặc trước hành động để bổ nghĩa.</li>
 
-          <li className="margin-bottom-20">Từ này có thể được thay thế bằng các từ đồng nghĩa như "likely", "<Link to="/vocabulary/possibly-1">possibly</Link>", "<Link to="/vocabulary/perHAPS-1">perhaps</Link>" để tạo sự đa dạng trong văn phong.</li>
+          <li className="margin-bottom-20">Từ này có thể được thay thế bằng các từ đồng nghĩa như "LIKEly", "<Link to="/vocabulary/possibly-1">POSsibly</Link>", "<Link to="/vocabulary/perHAPS-1">perHAPS</Link>" để tạo sự đa dạng trong văn phong.</li>
 
         </ul>
 

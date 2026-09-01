@@ -65,7 +65,7 @@ export default function DEFinitely1(): React.JSX.Element {
           <li>i will DEFinitely be THERE.</li>
           <li className="margin-bottom-20 list-none">Tôi chắc chắn sẽ đến đó.</li>
 
-          <li>hat's DEFinitely NOT TRUE.</li>
+          <li>hat's DEFinitely <Link to="/vocabulary/NOT-1">NOT</Link> TRUE.</li>
           <li className="list-none">Điều đó chắc chắn không đúng.</li>
 
         </ul>
@@ -124,10 +124,10 @@ export default function DEFinitely1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>POSsibly, it will RAIN toMORrow.</li>
+          <li><Link to="/vocabulary/POSsibly-1">POSsibly</Link>, it will RAIN toMORrow.</li>
           <li className="margin-bottom-20 list-none">Có thể trời sẽ mưa vào ngày mai.</li>
 
-          <li>MAYbe i'll GO to the PARty.</li>
+          <li><Link to="/vocabulary/MAYbe-1">MAYbe</Link> i'll GO to the PARty.</li>
           <li className="list-none">Có lẽ tôi sẽ đi dự tiệc.</li>
 
         </ul>
