@@ -15,7 +15,7 @@ export default function OBviously1(): React.JSX.Element {
 
     <article>
     
-      <h4><HashLink smooth to="/vocabulary#adverbs-ro-rang-terms"><mark className="highlight-tertiary-padding-4-8">ADverbs: rõ ràng</mark></HashLink></h4>
+      <h4><HashLink smooth to="/vocabulary#adverbs-ro-rang"><mark className="highlight-tertiary-padding-4-8">ADverbs: rõ ràng</mark></HashLink></h4>
       
       <h1 className="margin-y-50 text-center">OBviously
         <sup><Link to="/vocabulary/OBviously-1">&nbsp;1&nbsp;</Link>

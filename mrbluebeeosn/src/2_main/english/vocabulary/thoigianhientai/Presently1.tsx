@@ -15,7 +15,7 @@ export default function PRESently1(): React.JSX.Element {
 
     <article>
     
-      <h4><HashLink smooth to="/vocabulary#thoi-gian-hien-tai-terms"><mark className="highlight-tertiary-padding-4-88">ADverbs: hiện tại</mark></HashLink></h4>
+      <h4><HashLink smooth to="/vocabulary#adverbs-hien-tai"><mark className="highlight-tertiary-padding-4-88">ADverbs: hiện tại</mark></HashLink></h4>
       
       <h1 className="margin-y-50 text-center">PRESently
         <sup><Link to="/vocabulary/PRESently-1">&nbsp;1&nbsp;</Link>

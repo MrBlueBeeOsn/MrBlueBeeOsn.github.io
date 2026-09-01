@@ -15,7 +15,7 @@ export default function FAITHfully1(): React.JSX.Element {
 
     <article>
     
-      <h4><HashLink smooth to="/vocabulary#adverbs-chan-thanh-terms"><mark className="highlight-tertiary-padding-4-8">ADverbs: chân thành</mark></HashLink></h4>
+      <h4><HashLink smooth to="/vocabulary#adverbs-chan-thanh"><mark className="highlight-tertiary-padding-4-8">ADverbs: chân thành</mark></HashLink></h4>
       
       <h1 className="margin-y-50 text-center">FAITHfully
         <sup><Link to="/vocabulary/FAITHfully-1">&nbsp;1&nbsp;</Link>

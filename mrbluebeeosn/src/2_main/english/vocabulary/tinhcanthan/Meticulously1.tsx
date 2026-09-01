@@ -15,7 +15,7 @@ export default function meTICulously1(): React.JSX.Element {
 
     <article>
     
-      <h4><HashLink smooth to="/vocabulary#adverbs-can-than-terms"><mark className="highlight-tertiary-padding-4-8">ADverbs: cẩn thận</mark></HashLink></h4>
+      <h4><HashLink smooth to="/vocabulary#adverbs-can-than"><mark className="highlight-tertiary-padding-4-8">ADverbs: cẩn thận</mark></HashLink></h4>
       
       <h1 className="margin-y-50 text-center">meTICulously
         <sup><Link to="/vocabulary/meTICulously-1">&nbsp;1&nbsp;</Link>

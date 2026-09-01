@@ -15,7 +15,7 @@ export default function SOMEtimes1(): React.JSX.Element {
 
     <article>
     
-      <h4><HashLink smooth to="/vocabulary#thoi-gian-hiem-terms"><mark className="highlight-tertiary-padding-4-88">ADverbs: hiếm</mark></HashLink></h4>
+      <h4><HashLink smooth to="/vocabulary#adverbs-hiem"><mark className="highlight-tertiary-padding-4-88">ADverbs: hiếm</mark></HashLink></h4>
       
       <h1 className="margin-y-50 text-center">SOMEtimes
         <sup><Link to="/vocabulary/SOMEtimes-1">&nbsp;1&nbsp;</Link>

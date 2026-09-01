@@ -15,7 +15,7 @@ export default function CHEERfully1(): React.JSX.Element {
 
     <article>
     
-      <h4><HashLink smooth to="/vocabulary#adverbs-tich-cuc-terms"><mark className="highlight-tertiary-padding-4-8">ADverbs: tích cực</mark></HashLink></h4>
+      <h4><HashLink smooth to="/vocabulary#adverbs-tich-cuc"><mark className="highlight-tertiary-padding-4-8">ADverbs: tích cực</mark></HashLink></h4>
       
       <h1 className="margin-y-50 text-center">CHEERfully
         <sup><Link to="/vocabulary/CHEERfully-1">&nbsp;1&nbsp;</Link>

@@ -15,7 +15,7 @@ export default function beLAtedly1(): React.JSX.Element {
 
     <article>
     
-      <h4><HashLink smooth to="/vocabulary#toc-do-cham-terms"><mark className="highlight-tertiary-padding-4-8">ADverbs: chậm</mark></HashLink></h4>
+      <h4><HashLink smooth to="/vocabulary#adverbs-cham"><mark className="highlight-tertiary-padding-4-8">ADverbs: chậm</mark></HashLink></h4>
       
       <h1 className="margin-y-50 text-center">beLAtedly
         <sup><Link to="/vocabulary/beLAtedly-1">&nbsp;1&nbsp;</Link>

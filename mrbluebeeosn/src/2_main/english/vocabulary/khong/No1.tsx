@@ -15,7 +15,7 @@ export default function NO1(): React.JSX.Element {
 
     <article>
     
-      <h4><HashLink smooth to="/vocabulary#khong-terms"><mark className="highlight-tertiary-padding-4-8">ADverbs: không</mark></HashLink></h4>
+      <h4><HashLink smooth to="/vocabulary#adverbs-khong"><mark className="highlight-tertiary-padding-4-8">ADverbs: không</mark></HashLink></h4>
       
       <h1 className="margin-y-50 text-center">NO
         <sup><Link to="/vocabulary/NO-1">&nbsp;1&nbsp;</Link>
