@@ -5,9 +5,9 @@ import EyeIcon from '@/components/view/EyeIcon';
 import ViewCounter from '@/components/view/ViewCounter';
 import LikeButton from '@/components/like/LikeButton';
 
-export default function Questionably1(): React.JSX.Element {
+export default function QUEStionably1(): React.JSX.Element {
 
-  const postId = "Questionably1";
+  const postId = "QUEStionably1";
 
   return (<>
 
@@ -17,29 +17,26 @@ export default function Questionably1(): React.JSX.Element {
     
       <h4><HashLink smooth to="/vocabulary#khong-chac-chan-terms"><mark className="highlight-tertiary-padding-4-8">ADverbs: không chắc</mark></HashLink></h4>
       
-      <h1 className="margin-y-50 text-center">questionably
-        <sup><Link to="/vocabulary/questionably-1">&nbsp;1&nbsp;</Link>
+      <h1 className="margin-y-50 text-center">QUEStionably
+        <sup><Link to="/vocabulary/QUEStionably-1">&nbsp;1&nbsp;</Link>
         </sup>
-        <sup><Link to="/vocabulary/questionably-2">&nbsp;2&nbsp;</Link>
+        <sup><Link to="/vocabulary/QUEStionably-2">&nbsp;2&nbsp;</Link>
         </sup>
       </h1>
 
       {/* This is the content of Vocabulary Term. */}
       
-      <p>Tuyệt vời! Chúng ta cùng đi sâu vào từ "<strong>questionably</strong>" nhé.</p>
+      <p>Tuyệt vời! Chúng ta cùng đi sâu vào từ "<strong>QUEStionably</strong>" nhé.</p>
 
       <div className="text-border1 padding-top-20 padding-bottom-10 highlight-238-padding-4-8 bee-container">
 
         <div>
 
-          <p className="margin-bottom-20"><strong>Questionably</strong></p>
-
           <ul className="list-square padding-left-40">
 
             <li>
               <span className="highlight-255-padding-3-6">
-                [QUEStionably][QUES tion a bly] /ˈkwɛstʃənəbli/ + /<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">questiơna̛bly</Link>/
-                &nbsp;⬤••• (4x)
+                [QUEStionably][<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">QUES tiơn a̛b ly</Link>] /ˈkwɛstʃənəbli/ ⬤••• (4x)
               </span>
             </li>
 
@@ -57,16 +54,16 @@ export default function Questionably1(): React.JSX.Element {
 
       </div>
 
-      <p className="margin-top-30 text-indent-whole">Từ "<strong>questionably</strong>" được sử dụng để diễn tả một điều gì đó không chắc chắn, gây nghi ngờ hoặc có thể không đúng sự thật. Nó thường được dùng để thể hiện sự hoài nghi hoặc không đồng ý về một vấn đề nào đó.</p>
+      <p className="margin-top-30 text-indent-whole">Từ "<strong>QUEStionably</strong>" được sử dụng để diễn tả một điều gì đó không chắc chắn, gây nghi ngờ hoặc có thể không đúng sự thật. Nó thường được dùng để thể hiện sự hoài nghi hoặc không đồng ý về một vấn đề nào đó.</p>
 
       <p className="margin-top-20 text-indent-whole">Ví dụ:</p>
 
         <ul className="list-square">
 
-          <li>His story sounds ______ true.</li>
+          <li>his STORy SOUNDS QUEStionably TRUE.</li>
           <li className="margin-bottom-20 list-none">Câu chuyện của anh ta nghe có vẻ không chắc chắn là đúng.</li>
 
-          <li>The data is ______ accurate.</li>
+          <li>the DAta is QUEStionably ACcurate.</li>
           <li className="list-none">Dữ liệu này có vẻ không chính xác lắm.</li>
 
         </ul>
@@ -83,16 +80,13 @@ export default function Questionably1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Question (v) /ˈkwɛstʃən/</li>
-          <li className="list-none">I ______ his motives.</li>
+          <li>i QUEStion his MOtives.</li>
           <li className="margin-bottom-20 list-none">Tôi nghi ngờ hành động của anh ta.</li>
 
-          <li>Question (n) /ˈkwɛstʃən/</li>
-          <li className="list-none">I have a ______ for you.</li>
+          <li>i have a QUEStion for you.</li>
           <li className="margin-bottom-20 list-none">Tôi có một câu hỏi cho bạn.</li>
 
-          <li>Questionable (adj) /ˈkwɛstʃənəbl/</li>
-          <li className="list-none">His actions are ______.</li>
+          <li>his ACTions are QUEStionable.</li>
           <li className="list-none">Hành động của anh ta rất đáng ngờ.</li>
 
         </ul>
@@ -109,12 +103,10 @@ export default function Questionably1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Doubtfully /ˈdaʊtfəli/</li>
-          <li className="list-none">He looked at me ______.</li>
+          <li>he LOOKED at me DOUBTfully.</li>
           <li className="margin-bottom-20 list-none">Anh ta nhìn tôi một cách nghi ngờ.</li>
 
-          <li>Suspiciously /səˈspɪʃəsli/</li>
-          <li className="list-none">She glanced at him ______.</li>
+          <li>she GLANCED at him susPICiously.</li>
           <li className="list-none">Cô ấy liếc nhìn anh ta một cách nghi ngờ.</li>
 
         </ul>
@@ -133,12 +125,10 @@ export default function Questionably1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li><Link to="/vocabulary/DEFinitely-1">Definitely</Link> /ˈdɛfɪnɪtli/</li>
-          <li className="list-none">I ______ know the answer.</li>
+          <li>i <Link to="/vocabulary/DEFinitely-1">DEFinitely</Link> KNOW the ANswer.</li>
           <li className="margin-bottom-20 list-none">Tôi chắc chắn biết câu trả lời.</li>
 
-          <li>Certainly /ˈsɜːrtnli/</li>
-          <li className="list-none">______, I will help you.</li>
+          <li><Link to="/vocabulary/CERtainly-1">CERtainly</Link>, i will HELP you.</li>
           <li className="list-none">Chắc chắn rồi, tôi sẽ giúp bạn.</li>
 
         </ul>
@@ -164,7 +154,7 @@ export default function Questionably1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>The quality of the product is ______ high.</li>
+          <li>the QUALity of the PRODuct is QUEStionably HIGH.</li>
           <li className="list-none">Chất lượng của sản phẩm này đáng ngờ.</li>
 
         </ul>
@@ -184,7 +174,7 @@ export default function Questionably1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>The evidence is ______ reliable.</li>
+          <li>the EVidence is QUEStionably reLIable.</li>
           <li className="list-none">Bằng chứng này có vẻ không đáng tin cậy lắm.</li>
 
         </ul>
@@ -206,10 +196,10 @@ export default function Questionably1(): React.JSX.Element {
 
           <ol>
 
-            <li>He is a good person.</li>
+            <li value="1">he is a GOOD PERson.</li>
             <li className="list-none margin-bottom-20">Anh ấy là một người tốt.</li>
 
-            <li value="2">His motives are ______ good.</li>
+            <li value="2">his MOtives are QUEStionably GOOD.</li>
             <li className="list-none margin-bottom-20">Động cơ của anh ấy có vẻ không tốt lắm.</li>
 
           </ol>

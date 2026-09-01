@@ -5,9 +5,9 @@ import EyeIcon from '@/components/view/EyeIcon';
 import ViewCounter from '@/components/view/ViewCounter';
 import LikeButton from '@/components/like/LikeButton';
 
-export default function Questionably2(): React.JSX.Element {
+export default function QUEStionably2(): React.JSX.Element {
 
-  const postId = "Questionably2";
+  const postId = "QUEStionably2";
 
   return (<>
 
@@ -17,18 +17,18 @@ export default function Questionably2(): React.JSX.Element {
     
       <h4><HashLink smooth to="/vocabulary#khong-chac-chan-terms"><mark className="highlight-tertiary-padding-4-8">ADverbs: không chắc</mark></HashLink></h4>
       
-      <h1 className="margin-y-50 text-center">questionably
+      <h1 className="margin-y-50 text-center">QUEStionably
         <sup>
-          <Link to="/vocabulary/questionably-1">&nbsp;1&nbsp;</Link>
+          <Link to="/vocabulary/QUEStionably-1">&nbsp;1&nbsp;</Link>
         </sup>
         <sup>
-          <Link to="/vocabulary/questionably-2">&nbsp;2&nbsp;</Link>
+          <Link to="/vocabulary/QUEStionably-2">&nbsp;2&nbsp;</Link>
         </sup>
       </h1>
 
       {/* This is the content of Vocabulary Term. */}
 
-      <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>questionably</strong>" (một cách đáng ngờ) và các cụm từ hay đi kèm nhé.</p>
+      <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>QUEStionably</strong>" (một cách đáng ngờ) và các cụm từ hay đi kèm nhé.</p>
 
       <div className="text-border1 padding-10 highlight-238-padding-4-8 bee-container">
 
@@ -36,15 +36,9 @@ export default function Questionably2(): React.JSX.Element {
 
           <p className="margin-y-10">
             
-            <strong>Questionably&nbsp;</strong>
-            
             <span className="highlight-255-padding-3-6">
               
-              [QUEStionably][QUES tion a bly] /ˈkwɛstʃənəbli/ + /
-              
-              <Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">questiơna̛bly</Link>/ 
-              
-              &nbsp;⬤••• (4x)
+              [QUEStionably][<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">QUES tiơn a̛b ly</Link>] /ˈkwɛstʃənəbli/ ⬤••• (4x)
               
             </span>
               
@@ -62,44 +56,34 @@ export default function Questionably2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1">Questionably <strong>ethical</strong> /ˈɛθɪkəl/</li>
-        <li className="list-none">The company's practices were ______, raising concerns among consumers.</li>
+        <li value="1">the COMpany's PRACtices were QUEStionably ETHical, RAIsing conCERNS among conSUmers.</li>
         <li className="list-none margin-bottom-20">Những thực hành của công ty đó có đạo đức đáng ngờ, gây lo ngại cho người tiêu dùng.</li>
 
-        <li value="2">Questionably <strong>legal</strong> /ˈliːɡəl/</li>
-        <li className="list-none">The deal was ______, and could have serious consequences.</li>
+        <li value="2">the DEAL was QUEStionably LEGAL, and could have SERious CONsequences.</li>
         <li className="list-none margin-bottom-20">Thỏa thuận đó có tính pháp lý đáng ngờ và có thể gây ra hậu quả nghiêm trọng.</li>
 
-        <li value="3">Questionably <strong>safe</strong> /seɪf/</li>
-        <li className="list-none">The old building was ______, and needed to be renovated.</li>
+        <li value="3">the OLD BUILDing was QUEStionably SAFE, and NEEDed to be RENovated.</li>
         <li className="list-none margin-bottom-20">Tòa nhà cũ có độ an toàn đáng ngờ và cần được cải tạo.</li>
 
-        <li value="4">Questionably <strong>true</strong> /truː/</li>
-        <li className="list-none">His story seemed ______, and I had my doubts.</li>
+        <li value="4">his STORy SEEMED QUEStionably TRUE, and i had my DOUBTS.</li>
         <li className="list-none margin-bottom-20">Câu chuyện của anh ta có vẻ đáng ngờ về sự thật, và tôi nghi ngờ.</li>
 
-        <li value="5">Questionably <strong>motivated</strong> /ˈmoʊtɪveɪtɪd/</li>
-        <li className="list-none">Her sudden change of heart was ______, and I wondered what she was really up to.</li>
+        <li value="5">her SUDden CHANGE of HEART was QUEStionably MOtivated, and i WONdered what she was REALly UP to.</li>
         <li className="list-none margin-bottom-20">Sự thay đổi đột ngột của cô ấy có hành động đáng ngờ, và tôi tự hỏi cô ấy đang lên kế hoạch gì.</li>
 
-        <li value="6">Questionably <strong>obtained</strong> /əbˈteɪnd/</li>
-        <li className="list-none">The evidence was ______ and could be inadmissible in court.</li>
+        <li value="6">the EVidence was QUEStionably obTAINED and could be inadMISsible in COURT.</li>
         <li className="list-none margin-bottom-20">Bằng chứng được lấy một cách đáng ngờ và có thể không được chấp nhận tại tòa.</li>
 
-        <li value="7">Questionably <strong>qualified</strong> /ˈkwɑːlɪfaɪd/</li>
-        <li className="list-none">He was ______ for the job, and many people doubted his abilities.</li>
+        <li value="7">he was QUEStionably QUALified for the JOB, and many PEOple DOUBTed his aBILities.</li>
         <li className="list-none margin-bottom-20">Anh ta có năng lực đáng ngờ cho công việc đó, và nhiều người nghi ngờ về khả năng của anh ta.</li>
 
-        <li value="8">Questionably <strong>relevant</strong> /ˈrɛləvənt/</li>
-        <li className="list-none">The information presented was ______ to the case.</li>
+        <li value="8">the inforMAtion preSENTed was QUEStionably RELevant to the CASE.</li>
         <li className="list-none margin-bottom-20">Thông tin được trình bày có liên quan một cách đáng ngờ đến vụ án.</li>
 
-        <li value="9">Questionably <strong>fair</strong> /fer/</li>
-        <li className="list-none">The decision was ______, and many people felt they were treated unfairly.</li>
+        <li value="9">the deCISion was QUEStionably FAIR, and many PEOple FELT they were TREATed unFAIRly.</li>
         <li className="list-none margin-bottom-20">Quyết định đó có tính công bằng đáng ngờ, và nhiều người cảm thấy họ bị đối xử bất công.</li>
 
-        <li value="10">Questionably <strong>honest</strong> /ˈɒnɪst/</li>
-        <li className="list-none">His explanation seemed ______, and I didn't believe him.</li>
+        <li value="10">his explaNAtion SEEMED QUEStionably HONest, and i DIDN'T beLIEVE him.</li>
         <li className="list-none margin-bottom-20">Lời giải thích của anh ta có vẻ thành thật một cách đáng ngờ, và tôi không tin anh ta.</li>
 
       </ol>
@@ -116,7 +100,7 @@ export default function Questionably2(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>"<strong>Questionably</strong>" thường được đặt trước Tính Cơ để nhấn mạnh ý nghĩa.</li>
+          <li>"<strong>QUEStionably</strong>" thường được đặt trước Tính Cơ để nhấn mạnh ý nghĩa.</li>
 
           <li className="margin-bottom-20">Từ này thường được sử dụng trong văn viết hoặc nói để tạo ra một hiệu ứng nghi ngờ và cảnh giác.</li>
 
