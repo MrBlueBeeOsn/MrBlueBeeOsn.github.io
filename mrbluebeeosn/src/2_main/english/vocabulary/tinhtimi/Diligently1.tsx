@@ -191,7 +191,7 @@ export default function DILigently1(): React.JSX.Element {
 
           <ol>
 
-            <li>he WORKED on the PROject.</li>
+            <li value="1">he WORKED on the PROject.</li>
             <li className="list-none margin-bottom-20">Anh ấy đã làm việc trên dự án.</li>
 
             <li value="2">he DILigently WORKED on the PROject for HOURS.</li>

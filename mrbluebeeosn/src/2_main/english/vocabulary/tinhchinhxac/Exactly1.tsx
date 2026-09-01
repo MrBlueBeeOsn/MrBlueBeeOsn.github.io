@@ -188,7 +188,7 @@ export default function exACTly1(): React.JSX.Element {
 
           <ol>
 
-            <li>i'll be THERE SOON.</li>
+            <li value="1">i'll be THERE SOON.</li>
             <li className="list-none margin-bottom-20">Tôi sẽ đến đó sớm.</li>
 
             <li value="2">i'll be THERE at exACTly FIVE P.M.</li>

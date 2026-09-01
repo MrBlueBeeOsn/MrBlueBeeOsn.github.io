@@ -196,7 +196,7 @@ export default function CERtainly1(): React.JSX.Element {
 
           <ol>
 
-            <li>i might GO to the MOvies.</li>
+            <li value="1">i might GO to the MOvies.</li>
             <li className="list-none margin-bottom-20">Có thể tôi sẽ đi xem phim.</li>
 
             <li value="2">i will CERtainly GO to the MOvies.</li>

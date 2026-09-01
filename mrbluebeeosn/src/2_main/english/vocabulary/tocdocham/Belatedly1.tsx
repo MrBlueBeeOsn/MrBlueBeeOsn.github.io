@@ -214,7 +214,7 @@ export default function beLAtedly1(): React.JSX.Element {
 
           <ol>
 
-            <li>he REALized his misTAKE.</li>
+            <li value="1">he REALized his misTAKE.</li>
             <li className="list-none margin-bottom-20">Anh ấy nhận ra sai lầm của mình.</li>
 
             <li value="2">he beLAtedly REALized his misTAKE.</li>

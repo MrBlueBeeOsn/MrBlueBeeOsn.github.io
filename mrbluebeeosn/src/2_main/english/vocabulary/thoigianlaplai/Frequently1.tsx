@@ -193,7 +193,7 @@ export default function FREquently1(): React.JSX.Element {
 
           <ol>
 
-            <li>i GO to the GYM.</li>
+            <li value="1">i GO to the GYM.</li>
             <li className="list-none margin-bottom-20">Tôi đi đến phòng tập thể dục.</li>
 
             <li value="2">i FREquently GO to the GYM to EXercise.</li>

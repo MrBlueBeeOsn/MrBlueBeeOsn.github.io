@@ -195,7 +195,7 @@ export default function DEFinitely1(): React.JSX.Element {
 
           <ol>
 
-            <li>i MIGHT GO to the MOvies.</li>
+            <li value="1">i MIGHT GO to the MOvies.</li>
             <li className="list-none margin-bottom-20">Có thể tôi sẽ đi xem phim.</li>
 
             <li value="2">i will DEFinitely GO to the MOvies.</li>

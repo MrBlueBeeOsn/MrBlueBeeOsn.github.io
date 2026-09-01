@@ -190,7 +190,7 @@ export default function SUREly1(): React.JSX.Element {
 
           <ol>
 
-            <li>he will WIN the GAME.</li>
+            <li value="1">he will WIN the GAME.</li>
             <li className="list-none margin-bottom-20">Anh ấy sẽ thắng trận đấu.</li>
 
             <li value="2">SUREly he will WIN the GAME. he's been PRACticing so HARD</li>

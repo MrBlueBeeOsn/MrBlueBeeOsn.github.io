@@ -191,7 +191,7 @@ export default function corRECTly1(): React.JSX.Element {
 
           <ol>
 
-            <li>he ANswered the QUEStion.</li>
+            <li value="1">he ANswered the QUEStion.</li>
             <li className="list-none margin-bottom-20">Anh ấy đã trả lời câu hỏi.</li>
 
             <li value="2">he ANswered the QUEStion corRECTly.</li>

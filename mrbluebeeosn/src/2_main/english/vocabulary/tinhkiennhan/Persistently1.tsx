@@ -196,7 +196,7 @@ export default function perSIStently1(): React.JSX.Element {
 
           <ol>
 
-            <li>he TRIED to FIX the CAR.</li>
+            <li value="1">he TRIED to FIX the CAR.</li>
             <li className="list-none margin-bottom-20">Anh ấy cố sửa chiếc xe.</li>
 
             <li value="2">he perSIStently TRIED to FIX the CAR for HOURS.</li>

@@ -194,7 +194,7 @@ export default function VISibly1(): React.JSX.Element {
 
           <ol>
 
-            <li>he was SAD.</li>
+            <li value="1">he was SAD.</li>
             <li className="list-none margin-bottom-20">Anh ấy buồn.</li>
 
             <li value="2">he was VISibly SAD, with TEARS in his EYES.</li>

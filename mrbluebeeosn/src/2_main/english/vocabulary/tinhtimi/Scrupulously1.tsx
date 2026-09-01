@@ -200,7 +200,7 @@ export default function SCRUpulously1(): React.JSX.Element {
 
           <ol>
 
-            <li>he FOLlowed the inSTRUCtions.</li>
+            <li value="1">he FOLlowed the inSTRUCtions.</li>
             <li className="list-none margin-bottom-20">Anh ấy tuân theo các hướng dẫn.</li>
 
             <li value="2">he FOLlowed the inSTRUCtions SCRUpulously.</li>

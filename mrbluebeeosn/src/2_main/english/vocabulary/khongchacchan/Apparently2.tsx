@@ -5,9 +5,9 @@ import EyeIcon from '@/components/view/EyeIcon';
 import ViewCounter from '@/components/view/ViewCounter';
 import LikeButton from '@/components/like/LikeButton';
 
-export default function Apparently2(): React.JSX.Element {
+export default function apPARently2(): React.JSX.Element {
 
-  const postId = "Apparently2";
+  const postId = "apPARently2";
 
   return (<>
 
@@ -17,18 +17,18 @@ export default function Apparently2(): React.JSX.Element {
     
       <h4><HashLink smooth to="/vocabulary#khong-chac-chan-terms"><mark className="highlight-tertiary-padding-4-8">ADverbs: không chắc</mark></HashLink></h4>
       
-      <h1 className="margin-y-50 text-center">apparently
+      <h1 className="margin-y-50 text-center">apPARently
         <sup>
-          <Link to="/vocabulary/apparently-1">&nbsp;1&nbsp;</Link>
+          <Link to="/vocabulary/apPARently-1">&nbsp;1&nbsp;</Link>
         </sup>
         <sup>
-          <Link to="/vocabulary/apparently-2">&nbsp;2&nbsp;</Link>
+          <Link to="/vocabulary/apPARently-2">&nbsp;2&nbsp;</Link>
         </sup>
       </h1>
 
       {/* This is the content of Vocabulary Term. */}
 
-      <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>apparently</strong>" (dường như) và các cụm từ hay đi kèm nhé.</p>
+      <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>apPARently</strong>" (dường như) và các cụm từ hay đi kèm nhé.</p>
 
       <div className="text-border1 padding-10 highlight-238-padding-4-8 bee-container">
 
@@ -36,15 +36,9 @@ export default function Apparently2(): React.JSX.Element {
 
           <p className="margin-y-10">
             
-            <strong>Apparently&nbsp;</strong>
-            
             <span className="highlight-255-padding-3-6">
               
-              [apPArently][ap PAR ent ly] /əˈpærəntli/ + /
-              
-              <Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">appare̛ntly</Link>/ 
-              
-              &nbsp;•⬤•• (4x)
+              [apPARently][<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">a̛p PAR e̛nt ly</Link>] /əˈpærəntli/ •⬤•• (4x)
               
             </span>
               
@@ -62,44 +56,34 @@ export default function Apparently2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1">Apparently <strong>impossible</strong> /ɪmˈpɒsəbl/</li>
-        <li className="list-none">The task seemed ______, but he managed to complete it.</li>
+        <li value="1">the TASK SEEMED apPARently imPOSsible, but he MANaged to comPLETE it.</li>
         <li className="list-none margin-bottom-20">Công việc đó dường như không thể, nhưng anh ấy đã hoàn thành nó.</li>
 
-        <li value="2">Apparently <strong>true</strong> /truː/</li>
-        <li className="list-none">______, she is leaving the company next week.</li>
+        <li value="2">apPARently TRUE, she is LEAVing the COMpany NEXT WEEK.</li>
         <li className="list-none margin-bottom-20">Dường như là đúng, cô ấy sẽ rời công ty vào tuần tới.</li>
 
-        <li value="3">Apparently <strong>random</strong> /ˈrændəm/</li>
-        <li className="list-none">The numbers appeared to be ______, but there was a pattern.</li>
+        <li value="3">the NUMbers apPEARED to be apPARently RANdom, but there was a PATtern.</li>
         <li className="list-none margin-bottom-20">Những con số dường như ngẫu nhiên, nhưng có một quy luật.</li>
 
-        <li value="4">Apparently <strong>harmless</strong> /ˈhɑːmləs/</li>
-        <li className="list-none">The snake looked ______, but it was poisonous.</li>
+        <li value="4">the SNAKE LOOKED apPARently HARMless, but it was POIsonous.</li>
         <li className="list-none margin-bottom-20">Con rắn trông dường như vô hại, nhưng nó lại độc.</li>
 
-        <li value="5">Apparently <strong>simple</strong> /ˈsɪmpl/</li>
-        <li className="list-none">The problem seemed ______, but it was actually very complex.</li>
+        <li value="5">the PROBlem SEEMED apPARently SIMple, but it was ACtually VERy COMplex.</li>
         <li className="list-none margin-bottom-20">Vấn đề dường như đơn giản, nhưng thực ra rất phức tạp.</li>
 
-        <li value="6">Apparently <strong>unrelated</strong> /ʌnˈrɪleɪtɪd/</li>
-        <li className="list-none">The two events seemed ______, but they were connected.</li>
+        <li value="6">the TWO eVENTS SEEMED apPARently unreLAted, but they were conNECTed.</li>
         <li className="list-none margin-bottom-20">Hai sự kiện dường như không liên quan, nhưng chúng lại có mối liên hệ với nhau.</li>
 
-        <li value="7">Apparently <strong>satisfied</strong> /ˈsætɪsfaɪd/</li>
-        <li className="list-none">She nodded, ______ with his answer.</li>
+        <li value="7">she NODded, apPARently SATisfied with his ANswer.</li>
         <li className="list-none margin-bottom-20">Cô ấy gật đầu, dường như hài lòng với câu trả lời của anh ấy.</li>
 
-        <li value="8">Apparently <strong>confused</strong> /kənˈfjuːzd/</li>
-        <li className="list-none">He looked around, ______.</li>
+        <li value="8">he LOOKED aROUND, apPARently conFUSED.</li>
         <li className="list-none margin-bottom-20">Anh ta nhìn xung quanh, dường như đang bối rối.</li>
 
-        <li value="9">Apparently <strong>forgotten</strong> /fəˈɡɒtən/</li>
-        <li className="list-none">The book was ______ on the train.</li>
+        <li value="9">the BOOK was apPARently forGOTten on the TRAIN.</li>
         <li className="list-none margin-bottom-20">Cuốn sách dường như đã bị quên trên tàu.</li>
 
-        <li value="10">Apparently <strong>aware</strong> /əˈwer/</li>
-        <li className="list-none">She smiled, ______ of his feelings.</li>
+        <li value="10">she SMILED, apPARently aWARE of his FEELings.</li>
         <li className="list-none margin-bottom-20">Cô ấy mỉm cười, dường như nhận thức được cảm xúc của anh ấy.</li>
 
       </ol>
@@ -116,9 +100,9 @@ export default function Apparently2(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>"<strong>Apparently</strong>" thường đứng ở đầu câu hoặc trước một Tính Cơ hoặc danh cụm.</li>
+          <li>"<strong>apPARently</strong>" thường đứng ở đầu câu hoặc trước một Tính Cơ hoặc danh cụm.</li>
 
-          <li className="margin-bottom-20">Từ này có thể được thay thế bằng các từ đồng nghĩa như "seemingly", "evidently", "ostensibly" để tạo sự đa dạng trong văn phong.</li>
+          <li className="margin-bottom-20">Từ này có thể được thay thế bằng các từ đồng nghĩa như "SEEMingly", "<Link to="/vocabulary/EVidently-1">EVidently</Link>", "osTENsibly" để tạo sự đa dạng trong văn phong.</li>
 
         </ul>
 

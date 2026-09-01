@@ -202,7 +202,7 @@ export default function atTENtively1(): React.JSX.Element {
 
           <ol>
 
-            <li>he LIStened to the LECture.</li>
+            <li value="1">he LIStened to the LECture.</li>
             <li className="list-none margin-bottom-20">Anh ấy nghe bài giảng.</li>
 
             <li value="2">he LIStened to the LECture atTENtively.</li>

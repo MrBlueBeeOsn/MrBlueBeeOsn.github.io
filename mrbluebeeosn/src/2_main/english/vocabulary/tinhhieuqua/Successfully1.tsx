@@ -193,7 +193,7 @@ export default function sucCESSfully1(): React.JSX.Element {
 
           <ol>
 
-            <li>he TRIED to CLIMB the MOUNtain.</li>
+            <li value="1">he TRIED to CLIMB the MOUNtain.</li>
             <li className="list-none margin-bottom-20">Anh ấy đã cố gắng leo lên núi.</li>
 
             <li value="2">he sucCESSfully CLIMBED the MOUNtain.</li>

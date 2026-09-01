@@ -194,7 +194,7 @@ export default function EVidently1(): React.JSX.Element {
 
           <ol>
 
-            <li>she was SAD.</li>
+            <li value="1">she was SAD.</li>
             <li className="list-none margin-bottom-20">Cô ấy buồn.</li>
 
             <li value="2">she was EVidently SAD, with RED, PUFFy EYES.</li>

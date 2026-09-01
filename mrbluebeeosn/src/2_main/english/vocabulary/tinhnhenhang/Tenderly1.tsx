@@ -208,7 +208,7 @@ export default function TENderly1(): React.JSX.Element {
 
           <ol>
 
-            <li>he KISSED her.</li>
+            <li value="1">he KISSED her.</li>
             <li className="list-none margin-bottom-20">Anh ấy hôn cô ấy.</li>
 
             <li value="2">he TENderly KISSED her.</li>

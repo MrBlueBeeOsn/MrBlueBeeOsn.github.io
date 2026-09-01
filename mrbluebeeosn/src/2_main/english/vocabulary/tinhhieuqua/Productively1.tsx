@@ -224,7 +224,7 @@ export default function proDUCtively1(): React.JSX.Element {
 
           <ol>
 
-            <li>she SPENT her MORNing WORKing.</li>
+            <li value="1">she SPENT her MORNing WORKing.</li>
             <li className="list-none margin-bottom-20">Cô ấy đã dành buổi sáng của mình để làm việc.</li>
 
             <li value="2">she SPENT her MORNing proDUCtively, FINishING SEVERal imPORTant TASKS.</li>

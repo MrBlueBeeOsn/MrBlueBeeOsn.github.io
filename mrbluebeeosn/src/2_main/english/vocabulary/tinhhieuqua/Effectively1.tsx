@@ -193,7 +193,7 @@ export default function efFECtively1(): React.JSX.Element {
 
           <ol>
 
-            <li>she STUDied for the exAM.</li>
+            <li value="1">she STUDied for the exAM.</li>
             <li className="list-none margin-bottom-20">Cô ấy đã học bài cho kỳ thi.</li>
 
             <li value="2">she STUDied efFECtively for the exAM and GOT a HIGH SCORE.</li>

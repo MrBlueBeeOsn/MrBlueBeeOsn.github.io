@@ -193,7 +193,7 @@ export default function REALly1(): React.JSX.Element {
 
           <ol>
 
-            <li>i LIKE PIZza.</li>
+            <li value="1">i LIKE PIZza.</li>
             <li className="list-none margin-bottom-20">Tôi thích pizza.</li>
 
             <li value="2">i REALly LIKE PIZza.</li>

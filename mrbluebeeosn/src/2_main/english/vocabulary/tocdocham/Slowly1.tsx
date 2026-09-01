@@ -193,7 +193,7 @@ export default function SLOWly1(): React.JSX.Element {
 
           <ol>
 
-            <li>he FINished his WORK.</li>
+            <li value="1">he FINished his WORK.</li>
             <li className="list-none margin-bottom-20">Anh ấy đã hoàn thành công việc.</li>
 
             <li value="2">he SLOWly FINished his WORK.</li>

@@ -191,7 +191,7 @@ export default function ACcurately1(): React.JSX.Element {
 
           <ol>
 
-            <li>he EStimated the COST.</li>
+            <li value="1">he EStimated the COST.</li>
             <li className="list-none margin-bottom-20">Anh ấy ước tính chi phí.</li>
 
             <li value="2">he ACcurately CALculated the COST.</li>

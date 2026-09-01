@@ -203,7 +203,7 @@ export default function PRESently1(): React.JSX.Element {
 
           <ol>
 
-            <li>i will GO to the STORE <Link to="/vocabulary/NOW-1">NOW</Link>.</li>
+            <li value="1">i will GO to the STORE <Link to="/vocabulary/NOW-1">NOW</Link>.</li>
             <li className="list-none margin-bottom-20">Tôi sẽ đi đến cửa hàng bây giờ.</li>
 
             <li value="2">i will GO to the STORE PRESendly.</li>

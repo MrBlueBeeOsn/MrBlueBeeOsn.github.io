@@ -190,7 +190,7 @@ export default function DELicately1(): React.JSX.Element {
 
           <ol>
 
-            <li>he CLOSED the DOOR.</li>
+            <li value="1">he CLOSED the DOOR.</li>
             <li className="list-none margin-bottom-20">Anh ấy đóng cửa.</li>
 
             <li value="2">he DELicately CLOSED the DOOR so as NOT to WAKE the BAby.</li>

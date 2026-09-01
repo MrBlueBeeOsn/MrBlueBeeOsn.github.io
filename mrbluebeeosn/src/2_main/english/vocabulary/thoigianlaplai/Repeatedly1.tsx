@@ -196,7 +196,7 @@ export default function rePEATedly1(): React.JSX.Element {
 
           <ol>
 
-            <li>he MADE a misTAKE.</li>
+            <li value="1">he MADE a misTAKE.</li>
             <li className="list-none margin-bottom-20">Anh ấy mắc một lỗi.</li>
 
             <li value="2">he rePEATedly MADE the SAME misTAKE.</li>

@@ -193,7 +193,7 @@ export default function HONestly1(): React.JSX.Element {
 
           <ol>
 
-            <li>i LIKE PIZza.</li>
+            <li value="1">i LIKE PIZza.</li>
             <li className="list-none margin-bottom-20">Tôi thích PIZza.</li>
 
             <li value="2">HONestly, i LOVE PIZza. it's my FAvorite FOOD.</li>

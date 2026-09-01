@@ -193,7 +193,7 @@ export default function absoLUTEly1(): React.JSX.Element {
 
           <ol>
 
-            <li>i LIKE APples.</li>
+            <li value="1">i LIKE APples.</li>
             <li className="list-none margin-bottom-20">Tôi thích táo.</li>
 
             <li value="2">i absoLUTEly aDORE APples.</li>

@@ -205,7 +205,7 @@ export default function GRADually1(): React.JSX.Element {
 
           <ol>
 
-            <li>the PLANT GREW <Link to="/vocabulary/QUICKly-1">QUICKly</Link>.</li>
+            <li value="1">the PLANT GREW <Link to="/vocabulary/QUICKly-1">QUICKly</Link>.</li>
             <li className="list-none margin-bottom-20">Cây lớn nhanh.</li>
 
             <li value="2">the PLANT GREW GRADually over the SUMmer.</li>

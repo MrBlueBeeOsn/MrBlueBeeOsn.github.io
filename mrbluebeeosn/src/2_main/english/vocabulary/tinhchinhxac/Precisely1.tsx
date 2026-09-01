@@ -200,7 +200,7 @@ export default function preCISEly1(): React.JSX.Element {
 
           <ol>
 
-            <li>he MEASured the inGREdients.</li>
+            <li value="1">he MEASured the inGREdients.</li>
             <li className="list-none margin-bottom-20">Anh ấy đo các nguyên liệu.</li>
 
             <li value="2">he MEASured the inGREdients preCISEly.</li>

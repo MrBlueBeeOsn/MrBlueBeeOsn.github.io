@@ -193,7 +193,7 @@ export default function (): React.JSX.Element {
 
           <ol>
 
-            <li>he SAID he LIKED my PAINting.</li>
+            <li value="1">he SAID he LIKED my PAINting.</li>
             <li className="list-none margin-bottom-20">Anh ấy nói rằng anh ấy thích bức tranh của tôi.</li>
 
             <li value="2">he GENuinely adMIREd my PAINting.</li>

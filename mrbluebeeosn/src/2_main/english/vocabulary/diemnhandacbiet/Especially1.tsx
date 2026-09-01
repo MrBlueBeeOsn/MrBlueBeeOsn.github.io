@@ -190,7 +190,7 @@ export default function esPECially1(): React.JSX.Element {
 
           <ol>
 
-            <li>i LIKE to EAT VEGETables.</li>
+            <li value="1">i LIKE to EAT VEGETables.</li>
             <li className="list-none margin-bottom-20">Tôi thích ăn rau.</li>
 
             <li value="2">i LIKE to EAT VEGETables, esPECially BROCcoli.</li>

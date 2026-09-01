@@ -200,7 +200,7 @@ export default function PAINStakingly1(): React.JSX.Element {
 
           <ol>
 
-            <li>he reSTORED the OLD PAINting.</li>
+            <li value="1">he reSTORED the OLD PAINting.</li>
             <li className="list-none margin-bottom-20">Anh ấy khôi phục bức tranh cũ.</li>
 
             <li value="2">he PAINStakingly reSTORED the OLD PAINting.</li>

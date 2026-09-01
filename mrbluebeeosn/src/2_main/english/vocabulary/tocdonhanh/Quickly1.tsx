@@ -195,7 +195,7 @@ export default function QUICKly1(): React.JSX.Element {
 
           <ol>
 
-            <li>he FINished the TASK.</li>
+            <li value="1">he FINished the TASK.</li>
             <li className="list-none margin-bottom-20">Anh ấy đã hoàn thành công việc.</li>
 
             <li value="2">he QUICKly FINished the TASK.</li>

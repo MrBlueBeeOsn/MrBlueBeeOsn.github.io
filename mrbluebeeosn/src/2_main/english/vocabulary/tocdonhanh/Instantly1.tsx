@@ -193,7 +193,7 @@ export default function INstantly1(): React.JSX.Element {
 
           <ol>
 
-            <li>the WAter BOILED.</li>
+            <li value="1">the WAter BOILED.</li>
             <li className="list-none margin-bottom-20">Nước sôi.</li>
 
             <li value="2">the WAter BOILED INstantly.</li>

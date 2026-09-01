@@ -193,7 +193,7 @@ export default function sinCEREly1(): React.JSX.Element {
 
           <ol>
 
-            <li>THANK you.</li>
+            <li value="1">THANK you.</li>
             <li className="list-none margin-bottom-20">Cảm ơn bạn.</li>
 
             <li value="2">THANK you sinCEREly.</li>

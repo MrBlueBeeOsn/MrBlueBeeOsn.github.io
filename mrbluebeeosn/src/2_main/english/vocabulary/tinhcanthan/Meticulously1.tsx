@@ -193,7 +193,7 @@ export default function meTICulously1(): React.JSX.Element {
 
           <ol>
 
-            <li>he WROTE the rePORT.</li>
+            <li value="1">he WROTE the rePORT.</li>
             <li className="list-none margin-bottom-20">Anh ấy đã viết báo cáo.</li>
 
             <li value="2">he meTICulously WROTE the rePORT.</li>

@@ -188,7 +188,7 @@ export default function THORoughly1(): React.JSX.Element {
 
           <ol>
 
-            <li>he READ the BOOK.</li>
+            <li value="1">he READ the BOOK.</li>
             <li className="list-none margin-bottom-20">Anh ấy đã đọc cuốn sách.</li>
 
             <li value="2">he THORoughly READ the BOOK and underSTOOD every DEtail.</li>

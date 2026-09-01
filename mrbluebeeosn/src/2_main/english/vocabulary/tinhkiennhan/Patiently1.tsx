@@ -205,7 +205,7 @@ export default function PAtiently1(): React.JSX.Element {
 
           <ol>
 
-            <li>he WAITed for his TURN.</li>
+            <li value="1">he WAITed for his TURN.</li>
             <li className="list-none margin-bottom-20">Anh ấy chờ đến lượt của mình.</li>
 
             <li value="2">he WAITed PAtiently for his TURN.</li>

@@ -195,7 +195,7 @@ export default function SUDdenly1(): React.JSX.Element {
 
           <ol>
 
-            <li>the TRAIN arRIVED.</li>
+            <li value="1">the TRAIN arRIVED.</li>
             <li className="list-none margin-bottom-20">Tàu đến.</li>
 
             <li value="2">the TRAIN SUDdenly arRIVED.</li>

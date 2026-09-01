@@ -193,7 +193,7 @@ export default function CAREfully1(): React.JSX.Element {
 
           <ol>
 
-            <li>he CROSSED the STREET.</li>
+            <li value="1">he CROSSED the STREET.</li>
             <li className="list-none margin-bottom-20">Anh ấy băng qua đường.</li>
 
             <li value="2">he CAREfully CROSSED the STREET because there was a LOT of TRAFfic.</li>

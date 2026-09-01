@@ -196,7 +196,7 @@ export default function Openly1(): React.JSX.Element {
 
           <ol>
 
-            <li>he supPORTed the TEAM.</li>
+            <li value="1">he supPORTed the TEAM.</li>
             <li className="list-none margin-bottom-20">Anh ấy ủng hộ đội.</li>
 
             <li value="2">he Openly supPORTed the TEAM.</li>

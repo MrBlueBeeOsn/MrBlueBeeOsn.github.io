@@ -5,9 +5,9 @@ import EyeIcon from '@/components/view/EyeIcon';
 import ViewCounter from '@/components/view/ViewCounter';
 import LikeButton from '@/components/like/LikeButton';
 
-export default function Apparently1(): React.JSX.Element {
+export default function apPARently1(): React.JSX.Element {
 
-  const postId = "Apparently1";
+  const postId = "apPARently1";
 
   return (<>
 
@@ -17,29 +17,26 @@ export default function Apparently1(): React.JSX.Element {
     
       <h4><HashLink smooth to="/vocabulary#khong-chac-chan-terms"><mark className="highlight-tertiary-padding-4-8">ADverbs: không chắc</mark></HashLink></h4>
       
-      <h1 className="margin-y-50 text-center">apparently
-        <sup><Link to="/vocabulary/apparently-1">&nbsp;1&nbsp;</Link>
+      <h1 className="margin-y-50 text-center">apPARently
+        <sup><Link to="/vocabulary/apPARently-1">&nbsp;1&nbsp;</Link>
         </sup>
-        <sup><Link to="/vocabulary/apparently-2">&nbsp;2&nbsp;</Link>
+        <sup><Link to="/vocabulary/apPARently-2">&nbsp;2&nbsp;</Link>
         </sup>
       </h1>
 
       {/* This is the content of Vocabulary Term. */}
       
-      <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>apparently</strong>"!</p>
+      <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>apPARently</strong>"!</p>
 
       <div className="text-border1 padding-top-20 padding-bottom-10 highlight-238-padding-4-8 bee-container">
 
         <div>
 
-          <p className="margin-bottom-20"><strong>Apparently</strong></p>
-
           <ul className="list-square padding-left-40">
 
             <li>
               <span className="highlight-255-padding-3-6">
-                [apPArently][ap PAR ent ly] /əˈpærəntli/ + /<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">appare̛ntly</Link>/
-                &nbsp;•⬤•• (4x)
+                [apPARently][<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">a̛p PAR e̛nt ly</Link>] /əˈpærəntli/ •⬤•• (4x)
               </span>
             </li>
 
@@ -57,16 +54,16 @@ export default function Apparently1(): React.JSX.Element {
 
       </div>
 
-      <p className="margin-top-30 text-indent-whole">Từ "<strong>apparently</strong>" được dùng để diễn tả một điều gì đó được cho là đúng hoặc có thật dựa trên thông tin hiện có, mặc dù người nói không hoàn toàn chắc chắn về điều đó. Nó thường được sử dụng khi người nói đang truyền đạt thông tin mà họ đã nghe được từ người khác hoặc dựa trên những gì họ quan sát được.</p>
+      <p className="margin-top-30 text-indent-whole">Từ "<strong>apPARently</strong>" được dùng để diễn tả một điều gì đó được cho là đúng hoặc có thật dựa trên thông tin hiện có, mặc dù người nói không hoàn toàn chắc chắn về điều đó. Nó thường được sử dụng khi người nói đang truyền đạt thông tin mà họ đã nghe được từ người khác hoặc dựa trên những gì họ quan sát được.</p>
 
       <p className="margin-top-20 text-indent-whole">Ví dụ:</p>
 
         <ul className="list-square">
 
-          <li>______, it's going to rain tomorrow.</li>
+          <li>apPARently, it's GOing to RAIN toMORrow.</li>
           <li className="margin-bottom-20 list-none">Hình như mai trời sẽ mưa.</li>
 
-          <li>______, she's moving to a new city.</li>
+          <li>apPARently, she's MOving to a NEW CITy.</li>
           <li className="list-none">Hình như cô ấy sẽ chuyển đến thành phố mới.</li>
 
         </ul>
@@ -83,8 +80,7 @@ export default function Apparently1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Apparent (adj) /əˈpærənt/</li>
-          <li className="list-none">It's ______ that she's tired.</li>
+          <li>it's apPARent that she's TIred.</li>
           <li className="list-none">Rõ ràng là cô ấy mệt mỏi.</li>
 
         </ul>
@@ -101,12 +97,10 @@ export default function Apparently1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Seemingly /ˈsiːmɪŋli/</li>
-          <li className="list-none">______, he's happy with his new job.</li>
+          <li>SEEMingly, he's HAPpy with his NEW JOB.</li>
           <li className="margin-bottom-20 list-none">Có vẻ như anh ấy hài lòng với công việc mới.</li>
 
-          <li>Evidently /ˈevɪdəntli/</li>
-          <li className="list-none">______, she's been studying hard.</li>
+          <li><Link to="/vocabulary/EVidently-1">EVidently</Link>, she's been STUDying HARD.</li>
           <li className="list-none">Rõ ràng là cô ấy đã học rất chăm chỉ.</li>
 
         </ul>
@@ -125,12 +119,10 @@ export default function Apparently1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Uncertainly /ʌnˈsɜːrtnli/</li>
-          <li className="list-none">I looked ______ at his plans.</li>
+          <li>i LOOKED unCERtainly at his PLANS.</li>
           <li className="margin-bottom-20 list-none">Tôi nhìn vào những kế hoạch của anh ấy một cách đầy vẻ không chắc chắn.</li>
 
-          <li>Doubtfully /ˈdaʊtfəli/</li>
-          <li className="list-none">He looked at me ______.</li>
+          <li>he LOOKED at me DOUBTfully.</li>
           <li className="list-none">Anh ấy nhìn tôi một cách nghi ngờ.</li>
 
         </ul>
@@ -156,7 +148,7 @@ export default function Apparently1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>______, he's really into that article.</li>
+          <li>apPARently, he's <Link to="/vocabulary/REALly-1">REALly</Link> into that ARticle.</li>
           <li className="list-none">Hình như anh ấy rất thích bài báo đó.</li>
 
         </ul>
@@ -172,11 +164,11 @@ export default function Apparently1(): React.JSX.Element {
         <strong>&nbsp;ví dụ</strong>:
       </p>
 
-      <p className="text-indent-whole">Tự tạo các câu ví dụ khác nhau với từ "<strong>apparently</strong>" trong nhiều ngữ cảnh khác nhau.</p>
+      <p className="text-indent-whole">Tự tạo các câu ví dụ khác nhau với từ "<strong>apPARently</strong>" trong nhiều ngữ cảnh khác nhau.</p>
 
         <ul className="list-square">
 
-          <li>______, he quit his job last week.</li>
+          <li>apPARently, he QUIT his JOB LAST WEEK.</li>
           <li className="list-none">Hình như anh ấy đã nghỉ việc tuần trước.</li>
 
         </ul>
@@ -198,10 +190,10 @@ export default function Apparently1(): React.JSX.Element {
 
           <ol>
 
-            <li>She knows the answer.</li>
+            <li value="1">she KNOWS the ANswer.</li>
             <li className="list-none margin-bottom-20">Cô ấy biết câu trả lời.</li>
 
-            <li value="2">______, she knows the answer.</li>
+            <li value="2">apPARently, she KNOWS the ANswer.</li>
             <li className="list-none margin-bottom-20">Hình như cô ấy biết câu trả lời.</li>
 
           </ol>
@@ -224,9 +216,9 @@ export default function Apparently1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Mức độ chắc chắn: "<strong>Apparently</strong>" thể hiện mức độ chắc chắn thấp hơn so với các từ như "<Link to="/vocabulary/CLEARly-1">clearly</Link>" (rõ ràng) hoặc "<Link to="/vocabulary/DEFinitely-1">definitely</Link>" (chắc chắn).</li>
+          <li>Mức độ chắc chắn: "<strong>apPARently</strong>" thể hiện mức độ chắc chắn thấp hơn so với các từ như "<Link to="/vocabulary/CLEARly-1">CLEARly</Link>" (rõ ràng) hoặc "<Link to="/vocabulary/DEFinitely-1">DEFinitely</Link>" (chắc chắn).</li>
 
-          <li className="margin-bottom-20">Nguồn tin: Thông tin được đưa ra bằng "<strong>apparently</strong>" có thể đến từ nhiều nguồn khác nhau, chẳng hạn như lời đồn, tin đồn, hoặc quan sát cá nhân.</li>
+          <li className="margin-bottom-20">Nguồn tin: Thông tin được đưa ra bằng "<strong>apPARently</strong>" có thể đến từ nhiều nguồn khác nhau, chẳng hạn như lời đồn, tin đồn, hoặc quan sát cá nhân.</li>
 
         </ul>
 

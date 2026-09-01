@@ -190,7 +190,7 @@ export default function GENTly1(): React.JSX.Element {
 
           <ol>
 
-            <li>he PUSHED the DOOR.</li>
+            <li value="1">he PUSHED the DOOR.</li>
             <li className="list-none margin-bottom-20">Anh ấy đẩy cửa.</li>
 
             <li value="2">he PUSHED the DOOR GENTly.</li>

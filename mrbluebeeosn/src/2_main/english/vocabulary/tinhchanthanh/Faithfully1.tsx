@@ -193,7 +193,7 @@ export default function FAITHfully1(): React.JSX.Element {
 
           <ol>
 
-            <li>he FINished the PROJect.</li>
+            <li value="1">he FINished the PROJect.</li>
             <li className="list-none margin-bottom-20">Anh ấy đã hoàn thành dự án.</li>
 
             <li value="2">he FAITHfully FINished the PROJect on TIME.</li>

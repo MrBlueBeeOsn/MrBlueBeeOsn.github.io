@@ -217,7 +217,7 @@ export default function STEADily1(): React.JSX.Element {
 
           <ol>
 
-            <li>the RAIN FELL throughout the NIGHT.</li>
+            <li value="1">the RAIN FELL throughout the NIGHT.</li>
             <li className="list-none margin-bottom-20">Mưa rơi suốt đêm.</li>
 
             <li value="2">the RAIN FELL STEADily throughout the NIGHT.</li>

@@ -193,7 +193,7 @@ export default function TIRElessly1(): React.JSX.Element {
 
           <ol>
 
-            <li>he TRIED to SOLVE the PROBlem</li>
+            <li value="1">he TRIED to SOLVE the PROBlem</li>
             <li className="list-none margin-bottom-20">Anh ấy đã cố gắng giải quyết vấn đề.</li>
 
             <li value="2">he WORKED TIRElessly to SOLVE the PROBlem.</li>

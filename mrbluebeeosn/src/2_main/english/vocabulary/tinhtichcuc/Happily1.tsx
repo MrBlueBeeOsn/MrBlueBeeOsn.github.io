@@ -193,7 +193,7 @@ export default function HAPpily1(): React.JSX.Element {
 
           <ol>
 
-            <li>she WENT to WORK.</li>
+            <li value="1">she WENT to WORK.</li>
             <li className="list-none margin-bottom-20">Cô ấy đi làm.</li>
 
             <li value="2">she WENT to WORK HAPpily.</li>

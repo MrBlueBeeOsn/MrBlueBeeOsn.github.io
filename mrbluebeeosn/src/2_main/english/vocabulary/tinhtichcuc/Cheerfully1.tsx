@@ -196,7 +196,7 @@ export default function CHEERfully1(): React.JSX.Element {
 
           <ol>
 
-            <li>he ANswered the QUEStion.</li>
+            <li value="1">he ANswered the QUEStion.</li>
             <li className="list-none margin-bottom-20">Anh ấy trả lời câu hỏi.</li>
 
             <li value="2">he ANswered the QUEStion CHEERfully.</li>

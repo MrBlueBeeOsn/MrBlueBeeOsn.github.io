@@ -191,7 +191,7 @@ export default function CLEARly1(): React.JSX.Element {
 
           <ol>
 
-            <li>i underSTAND.</li>
+            <li value="1">i underSTAND.</li>
             <li className="list-none margin-bottom-20">Tôi hiểu.</li>
 
             <li value="2">i underSTAND CLEARly.</li>

@@ -193,7 +193,7 @@ export default function efFICiently1(): React.JSX.Element {
 
           <ol>
 
-            <li>he FINished the rePORT.</li>
+            <li value="1">he FINished the rePORT.</li>
             <li className="list-none margin-bottom-20">Anh ấy đã hoàn thành báo cáo.</li>
 
             <li value="2">he FINished the rePORT efFICiently in JUST ONE HOUR.</li>

@@ -220,7 +220,7 @@ export default function CAUtiously1(): React.JSX.Element {
 
           <ol>
 
-            <li>he apPROACHED the DOG.</li>
+            <li value="1">he apPROACHED the DOG.</li>
             <li className="list-none margin-bottom-20">Anh ấy đã tiếp cận con chó.</li>
 
             <li value="2">he CAUtiously apPROACHED the STRAY DOG.</li>

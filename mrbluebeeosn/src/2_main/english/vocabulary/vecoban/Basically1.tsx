@@ -195,7 +195,7 @@ export default function BAsically1(): React.JSX.Element {
 
           <ol>
 
-            <li>i LIKE to EAT VEGEtables.</li>
+            <li value="1">i LIKE to EAT VEGEtables.</li>
             <li className="list-none margin-bottom-20">Tôi thích ăn rau.</li>
 
             <li value="2">BAsically, i LIKE to EAT HEALthy FOOD.</li>
