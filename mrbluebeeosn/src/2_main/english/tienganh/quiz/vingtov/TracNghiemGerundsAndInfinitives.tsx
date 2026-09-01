@@ -22,123 +22,123 @@ export default function TracNghiemGerundsAndInfinitives(): React.JSX.Element {
 	const questions: Question[] = [
 		{
 			id: 1,
-			question: "I am looking forward to _______ my old friends at the party tonight.",
+			question: "i am LOOKing FORward to _______ my OLD FRIENDS at the PARTy toNIGHT.",
 			options: [
-				"meet",
-				"meeting",
-				"met",
-				"to meet"
+				"MEET",
+				"MEETing",
+				"MET",
+				"to MEET"
 			],
 			correctAnswer: 1,
-			explanation: "Cấu trúc \"Look forward to\" là một cụm từ cố định mang ý nghĩa mong đợi một điều gì đó với sự hân hoan. Trong cấu trúc này, từ \"to\" đóng vai trò là một giới cơ chứ không phải là dấu hiệu của hành động nguyên mẫu (To-infinitive), vì vậy theo quy tắc ngữ pháp, sau giới cơ chúng ta phải sử dụng một danh hành động (V-ing)."
+			explanation: "Cấu trúc \"LOOK FORward to\" là một cụm từ cố định mang ý nghĩa mong đợi một điều gì đó với sự hân hoan. Trong cấu trúc này, từ \"to\" đóng vai trò là một giới cơ chứ không phải là dấu hiệu của hành động nguyên mẫu (to-inFINitive), vì vậy theo quy tắc ngữ pháp, sau giới cơ chúng ta phải sử dụng một danh hành động (V-ing)."
 		},
 		{
 			id: 2,
-			question: "My parents don't let me _______ out too late on weekdays.",
+			question: "my PARents DON'T LET me _______ OUT TOO LATE on WEEKdays.",
 			options: [
-				"going",
-				"go",
-				"to go",
-				"gone"
+				"GOing",
+				"GO",
+				"to GO",
+				"GONE"
 			],
 			correctAnswer: 1,
-			explanation: "Cấu trúc \"Let + someone + V (bare-infinitive)\" được dùng để diễn tả việc cho phép ai đó làm gì. Trong cấu trúc này, hành động đi sau danh nhận (me) bắt buộc phải ở dạng nguyên thể không có \"to\"."
+			explanation: "Cấu trúc \"LET + SOMEone + V (BARE-inFINitive)\" được dùng để diễn tả việc cho phép ai đó làm gì. Trong cấu trúc này, hành động đi sau danh nhận (me) bắt buộc phải ở dạng nguyên thể không có \"to\"."
 		},
 		{
 			id: 3,
-			question: "We decided _______ a new car because the old one kept breaking down.",
+			question: "we deCIded _______ a NEW CAR because the OLD ONE KEPT BREAKing DOWN.",
 			options: [
-				"buy",
-				"buying",
-				"to buy",
-				"bought"
+				"BUY",
+				"BUYing",
+				"to BUY",
+				"BOUGHT"
 			],
 			correctAnswer: 2,
-			explanation: "Động cơ \"Decide\" (quyết định) là một trong những hành động luôn đi kèm với hành động nguyên mẫu có \"to\" (To-infinitive) khi muốn diễn tả quyết định thực hiện một hành động nào đó trong tương lai."
+			explanation: "Động cơ \"deCIDE\" (quyết định) là một trong những hành động luôn đi kèm với hành động nguyên mẫu có \"to\" (to-inFINitive) khi muốn diễn tả quyết định thực hiện một hành động nào đó trong tương lai."
 		},
 		{
 			id: 4,
-			question: "It’s no use _______ about the past; you should focus on the future.",
+			question: "it’s no USE _______ about the PAST; you should FOcus on the FUture.",
 			options: [
-				"cry",
-				"to cry",
-				"crying",
-				"cried"
+				"CRY",
+				"to CRY",
+				"CRYing",
+				"CRIED"
 			],
 			correctAnswer: 2,
-			explanation: "\"It’s no use\" là một thành ngữ cố định có nghĩa là \"chẳng ích gì\" hoặc \"vô ích khi làm gì\". Theo quy tắc ngữ pháp, sau cấu trúc này chúng ta luôn sử dụng danh hành động (V-ing)."
+			explanation: "\"it’s no USE\" là một thành ngữ cố định có nghĩa là \"chẳng ích gì\" hoặc \"vô ích khi làm gì\". Theo quy tắc ngữ pháp, sau cấu trúc này chúng ta luôn sử dụng danh hành động (V-ing)."
 		},
 		{
 			id: 5,
-			question: "She suggested _______ to the cinema, but I wanted to stay home.",
+			question: "she sugGESTed _______ to the CINema, but i WANTed to STAY HOME.",
 			options: [
-				"go",
-				"to go",
-				"going",
-				"gone"
+				"GO",
+				"to GO",
+				"GOing",
+				"GONE"
 			],
 			correctAnswer: 2,
-			explanation: "Động cơ \"Suggest\" (gợi ý) khi được theo sau trực tiếp bởi một hành động khác mà không có danh nhận chỉ người thì hành động đó phải được chia ở dạng danh hành động (V-ing)."
+			explanation: "Động cơ \"sugGEST\" (gợi ý) khi được theo sau trực tiếp bởi một hành động khác mà không có danh nhận chỉ người thì hành động đó phải được chia ở dạng danh hành động (V-ing)."
 		},
 		{
 			id: 6,
-			question: "I remember _______ the door, but now I can’t find my keys.",
+			question: "i reMEMber _______ the DOOR, but NOW i CAN’T FIND my KEYS.",
 			options: [
-				"lock",
-				"locking",
-				"to lock",
-				"locked"
+				"LOCK",
+				"LOCKing",
+				"to LOCK",
+				"LOCKED"
 			],
 			correctAnswer: 1,
-			explanation: "Động cơ \"Remember\" có hai cách dùng: \"Remember + to V\" là nhớ phải làm gì (chưa làm), còn \"Remember + V-ing\" là nhớ đã làm gì trong quá khứ. Trong ngữ cảnh này, người nói nhớ về hành động khóa cửa đã thực hiện rồi nên phải dùng dạng V-ing."
+			explanation: "Động cơ \"reMEMber\" có hai cách dùng: \"reMEMber + to V\" là nhớ phải làm gì (chưa làm), còn \"reMEMber + V-ing\" là nhớ đã làm gì trong quá khứ. Trong ngữ cảnh này, người nói nhớ về hành động khóa cửa đã thực hiện rồi nên phải dùng dạng V-ing."
 		},
 		{
 			id: 7,
-			question: "He stopped _______ a cigarette because he realized it was bad for his health.",
+			question: "he STOPPED _______ a cigatRETTE because he REalized it was BAD for his HEALTH.",
 			options: [
-				"smoking",
-				"smoke",
-				"to smoke",
-				"smoked"
+				"SMOking",
+				"SMOKE",
+				"to SMOKE",
+				"SMOKED"
 			],
 			correctAnswer: 0,
-			explanation: "Động cơ \"Stop\" khi đi với \"V-ing\" có nghĩa là dừng hẳn một thói quen hoặc một hành động đang diễn ra. Ở đây, nhân vật này dừng hẳn việc hút thuốc vì lý do sức khỏe nên \"smoking\" là đáp án đúng."
+			explanation: "Động cơ \"STOP\" khi đi với \"V-ing\" có nghĩa là dừng hẳn một thói quen hoặc một hành động đang diễn ra. Ở đây, nhân vật này dừng hẳn việc hút thuốc vì lý do sức khỏe nên \"SMOking\" là đáp án đúng."
 		},
 		{
 			id: 8,
-			question: "It is very difficult _______ a job in this economy.",
+			question: "it is very DIFficult _______ a JOB in this eCONomy.",
 			options: [
-				"find",
-				"finding",
-				"to find",
-				"found"
+				"FIND",
+				"FInding",
+				"to FIND",
+				"FOUND"
 			],
 			correctAnswer: 2,
-			explanation: "Đây là cấu trúc Tính Cơ dùng với danh chủ giả: \"It + be + Adj + to V\". Cấu trúc này dùng để đưa ra nhận xét hoặc đánh giá về việc thực hiện một hành động nào đó."
+			explanation: "Đây là cấu trúc Tính Cơ dùng với danh chủ giả: \"it + be + Adj + to V\". Cấu trúc này dùng để đưa ra nhận xét hoặc đánh giá về việc thực hiện một hành động nào đó."
 		},
 		{
 			id: 9,
-			question: "They managed _______ the project on time despite many difficulties.",
+			question: "they MANaged _______ the PROJect on TIME deSPITE many DIFficulties.",
 			options: [
-				"finish",
-				"to finish",
-				"finishing",
-				"finished"
+				"FINish",
+				"to FINish",
+				"FINishing",
+				"FINished"
 			],
 			correctAnswer: 1,
-			explanation: "Động cơ \"Manage\" mang nghĩa là xoay xở hoặc thành công làm được việc gì đó. Theo sau hành động này, chúng ta luôn sử dụng dạng nguyên mẫu có \"to\" (To-infinitive)."
+			explanation: "Động cơ \"Manage\" mang nghĩa là xoay xở hoặc thành công làm được việc gì đó. Theo sau hành động này, chúng ta luôn sử dụng dạng nguyên mẫu có \"to\" (to-inFINitive)."
 		},
 		{
 			id: 10,
-			question: "Do you mind _______ the window? It’s getting a bit cold in here.",
+			question: "do you MIND CLOsing the WINdow? it’s GETting a BIT COLD in HERE.",
 			options: [
-				"close",
-				"to close",
-				"closing",
-				"closed"
+				"CLOSE",
+				"to CLOSE",
+				"CLOsing",
+				"CLOSED"
 			],
 			correctAnswer: 2,
-			explanation: "Trong các câu hỏi lịch sự với \"Do you mind\" hoặc \"Would you mind\" (Bạn có phiền/ngại làm gì đó không), hành động chính theo sau luôn phải ở dạng danh hành động (V-ing)."
+			explanation: "Trong các câu hỏi lịch sự với \"do you MIND\" hoặc \"would you MIND\" (Bạn có phiền/ngại làm gì đó không), hành động chính theo sau luôn phải ở dạng danh hành động (V-ing)."
 		}
 	];
 
