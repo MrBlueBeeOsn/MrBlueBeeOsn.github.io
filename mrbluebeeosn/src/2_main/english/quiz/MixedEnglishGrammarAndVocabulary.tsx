@@ -30,7 +30,7 @@ export default function MixedEnglishGrammarAndVocabulary(): React.JSX.Element {
 				"GOES"
 			],
 			correctAnswer: 1,
-			explanation: "The sentence contains the past time adverb \"yesterday evening,\" which signals the Past Simple Tense. The Past Simple form of \"go\" is \"went.\""
+			explanation: "The sentence contains the past time adverb \"YESterday EVEning,\" which signals the Past Simple Tense. The Past Simple form of \"GO\" is \"WENT.\""
 		},
 		{
 			id: 2,
@@ -54,7 +54,7 @@ export default function MixedEnglishGrammarAndVocabulary(): React.JSX.Element {
 				"of"
 			],
 			correctAnswer: 2,
-			explanation: "The fixed structure for expressing interest is \"to be interested in + V-ing/Noun\" (to have an interest or concern in something)."
+			explanation: "The fixed structure for expressing interest is \"to be INTERested in + V-ing/Noun\" (to have an INTERest or conCERN in SOMEthing)."
 		},
 		{
 			id: 4,
@@ -66,7 +66,7 @@ export default function MixedEnglishGrammarAndVocabulary(): React.JSX.Element {
 				"MOST exPENsive"
 			],
 			correctAnswer: 0,
-			explanation: "This is a comparative sentence using the word \"than.\" Because \"expensive\" is a long adjective (three syllables), the correct comparative structure is \"more + adjective + than.\""
+			explanation: "This is a comparative sentence using the word \"than.\" Because \"exPENsive\" is a long adjective (three syllables), the correct comparative structure is \"MORE + adjective + than.\""
 		},
 		{
 			id: 5,
@@ -78,7 +78,7 @@ export default function MixedEnglishGrammarAndVocabulary(): React.JSX.Element {
 				"aGO"
 			],
 			correctAnswer: 1,
-			explanation: "In the Present Perfect Tense (I have lived), \"since\" is used before a specific point in time (2010) to indicate when the action started. \"For\" is used for a duration (e.g., for 15 years)."
+			explanation: "In the Present Perfect Tense (i have LIVED), \"since\" is used before a specific point in time (2010) to indicate when the action started. \"for\" is used for a duration (e.g., for fifTEEN YEARS)."
 		},
 		{
 			id: 6,
@@ -90,7 +90,7 @@ export default function MixedEnglishGrammarAndVocabulary(): React.JSX.Element {
 				"PLAYED"
 			],
 			correctAnswer: 2,
-			explanation: "Following verbs expressing preference or enjoyment like \"enjoy,\" the subsequent verb is always in the V-ing form (Gerund)."
+			explanation: "Following verbs expressing preference or enjoyment like \"enJOY,\" the subsequent verb is always in the V-ing form (Gerund)."
 		},
 		{
 			id: 7,
@@ -102,7 +102,7 @@ export default function MixedEnglishGrammarAndVocabulary(): React.JSX.Element {
 				"was TYPED"
 			],
 			correctAnswer: 1,
-			explanation: "The subject, \"The letter,\" is an object and the action is happening \"right now,\" so this requires the Present Continuous Passive voice. The structure is: am/is/are + being + V3/ed."
+			explanation: "The subject, \"the LETter,\" is an object and the action is happening \"RIGHT NOW,\" so this requires the Present Continuous Passive voice. The structure is: am/is/are + being + V3/ed."
 		},
 		{
 			id: 8,
@@ -114,7 +114,7 @@ export default function MixedEnglishGrammarAndVocabulary(): React.JSX.Element {
 				"should"
 			],
 			correctAnswer: 0,
-			explanation: "\"Mustn't\" (must not) is the modal verb used to express strong prohibition or something that is against the rules, which aligns with the phrase \"strictly prohibited.\""
+			explanation: "\"MUSTn't\" (must NOT) is the modal verb used to express strong prohibition or something that is against the rules, which aligns with the phrase \"strictly prohibited.\""
 		},
 		{
 			id: 9,
@@ -126,7 +126,7 @@ export default function MixedEnglishGrammarAndVocabulary(): React.JSX.Element {
 				"a"
 			],
 			correctAnswer: 2,
-			explanation: "\"Any\" is typically used in questions and negative sentences when referring to indefinite quantities. \"Money\" is an uncountable noun."
+			explanation: "\"any\" is typically used in questions and negative sentences when referring to indefinite quantities. \"MONey\" is an uncountable noun."
 		},
 		{
 			id: 10,
@@ -138,7 +138,7 @@ export default function MixedEnglishGrammarAndVocabulary(): React.JSX.Element {
 				"whom"
 			],
 			correctAnswer: 1,
-			explanation: "We need a relative pronoun that refers to a person (\"The man\") and functions as the subject of the verb \"lives\" in the relative clause, making \"who\" the correct choice."
+			explanation: "We need a relative pronoun that refers to a person (\"the MAN\") and functions as the subject of the verb \"LIVES\" in the relative clause, making \"who\" the correct choice."
 		}
 	];
 
