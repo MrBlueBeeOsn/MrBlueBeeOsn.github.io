@@ -22,31 +22,31 @@ export default function MixedEnglishGrammarAndVocabulary(): React.JSX.Element {
 	const questions: Question[] = [
 		{
 			id: 1,
-			question: "She _______ to the cinema with her friends yesterday evening.",
+			question: "she _______ to the CINema with her FRIENDS YESterday EVEning.",
 			options: [
-				"go",
-				"went",
-				"gone",
-				"goes"
+				"GO",
+				"WENT",
+				"GONE",
+				"GOES"
 			],
 			correctAnswer: 1,
 			explanation: "The sentence contains the past time adverb \"yesterday evening,\" which signals the Past Simple Tense. The Past Simple form of \"go\" is \"went.\""
 		},
 		{
 			id: 2,
-			question: "If it rains tomorrow, we _______ the picnic.",
+			question: "if it RAINS toMORrow we _______ the PICnic.",
 			options: [
-				"cancel",
-				"will cancel",
-				"canceled",
-				"would cancel"
+				"CANcel",
+				"will CANcel",
+				"CANceled",
+				"would CANcel"
 			],
 			correctAnswer: 1,
 			explanation: "This is a Type 1 Conditional sentence, which describes a real and possible situation in the future. The structure for the main clause is S + will + V(bare infinitive)."
 		},
 		{
 			id: 3,
-			question: "He is very interested _______ learning new languages.",
+			question: "he is VERy INTERested _______ LEARNing NEW LANGuages.",
 			options: [
 				"on",
 				"at",
@@ -58,59 +58,59 @@ export default function MixedEnglishGrammarAndVocabulary(): React.JSX.Element {
 		},
 		{
 			id: 4,
-			question: "This car is _______ than the one I drove yesterday.",
+			question: "this CAR is _______ than the ONE i DROVE YESterday.",
 			options: [
-				"more expensive",
-				"expensive",
-				"expensiver",
-				"most expensive"
+				"MORE exPENsive",
+				"exPENsive",
+				"exPENsiver",
+				"MOST exPENsive"
 			],
 			correctAnswer: 0,
 			explanation: "This is a comparative sentence using the word \"than.\" Because \"expensive\" is a long adjective (three syllables), the correct comparative structure is \"more + adjective + than.\""
 		},
 		{
 			id: 5,
-			question: "I have lived in this city _______ 2010.",
+			question: "i have LIVED in this CITy _______ 2010.",
 			options: [
 				"for",
 				"since",
 				"in",
-				"ago"
+				"aGO"
 			],
 			correctAnswer: 1,
 			explanation: "In the Present Perfect Tense (I have lived), \"since\" is used before a specific point in time (2010) to indicate when the action started. \"For\" is used for a duration (e.g., for 15 years)."
 		},
 		{
 			id: 6,
-			question: "My brother enjoys _______ football on the weekends.",
+			question: "my BROTHer enJOYS _______ FOOTball on the WEEKends.",
 			options: [
-				"play",
-				"to play",
-				"playing",
-				"played"
+				"PLAY",
+				"to PLAY",
+				"PLAYing",
+				"PLAYED"
 			],
 			correctAnswer: 2,
 			explanation: "Following verbs expressing preference or enjoyment like \"enjoy,\" the subsequent verb is always in the V-ing form (Gerund)."
 		},
 		{
 			id: 7,
-			question: "The letter _______ by the secretary right now.",
+			question: "the LETter _______ by the SECretary RIGHT NOW.",
 			options: [
-				"is typing",
-				"is being typed",
-				"types",
-				"was typed"
+				"is TYping",
+				"is being TYPED",
+				"TYPES",
+				"was TYPED"
 			],
 			correctAnswer: 1,
 			explanation: "The subject, \"The letter,\" is an object and the action is happening \"right now,\" so this requires the Present Continuous Passive voice. The structure is: am/is/are + being + V3/ed."
 		},
 		{
 			id: 8,
-			question: "You _______ smoke here. It is strictly prohibited.",
+			question: "you _______ SMOKE HERE. it is STRICTly proHIBited.",
 			options: [
-				"mustn't",
-				"needn't",
-				"don't have to",
+				"MUSTn't",
+				"NEEDn't",
+				"DON'T have to",
 				"should"
 			],
 			correctAnswer: 0,
@@ -118,7 +118,7 @@ export default function MixedEnglishGrammarAndVocabulary(): React.JSX.Element {
 		},
 		{
 			id: 9,
-			question: "Do you have _______ money left in your wallet?",
+			question: "do you have _______ MONey LEFT in your WALlet?",
 			options: [
 				"some",
 				"many",
@@ -130,7 +130,7 @@ export default function MixedEnglishGrammarAndVocabulary(): React.JSX.Element {
 		},
 		{
 			id: 10,
-			question: "The man _______ lives next door is a doctor.",
+			question: "the MAN _______ LIVES NEXT DOOR is a DOCtor.",
 			options: [
 				"which",
 				"who",
