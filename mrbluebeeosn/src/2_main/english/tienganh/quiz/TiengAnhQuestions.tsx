@@ -22,43 +22,43 @@ export default function TiengAnhQuestions(): React.JSX.Element {
 	const questions: Question[] = [
 		{
 			id: 1,
-			question: "Choose the word that has the main stress placed differently from the others.",
+			question: "CHOOSE the WORD that has the MAIN STRESS PLACED DIFFERently from the OTHers.",
 			options: [
-				"necessary",
-				"difficulty",
-				"economy",
-				"reliable"
+				"NECessary",
+				"DIFficulty",
+				"eCONomy",
+				"reLIable"
 			],
 			correctAnswer: 2,
-			explanation: "necessary /'nɛsəsəri/ (Trọng âm rơi vào âm tiết thứ nhất). difficulty /'dɪfɪkəlti/ (Trọng âm rơi vào âm tiết thứ nhất). economy /ɪ'kɒnəmi/ (Trọng âm rơi vào âm tiết thứ hai). reliable /rɪ'laɪəbəl/ (Trọng âm rơi vào âm tiết thứ hai). economy có trọng âm rơi vào âm tiết thứ hai, khác biệt so với necessary và difficulty (trọng âm 1)."
+			explanation: "NECessary /'nɛsəsəri/ (Trọng âm rơi vào âm tiết thứ nhất). DIFficulty /'dɪfɪkəlti/ (Trọng âm rơi vào âm tiết thứ nhất). eCONomy /ɪ'kɒnəmi/ (Trọng âm rơi vào âm tiết thứ hai). reLIable /rɪ'laɪəbəl/ (Trọng âm rơi vào âm tiết thứ hai). eCONomy có trọng âm rơi vào âm tiết thứ hai, khác biệt so với NECessary và DIFficulty (trọng âm 1)."
 		},
 		{
 			id: 2,
-			question: "If I had known about the traffic jam, I _______ a different route.",
+			question: "if i had KNOWN about the TRAFfic JAM, i _______ a DIFFERent ROUTE.",
 			options: [
-				"would take",
-				"would have taken",
-				"had taken",
-				"will take"
+				"would TAKE",
+				"would have TAken",
+				"had TAken",
+				"will TAKE"
 			],
 			correctAnswer: 1,
-			explanation: "Đây là câu điều kiện loại 3, dùng để diễn tả một hành động không có thật trong quá khứ. Cấu trúc đúng là: If + S + had + PII, S + would/could/might + have + PII."
+			explanation: "Đây là câu điều kiện loại 3, dùng để diễn tả một hành động không có thật trong quá khứ. Cấu trúc đúng là: if + s + had + PII, S + would/could/might + have + PII."
 		},
 		{
 			id: 3,
-			question: "Despite the heavy rain, the football match was not _______.",
+			question: "despite the HEAVy RAIN, the FOOTball MATCH was NOT _______.",
 			options: [
-				"put off",
-				"put on",
-				"put up",
-				"put away"
+				"PUT OFF",
+				"PUT ON",
+				"PUT UP",
+				"PUT aWAY"
 			],
 			correctAnswer: 0,
-			explanation: "put off là động cụm (phrasal verb) có nghĩa là hoãn lại (postpone). Câu này có nghĩa: Mặc dù trời mưa to, trận đấu bóng đá đã không bị hoãn lại."
+			explanation: "PUT OFF là động cụm (PHRAsal VERB) có nghĩa là hoãn lại (postPONE). Câu này có nghĩa: Mặc dù trời mưa to, trận đấu bóng đá đã không bị hoãn lại."
 		},
 		{
 			id: 4,
-			question: "I still don't understand _______ you decided to quit your job.",
+			question: "i STILL don't underSTAND _______ you deCIded to QUIT your JOB.",
 			options: [
 				"what",
 				"why",
@@ -66,23 +66,23 @@ export default function TiengAnhQuestions(): React.JSX.Element {
 				"which"
 			],
 			correctAnswer: 1,
-			explanation: "Từ cần điền là một từ nghi vấn chỉ lý do. Why (tại sao) hoàn thành câu một cách hợp lý: \"Tôi vẫn không hiểu tại sao bạn quyết định nghỉ việc.\""
+			explanation: "Từ cần điền là một từ nghi vấn chỉ lý do. why (tại sao) hoàn thành câu một cách hợp lý: \"Tôi vẫn không hiểu tại sao bạn quyết định nghỉ việc.\""
 		},
 		{
 			id: 5,
-			question: "She is looking forward _______ her grandparents next week.",
+			question: "she is LOOKing FORward _______ her GRANDparents NEXT WEEK.",
 			options: [
-				"to seeing",
-				"to see",
-				"seeing",
-				"see"
+				"to SEEing",
+				"to SEE",
+				"SEEing",
+				"SEE"
 			],
 			correctAnswer: 0,
-			explanation: "Động cụm cố định là look forward to (mong chờ, mong đợi). Cấu trúc đúng là: look forward to + V-ing (danh động cơ)."
+			explanation: "Động cụm cố định là LOOK FORward to (mong chờ, mong đợi). Cấu trúc đúng là: LOOK FORward to + V-ing (danh động cơ)."
 		},
 		{
 			id: 6,
-			question: "The manager refused to accept the apology from the employee, _______ made the atmosphere tense.",
+			question: "the MANager reFUSED to acCEPT the aPOLogy from the emPLOYee, _______ MADE the ATmosphere TENSE.",
 			options: [
 				"who",
 				"which",
@@ -94,43 +94,43 @@ export default function TiengAnhQuestions(): React.JSX.Element {
 		},
 		{
 			id: 7,
-			question: "By the time the police arrived, the thieves _______ with all the jewels.",
+			question: "by the TIME the poLICE arRIVED, the THIEVES _______ with all the JEWels.",
 			options: [
-				"have escaped",
-				"are escaping",
-				"had escaped",
-				"escape"
+				"have esCAPED",
+				"are esCAping",
+				"had esCAPED",
+				"esCAPE"
 			],
 			correctAnswer: 2,
 			explanation: "Hành động tẩu thoát của những tên trộm xảy ra trước hành động cảnh sát đến trong quá khứ. Để diễn tả hành động xảy ra trước một hành động khác trong quá khứ, ta dùng thì Quá khứ Hoàn thành (had + PII)."
 		},
 		{
 			id: 8,
-			question: "He is quite successful now, but he used to find it hard to _______ ends meet.",
+			question: "he is QUITE sucCESSful NOW, but he USED to FIND it HARD to _______ ENDS MEET.",
 			options: [
-				"make",
-				"do",
+				"MAKE",
+				"DO",
 				"have",
-				"get"
+				"GET"
 			],
 			correctAnswer: 0,
-			explanation: "Cụm thành ngữ cố định là make ends meet, có nghĩa là kiếm đủ sống hoặc xoay xở đủ tiền trang trải cuộc sống."
+			explanation: "Cụm thành ngữ cố định là MAKE ENDS MEET, có nghĩa là kiếm đủ sống hoặc xoay xở đủ tiền trang trải cuộc sống."
 		},
 		{
 			id: 9,
-			question: "My mother advised me _______ late for work.",
+			question: "my MOTHer adVISED me _______ LATE for WORK.",
 			options: [
-				"not to be",
-				"to not be",
-				"not being",
-				"don't be"
+				"NOT to be",
+				"to NOT be",
+				"NOT being",
+				"DON'T be"
 			],
 			correctAnswer: 0,
-			explanation: "Đây là cấu trúc câu gián tiếp với hành động advise (khuyên bảo). Cấu trúc phủ định là: S + advise + O + not + to-V (nguyên mẫu có to)."
+			explanation: "Đây là cấu trúc câu gián tiếp với hành động adVISE (khuyên bảo). Cấu trúc phủ định là: S + adVISED + O + NOT + to-V (nguyên mẫu có to)."
 		},
 		{
 			id: 10,
-			question: "Only after the plane had taken off _______ realize how nervous he was.",
+			question: "Only after the PLANE had TAken OFF _______ REalize how NERvous he was.",
 			options: [
 				"did he",
 				"he did",
@@ -138,7 +138,7 @@ export default function TiengAnhQuestions(): React.JSX.Element {
 				"had he"
 			],
 			correctAnswer: 0,
-			explanation: "Đây là cấu trúc đảo ngữ với cụm từ phủ định Only after... đứng đầu câu. Cấu trúc đúng là: Only after + Câu con quá khứ hoàn thành (hành động trước) + Thời hành động + S + Hành động chính (hành động sau). Vì hành động \"realize\" ở quá khứ, ta dùng thời hành động did."
+			explanation: "Đây là cấu trúc đảo ngữ với cụm từ phủ định Only after... đứng đầu câu. Cấu trúc đúng là: Only after + Câu con quá khứ hoàn thành (hành động trước) + Thời hành động + S + Hành động chính (hành động sau). Vì hành động \"REalize\" ở quá khứ, ta dùng thời hành động did."
 		}
 	];
 
