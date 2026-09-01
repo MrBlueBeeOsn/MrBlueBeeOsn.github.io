@@ -82,9 +82,9 @@ export default function Home(): React.JSX.Element {
 
         <div className="table-search margin-bottom-50">
 			
-				  {/* <SearchComponent />
+				  {/* <SearchComponent /> */}
         
-          <VideoSearch /> */}
+          {/* <VideoSearch /> */}
 							
 			  </div>
 

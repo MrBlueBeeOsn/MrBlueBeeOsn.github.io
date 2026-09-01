@@ -28,7 +28,7 @@ export default function TiengAnhIndex(): React.JSX.Element {
             
         <SearchComponent />
         
-        <VideoSearch2 />
+        {/* <VideoSearch2 /> */}
                     
       </div>
 

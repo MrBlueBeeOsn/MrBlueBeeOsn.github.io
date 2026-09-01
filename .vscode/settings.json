@@ -10,5 +10,6 @@
     "typescript": "typescriptreact",
     "typescriptreact": "html"
     },
-    "emmet.triggerExpansionOnTab": true
+    "emmet.triggerExpansionOnTab": true,
+     "search.useWorkspaceFolders": false
 }

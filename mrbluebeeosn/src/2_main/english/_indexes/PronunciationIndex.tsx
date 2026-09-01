@@ -29,7 +29,7 @@ export default function PronunciationIndex(): React.JSX.Element {
                   
         <SearchComponent />
         
-        <VideoSearch2 />
+        {/* <VideoSearch2 /> */}
 
         <UNSTRESSED />
                           

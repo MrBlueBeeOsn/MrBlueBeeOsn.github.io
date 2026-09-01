@@ -28,7 +28,7 @@ export default function VocabularyIndex(): React.JSX.Element {
 			
 				<SearchComponent />
 				
-				<VideoSearch2 />
+				{/* <VideoSearch2 /> */}
 							
 			</div>
 

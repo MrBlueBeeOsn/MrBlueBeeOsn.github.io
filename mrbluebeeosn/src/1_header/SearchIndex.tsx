@@ -15,7 +15,7 @@ export default function SearchIndex(): React.JSX.Element {
      
     <main className="image image3">
 
-      <h3 className="margin-y-50 text-center">Articles + Tutorials</h3>
+      <h3 className="margin-y-50 text-center">BEE SEARCH</h3>
 
       <article>
 
@@ -23,7 +23,7 @@ export default function SearchIndex(): React.JSX.Element {
 
           <SearchComponent />
 
-          <VideoSearch3 />
+          {/* <VideoSearch3 /> */}
 
             {/* <YouGlishWidget /> */}
             

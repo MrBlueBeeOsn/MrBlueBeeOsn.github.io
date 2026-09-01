@@ -29,7 +29,7 @@ export default function GrammarIndex(): React.JSX.Element {
                         
         <SearchComponent />
         
-        <VideoSearch2 />
+        {/* <VideoSearch2 /> */}
 
         <VERBSADDS />
                           

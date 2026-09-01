@@ -23,7 +23,7 @@ export default function BookkeepingIndex(): React.JSX.Element {
                         
         <SearchComponent />
         
-        <VideoSearch />
+        {/* <VideoSearch /> */}
 
         <DEALER />
                           
