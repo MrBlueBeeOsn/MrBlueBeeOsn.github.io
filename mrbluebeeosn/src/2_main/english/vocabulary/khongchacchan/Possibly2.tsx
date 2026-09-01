@@ -5,9 +5,9 @@ import EyeIcon from '@/components/view/EyeIcon';
 import ViewCounter from '@/components/view/ViewCounter';
 import LikeButton from '@/components/like/LikeButton';
 
-export default function Possibly2(): React.JSX.Element {
+export default function POSsibly2(): React.JSX.Element {
 
-  const postId = "Possibly2";
+  const postId = "POSsibly2";
 
   return (<>
 
@@ -17,18 +17,18 @@ export default function Possibly2(): React.JSX.Element {
     
       <h4><HashLink smooth to="/vocabulary#khong-chac-chan-terms"><mark className="highlight-tertiary-padding-4-8">ADverbs: không chắc</mark></HashLink></h4>
       
-      <h1 className="margin-y-50 text-center">possibly
+      <h1 className="margin-y-50 text-center">POSsibly
         <sup>
-          <Link to="/vocabulary/possibly-1">&nbsp;1&nbsp;</Link>
+          <Link to="/vocabulary/POSsibly-1">&nbsp;1&nbsp;</Link>
         </sup>
         <sup>
-          <Link to="/vocabulary/possibly-2">&nbsp;2&nbsp;</Link>
+          <Link to="/vocabulary/POSsibly-2">&nbsp;2&nbsp;</Link>
         </sup>
       </h1>
 
       {/* This is the content of Vocabulary Term. */}
 
-      <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>possibly</strong>" (có thể) và các cụm từ hay đi kèm nhé.</p>
+      <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>POSsibly</strong>" (có thể) và các cụm từ hay đi kèm nhé.</p>
 
       <div className="text-border1 padding-10 highlight-238-padding-4-8 bee-container">
 
@@ -36,15 +36,9 @@ export default function Possibly2(): React.JSX.Element {
 
           <p className="margin-y-10">
             
-            <strong>Possibly&nbsp;</strong>
-            
             <span className="highlight-255-padding-3-6">
               
-              [POSsibly][POS si bly] /ˈpɒsəbli/+ /
-              
-              <Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">possi̛bly</Link>/ 
-              
-              &nbsp;⬤•• (3x)
+              [POSsibly][<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">POS si̛b ly</Link>] /ˈpɒsəbli/+ ⬤•• (3x)
               
             </span>
               
@@ -62,44 +56,34 @@ export default function Possibly2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1">Possibly <strong>the best</strong> /ðə best/</li>
-        <li className="list-none">This is ______ coffee I've ever tasted.</li>
+        <li value="1">this is POSsibly the BEST COFfee i've EVer TAsted</li>
         <li className="list-none margin-bottom-20">Đây có thể là ly cà phê ngon nhất mà tôi từng uống.</li>
 
-        <li value="2">Possibly <strong>true</strong> /truː/</li>
-        <li className="list-none">What he said is ______, but I'm not sure.</li>
+        <li value="2">what he SAID is POSsibly TRUE, but i'm NOT SURE</li>
         <li className="list-none margin-bottom-20">Những gì anh ấy nói có thể là đúng, nhưng tôi không chắc chắn.</li>
 
-        <li value="3">Possibly <strong>dangerous</strong> /ˈdeɪndʒərəs/</li>
-        <li className="list-none">Swimming in this lake is ______ due to the strong currents.</li>
+        <li value="3">SWIMming in this LAKE is POSsibly DANgerous due to the STRONG CURrents</li>
         <li className="list-none margin-bottom-20">Bơi ở hồ này có thể nguy hiểm do dòng chảy mạnh.</li>
 
-        <li value="4">Possibly <strong>the worst</strong> /ðə wɜːrst/</li>
-        <li className="list-none">This is ______ movie I've ever seen.</li>
+        <li value="4">this is POSsibly the WORST MOvie i've EVer SEEN</li>
         <li className="list-none margin-bottom-20">Đây có thể là bộ phim tệ nhất mà tôi từng xem.</li>
 
-        <li value="5">Possibly <strong>lost</strong> /lɒst/</li>
-        <li className="list-none">My keys are ______ somewhere in the house.</li>
+        <li value="5">my KEYS are POSsibly LOST SOMEwhere in the HOUSE</li>
         <li className="list-none margin-bottom-20">Chìa khóa của tôi có thể bị mất ở đâu đó trong nhà.</li>
 
-        <li value="6">Possibly <strong>misunderstood</strong> /ˌmɪsʌndəˈstʊd/</li>
-        <li className="list-none">My words were ______.</li>
+        <li value="6">my WORDS were POSsibly misunderSTOOD</li>
         <li className="list-none margin-bottom-20">Có thể là lời nói của tôi đã bị hiểu nhầm.</li>
 
-        <li value="7">Possibly <strong>delayed</strong> /dɪˈleɪd/</li>
-        <li className="list-none">The flight is ______ due to bad weather.</li>
+        <li value="7">the FLIGHT is POSsibly deLAYED due to BAD WEATHer</li>
         <li className="list-none margin-bottom-20">Chuyến bay có thể bị trì hoãn do thời tiết xấu.</li>
 
-        <li value="8">Possibly <strong>related</strong> /rɪˈleɪtɪd/</li>
-        <li className="list-none">These two events are ______.</li>
+        <li value="8">these TWO eVENTS are POSsibly reLAted</li>
         <li className="list-none margin-bottom-20">Hai sự kiện này có thể có liên quan với nhau.</li>
 
-        <li value="9">Possibly <strong>harmful</strong> /ˈhɑːmfəl/</li>
-        <li className="list-none">Eating too much sugar is ______ to your health.</li>
+        <li value="9">EATing TOO much SUgar is POSsibly HARMful to your HEALTH</li>
         <li className="list-none margin-bottom-20">Ăn quá nhiều đường có thể có hại cho sức khỏe của bạn.</li>
 
-        <li value="10">Possibly <strong>the best option</strong> /ðə best ˈɒpʃən/</li>
-        <li className="list-none">Moving to a new city is ______ for my career.</li>
+        <li value="10">MOving to a NEW CITy is POSsibly the BEST OPtion for my caREER</li>
         <li className="list-none margin-bottom-20">Chuyển đến thành phố mới có thể là lựa chọn tốt nhất cho sự nghiệp của tôi.</li>
 
       </ol>
@@ -116,9 +100,9 @@ export default function Possibly2(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>"<strong>Possibly</strong>" thường đứng ở đầu câu hoặc trước hành động để bổ nghĩa.</li>
+          <li>"<strong>POSsibly</strong>" thường đứng ở đầu câu hoặc trước hành động để bổ nghĩa.</li>
 
-          <li className="margin-bottom-20">Từ này có thể được thay thế bằng các từ đồng nghĩa như "<Link to="/vocabulary/perHAPS-1">perhaps</Link>", "<Link to="/vocabulary/MAYbe-1">maybe</Link>", "could be" để tạo sự đa dạng trong văn phong.</li>
+          <li className="margin-bottom-20">Từ này có thể được thay thế bằng các từ đồng nghĩa như "<Link to="/vocabulary/perHAPS-1">perHAPS</Link>", "<Link to="/vocabulary/MAYbe-1">MAYbe</Link>", "could be" để tạo sự đa dạng trong văn phong.</li>
 
         </ul>
 

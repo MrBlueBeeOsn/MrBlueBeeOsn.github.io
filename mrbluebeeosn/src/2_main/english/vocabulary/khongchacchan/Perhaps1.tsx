@@ -100,7 +100,7 @@ export default function perHAPS1(): React.JSX.Element {
           <li><Link to="/vocabulary/MAYbe-1">MAYbe</Link> we can GO to the PARK LAter.</li>
           <li className="margin-bottom-20 list-none">Có lẽ chúng ta có thể đi công viên sau.</li>
 
-          <li>it is <Link to="/vocabulary/possibly-1">POSsibly</Link> the BEST BOOK i've EVer READ.</li>
+          <li>it is <Link to="/vocabulary/POSsibly-1">POSsibly</Link> the BEST BOOK i've EVer READ.</li>
           <li className="list-none">Có thể đây là cuốn sách hay nhất mà tôi từng đọc.</li>
 
         </ul>
@@ -119,7 +119,7 @@ export default function perHAPS1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>i <Link to="/vocabulary/DEFinitely-1">DEFinitely</Link> WANT to GO to the PARty.</li>
+          <li>i <Link to="/vocabulary/DEFinitely-1">DEFinitely</Link> WANT to GO to the PARTy.</li>
           <li className="margin-bottom-20 list-none">Tôi chắc chắn muốn đi dự tiệc.</li>
 
           <li><Link to="/vocabulary/CERtainly-1">CERtainly</Link>, i will HELP you.</li>

@@ -99,7 +99,7 @@ export default function MAYbe1(): React.JSX.Element {
           <li><Link to="/vocabulary/perHAPS-1">perHAPS</Link> we can MEET UP LAter.</li>
           <li className="margin-bottom-20 list-none">Có lẽ chúng ta có thể gặp nhau sau.</li>
 
-          <li>it's <Link to="/vocabulary/possibly-1">POSsibly</Link> the BEST DAY of my LIFE.</li>
+          <li>it's <Link to="/vocabulary/POSsibly-1">POSsibly</Link> the BEST DAY of my LIFE.</li>
           <li className="list-none">Có thể đây là ngày tuyệt vời nhất trong đời tôi.</li>
 
         </ul>
@@ -167,7 +167,7 @@ export default function MAYbe1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>i'm NOT SURE, MAYbe i'll GO to the PARty.</li>
+          <li>i'm NOT SURE, MAYbe i'll GO to the PARTy.</li>
           <li className="list-none">Tôi không chắc, có lẽ tôi sẽ đến bữa tiệc.</li>
 
         </ul>

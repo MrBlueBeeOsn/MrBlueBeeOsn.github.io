@@ -56,7 +56,7 @@ export default function meTICulously2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1">she meTICulously PLANNED the PARty, MAking SURE EVERy DEtail was PERfect.</li>
+        <li value="1">she meTICulously PLANNED the PARTy, MAking SURE EVERy DEtail was PERfect.</li>
         <li className="list-none margin-bottom-20">Cô ấy lên kế hoạch cho bữa tiệc một cách tỉ mỉ, đảm bảo mọi chi tiết đều hoàn hảo.</li>
 
         <li value="2">the WATCH was meTICulously CRAFTed by SKILLED ARtisans.</li>

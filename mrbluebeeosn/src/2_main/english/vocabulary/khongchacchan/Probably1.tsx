@@ -103,7 +103,7 @@ export default function PROBably1(): React.JSX.Element {
           <li>it's LIKEly to RAIN.</li>
           <li className="margin-bottom-20 list-none">Có khả năng trời sẽ mưa.</li>
 
-          <li>it's <Link to="/vocabulary/possibly-1">Possibly</Link> the BEST soLUtion.</li>
+          <li>it's <Link to="/vocabulary/POSsibly-1">Possibly</Link> the BEST soLUtion.</li>
           <li className="list-none">Có thể đây là giải pháp tốt nhất.</li>
 
         </ul>

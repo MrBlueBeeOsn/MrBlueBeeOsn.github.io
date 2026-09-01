@@ -62,7 +62,7 @@ export default function YES2(): React.JSX.Element {
         <li value="2">do you LIKE APples? YES, and i LIKE baNANas TOO.</li>
         <li className="list-none margin-bottom-20">Bạn có thích táo không? Vâng, và tôi cũng thích chuối.</li>
 
-        <li value="3">can i COME to the PARty? YES, but i have to LEAVE EARly.</li>
+        <li value="3">can i COME to the PARTy? YES, but i have to LEAVE EARly.</li>
         <li className="list-none margin-bottom-20">Bạn có thể đến bữa tiệc không? Vâng, nhưng tôi phải đi sớm.</li>
 
         <li value="4">can i BORrow your PEN? YES, of COURSE.</li>
@@ -83,7 +83,7 @@ export default function YES2(): React.JSX.Element {
         <li value="9">may i TAKE your ORder? YES, SIR.</li>
         <li className="list-none margin-bottom-20">Tôi có thể nhận đơn hàng của ngài không? Vâng, thưa ngài.</li>
 
-        <li value="10">do you THINK we should GO to the PARty? YES, i supPOSE so.</li>
+        <li value="10">do you THINK we should GO to the PARTy? YES, i supPOSE so.</li>
         <li className="list-none margin-bottom-20">Bạn nghĩ chúng ta nên đi dự tiệc không? Vâng, tôi đoán vậy.</li>
 
       </ol>

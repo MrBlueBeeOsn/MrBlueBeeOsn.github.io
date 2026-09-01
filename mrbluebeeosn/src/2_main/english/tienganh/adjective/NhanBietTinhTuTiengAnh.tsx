@@ -66,7 +66,7 @@ export default function NhanBietTinhTuTiengAnh(): React.JSX.Element {
 					<li>PARis is FAmous for its <strong>roMANtic</strong> ATmosphere and iCONic LANDmarks like the EIFFel TOWer.</li>
 					<li className="margin-bottom-20 list-none">Paris nổi tiếng với bầu không khí <strong>lãng mạn</strong> và các thắng cảnh biểu tượng như Tháp Eiffel.</li>
 
-					<li>my MOTHer BAKED a <strong>deLICious</strong> CHOCOLate CAKE for my BIRTHday PARty.</li>
+					<li>my MOTHer BAKED a <strong>deLICious</strong> CHOCOLate CAKE for my BIRTHday PARTy.</li>
 					<li className="margin-bottom-20 list-none">Mẹ tôi đã nướng một chiếc bánh sô-cô-la <strong>ngon tuyệt</strong> cho bữa tiệc sinh nhật của tôi.</li>
 			
 					<li>CHILdren are NATurally <strong>CURious</strong> about the WORLD around them and ALWAYS ASK many QUEStions.</li>
@@ -248,7 +248,7 @@ export default function NhanBietTinhTuTiengAnh(): React.JSX.Element {
 					<li>i am VEry <strong>INterested</strong> in LEARNing MORE about artiFIcial inTELligence.</li>
 					<li className="margin-bottom-20 list-none">Tôi rất <strong>quan tâm</strong> đến việc tìm hiểu thêm về trí tuệ nhân tạo.</li>
 			
-					<li>we were <strong>surPRISED</strong> by the unexPECted BIRTHday PARty our FRIENDS THREW for us.</li>
+					<li>we were <strong>surPRISED</strong> by the unexPECted BIRTHday PARTy our FRIENDS THREW for us.</li>
 					<li className="list-none">Chúng tôi đã rất <strong>ngạc nhiên</strong> trước bữa tiệc sinh nhật bất ngờ mà những người bạn tổ chức cho mình.</li>
 			
 				</ul>

@@ -64,7 +64,7 @@ export default function toMORrow2(): React.JSX.Element {
         <li value="2">let's GO to the BEACH toMORrow afterNOON.</li>
         <li className="list-none margin-bottom-20">Chúng ta hãy đi biển vào chiều mai.</li>
 
-        <li value="3">i'm GOing to a PARty toMORrow EVEning.</li>
+        <li value="3">i'm GOing to a PARTy toMORrow EVEning.</li>
         <li className="list-none margin-bottom-20">Tôi sẽ đi dự tiệc vào tối mai.</li>
 
         <li value="4">it will be COLD toMORrow NIGHT.</li>

@@ -56,7 +56,7 @@ export default function DEFinitely2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1">i DEFinitely NOT GOing to that PARty.</li>
+        <li value="1">i DEFinitely NOT GOing to that PARTy.</li>
         <li className="list-none margin-bottom-20">Tôi chắc chắn sẽ không đi bữa tiệc đó.</li>
 
         <li value="2">i DEFinitely will be THERE on TIME.</li>

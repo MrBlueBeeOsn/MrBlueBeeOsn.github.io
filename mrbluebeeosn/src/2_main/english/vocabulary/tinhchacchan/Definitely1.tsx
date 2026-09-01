@@ -127,7 +127,7 @@ export default function DEFinitely1(): React.JSX.Element {
           <li><Link to="/vocabulary/POSsibly-1">POSsibly</Link>, it will RAIN toMORrow.</li>
           <li className="margin-bottom-20 list-none">Có thể trời sẽ mưa vào ngày mai.</li>
 
-          <li><Link to="/vocabulary/MAYbe-1">MAYbe</Link> i'll GO to the PARty.</li>
+          <li><Link to="/vocabulary/MAYbe-1">MAYbe</Link> i'll GO to the PARTy.</li>
           <li className="list-none">Có lẽ tôi sẽ đi dự tiệc.</li>
 
         </ul>

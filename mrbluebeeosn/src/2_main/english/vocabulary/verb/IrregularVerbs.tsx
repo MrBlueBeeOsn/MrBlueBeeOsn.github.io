@@ -989,7 +989,7 @@ export default function IrregularVerbs(): React.JSX.Element {
 					<li className="list-none">Một người đàn ông <strong>mặc</strong> một chiếc áo khoác ấm trong thời tiết lạnh.</li>
 					<li className="margin-bottom-20 list-none">Dùng thời hiện tại đơn với dạng wears (cho chủ thể ngôi thứ ba số ít A man) để chỉ thói quen hoặc sự việc diễn ra theo điều kiện thời tiết.</li>
 			
-					<li>she <strong>WORE</strong> a LOVEly DRESS to the PARty <strong>LAST NIGHT</strong>.</li>
+					<li>she <strong>WORE</strong> a LOVEly DRESS to the PARTy <strong>LAST NIGHT</strong>.</li>
 					<li className="list-none">Cô ấy <strong>đã mặc</strong> một chiếc váy xinh xắn đến bữa tiệc <strong>vào tối qua</strong>.</li>
 					<li className="margin-bottom-20 list-none">Dùng thời quá khứ đơn với dạng wore để chỉ việc đã xảy ra và kết thúc hoàn toàn trong quá khứ.</li>
 			

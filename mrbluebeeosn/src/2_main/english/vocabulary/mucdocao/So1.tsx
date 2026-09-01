@@ -194,7 +194,7 @@ export default function SO1(): React.JSX.Element {
           <li>she was SO TIred that she FELL aSLEEP imMEdiately.</li>
           <li className="margin-bottom-20 list-none">Cô ấy mệt đến nỗi cô ấy ngủ thiếp đi ngay lập tức.</li>
 
-          <li>are you COMing to the PARty? "i THINK SO."</li>
+          <li>are you COMing to the PARTy? "i THINK SO."</li>
           <li className="margin-bottom-20 list-none">Bạn có đến bữa tiệc không? "Tôi nghĩ vậy."</li>
 
           <li>it STARted RAINing HEAVily, SO we deCIded to GO HOME.</li>

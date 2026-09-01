@@ -63,7 +63,7 @@ export default function SOON1(): React.JSX.Element {
 					<li>i'll be BACK SOON.</li>
 					<li className="margin-bottom-20 list-none">Tôi sẽ quay lại sớm.</li>
 
-					<li>the PARty will START SOON.</li>
+					<li>the PARTy will START SOON.</li>
 					<li className="list-none">Bữa tiệc sẽ bắt đầu sớm.</li>
 
 				</ul>

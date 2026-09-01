@@ -68,7 +68,7 @@ export default function SOON2(): React.JSX.Element {
         <li value="4">PLEASE rePLY as SOON as POSsible.</li>
         <li className="list-none margin-bottom-20">Vui lòng trả lời càng sớm càng tốt.</li>
 
-        <li value="5">SOON AFter he arRIVED, the PARty STARTed.</li>
+        <li value="5">SOON AFter he arRIVED, the PARTy STARTed.</li>
         <li className="list-none margin-bottom-20">Ngay sau khi anh ấy đến, bữa tiệc bắt đầu.</li>
 
         <li value="6">how SOON will the TRAIN arRIVE?</li>

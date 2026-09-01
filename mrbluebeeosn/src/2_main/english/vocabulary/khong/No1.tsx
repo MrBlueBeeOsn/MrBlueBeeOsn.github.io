@@ -60,7 +60,7 @@ export default function NO1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>are you COMing to the PARty? - NO, i'm <Link to="/vocabulary/NOT-1">NOT</Link>.</li>
+          <li>are you COMing to the PARTy? - NO, i'm <Link to="/vocabulary/NOT-1">NOT</Link>.</li>
           <li className="margin-bottom-20 list-none">Bạn có đến bữa tiệc không? - Không, tôi không.</li>
 
           <li>do you LIKE COFfee? - NO, i preFER TEA.</li>

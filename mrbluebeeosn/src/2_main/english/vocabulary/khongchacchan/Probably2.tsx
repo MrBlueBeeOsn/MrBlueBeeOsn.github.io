@@ -59,7 +59,7 @@ export default function PROBably2(): React.JSX.Element {
         <li value="1">this is PROBably the BEST RESTAURant in TOWN.</li>
         <li className="list-none margin-bottom-20">Đây có lẽ là nhà hàng ngon nhất trong thị trấn.</li>
 
-        <li value="2">i PROBably will NOT be ABle to MAKE it to the PARty.</li>
+        <li value="2">i PROBably will NOT be ABle to MAKE it to the PARTy.</li>
         <li className="list-none margin-bottom-20">Có lẽ tôi sẽ không đến được buổi tiệc.</li>
 
         <li value="3">the MOST PROBably, she will arRIVE LATE.</li>
@@ -102,7 +102,7 @@ export default function PROBably2(): React.JSX.Element {
 
           <li>"<strong>PROBably</strong>" thường đứng ở đầu câu hoặc trước hành động để bổ nghĩa.</li>
 
-          <li className="margin-bottom-20">Từ này có thể được thay thế bằng các từ đồng nghĩa như "LIKEly", "<Link to="/vocabulary/possibly-1">POSsibly</Link>", "<Link to="/vocabulary/perHAPS-1">perHAPS</Link>" để tạo sự đa dạng trong văn phong.</li>
+          <li className="margin-bottom-20">Từ này có thể được thay thế bằng các từ đồng nghĩa như "LIKEly", "<Link to="/vocabulary/POSsibly-1">POSsibly</Link>", "<Link to="/vocabulary/perHAPS-1">perHAPS</Link>" để tạo sự đa dạng trong văn phong.</li>
 
         </ul>
 

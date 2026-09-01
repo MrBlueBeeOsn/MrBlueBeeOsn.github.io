@@ -117,7 +117,7 @@ export default function exACTly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>there were apPROXimately a HUNdred PEOple at the PARty.</li>
+          <li>there were apPROXimately a HUNdred PEOple at the PARTy.</li>
           <li className="margin-bottom-20 list-none">Có khoảng 100 người tại bữa tiệc.</li>
 
           <li>it TAKES ROUGHly THIRty MINutes to GET THERE.</li>

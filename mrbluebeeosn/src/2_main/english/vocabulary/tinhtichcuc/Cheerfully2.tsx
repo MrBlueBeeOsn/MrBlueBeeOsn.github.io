@@ -56,7 +56,7 @@ export default function CHEERfully2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1">she CHEERfully aGREED to HELP with the PARty.</li>
+        <li value="1">she CHEERfully aGREED to HELP with the PARTy.</li>
         <li className="list-none margin-bottom-20">Cô ấy vui vẻ đồng ý giúp đỡ tổ chức bữa tiệc.</li>
 
         <li value="2">the CHILdren CHEERfully WAVED GOODbye to the BUS.</li>

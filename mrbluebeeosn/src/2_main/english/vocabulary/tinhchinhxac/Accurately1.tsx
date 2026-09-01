@@ -123,7 +123,7 @@ export default function ACcurately1(): React.JSX.Element {
           <li>the inforMAtion was inACcurately rePORTed.</li>
           <li className="margin-bottom-20 list-none">Thông tin đã được báo cáo không chính xác.</li>
 
-          <li>there were apPROXimately a HUNdred PEOple at the PARty.</li>
+          <li>there were apPROXimately a HUNdred PEOple at the PARTy.</li>
           <li className="list-none">Có khoảng 100 người tại bữa tiệc.</li>
 
         </ul>

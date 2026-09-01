@@ -5,9 +5,9 @@ import EyeIcon from '@/components/view/EyeIcon';
 import ViewCounter from '@/components/view/ViewCounter';
 import LikeButton from '@/components/like/LikeButton';
 
-export default function Possibly1(): React.JSX.Element {
+export default function POSsibly1(): React.JSX.Element {
 
-  const postId = "Possibly1";
+  const postId = "POSsibly1";
 
   return (<>
 
@@ -17,29 +17,26 @@ export default function Possibly1(): React.JSX.Element {
     
       <h4><HashLink smooth to="/vocabulary#khong-chac-chan-terms"><mark className="highlight-tertiary-padding-4-8">ADverbs: không chắc</mark></HashLink></h4>
       
-      <h1 className="margin-y-50 text-center">possibly
-        <sup><Link to="/vocabulary/possibly-1">&nbsp;1&nbsp;</Link>
+      <h1 className="margin-y-50 text-center">POSsibly
+        <sup><Link to="/vocabulary/POSsibly-1">&nbsp;1&nbsp;</Link>
         </sup>
-        <sup><Link to="/vocabulary/possibly-2">&nbsp;2&nbsp;</Link>
+        <sup><Link to="/vocabulary/POSsibly-2">&nbsp;2&nbsp;</Link>
         </sup>
       </h1>
 
       {/* This is the content of Vocabulary Term. */}
       
-      <p>Tuyệt vời! Chúng ta cùng đi sâu vào từ "<strong>possibly</strong>" nhé.</p>
+      <p>Tuyệt vời! Chúng ta cùng đi sâu vào từ "<strong>POSsibly</strong>" nhé.</p>
 
       <div className="text-border1 padding-top-20 padding-bottom-10 highlight-238-padding-4-8 bee-container">
 
         <div>
 
-          <p className="margin-bottom-20"><strong>Possibly</strong></p>
-
           <ul className="list-square padding-left-40">
 
             <li>
               <span className="highlight-255-padding-3-6">
-                [POSsibly][POS si bly] /ˈpɒsəbli/ + /<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">possi̛bly</Link>/
-                &nbsp;⬤•• (3x)
+                [POSsibly][<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">POS si̛b ly</Link>] /ˈpɒsəbli/ ⬤•• (3x)
               </span>
             </li>
 
@@ -57,16 +54,16 @@ export default function Possibly1(): React.JSX.Element {
 
       </div>
 
-      <p className="margin-top-30 text-indent-whole">Từ "<strong>possibly</strong>" được dùng để diễn tả một sự việc có khả năng xảy ra, nhưng không chắc chắn hoàn toàn. Nó thường được sử dụng để thể hiện sự không chắc chắn hoặc để đưa ra một giả định.</p>
+      <p className="margin-top-30 text-indent-whole">Từ "<strong>POSsibly</strong>" được dùng để diễn tả một sự việc có khả năng xảy ra, nhưng không chắc chắn hoàn toàn. Nó thường được sử dụng để thể hiện sự không chắc chắn hoặc để đưa ra một giả định.</p>
 
       <p className="margin-top-20 text-indent-whole">Ví dụ:</p>
 
         <ul className="list-square">
 
-          <li>It might ______ rain tomorrow.</li>
+          <li>it might POSsibly RAIN toMORrow.</li>
           <li className="margin-bottom-20 list-none">Có thể trời sẽ mưa vào ngày mai.</li>
 
-          <li>She could ______ be at home now.</li>
+          <li>she could POSsibly be at HOME NOW.</li>
           <li className="list-none">Có thể cô ấy đang ở nhà bây giờ.</li>
 
         </ul>
@@ -83,12 +80,10 @@ export default function Possibly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Possible (adj) /ˈpɒsəbl/</li>
-          <li className="list-none">Is it ______ to finish this work today?</li>
+          <li>is it POSsible to FINish this WORK toDAY?</li>
           <li className="margin-bottom-20 list-none">Có thể hoàn thành công việc này ngày hôm nay không?</li>
 
-          <li>Possibility (n) /ˌpɒsəˈbɪləti/</li>
-          <li className="list-none">There is a ______ of rain later.</li>
+          <li>there is a possiBILity of RAIN LAter.</li>
           <li className="list-none">Có khả năng trời mưa sau này.</li>
 
         </ul>
@@ -105,12 +100,10 @@ export default function Possibly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li><Link to="/vocabulary/perHAPS-1">Perhaps</Link> /pəˈhæps/</li>
-          <li className="list-none">______ she is busy.</li>
+          <li><Link to="/vocabulary/perHAPS-1">perHAPS</Link> she is BUSy</li>
           <li className="margin-bottom-20 list-none">Có lẽ cô ấy đang bận.</li>
 
-          <li><Link to="/vocabulary/MAYbe-1">Maybe</Link> /ˈmeɪbi/</li>
-          <li className="list-none">______ he will call you later.</li>
+          <li><Link to="/vocabulary/MAYbe-1">MAYbe</Link> he will CALL you LAter.</li>
           <li className="list-none">Có thể anh ấy sẽ gọi cho bạn sau.</li>
 
         </ul>
@@ -129,12 +122,10 @@ export default function Possibly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li><Link to="/vocabulary/DEFinitely-1">Definitely</Link> /ˈdefɪnətli/</li>
-          <li className="list-none">I will ______ be there.</li>
+          <li>i will <Link to="/vocabulary/DEFinitely-1">DEFinitely</Link> be THERE.</li>
           <li className="margin-bottom-20 list-none">Tôi chắc chắn sẽ đến đó.</li>
 
-          <li>Certainly /ˈsɜːrtnli/</li>
-          <li className="list-none">That is ______ true.</li>
+          <li>that is <Link to="/vocabulary/CERtainly-1">CERtainly</Link> TRUE.</li>
           <li className="list-none">Điều đó chắc chắn đúng.</li>
 
         </ul>
@@ -160,7 +151,7 @@ export default function Possibly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>What do you think? Is it ______ going to rain?</li>
+          <li>WHAT do you THINK? is it POSsibly GOing to RAIN?</li>
           <li className="list-none">Bạn nghĩ sao? Có thể trời sẽ mưa không?</li>
 
         </ul>
@@ -180,7 +171,7 @@ export default function Possibly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>They might ______ miss the train.</li>
+          <li>they might POSsibly MISS the TRAIN.</li>
           <li className="list-none">Có thể họ sẽ lỡ tàu.</li>
 
         </ul>
@@ -202,17 +193,17 @@ export default function Possibly1(): React.JSX.Element {
 
           <ol>
 
-            <li>I will go to the party.</li>
+            <li value="1">i will GO to the PARTy.</li>
             <li className="list-none margin-bottom-20">Tôi sẽ đi dự tiệc.</li>
 
-            <li value="2">I might ______ go to the party.</li>
+            <li value="2">i might POSsibly GO to the PARTy.</li>
             <li className="list-none margin-bottom-20">Có thể tôi sẽ đi dự tiệc.</li>
 
           </ol>
 
       <div className="margin-bottom-20 padding-top-20 text-border1 padding-10 highlight-238-padding-4-8 bee-container">
 
-        <p className="margin-y-10">Sự khác biệt: Câu thứ hai sử dụng "<strong>possibly</strong>" để <span className="highlight-255-padding-0-4">thể hiện rằng việc đi</span> dự tiệc <span className="highlight-255-padding-0-4">chưa chắc chắn hoàn toàn</span>.</p>
+        <p className="margin-y-10">Sự khác biệt: Câu thứ hai sử dụng "<strong>POSsibly</strong>" để <span className="highlight-255-padding-0-4">thể hiện rằng việc đi</span> dự tiệc <span className="highlight-255-padding-0-4">chưa chắc chắn hoàn toàn</span>.</p>
 
       </div>
 
@@ -228,7 +219,7 @@ export default function Possibly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>Mức độ chắc chắn: "<strong>Possibly</strong>" thể hiện mức độ chắc chắn thấp hơn so với "<Link to="/vocabulary/DEFinitely-1">definitely</Link>" hoặc "certainly".</li>
+          <li>Mức độ chắc chắn: "<strong>POSsibly</strong>" thể hiện mức độ chắc chắn thấp hơn so với "<Link to="/vocabulary/DEFinitely-1">DEFinitely</Link>" hoặc "<Link to="/vocabulary/CERtainly-1">CERtainly</Link>".</li>
 
           <li className="margin-bottom-20">Dùng trong câu hỏi: Thường được sử dụng trong câu hỏi để hỏi về khả năng xảy ra của một sự việc.</li>
 

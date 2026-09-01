@@ -100,7 +100,7 @@ export default function CERtainly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>i will <Link to="/vocabulary/DEFinitely-1">DEFinitely</Link> GO to the PARty.</li>
+          <li>i will <Link to="/vocabulary/DEFinitely-1">DEFinitely</Link> GO to the PARTy.</li>
           <li className="margin-bottom-20 list-none">Tôi chắc chắn sẽ đi dự tiệc.</li>
 
           <li>i <Link to="/vocabulary/absoLUTEly-1">absoLUTEly</Link> aGREE with you.</li>
@@ -151,7 +151,7 @@ export default function CERtainly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>when ASKED if he would atTEND the PARty, he NODded CERtainly.</li>
+          <li>when ASKED if he would atTEND the PARTy, he NODded CERtainly.</li>
           <li className="list-none">Khi được hỏi liệu anh ấy có tham dự bữa tiệc không, anh ấy đã gật đầu chắc chắn.</li>
 
         </ul>
