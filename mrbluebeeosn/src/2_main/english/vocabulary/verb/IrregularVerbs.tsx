@@ -69,9 +69,9 @@ export default function IrregularVerbs(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>he <strong>does</strong> his WEB deVELopment WORK CAREfully <strong>EVERy EVEning</strong>.</li>
+					<li>he <strong>DOES</strong> his WEB deVELopment WORK CAREfully <strong>EVERy EVEning</strong>.</li>
 					<li className="list-none">Anh ấy <strong>làm</strong> công việc phát triển web của mình một cách cẩn thận <strong>vào mỗi buổi tối</strong>.</li>
-					<li className="margin-bottom-20 list-none">Dùng ⏳ Thời Gian Hành Động ở Hiện Tại Đơn với dạng does (cho chủ thể ngôi thứ ba số ít he) để chỉ thói quen hoặc sự việc diễn ra theo quy luật.</li>
+					<li className="margin-bottom-20 list-none">Dùng ⏳ Thời Gian Hành Động ở Hiện Tại Đơn với dạng DOES (cho chủ thể ngôi thứ ba số ít he) để chỉ thói quen hoặc sự việc diễn ra theo quy luật.</li>
 			
 					<li>she <strong>DID</strong> a THORough CHECK of the acCOUNTing RECords <strong>YESterday</strong>.</li>
 					<li className="list-none">Cô ấy <strong>đã kiểm tra</strong> kỹ lưỡng các hồ sơ kế toán <strong>vào ngày hôm qua</strong>.</li>

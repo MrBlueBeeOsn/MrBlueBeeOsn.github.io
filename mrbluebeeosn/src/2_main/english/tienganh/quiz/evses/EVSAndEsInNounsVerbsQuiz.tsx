@@ -22,120 +22,120 @@ export default function EVSAndEsInNounsVerbs(): React.JSX.Element {
 	const questions: Question[] = [
 		{
 			id: 1,
-			question: "My younger brother _______ his teeth three times a day.",
+			question: "my YOUNGer BROTHer _______ his TEETH THREE TIMES a DAY.",
 			options: [
-				"brush",
-				"brushes",
-				"brushs",
-				"brushing"
+				"BRUSH",
+				"BRUSHes",
+				"BRUSHS",
+				"BRUSHing"
 			],
 			correctAnswer: 1,
-			explanation: "Với danh chủ số ít (My younger brother), hành động tận cùng là -sh ta thêm -es."
+			explanation: "Với danh chủ số ít (my YOUNGer BROTHer), hành động tận cùng là -SH ta thêm -es."
 		},
 		{
 			id: 2,
-			question: "There are many _______ grazing in the field.",
+			question: "there are MANy _______ GRAzing in the FIELD.",
 			options: [
-				"tomato",
-				"tomatos",
-				"tomatoes",
-				"tomatoies"
+				"toMAto",
+				"toMAtos",
+				"toMAtoes",
+				"toMAtoies"
 			],
 			correctAnswer: 2,
 			explanation: "Danh cơ tận cùng là -o (trước đó là một phụ âm) thường thêm -es để tạo thành số nhiều."
 		},
 		{
 			id: 3,
-			question: "She always _______ the laundry on Sunday mornings.",
+			question: "she ALways _______ the LAUNdry on SUNday MORNings.",
 			options: [
-				"do",
-				"dose",
-				"does",
-				"doing"
+				"DO",
+				"DOSE",
+				"DOES",
+				"DOing"
 			],
 			correctAnswer: 2,
-			explanation: "Động cơ \"do\" khi đi với danh chủ ngôi thứ ba số ít (She) sẽ thêm -es thành \"does\"."
+			explanation: "Động cơ \"DO\" khi đi với danh chủ ngôi thứ ba số ít (she) sẽ thêm -ES thành \"DOES\"."
 		},
 		{
 			id: 4,
-			question: "The baker sells various types of _______ at his shop.",
+			question: "the BAker SELLS VARious TYPES of _______ at his SHOP.",
 			options: [
-				"loafs",
-				"loafes",
-				"loaves",
-				"loaf"
+				"LOAFS",
+				"LOAFES",
+				"LOAVES",
+				"LOAF"
 			],
 			correctAnswer: 2,
-			explanation: "Các Danh Cơ tận cùng bằng -f hoặc -fe thường đổi thành -v rồi thêm -es (loaf -> loaves)."
+			explanation: "Các Danh Cơ tận cùng bằng -F hoặc -FE thường đổi thành -v rồi thêm -ES (LOAF -> LOAVES)."
 		},
 		{
 			id: 5,
-			question: "Which of the following is the correct plural form of \"factory\"?",
+			question: "WHICH of the FOLlowing is the corRECT PLURal FORM of \"FACtory\"?",
 			options: [
-				"factorys",
-				"factories",
-				"factoryes",
-				"factories'"
+				"FACtorys",
+				"FACtories",
+				"FACtoryes",
+				"FACtories"
 			],
 			correctAnswer: 1,
 			explanation: "Danh cơ tận cùng là phụ âm + -y, ta đổi -y thành -i rồi thêm -es."
 		},
 		{
 			id: 6,
-			question: "The mechanic _______ the broken engine in less than an hour.",
+			question: "the meCHANic _______ the BROken ENgine in LESS than an HOUR.",
 			options: [
-				"fix",
-				"fixs",
-				"fixes",
-				"fixing"
+				"FIX",
+				"FIXs",
+				"FIXes",
+				"FIXing"
 			],
 			correctAnswer: 2,
-			explanation: "Động cơ tận cùng là -x khi chia ở ngôi thứ ba số ít ta thêm -es."
+			explanation: "Động cơ tận cùng là -X khi chia ở ngôi thứ ba số ít ta thêm -es."
 		},
 		{
 			id: 7,
-			question: "My cat often _______ on the sofa after lunch.",
+			question: "my CAT OFTen _______ on the SOfa after LUNCH.",
 			options: [
-				"relaxs",
-				"relaxes",
-				"relax",
-				"relaxing"
+				"reLAXS",
+				"reLAXes",
+				"reLAX",
+				"reLAXing"
 			],
 			correctAnswer: 1,
-			explanation: "Tương tự câu 6, hành động tận cùng là -x nên ta thêm -es."
+			explanation: "Tương tự câu 6, hành động tận cùng là -X nên ta thêm -es."
 		},
 		{
 			id: 8,
-			question: "How many _______ did you buy for the party?",
+			question: "HOW MANy _______ did you BUY for the PARTy?",
 			options: [
-				"boxs",
-				"boxies",
-				"boxes",
-				"box"
+				"BOXS",
+				"BOXies",
+				"BOXes",
+				"BOX"
 			],
 			correctAnswer: 2,
-			explanation: "Danh cơ tận cùng là -x thêm -es để tạo thành số nhiều."
+			explanation: "Danh cơ tận cùng là -X thêm -es để tạo thành số nhiều."
 		},
 		{
 			id: 9,
-			question: "He _______ to work by bus every day.",
+			question: "he _______ to WORK by BUS EVERy DAY.",
 			options: [
-				"go",
-				"goes",
-				"gos",
-				"going"
+				"GO",
+				"GOES",
+				"GOS",
+				"GOing"
 			],
 			correctAnswer: 1,
-			explanation: "Động cơ tận cùng là -o thêm -es khi đi với danh chủ số ít (He)."
+			explanation: "Động cơ tận cùng là -O thêm -ES khi đi với danh chủ số ít (he)."
 		},
 		{
 			id: 10,
-			question: "The children love to watch the _______ at the zoo.",
+			question: "the CHILDren LOVE to WATCH the _______ at the ZOO.",
 			options: [
-				"monkeys",
-				"monkies",
-				"monkeies",
-				"monkeyes"
+				"MONkeys",
+				"MONkies",
+				"MONkeies",
+				"MONkeyes"
 			],
 			correctAnswer: 0,
 			explanation: "Danh cơ tận cùng là nguyên âm (e) + -y, chúng ta chỉ cần thêm -s, không đổi thành -ies."

@@ -77,7 +77,7 @@ export default function exACTly2(): React.JSX.Element {
         <li value="7">can you TELL me exACTly WHERE the LIbrary IS?</li>
         <li className="list-none margin-bottom-20">Bạn có thể cho tôi biết thư viện ở chính xác đâu không?</li>
 
-        <li value="8">exACTly WHEN does the TRAIN LEAVE?</li>
+        <li value="8">exACTly WHEN DOES the TRAIN LEAVE?</li>
         <li className="list-none margin-bottom-20">Tàu khởi hành chính xác lúc mấy giờ?</li>
 
         <li value="9">her DRESS is exACTly the SAME as MINE.</li>

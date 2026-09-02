@@ -23,16 +23,35 @@ export default function VERBSADDS(): React.JSX.Element {
         <div className="example">
 
           <p className="example-sentence">
-            <span className="s">the: Đọc là <strong>ðì</strong> (/ði/ hoặc /ðiː/) → Sau nó là một NGUYÊN ÂM:<br/>
-            the APple → đọc là <strong>ðì</strong> APple.<br/>
-            the END → đọc là <strong>ðì</strong> END.
-            </span>
+            <span className="pill s">1. to</span>
           </p>
 
           <p className="example-sentence">
-            <span className="s">the: Đọc là <strong>ðə</strong> (/ðə/ - âm Schwa) → Sau nó là một PHỤ ÂM:<br/>
-            the BOOK → đọc là <strong>ðə</strong> BOOK.<br/>
-            the CAR → đọc là <strong>ðə</strong> CAR.
+            <span className="s">
+
+              to + PHỤ ÂM ➡️ Đọc là /tə/ (nghe giống "tờ") ➡️ Ví dụ: to SCHOOL /tə skuːl/<br/>
+
+              to + NGUYÊN ÂM ➡️ Đọc là /tʊ/ (nghe giống "tù") ➡️ Ví dụ: to EAT /tʊ iːt/
+
+            </span>
+          </p>
+
+        </div>
+        
+        
+        <div className="example">
+
+          <p className="example-sentence">
+            <span className="pill v">2. the</span>
+          </p>
+
+          <p className="example-sentence">
+            <span className="v">
+
+              the + PHỤ ÂM ➡️ Đọc là /ðə/ (nghe giống "đờ") ➡️ Ví dụ: the BOOK /ðə bʊk/<br/>
+
+              the + NGUYÊN ÂM ➡️ Đọc là /ði/ (nghe giống "đì") ➡️ Ví dụ: the END /ði ɛnd/
+
             </span>
           </p>
 
@@ -41,33 +60,16 @@ export default function VERBSADDS(): React.JSX.Element {
         <div className="example">
 
           <p className="example-sentence">
-            <span className="v">to: Đọc là <strong>tù</strong> (/tu/ ngắn hoặc /tuː/) → Sau nó là một NGUYÊN ÂM:<br/>
-            GO to OFfice → đọc là GO <strong>tù</strong> OFfice<br/>
-            to EAT → đọc là <strong>tù</strong> EAT.
-            </span>
+            <span className="pill o">3. that</span>
           </p>
 
           <p className="example-sentence">
-            <span className="v">to: Đọc là <strong>tə</strong> / TỪ (/tə/ - âm Schwa) → Sau nó là một PHỤ ÂM:<br/>
-            GO to SCHOOL → đọc là GO <strong>tə</strong> SCHOOL.<br/>
-            to me → đọc là <strong>tə</strong> me.
-            </span>
-          </p>
+            <span className="o">
 
-        </div>
+              Dạng lướt (Yếu) ➡️ Đọc là /ðət/ (nghe giống "đợt") ➡️ Ví dụ: i KNOW that you CARE. /aɪ nəʊ ðət juː keə/<br/>
 
+              Dạng nhấn mạnh (Mạnh) ➡️ Đọc là /ðæt/ ➡️ Ví dụ: Look at that! /lʊk æt ðæt/
 
-        <div className="example">
-
-          <p className="example-sentence">
-            <span className="o">that: Đọc là <strong>ðạt</strong> (/ðæt/) → Khi làm từ chỉ định (đứng trước danh hoặc đứng một mình).<br/>
-            i WANT that BOOK. → đọc là i WANT <strong>ðạt</strong> BOOK.<br/>
-            </span>
-          </p>
-
-          <p className="example-sentence">
-            <span className="o">that: Đọc là <strong>ðət</strong> / TỪ (/ðət/ - âm Schwa) → Khi làm liên từ nối các mệnh đề hoặc đại từ quan hệ.<br/>
-            he SAID that he KNEW. → he SAID <strong>ðət</strong> he KNEW.<br/>
             </span>
           </p>
 
@@ -76,14 +78,35 @@ export default function VERBSADDS(): React.JSX.Element {
         <div className="example">
 
           <p className="example-sentence">
-            <span className="m">have: Đọc là <strong>hạve</strong> (/hæv/, /hæz/) → Động chính - sở hữu<br/>
-            i have a CAR. → đọc là i <strong>hạve</strong> a CAR.<br/>
-            </span>
+            <span className="pill m">4. was</span>
           </p>
 
           <p className="example-sentence">
-            <span className="m">have: Đọc là <strong>həve</strong> / TỪ (/ðət/ - âm Schwa) → Trợ động - thời hoàn thành<br/>
-            they have GONE. → đọc là they <strong>həve</strong> GONE.<br/>
+            <span className="m">
+
+              Dạng lướt (Yếu) ➡️ Đọc là /wəz/ (nghe giống "uờz") ➡️ Ví dụ: he was LATE. /hiː wəz leɪt/<br/>
+
+              Dạng nhấn mạnh (Mạnh) ➡️ Đọc là /wɒz/ (hoặc /wʌz/) ➡️ Ví dụ: YES, he WAS! /jes hiː wɒz/
+
+            </span>
+          </p>
+
+        </div>
+
+        
+        <div className="example">
+
+          <p className="example-sentence">
+            <span className="pill p">5. have</span>
+          </p>
+
+          <p className="example-sentence">
+            <span className="p">
+
+              Dạng lướt (Yếu) ➡️ Đọc là /əv/ hoặc /v/ (nghe giống "ờv") ➡️ Ví dụ: you should have GONE. /juː ʃʊd əv ɡɒn/<br/>
+
+              Dạng nhấn mạnh (Mạnh) ➡️ Đọc là /hæv/ ➡️ Ví dụ: i have a PEN. /aɪ hæv ə pen/
+
             </span>
           </p>
 
@@ -92,14 +115,16 @@ export default function VERBSADDS(): React.JSX.Element {
         <div className="example">
 
           <p className="example-sentence">
-            <span className="p">do: Đọc là <strong>đù</strong> (/duː/, /dʌz/) → Động chính - hành động<br/>
-            i do my HOMEwork. → đọc là i <strong>đù</strong> my HOMEwork.<br/>
-            </span>
+            <span className="pill t">6. has</span>
           </p>
 
           <p className="example-sentence">
-            <span className="p">do: Đọc là <strong>đə</strong> / TỪ (/də/, /dəz/) → Trợ động từ - câu hỏi/phủ định<br/>
-            WHAT do you THINK? → đọc là WHAT <strong>đə</strong> you THINK?<br/>
+            <span className="t">
+
+              Dạng lướt (Yếu) ➡️ Đọc là /əz/ hoặc /z/ (nghe giống "ờz") ➡️ Ví dụ: WHAT has he DONE? /wɒt əz hiː dʌn/<br/>
+
+              Dạng nhấn mạnh (Mạnh) ➡️ Đọc là /hæz/ ➡️ Ví dụ: she has TWO DOGS. /ʃiː hæz tuː dɒɡz/
+
             </span>
           </p>
 
@@ -108,18 +133,39 @@ export default function VERBSADDS(): React.JSX.Element {
         <div className="example">
 
           <p className="example-sentence">
-            <span className="t">was: Đọc là <strong>wạs</strong> (/biː/, /ɑːr/, /wɒz/) → Động chính/Cuối câu<br/>
-            YES, i was. → đọc là YES, i <strong>wạs</strong><br/>
-            </span>
+            <span className="pill ">7. for</span>
           </p>
 
           <p className="example-sentence">
-            <span className="t">was: Đọc là <strong>wəs</strong> / TỪ (/bi/, /ər/, /wəz/) → Trợ động - tiếp diễn/bị động<br/>
-            it was RAINing. → it <strong>wəs</strong> RAINing.<br/>
+            <span className="">
+
+              Dạng lướt (Yếu) ➡️ Đọc là /fə/ (nghe giống "phờ") ➡️ Ví dụ: this is for YOU. /ðɪs ɪz fə juː/<br/>
+
+              Dạng nhấn mạnh (Mạnh) ➡️ Đọc là /fɔːr/ ➡️ Ví dụ: WHAT is this FOR? /wɒt ɪz ðɪs fɔːr/
+
             </span>
           </p>
 
         </div>
+
+         <div className="example">
+
+          <p className="example-sentence">
+            <span className="pill ">8. and</span>
+          </p>
+
+          <p className="example-sentence">
+            <span className="">
+
+              Dạng lướt (Yếu) ➡️ Đọc là /ən/ hoặc /n/ (nghe giống "ờn") ➡️ Ví dụ: ROCK and ROLL. /rɒk ən rəʊl/<br/>
+
+              Dạng nhấn mạnh (Mạnh) ➡️ Đọc là /ænd/ ➡️ Ví dụ: BLACK and WHITE. /blæk ænd waɪt/
+
+            </span>
+          </p>
+
+        </div>
+
 
         <p className="example-sentence">
             <span className="pill s">[YOgurt][YŌ gurt]</span> &nbsp;<span className="pill p">YO: LONG, Open SPACE</span> &nbsp;<span className="pill v">/ˈjoʊɡərt/</span>

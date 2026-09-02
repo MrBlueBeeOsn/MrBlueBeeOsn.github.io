@@ -30,8 +30,6 @@ export default function GrammarIndex(): React.JSX.Element {
         <SearchComponent />
         
         {/* <VideoSearch2 /> */}
-
-        <VERBSADDS />
                           
       </div>
 
@@ -133,6 +131,8 @@ export default function GrammarIndex(): React.JSX.Element {
 
 
       </div>
+
+      <VERBSADDS />
 
     </article>
     

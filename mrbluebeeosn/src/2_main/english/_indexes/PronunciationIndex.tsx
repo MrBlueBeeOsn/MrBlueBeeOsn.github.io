@@ -31,7 +31,6 @@ export default function PronunciationIndex(): React.JSX.Element {
         
         {/* <VideoSearch2 /> */}
 
-        <UNSTRESSED />
                           
       </div>
 
@@ -88,6 +87,8 @@ export default function PronunciationIndex(): React.JSX.Element {
         </div>
 
       </div>
+
+      <UNSTRESSED />
 
     </article>
     

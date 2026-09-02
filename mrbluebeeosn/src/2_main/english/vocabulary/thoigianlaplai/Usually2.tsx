@@ -56,7 +56,7 @@ export default function Usually2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1">she Usually does her HOMEwork after DINner.</li>
+        <li value="1">she Usually DOES her HOMEwork after DINner.</li>
         <li className="list-none margin-bottom-20">Cô ấy thường làm bài tập về nhà sau bữa tối.</li>
 
         <li value="2">he Usually GOES to BED at 10 P.M.</li>
