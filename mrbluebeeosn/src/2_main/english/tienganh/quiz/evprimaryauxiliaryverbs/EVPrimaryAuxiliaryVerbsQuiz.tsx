@@ -22,7 +22,7 @@ export default function EVPrimaryAuxiliaryVerbsQuiz(): React.JSX.Element {
 	const questions: Question[] = [
 		{
 			id: 1,
-			question: "She ________ not finished her accounting report yet.",
+			question: "she ________ NOT FINished her acCOUNTing rePORT YET.",
 			options: [
 				"does",
 				"has",
@@ -30,23 +30,23 @@ export default function EVPrimaryAuxiliaryVerbsQuiz(): React.JSX.Element {
 				"did"
 			],
 			correctAnswer: 1,
-			explanation: "Câu ở 📏 Khoảng Thời Gian Hành Động ở Hiện Tại Hoàn Thành (Present Perfect) với cấu trúc S + have/has + V3/ed. Với danh chủ \"She\", ta dùng \"has\"."
+			explanation: "Câu ở 📏 Khoảng Thời Gian Hành Động ở Hiện Tại Hoàn Thành (PRESent PERfect) với cấu trúc s + have/has + V3/ed. Với danh chủ \"she\", ta dùng \"has\"."
 		},
 		{
 			id: 2,
-			question: "________ you study the new international accounting standards yesterday?",
+			question: "________ you STUDy the NEW interNATional acCOUNTing STANDards YESterday?",
 			options: [
-				"Do",
-				"Have",
-				"Did",
-				"Were"
+				"do",
+				"have",
+				"did",
+				"were"
 			],
 			correctAnswer: 2,
-			explanation: "Câu nghi vấn ⏳ Thời Gian Hành Động ở Quá Khứ Đơn (Past Simple) mượn thời gian hành động \"Did\" đứng trước danh chủ, hành động chính \"study\" giữ nguyên mẫu."
+			explanation: "Câu nghi vấn ⏳ Thời Gian Hành Động ở Quá Khứ Đơn (PAST SIMple) mượn thời gian hành động \"did\" đứng trước danh chủ, hành động chính \"STUDy\" giữ nguyên mẫu."
 		},
 		{
 			id: 3,
-			question: "The financial statements ________ being audited by the internal team right now.",
+			question: "the fiNANcial STATEments ________ being AUdited by the inTERnal TEAM RIGHT NOW.",
 			options: [
 				"are",
 				"have",
@@ -54,11 +54,11 @@ export default function EVPrimaryAuxiliaryVerbsQuiz(): React.JSX.Element {
 				"is"
 			],
 			correctAnswer: 0,
-			explanation: "Câu ở ⏱️ thời điểm hành động ở hiện tại tiếp diễn thể bị động (Present Continuous Passive): S + am/is/are + being + V3/ed. \"Statements\" là Danh Cơ số nhiều nên dùng \"are\"."
+			explanation: "Câu ở ⏱️ thời điểm hành động ở hiện tại tiếp diễn thể bị động (PRESent conTINuous PASSive): s + am/is/are + being + V3/ed. \"STATEments\" là Danh Cơ số nhiều nên dùng \"are\"."
 		},
 		{
 			id: 4,
-			question: "Why ________ he always insist on using manual spreadsheets instead of software?",
+			question: "WHY ________ he ALways inSIST on Using MANual SPREADsheets instead of SOFTware?",
 			options: [
 				"is",
 				"has",
@@ -66,11 +66,11 @@ export default function EVPrimaryAuxiliaryVerbsQuiz(): React.JSX.Element {
 				"did"
 			],
 			correctAnswer: 2,
-			explanation: "Câu hỏi ở ⏳ Thời Gian Hành Động ở Hiện Tại Đơn với hành động thường \"insist\". Danh chủ \"he\" yêu cầu thời gian hành động \"does\"."
+			explanation: "Câu hỏi ở ⏳ Thời Gian Hành Động ở Hiện Tại Đơn với hành động thường \"inSIST\". Danh chủ \"he\" yêu cầu thời gian hành động \"does\"."
 		},
 		{
 			id: 5,
-			question: "We ________ had many opportunities to practice Excel functions this month.",
+			question: "we ________ had MANy opporTUnities to PRACtice exCEL FUNCtions this MONTH.",
 			options: [
 				"are",
 				"do",
@@ -78,23 +78,23 @@ export default function EVPrimaryAuxiliaryVerbsQuiz(): React.JSX.Element {
 				"did"
 			],
 			correctAnswer: 2,
-			explanation: "📏 Khoảng Thời Gian Hành Động ở Hiện Tại Hoàn Thành dùng để diễn tả hành động kéo dài đến hiện tại. Cấu trúc S (We) + have + V3 (had)."
+			explanation: "📏 Khoảng Thời Gian Hành Động ở Hiện Tại Hoàn Thành dùng để diễn tả hành động kéo dài đến hiện tại. Cấu trúc s (we) + have + V3 (had)."
 		},
 		{
 			id: 6,
-			question: "________ the company provide free English courses for its employees last year?",
+			question: "________ the COMpany proVIDE FREE ENGlish COURSes for its emPLOYees LAST YEAR?",
 			options: [
-				"Does",
-				"Did",
-				"Has",
-				"Was"
+				"does",
+				"did",
+				"has",
+				"was"
 			],
 			correctAnswer: 1,
-			explanation: "Dấu hiệu \"last year\" cho thấy đây là ⏳ Thời Gian Hành Động ở Quá Khứ Đơn. Mượn thời gian hành động \"Did\" cho câu hỏi với hành động thường \"provide\"."
+			explanation: "Dấu hiệu \"LAST YEAR\" cho thấy đây là ⏳ Thời Gian Hành Động ở Quá Khứ Đơn. Mượn thời gian hành động \"did\" cho câu hỏi với hành động thường \"proVIDE\"."
 		},
 		{
 			id: 7,
-			question: "I ________ currently reading a book about effective translation techniques.",
+			question: "i ________ CURrently READing a BOOK about efFECtive transLAtion techNIQUES.",
 			options: [
 				"do",
 				"have",
@@ -102,11 +102,11 @@ export default function EVPrimaryAuxiliaryVerbsQuiz(): React.JSX.Element {
 				"be"
 			],
 			correctAnswer: 2,
-			explanation: "⏱️ Thời Điểm Hành Động ở Hiện Tại Tiếp Diễn diễn tả hành động đang xảy ra: S (I) + am + V-ing."
+			explanation: "⏱️ Thời Điểm Hành Động ở Hiện Tại Tiếp Diễn diễn tả hành động đang xảy ra: s (i) + am + V-ing."
 		},
 		{
 			id: 8,
-			question: "They ________ not like the way the new software organizes the data.",
+			question: "they ________ NOT LIKE the WAY the NEW SOFTware ORganizes the DAta.",
 			options: [
 				"does",
 				"are",
@@ -114,11 +114,11 @@ export default function EVPrimaryAuxiliaryVerbsQuiz(): React.JSX.Element {
 				"have"
 			],
 			correctAnswer: 2,
-			explanation: "Câu phủ định ⏳ Thời Gian Hành Động ở Hiện Tại Đơn với danh chủ \"They\" (số nhiều) sử dụng thời gian hành động \"do\" + not."
+			explanation: "Câu phủ định ⏳ Thời Gian Hành Động ở Hiện Tại Đơn với danh chủ \"they\" (số nhiều) sử dụng thời gian hành động \"do\" + not."
 		},
 		{
 			id: 9,
-			question: "The tax documents ________ already been sent to the tax office.",
+			question: "the TAX DOCuments ________ alREADy been SENT to the TAX OFfice.",
 			options: [
 				"are",
 				"have",
@@ -126,19 +126,19 @@ export default function EVPrimaryAuxiliaryVerbsQuiz(): React.JSX.Element {
 				"did"
 			],
 			correctAnswer: 1,
-			explanation: "📏 Khoảng Thời Gian Hành Động ở Hiện Tại Hoàn Thành thể bị động: S + have/has + been + V3/ed. \"Documents\" số nhiều đi với \"have\"."
+			explanation: "📏 Khoảng Thời Gian Hành Động ở Hiện Tại Hoàn Thành thể bị động: s + have/has + been + V3/ed. \"DOCuments\" số nhiều đi với \"have\"."
 		},
 		{
 			id: 10,
-			question: "________ she working on the balance sheet when you called her?",
+			question: "________ she WORKing on the BALance SHEET when you CALLED her?",
 			options: [
-				"Does",
-				"Has",
-				"Was",
-				"Did"
+				"does",
+				"has",
+				"was",
+				"did"
 			],
 			correctAnswer: 2,
-			explanation: "Câu hỏi ở ⏱️ Thời Điểm Hành Động ở Quá Khứ Tiếp Diễn: Was/Were + S + V-ing. Với danh chủ \"she\", ta dùng \"Was\"."
+			explanation: "Câu hỏi ở ⏱️ Thời Điểm Hành Động ở Quá Khứ Tiếp Diễn: was/were + S + V-ing. Với danh chủ \"she\", ta dùng \"was\"."
 		}
 	];
 
