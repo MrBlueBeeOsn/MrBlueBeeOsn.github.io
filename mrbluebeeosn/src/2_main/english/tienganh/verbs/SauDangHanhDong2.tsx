@@ -121,7 +121,7 @@ export default function SauDangHanhDong2(): React.JSX.Element {
 
 				<p className="margin-top-20 text-indent-whole">→ Dạng này xuất hiện rất nhiều trong giao tiếp tự nhiên và bài thi.</p>
 
-				<p><Link to="/tieng-anh/present-perfect" className="text-indent-whole">Hiểu Đúng Về Thì Hiện Tại Hoàn Thành</Link></p>
+				<p><Link to="/tieng-anh/present-perfect" className="text-indent-whole">Hiểu Đúng Về Thời Hành Động Hiện Tại Hoàn Thành</Link></p>
 
 			</div>
 

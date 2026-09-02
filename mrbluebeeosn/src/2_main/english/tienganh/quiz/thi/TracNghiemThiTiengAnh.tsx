@@ -22,123 +22,123 @@ export default function TracNghiemThiTiengAnh(): React.JSX.Element {
 	const questions: Question[] = [
 		{
 			id: 1,
-			question: "She _ to the gym three times a week.",
+			question: "she _______ to the GYM THREE TIMES a WEEK.",
 			options: [
-				"is going",
-				"goes",
-				"went",
-				"has gone"
+				"is GOing",
+				"GOES",
+				"WENT",
+				"has GONE"
 			],
 			correctAnswer: 1,
-			explanation: "Đây là hành động lặp đi lặp lại (thói quen), được diễn tả bằng Trạng Cơ chỉ tần suất \"three times a week\". Ta sử dụng thì Hiện tại đơn (Simple Present)."
+			explanation: "Đây là hành động lặp đi lặp lại (thói quen), được diễn tả bằng Trạng Cơ chỉ tần suất \"THREE TIMES a WEEK\". Ta sử dụng thì Hiện tại đơn (SIMple PRESent)."
 		},
 		{
 			id: 2,
-			question: "When the phone rang, I _ a shower.",
+			question: "when the PHONE RANG, i _______ a SHOWer.",
 			options: [
-				"took",
-				"was taking",
-				"take",
-				"have taken"
+				"TOOK",
+				"was TAking",
+				"TAKE",
+				"have TAken"
 			],
 			correctAnswer: 1,
-			explanation: "Hành động tắm đang diễn ra (dài hơn) thì bị một hành động khác (điện thoại reo) cắt ngang. Hành động đang diễn ra sử dụng thì Quá khứ tiếp diễn (Past Continuous)."
+			explanation: "Hành động tắm đang diễn ra (dài hơn) thì bị một hành động khác (điện thoại reo) cắt ngang. Hành động đang diễn ra sử dụng thì Quá khứ tiếp diễn (PAST conTINuous)."
 		},
 		{
 			id: 3,
-			question: "By the time we arrive at the airport, the plane _.",
+			question: "by the TIME we arRIVE at the AIRport, the PLANE _______.",
 			options: [
-				"leaves",
-				"will leave",
-				"is leaving",
-				"will have left"
+				"LEAVES",
+				"will LEAVE",
+				"is LEAving",
+				"will have LEFT"
 			],
 			correctAnswer: 3,
-			explanation: "Hành động máy bay cất cánh sẽ hoàn thành trước một thời điểm hoặc một hành động khác trong tương lai (khi chúng ta đến sân bay). Ta sử dụng thì Tương lai hoàn thành (Future Perfect)."
+			explanation: "Hành động máy bay cất cánh sẽ hoàn thành trước một thời điểm hoặc một hành động khác trong tương lai (khi chúng ta đến sân bay). Ta sử dụng thì Tương lai hoàn thành (FUture PERfect)."
 		},
 		{
 			id: 4,
-			question: "They _ here since 2010.",
+			question: "they _______ HERE since 2010.",
 			options: [
-				"live",
-				"lived",
-				"are living",
-				"have lived"
+				"LIVE",
+				"LIVED",
+				"are LIVing",
+				"have LIVED"
 			],
 			correctAnswer: 3,
-			explanation: "Hành động sống bắt đầu trong quá khứ (2010) và vẫn tiếp tục đến hiện tại (có \"since\"). Ta sử dụng thì Hiện tại hoàn thành (Present Perfect)."
+			explanation: "Hành động sống bắt đầu trong quá khứ (2010) và vẫn tiếp tục đến hiện tại (có \"since\"). Ta sử dụng thì Hiện tại hoàn thành (PRESent PERfect)."
 		},
 		{
 			id: 5,
-			question: "Look! The sun _ so brightly.",
+			question: "LOOK! the SUN _______ so BRIGHTly.",
 			options: [
-				"shines",
-				"is shining",
-				"shone",
-				"has shone"
+				"SHINES",
+				"is SHIning",
+				"SHONE",
+				"has SHONE"
 			],
 			correctAnswer: 1,
-			explanation: "Hành động đang diễn ra tại thời điểm nói, thường đi kèm với các từ như \"Look!\" hoặc \"Listen!\". Ta sử dụng thì Hiện tại tiếp diễn (Present Continuous)."
+			explanation: "Hành động đang diễn ra tại thời điểm nói, thường đi kèm với các từ như \"LOOK!\" hoặc \"LISten!\". Ta sử dụng thì Hiện tại tiếp diễn (PRESent conTINuous)."
 		},
 		{
 			id: 6,
-			question: "Before he went to bed, he _ his homework.",
+			question: "before he WENT to BED, he _______ his HOMEwork.",
 			options: [
-				"does",
-				"did",
-				"had done",
-				"was doing"
+				"DOES",
+				"DID",
+				"had DONE",
+				"was DOing"
 			],
 			correctAnswer: 2,
-			explanation: "Hành động hoàn thành bài tập xảy ra và hoàn tất trước một hành động khác trong quá khứ (đi ngủ). Hành động xảy ra trước sử dụng thì Quá khứ hoàn thành (Past Perfect)."
+			explanation: "Hành động hoàn thành bài tập xảy ra và hoàn tất trước một hành động khác trong quá khứ (đi ngủ). Hành động xảy ra trước sử dụng thì Quá khứ hoàn thành (PAST PERfect)."
 		},
 		{
 			id: 7,
-			question: "This time tomorrow, I _ on a beach in Hawaii.",
+			question: "this TIME toMORrow, i _______ on a BEACH in haWAIi.",
 			options: [
-				"will lie",
-				"am lying",
-				"will be lying",
-				"lie"
+				"will LIE",
+				"am LYing",
+				"will be LYing",
+				"LIE"
 			],
 			correctAnswer: 2,
-			explanation: "Hành động đang diễn ra tại một thời điểm cụ thể trong tương lai (\"This time tomorrow\"). Ta sử dụng thì Tương lai tiếp diễn (Future Continuous)."
+			explanation: "Hành động đang diễn ra tại một thời điểm cụ thể trong tương lai (\"this TIME toMORrow\"). Ta sử dụng thì Tương lai tiếp diễn (FUture conTINuous)."
 		},
 		{
 			id: 8,
-			question: "I _ my key, so I can't open the door.",
+			question: "i _______ my KEY, so i CAN'T Open the DOOR.",
 			options: [
-				"lose",
-				"lost",
-				"have lost",
-				"had lost"
+				"LOSE",
+				"LOST",
+				"have LOST",
+				"had LOST"
 			],
 			correctAnswer: 2,
-			explanation: "Hành động làm mất chìa khóa xảy ra trong quá khứ nhưng có kết quả/ảnh hưởng rõ rệt đến hiện tại (không mở được cửa). Ta sử dụng thì Hiện tại hoàn thành (Present Perfect)."
+			explanation: "Hành động làm mất chìa khóa xảy ra trong quá khứ nhưng có kết quả/ảnh hưởng rõ rệt đến hiện tại (không mở được cửa). Ta sử dụng thì Hiện tại hoàn thành (PRESent PERfect)."
 		},
 		{
 			id: 9,
-			question: "How long _ the piano before you started taking singing lessons?",
+			question: "HOW LONG _______ the piANo before you STARTed TAking SINGing LESsons?",
 			options: [
-				"do you play",
-				"did you play",
-				"were you playing",
-				"had you been playing"
+				"do you PLAY",
+				"did you PLAY",
+				"were you PLAYing",
+				"had you been PLAYing"
 			],
 			correctAnswer: 3,
-			explanation: "Hành động chơi piano diễn ra liên tục, kéo dài đến một thời điểm trong quá khứ (trước khi bắt đầu học hát). Ta sử dụng thì Quá khứ hoàn thành tiếp diễn (Past Perfect Continuous)."
+			explanation: "Hành động chơi piano diễn ra liên tục, kéo dài đến một thời điểm trong quá khứ (trước khi bắt đầu học hát). Ta sử dụng thì Quá khứ hoàn thành tiếp diễn (PAST PERfect conTINuous)."
 		},
 		{
 			id: 10,
-			question: "If the weather is good, we _ for a picnic next weekend.",
+			question: "if the WEATHer is GOOD, we will GO for a PICnic NEXT WEEKend.",
 			options: [
-				"go",
-				"went",
-				"will go",
-				"are going"
+				"GO",
+				"WENT",
+				"will GO",
+				"are GOing"
 			],
 			correctAnswer: 2,
-			explanation: "Hành động sẽ xảy ra trong tương lai (next weekend) và không có kế hoạch hay sắp xếp cụ thể. Ta sử dụng thì Tương lai đơn (Simple Future)."
+			explanation: "Hành động sẽ xảy ra trong tương lai (NEXT WEEKend) và không có kế hoạch hay sắp xếp cụ thể. Ta sử dụng thì Tương lai đơn (SIMple FUture)."
 		}
 	];
 
@@ -151,8 +151,8 @@ export default function TracNghiemThiTiengAnh(): React.JSX.Element {
 				<h4><HashLink smooth to="/tieng-anh#ev-tenses-basic-practice"><mark className="highlight-tertiary-padding-4-8">Tenses</mark></HashLink></h4>
 	
 				<header className="quiz-header">
-					<h1 className="margin-y-50 text-center">Trắc Nghiệm Thì Tiếng Anh</h1>
-					<p className="subtitle text-center">Test your knowledge of fundamental Thì Tiếng Anh</p>
+					<h1 className="margin-y-50 text-center">Trắc Nghiệm Thời Hành Động Tiếng Anh</h1>
+					<p className="subtitle text-center">Test your knowledge of fundamental English Verb Tense Quiz</p>
 				</header>
 	
 				<EnglishPracticeQuiz questions={questions} />

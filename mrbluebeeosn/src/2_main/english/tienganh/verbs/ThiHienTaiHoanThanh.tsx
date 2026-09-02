@@ -17,7 +17,7 @@ export default function ThiHienTaiHoanThanh(): React.JSX.Element {
 		
 			<h4><HashLink smooth to="/tieng-anh#verbs-terms"><mark className="highlight-tertiary-padding-4-8">VERBS</mark></HashLink></h4>
 
-			<h1 className="margin-y-50 text-center">Thì Hiện Tại Hoàn Thành</h1>
+			<h1 className="margin-y-50 text-center">Thời Hành Động Hiện Tại Hoàn Thành</h1>
 
 			<h4 className="margin-bottom-30 text-center">Cây Cầu Nối Liền Quá Khứ Và Hiện Tại</h4>
 
@@ -25,7 +25,7 @@ export default function ThiHienTaiHoanThanh(): React.JSX.Element {
 
 			<h3 className="margin-y-50 text-center">Không Chỉ Là "Chưa Hoàn Thành": Một Lối Tư Duy Mới</h3>
 
-				<p>Nhiều người học hiểu đơn giản: Thì Hiện tại hoàn thành = hành động bắt đầu trong quá khứ và vẫn còn tiếp diễn. Điều này đúng, <strong>nhưng chỉ là một nửa bức tranh</strong>. Nếu chỉ dừng lại ở đây, bạn sẽ không thể giải thích được những câu như:</p>
+				<p>Nhiều người học hiểu đơn giản: Thời hành động hiện tại hoàn thành = hành động bắt đầu trong quá khứ và vẫn còn tiếp diễn. Điều này đúng, <strong>nhưng chỉ là một nửa bức tranh</strong>. Nếu chỉ dừng lại ở đây, bạn sẽ không thể giải thích được những câu như:</p>
 
 				<ul className="list-square">
 
@@ -115,7 +115,7 @@ export default function ThiHienTaiHoanThanh(): React.JSX.Element {
 
 			</div>
 
-			<h3 className="margin-y-50 text-center">Phân Biệt Rõ Ràng: Khi Nào Dùng Thì Quá Khứ Đơn?</h3>
+			<h3 className="margin-y-50 text-center">Phân Biệt Rõ Ràng: Khi Nào Dùng Thời Hành Động Quá Khứ Đơn?</h3>
 
 				<p>Sự nhầm lẫn thường xảy ra giữa Hiện tại hoàn thành và Quá khứ đơn. Hãy nhớ:</p>
 

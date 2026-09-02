@@ -78,7 +78,7 @@ export default function EVPrimaryAuxiliaryVerbsQuiz(): React.JSX.Element {
 				"did"
 			],
 			correctAnswer: 2,
-			explanation: "Thì Hiện tại hoàn thành dùng để diễn tả hành động kéo dài đến hiện tại. Cấu trúc S (We) + have + V3 (had)."
+			explanation: "Thời hành động hiện tại hoàn thành dùng để diễn tả hành động kéo dài đến hiện tại. Cấu trúc S (We) + have + V3 (had)."
 		},
 		{
 			id: 6,
@@ -102,7 +102,7 @@ export default function EVPrimaryAuxiliaryVerbsQuiz(): React.JSX.Element {
 				"be"
 			],
 			correctAnswer: 2,
-			explanation: "Thì Hiện tại tiếp diễn diễn tả hành động đang xảy ra: S (I) + am + V-ing."
+			explanation: "Thời hành động hiện tại tiếp diễn diễn tả hành động đang xảy ra: S (I) + am + V-ing."
 		},
 		{
 			id: 8,
@@ -126,7 +126,7 @@ export default function EVPrimaryAuxiliaryVerbsQuiz(): React.JSX.Element {
 				"did"
 			],
 			correctAnswer: 1,
-			explanation: "Thì Hiện tại hoàn thành thể bị động: S + have/has + been + V3/ed. \"Documents\" số nhiều đi với \"have\"."
+			explanation: "Thời hành động hiện tại hoàn thành thể bị động: S + have/has + been + V3/ed. \"Documents\" số nhiều đi với \"have\"."
 		},
 		{
 			id: 10,

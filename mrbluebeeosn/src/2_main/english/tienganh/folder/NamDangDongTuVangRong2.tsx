@@ -179,9 +179,9 @@ export default function NamDangDongTuVangRong2(): React.JSX.Element {
 					</tbody>
 				</table>
 
-			{/* 5 "Siêu Thì" Bạn Dùng Hàng Ngày Với 12 [Động Cơ] Này */}
+			{/* 5 "Siêu Thời Hành Động" Bạn Dùng Hàng Ngày Với 12 [Động Cơ] Này */}
 
-			<h3 className="margin-y-50 text-center">5 "Siêu Thì" Bạn Dùng Hàng Ngày Với 12 [Động Cơ] Này</h3>
+			<h3 className="margin-y-50 text-center">5 "Siêu Thời Hành Động" Bạn Dùng Hàng Ngày Với 12 [Động Cơ] Này</h3>
 					
 				<ol>
 			

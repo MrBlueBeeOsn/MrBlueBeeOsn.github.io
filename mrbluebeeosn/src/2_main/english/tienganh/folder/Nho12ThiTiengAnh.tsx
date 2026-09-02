@@ -17,7 +17,7 @@ export default function Nho12ThiTiengAnh(): React.JSX.Element {
 		
 			<h4><HashLink smooth to="/tieng-anh#tieng-anh-terms"><mark className="highlight-tertiary-padding-4-8">Tiếng Anh</mark></HashLink></h4>
 			
-			<h1 className="margin-y-50 text-center">Hướng Dẫn Nhớ 12 Thì Tiếng Anh Chỉ Với Mã A1 Đến C4</h1>
+			<h1 className="margin-y-50 text-center">Hướng Dẫn Nhớ 12 Thời Hành Động Tiếng Anh Chỉ Với Mã A1 Đến C4</h1>
 
 			{/* This is the content of English Learning Term. */}
 
