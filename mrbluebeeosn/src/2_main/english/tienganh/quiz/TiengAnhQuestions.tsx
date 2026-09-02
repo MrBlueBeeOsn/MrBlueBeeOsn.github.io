@@ -102,7 +102,7 @@ export default function TiengAnhQuestions(): React.JSX.Element {
 				"esCAPE"
 			],
 			correctAnswer: 2,
-			explanation: "Hành động tẩu thoát của những tên trộm xảy ra trước hành động cảnh sát đến trong quá khứ. Để diễn tả hành động xảy ra trước một hành động khác trong quá khứ, ta dùng thì Quá khứ Hoàn thành (had + PII)."
+			explanation: "Hành động tẩu thoát của những tên trộm xảy ra trước hành động cảnh sát đến trong quá khứ. Để diễn tả hành động xảy ra trước một hành động khác trong quá khứ, ta dùng thời hành động quá khứ Hoàn thành (had + PII)."
 		},
 		{
 			id: 8,

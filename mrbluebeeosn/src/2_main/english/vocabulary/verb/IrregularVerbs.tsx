@@ -1201,7 +1201,7 @@ export default function IrregularVerbs(): React.JSX.Element {
 				<ul className="list-square">
 			
 					<li>she <strong>GOES</strong> to SCHOOL <strong>EVERy DAY</strong>.</li>
-					<li className="list-none">Cô ấy <strong>đi</strong> học <strong>mỗi ngày</strong>. (Thời hiện tại đơn)</li>
+					<li className="list-none">Cô ấy <strong>đi</strong> học <strong>mỗi ngày</strong>. (Thời hành động hiện tại đơn)</li>
 			
 				</ul>
 
@@ -1214,7 +1214,7 @@ export default function IrregularVerbs(): React.JSX.Element {
 				<ul className="list-square">
 
 					<li><strong>YESterday</strong>, i <strong>WENT</strong> to the CINema.</li>
-					<li className="list-none"><strong>Hôm qua</strong> tôi <strong>đã đi</strong> xem phim (đi rạp chiếu phim). (Thời quá khứ đơn)</li>
+					<li className="list-none"><strong>Hôm qua</strong> tôi <strong>đã đi</strong> xem phim (đi rạp chiếu phim). (Thời hành động quá khứ đơn)</li>
 			
 				</ul>
 
@@ -1229,7 +1229,7 @@ export default function IrregularVerbs(): React.JSX.Element {
 				<ul className="list-square">
 
 					<li>i <strong>have just GONE</strong> HOME.</li>
-					<li className="list-none">Tôi <strong>vừa mới về</strong> nhà <strong>rồi</strong>. (Thời hiện tại hoàn thành)</li>
+					<li className="list-none">Tôi <strong>vừa mới về</strong> nhà <strong>rồi</strong>. (Thời hành động hiện tại hoàn thành)</li>
 			
 				</ul>
 
@@ -1240,7 +1240,7 @@ export default function IrregularVerbs(): React.JSX.Element {
 				<ul className="list-square">
 
 					<li>i <strong>had FINished</strong> my HOMEwork before DINner.</li>
-					<li className="list-none">Tôi <strong>đã hoàn thành xong</strong> bài tập về nhà trước bữa tối <strong>rồi</strong>. (Thời quá khứ hoàn thành)</li>
+					<li className="list-none">Tôi <strong>đã hoàn thành xong</strong> bài tập về nhà trước bữa tối <strong>rồi</strong>. (Thời hành động quá khứ hoàn thành)</li>
 			
 				</ul>
 
@@ -1251,7 +1251,7 @@ export default function IrregularVerbs(): React.JSX.Element {
 				<ul className="list-square">
 
 					<li>i <strong>will have FINished</strong> my HOMEwork by NINE p.m.</li>
-					<li className="list-none">Tôi <strong>sẽ hoàn thành xong</strong> bài tập về nhà trước 9 giờ tối <strong>rồi</strong>. (Thời tương lai hoàn thành)</li>
+					<li className="list-none">Tôi <strong>sẽ hoàn thành xong</strong> bài tập về nhà trước 9 giờ tối <strong>rồi</strong>. (Thời hành động tương lai hoàn thành)</li>
 			
 				</ul>
 					

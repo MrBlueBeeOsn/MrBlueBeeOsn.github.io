@@ -104,15 +104,15 @@ export default function SauDangHanhDong1(): React.JSX.Element {
 					<ul className="list-square">
 
 						<li>YESterday i WORKED until MIDnight.</li>
-						<li className="list-none">Hôm qua tôi đã làm việc cho đến tận nửa đêm. (Thời quá khứ đơn)</li>
+						<li className="list-none">Hôm qua tôi đã làm việc cho đến tận nửa đêm. (Thời hành động quá khứ đơn)</li>
 						<li className="margin-bottom-20 list-none">Hành động làm việc kéo dài đến một thời điểm cụ thể trong quá khứ (MIDnight) và gắn với mốc thời gian rõ ràng là YESterday.</li>
 
 						<li>we ATE SUshi LAST NIGHT.</li>
-						<li className="list-none">Chúng tôi đã ăn sushi vào tối qua. (Thời quá khứ đơn)</li>
+						<li className="list-none">Chúng tôi đã ăn sushi vào tối qua. (Thời hành động quá khứ đơn)</li>
 						<li className="margin-bottom-20 list-none">Hành động bất quy tắc EAT chuyển thành ATE, kết hợp với cụm từ chỉ thời gian trong quá khứ là LAST NIGHT.</li>
 
 						<li>she WENT to jaPAN TWO YEARS aGO.</li>
-						<li className="list-none">Cô ấy đã đi Nhật Bản cách đây hai năm. (Thời quá khứ đơn)</li>
+						<li className="list-none">Cô ấy đã đi Nhật Bản cách đây hai năm. (Thời hành động quá khứ đơn)</li>
 						<li className="margin-bottom-20 list-none">Hành động bất quy tắc go chuyển thành WENT, kết hợp với cụm từ TWO YEARS aGO (cách đây 2 năm) để chỉ mốc thời gian đã trôi qua trong quá khứ.</li>
 
 					</ul>
@@ -125,15 +125,15 @@ export default function SauDangHanhDong1(): React.JSX.Element {
 
 						<li>i have WORKED HERE for 5 YEARS.</li>
 						<li className="list-none">Tôi đã làm việc ở đây được 5 năm.</li>
-						<li className="margin-bottom-20 list-none">Thời hiện tại hoàn thành (PREsent PERfect). Cấu trúc này dùng để diễn tả một hành động bắt đầu trong quá khứ và vẫn đang tiếp diễn ở hiện tại (tính đến nay tôi vẫn đang làm việc tại đây).</li>
+						<li className="margin-bottom-20 list-none">Thời hành động hiện tại hoàn thành (PREsent PERfect). Cấu trúc này dùng để diễn tả một hành động bắt đầu trong quá khứ và vẫn đang tiếp diễn ở hiện tại (tính đến nay tôi vẫn đang làm việc tại đây).</li>
 
 						<li>she has NEVer EAten DURian.</li>
 						<li className="list-none">Cô ấy chưa bao giờ ăn sầu riêng.</li>
-						<li className="margin-bottom-20 list-none">Thời hiện tại hoàn thành (PREsent PERfect). Thường dùng phó từ NEVer để nói về trải nghiệm tính đến thời điểm hiện tại.</li>
+						<li className="margin-bottom-20 list-none">Thời hành động hiện tại hoàn thành (PREsent PERfect). Thường dùng phó từ NEVer để nói về trải nghiệm tính đến thời điểm hiện tại.</li>
 
 						<li>by 5 p.M., we had FINished ALL the TASKS.</li>
 						<li className="list-none">Trước 5 giờ chiều, chúng tôi đã hoàn thành tất cả các nhiệm vụ.</li>
-						<li className="margin-bottom-20 list-none">Thời quá khứ hoàn thành (PAST PERfect). Diễn tả một hành động đã hoàn tất trước một thời điểm cụ thể trong quá khứ (trước mốc 5 giờ chiều hôm đó).</li>
+						<li className="margin-bottom-20 list-none">Thời hành động quá khứ hoàn thành (PAST PERfect). Diễn tả một hành động đã hoàn tất trước một thời điểm cụ thể trong quá khứ (trước mốc 5 giờ chiều hôm đó).</li>
 
 					</ul>
 
@@ -176,15 +176,15 @@ export default function SauDangHanhDong1(): React.JSX.Element {
 					<ul className="list-square">
 
 						<li>i WANT to WORK aBROAD NEXT YEAR.</li>
-						<li className="list-none">Tôi muốn làm việc ở nước ngoài vào năm tới. (Thời hiện tại đơn)</li>
+						<li className="list-none">Tôi muốn làm việc ở nước ngoài vào năm tới. (Thời hành động hiện tại đơn)</li>
 						<li className="margin-bottom-20 list-none">Cấu trúc WANT to do SOMEthing dùng để diễn tả mong muốn ở hiện tại cho kế hoạch trong tương lai (NEXT YEAR).</li>
 
 						<li>she deCIded to STUDy ENGlish SERiously.</li>
-						<li className="list-none">Cô ấy đã quyết định học tiếng Anh một cách nghiêm túc. (Thời quá khứ đơn)</li>
+						<li className="list-none">Cô ấy đã quyết định học tiếng Anh một cách nghiêm túc. (Thời hành động quá khứ đơn)</li>
 						<li className="margin-bottom-20 list-none">Cấu trúc decided to do SOMEthing dùng để diễn tả một quyết định đã được đưa ra và hoàn tất trong quá khứ.</li>
 
 						<li>it’s NICE to EAT HEALthy FOOD.</li>
-						<li className="list-none">Thật tuyệt khi ăn những thực phẩm lành mạnh. (Thời hiện tại đơn)</li>
+						<li className="list-none">Thật tuyệt khi ăn những thực phẩm lành mạnh. (Thời hành động hiện tại đơn)</li>
 						<li className="margin-bottom-20 list-none">Cấu trúc it is + tính + to do SOMEthing dùng để đưa ra nhận xét hoặc cảm nhận về một hành động nào đó.</li>
 
 					</ul>

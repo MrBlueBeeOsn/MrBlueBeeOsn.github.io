@@ -5,9 +5,9 @@ import EyeIcon from '@/components/view/EyeIcon';
 import ViewCounter from '@/components/view/ViewCounter';
 import LikeButton from '@/components/like/LikeButton';
 
-export default function ThiHienTaiHoanThanh(): React.JSX.Element {
+export default function ThoiHanhDongHTHT(): React.JSX.Element {
 
-	const postId = "ThiHienTaiHoanThanh";
+	const postId = "ThoiHanhDongHTHT";
 
 	return (<>
 
@@ -21,7 +21,7 @@ export default function ThiHienTaiHoanThanh(): React.JSX.Element {
 
 			<h4 className="margin-bottom-30 text-center">Cây Cầu Nối Liền Quá Khứ Và Hiện Tại</h4>
 
-			<p>Bạn đã bao giờ bối rối khi chọn giữa "I lived" và "I have lived"? Bạn có nghe nói thì Hiện tại hoàn thành diễn tả "hành động chưa hoàn thành trong quá khứ" và cảm thấy điều đó chưa đầy đủ? Bài viết này sẽ là chìa khóa giúp bạn thực sự làm chủ thời ngữ pháp quan trọng bậc nhất này, không phải qua những công thức khô khan, mà qua bản chất <strong>sự kết nối thời gian</strong> của nó.</p>
+			<p>Bạn đã bao giờ bối rối khi chọn giữa "I lived" và "I have lived"? Bạn có nghe nói thời hành động hiện tại hoàn thành diễn tả "hành động chưa hoàn thành trong quá khứ" và cảm thấy điều đó chưa đầy đủ? Bài viết này sẽ là chìa khóa giúp bạn thực sự làm chủ thời ngữ pháp quan trọng bậc nhất này, không phải qua những công thức khô khan, mà qua bản chất <strong>sự kết nối thời gian</strong> của nó.</p>
 
 			<h3 className="margin-y-50 text-center">Không Chỉ Là "Chưa Hoàn Thành": Một Lối Tư Duy Mới</h3>
 
@@ -37,7 +37,7 @@ export default function ThiHienTaiHoanThanh(): React.JSX.Element {
 
 				</ul>
 
-			<p className="margin-top-20">Vậy then chốt nằm ở đâu? Câu trả lời nằm ở <strong>tác động</strong>, <strong>kết quả hoặc trải nghiệm mà hành động trong quá khứ để lại cho hiện tại</strong>. Hãy nghĩ về thì Hiện tại hoàn thành như một <strong>cây cầu vững chắc</strong>, nối mốc thời gian trong quá khứ với tình trạng, sự việc ở hiện tại.</p>
+			<p className="margin-top-20">Vậy then chốt nằm ở đâu? Câu trả lời nằm ở <strong>tác động</strong>, <strong>kết quả hoặc trải nghiệm mà hành động trong quá khứ để lại cho hiện tại</strong>. Hãy nghĩ về thời hành động hiện tại hoàn thành như một <strong>cây cầu vững chắc</strong>, nối mốc thời gian trong quá khứ với tình trạng, sự việc ở hiện tại.</p>
 
 			<h3 className="margin-y-50 text-center">Hai Mặt Của Một Đồng Xu: Cách Dùng Cốt Lõi</h3>
 
@@ -164,7 +164,7 @@ export default function ThiHienTaiHoanThanh(): React.JSX.Element {
 
 			<h3 className="margin-y-50 text-center">Lời Kết: Hãy Xây Những Cây Cầu Của Riêng Bạn</h3>
 
-			<p className="margin-top-20">Hiểu thì Hiện tại hoàn thành không phải là ghi nhớ một quy tắc cứng nhắc "chưa hoàn thành", mà là nắm bắt được tư duy về sự kết nối. Mỗi khi do dự, hãy tự hỏi: "<strong>Hành động</strong>/<strong>quá khứ này có còn</strong> '<strong>sống</strong>', <strong>có còn ảnh hưởng hoặc liên quan đến tình huống</strong>/<strong>người nói ở thời điểm hiện tại không</strong>?"</p>
+			<p className="margin-top-20">Hiểu thời hành động hiện tại hoàn thành không phải là ghi nhớ một quy tắc cứng nhắc "chưa hoàn thành", mà là nắm bắt được tư duy về sự kết nối. Mỗi khi do dự, hãy tự hỏi: "<strong>Hành động</strong>/<strong>quá khứ này có còn</strong> '<strong>sống</strong>', <strong>có còn ảnh hưởng hoặc liên quan đến tình huống</strong>/<strong>người nói ở thời điểm hiện tại không</strong>?"</p>
 
 			<p>Nếu câu trả lời là CÓ, bạn đang cần đến cây cầu Hiện tại hoàn thành. Hãy bắt đầu xây dựng cây cầu ngôn ngữ của riêng mình bằng cách luyện tập, lắng nghe và cảm nhận sự khác biệt tinh tế này. Bạn sẽ thấy tiếng Anh của mình trở nên tự nhiên và sâu sắc hơn rất nhiều.</p>
 

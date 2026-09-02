@@ -28,7 +28,7 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 				<ul className="list-square">
 			
 					<li>i <strong>enJOY</strong> SWIMming. → đúng</li>
-					<li className="list-none">Tôi thích bơi lội. (Thời hiện tại đơn)</li>
+					<li className="list-none">Tôi thích bơi lội. (Thời hành động hiện tại đơn)</li>
 					<li className="margin-bottom-20 list-none">Từ enJOY thường được theo sau bởi một từ chỉ hành động được thêm đuôi -ing (cụ thể ở đây là SWIMming) để diễn tả một sở thích hoặc niềm vui chung chung ở hiện tại.</li>
 			
 					<li>i <strong>enJOY</strong> to SWIM. → sai</li>
@@ -41,7 +41,7 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 				<ul className="list-square">
 			
 					<li>i <strong>WANT</strong> to GO. → đúng</li>
-					<li className="list-none">Tôi muốn đi. (Thời hiện tại đơn)</li>
+					<li className="list-none">Tôi muốn đi. (Thời hành động hiện tại đơn)</li>
 					<li className="margin-bottom-20 list-none">Từ WANT dùng để diễn tả mong muốn ở hiện tại, và nó được nối tiếp ngay bằng một từ chỉ hành động có chữ to đi kèm ở phía trước (to GO).</li>
 
 					<li>i <strong>WANT</strong> GOing → sai kinh khủng</li>
@@ -56,11 +56,11 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 				<ul className="list-square">
 			
 					<li>i <strong>STOPPED</strong> SMOKing.</li>
-					<li className="list-none">Tôi <strong>đã bỏ hút thuốc</strong> (rồi). (Thời quá khứ đơn)</li>
+					<li className="list-none">Tôi <strong>đã bỏ hút thuốc</strong> (rồi). (Thời hành động quá khứ đơn)</li>
 					<li className="margin-bottom-20 list-none">Cấu trúc stop đi kèm với từ chỉ hành động có đuôi -ing (SMOKing) mang ý nghĩa là ngừng hẳn hoặc từ bỏ một thói quen (tôi đã từng hút thuốc và bây giờ không làm việc đó nữa).</li>
 			
 					<li>i <strong>STOPPED</strong> to SMOKE.</li>
-					<li className="list-none">Tôi đã dừng lại để hút thuốc. (Thời quá khứ đơn)</li>
+					<li className="list-none">Tôi đã dừng lại để hút thuốc. (Thời hành động quá khứ đơn)</li>
 					<li className="margin-bottom-20 list-none">Cấu trúc stop đi kèm với từ chỉ hành động có chữ to ở trước (to SMOKE) mang ý nghĩa là tạm dừng một việc đang làm lại để chuyển sang thực hiện một việc khác (ví dụ: đang đi dọc đường thì dừng chân lại để hút thuốc).</li>
 			
 				</ul>
