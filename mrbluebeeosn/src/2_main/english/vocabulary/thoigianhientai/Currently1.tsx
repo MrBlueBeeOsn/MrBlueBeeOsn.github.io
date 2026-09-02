@@ -224,7 +224,7 @@ export default function CURrently1(): React.JSX.Element {
 
           <li>Tính tạm thời: "<strong>CURrently</strong>" nhấn mạnh tính chất tạm thời của một tình huống.</li>
 
-          <li className="margin-bottom-20">Dùng với hành động hiện tại tiếp diễn: Thường được dùng với hành động hiện tại tiếp diễn để diễn tả hành động đang diễn ra.</li>
+          <li className="margin-bottom-20">Dùng với ⏱️ Thời Điểm Hành Động ở Hiện Tại Tiếp Diễn: Thường được dùng với ⏱️ Thời Điểm Hành Động ở Hiện Tại Tiếp Diễn để diễn tả hành động đang diễn ra.</li>
 
         </ul>
 

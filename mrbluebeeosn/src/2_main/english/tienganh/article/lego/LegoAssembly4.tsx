@@ -48,7 +48,7 @@ export default function LegoAssembly4(): React.JSX.Element {
 
 			</h1>
 
-			<h4 className="margin-bottom-30 text-center">Khi Tiếng Anh Không Còn Là “12 Thời Hành Động” Mà Là Một Hệ Lắp Ghép</h4>
+			<h4 className="margin-bottom-30 text-center">Khi Tiếng Anh Không Còn Là “12 Thời Gian Hành Động” Mà Là Một Hệ Lắp Ghép</h4>
 
 			<p className="margin-top-20">Rất nhiều người học tiếng Anh theo cách giống học công thức toán.</p>
 			
@@ -420,7 +420,7 @@ export default function LegoAssembly4(): React.JSX.Element {
 
 			{/* 8.  */}
 
-			<h3 className="margin-y-50 text-center">8. Thực Chất, Bạn Không “Học Thời Hành Động”</h3>
+			<h3 className="margin-y-50 text-center">8. Thực Chất, Bạn Không “Học Thời Gian Hành Động”</h3>
 
 			<p className="margin-top-20">Bạn chỉ đang:</p>
 			

@@ -41,8 +41,8 @@ export default function NamDangDongTuVangRong2(): React.JSX.Element {
 							<th>Động cơ</th>
 							<th>Nguyên thể</th>
 							<th>Ngôi 3 số ít</th>
-							<th>Quá khứ đơn</th>
-							<th>Hiện tại hoàn thành</th>
+							<th>⏳ Thời Gian Hành Động ở Quá Khứ Đơn</th>
+							<th>📏 Khoảng Thời Gian Hành Động ở Hiện Tại Hoàn Thành</th>
 							<th>Đang… (-ing)</th>
 						</tr>
 					</thead>
@@ -179,19 +179,19 @@ export default function NamDangDongTuVangRong2(): React.JSX.Element {
 					</tbody>
 				</table>
 
-			{/* 5 "Siêu Thời Hành Động" Bạn Dùng Hàng Ngày Với 12 [Động Cơ] Này */}
+			{/* 5 "Siêu Thời Gian Hành Động" Bạn Dùng Hàng Ngày Với 12 [Động Cơ] Này */}
 
-			<h3 className="margin-y-50 text-center">5 "Siêu Thời Hành Động" Bạn Dùng Hàng Ngày Với 12 [Động Cơ] Này</h3>
+			<h3 className="margin-y-50 text-center">5 "Siêu Thời Gian Hành Động" Bạn Dùng Hàng Ngày Với 12 [Động Cơ] Này</h3>
 					
 				<ol>
 			
-					<li value="1"><strong>Hiện tại đơn giản</strong> (thói quen, sự thật)</li>
+					<li value="1"><strong>⏳ Thời Gian Hành Động ở Hiện Tại Đơn</strong> (thói quen, sự thật)</li>
 					<li className="list-none">I <strong>work</strong> from home.</li>
 					<li className="list-none"><strong>Do</strong> you <strong>like</strong> horror movies? → No, I <strong>don’t</strong>.</li>
 					<li className="list-none">I <strong>work</strong> at a tech company.</li>
 					<li className="list-none"><strong>Do</strong> you <strong>work</strong> on weekends?</li>
 
-					<li value="2" className="margin-top-20"><strong>Hiện tại đơn giản</strong> (cho he/she/it)</li>
+					<li value="2" className="margin-top-20"><strong>⏳ Thời Gian Hành Động ở Hiện Tại Đơn</strong> (cho he/she/it)</li>
 					<li className="list-none">She <strong>likes</strong> spicy food.</li>
 					<li className="list-none"><strong>Does</strong> he <strong>play</strong> soccer? → Yes, he <strong>does</strong> every weekend.</li>
 					<li className="list-none">She <strong>doesn’t like</strong> rainy days.</li>

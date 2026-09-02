@@ -19,13 +19,13 @@ export default function PREsentPERfect(): React.JSX.Element {
 
 			<h1 className="margin-y-50 text-center">PREsent PERfect</h1>					
 
-			<h4 className="margin-bottom-30 text-center">Hiểu Đúng Về Thời Hành Động Hiện Tại Hoàn Thành</h4>
+			<h4 className="margin-bottom-30 text-center">Hiểu Đúng Về 📏 Khoảng Thời Gian Hành Động ở Hiện Tại Hoàn Thành</h4>
 
-			<p>Bạn đã bao giờ tự hỏi: "Thời hành động hiện tại hoàn thành có phải dùng để nói về hành động chưa hoàn thành trong quá khứ không?" Đây là một câu hỏi rất phổ biến của người học tiếng Anh, và câu trả lời là <strong>đúng một phần</strong>, nhưng chưa đầy đủ. Hãy cùng mình khám phá sâu hơn về thời này để nắm rõ và dùng chính xác nhé!</p>
+			<p>Bạn đã bao giờ tự hỏi: "📏 Khoảng Thời Gian Hành Động ở Hiện Tại Hoàn Thành có phải dùng để nói về hành động chưa hoàn thành trong quá khứ không?" Đây là một câu hỏi rất phổ biến của người học tiếng Anh, và câu trả lời là <strong>đúng một phần</strong>, nhưng chưa đầy đủ. Hãy cùng mình khám phá sâu hơn về thời này để nắm rõ và dùng chính xác nhé!</p>
 
-			<h3 className="margin-y-50 text-center">Thời Hành Động Hiện Tại Hoàn Thành Là Gì?</h3>
+			<h3 className="margin-y-50 text-center">📏 Khoảng Thời Gian Hành Động ở Hiện Tại Hoàn Thành Là Gì?</h3>
 
-			<p>Thời hành động hiện tại hoàn thành được cấu tạo bởi <strong>have/has</strong> + <strong>động cơ ở dạng AST PARticiple</strong> (V3).</p>
+			<p>📏 Khoảng Thời Gian Hành Động ở Hiện Tại Hoàn Thành được cấu tạo bởi <strong>have/has</strong> + <strong>động cơ ở dạng AST PARticiple</strong> (V3).</p>
 
 			<p className="text-indent-whole">Ví dụ:</p>
 
@@ -43,9 +43,9 @@ export default function PREsentPERfect(): React.JSX.Element {
 
 				</ul>
 
-			<p className="margin-top-20">Khác với thời quá khứ đơn (Past Simple), thời hiện tại hoàn thành <strong>luôn có sự liên kết với hiện tại</strong>. Nó không chỉ kể về quá khứ mà còn nhấn mạnh hậu quả hoặc sự tiếp diễn đến thời điểm bây giờ.</p>
+			<p className="margin-top-20">Khác với ⏳ Thời Gian Hành Động ở Quá Khứ Đơn (Past Simple), 📏 Khoảng Thời Gian Hành Động ở Hiện Tại Hoàn Thành <strong>luôn có sự liên kết với hiện tại</strong>. Nó không chỉ kể về quá khứ mà còn nhấn mạnh hậu quả hoặc sự tiếp diễn đến thời điểm bây giờ.</p>
 
-			<h3 className="margin-y-50 text-center">Các Ý Nghĩa Chính Của Thời Hành Động Hiện Tại Hoàn Thành</h3>
+			<h3 className="margin-y-50 text-center">Các Ý Nghĩa Chính Của 📏 Khoảng Thời Gian Hành Động ở Hiện Tại Hoàn Thành</h3>
 
 			{/* 1. Hành động bắt đầu trong quá khứ và vẫn tiếp diễn đến hiện tại */}
 
@@ -60,7 +60,7 @@ export default function PREsentPERfect(): React.JSX.Element {
 						<li>i <strong>have WORKED</strong> at this COMpany for FIVE YEARS.</li>
 						<li className="margin-bottom-20 list-none">Tôi <strong>đã làm việc</strong> ở công ty này được 5 năm (rồi).</li>
 
-						<li className="list-none">Câu này dùng thời hiện tại hoàn thành với từ for để chỉ một hành động bắt đầu trong quá khứ và vẫn tiếp tục kéo dài đến thời điểm hiện tại (bây giờ tôi vẫn đang làm ở công ty này).</li>
+						<li className="list-none">Câu này dùng 📏 Khoảng Thời Gian Hành Động ở Hiện Tại Hoàn Thành với từ for để chỉ một hành động bắt đầu trong quá khứ và vẫn tiếp tục kéo dài đến thời điểm hiện tại (bây giờ tôi vẫn đang làm ở công ty này).</li>
 
 						<li className="list-none">→ Bắt đầu làm việc 5 năm trước → vẫn đang làm việc bây giờ → hành động chưa kết thúc.</li>
 
@@ -120,13 +120,13 @@ export default function PREsentPERfect(): React.JSX.Element {
 					</ul>
 			</div>
 
-				<h3 className="margin-y-50 text-center">So Sánh Nhanh Với Thời Hành Động Quá Khứ Đơn</h3>
+				<h3 className="margin-y-50 text-center">So Sánh Nhanh Với ⏳ Thời Gian Hành Động ở Quá Khứ Đơn</h3>
 
 				<table className="margin-y-50">
 					<thead>
 						<tr>
-							<th>Thời Hành Động Hiện Tại Hoàn Thành</th>
-							<th>Thời Hành Động Quá Khứ Đơn</th>
+							<th>📏 Khoảng Thời Gian Hành Động ở Hiện Tại Hoàn Thành</th>
+							<th>⏳ Thời Gian Hành Động ở Quá Khứ Đơn</th>
 						</tr>
 					</thead>
 
@@ -166,7 +166,7 @@ export default function PREsentPERfect(): React.JSX.Element {
 
 			<p>→ Dùng <strong>PAST SIMple</strong>: Nếu chỉ kể chuyện quá khứ như một sự kiện đã xong.</p>
 
-			<p className="margin-top-20">Thời hành động hiện tại hoàn thành không khó, chỉ cần luyện tập là sẽ quen thôi! Hãy thử viết vài câu về bản thân bằng thời này xem sao:</p>
+			<p className="margin-top-20">📏 Khoảng Thời Gian Hành Động ở Hiện Tại Hoàn Thành không khó, chỉ cần luyện tập là sẽ quen thôi! Hãy thử viết vài câu về bản thân bằng thời này xem sao:</p>
 			
 				<ul className="list-square">
 			

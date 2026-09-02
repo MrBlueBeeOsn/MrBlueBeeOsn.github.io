@@ -87,7 +87,7 @@ export default function LegoAssembly6(): React.JSX.Element {
 			
 					<li>Xác định <strong>S</strong> (vị trí danh chủ).</li>
 			
-					<li>Xác định <strong>Head</strong> (động cơ chia / thời hành động / modal / <strong>be</strong>).</li>
+					<li>Xác định <strong>Head</strong> (động cơ chia / thời gian hành động / modal / <strong>be</strong>).</li>
 			
 					<li>Phần đứng sau <strong>Head</strong> (hoặc phần đứng trước Head nếu là danh chủ) là <strong>DP</strong> theo vị trí.</li>
 

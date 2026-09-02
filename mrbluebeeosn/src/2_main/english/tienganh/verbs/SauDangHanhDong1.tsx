@@ -45,7 +45,7 @@ export default function SauDangHanhDong1(): React.JSX.Element {
 
 				<p className="text-center margin-bottom-50">(Thói quen của “tôi/anh/em” vs “anh ấy/cô ấy/nó”)</p>
 
-				<p><strong>WORK</strong> (dạng gốc – BARE inFINitive): Dùng cho i, you, we, they ở hiện tại đơn giản, hoặc sau do/does/did, can, will, must…</p>
+				<p><strong>WORK</strong> (dạng gốc – BARE inFINitive): Dùng cho i, you, we, they ở ⏳ Thời Gian Hành Động ở Hiện Tại Đơn, hoặc sau do/does/did, can, will, must…</p>
 
 				<p className="text-indent-whole">Ví dụ:</p>
 
@@ -104,20 +104,20 @@ export default function SauDangHanhDong1(): React.JSX.Element {
 					<ul className="list-square">
 
 						<li>YESterday i WORKED until MIDnight.</li>
-						<li className="list-none">Hôm qua tôi đã làm việc cho đến tận nửa đêm. (Thời hành động quá khứ đơn)</li>
+						<li className="list-none">Hôm qua tôi đã làm việc cho đến tận nửa đêm. (⏳ Thời Gian Hành Động ở Quá Khứ Đơn)</li>
 						<li className="margin-bottom-20 list-none">Hành động làm việc kéo dài đến một thời điểm cụ thể trong quá khứ (MIDnight) và gắn với mốc thời gian rõ ràng là YESterday.</li>
 
 						<li>we ATE SUshi LAST NIGHT.</li>
-						<li className="list-none">Chúng tôi đã ăn sushi vào tối qua. (Thời hành động quá khứ đơn)</li>
+						<li className="list-none">Chúng tôi đã ăn sushi vào tối qua. (⏳ Thời Gian Hành Động ở Quá Khứ Đơn)</li>
 						<li className="margin-bottom-20 list-none">Hành động bất quy tắc EAT chuyển thành ATE, kết hợp với cụm từ chỉ thời gian trong quá khứ là LAST NIGHT.</li>
 
 						<li>she WENT to jaPAN TWO YEARS aGO.</li>
-						<li className="list-none">Cô ấy đã đi Nhật Bản cách đây hai năm. (Thời hành động quá khứ đơn)</li>
+						<li className="list-none">Cô ấy đã đi Nhật Bản cách đây hai năm. (⏳ Thời Gian Hành Động ở Quá Khứ Đơn)</li>
 						<li className="margin-bottom-20 list-none">Hành động bất quy tắc go chuyển thành WENT, kết hợp với cụm từ TWO YEARS aGO (cách đây 2 năm) để chỉ mốc thời gian đã trôi qua trong quá khứ.</li>
 
 					</ul>
 
-				<p className="margin-top-20"><strong>Have</strong>/<strong>Has</strong>/<strong>had WORKED</strong> (phân từ quá khứ – PAST PARticiple trong thì hoàn thành): Dùng để nói kinh nghiệm, kết quả kéo dài đến hiện tại (PREsent PERfect) hoặc trước một thời điểm trong quá khứ (Past Perfect).</p>
+				<p className="margin-top-20"><strong>Have</strong>/<strong>Has</strong>/<strong>had WORKED</strong> (phân từ quá khứ – PAST PARticiple trong 📏 Khoảng Thời Gian Hành Động ở Quá Khứ Hoàn Thành): Dùng để nói kinh nghiệm, kết quả kéo dài đến hiện tại (PREsent PERfect) hoặc trước một thời điểm trong quá khứ (Past Perfect).</p>
 
 					<p className="text-indent-whole">Ví dụ:</p>
 
@@ -125,15 +125,15 @@ export default function SauDangHanhDong1(): React.JSX.Element {
 
 						<li>i have WORKED HERE for 5 YEARS.</li>
 						<li className="list-none">Tôi đã làm việc ở đây được 5 năm.</li>
-						<li className="margin-bottom-20 list-none">Thời hành động hiện tại hoàn thành (PREsent PERfect). Cấu trúc này dùng để diễn tả một hành động bắt đầu trong quá khứ và vẫn đang tiếp diễn ở hiện tại (tính đến nay tôi vẫn đang làm việc tại đây).</li>
+						<li className="margin-bottom-20 list-none">📏 Khoảng Thời Gian Hành Động ở Hiện Tại Hoàn Thành (PREsent PERfect). Cấu trúc này dùng để diễn tả một hành động bắt đầu trong quá khứ và vẫn đang tiếp diễn ở hiện tại (tính đến nay tôi vẫn đang làm việc tại đây).</li>
 
 						<li>she has NEVer EAten DURian.</li>
 						<li className="list-none">Cô ấy chưa bao giờ ăn sầu riêng.</li>
-						<li className="margin-bottom-20 list-none">Thời hành động hiện tại hoàn thành (PREsent PERfect). Thường dùng phó từ NEVer để nói về trải nghiệm tính đến thời điểm hiện tại.</li>
+						<li className="margin-bottom-20 list-none">📏 Khoảng Thời Gian Hành Động ở Hiện Tại Hoàn Thành (PREsent PERfect). Thường dùng phó từ NEVer để nói về trải nghiệm tính đến thời điểm hiện tại.</li>
 
 						<li>by 5 p.M., we had FINished ALL the TASKS.</li>
 						<li className="list-none">Trước 5 giờ chiều, chúng tôi đã hoàn thành tất cả các nhiệm vụ.</li>
-						<li className="margin-bottom-20 list-none">Thời hành động quá khứ hoàn thành (PAST PERfect). Diễn tả một hành động đã hoàn tất trước một thời điểm cụ thể trong quá khứ (trước mốc 5 giờ chiều hôm đó).</li>
+						<li className="margin-bottom-20 list-none">📏 Khoảng Thời Gian Hành Động ở Quá Khứ Hoàn Thành (PAST PERfect). Diễn tả một hành động đã hoàn tất trước một thời điểm cụ thể trong quá khứ (trước mốc 5 giờ chiều hôm đó).</li>
 
 					</ul>
 
@@ -149,7 +149,7 @@ export default function SauDangHanhDong1(): React.JSX.Element {
 
 				<p className="text-center margin-bottom-50">(“đang làm ngay lúc này” vs “Muốn/làm được”)</p>
 
-				<p><strong>be</strong> <strong>WORKing</strong> (dạng -ing – PREsent PARticiple): Dùng với am/is/are (đang diễn ra), was/were, hoặc sau enJOY, HATE, KEEP, STOP, MIND…</p>
+				<p><strong>be</strong> <strong>WORKing</strong> (dạng -ing – PREsent PARticiple): Dùng với am/is/are (⏱️ Thời Điểm Hành Động ở Hiện Tại Tiếp Diễn), was/were, hoặc sau enJOY, HATE, KEEP, STOP, MIND…</p>
 
 				<p className="text-indent-whole">Ví dụ:</p>
 
@@ -157,15 +157,15 @@ export default function SauDangHanhDong1(): React.JSX.Element {
 
 						<li>RIGHT NOW i am WORKing on this ARticle!</li>
 						<li className="list-none">Ngay lúc này tôi đang làm bài báo này!</li>
-						<li className="margin-bottom-20 list-none">Sử dụng thời hiện tại tiếp diễn (am WORKing) để diễn tả hành động đang thực sự diễn ra ngay tại thời điểm nói.</li>
+						<li className="margin-bottom-20 list-none">Sử dụng ⏱️ Thời Điểm Hành Động ở Hiện Tại Tiếp Diễn (am WORKing) để diễn tả hành động đang thực sự diễn ra ngay tại thời điểm nói.</li>
 
 						<li>they were PLAYing GAMES when i CALLED.</li>
 						<li className="list-none">Họ đang chơi trò chơi thì tôi gọi điện đến.</li>
-						<li className="margin-bottom-20 list-none">Sử dụng thời quá khứ tiếp diễn (were PLAYing) để chỉ một hành động đang diễn ra trong quá khứ thì có một hành động khác xen vào (được chia ở thời quá khứ đơn - CALLED).</li>
+						<li className="margin-bottom-20 list-none">Sử dụng ⏱️ Thời Điểm Hành Động ở Quá Khứ Tiếp Diễn (were PLAYing) để chỉ một hành động đang diễn ra trong quá khứ thì có một hành động khác xen vào (được chia ở ⏳ Thời Gian Hành Động ở Quá Khứ Đơn - CALLED).</li>
 
 						<li>i enJOY WORKing with MUsic ON.</li>
 						<li className="list-none">Tôi thích làm việc khi có bật nhạc.</li>
-						<li className="margin-bottom-20 list-none">Sử dụng thời hiện tại đơn (enJOY) và danh hành động (WORKing) theo sau hành động enjoy, kết hợp với cụm từ chỉ trạng thái with MUsic ON (có mở nhạc).</li>
+						<li className="margin-bottom-20 list-none">Sử dụng ⏳ Thời Gian Hành Động ở Hiện Tại Đơn (enJOY) và danh hành động (WORKing) theo sau hành động enjoy, kết hợp với cụm từ chỉ trạng thái with MUsic ON (có mở nhạc).</li>
 
 					</ul>
 
@@ -176,15 +176,15 @@ export default function SauDangHanhDong1(): React.JSX.Element {
 					<ul className="list-square">
 
 						<li>i WANT to WORK aBROAD NEXT YEAR.</li>
-						<li className="list-none">Tôi muốn làm việc ở nước ngoài vào năm tới. (Thời hành động hiện tại đơn)</li>
+						<li className="list-none">Tôi muốn làm việc ở nước ngoài vào năm tới. (⏳ Thời Gian Hành Động ở Hiện Tại Đơn)</li>
 						<li className="margin-bottom-20 list-none">Cấu trúc WANT to do SOMEthing dùng để diễn tả mong muốn ở hiện tại cho kế hoạch trong tương lai (NEXT YEAR).</li>
 
 						<li>she deCIded to STUDy ENGlish SERiously.</li>
-						<li className="list-none">Cô ấy đã quyết định học tiếng Anh một cách nghiêm túc. (Thời hành động quá khứ đơn)</li>
+						<li className="list-none">Cô ấy đã quyết định học tiếng Anh một cách nghiêm túc. (⏳ Thời Gian Hành Động ở Quá Khứ Đơn)</li>
 						<li className="margin-bottom-20 list-none">Cấu trúc decided to do SOMEthing dùng để diễn tả một quyết định đã được đưa ra và hoàn tất trong quá khứ.</li>
 
 						<li>it’s NICE to EAT HEALthy FOOD.</li>
-						<li className="list-none">Thật tuyệt khi ăn những thực phẩm lành mạnh. (Thời hành động hiện tại đơn)</li>
+						<li className="list-none">Thật tuyệt khi ăn những thực phẩm lành mạnh. (⏳ Thời Gian Hành Động ở Hiện Tại Đơn)</li>
 						<li className="margin-bottom-20 list-none">Cấu trúc it is + tính + to do SOMEthing dùng để đưa ra nhận xét hoặc cảm nhận về một hành động nào đó.</li>
 
 					</ul>
@@ -216,15 +216,15 @@ export default function SauDangHanhDong1(): React.JSX.Element {
 
 					<li>EVERy day i WORK HARD, but RIGHT NOW i am WORKing Even HARder!</li>
 					<li className="list-none">Mỗi ngày tôi đều làm việc chăm chỉ, nhưng ngay lúc này tôi còn đang làm việc chăm chỉ hơn nữa!</li>
-					<li className="margin-bottom-20 list-none">Câu đầu dùng thời hiện tại đơn (thói quen hằng ngày), câu sau dùng thời hiện tại tiếp diễn (hành động đang diễn ra ngay tại thời điểm nói).</li>
+					<li className="margin-bottom-20 list-none">Câu đầu dùng ⏳ Thời Gian Hành Động ở Hiện Tại Đơn (thói quen hằng ngày), câu sau dùng ⏱️ Thời Điểm Hành Động ở Hiện Tại Tiếp Diễn (hành động đang diễn ra ngay tại thời điểm nói).</li>
 			
 					<li>she WORKS in jaPAN, but i WORKED in vietNAM LAST YEAR.</li>
 					<li className="list-none">Cô ấy làm việc ở Nhật, nhưng tôi đã từng làm việc ở Việt Nam vào năm ngoái.</li>
-					<li className="margin-bottom-20 list-none">Vế đầu dùng thời hiện tại đơn (sự thật/thói quen ở hiện tại), vế sau dùng thời quá khứ đơn (hành động đã xảy ra và kết thúc trong quá khứ với mốc thời gian cụ thể là LAST YEAR).</li>
+					<li className="margin-bottom-20 list-none">Vế đầu dùng ⏳ Thời Gian Hành Động ở Hiện Tại Đơn (sự thật/thói quen ở hiện tại), vế sau dùng ⏳ Thời Gian Hành Động ở Quá Khứ Đơn (hành động đã xảy ra và kết thúc trong quá khứ với mốc thời gian cụ thể là LAST YEAR).</li>
 			
 					<li>i have WORKED from HOME for 3 YEARS, and i WANT to WORK like this forEVer.</li>
 					<li className="list-none">Tôi đã làm việc ở nhà được 3 năm rồi, và tôi muốn làm việc thế này mãi mãi.</li>
-					<li className="margin-bottom-20 list-none">Vế đầu dùng thời hiện tại hoàn thành với for 3 YEARS (hành động bắt đầu trong quá khứ và kéo dài đến hiện tại), vế sau dùng thời hiện tại đơn (nêu lên mong muốn/sở thích ở hiện tại).</li>
+					<li className="margin-bottom-20 list-none">Vế đầu dùng 📏 Khoảng Thời Gian Hành Động ở Hiện Tại Hoàn Thành với for 3 YEARS (hành động bắt đầu trong quá khứ và kéo dài đến hiện tại), vế sau dùng ⏳ Thời Gian Hành Động ở Hiện Tại Đơn (nêu lên mong muốn/sở thích ở hiện tại).</li>
 			
 				</ul>
 

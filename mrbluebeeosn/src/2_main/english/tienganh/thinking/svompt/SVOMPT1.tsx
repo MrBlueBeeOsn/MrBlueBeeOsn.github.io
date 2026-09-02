@@ -83,7 +83,7 @@ export default function SVOMPT1(): React.JSX.Element {
 					<span className="s">Anh ấy</span> &nbsp;<span className="v">chơi</span> &nbsp;<span className="o">bóng đá</span> &nbsp;<span className="m">rất giỏi</span> &nbsp;<span className="p">ở câu lạc bộ</span> &nbsp;<span className="t">vào các ngày Chủ nhật</span>.
 				</p>
 
-				<p>Câu này sử dụng thời hiện tại đơn để diễn tả một thói quen hoặc một hoạt động diễn ra thường xuyên định kỳ vào mỗi ngày Chủ nhật hàng tuần.</p>
+				<p>Câu này sử dụng ⏳ Thời Gian Hành Động ở Hiện Tại Đơn để diễn tả một thói quen hoặc một hoạt động diễn ra thường xuyên định kỳ vào mỗi ngày Chủ nhật hàng tuần.</p>
 
 			</div>
 
@@ -132,7 +132,7 @@ export default function SVOMPT1(): React.JSX.Element {
 					<span className="s">Bạn tôi</span> &nbsp;<span className="v">chơi</span> &nbsp;<span className="o">piANo</span> &nbsp;<span className="m">rất hay</span> &nbsp;<span className="p">ở hội trường</span> &nbsp;<span className="t">tối nay</span>.
 				</p>
 
-				<p>Trong ngữ cảnh này, "plays" dùng thời hiện tại đơn có thể diễn tả một lịch trình, sự kiện đã được lên kế hoạch sẵn diễn ra trong tương lai gần (tối nay). Ngoài ra, câu này cũng có thể dùng thời hiện tại tiếp diễn (is PLAYing) để nói về hành động sẽ xảy ra vào tối nay, nhưng với thời hiện tại đơn thì câu mang sắc thái như một lịch trình chính thức.</p>
+				<p>Trong ngữ cảnh này, "plays" dùng ⏳ Thời Gian Hành Động ở Hiện Tại Đơn có thể diễn tả một lịch trình, sự kiện đã được lên kế hoạch sẵn diễn ra trong tương lai gần (tối nay). Ngoài ra, câu này cũng có thể dùng ⏱️ Thời Điểm Hành Động ở Hiện Tại Tiếp Diễn (is PLAYing) để nói về hành động sẽ xảy ra vào tối nay, nhưng với ⏳ Thời Gian Hành Động ở Hiện Tại Đơn thì câu mang sắc thái như một lịch trình chính thức.</p>
 
 			</div>
 

@@ -291,7 +291,7 @@ const Posts = lazy(() => import('@/data/Posts'));
 	// Động cụm
 	const PhrasalVerbsQuiz = lazy(() => import('@/2_main/english/tienganh/quiz/cumdongtu/PhrasalVerbsQuiz'));
 
-	// Thời Hành Động
+	// Thời Gian Hành Động
 	const TracNghiemThiTiengAnh = lazy(() => import('@/2_main/english/tienganh/quiz/thi/TracNghiemThiTiengAnh'));
 
 	// Gerunds and Infinitives
@@ -875,9 +875,9 @@ export default function AppRoutes(): React.JSX.Element {
 					<Route path="/tieng-anh/dich-cau-tieng-viet-sang-tieng-anh" element={<DichCauTiengVietSangTiengAnh />} />
 
 					<Route path="/tieng-anh/phan-tich-cau-tieng-anh" element={<PhanTichCauTiengAnh />} />
-					<Route path="/tieng-anh/nho-12-thoi-hanh-dong-tieng-anh" element={<Nho12ThiTiengAnh />} />
-					<Route path="/tieng-anh/thoi-hanh-dong-tieng-anh" element={<ThiTiengAnh />} />
-					<Route path="/tieng-anh/thoi-hanh-dong-tieng-anh" element={<ThiTiengAnh />} />
+					<Route path="/tieng-anh/nho-12-thoi-gian-hanh-dong-tieng-anh" element={<Nho12ThiTiengAnh />} />
+					<Route path="/tieng-anh/thoi-gian-hanh-dong-tieng-anh" element={<ThiTiengAnh />} />
+					<Route path="/tieng-anh/thoi-gian-hanh-dong-tieng-anh" element={<ThiTiengAnh />} />
 					
 					
 					<Route path="/tieng-anh/meo-hay-de-viet-tieng-anh-muot-ma-hon" element={<VietTiengAnhMuotMaHon />} />
@@ -896,8 +896,8 @@ export default function AppRoutes(): React.JSX.Element {
 					{/* Động cụm */}
 					<Route path="/tieng-anh/phrasal-verbs-quiz" element={<PhrasalVerbsQuiz />} />
 
-					{/* Thời hành động tiếng Anh */}
-					<Route path="/tieng-anh/trac-nghiem-thoi-hanh-dong-tieng-anh" element={<TracNghiemThiTiengAnh />} />
+					{/* Thời gian hành động tiếng Anh */}
+					<Route path="/tieng-anh/trac-nghiem-thoi-gian-hanh-dong-tieng-anh" element={<TracNghiemThiTiengAnh />} />
 
 					{/* Gerunds and Infinitives */}
 					<Route path="/tieng-anh/trac-nghiem-gerunds-and-infinitives" element={<TracNghiemGerundsAndInfinitives />} />

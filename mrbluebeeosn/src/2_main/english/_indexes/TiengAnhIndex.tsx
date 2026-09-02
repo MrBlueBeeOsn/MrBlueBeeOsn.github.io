@@ -106,13 +106,13 @@ export default function TiengAnhIndex(): React.JSX.Element {
 
         <details className="sub-box-fix-2">
       
-          <summary id="ev-tense-basic-practice"><mark className="highlight-secondary-padding-2-4">Thời Hành Động</mark></summary>
+          <summary id="ev-tense-basic-practice"><mark className="highlight-secondary-padding-2-4">Thời Gian Hành Động</mark></summary>
 
           <ul className="list-border1">
 
               <li>
                 <div className="li-content">
-                  <Link to="trac-nghiem-thoi-hanh-dong-tieng-anh">Trắc Nghiệm Thời Hành Động Tiếng Anh</Link>
+                  <Link to="trac-nghiem-thoi-gian-hanh-dong-tieng-anh">Trắc Nghiệm Thời Gian Hành Động Tiếng Anh</Link>
                 </div>
               </li>
 
@@ -506,7 +506,7 @@ export default function TiengAnhIndex(): React.JSX.Element {
 
             {/* <li>
               <div className="li-content">
-                <Link to="/tieng-anh/thoi-hanh-dong-hien-tai-hoan-thanh">Thời Hành Động Hiện Tại Hoàn Thành</Link>
+                <Link to="/tieng-anh/khoang-thoi-gian-hanh-dong-o-hien-tai-hoan-thanh">📏 Khoảng Thời Gian Hành Động ở Hiện Tại Hoàn Thành</Link>
               </div>
             </li> */}
 
@@ -593,13 +593,13 @@ export default function TiengAnhIndex(): React.JSX.Element {
         
             {/* <li>
               <div className="li-content">
-                <Link to="/tieng-anh/thoi-hanh-dong-tieng-anh">12 Thời Hành Động Tiếng Anh</Link>
+                <Link to="/tieng-anh/thoi-gian-hanh-dong-tieng-anh">12 Thời Gian Hành Động Tiếng Anh</Link>
               </div>
             </li> */}
 
             {/* <li>
               <div className="li-content">
-                <Link to="/tieng-anh/nho-12-thoi-hanh-dong-tieng-anh">Nhớ 12 Thời Hành Động Tiếng Anh</Link>
+                <Link to="/tieng-anh/nho-12-thoi-gian-hanh-dong-tieng-anh">Nhớ 12 Thời Gian Hành Động Tiếng Anh</Link>
               </div>
             </li> */}
 

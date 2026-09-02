@@ -30,7 +30,7 @@ export default function EVAuxiliaryVerbsQuiz(): React.JSX.Element {
 				"DID"
 			],
 			correctAnswer: 1,
-			explanation: "Câu này sử dụng thời hiện tại hoàn thành (have + V3/ed) để diễn tả một trải nghiệm chưa từng xảy ra trong quá khứ tính đến hiện tại."
+			explanation: "Câu này sử dụng 📏 Khoảng Thời Gian Hành Động ở Hiện Tại Hoàn Thành (have + V3/ed) để diễn tả một trải nghiệm chưa từng xảy ra trong quá khứ tính đến hiện tại."
 		},
 		{
 			id: 2,
@@ -42,7 +42,7 @@ export default function EVAuxiliaryVerbsQuiz(): React.JSX.Element {
 				"were"
 			],
 			correctAnswer: 2,
-			explanation: "Để đặt câu hỏi cho hành động đã kết thúc trong quá khứ (YESterday), ta dùng thời hành động \"did\" của thời quá khứ đơn."
+			explanation: "Để đặt câu hỏi cho hành động đã kết thúc trong quá khứ (YESterday), ta dùng thời gian hành động \"did\" của ⏳ Thời Gian Hành Động ở Quá Khứ Đơn."
 		},
 		{
 			id: 3,
@@ -54,7 +54,7 @@ export default function EVAuxiliaryVerbsQuiz(): React.JSX.Element {
 				"will"
 			],
 			correctAnswer: 0,
-			explanation: "Cụm từ \"at the MOment\" dấu hiệu của thời hiện tại tiếp diễn, công thức là \"be + V-ing\". Với danh chủ \"she\", thời hành động phù hợp là \"is\"."
+			explanation: "Cụm từ \"at the MOment\" dấu hiệu của ⏱️ Thời Điểm Hành Động ở Hiện Tại Tiếp Diễn, công thức là \"be + V-ing\". Với danh chủ \"she\", thời gian hành động phù hợp là \"is\"."
 		},
 		{
 			id: 4,
@@ -66,7 +66,7 @@ export default function EVAuxiliaryVerbsQuiz(): React.JSX.Element {
 				"are"
 			],
 			correctAnswer: 2,
-			explanation: "\"should\" là thời hành động khuyết thiếu dùng để đưa ra lời khuyên. Ngữ cảnh trời tối sầm nên khuyên mang theo ô là hợp lý nhất."
+			explanation: "\"should\" là thời gian hành động khuyết thiếu dùng để đưa ra lời khuyên. Ngữ cảnh trời tối sầm nên khuyên mang theo ô là hợp lý nhất."
 		},
 		{
 			id: 5,
@@ -78,7 +78,7 @@ export default function EVAuxiliaryVerbsQuiz(): React.JSX.Element {
 				"have"
 			],
 			correctAnswer: 0,
-			explanation: "Câu hỏi về một hành động xảy ra trước một thời điểm trong quá khứ (LAST SUMmer) nên ta dùng thời quá khứ hoàn thành (had + V3/ed)."
+			explanation: "Câu hỏi về một hành động xảy ra trước một thời điểm trong quá khứ (LAST SUMmer) nên ta dùng 📏 Khoảng Thời Gian Hành Động ở Quá Khứ Hoàn Thành (had + V3/ed)."
 		},
 		{
 			id: 6,
@@ -90,7 +90,7 @@ export default function EVAuxiliaryVerbsQuiz(): React.JSX.Element {
 				"WASn't"
 			],
 			correctAnswer: 1,
-			explanation: "Câu diễn tả một thói quen hoặc trạng thái trong quá khứ (\"when he was a CHILD\") nên dùng thời hành động phủ định của quá khứ đơn là \"DIDn't\"."
+			explanation: "Câu diễn tả một thói quen hoặc trạng thái trong quá khứ (\"when he was a CHILD\") nên dùng thời gian hành động phủ định của quá khứ đơn là \"DIDn't\"."
 		},
 		{
 			id: 7,
@@ -102,7 +102,7 @@ export default function EVAuxiliaryVerbsQuiz(): React.JSX.Element {
 				"has"
 			],
 			correctAnswer: 1,
-			explanation: "Đây là câu bị động ở thời quá khứ đơn (be + V3/ed). Vì \"YESterday\" và \"CAKE\" là số ít nên ta dùng \"was\"."
+			explanation: "Đây là câu bị động ở ⏳ Thời Gian Hành Động ở Quá Khứ Đơn (be + V3/ed). Vì \"YESterday\" và \"CAKE\" là số ít nên ta dùng \"was\"."
 		},
 		{
 			id: 8,
@@ -114,7 +114,7 @@ export default function EVAuxiliaryVerbsQuiz(): React.JSX.Element {
 				"can"
 			],
 			correctAnswer: 3,
-			explanation: "\"can\" được dùng làm thời hành động để đưa ra một lời đề nghị giúp đỡ hoặc hỏi về khả năng."
+			explanation: "\"can\" được dùng làm thời gian hành động để đưa ra một lời đề nghị giúp đỡ hoặc hỏi về khả năng."
 		},
 		{
 			id: 9,
@@ -126,7 +126,7 @@ export default function EVAuxiliaryVerbsQuiz(): React.JSX.Element {
 				"DID"
 			],
 			correctAnswer: 2,
-			explanation: "Cấu trúc \"have/has + been + V-ing\" của thời hiện tại hoàn thành tiếp diễn dùng để diễn tả hành động bắt đầu trong quá khứ và vẫn đang tiếp tục."
+			explanation: "Cấu trúc \"have/has + been + V-ing\" của 🏃‍♂️ Khoảng Thời Gian Hành Động ở Hiện Tại Hoàn Thành Tiếp Diễn dùng để diễn tả hành động bắt đầu trong quá khứ và vẫn đang tiếp tục."
 		},
 		{
 			id: 10,
@@ -138,7 +138,7 @@ export default function EVAuxiliaryVerbsQuiz(): React.JSX.Element {
 				"were"
 			],
 			correctAnswer: 0,
-			explanation: "Đây là câu điều kiện loại 1, câu con chính dùng thời hành động \"will\" để diễn tả một kết quả có thể xảy ra ở tương lai."
+			explanation: "Đây là câu điều kiện loại 1, câu con chính dùng thời gian hành động \"will\" để diễn tả một kết quả có thể xảy ra ở tương lai."
 		}
 	];
 

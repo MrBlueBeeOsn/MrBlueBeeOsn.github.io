@@ -30,7 +30,7 @@ export default function TracNghiemThiTiengAnh(): React.JSX.Element {
 				"has GONE"
 			],
 			correctAnswer: 1,
-			explanation: "Đây là hành động lặp đi lặp lại (thói quen), được diễn tả bằng Trạng Cơ chỉ tần suất \"THREE TIMES a WEEK\". Ta sử dụng thời hành động hiện tại đơn (SIMple PRESent)."
+			explanation: "Đây là hành động lặp đi lặp lại (thói quen), được diễn tả bằng Trạng Cơ chỉ tần suất \"THREE TIMES a WEEK\". Ta sử dụng ⏳ Thời Gian Hành Động ở Hiện Tại Đơn (SIMple PRESent)."
 		},
 		{
 			id: 2,
@@ -42,7 +42,7 @@ export default function TracNghiemThiTiengAnh(): React.JSX.Element {
 				"have TAken"
 			],
 			correctAnswer: 1,
-			explanation: "Hành động tắm đang diễn ra (dài hơn) thì bị một hành động khác (điện thoại reo) cắt ngang. Hành động đang diễn ra sử dụng thời hành động quá khứ tiếp diễn (PAST conTINuous)."
+			explanation: "Hành động tắm đang diễn ra (dài hơn) thì bị một hành động khác (điện thoại reo) cắt ngang. Hành động đang diễn ra sử dụng ⏱️ Thời Điểm Hành Động ở Quá Khứ Tiếp Diễn (PAST conTINuous)."
 		},
 		{
 			id: 3,
@@ -54,7 +54,7 @@ export default function TracNghiemThiTiengAnh(): React.JSX.Element {
 				"will have LEFT"
 			],
 			correctAnswer: 3,
-			explanation: "Hành động máy bay cất cánh sẽ hoàn thành trước một thời điểm hoặc một hành động khác trong tương lai (khi chúng ta đến sân bay). Ta sử dụng thời hành động tương lai hoàn thành (FUture PERfect)."
+			explanation: "Hành động máy bay cất cánh sẽ hoàn thành trước một thời điểm hoặc một hành động khác trong tương lai (khi chúng ta đến sân bay). Ta sử dụng 📏 Khoảng Thời Gian Hành Động ở Tương Lai Hoàn Thành (FUture PERfect)."
 		},
 		{
 			id: 4,
@@ -66,7 +66,7 @@ export default function TracNghiemThiTiengAnh(): React.JSX.Element {
 				"have LIVED"
 			],
 			correctAnswer: 3,
-			explanation: "Hành động sống bắt đầu trong quá khứ (2010) và vẫn tiếp tục đến hiện tại (có \"since\"). Ta sử dụng thời hành động hiện tại hoàn thành (PRESent PERfect)."
+			explanation: "Hành động sống bắt đầu trong quá khứ (2010) và vẫn tiếp tục đến hiện tại (có \"since\"). Ta sử dụng 📏 Khoảng Thời Gian Hành Động ở Hiện Tại Hoàn Thành (PRESent PERfect)."
 		},
 		{
 			id: 5,
@@ -78,7 +78,7 @@ export default function TracNghiemThiTiengAnh(): React.JSX.Element {
 				"has SHONE"
 			],
 			correctAnswer: 1,
-			explanation: "Hành động đang diễn ra tại thời điểm nói, thường đi kèm với các từ như \"LOOK!\" hoặc \"LISten!\". Ta sử dụng thời hành động hiện tại tiếp diễn (PRESent conTINuous)."
+			explanation: "Hành động đang diễn ra tại thời điểm nói, thường đi kèm với các từ như \"LOOK!\" hoặc \"LISten!\". Ta sử dụng ⏱️ thời điểm hành động ở hiện tại tiếp diễn (PRESent conTINuous)."
 		},
 		{
 			id: 6,
@@ -90,7 +90,7 @@ export default function TracNghiemThiTiengAnh(): React.JSX.Element {
 				"was DOing"
 			],
 			correctAnswer: 2,
-			explanation: "Hành động hoàn thành bài tập xảy ra và hoàn tất trước một hành động khác trong quá khứ (đi ngủ). Hành động xảy ra trước sử dụng thời hành động quá khứ hoàn thành (PAST PERfect)."
+			explanation: "Hành động hoàn thành bài tập xảy ra và hoàn tất trước một hành động khác trong quá khứ (đi ngủ). Hành động xảy ra trước sử dụng 📏 Khoảng Thời Gian Hành Động ở Quá Khứ Hoàn Thành (PAST PERfect)."
 		},
 		{
 			id: 7,
@@ -102,7 +102,7 @@ export default function TracNghiemThiTiengAnh(): React.JSX.Element {
 				"LIE"
 			],
 			correctAnswer: 2,
-			explanation: "Hành động đang diễn ra tại một thời điểm cụ thể trong tương lai (\"this TIME toMORrow\"). Ta sử dụng thời hành động tương lai tiếp diễn (FUture conTINuous)."
+			explanation: "Hành động đang diễn ra tại một thời điểm cụ thể trong tương lai (\"this TIME toMORrow\"). Ta sử dụng ⏱️ Thời Điểm Hành Động ở Tương Lai Tiếp Diễn (FUture conTINuous)."
 		},
 		{
 			id: 8,
@@ -114,7 +114,7 @@ export default function TracNghiemThiTiengAnh(): React.JSX.Element {
 				"had LOST"
 			],
 			correctAnswer: 2,
-			explanation: "Hành động làm mất chìa khóa xảy ra trong quá khứ nhưng có kết quả/ảnh hưởng rõ rệt đến hiện tại (không mở được cửa). Ta sử dụng thời hành động hiện tại hoàn thành (PRESent PERfect)."
+			explanation: "Hành động làm mất chìa khóa xảy ra trong quá khứ nhưng có kết quả/ảnh hưởng rõ rệt đến hiện tại (không mở được cửa). Ta sử dụng 📏 Khoảng Thời Gian Hành Động ở Hiện Tại Hoàn Thành (PRESent PERfect)."
 		},
 		{
 			id: 9,
@@ -126,7 +126,7 @@ export default function TracNghiemThiTiengAnh(): React.JSX.Element {
 				"had you been PLAYing"
 			],
 			correctAnswer: 3,
-			explanation: "Hành động chơi piano diễn ra liên tục, kéo dài đến một thời điểm trong quá khứ (trước khi bắt đầu học hát). Ta sử dụng thời hành động quá khứ hoàn thành tiếp diễn (PAST PERfect conTINuous)."
+			explanation: "Hành động chơi piano diễn ra liên tục, kéo dài đến một thời điểm trong quá khứ (trước khi bắt đầu học hát). Ta sử dụng 🏃‍♂️ Khoảng Thời Gian Hành Động ở Quá Khứ Hoàn Thành Tiếp Diễn (PAST PERfect conTINuous)."
 		},
 		{
 			id: 10,
@@ -138,7 +138,7 @@ export default function TracNghiemThiTiengAnh(): React.JSX.Element {
 				"are GOing"
 			],
 			correctAnswer: 2,
-			explanation: "Hành động sẽ xảy ra trong tương lai (NEXT WEEKend) và không có kế hoạch hay sắp xếp cụ thể. Ta sử dụng thời hành động tương lai đơn (SIMple FUture)."
+			explanation: "Hành động sẽ xảy ra trong tương lai (NEXT WEEKend) và không có kế hoạch hay sắp xếp cụ thể. Ta sử dụng ⏳ Thời Gian Hành Động ở Tương Lai Đơn (SIMple FUture)."
 		}
 	];
 
@@ -151,7 +151,7 @@ export default function TracNghiemThiTiengAnh(): React.JSX.Element {
 				<h4><HashLink smooth to="/tieng-anh#ev-tenses-basic-practice"><mark className="highlight-tertiary-padding-4-8">Tenses</mark></HashLink></h4>
 	
 				<header className="quiz-header">
-					<h1 className="margin-y-50 text-center">Trắc Nghiệm Thời Hành Động Tiếng Anh</h1>
+					<h1 className="margin-y-50 text-center">Trắc Nghiệm Thời Gian Hành Động Tiếng Anh</h1>
 					<p className="subtitle text-center">Test your knowledge of fundamental English Verb Tense Quiz</p>
 				</header>
 	

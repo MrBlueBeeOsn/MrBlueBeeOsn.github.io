@@ -53,7 +53,7 @@ export default function SapXepCumDongTuTiengAnh(): React.JSX.Element {
 
 				</p>
 
-			<h3 className="margin-top-30 margin-bottom-50 text-center">1. Tại sao phải “thời hành động bên trái – hành động chính bên phải”?</h3>
+			<h3 className="margin-top-30 margin-bottom-50 text-center">1. Tại sao phải “thời gian hành động bên trái – hành động chính bên phải”?</h3>
 
 			<p>Tiếng Việt: đã → đang → sẽ → không → bị → đánh</p>
 
@@ -141,7 +141,7 @@ export default function SapXepCumDongTuTiengAnh(): React.JSX.Element {
 
 			</div>
 
-			<h3 className="margin-y-50 text-center">3. Thứ tự chuẩn các thời hành động bên trái (nhớ 1 lần dùng mãi mãi)</h3>
+			<h3 className="margin-y-50 text-center">3. Thứ tự chuẩn các thời gian hành động bên trái (nhớ 1 lần dùng mãi mãi)</h3>
 
 			<p>Khi gom hết vào bên trái, chỉ cần sắp theo thứ tự cố định sau (từ trái sang phải):</p>
 
@@ -161,7 +161,7 @@ export default function SapXepCumDongTuTiengAnh(): React.JSX.Element {
 
 				</ol>
 
-				<p className="margin-top-20 text-indent-whole">Phủ định “not” luôn đứng ngay sau modal hoặc thời hành động đầu tiên.</p>
+				<p className="margin-top-20 text-indent-whole">Phủ định “not” luôn đứng ngay sau modal hoặc thời gian hành động đầu tiên.</p>
 
 			<h3 className="margin-y-50 text-center">4. Lưu ý cực kỳ quan trọng</h3>
 
@@ -169,11 +169,11 @@ export default function SapXepCumDongTuTiengAnh(): React.JSX.Element {
 
 					<li>Động cơ chính (hoặc dạng V3/V-ing của nó) luôn là từ cuối cùng bên phải.</li>
 
-					<li>Nếu có phủ định → chèn “not” ngay sau thời hành động đầu tiên.</li>
+					<li>Nếu có phủ định → chèn “not” ngay sau thời gian hành động đầu tiên.</li>
 
-					<li>Với câu hỏi → chỉ cần đảo thời hành động đầu tiên lên trước danh chủ (sau khi đã xếp xong cụm).</li>
+					<li>Với câu hỏi → chỉ cần đảo thời gian hành động đầu tiên lên trước danh chủ (sau khi đã xếp xong cụm).</li>
 
-					<li>Khi không chắc thứ tự → cứ gom hết thời hành động vào bên trái trước, rồi sắp lại theo M-P-C-P → vẫn đúng 100%!</li>
+					<li>Khi không chắc thứ tự → cứ gom hết thời gian hành động vào bên trái trước, rồi sắp lại theo M-P-C-P → vẫn đúng 100%!</li>
 
 				</ul>
 

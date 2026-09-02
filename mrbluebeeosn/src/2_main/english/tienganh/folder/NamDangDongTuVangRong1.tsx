@@ -75,7 +75,7 @@ export default function NamDangDongTuVangRong1(): React.JSX.Element {
 
 				<h3 className="margin-y-50 text-center">2. Dạng ngôi thứ ba số ít (works / plays / eats / goes)</h3>
 
-					<p>Chỉ cần thêm -s (hoặc -es) khi nói về he, she, it ở hiện tại đơn.</p>
+					<p>Chỉ cần thêm -s (hoặc -es) khi nói về he, she, it ⏳ Thời Gian Hành Động ở Hiện Tại Đơn.</p>
 
 					<p>Đây là “<strong>luật bất thành văn</strong>” mà ai cũng phải tuân theo.</p>
 
@@ -99,11 +99,11 @@ export default function NamDangDongTuVangRong1(): React.JSX.Element {
 
 			</div>
 
-			{/* 3. Dạng quá khứ đơn */}
+			{/* 3. Dạng ⏳ Thời Gian Hành Động ở Quá Khứ Đơn */}
 
 			<div className="margin-y-15 text-border1 table-container">
 
-				<h3 className="margin-y-50 text-center">3. Dạng quá khứ đơn (worked / played / ate / went)</h3>
+				<h3 className="margin-y-50 text-center">3. Dạng ⏳ Thời Gian Hành Động ở Quá Khứ Đơn (worked / played / ate / went)</h3>
 
 					<p>Đây là “<strong>người kể chuyện xưa</strong>” – dùng để kể lại mọi thứ đã xảy ra và đã kết thúc.</p>
 
@@ -127,11 +127,11 @@ export default function NamDangDongTuVangRong1(): React.JSX.Element {
 
 			</div>
 
-			{/* 4. Dạng hiện tại hoàn thành */}
+			{/* 4. Dạng 📏 Khoảng Thời Gian Hành Động ở Hiện Tại Hoàn Thành */}
 
 			<div className="margin-y-15 text-border1 table-container">
 
-				<h3 className="margin-y-50 text-center">4. Dạng hiện tại hoàn thành (have/has worked / have/has played / have/has eaten / have/has gone)</h3>
+				<h3 className="margin-y-50 text-center">4. Dạng 📏 Khoảng Thời Gian Hành Động ở Hiện Tại Hoàn Thành (have/has worked / have/has played / have/has eaten / have/has gone)</h3>
 
 					<p>Đây là “<strong>cầu nối thời gian</strong>” – nói về kinh nghiệm, kết quả từ quá khứ vẫn còn ảnh hưởng đến hiện tại, hoặc việc kéo dài đến tận bây giờ.</p>
 
@@ -179,7 +179,7 @@ export default function NamDangDongTuVangRong1(): React.JSX.Element {
 
 				<p>→ Đặt cuối cùng vì:</p>
 
-				<p className="margin-top-20">→ Đặt ở vị trí số 5 tạo cảm giác “tích lũy”: từ <strong>cơ bản</strong> → <strong>nâng cao</strong> → cuối cùng là “<strong>động năng</strong>” (đang diễn ra).</p>
+				<p className="margin-top-20">→ Đặt ở vị trí số 5 tạo cảm giác “tích lũy”: từ <strong>cơ bản</strong> → <strong>nâng cao</strong> → cuối cùng là “<strong>động năng</strong>” (⏱️ Thời Điểm Hành Động ở Hiện Tại Tiếp Diễn).</p>
 
 			</div>
 
@@ -187,15 +187,15 @@ export default function NamDangDongTuVangRong1(): React.JSX.Element {
 			
 				<ol>
 			
-					<li>work (gốc – hiện tại đơn giản cơ bản)</li>
+					<li>work (gốc – ⏳ Thời Gian Hành Động ở Hiện Tại Đơn cơ bản)</li>
 			
-					<li>work<strong>s</strong> (hiện tại đơn giản cho he/she/it)</li>
+					<li>work<strong>s</strong> (⏳ Thời Gian Hành Động ở Hiện Tại Đơn cho he/she/it)</li>
 
-					<li>work<strong>ed</strong> (quá khứ đơn)</li>
+					<li>work<strong>ed</strong> (⏳ Thời Gian Hành Động ở Quá Khứ Đơn)</li>
 			
-					<li><strong>have/has</strong> work<strong>ed</strong> (hiện tại hoàn thành)</li>
+					<li><strong>have/has</strong> work<strong>ed</strong> (📏 Khoảng Thời Gian Hành Động ở Hiện Tại Hoàn Thành)</li>
 
-					<li>work<strong>ing</strong> (đang diễn ra – Present Continuous)</li>
+					<li>work<strong>ing</strong> (⏱️ Thời Điểm Hành Động ở Hiện Tại Tiếp Diễn – Present Continuous)</li>
 			
 				</ol>
 
@@ -225,13 +225,13 @@ export default function NamDangDongTuVangRong1(): React.JSX.Element {
 			
 				<ul className="list-square">
 
-					<li><strong>Ngày 1</strong>: Chọn 3 hành động yêu thích (work, eat, go) – viết hoặc nói 5 câu cho mỗi dạng (hiện tại đơn giản cơ bản).</li>
+					<li><strong>Ngày 1</strong>: Chọn 3 hành động yêu thích (work, eat, go) – viết hoặc nói 5 câu cho mỗi dạng (⏳ Thời Gian Hành Động ở Hiện Tại Đơn cơ bản).</li>
 
-					<li><strong>Ngày 2</strong>: Chọn 3 hành động yêu thích (work, eat, go) – viết hoặc nói 5 câu cho mỗi dạng (hiện tại đơn giản cho he/she/it).</li>
+					<li><strong>Ngày 2</strong>: Chọn 3 hành động yêu thích (work, eat, go) – viết hoặc nói 5 câu cho mỗi dạng (⏳ Thời Gian Hành Động ở Hiện Tại Đơn cho he/she/it).</li>
 			
 					<li><strong>Ngày 3</strong>: Tập kể chuyện quá khứ: “Yesterday I…” (dùng dạng quá khứ).</li>
 
-					<li><strong>Ngày 4</strong>: Luyện hiện tại hoàn thành: “I have never…” + “I have … for/since…”.</li>
+					<li><strong>Ngày 4</strong>: Luyện 📏 Khoảng Thời Gian Hành Động ở Hiện Tại Hoàn Thành: “I have never…” + “I have … for/since…”.</li>
 			
 					<li><strong>Ngày 5</strong>: Nói về “đang làm”.</li>
 

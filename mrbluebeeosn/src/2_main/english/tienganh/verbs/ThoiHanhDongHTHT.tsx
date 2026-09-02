@@ -17,15 +17,15 @@ export default function ThoiHanhDongHTHT(): React.JSX.Element {
 		
 			<h4><HashLink smooth to="/tieng-anh#verbs-terms"><mark className="highlight-tertiary-padding-4-8">VERBS</mark></HashLink></h4>
 
-			<h1 className="margin-y-50 text-center">Thời Hành Động Hiện Tại Hoàn Thành</h1>
+			<h1 className="margin-y-50 text-center">📏 Khoảng Thời Gian Hành Động ở Hiện Tại Hoàn Thành</h1>
 
 			<h4 className="margin-bottom-30 text-center">Cây Cầu Nối Liền Quá Khứ Và Hiện Tại</h4>
 
-			<p>Bạn đã bao giờ bối rối khi chọn giữa "I lived" và "I have lived"? Bạn có nghe nói thời hành động hiện tại hoàn thành diễn tả "hành động chưa hoàn thành trong quá khứ" và cảm thấy điều đó chưa đầy đủ? Bài viết này sẽ là chìa khóa giúp bạn thực sự làm chủ thời ngữ pháp quan trọng bậc nhất này, không phải qua những công thức khô khan, mà qua bản chất <strong>sự kết nối thời gian</strong> của nó.</p>
+			<p>Bạn đã bao giờ bối rối khi chọn giữa "I lived" và "I have lived"? Bạn có nghe nói 📏 Khoảng Thời Gian Hành Động ở Hiện Tại Hoàn Thành diễn tả "hành động chưa hoàn thành trong quá khứ" và cảm thấy điều đó chưa đầy đủ? Bài viết này sẽ là chìa khóa giúp bạn thực sự làm chủ thời ngữ pháp quan trọng bậc nhất này, không phải qua những công thức khô khan, mà qua bản chất <strong>sự kết nối thời gian</strong> của nó.</p>
 
 			<h3 className="margin-y-50 text-center">Không Chỉ Là "Chưa Hoàn Thành": Một Lối Tư Duy Mới</h3>
 
-				<p>Nhiều người học hiểu đơn giản: Thời hành động hiện tại hoàn thành = hành động bắt đầu trong quá khứ và vẫn còn tiếp diễn. Điều này đúng, <strong>nhưng chỉ là một nửa bức tranh</strong>. Nếu chỉ dừng lại ở đây, bạn sẽ không thể giải thích được những câu như:</p>
+				<p>Nhiều người học hiểu đơn giản: 📏 Khoảng Thời Gian Hành Động ở Hiện Tại Hoàn Thành = hành động bắt đầu trong quá khứ và vẫn còn tiếp diễn. Điều này đúng, <strong>nhưng chỉ là một nửa bức tranh</strong>. Nếu chỉ dừng lại ở đây, bạn sẽ không thể giải thích được những câu như:</p>
 
 				<ul className="list-square">
 
@@ -37,7 +37,7 @@ export default function ThoiHanhDongHTHT(): React.JSX.Element {
 
 				</ul>
 
-			<p className="margin-top-20">Vậy then chốt nằm ở đâu? Câu trả lời nằm ở <strong>tác động</strong>, <strong>kết quả hoặc trải nghiệm mà hành động trong quá khứ để lại cho hiện tại</strong>. Hãy nghĩ về thời hành động hiện tại hoàn thành như một <strong>cây cầu vững chắc</strong>, nối mốc thời gian trong quá khứ với tình trạng, sự việc ở hiện tại.</p>
+			<p className="margin-top-20">Vậy then chốt nằm ở đâu? Câu trả lời nằm ở <strong>tác động</strong>, <strong>kết quả hoặc trải nghiệm mà hành động trong quá khứ để lại cho hiện tại</strong>. Hãy nghĩ về 📏 Khoảng Thời Gian Hành Động ở Hiện Tại Hoàn Thành như một <strong>cây cầu vững chắc</strong>, nối mốc thời gian trong quá khứ với tình trạng, sự việc ở hiện tại.</p>
 
 			<h3 className="margin-y-50 text-center">Hai Mặt Của Một Đồng Xu: Cách Dùng Cốt Lõi</h3>
 
@@ -115,17 +115,17 @@ export default function ThoiHanhDongHTHT(): React.JSX.Element {
 
 			</div>
 
-			<h3 className="margin-y-50 text-center">Phân Biệt Rõ Ràng: Khi Nào Dùng Thời Hành Động Quá Khứ Đơn?</h3>
+			<h3 className="margin-y-50 text-center">Phân Biệt Rõ Ràng: Khi Nào Dùng ⏳ Thời Gian Hành Động ở Quá Khứ Đơn?</h3>
 
-				<p>Sự nhầm lẫn thường xảy ra giữa Hiện tại hoàn thành và Quá khứ đơn. Hãy nhớ:</p>
+				<p>Sự nhầm lẫn thường xảy ra giữa 📏 Khoảng Thời Gian Hành Động ở Hiện Tại Hoàn Thành và ⏳ Thời Gian Hành Động ở Quá Khứ Đơn. Hãy nhớ:</p>
 
 				<ul className="list-square">
 
-					<li><strong>Quá khứ đơn</strong>: <strong>Hành động đã hoàn toàn kết thúc</strong>, <strong>được khép lại trong một khung thời gian xác định ở quá khứ</strong>. Không có cây cầu nào nối đến hiện tại.</li>
+					<li><strong>⏳ Thời Gian Hành Động ở Quá Khứ Đơn</strong>: <strong>Hành động đã hoàn toàn kết thúc</strong>, <strong>được khép lại trong một khung thời gian xác định ở quá khứ</strong>. Không có cây cầu nào nối đến hiện tại.</li>
 					<li className="list-none">I <strong>lived</strong> in London <strong>in 2015</strong>. (Tôi <strong>đã sống</strong> ở London <strong>vào năm 2015</strong>.)</li>
 					<li className="list-none">→ Sự việc đã chấm dứt. Giờ tôi không sống ở đó nữa.</li>
 
-					<li className="margin-top-20"><strong>Hiện tại hoàn thành</strong>: Luôn <strong>có sự liên hệ đến hiện tại</strong> (dù là kéo dài hay để lại kết quả).</li>
+					<li className="margin-top-20"><strong>📏 Khoảng Thời Gian Hành Động ở Hiện Tại Hoàn Thành</strong>: Luôn <strong>có sự liên hệ đến hiện tại</strong> (dù là kéo dài hay để lại kết quả).</li>
 					<li className="list-none">I <strong>have lived</strong> in London. (Tôi <strong>đã từng sống</strong> ở London.)</li>
 					<li className="list-none">→ Trải nghiệm này là một phần của tôi ở hiện tại (tôi biết về thành phố này).</li>
 			
@@ -135,8 +135,8 @@ export default function ThoiHanhDongHTHT(): React.JSX.Element {
 					<thead>
 						<tr>
 							<th>Tính Năng</th>
-							<th>Hiện tại hoàn thành</th>
-							<th>Quá Khứ Đơn</th>
+							<th>📏 Khoảng Thời Gian Hành Động ở Hiện Tại Hoàn Thành</th>
+							<th>⏳ Thời Gian Hành Động ở Quá Khứ Đơn</th>
 						</tr>
 					</thead>
 
@@ -164,9 +164,9 @@ export default function ThoiHanhDongHTHT(): React.JSX.Element {
 
 			<h3 className="margin-y-50 text-center">Lời Kết: Hãy Xây Những Cây Cầu Của Riêng Bạn</h3>
 
-			<p className="margin-top-20">Hiểu thời hành động hiện tại hoàn thành không phải là ghi nhớ một quy tắc cứng nhắc "chưa hoàn thành", mà là nắm bắt được tư duy về sự kết nối. Mỗi khi do dự, hãy tự hỏi: "<strong>Hành động</strong>/<strong>quá khứ này có còn</strong> '<strong>sống</strong>', <strong>có còn ảnh hưởng hoặc liên quan đến tình huống</strong>/<strong>người nói ở thời điểm hiện tại không</strong>?"</p>
+			<p className="margin-top-20">Hiểu 📏 Khoảng Thời Gian Hành Động ở Hiện Tại Hoàn Thành không phải là ghi nhớ một quy tắc cứng nhắc "chưa hoàn thành", mà là nắm bắt được tư duy về sự kết nối. Mỗi khi do dự, hãy tự hỏi: "<strong>Hành động</strong>/<strong>quá khứ này có còn</strong> '<strong>sống</strong>', <strong>có còn ảnh hưởng hoặc liên quan đến tình huống</strong>/<strong>người nói ở thời điểm hiện tại không</strong>?"</p>
 
-			<p>Nếu câu trả lời là CÓ, bạn đang cần đến cây cầu Hiện tại hoàn thành. Hãy bắt đầu xây dựng cây cầu ngôn ngữ của riêng mình bằng cách luyện tập, lắng nghe và cảm nhận sự khác biệt tinh tế này. Bạn sẽ thấy tiếng Anh của mình trở nên tự nhiên và sâu sắc hơn rất nhiều.</p>
+			<p>Nếu câu trả lời là CÓ, bạn đang cần đến cây cầu 📏 Khoảng Thời Gian Hành Động ở Hiện Tại Hoàn Thành. Hãy bắt đầu xây dựng cây cầu ngôn ngữ của riêng mình bằng cách luyện tập, lắng nghe và cảm nhận sự khác biệt tinh tế này. Bạn sẽ thấy tiếng Anh của mình trở nên tự nhiên và sâu sắc hơn rất nhiều.</p>
 
 			<div className="viewcounter">
 			

@@ -30,7 +30,7 @@ export default function TracNghiemNguPhapTiengAnh(): React.JSX.Element {
 				"am working"
 			],
 			correctAnswer: 2,
-			explanation: "Đây là thời hành động hiện tại Hoàn thành Tiếp diễn (Present Perfect Continuous), dùng để diễn tả một hành động bắt đầu trong quá khứ, kéo dài liên tục đến hiện tại và có kết quả rõ rệt (I'm tired) ở hiện tại. Cấu trúc là: S + have/has + been + V-ing."
+			explanation: "Đây là 🏃‍♂️ Khoảng Thời Gian Hành Động ở Hiện Tại Hoàn Thành Tiếp Diễn (Present Perfect Continuous), dùng để diễn tả một hành động bắt đầu trong quá khứ, kéo dài liên tục đến hiện tại và có kết quả rõ rệt (I'm tired) ở hiện tại. Cấu trúc là: S + have/has + been + V-ing."
 		},
 		{
 			id: 2,
@@ -90,7 +90,7 @@ export default function TracNghiemNguPhapTiengAnh(): React.JSX.Element {
 				"spoke"
 			],
 			correctAnswer: 2,
-			explanation: "Đây là câu Bị động (Passive Voice) ở thời hành động hiện tại Đơn (Present Simple). English là danh chủ chịu tác động, và việc nói tiếng Anh là một sự thật hoặc hành động thường xuyên. Cấu trúc bị động hiện tại đơn là: S + am/is/are + V3/ed."
+			explanation: "Đây là câu Bị động (Passive Voice) ở ⏳ Thời Gian Hành Động ở Hiện Tại Đơn (Present Simple). English là danh chủ chịu tác động, và việc nói tiếng Anh là một sự thật hoặc hành động thường xuyên. Cấu trúc bị động ⏳ Thời Gian Hành Động ở Hiện Tại Đơn là: S + am/is/are + V3/ed."
 		},
 		{
 			id: 7,

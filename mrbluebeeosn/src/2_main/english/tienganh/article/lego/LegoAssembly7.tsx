@@ -52,7 +52,7 @@ export default function LegoAssembly7(): React.JSX.Element {
 
 			<p>Bạn có đang học ngữ pháp tiếng Anh như một tấm bản đồ phức tạp?</p>
 
-			<p>Bạn đã bao giờ cảm thấy choáng ngợp trước hàng chục "thì" trong tiếng Anh: hiện tại đơn, quá khứ tiếp diễn, tương lai hoàn thành tiếp diễn...?</p>
+			<p>Bạn đã bao giờ cảm thấy choáng ngợp trước hàng chục "thì" trong tiếng Anh: ⏳ Thời Gian Hành Động ở Hiện Tại Đơn, ⏱️ Thời Điểm Hành Động ở Quá Khứ Tiếp Diễn, 🏃‍♂️ Khoảng Thời Gian Hành Động ở Tương Lai Hoàn Thành Tiếp Diễn...?</p>
 
 			<p>Bạn học đi học lại nhưng vẫn lúng túng khi phải nói một câu đơn giản?</p>
 
@@ -173,7 +173,7 @@ export default function LegoAssembly7(): React.JSX.Element {
 			
 				</ul>
 
-			<h4 className="margin-y-40">Thời hành động - Head</h4>
+			<h4 className="margin-y-40">Thời gian hành động - Head</h4>
 
 			<p className="margin-top-20"><strong>does</strong> / <strong>doesn</strong>'<strong>t</strong>: thường không dịch trực tiếp mà thể hiện qua thì và ngữ cảnh - <strong>Head</strong></p>
 			
@@ -211,7 +211,7 @@ export default function LegoAssembly7(): React.JSX.Element {
 				</ul>
 			
 
-			<p className="margin-top-20"><strong>am</strong>/<strong>is</strong>/<strong>are</strong>: thì / đang (tùy ngữ cảnh hiện tại tiếp diễn hoặc trạng thái) - <strong>Head</strong></p>
+			<p className="margin-top-20"><strong>am</strong>/<strong>is</strong>/<strong>are</strong>: thời / đang (tùy ngữ cảnh ⏱️ Thời Điểm Hành Động ở Hiện Tại Tiếp Diễn hoặc trạng thái) - <strong>Head</strong></p>
 			
 				<ul className="list-square">
 			
@@ -226,7 +226,7 @@ export default function LegoAssembly7(): React.JSX.Element {
 				</ul>
 					
 			
-			<p className="margin-top-20"><strong>has</strong>/<strong>have</strong>: đã / rồi (hiện tại hoàn thành) - <strong>Head</strong></p>
+			<p className="margin-top-20"><strong>has</strong>/<strong>have</strong>: đã / rồi (📏 Khoảng Thời Gian Hành Động ở Hiện Tại Hoàn Thành) - <strong>Head</strong></p>
 			
 				<ul className="list-square">
 			
@@ -243,17 +243,17 @@ export default function LegoAssembly7(): React.JSX.Element {
 			
 			<h4 className="margin-y-40">Head tích hợp là gì?</h4>
 					
-			<p>Động cơ chính đã tích hợp sẵn thời hành động và thời gian = <strong>Head tích hợp</strong>.</p>
+			<p>Động cơ chính đã tích hợp sẵn thời gian hành động và thời gian = <strong>Head tích hợp</strong>.</p>
 
 			<p className="margin-top-20">Ví dụ:</p>
 			
 				<ul className="list-square">
 			
-					<li>buys = does + buy (hiện tại đơn)</li>
+					<li>buys = does + buy (⏳ Thời Gian Hành Động ở Hiện Tại Đơn)</li>
 			
-					<li>knows = does + know (hiện tại đơn)</li>
+					<li>knows = does + know (⏳ Thời Gian Hành Động ở Hiện Tại Đơn)</li>
 			
-					<li>developed = did + develop (quá khứ đơn)</li>
+					<li>developed = did + develop (⏳ Thời Gian Hành Động ở Quá Khứ Đơn)</li>
 			
 				</ul>
 
@@ -769,7 +769,7 @@ export default function LegoAssembly7(): React.JSX.Element {
 
 			<h3 className="margin-y-50 text-center">10. Ba Head Phổ Biến Nhất: am / will / could</h3>
 
-			<h4 className="margin-y-40">Head = am — "Đang" (hiện tại tiếp diễn / trạng thái)</h4>
+			<h4 className="margin-y-40">Head = am — "Đang" (⏱️ Thời Điểm Hành Động ở Hiện Tại Tiếp Diễn / trạng thái)</h4>
 					
 			<p className="text-indent-whole"><strong>Quy tắc</strong>: Sau <strong>am</strong></p>
 			
@@ -1157,7 +1157,7 @@ export default function LegoAssembly7(): React.JSX.Element {
 			
 					<li>Subject - <strong>S</strong></li>
 			
-					<li>Head tích hợp hoặc thời hành động - <strong>Head</strong></li>
+					<li>Head tích hợp hoặc thời gian hành động - <strong>Head</strong></li>
 			
 					<li>Mọi thứ sau Head - <strong>DP</strong></li>
 			

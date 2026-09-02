@@ -32,7 +32,7 @@ export default function DichCauHoiTiengAnh(): React.JSX.Element {
 
 			{/* This is the content of English Learning Term. */}
 
-			<p>Trong tiếng Anh, câu hỏi (question sentences) có cấu trúc đặc biệt, với hỏi từ (question word) và thời hành động (nếu có) đứng đầu, theo sau là chủ từ, hành động chính, và các bổ ngữ hoặc trạng cơ. Khác với tiếng Việt, nơi chủ từ thường đứng trước và hỏi từ nằm ở cuối câu, việc dịch câu hỏi tiếng Anh sang tiếng Việt đòi hỏi sắp xếp lại các thành phần để đảm bảo câu văn tự nhiên và đúng ngữ pháp. Để dịch chính xác, bạn có thể áp dụng nguyên tắc "<strong>chủ từ dịch trước</strong>, <strong>thời hành động dịch sau</strong>, <strong>tiếp đến là hành động chính và các bổ nghĩa</strong>, <strong>cuối cùng mới dịch hỏi từ</strong>", đồng thời đặt hỏi từ trong dấu ngoặc vuông [] để dịch cuối cùng và đặt thời hành động cùng chủ từ trong dấu ngoặc đơn () để dịch từ phải sang trái. Bài viết này sẽ hướng dẫn chi tiết cách thực hiện phương pháp này.</p>
+			<p>Trong tiếng Anh, câu hỏi (question sentences) có cấu trúc đặc biệt, với hỏi từ (question word) và thời gian hành động (nếu có) đứng đầu, theo sau là chủ từ, hành động chính, và các bổ ngữ hoặc trạng cơ. Khác với tiếng Việt, nơi chủ từ thường đứng trước và hỏi từ nằm ở cuối câu, việc dịch câu hỏi tiếng Anh sang tiếng Việt đòi hỏi sắp xếp lại các thành phần để đảm bảo câu văn tự nhiên và đúng ngữ pháp. Để dịch chính xác, bạn có thể áp dụng nguyên tắc "<strong>chủ từ dịch trước</strong>, <strong>thời gian hành động dịch sau</strong>, <strong>tiếp đến là hành động chính và các bổ nghĩa</strong>, <strong>cuối cùng mới dịch hỏi từ</strong>", đồng thời đặt hỏi từ trong dấu ngoặc vuông [] để dịch cuối cùng và đặt thời gian hành động cùng chủ từ trong dấu ngoặc đơn () để dịch từ phải sang trái. Bài viết này sẽ hướng dẫn chi tiết cách thực hiện phương pháp này.</p>
 
 				<p className="margin-top-50 text-center">
 
@@ -61,9 +61,9 @@ export default function DichCauHoiTiengAnh(): React.JSX.Element {
 
 					<li><strong>Hỏi từ</strong> (<strong>question word</strong>): Như <strong>what</strong>, <strong>who</strong>, <strong>where</strong>, <strong>when</strong>, <strong>why</strong>, <strong>how</strong>, đứng đầu câu để hỏi về thông tin cụ thể.</li>
 
-					<li>[<strong>Thời Động Cơ</strong>] (<strong>auxiliary verb</strong>): Như <strong>do</strong>, <strong>does</strong>, <strong>did</strong>, <strong>will</strong>, <strong>can</strong>, hỗ trợ cấu trúc ngữ pháp của câu hỏi, thường xuất hiện trong các câu hỏi có hành động hành động. Trong một số trường hợp, như câu hỏi với hành động <strong>to be</strong> (is, are, am), không có thời hành động mà <strong>to be</strong> đóng vai trò là hành động chính.</li>
+					<li>[<strong>Thời Động Cơ</strong>] (<strong>auxiliary verb</strong>): Như <strong>do</strong>, <strong>does</strong>, <strong>did</strong>, <strong>will</strong>, <strong>can</strong>, hỗ trợ cấu trúc ngữ pháp của câu hỏi, thường xuất hiện trong các câu hỏi có hành động hành động. Trong một số trường hợp, như câu hỏi với hành động <strong>to be</strong> (is, are, am), không có thời gian hành động mà <strong>to be</strong> đóng vai trò là hành động chính.</li>
 
-					<li><strong>Chủ từ</strong> (<strong>subject</strong>): Thành phần thực hiện hành động, đứng sau hỏi từ và thời hành động (hoặc hành động chính nếu không có thời động cơ).</li>
+					<li><strong>Chủ từ</strong> (<strong>subject</strong>): Thành phần thực hiện hành động, đứng sau hỏi từ và thời gian hành động (hoặc hành động chính nếu không có thời động cơ).</li>
 
 					<li><strong>Động cơ chính</strong> (<strong>main verb</strong>): Mang ý nghĩa chính của hành động hoặc trạng thái.</li>
 
@@ -87,7 +87,7 @@ export default function DichCauHoiTiengAnh(): React.JSX.Element {
 
 					</ul>
 
-			<p className="margin-top-20">Khi dịch sang tiếng Việt, cấu trúc này được đảo ngược để chủ từ đứng trước, tiếp theo là thời hành động (nếu có), hành động chính, các bổ ngữ hoặc trạng cơ, và cuối cùng là hỏi từ.</p>
+			<p className="margin-top-20">Khi dịch sang tiếng Việt, cấu trúc này được đảo ngược để chủ từ đứng trước, tiếp theo là thời gian hành động (nếu có), hành động chính, các bổ ngữ hoặc trạng cơ, và cuối cùng là hỏi từ.</p>
 
 			<h3 className="margin-y-50 text-center">2. Các bước dịch câu hỏi</h3>
 
@@ -101,7 +101,7 @@ export default function DichCauHoiTiengAnh(): React.JSX.Element {
 
 				<h3 className="margin-y-50 text-center">Bước 1: Xác định các thành phần chính</h3>
 
-				<p>Xác định hỏi từ, thời hành động (nếu có), hành động chính, chủ từ, và các bổ ngữ hoặc trạng cơ.</p>
+				<p>Xác định hỏi từ, thời gian hành động (nếu có), hành động chính, chủ từ, và các bổ ngữ hoặc trạng cơ.</p>
 
 				<p className="margin-top-20">Ví dụ: [<strong>What</strong>] (<strong>is English</strong>)?</p>
 
@@ -134,14 +134,14 @@ export default function DichCauHoiTiengAnh(): React.JSX.Element {
 			</div>
 
 			{/* =============================
-					Bước 2: Đặt hỏi từ trong dấu ngoặc vuông [] và thời hành động cùng chủ từ trong dấu ngoặc đơn ()
+					Bước 2: Đặt hỏi từ trong dấu ngoặc vuông [] và thời gian hành động cùng chủ từ trong dấu ngoặc đơn ()
 			============================= */}
 
 			<div className="margin-y-15 text-border1 table-container">
 
-				<h3 className="margin-y-50 text-center">Bước 2: Đặt hỏi từ trong dấu ngoặc vuông [] và thời hành động cùng chủ từ trong dấu ngoặc đơn ()</h3>
+				<h3 className="margin-y-50 text-center">Bước 2: Đặt hỏi từ trong dấu ngoặc vuông [] và thời gian hành động cùng chủ từ trong dấu ngoặc đơn ()</h3>
 
-				<p>Đặt hỏi từ trong dấu ngoặc vuông [] để đánh dấu nó sẽ được dịch cuối cùng. Đặt thời hành động (hoặc hành động chính nếu không có thời động cơ) và chủ từ trong dấu ngoặc đơn () để dịch từ phải sang trái.</p>
+				<p>Đặt hỏi từ trong dấu ngoặc vuông [] để đánh dấu nó sẽ được dịch cuối cùng. Đặt thời gian hành động (hoặc hành động chính nếu không có thời động cơ) và chủ từ trong dấu ngoặc đơn () để dịch từ phải sang trái.</p>
 
 					<ul className="list-square">
 
@@ -186,14 +186,14 @@ export default function DichCauHoiTiengAnh(): React.JSX.Element {
 			</div>
 
 			{/* =============================
-					Bước 4: Dịch thời hành động (nếu có), hành động chính, và các bổ ngữ hoặc trạng cơ
+					Bước 4: Dịch thời gian hành động (nếu có), hành động chính, và các bổ ngữ hoặc trạng cơ
 			============================= */}
 
 			<div className="margin-y-15 text-border1 table-container">
 
-				<h3 className="margin-y-50 text-center">Bước 4: Dịch thời hành động (nếu có), hành động chính, và các bổ ngữ hoặc trạng cơ</h3>
+				<h3 className="margin-y-50 text-center">Bước 4: Dịch thời gian hành động (nếu có), hành động chính, và các bổ ngữ hoặc trạng cơ</h3>
 
-				<p>Dịch các thành phần trong dấu ngoặc đơn () từ phải sang trái (bắt đầu từ chủ từ, sau đó là thời hành động hoặc hành động chính), rồi tiếp tục với hành động chính (nếu chưa được dịch) và các bổ ngữ hoặc Trạng Cơ theo thứ tự tự nhiên trong tiếng Việt.</p>
+				<p>Dịch các thành phần trong dấu ngoặc đơn () từ phải sang trái (bắt đầu từ chủ từ, sau đó là thời gian hành động hoặc hành động chính), rồi tiếp tục với hành động chính (nếu chưa được dịch) và các bổ ngữ hoặc Trạng Cơ theo thứ tự tự nhiên trong tiếng Việt.</p>
 
 				<p className="margin-top-20">Ví dụ: Trong [<strong>What</strong>] (<strong>is English</strong>)?</p>
 
@@ -255,7 +255,7 @@ export default function DichCauHoiTiengAnh(): React.JSX.Element {
 
 			<h3 className="margin-y-50 text-center">3. Xử lý các câu hỏi phức tạp</h3>
 
-			<p>Khi câu hỏi có bổ ngữ hoặc Trạng Cơ phức tạp hơn, bạn vẫn áp dụng nguyên tắc tương tự, chỉ đặt hỏi từ trong dấu ngoặc vuông [] và thời hành động (hoặc hành động chính) cùng chủ từ trong dấu ngoặc đơn (), còn các thành phần khác được dịch theo thứ tự tự nhiên trong tiếng Việt.</p>
+			<p>Khi câu hỏi có bổ ngữ hoặc Trạng Cơ phức tạp hơn, bạn vẫn áp dụng nguyên tắc tương tự, chỉ đặt hỏi từ trong dấu ngoặc vuông [] và thời gian hành động (hoặc hành động chính) cùng chủ từ trong dấu ngoặc đơn (), còn các thành phần khác được dịch theo thứ tự tự nhiên trong tiếng Việt.</p>
 
 			<p className="margin-top-20">Ví dụ 1: [<strong>Why</strong>] (<strong>did he</strong>) <strong>run quickly to the station</strong>?</p>
 
@@ -313,11 +313,11 @@ export default function DichCauHoiTiengAnh(): React.JSX.Element {
 
 			<h3 className="margin-y-50 text-center">4. Lưu ý khi dịch</h3>
 
-				<p> <strong>Phân biệt thời hành động và hành động chính </strong>:</p>
+				<p> <strong>Phân biệt thời gian hành động và hành động chính </strong>:</p>
 
 				<ul className="list-square">
 
-					<li>Thời hành động (như <strong>do</strong>, <strong>does</strong>, <strong>did</strong>) hỗ trợ cấu trúc ngữ pháp và thường không dịch trực tiếp mà được thể hiện qua thì hoặc ngữ cảnh.</li>
+					<li>Thời gian hành động (như <strong>do</strong>, <strong>does</strong>, <strong>did</strong>) hỗ trợ cấu trúc ngữ pháp và thường không dịch trực tiếp mà được thể hiện qua thì hoặc ngữ cảnh.</li>
 
 					<li>Động cơ chính (như <strong>is</strong>, <strong>are</strong>, <strong>am</strong> trong vai trò hành động <strong>to be</strong>, hoặc các hành động hành động như <strong>run</strong>, <strong>solve</strong>) mang ý nghĩa chính và được dịch rõ ràng.</li>
 
@@ -327,7 +327,7 @@ export default function DichCauHoiTiengAnh(): React.JSX.Element {
 
 				<p className="margin-top-20"><strong>So sánh với cách khác</strong>: Một cách tiếp cận khác là đặt cả hỏi từ và thời động cơ/động cơ chính vào cùng dấu ngoặc đơn, ví dụ: (<strong>What is</strong>) <strong>English</strong>?. Cách này đơn giản hơn nhưng ít rõ ràng trong việc tách hỏi từ để dịch cuối cùng, đặc biệt với các câu hỏi phức tạp. Cách [<strong>What</strong>] (<strong>is English</strong>)? được khuyến nghị vì nó tách biệt hỏi từ, giúp dễ dàng áp dụng nguyên tắc dịch hỏi từ ở cuối câu.</p>
 
-				<p><strong>Cấu trúc câu hỏi</strong>: Câu hỏi tiếng Anh thường có dạng <strong>hỏi từ</strong> + [<strong>Thời Động Cơ</strong>]/<strong>động cơ chính</strong> + <strong>chủ từ</strong> + <strong>động cơ chính</strong> (nếu có) + <strong>bổ ngữ</strong>/<strong>trạng cơ</strong>. Khi đặt vào dấu ngoặc, hỏi từ nằm trong dấu [] và thời hành động cùng chủ từ trong dấu (), nhưng khi dịch, hỏi từ được đặt ở cuối câu.</p>
+				<p><strong>Cấu trúc câu hỏi</strong>: Câu hỏi tiếng Anh thường có dạng <strong>hỏi từ</strong> + [<strong>Thời Động Cơ</strong>]/<strong>động cơ chính</strong> + <strong>chủ từ</strong> + <strong>động cơ chính</strong> (nếu có) + <strong>bổ ngữ</strong>/<strong>trạng cơ</strong>. Khi đặt vào dấu ngoặc, hỏi từ nằm trong dấu [] và thời gian hành động cùng chủ từ trong dấu (), nhưng khi dịch, hỏi từ được đặt ở cuối câu.</p>
 
 				<p><strong>Ngữ cảm tự nhiên</strong>: Trong tiếng Việt, thứ tự các thành phần có thể được điều chỉnh để câu văn nghe mượt mà hơn. Ví dụ: [<strong>Where</strong>] (<strong>does she</strong>) <strong>live now</strong>? có thể được dịch thành Cô ấy sống ở đâu bây giờ? thay vì Cô ấy sống bây giờ ở đâu? để tự nhiên hơn.</p>
 
@@ -337,7 +337,7 @@ export default function DichCauHoiTiengAnh(): React.JSX.Element {
 
 			<h3 className="margin-y-50 text-center">5. Kết luận</h3>
 			
-			<p>Phương pháp dịch câu hỏi tiếng Anh theo nguyên tắc "<strong>chủ từ dịch trước</strong>, <strong>thời hành động hoặc hành động chính dịch sau</strong>, <strong>tiếp đến là bổ nghĩa</strong>, <strong>cuối cùng là hỏi từ</strong>", kết hợp với việc đặt hỏi từ trong dấu ngoặc vuông [] và thời động cơ/động cơ chính cùng chủ từ trong dấu ngoặc đơn (), giúp người học dễ dàng nhận diện và sắp xếp các thành phần. Bằng cách dịch chủ từ trước, xử lý các thành phần trong dấu () từ phải sang trái, tiếp tục với hành động chính và bổ ngữ, rồi đặt hỏi từ ở cuối, bạn có thể tạo ra câu văn tiếng Việt tự nhiên và đúng ngữ pháp. Thực hành thường xuyên với các ví dụ cụ thể sẽ giúp bạn nắm vững kỹ năng này.</p>
+			<p>Phương pháp dịch câu hỏi tiếng Anh theo nguyên tắc "<strong>chủ từ dịch trước</strong>, <strong>thời gian hành động hoặc hành động chính dịch sau</strong>, <strong>tiếp đến là bổ nghĩa</strong>, <strong>cuối cùng là hỏi từ</strong>", kết hợp với việc đặt hỏi từ trong dấu ngoặc vuông [] và thời động cơ/động cơ chính cùng chủ từ trong dấu ngoặc đơn (), giúp người học dễ dàng nhận diện và sắp xếp các thành phần. Bằng cách dịch chủ từ trước, xử lý các thành phần trong dấu () từ phải sang trái, tiếp tục với hành động chính và bổ ngữ, rồi đặt hỏi từ ở cuối, bạn có thể tạo ra câu văn tiếng Việt tự nhiên và đúng ngữ pháp. Thực hành thường xuyên với các ví dụ cụ thể sẽ giúp bạn nắm vững kỹ năng này.</p>
 
 			<div className="viewcounter">
 			

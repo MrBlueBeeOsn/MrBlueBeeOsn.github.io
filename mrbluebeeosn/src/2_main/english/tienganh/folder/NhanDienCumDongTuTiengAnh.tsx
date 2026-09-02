@@ -81,7 +81,7 @@ export default function NhanDienCumDongTuTiengAnh(): React.JSX.Element {
 				
 					<ul className="list-square">
 				
-						<li>Anh ấy đã học tiếng Anh (hiện tại hoàn thành).</li>
+						<li>Anh ấy đã học tiếng Anh (📏 Khoảng Thời Gian Hành Động ở Hiện Tại Hoàn Thành).</li>
 				
 						<li className="list-none">→ Người này học ở quá khứ nhưng kết quả vẫn còn đến hiện tại.</li>
 				

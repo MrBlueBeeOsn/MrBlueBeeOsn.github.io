@@ -17,7 +17,7 @@ export default function Nho12ThiTiengAnh(): React.JSX.Element {
 		
 			<h4><HashLink smooth to="/tieng-anh#tieng-anh-terms"><mark className="highlight-tertiary-padding-4-8">Tiếng Anh</mark></HashLink></h4>
 			
-			<h1 className="margin-y-50 text-center">Hướng Dẫn Nhớ 12 Thời Hành Động Tiếng Anh Chỉ Với Mã A1 Đến C4</h1>
+			<h1 className="margin-y-50 text-center">Hướng Dẫn Nhớ 12 Thời Gian Hành Động Tiếng Anh Chỉ Với Mã A1 Đến C4</h1>
 
 			{/* This is the content of English Learning Term. */}
 
@@ -51,7 +51,7 @@ export default function Nho12ThiTiengAnh(): React.JSX.Element {
 
 					</ul>
 
-				<p className="margin-top-20">→ Mỗi mã đại diện cho một thì, dễ gọi tên: “A1 là hiện tại đơn”, “C4 là tương lai hoàn thành tiếp diễn”!</p>
+				<p className="margin-top-20">→ Mỗi mã đại diện cho một thì, dễ gọi tên: “A1 là ⏳ Thời Gian Hành Động ở Hiện Tại Đơn”, “C4 là 🏃‍♂️ Khoảng Thời Gian Hành Động ở Tương Lai Hoàn Thành Tiếp Diễn”!</p>
 
 			</div>
 
@@ -165,7 +165,7 @@ export default function Nho12ThiTiengAnh(): React.JSX.Element {
 
 					</ul>
 
-				<p className="margin-top-20"><strong>Bị động dễ nhớ</strong>: chỉ thêm “be + V3” và điều chỉnh thời hành động phù hợp!</p>
+				<p className="margin-top-20"><strong>Bị động dễ nhớ</strong>: chỉ thêm “be + V3” và điều chỉnh thời gian hành động phù hợp!</p>
 
 			</div>
 

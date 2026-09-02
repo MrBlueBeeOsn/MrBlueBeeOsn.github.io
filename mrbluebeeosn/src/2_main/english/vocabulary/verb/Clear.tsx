@@ -70,7 +70,7 @@ export default function Clear(): React.JSX.Element {
           <li className="margin-bottom-20 list-none">Là đơn vị từ đơn chuyên biệt chịu trách nhiệm kích hoạt bối cảnh thời gian (Hiện tại/Quá khứ) hoặc làm trợ lực thiết lập thể chủ động/bị động, hoàn thành/tiếp diễn.</li>
 
           <li value="3">[<strong>Thời Hoàn Động Cơ</strong>][<strong>Complex Tense Verb Base</strong>]: had been, has been</li>
-          <li className="margin-bottom-20 list-none">Là phân hệ cụm mã gồm nhiều thành phần thời phối hợp nhau để xử lý các bối cảnh thời gian phức tạp (như Quá khứ hoàn thành tiếp diễn, Hiện tại hoàn thành tiếp diễn).</li>
+          <li className="margin-bottom-20 list-none">Là phân hệ cụm mã gồm nhiều thành phần thời phối hợp nhau để xử lý các bối cảnh thời gian phức tạp (như 🏃‍♂️ Khoảng Thời Gian Hành Động ở Quá Khứ Hoàn Thành Tiếp Diễn, 🏃‍♂️ Khoảng Thời Gian Hành Động ở Hiện Tại Hoàn Thành Tiếp Diễn).</li>
       
           <li value="4">[<strong>Tiếp, Hoàn Động Cơ</strong>][<strong>Progressive, Perfect  Verb Base</strong>]: clearing, cleared (khi đi sau các trợ mã Thời)</li>
           <li className="margin-bottom-20 list-none">Là mã hành động đã được biến đổi hình thái sang dạng chuyển động tiếp diễn (-ing) hoặc trạng thái hoàn thành/bị động (-v3/-ed) để phối hợp với thành phần Thời, trực tiếp hiển thị bản chất thực thi của hành động.</li>
@@ -78,7 +78,7 @@ export default function Clear(): React.JSX.Element {
           <li value="5">[<strong>Thái Động Cơ</strong>][<strong>Modal Verb Base</strong>]: must, can, should, may, might</li>
           <li className="margin-bottom-20 list-none">Là mã thiết lập chế độ, tâm thế hoặc khả năng, mức độ chắc chắn của hành động (như bắt buộc, có thể, nên).</li>
       
-          <li value="6">[<strong>Thời-Thuần Động Cơ</strong>][<strong>Tense-Bare Verb Base</strong>]: clears, cleared (Quá khứ đơn, dạng độc lập)</li>
+          <li value="6">[<strong>Thời-Thuần Động Cơ</strong>][<strong>Tense-Bare Verb Base</strong>]: clears, cleared (⏳ Thời Gian Hành Động ở Quá Khứ Đơn, dạng độc lập)</li>
           <li className="list-none">Là phân hệ tích hợp tối tân, nén cả dấu mốc Thời gian và bản chất Thực thi hành động vào trong một đơn vị từ đơn duy nhất.</li>
       
         </ol>
@@ -98,7 +98,7 @@ export default function Clear(): React.JSX.Element {
 
           <li>has been clearing → [Thời Hoàn Động Cơ] has been + [Tiếp Động Cơ] clearing</li>
       
-          <li>cleared (Quá khứ đơn) → [Thời-Thuần Động Cơ] (Một đơn vị tích hợp cả hai)</li>
+          <li>cleared (⏳ Thời Gian Hành Động ở Quá Khứ Đơn) → [Thời-Thuần Động Cơ] (Một đơn vị tích hợp cả hai)</li>
       
           <li>should clear → [Ý-Thái Thuần Động Cơ] should + [Thuần Động Cơ] clear</li>
       

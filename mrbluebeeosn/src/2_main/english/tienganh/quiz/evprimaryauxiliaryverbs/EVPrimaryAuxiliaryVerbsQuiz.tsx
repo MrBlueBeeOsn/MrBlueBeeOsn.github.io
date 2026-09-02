@@ -30,7 +30,7 @@ export default function EVPrimaryAuxiliaryVerbsQuiz(): React.JSX.Element {
 				"did"
 			],
 			correctAnswer: 1,
-			explanation: "Câu ở thời hành động hiện tại hoàn thành (Present Perfect) với cấu trúc S + have/has + V3/ed. Với danh chủ \"She\", ta dùng \"has\"."
+			explanation: "Câu ở 📏 Khoảng Thời Gian Hành Động ở Hiện Tại Hoàn Thành (Present Perfect) với cấu trúc S + have/has + V3/ed. Với danh chủ \"She\", ta dùng \"has\"."
 		},
 		{
 			id: 2,
@@ -42,7 +42,7 @@ export default function EVPrimaryAuxiliaryVerbsQuiz(): React.JSX.Element {
 				"Were"
 			],
 			correctAnswer: 2,
-			explanation: "Câu nghi vấn ở thời hành động quá khứ đơn (Past Simple) mượn thời hành động \"Did\" đứng trước danh chủ, hành động chính \"study\" giữ nguyên mẫu."
+			explanation: "Câu nghi vấn ⏳ Thời Gian Hành Động ở Quá Khứ Đơn (Past Simple) mượn thời gian hành động \"Did\" đứng trước danh chủ, hành động chính \"study\" giữ nguyên mẫu."
 		},
 		{
 			id: 3,
@@ -54,7 +54,7 @@ export default function EVPrimaryAuxiliaryVerbsQuiz(): React.JSX.Element {
 				"is"
 			],
 			correctAnswer: 0,
-			explanation: "Câu ở thời hành động hiện tại tiếp diễn thể bị động (Present Continuous Passive): S + am/is/are + being + V3/ed. \"Statements\" là Danh Cơ số nhiều nên dùng \"are\"."
+			explanation: "Câu ở ⏱️ thời điểm hành động ở hiện tại tiếp diễn thể bị động (Present Continuous Passive): S + am/is/are + being + V3/ed. \"Statements\" là Danh Cơ số nhiều nên dùng \"are\"."
 		},
 		{
 			id: 4,
@@ -66,7 +66,7 @@ export default function EVPrimaryAuxiliaryVerbsQuiz(): React.JSX.Element {
 				"did"
 			],
 			correctAnswer: 2,
-			explanation: "Câu hỏi ở thời hành động hiện tại đơn với hành động thường \"insist\". Danh chủ \"he\" yêu cầu thời hành động \"does\"."
+			explanation: "Câu hỏi ở ⏳ Thời Gian Hành Động ở Hiện Tại Đơn với hành động thường \"insist\". Danh chủ \"he\" yêu cầu thời gian hành động \"does\"."
 		},
 		{
 			id: 5,
@@ -78,7 +78,7 @@ export default function EVPrimaryAuxiliaryVerbsQuiz(): React.JSX.Element {
 				"did"
 			],
 			correctAnswer: 2,
-			explanation: "Thời hành động hiện tại hoàn thành dùng để diễn tả hành động kéo dài đến hiện tại. Cấu trúc S (We) + have + V3 (had)."
+			explanation: "📏 Khoảng Thời Gian Hành Động ở Hiện Tại Hoàn Thành dùng để diễn tả hành động kéo dài đến hiện tại. Cấu trúc S (We) + have + V3 (had)."
 		},
 		{
 			id: 6,
@@ -90,7 +90,7 @@ export default function EVPrimaryAuxiliaryVerbsQuiz(): React.JSX.Element {
 				"Was"
 			],
 			correctAnswer: 1,
-			explanation: "Dấu hiệu \"last year\" cho thấy đây là thời hành động quá khứ đơn. Mượn thời hành động \"Did\" cho câu hỏi với hành động thường \"provide\"."
+			explanation: "Dấu hiệu \"last year\" cho thấy đây là ⏳ Thời Gian Hành Động ở Quá Khứ Đơn. Mượn thời gian hành động \"Did\" cho câu hỏi với hành động thường \"provide\"."
 		},
 		{
 			id: 7,
@@ -102,7 +102,7 @@ export default function EVPrimaryAuxiliaryVerbsQuiz(): React.JSX.Element {
 				"be"
 			],
 			correctAnswer: 2,
-			explanation: "Thời hành động hiện tại tiếp diễn diễn tả hành động đang xảy ra: S (I) + am + V-ing."
+			explanation: "⏱️ Thời Điểm Hành Động ở Hiện Tại Tiếp Diễn diễn tả hành động đang xảy ra: S (I) + am + V-ing."
 		},
 		{
 			id: 8,
@@ -114,7 +114,7 @@ export default function EVPrimaryAuxiliaryVerbsQuiz(): React.JSX.Element {
 				"have"
 			],
 			correctAnswer: 2,
-			explanation: "Câu phủ định thời hành động hiện tại đơn với danh chủ \"They\" (số nhiều) sử dụng thời hành động \"do\" + not."
+			explanation: "Câu phủ định ⏳ Thời Gian Hành Động ở Hiện Tại Đơn với danh chủ \"They\" (số nhiều) sử dụng thời gian hành động \"do\" + not."
 		},
 		{
 			id: 9,
@@ -126,7 +126,7 @@ export default function EVPrimaryAuxiliaryVerbsQuiz(): React.JSX.Element {
 				"did"
 			],
 			correctAnswer: 1,
-			explanation: "Thời hành động hiện tại hoàn thành thể bị động: S + have/has + been + V3/ed. \"Documents\" số nhiều đi với \"have\"."
+			explanation: "📏 Khoảng Thời Gian Hành Động ở Hiện Tại Hoàn Thành thể bị động: S + have/has + been + V3/ed. \"Documents\" số nhiều đi với \"have\"."
 		},
 		{
 			id: 10,
@@ -138,7 +138,7 @@ export default function EVPrimaryAuxiliaryVerbsQuiz(): React.JSX.Element {
 				"Did"
 			],
 			correctAnswer: 2,
-			explanation: "Câu hỏi ở thời hành động quá khứ tiếp diễn: Was/Were + S + V-ing. Với danh chủ \"she\", ta dùng \"Was\"."
+			explanation: "Câu hỏi ở ⏱️ Thời Điểm Hành Động ở Quá Khứ Tiếp Diễn: Was/Were + S + V-ing. Với danh chủ \"she\", ta dùng \"Was\"."
 		}
 	];
 

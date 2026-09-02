@@ -43,7 +43,7 @@ export default function SauDangHanhDong2(): React.JSX.Element {
 
 				<h4 className="margin-top-50 margin-bottom-30">Work – Bare infinitive / Base form (động cơ nguyên mẫu không “to”)</h4>
 
-					<p className="text-indent-whole">Dùng cho I/you/we/they ở hiện tại đơn, sau do/does/did, sau modal verbs (can, will, must, should, may…), và sau let/make/help…</p>
+					<p className="text-indent-whole">Dùng cho I/you/we/they ⏳ Thời Gian Hành Động ở Hiện Tại Đơn, sau do/does/did, sau modal verbs (can, will, must, should, may…), và sau let/make/help…</p>
 
 					<p className="text-indent-whole">Ví dụ:</p>
 
@@ -59,7 +59,7 @@ export default function SauDangHanhDong2(): React.JSX.Element {
 
 				<p className="margin-top-20 text-indent-whole">→ Đây là dạng “thoải mái, tự do” nhất trong giao tiếp hàng ngày.</p>
 
-				<h4 className="margin-top-50 margin-bottom-30">Works – 3rd person singular (ngôi thứ ba số ít ở hiện tại đơn)</h4>
+				<h4 className="margin-top-50 margin-bottom-30">Works – 3rd person singular (ngôi thứ ba số ít ⏳ Thời Gian Hành Động ở Hiện Tại Đơn)</h4>
 
 					<p className="text-indent-whole">Chỉ thêm -s/-es khi danh chủ là he/she/it.</p>
 
@@ -85,9 +85,9 @@ export default function SauDangHanhDong2(): React.JSX.Element {
 
 				<h3 className="margin-top-50 margin-bottom-20 text-center">Cặp 2: Worked vs Have/Has/Had Worked</h3>
 
-				<h4 className="margin-top-50 margin-bottom-30">Worked – Past simple & Past participle (quá khứ đơn & phân từ quá khứ)</h4>
+				<h4 className="margin-top-50 margin-bottom-30">Worked – Past simple & Past participle (⏳ Thời Gian Hành Động ở Quá Khứ Đơn & ⏱️ Thời Điểm Hành Động ở Quá Khứ Tiếp Diễn)</h4>
 
-					<p className="text-indent-whole">Dùng để kể chuyện quá khứ, hoặc trong thì hoàn thành.</p>
+					<p className="text-indent-whole">Dùng để kể chuyện quá khứ, hoặc trong 📏 Khoảng Thời Gian Hành Động ở Quá Khứ Hoàn Thành.</p>
 
 					<p className="text-indent-whole">Ví dụ:</p>
 
@@ -103,9 +103,9 @@ export default function SauDangHanhDong2(): React.JSX.Element {
 
 				<p className="margin-top-20 text-indent-whole">→ Với hành động bất quy tắc thì dạng này thay đổi (go → went, eat → ate, see → saw…).</p>
 
-				<h4 className="margin-top-50 margin-bottom-30">(have/has/had) worked – Past participle trong thì hoàn thành (Present Perfect, Past Perfect…)</h4>
+				<h4 className="margin-top-50 margin-bottom-30">(have/has/had) worked – Past participle trong 📏 Khoảng Thời Gian Hành Động ở Quá Khứ Hoàn Thành, 📏 Khoảng Thời Gian Hành Động ở Hiện Tại Hoàn Thành (Present Perfect, Past Perfect…)</h4>
 
-					<p className="text-indent-whole">Đây là dạng “cầu nối thời gian” – kết hợp với have/has/had để tạo các thì hoàn thành.</p>
+					<p className="text-indent-whole">Đây là dạng “cầu nối thời gian” – kết hợp với have/has/had để tạo các 📏 Khoảng Thời Gian Hành Động ở Hiện Tại Hoàn Thành, 📏 Khoảng Thời Gian Hành Động ở Quá Khứ Hoàn Thành.</p>
 
 					<p className="text-indent-whole">Ví dụ:</p>
 
@@ -121,7 +121,7 @@ export default function SauDangHanhDong2(): React.JSX.Element {
 
 				<p className="margin-top-20 text-indent-whole">→ Dạng này xuất hiện rất nhiều trong giao tiếp tự nhiên và bài thi.</p>
 
-				<p><Link to="/tieng-anh/present-perfect" className="text-indent-whole">Hiểu Đúng Về Thời Hành Động Hiện Tại Hoàn Thành</Link></p>
+				<p><Link to="/tieng-anh/present-perfect" className="text-indent-whole">Hiểu Đúng Về 📏 Khoảng Thời Gian Hành Động ở Hiện Tại Hoàn Thành</Link></p>
 
 			</div>
 
@@ -179,7 +179,7 @@ export default function SauDangHanhDong2(): React.JSX.Element {
 
 					<li className="list-none">Sau modal: can <strong>work</strong>, must <strong>work</strong>, should <strong>work</strong>…</li>
 			
-					<li value="2">Cặp 2: Worked vs Have/Has/Had Worked: <strong>worked</strong> / Hiện tại hoàn thành: <strong>have</strong>/<strong>has worked</strong></li>
+					<li value="2">Cặp 2: Worked vs Have/Has/Had Worked: <strong>worked</strong> / 📏 Khoảng Thời Gian Hành Động ở Hiện Tại Hoàn Thành: <strong>have</strong>/<strong>has worked</strong></li>
 			
 					<li value="3">Cặp 3: (Be) Working vs To Work: <strong>am</strong>/<strong>is</strong>/<strong>are working</strong> / Nguyên mẫu: want <strong>to work</strong></li>
 			
@@ -205,7 +205,7 @@ export default function SauDangHanhDong2(): React.JSX.Element {
 			
 					<li>Yesterday I <strong>worked</strong> until midnight. (quá khứ)</li>
 
-					<li>This year I <strong>have worked</strong> more than 2000 hours. (hiện tại hoàn thành)</li>
+					<li>This year I <strong>have worked</strong> more than 2000 hours. (📏 Khoảng Thời Gian Hành Động ở Hiện Tại Hoàn Thành)</li>
 			
 				</ul>
 
@@ -229,7 +229,7 @@ export default function SauDangHanhDong2(): React.JSX.Element {
 
 					<li><strong>Ngày 4</strong>: Kể chuyện quá khứ (worked).</li>
 			
-					<li><strong>Ngày 5</strong>: Luyện hiện tại hoàn thành (have/has worked).</li>
+					<li><strong>Ngày 5</strong>: Luyện 📏 Khoảng Thời Gian Hành Động ở Hiện Tại Hoàn Thành (have/has worked).</li>
 
 					<li><strong>Ngày 6</strong>: Nói về “đang làm gì” (am/is/are working).</li>
 			

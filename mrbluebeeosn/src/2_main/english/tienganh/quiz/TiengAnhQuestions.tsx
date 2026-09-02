@@ -102,7 +102,7 @@ export default function TiengAnhQuestions(): React.JSX.Element {
 				"esCAPE"
 			],
 			correctAnswer: 2,
-			explanation: "Hành động tẩu thoát của những tên trộm xảy ra trước hành động cảnh sát đến trong quá khứ. Để diễn tả hành động xảy ra trước một hành động khác trong quá khứ, ta dùng thời hành động quá khứ Hoàn thành (had + PII)."
+			explanation: "Hành động tẩu thoát của những tên trộm xảy ra trước hành động cảnh sát đến trong quá khứ. Để diễn tả hành động xảy ra trước một hành động khác trong quá khứ, ta dùng 📏 Khoảng Thời Gian Hành Động ở Quá Khứ Hoàn Thành (had + PII)."
 		},
 		{
 			id: 8,
@@ -138,7 +138,7 @@ export default function TiengAnhQuestions(): React.JSX.Element {
 				"had he"
 			],
 			correctAnswer: 0,
-			explanation: "Đây là cấu trúc đảo ngữ với cụm từ phủ định Only after... đứng đầu câu. Cấu trúc đúng là: Only after + Câu con quá khứ hoàn thành (hành động trước) + Thời hành động + S + Hành động chính (hành động sau). Vì hành động \"REalize\" ở quá khứ, ta dùng thời hành động did."
+			explanation: "Đây là cấu trúc đảo ngữ với cụm từ phủ định Only after... đứng đầu câu. Cấu trúc đúng là: Only after + Câu con 📏 Khoảng Thời Gian Hành Động ở Quá Khứ Hoàn Thành (hành động trước) + Thời gian hành động + S + Hành động chính (hành động sau). Vì hành động \"REalize\" ở quá khứ, ta dùng thời gian hành động did."
 		}
 	];
 
