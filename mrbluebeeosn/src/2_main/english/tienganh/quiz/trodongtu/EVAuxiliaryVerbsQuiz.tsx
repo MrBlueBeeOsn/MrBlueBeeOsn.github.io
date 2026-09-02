@@ -22,31 +22,31 @@ export default function EVAuxiliaryVerbsQuiz(): React.JSX.Element {
 	const questions: Question[] = [
 		{
 			id: 1,
-			question: "I _______ not seen that movie before, so I'm excited to watch it tonight.",
+			question: "i _______ NOT SEEN that MOvie beFORE, so i'm exCIted to WATCH it toNIGHT.",
 			options: [
 				"do",
 				"have",
 				"am",
-				"did"
+				"DID"
 			],
 			correctAnswer: 1,
 			explanation: "Câu này sử dụng thời hiện tại hoàn thành (have + V3/ed) để diễn tả một trải nghiệm chưa từng xảy ra trong quá khứ tính đến hiện tại."
 		},
 		{
 			id: 2,
-			question: "_______ you finish your homework yesterday evening?",
+			question: "_______ you FINish your HOMEwork YESterday EVEning?",
 			options: [
-				"Do",
-				"Have",
-				"Did",
-				"Were"
+				"do",
+				"have",
+				"did",
+				"were"
 			],
 			correctAnswer: 2,
-			explanation: "Để đặt câu hỏi cho hành động đã kết thúc trong quá khứ (yesterday), ta dùng thời hành động \"Did\" của thời quá khứ đơn."
+			explanation: "Để đặt câu hỏi cho hành động đã kết thúc trong quá khứ (YESterday), ta dùng thời hành động \"did\" của thời quá khứ đơn."
 		},
 		{
 			id: 3,
-			question: "She _______ working on a very important project at the moment.",
+			question: "she _______ WORKing on a VERy imPORTant PROJect at the MOment.",
 			options: [
 				"is",
 				"does",
@@ -54,86 +54,86 @@ export default function EVAuxiliaryVerbsQuiz(): React.JSX.Element {
 				"will"
 			],
 			correctAnswer: 0,
-			explanation: "Cụm từ \"at the moment\" dấu hiệu của thời hiện tại tiếp diễn, công thức là \"be + V-ing\". Với danh chủ \"She\", thời hành động phù hợp là \"is\"."
+			explanation: "Cụm từ \"at the MOment\" dấu hiệu của thời hiện tại tiếp diễn, công thức là \"be + V-ing\". Với danh chủ \"she\", thời hành động phù hợp là \"is\"."
 		},
 		{
 			id: 4,
-			question: "You _______ take an umbrella with you; the sky looks very dark.",
+			question: "you _______ TAKE an umBRELla with you; the SKY LOOKS VERy DARK.",
 			options: [
-				"did",
+				"DID",
 				"have",
 				"should",
 				"are"
 			],
 			correctAnswer: 2,
-			explanation: "\"Should\" là thời hành động khuyết thiếu dùng để đưa ra lời khuyên. Ngữ cảnh trời tối sầm nên khuyên mang theo ô là hợp lý nhất."
+			explanation: "\"should\" là thời hành động khuyết thiếu dùng để đưa ra lời khuyên. Ngữ cảnh trời tối sầm nên khuyên mang theo ô là hợp lý nhất."
 		},
 		{
 			id: 5,
-			question: "_______ they ever been to Europe before their trip last summer?",
+			question: "_______ they EVer been to EURope before their TRIP LAST SUMmer?",
 			options: [
-				"Had",
-				"Did",
-				"Were",
-				"Have"
+				"had",
+				"did",
+				"were",
+				"have"
 			],
 			correctAnswer: 0,
-			explanation: "Câu hỏi về một hành động xảy ra trước một thời điểm trong quá khứ (last summer) nên ta dùng thời quá khứ hoàn thành (Had + V3/ed)."
+			explanation: "Câu hỏi về một hành động xảy ra trước một thời điểm trong quá khứ (LAST SUMmer) nên ta dùng thời quá khứ hoàn thành (had + V3/ed)."
 		},
 		{
 			id: 6,
-			question: "He _______ like playing football when he was a child, but he loves it now.",
+			question: "he _______ LIKE PLAYing FOOTball when he was a CHILD, but he LOVES it NOW.",
 			options: [
-				"doesn't",
-				"didn't",
-				"hasn't",
-				"wasn't"
+				"DOESn't",
+				"DIDn't",
+				"HASn't",
+				"WASn't"
 			],
 			correctAnswer: 1,
-			explanation: "Câu diễn tả một thói quen hoặc trạng thái trong quá khứ (\"when he was a child\") nên dùng thời hành động phủ định của quá khứ đơn là \"didn't\"."
+			explanation: "Câu diễn tả một thói quen hoặc trạng thái trong quá khứ (\"when he was a CHILD\") nên dùng thời hành động phủ định của quá khứ đơn là \"DIDn't\"."
 		},
 		{
 			id: 7,
-			question: "This cake _______ made by my grandmother yesterday.",
+			question: "this CAKE _______ MADE by my GRANDmother YESterday.",
 			options: [
 				"is",
 				"was",
-				"did",
+				"DID",
 				"has"
 			],
 			correctAnswer: 1,
-			explanation: "Đây là câu bị động ở thời quá khứ đơn (Be + V3/ed). Vì \"yesterday\" và \"cake\" là số ít nên ta dùng \"was\"."
+			explanation: "Đây là câu bị động ở thời quá khứ đơn (be + V3/ed). Vì \"YESterday\" và \"CAKE\" là số ít nên ta dùng \"was\"."
 		},
 		{
 			id: 8,
-			question: "_______ I help you with those heavy bags?",
+			question: "_______ i HELP you with those HEAVy BAGS?",
 			options: [
-				"Do",
-				"Have",
-				"Am",
-				"Can"
+				"do",
+				"have",
+				"am",
+				"can"
 			],
 			correctAnswer: 3,
-			explanation: "\"Can\" được dùng làm thời hành động để đưa ra một lời đề nghị giúp đỡ hoặc hỏi về khả năng."
+			explanation: "\"can\" được dùng làm thời hành động để đưa ra một lời đề nghị giúp đỡ hoặc hỏi về khả năng."
 		},
 		{
 			id: 9,
-			question: "We _______ been waiting for the bus for over thirty minutes now.",
+			question: "we _______ been WAITing for the BUS for over THIRty MINutes NOW.",
 			options: [
 				"are",
 				"do",
 				"have",
-				"did"
+				"DID"
 			],
 			correctAnswer: 2,
 			explanation: "Cấu trúc \"have/has + been + V-ing\" của thời hiện tại hoàn thành tiếp diễn dùng để diễn tả hành động bắt đầu trong quá khứ và vẫn đang tiếp tục."
 		},
 		{
 			id: 10,
-			question: "If it rains tomorrow, we _______ stay at home and watch movies.",
+			question: "if it RAINS toMORrow, we _______ STAY at HOME and WATCH MOvies.",
 			options: [
 				"will",
-				"did",
+				"DID",
 				"had",
 				"were"
 			],
