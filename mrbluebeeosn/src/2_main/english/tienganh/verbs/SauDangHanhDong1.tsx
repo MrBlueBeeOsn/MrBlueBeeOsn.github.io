@@ -117,7 +117,7 @@ export default function SauDangHanhDong1(): React.JSX.Element {
 
 					</ul>
 
-				<p className="margin-top-20"><strong>Have</strong>/<strong>Has</strong>/<strong>had WORKED</strong> (phân từ quá khứ – PAST PARticiple trong 📏 Khoảng Thời Gian Hành Động ở Quá Khứ Hoàn Thành): Dùng để nói kinh nghiệm, kết quả kéo dài đến hiện tại (PREsent PERfect) hoặc trước một thời điểm trong quá khứ (Past Perfect).</p>
+				<p className="margin-top-20"><strong>Have</strong>/<strong>Has</strong>/<strong>had WORKED</strong> (phân từ quá khứ – PAST PARticiple trong 📏 Khoảng Thời Gian Hành Động ở Hiện Tại Hoàn Thành: Dùng để nói kinh nghiệm, kết quả kéo dài đến hiện tại (PREsent PERfect) hoặc trước một thời điểm trong quá khứ (Past Perfect).</p>
 
 					<p className="text-indent-whole">Ví dụ:</p>
 
