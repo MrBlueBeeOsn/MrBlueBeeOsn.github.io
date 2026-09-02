@@ -22,7 +22,7 @@ export default function EVSingularPluralVerbsQuiz(): React.JSX.Element {
 	const questions: Question[] = [
 		{
 			id: 1,
-			question: "The list of items _______ on the desk.",
+			question: "the LIST of Items _______ on the DESK.",
 			options: [
 				"is",
 				"are",
@@ -30,23 +30,23 @@ export default function EVSingularPluralVerbsQuiz(): React.JSX.Element {
 				"being"
 			],
 			correctAnswer: 0,
-			explanation: "Danh chủ chính là Danh Cơ số ít \"The list\", không phải \"items\". Vì vậy, hành động phải chia ở số ít."
+			explanation: "Danh chủ chính là Danh Cơ số ít \"the LIST\", không phải \"Items\". Vì vậy, hành động phải chia ở số ít."
 		},
 		{
 			id: 2,
-			question: "Neither the teacher nor the students _______ to skip the extra class.",
+			question: "neither the TEACHer nor the STUdents _______ to SKIP the EXtra CLASS.",
 			options: [
-				"wants",
-				"wanting",
-				"want",
-				"has wanted"
+				"WANTS",
+				"WANTing",
+				"WANT",
+				"has WANTed"
 			],
 			correctAnswer: 2,
-			explanation: "Với cấu trúc \"Neither... nor...\", hành động chia theo danh chủ gần nó nhất. \"The students\" là Danh Cơ số nhiều nên dùng \"want\"."
+			explanation: "Với cấu trúc \"neither... nor...\", hành động chia theo danh chủ gần nó nhất. \"the STUdents\" là Danh Cơ số nhiều nên dùng \"WANT\"."
 		},
 		{
 			id: 3,
-			question: "Economics _______ a difficult subject for many people.",
+			question: "ecoNOMics _______ a DIFficult SUBject for many PEOple.",
 			options: [
 				"are",
 				"is",
@@ -54,11 +54,11 @@ export default function EVSingularPluralVerbsQuiz(): React.JSX.Element {
 				"were"
 			],
 			correctAnswer: 1,
-			explanation: "Một số Danh Cơ kết thúc bằng \"s\" nhưng là tên môn học, lĩnh vực (Economics, Physics, Mathematics) thì luôn chia hành động ở số ít."
+			explanation: "Một số Danh Cơ kết thúc bằng \"s\" nhưng là tên môn học, lĩnh vực (ecoNOMics, PHYSics, matheMATics) thì luôn chia hành động ở số ít."
 		},
 		{
 			id: 4,
-			question: "A number of employees _______ complained about the new policy.",
+			question: "a NUMber of emPLOYees _______ comPLAINED about the NEW POLicy.",
 			options: [
 				"has",
 				"is",
@@ -66,11 +66,11 @@ export default function EVSingularPluralVerbsQuiz(): React.JSX.Element {
 				"was"
 			],
 			correctAnswer: 2,
-			explanation: "Cấu trúc \"A number of + Danh Cơ số nhiều\" luôn đi với hành động số nhiều. (Ngược lại, \"The number of\" sẽ đi với hành động số ít)."
+			explanation: "Cấu trúc \"a NUMber of + Danh Cơ số nhiều\" luôn đi với hành động số nhiều. (Ngược lại, \"The NUMber of\" sẽ đi với hành động số ít)."
 		},
 		{
 			id: 5,
-			question: "Every man, woman, and child _______ the right to be happy.",
+			question: "EVERy MAN, WOMan, and CHILD _______ the RIGHT to be HAPpy.",
 			options: [
 				"has",
 				"have",
@@ -78,11 +78,11 @@ export default function EVSingularPluralVerbsQuiz(): React.JSX.Element {
 				"are having"
 			],
 			correctAnswer: 0,
-			explanation: "Khi danh chủ bắt đầu bằng \"Every\" hoặc \"Each\", hành động luôn chia ở số ít bất kể có bao nhiêu Danh Cơ đi sau."
+			explanation: "Khi danh chủ bắt đầu bằng \"EVERy\" hoặc \"EACH\", hành động luôn chia ở số ít bất kể có bao nhiêu Danh Cơ đi sau."
 		},
 		{
 			id: 6,
-			question: "The pair of scissors _______ on the sewing table.",
+			question: "the PAIR of SCISsors _______ on the SEWing TAble.",
 			options: [
 				"are",
 				"were",
@@ -90,11 +90,11 @@ export default function EVSingularPluralVerbsQuiz(): React.JSX.Element {
 				"been"
 			],
 			correctAnswer: 2,
-			explanation: "Mặc dù \"scissors\" là Danh Cơ luôn ở dạng số nhiều, nhưng khi có cụm \"The pair of\" (Cặp/Cái) đứng trước, ta chia theo \"pair\" (số ít)."
+			explanation: "Mặc dù \"SCISsors\" là Danh Cơ luôn ở dạng số nhiều, nhưng khi có cụm \"the PAIR of\" (Cặp/Cái) đứng trước, ta chia theo \"PAIR\" (số ít)."
 		},
 		{
 			id: 7,
-			question: "Ten dollars _______ too much to pay for this small snack.",
+			question: "TEN DOLlars _______ TOO MUCH to PAY for this SMALL SNACK.",
 			options: [
 				"are",
 				"were",
@@ -106,7 +106,7 @@ export default function EVSingularPluralVerbsQuiz(): React.JSX.Element {
 		},
 		{
 			id: 8,
-			question: "Either my brothers or my father _______ responsible for the repairs.",
+			question: "either my BROTHers or my FAther _______ reSPONsible for the rePAIRS.",
 			options: [
 				"are",
 				"is",
@@ -114,11 +114,11 @@ export default function EVSingularPluralVerbsQuiz(): React.JSX.Element {
 				"have been"
 			],
 			correctAnswer: 1,
-			explanation: "Với cấu trúc \"Either... or...\", hành động chia theo danh chủ gần nó nhất là \"my father\" (số ít)."
+			explanation: "Với cấu trúc \"either... or...\", hành động chia theo danh chủ gần nó nhất là \"my FAther\" (số ít)."
 		},
 		{
 			id: 9,
-			question: "The team _______ arguing among themselves about the strategy.",
+			question: "the TEAM _______ ARguing among themSELVES about the STRATegy.",
 			options: [
 				"is",
 				"are",
@@ -126,11 +126,11 @@ export default function EVSingularPluralVerbsQuiz(): React.JSX.Element {
 				"was"
 			],
 			correctAnswer: 1,
-			explanation: "Danh cơ tập hợp (team, family, staff) dùng hành động số nhiều khi muốn nhấn mạnh vào hành động riêng rẽ của từng thành viên trong nhóm (ở đây là đang tranh cãi lẫn nhau)."
+			explanation: "Danh cơ tập hợp (TEAM, FAMILy, STAFF) dùng hành động số nhiều khi muốn nhấn mạnh vào hành động riêng rẽ của từng thành viên trong nhóm (ở đây là đang tranh cãi lẫn nhau)."
 		},
 		{
 			id: 10,
-			question: "Bread and butter _______ our daily breakfast.",
+			question: "BREAD and BUTter _______ our DAIly BREAKfast.",
 			options: [
 				"is",
 				"are",

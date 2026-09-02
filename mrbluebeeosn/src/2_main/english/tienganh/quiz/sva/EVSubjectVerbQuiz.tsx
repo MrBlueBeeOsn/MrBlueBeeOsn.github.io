@@ -34,7 +34,7 @@ export default function EVSubjectVerbQuiz(): React.JSX.Element {
 		},
 		{
 			id: 2,
-			question: "NEIther the MANager nor the emPLOYees _______ aWARE of the NEW POLicy.",
+			question: "neither the MANager nor the emPLOYees _______ aWARE of the NEW POLicy.",
 			options: [
 				"was",
 				"were",
@@ -42,7 +42,7 @@ export default function EVSubjectVerbQuiz(): React.JSX.Element {
 				"has been"
 			],
 			correctAnswer: 1,
-			explanation: "Với cấu trúc \"NEIther... nor...\" (Không... cũng không...), hành động phải chia theo danh chủ gần nó nhất (ở đây là \"emPLOYees\" - Danh Cơ số nhiều)."
+			explanation: "Với cấu trúc \"neither... nor...\" (Không... cũng không...), hành động phải chia theo danh chủ gần nó nhất (ở đây là \"emPLOYees\" - Danh Cơ số nhiều)."
 		},
 		{
 			id: 3,
@@ -82,7 +82,7 @@ export default function EVSubjectVerbQuiz(): React.JSX.Element {
 		},
 		{
 			id: 6,
-			question: "EIther my SISter or my PARents _______ COMing to the graduAtion CERemony.",
+			question: "either my SISter or my PARents _______ COMing to the graduAtion CERemony.",
 			options: [
 				"is",
 				"are",
@@ -90,7 +90,7 @@ export default function EVSubjectVerbQuiz(): React.JSX.Element {
 				"has"
 			],
 			correctAnswer: 1,
-			explanation: "Với cấu trúc \"EIther... or...\" (Hoặc... hoặc...), hành động chia theo danh chủ đứng gần nó nhất là \"PARents\" (số nhiều)."
+			explanation: "Với cấu trúc \"either... or...\" (Hoặc... hoặc...), hành động chia theo danh chủ đứng gần nó nhất là \"PARents\" (số nhiều)."
 		},
 		{
 			id: 7,

@@ -22,79 +22,79 @@ export default function TracNghiemNguPhapTiengAnh(): React.JSX.Element {
 	const questions: Question[] = [
 		{
 			id: 1,
-			question: "I'm tired because I _________ all morning.",
+			question: "i'm TIred because I _________ all MORNing.",
 			options: [
-				"work",
-				"worked",
-				"have been working",
-				"am working"
+				"WORK",
+				"WORKED",
+				"have been WORKing",
+				"am WORKing"
 			],
 			correctAnswer: 2,
-			explanation: "Đây là 🏃‍♂️ Khoảng Thời Gian Hành Động ở Hiện Tại Hoàn Thành Tiếp Diễn (Present Perfect Continuous), dùng để diễn tả một hành động bắt đầu trong quá khứ, kéo dài liên tục đến hiện tại và có kết quả rõ rệt (I'm tired) ở hiện tại. Cấu trúc là: S + have/has + been + V-ing."
+			explanation: "Đây là 🏃‍♂️ Khoảng Thời Gian Hành Động ở Hiện Tại Hoàn Thành Tiếp Diễn (PRESent PERfect conTINuous), dùng để diễn tả một hành động bắt đầu trong quá khứ, kéo dài liên tục đến hiện tại và có kết quả rõ rệt (i'm TIred) ở hiện tại. Cấu trúc là: s + have/has + been + V-ing."
 		},
 		{
 			id: 2,
-			question: "That man _________ be the new CEO; he looks too young.",
+			question: "that MAN _________ be the NEW CEO; he LOOKS too YOUNG.",
 			options: [
 				"must",
 				"can",
-				"can't",
+				"CAN'T",
 				"should"
 			],
 			correctAnswer: 2,
-			explanation: "Ta dùng hành động khuyết thiếu can't (không thể nào) để diễn tả sự suy luận mang tính phủ định mạnh mẽ, gần như chắc chắn rằng điều gì đó không đúng hoặc không thể xảy ra dựa trên bằng chứng hiện tại (vì anh ta trông quá trẻ)."
+			explanation: "Ta dùng hành động khuyết thiếu CAN'T (không thể nào) để diễn tả sự suy luận mang tính phủ định mạnh mẽ, gần như chắc chắn rằng điều gì đó không đúng hoặc không thể xảy ra dựa trên bằng chứng hiện tại (vì anh ta trông quá trẻ)."
 		},
 		{
 			id: 3,
-			question: "If you had studied harder, you _________ the exam.",
+			question: "if you had STUDied HARDer, you _________ the exAM.",
 			options: [
-				"would pass",
-				"would have passed",
-				"passed",
-				"will pass"
+				"would PASS",
+				"would have PASSED",
+				"PASSED",
+				"will PASS"
 			],
 			correctAnswer: 1,
-			explanation: "Đây là câu điều kiện loại 3 (Third Conditional), dùng để diễn tả một điều kiện không có thật trong quá khứ. Cấu trúc là: If + S + had + V3/ed, câu con chính dùng S + would/could/might + have + V3/ed."
+			explanation: "Đây là câu điều kiện loại 3 (THIRD conDITional), dùng để diễn tả một điều kiện không có thật trong quá khứ. Cấu trúc là: if + s + had + V3/ed, câu con chính dùng s + would/could/might + have + V3/ed."
 		},
 		{
 			id: 4,
-			question: "She denied _________ the secret to anyone.",
+			question: "she deNIED _________ the SEcret to ANyone.",
 			options: [
-				"to tell",
-				"telling",
-				"having told",
-				"told"
+				"to TELL",
+				"TELLing",
+				"having TOLD",
+				"TOLD"
 			],
 			correctAnswer: 2,
-			explanation: "Động cơ deny (phủ nhận) luôn theo sau bởi một Gerund (V-ing). Trong trường hợp này, dùng Gerund hoàn thành (having told) để nhấn mạnh rằng hành động kể bí mật xảy ra trước hành động phủ nhận."
+			explanation: "Động cơ deny (phủ nhận) luôn theo sau bởi một Gerund (V-ing). Trong trường hợp này, dùng Gerund hoàn thành (having TOLD) để nhấn mạnh rằng hành động kể bí mật xảy ra trước hành động phủ nhận."
 		},
 		{
 			id: 5,
-			question: "He said he would call me _________.",
+			question: "he SAID he would CALL me _________.",
 			options: [
-				"tomorrow",
-				"next day",
-				"the next day",
-				"the day before"
+				"toMORrow",
+				"NEXT DAY",
+				"the NEXT DAY",
+				"the DAY beFORE"
 			],
 			correctAnswer: 2,
-			explanation: "Khi chuyển từ câu trực tiếp sang câu gián tiếp (Reported Speech), Trạng Cơ chỉ thời gian tomorrow (ngày mai) phải được đổi thành the next day hoặc the following day."
+			explanation: "Khi chuyển từ câu trực tiếp sang câu gián tiếp (rePORTed SPEECH), Trạng Cơ chỉ thời gian toMORrow (ngày mai) phải được đổi thành the NEXT DAY hoặc the FOLlowing DAY."
 		},
 		{
 			id: 6,
-			question: "English _________ by more than a billion people worldwide.",
+			question: "ENGlish _________ by MORE than a BILlion PEOple worldWIDE.",
 			options: [
-				"is speaking",
-				"speaks",
-				"is spoken",
-				"spoke"
+				"is SPEAKing",
+				"SPEAKS",
+				"is SPOken",
+				"SPOKE"
 			],
 			correctAnswer: 2,
-			explanation: "Đây là câu Bị động (Passive Voice) ở ⏳ Thời Gian Hành Động ở Hiện Tại Đơn (Present Simple). English là danh chủ chịu tác động, và việc nói tiếng Anh là một sự thật hoặc hành động thường xuyên. Cấu trúc bị động ⏳ Thời Gian Hành Động ở Hiện Tại Đơn là: S + am/is/are + V3/ed."
+			explanation: "Đây là câu Bị động (PASSive VOICE) ở ⏳ Thời Gian Hành Động ở Hiện Tại Đơn (PRESent SIMple). English là danh chủ chịu tác động, và việc nói tiếng Anh là một sự thật hoặc hành động thường xuyên. Cấu trúc bị động ⏳ Thời Gian Hành Động ở Hiện Tại Đơn là: S + am/is/are + V3/ed."
 		},
 		{
 			id: 7,
-			question: "The student _________ handwriting is neat won the competition.",
+			question: "the STUdent _________ HANDwriting is NEAT WON the compeTITion.",
 			options: [
 				"who",
 				"whom",
@@ -102,11 +102,11 @@ export default function TracNghiemNguPhapTiengAnh(): React.JSX.Element {
 				"whose"
 			],
 			correctAnswer: 3,
-			explanation: "Ta dùng đại cơ quan hệ whose (của người mà/của cái mà) để chỉ mối quan hệ sở hữu. Cụm từ whose handwriting có nghĩa là \"chữ viết của học sinh đó\"."
+			explanation: "Ta dùng đại cơ quan hệ whose (của người mà/của cái mà) để chỉ mối quan hệ sở hữu. Cụm từ whose HANDwriting có nghĩa là \"chữ viết của học sinh đó\"."
 		},
 		{
 			id: 8,
-			question: "The meeting is scheduled to start _________ 2:30 P.M.",
+			question: "the MEETing is SCHEDuled to START _________ TWO THIRty P.M..",
 			options: [
 				"in",
 				"on",
@@ -118,27 +118,27 @@ export default function TracNghiemNguPhapTiengAnh(): React.JSX.Element {
 		},
 		{
 			id: 9,
-			question: "_________ you practice, _________ you will get.",
+			question: "_________ you PRACtice, _________ you will GET.",
 			options: [
-				"The hard/the good",
-				"Harder/better",
-				"The harder/the better",
-				"Hard/good"
+				"the HARD/the GOOD",
+				"HARDer/BETter",
+				"the HARDer/the BETter",
+				"HARD/GOOD"
 			],
 			correctAnswer: 2,
-			explanation: "Đây là cấu trúc So sánh kép (Double Comparative) diễn tả hai hành động thay đổi đồng thời (càng... càng...). Cấu trúc là: The + so sánh hơn + S + V, The + so sánh hơn + S + V."
+			explanation: "Đây là cấu trúc So sánh kép (DOUBle comPARative) diễn tả hai hành động thay đổi đồng thời (càng... càng...). Cấu trúc là: the + so sánh hơn + S + V, the + so sánh hơn + S + V."
 		},
 		{
 			id: 10,
-			question: "The movie was so _________ that I fell asleep.",
+			question: "the MOvie was SO _________ that I FELL aSLEEP.",
 			options: [
-				"boring",
-				"bored",
-				"bore",
-				"bores"
+				"BORing",
+				"BORED",
+				"BORE",
+				"BORES"
 			],
 			correctAnswer: 0,
-			explanation: "Ta dùng Tính Cơ tận cùng bằng -ing (boring) để mô tả bản chất của sự vật, sự việc (bộ phim mang tính chất buồn chán). Tính Cơ tận cùng bằng -ed (bored) dùng để mô tả cảm xúc của con người hoặc sinh vật."
+			explanation: "Ta dùng Tính Cơ tận cùng bằng -ing (BORing) để mô tả bản chất của sự vật, sự việc (bộ phim mang tính chất buồn chán). Tính Cơ tận cùng bằng -ed (BORED) dùng để mô tả cảm xúc của con người hoặc sinh vật."
 		}
 	];
 
