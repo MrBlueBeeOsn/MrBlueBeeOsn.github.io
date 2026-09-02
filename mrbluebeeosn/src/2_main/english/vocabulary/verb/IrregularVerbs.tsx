@@ -41,7 +41,7 @@ export default function IrregularVerbs(): React.JSX.Element {
 			
 					<li>they <strong>have been</strong> WORKing on the WEB deVELopment PROJect for HOURS.</li>
 					<li className="list-none">Họ <strong>đã và đang</strong> làm việc trong dự án phát triển WEB suốt nhiều giờ <strong>rồi</strong>.</li>
-					<li className="list-none">Cấu trúc này dùng dạng hoàn thành với have been kết hợp với thể tiếp diễn, chỉ hành động bắt đầu trong quá khứ và vẫn tiếp tục kéo dài đến hiện tại.</li>
+					<li className="list-none">Cấu trúc này dùng 📏 Khoảng Thời Gian Hành Động ở Hiện Tại Hoàn Thành với have been kết hợp với thể tiếp diễn, chỉ hành động bắt đầu trong quá khứ và vẫn tiếp tục kéo dài đến hiện tại.</li>
 			
 				</ul>
 			
@@ -60,7 +60,7 @@ export default function IrregularVerbs(): React.JSX.Element {
 			
 					<li>they <strong>have had</strong> SEVeral disCUSsions about the NEW WEB PROJect.</li>
 					<li className="list-none">Họ <strong>đã có</strong> vài cuộc thảo luận về dự án web mới <strong>rồi</strong>.</li>
-					<li className="list-none">Cấu trúc này dùng dạng hoàn thành với have had (trong đó have là trợ động, còn had là động chính ở dạng phân từ hai), nói về sự việc đã diễn ra và vẫn có liên quan hoặc để lại kết quả ở hiện tại.</li>
+					<li className="list-none">Cấu trúc này dùng 📏 Khoảng Thời Gian Hành Động ở Hiện Tại Hoàn Thành với have had (trong đó have là trợ động, còn had là động chính ở dạng phân từ hai), nói về sự việc đã diễn ra và vẫn có liên quan hoặc để lại kết quả ở hiện tại.</li>
 			
 				</ul>
 
@@ -79,7 +79,7 @@ export default function IrregularVerbs(): React.JSX.Element {
 			
 					<li>they <strong>have DONE</strong> a GREAT JOB UPdating the fiNANcial SOFTware.</li>
 					<li className="list-none">Họ <strong>đã làm</strong> một công việc tuyệt vời trong việc cập nhật phần mềm tài chính <strong>rồi</strong>.</li>
-					<li className="list-none">Cấu trúc này dùng dạng hoàn thành với have DONE, nói về sự việc đã hoàn tất và liên quan đến hiện tại.</li>
+					<li className="list-none">Cấu trúc này dùng 📏 Khoảng Thời Gian Hành Động ở Hiện Tại Hoàn Thành với have DONE, nói về sự việc đã hoàn tất và liên quan đến hiện tại.</li>
 			
 				</ul>
 			
@@ -98,7 +98,7 @@ export default function IrregularVerbs(): React.JSX.Element {
 			
 					<li>they <strong>have GONE</strong> to the OFfice to FInalize the QUARterly fiNANcial STATEments.</li>
 					<li className="list-none">Họ <strong>đã đi</strong> đến văn phòng để hoàn thiện các báo cáo tài chính quý <strong>rồi</strong>.</li>
-					<li className="list-none">Cấu trúc này dùng dạng hoàn thành với have GONE, nói về sự việc đã hoàn tất và liên quan đến hiện tại.</li>
+					<li className="list-none">Cấu trúc này dùng 📏 Khoảng Thời Gian Hành Động ở Hiện Tại Hoàn Thành với have GONE, nói về sự việc đã hoàn tất và liên quan đến hiện tại.</li>
 			
 				</ul>
 			
@@ -117,7 +117,7 @@ export default function IrregularVerbs(): React.JSX.Element {
 			
 					<li>they <strong>have COME UP</strong> with a NEW STRATegy for the WEB PROJect.</li>
 					<li className="list-none">Họ <strong>đã đưa ra</strong> một chiến lược mới cho dự án web <strong>rồi</strong>.</li>
-					<li className="list-none">Cấu trúc này dùng dạng hoàn thành với have COME, nói về sự việc đã hoàn tất và liên quan đến hiện tại.</li>
+					<li className="list-none">Cấu trúc này dùng 📏 Khoảng Thời Gian Hành Động ở Hiện Tại Hoàn Thành với have COME, nói về sự việc đã hoàn tất và liên quan đến hiện tại.</li>
 			
 				</ul>
 			
@@ -136,7 +136,7 @@ export default function IrregularVerbs(): React.JSX.Element {
 			
 					<li>they <strong>have SEEN</strong> sigNIFicant imPROVEments in the acCOUNTing SOFTware.</li>
 					<li className="list-none">Họ <strong>đã thấy</strong> những cải tiến đáng kể trong phần mềm kế toán <strong>rồi</strong>.</li>
-					<li className="list-none">Cấu trúc này dùng dạng hoàn thành với have SEEN, nói về sự việc đã hoàn tất và liên quan đến hiện tại.</li>
+					<li className="list-none">Cấu trúc này dùng 📏 Khoảng Thời Gian Hành Động ở Hiện Tại Hoàn Thành với have SEEN, nói về sự việc đã hoàn tất và liên quan đến hiện tại.</li>
 			
 				</ul>
 
@@ -155,7 +155,7 @@ export default function IrregularVerbs(): React.JSX.Element {
 			
 					<li>they <strong>have GOTten</strong> all the fiNANcial rePORTs READy for the MEETing.</li>
 					<li className="list-none">Họ <strong>đã chuẩn bị xong</strong> tất cả các báo cáo tài chính cho cuộc họp <strong>rồi</strong>.</li>
-					<li className="list-none">Cấu trúc này dùng dạng hoàn thành với have GOTten, nói về sự việc đã hoàn tất và liên quan đến hiện tại.</li>
+					<li className="list-none">Cấu trúc này dùng 📏 Khoảng Thời Gian Hành Động ở Hiện Tại Hoàn Thành với have GOTten, nói về sự việc đã hoàn tất và liên quan đến hiện tại.</li>
 			
 				</ul>
 
@@ -174,7 +174,7 @@ export default function IrregularVerbs(): React.JSX.Element {
 			
 					<li>they <strong>have MADE</strong> sigNIFicant UPdates to the WEB deVELopment PROJect.</li>
 					<li className="list-none">Họ <strong>đã thực hiện</strong> những cập nhật quan trọng cho dự án phát triển web <strong>rồi</strong>.</li>
-					<li className="list-none">Cấu trúc này dùng dạng hoàn thành với have MADE, nói về sự việc đã hoàn tất và liên quan đến hiện tại.</li>
+					<li className="list-none">Cấu trúc này dùng 📏 Khoảng Thời Gian Hành Động ở Hiện Tại Hoàn Thành với have MADE, nói về sự việc đã hoàn tất và liên quan đến hiện tại.</li>
 			
 				</ul>
 
@@ -193,7 +193,7 @@ export default function IrregularVerbs(): React.JSX.Element {
 			
 					<li>they <strong>have KNOWN</strong> about the NEW acCOUNTing reguLAtions for WEEKS.</li>
 					<li className="list-none">Họ <strong>đã biết</strong> về các quy định kế toán mới trong nhiều tuần <strong>rồi</strong>.</li>
-					<li className="list-none">Cấu trúc này dùng dạng hoàn thành với have KNOWN, nói về sự việc đã hoàn tất và liên quan đến hiện tại.</li>
+					<li className="list-none">Cấu trúc này dùng 📏 Khoảng Thời Gian Hành Động ở Hiện Tại Hoàn Thành với have KNOWN, nói về sự việc đã hoàn tất và liên quan đến hiện tại.</li>
 			
 				</ul>
 
@@ -212,7 +212,7 @@ export default function IrregularVerbs(): React.JSX.Element {
 			
 					<li>they <strong>have TAken</strong> all the fiNANcial RECords for AUditing.</li>
 					<li className="list-none">Họ <strong>đã lấy</strong> tất cả các hồ sơ tài chính để kiểm toán <strong>rồi</strong>.</li>
-					<li className="list-none">Cấu trúc này dùng dạng hoàn thành với have TAken, nói về sự việc đã hoàn tất và liên quan đến hiện tại.</li>
+					<li className="list-none">Cấu trúc này dùng 📏 Khoảng Thời Gian Hành Động ở Hiện Tại Hoàn Thành với have TAken, nói về sự việc đã hoàn tất và liên quan đến hiện tại.</li>
 			
 				</ul>
 			
@@ -232,7 +232,7 @@ export default function IrregularVerbs(): React.JSX.Element {
 			
 					<li>they <strong>have GIVen</strong> all the NECessary DAta to the acCOUNTing dePARTment.</li>
 					<li className="list-none">Họ <strong>đã cung cấp</strong> tất cả dữ liệu cần thiết cho phòng kế toán <strong>rồi</strong>.</li>
-					<li className="list-none">Cấu trúc này dùng dạng hoàn thành với have GIVen, nói về sự việc đã hoàn tất và liên quan đến hiện tại.</li>
+					<li className="list-none">Cấu trúc này dùng 📏 Khoảng Thời Gian Hành Động ở Hiện Tại Hoàn Thành với have GIVen, nói về sự việc đã hoàn tất và liên quan đến hiện tại.</li>
 			
 				</ul>
 			
@@ -251,7 +251,7 @@ export default function IrregularVerbs(): React.JSX.Element {
 			
 					<li>they <strong>have WRITten</strong> a compreHENsive fiNANcial rePORT for the COMpany.</li>
 					<li className="list-none">Họ <strong>đã viết</strong> một báo cáo tài chính toàn diện cho công ty <strong>rồi</strong>.</li>
-					<li className="list-none">Cấu trúc này dùng dạng hoàn thành với have WRITten, nói về sự việc đã hoàn tất và liên quan đến hiện tại.</li>
+					<li className="list-none">Cấu trúc này dùng 📏 Khoảng Thời Gian Hành Động ở Hiện Tại Hoàn Thành với have WRITten, nói về sự việc đã hoàn tất và liên quan đến hiện tại.</li>
 			
 				</ul>
 
@@ -270,7 +270,7 @@ export default function IrregularVerbs(): React.JSX.Element {
 			
 					<li>they <strong>have SPOken</strong> about the NEW acCOUNTing STRATegies <strong>alREADy</strong>.</li>
 					<li className="list-none">Họ <strong>đã bàn bạc</strong> về các chiến lược kế toán mới <strong>rồi</strong>.</li>
-					<li className="list-none">Cấu trúc này dùng dạng hoàn thành với have SPOken, nói về sự việc đã hoàn tất và liên quan đến hiện tại.</li>
+					<li className="list-none">Cấu trúc này dùng 📏 Khoảng Thời Gian Hành Động ở Hiện Tại Hoàn Thành với have SPOken, nói về sự việc đã hoàn tất và liên quan đến hiện tại.</li>
 			
 				</ul>
 			
@@ -289,7 +289,7 @@ export default function IrregularVerbs(): React.JSX.Element {
 			
 					<li>they <strong>have FOUND</strong> a soLUtion to the acCOUNTing disCREPancy.</li>
 					<li className="list-none">Họ <strong>đã tìm ra</strong> giải pháp cho khoản chênh lệch kế toán <strong>rồi</strong>.</li>
-					<li className="list-none">Cấu trúc này dùng dạng hoàn thành với have FOUND, nói về sự việc đã hoàn tất và liên quan đến hiện tại.</li>
+					<li className="list-none">Cấu trúc này dùng 📏 Khoảng Thời Gian Hành Động ở Hiện Tại Hoàn Thành với have FOUND, nói về sự việc đã hoàn tất và liên quan đến hiện tại.</li>
 			
 				</ul>
 			
@@ -308,7 +308,7 @@ export default function IrregularVerbs(): React.JSX.Element {
 			
 					<li>they <strong>have THOUGHT CAREfully</strong> about the NEW fiNANcial PLAN.</li>
 					<li className="list-none">Họ <strong>đã suy nghĩkỹ lưỡng</strong>  về kế hoạch tài chính mới <strong>rồi</strong>.</li>
-					<li className="list-none">Cấu trúc này dùng dạng hoàn thành với have THOUGHT, nói về sự việc đã hoàn tất và liên quan đến hiện tại.</li>
+					<li className="list-none">Cấu trúc này dùng 📏 Khoảng Thời Gian Hành Động ở Hiện Tại Hoàn Thành với have THOUGHT, nói về sự việc đã hoàn tất và liên quan đến hiện tại.</li>
 			
 				</ul>
 			
@@ -327,7 +327,7 @@ export default function IrregularVerbs(): React.JSX.Element {
 			
 					<li>they <strong>have TOLD</strong> us all the DEtails about the acCOUNTing rePORT.</li>
 					<li className="list-none">Họ <strong>đã nói</strong> cho chúng tôi biết tất cả các chi tiết về báo cáo kế toán <strong>rồi</strong>.</li>
-					<li className="list-none">Cấu trúc này dùng dạng hoàn thành với have TOLD, nói về sự việc đã hoàn tất và liên quan đến hiện tại.</li>
+					<li className="list-none">Cấu trúc này dùng 📏 Khoảng Thời Gian Hành Động ở Hiện Tại Hoàn Thành với have TOLD, nói về sự việc đã hoàn tất và liên quan đến hiện tại.</li>
 			
 				</ul>
 
@@ -346,7 +346,7 @@ export default function IrregularVerbs(): React.JSX.Element {
 			
 					<li>they <strong>have SAID</strong> that the NEW PROJect PLAN is READy.</li>
 					<li className="list-none">Họ <strong>đã nói</strong> rằng kế hoạch dự án mới đã sẵn sàng <strong>rồi</strong>.</li>
-					<li className="list-none">Cấu trúc này dùng dạng hoàn thành với have SAID, nói về sự việc đã hoàn tất và liên quan đến hiện tại.</li>
+					<li className="list-none">Cấu trúc này dùng 📏 Khoảng Thời Gian Hành Động ở Hiện Tại Hoàn Thành với have SAID, nói về sự việc đã hoàn tất và liên quan đến hiện tại.</li>
 			
 				</ul>
 
@@ -365,7 +365,7 @@ export default function IrregularVerbs(): React.JSX.Element {
 			
 					<li>they <strong>have beCOME</strong> KEY MEMbers of the acCOUNTing TEAM.</li>
 					<li className="list-none">Họ <strong>đã trở thành</strong> những thành viên chủ chốt của đội ngũ kế toán <strong>rồi</strong>.</li>
-					<li className="list-none">Cấu trúc này dùng dạng hoàn thành với have beCOME, nói về sự việc đã hoàn tất và liên quan đến hiện tại.</li>
+					<li className="list-none">Cấu trúc này dùng 📏 Khoảng Thời Gian Hành Động ở Hiện Tại Hoàn Thành với have beCOME, nói về sự việc đã hoàn tất và liên quan đến hiện tại.</li>
 			
 				</ul>
 
@@ -384,7 +384,7 @@ export default function IrregularVerbs(): React.JSX.Element {
 			
 					<li>they <strong>have LEFT</strong> for the MEETing ROOM <strong>alREADy</strong>.</li>
 					<li className="list-none">Họ <strong>đã rời đi</strong> đến phòng họp <strong>rồi</strong>.</li>
-					<li className="list-none">Cấu trúc này dùng dạng hoàn thành với have LEFT, nói về sự việc đã hoàn tất và liên quan đến hiện tại.</li>
+					<li className="list-none">Cấu trúc này dùng 📏 Khoảng Thời Gian Hành Động ở Hiện Tại Hoàn Thành với have LEFT, nói về sự việc đã hoàn tất và liên quan đến hiện tại.</li>
 			
 				</ul>
 
@@ -403,7 +403,7 @@ export default function IrregularVerbs(): React.JSX.Element {
 			
 					<li>they <strong>have FELT</strong> VERy MOtivated <strong>since the PROJect STARTed</strong>.</li>
 					<li className="list-none">Họ <strong>đã cảm thấy</strong> rất có động lực <strong>kể từ khi dự án bắt đầu</strong>.</li>
-					<li className="list-none">Cấu trúc này dùng dạng hoàn thành với have FELT, nói về sự việc đã hoàn tất và liên quan đến hiện tại.</li>
+					<li className="list-none">Cấu trúc này dùng 📏 Khoảng Thời Gian Hành Động ở Hiện Tại Hoàn Thành với have FELT, nói về sự việc đã hoàn tất và liên quan đến hiện tại.</li>
 			
 				</ul>
 			
@@ -423,7 +423,7 @@ export default function IrregularVerbs(): React.JSX.Element {
 			
 					<li>they <strong>have PUT</strong> a LOT of EFfort into the NEW PROJect.</li>
 					<li className="list-none">Họ <strong>đã bỏ</strong> rất nhiều nỗ lực vào dự án mới <strong>rồi</strong>.</li>
-					<li className="list-none">Cấu trúc này dùng dạng hoàn thành với have PUT, nói về sự việc đã hoàn tất và liên quan đến hiện tại.</li>
+					<li className="list-none">Cấu trúc này dùng 📏 Khoảng Thời Gian Hành Động ở Hiện Tại Hoàn Thành với have PUT, nói về sự việc đã hoàn tất và liên quan đến hiện tại.</li>
 			
 				</ul>
 			
@@ -442,7 +442,7 @@ export default function IrregularVerbs(): React.JSX.Element {
 			
 					<li>they <strong>have BROUGHT</strong> all the NECessary DOCuments for the MEETing.</li>
 					<li className="list-none">Họ <strong>đã mang</strong> tất cả các tài liệu cần thiết cho cuộc họp <strong>rồi</strong>.</li>
-					<li className="list-none">Cấu trúc này dùng dạng hoàn thành với have BROUGHT, nói về sự việc đã hoàn tất và liên quan đến hiện tại.</li>
+					<li className="list-none">Cấu trúc này dùng 📏 Khoảng Thời Gian Hành Động ở Hiện Tại Hoàn Thành với have BROUGHT, nói về sự việc đã hoàn tất và liên quan đến hiện tại.</li>
 			
 				</ul>
 
@@ -461,7 +461,7 @@ export default function IrregularVerbs(): React.JSX.Element {
 			
 					<li>they <strong>have beGUN</strong> WORKing on the NEW acCOUNTing rePORT.</li>
 					<li className="list-none">Họ <strong>đã bắt đầu</strong> làm việc với báo cáo kế toán mới <strong>rồi</strong>.</li>
-					<li className="list-none">Cấu trúc này dùng dạng hoàn thành với have beGUN, nói về sự việc đã hoàn tất và liên quan đến hiện tại.</li>
+					<li className="list-none">Cấu trúc này dùng 📏 Khoảng Thời Gian Hành Động ở Hiện Tại Hoàn Thành với have beGUN, nói về sự việc đã hoàn tất và liên quan đến hiện tại.</li>
 			
 				</ul>
 			
@@ -480,7 +480,7 @@ export default function IrregularVerbs(): React.JSX.Element {
 			
 					<li>they <strong>have KEPT</strong> their PROMise to FINish the PROJect on TIME.</li>
 					<li className="list-none">Họ <strong>đã giữ</strong> lời hứa hoàn thành dự án đúng hạn <strong>rồi</strong>.</li>
-					<li className="list-none">Cấu trúc này dùng dạng hoàn thành với have KEPT, nói về sự việc đã hoàn tất và liên quan đến hiện tại.</li>
+					<li className="list-none">Cấu trúc này dùng 📏 Khoảng Thời Gian Hành Động ở Hiện Tại Hoàn Thành với have KEPT, nói về sự việc đã hoàn tất và liên quan đến hiện tại.</li>
 			
 				</ul>
 			
@@ -499,7 +499,7 @@ export default function IrregularVerbs(): React.JSX.Element {
 			
 					<li>they <strong>have LET</strong> us USE their OFfice SPACE for the MEEting.</li>
 					<li className="list-none">Họ <strong>đã cho</strong> chúng tôi sử dụng không gian văn phòng của họ cho cuộc họp <strong>rồi</strong>.</li>
-					<li className="list-none">Cấu trúc này dùng dạng hoàn thành với have LET, nói về sự việc đã hoàn tất và liên quan đến hiện tại.</li>
+					<li className="list-none">Cấu trúc này dùng 📏 Khoảng Thời Gian Hành Động ở Hiện Tại Hoàn Thành với have LET, nói về sự việc đã hoàn tất và liên quan đến hiện tại.</li>
 			
 				</ul>
 			
@@ -518,7 +518,7 @@ export default function IrregularVerbs(): React.JSX.Element {
 			
 					<li>they <strong>have SET</strong> ALL the RULES for the NEW PROJect.</li>
 					<li className="list-none">Họ <strong>đã thiết lập</strong> tất cả các quy tắc cho dự án mới <strong>rồi</strong>.</li>
-					<li className="list-none">Cấu trúc này dùng dạng hoàn thành với have SET, nói về sự việc đã hoàn tất và liên quan đến hiện tại.</li>
+					<li className="list-none">Cấu trúc này dùng 📏 Khoảng Thời Gian Hành Động ở Hiện Tại Hoàn Thành với have SET, nói về sự việc đã hoàn tất và liên quan đến hiện tại.</li>
 			
 				</ul>
 
@@ -537,7 +537,7 @@ export default function IrregularVerbs(): React.JSX.Element {
 			
 					<li>they <strong>have READ</strong> the NEW PROJect GUIDElines THORoughly.</li>
 					<li className="list-none">Họ <strong>đã đọc</strong> kỹ các hướng dẫn dự án mới <strong>rồi</strong>.</li>
-					<li className="list-none">Cấu trúc này dùng dạng hoàn thành với have READ (phát âm là /red/), nói về sự việc đã hoàn tất và liên quan đến hiện tại.</li>
+					<li className="list-none">Cấu trúc này dùng 📏 Khoảng Thời Gian Hành Động ở Hiện Tại Hoàn Thành với have READ (phát âm là /red/), nói về sự việc đã hoàn tất và liên quan đến hiện tại.</li>
 			
 				</ul>
 
@@ -556,7 +556,7 @@ export default function IrregularVerbs(): React.JSX.Element {
 			
 					<li>they <strong>have BOUGHT</strong> ALL the NECessary inGREdients.</li>
 					<li className="list-none">Họ <strong>đã mua</strong> tất cả các nguyên liệu cần thiết <strong>rồi</strong>.</li>
-					<li className="list-none">Cấu trúc này dùng dạng hoàn thành với have BOUGHT, nói về sự việc đã hoàn tất và liên quan đến hiện tại.</li>
+					<li className="list-none">Cấu trúc này dùng 📏 Khoảng Thời Gian Hành Động ở Hiện Tại Hoàn Thành với have BOUGHT, nói về sự việc đã hoàn tất và liên quan đến hiện tại.</li>
 			
 				</ul>
 
@@ -575,7 +575,7 @@ export default function IrregularVerbs(): React.JSX.Element {
 			
 					<li>they <strong>have SAT</strong> in the MEETing ROOM <strong>for over an HOUR</strong>.</li>
 					<li className="list-none">Họ <strong>đã ngồi</strong> trong phòng họp <strong>hơn một tiếng đồng hồ</strong> <strong>rồi</strong>.</li>
-					<li className="list-none">Cấu trúc này dùng dạng hoàn thành với have SAT, nói về sự việc đã hoàn tất và liên quan đến hiện tại.</li>
+					<li className="list-none">Cấu trúc này dùng 📏 Khoảng Thời Gian Hành Động ở Hiện Tại Hoàn Thành với have SAT, nói về sự việc đã hoàn tất và liên quan đến hiện tại.</li>
 			
 				</ul>
 
@@ -594,7 +594,7 @@ export default function IrregularVerbs(): React.JSX.Element {
 			
 					<li>they <strong>have STOOD</strong> FIRM against ALL the DIFficulties.</li>
 					<li className="list-none">Họ <strong>đã đứng</strong> vững vàng trước mọi khó khăn.</li>
-					<li className="list-none">Cấu trúc này dùng dạng hoàn thành với have STOOD, nói về sự việc đã hoàn tất và liên quan đến hiện tại.</li>
+					<li className="list-none">Cấu trúc này dùng 📏 Khoảng Thời Gian Hành Động ở Hiện Tại Hoàn Thành với have STOOD, nói về sự việc đã hoàn tất và liên quan đến hiện tại.</li>
 			
 				</ul>
 			
@@ -614,7 +614,7 @@ export default function IrregularVerbs(): React.JSX.Element {
 			
 					<li>they <strong>have LOST</strong> their WAY in the unfaMILiar NEIGHborhood.</li>
 					<li className="list-none">Họ <strong>đã lạc đường</strong> ở khu phố lạ lẫm đó.</li>
-					<li className="list-none">Cấu trúc này dùng dạng hoàn thành với have LOST, nói về sự việc đã hoàn tất và liên quan đến hiện tại.</li>
+					<li className="list-none">Cấu trúc này dùng 📏 Khoảng Thời Gian Hành Động ở Hiện Tại Hoàn Thành với have LOST, nói về sự việc đã hoàn tất và liên quan đến hiện tại.</li>
 			
 				</ul>
 			
@@ -633,7 +633,7 @@ export default function IrregularVerbs(): React.JSX.Element {
 			
 					<li>they <strong>have PAID</strong> for the SERvice in adVANCE.</li>
 					<li className="list-none">Họ <strong>đã thanh toán</strong> trước cho dịch vụ này <strong>rồi</strong>.</li>
-					<li className="list-none">Cấu trúc này dùng dạng hoàn thành với have PAID, nói về sự việc đã hoàn tất và liên quan đến hiện tại.</li>
+					<li className="list-none">Cấu trúc này dùng 📏 Khoảng Thời Gian Hành Động ở Hiện Tại Hoàn Thành với have PAID, nói về sự việc đã hoàn tất và liên quan đến hiện tại.</li>
 			
 				</ul>
 
@@ -652,7 +652,7 @@ export default function IrregularVerbs(): React.JSX.Element {
 			
 					<li>they <strong>have MET beFORE</strong> at the CONference.</li>
 					<li className="list-none">Họ <strong>đã gặp nhau trước</strong> đây ở hội nghị.</li>
-					<li className="list-none">Cấu trúc này dùng dạng hoàn thành với have MET, nói về sự việc đã hoàn tất và liên quan đến hiện tại.</li>
+					<li className="list-none">Cấu trúc này dùng 📏 Khoảng Thời Gian Hành Động ở Hiện Tại Hoàn Thành với have MET, nói về sự việc đã hoàn tất và liên quan đến hiện tại.</li>
 			
 				</ul>
 			
@@ -671,7 +671,7 @@ export default function IrregularVerbs(): React.JSX.Element {
 			
 					<li>they <strong>have RUN FIVE kiLOMeters so FAR</strong>.</li>
 					<li className="list-none">Họ <strong>đã chạy được năm ki-lô-mét cho đến nay</strong>.</li>
-					<li className="list-none">Cấu trúc này dùng dạng hoàn thành với have RUN, nói về sự việc đã hoàn tất và liên quan đến hiện tại.</li>
+					<li className="list-none">Cấu trúc này dùng 📏 Khoảng Thời Gian Hành Động ở Hiện Tại Hoàn Thành với have RUN, nói về sự việc đã hoàn tất và liên quan đến hiện tại.</li>
 			
 				</ul>
 			
@@ -690,7 +690,7 @@ export default function IrregularVerbs(): React.JSX.Element {
 			
 					<li>they <strong>have EAten</strong> all the FOOD on the TAble.</li>
 					<li className="list-none">Họ <strong>đã ăn</strong> hết sạch thức ăn trên bàn <strong>rồi</strong>.</li>
-					<li className="list-none">Cấu trúc này dùng dạng hoàn thành với have EAten, nói về sự việc đã hoàn tất và liên quan đến hiện tại.</li>
+					<li className="list-none">Cấu trúc này dùng 📏 Khoảng Thời Gian Hành Động ở Hiện Tại Hoàn Thành với have EAten, nói về sự việc đã hoàn tất và liên quan đến hiện tại.</li>
 			
 				</ul>
 			
@@ -709,7 +709,7 @@ export default function IrregularVerbs(): React.JSX.Element {
 			
 					<li>they <strong>have DRUNK</strong> all the WAter in the BOTtle.</li>
 					<li className="list-none">Họ <strong>đã uống</strong> hết sạch nước trong chai <strong>rồi</strong>.</li>
-					<li className="list-none">Cấu trúc này dùng dạng hoàn thành với have DRUNK, nói về sự việc đã hoàn tất và liên quan đến hiện tại.</li>
+					<li className="list-none">Cấu trúc này dùng 📏 Khoảng Thời Gian Hành Động ở Hiện Tại Hoàn Thành với have DRUNK, nói về sự việc đã hoàn tất và liên quan đến hiện tại.</li>
 			
 				</ul>
 
@@ -728,7 +728,7 @@ export default function IrregularVerbs(): React.JSX.Element {
 			
 					<li>hey <strong>have DRIVen for FIVE HOURS STRAIGHT</strong>.</li>
 					<li className="list-none">Họ <strong>đã lái xe suốt năm tiếng đồng hồ</strong>.</li>
-					<li className="list-none">Cấu trúc này dùng dạng hoàn thành với have DRIVen, nói về sự việc đã hoàn tất và liên quan đến hiện tại.</li>
+					<li className="list-none">Cấu trúc này dùng 📏 Khoảng Thời Gian Hành Động ở Hiện Tại Hoàn Thành với have DRIVen, nói về sự việc đã hoàn tất và liên quan đến hiện tại.</li>
 			
 				</ul>
 
@@ -747,7 +747,7 @@ export default function IrregularVerbs(): React.JSX.Element {
 			
 					<li>they <strong>have BROken</strong> the OLD maCHINE comPLETEly.</li>
 					<li className="list-none">Họ <strong>đã làm hỏng</strong> chiếc máy cũ hoàn toàn.</li>
-					<li className="list-none">Cấu trúc này dùng dạng hoàn thành với have BROken, nói về sự việc đã hoàn tất và liên quan đến hiện tại.</li>
+					<li className="list-none">Cấu trúc này dùng 📏 Khoảng Thời Gian Hành Động ở Hiện Tại Hoàn Thành với have BROken, nói về sự việc đã hoàn tất và liên quan đến hiện tại.</li>
 			
 				</ul>
 
@@ -766,7 +766,7 @@ export default function IrregularVerbs(): React.JSX.Element {
 			
 					<li>they <strong>have CHOsen</strong> the WINning TEAM.</li>
 					<li className="list-none">Họ <strong>đã chọn</strong> ra đội chiến thắng.</li>
-					<li className="list-none">Cấu trúc này dùng dạng hoàn thành với have CHOsen, nói về sự việc đã hoàn tất và liên quan đến hiện tại.</li>
+					<li className="list-none">Cấu trúc này dùng 📏 Khoảng Thời Gian Hành Động ở Hiện Tại Hoàn Thành với have CHOsen, nói về sự việc đã hoàn tất và liên quan đến hiện tại.</li>
 			
 				</ul>
 
@@ -785,7 +785,7 @@ export default function IrregularVerbs(): React.JSX.Element {
 			
 					<li>they <strong>have forGOTten</strong> all about the apPOINTment.</li>
 					<li className="list-none">Họ <strong>đã quên</strong> hết về cuộc hẹn đó <strong>rồi</strong>.</li>
-					<li className="list-none">Cấu trúc này dùng dạng hoàn thành với have forGOTten, nói về sự việc đã hoàn tất và liên quan đến hiện tại.</li>
+					<li className="list-none">Cấu trúc này dùng 📏 Khoảng Thời Gian Hành Động ở Hiện Tại Hoàn Thành với have forGOTten, nói về sự việc đã hoàn tất và liên quan đến hiện tại.</li>
 			
 				</ul>
 			
@@ -805,7 +805,7 @@ export default function IrregularVerbs(): React.JSX.Element {
 			
 					<li>we <strong>have HEARD</strong> about this PLAN <strong>beFORE</strong>.</li>
 					<li className="list-none">Chúng ta <strong>đã nghe</strong> về kế hoạch này <strong>trước đây</strong>.</li>
-					<li className="list-none">Cấu trúc này dùng dạng hoàn thành với have HEARD, nói về sự việc đã hoàn tất và liên quan đến hiện tại.</li>
+					<li className="list-none">Cấu trúc này dùng 📏 Khoảng Thời Gian Hành Động ở Hiện Tại Hoàn Thành với have HEARD, nói về sự việc đã hoàn tất và liên quan đến hiện tại.</li>
 			
 				</ul>
 			
@@ -824,7 +824,7 @@ export default function IrregularVerbs(): React.JSX.Element {
 			
 					<li>they <strong>have HELD</strong> this poSITion <strong>for THREE YEARS</strong>.</li>
 					<li className="list-none">Họ <strong>đã nắm giữ</strong> vị trí này <strong>được ba năm</strong>.</li>
-					<li className="list-none">Cấu trúc này dùng dạng hoàn thành với have HELD, nói về sự việc đã hoàn tất và liên quan đến hiện tại.</li>
+					<li className="list-none">Cấu trúc này dùng 📏 Khoảng Thời Gian Hành Động ở Hiện Tại Hoàn Thành với have HELD, nói về sự việc đã hoàn tất và liên quan đến hiện tại.</li>
 			
 				</ul>
 
@@ -843,7 +843,7 @@ export default function IrregularVerbs(): React.JSX.Element {
 			
 					<li>we <strong>have LEARNT</strong> HOW to SOLVE the PROBlem.</li>
 					<li className="list-none">Chúng ta <strong>đã học</strong> cách giải quyết vấn đề.</li>
-					<li className="list-none">Cấu trúc này dùng dạng hoàn thành với have LEARNT, nói về sự việc đã hoàn tất và liên quan đến hiện tại.</li>
+					<li className="list-none">Cấu trúc này dùng 📏 Khoảng Thời Gian Hành Động ở Hiện Tại Hoàn Thành với have LEARNT, nói về sự việc đã hoàn tất và liên quan đến hiện tại.</li>
 			
 				</ul>
 			
@@ -862,7 +862,7 @@ export default function IrregularVerbs(): React.JSX.Element {
 			
 					<li>they <strong>have SENT</strong> the PACKage sucCESSfully.</li>
 					<li className="list-none">Họ <strong>đã gửi</strong> bưu phẩm thành công.</li>
-					<li className="list-none">Cấu trúc này dùng dạng hoàn thành với has SENT / have SENT, nói về sự việc đã hoàn tất và liên quan đến hiện tại.</li>
+					<li className="list-none">Cấu trúc này dùng 📏 Khoảng Thời Gian Hành Động ở Hiện Tại Hoàn Thành với has SENT / have SENT, nói về sự việc đã hoàn tất và liên quan đến hiện tại.</li>
 			
 				</ul>
 			
@@ -881,7 +881,7 @@ export default function IrregularVerbs(): React.JSX.Element {
 			
 					<li>she <strong>has SHOWN</strong> GREAT imPROVEment <strong>REcently</strong>.</li>
 					<li className="list-none">Cô ấy <strong>đã thể hiện</strong> sự tiến bộ lớn <strong>gần đây</strong>.</li>
-					<li className="list-none">Cấu trúc này dùng dạng hoàn thành với has SHOWN, nói về sự việc đã hoàn tất và liên quan đến hiện tại.</li>
+					<li className="list-none">Cấu trúc này dùng 📏 Khoảng Thời Gian Hành Động ở Hiện Tại Hoàn Thành với has SHOWN, nói về sự việc đã hoàn tất và liên quan đến hiện tại.</li>
 			
 				</ul>
 			
@@ -900,7 +900,7 @@ export default function IrregularVerbs(): React.JSX.Element {
 			
 					<li>she <strong>has SLEPT</strong> for a LONG TIME.</li>
 					<li className="list-none">Cô ấy <strong>đã ngủ</strong> trong một thời gian dài.</li>
-					<li className="list-none">Cấu trúc này dùng dạng hoàn thành với has SLEPT, nói về sự việc đã hoàn tất và liên quan đến hiện tại.</li>
+					<li className="list-none">Cấu trúc này dùng 📏 Khoảng Thời Gian Hành Động ở Hiện Tại Hoàn Thành với has SLEPT, nói về sự việc đã hoàn tất và liên quan đến hiện tại.</li>
 			
 				</ul>
 
@@ -919,7 +919,7 @@ export default function IrregularVerbs(): React.JSX.Element {
 			
 					<li>they <strong>have SWUM</strong> in this LAKE many TIMES.</li>
 					<li className="list-none">Họ <strong>đã bơi</strong> ở cái hồ này nhiều lần.</li>
-					<li className="list-none">Cấu trúc này dùng dạng hoàn thành với have SWUM, nói về sự việc đã hoàn tất và liên quan đến hiện tại.</li>
+					<li className="list-none">Cấu trúc này dùng 📏 Khoảng Thời Gian Hành Động ở Hiện Tại Hoàn Thành với have SWUM, nói về sự việc đã hoàn tất và liên quan đến hiện tại.</li>
 			
 				</ul>
 
@@ -938,7 +938,7 @@ export default function IrregularVerbs(): React.JSX.Element {
 			
 					<li>they <strong>have TAUGHT</strong> this SUBject for FIVE YEARS.</li>
 					<li className="list-none">Họ <strong>đã dạy</strong> môn học này được năm năm.</li>
-					<li className="list-none">Cấu trúc này dùng dạng hoàn thành với have TAUGHT, nói về sự việc đã hoàn tất và liên quan đến hiện tại.</li>
+					<li className="list-none">Cấu trúc này dùng 📏 Khoảng Thời Gian Hành Động ở Hiện Tại Hoàn Thành với have TAUGHT, nói về sự việc đã hoàn tất và liên quan đến hiện tại.</li>
 			
 				</ul>
 
@@ -957,7 +957,7 @@ export default function IrregularVerbs(): React.JSX.Element {
 			
 					<li>he <strong>has underSTOOD</strong> the CORE CONcept THORoughly.</li>
 					<li className="list-none">Anh ấy <strong>đã hiểu</strong> khái niệm cốt lõi một cách thấu đáo.</li>
-					<li className="list-none">Cấu trúc này dùng dạng hoàn thành với has underSTOOD, nói về sự việc đã hoàn tất và liên quan đến hiện tại.</li>
+					<li className="list-none">Cấu trúc này dùng 📏 Khoảng Thời Gian Hành Động ở Hiện Tại Hoàn Thành với has underSTOOD, nói về sự việc đã hoàn tất và liên quan đến hiện tại.</li>
 			
 				</ul>
 
@@ -976,7 +976,7 @@ export default function IrregularVerbs(): React.JSX.Element {
 			
 					<li>he <strong>has WON</strong> ALL the MATCHes EASily.</li>
 					<li className="list-none">Anh ấy <strong>đã thắng</strong> tất cả các trận đấu một cách dễ dàng.</li>
-					<li className="list-none">Cấu trúc này dùng dạng hoàn thành với has WON, nói về sự việc đã hoàn tất và liên quan đến hiện tại.</li>
+					<li className="list-none">Cấu trúc này dùng 📏 Khoảng Thời Gian Hành Động ở Hiện Tại Hoàn Thành với has WON, nói về sự việc đã hoàn tất và liên quan đến hiện tại.</li>
 			
 				</ul>
 
@@ -995,7 +995,7 @@ export default function IrregularVerbs(): React.JSX.Element {
 			
 					<li>this PAIR of SHOES <strong>has been WORN OUT comPLETely</strong>.</li>
 					<li className="list-none">Đôi giày này <strong>đã bị mòn đi hoàn toàn</strong> <strong>rồi</strong>.</li>
-					<li className="list-none">Cấu trúc này dùng dạng hoàn thành bị động với cụm động WORN OUT (trong đó OUT là trạng đi liền sau động worn), nói về sự việc đã hoàn tất và để lại kết quả ở hiện tại.</li>
+					<li className="list-none">Cấu trúc này dùng 📏 Khoảng Thời Gian Hành Động ở Hiện Tại Hoàn Thành bị động với cụm động WORN OUT (trong đó OUT là trạng đi liền sau động worn), nói về sự việc đã hoàn tất và để lại kết quả ở hiện tại.</li>
 			
 				</ul>
 
@@ -1185,7 +1185,7 @@ export default function IrregularVerbs(): React.JSX.Element {
 			
 					<li>they <strong>have SUNG</strong> toGETHer at many comMUnity eVENTs.</li>
 					<li className="list-none">Họ <strong>đã hát</strong> cùng nhau tại nhiều sự kiện cộng đồng <strong>rồi</strong>.</li>
-					<li className="list-none">Cấu trúc này dùng dạng hoàn thành với have SUNG, nói về sự việc đã hoàn tất và liên quan đến hiện tại.</li>
+					<li className="list-none">Cấu trúc này dùng 📏 Khoảng Thời Gian Hành Động ở Hiện Tại Hoàn Thành với have SUNG, nói về sự việc đã hoàn tất và liên quan đến hiện tại.</li>
 			
 				</ul>
 			
