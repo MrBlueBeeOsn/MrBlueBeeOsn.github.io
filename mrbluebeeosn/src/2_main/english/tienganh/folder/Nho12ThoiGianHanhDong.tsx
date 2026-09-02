@@ -5,9 +5,9 @@ import EyeIcon from '@/components/view/EyeIcon';
 import ViewCounter from '@/components/view/ViewCounter';
 import LikeButton from '@/components/like/LikeButton';
 
-export default function Nho12ThiTiengAnh(): React.JSX.Element {
+export default function Nho12ThoiGianHanhDong(): React.JSX.Element {
 
-	const postId = "Nho12ThiTiengAnh";
+	const postId = "Nho12ThoiGianHanhDong";
 
 	return (<>
 
