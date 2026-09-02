@@ -100,7 +100,7 @@ export default function HAPpily1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>the CHILdren PLAYED <Link to="/vocabulary/JOYfully-1">JOYfully</Link>.</li>
+          <li>the CHILDren PLAYED <Link to="/vocabulary/JOYfully-1">JOYfully</Link>.</li>
           <li className="margin-bottom-20 list-none">Những đứa trẻ chơi một cách vui mừng.</li>
 
           <li>i will GLADly HELP you.</li>

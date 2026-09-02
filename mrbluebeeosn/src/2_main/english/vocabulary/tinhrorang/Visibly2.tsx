@@ -56,7 +56,7 @@ export default function VISibly1(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1">the CHILdren were VISibly exCIted about the UPcoming TRIP.</li>
+        <li value="1">the CHILDren were VISibly exCIted about the UPcoming TRIP.</li>
         <li className="list-none">The children were visibly excited about the upcoming trip.</li>
         <li className="list-none margin-bottom-20">Những đứa trẻ rõ ràng rất phấn khích về chuyến đi sắp tới.</li>
 

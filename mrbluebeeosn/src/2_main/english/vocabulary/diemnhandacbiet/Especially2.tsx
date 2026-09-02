@@ -62,7 +62,7 @@ export default function esPECially2(): React.JSX.Element {
         <li value="2">she is esPECially GOOD at PLAYing the piANo.</li>
         <li className="list-none margin-bottom-20">Cô ấy đặc biệt giỏi chơi piano.</li>
 
-        <li value="3">the SLEEP is esPECially imPORTant for GROWing CHILdren.</li>
+        <li value="3">the SLEEP is esPECially imPORTant for GROWing CHILDren.</li>
         <li className="list-none margin-bottom-20">Giấc ngủ đặc biệt quan trọng đối với trẻ em đang lớn.</li>
 
         <li value="4">the FInal exAM was esPECially DIFficult.</li>

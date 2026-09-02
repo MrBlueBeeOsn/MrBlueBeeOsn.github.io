@@ -308,7 +308,7 @@ export default function SV1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>the CHILdren [PLAYing in the PARK] are LAUGHing.</li>
+					<li>the CHILDren [PLAYing in the PARK] are LAUGHing.</li>
 					<li className="margin-bottom-20 list-none">Những đứa trẻ [đang chơi trong công viên] đang cười.</li>
 			
 					<li className="list-none">Hình thái: [PLAYing in the PARK] - [Tiếp Động Cụm][Progressive Verb Phrase] biểu thị khối hành động chứa nhiều yếu tố kết hợp và không chứa hệ trục [Danh Chủ][Noun Subject] - [Thời-Thuần Động Cơ][Tense-Bare Verb Base], bắt đầu bằng [Tiếp Động Cơ][Progressive Verb Base] dạng V-ing.</li>

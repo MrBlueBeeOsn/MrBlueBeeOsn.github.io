@@ -59,7 +59,7 @@ export default function CHEERfully2(): React.JSX.Element {
         <li value="1">she CHEERfully aGREED to HELP with the PARTy.</li>
         <li className="list-none margin-bottom-20">Cô ấy vui vẻ đồng ý giúp đỡ tổ chức bữa tiệc.</li>
 
-        <li value="2">the CHILdren CHEERfully WAVED GOODbye to the BUS.</li>
+        <li value="2">the CHILDren CHEERfully WAVED GOODbye to the BUS.</li>
         <li className="list-none margin-bottom-20">Những đứa trẻ vui vẻ vẫy tay chào tạm biệt xe buýt.</li>
 
         <li value="3">he CHEERfully OFfered to CARry the HEAVy BOXes.</li>
@@ -77,7 +77,7 @@ export default function CHEERfully2(): React.JSX.Element {
         <li value="7">the BIRDS CHEERfully SANG in the MORNing.</li>
         <li className="list-none margin-bottom-20">Những chú chim vui vẻ hót líu lo vào buổi sáng.</li>
 
-        <li value="8">the CHILdren CHEERfully DANCED to the MUsic.</li>
+        <li value="8">the CHILDren CHEERfully DANCED to the MUsic.</li>
         <li className="list-none margin-bottom-20">Những đứa trẻ vui vẻ nhảy múa theo nhạc.</li>
 
         <li value="9">she CHEERfully GREETed her FRIENDS at the DOOR.</li>

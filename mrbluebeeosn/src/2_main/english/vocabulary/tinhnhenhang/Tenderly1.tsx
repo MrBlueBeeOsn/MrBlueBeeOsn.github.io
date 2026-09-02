@@ -89,7 +89,7 @@ export default function TENderly1(): React.JSX.Element {
           <li>she TENDED to the INjured BIRD.</li>
           <li className="margin-bottom-20 list-none">Cô ấy chăm sóc con chim bị thương một cách dịu dàng.</li>
 
-          <li>he SHOWED GREAT TENderness towards his CHILdren.</li>
+          <li>he SHOWED GREAT TENderness towards his CHILDren.</li>
           <li className="list-none">Anh ấy thể hiện sự âu yếm lớn đối với con cái của mình.</li>
 
         </ul>

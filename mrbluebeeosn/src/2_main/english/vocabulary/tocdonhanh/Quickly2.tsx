@@ -83,7 +83,7 @@ export default function QUICKly2(): React.JSX.Element {
         <li value="9">she QUICKly beCAME BORED with the MOVie.</li>
         <li className="list-none margin-bottom-20">Cô ấy nhanh chóng cảm thấy chán bộ phim.</li>
 
-        <li value="10">the CAKE was QUICKly EATen by the CHILdren.</li>
+        <li value="10">the CAKE was QUICKly EATen by the CHILDren.</li>
         <li className="list-none margin-bottom-20">Cái bánh nhanh chóng bị bọn trẻ ăn hết.</li>
 
       </ol>

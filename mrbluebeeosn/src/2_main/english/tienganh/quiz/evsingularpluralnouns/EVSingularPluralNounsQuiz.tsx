@@ -22,120 +22,120 @@ export default function EVSingularPluralNounsQuiz(): React.JSX.Element {
 	const questions: Question[] = [
 		{
 			id: 1,
-			question: "The shepherd is looking after a large flock of ________.",
+			question: "the SHEPherd is LOOKing after a LARGE FLOCK of ________.",
 			options: [
-				"sheeps",
-				"sheep",
-				"sheepes",
-				"sheepses"
+				"SHEEPS",
+				"SHEEP",
+				"SHEEPES",
+				"SHEEPses"
 			],
 			correctAnswer: 1,
-			explanation: "\"Sheep\" là Danh Cơ có hình thức số ít và số nhiều giống hệt nhau. Không bao giờ thêm \"s\" vào sau từ này."
+			explanation: "\"SHEEP\" là Danh Cơ có hình thức số ít và số nhiều giống hệt nhau. Không bao giờ thêm \"S\" vào sau từ này."
 		},
 		{
 			id: 2,
-			question: "I need to buy two new ________ for the kitchen.",
+			question: "i NEED to BUY TWO NEW ________ for the KITCHen.",
 			options: [
-				"knifes",
-				"knifves",
-				"knives",
-				"knivs"
+				"KNIFES",
+				"KNIFVES",
+				"KNIVES",
+				"KNIVS"
 			],
 			correctAnswer: 2,
-			explanation: "Các Danh Cơ kết thúc bằng đuôi \"-fe\" thường được đổi thành \"-ves\" khi chuyển sang số nhiều (knife -> knives)."
+			explanation: "Các Danh Cơ kết thúc bằng đuôi \"-FE\" thường được đổi thành \"-VES\" khi chuyển sang số nhiều (KNIFE -> KNIVES)."
 		},
 		{
 			id: 3,
-			question: "Many ________ are playing in the park today.",
+			question: "MANy ________ are PLAYing in the PARK toDAY.",
 			options: [
-				"childs",
-				"children",
-				"childrens",
-				"childes"
+				"CHILDS",
+				"CHILDren",
+				"CHILDrens",
+				"CHILDES"
 			],
 			correctAnswer: 1,
-			explanation: "\"Children\" là dạng số nhiều bất quy tắc của \"child\". Bản thân nó đã là số nhiều nên không thêm \"s\"."
+			explanation: "\"CHILDren\" là dạng số nhiều bất quy tắc của \"CHILD\". Bản thân nó đã là số nhiều nên không thêm \"S\"."
 		},
 		{
 			id: 4,
-			question: "Could you please brush your ________ before going to bed?",
+			question: "could you PLEASE BRUSH your ________ before GOing to BED?",
 			options: [
-				"tooths",
-				"teeths",
-				"teeth",
-				"toothes"
+				"TOOTHS",
+				"TEETHS",
+				"TEETH",
+				"TOOTHES"
 			],
 			correctAnswer: 2,
-			explanation: "\"Teeth\" là dạng số nhiều bất quy tắc của \"tooth\" (thay đổi nguyên âm bên trong)."
+			explanation: "\"TEETH\" là dạng số nhiều bất quy tắc của \"TOOTH\" (thay đổi nguyên âm bên trong)."
 		},
 		{
 			id: 5,
-			question: "There are five ________ working in this office.",
+			question: "there are FIVE ________ WORKing in this OFfice.",
 			options: [
-				"women",
-				"woman",
-				"womens",
-				"womans"
+				"WOMen",
+				"WOMan",
+				"WOMens",
+				"WOMans"
 			],
 			correctAnswer: 0,
-			explanation: "\"Women\" là dạng số nhiều của \"woman\". Tương tự như man/men, ta thay đổi nguyên âm \"a\" thành \"e\"."
+			explanation: "\"Women\" là dạng số nhiều của \"WOMan\". Tương tự như MAN/MEN, ta thay đổi nguyên âm \"a\" thành \"e\"."
 		},
 		{
 			id: 6,
-			question: "Scientists are studying the ________ of the local environment.",
+			question: "SCIentists are STUDying the ________ of the LOcal enVIronment.",
 			options: [
-				"phenomenons",
-				"phenomena",
-				"phenomenas",
-				"phenomenoes"
+				"pheNOMenons",
+				"pheNOMena",
+				"pheNOMenas",
+				"pheNOMenoes"
 			],
 			correctAnswer: 1,
-			explanation: "Đây là Danh Cơ gốc Hy Lạp. \"Phenomenon\" là số ít và \"phenomena\" là số nhiều."
+			explanation: "Đây là Danh Cơ gốc Hy Lạp. \"pheNOMenon\" là số ít và \"pheNOMena\" là số nhiều."
 		},
 		{
 			id: 7,
-			question: "How many ________ did you catch during the fishing trip?",
+			question: "HOW MANy ________ did you CATCH during the FISHing TRIP?",
 			options: [
-				"fish",
-				"fishes",
-				"fishs",
-				"fishies"
+				"FISH",
+				"FISHes",
+				"FISHS",
+				"FISHies"
 			],
 			correctAnswer: 0,
-			explanation: "Thông thường, \"fish\" giữ nguyên hình thức ở số nhiều. (Lưu ý: \"fishes\" chỉ dùng khi nói về nhiều loài cá khác nhau, nhưng trong ngữ cảnh thông thường ta dùng \"fish\")."
+			explanation: "Thông thường, \"FISH\" giữ nguyên hình thức ở số nhiều. (Lưu ý: \"FISHes\" chỉ dùng khi nói về nhiều loài cá khác nhau, nhưng trong ngữ cảnh thông thường ta dùng \"FISH\")."
 		},
 		{
 			id: 8,
-			question: "The ________ were scattered all over the floor.",
+			question: "the ________ were SCATtered all over the FLOOR.",
 			options: [
-				"leafes",
-				"leafs",
-				"leaves",
-				"leaf"
+				"LEAFES",
+				"LEAFS",
+				"LEAVES",
+				"LEAF"
 			],
 			correctAnswer: 2,
-			explanation: "Danh cơ kết thúc bằng \"-f\" thường chuyển thành \"-ves\" ở số nhiều (leaf -> leaves)."
+			explanation: "Danh cơ kết thúc bằng \"-f\" thường chuyển thành \"-VES\" ở số nhiều (LEAF -> LEAVES)."
 		},
 		{
 			id: 9,
-			question: "My grandmother has three ________.",
+			question: "my GRANDmother has THREE ________.",
 			options: [
-				"geese",
-				"gooses",
-				"geeses",
-				"goosess"
+				"GEESE",
+				"GOOSes",
+				"GEESes",
+				"GOOSess"
 			],
 			correctAnswer: 0,
-			explanation: "\"Geese\" là dạng số nhiều bất quy tắc của \"goose\"."
+			explanation: "\"GEESE\" là dạng số nhiều bất quy tắc của \"GOOSE\"."
 		},
 		{
 			id: 10,
-			question: "Please put the ________ on the top shelf.",
+			question: "PLEASE PUT the ________ on the TOP SHELF.",
 			options: [
-				"boxs",
-				"box",
-				"boxes",
-				"boxies"
+				"BOXS",
+				"BOX",
+				"BOXes",
+				"BOXies"
 			],
 			correctAnswer: 2,
 			explanation: "Danh cơ kết thúc bằng đuôi \"-x\" thì ta thêm hậu tố \"-es\" để tạo thành số nhiều."

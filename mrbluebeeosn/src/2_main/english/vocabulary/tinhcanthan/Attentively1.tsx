@@ -106,7 +106,7 @@ export default function atTENtively1(): React.JSX.Element {
           <li>he exAMined the DOCument CLOSEly.</li>
           <li className="margin-bottom-20 list-none">Anh ấy kiểm tra kỹ lưỡng tài liệu.</li>
 
-          <li>he WATCHED the CHILdren WATCHfully.</li>
+          <li>he WATCHED the CHILDren WATCHfully.</li>
           <li className="list-none">Anh ấy trông chừng bọn trẻ một cách cảnh giác.</li>
 
         </ul>

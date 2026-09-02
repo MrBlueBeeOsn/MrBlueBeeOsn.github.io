@@ -59,13 +59,13 @@ export default function JOYfully2(): React.JSX.Element {
         <li value="1">the inviTAtion was JOYfully acCEPted.</li>
         <li className="list-none margin-bottom-20">Lời mời đã được chấp nhận một cách vui vẻ.</li>
 
-        <li value="2">the CHILdren JOYfully parTICipated in the GAMES.</li>
+        <li value="2">the CHILDren JOYfully parTICipated in the GAMES.</li>
         <li className="list-none margin-bottom-20">Những đứa trẻ tham gia vào các trò chơi một cách vui vẻ.</li>
 
         <li value="3">their WEDding was JOYfully CELebrated by FRIENDS and FAMILy.</li>
         <li className="list-none margin-bottom-20">Đám cưới của họ đã được bạn bè và gia đình tổ chức một cách vui vẻ.</li>
 
-        <li value="4">the HOLiday was JOYfully anTICipated by the CHILdren.</li>
+        <li value="4">the HOLiday was JOYfully anTICipated by the CHILDren.</li>
         <li className="list-none margin-bottom-20">Các em nhỏ đã mong đợi kỳ nghỉ một cách vui vẻ.</li>
 
         <li value="5">the COUPle JOYfully emBRACED after a LONG sepaRAtion.</li>
@@ -83,7 +83,7 @@ export default function JOYfully2(): React.JSX.Element {
         <li value="9">the BIRDS JOYfully SANG in the MORNing.</li>
         <li className="list-none margin-bottom-20">Những chú chim hót líu lo một cách vui vẻ vào buổi sáng.</li>
 
-        <li value="10">the CHILdren JOYfully DANCED to the MUsic.</li>
+        <li value="10">the CHILDren JOYfully DANCED to the MUsic.</li>
         <li className="list-none margin-bottom-20">Những đứa trẻ nhảy múa vui vẻ theo điệu nhạc.</li>
 
       </ol>

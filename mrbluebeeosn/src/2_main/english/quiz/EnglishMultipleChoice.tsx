@@ -121,7 +121,7 @@ export default function EnglishMultipleChoice(): React.JSX.Element {
 			question: "Which of the following is an example of the passive voice?",
 			options: [
 				"the CHEF COOKED a WONderful MEAL.",
-				"the CHILdren are PLAYing in the PARK.",
+				"the CHILDren are PLAYing in the PARK.",
 				"a WONderful MEAL was COOKED by the CHEF.",
 				"does she DRIVE to WORK?"
 			],
