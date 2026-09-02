@@ -59,7 +59,7 @@ export default function ALways2(): React.JSX.Element {
         <li value="1">she ALways KIND to EVERyone.</li>
         <li className="list-none margin-bottom-20">Cô ấy luôn luôn tử tế với mọi người.</li>
 
-        <li value="2">he ALways DOES his HOMEwork before DINner.</li>
+        <li value="2">he ALways does his HOMEwork before DINner.</li>
         <li className="list-none margin-bottom-20">Anh ấy luôn làm bài tập về nhà trước khi ăn tối.</li>
 
         <li value="3">we ALways GO to the PARK on SUNdays.</li>

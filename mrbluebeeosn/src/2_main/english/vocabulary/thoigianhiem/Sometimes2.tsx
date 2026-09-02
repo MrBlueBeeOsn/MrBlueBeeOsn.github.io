@@ -68,7 +68,7 @@ export default function SOMEtimes2(): React.JSX.Element {
         <li value="4">they SOMEtimes PLAY SOCcer in the YARD.</li>
         <li className="list-none margin-bottom-20">Thỉnh thoảng họ chơi bóng đá trong sân.</li>
 
-        <li value="5">he DOES NOT SOMEtimes but OFten VISits his GRANDparents.</li>
+        <li value="5">he does NOT SOMEtimes but OFten VISits his GRANDparents.</li>
         <li className="list-none margin-bottom-20">Anh ấy không phải thỉnh thoảng mà thường xuyên đến thăm ông bà.</li>
 
         <li value="6">she SOMEtimes LIKES COFfee and SOMEtimes NOT.</li>

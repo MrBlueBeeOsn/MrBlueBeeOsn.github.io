@@ -22,7 +22,7 @@ export default function EVSubjectVerbQuiz(): React.JSX.Element {
 	const questions: Question[] = [
 		{
 			id: 1,
-			question: "Each of the students _______ required to submit the assignment by Friday.",
+			question: "each of the STUdents _______ reQUIred to subMIT the asSIGNment by FRIday.",
 			options: [
 				"is",
 				"are",
@@ -30,11 +30,11 @@ export default function EVSubjectVerbQuiz(): React.JSX.Element {
 				"have"
 			],
 			correctAnswer: 0,
-			explanation: "Khi danh chủ bắt đầu bằng \"Each of\" (Mỗi trong số...), hành động luôn chia ở dạng số ít bất kể Danh Cơ theo sau là số nhiều."
+			explanation: "Khi danh chủ bắt đầu bằng \"each of\" (Mỗi trong số...), hành động luôn chia ở dạng số ít bất kể Danh Cơ theo sau là số nhiều."
 		},
 		{
 			id: 2,
-			question: "Neither the manager nor the employees _______ aware of the new policy.",
+			question: "NEIther the MANager nor the emPLOYees _______ aWARE of the NEW POLicy.",
 			options: [
 				"was",
 				"were",
@@ -42,23 +42,23 @@ export default function EVSubjectVerbQuiz(): React.JSX.Element {
 				"has been"
 			],
 			correctAnswer: 1,
-			explanation: "Với cấu trúc \"Neither... nor...\" (Không... cũng không...), hành động phải chia theo danh chủ gần nó nhất (ở đây là \"employees\" - Danh Cơ số nhiều)."
+			explanation: "Với cấu trúc \"NEIther... nor...\" (Không... cũng không...), hành động phải chia theo danh chủ gần nó nhất (ở đây là \"emPLOYees\" - Danh Cơ số nhiều)."
 		},
 		{
 			id: 3,
-			question: "The team _______ practice every morning at 6 AM.",
+			question: "the TEAM _______ PRACtice EVERy MORNing at SIX A.M.",
 			options: [
 				"do",
-				"practices",
-				"practice",
-				"are practicing"
+				"PRACtices",
+				"PRACtice",
+				"are PRACticing"
 			],
 			correctAnswer: 1,
-			explanation: "\"Team\" là Danh Cơ tập hợp (collective noun). Khi cả đội hoạt động như một đơn vị thống nhất, chúng ta chia hành động ở ngôi thứ 3 số ít."
+			explanation: "\"TEAM\" là Danh Cơ tập hợp (colLECtive NOUN). Khi cả đội hoạt động như một đơn vị thống nhất, chúng ta chia hành động ở ngôi thứ 3 số ít."
 		},
 		{
 			id: 4,
-			question: "Mathematics _______ my most challenging subject in high school.",
+			question: "matheMATics _______ my most CHALlenging SUBject in HIGH SCHOOL.",
 			options: [
 				"are",
 				"were",
@@ -66,11 +66,11 @@ export default function EVSubjectVerbQuiz(): React.JSX.Element {
 				"have been"
 			],
 			correctAnswer: 2,
-			explanation: "Các môn học kết thúc bằng đuôi \"-ics\" (Mathematics, Physics, Economics...) luôn được coi là Danh Cơ số ít."
+			explanation: "Các môn học kết thúc bằng đuôi \"-ics\" (matheMATics, PHYSics, ecoNOMics...) luôn được coi là Danh Cơ số ít."
 		},
 		{
 			id: 5,
-			question: "A number of people _______ waiting in line for the concert tickets.",
+			question: "a NUMber of PEOple _______ WAITing in LINE for the CONcert TICKets.",
 			options: [
 				"is",
 				"was",
@@ -78,11 +78,11 @@ export default function EVSubjectVerbQuiz(): React.JSX.Element {
 				"has been"
 			],
 			correctAnswer: 2,
-			explanation: "Cấu trúc \"A number of + N số nhiều\" luôn đi với hành động số nhiều (mang nghĩa là \"Nhiều người/vật\")."
+			explanation: "Cấu trúc \"a NUMber of + N số nhiều\" luôn đi với hành động số nhiều (mang nghĩa là \"Nhiều người/vật\")."
 		},
 		{
 			id: 6,
-			question: "Either my sister or my parents _______ coming to the graduation ceremony.",
+			question: "EIther my SISter or my PARents _______ COMing to the graduAtion CERemony.",
 			options: [
 				"is",
 				"are",
@@ -90,11 +90,11 @@ export default function EVSubjectVerbQuiz(): React.JSX.Element {
 				"has"
 			],
 			correctAnswer: 1,
-			explanation: "Với cấu trúc \"Either... or...\" (Hoặc... hoặc...), hành động chia theo danh chủ đứng gần nó nhất là \"parents\" (số nhiều)."
+			explanation: "Với cấu trúc \"EIther... or...\" (Hoặc... hoặc...), hành động chia theo danh chủ đứng gần nó nhất là \"PARents\" (số nhiều)."
 		},
 		{
 			id: 7,
-			question: "Politics _______ a complicated topic for many people.",
+			question: "POLitics _______ a COMplicated TOPic for many PEOple.",
 			options: [
 				"are",
 				"is",
@@ -106,7 +106,7 @@ export default function EVSubjectVerbQuiz(): React.JSX.Element {
 		},
 		{
 			id: 8,
-			question: "Bread and butter _______ her favorite breakfast.",
+			question: "BREAD and BUTter _______ her FAvorite BREAKfast.",
 			options: [
 				"are",
 				"were",
@@ -114,11 +114,11 @@ export default function EVSubjectVerbQuiz(): React.JSX.Element {
 				"have been"
 			],
 			correctAnswer: 2,
-			explanation: "Mặc dù có hai Danh Cơ nối bằng \"and\", nhưng \"Bread and butter\" được coi là một món ăn duy nhất (một chỉnh thể), nên dùng hành động số ít."
+			explanation: "Mặc dù có hai Danh Cơ nối bằng \"and\", nhưng \"BREAD and BUTter\" được coi là một món ăn duy nhất (một chỉnh thể), nên dùng hành động số ít."
 		},
 		{
 			id: 9,
-			question: "Ten miles _______ a long distance to run for a beginner.",
+			question: "TEN MILES _______ a LONG DIStance to RUN for a beGINner.",
 			options: [
 				"are",
 				"were",
@@ -130,15 +130,15 @@ export default function EVSubjectVerbQuiz(): React.JSX.Element {
 		},
 		{
 			id: 10,
-			question: "Everyone in the office _______ to attend the meeting tomorrow.",
+			question: "EVERyone in the OFfice _______ to atTEND the MEETing toMORrow.",
 			options: [
-				"need",
-				"needs",
-				"are needing",
-				"have needed"
+				"NEED",
+				"NEEDS",
+				"are NEEDing",
+				"have NEEDed"
 			],
 			correctAnswer: 1,
-			explanation: "Các đại cơ bất định (Everyone, Someone, No one, Everything...) luôn đi kèm với hành động chia ở số ít."
+			explanation: "Các đại cơ bất định (EVERyone, SOMEone, NO one, EVERything...) luôn đi kèm với hành động chia ở số ít."
 		}
 	];
 
