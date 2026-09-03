@@ -22,7 +22,7 @@ export default function EVAdjectiveClausesQuiz(): React.JSX.Element {
 	const questions: Question[] = [
 		{
 			id: 1,
-			question: "The woman _______ lives next door is a famous doctor.",
+			question: "the WOMan _______ LIVES NEXT DOOR is a FAmous DOCtor.",
 			options: [
 				"whom",
 				"who",
@@ -30,11 +30,11 @@ export default function EVAdjectiveClausesQuiz(): React.JSX.Element {
 				"whose"
 			],
 			correctAnswer: 1,
-			explanation: "Đại cơ quan hệ thay thế cho Danh Cơ chỉ người \"The woman\" và đóng vai trò làm danh chủ trong câu con quan hệ (đứng trước hành động \"lives\")."
+			explanation: "Đại cơ quan hệ thay thế cho Danh Cơ chỉ người \"the WOMan\" và đóng vai trò làm danh chủ trong câu con quan hệ (đứng trước hành động \"LIVES\")."
 		},
 		{
 			id: 2,
-			question: "The book _______ I borrowed from the library yesterday is very interesting.",
+			question: "the BOOK _______ i BORrowed from the LIbrary YESterday is VERy INTEResting.",
 			options: [
 				"who",
 				"whom",
@@ -42,11 +42,11 @@ export default function EVAdjectiveClausesQuiz(): React.JSX.Element {
 				"whose"
 			],
 			correctAnswer: 2,
-			explanation: "Đại cơ quan hệ thay thế cho Danh Cơ chỉ vật \"The book\" và đóng vai trò làm danh nhận trong câu con quan hệ."
+			explanation: "Đại cơ quan hệ thay thế cho Danh Cơ chỉ vật \"the BOOK\" và đóng vai trò làm danh nhận trong câu con quan hệ."
 		},
 		{
 			id: 3,
-			question: "Do you know the boy _______ bicycle was stolen last night?",
+			question: "do you KNOW the BOY _______ BIcycle was STOlen LAST NIGHT?",
 			options: [
 				"who",
 				"whose",
@@ -54,11 +54,11 @@ export default function EVAdjectiveClausesQuiz(): React.JSX.Element {
 				"that"
 			],
 			correctAnswer: 1,
-			explanation: "Dùng để chỉ sở hữu cho Danh Cơ đứng trước (\"the boy's bicycle\" → \"the boy whose bicycle\")."
+			explanation: "Dùng để chỉ sở hữu cho Danh Cơ đứng trước (\"the BOY's BIcycle\" → \"the BOY whose BIcycle\")."
 		},
 		{
 			id: 4,
-			question: "The restaurant _______ we had dinner last week was fantastic.",
+			question: "the RESTAURant _______ we had DINner LAST WEEK was fanTAStic.",
 			options: [
 				"where",
 				"which",
@@ -66,11 +66,11 @@ export default function EVAdjectiveClausesQuiz(): React.JSX.Element {
 				"when"
 			],
 			correctAnswer: 0,
-			explanation: "Trạng cơ quan hệ chỉ nơi chốn, thay thế cho \"The restaurant\" (tương đương với cụm \"at which\")."
+			explanation: "Trạng cơ quan hệ chỉ nơi chốn, thay thế cho \"the RESTAURant\" (tương đương với cụm \"at which\")."
 		},
 		{
 			id: 5,
-			question: "I will never forget the day _______ I first met my best friend.",
+			question: "i will NEVer forGET the DAY _______ i FIRST MET my BEST FRIEND.",
 			options: [
 				"which",
 				"where",
@@ -78,23 +78,23 @@ export default function EVAdjectiveClausesQuiz(): React.JSX.Element {
 				"who"
 			],
 			correctAnswer: 2,
-			explanation: "Trạng cơ quan hệ chỉ thời gian, thay thế cho Danh Cơ \"the day\"."
+			explanation: "Trạng cơ quan hệ chỉ thời gian, thay thế cho Danh Cơ \"the DAY\"."
 		},
 		{
 			id: 6,
-			question: "The man _______ you met at the party is my uncle.",
+			question: "the MAN _______ you MET at the PARTy is my UNcle.",
 			options: [
 				"which",
 				"whose",
 				"whom",
-				"columns"
+				"who"
 			],
 			correctAnswer: 2,
-			explanation: "Đại cơ quan hệ thay thế cho Danh Cơ chỉ người \"The man\" và đóng vai trò làm danh nhận trong câu con quan hệ (sau nó là một đại cơ/danh chủ \"you\")."
+			explanation: "Đại cơ quan hệ thay thế cho Danh Cơ chỉ người \"the MAN\" và đóng vai trò làm danh nhận trong câu con quan hệ (sau nó là một đại cơ/danh chủ \"you\")."
 		},
 		{
 			id: 7,
-			question: "The reason _______ he failed the exam was his laziness.",
+			question: "the REAson _______ he FAILED the exAM was his LAziness.",
 			options: [
 				"why",
 				"which",
@@ -102,11 +102,11 @@ export default function EVAdjectiveClausesQuiz(): React.JSX.Element {
 				"when"
 			],
 			correctAnswer: 0,
-			explanation: "Trạng cơ quan hệ chỉ lý do, thường đi kèm sau cụm từ Danh Cơ \"The reason\"."
+			explanation: "Trạng cơ quan hệ chỉ lý do, thường đi kèm sau cụm từ Danh Cơ \"the REAson\"."
 		},
 		{
 			id: 8,
-			question: "The building, _______ was built in 1920, is being renovated.",
+			question: "the BUILDing, _______ was BUILT in nineTEEN TWENty, is being RENovated.",
 			options: [
 				"that",
 				"which",
@@ -114,11 +114,11 @@ export default function EVAdjectiveClausesQuiz(): React.JSX.Element {
 				"where"
 			],
 			correctAnswer: 1,
-			explanation: "Đây là câu con quan hệ không xác định (có dấu phẩy), bổ nghĩa cho vật \"The building\". Quy tắc ngữ pháp không dùng \"that\" sau dấu phẩy."
+			explanation: "Đây là câu con quan hệ không xác định (có dấu phẩy), bổ nghĩa cho vật \"the BUILDing\". Quy tắc ngữ pháp không dùng \"that\" sau dấu phẩy."
 		},
 		{
 			id: 9,
-			question: "The students _______ completed the assignment on time received extra marks.",
+			question: "the STUdents _______ comPLEted the asSIGNment on TIME reCEIVED EXtra MARKS.",
 			options: [
 				"whom",
 				"which",
@@ -126,11 +126,11 @@ export default function EVAdjectiveClausesQuiz(): React.JSX.Element {
 				"whose"
 			],
 			correctAnswer: 2,
-			explanation: "Thay thế cho Danh Cơ số nhiều chỉ người \"The students\" và làm danh chủ cho hành động \"completed\"."
+			explanation: "Thay thế cho Danh Cơ số nhiều chỉ người \"the STUdents\" và làm danh chủ cho hành động \"comPLEted\"."
 		},
 		{
 			id: 10,
-			question: "The laptop _______ she is using belongs to her brother.",
+			question: "the LAPtop _______ she is Using beLONGS to her BROTHer.",
 			options: [
 				"whose",
 				"who",
@@ -138,7 +138,7 @@ export default function EVAdjectiveClausesQuiz(): React.JSX.Element {
 				"that"
 			],
 			correctAnswer: 3,
-			explanation: "\"that\" được dùng để thay thế cho Danh Cơ chỉ vật \"The laptop\" trong câu con quan hệ xác định (ở đây có thể dùng \"which\" nhưng trong các phương án chỉ có \"that\" là chính xác)."
+			explanation: "\"that\" được dùng để thay thế cho Danh Cơ chỉ vật \"the LAPtop\" trong câu con quan hệ xác định (ở đây có thể dùng \"which\" nhưng trong các phương án chỉ có \"that\" là chính xác)."
 		}
 	];
 
