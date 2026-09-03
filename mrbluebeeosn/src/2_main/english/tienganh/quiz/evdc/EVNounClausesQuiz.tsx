@@ -22,19 +22,19 @@ export default function EVNounClausesQuiz(): React.JSX.Element {
 	const questions: Question[] = [
 		{
 			id: 1,
-			question: "________ made everyone in the room laugh was his hilarious imitation of the boss.",
+			question: "________ MADE EVERyone in the room LAUGH was his hiLARious imiTAtion of the BOSS.",
 			options: [
-				"What",
-				"That",
-				"Which",
-				"Whatever"
+				"what",
+				"that",
+				"which",
+				"whatever"
 			],
 			correctAnswer: 0,
-			explanation: "Cụm từ đóng vai trò làm danh chủ trong câu này cần một câu con danh cơ. \"What\" đóng vai trò là danh chủ bên trong câu con Danh Cơ đó (What made everyone... = Điều mà đã làm cho mọi người...). \"That\" không thể làm danh chủ của hành động \"made\" trong ngữ cảnh này nếu không có một Danh Cơ đi trước."
+			explanation: "Cụm từ đóng vai trò làm danh chủ trong câu này cần một câu con danh cơ. \"what\" đóng vai trò là danh chủ bên trong câu con Danh Cơ đó (what MADE EVERyone... = Điều mà đã làm cho mọi người...). \"that\" không thể làm danh chủ của hành động \"MADE\" trong ngữ cảnh này nếu không có một Danh Cơ đi trước."
 		},
 		{
 			id: 2,
-			question: "The professor explained ________ the new software program could improve our efficiency.",
+			question: "the proFESsor exPLAINED ________ the NEW SOFTware PROgram could imPROVE our efFICiency.",
 			options: [
 				"what",
 				"how",
@@ -42,11 +42,11 @@ export default function EVNounClausesQuiz(): React.JSX.Element {
 				"who"
 			],
 			correctAnswer: 1,
-			explanation: "Danh câu làm danh nhận cho hành động \"explained\". Dựa vào ngữ nghĩa của câu, chúng ta cần một từ nối chỉ cách thức: \"Giáo sư giải thích bằng cách nào/làm thế nào phần mềm mới có thể cải thiện hiệu suất\"."
+			explanation: "Danh câu làm danh nhận cho hành động \"exPLAINED\". Dựa vào ngữ nghĩa của câu, chúng ta cần một từ nối chỉ cách thức: \"Giáo sư giải thích bằng cách nào/làm thế nào phần mềm mới có thể cải thiện hiệu suất\"."
 		},
 		{
 			id: 3,
-			question: "The decision depends on ________ candidate passes the final interview.",
+			question: "the deCISion dePENDS on ________ CANdidate PASSes the FInal INterview.",
 			options: [
 				"whoever",
 				"whichever",
@@ -54,23 +54,23 @@ export default function EVNounClausesQuiz(): React.JSX.Element {
 				"whatever"
 			],
 			correctAnswer: 1,
-			explanation: "Sau giới cơ \"on\" cần một câu con danh cơ. Ở đây có Danh Cơ \"candidate\" ngay phía sau, do đó ta cần một hạn định cơ bổ nghĩa cho Danh Cơ này. \"Whichever\" mang ý nghĩa \"bất cứ... nào\" trong một nhóm đối tượng có giới hạn (các ứng viên tham gia phỏng vấn)."
+			explanation: "Sau giới cơ \"on\" cần một câu con danh cơ. Ở đây có Danh Cơ \"CANdidate\" ngay phía sau, do đó ta cần một hạn định cơ bổ nghĩa cho Danh Cơ này. \"whichever\" mang ý nghĩa \"bất cứ... nào\" trong một nhóm đối tượng có giới hạn (các ứng viên tham gia phỏng vấn)."
 		},
 		{
 			id: 4,
-			question: "It is essential that she ________ the report before the board meeting tomorrow.",
+			question: "it is esSENtial that she ________ the rePORT before the BOARD MEETing toMORrow.",
 			options: [
-				"submits",
-				"submit",
-				"submitted",
-				"will submit"
+				"subMITS",
+				"subMIT",
+				"subMITted",
+				"will subMIT"
 			],
 			correctAnswer: 1,
-			explanation: "Câu này sử dụng cấu trúc giả định (Subjunctive Mood) với Tính Cơ \"essential\" (It is essential that + S + V-inf). Trong câu con Danh Cơ đi sau \"that\", hành động luôn ở dạng nguyên mẫu không \"to\" (bare infinitive) cho tất cả các ngôi."
+			explanation: "Câu này sử dụng cấu trúc giả định (subJUNCtive MOOD) với Tính Cơ \"esSENtial \" (it is esSENtial  that + s + V-inf). Trong câu con Danh Cơ đi sau \"that\", hành động luôn ở dạng nguyên mẫu không \"to\" (BARE inFINitive) cho tất cả các ngôi."
 		},
 		{
 			id: 5,
-			question: "Do you know ________ the package will arrive from London?",
+			question: "do you KNOW ________ the PACKage will arRIVE from LONdon?",
 			options: [
 				"when",
 				"that",
@@ -78,23 +78,23 @@ export default function EVNounClausesQuiz(): React.JSX.Element {
 				"why"
 			],
 			correctAnswer: 0,
-			explanation: "Danh câu làm danh nhận cho hành động \"know\". Xét về mặt ngữ nghĩa, hành động \"arrive\" (đến) thường đi với Trạng Cơ chỉ thời gian, câu hỏi hỏi về thời điểm gói hàng đến nên dùng \"when\"."
+			explanation: "Danh câu làm danh nhận cho hành động \"KNOW\". Xét về mặt ngữ nghĩa, hành động \"arRIVE\" (đến) thường đi với Trạng Cơ chỉ thời gian, câu hỏi hỏi về thời điểm gói hàng đến nên dùng \"when\"."
 		},
 		{
 			id: 6,
-			question: "________ she managed to finish the project in just two days surprised all of us.",
+			question: "________ she MANaged to FINish the PROJect in just TWO DAYS surPRISED all of us.",
 			options: [
-				"What",
-				"How",
-				"That",
-				"If"
+				"what",
+				"how",
+				"that",
+				"if"
 			],
 			correctAnswer: 2,
-			explanation: "Cả câu con đứng đầu câu làm danh chủ chính. Câu con phía sau \"she managed to finish...\" đã đầy đủ các thành phần cấu trúc (S-V-O), do đó ta dùng \"That\" để biến toàn bộ sự việc này thành một câu con Danh Cơ (Việc mà cô ấy hoàn thành... đã làm tất cả bất ngờ)."
+			explanation: "Cả câu con đứng đầu câu làm danh chủ chính. Câu con phía sau \"she MANaged to FINish...\" đã đầy đủ các thành phần cấu trúc (s-V-O), do đó ta dùng \"that\" để biến toàn bộ sự việc này thành một câu con Danh Cơ (Việc mà cô ấy hoàn thành... đã làm tất cả bất ngờ)."
 		},
 		{
 			id: 7,
-			question: "We are still discussing the issue of ________ should be appointed as the new manager.",
+			question: "we are STILL disCUSSing the ISsue of ________ should be apPOINTed as the NEW MANager.",
 			options: [
 				"whom",
 				"who",
@@ -102,11 +102,11 @@ export default function EVNounClausesQuiz(): React.JSX.Element {
 				"which"
 			],
 			correctAnswer: 1,
-			explanation: "Danh câu đứng sau giới cơ \"of\". Trong câu con này, ta cần một từ đóng vai trò làm danh chủ trước hành động bị động \"should be appointed\". Vì vậy, ta phải chọn đại cơ danh chủ chỉ người là \"who\"."
+			explanation: "Danh câu đứng sau giới cơ \"of\". Trong câu con này, ta cần một từ đóng vai trò làm danh chủ trước hành động bị động \"should be apPOINTed\". Vì vậy, ta phải chọn đại cơ danh chủ chỉ người là \"who\"."
 		},
 		{
 			id: 8,
-			question: "She couldn't hear ________ the tour guide was saying because of the loud noise.",
+			question: "she COULDn't HEAR ________ the TOUR GUIDE was SAYing because of the LOUD NOISE.",
 			options: [
 				"that",
 				"which",
@@ -114,11 +114,11 @@ export default function EVNounClausesQuiz(): React.JSX.Element {
 				"whatever"
 			],
 			correctAnswer: 2,
-			explanation: "Danh câu làm danh nhận cho hành động \"hear\". Hành động \"saying\" bên trong câu con Danh Cơ đang thiếu danh nhận trực tiếp (nói cái gì). \"What\" vừa làm từ nối vừa đóng vai trò là danh nhận cho \"saying\" (...nghe những gì hướng dẫn viên đang nói)."
+			explanation: "Danh câu làm danh nhận cho hành động \"HEAR\". Hành động \"SAYing\" bên trong câu con Danh Cơ đang thiếu danh nhận trực tiếp (nói cái gì). \"what\" vừa làm từ nối vừa đóng vai trò là danh nhận cho \"SAYing\" (...nghe những gì hướng dẫn viên đang nói)."
 		},
 		{
 			id: 9,
-			question: "The true problem is ________ we lack the necessary budget to launch the campaign.",
+			question: "the TRUE PROBlem is ________ we LACK the NECessary BUDget to LAUNCH the CAMpaign.",
 			options: [
 				"that",
 				"what",
@@ -126,11 +126,11 @@ export default function EVNounClausesQuiz(): React.JSX.Element {
 				"whether"
 			],
 			correctAnswer: 0,
-			explanation: "Danh câu đóng vai trò làm bổ ngữ cho danh chủ (Subject Complement) sau hành động nối \"is\". Vì câu con phía sau \"we lack...\" đã trọn vẹn về nghĩa và cấu trúc, ta dùng \"that\" để dẫn dắt sự thật/sự việc đó."
+			explanation: "Danh câu đóng vai trò làm bổ ngữ cho danh chủ (SUBject COMplement) sau hành động nối \"is\". Vì câu con phía sau \"we LACK...\" đã trọn vẹn về nghĩa và cấu trúc, ta dùng \"that\" để dẫn dắt sự thật/sự việc đó."
 		},
 		{
 			id: 10,
-			question: "The HR department will hire ________ qualifies for the technical position.",
+			question: "the HR dePARTment will HIRE ________ QUALifies for the TECHnical poSITion.",
 			options: [
 				"who",
 				"whomever",
@@ -138,7 +138,7 @@ export default function EVNounClausesQuiz(): React.JSX.Element {
 				"anyone"
 			],
 			correctAnswer: 2,
-			explanation: "Danh câu làm danh nhận cho hành động \"hire\". Trong câu con Danh Cơ này, từ cần điền đóng vai trò làm danh chủ trực tiếp của hành động \"qualifies\", do đó ta phải chọn đại cơ nhân xưng dạng danh chủ là \"whoever\" (bất kỳ ai), chứ không dùng dạng danh nhận \"whomever\"."
+			explanation: "Danh câu làm danh nhận cho hành động \"HIRE\". Trong câu con Danh Cơ này, từ cần điền đóng vai trò làm danh chủ trực tiếp của hành động \"QUALifies\", do đó ta phải chọn đại cơ nhân xưng dạng danh chủ là \"whoever\" (bất kỳ ai), chứ không dùng dạng danh nhận \"whomever\"."
 		}
 	];
 
