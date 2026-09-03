@@ -80,7 +80,7 @@ export default function INstantly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>this is an INstant COFfee.</li>
+          <li>THIS is an INstant COFfee.</li>
           <li className="margin-bottom-20 list-none">Đây là cà phê hòa tan.</li>
 
           <li>the reACtion was instanTAneous.</li>

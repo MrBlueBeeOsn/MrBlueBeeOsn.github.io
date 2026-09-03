@@ -68,7 +68,7 @@ export default function esPECially2(): React.JSX.Element {
         <li value="4">the FInal exAM was esPECially DIFficult.</li>
         <li className="list-none margin-bottom-20">Bài thi cuối kỳ đặc biệt khó.</li>
 
-        <li value="5">this is esPECially TRUE of PEOple who LIVE in BIG CITies.</li>
+        <li value="5">THIS is esPECially TRUE of PEOple who LIVE in BIG CITies.</li>
         <li className="list-none margin-bottom-20">Điều này đặc biệt đúng với những người sống ở các thành phố lớn.</li>
 
         <li value="6">i enJOY WALKing in the PARK, esPECially when the WEATHer is NICE.</li>

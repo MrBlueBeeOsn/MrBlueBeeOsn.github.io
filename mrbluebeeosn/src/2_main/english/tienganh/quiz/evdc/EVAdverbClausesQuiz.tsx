@@ -130,7 +130,7 @@ export default function EVAdverbClausesQuiz(): React.JSX.Element {
 		},
 		{
 			id: 10,
-			question: "You will fail the upcoming exam __________ you start studying seriously right now.",
+			question: "you will FAIL the upCOMing exAM __________ you START STUDying SERiously RIGHT NOW.",
 			options: [
 				"if",
 				"unless",
@@ -138,7 +138,7 @@ export default function EVAdverbClausesQuiz(): React.JSX.Element {
 				"even though"
 			],
 			correctAnswer: 1,
-			explanation: "Unless có nghĩa là \"trừ khi\" (bằng với If... not), mở đầu câu con trạng ngữ chỉ điều kiện. Nếu dùng các liên cơ điều kiện mang tính khẳng định như if hoặc provided that (nếu/miễn là bạn học nghiêm túc thì bạn sẽ trượt) sẽ làm câu bị sai hoàn toàn về mặt logic."
+			explanation: "unless có nghĩa là \"trừ khi\" (bằng với if... NOT), mở đầu câu con trạng ngữ chỉ điều kiện. Nếu dùng các liên cơ điều kiện mang tính khẳng định như if hoặc provided that (nếu/miễn là bạn học nghiêm túc thì bạn sẽ trượt) sẽ làm câu bị sai hoàn toàn về mặt logic."
 		}
 	];
 

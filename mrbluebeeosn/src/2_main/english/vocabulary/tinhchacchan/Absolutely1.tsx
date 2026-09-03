@@ -80,7 +80,7 @@ export default function absoLUTEly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>this is an ABsolute diSASter.</li>
+          <li>THIS is an ABsolute diSASter.</li>
           <li className="margin-bottom-20 list-none">Đây là một thảm họa hoàn toàn.</li>
 
           <li>he beLIEVED in ABsolutism in POLitics.</li>

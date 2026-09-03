@@ -63,7 +63,7 @@ export default function OBviously2(): React.JSX.Element {
 				<li className="list-none">Her solution was obviously correct.</li>
 				<li className="list-none margin-bottom-20">Giải pháp của cô ấy rõ ràng là đúng.</li>
 
-				<li value="3">this is OBviously the BEST OPtion.</li>
+				<li value="3">THIS is OBviously the BEST OPtion.</li>
 				<li className="list-none margin-bottom-20">Đây rõ ràng là lựa chọn tốt nhất.</li>
 
 				<li value="4">she was OBviously upSET about the NEWS.</li>

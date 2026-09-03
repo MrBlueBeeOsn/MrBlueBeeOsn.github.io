@@ -65,7 +65,7 @@ export default function CERtainly2(): React.JSX.Element {
         <li value="3">he will QUITE CERtainly arRIVE on TIME.</li>
         <li className="list-none margin-bottom-20">Anh ấy chắc chắn sẽ đến đúng giờ.</li>
 
-        <li value="4">this is absoLUTEly CERtainly the RIGHT deCISion.</li>
+        <li value="4">THIS is absoLUTEly CERtainly the RIGHT deCISion.</li>
         <li className="list-none margin-bottom-20">Đây chắc chắn tuyệt đối là quyết định đúng đắn.</li>
 
         <li value="5">MORE than CERtainly, she will WIN the PRIZE.</li>

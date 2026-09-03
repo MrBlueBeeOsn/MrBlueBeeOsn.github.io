@@ -139,7 +139,7 @@ export default function VERBSADDS(): React.JSX.Element {
           <p className="example-sentence">
             <span className="">
 
-              Dạng lướt (Yếu) ➡️ Đọc là /fə/ (nghe giống "phờ") ➡️ Ví dụ: this is for YOU. /ðɪs ɪz fə juː/<br/>
+              Dạng lướt (Yếu) ➡️ Đọc là /fə/ (nghe giống "phờ") ➡️ Ví dụ: THIS is for YOU. /ðɪs ɪz fə juː/<br/>
 
               Dạng nhấn mạnh (Mạnh) ➡️ Đọc là /fɔːr/ ➡️ Ví dụ: WHAT is this FOR? /wɒt ɪz ðɪs fɔːr/
 

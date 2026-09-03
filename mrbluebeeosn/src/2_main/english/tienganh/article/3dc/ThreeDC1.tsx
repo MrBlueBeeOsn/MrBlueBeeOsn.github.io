@@ -790,8 +790,8 @@ export default function ThreeDC1(): React.ReactElement {
 			
 				<ul className="list-square">
 			
-					<li>this is the SERver ROOM [where the SIGnal PEAKS].</li>
-					<li className="margin-bottom-20 list-none">this is the [NEW] SERver ROOM.</li>
+					<li>THIS is the SERver ROOM [where the SIGnal PEAKS].</li>
+					<li className="margin-bottom-20 list-none">THIS is the [NEW] SERver ROOM.</li>
 			
 					<li className="list-none">→ Hợp lý! Khối [where the SIGnal PEAKS] hoàn thành chức năng [<strong>Tính Câu</strong>][<strong>Adjective Clause</strong>] bổ nghĩa đặc điểm cho khối định danh đứng trước.</li>
 			

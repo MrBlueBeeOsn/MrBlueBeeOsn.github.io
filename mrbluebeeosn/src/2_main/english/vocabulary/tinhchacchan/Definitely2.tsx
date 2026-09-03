@@ -62,7 +62,7 @@ export default function DEFinitely2(): React.JSX.Element {
         <li value="2">i DEFinitely will be THERE on TIME.</li>
         <li className="list-none margin-bottom-20">Tôi chắc chắn sẽ đến đúng giờ.</li>
 
-        <li value="3">this is DEFinitely the BEST PIZza i've EVer had.</li>
+        <li value="3">THIS is DEFinitely the BEST PIZza i've EVer had.</li>
         <li className="list-none margin-bottom-20">Đây chắc chắn là pizza ngon nhất mà tôi từng ăn.</li>
 
         <li value="4">i DEFinitely NEED a vaCAtion.</li>

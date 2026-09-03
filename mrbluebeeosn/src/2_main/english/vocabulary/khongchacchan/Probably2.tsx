@@ -56,7 +56,7 @@ export default function PROBably2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1">this is PROBably the BEST RESTAURant in TOWN.</li>
+        <li value="1">THIS is PROBably the BEST RESTAURant in TOWN.</li>
         <li className="list-none margin-bottom-20">Đây có lẽ là nhà hàng ngon nhất trong thị trấn.</li>
 
         <li value="2">i PROBably will NOT be ABle to MAKE it to the PARTy.</li>
@@ -83,7 +83,7 @@ export default function PROBably2(): React.JSX.Element {
         <li value="9">she's PROBably upSET because he DIDN'T CALL.</li>
         <li className="list-none margin-bottom-20">Cô ấy có lẽ buồn vì anh ấy không gọi điện.</li>
 
-        <li value="10">this is PROBably the MOST DIFficult TASK i've ever HAD.</li>
+        <li value="10">THIS is PROBably the MOST DIFficult TASK i've ever HAD.</li>
         <li className="list-none margin-bottom-20">Đây có lẽ là nhiệm vụ khó khăn nhất mà tôi từng làm.</li>
 
       </ol>

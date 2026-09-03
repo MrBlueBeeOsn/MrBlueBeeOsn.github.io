@@ -56,7 +56,7 @@ export default function POSsibly2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1">this is POSsibly the BEST COFfee i've EVer TAsted</li>
+        <li value="1">THIS is POSsibly the BEST COFfee i've EVer TAsted</li>
         <li className="list-none margin-bottom-20">Đây có thể là ly cà phê ngon nhất mà tôi từng uống.</li>
 
         <li value="2">what he SAID is POSsibly TRUE, but i'm NOT SURE</li>
@@ -65,7 +65,7 @@ export default function POSsibly2(): React.JSX.Element {
         <li value="3">SWIMming in this LAKE is POSsibly DANgerous due to the STRONG CURrents</li>
         <li className="list-none margin-bottom-20">Bơi ở hồ này có thể nguy hiểm do dòng chảy mạnh.</li>
 
-        <li value="4">this is POSsibly the WORST MOvie i've EVer SEEN</li>
+        <li value="4">THIS is POSsibly the WORST MOvie i've EVer SEEN</li>
         <li className="list-none margin-bottom-20">Đây có thể là bộ phim tệ nhất mà tôi từng xem.</li>
 
         <li value="5">my KEYS are POSsibly LOST SOMEwhere in the HOUSE</li>

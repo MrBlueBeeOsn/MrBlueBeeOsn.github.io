@@ -80,7 +80,7 @@ export default function Usually1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>this is my USual rouTINE.</li>
+          <li>THIS is my USual rouTINE.</li>
           <li className="margin-bottom-20 list-none">Đây là thói quen thường ngày của tôi.</li>
 
           <li>i USE this PEN EVERy DAY.</li>

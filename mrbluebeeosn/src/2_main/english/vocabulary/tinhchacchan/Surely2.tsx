@@ -76,7 +76,7 @@ export default function SUREly2(): React.JSX.Element {
         <li value="6">SUREly you underSTAND the imPORtance of this PROJect.</li>
         <li className="list-none margin-bottom-20">Chắc chắn bạn hiểu tầm quan trọng của dự án này.</li>
 
-        <li value="7">SUREly you aGREE that this is the BEST soLUtion.</li>
+        <li value="7">SUREly you aGREE that THIS is the BEST soLUtion.</li>
         <li className="list-none margin-bottom-20">Chắc chắn bạn đồng ý rằng đây là giải pháp tốt nhất.</li>
 
         <li value="8">SUREly you reMEMber the DAY we MET.</li>
