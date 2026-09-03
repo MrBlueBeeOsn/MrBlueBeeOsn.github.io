@@ -136,12 +136,12 @@ export default function DependentClause1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>the DOG [that is BARKing] beLONGS to TOM.</li>
+					<li>the DOG [THAT is BARKing] beLONGS to TOM.</li>
 					<li className="list-none">Con chó [mà đang sủa] thuộc về Tom.</li>
 			
 				</ul>
 			
-			<p className="margin-top-20 text-indent-whole">→ Cụm [that is BARKing] đóng vai trò như một [Tính Câu][Adjective Clause] lớn để phân biệt con chó này với những con khác</p>
+			<p className="margin-top-20 text-indent-whole">→ Cụm [THAT is BARKing] đóng vai trò như một [Tính Câu][Adjective Clause] lớn để phân biệt con chó này với những con khác</p>
 			
 			
 			<h4 className="margin-y-40">Chức năng [Trạng Câu][Adverb Clause]</h4>

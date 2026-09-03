@@ -161,7 +161,7 @@ export default function SO1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>that is SO COOL!</li>
+          <li>THAT is SO COOL!</li>
           <li className="margin-bottom-20 list-none">Cái đó thật là ngầu quá xá!</li>
 
         </ul>

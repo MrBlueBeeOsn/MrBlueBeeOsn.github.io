@@ -125,7 +125,7 @@ export default function POSsibly1(): React.JSX.Element {
           <li>i will <Link to="/vocabulary/DEFinitely-1">DEFinitely</Link> be THERE.</li>
           <li className="margin-bottom-20 list-none">Tôi chắc chắn sẽ đến đó.</li>
 
-          <li>that is <Link to="/vocabulary/CERtainly-1">CERtainly</Link> TRUE.</li>
+          <li>THAT is <Link to="/vocabulary/CERtainly-1">CERtainly</Link> TRUE.</li>
           <li className="list-none">Điều đó chắc chắn đúng.</li>
 
         </ul>
