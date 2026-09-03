@@ -22,7 +22,7 @@ export default function EVDCQuiz(): React.JSX.Element {
 	const questions: Question[] = [
 		{
 			id: 1,
-			question: "I don't know _______ she is planning to invite to the party.",
+			question: "i DON'T KNOW _______ she is PLANning to inVITE to the PARTy.",
 			options: [
 				"who",
 				"whom",
@@ -30,11 +30,11 @@ export default function EVDCQuiz(): React.JSX.Element {
 				"which"
 			],
 			correctAnswer: 1,
-			explanation: "Cụm từ \"whom she is planning to invite to the party\" là một Noun Clause (Danh câu) làm danh nhận cho hành động \"know\". Trong câu con phụ này, \"she\" là danh chủ và hành động \"invite\" cần một danh nhận chỉ người đứng trước, do đó ta dùng \"whom\" thay vì \"who\" (làm danh chủ)."
+			explanation: "Cụm từ \"whom she is PLANning to inVITE to the PARTy\" là một Noun Clause (Danh câu) làm danh nhận cho hành động \"KNOW \". Trong câu con phụ này, \"she\" là danh chủ và hành động \"inVITE\" cần một danh nhận chỉ người đứng trước, do đó ta dùng \"whom\" thay vì \"who\" (làm danh chủ)."
 		},
 		{
 			id: 2,
-			question: "The book _______ you lent me yesterday was absolutely fascinating.",
+			question: "the BOOK _______ you LENT me YESterday was absoLUTEly FAScinating.",
 			options: [
 				"who",
 				"whom",
@@ -42,23 +42,23 @@ export default function EVDCQuiz(): React.JSX.Element {
 				"what"
 			],
 			correctAnswer: 2,
-			explanation: "Cụm \"that you lent me yesterday\" là một Adjective Clause (Câu con tính ngữ/quan hệ) bổ nghĩa cho Danh Cơ chỉ vật \"The book\". Ta dùng đại cơ quan hệ \"that\" (hoặc \"which\") làm danh nhận thay thế cho vật. \"What\" không đứng sau Danh Cơ để bổ nghĩa như vậy."
+			explanation: "Cụm \"that you LENT me YESterday\" là một Adjective Clause (Câu con tính ngữ/quan hệ) bổ nghĩa cho Danh Cơ chỉ vật \"the BOOK\". Ta dùng đại cơ quan hệ \"that\" (hoặc \"which\") làm danh nhận thay thế cho vật. \"what\" không đứng sau Danh Cơ để bổ nghĩa như vậy."
 		},
 		{
 			id: 3,
-			question: "_______ he worked hard all day, he couldn't finish the report on time.",
+			question: "_______ he WORKED HARD all DAY, he COULDn't FINish the rePORT on TIME.",
 			options: [
-				"Because",
-				"Although",
-				"Since",
-				"Despite"
+				"because",
+				"although",
+				"since",
+				"despite"
 			],
 			correctAnswer: 1,
-			explanation: "Cụm \"Although he worked hard all day\" là một Adverb Clause of Concession (Trạng câu chỉ sự nhượng bộ). Ta chọn \"Although\" vì phía sau là một câu con hoàn chỉnh (S + V) và mang ý nghĩa tương phản. \"Despite\" cũng mang nghĩa tương tự nhưng chỉ đi với danh cụm hoặc V-ing."
+			explanation: "Cụm \"although he WORKED HARD all DAY\" là một Adverb Clause of Concession (Trạng câu chỉ sự nhượng bộ). Ta chọn \"although\" vì phía sau là một câu con hoàn chỉnh (s + V) và mang ý nghĩa tương phản. \"despite\" cũng mang nghĩa tương tự nhưng chỉ đi với danh cụm hoặc V-ing."
 		},
 		{
 			id: 4,
-			question: "The reason _______ she left early was never explained.",
+			question: "the REAson _______ she LEFT EARly was NEVer exPLAINED.",
 			options: [
 				"why",
 				"because",
@@ -66,11 +66,11 @@ export default function EVDCQuiz(): React.JSX.Element {
 				"where"
 			],
 			correctAnswer: 0,
-			explanation: "Cụm \"why she left early\" là một Adjective Clause bổ nghĩa cho Danh Cơ \"The reason\". Trạng Cơ quan hệ \"why\" được dùng để chỉ lý do cho Danh Cơ đứng trước nó."
+			explanation: "Cụm \"why she LEFT EARly\" là một Adjective Clause bổ nghĩa cho Danh Cơ \"the REAson\". Trạng Cơ quan hệ \"why\" được dùng để chỉ lý do cho Danh Cơ đứng trước nó."
 		},
 		{
 			id: 5,
-			question: "You can sit _______ you like in the auditorium.",
+			question: "you can SIT _______ you LIKE in the audiTORium.",
 			options: [
 				"whatever",
 				"wherever",
@@ -78,23 +78,23 @@ export default function EVDCQuiz(): React.JSX.Element {
 				"however"
 			],
 			correctAnswer: 1,
-			explanation: "Cụm \"wherever you like\" là một Adverb Clause of Place (Trạng câu chỉ nơi chốn). \"Wherever\" có nghĩa là \"bất cứ nơi nào\", phù hợp nhất với ngữ cảnh chọn vị trí chỗ ngồi trong khán phòng."
+			explanation: "Cụm \"wherever you LIKE\" là một Adverb Clause of Place (Trạng câu chỉ nơi chốn). \"wherever\" có nghĩa là \"bất cứ nơi nào\", phù hợp nhất với ngữ cảnh chọn vị trí chỗ ngồi trong khán phòng."
 		},
 		{
 			id: 6,
-			question: "The doctor recommended that he _______ a few days off from work.",
+			question: "the DOCtor recomMENDed that he _______ a FEW DAYS OFF from WORK.",
 			options: [
-				"takes",
-				"take",
-				"took",
-				"taking"
+				"TAKES",
+				"TAKE",
+				"TOOK",
+				"TAking"
 			],
 			correctAnswer: 1,
-			explanation: "Cụm \"that he take a few days off...\" là một Noun Clause đi sau hành động mang tính cầu khiến \"recommended\". Đây là cấu trúc giả định (Subjunctive Mood), hành động trong câu con \"that\" bắt buộc phải ở dạng nguyên mẫu không \"to\" cho tất cả các ngôi (he take)."
+			explanation: "Cụm \"that he TAKE a FEW DAYS OFF...\" là một Noun Clause đi sau hành động mang tính cầu khiến \"recomMENDed\". Đây là cấu trúc giả định (subJUNCtive MOOD), hành động trong câu con \"that\" bắt buộc phải ở dạng nguyên mẫu không \"to\" cho tất cả các ngôi (he TAKE)."
 		},
 		{
 			id: 7,
-			question: "The laptop, _______ battery life is amazing, belongs to my sister.",
+			question: "the LAPtop, _______ BATtery LIFE is aMAzing, beLONGS to my SISter.",
 			options: [
 				"which",
 				"that",
@@ -102,11 +102,11 @@ export default function EVDCQuiz(): React.JSX.Element {
 				"whom"
 			],
 			correctAnswer: 2,
-			explanation: "Cụm \"whose battery life is amazing\" là một Adjective Clause (câu con quan hệ không xác định). \"Whose\" là đại cơ quan hệ chỉ sự sở hữu, thay thế cho cụm \"The laptop's battery life\"."
+			explanation: "Cụm \"whose BATtery LIFE is aMAzing\" là một Adjective Clause (câu con quan hệ không xác định). \"whose\" là đại cơ quan hệ chỉ sự sở hữu, thay thế cho cụm \"the LAPtop's BATtery LIFE\"."
 		},
 		{
 			id: 8,
-			question: "She acts as if she _______ the boss of this company.",
+			question: "she ACTS as if she _______ the BOSS of this COMpany.",
 			options: [
 				"is",
 				"was",
@@ -114,23 +114,23 @@ export default function EVDCQuiz(): React.JSX.Element {
 				"has been"
 			],
 			correctAnswer: 2,
-			explanation: "Cụm \"as if she were the boss...\" là một Adverb Clause of Manner (Trạng câu chỉ cách thức) chứa cấu trúc giả định với \"as if\" (như thể là). Vì thực tế cô ấy không phải là sếp (trái thực tế ở hiện tại), hành động \"to be\" được chia thành \"were\" cho tất cả các ngôi."
+			explanation: "Cụm \"as if she were the BOSS ...\" là một Adverb Clause of Manner (Trạng câu chỉ cách thức) chứa cấu trúc giả định với \"as if\" (như thể là). Vì thực tế cô ấy không phải là sếp (trái thực tế ở hiện tại), hành động \"to be\" được chia thành \"were\" cho tất cả các ngôi."
 		},
 		{
 			id: 9,
-			question: "_______ wins the competition will receive a cash prize.",
+			question: "_______ WINS the compeTITion will reCEIVE a CASH PRIZE.",
 			options: [
-				"Who",
-				"Whoever",
-				"Anyone",
-				"Someone"
+				"who",
+				"whoever",
+				"anyone",
+				"someone"
 			],
 			correctAnswer: 1,
-			explanation: "Toàn bộ cụm \"Whoever wins the competition\" đóng vai trò là một Noun Clause làm danh chủ chính cho hành động \"will receive\". \"Whoever\" (bất cứ ai) vừa làm từ nối vừa làm danh chủ cho hành động \"wins\" bên trong câu con phụ. Nếu chọn \"Anyone\", ta phải có thêm \"who\" (Anyone who wins...)."
+			explanation: "Toàn bộ cụm \"whoever WINS the compeTITion\" đóng vai trò là một Noun Clause làm danh chủ chính cho hành động \"will reCEIVE\". \"whoever\" (bất cứ ai) vừa làm từ nối vừa làm danh chủ cho hành động \"WINS\" bên trong câu con phụ. Nếu chọn \"anyone\", ta phải có thêm \"who\" (anyone who WINS...)."
 		},
 		{
 			id: 10,
-			question: "We stayed inside _______ it started raining heavily.",
+			question: "we STAYED inSIDE _______ it STARTed RAINing HEAVily.",
 			options: [
 				"as soon as",
 				"until",
@@ -138,7 +138,7 @@ export default function EVDCQuiz(): React.JSX.Element {
 				"although"
 			],
 			correctAnswer: 0,
-			explanation: "Cụm \"as soon as it started raining heavily\" là một Adverb Clause of Time (Trạng câu chỉ thời gian). Liên cơ \"as soon as\" (ngay khi) giúp câu diễn đạt đúng logic: hành động \"ở trong nhà\" diễn ra ngay tại thời điểm \"trời bắt đầu mưa to\"."
+			explanation: "Cụm \"as soon as it STARTed RAINing HEAVily\" là một Adverb Clause of Time (Trạng câu chỉ thời gian). Liên cơ \"as soon as\" (ngay khi) giúp câu diễn đạt đúng logic: hành động \"ở trong nhà\" diễn ra ngay tại thời điểm \"trời bắt đầu mưa to\"."
 		}
 	];
 
