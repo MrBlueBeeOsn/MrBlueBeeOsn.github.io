@@ -138,7 +138,7 @@ export default function EVPrimaryAuxiliaryVerbsQuiz(): React.JSX.Element {
 				"did"
 			],
 			correctAnswer: 2,
-			explanation: "Câu hỏi ở ⏱️ Thời Điểm Hành Động ở Quá Khứ Tiếp Diễn: was/were + S + V-ing. Với danh chủ \"she\", ta dùng \"was\"."
+			explanation: "Câu hỏi ở ⏱️ Thời Điểm Hành Động ở Quá Khứ Tiếp Diễn: was/were + s + V-ing. Với danh chủ \"she\", ta dùng \"was\"."
 		}
 	];
 
