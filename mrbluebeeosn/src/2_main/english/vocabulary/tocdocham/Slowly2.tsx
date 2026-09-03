@@ -68,7 +68,7 @@ export default function SLOWly2(): React.JSX.Element {
         <li value="4">the PLANT is SLOWly GROWing TALler.</li>
         <li className="list-none margin-bottom-20">Cây đang dần dần cao lớn hơn.</li>
 
-        <li value="5">the CLImate is SLOWly CHANGing due to GLObal WARMing.</li>
+        <li value="5">the CLImate is SLOWly CHANging due to GLObal WARMing.</li>
         <li className="list-none margin-bottom-20">Khí hậu đang dần dần thay đổi do biến đổi khí hậu toàn cầu.</li>
 
         <li value="6">the SNAIL was SLOWly MOVing across the LEAF.</li>

@@ -62,7 +62,7 @@ export default function QUICKly2(): React.JSX.Element {
         <li value="2">the SUN QUICKly FADed behind the CLOUDS.</li>
         <li className="list-none margin-bottom-20">Mặt trời nhanh chóng biến mất sau những đám mây.</li>
 
-        <li value="3">the FASHion INdustry is QUICKly CHANGing.</li>
+        <li value="3">the FASHion INdustry is QUICKly CHANging.</li>
         <li className="list-none margin-bottom-20">Ngành công nghiệp thời trang đang thay đổi rất nhanh.</li>
 
         <li value="4">i QUICKly REalized my misTAKE.</li>

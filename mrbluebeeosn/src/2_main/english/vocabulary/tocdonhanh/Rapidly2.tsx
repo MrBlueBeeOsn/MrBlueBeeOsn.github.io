@@ -59,7 +59,7 @@ export default function RAPidly2(): React.JSX.Element {
         <li value="1">the CITy's popuLAtion is RAPidly GROWing.</li>
         <li className="list-none margin-bottom-20">Dân số thành phố đang tăng trưởng nhanh chóng.</li>
 
-        <li value="2">the WORLD is RAPidly CHANGing due to technoLOGical adVANCEments.</li>
+        <li value="2">the WORLD is RAPidly CHANging due to technoLOGical adVANCEments.</li>
         <li className="list-none margin-bottom-20">Thế giới đang thay đổi nhanh chóng do sự phát triển của công nghệ.</li>
 
         <li value="3">the disEASE is RAPidly SPREADing throughout the COUNtry.</li>

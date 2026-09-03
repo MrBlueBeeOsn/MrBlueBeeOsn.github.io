@@ -22,123 +22,123 @@ export default function EVParaphrasingTechniquesQuiz(): React.JSX.Element {
 	const questions: Question[] = [
 		{
 			id: 1,
-			question: "Which of the following is the most effective way to start paraphrasing a sentence?",
+			question: "WHICH of the FOLlowing is the MOST efFECtive WAY to START PARaphrasing a SENtence?",
 			options: [
-				"Changing only the adjectives and adverbs.",
-				"Using a thesaurus to replace every single word.",
-				"Understanding the full meaning and then rewriting it in your own words.",
-				"Rearranging the word order without changing any vocabulary."
+				"CHANging Only the ADjectives and ADverbs.",
+				"Using a theSAUrus to rePLACE every SINGle WORD.",
+				"underSTANDing the FULL MEANing and then reWRIting it in your OWN WORDS.",
+				"rearRANging the WORD ORder without CHANging any voCABulary."
 			],
 			correctAnswer: 2,
-			explanation: "Paraphrasing không chỉ là thay đổi từ ngữ mà quan trọng nhất là phải hiểu trọn vẹn ý nghĩa của câu gốc, sau đó diễn đạt lại theo cấu trúc và từ vựng của riêng mình để tránh đạo văn."
+			explanation: "PARaphrasing không chỉ là thay đổi từ ngữ mà quan trọng nhất là phải hiểu trọn vẹn ý nghĩa của câu gốc, sau đó diễn đạt lại theo cấu trúc và từ vựng của riêng mình để tránh đạo văn."
 		},
 		{
 			id: 2,
-			question: "Changing \"The committee postponed the meeting\" to \"The meeting was postponed by the committee\" is an example of which technique?",
+			question: "CHANging \"the comMITtee postPONED the MEETing\" to \"the MEETing was postPONED by the comMITtee\" is an exAMple of which techNIQUE?",
 			options: [
-				"Using synonyms",
-				"Changing the voice (Active to Passive)",
-				"Changing the part of speech",
-				"Combining sentences"
+				"Using SYNonyms",
+				"CHANging the VOICE (ACtive to PASsive)",
+				"CHANging the PART of SPEECH",
+				"comBIning SENtences"
 			],
 			correctAnswer: 1,
-			explanation: "Đây là kỹ thuật chuyển đổi từ câu chủ động (Active voice) sang câu bị động (Passive voice)."
+			explanation: "Đây là kỹ thuật chuyển đổi từ câu chủ động (ACtive VOICE) sang câu bị động (PASsive VOICE)."
 		},
 		{
 			id: 3,
-			question: "If you change the word \"accurate\" to \"precise\" in a sentence, which technique are you using?",
+			question: "if you CHANGE the WORD \"ACcurate\" to \"preCISE\" in a SENtence, WHICH techNIQUE are you Using?",
 			options: [
-				"Changing the word form",
-				"Changing the sentence structure",
-				"Using synonyms",
-				"Reducing clauses"
+				"CHANging the WORD FORM",
+				"CHANging the SENtence STRUCture",
+				"Using SYNonyms",
+				"reDUcing CLAUses"
 			],
 			correctAnswer: 2,
-			explanation: "\"Accurate\" và \"precise\" là các từ đồng nghĩa (synonyms), có nghĩa tương đồng nhau về độ chính xác."
+			explanation: "\"ACcurate\" và \"preCISE\" là các từ đồng nghĩa (SYNonyms), có nghĩa tương đồng nhau về độ chính xác."
 		},
 		{
 			id: 4,
-			question: "Which of these is a correct paraphrase of: \"The number of tourists increased significantly last year.\"?",
+			question: "WHICH of these is a corRECT PARaphrase of: \"the NUMber of TOURists inCREASED sigNIFicantly LAST YEAR.\"?",
 			options: [
-				"There was a significant growth in the quantity of visitors last year.",
-				"The number of tourists increased significantly a year ago.",
-				"Last year, the number of tourists increased significantly.",
-				"Significantly, the number of tourists increased last year."
+				"there was a sigNIFicantly GROWTH in the QUANtity of VISitors LAST YEAR.",
+				"the NUMber of TOURists inCREASED sigNIFicantly a YEAR aGO.",
+				"LAST YEAR, the NUMber of TOURists inCREASED sigNIFicantly.",
+				"sigNIFicantly, the NUMber of TOURists inCREASED LAST YEAR."
 			],
 			correctAnswer: 0,
-			explanation: "Câu này sử dụng kết hợp cả thay đổi từ vựng (tourists -> visitors, increased -> growth) và thay đổi loại từ (động cơ \"increased\" thành Danh Cơ \"growth\")."
+			explanation: "Câu này sử dụng kết hợp cả thay đổi từ vựng (TOURists -> VISitors, inCREASED -> GROWTH) và thay đổi loại từ (động cơ \"inCREASED\" thành Danh Cơ \"GROWTH\")."
 		},
 		{
 			id: 5,
-			question: "Changing \"He decided to leave because he was tired\" to \"Because of his fatigue, he decided to leave\" involves:",
+			question: "Changing \"he deCIded to LEAVE because he was TIred\" to \"because of his faTIGUE, he deCIded to LEAVE\" inVOLVES:",
 			options: [
-				"Using antonyms",
-				"Changing the part of speech (Adjective to Noun)",
-				"Changing a statement to a question",
-				"Only changing the word order"
+				"Using ANtonyms",
+				"CHANging the PART of SPEECH (ADjective to NOUN)",
+				"CHANging a STATEment to a QUEStion",
+				"Only CHANging the WORD ORder"
 			],
 			correctAnswer: 1,
-			explanation: "Tính cơ \"tired\" (mệt mỏi) đã được chuyển thành Danh Cơ \"fatigue\" (sự mệt mỏi) để thay đổi cấu trúc câu."
+			explanation: "Tính cơ \"TIred\" (mệt mỏi) đã được chuyển thành Danh Cơ \"faTIGUE\" (sự mệt mỏi) để thay đổi cấu trúc câu."
 		},
 		{
 			id: 6,
-			question: "What should you do if a sentence contains a technical term or a proper noun (e.g., \"DNA\", \"The Great Wall\")?",
+			question: "WHAT should you DO if a SENtence conTAINs a TECHnical TERM or a PROPer NOUN (e.g., \"DNA\", \"the Great WALL\")?",
 			options: [
-				"Find a synonym for it at all costs.",
-				"Keep it as it is.",
-				"Change the spelling to make it unique.",
-				"Delete it from the sentence."
+				"FIND a SYNonym for it at all COSTS.",
+				"KEEP it as it IS.",
+				"CHANGE the SPELling to MAKE it uNIQUE.",
+				"deLETE it from the SENtence."
 			],
 			correctAnswer: 1,
-			explanation: "Các thuật ngữ chuyên ngành, tên riêng hoặc mốc thời gian cụ thể thường không nên thay đổi khi paraphrase để đảm bảo tính chính xác về mặt thông tin."
+			explanation: "Các thuật ngữ chuyên ngành, tên riêng hoặc mốc thời gian cụ thể thường không nên thay đổi khi PARaphrase để đảm bảo tính chính xác về mặt thông tin."
 		},
 		{
 			id: 7,
-			question: "When paraphrasing, \"Although it was raining, they went hiking\" can be rewritten as:",
+			question: "WHEN PARaphrasing, \"although it was RAINing, they WENT HIking\" can be reWRITten:",
 			options: [
-				"It was raining, so they went hiking.",
-				"They went hiking despite the rain.",
-				"They didn't go hiking because of the rain.",
-				"Even though they went hiking, it rained."
+				"it was RAINing, so they WENT HIking.",
+				"they WENT HIking despite the RAIN.",
+				"they DIDn't GO HIking because of the RAIN.",
+				"Even though they WENT HIking, it RAINED."
 			],
 			correctAnswer: 1,
-			explanation: "Sử dụng cấu trúc \"Despite + Noun\" để thay thế cho \"Although + Clause\" là một kỹ thuật thay đổi cấu trúc ngữ pháp hiệu quả."
+			explanation: "Sử dụng cấu trúc \"despite + Noun\" để thay thế cho \"although + Clause\" là một kỹ thuật thay đổi cấu trúc ngữ pháp hiệu quả."
 		},
 		{
 			id: 8,
-			question: "What is a \"patchwork paraphrase\"?",
+			question: "WHAT is a \"PATCHwork PARaphrase\"?",
 			options: [
-				"A high-quality paraphrase using diverse vocabulary.",
-				"A paraphrase that combines ideas from multiple sources perfectly.",
-				"A poor paraphrase that only changes a few words and keeps the original structure.",
-				"A summary of a very long paragraph."
+				"a high-QUALity PARaphrase Using diVERSE voCABulary.",
+				"a PARaphrase that comBINEs iDEas from MULtiple SOURces PERfectly.",
+				"a POOR PARaphrase that Only CHANGes a FEW WORDS and KEEPS the oRIGinal STRUCture.",
+				"a SUMmary of a VERy LONG PARagraph."
 			],
 			correctAnswer: 2,
-			explanation: "\"Patchwork paraphrase\" (paraphrase kiểu chắp vá) là một dạng đạo văn không chủ ý, khi người viết chỉ thay đổi vài từ lẻ tẻ nhưng vẫn giữ nguyên cấu trúc câu của tác giả."
+			explanation: "\"PATCHwork PARaphrase\" (PARaphrase kiểu chắp vá) là một dạng đạo văn không chủ ý, khi người viết chỉ thay đổi vài từ lẻ tẻ nhưng vẫn giữ nguyên cấu trúc câu của tác giả."
 		},
 		{
 			id: 9,
-			question: "Identify the technique used: \"The car was expensive\" -> \"The automobile was not cheap.\"",
+			question: "iDENtify the techNIQUE USED: \"the CAR was exPENsive\" -> \"the AUtomobile was NOT CHEAP.\"",
 			options: [
-				"Changing word order",
-				"Using synonyms and antonyms (with negation)",
-				"Changing a clause to a phrase",
-				"Changing from passive to active"
+				"CHANging WORD ORder",
+				"Using SYNonyms and ANtonyms (with neGAtion)",
+				"CHANging a CLAUSE to a PHRASE",
+				"CHANging from PASsive to ACtive"
 			],
 			correctAnswer: 1,
-			explanation: "Người viết đã thay \"car\" bằng \"automobile\" (đồng nghĩa) và \"expensive\" bằng \"not cheap\" (phủ định của từ trái nghĩa)."
+			explanation: "Người viết đã thay \"CAR\" bằng \"AUtomobile\" (đồng nghĩa) và \"exPENsive\" bằng \"NOT CHEAP\" (phủ định của từ trái nghĩa)."
 		},
 		{
 			id: 10,
-			question: "Which of the following is NOT a goal of paraphrasing?",
+			question: "WHICH of the FOLlowing is NOT a GOAL of PARaphrasing?",
 			options: [
-				"To avoid plagiarism.",
-				"To show that you understand the source material.",
-				"To make the text much longer than the original.",
-				"To improve the flow of your writing."
+				"to aVOID PLAgiarism.",
+				"to SHOW that you underSTAND the SOURCE maTERial.",
+				"to MAKE the TEXT MUCH LONGer than the oRIGinal.",
+				"to imPROVE the FLOW of your WRITing."
 			],
 			correctAnswer: 2,
-			explanation: "Mục tiêu của paraphrase là diễn đạt lại ý tưởng một cách rõ ràng và tích hợp vào bài viết của mình, không phải là làm cho văn bản dài hơn một cách không cần thiết. Thường thì một bản paraphrase tốt sẽ có độ dài tương đương câu gốc."
+			explanation: "Mục tiêu của PARaphrase là diễn đạt lại ý tưởng một cách rõ ràng và tích hợp vào bài viết của mình, không phải là làm cho văn bản dài hơn một cách không cần thiết. Thường thì một bản PARaphrase tốt sẽ có độ dài tương đương câu gốc."
 		}
 	];
 
