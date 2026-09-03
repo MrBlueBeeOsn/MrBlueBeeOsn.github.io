@@ -22,103 +22,103 @@ export default function EVMatrixQuiz(): React.JSX.Element {
 	const questions: Question[] = [
 		{
 			id: 1,
-			question: "The girl [______] is my cousin. \n Cô gái [đang ngồi cạnh cửa sổ] là em họ của tôi.",
+			question: "the GIRL [SITting by the WINdow] is my COUSin. \n Cô gái [đang ngồi cạnh cửa sổ] là em họ của tôi.",
 			options: [
 				"[Noun Phrase]",
 				"[Adjective Phrase]"
 			],
 			correctAnswer: 1,
-			explanation: "Hình thái: [sitting by the window] - [Tiếp Động Cụm][Progressive Verb Phrase] bắt đầu bằng đuôi -ing kèm các thành phần bổ khuyết để tạo thành một cụm hành vi chưa chia thời gian. \n\n Chức năng: [sitting by the window] - [Tính Cụm][Adjective Phrase] đứng ngay sau để bổ nghĩa trực tiếp và định danh cho nhóm thành phần chỉ người \"The girl\"."
+			explanation: "Hình thái: [SITting by the WINdow] - [Tiếp Động Cụm][Progressive Verb Phrase] bắt đầu bằng đuôi -ing kèm các thành phần bổ khuyết để tạo thành một cụm hành vi chưa chia thời gian. \n\n Chức năng: [SITting by the WINdow] - [Tính Cụm][Adjective Phrase] đứng ngay sau để bổ nghĩa trực tiếp và định danh cho nhóm thành phần chỉ người \"the GIRL\"."
 		},
 		{
 			id: 2,
-			question: "[______] requires a lot of patience. \n [Việc học một ngôn ngữ mới] đòi hỏi rất nhiều sự kiên nhẫn.",
+			question: "[to LEARN a NEW LANGuage] reQUIres a LOT of PAtience. \n [Việc học một ngôn ngữ mới] đòi hỏi rất nhiều sự kiên nhẫn.",
 			options: [
 				"[Noun Phrase]",
 				"[Adverb Phrase]"
 			],
 			correctAnswer: 0,
-			explanation: "Hình thái: [To learn a new language] - [Hạt Thuần Động Cụm][Particle Bare Verb Phrase] bắt đầu bằng dạng nguyên thể có \"to\" kèm các thành phần bổ khuyết để tạo thành một cụm hành vi chưa chia thời gian. \n\n Chức năng: [To learn a new language] - [Danh Cụm][Noun Phrase] đứng ở đầu câu để làm chủ thể cốt lõi thực hiện hành vi cho \"requires\"."
+			explanation: "Hình thái: [to LEARN a NEW LANGuage] - [Hạt Thuần Động Cụm][Particle Bare Verb Phrase] bắt đầu bằng dạng nguyên thể có \"to\" kèm các thành phần bổ khuyết để tạo thành một cụm hành vi chưa chia thời gian. \n\n Chức năng: [to LEARN a NEW LANGuage] - [Danh Cụm][Noun Phrase] đứng ở đầu câu để làm chủ thể cốt lõi thực hiện hành vi cho \"reQUIres\"."
 		},
 		{
 			id: 3,
-			question: "She always opens the window [______]. \n Cô ấy luôn mở cửa sổ [để không khí trong lành bay vào].",
+			question: "she ALways Opens the WINdow [to LET in some FRESH AIR]. \n Cô ấy luôn mở cửa sổ [để không khí trong lành bay vào].",
 			options: [
 				"[Adjective Phrase]",
 				"[Adverb Phrase]"
 			],
 			correctAnswer: 1,
-			explanation: "Hình thái: [to let in some fresh air] - [Hạt Thuần Động Cụm][Particle Bare Verb Phrase] bắt đầu bằng dạng nguyên thể có \"to\" kèm các thành phần bổ khuyết để tạo thành một cụm hành vi chưa chia thời gian. \n\n Chức năng: [to let in some fresh air] - [Trạng Cụm][Adverb Phrase] bổ sung thông tin chỉ định mục đích hướng tới cho hành vi chính \"opens\"."
+			explanation: "Hình thái: [to LET in some FRESH AIR] - [Hạt Thuần Động Cụm][Particle Bare Verb Phrase] bắt đầu bằng dạng nguyên thể có \"to\" kèm các thành phần bổ khuyết để tạo thành một cụm hành vi chưa chia thời gian. \n\n Chức năng: [to LET in some FRESH AIR] - [Trạng Cụm][Adverb Phrase] bổ sung thông tin chỉ định mục đích hướng tới cho hành vi chính \"Opens\"."
 		},
 		{
 			id: 4,
-			question: "The book [______] is fascinating. \n Cuốn sách [mà bạn cho tôi mượn ngày hôm qua] thật thú vị.",
+			question: "the BOOK [that you LENT me YESterday] is FAScinating. \n Cuốn sách [mà bạn cho tôi mượn ngày hôm qua] thật thú vị.",
 			options: [
 				"[Noun Clause]",
 				"[Adjective Clause]"
 			],
 			correctAnswer: 1,
-			explanation: "Hình thái: [that you lent me yesterday] - [Liên Câu][Conjunctional Clause] bắt đầu bằng một thành phần kết nối đi kèm đầy đủ một chủ thể (you) và hành vi đã chia thời gian (lent). \n\n Chức năng: [that you lent me yesterday] - [Tính Câu][Adjective Clause] đứng sau để bổ nghĩa và hạn định đặc điểm cho nhóm thành phần chỉ vật \"The book\"."
+			explanation: "Hình thái: [that you LENT me YESterday] - [Liên Câu][Conjunctional Clause] bắt đầu bằng một thành phần kết nối đi kèm đầy đủ một chủ thể (you) và hành vi đã chia thời gian (LENT). \n\n Chức năng: [that you LENT me YESterday] - [Tính Câu][Adjective Clause] đứng sau để bổ nghĩa và hạn định đặc điểm cho nhóm thành phần chỉ vật \"the BOOK\"."
 		},
 		{
 			id: 5,
-			question: "I don't [______]. \n Tôi không [biết {điều chúng ta nên làm tiếp theo}].",
+			question: "i DON'T [KNOW {what we should DO NEXT}]. \n Tôi không [biết {điều chúng ta nên làm tiếp theo}].",
 			options: [
 				"[Noun Phrase]",
 				"[Tiered Noun Phrase]"
 			],
 			correctAnswer: 1,
-			explanation: "Hình thái: [know {what we should do next}] - [Tầng Thuần Động Cụm][Bare Tiered Verb Phrase] chứa hành vi hạt nhân \"know\" đi kèm thành phần bổ khuyết là một [Liên Câu][Conjunctional Clause] có cấu trúc chủ-hành vi hoàn chỉnh ở tầng trong {}. \n\n Chức năng: [know {what we should do next}] - [Danh Cụm] Phân Tầng [Tiered Noun Phrase] đóng vai trò cụm tiếp nhận lớn bên ngoài, chứa một danh câu làm thành phần tiếp nhận trực tiếp cho \"know\" ở bên trong."
+			explanation: "Hình thái: [KNOW {what we should DO NEXT}] - [Tầng Thuần Động Cụm][Bare Tiered Verb Phrase] chứa hành vi hạt nhân \"KNOW\" đi kèm thành phần bổ khuyết là một [Liên Câu][Conjunctional Clause] có cấu trúc chủ-hành vi hoàn chỉnh ở tầng trong {}. \n\n Chức năng: [KNOW {what we should DO NEXT}] - [Danh Cụm] Phân Tầng [Tiered Noun Phrase] đóng vai trò cụm tiếp nhận lớn bên ngoài, chứa một danh câu làm thành phần tiếp nhận trực tiếp cho \"KNOW\" ở bên trong."
 		},
 		{
 			id: 6,
-			question: "They will leave [______]. \n Họ sẽ rời đi [ngay khi cơn mưa tạnh].",
+			question: "they will LEAVE [as SOON as the RAIN STOPS]. \n Họ sẽ rời đi [ngay khi cơn mưa tạnh].",
 			options: [
 				"[Adjective Clause]",
 				"[Adverb Clause]"
 			],
 			correctAnswer: 1,
-			explanation: "Hình thái: [as soon as the rain stops] - [Liên Câu][Conjunctional Clause] bắt đầu bằng thành phần kết nối đi kèm kết cấu chủ-hành vi hoàn chỉnh (the rain stops) đã chia thời gian. \n\n Chức năng: [as soon as the rain stops] - [Trạng Câu][Adverb Clause] liên kết vào cấu trúc để xác định mốc thời gian diễn ra cho toàn bộ phần thông tin chính \"They will leave\"."
+			explanation: "Hình thái: [as SOON as the RAIN STOPS] - [Liên Câu][Conjunctional Clause] bắt đầu bằng thành phần kết nối đi kèm kết cấu chủ-hành vi hoàn chỉnh (the rain stops) đã chia thời gian. \n\n Chức năng: [as SOON as the RAIN STOPS] - [Trạng Câu][Adverb Clause] liên kết vào cấu trúc để xác định mốc thời gian diễn ra cho toàn bộ phần thông tin chính \"they will LEAVE\"."
 		},
 		{
 			id: 7,
-			question: "The [______] vase could not be repaired. \n Chiếc bình [bị vỡ] đã không thể sửa chữa được.",
+			question: "the [BROken] VASE could NOT be rePAIRed. \n Chiếc bình [bị vỡ] đã không thể sửa chữa được.",
 			options: [
 				"[Adjective Base]",
 				"[Adjective Phrase]"
 			],
 			correctAnswer: 0,
-			explanation: "Hình thái: [broken] - [Hoàn Động Cơ][Perfect Verb Base] tồn tại ở hình thái biến đổi đuôi đặc biệt của thể hoàn thành đứng đơn lẻ, chưa phát triển thành cụm hay câu. \n\n Chức năng: [broken] - [Tính Cơ][Adjective Base] nằm trước để nêu đặc điểm thực tế cho thành phần chỉ vật \"vase\"."
+			explanation: "Hình thái: [BROken] - [Hoàn Động Cơ][Perfect Verb Base] tồn tại ở hình thái biến đổi đuôi đặc biệt của thể hoàn thành đứng đơn lẻ, chưa phát triển thành cụm hay câu. \n\n Chức năng: [BROken] - [Tính Cơ][Adjective Base] nằm trước để nêu đặc điểm thực tế cho thành phần chỉ vật \"VASE\"."
 		},
 		{
 			id: 8,
-			question: "He made his younger brother [______]. \n Anh ấy đã làm cho em trai mình [khóc].",
+			question: "he MADE his YOUNGer BROTHer [CRY]. \n Anh ấy đã làm cho em trai mình [khóc].",
 			options: [
 				"[Noun Base]",
 				"[Adjective Base]"
 			],
 			correctAnswer: 1,
-			explanation: "Hình thái: [cry] - [Thuần Động Cơ][Bare Verb Base] tồn tại ở hình thái dạng gốc nguyên thể không \"to\" đứng độc lập, chưa phát triển thêm thành phần bổ khuyết. \n\n Chức năng: [cry] - [Tính Cơ][Adjective Base] bổ sung trạng thái chịu tác động trực tiếp cho phần tiếp nhận \"his younger brother\" phía trước."
+			explanation: "Hình thái: [CRY] - [Thuần Động Cơ][Bare Verb Base] tồn tại ở hình thái dạng gốc nguyên thể không \"to\" đứng độc lập, chưa phát triển thêm thành phần bổ khuyết. \n\n Chức năng: [CRY] - [Tính Cơ][Adjective Base] bổ sung trạng thái chịu tác động trực tiếp cho phần tiếp nhận \"his YOUNGer BROTHer\" phía trước."
 		},
 		{
 			id: 9,
-			question: "The team practiced hard [______] the championship. \n Toàn đội đã luyện tập chăm chỉ [để giành được] chức vô địch.",
+			question: "the TEAM PRACticed HARD [to WIN] the CHAMpionship. \n Toàn đội đã luyện tập chăm chỉ [để giành được] chức vô địch.",
 			options: [
 				"[Adverb Base]",
 				"[Adverb Phrase]"
 			],
 			correctAnswer: 0,
-			explanation: "Hình thái: [to win] - [Hạt Thuần Động Cơ][Particle Bare Verb Base] xét riêng trong ngoặc là hình thái hạt nhân nguyên thể có \"to\" đứng đơn lẻ, không tính phần bổ khuyết phía sau. \n\n Chức năng: [to win] - [Trạng Cơ][Adverb Base] đưa vào cấu trúc nhằm nêu bật mục đích cốt lõi cho hành vi \"practiced hard\"."
+			explanation: "Hình thái: [to WIN] - [Hạt Thuần Động Cơ][Particle Bare Verb Base] xét riêng trong ngoặc là hình thái hạt nhân nguyên thể có \"to\" đứng đơn lẻ, không tính phần bổ khuyết phía sau. \n\n Chức năng: [to WIN] - [Trạng Cơ][Adverb Base] đưa vào cấu trúc nhằm nêu bật mục đích cốt lõi cho hành vi \"PRACticed HARD\"."
 		},
 		{
 			id: 10,
-			question: "[______] is strictly prohibited in this hospital. \n [Việc hút thuốc] bị nghiêm cấm hoàn toàn trong bệnh viện này.",
+			question: "[SMOking] is STRICTly proHIBited in this HOSpital. \n [Việc hút thuốc] bị nghiêm cấm hoàn toàn trong bệnh viện này.",
 			options: [
 				"[Noun Base]",
 				"[Noun Phrase]"
 			],
 			correctAnswer: 0,
-			explanation: "Hình thái: [Smoking] - [Tiếp Động Cơ][Progressive Verb Base] bắt đầu từ [Động Cơ] nguyên bản tồn tại ở hình thái đuôi -ing đứng hoàn toàn độc lập, chưa phát triển các thành phần bổ khuyết đi kèm. \n\n Chức năng: [Smoking] - [Danh Cơ][Noun Base] đóng vai trò chủ thể cốt lõi ở đầu câu để chịu sự tác động từ phần thông tin phía sau."
+			explanation: "Hình thái: [SMOking] - [Tiếp Động Cơ][Progressive Verb Base] bắt đầu từ [Động Cơ] nguyên bản tồn tại ở hình thái đuôi -ing đứng hoàn toàn độc lập, chưa phát triển các thành phần bổ khuyết đi kèm. \n\n Chức năng: [SMOking] - [Danh Cơ][Noun Base] đóng vai trò chủ thể cốt lõi ở đầu câu để chịu sự tác động từ phần thông tin phía sau."
 		}
 	];
 
