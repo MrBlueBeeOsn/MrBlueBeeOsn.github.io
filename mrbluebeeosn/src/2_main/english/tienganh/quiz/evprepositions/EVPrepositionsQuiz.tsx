@@ -1,0 +1,172 @@
+// TiengAnhPracticeQuizDPDK.tsx
+
+import React, { useState, useEffect } from 'react';
+import EnglishPracticeQuiz from '../../../../../components/quiz/EnglishPracticeQuiz';
+
+import { Link } from "react-router-dom";
+import { HashLink } from 'react-router-hash-link';
+import EyeIcon from '@/components/view/EyeIcon';
+import ViewCounter from '@/components/view/ViewCounter';
+import LikeButton from '@/components/like/LikeButton';
+
+interface Question {
+	id: number;
+	question: string;
+	options: string[];
+	correctAnswer: number;
+	explanation: string;
+}
+
+export default function EVPrepositionsQuiz(): React.JSX.Element {
+	// Danh sách câu hỏi về Tiếng Anh cơ bản
+	const questions: Question[] = [
+		{
+			id: 1,
+			question: "i am INTERested _______ LEARNing MORE about ANcient HIStory.",
+			options: [
+				"in",
+				"on",
+				"at",
+				"for"
+			],
+			correctAnswer: 0,
+			explanation: "Cấum từ cố định \"be INTERested in SOMEthing\" có nghĩa là quan tâm hoặc hứng thú với cái gì đó."
+		},
+		{
+			id: 2,
+			question: "we aGREED _______ the DATE of the MEETing after a LONG disCUSSion.",
+			options: [
+				"to",
+				"with",
+				"on",
+				"for"
+			],
+			correctAnswer: 2,
+			explanation: "\"aGREE on SOMEthing\" được dùng khi các bên cùng thống nhất về một kế hoạch, ngày tháng hoặc quyết định chung."
+		},
+		{
+			id: 3,
+			question: "she has been WAITing for the BUS _______ 8 o'CLOCK this MORNing.",
+			options: [
+				"for",
+				"since",
+				"from",
+				"during"
+			],
+			correctAnswer: 1,
+			explanation: "\"since\" dùng để chỉ một mốc thời gian cụ thể trong quá khứ khi hành động bắt đầu và kéo dài đến hiện tại."
+		},
+		{
+			id: 4,
+			question: "the CAT is HIding _______ the BED because it is SCARed of the VACuum CLEANer.",
+			options: [
+				"above",
+				"over",
+				"under",
+				"through"
+			],
+			correctAnswer: 2,
+			explanation: "\"under\" nghĩa là ở phía dưới/dưới gầm, phù hợp với vị trí trốn dưới giường."
+		},
+		{
+			id: 5,
+			question: "my BROTHer is VERy GOOD _______ PLAYing the guiTAR.",
+			options: [
+				"in",
+				"at",
+				"with",
+				"about"
+			],
+			correctAnswer: 1,
+			explanation: "Cấu trúc \"be GOOD at SOMEthing/DOing SOMEthing\" dùng để nói về việc giỏi một lĩnh vực hay kỹ năng nào đó."
+		},
+		{
+			id: 6,
+			question: "they deCIded to GO for a WALK _______ the RAIN.",
+			options: [
+				"despite",
+				"although",
+				"in spite",
+				"even though"
+			],
+			correctAnswer: 0,
+			explanation: "\"deSPITE\" hoặc \"in SPITE of\" đi kèm với một danh cơ/danh cụm (the RAIN) để chỉ sự nhượng bộ (mặc dù)."
+		},
+		{
+			id: 7,
+			question: "PLEASE reMIND me _______ CALL my MOTHer toNIGHT.",
+			options: [
+				"of",
+				"about",
+				"to",
+				"for"
+			],
+			correctAnswer: 2,
+			explanation: "Cấu trúc \"reMIND SOMEone to DO SOMEthing\" nghĩa là nhắc nhở ai đó làm việc gì."
+		},
+		{
+			id: 8,
+			question: "the KEYS are _______ the TAbIe in the HALLway.",
+			options: [
+				"in",
+				"at",
+				"on",
+				"into"
+			],
+			correctAnswer: 2,
+			explanation: "Dùng giới cơ \"on\" để chỉ vị trí trên bề mặt của một vật phẳng như cái bàn."
+		},
+		{
+			id: 9,
+			question: "he aPOLogized _______ his TEACHer for being LATE.",
+			options: [
+				"with",
+				"to",
+				"for",
+				"at"
+			],
+			correctAnswer: 1,
+			explanation: "Cấu trúc đầy đủ là \"aPOLogize to SOMEone for SOMEthing\" (xin lỗi ai về việc gì)."
+		},
+		{
+			id: 10,
+			question: "we are GOing to NEW YORK _______ JUNE.",
+			options: [
+				"in",
+				"on",
+				"at",
+				"since"
+			],
+			correctAnswer: 0,
+			explanation: "Giới cơ \"in\" được dùng trước các tháng, mùa, năm và các khoảng thời gian dài."
+		}
+	];
+
+	return (
+
+		<main className="image image2">
+		
+			<article>
+				
+				<h4><HashLink smooth to="/tieng-anh#ev-prepositions-quiz"><mark className="highlight-tertiary-padding-4-8">Quiz</mark></HashLink></h4>
+	
+				<header className="quiz-header">
+					<h1 className="margin-y-50 text-center">Trắc Nghiệm Prepositions</h1>
+					<p className="subtitle text-center">Test your knowledge of fundamental ngữ pháp tiếng Anh concepts</p>
+				</header>
+	
+				<EnglishPracticeQuiz questions={questions} />
+	
+				<div className="viewcounter">
+	
+					<div className="post-date no-margin">
+						<span>March 29, 2026 · by 💎GEM ·</span>
+					</div>
+	
+				</div>
+	
+			</article>
+	
+		</main>
+	);
+};

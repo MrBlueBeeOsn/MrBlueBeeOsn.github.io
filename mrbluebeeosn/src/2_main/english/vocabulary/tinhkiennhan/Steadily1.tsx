@@ -1,0 +1,313 @@
+import React from 'react';
+import { Link } from "react-router-dom";
+import { HashLink } from 'react-router-hash-link';
+import EyeIcon from '@/components/view/EyeIcon';
+import ViewCounter from '@/components/view/ViewCounter';
+import LikeButton from '@/components/like/LikeButton';
+
+export default function STEADily1(): React.JSX.Element {
+
+  const postId = "STEADily1";
+
+  return (<>
+
+  <main className="image image2">
+
+    <article>
+    
+      <h4><HashLink smooth to="/vocabulary#adverbs-kien-nhan"><mark className="highlight-tertiary-padding-4-8">ADverbs: kiên nhẫn</mark></HashLink></h4>
+      
+      <h1 className="margin-y-50 text-center">STEADily
+        <sup><Link to="/vocabulary/STEADily-1">&nbsp;1&nbsp;</Link>
+        </sup>
+        <sup><Link to="/vocabulary/STEADily-2">&nbsp;2&nbsp;</Link>
+        </sup>
+      </h1>
+
+      {/* This is the content of Vocabulary Term. */}
+      
+      <p>Tuyệt vời! Chúng ta cùng khám phá từ "<strong>STEADily</strong>" nhé.</p>
+
+      <div className="text-border1 padding-top-20 padding-bottom-10 highlight-238-padding-4-8 bee-container">
+
+        <div>
+
+          <ul className="list-square padding-left-40">
+
+            <li>
+              <span className="highlight-255-padding-3-6">
+                [STEAdily][<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">STEAD i̛ ly</Link>] /ˈsted.ə.li/ ⬤•• (3x)
+              </span>
+            </li>
+
+            <li><Link to="/grammar/what-is-an-adverb?">ADverb</Link></li>
+
+            <li>Một cách đều đặn, ổn định, vững chắc</li>
+
+          </ul>
+
+        </div>
+
+        <div className="bee-wrapper">
+          <img src="/assets/images/bee2.png" alt="Mr. Bee Osn"/>
+        </div>
+
+      </div>
+
+      <p className="margin-top-30 text-indent-whole">Từ "<strong>STEADily</strong>" miêu tả cách một hành động, quá trình hoặc trạng thái diễn ra một cách liên tục, không có sự thay đổi đột ngột hoặc dao động lớn, thường cho thấy sự ổn định và chắc chắn.</p>
+
+      <p className="margin-top-20 text-indent-whole">Ví dụ:</p>
+
+        <ul className="list-square">
+
+          <li>the RAIN FELL STEADily throughout the NIGHT.</li>
+          <li className="margin-bottom-20 list-none">Mưa rơi đều đặn suốt đêm.</li>
+
+          <li>the COMpany's PROFits have been inCREASing STEADily for the PAST YEAR.</li>
+          <li className="margin-bottom-20 list-none">Lợi nhuận của công ty đã tăng trưởng ổn định trong năm qua.</li>
+
+          <li>he WALKED STEADily along the PATH.</li>
+          <li className="list-none">Anh ấy bước đi vững chắc dọc theo con đường.</li>
+
+        </ul>
+
+      {/* =============================
+            Gia đình từ:
+      ============================= */}
+        
+      <p className="margin-top-20">
+        <mark className="highlight-238-padding-4-8">
+          <strong>Gia đình từ</strong>:
+        </mark>
+      </p>
+
+        <ul className="list-square">
+
+          <li>he has a STEADy JOB.</li>
+          <li className="margin-bottom-20 list-none">Anh ấy có một công việc ổn định.</li>
+        
+          <li>STEADy yourSELF!</li>
+          <li className="margin-bottom-20 list-none">Hãy giữ vững!</li>
+
+          <li>he adMIred her STEADiness under PRESsure.</li>
+          <li className="list-none">Anh ấy ngưỡng mộ sự ổn định của cô ấy khi chịu áp lực.</li>
+
+        </ul>
+
+      {/* =============================
+            Từ đồng nghĩa:
+      ============================= */}
+        
+      <p className="margin-top-20">
+        <mark className="highlight-238-padding-4-8">
+          <strong>Từ đồng nghĩa</strong>:
+        </mark>
+      </p>
+
+        <ul className="list-square">
+
+          <li>he EXercises REGularly.</li>
+          <li className="margin-bottom-20 list-none">Anh ấy tập thể dục thường xuyên.</li>
+
+          <li>the NOISE was CONstantly IRritating.</li>
+          <li className="margin-bottom-20 list-none">Tiếng ồn liên tục gây khó chịu.</li>
+
+          <li>the WAter FLOWED conTINuously.</li>
+          <li className="margin-bottom-20 list-none">Nước chảy liên tục.</li>
+
+          <li>he HELD the RAILing FIRMly.</li>
+          <li className="list-none">Anh ấy nắm chặt lan can.</li>
+
+        </ul>
+
+        {/* <Link to="/vocabulary/CLEARly-1">Clearly</Link> */}
+
+      {/* =============================
+            Từ trái nghĩa:
+      ============================= */}
+
+      <p className="margin-top-20">
+        <mark className="highlight-238-padding-4-8">
+          <strong>Từ trái nghĩa</strong>:
+        </mark>
+      </p>
+
+        <ul className="list-square">
+
+          <li>he atTENDed irREGularly.</li>
+          <li className="margin-bottom-20 list-none">Anh ấy tham gia/đi học một cách không đều đặn.</li>
+
+          <li>the PRICes CHANGED unpreDICTably.</li>
+          <li className="margin-bottom-20 list-none">Giá cả thay đổi một cách không thể dự đoán trước được.</li>
+
+          <li>he beHAVED erRATically.</li>
+          <li className="margin-bottom-20 list-none">Anh ấy cư xử một cách thất thường.</li>
+
+          <li>he WALKED unSTEADily after the INjury.</li>
+          <li className="list-none">Anh ấy bước đi không vững chắc sau chấn thương.</li>
+
+        </ul>
+      
+      {/* =============================
+            🌻 Mẹo học từ vựng:
+      ============================= */}
+
+      <h3 className="margin-y-50 text-center">🌻 Mẹo học từ vựng:</h3>
+
+      {/* =============================
+            1. Liên kết hình ảnh:
+      ============================= */}
+      
+      <p className="margin-top-20">
+        <strong>
+          <mark className="highlight-255-padding-4-8"><strong>1. Liên kết</strong></mark> 
+        </strong>
+        <strong>&nbsp;với hình ảnh</strong>:
+      </p>
+
+      <p className="text-indent-whole">Hình dung một ngọn lửa cháy đều, một đường thẳng dốc lên từ từ trên biểu đồ hoặc một người đi bộ với bước chân chắc chắn.</p>
+
+        <ul className="list-square">
+
+          <li>The fire burned steadily.</li>
+          <li className="margin-bottom-20 list-none">Ngọn lửa cháy đều đặn.</li>
+
+          <li>the CHART TRENDed UPward STEADily.</li>
+          <li className="margin-bottom-20 list-none">Biểu đồ có xu hướng tăng đều đặn.</li>
+
+          <li>he WALKED STEADily with FIRM STEPS.</li>
+          <li className="list-none">Anh ấy bước đi vững chắc.</li>
+
+        </ul>
+
+      {/* =============================
+            2. Tạo câu ví dụ:
+      ============================= */}
+
+      <p className="margin-top-20">
+        <strong>
+          <mark className="highlight-255-padding-4-8"><strong>2. Tạo câu</strong></mark> 
+        </strong>
+        <strong>&nbsp;ví dụ</strong>:
+      </p>
+
+      <p className="text-indent-whole">Tạo các câu liên quan đến những thứ bạn thấy diễn ra một cách ổn định.</p>
+
+        <ul className="list-square">
+
+          <li>the SUN ROSE STEADily in the EAST.</li>
+          <li className="list-none">Mặt trời mọc đều đặn ở phía đông.</li>
+
+        </ul>
+
+      {/* =============================
+            3. Luyện tập thường xuyên:
+      ============================= */}
+
+      <p className="margin-top-20">
+        <strong>
+            <mark className="highlight-255-padding-4-8"><strong>3. Luyện tập</strong></mark>
+        </strong>
+        <strong>&nbsp;thường xuyên</strong>:
+      </p>
+
+      <p className="text-indent-whole margin-bottom-20">Chú ý đến những quá trình hoặc hành động diễn ra một cách liên tục và ổn định xung quanh bạn và cố gắng sử dụng từ này để mô tả chúng.</p>
+
+        <p className="text-indent-whole">Ví dụ để so sánh (sự khác biệt):</p>
+
+          <ol>
+
+            <li value="1">the RAIN FELL throughout the NIGHT.</li>
+            <li className="list-none margin-bottom-20">Mưa rơi suốt đêm.</li>
+
+            <li value="2">the RAIN FELL STEADily throughout the NIGHT.</li>
+            <li className="list-none margin-bottom-20">Mưa rơi đều đặn suốt đêm.</li>
+
+          </ol>
+
+      <div className="margin-bottom-20 padding-top-20 text-border1 padding-10 highlight-238-padding-4-8 bee-container">
+
+        <p className="margin-y-10">Sự khác biệt: <span className="highlight-255-padding-0-4">Nhấn mạnh rằng mưa rơi liên tục</span> với cường độ không thay đổi nhiều.</p>
+
+      </div>
+
+          <ol>
+
+            <li>the COMpany's PROFits have been inCREASing for the PAST YEAR.</li>
+            <li className="list-none margin-bottom-20">Lợi nhuận của công ty đã tăng trưởng trong năm qua.</li>
+
+            <li value="2">the COMpany's PROFits have been inCREASing STEADily for the PAST YEAR.</li>
+            <li className="list-none margin-bottom-20">Lợi nhuận của công ty đã tăng trưởng ổn định trong năm qua.</li>
+
+          </ol>
+
+      <div className="margin-bottom-20 padding-top-20 text-border1 padding-10 highlight-238-padding-4-8 bee-container">
+
+        <p className="margin-y-10">Cho thấy sự tăng trưởng liên tục và không có những biến động lớn.</p>
+
+      </div>
+
+          <ol>
+
+            <li>he WALKED along the PATH.</li>
+            <li className="list-none margin-bottom-20">Anh ấy bước đi dọc theo con đường.</li>
+
+            <li value="2">he WALKED STEADily along the PATH.</li>
+            <li className="list-none margin-bottom-20">Anh ấy bước đi vững chắc dọc theo con đường.</li>
+
+          </ol>
+
+      <div className="margin-bottom-20 padding-top-20 text-border1 padding-10 highlight-238-padding-4-8 bee-container">
+
+        <p className="margin-y-10">Thể hiện cách đi của anh ấy chắc chắn, không bị loạng choạng.</p>
+
+      </div>
+
+      {/* <span className="highlight-255-padding-0-4"></span> */}
+
+      {/* =============================
+            Lưu ý:
+      ============================= */}
+      
+      <div className="margin-y-30 text-border1 table-container">
+
+        <h3 className="margin-y-30 text-center">Lưu ý:</h3>
+
+        <ul className="list-square">
+
+          <li>Nhấn mạnh sự liên tục và thiếu sự thay đổi đột ngột: "<strong>STEADily</strong>" thường mang ý nghĩa tích cực về sự ổn định và đáng tin cậy.</li>
+
+          <li className="margin-bottom-20">Có thể áp dụng cho thời tiết, tài chính, tốc độ, sự tiến bộ hoặc bất kỳ quá trình nào diễn ra theo thời gian: Từ này mô tả một xu hướng ổn định.</li>
+
+        </ul>
+
+      </div>
+
+      <p className="margin-top-50">Chúc bạn học tiếng Anh thật tốt! 🐝</p>
+
+      <div className="viewcounter">
+      
+        <div className="post-date no-margin">
+          <span>April 28, 2025 · by 💎GEM ·</span>
+        </div>
+
+        <div className="eye-icon no-margin">
+          <EyeIcon />
+        </div>
+
+        <div className="post-date no-margin">
+          <ViewCounter postId={postId} />
+        </div>
+
+        <div className="like-button no-margin">
+          <LikeButton postId={postId} />
+        </div>
+
+      </div>
+
+    </article>
+    
+  </main>
+
+  </>);
+}

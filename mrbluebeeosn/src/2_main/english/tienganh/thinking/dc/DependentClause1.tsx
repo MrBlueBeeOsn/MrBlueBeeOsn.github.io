@@ -1,0 +1,308 @@
+import React from 'react';
+import { Link } from "react-router-dom";
+import { HashLink } from 'react-router-hash-link';
+import EyeIcon from '@/components/view/EyeIcon';
+import ViewCounter from '@/components/view/ViewCounter';
+import LikeButton from '@/components/like/LikeButton';
+
+export default function DependentClause1(): React.JSX.Element {
+
+	const postId = "DependentClause1";
+
+	return (<>
+
+	<main className="image image2">
+
+		<article>
+		
+			<h4><HashLink smooth to="/tieng-anh#thinking-terms"><mark className="highlight-tertiary-padding-4-8">THINKing</mark></HashLink></h4>
+
+			<h1 className="margin-y-50 text-center">dePENdent CLAUSE
+												
+				{/* <sup><HashLink smooth to="/tieng-anh/dependent-clause-1">&nbsp;1&nbsp;</HashLink>
+				</sup> */}
+
+				{/* <sup><HashLink smooth to="/tieng-anh/dependent-clause-2">&nbsp;2&nbsp;</HashLink>
+				</sup>
+
+				<sup><HashLink smooth to="/tieng-anh/dependent-clause-3">&nbsp;3&nbsp;</HashLink>
+				</sup>
+
+				<sup><HashLink smooth to="/tieng-anh/dependent-clause-4">&nbsp;4&nbsp;</HashLink>
+				</sup>
+
+				<sup><HashLink smooth to="/tieng-anh/dependent-clause-5">&nbsp;5&nbsp;</HashLink>
+				</sup>
+
+				<sup><HashLink smooth to="/tieng-anh/dependent-clause-6">&nbsp;6&nbsp;</HashLink>
+				</sup>
+
+				<sup><HashLink smooth to="/tieng-anh/dependent-clause-7">&nbsp;7&nbsp;</HashLink>
+				</sup>
+
+				<sup><HashLink smooth to="/tieng-anh/dependent-clause-8">&nbsp;8&nbsp;</HashLink>
+				</sup>
+
+				<sup><HashLink smooth to="/tieng-anh/dependent-clause-9">&nbsp;9&nbsp;</HashLink>
+				</sup> */}
+
+			</h1>
+
+			<h4 className="margin-bottom-30 text-center">Nghệ Thuật Phối Hợp Ngôn Ngữ: Làm Chủ Phụ Câu Để Văn Phong Trôi Chảy Hơn</h4>
+
+			<p>Khi viết tiếng Anh, việc liên tục sử dụng những câu đơn ngắn dễ làm cho mạch văn bị ngắt quãng và thiếu đi sự gắn kết logic.</p>
+
+			<p>Để tạo nên một dòng chảy ngôn ngữ tự nhiên và chuyên nghiệp, chìa khóa chính là việc làm chủ <strong>Phụ câu</strong> (<strong>dePENdent CLAUSE</strong>).</p>
+					
+			<p>Hãy coi cấu trúc này như những dải băng keo chuyên dụng, giúp nối liền các ý tưởng rời rạc thành một hệ thống lập luận chặt chẽ.</p>
+
+			{/* 1. Bản Chất Ý Niệm: Mảnh Ghép Cần Điểm Tựa */}
+
+			<h3 className="margin-y-50 text-center">1. Bản Chất Ý Niệm: Mảnh Ghép Cần Điểm Tựa</h3>
+
+			<p>Một phụ câu luôn mang trong mình một nghịch lý:</p>
+
+			<p>Nó có đầy đủ <strong>Danh Chủ</strong> (<strong>S</strong>) và <strong>Hành động</strong> (<strong>V</strong>), nhưng lại không thể truyền tải một thông điệp trọn vẹn.</p>
+
+			<p>Nguyên nhân là do sự xuất hiện của một <strong>Từ dẫn dắt</strong> (<strong>MARker WORD</strong>) đứng ở ngay đầu vế câu.</p>
+
+			<p>Từ này biến một thông tin chắc chắn thành một ý niệm dở dang, khiến người nghe luôn rơi vào trạng thái chờ đợi phần thông tin cốt lõi tiếp theo.</p>
+
+			<h4 className="margin-y-40">Ý niệm trọn vẹn:</h4>
+			
+				<ul className="list-square">
+			
+					<li>the OFfice is CLOSED.</li>
+					<li className="list-none">Văn phòng đã đóng cửa.</li>
+			
+				</ul>
+			
+			<p className="margin-top-20 text-indent-whole">→ Thông tin rõ ràng.</p>
+			
+			
+			<h4 className="margin-y-40">Ý niệm dở dang:</h4>
+			
+				<ul className="list-square">
+			
+					<li>since the OFfice is CLOSED...</li>
+					<li className="list-none">Vì văn phòng đã đóng cửa...</li>
+			
+				</ul>
+			
+			<p className="margin-top-20 text-indent-whole">→ Ý nghĩa bị bỏ lửng, bắt buộc phải có một vế câu khác đến giải cứu.</p>
+
+
+			{/* 2. Bộ Bộ Lọc Phân Biệt: Định Vị Từ Dẫn Dắt */}
+
+			<h3 className="margin-y-50 text-center">2. Bộ Bộ Lọc Phân Biệt: Định Vị Từ Dẫn Dắt</h3>
+
+			<p>Để không bị nhầm lẫn khi phân loại các thành phần trong câu, bạn chỉ cần thiết lập một ranh giới rõ ràng dựa trên các từ nối:</p>
+
+			<h4 className="margin-y-40">Vùng loại trừ: Nhóm <strong>FANBOYS</strong></h4>
+			
+				<ul className="list-square">
+			
+					<li>Các liên cơ: for, and, nor, but, or, yet, so hoạt động như những cây cầu phẳng.</li>
+			
+				</ul>
+			
+			<p className="margin-top-20 text-indent-whole">→ Chúng chỉ nối các câu con độc lập có vai trò ngang hàng và tuyệt đối không tạo ra phụ câu.</p>
+		
+
+			<h4 className="margin-y-40">Vùng kích hoạt Phụ câu:</h4>
+					
+			<p className="text-indent-whole">Được nhận diện hoàn toàn dựa vào các từ dẫn dắt bao gồm:</p>
+			
+				<ul className="list-square">
+			
+					<li>Từ <strong>that</strong> và <strong>as</strong>.</li>
+			
+					<li>Nhóm từ để hỏi <strong>WH</strong>-<strong>H</strong>: who, which, whom, whose, where, when, why, how.</li>
+			
+					<li>Các liên cơ chỉ mối quan hệ logic: beCAUSE, alTHOUGH, if, while, beFORE, AFter, since.</li>
+			
+				</ul>
+			
+
+			{/* 3. Ba Vai Trò Thực Tế Trong Câu (Kèm Ví Dụ Đơn Giản) */}
+
+			<h3 className="margin-y-50 text-center">3. Ba Vai Trò Thực Tế Trong Câu (Kèm Ví Dụ Đơn Giản)</h3>
+
+			<p>Mọi phụ câu dù dài hay ngắn đều chỉ đảm nhận vị trí tương đương với một từ loại cơ bản.</p>
+			
+			<h4 className="margin-y-40">Chức năng [Tính Câu][Adjective Clause]</h4>
+					
+			<p className="text-indent-whole">Nằm ngay sau một Danh Cơ để định hình hoặc làm rõ đặc điểm cho Danh Cơ đó.</p>
+			
+				<ul className="list-square">
+			
+					<li>the DOG [THAT is BARKing] beLONGS to TOM.</li>
+					<li className="list-none">Con chó [mà đang sủa] thuộc về Tom.</li>
+			
+				</ul>
+			
+			<p className="margin-top-20 text-indent-whole">→ Cụm [THAT is BARKing] đóng vai trò như một [Tính Câu][Adjective Clause] lớn để phân biệt con chó này với những con khác</p>
+			
+			
+			<h4 className="margin-y-40">Chức năng [Trạng Câu][Adverb Clause]</h4>
+					
+			<p className="text-indent-whole">Thiết lập bối cảnh cho hành động chính, làm rõ các yếu tố về thời gian, lý do hoặc sự tương phản.</p>
+			
+				<ul className="list-square">
+			
+					<li>we STAYED inSIDE [because it was COLD].</li>
+					<li className="list-none">Chúng tôi ở trong nhà [vì trời lạnh].</li>
+			
+				</ul>
+			
+			<p className="margin-top-20 text-indent-whole">→ Cụm [because it was COLD] giải thích nguyên nhân cho việc ở trong nhà.</p>
+			
+			
+			<h4 className="margin-y-40">Chức năng [Danh Câu][Noun Clause]</h4>
+					
+			<p className="text-indent-whole">Chiếm lĩnh vị trí của một Danh Câu thông thường để làm [Danh Chủ][Noun Subject] hoặc [Danh Nhận][Noun Object] chịu tác động.</p>
+			
+				<ul className="list-square">
+			
+					<li>i underSTAND [what you MEAN].</li>
+					<li className="list-none">Tôi hiểu [những gì bạn ngụ ý].</li>
+			
+				</ul>
+			
+			<p className="margin-top-20 text-indent-whole">→ Cụm [what you MEAN] đóng vai trò làm [Danh Nhận][Noun Object] đứng sau hành động "underSTAND"</p>
+
+			{/* 4. Chiến Lược 3 Bước Để Tạo Câu Phức Mượt Mà */}
+
+			<h3 className="margin-y-50 text-center">4. Chiến Lược 3 Bước Để Tạo Câu Phức Mượt Mà</h3>
+
+			<p>Thay vì viết những câu văn vụn vặt, bạn có thể tự thiết kế một câu phức hoàn chỉnh bằng cách thực hiện theo quy trình sau:</p>
+
+			<h4 className="margin-y-40">Bước 1: Chuẩn bị hai thông tin nền tảng</h4>
+
+			<p className="margin-top-20 text-indent-whole">Thông tin A:</p>
+					
+				<ul className="list-square">
+			
+					<li>i FOUND the KEYS.</li>
+					<li className="list-none">Tôi đã tìm thấy chùm chìa khóa.</li>
+			
+				</ul>
+
+			
+			<p className="margin-top-20 text-indent-whole">Thông tin B:</p>
+					
+				<ul className="list-square">
+			
+					<li>i LOST them YESterday.</li>
+					<li className="list-none">Tôi đã làm mất chúng ngày hôm qua.</li>
+			
+				</ul>
+			
+			
+			<h4 className="margin-y-40">Bước 2: Dùng từ dẫn dắt để biến một thông tin thành vế phụ thuộc.</h4>
+
+			<p className="margin-top-20 text-indent-whole">Chuyển thông tin B thành:</p>
+					
+				<ul className="list-square">
+			
+					<li>[that I lost yesterday]</li>
+					<li className="margin-bottom-20 list-none">[mà tôi làm mất ngày hôm qua]</li>
+
+					<li className="list-none">Từ "<strong>them</strong>" được thay thế bằng "<strong>that</strong>"</li>
+			
+				</ul>
+			
+			
+			<h4 className="margin-y-40">Bước 3: Tích hợp vế phụ vào vị trí hợp lý trong câu độc lập.</h4>
+					
+				<ul className="list-square">
+			
+					<li>i FIND the KEYS [that i LOST YESterday].</li>
+					<li className="list-none">Tôi đã tìm thấy chùm chìa khóa [mà tôi làm mất ngày hôm qua].</li>
+			
+				</ul>
+
+			{/* 5. Phương Pháp Làm Chủ Cấu Trúc Khi Đọc Hiểu */}
+
+			<h3 className="margin-y-50 text-center">5. Phương Pháp Làm Chủ Cấu Trúc Khi Đọc Hiểu</h3>
+
+			<p>Khi đối mặt với những câu văn dài trên các trang báo hoặc tài liệu, việc đọc thụ hành động đầu đến cuối dễ gây quá tải cho bộ não.</p>
+
+			<p>Hãy áp dụng kỹ thuật <strong>Cô lập thông tin</strong>:</p>
+
+			<p className="margin-top-20"></p>
+			
+				<ol>
+			
+					<li value="1"><strong>Quét nhanh</strong>: Tìm các từ dẫn dắt (that, as, which, beCAUSE...).</li>
+			
+					<li value="2"><strong>Đóng khung</strong>: Đặt toàn bộ vế câu bắt đầu từ từ dẫn dắt đó vào dấu ngoặc vuông <span className="pill p">[...]</span>.</li>
+			
+					<li value="3"><strong>Xử lý lõi</strong>: Đọc phần văn bản nằm ngoài dấu ngoặc trước để nắm ngay 80% thông điệp chính, sau đó mới bổ sung phần thông tin phụ trong ngoặc vào sau.</li>
+			
+				</ol>
+			
+			<p className="margin-top-20"><strong>Thực hành thực tế</strong>:</p>
+
+			<p className="margin-top-20 text-indent-whole">Câu gốc:</p>
+			
+				<ul className="list-square">
+			
+					<li>the COFfee <span className="pill p">[<strong>that i BOUGHT this MORNing</strong>]</span> is HOT.</li>
+			
+				</ul>
+
+			<p className="margin-top-20 text-indent-whole">Đọc đầy đủ:</p>
+			
+				<ul className="list-square">
+
+					<li>Cà phê <span className="pill p">[<strong>loại mà tôi mua sáng nay</strong>]</span> thì nóng.</li>
+			
+			
+				</ul>
+
+			<p className="margin-top-20 text-indent-whole">Đọc lõi: Thông tin cốt lõi</p>
+			
+				<ul className="list-square">
+		
+					<li>the COFfee is HOT.</li>
+					<li className="list-none">Cà phê nóng.</li>
+			
+				</ul>
+
+			{/* Lời Kết */}
+
+			<h3 className="margin-y-50 text-center">Lời Kết</h3>
+
+			<p>Làm chủ phụ câu không đơn thuần là việc học thuộc một quy tắc ngữ pháp, mà là cách bạn thiết lập lại tư duy quản lý thông tin.</p>
+
+			<p>Khi biết cách điều phối cấu trúc này, bạn không còn bị động chạy theo những từ vựng đơn lẻ, mà hoàn toàn làm chủ được nhịp điệu, tốc độ và độ sâu sắc của toàn bộ bài viết.</p>
+
+			<p>Hãy bắt đầu nâng cấp văn phong của mình ngay hôm nay bằng cách kết nối các ý tưởng thông qua những khối câu con thông minh này!</p>
+
+			<div className="viewcounter">
+			
+				<div className="post-date no-margin">
+					<span>May 16, 2026 · by 💎GEM and 🐝Mr. Bee Osn ·</span>
+				</div>
+
+				<div className="eye-icon no-margin">
+					<EyeIcon />
+				</div>
+
+				<div className="post-date no-margin">
+					<ViewCounter postId={postId} />
+				</div>
+
+				<div className="like-button no-margin">
+					<LikeButton postId={postId} />
+				</div>
+
+			</div>
+
+		</article>
+		
+	</main>
+
+	</>);
+}

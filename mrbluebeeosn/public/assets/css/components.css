@@ -1,0 +1,1087 @@
+/*-- ========================================
+
+	© 2025 - 🐝 Mr. ßee - 🅾ng siêng năng📘
+
+				MrBlueBeeOsn.github.io 🔊📖
+
+				☕ Happy reading today!
+
+========================================= --*/
+
+/* =============================
+	 Components: buttons, cards, forms (Dành cho các thành phần UI có thể tái sử dụng.)
+============================= */
+
+/* h1 {
+	font-size: 2rem;
+	margin-bottom: 1rem;
+}
+
+button {
+	background: var(--primary-color);
+	color: rgba(255, 255, 255, 0.5);
+	border: none;
+	padding: 0.6rem 1.2rem;
+	border-radius: 6px;
+	cursor: pointer;
+	transition: background 0.2s ease-in-out;
+}
+
+button:hover {
+	background: #357abd;
+} */
+
+/* =============================
+	 Branding (Logo)
+============================= */
+
+.branding {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	transition: transform 0.15s ease-in-out; /* mượt khi nhấn */
+	position: relative;
+	padding-top: 5px;
+	height: 50px;
+}
+
+.branding img {
+	height: 35px; /* Điều chỉnh kích thước logo */
+	width: auto; /* Chiều rộng sẽ tự động điều chỉnh để giữ tỷ lệ */
+	border-radius: 100%;
+	background-color: transparent;
+	-webkit-tap-highlight-color: transparent; /* iOS Safari & Chrome */
+	-webkit-focus-ring-color: transparent;    /* Safari */
+	border: none;
+	outline: 4.5px solid var(--tertiary-color);
+	outline-offset: 4.5px;
+}
+
+.branding:active {
+	transform: scale(0.92); /* chữ + nền nhỏ lại */
+}
+
+.logo:hover {
+	filter: drop-shadow(0 0 2em var(--tertiary-color));
+}
+
+@keyframes logo-spin {
+	from {
+	transform: rotate(0deg);
+	}
+	to {
+	transform: rotate(360deg);
+	}
+}
+
+@media (prefers-reduced-motion: no-preference) {
+	a:nth-of-type(2) .logo {
+	animation: logo-spin infinite 20s linear;
+	}
+}
+
+.logo-text {
+	position: absolute;
+	top: -6px;    /* Điều chỉnh khoảng cách phía trên */
+	left: 50%;  /* Điều chỉnh khoảng cách phía bên phải */
+	transform: translateX(-20%); /* căn giữa chuẩn */
+	font-size: 1.4rem;           /* 14px */
+	color: var(--primary-color);
+	font-weight: bold;
+	padding: 5px;
+	border-radius: 2px;
+	border: 1px solid var(--border-color);
+	border-radius: 50px;
+	font-weight: normal;
+	line-height: 1;
+	text-align: center;
+	background: var(--logo-text-color);
+	white-space: nowrap; /* không cho xuống dòng */
+	box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.bee {
+		position: absolute;
+		font-size: 1.8rem;           /* 18px */
+		transition: transform 1s ease-in-out;
+		z-index: 2;
+}
+
+.bee-container {
+	display: flex;
+	justify-content: space-between; /* Đẩy chữ và ảnh về hai phía */
+	overflow: visible;
+	position: relative; /* Thẻ cha cần có position: relative */
+	align-items: flex-start; /* Căn trên cùng */
+}
+
+.bee-container-column {
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between; /* Đẩy chữ và ảnh về hai phía */
+	overflow: visible;
+	position: relative; /* Thẻ cha cần có position: relative */
+	align-items: flex-start; /* Căn trên cùng */
+}
+
+.bee-wrapper {
+	position: absolute; /* Định vị tuyệt đối */
+	top: 40px; /* 15px; Gắn sát góc trên */
+	right: -45px;
+	width: 150px; /* Kích thước hình ảnh */
+	height: auto;
+	transform: translateY(-50%); /* Căn giữa theo chiều dọc */
+	object-fit: cover; /* Để hình ảnh không bị méo */
+	opacity: 20%;
+	overflow: visible;
+	z-index: 10; /* Đảm bảo ảnh hiển thị trên các phần tử khác */
+}
+
+.bee-wrapper1 {
+	position: absolute; /* Định vị tuyệt đối */
+	/* top: 40px; 15px; Gắn sát góc trên */
+	/* right: -45px; */
+	top: 115px;
+	left: 155px;
+	width: 150px; /* Kích thước hình ảnh */
+	height: auto;
+	transform: translateY(-50%); /* Căn giữa theo chiều dọc */
+	object-fit: cover; /* Để hình ảnh không bị méo */
+	opacity: 45%;
+	overflow: visible;
+	z-index: 10; /* Đảm bảo ảnh hiển thị trên các phần tử khác */
+}
+
+.bee-wrapper2 {
+	position: absolute; /* Định vị tuyệt đối */
+	bottom: -110px; /* 15px; Gắn sát góc trên */
+	right: -30px;
+	width: 100px; /* Kích thước hình ảnh */
+	height: auto;
+	transform: translateY(-50%); /* Căn giữa theo chiều dọc */
+	object-fit: cover; /* Để hình ảnh không bị méo */
+	opacity: 20%;
+	overflow: visible;
+	z-index: 10; /* Đảm bảo ảnh hiển thị trên các phần tử khác */
+}
+
+/* =============================
+	 aeiou - DPSK
+============================= */
+
+.grid {
+	display: grid;
+	grid-template-columns: repeat(auto-fit, minmax(10px, 1fr));
+	gap: 0rem;
+	justify-items: center;
+	align-items: center;
+	justify-content: space-evenly;
+	/* padding: 20px; Thêm padding để tránh card bị cắt khi xoay */
+	overflow: visible; /* Đảm bảo card xoay không bị ẩn */
+}
+
+.card {
+	padding: 1rem;
+	border: 2px solid #A6EFF1;
+	border-radius: 20px;
+	font-weight: bold;
+	width: 65px;
+	text-align: center;
+	background: rgba(255, 255, 255, 0.5);
+	box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+	transition: transform 0.3s ease, box-shadow 0.3s ease;
+	transform-origin: center bottom; /* Điểm xoay tại đáy card */
+}
+
+/* Tạo góc xoay ngẫu nhiên cho các card */
+.card:nth-child(odd) {
+	transform: rotate(-3deg);
+}
+
+.card:nth-child(even) {
+	transform: rotate(2deg);
+}
+
+.card:nth-child(3n) {
+	transform: rotate(4deg);
+}
+
+.card:nth-child(5n) {
+	transform: rotate(-5deg);
+}
+
+/* Hiệu ứng khi hover */
+.card:hover {
+	transform: rotate(0deg) scale(1.1);
+	box-shadow: 0 8px 15px rgba(0, 0, 0, 0.2);
+	z-index: 10; /* Đảm bảo card hover nổi lên trên */
+}
+
+.text-big { 
+	font-size: 2.5rem;
+	margin-bottom: 0.5rem;
+}
+
+code { 
+	background: #f6f6f6;
+	padding: 0.2rem 0.4rem;
+	border-radius: 6px;
+}
+
+.muted { 
+	font-size: 0.9rem;
+	color: #555;
+}
+
+/* =============================
+	 Mr. Bee OSn
+============================= */
+
+.card2 {
+	margin-top: 5.0rem;
+	margin-bottom: 5.0rem;
+	padding: 0.5rem 0.5rem;
+	border: 1px solid var(--tertiary-color);
+	border-radius: 3px;
+	font-weight: normal;
+	background: rgba(255, 255, 255, 0.5);
+	box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+	transition: transform 0.3s ease, box-shadow 0.3s ease;
+	transform-origin: center bottom;
+	/* Điểm xoay tại đáy card */
+}
+
+/* Tạo góc xoay ngẫu nhiên cho các card */
+.card2:nth-child(odd) {
+	transform: rotate(-3deg);
+}
+
+.card2:nth-child(even) {
+	transform: rotate(2deg);
+}
+
+.card2:nth-child(3n) {
+	transform: rotate(4deg);
+}
+
+.card2:nth-child(5n) {
+	transform: rotate(-5deg);
+}
+
+/* Hiệu ứng khi hover */
+.card2:hover {
+	transform: rotate(0deg) scale(1.1);
+	box-shadow: 0 8px 15px rgba(0, 0, 0, 0.2);
+	z-index: 10; /* Đảm bảo card hover nổi lên trên */
+}
+
+/* =============================
+	Mobile (Responsive) · by GRK
+============================= */
+
+	@media screen and (max-width: 768px) {
+		
+		/* =============================
+		Header (Mobile)
+		============================= */
+		
+		.card2 {
+		padding-left: 0;
+		padding-right: 12px;
+		padding-top: 15px;
+		padding-bottom: 0;
+		}
+	}
+
+/* =============================
+	 Back to Top Button · by GRK
+============================= */
+
+	.back-to-top {
+		position: fixed;
+		bottom: 20px;
+		left: calc(50% - 350px - 15px); /* thò ra ngoài 15px */
+		margin-bottom: 120px; /* cách footer 20px */
+		background-image: url('/assets/images/bee2.png');
+		background-color: transparent;
+		/* background-color: var(--primary-color); Màu xanh lam*/
+		-webkit-tap-highlight-color: transparent; /* iOS Safari & Chrome */
+		-webkit-focus-ring-color: transparent;    /* Safari */
+		color: rgba(255, 255, 255, 0.5);
+		border: none;
+		outline: none;
+		border-radius: 50%;
+		width: 50px;
+		height: 50px;
+		font-size: 2.4rem;           /* 24px */
+		display: flex;
+		align-items: center;
+		justify-content: center;
+		cursor: pointer;
+			opacity: 0.3;
+			transition: opacity 0.15s ease-in-out, transform 0.15s ease-in-out;
+		background-size: cover;
+		z-index: 99;
+	}
+
+	.back-to-top.show {
+		opacity: 0.3;
+	}
+
+	.back-to-top:hover {
+		opacity: 1;
+	}
+
+	.back-to-top:active {
+		background-color: transparent;
+		outline: none; /* Xóa bỏ đường viền nổi bật (outline) */
+		transform: scale(0.92); /* chữ + nền nhỏ lại */
+	}
+
+	.back-to-top:focus {
+		outline: none;
+	}
+
+/* =============================
+	 My Blog Journey · by DPSK
+============================= */
+
+	/* Style cho tiêu đề năm - Có thể click được */
+	.year {
+		color: var(--accent-color);
+		border-bottom: 2px solid var(--tertiary-color);
+		padding-bottom: 0.75rem;
+		margin-top: 2rem;
+		cursor: pointer; /* Biến con trỏ thành bàn tay */
+		display: flex;
+		justify-content: space-between;
+		align-items: center;
+		font-size:  18px;
+		font-weight: 400;
+		font-weight: bold;
+	}
+
+	/* Thêm dấu "+" hoặc "-" bên cạnh năm */
+	.year::after {
+		content: "−"; /* Dấu "trừ" mặc định (nội dung đang hiển thị) */
+		font-size: 1.8rem;
+		color: var(--tertiary-color);
+	}
+
+	/* Khi năm bị thu gọn, đổi thành dấu "+" */
+	.year.collapsed::after {
+		content: "+";
+	}
+
+	/* Ẩn danh sách tháng của các năm bị thu gọn */
+	.year.collapsed + .month-list {
+		display: none;
+	}
+
+	.month-list {
+		list-style-type: none;
+		padding-left: 0;
+		margin-top: 1rem;
+	}
+
+	.month-list li {
+		padding: 0.8rem 0;
+		border-bottom: 1px dashed var(--tertiary-color);
+		transition: background-color 0.2s ease;
+	}
+
+	/* .month-list li:hover {
+		background-color: var(--tertiary-color);
+	} */
+
+	.month-list li:last-child {
+		border-bottom: none;
+	}
+
+	.month {
+		font-weight: 600;
+		color: black;
+		/* display: inline-block; */
+		min-width: 85px;
+	}
+
+/* =============================
+	Table · by DPSK
+============================= */
+
+.table-container {
+	background-color: rgba(245, 245, 245, 0.5);
+	border-radius: 4px;
+	box-shadow: 0 2px 4px rgba(0, 0, 0, 0.15);
+	padding: 1.5rem;
+	overflow: hidden;
+}
+
+table {
+	width: 100%;
+	border-collapse: collapse;
+	font-size: 1.6rem;
+	/* box-shadow: 0 5px 15px rgba(0, 0, 0, 0.05); */
+}
+
+th, td {
+	padding: 1.6rem 2.0rem;
+	text-align: left;
+	border-bottom: 1px dashed var(--tertiary-color);
+}
+
+th {
+	/* background-color: var(--primary-color); */
+	/* color: rgba(255, 255, 255, 0.5); */
+	font-weight: 600;
+	text-align: center;
+}
+
+th:nth-child(1) {
+	background-color: var(--tertiary-color); /* Màu cho tiêu đề cột giá tiền */
+}
+
+th:nth-child(2) {
+	background-color: var(--tertiary-color); /* Màu cho tiêu đề cột giá tiền */
+}
+
+th:nth-child(3) {
+	background-color: var(--tertiary-color); /* Màu cho tiêu đề cột giá tiền */
+}
+
+th:nth-child(4) {
+	background-color: var(--tertiary-color); /* Màu cho tiêu đề cột giá tiền */
+}
+
+th:nth-child(5) {
+	background-color: var(--tertiary-color); /* Màu cho tiêu đề cột giá tiền */
+}
+
+th:nth-child(6) {
+	background-color: var(--tertiary-color); /* Màu cho tiêu đề cột giá tiền */
+}
+
+/* Tô màu cho toàn bộ cột thứ 1 */
+td:nth-child(1) {
+	/* background-color: rgba(255, 255, 255, 0.5); */
+	/* font-weight: 600; */
+	/* color: var(--accent-color); */
+	text-align: left;
+}
+
+/* tr:nth-child(even) {
+	background-color: #f9f9f9;
+} */
+
+tr:hover {
+	background-color: var(--tertiary-color);
+	transition: background-color 0.3s ease;
+}
+
+/* Hiệu ứng khi di chuột vào ô ở cột thứ 3 */
+td:nth-child(1):hover {
+	background-color: var(--tertiary-color);
+	transform: scale(1.02);
+	transition: all 0.2s ease;
+}
+td:nth-child(2):hover {
+	background-color: var(--tertiary-color);
+	transform: scale(1.02);
+	transition: all 0.2s ease;
+}
+
+td:nth-child(3):hover {
+	background-color: var(--tertiary-color);
+	transform: scale(1.02);
+	transition: all 0.2s ease;
+}
+
+td:nth-child(4):hover {
+	background-color: var(--tertiary-color);
+	transform: scale(1.02);
+	transition: all 0.2s ease;
+}
+
+td:nth-child(5):hover {
+	background-color: var(--tertiary-color);
+	transform: scale(1.02);
+	transition: all 0.2s ease;
+}
+
+td:nth-child(6):hover {
+	background-color: var(--tertiary-color);
+	transform: scale(1.02);
+	transition: all 0.2s ease;
+}
+
+/* =============================
+	Searchbar · by DPSK
+============================= */
+
+/* .table-search {
+	background-color: rgba(245, 245, 245, 0.5);
+	border-radius: 4px;
+	box-shadow: 0 2px 4px rgba(0, 0, 0, 0.15);
+	padding: 0rem 1.5rem 0rem;
+	overflow: hidden;
+	margin-top: 6rem;
+} */
+
+.blog-container {
+	max-width: 700px;
+	margin-top: 1.0rem;
+	margin-bottom: 5.0rem;
+	width: 100%;
+}
+
+.search-bar input,
+.search-btn,
+.clear-btn {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	box-sizing: border-box;
+	height: 60px; /* hoặc giá trị cố định bạn muốn */
+	line-height: 1;
+	vertical-align: middle;
+	background-color: transparent;
+	-webkit-tap-highlight-color: transparent; /* iOS Safari & Chrome */
+	-webkit-focus-ring-color: transparent;    /* Safari */
+}
+
+.search-bar {
+	display: flex;
+	margin-top: 3rem;
+	align-items: center;
+	justify-content: center;
+	flex-wrap: wrap;
+	border-radius: 0px;
+}
+
+.search-bar input {
+	flex: 1;
+	padding: 1.0rem;
+	border: none;
+	/* border-bottom: 1px solid var(--secondary-color); */
+	border-radius: 0px;
+	background-color: transparent;
+	font-size: 2.4rem;
+	font-family: Bellota Text, sans-serif;
+	color: var(--primary-color-50);
+	text-align: center;
+}
+
+.search-bar input:focus {
+	outline: none;
+	/* border-bottom: 1px solid var(--secondary-color); */
+	border-radius: 0px;
+}
+
+.search-btn, .clear-btn {
+	padding: 1rem 1.25rem;
+	border: none;
+	/* border-bottom: 1px solid var(--secondary-color); */
+	cursor: pointer;
+	transition: background-color 0.3s;
+	font-size: 1.8rem;
+	font-family: Bellota Text, sans-serif;
+}
+
+.search-btn {
+	/* background: #007bff; */
+	/* color: rgba(255, 255, 255, 0.5); */
+	background-color: transparent;
+	padding: 1rem 1.25rem;
+}
+
+/* .search-btn:hover {
+	background: #0056b3;
+} */
+
+/* .clear-btn.visible {
+  opacity: 1;
+  pointer-events: auto;
+} */
+
+
+.clear-btn {
+	opacity: 1;
+	pointer-events: auto;
+	background-color: transparent;
+	color: var(--secondary-color);
+	/* border-bottom: 1px solid var(--secondary-color); */
+}
+
+
+/* .clear-btn:hover {
+	background: #545b62;
+} */
+
+.welcome-message {
+	text-align: center;
+	padding: 40px;
+	color: #666;
+	font-size: 18px;
+	background: #f8f9fa;
+	border-radius: 8px;
+}
+
+.no-results {
+	text-align: center;
+	padding: 40px;
+	color: #999;
+	font-size: 16px;
+	background: var(--secondary-color);
+	border-radius: 8px;
+}
+
+.results-count,
+.default-message {
+	color: #666;
+	margin-top: 1.5rem;
+	margin-bottom: 5.0rem;
+}
+
+.post-card {
+	background-color: rgba(255, 255, 255, 0.5); /* #f8f9fa; */
+	padding: 2.0rem;
+	margin: 2.0rem 0;
+	border-radius: 0px;
+	border-left: 6px solid var(--secondary-color);
+	box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.post-card h2 {
+	margin-top: 0;
+	color: #333;
+}
+
+.post-date {
+	color: #666;
+	font-size: 1.8rem;
+	margin-top: 0.5rem;
+}
+
+.post-category {
+	font-size: 1.8rem;
+	background-color: var(--tertiary-color); /* Teal rất nhạt*/
+	color: #333;
+	padding: 0px 4px;
+	border-radius: 3px;
+	box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+	width: fit-content;
+	margin-bottom: 1.5rem;
+}
+
+.pagination {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+  margin-top: 20px;
+}
+
+.pagination-btn {
+  padding: 8px 16px;
+  border: 1px solid var(--tertiary-color);
+  background: var(--tertiary-color);
+  cursor: pointer;
+  border-radius: 4px;
+	font-family: Bellota, sans-serif;
+}
+
+.pagination-btn:hover:not(:disabled) {
+  background: var(--tertiary-color);
+}
+
+.pagination-btn:disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+}
+
+.pagination-btn.active {
+  background: var(--tertiary-color);
+  color: white;
+  border-color: var(--tertiary-color);
+}
+
+/* =============================
+	 Topic
+============================= */
+
+.flex-container {
+	display: flex;
+	flex-direction: row;
+	justify-items: center;
+	align-items: start;
+	gap: 2rem;
+	flex-wrap: wrap;
+	justify-content: space-around;
+}
+
+.flex-container > div:only-child {
+		flex: 0 0 50%;
+		margin-left: -50%; /* đẩy ra giữa bên trái */
+}
+
+.topic-container {
+		background-color: rgba(245, 245, 245, 0.5);
+		border-radius: 2px;
+		box-shadow: 0 2px 4px rgba(0, 0, 0, 0.15);
+		padding: 0.5rem;
+		overflow: hidden;
+}
+
+.flex-topic {
+	display: flex;
+	gap: 0.5rem;
+	justify-items: center;
+	align-items: center;
+	flex-wrap: wrap;
+	justify-content: space-evenly;
+}
+
+/* =============================
+	 Vocabulary
+============================= */
+
+.vocabulary-container {
+	display: flex;
+	flex-direction: row;
+	justify-items: center;
+	align-items: start;
+	gap: 2rem;
+	flex-wrap: wrap;
+	justify-content: left;
+}
+
+.vocabulary-container > div:only-child {
+		flex: 0 0 50%;
+		margin-left: -50%; /* đẩy ra giữa bên trái */
+}
+
+.sub-box {
+	background-color: rgba(255, 255, 255, 0.5);
+	border-radius: 2px;
+	box-shadow: 0 2px 4px rgba(0, 0, 0, 0.15);
+	padding: 0.5rem;
+	overflow: hidden;
+	flex: 1; /* Makes both columns take up equal available space */
+	width: 50rem;
+	flex-wrap: wrap;
+	word-break: break-word;
+	flex: 0 0 calc((100% - 2rem) / 2); /* Tổng khoảng cách giữa 3 hộp là 2rem × 1 = 2rem */
+	flex-direction: column;
+}
+
+.sub-box-fix {
+	background-color: rgba(255, 255, 255, 0.5);
+	border-radius: 2px;
+	box-shadow: 0 2px 4px rgba(0, 0, 0, 0.15);
+	padding: 0.5rem;
+	overflow: hidden;
+	flex: 1; /* Makes both columns take up equal available space */
+	width: 50rem;
+	flex-wrap: wrap;
+	word-break: break-word;
+	flex: 0 0 calc((100% - 4rem) / 3); /* Tổng khoảng cách giữa 3 hộp là 2rem × 2 = 4rem */
+	flex-direction: column;
+}
+
+.sub-box-fix-2 {
+	background-color: rgba(255, 255, 255, 0.5);
+	border-radius: 2px;
+	box-shadow: 0 2px 4px rgba(0, 0, 0, 0.15);
+	padding: 0.5rem;
+	overflow: hidden;
+	flex: 1; /* Makes both columns take up equal available space */
+	width: 50rem;
+	flex-wrap: wrap;
+	word-break: break-word;
+	flex: 0 0 calc((100% - 2rem) / 2); /* Tổng khoảng cách giữa 2 hộp là 2rem × 1 = 2rem */
+	flex-direction: column;
+}
+
+.sub-box ul,
+.sub-box-fix ul,
+.sub-box-fix-2 ul {
+		list-style-position: outside;
+		padding-left: 30px;
+}
+
+.sub-box li,
+.sub-box-fix li,
+.sub-box-fix-2 li {
+  	display: list-item; /* giữ kiểu danh sách */
+  
+}
+
+.li-content {
+  	display: flex;
+}
+
+/* =============================
+	 Viewcount
+============================= */
+
+.viewcounter {
+	display: flex;
+	justify-items: center;
+	align-items: center;
+	justify-content: flex-start;
+	font-size: 1.4rem;
+	margin-top: 5rem;
+}
+
+.post-date {
+	display: flex;
+	justify-items: center;
+	align-items: center;
+	text-align: center;
+	font-size: 1.4rem;
+}
+
+.eye-icon {
+	display: flex;
+	justify-items: center;
+	align-items: center;
+	text-align: center;
+	padding-left: 5px;
+	padding-right: 3px;
+	font-size: 1.4rem;
+}
+
+/* =============================
+	 Like Button
+============================= */
+
+.like-container {
+		display: flex;
+		justify-items: center;
+		align-items: center;
+}
+
+.like-button {
+	display: flex;
+	justify-items: center;
+	align-items: center;
+	font-size: 1.4rem;
+	cursor: pointer;
+	transition: all 0.3s ease;
+	font-size: 16px;
+	z-index: 1;
+	border: none;
+	background-color: transparent;
+	color: #666;
+	-webkit-tap-highlight-color: transparent; /* iOS Safari & Chrome */
+	-webkit-focus-ring-color: transparent;    /* Safari */
+}
+
+/* .like-button.animating {
+	transform: scale(1.1);
+} */
+
+.heart {
+	display: flex;
+	justify-items: center;
+	align-items: center;
+	font-size: 13px;
+	padding-left: 5px;
+	padding-right: 3px;
+	transition: transform 0.15s ease-in-out; /* mượt khi nhấn */
+}
+
+.heart:active {
+		transform: scale(0.92); /* co chữ + nền */
+}
+
+.like-button.animating .heart {
+	animation: heartBeat 0.3s ease-in-out;
+}
+
+.likes-count {
+		display: flex;
+		justify-items: center;
+		align-items: center;
+		font-family: 'Bellota Text', sans-serif;
+		font-size: 1.4rem;
+}
+
+@keyframes heartBeat {
+	0% { transform: scale(1); }
+	50% { transform: scale(1.3); }
+	100% { transform: scale(1); }
+}
+
+/* Particles animation */
+.particles {
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	pointer-events: none;
+}
+
+.particle {
+	position: absolute;
+	font-size: 12px;
+	animation: particleFloat 1s ease-out forwards;
+}
+
+@keyframes particleFloat {
+	0% {
+		opacity: 1;
+		transform: translate(0, 0) scale(1);
+	}
+	100% {
+		opacity: 0;
+	transform: 
+		translate(
+		0px,
+		-100px
+		)
+		scale(0);
+	}
+}
+
+/* =============================
+	 Details / summary
+============================= */
+
+details {
+	/* margin-bottom: 1rem; */
+	/* border: 1px solid #e2e8f0; */
+	/* border-radius: var(--radius); */
+	overflow: hidden;
+	transition: var(--transition);
+	/* background: white; */
+	line-height: normal;
+	font-family: Bellota Text, sans-serif;
+}
+
+/* details:hover {
+	border-color: var(--primary);
+	box-shadow: 0 4px 12px rgba(37, 99, 235, 0.1);
+} */
+
+/* details[open] {
+	border-color: var(--primary);
+	box-shadow: var(--shadow);
+} */
+
+/* details[open] summary::after {
+	content: '▲';
+	color: var(--primary);
+} */
+
+/* details[open] summary {
+	background: var(--primary);
+	color: white;
+} */
+
+/* details[open] summary:hover {
+	background: var(--primary-dark);
+} */
+
+.details-content {
+	/* padding: 1.5rem; */
+	/* background: white; */
+	/* border-top: 1px solid #e2e8f0; */
+	animation: fadeIn 0.4s ease-out;
+}
+
+summary {
+	padding-bottom: 1.5rem;
+	cursor: pointer;
+	/* font-weight: 600; */
+	/* color: var(--dark); */
+	/* background: linear-gradient(to right, #f8fafc, #f1f5f9); */
+	transition: var(--transition);
+	list-style: none;
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	user-select: none;
+	-webkit-tap-highlight-color: transparent; /* iOS Safari & Chrome */
+	-webkit-focus-ring-color: transparent;    /* Safari */
+}
+
+/* summary:hover {
+	background: linear-gradient(to right, #f1f5f9, #e2e8f0);
+	color: var(--primary);
+} */
+
+summary::after {
+	/* content: '▼';
+	font-size: 1rem; */
+	/* color: var(--secondary-color); */
+	transition: var(--transition);
+	/* margin-left: 1rem; */
+}
+
+@keyframes fadeIn {
+	from { opacity: 0; transform: translateY(-10px); }
+	to { opacity: 1; transform: translateY(0); }
+}
+
+/* SVOMPT pill row */
+  .pill-row {
+    display: flex;
+    align-items: center;
+    gap: 4px;
+    flex-wrap: wrap;
+    margin: 32px 0;
+  }
+ 
+  .pill {
+    padding: 6px 16px;
+    border-radius: 20px;
+    /* font-size: 13px; */
+    font-weight: 500;
+    letter-spacing: 0.02em;
+  }
+ 
+  .pill.teal { background: rgba(166, 239, 241, 0.5);}
+	.pill.s { background: #eeedfe; color: #3c3489; }
+  .pill.v { background: #e1f5ee; color: #0f6e56; }
+  .pill.o { background: #faece7; color: #712b13; }
+  .pill.m { background: #faeeda; color: #633806; }
+  .pill.p { background: #e6f1fb; color: #0c447c; }
+  .pill.t { background: #f1efe8; color: #444441; }
+ 
+  .pill-arrow {
+    color: var(--ink-muted);
+    font-size: 14px;
+  }
+
+	/* Example sentence */
+  .example {
+    margin: 32px 0;
+    padding: 24px 28px;
+    background: rgba(235, 235, 235, 0.5);
+    border-radius: 6px;
+    border: 1px solid var(--rule);
+  }
+ 
+  .example-label {
+    /* font-size: 11px; */
+    font-weight: 500;
+    /* letter-spacing: 0.12em; */
+    /* text-transform: uppercase; */
+    /* color: var(--ink-muted); */
+    margin-bottom: 12px;
+  }
+ 
+  .example-sentence {
+    /* font-family: 'Lora', serif; */
+    /* font-size: 19px; */
+    line-height: 1.7;
+    color: var(--ink);
+  }
+ 
+  .example-sentence .teal { color: rgba(1, 172, 193, 1); }
+	.example-sentence .s { color: #534ab7; }
+  .example-sentence .v { color: #0f6e56; }
+  .example-sentence .o { color: #993c1d; }
+  .example-sentence .m { color: #854f0b; }
+  .example-sentence .p { color: #185fa5; }
+  .example-sentence .t { color: #5f5e5a; }

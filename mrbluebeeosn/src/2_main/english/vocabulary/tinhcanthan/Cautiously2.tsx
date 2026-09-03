@@ -1,0 +1,138 @@
+import React from 'react';
+import { Link } from "react-router-dom";
+import { HashLink } from 'react-router-hash-link';
+import EyeIcon from '@/components/view/EyeIcon';
+import ViewCounter from '@/components/view/ViewCounter';
+import LikeButton from '@/components/like/LikeButton';
+
+export default function CAUtiously2(): React.JSX.Element {
+
+  const postId = "CAUtiously2";
+
+  return (<>
+
+  <main className="image image2">
+
+    <article>
+    
+      <h4><HashLink smooth to="/vocabulary#adverbs-can-than"><mark className="highlight-tertiary-padding-4-8">ADverbs: cẩn thận</mark></HashLink></h4>
+      
+      <h1 className="margin-y-50 text-center">CAUtiously
+        <sup>
+          <Link to="/vocabulary/CAUtiously-1">&nbsp;1&nbsp;</Link>
+        </sup>
+        <sup>
+          <Link to="/vocabulary/CAUtiously-2">&nbsp;2&nbsp;</Link>
+        </sup>
+      </h1>
+
+      {/* This is the content of Vocabulary Term. */}
+
+      <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>CAUtiously</strong>" (một cách thận trọng) và các cụm từ hay đi kèm nhé.</p>
+
+      <div className="text-border1 padding-10 highlight-238-padding-4-8 bee-container">
+
+        <div>
+
+          <p className="margin-y-10">
+            
+            <span className="highlight-255-padding-3-6">
+              
+              [CAUtiously][<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">CÅU tiơus ly</Link>] /ˈkɔː.ʃəs.li/ ⬤•• (3x)
+              
+            </span>
+              
+            &nbsp;thường được dùng để mô tả một hành động được thực hiện với sự cẩn thận, dè dặt và chú ý đến những nguy hiểm hoặc vấn đề tiềm ẩn.
+
+          </p>
+
+        </div>
+
+        <div className="bee-wrapper2">
+          <img src="/assets/images/bee2.png" alt="Mr. Bee Osn"/>
+        </div>
+
+      </div>
+
+      <ol className="margin-top-30 padding-left-30">
+
+        <li value="1">the CAT CAUtiously apPROACHed the unfaMILiar OBject.</li>
+        <li className="list-none margin-bottom-20">Con mèo thận trọng tiếp cận vật thể lạ.</li>
+
+        <li value="2">he CAUtiously MOVED through the DARK ROOM, FEEling for OBstacles.</li>
+        <li className="list-none margin-bottom-20">Anh ấy thận trọng di chuyển trong căn phòng tối, dò dẫm tìm vật cản.</li>
+
+        <li value="3">she CAUtiously SPOKE about the SENsitive TOPic.</li>
+        <li className="list-none margin-bottom-20">Cô ấy thận trọng nói về chủ đề nhạy cảm.</li>
+
+        <li value="4">the SCIentist CAUtiously exAMined the unKNOWN SUBstance.</li>
+        <li className="list-none margin-bottom-20">Nhà khoa học thận trọng kiểm tra chất lạ.</li>
+
+        <li value="5">they CAUtiously proCEEDed with the negotiAtions.</li>
+        <li className="list-none margin-bottom-20">Họ thận trọng tiến hành các cuộc đàm phán.</li>
+
+        <li value="6">he CAUtiously inVESTed a SMALL PORtion of his SAvings.</li>
+        <li className="list-none margin-bottom-20">Anh ấy thận trọng đầu tư một phần nhỏ số tiền tiết kiệm của mình.</li>
+
+        <li value="7">the CHILD CAUtiously apPROACHed the EDGE of the CLIFF.</li>
+        <li className="list-none margin-bottom-20">Đứa trẻ thận trọng tiếp cận mép vách đá.</li>
+
+        <li value="8">she CAUtiously Opened the CREAKing DOOR.</li>
+        <li className="list-none margin-bottom-20">Cô ấy thận trọng mở cánh cửa kêu cót két.</li>
+
+        <li value="9">he CAUtiously TAsted the unfaMILiar DISH.</li>
+        <li className="list-none margin-bottom-20">Anh ấy thận trọng nếm món ăn lạ.</li>
+
+        <li value="10">they CAUtiously aGREED to the proPOsal, with SEVERal conDITions.</li>
+        <li className="list-none margin-bottom-20">Họ thận trọng đồng ý với đề xuất, kèm theo một vài điều kiện.</li>
+
+      </ol>
+
+      <p>** Các cụm từ trên đều mô tả một hành động được thực hiện với sự cẩn thận, dè dặt và chú ý đến những nguy hiểm hoặc vấn đề tiềm ẩn.</p>
+
+      {/* =============================
+            Lưu ý:
+      ============================= */}
+
+      <div className="margin-y-30 text-border1 table-container">
+
+        <h3 className="margin-y-30 text-center">Lưu ý:</h3>
+
+        <ul className="list-square">
+
+          <li>"<strong>CAUtiously</strong>" thường đứng trước hành động để bổ nghĩa.</li>
+
+          <li className="margin-bottom-20">Từ này mang nghĩa về phương thức thận trọng.</li>
+
+        </ul>
+
+      </div>
+
+      <p className="margin-top-50">Hy vọng những thông tin này hữu ích cho bạn! 🐝</p>
+
+      <div className="viewcounter">
+      
+        <div className="post-date no-margin">
+          <span>May 12, 2025 · by 💎GEM ·</span>
+        </div>
+
+        <div className="eye-icon no-margin">
+          <EyeIcon />
+        </div>
+
+        <div className="post-date no-margin">
+          <ViewCounter postId={postId} />
+        </div>
+
+        <div className="like-button no-margin">
+          <LikeButton postId={postId} />
+        </div>
+
+      </div>
+
+    </article>
+    
+  </main>
+
+  </>);
+}

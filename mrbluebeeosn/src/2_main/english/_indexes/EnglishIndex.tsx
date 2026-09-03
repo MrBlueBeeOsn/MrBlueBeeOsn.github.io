@@ -1,0 +1,477 @@
+import React from 'react';
+import { Link } from "react-router-dom";
+import { HashLink } from 'react-router-hash-link';
+import EnglishTopic from '@/components/topic/EnglishTopic';
+import SearchComponent from '@/components/search/SearchComponent';
+import VideoSearch2 from '@/components/video/test/VideoSearch2';
+
+export default function EnglishIndex(): React.JSX.Element {
+  return (<>
+     
+  <main className="image image1 content">
+
+    <article>
+
+      {/* =============================
+          English Topic
+      ============================= */}
+              
+        <EnglishTopic/>
+
+      {/* =============================
+          1. English Learning Terms
+      ============================= */}
+      
+      <h3 className="margin-y-50 text-center" id="english-learning-terms">English Learning Terms</h3>
+
+      <div className="table-search margin-bottom-50">
+                        
+        <SearchComponent />
+        
+        {/* <VideoSearch2 /> */}
+                          
+      </div>
+
+      <div className="vocabulary-container">
+      
+        {/* =============================
+              English Quiz
+        ============================= */}
+
+        <details className="sub-box-fix-2">
+      
+          <summary id="english-basic-practice"><mark className="highlight-secondary-padding-2-4">Quiz</mark></summary>
+
+          <ul className="list-border1">
+
+            <li>
+              <div className="li-content">
+                <Link to="/english/english-multiple-choice">English Multiple Choice</Link>
+              </div>
+            </li>
+
+            <li>
+              <div className="li-content">
+                <Link to="/english/mixed-english-grammar-&-vocabulary">Mixed English Grammar & Vocabulary</Link>
+              </div>
+            </li>
+            
+          </ul>
+
+        </details>
+
+        {/* =============================
+              IELTS Quiz
+        ============================= */}
+
+        <details className="sub-box-fix-2">
+      
+          <summary id="ielts-basic-practice"><mark className="highlight-secondary-padding-2-4">IELTS</mark></summary>
+
+          <ul className="list-border1">
+
+            <li>
+              <div className="li-content">
+                <Link to="/english/ielts-questions">IELTS Multiple-Choice Questions</Link>
+              </div>
+            </li>
+
+           
+            
+          </ul>
+
+        </details>
+
+        {/* =============================
+              TOEIC Quiz
+        ============================= */}
+
+        <details className="sub-box-fix-2">
+      
+          <summary id="toeic-basic-practice"><mark className="highlight-secondary-padding-2-4">TOEIC</mark></summary>
+
+          <ul className="list-border1">
+
+            <li>
+              <div className="li-content">
+                <Link to="/english/toeic-practice">TOEIC Practice</Link>
+              </div>
+            </li>
+
+           
+            
+          </ul>
+
+        </details>
+
+        {/* =============================
+              TOEIC Quiz
+        ============================= */}
+
+        <details className="sub-box-fix-2">
+      
+          <summary id="phrasal-verbs-basic-practice"><mark className="highlight-secondary-padding-2-4">Phrasal Verbs</mark></summary>
+
+          <ul className="list-border1">
+
+            <li>
+              <div className="li-content">
+                <Link to="/english/phrasal-verbs-questions">Phrasal Verbs Questions</Link>
+              </div>
+            </li>
+
+           
+            
+          </ul>
+
+        </details>
+
+        {/* =============================
+              Gerunds andInfinitives Quiz
+        ============================= */}
+
+        <details className="sub-box-fix-2">
+      
+          <summary id="ving-tov-basic-practice"><mark className="highlight-secondary-padding-2-4">Gerunds and Infinitives</mark></summary>
+
+          <ul className="list-border1">
+
+            <li>
+              <div className="li-content">
+                <Link to="/english/gerunds-and-infinitives-quiz">Gerunds and Infinitives Quiz</Link>
+              </div>
+            </li>
+
+           
+            
+          </ul>
+
+        </details>
+
+        {/* =============================
+              Subject-Verb Agreement Quiz
+        ============================= */}
+
+        <details className="sub-box-fix-2">
+      
+          <summary id="en-subject-verb-agreement-basic-practice"><mark className="highlight-secondary-padding-2-4">Subject-Verb Agreement</mark></summary>
+
+          <ul className="list-border1">
+
+            <li>
+              <div className="li-content">
+                <Link to="/english/en-subject-verb-quiz">Subject-Verb Agreement Quiz</Link>
+              </div>
+            </li>
+
+           
+            
+          </ul>
+
+        </details>
+
+        {/* =============================
+              Primary Auxiliary Verbs Quiz
+        ============================= */}
+
+        <details className="sub-box-fix-2">
+      
+          <summary id="primary-auxiliary-verbs-quiz"><mark className="highlight-secondary-padding-2-4">Primary Auxiliary Verbs</mark></summary>
+
+          <ul className="list-border1">
+
+            <li>
+              <div className="li-content">
+                <Link to="/english/primary-auxiliary-verbs-quiz">Primary Auxiliary Verbs Quiz</Link>
+              </div>
+            </li>
+
+           
+            
+          </ul>
+
+        </details>
+
+        {/* =============================
+              EN Auxiliary Verbs Quiz
+        ============================= */}
+
+        <details className="sub-box-fix-2">
+      
+          <summary id="en-auxiliary-verbs-basic-practice"><mark className="highlight-secondary-padding-2-4">Auxiliary Verbs</mark></summary>
+
+          <ul className="list-border1">
+
+            <li>
+              <div className="li-content">
+                <Link to="/english/en-auxiliary-verbs-quiz">Auxiliary Verbs Quiz</Link>
+              </div>
+            </li>
+
+           
+            
+          </ul>
+
+        </details>
+
+        {/* =============================
+              Singular and Plural Verbs Quiz
+        ============================= */}
+
+        <details className="sub-box-fix-2">
+      
+          <summary id="singular-and-plural-verbs-quiz"><mark className="highlight-secondary-padding-2-4">Singular and Plural Verbs</mark></summary>
+
+          <ul className="list-border1">
+
+            <li>
+              <div className="li-content">
+                <Link to="/english/singular-and-plural-verbs-quiz">Singular and Plural Verbs Quiz</Link>
+              </div>
+            </li>
+
+           
+            
+          </ul>
+
+        </details>
+
+        {/* =============================
+              Singular and Plural Nouns Quiz
+        ============================= */}
+
+        <details className="sub-box-fix-2">
+      
+          <summary id="singular-and-plural-nouns-quiz"><mark className="highlight-secondary-padding-2-4">Singular and Plural Nouns</mark></summary>
+
+          <ul className="list-border1">
+
+            <li>
+              <div className="li-content">
+                <Link to="/english/singular-and-plural-nouns-quiz">Singular and Plural Nouns Quiz</Link>
+              </div>
+            </li>
+
+           
+            
+          </ul>
+
+        </details>
+
+        {/* =============================
+              Prepositions Quiz
+        ============================= */}
+
+        <details className="sub-box-fix-2">
+      
+          <summary id="prepositions-quiz"><mark className="highlight-secondary-padding-2-4">Prepositions</mark></summary>
+
+          <ul className="list-border1">
+
+            <li>
+              <div className="li-content">
+                <Link to="/english/prepositions-quiz">Prepositions Quiz</Link>
+              </div>
+            </li>
+
+           
+            
+          </ul>
+
+        </details>
+
+        {/* =============================
+              S And Es In Nouns Verbs Quiz
+        ============================= */}
+
+        <details className="sub-box-fix-2">
+      
+          <summary id="s-and-es-in-nouns-and-verbs-quiz"><mark className="highlight-secondary-padding-2-4">S And Es In Nouns Verbs</mark></summary>
+
+          <ul className="list-border1">
+
+            <li>
+              <div className="li-content">
+                <Link to="/english/s-and-es-in-nouns-and-verbs-quiz">S And Es In Nouns Verbs Quiz</Link>
+              </div>
+            </li>
+
+           
+            
+          </ul>
+
+        </details>
+
+        {/* =============================
+              Articles Quiz
+        ============================= */}
+
+        <details className="sub-box-fix-2">
+      
+          <summary id="articles-quiz"><mark className="highlight-secondary-padding-2-4">Articles</mark></summary>
+
+          <ul className="list-border1">
+
+            <li>
+              <div className="li-content">
+                <Link to="/english/articles-quiz">Articles Quiz</Link>
+              </div>
+            </li>
+
+           
+            
+          </ul>
+
+        </details>
+
+        {/* =============================
+              Paraphrasing Techniques Quiz
+        ============================= */}
+
+        <details className="sub-box-fix-2">
+      
+          <summary id="paraphrasing-techniques-quiz"><mark className="highlight-secondary-padding-2-4">Paraphrasing Techniques</mark></summary>
+
+          <ul className="list-border1">
+
+            <li>
+              <div className="li-content">
+                <Link to="/english/paraphrasing-techniques-quiz">Paraphrasing Techniques Quiz</Link>
+              </div>
+            </li>
+
+           
+            
+          </ul>
+
+        </details>
+
+        {/* =============================
+              Dependent Clauses Quiz
+        ============================= */}
+
+        <details className="sub-box-fix-2">
+      
+          <summary id="dc-quiz"><mark className="highlight-secondary-padding-2-4">DC</mark></summary>
+
+          <ul className="list-border1">
+
+            <li>
+              <div className="li-content">
+                <Link to="/english/adjective-clauses-quiz">Adjective - DC Quiz</Link>
+              </div>
+            </li>
+
+            <li>
+              <div className="li-content">
+                <Link to="/english/adverb-clauses-quiz">Adverb - DC Quiz</Link>
+              </div>
+            </li>
+
+            <li>
+              <div className="li-content">
+                <Link to="/english/noun-clauses-quiz">Noun - DC Quiz</Link>
+              </div>
+            </li>
+
+            <li>
+              <div className="li-content">
+                <Link to="/english/dc-quiz">DC Quiz</Link>
+              </div>
+            </li>
+
+           
+            
+          </ul>
+
+        </details>
+
+        {/* =============================
+              Matrix Quiz
+        ============================= */}
+
+        <details className="sub-box-fix-2">
+      
+          <summary id="matrix-quiz"><mark className="highlight-secondary-padding-2-4">Matrix</mark></summary>
+
+          <ul className="list-border1">
+
+            <li>
+              <div className="li-content">
+                <Link to="/english/matrix-quiz">Matrix Quiz</Link>
+              </div>
+            </li>
+
+            <li>
+              <div className="li-content">
+                <Link to="/english/bookkeeping-matrix-quiz">Bookkeeping Matrix</Link>
+              </div>
+            </li>
+
+            
+
+           
+            
+          </ul>
+
+        </details>
+
+        
+
+
+
+
+      </div>
+
+      <div className="flex-container margin-top-20">
+
+        <div className="sub-box">
+        
+          {/* =============================
+              English Terms
+          ============================= */}
+
+          <ul className="list-border1">
+
+            <li>
+              <div className="li-content">
+                <Link to="/english/what-is-english?">English</Link>
+              </div>
+            </li>
+
+            <li>
+              <div className="li-content">
+                <Link to="/english/what-is-the-english-language?">The English language</Link>
+              </div>
+            </li>
+            
+          </ul>
+
+        </div>
+
+        <div className="sub-box">
+        
+          {/* =============================
+              English Teacher
+          ============================= */}
+
+          <ul className="list-border1">
+
+            <li>
+              <div className="li-content">
+                <Link to="/english/what-is-an-english-teacher?">English Teacher</Link>
+              </div>
+            </li>
+            
+          </ul>
+
+        </div>
+
+      </div>
+
+    </article>
+    
+  </main>
+
+  </>);
+}

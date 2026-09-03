@@ -1,0 +1,184 @@
+{
+	"posts": [
+		{ 
+			"id": "BayDauPhuPhienAmTiengAnh1",
+			"categoryDisplay": "Tiếng Anh",
+			"categorySlug": "tieng-anh",
+			"title": "7 dấu phụ phiên âm tiếng Anh 1", 
+			"content": "Học phát âm tiếng Anh bằng IPA quốc tế đôi khi khó nhớ và xa lạ với người Việt. Vì vậy, ta có thể tạo một hệ thống dựa trên 7 loại dấu phụ quen thuộc trong tiếng Việt để thay thế IPA, giúp dễ học, dễ liên tưởng và ghi nhớ lâu.",
+			"slug": "tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1",
+			"date": "2025-09-12"
+		},
+		{ 
+			"id": "BayDauPhuPhienAmTiengAnh2",
+			"categoryDisplay": "Tiếng Anh",
+			"categorySlug": "tieng-anh",
+			"title": "7 dấu phụ phiên âm tiếng Anh 2", 
+			"content": "Tiếng Anh có nhiều nguyên âm mà chữ cái thông thường (a, e, i, o, u) không thể hiện hết. Để học nhanh và dễ nhớ, ta dùng 7 dấu phụ kết hợp với 1 dạng mặc định (không dấu) để biểu thị cách phát âm.",
+			"slug": "tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-2",
+			"date": "2025-09-12"
+		},
+		{ 
+			"id": "NguyenAmDon",
+			"categoryDisplay": "Tiếng Anh",
+			"categorySlug": "tieng-anh",
+			"title": "Nguyên âm đơn",
+			"content": "📌 BẢNG TỔNG HỢP NGUYÊN ÂM ĐƠN",
+			"slug": "tieng-anh/nguyen-am-don",
+			"date": "2025-09-12"
+		},
+		{ 
+			"id": "NguyenAmDoi",
+			"categoryDisplay": "Tiếng Anh",
+			"categorySlug": "tieng-anh",
+			"title": "Nguyên âm đôi",
+			"content": "📌 BẢNG TỔNG HỢP NGUYÊN ÂM ĐÔI",
+			"slug": "tieng-anh/nguyen-am-doi",
+			"date": "2025-09-12"
+		},
+		{ 
+			"id": "SapXepCumDanhTuTiengAnh",
+			"categoryDisplay": "Tiếng Anh",
+			"categorySlug": "tieng-anh",
+			"title": "Hướng Dẫn Sắp Xếp Cụm ",
+			"content": "Tất cả tính cơ, mạo từ, số từ… phải đứng bên trái,  chính luôn đứng bên phải nhất.",
+			"slug": "tieng-anh/huong-dan-sap-xep-cum-danh-tu-tieng-anh",
+			"date": "2025-11-29"
+		},
+		{ 
+			"id": "SapXepCumDongTuTiengAnh",
+			"categoryDisplay": "Tiếng Anh",
+			"categorySlug": "tieng-anh",
+			"title": "Hướng Dẫn Sắp Xếp Động Cụm",
+			"content": "Tất cả thời động cơ, phủ định, trạng cơ… phải đứng bên trái, còn hành động chính luôn đứng bên phải nhất.",
+			"slug": "tieng-anh/huong-dan-sap-xep-cum-dong-tu-tieng-anh",
+			"date": "2025-11-29"
+		},
+		{ 
+			"id": "VietCumDanhTuTiengAnh",
+			"categoryDisplay": "Tiếng Anh",
+			"categorySlug": "tieng-anh",
+			"title": "Hướng Dẫn Viết Cụm ",
+			"content": "Để viết cụm  tiếng Anh một cách tự nhiên và đúng ngữ pháp, bạn có thể áp dụng nguyên tắc “ viết trước, Tính Cơ viết sau” — nghĩa là suy nghĩ và viết theo thứ tự từ phải sang trái.",
+			"slug": "tieng-anh/huong-dan-sap-xep-cum-danh-tu-tieng-anh",
+			"date": "2025-11-29"
+		},
+		{ 
+			"id": "VietCumDongTuTiengAnh",
+			"categoryDisplay": "Tiếng Anh",
+			"categorySlug": "tieng-anh",
+			"title": "Hướng Dẫn Viết Động Cụm",
+			"content": "Để viết động cụm tiếng Anh một cách tự nhiên và đúng ngữ pháp, bạn có thể áp dụng nguyên tắc \"Động Cơ viết trước, Trợ [Động Cơ] viết sau\" — nghĩa là suy nghĩ và viết theo thứ tự từ phải sang trái.",
+			"slug": "tieng-anh/huong-dan-sap-xep-cum-dong-tu-tieng-anh",
+			"date": "2025-11-29"
+		},
+		{ 
+			"id": "DichCumDanhTuTiengAnh",
+			"categoryDisplay": "Tiếng Anh",
+			"categorySlug": "tieng-anh",
+			"title": "Hướng Dẫn Dịch Cụm  Tiếng Anh",
+			"content": "Để dịch chính xác và tự nhiên, bạn có thể áp dụng nguyên tắc \" dịch trước, Tính Cơ dịch sau\", đồng thời đặt các Tính Cơ hoặc  ghép vào dấu ngoặc đơn trong cấu trúc cụm  để dễ nhớ và xử lý.",
+			"slug": "tieng-anh/huong-dan-dich-cum-danh-tu-tieng-anh",
+			"date": "2025-10-04"
+		},
+		{ 
+			"id": "DichCumDongTuTiengAnh",
+			"categoryDisplay": "Tiếng Anh",
+			"categorySlug": "tieng-anh",
+			"title": "Hướng Dẫn Dịch [Động Cụm] Tiếng Anh",
+			"content": "Để dịch động cụm sang tiếng Việt một cách tự nhiên và đúng ngữ pháp, bạn có thể áp dụng nguyên tắc \"động cơ dịch trước, Trạng Cơ dịch sau\", đồng thời đặt các Trạng Cơ hoặc bổ ngữ vào dấu ngoặc đơn trong cấu trúc động cụm để dễ nhận diện và xử lý.",
+			"slug": "tieng-anh/huong-dan-dich-cum-dong-tu-tieng-anh",
+			"date": "2025-10-06"
+		},
+		{ 
+			"id": "DichCauHoiTiengAnh",
+			"categoryDisplay": "Tiếng Anh",
+			"categorySlug": "tieng-anh",
+			"title": "Hướng Dẫn Dịch Câu Hỏi Tiếng Anh",
+			"content": "Để dịch chính xác, bạn có thể áp dụng nguyên tắc \"danh chủ dịch trước, hành động chính và thời gian hành động (nếu có) dịch sau, tiếp đến là các bổ nghĩa, cuối cùng mới dịch từ để hỏi\", đồng thời đặt từ để hỏi và thời gian hành động (hoặc hành động chính nếu không có thời động cơ) vào dấu ngoặc đơn để dễ nhận diện.",
+			"slug": "tieng-anh/huong-dan-dich-cau-hoi-tieng-anh",
+			"date": "2025-10-11"
+		},
+		{ 
+			"id": "GiaoVienTiengAnh",
+			"categoryDisplay": "Tiếng Anh",
+			"categorySlug": "tieng-anh",
+			"title": "Giáo viên tiếng Anh",
+			"content": "Giáo viên tiếng Anh là người có chuyên môn và kỹ năng để truyền đạt kiến thức và kỹ năng sử dụng tiếng Anh cho học sinh. Họ đóng vai trò quan trọng trong việc giúp học sinh học tập và phát triển khả năng ngôn ngữ của mình.",
+			"slug": "tieng-anh/giao-vien-tieng-anh-la-gi",
+			"date": "2024-04-22"
+		},
+		{ 
+			"id": "NhanDienCumDanhTuTiengAnh",
+			"categoryDisplay": "Tiếng Anh",
+			"categorySlug": "tieng-anh",
+			"title": "Hướng Dẫn Nhận Diện Cụm ",
+			"content": "Tay trái = How (như thế nào): tính cơ, trạng cơ, mạo từ, số từ,  ghép… Tay phải = What (cái gì):  chính luôn nằm cuối cùng",
+			"slug": "tieng-anh/huong-dan-nhan-dien-cum-danh-tu-tieng-anh",
+			"date": "2025-11-30"
+		},
+		{ 
+			"id": "NhanDienCumDongTuTiengAnh",
+			"categoryDisplay": "Tiếng Anh",
+			"categorySlug": "tieng-anh",
+			"title": "Hướng Dẫn Nhận Diện Động Cụm",
+			"content": "Tay trái = Hiện tại + Tương lai (has, is, will, am going to, can, should…). Tay phải = Quá khứ (đuôi -ed, studied, been, V3…)",
+			"slug": "tieng-anh/huong-dan-nhan-dien-cum-dong-tu-tieng-anh",
+			"date": "2025-11-30"
+		},
+		{ 
+			"id": "PhanTichCauTiengAnh",
+			"categoryDisplay": "Tiếng Anh",
+			"categorySlug": "tieng-anh",
+			"title": "Hướng Dẫn Phân Tích Câu Tiếng Anh",
+			"content": "Phương Pháp 5W – Hiểu Chuẩn Nghĩa Câu Dài Bao Nhiêu Cũng Dễ!",
+			"slug": "tieng-anh/phan-tich-cau-tieng-anh",
+			"date": "2025-12-20"
+		},
+		{ 
+			"id": "Nho12ThoiGianHanhDong",
+			"categoryDisplay": "Tiếng Anh",
+			"categorySlug": "tieng-anh",
+			"title": "Hướng Dẫn Nhớ 12 Thời Gian Hành Động Tiếng Anh Chỉ Với Mã A1 Đến C4",
+			"content": "Phương Pháp Siêu Dễ – Ghi Nhớ Vĩnh Viễn Không Quên! (Bao Gồm Cả Thể Bị Động)",
+			"slug": "tieng-anh/nho-12-thoi-gian-hanh-dong-tieng-anh",
+			"date": "2025-12-23"
+		},
+		{ 
+			"id": "ThiTiengAnh",
+			"categoryDisplay": "Tiếng Anh",
+			"categorySlug": "tieng-anh",
+			"title": "12 Thời Gian Hành Động Tiếng Anh – Cách Gọi Dễ Nhớ Với “Đơn”, “Đang”, “Đã”, “Sẽ”",
+			"content": "Hệ thống thì trong tiếng Anh thường khiến người học cảm thấy phức tạp. Tuy nhiên, nếu ta dùng cách gọi gần gũi như “đơn”, “đang”, “đã”, và “sẽ”, việc ghi nhớ sẽ trở nên dễ dàng hơn. Bài viết này sẽ giúp bạn nắm chắc 12 thì cơ bản qua cách gọi thân thuộc.",
+			"slug": "tieng-anh/thoi-gian-hanh-dong-tieng-anh",
+			"date": "2025-12-24"
+		},
+		{ 
+			"id": "NamDangDongTuVangRong2",
+			"categoryDisplay": "Tiếng Anh",
+			"categorySlug": "tieng-anh",
+			"title": "5 Dạng [Động Cơ] “Vàng Ròng” 2",
+			"content": "Tin vui: Chỉ cần nắm chắc 12 hành động thông dụng nhất cùng 5 dạng cơ bản của chúng, bạn sẽ tự tin \"bung lụa\" trong hầu hết các cuộc trò chuyện đời thường – từ chat chit bạn bè, phỏng vấn xin việc, đến kể chuyện du lịch.",
+			"slug": "tieng-anh/5-dang-dong-tu-vang-rong-2",
+			"date": "2025-12-25"
+		},
+		{ 
+			"id": "NamDangDongTuVangRong1",
+			"categoryDisplay": "Tiếng Anh",
+			"categorySlug": "tieng-anh",
+			"title": "5 Dạng [Động Cơ] “Vàng Ròng” 1",
+			"content": "Hôm nay, chúng ta sẽ “lột xác” hoàn toàn cách nhìn về hành động tiếng Anh với bộ 5 “siêu sao” quyền lực nhất – dễ hiểu, dễ nhớ, và cực kỳ thực chiến. Không cần bảng biểu khô khan, chỉ là những câu chuyện đời thường bạn có thể áp dụng ngay hôm nay!",
+			"slug": "tieng-anh/5-dang-dong-tu-vang-rong-1",
+			"date": "2025-12-27"
+		},
+		{ 
+			"id": "VietTiengAnhMuotMaHon",
+			"categoryDisplay": "Tiếng Anh",
+			"categorySlug": "tieng-anh",
+			"title": "Mẹo Hay Để Viết Tiếng Anh Mượt Mà Hơn”",
+			"content": "Chừa Khoảng Trống Rồi Bổ Sung Sau",
+			"slug": "tieng-anh/meo-hay-de-viet-tieng-anh-muot-ma-hon",
+			"date": "2025-12-25"
+		}
+	]
+}

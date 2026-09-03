@@ -1,0 +1,269 @@
+import React from 'react';
+import { Link } from "react-router-dom";
+import { HashLink } from 'react-router-hash-link';
+import EyeIcon from '@/components/view/EyeIcon';
+import ViewCounter from '@/components/view/ViewCounter';
+import LikeButton from '@/components/like/LikeButton';
+
+export default function PAtiently1(): React.JSX.Element {
+
+  const postId = "PAtiently1";
+
+  return (<>
+
+  <main className="image image2">
+
+    <article>
+    
+      <h4><HashLink smooth to="/vocabulary#adverbs-kien-nhan"><mark className="highlight-tertiary-padding-4-8">ADverbs: kiên nhẫn</mark></HashLink></h4>
+      
+      <h1 className="margin-y-50 text-center">PAtiently
+        <sup><Link to="/vocabulary/PAtiently-1">&nbsp;1&nbsp;</Link>
+        </sup>
+        <sup><Link to="/vocabulary/PAtiently-2">&nbsp;2&nbsp;</Link>
+        </sup>
+      </h1>
+
+      {/* This is the content of Vocabulary Term. */}
+      
+      <p>Tuyệt vời! Chúng ta cùng khám phá từ "<strong>PAtiently</strong>" nhé.</p>
+
+      <div className="text-border1 padding-top-20 padding-bottom-10 highlight-238-padding-4-8 bee-container">
+
+        <div>
+
+          <ul className="list-square padding-left-40">
+
+            <li>
+              <span className="highlight-255-padding-3-6">
+                [PAtiently][<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">PĀ tie̛nt ly</Link>] /ˈpeɪ.ʃənt.li/ ⬤•• (3x)
+              </span>
+            </li>
+
+            <li><Link to="/grammar/what-is-an-adverb?">ADverb</Link></li>
+
+            <li>Một cách kiên nhẫn, nhẫn nại, kiên trì</li>
+
+          </ul>
+
+        </div>
+
+        <div className="bee-wrapper">
+          <img src="/assets/images/bee2.png" alt="Mr. Bee Osn"/>
+        </div>
+
+      </div>
+
+      <p className="margin-top-30 text-indent-whole">Từ "<strong>PAtiently</strong>" miêu tả một hành động hoặc trạng thái được thực hiện một cách kiên nhẫn, không vội vàng, không dễ cáu kỉnh hoặc khó chịu.</p>
+
+      <p className="margin-top-20 text-indent-whole">Ví dụ:</p>
+
+        <ul className="list-square">
+
+          <li>he WAITed PAtiently for his TURN.</li>
+          <li className="margin-bottom-20 list-none">Anh ấy kiên nhẫn chờ đến lượt của mình.</li>
+
+          <li>she PAtiently LIStened to his STORy.</li>
+          <li className="list-none">Cô ấy kiên nhẫn lắng nghe câu chuyện của anh ấy.</li>
+
+        </ul>
+
+      {/* =============================
+            Gia đình từ:
+      ============================= */}
+        
+      <p className="margin-top-20">
+        <mark className="highlight-238-padding-4-8">
+          <strong>Gia đình từ</strong>:
+        </mark>
+      </p>
+
+        <ul className="list-square">
+
+          <li>he is a PAtient TEACHer.</li>
+          <li className="margin-bottom-20 list-none">Anh ấy là một giáo viên kiên nhẫn.</li>
+
+          <li>the DOCtor TREAted the PAtient with CARE.</li>
+          <li className="margin-bottom-20 list-none">Bác sĩ chăm sóc bệnh nhân một cách cẩn thận.</li>
+
+          <li>he has a LOT of PAtience.</li>
+          <li className="list-none">Anh ấy có rất nhiều sự kiên nhẫn.</li>
+
+        </ul>
+
+      {/* =============================
+            Từ đồng nghĩa:
+      ============================= */}
+        
+      <p className="margin-top-20">
+        <mark className="highlight-238-padding-4-8">
+          <strong>Từ đồng nghĩa</strong>:
+        </mark>
+      </p>
+
+        <ul className="list-square">
+
+          <li>he CALMly exPLAINED the situAtion.</li>
+          <li className="margin-bottom-20 list-none">Anh ấy bình tĩnh giải thích tình huống.</li>
+
+          <li>he LIStened to their comPLAINTS TOLerantly.</li>
+          <li className="margin-bottom-20 list-none">Anh ấy lắng nghe những lời phàn nàn của họ một cách khoan dung.</li>
+
+          <li>she enDURed the PAIN enDURingly.</li>
+          <li className="list-none">Cô ấy chịu đựng nỗi đau một cách bền bỉ.</li>
+
+        </ul>
+
+        {/* <Link to="/vocabulary/CLEARly-1">Clearly</Link> */}
+
+      {/* =============================
+            Từ trái nghĩa:
+      ============================= */}
+
+      <p className="margin-top-20">
+        <mark className="highlight-238-padding-4-8">
+          <strong>Từ trái nghĩa</strong>:
+        </mark>
+      </p>
+
+        <ul className="list-square">
+
+          <li>he WAITed imPAtiently for the BUS.</li>
+          <li className="margin-bottom-20 list-none">Anh ấy chờ xe buýt một cách sốt ruột.</li>
+
+          <li>she SIGHED FRUSTratedly.</li>
+          <li className="margin-bottom-20 list-none">Cô ấy thở dài một cách bực bội.</li>
+
+          <li>he PACED AGitatedly around the ROOM.</li>
+          <li className="list-none">Anh ấy đi đi lại lại trong phòng một cách bồn chồn.</li>
+
+        </ul>
+      
+      {/* =============================
+            🌻 Mẹo học từ vựng:
+      ============================= */}
+
+      <h3 className="margin-y-50 text-center">🌻 Mẹo học từ vựng:</h3>
+
+      {/* =============================
+            1. Liên kết hình ảnh:
+      ============================= */}
+      
+      <p className="margin-top-20">
+        <strong>
+          <mark className="highlight-255-padding-4-8"><strong>1. Liên kết</strong></mark> 
+        </strong>
+        <strong>&nbsp;với hình ảnh</strong>:
+      </p>
+
+      <p className="text-indent-whole">Hình dung một người đang chờ đợi một cách bình tĩnh hoặc một người đang lắng nghe một cách chăm chú.</p>
+
+        <ul className="list-square">
+
+          <li>he WAITed PAtiently for his TURN.</li>
+          <li className="margin-bottom-20 list-none">Anh ấy kiên nhẫn chờ đến lượt mình.</li>
+
+          <li>she PAtiently LIStened to the LONG explaNAtion.</li>
+          <li className="list-none">Cô ấy kiên nhẫn lắng nghe lời giải thích dài dòng.</li>
+
+        </ul>
+
+      {/* =============================
+            2. Tạo câu ví dụ:
+      ============================= */}
+
+      <p className="margin-top-20">
+        <strong>
+          <mark className="highlight-255-padding-4-8"><strong>2. Tạo câu</strong></mark> 
+        </strong>
+        <strong>&nbsp;ví dụ</strong>:
+      </p>
+
+      <p className="text-indent-whole">Tạo các câu liên quan đến các tình huống thể hiện sự kiên nhẫn và nhẫn nại.</p>
+
+        <ul className="list-square">
+
+          <li>the TEAcher exPLAINED the LESson PAtiently to the STUdents.</li>
+          <li className="list-none">Giáo viên giải thích bài học một cách kiên nhẫn cho học sinh.</li>
+
+        </ul>
+
+      {/* =============================
+            3. Luyện tập thường xuyên:
+      ============================= */}
+
+      <p className="margin-top-20">
+        <strong>
+            <mark className="highlight-255-padding-4-8"><strong>3. Luyện tập</strong></mark>
+        </strong>
+        <strong>&nbsp;thường xuyên</strong>:
+      </p>
+
+      <p className="text-indent-whole margin-bottom-20">Thường xuyên sử dụng từ này trong các bài viết hoặc cuộc trò chuyện.</p>
+
+        <p className="text-indent-whole">Ví dụ để so sánh (sự khác biệt):</p>
+
+          <ol>
+
+            <li value="1">he WAITed for his TURN.</li>
+            <li className="list-none margin-bottom-20">Anh ấy chờ đến lượt của mình.</li>
+
+            <li value="2">he WAITed PAtiently for his TURN.</li>
+            <li className="list-none margin-bottom-20">Anh ấy kiên nhẫn chờ đến lượt của mình.</li>
+
+          </ol>
+
+      <div className="margin-bottom-20 padding-top-20 text-border1 padding-10 highlight-238-padding-4-8 bee-container">
+
+        <p className="margin-y-10">Sự khác biệt: Câu thứ hai <span className="highlight-255-padding-0-4">nhấn mạnh sự kiên nhẫn và nhẫn nại trong quá trình chờ đợi</span> của anh ấy.</p>
+
+      </div>
+
+      {/* <span className="highlight-255-padding-0-4"></span> */}
+
+      {/* =============================
+            Lưu ý:
+      ============================= */}
+      
+      <div className="margin-y-30 text-border1 table-container">
+
+        <h3 className="margin-y-30 text-center">Lưu ý:</h3>
+
+        <ul className="list-square">
+
+          <li>Nhấn mạnh sự kiên nhẫn và nhẫn nại: "<strong>PAtiently</strong>" nhấn mạnh sự kiên nhẫn, nhẫn nại và không vội vàng hoặc khó chịu.</li>
+
+          <li className="margin-bottom-20">Thường dùng để miêu tả cách chờ đợi hoặc lắng nghe: Từ này thường được sử dụng để miêu tả cách chờ đợi hoặc lắng nghe một cách kiên nhẫn.</li>
+
+        </ul>
+
+      </div>
+
+      <p className="margin-top-50">Chúc bạn học tiếng Anh thật tốt! 🐝</p>
+
+      <div className="viewcounter">
+      
+        <div className="post-date no-margin">
+          <span>April 5, 2025 · by 💎GEM ·</span>
+        </div>
+
+        <div className="eye-icon no-margin">
+          <EyeIcon />
+        </div>
+
+        <div className="post-date no-margin">
+          <ViewCounter postId={postId} />
+        </div>
+
+        <div className="like-button no-margin">
+          <LikeButton postId={postId} />
+        </div>
+
+      </div>
+
+    </article>
+    
+  </main>
+
+  </>);
+}

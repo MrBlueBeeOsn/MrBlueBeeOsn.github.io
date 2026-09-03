@@ -1,0 +1,1093 @@
+{
+	"posts": [
+		{ 
+			"id": "BayDauPhuPhienAmTiengAnh1",
+			"categoryDisplay": "Tiếng Anh",
+			"categorySlug": "tieng-anh",
+			"title": "7 dấu phụ phiên âm tiếng Anh 1", 
+			"content": "Học phát âm tiếng Anh bằng IPA quốc tế đôi khi khó nhớ và xa lạ với người Việt. Vì vậy, ta có thể tạo một hệ thống dựa trên 7 loại dấu phụ quen thuộc trong tiếng Việt để thay thế IPA, giúp dễ học, dễ liên tưởng và ghi nhớ lâu.",
+			"slug": "tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1",
+			"date": "2025-09-12"
+		},
+		{ 
+			"id": "BayDauPhuPhienAmTiengAnh2",
+			"categoryDisplay": "Tiếng Anh",
+			"categorySlug": "tieng-anh",
+			"title": "7 dấu phụ phiên âm tiếng Anh 2", 
+			"content": "Tiếng Anh có nhiều nguyên âm mà chữ cái thông thường (a, e, i, o, u) không thể hiện hết. Để học nhanh và dễ nhớ, ta dùng 7 dấu phụ kết hợp với 1 dạng mặc định (không dấu) để biểu thị cách phát âm.",
+			"slug": "tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-2",
+			"date": "2025-09-12"
+		},
+		{ 
+			"id": "NguyenAmDon",
+			"categoryDisplay": "Tiếng Anh",
+			"categorySlug": "tieng-anh",
+			"title": "Nguyên âm đơn",
+			"content": "📌 BẢNG TỔNG HỢP NGUYÊN ÂM ĐƠN",
+			"slug": "tieng-anh/nguyen-am-don",
+			"date": "2025-09-12"
+		},
+		{ 
+			"id": "NguyenAmDoi",
+			"categoryDisplay": "Tiếng Anh",
+			"categorySlug": "tieng-anh",
+			"title": "Nguyên âm đôi",
+			"content": "📌 BẢNG TỔNG HỢP NGUYÊN ÂM ĐÔI",
+			"slug": "tieng-anh/nguyen-am-doi",
+			"date": "2025-09-12"
+		},
+		{ 
+			"id": "SauDangHanhDong1",
+			"categoryDisplay": "Tiếng Anh",
+			"categorySlug": "tieng-anh",
+			"title": "6 Dạng [Hành Động]",
+			"content": "Bạn vừa phát hiện ra một sự thật thú vị: hành động tiếng Anh không chỉ có 3 hay 4 dạng như nhiều người vẫn nghĩ… mà thực tế có tới 6 dạng cơ bản mà ai học tiếng Anh nghiêm túc cũng nên nắm chắc!",
+			"slug": "tieng-anh/6-dang-hanh-dong-1",
+			"date": "2025-12-28"
+		},
+		{ 
+			"id": "SauDangHanhDong2",
+			"categoryDisplay": "Tiếng Anh",
+			"categorySlug": "tieng-anh",
+			"title": "6 Dạng [Hành Động]",
+			"content": "Hôm nay, chúng ta sẽ cùng “mở kho báu” này một cách vui vẻ, dễ hiểu và cực kỳ thực tế. Khi bạn nắm được bộ 6 dạng này, bạn sẽ tự tin nói, viết, nghe, đọc mà không còn lo “sai chia động cơ” nữa.",
+			"slug": "tieng-anh/6-dang-hanh-dong-2",
+			"date": "2025-12-27"
+		},
+		{ 
+			"id": "PREsentPERfect",
+			"categoryDisplay": "Tiếng Anh",
+			"categorySlug": "tieng-anh",
+			"title": "PREsent PERfect",
+			"content": "📏 Khoảng Thời Gian Hành Động ở Hiện Tại Hoàn Thành được cấu tạo bởi have/has + hành động ở dạng past participle (V3).",
+			"slug": "tieng-anh/present-perfect",
+			"date": "2025-12-28"
+		},
+		{ 
+			"id": "GiaoVienTiengAnh",
+			"categoryDisplay": "Tiếng Anh",
+			"categorySlug": "tieng-anh",
+			"title": "Giáo viên tiếng Anh",
+			"content": "Giáo viên tiếng Anh là người có chuyên môn và kỹ năng để truyền đạt kiến thức và kỹ năng sử dụng tiếng Anh cho học sinh. Họ đóng vai trò quan trọng trong việc giúp học sinh học tập và phát triển khả năng ngôn ngữ của mình.",
+			"slug": "tieng-anh/giao-vien-tieng-anh-la-gi",
+			"date": "2024-04-22"
+		},
+		{
+			"id": "TiengAnhQuestions",
+			"categoryDisplay": "Tiếng Anh",
+			"categorySlug": "tieng-anh",
+			"title": "Quiz",
+			"content": "Tiếng Anh Questions",
+			"slug": "tieng-anh/tieng-anh-questions",
+			"date": "2025-12-08"
+		},
+		{
+			"id": "TracNghiemNguPhapTiengAnh",
+			"categoryDisplay": "Tiếng Anh",
+			"categorySlug": "tieng-anh",
+			"title": "Quiz",
+			"content": "Trắc Nghiệm Ngữ Pháp Tiếng Anh",
+			"slug": "tieng-anh/trac-nghiem-ngu-phap-tieng-anh",
+			"date": "2025-12-09"
+		},
+		{
+			"id": "PhrasalVerbsQuiz",
+			"categoryDisplay": "Tiếng Anh",
+			"categorySlug": "tieng-anh",
+			"title": "Quiz",
+			"content": "Trắc Nghiệm Phrasal Verbs / [Động Cụm] Tiếng Anh",
+			"slug": "tieng-anh/phrasal-verbs-quiz",
+			"date": "2025-12-10"
+		},
+		{
+			"id": "TracNghiemThiTiengAnh",
+			"categoryDisplay": "Tiếng Anh",
+			"categorySlug": "tieng-anh",
+			"title": "Quiz",
+			"content": "Trắc Nghiệm Thời Gian Hành Động Tiếng Anh",
+			"slug": "tieng-anh/trac-nghiem-thoi-gian-hanh-dong-tieng-anh",
+			"date": "2025-12-11"
+		},
+		{
+			"id": "TracNghiemGerundsAndInfinitives",
+			"categoryDisplay": "Tiếng Anh",
+			"categorySlug": "tieng-anh",
+			"title": "Quiz",
+			"content": "Trắc Nghiệm Gerunds và Infinitives",
+			"slug": "tieng-anh/trac-nghiem-gerunds-and-infinitives",
+			"date": "2025-12-28"
+		},
+		{
+			"id": "GerundsAndInfinitives",
+			"categoryDisplay": "Tiếng Anh",
+			"categorySlug": "tieng-anh",
+			"title": "Gerunds và Infinitives",
+			"content": "“Kẻ thù” lớn nhất của người học tiếng Anh… nhưng thực ra rất dễ thương nếu bạn hiểu đúng cách sử dụng Gerunds và Infinitives!",
+			"slug": "tieng-anh/gerunds-and-infinitives",
+			"date": "2025-12-29"
+		},
+		{
+			"id": "NhanBietTinhTuTiengAnh",
+			"categoryDisplay": "Tiếng Anh",
+			"categorySlug": "tieng-anh",
+			"title": "Bí Quyết Nhận Biết [Tính Cơ] Trong Tiếng Anh",
+			"content": "“Tính cơ thường được tạo ra từ Danh Cơ hoặc hành động bằng cách thêm hậu tố. Mỗi hậu tố mang một ý nghĩa đặc trưng, giúp ta nhanh chóng nhận diện vai trò của từ trong câu.",
+			"slug": "tieng-anh/bi-quyet-nhan-biet-tinh-tu-trong-tieng-anh",
+			"date": "2025-12-29"
+		},
+		{
+			"id": "BiMatVeTuDuyNgonNgu1",
+			"categoryDisplay": "Tiếng Anh",
+			"categorySlug": "tieng-anh",
+			"title": "Bí Mật Về Tư Duy Ngôn Ngữ Giúp Bạn Đột Phá Tiếng Anh",
+			"content": "Bạn đã bao giờ tự hỏi tại sao chúng ta nói \"Bầu trời xanh\" nhưng người bản xứ lại luôn khẳng định là \"BLUE sky\"?",
+			"slug": "tieng-anh/bi-mat-ve-tu-duy-ngon-ngu-1",
+			"date": "2025-12-29"
+		},
+		{
+			"id": "BiMatVeTuDuyNgonNgu2",
+			"categoryDisplay": "Tiếng Anh",
+			"categorySlug": "tieng-anh",
+			"title": "Bí Mật Về Tư Duy Ngôn Ngữ Giúp Bạn Đột Phá Tiếng Anh",
+			"content": "Đã bao giờ bạn tự hỏi tại sao chúng ta nói \"Anh ấy chạy thật nhanh\" nhưng người Tây lại có xu hướng ưu tiên nói \"He QUICKLY ran\"? Một lần nữa, bí mật không nằm ở ngữ pháp, mà nằm ở thứ tự ưu tiên của bộ não.",
+			"slug": "tieng-anh/bi-mat-ve-tu-duy-ngon-ngu-2",
+			"date": "2025-12-29"
+		},
+		{
+			"id": "BiMatVeTuDuyNgonNgu3",
+			"categoryDisplay": "Tiếng Anh",
+			"categorySlug": "tieng-anh",
+			"title": "Bí Mật Về Tư Duy Ngôn Ngữ Giúp Bạn Đột Phá Tiếng Anh",
+			"content": "Nếu coi tiếng Anh là một bức tranh, thì người Việt chúng ta thường vẽ hình trước rồi mới tô màu. Nhưng người bản xứ lại chọn màu sơn, nhúng cọ rồi mới đặt bút vẽ.",
+			"slug": "tieng-anh/bi-mat-ve-tu-duy-ngon-ngu-3",
+			"date": "2025-12-29"
+		},
+		{
+			"id": "TheBeautyOfTheGirl1",
+			"categoryDisplay": "Tiếng Anh",
+			"categorySlug": "tieng-anh",
+			"title": "The beauty of the Girl 1",
+			"content": "ĐỌC TIẾNG ANH \"XUÔI DÒNG\": TUYỆT CHIÊU XÓA BỎ CẢM GIÁC NGƯỢC ĐỜI",
+			"slug": "tieng-anh/the-beauty-of-the-girl-1",
+			"date": "2025-12-30"
+		},
+		{
+			"id": "TheBeautyOfTheGirl2",
+			"categoryDisplay": "Tiếng Anh",
+			"categorySlug": "tieng-anh",
+			"title": "The beauty of the Girl 2",
+			"content": "Một Mẹo Nhỏ, Một Bước Nhảy Vọt: Tư Duy Lại Cách Bạn \"Giải Mã\" Tiếng Anh",
+			"slug": "tieng-anh/the-beauty-of-the-girl-2",
+			"date": "2025-12-30"
+		},
+		{
+			"id": "TheBeautyOfTheGirl3",
+			"categoryDisplay": "Tiếng Anh",
+			"categorySlug": "tieng-anh",
+			"title": "The beauty of the Girl 3",
+			"content": "Bí Mật Đọc Tiếng Anh Nhanh Gấp Đôi Chỉ Trong 7 Ngày",
+			"slug": "tieng-anh/the-beauty-of-the-girl-3",
+			"date": "2025-12-30"
+		},
+		{
+			"id": "TheBeautyOfTheGirl5",
+			"categoryDisplay": "Tiếng Anh",
+			"categorySlug": "tieng-anh",
+			"title": "The beauty of the Girl 4",
+			"content": "Thực hành ngay",
+			"slug": "tieng-anh/the-beauty-of-the-girl-4",
+			"date": "2025-12-30"
+		},
+		{
+			"id": "TheBeautyOfTheGirl5",
+			"categoryDisplay": "Tiếng Anh",
+			"categorySlug": "tieng-anh",
+			"title": "The beauty of the Girl 5",
+			"content": "Lộ trình 7 ngày",
+			"slug": "tieng-anh/the-beauty-of-the-girl-5",
+			"date": "2025-12-30"
+		},
+		{
+			"id": "IrregularVerbs",
+			"categoryDisplay": "Tiếng Anh",
+			"categorySlug": "tieng-anh",
+			"title": "Irregular Verbs",
+			"content": "Hành động bất quy tắc (irREGular VERBS) là “cơn ác mộng” của rất nhiều người học tiếng Anh, vì chúng không theo quy tắc thêm -ed như hành động thường. Tuy nhiên, chỉ cần nắm vững khoảng 60–70 hành động phổ biến nhất, bạn đã có thể giao tiếp tự tin, viết Email chuyên nghiệp, thi IELTS/TOEIC đạt điểm cao và thậm chí nói chuyện như người bản xứ ở mức trung cấp – cao cấp.",
+			"slug": "tieng-anh/irregular-verbs",
+			"date": "2026-01-05"
+		},
+		{
+			"id": "PhrasalVerbs",
+			"categoryDisplay": "Tiếng Anh",
+			"categorySlug": "tieng-anh",
+			"title": "PHRAsal VERBS",
+			"content": "PHRAsal VERBS là “vũ khí bí mật” giúp bạn nâng tầm tiếng Anh giao tiếp, đặc biệt trong IELTS Speaking, TOEIC Speaking hay cuộc sống hàng ngày. Đây là những cụm từ gồm hành động + giới cơ/trạng cơ (như UP, DOWN, OUT, ON, OFF…), tạo nên nghĩa hoàn toàn mới, không đoán được từ nghĩa riêng lẻ.",
+			"slug": "tieng-anh/phrasal-verbs",
+			"date": "2026-01-06"
+		},
+		{
+			"id": "ThinkStraightFlowFast1",
+			"categoryDisplay": "Tiếng Anh",
+			"categorySlug": "tieng-anh",
+			"title": "Think Straight FlowFast",
+			"content": "PHÁ VỠ \"RÀO CẢN NGƯỢC\": BÍ MẬT DÒNG CHẢY TỰ NHIÊN GIÚP BẠN ĐỘT PHÁ TIẾNG ANH!",
+			"slug": "tieng-anh/think-straight-flow-fast-1",
+			"date": "2026-01-12"
+		},
+		{
+			"id": "ThinkStraightFlowFast2",
+			"categoryDisplay": "Tiếng Anh",
+			"categorySlug": "tieng-anh",
+			"title": "Think Straight FlowFast",
+			"content": "Bạn Đang Học Tiếng Anh Sai Cách: Bí Mật Thay Đổi Hoàn Toàn Chỉ Sau 7 Ngày",
+			"slug": "tieng-anh/think-straight-flow-fast-2",
+			"date": "2026-01-12"
+		},
+		{
+			"id": "ThinkStraightFlowFast3",
+			"categoryDisplay": "Tiếng Anh",
+			"categorySlug": "tieng-anh",
+			"title": "Think Straight FlowFast",
+			"content": "Bí Quyết \"Hack\" Tiếng Anh Cho Người Việt: Đặt [Tính Cơ] Trước [Danh Cơ] Ngay Từ Tư Duy Tiếng Việt – Cách Học Siêu Hiệu Quả Mà Ít Ai Biết!",
+			"slug": "tieng-anh/think-straight-flow-fast-3",
+			"date": "2026-01-12"
+		},
+		{
+			"id": "ThinkStraightFlowFast4",
+			"categoryDisplay": "Tiếng Anh",
+			"categorySlug": "tieng-anh",
+			"title": "Think Straight FlowFast",
+			"content": "🔥 Cách học tiếng Anh hiệu quả nhất mà chưa ai nói thẳng với bạn",
+			"slug": "tieng-anh/think-straight-flow-fast-4",
+			"date": "2026-01-12"
+		},
+		{
+			"id": "ThinkStraightFlowFast5",
+			"categoryDisplay": "Tiếng Anh",
+			"categorySlug": "tieng-anh",
+			"title": "Think Straight FlowFast",
+			"content": "Tại Sao Người Đức Học Tiếng Anh Trong 6 Tháng, Còn Người Việt Mất 10 Năm?",
+			"slug": "tieng-anh/think-straight-flow-fast-5",
+			"date": "2026-01-12"
+		},
+		{
+			"id": "ThinkStraightFlowFast6",
+			"categoryDisplay": "Tiếng Anh",
+			"categorySlug": "tieng-anh",
+			"title": "Think Straight FlowFast",
+			"content": "🌟 Bí Mật Học Tiếng Anh: Đổi Cấu Trúc Tiếng Việt Để Não Bộ “Chảy” Ngôn Ngữ Tự Nhiên",
+			"slug": "tieng-anh/think-straight-flow-fast-6",
+			"date": "2026-01-12"
+		},
+		{
+			"id": "ThinkStraightFlowFast7",
+			"categoryDisplay": "Tiếng Anh",
+			"categorySlug": "tieng-anh",
+			"title": "Think Straight FlowFast",
+			"content": "Bí Quyết Học Tiếng Anh Siêu Tốc: Đổi Cấu Trúc Não Bộ Từ Trái Sang Phải!",
+			"slug": "tieng-anh/think-straight-flow-fast-7",
+			"date": "2026-01-12"
+		},
+		{
+			"id": "ThinkStraightFlowFast8",
+			"categoryDisplay": "Tiếng Anh",
+			"categorySlug": "tieng-anh",
+			"title": "Think Straight FlowFast",
+			"content": "KHÓA MỞ CỬA TIẾNG ANH: ĐỔI CẤU TRÚC TIẾNG VIỆT ĐỂ CHINH PHỤC THẾ GIỚI",
+			"slug": "tieng-anh/think-straight-flow-fast-8",
+			"date": "2026-01-12"
+		},
+		{
+			"id": "EVSubjectVerbQuiz",
+			"categoryDisplay": "Tiếng Anh",
+			"categorySlug": "tieng-anh",
+			"title": "EV Subject-Verb Quiz",
+			"content": "Trắc Nghiệm Subject-Verb Agreement (SVA) là một phần quan trọng trong việc học ngữ pháp tiếng Anh. SVA đảm bảo rằng danh chủ và hành động trong câu phải phù hợp về số lượng (số ít hoặc số nhiều). Việc nắm vững quy tắc này giúp bạn tránh những lỗi ngữ pháp phổ biến và nâng cao khả năng giao tiếp tiếng Anh của mình.",
+			"slug": "tieng-anh/ev-subject-verb-quiz",
+			"date": "2026-03-20"
+		},
+		{
+			"id": "EVAuxiliaryVerbsQuiz",
+			"categoryDisplay": "Tiếng Anh",
+			"categorySlug": "tieng-anh",
+			"title": "Trắc Nghiệm Auxiliary Verbs",
+			"content": "Trắc Nghiệm Auxiliary Verbs là một phần quan trọng trong việc học ngữ pháp tiếng Anh. Việc nắm vững các hành động phụ trợ giúp bạn xây dựng câu đúng và giao tiếp hiệu quả hơn.",
+			"slug": "tieng-anh/ev-auxiliary-verbs-quiz",
+			"date": "2026-03-25"
+		},
+		{
+			"id": "EVPrimaryAuxiliaryVerbsQuiz",
+			"categoryDisplay": "Tiếng Anh",
+			"categorySlug": "tieng-anh",
+			"title": "Trắc Nghiệm Primary Auxiliary Verbs",
+			"content": "Trắc Nghiệm Primary Auxiliary Verbs là một phần quan trọng trong việc học ngữ pháp tiếng Anh. Việc nắm vững các hành động phụ trợ giúp bạn xây dựng câu đúng và giao tiếp hiệu quả hơn.",
+			"slug": "tieng-anh/ev-primary-auxiliary-verbs-quiz",
+			"date": "2026-03-26"
+		},
+		{
+			"id": "EVSingularPluralVerbsQuiz",
+			"categoryDisplay": "Tiếng Anh",
+			"categorySlug": "tieng-anh",
+			"title": "Trắc Nghiệm Singular and Plural Verbs",
+			"content": "Trắc Nghiệm Singular and Plural Verbs là một phần quan trọng trong việc học ngữ pháp tiếng Anh. Việc nắm vững quy tắc này giúp bạn tránh những lỗi ngữ pháp phổ biến và nâng cao khả năng giao tiếp tiếng Anh của mình.",
+			"slug": "tieng-anh/ev-singular-and-plural-verbs-quiz",
+			"date": "2026-03-29"
+		},
+		{
+			"id": "EVSingularPluralNounsQuiz",
+			"categoryDisplay": "Tiếng Anh",
+			"categorySlug": "tieng-anh",
+			"title": "Trắc Nghiệm Singular and Plural Nouns",
+			"content": "Trắc Nghiệm Singular and Plural Nouns là một phần quan trọng trong việc học ngữ pháp tiếng Anh. Việc nắm vững quy tắc này giúp bạn tránh những lỗi ngữ pháp phổ biến và nâng cao khả năng giao tiếp tiếng Anh của mình.",
+			"slug": "tieng-anh/ev-singular-and-plural-nouns-quiz",
+			"date": "2026-03-29"
+		},
+		{
+			"id": "EVprepositionsQuiz",
+			"categoryDisplay": "Tiếng Anh",
+			"categorySlug": "tieng-anh",
+			"title": "Trắc Nghiệm Prepositions",
+			"content": "Trắc Nghiệm Prepositions là một phần quan trọng trong việc học ngữ pháp tiếng Anh. Việc nắm vững quy tắc này giúp bạn tránh những lỗi ngữ pháp phổ biến và nâng cao khả năng giao tiếp tiếng Anh của mình.",
+			"slug": "tieng-anh/ev-prepositions-quiz",
+			"date": "2026-03-29"
+		},
+		{
+			"id": "EVSAndEsInNounsVerbsQuiz",
+			"categoryDisplay": "Tiếng Anh",
+			"categorySlug": "tieng-anh",
+			"title": "Trắc Nghiệm S And Es In Nouns Verbs",
+			"content": "Trắc Nghiệm S And Es In Nouns Verbs là một phần quan trọng trong việc học ngữ pháp tiếng Anh. Việc nắm vững quy tắc này giúp bạn tránh những lỗi ngữ pháp phổ biến và nâng cao khả năng giao tiếp tiếng Anh của mình.",
+			"slug": "tieng-anh/ev-s-and-es-in-nouns-and-verbs-quiz",
+			"date": "2026-04-05"
+		},
+		{
+			"id": "EVArticlesQuiz",
+			"categoryDisplay": "Tiếng Anh",
+			"categorySlug": "tieng-anh",
+			"title": "Trắc Nghiệm Articles",
+			"content": "Trắc Nghiệm Articles là một phần quan trọng trong việc học ngữ pháp tiếng Anh. Việc nắm vững quy tắc này giúp bạn tránh những lỗi ngữ pháp phổ biến và nâng cao khả năng giao tiếp tiếng Anh của mình.",
+			"slug": "tieng-anh/ev-articles-quiz",
+			"date": "2026-04-15"
+		},
+		{
+			"id": "EVParaphrasingTechniquesQuiz",
+			"categoryDisplay": "Tiếng Anh",
+			"categorySlug": "tieng-anh",
+			"title": "Trắc Nghiệm Paraphrasing Techniques",
+			"content": "Trắc Nghiệm Paraphrasing Techniques là một phần quan trọng trong việc học ngữ pháp tiếng Anh. Việc nắm vững quy tắc này giúp bạn tránh những lỗi ngữ pháp phổ biến và nâng cao khả năng giao tiếp tiếng Anh của mình.",
+			"slug": "tieng-anh/ev-paraphrasing-techniques-quiz",
+			"date": "2026-04-16"
+		},
+		{
+			"id": "SVOMPT1",
+			"categoryDisplay": "Tiếng Anh",
+			"categorySlug": "tieng-anh",
+			"title": "SVOMPT - Dáng đi của tiếng Anh",
+			"content": "BÍ QUYẾT \"ĐƯỜNG THẲNG\": NÓI TIẾNG ANH TRÔI CHẢY KHÔNG CẦN SUY NGHĨ",
+			"slug": "tieng-anh/SVOMPT-1",
+			"date": "2026-05-14"
+		},
+		{
+			"id": "SVOMPT2",
+			"categoryDisplay": "Tiếng Anh",
+			"categorySlug": "tieng-anh",
+			"title": "SVOMPT - Dáng đi của tiếng Anh",
+			"content": "SVOMPT: ĐƯỜNG THẲNG ĐỨNG ĐƯA BẠN LÊN ĐỈNH CÂU TIẾNG ANH",
+			"slug": "tieng-anh/SVOMPT-1",
+			"date": "2026-05-14"
+		},
+		{
+			"id": "SVOMPT3",
+			"categoryDisplay": "Tiếng Anh",
+			"categorySlug": "tieng-anh",
+			"title": "SVOMPT - Dáng đi của tiếng Anh",
+			"content": "SVOMPT – Bí Quyết Đường Thẳng Giúp Bạn Nói Tiếng Anh Lưu Loát Và Tự Nhiên",
+			"slug": "tieng-anh/SVOMPT-1",
+			"date": "2026-05-14"
+		},
+		{
+			"id": "SVOMPT4",
+			"categoryDisplay": "Tiếng Anh",
+			"categorySlug": "tieng-anh",
+			"title": "SVOMPT - Dáng đi của tiếng Anh",
+			"content": "SVOMPT — Phương Pháp Nói Tiếng Anh Theo Một Đường Thẳng Đi Tới",
+			"slug": "tieng-anh/SVOMPT-1",
+			"date": "2026-05-14"
+		},
+		{
+			"id": "SVOMPT5",
+			"categoryDisplay": "Tiếng Anh",
+			"categorySlug": "tieng-anh",
+			"title": "SVOMPT - Dáng đi của tiếng Anh",
+			"content": "Con đường thẳng phía trước",
+			"slug": "tieng-anh/SVOMPT-1",
+			"date": "2026-05-14"
+		},
+		{
+			"id": "SVOMPT6",
+			"categoryDisplay": "Tiếng Anh",
+			"categorySlug": "tieng-anh",
+			"title": "SVOMPT - Dáng đi của tiếng Anh",
+			"content": "SVOMPT — Nghệ thuật sắp xếp câu tiếng Anh theo một đường thẳng",
+			"slug": "tieng-anh/SVOMPT-1",
+			"date": "2026-05-14"
+		},
+		{
+			"id": "SVOMPT7",
+			"categoryDisplay": "Tiếng Anh",
+			"categorySlug": "tieng-anh",
+			"title": "SVOMPT - Dáng đi của tiếng Anh",
+			"content": "SVOMPT: \"Đường Thẳng Từ Dưới Lên\" – Chìa Khóa Vàng Nói Viết Tiếng Anh Siêu Mượt",
+			"slug": "tieng-anh/SVOMPT-1",
+			"date": "2026-05-14"
+		},
+		{
+			"id": "SVOMPT8",
+			"categoryDisplay": "Tiếng Anh",
+			"categorySlug": "tieng-anh",
+			"title": "SVOMPT - Dáng đi của tiếng Anh",
+			"content": "Tiếng Anh được nghe theo chiều sâu, không phải chiều ngang. Một câu không trải ra trên giấy mà tiến về phía trước, từ thứ ở ngay trước mặt bạn đến thứ mờ dần ở chân trời.",
+			"slug": "tieng-anh/SVOMPT-1",
+			"date": "2026-05-14"
+		},
+		{
+			"id": "SentenceVariety1",
+			"categoryDisplay": "Tiếng Anh",
+			"categorySlug": "tieng-anh",
+			"title": "SENtence vaRIety — Sự đa dạng trong cấu trúc câu",
+			"content": "Từ \"Xây Gạch\" Đến \"Kiến Trúc\": Nghệ Thuật Xây Dựng Câu Tiếng Anh Đa Tầng",
+			"slug": "tieng-anh/sentence-variety-1",
+			"date": "2026-05-15"
+		},
+		{
+			"id": "SentenceVariety2",
+			"categoryDisplay": "Tiếng Anh",
+			"categorySlug": "tieng-anh",
+			"title": "SENtence vaRIety — Sự đa dạng trong cấu trúc câu",
+			"content": "Các loại câu tiếng Anh: Từ rối rắm đến bay bổng chỉ trong 10 phút",
+			"slug": "tieng-anh/sentence-variety-1",
+			"date": "2026-05-15"
+		},
+		{
+			"id": "SentenceVariety3",
+			"categoryDisplay": "Tiếng Anh",
+			"categorySlug": "tieng-anh",
+			"title": "SENtence vaRIety — Sự đa dạng trong cấu trúc câu",
+			"content": "Sức Mạnh Của Sự Đa Dạng Cấu Trúc Câu Trong Tiếng Anh",
+			"slug": "tieng-anh/sentence-variety-1",
+			"date": "2026-05-15"
+		},
+		{
+			"id": "SentenceVariety4",
+			"categoryDisplay": "Tiếng Anh",
+			"categorySlug": "tieng-anh",
+			"title": "SENtence vaRIety — Sự đa dạng trong cấu trúc câu",
+			"content": "Vì Sao Người Học Tiếng Anh Nên Làm Quen Với Nhiều Kiểu Cấu Trúc Câu?",
+			"slug": "tieng-anh/sentence-variety-1",
+			"date": "2026-05-15"
+		},
+		{
+			"id": "SentenceVariety5",
+			"categoryDisplay": "Tiếng Anh",
+			"categorySlug": "tieng-anh",
+			"title": "SENtence vaRIety — Sự đa dạng trong cấu trúc câu",
+			"content": "Câu Tiếng Anh — Từ Đơn Giản Đến Phức Tạp, Bạn Đang Ở Đâu?",
+			"slug": "tieng-anh/sentence-variety-1",
+			"date": "2026-05-15"
+		},
+		{
+			"id": "SentenceVariety6",
+			"categoryDisplay": "Tiếng Anh",
+			"categorySlug": "tieng-anh",
+			"title": "SENtence vaRIety — Sự đa dạng trong cấu trúc câu",
+			"content": "Hướng dẫn học và áp dụng các loại câu tiếng Anh",
+			"slug": "tieng-anh/sentence-variety-1",
+			"date": "2026-05-15"
+		},
+		{
+			"id": "SentenceVariety7",
+			"categoryDisplay": "Tiếng Anh",
+			"categorySlug": "tieng-anh",
+			"title": "SENtence vaRIety — Sự đa dạng trong cấu trúc câu",
+			"content": "Các loại câu tiếng Anh và cách học hiệu quả",
+			"slug": "tieng-anh/sentence-variety-1",
+			"date": "2026-05-15"
+		},
+		{
+			"id": "SentenceVariety8",
+			"categoryDisplay": "Tiếng Anh",
+			"categorySlug": "tieng-anh",
+			"title": "SENtence vaRIety — Sự đa dạng trong cấu trúc câu",
+			"content": "Luyện viết câu tiếng Anh",
+			"slug": "tieng-anh/sentence-variety-1",
+			"date": "2026-05-15"
+		},
+		{
+			"id": "SentenceVariety9",
+			"categoryDisplay": "Tiếng Anh",
+			"categorySlug": "tieng-anh",
+			"title": "SENtence vaRIety — Sự đa dạng trong cấu trúc câu",
+			"content": "Từ Câu Đơn Đến Câu Phức: Bí Kíp Nâng Tầm Tiếng Anh Của Bạn!",
+			"slug": "tieng-anh/sentence-variety-1",
+			"date": "2026-05-15"
+		},
+		{
+			"id": "DependentClause1",
+			"categoryDisplay": "Tiếng Anh",
+			"categorySlug": "tieng-anh",
+			"title": "dePENdent CLAUSE - Phụ câu",
+			"content": "dePENdent CLAUSE: Nghệ Thuật Phối Hợp Ngôn Ngữ: Làm Chủ Phụ Câu Để Văn Phong Trôi Chảy Hơn",
+			"slug": "tieng-anh/dependent-clause-1",
+			"date": "2026-05-16"
+		},
+		{
+			"id": "DependentClause2",
+			"categoryDisplay": "Tiếng Anh",
+			"categorySlug": "tieng-anh",
+			"title": "Dependent Clause - Phụ câu",
+			"content": "Làm chủ phụ câu: Công thức viết câu tiếng Anh giàu bản sắc",
+			"slug": "tieng-anh/dependent-clause-1",
+			"date": "2026-05-16"
+		},
+		{
+			"id": "DependentClause3",
+			"categoryDisplay": "Tiếng Anh",
+			"categorySlug": "tieng-anh",
+			"title": "Dependent Clause - Phụ câu",
+			"content": "Phụ Câu (Dependent Clause) – Bí Quyết Để Viết Tiếng Anh Chuyên Nghiệp Và Ấn Tượng",
+			"slug": "tieng-anh/dependent-clause-1",
+			"date": "2026-05-16"
+		},
+		{
+			"id": "DependentClause4",
+			"categoryDisplay": "Tiếng Anh",
+			"categorySlug": "tieng-anh",
+			"title": "Dependent Clause - Phụ câu",
+			"content": "Dependent Clauses — Chìa Khóa Giúp Tiếng Anh Tự Nhiên Và Có Chiều Sâu Hơn",
+			"slug": "tieng-anh/dependent-clause-1",
+			"date": "2026-05-16"
+		},
+		{
+			"id": "DependentClause5",
+			"categoryDisplay": "Tiếng Anh",
+			"categorySlug": "tieng-anh",
+			"title": "Dependent Clause - Phụ câu",
+			"content": "Câu Con Biết Tựa Vào Người Khác",
+			"slug": "tieng-anh/dependent-clause-1",
+			"date": "2026-05-16"
+		},
+		{
+			"id": "DependentClause6",
+			"categoryDisplay": "Tiếng Anh",
+			"categorySlug": "tieng-anh",
+			"title": "Dependent Clause - Phụ câu",
+			"content": "Dependent Clause: Nền tảng để viết tiếng Anh nâng cao",
+			"slug": "tieng-anh/dependent-clause-1",
+			"date": "2026-05-16"
+		},
+		{
+			"id": "DependentClause7",
+			"categoryDisplay": "Tiếng Anh",
+			"categorySlug": "tieng-anh",
+			"title": "Dependent Clause - Phụ câu",
+			"content": "Phụ Câu: Cẩm Nang Hoàn Chỉnh Để Viết Câu Phức Tự Nhiên",
+			"slug": "tieng-anh/dependent-clause-1",
+			"date": "2026-05-16"
+		},
+		{
+			"id": "DependentClause8",
+			"categoryDisplay": "Tiếng Anh",
+			"categorySlug": "tieng-anh",
+			"title": "Mình học dependent clause bằng cách mổ xẻ câu thật",
+			"content": "Dependent Clause không đứng một mình",
+			"slug": "tieng-anh/dependent-clause-1",
+			"date": "2026-05-16"
+		},
+		{
+			"id": "DependentClause9",
+			"categoryDisplay": "Tiếng Anh",
+			"categorySlug": "tieng-anh",
+			"title": "Dependent Clause - Phụ câu",
+			"content": "Phụ Câu: Giải Mã Sức Mạnh Kiến Tạo Câu Văn",
+			"slug": "tieng-anh/dependent-clause-1",
+			"date": "2026-05-16"
+		},
+		{
+			"id": "EVDCQuiz",
+			"categoryDisplay": "Tiếng Anh",
+			"categorySlug": "tieng-anh",
+			"title": "EV DC Quiz",
+			"content": "Trắc Nghiệm Dependent Clauses là một phần quan trọng trong việc học ngữ pháp tiếng Anh. Việc nắm vững quy tắc này giúp bạn tránh những lỗi ngữ pháp phổ biến và nâng cao khả năng giao tiếp tiếng Anh của mình.",
+			"slug": "tieng-anh/ev-dc-quiz",
+			"date": "2026-05-23"
+		},
+		{
+			"id": "EVAdjectiveClausesQuiz",
+			"categoryDisplay": "Tiếng Anh",
+			"categorySlug": "tieng-anh",
+			"title": "EV Adjective Clauses Quiz",
+			"content": "Trắc Nghiệm Adjective Clauses là một phần quan trọng trong việc học ngữ pháp tiếng Anh. Việc nắm vững quy tắc này giúp bạn tránh những lỗi ngữ pháp phổ biến và nâng cao khả năng giao tiếp tiếng Anh của mình.",
+			"slug": "tieng-anh/ev-adjective-clauses-quiz",
+			"date": "2026-05-25"
+		},
+		{
+			"id": "EVAdverbClausesQuiz",
+			"categoryDisplay": "Tiếng Anh",
+			"categorySlug": "tieng-anh",
+			"title": "EV Adverb Clauses Quiz",
+			"content": "Trắc Nghiệm Adverb Clauses là một phần quan trọng trong việc học ngữ pháp tiếng Anh. Việc nắm vững quy tắc này giúp bạn tránh những lỗi ngữ pháp phổ biến và nâng cao khả năng giao tiếp tiếng Anh của mình.",
+			"slug": "tieng-anh/ev-adverb-clauses-quiz",
+			"date": "2026-05-25"
+		},
+		{
+			"id": "EVNounClauseQuiz",
+			"categoryDisplay": "Tiếng Anh",
+			"categorySlug": "tieng-anh",
+			"title": "EV Noun Clause Quiz",
+			"content": "Trắc Nghiệm Noun Clauses là một phần quan trọng trong việc học ngữ pháp tiếng Anh. Việc nắm vững quy tắc này giúp bạn tránh những lỗi ngữ pháp phổ biến và nâng cao khả năng giao tiếp tiếng Anh của mình.",
+			"slug": "tieng-anh/ev-noun-clauses-quiz",
+			"date": "2026-05-25"
+		},
+		{
+			"id": "LegoAssembly1",
+			"categoryDisplay": "Tiếng Anh",
+			"categorySlug": "tieng-anh",
+			"title": "LEGo asSEMbly 1",
+			"content": "LEGo asSEMbly 1: Phá Vỡ 12 Thời: Học Tiếng Anh Theo [Tư Duy Lắp Ghép][Lego Assembly]",
+			"slug": "tieng-anh/lego-assembly-1",
+			"date": "2026-05-27"
+		},
+		{
+			"id": "LegoAssembly2",
+			"categoryDisplay": "Tiếng Anh",
+			"categorySlug": "tieng-anh",
+			"title": "Lego Assembly 2",
+			"content": "🧩 Tiếng Anh chỉ có một công thức: S + Head + Dependent",
+			"slug": "tieng-anh/lego-assembly-2",
+			"date": "2026-05-27"
+		},
+		{
+			"id": "LegoAssembly3",
+			"categoryDisplay": "Tiếng Anh",
+			"categorySlug": "tieng-anh",
+			"title": "Lego Assembly 3",
+			"content": "Mô Hình Lego Assembly: Cách Học Tiếng Anh Hiệu Quả Như Lắp Ghép Lego",
+			"slug": "tieng-anh/lego-assembly-3",
+			"date": "2026-05-27"
+		},
+		{
+			"id": "LegoAssembly4",
+			"categoryDisplay": "Tiếng Anh",
+			"categorySlug": "tieng-anh",
+			"title": "Lego Assembly 4",
+			"content": "Lego Assembly: Khi Tiếng Anh Không Còn Là “12 Thời Gian Hành Động” Mà Là Một Hệ Lắp Ghép",
+			"slug": "tieng-anh/lego-assembly-4",
+			"date": "2026-05-28"
+		},
+		{
+			"id": "LegoAssembly5",
+			"categoryDisplay": "Tiếng Anh",
+			"categorySlug": "tieng-anh",
+			"title": "Lego Assembly 5",
+			"content": "Lego Assembly: Học ngữ pháp tiếng Anh bằng cách lắp ghép",
+			"slug": "tieng-anh/lego-assembly-5",
+			"date": "2026-05-28"
+		},
+		{
+			"id": "LegoAssembly6",
+			"categoryDisplay": "Tiếng Anh",
+			"categorySlug": "tieng-anh",
+			"title": "Lego Assembly 6",
+			"content": "Mô hình Lego Assembly S Head DP DC",
+			"slug": "tieng-anh/lego-assembly-6",
+			"date": "2026-05-29"
+		},
+		{
+			"id": "LegoAssembly7",
+			"categoryDisplay": "Tiếng Anh",
+			"categorySlug": "tieng-anh",
+			"title": "Lego Assembly 7",
+			"content": "Mô Hình Lego Assembly: Hướng Dẫn Toàn Diện Học Ngữ Pháp Tiếng Anh Như Xếp Lego",
+			"slug": "tieng-anh/lego-assembly-7",
+			"date": "2026-05-29"
+		},
+		{
+			"id": "LegoAssembly8",
+			"categoryDisplay": "Tiếng Anh",
+			"categorySlug": "tieng-anh",
+			"title": "Lego Assembly 8",
+			"content": "Ngữ pháp Lego: Ba chỗ đứng, bốn cách lấp đầy",
+			"slug": "tieng-anh/lego-assembly-8",
+			"date": "2026-05-29"
+		},
+		{
+			"id": "LegoAssembly9",
+			"categoryDisplay": "Tiếng Anh",
+			"categorySlug": "tieng-anh",
+			"title": "Lego Assembly 9",
+			"content": "Lego Assembly: Nghệ Thuật Lắp Ghép Ngữ Pháp Tiếng Anh Đỉnh Cao",
+			"slug": "tieng-anh/lego-assembly-9",
+			"date": "2026-05-29"
+		},
+		{
+			"id": "AdjPlacement1",
+			"categoryDisplay": "Tiếng Anh",
+			"categorySlug": "tieng-anh",
+			"title": "ADjective FUNCtion 1",
+			"content": "ADjective FUNCtion 1: ĐIỂM MẠNH TƯƠNG ĐỒNG: BƯỚC ĐỘT PHÁ GIÚP NGƯỜI VIỆT THỐNG TRỊ TIẾNG ANH HỌC THUẬT VỀ CHỨC NĂNG [TÍNH][ADJECTIVE]",
+			"slug": "tieng-anh/adj-placement-1",
+			"date": "2026-06-01"
+		},
+		{
+			"id": "AdjPlacement2",
+			"categoryDisplay": "Tiếng Anh",
+			"categorySlug": "tieng-anh",
+			"title": "Adjective Placement 2",
+			"content": "\"Danh – Tính – Trạng\" và ba cấp độ \"Cơ – Cụm – Câu\": Bí mật người Việt đã có sẵn để làm chủ tiếng Anh",
+			"slug": "tieng-anh/adj-placement-2",
+			"date": "2026-06-01"
+		},
+		{
+			"id": "AdjPlacement3",
+			"categoryDisplay": "Tiếng Anh",
+			"categorySlug": "tieng-anh",
+			"title": "Adjective Placement 3",
+			"content": "Bí Quyết Tiếng Anh Đẳng Cấp: Khi “Tính Cơ Dài” Làm Tiếng Anh Trở Nên Gần Gũi Với Tiếng Việt",
+			"slug": "tieng-anh/adj-placement-3",
+			"date": "2026-06-01"
+		},
+		{
+			"id": "AdjPlacement4",
+			"categoryDisplay": "Tiếng Anh",
+			"categorySlug": "tieng-anh",
+			"title": "Adjective Placement 4",
+			"content": "Bí Mật Mà Nhiều Người Việt Bỏ Lỡ: Thứ Khiến Tiếng Anh Giống Tiếng Việt Hơn Chúng Ta Tưởng",
+			"slug": "tieng-anh/adj-placement-4",
+			"date": "2026-06-01"
+		},
+		{
+			"id": "AdjPlacement5",
+			"categoryDisplay": "Tiếng Anh",
+			"categorySlug": "tieng-anh",
+			"title": "Adjective Placement 5",
+			"content": "Điểm mạnh bí ẩn của người Việt khi học tiếng Anh mà chưa ai nhận ra",
+			"slug": "tieng-anh/adj-placement-5",
+			"date": "2026-06-01"
+		},
+		{
+			"id": "AdjPlacement6",
+			"categoryDisplay": "Tiếng Anh",
+			"categorySlug": "tieng-anh",
+			"title": "Adjective Placement 6",
+			"content": "Danh cơ trước, Tính Cơ sau — Chiến lược tư duy giúp người Việt chinh phục tiếng Anh",
+			"slug": "tieng-anh/adj-placement-6",
+			"date": "2026-06-01"
+		},
+		{
+			"id": "AdjPlacement7",
+			"categoryDisplay": "Tiếng Anh",
+			"categorySlug": "tieng-anh",
+			"title": "Adjective Placement 7",
+			"content": "Danh cơ trước — mô tả sau: Chìa khóa đẳng cấp giúp người Việt làm chủ tiếng Anh nhanh hơn bạn nghĩ",
+			"slug": "tieng-anh/adj-placement-7",
+			"date": "2026-06-01"
+		},
+		{
+			"id": "AdjPlacement8",
+			"categoryDisplay": "Tiếng Anh",
+			"categorySlug": "tieng-anh",
+			"title": "Adjective Placement 8",
+			"content": "Khi tiếng Anh cấp cao nói đúng như tiếng Việt",
+			"slug": "tieng-anh/adj-placement-8",
+			"date": "2026-06-01"
+		},
+		{
+			"id": "AdjPlacement9",
+			"categoryDisplay": "Tiếng Anh",
+			"categorySlug": "tieng-anh",
+			"title": "Adjective Placement 9",
+			"content": "\"Danh Cơ Trước, Mô Tả Sau\" – Chìa Khóa Vàng Mở Ra Tiềm Năng Ngôn Ngữ Vượt Trội Của Người Việt!",
+			"slug": "tieng-anh/adj-placement-9",
+			"date": "2026-06-01"
+		},
+		{
+			"id": "ThreeDC1",
+			"categoryDisplay": "Tiếng Anh",
+			"categorySlug": "tieng-anh",
+			"title": "[FORMS][FUNCtions] 1",
+			"content": "BÍ QUYẾT LÀM CHỦ \"[BỘ 3 PHỤ KHỐI]\" VÀ HỆ THỐNG ĐỘNG LỰC HỌC TIẾNG ANH LÊN TẦM ADVANCED",
+			"slug": "tieng-anh/three-dc-1",
+			"date": "2026-06-03"
+		},
+		{
+			"id": "ThreeDC2",
+			"categoryDisplay": "Tiếng Anh",
+			"categorySlug": "tieng-anh",
+			"title": "[FORMS][FUNCtions] 2",
+			"content": "TIẾNG ANH QUA BA HÌNH THÁI – BA CHỨC NĂNG – VÀ CÁCH VIẾT LẠI CÂU BẰNG THAY KHỐI",
+			"slug": "tieng-anh/three-dc-2",
+			"date": "2026-06-03"
+		},
+		{
+			"id": "ThreeDC3",
+			"categoryDisplay": "Tiếng Anh",
+			"categorySlug": "tieng-anh",
+			"title": "[FORMS][FUNCtions] 3",
+			"content": "Làm Chủ Bộ 3 Câu Con Trong Tiếng Anh: Chìa Khóa Để Lên Trình Advanced",
+			"slug": "tieng-anh/three-dc-3",
+			"date": "2026-06-03"
+		},
+		{
+			"id": "ThreeDC4",
+			"categoryDisplay": "Tiếng Anh",
+			"categorySlug": "tieng-anh",
+			"title": "[FORMS][FUNCtions] 4",
+			"content": "Bộ 3 Câu Con: Bí Mật Đằng Sau Khả Năng Tiếng Anh Nâng Cao Của Người Bản Ngữ",
+			"slug": "tieng-anh/three-dc-4",
+			"date": "2026-06-03"
+		},
+		{
+			"id": "ThreeDC5",
+			"categoryDisplay": "Tiếng Anh",
+			"categorySlug": "tieng-anh",
+			"title": "[FORMS][FUNCtions] 5",
+			"content": "Bộ 3 Câu Con Tiếng Anh: Noun, Adjective & Adverb Clause",
+			"slug": "tieng-anh/three-dc-5",
+			"date": "2026-06-03"
+		},
+		{
+			"id": "ThreeDC6",
+			"categoryDisplay": "Tiếng Anh",
+			"categorySlug": "tieng-anh",
+			"title": "[FORMS][FUNCtions] 6",
+			"content": "Ba câu con quan trọng trong tiếng Anh — Hướng dẫn đầy đủ cho người học",
+			"slug": "tieng-anh/three-dc-6",
+			"date": "2026-06-03"
+		},
+		{
+			"id": "ThreeDC7",
+			"categoryDisplay": "Tiếng Anh",
+			"categorySlug": "tieng-anh",
+			"title": "[FORMS][FUNCtions] 7",
+			"content": "Bộ 3 Câu Con Trong Tiếng Anh: Từ Phân Biệt, Cách Nhớ Đến Making Master, Nâng Level Từ Intermediate Đanh Advanced",
+			"slug": "tieng-anh/three-dc-7",
+			"date": "2026-06-03"
+		},
+		{
+			"id": "ThreeDC8",
+			"categoryDisplay": "Tiếng Anh",
+			"categorySlug": "tieng-anh",
+			"title": "[FORMS][FUNCtions] 8",
+			"content": "Bộ 3 Câu Con Trong Tiếng Anh: Hướng Dẫn Đầy Đủ Để Thoát Khỏi Câu Đơn",
+			"slug": "tieng-anh/three-dc-8",
+			"date": "2026-06-03"
+		},
+		{
+			"id": "ThreeDC9",
+			"categoryDisplay": "Tiếng Anh",
+			"categorySlug": "tieng-anh",
+			"title": "[FORMS][FUNCtions] 9",
+			"content": "Chinh Phục Tiếng Anh Nâng Cao: Bí Quyết Làm Chủ Bộ Ba Câu Con Phụ",
+			"slug": "tieng-anh/three-dc-9",
+			"date": "2026-06-03"
+		},
+		{
+			"id": "Super1",
+			"categoryDisplay": "Tiếng Anh",
+			"categorySlug": "tieng-anh",
+			"title": "SUper VERB BASE 1",
+			"content": "SUper VERB BASE 1: Đừng Để Học Thuật Đánh Lừa: Bí Mật Tiếng Anh Từ Bản Đồ [Siêu Động Cơ]",
+			"slug": "tieng-anh/super-words-1",
+			"date": "2026-06-03"
+		},
+		{
+			"id": "Super2",
+			"categoryDisplay": "Tiếng Anh",
+			"categorySlug": "tieng-anh",
+			"title": "SUper VERB BASE 2",
+			"content": "SUper VERB BASE 2: Hệ thống “Cơ – Cụm – Câu”: Ngữ pháp 3D, viết lại câu dễ dàng",
+			"slug": "tieng-anh/super-words-2",
+			"date": "2026-06-03"
+		},
+		{
+			"id": "Super3",
+			"categoryDisplay": "Tiếng Anh",
+			"categorySlug": "tieng-anh",
+			"title": "SUper VERB BASE 3",
+			"content": "SUper VERB BASE 3: Siêu Danh Cơ, Siêu Tính Cơ, Siêu [Trạng Cơ] – Cách Gọi Mới Giúp Học Câu Con Tiếng Anh Dễ Hơn",
+			"slug": "tieng-anh/super-words-3",
+			"date": "2026-06-03"
+		},
+		{
+			"id": "Super4",
+			"categoryDisplay": "Tiếng Anh",
+			"categorySlug": "tieng-anh",
+			"title": "SUper VERB BASE 4",
+			"content": "SUper VERB BASE 4: Siêu Danh Cơ, Siêu [Tính Cơ] Và Siêu Trạng Cơ: Một Cách Nhìn Mới Về Câu Con Tiếng Anh",
+			"slug": "tieng-anh/super-words-4",
+			"date": "2026-06-04"
+		},
+		{
+			"id": "Super5",
+			"categoryDisplay": "Tiếng Anh",
+			"categorySlug": "tieng-anh",
+			"title": "SUper VERB BASE 5",
+			"content": "SUper VERB BASE 5: Siêu Danh Cơ, Siêu Tính Cơ, Siêu [Trạng Cơ] — Cách hiểu câu con phụ mà không cần học thuộc lòng",
+			"slug": "tieng-anh/super-words-5",
+			"date": "2026-06-04"
+		},
+		{
+			"id": "Super6",
+			"categoryDisplay": "Tiếng Anh",
+			"categorySlug": "tieng-anh",
+			"title": "SUper VERB BASE 6",
+			"content": "SUper VERB BASE 6: Siêu [Danh Cơ] Siêu [Tính Cơ] Siêu Trạng Cơ",
+			"slug": "tieng-anh/super-words-6",
+			"date": "2026-06-04"
+		},
+		{
+			"id": "Super7",
+			"categoryDisplay": "Tiếng Anh",
+			"categorySlug": "tieng-anh",
+			"title": "SUper VERB BASE 7",
+			"content": "SUper VERB BASE 7: Siêu Danh Cơ, Siêu Tính Cơ, Siêu Trạng Cơ: Cách Gọi Song Ngữ Thông Minh Để \"Bẻ Gãy\" Câu Con Tiếng Anh",
+			"slug": "tieng-anh/super-words-7",
+			"date": "2026-06-05"
+		},
+		{
+			"id": "Super8",
+			"categoryDisplay": "Tiếng Anh",
+			"categorySlug": "tieng-anh",
+			"title": "SUper VERB BASE 8",
+			"content": "SUper VERB BASE 8: SIÊU DANH TỪ, SIÊU TÍNH TỪ, SIÊU TRẠNG TỪ",
+			"slug": "tieng-anh/super-words-8",
+			"date": "2026-06-05"
+		},
+		{
+			"id": "Super9",
+			"categoryDisplay": "Tiếng Anh",
+			"categorySlug": "tieng-anh",
+			"title": "SUper VERB BASE 9",
+			"content": "SUper VERB BASE 9: Ultimate Guide: Mở Khóa Sức Mạnh Của Câu Con Với Khái Niệm \"Siêu Từ Loại\" Trong Tiếng Anh",
+			"slug": "tieng-anh/super-words-9",
+			"date": "2026-06-05"
+		},
+		{
+			"id": "SV1",
+			"categoryDisplay": "Tiếng Anh",
+			"categorySlug": "tieng-anh",
+			"title": "[FUNCtions][LEVels] 1",
+			"content": "[FUNCtions][LEVels] 1: Cách Mạng Tư Duy Ngữ Pháp Tiếng Anh Bằng Hệ Trục Toạ Độ \"[3 Chức Năng][3 Cấp Độ]\"",
+			"slug": "tieng-anh/s-v-1",
+			"date": "2026-06-05"
+		},
+		{
+			"id": "SV2",
+			"categoryDisplay": "Tiếng Anh",
+			"categorySlug": "tieng-anh",
+			"title": "[FUNCtions][LEVels] 2",
+			"content": "SV2: HỆ THUẬT NGỮ \"CƠ – CỤM – CÂU\" TRONG TIẾNG ANH",
+			"slug": "tieng-anh/s-v-2",
+			"date": "2026-06-05"
+		},
+		{
+			"id": "SV3",
+			"categoryDisplay": "Tiếng Anh",
+			"categorySlug": "tieng-anh",
+			"title": "[FUNCtions][LEVels] 3",
+			"content": "SV3:",
+			"slug": "tieng-anh/s-v-3",
+			"date": "2026-06-05"
+		},
+		{
+			"id": "SV4",
+			"categoryDisplay": "Tiếng Anh",
+			"categorySlug": "tieng-anh",
+			"title": "[FUNCtions][LEVels] 4",
+			"content": "SV4:",
+			"slug": "tieng-anh/s-v-4",
+			"date": "2026-06-05"
+		},
+		{
+			"id": "SV5",
+			"categoryDisplay": "Tiếng Anh",
+			"categorySlug": "tieng-anh",
+			"title": "[FUNCtions][LEVels] 5",
+			"content": "SV5:",
+			"slug": "tieng-anh/s-v-5",
+			"date": "2026-06-05"
+		},
+		{
+			"id": "SV6",
+			"categoryDisplay": "Tiếng Anh",
+			"categorySlug": "tieng-anh",
+			"title": "[FUNCtions][LEVels] 6",
+			"content": "SV6:",
+			"slug": "tieng-anh/s-v-6",
+			"date": "2026-06-05"
+		},
+		{
+			"id": "SV7",
+			"categoryDisplay": "Tiếng Anh",
+			"categorySlug": "tieng-anh",
+			"title": "[FUNCtions][LEVels] 7",
+			"content": "SV7:",
+			"slug": "tieng-anh/s-v-7",
+			"date": "2026-06-05"
+		},
+		{
+			"id": "SV8",
+			"categoryDisplay": "Tiếng Anh",
+			"categorySlug": "tieng-anh",
+			"title": "[FUNCtions][LEVels] 8",
+			"content": "SV8:",
+			"slug": "tieng-anh/s-v-8",
+			"date": "2026-06-05"
+		},
+		{
+			"id": "SV9",
+			"categoryDisplay": "Tiếng Anh",
+			"categorySlug": "tieng-anh",
+			"title": "[FUNCtions][LEVels] 9",
+			"content": "SV9:",
+			"slug": "tieng-anh/s-v-9",
+			"date": "2026-06-05"
+		},
+		{
+			"id": "NineBox1",
+			"categoryDisplay": "Tiếng Anh",
+			"categorySlug": "tieng-anh",
+			"title": "Nine Box 1",
+			"content": "Nine Box 1: BẢN THIẾT KẾ LOGIC HỆ THỐNG ĐỘNG LẬP TRÌNH TRÊN [KIẾN TRÚC TƯ DUY 3X3]",
+			"slug": "tieng-anh/nine-box1",
+			"date": "2026-06-08"
+		},
+		{
+			"id": "TieredStructure1",
+			"categoryDisplay": "Tiếng Anh",
+			"categorySlug": "tieng-anh",
+			"title": "TIERED STRUCture 1",
+			"content": "TIERED STRUCture 1: BẬT TƯ DUY LẬP TRÌNH: TUYỆT CHƯƠNG ĐÓNG GÓI MÃ NGUỒN [CƠ][CỤM][CÂU]",
+			"slug": "tieng-anh/tiered-structure-1",
+			"date": "2026-06-11"
+		},
+		{
+			"id": "EVMatrixQuiz",
+			"categoryDisplay": "Tiếng Anh",
+			"categorySlug": "tieng-anh",
+			"title": "EV Matrix Quiz",
+			"content": "Hình thái × Chức năng Matrix",
+			"slug": "tieng-anh/ev-matrix-quiz",
+			"date": "2026-06-14"
+		},
+		{
+			"id": "EVBookkeepingMatrix",
+			"categoryDisplay": "Tiếng Anh",
+			"categorySlug": "tieng-anh",
+			"title": "EV Bookkeeping Matrix",
+			"content": "EV Bookkeeping Matrix",
+			"slug": "tieng-anh/ev-bookkeeping-matrix-quiz",
+			"date": "2026-06-16"
+		}
+	]
+}

@@ -1,0 +1,204 @@
+/*-- ========================================
+
+  © 2025 - 🐝 Mr. ßee - 🅾ng siêng năng📘
+
+        MrBlueBeeOsn.github.io 🔊📖
+
+        ☕ Happy reading today!
+
+========================================= --*/
+
+/* =============================
+  Base.css (Nền tảng)
+    Mục đích: base.css là file chứa các quy tắc CSS nền tảng, cơ bản nhất áp dụng cho toàn bộ trang web. Nó thiết lập một "nền" sạch và nhất quán cho mọi thứ.
+
+    Nội dung: Thường chứa các style cho các thẻ HTML gốc mà không có class hoặc ID, như <body>, <html>, <h1>, <p>, <a>, v.v.
+
+    Ví dụ: 
+
+    Đặt font-family và line-height mặc định cho body.
+    Đặt lại margin và padding cho các thẻ cơ bản.
+    Đặt box-sizing: border-box; cho tất cả các phần tử.
+============================= */
+
+/* =============================
+   Body
+============================= */
+
+#root {
+  max-width: 700px;       /* Giới hạn chiều rộng tối đa là 1280px */
+  margin: 0 auto;           /* Canh giữa phần tử theo chiều ngang */
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+body, html {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    overflow-x: hidden;
+    /* background: var(--background-color); */
+    /* transition: background-color 0.5s ease-in-out; */
+    font-family: Bellota, sans-serif;
+    font-size: 1.8rem; /* 18px; */
+}
+
+/* =============================
+   a
+============================= */
+
+a {
+    display: inline-block; /* cho transform hoạt động */
+    transition: transform 0.15s ease-in-out; /* mượt khi nhấn */
+    -webkit-tap-highlight-color: transparent; /* bỏ highlight khi chạm trên mobile */
+}
+
+a:active {
+    transform: scale(0.92); /* co chữ + nền */
+}
+
+a:link {
+    color: var(--accent-color);
+    background-color: transparent;
+    text-decoration: none;
+}
+
+a:hover {
+    color: var(--accent-color); /* Màu sẽ thay đổi thành đỏ khi di chuột */
+    text-decoration: underline; /* Sẽ gạch chân khi di chuột */
+}
+
+a:visited {
+    color: var(--primary-color);
+    background-color: transparent;
+    text-decoration: none;
+}
+
+a img {
+  border-radius: 50%; /* hoặc 10px tuỳ bạn */
+  display: block;     /* tránh inline-gap */
+}
+
+a:active img {
+  opacity: 0.7;  /* hiệu ứng nhấn giữ lại cảm giác click, không bị nền vuông */
+}
+
+/* a.speaker-link .fa-volume-high {
+  color: var(--secondary-color);
+  font-size: 14px;
+	transition: color 300ms ease, transform 200ms ease;
+}
+
+a.speaker-link:hover .fa-volume-high {
+  color: var(--accent-color);
+	transform: scale(1.08);
+} */
+
+/* =============================
+   .link
+============================= */
+
+.link-rounded {
+  padding: 4px 4px;          /* khoảng trong: trên/dưới 8px, trái/phải 12px */
+  border-radius: 4px;         /* bo tròn */
+  display: inline-block;      /* để padding và background hoạt động tốt trên <a> */
+  background: var(--accent-color);
+  text-decoration: none;
+  color: white;
+  transition: background 0.15s ease, transform 0.08s ease;
+}
+
+/* trạng thái hover/active/selected */
+.link-rounded:hover {
+  background: var(--accent-color-50);
+}
+
+.link-rounded.selected {
+  background: var(--accent-color-50);
+}
+
+/* nếu muốn hiệu ứng khi bấm */
+/* .link-rounded:active {
+  transform: translateY(5px);
+} */
+
+/* =============================
+   speaker
+============================= */
+
+.speaker-link {
+  position: relative;
+  text-decoration: none;
+  color: white;
+}
+
+/* icon */
+.speaker-icon {
+  color: var(--secondary-color);
+  font-size: 14px;
+  transition: color 300ms ease, transform 200ms ease;
+}
+
+/* hover đổi màu icon */
+.speaker-link:hover .speaker-icon {
+  color: var(--accent-color);
+  transform: scale(1.05);
+}
+
+/* tooltip cơ bản */
+.speaker-link::after {
+  content: attr(data-title);
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%) translateY(8px);
+  bottom: 100%;
+  background: var(--secondary-color);
+  color: var(--accent-color);
+  padding: 1px 5px;
+  border-radius: 2px;
+  font-size: 12px;
+  white-space: nowrap;
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity 200ms ease, transform 200ms ease;
+  z-index: 10;
+}
+
+/* hiện tooltip khi hover */
+.speaker-link:hover::after {
+  opacity: 1;
+  transform: translateX(-50%) translateY(0);
+}
+
+/* icon */
+.reader-icon {
+  color: var(--secondary-color);
+  font-size: 14px;
+}
+
+/* =============================
+   hr
+============================= */
+
+main hr.hr-long {
+    border: none;            /* bỏ viền mặc định */
+    height: 2px;             /* độ dày đường */
+    background-color: var(--tertiary-color); /* màu bạn muốn, ở đây là xanh */
+    margin: 20px 0;          /* khoảng cách trên dưới */
+    border-radius: 2px;      /* bo tròn nhẹ nếu muốn */
+    margin-top: 5.0rem;     /* 50px */
+    margin-bottom: 5.0rem;  /* 50px */
+}
+
+main hr.hr-short {
+    border: none;            /* bỏ viền mặc định */
+    height: 2px;             /* độ dày đường */
+    background-color: var(--tertiary-color); /* màu bạn muốn, ở đây là xanh */
+    margin: 20px auto;         /* căn giữa theo chiều ngang */
+    width: 50%;               /* Giảm chiều rộng xuống còn 50% */
+    border-radius: 2px;      /* bo tròn nhẹ nếu muốn */
+    margin-top: 5.0rem;     /* 50px */
+    margin-bottom: 5.0rem;  /* 50px */
+}

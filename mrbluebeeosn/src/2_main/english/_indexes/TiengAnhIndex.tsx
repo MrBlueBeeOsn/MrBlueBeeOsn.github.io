@@ -1,0 +1,1092 @@
+import React from 'react';
+import { Link } from "react-router-dom";
+import { HashLink } from 'react-router-hash-link';
+import EnglishTopic from '@/components/topic/EnglishTopic';
+import SearchComponent from '@/components/search/SearchComponent';
+import VideoSearch2 from '@/components/video/test/VideoSearch2';
+
+export default function TiengAnhIndex(): React.JSX.Element {
+  return (<>
+     
+  <main className="image image1 content">
+
+    <article>
+
+      {/* =============================
+          English Topic
+      ============================= */}
+      
+        <EnglishTopic/>
+
+      {/* =============================
+          5. Tiếng Anh Terms
+      ============================= */}
+
+      <h3 className="margin-y-50 text-center" id="tieng-anh-terms">Tiếng Anh Terms</h3>
+
+      <div className="table-search margin-bottom-50">
+            
+        <SearchComponent />
+        
+        {/* <VideoSearch2 /> */}
+                    
+      </div>
+
+      <div className="vocabulary-container">
+                  
+        {/* =============================
+              Tiếng Anh Quiz
+        ============================= */}
+
+        <details className="sub-box-fix-2">
+      
+          <summary id="tieng-anh-basic-practice"><mark className="highlight-secondary-padding-2-4">Quiz</mark></summary>
+
+          <ul className="list-border1">
+
+            <li>
+              <div className="li-content">
+                <Link to="/tieng-anh/tieng-anh-questions">Tiếng Anh questions</Link>
+              </div>
+            </li>
+
+            
+            
+          </ul>
+
+        </details>
+
+        {/* =============================
+              Ngữ pháp Quiz
+        ============================= */}
+
+        <details className="sub-box-fix-2">
+      
+          <summary id="ngu-phap-basic-practice"><mark className="highlight-secondary-padding-2-4">Ngữ pháp</mark></summary>
+
+          <ul className="list-border1">
+
+            <li>
+              <div className="li-content">
+                <Link to="/tieng-anh/trac-nghiem-ngu-phap-tieng-anh">Trắc Nghiệm Ngữ Pháp Tiếng Anh</Link>
+              </div>
+            </li>
+
+            
+            
+          </ul>
+
+        </details>
+
+        {/* =============================
+              Phrasal Verbs Quiz
+        ============================= */}
+
+        <details className="sub-box-fix-2">
+      
+          <summary id="cum-dong-tu-basic-practice"><mark className="highlight-secondary-padding-2-4">Động cụm</mark></summary>
+
+          <ul className="list-border1">
+
+            <li>
+              <div className="li-content">
+                <Link to="/tieng-anh/phrasal-verbs-quiz">Phrasal Verbs Quiz</Link>
+              </div>
+            </li>
+
+            
+            
+          </ul>
+
+        </details>
+
+        {/* =============================
+              EV Tense Quiz
+        ============================= */}
+
+        <details className="sub-box-fix-2">
+      
+          <summary id="ev-tense-basic-practice"><mark className="highlight-secondary-padding-2-4">Thời Gian Hành Động</mark></summary>
+
+          <ul className="list-border1">
+
+              <li>
+                <div className="li-content">
+                  <Link to="trac-nghiem-thoi-gian-hanh-dong-tieng-anh">Trắc Nghiệm Thời Gian Hành Động Tiếng Anh</Link>
+                </div>
+              </li>
+
+            
+            
+          </ul>
+
+        </details>
+
+        {/* =============================
+              GERunds and inFINitives Quiz
+        ============================= */}
+
+        <details className="sub-box-fix-2">
+      
+          <summary id="ving-tov-basic-practice"><mark className="highlight-secondary-padding-2-4">GERunds and inFINitives</mark></summary>
+
+          <ul className="list-border1">
+
+            <li>
+              <div className="li-content">
+                <Link to="/tieng-anh/trac-nghiem-gerunds-and-infinitives">Trắc Nghiệm Gerunds và Infinitives</Link>
+              </div>
+            </li>
+
+            
+            
+          </ul>
+
+        </details>
+
+        {/* =============================
+              Subject-Verb Agreement Quiz
+        ============================= */}
+
+        <details className="sub-box-fix-2">
+      
+          <summary id="ev-subject-verb-agreement-basic-practice"><mark className="highlight-secondary-padding-2-4">Subject-Verb Agreement</mark></summary>
+
+          <ul className="list-border1">
+
+            <li>
+              <div className="li-content">
+                <Link to="/tieng-anh/ev-subject-verb-quiz">Trắc Nghiệm Subject-Verb Agreement (SVA)</Link>
+              </div>
+            </li>
+
+            
+            
+          </ul>
+
+        </details>
+
+        {/* =============================
+              Primary Auxiliary Verbs Quiz
+        ============================= */}
+
+        <details className="sub-box-fix-2">
+      
+          <summary id="ev-primary-auxiliary-verbs-quiz"><mark className="highlight-secondary-padding-2-4">Primary Auxiliary Verbs</mark></summary>
+
+          <ul className="list-border1">
+
+            <li>
+              <div className="li-content">
+                <Link to="/tieng-anh/ev-primary-auxiliary-verbs-quiz">EV - Primary Auxiliary Verbs</Link>
+              </div>
+            </li>
+
+            
+            
+          </ul>
+
+        </details>
+
+        {/* =============================
+              EV Auxiliary Verbs Quiz
+        ============================= */}
+
+        <details className="sub-box-fix-2">
+      
+          <summary id="ev-auxiliary-verbs-basic-practice"><mark className="highlight-secondary-padding-2-4">Auxiliary Verbs</mark></summary>
+
+          <ul className="list-border1">
+
+            <li>
+              <div className="li-content">
+                <Link to="/tieng-anh/ev-auxiliary-verbs-quiz">Trắc Nghiệm Auxiliary Verbs</Link>
+              </div>
+            </li>
+
+            
+            
+          </ul>
+
+        </details>
+
+        {/* =============================
+              EV Singular and Plural Verbs Quiz
+        ============================= */}
+
+        <details className="sub-box-fix-2">
+      
+          <summary id="ev-singular-and-plural-verbs-quiz"><mark className="highlight-secondary-padding-2-4">Singular and Plural Verbs</mark></summary>
+
+          <ul className="list-border1">
+
+            <li>
+              <div className="li-content">
+                <Link to="/tieng-anh/ev-singular-and-plural-verbs-quiz">EV - Singular and Plural Verbs</Link>
+              </div>
+            </li>
+
+            
+            
+          </ul>
+
+        </details>
+
+        {/* =============================
+              EV Singular and Plural Nouns Quiz
+        ============================= */}
+
+        <details className="sub-box-fix-2">
+      
+          <summary id="ev-singular-and-plural-nouns-quiz"><mark className="highlight-secondary-padding-2-4">Singular and Plural Nouns</mark></summary>
+
+          <ul className="list-border1">
+
+            <li>
+              <div className="li-content">
+                <Link to="/tieng-anh/ev-singular-and-plural-nouns-quiz">EV - Singular and Plural Nouns</Link>
+              </div>
+            </li>
+
+            
+            
+          </ul>
+
+        </details>
+
+        {/* =============================
+              EV Prepositions Quiz
+        ============================= */}
+
+        <details className="sub-box-fix-2">
+      
+          <summary id="ev-prepositions-quiz"><mark className="highlight-secondary-padding-2-4">Prepositions</mark></summary>
+
+          <ul className="list-border1">
+
+            <li>
+              <div className="li-content">
+                <Link to="/tieng-anh/ev-prepositions-quiz">EV - Prepositions</Link>
+              </div>
+            </li>
+
+            
+            
+          </ul>
+
+        </details>
+
+        {/* =============================
+              EV S And Es In Nouns Verbs Quiz
+        ============================= */}
+
+        <details className="sub-box-fix-2">
+      
+          <summary id="ev-s-and-es-in-nouns-and-verbs-quiz"><mark className="highlight-secondary-padding-2-4">S And Es In Nouns Verbs</mark></summary>
+
+          <ul className="list-border1">
+
+            <li>
+              <div className="li-content">
+                <Link to="/tieng-anh/ev-s-and-es-in-nouns-and-verbs-quiz">Trắc Nghiệm - S And Es In Nouns Verbs</Link>
+              </div>
+            </li>
+
+            
+            
+          </ul>
+
+        </details>
+
+        {/* =============================
+              EV Articles Quiz
+        ============================= */}
+
+        <details className="sub-box-fix-2">
+      
+          <summary id="ev-articles-quiz"><mark className="highlight-secondary-padding-2-4">Articles</mark></summary>
+
+          <ul className="list-border1">
+
+            <li>
+              <div className="li-content">
+                <Link to="/tieng-anh/ev-articles-quiz">Trắc Nghiệm - Articles</Link>
+              </div>
+            </li>
+
+            
+            
+          </ul>
+
+        </details>
+
+        {/* =============================
+              EV ParaphrasingTechniquesQuiz
+        ============================= */}
+
+        <details className="sub-box-fix-2">
+      
+          <summary id="ev-paraphrasing-techniques-quiz"><mark className="highlight-secondary-padding-2-4">Paraphrasing Techniques</mark></summary>
+
+          <ul className="list-border1">
+
+            <li>
+              <div className="li-content">
+                <Link to="/tieng-anh/ev-paraphrasing-techniques-quiz">Trắc Nghiệm - Paraphrasing Techniques</Link>
+              </div>
+            </li>
+
+            
+            
+          </ul>
+
+        </details>
+
+        {/* =============================
+              EV DC Quiz
+        ============================= */}
+
+        <details className="sub-box-fix-2">
+      
+          <summary id="ev-dc-quiz"><mark className="highlight-secondary-padding-2-4">DC</mark></summary>
+
+          <ul className="list-border1">
+
+            
+            <li>
+              <div className="li-content">
+                <Link to="/tieng-anh/ev-adjective-clauses-quiz">Trắc Nghiệm DC - Adjective</Link>
+              </div>
+            </li>
+
+            <li>
+              <div className="li-content">
+                <Link to="/tieng-anh/ev-adverb-clauses-quiz">Trắc Nghiệm DC - Adverb</Link>
+              </div>
+            </li>
+
+            <li>
+              <div className="li-content">
+                <Link to="/tieng-anh/ev-noun-clauses-quiz">Trắc Nghiệm DC - Noun</Link>
+              </div>
+            </li>
+            
+            <li>
+              <div className="li-content">
+                <Link to="/tieng-anh/ev-dc-quiz">Trắc Nghiệm DC</Link>
+              </div>
+            </li>
+
+            
+            
+          </ul>
+
+        </details>
+
+        {/* =============================
+              EV Matrix Quiz
+        ============================= */}
+
+        <details className="sub-box-fix-2">
+      
+          <summary id="ev-matrix-quiz"><mark className="highlight-secondary-padding-2-4">Matrix</mark></summary>
+
+          <ul className="list-border1">
+
+            
+            <li>
+              <div className="li-content">
+                <Link to="/tieng-anh/ev-matrix-quiz">EV Matrix Quiz</Link>
+              </div>
+            </li>
+
+            <li>
+              <div className="li-content">
+                <Link to="/tieng-anh/ev-bookkeeping-matrix-quiz">EV Bookkeeping Matrix</Link>
+              </div>
+            </li>
+
+            
+
+            
+            
+          </ul>
+
+        </details>
+
+        
+
+        
+
+
+
+      </div>
+
+      <div className="flex-container margin-top-20">
+
+        <div className="sub-box">
+
+          {/* =============================
+              pronunciAtion
+          ============================= */}
+      
+          <p id="pronunciation-terms"><mark className="highlight-secondary-padding-2-4">pronunciAtion</mark></p>
+
+          <ul className="list-border1">
+
+            <li>
+              <div className="li-content">
+                <Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">7 dấu phụ phiên âm tiếng Anh
+                <sup>&nbsp;1&nbsp;</sup>
+                </Link>
+                <Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-2">
+                  <sup>&nbsp;2&nbsp;</sup>
+                </Link>
+              </div>
+            </li>
+
+            <li>
+              <div className="li-content">
+                <Link to="/tieng-anh/nguyen-am-don">Nguyên âm đơn</Link>
+              </div>
+            </li>
+
+            <li>
+              <div className="li-content">
+                <Link to="/tieng-anh/nguyen-am-doi">Nguyên âm đôi</Link>
+              </div>
+            </li>
+
+            
+            
+          </ul>
+
+        </div>
+
+        <div className="sub-box">
+
+          {/* =============================
+              VERBS
+          ============================= */}
+      
+          <p id="verbs-terms"><mark className="highlight-secondary-padding-2-4">VERBS</mark></p>
+
+          <ul className="list-border1">
+
+            <li>
+              <div className="li-content">
+                <Link to="/tieng-anh/6-dang-hanh-dong-1">6 Dạng [Hành Động]
+                {/* <sup>&nbsp;1&nbsp;</sup> */}
+                </Link>
+                {/* <Link to="/tieng-anh/6-dang-hanh-dong-2">
+                  <sup>&nbsp;2&nbsp;</sup>
+                </Link> */}
+              </div>
+            </li>
+
+            <li>
+              <div className="li-content">
+                <Link to="/tieng-anh/present-perfect">PREsent PERfect</Link>
+              </div>
+            </li>
+
+            
+
+            {/* <li>
+              <div className="li-content">
+                <Link to="/tieng-anh/meo-hay-de-viet-tieng-anh-muot-ma-hon">Mẹo Hay Để Viết Tiếng Anh Mượt Mà Hơn</Link>
+              </div>
+            </li> */}
+
+            {/* <li>
+              <div className="li-content">
+                <Link to="/tieng-anh/6-dang-hanh-dong">6 Dạng [Hành Động]</Link>
+              </div>
+            </li> */}
+
+            {/* <li>
+              <div className="li-content">
+                <Link to="/tieng-anh/khoang-thoi-gian-hanh-dong-o-hien-tai-hoan-thanh">📏 Khoảng Thời Gian Hành Động ở Hiện Tại Hoàn Thành</Link>
+              </div>
+            </li> */}
+
+            {/* <li>
+              <div className="li-content">
+                <Link to="/tieng-anh/5-dang-dong-tu-vang-rong-1">5 Dạng [Động Cơ] “Vàng Ròng”
+                <sup>&nbsp;1&nbsp;</sup>
+                </Link>
+                <Link to="/tieng-anh/5-dang-dong-tu-vang-rong-2">
+                  <sup>&nbsp;2&nbsp;</sup>
+                </Link>
+              </div>
+            </li> */}
+            
+            
+            {/* <li>
+              <div className="li-content">
+                <Link to="/tieng-anh/huong-dan-nhan-dien-cum-danh-tu-tieng-anh">Nhận Diện Danh Cụm</Link>
+              </div>
+            </li> */}
+
+            {/* <li>
+              <div className="li-content">
+                <Link to="/tieng-anh/huong-dan-nhan-dien-cum-dong-tu-tieng-anh">Nhận Diện Động Cụm</Link>
+              </div>
+            </li> */}
+
+            {/* <li>
+              <div className="li-content">
+                <Link to="/tieng-anh/dich-cau-tieng-viet-sang-tieng-anh">Dịch Câu Sang Tiếng Anh</Link>
+              </div>
+            </li> */}
+
+            {/* <li>
+              <div className="li-content">
+                <Link to="/tieng-anh/phan-tich-cau-tieng-anh">Phân Tích Câu Tiếng Anh</Link>
+              </div>
+            </li> */}
+
+            {/* <li>
+              <div className="li-content">
+                <Link to="/tieng-anh/huong-dan-sap-xep-cum-danh-tu-tieng-anh">Hướng Dẫn Sắp Xếp Danh Cụm</Link>
+              </div>
+            </li> */}
+
+            {/* <li>
+              <div className="li-content">
+                <Link to="/tieng-anh/huong-dan-sap-xep-cum-dong-tu-tieng-anh">Hướng Dẫn Sắp Xếp Động Cụm</Link>
+              </div>
+            </li> */}
+
+            {/* <li>
+              <div className="li-content">
+                <Link to="/tieng-anh/huong-dan-viet-cum-danh-tu-tieng-anh">Hướng Dẫn Viết Danh Cụm</Link>
+              </div>
+            </li> */}
+
+            {/* <li>
+              <div className="li-content">
+                <Link to="/tieng-anh/huong-dan-viet-cum-dong-tu-tieng-anh">Hướng Dẫn Viết Động Cụm</Link>
+              </div>
+            </li> */}
+
+            {/* <li>
+              <Link to="/tieng-anh/huong-dan-viet-cum-danh-tu-tieng-anh">Danh Cụm
+                <sup>&nbsp;1&nbsp;</sup>
+                  </Link> 
+                  <Link to="/tieng-anh/huong-dan-dich-cum-danh-tu-tieng-anh">
+                <sup>&nbsp;2&nbsp;</sup>
+              </Link>
+            </li> */}
+
+            {/* <li>
+              <div className="li-content">
+                <Link to="/tieng-anh/huong-dan-dich-cum-dong-tu-tieng-anh">Hướng Dẫn Dịch [Động Cụm] Tiếng Anh</Link>
+              </div>
+            </li> */}
+
+            {/* <li>
+              <div className="li-content">
+                <Link to="/tieng-anh/huong-dan-dich-cau-hoi-tieng-anh">Hướng Dẫn Dịch Câu Hỏi Tiếng Anh</Link>
+              </div>
+            </li> */}
+        
+            {/* <li>
+              <div className="li-content">
+                <Link to="/tieng-anh/thoi-gian-hanh-dong-tieng-anh">12 Thời Gian Hành Động Tiếng Anh</Link>
+              </div>
+            </li> */}
+
+            {/* <li>
+              <div className="li-content">
+                <Link to="/tieng-anh/nho-12-thoi-gian-hanh-dong-tieng-anh">Nhớ 12 Thời Gian Hành Động Tiếng Anh</Link>
+              </div>
+            </li> */}
+
+          </ul>
+
+        </div>
+
+      </div>
+
+      <div className="flex-container margin-top-20">
+
+        <div className="sub-box">
+
+          {/* =============================
+              ADjective
+          ============================= */}
+      
+          <p id="adjective-terms"><mark className="highlight-secondary-padding-2-4">ADjective</mark></p>
+
+          <ul className="list-border1">
+
+            <li>
+              <div className="li-content">
+                <Link to="/tieng-anh/bi-quyet-nhan-biet-tinh-tu-trong-tieng-anh">Bí Quyết Nhận Biết Tính Cơ</Link>
+              </div>
+            </li>
+
+          </ul>
+
+        </div>
+
+        
+        
+
+      </div>
+
+
+      <div className="flex-container margin-top-20">
+
+        <div className="sub-box">
+
+          {/* =============================
+               [BASE][PHRASE][CLAUSE]
+          ============================= */}
+      
+          <p id="base-phrase-clause-terms"><mark className="highlight-secondary-padding-2-4">[BASE][PHRASE][CLAUSE]</mark></p>
+
+          <ul className="list-border1">
+
+            <li>
+              <div className="li-content">
+                <Link to="/tieng-anh/tiered-structure-1">[TIERED STRUCture]
+                {/* <sup>&nbsp;1&nbsp;</sup> */}
+                </Link>
+                {/* <Link to="/tieng-anh/tiered-structure-2">
+                  <sup>&nbsp;2&nbsp;</sup>
+                </Link>
+                <Link to="/tieng-anh/tiered-structure-3">
+                  <sup>&nbsp;3&nbsp;</sup>
+                </Link>
+                <Link to="/tieng-anh/tiered-structure-4">
+                  <sup>&nbsp;4&nbsp;</sup>
+                </Link>
+                <Link to="/tieng-anh/tiered-structure-5">
+                  <sup>&nbsp;5&nbsp;</sup>
+                </Link>
+                <Link to="/tieng-anh/tiered-structure-6">
+                  <sup>&nbsp;6&nbsp;</sup>
+                </Link>
+                <Link to="/tieng-anh/tiered-structure-7">
+                  <sup>&nbsp;7&nbsp;</sup>
+                </Link>
+                <Link to="/tieng-anh/tiered-structure-8">
+                  <sup>&nbsp;8&nbsp;</sup>
+                </Link>
+                <Link to="/tieng-anh/tiered-structure-9">
+                  <sup>&nbsp;9&nbsp;</sup>
+                </Link> */}
+              
+              </div>
+              
+            </li>
+
+
+
+            <li>
+              <div className="li-content">
+                <Link to="/tieng-anh/nine-box-1">[FUNCtional THINKing]
+                {/* <sup>&nbsp;1&nbsp;</sup> */}
+                </Link>
+                {/* <Link to="/tieng-anh/nine-box-2">
+                  <sup>&nbsp;2&nbsp;</sup>
+                </Link>
+                <Link to="/tieng-anh/nine-box-3">
+                  <sup>&nbsp;3&nbsp;</sup>
+                </Link>
+                <Link to="/tieng-anh/nine-box-4">
+                  <sup>&nbsp;4&nbsp;</sup>
+                </Link>
+                <Link to="/tieng-anh/nine-box-5">
+                  <sup>&nbsp;5&nbsp;</sup>
+                </Link>
+                <Link to="/tieng-anh/nine-box-6">
+                  <sup>&nbsp;6&nbsp;</sup>
+                </Link>
+                <Link to="/tieng-anh/nine-box-7">
+                  <sup>&nbsp;7&nbsp;</sup>
+                </Link>
+                <Link to="/tieng-anh/nine-box-8">
+                  <sup>&nbsp;8&nbsp;</sup>
+                </Link>
+                <Link to="/tieng-anh/nine-box-9">
+                  <sup>&nbsp;9&nbsp;</sup>
+                </Link> */}
+              
+              </div>
+              
+            </li>
+
+
+            <li>
+              <div className="li-content">
+                <Link to="/tieng-anh/s-v-1">[FUNCtions][LEVels]
+                {/* <sup>&nbsp;1&nbsp;</sup> */}
+                </Link>
+                {/* <Link to="/tieng-anh/s-v-2">
+                  <sup>&nbsp;2&nbsp;</sup>
+                </Link> */}
+                {/* <Link to="/tieng-anh/s-v-3">
+                  <sup>&nbsp;3&nbsp;</sup>
+                </Link>
+                <Link to="/tieng-anh/s-v-4">
+                  <sup>&nbsp;4&nbsp;</sup>
+                </Link>
+                <Link to="/tieng-anh/s-v-5">
+                  <sup>&nbsp;5&nbsp;</sup>
+                </Link>
+                <Link to="/tieng-anh/s-v-6">
+                  <sup>&nbsp;6&nbsp;</sup>
+                </Link>
+                <Link to="/tieng-anh/s-v-7">
+                  <sup>&nbsp;7&nbsp;</sup>
+                </Link>
+                <Link to="/tieng-anh/s-v-8">
+                  <sup>&nbsp;8&nbsp;</sup>
+                </Link>
+                <Link to="/tieng-anh/s-v-9">
+                  <sup>&nbsp;9&nbsp;</sup>
+                </Link> */}
+              
+              </div>
+              
+            </li>
+
+            <li>
+              <div className="li-content">
+                <Link to="/tieng-anh/super-words-1">[SUper VERB BASE]
+                {/* <sup>&nbsp;1&nbsp;</sup> */}
+                </Link>
+                {/* <Link to="/tieng-anh/super-words-2">
+                  <sup>&nbsp;2&nbsp;</sup>
+                </Link> */}
+                {/* <Link to="/tieng-anh/super-words-3">
+                  <sup>&nbsp;3&nbsp;</sup>
+                </Link>
+                <Link to="/tieng-anh/super-words-4">
+                  <sup>&nbsp;4&nbsp;</sup>
+                </Link>
+                <Link to="/tieng-anh/super-words-5">
+                  <sup>&nbsp;5&nbsp;</sup>
+                </Link>
+                <Link to="/tieng-anh/super-words-6">
+                  <sup>&nbsp;6&nbsp;</sup>
+                </Link>
+                <Link to="/tieng-anh/super-words-7">
+                  <sup>&nbsp;7&nbsp;</sup>
+                </Link>
+                <Link to="/tieng-anh/super-words-8">
+                  <sup>&nbsp;8&nbsp;</sup>
+                </Link>
+                <Link to="/tieng-anh/super-words-9">
+                  <sup>&nbsp;9&nbsp;</sup>
+                </Link> */}
+              
+              </div>
+              
+            </li>
+
+
+            <li>
+              <div className="li-content">
+                <Link to="/tieng-anh/three-dc-1">[FORMS][FUNCtions]
+                {/* <sup>&nbsp;1&nbsp;</sup> */}
+                </Link>
+                {/* <Link to="/tieng-anh/three-dc-2">
+                  <sup>&nbsp;2&nbsp;</sup>
+                </Link> */}
+                {/* <Link to="/tieng-anh/three-dc-3">
+                  <sup>&nbsp;3&nbsp;</sup>
+                </Link>
+                <Link to="/tieng-anh/three-dc-4">
+                  <sup>&nbsp;4&nbsp;</sup>
+                </Link>
+                <Link to="/tieng-anh/three-dc-5">
+                  <sup>&nbsp;5&nbsp;</sup>
+                </Link>
+                <Link to="/tieng-anh/three-dc-6">
+                  <sup>&nbsp;6&nbsp;</sup>
+                </Link>
+                <Link to="/tieng-anh/three-dc-7">
+                  <sup>&nbsp;7&nbsp;</sup>
+                </Link>
+                <Link to="/tieng-anh/three-dc-8">
+                  <sup>&nbsp;8&nbsp;</sup>
+                </Link>
+                <Link to="/tieng-anh/three-dc-9">
+                  <sup>&nbsp;9&nbsp;</sup>
+                </Link> */}
+              
+              </div>
+              
+            </li>
+
+
+            <li>
+              <div className="li-content">
+                <Link to="/tieng-anh/adj-placement-1">[ADjective FUNCtion]
+                {/* <sup>&nbsp;1&nbsp;</sup> */}
+                </Link>
+                {/* <Link to="/tieng-anh/adj-placement-2">
+                  <sup>&nbsp;2&nbsp;</sup>
+                </Link> */}
+                {/* <Link to="/tieng-anh/adj-placement-3">
+                  <sup>&nbsp;3&nbsp;</sup>
+                </Link>
+                <Link to="/tieng-anh/adj-placement-4">
+                  <sup>&nbsp;4&nbsp;</sup>
+                </Link>
+                <Link to="/tieng-anh/adj-placement-5">
+                  <sup>&nbsp;5&nbsp;</sup>
+                </Link>
+                <Link to="/tieng-anh/adj-placement-6">
+                  <sup>&nbsp;6&nbsp;</sup>
+                </Link>
+                <Link to="/tieng-anh/adj-placement-7">
+                  <sup>&nbsp;7&nbsp;</sup>
+                </Link>
+                <Link to="/tieng-anh/adj-placement-8">
+                  <sup>&nbsp;8&nbsp;</sup>
+                </Link>
+                <Link to="/tieng-anh/adj-placement-9">
+                  <sup>&nbsp;9&nbsp;</sup>
+                </Link> */}
+              
+              </div>
+              
+            </li>
+
+
+
+            <li>
+              <div className="li-content">
+                <Link to="/tieng-anh/lego-assembly-1">[LEGo asSEMbly]
+                {/* <sup>&nbsp;1&nbsp;</sup> */}
+                </Link>
+                {/* <Link to="/tieng-anh/lego-assembly-2">
+                  <sup>&nbsp;2&nbsp;</sup>
+                </Link> */}
+                {/* <Link to="/tieng-anh/lego-assembly-3">
+                  <sup>&nbsp;3&nbsp;</sup>
+                </Link>
+                <Link to="/tieng-anh/lego-assembly-4">
+                  <sup>&nbsp;4&nbsp;</sup>
+                </Link>
+                <Link to="/tieng-anh/lego-assembly-5">
+                  <sup>&nbsp;5&nbsp;</sup>
+                </Link>
+                <Link to="/tieng-anh/lego-assembly-6">
+                  <sup>&nbsp;6&nbsp;</sup>
+                </Link>
+                <Link to="/tieng-anh/lego-assembly-7">
+                  <sup>&nbsp;7&nbsp;</sup>
+                </Link>
+                <Link to="/tieng-anh/lego-assembly-8">
+                  <sup>&nbsp;8&nbsp;</sup>
+                </Link>
+                <Link to="/tieng-anh/lego-assembly-9">
+                  <sup>&nbsp;9&nbsp;</sup>
+                </Link> */}
+              
+              </div>
+              
+            </li>
+
+          </ul>
+
+        </div>
+
+        <div className="sub-box">
+
+          {/* =============================
+              THINKing
+          ============================= */}
+      
+          <p id="thinking-terms"><mark className="highlight-secondary-padding-2-4">THINKing</mark></p>
+
+          <ul className="list-border1">
+
+            
+
+
+            <li>
+              <div className="li-content">
+                <Link to="/tieng-anh/dependent-clause-1">dePENdent CLAUSE
+                {/* <sup>&nbsp;1&nbsp;</sup> */}
+                </Link>
+                {/* <Link to="/tieng-anh/dependent-clause-2">
+                  <sup>&nbsp;2&nbsp;</sup>
+                </Link>
+                <Link to="/tieng-anh/dependent-clause-3">
+                  <sup>&nbsp;3&nbsp;</sup>
+                </Link>
+                <Link to="/tieng-anh/dependent-clause-4">
+                  <sup>&nbsp;4&nbsp;</sup>
+                </Link>
+                <Link to="/tieng-anh/dependent-clause-5">
+                  <sup>&nbsp;5&nbsp;</sup>
+                </Link>
+                <Link to="/tieng-anh/dependent-clause-6">
+                  <sup>&nbsp;6&nbsp;</sup>
+                </Link>
+                <Link to="/tieng-anh/dependent-clause-7">
+                  <sup>&nbsp;7&nbsp;</sup>
+                </Link>
+                <Link to="/tieng-anh/dependent-clause-8">
+                  <sup>&nbsp;8&nbsp;</sup>
+                </Link>
+                <Link to="/tieng-anh/dependent-clause-9">
+                  <sup>&nbsp;9&nbsp;</sup>
+                </Link> */}
+              
+              </div>
+              
+            </li>
+
+            <li>
+              <div className="li-content">
+                <Link to="/tieng-anh/SVOMPT-1">SVOMPT
+                {/* <sup>&nbsp;1&nbsp;</sup> */}
+                </Link>
+                {/* <Link to="/tieng-anh/SVOMPT-2">
+                  <sup>&nbsp;2&nbsp;</sup>
+                </Link>
+                <Link to="/tieng-anh/SVOMPT-3">
+                  <sup>&nbsp;3&nbsp;</sup>
+                </Link>
+                <Link to="/tieng-anh/SVOMPT-4">
+                  <sup>&nbsp;4&nbsp;</sup>
+                </Link>
+                <Link to="/tieng-anh/SVOMPT-5">
+                  <sup>&nbsp;5&nbsp;</sup>
+                </Link>
+                <Link to="/tieng-anh/SVOMPT-6">
+                  <sup>&nbsp;6&nbsp;</sup>
+                </Link>
+                <Link to="/tieng-anh/SVOMPT-7">
+                  <sup>&nbsp;7&nbsp;</sup>
+                </Link>
+                <Link to="/tieng-anh/SVOMPT-8">
+                  <sup>&nbsp;8&nbsp;</sup>
+                </Link> */}
+              
+              </div>
+              
+            </li>
+
+            <li>
+              <div className="li-content">
+                <Link to="/tieng-anh/sentence-variety-1">SENtence vaRIety
+                {/* <sup>&nbsp;1&nbsp;</sup> */}
+                </Link>
+                {/* <Link to="/tieng-anh/sentence-variety-2">
+                  <sup>&nbsp;2&nbsp;</sup>
+                </Link>
+                <Link to="/tieng-anh/sentence-variety-3">
+                  <sup>&nbsp;3&nbsp;</sup>
+                </Link>
+                <Link to="/tieng-anh/sentence-variety-4">
+                  <sup>&nbsp;4&nbsp;</sup>
+                </Link>
+                <Link to="/tieng-anh/sentence-variety-5">
+                  <sup>&nbsp;5&nbsp;</sup>
+                </Link>
+                <Link to="/tieng-anh/sentence-variety-6">
+                  <sup>&nbsp;6&nbsp;</sup>
+                </Link>
+                <Link to="/tieng-anh/sentence-variety-7">
+                  <sup>&nbsp;7&nbsp;</sup>
+                </Link>
+                <Link to="/tieng-anh/sentence-variety-8">
+                  <sup>&nbsp;8&nbsp;</sup>
+                </Link>
+                <Link to="/tieng-anh/sentence-variety-9">
+                  <sup>&nbsp;9&nbsp;</sup>
+                </Link> */}
+              
+              </div>
+              
+            </li>
+
+
+            <li>
+              <div className="li-content">
+                <Link to="/tieng-anh/think-straight-flow-fast-1">THINK STRAIGHT FLOW FAST
+                {/* <sup>&nbsp;1&nbsp;</sup> */}
+                </Link>
+                {/* <Link to="/tieng-anh/think-straight-flow-fast-2">
+                  <sup>&nbsp;2&nbsp;</sup>
+                </Link>
+                <Link to="/tieng-anh/think-straight-flow-fast-3">
+                  <sup>&nbsp;3&nbsp;</sup>
+                </Link>
+                <Link to="/tieng-anh/think-straight-flow-fast-4">
+                  <sup>&nbsp;4&nbsp;</sup>
+                </Link>
+                <Link to="/tieng-anh/think-straight-flow-fast-5">
+                  <sup>&nbsp;5&nbsp;</sup>
+                </Link>
+                <Link to="/tieng-anh/think-straight-flow-fast-6">
+                  <sup>&nbsp;6&nbsp;</sup>
+                </Link>
+                <Link to="/tieng-anh/think-straight-flow-fast-7">
+                  <sup>&nbsp;7&nbsp;</sup>
+                </Link>
+                <Link to="/tieng-anh/think-straight-flow-fast-8">
+                  <sup>&nbsp;8&nbsp;</sup>
+                </Link> */}
+              </div>
+            </li>
+
+            <li>
+              <div className="li-content">
+                <Link to="/tieng-anh/the-beauty-of-the-girl-1">the BEAUty of the GIRL
+                {/* <sup>&nbsp;1&nbsp;</sup> */}
+                </Link>
+                {/* <Link to="/tieng-anh/the-beauty-of-the-girl-2">
+                  <sup>&nbsp;2&nbsp;</sup>
+                </Link>
+                <Link to="/tieng-anh/the-beauty-of-the-girl-3">
+                  <sup>&nbsp;3&nbsp;</sup>
+                </Link>
+                <Link to="/tieng-anh/the-beauty-of-the-girl-4">
+                  <sup>&nbsp;4&nbsp;</sup>
+                </Link>
+                <Link to="/tieng-anh/the-beauty-of-the-girl-5">
+                  <sup>&nbsp;5&nbsp;</sup>
+                </Link> */}
+              </div>
+            </li>
+
+            
+
+          </ul>
+
+        </div>
+
+      </div>
+
+
+
+      <div className="flex-container margin-top-20">
+
+        <div className="sub-box">
+
+          <ul className="list-border1">
+
+            <li><Link to="/tieng-anh/giao-vien-tieng-anh-la-gi?">Giáo viên tiếng Anh</Link></li>
+            
+          </ul>
+
+        </div>
+
+      </div>
+
+    </article>
+    
+  </main>
+
+  </>);
+}

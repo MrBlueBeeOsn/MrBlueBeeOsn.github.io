@@ -1,0 +1,251 @@
+import React from 'react';
+import { Link } from "react-router-dom";
+import { HashLink } from 'react-router-hash-link';
+import EyeIcon from '@/components/view/EyeIcon';
+import ViewCounter from '@/components/view/ViewCounter';
+import LikeButton from '@/components/like/LikeButton';
+
+export default function VERy1(): React.JSX.Element {
+
+  const postId = "VERy1";
+
+  return (<>
+
+  <main className="image image2">
+
+    <article>
+    
+      <h4><HashLink smooth to="/vocabulary#adverbs-muc-do-cao"><mark className="highlight-tertiary-padding-4-8">ADverbs: mức độ cao</mark></HashLink></h4>
+      
+      <h1 className="margin-y-50 text-center">VERy
+        <sup><Link to="/vocabulary/VERy-1">&nbsp;1&nbsp;</Link>
+        </sup>
+        <sup><Link to="/vocabulary/VERy-2">&nbsp;2&nbsp;</Link>
+        </sup>
+      </h1>
+
+      {/* This is the content of Vocabulary Term. */}
+      
+      <p>Tuyệt vời! Chúng ta cùng đi sâu vào phân tích từ "<strong>VERy</strong>" nhé.</p>
+
+      <div className="text-border1 padding-top-20 padding-bottom-10 highlight-238-padding-4-8 bee-container">
+
+        <div>
+
+          <ul className="list-square padding-left-40">
+
+            <li>
+              <span className="highlight-255-padding-3-6">
+                [VEry][<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">VER y</Link>] /ˈveri/ ⬤• (2x)
+              </span>
+            </li>
+
+            <li><Link to="/grammar/what-is-an-adverb?">ADverb</Link></li>
+
+            <li>Rất</li>
+
+          </ul>
+
+        </div>
+
+        <div className="bee-wrapper">
+          <img src="/assets/images/bee2.png" alt="Mr. Bee Osn"/>
+        </div>
+
+      </div>
+
+      <p className="margin-top-30 text-indent-whole">Dùng để nhấn mạnh mức độ của một Tính Cơ hoặc một Trạng Cơ khác, cho thấy một đặc điểm nào đó ở mức độ cao.</p>
+
+      <p className="margin-top-20 text-indent-whole">Ví dụ:</p>
+
+        <ul className="list-square">
+
+          <li>she is VERy BEAUtiful.</li>
+          <li className="margin-bottom-20 list-none">Cô ấy rất đẹp.</li>
+
+          <li>he RUNS VERy FAST.</li>
+          <li className="list-none">Anh ấy chạy rất nhanh.</li>
+
+        </ul>
+
+      {/* =============================
+            Gia đình từ:
+      ============================= */}
+        
+      <p className="margin-top-20">
+        <mark className="highlight-238-padding-4-8">
+          <strong>Gia đình từ</strong>:
+        </mark>
+      </p>
+
+        <ul className="list-square">
+
+          <li className="list-none">Không có gia đình từ trực tiếp cho "<strong>VERy</strong>". Tuy nhiên, "<strong>VERy</strong>" thường được kết hợp với các Tính Cơ và Trạng Cơ khác để tạo thành các cụm từ mới.</li>
+
+        </ul>
+
+      {/* =============================
+            Từ đồng nghĩa:
+      ============================= */}
+        
+      <p className="margin-top-20">
+        <mark className="highlight-238-padding-4-8">
+          <strong>Từ đồng nghĩa</strong>:
+        </mark>
+      </p>
+
+        <ul className="list-square">
+
+          <li>she <Link to="/vocabulary/exTREMEly-1">exTREMEly</Link> inTELligent.</li>
+          <li className="margin-bottom-20 list-none">Cô ấy cực kỳ thông minh.</li>
+
+          <li>he <Link to="/vocabulary/HIGHly-1">HIGHly</Link> MOtivated.</li>
+          <li className="list-none">Anh ấy có động lực rất cao.</li>
+
+        </ul>
+
+        {/* <Link to="/vocabulary/CLEARly-1">Clearly</Link> */}
+
+      {/* =============================
+            Từ trái nghĩa:
+      ============================= */}
+
+      <p className="margin-top-20">
+        <mark className="highlight-238-padding-4-8">
+          <strong>Từ trái nghĩa</strong>:
+        </mark>
+      </p>
+
+        <ul className="list-square">
+
+          <li>i'm SLIGHTly TIred.</li>
+          <li className="margin-bottom-20 list-none">Tôi hơi mệt.</li>
+
+          <li>she <Link to="/vocabulary/NOT-1">NOT</Link> VERy TALL.</li>
+          <li className="list-none">Cô ấy không cao lắm.</li>
+
+        </ul>
+      
+      {/* =============================
+            🌻 Mẹo học từ vựng:
+      ============================= */}
+
+      <h3 className="margin-y-50 text-center">🌻 Mẹo học từ vựng:</h3>
+
+      {/* =============================
+            1. Liên kết hình ảnh:
+      ============================= */}
+      
+      <p className="margin-top-20">
+        <strong>
+          <mark className="highlight-255-padding-4-8"><strong>1. Liên kết</strong></mark> 
+        </strong>
+        <strong>&nbsp;với hình ảnh</strong>:
+      </p>
+
+      <p className="text-indent-whole">Hãy tưởng tượng một quả táo đỏ rực, bạn có thể miêu tả là:</p>
+
+        <ul className="list-square">
+
+          <li>the APple VERy RED.</li>
+          <li className="list-none">Quả táo rất đỏ.</li>
+
+        </ul>
+
+      {/* =============================
+            2. Tạo câu ví dụ:
+      ============================= */}
+
+      <p className="margin-top-20">
+        <strong>
+          <mark className="highlight-255-padding-4-8"><strong>2. Tạo câu</strong></mark> 
+        </strong>
+        <strong>&nbsp;ví dụ</strong>:
+      </p>
+
+      <p className="text-indent-whole">Thử tạo càng nhiều câu ví dụ càng tốt với "<strong>VERy</strong>".</p>
+
+        <ul className="list-square">
+
+          <li>she has VERy LONG HAIR.</li>
+          <li className="list-none">Cô ấy có mái tóc rất dài.</li>
+
+        </ul>
+
+      {/* =============================
+            3. Luyện tập thường xuyên:
+      ============================= */}
+
+      <p className="margin-top-20">
+        <strong>
+            <mark className="highlight-255-padding-4-8"><strong>3. Luyện tập</strong></mark>
+        </strong>
+        <strong>&nbsp;thường xuyên</strong>:
+      </p>
+
+      <p className="text-indent-whole margin-bottom-20">Đọc và viết nhiều để củng cố vốn từ vựng và cách sử dụng của "<strong>VERy</strong>".</p>
+
+        <p className="text-indent-whole">Ví dụ để so sánh (sự khác biệt giữa exTREMEly và <strong>VERy</strong>):</p>
+
+          <ol>
+
+            <li value="1">she <Link to="/vocabulary/exTREMEly-1">exTREMEly</Link> HAPpy.</li>
+            <li className="list-none">Cô ấy vui sướng vô cùng.</li>
+            <li className="list-none margin-bottom-20">Nhấn mạnh một mức độ cực kỳ cao.</li>
+
+            <li value="2">she VERy HAPpy.</li>
+            <li className="list-none">Cô ấy rất vui.</li>
+            <li className="list-none"><span className="highlight-255-padding-0-4">Nhấn mạnh một mức độ cao</span>.</li>
+
+          </ol>
+
+      {/* <span className="highlight-255-padding-0-4"></span> */}
+
+      {/* =============================
+            Lưu ý:
+      ============================= */}
+      
+      <div className="margin-y-30 text-border1 table-container">
+
+        <h3 className="margin-y-30 text-center">Lưu ý:</h3>
+
+        <ul className="list-square">
+
+          <li>"<strong>VERy</strong>" thường đứng trước Tính Cơ hoặc trạng cơ.</li>
+
+          <li>"<strong>VERy</strong>" có thể được sử dụng để nhấn mạnh cả tính chất tích cực và tiêu cực.</li>
+
+          <li className="margin-bottom-20">Để tránh lạm dụng "<strong>VERy</strong>", bạn có thể sử dụng các Tính Cơ hoặc Trạng Cơ mạnh hơn hoặc các cấu trúc so sánh hơn.</li>
+
+        </ul>
+
+      </div>
+
+      <p className="margin-top-50">Chúc bạn học tiếng Anh thật tốt! 🐝</p>
+
+      <div className="viewcounter">
+      
+        <div className="post-date no-margin">
+          <span>November 12, 2024 · by 💎GEM ·</span>
+        </div>
+
+        <div className="eye-icon no-margin">
+          <EyeIcon />
+        </div>
+
+        <div className="post-date no-margin">
+          <ViewCounter postId={postId} />
+        </div>
+
+        <div className="like-button no-margin">
+          <LikeButton postId={postId} />
+        </div>
+
+      </div>
+
+    </article>
+    
+  </main>
+
+  </>);
+}

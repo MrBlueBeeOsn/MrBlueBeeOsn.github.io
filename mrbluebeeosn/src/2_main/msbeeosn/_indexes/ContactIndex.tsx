@@ -1,0 +1,244 @@
+import React from 'react';
+import { Link } from "react-router-dom";
+import { HashLink } from 'react-router-hash-link';
+import MrBeeOsnTopic from '@/components/topic/MrBeeOsnTopic';
+import ExternalLink from '@/components/icon/ExternalLink';
+import EyeIcon from '@/components/view/EyeIcon';
+import ViewCounter from '@/components/view/ViewCounter';
+import LikeButton from '@/components/like/LikeButton';
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+import { faGithub } from '@fortawesome/free-brands-svg-icons';
+import { faInstagram } from '@fortawesome/free-brands-svg-icons';
+import { faFacebook } from '@fortawesome/free-brands-svg-icons';
+import { faLinkedin } from '@fortawesome/free-brands-svg-icons';
+import { faWhatsapp } from '@fortawesome/free-brands-svg-icons';
+import { faTelegram } from '@fortawesome/free-brands-svg-icons';
+import { faYoutube } from '@fortawesome/free-brands-svg-icons';
+import { faTiktok } from '@fortawesome/free-brands-svg-icons';
+import { faGlobe } from '@fortawesome/free-solid-svg-icons'
+import { faLocationDot } from '@fortawesome/free-solid-svg-icons'
+import { faBookOpenReader } from '@fortawesome/free-solid-svg-icons'
+import { faVolumeHigh } from '@fortawesome/free-solid-svg-icons'
+import { faAt } from '@fortawesome/free-solid-svg-icons'
+import { faGraduationCap } from '@fortawesome/free-solid-svg-icons'
+
+export default function ContactIndex(): React.JSX.Element {
+
+  const postId = "ContactIndex";
+
+  return (<>
+     
+  <main className="image image4">
+
+    <article>
+    
+      {/* =============================
+          Mr.Bee Osn Topic
+      ============================= */}
+      
+        <MrBeeOsnTopic />
+
+      {/* =============================
+          Portfolio
+      ============================= */}
+
+      <h1 className="margin-y-50 text-center">Contact</h1>
+      
+      <div className="container">
+
+        <header className="portfolio-header title">
+
+          <h1 className="name">ßee EngDev</h1>
+          <div className="title">Bookkeeper | Daily Transactions | Invoicing | Reconciliation</div>
+          <div className="location"><FontAwesomeIcon icon={faLocationDot} /> Hoc Mon District, HCMC</div>
+          
+          <div className="contact-info">
+
+            {/* <div className="contact-item">
+              <FontAwesomeIcon icon={faAt} />
+              <Link to="mailto:HieuTrongKhau@outlook.com" className="email-link">
+                Outlook
+              </Link>
+            </div> */}
+
+            <div className="contact-item">
+              <FontAwesomeIcon icon={faWhatsapp} />
+              <Link to="https://wa.me/84906920292?text=Hello! What Sapp chưa nè?" className="email-link" target="_blank">
+                WhatsApp
+              </Link>
+            </div>
+
+            <div className="contact-item">
+              <FontAwesomeIcon icon={faTelegram} />
+              <Link to="https://t.me/AccountingBee" className="email-link" target="_blank">
+                Telegram
+              </Link>
+            </div>
+
+          </div>
+
+          <div className="contact-info">
+
+            <div className="contact-item">
+              <FontAwesomeIcon icon={faInstagram} />
+              <Link to="https://www.instagram.com/mr.bluebee.ongsiengnang/" className="email-link" target="_blank">
+                Instagram
+              </Link>
+            </div>
+
+            <div className="contact-item">
+              <FontAwesomeIcon icon={faFacebook} /> 
+              <Link to="https://www.facebook.com/aBookkeepingBee" className="email-link" target="_blank">
+                Facebook
+              </Link>
+            </div>
+
+            <div className="contact-item">
+              <FontAwesomeIcon icon={faGithub} />
+              <Link to="https://github.com/MrBlueBeeOsn" className="email-link" target="_blank">
+                GitHub
+              </Link>
+            </div>
+
+            <div className="contact-item">
+              <FontAwesomeIcon icon={faLinkedin} />  
+              <Link to="https://www.linkedin.com/in/anAccountingBee/" className="email-link" target="_blank">
+                LinkedIn
+              </Link>
+            </div>
+
+          </div>
+
+          <div className="contact-info">
+
+            <div className="contact-item">
+              <FontAwesomeIcon icon={faGlobe} />
+              <Link to="/" className="email-link">
+                Bookkeeping Bee
+              </Link>
+              {/* <FontAwesomeIcon icon={faVolumeHigh} /><FontAwesomeIcon icon={faBookOpenReader} /> */}
+            </div>
+
+            <div className="contact-item">
+              <FontAwesomeIcon icon={faYoutube} />
+              <Link to="https://www.youtube.com/@Mr.GreenBee.Ongsiengnang" className="email-link" target="_blank">
+                YouTube
+              </Link>
+            </div>
+
+          </div>
+
+        </header>
+
+        {/* =============================
+                  Accounting Bee
+        ============================= */}
+  
+        <div className="container">
+          
+          <div className="group-container">
+  
+            <h3 className="margin-y-50 text-center">Cộng đồng chính thức của Accounting Bee</h3>
+            {/* <p className="margin-bottom-50 text-center">(WhatsApp của Facebook)</p> */}
+  
+            <div className="group-title">
+              <h2>Group chính</h2>
+            </div>
+            
+            <div className="group-card">
+              <h3>🐝 
+                <Link to="https://chat.whatsapp.com/K5o1yD7XLtMGiOstKEKkEO" target="_blank">
+                  Accounting Bee📘 — Hub (thông báo chính)
+                </Link>
+              </h3>
+              <p>Thông báo Kế toán chính thức, quy định!</p>
+            </div>
+            
+            <div className="subgroups">
+              <div className="group-title">
+                  <h2>Group con</h2>
+              </div>
+              
+              <div className="subgroup-card">
+                <div className="subgroup-icon">💬</div>
+                <div className="subgroup-content">
+                  <h4>
+                    <Link to="https://chat.whatsapp.com/Gtzd16qVdJW3IzzlMijwqo" target="_blank">
+                      Internal Chat — Kênh trao đổi nhanh!
+                    </Link>
+                  </h4>
+                  <p>Kênh trao đổi nhanh chóng và tiện lợi!</p>
+                </div>
+              </div>
+              
+              <div className="subgroup-card">
+                <div className="subgroup-icon">🌻</div>
+                <div className="subgroup-content">
+                  <h4>
+                    <Link to="https://chat.whatsapp.com/BzHtZaao2JU1KVBjHWu5cz" target="_blank">
+                      VN — Kế Toán
+                    </Link>
+                  </h4>
+                  <p>Thảo luận Kế toán, hướng dẫn nội bộ!</p>
+                </div>
+              </div>
+              
+              <div className="subgroup-card">
+                <div className="subgroup-icon">🌻</div>
+                <div className="subgroup-content">
+                  <h4>
+                    <Link to="https://chat.whatsapp.com/LFrhkV7pvsM7UOCAYI99y0" target="_blank">
+                      EN — Accounting
+                    </Link>
+                  </h4>
+                  <p>Thảo luận Accounting, hướng dẫn quốc tế!</p>
+                </div>
+              </div>
+              
+              <div className="subgroup-card">
+                <div className="subgroup-icon">📁</div>
+                <div className="subgroup-content">
+                  <h4>
+                    <Link to="https://chat.whatsapp.com/BTVn7TqIG1305LhHXzKcAd" target="_blank">
+                      Files — Nơi lưu tài liệu
+                    </Link>
+                  </h4>
+                  <p>Chia sẻ tài liệu!</p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div className="bee-wrapper1">
+          <img src="/assets/images/bee2.png" alt="Mr. Bee Osn"/>
+      	</div>
+
+      </div>
+
+      <div className="viewcounter">
+      
+        <div className="post-date no-margin">
+          <span>October 27, 2025 · by 🐝Mr. Bee Osn ·</span>
+        </div>
+
+        <div className="eye-icon no-margin">
+          <EyeIcon />
+        </div>
+
+        <div className="post-date no-margin">
+          <ViewCounter postId={postId} />
+        </div>
+
+        <div className="like-button no-margin">
+          <LikeButton postId={postId} />
+        </div>
+
+      </div>
+
+    </article>
+    
+  </main>
+
+  </>);
+}
