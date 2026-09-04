@@ -22,13 +22,13 @@ export default function (): React.JSX.Element {
 	const questions: Question[] = [
 		{
 			id: 1,
-			question: "[reCORDing every BUSINess transACtion] is the fundaMENtal TASK of a BOOKkeeper. \n [Ghi chép mọi giao dịch kinh doanh] là nhiệm vụ cơ bản của một người làm sổ sách.",
+			question: "[reCORDing every BUSIness transACtion] is the fundaMENtal TASK of a BOOKkeeper. \n [Ghi chép mọi giao dịch kinh doanh] là nhiệm vụ cơ bản của một người làm sổ sách.",
 			options: [
 				"[Noun Clause]",
 				"[Noun Phrase]"
 			],
 			correctAnswer: 1,
-			explanation: "Hình thái: [reCORDing every BUSINess transACtion] - [Tiếp Động Cụm][Progressive Verb Phrase] bắt đầu bằng hành động thêm đuôi \"-ing\" đi kèm các thành phần bổ nghĩa, không có chủ thể thực hiện hành động đứng trước và không biến đổi theo thời gian. \n\n Chức năng: [reCORDing every BUSINess transACtion] - [Danh Cụm][Noun Phrase] cả này giữ vai trò làm thành phần đứng đầu chính đứng trước \"is\"."
+			explanation: "Hình thái: [reCORDing every BUSIness transACtion] - [Tiếp Động Cụm][Progressive Verb Phrase] bắt đầu bằng hành động thêm đuôi \"-ing\" đi kèm các thành phần bổ nghĩa, không có chủ thể thực hiện hành động đứng trước và không biến đổi theo thời gian. \n\n Chức năng: [reCORDing every BUSInesstransACtion] - [Danh Cụm][Noun Phrase] cả này giữ vai trò làm thành phần đứng đầu chính đứng trước \"is\"."
 		},
 		{
 			id: 2,

@@ -80,7 +80,7 @@ export default function exTREMEly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>he TOOK exTREME MEASures to proTECT his FAMILy.</li>
+          <li>he TOOK exTREME MEASures to proTECT his FAMIly.</li>
           <li className="margin-bottom-20 list-none">Anh ấy đã thực hiện những biện pháp cực đoan để bảo vệ gia đình.</li>
 
           <li>the situAtion REACHed its exTREMity.</li>

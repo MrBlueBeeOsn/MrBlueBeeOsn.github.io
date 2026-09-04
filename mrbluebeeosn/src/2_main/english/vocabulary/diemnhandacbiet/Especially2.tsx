@@ -56,7 +56,7 @@ export default function esPECially2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1">i am esPECially INTERested in LEARNing about DIFferent CULtures.</li>
+        <li value="1">i am esPECially INTErested in LEARNing about DIFferent CULtures.</li>
         <li className="list-none margin-bottom-20">Tôi đặc biệt quan tâm đến việc tìm hiểu về các nền văn hóa khác nhau.</li>
 
         <li value="2">she is esPECially GOOD at PLAYing the piANo.</li>

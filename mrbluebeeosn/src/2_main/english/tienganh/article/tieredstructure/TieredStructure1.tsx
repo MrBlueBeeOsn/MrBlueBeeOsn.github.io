@@ -473,7 +473,7 @@ export default function TieredStructure1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>the NEWS [about {'{how this TEAM deSIGNED the APP}'}] is INTEResting.</li>
+					<li>the NEWS [about {'{how this TEAM deSIGNED the APP}'}] is INTEresting.</li>
 					<li className="margin-bottom-20 list-none">Tin tức [về {'{cách mà đội này đã thiết kế ứng dụng}'}] thì thú vị.</li>
 			
 				</ul>

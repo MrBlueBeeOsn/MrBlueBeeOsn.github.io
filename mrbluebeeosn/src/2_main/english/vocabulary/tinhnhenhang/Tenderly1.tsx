@@ -166,7 +166,7 @@ export default function TENderly1(): React.JSX.Element {
           <li>he HELD his LOVED ONE TENderly.</li>
           <li className="margin-bottom-20 list-none">Anh ấy ôm người thân yêu một cách dịu dàng.</li>
 
-          <li>she caRESSED her FAMILy MEMber TENderly.</li>
+          <li>she caRESSED her FAMIly MEMber TENderly.</li>
           <li className="list-none">Cô ấy vuốt ve người thân một cách dịu dàng.</li>
 
         </ul>

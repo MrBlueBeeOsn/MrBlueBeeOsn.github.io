@@ -56,7 +56,7 @@ export default function parTICularly2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1">i am parTICularly INTERested in HIStory.</li>
+        <li value="1">i am parTICularly INTErested in HIStory.</li>
         <li className="list-none margin-bottom-20">Tôi đặc biệt quan tâm đến lịch sử.</li>
 
         <li value="2">she is parTICularly CHOCOLate.</li>

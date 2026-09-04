@@ -62,7 +62,7 @@ export default function JOYfully2(): React.JSX.Element {
         <li value="2">the CHILDren JOYfully parTICipated in the GAMES.</li>
         <li className="list-none margin-bottom-20">Những đứa trẻ tham gia vào các trò chơi một cách vui vẻ.</li>
 
-        <li value="3">their WEDding was JOYfully CELebrated by FRIENDS and FAMILy.</li>
+        <li value="3">their WEDding was JOYfully CELebrated by FRIENDS and FAMIly.</li>
         <li className="list-none margin-bottom-20">Đám cưới của họ đã được bạn bè và gia đình tổ chức một cách vui vẻ.</li>
 
         <li value="4">the HOLiday was JOYfully anTICipated by the CHILDren.</li>

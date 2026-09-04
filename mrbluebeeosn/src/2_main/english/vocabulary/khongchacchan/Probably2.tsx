@@ -56,7 +56,7 @@ export default function PROBably2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1">THIS is PROBably the BEST RESTAURant in TOWN.</li>
+        <li value="1">THIS is PROBably the BEST RESTAUrant in TOWN.</li>
         <li className="list-none margin-bottom-20">Đây có lẽ là nhà hàng ngon nhất trong thị trấn.</li>
 
         <li value="2">i PROBably will NOT be ABle to MAKE it to the PARTy.</li>

@@ -171,7 +171,7 @@ export default function (): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>he GENuinely enJOYS SPENding TIME with his FAMILy.</li>
+          <li>he GENuinely enJOYS SPENding TIME with his FAMIly.</li>
           <li className="list-none">Anh ấy thực sự thích dành thời gian cùng gia đình.</li>
 
         </ul>

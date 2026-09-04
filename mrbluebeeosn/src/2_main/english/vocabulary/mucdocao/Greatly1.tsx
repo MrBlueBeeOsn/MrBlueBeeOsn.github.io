@@ -190,10 +190,10 @@ export default function GREATly1(): React.JSX.Element {
 
           <ol>
 
-            <li value="1">the BOOK is INTEResting.</li>
+            <li value="1">the BOOK is INTEresting.</li>
             <li className="list-none margin-bottom-20">Cuốn sách thú vị.</li>
 
-            <li value="2">the BOOK is GREATly INTEResting.</li>
+            <li value="2">the BOOK is GREATly INTEresting.</li>
             <li className="list-none margin-bottom-20">Cuốn sách thú vị một cách đặc biệt.</li>
 
           </ol>

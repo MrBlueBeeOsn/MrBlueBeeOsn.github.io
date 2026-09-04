@@ -56,7 +56,7 @@ export default function exTREMEly2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1">she was exTREMEly HAPpy to SEE her FAMILy.</li>
+        <li value="1">she was exTREMEly HAPpy to SEE her FAMIly.</li>
         <li className="list-none margin-bottom-20">Cô ấy rất vui khi gặp lại gia đình.</li>
 
         <li value="2">after WORKing all NIGHT, he was exTREMEly TIred.</li>

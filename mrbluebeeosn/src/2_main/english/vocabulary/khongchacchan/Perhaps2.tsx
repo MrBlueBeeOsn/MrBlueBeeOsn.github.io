@@ -65,7 +65,7 @@ export default function perHAPS2(): React.JSX.Element {
         <li value="3">perHAPS, it is POSsible that he forGOT.</li>
         <li className="list-none margin-bottom-20">Có lẽ, có thể là anh ấy đã quên.</li>
 
-        <li value="4">perHAPS, it is TRUE that she is NOT INTERested.</li>
+        <li value="4">perHAPS, it is TRUE that she is NOT INTErested.</li>
         <li className="list-none margin-bottom-20">Có lẽ, đúng là cô ấy không hứng thú.</li>
 
         <li value="5">perHAPS, if you STUDy HARder, you will PASS the eXAM.</li>

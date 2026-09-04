@@ -60,7 +60,7 @@ export default function REally1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>that's REally INTEResting.</li>
+          <li>that's REally INTEresting.</li>
           <li className="margin-bottom-20 list-none">Điều đó thật sự thú vị.</li>
 
           <li>i'm REally TIred.</li>

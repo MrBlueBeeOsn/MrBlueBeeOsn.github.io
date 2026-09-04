@@ -531,7 +531,7 @@ export default function IrregularVerbs(): React.JSX.Element {
 					<li className="list-none">Anh ấy <strong>đọc</strong> các blog kỹ thuật chuyên ngành <strong>vào mỗi buổi tối</strong>.</li>
 					<li className="margin-bottom-20 list-none">Dùng ⏳ Thời Gian Hành Động ở Hiện Tại Đơn với dạng READS (cho chủ thể ngôi thứ ba số ít he) để chỉ thói quen hoặc sự việc diễn ra theo quy luật.</li>
 			
-					<li>she <strong>READ</strong> an INTEResting BOOK <strong>LAST WEEK</strong>.</li>
+					<li>she <strong>READ</strong> an INTEresting BOOK <strong>LAST WEEK</strong>.</li>
 					<li className="list-none">Cô ấy <strong>đã đọc</strong> một cuốn sách hay <strong>vào tuần trước</strong>.</li>
 					<li className="margin-bottom-20 list-none">Dùng ⏳ Thời Gian Hành Động ở Quá Khứ Đơn với dạng READ (phát âm là /red/) để chỉ việc đã xảy ra và kết thúc trong quá khứ.</li>
 			
@@ -1012,7 +1012,7 @@ export default function IrregularVerbs(): React.JSX.Element {
 					<li className="list-none">Con chim <strong>đã bay vụt đi</strong> nhanh chóng <strong>khi tôi đến gần</strong>.</li>
 					<li className="margin-bottom-20 list-none">Dùng ⏳ Thời Gian Hành Động ở Quá Khứ Đơn với cụm động flew aWAY để chỉ việc đã xảy ra và kết thúc trong quá khứ.</li>
 			
-					<li>he <strong>has FLOWN</strong> to VietNAM on a BUSINess TRIP.</li>
+					<li>he <strong>has FLOWN</strong> to VietNAM on a BUSIness TRIP.</li>
 					<li className="list-none">Anh ấy <strong>đã bay</strong> đến Việt Nam trong một chuyến công tác.</li>
 					<li className="list-none">Cấu trúc này dùng từ chỉ hành động ở dạng hoàn thành (has FLOWN) để nói về sự việc đã hoàn tất và liên quan đến hiện tại, với chủ thể là he (anh ấy).</li>
 			
@@ -1042,7 +1042,7 @@ export default function IrregularVerbs(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>he <strong>CUTS</strong> the VEGETables for COOKing.</li>
+					<li>he <strong>CUTS</strong> the VEGEtables for COOKing.</li>
 					<li className="list-none">Anh ấy <strong>cắt</strong> rau củ để nấu ăn.</li>
 					<li className="margin-bottom-20 list-none">Dùng ⏳ Thời Gian Hành Động ở Hiện Tại Đơn với dạng CUTS (cho chủ thể ngôi thứ ba số ít He) để chỉ việc làm diễn ra thường xuyên.</li>
 			
@@ -1179,7 +1179,7 @@ export default function IrregularVerbs(): React.JSX.Element {
 					<li className="list-none">Anh ấy <strong>hát</strong> theo những bài hát yêu thích của mình trong lúc lập trình <strong>vào mỗi buổi tối</strong>.</li>
 					<li className="margin-bottom-20 list-none">Dùng ⏳ Thời Gian Hành Động ở Hiện Tại Đơn với dạng SINGS (cho chủ thể ngôi thứ ba số ít he) để chỉ thói quen hoặc sự việc diễn ra theo quy luật.</li>
 			
-					<li>she <strong>SANG</strong> a traDITional SONG at the FAMILy GATHering <strong>YESterday</strong>.</li>
+					<li>she <strong>SANG</strong> a traDITional SONG at the FAMIly GATHering <strong>YESterday</strong>.</li>
 					<li className="list-none">Cô ấy <strong>đã hát</strong> một bài hát truyền thống trong buổi sum họp gia đình <strong>vào ngày hôm qua</strong>.</li>
 					<li className="margin-bottom-20 list-none">Dùng ⏳ Thời Gian Hành Động ở Quá Khứ Đơn với dạng SANG để chỉ việc đã xảy ra và kết thúc trong quá khứ.</li>
 			

@@ -56,7 +56,7 @@ export default function HIGHly2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1">this BOOK is HIGHly recomMENDed for anyone INTERested in HIStory.</li>
+        <li value="1">this BOOK is HIGHly recomMENDed for anyone INTErested in HIStory.</li>
         <li className="list-none margin-bottom-20">Cuốn sách này rất được khuyến nghị cho bất kỳ ai quan tâm đến lịch sử.</li>
 
         <li value="2">the STUdents were HIGHly SKILLED SURgeon.</li>

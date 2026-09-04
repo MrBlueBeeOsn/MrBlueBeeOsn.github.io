@@ -146,7 +146,7 @@ export default function NhanBietTinhTuTiengAnh(): React.JSX.Element {
 					<li>volunTEERing at the LOcal FOOD BANK is a GREAT WAY to BUILD STRONG <strong>SOcial</strong> conNECtions.</li>
 					<li className="margin-bottom-20 list-none">Làm tình nguyện tại ngân hàng thực phẩm địa phương là một cách tuyệt vời để xây dựng các mối quan hệ <strong>xã hội</strong> khăng khít.</li>
 			
-					<li>my FAMILy ALways GATHers to COOK <strong>traDITional</strong> DISHes DURing the LUnar NEW YEAR.</li>
+					<li>my FAMIly ALways GATHers to COOK <strong>traDITional</strong> DISHes DURing the LUnar NEW YEAR.</li>
 					<li className="list-none">Gia đình tôi luôn quây quần nấu các món ăn <strong>truyền thống</strong> trong dịp Tết Nguyên Đán.</li>
 			
 				</ul>
@@ -217,7 +217,7 @@ export default function NhanBietTinhTuTiengAnh(): React.JSX.Element {
 					<li>we SPENT our WEEKend at the BEACH because the WEAther was BRIGHT and <strong>SUNny</strong>.</li>
 					<li className="margin-bottom-20 list-none">Chúng tôi đã dành cuối tuần ở bãi biển vì thời tiết sáng sủa và <strong>có nhiều nắng</strong>.</li>
 
-					<li>EATing PLENty of FRESH VEGETables and EXercising REGularly KEEPS your BOdy <strong>HEALthy</strong>.</li>
+					<li>EATing PLENty of FRESH VEGEtables and EXercising REGularly KEEPS your BOdy <strong>HEALthy</strong>.</li>
 					<li className="margin-bottom-20 list-none">Ăn nhiều rau tươi và tập thể dục thường xuyên giúp cơ thể bạn <strong>khỏe mạnh</strong>.</li>
 			
 					<li>my GRANDmother COOKED a <strong>TAsty</strong> BOWL of BEEF NOOdle SOUP for BREAKfast.</li>
@@ -257,7 +257,7 @@ export default function NhanBietTinhTuTiengAnh(): React.JSX.Element {
 
 			<h4 className="margin-y-40">10. Gây ra cảm giác…: -ing</h4>
 					
-			<p className="margin-top-20 text-indent-whole">BORing, TIRing, INTEResting, exCIting, conFUsing</p>
+			<p className="margin-top-20 text-indent-whole">BORing, TIRing, INTEresting, exCIting, conFUsing</p>
 
 			
 				<ul className="list-square">
@@ -268,7 +268,7 @@ export default function NhanBietTinhTuTiengAnh(): React.JSX.Element {
 					<li>HIKing UP the MOUNtain ALL DAY was VEry <strong>TIRing</strong>, but the VIEW at the TOP was WORTH it.</li>
 					<li className="margin-bottom-20 list-none">Việc đi bộ đường dài lên núi suốt cả ngày rất <strong>mệt</strong>, nhưng phong cảnh trên đỉnh thì rất đáng giá.</li>
 
-					<li>she TOLD me an <strong>INTEResting</strong> STOry about her TRIP to jaPAN.</li>
+					<li>she TOLD me an <strong>INTEresting</strong> STOry about her TRIP to jaPAN.</li>
 					<li className="margin-bottom-20 list-none">Cô ấy kể cho tôi nghe một câu chuyện <strong>thú vị</strong> về chuyến đi Nhật Bản của cô ấy.</li>
 			
 					<li>WINning the CHAMpionship MATCH was the MOST <strong>exCIting</strong> MOment of his caREER.</li>
@@ -306,7 +306,7 @@ export default function NhanBietTinhTuTiengAnh(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>The LESson is INTEResting.</li>
+					<li>The LESson is INTEresting.</li>
 					<li className="margin-bottom-20 list-none">Bài học thì rất thú vị.</li>
 			
 					<li>The LESson is BORing.</li>

@@ -62,7 +62,7 @@ export default function NOT2(): React.JSX.Element {
         <li value="2">she is NOT Only BEAUtiful but ALso inTELligent.</li>
         <li className="list-none margin-bottom-20">Cô ấy không chỉ xinh đẹp mà còn thông minh.</li>
 
-        <li value="3">i am NOT SO MUCH INTERested in his STORy as in his REAson.</li>
+        <li value="3">i am NOT SO MUCH INTErested in his STORy as in his REAson.</li>
         <li className="list-none margin-bottom-20">Tôi không quan tâm đến câu chuyện của anh ta bằng lý do của anh ta.</li>
 
         <li value="4">i do NOT EAT MEAT any MORE.</li>

@@ -530,7 +530,7 @@ export default function SV1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>[disCOVering {'{how the ENgine WORKS}'}] is INTEResting.</li>
+					<li>[disCOVering {'{how the ENgine WORKS}'}] is INTEresting.</li>
 					<li className="margin-bottom-20 list-none">[Việc phát hiện ra {'{cách thức mà hành động hoạt động}'}] thì thú vị.</li>
 
 					<li className="list-none">Hình thái:</li>

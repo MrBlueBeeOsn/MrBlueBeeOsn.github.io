@@ -34,7 +34,7 @@ export default function EVAdjectiveClausesQuiz(): React.JSX.Element {
 		},
 		{
 			id: 2,
-			question: "the BOOK _______ i BORrowed from the LIbrary YESterday is VERy INTEResting.",
+			question: "the BOOK _______ i BORrowed from the LIbrary YESterday is VERy INTEresting.",
 			options: [
 				"who",
 				"whom",
@@ -58,7 +58,7 @@ export default function EVAdjectiveClausesQuiz(): React.JSX.Element {
 		},
 		{
 			id: 4,
-			question: "the RESTAURant _______ we had DINner LAST WEEK was fanTAStic.",
+			question: "the RESTAUrant _______ we had DINner LAST WEEK was fanTAStic.",
 			options: [
 				"where",
 				"which",
@@ -66,7 +66,7 @@ export default function EVAdjectiveClausesQuiz(): React.JSX.Element {
 				"when"
 			],
 			correctAnswer: 0,
-			explanation: "Trạng cơ quan hệ chỉ nơi chốn, thay thế cho \"the RESTAURant\" (tương đương với cụm \"at which\")."
+			explanation: "Trạng cơ quan hệ chỉ nơi chốn, thay thế cho \"the RESTAUrant\" (tương đương với cụm \"at which\")."
 		},
 		{
 			id: 5,

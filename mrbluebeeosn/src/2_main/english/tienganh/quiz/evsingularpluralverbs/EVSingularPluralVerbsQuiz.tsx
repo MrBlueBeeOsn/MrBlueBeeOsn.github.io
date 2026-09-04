@@ -126,7 +126,7 @@ export default function EVSingularPluralVerbsQuiz(): React.JSX.Element {
 				"was"
 			],
 			correctAnswer: 1,
-			explanation: "Danh cơ tập hợp (TEAM, FAMILy, STAFF) dùng hành động số nhiều khi muốn nhấn mạnh vào hành động riêng rẽ của từng thành viên trong nhóm (ở đây là đang tranh cãi lẫn nhau)."
+			explanation: "Danh cơ tập hợp (TEAM, FAMIly, STAFF) dùng hành động số nhiều khi muốn nhấn mạnh vào hành động riêng rẽ của từng thành viên trong nhóm (ở đây là đang tranh cãi lẫn nhau)."
 		},
 		{
 			id: 10,

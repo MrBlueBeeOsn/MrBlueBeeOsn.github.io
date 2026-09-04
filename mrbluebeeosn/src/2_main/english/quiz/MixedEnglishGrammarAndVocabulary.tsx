@@ -46,7 +46,7 @@ export default function MixedEnglishGrammarAndVocabulary(): React.JSX.Element {
 		},
 		{
 			id: 3,
-			question: "he is VERy INTERested _______ LEARNing NEW LANGuages.",
+			question: "he is VERy INTErested _______ LEARNing NEW LANGuages.",
 			options: [
 				"on",
 				"at",
@@ -54,7 +54,7 @@ export default function MixedEnglishGrammarAndVocabulary(): React.JSX.Element {
 				"of"
 			],
 			correctAnswer: 2,
-			explanation: "The fixed structure for expressing interest is \"to be INTERested in + V-ing/Noun\" (to have an INTERest or conCERN in SOMEthing)."
+			explanation: "The fixed structure for expressing interest is \"to be INTErested in + V-ing/Noun\" (to have an INTERest or conCERN in SOMEthing)."
 		},
 		{
 			id: 4,

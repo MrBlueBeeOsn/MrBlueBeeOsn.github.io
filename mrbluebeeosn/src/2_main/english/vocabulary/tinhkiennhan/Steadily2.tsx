@@ -62,7 +62,7 @@ export default function STEADily2(): React.JSX.Element {
         <li value="2">the unempLOYment RATE has been STEADily deCREASing.</li>
         <li className="list-none margin-bottom-20">Tỷ lệ thất nghiệp đã giảm một cách đều đặn.</li>
 
-        <li value="3">the SMALL BUSINess has been STEADily GROWing its CUStomer BASE.</li>
+        <li value="3">the SMALL BUSIness has been STEADily GROWing its CUStomer BASE.</li>
         <li className="list-none margin-bottom-20">Doanh nghiệp nhỏ đã phát triển cơ sở khách hàng của mình một cách đều đặn.</li>
 
         <li value="4">the popuLARity of the PRODuct has been STEADily deCLIning.</li>

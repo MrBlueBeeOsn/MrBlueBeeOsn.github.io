@@ -22,7 +22,7 @@ export default function EVPrepositionsQuiz(): React.JSX.Element {
 	const questions: Question[] = [
 		{
 			id: 1,
-			question: "i am INTERested _______ LEARNing MORE about ANcient HIStory.",
+			question: "i am INTErested _______ LEARNing MORE about ANcient HIStory.",
 			options: [
 				"in",
 				"on",
@@ -30,7 +30,7 @@ export default function EVPrepositionsQuiz(): React.JSX.Element {
 				"for"
 			],
 			correctAnswer: 0,
-			explanation: "Cấum từ cố định \"be INTERested in SOMEthing\" có nghĩa là quan tâm hoặc hứng thú với cái gì đó."
+			explanation: "Cấum từ cố định \"be INTErested in SOMEthing\" có nghĩa là quan tâm hoặc hứng thú với cái gì đó."
 		},
 		{
 			id: 2,

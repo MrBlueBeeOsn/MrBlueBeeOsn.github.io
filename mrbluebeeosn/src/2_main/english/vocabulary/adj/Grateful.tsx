@@ -78,7 +78,7 @@ export default function GRATEful(): React.JSX.Element {
           <li className="margin-bottom-20 list-none">Cách đơn giản nhất để bày tỏ lòng biết ơn của bạn là nói lời cảm ơn.</li>
 
           <li>[<strong>GRATEfulness</strong>] (NOUN) /ˈɡreɪt.fəl.nəs/</li>
-          <li className="list-none">a DEEP SENSE of [GRATEfulness] FILLED her HEART when she SAW her FAMILy SAFE.</li>
+          <li className="list-none">a DEEP SENSE of [GRATEfulness] FILLED her HEART when she SAW her FAMIly SAFE.</li>
           <li className="list-none">Một cảm giác biết ơn sâu sắc tràn ngập trái tim cô khi thấy gia đình mình bình an.</li>
 
         </ul>

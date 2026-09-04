@@ -203,7 +203,7 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>it <strong>beGAN RAINing</strong> HEAVily JUST as we STEPPED OUT of the RESTAURant.</li>
+					<li>it <strong>beGAN RAINing</strong> HEAVily JUST as we STEPPED OUT of the RESTAUrant.</li>
 					<li className="list-none">Trời <strong>bắt đầu đổ mưa</strong> lớn ngay khi chúng tôi bước ra khỏi nhà hàng.</li>
 					<li className="margin-bottom-20 list-none">it là chủ thể. Cấu trúc này thường được dùng khi miêu tả một quá trình hoặc sự việc tự nhiên bắt đầu diễn ra.</li>
 			
@@ -794,7 +794,7 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>she <strong>enJOYS DANcing</strong> to traDITional MUsic during FAMILy GATHerings.</li>
+					<li>she <strong>enJOYS DANcing</strong> to traDITional MUsic during FAMIly GATHerings.</li>
 					<li className="list-none">Cô ấy <strong>thích nhảy múa</strong> theo điệu nhạc truyền thống trong các buổi tụ họp gia đình.</li>
 					<li className="margin-bottom-20 list-none">she là chủ thể. Sau hành động enJOY, hành động tiếp theo bắt buộc phải ở dạng -ing (DANcing), diễn tả sự tận hưởng và niềm vui khi thực hiện hành động đó.</li>
 			
