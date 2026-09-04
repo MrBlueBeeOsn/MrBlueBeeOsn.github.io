@@ -68,7 +68,7 @@ export default function QUEStionably2(): React.JSX.Element {
         <li value="4">his STORy SEEMED QUEStionably TRUE, and i had my DOUBTS.</li>
         <li className="list-none margin-bottom-20">Câu chuyện của anh ta có vẻ đáng ngờ về sự thật, và tôi nghi ngờ.</li>
 
-        <li value="5">her SUDden CHANGE of HEART was QUEStionably MOtivated, and i WONdered what she was REALly UP to.</li>
+        <li value="5">her SUDden CHANGE of HEART was QUEStionably MOtivated, and i WONdered what she was REally UP to.</li>
         <li className="list-none margin-bottom-20">Sự thay đổi đột ngột của cô ấy có hành động đáng ngờ, và tôi tự hỏi cô ấy đang lên kế hoạch gì.</li>
 
         <li value="6">the EVidence was QUEStionably obTAINED and could be inadMISsible in COURT.</li>

@@ -80,7 +80,7 @@ export default function CLEARly2(): React.JSX.Element {
 				<li value="8">the MAP CLEARly INdicates the SHORtest ROUTE.</li>
 				<li className="list-none margin-bottom-20">Bản đồ rõ ràng chỉ ra tuyến đường ngắn nhất.</li>
 
-				<li value="9">his iDEAS were CLEARly arTICulated and EAsy to FOLlow.</li>
+				<li value="9">his iDEaS were CLEARly arTICulated and EAsy to FOLlow.</li>
 				<li className="list-none margin-bottom-20">Ý tưởng của anh ấy được diễn đạt rõ ràng và dễ hiểu.</li>
 
 				<li value="10">it was CLEARly inTENded as a JOKE.</li>

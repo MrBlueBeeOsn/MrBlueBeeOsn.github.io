@@ -182,7 +182,7 @@ export default function proDUCtively1(): React.JSX.Element {
           <li>the GARden GREW proDUCtively, YIELding aBUNdant FRUITS and FLOWers.</li>
           <li className="margin-bottom-20 list-none">Khu vườn phát triển tươi tốt, cho nhiều hoa trái.</li>
 
-          <li>the TEAM MET proDUCtively, GENerating NUmerous iDEAS.</li>
+          <li>the TEAM MET proDUCtively, GENerating NUmerous iDEaS.</li>
           <li className="list-none">Nhóm đã họp hiệu quả, đưa ra nhiều ý tưởng.</li>
 
         </ul>

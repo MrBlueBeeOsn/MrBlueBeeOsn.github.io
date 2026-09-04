@@ -42,7 +42,7 @@ export default function MixedEnglishGrammarAndVocabulary(): React.JSX.Element {
 				"would CANcel"
 			],
 			correctAnswer: 1,
-			explanation: "This is a Type 1 Conditional sentence, which describes a real and possible situation in the future. The structure for the main clause is S + will + V(bare infinitive)."
+			explanation: "This is a Type 1 Conditional sentence, which describes a real and possible situation in the future. The structure for the main clause is S + will + V(BARE inFINitive)."
 		},
 		{
 			id: 3,
@@ -66,7 +66,7 @@ export default function MixedEnglishGrammarAndVocabulary(): React.JSX.Element {
 				"MOST exPENsive"
 			],
 			correctAnswer: 0,
-			explanation: "This is a comparative sentence using the word \"than.\" Because \"exPENsive\" is a long adjective (three syllables), the correct comparative structure is \"MORE + adjective + than.\""
+			explanation: "This is a comparative sentence using the word \"than.\" Because \"exPENsive\" is a long adjective (three syllables), the correct comparative structure is \"MORE + ADjective + than.\""
 		},
 		{
 			id: 5,
@@ -114,7 +114,7 @@ export default function MixedEnglishGrammarAndVocabulary(): React.JSX.Element {
 				"should"
 			],
 			correctAnswer: 0,
-			explanation: "\"MUSTn't\" (must NOT) is the modal verb used to express strong prohibition or something that is against the rules, which aligns with the phrase \"strictly prohibited.\""
+			explanation: "\"MUSTn't\" (must NOT) is the modal verb used to express strong prohibition or something that is against the rules, which aligns with the phrase \"STRICTly proHIBited.\""
 		},
 		{
 			id: 9,

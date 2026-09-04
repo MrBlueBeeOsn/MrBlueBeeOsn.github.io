@@ -56,7 +56,7 @@ export default function beLAtedly2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1">he beLAtedly REALized he had forGOTten his WALlet.</li>
+        <li value="1">he beLAtedly REalized he had forGOTten his WALlet.</li>
         <li className="list-none margin-bottom-20">Anh ấy muộn màng nhận ra mình đã quên ví.</li>
 
         <li value="2">she beLAtedly aPOLogized for her RUDE beHAVior.</li>

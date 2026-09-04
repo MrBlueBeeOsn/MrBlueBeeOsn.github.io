@@ -148,7 +148,7 @@ export default function apPARently1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>apPARently, he's <Link to="/vocabulary/REALly-1">REALly</Link> into that ARticle.</li>
+          <li>apPARently, he's <Link to="/vocabulary/REally-1">REally</Link> into that ARticle.</li>
           <li className="list-none">Hình như anh ấy rất thích bài báo đó.</li>
 
         </ul>

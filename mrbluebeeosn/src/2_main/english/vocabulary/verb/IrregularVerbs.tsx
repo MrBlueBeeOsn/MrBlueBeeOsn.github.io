@@ -317,7 +317,7 @@ export default function IrregularVerbs(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>he <strong>TELLS</strong> his TEAM about his NEW PROJect iDEAS <strong>every EVEning</strong>.</li>
+					<li>he <strong>TELLS</strong> his TEAM about his NEW PROJect iDEaS <strong>every EVEning</strong>.</li>
 					<li className="list-none">Anh ấy <strong>kể</strong> cho đội ngũ của mình nghe về các ý tưởng dự án mới <strong>vào mỗi buổi tối</strong>.</li>
 					<li className="margin-bottom-20 list-none">Dùng ⏳ Thời Gian Hành Động ở Hiện Tại Đơn với dạng TELLS (cho chủ thể ngôi thứ ba số ít he) để chỉ thói quen hoặc sự việc diễn ra theo quy luật.</li>
 			

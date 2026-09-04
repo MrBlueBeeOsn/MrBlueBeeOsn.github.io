@@ -22,123 +22,123 @@ export default function GerundsAndInfinitivesQuiz(): React.JSX.Element {
 	const questions: Question[] = [
 		{
 			id: 1,
-			question: "I really enjoy ________ to music while I am studying.",
+			question: "i REally enJOY ________ to MUsic while i am STUDying.",
 			options: [
-				"listen",
-				"to listen",
-				"listening",
-				"listened"
+				"LISten",
+				"to LISten",
+				"LIStening",
+				"LIStened"
 			],
 			correctAnswer: 2,
-			explanation: "The verb enjoy is followed by a gerund (V-ing)."
+			explanation: "The verb enJOY is followed by a gerund (V-ing)."
 		},
 		{
 			id: 2,
-			question: "My parents decided ________ a new car next month.",
+			question: "my PARents deCIded ________ a NEW CAR NEXT MONTH.",
 			options: [
-				"buy",
-				"to buy",
-				"buying",
-				"bought"
+				"BUY",
+				"to BUY",
+				"BUYing",
+				"BOUGHT"
 			],
 			correctAnswer: 1,
-			explanation: "The verb decide is followed by a to-infinitive (to-V)."
+			explanation: "The verb DECIDE is followed by a to-infinitive (to-V)."
 		},
 		{
 			id: 3,
-			question: "I’ll never forget ________ the Eiffel Tower for the first time.",
+			question: "i’ll NEVer forGET ________ the EIffel TOWer for the FIRST TIME.",
 			options: [
-				"see",
-				"to see",
-				"seeing",
-				"seen"
+				"SEE",
+				"to SEE",
+				"SEEing",
+				"SEEN"
 			],
 			correctAnswer: 2,
-			explanation: "Forget + V-ing is used to talk about a memory of a past event."
+			explanation: "forGET + V-ing is used to talk about a memory of a past event."
 		},
 		{
 			id: 4,
-			question: "Please remember ________ the door before you leave the house.",
+			question: "PLEASE reMEMber ________ the DOOR before you LEAVE the HOUSE.",
 			options: [
-				"lock",
-				"to lock",
-				"locking",
-				"locked"
+				"LOCK",
+				"to LOCK",
+				"LOCKing",
+				"LOCKED"
 			],
 			correctAnswer: 1,
-			explanation: "Remember + to-V is used when you remember to do a task or duty."
+			explanation: "reMEMber + to-V is used when you remember to do a task or duty."
 		},
 		{
 			id: 5,
-			question: "She avoided ________ him about her plans because she wanted it to be a surprise.",
+			question: "she aVOIDed ________ TELLing him about her PLANS because she WANTed it to be a surPRISE.",
 			options: [
-				"tell",
-				"to tell",
-				"telling",
-				"told"
+				"TELL",
+				"to TELL",
+				"TELLing",
+				"TOLD"
 			],
 			correctAnswer: 2,
-			explanation: "The verb avoid is followed by a gerund (V-ing)."
+			explanation: "The verb aVOID is followed by a gerund (V-ing)."
 		},
 		{
 			id: 6,
-			question: "He managed ________ the project on time despite the difficulties.",
+			question: "he MANaged ________ the PROJect on TIME despite the DIFficulties.",
 			options: [
-				"finish",
-				"to finish",
-				"finishing",
-				"finished"
+				"FINish",
+				"to FINish",
+				"FINishing",
+				"FINished"
 			],
 			correctAnswer: 1,
-			explanation: "The verb manage is followed by a to-infinitive (to-V)."
+			explanation: "The verb MANage is followed by a to-infinitive (to-V)."
 		},
 		{
 			id: 7,
-			question: "I don’t mind ________ for a few more minutes.",
+			question: "i don’t MIND ________ for a FEW MORE MINutes.",
 			options: [
-				"wait",
-				"to wait",
-				"waiting",
-				"waited"
+				"WAIT",
+				"to WAIT",
+				"WAITing",
+				"WAITed"
 			],
 			correctAnswer: 2,
-			explanation: "The phrase don't mind is followed by a gerund (V-ing)."
+			explanation: "The phrase don't MIND is followed by a gerund (V-ing)."
 		},
 		{
 			id: 8,
-			question: "They suggested ________ a taxi to the airport instead of taking the bus.",
+			question: "they sugGESTed ________ a TAXi to the AIRport instead of TAking the BUS.",
 			options: [
-				"take",
-				"to take",
-				"taking",
-				"took"
+				"TAKE",
+				"to TAKE",
+				"TAking",
+				"TOOK"
 			],
 			correctAnswer: 2,
-			explanation: "The verb suggest is followed by a gerund (V-ing)."
+			explanation: "The verb sugGEST is followed by a gerund (V-ing)."
 		},
 		{
 			id: 9,
-			question: "It's no use ________ about things you cannot change.",
+			question: "it's no USE ________ about THINGS you CANnot CHANGE.",
 			options: [
-				"worry",
-				"to worry",
-				"worrying",
-				"worried"
+				"WORry",
+				"to WORry",
+				"WORrying",
+				"WORried"
 			],
 			correctAnswer: 2,
-			explanation: "The expression \"It's no use\" is always followed by a gerund (V-ing)."
+			explanation: "The expression \"it's no USE\" is always followed by a gerund (V-ing)."
 		},
 		{
 			id: 10,
-			question: "We stopped ________ some gas because the tank was almost empty.",
+			question: "we STOPPED ________ some GAS because the TANK was ALmost EMPty.",
 			options: [
-				"get",
-				"to get",
-				"getting",
-				"got"
+				"GET",
+				"to GET",
+				"GETting",
+				"GOT"
 			],
 			correctAnswer: 1,
-			explanation: "Stop + to-V indicates that you stop an activity in order to do something else."
+			explanation: "STOP + to-V indicates that you stop an activity in order to do something else."
 		}
 	];
 

@@ -82,7 +82,7 @@ export default function PhrasalVerbs(): React.JSX.Element {
 					<li value="8">i JUST <strong>found OUT</strong> that the CONcert is FREE!</li>
 					<li className="margin-bottom-20 list-none">Tôi vừa mới <strong>phát hiện ra</strong> rằng buổi hòa nhạc được miễn phí!</li>
 
-					<li value="9">i <strong>get aLONG</strong> REALly WELL with my NEW BOSS.</li>
+					<li value="9">i <strong>get aLONG</strong> REally WELL with my NEW BOSS.</li>
 					<li className="margin-bottom-20 list-none">Tôi <strong>hòa hợp</strong> rất tốt với sếp mới của mình.</li>
 			
 					<li value="10">we USually <strong>hang OUT</strong> at the caFÉ after CLASS.</li>
@@ -97,7 +97,7 @@ export default function PhrasalVerbs(): React.JSX.Element {
 					<li value="13">they <strong>put OFF</strong> the MEETing until NEXT WEEK.</li>
 					<li className="margin-bottom-20 list-none">Họ <strong>đã hoãn</strong> cuộc họp lại cho đến tuần tới.</li>
 			
-					<li value="14">she REALly <strong>takes AFter</strong> her MOTHer.</li>
+					<li value="14">she REally <strong>takes AFter</strong> her MOTHer.</li>
 					<li className="margin-bottom-20 list-none">Cô ấy thực sự <strong>giống</strong> mẹ mình (về ngoại hình hoặc tính cách).</li>
 
 					<li value="15">i <strong>came aCROSS</strong> an OLD PHOto of us LAST NIGHT.</li>

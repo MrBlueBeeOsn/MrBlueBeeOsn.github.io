@@ -74,7 +74,7 @@ export default function BAsically2(): React.JSX.Element {
         <li value="6">WATCHing that MOvie was BAsically a WASTE of TIME.</li>
         <li className="list-none margin-bottom-20">Xem bộ phim đó về cơ bản là lãng phí thời gian.</li>
 
-        <li value="7">BAsically the iDEA is to SIMplify the PROcess.</li>
+        <li value="7">BAsically the iDEa is to SIMplify the PROcess.</li>
         <li className="list-none margin-bottom-20">Về cơ bản, ý tưởng là đơn giản hóa quy trình.</li>
 
         <li value="8">i THINK everyone BAsically underSTOOD the inSTRUCtions.</li>

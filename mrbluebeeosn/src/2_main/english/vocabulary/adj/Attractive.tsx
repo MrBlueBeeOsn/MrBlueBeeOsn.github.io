@@ -105,7 +105,7 @@ export default function atTRACtive(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>the iDEA of a LONG vaCAtion is VEry [apPEALing] to me RIGHT NOW.</li>
+          <li>the iDEa of a LONG vaCAtion is VEry [apPEALing] to me RIGHT NOW.</li>
           <li className="list-none">Ý tưởng về một kỳ nghỉ dài ngày rất hấp dẫn đối với tôi vào lúc này.</li>
 
         </ul>

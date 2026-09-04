@@ -82,7 +82,7 @@ export default function BAsically1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>the BAsic iDEA is VEry SIMple.</li>
+          <li>the BAsic iDEa is VEry SIMple.</li>
           <li className="margin-bottom-20 list-none">Ý tưởng cơ bản rất đơn giản.</li>
 
           <li>the BASE of the PYramid is VEry WIDE.</li>

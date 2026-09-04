@@ -22,7 +22,7 @@ export default function EnglishMultipleChoice(): React.JSX.Element {
 	const questions: Question[] = [
 		{
 			id: 1,
-			question: "Choose the sentence that is grammatically correct.",
+			question: "CHOOSE the SENtence that is gramMATically corRECT.",
 			options: [
 				"she DON'T LIKE COFfee.",
 				"she DOESN'T LIKES COFfee.",
@@ -34,7 +34,7 @@ export default function EnglishMultipleChoice(): React.JSX.Element {
 		},
 		{
 			id: 2,
-			question: "Identify the correct preposition: he is VERy GOOD ______ PLAYing the guiTAR.",
+			question: "iDENtify the corRECT prepoSITion: he is VERy GOOD ______ PLAYing the guiTAR.",
 			options: [
 				"at",
 				"in",
@@ -46,7 +46,7 @@ export default function EnglishMultipleChoice(): React.JSX.Element {
 		},
 		{
 			id: 3,
-			question: "Choose the correct meaning of the phrasal verb \"call OFF\".",
+			question: "CHOOSE the corRECT MEANing of the PHRAsal VERB \"call OFF\".",
 			options: [
 				"to VISit SOMEone",
 				"to CANcel SOMEthing",
@@ -54,11 +54,11 @@ export default function EnglishMultipleChoice(): React.JSX.Element {
 				"to inVITE SOMEone"
 			],
 			correctAnswer: 1,
-			explanation: "The phrasal verb \"to call OFF\" means to cancel an event or activity. Example: \"they CALLed OFF the MEETing due to ILLness.\""
+			explanation: "The phrasal verb \"to call OFF\" means to cancel an event or activity. Example: \"they called OFF the MEETing due to ILLness.\""
 		},
 		{
 			id: 4,
-			question: "Which sentence uses the present perfect tense correctly?",
+			question: "which SENtence Uses the PREsent PERfect TENSE corRECTly?",
 			options: [
 				"i have SEEN that MOvie YESterday.",
 				"i SAW that MOvie YESterday.",
@@ -70,7 +70,7 @@ export default function EnglishMultipleChoice(): React.JSX.Element {
 		},
 		{
 			id: 5,
-			question: "What is the synonym of \"beNEVolent\"?",
+			question: "WHAT is the SYNonym \"beNEVolent\"?",
 			options: [
 				"SELfish",
 				"MEAN",
@@ -78,11 +78,11 @@ export default function EnglishMultipleChoice(): React.JSX.Element {
 				"WEALthy"
 			],
 			correctAnswer: 2,
-			explanation: "\"Benevolent\" means well-meaning and kindly, so the closest synonym is \"KIND HEARTed.\" The other words are antonyms (SELfish, MEAN) or unrelated (WEALthy)."
+			explanation: "\"beNEVolent\" means well-meaning and kindly, so the closest synonym is \"KIND HEARTed.\" The other words are antonyms (SELfish, MEAN) or unrelated (WEALthy)."
 		},
 		{
 			id: 6,
-			question: "Select the correctly punctuated sentence.",
+			question: "seLECT the corRECTly PUNCtuated SENtence.",
 			options: [
 				"let's EAT GRANDma!",
 				"let's EAT, GRANDma!",
@@ -90,11 +90,11 @@ export default function EnglishMultipleChoice(): React.JSX.Element {
 				"lets EAT, GRANDma."
 			],
 			correctAnswer: 1,
-			explanation: "The comma is crucial here as it separates the vocative (\"grandma\") from the main clause. Without it, the sentence suggests cannibalism (\"let's EAT GRANDma!\"). The correct meaning is an invitation: \"GRANDma, let's EAT.\" \"let's\" is the correct contraction of \"let us.\""
+			explanation: "The comma is crucial here as it separates the vocative (\"GRANDma\") from the main clause. Without it, the sentence suggests cannibalism (\"let's EAT GRANDma!\"). The correct meaning is an invitation: \"GRANDma, let's EAT.\" \"let's\" is the correct contraction of \"let us.\""
 		},
 		{
 			id: 7,
-			question: "Which option correctly completes this conditional sentence? if i had KNOWN, i __________________ you.",
+			question: "which OPtion corRECTly comPLETES this conDITional SENtence? if i had KNOWN, i __________________ you.",
 			options: [
 				"will HELP",
 				"would HELP",
@@ -102,11 +102,11 @@ export default function EnglishMultipleChoice(): React.JSX.Element {
 				"had HELPED"
 			],
 			correctAnswer: 2,
-			explanation: "This is a third conditional sentence, used to talk about a hypothetical situation in the past and its impossible result. The structure is: if + past perfect (had known), would/could/might + have + past participle (would have HELPED)."
+			explanation: "This is a third conditional sentence, used to talk about a hypothetical situation in the past and its impossible result. The structure is: if + past perfect (had KNOWN), would/could/might + have + past participle (would have HELPED)."
 		},
 		{
 			id: 8,
-			question: "Find the sentence with the incorrect article usage.",
+			question: "FIND the SENtence with the incorRECT ARticle Usage.",
 			options: [
 				"he is an HONest MAN.",
 				"i NEED an umBRELla.",
@@ -118,7 +118,7 @@ export default function EnglishMultipleChoice(): React.JSX.Element {
 		},
 		{
 			id: 9,
-			question: "Which of the following is an example of the passive voice?",
+			question: "WHICH of the FOLlowing is an exAMple of the PASsive VOICE?",
 			options: [
 				"the CHEF COOKED a WONderful MEAL.",
 				"the CHILDren are PLAYing in the PARK.",
@@ -130,7 +130,7 @@ export default function EnglishMultipleChoice(): React.JSX.Element {
 		},
 		{
 			id: 10,
-			question: "Choose the option that best expresses the same meaning: \"it's a PIECE of CAKE.\"",
+			question: "CHOOSE the OPtion that BEST exPRESSes the SAME MEANing: \"it's a PIECE of CAKE.\"",
 			options: [
 				"it's VERy DIFficult.",
 				"it's a deLICious desSERT.",
