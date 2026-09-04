@@ -69,7 +69,7 @@ export default function NhanBietTinhTuTiengAnh(): React.JSX.Element {
 					<li>my MOTHer BAKED a <strong>deLICious</strong> CHOCOLate CAKE for my BIRTHday PARTy.</li>
 					<li className="margin-bottom-20 list-none">Mẹ tôi đã nướng một chiếc bánh sô-cô-la <strong>ngon tuyệt</strong> cho bữa tiệc sinh nhật của tôi.</li>
 			
-					<li>CHILDren are NATurally <strong>CURious</strong> about the WORLD around them and ALWAYS ASK many QUEStions.</li>
+					<li>CHILDren are NATurally <strong>CURious</strong> about the WORLD around them and ALWAYS ASK <strong>man</strong>y QUEStions.</li>
 					<li className="margin-bottom-20 list-none">Trẻ em vốn dĩ <strong>tò mò</strong> về thế giới xung quanh và luôn đặt ra rất nhiều câu hỏi.</li>
 			
 					<li>the COMpany MADE an <strong>eNORmous</strong> PROFit <strong>this</strong> YEAR <strong>af</strong>ter LAUNCHing their NEW PRODuct LINE.</li>
@@ -140,7 +140,7 @@ export default function NhanBietTinhTuTiengAnh(): React.JSX.Element {
 					<li>she KEEPS her <strong>PERsonal</strong> DIary LOCKED in a DRAWer where NO ONE ELSE can READ it.</li>
 					<li className="margin-bottom-20 list-none">Cô ấy giữ cuốn nhật ký <strong>cá nhân</strong> của mình khóa trong một ngăn kéo nơi không ai khác có thể đọc được.</li>
 
-					<li>HONey is a deLICious and HEALthy <strong>NATural</strong> SWEETener USED in many RECipes.</li>
+					<li>HONey is a deLICious and HEALthy <strong>NATural</strong> SWEETener USED in <strong>man</strong>y RECipes.</li>
 					<li className="margin-bottom-20 list-none">Mật ong là một chất làm ngọt <strong>tự nhiên</strong> ngon miệng và lành mạnh được sử dụng trong nhiều công thức nấu ăn.</li>
 			
 					<li>volunTEERing at the LOcal FOOD BANK is a GREAT WAY to BUILD STRONG <strong>SOcial</strong> conNECtions.</li>
@@ -184,13 +184,13 @@ export default function NhanBietTinhTuTiengAnh(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>Even in her SEVenties, she reMAINS VEry <strong>ACtive</strong> and GOES JOGging every MORNing.</li>
+					<li>Even in her SEVenties, she reMAINS VEry <strong>ACtive</strong> and GOES JOGging <strong>eve</strong>ry MORNing.</li>
 					<li className="margin-bottom-20 list-none">Dù đã ở tuổi bảy mươi, bà ấy vẫn rất <strong>năng động</strong> và đi chạy bộ mỗi buổi sáng.</li>
 			
 					<li>the MARketing TEAM CAME UP with a <strong>creAtive</strong> camPAIGN to atTRACT YOUNGer CUStomers.</li>
 					<li className="margin-bottom-20 list-none">Đội ngũ tiếp thị đã đưa ra một chiến dịch <strong>sáng tạo</strong> để thu hút khách hàng trẻ tuổi.</li>
 
-					<li>the hisTORical TOWN has MAny ANcient BUILDings and an <strong>atTRACtive</strong> OLD-WORLD CHARM.</li>
+					<li>the hisTORical TOWN has <strong>man</strong>y ANcient BUILDings and an <strong>atTRACtive</strong> OLD-WORLD CHARM.</li>
 					<li className="margin-bottom-20 list-none">Thị trấn lịch sử này có rất nhiều tòa nhà cổ và một vẻ đẹp <strong>quyến rũ</strong> mang hơi hướng hoài cổ.</li>
 			
 					<li>REGular HANDwashing is ONE of the MOST <strong>efFECtive</strong> WAYS to preVENT the SPREAD of ILLness.</li>

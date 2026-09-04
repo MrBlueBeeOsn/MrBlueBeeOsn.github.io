@@ -161,7 +161,7 @@ export default function PhrasalVerbs(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>i USually <strong>wake UP</strong> at SIX AM every DAY, EVEN on WEEKends.</li>
+					<li>i USually <strong>wake UP</strong> at SIX A.M. <strong>eve</strong>ry DAY, EVEN on WEEKends.</li>
 					<li className="margin-bottom-20 list-none">Tôi thường <strong>thức dậy</strong> lúc 6 giờ sáng mỗi ngày, kể cả vào cuối tuần.</li>
 			
 					<li><strong>af</strong>ter the aLARM CLOCK RANG, it TOOK her TEN MINutes to FINally <strong>get UP</strong>.</li>
@@ -257,7 +257,7 @@ export default function PhrasalVerbs(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>many PEOple <strong>give UP</strong> EAsily when THINGS <strong>GET TOUGH</strong>.</li>
+					<li><strong>man</strong>y PEOple <strong>give UP</strong> EAsily when THINGS <strong>GET TOUGH</strong>.</li>
 					<li className="list-none">Nhiều người dễ dàng <strong>từ bỏ</strong> khi mọi thứ trở nên <strong>khó khăn</strong>.</li>
 			
 				</ul>

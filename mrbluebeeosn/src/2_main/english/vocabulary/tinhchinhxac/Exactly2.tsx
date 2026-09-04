@@ -71,7 +71,7 @@ export default function exACTly2(): React.JSX.Element {
         <li value="5">i'm NOT exACTly SURE WHAT he MEANT by THAT.</li>
         <li className="list-none margin-bottom-20">Tôi không thực sự chắc chắn về ý của anh ấy.</li>
 
-        <li value="6">exACTly HOW MANY PEOple atTENDed the CONFERence?</li>
+        <li value="6">exACTly HOW <strong>man</strong>y PEOple atTENDed the CONFERence?</li>
         <li className="list-none margin-bottom-20">Chính xác có bao nhiêu người tham dự hội nghị?</li>
 
         <li value="7">can you TELL me exACTly WHERE the LIbrary IS?</li>

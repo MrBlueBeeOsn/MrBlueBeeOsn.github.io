@@ -149,7 +149,7 @@ export default function CLEARly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>you can CLEARly SEE every deTAIL in the PICture.</li>
+          <li>you can CLEARly SEE <strong>eve</strong>ry deTAIL in the PICture.</li>
           <li className="list-none">Bạn có thể nhìn thấy rõ ràng mọi chi tiết trong bức tranh.</li>
 
         </ul>

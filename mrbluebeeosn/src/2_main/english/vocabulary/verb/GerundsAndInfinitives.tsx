@@ -263,7 +263,7 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>she <strong>LOVES BREWing</strong> traDITional vietnaMESE COFfee Using a PHIN FILter every MORNing.</li>
+					<li>she <strong>LOVES BREWing</strong> traDITional vietnaMESE COFfee Using a PHIN FILter <strong>eve</strong>ry MORNing.</li>
 					<li className="list-none">Cô ấy <strong>rất thích pha</strong> cà phê truyền thống Việt Nam bằng phin vào mỗi buổi sáng.</li>
 					<li className="margin-bottom-20 list-none">she là chủ thể. Cấu trúc LOVE + V-ing dùng để diễn tả niềm đam mê, sở thích lâu dài hoặc cảm giác tận hưởng khi làm một việc gì đó nói chung.</li>
 			
@@ -465,7 +465,7 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>she is <strong>TIred of FIXing</strong> the SAME SOFTware BUGS every SINgle DAY.</li>
+					<li>she is <strong>TIred of FIXing</strong> the SAME SOFTware BUGS <strong>eve</strong>ry SINgle DAY.</li>
 					<li className="list-none">Cô ấy <strong>đã mệt mỏi vì phải sửa</strong> các lỗi phần mềm giống nhau mỗi ngày.</li>
 					<li className="list-none">she là chủ thể. Sau cụm tính kết hợp giới TIred of, hành động tiếp theo bắt buộc phải ở dạng -ing (FIXing), thể hiện cảm giác chán nản hoặc kiệt sức vì một việc lặp đi lặp lại.</li>
 			

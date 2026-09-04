@@ -56,7 +56,7 @@ export default function ocCAsionally2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1">she ocCAsionally FEELS LONEly, even though she HAS many FRIENDS.</li>
+        <li value="1">she ocCAsionally FEELS LONEly, even though she HAS <strong>man</strong>y FRIENDS.</li>
         <li className="list-none margin-bottom-20">Cô ấy thỉnh thoảng cảm thấy cô đơn, mặc dù có nhiều bạn bè.</li>
 
         <li value="2">it ocCAsionally RAINS in the DESert.</li>

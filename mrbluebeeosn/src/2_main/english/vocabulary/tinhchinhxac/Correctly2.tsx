@@ -65,7 +65,7 @@ export default function corRECTly2(): React.JSX.Element {
         <li value="3">the MESsage was corRECTly inTERpreted by the reCEIver.</li>
         <li className="list-none margin-bottom-20">Thông điệp đã được người nhận diễn giải chính xác.</li>
 
-        <li value="4">he corRECTly SPELLED every WORD on the LIST.</li>
+        <li value="4">he corRECTly SPELLED <strong>eve</strong>ry WORD on the LIST.</li>
         <li className="list-none margin-bottom-20">Anh ấy đã viết chính tả đúng mọi từ trong danh sách.</li>
 
         <li value="5">the engiNEER corRECTly CALculated the LOAD-BEARing caPACity of the BRIDGE.</li>

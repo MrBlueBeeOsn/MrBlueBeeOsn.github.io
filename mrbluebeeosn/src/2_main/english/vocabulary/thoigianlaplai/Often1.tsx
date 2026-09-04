@@ -147,7 +147,7 @@ export default function OFten1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>every TIME the CLOCK STRIKES TWELVE, i OFten TAKE a BREAK from WORK.</li>
+          <li><strong>eve</strong>ry TIME the CLOCK STRIKES TWELVE, i OFten TAKE a BREAK from WORK.</li>
           <li className="list-none">Mỗi khi đồng hồ điểm 12 giờ, tôi thường nghỉ giải lao.</li>
 
         </ul>

@@ -74,13 +74,13 @@ export default function QUEStionably2(): React.JSX.Element {
         <li value="6">the EVidence was QUEStionably obTAINED and could be inadMISsible in COURT.</li>
         <li className="list-none margin-bottom-20">Bằng chứng được lấy một cách đáng ngờ và có thể không được chấp nhận tại tòa.</li>
 
-        <li value="7">he was QUEStionably QUALified for the JOB, and many PEOple DOUBTed his aBILities.</li>
+        <li value="7">he was QUEStionably QUALified for the JOB, and <strong>man</strong>y PEOple DOUBTed his aBILities.</li>
         <li className="list-none margin-bottom-20">Anh ta có năng lực đáng ngờ cho công việc đó, và nhiều người nghi ngờ về khả năng của anh ta.</li>
 
         <li value="8">the inforMAtion preSENTed was QUEStionably RELevant to the CASE.</li>
         <li className="list-none margin-bottom-20">Thông tin được trình bày có liên quan một cách đáng ngờ đến vụ án.</li>
 
-        <li value="9">the deCISion was QUEStionably FAIR, and many PEOple FELT they were TREATed unFAIRly.</li>
+        <li value="9">the deCISion was QUEStionably FAIR, and <strong>man</strong>y PEOple FELT they were TREATed unFAIRly.</li>
         <li className="list-none margin-bottom-20">Quyết định đó có tính công bằng đáng ngờ, và nhiều người cảm thấy họ bị đối xử bất công.</li>
 
         <li value="10">his explaNAtion SEEMED QUEStionably HONest, and i DIDN'T beLIEVE him.</li>

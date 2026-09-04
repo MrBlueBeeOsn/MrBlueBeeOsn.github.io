@@ -31,7 +31,7 @@ export default function IrregularVerbs(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>he <strong>is</strong> ALways CAREfully when reVIEWing the fiNANcial NUMbers <strong>every EVEning</strong>.</li>
+					<li>he <strong>is</strong> ALways CAREfully when reVIEWing the fiNANcial NUMbers <strong>eve</strong>ry <strong>EVEning</strong>.</li>
 					<li className="list-none">Anh ấy <strong>luôn</strong> cẩn thận khi xem xét các con số tài chính <strong>vào mỗi buổi tối</strong>.</li>
 					<li className="margin-bottom-20 list-none">Dùng ⏳ Thời Gian Hành Động ở Hiện Tại Đơn với dạng is (cho chủ thể ngôi thứ ba số ít he) để chỉ trạng thái hoặc tính chất ở hiện tại.</li>
 			
@@ -50,7 +50,7 @@ export default function IrregularVerbs(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>he <strong>has</strong> an ENGlish LESson on his LEARNing APP <strong>every EVEning</strong>.</li>
+					<li>he <strong>has</strong> an ENGlish LESson on his LEARNing APP <strong>eve</strong>ry <strong>EVEning</strong>.</li>
 					<li className="list-none">Anh ấy <strong>có</strong> một bài học tiếng Anh trên ứng dụng học tập của mình <strong>vào mỗi buổi tối</strong>.</li>
 					<li className="margin-bottom-20 list-none">Dùng ⏳ Thời Gian Hành Động ở Hiện Tại Đơn với dạng has (cho chủ thể ngôi thứ ba số ít he) để chỉ thói quen hoặc sự việc diễn ra theo quy luật.</li>
 			
@@ -69,7 +69,7 @@ export default function IrregularVerbs(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>he <strong>DOES</strong> his WEB deVELopment WORK CAREfully <strong>every EVEning</strong>.</li>
+					<li>he <strong>DOES</strong> his WEB deVELopment WORK CAREfully <strong>eve</strong>ry <strong>EVEning</strong>.</li>
 					<li className="list-none">Anh ấy <strong>làm</strong> công việc phát triển web của mình một cách cẩn thận <strong>vào mỗi buổi tối</strong>.</li>
 					<li className="margin-bottom-20 list-none">Dùng ⏳ Thời Gian Hành Động ở Hiện Tại Đơn với dạng DOES (cho chủ thể ngôi thứ ba số ít he) để chỉ thói quen hoặc sự việc diễn ra theo quy luật.</li>
 			
@@ -88,7 +88,7 @@ export default function IrregularVerbs(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>he <strong>GOES</strong> to the LOcal COFfee SHOP to BUY FRESH roBUSta BEANS <strong>every EVEning</strong>.</li>
+					<li>he <strong>GOES</strong> to the LOcal COFfee SHOP to BUY FRESH roBUSta BEANS <strong>eve</strong>ry <strong>EVEning</strong>.</li>
 					<li className="list-none">Anh ấy <strong>đi</strong> đến quán cà phê địa phương để mua hạt robusta tươi <strong>vào mỗi buổi tối</strong>.</li>
 					<li className="margin-bottom-20 list-none">Dùng ⏳ Thời Gian Hành Động ở Hiện Tại Đơn với dạng GOES (cho chủ thể ngôi thứ ba số ít he) để chỉ thói quen hoặc sự việc diễn ra theo quy luật.</li>
 			
@@ -107,7 +107,7 @@ export default function IrregularVerbs(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>he <strong>COMES</strong> HOME from WORK to enJOY a WARM CUP of COFfee <strong>every EVEning</strong>.</li>
+					<li>he <strong>COMES</strong> HOME from WORK to enJOY a WARM CUP of COFfee <strong>eve</strong>ry <strong>EVEning</strong>.</li>
 					<li className="list-none">Anh ấy <strong>trở về</strong> nhà sau giờ làm việc để thưởng thức một tách cà phê ấm vào mỗi buổi tối.</li>
 					<li className="margin-bottom-20 list-none">Dùng ⏳ Thời Gian Hành Động ở Hiện Tại Đơn với dạng COMES (cho chủ thể ngôi thứ ba số ít he) để chỉ thói quen hoặc sự việc diễn ra theo quy luật.</li>
 			
@@ -126,7 +126,7 @@ export default function IrregularVerbs(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>he <strong>SEES</strong> the SUNset CLEARly from his BALcony <strong>every EVEning</strong>.</li>
+					<li>he <strong>SEES</strong> the SUNset CLEARly from his BALcony <strong>eve</strong>ry <strong>EVEning</strong>.</li>
 					<li className="list-none">Anh ấy <strong>nhìn thấy</strong> hoàng hôn rõ ràng từ ban công của mình <strong>vào mỗi buổi tối</strong>.</li>
 					<li className="margin-bottom-20 list-none">Dùng ⏳ Thời Gian Hành Động ở Hiện Tại Đơn với dạng SEES (cho chủ thể ngôi thứ ba số ít he) để chỉ thói quen hoặc sự việc diễn ra theo quy luật.</li>
 			
@@ -145,7 +145,7 @@ export default function IrregularVerbs(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>he <strong>GETS</strong> FRESH COFfee BEANS deLIVered to his HOUSE <strong>every EVEning</strong>.</li>
+					<li>he <strong>GETS</strong> FRESH COFfee BEANS deLIVered to his HOUSE <strong>eve</strong>ry <strong>EVEning</strong>.</li>
 					<li className="list-none">Anh ấy <strong>nhận</strong> những hạt cà phê tươi được giao đến nhà <strong>vào mỗi buổi tối</strong>.</li>
 					<li className="margin-bottom-20 list-none">Dùng ⏳ Thời Gian Hành Động ở Hiện Tại Đơn với dạng GETS (cho chủ thể ngôi thứ ba số ít he) để chỉ thói quen hoặc sự việc diễn ra theo quy luật.</li>
 			
@@ -164,7 +164,7 @@ export default function IrregularVerbs(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>he <strong>MAKES</strong> a STRONG CUP of PHIN COFfee <strong>every EVEning</strong>.</li>
+					<li>he <strong>MAKES</strong> a STRONG CUP of PHIN COFfee <strong>eve</strong>ry <strong>EVEning</strong>.</li>
 					<li className="list-none">Anh ấy <strong>pha</strong> một tách cà phê phin đậm đặc <strong>vào mỗi buổi tối</strong>.</li>
 					<li className="margin-bottom-20 list-none">Dùng ⏳ Thời Gian Hành Động ở Hiện Tại Đơn với dạng MAKES (cho chủ thể ngôi thứ ba số ít he) để chỉ thói quen hoặc sự việc diễn ra theo quy luật.</li>
 			
@@ -183,7 +183,7 @@ export default function IrregularVerbs(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>he <strong>KNOWS</strong> HOW to OPtimize WEBsite perFORmance <strong>every EVEning</strong>.</li>
+					<li>he <strong>KNOWS</strong> HOW to OPtimize WEBsite perFORmance <strong>eve</strong>ry <strong>EVEning</strong>.</li>
 					<li className="list-none">Anh ấy <strong>biết</strong> cách tối ưu hóa hiệu suất trang web <strong>vào mỗi buổi tối</strong>.</li>
 					<li className="margin-bottom-20 list-none">Dùng ⏳ Thời Gian Hành Động ở Hiện Tại Đơn với dạng KNOWS (cho chủ thể ngôi thứ ba số ít he) để chỉ thói quen hoặc sự việc diễn ra theo quy luật.</li>
 			
@@ -202,7 +202,7 @@ export default function IrregularVerbs(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>he <strong>TAKES</strong> a SHORT BREAK to enJOY a CUP of COFfee <strong>every EVEning</strong>.</li>
+					<li>he <strong>TAKES</strong> a SHORT BREAK to enJOY a CUP of COFfee <strong>eve</strong>ry <strong>EVEning</strong>.</li>
 					<li className="list-none">Anh ấy <strong>dành</strong> một khoảng nghỉ ngắn để thưởng thức tách cà phê <strong>vào mỗi buổi tối</strong>.</li>
 					<li className="margin-bottom-20 list-none">Dùng ⏳ Thời Gian Hành Động ở Hiện Tại Đơn với dạng TAKES (cho chủ thể ngôi thứ ba số ít he) để chỉ thói quen hoặc sự việc diễn ra theo quy luật.</li>
 			
@@ -222,7 +222,7 @@ export default function IrregularVerbs(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>he <strong>GIVES</strong> HELPful adVICE on WEB deVELopment <strong>every EVEning</strong>.</li>
+					<li>he <strong>GIVES</strong> HELPful adVICE on WEB deVELopment <strong>eve</strong>ry <strong>EVEning</strong>.</li>
 					<li className="list-none">Anh ấy <strong>đưa ra</strong> những lời khuyên hữu ích về phát triển web <strong>vào mỗi buổi tối</strong>.</li>
 					<li className="margin-bottom-20 list-none">Dùng ⏳ Thời Gian Hành Động ở Hiện Tại Đơn với dạng GIVES (cho chủ thể ngôi thứ ba số ít he) để chỉ thói quen hoặc sự việc diễn ra theo quy luật.</li>
 			
@@ -241,7 +241,7 @@ export default function IrregularVerbs(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>he <strong>WRITES</strong> CODE for his WEB deVELopment PROJects <strong>every EVEning</strong>.</li>
+					<li>he <strong>WRITES</strong> CODE for his WEB deVELopment PROJects <strong>eve</strong>ry <strong>EVEning</strong>.</li>
 					<li className="list-none">Anh ấy <strong>viết</strong> mã cho các dự án phát triển web của mình <strong>vào mỗi buổi tối</strong>.</li>
 					<li className="margin-bottom-20 list-none">Dùng ⏳ Thời Gian Hành Động ở Hiện Tại Đơn với dạng WRITES (cho chủ thể ngôi thứ ba số ít he) để chỉ thói quen hoặc sự việc diễn ra theo quy luật.</li>
 			
@@ -260,7 +260,7 @@ export default function IrregularVerbs(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>he <strong>SPEAKS</strong> ENGlish FLUently <strong>af</strong>ter PRACticing with his LANGuage APP <strong>every EVEning</strong>.</li>
+					<li>he <strong>SPEAKS</strong> ENGlish FLUently <strong>af</strong>ter PRACticing with his LANGuage APP <strong>eve</strong>ry <strong>EVEning</strong>.</li>
 					<li className="list-none">Anh ấy <strong>nói</strong> tiếng Anh trôi chảy sau khi luyện tập với ứng dụng ngôn ngữ của mình <strong>vào mỗi buổi tối</strong>.</li>
 					<li className="margin-bottom-20 list-none">Dùng ⏳ Thời Gian Hành Động ở Hiện Tại Đơn với dạng SPEAKS (cho chủ thể ngôi thứ ba số ít he) để chỉ thói quen hoặc sự việc diễn ra theo quy luật.</li>
 			
@@ -279,7 +279,7 @@ export default function IrregularVerbs(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>he <strong>FINDS</strong> NEW inspirAtion for his WEB PROJects <strong>every EVEning</strong>.</li>
+					<li>he <strong>FINDS</strong> NEW inspirAtion for his WEB PROJects <strong>eve</strong>ry <strong>EVEning</strong>.</li>
 					<li className="list-none">Anh ấy <strong>tìm thấy</strong> nguồn cảm hứng mới cho các dự án web của mình <strong>vào mỗi buổi tối</strong>.</li>
 					<li className="margin-bottom-20 list-none">Dùng ⏳ Thời Gian Hành Động ở Hiện Tại Đơn với dạng FINDS (cho chủ thể ngôi thứ ba số ít he) để chỉ thói quen hoặc sự việc diễn ra theo quy luật.</li>
 			
@@ -298,7 +298,7 @@ export default function IrregularVerbs(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>he <strong>THINKS</strong> about NEW STRATegies for his WEB deVELopment WORK <strong> every EVEning</strong> .</li>
+					<li>he <strong>THINKS</strong> about NEW STRATegies for his WEB deVELopment WORK <strong> <strong>eve</strong>ry EVEning</strong> .</li>
 					<li className="list-none">Anh ấy <strong>suy nghĩ</strong> về các chiến lược mới cho công việc phát triển web của mình <strong>vào mỗi buổi tối</strong>.</li>
 					<li className="margin-bottom-20 list-none">Dùng ⏳ Thời Gian Hành Động ở Hiện Tại Đơn với dạng THINKS (cho chủ thể ngôi thứ ba số ít he) để chỉ thói quen hoặc sự việc diễn ra theo quy luật.</li>
 			
@@ -317,7 +317,7 @@ export default function IrregularVerbs(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>he <strong>TELLS</strong> his TEAM about his NEW PROJect iDEaS <strong>every EVEning</strong>.</li>
+					<li>he <strong>TELLS</strong> his TEAM about his NEW PROJect iDEaS <strong>eve</strong>ry <strong>EVEning</strong>.</li>
 					<li className="list-none">Anh ấy <strong>kể</strong> cho đội ngũ của mình nghe về các ý tưởng dự án mới <strong>vào mỗi buổi tối</strong>.</li>
 					<li className="margin-bottom-20 list-none">Dùng ⏳ Thời Gian Hành Động ở Hiện Tại Đơn với dạng TELLS (cho chủ thể ngôi thứ ba số ít he) để chỉ thói quen hoặc sự việc diễn ra theo quy luật.</li>
 			
@@ -336,7 +336,7 @@ export default function IrregularVerbs(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>he <strong>SAYS</strong> that he preFERS a STRONG CUP of COFfee <strong>every EVEning</strong>.</li>
+					<li>he <strong>SAYS</strong> that he preFERS a STRONG CUP of COFfee <strong>eve</strong>ry <strong>EVEning</strong>.</li>
 					<li className="list-none">Anh ấy <strong>nói</strong> rằng anh ấy thích một tách cà phê đậm đà <strong>vào mỗi buổi tối</strong>.</li>
 					<li className="margin-bottom-20 list-none">Dùng ⏳ Thời Gian Hành Động ở Hiện Tại Đơn với dạng SAYS (cho chủ thể ngôi thứ ba số ít he) để chỉ thói quen hoặc sự việc diễn ra theo quy luật.</li>
 			
@@ -355,7 +355,7 @@ export default function IrregularVerbs(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>he <strong>beCOMES</strong> more FOcused <strong>af</strong>ter DRINKing a STRONG CUP of COFfee <strong>every EVEning</strong>.</li>
+					<li>he <strong>beCOMES</strong> more FOcused <strong>af</strong>ter DRINKing a STRONG CUP of COFfee <strong>eve</strong>ry <strong>EVEning</strong>.</li>
 					<li className="list-none">Anh ấy <strong>trở nên</strong> tập trung hơn sau khi uống một tách cà phê đậm đặc <strong>vào mỗi buổi tối</strong>.</li>
 					<li className="margin-bottom-20 list-none">Dùng ⏳ Thời Gian Hành Động ở Hiện Tại Đơn với dạng beCOMES (cho chủ thể ngôi thứ ba số ít he) để chỉ thói quen hoặc sự việc diễn ra theo quy luật.</li>
 			
@@ -374,7 +374,7 @@ export default function IrregularVerbs(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>he <strong>LEAVES</strong> his OFfice <strong>every EVEning</strong> <strong>af</strong>ter FINishing all TASKS.</li>
+					<li>he <strong>LEAVES</strong> his OFfice <strong>eve</strong>ry <strong>EVEning</strong> <strong>af</strong>ter FINishing all TASKS.</li>
 					<li className="list-none">Anh ấy <strong>rời</strong> văn phòng <strong>vào mỗi buổi tối</strong> sau khi hoàn thành tất cả các nhiệm vụ.</li>
 					<li className="margin-bottom-20 list-none">Dùng ⏳ Thời Gian Hành Động ở Hiện Tại Đơn với dạng LEAVES (cho chủ thể ngôi thứ ba số ít he) để chỉ thói quen hoặc sự việc diễn ra theo quy luật.</li>
 			
@@ -393,7 +393,7 @@ export default function IrregularVerbs(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>he <strong>FEELS</strong> reLAXED <strong>af</strong>ter DRINKing a HOT CUP of COFfee <strong>every EVEning</strong>.</li>
+					<li>he <strong>FEELS</strong> reLAXED <strong>af</strong>ter DRINKing a HOT CUP of COFfee <strong>eve</strong>ry <strong>EVEning</strong>.</li>
 					<li className="list-none">Anh ấy <strong>cảm thấy</strong> thư thái sau khi uống một tách cà phê nóng <strong>vào mỗi buổi tối</strong>.</li>
 					<li className="margin-bottom-20 list-none">Dùng ⏳ Thời Gian Hành Động ở Hiện Tại Đơn với dạng FEELS (cho chủ thể ngôi thứ ba số ít he) để chỉ thói quen hoặc sự việc diễn ra theo quy luật.</li>
 			
@@ -413,7 +413,7 @@ export default function IrregularVerbs(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>he <strong>PUTS</strong> his DOCuments in a SAFE DRAWer <strong>every EVEning</strong>.</li>
+					<li>he <strong>PUTS</strong> his DOCuments in a SAFE DRAWer <strong>eve</strong>ry <strong>EVEning</strong>.</li>
 					<li className="list-none">Anh ấy <strong>cất</strong> tài liệu của mình vào một ngăn kéo an toàn <strong>vào mỗi buổi tối</strong>.</li>
 					<li className="margin-bottom-20 list-none">Dùng ⏳ Thời Gian Hành Động ở Hiện Tại Đơn với dạng PUTS (cho chủ thể ngôi thứ ba số ít He) để chỉ thói quen hoặc sự việc diễn ra theo quy luật.</li>
 			
@@ -432,7 +432,7 @@ export default function IrregularVerbs(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>he <strong>BRINGS</strong> a HOT CUP of COFfee to his DESK <strong>every MORNing</strong>.</li>
+					<li>he <strong>BRINGS</strong> a HOT CUP of COFfee to his DESK <strong>eve</strong>ry <strong>MORNing</strong>.</li>
 					<li className="list-none">Anh ấy <strong>mang</strong> một tách cà phê nóng vào bàn làm việc của mình <strong>vào mỗi buổi sáng</strong>.</li>
 					<li className="margin-bottom-20 list-none">Dùng ⏳ Thời Gian Hành Động ở Hiện Tại Đơn với dạng BRINGS (cho chủ thể ngôi thứ ba số ít he) để chỉ thói quen hoặc sự việc diễn ra theo quy luật.</li>
 			
@@ -451,7 +451,7 @@ export default function IrregularVerbs(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>he <strong>beGINS</strong> his WORKday EARly <strong>every MORNing</strong>.</li>
+					<li>he <strong>beGINS</strong> his WORKday EARly <strong>eve</strong>ry <strong>MORNing</strong>.</li>
 					<li className="list-none">Anh ấy <strong>bắt đầu</strong> ngày làm việc của mình từ sớm <strong>vào mỗi buổi sáng</strong>.</li>
 					<li className="margin-bottom-20 list-none">Dùng ⏳ Thời Gian Hành Động ở Hiện Tại Đơn với dạng beGINS (cho chủ thể ngôi thứ ba số ít he) để chỉ thói quen hoặc sự việc diễn ra theo quy luật.</li>
 			
@@ -470,7 +470,7 @@ export default function IrregularVerbs(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>he <strong>KEEPS</strong> his WORKspace NEAT and ORganized <strong>every DAY</strong>.</li>
+					<li>he <strong>KEEPS</strong> his WORKspace NEAT and ORganized <strong>eve</strong>ry <strong>DAY</strong>.</li>
 					<li className="list-none">Anh ấy <strong>giữ</strong> góc làm việc của mình ngăn nắp và gọn gàng <strong>mỗi ngày</strong>.</li>
 					<li className="margin-bottom-20 list-none">Dùng ⏳ Thời Gian Hành Động ở Hiện Tại Đơn với dạng KEEPS (cho chủ thể ngôi thứ ba số ít he) để chỉ thói quen hoặc sự việc diễn ra theo quy luật.</li>
 			
@@ -508,7 +508,7 @@ export default function IrregularVerbs(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>he <strong>SETS</strong> a CLEAR GOAL at the beGINning of <strong>every MONTH</strong>.</li>
+					<li>he <strong>SETS</strong> a CLEAR GOAL at the beGINning of <strong>eve</strong>ry <strong>MONTH</strong>.</li>
 					<li className="list-none">Anh ấy <strong>đặt ra</strong> một mục tiêu rõ ràng <strong>vào đầu mỗi tháng</strong>.</li>
 					<li className="margin-bottom-20 list-none">Dùng ⏳ Thời Gian Hành Động ở Hiện Tại Đơn với dạng SETS (cho chủ thể ngôi thứ ba số ít he) để chỉ thói quen hoặc sự việc diễn ra theo quy luật.</li>
 			
@@ -527,7 +527,7 @@ export default function IrregularVerbs(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>he <strong>READS</strong> SPEcialized TECHnical BLOGS <strong>every EVEning</strong>.</li>
+					<li>he <strong>READS</strong> SPEcialized TECHnical BLOGS <strong>eve</strong>ry <strong>EVEning</strong>.</li>
 					<li className="list-none">Anh ấy <strong>đọc</strong> các blog kỹ thuật chuyên ngành <strong>vào mỗi buổi tối</strong>.</li>
 					<li className="margin-bottom-20 list-none">Dùng ⏳ Thời Gian Hành Động ở Hiện Tại Đơn với dạng READS (cho chủ thể ngôi thứ ba số ít he) để chỉ thói quen hoặc sự việc diễn ra theo quy luật.</li>
 			
@@ -546,7 +546,7 @@ export default function IrregularVerbs(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>he <strong>BUYS</strong> FRESH roBUSta BEANS <strong>every MONTH</strong>.</li>
+					<li>he <strong>BUYS</strong> FRESH roBUSta BEANS <strong>eve</strong>ry <strong>MONTH</strong>.</li>
 					<li className="list-none">Anh ấy <strong>mua</strong> hạt cà phê robusta tươi <strong>mỗi tháng</strong>.</li>
 					<li className="margin-bottom-20 list-none">Dùng ⏳ Thời Gian Hành Động ở Hiện Tại Đơn với dạng BUYS (cho chủ thể ngôi thứ ba số ít he) để chỉ thói quen hoặc sự việc diễn ra theo quy luật.</li>
 			
@@ -565,7 +565,7 @@ export default function IrregularVerbs(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>he <strong>SITS</strong> at his DESK <strong>every MORNing</strong> to WORK.</li>
+					<li>he <strong>SITS</strong> at his DESK <strong>eve</strong>ry <strong>MORNing</strong> to WORK.</li>
 					<li className="list-none">Anh ấy <strong>ngồi</strong> vào bàn làm việc của mình <strong>vào mỗi buổi sáng</strong>.</li>
 					<li className="margin-bottom-20 list-none">Dùng ⏳ Thời Gian Hành Động ở Hiện Tại Đơn với dạng SITS (cho chủ thể ngôi thứ ba số ít he) để chỉ thói quen hoặc sự việc diễn ra theo quy luật.</li>
 			
@@ -584,7 +584,7 @@ export default function IrregularVerbs(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>he <strong>STANDS</strong> by the WINdow <strong>every MORNing</strong> to WATCH the SUNrise.</li>
+					<li>he <strong>STANDS</strong> by the WINdow <strong>eve</strong>ry <strong>MORNing</strong> to WATCH the SUNrise.</li>
 					<li className="list-none">Anh ấy <strong>đứng</strong> cạnh cửa sổ <strong>vào mỗi buổi sáng</strong> để ngắm bình minh.</li>
 					<li className="margin-bottom-20 list-none">Dùng ⏳ Thời Gian Hành Động ở Hiện Tại Đơn với dạng STANDS (cho chủ thể ngôi thứ ba số ít he) để chỉ thói quen hoặc sự việc diễn ra theo quy luật.</li>
 			
@@ -623,7 +623,7 @@ export default function IrregularVerbs(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>he <strong>PAYS</strong> his BILLS at the beGINning of <strong>every MONTH</strong>.</li>
+					<li>he <strong>PAYS</strong> his BILLS at the beGINning of <strong>eve</strong>ry <strong>MONTH</strong>.</li>
 					<li className="list-none">Anh ấy <strong>thanh toán</strong> các hóa đơn của mình <strong>vào đầu mỗi tháng</strong>.</li>
 					<li className="margin-bottom-20 list-none">Dùng ⏳ Thời Gian Hành Động ở Hiện Tại Đơn với dạng PAYS (cho chủ thể ngôi thứ ba số ít he) để chỉ thói quen hoặc sự việc diễn ra theo quy luật.</li>
 			
@@ -642,7 +642,7 @@ export default function IrregularVerbs(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>he <strong>MEETS</strong> his CLIents <strong>every TUESday</strong>.</li>
+					<li>he <strong>MEETS</strong> his CLIents <strong>eve</strong>ry <strong>TUESday</strong>.</li>
 					<li className="list-none">Anh ấy <strong>gặp gỡ</strong> các khách hàng của mình <strong>vào mỗi thứ Ba</strong>.</li>
 					<li className="margin-bottom-20 list-none">Dùng ⏳ Thời Gian Hành Động ở Hiện Tại Đơn với dạng MEETS (cho chủ thể ngôi thứ ba số ít he) để chỉ thói quen hoặc sự việc diễn ra theo quy luật.</li>
 			
@@ -661,7 +661,7 @@ export default function IrregularVerbs(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>he <strong>RUNS</strong> in the PARK <strong>every afterNOON</strong>.</li>
+					<li>he <strong>RUNS</strong> in the PARK <strong>eve</strong>ry <strong>afterNOON</strong>.</li>
 					<li className="list-none">Anh ấy <strong>chạy bộ</strong> ở công viên <strong>vào mỗi buổi chiều</strong>.</li>
 					<li className="margin-bottom-20 list-none">Dùng ⏳ Thời Gian Hành Động ở Hiện Tại Đơn với dạng RUNS (cho chủ thể ngôi thứ ba số ít he) để chỉ thói quen hoặc sự việc diễn ra theo quy luật.</li>
 			
@@ -680,7 +680,7 @@ export default function IrregularVerbs(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>he <strong>EATS</strong> a HEALTHy BREAKfast <strong>every DAY</strong>.</li>
+					<li>he <strong>EATS</strong> a HEALTHy BREAKfast <strong>eve</strong>ry <strong>DAY</strong>.</li>
 					<li className="list-none">Anh ấy <strong>ăn</strong> một bữa sáng lành mạnh <strong>mỗi ngày</strong>.</li>
 					<li className="margin-bottom-20 list-none">Dùng ⏳ Thời Gian Hành Động ở Hiện Tại Đơn với dạng EATS (cho chủ thể ngôi thứ ba số ít he) để chỉ thói quen hoặc sự việc diễn ra theo quy luật.</li>
 			
@@ -699,7 +699,7 @@ export default function IrregularVerbs(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>he <strong>DRINKS</strong> a LARGE CUP of roBUSta COFfee <strong>every MORNing</strong>.</li>
+					<li>he <strong>DRINKS</strong> a LARGE CUP of roBUSta COFfee <strong>eve</strong>ry <strong>MORNing</strong>.</li>
 					<li className="list-none">Anh ấy <strong>uống</strong> một cốc cà phê robusta lớn <strong>mỗi buổi sáng</strong>.</li>
 					<li className="margin-bottom-20 list-none">Dùng ⏳ Thời Gian Hành Động ở Hiện Tại Đơn với dạng DRINKS (cho chủ thể ngôi thứ ba số ít he) để chỉ thói quen hoặc sự việc diễn ra theo quy luật.</li>
 			
@@ -718,7 +718,7 @@ export default function IrregularVerbs(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>he <strong>DRIVES</strong> to WORK <strong>every MORNing</strong>.</li>
+					<li>he <strong>DRIVES</strong> to WORK <strong>eve</strong>ry <strong>MORNing</strong>.</li>
 					<li className="list-none">Anh ấy <strong>lái xe</strong> đi làm <strong>mỗi buổi sáng</strong>.</li>
 					<li className="margin-bottom-20 list-none">Dùng ⏳ Thời Gian Hành Động ở Hiện Tại Đơn với dạng DRIVES (cho chủ thể ngôi thứ ba số ít he) để chỉ thói quen hoặc sự việc diễn ra theo quy luật.</li>
 			
@@ -737,7 +737,7 @@ export default function IrregularVerbs(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>he <strong>BREAKS</strong> the RECord <strong>every YEAR</strong>.</li>
+					<li>he <strong>BREAKS</strong> the RECord <strong>eve</strong>ry <strong>YEAR</strong>.</li>
 					<li className="list-none">Anh ấy <strong>phá</strong> kỷ lục <strong>mỗi năm</strong>.</li>
 					<li className="margin-bottom-20 list-none">Dùng ⏳ Thời Gian Hành Động ở Hiện Tại Đơn với dạng BREAKS (cho chủ thể ngôi thứ ba số ít he) để chỉ sự việc diễn ra theo quy luật.</li>
 			
@@ -775,7 +775,7 @@ export default function IrregularVerbs(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>he <strong>forGETS</strong> his KEYS ALmost <strong>every DAY</strong>.</li>
+					<li>he <strong>forGETS</strong> his KEYS ALmost <strong>eve</strong>ry <strong>DAY</strong>.</li>
 					<li className="list-none">Anh ấy <strong>quên</strong> chìa khóa của mình hầu như <strong>mỗi ngày</strong>.</li>
 					<li className="margin-bottom-20 list-none">Dùng ⏳ Thời Gian Hành Động ở Hiện Tại Đơn với dạng forGETS (cho chủ thể ngôi thứ ba số ít he) để chỉ sự việc diễn ra theo quy luật.</li>
 			
@@ -814,7 +814,7 @@ export default function IrregularVerbs(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>she <strong>HOLDS</strong> a MEETing <strong>every MONday MORNing</strong>.</li>
+					<li>she <strong>HOLDS</strong> a MEETing <strong>eve</strong>ry <strong>MONday MORNing</strong>.</li>
 					<li className="list-none">Cô ấy <strong>tổ chức</strong> một cuộc họp <strong>vào mỗi sáng thứ Hai</strong>.</li>
 					<li className="margin-bottom-20 list-none">Dùng ⏳ Thời Gian Hành Động ở Hiện Tại Đơn với dạng HOLDS (cho chủ thể ngôi thứ ba số ít she) để chỉ sự việc diễn ra theo quy luật.</li>
 			
@@ -833,7 +833,7 @@ export default function IrregularVerbs(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>he <strong>LEARNS</strong> a NEW LANguage <strong>every year</strong>.</li>
+					<li>he <strong>LEARNS</strong> a NEW LANguage <strong>eve</strong>ry <strong>year</strong>.</li>
 					<li className="list-none">Anh ấy <strong>học</strong> một ngôn ngữ mới <strong>mỗi năm</strong>.</li>
 					<li className="margin-bottom-20 list-none">Dùng ⏳ Thời Gian Hành Động ở Hiện Tại Đơn với dạng LEARNS (cho chủ thể ngôi thứ ba số ít he) để chỉ sự việc diễn ra theo quy luật.</li>
 			
@@ -890,7 +890,7 @@ export default function IrregularVerbs(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>the BAby <strong>SLEEPS</strong> for EIGHT HOURS every NIGHT.</li>
+					<li>the BAby <strong>SLEEPS</strong> for EIGHT HOURS <strong>eve</strong>ry NIGHT.</li>
 					<li className="list-none">Em bé <strong>ngủ</strong> tám tiếng mỗi đêm.</li>
 					<li className="margin-bottom-20 list-none">Dùng ⏳ Thời Gian Hành Động ở Hiện Tại Đơn với dạng SLEEPS (cho chủ thể ngôi thứ ba số ít the BAby) để chỉ thói quen hoặc sự việc diễn ra theo quy luật.</li>
 			
@@ -909,7 +909,7 @@ export default function IrregularVerbs(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>he <strong>SWIMS</strong> in the POOL <strong>every MORNing</strong>.</li>
+					<li>he <strong>SWIMS</strong> in the POOL <strong>eve</strong>ry <strong>MORNing</strong>.</li>
 					<li className="list-none">Anh ấy <strong>bơi</strong> ở hồ bơi <strong>mỗi buổi sáng</strong>.</li>
 					<li className="margin-bottom-20 list-none">Dùng ⏳ Thời Gian Hành Động ở Hiện Tại Đơn với dạng SWIMS (cho chủ thể ngôi thứ ba số ít he) để chỉ thói quen hoặc sự việc diễn ra theo quy luật.</li>
 			
@@ -917,7 +917,7 @@ export default function IrregularVerbs(): React.JSX.Element {
 					<li className="list-none">Cô ấy <strong>đã bơi</strong> qua sông <strong>vào ngày hôm qua</strong>.</li>
 					<li className="margin-bottom-20 list-none">Dùng ⏳ Thời Gian Hành Động ở Quá Khứ Đơn với dạng SWAM để chỉ việc đã xảy ra và kết thúc trong quá khứ.</li>
 			
-					<li>they <strong>have SWUM</strong> in <strong>this</strong> LAKE many TIMES.</li>
+					<li>they <strong>have SWUM</strong> in <strong>this</strong> LAKE <strong>man</strong>y TIMES.</li>
 					<li className="list-none">Họ <strong>đã bơi</strong> ở cái hồ này nhiều lần.</li>
 					<li className="list-none">Cấu trúc này dùng 📏 Khoảng Thời Gian Hành Động ở Hiện Tại Hoàn Thành với have SWUM, nói về sự việc đã hoàn tất và liên quan đến hiện tại.</li>
 			
@@ -966,7 +966,7 @@ export default function IrregularVerbs(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>our TEAM <strong>WINS</strong> every GAME <strong>THIS SEAson</strong>.</li>
+					<li>our TEAM <strong>WINS</strong> <strong>eve</strong>ry GAME <strong>THIS SEAson</strong>.</li>
 					<li className="list-none">Đội của chúng ta <strong>thắng</strong> mọi trận đấu <strong>trong mùa giải này</strong>.</li>
 					<li className="margin-bottom-20 list-none">Dùng ⏳ Thời Gian Hành Động ở Hiện Tại Đơn với dạng WINS (cho chủ thể ngôi thứ ba số ít our TEAM) để chỉ sự việc diễn ra theo quy luật.</li>
 			
@@ -1137,7 +1137,7 @@ export default function IrregularVerbs(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>he <strong>CATCHes</strong> the BUS to WORK <strong>every MORNing</strong>.</li>
+					<li>he <strong>CATCHes</strong> the BUS to WORK <strong>eve</strong>ry <strong>MORNing</strong>.</li>
 					<li className="list-none">Anh ấy <strong>bắt</strong> xe buýt đi làm <strong>vào mỗi buổi sáng</strong>.</li>
 					<li className="margin-bottom-20 list-none">Dùng ⏳ Thời Gian Hành Động ở Hiện Tại Đơn với dạng CATCHes (cho chủ thể ngôi thứ ba số ít he) để chỉ thói quen lặp lại.</li>
 			
@@ -1175,7 +1175,7 @@ export default function IrregularVerbs(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>he <strong>SINGS</strong> aLONG to his FAVOrite SONGS while CODing <strong>every EVEning</strong>.</li>
+					<li>he <strong>SINGS</strong> aLONG to his FAVOrite SONGS while CODing <strong>eve</strong>ry <strong>EVEning</strong>.</li>
 					<li className="list-none">Anh ấy <strong>hát</strong> theo những bài hát yêu thích của mình trong lúc lập trình <strong>vào mỗi buổi tối</strong>.</li>
 					<li className="margin-bottom-20 list-none">Dùng ⏳ Thời Gian Hành Động ở Hiện Tại Đơn với dạng SINGS (cho chủ thể ngôi thứ ba số ít he) để chỉ thói quen hoặc sự việc diễn ra theo quy luật.</li>
 			
@@ -1183,7 +1183,7 @@ export default function IrregularVerbs(): React.JSX.Element {
 					<li className="list-none">Cô ấy <strong>đã hát</strong> một bài hát truyền thống trong buổi sum họp gia đình <strong>vào ngày hôm qua</strong>.</li>
 					<li className="margin-bottom-20 list-none">Dùng ⏳ Thời Gian Hành Động ở Quá Khứ Đơn với dạng SANG để chỉ việc đã xảy ra và kết thúc trong quá khứ.</li>
 			
-					<li>they <strong>have SUNG</strong> toGETHer at many comMUnity eVENTs.</li>
+					<li>they <strong>have SUNG</strong> toGETHer at <strong>man</strong>y comMUnity eVENTs.</li>
 					<li className="list-none">Họ <strong>đã hát</strong> cùng nhau tại nhiều sự kiện cộng đồng <strong>rồi</strong>.</li>
 					<li className="list-none">Cấu trúc này dùng 📏 Khoảng Thời Gian Hành Động ở Hiện Tại Hoàn Thành với have SUNG, nói về sự việc đã hoàn tất và liên quan đến hiện tại.</li>
 			
@@ -1200,7 +1200,7 @@ export default function IrregularVerbs(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>she <strong>GOES</strong> to SCHOOL <strong>every DAY</strong>.</li>
+					<li>she <strong>GOES</strong> to SCHOOL <strong>eve</strong>ry <strong>DAY</strong>.</li>
 					<li className="list-none">Cô ấy <strong>đi</strong> học <strong>mỗi ngày</strong>. (⏳ Thời Gian Hành Động ở Hiện Tại Đơn)</li>
 			
 				</ul>
@@ -1287,14 +1287,14 @@ export default function IrregularVerbs(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li><strong>YESterday</strong> i <strong>TOOK</strong> a PHOto, but toDAY i <strong>have TAken</strong> many PHOtos <strong>alREADy</strong>.</li>
+					<li><strong>YESterday</strong> i <strong>TOOK</strong> a PHOto, but toDAY i <strong>have TAken</strong> <strong>man</strong>y PHOtos <strong>alREADy</strong>.</li>
 					<li className="margin-bottom-20 list-none"><strong>Ngày hôm qua</strong> tôi <strong>đã chụp</strong> một bức ảnh, nhưng hôm nay tôi <strong>đã chụp</strong> rất nhiều bức ảnh <strong>rồi</strong>.</li>
 			
 					<li><strong>YESterday</strong> i <strong>TOOK</strong> a PHOto:</li>
 					<li className="list-none">Cấu trúc này dùng ⏳ Thời Gian Hành Động ở Quá Khứ Đơn với dạng TOOK của hành động TAKE.</li>
 					<li className="margin-bottom-20 list-none">Được dùng để diễn tả một hành động chụp ảnh đã xảy ra và kết thúc hoàn toàn trong quá khứ, đi kèm với trạng từ chỉ thời gian cụ thể là YESterday (ngày hôm qua).</li>
 			
-					<li>...but <strong>toDAY</strong> i <strong>have TAken</strong> many PHOtos <strong>alREADy</strong>:</li>
+					<li>...but <strong>toDAY</strong> i <strong>have TAken</strong> <strong>man</strong>y PHOtos <strong>alREADy</strong>:</li>
 					<li className="list-none">Cấu trúc này dùng 📏 Khoảng Thời Gian Hành Động ở Hiện Tại Hoàn Thành với dạng have TAken.</li>
 					<li className="list-none">Được dùng để nhấn mạnh kết quả hoặc số lượng ảnh đã chụp được tính đến thời điểm hiện tại trong ngày, kết hợp với trạng từ toDAY (hôm nay) và alREADy (đã... rồi).</li>
 			

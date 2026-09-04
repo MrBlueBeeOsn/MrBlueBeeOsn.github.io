@@ -65,10 +65,10 @@ export default function Openly2(): React.JSX.Element {
         <li value="3">the ATHlete was Openly adMIred for his aCHIEVEments.</li>
         <li className="list-none margin-bottom-20">Vận động viên này được ngưỡng mộ công khai vì những thành tích của anh ấy.</li>
 
-        <li value="4">the CAUSE was Openly supPORTed by many ceLEBrities.</li>
+        <li value="4">the CAUSE was Openly supPORTed by <strong>man</strong>y ceLEBrities.</li>
         <li className="list-none margin-bottom-20">Nguyên nhân này đã được nhiều người nổi tiếng ủng hộ công khai.</li>
 
-        <li value="5">the THEORy was Openly QUEStioned by many SCIentists.</li>
+        <li value="5">the THEORy was Openly QUEStioned by <strong>man</strong>y SCIentists.</li>
         <li className="list-none margin-bottom-20">Thuyết này đã bị nhiều nhà khoa học đặt câu hỏi công khai.</li>
 
         <li value="6">the PLAN was Openly opPOSED by the LOcal RESidents.</li>

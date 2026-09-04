@@ -100,7 +100,7 @@ export default function esPECially1(): React.JSX.Element {
           <li>i am <Link to="/vocabulary/parTICularly-1">parTICularly</Link> FOND of <strong>this</strong> PAINTing.</li>
           <li className="margin-bottom-20 list-none">Tôi đặc biệt thích bức tranh này.</li>
 
-          <li>i LIKE many SPORTS, in parTICular, SWIMming.</li>
+          <li>i LIKE <strong>man</strong>y SPORTS, in parTICular, SWIMming.</li>
           <li className="list-none">Tôi thích nhiều môn thể thao, đặc biệt là bơi lội.</li>
 
         </ul>

@@ -59,7 +59,7 @@ export default function SO2(): React.JSX.Element {
         <li value="1">THANK you SO MUCH for your HELP!</li>
         <li className="list-none margin-bottom-20">Cảm ơn bạn rất nhiều vì sự giúp đỡ của bạn!</li>
 
-        <li value="2">there are SO many PEOple here toDAY.</li>
+        <li value="2">there are SO <strong>man</strong>y PEOple here toDAY.</li>
         <li className="list-none margin-bottom-20">Hôm nay có quá nhiều người ở đây.</li>
 
         <li value="3">this CAKE is SO GOOD!</li>

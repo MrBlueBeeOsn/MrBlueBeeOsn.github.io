@@ -162,7 +162,7 @@ export default function Respond(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>Every CUStomer SERvice dePARTment reQUIRES a [reSPONsive] TEAM.</li>
+          <li><strong>eve</strong>ry CUStomer SERvice dePARTment reQUIRES a [reSPONsive] TEAM.</li>
           <li className="margin-bottom-20 list-none">Mỗi bộ phận dịch vụ khách hàng đều yêu cầu một đội ngũ [có độ phản hồi tốt/nhanh nhạy].</li>
       
           <li className="list-none">Hình thái: [reSPONsive] - [Diện Tính Cơ][Modified Adjective Base] hình thành từ khối [Rễ Động Cơ][Root Verb Base] nguyên bản "reSPOND" kết hợp biến đổi đuôi và hậu tố "-ive" để thay đổi diện mạo bên ngoài thành một khối cấp độ [Cơ][Base] có khả năng mô tả tính chất đặc điểm.</li>

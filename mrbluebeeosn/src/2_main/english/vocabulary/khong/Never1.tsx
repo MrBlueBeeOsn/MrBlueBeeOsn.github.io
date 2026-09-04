@@ -147,7 +147,7 @@ export default function NEVer1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>EVery TIME i FEEL like GIVing UP, i THINK of the "NEVer give UP" SIGN and KEEP GOing.</li>
+          <li><strong>eve</strong>ry TIME i FEEL like GIVing UP, i THINK of the "NEVer give UP" SIGN and KEEP GOing.</li>
           <li className="list-none">Mỗi khi muốn bỏ cuộc, tôi nghĩ đến dòng chữ "Không bao giờ bỏ cuộc" và tiếp tục cố gắng.</li>
 
         </ul>

@@ -86,7 +86,7 @@ export default function Openly1(): React.JSX.Element {
           <li>PLEASE Open the WINdow.</li>
           <li className="margin-bottom-20 list-none">Làm ơn mở cửa sổ.</li>
 
-          <li>her Openness MADE her many FRIENDS.</li>
+          <li>her Openness MADE her <strong>man</strong>y FRIENDS.</li>
           <li className="list-none">Sự cởi mở của cô ấy đã giúp cô ấy có nhiều bạn bè.</li>
 
         </ul>

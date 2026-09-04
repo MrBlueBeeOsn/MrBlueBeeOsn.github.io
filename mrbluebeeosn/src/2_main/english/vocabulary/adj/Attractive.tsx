@@ -120,7 +120,7 @@ export default function atTRACtive(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>the TROPical Island has an [alLURing] ATmosphere that DRAWS VISitors every YEAR.</li>
+          <li>the TROPical Island has an [alLURing] ATmosphere that DRAWS VISitors <strong>eve</strong>ry YEAR.</li>
           <li className="list-none">Hòn đảo nhiệt đới có một bầu không khí quyến rũ thu hút du khách mỗi năm.</li>
 
         </ul>

@@ -106,7 +106,7 @@ export default function CURrently1(): React.JSX.Element {
           <li>i am WORKing <Link to="/vocabulary/NOW-1">NOW</Link>.</li>
           <li className="margin-bottom-20 list-none">Tôi đang làm việc bây giờ.</li>
 
-          <li>at PRESent, we are FAcing many CHALlenges.</li>
+          <li>at PRESent, we are FAcing <strong>man</strong>y CHALlenges.</li>
           <li className="list-none">Hiện tại, chúng ta đang đối mặt với nhiều thách thức.</li>
 
         </ul>

@@ -56,7 +56,7 @@ export default function FAITHfully2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1">he FAITHfully SERVED his COUNtry for many YEARS.</li>
+        <li value="1">he FAITHfully SERVED his COUNtry for <strong>man</strong>y YEARS.</li>
         <li className="list-none margin-bottom-20">Ông ấy đã trung thành phục vụ đất nước trong nhiều năm.</li>
 
         <li value="2">she FAITHfully FOLlowed the DOCtor's ORders.</li>

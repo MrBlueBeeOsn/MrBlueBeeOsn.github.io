@@ -214,7 +214,7 @@ export default function SauDangHanhDong1(): React.JSX.Element {
 
 				<ul className="list-square">
 
-					<li>every day i WORK HARD, but RIGHT NOW i am WORKing Even HARder!</li>
+					<li><strong>eve</strong>ry day i WORK HARD, but RIGHT NOW i am WORKing Even HARder!</li>
 					<li className="list-none">Mỗi ngày tôi đều làm việc chăm chỉ, nhưng ngay lúc này tôi còn đang làm việc chăm chỉ hơn nữa!</li>
 					<li className="margin-bottom-20 list-none">Câu đầu dùng ⏳ Thời Gian Hành Động ở Hiện Tại Đơn (thói quen hằng ngày), câu sau dùng ⏱️ Thời Điểm Hành Động ở Hiện Tại Tiếp Diễn (hành động đang diễn ra ngay tại thời điểm nói).</li>
 			

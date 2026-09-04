@@ -178,7 +178,7 @@ export default function PAINStakingly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>the ARtist PAINStakingly PAINted every DEtail of the PORtrait.</li>
+          <li>the ARtist PAINStakingly PAINted <strong>eve</strong>ry DEtail of the PORtrait.</li>
           <li className="list-none">Họa sĩ tỉ mỉ vẽ từng chi tiết của bức chân dung.</li>
 
         </ul>

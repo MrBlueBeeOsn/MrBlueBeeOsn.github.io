@@ -129,7 +129,7 @@ export default function SCRUpulously1(): React.JSX.Element {
           <li>he perFORMED his DUties NEGligently.</li>
           <li className="margin-bottom-20 list-none">Anh ấy thực hiện nhiệm vụ của mình một cách cẩu thả.</li>
 
-          <li>the rePORT was WRITten SLOPpily, with many gramMATical misTAKES.</li>
+          <li>the rePORT was WRITten SLOPpily, with <strong>man</strong>y gramMATical misTAKES.</li>
           <li className="list-none">Báo cáo được viết một cách ẩu tả, với nhiều lỗi ngữ pháp.</li>
 
         </ul>

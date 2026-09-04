@@ -71,7 +71,7 @@ export default function NOW2(): React.JSX.Element {
         <li value="5">she USED to be VERy SHY, but THEN and NOW, she's VERy OUTgoing.</li>
         <li className="list-none margin-bottom-20">Cô ấy trước đây rất nhút nhát, nhưng từ đó đến nay, cô ấy rất hòa đồng.</li>
 
-        <li value="6">i will START EXercising every DAY from NOW ON.</li>
+        <li value="6">i will START EXercising <strong>eve</strong>ry DAY from NOW ON.</li>
         <li className="list-none margin-bottom-20">Tôi sẽ bắt đầu tập thể dục mỗi ngày từ bây giờ.</li>
 
         <li value="7">i SAW her JUST NOW.</li>
