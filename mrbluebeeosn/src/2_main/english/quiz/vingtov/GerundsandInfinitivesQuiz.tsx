@@ -106,7 +106,7 @@ export default function GerundsAndInfinitivesQuiz(): React.JSX.Element {
 		},
 		{
 			id: 8,
-			question: "they sugGESTed ________ a TAXi to the AIRport inSTEAD of TAking the BUS.",
+			question: "they sugGESTed ________ a TAXi to the AIRport instead of TAking the BUS.",
 			options: [
 				"TAKE",
 				"to TAKE",

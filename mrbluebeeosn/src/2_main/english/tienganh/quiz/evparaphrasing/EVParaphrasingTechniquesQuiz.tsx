@@ -34,7 +34,7 @@ export default function EVParaphrasingTechniquesQuiz(): React.JSX.Element {
 		},
 		{
 			id: 2,
-			question: "CHANging \"the comMITtee postPONED the MEETing\" to \"the MEETing was postPONED by the comMITtee\" is an exAMple of which techNIQUE?",
+			question: "CHANging \"the comMITtee postPONED the MEETing\" to \"the MEETing was postPONED by the comMITtee\" is an exAMple of WHICH techNIQUE?",
 			options: [
 				"Using SYNonyms",
 				"CHANging the VOICE (ACtive to PASsive)",

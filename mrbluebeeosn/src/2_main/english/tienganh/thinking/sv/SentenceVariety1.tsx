@@ -195,7 +195,7 @@ export default function SentenceVariety1(): React.JSX.Element {
 
 			<p className="margin-top-20"><strong>Đảo ngữ để tạo bất ngờ</strong>: Thay vì bắt đầu bằng danh chủ, hãy đưa các trạng cụm chỉ thời gian hoặc nơi chốn lên đầu.</p>
 
-			<p className="text-indent-whole">inSTEAD of:</p>
+			<p className="text-indent-whole">in<strong>stead</strong> of:</p>
 
 				<ul className="list-square">
 

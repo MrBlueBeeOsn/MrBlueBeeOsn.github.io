@@ -24,7 +24,7 @@ export default function EVNounClausesQuiz(): React.JSX.Element {
 			id: 1,
 			question: "________ MADE everyone in the room LAUGH was his hiLARious imiTAtion of the BOSS.",
 			options: [
-				"what",
+				"WHAT",
 				"that",
 				"which",
 				"whatever"
@@ -36,7 +36,7 @@ export default function EVNounClausesQuiz(): React.JSX.Element {
 			id: 2,
 			question: "the proFESsor exPLAINED ________ the NEW SOFTware PROgram could imPROVE our efFICiency.",
 			options: [
-				"what",
+				"WHAT",
 				"how",
 				"which",
 				"who"
@@ -74,7 +74,7 @@ export default function EVNounClausesQuiz(): React.JSX.Element {
 			options: [
 				"when",
 				"that",
-				"what",
+				"WHAT",
 				"why"
 			],
 			correctAnswer: 0,
@@ -84,7 +84,7 @@ export default function EVNounClausesQuiz(): React.JSX.Element {
 			id: 6,
 			question: "________ she MANaged to FINish the PROJect in just TWO DAYS surPRISED all of us.",
 			options: [
-				"what",
+				"WHAT",
 				"how",
 				"that",
 				"if"
@@ -110,7 +110,7 @@ export default function EVNounClausesQuiz(): React.JSX.Element {
 			options: [
 				"that",
 				"which",
-				"what",
+				"WHAT",
 				"whatever"
 			],
 			correctAnswer: 2,
@@ -121,7 +121,7 @@ export default function EVNounClausesQuiz(): React.JSX.Element {
 			question: "the TRUE PROBlem is ________ we LACK the NECessary BUDget to LAUNCH the CAMpaign.",
 			options: [
 				"that",
-				"what",
+				"WHAT",
 				"if",
 				"whether"
 			],

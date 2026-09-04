@@ -22,7 +22,7 @@ export default function SAndEsInNounsVerbs(): React.JSX.Element {
 	const questions: Question[] = [
 		{
 			id: 1,
-			question: "Which of the following nouns forms its plural by adding -es?",
+			question: "WHICH of the following nouns forms its plural by adding -es?",
 			options: [
 				"Photo",
 				"Bench",
@@ -70,7 +70,7 @@ export default function SAndEsInNounsVerbs(): React.JSX.Element {
 		},
 		{
 			id: 5,
-			question: "Which word is the correct plural of \"Butterfly\"?",
+			question: "WHICH word is the correct plural of \"Butterfly\"?",
 			options: [
 				"Butterflys",
 				"Butterflies",
@@ -118,7 +118,7 @@ export default function SAndEsInNounsVerbs(): React.JSX.Element {
 		},
 		{
 			id: 9,
-			question: "Which of these nouns ends in -es in its plural form?",
+			question: "WHICH of these nouns ends in -es in its plural form?",
 			options: [
 				"Belief",
 				"Roof",

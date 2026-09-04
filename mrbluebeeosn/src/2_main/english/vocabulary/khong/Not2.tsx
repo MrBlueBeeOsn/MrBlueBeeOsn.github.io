@@ -68,7 +68,7 @@ export default function NOT2(): React.JSX.Element {
         <li value="4">i do NOT EAT MEAT any MORE.</li>
         <li className="list-none margin-bottom-20">Tôi không ăn thịt nữa.</li>
 
-        <li value="5">i do NOT LIKE this MOVie at ALL.</li>
+        <li value="5">i do NOT LIKE <strong>this</strong> MOVie at ALL.</li>
         <li className="list-none margin-bottom-20">Tôi không thích bộ phim này chút nào.</li>
 
         <li value="6">NOT Only is she KIND, but she is ALso VERy HELPful.</li>

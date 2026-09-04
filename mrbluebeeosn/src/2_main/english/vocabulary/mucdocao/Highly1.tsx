@@ -171,7 +171,7 @@ export default function HIGHly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>i HIGHly recomMEND this BOOK.</li>
+          <li>i HIGHly recomMEND <strong>this</strong> BOOK.</li>
           <li className="list-none">Tôi rất khuyến khích bạn đọc cuốn sách này.</li>
 
         </ul>

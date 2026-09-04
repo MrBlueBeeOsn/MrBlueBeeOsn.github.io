@@ -83,7 +83,7 @@ export default function toDAY2(): React.JSX.Element {
         <li value="9">up to toDAY, we have comPLEted FIFty perCENT of the PROJect.</li>
         <li className="list-none margin-bottom-20">Cho đến hôm nay, chúng tôi đã hoàn thành 50% dự án.</li>
 
-        <li value="10">on this DAY, many YEARS aGO, a GREAT WAR beGAN.</li>
+        <li value="10">on <strong>this</strong> DAY, many YEARS aGO, a GREAT WAR beGAN.</li>
         <li className="list-none margin-bottom-20">Vào ngày này, nhiều năm trước, một cuộc chiến tranh lớn đã bắt đầu.</li>
 
       </ol>

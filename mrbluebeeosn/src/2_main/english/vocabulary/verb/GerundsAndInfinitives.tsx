@@ -80,7 +80,7 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 					<li className="list-none"><strong>Bơi lội</strong> ở làn nước biển xanh mát vào một buổi sáng mùa hè nóng nực làm tôi vô cùng hạnh phúc.</li>
 					<li className="margin-bottom-20 list-none">Cụm SWIMming (việc bơi lội) đóng vai trò là chủ thể của câu, kết hợp với hành động MAKES và từ "me" làm danh nhận (đối tượng nhận tác động trở nên hạnh phúc).</li>
 			
-					<li>i <strong>WANT to SWIM</strong> in the NEWly Open inFINity POOL at the ROOFtop hoTEL this WEEKEND.</li>
+					<li>i <strong>WANT to SWIM</strong> in the NEWly Open inFINity POOL at the ROOFtop hoTEL <strong>this</strong> WEEKEND.</li>
 					<li className="list-none">Tôi <strong>muốn bơi</strong> ở bể bơi vô cực mới mở trên tầng thượng của khách sạn vào cuối tuần này.</li>
 					<li className="list-none">i là chủ thể, kết hợp với cấu trúc WANT to + hành động nguyên mẫu và cụm từ chỉ địa điểm đóng vai trò là danh nhận nơi chốn phía sau.</li>
 			
@@ -237,7 +237,7 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 					<li className="list-none">Anh ấy <strong>thích làm việc</strong> với dữ liệu thô hơn là tóm tắt văn bản.</li>
 					<li className="margin-bottom-20 list-none">he là chủ thể. Cấu trúc preFER + V-ing thường dùng để diễn tả một sở thích chung mang tính lâu dài hoặc thói quen.</li>
 			
-					<li>RIGHT NOW, she <strong>preFERS to STAY</strong> HOME and READ a BOOK inSTEAD of GOing OUT.</li>
+					<li>RIGHT NOW, she <strong>preFERS to STAY</strong> HOME and READ a BOOK in<strong>stead</strong> of GOing OUT.</li>
 					<li className="list-none">Ngay lúc này, cô ấy <strong>thích ở nhà</strong> đọc sách hơn là đi chơi bên ngoài.</li>
 					<li className="list-none">she là chủ thể. Cấu trúc preFER + to V thường dùng khi nhấn mạnh vào một sở thích hoặc sự lựa chọn trong một tình huống cụ thể (thường đi kèm với từ would preFER hoặc các trạng từ chỉ thời điểm như now).</li>
 			
@@ -254,7 +254,7 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 			
 					<li>i <strong>HATE to interRUPT</strong> your WORK, but we NEED to CHECK the fiNANcial rePORTS RIGHT NOW.</li>
 					<li className="list-none">Tôi <strong>rất không muốn làm gián đoạn</strong> công việc của bạn, nhưng chúng ta cần kiểm tra các báo cáo tài chính ngay bây giờ.</li>
-					<li className="list-none">i là chủ thể. Cấu trúc HATE + to V thường dùng để nói về việc không muốn phải làm một hành động cụ thể nào đó (thường dùng trong các tình huống giao tiếp lịch sự, áy náy khi phải làm phiền ai đó, ví dụ như i HATE to SAY this, but ...).</li>
+					<li className="list-none">i là chủ thể. Cấu trúc HATE + to V thường dùng để nói về việc không muốn phải làm một hành động cụ thể nào đó (thường dùng trong các tình huống giao tiếp lịch sự, áy náy khi phải làm phiền ai đó, ví dụ như i HATE to SAY THIS, but ...).</li>
 			
 				</ul>
 
@@ -344,7 +344,7 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>do you <strong>FANcy GRABbing</strong> a CUP of traDITional vietnaMESE COFfee this AFternoon?</li>
+					<li>do you <strong>FANcy GRABbing</strong> a CUP of traDITional vietnaMESE COFfee <strong>this</strong> AFternoon?</li>
 					<li className="list-none">Bạn <strong>có hứng thú đi uống</strong> một ly cà phê truyền thống Việt Nam vào chiều nay không?</li>
 					<li className="list-none">you là chủ thể. Cấu trúc FANcy + V-ing (thường dùng nhiều trong tiếng Anh Anh) mang nghĩa muốn hoặc có hứng thú trải nghiệm một hành động nào đó, thường dùng trong câu hỏi mời mọc hoặc diễn tả sở thích bất chợt.</li>
 			
@@ -691,7 +691,7 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>the MANager <strong>TOLD her to subMIT</strong> the fiNANcial SPREADsheet by this AFternoon.</li>
+					<li>the MANager <strong>TOLD her to subMIT</strong> the fiNANcial SPREADsheet by <strong>this</strong> AFternoon.</li>
 					<li className="list-none">Người quản lý <strong>đã bảo cô ấy nộp</strong> bảng tính tài chính trước chiều nay.</li>
 					<li className="list-none">the MANager là chủ thể ra lệnh/nhắn nhủ, và her là chủ thể nhận yêu cầu. Sau TELL + sb, hành động tiếp theo bắt buộc phải ở dạng to V (to subMIT), dùng để ra lệnh, dặn dò hoặc hướng dẫn ai đó làm gì.</li>
 			

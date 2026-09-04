@@ -63,7 +63,7 @@ export default function EnglishGrammarQuestions2(): React.JSX.Element {
 				"who",
 				"which",
 				"where",
-				"what"
+				"WHAT"
 			],
 			correctAnswer: 2,
 			explanation: "\"Where\" is a relative adverb used to introduce a relative clause that modifies a noun referring to a place (the house). \"Which\" is a relative pronoun and would require a preposition (e.g., in which or where)."

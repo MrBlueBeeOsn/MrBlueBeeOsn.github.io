@@ -68,7 +68,7 @@ export default function CLEARly2(): React.JSX.Element {
 				<li value="4">i HOPE my POINT is CLEARly underSTOOD.</li>
 				<li className="list-none margin-bottom-20">Tôi hy vọng ý của tôi đã được hiểu rõ.</li>
 
-				<li value="5">can you PLEASE exPLAIN that MORE CLEARly?</li>
+				<li value="5">can you PLEASE exPLAIN THAT LESS CLEARly?</li>
 				<li className="list-none margin-bottom-20">Bạn có thể giải thích rõ ràng hơn được không?</li>
 
 				<li value="6">the conNECtion between the TWO eVENTS was LESS CLEARly esTABlished.</li>

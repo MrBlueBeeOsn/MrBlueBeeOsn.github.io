@@ -62,7 +62,7 @@ export default function FREquently2(): React.JSX.Element {
         <li value="2">THIS is a FREquently USED PHRASE in everyday converSAtion.</li>
         <li className="list-none margin-bottom-20">Đây là một cụm từ được sử dụng thường xuyên trong cuộc trò chuyện hàng ngày.</li>
 
-        <li value="3">TRAFfic ACcidents are a FREquently ocCURring PROBlem in this CITy.</li>
+        <li value="3">TRAFfic ACcidents are a FREquently ocCURring PROBlem in <strong>this</strong> CITy.</li>
         <li className="list-none margin-bottom-20">Tai nạn giao thông là một vấn đề thường xảy ra ở thành phố này.</li>
 
         <li value="4">THIS is ONE of the MOST FREquently VISited WEBsites in the WORLD.</li>
@@ -77,13 +77,13 @@ export default function FREquently2(): React.JSX.Element {
         <li value="7">his QUESTion is FREquently ASKED by our CUStomers.</li>
         <li className="list-none margin-bottom-20">Câu hỏi này được khách hàng của chúng tôi hỏi thường xuyên.</li>
 
-        <li value="8">this TYPE of ERror is FREquently enCOUNTered in this SOFTware.</li>
+        <li value="8"><strong>this</strong> TYPE of ERror is FREquently enCOUNTered in <strong>this</strong> SOFTware.</li>
         <li className="list-none margin-bottom-20">Loại lỗi này thường gặp phải trong phần mềm này.</li>
 
-        <li value="9">this imPORTant DEtail is FREquently overLOOKED by PEOple.</li>
+        <li value="9"><strong>this</strong> imPORTant DEtail is FREquently overLOOKED by PEOple.</li>
         <li className="list-none margin-bottom-20">Chi tiết quan trọng này thường bị mọi người bỏ qua.</li>
 
-        <li value="10">this BOOK is FREquently recomMENDed by TEACHers.</li>
+        <li value="10"><strong>this</strong> BOOK is FREquently recomMENDed by TEACHers.</li>
         <li className="list-none margin-bottom-20">Cuốn sách này thường được giáo viên khuyến nghị.</li>
 
       </ol>

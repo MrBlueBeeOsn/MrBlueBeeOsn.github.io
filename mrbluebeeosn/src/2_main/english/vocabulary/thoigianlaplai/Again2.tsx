@@ -59,7 +59,7 @@ export default function aGAIN2(): React.JSX.Element {
         <li value="1">he MADE the SAME misTAKE aGAIN and aGAIN.</li>
         <li className="list-none margin-bottom-20">Anh ấy lặp lại cùng một sai lầm nhiều lần.</li>
 
-        <li value="2">let's TRY that ONCE aGAIN.</li>
+        <li value="2">let's TRY THAT ONCE aGAIN.</li>
         <li className="list-none margin-bottom-20">Hãy thử lại một lần nữa.</li>
 
         <li value="3">i've TOLD you TIME and aGAIN NOT to DO that.</li>
@@ -74,13 +74,13 @@ export default function aGAIN2(): React.JSX.Element {
         <li value="6">i HOPE to SEE you aGAIN SOON.</li>
         <li className="list-none margin-bottom-20">Tôi hy vọng sẽ gặp lại bạn sớm.</li>
 
-        <li value="7">could you SAY that aGAIN, PLEASE?</li>
+        <li value="7">could you SAY THAT aGAIN, PLEASE?</li>
         <li className="list-none margin-bottom-20">Bạn có thể nói lại được không?</li>
 
         <li value="8">NOT aGAIN! i've LOST my KEYS.</li>
         <li className="list-none margin-bottom-20">Không phải lần nữa! Tôi lại làm mất chìa khóa rồi.</li>
 
-        <li value="9">could you READ that ONCE MORE?</li>
+        <li value="9">could you READ THAT ONCE MORE?</li>
         <li className="list-none margin-bottom-20">Bạn có thể đọc lại một lần nữa được không?</li>
 
         <li value="10">PLEASE DO it as beFORE.</li>

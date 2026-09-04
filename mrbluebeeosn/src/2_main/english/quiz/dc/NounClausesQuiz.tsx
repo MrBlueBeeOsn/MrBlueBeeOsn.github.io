@@ -36,7 +36,7 @@ export default function NounClausesQuiz(): React.JSX.Element {
 			id: 2,
 			question: "The HR manager announced ________ the company would be transitioning to a hybrid work model next month.",
 			options: [
-				"what",
+				"WHAT",
 				"that",
 				"which",
 				"if"
@@ -62,7 +62,7 @@ export default function NounClausesQuiz(): React.JSX.Element {
 			options: [
 				"why",
 				"that",
-				"what",
+				"WHAT",
 				"which"
 			],
 			correctAnswer: 0,
@@ -84,7 +84,7 @@ export default function NounClausesQuiz(): React.JSX.Element {
 			id: 6,
 			question: "The main challenge with the new software is ________ it requires extensive training for the staff.",
 			options: [
-				"what",
+				"WHAT",
 				"because",
 				"that",
 				"how"
@@ -99,7 +99,7 @@ export default function NounClausesQuiz(): React.JSX.Element {
 				"whomever",
 				"whoever",
 				"anyone",
-				"what"
+				"WHAT"
 			],
 			correctAnswer: 1,
 			explanation: "This is a tricky structure. The parenthetically inserted phrase \"you think\" can cloud the grammar. If you temporarily remove \"you think\", you can see that the pronoun functions as the subject of the verb phrase \"will benefit\". Therefore, the subjective form \"whoever\" is required."
@@ -110,7 +110,7 @@ export default function NounClausesQuiz(): React.JSX.Element {
 			options: [
 				"whatever",
 				"whichever",
-				"what",
+				"WHAT",
 				"that"
 			],
 			correctAnswer: 0,
@@ -122,7 +122,7 @@ export default function NounClausesQuiz(): React.JSX.Element {
 			options: [
 				"when",
 				"that",
-				"what",
+				"WHAT",
 				"which"
 			],
 			correctAnswer: 0,
@@ -135,7 +135,7 @@ export default function NounClausesQuiz(): React.JSX.Element {
 				"if",
 				"whether",
 				"that",
-				"what"
+				"WHAT"
 			],
 			correctAnswer: 1,
 			explanation: "The noun clause follows the preposition \"on\". While both \"if\" and \"whether\" can introduce noun clauses that express alternatives, only \"whether\" can be used immediately following a preposition."

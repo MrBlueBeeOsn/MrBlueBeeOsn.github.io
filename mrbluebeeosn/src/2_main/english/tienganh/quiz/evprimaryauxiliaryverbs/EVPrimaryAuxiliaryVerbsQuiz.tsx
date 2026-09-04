@@ -58,7 +58,7 @@ export default function EVPrimaryAuxiliaryVerbsQuiz(): React.JSX.Element {
 		},
 		{
 			id: 4,
-			question: "WHY ________ he ALways inSIST on Using MANual SPREADsheets inSTEAD of SOFTware?",
+			question: "WHY ________ he ALways inSIST on Using MANual SPREADsheets instead of SOFTware?",
 			options: [
 				"is",
 				"has",

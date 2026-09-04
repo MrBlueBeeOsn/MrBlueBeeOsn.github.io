@@ -390,20 +390,20 @@ export default function LegoAssembly1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>they coORdinate [preDICTing {'{how the CLImate will SHIFT}'}].</li>
+					<li>they coORdinate [preDICTing {'{HOW the CLImate will SHIFT}'}].</li>
 					<li className="margin-bottom-20 list-none">Họ phối hợp [việc dự báo {'{cách khí hậu sẽ dịch chuyển}'}].</li>
 
 					<li className="list-none">Hình thái:</li>
 
-					<li className="list-none">Khối tổng thể [preDICTing {'{how the CLImate will SHIFT}'}] là một [Tầng Tiếp Động Cụm][Tiered Progressive Verb Phrase] bắt đầu bằng [Tiếp Động Cơ][Progressive Verb Base] preDICTing kéo theo cấu trúc phụ thuộc nhiều tầng.</li>
+					<li className="list-none">Khối tổng thể [preDICTing {'{HOW the CLImate will SHIFT}'}] là một [Tầng Tiếp Động Cụm][Tiered Progressive Verb Phrase] bắt đầu bằng [Tiếp Động Cơ][Progressive Verb Base] preDICTing kéo theo cấu trúc phụ thuộc nhiều tầng.</li>
 
-					<li className="margin-bottom-20 list-none">Khối nhỏ bên trong {'{how the CLImate will SHIFT}'} là một [Liên Câu][Conjunctional Clause] bắt đầu bằng [Liên Cơ][Conjunctional Base] how kết hợp với một cấu trúc [S]-[Head] nội bộ chứa [Áp-Thái Động Cơ][Assertive-Modal Verb Base] will biểu thị thái độ áp đặt đối với tình huống xảy ra ở tương lai.</li>
+					<li className="margin-bottom-20 list-none">Khối nhỏ bên trong {'{HOW the CLImate will SHIFT}'} là một [Liên Câu][Conjunctional Clause] bắt đầu bằng [Liên Cơ][Conjunctional Base] HOW kết hợp với một cấu trúc [S]-[Head] nội bộ chứa [Áp-Thái Động Cơ][Assertive-Modal Verb Base] will biểu thị thái độ áp đặt đối với tình huống xảy ra ở tương lai.</li>
 
 					<li className="list-none">Chức năng:</li>
 
-					<li className="list-none">Khối tổng thể [preDICTing {'{how the CLImate will SHIFT}'}] đóng vai trò là [<strong>Danh Cụm</strong>][<strong>Noun Phrase</strong>] làm [Danh Nhận][Noun Object] cho hành động chính coORdinate.</li>
+					<li className="list-none">Khối tổng thể [preDICTing {'{HOW the CLImate will SHIFT}'}] đóng vai trò là [<strong>Danh Cụm</strong>][<strong>Noun Phrase</strong>] làm [Danh Nhận][Noun Object] cho hành động chính coORdinate.</li>
 
-					<li className="list-none">Khối nhỏ bên trong {'{how the CLImate will SHIFT}'} đóng vai trò là [Danh Câu][Noun Clause] làm phần tiếp nhận tác động trực tiếp cho hành động preDICTing.</li>
+					<li className="list-none">Khối nhỏ bên trong {'{HOW the CLImate will SHIFT}'} đóng vai trò là [Danh Câu][Noun Clause] làm phần tiếp nhận tác động trực tiếp cho hành động preDICTing.</li>
 			
 				</ul>
 
@@ -412,12 +412,12 @@ export default function LegoAssembly1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>[how the SYStem OPerates] deTERmines Overall perFORmance.</li>
+					<li>[HOW the SYStem OPerates] deTERmines Overall perFORmance.</li>
 					<li className="margin-bottom-20 list-none">[Cách hệ thống vận hành] quyết định hiệu năng tổng thể.</li>
 
-					<li className="list-none">Hình thái: [how the SYStem OPerates] - [Liên Câu][Conjunctional Clause] chứa [Liên Cơ][Conjunctional Base] how ở vị trí đầu khối để dẫn dắt, liên kết một cấu trúc hoàn chỉnh có [Danh Chủ][Noun Subject] nội bộ the SYStem và hành động OPerates ở phía sau.</li>
+					<li className="list-none">Hình thái: [HOW the SYStem OPerates] - [Liên Câu][Conjunctional Clause] chứa [Liên Cơ][Conjunctional Base] HOW ở vị trí đầu khối để dẫn dắt, liên kết một cấu trúc hoàn chỉnh có [Danh Chủ][Noun Subject] nội bộ the SYStem và hành động OPerates ở phía sau.</li>
 
-					<li className="list-none">Chức năng: [how the SYStem OPerates] - [Danh Câu][Noun Clause] đóng vai trò làm [Danh Chủ][Noun Subject] đứng đầu câu kích hoạt và cung cấp năng lượng cho bộ nguồn [Thời-Thuần Động Cơ][Tense-Bare Verb Base] deTERmines.</li>
+					<li className="list-none">Chức năng: [HOW the SYStem OPerates] - [Danh Câu][Noun Clause] đóng vai trò làm [Danh Chủ][Noun Subject] đứng đầu câu kích hoạt và cung cấp năng lượng cho bộ nguồn [Thời-Thuần Động Cơ][Tense-Bare Verb Base] deTERmines.</li>
 			
 				</ul>
 
@@ -426,12 +426,12 @@ export default function LegoAssembly1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>AUditors CHECK [how TECHnicians seCURE DAta].</li>
+					<li>AUditors CHECK [HOW TECHnicians seCURE DAta].</li>
 					<li className="margin-bottom-20 list-none">Kiểm toán viên kiểm tra [cách các kỹ thuật viên bảo mật dữ liệu].</li>
 
-					<li className="list-none">Hình thái: [how TECHnicians seCURE DAta] - [Liên Câu][Conjunctional Clause] chứa [Liên Cơ][Conjunctional Base] how ở vị trí đầu khối để dẫn dắt, liên kết một cấu trúc hoàn chỉnh có [Danh Chủ][Noun Subject] nội bộ TECHnicians và hành động seCURE ở phía sau.</li>
+					<li className="list-none">Hình thái: [HOW TECHnicians seCURE DAta] - [Liên Câu][Conjunctional Clause] chứa [Liên Cơ][Conjunctional Base] HOW ở vị trí đầu khối để dẫn dắt, liên kết một cấu trúc hoàn chỉnh có [Danh Chủ][Noun Subject] nội bộ TECHnicians và hành động seCURE ở phía sau.</li>
 
-					<li className="list-none">Chức năng: [how TECHnicians seCURE DAta] - [Danh Câu][Noun Clause] đóng vai trò làm [Danh Nhận][Noun Object] tiếp nhận nội dung thông tin trực tiếp, đứng sau [Thời-Thuần Động Cơ][Tense-Bare Verb Base] CHECK.</li>
+					<li className="list-none">Chức năng: [HOW TECHnicians seCURE DAta] - [Danh Câu][Noun Clause] đóng vai trò làm [Danh Nhận][Noun Object] tiếp nhận nội dung thông tin trực tiếp, đứng sau [Thời-Thuần Động Cơ][Tense-Bare Verb Base] CHECK.</li>
 			
 				</ul>
 

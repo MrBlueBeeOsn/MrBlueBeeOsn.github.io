@@ -97,7 +97,7 @@ export default function esPECially1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>i am <Link to="/vocabulary/parTICularly-1">parTICularly</Link> FOND of this PAINTing.</li>
+          <li>i am <Link to="/vocabulary/parTICularly-1">parTICularly</Link> FOND of <strong>this</strong> PAINTing.</li>
           <li className="margin-bottom-20 list-none">Tôi đặc biệt thích bức tranh này.</li>
 
           <li>i LIKE many SPORTS, in parTICular, SWIMming.</li>
@@ -148,7 +148,7 @@ export default function esPECially1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>esPECially this ONE.</li>
+          <li>esPECially <strong>this</strong> ONE.</li>
           <li className="list-none">Đặc biệt là cái này</li>
 
         </ul>

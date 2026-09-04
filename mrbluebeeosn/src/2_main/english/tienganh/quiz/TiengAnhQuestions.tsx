@@ -60,7 +60,7 @@ export default function TiengAnhQuestions(): React.JSX.Element {
 			id: 4,
 			question: "i STILL don't underSTAND _______ you deCIded to QUIT your JOB.",
 			options: [
-				"what",
+				"WHAT",
 				"why",
 				"when",
 				"which"
@@ -130,7 +130,7 @@ export default function TiengAnhQuestions(): React.JSX.Element {
 		},
 		{
 			id: 10,
-			question: "Only after the PLANE had TAken OFF _______ REalize how NERvous he was.",
+			question: "Only after the PLANE had TAken OFF _______ REalize HOW NERvous he was.",
 			options: [
 				"did he",
 				"he did",

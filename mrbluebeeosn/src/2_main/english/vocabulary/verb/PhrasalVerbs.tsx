@@ -64,7 +64,7 @@ export default function PhrasalVerbs(): React.JSX.Element {
 					<li value="3">can you <strong>turn the LIGHTS ON</strong>? it’s TOO DARK.</li>
 					<li className="margin-bottom-20 list-none">Bạn có thể <strong>bật đèn lên</strong> được không? Trối tối quá.</li>
 			
-					<li value="4">i’m <strong>looking AFter</strong> my NIECE this WEEKend.</li>
+					<li value="4">i’m <strong>looking AFter</strong> my NIECE <strong>this</strong> WEEKend.</li>
 					<li className="margin-bottom-20 list-none">Cuối tuần này tôi sẽ <strong>trông nom</strong> cháu gái của mình.</li>
 
 					<li value="5">i’ll <strong>pick you UP</strong> at EIGHT.</li>
@@ -136,7 +136,7 @@ export default function PhrasalVerbs(): React.JSX.Element {
 					<li value="26"><strong>hold ON</strong> a SECond, i’m COMing!</li>
 					<li className="margin-bottom-20 list-none"><strong>Đợi</strong> một giây nhé, tôi đang ra đây!</li>
 
-					<li value="27">DON’T <strong>let me DOWN</strong> this TIME.</li>
+					<li value="27">DON’T <strong>let me DOWN</strong> <strong>this</strong> TIME.</li>
 					<li className="margin-bottom-20 list-none">Đừng <strong>làm tôi thất vọng</strong> lần này nhé.</li>
 			
 					<li value="28">we <strong>set UP</strong> a NEW GROUP CHAT for the CLASS.</li>
@@ -167,10 +167,10 @@ export default function PhrasalVerbs(): React.JSX.Element {
 					<li>after the aLARM CLOCK RANG, it TOOK her TEN MINutes to FINally <strong>get UP</strong>.</li>
 					<li className="margin-bottom-20 list-none">Sau khi chuông đồng hồ báo thức reo, cô ấy mất mười phút để thực sự <strong>rời khỏi</strong> giường.</li>
 
-					<li>Please turn on the air conditioner because it is getting very hot in this room.</li>
+					<li>PLEASE <strong>turn</strong> ON the AIR conDITioner be<strong>cause</strong> it is GETting VERy HOT in <strong>this</strong> ROOM.</li>
 					<li className="margin-bottom-20 list-none">Làm ơn <strong>bật</strong> máy điều hòa lên vì trong phòng này đang rất nóng.</li>
 			
-					<li>we are TOO TIred to COOK toNIGHT, so let's <strong>eat OUT</strong> at that iTALian REStaurant.</li>
+					<li>we are TOO TIred to COOK toNIGHT, so let's <strong>eat OUT</strong> at <strong>that</strong> iTALian REStaurant.</li>
 					<li className="list-none">Chúng ta quá mệt để nấu ăn tối nay, vì vậy hãy <strong>ra ngoài ăn</strong> ở nhà hàng Ý đó nhé.</li>
 			
 				</ul>

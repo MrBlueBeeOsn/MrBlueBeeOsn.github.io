@@ -65,7 +65,7 @@ export default function NO2(): React.JSX.Element {
         <li value="3">the TASK is NO LESS DIFficult than the LAST one.</li>
         <li className="list-none margin-bottom-20">Nhiệm vụ này không kém phần khó so với nhiệm vụ trước.</li>
 
-        <li value="4">NO MATter what you SAY, i WON'T beLIEVE you.</li>
+        <li value="4">NO MATter WHAT you SAY, i WON'T beLIEVE you.</li>
         <li className="list-none margin-bottom-20">Dù bạn nói gì đi nữa, tôi cũng sẽ không tin bạn.</li>
 
         <li value="5">NO WAY! i'm NOT GOing to do THAT.</li>

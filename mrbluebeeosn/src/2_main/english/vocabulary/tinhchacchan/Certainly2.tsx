@@ -71,7 +71,7 @@ export default function CERtainly2(): React.JSX.Element {
         <li value="5">MORE than CERtainly, she will WIN the PRIZE.</li>
         <li className="list-none margin-bottom-20">Hơn cả chắc chắn, cô ấy sẽ giành được giải thưởng.</li>
 
-        <li value="6">i CERtainly KNOW how you FEEL.</li>
+        <li value="6">i CERtainly KNOW HOW you FEEL.</li>
         <li className="list-none margin-bottom-20">Tôi chắc chắn hiểu cảm giác của bạn.</li>
 
         <li value="7">i CERtainly beLIEVE in the POWer of LOVE.</li>

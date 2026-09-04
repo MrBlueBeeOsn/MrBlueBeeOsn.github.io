@@ -83,7 +83,7 @@ export default function HIGHly2(): React.JSX.Element {
         <li value="9">the SIGN is HIGHly VISible from the HIGHway.</li>
         <li className="list-none margin-bottom-20">Biển báo rất dễ thấy từ xa lộ.</li>
 
-        <li value="10">the techNOLogy USED in this PRODuct is HIGHly soPHISticated.</li>
+        <li value="10">the techNOLogy USED in <strong>this</strong> PRODuct is HIGHly soPHISticated.</li>
         <li className="list-none margin-bottom-20">Công nghệ được sử dụng trong sản phẩm này rất tinh vi.</li>
 
       </ol>

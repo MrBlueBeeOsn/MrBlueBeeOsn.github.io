@@ -308,12 +308,12 @@ export default function SuperWords1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>[ANalyzing this DAta] is VItal for the LAUNCH.</li>
+					<li>[ANalyzing <strong>this</strong> DAta] is VItal for the LAUNCH.</li>
 					<li className="margin-bottom-20 list-none">[Việc phân tích dữ liệu này] là tối quan trọng cho việc ra mắt.</li>
 			
-					<li className="list-none">Hình thái: [Nalyzing this DAta] – [Tiếp Động Cụm][Progressive Verb Phrase] biểu thị khối hành động mở rộng bắt đầu bằng một dạng động cơ thêm đuôi -ing kết hợp cùng đối tượng tác động phía sau để mô tả trọn vẹn một sự việc.</li>
+					<li className="list-none">Hình thái: [Nalyzing <strong>this</strong> DAta] – [Tiếp Động Cụm][Progressive Verb Phrase] biểu thị khối hành động mở rộng bắt đầu bằng một dạng động cơ thêm đuôi -ing kết hợp cùng đối tượng tác động phía sau để mô tả trọn vẹn một sự việc.</li>
 			
-					<li className="list-none">Chức năng: [Nalyzing this DAta] – [Danh Cụm][Noun Phrase] đang đứng vị trí đầu câu để đóng vai trò làm [Danh Chủ][Noun Subject] cho toàn câu lớn.</li>
+					<li className="list-none">Chức năng: [Nalyzing <strong>this</strong> DAta] – [Danh Cụm][Noun Phrase] đang đứng vị trí đầu câu để đóng vai trò làm [Danh Chủ][Noun Subject] cho toàn câu lớn.</li>
 			
 				</ul>
 			
@@ -441,12 +441,12 @@ export default function SuperWords1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>the AUthor [who WROTE this ARticle] is an EXpert.</li>
+					<li>the AUthor [who WROTE <strong>this</strong> ARticle] is an EXpert.</li>
 					<li className="margin-bottom-20 list-none">Tác giả [người mà đã viết bài báo này] là một chuyên gia.</li>
 			
-					<li className="list-none">Hình thái: [who WROTE this ARticle] – [Liên Câu][Conjunctional Clause] biểu thị một cấu trúc câu con phụ thuộc bắt đầu bằng khối liên kết chỉ người "who" làm nhiệm vụ thế mạng và thực hiện trực tiếp hành động phía sau.</li>
+					<li className="list-none">Hình thái: [who WROTE <strong>this</strong> ARticle] – [Liên Câu][Conjunctional Clause] biểu thị một cấu trúc câu con phụ thuộc bắt đầu bằng khối liên kết chỉ người "who" làm nhiệm vụ thế mạng và thực hiện trực tiếp hành động phía sau.</li>
 			
-					<li className="list-none">Chức năng: [who WROTE this ARticle] – [Tính Câu][Adjective Clause] đang đứng vị trí ngay sau một đối tượng để định danh và làm rõ nghĩa cho tác giả đó.</li>
+					<li className="list-none">Chức năng: [who WROTE <strong>this</strong> ARticle] – [Tính Câu][Adjective Clause] đang đứng vị trí ngay sau một đối tượng để định danh và làm rõ nghĩa cho tác giả đó.</li>
 			
 				</ul>
 			
@@ -550,20 +550,20 @@ export default function SuperWords1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>the MANager sugGESted [reVIEWing {'{what the TEAM acCOMplished this QUARter}'}].</li>
+					<li>the MANager sugGESted [reVIEWing {'{WHAT the TEAM acCOMplished this QUARter}'}].</li>
 					<li className="margin-bottom-20 list-none">Người quản lý đã đề xuất [việc xem xét lại {'{những gì đội ngũ đã hoàn thành trong quý này}'}].</li>
 
 					<li className="list-none">Hình thái:</li>
 
-					<li className="list-none">[reVIEWing {'{what the TEAM acCOMplished this QUARter}'}] – [Tầng Tiếp Động Cụm][Tiered Progressive Verb Phrase] ở tầng ngoài bắt đầu bằng dạng -ing.</li>
+					<li className="list-none">[reVIEWing {'{WHAT the TEAM acCOMplished this QUARter}'}] – [Tầng Tiếp Động Cụm][Tiered Progressive Verb Phrase] ở tầng ngoài bắt đầu bằng dạng -ing.</li>
 
-					<li className="margin-bottom-20 list-none">Bên trong lồng ghép một khối phụ {'{what the TEAM acCOMplished this QUARter}'} là [Liên Câu][Conjunctional Clause] giữ vai trò làm bổ ngữ làm rõ sự việc.</li>
+					<li className="margin-bottom-20 list-none">Bên trong lồng ghép một khối phụ {'{WHAT the TEAM acCOMplished this QUARter}'} là [Liên Câu][Conjunctional Clause] giữ vai trò làm bổ ngữ làm rõ sự việc.</li>
 			
 					<li className="list-none">Chức năng:</li>
 
-					<li className="list-none">[reVIEWing {'{what the TEAM acCOMplished this QUARter}'}] – [<strong>Danh Cụm</strong>][<strong>Noun Phrase</strong>] tầng ngoài đóng vai trò làm [Danh Nhận][Noun Object] lớn đứng sau [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "sugGESted".</li>
+					<li className="list-none">[reVIEWing {'{WHAT the TEAM acCOMplished this QUARter}'}] – [<strong>Danh Cụm</strong>][<strong>Noun Phrase</strong>] tầng ngoài đóng vai trò làm [Danh Nhận][Noun Object] lớn đứng sau [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "sugGESted".</li>
 
-					<li className="list-none">Trong đó khối phụ {'{what the TEAM acCOMplished this QUARter}'} giữ chức năng làm [Danh Câu][Noun Clause] tầng trong đứng vị trí [Danh Nhận][Noun Object] nhỏ tiếp nhận tác động từ hành động xem xét.</li>
+					<li className="list-none">Trong đó khối phụ {'{WHAT the TEAM acCOMplished this QUARter}'} giữ chức năng làm [Danh Câu][Noun Clause] tầng trong đứng vị trí [Danh Nhận][Noun Object] nhỏ tiếp nhận tác động từ hành động xem xét.</li>
 			
 				</ul>
 
@@ -595,20 +595,20 @@ export default function SuperWords1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>she aDAPted [through {'{what she disCOVered during REsearch}'}].</li>
+					<li>she aDAPted [through {'{WHAT she disCOVered during REsearch}'}].</li>
 					<li className="margin-bottom-20 list-none">Cô ấy đã thích nghi [thông qua {'{những gì cô ấy khám phá ra trong lúc nghiên cứu}'}].</li>
 
 					<li className="list-none">Hình thái:</li>
 
-					<li className="list-none">[through {'{what she disCOVered during REsearch}'}] – [Tầng Giới Cụm][Tiered Prepositional Phrase] mở đầu bằng [Giới Cơ][Prepositional Base] phương thức "through".</li>
+					<li className="list-none">[through {'{WHAT she disCOVered during REsearch}'}] – [Tầng Giới Cụm][Tiered Prepositional Phrase] mở đầu bằng [Giới Cơ][Prepositional Base] phương thức "through".</li>
 
-					<li className="margin-bottom-20 list-none">Bên trong chứa một khối phụ {'{what she disCOVered during REsearch}'} là [Liên Câu][Conjunctional Clause] biểu thị một sự việc có thực tế diễn ra.</li>
+					<li className="margin-bottom-20 list-none">Bên trong chứa một khối phụ {'{WHAT she disCOVered during REsearch}'} là [Liên Câu][Conjunctional Clause] biểu thị một sự việc có thực tế diễn ra.</li>
 			
 					<li className="list-none">Chức năng:</li>
 
-					<li className="list-none">[through {'{what she disCOVered during REsearch}'}] – [<strong>Trạng Cụm</strong>][<strong>Adverb Phrase</strong>] tầng ngoài đứng vị trí sau để làm rõ phương thức bổ nghĩa cho hành động thích nghi của câu lớn.</li>
+					<li className="list-none">[through {'{WHAT she disCOVered during REsearch}'}] – [<strong>Trạng Cụm</strong>][<strong>Adverb Phrase</strong>] tầng ngoài đứng vị trí sau để làm rõ phương thức bổ nghĩa cho hành động thích nghi của câu lớn.</li>
 
-					<li className="list-none">Trong đó khối phụ {'{what she disCOVered during REsearch}'} giữ chức năng làm [Danh Câu][Noun Clause] tầng trong đứng vị trí làm [Danh Nhận][Noun Object] tiếp nhận mối quan hệ phương tiện từ [Giới Cơ][Prepositional Base] "through".</li>
+					<li className="list-none">Trong đó khối phụ {'{WHAT she disCOVered during REsearch}'} giữ chức năng làm [Danh Câu][Noun Clause] tầng trong đứng vị trí làm [Danh Nhận][Noun Object] tiếp nhận mối quan hệ phương tiện từ [Giới Cơ][Prepositional Base] "through".</li>
 
 			
 				</ul>

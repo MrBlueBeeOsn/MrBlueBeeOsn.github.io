@@ -60,7 +60,7 @@ export default function NhanBietTinhTuTiengAnh(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>SWIMming in this DEEP RIVer DURing a HEAVy STORM is exTREMEly <strong>DANgerous</strong>.</li>
+					<li>SWIMming in <strong>this</strong> DEEP RIVer DURing a HEAVy STORM is exTREMEly <strong>DANgerous</strong>.</li>
 					<li className="margin-bottom-20 list-none">Bơi lội ở dòng sông sâu này trong một trận bão lớn là cực kỳ <strong>nguy hiểm</strong>.</li>
 			
 					<li>PARis is FAmous for its <strong>roMANtic</strong> ATmosphere and iCONic LANDmarks like the EIFFel TOWer.</li>
@@ -72,7 +72,7 @@ export default function NhanBietTinhTuTiengAnh(): React.JSX.Element {
 					<li>CHILDren are NATurally <strong>CURious</strong> about the WORLD around them and ALWAYS ASK many QUEStions.</li>
 					<li className="margin-bottom-20 list-none">Trẻ em vốn dĩ <strong>tò mò</strong> về thế giới xung quanh và luôn đặt ra rất nhiều câu hỏi.</li>
 			
-					<li>the COMpany MADE an <strong>eNORmous</strong> PROFit this YEAR after LAUNCHing their NEW PRODuct LINE.</li>
+					<li>the COMpany MADE an <strong>eNORmous</strong> PROFit <strong>this</strong> YEAR after LAUNCHing their NEW PRODuct LINE.</li>
 					<li className="list-none">Công ty đã thu về lợi nhuận <strong>khổng lồ</strong> trong năm nay sau khi ra mắt dòng sản phẩm mới của họ.</li>
 			
 				</ul>

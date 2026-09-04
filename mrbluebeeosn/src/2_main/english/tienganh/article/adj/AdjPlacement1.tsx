@@ -488,7 +488,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>reVIEWing the aNALysis [of {'{what they inVEStigated}'}] is imPORTant.</li>
+					<li>reVIEWing the aNALysis [of {'{WHAT they inVEStigated}'}] is imPORTant.</li>
 					<li className="margin-bottom-20 list-none">Việc xem xét bản phân tích [về {'{những gì họ đã điều tra}'}] là quan trọng.</li>
 			
 				</ul>
@@ -497,9 +497,9 @@ export default function AdjPlacement1(): React.JSX.Element {
 			
 					<ul className="list-square">
 				
-						<li className="list-none">Tầng 1: [of {'{what they inVEStigated}'}] - [Tầng Giới Cụm][Tiered Prepositional Phrase] vận hành như bộ quét nội dung tổng thể, bắt đầu bằng [Giới Cơ][Prepositional Base] "of".</li>
+						<li className="list-none">Tầng 1: [of {'{WHAT they inVEStigated}'}] - [Tầng Giới Cụm][Tiered Prepositional Phrase] vận hành như bộ quét nội dung tổng thể, bắt đầu bằng [Giới Cơ][Prepositional Base] "of".</li>
 
-						<li className="list-none">Tầng 2: {'{what they inVEStigated}'} - [Liên Câu][Conjunctional Clause] kết hợp [Liên Cơ][Conjunctional Base] "what" tạo nên lõi thông tin.</li>
+						<li className="list-none">Tầng 2: {'{WHAT they inVEStigated}'} - [Liên Câu][Conjunctional Clause] kết hợp [Liên Cơ][Conjunctional Base] "WHAT" tạo nên lõi thông tin.</li>
 				
 					</ul>
 
@@ -508,9 +508,9 @@ export default function AdjPlacement1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li className="list-none">Tầng 1: [of {'{what they inVEStigated}'}] - [Tính Cụm][Adjective Phrase] mở rộng thông tin bổ trợ cho [Danh Khối][Noun Block] "the aNALysis".</li>
+					<li className="list-none">Tầng 1: [of {'{WHAT they inVEStigated}'}] - [Tính Cụm][Adjective Phrase] mở rộng thông tin bổ trợ cho [Danh Khối][Noun Block] "the aNALysis".</li>
 
-					<li className="list-none">Tầng 2: {'{what they inVEStigated}'} - [Danh Câu][Noun Clause] chịu sự điều phối trực tiếp của [Giới Cơ][Prepositional Base] "of".</li>
+					<li className="list-none">Tầng 2: {'{WHAT they inVEStigated}'} - [Danh Câu][Noun Clause] chịu sự điều phối trực tiếp của [Giới Cơ][Prepositional Base] "of".</li>
 			
 				</ul>
 

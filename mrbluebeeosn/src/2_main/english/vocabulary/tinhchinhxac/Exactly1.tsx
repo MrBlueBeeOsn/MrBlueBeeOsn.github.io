@@ -60,7 +60,7 @@ export default function exACTly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>that's exACTly what i THINKing.</li>
+          <li>that's exACTly WHAT i THINKing.</li>
           <li className="margin-bottom-20 list-none">Đúng là điều tôi đang nghĩ.</li>
 
           <li>she arRIVED at exACTly THREE o'CLOCK.</li>
@@ -97,7 +97,7 @@ export default function exACTly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>that's <Link to="/vocabulary/preCISEly-1">preCISEly</Link> what i MEANT.</li>
+          <li>that's <Link to="/vocabulary/preCISEly-1">preCISEly</Link> WHAT i MEANT.</li>
           <li className="margin-bottom-20 list-none">Đó chính xác là điều tôi muốn nói.</li>
 
           <li>the MEASurement was <Link to="/vocabulary/ACcurately-1">ACcurately</Link> TAken.</li>
@@ -146,7 +146,7 @@ export default function exACTly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>this DIGital CALiper can MEASure the LENGTH of this comPOnent exACTly to the MILlimeter.</li>
+          <li>THIS DIGital CALiper can MEASure the LENGTH of <strong>this</strong> comPOnent exACTly to the MILlimeter.</li>
           <li className="list-none">Thước kẹp kỹ thuật số này có thể đo độ dài của thành phần này chính xác đến từng milimet.</li>
 
         </ul>

@@ -68,7 +68,7 @@ export default function MAYbe2(): React.JSX.Element {
         <li value="4">MAYbe if i STUDy HARder, i can PASS the eXAM.</li>
         <li className="list-none margin-bottom-20">Có lẽ nếu tôi học chăm chỉ hơn, tôi có thể vượt qua kỳ thi.</li>
 
-        <li value="5">i DON'T KNOW what to DO. should i STAY or MAYbe GO?</li>
+        <li value="5">i DON'T KNOW WHAT to DO. should i STAY or MAYbe GO?</li>
         <li className="list-none margin-bottom-20">Tôi không biết phải làm gì. Tôi nên ở lại hay có lẽ nên đi?</li>
 
         <li value="6">JUST MAYbe, he'll CHANGE his MIND.</li>

@@ -164,12 +164,12 @@ export default function DependentClause1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>i underSTAND [what you MEAN].</li>
+					<li>i underSTAND [WHAT you MEAN].</li>
 					<li className="list-none">Tôi hiểu [những gì bạn ngụ ý].</li>
 			
 				</ul>
 			
-			<p className="margin-top-20 text-indent-whole">→ Cụm [what you MEAN] đóng vai trò làm [Danh Nhận][Noun Object] đứng sau hành động "underSTAND"</p>
+			<p className="margin-top-20 text-indent-whole">→ Cụm [WHAT you MEAN] đóng vai trò làm [Danh Nhận][Noun Object] đứng sau hành động "underSTAND"</p>
 
 			{/* 4. Chiến Lược 3 Bước Để Tạo Câu Phức Mượt Mà */}
 
@@ -234,7 +234,7 @@ export default function DependentClause1(): React.JSX.Element {
 			
 				<ol>
 			
-					<li value="1"><strong>Quét nhanh</strong>: Tìm các từ dẫn dắt (that, as, which, beCAUSE...).</li>
+					<li value="1"><strong>Quét nhanh</strong>: Tìm các từ dẫn dắt (that, as, WHICH, beCAUSE...).</li>
 			
 					<li value="2"><strong>Đóng khung</strong>: Đặt toàn bộ vế câu bắt đầu từ từ dẫn dắt đó vào dấu ngoặc vuông <span className="pill p">[...]</span>.</li>
 			
@@ -248,7 +248,7 @@ export default function DependentClause1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>the COFfee <span className="pill p">[<strong>that i BOUGHT this MORNing</strong>]</span> is HOT.</li>
+					<li>the COFfee <span className="pill p">[<strong>that i BOUGHT <strong>this</strong> MORNing</strong>]</span> is HOT.</li>
 			
 				</ul>
 

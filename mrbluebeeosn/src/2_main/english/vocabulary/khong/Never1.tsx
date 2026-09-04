@@ -63,7 +63,7 @@ export default function NEVer1(): React.JSX.Element {
           <li>i have NEVer BEEN to PARis.</li>
           <li className="margin-bottom-20 list-none">Tôi chưa bao giờ đến Paris.</li>
 
-          <li>she will NEVer forGET that DAY.</li>
+          <li>she will NEVer forGET <strong>that</strong> DAY.</li>
           <li className="list-none">Cô ấy sẽ không bao giờ quên ngày hôm đó.</li>
 
         </ul>

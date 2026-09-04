@@ -62,10 +62,10 @@ export default function TRUly2(): React.JSX.Element {
 				<li value="2">i TRUly beLIEVE in the POWer of LOVE.</li>
 				<li className="list-none margin-bottom-20">Tôi thật sự tin vào sức mạnh của tình yêu.</li>
 
-				<li value="3">i TRUly underSTAND how you FEEL.</li>
+				<li value="3">i TRUly underSTAND HOW you FEEL.</li>
 				<li className="list-none margin-bottom-20">Tôi thật sự hiểu cảm giác của bạn.</li>
 
-				<li value="4">i am TRUly SORry for what i SAID.</li>
+				<li value="4">i am TRUly SORry for WHAT i SAID.</li>
 				<li className="list-none margin-bottom-20">Tôi thật sự xin lỗi về những gì tôi đã nói.</li>
 
 				<li value="5">her perFORmance was TRUly reMARKable.</li>

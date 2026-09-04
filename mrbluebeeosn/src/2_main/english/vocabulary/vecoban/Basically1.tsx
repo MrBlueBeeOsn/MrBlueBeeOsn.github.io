@@ -124,10 +124,10 @@ export default function BAsically1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>speCIFically, i NEED you to FInish this rePORT by FRIday.</li>
+          <li>speCIFically, i NEED you to FInish <strong>this</strong> rePORT by FRIday.</li>
           <li className="margin-bottom-20 list-none">Cụ thể, tôi cần bạn hoàn thành báo cáo này trước thứ Sáu.</li>
 
-          <li>[<Link to="/vocabulary/preCISEly-1">preCISEly</Link>], THAT'S what i MEAN.</li>
+          <li>[<Link to="/vocabulary/preCISEly-1">preCISEly</Link>], THAT'S WHAT i MEAN.</li>
           <li className="list-none">Chính xác, đó là điều tôi muốn nói.</li>
 
         </ul>

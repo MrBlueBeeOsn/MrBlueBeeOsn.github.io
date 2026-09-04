@@ -39,7 +39,7 @@ export default function EVDCQuiz(): React.JSX.Element {
 				"who",
 				"whom",
 				"that",
-				"what"
+				"WHAT"
 			],
 			correctAnswer: 2,
 			explanation: "Cụm \"that you LENT me YESterday\" là một Adjective Clause (Câu con tính ngữ/quan hệ) bổ nghĩa cho Danh Cơ chỉ vật \"the BOOK\". Ta dùng đại cơ quan hệ \"that\" (hoặc \"which\") làm danh nhận thay thế cho vật. \"what\" không đứng sau Danh Cơ để bổ nghĩa như vậy."

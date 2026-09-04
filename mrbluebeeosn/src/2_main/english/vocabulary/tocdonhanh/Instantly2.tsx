@@ -59,8 +59,8 @@ export default function INstantly2(): React.JSX.Element {
         <li value="1">the EIffel TOWer is INstantly RECognizable around the WORLD.</li>
         <li className="list-none margin-bottom-20">Tháp Eiffel dễ nhận biết ngay lập tức trên toàn thế giới.</li>
 
-        <li value="2">this GAME is so much FUN, it's INstantly adDICtive.</li>
-        <li className="list-none">this game is so much fun, it's instantly addictive.</li>
+        <li value="2">THIS GAME is so much FUN, it's INstantly adDICtive.</li>
+        <li className="list-none">THIS game is so much fun, it's instantly addictive.</li>
         <li className="list-none margin-bottom-20">Trò chơi này rất vui, nó gây nghiện ngay lập tức.</li>
 
         <li value="3">the NEW SONG beCAME an INstantly CLASsic HIT.</li>

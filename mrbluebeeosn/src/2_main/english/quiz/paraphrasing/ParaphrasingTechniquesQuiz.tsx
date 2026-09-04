@@ -22,7 +22,7 @@ export default function ParaphrasingTechniquesQuiz(): React.JSX.Element {
 	const questions: Question[] = [
 		{
 			id: 1,
-			question: "Which of the following is the most effective way to begin paraphrasing a sentence?",
+			question: "WHICH of the following is the most effective way to begin paraphrasing a sentence?",
 			options: [
 				"Changing only the adjectives and adverbs.",
 				"Using a thesaurus to replace every single word.",

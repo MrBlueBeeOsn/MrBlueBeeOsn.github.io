@@ -611,7 +611,7 @@ export default function Create(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>[CreAting soLUtions for {'{what CLIents STRUGgle with}'}] BUILDS MARket VAlue.</li>
+          <li>[CreAting soLUtions for {'{WHAT CLIents STRUGgle with}'}] BUILDS MARket VAlue.</li>
           <li className="margin-bottom-20 list-none">[Việc tạo ra các giải pháp cho {'{những gì khách hàng đang gặp khó khăn}'}] xây dựng giá trị thị trường.</li>
       
         </ul>
@@ -620,9 +620,9 @@ export default function Create(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li className="list-none">Hình thái: [CreAting soLUtions for {'{what CLIents STRUGgle with}'}] - [Tầng Tiếp Động Cụm][Tiered Progressive Verb Phrase] lớn phát triển từ [Tiếp Động Cơ][Progressive Verb Base] "CreAting" mở rộng kéo theo thành phần bổ trợ phía sau.</li>
+          <li className="list-none">Hình thái: [CreAting soLUtions for {'{WHAT CLIents STRUGgle with}'}] - [Tầng Tiếp Động Cụm][Tiered Progressive Verb Phrase] lớn phát triển từ [Tiếp Động Cơ][Progressive Verb Base] "CreAting" mở rộng kéo theo thành phần bổ trợ phía sau.</li>
       
-          <li className="list-none">Chức năng: [CreAting soLUtions for {'{what CLIents STRUGgle with}'}] - [<strong>Danh Cụm</strong>][<strong>Noun Phrase</strong>] chịu trách nhiệm làm một khối đầu việc lớn, đảm nhận vai trò làm [Danh Chủ][Noun Subject] đứng trước hành động [Thời-Thuần Động Cụm][Tense-Bare Verb Phrase] "BUILDS MARket VAlue".</li>
+          <li className="list-none">Chức năng: [CreAting soLUtions for {'{WHAT CLIents STRUGgle with}'}] - [<strong>Danh Cụm</strong>][<strong>Noun Phrase</strong>] chịu trách nhiệm làm một khối đầu việc lớn, đảm nhận vai trò làm [Danh Chủ][Noun Subject] đứng trước hành động [Thời-Thuần Động Cụm][Tense-Bare Verb Phrase] "BUILDS MARket VAlue".</li>
       
         </ul>
 
@@ -630,9 +630,9 @@ export default function Create(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li className="list-none">Hình thái: {'{what CLIents STRUGgle with}'} - [Liên Câu][Conjunctional Clause] định hình dưới dạng khối mã con nằm gọn bên trong, chứa [Danh Chủ][Noun Subject] riêng "CLIents" và cụm hành động riêng đi sau thành phần [Liên Cơ][Conjunctional Base] "what".</li>
+          <li className="list-none">Hình thái: {'{WHAT CLIents STRUGgle with}'} - [Liên Câu][Conjunctional Clause] định hình dưới dạng khối mã con nằm gọn bên trong, chứa [Danh Chủ][Noun Subject] riêng "CLIents" và cụm hành động riêng đi sau thành phần [Liên Cơ][Conjunctional Base] "WHAT".</li>
       
-          <li className="list-none">Chức năng: {'{what CLIents STRUGgle with}'} - [Danh Câu][Noun Clause] đóng vai trò làm [Danh Nhận][Noun Object] chịu sự điều phối trực tiếp của [Giới Cơ][Prepositional Base] "for" ở tầng ngoài.</li>
+          <li className="list-none">Chức năng: {'{WHAT CLIents STRUGgle with}'} - [Danh Câu][Noun Clause] đóng vai trò làm [Danh Nhận][Noun Object] chịu sự điều phối trực tiếp của [Giới Cơ][Prepositional Base] "for" ở tầng ngoài.</li>
       
         </ul>
 

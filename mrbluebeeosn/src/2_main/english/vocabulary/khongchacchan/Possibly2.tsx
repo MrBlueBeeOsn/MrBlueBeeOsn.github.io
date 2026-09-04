@@ -62,7 +62,7 @@ export default function POSsibly2(): React.JSX.Element {
         <li value="2">what he SAID is POSsibly TRUE, but i'm NOT SURE</li>
         <li className="list-none margin-bottom-20">Những gì anh ấy nói có thể là đúng, nhưng tôi không chắc chắn.</li>
 
-        <li value="3">SWIMming in this LAKE is POSsibly DANgerous due to the STRONG CURrents</li>
+        <li value="3">SWIMming in <strong>this</strong> LAKE is POSsibly DANgerous due to the STRONG CURrents</li>
         <li className="list-none margin-bottom-20">Bơi ở hồ này có thể nguy hiểm do dòng chảy mạnh.</li>
 
         <li value="4">THIS is POSsibly the WORST MOvie i've EVer SEEN</li>

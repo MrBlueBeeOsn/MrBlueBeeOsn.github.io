@@ -116,7 +116,7 @@ export default function POSitively1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>she CERtainly KNOWS what she's DOing.</li>
+          <li>she CERtainly KNOWS WHAT she's DOing.</li>
           <li className="margin-bottom-20 list-none">Anh ấy nhìn vào tương lai một cách lạc quan.</li>
 
           <li>he LOOKED at the FUture optiMIStically.</li>

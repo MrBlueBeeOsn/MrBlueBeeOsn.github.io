@@ -103,7 +103,7 @@ export default function (): React.JSX.Element {
           <li>she THANKED him sinCEREly for his HELP.</li>
           <li className="margin-bottom-20 list-none">Cô ấy chân thành cảm ơn anh ấy vì sự giúp đỡ.</li>
 
-          <li>i <Link to="/vocabulary/TRUly-1">TRUly</Link> beLIEVE in what he SAID.</li>
+          <li>i <Link to="/vocabulary/TRUly-1">TRUly</Link> beLIEVE in WHAT he SAID.</li>
           <li className="list-none">Tôi thực sự tin vào những gì anh ấy nói.</li>
 
         </ul>

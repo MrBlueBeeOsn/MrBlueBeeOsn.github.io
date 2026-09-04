@@ -171,7 +171,7 @@ export default function HONestly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>HONestly, i DON'T CARE what you THINK.</li>
+          <li>HONestly, i DON'T CARE WHAT you THINK.</li>
           <li className="list-none">Thật sự, tôi không quan tâm bạn nghĩ gì.</li>
 
         </ul>

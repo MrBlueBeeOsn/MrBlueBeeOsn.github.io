@@ -74,7 +74,7 @@ export default function EVer2(): React.JSX.Element {
         <li value="6">if EVer there was a TIME to be BRAVE, it is NOW.</li>
         <li className="list-none margin-bottom-20">Nếu có khi nào cần can đảm, thì đó là bây giờ.</li>
 
-        <li value="7">i will NEVer EVer forGET that DAY.</li>
+        <li value="7">i will NEVer EVer forGET <strong>that</strong> DAY.</li>
         <li className="list-none margin-bottom-20">Tôi sẽ không bao giờ quên ngày hôm đó.</li>
 
         <li value="8">i will LOVE you for EVer and EVer.</li>

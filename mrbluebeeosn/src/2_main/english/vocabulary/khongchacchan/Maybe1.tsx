@@ -189,7 +189,7 @@ export default function MAYbe1(): React.JSX.Element {
 
           <ol>
 
-            <li value="1"><Link to="/vocabulary/perHAPS-1">perHAPS</Link> you could HELP me with this PROJect.</li>
+            <li value="1"><Link to="/vocabulary/perHAPS-1">perHAPS</Link> you could HELP me with <strong>this</strong> PROJect.</li>
             <li className="list-none">Có lẽ anh/chị có thể giúp tôi giải quyết vấn đề này.</li>
             <li className="list-none margin-bottom-20">Cách nói lịch sự hơn, thường dùng trong văn viết hoặc các tình huống trang trọng.</li>
 

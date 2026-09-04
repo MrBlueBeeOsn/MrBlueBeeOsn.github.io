@@ -63,7 +63,7 @@ export default function SVOMPT8(): React.JSX.Element {
 				<ul className="list-square">
 
 					<li><strong>T</strong> – <strong>Time</strong></li>
-					<li className="margin-bottom-20 list-none">Tầng cao nhất, mờ nhất. Khi nào câu xảy ra. after work, this morning, every Sunday.</li>
+					<li className="margin-bottom-20 list-none">Tầng cao nhất, mờ nhất. Khi nào câu xảy ra. after work, <strong>this</strong> morning, every Sunday.</li>
 
 					<li><strong>P</strong> – <strong>Place</strong></li>
 					<li className="margin-bottom-20 list-none">Ngay dưới thời gian. Ở đâu. in my small kitchen, on the bus, in Da Nang.</li>

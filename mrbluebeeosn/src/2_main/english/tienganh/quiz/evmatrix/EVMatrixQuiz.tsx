@@ -62,13 +62,13 @@ export default function EVMatrixQuiz(): React.JSX.Element {
 		},
 		{
 			id: 5,
-			question: "i DON'T [KNOW {what we should DO NEXT}]. \n Tôi không [biết {điều chúng ta nên làm tiếp theo}].",
+			question: "i DON'T [KNOW {WHAT we should DO NEXT}]. \n Tôi không [biết {điều chúng ta nên làm tiếp theo}].",
 			options: [
 				"[Noun Phrase]",
 				"[Tiered Noun Phrase]"
 			],
 			correctAnswer: 1,
-			explanation: "Hình thái: [KNOW {what we should DO NEXT}] - [Tầng Thuần Động Cụm][Bare Tiered Verb Phrase] chứa hành vi hạt nhân \"KNOW\" đi kèm thành phần bổ khuyết là một [Liên Câu][Conjunctional Clause] có cấu trúc chủ-hành vi hoàn chỉnh ở tầng trong {}. \n\n Chức năng: [KNOW {what we should DO NEXT}] - [Danh Cụm] Phân Tầng [Tiered Noun Phrase] đóng vai trò cụm tiếp nhận lớn bên ngoài, chứa một danh câu làm thành phần tiếp nhận trực tiếp cho \"KNOW\" ở bên trong."
+			explanation: "Hình thái: [KNOW {WHAT we should DO NEXT}] - [Tầng Thuần Động Cụm][Bare Tiered Verb Phrase] chứa hành vi hạt nhân \"KNOW\" đi kèm thành phần bổ khuyết là một [Liên Câu][Conjunctional Clause] có cấu trúc chủ-hành vi hoàn chỉnh ở tầng trong {}. \n\n Chức năng: [KNOW {WHAT we should DO NEXT}] - [Danh Cụm] Phân Tầng [Tiered Noun Phrase] đóng vai trò cụm tiếp nhận lớn bên ngoài, chứa một danh câu làm thành phần tiếp nhận trực tiếp cho \"KNOW\" ở bên trong."
 		},
 		{
 			id: 6,

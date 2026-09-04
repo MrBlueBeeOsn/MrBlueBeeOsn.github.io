@@ -59,7 +59,7 @@ export default function exACTly2(): React.JSX.Element {
         <li value="1">THAT'S exACTly RIGHT! you've HIT the NAIL on the HEAD.</li>
         <li className="list-none margin-bottom-20">Đúng chính xác rồi! Bạn đã nói trúng phóc.</li>
 
-        <li value="2">YES, exACTly what i MEAN. it's unFAIR.</li>
+        <li value="2">YES, exACTly WHAT i MEAN. it's unFAIR.</li>
         <li className="list-none margin-bottom-20">Đúng vậy, đó chính là điều tôi muốn nói. Nó thật bất công.</li>
 
         <li value="3">my NEW PHONE is exACTly the SAME as my OLD ONE.</li>
@@ -68,7 +68,7 @@ export default function exACTly2(): React.JSX.Element {
         <li value="4">everything WENT exACTly as PLANNED for the PARTy.</li>
         <li className="list-none margin-bottom-20">Mọi thứ diễn ra đúng như kế hoạch cho bữa tiệc.</li>
 
-        <li value="5">i'm NOT exACTly SURE what he MEANT by THAT.</li>
+        <li value="5">i'm NOT exACTly SURE WHAT he MEANT by THAT.</li>
         <li className="list-none margin-bottom-20">Tôi không thực sự chắc chắn về ý của anh ấy.</li>
 
         <li value="6">exACTly HOW MANY PEOple atTENDed the CONFERence?</li>
@@ -83,7 +83,7 @@ export default function exACTly2(): React.JSX.Element {
         <li value="9">her DRESS is exACTly the SAME as MINE.</li>
         <li className="list-none margin-bottom-20">Váy của cô ấy hoàn toàn giống với váy của tôi.</li>
 
-        <li value="10">this BOOK is exACTly what I NEEDed for my REsearch.</li>
+        <li value="10">THIS BOOK is exACTly WHAT i NEEDed for my REsearch.</li>
         <li className="list-none margin-bottom-20">Cuốn sách này đúng là điều tôi cần cho bài nghiên cứu của mình.</li>
 
       </ol>

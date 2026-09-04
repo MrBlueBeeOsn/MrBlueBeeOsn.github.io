@@ -103,7 +103,7 @@ export default function ACtually1(): React.JSX.Element {
           <li>in FACT, i do NOT KNOW the ANswer.</li>
           <li className="margin-bottom-20 list-none">Thực tế, tôi không biết câu trả lời.</li>
 
-          <li>as a MATter of FACT, i've alREDy SEEN that MOVie.</li>
+          <li>as a MATter of FACT, i've alREDy SEEN <strong>that</strong> MOVie.</li>
           <li className="list-none">Thực tế, tôi đã xem bộ phim đó rồi.</li>
 
         </ul>

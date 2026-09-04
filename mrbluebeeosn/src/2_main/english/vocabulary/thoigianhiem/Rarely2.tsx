@@ -56,10 +56,10 @@ export default function RAREly2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1">it RAREly HAPpens that we GET SNOW in this PART of the COUNtry.</li>
+        <li value="1">it RAREly HAPpens that we GET SNOW in <strong>this</strong> PART of the COUNtry.</li>
         <li className="list-none margin-bottom-20">Hiếm khi có tuyết ở vùng này.</li>
 
-        <li value="2">that TYPE of BIRD is RAREly SEEN in this ARea.</li>
+        <li value="2">that TYPE of BIRD is RAREly SEEN in <strong>this</strong> ARea.</li>
         <li className="list-none margin-bottom-20">Loại chim đó hiếm khi được nhìn thấy ở khu vực này.</li>
 
         <li value="3">the TOPic is RAREly MENtioned in PUBlic.</li>
@@ -68,13 +68,13 @@ export default function RAREly2(): React.JSX.Element {
         <li value="4">that WORD is RAREly USED in everyday converSAtion.</li>
         <li className="list-none margin-bottom-20">Từ đó hiếm khi được sử dụng trong cuộc nói chuyện hàng ngày.</li>
 
-        <li value="5">ANcient ARtifacts are RAREly FOUND in this REgion.</li>
+        <li value="5">ANcient ARtifacts are RAREly FOUND in <strong>this</strong> REgion.</li>
         <li className="list-none margin-bottom-20">Các hiện vật cổ xưa hiếm khi được tìm thấy ở khu vực này.</li>
 
         <li value="6">my GRANDmother RAREly VISits us.</li>
         <li className="list-none margin-bottom-20">Bà tôi hiếm khi đến thăm chúng tôi.</li>
 
-        <li value="7">such a seVERE STORM RAREly ocCURS in this AREa.</li>
+        <li value="7">such a seVERE STORM RAREly ocCURS in <strong>this</strong> AREa.</li>
         <li className="list-none margin-bottom-20">Một cơn bão nghiêm trọng như vậy hiếm khi xảy ra ở khu vực này.</li>
 
         <li value="8">she RAREly EAT MEAT.</li>

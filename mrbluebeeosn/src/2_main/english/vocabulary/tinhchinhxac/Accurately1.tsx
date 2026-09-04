@@ -100,7 +100,7 @@ export default function ACcurately1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>i KNOW <Link to="/vocabulary/exACTly-1">exACTly</Link> what you MEAN.</li>
+          <li>i KNOW <Link to="/vocabulary/exACTly-1">exACTly</Link> WHAT you MEAN.</li>
           <li className="margin-bottom-20 list-none">Tôi hiểu chính xác ý của bạn.</li>
 
           <li>the TIME was <Link to="/vocabulary/preCISEly-1">preCISEly</Link> THREE P.M.</li>

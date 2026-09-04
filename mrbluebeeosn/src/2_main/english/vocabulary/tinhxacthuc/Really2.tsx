@@ -71,7 +71,7 @@ export default function REally2(): React.JSX.Element {
         <li value="5">the CAR can GO REally FAST.</li>
         <li className="list-none margin-bottom-20">Chiếc xe có thể chạy rất nhanh.</li>
 
-        <li value="6">this MATH PROBlem is REally HARD.</li>
+        <li value="6">THIS MATH PROBlem is REally HARD.</li>
         <li className="list-none margin-bottom-20">Bài toán này rất khó.</li>
 
         <li value="7">that JOKE was REally FUNny.</li>

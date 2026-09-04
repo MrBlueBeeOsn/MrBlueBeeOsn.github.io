@@ -103,7 +103,7 @@ export default function preCISEly1(): React.JSX.Element {
           <li>he rePORTed the FACTS <Link to="/vocabulary/ACcurately-1">ACcurately</Link>.</li>
           <li className="margin-bottom-20 list-none">Anh ấy báo cáo sự thật một cách chính xác.</li>
 
-          <li>that's <Link to="/vocabulary/exACTly-1">exACTly</Link> what I MEANT.</li>
+          <li>that's <Link to="/vocabulary/exACTly-1">exACTly</Link> WHAT I MEANT.</li>
           <li className="margin-bottom-20 list-none">Đó chính xác là ý tôi.</li>
 
           <li>he speCIFically LISTed the deTAILS.</li>

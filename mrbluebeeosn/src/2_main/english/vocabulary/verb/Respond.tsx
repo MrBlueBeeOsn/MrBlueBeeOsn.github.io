@@ -611,7 +611,7 @@ export default function Respond(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>[reSPONDing efFECtively to {'{what CUStomers comPLAIN about}'}] imPROVES BRAND LOYalty.</li>
+          <li>[reSPONDing efFECtively to {'{WHAT CUStomers comPLAIN about}'}] imPROVES BRAND LOYalty.</li>
           <li className="margin-bottom-20 list-none">[Việc phản hồi hiệu quả đối với {'{những gì khách hàng phàn nàn}'}] làm tăng độ trung thành thương hiệu.</li>
       
         </ul>
@@ -620,9 +620,9 @@ export default function Respond(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li className="list-none">Hình thái: [reSPONDing efFECtively to {'{what CUStomers comPLAIN about}'}] - [Tầng Tiếp Động Cụm][Tiered Progressive Verb Phrase] lớn phát triển từ [Tiếp Động Cơ][Progressive Verb Base] "reSPONDing" mở rộng kéo theo thành phần bổ trợ phía sau.</li>
+          <li className="list-none">Hình thái: [reSPONDing efFECtively to {'{WHAT CUStomers comPLAIN about}'}] - [Tầng Tiếp Động Cụm][Tiered Progressive Verb Phrase] lớn phát triển từ [Tiếp Động Cơ][Progressive Verb Base] "reSPONDing" mở rộng kéo theo thành phần bổ trợ phía sau.</li>
       
-          <li className="list-none">Chức năng: [reSPONDing efFECtively to {'{what CUStomers comPLAIN about}'}] - [<strong>Danh Cụm</strong>][<strong>Noun Phrase</strong>] chịu trách nhiệm làm một khối đầu việc lớn, đảm nhận vai trò làm [Danh Chủ][Noun Subject] đứng trước hành động [Thời-Thuần Động Cụm][Tense-Bare Verb Phrase] "imPROVES BRAND LOYalty".</li>
+          <li className="list-none">Chức năng: [reSPONDing efFECtively to {'{WHAT CUStomers comPLAIN about}'}] - [<strong>Danh Cụm</strong>][<strong>Noun Phrase</strong>] chịu trách nhiệm làm một khối đầu việc lớn, đảm nhận vai trò làm [Danh Chủ][Noun Subject] đứng trước hành động [Thời-Thuần Động Cụm][Tense-Bare Verb Phrase] "imPROVES BRAND LOYalty".</li>
       
         </ul>
 
@@ -630,9 +630,9 @@ export default function Respond(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li className="list-none">Hình thái: {'{what CUStomers comPLAIN about}'} - [Liên Câu][Conjunctional Clause] định hình dưới dạng khối mã con nằm gọn bên trong, chứa [Danh Chủ][Noun Subject] riêng "CUStomers" và cụm hành động riêng đi sau thành phần [Liên Cơ][Conjunctional Base] "what".</li>
+          <li className="list-none">Hình thái: {'{WHAT CUStomers comPLAIN about}'} - [Liên Câu][Conjunctional Clause] định hình dưới dạng khối mã con nằm gọn bên trong, chứa [Danh Chủ][Noun Subject] riêng "CUStomers" và cụm hành động riêng đi sau thành phần [Liên Cơ][Conjunctional Base] "WHAT".</li>
       
-          <li className="list-none">Chức năng: {'{what CUStomers comPLAIN about}'} - [Danh Câu][Noun Clause] đóng vai trò làm [Danh Nhận][Noun Object] chịu sự điều phối trực tiếp của [Giới Cơ][Prepositional Base] "to" ở tầng ngoài.</li>
+          <li className="list-none">Chức năng: {'{WHAT CUStomers comPLAIN about}'} - [Danh Câu][Noun Clause] đóng vai trò làm [Danh Nhận][Noun Object] chịu sự điều phối trực tiếp của [Giới Cơ][Prepositional Base] "to" ở tầng ngoài.</li>
       
         </ul>
 

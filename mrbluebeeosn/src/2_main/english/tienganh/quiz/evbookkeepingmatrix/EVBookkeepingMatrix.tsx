@@ -82,13 +82,13 @@ export default function (): React.JSX.Element {
 		},
 		{
 			id: 7,
-			question: "[FInalizing {what the AUditors reQUESTed} on TIME] PLEASED the MANager. \n [Hoàn tất {những gì các kiểm toán viên yêu cầu} đúng hạn] đã làm hài lòng người quản lý.",
+			question: "[FInalizing {WHAT the AUditors reQUESTed} on TIME] PLEASED the MANager. \n [Hoàn tất {những gì các kiểm toán viên yêu cầu} đúng hạn] đã làm hài lòng người quản lý.",
 			options: [
 				"[Noun Clause]",
 				"[Tiered Noun Phrase]"
 			],
 			correctAnswer: 1,
-			explanation: "Hình thái: [FInalizing {what the AUditors reQUESTed} on TIME] - [Tiếp Động Cụm][Progressive Verb Phrase] lồng ghép phân tầng. {what the AUditors reQUESTed} - [Liên Câu][Conjunctional Clause] bắt đầu bằng \"what\", có chứa chủ thể \"the AUditors\" và hành động \"reQUESTed\" xác định theo thời quá khứ. \n\n Chức năng: [FInalizing {what the AUditors reQUESTed} on TIME] - [Danh Cụm] Phân Tầng [Tiered Noun Phrase] tầng 1 bên ngoài dùng [] giữ vai trò thành phần đứng đầu chính. {what the AUditors reQUESTed} - [Danh Câu][Noun Clause] giữ vai trò làm thành phần chịu tác động trực tiếp cho hành động \"FInalizing\" ở phía trước."
+			explanation: "Hình thái: [FInalizing {WHAT the AUditors reQUESTed} on TIME] - [Tiếp Động Cụm][Progressive Verb Phrase] lồng ghép phân tầng. {WHAT the AUditors reQUESTed} - [Liên Câu][Conjunctional Clause] bắt đầu bằng \"what\", có chứa chủ thể \"the AUditors\" và hành động \"reQUESTed\" xác định theo thời quá khứ. \n\n Chức năng: [FInalizing {WHAT the AUditors reQUESTed} on TIME] - [Danh Cụm] Phân Tầng [Tiered Noun Phrase] tầng 1 bên ngoài dùng [] giữ vai trò thành phần đứng đầu chính. {WHAT the AUditors reQUESTed} - [Danh Câu][Noun Clause] giữ vai trò làm thành phần chịu tác động trực tiếp cho hành động \"FInalizing\" ở phía trước."
 		},
 		{
 			id: 8,

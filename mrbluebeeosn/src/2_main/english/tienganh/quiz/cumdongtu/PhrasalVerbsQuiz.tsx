@@ -46,7 +46,7 @@ export default function PhrasalVerbsQuiz(): React.JSX.Element {
 		},
 		{
 			id: 3,
-			question: "the poLICE are inVESTigating how the SUSpect MANaged to get aWAY from the CUStody. WHAT does \"get aWAY\" MEAN?",
+			question: "the poLICE are inVESTigating HOW the SUSpect MANaged to get aWAY from the CUStody. WHAT does \"get aWAY\" MEAN?",
 			options: [
 				"to conFESS",
 				"to esCAPE",

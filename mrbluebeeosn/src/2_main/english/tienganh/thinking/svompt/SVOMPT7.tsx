@@ -168,7 +168,7 @@ export default function SVOMPT7(): React.JSX.Element {
 					</li>
 
 					<li className="list-none"><strong>Kết quả</strong>:</li>
-					<li className="margin-bottom-20 list-none">The girl drew the picture beautifully on colored paper this afternoon.</li>
+					<li className="margin-bottom-20 list-none">The girl drew the picture beautifully on colored paper <strong>this</strong> afternoon.</li>
 			
 				</ul>
 

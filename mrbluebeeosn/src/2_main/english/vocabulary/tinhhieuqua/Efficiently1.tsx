@@ -63,7 +63,7 @@ export default function efFICiently1(): React.JSX.Element {
           <li>she comPLETed the TASK efFICiently.</li>
           <li className="margin-bottom-20 list-none">Cô ấy hoàn thành công việc một cách hiệu quả.</li>
 
-          <li>this NEW SOFTware will HELP us WORK MORE efFICiently.</li>
+          <li>THIS NEW SOFTware will HELP us WORK MORE efFICiently.</li>
           <li className="list-none">Phần mềm mới này sẽ giúp chúng ta làm việc hiệu quả hơn.</li>
 
         </ul>
@@ -83,7 +83,7 @@ export default function efFICiently1(): React.JSX.Element {
           <li>he is a VERy efFICient WORKer.</li>
           <li className="margin-bottom-20 list-none">Anh ấy là một người lao động rất hiệu quả.</li>
 
-          <li>the efFICiency of this maCHINE is reMARKable.</li>
+          <li>the efFICiency of <strong>this</strong> maCHINE is reMARKable.</li>
           <li className="list-none">Hiệu quả của máy này thật đáng chú ý.</li>
 
         </ul>

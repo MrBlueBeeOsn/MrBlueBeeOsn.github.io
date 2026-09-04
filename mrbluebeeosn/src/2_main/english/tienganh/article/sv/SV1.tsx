@@ -367,12 +367,12 @@ export default function SV1(): React.JSX.Element {
 
 			<ul className="list-square">
 			
-					<li>[what you SAID] surPRISED me.</li>
+					<li>[WHAT you SAID] surPRISED me.</li>
 					<li className="margin-bottom-20 list-none">[Những gì bạn đã nói] đã làm tôi ngạc nhiên.</li>
 			
-					<li className="list-none">Hình thái: [what you SAID] - [Liên Câu][Conjunctional Clause] tạo nên khối hành động phức có chứa hệ trục [Danh Chủ][Noun Subject] "you" và [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "SAID", bắt đầu bằng [Liên Cơ][Conjunctional Base] "what".</li>
+					<li className="list-none">Hình thái: [WHAT you SAID] - [Liên Câu][Conjunctional Clause] tạo nên khối hành động phức có chứa hệ trục [Danh Chủ][Noun Subject] "you" và [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "SAID", bắt đầu bằng [Liên Cơ][Conjunctional Base] "WHAT".</li>
 			
-					<li className="margin-bottom-20 list-none">Chức năng: [what you SAID] - [Danh Câu][Noun Clause] đảm nhận nhiệm vụ của một khối đối tượng đứng trước [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "surPRISED" để làm [Danh Chủ][Noun Subject] điều phối hành động cho toàn bộ [Câu Lớn][Sentence].</li>
+					<li className="margin-bottom-20 list-none">Chức năng: [WHAT you SAID] - [Danh Câu][Noun Clause] đảm nhận nhiệm vụ của một khối đối tượng đứng trước [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "surPRISED" để làm [Danh Chủ][Noun Subject] điều phối hành động cho toàn bộ [Câu Lớn][Sentence].</li>
 			
 				</ul>
 
@@ -552,20 +552,20 @@ export default function SV1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>he aVOIDed [disCUSSing {'{what they had disCOVered}'}].</li>
+					<li>he aVOIDed [disCUSSing {'{WHAT they had disCOVered}'}].</li>
 					<li className="margin-bottom-20 list-none">Anh ấy đã tránh [thảo luận về {'{những gì họ đã phát hiện ra}'}].</li>
 
 					<li className="list-none">Hình thái:</li>
 
-					<li className="list-none">Tầng trong: Khối lồng bên trong {'{what they had disCOVered}'} là một [Liên Câu][Conjunctional Clause] chứa hệ trục [Danh Chủ][Noun Subject] "they" và [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "had disCOVered", bắt đầu bằng [Liên Cơ][Conjunctional Base] what.</li>
+					<li className="list-none">Tầng trong: Khối lồng bên trong {'{WHAT they had disCOVered}'} là một [Liên Câu][Conjunctional Clause] chứa hệ trục [Danh Chủ][Noun Subject] "they" và [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "had disCOVered", bắt đầu bằng [Liên Cơ][Conjunctional Base] what.</li>
 
-					<li className="margin-bottom-20 list-none">Tầng ngoài: Khối tổng thể bao ngoài [disCUSSing {'{what they had disCOVered}'}] là một khối [Tầng Tiếp Động Cụm][Tiered Progressive Verb Phrase] bắt đầu bằng [Tiếp Động Cơ][Progressive Verb Base] disCUSSing.</li>
+					<li className="margin-bottom-20 list-none">Tầng ngoài: Khối tổng thể bao ngoài [disCUSSing {'{WHAT they had disCOVered}'}] là một khối [Tầng Tiếp Động Cụm][Tiered Progressive Verb Phrase] bắt đầu bằng [Tiếp Động Cơ][Progressive Verb Base] disCUSSing.</li>
 			
 					<li className="list-none">Chức năng:</li>
 
-					<li className="list-none">Tầng trong: Lớp trong {'{what they had disCOVered}'} đóng vai trò là một [Danh Câu][Noun Clause], neo ngay sau hành động thực thi disCUSSing để làm [Danh Nhận][Noun Object].</li>
+					<li className="list-none">Tầng trong: Lớp trong {'{WHAT they had disCOVered}'} đóng vai trò là một [Danh Câu][Noun Clause], neo ngay sau hành động thực thi disCUSSing để làm [Danh Nhận][Noun Object].</li>
 
-					<li className="list-none">Tầng ngoài: Lớp ngoài [disCUSSing {'{what they had disCOVered}'}] vận hành như một khối [<strong>Danh Cụm</strong>][<strong>Noun Phrase</strong>] lớn đứng ngay sau [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "aVOIDed" nhằm làm [Danh Nhận][Noun Object] chịu sự điều phối trực tiếp từ nó.</li>
+					<li className="list-none">Tầng ngoài: Lớp ngoài [disCUSSing {'{WHAT they had disCOVered}'}] vận hành như một khối [<strong>Danh Cụm</strong>][<strong>Noun Phrase</strong>] lớn đứng ngay sau [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "aVOIDed" nhằm làm [Danh Nhận][Noun Object] chịu sự điều phối trực tiếp từ nó.</li>
 			
 				</ul>
 
@@ -722,12 +722,12 @@ export default function SV1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>[what you KNOW] is POWer.</li>
+					<li>[WHAT you KNOW] is POWer.</li>
 					<li className="margin-bottom-20 list-none">[Những gì bạn biết] tạo nên sức mạnh.</li>
 			
-					<li className="list-none">Hình thái: [what you KNOW] - [Liên Câu][Conjunctional Clause] tạo nên khối hành động phức có chứa hệ trục [Danh Chủ][Noun Subject] "you" và [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "KNOW", bắt đầu bằng [Liên Cơ][Conjunctional Base] "what".</li>
+					<li className="list-none">Hình thái: [WHAT you KNOW] - [Liên Câu][Conjunctional Clause] tạo nên khối hành động phức có chứa hệ trục [Danh Chủ][Noun Subject] "you" và [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "KNOW", bắt đầu bằng [Liên Cơ][Conjunctional Base] "WHAT".</li>
 
-					<li className="list-none">Chức năng: [what you KNOW] - [Danh Câu][Noun Clause] đứng ở đầu câu tạo nên [Danh Chủ][Noun Subject] cho toàn câu.</li>
+					<li className="list-none">Chức năng: [WHAT you KNOW] - [Danh Câu][Noun Clause] đứng ở đầu câu tạo nên [Danh Chủ][Noun Subject] cho toàn câu.</li>
 			
 				</ul>
 			

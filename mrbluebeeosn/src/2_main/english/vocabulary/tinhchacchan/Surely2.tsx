@@ -64,16 +64,16 @@ export default function SUREly2(): React.JSX.Element {
         <li value="2">she WORKED so HARD; she SUREly must GET a proMOtion.</li>
         <li className="list-none margin-bottom-20">Cô ấy làm việc rất chăm chỉ, chắc chắn cô ấy phải được thăng chức.</li>
 
-        <li value="3">SUREly you KNOW the ANswer to this QUEStion.</li>
+        <li value="3">SUREly you KNOW the ANswer to <strong>this</strong> QUEStion.</li>
         <li className="list-none margin-bottom-20">Chắc chắn bạn biết câu trả lời cho câu hỏi này.</li>
 
-        <li value="4">SUREly you can FINish this TASK by toMORrow.</li>
+        <li value="4">SUREly you can FINish <strong>this</strong> TASK by toMORrow.</li>
         <li className="list-none margin-bottom-20">Chắc chắn bạn có thể hoàn thành công việc này vào ngày mai.</li>
 
         <li value="5">the WEATHer FOREcast SAYS it will RAIN toMORrow, so SUREly we will NEED umBRELlas.</li>
         <li className="list-none margin-bottom-20">Dự báo thời tiết nói rằng trời sẽ mưa vào ngày mai, vì vậy chắc chắn chúng ta sẽ cần ô.</li>
 
-        <li value="6">SUREly you underSTAND the imPORtance of this PROJect.</li>
+        <li value="6">SUREly you underSTAND the imPORtance of <strong>this</strong> PROJect.</li>
         <li className="list-none margin-bottom-20">Chắc chắn bạn hiểu tầm quan trọng của dự án này.</li>
 
         <li value="7">SUREly you aGREE that THIS is the BEST soLUtion.</li>

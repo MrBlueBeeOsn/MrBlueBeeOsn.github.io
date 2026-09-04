@@ -530,20 +530,20 @@ export default function NineBox1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>the SYStem adMINistrator preFERS [to BEAUtify {'{what the LEgacy SCRIPT OUTputs}'}].</li>
+					<li>the SYStem adMINistrator preFERS [to BEAUtify {'{WHAT the LEgacy SCRIPT OUTputs}'}].</li>
 					<li className="margin-bottom-20 list-none">Quản trị viên hệ thống thích [làm đẹp {'{những gì kịch bản cũ xuất ra}'}].</li>
 
 					<li className="list-none">Hình thái:</li>
 
-					<li className="list-none">Khối tổng thể [to BEAUtify {'{what the LEgacy SCRIPT OUTputs}'}] - [Tầng Hạt Thuần Động Cụm][Tiered Particle Bare Verb Phrase] ở tầng ngoài bắt đầu bằng [Hạt Thuần Động Cơ][Particle Bare Verb Base] "to BEAUtify".</li>
+					<li className="list-none">Khối tổng thể [to BEAUtify {'{WHAT the LEgacy SCRIPT OUTputs}'}] - [Tầng Hạt Thuần Động Cụm][Tiered Particle Bare Verb Phrase] ở tầng ngoài bắt đầu bằng [Hạt Thuần Động Cơ][Particle Bare Verb Base] "to BEAUtify".</li>
 
-					<li className="margin-bottom-20 list-none">Bên trong chứa bao gói {'{what the LEgacy SCRIPT OUTputs}'} - [Liên Câu][Conjunctional Clause] ở tầng trong.</li>
+					<li className="margin-bottom-20 list-none">Bên trong chứa bao gói {'{WHAT the LEgacy SCRIPT OUTputs}'} - [Liên Câu][Conjunctional Clause] ở tầng trong.</li>
 			
 					<li className="list-none">Chức năng:</li>
 
-					<li className="list-none">Khối {'{what the LEgacy SCRIPT OUTputs}'} bên trong đóng vai trò làm [Danh Câu][Noun Clause] làm [Danh Nhận][Noun Object] chịu sự điều phối hành động trực tiếp từ [Hạt Thuần Động Cơ][Particle Bare Verb Base] "to BEAUtify".</li>
+					<li className="list-none">Khối {'{WHAT the LEgacy SCRIPT OUTputs}'} bên trong đóng vai trò làm [Danh Câu][Noun Clause] làm [Danh Nhận][Noun Object] chịu sự điều phối hành động trực tiếp từ [Hạt Thuần Động Cơ][Particle Bare Verb Base] "to BEAUtify".</li>
 
-					<li className="list-none">Và toàn bộ khối tổng thể dữ liệu [to BEAUtify {'{what the LEgacy SCRIPT OUTputs}'}] vận hành với chức năng [<strong>Danh Cụm</strong>][<strong>Noun Phrase</strong>] đóng vai trò làm [Danh Nhận][Noun Object] đứng sau mục tiêu cốt lõi của hành động preFERS.</li>
+					<li className="list-none">Và toàn bộ khối tổng thể dữ liệu [to BEAUtify {'{WHAT the LEgacy SCRIPT OUTputs}'}] vận hành với chức năng [<strong>Danh Cụm</strong>][<strong>Noun Phrase</strong>] đóng vai trò làm [Danh Nhận][Noun Object] đứng sau mục tiêu cốt lõi của hành động preFERS.</li>
 			
 				</ul>
 			
@@ -553,20 +553,20 @@ export default function NineBox1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>the SOURCE CODE [for {'{what the TEAM dePLOYED YESterday}'}] reQUIRES a seCUrity AUdit.</li>
+					<li>the SOURCE CODE [for {'{WHAT the TEAM dePLOYED YESterday}'}] reQUIRES a seCUrity AUdit.</li>
 					<li className="margin-bottom-20 list-none">Mã nguồn [cho {'{những gì đội ngũ triển khai ngày hôm qua}'}] yêu cầu một cuộc kiểm toán bảo mật.</li>
 
 					<li className="list-none">Hình thái:</li>
 
-					<li className="list-none">Khối tổng thể [for {'{what the TEAM dePLOYED YESterday}'}] - [Tầng Giới Cụm][Tiered Prepositional Phrase] ở tầng ngoài bắt đầu bằng [Giới Cơ][Prepositional Base] "for".</li>
+					<li className="list-none">Khối tổng thể [for {'{WHAT the TEAM dePLOYED YESterday}'}] - [Tầng Giới Cụm][Tiered Prepositional Phrase] ở tầng ngoài bắt đầu bằng [Giới Cơ][Prepositional Base] "for".</li>
 
-					<li className="margin-bottom-20 list-none">Bên trong chứa bao gói {'{what the TEAM dePLOYED YESterday}'} - [Liên Câu][Conjunctional Clause] ở tầng trong bắt đầu bằng [Liên Cơ][Conjunctional Base] "what".</li>
+					<li className="margin-bottom-20 list-none">Bên trong chứa bao gói {'{WHAT the TEAM dePLOYED YESterday}'} - [Liên Câu][Conjunctional Clause] ở tầng trong bắt đầu bằng [Liên Cơ][Conjunctional Base] "WHAT".</li>
 			
 					<li className="list-none">Chức năng:</li>
 
-					<li className="list-none">Khối {'{what the TEAM dePLOYED YESterday}'} bên trong đóng vai trò làm [Danh Câu][Noun Clause] làm [Danh Nhận][Noun Object] chịu sự điều phối trực tiếp từ [Giới Cơ][Prepositional Base] đứng trước.</li>
+					<li className="list-none">Khối {'{WHAT the TEAM dePLOYED YESterday}'} bên trong đóng vai trò làm [Danh Câu][Noun Clause] làm [Danh Nhận][Noun Object] chịu sự điều phối trực tiếp từ [Giới Cơ][Prepositional Base] đứng trước.</li>
 
-					<li className="list-none">Và toàn bộ khối tổng thể [for {'{what the TEAM dePLOYED YESterday}'}] vận hành với chức năng [<strong>Tính Cụm</strong>][<strong>Adjective Phrase</strong>] nhằm mô tả thuộc tính định danh cho khối [Danh Cụm][Noun Phrase] "the SOURCE CODE" phía trước.</li>
+					<li className="list-none">Và toàn bộ khối tổng thể [for {'{WHAT the TEAM dePLOYED YESterday}'}] vận hành với chức năng [<strong>Tính Cụm</strong>][<strong>Adjective Phrase</strong>] nhằm mô tả thuộc tính định danh cho khối [Danh Cụm][Noun Phrase] "the SOURCE CODE" phía trước.</li>
 			
 				</ul>
 			
@@ -640,12 +640,12 @@ export default function NineBox1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>[what the DEVops engiNEER upDATed this MORNing] SATisfies the SYStem deMAND.</li>
+					<li>[WHAT the DEVops engiNEER upDATed <strong>this</strong> MORNing] SATisfies the SYStem deMAND.</li>
 					<li className="margin-bottom-20 list-none">[Những gì kỹ sư DevOps cập nhật sáng nay] thỏa mãn yêu cầu của hệ thống.</li>
 			
-					<li className="list-none">Hình thái: [what the DEVops engiNEER upDATed this MORNing] – [Liên Câu][Conjunctional Clause] chứa cấu trúc kết nối tường minh "What" kết hợp cùng một cấu trúc câu con xoay quanh [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "upDATed".</li>
+					<li className="list-none">Hình thái: [WHAT the DEVops engiNEER upDATed <strong>this</strong> MORNing] – [Liên Câu][Conjunctional Clause] chứa cấu trúc kết nối tường minh "What" kết hợp cùng một cấu trúc câu con xoay quanh [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "upDATed".</li>
 			
-					<li className="list-none">Chức năng: [what the DEVops engiNEER upDATed this MORNing] – [Danh Câu][Noun Clause] đóng vai trò làm [Danh Chủ][Noun Subject], còn "the SYStem deMAND" đóng vai trò làm [Danh Khối][Noun Block] làm [Danh Nhận][Noun Object].</li>
+					<li className="list-none">Chức năng: [WHAT the DEVops engiNEER upDATed <strong>this</strong> MORNing] – [Danh Câu][Noun Clause] đóng vai trò làm [Danh Chủ][Noun Subject], còn "the SYStem deMAND" đóng vai trò làm [Danh Khối][Noun Block] làm [Danh Nhận][Noun Object].</li>
 			
 				</ul>
 			
@@ -658,7 +658,7 @@ export default function NineBox1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>we must rePLACE this [unseCURED] conNECtion.</li>
+					<li>we must rePLACE <strong>this</strong> [unseCURED] conNECtion.</li>
 					<li className="margin-bottom-20 list-none">Chúng ta phải thay thế kết nối [không an toàn] này.</li>
 			
 					<li className="list-none">Hình thái: [unseCURED] - [Hoàn Động Cơ][Perfect Verb Base] hình thành từ khối [Rễ Tính Cơ][Root Adjective Base] nguyên bản "seCURE" kết hợp tiền tố phủ định "un-" và mặc thêm hậu tố "-ed" để thay đổi diện mạo bên ngoài thành một khối cấp độ [Cơ][Base].</li>
@@ -672,7 +672,7 @@ export default function NineBox1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>we must rePLACE this conNECtion [CAUSing seCUrity LEAKS].</li>
+					<li>we must rePLACE <strong>this</strong> conNECtion [CAUSing seCUrity LEAKS].</li>
 					<li className="margin-bottom-20 list-none">Chúng ta phải thay thế kết nối [gây ra rò rỉ bảo mật] này.</li>
 			
 					<li className="list-none">Hình thái: [CAUSing seCUrity LEAKS] - [Tiếp Động Cụm][Progressive Verb Phrase] hình thành từ sự phối hợp giữa hạt nhân [Tiếp Động Cơ][Progressive Verb Base] "CAUSing" và mở rộng mục tiêu "seCUrity LEAKS" phía sau.</li>
@@ -686,7 +686,7 @@ export default function NineBox1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>we must rePLACE this conNECtion [which alLOWS unAUthorized USer ACcess].</li>
+					<li>we must rePLACE <strong>this</strong> conNECtion [which alLOWS unAUthorized USer ACcess].</li>
 					<li className="margin-bottom-20 list-none">Chúng ta phải thay thế kết nối [mà nó cho phép người dùng không được cấp quyền truy cập vào] này.</li>
 			
 					<li className="list-none">Hình thái: [which alLOWS unAUthorized USer ACcess] - [Liên Câu][Conjunctional Clause] chứa cấu trúc kết nối tường minh "which" kết hợp cùng cấu trúc câu con xoay quanh [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "alLOWS".</li>
@@ -700,7 +700,7 @@ export default function NineBox1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>we must rePLACE this conNECtion [with MULtiple seCUrity FLAWS].</li>
+					<li>we must rePLACE <strong>this</strong> conNECtion [with MULtiple seCUrity FLAWS].</li>
 					<li className="margin-bottom-20 list-none">Chúng ta phải thay thế kết nối [với nhiều lỗ hổng bảo mật] này.</li>
 			
 					<li className="list-none">Hình thái: [with MULtiple seCUrity FLAWS] – Khối [Giới Cụm][Prepositional Phrase] bắt đầu bằng [Giới Cơ][Prepositional Base] "with" kết hợp với cụm mục tiêu "MULtiple seCUrity FLAWS" phía sau.</li>

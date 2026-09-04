@@ -171,7 +171,7 @@ export default function absoLUTEly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>do you WANT to GO to the MOvies toNIGHT? - absoLUTEly! that SOUNDS like FUN.</li>
+          <li>do you WANT to GO to the MOvies toNIGHT? - absoLUTEly! THAT SOUNDS like FUN.</li>
           <li className="list-none">Bạn có muốn đi xem phim tối nay không? - Hoàn toàn! Nghe có vẻ vui đấy.</li>
 
         </ul>

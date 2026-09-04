@@ -68,7 +68,7 @@ export default function VERBSADDS(): React.JSX.Element {
 
               Dạng lướt (Yếu) ➡️ Đọc là /ðət/ (nghe giống "đợt") ➡️ Ví dụ: i KNOW that you CARE. /aɪ nəʊ ðət juː keə/<br/>
 
-              Dạng nhấn mạnh (Mạnh) ➡️ Đọc là /ðæt/ ➡️ Ví dụ: Look at that! /lʊk æt ðæt/
+              Dạng nhấn mạnh (Mạnh) ➡️ Đọc là /ðæt/ ➡️ Ví dụ: LOOK at THAT! /lʊk æt ðæt/
 
             </span>
           </p>
@@ -141,7 +141,7 @@ export default function VERBSADDS(): React.JSX.Element {
 
               Dạng lướt (Yếu) ➡️ Đọc là /fə/ (nghe giống "phờ") ➡️ Ví dụ: THIS is for YOU. /ðɪs ɪz fə juː/<br/>
 
-              Dạng nhấn mạnh (Mạnh) ➡️ Đọc là /fɔːr/ ➡️ Ví dụ: WHAT is this FOR? /wɒt ɪz ðɪs fɔːr/
+              Dạng nhấn mạnh (Mạnh) ➡️ Đọc là /fɔːr/ ➡️ Ví dụ: WHAT is THIS FOR? /wɒt ɪz ðɪs fɔːr/
 
             </span>
           </p>
