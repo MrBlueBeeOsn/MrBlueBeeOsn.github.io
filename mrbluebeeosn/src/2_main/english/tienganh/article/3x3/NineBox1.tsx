@@ -746,12 +746,12 @@ export default function NineBox1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>the appliCAtion SYNCS DAta [whenever the BACKground MIcroservice SENDS a SIGnal].</li>
+					<li>the appliCAtion SYNCS DAta [when<strong>ev</strong>er the BACKground MIcroservice SENDS a SIGnal].</li>
 					<li className="margin-bottom-20 list-none">Ứng dụng đồng bộ hóa dữ liệu [bất cứ khi nào dịch vụ nhỏ chạy nền gửi tín hiệu].</li>
 			
-					<li className="list-none">Hình thái: [whenever the BACKground MIcroservice SENDS a SIGnal] - [Liên Câu][Conjunctional Clause] chứa cấu trúc kết nối chỉ bối cảnh điều kiện [Thời] gian "whenever" kết hợp cùng cấu trúc câu con xoay quanh [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "SENDS".</li>
+					<li className="list-none">Hình thái: [when<strong>ev</strong>er the BACKground MIcroservice SENDS a SIGnal] - [Liên Câu][Conjunctional Clause] chứa cấu trúc kết nối chỉ bối cảnh điều kiện [Thời] gian "when<strong>ev</strong>er" kết hợp cùng cấu trúc câu con xoay quanh [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "SENDS".</li>
 			
-					<li className="list-none">Chức năng: [whenever the BACKground MIcroservice SENDS a SIGnal] – [Trạng Câu][Adverb Clause] bổ nghĩa bối cảnh điều kiện [Thời] gian cho hành động [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "SYNCS" đồng bộ hóa.</li>
+					<li className="list-none">Chức năng: [when<strong>ev</strong>er the BACKground MIcroservice SENDS a SIGnal] – [Trạng Câu][Adverb Clause] bổ nghĩa bối cảnh điều kiện [Thời] gian cho hành động [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "SYNCS" đồng bộ hóa.</li>
 			
 				</ul>
 

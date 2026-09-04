@@ -83,7 +83,7 @@ export default function STEADily2(): React.JSX.Element {
         <li value="9">the ARmy STEADily adVANCED aCROSS the TERritory.</li>
         <li className="list-none margin-bottom-20">Quân đội tiến lên một cách đều đặn trên khắp lãnh thổ.</li>
 
-        <li value="10">she STEADily HELD the CAMERa to TAKE a CLEAR PICture.</li>
+        <li value="10">she STEADily HELD the CAMEra to TAKE a CLEAR PICture.</li>
         <li className="list-none margin-bottom-20">Cô ấy giữ máy ảnh một cách chắc chắn để chụp một bức ảnh rõ nét.</li>
 
       </ol>
