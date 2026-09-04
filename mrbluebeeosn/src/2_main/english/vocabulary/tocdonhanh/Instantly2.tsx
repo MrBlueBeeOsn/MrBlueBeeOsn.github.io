@@ -69,7 +69,7 @@ export default function INstantly2(): React.JSX.Element {
         <li value="4">i KNEW it was her INstantly RECognizable VOICE.</li>
         <li className="list-none margin-bottom-20">Tôi biết ngay đó là giọng nói dễ nhận biết của cô ấy.</li>
 
-        <li value="5">as soon as i SAID it, i FELT INstantly reGRETful.</li>
+        <li value="5">as SOON as i SAID it, i FELT INstantly reGRETful.</li>
         <li className="list-none margin-bottom-20">Ngay khi tôi nói ra điều đó, tôi đã cảm thấy hối hận ngay lập tức.</li>
 
         <li value="6">i FELT INstantly reLIEVED when i HEARD the GOOD NEWS.</li>
@@ -81,7 +81,7 @@ export default function INstantly2(): React.JSX.Element {
         <li value="8">the NIke SWOOSH is an INstantly RECognizable LOgo.</li>
         <li className="list-none margin-bottom-20">Logo hình dấu ngoặc kép của Nike là một logo dễ nhận biết ngay lập tức.</li>
 
-        <li value="9">as soon as i LEFT the ROOM, his NAME was INstantly forGOTten.</li>
+        <li value="9">as SOON as i LEFT the ROOM, his NAME was INstantly forGOTten.</li>
         <li className="list-none margin-bottom-20">Ngay khi tôi rời khỏi phòng, tôi đã quên tên anh ấy ngay lập tức.</li>
 
         <li value="10">we INstantly conNECted when we FIRST MET.</li>

@@ -151,7 +151,7 @@ export default function INstantly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>as soon as i TURNED on the SWITCH, the LIGHT BULB CAME on INstantly.</li>
+          <li>as SOON as i TURNED on the SWITCH, the LIGHT BULB CAME on INstantly.</li>
           <li className="list-none">Ngay khi tôi bật công tắc, bóng đèn sáng lên ngay lập tức.</li>
 
         </ul>

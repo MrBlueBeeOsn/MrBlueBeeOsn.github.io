@@ -58,7 +58,7 @@ export default function TracNghiemGerundsAndInfinitives(): React.JSX.Element {
 		},
 		{
 			id: 4,
-			question: "it’s no USE _______ about the PAST; you should FOcus on the FUture.",
+			question: "it’s NO USE _______ about the PAST; you should FOcus on the FUture.",
 			options: [
 				"CRY",
 				"to CRY",
@@ -66,7 +66,7 @@ export default function TracNghiemGerundsAndInfinitives(): React.JSX.Element {
 				"CRIED"
 			],
 			correctAnswer: 2,
-			explanation: "\"it’s no USE\" là một thành ngữ cố định có nghĩa là \"chẳng ích gì\" hoặc \"vô ích khi làm gì\". Theo quy tắc ngữ pháp, sau cấu trúc này chúng ta luôn sử dụng danh hành động (V-ing)."
+			explanation: "\"it’s NO USE\" là một thành ngữ cố định có nghĩa là \"chẳng ích gì\" hoặc \"vô ích khi làm gì\". Theo quy tắc ngữ pháp, sau cấu trúc này chúng ta luôn sử dụng danh hành động (V-ing)."
 		},
 		{
 			id: 5,

@@ -687,12 +687,12 @@ export default function LegoAssembly1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>the PLATform upDATed [as soon as the CODE PATCH WENT LIVE].</li>
+					<li>the PLATform upDATed [as SOON as the CODE PATCH WENT LIVE].</li>
 					<li className="margin-bottom-20 list-none">Nền tảng đã cập nhật [ngay khi bản vá mã nguồn được kích hoạt trực tuyến].</li>
 			
-					<li className="list-none">Hình thái: [as soon as the CODE PATCH WENT LIVE] - [Phức Liên Câu][Complex Conjunctional Clause] cấp độ [Câu][Clause], chứa [Phức Liên Cơ][Complex Conjunctional Base] as soon as kết hợp với một bộ cấu trúc [S]-[Head] hoàn chỉnh bên trong để mô tả một mốc sự kiện kích hoạt tức thời.</li>
+					<li className="list-none">Hình thái: [as SOON as the CODE PATCH WENT LIVE] - [Phức Liên Câu][Complex Conjunctional Clause] cấp độ [Câu][Clause], chứa [Phức Liên Cơ][Complex Conjunctional Base] as SOON as kết hợp với một bộ cấu trúc [S]-[Head] hoàn chỉnh bên trong để mô tả một mốc sự kiện kích hoạt tức thời.</li>
 
-					<li className="list-none">Chức năng: [as soon as the CODE PATCH WENT LIVE] - [Trạng Câu][Adverb Clause] thay thế vị trí của [Trạng Cơ][Adverb Base] cũ, mở rộng quy mô thông tin thành bối cảnh [Thời] gian cho hành động chính updated nhưng vẫn giữ nguyên màu sắc chức năng cung cấp bối cảnh.</li>
+					<li className="list-none">Chức năng: [as SOON as the CODE PATCH WENT LIVE] - [Trạng Câu][Adverb Clause] thay thế vị trí của [Trạng Cơ][Adverb Base] cũ, mở rộng quy mô thông tin thành bối cảnh [Thời] gian cho hành động chính updated nhưng vẫn giữ nguyên màu sắc chức năng cung cấp bối cảnh.</li>
 			
 				</ul>
 			

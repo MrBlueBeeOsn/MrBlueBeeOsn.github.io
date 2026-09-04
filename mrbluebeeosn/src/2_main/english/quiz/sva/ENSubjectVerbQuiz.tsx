@@ -22,7 +22,7 @@ export default function ENSubjectVerbQuiz(): React.JSX.Element {
 	const questions: Question[] = [
 		{
 			id: 1,
-			question: "Each of the students _______ to complete the assignment by tomorrow.",
+			question: "EACH of the STUDents _______ to comPLETE the asSIGNment by toMORrow.",
 			options: [
 				"has",
 				"have",
@@ -30,11 +30,11 @@ export default function ENSubjectVerbQuiz(): React.JSX.Element {
 				"are"
 			],
 			correctAnswer: 0,
-			explanation: "\"Each\" is a singular pronoun and always takes a singular verb, regardless of the plural noun \"students\" that follows it."
+			explanation: "\"EACH\" is a singular pronoun and always takes a singular verb, regardless of the plural noun \"STUDents\" that follows it."
 		},
 		{
 			id: 2,
-			question: "Either the teacher or the students _______ responsible for the mistake.",
+			question: "either the TEAcher or the STUDents _______ reSPONsible for the miSTAKE.",
 			options: [
 				"is",
 				"are",
@@ -42,23 +42,23 @@ export default function ENSubjectVerbQuiz(): React.JSX.Element {
 				"has"
 			],
 			correctAnswer: 1,
-			explanation: "When using \"either... or,\" the verb must agree with the subject closest to it. \"Students\" is plural, so the plural verb \"are\" is used."
+			explanation: "When using \"either... or,\" the verb must agree with the subject closest to it. \"STUDents\" is plural, so the plural verb \"are\" is used."
 		},
 		{
 			id: 3,
-			question: "The team _______ practice every day after school.",
+			question: "the TEAM _______ PRACtice every DAY after SCHOOL.",
 			options: [
-				"do",
-				"practices",
-				"practice",
-				"are practicing"
+				"DO",
+				"PRACtices",
+				"PRACtice",
+				"are PRACticing"
 			],
 			correctAnswer: 1,
-			explanation: "Collective nouns like \"team\" are usually treated as singular units when the members are acting together as one body."
+			explanation: "Collective nouns like \"TEAM\" are usually treated as singular units when the members are acting together as one body."
 		},
 		{
 			id: 4,
-			question: "Statistics _______ a difficult subject for many college students.",
+			question: "staTIStics _______ a DIFficult SUBject for many COLlege STUdents.",
 			options: [
 				"are",
 				"were",
@@ -66,11 +66,11 @@ export default function ENSubjectVerbQuiz(): React.JSX.Element {
 				"be"
 			],
 			correctAnswer: 2,
-			explanation: "Although \"statistics\" ends in -s, it refers to a single branch of knowledge or a field of study, which is singular."
+			explanation: "Although \"staTIStics\" ends in -s, it refers to a single branch of knowledge or a field of study, which is singular."
 		},
 		{
 			id: 5,
-			question: "Neither of the movies _______ worth watching.",
+			question: "NEIther of the MOVies _______ WORTH WATCHing.",
 			options: [
 				"are",
 				"were",
@@ -78,11 +78,11 @@ export default function ENSubjectVerbQuiz(): React.JSX.Element {
 				"being"
 			],
 			correctAnswer: 2,
-			explanation: "\"Neither\" is an indefinite pronoun that is treated as singular, even though it refers to two things."
+			explanation: "\"NEIther\" is an indefinite pronoun that is treated as singular, even though it refers to two things."
 		},
 		{
 			id: 6,
-			question: "A number of people _______ waiting in line for the tickets.",
+			question: "a NUMber of PEOple _______ WAITING in LINE for the TICKets.",
 			options: [
 				"is",
 				"was",
@@ -90,11 +90,11 @@ export default function ENSubjectVerbQuiz(): React.JSX.Element {
 				"has been"
 			],
 			correctAnswer: 2,
-			explanation: "The phrase \"a number of\" is followed by a plural noun and takes a plural verb, whereas \"the number of\" would take a singular verb."
+			explanation: "The phrase \"a NUMber of\" is followed by a plural noun and takes a plural verb, whereas \"the NUMber of\" would take a singular verb."
 		},
 		{
 			id: 7,
-			question: "Rice and beans _______ my favorite meal for lunch.",
+			question: "RICE and BEANS _______ my FAvorite MEAL for LUNCH.",
 			options: [
 				"is",
 				"are",
@@ -106,7 +106,7 @@ export default function ENSubjectVerbQuiz(): React.JSX.Element {
 		},
 		{
 			id: 8,
-			question: "There _______ many reasons why we should protect the environment.",
+			question: "there _______ many REAsons why we should proTECT the enVIronment.",
 			options: [
 				"is",
 				"was",
@@ -114,11 +114,11 @@ export default function ENSubjectVerbQuiz(): React.JSX.Element {
 				"has"
 			],
 			correctAnswer: 2,
-			explanation: "In sentences starting with \"there is/are,\" the verb must agree with the noun that follows it. \"Reasons\" is plural, so we use \"are.\""
+			explanation: "In sentences starting with \"there is/are,\" the verb must agree with the noun that follows it. \"REAsons\" is plural, so we use \"are.\""
 		},
 		{
 			id: 9,
-			question: "Ten dollars _______ too much to pay for a cup of coffee.",
+			question: "TEN DOLlars _______ is TOO MUCH to PAY for a CUP of COFfee.",
 			options: [
 				"are",
 				"is",
@@ -130,7 +130,7 @@ export default function ENSubjectVerbQuiz(): React.JSX.Element {
 		},
 		{
 			id: 10,
-			question: "The manager, along with his assistants, _______ attending the meeting.",
+			question: "the MANager, aLONG with his asSIStants, _______ is atTENDing the MEETing.",
 			options: [
 				"are",
 				"is",
@@ -138,7 +138,7 @@ export default function ENSubjectVerbQuiz(): React.JSX.Element {
 				"were"
 			],
 			correctAnswer: 1,
-			explanation: "Phrases like \"along with,\" \"as well as,\" or \"together with\" do not change the number of the subject. The subject is \"The manager\" (singular)."
+			explanation: "Phrases like \"aLONG with,\" \"as WELL as,\" or \"toGETHer with\" do not change the number of the subject. The subject is \"the MANager\" (singular)."
 		}
 	];
 

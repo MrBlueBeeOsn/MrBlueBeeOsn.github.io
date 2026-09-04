@@ -279,7 +279,7 @@ export default function SentenceVariety2(): React.JSX.Element {
 					<li>Thấy <strong>and</strong>, <strong>but</strong>, <strong>or</strong>, <strong>so</strong>, <strong>for</strong>, <strong>nor</strong>, <strong>yet</strong></li>
 					<li className=" margin-bottom-20 list-none">→ có thể là compound (nối 2 câu con độc lập)</li>
 
-					<li>Thấy <strong>because</strong>, <strong>although</strong>, <strong>if</strong>, <strong>when</strong>, <strong>while</strong>, <strong>since</strong>, <strong>unless</strong>, <strong>as soon as</strong></li>
+					<li>Thấy <strong>because</strong>, <strong>although</strong>, <strong>if</strong>, <strong>when</strong>, <strong>while</strong>, <strong>since</strong>, <strong>unless</strong>, <strong>as SOON as</strong></li>
 					<li className=" margin-bottom-20 list-none">→ complex hoặc compound-complex</li>
 			
 					<li>Không thấy từ nối nào, chỉ một danh chủ + một hành động chính</li>

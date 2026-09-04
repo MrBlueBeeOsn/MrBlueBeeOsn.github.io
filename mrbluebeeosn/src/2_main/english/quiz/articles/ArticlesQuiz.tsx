@@ -66,7 +66,7 @@ export default function ArticlesQuiz(): React.JSX.Element {
 				"(no article)"
 			],
 			correctAnswer: 0,
-			explanation: "\"University\" starts with the consonant sound /j/ (yoo-ni-ver-si-ty). Therefore, we use \"a\" instead of \"an.\""
+			explanation: "\"University\" starts with the consonant sound /j/ (yoo-ni-ver-si-ty). Therefore, we use \"a\" inSTEAD of \"an.\""
 		},
 		{
 			id: 5,

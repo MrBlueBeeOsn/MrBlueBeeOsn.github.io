@@ -106,7 +106,7 @@ export default function GerundsAndInfinitivesQuiz(): React.JSX.Element {
 		},
 		{
 			id: 8,
-			question: "they sugGESTed ________ a TAXi to the AIRport instead of TAking the BUS.",
+			question: "they sugGESTed ________ a TAXi to the AIRport inSTEAD of TAking the BUS.",
 			options: [
 				"TAKE",
 				"to TAKE",
@@ -118,7 +118,7 @@ export default function GerundsAndInfinitivesQuiz(): React.JSX.Element {
 		},
 		{
 			id: 9,
-			question: "it's no USE ________ about THINGS you CANnot CHANGE.",
+			question: "it's NO USE ________ about THINGS you CANnot CHANGE.",
 			options: [
 				"WORry",
 				"to WORry",
@@ -126,7 +126,7 @@ export default function GerundsAndInfinitivesQuiz(): React.JSX.Element {
 				"WORried"
 			],
 			correctAnswer: 2,
-			explanation: "The expression \"it's no USE\" is always followed by a gerund (V-ing)."
+			explanation: "The expression \"it's NO USE\" is always followed by a gerund (V-ing)."
 		},
 		{
 			id: 10,
