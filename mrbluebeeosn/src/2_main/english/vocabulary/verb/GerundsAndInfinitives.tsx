@@ -189,7 +189,7 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>she <strong>conTINued WORKing</strong> on her rePORT EVen <strong>af</strong>ter everyone ELSE had LEFT the OFfice.</li>
+					<li>she <strong>conTINued WORKing</strong> on her rePORT EVen <strong>af</strong>ter <strong>eve</strong>ryone ELSE had LEFT the OFfice.</li>
 					<li className="list-none">Cô ấy <strong>vẫn tiếp tục làm</strong> bản báo cáo của mình ngay cả khi tất cả mọi người khác đã rời khỏi văn phòng.</li>
 					<li className="margin-bottom-20 list-none">she là chủ thể. Cấu trúc này dùng khi một hành động đang diễn ra và được tiếp tục thực hiện liên tục không gián đoạn.</li>
 			

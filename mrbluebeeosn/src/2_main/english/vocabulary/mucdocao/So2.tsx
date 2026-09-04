@@ -80,7 +80,7 @@ export default function SO2(): React.JSX.Element {
         <li className="list-none">it's been SO LONG since we LAST MET.</li>
         <li className="list-none margin-bottom-20">Đã quá lâu rồi kể từ lần cuối chúng ta gặp nhau.</li>
 
-        <li value="8">i MADE a misTAKE. "SO WHAT? everyone MAKES misTAKES".</li>
+        <li value="8">i MADE a misTAKE. "SO WHAT? <strong>eve</strong>ryone MAKES misTAKES".</li>
         <li className="list-none margin-bottom-20">Tôi đã mắc lỗi. "Thì sao chứ? Ai cũng mắc lỗi mà."</li>
 
         <li value="9">we disCUSSED the BUDget, the TIMEline, the reSOURces, and SO ON.</li>

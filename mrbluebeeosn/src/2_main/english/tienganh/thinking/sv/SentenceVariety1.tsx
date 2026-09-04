@@ -130,7 +130,7 @@ export default function SentenceVariety1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>the BEAUty of the GIRL imPRESSes everyone.</li>
+					<li>the BEAUty of the GIRL imPRESSes <strong>eve</strong>ryone.</li>
 					<li className="list-none">Vẻ đẹp của cô gái đã gây ấn tượng với mọi người.</li>
 			
 				</ul>
@@ -144,7 +144,7 @@ export default function SentenceVariety1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>when<strong>ev</strong>er she SMILES, the BEAUty of the GIRL imPRESSes everyone.</li>
+					<li>when<strong>ev</strong>er she SMILES, the BEAUty of the GIRL imPRESSes <strong>eve</strong>ryone.</li>
 					<li className="margin-bottom-20 list-none">Mỗi khi cô ấy cười, vẻ đẹp của cô gái đó lại làm ấn tượng tất cả mọi người.</li>
 			
 				</ul>
@@ -156,7 +156,7 @@ export default function SentenceVariety1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>when<strong>ev</strong>er she SMILES, the BEAUty of the GIRL imPRESSes everyone, and the ROOM SEEMS to BRIGHTEN UP.</li>
+					<li>when<strong>ev</strong>er she SMILES, the BEAUty of the GIRL imPRESSes <strong>eve</strong>ryone, and the ROOM SEEMS to BRIGHTEN UP.</li>
 					<li className="list-none">Bất cứ khi nào cô gái ấy mỉm cười, vẻ đẹp của cô đều để lại ấn tượng sâu sắc cho mọi người, và căn phòng dường như trở nên tươi sáng hơn.</li>
 			
 				</ul>

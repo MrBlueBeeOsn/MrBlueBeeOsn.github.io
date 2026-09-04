@@ -138,7 +138,7 @@ export default function EnglishMultipleChoice(): React.JSX.Element {
 				"it's a TRICKy situAtion."
 			],
 			correctAnswer: 2,
-			explanation: "This is an idiom. \"a PIECE of CAKE\" is a common metaphorical expression meaning something is very easy to do."
+			explanation: "This is an idiom. \"a PIECE of CAKE\" is a common metaphorical expression meaning something is VERy easy to do."
 		}
 	];
 

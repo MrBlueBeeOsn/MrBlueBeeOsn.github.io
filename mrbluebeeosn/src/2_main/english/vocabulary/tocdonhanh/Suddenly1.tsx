@@ -85,7 +85,7 @@ export default function SUDdenly1(): React.JSX.Element {
           <li>a SUDden STORM CAUSED the POWer OUtage.</li>
           <li className="margin-bottom-20 list-none">Một cơn bão đột ngột đã gây ra mất điện.</li>
 
-          <li>the SUDdenness of the ACcident SHOCKED everyone.</li>
+          <li>the SUDdenness of the ACcident SHOCKED <strong>eve</strong>ryone.</li>
           <li className="list-none">Sự đột ngột của tai nạn khiến mọi người sốc.</li>
 
         </ul>

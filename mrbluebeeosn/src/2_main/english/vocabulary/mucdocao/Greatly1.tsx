@@ -148,7 +148,7 @@ export default function GREATly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>the WHALE was GREATly BIGger than anyone i had EVer SEEN beFORE.</li>
+          <li>the WHALE was GREATly BIGger than <strong>an</strong>yone i had EVer SEEN beFORE.</li>
           <li className="list-none">Con cá voi đó lớn hơn bất kỳ con nào tôi từng thấy trước đây.</li>
 
         </ul>

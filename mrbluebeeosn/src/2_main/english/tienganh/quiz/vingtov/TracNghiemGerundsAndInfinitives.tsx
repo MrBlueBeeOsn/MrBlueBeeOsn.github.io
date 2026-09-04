@@ -106,7 +106,7 @@ export default function TracNghiemGerundsAndInfinitives(): React.JSX.Element {
 		},
 		{
 			id: 8,
-			question: "it is very DIFficult _______ a JOB in this eCONomy.",
+			question: "it is VERy DIFficult _______ a JOB in this eCONomy.",
 			options: [
 				"FIND",
 				"FInding",
