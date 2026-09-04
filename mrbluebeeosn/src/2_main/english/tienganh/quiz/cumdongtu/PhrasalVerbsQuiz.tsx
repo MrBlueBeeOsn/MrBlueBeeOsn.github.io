@@ -22,123 +22,123 @@ export default function PhrasalVerbsQuiz(): React.JSX.Element {
 	const questions: Question[] = [
 		{
 			id: 1,
-			question: "After a long negotiation, the two companies finally decided to call off the merger. What does \"call off\" mean?",
+			question: "after a LONG neGOtiation, the TWO COMpanies FINally deCIded to call OFF the MERger. WHAT does \"call OFF\" MEAN?",
 			options: [
-				"To announce",
-				"To postpone",
-				"To cancel",
-				"To complete"
+				"to anNOUNCE",
+				"to postPONE",
+				"to CANcel",
+				"to comPLETE"
 			],
 			correctAnswer: 2,
-			explanation: "Call off có nghĩa là hủy bỏ hoặc bãi bỏ một sự kiện đã được lên kế hoạch. (Sau một cuộc đàm phán dài, hai công ty cuối cùng đã quyết định hủy bỏ việc sáp nhập.)"
+			explanation: "call OFF có nghĩa là hủy bỏ hoặc bãi bỏ một sự kiện đã được lên kế hoạch. (Sau một cuộc đàm phán dài, hai công ty cuối cùng đã quyết định hủy bỏ việc sáp nhập.)"
 		},
 		{
 			id: 2,
-			question: "She was very upset when her boyfriend decided to break up with her. What does \"break up\" mean?",
+			question: "she was VERy upSET when her BOYfriend deCIded to break UP with her. WHAT does \"break UP\" MEAN?",
 			options: [
-				"To start a business",
-				"To end a relationship",
-				"To have a fight",
-				"To feel confused"
+				"to START a BUSINess",
+				"to END a reLAtionship",
+				"to have a FIGHT",
+				"to FEEL conFUSED"
 			],
 			correctAnswer: 1,
-			explanation: "Break up (with someone) có nghĩa là chấm dứt một mối quan hệ tình cảm. (Cô ấy rất buồn khi bạn trai quyết định chia tay với cô ấy.)"
+			explanation: "break UP (with SOMEone) có nghĩa là chấm dứt một mối quan hệ tình cảm. (Cô ấy rất buồn khi bạn trai quyết định chia tay với cô ấy.)"
 		},
 		{
 			id: 3,
-			question: "The police are inVESTigating how the suspect managed to get away from the custody. What does \"get away\" mean?",
+			question: "the poLICE are inVESTigating how the SUSpect MANaged to get aWAY from the CUStody. WHAT does \"get aWAY\" MEAN?",
 			options: [
-				"To confess",
-				"To escape",
-				"To arrive",
-				"To surrender"
+				"to conFESS",
+				"to esCAPE",
+				"to arRIVE",
+				"to surRENder"
 			],
 			correctAnswer: 1,
-			explanation: "Get away có nghĩa là trốn thoát hoặc thoát khỏi một nơi nào đó. (Cảnh sát đang điều tra xem nghi phạm đã trốn thoát khỏi sự giam giữ bằng cách nào.)"
+			explanation: "get aWAY có nghĩa là trốn thoát hoặc thoát khỏi một nơi nào đó. (Cảnh sát đang điều tra xem nghi phạm đã trốn thoát khỏi sự giam giữ bằng cách nào.)"
 		},
 		{
 			id: 4,
-			question: "If you don't know the meaning of a word, you should look it up in a dictionary. What does \"look up\" mean in this context?",
+			question: "if you DON'T KNOW the MEANing of a WORD, you should look it UP in a DICtionary. WHAT does \"look UP\" MEAN in this CONtext?",
 			options: [
-				"To admire",
-				"To search for information",
-				"To observe the sky",
-				"To expect"
+				"to adMIre",
+				"to SEARCH for inforMAtion",
+				"to obSERVE the SKY",
+				"to exPECT"
 			],
 			correctAnswer: 1,
-			explanation: "Look up có nghĩa là tra cứu, tìm kiếm thông tin (như một từ, số điện thoại) trong sách tham khảo, từ điển, hoặc trên mạng. (Nếu bạn không biết nghĩa của một từ, bạn nên tra cứu nó trong từ điển.)"
+			explanation: "look UP có nghĩa là tra cứu, tìm kiếm thông tin (như một từ, số điện thoại) trong sách tham khảo, từ điển, hoặc trên mạng. (Nếu bạn không biết nghĩa của một từ, bạn nên tra cứu nó trong từ điển.)"
 		},
 		{
 			id: 5,
-			question: "Please turn down the music; it's too loud and I can't concentrate. What does \"turn down\" mean here?",
+			question: "PLEASE turn DOWN the MUsic; it's TOO LOUD and i CAN'T CONcentrate. WHAT does \"turn DOWN\" MEAN HERE?",
 			options: [
-				"To increase the volume",
-				"To refuse an offer",
-				"To reduce the volume",
-				"To flip upside down"
+				"to inCREASE the VOLume",
+				"to reFUSE an OFFer",
+				"to reDUCE the VOLume",
+				"to FLIP UPside DOWN"
 			],
 			correctAnswer: 2,
-			explanation: "Turn down có nghĩa là giảm âm lượng, nhiệt độ, hoặc mức độ của một thiết bị. (Làm ơn giảm nhỏ nhạc đi; nó quá to và tôi không thể tập trung.)"
+			explanation: "turn DOWN có nghĩa là giảm âm lượng, nhiệt độ, hoặc mức độ của một thiết bị. (Làm ơn giảm nhỏ nhạc đi; nó quá to và tôi không thể tập trung.)"
 		},
 		{
 			id: 6,
-			question: "I'm trying to give up eating fast food because I want to be healthier. What does \"give up\" mean?",
+			question: "i'm TRYing to give UP EATing FAST FOOD because i WANT to be HEALTHier. WHAT does \"give UP\" MEAN?",
 			options: [
-				"To start a new habit",
-				"To continue",
-				"To stop doing something",
-				"To try harder"
+				"to START a NEW HABit",
+				"to conTINue",
+				"to STOP DOing SOMEthing",
+				"to TRY HARDer"
 			],
 			correctAnswer: 2,
-			explanation: "Give up có nghĩa là từ bỏ, ngưng làm hoặc ngừng thói quen gì đó. (Tôi đang cố gắng từ bỏ việc ăn đồ ăn nhanh vì tôi muốn khỏe mạnh hơn.)"
+			explanation: "give UP có nghĩa là từ bỏ, ngưng làm hoặc ngừng thói quen gì đó. (Tôi đang cố gắng từ bỏ việc ăn đồ ăn nhanh vì tôi muốn khỏe mạnh hơn.)"
 		},
 		{
 			id: 7,
-			question: "We need to set up a meeting next week to discuss the new project. What does \"set up\" mean?",
+			question: "we NEED to set UP a MEETing NEXT WEEK to disCUSS the NEW PROJect. WHAT does \"set UP\" MEAN?",
 			options: [
-				"To clean",
-				"To arrange or establish",
-				"To finish",
-				"To review"
+				"to CLEAN",
+				"to arRANGE or esTABlish",
+				"to FINish",
+				"to reVIEW"
 			],
 			correctAnswer: 1,
-			explanation: "Set up có nghĩa là sắp xếp, thành lập hoặc tổ chức (một cuộc họp, một doanh nghiệp, một hệ thống). (Chúng ta cần sắp xếp một cuộc họp vào tuần tới để thảo luận về dự án mới.)"
+			explanation: "set UP có nghĩa là sắp xếp, thành lập hoặc tổ chức (một cuộc họp, một doanh nghiệp, một hệ thống). (Chúng ta cần sắp xếp một cuộc họp vào tuần tới để thảo luận về dự án mới.)"
 		},
 		{
 			id: 8,
-			question: "He didn't know the answer, so he decided to make up a story. What does \"make up\" mean in this sentence?",
+			question: "he DIDn't KNOW the ANswer, so he deCIDed to make UP a STORy. WHAT does \"make UP\" MEAN in this SENtence?",
 			options: [
-				"To apply cosmetics",
-				"To invent or fabricate",
-				"To forgive",
-				"To reconcile"
+				"to apPLY cosMETics",
+				"to inVENT or FABricate",
+				"to forGIVE",
+				"to REConcile"
 			],
 			correctAnswer: 1,
-			explanation: "Make up có nghĩa là bịa đặt, sáng tạo, hoặc tạo ra một câu chuyện, lời giải thích không có thật. (Anh ấy không biết câu trả lời, vì vậy anh ấy quyết định bịa ra một câu chuyện.)"
+			explanation: "make UP có nghĩa là bịa đặt, sáng tạo, hoặc tạo ra một câu chuyện, lời giải thích không có thật. (Anh ấy không biết câu trả lời, vì vậy anh ấy quyết định bịa ra một câu chuyện.)"
 		},
 		{
 			id: 9,
-			question: "Remember to put on your seatbelt before you start driving. What does \"put on\" mean?",
+			question: "reMEMber to put ON your SEATbelt before you START DRIving. WHAT does \"put ON\" MEAN?",
 			options: [
-				"To take off",
-				"To discard",
-				"To wear or dress oneself in",
-				"To postpone"
+				"to take OFF",
+				"to disCARD",
+				"to WEAR or DRESS oneSELF in",
+				"to postPONE"
 			],
 			correctAnswer: 2,
-			explanation: "Put on có nghĩa là mặc quần áo, đội mũ, hoặc đeo thứ gì đó lên người. (Hãy nhớ thắt dây an toàn trước khi bạn bắt đầu lái xe.)"
+			explanation: "put ON có nghĩa là mặc quần áo, đội mũ, hoặc đeo thứ gì đó lên người. (Hãy nhớ thắt dây an toàn trước khi bạn bắt đầu lái xe.)"
 		},
 		{
 			id: 10,
-			question: "If you keep working hard, you will eventually catch up with your classmates in terms of performance. What does \"catch up (with)\" mean?",
+			question: "if you KEEP WORKing HARD, you will eVENtuallly catch UP with your CLASSmates in TERMS of perFORmance. WHAT does \"catch UP (with)\" MEAN?",
 			options: [
-				"To stay behind",
-				"To reach the same level as",
-				"To compete against",
-				"To criticize"
+				"to stay beHIND",
+				"to REACH the SAME LEVel as",
+				"to comPETE aGAINST",
+				"to CRITicize"
 			],
 			correctAnswer: 1,
-			explanation: "Catch up (with) có nghĩa là bắt kịp, theo kịp ai đó hoặc đạt được cùng mức độ, tiêu chuẩn với người khác. (Nếu bạn tiếp tục làm việc chăm chỉ, cuối cùng bạn sẽ bắt kịp các bạn cùng lớp về mặt thành tích.)"
+			explanation: "catch UP (with) có nghĩa là bắt kịp, theo kịp ai đó hoặc đạt được cùng mức độ, tiêu chuẩn với người khác. (Nếu bạn tiếp tục làm việc chăm chỉ, cuối cùng bạn sẽ bắt kịp các bạn cùng lớp về mặt thành tích.)"
 		}
 	];
 

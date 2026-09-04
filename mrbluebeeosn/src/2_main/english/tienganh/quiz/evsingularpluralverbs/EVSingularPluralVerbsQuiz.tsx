@@ -70,7 +70,7 @@ export default function EVSingularPluralVerbsQuiz(): React.JSX.Element {
 		},
 		{
 			id: 5,
-			question: "EVERy MAN, WOMan, and CHILD _______ the RIGHT to be HAPpy.",
+			question: "every MAN, WOMan, and CHILD _______ the RIGHT to be HAPpy.",
 			options: [
 				"has",
 				"have",
@@ -78,7 +78,7 @@ export default function EVSingularPluralVerbsQuiz(): React.JSX.Element {
 				"are having"
 			],
 			correctAnswer: 0,
-			explanation: "Khi danh chủ bắt đầu bằng \"EVERy\" hoặc \"EACH\", hành động luôn chia ở số ít bất kể có bao nhiêu Danh Cơ đi sau."
+			explanation: "Khi danh chủ bắt đầu bằng \"every\" hoặc \"EACH\", hành động luôn chia ở số ít bất kể có bao nhiêu Danh Cơ đi sau."
 		},
 		{
 			id: 6,

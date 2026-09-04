@@ -191,7 +191,7 @@ export default function perHAPS1(): React.JSX.Element {
 
           <ol>
 
-            <li value="1"><Link to="/vocabulary/MAYbe-1">MAYbe</Link> we can GO OUT for DINner toNIGHT.</li>
+            <li value="1"><Link to="/vocabulary/MAYbe-1">MAYbe</Link> we can go OUT for DINner toNIGHT.</li>
             <li className="list-none margin-bottom-20">Có lẽ tối nay chúng ta có thể đi ăn tối.</li>
             <li className="list-none margin-bottom-20">Thông dụng hơn và thường được sử dụng trong giao tiếp hàng ngày.</li>
 

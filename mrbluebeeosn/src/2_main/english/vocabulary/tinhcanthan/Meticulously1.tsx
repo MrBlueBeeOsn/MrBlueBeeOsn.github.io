@@ -122,7 +122,7 @@ export default function meTICulously1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>he CARElessly THREW aWAY the LETter.</li>
+          <li>he CARElessly threw aWAY the LETter.</li>
           <li className="margin-bottom-20 list-none">Anh ấy vứt bức thư đi một cách cẩu thả.</li>
 
           <li>she HAStily FINished her WORK.</li>

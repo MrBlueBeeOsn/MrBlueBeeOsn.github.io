@@ -130,7 +130,7 @@ export default function PhrasalVerbsQuestions(): React.JSX.Element {
 		},
 		{
 			id: 10,
-			question: "They are planning to set up a new branch office in London next year. What does \"set up\" mean?",
+			question: "They are planning to set UP a new branch office in London next year. What does \"set UP\" mean?",
 			options: [
 				"To decorate",
 				"To trick someone",
@@ -138,7 +138,7 @@ export default function PhrasalVerbsQuestions(): React.JSX.Element {
 				"To stand up"
 			],
 			correctAnswer: 2,
-			explanation: "To \"set up\" a business, system, or organization means to start or establish it."
+			explanation: "To \"set UP\" a business, system, or organization means to start or establish it."
 		}
 	];
 

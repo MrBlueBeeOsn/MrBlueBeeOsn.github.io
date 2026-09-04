@@ -66,7 +66,7 @@ export default function NguyenAmDon(): React.JSX.Element {
                 [exPENSE][ėx PENSE] /ɪkˈspens/<br/>
                 [SIT][SIT] /sɪt/<br/>
                 [WOMen][WȮM ėn] /ˈwɪm.ɪn/<br/>
-                [BUSIness][BU̇SI nėss] /ˈbɪz.nɪs/<br/>
+                [BUSINess][BU̇SI nėss] /ˈbɪz.nɪs/<br/>
                 [MYTH][MYTH] /mɪθ/
               </td>
             </tr>

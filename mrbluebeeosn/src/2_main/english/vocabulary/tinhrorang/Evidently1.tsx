@@ -83,7 +83,7 @@ export default function EVidently1(): React.JSX.Element {
           <li>there is NO EVidence to supPORT his CLAIM.</li>
           <li className="margin-bottom-20 list-none">Không có bằng chứng nào để chứng minh cho tuyên bố của anh ta.</li>
 
-          <li>the soLUtion is EVident to EVERyone.</li>
+          <li>the soLUtion is EVident to everyone.</li>
           <li className="list-none">Giải pháp rất rõ ràng đối với mọi người.</li>
 
         </ul>

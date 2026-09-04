@@ -65,7 +65,7 @@ export default function PAtiently2(): React.JSX.Element {
         <li value="3">the TEAcher PAtiently exPLAINED the LESson aGAIN.</li>
         <li className="list-none margin-bottom-20">Giáo viên kiên nhẫn giải thích lại bài học.</li>
 
-        <li value="4">she PAtiently TAUGHT her CHILD HOW to READ.</li>
+        <li value="4">she PAtiently TAUGHT her CHILD how to READ.</li>
         <li className="list-none margin-bottom-20">Cô ấy kiên nhẫn dạy con mình đọc.</li>
 
         <li value="5">they PAtiently WORKED on the DIFficult PROJect.</li>

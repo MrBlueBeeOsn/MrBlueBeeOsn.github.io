@@ -83,7 +83,7 @@ export default function NEVer2(): React.JSX.Element {
         <li value="9">i have NEVer in my LIFE SEEN such a BEAUtiful FLOWer.</li>
         <li className="list-none margin-bottom-20">Tôi chưa bao giờ trong đời thấy một bông hoa đẹp như vậy.</li>
 
-        <li value="10">NEVer GIVE UP on your DREAMS.</li>
+        <li value="10">NEVer give UP on your DREAMS.</li>
         <li className="list-none margin-bottom-20">Đừng bao giờ từ bỏ ước mơ của bạn.</li>
 
       </ol>

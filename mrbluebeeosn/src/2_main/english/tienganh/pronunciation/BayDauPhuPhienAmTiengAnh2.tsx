@@ -193,7 +193,7 @@ export default function BayDauPhuPhienAmTiengAnh2(): React.JSX.Element {
             <li>[exPENSE][ėx PENSE] /ɪkˈspens/</li>
             <li>[FIT][FIT] /fɪt/ (i có dấu chấm trong fit)</li>
             <li>[WOMen][WȮM ėn] /ˈwɪm.ɪn/</li>
-            <li>[BUSIness][BU̇SI nėss] /ˈbɪz.nɪs/</li>
+            <li>[BUSINess][BU̇SI nėss] /ˈbɪz.nɪs/</li>
             <li>[ACcurate][AC cư̇r a̛te] /ˈæk.jə.rət/</li>
             <li className="list-none">u̇+ư = /j+ə/</li>
           </ul>

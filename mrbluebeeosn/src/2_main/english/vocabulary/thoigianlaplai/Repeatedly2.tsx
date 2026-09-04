@@ -58,7 +58,7 @@ export default function rePEATedly2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1">she rePEATedly ASKED him to TURN DOWN the MUsic.</li>
+        <li value="1">she rePEATedly ASKED him to turn DOWN the MUsic.</li>
         <li className="list-none margin-bottom-20">Cô ấy liên tục yêu cầu anh ấy vặn nhỏ tiếng nhạc.</li>
 
         <li value="2">he rePEATedly FAILED his DRIving TEST.</li>

@@ -11,7 +11,7 @@
     "db:server": "json-server --watch src/data/db.json --port 3003",
     "lint": "eslint .",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -f -d dist --repo ..",
+    "deploy": "gh-pages -d dist",
     "build:db": "node generate-db.js",
     "db:generate": "node generate-db.js",
     "db:update-likes": "node update-likes-only.js",

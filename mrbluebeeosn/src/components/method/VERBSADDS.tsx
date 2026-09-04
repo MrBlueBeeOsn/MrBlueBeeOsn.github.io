@@ -48,7 +48,7 @@ export default function VERBSADDS(): React.JSX.Element {
           </p>
 
           <p className="example-sentence">
-            <span className="pill s">he...🆂</span> &nbsp;<span className="pill v">she...🆂</span> &nbsp;<span className="pill o">it...🆂</span> &nbsp;<span className="pill m">one...🆂</span> &nbsp;<span className="pill p">EVERyone...🆂</span>
+            <span className="pill s">he...🆂</span> &nbsp;<span className="pill v">she...🆂</span> &nbsp;<span className="pill o">it...🆂</span> &nbsp;<span className="pill m">one...🆂</span> &nbsp;<span className="pill p">everyone...🆂</span>
           </p>
 
           <p className="example-sentence">

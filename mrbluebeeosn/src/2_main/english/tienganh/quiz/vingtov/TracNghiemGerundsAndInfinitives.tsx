@@ -22,7 +22,7 @@ export default function TracNghiemGerundsAndInfinitives(): React.JSX.Element {
 	const questions: Question[] = [
 		{
 			id: 1,
-			question: "i am LOOKing FORward to _______ my OLD FRIENDS at the PARTy toNIGHT.",
+			question: "i am looking FORward to _______ my OLD FRIENDS at the PARTy toNIGHT.",
 			options: [
 				"MEET",
 				"MEETing",

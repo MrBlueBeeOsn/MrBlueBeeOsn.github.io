@@ -65,7 +65,7 @@ export default function exACTly2(): React.JSX.Element {
         <li value="3">my NEW PHONE is exACTly the SAME as my OLD ONE.</li>
         <li className="list-none margin-bottom-20">Điện thoại mới của tôi hoàn toàn giống với cái cũ.</li>
 
-        <li value="4">EVERything WENT exACTly as PLANNED for the PARTy.</li>
+        <li value="4">everything WENT exACTly as PLANNED for the PARTy.</li>
         <li className="list-none margin-bottom-20">Mọi thứ diễn ra đúng như kế hoạch cho bữa tiệc.</li>
 
         <li value="5">i'm NOT exACTly SURE what he MEANT by THAT.</li>

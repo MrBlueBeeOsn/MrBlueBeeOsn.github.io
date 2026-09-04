@@ -70,7 +70,7 @@ export default function EVPrimaryAuxiliaryVerbsQuiz(): React.JSX.Element {
 		},
 		{
 			id: 5,
-			question: "we ________ had MANy opporTUnities to PRACtice exCEL FUNCtions this MONTH.",
+			question: "we ________ had many opporTUnities to PRACtice exCEL FUNCtions this MONTH.",
 			options: [
 				"are",
 				"do",

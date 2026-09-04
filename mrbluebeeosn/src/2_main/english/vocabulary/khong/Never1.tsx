@@ -143,11 +143,11 @@ export default function NEVer1(): React.JSX.Element {
         <strong>&nbsp;với hình ảnh</strong>:
       </p>
 
-      <p className="text-indent-whole">Hãy tưởng tượng một chiếc bảng với dòng chữ "<strong>NEVer</strong> GIVE UP" (Không bao giờ bỏ cuộc), bạn có thể liên tưởng đến việc kiên trì theo đuổi mục tiêu.</p>
+      <p className="text-indent-whole">Hãy tưởng tượng một chiếc bảng với dòng chữ "<strong>NEVer</strong> give UP" (Không bao giờ bỏ cuộc), bạn có thể liên tưởng đến việc kiên trì theo đuổi mục tiêu.</p>
 
         <ul className="list-square">
 
-          <li>EVery TIME i FEEL like GIVing UP, i THINK of the "NEVer GIVE UP" SIGN and KEEP GOing.</li>
+          <li>EVery TIME i FEEL like GIVing UP, i THINK of the "NEVer give UP" SIGN and KEEP GOing.</li>
           <li className="list-none">Mỗi khi muốn bỏ cuộc, tôi nghĩ đến dòng chữ "Không bao giờ bỏ cuộc" và tiếp tục cố gắng.</li>
 
         </ul>

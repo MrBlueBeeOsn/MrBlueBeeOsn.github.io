@@ -60,7 +60,7 @@ export default function Usually1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>i Usually GET UP at 7 AM.</li>
+          <li>i Usually get UP at 7 AM.</li>
           <li className="margin-bottom-20 list-none">Tôi thường thức dậy lúc 7 giờ sáng.</li>
 
           <li>we Usually GO to the MOvies on WEEKends.</li>
@@ -83,7 +83,7 @@ export default function Usually1(): React.JSX.Element {
           <li>THIS is my USual rouTINE.</li>
           <li className="margin-bottom-20 list-none">Đây là thói quen thường ngày của tôi.</li>
 
-          <li>i USE this PEN EVERy DAY.</li>
+          <li>i USE this PEN every DAY.</li>
           <li className="list-none">Tôi dùng cây bút này mỗi ngày.</li>
 
         </ul>

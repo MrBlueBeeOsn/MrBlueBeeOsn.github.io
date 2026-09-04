@@ -46,7 +46,7 @@ export default function EVSingularPluralNounsQuiz(): React.JSX.Element {
 		},
 		{
 			id: 3,
-			question: "MANy ________ are PLAYing in the PARK toDAY.",
+			question: "many ________ are PLAYing in the PARK toDAY.",
 			options: [
 				"CHILDS",
 				"CHILDren",
@@ -94,7 +94,7 @@ export default function EVSingularPluralNounsQuiz(): React.JSX.Element {
 		},
 		{
 			id: 7,
-			question: "HOW MANy ________ did you CATCH during the FISHing TRIP?",
+			question: "HOW many ________ did you CATCH during the FISHing TRIP?",
 			options: [
 				"FISH",
 				"FISHes",

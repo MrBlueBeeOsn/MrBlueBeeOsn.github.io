@@ -83,7 +83,7 @@ export default function toMORrow1(): React.JSX.Element {
           <li>toMORrow is my BIRTHday.</li>
           <li className="margin-bottom-20 list-none">Ngày mai là sinh nhật của tôi.</li>
 
-          <li>​​EVERy DAY i GO to SCHOOL.</li>
+          <li>​​every DAY i GO to SCHOOL.</li>
           <li className="list-none">Mỗi ngày tôi đều đi học.</li>
 
         </ul>

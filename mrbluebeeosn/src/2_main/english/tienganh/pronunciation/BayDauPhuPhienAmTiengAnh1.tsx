@@ -270,7 +270,7 @@ export default function BayDauPhuPhienAmTiengAnh1(): React.JSX.Element {
 
             <tr>
                 <td><strong>u̇</strong> = /ɪ/</td>
-                <td>[BUSIness][BU̇SI nėss] /ˈbɪz.nɪs/</td>
+                <td>[BUSINess][BU̇SI nėss] /ˈbɪz.nɪs/</td>
             </tr>
 
             <tr>
@@ -510,7 +510,7 @@ export default function BayDauPhuPhienAmTiengAnh1(): React.JSX.Element {
       
           <li>[WOMen][WȮM ėn] wȯmėn</li>
       
-          <li>[BUSIness][BU̇SI nėss] /ˈbɪz.nɪs/</li>
+          <li>[BUSINess][BU̇SI nėss] /ˈbɪz.nɪs/</li>
 
           <li>[FIT][FIT] /fɪt/</li> 
       

@@ -83,7 +83,7 @@ export default function toDAY1(): React.JSX.Element {
           <li>toDAY is a BEAUtiful DAY.</li>
           <li className="margin-bottom-20 list-none">Hôm nay là một ngày đẹp trời.</li>
 
-          <li>EVERy DAY i GO to SCHOOL.</li>
+          <li>every DAY i GO to SCHOOL.</li>
           <li className="list-none">Mỗi ngày tôi đều đi học.</li>
 
         </ul>

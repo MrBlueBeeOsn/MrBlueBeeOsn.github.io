@@ -81,7 +81,7 @@ export default function proDUCtively2(): React.JSX.Element {
         <li value="8">he proDUCtively LEARNED the NEW SOFTware by PRACticing REGularly.</li>
         <li className="list-none margin-bottom-20">Anh ấy đã học phần mềm mới một cách hiệu quả bằng cách luyện tập thường xuyên.</li>
 
-        <li value="9">hey proDUCtively PLANNED the eVENT to enSURE EVERything RAN SMOOTHly.</li>
+        <li value="9">hey proDUCtively PLANNED the eVENT to enSURE everything RAN SMOOTHly.</li>
         <li className="list-none margin-bottom-20">Họ đã lên kế hoạch cho sự kiện một cách hiệu quả để đảm bảo mọi thứ diễn ra suôn sẻ.</li>
 
         <li value="10">each MEMber proDUCtively conTRIButed their SKILLS to the TEAM'S sucCESS.</li>

@@ -378,7 +378,7 @@ export default function SV1(): React.JSX.Element {
 
 				<ul className="list-square">
 			
-					<li>EVERyone KNOWS [that WAter BOILS at ONE HUNdred deGREES].</li>
+					<li>everyone KNOWS [that WAter BOILS at ONE HUNdred deGREES].</li>
 					<li className="margin-bottom-20 list-none">Mọi người đều biết [rằng nước sôi ở 100 độ].</li>
 			
 					<li className="list-none">Hình thái: [that WAter BOILS at ONE HUNdred deGREES] - [Liên Câu][Conjunctional Clause] tạo nên khối hành động phức có chứa hệ trục [Danh Chủ][Noun Subject] "WAter" và [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "BOILS", bắt đầu bằng [Liên Cơ][Conjunctional Base] "that".</li>

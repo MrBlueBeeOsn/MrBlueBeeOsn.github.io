@@ -48,13 +48,13 @@ export default function TiengAnhQuestions(): React.JSX.Element {
 			id: 3,
 			question: "despite the HEAVy RAIN, the FOOTball MATCH was NOT _______.",
 			options: [
-				"PUT OFF",
-				"PUT ON",
+				"put OFF",
+				"put ON",
 				"PUT UP",
-				"PUT aWAY"
+				"put aWAY"
 			],
 			correctAnswer: 0,
-			explanation: "PUT OFF là động cụm (PHRAsal VERB) có nghĩa là hoãn lại (postPONE). Câu này có nghĩa: Mặc dù trời mưa to, trận đấu bóng đá đã không bị hoãn lại."
+			explanation: "put OFF là động cụm (PHRAsal VERB) có nghĩa là hoãn lại (postPONE). Câu này có nghĩa: Mặc dù trời mưa to, trận đấu bóng đá đã không bị hoãn lại."
 		},
 		{
 			id: 4,
@@ -70,7 +70,7 @@ export default function TiengAnhQuestions(): React.JSX.Element {
 		},
 		{
 			id: 5,
-			question: "she is LOOKing FORward _______ her GRANDparents NEXT WEEK.",
+			question: "she is looking FORward _______ her GRANDparents NEXT WEEK.",
 			options: [
 				"to SEEing",
 				"to SEE",

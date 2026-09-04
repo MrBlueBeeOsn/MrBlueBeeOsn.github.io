@@ -65,7 +65,7 @@ export default function RAREly2(): React.JSX.Element {
         <li value="3">the TOPic is RAREly MENtioned in PUBlic.</li>
         <li className="list-none margin-bottom-20">Chủ đề đó hiếm khi được nhắc đến công khai.</li>
 
-        <li value="4">that WORD is RAREly USED in EVERyday converSAtion.</li>
+        <li value="4">that WORD is RAREly USED in everyday converSAtion.</li>
         <li className="list-none margin-bottom-20">Từ đó hiếm khi được sử dụng trong cuộc nói chuyện hàng ngày.</li>
 
         <li value="5">ANcient ARtifacts are RAREly FOUND in this REgion.</li>

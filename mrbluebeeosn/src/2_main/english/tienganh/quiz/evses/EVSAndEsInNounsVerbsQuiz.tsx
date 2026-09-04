@@ -34,7 +34,7 @@ export default function EVSAndEsInNounsVerbs(): React.JSX.Element {
 		},
 		{
 			id: 2,
-			question: "there are MANy _______ GRAzing in the FIELD.",
+			question: "there are many _______ GRAzing in the FIELD.",
 			options: [
 				"toMAto",
 				"toMAtos",
@@ -106,7 +106,7 @@ export default function EVSAndEsInNounsVerbs(): React.JSX.Element {
 		},
 		{
 			id: 8,
-			question: "HOW MANy _______ did you BUY for the PARTy?",
+			question: "HOW many _______ did you BUY for the PARTy?",
 			options: [
 				"BOXS",
 				"BOXies",
@@ -118,7 +118,7 @@ export default function EVSAndEsInNounsVerbs(): React.JSX.Element {
 		},
 		{
 			id: 9,
-			question: "he _______ to WORK by BUS EVERy DAY.",
+			question: "he _______ to WORK by BUS every DAY.",
 			options: [
 				"GO",
 				"GOES",

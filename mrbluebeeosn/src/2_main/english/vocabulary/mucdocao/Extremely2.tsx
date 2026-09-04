@@ -74,7 +74,7 @@ export default function exTREMEly2(): React.JSX.Element {
         <li value="6">the SUNset was exTREMEly BEAUtiful.</li>
         <li className="list-none margin-bottom-20">Hoàng hôn rất đẹp.</li>
 
-        <li value="7">he is an exTREMEly RICH BUSInessman.</li>
+        <li value="7">he is an exTREMEly RICH BUSINessman.</li>
         <li className="list-none margin-bottom-20">Ông ấy là một doanh nhân rất giàu có.</li>
 
         <li value="8">it's exTREMEly COLD outSIDE toDAY.</li>

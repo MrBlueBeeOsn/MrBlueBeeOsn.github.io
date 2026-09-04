@@ -62,7 +62,7 @@ export default function sinCEREly2(): React.JSX.Element {
         <li value="2"> sinCEREly apPREciate your HELP.</li>
         <li className="list-none margin-bottom-20">Tôi rất trân trọng sự giúp đỡ của bạn.</li>
 
-        <li value="3">i sinCEREly HOPE that EVERything GOES WELL for you.</li>
+        <li value="3">i sinCEREly HOPE that everything GOES WELL for you.</li>
         <li className="list-none margin-bottom-20">Tôi thật lòng hy vọng mọi việc sẽ diễn ra tốt đẹp với bạn.</li>
 
         <li value="4">sinCEREly YOURS.</li>

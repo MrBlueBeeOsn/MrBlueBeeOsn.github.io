@@ -22,7 +22,7 @@ export default function EVNounClausesQuiz(): React.JSX.Element {
 	const questions: Question[] = [
 		{
 			id: 1,
-			question: "________ MADE EVERyone in the room LAUGH was his hiLARious imiTAtion of the BOSS.",
+			question: "________ MADE everyone in the room LAUGH was his hiLARious imiTAtion of the BOSS.",
 			options: [
 				"what",
 				"that",
@@ -30,7 +30,7 @@ export default function EVNounClausesQuiz(): React.JSX.Element {
 				"whatever"
 			],
 			correctAnswer: 0,
-			explanation: "Cụm từ đóng vai trò làm danh chủ trong câu này cần một câu con danh cơ. \"what\" đóng vai trò là danh chủ bên trong câu con Danh Cơ đó (what MADE EVERyone... = Điều mà đã làm cho mọi người...). \"that\" không thể làm danh chủ của hành động \"MADE\" trong ngữ cảnh này nếu không có một Danh Cơ đi trước."
+			explanation: "Cụm từ đóng vai trò làm danh chủ trong câu này cần một câu con danh cơ. \"what\" đóng vai trò là danh chủ bên trong câu con Danh Cơ đó (what MADE everyone... = Điều mà đã làm cho mọi người...). \"that\" không thể làm danh chủ của hành động \"MADE\" trong ngữ cảnh này nếu không có một Danh Cơ đi trước."
 		},
 		{
 			id: 2,

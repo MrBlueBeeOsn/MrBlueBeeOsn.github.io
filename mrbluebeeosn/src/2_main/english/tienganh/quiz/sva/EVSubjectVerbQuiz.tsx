@@ -46,7 +46,7 @@ export default function EVSubjectVerbQuiz(): React.JSX.Element {
 		},
 		{
 			id: 3,
-			question: "the TEAM _______ PRACtice EVERy MORNing at SIX A.M.",
+			question: "the TEAM _______ PRACtice every MORNing at SIX A.M.",
 			options: [
 				"do",
 				"PRACtices",
@@ -130,7 +130,7 @@ export default function EVSubjectVerbQuiz(): React.JSX.Element {
 		},
 		{
 			id: 10,
-			question: "EVERyone in the OFfice _______ to atTEND the MEETing toMORrow.",
+			question: "everyone in the OFfice _______ to atTEND the MEETing toMORrow.",
 			options: [
 				"NEED",
 				"NEEDS",
@@ -138,7 +138,7 @@ export default function EVSubjectVerbQuiz(): React.JSX.Element {
 				"have NEEDed"
 			],
 			correctAnswer: 1,
-			explanation: "Các đại cơ bất định (EVERyone, SOMEone, NO one, EVERything...) luôn đi kèm với hành động chia ở số ít."
+			explanation: "Các đại cơ bất định (everyone, SOMEone, NO one, everything...) luôn đi kèm với hành động chia ở số ít."
 		}
 	];
 

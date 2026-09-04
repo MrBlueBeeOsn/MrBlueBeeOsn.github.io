@@ -224,7 +224,7 @@ export default function SuperWords1(): React.JSX.Element {
 				<ul className="list-square">
 			
 					<li>exPANDing [Tiếp Động Cơ][Progressive Verb Base] + the business [Danh Nhận][Noun Object]</li>
-					<li className="margin-bottom-20 list-none">→ exPANDing the BUSIness [Tiếp Động Cụm][Progressive Verb Phrase].</li>
+					<li className="margin-bottom-20 list-none">→ exPANDing the BUSINess [Tiếp Động Cụm][Progressive Verb Phrase].</li>
 			
 				</ul>
 			
