@@ -56,7 +56,7 @@ export default function SCRUpulously2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1">the SURgeon SCRUpulously CLEANED his HANDS before the operAtion.</li>
+        <li value="1">the SURgeon SCRUpulously CLEANED his HANDS be<strong>fore</strong> the operAtion.</li>
         <li className="list-none margin-bottom-20">Bác sĩ phẫu thuật làm sạch tay một cách tỉ mỉ trước khi phẫu thuật.</li>
 
         <li value="2">the acCOUNtant SCRUpulously FOLlowed the reguLAtions.</li>

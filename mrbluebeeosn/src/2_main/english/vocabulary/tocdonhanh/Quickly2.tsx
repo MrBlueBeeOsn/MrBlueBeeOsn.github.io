@@ -77,7 +77,7 @@ export default function QUICKly2(): React.JSX.Element {
         <li value="7">the PROBlem was QUICKly SOLVED.</li>
         <li className="list-none margin-bottom-20">Vấn đề đã được giải quyết nhanh chóng.</li>
 
-        <li value="8">after a LONG DAY, i was QUICKly TIred.</li>
+        <li value="8"><strong>af</strong>ter a LONG DAY, i was QUICKly TIred.</li>
         <li className="list-none margin-bottom-20">Sau một ngày dài, tôi nhanh chóng cảm thấy mệt mỏi.</li>
 
         <li value="9">she QUICKly beCAME BORED with the MOVie.</li>

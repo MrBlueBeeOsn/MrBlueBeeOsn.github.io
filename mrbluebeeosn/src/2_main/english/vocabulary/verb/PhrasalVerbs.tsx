@@ -85,7 +85,7 @@ export default function PhrasalVerbs(): React.JSX.Element {
 					<li value="9">i <strong>get aLONG</strong> REally WELL with my NEW BOSS.</li>
 					<li className="margin-bottom-20 list-none">Tôi <strong>hòa hợp</strong> rất tốt với sếp mới của mình.</li>
 			
-					<li value="10">we USually <strong>hang OUT</strong> at the caFÉ after CLASS.</li>
+					<li value="10">we USually <strong>hang OUT</strong> at the caFÉ <strong>af</strong>ter CLASS.</li>
 					<li className="margin-bottom-20 list-none">Chúng tôi thường <strong>đi chơi</strong> ở quán cà phê sau giờ học.</li>
 
 					<li value="11">my CAR <strong>broke DOWN</strong> on the HIGHway YESterday.</li>
@@ -164,7 +164,7 @@ export default function PhrasalVerbs(): React.JSX.Element {
 					<li>i USually <strong>wake UP</strong> at SIX AM every DAY, EVEN on WEEKends.</li>
 					<li className="margin-bottom-20 list-none">Tôi thường <strong>thức dậy</strong> lúc 6 giờ sáng mỗi ngày, kể cả vào cuối tuần.</li>
 			
-					<li>after the aLARM CLOCK RANG, it TOOK her TEN MINutes to FINally <strong>get UP</strong>.</li>
+					<li><strong>af</strong>ter the aLARM CLOCK RANG, it TOOK her TEN MINutes to FINally <strong>get UP</strong>.</li>
 					<li className="margin-bottom-20 list-none">Sau khi chuông đồng hồ báo thức reo, cô ấy mất mười phút để thực sự <strong>rời khỏi</strong> giường.</li>
 
 					<li>PLEASE <strong>turn</strong> ON the AIR conDITioner be<strong>cause</strong> it is GETting VERy HOT in <strong>this</strong> ROOM.</li>
@@ -180,13 +180,13 @@ export default function PhrasalVerbs(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>she BOUGHT him his FAVORite ICE CREAM to <strong>cheer UP</strong> after he FAILED his DRIving test.</li>
+					<li>she BOUGHT him his FAVORite ICE CREAM to <strong>cheer UP</strong> <strong>af</strong>ter he FAILED his DRIving test.</li>
 					<li className="margin-bottom-20 list-none">Cô ấy mua cho anh ấy món kem yêu thích để làm anh <strong>vui lên</strong> sau khi anh trượt bài kiểm tra lái xe.</li>
 			
-					<li>TAKE a DEEP BREATH and <strong>calm DOWN</strong> before you MAKE any HASty deCISions.</li>
+					<li>TAKE a DEEP BREATH and <strong>calm DOWN</strong> be<strong>fore</strong> you MAKE any HASty deCISions.</li>
 					<li className="margin-bottom-20 list-none">Hãy hít một hơi thật sâu và <strong>bình tĩnh lại</strong> trước khi bạn đưa ra bất kỳ quyết định vội vàng nào.</li>
 
-					<li>she COULdn't hold BACK her eMOtions anyMORE and <strong>broke DOWN</strong> in TEARS after HEARing the BAD NEWS.</li>
+					<li>she COULdn't hold BACK her eMOtions anyMORE and <strong>broke DOWN</strong> in TEARS <strong>af</strong>ter HEARing the BAD NEWS.</li>
 					<li className="margin-bottom-20 list-none">Cô ấy không thể kìm nén cảm xúc của mình nữa và đã <strong>suy sụp</strong> oà khóc sau khi nghe tin xấu.</li>
 			
 					<li>it TOOK him a LONG TIME to <strong>get Over</strong> the HEARTbreak of their BREAKup.</li>

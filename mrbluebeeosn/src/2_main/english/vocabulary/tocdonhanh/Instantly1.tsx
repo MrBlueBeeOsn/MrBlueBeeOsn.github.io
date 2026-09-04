@@ -151,7 +151,7 @@ export default function INstantly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>as SOON as i TURNED on the SWITCH, the LIGHT BULB CAME on INstantly.</li>
+          <li>as <strong>soon</strong> as i TURNED on the SWITCH, the LIGHT BULB CAME on INstantly.</li>
           <li className="list-none">Ngay khi tôi bật công tắc, bóng đèn sáng lên ngay lập tức.</li>
 
         </ul>
@@ -171,7 +171,7 @@ export default function INstantly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>she FELL aSLEEP INstantly after she CLOSED her EYES.</li>
+          <li>she FELL aSLEEP INstantly <strong>af</strong>ter she CLOSED her EYES.</li>
           <li className="list-none">Cô ấy ngủ thiếp đi ngay lập tức sau khi nhắm mắt lại.</li>
 
         </ul>

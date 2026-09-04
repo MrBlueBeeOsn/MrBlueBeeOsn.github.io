@@ -381,12 +381,12 @@ export default function Clear(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>they made the decision [after a clear explanation].</li>
+          <li>they made the decision [<strong>af</strong>ter a clear explanation].</li>
           <li className="margin-bottom-20 list-none">Họ đã đưa ra quyết định [sau một lời giải thích rõ ràng].</li>
       
-          <li className="list-none">Hình thái: [after a clear explanation] - [Giới Cụm][Prepositional Phrase] xuất hiện dưới dạng một vùng mã xác lập thời điểm, bắt đầu bằng [Giới Cơ] "after".</li>
+          <li className="list-none">Hình thái: [<strong>af</strong>ter a clear explanation] - [Giới Cụm][Prepositional Phrase] xuất hiện dưới dạng một vùng mã xác lập thời điểm, bắt đầu bằng [Giới Cơ] "after".</li>
       
-          <li className="list-none">Chức năng: [after a clear explanation] - [Trạng Cụm][Adverb Phrase] đảm nhận vai trò làm một khối bối cảnh thời gian đứng sau để xác định cơ sở cho hành động "made the decision".</li>
+          <li className="list-none">Chức năng: [<strong>af</strong>ter a clear explanation] - [Trạng Cụm][Adverb Phrase] đảm nhận vai trò làm một khối bối cảnh thời gian đứng sau để xác định cơ sở cho hành động "made the decision".</li>
       
         </ul>
 
@@ -764,12 +764,12 @@ export default function Clear(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>we started the implementation [after a clear briefing].</li>
+          <li>we started the implementation [<strong>af</strong>ter a clear briefing].</li>
           <li className="margin-bottom-20 list-none">Chúng tôi đã bắt đầu việc triển khai [sau một buổi hướng dẫn rõ ràng].</li>
       
-          <li className="list-none">Hình thái gốc: [after a clear briefing] - [Giới Cụm][Prepositional Phrase] bắt đầu bằng [Giới Cơ] chỉ mốc thời gian "after" để kéo theo khối [Danh Nhận][Noun Object] phía sau.</li>
+          <li className="list-none">Hình thái gốc: [<strong>af</strong>ter a clear briefing] - [Giới Cụm][Prepositional Phrase] bắt đầu bằng [Giới Cơ] chỉ mốc thời gian "<strong>af</strong>ter " để kéo theo khối [Danh Nhận][Noun Object] phía sau.</li>
       
-          <li className="list-none">Chức năng: [after a clear briefing] - [Trạng Cụm][Adverb Phrase] thực thi vai trò làm khối bối cảnh thời gian đứng sau để xác định cơ sở cho hành động chính.</li>
+          <li className="list-none">Chức năng: [<strong>af</strong>ter a clear briefing] - [Trạng Cụm][Adverb Phrase] thực thi vai trò làm khối bối cảnh thời gian đứng sau để xác định cơ sở cho hành động chính.</li>
       
         </ul>
       

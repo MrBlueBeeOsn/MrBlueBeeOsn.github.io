@@ -68,13 +68,13 @@ export default function GRADually2(): React.JSX.Element {
         <li value="4">the CLImate GRADually CHANGED over MILlions of YEARS.</li>
         <li className="list-none margin-bottom-20">Khí hậu thay đổi dần trong hàng triệu năm.</li>
 
-        <li value="5">his ENGlish GRADually imPROVED after STUDying for a YEAR.</li>
+        <li value="5">his ENGlish GRADually imPROVED <strong>af</strong>ter STUDying for a YEAR.</li>
         <li className="list-none margin-bottom-20">Tiếng Anh của anh ấy cải thiện dần sau khi học một năm.</li>
 
         <li value="6">the SUNlight GRADually FADed as the DAY TURNED into NIGHT.</li>
         <li className="list-none margin-bottom-20">Ánh nắng mặt trời dần dần mờ nhạt khi ngày chuyển sang đêm.</li>
 
-        <li value="7">the PAIN GRADually disapPEARED after TAKing the MEDicine.</li>
+        <li value="7">the PAIN GRADually disapPEARED <strong>af</strong>ter TAKing the MEDicine.</li>
         <li className="list-none margin-bottom-20">Cơn đau dần dần biến mất sau khi uống thuốc.</li>
 
         <li value="8">the CIty GRADually deVELoped into a MAjor meTROPolis.</li>
@@ -83,7 +83,7 @@ export default function GRADually2(): React.JSX.Element {
         <li value="9">she GRADually aDAPTed to the NEW enVIronment.</li>
         <li className="list-none margin-bottom-20">Cô ấy dần dần thích nghi với môi trường mới.</li>
 
-        <li value="10">his HEALTH GRADually deCLINED after the ACcident.</li>
+        <li value="10">his HEALTH GRADually deCLINED <strong>af</strong>ter the ACcident.</li>
         <li className="list-none margin-bottom-20">Sức khỏe của ông ấy dần dần suy giảm sau tai nạn.</li>
 
       </ol>

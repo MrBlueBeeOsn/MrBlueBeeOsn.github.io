@@ -151,7 +151,7 @@ export default function Usually1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>i Usually GO for a RUN after BREAKfast, as MARKED on my SCHEDule.</li>
+          <li>i Usually GO for a RUN <strong>af</strong>ter BREAKfast, as MARKED on my SCHEDule.</li>
           <li className="list-none">Tôi thường đi chạy bộ sau bữa sáng, như đã đánh dấu trên lịch trình của tôi.</li>
 
         </ul>

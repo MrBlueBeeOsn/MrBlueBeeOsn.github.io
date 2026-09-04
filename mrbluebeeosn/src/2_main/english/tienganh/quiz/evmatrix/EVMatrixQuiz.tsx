@@ -72,13 +72,13 @@ export default function EVMatrixQuiz(): React.JSX.Element {
 		},
 		{
 			id: 6,
-			question: "they will LEAVE [as SOON as the RAIN STOPS]. \n Họ sẽ rời đi [ngay khi cơn mưa tạnh].",
+			question: "they will LEAVE [as soon as the RAIN STOPS]. \n Họ sẽ rời đi [ngay khi cơn mưa tạnh].",
 			options: [
 				"[Adjective Clause]",
 				"[Adverb Clause]"
 			],
 			correctAnswer: 1,
-			explanation: "Hình thái: [as SOON as the RAIN STOPS] - [Liên Câu][Conjunctional Clause] bắt đầu bằng thành phần kết nối đi kèm kết cấu chủ-hành vi hoàn chỉnh (the rain stops) đã chia thời gian. \n\n Chức năng: [as SOON as the RAIN STOPS] - [Trạng Câu][Adverb Clause] liên kết vào cấu trúc để xác định mốc thời gian diễn ra cho toàn bộ phần thông tin chính \"they will LEAVE\"."
+			explanation: "Hình thái: [as soon as the RAIN STOPS] - [Liên Câu][Conjunctional Clause] bắt đầu bằng thành phần kết nối đi kèm kết cấu chủ-hành vi hoàn chỉnh (the rain stops) đã chia thời gian. \n\n Chức năng: [as soon as the RAIN STOPS] - [Trạng Câu][Adverb Clause] liên kết vào cấu trúc để xác định mốc thời gian diễn ra cho toàn bộ phần thông tin chính \"they will LEAVE\"."
 		},
 		{
 			id: 7,

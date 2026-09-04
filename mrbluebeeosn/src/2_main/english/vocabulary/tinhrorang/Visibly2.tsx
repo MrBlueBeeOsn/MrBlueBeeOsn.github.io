@@ -60,16 +60,16 @@ export default function VISibly1(): React.JSX.Element {
         <li className="list-none">The children were visibly excited about the upcoming trip.</li>
         <li className="list-none margin-bottom-20">Những đứa trẻ rõ ràng rất phấn khích về chuyến đi sắp tới.</li>
 
-        <li value="2">she was VISibly upSET after HEARing the BAD NEWS.</li>
+        <li value="2">she was VISibly upSET <strong>af</strong>ter HEARing the BAD NEWS.</li>
         <li className="list-none margin-bottom-20">Cô ấy rõ ràng rất buồn sau khi nghe tin xấu.</li>
 
-        <li value="3">he was VISibly SHAKen after the ACcident.</li>
+        <li value="3">he was VISibly SHAKen <strong>af</strong>ter the ACcident.</li>
         <li className="list-none margin-bottom-20">Anh ấy rõ ràng rất hoảng loạn sau vụ tai nạn.</li>
 
         <li value="4">she was VISibly reLIEVED when she FOUND her LOST KEYS.</li>
         <li className="list-none margin-bottom-20">Cô ấy rõ ràng rất nhẹ nhõm khi tìm thấy chìa khóa bị mất.</li>
 
-        <li value="5">after YEARS of HARD WORK, he LOOKED VISibly AGED.</li>
+        <li value="5"><strong>af</strong>ter YEARS of HARD WORK, he LOOKED VISibly AGED.</li>
         <li className="list-none margin-bottom-20">Sau nhiều năm làm việc chăm chỉ, anh ấy trông già đi rõ rệt.</li>
 
         <li value="6">her HEALTH has VISibly imPROVED since she STARted EXercising.</li>
@@ -78,7 +78,7 @@ export default function VISibly1(): React.JSX.Element {
         <li value="7">his FACE was VISibly STRAINED as he LIFted the HEAVy BOX.</li>
         <li className="list-none margin-bottom-20">Gương mặt anh ấy rõ ràng rất căng thẳng khi nâng chiếc hộp nặng.</li>
 
-        <li value="8">she was VISibly NERvous before her SPEECH.</li>
+        <li value="8">she was VISibly NERvous be<strong>fore</strong> her SPEECH.</li>
         <li className="list-none margin-bottom-20">Cô ấy rõ ràng rất lo lắng trước bài phát biểu của mình.</li>
 
         <li value="9">he was VISibly unCOMFORTable when they ASKED about his PAST.</li>

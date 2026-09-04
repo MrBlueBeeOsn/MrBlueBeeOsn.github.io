@@ -60,7 +60,7 @@ export default function HAPpily1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>they LIVED HAPpily EVer after.</li>
+          <li>they LIVED HAPpily EVer AFter.</li>
           <li className="margin-bottom-20 list-none">Họ sống hạnh phúc mãi mãi.</li>
 
           <li>she SMILED HAPpily.</li>
@@ -125,7 +125,7 @@ export default function HAPpily1(): React.JSX.Element {
           <li>SADly, he LOST his JOB.</li>
           <li className="margin-bottom-20 list-none">Buồn thay, anh ấy mất việc.</li>
 
-          <li>she LIVED unHAPpily EVer after.</li>
+          <li>she LIVED unHAPpily EVer AFter.</li>
           <li className="list-none">Cô ấy sống bất hạnh mãi mãi.</li>
 
         </ul>

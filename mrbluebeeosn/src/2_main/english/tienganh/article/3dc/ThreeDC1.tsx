@@ -587,20 +587,20 @@ export default function ThreeDC1(): React.ReactElement {
 			
 				<ul className="list-square">
 			
-					<li>they rediSIGNED the NETwork [because of {'{HOW FREquently the SERver CRASHED}'}].</li>
+					<li>they rediSIGNED the NETwork [be<strong>cause</strong> of {'{HOW FREquently the SERver CRASHED}'}].</li>
 					<li className="margin-bottom-20 list-none">Họ đã thiết kế lại hệ thống mạng [bởi vì {'{máy chủ đã trục trặc thường xuyên như thế nào}'}].</li>
 
 					<li className="list-none">Hình thái:</li>
 
-					<li className="list-none">Khối tổng thể [because of {'{HOW FREquently the SERver CRASHED}'}] là một [Tầng Phức Giới Cụm][Tiered Complex Prepositional Phrase] bắt đầu bằng [Phức Giới Cơ][Complex Prepositional Base] "because of".</li>
+					<li className="list-none">Khối tổng thể [be<strong>cause</strong> of {'{HOW FREquently the SERver CRASHED}'}] là một [Tầng Phức Giới Cụm][Tiered Complex Prepositional Phrase] bắt đầu bằng [Phức Giới Cơ][Complex Prepositional Base] "be<strong>cause</strong> of".</li>
 
 					<li className="margin-bottom-20 list-none">Bên trong bao gói {'{HOW FREquently the SERver CRASHED}'} là một [Liên Câu][Conjunctional Clause] bắt đầu bằng tổ hợp tuyến tính gồm [Liên Cơ][Conjunctional Base] "HOW" kết hợp cùng [Trạng Cơ][Adverb Base] "FREquently".</li>
 			
 					<li className="list-none">Chức năng:</li>
 
-					<li className="list-none">Khối {'{HOW FREquently the SERver CRASHED}'} bên trong thực thi chức năng [Danh Câu][Noun Clause] làm [Danh Nhận][Noun Object] nhận quan hệ trực tiếp đứng sau [Phức Giới Cơ][Complex Prepositional Base] because of.</li>
+					<li className="list-none">Khối {'{HOW FREquently the SERver CRASHED}'} bên trong thực thi chức năng [Danh Câu][Noun Clause] làm [Danh Nhận][Noun Object] nhận quan hệ trực tiếp đứng sau [Phức Giới Cơ][Complex Prepositional Base] be<strong>cause</strong> of.</li>
 
-					<li className="list-none">Toàn bộ khối hỗn hợp [because of {'{HOW FREquently the SERver CRASHED}'}] thực thi chức năng [<strong>Trạng Cụm</strong>][<strong>Adverb Phrase</strong>] tổng thể đứng cuối để bổ nghĩa hoàn cảnh nguyên nhân cho [Thời-Thuần Động Cơ][Tense-Bare Verb Base] rediSIGNED.</li>
+					<li className="list-none">Toàn bộ khối hỗn hợp [be<strong>cause</strong> of {'{HOW FREquently the SERver CRASHED}'}] thực thi chức năng [<strong>Trạng Cụm</strong>][<strong>Adverb Phrase</strong>] tổng thể đứng cuối để bổ nghĩa hoàn cảnh nguyên nhân cho [Thời-Thuần Động Cơ][Tense-Bare Verb Base] rediSIGNED.</li>
 			
 				</ul>
 	
@@ -618,12 +618,12 @@ export default function ThreeDC1(): React.ReactElement {
 			
 				<ul className="list-square">
 			
-					<li>the SYStem CRASHED [because the inTERnal TEMPERature EScalated RAPidly].</li>
+					<li>the SYStem CRASHED [be<strong>cause</strong> the inTERnal TEMPERature EScalated RAPidly].</li>
 					<li className="margin-bottom-20 list-none">Hệ thống đã gặp sự cố [vì nhiệt độ bên trong leo thang nhanh chóng].</li>
 			
-					<li className="list-none">Hình thái: Khối [because the inTERnal TEMPERature EScalated RAPidly] - [Liên Câu][Conjunctional Clause] bắt đầu bằng [Liên Cơ][Conjunctional Base] "because" kết hợp với cấu trúc khối hoàn chỉnh có [Danh Chủ][Noun Subject] "the inTERnal TEMPERature" và [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "EScalated".</li>
+					<li className="list-none">Hình thái: Khối [be<strong>cause</strong> the inTERnal TEMPERature EScalated RAPidly] - [Liên Câu][Conjunctional Clause] bắt đầu bằng [Liên Cơ][Conjunctional Base] "be<strong>cause</strong>" kết hợp với cấu trúc khối hoàn chỉnh có [Danh Chủ][Noun Subject] "the inTERnal TEMPERature" và [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "EScalated".</li>
 			
-					<li className="list-none">Chức năng: Khối [because the inTERnal TEMPERature EScalated RAPidly] - [Trạng Câu][Adverb Clause] thực hiện vai trò bổ nghĩa hoàn cảnh nguyên nhân cho hành động sập hệ thống được xác định bởi "CRASHED".</li>
+					<li className="list-none">Chức năng: Khối [be<strong>cause</strong> the inTERnal TEMPERature EScalated RAPidly] - [Trạng Câu][Adverb Clause] thực hiện vai trò bổ nghĩa hoàn cảnh nguyên nhân cho hành động sập hệ thống được xác định bởi "CRASHED".</li>
 			
 				</ul>
 			

@@ -172,7 +172,7 @@ export default function VISibly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>she was VISibly TIred after the LONG JOURney.</li>
+          <li>she was VISibly TIred <strong>af</strong>ter the LONG JOURney.</li>
           <li className="list-none">Cô ấy rõ ràng rất mệt sau chuyến đi dài.</li>
 
         </ul>

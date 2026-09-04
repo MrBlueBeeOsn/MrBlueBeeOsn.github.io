@@ -56,7 +56,7 @@ export default function HAPpily2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1">they LIVED HAPpily EVer after.</li>
+        <li value="1">they LIVED HAPpily EVer AFter.</li>
         <li className="list-none margin-bottom-20">Và họ sống hạnh phúc mãi mãi.</li>
 
         <li value="2">they have been HAPpily MARried for TWENty YEARS.</li>

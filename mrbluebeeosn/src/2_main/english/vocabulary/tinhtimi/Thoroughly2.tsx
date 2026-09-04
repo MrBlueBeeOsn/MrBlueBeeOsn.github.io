@@ -59,7 +59,7 @@ export default function THORoughly2(): React.JSX.Element {
         <li value="1">i THORoughly enJOYed the CONcert LAST NIGHT.</li>
         <li className="list-none margin-bottom-20">Tôi đã thưởng thức buổi hòa nhạc tối qua một cách trọn vẹn.</li>
 
-        <li value="2">before we MOVE IN, we NEED to THORoughly CLEAN the HOUSE.</li>
+        <li value="2">be<strong>fore</strong> we MOVE IN, we NEED to THORoughly CLEAN the HOUSE.</li>
         <li className="list-none margin-bottom-20">Trước khi chuyển vào, chúng ta cần dọn dẹp nhà cửa thật kỹ lưỡng.</li>
 
         <li value="3">the poLICE are THORoughly inVEStigating the CRIME SCENE.</li>
@@ -68,10 +68,10 @@ export default function THORoughly2(): React.JSX.Element {
         <li value="4">i am THORoughly conVINCEd of his INnocence.</li>
         <li className="list-none margin-bottom-20">Tôi hoàn toàn tin chắc vào sự vô tội của anh ấy.</li>
 
-        <li value="5">MAKE SURE the inGREdients are THORoughly MIXED before BAking.</li>
+        <li value="5">MAKE SURE the inGREdients are THORoughly MIXED be<strong>fore</strong> BAking.</li>
         <li className="list-none margin-bottom-20">Hãy chắc chắn trộn đều các nguyên liệu trước khi nướng.</li>
 
-        <li value="6">the NEW PROduct has been THORoughly TESted before being reLEASed.</li>
+        <li value="6">the NEW PROduct has been THORoughly TESted be<strong>fore</strong> being reLEASed.</li>
         <li className="list-none margin-bottom-20">Sản phẩm mới đã được kiểm tra kỹ lưỡng trước khi được tung ra thị trường.</li>
 
         <li value="7">the CIty's SKYline is THORoughly MODern.</li>

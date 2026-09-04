@@ -132,13 +132,13 @@ export default function EVDCQuiz(): React.JSX.Element {
 			id: 10,
 			question: "we STAYED inSIDE _______ it STARTed RAINing HEAVily.",
 			options: [
-				"as SOON as",
+				"as soon as",
 				"until",
 				"unless",
 				"although"
 			],
 			correctAnswer: 0,
-			explanation: "Cụm \"as SOON as it STARTed RAINing HEAVily\" là một Adverb Clause of Time (Trạng câu chỉ thời gian). Liên cơ \"as SOON as\" (ngay khi) giúp câu diễn đạt đúng logic: hành động \"ở trong nhà\" diễn ra ngay tại thời điểm \"trời bắt đầu mưa to\"."
+			explanation: "Cụm \"as soon as it STARTed RAINing HEAVily\" là một Adverb Clause of Time (Trạng câu chỉ thời gian). Liên cơ \"as soon as\" (ngay khi) giúp câu diễn đạt đúng logic: hành động \"ở trong nhà\" diễn ra ngay tại thời điểm \"trời bắt đầu mưa to\"."
 		}
 	];
 

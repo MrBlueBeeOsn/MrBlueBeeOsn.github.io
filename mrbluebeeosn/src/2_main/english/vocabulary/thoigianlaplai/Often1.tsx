@@ -167,7 +167,7 @@ export default function OFten1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>she OFten READS BOOKS before GOing to BED.</li>
+          <li>she OFten READS BOOKS be<strong>fore</strong> GOing to BED.</li>
           <li className="list-none">Cô ấy thường đọc sách trước khi đi ngủ.</li>
 
         </ul>

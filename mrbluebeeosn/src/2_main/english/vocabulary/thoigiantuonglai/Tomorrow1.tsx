@@ -100,7 +100,7 @@ export default function toMORrow1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>i'm GOing on a TRIP the DAY AFter toMORrow.</li>
+          <li>i'm GOing on a TRIP the DAY <strong>af</strong>ter toMORrow.</li>
           <li className="margin-bottom-20 list-none">Ngày kia tôi sẽ đi du lịch.</li>
 
           <li>the NEXT DAY, she WENT to SCHOOL.</li>
@@ -189,11 +189,11 @@ export default function toMORrow1(): React.JSX.Element {
 
       <p className="text-indent-whole margin-bottom-20">Đọc và viết nhiều để nhớ từ vựng lâu hơn.</p>
 
-        <p className="text-indent-whole">Ví dụ để so sánh (sự khác biệt giữa <strong>the DAY AFter toMORrow</strong> và <strong>toMORrow</strong>):</p>
+        <p className="text-indent-whole">Ví dụ để so sánh (sự khác biệt giữa <strong>the DAY <strong>af</strong>ter toMORrow</strong> và <strong>toMORrow</strong>):</p>
 
           <ol>
 
-            <li value="1">i have a TEST the DAY AFter toMORrow.</li>
+            <li value="1">i have a TEST the DAY <strong>af</strong>ter toMORrow.</li>
             <li className="list-none margin-bottom-20">Ngày kia tôi có bài kiểm tra.</li>
 
             <li value="2">i will MEET her toMORrow.</li>

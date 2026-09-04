@@ -402,12 +402,12 @@ export default function SV1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>we CANcelled the PICnic [because it RAINED HEAVily].</li>
+					<li>we CANcelled the PICnic [be<strong>cause</strong> it RAINED HEAVily].</li>
 					<li className="margin-bottom-20 list-none">Chúng tôi đã hủy buổi dã ngoại [vì trời mưa to].</li>
 			
-					<li className="list-none">Hình thái: [because it RAINED HEAVily] - [Liên Câu][Conjunctional Clause] thể hiện khối hành động phức có chứa hệ trục [Danh Chủ][Noun Subject] "it" và [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "RAINED", bắt đầu bằng [Liên Cơ][Conjunctional Base] "because".</li>
+					<li className="list-none">Hình thái: [be<strong>cause</strong> it RAINED HEAVily] - [Liên Câu][Conjunctional Clause] thể hiện khối hành động phức có chứa hệ trục [Danh Chủ][Noun Subject] "it" và [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "RAINED", bắt đầu bằng [Liên Cơ][Conjunctional Base] "be<strong>cause</strong>".</li>
 			
-					<li className="list-none">Chức năng: [because it RAINED HEAVily] - [Trạng Câu][Adverb Clause] chịu trách nhiệm cung cấp hoàn cảnh nguyên nhân cho toàn bộ hành động hủy bỏ trước đó.</li>
+					<li className="list-none">Chức năng: [be<strong>cause</strong> it RAINED HEAVily] - [Trạng Câu][Adverb Clause] chịu trách nhiệm cung cấp hoàn cảnh nguyên nhân cho toàn bộ hành động hủy bỏ trước đó.</li>
 			
 				</ul>
 
@@ -678,12 +678,12 @@ export default function SV1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>we arRIVED [after the RAIN STOPPED].</li>
+					<li>we arRIVED [<strong>af</strong>ter the RAIN STOPPED].</li>
 					<li className="margin-bottom-20 list-none">Chúng tôi đã đến [sau khi cơn mưa tạnh].</li>
 			
-					<li className="list-none">Hình thái: [after the RAIN STOPPED] - [Liên Câu][Conjunctional Clause] thể hiện khối hành động phức có chứa hệ trục [Danh Chủ][Noun Subject] "the RAIN" và [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "STOPPED", bắt đầu bằng [Liên Cơ][Conjunctional Base] "after".</li>
+					<li className="list-none">Hình thái: [<strong>af</strong>ter the RAIN STOPPED] - [Liên Câu][Conjunctional Clause] thể hiện khối hành động phức có chứa hệ trục [Danh Chủ][Noun Subject] "the RAIN" và [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "STOPPED", bắt đầu bằng [Liên Cơ][Conjunctional Base] "<strong>af</strong>ter ".</li>
 
-					<li className="list-none">Chức năng: [after the RAIN STOPPED] - [Trạng Câu][Adverb Clause] gắn vào phía sau [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "arRIVED" chịu trách nhiệm cung cấp hoàn cảnh thời gian cho toàn bộ hành động phía trước.</li>
+					<li className="list-none">Chức năng: [<strong>af</strong>ter the RAIN STOPPED] - [Trạng Câu][Adverb Clause] gắn vào phía sau [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "arRIVED" chịu trách nhiệm cung cấp hoàn cảnh thời gian cho toàn bộ hành động phía trước.</li>
 			
 				</ul>
 			

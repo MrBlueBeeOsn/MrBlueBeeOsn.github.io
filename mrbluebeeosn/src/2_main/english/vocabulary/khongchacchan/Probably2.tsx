@@ -80,7 +80,7 @@ export default function PROBably2(): React.JSX.Element {
         <li value="8">PROBably the BEST WAY is to CALL him FIRST.</li>
         <li className="list-none margin-bottom-20">Có lẽ cách tốt nhất là gọi điện cho anh ấy trước.</li>
 
-        <li value="9">she's PROBably upSET because he DIDN'T CALL.</li>
+        <li value="9">she's PROBably upSET be<strong>cause</strong> he DIDN'T CALL.</li>
         <li className="list-none margin-bottom-20">Cô ấy có lẽ buồn vì anh ấy không gọi điện.</li>
 
         <li value="10">THIS is PROBably the MOST DIFficult TASK i've ever HAD.</li>

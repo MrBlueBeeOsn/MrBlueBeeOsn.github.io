@@ -65,10 +65,10 @@ export default function beLAtedly2(): React.JSX.Element {
         <li value="3">they beLAtedly arRIVED at the MEEting due to TRAFfic.</li>
         <li className="list-none margin-bottom-20">Họ đến cuộc họp một cách muộn màng do tắc đường.</li>
 
-        <li value="4">he beLAtedly SENT the BIRTHday CARD, WEEKS after the ACtual DATE.</li>
+        <li value="4">he beLAtedly SENT the BIRTHday CARD, WEEKS <strong>af</strong>ter the ACtual DATE.</li>
         <li className="list-none margin-bottom-20">Anh ấy gửi thiệp sinh nhật một cách muộn màng, vài tuần sau ngày sinh nhật thật.</li>
 
-        <li value="5">she beLAtedly reSPONded to his EMail after a LONG deLAY.</li>
+        <li value="5">she beLAtedly reSPONded to his EMail <strong>af</strong>ter a LONG deLAY.</li>
         <li className="list-none margin-bottom-20">Cô ấy trả lời email của anh ấy một cách muộn màng sau một thời gian dài trì hoãn.</li>
 
         <li value="6">they beLAtedly conGRATulated the NEW PArents on the BIRTH of their BAby.</li>

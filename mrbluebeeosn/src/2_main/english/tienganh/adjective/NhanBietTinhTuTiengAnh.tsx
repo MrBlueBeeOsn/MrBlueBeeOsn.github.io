@@ -35,7 +35,7 @@ export default function NhanBietTinhTuTiengAnh(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>after a LONG DAY at WORK, I LOVE reLAXing on my <strong>COMFORTable</strong> SOfa with a GOOD BOOK.</li>
+					<li><strong>af</strong>ter a LONG DAY at WORK, I LOVE reLAXing on my <strong>COMFORTable</strong> SOfa with a GOOD BOOK.</li>
 					<li className="margin-bottom-20 list-none">Sau một ngày dài làm việc, tôi thích thư giãn trên chiếc ghế sofa <strong>thoải mái</strong> của mình với một cuốn sách hay.</li>
 			
 					<li>as a TEAM LEADer, he is <strong>reSPONsible</strong> for MAking SURE ALL PROJects are comPLEted on TIME.</li>
@@ -44,7 +44,7 @@ export default function NhanBietTinhTuTiengAnh(): React.JSX.Element {
 					<li>our COMpany OFfers <strong>FLEXible</strong> WORKing HOURS, alLOWing emPLOYees to START WORK between EIGHT AM and TEN AM.</li>
 					<li className="margin-bottom-20 list-none">Công ty chúng tôi cung cấp giờ làm việc <strong>linh hoạt</strong>, cho phép nhân viên bắt đầu làm việc trong khoảng từ 8 giờ sáng đến 10 giờ sáng.</li>
 			
-					<li>the STARS are CLEARly <strong>VISible</strong> toNIGHT because the SKY is comPLETEly FREE of CLOUDS.</li>
+					<li>the STARS are CLEARly <strong>VISible</strong> toNIGHT be<strong>cause</strong> the SKY is comPLETEly FREE of CLOUDS.</li>
 					<li className="margin-bottom-20 list-none">Các vì sao có thể nhìn thấy <strong>rõ ràng</strong> vào đêm nay vì bầu trời hoàn toàn không có mây.</li>
 			
 					<li>the ACrobat perFORMED an <strong>inCREDible</strong> STUNT that LEFT the AUdience CHEERing in aMAZEment.</li>
@@ -72,7 +72,7 @@ export default function NhanBietTinhTuTiengAnh(): React.JSX.Element {
 					<li>CHILDren are NATurally <strong>CURious</strong> about the WORLD around them and ALWAYS ASK many QUEStions.</li>
 					<li className="margin-bottom-20 list-none">Trẻ em vốn dĩ <strong>tò mò</strong> về thế giới xung quanh và luôn đặt ra rất nhiều câu hỏi.</li>
 			
-					<li>the COMpany MADE an <strong>eNORmous</strong> PROFit <strong>this</strong> YEAR after LAUNCHing their NEW PRODuct LINE.</li>
+					<li>the COMpany MADE an <strong>eNORmous</strong> PROFit <strong>this</strong> YEAR <strong>af</strong>ter LAUNCHing their NEW PRODuct LINE.</li>
 					<li className="list-none">Công ty đã thu về lợi nhuận <strong>khổng lồ</strong> trong năm nay sau khi ra mắt dòng sản phẩm mới của họ.</li>
 			
 				</ul>
@@ -94,7 +94,7 @@ export default function NhanBietTinhTuTiengAnh(): React.JSX.Element {
 					<li>the LOcal TOURist GUIDE GAVE us <strong>HELPful</strong> adVICE on where to FIND the BEST STREET FOOD.</li>
 					<li className="margin-bottom-20 list-none">Hướng dẫn viên du lịch địa phương đã cho chúng tôi những lời khuyên <strong>hữu ích</strong> về nơi tìm thấy những món ăn đường phố ngon nhất.</li>
 			
-					<li>after years of HARD WORK, her TECH STARtup FInally beCAME a <strong>sucCESSful</strong> GLObal COMpany.</li>
+					<li><strong>af</strong>ter years of HARD WORK, her TECH STARtup FInally beCAME a <strong>sucCESSful</strong> GLObal COMpany.</li>
 					<li className="margin-bottom-20 list-none">Sau nhiều năm làm việc chăm chỉ, công ty khởi nghiệp công nghệ của cô ấy cuối cùng đã trở thành một công ty toàn cầu <strong>thành công</strong>.</li>
 			
 					<li>the CEO deLIVered a <strong>POWerful</strong> SPEECH that inSPIred ALL the emPLOYees at the MEETing.</li>
@@ -109,7 +109,7 @@ export default function NhanBietTinhTuTiengAnh(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>he FELT <strong>HOPEless</strong> after FAILing the exAM for the THIRD TIME, but his TEACHer enCOURaged him to TRY aGAIN.</li>
+					<li>he FELT <strong>HOPEless</strong> <strong>af</strong>ter FAILing the exAM for the THIRD TIME, but his TEACHer enCOURaged him to TRY aGAIN.</li>
 					<li className="margin-bottom-20 list-none">Anh ấy cảm thấy <strong>tuyệt vọng</strong> sau khi trượt kỳ thi lần thứ ba, nhưng giáo viên của anh ấy đã động viên anh thử lại.</li>
 			
 					<li>MAking a <strong>CAREless</strong> misTAKE on the FInal MATH TEST COST him the HIGHest GRADE in the CLASS.</li>
@@ -165,7 +165,7 @@ export default function NhanBietTinhTuTiengAnh(): React.JSX.Element {
 					<li>REsearchers USED <strong>scienTIFic</strong> MEthods to TEST the SAFEty of the NEW MEDicine.</li>
 					<li className="margin-bottom-20 list-none">Các nhà nghiên cứu đã sử dụng các phương pháp <strong>khoa học</strong> để kiểm tra độ an toàn của loại thuốc mới.</li>
 
-					<li>the TWO NAtions SIGNED a <strong>hisTORic</strong> PEACE aGREEment after DEcades of CONflict.</li>
+					<li>the TWO NAtions SIGNED a <strong>hisTORic</strong> PEACE aGREEment <strong>af</strong>ter DEcades of CONflict.</li>
 					<li className="margin-bottom-20 list-none">Hai quốc gia đã ký kết một hiệp định hòa bình <strong>mang tính lịch sử</strong> sau nhiều thập kỷ xung đột.</li>
 			
 					<li>he PLANNED a <strong>roMANtic</strong> DINner by the BEACH with CANdles and SOFT MUsic.</li>
@@ -196,7 +196,7 @@ export default function NhanBietTinhTuTiengAnh(): React.JSX.Element {
 					<li>REGular HANDwashing is ONE of the MOST <strong>efFECtive</strong> WAYS to preVENT the SPREAD of ILLness.</li>
 					<li className="margin-bottom-20 list-none">Rửa tay thường xuyên là một trong những cách <strong>hiệu quả</strong> nhất để ngăn chặn sự lây lan của bệnh tật.</li>
 			
-					<li>you NEED to be CAREful with your WORDS because she is VEry <strong>SENsitive</strong> to CRITicism.</li>
+					<li>you NEED to be CAREful with your WORDS be<strong>cause</strong> she is VEry <strong>SENsitive</strong> to CRITicism.</li>
 					<li className="list-none">Bạn cần cẩn thận với lời nói của mình vì cô ấy rất <strong>nhạy cảm</strong> với những lời chỉ trích.</li>
 			
 				</ul>
@@ -214,7 +214,7 @@ export default function NhanBietTinhTuTiengAnh(): React.JSX.Element {
 					<li>it was a COLD and <strong>RAIny</strong> afterNOON, so we deCIDed to STAY inDOORS and WATCH a MOvie.</li>
 					<li className="margin-bottom-20 list-none">Đó là một buổi chiều lạnh và <strong>có mưa</strong>, vì vậy chúng tôi quyết định ở trong nhà và xem phim.</li>
 			
-					<li>we SPENT our WEEKend at the BEACH because the WEAther was BRIGHT and <strong>SUNny</strong>.</li>
+					<li>we SPENT our WEEKend at the BEACH be<strong>cause</strong> the WEAther was BRIGHT and <strong>SUNny</strong>.</li>
 					<li className="margin-bottom-20 list-none">Chúng tôi đã dành cuối tuần ở bãi biển vì thời tiết sáng sủa và <strong>có nhiều nắng</strong>.</li>
 
 					<li>EATing PLENty of FRESH VEGEtables and EXercising REGularly KEEPS your BOdy <strong>HEALthy</strong>.</li>
@@ -236,10 +236,10 @@ export default function NhanBietTinhTuTiengAnh(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>he FELT <strong>BORED</strong> because there was NOthing to DO on a RAIny SUNday afterNOON.</li>
+					<li>he FELT <strong>BORED</strong> be<strong>cause</strong> there was NOthing to DO on a RAIny SUNday afterNOON.</li>
 					<li className="margin-bottom-20 list-none">Anh ấy cảm thấy <strong>chán nản</strong> vì chẳng có việc gì để làm vào một buổi chiều Chủ Nhật mưa gió.</li>
 			
-					<li>after WORKing for TEN HOURS STRAIGHT, she was TOO <strong>TIred</strong> to COOK DINner.</li>
+					<li><strong>af</strong>ter WORKing for TEN HOURS STRAIGHT, she was TOO <strong>TIred</strong> to COOK DINner.</li>
 					<li className="margin-bottom-20 list-none">Sau khi làm việc suốt mười tiếng đồng hồ, cô ấy quá <strong>mệt mỏi</strong> để nấu bữa tối.</li>
 
 					<li>the KIDS were SO <strong>exCIted</strong> about GOing to the aMUSEment PARK toMORrow.</li>

@@ -539,12 +539,12 @@ export default function Respond(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>the camPAIGN sucCEEDed [because the TEAM reSPONDed to MARket CHANges].</li>
+          <li>the camPAIGN sucCEEDed [be<strong>cause</strong> the TEAM reSPONDed to MARket CHANges].</li>
           <li className="margin-bottom-20 list-none">Chiến dịch đã thành công [vì đội ngũ đã phản hồi/thích ứng kịp thời với các thay đổi thị trường].</li>
       
-          <li className="list-none">Hình thái: [because the TEAM reSPONDed to MARket CHANges] - [Liên Câu][Conjunctional Clause] kích hoạt ngay sau thành phần [Liên Cơ][Conjunctional Base] nguyên nhân "because", chứa [Danh Chủ][Noun Subject] "the TEAM" và cụm hành động mang dấu mốc trục thời quá khứ.</li>
+          <li className="list-none">Hình thái: [be<strong>cause</strong> the TEAM reSPONDed to MARket CHANges] - [Liên Câu][Conjunctional Clause] kích hoạt ngay sau thành phần [Liên Cơ][Conjunctional Base] nguyên nhân "be<strong>cause</strong>", chứa [Danh Chủ][Noun Subject] "the TEAM" và cụm hành động mang dấu mốc trục thời quá khứ.</li>
       
-          <li className="list-none">Chức năng: [because the TEAM reSPONDed to MARket CHANges] - [Trạng Câu][Adverb Clause] thiết lập module bối cảnh, bổ nghĩa cho hành động [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "sucCEEDed" và toàn bộ mệnh đề chính trước đó.</li>
+          <li className="list-none">Chức năng: [be<strong>cause</strong> the TEAM reSPONDed to MARket CHANges] - [Trạng Câu][Adverb Clause] thiết lập module bối cảnh, bổ nghĩa cho hành động [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "sucCEEDed" và toàn bộ mệnh đề chính trước đó.</li>
       
         </ul>
 
@@ -883,12 +883,12 @@ export default function Respond(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>the COMpany imPROVED satisFACtion [because the TEAM reSPONDED QUICKly to supPORT TICKets].</li>
+          <li>the COMpany imPROVED satisFACtion [be<strong>cause</strong> the TEAM reSPONDED QUICKly to supPORT TICKets].</li>
           <li className="margin-bottom-20 list-none">Công ty đã cải thiện sự hài lòng [vì đội ngũ đã phản hồi nhanh chóng các phiếu hỗ trợ].</li>
       
-          <li className="list-none">Hình thái mới: [because the TEAM reSPONDED QUICKly to supPORT TICKets] - [Liên Câu][Conjunctional Clause] hiển thị dưới dạng khối mã chứa đầy đủ [Danh Chủ][Noun Subject] "the team" và cụm hành động đi sau thành phần [Liên Cơ][Conjunctional Base] "because".</li>
+          <li className="list-none">Hình thái mới: [be<strong>cause</strong> the TEAM reSPONDED QUICKly to supPORT TICKets] - [Liên Câu][Conjunctional Clause] hiển thị dưới dạng khối mã chứa đầy đủ [Danh Chủ][Noun Subject] "the team" và cụm hành động đi sau thành phần [Liên Cơ][Conjunctional Base] "be<strong>cause</strong>".</li>
       
-          <li className="list-none">Chức năng mới: [because the TEAM reSPONDED QUICKly to supPORT TICKets] - [Trạng Câu][Adverb Clause] đảm nhận vai trò bối cảnh nguyên nhân ở cấp độ cao cấp hơn, bổ nghĩa cho hành động [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "imPROVED" và toàn bộ diễn biến phía trước.</li>
+          <li className="list-none">Chức năng mới: [be<strong>cause</strong> the TEAM reSPONDED QUICKly to supPORT TICKets] - [Trạng Câu][Adverb Clause] đảm nhận vai trò bối cảnh nguyên nhân ở cấp độ cao cấp hơn, bổ nghĩa cho hành động [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "imPROVED" và toàn bộ diễn biến phía trước.</li>
       
         </ul>
 

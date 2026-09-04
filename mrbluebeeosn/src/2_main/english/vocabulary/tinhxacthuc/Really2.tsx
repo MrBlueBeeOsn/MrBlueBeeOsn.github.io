@@ -77,7 +77,7 @@ export default function REally2(): React.JSX.Element {
         <li value="7">that JOKE was REally FUNny.</li>
         <li className="list-none margin-bottom-20">Câu đùa đó thật hài hước.</li>
 
-        <li value="8">i'm REally TIred after WORK.</li>
+        <li value="8">i'm REally TIred <strong>af</strong>ter WORK.</li>
         <li className="list-none margin-bottom-20">Tôi rất mệt sau khi làm việc.</li>
 
         <li value="9">i'm REally HAPpy to SEE you.</li>

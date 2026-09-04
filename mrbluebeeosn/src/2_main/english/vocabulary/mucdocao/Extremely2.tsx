@@ -59,7 +59,7 @@ export default function exTREMEly2(): React.JSX.Element {
         <li value="1">she was exTREMEly HAPpy to SEE her FAMIly.</li>
         <li className="list-none margin-bottom-20">Cô ấy rất vui khi gặp lại gia đình.</li>
 
-        <li value="2">after WORKing all NIGHT, he was exTREMEly TIred.</li>
+        <li value="2"><strong>af</strong>ter WORKing all NIGHT, he was exTREMEly TIred.</li>
         <li className="list-none margin-bottom-20">Sau khi làm việc cả đêm, anh ấy rất mệt mỏi.</li>
 
         <li value="3">the exAM was exTREMEly DIFficult.</li>
@@ -80,7 +80,7 @@ export default function exTREMEly2(): React.JSX.Element {
         <li value="8">it's exTREMEly COLD outSIDE toDAY.</li>
         <li className="list-none margin-bottom-20">Trời hôm nay lạnh quá.</li>
 
-        <li value="9">after PLAYing SPORTS all DAY, i was exTREMEly HUNGry.</li>
+        <li value="9"><strong>af</strong>ter PLAYing SPORTS all DAY, i was exTREMEly HUNGry.</li>
         <li className="list-none margin-bottom-20">Sau khi chơi thể thao cả ngày, tôi rất đói.</li>
 
         <li value="10">she was exTREMEly ANGry when she HEARD the NEWS.</li>

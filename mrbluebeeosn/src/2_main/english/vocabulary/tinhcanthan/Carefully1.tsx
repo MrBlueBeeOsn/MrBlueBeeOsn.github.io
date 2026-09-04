@@ -60,7 +60,7 @@ export default function CAREfully1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>PLEASE READ the inSTRUCtions CAREfully before you START.</li>
+          <li>PLEASE READ the inSTRUCtions CAREfully be<strong>fore</strong> you START.</li>
           <li className="margin-bottom-20 list-none">Vui lòng đọc kỹ hướng dẫn trước khi bắt đầu.</li>
 
           <li>she CAREfully PACKED her SUITcase for the TRIP.</li>
@@ -196,7 +196,7 @@ export default function CAREfully1(): React.JSX.Element {
             <li value="1">he CROSSED the STREET.</li>
             <li className="list-none margin-bottom-20">Anh ấy băng qua đường.</li>
 
-            <li value="2">he CAREfully CROSSED the STREET because there was a LOT of TRAFfic.</li>
+            <li value="2">he CAREfully CROSSED the STREET be<strong>cause</strong> there was a LOT of TRAFfic.</li>
             <li className="list-none margin-bottom-20">Anh ấy cẩn thận băng qua đường vì có rất nhiều xe.</li>
 
           </ol>

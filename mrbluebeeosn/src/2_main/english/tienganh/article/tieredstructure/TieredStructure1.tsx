@@ -390,12 +390,12 @@ export default function TieredStructure1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>we STAYED inDOORS [because of the seVERE STORM].</li>
+					<li>we STAYED inDOORS [be<strong>cause</strong> of the seVERE STORM].</li>
 					<li className="margin-bottom-20 list-none">Chúng tôi đã ở trong nhà [bởi vì trận bão dữ dội].</li>
 			
-					<li className="list-none">Hình thái: [because of the seVERE STORM] - [Phức Giới Cụm][Complex Prepositional Phrase] mở đầu bằng một tổ hợp định vị lý do đóng vai trò làm [Phức Giới Cơ][Complex Prepositional Base] (because of).</li>
+					<li className="list-none">Hình thái: [be<strong>cause</strong> of the seVERE STORM] - [Phức Giới Cụm][Complex Prepositional Phrase] mở đầu bằng một tổ hợp định vị lý do đóng vai trò làm [Phức Giới Cơ][Complex Prepositional Base] (be<strong>cause</strong> of).</li>
 			
-					<li className="list-none">Chức năng: [because of the seVERE STORM] - [Trạng Cụm][Adverb Phrase] đảm nhiệm vai trò làm một khối bối cảnh nguyên nhân đứng sau hành động để xác định lý do diễn ra sự việc.</li>
+					<li className="list-none">Chức năng: [be<strong>cause</strong> of the seVERE STORM] - [Trạng Cụm][Adverb Phrase] đảm nhiệm vai trò làm một khối bối cảnh nguyên nhân đứng sau hành động để xác định lý do diễn ra sự việc.</li>
 			
 				</ul>
 			
@@ -587,12 +587,12 @@ export default function TieredStructure1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>we STAYED inSIDE [because it RAINED HEAVily].</li>
+					<li>we STAYED inSIDE [be<strong>cause</strong> it RAINED HEAVily].</li>
 					<li className="margin-bottom-20 list-none">Chúng tôi đã ở bên trong [bởi vì trời đã mưa rất dày].</li>
 
-					<li className="list-none">Hình thái: [because it RAINED HEAVily] - [Liên Câu][Conjunctional Clause] kích hoạt ngay sau [Liên Cơ][Conjunctional Base] kết nối because, chứa chủ thể "it" và [Thời-Thuần Động Cơ][Tense-Bare Verb Base] RAINED mang dấu mốc tích hợp quá khứ.</li>
+					<li className="list-none">Hình thái: [be<strong>cause</strong> it RAINED HEAVily] - [Liên Câu][Conjunctional Clause] kích hoạt ngay sau [Liên Cơ][Conjunctional Base] kết nối be<strong>cause</strong>, chứa chủ thể "it" và [Thời-Thuần Động Cơ][Tense-Bare Verb Base] RAINED mang dấu mốc tích hợp quá khứ.</li>
 					
-					<li className="list-none">Chức năng: [because it RAINED HEAVily] - [Trạng Câu][Adverb Clause] thiết lập module định hình bối cảnh nguyên nhân cho toàn bộ sự việc đứng trước.</li>
+					<li className="list-none">Chức năng: [be<strong>cause</strong> it RAINED HEAVily] - [Trạng Câu][Adverb Clause] thiết lập module định hình bối cảnh nguyên nhân cho toàn bộ sự việc đứng trước.</li>
 			
 				</ul>
 
@@ -690,23 +690,23 @@ export default function TieredStructure1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>we deLAYED the LAUNCH [because of the HEAVy RAIN].</li>
+					<li>we deLAYED the LAUNCH [be<strong>cause</strong> of the HEAVy RAIN].</li>
 					<li className="margin-bottom-20 list-none">Chúng tôi đã hoãn buổi ra mắt [bởi vì trận mưa lớn].</li>
 			
-					<li className="list-none">Hình thái: [because of the HEAVy RAIN] - [Phức Giới Cụm][Complex Prepositional Phrase] bắt đầu bằng [Phức Giới Cơ][Complex Prepositional Base] "because of" kết hợp với [Danh Khối][Noun Block] "the HEAVy RAIN" làm bổ ngữ.</li>
+					<li className="list-none">Hình thái: [be<strong>cause</strong> of the HEAVy RAIN] - [Phức Giới Cụm][Complex Prepositional Phrase] bắt đầu bằng [Phức Giới Cơ][Complex Prepositional Base] "be<strong>cause</strong> of" kết hợp với [Danh Khối][Noun Block] "the HEAVy RAIN" làm bổ ngữ.</li>
 			
-					<li className="margin-bottom-20 list-none">Chức năng: [because of the HEAVy RAIN] - [Trạng Cụm][Adverb Phrase] đảm nhận vai trò bối cảnh nguyên nhân ở cấp độ cụm, đóng vai trò làm [Trạng Cụm][Adverb Phrase] bối cảnh nguyên nhân.</li>
+					<li className="margin-bottom-20 list-none">Chức năng: [be<strong>cause</strong> of the HEAVy RAIN] - [Trạng Cụm][Adverb Phrase] đảm nhận vai trò bối cảnh nguyên nhân ở cấp độ cụm, đóng vai trò làm [Trạng Cụm][Adverb Phrase] bối cảnh nguyên nhân.</li>
 			
 				</ul>
 
 				<ul className="list-square">
 			
-					<li>we deLAYED the LAUNCH [because it RAINED HEAVily].</li>
+					<li>we deLAYED the LAUNCH [be<strong>cause</strong> it RAINED HEAVily].</li>
 					<li className="margin-bottom-20 list-none">Chúng tôi đã hoãn buổi ra mắt [bởi vì trời đã mưa rất dày].</li>
 			
-					<li className="list-none">Hình thái mới: [because it RAINED HEAVily] - [Liên Câu][Conjunctional Clause] hiển thị dưới dạng khối mã chứa đầy đủ chủ thể hành động it và hạt nhân [Thời-Thuần Động Cơ][Tense-Bare Verb Base] RAINED thiết lập cấu hình tích hợp thời quá khứ.</li>
+					<li className="list-none">Hình thái mới: [be<strong>cause</strong> it RAINED HEAVily] - [Liên Câu][Conjunctional Clause] hiển thị dưới dạng khối mã chứa đầy đủ chủ thể hành động it và hạt nhân [Thời-Thuần Động Cơ][Tense-Bare Verb Base] RAINED thiết lập cấu hình tích hợp thời quá khứ.</li>
 			
-					<li className="list-none">Chức năng mới: [because it RAINED HEAVily] - [Trạng Câu][Adverb Clause] đảm nhận vai trò bối cảnh nguyên nhân ở cấp độ cao cấp hơn nhưng giữ nguyên giá trị nội dung.</li>
+					<li className="list-none">Chức năng mới: [be<strong>cause</strong> it RAINED HEAVily] - [Trạng Câu][Adverb Clause] đảm nhận vai trò bối cảnh nguyên nhân ở cấp độ cao cấp hơn nhưng giữ nguyên giá trị nội dung.</li>
 			
 				</ul>
 

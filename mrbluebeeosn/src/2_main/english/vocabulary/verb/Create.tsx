@@ -539,12 +539,12 @@ export default function Create(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>the VENture sucCEEded [because the FOUNder creAted a CLEAR VIsion].</li>
+          <li>the VENture sucCEEded [be<strong>cause</strong> the FOUNder creAted a CLEAR VIsion].</li>
           <li className="margin-bottom-20 list-none">Dự án đã thành công [vì nhà sáng lập đã tạo ra một tầm nhìn rõ ràng].</li>
       
-          <li className="list-none">Hình thái: [because the FOUNder creAted a CLEAR VIsion] - [Liên Câu][Conjunctional Clause] kích hoạt ngay sau thành phần [Liên Cơ][Conjunctional Base] nguyên nhân "because", chứa [Danh Chủ][Noun Subject] "the FOUNder" và cụm hành động mang dấu mốc trục thời quá khứ.</li>
+          <li className="list-none">Hình thái: [be<strong>cause</strong> the FOUNder creAted a CLEAR VIsion] - [Liên Câu][Conjunctional Clause] kích hoạt ngay sau thành phần [Liên Cơ][Conjunctional Base] nguyên nhân "be<strong>cause</strong>", chứa [Danh Chủ][Noun Subject] "the FOUNder" và cụm hành động mang dấu mốc trục thời quá khứ.</li>
       
-          <li className="list-none">Chức năng: [because the FOUNder creAted a CLEAR VIsion] - [Trạng Câu][Adverb Clause] thiết lập module bối cảnh, bổ nghĩa cho hành động [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "sucCEEded" và toàn bộ mệnh đề chính trước đó.</li>
+          <li className="list-none">Chức năng: [be<strong>cause</strong> the FOUNder creAted a CLEAR VIsion] - [Trạng Câu][Adverb Clause] thiết lập module bối cảnh, bổ nghĩa cho hành động [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "sucCEEded" và toàn bộ mệnh đề chính trước đó.</li>
       
         </ul>
 
@@ -883,12 +883,12 @@ export default function Create(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>the COMpany BOOSted VAlue [because the deVElopers creAted uNIQUE PROducts].</li>
+          <li>the COMpany BOOSted VAlue [be<strong>cause</strong> the deVElopers creAted uNIQUE PROducts].</li>
           <li className="margin-bottom-20 list-none">Công ty đã gia tăng giá trị [vì các nhà phát triển đã tạo ra các sản phẩm độc đáo].</li>
       
-          <li className="list-none">Hình thái mới: [because the deVElopers creAted uNIQUE PROducts] - [Liên Câu][Conjunctional Clause] hiển thị dưới dạng khối mã chứa đầy đủ [Danh Chủ][Noun Subject] "the deVElopers" và cụm hành động đi sau thành phần [Liên Cơ][Conjunctional Base] "because".</li>
+          <li className="list-none">Hình thái mới: [be<strong>cause</strong> the deVElopers creAted uNIQUE PROducts] - [Liên Câu][Conjunctional Clause] hiển thị dưới dạng khối mã chứa đầy đủ [Danh Chủ][Noun Subject] "the deVElopers" và cụm hành động đi sau thành phần [Liên Cơ][Conjunctional Base] "be<strong>cause</strong>".</li>
       
-          <li className="list-none">Chức năng mới: [because the deVElopers creAted uNIQUE PROducts] - [Trạng Câu][Adverb Clause] đảm nhận vai trò bối cảnh nguyên nhân ở cấp độ cao cấp hơn, bổ nghĩa cho hành động [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "BOOSted" và toàn bộ diễn biến phía trước.</li>
+          <li className="list-none">Chức năng mới: [be<strong>cause</strong> the deVElopers creAted uNIQUE PROducts] - [Trạng Câu][Adverb Clause] đảm nhận vai trò bối cảnh nguyên nhân ở cấp độ cao cấp hơn, bổ nghĩa cho hành động [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "BOOSted" và toàn bộ diễn biến phía trước.</li>
       
         </ul>
 

@@ -86,11 +86,11 @@ export default function SentenceVariety1(): React.JSX.Element {
 			
 			<h4 className="margin-y-40">3. COMplex (Câu phức)</h4>
 					
-			<p className="text-indent-whole">1 ý chính + 1 ý phụ (bắt đầu bằng because, although, if, when...)</p>
+			<p className="text-indent-whole">1 ý chính + 1 ý phụ (bắt đầu bằng be<strong>cause</strong>, al<strong>though</strong>, if, when...)</p>
 			
 				<ul className="list-square">
 			
-					<li>although the PROJect FAILED, we GAINED exPERience.</li>
+					<li>al<strong>though</strong> the PROJect FAILED, we GAINED exPERience.</li>
 					<li className="list-none">Mặc dù dự án thất bại, chúng ta đã gặt hái được những kinh nghiệm quý báu.</li>
 			
 				</ul>
@@ -102,7 +102,7 @@ export default function SentenceVariety1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>although the PROJect FAILED, we GAINED exPERience, and we are READy for the NEXT ONE.</li>
+					<li>al<strong>though</strong> the PROJect FAILED, we GAINED exPERience, and we are READy for the NEXT ONE.</li>
 					<li className="list-none">Mặc dù dự án thất bại, chúng ta đã gặt hái được những kinh nghiệm quý báu và hiện đã chuẩn bị sẵn sàng cho thử thách kế tiếp.</li>
 			
 				</ul>
@@ -199,7 +199,7 @@ export default function SentenceVariety1(): React.JSX.Element {
 
 				<ul className="list-square">
 
-					<li>sucCESS COMES after HARD WORK.</li>
+					<li>sucCESS COMES <strong>af</strong>ter HARD WORK.</li>
 					<li className="margin-bottom-20 list-none">Thành công đến sau sự nỗ lực chăm chỉ.</li>
 
 					<li className="list-none">Đây là một câu trần thuật cơ bản với trật tự từ thông thường (Chủ thể + Hành động).</li>
@@ -210,10 +210,10 @@ export default function SentenceVariety1(): React.JSX.Element {
 			
 				<ul className="list-square">
 
-					<li>Only after HARD WORK DOES sucCESS COME.</li>
+					<li>Only <strong>af</strong>ter HARD WORK DOES sucCESS COME.</li>
 					<li className="margin-bottom-20 list-none">Chỉ sau khi làm việc chăm chỉ, thành công mới đến.</li>
 
-					<li className="list-none">Đây là cấu trúc đảo ngữ (Inversion) trong tiếng Anh. Cụm từ Only after được đưa lên đầu câu để nhấn mạnh điều kiện thiết yếu (phải làm việc chăm chỉ), do đó trợ hành động DOES được đảo lên trước chủ thể sucCESS.</li>
+					<li className="list-none">Đây là cấu trúc đảo ngữ (Inversion) trong tiếng Anh. Cụm từ Only <strong>af</strong>ter được đưa lên đầu câu để nhấn mạnh điều kiện thiết yếu (phải làm việc chăm chỉ), do đó trợ hành động DOES được đảo lên trước chủ thể sucCESS.</li>
 			
 				</ul>
 

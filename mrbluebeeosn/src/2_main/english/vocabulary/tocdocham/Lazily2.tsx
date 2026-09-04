@@ -56,7 +56,7 @@ export default function LAzily2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1">after a LONG DAY, he LAzily STRETCHED OUT on the COUCH.</li>
+        <li value="1"><strong>af</strong>ter a LONG DAY, he LAzily STRETCHED OUT on the COUCH.</li>
         <li className="list-none margin-bottom-20">Sau một ngày dài, anh ấy lười biếng nằm dài ra ghế sofa.</li>
 
         <li value="2">she LAzily WANdered through the PARK, enJOYing the SUNshine.</li>

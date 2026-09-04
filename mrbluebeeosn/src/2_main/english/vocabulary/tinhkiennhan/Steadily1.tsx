@@ -143,7 +143,7 @@ export default function STEADily1(): React.JSX.Element {
           <li>he beHAVED erRATically.</li>
           <li className="margin-bottom-20 list-none">Anh ấy cư xử một cách thất thường.</li>
 
-          <li>he WALKED unSTEADily after the INjury.</li>
+          <li>he WALKED unSTEADily <strong>af</strong>ter the INjury.</li>
           <li className="list-none">Anh ấy bước đi không vững chắc sau chấn thương.</li>
 
         </ul>

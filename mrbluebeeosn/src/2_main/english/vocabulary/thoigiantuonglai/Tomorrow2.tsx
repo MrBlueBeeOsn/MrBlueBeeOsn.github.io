@@ -70,10 +70,10 @@ export default function toMORrow2(): React.JSX.Element {
         <li value="4">it will be COLD toMORrow NIGHT.</li>
         <li className="list-none margin-bottom-20">Đêm mai sẽ lạnh.</li>
 
-        <li value="5">i'll SEE you DAY AFter toMORrow.</li>
+        <li value="5">i'll SEE you DAY <strong>af</strong>ter toMORrow.</li>
         <li className="list-none margin-bottom-20">Tôi sẽ gặp bạn vào ngày kia.</li>
 
-        <li value="6">i have a DENtist apPOINTment the DAY AFter toMORrow.</li>
+        <li value="6">i have a DENtist apPOINTment the DAY <strong>af</strong>ter toMORrow.</li>
         <li className="list-none margin-bottom-20">Tôi có hẹn với nha sĩ vào ngày kia.</li>
 
         <li value="7">i'm going on vaCAtion toMORrow WEEK.</li>

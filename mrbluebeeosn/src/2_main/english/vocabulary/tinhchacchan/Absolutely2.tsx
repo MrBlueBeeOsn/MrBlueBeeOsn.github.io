@@ -83,7 +83,7 @@ export default function absoLUTEly2(): React.JSX.Element {
         <li value="9">i am absoLUTEly conVINCED that she is INnocent.</li>
         <li className="list-none margin-bottom-20">Tôi hoàn toàn tin rằng cô ấy vô tội.</li>
 
-        <li value="10">after the MARathon, i was absoLUTEly exHAUSTed.</li>
+        <li value="10"><strong>af</strong>ter the MARathon, i was absoLUTEly exHAUSTed.</li>
         <li className="list-none margin-bottom-20">Sau cuộc đua marathon, tôi mệt mỏi rã rời.</li>
 
       </ol>

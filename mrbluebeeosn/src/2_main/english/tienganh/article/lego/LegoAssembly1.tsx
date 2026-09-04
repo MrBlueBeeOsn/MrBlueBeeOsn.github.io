@@ -632,12 +632,12 @@ export default function LegoAssembly1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>we will PAUSE deVELopment [because the CLIent reQUESted alteRAtions].</li>
+					<li>we will PAUSE deVELopment [be<strong>cause</strong> the CLIent reQUESted alteRAtions].</li>
 					<li className="margin-bottom-20 list-none">Chúng tôi sẽ tạm dừng phát triển [bởi vì khách hàng yêu cầu những thay đổi].</li>
 
-					<li className="list-none">Hình thái: [because the CLIent reQUESted alteRAtions] - [Liên Câu][Conjunctional Clause] chứa [Liên Cơ][Conjunctional Base] because và một bộ khung [S]-[Head] hoàn chỉnh bên trong câu con được chia ở thời gian hành động quá khứ.</li>
+					<li className="list-none">Hình thái: [be<strong>cause</strong> the CLIent reQUESted alteRAtions] - [Liên Câu][Conjunctional Clause] chứa [Liên Cơ][Conjunctional Base] be<strong>cause</strong> và một bộ khung [S]-[Head] hoàn chỉnh bên trong câu con được chia ở thời gian hành động quá khứ.</li>
 
-					<li className="list-none">Chức năng: [because the CLIent reQUESted alteRAtions] - [Trạng Câu][Adverb Clause] bổ nghĩa cho hành động chính của bộ nguồn [Ý-Thái][Soft-Modal] hay [Áp-Thái Động Cơ][Assertive-Modal Verb Base] will PAUSE, mở rộng bối cảnh nguyên nhân dẫn đến quyết định dừng lại.</li>
+					<li className="list-none">Chức năng: [be<strong>cause</strong> the CLIent reQUESted alteRAtions] - [Trạng Câu][Adverb Clause] bổ nghĩa cho hành động chính của bộ nguồn [Ý-Thái][Soft-Modal] hay [Áp-Thái Động Cơ][Assertive-Modal Verb Base] will PAUSE, mở rộng bối cảnh nguyên nhân dẫn đến quyết định dừng lại.</li>
 					
 			
 				</ul>
@@ -687,12 +687,12 @@ export default function LegoAssembly1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>the PLATform upDATed [as SOON as the CODE PATCH WENT LIVE].</li>
+					<li>the PLATform upDATed [as <strong>soon</strong> as the CODE PATCH WENT LIVE].</li>
 					<li className="margin-bottom-20 list-none">Nền tảng đã cập nhật [ngay khi bản vá mã nguồn được kích hoạt trực tuyến].</li>
 			
-					<li className="list-none">Hình thái: [as SOON as the CODE PATCH WENT LIVE] - [Phức Liên Câu][Complex Conjunctional Clause] cấp độ [Câu][Clause], chứa [Phức Liên Cơ][Complex Conjunctional Base] as SOON as kết hợp với một bộ cấu trúc [S]-[Head] hoàn chỉnh bên trong để mô tả một mốc sự kiện kích hoạt tức thời.</li>
+					<li className="list-none">Hình thái: [as <strong>soon</strong> as the CODE PATCH WENT LIVE] - [Phức Liên Câu][Complex Conjunctional Clause] cấp độ [Câu][Clause], chứa [Phức Liên Cơ][Complex Conjunctional Base] as <strong>soon</strong> as kết hợp với một bộ cấu trúc [S]-[Head] hoàn chỉnh bên trong để mô tả một mốc sự kiện kích hoạt tức thời.</li>
 
-					<li className="list-none">Chức năng: [as SOON as the CODE PATCH WENT LIVE] - [Trạng Câu][Adverb Clause] thay thế vị trí của [Trạng Cơ][Adverb Base] cũ, mở rộng quy mô thông tin thành bối cảnh [Thời] gian cho hành động chính updated nhưng vẫn giữ nguyên màu sắc chức năng cung cấp bối cảnh.</li>
+					<li className="list-none">Chức năng: [as <strong>soon</strong> as the CODE PATCH WENT LIVE] - [Trạng Câu][Adverb Clause] thay thế vị trí của [Trạng Cơ][Adverb Base] cũ, mở rộng quy mô thông tin thành bối cảnh [Thời] gian cho hành động chính updated nhưng vẫn giữ nguyên màu sắc chức năng cung cấp bối cảnh.</li>
 			
 				</ul>
 			

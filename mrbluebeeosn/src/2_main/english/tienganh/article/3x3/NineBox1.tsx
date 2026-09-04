@@ -399,12 +399,12 @@ export default function NineBox1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>the BACKup iNItiates [because the DAtabase SPACE FILLED].</li>
+					<li>the BACKup iNItiates [be<strong>cause</strong> the DAtabase SPACE FILLED].</li>
 					<li className="margin-bottom-20 list-none">Việc sao lưu bắt đầu [bởi vì dung lượng cơ sở dữ liệu đã đầy].</li>
 			
-					<li className="list-none">Hình thái: [because the DAtabase SPACE FILLED] – [Liên Câu][Conjunctional Clause] chứa khối kết nối chỉ nguyên nhân "because" kết hợp cùng câu con xoay quanh [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "FILLED".</li>
+					<li className="list-none">Hình thái: [be<strong>cause</strong> the DAtabase SPACE FILLED] – [Liên Câu][Conjunctional Clause] chứa khối kết nối chỉ nguyên nhân "be<strong>cause</strong>" kết hợp cùng câu con xoay quanh [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "FILLED".</li>
 			
-					<li className="list-none">Chức năng: [because the DAtabase SPACE FILLED] – [Trạng Câu][Adverb Clause] bổ nghĩa bối cảnh nguyên nhân cho hành động bắt đầu của việc sao lưu.</li>
+					<li className="list-none">Chức năng: [be<strong>cause</strong> the DAtabase SPACE FILLED] – [Trạng Câu][Adverb Clause] bổ nghĩa bối cảnh nguyên nhân cho hành động bắt đầu của việc sao lưu.</li>
 			
 				</ul>
 
@@ -482,12 +482,12 @@ export default function NineBox1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>they MONitor SERver NODES [because of the TRAFfic SPIKE].</li>
+					<li>they MONitor SERver NODES [be<strong>cause</strong> of the TRAFfic SPIKE].</li>
 					<li className="margin-bottom-20 list-none">Họ giám sát các nút máy chủ [bởi vì sự tăng đột biến của lưu lượng truy cập].</li>
 			
-					<li className="list-none">Hình thái: [because of the TRAFfic SPIKE] - [Phức Giới Cụm][Complex Prepositional Phrase] bắt đầu bằng [Phức Giới Cơ][Complex Prepositional Base] "because of" kết hợp với [Danh Khối][Noun Block] "the TRAFfic SPIKE" phía sau tạo thành một khối hoàn chỉnh bổ nghĩa nguyên nhân cho [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "MONitor".</li>
+					<li className="list-none">Hình thái: [be<strong>cause</strong> of the TRAFfic SPIKE] - [Phức Giới Cụm][Complex Prepositional Phrase] bắt đầu bằng [Phức Giới Cơ][Complex Prepositional Base] "be<strong>cause</strong> of" kết hợp với [Danh Khối][Noun Block] "the TRAFfic SPIKE" phía sau tạo thành một khối hoàn chỉnh bổ nghĩa nguyên nhân cho [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "MONitor".</li>
 			
-					<li className="list-none">Chức năng: [because of the TRAFfic SPIKE] – [Trạng Cụm][Adverb Phrase] bổ nghĩa bối cảnh nguyên nhân cho hành động giám sát.</li>
+					<li className="list-none">Chức năng: [be<strong>cause</strong> of the TRAFfic SPIKE] – [Trạng Cụm][Adverb Phrase] bổ nghĩa bối cảnh nguyên nhân cho hành động giám sát.</li>
 			
 				</ul>
 			
@@ -760,12 +760,12 @@ export default function NineBox1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>the appliCAtion SYNCS DAta [because of an AUtomated synchroniZAtion POlicy].</li>
+					<li>the appliCAtion SYNCS DAta [be<strong>cause</strong> of an AUtomated synchroniZAtion POlicy].</li>
 					<li className="margin-bottom-20 list-none">Ứng dụng đồng bộ hóa dữ liệu [bởi vì một chính sách đồng bộ hóa tự động].</li>
 			
-					<li className="list-none">Hình thái: [because of an AUtomated synchroniZAtion POlicy] - [Phức Giới Cụm][Complex Prepositional Phrase] bắt đầu bằng [Phức Giới Cơ][Complex Prepositional Base] "because of" kết hợp với [Danh Khối][Noun Block] "an AUtomated synchroniZAtion POlicy" phía sau tạo thành một khối hoàn chỉnh bổ nghĩa nguyên nhân cho [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "SYNCS".</li>
+					<li className="list-none">Hình thái: [be<strong>cause</strong> of an AUtomated synchroniZAtion POlicy] - [Phức Giới Cụm][Complex Prepositional Phrase] bắt đầu bằng [Phức Giới Cơ][Complex Prepositional Base] "be<strong>cause</strong> of" kết hợp với [Danh Khối][Noun Block] "an AUtomated synchroniZAtion POlicy" phía sau tạo thành một khối hoàn chỉnh bổ nghĩa nguyên nhân cho [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "SYNCS".</li>
 			
-					<li className="list-none">Chức năng: [because of an AUtomated synchroniZAtion POlicy] – [Trạng Cụm][Adverb Phrase] bổ nghĩa bối cảnh nguyên nhân cho hành động [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "SYNCS" đồng bộ hóa.</li>
+					<li className="list-none">Chức năng: [be<strong>cause</strong> of an AUtomated synchroniZAtion POlicy] – [Trạng Cụm][Adverb Phrase] bổ nghĩa bối cảnh nguyên nhân cho hành động [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "SYNCS" đồng bộ hóa.</li>
 			
 				</ul>
 			

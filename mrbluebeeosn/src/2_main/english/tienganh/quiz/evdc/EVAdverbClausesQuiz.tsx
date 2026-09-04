@@ -25,12 +25,12 @@ export default function EVAdverbClausesQuiz(): React.JSX.Element {
 			question: "we deCIded to GO for a WALK __________ the RAIN had STOPPED.",
 			options: [
 				"although",
-				"as SOON as",
+				"as soon as",
 				"whereas",
 				"so that"
 			],
 			correctAnswer: 1,
-			explanation: "as SOON as (ngay khi) khởi đầu một câu con trạng ngữ chỉ thời gian (ADverb CLAUSE of TIME), diễn tả một hành động xảy ra ngay sau một hành động khác. Các phương án khác không phù hợp ngữ cảnh logic của câu: although (mặc dù), whereas (trong khi đó), so that (để mà)."
+			explanation: "as soon as (ngay khi) khởi đầu một câu con trạng ngữ chỉ thời gian (ADverb CLAUSE of TIME), diễn tả một hành động xảy ra ngay sau một hành động khác. Các phương án khác không phù hợp ngữ cảnh logic của câu: although (mặc dù), whereas (trong khi đó), so that (để mà)."
 		},
 		{
 			id: 2,

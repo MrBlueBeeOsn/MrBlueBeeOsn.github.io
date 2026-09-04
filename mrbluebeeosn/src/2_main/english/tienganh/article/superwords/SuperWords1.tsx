@@ -387,12 +387,12 @@ export default function SuperWords1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>we SCHEDuled the CONference [in the AFternoon].</li>
+					<li>we SCHEDuled the CONference [in the afterNOON].</li>
 					<li className="margin-bottom-20 list-none">Chúng tôi đã lên lịch cuộc họp [vào buổi chiều].</li>
 			
-					<li className="list-none">Hình thái: [in the AFternoon] – [Giới Cụm][Prepositional Phrase] thể hiện một khối thông tin định vị thời gian bắt đầu bằng [Giới Cơ][Prepositional Base] "in".</li>
+					<li className="list-none">Hình thái: [in the afterNOON] – [Giới Cụm][Prepositional Phrase] thể hiện một khối thông tin định vị thời gian bắt đầu bằng [Giới Cơ][Prepositional Base] "in".</li>
 			
-					<li className="list-none">Chức năng: [in the AFternoon] – [Trạng Cụm][Adverb Phrase] đang đứng vị trí sau để bổ nghĩa cho toàn câu bằng cách thiết lập bối cảnh thời gian cho hành động lên lịch.</li>
+					<li className="list-none">Chức năng: [in the afterNOON] – [Trạng Cụm][Adverb Phrase] đang đứng vị trí sau để bổ nghĩa cho toàn câu bằng cách thiết lập bối cảnh thời gian cho hành động lên lịch.</li>
 			
 				</ul>
 			
@@ -626,12 +626,12 @@ export default function SuperWords1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>they CANceled the LAUNCH [because the deVICE overHEATed under PRESsure].</li>
+					<li>they CANceled the LAUNCH [be<strong>cause</strong> the deVICE overHEATed under PRESsure].</li>
 					<li className="margin-bottom-20 list-none">Họ đã hủy bỏ buổi ra mắt [vì thiết bị quá nhiệt dưới áp lực].</li>
 			
-					<li className="list-none">Hình thái: [because the deVICE overHEATed under PRESsure] – [Liên Câu][Conjunctional Clause] thể hiện một cấu trúc câu con hoàn chỉnh có khối liên kết chỉ nguyên nhân "because" dẫn dắt ở đầu.</li>
+					<li className="list-none">Hình thái: [be<strong>cause</strong> the deVICE overHEATed under PRESsure] – [Liên Câu][Conjunctional Clause] thể hiện một cấu trúc câu con hoàn chỉnh có khối liên kết chỉ nguyên nhân "be<strong>cause</strong>" dẫn dắt ở đầu.</li>
 
-					<li className="list-none">Chức năng: [because the deVICE overHEATed under PRESsure] – [Trạng Câu][Adverb Clause] đang đứng vị trí ở cuối để bổ nghĩa cho toàn câu lớn bằng cách thiết lập nguyên nhân diễn ra sự việc.</li>
+					<li className="list-none">Chức năng: [be<strong>cause</strong> the deVICE overHEATed under PRESsure] – [Trạng Câu][Adverb Clause] đang đứng vị trí ở cuối để bổ nghĩa cho toàn câu lớn bằng cách thiết lập nguyên nhân diễn ra sự việc.</li>
 			
 				</ul>
 
@@ -660,12 +660,12 @@ export default function SuperWords1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>they CANceled the LAUNCH [because of the HARDware FAIlure].</li>
+					<li>they CANceled the LAUNCH [be<strong>cause</strong> of the HARDware FAIlure].</li>
 					<li className="margin-bottom-20 list-none">Họ đã hủy bỏ buổi ra mắt [vì lỗi phần cứng].</li>
 			
-					<li className="list-none">Hình thái: [because of the HARDware FAIlure] – [Phức Giới Cụm][Complex Prepositional Phrase] thể hiện một khối thông tin không chứa hành động, bắt đầu bằng [Phức Giới Cơ][Complex Prepositional Base] "because of" điều phối trực tiếp một [Danh Khối][Noun Block] trung tâm đứng sau.</li>
+					<li className="list-none">Hình thái: [be<strong>cause</strong> of the HARDware FAIlure] – [Phức Giới Cụm][Complex Prepositional Phrase] thể hiện một khối thông tin không chứa hành động, bắt đầu bằng [Phức Giới Cơ][Complex Prepositional Base] "be<strong>cause</strong> of" điều phối trực tiếp một [Danh Khối][Noun Block] trung tâm đứng sau.</li>
 
-					<li className="list-none">Chức năng: [because of the HARDware FAIlure] – [Trạng Cụm][Adverb Phrase] đang đứng vị trí ở cuối câu để làm mốc thiết lập bối cảnh nguyên nhân, bổ nghĩa cho toàn câu lớn.</li>
+					<li className="list-none">Chức năng: [be<strong>cause</strong> of the HARDware FAIlure] – [Trạng Cụm][Adverb Phrase] đang đứng vị trí ở cuối câu để làm mốc thiết lập bối cảnh nguyên nhân, bổ nghĩa cho toàn câu lớn.</li>
 			
 				</ul>
 			

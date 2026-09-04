@@ -60,7 +60,7 @@ export default function SOMEtimes1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>i SOMEtimes GO to the GYM AFter WORK.</li>
+          <li>i SOMEtimes GO to the GYM <strong>af</strong>ter WORK.</li>
           <li className="margin-bottom-20 list-none">Tôi thỉnh thoảng đi tập gym sau giờ làm.</li>
 
           <li>it SOMEtimes RAINS in the SUMmer.</li>

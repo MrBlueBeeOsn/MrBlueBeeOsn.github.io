@@ -72,7 +72,7 @@ export default function OBviously2(): React.JSX.Element {
 				<li value="5">he was OBviously exCIted about the TRIP.</li>
 				<li className="list-none margin-bottom-20">Anh ấy rõ ràng là rất hào hứng về chuyến đi.</li>
 
-				<li value="6">she was OBviously TIred after a LONG DAY.</li>
+				<li value="6">she was OBviously TIred <strong>af</strong>ter a LONG DAY.</li>
 				<li className="list-none margin-bottom-20">Cô ấy rõ ràng là rất mệt sau một ngày dài.</li>
 
 				<li value="7">the ACcident was OBviously PLANNED.</li>

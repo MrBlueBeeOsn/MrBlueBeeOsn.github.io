@@ -77,7 +77,7 @@ export default function MAYbe2(): React.JSX.Element {
         <li value="7">MAYbe SOMEday i'll VISit jaPAN.</li>
         <li className="list-none margin-bottom-20">Có lẽ một ngày nào đó tôi sẽ đến Nhật Bản.</li>
 
-        <li value="8">MAYbe it's because i'm TIred.</li>
+        <li value="8">MAYbe it's be<strong>cause</strong> i'm TIred.</li>
         <li className="list-none margin-bottom-20">Có lẽ là vì tôi mệt mỏi.</li>
 
         <li value="9">i'm NOT SURE, MAYbe we should LEAVE NOW.</li>

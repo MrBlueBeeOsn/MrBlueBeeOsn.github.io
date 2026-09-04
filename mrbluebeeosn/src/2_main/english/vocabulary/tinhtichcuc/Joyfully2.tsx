@@ -68,7 +68,7 @@ export default function JOYfully2(): React.JSX.Element {
         <li value="4">the HOLiday was JOYfully anTICipated by the CHILDren.</li>
         <li className="list-none margin-bottom-20">Các em nhỏ đã mong đợi kỳ nghỉ một cách vui vẻ.</li>
 
-        <li value="5">the COUPle JOYfully emBRACED after a LONG sepaRAtion.</li>
+        <li value="5">the COUPle JOYfully emBRACED <strong>af</strong>ter a LONG sepaRAtion.</li>
         <li className="list-none margin-bottom-20">Cặp đôi đã ôm nhau thật chặt sau một thời gian dài xa cách.</li>
 
         <li value="6">they JOYfully SHARED their exPERiences with each OTHer.</li>

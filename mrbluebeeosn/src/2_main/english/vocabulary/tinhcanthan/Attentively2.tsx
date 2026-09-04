@@ -62,7 +62,7 @@ export default function atTENtively2(): React.JSX.Element {
         <li value="2">the STUdents atTENtively WATCHED the demonSTRAtion.</li>
         <li className="list-none margin-bottom-20">Các học sinh xem phần trình diễn một cách chăm chú.</li>
 
-        <li value="3">he atTENtively READ the CONtract before SIGNing it.</li>
+        <li value="3">he atTENtively READ the CONtract be<strong>fore</strong> SIGNing it.</li>
         <li className="list-none margin-bottom-20">Anh ấy đọc hợp đồng một cách chăm chú trước khi ký.</li>
 
         <li value="4">the SCIentist atTENtively obSERVED the CELLS under the MIcroscope.</li>

@@ -77,7 +77,7 @@ export default function TENderly2(): React.JSX.Element {
         <li value="7">he TENderly SMILED at her.</li>
         <li className="list-none margin-bottom-20">Anh ấy mỉm cười với cô ấy một cách dịu dàng.</li>
 
-        <li value="8">they TENderly emBRACED after their LONG sepaRAtion.</li>
+        <li value="8">they TENderly emBRACED <strong>af</strong>ter their LONG sepaRAtion.</li>
         <li className="list-none margin-bottom-20">Họ ôm ấp nhau một cách dịu dàng sau thời gian dài xa cách.</li>
 
         <li value="9">she TENderly COMforted her FRIEND who was CRYing.</li>

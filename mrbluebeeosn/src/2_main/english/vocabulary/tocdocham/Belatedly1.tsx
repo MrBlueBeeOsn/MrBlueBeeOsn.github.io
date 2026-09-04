@@ -169,7 +169,7 @@ export default function beLAtedly1(): React.JSX.Element {
           <li>the BIRTHday GIFT arRIVED beLAtedly.</li>
           <li className="margin-bottom-20 list-none">Món quà sinh nhật đến muộn.</li>
 
-          <li>he beLAtedly REalized his misTAKE after the CONsequences.</li>
+          <li>he beLAtedly REalized his misTAKE <strong>af</strong>ter the CONsequences.</li>
           <li className="margin-bottom-20 list-none">Anh ấy muộn màng nhận ra lỗi lầm sau hậu quả.</li>
 
           <li>the aPOLogy was OFfered beLAtedly to MEND the reLAtionship.</li>

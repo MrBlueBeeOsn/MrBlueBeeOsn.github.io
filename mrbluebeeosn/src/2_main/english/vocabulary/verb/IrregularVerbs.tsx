@@ -260,7 +260,7 @@ export default function IrregularVerbs(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>he <strong>SPEAKS</strong> ENGlish FLUently after PRACticing with his LANGuage APP <strong>every EVEning</strong>.</li>
+					<li>he <strong>SPEAKS</strong> ENGlish FLUently <strong>af</strong>ter PRACticing with his LANGuage APP <strong>every EVEning</strong>.</li>
 					<li className="list-none">Anh ấy <strong>nói</strong> tiếng Anh trôi chảy sau khi luyện tập với ứng dụng ngôn ngữ của mình <strong>vào mỗi buổi tối</strong>.</li>
 					<li className="margin-bottom-20 list-none">Dùng ⏳ Thời Gian Hành Động ở Hiện Tại Đơn với dạng SPEAKS (cho chủ thể ngôi thứ ba số ít he) để chỉ thói quen hoặc sự việc diễn ra theo quy luật.</li>
 			
@@ -355,11 +355,11 @@ export default function IrregularVerbs(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>he <strong>beCOMES</strong> more FOcused after DRINKing a STRONG CUP of COFfee <strong>every EVEning</strong>.</li>
+					<li>he <strong>beCOMES</strong> more FOcused <strong>af</strong>ter DRINKing a STRONG CUP of COFfee <strong>every EVEning</strong>.</li>
 					<li className="list-none">Anh ấy <strong>trở nên</strong> tập trung hơn sau khi uống một tách cà phê đậm đặc <strong>vào mỗi buổi tối</strong>.</li>
 					<li className="margin-bottom-20 list-none">Dùng ⏳ Thời Gian Hành Động ở Hiện Tại Đơn với dạng beCOMES (cho chủ thể ngôi thứ ba số ít he) để chỉ thói quen hoặc sự việc diễn ra theo quy luật.</li>
 			
-					<li>she <strong>beCAME</strong> a proFESSional phoTOGrapher <strong>YESterday</strong> after reCEIVing her cerTIFicate.</li>
+					<li>she <strong>beCAME</strong> a proFESSional phoTOGrapher <strong>YESterday</strong> <strong>af</strong>ter reCEIVing her cerTIFicate.</li>
 					<li className="list-none">Cô ấy <strong>đã trở thành</strong> một nhiếp ảnh gia chuyên nghiệp <strong>vào ngày hôm qua</strong> sau khi nhận được chứng chỉ của mình.</li>
 					<li className="margin-bottom-20 list-none">Dùng ⏳ Thời Gian Hành Động ở Quá Khứ Đơn với dạng beCAME để chỉ việc đã xảy ra và kết thúc trong quá khứ.</li>
 			
@@ -374,7 +374,7 @@ export default function IrregularVerbs(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>he <strong>LEAVES</strong> his OFfice <strong>every EVEning</strong> after FINishing all TASKS.</li>
+					<li>he <strong>LEAVES</strong> his OFfice <strong>every EVEning</strong> <strong>af</strong>ter FINishing all TASKS.</li>
 					<li className="list-none">Anh ấy <strong>rời</strong> văn phòng <strong>vào mỗi buổi tối</strong> sau khi hoàn thành tất cả các nhiệm vụ.</li>
 					<li className="margin-bottom-20 list-none">Dùng ⏳ Thời Gian Hành Động ở Hiện Tại Đơn với dạng LEAVES (cho chủ thể ngôi thứ ba số ít he) để chỉ thói quen hoặc sự việc diễn ra theo quy luật.</li>
 			
@@ -393,11 +393,11 @@ export default function IrregularVerbs(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>he <strong>FEELS</strong> reLAXED after DRINKing a HOT CUP of COFfee <strong>every EVEning</strong>.</li>
+					<li>he <strong>FEELS</strong> reLAXED <strong>af</strong>ter DRINKing a HOT CUP of COFfee <strong>every EVEning</strong>.</li>
 					<li className="list-none">Anh ấy <strong>cảm thấy</strong> thư thái sau khi uống một tách cà phê nóng <strong>vào mỗi buổi tối</strong>.</li>
 					<li className="margin-bottom-20 list-none">Dùng ⏳ Thời Gian Hành Động ở Hiện Tại Đơn với dạng FEELS (cho chủ thể ngôi thứ ba số ít he) để chỉ thói quen hoặc sự việc diễn ra theo quy luật.</li>
 			
-					<li>she <strong>FELT</strong> TIred after CARrying her CAMERa BAG <strong>YESterday</strong>.</li>
+					<li>she <strong>FELT</strong> TIred <strong>af</strong>ter CARrying her CAMERa BAG <strong>YESterday</strong>.</li>
 					<li className="list-none">Cô ấy <strong>đã cảm thấy</strong> mệt mỏi sau khi đeo chiếc túi đựng máy ảnh <strong>vào ngày hôm qua</strong>.</li>
 					<li className="margin-bottom-20 list-none">Dùng ⏳ Thời Gian Hành Động ở Quá Khứ Đơn với dạng FELT để chỉ việc đã xảy ra và kết thúc trong quá khứ.</li>
 			
@@ -951,7 +951,7 @@ export default function IrregularVerbs(): React.JSX.Element {
 					<li className="list-none">Giáo viên <strong>hiểu</strong> vấn đề của học sinh.</li>
 					<li className="margin-bottom-20 list-none">Dùng ⏳ Thời Gian Hành Động ở Hiện Tại Đơn với dạng underSTANDS (cho chủ thể ngôi thứ ba số ít the TEACHer) để chỉ sự việc diễn ra theo quy luật.</li>
 			
-					<li>she <strong>underSTOOD</strong> the LESson CLEARly <strong>AFTER the explaNAtion</strong>.</li>
+					<li>she <strong>underSTOOD</strong> the LESson CLEARly <strong>af</strong>ter <strong>the explaNAtion</strong>.</li>
 					<li className="list-none">Cô ấy <strong>đã hiểu</strong> bài học một cách rõ ràng <strong>sau lời giải thích</strong>.</li>
 					<li className="margin-bottom-20 list-none">Dùng ⏳ Thời Gian Hành Động ở Quá Khứ Đơn với dạng underSTOOD để chỉ việc đã xảy ra và kết thúc trong quá khứ.</li>
 			
@@ -1239,7 +1239,7 @@ export default function IrregularVerbs(): React.JSX.Element {
 			
 				<ul className="list-square">
 
-					<li>i <strong>had FINished</strong> my HOMEwork before DINner.</li>
+					<li>i <strong>had FINished</strong> my HOMEwork be<strong>fore</strong> DINner.</li>
 					<li className="list-none">Tôi <strong>đã hoàn thành xong</strong> bài tập về nhà trước bữa tối <strong>rồi</strong>. (📏 Khoảng Thời Gian Hành Động ở Quá Khứ Hoàn Thành)</li>
 			
 				</ul>

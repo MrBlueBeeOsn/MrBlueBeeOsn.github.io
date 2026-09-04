@@ -119,7 +119,7 @@ export default function DependentClause1(): React.JSX.Element {
 			
 					<li>Nhóm từ để hỏi <strong>WH</strong>-<strong>H</strong>: who, which, whom, whose, where, when, why, how.</li>
 			
-					<li>Các liên cơ chỉ mối quan hệ logic: beCAUSE, alTHOUGH, if, while, beFORE, AFter, since.</li>
+					<li>Các liên cơ chỉ mối quan hệ logic: be<strong>cause</strong>, al<strong>though</strong>, if, while, be<strong>fore</strong>, <strong>af</strong>ter, since.</li>
 			
 				</ul>
 			
@@ -150,12 +150,12 @@ export default function DependentClause1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>we STAYED inSIDE [because it was COLD].</li>
+					<li>we STAYED inSIDE [be<strong>cause</strong> it was COLD].</li>
 					<li className="list-none">Chúng tôi ở trong nhà [vì trời lạnh].</li>
 			
 				</ul>
 			
-			<p className="margin-top-20 text-indent-whole">→ Cụm [because it was COLD] giải thích nguyên nhân cho việc ở trong nhà.</p>
+			<p className="margin-top-20 text-indent-whole">→ Cụm [be<strong>cause</strong> it was COLD] giải thích nguyên nhân cho việc ở trong nhà.</p>
 			
 			
 			<h4 className="margin-y-40">Chức năng [Danh Câu][Noun Clause]</h4>
