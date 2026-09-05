@@ -22,7 +22,7 @@ export default function SingularPluralVerbsQuiz(): React.JSX.Element {
 	const questions: Question[] = [
 		{
 			id: 1,
-			question: "Neither the manager nor the employees _______ aware of the new policy changes.",
+			question: "neither the MANager nor the emPLOYees _______ aWARE of the NEW POLicy CHANges.",
 			options: [
 				"is",
 				"are",
@@ -30,11 +30,11 @@ export default function SingularPluralVerbsQuiz(): React.JSX.Element {
 				"has"
 			],
 			correctAnswer: 1,
-			explanation: "When using \"neither... nor,\" the verb must agree with the noun closest to it. Since \"employees\" is plural, the plural verb \"are\" is required."
+			explanation: "When using \"neither... nor,\" the verb must agree with the noun closest to it. Since \"emPLOYees\" is plural, the plural verb \"are\" is required."
 		},
 		{
 			id: 2,
-			question: "The list of items _______ on the desk for your review.",
+			question: "the LIST of Items _______ on the DESK for your reVIEW.",
 			options: [
 				"are",
 				"were",
@@ -42,11 +42,11 @@ export default function SingularPluralVerbsQuiz(): React.JSX.Element {
 				"have been"
 			],
 			correctAnswer: 2,
-			explanation: "The subject is \"The list,\" which is singular. The phrase \"of items\" is a prepositional phrase and does not change the number of the subject."
+			explanation: "The subject is \"the LIST,\" which is singular. The phrase \"of Items\" is a prepositional phrase and does not change the number of the subject."
 		},
 		{
 			id: 3,
-			question: "Each of the students _______ required to submit a final project by Friday.",
+			question: "EACH of the STUdent _______ reQUIred to subMIT a FInal PROJect by FRIday.",
 			options: [
 				"are",
 				"were",
@@ -54,11 +54,11 @@ export default function SingularPluralVerbsQuiz(): React.JSX.Element {
 				"have"
 			],
 			correctAnswer: 2,
-			explanation: "\"Each\" is an indefinite pronoun that is always singular, regardless of the plural noun \"students\" that follows it."
+			explanation: "\"EACH\" is an indefinite pronoun that is always singular, regardless of the plural noun \"STUdent\" that follows it."
 		},
 		{
 			id: 4,
-			question: "Statistics _______ a difficult subject for many people to master.",
+			question: "staTIStics _______ a DIFficult SUBject for many PEOple to MASter.",
 			options: [
 				"is",
 				"are",
@@ -66,11 +66,11 @@ export default function SingularPluralVerbsQuiz(): React.JSX.Element {
 				"have been"
 			],
 			correctAnswer: 0,
-			explanation: "When referring to a branch of knowledge or a field of study, words ending in \"-ics\" (like statistics, physics, or mathematics) take a singular verb."
+			explanation: "When referring to a branch of knowledge or a field of study, words ending in \"-ics\" (like staTIStics, PHYsics, or matheMATics) take a singular verb."
 		},
 		{
 			id: 5,
-			question: "A pair of scissors _______ in the top drawer of the cabinet.",
+			question: "a PAIR of SCISsors _______ in the TOP DRAWer of the CABinet.",
 			options: [
 				"are",
 				"were",
@@ -78,11 +78,11 @@ export default function SingularPluralVerbsQuiz(): React.JSX.Element {
 				"have been"
 			],
 			correctAnswer: 2,
-			explanation: "While \"scissors\" is plural, the subject \"A pair\" is singular, so it requires the singular verb \"is.\""
+			explanation: "While \"SCISsors\" is plural, the subject \"a PAIR\" is singular, so it requires the singular verb \"is.\""
 		},
 		{
 			id: 6,
-			question: "Not only the teacher but also the student _______ excited about the field trip.",
+			question: "NOT Only the TEACHer but ALso the STUdent _______ exCIted about the FIELD TRIP.",
 			options: [
 				"are",
 				"is",
@@ -90,11 +90,11 @@ export default function SingularPluralVerbsQuiz(): React.JSX.Element {
 				"have been"
 			],
 			correctAnswer: 1,
-			explanation: "With \"not only... but also,\" the verb agrees with the subject closest to it. \"The student\" is singular, so \"is\" is the correct choice."
+			explanation: "With \"NOT Only... but ALso,\" the verb agrees with the subject closest to it. \"the STUdent\" is singular, so \"is\" is the correct choice."
 		},
 		{
 			id: 7,
-			question: "Most of the milk _______ spoiled because it was left out overnight.",
+			question: "MOST of the MILK _______ SPOILED because it was left OUT overNIGHT.",
 			options: [
 				"have",
 				"are",
@@ -102,11 +102,11 @@ export default function SingularPluralVerbsQuiz(): React.JSX.Element {
 				"were"
 			],
 			correctAnswer: 2,
-			explanation: "\"Most\" can be singular or plural depending on the noun it refers to. Since \"milk\" is uncountable (singular), the verb must be singular (\"has\")."
+			explanation: "\"MOST\" can be singular or plural depending on the noun it refers to. Since \"MILK\" is uncountable (singular), the verb must be singular (\"has\")."
 		},
 		{
 			id: 8,
-			question: "Five miles _______ a long distance to run every morning.",
+			question: "FIVE MILES _______ a LONG DIStance to RUN every MORNing.",
 			options: [
 				"are",
 				"were",
@@ -114,11 +114,11 @@ export default function SingularPluralVerbsQuiz(): React.JSX.Element {
 				"have been"
 			],
 			correctAnswer: 2,
-			explanation: "Units of measurement (distance, time, money) are usually treated as a single collective unit and take a singular verb."
+			explanation: "Units of measurement (DIStance, TIME, MONey) are usually treated as a single collective unit and take a singular verb."
 		},
 		{
 			id: 9,
-			question: "The team _______ arguing about which strategy to implement.",
+			question: "the TEAM _______ ARGuing about which STRATegy to IMplement.",
 			options: [
 				"is",
 				"are",
@@ -126,11 +126,11 @@ export default function SingularPluralVerbsQuiz(): React.JSX.Element {
 				"has"
 			],
 			correctAnswer: 1,
-			explanation: "When members of a collective noun (like \"team\") are acting as individuals or are in disagreement, a plural verb is used to show they are not acting as one unit."
+			explanation: "When members of a collective noun (like \"TEAM\") are acting as individuals or are in disagreement, a plural verb is used to show they are not acting as one unit."
 		},
 		{
 			id: 10,
-			question: "There _______ several reasons why we should postpone the meeting.",
+			question: "there _______ SEVERal REAsons why we should postPONE the MEETing.",
 			options: [
 				"is",
 				"was",
@@ -138,7 +138,7 @@ export default function SingularPluralVerbsQuiz(): React.JSX.Element {
 				"are"
 			],
 			correctAnswer: 3,
-			explanation: "In \"there is/there are\" sentences, the verb must agree with the noun that follows it. \"Reasons\" is plural, so \"are\" is the correct verb."
+			explanation: "In \"there is/there are\" sentences, the verb must agree with the noun that follows it. \"REAsons\" is plural, so \"are\" is the correct verb."
 		}
 	];
 
