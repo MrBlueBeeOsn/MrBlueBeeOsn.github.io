@@ -201,16 +201,16 @@ export default function UnstressedWords(): React.JSX.Element {
           </p>
 
           <p className="example-sentence">
-            <span className="pill s">taking OFF</span> &nbsp;<span className="pill p">given UP</span> &nbsp;<span className="pill v">woken UP</span>
+            <span className="pill s"><strong>ta</strong>king OFF</span> &nbsp;<span className="pill p"><strong>giv</strong>en UP</span> &nbsp;<span className="pill v"><strong>wo</strong>ken UP</span>
          </p>
         
         
           <p className="example-sentence">
-              <span className="pill s">broken DOWN</span> &nbsp;<span className="pill p">figured OUT</span> &nbsp;<span className="pill v">carried ON</span>
+              <span className="pill s"><strong>bro</strong>ken DOWN</span> &nbsp;<span className="pill p"><strong>fig</strong>ured OUT</span> &nbsp;<span className="pill v"><strong>car</strong>ried ON</span>
           </p>
 
           <p className="example-sentence">
-              <span className="pill s">settled IN</span> &nbsp;<span className="pill p">hurried IN</span> &nbsp;<span className="pill v">happened ON</span>
+              <span className="pill s"><strong>set</strong>tled IN</span> &nbsp;<span className="pill p"><strong>hur</strong>ried IN</span> &nbsp;<span className="pill v"><strong>hap</strong>pened ON</span>
           </p>
 
 
