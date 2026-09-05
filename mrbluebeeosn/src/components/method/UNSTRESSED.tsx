@@ -19,7 +19,58 @@ export default function VERBSADDS(): React.JSX.Element {
       ============================= */}
 
       <p className="margin-top-20 text-center">
+        
+        
+        <div className="example">
 
+          <p className="example-sentence">
+            <span className="pill s">STUdents</span> &nbsp;<span className="pill v">WRITE</span> &nbsp;<span className="pill p">esSAYS.</span>
+          </p>
+
+          <p className="example-sentence">
+            <span className="pill s">The STUdents</span> &nbsp;<span className="pill v">WRITE</span> &nbsp;<span className="pill p">the esSAYS.</span>
+          </p>
+
+          <p className="example-sentence">
+            <span className="pill s">The STUdents</span> &nbsp;<span className="pill v">will WRITE</span> &nbsp;<span className="pill p">the esSAYS.</span>
+          </p>
+
+          <p className="example-sentence">
+            <span className="pill s">The STUdents</span> &nbsp;<span className="pill v">will have WRITten </span> &nbsp;<span className="pill p">the esSAYS.</span>
+          </p>
+
+          <p className="example-sentence">
+            <span className="pill s">The STUdents</span> &nbsp;<span className="pill v">will have been WRITing</span> &nbsp;<span className="pill p">the esSAYS.</span>
+          </p>  
+
+        </div>
+        
+        
+        <div className="example">
+
+          <p className="example-sentence">
+            <span className="pill s">TEACHers</span> &nbsp;<span className="pill v">exPLAIN</span> &nbsp;<span className="pill p">LESsons.</span>
+          </p>
+
+          <p className="example-sentence">
+            <span className="pill s">The TEACHers</span> &nbsp;<span className="pill v">exPLAIN</span> &nbsp;<span className="pill p">the LESsons.</span>
+          </p>
+
+          <p className="example-sentence">
+            <span className="pill s">The TEACHers</span> &nbsp;<span className="pill v">will exPLAIN</span> &nbsp;<span className="pill p">the LESsons.</span>
+          </p>
+
+          <p className="example-sentence">
+            <span className="pill s">The TEACHers</span> &nbsp;<span className="pill v">will have exPLAINED</span> &nbsp;<span className="pill p">the LESsons.</span>
+          </p>
+
+          <p className="example-sentence">
+            <span className="pill s">The TEACHers</span> &nbsp;<span className="pill v">will have been exPLAINing</span> &nbsp;<span className="pill p">the LESsons.</span>
+          </p>
+
+        </div>
+        
+        
         <div className="example">
 
           <p className="example-sentence">
