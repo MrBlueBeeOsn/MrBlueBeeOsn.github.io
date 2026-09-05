@@ -31,7 +31,7 @@ export default function PREsentPERfect(): React.JSX.Element {
 
 				<ul className="list-square">
 
-					<li>i <strong>have JUST FINished</strong> WRIting <strong>this</strong> ARticle.</li>
+					<li>i <strong>have JUST FINished</strong> WRIting this ARticle.</li>
 					<li className="margin-bottom-20 list-none">Tôi <strong>vừa mới viết xong</strong> bài báo này.</li>
 
 					<li className="margin-bottom-20 list-none">Từ just được dùng để nhấn mạnh một hành động vừa mới xảy ra ngay trước thời điểm nói.</li>
@@ -57,7 +57,7 @@ export default function PREsentPERfect(): React.JSX.Element {
 
 					<ul className="list-square">
 
-						<li>i <strong>have WORKED</strong> at <strong>this</strong> COMpany for FIVE YEARS.</li>
+						<li>i <strong>have WORKED</strong> at this COMpany for FIVE YEARS.</li>
 						<li className="margin-bottom-20 list-none">Tôi <strong>đã làm việc</strong> ở công ty này được 5 năm (rồi).</li>
 
 						<li className="list-none">Câu này dùng 📏 Khoảng Thời Gian Hành Động ở Hiện Tại Hoàn Thành với từ for để chỉ một hành động bắt đầu trong quá khứ và vẫn tiếp tục kéo dài đến thời điểm hiện tại (bây giờ tôi vẫn đang làm ở công ty này).</li>
@@ -134,13 +134,13 @@ export default function PREsentPERfect(): React.JSX.Element {
 
 						<tr>
 								<td>
-									i <strong>have SEEN</strong> <strong>that</strong> MOvie.<br/>
+									i <strong>have SEEN</strong> that MOvie.<br/>
 									Tôi <strong>đã xem</strong> bộ phim đó rồi.<br/><br/>
 									
 									(và giờ mình biết nội dung)
 								</td>
 								<td>
-									I <strong>SAW</strong> <strong>that</strong> MOvie LAST WEEK.<br/>
+									I <strong>SAW</strong> that MOvie LAST WEEK.<br/>
 									Tôi <strong>đã xem</strong> bộ phim đó vào tuần trước.<br/><br/>
 
 									(chỉ kể sự kiện)

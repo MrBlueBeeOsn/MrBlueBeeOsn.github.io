@@ -65,7 +65,7 @@ export default function exTREMEly2(): React.JSX.Element {
         <li value="3">the exAM was exTREMEly DIFficult.</li>
         <li className="list-none margin-bottom-20">Bài kiểm tra rất khó.</li>
 
-        <li value="4">it's exTREMEly DANgerous to SWIM in <strong>this</strong> RIVer.</li>
+        <li value="4">it's exTREMEly DANgerous to SWIM in this RIVer.</li>
         <li className="list-none margin-bottom-20">Bơi ở con sông này rất nguy hiểm.</li>
 
         <li value="5">she is an exTREMEly TALented muSICian.</li>

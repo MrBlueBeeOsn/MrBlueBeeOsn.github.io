@@ -71,7 +71,7 @@ export default function corRECTly2(): React.JSX.Element {
         <li value="5">the engiNEER corRECTly CALculated the LOAD-BEARing caPACity of the BRIDGE.</li>
         <li className="list-none margin-bottom-20">Kỹ sư đã tính toán chính xác khả năng chịu tải của cây cầu.</li>
 
-        <li value="6">the RULES were corRECTly apPLIED in <strong>this</strong> CASE.</li>
+        <li value="6">the RULES were corRECTly apPLIED in this CASE.</li>
         <li className="list-none margin-bottom-20">Quy tắc đã được áp dụng chính xác trong trường hợp này.</li>
 
         <li value="7">the DOCtor corRECTly DIagnosed the PAtient's ILLness.</li>

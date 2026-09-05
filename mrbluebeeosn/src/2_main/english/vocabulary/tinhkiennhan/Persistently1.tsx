@@ -154,7 +154,7 @@ export default function perSIStently1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>he is so FOcused, perSIStently WORKing on <strong>this</strong> eQUAtion.</li>
+          <li>he is so FOcused, perSIStently WORKing on this eQUAtion.</li>
           <li className="list-none">Anh ấy rất tập trung, kiên trì làm việc với phương trình này.</li>
 
         </ul>

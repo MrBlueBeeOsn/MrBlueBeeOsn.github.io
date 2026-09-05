@@ -81,7 +81,7 @@ export default function VISibly1(): React.JSX.Element {
         <li value="8">she was VISibly NERvous be<strong>fore</strong> her SPEECH.</li>
         <li className="list-none margin-bottom-20">Cô ấy rõ ràng rất lo lắng trước bài phát biểu của mình.</li>
 
-        <li value="9">he was VISibly unCOMFORTable when they ASKED about his PAST.</li>
+        <li value="9">he was VISibly unCOMFORtable when they ASKED about his PAST.</li>
         <li className="list-none margin-bottom-20">Anh ấy rõ ràng rất không thoải mái khi họ hỏi về quá khứ của anh.</li>
 
         <li value="10">the TWO SISters were VISibly DIFFERent in persoNALity.</li>

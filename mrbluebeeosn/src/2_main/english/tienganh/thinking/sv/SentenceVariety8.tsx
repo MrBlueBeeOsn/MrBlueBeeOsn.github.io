@@ -155,7 +155,7 @@ export default function SentenceVariety8(): React.JSX.Element {
 					<li className="margin-bottom-20 list-none">Because I practice daily, I improve, and I feel confident.</li>
 
 					<li>Thêm điều kiện bằng if:</li>
-					<li className="list-none">If I keep <strong>this</strong> habit, I will improve, and I will feel confident because I practice daily.</li>
+					<li className="list-none">If I keep this habit, I will improve, and I will feel confident because I practice daily.</li>
 			
 				</ul>
 

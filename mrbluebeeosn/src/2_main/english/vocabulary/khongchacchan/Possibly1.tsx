@@ -80,7 +80,7 @@ export default function POSsibly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>is it POSsible to FINish <strong>this</strong> WORK toDAY?</li>
+          <li>is it POSsible to FINish this WORK toDAY?</li>
           <li className="margin-bottom-20 list-none">Có thể hoàn thành công việc này ngày hôm nay không?</li>
 
           <li>there is a possiBILity of RAIN LAter.</li>

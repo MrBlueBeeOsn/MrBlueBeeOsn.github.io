@@ -803,7 +803,7 @@ export default function IrregularVerbs(): React.JSX.Element {
 					<li className="list-none">Cô ấy <strong>đã nghe</strong> tin vui <strong>vào ngày hôm qua</strong>.</li>
 					<li className="margin-bottom-20 list-none">Dùng ⏳ Thời Gian Hành Động ở Quá Khứ Đơn với dạng HEARD để chỉ việc đã xảy ra và kết thúc trong quá khứ.</li>
 			
-					<li>we <strong>have HEARD</strong> about <strong>this</strong> PLAN <strong>beFORE</strong>.</li>
+					<li>we <strong>have HEARD</strong> about this PLAN <strong>beFORE</strong>.</li>
 					<li className="list-none">Chúng ta <strong>đã nghe</strong> về kế hoạch này <strong>trước đây</strong>.</li>
 					<li className="list-none">Cấu trúc này dùng 📏 Khoảng Thời Gian Hành Động ở Hiện Tại Hoàn Thành với have HEARD, nói về sự việc đã hoàn tất và liên quan đến hiện tại.</li>
 			
@@ -822,7 +822,7 @@ export default function IrregularVerbs(): React.JSX.Element {
 					<li className="list-none">Anh ấy <strong>đã giữ</strong> chiếc ô giúp tôi <strong>trong cơn mưa</strong>.</li>
 					<li className="margin-bottom-20 list-none">Dùng ⏳ Thời Gian Hành Động ở Quá Khứ Đơn với dạng HELD để chỉ việc đã xảy ra và kết thúc trong quá khứ.</li>
 			
-					<li>they <strong>have HELD</strong> <strong>this</strong> poSITion <strong>for THREE YEARS</strong>.</li>
+					<li>they <strong>have HELD</strong> this poSITion <strong>for THREE YEARS</strong>.</li>
 					<li className="list-none">Họ <strong>đã nắm giữ</strong> vị trí này <strong>được ba năm</strong>.</li>
 					<li className="list-none">Cấu trúc này dùng 📏 Khoảng Thời Gian Hành Động ở Hiện Tại Hoàn Thành với have HELD, nói về sự việc đã hoàn tất và liên quan đến hiện tại.</li>
 			
@@ -917,7 +917,7 @@ export default function IrregularVerbs(): React.JSX.Element {
 					<li className="list-none">Cô ấy <strong>đã bơi</strong> qua sông <strong>vào ngày hôm qua</strong>.</li>
 					<li className="margin-bottom-20 list-none">Dùng ⏳ Thời Gian Hành Động ở Quá Khứ Đơn với dạng SWAM để chỉ việc đã xảy ra và kết thúc trong quá khứ.</li>
 			
-					<li>they <strong>have SWUM</strong> in <strong>this</strong> LAKE <strong>man</strong>y TIMES.</li>
+					<li>they <strong>have SWUM</strong> in this LAKE <strong>man</strong>y TIMES.</li>
 					<li className="list-none">Họ <strong>đã bơi</strong> ở cái hồ này nhiều lần.</li>
 					<li className="list-none">Cấu trúc này dùng 📏 Khoảng Thời Gian Hành Động ở Hiện Tại Hoàn Thành với have SWUM, nói về sự việc đã hoàn tất và liên quan đến hiện tại.</li>
 			
@@ -936,7 +936,7 @@ export default function IrregularVerbs(): React.JSX.Element {
 					<li className="list-none">Anh ấy <strong>đã dạy</strong> chúng tôi một bài học quý giá <strong>vào ngày hôm qua</strong>.</li>
 					<li className="margin-bottom-20 list-none">Dùng ⏳ Thời Gian Hành Động ở Quá Khứ Đơn với dạng TAUGHT để chỉ việc đã xảy ra và kết thúc trong quá khứ.</li>
 			
-					<li>they <strong>have TAUGHT</strong> <strong>this</strong> SUBject for FIVE YEARS.</li>
+					<li>they <strong>have TAUGHT</strong> this SUBject for FIVE YEARS.</li>
 					<li className="list-none">Họ <strong>đã dạy</strong> môn học này được năm năm.</li>
 					<li className="list-none">Cấu trúc này dùng 📏 Khoảng Thời Gian Hành Động ở Hiện Tại Hoàn Thành với have TAUGHT, nói về sự việc đã hoàn tất và liên quan đến hiện tại.</li>
 			
@@ -1101,13 +1101,13 @@ export default function IrregularVerbs(): React.JSX.Element {
 			
 					<li>THIS NEW PHONE <strong>COSTS</strong> a LOT of MONey.</li>
 					<li className="list-none">Chiếc điện thoại mới này <strong>tốn</strong> rất nhiều tiền.</li>
-					<li className="margin-bottom-20 list-none">Dùng ⏳ Thời Gian Hành Động ở Hiện Tại Đơn với dạng COSTS (cho chủ thể ngôi thứ ba số ít <strong>this</strong> NEW PHONE) để chỉ một sự thật hoặc mức giá ở hiện tại.</li>
+					<li className="margin-bottom-20 list-none">Dùng ⏳ Thời Gian Hành Động ở Hiện Tại Đơn với dạng COSTS (cho chủ thể ngôi thứ ba số ít this NEW PHONE) để chỉ một sự thật hoặc mức giá ở hiện tại.</li>
 			
 					<li>the TRIP <strong>COST</strong> us a FORtune <strong>LAST SUMmer</strong>.</li>
 					<li className="list-none">Chuyến đi đó <strong>đã ngốn</strong> của chúng tôi một gia tài <strong>vào mùa hè năm ngoái</strong>.</li>
 					<li className="margin-bottom-20 list-none">Dùng ⏳ Thời Gian Hành Động ở Quá Khứ Đơn với dạng COST để chỉ sự việc đã xảy ra và kết thúc trong quá khứ (đặc biệt từ này giữ nguyên hình thức ở dạng quá khứ).</li>
 			
-					<li>a LOT of TIME <strong>has been COST</strong> by <strong>this</strong> deLAY.</li>
+					<li>a LOT of TIME <strong>has been COST</strong> by this deLAY.</li>
 					<li className="list-none">Rất nhiều thời gian <strong>đã bị lãng phí</strong>/<strong>thiệt hại</strong> bởi sự chậm trễ này.</li>
 					<li className="list-none">Cấu trúc này dùng từ chỉ hành động ở dạng hoàn thành (COST) đi sau has been để nói về một việc đã tác động đến hiện tại, với chủ thể chịu tác động là a LOT of TIME (rất nhiều thời gian).</li>
 			
@@ -1128,7 +1128,7 @@ export default function IrregularVerbs(): React.JSX.Element {
 			
 					<li>THIS WEBsite <strong>has been BUILT</strong> with GREAT CARE.</li>
 					<li className="list-none">Trang web này <strong>đã được xây dựng</strong> rất cẩn thận.</li>
-					<li className="list-none">Cấu trúc này dùng từ chỉ hành động ở dạng hoàn thành (BUILT) đi sau has been để nói về một việc đã hoàn tất và để lại kết quả ở hiện tại, với chủ thể chịu tác động là <strong>this</strong> WEBsite (trang WEB này).</li>
+					<li className="list-none">Cấu trúc này dùng từ chỉ hành động ở dạng hoàn thành (BUILT) đi sau has been để nói về một việc đã hoàn tất và để lại kết quả ở hiện tại, với chủ thể chịu tác động là this WEBsite (trang WEB này).</li>
 			
 				</ul>
 

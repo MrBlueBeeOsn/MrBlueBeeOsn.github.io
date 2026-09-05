@@ -128,7 +128,7 @@ export default function CURrently1(): React.JSX.Element {
           <li>she FORmerly WORKED as a TEACHer.</li>
           <li className="margin-bottom-20 list-none">Trước đây cô ấy làm giáo viên.</li>
 
-          <li>she had PREviously VISited <strong>this</strong> PLACE.</li>
+          <li>she had PREviously VISited this PLACE.</li>
           <li className="list-none">Cô ấy đã từng đến nơi này trước đó.</li>
 
         </ul>
@@ -154,7 +154,7 @@ export default function CURrently1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>we are CURrently at <strong>this</strong> POINT on the TIMEline.</li>
+          <li>we are CURrently at this POINT on the TIMEline.</li>
           <li className="list-none">Hiện tại chúng ta đang ở điểm này trên dòng thời gian.</li>
 
         </ul>

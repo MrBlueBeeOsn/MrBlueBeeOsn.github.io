@@ -63,7 +63,7 @@ export default function aGAIN1(): React.JSX.Element {
           <li>can you SAY THAT aGAIN?</li>
           <li className="margin-bottom-20 list-none">Bạn có thể nói lại điều đó được không?</li>
 
-          <li>i've SEEN <strong>this</strong> MOvie before, but i WANT to WATCH it aGAIN.</li>
+          <li>i've SEEN this MOvie before, but i WANT to WATCH it aGAIN.</li>
           <li className="list-none">Tôi đã xem bộ phim này rồi, nhưng tôi muốn xem lại.</li>
 
         </ul>
@@ -122,7 +122,7 @@ export default function aGAIN1(): React.JSX.Element {
           <li>i've Only DONE it ONCE.</li>
           <li className="margin-bottom-20 list-none">Tôi mới chỉ làm điều đó một lần.</li>
 
-          <li>i'm SEEing <strong>this</strong> MOvie for the FIRST TIME.</li>
+          <li>i'm SEEing this MOvie for the FIRST TIME.</li>
           <li className="list-none">Tôi đang xem bộ phim này lần đầu tiên.</li>
 
         </ul>

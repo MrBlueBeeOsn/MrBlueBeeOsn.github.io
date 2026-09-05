@@ -308,12 +308,12 @@ export default function SuperWords1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>[ANalyzing <strong>this</strong> DAta] is VItal for the LAUNCH.</li>
+					<li>[ANalyzing this DAta] is VItal for the LAUNCH.</li>
 					<li className="margin-bottom-20 list-none">[Việc phân tích dữ liệu này] là tối quan trọng cho việc ra mắt.</li>
 			
-					<li className="list-none">Hình thái: [Nalyzing <strong>this</strong> DAta] – [Tiếp Động Cụm][Progressive Verb Phrase] biểu thị khối hành động mở rộng bắt đầu bằng một dạng động cơ thêm đuôi -ing kết hợp cùng đối tượng tác động phía sau để mô tả trọn vẹn một sự việc.</li>
+					<li className="list-none">Hình thái: [Nalyzing this DAta] – [Tiếp Động Cụm][Progressive Verb Phrase] biểu thị khối hành động mở rộng bắt đầu bằng một dạng động cơ thêm đuôi -ing kết hợp cùng đối tượng tác động phía sau để mô tả trọn vẹn một sự việc.</li>
 			
-					<li className="list-none">Chức năng: [Nalyzing <strong>this</strong> DAta] – [Danh Cụm][Noun Phrase] đang đứng vị trí đầu câu để đóng vai trò làm [Danh Chủ][Noun Subject] cho toàn câu lớn.</li>
+					<li className="list-none">Chức năng: [Nalyzing this DAta] – [Danh Cụm][Noun Phrase] đang đứng vị trí đầu câu để đóng vai trò làm [Danh Chủ][Noun Subject] cho toàn câu lớn.</li>
 			
 				</ul>
 			
@@ -441,12 +441,12 @@ export default function SuperWords1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>the AUthor [who WROTE <strong>this</strong> ARticle] is an EXpert.</li>
+					<li>the AUthor [who WROTE this ARticle] is an EXpert.</li>
 					<li className="margin-bottom-20 list-none">Tác giả [người mà đã viết bài báo này] là một chuyên gia.</li>
 			
-					<li className="list-none">Hình thái: [who WROTE <strong>this</strong> ARticle] – [Liên Câu][Conjunctional Clause] biểu thị một cấu trúc câu con phụ thuộc bắt đầu bằng khối liên kết chỉ người "who" làm nhiệm vụ thế mạng và thực hiện trực tiếp hành động phía sau.</li>
+					<li className="list-none">Hình thái: [who WROTE this ARticle] – [Liên Câu][Conjunctional Clause] biểu thị một cấu trúc câu con phụ thuộc bắt đầu bằng khối liên kết chỉ người "who" làm nhiệm vụ thế mạng và thực hiện trực tiếp hành động phía sau.</li>
 			
-					<li className="list-none">Chức năng: [who WROTE <strong>this</strong> ARticle] – [Tính Câu][Adjective Clause] đang đứng vị trí ngay sau một đối tượng để định danh và làm rõ nghĩa cho tác giả đó.</li>
+					<li className="list-none">Chức năng: [who WROTE this ARticle] – [Tính Câu][Adjective Clause] đang đứng vị trí ngay sau một đối tượng để định danh và làm rõ nghĩa cho tác giả đó.</li>
 			
 				</ul>
 			

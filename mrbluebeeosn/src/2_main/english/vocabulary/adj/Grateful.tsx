@@ -25,7 +25,7 @@ export default function GRATEful(): React.JSX.Element {
 
         <ul className="list-square">
       
-          <li>i am DEEPly [GRATEful] for your supPORT during <strong>this</strong> DIFFicult TIME.</li>
+          <li>i am DEEPly [GRATEful] for your supPORT during this DIFFicult TIME.</li>
           <li className="list-none">Tôi vô cùng biết ơn sự hỗ trợ của bạn trong khoảng thời gian khó khăn này.</li>
       
         </ul>

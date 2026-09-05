@@ -60,7 +60,7 @@ export default function CHEERfully1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>she GREETed me CHEERfully <strong>this</strong> MORNing.</li>
+          <li>she GREETed me CHEERfully this MORNing.</li>
           <li className="margin-bottom-20 list-none">Cô ấy chào tôi một cách vui vẻ vào sáng nay.</li>
 
           <li>he WHISTled CHEERfully as he WORKED.</li>

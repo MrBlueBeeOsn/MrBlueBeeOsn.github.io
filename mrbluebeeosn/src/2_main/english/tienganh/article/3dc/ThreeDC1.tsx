@@ -309,12 +309,12 @@ export default function ThreeDC1(): React.ReactElement {
 			
 				<ul className="list-square">
 			
-					<li>it TAKES exCEPtional negotiAtion SKILLS [to seCURE <strong>this</strong> CONtract].</li>
+					<li>it TAKES exCEPtional negotiAtion SKILLS [to seCURE this CONtract].</li>
 					<li className="margin-bottom-20 list-none">Cần có kỹ năng đàm phán xuất sắc [để đạt được hợp đồng này].</li>
 			
-					<li className="list-none">Hình thái: Khối [to seCURE <strong>this</strong> CONtract] - [Hạt Thuần Động Cụm][Particle Bare Verb Phrase] bắt đầu bằng [Hạt Thuần Động Cơ][Particle Bare Verb Base] "to seCURE" kéo theo một [Danh Nhận][Noun Object] phía sau.</li>
+					<li className="list-none">Hình thái: Khối [to seCURE this CONtract] - [Hạt Thuần Động Cụm][Particle Bare Verb Phrase] bắt đầu bằng [Hạt Thuần Động Cơ][Particle Bare Verb Base] "to seCURE" kéo theo một [Danh Nhận][Noun Object] phía sau.</li>
 			
-					<li className="list-none">Chức năng: Khối [to seCURE <strong>this</strong> CONtract] - [Danh Cụm][Noun Phrase] đóng vai trò làm [Danh Chủ][Noun Subject] đứng sau [Thời-Thuần Động Cụm][Tense-Bare Verb Phrase] "TAKES exCEPtional negotiAtion SKILLS" để bổ nghĩa cho [Giữ Chủ][Placeholder Subject] "It".</li>
+					<li className="list-none">Chức năng: Khối [to seCURE this CONtract] - [Danh Cụm][Noun Phrase] đóng vai trò làm [Danh Chủ][Noun Subject] đứng sau [Thời-Thuần Động Cụm][Tense-Bare Verb Phrase] "TAKES exCEPtional negotiAtion SKILLS" để bổ nghĩa cho [Giữ Chủ][Placeholder Subject] "It".</li>
 			
 				</ul>
 
@@ -921,7 +921,7 @@ export default function ThreeDC1(): React.ReactElement {
 			
 					<ul className="list-square">
 				
-						<li>you [must NOT] SHARE <strong>this</strong> PASSword under any CIRcumstances.</li>
+						<li>you [must NOT] SHARE this PASSword under any CIRcumstances.</li>
 						<li className="list-none">Bạn [không được phép] chia sẻ mật khẩu này dưới bất kỳ hoàn cảnh nào.</li>
 				
 					</ul>
@@ -931,7 +931,7 @@ export default function ThreeDC1(): React.ReactElement {
 
 					<ul className="list-square">
 
-						<li>[under NO CIRcumstances must] you SHARE <strong>this</strong> PASSword.</li>
+						<li>[under NO CIRcumstances must] you SHARE this PASSword.</li>
 						<li className="margin-bottom-20 list-none">[Dưới bất kỳ hoàn cảnh nào cũng không được phép] bạn chia sẻ mật khẩu này.</li>
 
 						<li className="list-none">→ Việc đưa ra giới hạn [under NO CIRcumstances must] - <strong>Trạng Cụm phủ định</strong> [<strong>Negative Adverb Phrase</strong>] "under NO CIRcumstances" và [Áp-Thái Động Cơ][Assertive-Modal Verb Base] "must" lên đầu câu ngay từ đầu để "khóa" mọi khả năng ngay lập tức, sau đó mới nhắc đến hành động.</li>

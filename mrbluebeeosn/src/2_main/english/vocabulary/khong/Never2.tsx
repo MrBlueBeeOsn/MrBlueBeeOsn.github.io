@@ -59,7 +59,7 @@ export default function NEVer2(): React.JSX.Element {
         <li value="1">i have NEVer beFORE SEEN such a BEAUtiful SUNset.</li>
         <li className="list-none margin-bottom-20">Tôi chưa bao giờ thấy một cảnh hoàng hôn đẹp như vậy.</li>
 
-        <li value="2">i will NEVer aGAIN MAKE <strong>that</strong> misTAKE.</li>
+        <li value="2">i will NEVer aGAIN MAKE that misTAKE.</li>
         <li className="list-none margin-bottom-20">Tôi sẽ không bao giờ lặp lại sai lầm đó nữa.</li>
 
         <li value="3">NEVer MIND, it's NOT imPORTant.</li>
@@ -68,7 +68,7 @@ export default function NEVer2(): React.JSX.Element {
         <li value="4">i have NEVer SEEN such a BIG DOG.</li>
         <li className="list-none margin-bottom-20">Tôi chưa bao giờ thấy con chó nào to như vậy.</li>
 
-        <li value="5">i have NEVer HEARD of <strong>that</strong> BAND.</li>
+        <li value="5">i have NEVer HEARD of that BAND.</li>
         <li className="list-none margin-bottom-20">Tôi chưa bao giờ nghe nói về ban nhạc đó.</li>
 
         <li value="6">i will NEVer forGET your KINDness.</li>

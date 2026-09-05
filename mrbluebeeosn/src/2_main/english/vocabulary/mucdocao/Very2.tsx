@@ -78,7 +78,7 @@ export default function VERy2(): React.JSX.Element {
   
         <li className="list-none margin-bottom-20">Làm ơn nói chậm lại.</li>
 
-        <li value="8">PLEASE HANdle <strong>this</strong> GLASS VERy CAREfully.</li>
+        <li value="8">PLEASE HANdle this GLASS VERy CAREfully.</li>
         <li className="list-none margin-bottom-20">Làm ơn cầm ly này thật cẩn thận.</li>
 
         <li value="9">i LIKE COFfee VERy MUCH.</li>

@@ -31,11 +31,11 @@ export default function NhanBietTinhTuTiengAnh(): React.JSX.Element {
 
 			<h4 className="margin-y-40">1. Có thể… / đáng…: -able / -ible</h4>
 					
-			<p className="margin-top-20 text-indent-whole">COMFORTable, reSPONsible, FLEXible, VISible, inCREDible</p>
+			<p className="margin-top-20 text-indent-whole">COMFORtable, reSPONsible, FLEXible, VISible, inCREDible</p>
 			
 				<ul className="list-square">
 			
-					<li><strong>af</strong>ter a LONG DAY at WORK, I LOVE reLAXing on my <strong>COMFORTable</strong> SOfa with a GOOD BOOK.</li>
+					<li><strong>af</strong>ter a LONG DAY at WORK, I LOVE reLAXing on my <strong>COMFORtable</strong> SOfa with a GOOD BOOK.</li>
 					<li className="margin-bottom-20 list-none">Sau một ngày dài làm việc, tôi thích thư giãn trên chiếc ghế sofa <strong>thoải mái</strong> của mình với một cuốn sách hay.</li>
 			
 					<li>as a TEAM LEADer, he is <strong>reSPONsible</strong> for MAking SURE ALL PROJects are comPLEted on TIME.</li>
@@ -60,7 +60,7 @@ export default function NhanBietTinhTuTiengAnh(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>SWIMming in <strong>this</strong> DEEP RIVer DURing a HEAVy STORM is exTREMEly <strong>DANgerous</strong>.</li>
+					<li>SWIMming in this DEEP RIVer DURing a HEAVy STORM is exTREMEly <strong>DANgerous</strong>.</li>
 					<li className="margin-bottom-20 list-none">Bơi lội ở dòng sông sâu này trong một trận bão lớn là cực kỳ <strong>nguy hiểm</strong>.</li>
 			
 					<li>PARis is FAmous for its <strong>roMANtic</strong> ATmosphere and iCONic LANDmarks like the EIFFel TOWer.</li>
@@ -72,7 +72,7 @@ export default function NhanBietTinhTuTiengAnh(): React.JSX.Element {
 					<li>CHILDren are NATurally <strong>CURious</strong> about the WORLD around them and ALWAYS ASK <strong>man</strong>y QUEStions.</li>
 					<li className="margin-bottom-20 list-none">Trẻ em vốn dĩ <strong>tò mò</strong> về thế giới xung quanh và luôn đặt ra rất nhiều câu hỏi.</li>
 			
-					<li>the COMpany MADE an <strong>eNORmous</strong> PROFit <strong>this</strong> YEAR <strong>af</strong>ter LAUNCHing their NEW PRODuct LINE.</li>
+					<li>the COMpany MADE an <strong>eNORmous</strong> PROFit this YEAR <strong>af</strong>ter LAUNCHing their NEW PRODuct LINE.</li>
 					<li className="list-none">Công ty đã thu về lợi nhuận <strong>khổng lồ</strong> trong năm nay sau khi ra mắt dòng sản phẩm mới của họ.</li>
 			
 				</ul>

@@ -63,7 +63,7 @@ export default function THORoughly1(): React.JSX.Element {
           <li>she THORoughly CLEANED the HOUSE be<strong>fore</strong> the GUESTS arRIVED.</li>
           <li className="margin-bottom-20 list-none">Cô ấy đã dọn dẹp nhà cửa thật kỹ trước khi khách đến.</li>
 
-          <li>i have THORoughly reSEARCHED <strong>this</strong> TOpic.</li>
+          <li>i have THORoughly reSEARCHED this TOpic.</li>
           <li className="list-none">Tôi đã nghiên cứu kỹ lưỡng về chủ đề này.</li>
 
         </ul>

@@ -115,7 +115,7 @@ export default function DependentClause1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>Từ <strong>that</strong> và <strong>as</strong>.</li>
+					<li>Từ that và <strong>as</strong>.</li>
 			
 					<li>Nhóm từ để hỏi <strong>WH</strong>-<strong>H</strong>: who, which, whom, whose, where, when, why, how.</li>
 			
@@ -208,7 +208,7 @@ export default function DependentClause1(): React.JSX.Element {
 					<li>[that I lost yesterday]</li>
 					<li className="margin-bottom-20 list-none">[mà tôi làm mất ngày hôm qua]</li>
 
-					<li className="list-none">Từ "<strong>them</strong>" được thay thế bằng "<strong>that</strong>"</li>
+					<li className="list-none">Từ "<strong>them</strong>" được thay thế bằng "that"</li>
 			
 				</ul>
 			
@@ -248,7 +248,7 @@ export default function DependentClause1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>the COFfee <span className="pill p">[<strong>that i BOUGHT <strong>this</strong> MORNing</strong>]</span> is HOT.</li>
+					<li>the COFfee <span className="pill p">[<strong>that i BOUGHT this MORNing</strong>]</span> is HOT.</li>
 			
 				</ul>
 

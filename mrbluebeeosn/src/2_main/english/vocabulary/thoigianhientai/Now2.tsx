@@ -59,13 +59,13 @@ export default function NOW2(): React.JSX.Element {
         <li value="1">i NEED your HELP RIGHT NOW.</li>
         <li className="list-none margin-bottom-20">Tôi cần sự giúp đỡ của bạn ngay bây giờ.</li>
 
-        <li value="2">for NOW, let's JUST FOcus on FINishing <strong>this</strong> PROJect.</li>
+        <li value="2">for NOW, let's JUST FOcus on FINishing this PROJect.</li>
         <li className="list-none margin-bottom-20">Trong lúc này, chúng ta hãy tập trung vào việc hoàn thành dự án này đã.</li>
 
         <li value="3">i LIKE to GO HIking in the MOUNtains NOW and THEN.</li>
         <li className="list-none margin-bottom-20">Thỉnh thoảng tôi thích đi bộ đường dài trong núi.</li>
 
-        <li value="4">i NEVer KNEW about <strong>this</strong> PROBlem until NOW.</li>
+        <li value="4">i NEVer KNEW about this PROBlem until NOW.</li>
         <li className="list-none margin-bottom-20">Tôi chưa từng biết về vấn đề này cho đến bây giờ.</li>
 
         <li value="5">she USED to be VERy SHY, but THEN and NOW, she's VERy OUTgoing.</li>
@@ -83,7 +83,7 @@ export default function NOW2(): React.JSX.Element {
         <li value="9">NOW that you're HERE, let's get STARTed.</li>
         <li className="list-none margin-bottom-20">Bây giờ khi bạn đã ở đây, chúng ta bắt đầu nhé.</li>
 
-        <li value="10">i NEED to FINish <strong>this</strong> rePORT RIGHT <strong>this</strong> NOW.</li>
+        <li value="10">i NEED to FINish this rePORT RIGHT this NOW.</li>
         <li className="list-none margin-bottom-20">Tôi cần hoàn thành báo cáo này ngay lập tức.</li>
 
       </ol>

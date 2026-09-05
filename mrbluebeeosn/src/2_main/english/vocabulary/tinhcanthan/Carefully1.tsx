@@ -80,7 +80,7 @@ export default function CAREfully1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>be CAREful with <strong>that</strong> GLASS.</li>
+          <li>be CAREful with that GLASS.</li>
           <li className="margin-bottom-20 list-none">Cẩn thận với cái ly đó.</li>
 
           <li>she TAKES GOOD CARE of her PLANTS.</li>

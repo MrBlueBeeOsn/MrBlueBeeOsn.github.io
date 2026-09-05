@@ -68,7 +68,7 @@ export default function HONestly2(): React.JSX.Element {
         <li value="4">i HONestly adMIT that i MADE a misTAKE.</li>
         <li className="list-none margin-bottom-20">Tôi thành thật thừa nhận rằng tôi đã mắc sai lầm.</li>
 
-        <li value="5">HONestly SPEAKing, HOW to SOLVE <strong>this</strong> PROBlem?</li>
+        <li value="5">HONestly SPEAKing, HOW to SOLVE this PROBlem?</li>
         <li className="list-none margin-bottom-20">Nói thật ra, tôi không biết làm thế nào để giải quyết vấn đề này.</li>
 
         <li value="6">HONestly, i'm surPRISED that you SAID that.</li>

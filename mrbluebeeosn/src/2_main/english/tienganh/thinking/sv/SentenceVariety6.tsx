@@ -232,7 +232,7 @@ export default function SentenceVariety6(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>I know <strong>that</strong> she is honest.</li>
+					<li>I know that she is honest.</li>
 					<li className="list-none">Tôi biết rằng cô ấy trung thực.</li>
 			
 				</ul>
@@ -276,7 +276,7 @@ export default function SentenceVariety6(): React.JSX.Element {
 					<li>The student <strong>who</strong> studies regularly improves faster.</li>
 					<li className="margin-bottom-20 list-none">Học sinh học thường xuyên tiến bộ nhanh hơn.</li>
 			
-					<li>The car <strong>that</strong> I bought last year is reliable.</li>
+					<li>The car that I bought last year is reliable.</li>
 					<li className="list-none">Chiếc xe tôi mua năm ngoái rất đáng tin cậy.</li>
 			
 				</ul>

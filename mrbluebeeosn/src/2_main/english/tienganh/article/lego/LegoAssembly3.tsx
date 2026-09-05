@@ -141,7 +141,7 @@ export default function LegoAssembly3(): React.JSX.Element {
 					<li>You <strong>should</strong> study English every day.</li>
 					<li className="margin-bottom-20 list-none">Bạn nên học tiếng Anh mỗi ngày.</li>
 			
-					<li>I <strong>can</strong> finish <strong>this</strong> task by tomorrow.</li>
+					<li>I <strong>can</strong> finish this task by tomorrow.</li>
 					<li className="list-none">Tôi có thể hoàn thành nhiệm vụ này trước ngày mai.</li>
 			
 				</ul>

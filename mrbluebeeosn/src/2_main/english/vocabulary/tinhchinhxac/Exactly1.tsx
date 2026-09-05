@@ -146,7 +146,7 @@ export default function exACTly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>THIS DIGital CALiper can MEASure the LENGTH of <strong>this</strong> comPOnent exACTly to the MILlimeter.</li>
+          <li>THIS DIGital CALiper can MEASure the LENGTH of this comPOnent exACTly to the MILlimeter.</li>
           <li className="list-none">Thước kẹp kỹ thuật số này có thể đo độ dài của thành phần này chính xác đến từng milimet.</li>
 
         </ul>

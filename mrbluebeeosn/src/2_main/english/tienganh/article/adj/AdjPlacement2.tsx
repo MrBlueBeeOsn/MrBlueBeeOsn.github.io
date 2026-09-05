@@ -514,7 +514,7 @@ export default function AdjPlacement2(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>The book [<strong>that</strong> (<strong>O</strong>) <strong>she</strong> (<strong>S</strong>) <strong>recommended</strong> (<strong>V</strong>)] was fascinating.</li>
+					<li>The book [that (<strong>O</strong>) <strong>she</strong> (<strong>S</strong>) <strong>recommended</strong> (<strong>V</strong>)] was fascinating.</li>
 					<li className="margin-bottom-20 list-none">Cuốn sách [<strong>mà</strong> (<strong>O</strong>) <strong>cô ấy</strong> (<strong>S</strong>) <strong>giới thiệu</strong> (<strong>V</strong>)] rất hấp dẫn.</li>
 			
 					<li className="list-none">Hình thái: [that she recommended] – [Liên Câu][Conjunctional Clause] bên trong có cấu trúc O + S + V.</li>

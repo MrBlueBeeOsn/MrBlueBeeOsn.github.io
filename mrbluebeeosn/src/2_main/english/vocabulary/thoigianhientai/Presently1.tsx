@@ -64,7 +64,7 @@ export default function PRESently1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>i am PRESently WORKing on <strong>this</strong> PROJect.</li>
+          <li>i am PRESently WORKing on this PROJect.</li>
           <li className="margin-bottom-20 list-none">Hiện tại tôi đang làm việc trên dự án này.</li>
 
           <li>the MEETing will beGIN PRESently.</li>
@@ -132,7 +132,7 @@ export default function PRESently1(): React.JSX.Element {
           <li>i PREviously WORKED as a TEACHer.</li>
           <li className="margin-bottom-20 list-none">Trước đây tôi làm giáo viên.</li>
 
-          <li>we will disCUSS <strong>this</strong> LAter.</li>
+          <li>we will disCUSS this LAter.</li>
           <li className="list-none">Chúng ta sẽ thảo luận về điều này sau.</li>
 
         </ul>

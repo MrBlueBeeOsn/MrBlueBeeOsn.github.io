@@ -354,12 +354,12 @@ export default function TieredStructure1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>she STUDied HARD [to BUILD <strong>this</strong> SYStem].</li>
+					<li>she STUDied HARD [to BUILD this SYStem].</li>
 					<li className="margin-bottom-20 list-none">Cô ấy đã học tập chăm chỉ [để xây dựng hệ thống này].</li>
 			
-					<li className="list-none">Hình thái: [to BUILD <strong>this</strong> SYStem] - [Thuần Động Cụm][Bare Verb Phrase] định hình dưới dạng một vùng mã hành động mở rộng thuộc nhóm [Hạt Thuần Động Cơ][Particle Bare Verb Base] kéo theo đối tượng.</li>
+					<li className="list-none">Hình thái: [to BUILD this SYStem] - [Thuần Động Cụm][Bare Verb Phrase] định hình dưới dạng một vùng mã hành động mở rộng thuộc nhóm [Hạt Thuần Động Cơ][Particle Bare Verb Base] kéo theo đối tượng.</li>
 			
-					<li className="list-none">Chức năng: [to BUILD <strong>this</strong> SYStem] - [Trạng Cụm][Adverb Phrase] đảm nhận vai trò làm một khối bối cảnh mục đích đứng sau bổ nghĩa cho hành động.</li>
+					<li className="list-none">Chức năng: [to BUILD this SYStem] - [Trạng Cụm][Adverb Phrase] đảm nhận vai trò làm một khối bối cảnh mục đích đứng sau bổ nghĩa cho hành động.</li>
 			
 				</ul>
 			
@@ -376,12 +376,12 @@ export default function TieredStructure1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>the engiNEERS [in <strong>this</strong> TEAM] are creAtive.</li>
+					<li>the engiNEERS [in this TEAM] are creAtive.</li>
 					<li className="margin-bottom-20 list-none">Các kỹ sư [ở trong đội ngũ này] thì sáng tạo.</li>
 			
-					<li className="list-none">Hình thái: [in <strong>this</strong> TEAM] - [Giới Cụm][Prepositional Phrase] xuất hiện dưới dạng một vùng mã định vị không chứa hạt nhân hành động, bắt đầu bằng [Giới Cơ][Prepositional Base] in.</li>
+					<li className="list-none">Hình thái: [in this TEAM] - [Giới Cụm][Prepositional Phrase] xuất hiện dưới dạng một vùng mã định vị không chứa hạt nhân hành động, bắt đầu bằng [Giới Cơ][Prepositional Base] in.</li>
 			
-					<li className="list-none">Chức năng: [in <strong>this</strong> TEAM] - [Tính Cụm][Adjective Phrase] vận hành như một bộ quét đặt ngay phía sau đối tượng "engiNEERS" để hiển thị và mô tả đặc điểm phạm vi thuộc về của đối tượng đó.</li>
+					<li className="list-none">Chức năng: [in this TEAM] - [Tính Cụm][Adjective Phrase] vận hành như một bộ quét đặt ngay phía sau đối tượng "engiNEERS" để hiển thị và mô tả đặc điểm phạm vi thuộc về của đối tượng đó.</li>
 			
 				</ul>
 			

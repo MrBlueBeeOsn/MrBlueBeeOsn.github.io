@@ -155,7 +155,7 @@ export default function SauDangHanhDong1(): React.JSX.Element {
 
 					<ul className="list-square">
 
-						<li>RIGHT NOW i am WORKing on <strong>this</strong> ARticle!</li>
+						<li>RIGHT NOW i am WORKing on this ARticle!</li>
 						<li className="list-none">Ngay lúc này tôi đang làm bài báo này!</li>
 						<li className="margin-bottom-20 list-none">Sử dụng ⏱️ Thời Điểm Hành Động ở Hiện Tại Tiếp Diễn (am WORKing) để diễn tả hành động đang thực sự diễn ra ngay tại thời điểm nói.</li>
 
@@ -222,7 +222,7 @@ export default function SauDangHanhDong1(): React.JSX.Element {
 					<li className="list-none">Cô ấy làm việc ở Nhật, nhưng tôi đã từng làm việc ở Việt Nam vào năm ngoái.</li>
 					<li className="margin-bottom-20 list-none">Vế đầu dùng ⏳ Thời Gian Hành Động ở Hiện Tại Đơn (sự thật/thói quen ở hiện tại), vế sau dùng ⏳ Thời Gian Hành Động ở Quá Khứ Đơn (hành động đã xảy ra và kết thúc trong quá khứ với mốc thời gian cụ thể là LAST YEAR).</li>
 			
-					<li>i have WORKED from HOME for 3 YEARS, and i WANT to WORK like <strong>this</strong> forEVer.</li>
+					<li>i have WORKED from HOME for 3 YEARS, and i WANT to WORK like this forEVer.</li>
 					<li className="list-none">Tôi đã làm việc ở nhà được 3 năm rồi, và tôi muốn làm việc thế này mãi mãi.</li>
 					<li className="margin-bottom-20 list-none">Vế đầu dùng 📏 Khoảng Thời Gian Hành Động ở Hiện Tại Hoàn Thành với for 3 YEARS (hành động bắt đầu trong quá khứ và kéo dài đến hiện tại), vế sau dùng ⏳ Thời Gian Hành Động ở Hiện Tại Đơn (nêu lên mong muốn/sở thích ở hiện tại).</li>
 			

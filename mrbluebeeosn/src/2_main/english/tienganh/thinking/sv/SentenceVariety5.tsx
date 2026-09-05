@@ -259,7 +259,7 @@ export default function SentenceVariety5(): React.JSX.Element {
 
 						<tr>
 								<td><strong>nor</strong> phủ định cả hai</td>
-								<td><strong>which</strong> / <strong>who</strong> / <strong>that</strong> bổ nghĩa</td>
+								<td><strong>which</strong> / <strong>who</strong> / that bổ nghĩa</td>
 						</tr>
 					</tbody>
 				</table>

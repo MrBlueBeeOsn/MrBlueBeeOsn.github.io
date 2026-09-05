@@ -640,12 +640,12 @@ export default function NineBox1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>[WHAT the DEVops engiNEER upDATed <strong>this</strong> MORNing] SATisfies the SYStem deMAND.</li>
+					<li>[WHAT the DEVops engiNEER upDATed this MORNing] SATisfies the SYStem deMAND.</li>
 					<li className="margin-bottom-20 list-none">[Những gì kỹ sư DevOps cập nhật sáng nay] thỏa mãn yêu cầu của hệ thống.</li>
 			
-					<li className="list-none">Hình thái: [WHAT the DEVops engiNEER upDATed <strong>this</strong> MORNing] – [Liên Câu][Conjunctional Clause] chứa cấu trúc kết nối tường minh "What" kết hợp cùng một cấu trúc câu con xoay quanh [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "upDATed".</li>
+					<li className="list-none">Hình thái: [WHAT the DEVops engiNEER upDATed this MORNing] – [Liên Câu][Conjunctional Clause] chứa cấu trúc kết nối tường minh "What" kết hợp cùng một cấu trúc câu con xoay quanh [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "upDATed".</li>
 			
-					<li className="list-none">Chức năng: [WHAT the DEVops engiNEER upDATed <strong>this</strong> MORNing] – [Danh Câu][Noun Clause] đóng vai trò làm [Danh Chủ][Noun Subject], còn "the SYStem deMAND" đóng vai trò làm [Danh Khối][Noun Block] làm [Danh Nhận][Noun Object].</li>
+					<li className="list-none">Chức năng: [WHAT the DEVops engiNEER upDATed this MORNing] – [Danh Câu][Noun Clause] đóng vai trò làm [Danh Chủ][Noun Subject], còn "the SYStem deMAND" đóng vai trò làm [Danh Khối][Noun Block] làm [Danh Nhận][Noun Object].</li>
 			
 				</ul>
 			
@@ -658,7 +658,7 @@ export default function NineBox1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>we must rePLACE <strong>this</strong> [unseCURED] conNECtion.</li>
+					<li>we must rePLACE this [unseCURED] conNECtion.</li>
 					<li className="margin-bottom-20 list-none">Chúng ta phải thay thế kết nối [không an toàn] này.</li>
 			
 					<li className="list-none">Hình thái: [unseCURED] - [Hoàn Động Cơ][Perfect Verb Base] hình thành từ khối [Rễ Tính Cơ][Root Adjective Base] nguyên bản "seCURE" kết hợp tiền tố phủ định "un-" và mặc thêm hậu tố "-ed" để thay đổi diện mạo bên ngoài thành một khối cấp độ [Cơ][Base].</li>
@@ -672,7 +672,7 @@ export default function NineBox1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>we must rePLACE <strong>this</strong> conNECtion [CAUSing seCUrity LEAKS].</li>
+					<li>we must rePLACE this conNECtion [CAUSing seCUrity LEAKS].</li>
 					<li className="margin-bottom-20 list-none">Chúng ta phải thay thế kết nối [gây ra rò rỉ bảo mật] này.</li>
 			
 					<li className="list-none">Hình thái: [CAUSing seCUrity LEAKS] - [Tiếp Động Cụm][Progressive Verb Phrase] hình thành từ sự phối hợp giữa hạt nhân [Tiếp Động Cơ][Progressive Verb Base] "CAUSing" và mở rộng mục tiêu "seCUrity LEAKS" phía sau.</li>
@@ -686,7 +686,7 @@ export default function NineBox1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>we must rePLACE <strong>this</strong> conNECtion [which alLOWS unAUthorized USer ACcess].</li>
+					<li>we must rePLACE this conNECtion [which alLOWS unAUthorized USer ACcess].</li>
 					<li className="margin-bottom-20 list-none">Chúng ta phải thay thế kết nối [mà nó cho phép người dùng không được cấp quyền truy cập vào] này.</li>
 			
 					<li className="list-none">Hình thái: [which alLOWS unAUthorized USer ACcess] - [Liên Câu][Conjunctional Clause] chứa cấu trúc kết nối tường minh "which" kết hợp cùng cấu trúc câu con xoay quanh [Thời-Thuần Động Cơ][Tense-Bare Verb Base] "alLOWS".</li>
@@ -700,7 +700,7 @@ export default function NineBox1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>we must rePLACE <strong>this</strong> conNECtion [with MULtiple seCUrity FLAWS].</li>
+					<li>we must rePLACE this conNECtion [with MULtiple seCUrity FLAWS].</li>
 					<li className="margin-bottom-20 list-none">Chúng ta phải thay thế kết nối [với nhiều lỗ hổng bảo mật] này.</li>
 			
 					<li className="list-none">Hình thái: [with MULtiple seCUrity FLAWS] – Khối [Giới Cụm][Prepositional Phrase] bắt đầu bằng [Giới Cơ][Prepositional Base] "with" kết hợp với cụm mục tiêu "MULtiple seCUrity FLAWS" phía sau.</li>
