@@ -60,7 +60,7 @@ export default function proDUCtively1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>she SPENT her MORNing proDUCtively, FINishING SEVERal imPORTant TASKS.</li>
+          <li>she SPENT her MORNing proDUCtively, FINishING <strong>sever</strong>al imPORTant TASKS.</li>
           <li className="margin-bottom-20 list-none">Cô ấy đã dành buổi sáng của mình một cách hiệu quả, hoàn thành nhiều nhiệm vụ quan trọng.</li>
 
           <li>the TEAM WORKED proDUCtively toGETHer to MEET the DEADline.</li>
@@ -227,7 +227,7 @@ export default function proDUCtively1(): React.JSX.Element {
             <li value="1">she SPENT her MORNing WORKing.</li>
             <li className="list-none margin-bottom-20">Cô ấy đã dành buổi sáng của mình để làm việc.</li>
 
-            <li value="2">she SPENT her MORNing proDUCtively, FINishING SEVERal imPORTant TASKS.</li>
+            <li value="2">she SPENT her MORNing proDUCtively, FINishING <strong>sever</strong>al imPORTant TASKS.</li>
             <li className="list-none margin-bottom-20">Cô ấy đã dành buổi sáng của mình một cách hiệu quả, hoàn thành nhiều nhiệm vụ quan trọng.</li>
 
           </ol>

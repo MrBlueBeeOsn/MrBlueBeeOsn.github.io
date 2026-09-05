@@ -58,7 +58,7 @@ export default function IrregularVerbs(): React.JSX.Element {
 					<li className="list-none">Cô ấy [đã có] một cuộc họp hiệu quả với nhóm kế toán [vào ngày hôm qua].</li>
 					<li className="margin-bottom-20 list-none">Dùng ⏳ Thời Gian Hành Động ở Quá Khứ Đơn với dạng had để chỉ việc đã xảy ra và kết thúc trong quá khứ.</li>
 			
-					<li>they [have had] SEVeral disCUSsions about the NEW WEB PROJect.</li>
+					<li>they [have had] <strong>sever</strong>al disCUSsions about the NEW WEB PROJect.</li>
 					<li className="list-none">Họ [đã có] vài cuộc thảo luận về dự án web mới [rồi].</li>
 					<li className="list-none">Cấu trúc này dùng 📏 Khoảng Thời Gian Hành Động ở Hiện Tại Hoàn Thành với have had (trong đó have là trợ động, còn had là động chính ở dạng phân từ hai), nói về sự việc đã diễn ra và vẫn có liên quan hoặc để lại kết quả ở hiện tại.</li>
 			
@@ -1031,9 +1031,9 @@ export default function IrregularVerbs(): React.JSX.Element {
 					<li className="list-none">Anh ấy [đã bị ngã] từ chỗ thiết bị máy quay [trong lúc làm việc ngoài trời].</li>
 					<li className="margin-bottom-20 list-none">Dùng ⏳ Thời Gian Hành Động ở Quá Khứ Đơn với dạng FELL để chỉ việc đã xảy ra và kết thúc trong quá khứ.</li>
 			
-					<li>SEVERal OLD TREES [have <strong>fal</strong>len DOWN] [DURing the STORM].</li>
+					<li><strong>sever</strong>al OLD TREES [have <strong>fal</strong>len DOWN] [DURing the STORM].</li>
 					<li className="list-none">Một số cây cổ thụ [đã bị đổ sập] [trong cơn bão].</li>
-					<li className="list-none">Cấu trúc này dùng từ chỉ hành động ở dạng hoàn thành (FALLen) đi sau have để nói về sự việc đã xảy ra và để lại kết quả ở hiện tại, với chủ thể là SEVERal OLD TREES (một số cây cổ thụ).</li>
+					<li className="list-none">Cấu trúc này dùng từ chỉ hành động ở dạng hoàn thành (FALLen) đi sau have để nói về sự việc đã xảy ra và để lại kết quả ở hiện tại, với chủ thể là <strong>sever</strong>al OLD TREES (một số cây cổ thụ).</li>
 			
 				</ul>
 			

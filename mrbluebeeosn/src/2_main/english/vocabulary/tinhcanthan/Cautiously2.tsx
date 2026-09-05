@@ -83,7 +83,7 @@ export default function CAUtiously2(): React.JSX.Element {
         <li value="9">he CAUtiously TAsted the unfaMILiar DISH.</li>
         <li className="list-none margin-bottom-20">Anh ấy thận trọng nếm món ăn lạ.</li>
 
-        <li value="10">they CAUtiously aGREED to the proPOsal, with SEVERal conDITions.</li>
+        <li value="10">they CAUtiously aGREED to the proPOsal, with <strong>sever</strong>al conDITions.</li>
         <li className="list-none margin-bottom-20">Họ thận trọng đồng ý với đề xuất, kèm theo một vài điều kiện.</li>
 
       </ol>

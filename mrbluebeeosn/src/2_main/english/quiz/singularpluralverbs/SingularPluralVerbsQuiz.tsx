@@ -130,7 +130,7 @@ export default function SingularPluralVerbsQuiz(): React.JSX.Element {
 		},
 		{
 			id: 10,
-			question: "there _______ SEVERal REAsons why we should postPONE the MEETing.",
+			question: "there _______ several REAsons why we should postPONE the MEETing.",
 			options: [
 				"is",
 				"was",
