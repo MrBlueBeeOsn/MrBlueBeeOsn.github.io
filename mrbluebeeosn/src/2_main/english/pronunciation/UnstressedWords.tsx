@@ -33,6 +33,12 @@ export default function UnstressedWords(): React.JSX.Element {
         <div className="example">
 
           <p className="example-sentence">
+            <span className="highlight-255-padding-0-4 text-border">
+              1a. RHYTHm
+            </span>
+          </p>
+          
+          <p className="example-sentence">
             <span className="pill s">STUdents</span> &nbsp;<span className="pill v">WRITE</span> &nbsp;<span className="pill p">esSAYS.</span>
           </p>
 
@@ -56,6 +62,12 @@ export default function UnstressedWords(): React.JSX.Element {
         
         
         <div className="example">
+
+          <p className="example-sentence">
+            <span className="highlight-255-padding-0-4 text-border">
+              1b. RHYTHm
+            </span>
+          </p>
 
           <p className="example-sentence">
             <span className="pill s">TEACHers</span> &nbsp;<span className="pill v">exPLAIN</span> &nbsp;<span className="pill p">LESsons.</span>
@@ -83,6 +95,13 @@ export default function UnstressedWords(): React.JSX.Element {
         <div className="example">
 
           <p className="example-sentence">
+            <span className="highlight-255-padding-0-4 text-border">
+              2a. THOUGHT GROUP to READ in a SENtence
+            </span>
+          </p>
+          
+          
+          <p className="example-sentence">
             <span className="pill s">I NEED to SAVE some MONey</span>
           </p>
 
@@ -99,6 +118,12 @@ export default function UnstressedWords(): React.JSX.Element {
 
 
         <div className="example">
+
+          <p className="example-sentence">
+            <span className="highlight-255-padding-0-4 text-border">
+              2b. THOUGHT GROUP to READ in a SENtence
+            </span>
+          </p>
 
           <p className="example-sentence">
             <span className="pill s">we PLAN to VISit some FRIENDS</span>
@@ -119,12 +144,23 @@ export default function UnstressedWords(): React.JSX.Element {
         <div className="example">
 
           <p className="example-sentence">
-            <span className="pill s">[underSTAND]</span> &nbsp;<span className="pill p">[volunTEER]</span> &nbsp;<span className="pill v">[VietnamMESE]</span>
-         </p>
+            <span className="highlight-255-padding-0-4 text-border">
+              3a. SENtence STRESS
+            </span>
+          </p>
+
+          <p className="example-sentence">
+              <span className="pill s">do you THINK</span> &nbsp;<span className="pill p">did she CALL</span> &nbsp;<span className="pill v">will they WIN</span>
+          </p>
+          
+          
+          <p className="example-sentence">
+            <span className="pill s">do you KNOW</span> &nbsp;<span className="pill p">can you HELP</span> &nbsp;<span className="pill v">did they LEAVE</span>
+          </p>
         
         
           <p className="example-sentence">
-              <span className="pill s">[do you THINK]</span> &nbsp;<span className="pill p">[<strong>wa</strong>king UP]</span> &nbsp;<span className="pill v">[<strong>tak</strong>ing OFF]</span>
+              <span className="pill s">will she COME</span> &nbsp;<span className="pill p">does he CARE</span> &nbsp;<span className="pill v">could we STAY</span>
           </p>
 
 
@@ -132,6 +168,62 @@ export default function UnstressedWords(): React.JSX.Element {
 
 
         <div className="example">
+
+          <p className="example-sentence">
+            <span className="highlight-255-padding-0-4 text-border">
+              3b. WORD STRESS
+            </span>
+          </p>
+
+          <p className="example-sentence">
+            <span className="pill s">underSTAND</span> &nbsp;<span className="pill p">volunTEER</span> &nbsp;<span className="pill v">VietnamMESE</span>
+         </p>
+        
+        
+          <p className="example-sentence">
+              <span className="pill s">engiNEER</span> &nbsp;<span className="pill p">pioNEER</span> &nbsp;<span className="pill v">afterNOON</span>
+          </p>
+
+          <p className="example-sentence">
+              <span className="pill s">PortuGUESE</span> &nbsp;<span className="pill p">recomMEND</span> &nbsp;<span className="pill v">JapaNESE</span>
+          </p>
+
+
+        </div>
+
+
+        <div className="example">
+
+          <p className="example-sentence">
+            <span className="highlight-255-padding-0-4 text-border">
+              3c. PHRAsal VERB STRESS
+            </span>
+          </p>
+
+          <p className="example-sentence">
+            <span className="pill s">taking OFF</span> &nbsp;<span className="pill p">given UP</span> &nbsp;<span className="pill v">woken UP</span>
+         </p>
+        
+        
+          <p className="example-sentence">
+              <span className="pill s">broken DOWN</span> &nbsp;<span className="pill p">figured OUT</span> &nbsp;<span className="pill v">carried ON</span>
+          </p>
+
+          <p className="example-sentence">
+              <span className="pill s">settled IN</span> &nbsp;<span className="pill p">hurried IN</span> &nbsp;<span className="pill v">happened ON</span>
+          </p>
+
+
+        </div>
+
+
+        <div className="example">
+
+          <p className="example-sentence">
+            <span className="highlight-255-padding-0-4 text-border">
+              4. COUNTing STRESS
+            </span>
+          </p>
 
           <p className="example-sentence">
             <span className="pill s">one two THREE</span>
@@ -147,21 +239,56 @@ export default function UnstressedWords(): React.JSX.Element {
 
 
         </div>
-        
-        
-        <p className="example-sentence">
-            <span className="pill s">[YOgurt]</span> &nbsp;<span className="pill p">[YŌ gurt] Ō: LONG, Open SPACE</span> &nbsp;<span className="pill v">/ˈjoʊɡərt/</span>
-        </p>
 
-        <p className="example-sentence">
-            <span className="pill s">[YOGurt]</span> &nbsp;<span className="pill p">[YOG urt] O: SHORT, CLOSED SPACE</span> &nbsp;<span className="pill v">/ˈjɒɡət/</span>
-        </p>
+
+        <div className="example">
+
+          <p className="example-sentence">
+            <span className="highlight-255-padding-0-4 text-border">
+              5. CapitaliZAtion for STRESS
+            </span>
+          </p>
+        
+        
+          <p className="example-sentence">
+              <span className="pill s">[YOgurt]</span> &nbsp;<span className="pill p">[YŌ gurt]</span> &nbsp;<span className="pill v">Ō: LONG, DON'T NEED G</span>
+          </p>
+
+          <p className="example-sentence">
+              <span className="pill s">[YOGurt]</span> &nbsp;<span className="pill p">[YOG urt]</span> &nbsp;<span className="pill v">O: SHORT, NEED G</span>
+          </p>
+
+
+        </div>
+
+
+        <div className="example">
+
+          <p className="example-sentence">
+            <span className="highlight-255-padding-0-4 text-border">
+              6. IPA STRESS MARK (ˈ)
+            </span>
+          </p>
+        
+        
+          <p className="example-sentence">
+              <span className="pill s">[YOgurt]</span> &nbsp;<span className="pill p">/ˈjoʊɡərt/</span>
+          </p>
+
+          <p className="example-sentence">
+              <span className="pill s">[YOGurt]</span> &nbsp;<span className="pill p">/ˈjɒɡət/</span>
+          </p>
+
+
+        </div>
         
         
         <div className="example">
 
           <p className="example-sentence">
-            <span className="pill s">1. to</span>
+            <span className="highlight-255-padding-0-4 text-border">
+              7. to
+            </span>
           </p>
 
           <p className="example-sentence">
@@ -180,7 +307,9 @@ export default function UnstressedWords(): React.JSX.Element {
         <div className="example">
 
           <p className="example-sentence">
-            <span className="pill v">2. the</span>
+            <span className="highlight-255-padding-0-4 text-border">
+              8. the
+            </span>
           </p>
 
           <p className="example-sentence">
@@ -198,15 +327,17 @@ export default function UnstressedWords(): React.JSX.Element {
         <div className="example">
 
           <p className="example-sentence">
-            <span className="pill o">3. that</span>
+            <span className="highlight-255-padding-0-4 text-border">
+              9. that
+            </span>
           </p>
 
           <p className="example-sentence">
             <span className="o">
 
-              Dạng lướt (Yếu) ➡️ i KNOW that you CARE. /aɪ nəʊ ðət juː keə/<br/>
+              conJUNCtion (Yếu) ➡️ i KNOW that you CARE. /aɪ nəʊ ðət juː keə/<br/>
 
-              Dạng nhấn mạnh (Mạnh) ➡️ LOOK at THAT! /lʊk æt ðæt/
+              PROnoun (Mạnh) ➡️ LOOK at THAT! /lʊk æt ðæt/
 
             </span>
           </p>
@@ -216,15 +347,17 @@ export default function UnstressedWords(): React.JSX.Element {
         <div className="example">
 
           <p className="example-sentence">
-            <span className="pill m">4. was</span>
+            <span className="highlight-255-padding-0-4 text-border">
+              10. was
+            </span>
           </p>
 
           <p className="example-sentence">
             <span className="m">
 
-              Dạng lướt (Yếu) ➡️ he was LATE. /hiː wəz leɪt/<br/>
+              MAIN VERB (Yếu) [NOT STRESSED] ➡️ he was LATE. /hiː wəz leɪt/<br/>
 
-              Dạng nhấn mạnh (Mạnh) ➡️ YES, he WAS! /jes hiː wɒz/
+              ENDing SENtence (Mạnh) [NOT STRESSED] ➡️ YES, he WAS! /jes hiː wɒz/
 
             </span>
           </p>
@@ -235,15 +368,17 @@ export default function UnstressedWords(): React.JSX.Element {
         <div className="example">
 
           <p className="example-sentence">
-            <span className="pill p">5. have</span>
+            <span className="highlight-255-padding-0-4 text-border">
+              11. have
+            </span>
           </p>
 
           <p className="example-sentence">
             <span className="p">
 
-              Dạng lướt (Yếu) ➡️ you should have GONE. /juː ʃʊd əv ɡɒn/<br/>
+              HELPing VERB (Yếu) ➡️ you should have GONE. /juː ʃʊd əv ɡɒn/<br/>
 
-              Dạng nhấn mạnh (Mạnh) ➡️ i have a PEN. /aɪ hæv ə pen/
+              MAIN VERB (Mạnh) [NOT STRESSED] ➡️ i have a PEN. /aɪ hæv ə pen/
 
             </span>
           </p>
@@ -253,15 +388,17 @@ export default function UnstressedWords(): React.JSX.Element {
         <div className="example">
 
           <p className="example-sentence">
-            <span className="pill t">6. has</span>
+            <span className="highlight-255-padding-0-4 text-border">
+              12. has
+            </span>
           </p>
 
           <p className="example-sentence">
             <span className="t">
 
-              Dạng lướt (Yếu) ➡️ WHAT has he DONE? /wɒt əz hiː dʌn/<br/>
+              HELPing VERB (Yếu) ➡️ WHAT has he DONE? /wɒt əz hiː dʌn/<br/>
 
-              Dạng nhấn mạnh (Mạnh) ➡️ she has TWO DOGS. /ʃiː hæz tuː dɒɡz/
+              MAIN VERB (Mạnh) [NOT STRESSED] ➡️ she has TWO DOGS. /ʃiː hæz tuː dɒɡz/
 
             </span>
           </p>
@@ -271,15 +408,17 @@ export default function UnstressedWords(): React.JSX.Element {
         <div className="example">
 
           <p className="example-sentence">
-            <span className="pill ">7. for</span>
+            <span className="highlight-255-padding-0-4 text-border">
+              13. for
+            </span>
           </p>
 
           <p className="example-sentence">
             <span className="">
 
-              Dạng lướt (Yếu) ➡️ THIS is for YOU. /ðɪs ɪz fə juː/<br/>
+              prepoSITion (Yếu) ➡️ THIS is for YOU. /ðɪs ɪz fə juː/<br/>
 
-              Dạng nhấn mạnh (Mạnh) ➡️ WHAT is THIS FOR? /wɒt ɪz ðɪs fɔːr/
+              ENDing prepoSITion (Mạnh) ➡️ WHAT is THIS FOR? /wɒt ɪz ðɪs fɔːr/
 
             </span>
           </p>
@@ -289,15 +428,17 @@ export default function UnstressedWords(): React.JSX.Element {
          <div className="example">
 
           <p className="example-sentence">
-            <span className="pill ">8. and</span>
+            <span className="highlight-255-padding-0-4 text-border">
+              14. and
+            </span>
           </p>
 
           <p className="example-sentence">
             <span className="">
 
-              Dạng lướt (Yếu) ➡️ ROCK and ROLL. /rɒk ən rəʊl/<br/>
+              conJUNCtion (Yếu) ➡️ ROCK and ROLL. /rɒk ən rəʊl/<br/>
 
-              Dạng nhấn mạnh (Mạnh) ➡️ BLACK and WHITE. /blæk ænd waɪt/
+              conJUNCtion (Mạnh) ➡️ BLACK and WHITE. /blæk ænd waɪt/
 
             </span>
           </p>
