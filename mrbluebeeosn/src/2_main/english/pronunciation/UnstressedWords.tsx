@@ -80,21 +80,81 @@ export default function UnstressedWords(): React.JSX.Element {
         </div>
 
 
+        <div className="example">
+
+          <p className="example-sentence">
+            <span className="pill s">I NEED to SAVE some MONey</span>
+          </p>
+
+          <p className="example-sentence">
+            <span className="pill v">to BUY a NIcer HOUSE</span>
+          </p>
+
+          <p className="example-sentence">
+            <span className="pill p">and GIVE my KIDS a FUture.</span>
+          </p>
+
+
+        </div>
+
+
+        <div className="example">
+
+          <p className="example-sentence">
+            <span className="pill s">we PLAN to VISit some FRIENDS</span>
+          </p>
+
+          <p className="example-sentence">
+            <span className="pill v">who LIVE in a SMALler TOWN</span>
+          </p>
+
+          <p className="example-sentence">
+            <span className="pill p">and STAY there for the WEEKend.</span>
+          </p>
+
+
+        </div>
+        
+
+        <div className="example">
+
+          <p className="example-sentence">
+            <span className="pill s">[underSTAND]</span> &nbsp;<span className="pill p">[volunTEER]</span> &nbsp;<span className="pill v">[VietnamMESE]</span>
+         </p>
+        
+        
+          <p className="example-sentence">
+              <span className="pill s">[do you THINK]</span> &nbsp;<span className="pill p">[<strong>wa</strong>king UP]</span> &nbsp;<span className="pill v">[<strong>tak</strong>ing OFF]</span>
+          </p>
+
+
+        </div>
+
+
+        <div className="example">
+
+          <p className="example-sentence">
+            <span className="pill s">one two THREE</span>
+          </p>
+
+          <p className="example-sentence">
+            <span className="pill v">four five SIX</span>
+          </p>
+
+          <p className="example-sentence">
+            <span className="pill p">SEVen EIGHT nine TEN</span>
+          </p>
+
+
+        </div>
+        
+        
         <p className="example-sentence">
-            <span className="pill s">[YOgurt][YŌ gurt]</span> &nbsp;<span className="pill p">YO: LONG, Open SPACE</span> &nbsp;<span className="pill v">/ˈjoʊɡərt/</span>
+            <span className="pill s">[YOgurt]</span> &nbsp;<span className="pill p">[YŌ gurt] Ō: LONG, Open SPACE</span> &nbsp;<span className="pill v">/ˈjoʊɡərt/</span>
         </p>
 
         <p className="example-sentence">
-            <span className="pill s">[YOGurt][YOG urt]</span> &nbsp;<span className="pill p">YOG: SHORT, CLOSED SPACE</span> &nbsp;<span className="pill v">/ˈjɒɡət/</span>
-        </p>
-
-
-        <p className="example-sentence">
-            <span className="pill s">[one two THREE]</span> &nbsp;<span className="pill p">[four five SIX]</span> &nbsp;<span className="pill v">[SEVen EIGHT][nine TEN]</span>
-        </p>
-
-        <p className="example-sentence">
-            <span className="pill s">[underSTAND]</span> &nbsp;<span className="pill p">[VietnamMESE]</span> &nbsp;<span className="pill v">[do you THINK]</span>
+            <span className="pill s">[YOGurt]</span> &nbsp;<span className="pill p">[YOG urt] O: SHORT, CLOSED SPACE</span> &nbsp;<span className="pill v">/ˈjɒɡət/</span>
         </p>
         
         
@@ -107,9 +167,9 @@ export default function UnstressedWords(): React.JSX.Element {
           <p className="example-sentence">
             <span className="s">
 
-              to + PHỤ ÂM ➡️ Đọc là /tə/ (nghe giống "tờ") ➡️ Ví dụ: to SCHOOL /tə skuːl/<br/>
+              to + PHỤ ÂM ➡️ to SCHOOL /tə skuːl/<br/>
 
-              to + NGUYÊN ÂM ➡️ Đọc là /tʊ/ (nghe giống "tù") ➡️ Ví dụ: to EAT /tʊ iːt/
+              to + NGUYÊN ÂM ➡️ to EAT /tʊ iːt/
 
             </span>
           </p>
@@ -126,9 +186,9 @@ export default function UnstressedWords(): React.JSX.Element {
           <p className="example-sentence">
             <span className="v">
 
-              the + PHỤ ÂM ➡️ Đọc là /ðə/ (nghe giống "đờ") ➡️ Ví dụ: the BOOK /ðə bʊk/<br/>
+              the + PHỤ ÂM ➡️ the BOOK /ðə bʊk/<br/>
 
-              the + NGUYÊN ÂM ➡️ Đọc là /ði/ (nghe giống "đì") ➡️ Ví dụ: the END /ði ɛnd/
+              the + NGUYÊN ÂM ➡️ the END /ði ɛnd/
 
             </span>
           </p>
@@ -144,9 +204,9 @@ export default function UnstressedWords(): React.JSX.Element {
           <p className="example-sentence">
             <span className="o">
 
-              Dạng lướt (Yếu) ➡️ Đọc là /ðət/ (nghe giống "đợt") ➡️ Ví dụ: i KNOW that you CARE. /aɪ nəʊ ðət juː keə/<br/>
+              Dạng lướt (Yếu) ➡️ i KNOW that you CARE. /aɪ nəʊ ðət juː keə/<br/>
 
-              Dạng nhấn mạnh (Mạnh) ➡️ Đọc là /ðæt/ ➡️ Ví dụ: LOOK at THAT! /lʊk æt ðæt/
+              Dạng nhấn mạnh (Mạnh) ➡️ LOOK at THAT! /lʊk æt ðæt/
 
             </span>
           </p>
@@ -162,9 +222,9 @@ export default function UnstressedWords(): React.JSX.Element {
           <p className="example-sentence">
             <span className="m">
 
-              Dạng lướt (Yếu) ➡️ Đọc là /wəz/ (nghe giống "uờz") ➡️ Ví dụ: he was LATE. /hiː wəz leɪt/<br/>
+              Dạng lướt (Yếu) ➡️ he was LATE. /hiː wəz leɪt/<br/>
 
-              Dạng nhấn mạnh (Mạnh) ➡️ Đọc là /wɒz/ (hoặc /wʌz/) ➡️ Ví dụ: YES, he WAS! /jes hiː wɒz/
+              Dạng nhấn mạnh (Mạnh) ➡️ YES, he WAS! /jes hiː wɒz/
 
             </span>
           </p>
@@ -181,9 +241,9 @@ export default function UnstressedWords(): React.JSX.Element {
           <p className="example-sentence">
             <span className="p">
 
-              Dạng lướt (Yếu) ➡️ Đọc là /əv/ hoặc /v/ (nghe giống "ờv") ➡️ Ví dụ: you should have GONE. /juː ʃʊd əv ɡɒn/<br/>
+              Dạng lướt (Yếu) ➡️ you should have GONE. /juː ʃʊd əv ɡɒn/<br/>
 
-              Dạng nhấn mạnh (Mạnh) ➡️ Đọc là /hæv/ ➡️ Ví dụ: i have a PEN. /aɪ hæv ə pen/
+              Dạng nhấn mạnh (Mạnh) ➡️ i have a PEN. /aɪ hæv ə pen/
 
             </span>
           </p>
@@ -199,9 +259,9 @@ export default function UnstressedWords(): React.JSX.Element {
           <p className="example-sentence">
             <span className="t">
 
-              Dạng lướt (Yếu) ➡️ Đọc là /əz/ hoặc /z/ (nghe giống "ờz") ➡️ Ví dụ: WHAT has he DONE? /wɒt əz hiː dʌn/<br/>
+              Dạng lướt (Yếu) ➡️ WHAT has he DONE? /wɒt əz hiː dʌn/<br/>
 
-              Dạng nhấn mạnh (Mạnh) ➡️ Đọc là /hæz/ ➡️ Ví dụ: she has TWO DOGS. /ʃiː hæz tuː dɒɡz/
+              Dạng nhấn mạnh (Mạnh) ➡️ she has TWO DOGS. /ʃiː hæz tuː dɒɡz/
 
             </span>
           </p>
@@ -217,9 +277,9 @@ export default function UnstressedWords(): React.JSX.Element {
           <p className="example-sentence">
             <span className="">
 
-              Dạng lướt (Yếu) ➡️ Đọc là /fə/ (nghe giống "phờ") ➡️ Ví dụ: THIS is for YOU. /ðɪs ɪz fə juː/<br/>
+              Dạng lướt (Yếu) ➡️ THIS is for YOU. /ðɪs ɪz fə juː/<br/>
 
-              Dạng nhấn mạnh (Mạnh) ➡️ Đọc là /fɔːr/ ➡️ Ví dụ: WHAT is THIS FOR? /wɒt ɪz ðɪs fɔːr/
+              Dạng nhấn mạnh (Mạnh) ➡️ WHAT is THIS FOR? /wɒt ɪz ðɪs fɔːr/
 
             </span>
           </p>
@@ -235,9 +295,9 @@ export default function UnstressedWords(): React.JSX.Element {
           <p className="example-sentence">
             <span className="">
 
-              Dạng lướt (Yếu) ➡️ Đọc là /ən/ hoặc /n/ (nghe giống "ờn") ➡️ Ví dụ: ROCK and ROLL. /rɒk ən rəʊl/<br/>
+              Dạng lướt (Yếu) ➡️ ROCK and ROLL. /rɒk ən rəʊl/<br/>
 
-              Dạng nhấn mạnh (Mạnh) ➡️ Đọc là /ænd/ ➡️ Ví dụ: BLACK and WHITE. /blæk ænd waɪt/
+              Dạng nhấn mạnh (Mạnh) ➡️ BLACK and WHITE. /blæk ænd waɪt/
 
             </span>
           </p>
