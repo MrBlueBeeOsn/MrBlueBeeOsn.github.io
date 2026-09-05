@@ -17,6 +17,15 @@
       "content": "IPA, which stands for International Phonetic Alphabet, is like a secret code used by linguists to capture the unique sounds that make up every word in any language, including English.",
       "slug": "pronunciation/what-is-IPA",
       "date": "2024-04-12"
+    },
+    { 
+      "id": "UnstressedWords",
+      "categoryDisplay": "Pronunciation",
+      "categorySlug": "pronunciation",
+      "title": "Unstressed Words",
+      "content": "Unstressed words in English are those that are not emphasized when spoken, often pronounced more quickly or with less intonation.",
+      "slug": "pronunciation/unstressed-words",
+      "date": "2026-09-05"
     }
   ]
 }

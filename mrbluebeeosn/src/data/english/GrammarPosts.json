@@ -71,6 +71,15 @@
       "content": "Learn how to remember which verbs take an 's' in the third person singular.",
       "slug": "grammar/how-to-remember-verbs-add-s",
       "date": "2026-05-04"
+    },
+    { 
+      "id": "VerbsS",
+      "categoryDisplay": "Grammar",
+      "categorySlug": "grammar",
+      "title": "Verbs S",
+      "content": "Verbs S",
+      "slug": "grammar/verbs-s",
+      "date": "2026-09-05"
     }
   ]
 }

@@ -117,6 +117,7 @@ const Posts = lazy(() => import('@/data/Posts'));
 	const Adjective = lazy(() => import('@/2_main/english/grammar/Adjective'));
 	const Noun = lazy(() => import('@/2_main/english/grammar/Noun'));
 	const VerbsAddS = lazy(() => import('@/2_main/english/grammar/VerbsAddS'));
+	const VerbsS = lazy(() => import('@/2_main/english/grammar/VerbsS'));
 
 
 	// Quiz
@@ -130,6 +131,7 @@ const Posts = lazy(() => import('@/data/Posts'));
 	const PronunciationIndex = lazy(() => import('@/2_main/english/_indexes/PronunciationIndex'));
 	const Pronunciation = lazy(() => import('@/2_main/english/pronunciation/Pronunciation'));
 	const IPA = lazy(() => import('@/2_main/english/pronunciation/IPA'));
+	const UnstressedWords = lazy(() => import('@/2_main/english/pronunciation/UnstressedWords'));
 
 	// 4. Tiếng Anh
 	const TiengAnhIndex = lazy(() => import('@/2_main/english/_indexes/TiengAnhIndex'));
@@ -722,6 +724,7 @@ export default function AppRoutes(): React.JSX.Element {
 					<Route path="/grammar/what-is-an-adjective?" element={<Adjective />} />
 					<Route path="/grammar/what-is-a-noun?" element={<Noun />} />
 					<Route path="/grammar/how-to-remember-verbs-add-s?" element={<VerbsAddS />} />
+					<Route path="/grammar/verbs-s?" element={<VerbsS />} />
 
 					{/* Quiz */}
 					<Route path="/grammar/english-grammar-questions" element={<EnglishGrammarQuestions />} />
@@ -734,6 +737,7 @@ export default function AppRoutes(): React.JSX.Element {
 					<Route path="/pronunciation" element={<PronunciationIndex />} />
 					<Route path="/pronunciation/what-is-pronunciation?" element={<Pronunciation />} />
 					<Route path="/pronunciation/what-is-IPA?" element={<IPA />} />
+					<Route path="/pronunciation/unstressed-words" element={<UnstressedWords />} />
 					
 					{/* 4. Tiếng Anh */}
 					<Route path="/tieng-anh" element={<TiengAnhIndex />} />

@@ -5,9 +5,9 @@ import EyeIcon from '@/components/view/EyeIcon';
 import ViewCounter from '@/components/view/ViewCounter';
 import LikeButton from '@/components/like/LikeButton';
 
-export default function (): React.JSX.Element {
+export default function GENuinely2(): React.JSX.Element {
 
-  const postId = "";
+  const postId = "GENuinely2";
 
   return (<>
 

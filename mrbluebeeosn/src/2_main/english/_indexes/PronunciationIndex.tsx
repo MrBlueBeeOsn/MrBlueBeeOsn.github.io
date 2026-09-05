@@ -86,9 +86,30 @@ export default function PronunciationIndex(): React.JSX.Element {
 
         </div>
 
+
+        <div className="sub-box">
+
+          {/* =============================
+              Pronunciation Terms
+          ============================= */}
+
+          <ul className="list-border1">
+
+            <li>
+              <div className="li-content">
+                <Link to="/pronunciation/unstressed-words">Unstressed Words</Link>
+              </div>
+            </li>
+
+            
+          </ul>
+
+        </div>
+
       </div>
 
-      <UNSTRESSED />
+
+      {/* <UNSTRESSED /> */}
 
     </article>
     
