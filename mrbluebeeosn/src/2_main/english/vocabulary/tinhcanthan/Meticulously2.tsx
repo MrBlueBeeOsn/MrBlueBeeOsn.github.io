@@ -56,7 +56,7 @@ export default function meTICulously2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1">she meTICulously PLANNED the PARTy, MAking SURE <strong>eve</strong>ry DEtail was PERfect.</li>
+        <li value="1">she meTICulously PLANNED the PARTy, MAking SURE <strong>ever</strong>y DEtail was PERfect.</li>
         <li className="list-none margin-bottom-20">Cô ấy lên kế hoạch cho bữa tiệc một cách tỉ mỉ, đảm bảo mọi chi tiết đều hoàn hảo.</li>
 
         <li value="2">the WATCH was meTICulously CRAFTed by SKILLED ARtisans.</li>
@@ -65,16 +65,16 @@ export default function meTICulously2(): React.JSX.Element {
         <li value="3">the rePORT was BASED on meTICulously REsearched DAta.</li>
         <li className="list-none margin-bottom-20">Báo cáo này dựa trên dữ liệu được nghiên cứu một cách tỉ mỉ.</li>
 
-        <li value="4">the GARden was meTICulously mainTAINED, with <strong>eve</strong>ry PLANT PERfectly TRIMMED.</li>
+        <li value="4">the GARden was meTICulously mainTAINED, with <strong>ever</strong>y PLANT PERfectly TRIMMED.</li>
         <li className="list-none margin-bottom-20">Khu vườn được chăm sóc tỉ mỉ, với từng cây đều được cắt tỉa hoàn hảo.</li>
 
-        <li value="5">the PAINTing was meTICulously deTAILED, CAPturing <strong>eve</strong>ry NUance of the SUBject.</li>
+        <li value="5">the PAINTing was meTICulously deTAILED, CAPturing <strong>ever</strong>y NUance of the SUBject.</li>
         <li className="list-none margin-bottom-20">Bức tranh được vẽ chi tiết tỉ mỉ, bắt trọn mọi sắc thái của chủ thể.</li>
 
         <li value="6">the SCIentist meTICulously obSERVED the beHAvior of the ANimals.</li>
         <li className="list-none margin-bottom-20">Nhà khoa học quan sát hành vi của động vật một cách tỉ mỉ.</li>
 
-        <li value="7">the hisTORian meTICulously reCORDed <strong>eve</strong>ry DEtail of the eVent.</li>
+        <li value="7">the hisTORian meTICulously reCORDed <strong>ever</strong>y DEtail of the eVent.</li>
         <li className="list-none margin-bottom-20">Nhà sử học ghi chép tỉ mỉ mọi chi tiết của sự kiện.</li>
 
         <li value="8">the CHEF meTICulously prePARED the MEAL, Using Only the FRESHest inGREdients</li>

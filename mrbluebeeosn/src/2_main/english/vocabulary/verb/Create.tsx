@@ -162,7 +162,7 @@ export default function Create(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li><strong>eve</strong>ry PROduct deSIGN dePARTment reQUIRES a [creAtive] TEAM.</li>
+          <li><strong>ever</strong>y PROduct deSIGN dePARTment reQUIRES a [creAtive] TEAM.</li>
           <li className="margin-bottom-20 list-none">Mỗi bộ phận thiết kế sản phẩm đều yêu cầu một đội ngũ [có tính sáng tạo].</li>
       
           <li className="list-none">Hình thái: [creAtive] - [Diện Tính Cơ][Modified Adjective Base] hình thành từ khối [Rễ Động Cơ][Root Verb Base] nguyên bản "creATE" kết hợp biến đổi đuôi và hậu tố "-ive" để thay đổi diện mạo bên ngoài thành một khối cấp độ [Cơ][Base] có khả năng mô tả tính chất đặc điểm.</li>

@@ -85,7 +85,7 @@ export default function QUICKly1(): React.JSX.Element {
           <li>he is a QUICK LEARNer.</li>
           <li className="margin-bottom-20 list-none">Anh ấy là một người học nhanh.</li>
 
-          <li>his QUICKness imPRESSED <strong>eve</strong>ryone.</li>
+          <li>his QUICKness imPRESSED <strong>ever</strong>yone.</li>
           <li className="list-none">Sự nhanh nhẹn của anh ấy đã gây ấn tượng với mọi người.</li>
 
         </ul>

@@ -71,7 +71,7 @@ export default function FREquently2(): React.JSX.Element {
         <li value="5">his NAME was FREquently menTIONED in the NEWS.</li>
         <li className="list-none margin-bottom-20">Tên của ông ấy được đề cập thường xuyên trên tin tức.</li>
 
-        <li value="6"><strong>eve</strong>ry WEBSITE is FREquently upDAted with NEW inforMAtion.</li>
+        <li value="6"><strong>ever</strong>y WEBSITE is FREquently upDAted with NEW inforMAtion.</li>
         <li className="list-none margin-bottom-20">Trang web được cập nhật thường xuyên với thông tin mới.</li>
 
         <li value="7">his QUESTion is FREquently ASKED by our CUStomers.</li>

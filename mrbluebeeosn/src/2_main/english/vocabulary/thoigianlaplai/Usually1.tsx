@@ -83,7 +83,7 @@ export default function Usually1(): React.JSX.Element {
           <li>THIS is my USual rouTINE.</li>
           <li className="margin-bottom-20 list-none">Đây là thói quen thường ngày của tôi.</li>
 
-          <li>i USE this PEN <strong>eve</strong>ry DAY.</li>
+          <li>i USE this PEN <strong>ever</strong>y DAY.</li>
           <li className="list-none">Tôi dùng cây bút này mỗi ngày.</li>
 
         </ul>

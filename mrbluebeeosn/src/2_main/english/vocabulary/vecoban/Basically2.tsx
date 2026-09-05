@@ -77,7 +77,7 @@ export default function BAsically2(): React.JSX.Element {
         <li value="7">BAsically the iDEa is to SIMplify the PROcess.</li>
         <li className="list-none margin-bottom-20">Về cơ bản, ý tưởng là đơn giản hóa quy trình.</li>
 
-        <li value="8">i THINK <strong>eve</strong>ryone BAsically underSTOOD the inSTRUCtions.</li>
+        <li value="8">i THINK <strong>ever</strong>yone BAsically underSTOOD the inSTRUCtions.</li>
         <li className="list-none margin-bottom-20">Tôi nghĩ mọi người về cơ bản là đã hiểu các hướng dẫn.</li>
 
         <li value="9">THIS NEW MOdel is BAsically the SAME as the OLD one.</li>

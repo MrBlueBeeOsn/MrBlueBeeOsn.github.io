@@ -184,7 +184,7 @@ export default function NhanBietTinhTuTiengAnh(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>Even in her SEVenties, she reMAINS VEry <strong>ACtive</strong> and GOES JOGging <strong>eve</strong>ry MORNing.</li>
+					<li>Even in her SEVenties, she reMAINS VEry <strong>ACtive</strong> and GOES JOGging <strong>ever</strong>y MORNing.</li>
 					<li className="margin-bottom-20 list-none">Dù đã ở tuổi bảy mươi, bà ấy vẫn rất <strong>năng động</strong> và đi chạy bộ mỗi buổi sáng.</li>
 			
 					<li>the MARketing TEAM CAME UP with a <strong>creAtive</strong> camPAIGN to atTRACT YOUNGer CUStomers.</li>
