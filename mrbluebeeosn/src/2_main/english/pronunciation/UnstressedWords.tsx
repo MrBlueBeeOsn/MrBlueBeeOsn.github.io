@@ -357,7 +357,7 @@ export default function UnstressedWords(): React.JSX.Element {
 
               MAIN VERB (Yếu) [NOT STRESSED] ➡️ he was LATE. /hiː wəz leɪt/<br/>
 
-              ENDing SENtence (Mạnh) [NOT STRESSED] ➡️ YES, he WAS! /jes hiː wɒz/
+              ENDing SENtence (Mạnh) ➡️ YES, he WAS! /jes hiː wɒz/
 
             </span>
           </p>
