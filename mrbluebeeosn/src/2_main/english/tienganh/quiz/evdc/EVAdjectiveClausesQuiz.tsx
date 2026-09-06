@@ -34,7 +34,7 @@ export default function EVAdjectiveClausesQuiz(): React.JSX.Element {
 		},
 		{
 			id: 2,
-			question: "the BOOK _______ i BORrowed from the LIbrary YESterday is VERy INTEresting.",
+			question: "the BOOK _______ i BORrowed from the LIbrary YESterday is VERy INTEResting.",
 			options: [
 				"who",
 				"whom",

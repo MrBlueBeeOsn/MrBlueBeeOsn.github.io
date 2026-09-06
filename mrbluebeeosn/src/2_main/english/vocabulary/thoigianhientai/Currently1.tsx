@@ -174,7 +174,7 @@ export default function CURrently1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>i am CURrently READing a BOOK about HIStory.</li>
+          <li>i am CURrently READing a BOOK about HISTORy.</li>
           <li className="list-none">Hiện tại tôi đang đọc một cuốn sách về lịch sử.</li>
 
         </ul>

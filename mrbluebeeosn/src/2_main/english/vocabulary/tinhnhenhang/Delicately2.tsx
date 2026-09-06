@@ -68,7 +68,7 @@ export default function DELicately2(): React.JSX.Element {
         <li value="4">the situAtion reQUIred to be DELicately HANdled to aVOID CONflict.</li>
         <li className="list-none margin-bottom-20">Tình huống này cần được xử lý một cách khéo léo để tránh xung đột.</li>
 
-        <li value="5">the CURry was DELicately SPICED, alLOWing the NATural FLAvors of the inGREdients to SHINE THROUGH.</li>
+        <li value="5">the CURry was DELicately SPICED, alLOWing the NATURal FLAvors of the inGREdients to SHINE THROUGH.</li>
         <li className="list-none margin-bottom-20">Cà ri được gia vị một cách tinh tế, cho phép hương vị tự nhiên của các nguyên liệu tỏa sáng.</li>
 
         <li value="6">the WATCH was DELicately conSTRUCted with INtricate DEtails.</li>

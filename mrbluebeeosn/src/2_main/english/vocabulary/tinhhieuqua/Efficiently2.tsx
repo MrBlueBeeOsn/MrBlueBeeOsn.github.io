@@ -83,7 +83,7 @@ export default function efFICiently2(): React.JSX.Element {
         <li value="9">the COMpany efFICiently transPORTS GOODS to CUStomers worldWIDE.</li>
         <li className="list-none margin-bottom-20">Công ty vận chuyển hàng hóa đến khách hàng trên toàn thế giới một cách hiệu quả.</li>
 
-        <li value="10">we NEED to efFICiently Utilize our NATural REsources.</li>
+        <li value="10">we NEED to efFICiently Utilize our NATURal REsources.</li>
         <li className="list-none margin-bottom-20">Chúng ta cần sử dụng hiệu quả các tài nguyên thiên nhiên của mình.</li>
 
       </ol>

@@ -119,7 +119,7 @@ export default function esPECially1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>GENerally, i LIKE to GO to BED EARly.</li>
+          <li>GENERally, i LIKE to GO to BED EARly.</li>
           <li className="margin-bottom-20 list-none">Nói chung, tôi thích đi ngủ sớm.</li>
 
           <li>i <Link to="/vocabulary/Usually-1">Usually</Link> HAVE BREAKfast at 7 A.M.</li>
@@ -190,10 +190,10 @@ export default function esPECially1(): React.JSX.Element {
 
           <ol>
 
-            <li value="1">i LIKE to EAT VEGEtables.</li>
+            <li value="1">i LIKE to EAT VEGETables.</li>
             <li className="list-none margin-bottom-20">Tôi thích ăn rau.</li>
 
-            <li value="2">i LIKE to EAT VEGEtables, esPECially BROCcoli.</li>
+            <li value="2">i LIKE to EAT VEGETables, esPECially BROCcoli.</li>
             <li className="list-none margin-bottom-20">Tôi thích ăn rau, đặc biệt là bông cải xanh.</li>
 
           </ol>

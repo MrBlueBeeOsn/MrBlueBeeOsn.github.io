@@ -123,7 +123,7 @@ export default function parTICularly1(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>GENerally, i LIKE to STAY at HOME on WEEKends.</li>
+          <li>GENERally, i LIKE to STAY at HOME on WEEKends.</li>
           <li className="margin-bottom-20 list-none">Nói chung, tôi thích ở nhà vào cuối tuần.</li>
 
           <li>i reMEMber VAguely MEETing her beFORE.</li>

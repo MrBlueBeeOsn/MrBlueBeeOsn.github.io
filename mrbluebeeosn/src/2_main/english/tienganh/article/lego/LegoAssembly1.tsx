@@ -618,12 +618,12 @@ export default function LegoAssembly1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>the PROgram CRASHED [due to a MEMory LEAK].</li>
+					<li>the PROgram CRASHED [due to a MEMORy LEAK].</li>
 					<li className="margin-bottom-20 list-none">Chương trình đã bị sập [vì lỗi rò rỉ bộ nhớ].</li>
 
-					<li className="list-none">Hình thái: [due to a MEMory LEAK] - [Phức Giới Cụm][Complex Prepositional Phrase] bắt đầu bằng một [Phức Giới Cơ][Complex Prepositional Base] due to kết hợp khối định danh đi kèm phía sau để chỉ nguyên nhân khách quan.</li>
+					<li className="list-none">Hình thái: [due to a MEMORy LEAK] - [Phức Giới Cụm][Complex Prepositional Phrase] bắt đầu bằng một [Phức Giới Cơ][Complex Prepositional Base] due to kết hợp khối định danh đi kèm phía sau để chỉ nguyên nhân khách quan.</li>
 
-					<li className="list-none">Chức năng: [due to a MEMory LEAK] - [Trạng Cụm][Adverb Phrase] mở rộng bối cảnh nguyên nhân lý do cho trạng thái sự việc CRASHED.</li>
+					<li className="list-none">Chức năng: [due to a MEMORy LEAK] - [Trạng Cụm][Adverb Phrase] mở rộng bối cảnh nguyên nhân lý do cho trạng thái sự việc CRASHED.</li>
 			
 				</ul>
 			

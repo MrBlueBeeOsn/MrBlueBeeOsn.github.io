@@ -245,17 +245,17 @@ export default function UnstressedWords(): React.JSX.Element {
 
           <p className="example-sentence">
             <span className="highlight-255-padding-0-4 text-border">
-              5. CapitaliZAtion for STRESS
+              5a. STRESS: CapitaliZAtion - preFER Using
             </span>
           </p>
         
         
           <p className="example-sentence">
-              <span className="pill s">[YOgurt]</span> &nbsp;<span className="pill p">[YŌ gurt]</span> &nbsp;<span className="pill v">Ō: LONG, DON'T NEED G</span>
+              <span className="pill s">YOgurt</span> &nbsp;<span className="pill p">[YŌ gurt]</span> &nbsp;<span className="pill v">Ō: LONG, DON'T NEED G</span>
           </p>
 
           <p className="example-sentence">
-              <span className="pill s">[YOGurt]</span> &nbsp;<span className="pill p">[YOG urt]</span> &nbsp;<span className="pill v">O: SHORT, NEED G</span>
+              <span className="pill s">YOGurt</span> &nbsp;<span className="pill p">[YOG urt]</span> &nbsp;<span className="pill v">O: SHORT, NEED G</span>
           </p>
 
 
@@ -266,17 +266,132 @@ export default function UnstressedWords(): React.JSX.Element {
 
           <p className="example-sentence">
             <span className="highlight-255-padding-0-4 text-border">
-              6. IPA STRESS MARK (ˈ)
+              5b. STRESS: IPA - MARK (ˈ)
             </span>
           </p>
         
         
           <p className="example-sentence">
-              <span className="pill s">[YOgurt]</span> &nbsp;<span className="pill p">/ˈjoʊɡərt/</span>
+              <span className="pill s">YOgurt</span> &nbsp;<span className="pill p">/ˈjoʊɡərt/</span>
           </p>
 
           <p className="example-sentence">
-              <span className="pill s">[YOGurt]</span> &nbsp;<span className="pill p">/ˈjɒɡət/</span>
+              <span className="pill s">YOGurt</span> &nbsp;<span className="pill p">/ˈjɒɡət/</span>
+          </p>
+
+
+        </div>
+
+        <div className="example">
+
+          <p className="example-sentence">
+            <span className="highlight-255-padding-0-4 text-border">
+              6a. CONTENT WORD → đọc 2 âm tiết
+            </span>
+          </p>
+
+          <p className="example-sentence">
+            <span className="pill s">CHOCOLate</span> &nbsp;<span className="pill p">/ˈtʃɒk.lət/</span>
+          </p>
+
+          <p className="example-sentence">
+            <span className="pill s">ASPIRin</span> &nbsp;<span className="pill p">/ˈæs.prɪn/</span>
+          </p>
+
+          <p className="example-sentence">
+            <span className="pill s">CAMERa</span> &nbsp;<span className="pill p">/ˈkæm.rə/</span>
+          </p>
+
+          <p className="example-sentence">
+            <span className="pill s">FAMILy</span> &nbsp;<span className="pill p">/ˈfæm.li/</span>
+          </p>
+
+          <p className="example-sentence">
+            <span className="pill s">DIFFERent</span> &nbsp;<span className="pill p">/ˈdɪf.rənt/</span>
+          </p>
+
+          <p className="example-sentence">
+            <span className="pill s">FAVORite</span> &nbsp;<span className="pill p">/ˈfeɪv.rɪt/</span>
+          </p>
+
+          <p className="example-sentence">
+            <span className="pill s">MEMORy</span> &nbsp;<span className="pill p">/ˈmem.ri/</span>
+          </p>
+
+          <p className="example-sentence">
+            <span className="pill s">HISTORy</span> &nbsp;<span className="pill p">/ˈhɪs.tri/</span>
+          </p>
+
+          <p className="example-sentence">
+            <span className="pill s">NATURal</span> &nbsp;<span className="pill p">/ˈnætʃ.rəl/</span>
+          </p>
+
+
+        </div>
+
+
+        <div className="example">
+
+          <p className="example-sentence">
+            <span className="highlight-255-padding-0-4 text-border">
+              6b. CONTENT WORD → đọc 3 âm tiết
+            </span>
+          </p>
+
+          <p className="example-sentence">
+            <span className="pill s">CHOCOLate</span> &nbsp;<span className="pill p">/ˈtʃɒk.lət/</span>
+          </p>
+
+          <p className="example-sentence">
+            <span className="pill s">VEGETable</span> &nbsp;<span className="pill p">/ˈvedʒ.tə.bəl/</span>
+          </p>
+
+          <p className="example-sentence">
+            <span className="pill s">TEMPERature</span> &nbsp;<span className="pill p">/ˈtem.prə.tʃər/</span>
+          </p>
+
+          <p className="example-sentence">
+            <span className="pill s">INTEResting</span> &nbsp;<span className="pill p">/ˈɪn.trə.stɪŋ/</span>
+          </p>
+
+          <p className="example-sentence">
+            <span className="pill s">NATURally</span> &nbsp;<span className="pill p">/ˈnætʃ.rə.li/</span>
+          </p>
+
+          <p className="example-sentence">
+            <span className="pill s">LITERature</span> &nbsp;<span className="pill p">/ˈlɪt.rə.tʃər/</span>
+          </p>
+
+          <p className="example-sentence">
+            <span className="pill s">MISERable</span> &nbsp;<span className="pill p">/ˈmɪz.rə.bəl/</span>
+          </p>
+
+          <p className="example-sentence">
+            <span className="pill s">GENERally</span> &nbsp;<span className="pill p">/ˈdʒen.rə.li/</span>
+          </p>
+
+          <p className="example-sentence">
+            <span className="pill s">FAVORable</span> &nbsp;<span className="pill p">/ˈfeɪv.rə.bəl/</span>
+          </p>
+
+
+        </div>
+
+
+        <div className="example">
+
+          <p className="example-sentence">
+            <span className="highlight-255-padding-0-4 text-border">
+              6c. FUNCtion WORD → đọc 2 âm tiết
+            </span>
+          </p>
+
+          <p className="example-sentence">
+            <span className="pill s"><strong>ever</strong>y</span> &nbsp;<span className="pill p">/ˈev.ri/</span>
+          </p>
+
+          <p className="example-sentence">
+            <span className="pill s"><strong>sever</strong>al</span> &nbsp;<span className="pill p">/ˈsev.rəl/</span>
           </p>
 
 

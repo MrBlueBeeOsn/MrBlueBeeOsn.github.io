@@ -757,7 +757,7 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>she <strong>afFORDS to BUY</strong> a NEW proFESsional CAMEra to CAPture BEAUtiful LANDscapes.</li>
+					<li>she <strong>afFORDS to BUY</strong> a NEW proFESsional CAMERa to CAPture BEAUtiful LANDscapes.</li>
 					<li className="list-none">Cô ấy <strong>có đủ khả năng mua</strong> một chiếc máy ảnh chuyên nghiệp mới để ghi lại những khung cảnh thiên nhiên tươi đẹp.</li>
 					<li className="list-none">she là chủ thể. Sau động từ afFORD (thường dùng ở thể phủ định hoặc nghi vấn nhiều hơn, nhưng dạng khẳng định vẫn chính xác khi nói về tiềm lực), hành động tiếp theo bắt buộc phải ở dạng to V (to BUY).</li>
 			
@@ -794,7 +794,7 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>she <strong>enJOYS DANcing</strong> to traDITional MUsic during FAMIly GATHerings.</li>
+					<li>she <strong>enJOYS DANcing</strong> to traDITional MUsic during FAMILy GATHerings.</li>
 					<li className="list-none">Cô ấy <strong>thích nhảy múa</strong> theo điệu nhạc truyền thống trong các buổi tụ họp gia đình.</li>
 					<li className="margin-bottom-20 list-none">she là chủ thể. Sau hành động enJOY, hành động tiếp theo bắt buộc phải ở dạng -ing (DANcing), diễn tả sự tận hưởng và niềm vui khi thực hiện hành động đó.</li>
 			

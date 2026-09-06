@@ -106,7 +106,7 @@ export default function SingularPluralNounsQuiz(): React.JSX.Element {
 		},
 		{
 			id: 8,
-			question: "the CHEF USED a SHARP __________ to CUT the VEGEtables.",
+			question: "the CHEF USED a SHARP __________ to CUT the VEGETables.",
 			options: [
 				"KNIFE",
 				"KNIFES",
