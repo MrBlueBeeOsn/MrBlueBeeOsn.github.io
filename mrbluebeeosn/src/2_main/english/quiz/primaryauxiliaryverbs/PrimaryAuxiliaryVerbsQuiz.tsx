@@ -22,7 +22,7 @@ export default function PrimaryAuxiliaryVerbsQuiz(): React.JSX.Element {
 	const questions: Question[] = [
 		{
 			id: 1,
-			question: "She _______ studying for her final exams all day yesterday.",
+			question: "she _______ STUDying for her FInal exAMs all DAY YESterday.",
 			options: [
 				"does",
 				"has",
@@ -34,19 +34,19 @@ export default function PrimaryAuxiliaryVerbsQuiz(): React.JSX.Element {
 		},
 		{
 			id: 2,
-			question: "_______ you seen the new documentary about space exploration yet?",
+			question: "_______ you SEEN the NEW docuMENtary about SPACE exploRAtion YET?",
 			options: [
-				"Do",
-				"Have",
-				"Are",
-				"Did"
+				"do",
+				"have",
+				"are",
+				"did"
 			],
 			correctAnswer: 1,
-			explanation: "This is a present perfect question indicated by \"yet\" and the past participle \"seen,\" so the auxiliary \"have\" is required."
+			explanation: "This is a present perfect question indicated by \"YET\" and the past participle \"SEEN,\" so the auxiliary \"have\" is required."
 		},
 		{
 			id: 3,
-			question: "He _______ not like to eat spicy food because it upsets his stomach.",
+			question: "he _______ NOT LIKE to EAT SPIcy FOOD because it upSETS his STOMach.",
 			options: [
 				"does",
 				"is",
@@ -54,11 +54,11 @@ export default function PrimaryAuxiliaryVerbsQuiz(): React.JSX.Element {
 				"do"
 			],
 			correctAnswer: 0,
-			explanation: "For a negative statement in the present simple tense with a third-person singular subject (He), we use \"does not.\""
+			explanation: "For a negative statement in the present simple tense with a third-person singular subject (he), we use \"does NOT.\""
 		},
 		{
 			id: 4,
-			question: "They _______ been working on this project for three months now.",
+			question: "they _______ been WORKing on this PROJect for THREE MONTHS NOW.",
 			options: [
 				"are",
 				"do",
@@ -66,23 +66,23 @@ export default function PrimaryAuxiliaryVerbsQuiz(): React.JSX.Element {
 				"were"
 			],
 			correctAnswer: 2,
-			explanation: "The phrase \"for three months now\" indicates the present perfect continuous tense, which uses \"have been\" + V-ing."
+			explanation: "The phrase \"for THREE MONTHS NOW\" indicates the present perfect continuous tense, which uses \"have been\" + V-ing."
 		},
 		{
 			id: 5,
-			question: "_______ the children playing in the garden when it started to rain?",
+			question: "_______ the CHILDren PLAYing in the GARden when it STARTed to RAIN?",
 			options: [
-				"Do",
-				"Have",
-				"Were",
-				"Did"
+				"do",
+				"have",
+				"were",
+				"did"
 			],
 			correctAnswer: 2,
-			explanation: "This question refers to an action in progress in the past (past continuous), so the plural auxiliary \"were\" is used for \"the children.\""
+			explanation: "This question refers to an action in progress in the past (past continuous), so the plural auxiliary \"were\" is used for \"the CHILDren.\""
 		},
 		{
 			id: 6,
-			question: "I _______ already finished my homework before my friends arrived.",
+			question: "i _______ alREADy FINished my HOMEwork before my FRIENDS arRIVED.",
 			options: [
 				"have",
 				"had",
@@ -94,7 +94,7 @@ export default function PrimaryAuxiliaryVerbsQuiz(): React.JSX.Element {
 		},
 		{
 			id: 7,
-			question: "Why _______ you look so tired this morning?",
+			question: "WHY _______ you LOOK SO TIred this MORNing?",
 			options: [
 				"are",
 				"have",
@@ -106,7 +106,7 @@ export default function PrimaryAuxiliaryVerbsQuiz(): React.JSX.Element {
 		},
 		{
 			id: 8,
-			question: "The windows _______ cleaned by a professional company every month.",
+			question: "the WINdows _______ CLEANed by a proFESsional COMpany every MONTH.",
 			options: [
 				"are",
 				"have",
@@ -118,7 +118,7 @@ export default function PrimaryAuxiliaryVerbsQuiz(): React.JSX.Element {
 		},
 		{
 			id: 9,
-			question: "She _______ always wanted to travel to Japan.",
+			question: "she _______ ALways WANTed to TRavel to jaPAN.",
 			options: [
 				"is",
 				"does",
@@ -126,19 +126,19 @@ export default function PrimaryAuxiliaryVerbsQuiz(): React.JSX.Element {
 				"was"
 			],
 			correctAnswer: 2,
-			explanation: "The past participle \"wanted\" combined with \"always\" indicates the present perfect tense, requiring \"has\" for the subject \"she.\""
+			explanation: "The past participle \"WANTed\" combined with \"ALways\" indicates the present perfect tense, requiring \"has\" for the subject \"she.\""
 		},
 		{
 			id: 10,
-			question: "_______ you enjoy the concert last night?",
+			question: "_______ you enJOY the CONcert LAST NIGHT?",
 			options: [
-				"Do",
-				"Were",
-				"Have",
-				"Did"
+				"do",
+				"were",
+				"have",
+				"did"
 			],
 			correctAnswer: 3,
-			explanation: "To form a question about a completed action in the past (\"last night\"), we use the past simple auxiliary \"did.\""
+			explanation: "To form a question about a completed action in the past (\"LAST NIGHT\"), we use the past simple auxiliary \"did.\""
 		}
 	];
 
