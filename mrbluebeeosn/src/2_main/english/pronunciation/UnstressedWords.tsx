@@ -214,7 +214,7 @@ export default function UnstressedWords(): React.JSX.Element {
 					</p>
 
 					<p className="example-sentence">
-						<span className="pill t">OFF, UP, DOWN, OUT, ON, IN, etc in PHRASal VERBS are NOT <del>prepoSITions</del>, they are ADverbs, STRESSED ON ADverbs, NOT STRESSED on VERBS</span>
+						<span className="pill t">OFF, UP, DOWN, OUT, ON, IN, etc in PHRAsal VERBS are NOT <del>prepoSITions</del>, they are ADverbs, STRESSED ON ADverbs, NOT STRESSED on VERBS</span>
 				 </p>
 
 
