@@ -510,16 +510,18 @@ export default function UnstressedWords(): React.JSX.Element {
 
 							conJUNCtion (Yếu) ➡️ i KNOW the THING that you CARE. /aɪ nəʊ ðət juː keə/<br/>
 
-							(the THING that = WHAT)
+							<p className="margin-y-20 example-sentence">
+								<span className="pill o">the THING that = WHAT</span>
+							</p>
 
-							PROnoun (Mạnh) ➡️ LOOK at THAT! /lʊk æt ðæt/
+							PROnoun (Mạnh) ➡️ LOOK at THAT! /lʊk æt ðæt/<br/>
 
 							deTERminer (Mạnh) ➡️ that HOUSE! /ðæt haʊs/, this HOUSE! /ðɪs haʊs/
 
 						</span>
 					</p>
 
-				</div>
+				</div>"
 
 				<div className="example">
 
