@@ -22,120 +22,120 @@ export default function PhrasalVerbsQuestions(): React.JSX.Element {
 	const questions: Question[] = [
 		{
 			id: 1,
-			question: "The manager decided to call off the meeting because the main speaker was ill. What does \"call off\" mean?",
+			question: "the MANager deCIded to call OFF the MEETing because the MAIN SPEAKer was ILL. WHAT does \"call OFF\" MEAN?",
 			options: [
-				"Postpone",
-				"Cancel",
-				"Start",
-				"Attend"
+				"postPONE",
+				"CANcel",
+				"START",
+				"atTEND"
 			],
 			correctAnswer: 1,
-			explanation: "The phrasal verb \"call off\" means to decide that a planned event or agreement will not happen (synonym: cancel)."
+			explanation: "The phrasal verb \"call OFF\" means to decide that a planned event or agreement will not happen (SYNonym: CANcel)."
 		},
 		{
 			id: 2,
-			question: "She takes after her grandmother; they are both very artistic. What does \"takes after\" mean?",
+			question: "she takes AFter her GRANDmother; they are both VERy arTIStic. WHAT does \"takes AFter\" MEAN?",
 			options: [
-				"Looks up to",
-				"Follows",
-				"Resembles in appearance or character",
-				"Takes care of"
+				"looks UP to",
+				"FOLlows",
+				"reSEMbles in apPEARance or CHARacter",
+				"takes CARE of"
 			],
 			correctAnswer: 2,
-			explanation: "To \"take after\" someone means to look or behave like an older relative, often a parent or grandparent."
+			explanation: "To \"take AFter\" someone means to look or behave like an older relative, often a parent or grandparent."
 		},
 		{
 			id: 3,
-			question: "Don't worry, you will get over the flu in a couple of days. What does \"get over\" mean?",
+			question: "DON'T WORry, you will get Over the FLU in a COUPle of DAYS. WHAT does \"get Over\" MEAN?",
 			options: [
-				"Avoid",
-				"Recover from",
-				"Catch",
-				"Search for"
+				"aVOID",
+				"reCOVer from",
+				"CATCH",
+				"SEARCH for"
 			],
 			correctAnswer: 1,
-			explanation: "To \"get over\" something, especially an illness or a difficult experience, means to recover from it."
+			explanation: "To \"get Over\" SOMEthing , especially an illness or a difficult experience, means to recover from it."
 		},
 		{
 			id: 4,
-			question: "I was walking in the park and unexpectedly ran into my old primary school teacher. What does \"run into\" mean?",
+			question: "i was WALKing in the PARK and unexPECTedly ran INto my OLD PRImary SCHOOL TEACHer. WHAT does \"run INto\" MEAN?",
 			options: [
-				"Collide with",
-				"Meet someone unexpectedly",
-				"Get in trouble with",
-				"Chase after"
+				"colLIDE with",
+				"MEET SOMEthing unexPECTedly",
+				"GET in TROUBle with",
+				"CHASE after"
 			],
 			correctAnswer: 1,
-			explanation: "The phrasal verb \"run into\" means to meet someone by chance without having planned to."
+			explanation: "The phrasal verb \"run INto\" means to meet someone by chance without having planned to."
 		},
 		{
 			id: 5,
-			question: "When I asked about his family, he quickly brought up a new topic. What does \"bring up\" mean here?",
+			question: "when i ASKED about his FAMILy, he QUICKly brought UP a NEW TOPic. WHAT does \"bring UP\" MEAN HERE?",
 			options: [
-				"To raise a child",
-				"To mention or introduce a subject",
-				"To vomit",
-				"To move something upwards"
+				"to RAISE a CHILD",
+				"to MENtion or introDUCE a SUBject",
+				"to VOMit",
+				"to MOVE SOMEthing UPwards"
 			],
 			correctAnswer: 1,
-			explanation: "To \"bring up\" a subject means to start discussing it or mention it in a conversation."
+			explanation: "To \"bring UP\" a subject means to start discussing it or mention it in a conversation."
 		},
 		{
 			id: 6,
-			question: "The machine broke down right in the middle of our production cycle. What does \"broke down\" mean?",
+			question: "the maCHINE broke DOWN RIGHT in the MIDdle of our proDUCtion CYcle. WHAT does \"broke DOWN\" MEAN?",
 			options: [
-				"Stopped working because of a fault",
-				"Fell on the floor",
-				"Started working effectively",
-				"Divided into smaller parts"
+				"STOPPED WORKing because of a FAULT",
+				"FELL on the FLOOR",
+				"STARTed WORKing efFECtively",
+				"diVIded INto SMALler PARTS"
 			],
 			correctAnswer: 0,
-			explanation: "When a machine or vehicle \"breaks down,\" it stops operating or functioning because of a mechanical failure."
+			explanation: "When a machine or vehicle \"breaks DOWN,\" it stops operating or functioning because of a mechanical failure."
 		},
 		{
 			id: 7,
-			question: "Could you hold on for a moment? I need to check my calendar. What does \"hold on\" mean?",
+			question: "could you hold ON for a MOment? i NEED to CHECK my CALendar. WHAT does \"hold ON\" MEAN?",
 			options: [
-				"Grab something tightly",
-				"Wait for a short time",
-				"Continue with an activity",
-				"Stay on the line"
+				"GRAB SOMEthing TIGHTly",
+				"WAIT for a SHORT TIME",
+				"conTINue with an acTIVity",
+				"STAY on the LINE"
 			],
 			correctAnswer: 1,
-			explanation: "The phrasal verb \"hold on\" is an informal way of asking someone to wait, often used when talking on the phone."
+			explanation: "The phrasal verb \"hold ON\" is an informal way of asking someone to wait, often used when talking on the phone."
 		},
 		{
 			id: 8,
-			question: "I came across a fascinating article about ancient history while browsing the internet. What does \"come across\" mean?",
+			question: "i came aCROSS a FAScinating ARticle about ANcient HISTORy while BROWsing the INternet. WHAT does \"come aCROSS\" MEAN?",
 			options: [
-				"To be understood",
-				"To cross a boundary",
-				"To find or meet by chance",
-				"To seem or appear"
+				"to be underSTOOD",
+				"to CROSS a BOUNdary",
+				"to FIND or MEET by CHANCE",
+				"to SEEM or apPEAR"
 			],
 			correctAnswer: 2,
-			explanation: "To \"come across\" something or someone means to find or meet them by accident."
+			explanation: "To \"come aCROSS\" SOMEthing  or SOMEone means to find or meet them by accident."
 		},
 		{
 			id: 9,
-			question: "All students must hand in their essays before Friday at 5 p.M. What does \"hand in\" mean?",
+			question: "all STUdents must hand IN their ESsays before FRIday at FIVE p.M. WHAT does \"hand IN\" MEAN?",
 			options: [
-				"Submit",
-				"Distribute",
-				"Collect",
-				"Write"
+				"subMIT",
+				"disTRIBute",
+				"colLECT",
+				"WRITE"
 			],
 			correctAnswer: 0,
-			explanation: "To \"hand in\" an assignment or piece of work means to give it to a person in authority (like a teacher or manager) for assessment or approval (synonym: submit)."
+			explanation: "To \"hand IN\" an assignment or piece of work means to give it to a person in authority (like a TEACHer or MANager) for assessment or approval (SYNonym: subMIT)."
 		},
 		{
 			id: 10,
-			question: "They are planning to set UP a new branch office in London next year. What does \"set UP\" mean?",
+			question: "they are PLANning to set UP a NEW BRANCH OFfice in LONdon NEXT YEAR. WHAT does \"set UP\" MEAN?",
 			options: [
-				"To decorate",
-				"To trick someone",
-				"To establish or organize something",
-				"To stand up"
+				"to DECorate",
+				"to TRICK someone",
+				"to esTABlish or ORganize SOMEthing ",
+				"to stand UP"
 			],
 			correctAnswer: 2,
 			explanation: "To \"set UP\" a business, system, or organization means to start or establish it."
