@@ -122,7 +122,7 @@ export default function esPECially1(): React.JSX.Element {
           <li>GENERally, i LIKE to GO to BED EARly.</li>
           <li className="margin-bottom-20 list-none">Nói chung, tôi thích đi ngủ sớm.</li>
 
-          <li>i <Link to="/vocabulary/Usually-1">Usually</Link> HAVE BREAKfast at 7 A.M.</li>
+          <li>i <Link to="/vocabulary/Usually-1">Usually</Link> HAVE BREAKfast at 7 a.M.</li>
           <li className="list-none">Tôi thường ăn sáng lúc 7 giờ sáng.</li>
 
         </ul>

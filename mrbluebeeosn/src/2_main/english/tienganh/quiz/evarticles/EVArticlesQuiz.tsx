@@ -91,7 +91,7 @@ export default function EVArticlesQuiz() {
 		},
 		{
 			id: 7,
-			question: "we Usually HAVE ______ LUNCH at 12:30 P.M.",
+			question: "we Usually HAVE ______ LUNCH at 12:30 p.M.",
 			options: [
 				"a",
 				"an",

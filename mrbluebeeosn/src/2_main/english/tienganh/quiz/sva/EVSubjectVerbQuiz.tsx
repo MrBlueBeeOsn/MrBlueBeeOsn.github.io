@@ -46,7 +46,7 @@ export default function EVSubjectVerbQuiz(): React.JSX.Element {
 		},
 		{
 			id: 3,
-			question: "the TEAM _______ PRACtice every MORNing at SIX A.M.",
+			question: "the TEAM _______ PRACtice every MORNing at SIX a.M.",
 			options: [
 				"do",
 				"PRACtices",
