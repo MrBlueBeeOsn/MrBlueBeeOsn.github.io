@@ -74,7 +74,7 @@ export default function ThreeDC2(): React.ReactElement {
 					<li className="margin-bottom-20 list-none">Hình thái: [eat an apple] - [Thuần Động Cụm][Bare Verb Phrase] gồm [Động Cơ] [eat] và một tân thể [an apple], nhưng không có chủ thể riêng bên trong</li>
 			
 					<li>[<strong>that she sings well</strong>]</li>
-					<li className="list-none">Hình thái: [that she sings well] - [Liên Câu][Conjunctional Clause] có cặp chủ thể [she] và hành động [sings] bên trong, nhưng không thể đứng độc lập thành câu hoàn chỉnh</li>
+					<li className="list-none">Hình thái: [that she sings well] - [conJUNCtional CLAUSE][LIÊN CÂU] có cặp chủ thể [she] và hành động [sings] bên trong, nhưng không thể đứng độc lập thành câu hoàn chỉnh</li>
 			
 				</ul>
 
@@ -107,7 +107,7 @@ export default function ThreeDC2(): React.ReactElement {
 				</ul>
 			
 			
-			<p className="margin-top-20 text-indent-whole"><strong>Cấp độ Cụm</strong> – [<strong>Danh Cụm</strong>][<strong>Noun Phrase</strong>]: [to read mystery novels]</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Cấp độ Cụm</strong> – [<strong>NOUN PHRASE</strong>][<strong>DANH CỤM</strong>]: [to read mystery novels]</p>
 			
 				<ul className="list-square">
 			
@@ -116,21 +116,21 @@ export default function ThreeDC2(): React.ReactElement {
 			
 					<li className="list-none">Hình thái: [to read mystery novels] - [Hạt Thuần Động Cụm][Particle Bare Verb Phrase] gồm [to read] và tân thể [mystery novels]</li>
 			
-					<li className="list-none">Chức năng: [to read mystery novels] - [Danh Cụm][Noun Phrase] là đối tượng trực tiếp của [Động Cơ] [loves], cái mà hành động yêu thích hướng đến</li>
+					<li className="list-none">Chức năng: [to read mystery novels] - [NOUN PHRASE][DANH CỤM] là đối tượng trực tiếp của [Động Cơ] [loves], cái mà hành động yêu thích hướng đến</li>
 			
 				</ul>
 			
 			
-			<p className="margin-top-20 text-indent-whole"><strong>Cấp độ Câu</strong> – [<strong>Danh Câu</strong>][<strong>Noun Clause</strong>]: [That you forgot my birthday]</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Cấp độ Câu</strong> – [<strong>NOUN CLAUSE</strong>][<strong>DANH CÂU</strong>]: [That you forgot my birthday]</p>
 			
 				<ul className="list-square">
 			
 					<li>[______] upset me.</li>
 					<li className="margin-bottom-20 list-none">[Việc bạn quên sinh nhật tôi] làm tôi buồn.</li>
 			
-					<li className="list-none">Hình thái: [That you forgot my birthday] - [Liên Câu][Conjunctional Clause] có cặp [you] và [forgot] bên trong</li>
+					<li className="list-none">Hình thái: [That you forgot my birthday] - [conJUNCtional CLAUSE][LIÊN CÂU] có cặp [you] và [forgot] bên trong</li>
 			
-					<li className="list-none">Chức năng: [That you forgot my birthday] - [Danh Câu][Noun Clause] đứng đầu câu, là toàn bộ sự kiện gây ra tác động [upset me]</li>
+					<li className="list-none">Chức năng: [That you forgot my birthday] - [NOUN CLAUSE][DANH CÂU] đứng đầu câu, là toàn bộ sự kiện gây ra tác động [upset me]</li>
 			
 				</ul>
 			
@@ -144,11 +144,11 @@ export default function ThreeDC2(): React.ReactElement {
 			
 					<li className="list-none">Hình thái khối ngoài: [ heard {'{ ... }'} ] - [Tầng Động Cụm][Tiered Verb Phrase] gồm [Động Cơ] [heard] và một khối bên trong</li>
 			
-					<li className="margin-bottom-20 list-none">Hình thái khối trong: {'{ that she had won }'} - [Liên Câu][Conjunctional Clause] có cặp [she] và [had won]</li>
+					<li className="margin-bottom-20 list-none">Hình thái khối trong: {'{ that she had won }'} - [conJUNCtional CLAUSE][LIÊN CÂU] có cặp [she] và [had won]</li>
 
-					<li className="list-none">Chức năng khối trong: {'{ that she had won }'} - [Danh Câu][Noun Clause] là nội dung của hành động nghe</li>
+					<li className="list-none">Chức năng khối trong: {'{ that she had won }'} - [NOUN CLAUSE][DANH CÂU] là nội dung của hành động nghe</li>
 			
-					<li className="list-none">Chức năng khối ngoài: toàn bộ [ heard {'{ ... }'} ] - [Danh Cụm][Noun Phrase] là đối tượng trực tiếp của [Động Cơ] [heard], chịu tác động từ chủ thể [We]</li>
+					<li className="list-none">Chức năng khối ngoài: toàn bộ [ heard {'{ ... }'} ] - [NOUN PHRASE][DANH CỤM] là đối tượng trực tiếp của [Động Cơ] [heard], chịu tác động từ chủ thể [We]</li>
 			
 				</ul>
 
@@ -160,7 +160,7 @@ export default function ThreeDC2(): React.ReactElement {
 			<p className="text-indent-whole">Khối có chức năng Tính bổ nghĩa cho một [Danh Cơ] đứng ngay trước nó, giống như một [Tính Cơ] mở rộng.</p>
 
 
-			<p className="margin-top-20 text-indent-whole"><strong>Cấp độ Cơ</strong> – [<strong>Tính Cơ</strong>][<strong>Adjective Base</strong>]: [warm]</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Cấp độ Cơ</strong> – [<strong>ADjective BASE</strong>][<strong>TÍNH CƠ</strong>]: [warm]</p>
 			
 				<ul className="list-square">
 			
@@ -169,7 +169,7 @@ export default function ThreeDC2(): React.ReactElement {
 			
 					<li className="list-none">Hình thái: [warm] - [Rễ Tính Cơ][Root Adjective Base] hình thành từ khối [Rễ Tính Cơ][Root Adjective Base] nguyên bản, ở trạng thái mộc hoàn toàn, không ăn diện thêm phụ kiện, chỉ tính chất</li>
 			
-					<li className="list-none">Chức năng: [warm] - [Tính Cơ][Adjective Base] đứng trước [Danh Cơ] [smile] để mô tả đặc điểm của nụ cười</li>
+					<li className="list-none">Chức năng: [warm] - [ADjective BASE][TÍNH CƠ] đứng trước [Danh Cơ] [smile] để mô tả đặc điểm của nụ cười</li>
 			
 				</ul>
 			
@@ -181,23 +181,23 @@ export default function ThreeDC2(): React.ReactElement {
 					<li>The boy [______] is my brother.</li>
 					<li className="margin-bottom-20 list-none">Cậu bé [đội mũ đỏ] là em trai tôi.</li>
 			
-					<li className="list-none">Hình thái: [wearing a red cap] - [Tiếp Động Cụm][Progressive Verb Phrase] dạng V-ing kèm tân thể [a red cap]</li>
+					<li className="list-none">Hình thái: [wearing a red cap] - [proGRESSive VERB PHRASE][TIẾP ĐỘNG CỤM] dạng V-ing kèm tân thể [a red cap]</li>
 			
 					<li className="list-none">Chức năng: [wearing a red cap] - [Tính Cụm][Adjective Phrase] bổ nghĩa cho [Danh Cơ] [The boy], xác định cậu bé nào</li>
 			
 				</ul>
 			
 			
-			<p className="margin-top-20 text-indent-whole"><strong>Cấp độ Câu</strong> – [<strong>Tính Câu</strong>][<strong>Adjective Clause</strong>]: [which I dropped yesterday]</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Cấp độ Câu</strong> – [<strong>ADjective CLAUSE</strong>][<strong>TÍNH CÂU</strong>]: [which I dropped yesterday]</p>
 			
 				<ul className="list-square">
 			
 					<li>The laptop [______] still works.</li>
 					<li className="margin-bottom-20 list-none">Chiếc laptop [mà tôi làm rơi hôm qua] vẫn chạy.</li>
 			
-					<li className="list-none">Hình thái: [which I dropped yesterday] - [Liên Câu][Conjunctional Clause] có cặp [I] và [dropped]</li>
+					<li className="list-none">Hình thái: [which I dropped yesterday] - [conJUNCtional CLAUSE][LIÊN CÂU] có cặp [I] và [dropped]</li>
 			
-					<li className="list-none">Chức năng: [which I dropped yesterday] - [Tính Câu][Adjective Clause] bổ nghĩa cho [Danh Cơ] [The laptop], giúp phân biệt nó với các laptop khác</li>
+					<li className="list-none">Chức năng: [which I dropped yesterday] - [ADjective CLAUSE][TÍNH CÂU] bổ nghĩa cho [Danh Cơ] [The laptop], giúp phân biệt nó với các laptop khác</li>
 			
 				</ul>
 			
@@ -216,14 +216,14 @@ export default function ThreeDC2(): React.ReactElement {
 					<li>He answered [______].</li>
 					<li className="margin-bottom-20 list-none">Anh ấy trả lời [chính xác].</li>
 			
-					<li className="list-none">Hình thái: [correctly] - [Diện Trạng Cơ][Modified Adverb Base] hình thành từ khối [Rễ Tính Cơ][Root Adjective Base] nguyên bản "correct" mặc thêm hậu tố "-ly" để thay đổi diện mạo bên ngoài thành một khối cấp độ [Cơ][Base].</li>
+					<li className="list-none">Hình thái: [correctly] - [Diện Trạng Cơ][Modified Adverb Base] hình thành từ khối [Rễ Tính Cơ][Root Adjective Base] nguyên bản "correct" mặc thêm hậu tố "-ly" để thay đổi diện mạo bên ngoài thành một khối cấp độ [BASE][CƠ].</li>
 			
 					<li className="list-none">Chức năng: [correctly] - [Trạng Cơ][Adverb Base] bổ nghĩa cho [Động Cơ] [answered], cho biết cách thức hành động diễn ra.</li>
 			
 				</ul>
 			
 			
-			<p className="margin-top-20 text-indent-whole"><strong>Cấp độ Cụm</strong> – [<strong>Trạng Cụm</strong>][<strong>Adverb Phrase</strong>]: [to catch the first bus]</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Cấp độ Cụm</strong> – [<strong>ADverb PHRASE</strong>][<strong>TRẠNG CỤM</strong>]: [to catch the first bus]</p>
 			
 				<ul className="list-square">
 			
@@ -232,21 +232,21 @@ export default function ThreeDC2(): React.ReactElement {
 			
 					<li className="list-none">Hình thái: [to catch the first bus] - [Hạt Thuần Động Cụm][Particle Bare Verb Phrase] dạng to-V kèm tân thể, chỉ mục đích</li>
 			
-					<li className="list-none">Chức năng: [to catch the first bus] - [Trạng Cụm][Adverb Phrase] bổ nghĩa cho [Động Cụm] [woke up early], giải thích mục đích của việc dậy sớm</li>
+					<li className="list-none">Chức năng: [to catch the first bus] - [ADverb PHRASE][TRẠNG CỤM] bổ nghĩa cho [Động Cụm] [woke up early], giải thích mục đích của việc dậy sớm</li>
 			
 				</ul>
 			
 			
-			<p className="margin-top-20 text-indent-whole"><strong>Cấp độ Câu</strong> – [<strong>Trạng Câu</strong>][<strong>Adverb Clause</strong>]: [If you study regularly]</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Cấp độ Câu</strong> – [<strong>ADverb CLAUSE</strong>][<strong>TRẠNG CÂU</strong>]: [If you study regularly]</p>
 			
 				<ul className="list-square">
 			
 					<li>[______], you will improve.</li>
 					<li className="margin-bottom-20 list-none">[Nếu bạn học đều đặn], bạn sẽ tiến bộ.</li>
 			
-					<li className="list-none">Hình thái: [If you study regularly] - [Liên Câu][Conjunctional Clause] có cặp [you] và [study]</li>
+					<li className="list-none">Hình thái: [If you study regularly] - [conJUNCtional CLAUSE][LIÊN CÂU] có cặp [you] và [study]</li>
 			
-					<li className="list-none">Chức năng: [If you study regularly] - [Trạng Câu][Adverb Clause] bổ nghĩa cho nhóm từ chính [you will improve], chỉ điều kiện cần để xảy ra kết quả</li>
+					<li className="list-none">Chức năng: [If you study regularly] - [ADverb CLAUSE][TRẠNG CÂU] bổ nghĩa cho nhóm từ chính [you will improve], chỉ điều kiện cần để xảy ra kết quả</li>
 			
 				</ul>
 
@@ -283,7 +283,7 @@ export default function ThreeDC2(): React.ReactElement {
 			
 					<li className="list-none">Hình thái: [To run in the park] - [Hạt Thuần Động Cụm][Particle Bare Verb Phrase] to-V kèm bổ túc nơi chốn</li>
 			
-					<li className="list-none">Chức năng: [To run in the park] - [Danh Cụm][Noun Phrase] vẫn là chủ thể của câu</li>
+					<li className="list-none">Chức năng: [To run in the park] - [NOUN PHRASE][DANH CỤM] vẫn là chủ thể của câu</li>
 			
 				</ul>
 			
@@ -295,9 +295,9 @@ export default function ThreeDC2(): React.ReactElement {
 					<li>[______] is relaxing.</li>
 					<li className="margin-bottom-20 list-none">[Việc bạn chạy mỗi sáng] thì thư giãn.</li>
 			
-					<li className="list-none">Hình thái: [That you run every morning] - [Liên Câu][Conjunctional Clause] có cặp [you] và [run]</li>
+					<li className="list-none">Hình thái: [That you run every morning] - [conJUNCtional CLAUSE][LIÊN CÂU] có cặp [you] và [run]</li>
 			
-					<li className="list-none">Chức năng: [That you run every morning] - [Danh Câu][Noun Clause] cùng chức năng chủ thể</li>
+					<li className="list-none">Chức năng: [That you run every morning] - [NOUN CLAUSE][DANH CÂU] cùng chức năng chủ thể</li>
 			
 				</ul>
 			
@@ -331,7 +331,7 @@ export default function ThreeDC2(): React.ReactElement {
 			
 					<li className="list-none">Hình thái: [fresh] - [Rễ Tính Cơ][Root Adjective Base] hình thành từ khối [Rễ Tính Cơ][Root Adjective Base] nguyên bản, ở trạng thái mộc hoàn toàn, không ăn diện thêm phụ kiện.</li>
 			
-					<li className="list-none">Chức năng: [fresh] - [Tính Cơ][Adjective Base] bổ nghĩa cho [Danh Cụm] [the bread]</li>
+					<li className="list-none">Chức năng: [fresh] - [ADjective BASE][TÍNH CƠ] bổ nghĩa cho [Danh Cụm] [the bread]</li>
 			
 				</ul>
 			
@@ -343,9 +343,9 @@ export default function ThreeDC2(): React.ReactElement {
 					<li>I like the bread [______].</li>
 					<li className="margin-bottom-20 list-none">Tôi thích ổ bánh mì [mà bà tôi đã làm].</li>
 			
-					<li className="list-none">Hình thái: [which my grandmother made] - [Liên Câu][Conjunctional Clause] có cặp [my grandmother] và [made]</li>
+					<li className="list-none">Hình thái: [which my grandmother made] - [conJUNCtional CLAUSE][LIÊN CÂU] có cặp [my grandmother] và [made]</li>
 			
-					<li className="list-none">Chức năng: [which my grandmother made] - [Tính Câu][Adjective Clause] bổ nghĩa cho [Danh Cơ] [the bread]</li>
+					<li className="list-none">Chức năng: [which my grandmother made] - [ADjective CLAUSE][TÍNH CÂU] bổ nghĩa cho [Danh Cơ] [the bread]</li>
 			
 				</ul>
 			
@@ -360,9 +360,9 @@ export default function ThreeDC2(): React.ReactElement {
 					<li>She passed the exam [______].</li>
 					<li className="margin-bottom-20 list-none">Cô ấy đỗ kỳ thi [vì cô ấy học chăm chỉ].</li>
 			
-					<li className="list-none">Hình thái: [because she studied hard] - [Liên Câu][Conjunctional Clause] có cặp [she] và [studied]</li>
+					<li className="list-none">Hình thái: [because she studied hard] - [conJUNCtional CLAUSE][LIÊN CÂU] có cặp [she] và [studied]</li>
 			
-					<li className="list-none">Chức năng: [because she studied hard] - [Trạng Câu][Adverb Clause] chỉ lý do, bổ nghĩa cho [Động Cụm] [passed the exam]</li>
+					<li className="list-none">Chức năng: [because she studied hard] - [ADverb CLAUSE][TRẠNG CÂU] chỉ lý do, bổ nghĩa cho [Động Cụm] [passed the exam]</li>
 			
 				</ul>
 			
@@ -374,9 +374,9 @@ export default function ThreeDC2(): React.ReactElement {
 					<li>She passed the exam [______].</li>
 					<li className="margin-bottom-20 list-none">Cô ấy đỗ kỳ thi [bằng cách học chăm chỉ].</li>
 			
-					<li className="list-none">Hình thái: [by studying hard] - [Giới Cụm][Prepositional Phrase] giới từ kết hợp với V-ing</li>
+					<li className="list-none">Hình thái: [by studying hard] - [prepoSITional PHRASE][GIỚI CỤM] giới từ kết hợp với V-ing</li>
 			
-					<li className="list-none">Chức năng: [by studying hard] - [Trạng Cụm][Adverb Phrase] bổ nghĩa cho [Động Cụm] [passed the exam], chỉ cách thức đạt được kết quả</li>
+					<li className="list-none">Chức năng: [by studying hard] - [ADverb PHRASE][TRẠNG CỤM] bổ nghĩa cho [Động Cụm] [passed the exam], chỉ cách thức đạt được kết quả</li>
 			
 				</ul>
 			

@@ -28,7 +28,7 @@ export default function (): React.JSX.Element {
 				"[Noun Base]"
 			],
 			correctAnswer: 0,
-			explanation: "Form: [Recording transactions] - [Tiếp Động Cụm][Progressive Verb Phrase] consisting of the gerund \"recording\" and its direct object \"transactions\" working together as a structural unit. \n\n Function: [Recording transactions] - [Danh Cụm][Noun Phrase] serving as the complete subject of the sentence to initiate the main verb \"is\"."
+			explanation: "Form: [Recording transactions] - [proGRESSive VERB PHRASE][TIẾP ĐỘNG CỤM] consisting of the gerund \"recording\" and its direct object \"transactions\" working together as a structural unit. \n\n Function: [Recording transactions] - [NOUN PHRASE][DANH CỤM] serving as the complete subject of the sentence to initiate the main verb \"is\"."
 		},
 		{
 			id: 2,
@@ -38,7 +38,7 @@ export default function (): React.JSX.Element {
 				"[Noun Phrase]"
 			],
 			correctAnswer: 1,
-			explanation: "Form: [to maintain accurate ledgers] - [Hạt Thuần Động Cụm][Particle Bare Verb Phrase] formed by an infinitive verb followed by its modifying financial adjective and noun object. \n\n Function: [to maintain accurate ledgers] - [Danh Cụm][Noun Phrase] acting as a subject complement to explain what the primary goal is after the linking verb."
+			explanation: "Form: [to maintain accurate ledgers] - [Hạt Thuần Động Cụm][Particle Bare Verb Phrase] formed by an infinitive verb followed by its modifying financial adjective and noun object. \n\n Function: [to maintain accurate ledgers] - [NOUN PHRASE][DANH CỤM] acting as a subject complement to explain what the primary goal is after the linking verb."
 		},
 		{
 			id: 3,
@@ -48,7 +48,7 @@ export default function (): React.JSX.Element {
 				"[Adjective Phrase]"
 			],
 			correctAnswer: 0,
-			explanation: "Form: [audited] - [Hoàn Động Cơ][Perfect Verb Base] using a single past participle form of the verb to function as a modifier. \n\n Function: [audited] - [Tính Cơ][Adjective Base] directly modifying the financial noun \"statements\" to clarify their verified status."
+			explanation: "Form: [audited] - [Hoàn Động Cơ][Perfect Verb Base] using a single past participle form of the verb to function as a modifier. \n\n Function: [audited] - [ADjective BASE][TÍNH CƠ] directly modifying the financial noun \"statements\" to clarify their verified status."
 		},
 		{
 			id: 4,
@@ -58,7 +58,7 @@ export default function (): React.JSX.Element {
 				"[Adverb Clause]"
 			],
 			correctAnswer: 0,
-			explanation: "Form: [while reconciling the bank statement] - [Liên Tiếp Động Cụm][Conjunctional Phrase] structured as a reduced adverbial phrase containing a time conjunction and a gerund phrase. \n\n Function: [while reconciling the bank statement] - [Trạng Cụm][Adverb Phrase] modifying the main action \"found\" by establishing the exact accounting timeframe."
+			explanation: "Form: [while reconciling the bank statement] - [Liên Tiếp Động Cụm][Conjunctional Phrase] structured as a reduced adverbial phrase containing a time conjunction and a gerund phrase. \n\n Function: [while reconciling the bank statement] - [ADverb PHRASE][TRẠNG CỤM] modifying the main action \"found\" by establishing the exact accounting timeframe."
 		},
 		{
 			id: 5,
@@ -68,7 +68,7 @@ export default function (): React.JSX.Element {
 				"[Noun Clause]"
 			],
 			correctAnswer: 1,
-			explanation: "Form: [That the company's annual revenue increased] - [Liên Câu][Conjunctional Clause] containing a subordinate conjunction, a clear corporate subject, and an intransitive past tense verb. \n\n Function: [That the company's annual revenue increased] - [Danh Câu][Noun Clause] functioning as the complete grammatical subject that triggered the psychological reaction of the investors."
+			explanation: "Form: [That the company's annual revenue increased] - [conJUNCtional CLAUSE][LIÊN CÂU] containing a subordinate conjunction, a clear corporate subject, and an intransitive past tense verb. \n\n Function: [That the company's annual revenue increased] - [NOUN CLAUSE][DANH CÂU] functioning as the complete grammatical subject that triggered the psychological reaction of the investors."
 		},
 		{
 			id: 6,
@@ -88,7 +88,7 @@ export default function (): React.JSX.Element {
 				"[Adverb Clause]"
 			],
 			correctAnswer: 1,
-			explanation: "Form: [Because the travel expenses were not authorized] - [Liên Câu][Conjunctional Clause] utilizing a causal conjunction coupled with a complete financial subject and a passive voice verb structure. \n\n Function: [Because the travel expenses were not authorized] - [Trạng Câu][Adverb Clause] modifying the independent clause by providing the regulatory reason why the reimbursement failed."
+			explanation: "Form: [Because the travel expenses were not authorized] - [conJUNCtional CLAUSE][LIÊN CÂU] utilizing a causal conjunction coupled with a complete financial subject and a passive voice verb structure. \n\n Function: [Because the travel expenses were not authorized] - [ADverb CLAUSE][TRẠNG CÂU] modifying the independent clause by providing the regulatory reason why the reimbursement failed."
 		},
 		{
 			id: 8,
@@ -118,7 +118,7 @@ export default function (): React.JSX.Element {
 				"[Adjective Clause]"
 			],
 			correctAnswer: 0,
-			explanation: "Form: [whether the general ledger was updated] - [Liên Câu][Conjunctional Clause] introduced by an interrogative subordinator followed by a passive financial clause layout. \n\n Function: [whether the general ledger was updated] - [Danh Câu][Noun Clause] completing the predicate of the sentence by acting as the direct noun object for the inquiry verb \"asked\"."
+			explanation: "Form: [whether the general ledger was updated] - [conJUNCtional CLAUSE][LIÊN CÂU] introduced by an interrogative subordinator followed by a passive financial clause layout. \n\n Function: [whether the general ledger was updated] - [NOUN CLAUSE][DANH CÂU] completing the predicate of the sentence by acting as the direct noun object for the inquiry verb \"asked\"."
 		}
 	];
 

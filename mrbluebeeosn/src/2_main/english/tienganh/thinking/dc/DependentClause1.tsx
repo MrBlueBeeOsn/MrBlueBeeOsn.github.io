@@ -130,7 +130,7 @@ export default function DependentClause1(): React.JSX.Element {
 
 			<p>Mọi phụ câu dù dài hay ngắn đều chỉ đảm nhận vị trí tương đương với một từ loại cơ bản.</p>
 			
-			<h4 className="margin-y-40">Chức năng [Tính Câu][Adjective Clause]</h4>
+			<h4 className="margin-y-40">Chức năng [ADjective CLAUSE][TÍNH CÂU]</h4>
 					
 			<p className="text-indent-whole">Nằm ngay sau một Danh Cơ để định hình hoặc làm rõ đặc điểm cho Danh Cơ đó.</p>
 			
@@ -141,10 +141,10 @@ export default function DependentClause1(): React.JSX.Element {
 			
 				</ul>
 			
-			<p className="margin-top-20 text-indent-whole">→ Cụm [THAT is BARKing] đóng vai trò như một [Tính Câu][Adjective Clause] lớn để phân biệt con chó này với những con khác</p>
+			<p className="margin-top-20 text-indent-whole">→ Cụm [THAT is BARKing] đóng vai trò như một [ADjective CLAUSE][TÍNH CÂU] lớn để phân biệt con chó này với những con khác</p>
 			
 			
-			<h4 className="margin-y-40">Chức năng [Trạng Câu][Adverb Clause]</h4>
+			<h4 className="margin-y-40">Chức năng [ADverb CLAUSE][TRẠNG CÂU]</h4>
 					
 			<p className="text-indent-whole">Thiết lập bối cảnh cho hành động chính, làm rõ các yếu tố về thời gian, lý do hoặc sự tương phản.</p>
 			
@@ -158,9 +158,9 @@ export default function DependentClause1(): React.JSX.Element {
 			<p className="margin-top-20 text-indent-whole">→ Cụm [be<strong>cause</strong> it was COLD] giải thích nguyên nhân cho việc ở trong nhà.</p>
 			
 			
-			<h4 className="margin-y-40">Chức năng [Danh Câu][Noun Clause]</h4>
+			<h4 className="margin-y-40">Chức năng [NOUN CLAUSE][DANH CÂU]</h4>
 					
-			<p className="text-indent-whole">Chiếm lĩnh vị trí của một Danh Câu thông thường để làm [Danh Chủ][Noun Subject] hoặc [Danh Nhận][Noun Object] chịu tác động.</p>
+			<p className="text-indent-whole">Chiếm lĩnh vị trí của một Danh Câu thông thường để làm [NOUN SUBject][DANH CHỦ] hoặc [NOUN OBject][DANH NHẬN] chịu tác động.</p>
 			
 				<ul className="list-square">
 			
@@ -169,7 +169,7 @@ export default function DependentClause1(): React.JSX.Element {
 			
 				</ul>
 			
-			<p className="margin-top-20 text-indent-whole">→ Cụm [WHAT you MEAN] đóng vai trò làm [Danh Nhận][Noun Object] đứng sau hành động "underSTAND"</p>
+			<p className="margin-top-20 text-indent-whole">→ Cụm [WHAT you MEAN] đóng vai trò làm [NOUN OBject][DANH NHẬN] đứng sau hành động "underSTAND"</p>
 
 			{/* 4. Chiến Lược 3 Bước Để Tạo Câu Phức Mượt Mà */}
 

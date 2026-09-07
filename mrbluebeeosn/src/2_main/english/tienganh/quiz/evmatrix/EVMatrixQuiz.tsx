@@ -28,7 +28,7 @@ export default function EVMatrixQuiz(): React.JSX.Element {
 				"[Adjective Phrase]"
 			],
 			correctAnswer: 1,
-			explanation: "Hình thái: [SITting by the WINdow] - [Tiếp Động Cụm][Progressive Verb Phrase] bắt đầu bằng đuôi -ing kèm các thành phần bổ khuyết để tạo thành một cụm hành vi chưa chia thời gian. \n\n Chức năng: [SITting by the WINdow] - [Tính Cụm][Adjective Phrase] đứng ngay sau để bổ nghĩa trực tiếp và định danh cho nhóm thành phần chỉ người \"the GIRL\"."
+			explanation: "Hình thái: [SITting by the WINdow] - [proGRESSive VERB PHRASE][TIẾP ĐỘNG CỤM] bắt đầu bằng đuôi -ing kèm các thành phần bổ khuyết để tạo thành một cụm hành vi chưa chia thời gian. \n\n Chức năng: [SITting by the WINdow] - [Tính Cụm][Adjective Phrase] đứng ngay sau để bổ nghĩa trực tiếp và định danh cho nhóm thành phần chỉ người \"the GIRL\"."
 		},
 		{
 			id: 2,
@@ -38,7 +38,7 @@ export default function EVMatrixQuiz(): React.JSX.Element {
 				"[Adverb Phrase]"
 			],
 			correctAnswer: 0,
-			explanation: "Hình thái: [to LEARN a NEW LANGuage] - [Hạt Thuần Động Cụm][Particle Bare Verb Phrase] bắt đầu bằng dạng nguyên thể có \"to\" kèm các thành phần bổ khuyết để tạo thành một cụm hành vi chưa chia thời gian. \n\n Chức năng: [to LEARN a NEW LANGuage] - [Danh Cụm][Noun Phrase] đứng ở đầu câu để làm chủ thể cốt lõi thực hiện hành vi cho \"reQUIres\"."
+			explanation: "Hình thái: [to LEARN a NEW LANGuage] - [Hạt Thuần Động Cụm][Particle Bare Verb Phrase] bắt đầu bằng dạng nguyên thể có \"to\" kèm các thành phần bổ khuyết để tạo thành một cụm hành vi chưa chia thời gian. \n\n Chức năng: [to LEARN a NEW LANGuage] - [NOUN PHRASE][DANH CỤM] đứng ở đầu câu để làm chủ thể cốt lõi thực hiện hành vi cho \"reQUIres\"."
 		},
 		{
 			id: 3,
@@ -48,7 +48,7 @@ export default function EVMatrixQuiz(): React.JSX.Element {
 				"[Adverb Phrase]"
 			],
 			correctAnswer: 1,
-			explanation: "Hình thái: [to LET in some FRESH AIR] - [Hạt Thuần Động Cụm][Particle Bare Verb Phrase] bắt đầu bằng dạng nguyên thể có \"to\" kèm các thành phần bổ khuyết để tạo thành một cụm hành vi chưa chia thời gian. \n\n Chức năng: [to LET in some FRESH AIR] - [Trạng Cụm][Adverb Phrase] bổ sung thông tin chỉ định mục đích hướng tới cho hành vi chính \"Opens\"."
+			explanation: "Hình thái: [to LET in some FRESH AIR] - [Hạt Thuần Động Cụm][Particle Bare Verb Phrase] bắt đầu bằng dạng nguyên thể có \"to\" kèm các thành phần bổ khuyết để tạo thành một cụm hành vi chưa chia thời gian. \n\n Chức năng: [to LET in some FRESH AIR] - [ADverb PHRASE][TRẠNG CỤM] bổ sung thông tin chỉ định mục đích hướng tới cho hành vi chính \"Opens\"."
 		},
 		{
 			id: 4,
@@ -58,7 +58,7 @@ export default function EVMatrixQuiz(): React.JSX.Element {
 				"[Adjective Clause]"
 			],
 			correctAnswer: 1,
-			explanation: "Hình thái: [that you LENT me YESterday] - [Liên Câu][Conjunctional Clause] bắt đầu bằng một thành phần kết nối đi kèm đầy đủ một chủ thể (you) và hành vi đã chia thời gian (LENT). \n\n Chức năng: [that you LENT me YESterday] - [Tính Câu][Adjective Clause] đứng sau để bổ nghĩa và hạn định đặc điểm cho nhóm thành phần chỉ vật \"the BOOK\"."
+			explanation: "Hình thái: [that you LENT me YESterday] - [conJUNCtional CLAUSE][LIÊN CÂU] bắt đầu bằng một thành phần kết nối đi kèm đầy đủ một chủ thể (you) và hành vi đã chia thời gian (LENT). \n\n Chức năng: [that you LENT me YESterday] - [ADjective CLAUSE][TÍNH CÂU] đứng sau để bổ nghĩa và hạn định đặc điểm cho nhóm thành phần chỉ vật \"the BOOK\"."
 		},
 		{
 			id: 5,
@@ -68,7 +68,7 @@ export default function EVMatrixQuiz(): React.JSX.Element {
 				"[Tiered Noun Phrase]"
 			],
 			correctAnswer: 1,
-			explanation: "Hình thái: [KNOW {WHAT we should DO NEXT}] - [Tầng Thuần Động Cụm][Bare Tiered Verb Phrase] chứa hành vi hạt nhân \"KNOW\" đi kèm thành phần bổ khuyết là một [Liên Câu][Conjunctional Clause] có cấu trúc chủ-hành vi hoàn chỉnh ở tầng trong {}. \n\n Chức năng: [KNOW {WHAT we should DO NEXT}] - [Danh Cụm] Phân Tầng [Tiered Noun Phrase] đóng vai trò cụm tiếp nhận lớn bên ngoài, chứa một danh câu làm thành phần tiếp nhận trực tiếp cho \"KNOW\" ở bên trong."
+			explanation: "Hình thái: [KNOW {WHAT we should DO NEXT}] - [Tầng Thuần Động Cụm][Bare Tiered Verb Phrase] chứa hành vi hạt nhân \"KNOW\" đi kèm thành phần bổ khuyết là một [conJUNCtional CLAUSE][LIÊN CÂU] có cấu trúc chủ-hành vi hoàn chỉnh ở tầng trong {}. \n\n Chức năng: [KNOW {WHAT we should DO NEXT}] - [Danh Cụm] Phân Tầng [Tiered Noun Phrase] đóng vai trò cụm tiếp nhận lớn bên ngoài, chứa một danh câu làm thành phần tiếp nhận trực tiếp cho \"KNOW\" ở bên trong."
 		},
 		{
 			id: 6,
@@ -78,7 +78,7 @@ export default function EVMatrixQuiz(): React.JSX.Element {
 				"[Adverb Clause]"
 			],
 			correctAnswer: 1,
-			explanation: "Hình thái: [as soon as the RAIN STOPS] - [Liên Câu][Conjunctional Clause] bắt đầu bằng thành phần kết nối đi kèm kết cấu chủ-hành vi hoàn chỉnh (the rain stops) đã chia thời gian. \n\n Chức năng: [as soon as the RAIN STOPS] - [Trạng Câu][Adverb Clause] liên kết vào cấu trúc để xác định mốc thời gian diễn ra cho toàn bộ phần thông tin chính \"they will LEAVE\"."
+			explanation: "Hình thái: [as soon as the RAIN STOPS] - [conJUNCtional CLAUSE][LIÊN CÂU] bắt đầu bằng thành phần kết nối đi kèm kết cấu chủ-hành vi hoàn chỉnh (the rain stops) đã chia thời gian. \n\n Chức năng: [as soon as the RAIN STOPS] - [ADverb CLAUSE][TRẠNG CÂU] liên kết vào cấu trúc để xác định mốc thời gian diễn ra cho toàn bộ phần thông tin chính \"they will LEAVE\"."
 		},
 		{
 			id: 7,
@@ -88,7 +88,7 @@ export default function EVMatrixQuiz(): React.JSX.Element {
 				"[Adjective Phrase]"
 			],
 			correctAnswer: 0,
-			explanation: "Hình thái: [BROken] - [Hoàn Động Cơ][Perfect Verb Base] tồn tại ở hình thái biến đổi đuôi đặc biệt của thể hoàn thành đứng đơn lẻ, chưa phát triển thành cụm hay câu. \n\n Chức năng: [BROken] - [Tính Cơ][Adjective Base] nằm trước để nêu đặc điểm thực tế cho thành phần chỉ vật \"VASE\"."
+			explanation: "Hình thái: [BROken] - [Hoàn Động Cơ][Perfect Verb Base] tồn tại ở hình thái biến đổi đuôi đặc biệt của thể hoàn thành đứng đơn lẻ, chưa phát triển thành cụm hay câu. \n\n Chức năng: [BROken] - [ADjective BASE][TÍNH CƠ] nằm trước để nêu đặc điểm thực tế cho thành phần chỉ vật \"VASE\"."
 		},
 		{
 			id: 8,
@@ -98,7 +98,7 @@ export default function EVMatrixQuiz(): React.JSX.Element {
 				"[Adjective Base]"
 			],
 			correctAnswer: 1,
-			explanation: "Hình thái: [CRY] - [Thuần Động Cơ][Bare Verb Base] tồn tại ở hình thái dạng gốc nguyên thể không \"to\" đứng độc lập, chưa phát triển thêm thành phần bổ khuyết. \n\n Chức năng: [CRY] - [Tính Cơ][Adjective Base] bổ sung trạng thái chịu tác động trực tiếp cho phần tiếp nhận \"his YOUNGer BROTHer\" phía trước."
+			explanation: "Hình thái: [CRY] - [BARE VERB BASE][THUẦN ĐỘNG CƠ] tồn tại ở hình thái dạng gốc nguyên thể không \"to\" đứng độc lập, chưa phát triển thêm thành phần bổ khuyết. \n\n Chức năng: [CRY] - [ADjective BASE][TÍNH CƠ] bổ sung trạng thái chịu tác động trực tiếp cho phần tiếp nhận \"his YOUNGer BROTHer\" phía trước."
 		},
 		{
 			id: 9,
