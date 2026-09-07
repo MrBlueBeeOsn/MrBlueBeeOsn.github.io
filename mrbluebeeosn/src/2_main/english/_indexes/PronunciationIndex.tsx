@@ -109,7 +109,7 @@ export default function PronunciationIndex(): React.JSX.Element {
       </div>
 
 
-      {/* <UNSTRESSED /> */}
+      <UNSTRESSED />
 
     </article>
     

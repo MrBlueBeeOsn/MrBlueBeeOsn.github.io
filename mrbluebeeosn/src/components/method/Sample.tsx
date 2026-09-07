@@ -1,27 +1,18 @@
 import React from 'react';
 import { Link } from "react-router-dom";
 import { HashLink } from 'react-router-hash-link';
-import EyeIcon from '@/components/view/EyeIcon';
-import ViewCounter from '@/components/view/ViewCounter';
-import LikeButton from '@/components/like/LikeButton';
+import { NavLink } from 'react-router-dom';
+import ExternalLink from '@/components/icon/ExternalLink';
+import { useState } from "react";
 
-export default function UnstressedWords(): React.JSX.Element {
+export default function VERBSADDS(): React.JSX.Element {
+  return (
 
-	const postId = "UnstressedWords";
+    // <div className="topic-container">
 
-	return (<>
+    // <div className="margin-y-50 text-border1 padding-10 highlight-238-padding-4-8">
 
-	<main className="image image2">
-
-		<article>
-		
-			<h4><HashLink smooth to="/pronunciation#pronunciation-terms"><mark className="highlight-tertiary-padding-4-8">Pronunciation</mark></HashLink></h4>
-			
-			<h1 className="margin-y-50 text-center">Unstressed Words</h1>
-
-			{/* This is the content of English Learning Term. */}
-
-			<div className="margin-y-50 text-border1 padding-10 highlight-238-padding-4-8 bee-container">
+    <div className="margin-y-50 text-border1 padding-10 highlight-238-padding-4-8 bee-container">
 
 			{/* =============================
 				VERBSADDS
@@ -201,16 +192,16 @@ export default function UnstressedWords(): React.JSX.Element {
 					</p>
 
 					<p className="example-sentence">
-						<span className="pill s"><strong>ta</strong>kiNG OFF</span> &nbsp;<span className="pill p"><strong>giv</strong>eN UP</span> &nbsp;<span className="pill v"><strong>wo</strong>keN UP</span>
+						<span className="pill s"><strong>ta</strong>king OFF</span> &nbsp;<span className="pill p"><strong>giv</strong>en UP</span> &nbsp;<span className="pill v"><strong>wo</strong>ken UP</span>
 				 </p>
 				
 				
 					<p className="example-sentence">
-							<span className="pill s"><strong>bro</strong>keN DOWN</span> &nbsp;<span className="pill p"><strong>fig</strong>urED OUT</span> &nbsp;<span className="pill v"><strong>car</strong>riED ON</span>
+							<span className="pill s"><strong>bro</strong>ken DOWN</span> &nbsp;<span className="pill p"><strong>fig</strong>ured OUT</span> &nbsp;<span className="pill v"><strong>car</strong>ried ON</span>
 					</p>
 
 					<p className="example-sentence">
-							<span className="pill s"><strong>set</strong>tlED IN</span> &nbsp;<span className="pill p"><strong>hur</strong>riED IN</span> &nbsp;<span className="pill v"><strong>hap</strong>penED ON</span>
+							<span className="pill s"><strong>set</strong>tled IN</span> &nbsp;<span className="pill p"><strong>hur</strong>ried IN</span> &nbsp;<span className="pill v"><strong>hap</strong>pened ON</span>
 					</p>
 
 					<p className="example-sentence">
@@ -629,30 +620,6 @@ export default function UnstressedWords(): React.JSX.Element {
 			
 
 		</div>
-
-			<div className="viewcounter">
-			
-				<div className="post-date no-margin">
-					<span>September 05, 2026 · by Mr.ßEE ·</span>
-				</div>
-
-				<div className="eye-icon no-margin">
-					<EyeIcon />
-				</div>
-
-				<div className="post-date no-margin">
-					<ViewCounter postId={postId} />
-				</div>
-
-				<div className="like-button no-margin">
-					<LikeButton postId={postId} />
-				</div>
-
-			</div>
-
-		</article>
-		
-	</main>
-
-	</>);
+    
+  );
 }
