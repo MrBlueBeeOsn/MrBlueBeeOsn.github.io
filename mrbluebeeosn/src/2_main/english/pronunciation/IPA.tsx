@@ -21,7 +21,7 @@ export default function IPA(): React.JSX.Element {
 
       {/* This is the content of English Learning Term. */}
       
-      <p><strong>IPA</strong>, which stands for International Phonetic Alphabet, is like a secret code used by linguists to capture the unique sounds that make up every word in any language, including English. Unlike the regular alphabet letters we use every day, which can represent different sounds depending on the language, <strong>IPA</strong> uses a specific symbol for each distinct sound. This makes <strong>IPA</strong> a powerful tool for linguists because it acts like a universal translator – it allows them to represent the sounds of any language accurately, regardless of how it's written.</p>
+      <p><strong>IPA</strong>, which stands for International Phonetic Alphabet, is like a secret code used by linguists to capture the unique sounds that maKE UP every word in any language, including English. Unlike the regular alphabet letters we use every day, which can represent different sounds depending on the language, <strong>IPA</strong> uses a specific symbol for each distinct sound. This makes <strong>IPA</strong> a powerful tool for linguists because it acts like a universal translator – it allows them to represent the sounds of any language accurately, regardless of how it's written.</p>
 
       <p className="margin-top-20">Here's a deeper dive into why <strong>IPA</strong> is important:</p>
 
@@ -51,7 +51,7 @@ export default function IPA(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li><strong>Speaking Like a Superhero</strong>: If you ever wanted to talk English exactly like your favorite cartoon character or someone from a faraway land, <strong>IPA</strong> can help! By following the <strong>IPA</strong> code, you can learn the super secret sounds that make up perfect English speaking.</li>
+          <li><strong>Speaking Like a Superhero</strong>: If you ever wanted to talk English exactly like your favorite cartoon character or someone from a faraway land, <strong>IPA</strong> can help! By following the <strong>IPA</strong> code, you can learn the super secret sounds that maKE UP perfect English speaking.</li>
 
           <li><strong>Understanding Different Accents</strong>: The world is a big place, and people everywhere speak English a little differently! <strong>IPA</strong> can help you understand this magic trick. The special symbols show you exactly how different people might say the same word, even if it looks the same way when written down.</li>
 

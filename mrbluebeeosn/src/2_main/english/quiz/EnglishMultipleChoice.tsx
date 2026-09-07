@@ -46,7 +46,7 @@ export default function EnglishMultipleChoice(): React.JSX.Element {
 		},
 		{
 			id: 3,
-			question: "CHOOSE the corRECT MEANing of the PHRAsal VERB \"call OFF\".",
+			question: "CHOOSE the corRECT MEANing of the PHRAsal VERB \"calL OFF\".",
 			options: [
 				"to VISit SOMEone",
 				"to CANcel SOMEthing",
@@ -54,7 +54,7 @@ export default function EnglishMultipleChoice(): React.JSX.Element {
 				"to inVITE SOMEone"
 			],
 			correctAnswer: 1,
-			explanation: "The phrasal verb \"to call OFF\" means to cancel an event or activity. Example: \"they called OFF the MEETing due to ILLness.\""
+			explanation: "The phrasal verb \"to calL OFF\" means to cancel an event or activity. Example: \"they callED OFF the MEETing due to ILLness.\""
 		},
 		{
 			id: 4,

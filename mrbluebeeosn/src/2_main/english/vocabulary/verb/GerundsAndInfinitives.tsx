@@ -304,17 +304,17 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 				</ul>
 
 			
-			<h4 className="margin-y-40">14. go ON</h4>
+			<h4 className="margin-y-40">14. gO ON</h4>
 			
 				<ul className="list-square">
 			
 					<li><strong>af</strong>ter a SHORT COFfee BREAK, she <strong>WENT ON WORKing</strong> on the MONTHly TAX rePORTS.</li>
 					<li className="list-none">Sau một khoảng nghỉ uống cà phê ngắn, cô ấy <strong>đã tiếp tục làm</strong> các báo cáo thuế hàng tháng.</li>
-					<li className="margin-bottom-20 list-none">she là chủ thể. Cấu trúc go ON + V-ing dùng để chỉ việc tiếp tục một hành động đang làm trước đó mà không bị gián đoạn hay thay đổi công việc.</li>
+					<li className="margin-bottom-20 list-none">she là chủ thể. Cấu trúc gO ON + V-ing dùng để chỉ việc tiếp tục một hành động đang làm trước đó mà không bị gián đoạn hay thay đổi công việc.</li>
 			
 					<li>the acCOUNtant FINished reVIEWing the INvoices and then <strong>WENT ON to CHECK</strong> the BANK STATEments.</li>
 					<li className="list-none">Người kế toán đã xem xét xong các hóa đơn và sau đó <strong>chuyển sang kiểm tra</strong> các sao kê ngân hàng.</li>
-					<li className="list-none">the acCOUNtant là chủ thể. Cấu trúc go ON + to V dùng khi hoàn thành xong một hành động/giai đoạn này và bước sang thực hiện một hành động, giai đoạn mới tiếp theo.</li>
+					<li className="list-none">the acCOUNtant là chủ thể. Cấu trúc gO ON + to V dùng khi hoàn thành xong một hành động/giai đoạn này và bước sang thực hiện một hành động, giai đoạn mới tiếp theo.</li>
 			
 				</ul>
 
@@ -428,13 +428,13 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 				</ul>
 			
 			
-			<h4 className="margin-y-40">9. give UP DRINKing</h4>
+			<h4 className="margin-y-40">9. giVE UP DRINKing</h4>
 			
 				<ul className="list-square">
 			
 					<li>he <strong>GAVE UP DRINKing</strong> INstant COFfee and SWITCHED enTIREly to traDITional PHIN BREWS.</li>
 					<li className="list-none">Anh ấy <strong>đã từ bỏ việc uống</strong> cà phê hòa tan và chuyển hoàn toàn sang cà phê phin truyền thống.</li>
-					<li className="list-none">he là chủ thể. Sau cụm động từ give UP, hành động tiếp theo bắt buộc phải ở dạng -ing (DRINKing), dùng để chỉ việc từ bỏ hoặc chấm dứt một thói quen, hành động nào đó.</li>
+					<li className="list-none">he là chủ thể. Sau cụm động từ giVE UP, hành động tiếp theo bắt buộc phải ở dạng -ing (DRINKing), dùng để chỉ việc từ bỏ hoặc chấm dứt một thói quen, hành động nào đó.</li>
 			
 				</ul>
 
@@ -859,7 +859,7 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 
 				<ol>
 
-					<li>i’m looking FORward to __________ (SEE) you next WEEK.</li>
+					<li>i’m lookiNG FORward to __________ (SEE) you next WEEK.</li>
 
 					<li>she adMITted __________ (STEAL) the COOKies..</li>
 

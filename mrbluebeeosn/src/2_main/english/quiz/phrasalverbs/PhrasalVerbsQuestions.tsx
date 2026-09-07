@@ -22,7 +22,7 @@ export default function PhrasalVerbsQuestions(): React.JSX.Element {
 	const questions: Question[] = [
 		{
 			id: 1,
-			question: "the MANager deCIded to call OFF the MEETing because the MAIN SPEAKer was ILL. WHAT does \"call OFF\" MEAN?",
+			question: "the MANager deCIded to calL OFF the MEETing because the MAIN SPEAKer was ILL. WHAT does \"calL OFF\" MEAN?",
 			options: [
 				"postPONE",
 				"CANcel",
@@ -30,23 +30,23 @@ export default function PhrasalVerbsQuestions(): React.JSX.Element {
 				"atTEND"
 			],
 			correctAnswer: 1,
-			explanation: "The phrasal verb \"call OFF\" means to decide that a planned event or agreement will not happen (SYNonym: CANcel)."
+			explanation: "The phrasal verb \"calL OFF\" means to decide that a planned event or agreement will not happen (SYNonym: CANcel)."
 		},
 		{
 			id: 2,
-			question: "she takes AFter her GRANDmother; they are both VERy arTIStic. WHAT does \"takes AFter\" MEAN?",
+			question: "she takeS AFter her GRANDmother; they are both VERy arTIStic. WHAT does \"takeS AFter\" MEAN?",
 			options: [
-				"looks UP to",
+				"lookS UP to",
 				"FOLlows",
 				"reSEMbles in apPEARance or CHARacter",
-				"takes CARE of"
+				"takeS CARE of"
 			],
 			correctAnswer: 2,
-			explanation: "To \"take AFter\" someone means to look or behave like an older relative, often a parent or grandparent."
+			explanation: "To \"taKE AFter\" someone means to look or behave like an older relative, often a parent or grandparent."
 		},
 		{
 			id: 3,
-			question: "DON'T WORry, you will get Over the FLU in a COUPle of DAYS. WHAT does \"get Over\" MEAN?",
+			question: "DON'T WORry, you will geT Over the FLU in a COUPle of DAYS. WHAT does \"geT Over\" MEAN?",
 			options: [
 				"aVOID",
 				"reCOVer from",
@@ -54,11 +54,11 @@ export default function PhrasalVerbsQuestions(): React.JSX.Element {
 				"SEARCH for"
 			],
 			correctAnswer: 1,
-			explanation: "To \"get Over\" SOMEthing , especially an illness or a difficult experience, means to recover from it."
+			explanation: "To \"geT Over\" SOMEthing , especially an illness or a difficult experience, means to recover from it."
 		},
 		{
 			id: 4,
-			question: "i was WALKing in the PARK and unexPECTedly ran INto my OLD PRImary SCHOOL TEACHer. WHAT does \"run INto\" MEAN?",
+			question: "i was WALKing in the PARK and unexPECTedly ran INto my OLD PRImary SCHOOL TEACHer. WHAT does \"ruN INto\" MEAN?",
 			options: [
 				"colLIDE with",
 				"MEET SOMEthing unexPECTedly",
@@ -66,11 +66,11 @@ export default function PhrasalVerbsQuestions(): React.JSX.Element {
 				"CHASE after"
 			],
 			correctAnswer: 1,
-			explanation: "The phrasal verb \"run INto\" means to meet someone by chance without having planned to."
+			explanation: "The phrasal verb \"ruN INto\" means to meet someone by chance without having planned to."
 		},
 		{
 			id: 5,
-			question: "when i ASKED about his FAMILy, he QUICKly brought UP a NEW TOPic. WHAT does \"bring UP\" MEAN HERE?",
+			question: "when i ASKED about his FAMILy, he QUICKly brought UP a NEW TOPic. WHAT does \"briNG UP\" MEAN HERE?",
 			options: [
 				"to RAISE a CHILD",
 				"to MENtion or introDUCE a SUBject",
@@ -78,11 +78,11 @@ export default function PhrasalVerbsQuestions(): React.JSX.Element {
 				"to MOVE SOMEthing UPwards"
 			],
 			correctAnswer: 1,
-			explanation: "To \"bring UP\" a subject means to start discussing it or mention it in a conversation."
+			explanation: "To \"briNG UP\" a subject means to start discussing it or mention it in a conversation."
 		},
 		{
 			id: 6,
-			question: "the maCHINE broke DOWN RIGHT in the MIDdle of our proDUCtion CYcle. WHAT does \"broke DOWN\" MEAN?",
+			question: "the maCHINE broKE DOWN RIGHT in the MIDdle of our proDUCtion CYcle. WHAT does \"broKE DOWN\" MEAN?",
 			options: [
 				"STOPPED WORKing because of a FAULT",
 				"FELL on the FLOOR",
@@ -90,11 +90,11 @@ export default function PhrasalVerbsQuestions(): React.JSX.Element {
 				"diVIded INto SMALler PARTS"
 			],
 			correctAnswer: 0,
-			explanation: "When a machine or vehicle \"breaks DOWN,\" it stops operating or functioning because of a mechanical failure."
+			explanation: "When a machine or vehicle \"breakS DOWN,\" it stops operating or functioning because of a mechanical failure."
 		},
 		{
 			id: 7,
-			question: "could you hold ON for a MOment? i NEED to CHECK my CALendar. WHAT does \"hold ON\" MEAN?",
+			question: "could you holD ON for a MOment? i NEED to CHECK my CALendar. WHAT does \"holD ON\" MEAN?",
 			options: [
 				"GRAB SOMEthing TIGHTly",
 				"WAIT for a SHORT TIME",
@@ -102,7 +102,7 @@ export default function PhrasalVerbsQuestions(): React.JSX.Element {
 				"STAY on the LINE"
 			],
 			correctAnswer: 1,
-			explanation: "The phrasal verb \"hold ON\" is an informal way of asking someone to wait, often used when talking on the phone."
+			explanation: "The phrasal verb \"holD ON\" is an informal way of asking someone to wait, often used when talking on the phone."
 		},
 		{
 			id: 8,
@@ -118,7 +118,7 @@ export default function PhrasalVerbsQuestions(): React.JSX.Element {
 		},
 		{
 			id: 9,
-			question: "all STUdents must hand IN their ESsays before FRIday at FIVE p.M. WHAT does \"hand IN\" MEAN?",
+			question: "all STUdents must hanD IN their ESsays before FRIday at FIVE p.M. WHAT does \"hanD IN\" MEAN?",
 			options: [
 				"subMIT",
 				"disTRIBute",
@@ -126,19 +126,19 @@ export default function PhrasalVerbsQuestions(): React.JSX.Element {
 				"WRITE"
 			],
 			correctAnswer: 0,
-			explanation: "To \"hand IN\" an assignment or piece of work means to give it to a person in authority (like a TEACHer or MANager) for assessment or approval (SYNonym: subMIT)."
+			explanation: "To \"hanD IN\" an assignment or piece of work means to give it to a person in authority (like a TEACHer or MANager) for assessment or approval (SYNonym: subMIT)."
 		},
 		{
 			id: 10,
-			question: "they are PLANning to set UP a NEW BRANCH OFfice in LONdon NEXT YEAR. WHAT does \"set UP\" MEAN?",
+			question: "they are PLANning to seT UP a NEW BRANCH OFfice in LONdon NEXT YEAR. WHAT does \"seT UP\" MEAN?",
 			options: [
 				"to DECorate",
 				"to TRICK someone",
 				"to esTABlish or ORganize SOMEthing ",
-				"to stand UP"
+				"to stanD UP"
 			],
 			correctAnswer: 2,
-			explanation: "To \"set UP\" a business, system, or organization means to start or establish it."
+			explanation: "To \"seT UP\" a business, system, or organization means to start or establish it."
 		}
 	];
 
