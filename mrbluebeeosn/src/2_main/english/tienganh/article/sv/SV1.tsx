@@ -94,14 +94,14 @@ export default function SV1(): React.JSX.Element {
 
 			<p>Với hệ thống mới, quy trình tư duy được thực hiện một cách tự nhiên và khoa học: Người học nhìn thấy Hình thái trước, sau đó dựa vào vị trí để giải mã ra Chức năng.</p>
 
-			<p>Hành động trong câu chính là các dạng [Động Cơ][Verb Base] xung lực vận hành, song hành cùng cấu trúc liên kết không hành động là [prepoSITional BASE][GIỚI CƠ] hoặc [Phức Giới Cơ][Complex Prepositional Base].</p>
+			<p>Hành động trong câu chính là các dạng [Động Cơ][Verb Base] xung lực vận hành, song hành cùng cấu trúc liên kết không hành động là [prepoSITional BASE][GIỚI CƠ] hoặc [COMplex prepoSITional BASE][PHỨC GIỚI CƠ].</p>
 
 			<p>Để giải mã chính xác bản chất cấu trúc, trục hình thái [Động Cơ][Verb Base] được chia tách hệ thống thành 4 nhóm cốt lõi và phân hệ 16 mục sau:</p>
 			
 
 			<h4 className="margin-y-40">4 Nhóm Động Từ Cốt Lõi</h4>
           
-      <p className="margin-top-20 text-indent-whole"><strong>Nhóm 1</strong>: [<strong>Thời Động Cơ</strong>][<strong>Tense Verb Base</strong>]</p>
+      <p className="margin-top-20 text-indent-whole"><strong>Nhóm 1</strong>: [<strong>TENSE VERB BASE</strong>][<strong>THỜI ĐỘNG CƠ</strong>]</p>
 
       <p className="text-indent-whole">Nhóm này định vị mốc [Thời] gian và biểu thị trạng thái [Hoàn] thành hoặc [Tiếp] diễn của hành động.</p>
 
@@ -131,7 +131,7 @@ export default function SV1(): React.JSX.Element {
         </ul>
       
 
-      <p className="margin-top-20 text-indent-whole"><strong>Nhóm 3</strong>: [<strong>Ý-Thái Thuần Động Cơ</strong>][<strong>Soft-Modal Bare Verb Base</strong>]</p>
+      <p className="margin-top-20 text-indent-whole"><strong>Nhóm 3</strong>: [<strong>SOFT-MOdal BARE VERB BASE</strong>][<strong>Ý-THÁI THUẦN ĐỘNG CƠ</strong>]</p>
 
       <p className="text-indent-whole">Nhóm diễn đạt các tình huống lịch sự, khuyên nhủ hoặc giả định nhẹ nhàng. Bao gồm: would (nhã nhặn), should (gợi ý), could (khả năng nhẹ), might (khả năng thấp), ought to (khuyên bảo), had better (khuyên nhủ).</p>
 
@@ -144,7 +144,7 @@ export default function SV1(): React.JSX.Element {
         </ul>
       
 
-      <p className="margin-top-20 text-indent-whole"><strong>Nhóm 4</strong>: [<strong>Áp-Thái Thuần Động Cơ</strong>][<strong>Assertive-Modal Bare Verb Base</strong>]</p>
+      <p className="margin-top-20 text-indent-whole"><strong>Nhóm 4</strong>: [<strong>asSERTive-MOdal BARE VERB BASE</strong>][<strong>ÁP-THÁI THUẦN ĐỘNG CƠ</strong>]</p>
 
       <p className="text-indent-whole">Nhóm khẳng định, cam kết hoặc áp đặt thực tế một cách chắc chắn. Bao gồm: will (cam kết), shall (chắc chắn), can (năng lực), must (ép buộc), have to (bắt buộc), may (khả năng).</p>
 
@@ -164,31 +164,31 @@ export default function SV1(): React.JSX.Element {
           <li value="1">[<strong>ROOT VERB BASE</strong>][<strong>RỄ ĐỘNG CƠ</strong>]: LEARN, SPEAK, BUILD</li>
           <li className="margin-bottom-20 list-none">Hành động ở dạng nguyên thủy cốt lõi nhất, chưa thêm bớt hay kết hợp với bất kỳ hành động nào khác.</li>
       
-          <li value="2">[<strong>Hạt Động Cơ</strong>][<strong>Particle Verb Base</strong>]: to, IN, ON, AT, BY</li>
+          <li value="2">[<strong>PARTicle VERB BASE</strong>][<strong>HẠT ĐỘNG CƠ</strong>]: to, IN, ON, AT, BY</li>
           <li className="margin-bottom-20 list-none">[Hạt] "to" đơn lẻ đóng vai trò hạt nhân đầu tiên đứng trước mọi khối hành động để kích hoạt trạng thái nguyên bản. Các [Hạt] như IN, ON, AT, BY đơn lẻ đứng sau đóng vai trò định hướng hành động để chỉ rõ không gian hoặc phương thức thực hiện.</li>
 
-          <li value="3">[<strong>Thời Động Cơ</strong>][<strong>Tense Verb Base</strong>]: does, did, is, has, was, am, are</li>
-          <li className="margin-bottom-20 list-none">Các [Thời Động Cơ][Tense Verb Base] xuất hiện đơn lẻ để gánh vác năng lượng [Thời] gian, [Thời] cho câu.</li>
+          <li value="3">[<strong>TENSE VERB BASE</strong>][<strong>THỜI ĐỘNG CƠ</strong>]: does, did, is, has, was, am, are</li>
+          <li className="margin-bottom-20 list-none">Các [TENSE VERB BASE][THỜI ĐỘNG CƠ] xuất hiện đơn lẻ để gánh vác năng lượng [Thời] gian, [Thời] cho câu.</li>
       
-          <li value="4">[<strong>Ý-Thái Động Cơ</strong>][<strong>Soft-Modal Verb Base</strong>]: would, could, should, might, ought to, had BETter</li>
-          <li className="margin-bottom-20 list-none">Hành động thể hiện [Thái] độ nhã nhặn, triệt tiêu tính ép buộc. Các khối phức đặc biệt "ought to" và "had better" được quét như một [Phức Ý-Thái Động Cơ][Complex Soft-Modal Verb Base] thống nhất.</li>
+          <li value="4">[<strong>SOFT-MOdal VERB BASE</strong>][<strong>Ý-THÁI ĐỘNG CƠ</strong>]: would, could, should, might, ought to, had BETter</li>
+          <li className="margin-bottom-20 list-none">Hành động thể hiện [Thái] độ nhã nhặn, triệt tiêu tính ép buộc. Các khối phức đặc biệt "ought to" và "had better" được quét như một [COMplex SOFT-MOdal VERB BASE][PHỨC Ý-THÁI ĐỘNG CƠ] thống nhất.</li>
 
           <li value="5">[<strong>asSERTive-MOdal VERB BASE</strong>][<strong>ÁP-THÁI ĐỘNG CƠ</strong>]: will, shall, can, must, have to, may</li>
-          <li className="margin-bottom-20 list-none">Hành động mang tính trực diện, [Áp] đặt thực tế xuống người nghe. Khối phức đặc biệt "have to" được quét như một [Phức Áp-Thái Động Cơ][Complex Assertive-Modal Verb Base] thống nhất.</li>
+          <li className="margin-bottom-20 list-none">Hành động mang tính trực diện, [Áp] đặt thực tế xuống người nghe. Khối phức đặc biệt "have to" được quét như một [COMplex asSERTive-MOdal VERB BASE][PHỨC ÁP-THÁI ĐỘNG CƠ] thống nhất.</li>
 
           <li value="6">[<strong>BARE VERB BASE</strong>][<strong>THUẦN ĐỘNG CƠ</strong>]: LEARN, SPEAK, BUILD</li>
-          <li className="margin-bottom-20 list-none">Hành động [Thuần] khiết đứng tự do một mình, đã giải phóng hoàn toàn và không đi kèm to, thường đứng ngay sau [Hạt Động Cơ][Particle Verb Base] "to", [Ý-Thái][Soft-Modal] hay [asSERTive-MOdal VERB BASE][ÁP-THÁI ĐỘNG CƠ] hoặc [ROOT VERB BASE][RỄ ĐỘNG CƠ] như MAKE, LET, let's, HELP, HAVE, SEE, HEAR, WATCH, FEEL, NOTICE.</li>
+          <li className="margin-bottom-20 list-none">Hành động [Thuần] khiết đứng tự do một mình, đã giải phóng hoàn toàn và không đi kèm to, thường đứng ngay sau [PARTicle VERB BASE][HẠT ĐỘNG CƠ] "to", [SOFT-MOdal][Ý-THÁI] hay [asSERTive-MOdal VERB BASE][ÁP-THÁI ĐỘNG CƠ] hoặc [ROOT VERB BASE][RỄ ĐỘNG CƠ] như MAKE, LET, let's, HELP, HAVE, SEE, HEAR, WATCH, FEEL, NOTICE.</li>
       
           <li value="7">[<strong>PARTicle BARE VERB BASE</strong>][<strong>HẠT THUẦN ĐỘNG CƠ</strong>]: to LEARN, to SPEAK, to BUILD</li>
-          <li className="margin-bottom-20 list-none">Sự hợp nhất tuyến tính giữa [Hạt Động Cơ][Particle Verb Base] và hành động [BARE VERB BASE][THUẦN ĐỘNG CƠ] phía sau.</li>
+          <li className="margin-bottom-20 list-none">Sự hợp nhất tuyến tính giữa [PARTicle VERB BASE][HẠT ĐỘNG CƠ] và hành động [BARE VERB BASE][THUẦN ĐỘNG CƠ] phía sau.</li>
 
-          <li value="8">[<strong>Ý-Thái Thuần Động Cơ</strong>][<strong>Soft-Modal Bare Verb Base</strong>]: would BUILD, could SPEAK</li>
+          <li value="8">[<strong>SOFT-MOdal BARE VERB BASE</strong>][<strong>Ý-THÁI THUẦN ĐỘNG CƠ</strong>]: would BUILD, could SPEAK</li>
           <li className="margin-bottom-20 list-none">Sự hợp nhất tuyến tính giữa [Thái] độ, [Ý] nhị và hành động [Thuần] khiết.</li>
       
-          <li value="9">[<strong>Áp-Thái Thuần Động Cơ</strong>][<strong>Assertive-Modal Bare Verb Base</strong>]: will BUILD, can SPEAK</li>
+          <li value="9">[<strong>asSERTive-MOdal BARE VERB BASE</strong>][<strong>ÁP-THÁI THUẦN ĐỘNG CƠ</strong>]: will BUILD, can SPEAK</li>
           <li className="margin-bottom-20 list-none">Sự hợp nhất tuyến tính giữa [Thái] độ, [Áp] đặt thực tế và hành động [Thuần] khiết.</li>
 
-          <li value="10">[<strong>Thời Thuần Động Cơ</strong>][<strong>Tense Bare Verb Base</strong>]: DID SPEAK, DOES BUILD</li>
+          <li value="10">[<strong>TENSE BARE VERB BASE</strong>][<strong>THỜI THUẦN ĐỘNG CƠ</strong>]: DID SPEAK, DOES BUILD</li>
           <li className="margin-bottom-20 list-none">Trạng thái [Thời] gian và hành động [Thuần] khiết song hành, được ngăn cách bởi một khoảng trắng.</li>
 
           <li value="11">[<strong>TENSE-BARE VERB BASE</strong>][<strong>THỜI-THUẦN ĐỘNG CƠ</strong>]: SPOKE, SPEAKS, BUILDS, WORKS</li>
@@ -200,10 +200,10 @@ export default function SV1(): React.JSX.Element {
           <li value="13">[<strong>PERfect VERB BASE</strong>][<strong>HOÀN ĐỘNG CƠ</strong>]: LEARNT, SPOKEN, BUILT, been</li>
           <li className="margin-bottom-20 list-none">Hành động ở dạng hoàn tất (cột 3/-ed), biểu thị tính chất trọn vẹn, [Hoàn] thành.</li>
       
-          <li value="14">[<strong>Thời Tiếp Động Cơ</strong>][<strong>Tense Progressive Verb Base</strong>]: is SPEAKing, was BUILDing</li>
+          <li value="14">[<strong>TENSE proGRESSive VERB BASE</strong>][<strong>THỜI TIẾP ĐỘNG CƠ</strong>]: is SPEAKing, was BUILDing</li>
           <li className="margin-bottom-20 list-none">Sự hợp nhất tuyến tính giữa từ mang [Thời] gian và hành động mang tính [Tiếp] diễn.</li>
 
-          <li value="15">[<strong>Thời Hoàn Động Cơ</strong>][<strong>Tense Perfect Verb Base</strong>]: has SPOken, had BUILT</li>
+          <li value="15">[<strong>TENSE PERfect VERB BASE</strong>][<strong>THỜI HOÀN ĐỘNG CƠ</strong>]: has SPOken, had BUILT</li>
           <li className="margin-bottom-20 list-none">Sự hợp nhất tuyến tính giữa từ mang [Thời] và hành động mang tính [Hoàn] thành.</li>
       
           <li value="16">[<strong>TENSE PERfect proGRESSive VERB BASE</strong>][<strong>THỜI HOÀN TIẾP ĐỘNG CƠ</strong>]: has been SPEAKing, had been BUILDing</li>
@@ -428,7 +428,7 @@ export default function SV1(): React.JSX.Element {
 					<li>i beLIEVE [you will PASS the exAM].</li>
 					<li className="margin-bottom-20 list-none">Tôi tin [bạn sẽ vượt qua kỳ thi].</li>
 			
-					<li className="list-none">Hình thái: [you will PASS the exAM] - [ZEro-conJUNCtional CLAUSE][ẨN-LIÊN CÂU] đã ẩn đi thành phần liên kết bề nổi, bên trong chứa hệ trục [NOUN SUBject][DANH CHỦ] "you" và khối hành động gồm [Áp-Thái Thuần Động Cơ][Assertive-Modal Bare Verb Base] "will" kết hợp với [BARE VERB BASE][THUẦN ĐỘNG CƠ] "PASS".</li>
+					<li className="list-none">Hình thái: [you will PASS the exAM] - [ZEro-conJUNCtional CLAUSE][ẨN-LIÊN CÂU] đã ẩn đi thành phần liên kết bề nổi, bên trong chứa hệ trục [NOUN SUBject][DANH CHỦ] "you" và khối hành động gồm [asSERTive-MOdal BARE VERB BASE][ÁP-THÁI THUẦN ĐỘNG CƠ] "will" kết hợp với [BARE VERB BASE][THUẦN ĐỘNG CƠ] "PASS".</li>
 			
 					<li className="list-none">Chức năng: [you will PASS the exAM] - [NOUN CLAUSE][DANH CÂU] đứng sau [TENSE-BARE VERB BASE][THỜI-THUẦN ĐỘNG CƠ] "beLIEVE" như một [NOUN OBject][DANH NHẬN] thực thi.</li>
 			
@@ -458,7 +458,7 @@ export default function SV1(): React.JSX.Element {
 					<li>the TEA was so HOT [i COULDN'T DRINK it].</li>
 					<li className="margin-bottom-20 list-none">Trà quá nóng [đến mức tôi không thể uống được].</li>
 			
-					<li className="list-none">Hình thái: [i COULDN'T DRINK it] - [ZEro-conJUNCtional CLAUSE][ẨN-LIÊN CÂU] đã ẩn đi thành phần liên kết bề nổi, bên trong chứa hệ trục [NOUN SUBject][DANH CHỦ] "I" và cụm hành động gồm [Ý-Thái Động Cơ][Soft-Modal Verb Base] "COULDN'T" kết hợp với [BARE VERB BASE][THUẦN ĐỘNG CƠ] "DRINK".</li>
+					<li className="list-none">Hình thái: [i COULDN'T DRINK it] - [ZEro-conJUNCtional CLAUSE][ẨN-LIÊN CÂU] đã ẩn đi thành phần liên kết bề nổi, bên trong chứa hệ trục [NOUN SUBject][DANH CHỦ] "I" và cụm hành động gồm [SOFT-MOdal VERB BASE][Ý-THÁI ĐỘNG CƠ] "COULDN'T" kết hợp với [BARE VERB BASE][THUẦN ĐỘNG CƠ] "DRINK".</li>
 			
 					<li className="list-none">Chức năng: [i COULDN'T DRINK it] - [ADverb CLAUSE][TRẠNG CÂU] gắn vào phía sau [ADjective BASE][TÍNH CƠ] "HOT" nhằm làm rõ hệ quả và bổ nghĩa cho mức độ đặc điểm của [ADjective BASE][TÍNH CƠ] này.</li>
 			
@@ -609,7 +609,7 @@ export default function SV1(): React.JSX.Element {
 
 					<li className="list-none">Tầng trong: Khối lồng bên trong {'{than we exPECTed}'} là một [conJUNCtional CLAUSE][LIÊN CÂU] có chứa hệ trục [NOUN SUBject][DANH CHỦ] "we" và [TENSE-BARE VERB BASE][THỜI-THUẦN ĐỘNG CƠ] "exPECTed", được bắt đầu bằng [conJUNCtional BASE][LIÊN CƠ] than.</li>
 
-					<li className="margin-bottom-20 list-none">Tầng ngoài: Khối tổng thể bao ngoài [SLOWer {'{than we exPECTed}'}] là một khối [Tầng Diện Trạng Cụm][Tiered Modified Adverb Phrase] hình thành từ khối [Rễ Tính Cơ][Root Adjective Base] nguyên bản SLOW kết hợp hậu tố -er.</li>
+					<li className="margin-bottom-20 list-none">Tầng ngoài: Khối tổng thể bao ngoài [SLOWer {'{than we exPECTed}'}] là một khối [Tầng Diện Trạng Cụm][Tiered Modified Adverb Phrase] hình thành từ khối [ROOT ADjective BASE][RỄ TÍNH CƠ] nguyên bản SLOW kết hợp hậu tố -er.</li>
 			
 					<li className="list-none">Chức năng:</li>
 
@@ -639,7 +639,7 @@ export default function SV1(): React.JSX.Element {
 					<li>we arRIVED [LATE].</li>
 					<li className="margin-bottom-20 list-none">Chúng tôi đã đến [muộn].</li>
 			
-					<li className="list-none">Hình thái: [LATE] - [Rễ Trạng Cơ][Root Adverb Base] hình thành từ khối [Rễ Tính Cơ][Root Adjective Base] nguyên bản "LATE" đóng vai trò diện mạo đơn lẻ ở cấp độ [BASE][CƠ].</li>
+					<li className="list-none">Hình thái: [LATE] - [ROOT ADverb BASE][RỄ TRẠNG CƠ] hình thành từ khối [ROOT ADjective BASE][RỄ TÍNH CƠ] nguyên bản "LATE" đóng vai trò diện mạo đơn lẻ ở cấp độ [BASE][CƠ].</li>
 
 					<li className="list-none">Chức năng: [LATE] - [ADverb BASE][TRẠNG CƠ] đứng sau [TENSE-BARE VERB BASE][THỜI-THUẦN ĐỘNG CƠ] "arRIVED" làm [ADverb BASE][TRẠNG CƠ] bổ nghĩa hoàn cảnh thời gian cho hành động.</li>
 			
@@ -653,7 +653,7 @@ export default function SV1(): React.JSX.Element {
 					<li>we arRIVED [to HELP our FRIENDS].</li>
 					<li className="margin-bottom-20 list-none">Chúng tôi đã đến [để giúp đỡ bạn bè của chúng tôi].</li>
 			
-					<li className="list-none">Hình thái: [to HELP our FRIENDS] - [PARTicle BARE VERB PHRASE][HẠT THUẦN ĐỘNG CỤM] cấu thành khối hành động chứa nhiều yếu tố kết hợp và không chứa hệ trục [NOUN SUBject][DANH CHỦ] - [TENSE-BARE VERB BASE][THỜI-THUẦN ĐỘNG CƠ], bắt đầu bằng [Hạt Động Cơ][Particle Verb Base] "to".</li>
+					<li className="list-none">Hình thái: [to HELP our FRIENDS] - [PARTicle BARE VERB PHRASE][HẠT THUẦN ĐỘNG CỤM] cấu thành khối hành động chứa nhiều yếu tố kết hợp và không chứa hệ trục [NOUN SUBject][DANH CHỦ] - [TENSE-BARE VERB BASE][THỜI-THUẦN ĐỘNG CƠ], bắt đầu bằng [PARTicle VERB BASE][HẠT ĐỘNG CƠ] "to".</li>
 
 					<li className="list-none">Chức năng: [to HELP our FRIENDS] - [ADverb PHRASE][TRẠNG CỤM] đứng sau [TENSE-BARE VERB BASE][THỜI-THUẦN ĐỘNG CƠ] "arRIVED" nhằm làm rõ mục đích cho phần thông tin trước đó.</li>
 			

@@ -22,7 +22,7 @@ export default function TOEICPractice(): React.JSX.Element {
 	const questions: Question[] = [
 		{
 			id: 1,
-			question: "the NEWly apPOINTed MANager is exPECTed to ______ sigNIFicant CHANges to the COMpany's MARketing STRATegy.",
+			question: "the NEWly apPOINTed MANager is exPECTed to ______ sigNIFicant CHAnges to the COMpany's MARketing STRATegy.",
 			options: [
 				"IMplement",
 				"implemenTAtion",

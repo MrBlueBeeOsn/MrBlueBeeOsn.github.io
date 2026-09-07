@@ -28,7 +28,7 @@ export default function Respond(): React.JSX.Element {
 
         <div>
 
-          <p className="margin-bottom-20">[reSPOND] is a [Root Verb Base] that means to say or write something as an answer, or to react to something.</p>
+          <p className="margin-bottom-20">[reSPOND] is a [ROOT VERB BASE] that means to say or write something as an answer, or to react to something.</p>
 
           <p>[reSPOND] là một [ROOT VERB BASE][RỄ ĐỘNG CƠ] có nghĩa là phản hồi, trả lời, hoặc phản ứng lại một tác động trước đó.</p>
 
@@ -39,7 +39,7 @@ export default function Respond(): React.JSX.Element {
               <li>the TEAM should [reSPOND] to the CLIent reQUEST imMEDIately.</li>
               <li className="margin-bottom-20 list-none">Đội ngũ nên [phản hồi] yêu cầu của khách hàng ngay lập tức.</li>
 
-              <li className="list-none">Hình thái: [reSPOND] - [BARE VERB BASE][THUẦN ĐỘNG CƠ] hình thành từ khối [ROOT VERB BASE][RỄ ĐỘNG CƠ] nguyên bản "reSPOND" đứng sau chịu tác động từ [Ý-Thái Động Cơ][Soft-Modal Verb Base] "should" để thực thi hành động hướng tới đối tượng tiếp nhận trực tiếp "to the CLIent reQUEST".</li>
+              <li className="list-none">Hình thái: [reSPOND] - [BARE VERB BASE][THUẦN ĐỘNG CƠ] hình thành từ khối [ROOT VERB BASE][RỄ ĐỘNG CƠ] nguyên bản "reSPOND" đứng sau chịu tác động từ [SOFT-MOdal VERB BASE][Ý-THÁI ĐỘNG CƠ] "should" để thực thi hành động hướng tới đối tượng tiếp nhận trực tiếp "to the CLIent reQUEST".</li>
           
             </ul>
 
@@ -60,7 +60,7 @@ export default function Respond(): React.JSX.Element {
 
       {/* 1.  */}
 
-			<h3 className="margin-y-50 text-center">HỆ THỐNG [PHÂN LOẠI HẠT NHÂN ĐỘNG CƠ][VERB BASE CATEGORIES]</h3>
+			<h3 className="margin-y-50 text-center">HỆ THỐNG [PHÂN LOẠI HẠT NHÂN ĐỘNG CƠ][VERB BASE CATegories]</h3>
 
       <h4 className="margin-y-40">a. Phân hệ [BASE][CƠ]</h4>
       
@@ -69,23 +69,23 @@ export default function Respond(): React.JSX.Element {
           <li value="1">[<strong>ROOT VERB BASE</strong>][<strong>RỄ ĐỘNG CƠ</strong>]: reSPOND</li>
           <li className="margin-bottom-20 list-none">Hành động ở dạng [ROOT VERB BASE][RỄ ĐỘNG CƠ] nguyên bản chưa qua xử lý gộp hay biến hóa cấu trúc hình thái vật lý.</li>
       
-          <li value="2">[<strong>Hạt Động Cơ</strong>][<strong>Particle Verb Base</strong>]: to, OUT, IN, WITH, BACK</li>
+          <li value="2">[<strong>PARTicle VERB BASE</strong>][<strong>HẠT ĐỘNG CƠ</strong>]: to, OUT, IN, WITH, BACK</li>
           <li className="margin-bottom-20 list-none">[Hạt] to đơn lẻ đóng vai trò mã định vị độc lập làm điểm tựa khởi động, đặt nền móng trực tiếp trước hành động để kích hoạt trạng thái nguyên bản hoặc định hướng tác động đến đối tượng. Các [Hạt] như OUT, IN, WITH, BACK đơn lẻ đứng sau hành động để mở rộng hướng di chuyển, phạm vi tác động, cường độ hoặc trạng thái tiếp diễn/kết thúc của hạt nhân vận hành đó.</li>
 
-          <li value="3">[<strong>Thời Động Cơ</strong>][<strong>Tense Verb Base</strong>]: does, did, is, has, was, am, are</li>
+          <li value="3">[<strong>TENSE VERB BASE</strong>][<strong>THỜI ĐỘNG CƠ</strong>]: does, did, is, has, was, am, are</li>
           <li className="margin-bottom-20 list-none">Hành động đơn lẻ xuất hiện để mang năng lượng [Thời] gian / [Thời] trong câu.</li>
       
-          <li value="4">[<strong>Ý-Thái Động Cơ</strong>][<strong>Soft-Modal Verb Base</strong>]: would, could, should, might</li>
-          <li className="margin-bottom-20 list-none">Hành động chỉ [Thái] độ mang tính [Ý] nhị, có [Ý] tư, mong muốn là thật nhưng cách nói nhường nhịn và triệt tiêu tính ép. Các khối phức đặc biệt "ought to" và "had BETter" được quét như một [Phức Ý-Thái Động Cơ][Complex Soft-Modal Verb Base] thống nhất.</li>
+          <li value="4">[<strong>SOFT-MOdal VERB BASE</strong>][<strong>Ý-THÁI ĐỘNG CƠ</strong>]: would, could, should, might</li>
+          <li className="margin-bottom-20 list-none">Hành động chỉ [Thái] độ mang tính [Ý] nhị, có [Ý] tư, mong muốn là thật nhưng cách nói nhường nhịn và triệt tiêu tính ép. Các khối phức đặc biệt "ought to" và "had BETter" được quét như một [COMplex SOFT-MOdal VERB BASE][PHỨC Ý-THÁI ĐỘNG CƠ] thống nhất.</li>
 
           <li value="5">[<strong>asSERTive-MOdal VERB BASE</strong>][<strong>ÁP-THÁI ĐỘNG CƠ</strong>]: will, shall, can, must, may</li>
-          <li className="margin-bottom-20 list-none">Hành động chỉ [Thái] độ mang tính trực diện, [Áp] đặt thực tế xuống, không chừa lối thoát cho người nghe. Khối phức đặc biệt "have to" được quét như một [Phức Áp-Thái Động Cơ][Complex Assertive-Modal Verb Base] thống nhất.</li>
+          <li className="margin-bottom-20 list-none">Hành động chỉ [Thái] độ mang tính trực diện, [Áp] đặt thực tế xuống, không chừa lối thoát cho người nghe. Khối phức đặc biệt "have to" được quét như một [COMplex asSERTive-MOdal VERB BASE][PHỨC ÁP-THÁI ĐỘNG CƠ] thống nhất.</li>
 
           <li value="6">[<strong>BARE VERB BASE</strong>][<strong>THUẦN ĐỘNG CƠ</strong>]: reSPOND</li>
           <li className="margin-bottom-20 list-none">Hành động [Thuần] khiết đứng tự do một mình, hoàn toàn giải phóng và không có "to" đi kèm, thường đứng ngay sau:</li>
 
-          <li className="list-none">[Hạt Động Cơ][Particle Verb Base]: to</li>
-          <li className="list-none">[Ý-Thái Động Cơ][Soft-Modal Verb Base]: would, could, should, might</li>
+          <li className="list-none">[PARTicle VERB BASE][HẠT ĐỘNG CƠ]: to</li>
+          <li className="list-none">[SOFT-MOdal VERB BASE][Ý-THÁI ĐỘNG CƠ]: would, could, should, might</li>
           <li className="list-none">[asSERTive-MOdal VERB BASE][ÁP-THÁI ĐỘNG CƠ]: will, shall, can, must, may</li>
           <li className="list-none">Nhóm Động Cơ Sai Khiến / Cho Phép: MAKE, LET, let's, HAVE</li>
           <li className="list-none">Nhóm Động Cơ Hỗ Trợ / Tương Tác: HELP, GET (khi ở dạng đặc biệt)</li>
@@ -94,13 +94,13 @@ export default function Respond(): React.JSX.Element {
           <li value="7">[<strong>PARTicle BARE VERB BASE</strong>][<strong>HẠT THUẦN ĐỘNG CƠ</strong>]: to reSPOND</li>
           <li className="margin-bottom-20 list-none">Sự tích hợp thẳng hàng giữa điểm tựa khởi động và cấu trúc hành động [Thuần] khiết đứng độc lập phía sau.</li>
 
-          <li value="8">[<strong>Ý-Thái Thuần Động Cơ</strong>][<strong>Soft-Modal Bare Verb Base</strong>]: would reSPOND, could reSPOND, should reSPOND</li>
+          <li value="8">[<strong>SOFT-MOdal BARE VERB BASE</strong>][<strong>Ý-THÁI THUẦN ĐỘNG CƠ</strong>]: would reSPOND, could reSPOND, should reSPOND</li>
           <li className="margin-bottom-20 list-none">Sự hợp nhất tuyến tính giữa [Thái] độ, [Ý] nhị, không ép và hành động [Thuần] khiết.</li>
       
-          <li value="9">[<strong>Áp-Thái Thuần Động Cơ</strong>][<strong>Assertive-Modal Bare Verb Base</strong>]: will reSPOND, can reSPOND</li>
+          <li value="9">[<strong>asSERTive-MOdal BARE VERB BASE</strong>][<strong>ÁP-THÁI THUẦN ĐỘNG CƠ</strong>]: will reSPOND, can reSPOND</li>
           <li className="margin-bottom-20 list-none">Sự hợp nhất tuyến tính giữa [Thái] độ, [Áp] đặt thực tế và hành động [Thuần] khiết.</li>
 
-          <li value="10">[<strong>Thời Thuần Động Cơ</strong>][<strong>Tense Bare Verb Base</strong>]: DID reSPOND, DOES reSPOND</li>
+          <li value="10">[<strong>TENSE BARE VERB BASE</strong>][<strong>THỜI THUẦN ĐỘNG CƠ</strong>]: DID reSPOND, DOES reSPOND</li>
           <li className="margin-bottom-20 list-none">Trạng thái [Thời] gian và hành động [Thuần] khiết song hành, được tách riêng biệt bằng một khoảng trắng trong câu.</li>
 
           <li value="11">[<strong>TENSE-BARE VERB BASE</strong>][<strong>THỜI-THUẦN ĐỘNG CƠ</strong>]: reSPONDed, reSPONDS</li>
@@ -112,10 +112,10 @@ export default function Respond(): React.JSX.Element {
           <li value="13">[<strong>PERfect VERB BASE</strong>][<strong>HOÀN ĐỘNG CƠ</strong>]: reSPONDed, been</li>
           <li className="margin-bottom-20 list-none">Hành động ở dạng cột 3 hoặc thêm đuôi -ed thể hiện tính chất đã trọn vẹn, [Hoàn] thành.</li>
       
-          <li value="14">[<strong>Thời Tiếp Động Cơ</strong>][<strong>Tense Progressive Verb Base</strong>]: is reSPONDing, was reSPONDing</li>
+          <li value="14">[<strong>TENSE proGRESSive VERB BASE</strong>][<strong>THỜI TIẾP ĐỘNG CƠ</strong>]: is reSPONDing, was reSPONDing</li>
           <li className="margin-bottom-20 list-none">Sự hợp nhất tuyến tính giữa hành động mang [Thời] gian và hành động mang tính chất đang [Tiếp] diễn.</li>
 
-          <li value="15">[<strong>Thời Hoàn Động Cơ</strong>][<strong>Tense Perfect Verb Base</strong>]: has reSPONDed, had reSPONDed</li>
+          <li value="15">[<strong>TENSE PERfect VERB BASE</strong>][<strong>THỜI HOÀN ĐỘNG CƠ</strong>]: has reSPONDed, had reSPONDed</li>
           <li className="margin-bottom-20 list-none">Sự hợp nhất tuyến tính giữa hành động mang [Thời] gian và hành động mang tính chất đã trọn vẹn, [Hoàn] thành.</li>
       
           <li value="16">[<strong>TENSE PERfect proGRESSive VERB BASE</strong>][<strong>THỜI HOÀN TIẾP ĐỘNG CƠ</strong>]: has been reSPONDing, had been reSPONDing</li>
@@ -318,7 +318,7 @@ export default function Respond(): React.JSX.Element {
           <li>the EmaiL [to be reSPONDed to by the MANager] will be SENT toMORrow.</li>
           <li className="margin-bottom-20 list-none">Email [sắp sửa được phản hồi bởi người quản lý] sẽ được gửi vào ngày mai.</li>
       
-          <li className="list-none">Hình thái: [to be reSPONDed to by the MANager] - [PARTicle BARE PERfect VERB PHRASE][HẠT THUẦN HOÀN ĐỘNG CỤM] bắt đầu bằng [Hạt Động Cơ][Particle Verb Base] "to" kéo theo vùng bổ trợ phía sau chứa [BARE VERB BASE][THUẦN ĐỘNG CƠ] "be" và [PERfect VERB BASE][HOÀN ĐỘNG CƠ] "reSPONDed" để biểu thị trạng thái bị động tương lai.</li>
+          <li className="list-none">Hình thái: [to be reSPONDed to by the MANager] - [PARTicle BARE PERfect VERB PHRASE][HẠT THUẦN HOÀN ĐỘNG CỤM] bắt đầu bằng [PARTicle VERB BASE][HẠT ĐỘNG CƠ] "to" kéo theo vùng bổ trợ phía sau chứa [BARE VERB BASE][THUẦN ĐỘNG CƠ] "be" và [PERfect VERB BASE][HOÀN ĐỘNG CƠ] "reSPONDed" để biểu thị trạng thái bị động tương lai.</li>
       
           <li className="list-none">Chức năng: [to be reSPONDed to by the MANager] - [ADjective PHRASE][TÍNH CỤM] kích hoạt bộ quét đặt ngay sau đối tượng "EmaiL" để mô tả trạng thái sắp sửa được tác động.</li>
       
@@ -347,12 +347,12 @@ export default function Respond(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>they NEED a SYStem [reSPONsive to MARket CHANges].</li>
+          <li>they NEED a SYStem [reSPONsive to MARket CHAnges].</li>
           <li className="margin-bottom-20 list-none">Họ cần một hệ thống [có độ phản hồi linh hoạt với các thay đổi thị trường].</li>
       
-          <li className="list-none">Hình thái: [reSPONsive to MARket CHANges] - [MODified ADjective PHRASE][DIỆN TÍNH CỤM] hình thành từ khối [ROOT VERB BASE][RỄ ĐỘNG CƠ] nguyên bản "resPOND" qua việc thêm hậu tố "-ive" và kết hợp mở rộng với một [prepoSITional PHRASE][GIỚI CỤM] phía sau.</li>
+          <li className="list-none">Hình thái: [reSPONsive to MARket CHAnges] - [MODified ADjective PHRASE][DIỆN TÍNH CỤM] hình thành từ khối [ROOT VERB BASE][RỄ ĐỘNG CƠ] nguyên bản "resPOND" qua việc thêm hậu tố "-ive" và kết hợp mở rộng với một [prepoSITional PHRASE][GIỚI CỤM] phía sau.</li>
       
-          <li className="list-none">Chức năng: [reSPONsive to MARket CHANges] - [ADjective PHRASE][TÍNH CỤM] đứng ngay sau [NOUN BLOCK][DANH KHỐI] "system" để bổ nghĩa, xác định đặc điểm và năng lực trực tiếp cho đối tượng đó.</li>
+          <li className="list-none">Chức năng: [reSPONsive to MARket CHAnges] - [ADjective PHRASE][TÍNH CỤM] đứng ngay sau [NOUN BLOCK][DANH KHỐI] "system" để bổ nghĩa, xác định đặc điểm và năng lực trực tiếp cho đối tượng đó.</li>
       
         </ul>
       
@@ -539,12 +539,12 @@ export default function Respond(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>the camPAIGN sucCEEDed [be<strong>cause</strong> the TEAM reSPONDed to MARket CHANges].</li>
+          <li>the camPAIGN sucCEEDed [be<strong>cause</strong> the TEAM reSPONDed to MARket CHAnges].</li>
           <li className="margin-bottom-20 list-none">Chiến dịch đã thành công [vì đội ngũ đã phản hồi/thích ứng kịp thời với các thay đổi thị trường].</li>
       
-          <li className="list-none">Hình thái: [be<strong>cause</strong> the TEAM reSPONDed to MARket CHANges] - [conJUNCtional CLAUSE][LIÊN CÂU] kích hoạt ngay sau thành phần [conJUNCtional BASE][LIÊN CƠ] nguyên nhân "be<strong>cause</strong>", chứa [NOUN SUBject][DANH CHỦ] "the TEAM" và cụm hành động mang dấu mốc trục thời quá khứ.</li>
+          <li className="list-none">Hình thái: [be<strong>cause</strong> the TEAM reSPONDed to MARket CHAnges] - [conJUNCtional CLAUSE][LIÊN CÂU] kích hoạt ngay sau thành phần [conJUNCtional BASE][LIÊN CƠ] nguyên nhân "be<strong>cause</strong>", chứa [NOUN SUBject][DANH CHỦ] "the TEAM" và cụm hành động mang dấu mốc trục thời quá khứ.</li>
       
-          <li className="list-none">Chức năng: [be<strong>cause</strong> the TEAM reSPONDed to MARket CHANges] - [ADverb CLAUSE][TRẠNG CÂU] thiết lập module bối cảnh, bổ nghĩa cho hành động [TENSE-BARE VERB BASE][THỜI-THUẦN ĐỘNG CƠ] "sucCEEDed" và toàn bộ mệnh đề chính trước đó.</li>
+          <li className="list-none">Chức năng: [be<strong>cause</strong> the TEAM reSPONDed to MARket CHAnges] - [ADverb CLAUSE][TRẠNG CÂU] thiết lập module bối cảnh, bổ nghĩa cho hành động [TENSE-BARE VERB BASE][THỜI-THUẦN ĐỘNG CƠ] "sucCEEDed" và toàn bộ mệnh đề chính trước đó.</li>
       
         </ul>
 
@@ -944,7 +944,7 @@ export default function Respond(): React.JSX.Element {
           <li>the SYStem reSTARted [in resPONSE to the seCUrity PATCH].</li>
           <li className="margin-bottom-20 list-none">Hệ thống đã khởi động lại [để ứng phó/phản hồi với bản vá bảo mật].</li>
       
-          <li className="list-none">Hình thái mới: [in resPONSE to the seCUrity PATCH] - [COMplex prepoSITional PHRASE][PHỨC GIỚI CỤM] mới, bắt đầu bằng [Phức Giới Cơ][Complex Prepositional Base] "in resPONSE to" được đưa vào thế chỗ.</li>
+          <li className="list-none">Hình thái mới: [in resPONSE to the seCUrity PATCH] - [COMplex prepoSITional PHRASE][PHỨC GIỚI CỤM] mới, bắt đầu bằng [COMplex prepoSITional BASE][PHỨC GIỚI CƠ] "in resPONSE to" được đưa vào thế chỗ.</li>
       
           <li className="list-none">Chức năng mới: [in resPONSE to the seCUrity PATCH] - [ADverb PHRASE][TRẠNG CỤM] đảm nhận vai trò thiết lập khối bối cảnh nguyên nhân tổng thể, bổ nghĩa cho hành động [TENSE-BARE VERB BASE][THỜI-THUẦN ĐỘNG CƠ] "reSTARted" mà không làm biến dạng sơ đồ sắp xếp tổng thể của câu.</li>
       

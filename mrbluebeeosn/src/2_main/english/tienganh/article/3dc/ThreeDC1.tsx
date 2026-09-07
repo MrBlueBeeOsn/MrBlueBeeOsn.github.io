@@ -94,7 +94,7 @@ export default function ThreeDC1(): React.ReactElement {
 
 			<p>Dưới đây là sơ đồ bóc tách cách các phân loại [Động Cơ][Verb Base] phối hợp để tạo nên các cấu hình thời gian và thái độ khác nhau thông qua các nhóm chức năng chuyên biệt:</p>
           
-      <p className="margin-top-20 text-indent-whole"><strong>Nhóm 1</strong>: [<strong>Thời Động Cơ</strong>][<strong>Tense Verb Base</strong>]</p>
+      <p className="margin-top-20 text-indent-whole"><strong>Nhóm 1</strong>: [<strong>TENSE VERB BASE</strong>][<strong>THỜI ĐỘNG CƠ</strong>]</p>
 
       <p className="text-indent-whole">Nhóm này dùng để chia mốc thời gian và trạng thái hoàn thành/tiếp diễn.</p>
 
@@ -124,7 +124,7 @@ export default function ThreeDC1(): React.ReactElement {
         </ul>
       
 
-      <p className="margin-top-20 text-indent-whole"><strong>Nhóm 3</strong>: [<strong>Ý-Thái Thuần Động Cơ</strong>][<strong>Soft-Modal Bare Verb Base</strong>]</p>
+      <p className="margin-top-20 text-indent-whole"><strong>Nhóm 3</strong>: [<strong>SOFT-MOdal BARE VERB BASE</strong>][<strong>Ý-THÁI THUẦN ĐỘNG CƠ</strong>]</p>
 
       <p className="text-indent-whole">Nhóm tình huống lịch sự, gợi ý: would (nhã nhặn), should (gợi ý), could (khả năng nhẹ), might (khả năng thấp), ought to (khuyên bảo), had better (khuyên nhủ).</p>
 
@@ -137,7 +137,7 @@ export default function ThreeDC1(): React.ReactElement {
         </ul>
       
 
-      <p className="margin-top-20 text-indent-whole"><strong>Nhóm 4</strong>: [<strong>Áp-Thái Thuần Động Cơ</strong>][<strong>Assertive-Modal Bare Verb Base</strong>]</p>
+      <p className="margin-top-20 text-indent-whole"><strong>Nhóm 4</strong>: [<strong>asSERTive-MOdal BARE VERB BASE</strong>][<strong>ÁP-THÁI THUẦN ĐỘNG CƠ</strong>]</p>
 
       <p className="text-indent-whole">Nhóm tình huống ép buộc, chắc chắn: will (cam kết), shall (chắc chắn), can (năng lực), must (ép buộc), have to (bắt buộc), may (khả năng).</p>
 
@@ -162,31 +162,31 @@ export default function ThreeDC1(): React.ReactElement {
           <li value="1">[<strong>ROOT VERB BASE</strong>][<strong>RỄ ĐỘNG CƠ</strong>]: ANalyze, INnovate, transFORM</li>
           <li className="margin-bottom-20 list-none">Hành động ở dạng [ROOT VERB BASE][RỄ ĐỘNG CƠ] nguyên thủy nhất, chưa thêm bớt hay kết hợp với bất kỳ hành động nào khác.</li>
       
-          <li value="2">[<strong>Hạt Động Cơ</strong>][<strong>Particle Verb Base</strong>]: to, UP, OUT, DOWN, OFF, ON, IN, aWAY, BACK, Over,...</li>
+          <li value="2">[<strong>PARTicle VERB BASE</strong>][<strong>HẠT ĐỘNG CƠ</strong>]: to, UP, OUT, DOWN, OFF, ON, IN, aWAY, BACK, Over,...</li>
           <li className="margin-bottom-20 list-none">[Hạt] "to" đơn lẻ đóng vai trò hạt nhân đầu tiên đứng trước mọi khối hành động để kích hoạt trạng thái nguyên bản. Các [Hạt] như UP, OUT, DOWN, OFF, ON, IN, aWAY, BACK, Over,... đơn lẻ đứng sau hành động để điều hướng không gian, hoàn tất hoặc biến đổi sắc thái ý nghĩa của hành động gốc.</li>
 
-          <li value="3">[<strong>Thời Động Cơ</strong>][<strong>Tense Verb Base</strong>]: does, did, is, has, was, am, are</li>
+          <li value="3">[<strong>TENSE VERB BASE</strong>][<strong>THỜI ĐỘNG CƠ</strong>]: does, did, is, has, was, am, are</li>
           <li className="margin-bottom-20 list-none">Hành động đơn lẻ xuất hiện để mang năng lượng [Thời] gian / [Thời] trong câu.</li>
       
-          <li value="4">[<strong>Ý-Thái Động Cơ</strong>][<strong>Soft-Modal Verb Base</strong>]: would, could, should, might, ought to, had BETter</li>
+          <li value="4">[<strong>SOFT-MOdal VERB BASE</strong>][<strong>Ý-THÁI ĐỘNG CƠ</strong>]: would, could, should, might, ought to, had BETter</li>
           <li className="margin-bottom-20 list-none">Hành động chỉ [Thái] độ mang tính [Ý] nhị, có [Ý] tứ, mong muốn là thật nhưng cách nói nhường nhịn và triệt tiêu tính ép. Các khối phức đặc biệt "ought to" và "had BETter" được quét như một [Phức Ý-Thái Động Cơ] [Complex Soft-Modal Verb Base] thống nhất.</li>
 
           <li value="5">[<strong>asSERTive-MOdal VERB BASE</strong>][<strong>ÁP-THÁI ĐỘNG CƠ</strong>]: will, shall, can, must, have to, may</li>
           <li className="margin-bottom-20 list-none">Hành động chỉ [Thái] độ mang tính trực diện, [Áp] đặt thực tế xuống, không chừa lối thoát cho người nghe. Khối phức đặc biệt "have to" được quét như một [Phức Áp-Thái Động Cơ] [Complex Assertive-Modal Verb Base] thống nhất.</li>
 
           <li value="6">[<strong>BARE VERB BASE</strong>][<strong>THUẦN ĐỘNG CƠ</strong>]: ANalyze, INnovate, transFORM</li>
-          <li className="margin-bottom-20 list-none">Hành động [Thuần] khiết đứng tự do một mình, không có to đi kèm, thường đứng ngay sau [Hạt Động Cơ][Particle Verb Base] "to", [Ý-Thái][Soft-Modal] hay [asSERTive-MOdal VERB BASE][ÁP-THÁI ĐỘNG CƠ] hoặc [ROOT VERB BASE][RỄ ĐỘNG CƠ] MAKE, LET, let's, HELP, HAVE, GET, SEE, HEAR, WATCH, FEEL, NOtice, obSERVE, SMELL,...</li>
+          <li className="margin-bottom-20 list-none">Hành động [Thuần] khiết đứng tự do một mình, không có to đi kèm, thường đứng ngay sau [PARTicle VERB BASE][HẠT ĐỘNG CƠ] "to", [SOFT-MOdal][Ý-THÁI] hay [asSERTive-MOdal VERB BASE][ÁP-THÁI ĐỘNG CƠ] hoặc [ROOT VERB BASE][RỄ ĐỘNG CƠ] MAKE, LET, let's, HELP, HAVE, GET, SEE, HEAR, WATCH, FEEL, NOtice, obSERVE, SMELL,...</li>
       
           <li value="7">[<strong>PARTicle BARE VERB BASE</strong>][<strong>HẠT THUẦN ĐỘNG CƠ</strong>]: to ANalyze, to transFORM</li>
           <li className="margin-bottom-20 list-none">Sự hợp nhất tuyến tính lấy tên phần tử đầu tiên [Hạt Động Cơ] kết hợp cùng hành động [Thuần] khiết phía sau.</li>
 
-          <li value="8">[<strong>Ý-Thái Thuần Động Cơ</strong>][<strong>Soft-Modal Bare Verb Base</strong>]: would transFORM, should ANalyze</li>
+          <li value="8">[<strong>SOFT-MOdal BARE VERB BASE</strong>][<strong>Ý-THÁI THUẦN ĐỘNG CƠ</strong>]: would transFORM, should ANalyze</li>
           <li className="margin-bottom-20 list-none">Sự hợp nhất tuyến tính giữa [Thái] độ, [Ý] nhị, không ép và hành động [Thuần] khiết.</li>
       
-          <li value="9">[<strong>Áp-Thái Thuần Động Cơ</strong>][<strong>Assertive-Modal Bare Verb Base</strong>]: will transFORM, can ANalyze</li>
+          <li value="9">[<strong>asSERTive-MOdal BARE VERB BASE</strong>][<strong>ÁP-THÁI THUẦN ĐỘNG CƠ</strong>]: will transFORM, can ANalyze</li>
           <li className="margin-bottom-20 list-none">Sự hợp nhất tuyến tính giữa [Thái] độ, [Áp] đặt thực tế xuống và hành động [Thuần] khiết.</li>
 
-          <li value="10">[<strong>Thời Thuần Động Cơ</strong>][<strong>Tense Bare Verb Base</strong>]: DID ANalyze, DOES transFORM</li>
+          <li value="10">[<strong>TENSE BARE VERB BASE</strong>][<strong>THỜI THUẦN ĐỘNG CƠ</strong>]: DID ANalyze, DOES transFORM</li>
           <li className="margin-bottom-20 list-none">Trạng thái [Thời] và hành động [Thuần] khiết song hành, được tách riêng biệt bằng một khoảng trắng trong câu.</li>
 
           <li value="11">[<strong>TENSE-BARE VERB BASE</strong>][<strong>THỜI-THUẦN ĐỘNG CƠ</strong>]: ANalyzed, ANalyzes, transFORMS</li>
@@ -198,10 +198,10 @@ export default function ThreeDC1(): React.ReactElement {
           <li value="13">[<strong>PERfect VERB BASE</strong>][<strong>HOÀN ĐỘNG CƠ</strong>]: ANalyzed, INnovated, been, transFORMED</li>
           <li className="margin-bottom-20 list-none">Hành động ở dạng cột 3 hoặc thêm đuôi -ed thể hiện tính chất đã trọn vẹn, [Hoàn] thành.</li>
       
-          <li value="14">[<strong>Thời Tiếp Động Cơ</strong>][<strong>Tense Progressive Verb Base</strong>]: is ANalyzing, was transFORMing</li>
+          <li value="14">[<strong>TENSE proGRESSive VERB BASE</strong>][<strong>THỜI TIẾP ĐỘNG CƠ</strong>]: is ANalyzing, was transFORMing</li>
           <li className="margin-bottom-20 list-none">Sự hợp nhất tuyến tính giữa hành động mang [Thời] gian và hành động mang tính [Tiếp] diễn.</li>
 
-          <li value="15">[<strong>Thời Hoàn Động Cơ</strong>][<strong>Tense Perfect Verb Base</strong>]: has ANalyzed, had transFORMED</li>
+          <li value="15">[<strong>TENSE PERfect VERB BASE</strong>][<strong>THỜI HOÀN ĐỘNG CƠ</strong>]: has ANalyzed, had transFORMED</li>
           <li className="margin-bottom-20 list-none">Sự hợp nhất tuyến tính giữa hành động mang [Thời] và hành động mang tính [Hoàn] thành.</li>
       
           <li value="16">[<strong>TENSE PERfect proGRESSive VERB BASE</strong>][<strong>THỜI HOÀN TIẾP ĐỘNG CƠ</strong>]: has been ANalyzing, had been transFORMing</li>
@@ -227,7 +227,7 @@ export default function ThreeDC1(): React.ReactElement {
 					<li>Ví dụ 2: to coORdinate [PARTicle BARE VERB BASE][HẠT THUẦN ĐỘNG CƠ] + efFIciently [ADverb BASE][TRẠNG CƠ]</li>
 					<li className="margin-bottom-20 list-none">→ to coORdinate efFIciently [PARTicle BARE VERB PHRASE][HẠT THUẦN ĐỘNG CỤM].</li>
 			
-					<li>Ví dụ 3: will IMplement [Áp-Thái Thuần Động Cơ][Assertive-Modal Bare Verb Base] + the STRATegy [NOUN OBject][DANH NHẬN]</li>
+					<li>Ví dụ 3: will IMplement [asSERTive-MOdal BARE VERB BASE][ÁP-THÁI THUẦN ĐỘNG CƠ] + the STRATegy [NOUN OBject][DANH NHẬN]</li>
 					<li className="list-none">→ will IMplement the STRATegy [Áp-Thái Thuần Động Cụm][Assertive-Modal Bare Verb Phrase].</li>
 			
 				</ul>
@@ -592,13 +592,13 @@ export default function ThreeDC1(): React.ReactElement {
 
 					<li className="list-none">Hình thái:</li>
 
-					<li className="list-none">Khối tổng thể [be<strong>cause</strong> of {'{HOW FREquently the SERver CRASHED}'}] là một [Tầng Phức Giới Cụm][Tiered Complex Prepositional Phrase] bắt đầu bằng [Phức Giới Cơ][Complex Prepositional Base] "be<strong>cause</strong> of".</li>
+					<li className="list-none">Khối tổng thể [be<strong>cause</strong> of {'{HOW FREquently the SERver CRASHED}'}] là một [TIERed COMplex prepoSITional PHRASE][TẦNG PHỨC GIỚI CỤM] bắt đầu bằng [COMplex prepoSITional BASE][PHỨC GIỚI CƠ] "be<strong>cause</strong> of".</li>
 
 					<li className="margin-bottom-20 list-none">Bên trong bao gói {'{HOW FREquently the SERver CRASHED}'} là một [conJUNCtional CLAUSE][LIÊN CÂU] bắt đầu bằng tổ hợp tuyến tính gồm [conJUNCtional BASE][LIÊN CƠ] "HOW" kết hợp cùng [ADverb BASE][TRẠNG CƠ] "FREquently".</li>
 			
 					<li className="list-none">Chức năng:</li>
 
-					<li className="list-none">Khối {'{HOW FREquently the SERver CRASHED}'} bên trong thực thi chức năng [NOUN CLAUSE][DANH CÂU] làm [NOUN OBject][DANH NHẬN] nhận quan hệ trực tiếp đứng sau [Phức Giới Cơ][Complex Prepositional Base] be<strong>cause</strong> of.</li>
+					<li className="list-none">Khối {'{HOW FREquently the SERver CRASHED}'} bên trong thực thi chức năng [NOUN CLAUSE][DANH CÂU] làm [NOUN OBject][DANH NHẬN] nhận quan hệ trực tiếp đứng sau [COMplex prepoSITional BASE][PHỨC GIỚI CƠ] be<strong>cause</strong> of.</li>
 
 					<li className="list-none">Toàn bộ khối hỗn hợp [be<strong>cause</strong> of {'{HOW FREquently the SERver CRASHED}'}] thực thi chức năng [<strong>ADverb PHRASE</strong>][<strong>TRẠNG CỤM</strong>] tổng thể đứng cuối để bổ nghĩa hoàn cảnh nguyên nhân cho [TENSE-BARE VERB BASE][THỜI-THUẦN ĐỘNG CƠ] rediSIGNED.</li>
 			
@@ -653,7 +653,7 @@ export default function ThreeDC1(): React.ReactElement {
 					<li>the SYStem CRASHED [due to the RAPid TEMPERature escaLAtion].</li>
 					<li className="margin-bottom-20 list-none">Hệ thống đã gặp sự cố [do sự leo thang nhiệt độ nhanh chóng].</li>
 			
-					<li className="list-none">Hình thái: Khối [due to the RAPid TEMPERature escaLAtion] - [COMplex prepoSITional PHRASE][PHỨC GIỚI CỤM] bắt đầu bằng [Phức Giới Cơ][Complex Prepositional Base] "due to" điều phối một cấu trúc biểu thị thực thể phức hợp phía sau.</li>
+					<li className="list-none">Hình thái: Khối [due to the RAPid TEMPERature escaLAtion] - [COMplex prepoSITional PHRASE][PHỨC GIỚI CỤM] bắt đầu bằng [COMplex prepoSITional BASE][PHỨC GIỚI CƠ] "due to" điều phối một cấu trúc biểu thị thực thể phức hợp phía sau.</li>
 			
 					<li className="list-none">Chức năng: Khối [due to the RAPid TEMPERature escaLAtion] - [ADverb PHRASE][TRẠNG CỤM] thực hiện chức năng cung cấp bối cảnh nguyên nhân rút gọn cho hành động chính "CRASHED".</li>
 			
@@ -725,7 +725,7 @@ export default function ThreeDC1(): React.ReactElement {
 					<li>the PROgrammer disCOVered [HOW he could BYpass the seCUrity FIREwall].</li>
 					<li className="margin-bottom-20 list-none">Lập trình viên đã phát hiện ra [cách mà anh ấy có thể vượt qua tường lửa bảo mật].</li>
 			
-					<li className="list-none">Hình thái: Khối [HOW he could BYpass the seCUrity FIREwall] - [conJUNCtional CLAUSE][LIÊN CÂU] bắt đầu bằng [conJUNCtional BASE][LIÊN CƠ] "HOW" lồng khối chủ vị hoàn chỉnh có [Ý-Thái Thuần Động Cơ][Soft-Modal Bare Verb Base] "could".</li>
+					<li className="list-none">Hình thái: Khối [HOW he could BYpass the seCUrity FIREwall] - [conJUNCtional CLAUSE][LIÊN CÂU] bắt đầu bằng [conJUNCtional BASE][LIÊN CƠ] "HOW" lồng khối chủ vị hoàn chỉnh có [SOFT-MOdal BARE VERB BASE][Ý-THÁI THUẦN ĐỘNG CƠ] "could".</li>
 			
 					<li className="list-none">Chức năng: Khối [HOW he could BYpass the seCUrity FIREwall] - [NOUN CLAUSE][DANH CÂU] làm khối [NOUN OBject][DANH NHẬN] nhận tác động trực tiếp của hành động "disCOVered".</li>
 			
@@ -860,7 +860,7 @@ export default function ThreeDC1(): React.ReactElement {
 						<li>[NEVer have] i SEEN such a proFESsional acCOUNTing SYStem.</li>
 						<li className="margin-bottom-20 list-none">[Đã chưa từng bao giờ] tôi thấy một hệ thống kế toán nào chuyên nghiệp đến thế.</li>
 
-						<li className="list-none">→ Việc đưa [NEVer have] - <strong>Trạng Cơ phủ định</strong> [<strong>Negative Adverb Base</strong>] "NEVer" và [Thời Động Cơ][Tense Verb Base] "have" lên đầu câu làm cho câu văn mang sắc thái nhấn mạnh cực độ, thể hiện sự ngạc nhiên hoặc khẳng định mạnh mẽ.</li>
+						<li className="list-none">→ Việc đưa [NEVer have] - <strong>Trạng Cơ phủ định</strong> [<strong>Negative Adverb Base</strong>] "NEVer" và [TENSE VERB BASE][THỜI ĐỘNG CƠ] "have" lên đầu câu làm cho câu văn mang sắc thái nhấn mạnh cực độ, thể hiện sự ngạc nhiên hoặc khẳng định mạnh mẽ.</li>
 				
 					</ul>
 
@@ -884,7 +884,7 @@ export default function ThreeDC1(): React.ReactElement {
 						<li>[RAREly does] he REalize HOW MUCH his deCIsions afFECT the PROject.</li>
 						<li className="margin-bottom-20 list-none">[Hiếm khi thực sự] anh ấy nhận ra được các quyết định của mình ảnh hưởng đến dự án nhiều đến thế nào.</li>
 
-						<li className="list-none">→ Việc đưa [RAREly does] - <strong>Trạng Cơ phủ định</strong> [<strong>Negative Adverb Base</strong>] "RAREly" và [Thời Động Cơ][Tense Verb Base] "does" lên đầu câu như một lời cảnh báo hoặc nhấn mạnh về sự thiếu sót trong nhận thức.</li>
+						<li className="list-none">→ Việc đưa [RAREly does] - <strong>Trạng Cơ phủ định</strong> [<strong>Negative Adverb Base</strong>] "RAREly" và [TENSE VERB BASE][THỜI ĐỘNG CƠ] "does" lên đầu câu như một lời cảnh báo hoặc nhấn mạnh về sự thiếu sót trong nhận thức.</li>
 				
 					</ul>
 					
@@ -909,7 +909,7 @@ export default function ThreeDC1(): React.ReactElement {
 						<li>[NOT Only does] she WRITE CLEAN CODE, [but she ALso] deSIGNS BEAUtiful INterfaces.</li>
 						<li className="margin-bottom-20 list-none">[Không chỉ thực sự] cô ấy viết mã sạch, [mà] cô ấy [còn] thiết kế được các giao diện đẹp mắt.</li>
 
-						<li className="list-none">→ Việc đưa [NOT Only does] - <strong>Trạng Cụm phủ định</strong> [<strong>Negative Adverb Phrase</strong>] "NOT Only" và [Thời Động Cơ][Tense Verb Base] "does" lên đầu câu nhấn mạnh rằng kỹ năng của cô ấy không dừng lại ở việc viết mã mà còn vượt xa hơn thế ở mảng thiết kế.</li>
+						<li className="list-none">→ Việc đưa [NOT Only does] - <strong>Trạng Cụm phủ định</strong> [<strong>Negative Adverb Phrase</strong>] "NOT Only" và [TENSE VERB BASE][THỜI ĐỘNG CƠ] "does" lên đầu câu nhấn mạnh rằng kỹ năng của cô ấy không dừng lại ở việc viết mã mà còn vượt xa hơn thế ở mảng thiết kế.</li>
 
 				
 					</ul>

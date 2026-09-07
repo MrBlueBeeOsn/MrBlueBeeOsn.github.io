@@ -81,31 +81,31 @@ export default function SuperWords1(): React.JSX.Element {
           <li value="1">[<strong>ROOT VERB BASE</strong>][<strong>RỄ ĐỘNG CƠ</strong>]: BUILD, deSIGN, TEST</li>
           <li className="margin-bottom-20 list-none">Hành động ở dạng [ROOT VERB BASE][RỄ ĐỘNG CƠ] nguyên thủy nhất, chưa thêm bớt hay kết hợp với bất kỳ hành động nào khác.</li>
       
-          <li value="2">[<strong>Hạt Động Cơ</strong>][<strong>Particle Verb Base</strong>]: to, IN, ON, aWAY, BACK</li>
+          <li value="2">[<strong>PARTicle VERB BASE</strong>][<strong>HẠT ĐỘNG CƠ</strong>]: to, IN, ON, aWAY, BACK</li>
           <li className="margin-bottom-20 list-none">[Hạt] "to" đơn lẻ đóng vai trò hạt nhân đầu tiên đứng trước mọi khối hành động để kích hoạt trạng thái nguyên bản. Các [Hạt] như IN, ON, aWAY, BACK đơn lẻ đứng sau đóng vai trò định hướng hành động để mở rộng không gian, phương hướng hoặc trạng thái vận động cho hành động chính.</li>
 
-          <li value="3">[<strong>Thời Động Cơ</strong>][<strong>Tense Verb Base</strong>]: does, did, is, has, was, am, are</li>
+          <li value="3">[<strong>TENSE VERB BASE</strong>][<strong>THỜI ĐỘNG CƠ</strong>]: does, did, is, has, was, am, are</li>
           <li className="margin-bottom-20 list-none">Hành động đơn lẻ xuất hiện để mang năng lượng [Thời] gian hoặc chia mốc thời trong câu.</li>
       
-          <li value="4">[<strong>Ý-Thái Động Cơ</strong>][<strong>Soft-Modal Verb Base</strong>]: would, could, should, might, ought to, had BETter</li>
-          <li className="margin-bottom-20 list-none">Hành động chỉ [Thái] độ mang tính [Ý] nhị, có [Ý] tứ, mong muốn là thật nhưng cách nói nhường nhịn và triệt tiêu tính ép buộc. Các khối phức đặc biệt "ought to" và "had better" được quét như một [Phức Ý-Thái Động Cơ][Complex Soft-Modal Verb Base] thống nhất.</li>
+          <li value="4">[<strong>SOFT-MOdal VERB BASE</strong>][<strong>Ý-THÁI ĐỘNG CƠ</strong>]: would, could, should, might, ought to, had BETter</li>
+          <li className="margin-bottom-20 list-none">Hành động chỉ [Thái] độ mang tính [Ý] nhị, có [Ý] tứ, mong muốn là thật nhưng cách nói nhường nhịn và triệt tiêu tính ép buộc. Các khối phức đặc biệt "ought to" và "had better" được quét như một [COMplex SOFT-MOdal VERB BASE][PHỨC Ý-THÁI ĐỘNG CƠ] thống nhất.</li>
 
           <li value="5">[<strong>asSERTive-MOdal VERB BASE</strong>][<strong>ÁP-THÁI ĐỘNG CƠ</strong>]: will, shall, can, must, have to, may</li>
-          <li className="margin-bottom-20 list-none">Hành động chỉ [Thái] độ mang tính trực diện, [Áp] đặt thực tế xuống, khẳng định chắc chắn. Khối phức đặc biệt "have to" được quét như một [Phức Áp-Thái Động Cơ][Complex Assertive-Modal Verb Base] thống nhất.</li>
+          <li className="margin-bottom-20 list-none">Hành động chỉ [Thái] độ mang tính trực diện, [Áp] đặt thực tế xuống, khẳng định chắc chắn. Khối phức đặc biệt "have to" được quét như một [COMplex asSERTive-MOdal VERB BASE][PHỨC ÁP-THÁI ĐỘNG CƠ] thống nhất.</li>
 
           <li value="6">[<strong>BARE VERB BASE</strong>][<strong>THUẦN ĐỘNG CƠ</strong>]: BUILD, deSIGN, TEST</li>
-          <li className="margin-bottom-20 list-none">Hành động [Thuần] khiết đứng tự do một mình, không có to đi kèm, thường đứng ngay sau [Hạt Động Cơ][Particle Verb Base] "to", [Ý-Thái][Soft-Modal] hay [asSERTive-MOdal VERB BASE][ÁP-THÁI ĐỘNG CƠ] hoặc [ROOT VERB BASE][RỄ ĐỘNG CƠ] MAKE, LET, let's, HELP, HAVE, SEE, HEAR, WATCH, FEEL, NOTICE, obSERVE, SMELL.</li>
+          <li className="margin-bottom-20 list-none">Hành động [Thuần] khiết đứng tự do một mình, không có to đi kèm, thường đứng ngay sau [PARTicle VERB BASE][HẠT ĐỘNG CƠ] "to", [SOFT-MOdal][Ý-THÁI] hay [asSERTive-MOdal VERB BASE][ÁP-THÁI ĐỘNG CƠ] hoặc [ROOT VERB BASE][RỄ ĐỘNG CƠ] MAKE, LET, let's, HELP, HAVE, SEE, HEAR, WATCH, FEEL, NOTICE, obSERVE, SMELL.</li>
       
           <li value="7">[<strong>PARTicle BARE VERB BASE</strong>][<strong>HẠT THUẦN ĐỘNG CƠ</strong>]: to BUILD, to deSIGN</li>
           <li className="margin-bottom-20 list-none">Sự hợp nhất tuyến tính lấy tên phần tử đầu tiên [Hạt Động Cơ] kết hợp cùng hành động [Thuần] khiết phía sau.</li>
 
-          <li value="8">[<strong>Ý-Thái Thuần Động Cơ</strong>][<strong>Soft-Modal Bare Verb Base</strong>]: would BUILD, could deSIGN</li>
+          <li value="8">[<strong>SOFT-MOdal BARE VERB BASE</strong>][<strong>Ý-THÁI THUẦN ĐỘNG CƠ</strong>]: would BUILD, could deSIGN</li>
           <li className="margin-bottom-20 list-none">Sự hợp nhất tuyến tính giữa [Thái] độ, [Ý] nhị và hành động [Thuần] khiết.</li>
       
-          <li value="9">[<strong>Áp-Thái Thuần Động Cơ</strong>][<strong>Assertive-Modal Bare Verb Base</strong>]: will BUILD, can deSIGN</li>
+          <li value="9">[<strong>asSERTive-MOdal BARE VERB BASE</strong>][<strong>ÁP-THÁI THUẦN ĐỘNG CƠ</strong>]: will BUILD, can deSIGN</li>
           <li className="margin-bottom-20 list-none">Sự hợp nhất tuyến tính giữa [Thái] độ, [Áp] đặt thực tế và hành động [Thuần] khiết.</li>
 
-          <li value="10">[<strong>Thời Thuần Động Cơ</strong>][<strong>Tense Bare Verb Base</strong>]: DID BUILD, DOES deSIGN</li>
+          <li value="10">[<strong>TENSE BARE VERB BASE</strong>][<strong>THỜI THUẦN ĐỘNG CƠ</strong>]: DID BUILD, DOES deSIGN</li>
           <li className="margin-bottom-20 list-none">Trạng thái [Thời] và hành động [Thuần] khiết song hành, được tách riêng biệt bằng một khoảng trắng trong câu.</li>
 
           <li value="11">[<strong>TENSE-BARE VERB BASE</strong>][<strong>THỜI-THUẦN ĐỘNG CƠ</strong>]: BUILT, BUILDS, deSIGNS</li>
@@ -117,10 +117,10 @@ export default function SuperWords1(): React.JSX.Element {
           <li value="13">[<strong>PERfect VERB BASE</strong>][<strong>HOÀN ĐỘNG CƠ</strong>]: BUILT, deSIGNED, been</li>
           <li className="margin-bottom-20 list-none">Hành động ở dạng cột 3 hoặc thêm đuôi -ed thể hiện tính chất đã trọn vẹn, [Hoàn] thành và để lại kết quả.</li>
       
-          <li value="14">[<strong>Thời Tiếp Động Cơ</strong>][<strong>Tense Progressive Verb Base</strong>]: is BUILDing, was deSIGNing</li>
+          <li value="14">[<strong>TENSE proGRESSive VERB BASE</strong>][<strong>THỜI TIẾP ĐỘNG CƠ</strong>]: is BUILDing, was deSIGNing</li>
           <li className="margin-bottom-20 list-none">Sự hợp nhất tuyến tính giữa hành động mang [Thời] gian và hành động mang tính [Tiếp] diễn.</li>
 
-          <li value="15">[<strong>Thời Hoàn Động Cơ</strong>][<strong>Tense Perfect Verb Base</strong>]: has BUILT, had deSIGNED</li>
+          <li value="15">[<strong>TENSE PERfect VERB BASE</strong>][<strong>THỜI HOÀN ĐỘNG CƠ</strong>]: has BUILT, had deSIGNED</li>
           <li className="margin-bottom-20 list-none">Sự hợp nhất tuyến tính giữa hành động mang [Thời] gian và hành động mang tính [Hoàn] thành.</li>
       
           <li value="16">[<strong>TENSE PERfect proGRESSive VERB BASE</strong>][<strong>THỜI HOÀN TIẾP ĐỘNG CƠ</strong>]: has been BUILDing, had been deSIGNing</li>
@@ -155,17 +155,17 @@ export default function SuperWords1(): React.JSX.Element {
 			
 			<h4 className="margin-y-40">[Thời] gian và trạng thái [Hoàn] thành/[Tiếp] diễn:</h4>
           
-      <p className="margin-top-20 text-indent-whole"><strong>Nhóm 1</strong>: [<strong>Thời Động Cơ</strong>][<strong>Tense Verb Base</strong>]</p>
+      <p className="margin-top-20 text-indent-whole"><strong>Nhóm 1</strong>: [<strong>TENSE VERB BASE</strong>][<strong>THỜI ĐỘNG CƠ</strong>]</p>
 
       <p className="text-indent-whole">Nhóm này dùng để chia mốc [Thời] gian và trạng thái [Hoàn] thành/[Tiếp] diễn.</p>
 
         <ul className="list-square">
       
-          <li>be exPANDing → [Thời][Tense] be (am/is/are, was/were) + [proGRESSive VERB BASE][TIẾP ĐỘNG CƠ] exPANDing</li>
+          <li>be exPANDing → [TENSE][THỜI] be (am/is/are, was/were) + [proGRESSive VERB BASE][TIẾP ĐỘNG CƠ] exPANDing</li>
 
-          <li>have been exPANDing → [Thời + Hoàn][Tense + Perfect] have/has/had + been + [proGRESSive VERB BASE][TIẾP ĐỘNG CƠ] exPANDing</li>
+          <li>have been exPANDing → [TENSE + PERfect][THỜI + HOÀN] have/has/had + been + [proGRESSive VERB BASE][TIẾP ĐỘNG CƠ] exPANDing</li>
       
-          <li>have OPtimized → [Thời + Hoàn][Tense + Perfect] have/has/had + OPtimized</li>
+          <li>have OPtimized → [TENSE + PERfect][THỜI + HOÀN] have/has/had + OPtimized</li>
       
           <li>OPtimized, OPtimizes → [TENSE-BARE VERB BASE][THỜI-THUẦN ĐỘNG CƠ] Tích hợp</li>
       
@@ -178,35 +178,35 @@ export default function SuperWords1(): React.JSX.Element {
 
         <ul className="list-square">
       
-          <li>to OPtimize → [Hạt Động Cơ][Particle Verb Base] to + [BARE VERB BASE][THUẦN ĐỘNG CƠ] OPtimize</li>
+          <li>to OPtimize → [PARTicle VERB BASE][HẠT ĐỘNG CƠ] to + [BARE VERB BASE][THUẦN ĐỘNG CƠ] OPtimize</li>
       
-          <li>DID OPtimize → [Thời][Tense] did (Nhấn mạnh) + [BARE VERB BASE][THUẦN ĐỘNG CƠ] OPtimize</li>
+          <li>DID OPtimize → [TENSE][THỜI] did (Nhấn mạnh) + [BARE VERB BASE][THUẦN ĐỘNG CƠ] OPtimize</li>
       
         </ul>
       
 
-      <p className="margin-top-20 text-indent-whole"><strong>Nhóm 3</strong>: [<strong>Ý-Thái Thuần Động Cơ</strong>][<strong>Soft-Modal Bare Verb Base</strong>]</p>
+      <p className="margin-top-20 text-indent-whole"><strong>Nhóm 3</strong>: [<strong>SOFT-MOdal BARE VERB BASE</strong>][<strong>Ý-THÁI THUẦN ĐỘNG CƠ</strong>]</p>
 
       <p className="text-indent-whole">Nhóm tình huống lịch sự, gợi ý: would (nhã nhặn), should (gợi ý), could (khả năng nhẹ), might (khả năng thấp), ought to (khuyên bảo), had BETter (khuyên nhủ).</p>
 
         <ul className="list-square">
       
-          <li>should conSULT → [Ý-Thái][Soft-Modal] should (gợi ý) + [BARE VERB BASE][THUẦN ĐỘNG CƠ] conSULT</li>
+          <li>should conSULT → [SOFT-MOdal][Ý-THÁI] should (gợi ý) + [BARE VERB BASE][THUẦN ĐỘNG CƠ] conSULT</li>
       
-          <li>could upGRADE → [Ý-Thái][Soft-Modal] could (khả năng nhẹ) + [BARE VERB BASE][THUẦN ĐỘNG CƠ] upGRADE</li>
+          <li>could upGRADE → [SOFT-MOdal][Ý-THÁI] could (khả năng nhẹ) + [BARE VERB BASE][THUẦN ĐỘNG CƠ] upGRADE</li>
       
         </ul>
       
 
-      <p className="margin-top-20 text-indent-whole"><strong>Nhóm 4</strong>: [<strong>Áp-Thái Thuần Động Cơ</strong>][<strong>Assertive-Modal Bare Verb Base</strong>]</p>
+      <p className="margin-top-20 text-indent-whole"><strong>Nhóm 4</strong>: [<strong>asSERTive-MOdal BARE VERB BASE</strong>][<strong>ÁP-THÁI THUẦN ĐỘNG CƠ</strong>]</p>
 
       <p className="text-indent-whole">Nhóm tình huống ép buộc, chắc chắn: will (cam kết), shall (chắc chắn), can (năng lực), must (ép buộc), have to (bắt buộc), may (khả năng).</p>
 
         <ul className="list-square">
       
-          <li>will apPROVE → [Áp-Thái][Assertive-Modal] will (cam kết) + [BARE VERB BASE][THUẦN ĐỘNG CƠ] apPROVE</li>
+          <li>will apPROVE → [asSERTive-MOdal][ÁP-THÁI] will (cam kết) + [BARE VERB BASE][THUẦN ĐỘNG CƠ] apPROVE</li>
       
-          <li>must seCURE → [Áp-Thái][Assertive-Modal] must (ép buộc) + [BARE VERB BASE][THUẦN ĐỘNG CƠ] seCURE</li>
+          <li>must seCURE → [asSERTive-MOdal][ÁP-THÁI] must (ép buộc) + [BARE VERB BASE][THUẦN ĐỘNG CƠ] seCURE</li>
       
         </ul>
 
@@ -646,7 +646,7 @@ export default function SuperWords1(): React.JSX.Element {
 					<li>they CANceled the LAUNCH [due to the deVICE overHEATing under PRESsure].</li>
 					<li className="margin-bottom-20 list-none">Họ đã hủy bỏ buổi ra mắt [do thiết bị gặp tình trạng quá nhiệt dưới áp lực].</li>
 			
-					<li className="list-none">Hình thái: [due to the deVICE overHEATing under PRESsure] – [COMplex prepoSITional PHRASE][PHỨC GIỚI CỤM] thể hiện khối thông tin mở rộng bắt đầu bằng [Phức Giới Cơ][Complex Prepositional Base] "due to", kéo theo [NOUN BLOCK][DANH KHỐI] "the deVICE" và một dạng [proGRESSive VERB BASE][TIẾP ĐỘNG CƠ] "overheating" được bọc lót -ing đi sau để cụm hóa [ROOT VERB BASE][RỄ ĐỘNG CƠ] "overheat".</li>
+					<li className="list-none">Hình thái: [due to the deVICE overHEATing under PRESsure] – [COMplex prepoSITional PHRASE][PHỨC GIỚI CỤM] thể hiện khối thông tin mở rộng bắt đầu bằng [COMplex prepoSITional BASE][PHỨC GIỚI CƠ] "due to", kéo theo [NOUN BLOCK][DANH KHỐI] "the deVICE" và một dạng [proGRESSive VERB BASE][TIẾP ĐỘNG CƠ] "overheating" được bọc lót -ing đi sau để cụm hóa [ROOT VERB BASE][RỄ ĐỘNG CƠ] "overheat".</li>
 
 					<li className="list-none">Chức năng: [due to the deVICE overHEATing under PRESsure] – [ADverb PHRASE][TRẠNG CỤM] đang đứng vị trí ở cuối câu giữ nguyên vai trò bổ nghĩa nguyên nhân cho toàn bộ sự việc trong câu lớn.</li>
 			
@@ -663,7 +663,7 @@ export default function SuperWords1(): React.JSX.Element {
 					<li>they CANceled the LAUNCH [be<strong>cause</strong> of the HARDware FAIlure].</li>
 					<li className="margin-bottom-20 list-none">Họ đã hủy bỏ buổi ra mắt [vì lỗi phần cứng].</li>
 			
-					<li className="list-none">Hình thái: [be<strong>cause</strong> of the HARDware FAIlure] – [COMplex prepoSITional PHRASE][PHỨC GIỚI CỤM] thể hiện một khối thông tin không chứa hành động, bắt đầu bằng [Phức Giới Cơ][Complex Prepositional Base] "be<strong>cause</strong> of" điều phối trực tiếp một [NOUN BLOCK][DANH KHỐI] trung tâm đứng sau.</li>
+					<li className="list-none">Hình thái: [be<strong>cause</strong> of the HARDware FAIlure] – [COMplex prepoSITional PHRASE][PHỨC GIỚI CỤM] thể hiện một khối thông tin không chứa hành động, bắt đầu bằng [COMplex prepoSITional BASE][PHỨC GIỚI CƠ] "be<strong>cause</strong> of" điều phối trực tiếp một [NOUN BLOCK][DANH KHỐI] trung tâm đứng sau.</li>
 
 					<li className="list-none">Chức năng: [be<strong>cause</strong> of the HARDware FAIlure] – [ADverb PHRASE][TRẠNG CỤM] đang đứng vị trí ở cuối câu để làm mốc thiết lập bối cảnh nguyên nhân, bổ nghĩa cho toàn câu lớn.</li>
 			

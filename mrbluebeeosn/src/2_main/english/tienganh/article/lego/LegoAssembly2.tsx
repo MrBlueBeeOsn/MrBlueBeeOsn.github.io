@@ -182,7 +182,7 @@ export default function LegoAssembly2(): React.JSX.Element {
 					<li>He answered [politely].</li>
 					<li className="margin-bottom-20 list-none">Anh ấy trả lời [một cách lịch sự].</li>
 			
-					<li className="list-none">Hình thái: [politely] - [MODified ADverb BASE][DIỆN TRẠNG CƠ] hình thành từ khối [Rễ Tính Cơ][Root Adjective Base] nguyên bản "polite" mặc thêm (kết hợp) hậu tố "-ly" để thay đổi diện mạo bên ngoài thành một khối cấp độ [BASE][CƠ].</li>
+					<li className="list-none">Hình thái: [politely] - [MODified ADverb BASE][DIỆN TRẠNG CƠ] hình thành từ khối [ROOT ADjective BASE][RỄ TÍNH CƠ] nguyên bản "polite" mặc thêm (kết hợp) hậu tố "-ly" để thay đổi diện mạo bên ngoài thành một khối cấp độ [BASE][CƠ].</li>
 			
 					<li className="list-none">Chức năng: [politely] – [ADverb BASE][TRẠNG CƠ] làm rõ cách thức cho [Động Cơ] answered</li>
 			

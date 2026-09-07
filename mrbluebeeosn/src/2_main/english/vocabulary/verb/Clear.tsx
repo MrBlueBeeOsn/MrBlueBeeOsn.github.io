@@ -27,7 +27,7 @@ export default function Clear(): React.JSX.Element {
 
         <div>
 
-          <p className="margin-bottom-20">[CLEAR] is a [Root Verb Base] that means to remove things that are not wanted from a place, or to make something easy to see or understand.</p>
+          <p className="margin-bottom-20">[CLEAR] is a [ROOT VERB BASE] that means to remove things that are not wanted from a place, or to make something easy to see or understand.</p>
 
           <p>[CLEAR] là một [ROOT VERB BASE][RỄ ĐỘNG CƠ] có nghĩa là dọn dẹp, xóa bỏ những thứ không mong muốn khỏi một nơi nào đó, hoặc làm cho cái gì đó trở nên dễ nhìn, dễ hiểu (rõ ràng).</p>
 
@@ -38,7 +38,7 @@ export default function Clear(): React.JSX.Element {
               <li>you must [clear] the browser history.</li>
               <li className="margin-bottom-20 list-none">Bạn phải [xóa] lịch sử trình duyệt.</li>
 
-              <li className="list-none">Hình thái: [clear] - [BARE VERB BASE][THUẦN ĐỘNG CƠ] dạng nguyên bản đứng sau [Áp-Thái Thuần Động Cơ][Assertive-Modal Bare Verb Base] "must" để thực thi hành động tác động lên thành phần chịu tác động "the browser history".</li>
+              <li className="list-none">Hình thái: [clear] - [BARE VERB BASE][THUẦN ĐỘNG CƠ] dạng nguyên bản đứng sau [asSERTive-MOdal BARE VERB BASE][ÁP-THÁI THUẦN ĐỘNG CƠ] "must" để thực thi hành động tác động lên thành phần chịu tác động "the browser history".</li>
           
             </ul>
 
@@ -59,14 +59,14 @@ export default function Clear(): React.JSX.Element {
 
       {/* 1.  */}
 
-			<h3 className="margin-y-50 text-center">HỆ THỐNG PHÂN LOẠI HẠT NHÂN ĐỘNG CƠ [VERB BASE CATEGORIES]</h3>
+			<h3 className="margin-y-50 text-center">HỆ THỐNG PHÂN LOẠI HẠT NHÂN ĐỘNG CƠ [VERB BASE CATegories]</h3>
       
         <ol>
       
           <li value="1">[<strong>ROOT VERB BASE</strong>][<strong>RỄ ĐỘNG CƠ</strong>]: clear</li>
           <li className="margin-bottom-20 list-none">Là mã hành động nguyên bản [ROOT VERB BASE][RỄ ĐỘNG CƠ] (dọn dẹp, xóa bỏ, làm sạch), chưa qua xử lý dấu mốc thời gian hay phương thức, đóng vai trò là lõi dữ liệu thô.</li>
       
-          <li value="2">[<strong>Thời Động Cơ</strong>][<strong>Tense Verb Base</strong>]: is, was, has, had, will</li>
+          <li value="2">[<strong>TENSE VERB BASE</strong>][<strong>THỜI ĐỘNG CƠ</strong>]: is, was, has, had, will</li>
           <li className="margin-bottom-20 list-none">Là đơn vị từ đơn chuyên biệt chịu trách nhiệm kích hoạt bối cảnh thời gian (Hiện tại/Quá khứ) hoặc làm trợ lực thiết lập thể chủ động/bị động, hoàn thành/tiếp diễn.</li>
 
           <li value="3">[<strong>Thời Hoàn Động Cơ</strong>][<strong>Complex Tense Verb Base</strong>]: had been, has been</li>
@@ -159,7 +159,7 @@ export default function Clear(): React.JSX.Element {
           <li>she explained the process [clearly].</li>
           <li className="margin-bottom-20 list-none">Cô ấy đã giải thích quy trình [một cách rõ ràng].</li>
       
-          <li className="list-none">Hình thái: [clearly] - [MODified ADverb BASE][DIỆN TRẠNG CƠ] hình thành từ khối [Rễ Tính Cơ][Root Adjective Base] nguyên bản "clear" mặc thêm hậu tố "-ly" để thay đổi diện mạo bên ngoài thành một khối cấp độ [BASE][CƠ], chuyển đổi bản chất sang chức năng trạng dưới dạng từ đơn lẻ thông dụng.</li>
+          <li className="list-none">Hình thái: [clearly] - [MODified ADverb BASE][DIỆN TRẠNG CƠ] hình thành từ khối [ROOT ADjective BASE][RỄ TÍNH CƠ] nguyên bản "clear" mặc thêm hậu tố "-ly" để thay đổi diện mạo bên ngoài thành một khối cấp độ [BASE][CƠ], chuyển đổi bản chất sang chức năng trạng dưới dạng từ đơn lẻ thông dụng.</li>
       
           <li className="list-none">Chức năng: [clearly] - [ADverb BASE][TRẠNG CƠ] thực thi vai trò làm thành phần bổ nghĩa đứng sau hành động "explained" để xác định bối cảnh cách thức.</li>
       
@@ -212,7 +212,7 @@ export default function Clear(): React.JSX.Element {
           <li>the staff member [to clear the meeting room] is outside.</li>
           <li className="margin-bottom-20 list-none">Nhân viên [sắp sửa dọn dẹp phòng họp] thì ở bên ngoài.</li>
       
-          <li className="list-none">Hình thái: [to clear the meeting room] - [PARTicle BARE VERB PHRASE][HẠT THUẦN ĐỘNG CỤM] chứa [Hạt Động Cơ][Particle Verb Base] ở dạng nguyên bản có "to" để biểu thị tính chủ động hướng tới tương lai.</li>
+          <li className="list-none">Hình thái: [to clear the meeting room] - [PARTicle BARE VERB PHRASE][HẠT THUẦN ĐỘNG CỤM] chứa [PARTicle VERB BASE][HẠT ĐỘNG CƠ] ở dạng nguyên bản có "to" để biểu thị tính chủ động hướng tới tương lai.</li>
       
           <li className="list-none">Chức năng: [to clear the meeting room] - [ADjective PHRASE][TÍNH CỤM] đặt ngay sau đối tượng "staff member" để quét và hiển thị đặc điểm hành động sắp sửa xảy ra mang tính chủ động của đối tượng đó.</li>
       
@@ -294,7 +294,7 @@ export default function Clear(): React.JSX.Element {
           <li>they ran the software [to clear cache files].</li>
           <li className="margin-bottom-20 list-none">Họ đã chạy phần mềm [để xóa các tệp bộ nhớ đệm].</li>
       
-          <li className="list-none">Hình thái: [to clear cache files] - [PARTicle BARE VERB PHRASE][HẠT THUẦN ĐỘNG CỤM] định hình dưới dạng một vùng mã hành động đứng cuối chuỗi thông tin, bắt đầu bằng [Hạt Động Cơ][Particle Verb Base] nguyên bản có "to".</li>
+          <li className="list-none">Hình thái: [to clear cache files] - [PARTicle BARE VERB PHRASE][HẠT THUẦN ĐỘNG CỤM] định hình dưới dạng một vùng mã hành động đứng cuối chuỗi thông tin, bắt đầu bằng [PARTicle VERB BASE][HẠT ĐỘNG CƠ] nguyên bản có "to".</li>
       
           <li className="list-none">Chức năng: [to clear cache files] - [ADverb PHRASE][TRẠNG CỤM] đảm nhận vai trò làm một khối bối cảnh mục đích đứng sau để bổ nghĩa cho hành động "ran the software".</li>
       
@@ -310,7 +310,7 @@ export default function Clear(): React.JSX.Element {
           <li>[To clear the misunderstanding], she sent an email.</li>
           <li className="margin-bottom-20 list-none">[Để xóa bỏ sự hiểu lầm], cô ấy đã gửi một email.</li>
       
-          <li className="list-none">Hình thái: [To clear the misunderstanding] - [PARTicle BARE VERB PHRASE][HẠT THUẦN ĐỘNG CỤM] bắt đầu bằng [Hạt Động Cơ][Particle Verb Base] nguyên bản có "to", được đảo lên đứng biệt lập ở đầu câu và ngăn cách bằng dấu phẩy.</li>
+          <li className="list-none">Hình thái: [To clear the misunderstanding] - [PARTicle BARE VERB PHRASE][HẠT THUẦN ĐỘNG CỤM] bắt đầu bằng [PARTicle VERB BASE][HẠT ĐỘNG CƠ] nguyên bản có "to", được đảo lên đứng biệt lập ở đầu câu và ngăn cách bằng dấu phẩy.</li>
       
           <li className="list-none">Chức năng: [To clear the misunderstanding], - [ADverb PHRASE][TRẠNG CỤM] đảm nhận nhiệm vụ làm khối bối cảnh mục đích nhấn mạnh cho toàn bộ phần diện thông tin chính phía sau.</li>
       
@@ -517,7 +517,7 @@ export default function Clear(): React.JSX.Element {
           <li>[should you clear the pending tasks today], we will start the new plan.</li>
           <li className="margin-bottom-20 list-none">[Nếu bạn giải quyết xong các nhiệm vụ còn tồn đọng trong hôm nay], chúng tôi sẽ bắt đầu kế hoạch mới.</li>
       
-          <li className="list-none">Hình thái: [should you clear the pending tasks today] - [conJUNCtional CLAUSE][LIÊN CÂU] vận hành ở trạng thái ẩn [conJUNCtional BASE][LIÊN CƠ] điều kiện "if" bằng giải pháp đảo [Ý-Thái Thuần Động Cơ][Soft-Modal Bare Verb Base] "Should" lên trước, tuy thiết lập bề mặt biến đổi nhưng bản chất vẫn giữ trọn vẹn [NOUN SUBject][DANH CHỦ] "you" và [BARE VERB BASE][THUẦN ĐỘNG CƠ] "clear".</li>
+          <li className="list-none">Hình thái: [should you clear the pending tasks today] - [conJUNCtional CLAUSE][LIÊN CÂU] vận hành ở trạng thái ẩn [conJUNCtional BASE][LIÊN CƠ] điều kiện "if" bằng giải pháp đảo [SOFT-MOdal BARE VERB BASE][Ý-THÁI THUẦN ĐỘNG CƠ] "Should" lên trước, tuy thiết lập bề mặt biến đổi nhưng bản chất vẫn giữ trọn vẹn [NOUN SUBject][DANH CHỦ] "you" và [BARE VERB BASE][THUẦN ĐỘNG CƠ] "clear".</li>
       
           <li className="list-none">Chức năng: [should you clear the pending tasks today] - [ADverb CLAUSE][TRẠNG CÂU] đảm nhận nhiệm vụ thiết lập khối bối cảnh giả định/điều kiện để bổ nghĩa cho toàn bộ phần diện thông tin chính phía sau.</li>
       
@@ -751,7 +751,7 @@ export default function Clear(): React.JSX.Element {
           <li>i like a [clear] system layout.</li>
           <li className="margin-bottom-20 list-none">Tôi thích một bố cục hệ thống [rõ ràng].</li>
       
-          <li className="list-none">Hình thái mới: [clear] - [Rễ Tính Cơ][Root Adjective Base] hình thành từ khối [Rễ Tính Cơ][Root Adjective Base] nguyên bản, ở trạng thái mộc hoàn toàn, không ăn diện thêm phụ kiện, thu gọn dưới dạng khối đặc điểm đã được cô đọng hoàn toàn về dạng một thành phần Tính Cơ đơn duy nhất.</li>
+          <li className="list-none">Hình thái mới: [clear] - [ROOT ADjective BASE][RỄ TÍNH CƠ] hình thành từ khối [ROOT ADjective BASE][RỄ TÍNH CƠ] nguyên bản, ở trạng thái mộc hoàn toàn, không ăn diện thêm phụ kiện, thu gọn dưới dạng khối đặc điểm đã được cô đọng hoàn toàn về dạng một thành phần Tính Cơ đơn duy nhất.</li>
       
           <li className="list-none">Chức năng mới: [clear] - [ADjective BASE][TÍNH CƠ] thiết lập vị trí ngay trước đối tượng "system layout" để quét và hiển thị ngắn gọn đặc điểm của đối tượng đó.</li>
       

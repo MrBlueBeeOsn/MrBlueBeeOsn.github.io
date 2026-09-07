@@ -240,7 +240,7 @@ export default function SV2(): React.JSX.Element {
 					<li>He spoke [calmly].</li>
 					<li className="margin-bottom-20 list-none">Anh ấy nói [một cách bình tĩnh].</li>
 			
-					<li className="list-none">Hình thái: [calmly] - [MODified ADverb BASE][DIỆN TRẠNG CƠ] hình thành từ khối [Rễ Tính Cơ][Root Adjective Base] nguyên bản "calm" mặc thêm (kết hợp) hậu tố "-ly" để thay đổi diện mạo bên ngoài thành một khối cấp độ [BASE][CƠ].</li>
+					<li className="list-none">Hình thái: [calmly] - [MODified ADverb BASE][DIỆN TRẠNG CƠ] hình thành từ khối [ROOT ADjective BASE][RỄ TÍNH CƠ] nguyên bản "calm" mặc thêm (kết hợp) hậu tố "-ly" để thay đổi diện mạo bên ngoài thành một khối cấp độ [BASE][CƠ].</li>
 			
 					<li className="list-none">Chức năng: [calmly] – [ADverb BASE][TRẠNG CƠ] đứng cạnh hành động spoke, bổ sung ý nghĩa về cách thức thực hiện hành động.</li>
 			

@@ -22,7 +22,7 @@ export default function SingularPluralVerbsQuiz(): React.JSX.Element {
 	const questions: Question[] = [
 		{
 			id: 1,
-			question: "neither the MANager nor the emPLOYees _______ aWARE of the NEW POLicy CHANges.",
+			question: "neither the MANager nor the emPLOYees _______ aWARE of the NEW POLicy CHAnges.",
 			options: [
 				"is",
 				"are",

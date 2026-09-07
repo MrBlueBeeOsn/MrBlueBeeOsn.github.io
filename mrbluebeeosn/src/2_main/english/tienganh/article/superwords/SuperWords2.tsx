@@ -158,7 +158,7 @@ export default function SuperWords2(): React.JSX.Element {
 					<li>He runs [______].</li>
 					<li className="margin-bottom-20 list-none">Anh ấy chạy [nhanh].</li>
 			
-					<li className="list-none">Hình thái: [quickly] - [MODified ADverb BASE][DIỆN TRẠNG CƠ] hình thành từ khối [Rễ Tính Cơ][Root Adjective Base] nguyên bản "quick" mặc thêm hậu tố "-ly" để thay đổi diện mạo bên ngoài thành một khối cấp độ [BASE][CƠ].</li>
+					<li className="list-none">Hình thái: [quickly] - [MODified ADverb BASE][DIỆN TRẠNG CƠ] hình thành từ khối [ROOT ADjective BASE][RỄ TÍNH CƠ] nguyên bản "quick" mặc thêm hậu tố "-ly" để thay đổi diện mạo bên ngoài thành một khối cấp độ [BASE][CƠ].</li>
 			
 					<li className="list-none">Chức năng: [quickly] - [ADverb BASE][TRẠNG CƠ] bổ sung cách thức cho runs.</li>
 			
@@ -172,7 +172,7 @@ export default function SuperWords2(): React.JSX.Element {
 					<li>She speaks [______].</li>
 					<li className="margin-bottom-20 list-none">Cô ấy nói [nhẹ nhàng].</li>
 			
-					<li className="list-none">Hình thái: [softly] - [MODified ADverb BASE][DIỆN TRẠNG CƠ] hình thành từ khối [Rễ Tính Cơ][Root Adjective Base] nguyên bản "soft" mặc thêm hậu tố "-ly" để thay đổi diện mạo bên ngoài thành một khối cấp độ [BASE][CƠ].</li>
+					<li className="list-none">Hình thái: [softly] - [MODified ADverb BASE][DIỆN TRẠNG CƠ] hình thành từ khối [ROOT ADjective BASE][RỄ TÍNH CƠ] nguyên bản "soft" mặc thêm hậu tố "-ly" để thay đổi diện mạo bên ngoài thành một khối cấp độ [BASE][CƠ].</li>
 			
 					<li className="list-none">Chức năng: [softly] - [ADverb BASE][TRẠNG CƠ] bổ sung cách thức cho speaks.</li>
 			
