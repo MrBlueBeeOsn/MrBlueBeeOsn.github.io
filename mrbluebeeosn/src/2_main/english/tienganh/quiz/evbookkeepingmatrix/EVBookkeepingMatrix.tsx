@@ -38,7 +38,7 @@ export default function (): React.JSX.Element {
 				"[Adverb Base]"
 			],
 			correctAnswer: 0,
-			explanation: "Hình thái: [adJUSTing] - [Tiếp Động Cơ][Progressive Verb Base] bắt đầu từ [Động Cơ] nguyên bản dạng gốc thêm đuôi \"-ing\" đứng đơn lẻ. \n\n Chức năng: [adJUSTing] - [ADjective BASE][TÍNH CƠ] đi kèm ngay trước \"ENtries\" đứng ra bổ nghĩa cho thành phần này."
+			explanation: "Hình thái: [adJUSTing] - [proGRESSive VERB BASE][TIẾP ĐỘNG CƠ] bắt đầu từ [Động Cơ] nguyên bản dạng gốc thêm đuôi \"-ing\" đứng đơn lẻ. \n\n Chức năng: [adJUSTing] - [ADjective BASE][TÍNH CƠ] đi kèm ngay trước \"ENtries\" đứng ra bổ nghĩa cho thành phần này."
 		},
 		{
 			id: 3,
@@ -58,7 +58,7 @@ export default function (): React.JSX.Element {
 				"[Noun Clause]"
 			],
 			correctAnswer: 0,
-			explanation: "Hình thái: [to mainTAIN ACcurate fiNANcial REcords] - [Hạt Thuần Động Cụm][Particle Bare Verb Phrase] bắt đầu bằng hành động đi kèm \"to\" phía trước kết hợp thành phần bổ nghĩa, không chứa chủ thể thực hiện hành động. \n\n Chức năng: [to mainTAIN ACcurate fiNANcial REcords] - [NOUN PHRASE][DANH CỤM] cả này giữ vai trò làm thành phần đứng đầu chính đứng trước \"reQUIres\"."
+			explanation: "Hình thái: [to mainTAIN ACcurate fiNANcial REcords] - [PARTicle BARE VERB PHRASE][HẠT THUẦN ĐỘNG CỤM] bắt đầu bằng hành động đi kèm \"to\" phía trước kết hợp thành phần bổ nghĩa, không chứa chủ thể thực hiện hành động. \n\n Chức năng: [to mainTAIN ACcurate fiNANcial REcords] - [NOUN PHRASE][DANH CỤM] cả này giữ vai trò làm thành phần đứng đầu chính đứng trước \"reQUIres\"."
 		},
 		{
 			id: 5,
@@ -68,7 +68,7 @@ export default function (): React.JSX.Element {
 				"[Adjective Phrase]"
 			],
 			correctAnswer: 1,
-			explanation: "Hình thái: [conTAINing all the CREDit SALES] - [proGRESSive VERB PHRASE][TIẾP ĐỘNG CỤM] bắt đầu bằng hành động thêm đuôi \"-ing\" kết hợp thành phần bổ nghĩa, không có chủ thể riêng đứng trước. \n\n Chức năng: [conTAINing all the CREDit SALES] - [Tính Cụm][Adjective Phrase] đứng sau \"the LEDGer\" đứng ra bổ nghĩa cho thành phần này."
+			explanation: "Hình thái: [conTAINing all the CREDit SALES] - [proGRESSive VERB PHRASE][TIẾP ĐỘNG CỤM] bắt đầu bằng hành động thêm đuôi \"-ing\" kết hợp thành phần bổ nghĩa, không có chủ thể riêng đứng trước. \n\n Chức năng: [conTAINing all the CREDit SALES] - [ADjective PHRASE][TÍNH CỤM] đứng sau \"the LEDGer\" đứng ra bổ nghĩa cho thành phần này."
 		},
 		{
 			id: 6,
@@ -78,7 +78,7 @@ export default function (): React.JSX.Element {
 				"[Adverb Clause]"
 			],
 			correctAnswer: 0,
-			explanation: "Hình thái: [to AUtomate the BOOKkeeping PROcess] - [Hạt Thuần Động Cụm][Particle Bare Verb Phrase] bắt đầu bằng hành động có \"to\" đi kèm các thành phần bổ nghĩa. \n\n Chức năng: [to AUtomate the BOOKkeeping PROcess] - [ADverb PHRASE][TRẠNG CỤM] đứng sau hành động chính \"USE\" đứng ra bổ nghĩa cho hành động đó theo góc độ mục đích."
+			explanation: "Hình thái: [to AUtomate the BOOKkeeping PROcess] - [PARTicle BARE VERB PHRASE][HẠT THUẦN ĐỘNG CỤM] bắt đầu bằng hành động có \"to\" đi kèm các thành phần bổ nghĩa. \n\n Chức năng: [to AUtomate the BOOKkeeping PROcess] - [ADverb PHRASE][TRẠNG CỤM] đứng sau hành động chính \"USE\" đứng ra bổ nghĩa cho hành động đó theo góc độ mục đích."
 		},
 		{
 			id: 7,

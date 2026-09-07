@@ -28,7 +28,7 @@ export default function EVMatrixQuiz(): React.JSX.Element {
 				"[Adjective Phrase]"
 			],
 			correctAnswer: 1,
-			explanation: "Hình thái: [SITting by the WINdow] - [proGRESSive VERB PHRASE][TIẾP ĐỘNG CỤM] bắt đầu bằng đuôi -ing kèm các thành phần bổ khuyết để tạo thành một cụm hành vi chưa chia thời gian. \n\n Chức năng: [SITting by the WINdow] - [Tính Cụm][Adjective Phrase] đứng ngay sau để bổ nghĩa trực tiếp và định danh cho nhóm thành phần chỉ người \"the GIRL\"."
+			explanation: "Hình thái: [SITting by the WINdow] - [proGRESSive VERB PHRASE][TIẾP ĐỘNG CỤM] bắt đầu bằng đuôi -ing kèm các thành phần bổ khuyết để tạo thành một cụm hành vi chưa chia thời gian. \n\n Chức năng: [SITting by the WINdow] - [ADjective PHRASE][TÍNH CỤM] đứng ngay sau để bổ nghĩa trực tiếp và định danh cho nhóm thành phần chỉ người \"the GIRL\"."
 		},
 		{
 			id: 2,
@@ -38,7 +38,7 @@ export default function EVMatrixQuiz(): React.JSX.Element {
 				"[Adverb Phrase]"
 			],
 			correctAnswer: 0,
-			explanation: "Hình thái: [to LEARN a NEW LANGuage] - [Hạt Thuần Động Cụm][Particle Bare Verb Phrase] bắt đầu bằng dạng nguyên thể có \"to\" kèm các thành phần bổ khuyết để tạo thành một cụm hành vi chưa chia thời gian. \n\n Chức năng: [to LEARN a NEW LANGuage] - [NOUN PHRASE][DANH CỤM] đứng ở đầu câu để làm chủ thể cốt lõi thực hiện hành vi cho \"reQUIres\"."
+			explanation: "Hình thái: [to LEARN a NEW LANGuage] - [PARTicle BARE VERB PHRASE][HẠT THUẦN ĐỘNG CỤM] bắt đầu bằng dạng nguyên thể có \"to\" kèm các thành phần bổ khuyết để tạo thành một cụm hành vi chưa chia thời gian. \n\n Chức năng: [to LEARN a NEW LANGuage] - [NOUN PHRASE][DANH CỤM] đứng ở đầu câu để làm chủ thể cốt lõi thực hiện hành vi cho \"reQUIres\"."
 		},
 		{
 			id: 3,
@@ -48,7 +48,7 @@ export default function EVMatrixQuiz(): React.JSX.Element {
 				"[Adverb Phrase]"
 			],
 			correctAnswer: 1,
-			explanation: "Hình thái: [to LET in some FRESH AIR] - [Hạt Thuần Động Cụm][Particle Bare Verb Phrase] bắt đầu bằng dạng nguyên thể có \"to\" kèm các thành phần bổ khuyết để tạo thành một cụm hành vi chưa chia thời gian. \n\n Chức năng: [to LET in some FRESH AIR] - [ADverb PHRASE][TRẠNG CỤM] bổ sung thông tin chỉ định mục đích hướng tới cho hành vi chính \"Opens\"."
+			explanation: "Hình thái: [to LET in some FRESH AIR] - [PARTicle BARE VERB PHRASE][HẠT THUẦN ĐỘNG CỤM] bắt đầu bằng dạng nguyên thể có \"to\" kèm các thành phần bổ khuyết để tạo thành một cụm hành vi chưa chia thời gian. \n\n Chức năng: [to LET in some FRESH AIR] - [ADverb PHRASE][TRẠNG CỤM] bổ sung thông tin chỉ định mục đích hướng tới cho hành vi chính \"Opens\"."
 		},
 		{
 			id: 4,
@@ -88,7 +88,7 @@ export default function EVMatrixQuiz(): React.JSX.Element {
 				"[Adjective Phrase]"
 			],
 			correctAnswer: 0,
-			explanation: "Hình thái: [BROken] - [Hoàn Động Cơ][Perfect Verb Base] tồn tại ở hình thái biến đổi đuôi đặc biệt của thể hoàn thành đứng đơn lẻ, chưa phát triển thành cụm hay câu. \n\n Chức năng: [BROken] - [ADjective BASE][TÍNH CƠ] nằm trước để nêu đặc điểm thực tế cho thành phần chỉ vật \"VASE\"."
+			explanation: "Hình thái: [BROken] - [PERfect VERB BASE][HOÀN ĐỘNG CƠ] tồn tại ở hình thái biến đổi đuôi đặc biệt của thể hoàn thành đứng đơn lẻ, chưa phát triển thành cụm hay câu. \n\n Chức năng: [BROken] - [ADjective BASE][TÍNH CƠ] nằm trước để nêu đặc điểm thực tế cho thành phần chỉ vật \"VASE\"."
 		},
 		{
 			id: 8,
@@ -108,7 +108,7 @@ export default function EVMatrixQuiz(): React.JSX.Element {
 				"[Adverb Phrase]"
 			],
 			correctAnswer: 0,
-			explanation: "Hình thái: [to WIN] - [Hạt Thuần Động Cơ][Particle Bare Verb Base] xét riêng trong ngoặc là hình thái hạt nhân nguyên thể có \"to\" đứng đơn lẻ, không tính phần bổ khuyết phía sau. \n\n Chức năng: [to WIN] - [Trạng Cơ][Adverb Base] đưa vào cấu trúc nhằm nêu bật mục đích cốt lõi cho hành vi \"PRACticed HARD\"."
+			explanation: "Hình thái: [to WIN] - [PARTicle BARE VERB BASE][HẠT THUẦN ĐỘNG CƠ] xét riêng trong ngoặc là hình thái hạt nhân nguyên thể có \"to\" đứng đơn lẻ, không tính phần bổ khuyết phía sau. \n\n Chức năng: [to WIN] - [ADverb BASE][TRẠNG CƠ] đưa vào cấu trúc nhằm nêu bật mục đích cốt lõi cho hành vi \"PRACticed HARD\"."
 		},
 		{
 			id: 10,
@@ -118,7 +118,7 @@ export default function EVMatrixQuiz(): React.JSX.Element {
 				"[Noun Phrase]"
 			],
 			correctAnswer: 0,
-			explanation: "Hình thái: [SMOking] - [Tiếp Động Cơ][Progressive Verb Base] bắt đầu từ [Động Cơ] nguyên bản tồn tại ở hình thái đuôi -ing đứng hoàn toàn độc lập, chưa phát triển các thành phần bổ khuyết đi kèm. \n\n Chức năng: [SMOking] - [Danh Cơ][Noun Base] đóng vai trò chủ thể cốt lõi ở đầu câu để chịu sự tác động từ phần thông tin phía sau."
+			explanation: "Hình thái: [SMOking] - [proGRESSive VERB BASE][TIẾP ĐỘNG CƠ] bắt đầu từ [Động Cơ] nguyên bản tồn tại ở hình thái đuôi -ing đứng hoàn toàn độc lập, chưa phát triển các thành phần bổ khuyết đi kèm. \n\n Chức năng: [SMOking] - [NOUN BASE][DANH CƠ] đóng vai trò chủ thể cốt lõi ở đầu câu để chịu sự tác động từ phần thông tin phía sau."
 		}
 	];
 

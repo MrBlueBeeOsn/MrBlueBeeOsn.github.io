@@ -38,7 +38,7 @@ export default function (): React.JSX.Element {
 				"[Noun Phrase]"
 			],
 			correctAnswer: 1,
-			explanation: "Form: [to maintain accurate ledgers] - [Hạt Thuần Động Cụm][Particle Bare Verb Phrase] formed by an infinitive verb followed by its modifying financial adjective and noun object. \n\n Function: [to maintain accurate ledgers] - [NOUN PHRASE][DANH CỤM] acting as a subject complement to explain what the primary goal is after the linking verb."
+			explanation: "Form: [to maintain accurate ledgers] - [PARTicle BARE VERB PHRASE][HẠT THUẦN ĐỘNG CỤM] formed by an infinitive verb followed by its modifying financial adjective and noun object. \n\n Function: [to maintain accurate ledgers] - [NOUN PHRASE][DANH CỤM] acting as a subject complement to explain what the primary goal is after the linking verb."
 		},
 		{
 			id: 3,
@@ -48,7 +48,7 @@ export default function (): React.JSX.Element {
 				"[Adjective Phrase]"
 			],
 			correctAnswer: 0,
-			explanation: "Form: [audited] - [Hoàn Động Cơ][Perfect Verb Base] using a single past participle form of the verb to function as a modifier. \n\n Function: [audited] - [ADjective BASE][TÍNH CƠ] directly modifying the financial noun \"statements\" to clarify their verified status."
+			explanation: "Form: [audited] - [PERfect VERB BASE][HOÀN ĐỘNG CƠ] using a single past participle form of the verb to function as a modifier. \n\n Function: [audited] - [ADjective BASE][TÍNH CƠ] directly modifying the financial noun \"statements\" to clarify their verified status."
 		},
 		{
 			id: 4,
@@ -78,7 +78,7 @@ export default function (): React.JSX.Element {
 				"[Adverb Phrase]"
 			],
 			correctAnswer: 0,
-			explanation: "Form: [to analyze the quarterly tax implications] - [Hạt Thuần Động Cụm][Particle Bare Verb Phrase] built from an infinitive structure that carries its own complex corporate object. \n\n Function: [to analyze the quarterly tax implications] - [Tính Cụm][Adjective Phrase] modifying the accounting professional noun \"consultant\" by identifying their specific intended responsibility."
+			explanation: "Form: [to analyze the quarterly tax implications] - [PARTicle BARE VERB PHRASE][HẠT THUẦN ĐỘNG CỤM] built from an infinitive structure that carries its own complex corporate object. \n\n Function: [to analyze the quarterly tax implications] - [ADjective PHRASE][TÍNH CỤM] modifying the accounting professional noun \"consultant\" by identifying their specific intended responsibility."
 		},
 		{
 			id: 7,
@@ -98,7 +98,7 @@ export default function (): React.JSX.Element {
 				"[Noun Phrase]"
 			],
 			correctAnswer: 0,
-			explanation: "Form: [used for payroll processing] - [Hoàn Động Cụm][Perfect Verb Phrase] appearing as a post-modifying past participial phrase linked with a prepositional structure. \n\n Function: [used for payroll processing] - [Tính Cụm][Adjective Phrase] defining and restricting the meaning of the specific technical noun \"software\" being discussed."
+			explanation: "Form: [used for payroll processing] - [PERfect VERB PHRASE][HOÀN ĐỘNG CỤM] appearing as a post-modifying past participial phrase linked with a prepositional structure. \n\n Function: [used for payroll processing] - [ADjective PHRASE][TÍNH CỤM] defining and restricting the meaning of the specific technical noun \"software\" being discussed."
 		},
 		{
 			id: 9,
@@ -108,7 +108,7 @@ export default function (): React.JSX.Element {
 				"[Tiered Noun Phrase]"
 			],
 			correctAnswer: 1,
-			explanation: "Form: [know {what she recorded}] - [Thuần Động Cụm][Bare Verb Phrase] serving as the predicate of the matrix clause, which embeds a finite objective clause inside its boundaries. \n\n Function: [know {what she recorded}] - [Danh Cụm] Phân Tầng [Tiered Noun Phrase] where the outer verbal predicate level marked by [] encapsulates an inner objective noun clause marked by {} representing the bookkeeping data."
+			explanation: "Form: [know {what she recorded}] - [BARE VERB PHRASE][THUẦN ĐỘNG CỤM] serving as the predicate of the matrix clause, which embeds a finite objective clause inside its boundaries. \n\n Function: [know {what she recorded}] - [Danh Cụm] Phân Tầng [Tiered Noun Phrase] where the outer verbal predicate level marked by [] encapsulates an inner objective noun clause marked by {} representing the bookkeeping data."
 		},
 		{
 			id: 10,

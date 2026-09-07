@@ -78,7 +78,7 @@ export default function (): React.JSX.Element {
           <li value="4">[<strong>Ý-Thái Động Cơ</strong>][<strong>Soft-Modal Verb Base</strong>]: would, could, should, might</li>
           <li className="margin-bottom-20 list-none">Hành động chỉ [Thái] độ mang tính [Ý] nhị, có [Ý] tư, mong muốn là thật nhưng cách nói nhường nhịn và triệt tiêu tính ép. Các khối phức đặc biệt "ought to" và "had better" được quét như một [Phức Ý-Thái Động Cơ][Complex Soft-Modal Verb Base] thống nhất.</li>
 
-          <li value="5">[<strong>Áp-Thái Động Cơ</strong>][<strong>Assertive-Modal Verb Base</strong>]: will, shall, can, must, may</li>
+          <li value="5">[<strong>asSERTive-MOdal VERB BASE</strong>][<strong>ÁP-THÁI ĐỘNG CƠ</strong>]: will, shall, can, must, may</li>
           <li className="margin-bottom-20 list-none">Hành động chỉ [Thái] độ mang tính trực diện, [Áp] đặt thực tế xuống, không chừa lối thoát cho người nghe. Khối phức đặc biệt "have to" được quét như một [Phức Áp-Thái Động Cơ][Complex Assertive-Modal Verb Base] thống nhất.</li>
 
           <li value="6">[<strong>BARE VERB BASE</strong>][<strong>THUẦN ĐỘNG CƠ</strong>]: </li>
@@ -86,12 +86,12 @@ export default function (): React.JSX.Element {
 
           <li className="list-none">[Hạt Động Cơ][Particle Verb Base]: to</li>
           <li className="list-none">[Ý-Thái Động Cơ][Soft-Modal Verb Base]: would, could, should, might</li>
-          <li className="list-none">[Áp-Thái Động Cơ][Assertive-Modal Verb Base]: will, shall, can, must, may</li>
+          <li className="list-none">[asSERTive-MOdal VERB BASE][ÁP-THÁI ĐỘNG CƠ]: will, shall, can, must, may</li>
           <li className="list-none">Nhóm Động Cơ Sai Khiến / Cho Phép: make, LET, let's, have</li>
           <li className="list-none">Nhóm Động Cơ Hỗ Trợ / Tương Tác: help, get (khi ở dạng đặc biệt)</li>
           <li className="margin-bottom-20 list-none">Nhóm Động Cơ Tri Giác / Cảm Nhận: see, hear, watch, feel, notice, observe, smell</li>
       
-          <li value="7">[<strong>Hạt Thuần Động Cơ</strong>][<strong>Particle Bare Verb Base</strong>]: </li>
+          <li value="7">[<strong>PARTicle BARE VERB BASE</strong>][<strong>HẠT THUẦN ĐỘNG CƠ</strong>]: </li>
           <li className="margin-bottom-20 list-none">Sự tích hợp thẳng hàng giữa điểm tựa khởi động và cấu trúc hành động [Thuần] khiết đứng độc lập phía sau.</li>
 
           <li value="8">[<strong>Ý-Thái Thuần Động Cơ</strong>][<strong>Soft-Modal Bare Verb Base</strong>]: </li>
@@ -106,10 +106,10 @@ export default function (): React.JSX.Element {
           <li value="11">[<strong>TENSE-BARE VERB BASE</strong>][<strong>THỜI-THUẦN ĐỘNG CƠ</strong>]: </li>
           <li className="margin-bottom-20 list-none">Trạng thái [Thời] (Quá khứ/Hiện tại) và hành động [Thuần] khiết hòa tan, gộp chung hoàn toàn vào trong cùng một chữ đơn duy nhất.</li>
       
-          <li value="12">[<strong>Tiếp Động Cơ</strong>][<strong>Progressive Verb Base</strong>]: </li>
+          <li value="12">[<strong>proGRESSive VERB BASE</strong>][<strong>TIẾP ĐỘNG CƠ</strong>]: </li>
           <li className="margin-bottom-20 list-none">Hành động mang đuôi -ing thể hiện tính chất đang [Tiếp] diễn, kéo dài.</li>
 
-          <li value="13">[<strong>Hoàn Động Cơ</strong>][<strong>Perfect Verb Base</strong>]: </li>
+          <li value="13">[<strong>PERfect VERB BASE</strong>][<strong>HOÀN ĐỘNG CƠ</strong>]: </li>
           <li className="margin-bottom-20 list-none">Hành động ở dạng cột 3 hoặc thêm đuôi -ed thể hiện tính chất đã trọn vẹn, [Hoàn] thành.</li>
       
           <li value="14">[<strong>Thời Tiếp Động Cơ</strong>][<strong>Tense Progressive Verb Base</strong>]: </li>
@@ -118,7 +118,7 @@ export default function (): React.JSX.Element {
           <li value="15">[<strong>Thời Hoàn Động Cơ</strong>][<strong>Tense Perfect Verb Base</strong>]: </li>
           <li className="margin-bottom-20 list-none">Sự hợp nhất tuyến tính giữa hành động mang [Thời] gian và hành động mang tính chất đã trọn vẹn, [Hoàn] thành.</li>
       
-          <li value="16">[<strong>Thời Hoàn Tiếp Động Cơ</strong>][<strong>Tense Perfect Progressive Verb Base</strong>]: </li>
+          <li value="16">[<strong>TENSE PERfect proGRESSive VERB BASE</strong>][<strong>THỜI HOÀN TIẾP ĐỘNG CƠ</strong>]: </li>
           <li className="list-none">Sự hợp nhất tuyến tính giữa ba lớp năng lượng [Thời] gian, tính chất đã trọn vẹn, [Hoàn] thành và tính chất đang [Tiếp] diễn.</li>
       
         </ol>
@@ -140,7 +140,7 @@ export default function (): React.JSX.Element {
       
       <h4 className="margin-y-40">1. Phân hệ [Động Cơ][Verb Base]</h4>
           
-      <p className="margin-top-20 text-indent-whole"><strong>1.1</strong> <strong>Hình thành chức năng</strong> [<strong>Danh Cơ</strong>][<strong>Noun Base</strong>]</p>
+      <p className="margin-top-20 text-indent-whole"><strong>1.1</strong> <strong>Hình thành chức năng</strong> [<strong>NOUN BASE</strong>][<strong>DANH CƠ</strong>]</p>
 
       <p className="margin-top-20 text-indent-whole">Ví dụ 1: </p>
       
@@ -172,7 +172,7 @@ export default function (): React.JSX.Element {
         </ul>
       
       
-      <p className="margin-top-20 text-indent-whole"><strong>1.3</strong> <strong>Hình thành chức năng</strong> [<strong>Trạng Cơ</strong>][<strong>Adverb Base</strong>]</p>
+      <p className="margin-top-20 text-indent-whole"><strong>1.3</strong> <strong>Hình thành chức năng</strong> [<strong>ADverb BASE</strong>][<strong>TRẠNG CƠ</strong>]</p>
 
       <p className="margin-top-20 text-indent-whole">Ví dụ 3: </p>
       
@@ -225,7 +225,7 @@ export default function (): React.JSX.Element {
         </ul>
 
       
-      <p className="margin-top-20 text-indent-whole">[<strong>NOUN PHRASE</strong>][<strong>DANH CỤM</strong>] <strong>cấu tạo từ</strong> [<strong>Hạt Thuần Động Cụm</strong>][<strong>Particle Bare Verb Phrase</strong>] <strong>làm</strong> [<strong>NOUN SUBject</strong>][<strong>DANH CHỦ</strong>]</p>
+      <p className="margin-top-20 text-indent-whole">[<strong>NOUN PHRASE</strong>][<strong>DANH CỤM</strong>] <strong>cấu tạo từ</strong> [<strong>PARTicle BARE VERB PHRASE</strong>][<strong>HẠT THUẦN ĐỘNG CỤM</strong>] <strong>làm</strong> [<strong>NOUN SUBject</strong>][<strong>DANH CHỦ</strong>]</p>
 
       <p className="margin-top-20 text-indent-whole">Ví dụ 4c:</p>
       
@@ -241,7 +241,7 @@ export default function (): React.JSX.Element {
         </ul>
 
   
-      <p className="margin-top-20 text-indent-whole">[<strong>NOUN PHRASE</strong>][<strong>DANH CỤM</strong>] <strong>cấu tạo từ</strong> [<strong>Hạt Thuần Động Cụm</strong>][<strong>Particle Bare Verb Phrase</strong>] <strong>làm</strong> [<strong>NOUN OBject</strong>][<strong>DANH NHẬN</strong>]</p>
+      <p className="margin-top-20 text-indent-whole">[<strong>NOUN PHRASE</strong>][<strong>DANH CỤM</strong>] <strong>cấu tạo từ</strong> [<strong>PARTicle BARE VERB PHRASE</strong>][<strong>HẠT THUẦN ĐỘNG CỤM</strong>] <strong>làm</strong> [<strong>NOUN OBject</strong>][<strong>DANH NHẬN</strong>]</p>
 
       <p className="margin-top-20 text-indent-whole">Ví dụ 4d:</p>
       
@@ -257,7 +257,7 @@ export default function (): React.JSX.Element {
         </ul>
       
 
-      <p className="margin-top-20 text-indent-whole">[<strong>NOUN PHRASE</strong>][<strong>DANH CỤM</strong>] <strong>cấu tạo từ</strong> [<strong>Hạt Thuần Động Cụm</strong>][<strong>Particle Bare Verb Phrase</strong>] <strong>làm</strong> [<strong>NOUN SUBject</strong>][<strong>DANH CHỦ</strong>] <strong>bổ nghĩa</strong> [<strong>Giữ Chủ</strong>][<strong>Placeholder Subject</strong>]</p>
+      <p className="margin-top-20 text-indent-whole">[<strong>NOUN PHRASE</strong>][<strong>DANH CỤM</strong>] <strong>cấu tạo từ</strong> [<strong>PARTicle BARE VERB PHRASE</strong>][<strong>HẠT THUẦN ĐỘNG CỤM</strong>] <strong>làm</strong> [<strong>NOUN SUBject</strong>][<strong>DANH CHỦ</strong>] <strong>bổ nghĩa</strong> [<strong>PLACEholder SUBject</strong>][<strong>GIỮ CHỦ</strong>]</p>
 
       <p className="margin-top-20 text-indent-whole">Ví dụ 4e:</p>
       
@@ -273,10 +273,10 @@ export default function (): React.JSX.Element {
         </ul>
 
       
-      <p className="margin-top-20 text-indent-whole"><strong>2.2</strong> <strong>Hình thành chức năng</strong> [<strong>Tính Cụm</strong>][<strong>Adjective Phrase</strong>]</p>
+      <p className="margin-top-20 text-indent-whole"><strong>2.2</strong> <strong>Hình thành chức năng</strong> [<strong>ADjective PHRASE</strong>][<strong>TÍNH CỤM</strong>]</p>
 
       
-      <p className="margin-top-20 text-indent-whole">[<strong>Tính Cụm</strong>][<strong>Adjective Phrase</strong>] <strong>cấu tạo từ</strong> [<strong>proGRESSive VERB PHRASE</strong>][<strong>TIẾP ĐỘNG CỤM</strong>] <strong>đang diễn ra</strong>, <strong>chủ động</strong>:</p>
+      <p className="margin-top-20 text-indent-whole">[<strong>ADjective PHRASE</strong>][<strong>TÍNH CỤM</strong>] <strong>cấu tạo từ</strong> [<strong>proGRESSive VERB PHRASE</strong>][<strong>TIẾP ĐỘNG CỤM</strong>] <strong>đang diễn ra</strong>, <strong>chủ động</strong>:</p>
 
       <p className="margin-top-20 text-indent-whole">Ví dụ 5a:</p>
       
@@ -293,7 +293,7 @@ export default function (): React.JSX.Element {
       
     
 
-      <p className="margin-top-20 text-indent-whole">[<strong>Tính Cụm</strong>][<strong>Adjective Phrase</strong>] <strong>cấu tạo từ</strong> [<strong>Hạt Thuần Động Cụm</strong>][<strong>Particle Bare Verb Phrase</strong>] <strong>sắp xảy ra</strong>, <strong>chủ động</strong>:</p>
+      <p className="margin-top-20 text-indent-whole">[<strong>ADjective PHRASE</strong>][<strong>TÍNH CỤM</strong>] <strong>cấu tạo từ</strong> [<strong>PARTicle BARE VERB PHRASE</strong>][<strong>HẠT THUẦN ĐỘNG CỤM</strong>] <strong>sắp xảy ra</strong>, <strong>chủ động</strong>:</p>
 
       <p className="margin-top-20 text-indent-whole">Ví dụ 5b:</p>
       
@@ -309,7 +309,7 @@ export default function (): React.JSX.Element {
         </ul>
       
 
-      <p className="margin-top-20 text-indent-whole">[<strong>Tính Cụm</strong>][<strong>Adjective Phrase</strong>] <strong>cấu tạo từ</strong> [<strong>Hạt Thuần Hoàn Động Cụm</strong>][<strong>Particle Bare Perfect Verb Phrase</strong>] <strong>sắp xảy ra</strong>, <strong>bị động</strong>:</p>
+      <p className="margin-top-20 text-indent-whole">[<strong>ADjective PHRASE</strong>][<strong>TÍNH CỤM</strong>] <strong>cấu tạo từ</strong> [<strong>PARTicle BARE PERfect VERB PHRASE</strong>][<strong>HẠT THUẦN HOÀN ĐỘNG CỤM</strong>] <strong>sắp xảy ra</strong>, <strong>bị động</strong>:</p>
 
       <p className="margin-top-20 text-indent-whole">Ví dụ 5c:</p>
       
@@ -325,7 +325,7 @@ export default function (): React.JSX.Element {
         </ul>
       
       
-      <p className="margin-top-20 text-indent-whole">[<strong>Tính Cụm</strong>][<strong>Adjective Phrase</strong>] <strong>cấu tạo từ</strong> [<strong>Hoàn Động Cụm</strong>][<strong>Perfect Verb Phrase</strong>] <strong>đã xong</strong>, <strong>bị động</strong>:</p>
+      <p className="margin-top-20 text-indent-whole">[<strong>ADjective PHRASE</strong>][<strong>TÍNH CỤM</strong>] <strong>cấu tạo từ</strong> [<strong>PERfect VERB PHRASE</strong>][<strong>HOÀN ĐỘNG CỤM</strong>] <strong>đã xong</strong>, <strong>bị động</strong>:</p>
 
       <p className="margin-top-20 text-indent-whole">Ví dụ 5d:</p>
       
@@ -341,7 +341,7 @@ export default function (): React.JSX.Element {
         </ul>
       
       
-      <p className="margin-top-20 text-indent-whole">[<strong>Tính Cụm</strong>][<strong>Adjective Phrase</strong>] <strong>cấu tạo từ</strong> [<strong>Diện Tính Cụm</strong>][<strong>Modified Adjective Phrase</strong>]:</p>
+      <p className="margin-top-20 text-indent-whole">[<strong>ADjective PHRASE</strong>][<strong>TÍNH CỤM</strong>] <strong>cấu tạo từ</strong> [<strong>MODified ADjective PHRASE</strong>][<strong>DIỆN TÍNH CỤM</strong>]:</p>
 
       <p className="margin-top-20 text-indent-whole">Ví dụ 5e:</p>
       
@@ -392,7 +392,7 @@ export default function (): React.JSX.Element {
         </ul>
 
 
-      <p className="margin-top-20 text-indent-whole">[<strong>ADverb PHRASE</strong>][<strong>TRẠNG CỤM</strong>] <strong>cấu tạo từ</strong> [<strong>Hạt Thuần Động Cụm</strong>][<strong>Particle Bare Verb Phrase</strong>] <strong>có dấu phẩy</strong>:</p>
+      <p className="margin-top-20 text-indent-whole">[<strong>ADverb PHRASE</strong>][<strong>TRẠNG CỤM</strong>] <strong>cấu tạo từ</strong> [<strong>PARTicle BARE VERB PHRASE</strong>][<strong>HẠT THUẦN ĐỘNG CỤM</strong>] <strong>có dấu phẩy</strong>:</p>
 
       <p className="margin-top-20 text-indent-whole">Ví dụ 6c:</p>
       
@@ -408,7 +408,7 @@ export default function (): React.JSX.Element {
         </ul>
 
 
-      <p className="margin-top-20 text-indent-whole">[<strong>ADverb PHRASE</strong>][<strong>TRẠNG CỤM</strong>] <strong>cấu tạo từ</strong> [<strong>Hạt Thuần Động Cụm</strong>][<strong>Particle Bare Verb Phrase</strong>]:</p>
+      <p className="margin-top-20 text-indent-whole">[<strong>ADverb PHRASE</strong>][<strong>TRẠNG CỤM</strong>] <strong>cấu tạo từ</strong> [<strong>PARTicle BARE VERB PHRASE</strong>][<strong>HẠT THUẦN ĐỘNG CỤM</strong>]:</p>
 
       <p className="margin-top-20 text-indent-whole">Ví dụ 6d:</p>
       
@@ -427,7 +427,7 @@ export default function (): React.JSX.Element {
 
       <h4 className="margin-y-40">3. Phân hệ [prepoSITional PHRASE][GIỚI CỤM]</h4>
       
-      <p className="margin-top-20 text-indent-whole"><strong>3.1</strong> <strong>Hình thành chức năng</strong> [<strong>Tính Cụm</strong>][<strong>Adjective Phrase</strong>]</p>
+      <p className="margin-top-20 text-indent-whole"><strong>3.1</strong> <strong>Hình thành chức năng</strong> [<strong>ADjective PHRASE</strong>][<strong>TÍNH CỤM</strong>]</p>
 
       <p className="margin-top-20 text-indent-whole">Ví dụ 7:</p>
       
@@ -550,7 +550,7 @@ export default function (): React.JSX.Element {
 
 
 
-      <h5 className="margin-y-30 text-indent-whole">4.2 Phân hệ [Ẩn-Liên Câu][Zero-Conjunctional Clause]</h5>
+      <h5 className="margin-y-30 text-indent-whole">4.2 Phân hệ [ZEro-conJUNCtional CLAUSE][ẨN-LIÊN CÂU]</h5>
 
       <p className="margin-top-20 text-indent-whole"><strong>4.2.1</strong> <strong>Hình thành chức năng</strong> [<strong>NOUN CLAUSE</strong>][<strong>DANH CÂU</strong>]</p>
 
@@ -605,7 +605,7 @@ export default function (): React.JSX.Element {
 
       <p className="margin-top-20 text-indent-whole"><strong>5.1</strong> <strong>Hình thành chức năng</strong> [<strong>NOUN PHRASE</strong>][<strong>DANH CỤM</strong>]</p>
 
-      <p className="margin-top-20 text-indent-whole">[<strong>NOUN PHRASE</strong>][<strong>DANH CỤM</strong>] <strong>cấu tạo từ</strong> [<strong>Tầng Tiếp Động Cụm</strong>][<strong>Tiered Progressive Verb Phrase</strong>] <strong>làm</strong> [<strong>NOUN SUBject</strong>][<strong>DANH CHỦ</strong>]</p>
+      <p className="margin-top-20 text-indent-whole">[<strong>NOUN PHRASE</strong>][<strong>DANH CỤM</strong>] <strong>cấu tạo từ</strong> [<strong>TIERed proGRESSive VERB PHRASE</strong>][<strong>TẦNG TIẾP ĐỘNG CỤM</strong>] <strong>làm</strong> [<strong>NOUN SUBject</strong>][<strong>DANH CHỦ</strong>]</p>
       
       <p className="margin-top-20 text-indent-whole">Ví dụ 12a:</p>
       
@@ -637,7 +637,7 @@ export default function (): React.JSX.Element {
         </ul>
 
       
-      <p className="margin-top-20 text-indent-whole">[<strong>NOUN PHRASE</strong>][<strong>DANH CỤM</strong>] <strong>cấu tạo từ</strong> [<strong>Tầng Tiếp Động Cụm</strong>][<strong>Tiered Progressive Verb Phrase</strong>] <strong>làm</strong> [<strong>NOUN OBject</strong>][<strong>DANH NHẬN</strong>]</p>
+      <p className="margin-top-20 text-indent-whole">[<strong>NOUN PHRASE</strong>][<strong>DANH CỤM</strong>] <strong>cấu tạo từ</strong> [<strong>TIERed proGRESSive VERB PHRASE</strong>][<strong>TẦNG TIẾP ĐỘNG CỤM</strong>] <strong>làm</strong> [<strong>NOUN OBject</strong>][<strong>DANH NHẬN</strong>]</p>
       
       <p className="margin-top-20 text-indent-whole">Ví dụ 12b:</p>
       
@@ -669,7 +669,7 @@ export default function (): React.JSX.Element {
         </ul>
 
       
-      <p className="margin-top-20 text-indent-whole">[<strong>NOUN PHRASE</strong>][<strong>DANH CỤM</strong>] <strong>cấu tạo từ</strong> [<strong>Tầng Hạt Thuần Động Cụm</strong>][<strong>Tiered Particle Bare Verb Phrase</strong>] <strong>làm</strong> [<strong>NOUN SUBject</strong>][<strong>DANH CHỦ</strong>]</p>
+      <p className="margin-top-20 text-indent-whole">[<strong>NOUN PHRASE</strong>][<strong>DANH CỤM</strong>] <strong>cấu tạo từ</strong> [<strong>TIERed PARTicle BARE VERB PHRASE</strong>][<strong>TẦNG HẠT THUẦN ĐỘNG CỤM</strong>] <strong>làm</strong> [<strong>NOUN SUBject</strong>][<strong>DANH CHỦ</strong>]</p>
       
       <p className="margin-top-20 text-indent-whole">Ví dụ 12c:</p>
       
@@ -701,7 +701,7 @@ export default function (): React.JSX.Element {
         </ul>
 
       
-      <p className="margin-top-20 text-indent-whole">[<strong>NOUN PHRASE</strong>][<strong>DANH CỤM</strong>] <strong>cấu tạo từ</strong> [<strong>Tầng Hạt Thuần Động Cụm</strong>][<strong>Tiered Particle Bare Verb Phrase</strong>] <strong>làm</strong> [<strong>NOUN OBject</strong>][<strong>DANH NHẬN</strong>]</p>
+      <p className="margin-top-20 text-indent-whole">[<strong>NOUN PHRASE</strong>][<strong>DANH CỤM</strong>] <strong>cấu tạo từ</strong> [<strong>TIERed PARTicle BARE VERB PHRASE</strong>][<strong>TẦNG HẠT THUẦN ĐỘNG CỤM</strong>] <strong>làm</strong> [<strong>NOUN OBject</strong>][<strong>DANH NHẬN</strong>]</p>
       
       <p className="margin-top-20 text-indent-whole">Ví dụ 12d:</p>
       
@@ -733,7 +733,7 @@ export default function (): React.JSX.Element {
         </ul>
 
       
-      <p className="margin-top-20 text-indent-whole">[<strong>NOUN PHRASE</strong>][<strong>DANH CỤM</strong>] <strong>cấu tạo từ</strong> [<strong>Tầng Hạt Thuần Động Cụm</strong>][<strong>Tiered Particle Bare Verb Phrase</strong>] <strong>làm</strong> [<strong>NOUN SUBject</strong>][<strong>DANH CHỦ</strong>] <strong>bổ nghĩa</strong> [<strong>Giữ Chủ</strong>][<strong>Placeholder Subject</strong>]</p>
+      <p className="margin-top-20 text-indent-whole">[<strong>NOUN PHRASE</strong>][<strong>DANH CỤM</strong>] <strong>cấu tạo từ</strong> [<strong>TIERed PARTicle BARE VERB PHRASE</strong>][<strong>TẦNG HẠT THUẦN ĐỘNG CỤM</strong>] <strong>làm</strong> [<strong>NOUN SUBject</strong>][<strong>DANH CHỦ</strong>] <strong>bổ nghĩa</strong> [<strong>PLACEholder SUBject</strong>][<strong>GIỮ CHỦ</strong>]</p>
       
       <p className="margin-top-20 text-indent-whole">Ví dụ 12e:</p>
       
@@ -766,7 +766,7 @@ export default function (): React.JSX.Element {
       
       
 
-      <p className="margin-top-20 text-indent-whole"><strong>5.2</strong> <strong>Hình thành chức năng</strong> [<strong>Tính Cụm</strong>][<strong>Adjective Phrase</strong>]</p>
+      <p className="margin-top-20 text-indent-whole"><strong>5.2</strong> <strong>Hình thành chức năng</strong> [<strong>ADjective PHRASE</strong>][<strong>TÍNH CỤM</strong>]</p>
 
       <p className="margin-top-20 text-indent-whole">Ví dụ 13:</p>
       

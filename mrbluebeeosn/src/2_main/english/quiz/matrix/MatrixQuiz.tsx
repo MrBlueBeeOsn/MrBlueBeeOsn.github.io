@@ -28,7 +28,7 @@ export default function MatrixQuiz(): React.JSX.Element {
 				"[Adjective Phrase]"
 			],
 			correctAnswer: 0,
-			explanation: "Form: [To learn everyday] - [Hạt Thuần Động Cụm][Particle Bare Verb Phrase] formed by combining the infinitive marker \"to\", the bare verb base \"learn\", and the adverbial modifier \"everyday\". \n\n Function: [To learn everyday] - [NOUN PHRASE][DANH CỤM] occupies the subject position directly preceding the main predicate \"expands\", acting as the nominal head of the sentence."
+			explanation: "Form: [To learn everyday] - [PARTicle BARE VERB PHRASE][HẠT THUẦN ĐỘNG CỤM] formed by combining the infinitive marker \"to\", the bare verb base \"learn\", and the adverbial modifier \"everyday\". \n\n Function: [To learn everyday] - [NOUN PHRASE][DANH CỤM] occupies the subject position directly preceding the main predicate \"expands\", acting as the nominal head of the sentence."
 		},
 		{
 			id: 2,
@@ -38,7 +38,7 @@ export default function MatrixQuiz(): React.JSX.Element {
 				"[Adverb Base]"
 			],
 			correctAnswer: 0,
-			explanation: "Form: [fallen] - [Hoàn Động Cơ][Perfect Verb Base] formed by the bare past participle form of the verb \"fall\" without any auxiliary attachments. \n\n Function: [fallen] - [ADjective BASE][TÍNH CƠ] modifies and directly describes the head noun \"leaves\"."
+			explanation: "Form: [fallen] - [PERfect VERB BASE][HOÀN ĐỘNG CƠ] formed by the bare past participle form of the verb \"fall\" without any auxiliary attachments. \n\n Function: [fallen] - [ADjective BASE][TÍNH CƠ] modifies and directly describes the head noun \"leaves\"."
 		},
 		{
 			id: 3,
@@ -48,7 +48,7 @@ export default function MatrixQuiz(): React.JSX.Element {
 				"[Adverb Base]"
 			],
 			correctAnswer: 1,
-			explanation: "Form: [open] - [BARE VERB BASE][THUẦN ĐỘNG CƠ] originating from a bare verb base. \n\n Function: [open] - [Trạng Cơ][Adverb Base] acts as a resultative complement modifying the verb \"flew\" to show the final state achieved by the action."
+			explanation: "Form: [open] - [BARE VERB BASE][THUẦN ĐỘNG CƠ] originating from a bare verb base. \n\n Function: [open] - [ADverb BASE][TRẠNG CƠ] acts as a resultative complement modifying the verb \"flew\" to show the final state achieved by the action."
 		},
 		{
 			id: 4,
@@ -68,7 +68,7 @@ export default function MatrixQuiz(): React.JSX.Element {
 				"[Adjective Phrase]"
 			],
 			correctAnswer: 1,
-			explanation: "Form: [written by the famous professor] - [Hoàn Động Cụm][Perfect Verb Phrase] formed by the past participle \"written\" and its agentive prepositional phrase \"by the famous professor\". \n\n Function: [written by the famous professor] - [Tính Cụm][Adjective Phrase] post-modifies and restricts the meaning of the head noun \"book\"."
+			explanation: "Form: [written by the famous professor] - [PERfect VERB PHRASE][HOÀN ĐỘNG CỤM] formed by the past participle \"written\" and its agentive prepositional phrase \"by the famous professor\". \n\n Function: [written by the famous professor] - [ADjective PHRASE][TÍNH CỤM] post-modifies and restricts the meaning of the head noun \"book\"."
 		},
 		{
 			id: 6,
@@ -78,7 +78,7 @@ export default function MatrixQuiz(): React.JSX.Element {
 				"[Adverb Phrase]"
 			],
 			correctAnswer: 1,
-			explanation: "Form: [to finish his graduation thesis] - [Hạt Thuần Động Cụm][Particle Bare Verb Phrase] formed by the infinitive marker \"to\", the verb base \"finish\", and its direct object \"his graduation thesis\". \n\n Function: [to finish his graduation thesis] - [ADverb PHRASE][TRẠNG CỤM] modifies the matrix predicate \"stayed up\" by declaring the purpose behind the action."
+			explanation: "Form: [to finish his graduation thesis] - [PARTicle BARE VERB PHRASE][HẠT THUẦN ĐỘNG CỤM] formed by the infinitive marker \"to\", the verb base \"finish\", and its direct object \"his graduation thesis\". \n\n Function: [to finish his graduation thesis] - [ADverb PHRASE][TRẠNG CỤM] modifies the matrix predicate \"stayed up\" by declaring the purpose behind the action."
 		},
 		{
 			id: 7,

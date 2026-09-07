@@ -174,13 +174,13 @@ export default function TieredStructure1(): React.JSX.Element {
           <li value="4">[<strong>Ý-Thái Động Cơ</strong>][<strong>Soft-Modal Verb Base</strong>]: would, could, should, might</li>
           <li className="margin-bottom-20 list-none">Cấu trúc biểu thị [Thái] độ uyển chuyển, nhường nhịn và triệt tiêu tính ép buộc. Các khối phức đặc biệt "ought to" và "had BETter" được quét như một thực thể [Phức Ý-Thái Động Cơ][Complex Soft-Modal Verb Base] thống nhất.</li>
 
-          <li value="5">[<strong>Áp-Thái Động Cơ</strong>][<strong>Assertive-Modal Verb Base</strong>]: will, shall, can, must, may</li>
+          <li value="5">[<strong>asSERTive-MOdal VERB BASE</strong>][<strong>ÁP-THÁI ĐỘNG CƠ</strong>]: will, shall, can, must, may</li>
           <li className="margin-bottom-20 list-none">Cấu trúc biểu thị [Thái] độ trực diện, [Áp] đặt thực tế và có độ cam kết, ràng buộc cao. Khối phức đặc biệt "have to" được quét như một thực thể [Phức Áp-Thái Động Cơ][Complex Assertive-Modal Verb Base] thống nhất.</li>
 
           <li value="6">[<strong>BARE VERB BASE</strong>][<strong>THUẦN ĐỘNG CƠ</strong>]: BUILD, deSIGN, exPLORE</li>
-          <li className="margin-bottom-20 list-none">Hành động ở dạng [Thuần] khiết, nguyên bản đã được giải phóng hoàn toàn khỏi hạt "to", thường đứng ngay sau [Hạt Động Cơ][Particle Verb Base] "to", [Ý-Thái][Soft-Modal] hay [Áp-Thái Động Cơ][Assertive-Modal Verb Base] hoặc các [ROOT VERB BASE][RỄ ĐỘNG CƠ] tác động / tri giác như MAKE, LET, let's, HELP, HAVE, GET, SEE, HEAR, WATCH, FEEL, NOTICE, obSERVE, SMELL, ...</li>
+          <li className="margin-bottom-20 list-none">Hành động ở dạng [Thuần] khiết, nguyên bản đã được giải phóng hoàn toàn khỏi hạt "to", thường đứng ngay sau [Hạt Động Cơ][Particle Verb Base] "to", [Ý-Thái][Soft-Modal] hay [asSERTive-MOdal VERB BASE][ÁP-THÁI ĐỘNG CƠ] hoặc các [ROOT VERB BASE][RỄ ĐỘNG CƠ] tác động / tri giác như MAKE, LET, let's, HELP, HAVE, GET, SEE, HEAR, WATCH, FEEL, NOTICE, obSERVE, SMELL, ...</li>
       
-          <li value="7">[<strong>Hạt Thuần Động Cơ</strong>][<strong>Particle Bare Verb Base</strong>]: to BUILD, to exPLORE</li>
+          <li value="7">[<strong>PARTicle BARE VERB BASE</strong>][<strong>HẠT THUẦN ĐỘNG CƠ</strong>]: to BUILD, to exPLORE</li>
           <li className="margin-bottom-20 list-none">Sự liên kết tuyến tính chặt chẽ giữa hạt nhân định hướng [Hạt Động Cơ] và hành động [Thuần] khiết phía sau.</li>
 
           <li value="8">[<strong>Ý-Thái Thuần Động Cơ</strong>][<strong>Soft-Modal Bare Verb Base</strong>]: would exPLORE, could deSIGN</li>
@@ -195,10 +195,10 @@ export default function TieredStructure1(): React.JSX.Element {
           <li value="11">[<strong>TENSE-BARE VERB BASE</strong>][<strong>THỜI-THUẦN ĐỘNG CƠ</strong>]: BUILT, BUILDS, deSIGNS</li>
           <li className="margin-bottom-20 list-none">Trạng thái tích hợp tối giản khi năng lượng [Thời] gian và hành động [Thuần] khiết hòa tan làm một chữ duy nhất.</li>
       
-          <li value="12">[<strong>Tiếp Động Cơ</strong>][<strong>Progressive Verb Base</strong>]: BUILDing, deSIGNing, exPLORing</li>
+          <li value="12">[<strong>proGRESSive VERB BASE</strong>][<strong>TIẾP ĐỘNG CƠ</strong>]: BUILDing, deSIGNing, exPLORing</li>
           <li className="margin-bottom-20 list-none">Hình thái hành động mang đuôi -ing biểu thị trạng thái [Tiếp] diễn, vận hành liên tục.</li>
 
-          <li value="13">[<strong>Hoàn Động Cơ</strong>][<strong>Perfect Verb Base</strong>]: BUILT, deSIGNED, been, exPLORED</li>
+          <li value="13">[<strong>PERfect VERB BASE</strong>][<strong>HOÀN ĐỘNG CƠ</strong>]: BUILT, deSIGNED, been, exPLORED</li>
           <li className="margin-bottom-20 list-none">Hình thái hành động ở dạng hoàn thành (cột 3 hoặc thêm đuôi -ed) biểu thị tính chất trọn vẹn, [Hoàn] thành.</li>
       
           <li value="14">[<strong>Thời Tiếp Động Cơ</strong>][<strong>Tense Progressive Verb Base</strong>]: is BUILDing, was deSIGNing</li>
@@ -207,7 +207,7 @@ export default function TieredStructure1(): React.JSX.Element {
           <li value="15">[<strong>Thời Hoàn Động Cơ</strong>][<strong>Tense Perfect Verb Base</strong>]: has BUILT, had deSIGNED</li>
           <li className="margin-bottom-20 list-none">Sự kết hợp tuyến tính mang lại trạng thái đã [Hoàn] tất tính đến một mốc [Thời] gian cụ thể.</li>
       
-          <li value="16">[<strong>Thời Hoàn Tiếp Động Cơ</strong>][<strong>Tense Perfect Progressive Verb Base</strong>]: has been BUILDing, had been deSIGNing</li>
+          <li value="16">[<strong>TENSE PERfect proGRESSive VERB BASE</strong>][<strong>THỜI HOÀN TIẾP ĐỘNG CƠ</strong>]: has been BUILDing, had been deSIGNing</li>
           <li className="list-none">Cấu trúc tích hợp sâu sắc nhất, giao thoa cả ba lớp năng lượng: mốc [Thời] gian, tính [Hoàn] thành và tính [Tiếp] diễn.</li>
       
         </ol>
@@ -217,7 +217,7 @@ export default function TieredStructure1(): React.JSX.Element {
 
 			<p className="text-indent-whole"><strong>QUY TẮC CỐT LÕI</strong>:</p>
 
-			<p className="text-indent-whole">Khi bất kỳ thành phần nào thuộc 16 họ [BASE][CƠ] trên kéo theo các thành phần phụ thuộc phía sau như [NOUN OBject][DANH NHẬN] (khối nhận diện đối tượng), [Trạng Cơ][Adverb Base], [ADverb PHRASE][TRẠNG CỤM], hoặc [ADverb CLAUSE][TRẠNG CÂU], toàn bộ khối liên kết đó lập tức chuyển đổi cấu trúc và nâng cấp nhãn thành dạng [PHRASE][CỤM] tương ứng của chính nó.</p>
+			<p className="text-indent-whole">Khi bất kỳ thành phần nào thuộc 16 họ [BASE][CƠ] trên kéo theo các thành phần phụ thuộc phía sau như [NOUN OBject][DANH NHẬN] (khối nhận diện đối tượng), [ADverb BASE][TRẠNG CƠ], [ADverb PHRASE][TRẠNG CỤM], hoặc [ADverb CLAUSE][TRẠNG CÂU], toàn bộ khối liên kết đó lập tức chuyển đổi cấu trúc và nâng cấp nhãn thành dạng [PHRASE][CỤM] tương ứng của chính nó.</p>
 
 			<p className="margin-top-20"></p>
 			
@@ -251,9 +251,9 @@ export default function TieredStructure1(): React.JSX.Element {
 					<li>[exPLORing] BROADens our hoRIzons.</li>
 					<li className="margin-bottom-20 list-none">[Việc khám phá] mở rộng tầm nhìn của chúng ta.</li>
 
-					<li className="list-none">Hình thái: [exPLORing] - [Tiếp Động Cơ][Progressive Verb Base] hình thành từ khối [ROOT VERB BASE][RỄ ĐỘNG CƠ] nguyên bản "exPLORE" mặc thêm hậu tố "-ing" để thay đổi diện mạo bên ngoài thành một khối cấp độ [BASE][CƠ] thể hiện một hành động đơn lẻ.</li>
+					<li className="list-none">Hình thái: [exPLORing] - [proGRESSive VERB BASE][TIẾP ĐỘNG CƠ] hình thành từ khối [ROOT VERB BASE][RỄ ĐỘNG CƠ] nguyên bản "exPLORE" mặc thêm hậu tố "-ing" để thay đổi diện mạo bên ngoài thành một khối cấp độ [BASE][CƠ] thể hiện một hành động đơn lẻ.</li>
 
-					<li className="list-none">Chức năng: [exPLORing] - [Danh Cơ][Noun Base] đảm nhận nhiệm vụ làm khối [NOUN SUBject][DANH CHỦ] ở đầu câu để định danh cho một hoạt động.</li>
+					<li className="list-none">Chức năng: [exPLORing] - [NOUN BASE][DANH CƠ] đảm nhận nhiệm vụ làm khối [NOUN SUBject][DANH CHỦ] ở đầu câu để định danh cho một hoạt động.</li>
 			
 				</ul>
 
@@ -265,9 +265,9 @@ export default function TieredStructure1(): React.JSX.Element {
 					<li>they deLAY [LAUNCHing].</li>
 					<li className="margin-bottom-20 list-none">Họ hoãn [việc khởi chạy].</li>
 
-					<li className="list-none">Hình thái: [LAUNCHing] — [Tiếp Động Cơ][Progressive Verb Base] giữ hình thái hành động dạng "-ing" ở cấp độ [BASE][CƠ] đơn lẻ đứng phía sau một hành động [TENSE-BARE VERB BASE][THỜI-THUẦN ĐỘNG CƠ] "deLAY".</li>
+					<li className="list-none">Hình thái: [LAUNCHing] — [proGRESSive VERB BASE][TIẾP ĐỘNG CƠ] giữ hình thái hành động dạng "-ing" ở cấp độ [BASE][CƠ] đơn lẻ đứng phía sau một hành động [TENSE-BARE VERB BASE][THỜI-THUẦN ĐỘNG CƠ] "deLAY".</li>
 
-					<li className="list-none">Chức năng: [LAUNCHing] — [Danh Cơ][Noun Base] đóng vai trò làm khối [NOUN OBject][DANH NHẬN] tiếp nhận trực tiếp sự tác động từ hành động "deLAY".</li>
+					<li className="list-none">Chức năng: [LAUNCHing] — [NOUN BASE][DANH CƠ] đóng vai trò làm khối [NOUN OBject][DANH NHẬN] tiếp nhận trực tiếp sự tác động từ hành động "deLAY".</li>
 			
 				</ul>
 			
@@ -280,7 +280,7 @@ export default function TieredStructure1(): React.JSX.Element {
 					<li>we inSPECTed the [deSIGNED] BLUEprint.</li>
 					<li className="margin-bottom-20 list-none">Chúng tôi đã kiểm tra bản thiết kế [được phác thảo].</li>
 
-					<li className="list-none">Hình thái: [deSIGNED] - [Hoàn Động Cơ][Perfect Verb Base] hình thành từ khối [ROOT VERB BASE][RỄ ĐỘNG CƠ] nguyên bản "deSIGN" mặc thêm hậu tố "-ed" để thay đổi diện mạo bên ngoài thành một khối cấp độ [BASE][CƠ] biểu hiện dưới dạng hạt nhân hành động mang trạng thái bị động.</li>
+					<li className="list-none">Hình thái: [deSIGNED] - [PERfect VERB BASE][HOÀN ĐỘNG CƠ] hình thành từ khối [ROOT VERB BASE][RỄ ĐỘNG CƠ] nguyên bản "deSIGN" mặc thêm hậu tố "-ed" để thay đổi diện mạo bên ngoài thành một khối cấp độ [BASE][CƠ] biểu hiện dưới dạng hạt nhân hành động mang trạng thái bị động.</li>
 					
 					<li className="list-none">Chức năng: [deSIGNED] - [ADjective BASE][TÍNH CƠ] kích hoạt cơ chế của bộ quét đặt ngay trước đối tượng "BLUEprint" để hiển thị đặc điểm vật lý của đối tượng đó.</li>
 			
@@ -288,16 +288,16 @@ export default function TieredStructure1(): React.JSX.Element {
 			
 			
 
-			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 3</strong>: <strong>Hình thành chức năng</strong> [<strong>Trạng Cơ</strong>][<strong>Adverb Base</strong>]</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 3</strong>: <strong>Hình thành chức năng</strong> [<strong>ADverb BASE</strong>][<strong>TRẠNG CƠ</strong>]</p>
 			
 				<ul className="list-square">
 			
 					<li>she exPLAINED the LAYout [exPRESsively].</li>
 					<li className="margin-bottom-20 list-none">Cô ấy đã giải thích sơ đồ bố trí [một cách đầy biểu cảm].</li>
 
-					<li className="list-none">Hình thái: [exPRESsively] - [Diện Trạng Cơ][Modified Adverb Base] hình thành từ khối [ROOT VERB BASE][RỄ ĐỘNG CƠ] nguyên bản "exPRESS" mặc thêm (kết hợp) hậu tố "-ive" và "-ly" để thay đổi diện mạo bên ngoài thành một khối cấp độ [BASE][CƠ] mang tính chất bổ trợ trạng thái.</li>
+					<li className="list-none">Hình thái: [exPRESsively] - [MODified ADverb BASE][DIỆN TRẠNG CƠ] hình thành từ khối [ROOT VERB BASE][RỄ ĐỘNG CƠ] nguyên bản "exPRESS" mặc thêm (kết hợp) hậu tố "-ive" và "-ly" để thay đổi diện mạo bên ngoài thành một khối cấp độ [BASE][CƠ] mang tính chất bổ trợ trạng thái.</li>
 
-					<li className="list-none">Chức năng: [exPRESsively] - [Trạng Cơ][Adverb Base] thực thi vai trò bổ nghĩa đứng ngay sau hành động "exPLAINED" để xác định bối cảnh phương thức, cách thức sự việc diễn ra.</li>
+					<li className="list-none">Chức năng: [exPRESsively] - [ADverb BASE][TRẠNG CƠ] thực thi vai trò bổ nghĩa đứng ngay sau hành động "exPLAINED" để xác định bối cảnh phương thức, cách thức sự việc diễn ra.</li>
 			
 				</ul>
 			
@@ -315,9 +315,9 @@ export default function TieredStructure1(): React.JSX.Element {
 					<li>it reQUIRES creaTIVity [to deSIGN the INterface].</li>
 					<li className="margin-bottom-20 list-none">Nó đòi hỏi sự sáng tạo [để thiết kế giao diện].</li>
 
-					<li className="list-none">Hình thái: [to deSIGN the INterface] - [Hạt Thuần Động Cụm][Particle Bare Verb Phrase] bắt đầu bằng [Hạt Thuần Động Cơ][Particle Bare Verb Base] "to deSIGN" kéo dài cho đến hết đối tượng của nó.</li>
+					<li className="list-none">Hình thái: [to deSIGN the INterface] - [PARTicle BARE VERB PHRASE][HẠT THUẦN ĐỘNG CỤM] bắt đầu bằng [PARTicle BARE VERB BASE][HẠT THUẦN ĐỘNG CƠ] "to deSIGN" kéo dài cho đến hết đối tượng của nó.</li>
 
-					<li className="list-none">Chức năng: [to deSIGN the INterface] - [NOUN PHRASE][DANH CỤM] đóng vai trò làm [NOUN SUBject][DANH CHỦ] đứng sau [TENSE-BARE VERB PHRASE][THỜI-THUẦN ĐỘNG CỤM] "reQUIRES creaTIVity" để bổ nghĩa cho [Giữ Chủ][Placeholder Subject] "It".</li>
+					<li className="list-none">Chức năng: [to deSIGN the INterface] - [NOUN PHRASE][DANH CỤM] đóng vai trò làm [NOUN SUBject][DANH CHỦ] đứng sau [TENSE-BARE VERB PHRASE][THỜI-THUẦN ĐỘNG CỤM] "reQUIRES creaTIVity" để bổ nghĩa cho [PLACEholder SUBject][GIỮ CHỦ] "It".</li>
 			
 				</ul>
 			
@@ -329,23 +329,23 @@ export default function TieredStructure1(): React.JSX.Element {
 					<li>they supPORT [exPLORing the WILderness].</li>
 					<li className="margin-bottom-20 list-none">Họ ủng hộ [việc khám phá vùng hoang dã].</li>
 
-					<li className="list-none">Hình thái: [exPLORing the WILderness] — [proGRESSive VERB PHRASE][TIẾP ĐỘNG CỤM] bắt đầu bằng [Tiếp Động Cơ][Progressive Verb Base] (exPLORing) cùng với đối tượng của nó.</li>
+					<li className="list-none">Hình thái: [exPLORing the WILderness] — [proGRESSive VERB PHRASE][TIẾP ĐỘNG CỤM] bắt đầu bằng [proGRESSive VERB BASE][TIẾP ĐỘNG CƠ] (exPLORing) cùng với đối tượng của nó.</li>
 
 					<li className="list-none">Chức năng: [exPLORing the WILderness] — [NOUN PHRASE][DANH CỤM] đóng vai trò làm khối [NOUN OBject][DANH NHẬN] tiếp nhận dữ liệu đầu vào và chịu sự tác động trực tiếp từ hành động supPORT.</li>
 			
 				</ul>
 			
 
-			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 6</strong>: <strong>Hình thành chức năng</strong> [<strong>Tính Cụm</strong>][<strong>Adjective Phrase</strong>]</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 6</strong>: <strong>Hình thành chức năng</strong> [<strong>ADjective PHRASE</strong>][<strong>TÍNH CỤM</strong>]</p>
 			
 				<ul className="list-square">
 			
 					<li>the SOFTware [BUILT by them] WORKS FLAWlessly.</li>
 					<li className="margin-bottom-20 list-none">Phần mềm [được xây dựng bởi họ] hoạt động không một lỗi nhỏ.</li>
 			
-					<li className="list-none">Hình thái: [BUILT by them] - [Hoàn Động Cụm][Perfect Verb Phrase] hiển dung dưới dạng một vùng mã chứa [Hoàn Động Cơ][Perfect Verb Base] BUILT bị động và phần mở rộng chủ thể.</li>
+					<li className="list-none">Hình thái: [BUILT by them] - [PERfect VERB PHRASE][HOÀN ĐỘNG CỤM] hiển dung dưới dạng một vùng mã chứa [PERfect VERB BASE][HOÀN ĐỘNG CƠ] BUILT bị động và phần mở rộng chủ thể.</li>
 			
-					<li className="list-none">Chức năng: [BUILT by them] - [Tính Cụm][Adjective Phrase] kích hoạt cơ chế bộ quét đặt ngay sau đối tượng "SOFTware" để mô tả đặc điểm trạng thái của đối tượng đó.</li>
+					<li className="list-none">Chức năng: [BUILT by them] - [ADjective PHRASE][TÍNH CỤM] kích hoạt cơ chế bộ quét đặt ngay sau đối tượng "SOFTware" để mô tả đặc điểm trạng thái của đối tượng đó.</li>
 			
 				</ul>
 			
@@ -357,7 +357,7 @@ export default function TieredStructure1(): React.JSX.Element {
 					<li>she STUDied HARD [to BUILD this SYStem].</li>
 					<li className="margin-bottom-20 list-none">Cô ấy đã học tập chăm chỉ [để xây dựng hệ thống này].</li>
 			
-					<li className="list-none">Hình thái: [to BUILD this SYStem] - [Thuần Động Cụm][Bare Verb Phrase] định hình dưới dạng một vùng mã hành động mở rộng thuộc nhóm [Hạt Thuần Động Cơ][Particle Bare Verb Base] kéo theo đối tượng.</li>
+					<li className="list-none">Hình thái: [to BUILD this SYStem] - [BARE VERB PHRASE][THUẦN ĐỘNG CỤM] định hình dưới dạng một vùng mã hành động mở rộng thuộc nhóm [PARTicle BARE VERB BASE][HẠT THUẦN ĐỘNG CƠ] kéo theo đối tượng.</li>
 			
 					<li className="list-none">Chức năng: [to BUILD this SYStem] - [ADverb PHRASE][TRẠNG CỤM] đảm nhận vai trò làm một khối bối cảnh mục đích đứng sau bổ nghĩa cho hành động.</li>
 			
@@ -372,7 +372,7 @@ export default function TieredStructure1(): React.JSX.Element {
 			<p className="text-indent-whole">Khối hình thái này không tạo ra dữ liệu đầu việc ([Danh]) mà chỉ chuyên biệt hình thành nên các chương trình chức năng:</p>
 
 
-			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 7</strong>: <strong>Hình thành chức năng</strong> [<strong>Tính Cụm</strong>][<strong>Adjective Phrase</strong>]</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 7</strong>: <strong>Hình thành chức năng</strong> [<strong>ADjective PHRASE</strong>][<strong>TÍNH CỤM</strong>]</p>
 			
 				<ul className="list-square">
 			
@@ -381,7 +381,7 @@ export default function TieredStructure1(): React.JSX.Element {
 			
 					<li className="list-none">Hình thái: [in this TEAM] - [prepoSITional PHRASE][GIỚI CỤM] xuất hiện dưới dạng một vùng mã định vị không chứa hạt nhân hành động, bắt đầu bằng [prepoSITional BASE][GIỚI CƠ] in.</li>
 			
-					<li className="list-none">Chức năng: [in this TEAM] - [Tính Cụm][Adjective Phrase] vận hành như một bộ quét đặt ngay phía sau đối tượng "engiNEERS" để hiển thị và mô tả đặc điểm phạm vi thuộc về của đối tượng đó.</li>
+					<li className="list-none">Chức năng: [in this TEAM] - [ADjective PHRASE][TÍNH CỤM] vận hành như một bộ quét đặt ngay phía sau đối tượng "engiNEERS" để hiển thị và mô tả đặc điểm phạm vi thuộc về của đối tượng đó.</li>
 			
 				</ul>
 			
@@ -419,9 +419,9 @@ export default function TieredStructure1(): React.JSX.Element {
 			
 					<ul className="list-square">
 				
-						<li className="list-none">Hình thái: [to exPLAIN {'{how we deSIGN this PLATform}'}] - [Tầng Hạt Thuần Động Cụm][Tiered Particle Bare Verb Phrase] lớn biểu hiện dưới dạng một vùng mã mở rộng bắt đầu bằng [Hạt Thuần Động Cơ][Particle Bare Verb Base] "to exPLAIN" và kéo theo khối mệnh đề con bên trong.</li>
+						<li className="list-none">Hình thái: [to exPLAIN {'{how we deSIGN this PLATform}'}] - [TIERed PARTicle BARE VERB PHRASE][TẦNG HẠT THUẦN ĐỘNG CỤM] lớn biểu hiện dưới dạng một vùng mã mở rộng bắt đầu bằng [PARTicle BARE VERB BASE][HẠT THUẦN ĐỘNG CƠ] "to exPLAIN" và kéo theo khối mệnh đề con bên trong.</li>
 
-						<li className="list-none">Chức năng: [to exPLAIN {'{how we deSIGN this PLATform}'}] - [<strong>NOUN PHRASE</strong>][<strong>DANH CỤM</strong>] đóng vai trò chủ trì điều phối toàn bộ câu làm khối [NOUN SUBject][DANH CHỦ] đứng sau [TENSE-BARE VERB PHRASE][THỜI-THUẦN ĐỘNG CỤM] "is URgent" để bổ nghĩa cho [Giữ Chủ][Placeholder Subject] "It".</li>
+						<li className="list-none">Chức năng: [to exPLAIN {'{how we deSIGN this PLATform}'}] - [<strong>NOUN PHRASE</strong>][<strong>DANH CỤM</strong>] đóng vai trò chủ trì điều phối toàn bộ câu làm khối [NOUN SUBject][DANH CHỦ] đứng sau [TENSE-BARE VERB PHRASE][THỜI-THUẦN ĐỘNG CỤM] "is URgent" để bổ nghĩa cho [PLACEholder SUBject][GIỮ CHỦ] "It".</li>
 				
 					</ul>
 
@@ -450,7 +450,7 @@ export default function TieredStructure1(): React.JSX.Element {
 			
 					<ul className="list-square">
 				
-						<li className="list-none">Hình thái: [ANalyzing {'{why the SYStem FAILED}'}] - [Tầng Tiếp Động Cụm][Tiered Progressive Verb Phrase] mở rộng bắt đầu bằng [Tiếp Động Cơ][Progressive Verb Base] (ANalyzing) đứng ngay sau hành động chính.</li>
+						<li className="list-none">Hình thái: [ANalyzing {'{why the SYStem FAILED}'}] - [TIERed proGRESSive VERB PHRASE][TẦNG TIẾP ĐỘNG CỤM] mở rộng bắt đầu bằng [proGRESSive VERB BASE][TIẾP ĐỘNG CƠ] (ANalyzing) đứng ngay sau hành động chính.</li>
 
 						<li className="list-none">Chức năng: [ANalyzing {'{why the SYStem FAILED}'}] - [<strong>NOUN PHRASE</strong>][<strong>DANH CỤM</strong>] đóng vai trò làm cấu trúc tổng thể đóng chức năng tiếp nhận toàn bộ mục tiêu tác động của lệnh postPONE làm khối [NOUN OBject][DANH NHẬN].</li>
 				
@@ -463,13 +463,13 @@ export default function TieredStructure1(): React.JSX.Element {
 			
 					<li className="list-none">Hình thái: {'{why the SYStem FAILED}'} - [conJUNCtional CLAUSE][LIÊN CÂU] nằm gọn bên trong làm tham số bổ trợ, tích hợp sẵn [conJUNCtional BASE][LIÊN CƠ] why kết nối cùng chủ thể "the SYStem" và [TENSE-BARE VERB BASE][THỜI-THUẦN ĐỘNG CƠ] FAILED.</li>
 
-					<li className="list-none">Chức năng: {'{why the SYStem FAILED}'} - [NOUN CLAUSE][DANH CÂU] đóng vai trò cấp con chịu sự điều phối của [Tiếp Động Cơ][Progressive Verb Base] tầng ngoài làm khối [NOUN OBject][DANH NHẬN].</li>
+					<li className="list-none">Chức năng: {'{why the SYStem FAILED}'} - [NOUN CLAUSE][DANH CÂU] đóng vai trò cấp con chịu sự điều phối của [proGRESSive VERB BASE][TIẾP ĐỘNG CƠ] tầng ngoài làm khối [NOUN OBject][DANH NHẬN].</li>
 			
 				</ul>
 			
 
 
-			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 10</strong>: [<strong>Tính Cụm</strong>][<strong>Adjective Phrase</strong>]:</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 10</strong>: [<strong>ADjective PHRASE</strong>][<strong>TÍNH CỤM</strong>]:</p>
 			
 				<ul className="list-square">
 			
@@ -482,9 +482,9 @@ export default function TieredStructure1(): React.JSX.Element {
 			
 					<ul className="list-square">
 				
-						<li className="list-none">Hình thái: [about {'{how this TEAM deSIGNED the APP}'}] - [Tầng Giới Cụm][Tiered Prepositional Phrase] biểu thị dưới dạng một vùng mã lớn bắt đầu bằng [prepoSITional BASE][GIỚI CƠ] about.</li>
+						<li className="list-none">Hình thái: [about {'{how this TEAM deSIGNED the APP}'}] - [TIERed prepoSITional PHRASE][TẦNG GIỚI CỤM] biểu thị dưới dạng một vùng mã lớn bắt đầu bằng [prepoSITional BASE][GIỚI CƠ] about.</li>
 
-						<li className="list-none">Chức năng: [about {'{how this TEAM deSIGNED the APP}'}] - [<strong>Tính Cụm</strong>][<strong>Adjective Phrase</strong>] vận hành như một bộ quét đặt ngay phía sau để mô tả đặc điểm nội dung cho "the NEWS" đứng trước nó.</li>
+						<li className="list-none">Chức năng: [about {'{how this TEAM deSIGNED the APP}'}] - [<strong>ADjective PHRASE</strong>][<strong>TÍNH CỤM</strong>] vận hành như một bộ quét đặt ngay phía sau để mô tả đặc điểm nội dung cho "the NEWS" đứng trước nó.</li>
 				
 					</ul>
 
@@ -514,7 +514,7 @@ export default function TieredStructure1(): React.JSX.Element {
 			
 					<ul className="list-square">
 				
-						<li className="list-none">Hình thái: [at {'{where they BUILD the SOFTware}'}] - [Tầng Giới Cụm][Tiered Prepositional Phrase] biểu thị dưới dạng một vùng mã xác lập không gian lớn bắt đầu bằng [prepoSITional BASE][GIỚI CƠ] at.</li>
+						<li className="list-none">Hình thái: [at {'{where they BUILD the SOFTware}'}] - [TIERed prepoSITional PHRASE][TẦNG GIỚI CỤM] biểu thị dưới dạng một vùng mã xác lập không gian lớn bắt đầu bằng [prepoSITional BASE][GIỚI CƠ] at.</li>
 
 						<li className="list-none">Chức năng: [at {'{where they BUILD the SOFTware}'}] - [<strong>ADverb PHRASE</strong>][<strong>TRẠNG CỤM</strong>] đảm nhận vai trò làm một khối bối cảnh địa điểm tổng thể đứng sau bổ nghĩa cho hành động "arRIVED".</li>
 				
@@ -598,7 +598,7 @@ export default function TieredStructure1(): React.JSX.Element {
 
 			
 
-			<h5 className="margin-y-30 text-indent-whole">Phân hệ [Ẩn-Liên Câu][Zero-Conjunctional Clause] (Không Chứa Từ Kết Nối)</h5>
+			<h5 className="margin-y-30 text-indent-whole">Phân hệ [ZEro-conJUNCtional CLAUSE][ẨN-LIÊN CÂU] (Không Chứa Từ Kết Nối)</h5>
 			
 
 			<p className="text-indent-whole">Đây là trạng thái tối tân của ngôn ngữ khi thành phần liên kết bị triệt tiêu hoàn toàn. Khối mã xuất hiện dưới dạng một câu con độc lập về mặt hiển thị, nhưng thực thi trọn vẹn các chức năng hệ thống:</p>
@@ -610,7 +610,7 @@ export default function TieredStructure1(): React.JSX.Element {
 					<li>i beLIEVE [you BUILD GREAT THINGS].</li>
 					<li className="margin-bottom-20 list-none">Tôi tin [bạn xây dựng những điều tuyệt vời].</li>
 			
-					<li className="list-none">Hình thái: [you BUILD GREAT THINGS] - [Ẩn-Liên Câu][Zero-Conjunctional Clause] mang diện mạo của một dòng lệnh độc lập với chủ thể "you" và [TENSE-BARE VERB BASE][THỜI-THUẦN ĐỘNG CƠ] BUILD, hoàn toàn ẩn đi [conJUNCtional BASE][LIÊN CƠ] kết nối.</li>
+					<li className="list-none">Hình thái: [you BUILD GREAT THINGS] - [ZEro-conJUNCtional CLAUSE][ẨN-LIÊN CÂU] mang diện mạo của một dòng lệnh độc lập với chủ thể "you" và [TENSE-BARE VERB BASE][THỜI-THUẦN ĐỘNG CƠ] BUILD, hoàn toàn ẩn đi [conJUNCtional BASE][LIÊN CƠ] kết nối.</li>
 			
 					<li className="list-none">Chức năng: [you BUILD GREAT THINGS] - [NOUN CLAUSE][DANH CÂU] đóng vai trò làm khối [NOUN OBject][DANH NHẬN] nạp dữ liệu trực tiếp cho [ROOT VERB BASE][RỄ ĐỘNG CƠ] "beLIEVE".</li>
 			
@@ -624,7 +624,7 @@ export default function TieredStructure1(): React.JSX.Element {
 					<li>the PLAN [i deSIGNED YESterday] is LOST.</li>
 					<li className="margin-bottom-20 list-none">Bản kế hoạch [tôi thiết kế ngày hôm qua] thì bị mất.</li>
 			
-					<li className="list-none">Hình thái: [i deSIGNED YESterday] - [Ẩn-Liên Câu][Zero-Conjunctional Clause] chứa chủ thể "I" và [TENSE-BARE VERB BASE][THỜI-THUẦN ĐỘNG CƠ] deSIGNED, đứng lọt thỏm ngay sau một khối tên gọi mà không cần bất kỳ [conJUNCtional BASE][LIÊN CƠ] định vị nào dẫn đường.</li>
+					<li className="list-none">Hình thái: [i deSIGNED YESterday] - [ZEro-conJUNCtional CLAUSE][ẨN-LIÊN CÂU] chứa chủ thể "I" và [TENSE-BARE VERB BASE][THỜI-THUẦN ĐỘNG CƠ] deSIGNED, đứng lọt thỏm ngay sau một khối tên gọi mà không cần bất kỳ [conJUNCtional BASE][LIÊN CƠ] định vị nào dẫn đường.</li>
 			
 					<li className="list-none">Chức năng: [i deSIGNED YESterday] - [ADjective CLAUSE][TÍNH CÂU] vận hành như bộ lọc đặc điểm sở hữu để xác định mục tiêu chính xác cho đối tượng "PLAN" đứng trước.</li>
 			
@@ -638,7 +638,7 @@ export default function TieredStructure1(): React.JSX.Element {
 					<li>[had i deSIGNED the SOFTware], i would have TESTed it.</li>
 					<li className="margin-bottom-20 list-none">[Giá mà tôi thiết kế phần mềm], tôi đã kiểm tra nó rồi.</li>
 			
-					<li className="list-none">Hình thái: [had i deSIGNED the SOFTware] - [Ẩn-Liên Câu][Zero-Conjunctional Clause] sử dụng cấu trúc đảo chip [Thời Động Cơ][Tense Verb Base] had lên trước chủ thể "I", xóa bỏ hoàn toàn [conJUNCtional BASE][LIÊN CƠ] điều kiện và đồng hành cùng [Hoàn Động Cơ][Perfect Verb Base] deSIGNED.</li>
+					<li className="list-none">Hình thái: [had i deSIGNED the SOFTware] - [ZEro-conJUNCtional CLAUSE][ẨN-LIÊN CÂU] sử dụng cấu trúc đảo chip [Thời Động Cơ][Tense Verb Base] had lên trước chủ thể "I", xóa bỏ hoàn toàn [conJUNCtional BASE][LIÊN CƠ] điều kiện và đồng hành cùng [PERfect VERB BASE][HOÀN ĐỘNG CƠ] deSIGNED.</li>
 			
 					<li className="list-none">Chức năng: [had i deSIGNED the SOFTware] - [ADverb CLAUSE][TRẠNG CÂU] làm nhiệm vụ thiết lập bối cảnh giả định nền tảng cho toàn bộ hệ thống thực thi ở vế sau.</li>
 			
@@ -666,7 +666,7 @@ export default function TieredStructure1(): React.JSX.Element {
 					<li>[exPLORing OPtions] is CRUcial.</li>
 					<li className="margin-bottom-20 list-none">[Việc khám phá các lựa chọn] thì quan trọng.</li>
 			
-					<li className="list-none">Hình thái: [exPLORing OPtions] - [proGRESSive VERB PHRASE][TIẾP ĐỘNG CỤM] biểu hiện dưới dạng khối mã mở rộng chứa [Tiếp Động Cơ][Progressive Verb Base] exPLORing và đối tượng đi kèm.</li>
+					<li className="list-none">Hình thái: [exPLORing OPtions] - [proGRESSive VERB PHRASE][TIẾP ĐỘNG CỤM] biểu hiện dưới dạng khối mã mở rộng chứa [proGRESSive VERB BASE][TIẾP ĐỘNG CƠ] exPLORing và đối tượng đi kèm.</li>
 			
 					<li className="margin-bottom-20 list-none">Chức năng: [exPLORing OPtions] - [NOUN PHRASE][DANH CỤM] vận hành như một phân hệ nền tảng để quản lý một đầu việc (khối [NOUN SUBject][DANH CHỦ]).</li>
 			
@@ -678,7 +678,7 @@ export default function TieredStructure1(): React.JSX.Element {
 					<li>[eVALuating METrics] is CRUcial.</li>
 					<li className="margin-bottom-20 list-none">[Việc đánh giá các chỉ số] thì quan trọng.</li>
 			
-					<li className="list-none">Hình thái mới: [eVALuating METrics] - [proGRESSive VERB PHRASE][TIẾP ĐỘNG CỤM] xuất hiện dưới dạng khối mở rộng mới chứa [Tiếp Động Cơ][Progressive Verb Base] eVALuating được đưa vào thế chỗ.</li>
+					<li className="list-none">Hình thái mới: [eVALuating METrics] - [proGRESSive VERB PHRASE][TIẾP ĐỘNG CỤM] xuất hiện dưới dạng khối mở rộng mới chứa [proGRESSive VERB BASE][TIẾP ĐỘNG CƠ] eVALuating được đưa vào thế chỗ.</li>
 			
 					<li className="list-none">Chức năng mới: [eVALuating METrics] - [NOUN PHRASE][DANH CỤM] duy trì chính xác chức năng làm khối [NOUN SUBject][DANH CHỦ] của khối cũ.</li>
 			
@@ -693,7 +693,7 @@ export default function TieredStructure1(): React.JSX.Element {
 					<li>we deLAYED the LAUNCH [be<strong>cause</strong> of the HEAVy RAIN].</li>
 					<li className="margin-bottom-20 list-none">Chúng tôi đã hoãn buổi ra mắt [bởi vì trận mưa lớn].</li>
 			
-					<li className="list-none">Hình thái: [be<strong>cause</strong> of the HEAVy RAIN] - [COMplex prepoSITional PHRASE][PHỨC GIỚI CỤM] bắt đầu bằng [Phức Giới Cơ][Complex Prepositional Base] "be<strong>cause</strong> of" kết hợp với [Danh Khối][Noun Block] "the HEAVy RAIN" làm bổ ngữ.</li>
+					<li className="list-none">Hình thái: [be<strong>cause</strong> of the HEAVy RAIN] - [COMplex prepoSITional PHRASE][PHỨC GIỚI CỤM] bắt đầu bằng [Phức Giới Cơ][Complex Prepositional Base] "be<strong>cause</strong> of" kết hợp với [NOUN BLOCK][DANH KHỐI] "the HEAVy RAIN" làm bổ ngữ.</li>
 			
 					<li className="margin-bottom-20 list-none">Chức năng: [be<strong>cause</strong> of the HEAVy RAIN] - [ADverb PHRASE][TRẠNG CỤM] đảm nhận vai trò bối cảnh nguyên nhân ở cấp độ cụm, đóng vai trò làm [ADverb PHRASE][TRẠNG CỤM] bối cảnh nguyên nhân.</li>
 			
@@ -730,7 +730,7 @@ export default function TieredStructure1(): React.JSX.Element {
 					<li>i BOUGHT a [jaPAN-BUILT] deVICE.</li>
 					<li className="margin-bottom-20 list-none">Tôi đã mua một thiết bị [do Nhật chế tạo].</li>
 			
-					<li className="list-none">Hình thái mới: [jaPAN-BUILT] - [Hoàn Động Cơ][Perfect Verb Base] hình thành từ khối [ROOT VERB BASE][RỄ ĐỘNG CƠ] nguyên bản "BUILT" mặc thêm tiền tố "Japan-" để thay đổi diện mạo bên ngoài thành một khối cấp độ [BASE][CƠ] thuộc nhóm chức năng mô tả.</li>
+					<li className="list-none">Hình thái mới: [jaPAN-BUILT] - [PERfect VERB BASE][HOÀN ĐỘNG CƠ] hình thành từ khối [ROOT VERB BASE][RỄ ĐỘNG CƠ] nguyên bản "BUILT" mặc thêm tiền tố "Japan-" để thay đổi diện mạo bên ngoài thành một khối cấp độ [BASE][CƠ] thuộc nhóm chức năng mô tả.</li>
 			
 					<li className="list-none">Chức năng mới: [jaPAN-BUILT] - [ADjective BASE][TÍNH CƠ] thiết lập vị trí ngay trước đối tượng "deVICE" để quét và hiển thị ngắn gọn đặc điểm của đối tượng đó.</li>
 			
@@ -749,7 +749,7 @@ export default function TieredStructure1(): React.JSX.Element {
 			
 					<li className="list-none">Hình thái: [on the DESK] - [prepoSITional PHRASE][GIỚI CỤM] bắt đầu bằng từ định vị vị trí bề mặt [prepoSITional BASE][GIỚI CƠ] on.</li>
 			
-					<li className="margin-bottom-20 list-none">Chức năng: [on the DESK] - [Tính Cụm][Adjective Phrase] bổ nghĩa trực tiếp cho thành phần tên gọi "FILES" đứng trước.</li>
+					<li className="margin-bottom-20 list-none">Chức năng: [on the DESK] - [ADjective PHRASE][TÍNH CỤM] bổ nghĩa trực tiếp cho thành phần tên gọi "FILES" đứng trước.</li>
 			
 				</ul>
 			
@@ -761,7 +761,7 @@ export default function TieredStructure1(): React.JSX.Element {
 			
 					<li className="list-none">Hình thái mới: [inSIDE the CABinet] - [prepoSITional PHRASE][GIỚI CỤM] mới bắt đầu bằng [prepoSITional BASE][GIỚI CƠ] định vị không gian inSIDE được đưa vào thế chỗ.</li>
 			
-					<li className="list-none">Chức năng mới: [inSIDE the CABinet] - [Tính Cụm][Adjective Phrase] tiếp tục đảm nhận chính xác vai trò mô tả, quét đặc điểm bối cảnh cho đối tượng "FILES" của khối cũ mà không làm biến dạng sơ đồ câu.</li>
+					<li className="list-none">Chức năng mới: [inSIDE the CABinet] - [ADjective PHRASE][TÍNH CỤM] tiếp tục đảm nhận chính xác vai trò mô tả, quét đặc điểm bối cảnh cho đối tượng "FILES" của khối cũ mà không làm biến dạng sơ đồ câu.</li>
 			
 				</ul>
 			

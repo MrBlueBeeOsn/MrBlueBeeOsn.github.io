@@ -90,7 +90,7 @@ export default function SentenceVariety1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>al<strong>though</strong> the PROJect FAILED, we GAINED exPERience.</li>
+					<li>al<strong>though</strong> the PROJect FAILED, we GAINED exPErience.</li>
 					<li className="list-none">Mặc dù dự án thất bại, chúng ta đã gặt hái được những kinh nghiệm quý báu.</li>
 			
 				</ul>
@@ -102,7 +102,7 @@ export default function SentenceVariety1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>al<strong>though</strong> the PROJect FAILED, we GAINED exPERience, and we are READy for the NEXT ONE.</li>
+					<li>al<strong>though</strong> the PROJect FAILED, we GAINED exPErience, and we are READy for the NEXT ONE.</li>
 					<li className="list-none">Mặc dù dự án thất bại, chúng ta đã gặt hái được những kinh nghiệm quý báu và hiện đã chuẩn bị sẵn sàng cho thử thách kế tiếp.</li>
 			
 				</ul>
