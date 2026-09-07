@@ -142,7 +142,7 @@ export default function ThreeDC2(): React.ReactElement {
 					<li>We [ ______ ].</li>
 					<li className="margin-bottom-20 list-none">Chúng tôi [ nghe {'{ rằng cô ấy đã thắng }'} ].</li>
 			
-					<li className="list-none">Hình thái khối ngoài: [ heard {'{ ... }'} ] - [Tầng Động Cụm][Tiered Verb Phrase] gồm [Động Cơ] [heard] và một khối bên trong</li>
+					<li className="list-none">Hình thái khối ngoài: [ heard {'{ ... }'} ] - [TIERed NOUN PHRASE][TẦNG ĐỘNG CỤM] gồm [Động Cơ] [heard] và một khối bên trong</li>
 			
 					<li className="margin-bottom-20 list-none">Hình thái khối trong: {'{ that she had won }'} - [conJUNCtional CLAUSE][LIÊN CÂU] có cặp [she] và [had won]</li>
 

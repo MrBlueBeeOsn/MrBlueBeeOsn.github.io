@@ -24,8 +24,8 @@ export default function (): React.JSX.Element {
 			id: 1,
 			question: "[reCORDing every BUSIness transACtion] is the fundaMENtal TASK of a BOOKkeeper. \n [Ghi chép mọi giao dịch kinh doanh] là nhiệm vụ cơ bản của một người làm sổ sách.",
 			options: [
-				"[Noun Clause]",
-				"[Noun Phrase]"
+				"[NOUN CLAUSE]",
+				"[NOUN PHRASE]"
 			],
 			correctAnswer: 1,
 			explanation: "Hình thái: [reCORDing every BUSIness transACtion] - [proGRESSive VERB PHRASE][TIẾP ĐỘNG CỤM] bắt đầu bằng hành động thêm đuôi \"-ing\" đi kèm các thành phần bổ nghĩa, không có chủ thể thực hiện hành động đứng trước và không biến đổi theo thời gian. \n\n Chức năng: [reCORDing every BUSInesstransACtion] - [NOUN PHRASE][DANH CỤM] cả này giữ vai trò làm thành phần đứng đầu chính đứng trước \"is\"."
@@ -34,8 +34,8 @@ export default function (): React.JSX.Element {
 			id: 2,
 			question: "the BOOKkeeper proVIded the [adJUSTing] ENtries for the MONTH-end rePORTS. \n Người làm sổ sách đã cung cấp các bút toán [điều chỉnh] cho các báo cáo cuối tháng.",
 			options: [
-				"[Adjective Base]",
-				"[Adverb Base]"
+				"[ADjective BASE]",
+				"[ADverb BASE]"
 			],
 			correctAnswer: 0,
 			explanation: "Hình thái: [adJUSTing] - [proGRESSive VERB BASE][TIẾP ĐỘNG CƠ] bắt đầu từ [Động Cơ] nguyên bản dạng gốc thêm đuôi \"-ing\" đứng đơn lẻ. \n\n Chức năng: [adJUSTing] - [ADjective BASE][TÍNH CƠ] đi kèm ngay trước \"ENtries\" đứng ra bổ nghĩa cho thành phần này."
@@ -54,8 +54,8 @@ export default function (): React.JSX.Element {
 			id: 4,
 			question: "[to mainTAIN ACcurate fiNANcial REcords] reQUIres CONstant atTENtion to DEtail. \n [Để duy trì các hồ sơ tài chính chính xác] đòi hỏi sự chú ý liên tục đến từng chi tiết.",
 			options: [
-				"[Noun Phrase]",
-				"[Noun Clause]"
+				"[NOUN PHRASE]",
+				"[NOUN CLAUSE]"
 			],
 			correctAnswer: 0,
 			explanation: "Hình thái: [to mainTAIN ACcurate fiNANcial REcords] - [PARTicle BARE VERB PHRASE][HẠT THUẦN ĐỘNG CỤM] bắt đầu bằng hành động đi kèm \"to\" phía trước kết hợp thành phần bổ nghĩa, không chứa chủ thể thực hiện hành động. \n\n Chức năng: [to mainTAIN ACcurate fiNANcial REcords] - [NOUN PHRASE][DANH CỤM] cả này giữ vai trò làm thành phần đứng đầu chính đứng trước \"reQUIres\"."
@@ -64,8 +64,8 @@ export default function (): React.JSX.Element {
 			id: 5,
 			question: "the LEDGer [conTAINing all the CREDit SALES] is KEPT in the SAFE. \n Cuốn sổ cái [chứa tất cả các khoản bán hàng ghi nợ] được cất giữ trong két sắt.",
 			options: [
-				"[Adjective Clause]",
-				"[Adjective Phrase]"
+				"[ADjective CLAUSE]",
+				"[ADjective PHRASE]"
 			],
 			correctAnswer: 1,
 			explanation: "Hình thái: [conTAINing all the CREDit SALES] - [proGRESSive VERB PHRASE][TIẾP ĐỘNG CỤM] bắt đầu bằng hành động thêm đuôi \"-ing\" kết hợp thành phần bổ nghĩa, không có chủ thể riêng đứng trước. \n\n Chức năng: [conTAINing all the CREDit SALES] - [ADjective PHRASE][TÍNH CỤM] đứng sau \"the LEDGer\" đứng ra bổ nghĩa cho thành phần này."
@@ -84,18 +84,18 @@ export default function (): React.JSX.Element {
 			id: 7,
 			question: "[FInalizing {WHAT the AUditors reQUESTed} on TIME] PLEASED the MANager. \n [Hoàn tất {những gì các kiểm toán viên yêu cầu} đúng hạn] đã làm hài lòng người quản lý.",
 			options: [
-				"[Noun Clause]",
-				"[Tiered Noun Phrase]"
+				"[NOUN CLAUSE]",
+				"[TIERed NOUN PHRASE]"
 			],
 			correctAnswer: 1,
-			explanation: "Hình thái: [FInalizing {WHAT the AUditors reQUESTed} on TIME] - [proGRESSive VERB PHRASE][TIẾP ĐỘNG CỤM] lồng ghép phân tầng. {WHAT the AUditors reQUESTed} - [conJUNCtional CLAUSE][LIÊN CÂU] bắt đầu bằng \"what\", có chứa chủ thể \"the AUditors\" và hành động \"reQUESTed\" xác định theo thời quá khứ. \n\n Chức năng: [FInalizing {WHAT the AUditors reQUESTed} on TIME] - [Danh Cụm] Phân Tầng [Tiered Noun Phrase] tầng 1 bên ngoài dùng [] giữ vai trò thành phần đứng đầu chính. {WHAT the AUditors reQUESTed} - [NOUN CLAUSE][DANH CÂU] giữ vai trò làm thành phần chịu tác động trực tiếp cho hành động \"FInalizing\" ở phía trước."
+			explanation: "Hình thái: [FInalizing {WHAT the AUditors reQUESTed} on TIME] - [proGRESSive VERB PHRASE][TIẾP ĐỘNG CỤM] lồng ghép phân tầng. {WHAT the AUditors reQUESTed} - [conJUNCtional CLAUSE][LIÊN CÂU] bắt đầu bằng \"what\", có chứa chủ thể \"the AUditors\" và hành động \"reQUESTed\" xác định theo thời quá khứ. \n\n Chức năng: [FInalizing {WHAT the AUditors reQUESTed} on TIME] - [TIERed NOUN PHRASE][TẦNG DANH CỤM] tầng 1 bên ngoài dùng [] giữ vai trò thành phần đứng đầu chính. {WHAT the AUditors reQUESTed} - [NOUN CLAUSE][DANH CÂU] giữ vai trò làm thành phần chịu tác động trực tiếp cho hành động \"FInalizing\" ở phía trước."
 		},
 		{
 			id: 8,
 			question: "the MANager REalized [that the BOOKkeeper MADE a SERious ERror]. \n Người quản lý đã nhận ra [rằng người làm sổ sách đã mắc một sai lầm nghiêm trọng].",
 			options: [
-				"[Noun Clause]",
-				"[Noun Phrase]"
+				"[NOUN CLAUSE]",
+				"[NOUN PHRASE]"
 			],
 			correctAnswer: 0,
 			explanation: "Hình thái: [that the BOOKkeeper MADE a SERious ERror] - [conJUNCtional CLAUSE][LIÊN CÂU] bắt đầu bằng \"that\", có chứa chủ thể \"the BOOKkeeper\" và hành động \"made\" xác định theo thời quá khứ. \n\n Chức năng: [that the BOOKkeeper MADE a SERious ERror] - [NOUN CLAUSE][DANH CÂU] đứng sau hành động \"REalized\" giữ vai trò tiếp nhận tác động từ hành động này."
@@ -104,8 +104,8 @@ export default function (): React.JSX.Element {
 			id: 9,
 			question: "the acCOUNTant [who AUdits our BOOKS every YEAR] is VERy THORough. \n Người kế toán, [người mà kiểm toán sổ sách của chúng tôi hàng năm], rất kỹ lưỡng.",
 			options: [
-				"[Adjective Phrase]",
-				"[Adjective Clause]"
+				"[ADjective PHRASE]",
+				"[ADjective CLAUSE]"
 			],
 			correctAnswer: 1,
 			explanation: "Hình thái: [who AUdits our BOOKS every YEAR] - [conJUNCtional CLAUSE][LIÊN CÂU] bắt đầu bằng thành phần liên kết \"who\", có chứa hành động \"AUdits\" xác định theo thời hiện tại. \n\n Chức năng: [who AUdits our BOOKS every YEAR] - [ADjective CLAUSE][TÍNH CÂU] đứng sau \"the acCOUNTant\" đứng ra bổ nghĩa cho thành phần này."

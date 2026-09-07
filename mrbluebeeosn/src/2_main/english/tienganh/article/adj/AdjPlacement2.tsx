@@ -287,7 +287,7 @@ export default function AdjPlacement2(): React.JSX.Element {
 			
 					<li className="list-none">Hình thái tầng trong: {'{where she hides the key}'} – [conJUNCtional CLAUSE][LIÊN CÂU] → chức năng [NOUN CLAUSE][DANH CÂU].</li>
 			
-					<li className="list-none">Hình thái tầng ngoài: [knows {'{…}'}] – [Tầng Thời-Thuần Động Cụm][Tiered Tense-Bare Verb Phrase] → chức năng [Danh Cụm] phân tầng [Tiered Noun Phrase] đóng vai trò [Danh Nhận] (thành phần tiếp nhận hành động của He).</li>
+					<li className="list-none">Hình thái tầng ngoài: [knows {'{…}'}] – [Tầng Thời-Thuần Động Cụm][Tiered Tense-Bare Verb Phrase] → chức năng [Danh Cụm] phân tầng [TIERed NOUN PHRASE] đóng vai trò [Danh Nhận] (thành phần tiếp nhận hành động của He).</li>
 			
 				</ul>
 			

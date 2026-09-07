@@ -24,8 +24,8 @@ export default function EVMatrixQuiz(): React.JSX.Element {
 			id: 1,
 			question: "the GIRL [SITting by the WINdow] is my COUSin. \n Cô gái [đang ngồi cạnh cửa sổ] là em họ của tôi.",
 			options: [
-				"[Noun Phrase]",
-				"[Adjective Phrase]"
+				"[NOUN PHRASE]",
+				"[ADjective PHRASE]"
 			],
 			correctAnswer: 1,
 			explanation: "Hình thái: [SITting by the WINdow] - [proGRESSive VERB PHRASE][TIẾP ĐỘNG CỤM] bắt đầu bằng đuôi -ing kèm các thành phần bổ khuyết để tạo thành một cụm hành vi chưa chia thời gian. \n\n Chức năng: [SITting by the WINdow] - [ADjective PHRASE][TÍNH CỤM] đứng ngay sau để bổ nghĩa trực tiếp và định danh cho nhóm thành phần chỉ người \"the GIRL\"."
@@ -34,7 +34,7 @@ export default function EVMatrixQuiz(): React.JSX.Element {
 			id: 2,
 			question: "[to LEARN a NEW LANGuage] reQUIres a LOT of PAtience. \n [Việc học một ngôn ngữ mới] đòi hỏi rất nhiều sự kiên nhẫn.",
 			options: [
-				"[Noun Phrase]",
+				"[NOUN PHRASE]",
 				"[Adverb Phrase]"
 			],
 			correctAnswer: 0,
@@ -44,7 +44,7 @@ export default function EVMatrixQuiz(): React.JSX.Element {
 			id: 3,
 			question: "she ALways Opens the WINdow [to LET in some FRESH AIR]. \n Cô ấy luôn mở cửa sổ [để không khí trong lành bay vào].",
 			options: [
-				"[Adjective Phrase]",
+				"[ADjective PHRASE]",
 				"[Adverb Phrase]"
 			],
 			correctAnswer: 1,
@@ -54,8 +54,8 @@ export default function EVMatrixQuiz(): React.JSX.Element {
 			id: 4,
 			question: "the BOOK [that you LENT me YESterday] is FAScinating. \n Cuốn sách [mà bạn cho tôi mượn ngày hôm qua] thật thú vị.",
 			options: [
-				"[Noun Clause]",
-				"[Adjective Clause]"
+				"[NOUN CLAUSE]",
+				"[ADjective CLAUSE]"
 			],
 			correctAnswer: 1,
 			explanation: "Hình thái: [that you LENT me YESterday] - [conJUNCtional CLAUSE][LIÊN CÂU] bắt đầu bằng một thành phần kết nối đi kèm đầy đủ một chủ thể (you) và hành vi đã chia thời gian (LENT). \n\n Chức năng: [that you LENT me YESterday] - [ADjective CLAUSE][TÍNH CÂU] đứng sau để bổ nghĩa và hạn định đặc điểm cho nhóm thành phần chỉ vật \"the BOOK\"."
@@ -64,17 +64,17 @@ export default function EVMatrixQuiz(): React.JSX.Element {
 			id: 5,
 			question: "i DON'T [KNOW {WHAT we should DO NEXT}]. \n Tôi không [biết {điều chúng ta nên làm tiếp theo}].",
 			options: [
-				"[Noun Phrase]",
-				"[Tiered Noun Phrase]"
+				"[NOUN PHRASE]",
+				"[TIERed NOUN PHRASE]"
 			],
 			correctAnswer: 1,
-			explanation: "Hình thái: [KNOW {WHAT we should DO NEXT}] - [Tầng Thuần Động Cụm][Bare Tiered Verb Phrase] chứa hành vi hạt nhân \"KNOW\" đi kèm thành phần bổ khuyết là một [conJUNCtional CLAUSE][LIÊN CÂU] có cấu trúc chủ-hành vi hoàn chỉnh ở tầng trong {}. \n\n Chức năng: [KNOW {WHAT we should DO NEXT}] - [Danh Cụm] Phân Tầng [Tiered Noun Phrase] đóng vai trò cụm tiếp nhận lớn bên ngoài, chứa một danh câu làm thành phần tiếp nhận trực tiếp cho \"KNOW\" ở bên trong."
+			explanation: "Hình thái: [KNOW {WHAT we should DO NEXT}] - [Tầng Thuần Động Cụm][Bare Tiered Verb Phrase] chứa hành vi hạt nhân \"KNOW\" đi kèm thành phần bổ khuyết là một [conJUNCtional CLAUSE][LIÊN CÂU] có cấu trúc chủ-hành vi hoàn chỉnh ở tầng trong {}. \n\n Chức năng: [KNOW {WHAT we should DO NEXT}] - [TIERed NOUN PHRASE][TẦNG DANH CỤM] đóng vai trò cụm tiếp nhận lớn bên ngoài, chứa một danh câu làm thành phần tiếp nhận trực tiếp cho \"KNOW\" ở bên trong."
 		},
 		{
 			id: 6,
 			question: "they will LEAVE [as soon as the RAIN STOPS]. \n Họ sẽ rời đi [ngay khi cơn mưa tạnh].",
 			options: [
-				"[Adjective Clause]",
+				"[ADjective CLAUSE]",
 				"[Adverb Clause]"
 			],
 			correctAnswer: 1,
@@ -84,8 +84,8 @@ export default function EVMatrixQuiz(): React.JSX.Element {
 			id: 7,
 			question: "the [BROken] VASE could NOT be rePAIRed. \n Chiếc bình [bị vỡ] đã không thể sửa chữa được.",
 			options: [
-				"[Adjective Base]",
-				"[Adjective Phrase]"
+				"[ADjective BASE]",
+				"[ADjective PHRASE]"
 			],
 			correctAnswer: 0,
 			explanation: "Hình thái: [BROken] - [PERfect VERB BASE][HOÀN ĐỘNG CƠ] tồn tại ở hình thái biến đổi đuôi đặc biệt của thể hoàn thành đứng đơn lẻ, chưa phát triển thành cụm hay câu. \n\n Chức năng: [BROken] - [ADjective BASE][TÍNH CƠ] nằm trước để nêu đặc điểm thực tế cho thành phần chỉ vật \"VASE\"."
@@ -95,7 +95,7 @@ export default function EVMatrixQuiz(): React.JSX.Element {
 			question: "he MADE his YOUNGer BROTHer [CRY]. \n Anh ấy đã làm cho em trai mình [khóc].",
 			options: [
 				"[Noun Base]",
-				"[Adjective Base]"
+				"[ADjective BASE]"
 			],
 			correctAnswer: 1,
 			explanation: "Hình thái: [CRY] - [BARE VERB BASE][THUẦN ĐỘNG CƠ] tồn tại ở hình thái dạng gốc nguyên thể không \"to\" đứng độc lập, chưa phát triển thêm thành phần bổ khuyết. \n\n Chức năng: [CRY] - [ADjective BASE][TÍNH CƠ] bổ sung trạng thái chịu tác động trực tiếp cho phần tiếp nhận \"his YOUNGer BROTHer\" phía trước."
@@ -104,7 +104,7 @@ export default function EVMatrixQuiz(): React.JSX.Element {
 			id: 9,
 			question: "the TEAM PRACticed HARD [to WIN] the CHAMpionship. \n Toàn đội đã luyện tập chăm chỉ [để giành được] chức vô địch.",
 			options: [
-				"[Adverb Base]",
+				"[ADverb BASE]",
 				"[Adverb Phrase]"
 			],
 			correctAnswer: 0,
@@ -115,7 +115,7 @@ export default function EVMatrixQuiz(): React.JSX.Element {
 			question: "[SMOking] is STRICTly proHIBited in this HOSpital. \n [Việc hút thuốc] bị nghiêm cấm hoàn toàn trong bệnh viện này.",
 			options: [
 				"[Noun Base]",
-				"[Noun Phrase]"
+				"[NOUN PHRASE]"
 			],
 			correctAnswer: 0,
 			explanation: "Hình thái: [SMOking] - [proGRESSive VERB BASE][TIẾP ĐỘNG CƠ] bắt đầu từ [Động Cơ] nguyên bản tồn tại ở hình thái đuôi -ing đứng hoàn toàn độc lập, chưa phát triển các thành phần bổ khuyết đi kèm. \n\n Chức năng: [SMOking] - [NOUN BASE][DANH CƠ] đóng vai trò chủ thể cốt lõi ở đầu câu để chịu sự tác động từ phần thông tin phía sau."

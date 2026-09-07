@@ -24,7 +24,7 @@ export default function (): React.JSX.Element {
 			id: 1,
 			question: "[______] is the first step in the accounting cycle. \n [Việc ghi chép các giao dịch] là bước đầu tiên trong chu trình kế toán.",
 			options: [
-				"[Noun Phrase]",
+				"[NOUN PHRASE]",
 				"[Noun Base]"
 			],
 			correctAnswer: 0,
@@ -35,7 +35,7 @@ export default function (): React.JSX.Element {
 			question: "The primary goal of a bookkeeper is [______]. \n Mục tiêu chính của một người ghi sổ là [duy trì các sổ cái chính xác].",
 			options: [
 				"[Noun Base]",
-				"[Noun Phrase]"
+				"[NOUN PHRASE]"
 			],
 			correctAnswer: 1,
 			explanation: "Form: [to maintain accurate ledgers] - [PARTicle BARE VERB PHRASE][HẠT THUẦN ĐỘNG CỤM] formed by an infinitive verb followed by its modifying financial adjective and noun object. \n\n Function: [to maintain accurate ledgers] - [NOUN PHRASE][DANH CỤM] acting as a subject complement to explain what the primary goal is after the linking verb."
@@ -44,8 +44,8 @@ export default function (): React.JSX.Element {
 			id: 3,
 			question: "The [______] financial statements were submitted to the tax authority. \n Các báo cáo tài chính [đã được kiểm toán] đã được nộp cho cơ quan thuế.",
 			options: [
-				"[Adjective Base]",
-				"[Adjective Phrase]"
+				"[ADjective BASE]",
+				"[ADjective PHRASE]"
 			],
 			correctAnswer: 0,
 			explanation: "Form: [audited] - [PERfect VERB BASE][HOÀN ĐỘNG CƠ] using a single past participle form of the verb to function as a modifier. \n\n Function: [audited] - [ADjective BASE][TÍNH CƠ] directly modifying the financial noun \"statements\" to clarify their verified status."
@@ -64,8 +64,8 @@ export default function (): React.JSX.Element {
 			id: 5,
 			question: "[______] surprised the equity investors. \n [Việc doanh thu hàng năm của công ty tăng lên] đã làm các nhà đầu tư cổ phiếu ngạc nhiên.",
 			options: [
-				"[Noun Phrase]",
-				"[Noun Clause]"
+				"[NOUN PHRASE]",
+				"[NOUN CLAUSE]"
 			],
 			correctAnswer: 1,
 			explanation: "Form: [That the company's annual revenue increased] - [conJUNCtional CLAUSE][LIÊN CÂU] containing a subordinate conjunction, a clear corporate subject, and an intransitive past tense verb. \n\n Function: [That the company's annual revenue increased] - [NOUN CLAUSE][DANH CÂU] functioning as the complete grammatical subject that triggered the psychological reaction of the investors."
@@ -74,7 +74,7 @@ export default function (): React.JSX.Element {
 			id: 6,
 			question: "We need an experienced consultant [______]. \n Chúng tôi cần một cố vấn có kinh nghiệm [để phân tích các tác động về thuế hàng quý].",
 			options: [
-				"[Adjective Phrase]",
+				"[ADjective PHRASE]",
 				"[Adverb Phrase]"
 			],
 			correctAnswer: 0,
@@ -94,8 +94,8 @@ export default function (): React.JSX.Element {
 			id: 8,
 			question: "The modern software [______] requires an annual license update. \n Phần mềm hiện đại [được sử dụng để xử lý bảng lương] yêu cầu một bản cập nhật giấy phép hàng năm.",
 			options: [
-				"[Adjective Phrase]",
-				"[Noun Phrase]"
+				"[ADjective PHRASE]",
+				"[NOUN PHRASE]"
 			],
 			correctAnswer: 0,
 			explanation: "Form: [used for payroll processing] - [PERfect VERB PHRASE][HOÀN ĐỘNG CỤM] appearing as a post-modifying past participial phrase linked with a prepositional structure. \n\n Function: [used for payroll processing] - [ADjective PHRASE][TÍNH CỤM] defining and restricting the meaning of the specific technical noun \"software\" being discussed."
@@ -104,18 +104,18 @@ export default function (): React.JSX.Element {
 			id: 9,
 			question: "I [______]. \n Tôi [biết {những gì cô ấy đã ghi sổ}].",
 			options: [
-				"[Noun Phrase]",
-				"[Tiered Noun Phrase]"
+				"[NOUN PHRASE]",
+				"[TIERed NOUN PHRASE]"
 			],
 			correctAnswer: 1,
-			explanation: "Form: [know {what she recorded}] - [BARE VERB PHRASE][THUẦN ĐỘNG CỤM] serving as the predicate of the matrix clause, which embeds a finite objective clause inside its boundaries. \n\n Function: [know {what she recorded}] - [Danh Cụm] Phân Tầng [Tiered Noun Phrase] where the outer verbal predicate level marked by [] encapsulates an inner objective noun clause marked by {} representing the bookkeeping data."
+			explanation: "Form: [know {what she recorded}] - [BARE VERB PHRASE][THUẦN ĐỘNG CỤM] serving as the predicate of the matrix clause, which embeds a finite objective clause inside its boundaries. \n\n Function: [know {what she recorded}] - [TIERed NOUN PHRASE][TẦNG DANH CỤM] where the outer verbal predicate level marked by [] encapsulates an inner objective noun clause marked by {} representing the bookkeeping data."
 		},
 		{
 			id: 10,
 			question: "The internal auditor asked [______]. \n Kiểm toán viên nội bộ đã hỏi [liệu sổ cái chung đã được cập nhật chưa].",
 			options: [
-				"[Noun Clause]",
-				"[Adjective Clause]"
+				"[NOUN CLAUSE]",
+				"[ADjective CLAUSE]"
 			],
 			correctAnswer: 0,
 			explanation: "Form: [whether the general ledger was updated] - [conJUNCtional CLAUSE][LIÊN CÂU] introduced by an interrogative subordinator followed by a passive financial clause layout. \n\n Function: [whether the general ledger was updated] - [NOUN CLAUSE][DANH CÂU] completing the predicate of the sentence by acting as the direct noun object for the inquiry verb \"asked\"."

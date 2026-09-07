@@ -361,7 +361,7 @@ export default function AdjPlacement5(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li className="margin-bottom-20 list-none">"<strong>What surprised everyone</strong> [Noun Clause] was the speed at which the company <strong>that had been struggling for years</strong> [Adjective Clause] recovered, <strong>even though the market conditions were unfavorable</strong> [Adverbial Clause]."</li>
+					<li className="margin-bottom-20 list-none">"<strong>What surprised everyone</strong> [Noun Clause] was the speed at which the company <strong>that had been struggling for years</strong> [ADjective CLAUSE] recovered, <strong>even though the market conditions were unfavorable</strong> [Adverbial Clause]."</li>
 
 					<li className="list-none">"<strong>Những điều đã làm mọi người ngạc nhiên</strong> [Danh câu] là tốc độ mà tại đó công ty, <strong>cái mà đã đang chật vật trong nhiều năm</strong> [Câu con tính ngữ], đã phục hồi, <strong>mặc dù các điều kiện thị trường đã không thuận lợi</strong> [Trạng câu]."</li>
 			

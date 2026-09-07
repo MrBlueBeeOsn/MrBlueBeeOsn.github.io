@@ -530,7 +530,7 @@ export default function Clear(): React.JSX.Element {
       <p className="margin-top-20 text-indent-whole">Khi hệ thống vận hành ở mức độ phức tạp, các khối mã sẽ lồng vào nhau tạo nên hệ thống phân tầng tối tân.</p>
 
 
-      <h5 className="margin-top-20 text-indent-whole">[Danh Cụm Phân Tầng][Tiered Noun Phrase]</h5>
+      <h5 className="margin-top-20 text-indent-whole">[Danh Cụm Phân Tầng][TIERed NOUN PHRASE]</h5>
 
       <p className="margin-top-20 text-indent-whole">Ví dụ 12a: [NOUN SUBject][DANH CHỦ]</p>
       

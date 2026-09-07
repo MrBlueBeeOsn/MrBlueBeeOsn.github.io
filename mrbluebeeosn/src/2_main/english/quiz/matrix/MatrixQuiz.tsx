@@ -22,103 +22,103 @@ export default function MatrixQuiz(): React.JSX.Element {
 	const questions: Question[] = [
 		{
 			id: 1,
-			question: "[______] expands our narrow horizon. \n [Học hỏi mỗi ngày] mở rộng chân trời hạn hẹp của chúng ta.",
+			question: "[to LEARN EVERyday] exPANDS our NARrow hoRIzon. \n [Học hỏi mỗi ngày] mở rộng chân trời hạn hẹp của chúng ta.",
 			options: [
-				"[Noun Phrase]",
-				"[Adjective Phrase]"
+				"[NOUN PHRASE]",
+				"[ADjective PHRASE]"
 			],
 			correctAnswer: 0,
-			explanation: "Form: [To learn everyday] - [PARTicle BARE VERB PHRASE][HẠT THUẦN ĐỘNG CỤM] formed by combining the infinitive marker \"to\", the bare verb base \"learn\", and the adverbial modifier \"everyday\". \n\n Function: [To learn everyday] - [NOUN PHRASE][DANH CỤM] occupies the subject position directly preceding the main predicate \"expands\", acting as the nominal head of the sentence."
+			explanation: "Form: [to LEARN EVERyday] - [PARTicle BARE VERB PHRASE][HẠT THUẦN ĐỘNG CỤM] formed by combining the infinitive marker \"to\", the bare verb base \"LEARN\", and the adverbial modifier \"EVERyday\". \n\n Function: [to LEARN EVERyday] - [NOUN PHRASE][DANH CỤM] occupies the subject position directly preceding the main predicate \"exPANDS\", acting as the nominal head of the sentence."
 		},
 		{
 			id: 2,
-			question: "The [______] leaves covered the entire driveway. \n Những chiếc lá [đã rụng] phủ kín cả lối vào xe.",
+			question: "the [FALlen] LEAVES COVered the enTIre DRIVEway. \n Những chiếc lá [đã rụng] phủ kín cả lối vào xe.",
 			options: [
-				"[Adjective Base]",
-				"[Adverb Base]"
+				"[ADjective BASE]",
+				"[ADverb BASE]"
 			],
 			correctAnswer: 0,
-			explanation: "Form: [fallen] - [PERfect VERB BASE][HOÀN ĐỘNG CƠ] formed by the bare past participle form of the verb \"fall\" without any auxiliary attachments. \n\n Function: [fallen] - [ADjective BASE][TÍNH CƠ] modifies and directly describes the head noun \"leaves\"."
+			explanation: "Form: [FALlen] - [PERfect VERB BASE][HOÀN ĐỘNG CƠ] formed by the bare past participle form of the verb \"FALL\" without any auxiliary attachments. \n\n Function: [FALlen] - [ADjective BASE][TÍNH CƠ] modifies and directly describes the head noun \"LEAVES\"."
 		},
 		{
 			id: 3,
-			question: "The heavy door flew [______] due to the strong wind. \n Cánh cửa nặng nề đã tung [mở] do cơn gió mạnh.",
+			question: "the HEAVy DOOR FLEW [Open] due to the STRONG WIND. \n Cánh cửa nặng nề đã tung [mở] do cơn gió mạnh.",
 			options: [
-				"[Adjective Base]",
-				"[Adverb Base]"
+				"[ADjective BASE]",
+				"[ADverb BASE]"
 			],
 			correctAnswer: 1,
-			explanation: "Form: [open] - [BARE VERB BASE][THUẦN ĐỘNG CƠ] originating from a bare verb base. \n\n Function: [open] - [ADverb BASE][TRẠNG CƠ] acts as a resultative complement modifying the verb \"flew\" to show the final state achieved by the action."
+			explanation: "Form: [Open] - [BARE VERB BASE][THUẦN ĐỘNG CƠ] originating from a bare verb base. \n\n Function: [Open] - [ADverb BASE][TRẠNG CƠ] acts as a resultative complement modifying the verb \"FLEW\" to show the final state achieved by the action."
 		},
 		{
 			id: 4,
-			question: "[______] requires excellent communication skills. \n [Quản lý một đội ngũ quốc tế lớn] đòi hỏi kỹ năng giao tiếp xuất sắc.",
+			question: "[MANaging a LARGE interNATional TEAM] reQUIres EXcellent communiCAtion SKILLS. \n [Quản lý một đội ngũ quốc tế lớn] đòi hỏi kỹ năng giao tiếp xuất sắc.",
 			options: [
-				"[Noun Phrase]",
-				"[Adjective Phrase]"
+				"[NOUN PHRASE]",
+				"[ADjective PHRASE]"
 			],
 			correctAnswer: 0,
-			explanation: "Form: [Managing a large international team] - [proGRESSive VERB PHRASE][TIẾP ĐỘNG CỤM] formed by the gerund \"Managing\" and its direct object phrase \"a large international team\". \n\n Function: [Managing a large international team] - [NOUN PHRASE][DANH CỤM] occupies the subject slot of the main verb \"requires\"."
+			explanation: "Form: [MANaging a LARGE interNATional TEAM] - [proGRESSive VERB PHRASE][TIẾP ĐỘNG CỤM] formed by the gerund \"MANaging\" and its direct object phrase \"a LARGE interNATional TEAM\". \n\n Function: [MANaging a LARGE interNATional TEAM] - [NOUN PHRASE][DANH CỤM] occupies the subject slot of the main verb \"reQUIres\"."
 		},
 		{
 			id: 5,
-			question: "The book [______] became an overnight bestseller. \n Cuốn sách [được viết bởi vị giáo sư nổi tiếng] đã trở thành sách bán chạy nhất chỉ sau một đêm.",
+			question: "the BOOK [WRITten by the FAmous proFESsor] beCAME an overNIGHT bestSELler. \n Cuốn sách [được viết bởi vị giáo sư nổi tiếng] đã trở thành sách bán chạy nhất chỉ sau một đêm.",
 			options: [
-				"[Noun Phrase]",
-				"[Adjective Phrase]"
+				"[NOUN PHRASE]",
+				"[ADjective PHRASE]"
 			],
 			correctAnswer: 1,
-			explanation: "Form: [written by the famous professor] - [PERfect VERB PHRASE][HOÀN ĐỘNG CỤM] formed by the past participle \"written\" and its agentive prepositional phrase \"by the famous professor\". \n\n Function: [written by the famous professor] - [ADjective PHRASE][TÍNH CỤM] post-modifies and restricts the meaning of the head noun \"book\"."
+			explanation: "Form: [WRITten by the FAmous proFESsor] - [PERfect VERB PHRASE][HOÀN ĐỘNG CỤM] formed by the past participle \"WRITten\" and its agentive prepositional phrase \"by the FAmous proFESsor\". \n\n Function: [WRITten by the FAmous proFESsor] - [ADjective PHRASE][TÍNH CỤM] post-modifies and restricts the meaning of the head noun \"BOOK\"."
 		},
 		{
 			id: 6,
-			question: "He stayed up all night [______]. \n Anh ấy đã thức cả đêm [để hoàn thành luận văn tốt nghiệp của mình].",
+			question: "he stayED UP ALL NIGHT [to FINish his gradUAtion THEsis]. \n Anh ấy đã thức cả đêm [để hoàn thành luận văn tốt nghiệp của mình].",
 			options: [
-				"[Noun Phrase]",
+				"[NOUN PHRASE]",
 				"[Adverb Phrase]"
 			],
 			correctAnswer: 1,
-			explanation: "Form: [to finish his graduation thesis] - [PARTicle BARE VERB PHRASE][HẠT THUẦN ĐỘNG CỤM] formed by the infinitive marker \"to\", the verb base \"finish\", and its direct object \"his graduation thesis\". \n\n Function: [to finish his graduation thesis] - [ADverb PHRASE][TRẠNG CỤM] modifies the matrix predicate \"stayed up\" by declaring the purpose behind the action."
+			explanation: "Form: [to FINish his gradUAtion THEsis] - [PARTicle BARE VERB PHRASE][HẠT THUẦN ĐỘNG CỤM] formed by the infinitive marker \"to\", the verb base \"FINish\", and its direct object \"his gradUAtion THEsis\". \n\n Function: [to FINish his gradUAtion THEsis] - [ADverb PHRASE][TRẠNG CỤM] modifies the matrix predicate \"stayED UP\" by declaring the purpose behind the action."
 		},
 		{
 			id: 7,
-			question: "The clean laboratory [______] is highly secured. \n Phòng thí nghiệm sạch sẽ [nơi họ tiến hành các thí nghiệm y tế] được bảo mật rất cao.",
+			question: "the CLEAN LABORatory [where they conDUCT MEDical exPERiments] is HIGHly seCURED. \n Phòng thí nghiệm sạch sẽ [nơi họ tiến hành các thí nghiệm y tế] được bảo mật rất cao.",
 			options: [
-				"[Adjective Clause]",
-				"[Noun Clause]"
+				"[ADjective CLAUSE]",
+				"[NOUN CLAUSE]"
 			],
 			correctAnswer: 0,
-			explanation: "Form: [where they conduct medical experiments] - [conJUNCtional CLAUSE][LIÊN CÂU] formed by the relative adverb \"where\" followed by a full clause containing the subject \"they\" and finite verb \"conduct\". \n\n Function: [where they conduct medical experiments] - [ADjective CLAUSE][TÍNH CÂU] post-modifies and defines the spatial traits of the head noun \"laboratory\"."
+			explanation: "Form: [where they conDUCT MEDical exPERiments] - [conJUNCtional CLAUSE][LIÊN CÂU] formed by the relative adverb \"where\" followed by a full clause containing the subject \"they\" and finite verb \"conDUCT\". \n\n Function: [where they conDUCT MEDical exPERiments] - [ADjective CLAUSE][TÍNH CÂU] post-modifies and defines the spatial traits of the head noun \"LABORatory\"."
 		},
 		{
 			id: 8,
-			question: "[______], they successfully completed the project. \n [Mặc dù đội ngũ phải đối mặt với việc cắt giảm ngân sách nghiêm trọng], họ đã hoàn thành dự án một cách thành công.",
+			question: "[although the TEAM FACED seVERE BUDget CUTS], they sucCESSfully comPLEted the PRODuct. \n [Mặc dù đội ngũ phải đối mặt với việc cắt giảm ngân sách nghiêm trọng], họ đã hoàn thành dự án một cách thành công.",
 			options: [
-				"[Noun Clause]",
+				"[NOUN CLAUSE]",
 				"[Adverb Clause]"
 			],
 			correctAnswer: 1,
-			explanation: "Form: [Although the team faced severe budget cuts] - [conJUNCtional CLAUSE][LIÊN CÂU] formed by the subordinating conjunction \"Although\" followed by a full clause containing the subject \"the team\" and finite verb \"faced\". \n\n Function: [Although the team faced severe budget cuts] - [ADverb CLAUSE][TRẠNG CÂU] modifies the entire main clause by providing a situational context of concession."
+			explanation: "Form: [although the TEAM FACED seVERE BUDget CUTS] - [conJUNCtional CLAUSE][LIÊN CÂU] formed by the subordinating conjunction \"although\" followed by a full clause containing the subject \"the TEAM\" and finite verb \"FACED\". \n\n Function: [although the TEAM FACED seVERE BUDget CUTS] - [ADverb CLAUSE][TRẠNG CÂU] modifies the entire main clause by providing a situational context of concession."
 		},
 		{
 			id: 9,
-			question: "I [______]. \n Tôi [yêu thích việc {học các cấu trúc ngữ pháp phức tạp}].",
+			question: "i [LOVE {LEARNing COMplex GRAMmar STRUCtures}]. \n Tôi [yêu thích việc {học các cấu trúc ngữ pháp phức tạp}].",
 			options: [
-				"[Noun Phrase]",
-				"[Tiered Noun Phrase]"
+				"[NOUN PHRASE]",
+				"[TIERed NOUN PHRASE]"
 			],
 			correctAnswer: 1,
-			explanation: "Form: [love {learning complex grammar structures}] - [Tầng Động Cụm][Tiered Verb Phrase] containing an outer finite verb \"love\" and an embedded non-finite gerund phrase layer \"{learning complex grammar structures}\". \n\n Function: [love {learning complex grammar structures}] - [Danh Cụm] Phân Tầng [Tiered Noun Phrase] acts as the complete nominal predicate block, where the outer layer is a [NOUN PHRASE][DANH CỤM] acting as the direct object of the subject \"I\", while nesting an internal secondary layer where the gerund phrase acts as an embedded [NOUN PHRASE][DANH CỤM] serving as the direct object of \"love\"."
+			explanation: "Form: [LOVE {LEARNing COMplex GRAMmar STRUCtures}] - [TIERed NOUN PHRASE][TẦNG ĐỘNG CỤM] containing an outer finite verb \"love\" and an embedded non-finite gerund phrase layer \"{LEARNing COMplex GRAMmar STRUCtures}\". \n\n Function: [LOVE {LEARNing COMplex GRAMmar STRUCtures}] - [TIERed NOUN PHRASE][TẦNG DANH CỤM] acts as the complete nominal predicate block, where the outer layer is a [NOUN PHRASE][DANH CỤM] acting as the direct object of the subject \"i\", while nesting an internal secondary layer where the gerund phrase acts as an embedded [NOUN PHRASE][DANH CỤM] serving as the direct object of \"LOVE\"."
 		},
 		{
 			id: 10,
-			question: "The board members [______]. \n Các thành viên ban quản trị [đã đề xuất {rằng chúng ta hoãn lại việc kiểm toán công ty}].",
+			question: "the BOARD MEMbers [sugGESTed {that we postPONE the CORporate AUdit}]. \n Các thành viên ban quản trị [đã đề xuất {rằng chúng ta hoãn lại việc kiểm toán công ty}].",
 			options: [
-				"[Tiered Noun Phrase]",
-				"[Noun Clause]"
+				"[TIERed NOUN PHRASE]",
+				"[NOUN CLAUSE]"
 			],
 			correctAnswer: 0,
-			explanation: "Form: [suggested {that we postpone the corporate audit}] - [Tầng Động Cụm][Tiered Verb Phrase] containing an outer finite verb \"suggested\" and an embedded finite clause layer \"{that we postpone the corporate audit}\". \n\n Function: [suggested {that we postpone the corporate audit}] - [Danh Cụm] Phân Tầng [Tiered Noun Phrase] acts as the primary nominal predicate block, where the outer layer forms a direct object phrase block, within which sits an embedded finite clause layer \"{that we postpone...}\", which is morphologically an [conJUNCtional CLAUSE][LIÊN CÂU] functioning as a [NOUN CLAUSE][DANH CÂU] acting as the direct object of the internal verb \"suggested\"."
+			explanation: "Form: [sugGESTed {that we postPONE the CORporate AUdit}] - [TIERed NOUN PHRASE][TẦNG ĐỘNG CỤM] containing an outer finite verb \"sugGESTed\" and an embedded finite clause layer \"{that we postPONE the CORporate AUdit}\". \n\n Function: [sugGESTed {that we postPONE the CORporate AUdit}] - [TIERed NOUN PHRASE][TẦNG DANH CỤM] acts as the primary nominal predicate block, where the outer layer forms a direct object phrase block, within which sits an embedded finite clause layer \"{that we postPONE...}\", which is morphologically an [conJUNCtional CLAUSE][LIÊN CÂU] functioning as a [NOUN CLAUSE][DANH CÂU] acting as the direct object of the internal verb \"sugGESTed\"."
 		}
 	];
 
