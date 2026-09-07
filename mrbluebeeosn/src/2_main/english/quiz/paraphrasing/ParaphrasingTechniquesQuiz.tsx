@@ -22,70 +22,70 @@ export default function ParaphrasingTechniquesQuiz(): React.JSX.Element {
 	const questions: Question[] = [
 		{
 			id: 1,
-			question: "WHICH of the following is the most effective way to begin paraphrasing a sentence?",
+			question: "WHICH of the FOLlowing is the MOST efFECtive WAY to beGIN PARaphrasing a SENtence?",
 			options: [
-				"Changing only the adjectives and adverbs.",
-				"Using a thesaurus to replace every single word.",
-				"Understanding the full meaning and rewriting the idea in your own words.",
-				"Rearranging the order of the words without changing them."
+				"CHAnging Only the ADjectives and ADverbs.",
+				"Using a theSAUrus to rePLACE every SINgle WORD.",
+				"underSTANDing the FULL MEANing and reWRIting the iDEa in your OWN WORDS.",
+				"rearRAnging the ORder of the WORDS without CHAnging them."
 			],
 			correctAnswer: 2,
 			explanation: "Paraphrasing is about conveying the original meaning using your own unique voice and structure, not just swapping words."
 		},
 		{
 			id: 2,
-			question: "When paraphrasing, if you change the sentence from \"The company launched the product in 2023\" to \"The product was launched by the company in 2023,\" which technique are you using?",
+			question: "when PARaphrasing, if you CHANGE the SENtence from \"the COMpany LAUNCHED the PRODuct in 2023\" to \"the PRODuct was LAUNCHED by the COMpany in 2023,\" WHICH techNIQUE are you Using?",
 			options: [
-				"Using Synonyms",
-				"Changing Passive Voice to Active Voice",
-				"Changing Active Voice to Passive Voice",
-				"Nominalization"
+				"Using SYNonyms",
+				"CHAnging PASsive VOICE to ACtive VOICE",
+				"CHAnging ACtive VOICE to PASsive VOICE",
+				"nominalizAtion"
 			],
 			correctAnswer: 2,
-			explanation: "This is a structural change where the subject (The company) and the object (the product) swap roles using passive construction."
+			explanation: "This is a structural change where the subject (the COMpany) and the object (the PRODuct) swap roles using passive construction."
 		},
 		{
 			id: 3,
-			question: "What is a \"synonym\"?",
+			question: "WHAT is a \"SYNonym\"?",
 			options: [
-				"A word with the opposite meaning.",
-				"A word that sounds the same but has a different meaning.",
-				"A word or phrase that means exactly or nearly the same as another.",
-				"A word that is capitalized in every sentence."
+				"a WORD with the OPposite MEANing.",
+				"a WORD that SOUNDS the SAME but has a DIFFERent MEANing.",
+				"a WORD or PHRASE that MEANS exACTly or NEARly the SAME as anOTHer.",
+				"a WORD that is CAPitalized in every SENtence."
 			],
 			correctAnswer: 2,
-			explanation: "Using synonyms is a core technique in paraphrasing to avoid \"patchwriting\" or copying the original vocabulary."
+			explanation: "Using synonyms is a core technique in paraphrasing to avoid \"PATCHwriting\" or copying the original vocabulary."
 		},
 		{
 			id: 4,
-			question: "When should you use quotation marks during the paraphrasing process?",
+			question: "WHEN should you USE quoTAtion MARKS during the PARaphrasing PROcess?",
 			options: [
-				"When you use more than three words from the original text.",
-				"When you use unique terms or specific phrases that cannot be changed.",
-				"Only at the beginning and end of your entire paragraph.",
-				"Never; paraphrasing means you don't need quotation marks."
+				"when you USE MORE than THREE WORDS from the oRIGinal TEXT.",
+				"when you USE uNIQUE TERMS or speCIFic PHRASES that CANnot be CHANGED.",
+				"Only at the beGINning and END of your enTIre PARagraph.",
+				"NEVer; PARaphrasing MEANS you don't NEED quoTAtion MARKS."
 			],
 			correctAnswer: 1,
 			explanation: "If the original author uses a very specific or technical term that cannot be paraphrased, you must put that specific term in quotes."
 		},
 		{
 			id: 5,
-			question: "Which of these is an example of changing \"Parts of Speech\" for paraphrasing?",
+			question: "WHICH of THESE is an exAMple of CHAnging \"PARTS of SPEECH\" for PARaphrasing?",
 			options: [
 				"Changing \"happy\" to \"joyful.\"",
-				"Changing \"The nurse cared for the patient\" to \"The nurse provided care for the patient.\"",
-				"Changing \"He ran fast\" to \"He moved quickly.\"",
-				"Changing the order of two paragraphs."
+				"CHAnging \"the NURSE CARED for the PAtient\" to \"the NURSE proVIded CARE for the PAtient.\"",
+				"CHAnging \"he RAN FAST\" to \"he MOVED QUICKly.\"",
+				"CHAnging the ORder of TWO PARagraphs."
 			],
 			correctAnswer: 1,
 			explanation: "In this example, the verb \"cared\" is transformed into the noun \"care.\""
 		},
 		{
 			id: 6,
-			question: "True or False: You do not need to cite the source if you have paraphrased the information perfectly in your own words.",
+			question: "TRUE or FALSE: you do NOT NEED to CITE the SOURCE if you have PARaphrased the inforMAtion PERfectly in your OWN WORDS.",
 			options: [
-				"True",
-				"False",
+				"TRUE",
+				"FALSE",
 				"",
 				""
 			],
@@ -94,48 +94,48 @@ export default function ParaphrasingTechniquesQuiz(): React.JSX.Element {
 		},
 		{
 			id: 7,
-			question: "Which technique involves changing the structure of a sentence by turning a verb into a noun?",
+			question: "WHICH techNIQUE inVOLVES CHAnging the STRUCture of a SENtence by TURNing a VERB into a NOUN?",
 			options: [
-				"Transposition",
-				"Nominalization",
-				"Clause reduction",
-				"Conjunction substitution"
+				"transpoSITion",
+				"nominaliZAtion",
+				"CLAUSE reDUCtion",
+				"conJUNCtion substiTUtion"
 			],
 			correctAnswer: 1,
-			explanation: "Nominalization is the process of turning verbs or adjectives into nouns (e.g., \"decide\" becomes \"decision\")."
+			explanation: "Nominalization is the process of turning verbs or adjectives into nouns (e.g., \"deCIDE\" beCOMES \"deCISion\")."
 		},
 		{
 			id: 8,
-			question: "Original: \"Due to the fact that it was raining, the game was cancelled.\" Paraphrase: \"The match was called off because of the rain.\" What technique was primarily used here?",
+			question: "oRIGinal: \"due to the FACT that it was RAIning, the GAME was CANcelled.\" PARaphrase: \"the MATCH was callED OFF because of the RAIN. \"What techNIQUE was PRImarily USED HERE?",
 			options: [
-				"Only changing the word \"rain.\"",
-				"Combining sentences.",
-				"Using synonyms and simplifying the structure.",
-				"Changing the tense from past to future."
+				"Only CHAnging the WORD \"RAIN.\"",
+				"comBIning SENtences.",
+				"Using SYNonyms and SIMplifying the STRUCture.",
+				"CHAnging the TENSE from PAST to FUture."
 			],
 			correctAnswer: 2,
 			explanation: "\"Cancelled\" became \"called off,\" and the wordy \"due to the fact that\" was simplified to \"because of.\""
 		},
 		{
 			id: 9,
-			question: "What is \"Patchwriting\"?",
+			question: "WHAT is \"PATCHwriting\"?",
 			options: [
-				"Writing a perfect paraphrase.",
-				"Sewing different ideas together from many books.",
-				"Copying a passage but deleting a few words or changing small parts.",
-				"Writing a summary of a whole chapter."
+				"WRIting a PERfect PARaphrase.",
+				"SEWing DIFFERent iDEas toGETHer from many BOOKS.",
+				"COPying a PASsage but deLEting a FEW WORDS or CHAnging SMALL PARTS.",
+				"WRIting a SUMmary of a WHOLE CHAPter."
 			],
 			correctAnswer: 2,
-			explanation: "Patchwriting is considered a form of \"failed paraphrasing\" where the student stays too close to the original grammar and vocabulary."
+			explanation: "Patchwriting is considered a form of \"FAILED PARaphrasing\" where the student stays too close to the original grammar and vocabulary."
 		},
 		{
 			id: 10,
-			question: "When paraphrasing a complex sentence with multiple clauses, it is often helpful to:",
+			question: "when PARaphrasing a COMplex SENtence with MULtiple CLAUses, it is OFten HELPful to:",
 			options: [
-				"Break the long sentence into two or more shorter sentences.",
-				"Keep the exact punctuation but change the nouns.",
-				"Translate it into another language and back again.",
-				"Use the same connectors (and, but, so) as the original."
+				"BREAK the LONG SENtence into TWO or MORE SHORTer SENtences.",
+				"KEEP the exACT punctuAtion but CHANGE the NOUNS.",
+				"transLATE it into anOTHer LANGuage and BACK aGAIN.",
+				"USE the SAME conNECTors (and, but, so) as the oRIGinal."
 			],
 			correctAnswer: 0,
 			explanation: "Breaking down complex structures is a powerful way to ensure the new version is distinct from the original while remaining clear."
