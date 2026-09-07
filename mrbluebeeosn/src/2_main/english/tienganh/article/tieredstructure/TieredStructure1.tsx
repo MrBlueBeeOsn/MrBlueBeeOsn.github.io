@@ -48,7 +48,7 @@ export default function TieredStructure1(): React.JSX.Element {
 
 			</h1>
 
-			<h4 className="margin-bottom-30 text-center">BẬT TƯ DUY LẬP TRÌNH: TUYỆT CHƯƠNG ĐÓNG GÓI MÃ NGUỒN [CƠ][CỤM][CÂU]</h4>
+			<h4 className="margin-bottom-30 text-center">BẬT TƯ DUY LẬP TRÌNH: TUYỆT CHƯƠNG ĐÓNG GÓI MÃ NGUỒN [BASE][PHRASE][CLAUSE] - [CƠ][CỤM][CÂU]</h4>
 
 			<p>Bạn đã bao giờ rơi vào trạng thái "chập mạch" khi cố gắng nhồi nhét hàng tá cấu trúc ngôn ngữ phức tạp?</p>
 
@@ -58,7 +58,7 @@ export default function TieredStructure1(): React.JSX.Element {
 
 			<p>Đã đến lúc dọn dẹp toàn bộ mớ hỗn độn đó.</p>
 
-			<p>Hãy cùng bước vào một phòng thí nghiệm ngôn ngữ hoàn toàn mới — nơi tiếng Anh được chuẩn hóa theo <strong>Tư duy lập trình hệ thống</strong>. Chúng ta loại bỏ hoàn toàn các định nghĩa cũ để làm quen với hệ điều hành tối giản nhưng quyền lực bằng sức mạnh của [Tầng Thiết Kế][Tiered Structure] và Khả năng xử lý đệ quy.</p>
+			<p>Hãy cùng bước vào một phòng thí nghiệm ngôn ngữ hoàn toàn mới — nơi tiếng Anh được chuẩn hóa theo <strong>Tư duy lập trình hệ thống</strong>. Chúng ta loại bỏ hoàn toàn các định nghĩa cũ để làm quen với hệ điều hành tối giản nhưng quyền lực bằng sức mạnh của [TIERed STRUCture][TẦNG CẤU TRÚC] và Khả năng xử lý đệ quy.</p>
 			
 
 			{/* 1.  */}
@@ -85,7 +85,7 @@ export default function TieredStructure1(): React.JSX.Element {
 					<li className="margin-bottom-20 list-none">Phát triển tuyến tính từ [BASE][CƠ] → [PHRASE][CỤM] → [CLAUSE][CÂU].</li>
 			
 					<li><strong>Chiều ngang</strong> — <strong>Chức năng thực thi</strong>:</li>
-					<li className="list-none">3 chương trình phần mềm cốt lõi được hình thành bao gồm [Danh][Noun] (Dữ liệu/Đầu việc), [Tính][Adjective] (Bộ lọc/Mô tả), và [Trạng][Adverb] (Bối cảnh).</li>
+					<li className="list-none">3 chương trình phần mềm cốt lõi được hình thành bao gồm [NOUN][DANH] (Dữ liệu/Đầu việc), [ADjective][TÍNH] (Bộ lọc/Mô tả), và [ADverb][TRẠNG] (Bối cảnh).</li>
 			
 				</ul>
 
@@ -239,7 +239,7 @@ export default function TieredStructure1(): React.JSX.Element {
 			<p>Hãy cùng xem cách người học nhìn nhận <strong>Hình thái</strong> trước, rồi mới giải mã <strong>Chức năng</strong> dựa trên vị trí xuất hiện trong câu thông qua các phân hệ chuẩn hóa:</p>
 
 
-			<h4 className="margin-y-40">A. Phân hệ [Động Cơ][Verb Base]</h4>
+			<h4 className="margin-y-40">A. Phân hệ [VERB BASE][ĐỘNG CƠ]</h4>
 
 			<p className="text-indent-whole">Khi nhìn vào một từ đơn hành động, người học nhận diện diện mạo vật lý gốc của nó thuộc 1 trong 16 loại cấu trúc [BASE][CƠ]. Khi đặt vào câu, chính hình thái này sẽ hình thành nên các chức năng độc lập:</p>
 
@@ -303,9 +303,9 @@ export default function TieredStructure1(): React.JSX.Element {
 			
 
 
-			<h4 className="margin-y-40">B. Phân hệ [Động Cụm][Verb Phrase]</h4>
+			<h4 className="margin-y-40">B. Phân hệ [VERB PHRASE][ĐỘNG CỤM]</h4>
 
-			<p className="text-indent-whole">Khi người học nhìn thấy một vùng mã chứa nhiều từ đi kèm hành động, họ nhận diện ngay diện mạo vật lý [Động Cụm][Verb Phrase]. Khối hình thái này sẽ hình thành đầy đủ các chương trình chức năng đầu ra:</p>
+			<p className="text-indent-whole">Khi người học nhìn thấy một vùng mã chứa nhiều từ đi kèm hành động, họ nhận diện ngay diện mạo vật lý [VERB PHRASE][ĐỘNG CỤM]. Khối hình thái này sẽ hình thành đầy đủ các chương trình chức năng đầu ra:</p>
 
 			
 			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 4.1</strong>: [<strong>NOUN PHRASE</strong>][<strong>DANH CỤM</strong>] <strong>làm khối</strong> [<strong>NOUN SUBject</strong>][<strong>DANH CHỦ</strong>]</p>
@@ -401,9 +401,9 @@ export default function TieredStructure1(): React.JSX.Element {
 			
 
 
-			<h4 className="margin-y-40">D. Phân hệ [Tầng Thiết Kế][Tiered Structure]</h4>
+			<h4 className="margin-y-40">D. Phân hệ [TIERed STRUCture][TẦNG CẤU TRÚC]</h4>
 					
-			<p className="text-indent-whole">Khi hệ thống vận hành ở mức độ phức tạp, bằng sức mạnh của [Tầng Thiết Kế][Tiered Structure], các khối mã sẽ lồng vào nhau tạo nên các cấu trúc đóng gói tối tân.</p>
+			<p className="text-indent-whole">Khi hệ thống vận hành ở mức độ phức tạp, bằng sức mạnh của [TIERed STRUCture][TẦNG CẤU TRÚC], các khối mã sẽ lồng vào nhau tạo nên các cấu trúc đóng gói tối tân.</p>
 
 
 			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 9.1</strong>: [<strong>NOUN PHRASE</strong>][<strong>DANH CỤM</strong>] <strong>làm khối</strong> [<strong>NOUN SUBject</strong>][<strong>DANH CHỦ</strong>]</p>

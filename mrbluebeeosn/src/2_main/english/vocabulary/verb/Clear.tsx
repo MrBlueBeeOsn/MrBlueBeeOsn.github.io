@@ -111,9 +111,9 @@ export default function Clear(): React.JSX.Element {
 			<h3 className="margin-y-50 text-center">PHẦN 1: HỆ THỐNG CÁC VÍ DỤ PHÂN HỆ MÃ TIẾNG ANH</h3>
 
       
-      <h4 className="margin-y-40">1. Phân hệ [Động Cơ][Verb Base]</h4>
+      <h4 className="margin-y-40">1. Phân hệ [VERB BASE][ĐỘNG CƠ]</h4>
 
-      <p className="text-indent-whole">Khi nhìn vào một từ đơn hành động, người học nhận diện diện mạo vật lý của nó là [Động Cơ][Verb Base].</p>
+      <p className="text-indent-whole">Khi nhìn vào một từ đơn hành động, người học nhận diện diện mạo vật lý của nó là [VERB BASE][ĐỘNG CƠ].</p>
 
       <p className="text-indent-whole">Khi đặt vào sơ đồ vận hành, chính hình thái [Động Cơ] này sẽ hình thành nên các loại chức năng độc lập:</p>
 
@@ -143,7 +143,7 @@ export default function Clear(): React.JSX.Element {
           <li>we need a [clear] explanation.</li>
           <li className="margin-bottom-20 list-none">Chúng ta cần một lời giải thích [rõ ràng].</li>
       
-          <li className="list-none">Hình thái: [clear] - Bản thân [Động Cơ][Verb Base] khi giữ nguyên trạng thái từ đơn lẻ nhưng chuyển đổi bản chất sang chức năng mô tả đặc điểm dưới dạng từ đơn lẻ.</li>
+          <li className="list-none">Hình thái: [clear] - Bản thân [VERB BASE][ĐỘNG CƠ] khi giữ nguyên trạng thái từ đơn lẻ nhưng chuyển đổi bản chất sang chức năng mô tả đặc điểm dưới dạng từ đơn lẻ.</li>
       
           <li className="list-none">Chức năng: [clear] - [ADjective BASE][TÍNH CƠ] kích hoạt cơ chế của bộ quét đặt ngay trước đối tượng "explanation" để hiển thị đặc điểm của đối tượng đó.</li>
       
@@ -166,9 +166,9 @@ export default function Clear(): React.JSX.Element {
         </ul>
 
 
-      <h4 className="margin-y-40">2. Phân hệ [Động Cụm][Verb Phrase]</h4>
+      <h4 className="margin-y-40">2. Phân hệ [VERB PHRASE][ĐỘNG CỤM]</h4>
           
-      <p className="text-indent-whole">Khi người học nhìn thấy một vùng mã chứa nhiều thành phần đi kèm hành động, họ nhận diện ngay diện mạo vật lý [Động Cụm][Verb Phrase]. Khối hình thái này sẽ hình thành đầy đủ các chương trình chức năng đầu ra:</p>
+      <p className="text-indent-whole">Khi người học nhìn thấy một vùng mã chứa nhiều thành phần đi kèm hành động, họ nhận diện ngay diện mạo vật lý [VERB PHRASE][ĐỘNG CỤM]. Khối hình thái này sẽ hình thành đầy đủ các chương trình chức năng đầu ra:</p>
 
 
       <p className="margin-top-20 text-indent-whole"><strong>Hình thành chức năng Danh Cụm</strong> [<strong>Noun Phrase</strong>]</p>

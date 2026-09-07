@@ -64,9 +64,9 @@ export default function ThreeDC1(): React.ReactElement {
 			
 				<ul className="list-square">
 			
-					<li><strong>Chiều dọc</strong> – <strong>4 Cấp độ Hình thái</strong>: [Động Cơ][Verb Base] → [Động Cụm][Verb Phrase] → [prepoSITional PHRASE][GIỚI CỤM] → [conJUNCtional CLAUSE][LIÊN CÂU]. Người học khi nhìn vào một câu chỉ cần nhận diện khối biểu hiện đang ở hình thái nào.</li>
+					<li><strong>Chiều dọc</strong> – <strong>4 Cấp độ Hình thái</strong>: [VERB BASE][ĐỘNG CƠ] → [VERB PHRASE][ĐỘNG CỤM] → [prepoSITional PHRASE][GIỚI CỤM] → [conJUNCtional CLAUSE][LIÊN CÂU]. Người học khi nhìn vào một câu chỉ cần nhận diện khối biểu hiện đang ở hình thái nào.</li>
 			
-					<li><strong>Chiều ngang</strong> – <strong>3 Chức năng</strong>: [Danh][Noun] / [Tính][Adjective] / [Trạng][Adverb]. Tùy thuộc vào vị trí đứng, các Hình thái trên sẽ "hóa thân" để thực thi một trong ba chức năng này.</li>
+					<li><strong>Chiều ngang</strong> – <strong>3 Chức năng</strong>: [NOUN][DANH] / [ADjective][TÍNH] / [ADverb][TRẠNG]. Tùy thuộc vào vị trí đứng, các Hình thái trên sẽ "hóa thân" để thực thi một trong ba chức năng này.</li>
 			
 				</ul>
 			
@@ -75,9 +75,9 @@ export default function ThreeDC1(): React.ReactElement {
 			
 				<ul className="list-square">
 
-					<li><strong>Ở cấp độ</strong> [<strong>Động Cơ</strong>][<strong>Verb Base</strong>]: Sinh ra [NOUN BASE][DANH CƠ], [ADjective BASE][TÍNH CƠ], [ADverb BASE][TRẠNG CƠ].</li>
+					<li><strong>Ở cấp độ</strong> [<strong>VERB BASE</strong>][<strong>ĐỘNG CƠ</strong>]: Sinh ra [NOUN BASE][DANH CƠ], [ADjective BASE][TÍNH CƠ], [ADverb BASE][TRẠNG CƠ].</li>
 			
-					<li><strong>Ở cấp độ</strong> [<strong>Động Cụm</strong>][<strong>Verb Phrase</strong>]: Sinh ra [NOUN PHRASE][DANH CỤM], [ADjective PHRASE][TÍNH CỤM], [ADverb PHRASE][TRẠNG CỤM].</li>
+					<li><strong>Ở cấp độ</strong> [<strong>VERB PHRASE</strong>][<strong>ĐỘNG CỤM</strong>]: Sinh ra [NOUN PHRASE][DANH CỤM], [ADjective PHRASE][TÍNH CỤM], [ADverb PHRASE][TRẠNG CỤM].</li>
 			
 					<li><strong>Ở cấp độ</strong> [<strong>prepoSITional PHRASE</strong>][<strong>GIỚI CỤM</strong>]: Sinh ra [ADjective PHRASE][TÍNH CỤM], [ADverb PHRASE][TRẠNG CỤM].</li>
 
@@ -92,7 +92,7 @@ export default function ThreeDC1(): React.ReactElement {
 			<h3 className="margin-y-50 text-center">II. HỆ THỐNG PHÂN LOẠI ĐỘNG CƠ PHỨC HỢP THEO NHÓM</h3>
 
 
-			<p>Dưới đây là sơ đồ bóc tách cách các phân loại [Động Cơ][Verb Base] phối hợp để tạo nên các cấu hình thời gian và thái độ khác nhau thông qua các nhóm chức năng chuyên biệt:</p>
+			<p>Dưới đây là sơ đồ bóc tách cách các phân loại [VERB BASE][ĐỘNG CƠ] phối hợp để tạo nên các cấu hình thời gian và thái độ khác nhau thông qua các nhóm chức năng chuyên biệt:</p>
           
       <p className="margin-top-20 text-indent-whole"><strong>Nhóm 1</strong>: [<strong>TENSE VERB BASE</strong>][<strong>THỜI ĐỘNG CƠ</strong>]</p>
 
@@ -153,7 +153,7 @@ export default function ThreeDC1(): React.ReactElement {
 
 			{/* III. */}
 
-			<h3 className="margin-y-50 text-center">III. PHÂN HỆ [CƠ][BASE] (HỆ THỐNG 16 MỤC CỐT LÕI)</h3>
+			<h3 className="margin-y-50 text-center">III. PHÂN HỆ [BASE][CƠ] (HỆ THỐNG 16 MỤC CỐT LÕI)</h3>
 
 			<p>Hệ thống biểu hiện hành động và thái độ ở cấp độ từ đơn lẻ hoặc tổ hợp tuyến tính tối giản được chuẩn hóa qua 16 mục hình thái dưới đây:</p>
 			
@@ -212,7 +212,7 @@ export default function ThreeDC1(): React.ReactElement {
 			
 			{/* IV. */}
 
-			<h3 className="margin-y-50 text-center">IV. PHÂN HỆ [CỤM][PHRASE]</h3>
+			<h3 className="margin-y-50 text-center">IV. PHÂN HỆ [PHRASE][CỤM]</h3>
 			
 			
 			<p><strong>Quy tắc cốt lõi</strong>:</p>
@@ -303,7 +303,7 @@ export default function ThreeDC1(): React.ReactElement {
 
 			<h4 className="margin-y-40">2. Hình thái [ĐỘNG CỤM][VERB PHRASE]</h4>
 
-			<p className="text-indent-whole">Là một khối hành động chứa nhiều từ kết hợp với nhau nhưng chưa có cấu trúc câu phức tạp hoàn chỉnh. Khối [Động Cụm][Verb Phrase] này sẽ đảm nhận các vai trò:</p>
+			<p className="text-indent-whole">Là một khối hành động chứa nhiều từ kết hợp với nhau nhưng chưa có cấu trúc câu phức tạp hoàn chỉnh. Khối [VERB PHRASE][ĐỘNG CỤM] này sẽ đảm nhận các vai trò:</p>
 
 			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 1a</strong>: <strong>Sinh ra</strong> [<strong>DANH CỤM</strong>][<strong>NOUN PHRASE</strong>] <strong>làm khối</strong> [<strong>NOUN SUBject</strong>][<strong>DANH CHỦ</strong>]</p>
 			
@@ -396,7 +396,7 @@ export default function ThreeDC1(): React.ReactElement {
 
 			<h4 className="margin-y-40">4. Hình thái [LIÊN CÂU][CONJUNCTIONAL CLAUSE]</h4>
 
-			<p className="text-indent-whole">Là đơn vị hành động mạnh mẽ nhất vì chứa cấu trúc khối hoàn chỉnh bên trong có [NOUN SUBject][DANH CHỦ] và các cấu hình [Động Cơ][Verb Base] riêng biệt, đồng thời được dẫn dắt trực tiếp bởi một [conJUNCtional BASE][LIÊN CƠ] tường minh:</p>
+			<p className="text-indent-whole">Là đơn vị hành động mạnh mẽ nhất vì chứa cấu trúc khối hoàn chỉnh bên trong có [NOUN SUBject][DANH CHỦ] và các cấu hình [VERB BASE][ĐỘNG CƠ] riêng biệt, đồng thời được dẫn dắt trực tiếp bởi một [conJUNCtional BASE][LIÊN CƠ] tường minh:</p>
 
 
 			<p className="text-indent-whole"><strong>Ví dụ 1a</strong>: <strong>Sinh ra</strong> [<strong>DANH CÂU</strong>][<strong>NOUN CLAUSE</strong>] <strong>làm khối</strong> [<strong>NOUN SUBject</strong>][<strong>DANH CHỦ</strong>]</p>
@@ -610,7 +610,7 @@ export default function ThreeDC1(): React.ReactElement {
 
 			<h3 className="margin-y-50 text-center">VIII. ĐỈNH CAO PARAPHRASING: TƯ DUY THAY THẾ [KHỐI] CÙNG CHỨC NĂNG</h3>
 
-			<h4 className="margin-y-40">1. Paraphrasing cho chức năng [TRẠNG][ADVERB] (Mô tả hoàn cảnh, bối cảnh)</h4>
+			<h4 className="margin-y-40">1. Paraphrasing cho chức năng [ADverb][TRẠNG] (Mô tả hoàn cảnh, bối cảnh)</h4>
 
 			<p className="margin-y-30 text-indent-whole"><strong>Gốc</strong>:</p>
 					
@@ -661,7 +661,7 @@ export default function ThreeDC1(): React.ReactElement {
 			
 
 
-			<h4 className="margin-y-40">2. Paraphrasing cho chức năng [TÍNH][ADJECTIVE] (Mô tả, định danh thực thể)</h4>
+			<h4 className="margin-y-40">2. Paraphrasing cho chức năng [ADjective][TÍNH] (Mô tả, định danh thực thể)</h4>
 
 			<p className="margin-y-30 text-indent-whole"><strong>Gốc</strong>:</p>
 
@@ -713,7 +713,7 @@ export default function ThreeDC1(): React.ReactElement {
 				</ul>
 
 
-			<h4 className="margin-y-40">3. Paraphrasing cho chức năng [DANH][NOUN]</h4>
+			<h4 className="margin-y-40">3. Paraphrasing cho chức năng [NOUN][DANH]</h4>
 
 			<p className="margin-y-30 text-indent-whole"><strong>Gốc</strong>: <strong>Dùng hình thái</strong> [<strong>conJUNCtional CLAUSE</strong>][<strong>LIÊN CÂU</strong>]</p>
 

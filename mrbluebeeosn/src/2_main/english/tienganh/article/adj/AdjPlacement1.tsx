@@ -48,11 +48,11 @@ export default function AdjPlacement1(): React.JSX.Element {
 
 			</h1>
 
-			<h4 className="margin-bottom-30 text-center">ĐIỂM MẠNH TƯƠNG ĐỒNG: BƯỚC ĐỘT PHÁ GIÚP NGƯỜI VIỆT THỐNG TRỊ TIẾNG ANH HỌC THUẬT VỀ CHỨC NĂNG [TÍNH][ADJECTIVE]</h4>
+			<h4 className="margin-bottom-30 text-center">ĐIỂM MẠNH TƯƠNG ĐỒNG: BƯỚC ĐỘT PHÁ GIÚP NGƯỜI VIỆT THỐNG TRỊ TIẾNG ANH HỌC THUẬT VỀ CHỨC NĂNG [ADjective][TÍNH]</h4>
 
 			<p>Lối mòn tư duy kìm hãm thế hệ người học tại Việt Nam chính là định kiến: cấu trúc tiếng Anh "ngược" với tiếng Việt. Chúng ta thường bị đóng khung trong quy luật sơ cấp: [ADjective BASE][TÍNH CƠ] phải đứng trước [NOUN BASE][DANH CƠ].</p>
 			
-			<p>Tuy nhiên, trong văn viết học thuật và các cấu trúc câu phức, người bản ngữ ưu tiên sử dụng trật tự [NOUN BASE][DANH CƠ] đứng trước, thành phần bổ nghĩa mang chức năng [Tính][ADjective] đứng sau. Đây chính là "khóa vàng" giúp người Việt sở hữu tư duy ngôn ngữ đẳng cấp.</p>
+			<p>Tuy nhiên, trong văn viết học thuật và các cấu trúc câu phức, người bản ngữ ưu tiên sử dụng trật tự [NOUN BASE][DANH CƠ] đứng trước, thành phần bổ nghĩa mang chức năng [ADjective][TÍNH] đứng sau. Đây chính là "khóa vàng" giúp người Việt sở hữu tư duy ngôn ngữ đẳng cấp.</p>
 			
 
 			{/* 1.  */}
@@ -74,7 +74,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 
 			{/* 2.  */}
 
-			<h3 className="margin-y-50 text-center">2. Hệ Thống Phân Loại [Động Cơ][Verb Base]</h3>
+			<h3 className="margin-y-50 text-center">2. Hệ Thống Phân Loại [VERB BASE][ĐỘNG CƠ]</h3>
 
 			<p>Hệ thống này giúp não bộ bóc tách năng lượng của hành động thông qua 16 "hạt nhân" cấu tạo, chuyển hóa các đơn vị từ vựng đơn lẻ thành các cấu trúc ngữ pháp mang tính biểu đạt cao.</p>
 			
@@ -419,7 +419,7 @@ export default function AdjPlacement1(): React.JSX.Element {
 			
 			{/* 6.  */}
 
-			<h3 className="margin-y-50 text-center">6. [Tầng Cấu trúc][Tiered Structure]</h3>
+			<h3 className="margin-y-50 text-center">6. [TIERed STRUCture][TẦNG CẤU TRÚC]</h3>
 			
 
 			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 1</strong>: [<strong>ADjective PHRASE</strong>][<strong>TÍNH CỤM</strong>] <strong>cấu tạo từ</strong> [<strong>TIERed prepoSITional PHRASE</strong>][<strong>TẦNG GIỚI CỤM</strong>]</p>

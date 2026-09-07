@@ -65,10 +65,10 @@ export default function SV2(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>[Động Cơ][Verb Base]</li>
+					<li>[VERB BASE][ĐỘNG CƠ]</li>
 					<li className="margin-bottom-20 list-none">Dạng gốc của hành động hoặc trạng thái, không kèm theo bất kỳ dấu hiệu nào về thời điểm.</li>
 			
-					<li>[Động Cụm][Verb Phrase]</li>
+					<li>[VERB PHRASE][ĐỘNG CỤM]</li>
 					<li className="margin-bottom-20 list-none">Nhóm từ bắt đầu bằng động cơ, có thể kèm thêm các thành phần bổ sung.</li>
 
 					<li>[prepoSITional PHRASE][GIỚI CỤM]</li>

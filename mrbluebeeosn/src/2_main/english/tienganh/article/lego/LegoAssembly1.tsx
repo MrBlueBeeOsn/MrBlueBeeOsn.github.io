@@ -54,7 +54,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 
 			<p>Đó là cách học cũ kỹ – cách học biến tiếng Anh thành một môn toán học đầy tính đánh đố.</p>
 
-			<p>Hôm nay, mình sẽ chia sẻ với bạn một tư duy đột phá, một hệ thống tối giản hóa toàn bộ cấu trúc tiếng Anh về một bộ khung duy nhất. Hệ thống này dựa trên một quy luật ghi nhớ siêu trực quan: Hệ thống ma trận logic 3 Chiều Ngang Chức năng: [Danh][Noun] / [Tính][Adjective] / [Trạng][Adverb] và 3 Chiều Dọc Cấp độ: [BASE][CƠ] - [PHRASE][CỤM] - [CLAUSE][CÂU].</p>
+			<p>Hôm nay, mình sẽ chia sẻ với bạn một tư duy đột phá, một hệ thống tối giản hóa toàn bộ cấu trúc tiếng Anh về một bộ khung duy nhất. Hệ thống này dựa trên một quy luật ghi nhớ siêu trực quan: Hệ thống ma trận logic 3 Chiều Ngang Chức năng: [NOUN][DANH] / [ADjective][TÍNH] / [ADverb][TRẠNG] và 3 Chiều Dọc Cấp độ: [BASE][CƠ] - [PHRASE][CỤM] - [CLAUSE][CÂU].</p>
 
 
 
@@ -273,7 +273,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 				</ul>
 
 			
-			<h4 className="margin-y-40">Chiều Ngang Chức năng: [Danh][Noun] / [Tính][Adjective] / [Trạng][Adverb] (Mảnh [Lego] dùng để làm gì?)</h4>
+			<h4 className="margin-y-40">Chiều Ngang Chức năng: [NOUN][DANH] / [ADjective][TÍNH] / [ADverb][TRẠNG] (Mảnh [Lego] dùng để làm gì?)</h4>
 
 			<p className="text-indent-whole">Khi một Hình thái được đặt vào một vị trí cụ thể trong khung câu, nó sẽ kích hoạt một trong ba chức năng cốt lõi: [<strong>Danh</strong>] / [<strong>Tính</strong>] / [<strong>Trạng</strong>].</p>
 
@@ -283,7 +283,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 			
 					<li>[ROOT VERB BASE][RỄ ĐỘNG CƠ] hình thành nên chức năng [NOUN BASE][DANH CƠ], [ADjective BASE][TÍNH CƠ], [ADverb BASE][TRẠNG CƠ].</li>
 			
-					<li>[Động Cụm][Verb Phrase] hình thành nên chức năng [NOUN PHRASE][DANH CỤM], [ADjective PHRASE][TÍNH CỤM], [ADverb PHRASE][TRẠNG CỤM].</li>
+					<li>[VERB PHRASE][ĐỘNG CỤM] hình thành nên chức năng [NOUN PHRASE][DANH CỤM], [ADjective PHRASE][TÍNH CỤM], [ADverb PHRASE][TRẠNG CỤM].</li>
 
 					<li>[prepoSITional BASE][GIỚI CƠ] hình thành nên dạng hành động gốc cấu hình nền tảng.</li>
 
@@ -700,7 +700,7 @@ export default function LegoAssembly1(): React.JSX.Element {
 
 			<h4 className="margin-y-40">Hướng 2: Thay đổi cấu trúc bao gói (Giữ nguyên vị trí khung, thay đổi hình thái dữ liệu)</h4>
 					
-			<p className="text-indent-whole"><strong>Sử dụng khối</strong> [<strong>Động Cụm</strong>][<strong>Verb Phrase</strong>] <strong>đóng vai trò</strong> [<strong>DANH</strong>]:</p>
+			<p className="text-indent-whole"><strong>Sử dụng khối</strong> [<strong>VERB PHRASE</strong>][<strong>ĐỘNG CỤM</strong>] <strong>đóng vai trò</strong> [<strong>DANH</strong>]:</p>
 			
 				<ul className="list-square">
 			

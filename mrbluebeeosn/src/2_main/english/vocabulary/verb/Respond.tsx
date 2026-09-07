@@ -138,7 +138,7 @@ export default function Respond(): React.JSX.Element {
 			<h3 className="margin-y-50 text-center">PHẦN 1: HỆ THỐNG CÁC VÍ DỤ PHÂN HỆ MÃ TIẾNG ANH MỚI</h3>
 
       
-      <h4 className="margin-y-40">1. Phân hệ [Động Cơ][Verb Base]</h4>
+      <h4 className="margin-y-40">1. Phân hệ [VERB BASE][ĐỘNG CƠ]</h4>
           
       <p className="margin-top-20 text-indent-whole"><strong>1.1</strong> <strong>Hình thành chức năng</strong> [<strong>NOUN BASE</strong>][<strong>DANH CƠ</strong>]</p>
 
@@ -188,7 +188,7 @@ export default function Respond(): React.JSX.Element {
         </ul>
 
 
-      <h4 className="margin-y-40">2. Phân hệ [Động Cụm][Verb Phrase]</h4>
+      <h4 className="margin-y-40">2. Phân hệ [VERB PHRASE][ĐỘNG CỤM]</h4>
 
       <p className="margin-top-20 text-indent-whole"><strong>2.1</strong> <strong>Hình thành chức năng</strong> [<strong>NOUN PHRASE</strong>][<strong>DANH CỤM</strong>]</p>
 

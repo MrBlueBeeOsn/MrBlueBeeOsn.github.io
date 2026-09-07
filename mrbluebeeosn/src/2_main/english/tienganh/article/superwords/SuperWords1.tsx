@@ -69,7 +69,7 @@ export default function SuperWords1(): React.JSX.Element {
 			
 					<li><strong>Chiều dọc</strong> — <strong>Các Cấp độ của Hình thái</strong>: [BASE][CƠ] → [PHRASE][CỤM] → [CLAUSE][CÂU].</li>
 			
-					<li><strong>Chiều ngang</strong> — <strong>3 Chức năng cốt lõi</strong>: [Danh][Noun] — [Tính][Adjective] — [Trạng][Adverb].</li>
+					<li><strong>Chiều ngang</strong> — <strong>3 Chức năng cốt lõi</strong>: [NOUN][DANH] — [ADjective][TÍNH] — [ADverb][TRẠNG].</li>
 			
 				</ul>
 			
@@ -130,7 +130,7 @@ export default function SuperWords1(): React.JSX.Element {
 
 			
 
-			<p className="margin-top-20">Bên cạnh đó, ngôn ngữ còn sử dụng một loại hình thái khối đặc biệt không xuất phát từ [ROOT VERB BASE][RỄ ĐỘNG CƠ], đó là [prepoSITional PHRASE][GIỚI CỤM]. Khối hình thái này chuyên đảm nhận việc sinh ra chức năng [Tính][Adjective] và [Trạng][Adverb] ở cấp độ [PHRASE][CỤM].</p>
+			<p className="margin-top-20">Bên cạnh đó, ngôn ngữ còn sử dụng một loại hình thái khối đặc biệt không xuất phát từ [ROOT VERB BASE][RỄ ĐỘNG CƠ], đó là [prepoSITional PHRASE][GIỚI CỤM]. Khối hình thái này chuyên đảm nhận việc sinh ra chức năng [ADjective][TÍNH] và [ADverb][TRẠNG] ở cấp độ [PHRASE][CỤM].</p>
 			
 			<p>Hãy nhớ hai định nghĩa nền tảng về câu:</p>
 			
@@ -683,7 +683,7 @@ export default function SuperWords1(): React.JSX.Element {
 			
 					<li>Nó thuộc về hệ thống phân loại [VERB][ĐỘNG]: [BASE][CƠ], [PHRASE][CỤM], [CLAUSE][CÂU] hay thuộc về khối [prepoSITional PHRASE][GIỚI CỤM]?</li>
 			
-					<li>Sau đó, hãy nhìn vào vị trí đứng của nó để gọi tên đúng Chức năng [Danh][Noun] — [Tính][Adjective] — [Trạng][Adverb].</li>
+					<li>Sau đó, hãy nhìn vào vị trí đứng của nó để gọi tên đúng Chức năng [NOUN][DANH] — [ADjective][TÍNH] — [ADverb][TRẠNG].</li>
 			
 				</ul>
 			

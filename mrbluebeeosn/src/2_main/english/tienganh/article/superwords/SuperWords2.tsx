@@ -70,7 +70,7 @@ export default function SuperWords2(): React.JSX.Element {
 			
 			<p className="margin-top-20">Mỗi đơn vị khi xuất hiện đều có một <strong>Hình thái</strong> (hình dáng bên ngoài) và một <strong>Chức năng</strong> (việc nó làm).</p>
 
-			<p>Hình thái thường bắt nguồn từ [<strong>Động Cơ</strong>][<strong>Verb Base</strong>], [<strong>Động Cụm</strong>][<strong>Verb Phrase</strong>] hoặc <strong>Liên Câu</strong> [<strong>Conjunctional Base</strong>].</p>
+			<p>Hình thái thường bắt nguồn từ [<strong>VERB BASE</strong>][<strong>ĐỘNG CƠ</strong>], [<strong>VERB PHRASE</strong>][<strong>ĐỘNG CỤM</strong>] hoặc <strong>Liên Câu</strong> [<strong>Conjunctional Base</strong>].</p>
 
 			<p>Sau khi xác định Hình thái, bạn nhìn vào vị trí của nó trong câu lớn để biết Chức năng: <strong>Danh</strong>, <strong>Tính</strong> hay <strong>Trạng</strong>.</p>
 
@@ -84,7 +84,7 @@ export default function SuperWords2(): React.JSX.Element {
 
 			<h3 className="margin-y-50 text-center">I. Cấp độ CƠ – một đơn vị duy nhất</h3>
 
-			<p>Một [<strong>Động Cơ</strong>][<strong>Verb Base</strong>] có thể làm ba việc.</p>
+			<p>Một [<strong>VERB BASE</strong>][<strong>ĐỘNG CƠ</strong>] có thể làm ba việc.</p>
 
 
 			<h4 className="margin-y-40">1. [NOUN BASE][DANH CƠ]</h4>
@@ -185,7 +185,7 @@ export default function SuperWords2(): React.JSX.Element {
 
 			<h3 className="margin-y-50 text-center">II. Cấp độ CỤM – một khối, chưa có cặp chủ‑vị</h3>
 
-			<p>Một [<strong>Động Cụm</strong>][<strong>Verb Phrase</strong>] (Động Cơ + các thành phần đi kèm) có thể mang ba chức năng.</p>
+			<p>Một [<strong>VERB PHRASE</strong>][<strong>ĐỘNG CỤM</strong>] (Động Cơ + các thành phần đi kèm) có thể mang ba chức năng.</p>
 
 
 			<h4 className="margin-y-40">4. [NOUN PHRASE][DANH CỤM]</h4>

@@ -78,11 +78,11 @@ export default function SV1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>[<strong>Danh</strong>][<strong>Noun</strong>]: Đóng vai trò thực thể ([NOUN SUBject][DANH CHỦ] điều phối hoặc [NOUN OBject][DANH NHẬN] tiếp nhận).</li>
+					<li>[<strong>NOUN</strong>][<strong>DANH</strong>]: Đóng vai trò thực thể ([NOUN SUBject][DANH CHỦ] điều phối hoặc [NOUN OBject][DANH NHẬN] tiếp nhận).</li>
 			
-					<li>[<strong>Tính</strong>][<strong>Adjective</strong>]: Đóng vai trò mô tả đặc điểm, tính chất cho thực thể.</li>
+					<li>[<strong>ADjective</strong>][<strong>TÍNH</strong>]: Đóng vai trò mô tả đặc điểm, tính chất cho thực thể.</li>
 
-					<li>[<strong>Trạng</strong>][<strong>Adverb</strong>]: Đóng vai trò bổ nghĩa hoàn cảnh (thời gian, địa điểm, nguyên nhân, cách thức, mục đích).</li>
+					<li>[<strong>ADverb</strong>][<strong>TRẠNG</strong>]: Đóng vai trò bổ nghĩa hoàn cảnh (thời gian, địa điểm, nguyên nhân, cách thức, mục đích).</li>
 			
 				</ul>
 
@@ -94,9 +94,9 @@ export default function SV1(): React.JSX.Element {
 
 			<p>Với hệ thống mới, quy trình tư duy được thực hiện một cách tự nhiên và khoa học: Người học nhìn thấy Hình thái trước, sau đó dựa vào vị trí để giải mã ra Chức năng.</p>
 
-			<p>Hành động trong câu chính là các dạng [Động Cơ][Verb Base] xung lực vận hành, song hành cùng cấu trúc liên kết không hành động là [prepoSITional BASE][GIỚI CƠ] hoặc [COMplex prepoSITional BASE][PHỨC GIỚI CƠ].</p>
+			<p>Hành động trong câu chính là các dạng [VERB BASE][ĐỘNG CƠ] xung lực vận hành, song hành cùng cấu trúc liên kết không hành động là [prepoSITional BASE][GIỚI CƠ] hoặc [COMplex prepoSITional BASE][PHỨC GIỚI CƠ].</p>
 
-			<p>Để giải mã chính xác bản chất cấu trúc, trục hình thái [Động Cơ][Verb Base] được chia tách hệ thống thành 4 nhóm cốt lõi và phân hệ 16 mục sau:</p>
+			<p>Để giải mã chính xác bản chất cấu trúc, trục hình thái [VERB BASE][ĐỘNG CƠ] được chia tách hệ thống thành 4 nhóm cốt lõi và phân hệ 16 mục sau:</p>
 			
 
 			<h4 className="margin-y-40">4 Nhóm Động Từ Cốt Lõi</h4>
@@ -228,7 +228,7 @@ export default function SV1(): React.JSX.Element {
 			<p>Để bóc tách các tầng hình thái lồng ghép vào nhau như những chiếc hộp gỗ, người học áp dụng quy ước đóng gói hình khối bằng dấu vuông [] bao quanh:</p>
 
 
-			<h4 className="margin-y-40">1. Hình thái [Động Cơ][Verb Base]</h4>
+			<h4 className="margin-y-40">1. Hình thái [VERB BASE][ĐỘNG CƠ]</h4>
 
 			<p className="text-indent-whole">Đơn vị hành động nhỏ nhất gồm 1 yếu tố gốc.</p>
 
@@ -279,7 +279,7 @@ export default function SV1(): React.JSX.Element {
 			
 
 
-			<h4 className="margin-y-40">2. Hình thái [Động Cụm][Verb Phrase]</h4>
+			<h4 className="margin-y-40">2. Hình thái [VERB PHRASE][ĐỘNG CỤM]</h4>
 
 			<p className="text-indent-whole">Đơn vị hành động chứa nhiều yếu tố kết hợp, cấu trúc không chứa hệ trục [NOUN SUBject][DANH CHỦ] - [TENSE-BARE VERB BASE][THỜI-THUẦN ĐỘNG CƠ]. Khi các dạng [BASE][CƠ] kết hợp với thành phần phụ trợ sau nó, chúng dán nhãn thành dạng cụm tương ứng:</p>
 
@@ -517,7 +517,7 @@ export default function SV1(): React.JSX.Element {
 
 			{/* VIII.  */}
 
-			<h3 className="margin-y-50 text-center">VIII. Khối [Tầng Cấu Trúc][Tiered Structures] Cao Cấp</h3>
+			<h3 className="margin-y-50 text-center">VIII. Khối [TIERed STRUCtures][TẦNG ĐA TRÚC] Cao Cấp</h3>
 
 			<p>Khi các hình khối lồng ghép vào nhau theo nhiều lớp như những chiếc hộp gỗ, hệ thống quy ước dấu sẽ giúp bóc tách chính xác mối quan hệ phân tầng về cả Hình thái lẫn Chức năng.</p>
 
@@ -627,7 +627,7 @@ export default function SV1(): React.JSX.Element {
 
 			<p>Khi tư duy hình khối [BASE][CƠ] - [PHRASE][CỤM] - [CLAUSE][CÂU] đã trở thành bản năng, kỹ thuật viết lại câu (paraphrasing) không còn là việc đổi yếu tố cấu trúc một cách khiên cưỡng. Việc làm mới câu văn giờ đây thực chất là một bài toán hình học sắp xếp module: Thay đổi Cấp Độ cấu trúc nhưng giữ nguyên vẹn Chức Năng ở cùng một vị trí neo.</p>
 
-			<p>Chỉ cần xác định vị trí đó đang đảm nhận chức năng gì thông qua việc phối hợp cùng ma trận [Danh] - [Tính] - [Trạng], người học có toàn quyền nhấc một khối [BASE][CƠ] ra và đặt một khối [PHRASE][CỤM] như [Động Cụm][Verb Phrase], [prepoSITional PHRASE][GIỚI CỤM] hoặc một khối [CLAUSE][CÂU] như [conJUNCtional CLAUSE][LIÊN CÂU] vào để thế chỗ. Cấu trúc tổng thể của [Câu Lớn][Sentence] hoàn toàn không bị phá vỡ hay xáo trộn.</p>
+			<p>Chỉ cần xác định vị trí đó đang đảm nhận chức năng gì thông qua việc phối hợp cùng ma trận [Danh] - [Tính] - [Trạng], người học có toàn quyền nhấc một khối [BASE][CƠ] ra và đặt một khối [PHRASE][CỤM] như [VERB PHRASE][ĐỘNG CỤM], [prepoSITional PHRASE][GIỚI CỤM] hoặc một khối [CLAUSE][CÂU] như [conJUNCtional CLAUSE][LIÊN CÂU] vào để thế chỗ. Cấu trúc tổng thể của [Câu Lớn][Sentence] hoàn toàn không bị phá vỡ hay xáo trộn.</p>
 
 			<p>Kỹ thuật dịch chuyển khối cùng chức năng này giúp người học tự do thực hiện việc chuyển đổi mượt mà giữa [VERB][ĐỘNG], [prepoSITion][GIỚI] và [CLAUSE][CÂU] theo ý muốn. Hãy xem cách chúng ta biến đổi linh hoạt một thông điệp thông qua việc hoán đổi các khối cấu trúc cùng giữ Chức năng [Trạng]:</p>
 
@@ -646,7 +646,7 @@ export default function SV1(): React.JSX.Element {
 				</ul>
 
 
-			<p className="margin-top-20 text-indent-whole"><strong>Cấp độ</strong> [<strong>PHRASE</strong>][<strong>CỤM</strong>] - [<strong>Động Cụm</strong>][<strong>Verb Phrase</strong>]:</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Cấp độ</strong> [<strong>PHRASE</strong>][<strong>CỤM</strong>] - [<strong>VERB PHRASE</strong>][<strong>ĐỘNG CỤM</strong>]:</p>
 			
 				<ul className="list-square">
 			
