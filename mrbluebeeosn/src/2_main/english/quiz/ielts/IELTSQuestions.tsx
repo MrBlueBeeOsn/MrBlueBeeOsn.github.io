@@ -106,36 +106,36 @@ export default function IELTSQuestions(): React.JSX.Element {
 		},
 		{
 			id: 8,
-			question: "What is the main difference between the Academic module and the General Training module of the IELTS test?",
+			question: "WHAT is the MAIN DIFFERence between the acaDEMic MODule and the GENERal TRAINing MODule of the Ielts TEST?",
 			options: [
-				"The Listening and Speaking tests are different.",
-				"The Reading and Writing tests have different content.",
-				"Only the General Training module is accepted by universities.",
-				"The scoring criteria are completely different."
+				"the LIStening and SPEAKing TESTS are DIFFERent.",
+				"the READing and WRIting TESTS have DIFFERent CONtent.",
+				"Only the GENERal TRAINing MODule is acCEPTed by uniVERsities.",
+				"the SCORing criTEria are comPLETEly DIFFERent."
 			],
 			correctAnswer: 1,
-			explanation: "The Listening and Speaking tests are the same for both modules. However, the Reading and Writing tests differ in content and task requirements to reflect the different purposes (Academic for university/professional registration; General Training for migration/work/secondary education)."
+			explanation: "The Listening and Speaking tests are the same for both modules. However, the Reading and Writing tests differ in content and task requirements to reflect the different purposes (acaDEMic for uniVERsity / proFESsional regisTRAtion; GENERal TRAINing for miGRAtion / WORK / SECondary eduCAtion)."
 		},
 		{
 			id: 9,
-			question: "Which band score is generally considered 'Competent User' in the IELTS test?",
+			question: "WHICH BAND SCORE is GENERally conSIDered 'COMpetent User' in the Ielts TEST?",
 			options: [
-				"Band 5",
-				"Band 6",
-				"Band 7",
-				"Band 8"
+				"BAND 5",
+				"BAND 6",
+				"BAND 7",
+				"BAND 8"
 			],
 			correctAnswer: 1,
-			explanation: "A Band 6 is classified as a Competent User, meaning the candidate generally has an effective command of the language despite some inaccuracies, inappropriacies, and misunderstandings, and can use and understand fairly complex language, particularly in familiar situations. (Band 7 is 'Good User')."
+			explanation: "A Band 6 is classified as a Competent User, meaning the candidate generally has an effective command of the language despite some inaccuracies, inappropriacies, and misunderstandings, and can use and understand fairly complex language, particularly in familiar situations. (BAND 7 is 'GOOD User')."
 		},
 		{
 			id: 10,
-			question: "The first part of the IELTS Listening test usually consists of:",
+			question: "the FIRST PART of the Ielts LIStening TEST Usually conSISTS of:",
 			options: [
-				"An academic lecture.",
-				"A conversation between two people in a social or everyday context.",
-				"A news report or announcement.",
-				"A monologue about a research project."
+				"an acaDEMic LECture.",
+				"a converSAtion between TWO PEOple in a SOcial or EVERyday CONtext.",
+				"a NEWS rePORT or anNOUNCEment.",
+				"a MONologue about a REsearch PROJect."
 			],
 			correctAnswer: 1,
 			explanation: "Listening Section 1 is typically a dialogue (a conversation between two people) set in a social context, such as booking a hotel, inquiring about a service, or opening a bank account."
