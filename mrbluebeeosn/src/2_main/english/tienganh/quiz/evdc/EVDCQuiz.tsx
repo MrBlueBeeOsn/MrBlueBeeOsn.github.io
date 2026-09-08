@@ -34,7 +34,7 @@ export default function EVDCQuiz(): React.JSX.Element {
 		},
 		{
 			id: 2,
-			question: "the BOOK _______ you LENT me YESterday was absoLUTEly FAScinating.",
+			question: "the BOOK _______ you LENT me YESterday was ABsolutely FAScinating.",
 			options: [
 				"who",
 				"whom",

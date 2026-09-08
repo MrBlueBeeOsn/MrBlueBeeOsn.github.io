@@ -5,9 +5,9 @@ import EyeIcon from '@/components/view/EyeIcon';
 import ViewCounter from '@/components/view/ViewCounter';
 import LikeButton from '@/components/like/LikeButton';
 
-export default function absoLUTEly2(): React.JSX.Element {
+export default function ABsolutely2(): React.JSX.Element {
 
-  const postId = "absoLUTEly2";
+  const postId = "ABsolutely2";
 
   return (<>
 
@@ -17,18 +17,18 @@ export default function absoLUTEly2(): React.JSX.Element {
     
       <h4><HashLink smooth to="/vocabulary#adverbs-chac-chan"><mark className="highlight-tertiary-padding-4-8">ADverbs: chắc chắn</mark></HashLink></h4>
       
-      <h1 className="margin-y-50 text-center">absoLUTEly
+      <h1 className="margin-y-50 text-center">ABsolutely
         <sup>
-          <Link to="/vocabulary/absoLUTEly-1">&nbsp;1&nbsp;</Link>
+          <Link to="/vocabulary/ABsolutely-1">&nbsp;1&nbsp;</Link>
         </sup>
         <sup>
-          <Link to="/vocabulary/absoLUTEly-2">&nbsp;2&nbsp;</Link>
+          <Link to="/vocabulary/ABsolutely-2">&nbsp;2&nbsp;</Link>
         </sup>
       </h1>
 
       {/* This is the content of Vocabulary Term. */}
 
-      <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>absoLUTEly</strong>" (hoàn toàn, tuyệt đối) và các cụm từ hay đi kèm nhé.</p>
+      <p>Tuyệt vời! Chúng ta cùng khám phá sâu hơn về từ "<strong>ABsolutely</strong>" (hoàn toàn, tuyệt đối) và các cụm từ hay đi kèm nhé.</p>
 
       <div className="text-border1 padding-10 highlight-238-padding-4-8 bee-container">
 
@@ -38,7 +38,7 @@ export default function absoLUTEly2(): React.JSX.Element {
             
             <span className="highlight-255-padding-3-6">
               
-              [absoLUTEly][<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">ab sơ LÜTE ly</Link>] /ˌæb.səˈluːt.li/ ••⬤• (4x)
+              [ABsolutely][<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">ab sơ LÜTE ly</Link>] /ˌæb.səˈluːt.li/ ••⬤• (4x)
               
             </span>
               
@@ -56,34 +56,34 @@ export default function absoLUTEly2(): React.JSX.Element {
 
       <ol className="margin-top-30 padding-left-30">
 
-        <li value="1">i am absoLUTEly CERtain that he will WIN the RACE.</li>
+        <li value="1">i am ABsolutely CERtain that he will WIN the RACE.</li>
         <li className="list-none margin-bottom-20">Tôi hoàn toàn chắc chắn rằng anh ấy sẽ thắng cuộc đua.</li>
 
-        <li value="2">it is absoLUTEly NECessary to HAVE a PASSport to TRAVel abROAD.</li>
+        <li value="2">it is ABsolutely NECessary to HAVE a PASSport to TRAVel abROAD.</li>
         <li className="list-none margin-bottom-20">Cần phải có hộ chiếu để đi du lịch nước ngoài là điều hoàn toàn cần thiết.</li>
 
-        <li value="3">you are absoLUTEly RIGHT about that.</li>
+        <li value="3">you are ABsolutely RIGHT about that.</li>
         <li className="list-none margin-bottom-20">Bạn hoàn toàn đúng về điều đó.</li>
 
-        <li value="4">i absoLUTEly LOVE CHOCOLate ICE CREAM.</li>
+        <li value="4">i ABsolutely LOVE CHOCOLate ICE CREAM.</li>
         <li className="list-none margin-bottom-20">Tôi rất thích kem sô cô la.</li>
 
-        <li value="5">i absoLUTEly HATE SPIders.</li>
+        <li value="5">i ABsolutely HATE SPIders.</li>
         <li className="list-none margin-bottom-20">Tôi ghét rắn độc.</li>
 
-        <li value="6">he SUNset was absoLUTEly BEAUtiful.</li>
+        <li value="6">he SUNset was ABsolutely BEAUtiful.</li>
         <li className="list-none margin-bottom-20">Hoàng hôn thật đẹp.</li>
 
-        <li value="7">the CAKE was absoLUTEly PERfect.</li>
+        <li value="7">the CAKE was ABsolutely PERfect.</li>
         <li className="list-none margin-bottom-20">Chiếc bánh thật hoàn hảo.</li>
 
-        <li value="8">what he SAID was absoLUTEly TRUE.</li>
+        <li value="8">what he SAID was ABsolutely TRUE.</li>
         <li className="list-none margin-bottom-20">Những gì anh ấy nói hoàn toàn đúng sự thật.</li>
 
-        <li value="9">i am absoLUTEly conVINCED that she is INnocent.</li>
+        <li value="9">i am ABsolutely conVINCED that she is INnocent.</li>
         <li className="list-none margin-bottom-20">Tôi hoàn toàn tin rằng cô ấy vô tội.</li>
 
-        <li value="10"><strong>af</strong>ter the MARathon, i was absoLUTEly exHAUSTed.</li>
+        <li value="10"><strong>af</strong>ter the MARathon, i was ABsolutely exHAUSTed.</li>
         <li className="list-none margin-bottom-20">Sau cuộc đua marathon, tôi mệt mỏi rã rời.</li>
 
       </ol>
@@ -100,7 +100,7 @@ export default function absoLUTEly2(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>"<strong>absoLUTEly</strong>" thường được đặt trước Tính Cơ hoặc Trạng Cơ để bổ nghĩa.</li>
+          <li>"<strong>ABsolutely</strong>" thường được đặt trước Tính Cơ hoặc Trạng Cơ để bổ nghĩa.</li>
 
           <li className="margin-bottom-20">Từ này có thể được sử dụng trong cả văn nói và văn viết.</li>
 

@@ -99,7 +99,7 @@ export default function YES1(): React.JSX.Element {
           <li>can i HELP you? - <Link to="/vocabulary/CERtainly-1">CERtainly</Link>.</li>
           <li className="margin-bottom-20 list-none">Tôi có thể giúp gì cho bạn? - Chắc chắn rồi.</li>
 
-          <li>is THAT TRUE? - <Link to="/vocabulary/absoLUTEly-1">absoLUTEly</Link>.</li>
+          <li>is THAT TRUE? - <Link to="/vocabulary/ABsolutely-1">ABsolutely</Link>.</li>
           <li className="list-none">Điều đó có đúng không? - Hoàn toàn đúng.</li>
 
         </ul>
@@ -173,7 +173,7 @@ export default function YES1(): React.JSX.Element {
           <li>YES, PLEASE.</li>
           <li className="margin-bottom-20 list-none">Vâng, làm ơn.</li>
 
-          <li><Link to="/vocabulary/absoLUTEly-1">absoLUTEly</Link>!</li>
+          <li><Link to="/vocabulary/ABsolutely-1">ABsolutely</Link>!</li>
           <li className="list-none">Hoàn toàn!</li>
 
         </ul>

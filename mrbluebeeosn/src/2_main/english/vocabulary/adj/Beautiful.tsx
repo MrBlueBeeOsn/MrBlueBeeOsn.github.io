@@ -109,7 +109,7 @@ export default function BEAUtiful(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li>the BRIDE LOOKED absoLUTEly [GORgeous] in her LACE GOWN.</li>
+          <li>the BRIDE LOOKED ABsolutely [GORgeous] in her LACE GOWN.</li>
           <li className="list-none">Cô dâu trông hoàn toàn rực rỡ trong chiếc váy ren.</li>
 
         </ul>
