@@ -51,7 +51,7 @@ export default function AdverbClausesQuiz(): React.JSX.Element {
 				"providing that",
 				"unless",
 				"if only",
-				"as soon as"
+				"as SOON as"
 			],
 			correctAnswer: 1,
 			explanation: "\"unless\" means \"if... not,\" introducing an adverb clause of condition. The sentence means the company will launch the product if there are no unexpected delays. \"providing that\" means \"if,\" which would create an illogical statement here."

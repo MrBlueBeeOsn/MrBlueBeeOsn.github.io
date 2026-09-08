@@ -70,19 +70,19 @@ export default function DCQuiz(): React.JSX.Element {
 		},
 		{
 			id: 5,
-			question: "Which of the following sentences contains an adverbial clause of time?",
+			question: "WHICH of the FOLlowing SENtences conTAINS an adVERbial CLAUSE of TIME?",
 			options: [
-				"I will call you as soon as I arrive at the station.",
-				"The house where I grew up has been demolished.",
-				"She acts as if she knows everything.",
-				"Whichever path you choose will lead to adventure."
+				"i will CALL you as SOON as i arRIVE at the STAtion.",
+				"the HOUSE where i greW UP has been deMOLished.",
+				"she ACTS as if she KNOWS EVERything.",
+				"whichever PATH you CHOOSE will LEAD to adVENTure."
 			],
 			correctAnswer: 0,
-			explanation: "\"as soon as I arrive at the station\" is an adverbial clause of time because it answers the question \"when\" the main action (calling) will happen."
+			explanation: "\"as SOON as I arrive at the station\" is an adverbial clause of time because it answers the question \"when\" the main action (calling) will happen."
 		},
 		{
 			id: 6,
-			question: "Complete the sentence with the correct relative pronoun: \"The scientist ________ discovered the new element was awarded a Nobel Prize.\"",
+			question: "comPLETE the SENtence with the corRECT RELative PROnoun: \"the SCIentist ________ disCOVered the NEW ELement was aWARDed a NObel PRIZE.\"",
 			options: [
 				"which",
 				"whom",
@@ -90,55 +90,55 @@ export default function DCQuiz(): React.JSX.Element {
 				"who"
 			],
 			correctAnswer: 3,
-			explanation: "\"Who\" is the correct relative pronoun here because it refers to a person (\"the scientist\") and functions as the subject of the dependent clause \"discovered the new element.\""
+			explanation: "\"who\" is the correct relative pronoun here because it refers to a person (\"the SCIentist\") and functions as the subject of the dependent clause \"disCOVered the NEW ELement.\""
 		},
 		{
 			id: 7,
-			question: "Identify the function of the noun clause in this sentence: \"The teacher announced that the exam was postponed.\"",
+			question: "iDENtify the FUNCtion of the NOUN CLAUSE in this SENtence: \"the TEACHer anNOUNCED that the exAM was postPONED.\"",
 			options: [
-				"Subject",
-				"Direct object",
-				"Subject complement",
-				"Appositive"
+				"SUBject",
+				"diRECT OBject",
+				"SUBject COMplement",
+				"apPOSitive"
 			],
 			correctAnswer: 1,
-			explanation: "The noun clause \"that the exam was postponed\" answers the question \"announced what?\" making it the direct object of the transitive verb \"announced.\""
+			explanation: "The noun clause \"that the exAM was postPONED\" answers the question \"anNOUNCED WHAT?\" making it the direct object of the transitive verb \"anNOUNCED.\""
 		},
 		{
 			id: 8,
-			question: "Which of the following is a fragment (an incomplete sentence) because it only contains a dependent clause?",
+			question: "WHICH of the FOLlowing is a FRAGment (an incomPLETE SENtence) because it Only conTAINS a dePENdent CLAUSE?",
 			options: [
-				"Walking down the street, I saw a cat.",
-				"Since we forgot the map at home.",
-				"The storm passed quickly, but the power was out.",
-				"Run as fast as you can."
+				"WALKing down the street, i SAW a cat.",
+				"since we forGOT the MAP at HOME.",
+				"the STORM PASSED QUICKly, but the POWer was OUT.",
+				"RUN as FAST as you CAN."
 			],
 			correctAnswer: 1,
-			explanation: "\"Since we forgot the map at home\" begins with the subordinating conjunction \"since\" and lacks an independent clause to complete the thought, making it a sentence fragment."
+			explanation: "\"since we forGOT the MAP at HOME\" begins with the subordinating conjunction \"since\" and lacks an independent clause to complete the thought, making it a sentence fragment."
 		},
 		{
 			id: 9,
-			question: "What is the dependent clause in this sentence? \"We can eat dinner whenever you are ready.\"",
+			question: "WHAT is the dePENdent CLAUSE in this SENtence? \"we can EAT DINner whenever you are READy.\"",
 			options: [
-				"We can eat dinner",
-				"whenever you are ready",
-				"you are ready",
-				"We can eat"
+				"we can EAT DINner",
+				"whenever you are READy",
+				"you are READy",
+				"we can EAT"
 			],
 			correctAnswer: 1,
-			explanation: "\"whenever you are ready\" is an adverbial dependent clause introduced by the subordinating conjunction \"whenever.\""
+			explanation: "\"whenever you are READy\" is an adverbial dependent clause introduced by the subordinating conjunction \"whenever.\""
 		},
 		{
 			id: 10,
-			question: "Choose the sentence that correctly uses a comma after an introductory dependent clause:",
+			question: "CHOOSE the SENtence that corRECTly Uses a COMma after an introDUCtory dePENdent CLAUSE:",
 			options: [
-				"If you see Mary tell her, to call me.",
-				"If you see Mary, tell her to call me.",
-				"If, you see Mary tell her to call me.",
-				"If you see Mary tell her to call me."
+				"if you SEE MARy TELL her to CALL me.",
+				"if you SEE MARy, TELL her to CALL me.",
+				"if, you SEE MARy TELL her to CALL me.",
+				"if you SEE MARy TELL her to CALL me."
 			],
 			correctAnswer: 1,
-			explanation: "When an adverbial dependent clause introduces a sentence (comes before the independent clause), a comma must be placed immediately after the dependent clause to separate it from the main clause."
+			explanation: "When an adverbial dependent clause introduces a sentence (COMES before the indePENdent CLAUSE), a comma must be placed immediately after the dependent clause to separate it from the main clause."
 		}
 	];
 
