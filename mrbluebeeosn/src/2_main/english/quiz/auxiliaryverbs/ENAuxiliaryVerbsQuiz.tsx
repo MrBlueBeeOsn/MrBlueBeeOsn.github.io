@@ -22,7 +22,7 @@ export default function ENAuxiliaryVerbsQuiz(): React.JSX.Element {
 	const questions: Question[] = [
 		{
 			id: 1,
-			question: "She ___ not like to eat spicy food for dinner.",
+			question: "she ________ NOT LIKE to EAT SPIcy FOOD for DINner.",
 			options: [
 				"do",
 				"does",
@@ -30,23 +30,23 @@ export default function ENAuxiliaryVerbsQuiz(): React.JSX.Element {
 				"is"
 			],
 			correctAnswer: 1,
-			explanation: "The subject \"She\" is third-person singular, so the auxiliary verb \"does\" is used in the present simple negative form."
+			explanation: "The subject \"she\" is third-person singular, so the auxiliary verb \"does\" is used in the present simple negative form."
 		},
 		{
 			id: 2,
-			question: "___ you see the solar eclipse that happened last night?",
+			question: "________ you SEE the SOlar eCLIPSE that HAPpened LAST NIGHT?",
 			options: [
-				"Do",
-				"Done",
-				"Did",
-				"Have"
+				"do",
+				"done",
+				"did",
+				"have"
 			],
 			correctAnswer: 2,
-			explanation: "\"Did\" is used as the auxiliary verb to form questions in the past simple tense."
+			explanation: "\"did\" is used as the auxiliary verb to form questions in the past simple tense."
 		},
 		{
 			id: 3,
-			question: "I ___ been working on this accounting report for three hours.",
+			question: "i ________ been WORKing on this acCOUNTing rePORT for THREE HOURS.",
 			options: [
 				"am",
 				"has",
@@ -54,11 +54,11 @@ export default function ENAuxiliaryVerbsQuiz(): React.JSX.Element {
 				"was"
 			],
 			correctAnswer: 2,
-			explanation: "This sentence is in the present perfect continuous tense (Subject + have/has + been + V-ing), and \"I\" takes the auxiliary \"have.\""
+			explanation: "This sentence is in the present perfect continuous tense (SUBject + have/has + been + V-ing), and \"i\" takes the auxiliary \"have.\""
 		},
 		{
 			id: 4,
-			question: "They ___ planning to launch the new software next month.",
+			question: "they ________ PLANning to LAUNCH the NEW SOFTware NEXT MONTH.",
 			options: [
 				"are",
 				"is",
@@ -66,11 +66,11 @@ export default function ENAuxiliaryVerbsQuiz(): React.JSX.Element {
 				"been"
 			],
 			correctAnswer: 0,
-			explanation: "The sentence uses the present continuous tense for a future arrangement. \"They\" is a plural subject, requiring the auxiliary \"are.\""
+			explanation: "The sentence uses the present continuous tense for a future arrangement. \"they\" is a plural subject, requiring the auxiliary \"are.\""
 		},
 		{
 			id: 5,
-			question: "The keys ___ found by the janitor under the desk.",
+			question: "the KEYS ________ FOUND by the JANitor under the DESK.",
 			options: [
 				"did",
 				"were",
@@ -78,23 +78,23 @@ export default function ENAuxiliaryVerbsQuiz(): React.JSX.Element {
 				"be"
 			],
 			correctAnswer: 1,
-			explanation: "This is a passive voice sentence in the past simple (be + past participle). Since \"keys\" is plural, \"were\" is the correct auxiliary."
+			explanation: "This is a passive voice sentence in the past simple (be + PAST PARTiciple). Since \"KEYS\" is plural, \"were\" is the correct auxiliary."
 		},
 		{
 			id: 6,
-			question: "___ she ever traveled to Europe before?",
+			question: "________ she EVer TRAVelled to EURope beFORE?",
 			options: [
-				"Does",
-				"Is",
-				"Has",
-				"Did"
+				"does",
+				"is",
+				"has",
+				"did"
 			],
 			correctAnswer: 2,
-			explanation: "To form a question in the present perfect tense (Have/Has + subject + past participle), we use \"Has\" for the third-person singular \"she.\""
+			explanation: "To form a question in the present perfect tense (have/has + SUBject + PAST PARTiciple), we use \"has\" for the third-person singular \"she.\""
 		},
 		{
 			id: 7,
-			question: "You ___ not have to finish the task today; tomorrow is fine.",
+			question: "you ________ NOT have to FINish the TASK toDAY; toMORrow is FINE.",
 			options: [
 				"does",
 				"are",
@@ -102,11 +102,11 @@ export default function ENAuxiliaryVerbsQuiz(): React.JSX.Element {
 				"did"
 			],
 			correctAnswer: 2,
-			explanation: "In the present simple negative, \"do not\" (don't) is used with the subject \"You.\""
+			explanation: "In the present simple negative, \"do NOT\" (DON'T) is used with the subject \"you.\""
 		},
 		{
 			id: 8,
-			question: "What ___ you doing when the power went out?",
+			question: "WHAT ________ you DOING when the POWer wenT OUT?",
 			options: [
 				"was",
 				"were",
@@ -114,11 +114,11 @@ export default function ENAuxiliaryVerbsQuiz(): React.JSX.Element {
 				"are"
 			],
 			correctAnswer: 1,
-			explanation: "This is the past continuous tense (was/were + V-ing) used for an action in progress in the past. \"You\" always takes \"were.\""
+			explanation: "This is the past continuous tense (was/were + V-ing) used for an action in progress in the past. \"you\" always takes \"were.\""
 		},
 		{
 			id: 9,
-			question: "He ___ just finished his CPA exam.",
+			question: "he ________ JUST FINished his CPA exAM.",
 			options: [
 				"is",
 				"does",
@@ -126,11 +126,11 @@ export default function ENAuxiliaryVerbsQuiz(): React.JSX.Element {
 				"was"
 			],
 			correctAnswer: 2,
-			explanation: "The word \"just\" indicates the present perfect tense. \"He\" is third-person singular, so it requires \"has.\""
+			explanation: "The word \"JUST\" indicates the present perfect tense. \"he\" is third-person singular, so it requires \"has.\""
 		},
 		{
 			id: 10,
-			question: "We ___ going to attend the seminar in Ho Chi Minh City.",
+			question: "we ________ GOING to atTEND the SEMinar in vietNAM",
 			options: [
 				"will",
 				"are",
@@ -138,7 +138,7 @@ export default function ENAuxiliaryVerbsQuiz(): React.JSX.Element {
 				"have"
 			],
 			correctAnswer: 1,
-			explanation: "The structure \"be + going to\" is used to express future intentions. \"We\" requires the auxiliary \"are.\""
+			explanation: "The structure \"be + GOING to\" is used to express future intentions. \"we\" requires the auxiliary \"are.\""
 		}
 	];
 

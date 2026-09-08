@@ -38,7 +38,7 @@ export default function ABsolutely2(): React.JSX.Element {
             
             <span className="highlight-255-padding-3-6">
               
-              [ABsolutely][<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">ab sơ LÜTE ly</Link>] /ˌæb.səˈluːt.li/ ••⬤• (4x)
+              [ABsolutely][<Link to="/tieng-anh/he-thong-7-dau-phu-phien-am-tieng-anh-1">ab sơ LÜTE ly</Link>] /ˈæb·səˌlut·li/ ⬤••• (4x)
               
             </span>
               
