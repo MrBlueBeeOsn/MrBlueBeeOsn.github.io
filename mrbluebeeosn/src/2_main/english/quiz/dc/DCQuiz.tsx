@@ -22,31 +22,31 @@ export default function DCQuiz(): React.JSX.Element {
 	const questions: Question[] = [
 		{
 			id: 1,
-			question: "Identify the dependent clause in the following sentence: \"Although it was raining, we decided to go for a walk in the park.\"",
+			question: "iDENtify the dePENDent CLAUSE in the FOLlowing SENtence: \"although it was RAIning, we deCIded to GO for a WALK in the PARK.\"",
 			options: [
-				"we decided to go for a walk",
-				"Although it was raining",
-				"in the park",
-				"we decided to go"
+				"we deCIded to GO for a WALK",
+				"although it was RAIning",
+				"in the PARK",
+				"we deCIded to GO"
 			],
 			correctAnswer: 1,
-			explanation: "\"Although it was raining\" is a dependent clause because it begins with the subordinating conjunction \"although\" and cannot stand alone as a complete sentence."
+			explanation: "\"although it was RAIning\" is a dependent clause because it begins with the subordinating conjunction \"although\" and cannot stand alone as a complete sentence."
 		},
 		{
 			id: 2,
-			question: "What type of dependent clause is underlined in this sentence? \"The book that you lent me was absolutely fascinating.\"",
+			question: "WHAT TYPE of dePENDent CLAUSE is UNderlined in this SENtence? \"the BOOK that you LENT me was ABsolutely FAScinating.\"",
 			options: [
-				"Adverbial clause",
-				"Noun clause",
-				"Adjective (Relative) clause",
-				"Coordinate clause"
+				"adVERbial CLAUSE",
+				"NOUN CLAUSE",
+				"ADjective (RELative) CLAUSE",
+				"coORdinate CLAUSE"
 			],
 			correctAnswer: 2,
-			explanation: "\"that you lent me\" is an adjective (relative) clause because it modifies the noun \"book\" and provides essential details about which book is being discussed."
+			explanation: "\"that you LENT me\" is an adjective (RELative) clause because it modifies the noun \"BOOK\" and provides essential details about which book is being discussed."
 		},
 		{
 			id: 3,
-			question: "Choose the correct subordinating conjunction to complete the sentence: \"You won't pass the exam ________ you start studying harder.\"",
+			question: "CHOOSE the corRECT subORdinating conJUNCTion to comPLETE the SENtence: \"you WON'T PASS the exAM ________ you START STUDying HARDer.\"",
 			options: [
 				"because",
 				"unless",
@@ -54,19 +54,19 @@ export default function DCQuiz(): React.JSX.Element {
 				"provider that"
 			],
 			correctAnswer: 1,
-			explanation: "\"Unless\" means \"except if,\" which perfectly fits the logical condition of the sentence: you will fail except if you study harder."
+			explanation: "\"unless\" means \"exCEPT if,\" which perfectly fits the logical condition of the sentence: you will FAIL exCEPT if you STUdy HARDer."
 		},
 		{
 			id: 4,
-			question: "In the sentence, \"What you just said makes a lot of sense,\" the clause \"What you just said\" acts as:",
+			question: "in the SENtence, \"WHAT you JUST SAID MAKES a LOT of SENSE,\" the CLAUSE \"WHAT you JUST SAID\" ACTS as:",
 			options: [
-				"The object of the preposition",
-				"The subject of the sentence",
-				"An adverbial modifier",
-				"An adjective modifying \"sense\""
+				"the OBject of the prepoSITion",
+				"the SUBject of the SENtence",
+				"an adVERbial MODifier",
+				"an ADjective MODifying \"SENSE\""
 			],
 			correctAnswer: 1,
-			explanation: "\"What you just said\" is a noun clause functioning as the subject of the main verb \"makes.\""
+			explanation: "\"WHAT you JUST SAID\" is a noun clause functioning as the subject of the main verb \"MAKES.\""
 		},
 		{
 			id: 5,
@@ -78,7 +78,7 @@ export default function DCQuiz(): React.JSX.Element {
 				"whichever PATH you CHOOSE will LEAD to adVENTure."
 			],
 			correctAnswer: 0,
-			explanation: "\"as SOON as I arrive at the station\" is an adverbial clause of time because it answers the question \"when\" the main action (calling) will happen."
+			explanation: "\"as SOON as I arrive at the station\" is an adverbial clause of time because it answers the question \"when\" the main action (CALLing) will happen."
 		},
 		{
 			id: 6,
