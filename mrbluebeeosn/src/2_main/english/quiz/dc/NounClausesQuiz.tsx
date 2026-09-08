@@ -22,115 +22,115 @@ export default function NounClausesQuiz(): React.JSX.Element {
 	const questions: Question[] = [
 		{
 			id: 1,
-			question: "Whether the project succeeds or fails depends entirely on ________ targets the deadlines.",
+			question: "whether the PROJect sucCEEDS or FAILS dePENDS enTIrely on ________ TARgets the DEADlines.",
 			options: [
-				"whoever",
-				"whomever",
-				"who",
-				"whose"
+				"whoEVer",
+				"whoMEVer",
+				"WHO",
+				"WHOSE"
 			],
 			correctAnswer: 0,
-			explanation: "The noun clause \"whoever targets the deadlines\" acts as the object of the preposition \"on\". Within this noun clause, we need a subject pronoun for the verb \"targets\". \"Whoever\" is the subjective pronoun, whereas \"whomever\" is the objective pronoun."
+			explanation: "The noun clause \"whoEVer TARgets the DEADlines\" acts as the object of the preposition \"on\". Within this noun clause, we need a subject pronoun for the verb \"TARgets\". \"whoEVer\" is the subjective pronoun, whereas \"whoMEVer\" is the objective pronoun."
 		},
 		{
 			id: 2,
-			question: "The HR manager announced ________ the company would be transitioning to a hybrid work model next month.",
+			question: "the HR MANager anNOUNCED ________ the COMpany would be tranSITioning to a HYbrid WORK MODel NEXT MONTH.",
 			options: [
 				"WHAT",
 				"that",
-				"which",
+				"WHICH",
 				"if"
 			],
 			correctAnswer: 1,
-			explanation: "The verb \"announced\" requires a direct object. The clause following it is a statement that is grammatically complete on its own (the company would be transitioning...). Therefore, the conjunction \"that\" is used simply to introduce the noun clause without functioning as a grammatical element inside it."
+			explanation: "The verb \"anNOUNCED\" requires a direct object. The clause following it is a statement that is grammatically complete on its own (the COMpany would be tranSITioning...). Therefore, the conjunction \"that\" is used simply to introduce the noun clause without functioning as a grammatical element inside it."
 		},
 		{
 			id: 3,
-			question: "________ surprised the entire board of diRECtors was his sudden decision to resign.",
+			question: "________ surPRISED the enTIRE BOARD of diRECtors was his SUDden deCISion to reSIGN.",
 			options: [
 				"That",
-				"Which",
-				"What",
-				"Why"
+				"WHICH",
+				"WHAT",
+				"WHY"
 			],
 			correctAnswer: 2,
-			explanation: "The noun clause serves as the subject of the main sentence verb \"was\". Inside the noun clause, a subject is missing for the verb \"surprised\". \"What\" functions simultaneously as the connector and the subject of the noun clause (meaning \"the thing that\")."
+			explanation: "The noun clause serves as the subject of the main sentence verb \"was\". Inside the noun clause, a subject is missing for the verb \"surPRISED\". \"WHAT\" functions simultaneously as the connector and the subject of the noun clause (MEANing \"the THING that\")."
 		},
 		{
 			id: 4,
-			question: "The accountant needs to verify ________ the financial discrepancies occurred during the last fiscal quarter.",
+			question: "the acCOUNTant NEEDS to VERify ________ the fiNANcial disCREPancies ocCURRED during the LAST FIScal QUARTer.",
 			options: [
-				"why",
+				"WHY",
 				"that",
 				"WHAT",
-				"which"
+				"WHICH"
 			],
 			correctAnswer: 0,
-			explanation: "The sentence looks for the reason behind the event. \"Why\" introduces a noun clause that functions as the direct object of the verb \"verify\". While \"that\" is grammatically possible, \"why\" fits the contextual meaning of inVESTigating a discrepancy much better."
+			explanation: "The sentence looks for the reason behind the event. \"WHY\" introduces a noun clause that functions as the direct object of the verb \"VERify\". While \"that\" is grammatically possible, \"WHY\" fits the contextual meaning of inVESTigating a discrepancy much better."
 		},
 		{
 			id: 5,
-			question: "The team leaders are still debating the issue of ________ should be allocated the remaining budget.",
+			question: "the TEAM LEADers are STILL deBAting the ISsue of ________ should be ALlocated the reMAIning BUDget.",
 			options: [
-				"who",
-				"whom",
-				"whose",
-				"which"
+				"WHO",
+				"WHOM",
+				"WHOSE",
+				"WHICH"
 			],
 			correctAnswer: 0,
-			explanation: "The noun clause is the object of the preposition \"of\". Within the noun clause itself, we need a subject pronoun for the passive verb phrase \"should be allocated\". Therefore, the subjective form \"who\" is the correct choice."
+			explanation: "The noun clause is the object of the preposition \"of\". Within the noun clause itself, we need a subject pronoun for the passive verb phrase \"should be ALlocated\". Therefore, the subjective form \"who\" is the correct choice."
 		},
 		{
 			id: 6,
-			question: "The main challenge with the new software is ________ it requires extensive training for the staff.",
+			question: "the MAIN CHALlenge with the NEW SOFTware is ________ it reQUIres exTENsive TRAIning for the STAFF.",
 			options: [
 				"WHAT",
 				"because",
 				"that",
-				"how"
+				"HOW"
 			],
 			correctAnswer: 2,
-			explanation: "In this sentence, the noun clause functions as a predicate nominative (subject complement) following the linking verb \"is\". Since the clause \"it requires extensive training...\" is a complete statement of fact, the conjunction \"that\" is the correct connector."
+			explanation: "In this sentence, the noun clause functions as a predicate nominative (SUBject COMplement) following the linking verb \"is\". Since the clause \"it reQUIres exTENsive TRAIning...\" is a complete statement of fact, the conjunction \"that\" is the correct connector."
 		},
 		{
 			id: 7,
-			question: "You can invite ________ you think will benefit most from this professional development workshop.",
+			question: "you can inVITE ________ you THINK will BENefit MOST from this proFESsional deVELopment WORKshop.",
 			options: [
-				"whomever",
-				"whoever",
-				"anyone",
+				"whoMEVer",
+				"whoEVer",
+				"ANyone",
 				"WHAT"
 			],
 			correctAnswer: 1,
-			explanation: "This is a tricky structure. The parenthetically inserted phrase \"you think\" can cloud the grammar. If you temporarily remove \"you think\", you can see that the pronoun functions as the subject of the verb phrase \"will benefit\". Therefore, the subjective form \"whoever\" is required."
+			explanation: "This is a tricky structure. The parenthetically inserted phrase \"you THINK\" can cloud the grammar. If you temporarily remove \"you THINK\", you can see that the pronoun functions as the subject of the verb phrase \"will BENefit\". Therefore, the subjective form \"whoEVer\" is required."
 		},
 		{
 			id: 8,
-			question: "The legal department will review ________ documents are submitted through the portal.",
+			question: "the LEgal dePARTment will reVIEW ________ DOCuments are subMITted through the PORTal.",
 			options: [
-				"whatever",
-				"whichever",
+				"whaTEVer",
+				"whiCHEVer",
 				"WHAT",
 				"that"
 			],
 			correctAnswer: 0,
-			explanation: "Here, \"whatever\" acts as a determiner modifying the noun \"documents\" within the noun clause \"whatEVer documents are submitted through the portal\". It means \"any documents that\", which perfectly fits the open-ended nature of the submission process."
+			explanation: "Here, \"whaTEVer\" acts as a determiner modifying the noun \"DOCuments\" within the noun clause \"whaTEVer DOCuments are subMITted through the PORTal\". It means \"any DOCuments that\", which perfectly fits the open-ended nature of the submission process."
 		},
 		{
 			id: 9,
-			question: "Scientists are still trying to determine ________ the ancient artifact was buried beneath the structure.",
+			question: "SCIentists are STILL TRYing to deTERmine ________ the ANcient ARtifact was BURied beneath the STRUCture.",
 			options: [
-				"when",
+				"WHEN",
 				"that",
 				"WHAT",
-				"which"
+				"WHICH"
 			],
 			correctAnswer: 0,
-			explanation: "The verb \"determine\" needs an object. The clause addresses a question of time regarding a complete past action (the ancient artifact was buried...). Therefore, the adjoined question word \"when\" correctly introduces the noun clause."
+			explanation: "The verb \"deTERmine\" needs an object. The clause addresses a question of time regarding a complete past action (the ANcient ARtifact was BURied...). Therefore, the adjoined question word \"WHEN\" correctly introduces the noun clause."
 		},
 		{
 			id: 10,
-			question: "The success of the negotiation depends largely on ________ the client accepts our revised terms.",
+			question: "the sucCESS of the negotiAtion dePENDS LARGEly on ________ the CLIent acCEPTS our reVISED TERMS.",
 			options: [
 				"if",
 				"whether",

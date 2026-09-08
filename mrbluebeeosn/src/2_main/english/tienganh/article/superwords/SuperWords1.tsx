@@ -413,12 +413,12 @@ export default function SuperWords1(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>[whatEVer you deCIDE] will SHAPE our FUture.</li>
+					<li>[whaTEVer you deCIDE] will SHAPE our FUture.</li>
 					<li className="margin-bottom-20 list-none">[Bất cứ điều gì bạn quyết định] sẽ định hình tương lai của chúng ta.</li>
 			
-					<li className="list-none">Hình thái: [whatEVer you deCIDE] – [conJUNCtional CLAUSE][LIÊN CÂU] biểu thị một cấu trúc câu con hoàn chỉnh bắt đầu bằng [conJUNCtional BASE][LIÊN CƠ] "WhatEVer".</li>
+					<li className="list-none">Hình thái: [whaTEVer you deCIDE] – [conJUNCtional CLAUSE][LIÊN CÂU] biểu thị một cấu trúc câu con hoàn chỉnh bắt đầu bằng [conJUNCtional BASE][LIÊN CƠ] "WhatEVer".</li>
 			
-					<li className="list-none">Chức năng: [whatEVer you deCIDE] – [NOUN CLAUSE][DANH CÂU] đang đứng ở đầu câu lớn để giữ vai trò làm [NOUN SUBject][DANH CHỦ] thực hiện hành động "will SHAPE".</li>
+					<li className="list-none">Chức năng: [whaTEVer you deCIDE] – [NOUN CLAUSE][DANH CÂU] đang đứng ở đầu câu lớn để giữ vai trò làm [NOUN SUBject][DANH CHỦ] thực hiện hành động "will SHAPE".</li>
 			
 				</ul>
 			
