@@ -388,7 +388,7 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>she <strong>conSIDered CHANging</strong> her caREER PATH to FOcus enTIREly on NEW WEB deVELopment.</li>
+					<li>she <strong>conSIDered CHANging</strong> her caREER PATH to FOcus enTIrely on NEW WEB deVELopment.</li>
 					<li className="list-none">Cô ấy <strong>đã cân nhắc việc thay đổi</strong> con đường sự nghiệp của mình để tập trung hoàn toàn vào việc phát triển web.</li>
 					<li className="list-none">she là chủ thể. Sau động từ conSIDer, hành động tiếp theo bắt buộc phải ở dạng -ing (CHANging), dùng để chỉ việc suy nghĩ, cân nhắc kỹ lưỡng về một khả năng hoặc hành động nào đó.</li>
 			
@@ -432,7 +432,7 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>he <strong>GAVE UP DRINKing</strong> INstant COFfee and SWITCHED enTIREly to traDITional PHIN BREWS.</li>
+					<li>he <strong>GAVE UP DRINKing</strong> INstant COFfee and SWITCHED enTIrely to traDITional PHIN BREWS.</li>
 					<li className="list-none">Anh ấy <strong>đã từ bỏ việc uống</strong> cà phê hòa tan và chuyển hoàn toàn sang cà phê phin truyền thống.</li>
 					<li className="list-none">he là chủ thể. Sau cụm động từ giVE UP, hành động tiếp theo bắt buộc phải ở dạng -ing (DRINKing), dùng để chỉ việc từ bỏ hoặc chấm dứt một thói quen, hành động nào đó.</li>
 			
@@ -680,7 +680,7 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>the SUDden SYStem ERror <strong>FORCED her to reWRITE</strong> the enTIRE acCOUNTing rePORT from SCRATCH.</li>
+					<li>the SUDden SYStem ERror <strong>FORCED her to reWRITE</strong> the enTIre acCOUNTing rePORT from SCRATCH.</li>
 					<li className="list-none">Lỗi hệ thống bất ngờ <strong>đã buộc cô ấy phải viết lại</strong> toàn bộ báo cáo kế toán từ đầu.</li>
 					<li className="list-none">the SUDden SYStem ERror là chủ thể gây ra hành động, và her là chủ thể nhận sự tác động bị bắt buộc. Sau FORCE + sb, hành động tiếp theo bắt buộc phải ở dạng to V (to reWRITE).</li>
 			

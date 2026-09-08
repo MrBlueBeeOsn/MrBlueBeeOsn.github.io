@@ -78,7 +78,7 @@ export default function BEAUtiful(): React.JSX.Element {
           <li className="margin-bottom-20 list-none">Họ quyết định làm đẹp khu vườn bằng những loài hoa theo mùa.</li>
 
           <li>[<strong>BEAUtifully</strong>] (ADverb) /ˈbjuːtɪfəli/</li>
-          <li className="list-none">the MUsic was [BEAUtifully] comPOSED and MOVED the enTIRE AUdience.</li>
+          <li className="list-none">the MUsic was [BEAUtifully] comPOSED and MOVED the enTIre AUdience.</li>
           <li className="margin-bottom-20 list-none">Bản nhạc được sáng tác một cách tuyệt đẹp và đã làm lay động toàn bộ khán giả.</li>
 
           <li>[<strong>beauTIcian</strong>] (NOUN - Chỉ người) /bjuːˈtɪʃn/</li>
