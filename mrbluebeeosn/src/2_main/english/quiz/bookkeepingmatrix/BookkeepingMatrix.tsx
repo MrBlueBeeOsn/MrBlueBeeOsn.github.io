@@ -22,103 +22,103 @@ export default function (): React.JSX.Element {
 	const questions: Question[] = [
 		{
 			id: 1,
-			question: "[______] is the first step in the accounting cycle. \n [Việc ghi chép các giao dịch] là bước đầu tiên trong chu trình kế toán.",
+			question: "[reCORDing tranSACtions] is the FIRST STEP in the acCOUNTing CYcle. \n [Việc ghi chép các giao dịch] là bước đầu tiên trong chu trình kế toán.",
 			options: [
 				"[NOUN PHRASE]",
-				"[Noun Base]"
+				"[NOUN BASE]"
 			],
 			correctAnswer: 0,
-			explanation: "Form: [Recording transactions] - [proGRESSive VERB PHRASE][TIẾP ĐỘNG CỤM] consisting of the gerund \"recording\" and its direct object \"transactions\" working together as a structural unit. \n\n Function: [Recording transactions] - [NOUN PHRASE][DANH CỤM] serving as the complete subject of the sentence to initiate the main verb \"is\"."
+			explanation: "Form: [reCORDing tranSACtions] - [proGRESSive VERB PHRASE][TIẾP ĐỘNG CỤM] consisting of the gerund \"reCORDing\" and its direct object \"tranSACtions\" working together as a structural unit. \n\n Function: [reCORDing tranSACtions] - [NOUN PHRASE][DANH CỤM] serving as the complete subject of the sentence to initiate the main verb \"is\"."
 		},
 		{
 			id: 2,
-			question: "The primary goal of a bookkeeper is [______]. \n Mục tiêu chính của một người ghi sổ là [duy trì các sổ cái chính xác].",
+			question: "the PRImary GOAL of a BOOKkeeper is [to mainTAIN ACcurate LEDgers]. \n Mục tiêu chính của một người ghi sổ là [duy trì các sổ cái chính xác].",
 			options: [
-				"[Noun Base]",
+				"[NOUN BASE]",
 				"[NOUN PHRASE]"
 			],
 			correctAnswer: 1,
-			explanation: "Form: [to maintain accurate ledgers] - [PARTicle BARE VERB PHRASE][HẠT THUẦN ĐỘNG CỤM] formed by an infinitive verb followed by its modifying financial adjective and noun object. \n\n Function: [to maintain accurate ledgers] - [NOUN PHRASE][DANH CỤM] acting as a subject complement to explain what the primary goal is after the linking verb."
+			explanation: "Form: [to mainTAIN ACcurate LEDgers] - [PARTicle BARE VERB PHRASE][HẠT THUẦN ĐỘNG CỤM] formed by an infinitive verb followed by its modifying financial adjective and noun object. \n\n Function: [to mainTAIN ACcurate LEDgers] - [NOUN PHRASE][DANH CỤM] acting as a subject complement to explain what the primary goal is after the linking verb."
 		},
 		{
 			id: 3,
-			question: "The [______] financial statements were submitted to the tax authority. \n Các báo cáo tài chính [đã được kiểm toán] đã được nộp cho cơ quan thuế.",
+			question: "the [AUdited] fiNANcial STATEments were subMITted to the TAX auTHORity. \n Các báo cáo tài chính [đã được kiểm toán] đã được nộp cho cơ quan thuế.",
 			options: [
 				"[ADjective BASE]",
 				"[ADjective PHRASE]"
 			],
 			correctAnswer: 0,
-			explanation: "Form: [audited] - [PERfect VERB BASE][HOÀN ĐỘNG CƠ] using a single past participle form of the verb to function as a modifier. \n\n Function: [audited] - [ADjective BASE][TÍNH CƠ] directly modifying the financial noun \"statements\" to clarify their verified status."
+			explanation: "Form: [AUdited] - [PERfect VERB BASE][HOÀN ĐỘNG CƠ] using a single past participle form of the verb to function as a modifier. \n\n Function: [AUdited] - [ADjective BASE][TÍNH CƠ] directly modifying the financial noun \"STATEments\" to clarify their verified status."
 		},
 		{
 			id: 4,
-			question: "The clerk found the pricing error [______]. \n Nhân viên văn phòng đã tìm thấy lỗi định giá [trong khi đối chiếu bản sao kê ngân hàng].",
+			question: "the CLERK FOUND the PRIcing ERror [while REconciling the BANK STATEment]. \n Nhân viên văn phòng đã tìm thấy lỗi định giá [trong khi đối chiếu bản sao kê ngân hàng].",
 			options: [
-				"[Adverb Phrase]",
-				"[Adverb Clause]"
+				"[ADverb PHRASE]",
+				"[ADverb CLAUSE]"
 			],
 			correctAnswer: 0,
-			explanation: "Form: [while reconciling the bank statement] - [Liên Tiếp Động Cụm][Conjunctional Phrase] structured as a reduced adverbial phrase containing a time conjunction and a gerund phrase. \n\n Function: [while reconciling the bank statement] - [ADverb PHRASE][TRẠNG CỤM] modifying the main action \"found\" by establishing the exact accounting timeframe."
+			explanation: "Form: [while REconciling the BANK STATEment] - [Liên Tiếp Động Cụm][Conjunctional Phrase] structured as a reduced adverbial phrase containing a time conjunction and a gerund phrase. \n\n Function: [while REconciling the BANK STATEment] - [ADverb PHRASE][TRẠNG CỤM] modifying the main action \"FOUND\" by establishing the exact accounting timeframe."
 		},
 		{
 			id: 5,
-			question: "[______] surprised the equity investors. \n [Việc doanh thu hàng năm của công ty tăng lên] đã làm các nhà đầu tư cổ phiếu ngạc nhiên.",
+			question: "[that the COMpany's ANnual REVenue inCREASED] surPRISED the EQuity inVESTors. \n [Việc doanh thu hàng năm của công ty tăng lên] đã làm các nhà đầu tư cổ phiếu ngạc nhiên.",
 			options: [
 				"[NOUN PHRASE]",
 				"[NOUN CLAUSE]"
 			],
 			correctAnswer: 1,
-			explanation: "Form: [That the company's annual revenue increased] - [conJUNCtional CLAUSE][LIÊN CÂU] containing a subordinate conjunction, a clear corporate subject, and an intransitive past tense verb. \n\n Function: [That the company's annual revenue increased] - [NOUN CLAUSE][DANH CÂU] functioning as the complete grammatical subject that triggered the psychological reaction of the investors."
+			explanation: "Form: [that the COMpany's ANnual REVenue inCREASED] - [conJUNCtional CLAUSE][LIÊN CÂU] containing a subordinate conjunction, a clear corporate subject, and an intransitive past tense verb. \n\n Function: [that the COMpany's ANnual REVenue inCREASED] - [NOUN CLAUSE][DANH CÂU] functioning as the complete grammatical subject that triggered the psychological reaction of the investors."
 		},
 		{
 			id: 6,
-			question: "We need an experienced consultant [______]. \n Chúng tôi cần một cố vấn có kinh nghiệm [để phân tích các tác động về thuế hàng quý].",
+			question: "we NEED an exPErienced conSULtant [to ANalyze the QUARTerly TAX impliCAtions]. \n Chúng tôi cần một cố vấn có kinh nghiệm [để phân tích các tác động về thuế hàng quý].",
 			options: [
 				"[ADjective PHRASE]",
-				"[Adverb Phrase]"
+				"[ADverb PHRASE]"
 			],
 			correctAnswer: 0,
-			explanation: "Form: [to analyze the quarterly tax implications] - [PARTicle BARE VERB PHRASE][HẠT THUẦN ĐỘNG CỤM] built from an infinitive structure that carries its own complex corporate object. \n\n Function: [to analyze the quarterly tax implications] - [ADjective PHRASE][TÍNH CỤM] modifying the accounting professional noun \"consultant\" by identifying their specific intended responsibility."
+			explanation: "Form: [to ANalyze the QUARTerly TAX impliCAtions] - [PARTicle BARE VERB PHRASE][HẠT THUẦN ĐỘNG CỤM] built from an infinitive structure that carries its own complex corporate object. \n\n Function: [to ANalyze the QUARTerly TAX impliCAtions] - [ADjective PHRASE][TÍNH CỤM] modifying the accounting professional noun \"conSULtant\" by identifying their specific intended responsibility."
 		},
 		{
 			id: 7,
-			question: "[______], the system rejected the reimbursement. \n [Bởi vì các khoản chi phí đi lại không được phép], hệ thống đã từ chối việc hoàn tiền.",
+			question: "[because the TRAVel exPENses were not AUthorized], the SYStem reJECTed the reimBURSEment. \n [Bởi vì các khoản chi phí đi lại không được phép], hệ thống đã từ chối việc hoàn tiền.",
 			options: [
-				"[Adverb Phrase]",
-				"[Adverb Clause]"
+				"[ADverb PHRASE]",
+				"[ADverb CLAUSE]"
 			],
 			correctAnswer: 1,
-			explanation: "Form: [Because the travel expenses were not authorized] - [conJUNCtional CLAUSE][LIÊN CÂU] utilizing a causal conjunction coupled with a complete financial subject and a passive voice verb structure. \n\n Function: [Because the travel expenses were not authorized] - [ADverb CLAUSE][TRẠNG CÂU] modifying the independent clause by providing the regulatory reason why the reimbursement failed."
+			explanation: "Form: [because the TRAVel exPENses were not AUthorized] - [conJUNCtional CLAUSE][LIÊN CÂU] utilizing a causal conjunction coupled with a complete financial subject and a passive voice verb structure. \n\n Function: [because the TRAVel exPENses were not AUthorized] - [ADverb CLAUSE][TRẠNG CÂU] modifying the independent clause by providing the regulatory reason why the reimbursement failed."
 		},
 		{
 			id: 8,
-			question: "The modern software [______] requires an annual license update. \n Phần mềm hiện đại [được sử dụng để xử lý bảng lương] yêu cầu một bản cập nhật giấy phép hàng năm.",
+			question: "the MODern SOFTware [USED for PAYroll PROcessing] reQUIres an ANnual LIcense UPdate. \n Phần mềm hiện đại [được sử dụng để xử lý bảng lương] yêu cầu một bản cập nhật giấy phép hàng năm.",
 			options: [
 				"[ADjective PHRASE]",
 				"[NOUN PHRASE]"
 			],
 			correctAnswer: 0,
-			explanation: "Form: [used for payroll processing] - [PERfect VERB PHRASE][HOÀN ĐỘNG CỤM] appearing as a post-modifying past participial phrase linked with a prepositional structure. \n\n Function: [used for payroll processing] - [ADjective PHRASE][TÍNH CỤM] defining and restricting the meaning of the specific technical noun \"software\" being discussed."
+			explanation: "Form: [USED for PAYroll PROcessing] - [PERfect VERB PHRASE][HOÀN ĐỘNG CỤM] appearing as a post-modifying past participial phrase linked with a prepositional structure. \n\n Function: [USED for PAYroll PROcessing] - [ADjective PHRASE][TÍNH CỤM] defining and restricting the meaning of the specific technical noun \"SOFTware\" being discussed."
 		},
 		{
 			id: 9,
-			question: "I [______]. \n Tôi [biết {những gì cô ấy đã ghi sổ}].",
+			question: "i [KNOW {WHAT she reCORDed}]. \n Tôi [biết {những gì cô ấy đã ghi sổ}].",
 			options: [
 				"[NOUN PHRASE]",
 				"[TIERed NOUN PHRASE]"
 			],
 			correctAnswer: 1,
-			explanation: "Form: [know {what she recorded}] - [BARE VERB PHRASE][THUẦN ĐỘNG CỤM] serving as the predicate of the matrix clause, which embeds a finite objective clause inside its boundaries. \n\n Function: [know {what she recorded}] - [TIERed NOUN PHRASE][TẦNG DANH CỤM] where the outer verbal predicate level marked by [] encapsulates an inner objective noun clause marked by {} representing the bookkeeping data."
+			explanation: "Form: [KNOW {WHAT she reCORDed}] - [BARE VERB PHRASE][THUẦN ĐỘNG CỤM] serving as the predicate of the matrix clause, which embeds a finite objective clause inside its boundaries. \n\n Function: [KNOW {WHAT she reCORDed}] - [TIERed NOUN PHRASE][TẦNG DANH CỤM] where the outer verbal predicate level marked by [] encapsulates an inner objective noun clause marked by {} representing the bookkeeping data."
 		},
 		{
 			id: 10,
-			question: "The internal auditor asked [______]. \n Kiểm toán viên nội bộ đã hỏi [liệu sổ cái chung đã được cập nhật chưa].",
+			question: "the inTERnal AUditor ASKED [whether the GENERal LEDger was UPdated]. \n Kiểm toán viên nội bộ đã hỏi [liệu sổ cái chung đã được cập nhật chưa].",
 			options: [
 				"[NOUN CLAUSE]",
 				"[ADjective CLAUSE]"
 			],
 			correctAnswer: 0,
-			explanation: "Form: [whether the general ledger was updated] - [conJUNCtional CLAUSE][LIÊN CÂU] introduced by an interrogative subordinator followed by a passive financial clause layout. \n\n Function: [whether the general ledger was updated] - [NOUN CLAUSE][DANH CÂU] completing the predicate of the sentence by acting as the direct noun object for the inquiry verb \"asked\"."
+			explanation: "Form: [whether the GENERal LEDger was UPdated] - [conJUNCtional CLAUSE][LIÊN CÂU] introduced by an interrogative subordinator followed by a passive financial clause layout. \n\n Function: [whether the GENERal LEDger was UPdated] - [NOUN CLAUSE][DANH CÂU] completing the predicate of the sentence by acting as the direct noun object for the inquiry verb \"ASKED\"."
 		}
 	];
 

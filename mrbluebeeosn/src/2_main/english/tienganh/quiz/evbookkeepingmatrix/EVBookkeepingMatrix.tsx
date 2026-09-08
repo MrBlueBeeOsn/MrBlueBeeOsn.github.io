@@ -44,8 +44,8 @@ export default function (): React.JSX.Element {
 			id: 3,
 			question: "the CLERK WORKED [CALculating the TOtal PAYroll for the STAFF]. \n Nhân viên đã làm việc [tính toán tổng lương cho đội ngũ nhân sự].",
 			options: [
-				"[Adverb Clause]",
-				"[Adverb Phrase]"
+				"[ADverb CLAUSE]",
+				"[ADverb PHRASE]"
 			],
 			correctAnswer: 1,
 			explanation: "Hình thái: [CALculating the TOtal PAYroll for the STAFF] - [proGRESSive VERB PHRASE][TIẾP ĐỘNG CỤM] bắt đầu bằng hành động thêm đuôi \"-ing\" đi kèm các thành phần bổ nghĩa phía sau, không có chủ thể riêng biệt. \n\n Chức năng: [CALculating the TOtal PAYroll for the STAFF] - [ADverb PHRASE][TRẠNG CỤM] đi kèm sau hành động chính \"WORKED\" đứng ra bổ nghĩa cho hành động đó theo góc độ cách thức."
@@ -74,8 +74,8 @@ export default function (): React.JSX.Element {
 			id: 6,
 			question: "we USE SPECialized SOFTware [to AUtomate the BOOKkeeping PROcess]. \n Chúng tôi sử dụng phần mềm chuyên dụng [để tự động hóa quy trình ghi chép sổ sách].",
 			options: [
-				"[Adverb Phrase]",
-				"[Adverb Clause]"
+				"[ADverb PHRASE]",
+				"[ADverb CLAUSE]"
 			],
 			correctAnswer: 0,
 			explanation: "Hình thái: [to AUtomate the BOOKkeeping PROcess] - [PARTicle BARE VERB PHRASE][HẠT THUẦN ĐỘNG CỤM] bắt đầu bằng hành động có \"to\" đi kèm các thành phần bổ nghĩa. \n\n Chức năng: [to AUtomate the BOOKkeeping PROcess] - [ADverb PHRASE][TRẠNG CỤM] đứng sau hành động chính \"USE\" đứng ra bổ nghĩa cho hành động đó theo góc độ mục đích."
@@ -114,8 +114,8 @@ export default function (): React.JSX.Element {
 			id: 10,
 			question: "[because the TAX LAWS CHANGED REcently], we must upDATE our METHods. \n [Vì luật thuế đã thay đổi gần đây], chúng tôi phải cập nhật các phương pháp của mình.",
 			options: [
-				"[Adverb Clause]",
-				"[Adverb Phrase]"
+				"[ADverb CLAUSE]",
+				"[ADverb PHRASE]"
 			],
 			correctAnswer: 0,
 			explanation: "[because the TAX LAWS CHANGED REcently] - [conJUNCtional CLAUSE][LIÊN CÂU] bắt đầu bằng thành phần liên kết \"because\", có chứa chủ thể \"the TAX LAWS\" và hành động \"CHANGED\" xác định theo thời quá khứ. \n\n Chức năng: [because the TAX LAWS CHANGED REcently] - [ADverb CLAUSE][TRẠNG CÂU] đứng độc lập đứng ra bổ nghĩa cho toàn bộ phần còn lại theo góc độ nguyên nhân."

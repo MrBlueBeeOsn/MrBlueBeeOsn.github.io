@@ -119,7 +119,7 @@ export default function SV2(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>Danh Cơ [Noun Base] – một hành động đảm nhiệm chức năng danh.</li>
+					<li>Danh Cơ [NOUN BASE] – một hành động đảm nhiệm chức năng danh.</li>
 					<li>Danh Cụm [Noun Phrase] – một động cụm hoặc giới cụm đảm nhiệm chức năng danh.</li>
 					<li className="margin-bottom-20">Danh Câu [Noun Clause] – một động câu đảm nhiệm chức năng danh.</li>
 
@@ -128,8 +128,8 @@ export default function SV2(): React.JSX.Element {
 					<li className="margin-bottom-20">Tính Câu [Adjective Clause] – một động câu đảm nhiệm chức năng tính.</li>
 
 					<li>Trạng Cơ [Adverb Base] – một hành động đảm nhiệm chức năng trạng.</li>
-					<li>Trạng Cụm [Adverb Phrase] – một động cụm hoặc giới cụm đảm nhiệm chức năng trạng.</li>
-					<li className="margin-bottom-20">Trạng Câu [Adverb Clause] – một động câu đảm nhiệm chức năng trạng.</li>
+					<li>Trạng Cụm [ADverb PHRASE] – một động cụm hoặc giới cụm đảm nhiệm chức năng trạng.</li>
+					<li className="margin-bottom-20">Trạng Câu [ADverb CLAUSE] – một động câu đảm nhiệm chức năng trạng.</li>
 			
 				</ul>
 

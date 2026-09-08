@@ -75,7 +75,7 @@ export default function MatrixQuiz(): React.JSX.Element {
 			question: "he stayED UP ALL NIGHT [to FINish his gradUAtion THEsis]. \n Anh ấy đã thức cả đêm [để hoàn thành luận văn tốt nghiệp của mình].",
 			options: [
 				"[NOUN PHRASE]",
-				"[Adverb Phrase]"
+				"[ADverb PHRASE]"
 			],
 			correctAnswer: 1,
 			explanation: "Form: [to FINish his gradUAtion THEsis] - [PARTicle BARE VERB PHRASE][HẠT THUẦN ĐỘNG CỤM] formed by the infinitive marker \"to\", the verb base \"FINish\", and its direct object \"his gradUAtion THEsis\". \n\n Function: [to FINish his gradUAtion THEsis] - [ADverb PHRASE][TRẠNG CỤM] modifies the matrix predicate \"stayED UP\" by declaring the purpose behind the action."
@@ -95,7 +95,7 @@ export default function MatrixQuiz(): React.JSX.Element {
 			question: "[although the TEAM FACED seVERE BUDget CUTS], they sucCESSfully comPLEted the PRODuct. \n [Mặc dù đội ngũ phải đối mặt với việc cắt giảm ngân sách nghiêm trọng], họ đã hoàn thành dự án một cách thành công.",
 			options: [
 				"[NOUN CLAUSE]",
-				"[Adverb Clause]"
+				"[ADverb CLAUSE]"
 			],
 			correctAnswer: 1,
 			explanation: "Form: [although the TEAM FACED seVERE BUDget CUTS] - [conJUNCtional CLAUSE][LIÊN CÂU] formed by the subordinating conjunction \"although\" followed by a full clause containing the subject \"the TEAM\" and finite verb \"FACED\". \n\n Function: [although the TEAM FACED seVERE BUDget CUTS] - [ADverb CLAUSE][TRẠNG CÂU] modifies the entire main clause by providing a situational context of concession."

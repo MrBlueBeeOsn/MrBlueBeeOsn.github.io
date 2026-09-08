@@ -35,7 +35,7 @@ export default function EVMatrixQuiz(): React.JSX.Element {
 			question: "[to LEARN a NEW LANGuage] reQUIres a LOT of PAtience. \n [Việc học một ngôn ngữ mới] đòi hỏi rất nhiều sự kiên nhẫn.",
 			options: [
 				"[NOUN PHRASE]",
-				"[Adverb Phrase]"
+				"[ADverb PHRASE]"
 			],
 			correctAnswer: 0,
 			explanation: "Hình thái: [to LEARN a NEW LANGuage] - [PARTicle BARE VERB PHRASE][HẠT THUẦN ĐỘNG CỤM] bắt đầu bằng dạng nguyên thể có \"to\" kèm các thành phần bổ khuyết để tạo thành một cụm hành vi chưa chia thời gian. \n\n Chức năng: [to LEARN a NEW LANGuage] - [NOUN PHRASE][DANH CỤM] đứng ở đầu câu để làm chủ thể cốt lõi thực hiện hành vi cho \"reQUIres\"."
@@ -45,7 +45,7 @@ export default function EVMatrixQuiz(): React.JSX.Element {
 			question: "she ALways Opens the WINdow [to LET in some FRESH AIR]. \n Cô ấy luôn mở cửa sổ [để không khí trong lành bay vào].",
 			options: [
 				"[ADjective PHRASE]",
-				"[Adverb Phrase]"
+				"[ADverb PHRASE]"
 			],
 			correctAnswer: 1,
 			explanation: "Hình thái: [to LET in some FRESH AIR] - [PARTicle BARE VERB PHRASE][HẠT THUẦN ĐỘNG CỤM] bắt đầu bằng dạng nguyên thể có \"to\" kèm các thành phần bổ khuyết để tạo thành một cụm hành vi chưa chia thời gian. \n\n Chức năng: [to LET in some FRESH AIR] - [ADverb PHRASE][TRẠNG CỤM] bổ sung thông tin chỉ định mục đích hướng tới cho hành vi chính \"Opens\"."
@@ -75,7 +75,7 @@ export default function EVMatrixQuiz(): React.JSX.Element {
 			question: "they will LEAVE [as SOON as the RAIN STOPS]. \n Họ sẽ rời đi [ngay khi cơn mưa tạnh].",
 			options: [
 				"[ADjective CLAUSE]",
-				"[Adverb Clause]"
+				"[ADverb CLAUSE]"
 			],
 			correctAnswer: 1,
 			explanation: "Hình thái: [as SOON as the RAIN STOPS] - [conJUNCtional CLAUSE][LIÊN CÂU] bắt đầu bằng thành phần kết nối đi kèm kết cấu chủ-hành vi hoàn chỉnh (the rain stops) đã chia thời gian. \n\n Chức năng: [as SOON as the RAIN STOPS] - [ADverb CLAUSE][TRẠNG CÂU] liên kết vào cấu trúc để xác định mốc thời gian diễn ra cho toàn bộ phần thông tin chính \"they will LEAVE\"."
@@ -94,7 +94,7 @@ export default function EVMatrixQuiz(): React.JSX.Element {
 			id: 8,
 			question: "he MADE his YOUNGer BROTHer [CRY]. \n Anh ấy đã làm cho em trai mình [khóc].",
 			options: [
-				"[Noun Base]",
+				"[NOUN BASE]",
 				"[ADjective BASE]"
 			],
 			correctAnswer: 1,
@@ -105,7 +105,7 @@ export default function EVMatrixQuiz(): React.JSX.Element {
 			question: "the TEAM PRACticed HARD [to WIN] the CHAMpionship. \n Toàn đội đã luyện tập chăm chỉ [để giành được] chức vô địch.",
 			options: [
 				"[ADverb BASE]",
-				"[Adverb Phrase]"
+				"[ADverb PHRASE]"
 			],
 			correctAnswer: 0,
 			explanation: "Hình thái: [to WIN] - [PARTicle BARE VERB BASE][HẠT THUẦN ĐỘNG CƠ] xét riêng trong ngoặc là hình thái hạt nhân nguyên thể có \"to\" đứng đơn lẻ, không tính phần bổ khuyết phía sau. \n\n Chức năng: [to WIN] - [ADverb BASE][TRẠNG CƠ] đưa vào cấu trúc nhằm nêu bật mục đích cốt lõi cho hành vi \"PRACticed HARD\"."
@@ -114,7 +114,7 @@ export default function EVMatrixQuiz(): React.JSX.Element {
 			id: 10,
 			question: "[SMOking] is STRICTly proHIBited in this HOSpital. \n [Việc hút thuốc] bị nghiêm cấm hoàn toàn trong bệnh viện này.",
 			options: [
-				"[Noun Base]",
+				"[NOUN BASE]",
 				"[NOUN PHRASE]"
 			],
 			correctAnswer: 0,
