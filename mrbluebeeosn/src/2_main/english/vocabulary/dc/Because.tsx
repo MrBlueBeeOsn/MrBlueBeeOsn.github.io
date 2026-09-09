@@ -66,36 +66,36 @@ export default function Because(): React.JSX.Element {
         <ul className="list-square">
 
           <li>be<strong>cause</strong> (conJUNCTion) /bɪˈkɒz/ (UK) hoặc /bɪˈkɔːz/ (US)</li>
-          <li className="list-none">i PASSED the exAM be<strong>cause</strong> i STUDied HARD EVERy NIGHT.</li>
-          <li className="margin-bottom-20 list-none">Tôi đã vượt qua kỳ thi <strong>bởi vì tôi học hành chăm chỉ mỗi tối</strong>.</li>
+          <li className="list-none">i PASSED the exAM [be<strong>cause</strong>] i STUDied HARD EVERy NIGHT.</li>
+          <li className="margin-bottom-20 list-none">Tôi đã vượt qua kỳ thi [bởi vì] tôi học hành chăm chỉ mỗi tối.</li>
           
           <li>be<strong>cause</strong> of (prepoSITion) /bɪˈkɒz əv/ (UK) hoặc /bɪˈkɔːz əv/ (US)</li>
-          <li className="list-none">the FLIGHT was deLAYED be<strong>cause</strong> of the THICK FOG.</li>
-          <li className="margin-bottom-20 list-none">Chuyến bay đã bị hoãn vì sương mù dày đặc.</li>
+          <li className="list-none">the FLIGHT was deLAYED [be<strong>cause</strong> of] the THICK FOG.</li>
+          <li className="margin-bottom-20 list-none">Chuyến bay đã bị hoãn [vì] sương mù dày đặc.</li>
           
-          <li>CAUSE (NOUN) /kɔːz/</li>
-          <li className="list-none">the poLICE are TRYing to FIND the [CAUSE] of the ACcident.</li>
-          <li className="margin-bottom-20 list-none">Cảnh sát đang cố gắng tìm ra nguyên nhân của vụ tai nạn.</li>
+          <li>CAUSE of (NOUN) /kɔːz/</li>
+          <li className="list-none">the poLICE are TRYing to FIND the [CAUSE of] the ACcident.</li>
+          <li className="margin-bottom-20 list-none">Cảnh sát đang cố gắng tìm ra [nguyên nhân] của vụ tai nạn.</li>
 
           <li>CAUSE (VERB) /kɔːz/</li>
           <li className="list-none">the HEAVy RAIN could [CAUSE] seVERE FLOODing in LOW-LYing AReas.</li>
-          <li className="margin-bottom-20 list-none">Trận mưa lớn có thể gây ra lũ lụt nghiêm trọng ở các vùng trũng thấp.</li>
+          <li className="margin-bottom-20 list-none">Trận mưa lớn có thể [gây ra] lũ lụt nghiêm trọng ở các vùng trũng thấp.</li>
 
           <li>CAUsal (ADjective) /ˈkɔːzl/</li>
           <li className="list-none">there is a CLEAR [CAUsal] LINK between POVerty and LACK of eduCAtion.</li>
-          <li className="margin-bottom-20 list-none">Có một mối liên hệ nhân quả rõ ràng giữa nghèo đói và sự thiếu thốn giáo dục.</li>
+          <li className="margin-bottom-20 list-none">Có một mối liên hệ [nhân quả] rõ ràng giữa nghèo đói và sự thiếu thốn giáo dục.</li>
 
           <li>cauSALity (NOUN) - Trừu tượng /kɔːˈzæləti/</li>
           <li className="list-none">the STUDy inVEStigates the LAW of [cauSALity] in HUman beHAvior.</li>
-          <li className="margin-bottom-20 list-none">Nghiên cứu điều tra quy luật nhân quả trong hành vi của con người.</li>
+          <li className="margin-bottom-20 list-none">Nghiên cứu điều tra quy luật [nhân quả] trong hành vi của con người.</li>
 
           <li>CAUsally (ADverb) /ˈkɔːzəli/</li>
           <li className="list-none">the TWO hisTORical eVENTS are [CAUsally] reLAted to EACH OTHer.</li>
-          <li className="margin-bottom-20 list-none">Hai sự kiện lịch sử này có mối quan hệ nhân quả với nhau.</li>
+          <li className="margin-bottom-20 list-none">Hai sự kiện lịch sử này có mối quan hệ [nhân quả] với nhau.</li>
 
           <li>cauSAtion (NOUN) /kɔːˈzeɪʃn/</li>
           <li className="list-none">the REsearch PROVED a STRONG [cauSAtion] between SMOking and LUNG diSEASE.</li>
-          <li className="list-none">Nghiên cứu đã chứng minh một mối quan hệ nhân quả mạnh mẽ giữa việc hút thuốc và bệnh phổi.</li>
+          <li className="list-none">Nghiên cứu đã chứng minh một [mối quan hệ nhân quả] mạnh mẽ giữa việc hút thuốc và bệnh phổi.</li>
 
         </ul>
 
