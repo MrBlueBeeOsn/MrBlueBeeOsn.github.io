@@ -71,7 +71,7 @@ export default function VerbsAddS(): React.JSX.Element {
 
 					<li><strong>Irregular Verbs</strong>: Go becomes goes, Do becomes does, Have becomes has.</li>
 
-					<li><strong>No s for I</strong>/<strong>You</strong>: Even though "I" and "you" are one person, they do not take an s in the present tense (I walk, You walk).</li>
+					<li><strong>No s for I</strong>/<strong>You</strong>: Even though "i" and "you" are one person, they do not take an s in the present tense (I walk, You walk).</li>
 
 				</ul>
 

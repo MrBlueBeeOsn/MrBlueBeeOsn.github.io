@@ -217,13 +217,13 @@ export default function SuperWords1(): React.JSX.Element {
 
 			<p><strong>QUY TẮC CỐT LÕI</strong>:</p>
 
-			<p>Khi bất kỳ họ [BASE][CƠ] nào thuộc hệ thống 16 mục trên kéo theo các thành phần bổ trợ phía sau như [NOUN OBject][DANH NHẬN], [ADverb BASE][TRẠNG CƠ], [ADverb PHRASE][TRẠNG CỤM], hoặc [ADverb CLAUSE][TRẠNG CÂU], toàn bộ khối thông tin mở rộng đó sẽ lập tức chuyển đổi cấu trúc và dán nhãn thành dạng [PHRASE][CỤM] tương ứng của chính nó.</p>
+			<p>Khi bất kỳ họ [BASE][CƠ] nào thuộc hệ thống 16 mục trên kéo theo các thành phần bổ trợ phía sau như [OBject PROnoun][TÂN ĐẠI], [ADverb BASE][TRẠNG CƠ], [ADverb PHRASE][TRẠNG CỤM], hoặc [ADverb CLAUSE][TRẠNG CÂU], toàn bộ khối thông tin mở rộng đó sẽ lập tức chuyển đổi cấu trúc và dán nhãn thành dạng [PHRASE][CỤM] tương ứng của chính nó.</p>
 
 			<p className="margin-top-20">Ví dụ:</p>
 			
 				<ul className="list-square">
 			
-					<li>exPANDing [proGRESSive VERB BASE][TIẾP ĐỘNG CƠ] + the business [NOUN OBject][DANH NHẬN]</li>
+					<li>exPANDing [proGRESSive VERB BASE][TIẾP ĐỘNG CƠ] + the business [OBject PROnoun][TÂN ĐẠI]</li>
 					<li className="margin-bottom-20 list-none">→ exPANDing the BUSIness [proGRESSive VERB PHRASE][TIẾP ĐỘNG CỤM].</li>
 			
 				</ul>
@@ -249,7 +249,7 @@ export default function SuperWords1(): React.JSX.Element {
 			
 					<li className="list-none">Hình thái: [OPtimizing] – [proGRESSive VERB BASE][TIẾP ĐỘNG CƠ] hình thành từ khối [ROOT VERB BASE][RỄ ĐỘNG CƠ] nguyên bản "OPtimize" mặc thêm hậu tố "-ing" để thay đổi diện mạo bên ngoài thành một khối cấp độ [BASE][CƠ] hoạt động độc lập.</li>
 			
-					<li className="list-none">Chức năng: [OPtimizing] – [NOUN BASE][DANH CƠ] đang đứng vị trí khởi đầu để làm [NOUN SUBject][DANH CHỦ] cho toàn câu lớn.</li>
+					<li className="list-none">Chức năng: [OPtimizing] – [NOUN BASE][DANH CƠ] đang đứng vị trí khởi đầu để làm [SUBject PROnoun][CHỦ ĐẠI] cho toàn câu lớn.</li>
 			
 				</ul>
 
@@ -263,7 +263,7 @@ export default function SuperWords1(): React.JSX.Element {
 			
 					<li className="list-none">Hình thái: [deSIGNing] – [proGRESSive VERB BASE][TIẾP ĐỘNG CƠ] hình thành từ [ROOT VERB BASE][RỄ ĐỘNG CƠ] nguyên bản "deSIGN" mặc thêm hậu tố "-ing" để tạo thành một khối cấp độ [BASE][CƠ] độc lập.</li>
 			
-					<li className="list-none">Chức năng: [deSIGNing] – [NOUN BASE][DANH CƠ] đang đứng vị trí sau [TENSE-BARE VERB BASE][THỜI-THUẦN ĐỘNG CƠ] "enJOYS" để làm [NOUN OBject][DANH NHẬN] tiếp nhận hành động yêu thích.</li>
+					<li className="list-none">Chức năng: [deSIGNing] – [NOUN BASE][DANH CƠ] đang đứng vị trí sau [TENSE-BARE VERB BASE][THỜI-THUẦN ĐỘNG CƠ] "enJOYS" để làm [OBject PROnoun][TÂN ĐẠI] tiếp nhận hành động yêu thích.</li>
 			
 				</ul>
 			
@@ -313,7 +313,7 @@ export default function SuperWords1(): React.JSX.Element {
 			
 					<li className="list-none">Hình thái: [Nalyzing this DAta] – [proGRESSive VERB PHRASE][TIẾP ĐỘNG CỤM] biểu thị khối hành động mở rộng bắt đầu bằng một dạng động cơ thêm đuôi -ing kết hợp cùng đối tượng tác động phía sau để mô tả trọn vẹn một sự việc.</li>
 			
-					<li className="list-none">Chức năng: [Nalyzing this DAta] – [NOUN PHRASE][DANH CỤM] đang đứng vị trí đầu câu để đóng vai trò làm [NOUN SUBject][DANH CHỦ] cho toàn câu lớn.</li>
+					<li className="list-none">Chức năng: [Nalyzing this DAta] – [NOUN PHRASE][DANH CỤM] đang đứng vị trí đầu câu để đóng vai trò làm [SUBject PROnoun][CHỦ ĐẠI] cho toàn câu lớn.</li>
 			
 				</ul>
 			
@@ -327,7 +327,7 @@ export default function SuperWords1(): React.JSX.Element {
 			
 					<li className="list-none">Hình thái: [disCUSSing the BUDget] – [proGRESSive VERB PHRASE][TIẾP ĐỘNG CỤM] biểu thị khối hành động phát triển từ một hình thái -ing kéo theo thành phần thông tin bổ trợ phía sau để hoàn thiện nghĩa cho đối tượng bị tác động.</li>
 			
-					<li className="list-none">Chức năng: [disCUSSing the BUDget] – [NOUN PHRASE][DANH CỤM] đang đứng sau hành động chính để đóng vai trò làm [NOUN OBject][DANH NHẬN] cho toàn câu lớn.</li>
+					<li className="list-none">Chức năng: [disCUSSing the BUDget] – [NOUN PHRASE][DANH CỤM] đang đứng sau hành động chính để đóng vai trò làm [OBject PROnoun][TÂN ĐẠI] cho toàn câu lớn.</li>
 			
 				</ul>
 			
@@ -341,7 +341,7 @@ export default function SuperWords1(): React.JSX.Element {
 			
 					<li className="list-none">Hình thái: [OPtimizing the appliCAtion] – [proGRESSive VERB PHRASE][TIẾP ĐỘNG CỤM] biểu thị khối hành động mở rộng mở đầu bằng dạng vận động -ing nhằm biểu thị tiến trình của một hành động chưa kết thúc.</li>
 			
-					<li className="list-none">Chức năng: [OPtimizing the appliCAtion] – [ADjective PHRASE][TÍNH CỤM] đang đứng vị trí sau để bổ nghĩa, mô tả trạng thái thực thi đang diễn ra của [NOUN SUBject][DANH CHỦ] "the deVELopers".</li>
+					<li className="list-none">Chức năng: [OPtimizing the appliCAtion] – [ADjective PHRASE][TÍNH CỤM] đang đứng vị trí sau để bổ nghĩa, mô tả trạng thái thực thi đang diễn ra của [SUBject PROnoun][CHỦ ĐẠI] "the deVELopers".</li>
 			
 				</ul>
 			
@@ -418,7 +418,7 @@ export default function SuperWords1(): React.JSX.Element {
 			
 					<li className="list-none">Hình thái: [whaTEVer you deCIDE] – [conJUNCtional CLAUSE][LIÊN CÂU] biểu thị một cấu trúc câu con hoàn chỉnh bắt đầu bằng [conJUNCtional BASE][LIÊN CƠ] "WhatEVer".</li>
 			
-					<li className="list-none">Chức năng: [whaTEVer you deCIDE] – [NOUN CLAUSE][DANH CÂU] đang đứng ở đầu câu lớn để giữ vai trò làm [NOUN SUBject][DANH CHỦ] thực hiện hành động "will SHAPE".</li>
+					<li className="list-none">Chức năng: [whaTEVer you deCIDE] – [NOUN CLAUSE][DANH CÂU] đang đứng ở đầu câu lớn để giữ vai trò làm [SUBject PROnoun][CHỦ ĐẠI] thực hiện hành động "will SHAPE".</li>
 			
 				</ul>
 			
@@ -432,7 +432,7 @@ export default function SuperWords1(): React.JSX.Element {
 			
 					<li className="list-none">Hình thái: [that she SPOKE the TRUTH] – [conJUNCtional CLAUSE][LIÊN CÂU] biểu thị một cấu trúc câu con hoàn chỉnh có đầy đủ chủ vị và được dẫn dắt hiển lộ bởi [conJUNCtional BASE][LIÊN CƠ] "that".</li>
 			
-					<li className="list-none">Chức năng: [that she SPOKE the TRUTH] – [NOUN CLAUSE][DANH CÂU] đang đứng vị trí [NOUN OBject][DANH NHẬN] để tiếp nhận hành động từ hành động "discovered" của [NOUN SUBject][DANH CHỦ] "I".</li>
+					<li className="list-none">Chức năng: [that she SPOKE the TRUTH] – [NOUN CLAUSE][DANH CÂU] đang đứng vị trí [OBject PROnoun][TÂN ĐẠI] để tiếp nhận hành động từ hành động "discovered" của [SUBject PROnoun][CHỦ ĐẠI] "i".</li>
 			
 				</ul>
 			
@@ -444,7 +444,7 @@ export default function SuperWords1(): React.JSX.Element {
 					<li>the AUthor [who WROTE this ARticle] is an EXpert.</li>
 					<li className="margin-bottom-20 list-none">Tác giả [người mà đã viết bài báo này] là một chuyên gia.</li>
 			
-					<li className="list-none">Hình thái: [who WROTE this ARticle] – [conJUNCtional CLAUSE][LIÊN CÂU] biểu thị một cấu trúc câu con phụ thuộc bắt đầu bằng khối liên kết chỉ người "who" làm nhiệm vụ thế mạng và thực hiện trực tiếp hành động phía sau.</li>
+					<li className="list-none">Hình thái: [who WROTE this ARticle] – [SUBject PROnoun CLAUSE][CHỦ ĐẠI CÂU] biểu thị một cấu trúc câu con phụ thuộc bắt đầu bằng khối liên kết chỉ người "who" làm nhiệm vụ thế mạng và thực hiện trực tiếp hành động phía sau.</li>
 			
 					<li className="list-none">Chức năng: [who WROTE this ARticle] – [ADjective CLAUSE][TÍNH CÂU] đang đứng vị trí ngay sau một đối tượng để định danh và làm rõ nghĩa cho tác giả đó.</li>
 			
@@ -471,7 +471,7 @@ export default function SuperWords1(): React.JSX.Element {
 
 			<p>Trong văn phong bản ngữ, người ta thường lược bỏ các cơ liên kết nhằm đẩy tốc độ truyền tải thông tin lên tối đa.</p>
 
-			<p>Về hình thái trực quan, các khối này trông giống hệt như một câu con độc lập có đầy đủ [NOUN SUBject][DANH CHỦ] và hành động riêng, nhưng về bản chất, chúng không thể đứng tách rời một mình mà phải cắm chặt vào cấu trúc tổng thể:</p>
+			<p>Về hình thái trực quan, các khối này trông giống hệt như một câu con độc lập có đầy đủ [SUBject PROnoun][CHỦ ĐẠI] và hành động riêng, nhưng về bản chất, chúng không thể đứng tách rời một mình mà phải cắm chặt vào cấu trúc tổng thể:</p>
 
 
 			<p className="margin-top-20"><strong>Ví dụ 1</strong>: [<strong>NOUN CLAUSE</strong>][<strong>DANH CÂU</strong>]</p>
@@ -483,7 +483,7 @@ export default function SuperWords1(): React.JSX.Element {
 			
 					<li className="list-none">Hình thái: [you TOOK the corRECT STEPS] – [ZEro-conJUNCtional CLAUSE][ẨN-LIÊN CÂU] biểu thị một câu con hoàn chỉnh đóng vai trò phụ thuộc đã được triệt tiêu khối liên kết "that" dẫn đầu nhằm rút gọn kết cấu nói.</li>
 			
-					<li className="list-none">Chức năng: [you TOOK the corRECT STEPS] – [NOUN CLAUSE][DANH CÂU] đang đứng vị trí [NOUN OBject][DANH NHẬN] để làm rõ sự việc chịu tác động trực tiếp từ hành động "beLIEVE".</li>
+					<li className="list-none">Chức năng: [you TOOK the corRECT STEPS] – [NOUN CLAUSE][DANH CÂU] đang đứng vị trí [OBject PROnoun][TÂN ĐẠI] để làm rõ sự việc chịu tác động trực tiếp từ hành động "beLIEVE".</li>
 			
 				</ul>
 			
@@ -495,9 +495,9 @@ export default function SuperWords1(): React.JSX.Element {
 					<li>the CAR [he DROVE YESterday] beLONGED to his FAther.</li>
 					<li className="margin-bottom-20 list-none">Chiếc xe [anh ấy lái hôm qua] thuộc về ba anh ấy.</li>
 			
-					<li className="list-none">Hình thái: [he DROVE YESterday] – [ZEro-conJUNCtional CLAUSE][ẨN-LIÊN CÂU] biểu thị một câu con bổ nghĩa nằm ngay sau thành phần [NOUN BLOCK][DANH KHỐI] chính mà không xuất hiện các khối liên kết như "which" hay "that" ở đầu.</li>
+					<li className="list-none">Hình thái: [he DROVE YESterday] – [ZEro-OBject PROnoun CLAUSE][ẨN-TÂN ĐẠI CÂU] biểu thị một câu con bổ nghĩa nằm ngay sau thành phần [NOUN BLOCK][DANH KHỐI] chính mà không xuất hiện các khối liên kết như "which" hay "that" ở đầu.</li>
 			
-					<li className="list-none">Chức năng: [he DROVE YESterday] – [ADjective CLAUSE][TÍNH CÂU] đang đứng vị trí bám sát ngay sau [NOUN SUBject][DANH CHỦ] "the CAR" để bổ nghĩa và định danh riêng cho chiếc xe đó.</li>
+					<li className="list-none">Chức năng: [he DROVE YESterday] – [ADjective CLAUSE][TÍNH CÂU] đang đứng vị trí bám sát ngay sau [SUBject PROnoun][CHỦ ĐẠI] "the CAR" để bổ nghĩa và định danh riêng cho chiếc xe đó.</li>
 			
 				</ul>
 			
@@ -539,9 +539,9 @@ export default function SuperWords1(): React.JSX.Element {
 			
 					<li className="list-none">Chức năng:</li>
 
-					<li className="list-none">[eVALuating {'{how we ALlocated the BUDget}'}] – [<strong>NOUN PHRASE</strong>][<strong>DANH CỤM</strong>] tầng ngoài đóng vai trò làm [NOUN SUBject][DANH CHỦ] đứng ở đầu câu lớn.</li>
+					<li className="list-none">[eVALuating {'{how we ALlocated the BUDget}'}] – [<strong>NOUN PHRASE</strong>][<strong>DANH CỤM</strong>] tầng ngoài đóng vai trò làm [SUBject PROnoun][CHỦ ĐẠI] đứng ở đầu câu lớn.</li>
 
-					<li className="list-none">Trong đó khối phụ {'{how we ALlocated the BUDget}'} giữ chức năng làm [NOUN CLAUSE][DANH CÂU] tầng trong đứng vị trí [NOUN OBject][DANH NHẬN] để chịu tác động trực tiếp từ hành động đánh giá.</li>
+					<li className="list-none">Trong đó khối phụ {'{how we ALlocated the BUDget}'} giữ chức năng làm [NOUN CLAUSE][DANH CÂU] tầng trong đứng vị trí [OBject PROnoun][TÂN ĐẠI] để chịu tác động trực tiếp từ hành động đánh giá.</li>
 			
 				</ul>
 			
@@ -561,9 +561,9 @@ export default function SuperWords1(): React.JSX.Element {
 			
 					<li className="list-none">Chức năng:</li>
 
-					<li className="list-none">[reVIEWing {'{WHAT the TEAM acCOMplished this QUARter}'}] – [<strong>NOUN PHRASE</strong>][<strong>DANH CỤM</strong>] tầng ngoài đóng vai trò làm [NOUN OBject][DANH NHẬN] lớn đứng sau [TENSE-BARE VERB BASE][THỜI-THUẦN ĐỘNG CƠ] "sugGESted".</li>
+					<li className="list-none">[reVIEWing {'{WHAT the TEAM acCOMplished this QUARter}'}] – [<strong>NOUN PHRASE</strong>][<strong>DANH CỤM</strong>] tầng ngoài đóng vai trò làm [OBject PROnoun][TÂN ĐẠI] lớn đứng sau [TENSE-BARE VERB BASE][THỜI-THUẦN ĐỘNG CƠ] "sugGESted".</li>
 
-					<li className="list-none">Trong đó khối phụ {'{WHAT the TEAM acCOMplished this QUARter}'} giữ chức năng làm [NOUN CLAUSE][DANH CÂU] tầng trong đứng vị trí [NOUN OBject][DANH NHẬN] nhỏ tiếp nhận tác động từ hành động xem xét.</li>
+					<li className="list-none">Trong đó khối phụ {'{WHAT the TEAM acCOMplished this QUARter}'} giữ chức năng làm [NOUN CLAUSE][DANH CÂU] tầng trong đứng vị trí [OBject PROnoun][TÂN ĐẠI] nhỏ tiếp nhận tác động từ hành động xem xét.</li>
 			
 				</ul>
 
@@ -585,7 +585,7 @@ export default function SuperWords1(): React.JSX.Element {
 
 					<li className="list-none">[in {'{which they TEST the SAMple}'}] – [<strong>ADjective PHRASE</strong>][<strong>TÍNH CỤM</strong>] tầng ngoài đứng ngay sau thành phần [NOUN BLOCK][DANH KHỐI] chính "the LABoratory" để bổ nghĩa và khu biệt không gian.</li>
 
-					<li className="list-none">Trong đó khối phụ {'{which they TEST the SAMple}'} giữ chức năng làm [NOUN CLAUSE][DANH CÂU] tầng trong đứng vị trí làm [NOUN OBject][DANH NHẬN] chịu sự điều phối trực tiếp của [prepoSITional BASE][GIỚI CƠ] "in".</li>
+					<li className="list-none">Trong đó khối phụ {'{which they TEST the SAMple}'} giữ chức năng làm [NOUN CLAUSE][DANH CÂU] tầng trong đứng vị trí làm [OBject PROnoun][TÂN ĐẠI] chịu sự điều phối trực tiếp của [prepoSITional BASE][GIỚI CƠ] "in".</li>
 			
 				</ul>
 			
@@ -608,7 +608,7 @@ export default function SuperWords1(): React.JSX.Element {
 
 					<li className="list-none">[through {'{WHAT she disCOVered during REsearch}'}] – [<strong>ADverb PHRASE</strong>][<strong>TRẠNG CỤM</strong>] tầng ngoài đứng vị trí sau để làm rõ phương thức bổ nghĩa cho hành động thích nghi của câu lớn.</li>
 
-					<li className="list-none">Trong đó khối phụ {'{WHAT she disCOVered during REsearch}'} giữ chức năng làm [NOUN CLAUSE][DANH CÂU] tầng trong đứng vị trí làm [NOUN OBject][DANH NHẬN] tiếp nhận mối quan hệ phương tiện từ [prepoSITional BASE][GIỚI CƠ] "through".</li>
+					<li className="list-none">Trong đó khối phụ {'{WHAT she disCOVered during REsearch}'} giữ chức năng làm [NOUN CLAUSE][DANH CÂU] tầng trong đứng vị trí làm [OBject PROnoun][TÂN ĐẠI] tiếp nhận mối quan hệ phương tiện từ [prepoSITional BASE][GIỚI CƠ] "through".</li>
 
 			
 				</ul>

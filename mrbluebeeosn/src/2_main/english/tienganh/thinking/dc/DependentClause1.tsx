@@ -160,7 +160,7 @@ export default function DependentClause1(): React.JSX.Element {
 			
 			<h4 className="margin-y-40">Chức năng [NOUN CLAUSE][DANH CÂU]</h4>
 					
-			<p className="text-indent-whole">Chiếm lĩnh vị trí của một Danh Câu thông thường để làm [NOUN SUBject][DANH CHỦ] hoặc [NOUN OBject][DANH NHẬN] chịu tác động.</p>
+			<p className="text-indent-whole">Chiếm lĩnh vị trí của một Danh Câu thông thường để làm [SUBject PROnoun][CHỦ ĐẠI] hoặc [OBject PROnoun][TÂN ĐẠI] chịu tác động.</p>
 			
 				<ul className="list-square">
 			
@@ -169,7 +169,7 @@ export default function DependentClause1(): React.JSX.Element {
 			
 				</ul>
 			
-			<p className="margin-top-20 text-indent-whole">→ Cụm [WHAT you MEAN] đóng vai trò làm [NOUN OBject][DANH NHẬN] đứng sau hành động "underSTAND"</p>
+			<p className="margin-top-20 text-indent-whole">→ Cụm [WHAT you MEAN] đóng vai trò làm [OBject PROnoun][TÂN ĐẠI] đứng sau hành động "underSTAND"</p>
 
 			{/* 4. Chiến Lược 3 Bước Để Tạo Câu Phức Mượt Mà */}
 
