@@ -446,7 +446,7 @@ export default function ThreeDC1(): React.ReactElement {
 				<ul className="list-square">
 			
 					<li>we will HALT proDUCtion [unless the QUAlity STANdard imPROVES].</li>
-					<li className="margin-bottom-20 list-none">Chúng tôi sẽ dừng sản xuất [trừ khi tiêu chuẩn chất lượng cải thiện].</li>
+					<li className="margin-bottom-20 list-none">Chúng tôi sẽ dừng sản xuất [ngoại trừ khi tiêu chuẩn chất lượng cải thiện].</li>
 			
 					<li className="list-none">Hình thái: Khối [unless the QUAlity STANdard imPROVES] - [conJUNCtional CLAUSE][LIÊN CÂU] bắt đầu bằng [conJUNCtional BASE][LIÊN CƠ] điều kiện "unless" kết hợp với cấu trúc khối hoàn chỉnh có [NOUN SUBject][DANH CHỦ] "the QUAlity STANdard" và [TENSE-BARE VERB BASE][THỜI-THUẦN ĐỘNG CƠ] "imPROVES".</li>
 			

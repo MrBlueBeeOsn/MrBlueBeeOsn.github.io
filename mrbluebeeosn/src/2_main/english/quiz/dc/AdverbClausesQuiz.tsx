@@ -126,7 +126,7 @@ export default function AdverbClausesQuiz(): React.JSX.Element {
 				"in case"
 			],
 			correctAnswer: 1,
-			explanation: "\"as long as\" is a subordinating conjunction of condition meaning \"provided that\" or \"only if.\" It sets the condition under which the person is allowed to borrow the"
+			explanation: "\"as long as\" is a subordinating conjunction of condition meaning \"proVIded that\" or \"only if.\" It sets the condition under which the person is allowed to borrow the"
 		},
 		{
 			id: 10,

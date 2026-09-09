@@ -38,11 +38,11 @@ export default function EVAdverbClausesQuiz(): React.JSX.Element {
 			options: [
 				"because",
 				"even though",
-				"provided that",
+				"proVIded that",
 				"as long as"
 			],
 			correctAnswer: 1,
-			explanation: "even though (mặc dù) mở đầu câu con trạng ngữ chỉ sự nhượng bộ/tương phản (ADverb CLAUSE of conCESsion) giữa hai vế \"làm việc chăm chỉ\" và \"vẫn có thời gian chơi với con\". because chỉ nguyên nhân, provided that/as long as chỉ điều kiện (miễn là) đều làm câu bị sai LOGic."
+			explanation: "even though (mặc dù) mở đầu câu con trạng ngữ chỉ sự nhượng bộ/tương phản (ADverb CLAUSE of conCESsion) giữa hai vế \"làm việc chăm chỉ\" và \"vẫn có thời gian chơi với con\". because chỉ nguyên nhân, proVIded that/as long as chỉ điều kiện (miễn là) đều làm câu bị sai LOGic."
 		},
 		{
 			id: 3,
@@ -78,7 +78,7 @@ export default function EVAdverbClausesQuiz(): React.JSX.Element {
 				"unless"
 			],
 			correctAnswer: 2,
-			explanation: "as long as (miễn là) dùng để mở đầu câu con trạng ngữ chỉ điều kiện (ADverb CLAUSE of conDITion). Các liên cơ còn lại không tạo nên mối quan hệ điều kiện hợp lý: even if (ngay cả khi), as if (như thể là), unless (trừ khi)."
+			explanation: "as long as (miễn là) dùng để mở đầu câu con trạng ngữ chỉ điều kiện (ADverb CLAUSE of conDITion). Các liên cơ còn lại không tạo nên mối quan hệ điều kiện hợp lý: even if (ngay cả khi), as if (như thể là), unless (ngoại trừ khi)."
 		},
 		{
 			id: 6,
@@ -134,11 +134,11 @@ export default function EVAdverbClausesQuiz(): React.JSX.Element {
 			options: [
 				"if",
 				"unless",
-				"provided that",
+				"proVIded that",
 				"even though"
 			],
 			correctAnswer: 1,
-			explanation: "unless có nghĩa là \"trừ khi\" (bằng với if... NOT), mở đầu câu con trạng ngữ chỉ điều kiện. Nếu dùng các liên cơ điều kiện mang tính khẳng định như if hoặc provided that (nếu/miễn là bạn học nghiêm túc thì bạn sẽ trượt) sẽ làm câu bị sai hoàn toàn về mặt logic."
+			explanation: "unless có nghĩa là \"ngoại trừ khi\" (bằng với if... NOT), mở đầu câu con trạng ngữ chỉ điều kiện. Nếu dùng các liên cơ điều kiện mang tính khẳng định như if hoặc proVIded that (nếu/miễn là bạn học nghiêm túc thì bạn sẽ trượt) sẽ làm câu bị sai hoàn toàn về mặt logic."
 		}
 	];
 

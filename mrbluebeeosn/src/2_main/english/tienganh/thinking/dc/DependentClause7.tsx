@@ -421,7 +421,7 @@ export default function DependentClause7(): React.JSX.Element {
 					<li className="margin-bottom-20 list-none"><strong>Vì bạn hỏi</strong>, tôi sẽ nói cho bạn.</li>
 
 					<li>I won't go <strong>unless you come</strong>.</li>
-					<li className="margin-bottom-20 list-none">Tôi sẽ không đi <strong>trừ khi bạn đến</strong>.</li>
+					<li className="margin-bottom-20 list-none">Tôi sẽ không đi <strong>ngoại trừ khi bạn đến</strong>.</li>
 			
 					<li><strong>As time passed</strong>, things improved.</li>
 					<li className="margin-bottom-20 list-none"><strong>Khi thời gian trôi</strong>, mọi thứ cải thiện.</li>

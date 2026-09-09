@@ -99,7 +99,7 @@ export default function EVArticlesQuiz() {
 				"(no ARticle)"
 			],
 			correctAnswer: 3,
-			explanation: "Không dùng mạo từ trước tên các bữa ăn (BREAKfast, LUNCH, DINner) trừ khi có Tính Cơ đứng trước hoặc nói về một bữa ăn cụ thể."
+			explanation: "Không dùng mạo từ trước tên các bữa ăn (BREAKfast, LUNCH, DINner) ngoại trừ khi có Tính Cơ đứng trước hoặc nói về một bữa ăn cụ thể."
 		},
 		{
 			id: 8,

@@ -410,7 +410,7 @@ export default function LegoAssembly7(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>Không có S V hoàn chỉnh bên trong (trừ khi DC nằm trong DP)</li>
+					<li>Không có S V hoàn chỉnh bên trong (ngoại trừ khi DC nằm trong DP)</li>
 					<li className="list-none">She does (not know [what he does]) - S Head DP[DC]</li>
 					<li className="list-none">not know [what he does] - DP</li>
 					<li className="margin-bottom-20 list-none">[what he does] - DC</li>

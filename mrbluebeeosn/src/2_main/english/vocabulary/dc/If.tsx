@@ -87,7 +87,7 @@ export default function If(): React.JSX.Element {
           <li className="list-none"><strong>______ I had known the truth earlier</strong>, things would be different.</li>
           <li className="margin-bottom-20 list-none"><strong>Giá mà tôi biết sự thật sớm hơn thì</strong> mọi chuyện đã khác rồi.</li>
 
-          <li><strong>What-ifs</strong> (Danh cơ - Thường dùng số nhiều 'what-ifs') /wɒt ɪfs/ (UK) hoặc /wʌt ɪfs/ (US)</li> 
+          <li><strong>What-ifs</strong> (NOUN) - Thường dùng số nhiều 'what-ifs') /wɒt ɪfs/ (UK) hoặc /wʌt ɪfs/ (US)</li> 
           <li className="list-none">Stop worrying about all the <strong>______</strong> and focus on the present.</li>
           <li className="margin-bottom-20 list-none">Đừng lo lắng về tất cả những điều "<strong>nếu như</strong>" nữa và hãy tập trung vào hiện tại.</li>
           <li className="list-none">Lưu ý ngữ cảnh: Stop worrying về những điều "nếu như" và hãy tập trung vào hiện tại.</li>
@@ -106,14 +106,14 @@ export default function If(): React.JSX.Element {
             1. 
       ============================= */}
 
-      <p className="margin-top-20"><strong>1. Provided that</strong> /prəˈvaɪdɪd ðæt/ (hoặc Providing that)</p>
+      <p className="margin-top-20">1. proVIded that /prəˈvaɪdɪd ðæt/ (hoặc proVIding that)</p>
 
       <p className="text-indent-whole">Với điều kiện là, miễn là; mang sắc thái trang trọng và nhấn mạnh vào điều kiện bắt buộc hơn "if".</p>
 
         <ul className="list-square">
 
-          <li><strong>______ you return the car by 5 p.m.</strong>, you can borrow it.</li>
-          <li className="list-none"><strong>Với điều kiện là bạn trả lại xe trước 5 giờ chiều</strong>, bạn có thể mượn nó.</li>
+          <li>[proVIded that] you reTURN the CAR by 5 p.M., you can BORrow it.</li>
+          <li className="list-none">[Với điều kiện là] bạn trả lại xe trước 5 giờ chiều, bạn có thể mượn nó.</li>
 
         </ul>
 
@@ -121,28 +121,17 @@ export default function If(): React.JSX.Element {
             2. 
       ============================= */}
 
-      <p className="margin-top-20"><strong>2. As long as</strong> /æz lɒŋ æz/ (UK) hoặc /æz lɔːŋ æz/ (US)</p>
+      <p className="margin-top-20">2. as LONG as /æz lɒŋ æz/ (UK) hoặc /æz lɔːŋ æz/ (US)</p>
 
       <p className="text-indent-whole">Miễn là, chỉ cần; thường dùng phổ biến trong văn nói hàng ngày để đưa ra một điều kiện cụ thể.</p>
 
         <ul className="list-square">
 
-          <li>You can stay here <strong>______ you keep the room clean</strong>.</li>
-          <li className="list-none">Bạn có thể ở lại đây <strong>miễn là bạn giữ phòng sạch sẽ</strong>.</li>
+          <li>you can STAY HERE [as LONG as] you KEEP the ROOM CLEAN.</li>
+          <li className="list-none">Bạn có thể ở lại đây [miễn là] bạn giữ phòng sạch sẽ.</li>
 
         </ul>
-          
-      <p className="margin-top-20 text-indent-whole">Về bản chất, đây là cấu trúc so sánh bằng:</p>
       
-        <ul className="list-square">
-      
-          <li>as (thứ nhất): Là trạng cơ. Nghĩa là "đến mức".</li>
-      
-          <li>long: Là tính cơ/trạng cơ. Nghĩa là "lâu/dài".</li>
-      
-          <li>as (thứ hai): Là liên cơ. Nghĩa là "như".</li>
-      
-        </ul>
       
       <p className="margin-top-20 text-indent-whole">Gộp lại theo đúng logic: "Lâu đến mức như...".</p>
 
@@ -150,16 +139,16 @@ export default function If(): React.JSX.Element {
             3. 
       ============================= */}
 
-      <p className="margin-top-20"><strong>3. Unless</strong> /ʌnˈles/</p>
+      <p className="margin-top-20">3. un<strong>less</strong> /ʌnˈles/</p>
 
-      <p className="text-indent-whole">Trừ khi, nếu không; từ này tương đương với cấu trúc "if not".</p>
-      <p className="text-indent-whole">"Trừ khi" chính là loại trừ một điều kiện/tình huống.</p>
+      <p className="text-indent-whole">Ngoại trừ khi, nếu không; từ này tương đương với cấu trúc "if not".</p>
+      <p className="text-indent-whole">"Ngoại trừ khi" chính là loại trừ một điều kiện/tình huống.</p>
 
         <ul className="list-square">
 
-          <li>We will go to the beach <strong>______ it rains tomorrow</strong>.</li>
-          <li className="list-none">Chúng tôi sẽ đi tắm biển <strong>trừ khi ngày mai trời mưa</strong>.</li>
-          <li className="list-none">Chúng tôi sẽ đi tắm biển <strong>nếu ngày mai trời không mưa</strong>.</li>
+          <li>we will GO to the BEACH [un<strong>less</strong>] it RAINS toMORrow.</li>
+          <li className="list-none">Chúng tôi sẽ đi tắm biển [ngoại trừ khi] ngày mai trời mưa.</li>
+          <li className="list-none">Chúng tôi sẽ đi tắm biển [nếu] ngày mai trời [không] mưa.</li>
 
         </ul>
 
@@ -167,14 +156,14 @@ export default function If(): React.JSX.Element {
             4. 
       ============================= */}
 
-      <p className="margin-top-20"><strong>4. In case</strong> /ɪn keɪs/</p>
+      <p className="margin-top-20">4. in case /ɪn keɪs/</p>
 
       <p className="text-indent-whole">Phòng khi, trong trường hợp; dùng để diễn tả một hành động chuẩn bị trước cho một tình huống có khả năng xảy ra.</p>
 
         <ul className="list-square">
 
-          <li>Take an umbrella <strong>______ it rains later</strong>.</li>
-          <li className="list-none">Hãy mang theo ô <strong>phòng khi lát nữa trời mưa</strong>.</li>
+          <li>TAKE an umBRELla [in case] it RAINS LAter.</li>
+          <li className="list-none">Hãy mang theo ô [phòng khi] lát nữa trời mưa.</li>
 
         </ul>
 
@@ -182,14 +171,14 @@ export default function If(): React.JSX.Element {
             5. 
       ============================= */}
 
-      <p className="margin-top-20"><strong>5. Assuming that</strong> /əˈsjuːmɪŋ ðæt/ (UK) hoặc /əˈsuːmɪŋ ðæt/ (US)</p>
+      <p className="margin-top-20">5. asSUMing that /əˈsjuːmɪŋ ðæt/ (UK) hoặc /əˈsuːmɪŋ ðæt/ (US)</p>
 
       <p className="text-indent-whole">Giả sử rằng, cứ cho là; dùng khi muốn chấp nhận một giả thuyết là đúng để thảo luận về kết quả của nó.</p>
 
         <ul className="list-square">
 
-          <li><strong>______ we start on time</strong>, we should finish by noon.</li>
-          <li className="list-none"><strong>Giả sử rằng chúng ta bắt đầu đúng giờ</strong>, chúng ta sẽ hoàn thành trước buổi trưa.</li>
+          <li>[asSUMing that] we START on TIME, we should FINish by NOON.</li>
+          <li className="list-none">[Giả sử rằng] chúng ta bắt đầu đúng giờ, chúng ta sẽ hoàn thành trước buổi trưa.</li>
 
         </ul>
 
@@ -197,14 +186,14 @@ export default function If(): React.JSX.Element {
             6. 
       ============================= */}
 
-      <p className="margin-top-20"><strong>6. On condition that</strong> /ɒn kənˈdɪʃn ðæt/ (UK) hoặc /ɑːn kənˈdɪʃn ðæt/ (US)</p>
+      <p className="margin-top-20">6. On conDITion that /ɒn kənˈdɪʃn ðæt/ (UK) hoặc /ɑːn kənˈdɪʃn ðæt/ (US)</p>
 
       <p className="text-indent-whole">Với điều kiện là; một cụm từ rất trang trọng, thường dùng trong các thỏa thuận hoặc văn bản pháp lý.</p>
 
         <ul className="list-square">
 
-          <li>He was granted bail <strong>______ he stayed in the country</strong>.</li>
-          <li className="list-none">Anh ta đã được tại ngoại <strong>với điều kiện là phải ở lại trong nước</strong>.</li>
+          <li>he was GRANTed BAIL [on conDITion that] he STAYED in the COUNtry.</li>
+          <li className="list-none">Anh ta đã được tại ngoại [với điều kiện là] phải ở lại trong nước.</li>
 
         </ul>
 
@@ -212,14 +201,14 @@ export default function If(): React.JSX.Element {
             7. 
       ============================= */}
 
-      <p className="margin-top-20"><strong>7. Whether</strong> /ˈweðə(r)/</p>
+      <p className="margin-top-20">7. <strong>wheth</strong>er /ˈweðə(r)/</p>
 
       <p className="text-indent-whole">Liệu... có hay không; dùng thay thế cho "if" khi có sự lựa chọn giữa hai khả năng (thường đi kèm cấu trúc whether... or not), mang sắc thái trang trọng hơn "if".</p>
 
         <ul className="list-square">
 
-          <li>I don't know <strong>______ she will accept the job offer or not</strong>.</li>
-          <li className="list-none">Tôi không biết <strong>liệu cô ấy có chấp nhận lời mời nhận việc đó hay không</strong>.</li>
+          <li>i DON'T KNOW [<strong>wheth</strong>er] she will acCEPT the JOB OFfer or NOT.</li>
+          <li className="list-none">Tôi không biết <strong>liệu</strong> cô ấy có chấp nhận lời mời nhận việc đó hay không.</li>
 
         </ul>
 
