@@ -244,7 +244,7 @@ export default function TieredStructure1(): React.JSX.Element {
 			<p className="text-indent-whole">Khi nhìn vào một từ đơn hành động, người học nhận diện diện mạo vật lý gốc của nó thuộc 1 trong 16 loại cấu trúc [BASE][CƠ]. Khi đặt vào câu, chính hình thái này sẽ hình thành nên các chức năng độc lập:</p>
 
 
-			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 1.1</strong>: <strong>Hình thành chức năng</strong> [<strong>Danh Cơ</strong>] [<strong>Noun Base</strong>] <strong>làm khối</strong> [<strong>NOUN SUBject</strong>][<strong>DANH CHỦ</strong>]:</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 1.1</strong>: <strong>Hình thành chức năng</strong> [<strong>Danh Cơ</strong>] [<strong>Noun Base</strong>] <strong>làm khối</strong> [<strong>SUBject PROnoun</strong>][<strong>CHỦ ĐẠI</strong>]:</p>
 			
 				<ul className="list-square">
 			
@@ -258,7 +258,7 @@ export default function TieredStructure1(): React.JSX.Element {
 				</ul>
 
 			
-			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 1.2</strong>: <strong>Hình thành chức năng</strong> [<strong>Danh Cơ</strong>] [<strong>Noun Base</strong>] <strong>làm khối</strong> [<strong>NOUN OBject</strong>][<strong>DANH NHẬN</strong>]:</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 1.2</strong>: <strong>Hình thành chức năng</strong> [<strong>Danh Cơ</strong>] [<strong>Noun Base</strong>] <strong>làm khối</strong> [<strong>OBject PROnoun</strong>][<strong>TÂN ĐẠI</strong>]:</p>
 			
 				<ul className="list-square">
 			
@@ -308,7 +308,7 @@ export default function TieredStructure1(): React.JSX.Element {
 			<p className="text-indent-whole">Khi người học nhìn thấy một vùng mã chứa nhiều từ đi kèm hành động, họ nhận diện ngay diện mạo vật lý [VERB PHRASE][ĐỘNG CỤM]. Khối hình thái này sẽ hình thành đầy đủ các chương trình chức năng đầu ra:</p>
 
 			
-			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 4.1</strong>: [<strong>NOUN PHRASE</strong>][<strong>DANH CỤM</strong>] <strong>làm khối</strong> [<strong>NOUN SUBject</strong>][<strong>DANH CHỦ</strong>]</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 4.1</strong>: [<strong>NOUN PHRASE</strong>][<strong>DANH CỤM</strong>] <strong>làm khối</strong> [<strong>SUBject PROnoun</strong>][<strong>CHỦ ĐẠI</strong>]</p>
 			
 				<ul className="list-square">
 			
@@ -322,7 +322,7 @@ export default function TieredStructure1(): React.JSX.Element {
 				</ul>
 			
 
-			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 4.2</strong>: [<strong>NOUN PHRASE</strong>][<strong>DANH CỤM</strong>] <strong>làm khối</strong> [<strong>NOUN OBject</strong>][<strong>DANH NHẬN</strong>]</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 4.2</strong>: [<strong>NOUN PHRASE</strong>][<strong>DANH CỤM</strong>] <strong>làm khối</strong> [<strong>OBject PROnoun</strong>][<strong>TÂN ĐẠI</strong>]</p>
 			
 				<ul className="list-square">
 			
@@ -406,7 +406,7 @@ export default function TieredStructure1(): React.JSX.Element {
 			<p className="text-indent-whole">Khi hệ thống vận hành ở mức độ phức tạp, bằng sức mạnh của [TIERed STRUCture][TẦNG CẤU TRÚC], các khối mã sẽ lồng vào nhau tạo nên các cấu trúc đóng gói tối tân.</p>
 
 
-			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 9.1</strong>: [<strong>NOUN PHRASE</strong>][<strong>DANH CỤM</strong>] <strong>làm khối</strong> [<strong>NOUN SUBject</strong>][<strong>DANH CHỦ</strong>]</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 9.1</strong>: [<strong>NOUN PHRASE</strong>][<strong>DANH CỤM</strong>] <strong>làm khối</strong> [<strong>SUBject PROnoun</strong>][<strong>CHỦ ĐẠI</strong>]</p>
 			
 				<ul className="list-square">
 			
@@ -437,7 +437,7 @@ export default function TieredStructure1(): React.JSX.Element {
 				</ul>
 
 
-			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 9.2</strong>: [<strong>NOUN PHRASE</strong>][<strong>DANH CỤM</strong>] <strong>làm khối</strong> [<strong>NOUN OBject</strong>][<strong>DANH NHẬN</strong>]</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 9.2</strong>: [<strong>NOUN PHRASE</strong>][<strong>DANH CỤM</strong>] <strong>làm khối</strong> [<strong>OBject PROnoun</strong>][<strong>TÂN ĐẠI</strong>]</p>
 			
 				<ul className="list-square">
 			
@@ -541,7 +541,7 @@ export default function TieredStructure1(): React.JSX.Element {
 			<h5 className="margin-y-30 text-indent-whole">Phân hệ [conJUNCtional CLAUSE][LIÊN CÂU] (Có Từ Kết Nối)</h5>
 
 
-			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 12.1</strong>: <strong>Hình thành chức năng</strong> [<strong>NOUN CLAUSE</strong>][<strong>DANH CÂU</strong>] <strong>làm khối</strong> [<strong>NOUN SUBject</strong>][<strong>DANH CHỦ</strong>]</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 12.1</strong>: <strong>Hình thành chức năng</strong> [<strong>NOUN CLAUSE</strong>][<strong>DANH CÂU</strong>] <strong>làm khối</strong> [<strong>SUBject PROnoun</strong>][<strong>CHỦ ĐẠI</strong>]</p>
 			
 				<ul className="list-square">
 			
@@ -555,7 +555,7 @@ export default function TieredStructure1(): React.JSX.Element {
 				</ul>
 
 
-			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 12.2</strong>: <strong>Hình thành chức năng</strong> [<strong>NOUN CLAUSE</strong>][<strong>DANH CÂU</strong>] <strong>làm khối</strong> [<strong>NOUN OBject</strong>][<strong>DANH NHẬN</strong>]</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 12.2</strong>: <strong>Hình thành chức năng</strong> [<strong>NOUN CLAUSE</strong>][<strong>DANH CÂU</strong>] <strong>làm khối</strong> [<strong>OBject PROnoun</strong>][<strong>TÂN ĐẠI</strong>]</p>
 			
 				<ul className="list-square">
 			
@@ -603,7 +603,7 @@ export default function TieredStructure1(): React.JSX.Element {
 
 			<p className="text-indent-whole">Đây là trạng thái tối tân của ngôn ngữ khi thành phần liên kết bị triệt tiêu hoàn toàn. Khối mã xuất hiện dưới dạng một câu con độc lập về mặt hiển thị, nhưng thực thi trọn vẹn các chức năng hệ thống:</p>
 
-			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 15</strong>: [<strong>NOUN OBject</strong>][<strong>DANH NHẬN</strong>]</p>
+			<p className="margin-top-20 text-indent-whole"><strong>Ví dụ 15</strong>: [<strong>OBject PROnoun</strong>][<strong>TÂN ĐẠI</strong>]</p>
 			
 				<ul className="list-square">
 			
