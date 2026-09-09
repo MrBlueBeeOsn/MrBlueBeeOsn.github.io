@@ -25,7 +25,7 @@ export default function Because(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>we STAYED inDOORS [because] it was RAIning HEAVily.</li>
+          <li>we STAYED inDOORS [be<strong>cause</strong>] it was RAIning HEAVily.</li>
           <li className="list-none">Chúng tôi ở trong nhà [bởi vì] trời mưa to.</li>
       
         </ul>
@@ -105,7 +105,7 @@ export default function Because(): React.JSX.Element {
 
       <h3 className="margin-y-50 text-center">SYNonyms / Từ đồng nghĩa</h3>
 
-      <p className="margin-bottom-20">Dưới đây là các từ và cụm từ có chức năng tương tự như "because" nhưng mang sắc thái biểu đạt hoặc cấu trúc khác nhau.</p>
+      <p className="margin-bottom-20">Dưới đây là các từ và cụm từ có chức năng tương tự như "be<strong>cause</strong>" nhưng mang sắc thái biểu đạt hoặc cấu trúc khác nhau.</p>
 
       {/* =============================
             1. 
