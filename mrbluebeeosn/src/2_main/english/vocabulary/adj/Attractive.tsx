@@ -31,10 +31,10 @@ export default function atTRACtive(): React.JSX.Element {
         </ul>
 
       {/* =============================
-            Pronunciation / Phát âm
+            pronunciAtion / Phát âm
       ============================= */}
 
-      <h3 className="margin-y-50 text-center">Pronunciation / Phát âm</h3>
+      <h3 className="margin-y-50 text-center">pronunciAtion / Phát âm</h3>
 
       <div className="text-border1 padding-top-20 padding-bottom-10 highlight-238-padding-4-8 bee-container">
 
@@ -43,7 +43,7 @@ export default function atTRACtive(): React.JSX.Element {
           <ul className="list-square padding-left-40">
 
             <li>IPA: [atTRACtive][a̛t TRAC tive] /əˈtræk.tɪv/</li>
-            <li>Phonetic Breakdown: uh-TRAK-tiv</li>
+            <li>phoNETic BREAKdown: uh-TRAK-tiv</li>
 
           </ul>
 
@@ -56,10 +56,10 @@ export default function atTRACtive(): React.JSX.Element {
       </div>
 
       {/* =============================
-            Word Family
+            WORD FAMILy
       ============================= */}
 
-      <h3 className="margin-y-50 text-center">Word Family</h3>
+      <h3 className="margin-y-50 text-center">WORD FAMILy</h3>
 
       <p className="margin-bottom-20">Việc nắm vững các từ cùng gốc giúp bạn linh hoạt hơn khi diễn đạt cùng một ý tưởng dưới các loại từ khác nhau</p>
 
@@ -88,10 +88,10 @@ export default function atTRACtive(): React.JSX.Element {
         </ul>
 
       {/* =============================
-            Synonyms / Từ đồng nghĩa
+            SYNonyms / Từ đồng nghĩa
       ============================= */}
 
-      <h3 className="margin-y-50 text-center">Synonyms / Từ đồng nghĩa</h3>
+      <h3 className="margin-y-50 text-center">SYNonyms / Từ đồng nghĩa</h3>
 
       <p className="margin-bottom-20">Dưới đây là các từ có nghĩa gần giống nhưng mang những sắc thái sử dụng khác nhau.</p>
 

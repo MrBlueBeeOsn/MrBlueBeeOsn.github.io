@@ -21,7 +21,7 @@ export default function If(): React.JSX.Element {
 
       {/* This is the content of Vocabulary Term. */}
 
-      <p className="margin-bottom-30"><strong>If</strong> (liên cơ): Nếu, nếu như, giả sử. Từ này được dùng để mở đầu cho một câu con điều kiện, diễn tả một tình huống giả định, một khả năng có thể xảy ra hoặc một điều kiện cần thiết để một sự việc khác diễn ra. Ngoài ra, trong câu gián tiếp, nó còn mang nghĩa là "liệu có... hay không".</p>
+      <p className="margin-bottom-30"><strong>If</strong> (conJUNCTion): Nếu, nếu như, giả sử. Từ này được dùng để mở đầu cho một câu con điều kiện, diễn tả một tình huống giả định, một khả năng có thể xảy ra hoặc một điều kiện cần thiết để một sự việc khác diễn ra. Ngoài ra, trong câu gián tiếp, nó còn mang nghĩa là "liệu có... hay không".</p>
 
         <ul className="list-square">
       
@@ -31,10 +31,10 @@ export default function If(): React.JSX.Element {
         </ul>
 
       {/* =============================
-            Pronunciation / Phát âm
+            pronunciAtion / Phát âm
       ============================= */}
 
-      <h3 className="margin-y-50 text-center">Pronunciation / Phát âm</h3>
+      <h3 className="margin-y-50 text-center">pronunciAtion / Phát âm</h3>
 
       <div className="text-border1 padding-top-20 padding-bottom-10 highlight-238-padding-4-8 bee-container">
 
@@ -43,7 +43,7 @@ export default function If(): React.JSX.Element {
           <ul className="list-square padding-left-40">
 
             <li>IPA: [if][if] /ɪf/</li>
-            <li>Phonetic Breakdown: if</li>
+            <li>phoNETic BREAKdown: if</li>
 
           </ul>
 
@@ -56,10 +56,10 @@ export default function If(): React.JSX.Element {
       </div>
 
       {/* =============================
-            Word Family
+            WORD FAMILy
       ============================= */}
 
-      <h3 className="margin-y-50 text-center">Word Family</h3>
+      <h3 className="margin-y-50 text-center">WORD FAMILy</h3>
 
       <p className="margin-bottom-20">Từ "if" là một liên cơ ngắn và không có các dạng biến đổi trực tiếp bằng cách thêm tiền tố hay hậu tố. Tuy nhiên, nó nằm trong một nhóm các từ và cụm từ ngữ pháp biểu thị điều kiện hoặc sự giả định có cùng bản chất chức năng:</p>
 
@@ -95,10 +95,10 @@ export default function If(): React.JSX.Element {
         </ul>
 
       {/* =============================
-            Synonyms / Từ đồng nghĩa
+            SYNonyms / Từ đồng nghĩa
       ============================= */}
 
-      <h3 className="margin-y-50 text-center">Synonyms / Từ đồng nghĩa</h3>
+      <h3 className="margin-y-50 text-center">SYNonyms / Từ đồng nghĩa</h3>
 
       <p className="margin-bottom-20">Dưới đây là các từ và cụm từ có chức năng tương tự như "if" dùng để thiết lập một điều kiện hoặc giả định, kèm theo sắc thái biểu đạt riêng.</p>
 

@@ -31,10 +31,10 @@ export default function BEAUtiful(): React.JSX.Element {
         </ul>
 
       {/* =============================
-            Pronunciation / Phát âm
+            pronunciAtion / Phát âm
       ============================= */}
 
-      <h3 className="margin-y-50 text-center">Pronunciation / Phát âm</h3>
+      <h3 className="margin-y-50 text-center">pronunciAtion / Phát âm</h3>
 
       <div className="text-border1 padding-top-20 padding-bottom-10 highlight-238-padding-4-8 bee-container">
 
@@ -43,7 +43,7 @@ export default function BEAUtiful(): React.JSX.Element {
           <ul className="list-square padding-left-40">
 
             <li>IPA: [BEAUtiful][BĖAU ti fưl] /ˈbjuː.tɪ.fəl/</li>
-            <li>Phonetic Breakdown: BYOO-tih-ful</li>
+            <li>phoNETic BREAKdown: BYOO-tih-ful</li>
 
           </ul>
 
@@ -56,10 +56,10 @@ export default function BEAUtiful(): React.JSX.Element {
       </div>
 
       {/* =============================
-            Word Family
+            WORD FAMILy
       ============================= */}
 
-      <h3 className="margin-y-50 text-center">Word Family</h3>
+      <h3 className="margin-y-50 text-center">WORD FAMILy</h3>
 
       <p className="margin-bottom-20">Việc hiểu cách chuyển đổi giữa các loại từ giúp bạn linh hoạt hơn trong diễn đạt, đặc biệt là khi áp dụng cấu trúc tập trung vào Danh Cơ để mô tả tính chất.</p>
 
@@ -92,10 +92,10 @@ export default function BEAUtiful(): React.JSX.Element {
         </ul>
 
       {/* =============================
-            Synonyms / Từ đồng nghĩa
+            SYNonyms / Từ đồng nghĩa
       ============================= */}
 
-      <h3 className="margin-y-50 text-center">Synonyms / Từ đồng nghĩa</h3>
+      <h3 className="margin-y-50 text-center">SYNonyms / Từ đồng nghĩa</h3>
 
       <p className="margin-bottom-20">Các từ đồng nghĩa dưới đây cung cấp những sắc thái chính xác hơn tùy thuộc vào ngữ cảnh cụ thể.</p>
 

@@ -70,7 +70,7 @@ export default function SVOMPT3(): React.JSX.Element {
 
 					<li><strong>O</strong> – <strong>Object</strong> (Danh nhận)</li>
 
-					<li><strong>V</strong> – <strong>Verb</strong> (Động cơ)</li>
+					<li><strong>V</strong> – <strong>Verb</strong> (VERB)</li>
 
 					<li><strong>S</strong> – <strong>Subject</strong> (Danh chủ)</li>
 
@@ -99,7 +99,7 @@ export default function SVOMPT3(): React.JSX.Element {
 
 					<li>Rồi đến <strong>O</strong> (Danh nhận),</li>
 
-					<li>Tiếp tục đi thẳng gặp <strong>V</strong> (Động cơ),</li>
+					<li>Tiếp tục đi thẳng gặp <strong>V</strong> (VERB),</li>
 
 					<li>Gặp <strong>S</strong> (Danh chủ) đầu tiên,</li>
 			

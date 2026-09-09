@@ -21,7 +21,7 @@ export default function Although(): React.JSX.Element {
 
       {/* This is the content of Vocabulary Term. */}
 
-      <p className="margin-bottom-30"><strong>Although</strong> (liên cơ): Mặc dù, dẫu cho. Từ này được dùng để mở đầu cho một câu con chỉ sự nhượng bộ, thể hiện một kết quả bất ngờ hoặc tương phản với thực tế được nhắc đến trong câu con đó.</p>
+      <p className="margin-bottom-30"><strong>Although</strong> (conJUNCTion): Mặc dù, dẫu cho. Từ này được dùng để mở đầu cho một câu con chỉ sự nhượng bộ, thể hiện một kết quả bất ngờ hoặc tương phản với thực tế được nhắc đến trong câu con đó.</p>
 
         <ul className="list-square">
       
@@ -31,10 +31,10 @@ export default function Although(): React.JSX.Element {
         </ul>
 
       {/* =============================
-            Pronunciation / Phát âm
+            pronunciAtion / Phát âm
       ============================= */}
 
-      <h3 className="margin-y-50 text-center">Pronunciation / Phát âm</h3>
+      <h3 className="margin-y-50 text-center">pronunciAtion / Phát âm</h3>
 
       <div className="text-border1 padding-top-20 padding-bottom-10 highlight-238-padding-4-8 bee-container">
 
@@ -43,7 +43,7 @@ export default function Although(): React.JSX.Element {
           <ul className="list-square padding-left-40">
 
             <li>IPA: [alTHOUGH][al THOUGH] /ɔːlˈðəʊ/ (UK) hoặc /ɑːlˈðoʊ/ (US)</li>
-            <li>Phonetic Breakdown: awl-DHOH</li>
+            <li>phoNETic BREAKdown: awl-DHOH</li>
 
           </ul>
 
@@ -56,38 +56,38 @@ export default function Although(): React.JSX.Element {
       </div>
 
       {/* =============================
-            Word Family
+            WORD FAMILy
       ============================= */}
 
-      <h3 className="margin-y-50 text-center">Word Family</h3>
+      <h3 className="margin-y-50 text-center">WORD FAMILy</h3>
 
       <p className="margin-bottom-20">Từ "although" là một liên cơ thuần túy và không có các dạng biến đổi trực tiếp như danh cơ, hành động hay Tính Cơ trong họ từ của riêng nó. Tuy nhiên, nó có mối quan hệ gốc rễ chặt chẽ với từ Though và các từ mang gốc biểu đạt sự nhượng bộ hoặc tương phản liên quan bao gồm:</p>
 
         <ul className="list-square">
 
-          <li><strong>Although</strong> (Liên cơ) /ɔːlˈðəʊ/ (UK) hoặc /ɑːlˈðoʊ/ (US)</li>
+          <li><strong>Although</strong> (conJUNCTion) /ɔːlˈðəʊ/ (UK) hoặc /ɑːlˈðoʊ/ (US)</li>
           <li className="list-none">The room was rather small, <strong>______ it was very clean and comfortable</strong>.</li>
           <li className="margin-bottom-20 list-none">Căn phòng khá nhỏ, <strong>mặc dù nó rất sạch sẽ và thoải mái</strong>.</li>
 
-          <li><strong>Though</strong> (Liên cơ) /ðəʊ/ (UK) hoặc /ðoʊ/ (US)</li>
+          <li><strong>Though</strong> (conJUNCTion) /ðəʊ/ (UK) hoặc /ðoʊ/ (US)</li>
           <li className="list-none">They decided to go on a picnic, <strong>______ the weather was disappointing</strong>.</li>
           <li className="margin-bottom-20 list-none">Họ đã quyết định đi dã ngoại, <strong>dẫu cho thời tiết thật đáng thất vọng</strong>.</li>
 
-          <li><strong>Though</strong> (Trạng cơ) /ðəʊ/ (UK) hoặc /ðoʊ/ (US)</li>
+          <li><strong>Though</strong> (ADverb) /ðəʊ/ (UK) hoặc /ðoʊ/ (US)</li>
           <li className="list-none">We completely forgot the map. We managed to find the hotel, ______.</li>
           <li className="margin-bottom-20 list-none">Chúng tôi đã hoàn toàn quên mang theo bản đồ. Dẫu vậy, chúng tôi vẫn tìm được khách sạn.</li>
 
-          <li><strong>Albeit</strong> (Liên cơ - Trang trọng) /ˌɔːlˈbiːɪt/</li>
+          <li><strong>Albeit</strong> (conJUNCTion) - Trang trọng /ˌɔːlˈbiːɪt/</li>
           <li className="list-none">The university accepted the proposal, <strong>______ with certain reservations</strong>.</li>
           <li className="list-none">Trường đại học đã chấp nhận đề xuất, <strong>mặc dù vẫn có những sự dè dặt nhất định</strong>.</li>
 
         </ul>
 
       {/* =============================
-            Synonyms / Từ đồng nghĩa
+            SYNonyms / Từ đồng nghĩa
       ============================= */}
 
-      <h3 className="margin-y-50 text-center">Synonyms / Từ đồng nghĩa</h3>
+      <h3 className="margin-y-50 text-center">SYNonyms / Từ đồng nghĩa</h3>
 
       <p className="margin-bottom-20">Dưới đây là các liên cơ và cụm từ có chức năng tương tự như "although" nhưng mang sắc thái biểu đạt hoặc cấu trúc ngữ pháp khác nhau.</p>
 

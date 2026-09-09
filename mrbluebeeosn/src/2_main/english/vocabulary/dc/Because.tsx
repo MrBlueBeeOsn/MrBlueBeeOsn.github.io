@@ -21,7 +21,7 @@ export default function Because(): React.JSX.Element {
 
       {/* This is the content of Vocabulary Term. */}
 
-      <p className="margin-bottom-30"><strong>Because</strong> (liên cơ): Bởi vì. Từ này được dùng để mở đầu cho một câu con chỉ nguyên nhân, lý do giải thích cho một sự việc hoặc hành động trước đó.</p>
+      <p className="margin-bottom-30"><strong>Because</strong> (conJUNCTion): Bởi vì. Từ này được dùng để mở đầu cho một câu con chỉ nguyên nhân, lý do giải thích cho một sự việc hoặc hành động trước đó.</p>
       
         <ul className="list-square">
       
@@ -31,10 +31,10 @@ export default function Because(): React.JSX.Element {
         </ul>
 
       {/* =============================
-            Pronunciation / Phát âm
+            pronunciAtion / Phát âm
       ============================= */}
 
-      <h3 className="margin-y-50 text-center">Pronunciation / Phát âm</h3>
+      <h3 className="margin-y-50 text-center">pronunciAtion / Phát âm</h3>
 
       <div className="text-border1 padding-top-20 padding-bottom-10 highlight-238-padding-4-8 bee-container">
 
@@ -43,7 +43,7 @@ export default function Because(): React.JSX.Element {
           <ul className="list-square padding-left-40">
 
             <li>IPA: [beCAUSE][be CAUSE] /bɪˈkɒz/ (UK) hoặc /bɪˈkɔːz/ (US)</li>
-            <li>Phonetic Breakdown: bih-KAWZ</li>
+            <li>phoNETic BREAKdown: bih-KAWZ</li>
 
           </ul>
 
@@ -56,54 +56,54 @@ export default function Because(): React.JSX.Element {
       </div>
 
       {/* =============================
-            Word Family
+            WORD FAMILy
       ============================= */}
 
-      <h3 className="margin-y-50 text-center">Word Family</h3>
+      <h3 className="margin-y-50 text-center">WORD FAMILy</h3>
 
       <p className="margin-bottom-20">Từ "because" ban đầu được hình thành từ cụm từ gốc "by cause of". Do đó, họ từ của nó tập trung xoay quanh gốc từ gốc là Cause.</p>
 
         <ul className="list-square">
 
-          <li><strong>Because</strong> (Liên cơ) /bɪˈkɒz/ (UK) hoặc /bɪˈkɔːz/ (US)</li>
+          <li><strong>Because</strong> (conJUNCTion) /bɪˈkɒz/ (UK) hoặc /bɪˈkɔːz/ (US)</li>
           <li className="list-none">I passed the exam <strong>______ I studied hard every night</strong>.</li>
           <li className="margin-bottom-20 list-none">Tôi đã vượt qua kỳ thi <strong>bởi vì tôi học hành chăm chỉ mỗi tối</strong>.</li>
           
-          <li><strong>Because of</strong> (Giới cơ) /bɪˈkɒz əv/ (UK) hoặc /bɪˈkɔːz əv/ (US)</li>
+          <li><strong>Because of</strong> (prepoSITion) /bɪˈkɒz əv/ (UK) hoặc /bɪˈkɔːz əv/ (US)</li>
           <li className="list-none">The flight was delayed ______ the thick fog.</li>
           <li className="margin-bottom-20 list-none">Chuyến bay đã bị hoãn vì sương mù dày đặc.</li>
           
-          <li><strong>Cause</strong> (Danh cơ) /kɔːz/</li>
+          <li><strong>Cause</strong> (NOUN) /kɔːz/</li>
           <li className="list-none">The police are trying to find the cause of the accident.</li>
           <li className="margin-bottom-20 list-none">Cảnh sát đang cố gắng tìm ra nguyên nhân của vụ tai nạn.</li>
 
-          <li><strong>Cause</strong> (Động cơ) /kɔːz/</li>
+          <li><strong>Cause</strong> (VERB) /kɔːz/</li>
           <li className="list-none">The heavy rain could ______ severe flooding in low-lying areas.</li>
           <li className="margin-bottom-20 list-none">Trận mưa lớn có thể gây ra lũ lụt nghiêm trọng ở các vùng trũng thấp.</li>
 
-          <li><strong>Causal</strong> (Tính cơ) /ˈkɔːzl/</li>
+          <li><strong>Causal</strong> (ADjective) /ˈkɔːzl/</li>
           <li className="list-none">There is a clear ______ link between poverty and lack of education.</li>
           <li className="margin-bottom-20 list-none">Có một mối liên hệ nhân quả rõ ràng giữa nghèo đói và sự thiếu thốn giáo dục.</li>
 
-          <li><strong>Causality</strong> (Danh cơ - Trừu tượng) /kɔːˈzæləti/</li>
+          <li><strong>Causality</strong> (NOUN) - Trừu tượng /kɔːˈzæləti/</li>
           <li className="list-none">The study investigates the law of ______ in human behavior.</li>
           <li className="margin-bottom-20 list-none">Nghiên cứu điều tra quy luật nhân quả trong hành vi của con người.</li>
 
-          <li><strong>Causally</strong> (Trạng cơ) /ˈkɔːzəli/</li>
+          <li><strong>Causally</strong> (ADverb) /ˈkɔːzəli/</li>
           <li className="list-none">The two historical events are ______ related to each other.</li>
           <li className="margin-bottom-20 list-none">Hai sự kiện lịch sử này có mối quan hệ nhân quả với nhau.</li>
 
-          <li><strong>Causation</strong> (Danh cơ) /kɔːˈzeɪʃn/</li>
+          <li><strong>Causation</strong> (NOUN) /kɔːˈzeɪʃn/</li>
           <li className="list-none">The research proved a strong ______ between smoking and lung disease.</li>
           <li className="list-none">Nghiên cứu đã chứng minh một mối quan hệ nhân quả mạnh mẽ giữa việc hút thuốc và bệnh phổi.</li>
 
         </ul>
 
       {/* =============================
-            Synonyms / Từ đồng nghĩa
+            SYNonyms / Từ đồng nghĩa
       ============================= */}
 
-      <h3 className="margin-y-50 text-center">Synonyms / Từ đồng nghĩa</h3>
+      <h3 className="margin-y-50 text-center">SYNonyms / Từ đồng nghĩa</h3>
 
       <p className="margin-bottom-20">Dưới đây là các từ và cụm từ có chức năng tương tự như "because" nhưng mang sắc thái biểu đạt hoặc cấu trúc khác nhau.</p>
 
