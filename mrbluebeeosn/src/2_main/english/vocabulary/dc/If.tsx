@@ -17,15 +17,15 @@ export default function If(): React.JSX.Element {
     
       <h4><HashLink smooth to="/vocabulary#dc-terms"><mark className="highlight-tertiary-padding-4-8">DC</mark></HashLink></h4>
       
-      <h1 className="margin-y-50 text-center">If</h1>
+      <h1 className="margin-y-50 text-center">if</h1>
 
       {/* This is the content of Vocabulary Term. */}
 
-      <p className="margin-bottom-30"><strong>If</strong> (conJUNCTion): Nếu, nếu như, giả sử. Từ này được dùng để mở đầu cho một câu con điều kiện, diễn tả một tình huống giả định, một khả năng có thể xảy ra hoặc một điều kiện cần thiết để một sự việc khác diễn ra. Ngoài ra, trong câu gián tiếp, nó còn mang nghĩa là "liệu có... hay không".</p>
+      <p className="margin-bottom-30"><strong>if</strong> (conJUNCTion): Nếu, nếu như, giả sử. Từ này được dùng để mở đầu cho một câu con điều kiện, diễn tả một tình huống giả định, một khả năng có thể xảy ra hoặc một điều kiện cần thiết để một sự việc khác diễn ra. Ngoài ra, trong câu gián tiếp, nó còn mang nghĩa là "liệu có... hay không".</p>
 
         <ul className="list-square">
       
-          <li>______ you study hard, you will pass the exam.</li>
+          <li>[if] you STUDy HARD, you will PASS the EXAM.</li>
           <li className="list-none">Nếu bạn học hành chăm chỉ, bạn sẽ vượt qua kỳ thi.</li>
       
         </ul>
@@ -65,31 +65,31 @@ export default function If(): React.JSX.Element {
 
         <ul className="list-square">
 
-          <li><strong>If</strong> (DC 1) /ɪf/</li>
-          <li className="list-none"><strong>If it rains tomorrow</strong>, we will cancel the picnic.</li>
-          <li className="margin-bottom-20 list-none"><strong>Nếu ngày mai trời mưa</strong>, chúng tôi sẽ hủy chuyến dã ngoại.</li>
+          <li>if (1) /ɪf/</li>
+          <li className="list-none">[if] it RAINS toMORrow, we will CANcel the PICnic.</li>
+          <li className="margin-bottom-20 list-none">[Nếu] ngày mai trời mưa, chúng tôi sẽ hủy chuyến dã ngoại.</li>
 
-          <li className="list-none">We can go for a walk <strong>______ the rain stops</strong>.</li>
-          <li className="margin-bottom-20 list-none">Chúng ta có thể đi dạo <strong>nếu cơn mưa tạnh</strong>.</li>
+          <li className="list-none">we can GO for a WALK [if] the RAIN STOPS.</li>
+          <li className="margin-bottom-20 list-none">Chúng ta có thể đi dạo [nếu] cơn mưa tạnh.</li>
 
-          <li><strong>If</strong> (DC 2) /ɪf/</li>
-          <li className="list-none"><strong>If I had a lot of money</strong>, I would travel around the world.</li>
-          <li className="margin-bottom-20 list-none"><strong>Nếu tôi có thật nhiều tiền</strong>, tôi sẽ đi du lịch quanh thế giới.</li>
+          <li>if (2) /ɪf/</li>
+          <li className="list-none">[if] i had a LOT of MONey, i would TRAVel around the WORLD.</li>
+          <li className="margin-bottom-20 list-none">[Nếu] tôi có thật nhiều tiền, tôi sẽ đi du lịch quanh thế giới.</li>
 
-          <li><strong>If</strong> (DC 3) /ɪf/</li>
-          <li className="list-none"><strong>If she had started earlier</strong>, she would not have missed the train.</li>
-          <li className="margin-bottom-20 list-none"><strong>Nếu cô ấy bắt đầu sớm hơn</strong>, cô ấy đã không bị lỡ chuyến tàu.</li>
+          <li>if (3) /ɪf/</li>
+          <li className="list-none">[if] she had STARTed EARlier, she would NOT have MISSED the TRAIN.</li>
+          <li className="margin-bottom-20 list-none">[Nếu] cô ấy bắt đầu sớm hơn, cô ấy đã không bị lỡ chuyến tàu.</li>
 
-          <li className="list-none"><strong>If you had studied harder yesterday</strong>, you would know the answer now.</li>
-          <li className="margin-bottom-20 list-none"><strong>Nếu hôm qua bạn học hành chăm chỉ hơn thì</strong>, bây giờ bạn đã biết câu trả lời rồi</li>
+          <li className="list-none">[if] you had STUDied HARDer YESterday, you would KNOW the ANswer NOW.</li>
+          <li className="margin-bottom-20 list-none">[Nếu] hôm qua bạn học hành chăm chỉ hơn thì, bây giờ bạn đã biết câu trả lời rồi</li>
 
-          <li><strong>If only</strong> (Cụm từ cố định - diễn tả ước muốn) /ɪf ˈəʊnli/ (UK) hoặc /ɪf ˈoʊnli/ (US)</li>
-          <li className="list-none"><strong>______ I had known the truth earlier</strong>, things would be different.</li>
-          <li className="margin-bottom-20 list-none"><strong>Giá mà tôi biết sự thật sớm hơn thì</strong> mọi chuyện đã khác rồi.</li>
+          <li>if Only (Cụm từ cố định - diễn tả ước muốn) /ɪf ˈəʊnli/ (UK) hoặc /ɪf ˈoʊnli/ (US)</li>
+          <li className="list-none">[if Only] i had KNOWN the TRUTH EARlier, THINGS would be DIFFERent.</li>
+          <li className="margin-bottom-20 list-none">[Giá mà] tôi biết sự thật sớm hơn thì mọi chuyện đã khác rồi.</li>
 
-          <li><strong>What-ifs</strong> (NOUN) - Thường dùng số nhiều 'what-ifs') /wɒt ɪfs/ (UK) hoặc /wʌt ɪfs/ (US)</li> 
-          <li className="list-none">Stop worrying about all the <strong>______</strong> and focus on the present.</li>
-          <li className="margin-bottom-20 list-none">Đừng lo lắng về tất cả những điều "<strong>nếu như</strong>" nữa và hãy tập trung vào hiện tại.</li>
+          <li>WHAT-ifs (NOUN) - Thường dùng số nhiều 'what-ifs' /wɒt ɪfs/ (UK) hoặc /wʌt ɪfs/ (US)</li> 
+          <li className="list-none">STOP WORrying about ALL the [WHAT-ifs] and FOCus on the PRESent.</li>
+          <li className="margin-bottom-20 list-none">Đừng lo lắng về tất cả những điều [nếu như] nữa và hãy tập trung vào hiện tại.</li>
           <li className="list-none">Lưu ý ngữ cảnh: Stop worrying về những điều "nếu như" và hãy tập trung vào hiện tại.</li>
 
         </ul>
