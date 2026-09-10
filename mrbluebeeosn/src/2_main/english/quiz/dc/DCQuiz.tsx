@@ -22,15 +22,15 @@ export default function DCQuiz(): React.JSX.Element {
 	const questions: Question[] = [
 		{
 			id: 1,
-			question: "iDENtify the dePENDent CLAUSE in the FOLlowing SENtence: \"although it was RAIning, we deCIded to GO for a WALK in the PARK.\"",
+			question: "iDENtify the dePENDent CLAUSE in the FOLlowing SENtence: \"although it was RAINing, we deCIded to GO for a WALK in the PARK.\"",
 			options: [
 				"we deCIded to GO for a WALK",
-				"although it was RAIning",
+				"although it was RAINing",
 				"in the PARK",
 				"we deCIded to GO"
 			],
 			correctAnswer: 1,
-			explanation: "\"although it was RAIning\" is a dependent clause because it begins with the subordinating conjunction \"although\" and cannot stand alone as a complete sentence."
+			explanation: "\"although it was RAINing\" is a dependent clause because it begins with the subordinating conjunction \"although\" and cannot stand alone as a complete sentence."
 		},
 		{
 			id: 2,

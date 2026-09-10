@@ -114,7 +114,7 @@ export default function GerundsAndInfinitives(): React.JSX.Element {
 			
 				<ul className="list-square">
 			
-					<li>Do you <strong>reMEMber LOCKing</strong> the DOOR?</li>
+					<li>do you <strong>reMEMber LOCKing</strong> the DOOR?</li>
 					<li className="list-none">Bạn có <strong>nhớ là đã khóa</strong> cửa chưa?</li>
 					<li className="margin-bottom-20 list-none">you là chủ thể. Cấu trúc reMEMber + hành động thêm đuôi -ing dùng để hỏi hoặc nhắc lại một sự việc, hành động đã xảy ra trong quá khứ (hành động khóa cửa đã làm rồi, giờ hỏi lại xem có nhớ việc đó không).</li>
 			

@@ -25,7 +25,7 @@ export default function Because(): React.JSX.Element {
       
         <ul className="list-square">
       
-          <li>we STAYED inDOORS [be<strong>cause</strong>] it was RAIning HEAVily.</li>
+          <li>we STAYED inDOORS [be<strong>cause</strong>] it was RAINing HEAVily.</li>
           <li className="list-none">Chúng tôi ở trong nhà [bởi vì] trời mưa to.</li>
       
         </ul>

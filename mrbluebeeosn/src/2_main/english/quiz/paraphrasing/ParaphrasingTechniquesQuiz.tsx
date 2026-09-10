@@ -106,7 +106,7 @@ export default function ParaphrasingTechniquesQuiz(): React.JSX.Element {
 		},
 		{
 			id: 8,
-			question: "oRIGinal: \"due to the FACT that it was RAIning, the GAME was CANcelled.\" PARaphrase: \"the MATCH was callED OFF because of the RAIN. \"What techNIQUE was PRImarily USED HERE?",
+			question: "oRIGinal: \"due to the FACT that it was RAINing, the GAME was CANcelled.\" PARaphrase: \"the MATCH was callED OFF because of the RAIN. \"What techNIQUE was PRImarily USED HERE?",
 			options: [
 				"Only CHAnging the WORD \"RAIN.\"",
 				"comBIning SENtences.",

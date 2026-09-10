@@ -82,7 +82,7 @@ export default function NounClausesQuiz(): React.JSX.Element {
 		},
 		{
 			id: 6,
-			question: "the MAIN CHALlenge with the NEW SOFTware is ________ it reQUIres exTENsive TRAIning for the STAFF.",
+			question: "the MAIN CHALlenge with the NEW SOFTware is ________ it reQUIres exTENsive TRAINing for the STAFF.",
 			options: [
 				"WHAT",
 				"because",
@@ -90,7 +90,7 @@ export default function NounClausesQuiz(): React.JSX.Element {
 				"HOW"
 			],
 			correctAnswer: 2,
-			explanation: "In this sentence, the noun clause functions as a predicate nominative (SUBject COMplement) following the linking verb \"is\". Since the clause \"it reQUIres exTENsive TRAIning...\" is a complete statement of fact, the conjunction \"that\" is the correct connector."
+			explanation: "In this sentence, the noun clause functions as a predicate nominative (SUBject COMplement) following the linking verb \"is\". Since the clause \"it reQUIres exTENsive TRAINing...\" is a complete statement of fact, the conjunction \"that\" is the correct connector."
 		},
 		{
 			id: 7,

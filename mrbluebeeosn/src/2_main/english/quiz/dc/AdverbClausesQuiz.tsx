@@ -106,7 +106,7 @@ export default function AdverbClausesQuiz(): React.JSX.Element {
 		},
 		{
 			id: 8,
-			question: "we deCIded to STAY inDOORS and WATCH a MOvie ___________ it was RAIning HEAVily outSIDE.",
+			question: "we deCIded to STAY inDOORS and WATCH a MOvie ___________ it was RAINing HEAVily outSIDE.",
 			options: [
 				"now that",
 				"due to",

@@ -72,7 +72,7 @@ export default function IELTSQuestions(): React.JSX.Element {
 			id: 5,
 			question: "WHAT does the ACronym Ielts STAND for?",
 			options: [
-				"InterNATional ENGlish LANGuage TRAIning STANDard",
+				"InterNATional ENGlish LANGuage TRAINing STANDard",
 				"INtegrated ENGlish LEARNing TEST SYStem",
 				"InterNATional ENGlish LANGuage TESTing SYStem",
 				"InterNATional ExamiNAtion for LinGUIStic and TESTing SKILLS"
