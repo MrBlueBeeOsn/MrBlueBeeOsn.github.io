@@ -30,7 +30,7 @@ export default function DEALER(): React.JSX.Element {
 
           <p className="example-sentence text-center">
             
-            <span className="pill teal">DEBit [ASset]</span>&nbsp;
+            <span className="pill teal">DEBit [ASsets]</span>&nbsp;
             <span className="pill teal">=</span>&nbsp;
             <span className="pill teal">CREDit [liaBILities + EQuity]</span>
           </p>
