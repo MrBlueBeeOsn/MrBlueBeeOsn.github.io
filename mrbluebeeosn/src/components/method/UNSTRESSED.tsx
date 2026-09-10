@@ -29,11 +29,11 @@ export default function VERBSADDS(): React.JSX.Element {
 					</p>
 					
 					<p className="example-sentence">
-						<span className="pill s">TIred</span> &nbsp;<span className="pill p">/taɪ.əd/</span>
+						<span className="pill s">TIred</span> &nbsp; <span className="pill p">ˈtī(-ə)rd</span> &nbsp;<span className="pill v">/taɪ.əd/</span>
 					</p>
 
 					<p className="example-sentence">
-						<span className="pill s">FIre</span> &nbsp;<span className="pill p">/faɪ.ər/</span>
+						<span className="pill s">FIre</span> &nbsp;<span className="pill p">ˈfī(-ə)r</span> &nbsp;<span className="pill v">/faɪ.ər/</span>
 					</p>
 
 				</div>

@@ -34,31 +34,7 @@ export default function PronunciationIndex(): React.JSX.Element {
                           
       </div>
 
-      <div className="vocabulary-container">
-                        
-        {/* =============================
-              PronunciationIndex Quiz
-        ============================= */}
-
-        <details className="sub-box-fix-2">
       
-          <summary id="pronunciation-basic-practice"><mark className="highlight-secondary-padding-2-4">Quiz</mark></summary>
-
-          <ul className="list-border1">
-
-            <li>
-              <div className="li-content">
-                <Link to="/english/english-multiple-choice"></Link>
-              </div>
-            </li>
-
-            
-            
-          </ul>
-
-        </details>
-
-      </div>
 
       <div className="flex-container margin-top-20">
 
@@ -101,10 +77,44 @@ export default function PronunciationIndex(): React.JSX.Element {
               </div>
             </li>
 
+            <li>
+              <div className="li-content">
+                <Link to="/pronunciation/5-vowel-system">5 Vowel System</Link>
+              </div>
+            </li>
+
             
           </ul>
 
         </div>
+
+
+      </div>
+
+
+      <div className="vocabulary-container margin-top-20">
+                        
+        {/* =============================
+              PronunciationIndex Quiz
+        ============================= */}
+
+        <details className="sub-box-fix-2">
+      
+          <summary id="pronunciation-basic-practice"><mark className="highlight-secondary-padding-2-4">Quiz</mark></summary>
+
+          <ul className="list-border1">
+
+            <li>
+              <div className="li-content">
+                <Link to="/english/english-multiple-choice"></Link>
+              </div>
+            </li>
+
+            
+            
+          </ul>
+
+        </details>
 
       </div>
 

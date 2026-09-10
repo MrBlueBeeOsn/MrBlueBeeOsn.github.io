@@ -33,55 +33,7 @@ export default function GrammarIndex(): React.JSX.Element {
                           
       </div>
 
-      <div className="vocabulary-container">
-            
-        {/* =============================
-              Grammar Quiz
-        ============================= */}
-
-        <details className="sub-box-fix-2">
       
-          <summary id="english-basic-practice"><mark className="highlight-secondary-padding-2-4">Quiz</mark></summary>
-
-          <ul className="list-border1">
-
-            <li>
-              <div className="li-content">
-                <Link to="/grammar/english-grammar-questions">English Grammar Questions</Link>
-              </div>
-            </li>
-
-            <li>
-              <div className="li-content">
-                <Link to="/grammar/english-grammar-questions-2">English Grammar Questions 2</Link>
-              </div>
-            </li>
-            
-          </ul>
-
-        </details>
-
-        {/* =============================
-              Tenses Quiz
-        ============================= */}
-
-        <details className="sub-box-fix-2">
-      
-          <summary id="tense-basic-practice"><mark className="highlight-secondary-padding-2-4">Tenses</mark></summary>
-
-          <ul className="list-border1">
-
-            <li>
-              <div className="li-content">
-                <Link to="/grammar/english-tenses-quiz">English Tenses Quiz</Link>
-              </div>
-            </li>
-            
-          </ul>
-
-        </details>
-
-      </div>
 
       <div className="flex-container margin-top-20">
 
@@ -135,6 +87,57 @@ export default function GrammarIndex(): React.JSX.Element {
 
         </div>
 
+
+      </div>
+
+
+      <div className="vocabulary-container margin-top-20">
+            
+        {/* =============================
+              Grammar Quiz
+        ============================= */}
+
+        <details className="sub-box-fix-2">
+      
+          <summary id="english-basic-practice"><mark className="highlight-secondary-padding-2-4">Quiz</mark></summary>
+
+          <ul className="list-border1">
+
+            <li>
+              <div className="li-content">
+                <Link to="/grammar/english-grammar-questions">English Grammar Questions</Link>
+              </div>
+            </li>
+
+            <li>
+              <div className="li-content">
+                <Link to="/grammar/english-grammar-questions-2">English Grammar Questions 2</Link>
+              </div>
+            </li>
+            
+          </ul>
+
+        </details>
+
+        {/* =============================
+              Tenses Quiz
+        ============================= */}
+
+        <details className="sub-box-fix-2">
+      
+          <summary id="tense-basic-practice"><mark className="highlight-secondary-padding-2-4">Tenses</mark></summary>
+
+          <ul className="list-border1">
+
+            <li>
+              <div className="li-content">
+                <Link to="/grammar/english-tenses-quiz">English Tenses Quiz</Link>
+              </div>
+            </li>
+            
+          </ul>
+
+        </details>
 
       </div>
 

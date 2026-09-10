@@ -132,6 +132,7 @@ const Posts = lazy(() => import('@/data/Posts'));
 	const Pronunciation = lazy(() => import('@/2_main/english/pronunciation/Pronunciation'));
 	const IPA = lazy(() => import('@/2_main/english/pronunciation/IPA'));
 	const UnstressedWords = lazy(() => import('@/2_main/english/pronunciation/UnstressedWords'));
+	const VowelSystem = lazy(() => import('@/2_main/english/pronunciation/VowelSystem'));
 
 	// 4. Tiếng Anh
 	const TiengAnhIndex = lazy(() => import('@/2_main/english/_indexes/TiengAnhIndex'));
@@ -738,6 +739,7 @@ export default function AppRoutes(): React.JSX.Element {
 					<Route path="/pronunciation/what-is-pronunciation?" element={<Pronunciation />} />
 					<Route path="/pronunciation/what-is-IPA?" element={<IPA />} />
 					<Route path="/pronunciation/unstressed-words" element={<UnstressedWords />} />
+					<Route path="/pronunciation/5-vowel-system" element={<VowelSystem />} />
 					
 					{/* 4. Tiếng Anh */}
 					<Route path="/tieng-anh" element={<TiengAnhIndex />} />

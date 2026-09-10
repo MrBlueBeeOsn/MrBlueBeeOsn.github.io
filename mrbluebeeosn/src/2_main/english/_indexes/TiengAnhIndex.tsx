@@ -32,403 +32,21 @@ export default function TiengAnhIndex(): React.JSX.Element {
                     
       </div>
 
-      <div className="vocabulary-container">
-                  
-        {/* =============================
-              Tiếng Anh Quiz
-        ============================= */}
-
-        <details className="sub-box-fix-2">
       
-          <summary id="tieng-anh-basic-practice"><mark className="highlight-secondary-padding-2-4">Quiz</mark></summary>
 
-          <ul className="list-border1">
 
-            <li>
-              <div className="li-content">
-                <Link to="/tieng-anh/tieng-anh-questions">Tiếng Anh questions</Link>
-              </div>
-            </li>
 
-            
-            
-          </ul>
-
-        </details>
-
-        {/* =============================
-              Ngữ pháp Quiz
-        ============================= */}
-
-        <details className="sub-box-fix-2">
-      
-          <summary id="ngu-phap-basic-practice"><mark className="highlight-secondary-padding-2-4">Ngữ pháp</mark></summary>
-
-          <ul className="list-border1">
-
-            <li>
-              <div className="li-content">
-                <Link to="/tieng-anh/trac-nghiem-ngu-phap-tieng-anh">Trắc Nghiệm Ngữ Pháp Tiếng Anh</Link>
-              </div>
-            </li>
-
-            
-            
-          </ul>
-
-        </details>
-
-        {/* =============================
-              Phrasal Verbs Quiz
-        ============================= */}
-
-        <details className="sub-box-fix-2">
-      
-          <summary id="cum-dong-tu-basic-practice"><mark className="highlight-secondary-padding-2-4">Động cụm</mark></summary>
-
-          <ul className="list-border1">
-
-            <li>
-              <div className="li-content">
-                <Link to="/tieng-anh/phrasal-verbs-quiz">Phrasal Verbs Quiz</Link>
-              </div>
-            </li>
-
-            
-            
-          </ul>
-
-        </details>
-
-        {/* =============================
-              EV Tense Quiz
-        ============================= */}
-
-        <details className="sub-box-fix-2">
-      
-          <summary id="ev-tense-basic-practice"><mark className="highlight-secondary-padding-2-4">Thời Gian Hành Động</mark></summary>
-
-          <ul className="list-border1">
-
-              <li>
-                <div className="li-content">
-                  <Link to="trac-nghiem-thoi-gian-hanh-dong-tieng-anh">Trắc Nghiệm Thời Gian Hành Động Tiếng Anh</Link>
-                </div>
-              </li>
-
-            
-            
-          </ul>
-
-        </details>
-
-        {/* =============================
-              GERunds and inFINitives Quiz
-        ============================= */}
-
-        <details className="sub-box-fix-2">
-      
-          <summary id="ving-tov-basic-practice"><mark className="highlight-secondary-padding-2-4">GERunds and inFINitives</mark></summary>
-
-          <ul className="list-border1">
-
-            <li>
-              <div className="li-content">
-                <Link to="/tieng-anh/trac-nghiem-gerunds-and-infinitives">Trắc Nghiệm Gerunds và Infinitives</Link>
-              </div>
-            </li>
-
-            
-            
-          </ul>
-
-        </details>
-
-        {/* =============================
-              Subject-Verb Agreement Quiz
-        ============================= */}
-
-        <details className="sub-box-fix-2">
-      
-          <summary id="ev-subject-verb-agreement-basic-practice"><mark className="highlight-secondary-padding-2-4">Subject-Verb Agreement</mark></summary>
-
-          <ul className="list-border1">
-
-            <li>
-              <div className="li-content">
-                <Link to="/tieng-anh/ev-subject-verb-quiz">Trắc Nghiệm Subject-Verb Agreement (SVA)</Link>
-              </div>
-            </li>
-
-            
-            
-          </ul>
-
-        </details>
-
-        {/* =============================
-              Primary Auxiliary Verbs Quiz
-        ============================= */}
-
-        <details className="sub-box-fix-2">
-      
-          <summary id="ev-primary-auxiliary-verbs-quiz"><mark className="highlight-secondary-padding-2-4">Primary Auxiliary Verbs</mark></summary>
-
-          <ul className="list-border1">
-
-            <li>
-              <div className="li-content">
-                <Link to="/tieng-anh/ev-primary-auxiliary-verbs-quiz">EV - Primary Auxiliary Verbs</Link>
-              </div>
-            </li>
-
-            
-            
-          </ul>
-
-        </details>
-
-        {/* =============================
-              EV Auxiliary Verbs Quiz
-        ============================= */}
-
-        <details className="sub-box-fix-2">
-      
-          <summary id="ev-auxiliary-verbs-basic-practice"><mark className="highlight-secondary-padding-2-4">Auxiliary Verbs</mark></summary>
-
-          <ul className="list-border1">
-
-            <li>
-              <div className="li-content">
-                <Link to="/tieng-anh/ev-auxiliary-verbs-quiz">Trắc Nghiệm Auxiliary Verbs</Link>
-              </div>
-            </li>
-
-            
-            
-          </ul>
-
-        </details>
-
-        {/* =============================
-              EV Singular and Plural Verbs Quiz
-        ============================= */}
-
-        <details className="sub-box-fix-2">
-      
-          <summary id="ev-singular-and-plural-verbs-quiz"><mark className="highlight-secondary-padding-2-4">Singular and Plural Verbs</mark></summary>
-
-          <ul className="list-border1">
-
-            <li>
-              <div className="li-content">
-                <Link to="/tieng-anh/ev-singular-and-plural-verbs-quiz">EV - Singular and Plural Verbs</Link>
-              </div>
-            </li>
-
-            
-            
-          </ul>
-
-        </details>
-
-        {/* =============================
-              EV Singular and Plural Nouns Quiz
-        ============================= */}
-
-        <details className="sub-box-fix-2">
-      
-          <summary id="ev-singular-and-plural-nouns-quiz"><mark className="highlight-secondary-padding-2-4">Singular and Plural Nouns</mark></summary>
-
-          <ul className="list-border1">
-
-            <li>
-              <div className="li-content">
-                <Link to="/tieng-anh/ev-singular-and-plural-nouns-quiz">EV - Singular and Plural Nouns</Link>
-              </div>
-            </li>
-
-            
-            
-          </ul>
-
-        </details>
-
-        {/* =============================
-              EV Prepositions Quiz
-        ============================= */}
-
-        <details className="sub-box-fix-2">
-      
-          <summary id="ev-prepositions-quiz"><mark className="highlight-secondary-padding-2-4">Prepositions</mark></summary>
-
-          <ul className="list-border1">
-
-            <li>
-              <div className="li-content">
-                <Link to="/tieng-anh/ev-prepositions-quiz">EV - Prepositions</Link>
-              </div>
-            </li>
-
-            
-            
-          </ul>
-
-        </details>
-
-        {/* =============================
-              EV S And Es In Nouns Verbs Quiz
-        ============================= */}
-
-        <details className="sub-box-fix-2">
-      
-          <summary id="ev-s-and-es-in-nouns-and-verbs-quiz"><mark className="highlight-secondary-padding-2-4">S And Es In Nouns Verbs</mark></summary>
-
-          <ul className="list-border1">
-
-            <li>
-              <div className="li-content">
-                <Link to="/tieng-anh/ev-s-and-es-in-nouns-and-verbs-quiz">Trắc Nghiệm - S And Es In Nouns Verbs</Link>
-              </div>
-            </li>
-
-            
-            
-          </ul>
-
-        </details>
-
-        {/* =============================
-              EV Articles Quiz
-        ============================= */}
-
-        <details className="sub-box-fix-2">
-      
-          <summary id="ev-articles-quiz"><mark className="highlight-secondary-padding-2-4">Articles</mark></summary>
-
-          <ul className="list-border1">
-
-            <li>
-              <div className="li-content">
-                <Link to="/tieng-anh/ev-articles-quiz">Trắc Nghiệm - Articles</Link>
-              </div>
-            </li>
-
-            
-            
-          </ul>
-
-        </details>
-
-        {/* =============================
-              EV ParaphrasingTechniquesQuiz
-        ============================= */}
-
-        <details className="sub-box-fix-2">
-      
-          <summary id="ev-paraphrasing-techniques-quiz"><mark className="highlight-secondary-padding-2-4">Paraphrasing Techniques</mark></summary>
-
-          <ul className="list-border1">
-
-            <li>
-              <div className="li-content">
-                <Link to="/tieng-anh/ev-paraphrasing-techniques-quiz">Trắc Nghiệm - Paraphrasing Techniques</Link>
-              </div>
-            </li>
-
-            
-            
-          </ul>
-
-        </details>
-
-        {/* =============================
-              EV DC Quiz
-        ============================= */}
-
-        <details className="sub-box-fix-2">
-      
-          <summary id="ev-dc-quiz"><mark className="highlight-secondary-padding-2-4">DC</mark></summary>
-
-          <ul className="list-border1">
-
-            
-            <li>
-              <div className="li-content">
-                <Link to="/tieng-anh/ev-adjective-clauses-quiz">Trắc Nghiệm DC - Adjective</Link>
-              </div>
-            </li>
-
-            <li>
-              <div className="li-content">
-                <Link to="/tieng-anh/ev-adverb-clauses-quiz">Trắc Nghiệm DC - Adverb</Link>
-              </div>
-            </li>
-
-            <li>
-              <div className="li-content">
-                <Link to="/tieng-anh/ev-noun-clauses-quiz">Trắc Nghiệm DC - Noun</Link>
-              </div>
-            </li>
-            
-            <li>
-              <div className="li-content">
-                <Link to="/tieng-anh/ev-dc-quiz">Trắc Nghiệm DC</Link>
-              </div>
-            </li>
-
-            
-            
-          </ul>
-
-        </details>
-
-        {/* =============================
-              EV Matrix Quiz
-        ============================= */}
-
-        <details className="sub-box-fix-2">
-      
-          <summary id="ev-matrix-quiz"><mark className="highlight-secondary-padding-2-4">Matrix</mark></summary>
-
-          <ul className="list-border1">
-
-            
-            <li>
-              <div className="li-content">
-                <Link to="/tieng-anh/ev-matrix-quiz">EV Matrix Quiz</Link>
-              </div>
-            </li>
-
-            <li>
-              <div className="li-content">
-                <Link to="/tieng-anh/ev-bookkeeping-matrix-quiz">EV Bookkeeping Matrix</Link>
-              </div>
-            </li>
-
-            
-
-            
-            
-          </ul>
-
-        </details>
-
-        
-
-        
-
-
-
-      </div>
 
       <div className="flex-container margin-top-20">
 
-        <div className="sub-box">
 
           {/* =============================
               pronunciAtion
           ============================= */}
+
+        {/* <div className="sub-box">
+
+          
       
           <p id="pronunciation-terms"><mark className="highlight-secondary-padding-2-4">pronunciAtion</mark></p>
 
@@ -461,7 +79,7 @@ export default function TiengAnhIndex(): React.JSX.Element {
             
           </ul>
 
-        </div>
+        </div> */}
 
         <div className="sub-box">
 
@@ -607,9 +225,6 @@ export default function TiengAnhIndex(): React.JSX.Element {
 
         </div>
 
-      </div>
-
-      <div className="flex-container margin-top-20">
 
         <div className="sub-box">
 
@@ -631,10 +246,10 @@ export default function TiengAnhIndex(): React.JSX.Element {
 
         </div>
 
-        
-        
+      
 
       </div>
+
 
 
       <div className="flex-container margin-top-20">
@@ -1068,8 +683,6 @@ export default function TiengAnhIndex(): React.JSX.Element {
 
       </div>
 
-
-
       <div className="flex-container margin-top-20">
 
         <div className="sub-box">
@@ -1083,6 +696,394 @@ export default function TiengAnhIndex(): React.JSX.Element {
         </div>
 
       </div>
+
+
+      <div className="vocabulary-container margin-top-20">
+                  
+        {/* =============================
+              Tiếng Anh Quiz
+        ============================= */}
+
+        <details className="sub-box-fix-2">
+      
+          <summary id="tieng-anh-basic-practice"><mark className="highlight-secondary-padding-2-4">Quiz</mark></summary>
+
+          <ul className="list-border1">
+
+            <li>
+              <div className="li-content">
+                <Link to="/tieng-anh/tieng-anh-questions">Tiếng Anh questions</Link>
+              </div>
+            </li>
+
+            
+            
+          </ul>
+
+        </details>
+
+        {/* =============================
+              Ngữ pháp Quiz
+        ============================= */}
+
+        <details className="sub-box-fix-2">
+      
+          <summary id="ngu-phap-basic-practice"><mark className="highlight-secondary-padding-2-4">Ngữ pháp</mark></summary>
+
+          <ul className="list-border1">
+
+            <li>
+              <div className="li-content">
+                <Link to="/tieng-anh/trac-nghiem-ngu-phap-tieng-anh">Trắc Nghiệm Ngữ Pháp Tiếng Anh</Link>
+              </div>
+            </li>
+
+            
+            
+          </ul>
+
+        </details>
+
+        {/* =============================
+              Phrasal Verbs Quiz
+        ============================= */}
+
+        <details className="sub-box-fix-2">
+      
+          <summary id="cum-dong-tu-basic-practice"><mark className="highlight-secondary-padding-2-4">Động cụm</mark></summary>
+
+          <ul className="list-border1">
+
+            <li>
+              <div className="li-content">
+                <Link to="/tieng-anh/phrasal-verbs-quiz">Phrasal Verbs Quiz</Link>
+              </div>
+            </li>
+
+            
+            
+          </ul>
+
+        </details>
+
+        {/* =============================
+              EV Tense Quiz
+        ============================= */}
+
+        <details className="sub-box-fix-2">
+      
+          <summary id="ev-tense-basic-practice"><mark className="highlight-secondary-padding-2-4">Thời Gian Hành Động</mark></summary>
+
+          <ul className="list-border1">
+
+              <li>
+                <div className="li-content">
+                  <Link to="trac-nghiem-thoi-gian-hanh-dong-tieng-anh">Trắc Nghiệm Thời Gian Hành Động Tiếng Anh</Link>
+                </div>
+              </li>
+
+            
+            
+          </ul>
+
+        </details>
+
+        {/* =============================
+              GERunds and inFINitives Quiz
+        ============================= */}
+
+        <details className="sub-box-fix-2">
+      
+          <summary id="ving-tov-basic-practice"><mark className="highlight-secondary-padding-2-4">GERunds and inFINitives</mark></summary>
+
+          <ul className="list-border1">
+
+            <li>
+              <div className="li-content">
+                <Link to="/tieng-anh/trac-nghiem-gerunds-and-infinitives">Trắc Nghiệm Gerunds và Infinitives</Link>
+              </div>
+            </li>
+
+            
+            
+          </ul>
+
+        </details>
+
+        {/* =============================
+              Subject-Verb Agreement Quiz
+        ============================= */}
+
+        <details className="sub-box-fix-2">
+      
+          <summary id="ev-subject-verb-agreement-basic-practice"><mark className="highlight-secondary-padding-2-4">Subject-Verb Agreement</mark></summary>
+
+          <ul className="list-border1">
+
+            <li>
+              <div className="li-content">
+                <Link to="/tieng-anh/ev-subject-verb-quiz">Trắc Nghiệm Subject-Verb Agreement (SVA)</Link>
+              </div>
+            </li>
+
+            
+            
+          </ul>
+
+        </details>
+
+        {/* =============================
+              Primary Auxiliary Verbs Quiz
+        ============================= */}
+
+        <details className="sub-box-fix-2">
+      
+          <summary id="ev-primary-auxiliary-verbs-quiz"><mark className="highlight-secondary-padding-2-4">Primary Auxiliary Verbs</mark></summary>
+
+          <ul className="list-border1">
+
+            <li>
+              <div className="li-content">
+                <Link to="/tieng-anh/ev-primary-auxiliary-verbs-quiz">EV - Primary Auxiliary Verbs</Link>
+              </div>
+            </li>
+
+            
+            
+          </ul>
+
+        </details>
+
+        {/* =============================
+              EV Auxiliary Verbs Quiz
+        ============================= */}
+
+        <details className="sub-box-fix-2">
+      
+          <summary id="ev-auxiliary-verbs-basic-practice"><mark className="highlight-secondary-padding-2-4">Auxiliary Verbs</mark></summary>
+
+          <ul className="list-border1">
+
+            <li>
+              <div className="li-content">
+                <Link to="/tieng-anh/ev-auxiliary-verbs-quiz">Trắc Nghiệm Auxiliary Verbs</Link>
+              </div>
+            </li>
+
+            
+            
+          </ul>
+
+        </details>
+
+        {/* =============================
+              EV Singular and Plural Verbs Quiz
+        ============================= */}
+
+        <details className="sub-box-fix-2">
+      
+          <summary id="ev-singular-and-plural-verbs-quiz"><mark className="highlight-secondary-padding-2-4">Singular and Plural Verbs</mark></summary>
+
+          <ul className="list-border1">
+
+            <li>
+              <div className="li-content">
+                <Link to="/tieng-anh/ev-singular-and-plural-verbs-quiz">EV - Singular and Plural Verbs</Link>
+              </div>
+            </li>
+
+            
+            
+          </ul>
+
+        </details>
+
+        {/* =============================
+              EV Singular and Plural Nouns Quiz
+        ============================= */}
+
+        <details className="sub-box-fix-2">
+      
+          <summary id="ev-singular-and-plural-nouns-quiz"><mark className="highlight-secondary-padding-2-4">Singular and Plural Nouns</mark></summary>
+
+          <ul className="list-border1">
+
+            <li>
+              <div className="li-content">
+                <Link to="/tieng-anh/ev-singular-and-plural-nouns-quiz">EV - Singular and Plural Nouns</Link>
+              </div>
+            </li>
+
+            
+            
+          </ul>
+
+        </details>
+
+        {/* =============================
+              EV Prepositions Quiz
+        ============================= */}
+
+        <details className="sub-box-fix-2">
+      
+          <summary id="ev-prepositions-quiz"><mark className="highlight-secondary-padding-2-4">Prepositions</mark></summary>
+
+          <ul className="list-border1">
+
+            <li>
+              <div className="li-content">
+                <Link to="/tieng-anh/ev-prepositions-quiz">EV - Prepositions</Link>
+              </div>
+            </li>
+
+            
+            
+          </ul>
+
+        </details>
+
+        {/* =============================
+              EV S And Es In Nouns Verbs Quiz
+        ============================= */}
+
+        <details className="sub-box-fix-2">
+      
+          <summary id="ev-s-and-es-in-nouns-and-verbs-quiz"><mark className="highlight-secondary-padding-2-4">S And Es In Nouns Verbs</mark></summary>
+
+          <ul className="list-border1">
+
+            <li>
+              <div className="li-content">
+                <Link to="/tieng-anh/ev-s-and-es-in-nouns-and-verbs-quiz">Trắc Nghiệm - S And Es In Nouns Verbs</Link>
+              </div>
+            </li>
+
+            
+            
+          </ul>
+
+        </details>
+
+        {/* =============================
+              EV Articles Quiz
+        ============================= */}
+
+        <details className="sub-box-fix-2">
+      
+          <summary id="ev-articles-quiz"><mark className="highlight-secondary-padding-2-4">Articles</mark></summary>
+
+          <ul className="list-border1">
+
+            <li>
+              <div className="li-content">
+                <Link to="/tieng-anh/ev-articles-quiz">Trắc Nghiệm - Articles</Link>
+              </div>
+            </li>
+
+            
+            
+          </ul>
+
+        </details>
+
+        {/* =============================
+              EV ParaphrasingTechniquesQuiz
+        ============================= */}
+
+        <details className="sub-box-fix-2">
+      
+          <summary id="ev-paraphrasing-techniques-quiz"><mark className="highlight-secondary-padding-2-4">Paraphrasing Techniques</mark></summary>
+
+          <ul className="list-border1">
+
+            <li>
+              <div className="li-content">
+                <Link to="/tieng-anh/ev-paraphrasing-techniques-quiz">Trắc Nghiệm - Paraphrasing Techniques</Link>
+              </div>
+            </li>
+
+            
+            
+          </ul>
+
+        </details>
+
+        {/* =============================
+              EV DC Quiz
+        ============================= */}
+
+        <details className="sub-box-fix-2">
+      
+          <summary id="ev-dc-quiz"><mark className="highlight-secondary-padding-2-4">DC</mark></summary>
+
+          <ul className="list-border1">
+
+            
+            <li>
+              <div className="li-content">
+                <Link to="/tieng-anh/ev-adjective-clauses-quiz">Trắc Nghiệm DC - Adjective</Link>
+              </div>
+            </li>
+
+            <li>
+              <div className="li-content">
+                <Link to="/tieng-anh/ev-adverb-clauses-quiz">Trắc Nghiệm DC - Adverb</Link>
+              </div>
+            </li>
+
+            <li>
+              <div className="li-content">
+                <Link to="/tieng-anh/ev-noun-clauses-quiz">Trắc Nghiệm DC - Noun</Link>
+              </div>
+            </li>
+            
+            <li>
+              <div className="li-content">
+                <Link to="/tieng-anh/ev-dc-quiz">Trắc Nghiệm DC</Link>
+              </div>
+            </li>
+
+            
+            
+          </ul>
+
+        </details>
+
+        {/* =============================
+              EV Matrix Quiz
+        ============================= */}
+
+        <details className="sub-box-fix-2">
+      
+          <summary id="ev-matrix-quiz"><mark className="highlight-secondary-padding-2-4">Matrix</mark></summary>
+
+          <ul className="list-border1">
+
+            
+            <li>
+              <div className="li-content">
+                <Link to="/tieng-anh/ev-matrix-quiz">EV Matrix Quiz</Link>
+              </div>
+            </li>
+
+            <li>
+              <div className="li-content">
+                <Link to="/tieng-anh/ev-bookkeeping-matrix-quiz">EV Bookkeeping Matrix</Link>
+              </div>
+            </li>
+
+            
+
+            
+            
+          </ul>
+
+        </details>
+
+      
+
+      </div>
+
 
     </article>
     

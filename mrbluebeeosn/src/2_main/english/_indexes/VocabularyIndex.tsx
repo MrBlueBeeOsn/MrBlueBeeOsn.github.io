@@ -33,6 +33,48 @@ export default function VocabularyIndex(): React.JSX.Element {
 			</div>
 
 			
+			<div className="flex-container margin-top-20">
+			
+			
+				{/* =============================
+						VERB
+				============================= */}
+
+				<div className="sub-box">
+
+					{/* =============================
+							VERBS
+					============================= */}
+			
+					<p id="verbs-terms"><mark className="highlight-secondary-padding-2-4">VERBS</mark></p>
+
+					<ul className="list-border1">
+
+						<li>
+              <div className="li-content">
+                <Link to="/tieng-anh/gerunds-and-infinitives">GERunds and inFINitives</Link>
+              </div>
+            </li>
+
+            <li>
+              <div className="li-content">
+                <Link to="/tieng-anh/irregular-verbs">irREGular VERBS</Link>
+              </div>
+            </li>
+
+            <li>
+              <div className="li-content">
+                <Link to="/tieng-anh/phrasal-verbs">PHRAsal VERBS</Link>
+              </div>
+            </li>
+
+					</ul>
+
+				</div>
+
+			
+
+			</div>
 
 
 			<div className="vocabulary-container margin-top-20">
@@ -59,44 +101,6 @@ export default function VocabularyIndex(): React.JSX.Element {
 						<li>
 							<Link to="/vocabulary/create">[creATE]</Link> 	
 						</li>
-
-						
-						
-
-					</ul>
-
-
-				</details>
-
-
-				{/* =============================
-							Verbs
-				============================= */}
-
-
-				<details className="sub-box-fix">
-			
-					<summary id="verbs-terms"><mark className="highlight-secondary-padding-2-4">VERBS</mark></summary>
-
-					<ul className="list-border1">
-
-						<li>
-              <div className="li-content">
-                <Link to="/tieng-anh/gerunds-and-infinitives">GERunds and inFINitives</Link>
-              </div>
-            </li>
-
-            <li>
-              <div className="li-content">
-                <Link to="/tieng-anh/irregular-verbs">irREGular VERBS</Link>
-              </div>
-            </li>
-
-            <li>
-              <div className="li-content">
-                <Link to="/tieng-anh/phrasal-verbs">PHRAsal VERBS</Link>
-              </div>
-            </li>
 
 						
 						
