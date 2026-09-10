@@ -21,7 +21,7 @@ export default function DEALER(): React.JSX.Element {
       <p className="margin-top-20 text-center">
       
         <span className="highlight-255-padding-0-4 text-border">
-          <strong>🟦 The Accounting Equation</strong>
+          <strong>🟦 the AcCOUNTing eQUAtion</strong>
         </span>
 
       </p>
@@ -30,23 +30,23 @@ export default function DEALER(): React.JSX.Element {
 
           <p className="example-sentence text-center">
             
-            <span className="pill teal">[Debit][DEA]</span>&nbsp;
+            <span className="pill teal">DEBit [ASset]</span>&nbsp;
             <span className="pill teal">=</span>&nbsp;
-            <span className="pill teal">[Credit][LER]</span>
+            <span className="pill teal">CREDit [liaBILities + EQuity]</span>
           </p>
 
         <div className="example">
 
           <p className="example-sentence text-center">
-             <span>[Debit][Dividends Expenses Assets]</span>&nbsp;
+             <span>ASsets = CURrent + nonCURrent</span>&nbsp;
           </p>
 
-          {/* <p className="example-sentence text-center">
-             <span className="teal">=</span>
-          </p> */}
+          <p className="example-sentence text-center">
+             <span>liaBILities = CURrent + nonCURrent</span>
+          </p>
 
           <p className="example-sentence text-center">
-             <span>= [Credit][Liabilities Equity Revenue]</span>
+             <span>EQuity = REVenue - exPENses</span>
           </p>
 
         </div>
