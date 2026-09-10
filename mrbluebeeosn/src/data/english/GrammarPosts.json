@@ -80,6 +80,15 @@
       "content": "Verbs S",
       "slug": "grammar/verbs-s",
       "date": "2026-09-05"
+    },
+    { 
+      "id": "VerbAndObject",
+      "categoryDisplay": "Grammar",
+      "categorySlug": "grammar",
+      "title": "Verb And Object",
+      "content": "How V and O (Object) both collapse into What",
+      "slug": "grammar/verb-and-object",
+      "date": "2026-09-10"
     }
   ]
 }

@@ -82,6 +82,12 @@ export default function GrammarIndex(): React.JSX.Element {
                 <Link to="/grammar/verbs-s">Verbs S</Link>
               </div>
             </li>
+
+            <li>
+              <div className="li-content">
+                <Link to="/grammar/verb-and-object">Verb and Object</Link>
+              </div>
+            </li>
             
           </ul>
 

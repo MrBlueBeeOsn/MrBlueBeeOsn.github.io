@@ -73,15 +73,17 @@ export default function PronunciationIndex(): React.JSX.Element {
 
             <li>
               <div className="li-content">
-                <Link to="/pronunciation/unstressed-words">Unstressed Words</Link>
+                <Link to="/pronunciation/5-vowel-system">5 Vowel System</Link>
               </div>
             </li>
 
             <li>
               <div className="li-content">
-                <Link to="/pronunciation/5-vowel-system">5 Vowel System</Link>
+                <Link to="/pronunciation/unstressed-words">Unstressed Words</Link>
               </div>
             </li>
+
+            
 
             
           </ul>

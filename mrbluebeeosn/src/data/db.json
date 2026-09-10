@@ -529,6 +529,17 @@
       "likes": 0
     },
     {
+      "id": "VerbAndObject",
+      "categoryDisplay": "Grammar",
+      "categorySlug": "grammar",
+      "title": "Verb And Object",
+      "content": "How V and O (Object) both collapse into What",
+      "slug": "grammar/verb-and-object",
+      "date": "2026-09-10",
+      "views": 0,
+      "likes": 0
+    },
+    {
       "id": "Pronunciation",
       "categoryDisplay": "Pronunciation",
       "categorySlug": "pronunciation",
